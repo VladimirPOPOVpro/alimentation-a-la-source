@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-25 fiches sur 53 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+29 fiches sur 58 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -41,8 +41,12 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Marché provençal de Draguignan** (la fiche Apidae de l'office de tourisme donne mercredi et samedi 7h-12h30, mais la page « marchés provençaux » du même office ajoute le jeudi, sans horaires ni lieu)
 - **Le Potager des Salles** (le site du domaine annonce le mercredi de 16h à 19h d'avril à novembre, l'annuaire Bienvenue à la Ferme le mercredi de 16h30 à 19h30 sans saison ; ce sont les horaires du site qui figurent dans la fiche)
 - **Domaine du Dragon** (ouvert du lundi au samedi selon la Route des Vins du Sud, qui précise « horaires 2026 non communiqués » ; le site du domaine n'en publie pas non plus)
+- **Marché provençal de Lorgues** (la fiche Apidae le situe « place Trussy », un nom que la Base Adresse Nationale ne connaît pas ; ses coordonnées tombent au 8 cours de la République, à 32 m, et c'est le cours que retiennent l'office de tourisme et la fiche)
+- **Marché des producteurs de pays de Lorgues** (Bienvenue à la Ferme annonce la saison « du 8 mai au 23 octobre » sans préciser l'année ; ces deux dates sont bien des vendredis en 2026, mais aussi en 2020, et l'office de tourisme se contente de « de mai à octobre »)
+- **Le Moulin de Lorgues** (aucune source officielle ne publie d'horaires ; ceux de la fiche viennent d'un site local d'histoire non daté, lorgues.info, qui décrit une ouverture du 15 novembre au 15 janvier puis une vente le mardi et le samedi matin)
+- **Le Grain dans le Bocal** (la fiche touristique porte « horaires non définis » et date de 2021 ; les horaires publiés sont ceux du dépliant du magasin scanné par l'office de tourisme, non daté)
 
-Les 53 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 58 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -82,6 +86,19 @@ est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
   viennent que d'annuaires. C'est aussi une coopérative réservée à ses membres.
 - **Domaine du Clos d'Aure** (412 voie Georges Pompidou) : producteur d'olives
   actif au registre, sans aucune présence web ni fiche d'office de tourisme.
+
+### Pistes non publiées à Lorgues
+
+- **Lei Cabrettes Lorguaises / Chèvrerie Tissot** (3176 chemin des Pailles) : la fiche
+  Bienvenue à la Ferme est en ligne et détaillée, mais la seule entité du registre des
+  entreprises à cette adresse est cessée (0 établissement ouvert, état « C ») et aucune
+  autre exploitation caprine active n'apparaît à Lorgues. Contradiction non tranchée :
+  rien n'a été publié.
+- **Oliveraie des Aumèdes** (807 chemin des Pailles) : active au registre et présente sur
+  Bienvenue à la Ferme, mais uniquement sur rendez-vous et avec un dernier avis de 2018.
+  Écartée cette fois au profit de la variété des catégories, à reprendre dans une passe
+  suivante. Ne pas la confondre avec le **Domaine des Aumèdes** (297 chemin des Pailles),
+  qui est une entité distincte.
 
 ### Note sur le Château Saint-Esprit : numéro de voirie
 

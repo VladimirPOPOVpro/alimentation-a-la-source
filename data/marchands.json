@@ -1263,5 +1263,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Dragon+Draguignan",
     "image_url": "/images/marchands/domaine-du-dragon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-lorgues",
+    "nom": "Marché provençal de Lorgues",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.493374,
+    "lon": 6.359165,
+    "adresse": "Cours de la République, 83510 Lorgues",
+    "horaires": "Mardi, 7h30 à 13h, toute l'année (horaires publiés par l'office de tourisme intercommunal). Le marché du vendredi matin signalé en saison est le marché des producteurs de pays, de mai à octobre",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Traiteur",
+      "Pâtes fraîches",
+      "Café torréfié",
+      "Épicerie fine"
+    ],
+    "description": "Marché du mardi matin installé sous les platanes du cours de la République, sur toute la longueur du cours : primeurs, bouchers-charcutiers, traiteurs, torréfacteurs et épiceries fines.",
+    "telephone": "04 94 85 92 92",
+    "site_web": "https://tourisme.dracenie.com/les-marches-provencaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Lorgues+Cours+de+la+République",
+    "image_url": "/images/marchands/marche-provencal-lorgues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-lorgues",
+    "nom": "Marché des producteurs de pays de Lorgues",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.493132,
+    "lon": 6.359587,
+    "adresse": "Cours de la République, 83510 Lorgues",
+    "horaires": "Vendredi, 8h à 13h, de mai à octobre. Bienvenue à la Ferme annonce la saison du 8 mai au 23 octobre sans en préciser l'année : vérifier les dates avant de se déplacer en début ou en fin de saison",
+    "produits": [
+      "Fromages de chèvre",
+      "Huile d'olive",
+      "Fruits et légumes",
+      "Miel",
+      "Volailles et œufs",
+      "Confitures et fruits confits",
+      "Vin",
+      "Truffes"
+    ],
+    "description": "Marché du réseau « Marchés des Producteurs de Pays » des chambres d'agriculture : seuls des producteurs y vendent, en direct, ce qu'ils élèvent, cultivent ou transforment. Il se tient le vendredi matin sur le cours, à la belle saison.",
+    "site_web": "https://www.bienvenue-a-la-ferme.com/fr/provence-alpes-cote-d-azur/var/lorgues/marche/marche-des-producteurs-de-pays-de-lorgues/247",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+de+la+République+Lorgues",
+    "image_url": "/images/marchands/marche-des-producteurs-lorgues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "rucher-de-l-encantadou",
+    "nom": "Rucher de l'Encantadou",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.482622,
+    "lon": 6.345879,
+    "adresse": "617 chemin de Bélinarde, 83510 Lorgues",
+    "horaires": "Toute l'année, tous les jours sur rendez-vous",
+    "produits": [
+      "Miel de Provence IGP",
+      "Miels crémeux non pasteurisés",
+      "Miel Label Rouge",
+      "Pollen",
+      "Reines et essaims"
+    ],
+    "description": "Exploitation apicole familiale certifiée Agriculture biologique, Label Rouge et IGP Miel de Provence. Élevage de reines et d'essaims sur place, extraction du miel à froid et miels crémeux non pasteurisés ; vente et dégustation à la miellerie, sur rendez-vous.",
+    "telephone": "06 71 84 37 89",
+    "site_web": "https://www.visitvar.fr/fiche/rucher-de-lencantadou-lorgues-6138001/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rucher+de+l'Encantadou+Lorgues",
+    "image_url": "/images/marchands/rucher-de-l-encantadou.jpg"
+  },
+  {
+    "slug": "le-moulin-de-lorgues",
+    "nom": "Le Moulin de Lorgues",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.492124,
+    "lon": 6.364819,
+    "adresse": "12 avenue des Quatre Pierres, 83510 Lorgues",
+    "horaires": "Ni le moulin ni l'office de tourisme ne publient d'horaires. Un site local d'histoire, non daté, indique une ouverture du 15 novembre au 15 janvier pendant la trituration, puis une vente d'huile le mardi matin (jour de marché) et le samedi matin de début juin à mi-septembre : à confirmer au 04 94 73 70 59 avant de se déplacer",
+    "produits": [
+      "Huile d'olive",
+      "Olives",
+      "Trituration des olives"
+    ],
+    "description": "Coopérative oléicole héritière du moulin de La Lorguaise, seul moulin encore en activité à Lorgues : il associe une presse artisanale à un broyeur-malaxeur moderne et triture environ 60 tonnes d'olives par an. Une boutique assure la dégustation et la vente d'huile.",
+    "telephone": "04 94 73 70 59",
+    "site_web": "https://www.provence-alpes-cotedazur.com/preparer/degustation/producteurs-locaux/moulin-de-lorgues-fr-2885010/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+de+Lorgues+Avenue+des+Quatre+Pierres",
+    "image_url": "/images/marchands/le-moulin-de-lorgues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-grain-dans-le-bocal",
+    "nom": "Le Grain dans le Bocal",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.493821,
+    "lon": 6.356686,
+    "adresse": "8 chemin de l'Étang, 83510 Lorgues",
+    "horaires": "Mardi à samedi, 9h à 12h30 et 15h à 19h, d'après le dépliant du magasin diffusé par l'office de tourisme ; la fiche touristique elle-même ne publie pas d'horaires, à confirmer au 04 98 17 19 26",
+    "produits": [
+      "Épicerie sèche en vrac",
+      "Fruits et légumes bio",
+      "Miel",
+      "Bières",
+      "Vins",
+      "Cosmétiques et hygiène",
+      "Produits d'entretien"
+    ],
+    "description": "Épicerie biologique entièrement en vrac, approvisionnée auprès de producteurs locaux, de l'épicerie sèche aux cosmétiques et aux produits d'entretien. Des contenants réutilisables sont proposés sur place pour ceux qui viennent sans les leurs.",
+    "telephone": "04 98 17 19 26",
+    "site_web": "https://www.provence-alpes-cotedazur.com/preparer/shopping/commerce-alimentaire/le-grain-dans-le-bocal-fr-3041765/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Grain+dans+le+Bocal+Lorgues",
+    "image_url": "/images/marchands/le-grain-dans-le-bocal.jpg",
+    "a_confirmer": true
   }
 ]
