@@ -4,7 +4,9 @@ import { useMemo, useState } from "react";
 import dynamic from "next/dynamic";
 import { Loader2 } from "lucide-react";
 import type { MerchantWithDistance } from "@/lib/merchants";
+import type { MerchantCategory } from "@/lib/types";
 import MerchantListItem from "../MerchantListItem";
+import CategoryFilter from "./CategoryFilter";
 
 const MapView = dynamic(() => import("./MapView"), {
   ssr: false,
@@ -15,6 +17,14 @@ const MapView = dynamic(() => import("./MapView"), {
   ),
 });
 
+const ALL_CATEGORIES: MerchantCategory[] = [
+  "ferme",
+  "marche",
+  "magasin-bio",
+  "amap",
+  "producteur",
+];
+
 export default function CarteExplorer({
   allMerchants,
 }: {
@@ -22,15 +32,36 @@ export default function CarteExplorer({
 }) {
   const [radiusKm, setRadiusKm] = useState(15);
   const [hoveredSlug, setHoveredSlug] = useState<string | null>(null);
+  const [activeCategories, setActiveCategories] = useState<
+    Set<MerchantCategory>
+  >(new Set(ALL_CATEGORIES));
+
+  const toggleCategory = (category: MerchantCategory) => {
+    setActiveCategories((prev) => {
+      const next = new Set(prev);
+      if (next.has(category)) {
+        next.delete(category);
+      } else {
+        next.add(category);
+      }
+      // Never allow an empty selection: an empty filter reads as "show
+      // nothing", which is confusing next to a map that's supposed to
+      // help you find something. Re-select everything instead.
+      return next.size === 0 ? new Set(ALL_CATEGORIES) : next;
+    });
+  };
 
   const visibleMerchants = useMemo(
-    () => allMerchants.filter((m) => m.distanceKm <= radiusKm),
-    [allMerchants, radiusKm]
+    () =>
+      allMerchants.filter(
+        (m) => m.distanceKm <= radiusKm && activeCategories.has(m.categorie)
+      ),
+    [allMerchants, radiusKm, activeCategories]
   );
 
   return (
     <div className="flex flex-1 flex-col gap-3 p-3 lg:flex-row lg:gap-6 lg:p-6">
-      <div className="order-1 h-[64dvh] min-h-[380px] w-full overflow-hidden rounded-xl border border-brand-green-light shadow-sm lg:order-2 lg:h-auto lg:flex-1">
+      <div className="order-1 h-[62dvh] min-h-[360px] w-full overflow-hidden rounded-xl border border-brand-green-light shadow-sm lg:order-2 lg:h-auto lg:flex-1">
         <MapView
           merchants={visibleMerchants}
           radiusKm={radiusKm}
@@ -62,13 +93,15 @@ export default function CarteExplorer({
           />
         </div>
 
+        <CategoryFilter active={activeCategories} onToggle={toggleCategory} />
+
         <p className="text-xs text-foreground/60 lg:text-sm">
           {visibleMerchants.length} marchand
           {visibleMerchants.length > 1 ? "s" : ""} dans ce rayon, trié
           {visibleMerchants.length > 1 ? "s" : ""} par distance.
         </p>
 
-        <ul className="flex max-h-[70vh] flex-col gap-2 overflow-y-auto pr-1 lg:max-h-[calc(100vh-260px)]">
+        <ul className="flex max-h-[70vh] flex-col gap-2 overflow-y-auto pr-1 lg:max-h-[calc(100vh-320px)]">
           {visibleMerchants.map((m) => (
             <MerchantListItem
               key={m.slug}
@@ -79,7 +112,8 @@ export default function CarteExplorer({
           ))}
           {visibleMerchants.length === 0 && (
             <li className="rounded-xl border border-dashed border-brand-green-light p-4 text-center text-sm text-foreground/50">
-              Aucun marchand dans ce rayon. Essayez de l&apos;élargir.
+              Aucun marchand dans ce rayon pour ces catégories. Essayez
+              d&apos;élargir le rayon ou d&apos;activer plus de catégories.
             </li>
           )}
         </ul>

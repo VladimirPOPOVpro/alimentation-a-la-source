@@ -12,18 +12,26 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-6 fiches sur 12 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+14 fiches sur 30 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
 - **Domaine de la Bouverie** (horaires à préciser)
 - **Les Fermes Jourdan** (horaires et téléphone à trouver)
-- **Le Rucher des Myrtes** (adresse précise à trouver, nom du producteur à confirmer)
+- **Le Rucher des Myrtes** (nom du producteur à confirmer)
 - **AMAP Fréjus** (plusieurs AMAP existent sur le secteur, point de distribution à confirmer)
+- **Cueillette du Rocher** (horaires à préciser)
+- **La Gaudine** (horaires à préciser)
+- **Plein Cagnard** (horaires à préciser)
+- **Domaine Réal Saint-Jean** (horaires à préciser)
+- **Domaine De La Vernède** (horaires à préciser)
+- **Les Comptoirs de la Bio - Saint-Raphaël** (horaires à préciser)
+- **Diététique Leblanc** (horaires à préciser)
+- **La Ruche qui dit Oui ! - Fréjus** (point de retrait et horaires de permanence à confirmer)
 
-9 marchands sur 13 ont une vraie photo (trouvée sur leur site officiel ou celui de l'office de tourisme, stockée dans `public/images/marchands/`). Les 4 restants (Domaine de la Bouverie, Les Fermes Jourdan, Le Rucher des Myrtes, AMAP Fréjus) utilisent encore des photos Unsplash génériques, à remplacer par de vraies photos (voir ci-dessous).
+Les 30 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
-Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue").
+Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"), et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP ou producteurs.
 
 ## Comment ajouter ou modifier un marchand
 

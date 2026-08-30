@@ -3,12 +3,20 @@
     "slug": "marche-victor-hugo",
     "nom": "Marché Victor Hugo",
     "categorie": "marche",
-    "piliers": ["alimentation", "economie", "social"],
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
     "lat": 43.425021,
     "lon": 6.767787,
     "adresse": "Place Victor Hugo, 83700 Saint-Raphaël",
     "horaires": "Tous les matins, 7h à 13h, sauf le lundi (alimentaire et fleurs) ; tous les jeudis, 7h à 13h (produits manufacturés)",
-    "produits": ["Fruits et légumes", "Fleurs", "Produits de producteurs locaux"],
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs",
+      "Produits de producteurs locaux"
+    ],
     "description": "Marché couvert au cœur de Saint-Raphaël, dans une halle depuis 2016, l'un des marchés historiques de la ville, mêlant producteurs et commerçants.",
     "site_web": "https://www.ville-saintraphael.fr/utile/economie/commerce-et-artisanat/les-marches",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Victor+Hugo+Saint-Raphaël",
@@ -18,12 +26,20 @@
     "slug": "marche-republique",
     "nom": "Marché République",
     "categorie": "marche",
-    "piliers": ["alimentation", "economie", "social"],
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
     "lat": 43.425322,
     "lon": 6.769745,
     "adresse": "Place de la République, Vieux Port, 83700 Saint-Raphaël",
     "horaires": "Tous les matins, 7h à 13h (fermé le lundi d'octobre à juin)",
-    "produits": ["Fruits et légumes", "Fleurs", "Produits de producteurs locaux"],
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs",
+      "Produits de producteurs locaux"
+    ],
     "description": "Marché du Vieux Port de Saint-Raphaël, à deux pas du marché aux poissons, organisé par la commune toute l'année.",
     "site_web": "https://www.ville-saintraphael.fr/utile/economie/commerce-et-artisanat/les-marches",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+République+Saint-Raphaël",
@@ -33,12 +49,20 @@
     "slug": "marche-boulouris",
     "nom": "Marché de Boulouris",
     "categorie": "marche",
-    "piliers": ["alimentation", "economie", "social"],
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
     "lat": 43.416612,
     "lon": 6.807634,
     "adresse": "Esplanade Saint-Jean, Boulouris, 83700 Saint-Raphaël",
     "horaires": "Tous les lundis matin, 7h à 13h toute l'année (+ jeudis en juillet et août)",
-    "produits": ["Fruits et légumes de saison", "Huile d'olive", "Lavande et herbes de Provence"],
+    "produits": [
+      "Fruits et légumes de saison",
+      "Huile d'olive",
+      "Lavande et herbes de Provence"
+    ],
     "description": "Le plus grand marché de Saint-Raphaël avec plus de 60 étals, réputé pour la qualité de ses producteurs locaux.",
     "site_web": "https://www.esterel-cotedazur.com/en/cards/boulouris-market/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Boulouris+Saint-Raphaël",
@@ -48,12 +72,19 @@
     "slug": "marche-agay",
     "nom": "Marché d'Agay",
     "categorie": "marche",
-    "piliers": ["alimentation", "social"],
+    "piliers": [
+      "alimentation",
+      "social"
+    ],
     "lat": 43.434309,
     "lon": 6.863034,
     "adresse": "Place Gianetti, Agay, 83530 Saint-Raphaël",
     "horaires": "Tous les mercredis matin, 7h à 13h toute l'année ; marché nocturne l'été (juillet-août, boulevard de la Plage)",
-    "produits": ["Fruits et légumes", "Charcuterie", "Produits provençaux"],
+    "produits": [
+      "Fruits et légumes",
+      "Charcuterie",
+      "Produits provençaux"
+    ],
     "description": "Marché provençal traditionnel du quartier balnéaire d'Agay, apprécié des habitants comme des visiteurs.",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+d'Agay+Saint-Raphaël",
     "image_url": "/images/marchands/marche-agay.jpg"
@@ -62,12 +93,21 @@
     "slug": "marche-provencal-frejus",
     "nom": "Marché provençal de Fréjus",
     "categorie": "marche",
-    "piliers": ["alimentation", "economie", "social"],
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
     "lat": 43.432922,
     "lon": 6.736646,
     "adresse": "Place Formigé, centre historique, 83600 Fréjus",
     "horaires": "Mercredi et samedi, matinée (horaires exacts à confirmer)",
-    "produits": ["Fruits et légumes", "Poissons", "Fromages", "Fleurs et plantes"],
+    "produits": [
+      "Fruits et légumes",
+      "Poissons",
+      "Fromages",
+      "Fleurs et plantes"
+    ],
     "description": "Marché historique du centre-ville de Fréjus, l'un des rendez-vous incontournables des habitants du secteur.",
     "site_web": "https://www.frejus.fr/agenda/marches/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Place+Formigé+Fréjus",
@@ -78,12 +118,24 @@
     "slug": "marche-producteurs-vallee-rose",
     "nom": "Marché des producteurs de la Vallée Rose",
     "categorie": "marche",
-    "piliers": ["alimentation", "economie", "transport"],
+    "piliers": [
+      "alimentation",
+      "economie",
+      "transport"
+    ],
     "lat": 43.448801,
     "lon": 6.734459,
     "adresse": "1537 Rue de Montourey, 83600 Fréjus",
     "horaires": "Mardi à samedi, 8h à 12h30 (+ vendredi après-midi, horaires à confirmer)",
-    "produits": ["Fruits et légumes", "Viandes locales", "Poissons de pêcheurs", "Fromages", "Vin", "Miel", "Pain bio"],
+    "produits": [
+      "Fruits et légumes",
+      "Viandes locales",
+      "Poissons de pêcheurs",
+      "Fromages",
+      "Vin",
+      "Miel",
+      "Pain bio"
+    ],
     "description": "Marché coopératif réunissant des producteurs de toute la région PACA sur le domaine Meneganti, à moins de 2 km de l'hôpital.",
     "site_web": "https://www.frejus.fr/commerce-service/marche-des-producteurs-de-la-vallee-rose/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+producteurs+Vallée+Rose+Fréjus",
@@ -94,12 +146,19 @@
     "slug": "marcel-et-fils-bio",
     "nom": "Marcel & Fils Bio",
     "categorie": "magasin-bio",
-    "piliers": ["alimentation", "environnement"],
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
     "lat": 43.427688,
     "lon": 6.789703,
     "adresse": "1254 Boulevard Jean Moulin, 83700 Saint-Raphaël",
     "horaires": "Lundi à samedi, 9h à 19h30 (fermé le dimanche)",
-    "produits": ["Épicerie bio", "Fruits et légumes", "Produits de petits producteurs locaux"],
+    "produits": [
+      "Épicerie bio",
+      "Fruits et légumes",
+      "Produits de petits producteurs locaux"
+    ],
     "description": "Épicerie bio indépendante du centre-ville de Saint-Raphaël, en activité depuis une douzaine d'années, avec une forte traçabilité de ses fournisseurs.",
     "telephone": "04 94 53 02 00",
     "site_web": "https://marceletfils.com/pages/saint-raphael",
@@ -110,12 +169,21 @@
     "slug": "moulin-a-huile-le-magali",
     "nom": "Le Magali, Moulin à Huile",
     "categorie": "producteur",
-    "piliers": ["alimentation", "environnement", "economie"],
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
     "lat": 43.455074,
     "lon": 6.715239,
     "adresse": "1244 Rue du Malbousquet, 83600 Fréjus",
     "horaires": "Lundi à samedi, 14h à 18h, toute l'année sauf jours fériés",
-    "produits": ["Huile d'olive", "Tapenades", "Crème d'olives", "Produits artisanaux provençaux"],
+    "produits": [
+      "Huile d'olive",
+      "Tapenades",
+      "Crème d'olives",
+      "Produits artisanaux provençaux"
+    ],
     "description": "Dernier moulin à huile encore en activité à Fréjus, avec une oliveraie de 2500 oliviers. Dégustation gratuite, visites sur rendez-vous.",
     "telephone": "04 94 40 85 33",
     "site_web": "https://www.frejus.fr/decouvrir/produits-du-terroir/moulin-a-huile-de-magali/",
@@ -126,12 +194,25 @@
     "slug": "la-grande-bastide",
     "nom": "La Grande Bastide",
     "categorie": "ferme",
-    "piliers": ["alimentation", "economie", "social"],
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
     "lat": 43.414879,
     "lon": 6.684413,
     "adresse": "Quartier la Rouvière, 160 Route du Golf, 83520 Roquebrune-sur-Argens",
     "horaires": "Mardi à vendredi 9h-12h30 et 15h-18h30 ; samedi 9h-18h ; fermé lundi et dimanche",
-    "produits": ["Fruits et légumes", "Laitages", "Volailles", "Œufs", "Huile d'olive", "Vins", "Miel", "Confitures"],
+    "produits": [
+      "Fruits et légumes",
+      "Laitages",
+      "Volailles",
+      "Œufs",
+      "Huile d'olive",
+      "Vins",
+      "Miel",
+      "Confitures"
+    ],
     "description": "Point de vente collectif créé en 2009 par une trentaine de producteurs locaux, avec dégustations gratuites et visites de cave.",
     "telephone": "06 01 17 66 13",
     "site_web": "https://www.producteurs-grandebastide.fr/",
@@ -142,12 +223,17 @@
     "slug": "domaine-de-la-bouverie",
     "nom": "Domaine de la Bouverie",
     "categorie": "producteur",
-    "piliers": ["environnement", "economie"],
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
     "lat": 43.5138,
     "lon": 6.6382,
     "adresse": "1577 Avenue des Grands Pins Parasols, 83520 Roquebrune-sur-Argens",
     "horaires": "Dégustations sur place, contacter par téléphone",
-    "produits": ["Vin AOP Côtes de Provence rosé, blanc et rouge"],
+    "produits": [
+      "Vin AOP Côtes de Provence rosé, blanc et rouge"
+    ],
     "description": "Domaine viticole familial en activité depuis 30 ans, aux portes de l'Estérel, avec vente directe et dégustations sur 30 hectares de vignoble.",
     "telephone": "04 94 44 00 81",
     "site_web": "https://www.domainedelabouverie.com/",
@@ -159,12 +245,19 @@
     "slug": "les-fermes-jourdan",
     "nom": "Les Fermes Jourdan",
     "categorie": "ferme",
-    "piliers": ["alimentation", "transport"],
+    "piliers": [
+      "alimentation",
+      "transport"
+    ],
     "lat": 43.466991,
     "lon": 6.691469,
     "adresse": "2281 Boulevard Général Leclerc, 83480 Puget-sur-Argens",
     "horaires": "À confirmer",
-    "produits": ["Fruits et légumes de saison", "Volailles", "Viande bovine"],
+    "produits": [
+      "Fruits et légumes de saison",
+      "Volailles",
+      "Viande bovine"
+    ],
     "description": "Exploitation familiale avec stand de vente directe à la ferme, proposant aussi des visites guidées pour petits et grands.",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Fermes+Jourdan+Puget-sur-Argens",
     "image_url": "/images/marchands/les-fermes-jourdan.jpg",
@@ -174,15 +267,22 @@
     "slug": "le-rucher-des-myrtes",
     "nom": "Le Rucher des Myrtes",
     "categorie": "producteur",
-    "piliers": ["environnement", "alimentation"],
-    "lat": 43.4331,
-    "lon": 6.7684,
-    "adresse": "Secteur des Myrtes / Notre-Dame, 83700 Saint-Raphaël (adresse précise à confirmer)",
+    "piliers": [
+      "environnement",
+      "alimentation"
+    ],
+    "lat": 43.418087,
+    "lon": 6.780392,
+    "adresse": "196 Avenue du Parc des Myrtes, 83700 Saint-Raphaël",
     "horaires": "Vente sur place et sur rendez-vous téléphonique",
-    "produits": ["Miel multifleurs", "Miel en rayon", "Pollen"],
+    "produits": [
+      "Miel multifleurs",
+      "Miel en rayon",
+      "Pollen"
+    ],
     "description": "Apiculteur indépendant depuis 2008, abeilles noires locales, ne commercialise que sa propre production. Fiche à compléter avec la mère de Vladimir.",
     "telephone": "06 95 29 27 71",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Apiculteur+Saint-Raphaël",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=196+Avenue+du+Parc+des+Myrtes+Saint-Raphaël",
     "image_url": "/images/marchands/le-rucher-des-myrtes.jpg",
     "a_confirmer": true
   },
@@ -190,16 +290,406 @@
     "slug": "amap-frejus",
     "nom": "AMAP Fréjus",
     "categorie": "amap",
-    "piliers": ["social", "economie", "alimentation"],
+    "piliers": [
+      "social",
+      "economie",
+      "alimentation"
+    ],
     "lat": 43.4332,
-    "lon": 6.7370,
+    "lon": 6.737,
     "adresse": "Fréjus, 83600 (point de distribution à confirmer)",
     "horaires": "À confirmer",
-    "produits": ["Panier de légumes et fruits de saison par abonnement"],
+    "produits": [
+      "Panier de légumes et fruits de saison par abonnement"
+    ],
     "description": "Association pour le maintien d'une agriculture paysanne active sur le secteur de Fréjus. Fiche à finaliser : plusieurs structures existent localement, à vérifier laquelle est la plus active.",
     "telephone": "04 94 52 95 83",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAP+Fréjus",
     "image_url": "/images/marchands/amap-frejus.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-du-rocher",
+    "nom": "Cueillette du Rocher",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social"
+    ],
+    "lat": 43.442243,
+    "lon": 6.650204,
+    "adresse": "3019 Route Départementale 7, Iscles de la Garonne, 83520 Roquebrune-sur-Argens",
+    "horaires": "Variable selon saison : avril-juin et septembre-octobre, vendredi et week-ends 9h30-12h30 et 15h30-19h ; juillet-août, tous les jours 8h30-12h30 et 16h30-19h (à reconfirmer chaque saison)",
+    "produits": [
+      "Fruits et légumes en cueillette libre-service",
+      "Fromage de chèvre"
+    ],
+    "description": "Premier site de cueillette libre-service de la région, labellisé Bienvenue à la Ferme, au pied du Rocher de Roquebrune. On cueille soi-même ses fruits et légumes en famille.",
+    "telephone": "04 94 45 57 90",
+    "site_web": "https://www.fermedurocher.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette+du+Rocher+Roquebrune-sur-Argens",
+    "image_url": "/images/marchands/cueillette-du-rocher.webp",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-gaudine",
+    "nom": "La Gaudine",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.432083,
+    "lon": 6.716675,
+    "adresse": "525 Chemin de la Gaudine, 83600 Fréjus",
+    "horaires": "Tous les jours, 9h à 19h en continu",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Pain",
+      "Poulet fermier rôti",
+      "Paniers bio"
+    ],
+    "description": "Ferme familiale bio tenue par Florin et son épouse, vente directe à la ferme et paniers hebdomadaires à partir de 17 euros.",
+    "telephone": "06 50 45 75 02",
+    "site_web": "https://www.lagaudine.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Gaudine+Fréjus",
+    "image_url": "/images/marchands/la-gaudine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "plein-cagnard",
+    "nom": "Plein Cagnard",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "alimentation"
+    ],
+    "lat": 43.472358,
+    "lon": 6.635892,
+    "adresse": "Route de Marchandise, 83520 Roquebrune-sur-Argens",
+    "horaires": "À confirmer (micro-ferme en développement, précommandes conseillées)",
+    "produits": [
+      "Fruits et légumes",
+      "Plantes aromatiques méditerranéennes",
+      "Produits transformés ou séchés"
+    ],
+    "description": "Micro-ferme en permaculture depuis plus de 10 ans, dans le respect des saisons. Produits aussi disponibles à la Maison du Terroir et à La Grande Bastide.",
+    "telephone": "06 40 46 78 30",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Plein+Cagnard+Roquebrune-sur-Argens",
+    "image_url": "/images/marchands/plein-cagnard.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "spirulinazur",
+    "nom": "EARL Spirulin'Azur",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.431814,
+    "lon": 6.66561,
+    "adresse": "4778 Route Départementale 7, 83520 Roquebrune-sur-Argens",
+    "horaires": "Mai à octobre (période de production), lundi à vendredi, 8h à 12h",
+    "produits": [
+      "Spiruline artisanale en paillettes",
+      "Spiruline en comprimés"
+    ],
+    "description": "Producteur de spiruline artisanale française, 300 m² de bassins sous serre horticole. Vente directe, visite de ferme, livraison possible.",
+    "telephone": "06 66 01 46 96",
+    "site_web": "https://www.spirulinazur.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spirulin'Azur+Roquebrune-sur-Argens",
+    "image_url": "/images/marchands/spirulinazur.jpg"
+  },
+  {
+    "slug": "domaine-des-escaravatiers",
+    "nom": "Domaine des Escaravatiers",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.451524,
+    "lon": 6.690331,
+    "adresse": "Quartier la Tuilière, Route Nationale 7, 83480 Puget-sur-Argens",
+    "horaires": "Septembre à mai : mardi-samedi 10h-12h30 et 14h-18h ; juin à début septembre : lundi-samedi 10h-12h30 et 13h30-19h",
+    "produits": [
+      "Vins AOP Côtes de Provence",
+      "Vins IGP Var"
+    ],
+    "description": "Vignoble familial de 30 hectares au cœur de l'Estérel, présent depuis 1927, cultivé en agriculture biologique et Haute Valeur Environnementale.",
+    "telephone": "04 94 19 88 22",
+    "site_web": "https://www.escaravatiers.com/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Escaravatiers+Puget-sur-Argens",
+    "image_url": "/images/marchands/domaine-escaravatiers.jpg"
+  },
+  {
+    "slug": "chateau-de-cabran",
+    "nom": "Château de Cabran",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.474808,
+    "lon": 6.696145,
+    "adresse": "Chemin de Cabran, 83480 Puget-sur-Argens",
+    "horaires": "Toute l'année, lundi-samedi 10h-12h et 14h-19h (variable selon saison)",
+    "produits": [
+      "Vin rosé AOP Côtes de Provence et Fréjus",
+      "Vin blanc",
+      "Vin rouge"
+    ],
+    "description": "Domaine familial bio et Haute Valeur Environnementale aux portes de Fréjus, dégustation gratuite et vente à la cave.",
+    "telephone": "04 94 40 80 32",
+    "site_web": "https://chateaudecabran.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+de+Cabran+Puget-sur-Argens",
+    "image_url": "/images/marchands/chateau-de-cabran.webp"
+  },
+  {
+    "slug": "domaine-real-saint-jean",
+    "nom": "Domaine Réal Saint-Jean",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.464705,
+    "lon": 6.706097,
+    "adresse": "Chemin de Claviers, 83480 Puget-sur-Argens",
+    "horaires": "À confirmer directement (visites et dégustations gratuites annoncées)",
+    "produits": [
+      "Vin bio"
+    ],
+    "description": "Domaine viticole cultivé depuis près de 20 ans en agriculture biologique, nouvelle cave ouverte aux visiteurs, vente à la propriété.",
+    "telephone": "06 11 07 11 15",
+    "site_web": "https://www.domainerealsaintjean.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Réal+Saint-Jean+Puget-sur-Argens",
+    "image_url": "/images/marchands/domaine-real-saint-jean.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-vernede",
+    "nom": "Domaine De La Vernède",
+    "categorie": "producteur",
+    "piliers": [
+      "economie",
+      "alimentation"
+    ],
+    "lat": 43.452795,
+    "lon": 6.705353,
+    "adresse": "680 Chemin du Jas Neuf, 83480 Puget-sur-Argens",
+    "horaires": "À confirmer directement",
+    "produits": [
+      "Vin (producteur récoltant, vente directe)"
+    ],
+    "description": "Domaine viticole familial à Puget-sur-Argens, vente directe à la propriété.",
+    "telephone": "04 94 53 97 21",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+De+La+Vernède+Puget-sur-Argens",
+    "image_url": "/images/marchands/domaine-de-la-vernede.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "comptoirs-bio-frejus",
+    "nom": "Les Comptoirs de la Bio - Fréjus",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.47293,
+    "lon": 6.740228,
+    "adresse": "1944 Avenue Jean Lachenaud, Pôle Capitou Sud, 83600 Fréjus",
+    "horaires": "Lundi à samedi, 9h à 20h ; dimanche, 9h à 13h",
+    "produits": [
+      "Épicerie bio",
+      "Fruits et légumes",
+      "Produits locaux et de saison"
+    ],
+    "description": "Magasin indépendant bio avec un accent sur les produits locaux, aussi présent à Saint-Raphaël.",
+    "site_web": "https://magasins.lescomptoirsdelabio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Comptoirs+de+la+Bio+Fréjus",
+    "image_url": "/images/marchands/comptoirs-bio-frejus.jpg"
+  },
+  {
+    "slug": "comptoirs-bio-saint-raphael",
+    "nom": "Les Comptoirs de la Bio - Saint-Raphaël",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.44047,
+    "lon": 6.781788,
+    "adresse": "Boulevard du Cerceron, 83700 Saint-Raphaël",
+    "horaires": "Lundi à samedi, 8h30 à 20h (fermé le dimanche)",
+    "produits": [
+      "Épicerie bio",
+      "Produits locaux"
+    ],
+    "description": "Deuxième point de vente de l'enseigne Les Comptoirs de la Bio dans le secteur.",
+    "site_web": "https://magasins.lescomptoirsdelabio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Comptoirs+de+la+Bio+Saint-Raphaël",
+    "image_url": "/images/marchands/comptoirs-bio-saint-raphael.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "dietetique-leblanc",
+    "nom": "Diététique Leblanc",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation"
+    ],
+    "lat": 43.425814,
+    "lon": 6.76866,
+    "adresse": "45 Rue Marius Allongue, 83700 Saint-Raphaël",
+    "horaires": "Lundi à samedi, environ 8h30-13h et 14h30-19h30 (horaires à reconfirmer)",
+    "produits": [
+      "Compléments alimentaires",
+      "Huiles essentielles",
+      "Produits diététiques et bio"
+    ],
+    "description": "Magasin bio et diététique historique de Saint-Raphaël, plus de 6000 références.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diététique+Leblanc+Saint-Raphaël",
+    "image_url": "/images/marchands/dietetique-leblanc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ruche-qui-dit-oui-frejus",
+    "nom": "La Ruche qui dit Oui ! - Fréjus",
+    "categorie": "amap",
+    "piliers": [
+      "social",
+      "economie",
+      "transport"
+    ],
+    "lat": 43.435994,
+    "lon": 6.760154,
+    "adresse": "1386 Avenue André Léotard, 83600 Fréjus",
+    "horaires": "Commande en ligne, retrait à date fixe hebdomadaire (jour exact à confirmer)",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Viande",
+      "Fromage",
+      "Pain (variable selon producteurs participants)"
+    ],
+    "description": "Point de retrait collectif de producteurs locaux : on commande en ligne puis on récupère ses produits lors d'une distribution groupée. Ce n'est pas une AMAP au sens strict (pas d'abonnement), mais un circuit court avec un point de retrait fixe et vérifiable, dans le même esprit.",
+    "telephone": "04 94 51 15 19",
+    "site_web": "https://laruchequiditoui.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1386+Avenue+André+Léotard+Fréjus",
+    "image_url": "/images/marchands/la-ruche-qui-dit-oui-frejus.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-issambres",
+    "nom": "Marché des producteurs des Issambres",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.341909,
+    "lon": 6.694353,
+    "adresse": "Place San Peïre, Les Issambres, 83380 Roquebrune-sur-Argens",
+    "horaires": "Mercredi, 8h à 13h, du 2 avril au 30 septembre (saisonnier)",
+    "produits": [
+      "Fruits et légumes",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Marché 100% producteurs dans le hameau côtier des Issambres, à distinguer du marché classique du lundi au même endroit.",
+    "site_web": "https://www.roquebrunesurargens-tourisme.fr/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+San+Peïre+Les+Issambres",
+    "image_url": "/images/marchands/marche-issambres.jpg"
+  },
+  {
+    "slug": "marche-roquebrune-village",
+    "nom": "Marché du Village de Roquebrune-sur-Argens",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.442476,
+    "lon": 6.636345,
+    "adresse": "Rue des Portiques et Place Perrin, village médiéval, 83520 Roquebrune-sur-Argens",
+    "horaires": "Vendredi, 8h à 13h, toute l'année",
+    "produits": [
+      "Produits alimentaires et non-alimentaires variés"
+    ],
+    "description": "Marché hebdomadaire dans les rues du village médiéval de Roquebrune-sur-Argens.",
+    "site_web": "https://www.roquebrunesurargens-tourisme.fr/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Roquebrune-sur-Argens",
+    "image_url": "/images/marchands/marche-roquebrune-village.jpg"
+  },
+  {
+    "slug": "marche-puget-sur-argens",
+    "nom": "Marché de Puget-sur-Argens",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.455914,
+    "lon": 6.682487,
+    "adresse": "Place de la Paix, 83480 Puget-sur-Argens",
+    "horaires": "Mercredi, 8h à 13h30",
+    "produits": [
+      "Fruits et légumes",
+      "Produits de producteurs locaux",
+      "Fleurs et plantes"
+    ],
+    "description": "Petit marché d'une dizaine d'exposants au centre de Puget-sur-Argens.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Paix+Puget-sur-Argens",
+    "image_url": "/images/marchands/marche-puget.jpg"
+  },
+  {
+    "slug": "marche-bagnols-en-foret",
+    "nom": "Marché de Bagnols-en-Forêt",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.536105,
+    "lon": 6.700553,
+    "adresse": "Boulevard du Rayol (mercredi) / devant la Mairie (samedi), 83600 Bagnols-en-Forêt",
+    "horaires": "Mercredi et samedi, 8h à 13h",
+    "produits": [
+      "Légumes frais",
+      "Miel local",
+      "Fromage régional",
+      "Artisanat"
+    ],
+    "description": "Marché de village dans l'arrière-pays, au cœur du massif de l'Estérel.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Bagnols-en-Forêt",
+    "image_url": "/images/marchands/marche-bagnols.jpg"
+  },
+  {
+    "slug": "marche-le-muy",
+    "nom": "Marché du Muy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.472736,
+    "lon": 6.567581,
+    "adresse": "Allée Victor Hugo, 83490 Le Muy",
+    "horaires": "Jeudi (environ 80 exposants) et dimanche (environ 150 exposants), 8h à 13h",
+    "produits": [
+      "Fruits et légumes",
+      "Produits variés"
+    ],
+    "description": "L'un des plus gros marchés du secteur, en amont des gorges du Verdon.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Muy",
+    "image_url": "/images/marchands/marche-le-muy.jpg"
   }
 ]
