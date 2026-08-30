@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-19 fiches sur 43 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+22 fiches sur 48 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -35,8 +35,11 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Oliveraie Domaine La Pierre Plantée** (l'office de tourisme signale lui-même ses horaires comme « non garantis » ; le numéro de voirie diverge aussi — « 610 route du Muy » côté office de tourisme, alors que la Base Adresse Nationale ne connaît pas ce numéro et place les coordonnées de la fiche vers le 1962)
 - **Marché provençal de Vidauban** (l'office de tourisme de la Dracénie mentionne un second petit marché le mercredi matin, sans horaires ni lieu)
 - **Les Maîtres Vignerons de Vidauban** (les seuls horaires publiés figurent sur une carte de contact du site qui porte encore l'adresse et le téléphone d'exemple du gabarit Wix : non retenus, à confirmer au 04 94 73 00 12)
+- **Marché provençal des Arcs-sur-Argens** (le jour, le jeudi, est confirmé par la mairie et par l'office de tourisme de la Dracénie, mais aucune des deux sources ne publie d'heure de début ni de fin)
+- **Château Maïme** (l'adresse « Quartier Maïme, DN 7 » n'a pas de numéro de voirie connu de la Base Adresse Nationale ; les coordonnées viennent de la base Apidae et tombent à 174 m du 1300 DN 7. Les horaires proviennent de la Route des Vins du Sud, le site officiel du domaine n'en publiant aucun)
+- **Domaine Valette** (une seule source descriptive, la fiche Apidae de la Route des Vins du Sud ; le domaine n'a pas de site officiel, seulement une page Facebook, qui n'a donc pas été inscrite)
 
-Les 43 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 48 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -56,6 +59,23 @@ viticole ouvert à la visite et à la vente directe. **Au registre des
 entreprises, l'établissement correspondant ne compte aucun établissement
 ouvert.** Aucune source indépendante et à jour (office de tourisme, site de la
 commune, site officiel du domaine) ne le référence. Il n'a donc pas été ajouté.
+
+### Piste non publiée : le Domaine Saint-Ange (Les Arcs-sur-Argens)
+
+Le registre des entreprises domicilie le Domaine Saint-Ange au **25 chemin de la
+Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
+annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
+différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
+est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Note sur le Château Sainte-Roseline : numéro de voirie
+
+Le domaine annonce le **1854 route de Sainte-Roseline**, mais la Base Adresse
+Nationale ne connaît qu'un seul numéro sur cette route, le 2733 — soit près de
+900 m plus loin dans une numérotation métrique. Les coordonnées de la fiche
+viennent de la base Apidae (deux jeux concordants à 30 m près) et tombent à une
+quarantaine de mètres de ce 2733, sur la D 91, à hauteur de la chapelle.
+L'adresse publiée reste celle du domaine.
 
 ### Note sur la Poissonnerie Santa Lucia
 

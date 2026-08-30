@@ -1011,5 +1011,131 @@
     "site_web": "https://www.domainedesferaud.com/fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Féraud+Vidauban",
     "image_url": "/images/marchands/domaine-des-feraud.jpg"
+  },
+  {
+    "slug": "marche-provencal-les-arcs",
+    "nom": "Marché provençal des Arcs-sur-Argens",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.463178,
+    "lon": 6.47887,
+    "adresse": "Place du Général de Gaulle et place de la Poste, 83460 Les Arcs-sur-Argens",
+    "horaires": "Le jeudi matin, toute l'année. Ni la commune ni l'office de tourisme ne publient d'heure de début et de fin : se renseigner en mairie au 04 94 47 56 70",
+    "produits": [
+      "Fruits et légumes",
+      "Produits du terroir provençal",
+      "Textile et bazar"
+    ],
+    "description": "Marché hebdomadaire du village, installé le jeudi matin sous les platanes de la place du Général de Gaulle et sur la place de la Poste, autour de la fontaine.",
+    "telephone": "04 94 47 56 70",
+    "site_web": "https://www.mairie-les-arcs-sur-argens.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+provençal+Les+Arcs+sur+Argens",
+    "image_url": "/images/marchands/marche-provencal-les-arcs.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cellier-des-archers",
+    "nom": "Cellier des Archers",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.447091,
+    "lon": 6.475438,
+    "adresse": "DN 7, rond-point du Pont d'Argens, quartier la Haute Cognasse, 83460 Les Arcs-sur-Argens",
+    "horaires": "Du lundi au samedi, 8h30-12h30 et 14h-18h30. Également le dimanche matin de 9h à 12h30 en juillet et en août, sauf le dernier dimanche d'août",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé, rouge et blanc",
+      "Vin IGP Var et vin de France",
+      "Vin en bag-in-box de 3 à 10 litres",
+      "Miel",
+      "Tapenade",
+      "Liqueurs",
+      "Paniers garnis"
+    ],
+    "description": "Cave coopérative du village fondée en 1923, qui rassemble les vignerons arcois et indique sur chaque bouteille la composition des sols, les cépages et l'assemblage. Le caveau vend aussi des produits du terroir.",
+    "telephone": "04 94 73 30 29",
+    "site_web": "https://www.cellierdesarchers.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cellier+des+Archers+Les+Arcs",
+    "image_url": "/images/marchands/cellier-des-archers.jpg"
+  },
+  {
+    "slug": "chateau-sainte-roseline",
+    "nom": "Château Sainte-Roseline",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.474656,
+    "lon": 6.513559,
+    "adresse": "1854 route de Sainte-Roseline, 83460 Les Arcs-sur-Argens",
+    "horaires": "Ouvert 7j/7. Du 13 avril au 27 septembre : lundi-vendredi 10h-19h, samedi, dimanche et jours fériés 10h-18h. Du 28 septembre au 1er novembre : lundi-vendredi 10h-13h et 14h-18h30, week-end et jours fériés 10h-13h et 14h-18h. Du 2 novembre au 1er mars : 10h-13h et 14h-18h. Du 2 mars au 12 avril : lundi-vendredi 10h-13h et 14h-18h30, week-end et jours fériés 10h-13h et 14h-18h. Fermé les 25 décembre et 1er janvier",
+    "produits": [
+      "Crus Classés AOP Côtes de Provence rosé, rouge et blanc",
+      "Cuvée Lampe de Méduse",
+      "Cuvée la Chapelle de Sainte Roseline",
+      "Gin et vermouth de Roseline"
+    ],
+    "description": "Cru Classé de Provence installé autour de la chapelle et du cloître de Sainte-Roseline, classés monuments historiques. Caveau ouvert tous les jours de l'année, expositions et ateliers de dégustation dans l'abbaye restaurée.",
+    "telephone": "04 94 99 50 30",
+    "site_web": "https://www.sainte-roseline.com/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+Sainte+Roseline+Les+Arcs",
+    "image_url": "/images/marchands/chateau-sainte-roseline.jpg"
+  },
+  {
+    "slug": "chateau-maime",
+    "nom": "Château Maïme",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.440556,
+    "lon": 6.459722,
+    "adresse": "Quartier Maïme, DN 7, 83460 Les Arcs-sur-Argens",
+    "horaires": "Du lundi au jeudi 9h-12h et 13h-17h, le vendredi 9h-12h et 13h-16h. Fermé le week-end, sauf les samedis de juin à septembre. Fermé les 1er janvier et 25 décembre",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé",
+      "Vin AOP Côtes de Provence rouge",
+      "Vin AOP Côtes de Provence blanc",
+      "Petite production de vin casher"
+    ],
+    "description": "Domaine de 34 hectares adossé aux premiers reliefs des Maures, dont la cave de vente borde la nationale 7. Il élabore aussi une petite production de vin casher.",
+    "telephone": "04 94 47 41 66",
+    "site_web": "https://chateau-maime.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+Maïme+Les+Arcs+sur+Argens",
+    "image_url": "/images/marchands/chateau-maime.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-valette",
+    "nom": "Domaine Valette",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.466466,
+    "lon": 6.483945,
+    "adresse": "300 Route de Sainte-Cécile, 83460 Les Arcs-sur-Argens",
+    "horaires": "Du lundi au samedi, 8h30-12h et 14h-18h30 du 1er novembre au 30 avril, 8h30-12h et 14h-19h du 1er mai au 31 octobre. Fermé le dimanche",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé",
+      "Vin AOP Côtes de Provence rouge",
+      "Vin AOP Côtes de Provence blanc",
+      "Vente directe au caveau"
+    ],
+    "description": "Petit domaine familial dont le caveau est aménagé dans une ancienne étable, où l'on voit encore les trous par lesquels passait le foin stocké à l'étage. Les deux tiers de la production partent chez des restaurateurs de la région.",
+    "telephone": "04 94 73 30 55",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Valette+Les+Arcs+sur+Argens",
+    "image_url": "/images/marchands/domaine-valette.jpg",
+    "a_confirmer": true
   }
 ]
