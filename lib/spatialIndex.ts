@@ -1,5 +1,5 @@
 import Supercluster from "supercluster";
-import marchandsData from "@/data/marchands.json";
+import { merchants } from "./merchants";
 import type { Merchant, MerchantCategory } from "./types";
 import { normalize } from "./search";
 import { CATEGORY_LABELS } from "./categories";
@@ -16,8 +16,6 @@ import { CATEGORY_LABELS } from "./categories";
  * TAILLE DE L'ÉCRAN, jamais par la taille de la base. 40 marchands ou 40 000,
  * une vue de carte renvoie au plus quelques centaines d'objets.
  */
-
-const merchants = marchandsData as Merchant[];
 
 /** Ce que la carte a besoin de connaître pour dessiner un point et sa bulle.
  *  Noms courts : à quelques milliers de points, les clés JSON pèsent autant

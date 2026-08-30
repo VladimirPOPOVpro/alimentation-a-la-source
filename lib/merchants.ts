@@ -1,8 +1,15 @@
 import marchandsData from "@/data/marchands.json";
 import type { Merchant } from "./types";
 import { HOSPITAL, distanceKm } from "./geo";
+import { validateMerchants } from "./validateMerchants";
 
-const merchants = marchandsData as Merchant[];
+/**
+ * Source unique des marchands, contrôlée une fois pour toutes au chargement.
+ * Tout le reste du site part d'ici — y compris l'index géographique — pour que
+ * la vérification ne puisse pas être contournée par une importation directe du
+ * JSON.
+ */
+export const merchants: Merchant[] = validateMerchants(marchandsData);
 
 export interface MerchantWithDistance extends Merchant {
   distanceKm: number;

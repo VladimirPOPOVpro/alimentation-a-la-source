@@ -245,3 +245,42 @@ Terminer par un résumé court, en français :
 - ce qui a été volontairement laissé de côté
 
 Si la passe n'a rien produit, le dire franchement plutôt que de meubler.
+
+## Ce que `npm run build` vérifie désormais dans tes données
+
+`lib/validateMerchants.ts` contrôle `data/marchands.json` au chargement. Si une
+règle est enfreinte, **le build échoue en nommant la fiche et le problème** —
+c'est volontaire : tu publies sans relecture humaine, et TypeScript ne regarde
+pas le contenu d'un JSON importé (une catégorie « boulangerie » passait `tsc` et
+`next build` sans un mot avant ce garde-fou).
+
+Ce qui fait échouer la construction :
+
+- `slug` absent, mal formé (minuscules, chiffres, tirets) ou **déjà utilisé** ;
+- `nom`, `adresse`, `horaires`, `description` ou `image_url` vide ;
+- `categorie` hors de la liste (`ferme`, `marche`, `magasin-bio`, `amap`,
+  `producteur`, `poissonnerie`) ;
+- `piliers` absents ou contenant une valeur inconnue ;
+- `produits` vide ;
+- `lat` / `lon` non numériques, ou **hors de France métropolitaine**.
+
+Ce dernier point attrape l'erreur la plus facile à commettre : la Base Adresse
+Nationale renvoie `[lon, lat]`, l'ordre inverse de celui de la fiche. Une fiche
+intervertie se retrouve au large de la Somalie, et le build te le dit.
+
+Si tu dois un jour référencer un marchand hors de ce cadre (outre-mer), la règle
+est dans `lib/validateMerchants.ts` — mais c'est du code : demande à Vladimir
+plutôt que d'y toucher.
+
+## La carte ne charge plus tout le fichier
+
+Depuis la refonte de la carte, le navigateur ne reçoit que ce qu'il affiche
+(voir la section « Deux façons de chercher » du README). Conséquence pour toi :
+
+- **rien ne change dans ton travail** — `data/marchands.json` reste la source de
+  vérité, le format est identique, aucun champ nouveau n'est requis ;
+- l'index géographique se reconstruit au démarrage du serveur, donc à chaque
+  déploiement Railway : ton `git push` suffit, il n'y a rien à régénérer ;
+- tu peux ajouter des fiches n'importe où en France sans que le site ne
+  ralentisse. La priorité géographique du prompt reste la bonne stratégie, mais
+  ce n'est plus une contrainte technique.
