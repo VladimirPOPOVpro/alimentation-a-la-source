@@ -889,5 +889,127 @@
     "site_web": "http://www.domainedesbeaucas.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Beaucas+Sainte-Maxime",
     "image_url": "/images/marchands/domaine-des-beaucas.jpg"
+  },
+  {
+    "slug": "marche-provencal-vidauban",
+    "nom": "Marché provençal de Vidauban",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.427122,
+    "lon": 6.433452,
+    "adresse": "Place Marcel Giordano et place de l'Église, 83550 Vidauban",
+    "horaires": "Dimanche, 8h à 13h, toute l'année. L'office de tourisme signale aussi un petit marché le mercredi matin, sans en préciser les horaires",
+    "produits": [
+      "Fruits et légumes",
+      "Produits alimentaires provençaux",
+      "Plants et fleurs"
+    ],
+    "description": "Marché du dimanche matin autour de la place de l'Église, au centre du village, dans une commune viticole de la plaine de l'Argens.",
+    "site_web": "https://tourisme.dracenie.com/les-marches-provencaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+provençal+Vidauban",
+    "image_url": "/images/marchands/marche-provencal-vidauban.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maitres-vignerons-vidauban",
+    "nom": "Les Maîtres Vignerons de Vidauban",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.431725,
+    "lon": 6.432753,
+    "adresse": "89 Chemin de Sainte-Anne, 83550 Vidauban",
+    "horaires": "Caveau ouvert du lundi au samedi, fermé le dimanche ; horaires précis à confirmer au 04 94 73 00 12",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé, rouge et blanc",
+      "Vin IGP Var",
+      "Vente en vrac",
+      "Épicerie fine et produits régionaux"
+    ],
+    "description": "Cave coopérative du village depuis 1912, qui réunit 110 vignerons et près de 450 hectares de vignes certifiées Haute Valeur Environnementale de niveau 3. Dégustation et vente au caveau.",
+    "telephone": "04 94 73 00 12",
+    "site_web": "https://www.les-maitres-vignerons-de-vidauban.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maîtres+Vignerons+de+Vidauban",
+    "image_url": "/images/marchands/maitres-vignerons-vidauban.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-astros",
+    "nom": "Château d'Astros",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.432915,
+    "lon": 6.415842,
+    "adresse": "Route de Lorgues, 83550 Vidauban",
+    "horaires": "Mai à mi-octobre : tous les jours 10h-18h30, en continu et les jours fériés. Mi-octobre à mai : lundi-samedi 10h-17h30, fermé de 12h30 à 14h et les jours fériés",
+    "produits": [
+      "Vin bio AOP Côtes de Provence",
+      "Vin bio IGP Var",
+      "Jus de pomme du domaine"
+    ],
+    "description": "Domaine bio de 600 hectares sur la route de Lorgues, dont 80 hectares de vignes et 10 hectares de pommiers, avec caveau de vente et sentiers de promenade ouverts dans la propriété.",
+    "telephone": "04 94 99 73 00",
+    "site_web": "https://www.chateauastros.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+d'Astros+Vidauban",
+    "image_url": "/images/marchands/chateau-astros.jpg"
+  },
+  {
+    "slug": "domaine-de-jale",
+    "nom": "Domaine de Jale",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.369778,
+    "lon": 6.453465,
+    "adresse": "526 Chemin des Fenouils, Route de Saint-Tropez RD 48, 83550 Vidauban",
+    "horaires": "Mai à septembre : lundi-vendredi 10h-13h et 14h-19h, samedi 10h-13h et 14h-18h. Octobre à avril : lundi-samedi 10h-13h et 14h-18h. Fermé le dimanche",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé, rouge et blanc",
+      "Huile d'olive",
+      "Jus d'abricot",
+      "Huile essentielle de lavande"
+    ],
+    "description": "Domaine familial certifié Haute Valeur Environnementale en bordure de la réserve naturelle de la plaine des Maures, dont le caveau vend aussi des produits locaux à côté des vins.",
+    "telephone": "04 94 73 51 50",
+    "site_web": "https://domainedejale.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Jale+Vidauban",
+    "image_url": "/images/marchands/domaine-de-jale.jpg"
+  },
+  {
+    "slug": "domaine-des-feraud",
+    "nom": "Domaine des Féraud",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.393497,
+    "lon": 6.437671,
+    "adresse": "3590 Route de Saint-Tropez, 83550 Vidauban",
+    "horaires": "Caveau de vente : toute l'année, du lundi au samedi, 10h à 18h",
+    "produits": [
+      "Vin bio AOP Côtes de Provence rosé",
+      "Vin bio AOP Côtes de Provence blanc",
+      "Vin bio AOP Côtes de Provence rouge"
+    ],
+    "description": "Domaine de 50 hectares certifié en agriculture biologique, entre pins parasols et vignes, avec caveau de vente ouvert toute l'année et visite du chai de vinification.",
+    "telephone": "04 94 73 03 12",
+    "site_web": "https://www.domainedesferaud.com/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Féraud+Vidauban",
+    "image_url": "/images/marchands/domaine-des-feraud.jpg"
   }
 ]

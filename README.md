@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-17 fiches sur 38 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+19 fiches sur 43 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -33,10 +33,20 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Marché aux poissons du Vieux Port** (heure d'ouverture variable selon l'arrivage de la pêche)
 - **Poissonnerie Santa Lucia** (horaires du mardi et de la fermeture du dimanche divergents selon les sources, à confirmer par téléphone au 04 94 53 84 76)
 - **Oliveraie Domaine La Pierre Plantée** (l'office de tourisme signale lui-même ses horaires comme « non garantis » ; le numéro de voirie diverge aussi — « 610 route du Muy » côté office de tourisme, alors que la Base Adresse Nationale ne connaît pas ce numéro et place les coordonnées de la fiche vers le 1962)
+- **Marché provençal de Vidauban** (l'office de tourisme de la Dracénie mentionne un second petit marché le mercredi matin, sans horaires ni lieu)
+- **Les Maîtres Vignerons de Vidauban** (les seuls horaires publiés figurent sur une carte de contact du site qui porte encore l'adresse et le téléphone d'exemple du gabarit Wix : non retenus, à confirmer au 04 94 73 00 12)
 
-Les 38 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 43 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
+
+### Note sur le Château d'Astros : attention au nom de domaine
+
+Le site officiel du Château d'Astros (Vidauban) est **`chateauastros.com`**, sans
+« d » — c'est là que redirige `astros.fr`, et c'est l'adresse qui figure dans la
+fiche. **Le domaine voisin `chateaudastros.com`, avec le « d », n'appartient
+plus au château : il héberge aujourd'hui un site de jeux en ligne.** Même piège
+que `santaluciapoissonnerie.fr` : ouvrir un site avant de l'inscrire, toujours.
 
 ### Piste non publiée : le Clos des Virgiles (Sainte-Maxime)
 
