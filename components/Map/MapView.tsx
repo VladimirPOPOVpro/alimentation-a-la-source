@@ -21,7 +21,8 @@ import {
 import type { MerchantWithDistance } from "@/lib/merchants";
 import { formatDistance } from "@/lib/geo";
 
-const PHOTO_ZOOM_THRESHOLD = 14;
+const PHOTO_ZOOM_SHOW = 14;
+const PHOTO_ZOOM_HIDE = 13;
 
 function ZoomTracker({ onZoom }: { onZoom: (zoom: number) => void }) {
   useMapEvents({
@@ -39,8 +40,15 @@ export default function MapView({
   radiusKm: number;
   selectedSlug?: string;
 }) {
-  const [zoom, setZoom] = useState(12);
-  const showPhotos = zoom >= PHOTO_ZOOM_THRESHOLD;
+  const [showPhotos, setShowPhotos] = useState(false);
+
+  const handleZoom = (zoom: number) => {
+    setShowPhotos((prev) => {
+      if (zoom >= PHOTO_ZOOM_SHOW) return true;
+      if (zoom <= PHOTO_ZOOM_HIDE) return false;
+      return prev;
+    });
+  };
 
   return (
     <MapContainer
@@ -49,7 +57,7 @@ export default function MapView({
       scrollWheelZoom
       className="h-full w-full"
     >
-      <ZoomTracker onZoom={setZoom} />
+      <ZoomTracker onZoom={handleZoom} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -84,12 +92,21 @@ export default function MapView({
           position={[m.lat, m.lon]}
           icon={
             showPhotos
-              ? createPhotoIcon(m.image_url, m.categorie, m.slug === selectedSlug)
+              ? createPhotoIcon(
+                  m.image_url,
+                  m.categorie,
+                  m.slug === selectedSlug,
+                  m.nom
+                )
               : createCategoryIcon(m.categorie, m.slug === selectedSlug)
           }
         >
           <Popup>
-            <div className="min-w-[160px]">
+            <div className="min-w-[170px]">
+              <div
+                className="popup-thumb"
+                style={{ backgroundImage: `url('${m.image_url}')` }}
+              />
               <p className="mb-0.5 font-semibold text-brand-green-dark">
                 {m.nom}
               </p>

@@ -152,7 +152,7 @@
     "telephone": "04 94 44 00 81",
     "site_web": "https://www.domainedelabouverie.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Bouverie+Roquebrune-sur-Argens",
-    "image_url": "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=1200&q=80",
+    "image_url": "/images/marchands/domaine-de-la-bouverie.jpg",
     "a_confirmer": true
   },
   {
@@ -167,7 +167,7 @@
     "produits": ["Fruits et légumes de saison", "Volailles", "Viande bovine"],
     "description": "Exploitation familiale avec stand de vente directe à la ferme, proposant aussi des visites guidées pour petits et grands.",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Fermes+Jourdan+Puget-sur-Argens",
-    "image_url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=1200&q=80",
+    "image_url": "/images/marchands/les-fermes-jourdan.jpg",
     "a_confirmer": true
   },
   {
@@ -183,7 +183,7 @@
     "description": "Apiculteur indépendant depuis 2008, abeilles noires locales, ne commercialise que sa propre production. Fiche à compléter avec la mère de Vladimir.",
     "telephone": "06 95 29 27 71",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Apiculteur+Saint-Raphaël",
-    "image_url": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=1200&q=80",
+    "image_url": "/images/marchands/le-rucher-des-myrtes.jpg",
     "a_confirmer": true
   },
   {
@@ -199,7 +199,7 @@
     "description": "Association pour le maintien d'une agriculture paysanne active sur le secteur de Fréjus. Fiche à finaliser : plusieurs structures existent localement, à vérifier laquelle est la plus active.",
     "telephone": "04 94 52 95 83",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAP+Fréjus",
-    "image_url": "https://images.unsplash.com/photo-1592841200221-a6898f307baa?w=1200&q=80",
+    "image_url": "/images/marchands/amap-frejus.jpg",
     "a_confirmer": true
   }
 ]

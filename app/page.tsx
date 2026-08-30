@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Leaf, MapPin } from "lucide-react";
+import { ArrowRight, FileDown, Leaf, MapPin } from "lucide-react";
 import HeroReveal from "@/components/HeroReveal";
 import { getAllMerchants } from "@/lib/merchants";
 
@@ -50,6 +50,18 @@ export default function Home() {
                 aria-hidden="true"
               />
             </Link>
+          </HeroReveal>
+
+          <HeroReveal delay={0.5}>
+            <a
+              href="/brochure/brochure-a4.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 text-sm font-medium text-brand-green-dark underline decoration-brand-green/40 underline-offset-4 hover:text-brand-green"
+            >
+              <FileDown className="h-4 w-4" aria-hidden="true" />
+              Télécharger la brochure A4 (PDF)
+            </a>
           </HeroReveal>
         </div>
       </section>

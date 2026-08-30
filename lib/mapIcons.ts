@@ -22,18 +22,20 @@ export function createCategoryIcon(
   const color = CATEGORY_COLORS[category];
   const size = highlighted ? 40 : 34;
   const html = `
-    <div style="
-      width:${size}px;height:${size}px;
-      background:${color};
-      border:2px solid white;
-      border-radius:50% 50% 50% 0;
-      transform:rotate(-45deg);
-      box-shadow:0 2px 6px rgba(0,0,0,0.3);
-      display:flex;align-items:center;justify-content:center;
-    ">
-      <svg width="${size * 0.55}" height="${size * 0.55}" viewBox="0 0 24 24" style="transform:rotate(45deg)">
-        ${CATEGORY_PATHS[category]}
-      </svg>
+    <div class="marker-pop-wrap marker-pin" style="width:${size}px;height:${size}px;">
+      <div class="marker-pin-shape" style="
+        width:100%;height:100%;
+        background:${color};
+        border:2px solid white;
+        border-radius:50% 50% 50% 0;
+        transform:rotate(-45deg);
+        box-shadow:0 2px 6px rgba(0,0,0,0.3);
+        display:flex;align-items:center;justify-content:center;
+      ">
+        <svg width="${size * 0.55}" height="${size * 0.55}" viewBox="0 0 24 24" style="transform:rotate(45deg)">
+          ${CATEGORY_PATHS[category]}
+        </svg>
+      </div>
     </div>
   `;
   return L.divIcon({
@@ -48,44 +50,55 @@ export function createCategoryIcon(
 export function createPhotoIcon(
   imageUrl: string,
   category: MerchantCategory,
-  highlighted = false
+  highlighted = false,
+  label?: string
 ): L.DivIcon {
   const color = CATEGORY_COLORS[category];
-  const size = highlighted ? 72 : 56;
+  const size = highlighted ? 76 : 58;
+  const badgeSize = Math.round(size * 0.42);
+  const ring = `0 0 0 4px white, 0 0 0 7px ${color}, 0 4px 14px rgba(0,0,0,0.35)`;
   const html = `
-    <div style="
-      width:${size}px;height:${size}px;
-      border-radius:50%;
-      border:3px solid ${color};
-      box-shadow:0 3px 10px rgba(0,0,0,0.35);
-      background-image:url('${imageUrl}');
-      background-size:cover;
-      background-position:center;
-      background-color:#e8f3e3;
-    "></div>
+    <div class="marker-pop-wrap" style="width:${size}px;height:${size}px;">
+      <div class="marker-photo-circle" style="
+        background-image:url('${imageUrl}');
+        box-shadow:${ring};
+      "></div>
+      <div class="marker-badge" style="
+        right:-2px;bottom:-2px;
+        width:${badgeSize}px;height:${badgeSize}px;
+        background:${color};
+      ">
+        <svg width="${badgeSize * 0.58}" height="${badgeSize * 0.58}" viewBox="0 0 24 24">
+          ${CATEGORY_PATHS[category]}
+        </svg>
+      </div>
+      ${label ? `<span class="marker-photo-label">${label}</span>` : ""}
+    </div>
   `;
   return L.divIcon({
     html,
     className: "",
     iconSize: [size, size],
     iconAnchor: [size / 2, size / 2],
-    popupAnchor: [0, -size / 2],
+    popupAnchor: [0, -size / 2 - 6],
   });
 }
 
 export function createHospitalIcon(): L.DivIcon {
   const html = `
-    <div style="
-      width:44px;height:44px;
-      background:#e53935;
-      border:3px solid white;
-      border-radius:50%;
-      box-shadow:0 2px 8px rgba(0,0,0,0.35);
-      display:flex;align-items:center;justify-content:center;
-    ">
-      <svg width="22" height="22" viewBox="0 0 24 24">
-        <path d="M11 4h2v6h6v2h-6v6h-2v-6H5v-2h6V4Z" fill="white"/>
-      </svg>
+    <div class="marker-pop-wrap" style="width:44px;height:44px;">
+      <div style="
+        width:100%;height:100%;
+        background:#e53935;
+        border:3px solid white;
+        border-radius:50%;
+        box-shadow:0 2px 8px rgba(0,0,0,0.35);
+        display:flex;align-items:center;justify-content:center;
+      ">
+        <svg width="22" height="22" viewBox="0 0 24 24">
+          <path d="M11 4h2v6h6v2h-6v6h-2v-6H5v-2h6V4Z" fill="white"/>
+        </svg>
+      </div>
     </div>
   `;
   return L.divIcon({

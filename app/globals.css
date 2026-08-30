@@ -67,3 +67,91 @@ body {
 .leaflet-popup-content-wrapper {
   border-radius: 12px;
 }
+
+.leaflet-marker-icon {
+  transition: filter 0.15s ease;
+}
+
+@keyframes marker-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.35);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1.08);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.marker-pop-wrap {
+  position: relative;
+  animation: marker-pop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  transform-origin: 50% 50%;
+}
+
+.marker-pop-wrap.marker-pin {
+  transform-origin: 50% 100%;
+}
+
+.marker-photo-circle {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  background-color: var(--color-brand-green-light);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.marker-pop-wrap:hover .marker-photo-circle {
+  transform: scale(1.1);
+}
+
+.marker-pop-wrap:hover .marker-pin-shape {
+  filter: brightness(1.08);
+}
+
+.marker-badge {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+}
+
+.marker-photo-label {
+  position: absolute;
+  left: 50%;
+  bottom: -22px;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--color-brand-green-dark);
+  background: rgba(255, 255, 255, 0.92);
+  padding: 2px 8px;
+  border-radius: 999px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  pointer-events: none;
+}
+
+.marker-pop-wrap:hover .marker-photo-label {
+  opacity: 1;
+}
+
+.popup-thumb {
+  width: 100%;
+  height: 84px;
+  border-radius: 8px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 6px;
+}
