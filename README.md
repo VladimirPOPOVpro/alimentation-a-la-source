@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-14 fiches sur 30 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+16 fiches sur 33 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -30,10 +30,20 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Les Comptoirs de la Bio - Saint-Raphaël** (horaires à préciser)
 - **Diététique Leblanc** (horaires à préciser)
 - **La Ruche qui dit Oui ! - Fréjus** (point de retrait et horaires de permanence à confirmer)
+- **Marché aux poissons du Vieux Port** (heure d'ouverture variable selon l'arrivage de la pêche)
+- **Poissonnerie Santa Lucia** (horaires du mardi et de la fermeture du dimanche divergents selon les sources, à confirmer par téléphone au 04 94 53 84 76)
 
-Les 30 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 33 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
-Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"), et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP ou producteurs.
+Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
+
+### Note sur la Poissonnerie Santa Lucia
+
+L'office de tourisme référence encore le site `santaluciapoissonnerie.fr` pour ce commerce. **Ce nom de domaine a expiré et a été racheté : il redirige aujourd'hui vers un site de casino en ligne, sans aucun rapport avec la poissonnerie.** Il a donc volontairement été laissé de côté dans la fiche. Ne pas le rajouter.
+
+### Piste non publiée : la Ferme Philip (Agay)
+
+La Ferme Philip, avenue du Gratadis à Agay, existe bien et est référencée par l'office de tourisme (maraîchage en vente directe, tél. 04 94 82 04 44). Elle **n'a volontairement pas été ajoutée au site** : au registre des entreprises, l'établissement correspondant est indiqué comme fermé depuis novembre 2014, alors que la fiche touristique la donne encore ouverte (dernière mise à jour connue : mai 2023). **Un appel au 04 94 82 04 44 permettrait de trancher** avant de l'ajouter, pour éviter d'envoyer des visiteurs vers un point de vente qui n'existe plus.
 
 ## Comment ajouter ou modifier un marchand
 

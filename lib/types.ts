@@ -10,7 +10,8 @@ export type MerchantCategory =
   | "marche"
   | "magasin-bio"
   | "amap"
-  | "producteur";
+  | "producteur"
+  | "poissonnerie";
 
 export interface Merchant {
   slug: string;

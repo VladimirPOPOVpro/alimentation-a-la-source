@@ -13,6 +13,8 @@ const CATEGORY_PATHS: Record<MerchantCategory, string> = {
     '<circle cx="8" cy="8" r="3" stroke="white" stroke-width="1.6" fill="none"/><circle cx="16" cy="8" r="3" stroke="white" stroke-width="1.6" fill="none"/><path d="M3 20c0-3 2.5-5 5-5s5 2 5 5M11 20c0-3 2.5-5 5-5s5 2 5 5" stroke="white" stroke-width="1.6" fill="none" stroke-linecap="round"/>',
   producteur:
     '<circle cx="12" cy="12" r="4" stroke="white" stroke-width="1.6" fill="none"/><path d="M12 2v3M12 19v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2 12h3M19 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1" stroke="white" stroke-width="1.6" stroke-linecap="round"/>',
+  poissonnerie:
+    '<path d="M3 12c2.5-3.5 6-5.5 9.5-5.5 2.8 0 4.6 1.8 5.5 5.5-.9 3.7-2.7 5.5-5.5 5.5C9 17.5 5.5 15.5 3 12Z" stroke="white" stroke-width="1.6" fill="none" stroke-linejoin="round"/><path d="M18 12l3.5-3v6L18 12Z" stroke="white" stroke-width="1.6" fill="none" stroke-linejoin="round"/><circle cx="8" cy="10.5" r="1" fill="white"/>',
 };
 
 export function createCategoryIcon(

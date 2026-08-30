@@ -691,5 +691,76 @@
     "description": "L'un des plus gros marchés du secteur, en amont des gorges du Verdon.",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Muy",
     "image_url": "/images/marchands/marche-le-muy.jpg"
+  },
+  {
+    "slug": "marche-aux-poissons-vieux-port",
+    "nom": "Marché aux poissons du Vieux Port",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "transport",
+      "social"
+    ],
+    "lat": 43.424047,
+    "lon": 6.76444,
+    "adresse": "Place Kennedy, quai du Vieux Port, 83700 Saint-Raphaël",
+    "horaires": "Tous les matins toute l'année, environ 7h à 12h, selon l'arrivage de la pêche",
+    "produits": [
+      "Poissons de la pêche locale du jour",
+      "Produits de la mer de Méditerranée"
+    ],
+    "description": "Halle couverte du Vieux Port où les pêcheurs locaux vendent directement leur pêche du jour, chaque matin. Le circuit le plus court possible : du bateau à l'étal.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+aux+poissons+Vieux+Port+Saint-Raphaël",
+    "image_url": "/images/marchands/marche-aux-poissons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "poissonnerie-santa-lucia",
+    "nom": "Poissonnerie Santa Lucia",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.414238,
+    "lon": 6.779847,
+    "adresse": "2 Place Amiral Ortoli, Port de Santa Lucia, 83700 Saint-Raphaël",
+    "horaires": "Fermé le lundi. Du mardi au samedi environ 8h30-13h30 et 17h-19h, dimanche matin en continu (horaires à reconfirmer)",
+    "produits": [
+      "Poissons de la pêche locale",
+      "Fruits de mer et plateaux de fruits de mer",
+      "Coquillages et crustacés",
+      "Traiteur et plats à emporter"
+    ],
+    "description": "Poissonnerie et traiteur du port de plaisance Santa Lucia, tenue par René et Corinne : produits frais de la mer, plateaux de fruits de mer et dégustation sur place face au port.",
+    "telephone": "04 94 53 84 76",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poissonnerie+Santa+Lucia+Saint-Raphaël",
+    "image_url": "/images/marchands/poissonnerie-santa-lucia.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-terres-destel",
+    "nom": "Domaine Terres Destel",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.458334,
+    "lon": 6.805099,
+    "adresse": "Rue Jean Rostand, 83700 Saint-Raphaël",
+    "horaires": "Caveau : avril à septembre, lundi-samedi 10h-18h ; octobre à mars sur rendez-vous",
+    "produits": [
+      "Vin AOP Côtes de Provence",
+      "Vin rosé",
+      "Vin rouge",
+      "Vin blanc"
+    ],
+    "description": "Le seul domaine viticole situé sur la commune de Saint-Raphaël, avec caveau de dégustation et vente directe à la propriété.",
+    "telephone": "04 94 82 46 80",
+    "site_web": "https://www.terresdestel.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Terres+Destel+Saint-Raphaël",
+    "image_url": "/images/marchands/terres-destel.jpg"
   }
 ]

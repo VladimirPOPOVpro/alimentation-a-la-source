@@ -1,9 +1,13 @@
 "use client";
 
-import { Home, ShoppingBasket, Leaf, Users, Sun } from "lucide-react";
+import { Home, ShoppingBasket, Leaf, Users, Sun, Fish } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import type { MerchantCategory } from "@/lib/types";
-import { CATEGORY_LABELS, CATEGORY_COLORS } from "@/lib/categories";
+import {
+  ALL_CATEGORIES,
+  CATEGORY_LABELS,
+  CATEGORY_COLORS,
+} from "@/lib/categories";
 
 const CATEGORY_ICONS: Record<MerchantCategory, LucideIcon> = {
   ferme: Home,
@@ -11,15 +15,8 @@ const CATEGORY_ICONS: Record<MerchantCategory, LucideIcon> = {
   "magasin-bio": Leaf,
   amap: Users,
   producteur: Sun,
+  poissonnerie: Fish,
 };
-
-const ALL_CATEGORIES: MerchantCategory[] = [
-  "ferme",
-  "marche",
-  "magasin-bio",
-  "amap",
-  "producteur",
-];
 
 export default function CategoryFilter({
   active,
