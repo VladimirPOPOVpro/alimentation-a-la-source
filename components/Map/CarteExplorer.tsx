@@ -29,14 +29,23 @@ export default function CarteExplorer({
   );
 
   return (
-    <div className="flex flex-1 flex-col gap-4 p-4 lg:flex-row lg:gap-6 lg:p-6">
+    <div className="flex flex-1 flex-col gap-3 p-3 lg:flex-row lg:gap-6 lg:p-6">
+      <div className="order-1 h-[64dvh] min-h-[380px] w-full overflow-hidden rounded-xl border border-brand-green-light shadow-sm lg:order-2 lg:h-auto lg:flex-1">
+        <MapView
+          merchants={visibleMerchants}
+          radiusKm={radiusKm}
+          selectedSlug={hoveredSlug ?? undefined}
+        />
+      </div>
+
       <aside className="order-2 flex w-full flex-col gap-3 lg:order-1 lg:w-[380px] lg:shrink-0">
-        <div className="rounded-xl border border-brand-green-light bg-white p-4">
+        <div className="flex items-center gap-3 rounded-xl border border-brand-green-light bg-white px-4 py-2.5 lg:flex-col lg:items-stretch lg:gap-2 lg:py-4">
           <label
             htmlFor="radius"
-            className="mb-2 flex items-center justify-between text-sm font-medium text-foreground/80"
+            className="flex shrink-0 items-baseline gap-1.5 text-sm font-medium text-foreground/80 lg:justify-between"
           >
-            <span>Rayon de recherche</span>
+            <span className="hidden lg:inline">Rayon de recherche</span>
+            <span className="lg:hidden">Rayon</span>
             <span className="font-semibold text-brand-green-dark">
               {radiusKm} km
             </span>
@@ -53,13 +62,13 @@ export default function CarteExplorer({
           />
         </div>
 
-        <p className="text-sm text-foreground/60">
+        <p className="text-xs text-foreground/60 lg:text-sm">
           {visibleMerchants.length} marchand
           {visibleMerchants.length > 1 ? "s" : ""} dans ce rayon, trié
           {visibleMerchants.length > 1 ? "s" : ""} par distance.
         </p>
 
-        <ul className="flex max-h-[60vh] flex-col gap-2 overflow-y-auto pr-1 lg:max-h-[calc(100vh-260px)]">
+        <ul className="flex max-h-[70vh] flex-col gap-2 overflow-y-auto pr-1 lg:max-h-[calc(100vh-260px)]">
           {visibleMerchants.map((m) => (
             <MerchantListItem
               key={m.slug}
@@ -75,14 +84,6 @@ export default function CarteExplorer({
           )}
         </ul>
       </aside>
-
-      <div className="order-1 h-[50vh] w-full overflow-hidden rounded-xl border border-brand-green-light shadow-sm lg:order-2 lg:h-auto lg:flex-1">
-        <MapView
-          merchants={visibleMerchants}
-          radiusKm={radiusKm}
-          selectedSlug={hoveredSlug ?? undefined}
-        />
-      </div>
     </div>
   );
 }

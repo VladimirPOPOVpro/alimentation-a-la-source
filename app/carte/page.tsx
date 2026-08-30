@@ -11,11 +11,11 @@ export default function CartePage() {
 
   return (
     <div className="flex flex-1 flex-col">
-      <div className="border-b border-brand-green-light bg-brand-green-light/30 px-4 py-6 sm:px-6">
-        <h1 className="font-script text-3xl font-semibold text-brand-green-dark sm:text-4xl">
+      <div className="border-b border-brand-green-light bg-brand-green-light/30 px-4 py-3 sm:py-6 sm:px-6">
+        <h1 className="font-script text-2xl font-semibold text-brand-green-dark sm:text-4xl">
           La carte des marchands
         </h1>
-        <p className="mt-1 text-sm text-foreground/60">
+        <p className="mt-0.5 hidden text-sm text-foreground/60 sm:block">
           Autour de l&apos;Hôpital Bonnet, Saint-Raphaël. Ajustez le rayon
           pour élargir ou resserrer la recherche.
         </p>

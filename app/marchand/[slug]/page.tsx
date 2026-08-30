@@ -191,7 +191,7 @@ export default async function MerchantPage({
               href={merchant.google_maps_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center justify-center gap-2 rounded-xl bg-brand-green px-4 py-3 text-sm font-semibold text-white hover:bg-brand-green-dark"
+              className="hidden items-center justify-center gap-2 rounded-xl bg-brand-green px-4 py-3 text-sm font-semibold text-white hover:bg-brand-green-dark lg:flex"
             >
               <MapPin className="h-4 w-4" aria-hidden="true" />
               Ouvrir dans Google Maps
@@ -199,6 +199,32 @@ export default async function MerchantPage({
           )}
         </aside>
       </div>
+
+      {merchant.google_maps_url && (
+        <div
+          className="sticky bottom-0 z-40 mt-6 flex items-center gap-2 border-t border-brand-green-light bg-white/95 px-4 py-3 shadow-[0_-4px_16px_rgba(0,0,0,0.1)] backdrop-blur lg:hidden"
+          style={{ paddingBottom: "calc(0.75rem + env(safe-area-inset-bottom))" }}
+        >
+          {merchant.telephone && (
+            <a
+              href={`tel:${merchant.telephone.replace(/\s/g, "")}`}
+              aria-label="Appeler"
+              className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl border border-brand-green-light bg-white text-brand-green-dark active:bg-brand-green-light"
+            >
+              <Phone className="h-5 w-5" aria-hidden="true" />
+            </a>
+          )}
+          <a
+            href={merchant.google_maps_url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex h-12 flex-1 items-center justify-center gap-2 rounded-xl bg-brand-green text-sm font-semibold text-white shadow-lg shadow-brand-green/25 active:bg-brand-green-dark"
+          >
+            <MapPin className="h-4 w-4" aria-hidden="true" />
+            Ouvrir dans Google Maps
+          </a>
+        </div>
+      )}
     </div>
   );
 }
