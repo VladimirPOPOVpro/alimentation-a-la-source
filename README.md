@@ -1,14 +1,16 @@
 # L'Alimentation à la Source
 
-Site web de découverte des marchands locaux et points de vente à la ferme autour de l'Hôpital Bonnet, à Saint-Raphaël. Initiative du comité environnement de l'hôpital.
+Site web de découverte des marchands locaux et points de vente à la ferme autour de l'Hôpital Bonnet, à Saint-Raphaël. Initiative du comité Développement Durable – Responsabilité Sociétale et Environnementale du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël (CHI Fréjus Saint-Raphaël).
 
 Le site affiche une carte interactive (OpenStreetMap) centrée sur l'hôpital, avec une liste de marchands triée par distance et une fiche détaillée pour chacun.
 
 ## ⚠ Point à vérifier avant publication
 
-L'adresse **"1 Avenue Antoine Béart, 83700 Saint-Raphaël"** transmise pour l'Hôpital Bonnet n'a été retrouvée dans aucune source (annuaires, sites officiels). Toutes les sources consultées indiquent que l'Hôpital Bonnet (Centre Hospitalier Intercommunal Fréjus Saint-Raphaël) se trouve à **240 Avenue de Saint-Lambert, 83600 Fréjus** (aussi mentionné comme Avenue André Léotard pour l'entrée maternité), bien qu'il soit répertorié dans l'annuaire des équipements de la ville de Saint-Raphaël.
+Le nom officiel du comité porteur du projet est confirmé : **comité Développement Durable – Responsabilité Sociétale et Environnementale**, du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël (CHI Fréjus Saint-Raphaël), site Hôpital Bonnet.
 
-La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de bus et de l'héliport "Hôpital Bonnet" dans OpenStreetMap (43.439, 6.7513), ce qui correspond au site physique de l'hôpital. **Merci de confirmer avec Vladimir si l'adresse "Avenue Antoine Béart" correspond à une entrée différente, avant la mise en ligne finale.**
+Reste à confirmer : l'adresse **"1 Avenue Antoine Béart, 83700 Saint-Raphaël"** transmise initialement pour l'Hôpital Bonnet n'a été retrouvée dans aucune source (annuaires, sites officiels). Toutes les sources consultées indiquent que l'Hôpital Bonnet se trouve à **240 Avenue de Saint-Lambert, 83600 Fréjus** (aussi mentionné comme Avenue André Léotard pour l'entrée maternité), bien qu'il soit répertorié dans l'annuaire des équipements de la ville de Saint-Raphaël.
+
+La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de bus et de l'héliport "Hôpital Bonnet" dans OpenStreetMap (43.439, 6.7513), ce qui correspond au site physique de l'hôpital. **Merci de confirmer avec Vladimir si l'adresse "Avenue Antoine Béart" correspond à une entrée différente.**
 
 ## Marchands à confirmer
 
@@ -99,4 +101,4 @@ Le site est déployé sur Railway. Toute modification poussée sur la branche `m
 
 ---
 
-Initiative du comité environnement, Hôpital Bonnet, Saint-Raphaël.
+Initiative du comité Développement Durable – Responsabilité Sociétale et Environnementale, CHI Fréjus Saint-Raphaël (site Hôpital Bonnet).

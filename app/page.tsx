@@ -13,7 +13,7 @@ export default function Home() {
           <HeroReveal>
             <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-medium text-brand-green-dark shadow-sm">
               <Leaf className="h-4 w-4" aria-hidden="true" />
-              Comité environnement, Hôpital Bonnet
+              Comité Développement Durable, CHI Fréjus Saint-Raphaël
             </span>
           </HeroReveal>
 
@@ -71,9 +71,12 @@ export default function Home() {
           <p className="text-base leading-relaxed text-foreground/70">
             Cette initiative est portée par le{" "}
             <strong className="text-brand-green-dark">
-              comité environnement de l&apos;Hôpital Bonnet
-            </strong>
-            , à Saint-Raphaël. Notre objectif est simple : faire connaître
+              comité Développement Durable – Responsabilité Sociétale et
+              Environnementale
+            </strong>{" "}
+            du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël, sur le
+            site de l&apos;Hôpital Bonnet. Notre objectif est simple : faire
+            connaître
             aux équipes de l&apos;hôpital et aux habitants du secteur les
             marchands locaux, les fermes en vente directe et les marchés de
             producteurs qui font vivre notre région, tout en réduisant notre

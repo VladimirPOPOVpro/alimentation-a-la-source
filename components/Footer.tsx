@@ -12,7 +12,10 @@ export default function Footer() {
         <FileDown className="h-4 w-4" aria-hidden="true" />
         Télécharger la brochure A4 (PDF)
       </a>
-      <p>Initiative du comité environnement, Hôpital Bonnet, Saint-Raphaël</p>
+      <p>
+        Initiative du comité Développement Durable – Responsabilité Sociétale
+        et Environnementale, CHI Fréjus Saint-Raphaël (site Hôpital Bonnet)
+      </p>
     </footer>
   );
 }

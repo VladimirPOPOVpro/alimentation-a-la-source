@@ -18,7 +18,7 @@ const caveat = Caveat({
 export const metadata: Metadata = {
   title: "L'Alimentation à la Source",
   description:
-    "Découvrez les marchands locaux et points de vente à la ferme autour de l'Hôpital Bonnet, à Saint-Raphaël. Une initiative du comité environnement.",
+    "Découvrez les marchands locaux et points de vente à la ferme autour de l'Hôpital Bonnet, à Saint-Raphaël. Une initiative du comité Développement Durable – Responsabilité Sociétale et Environnementale du CHI Fréjus Saint-Raphaël.",
 };
 
 export default function RootLayout({

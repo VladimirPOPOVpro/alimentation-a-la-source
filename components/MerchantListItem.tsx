@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { MapPin } from "lucide-react";
+import { Clock, MapPin } from "lucide-react";
 import { CATEGORY_LABELS, CATEGORY_COLORS } from "@/lib/categories";
 import { formatDistance } from "@/lib/geo";
 import type { MerchantWithDistance } from "@/lib/merchants";
@@ -44,6 +44,10 @@ export default function MerchantListItem({
         </div>
         <p className="mt-1 line-clamp-2 text-sm text-foreground/60">
           {merchant.description}
+        </p>
+        <p className="mt-1.5 flex items-start gap-1 text-xs text-foreground/50">
+          <Clock className="mt-0.5 h-3 w-3 shrink-0" aria-hidden="true" />
+          <span className="line-clamp-1">{merchant.horaires}</span>
         </p>
         <div className="mt-2">
           <PillarBadges piliers={merchant.piliers} />
