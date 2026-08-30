@@ -45,6 +45,34 @@ export function createCategoryIcon(
   });
 }
 
+export function createPhotoIcon(
+  imageUrl: string,
+  category: MerchantCategory,
+  highlighted = false
+): L.DivIcon {
+  const color = CATEGORY_COLORS[category];
+  const size = highlighted ? 72 : 56;
+  const html = `
+    <div style="
+      width:${size}px;height:${size}px;
+      border-radius:50%;
+      border:3px solid ${color};
+      box-shadow:0 3px 10px rgba(0,0,0,0.35);
+      background-image:url('${imageUrl}');
+      background-size:cover;
+      background-position:center;
+      background-color:#e8f3e3;
+    "></div>
+  `;
+  return L.divIcon({
+    html,
+    className: "",
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+    popupAnchor: [0, -size / 2],
+  });
+}
+
 export function createHospitalIcon(): L.DivIcon {
   const html = `
     <div style="

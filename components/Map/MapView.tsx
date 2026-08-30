@@ -1,13 +1,34 @@
 "use client";
 
 import "leaflet/dist/leaflet.css";
-import { MapContainer, TileLayer, Marker, Popup, Circle } from "react-leaflet";
+import { useState } from "react";
+import {
+  MapContainer,
+  TileLayer,
+  Marker,
+  Popup,
+  Circle,
+  useMapEvents,
+} from "react-leaflet";
 import Link from "next/link";
 import { HOSPITAL } from "@/lib/geo";
 import { CATEGORY_LABELS } from "@/lib/categories";
-import { createCategoryIcon, createHospitalIcon } from "@/lib/mapIcons";
+import {
+  createCategoryIcon,
+  createPhotoIcon,
+  createHospitalIcon,
+} from "@/lib/mapIcons";
 import type { MerchantWithDistance } from "@/lib/merchants";
 import { formatDistance } from "@/lib/geo";
+
+const PHOTO_ZOOM_THRESHOLD = 14;
+
+function ZoomTracker({ onZoom }: { onZoom: (zoom: number) => void }) {
+  useMapEvents({
+    zoomend: (e) => onZoom(e.target.getZoom()),
+  });
+  return null;
+}
 
 export default function MapView({
   merchants,
@@ -18,6 +39,9 @@ export default function MapView({
   radiusKm: number;
   selectedSlug?: string;
 }) {
+  const [zoom, setZoom] = useState(12);
+  const showPhotos = zoom >= PHOTO_ZOOM_THRESHOLD;
+
   return (
     <MapContainer
       center={[HOSPITAL.lat, HOSPITAL.lon]}
@@ -25,6 +49,7 @@ export default function MapView({
       scrollWheelZoom
       className="h-full w-full"
     >
+      <ZoomTracker onZoom={setZoom} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -57,7 +82,11 @@ export default function MapView({
         <Marker
           key={m.slug}
           position={[m.lat, m.lon]}
-          icon={createCategoryIcon(m.categorie, m.slug === selectedSlug)}
+          icon={
+            showPhotos
+              ? createPhotoIcon(m.image_url, m.categorie, m.slug === selectedSlug)
+              : createCategoryIcon(m.categorie, m.slug === selectedSlug)
+          }
         >
           <Popup>
             <div className="min-w-[160px]">

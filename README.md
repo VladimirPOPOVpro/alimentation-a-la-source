@@ -21,7 +21,9 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Le Rucher des Myrtes** (adresse précise à trouver, nom du producteur à confirmer)
 - **AMAP Fréjus** (plusieurs AMAP existent sur le secteur, point de distribution à confirmer)
 
-Toutes les photos sont des placeholders Unsplash, à remplacer par de vraies photos des marchands (voir ci-dessous).
+9 marchands sur 13 ont une vraie photo (trouvée sur leur site officiel ou celui de l'office de tourisme, stockée dans `public/images/marchands/`). Les 4 restants (Domaine de la Bouverie, Les Fermes Jourdan, Le Rucher des Myrtes, AMAP Fréjus) utilisent encore des photos Unsplash génériques, à remplacer par de vraies photos (voir ci-dessous).
+
+Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue").
 
 ## Comment ajouter ou modifier un marchand
 
@@ -59,7 +61,10 @@ Pour supprimer un marchand, supprimez simplement son bloc entier (attention à g
 
 ## Comment ajouter des photos
 
-Le plus simple : trouvez une photo libre de droits ou prenez une photo vous-même, uploadez-la sur un service gratuit comme [imgur.com](https://imgur.com) (pas de compte requis), copiez le lien direct de l'image (clic droit → "Copier l'adresse de l'image"), et collez ce lien dans le champ `image_url` du marchand concerné.
+Deux options :
+
+1. **Photo hébergée dans le projet (recommandé)** : déposez le fichier dans `public/images/marchands/nom-du-fichier.jpg`, puis référencez-le dans `image_url` avec `/images/marchands/nom-du-fichier.jpg` (sans le domaine).
+2. **Photo hébergée ailleurs** : trouvez une photo libre de droits ou prenez une photo vous-même, uploadez-la sur un service gratuit comme [imgur.com](https://imgur.com) (pas de compte requis), copiez le lien direct de l'image (clic droit → "Copier l'adresse de l'image"), et collez ce lien complet dans `image_url`.
 
 Pour plusieurs photos sur une fiche, ajoutez un champ `images` avec une liste de liens :
 

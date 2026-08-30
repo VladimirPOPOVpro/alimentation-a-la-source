@@ -7,12 +7,27 @@
     "lat": 43.425021,
     "lon": 6.767787,
     "adresse": "Place Victor Hugo, 83700 Saint-Raphaël",
-    "horaires": "Du mardi au dimanche, 7h à 13h (jeudi supplémentaire pour l'artisanat)",
+    "horaires": "Tous les matins, 7h à 13h, sauf le lundi (alimentaire et fleurs) ; tous les jeudis, 7h à 13h (produits manufacturés)",
     "produits": ["Fruits et légumes", "Fleurs", "Produits de producteurs locaux"],
-    "description": "Marché couvert au cœur de Saint-Raphaël, l'un des marchés historiques de la ville, mêlant producteurs et commerçants.",
+    "description": "Marché couvert au cœur de Saint-Raphaël, dans une halle depuis 2016, l'un des marchés historiques de la ville, mêlant producteurs et commerçants.",
     "site_web": "https://www.ville-saintraphael.fr/utile/economie/commerce-et-artisanat/les-marches",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Victor+Hugo+Saint-Raphaël",
-    "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=1200&q=80"
+    "image_url": "/images/marchands/marche-victor-hugo.jpg"
+  },
+  {
+    "slug": "marche-republique",
+    "nom": "Marché République",
+    "categorie": "marche",
+    "piliers": ["alimentation", "economie", "social"],
+    "lat": 43.425322,
+    "lon": 6.769745,
+    "adresse": "Place de la République, Vieux Port, 83700 Saint-Raphaël",
+    "horaires": "Tous les matins, 7h à 13h (fermé le lundi d'octobre à juin)",
+    "produits": ["Fruits et légumes", "Fleurs", "Produits de producteurs locaux"],
+    "description": "Marché du Vieux Port de Saint-Raphaël, à deux pas du marché aux poissons, organisé par la commune toute l'année.",
+    "site_web": "https://www.ville-saintraphael.fr/utile/economie/commerce-et-artisanat/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+République+Saint-Raphaël",
+    "image_url": "/images/marchands/marche-republique.jpg"
   },
   {
     "slug": "marche-boulouris",
@@ -22,12 +37,12 @@
     "lat": 43.416612,
     "lon": 6.807634,
     "adresse": "Esplanade Saint-Jean, Boulouris, 83700 Saint-Raphaël",
-    "horaires": "Tous les lundis, 8h30 à 13h toute l'année (+ jeudis en juillet et août)",
+    "horaires": "Tous les lundis matin, 7h à 13h toute l'année (+ jeudis en juillet et août)",
     "produits": ["Fruits et légumes de saison", "Huile d'olive", "Lavande et herbes de Provence"],
     "description": "Le plus grand marché de Saint-Raphaël avec plus de 60 étals, réputé pour la qualité de ses producteurs locaux.",
     "site_web": "https://www.esterel-cotedazur.com/en/cards/boulouris-market/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Boulouris+Saint-Raphaël",
-    "image_url": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=1200&q=80"
+    "image_url": "/images/marchands/marche-boulouris.jpg"
   },
   {
     "slug": "marche-agay",
@@ -36,12 +51,12 @@
     "piliers": ["alimentation", "social"],
     "lat": 43.434309,
     "lon": 6.863034,
-    "adresse": "Boulevard de la Plage, Agay, 83530 Saint-Raphaël",
-    "horaires": "Tous les mercredis, 8h à 13h toute l'année ; marché nocturne l'été (juillet-août)",
+    "adresse": "Place Gianetti, Agay, 83530 Saint-Raphaël",
+    "horaires": "Tous les mercredis matin, 7h à 13h toute l'année ; marché nocturne l'été (juillet-août, boulevard de la Plage)",
     "produits": ["Fruits et légumes", "Charcuterie", "Produits provençaux"],
     "description": "Marché provençal traditionnel du quartier balnéaire d'Agay, apprécié des habitants comme des visiteurs.",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+d'Agay+Saint-Raphaël",
-    "image_url": "https://images.unsplash.com/photo-1601599963565-b7f49deb8ea4?w=1200&q=80"
+    "image_url": "/images/marchands/marche-agay.jpg"
   },
   {
     "slug": "marche-provencal-frejus",
@@ -56,7 +71,7 @@
     "description": "Marché historique du centre-ville de Fréjus, l'un des rendez-vous incontournables des habitants du secteur.",
     "site_web": "https://www.frejus.fr/agenda/marches/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Place+Formigé+Fréjus",
-    "image_url": "https://images.unsplash.com/photo-1519996529931-28324d5a630e?w=1200&q=80",
+    "image_url": "/images/marchands/marche-provencal-frejus.webp",
     "a_confirmer": true
   },
   {
@@ -72,7 +87,7 @@
     "description": "Marché coopératif réunissant des producteurs de toute la région PACA sur le domaine Meneganti, à moins de 2 km de l'hôpital.",
     "site_web": "https://www.frejus.fr/commerce-service/marche-des-producteurs-de-la-vallee-rose/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+producteurs+Vallée+Rose+Fréjus",
-    "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=1200&q=80",
+    "image_url": "/images/marchands/marche-producteurs-vallee-rose.jpg",
     "a_confirmer": true
   },
   {
@@ -89,7 +104,7 @@
     "telephone": "04 94 53 02 00",
     "site_web": "https://marceletfils.com/pages/saint-raphael",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcel+et+Fils+Bio+Saint-Raphaël",
-    "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&q=80"
+    "image_url": "/images/marchands/marcel-et-fils-bio.jpg"
   },
   {
     "slug": "moulin-a-huile-le-magali",
@@ -105,7 +120,7 @@
     "telephone": "04 94 40 85 33",
     "site_web": "https://www.frejus.fr/decouvrir/produits-du-terroir/moulin-a-huile-de-magali/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+à+huile+Le+Magali+Fréjus",
-    "image_url": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=1200&q=80"
+    "image_url": "/images/marchands/moulin-a-huile-le-magali.webp"
   },
   {
     "slug": "la-grande-bastide",
@@ -121,7 +136,7 @@
     "telephone": "06 01 17 66 13",
     "site_web": "https://www.producteurs-grandebastide.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Grande+Bastide+Roquebrune-sur-Argens",
-    "image_url": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=1200&q=80"
+    "image_url": "/images/marchands/la-grande-bastide.jpg"
   },
   {
     "slug": "domaine-de-la-bouverie",
