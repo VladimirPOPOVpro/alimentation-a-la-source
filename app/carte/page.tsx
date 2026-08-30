@@ -1,16 +1,18 @@
 import type { Metadata } from "next";
 import CarteExplorer from "@/components/Map/CarteExplorer";
-import { getAllMerchants } from "@/lib/merchants";
-import type { Merchant } from "@/lib/types";
+import { nearestList } from "@/lib/spatialIndex";
+import { HOSPITAL } from "@/lib/geo";
 
 export const metadata: Metadata = {
   title: "Carte des marchands · L'Alimentation à la Source",
 };
 
 export default function CartePage() {
-  // Les distances sont calculées côté client, depuis le point de référence
-  // choisi par le visiteur : le serveur n'envoie que les données brutes.
-  const merchants: Merchant[] = getAllMerchants();
+  // Ce que le serveur envoie dans la page : de quoi afficher immédiatement le
+  // rayon par défaut autour de l'hôpital, et rien de plus. Le reste arrive par
+  // l'API au fil des déplacements — c'est ce qui permet à la page de garder la
+  // même taille quand la base passera de 40 marchands à des milliers.
+  const initial = nearestList(HOSPITAL, { radiusKm: 30, limit: 80 }).resultats;
 
   return (
     <div className="flex flex-1 flex-col">
@@ -23,7 +25,7 @@ export default function CartePage() {
           votre position.
         </p>
       </div>
-      <CarteExplorer allMerchants={merchants} />
+      <CarteExplorer initial={initial} />
     </div>
   );
 }

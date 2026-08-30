@@ -17,9 +17,42 @@ const CATEGORY_PATHS: Record<MerchantCategory, string> = {
     '<path d="M3 12c2.5-3.5 6-5.5 9.5-5.5 2.8 0 4.6 1.8 5.5 5.5-.9 3.7-2.7 5.5-5.5 5.5C9 17.5 5.5 15.5 3 12Z" stroke="white" stroke-width="1.6" fill="none" stroke-linejoin="round"/><path d="M18 12l3.5-3v6L18 12Z" stroke="white" stroke-width="1.6" fill="none" stroke-linejoin="round"/><circle cx="8" cy="10.5" r="1" fill="white"/>',
 };
 
+
+/**
+ * Cache des icônes.
+ *
+ * Une `L.DivIcon` est immuable et peut être partagée par plusieurs marqueurs.
+ * Sans ce cache, chaque rendu React fabrique de nouvelles instances, et
+ * react-leaflet, voyant une prop `icon` différente, remplace le DOM de chaque
+ * marqueur — c'est le vrai coût d'une carte dense, bien avant le réseau.
+ * (Idée reprise du pool de marqueurs de PinDeal, qui court-circuite quand la
+ * position n'a pas bougé.)
+ */
+const iconCache = new Map<string, L.DivIcon>();
+
+function memo(key: string, make: () => L.DivIcon): L.DivIcon {
+  const hit = iconCache.get(key);
+  if (hit) return hit;
+  const icon = make();
+  // Borne de sécurité : les icônes photo sont keyées par URL, donc le cache
+  // grandirait avec le nombre de marchands parcourus.
+  if (iconCache.size > 600) iconCache.clear();
+  iconCache.set(key, icon);
+  return icon;
+}
+
 export function createCategoryIcon(
   category: MerchantCategory,
   highlighted = false
+): L.DivIcon {
+  return memo(`cat:${category}:${highlighted}`, () =>
+    buildCategoryIcon(category, highlighted)
+  );
+}
+
+function buildCategoryIcon(
+  category: MerchantCategory,
+  highlighted: boolean
 ): L.DivIcon {
   const color = CATEGORY_COLORS[category];
   const size = highlighted ? 40 : 34;
@@ -55,6 +88,17 @@ export function createPhotoIcon(
   highlighted = false,
   label?: string
 ): L.DivIcon {
+  return memo(`photo:${imageUrl}:${category}:${highlighted}:${label ?? ""}`, () =>
+    buildPhotoIcon(imageUrl, category, highlighted, label)
+  );
+}
+
+function buildPhotoIcon(
+  imageUrl: string,
+  category: MerchantCategory,
+  highlighted: boolean,
+  label?: string
+): L.DivIcon {
   const color = CATEGORY_COLORS[category];
   const size = highlighted ? 76 : 58;
   const badgeSize = Math.round(size * 0.42);
@@ -88,6 +132,10 @@ export function createPhotoIcon(
 
 /** Point de référence choisi par le visiteur (adresse saisie ou position GPS). */
 export function createUserIcon(): L.DivIcon {
+  return memo("user", buildUserIcon);
+}
+
+function buildUserIcon(): L.DivIcon {
   const html = `
     <div class="marker-pop-wrap user-center" style="width:44px;height:44px;">
       <span class="user-center-pulse"></span>
@@ -117,6 +165,10 @@ export function createUserIcon(): L.DivIcon {
 }
 
 export function createHospitalIcon(): L.DivIcon {
+  return memo("hopital", buildHospitalIcon);
+}
+
+function buildHospitalIcon(): L.DivIcon {
   const html = `
     <div class="marker-pop-wrap" style="width:44px;height:44px;">
       <div style="
@@ -139,5 +191,32 @@ export function createHospitalIcon(): L.DivIcon {
     iconSize: [44, 44],
     iconAnchor: [22, 22],
     popupAnchor: [0, -22],
+  });
+}
+
+/**
+ * Groupe de marchands. La taille suit le compte de façon logarithmique : sans
+ * ça, un groupe de 2000 écraserait visuellement un groupe de 20 alors que les
+ * deux disent la même chose — « zoome ici ».
+ */
+export function createClusterIcon(count: number): L.DivIcon {
+  return memo(`cluster:${count}`, () => buildClusterIcon(count));
+}
+
+function buildClusterIcon(count: number): L.DivIcon {
+  const size = Math.round(38 + Math.min(Math.log10(Math.max(count, 1)), 3) * 12);
+  const label = count >= 1000 ? `${Math.round(count / 100) / 10}k` : String(count);
+  const html = `
+    <div class="marker-pop-wrap cluster-bubble" style="width:${size}px;height:${size}px;">
+      <div class="cluster-bubble-inner" style="font-size:${size > 52 ? 15 : 13}px;">
+        ${label}
+      </div>
+    </div>
+  `;
+  return L.divIcon({
+    html,
+    className: "",
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
   });
 }

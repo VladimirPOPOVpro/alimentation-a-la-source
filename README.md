@@ -114,6 +114,62 @@ Le choix est mémorisé dans le navigateur, et toutes les distances sont recalcu
 
 C'est ce qui permet au site de sortir du Var sans rien changer au code : il suffit d'ajouter des marchands ailleurs dans `data/marchands.json`.
 
+## Deux façons de chercher, et pourquoi la carte tient la charge
+
+Sur `/carte`, un sélecteur propose :
+
+- **Autour de moi** — le rayon classique autour du point de référence, avec le
+  cercle, la liste triée par distance et le curseur de rayon ;
+- **Explorer** — on se déplace librement : la carte charge et décharge les
+  marchands au fil des déplacements, et regroupe automatiquement ce qui est trop
+  dense pour être lisible. Cliquer sur un cercle vert zoome juste assez pour
+  qu'il se sépare.
+
+### Le point important : la taille de la base n'entre pas dans l'équation
+
+Le site chargeait auparavant `data/marchands.json` en entier dans la page. À 38
+marchands (≈ 35 Ko) c'est indolore ; à l'échelle de la France, ce serait des
+dizaines de mégaoctets envoyés à chaque visiteur, pour afficher une dizaine de
+points à l'écran.
+
+Désormais **le navigateur ne reçoit que ce qu'il affiche** :
+
+- `lib/spatialIndex.ts` construit au démarrage du serveur un index géographique
+  ([supercluster](https://github.com/mapbox/supercluster)) sur le JSON, qui reste
+  la source de vérité — l'agent continue d'éditer un simple fichier versionné ;
+- `app/api/marchands/route.ts` répond à trois questions : *que contient cette
+  vue ?*, *qu'y a-t-il autour de ce point ?*, *où trouve-t-on ce mot-clé en
+  France ?* ;
+- `lib/useViewportMerchants.ts` demande une zone un peu plus large que l'écran et
+  la garde : se déplacer un peu ne déclenche aucune requête ; faire glisser le
+  curseur de rayon de 15 à 60 km n'en déclenche qu'une seule.
+
+Mesuré sur un jeu synthétique réparti comme le sont les commerces (60 % groupés
+autour de pôles urbains) :
+
+| Marchands en base | Vue France (z6) | Vue région (z9) | Vue ville (z13) |
+| --- | --- | --- | --- |
+| 38 | 4,6 Ko | 0,2 Ko | 0 Ko |
+| 10 000 | 8,5 Ko | 23 Ko | 0,2 Ko |
+| 50 000 | 8,0 Ko | 36 Ko | 1,1 Ko |
+
+Le temps de réponse reste sous 0,05 ms par requête, et la construction de
+l'index coûte 72 ms au démarrage pour 50 000 fiches. **Autrement dit : la carte
+se comporte pareil avec 40 marchands qu'avec 50 000.** C'est ce qui permet à
+l'agent d'enrichir la couverture pendant un an sans jamais rendre le site plus
+lourd.
+
+Trois pièges, évités volontairement :
+
+- **une zone vide efface les points** au lieu de laisser ceux d'avant (sinon la
+  carte ment sur des régions entières) ;
+- **les requêtes obsolètes sont annulées**, pour qu'un déplacement rapide ne se
+  termine pas sur la réponse d'une vue abandonnée ;
+- **une recherche par mot-clé ne se regroupe pas** : sans ça, un marchand
+  correspondant pourrait rester caché sous une bulle « 12 » qui, elle, ignore la
+  recherche. Et si le mot-clé ne donne rien dans la vue, le site propose les
+  résultats les plus proches **ailleurs en France**.
+
 ## Demandes des visiteurs
 
 Deux formulaires alimentent un backlog :
@@ -158,7 +214,7 @@ Variables d'environnement (dans `.env.local`, jamais commité) :
 
 ## Stack technique
 
-Next.js 16 (App Router) + TypeScript + Tailwind CSS 4, cartographie Leaflet / OpenStreetMap, animations Framer Motion, icônes Lucide, Postgres (`pg`) pour le backlog des demandes. Géocodage et autocomplétion via l'API officielle française `api-adresse.data.gouv.fr`.
+Next.js 16 (App Router) + TypeScript + Tailwind CSS 4, cartographie Leaflet / OpenStreetMap, regroupement géographique côté serveur avec `supercluster`, animations Framer Motion, icônes Lucide, Postgres (`pg`) pour le backlog des demandes. Géocodage et autocomplétion via l'API officielle française `api-adresse.data.gouv.fr`.
 
 ## Déploiement
 

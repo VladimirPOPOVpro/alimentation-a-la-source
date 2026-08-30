@@ -1,5 +1,5 @@
 import { CATEGORY_LABELS } from "./categories";
-import type { Merchant } from "./types";
+import type { MerchantCategory } from "./types";
 
 /**
  * Met un texte à plat pour la comparaison : minuscules, sans accents et sans
@@ -20,7 +20,15 @@ export function normalize(text: string): string {
  * produits pour que "huile d'olive", "miel" ou "poisson" ramènent les
  * marchands qui en vendent, même si ce n'est pas dans leur nom.
  */
-function haystack(merchant: Merchant): string {
+export interface Searchable {
+  nom: string;
+  categorie: MerchantCategory;
+  produits: string[];
+  description: string;
+  adresse: string;
+}
+
+function haystack(merchant: Searchable): string {
   return normalize(
     [
       merchant.nom,
@@ -37,7 +45,7 @@ function haystack(merchant: Merchant): string {
  * apparaître quelque part (ET), pour que "huile frejus" ne ramène que les
  * marchands d'huile situés à Fréjus.
  */
-export function matchesQuery(merchant: Merchant, query: string): boolean {
+export function matchesQuery(merchant: Searchable, query: string): boolean {
   const terms = normalize(query).split(/\s+/).filter(Boolean);
   if (terms.length === 0) return true;
   const text = haystack(merchant);

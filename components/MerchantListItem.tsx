@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Clock, MapPin } from "lucide-react";
 import { CATEGORY_LABELS, CATEGORY_COLORS } from "@/lib/categories";
 import { formatDistance } from "@/lib/geo";
-import type { MerchantWithDistance } from "@/lib/merchants";
+import type { MerchantListEntry } from "@/lib/spatialIndex";
 import PillarBadges from "./PillarBadges";
 
 export default function MerchantListItem({
@@ -12,7 +12,7 @@ export default function MerchantListItem({
   active,
   onHover,
 }: {
-  merchant: MerchantWithDistance;
+  merchant: MerchantListEntry;
   active?: boolean;
   onHover?: (slug: string | null) => void;
 }) {
