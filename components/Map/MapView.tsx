@@ -1,22 +1,24 @@
 "use client";
 
 import "leaflet/dist/leaflet.css";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   MapContainer,
   TileLayer,
   Marker,
   Popup,
   Circle,
+  useMap,
   useMapEvents,
 } from "react-leaflet";
 import Link from "next/link";
-import { HOSPITAL } from "@/lib/geo";
+import type { Center } from "@/lib/geo";
 import { CATEGORY_LABELS } from "@/lib/categories";
 import {
   createCategoryIcon,
   createPhotoIcon,
   createHospitalIcon,
+  createUserIcon,
 } from "@/lib/mapIcons";
 import type { MerchantWithDistance } from "@/lib/merchants";
 import { formatDistance } from "@/lib/geo";
@@ -31,13 +33,40 @@ function ZoomTracker({ onZoom }: { onZoom: (zoom: number) => void }) {
   return null;
 }
 
+/**
+ * Recentre la carte quand le visiteur change de point de référence, et ajuste
+ * le zoom pour que le cercle du rayon tienne à l'écran. Sans ça, choisir une
+ * adresse à Lille laisserait la carte sur le Var.
+ */
+function Recenter({ center, radiusKm }: { center: Center; radiusKm: number }) {
+  const map = useMap();
+  const first = useRef(true);
+
+  useEffect(() => {
+    const bounds: [[number, number], [number, number]] = [
+      [center.lat - radiusKm / 111, center.lon - radiusKm / 78],
+      [center.lat + radiusKm / 111, center.lon + radiusKm / 78],
+    ];
+    if (first.current) {
+      first.current = false;
+      map.fitBounds(bounds, { padding: [24, 24] });
+    } else {
+      map.flyToBounds(bounds, { padding: [24, 24], duration: 0.8 });
+    }
+  }, [map, center.lat, center.lon, radiusKm]);
+
+  return null;
+}
+
 export default function MapView({
   merchants,
   radiusKm,
+  center,
   selectedSlug,
 }: {
   merchants: MerchantWithDistance[];
   radiusKm: number;
+  center: Center;
   selectedSlug?: string;
 }) {
   const [showPhotos, setShowPhotos] = useState(false);
@@ -52,19 +81,20 @@ export default function MapView({
 
   return (
     <MapContainer
-      center={[HOSPITAL.lat, HOSPITAL.lon]}
+      center={[center.lat, center.lon]}
       zoom={12}
       scrollWheelZoom
       className="h-full w-full"
     >
       <ZoomTracker onZoom={handleZoom} />
+      <Recenter center={center} radiusKm={radiusKm} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
 
       <Circle
-        center={[HOSPITAL.lat, HOSPITAL.lon]}
+        center={[center.lat, center.lon]}
         radius={radiusKm * 1000}
         pathOptions={{
           color: "#4c8c4a",
@@ -76,13 +106,19 @@ export default function MapView({
       />
 
       <Marker
-        position={[HOSPITAL.lat, HOSPITAL.lon]}
-        icon={createHospitalIcon()}
+        position={[center.lat, center.lon]}
+        icon={
+          center.kind === "hopital" ? createHospitalIcon() : createUserIcon()
+        }
       >
         <Popup>
-          <strong>{HOSPITAL.nom}</strong>
-          <br />
-          {HOSPITAL.adresse}
+          <strong>{center.label}</strong>
+          {center.kind !== "hopital" && (
+            <>
+              <br />
+              <span className="text-xs">Votre point de référence</span>
+            </>
+          )}
         </Popup>
       </Marker>
 

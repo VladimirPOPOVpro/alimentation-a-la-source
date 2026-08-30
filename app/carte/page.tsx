@@ -1,13 +1,16 @@
 import type { Metadata } from "next";
 import CarteExplorer from "@/components/Map/CarteExplorer";
 import { getAllMerchants } from "@/lib/merchants";
+import type { Merchant } from "@/lib/types";
 
 export const metadata: Metadata = {
   title: "Carte des marchands · L'Alimentation à la Source",
 };
 
 export default function CartePage() {
-  const merchants = getAllMerchants();
+  // Les distances sont calculées côté client, depuis le point de référence
+  // choisi par le visiteur : le serveur n'envoie que les données brutes.
+  const merchants: Merchant[] = getAllMerchants();
 
   return (
     <div className="flex flex-1 flex-col">
@@ -16,8 +19,8 @@ export default function CartePage() {
           La carte des marchands
         </h1>
         <p className="mt-0.5 hidden text-sm text-foreground/60 sm:block">
-          Autour de l&apos;Hôpital Bonnet, Saint-Raphaël. Ajustez le rayon
-          pour élargir ou resserrer la recherche.
+          Cherchez autour de l&apos;Hôpital Bonnet, de votre adresse ou de
+          votre position.
         </p>
       </div>
       <CarteExplorer allMerchants={merchants} />

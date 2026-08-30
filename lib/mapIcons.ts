@@ -86,6 +86,36 @@ export function createPhotoIcon(
   });
 }
 
+/** Point de référence choisi par le visiteur (adresse saisie ou position GPS). */
+export function createUserIcon(): L.DivIcon {
+  const html = `
+    <div class="marker-pop-wrap user-center" style="width:44px;height:44px;">
+      <span class="user-center-pulse"></span>
+      <div style="
+        position:relative;width:100%;height:100%;
+        background:#35662f;
+        border:3px solid white;
+        border-radius:50%;
+        box-shadow:0 2px 8px rgba(0,0,0,0.35);
+        display:flex;align-items:center;justify-content:center;
+      ">
+        <svg width="22" height="22" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="3.2" fill="white"/>
+          <path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3"
+                stroke="white" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </div>
+    </div>
+  `;
+  return L.divIcon({
+    html,
+    className: "",
+    iconSize: [44, 44],
+    iconAnchor: [22, 22],
+    popupAnchor: [0, -22],
+  });
+}
+
 export function createHospitalIcon(): L.DivIcon {
   const html = `
     <div class="marker-pop-wrap" style="width:44px;height:44px;">

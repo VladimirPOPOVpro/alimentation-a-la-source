@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Sprout, Map, HelpCircle, Home } from "lucide-react";
+import { Sprout, Map, HelpCircle, Home, PlusCircle } from "lucide-react";
 
 const LINKS = [
   { href: "/", label: "Accueil", icon: Home },
   { href: "/carte", label: "Carte", icon: Map },
   { href: "/pourquoi", label: "Pourquoi ?", icon: HelpCircle },
+  { href: "/proposer", label: "Proposer", icon: PlusCircle },
 ];
 
 export default function Navbar() {

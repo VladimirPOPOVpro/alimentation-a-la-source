@@ -18,6 +18,15 @@
   --color-pillar-economie-bg: #fff3e0;
   --color-pillar-social: #ba68c8;
   --color-pillar-social-bg: #f6e8fa;
+
+  /* Messages d'état. Assombris par rapport aux couleurs des piliers : ils
+     servent à du petit texte, qui doit rester lisible sur fond clair. */
+  --color-notice: #8a4f04;
+  --color-notice-bg: #fff4e5;
+  --color-error: #a5251d;
+  --color-error-bg: #fdecea;
+  --color-success: #2e6b32;
+  --color-success-bg: #e8f5e9;
 }
 
 @theme inline {
@@ -38,6 +47,13 @@
   --color-pillar-economie-bg: var(--color-pillar-economie-bg);
   --color-pillar-social: var(--color-pillar-social);
   --color-pillar-social-bg: var(--color-pillar-social-bg);
+
+  --color-notice: var(--color-notice);
+  --color-notice-bg: var(--color-notice-bg);
+  --color-error: var(--color-error);
+  --color-error-bg: var(--color-error-bg);
+  --color-success: var(--color-success);
+  --color-success-bg: var(--color-success-bg);
 
   --font-script: var(--font-caveat);
   --font-sans: var(--font-inter);
@@ -154,4 +170,24 @@ body {
   background-size: cover;
   background-position: center;
   margin-bottom: 6px;
+}
+
+/* Halo du point de référence choisi par le visiteur : il doit se distinguer
+   des marqueurs de marchands sans les masquer, d'où l'animation lente. */
+.user-center-pulse {
+  position: absolute;
+  inset: -8px;
+  border-radius: 50%;
+  background: rgba(53, 102, 47, 0.22);
+  animation: user-center-pulse 2.4s ease-out infinite;
+}
+
+@keyframes user-center-pulse {
+  0%   { transform: scale(0.75); opacity: 0.75; }
+  70%  { transform: scale(1.5);  opacity: 0; }
+  100% { transform: scale(1.5);  opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .user-center-pulse { animation: none; opacity: 0.4; }
 }

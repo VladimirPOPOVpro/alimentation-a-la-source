@@ -14,6 +14,7 @@ import { getAllMerchants, getMerchantBySlug } from "@/lib/merchants";
 import { CATEGORY_LABELS } from "@/lib/categories";
 import { formatDistance, HOSPITAL } from "@/lib/geo";
 import PillarBadges from "@/components/PillarBadges";
+import SignalerErreur from "@/components/SignalerErreur";
 
 export function generateStaticParams() {
   return getAllMerchants().map((m) => ({ slug: m.slug }));
@@ -120,6 +121,10 @@ export default async function MerchantPage({
               </div>
             </>
           )}
+
+          <div className="mt-10 border-t border-brand-green-light pt-5">
+            <SignalerErreur slug={merchant.slug} nom={merchant.nom} />
+          </div>
         </div>
 
         <aside className="flex flex-col gap-4">

@@ -1,14 +1,18 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import dynamic from "next/dynamic";
+import Link from "next/link";
 import { Loader2, Search, X } from "lucide-react";
 import type { MerchantWithDistance } from "@/lib/merchants";
-import type { MerchantCategory } from "@/lib/types";
+import type { Merchant, MerchantCategory } from "@/lib/types";
 import { ALL_CATEGORIES } from "@/lib/categories";
 import { matchesQuery } from "@/lib/search";
+import { distanceKm } from "@/lib/geo";
+import { useCenter, hydrateCenter } from "@/lib/centerStore";
 import MerchantListItem from "../MerchantListItem";
 import CategoryFilter from "./CategoryFilter";
+import LocationPicker from "../LocationPicker";
 
 const MapView = dynamic(() => import("./MapView"), {
   ssr: false,
@@ -19,17 +23,14 @@ const MapView = dynamic(() => import("./MapView"), {
   ),
 });
 
-/**
- * Raccourcis vers les produits les plus recherchés : ils rendent la recherche
- * par produit découvrable, sans quoi personne ne devine qu'on peut taper
- * "huile d'olive" plutôt qu'un nom de marchand.
- */
+const MAX_RADIUS_KM = 100;
+
 const QUICK_SEARCHES = ["Huile d'olive", "Miel", "Poisson", "Vin", "Légumes"];
 
 export default function CarteExplorer({
   allMerchants,
 }: {
-  allMerchants: MerchantWithDistance[];
+  allMerchants: Merchant[];
 }) {
   const [radiusKm, setRadiusKm] = useState(15);
   const [hoveredSlug, setHoveredSlug] = useState<string | null>(null);
@@ -38,14 +39,14 @@ export default function CarteExplorer({
     Set<MerchantCategory>
   >(new Set(ALL_CATEGORIES));
 
+  const center = useCenter();
+  useEffect(hydrateCenter, []);
+
   const toggleCategory = (category: MerchantCategory) => {
     setActiveCategories((prev) => {
       const next = new Set(prev);
-      if (next.has(category)) {
-        next.delete(category);
-      } else {
-        next.add(category);
-      }
+      if (next.has(category)) next.delete(category);
+      else next.add(category);
       // Never allow an empty selection: an empty filter reads as "show
       // nothing", which is confusing next to a map that's supposed to
       // help you find something. Re-select everything instead.
@@ -53,26 +54,41 @@ export default function CarteExplorer({
     });
   };
 
+  // Les distances sont recalculées côté client : le centre change sans
+  // rechargement, donc le serveur ne peut pas les connaître à l'avance.
+  const withDistance: MerchantWithDistance[] = useMemo(
+    () =>
+      allMerchants
+        .map((m) => ({
+          ...m,
+          distanceKm: distanceKm(center.lat, center.lon, m.lat, m.lon),
+        }))
+        .sort((a, b) => a.distanceKm - b.distanceKm),
+    [allMerchants, center.lat, center.lon]
+  );
+
   const visibleMerchants = useMemo(
     () =>
-      allMerchants.filter(
+      withDistance.filter(
         (m) =>
           m.distanceKm <= radiusKm &&
           activeCategories.has(m.categorie) &&
           matchesQuery(m, query)
       ),
-    [allMerchants, radiusKm, activeCategories, query]
+    [withDistance, radiusKm, activeCategories, query]
   );
 
-  // Une recherche qui ne ramène rien est presque toujours due au rayon ou aux
-  // catégories, pas au mot-clé : on le dit plutôt que d'afficher une liste vide.
+  // Une liste vide vient presque toujours du rayon ou des catégories, pas du
+  // mot-clé : on le dit plutôt que d'afficher un vide sans explication.
   const matchesOutsideFilters = useMemo(
     () =>
       query.trim().length > 0
-        ? allMerchants.filter((m) => matchesQuery(m, query)).length
+        ? withDistance.filter((m) => matchesQuery(m, query)).length
         : 0,
-    [allMerchants, query]
+    [withDistance, query]
   );
+
+  const nearest = withDistance[0];
 
   return (
     <div className="flex flex-1 flex-col gap-3 p-3 lg:flex-row lg:gap-6 lg:p-6">
@@ -80,11 +96,14 @@ export default function CarteExplorer({
         <MapView
           merchants={visibleMerchants}
           radiusKm={radiusKm}
+          center={center}
           selectedSlug={hoveredSlug ?? undefined}
         />
       </div>
 
       <aside className="order-2 flex w-full flex-col gap-3 lg:order-1 lg:w-[380px] lg:shrink-0">
+        <LocationPicker />
+
         <div className="relative">
           <Search
             className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-foreground/40"
@@ -143,7 +162,7 @@ export default function CarteExplorer({
             id="radius"
             type="range"
             min={2}
-            max={30}
+            max={MAX_RADIUS_KM}
             step={1}
             value={radiusKm}
             onChange={(e) => setRadiusKm(Number(e.target.value))}
@@ -178,10 +197,39 @@ export default function CarteExplorer({
                   mais hors du rayon ou des catégories choisis. Élargissez le
                   rayon ou activez plus de catégories.
                 </>
-              ) : (
+              ) : nearest && nearest.distanceKm <= MAX_RADIUS_KM ? (
                 <>
-                  Aucun marchand ne correspond. Essayez un autre mot, élargissez
-                  le rayon ou activez plus de catégories.
+                  Aucun marchand dans ce rayon. Le plus proche de{" "}
+                  <span className="font-medium">{center.label}</span> est à{" "}
+                  <span className="font-medium">
+                    {nearest.distanceKm.toFixed(0)} km
+                  </span>{" "}
+                  :{" "}
+                  <button
+                    type="button"
+                    onClick={() =>
+                      setRadiusKm(Math.ceil(nearest.distanceKm))
+                    }
+                    className="font-medium text-brand-green-dark underline underline-offset-2"
+                  >
+                    élargir le rayon
+                  </button>
+                  .
+                </>
+              ) : (
+                // Élargir le rayon ne servirait à rien : le plus proche est
+                // au-delà du maximum. On propose la seule action utile.
+                <>
+                  Pas encore de marchand référencé autour de{" "}
+                  <span className="font-medium">{center.label}</span>. Le site
+                  démarre dans le Var et s&apos;étend peu à peu.{" "}
+                  <Link
+                    href="/proposer"
+                    className="font-medium text-brand-green-dark underline underline-offset-2"
+                  >
+                    Proposez-en un
+                  </Link>{" "}
+                  pour lancer la zone.
                 </>
               )}
             </li>
