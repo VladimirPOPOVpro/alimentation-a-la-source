@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-22 fiches sur 48 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+25 fiches sur 53 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -38,8 +38,11 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Marché provençal des Arcs-sur-Argens** (le jour, le jeudi, est confirmé par la mairie et par l'office de tourisme de la Dracénie, mais aucune des deux sources ne publie d'heure de début ni de fin)
 - **Château Maïme** (l'adresse « Quartier Maïme, DN 7 » n'a pas de numéro de voirie connu de la Base Adresse Nationale ; les coordonnées viennent de la base Apidae et tombent à 174 m du 1300 DN 7. Les horaires proviennent de la Route des Vins du Sud, le site officiel du domaine n'en publiant aucun)
 - **Domaine Valette** (une seule source descriptive, la fiche Apidae de la Route des Vins du Sud ; le domaine n'a pas de site officiel, seulement une page Facebook, qui n'a donc pas été inscrite)
+- **Marché provençal de Draguignan** (la fiche Apidae de l'office de tourisme donne mercredi et samedi 7h-12h30, mais la page « marchés provençaux » du même office ajoute le jeudi, sans horaires ni lieu)
+- **Le Potager des Salles** (le site du domaine annonce le mercredi de 16h à 19h d'avril à novembre, l'annuaire Bienvenue à la Ferme le mercredi de 16h30 à 19h30 sans saison ; ce sont les horaires du site qui figurent dans la fiche)
+- **Domaine du Dragon** (ouvert du lundi au samedi selon la Route des Vins du Sud, qui précise « horaires 2026 non communiqués » ; le site du domaine n'en publie pas non plus)
 
-Les 48 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 53 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -67,6 +70,27 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Draguignan
+
+- **Moulin à huile Rovera** (2530 chemin de Villeneuve) : actif au registre, mais
+  son site `moulin-huile-var.fr` renvoie une erreur 500 et aucune fiche d'office
+  de tourisme ne le reprend. Pas d'horaires vérifiables, donc rien de publié.
+- **Les Pot'iront** (38 rue de Trans) : coopérative alimentaire participative
+  bio et circuit court, active au registre depuis 2017. Son domaine
+  `coop-lespotiront.fr` **ne résout plus** (NXDOMAIN) et les horaires trouvés ne
+  viennent que d'annuaires. C'est aussi une coopérative réservée à ses membres.
+- **Domaine du Clos d'Aure** (412 voie Georges Pompidou) : producteur d'olives
+  actif au registre, sans aucune présence web ni fiche d'office de tourisme.
+
+### Note sur le Château Saint-Esprit : numéro de voirie
+
+Le domaine publie l'adresse **449 route des Nouradons** et ses propres
+coordonnées GPS (43°30'34.5"N – 6°25'35.0"E), que la base Apidae confirme à 15 m
+près. La Base Adresse Nationale, elle, place le numéro 449 environ 360 m plus
+loin sur la même route ; le géocodage inverse du point officiel tombe près du
+numéro 74. Ce sont les coordonnées publiées par le domaine qui figurent dans la
+fiche, l'adresse aussi.
 
 ### Note sur le Château Sainte-Roseline : numéro de voirie
 

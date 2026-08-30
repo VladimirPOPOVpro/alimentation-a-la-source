@@ -1137,5 +1137,131 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Valette+Les+Arcs+sur+Argens",
     "image_url": "/images/marchands/domaine-valette.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-draguignan",
+    "nom": "Marché provençal de Draguignan",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.538468,
+    "lon": 6.465263,
+    "adresse": "Place du Marché (partie alimentaire) et boulevard Jean Jaurès (partie textile), 83300 Draguignan",
+    "horaires": "Mercredi et samedi, 7h à 12h30, toute l'année. La liste des marchés de l'office de tourisme de la Dracénie mentionne aussi le jeudi, sans horaires ni lieu",
+    "produits": [
+      "Fruits et légumes",
+      "Produits du terroir provençal",
+      "Textile et bazar"
+    ],
+    "description": "Le plus ancien marché de la Dracénie, au cœur de la vieille ville : la partie alimentaire occupe la place du Marché, la partie textile le boulevard Jean Jaurès.",
+    "telephone": "04 98 10 51 05",
+    "site_web": "https://tourisme.dracenie.com/les-marches-provencaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Marché+Draguignan",
+    "image_url": "/images/marchands/marche-provencal-draguignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "soleil-bio-draguignan",
+    "nom": "Soleil Bio - Biocoop Draguignan",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.530776,
+    "lon": 6.446607,
+    "adresse": "868 avenue Pierre Brossolette, zone du Pont de Lorgues, 83300 Draguignan",
+    "horaires": "Du lundi au samedi, 9h à 19h. Fermé le dimanche",
+    "produits": [
+      "Fruits et légumes bio",
+      "Épicerie biologique",
+      "Produits de producteurs locaux",
+      "Éco-produits et cosmétiques bio"
+    ],
+    "description": "Magasin Biocoop de la zone du Pont de Lorgues, repris en 2001 et agrandi à 270 m² en 2007. Le magasin présente ses producteurs locaux et les paysans associés du réseau coopératif.",
+    "telephone": "04 94 68 42 93",
+    "site_web": "https://www.soleilbio-draguignan.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Soleil+Bio+Biocoop+Draguignan",
+    "image_url": "/images/marchands/soleil-bio-draguignan.jpg"
+  },
+  {
+    "slug": "le-potager-des-salles",
+    "nom": "Le Potager des Salles",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.54656,
+    "lon": 6.45046,
+    "adresse": "1350 Avenue de Montferrat, 83300 Draguignan",
+    "horaires": "Vente sur place le mercredi de 16h à 19h, d'avril à novembre, et paniers sur commande. L'annuaire Bienvenue à la Ferme indique de son côté le mercredi de 16h30 à 19h30",
+    "produits": [
+      "Légumes biologiques de saison",
+      "Fruits de variétés anciennes",
+      "Raisin de table",
+      "Vin de pays",
+      "Paniers sur commande"
+    ],
+    "description": "Un hectare de légumes certifiés bio cultivés au cœur du domaine familial du Château des Salles, avec un choix assumé de variétés anciennes. La vente se fait directement au potager, un après-midi par semaine.",
+    "telephone": "04 98 10 30 73",
+    "site_web": "https://www.chateaudessalles.fr/agriculture/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Potager+des+Salles+Draguignan",
+    "image_url": "/images/marchands/le-potager-des-salles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-saint-esprit",
+    "nom": "Château Saint-Esprit",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.509583,
+    "lon": 6.426389,
+    "adresse": "449 Route des Nouradons, 83300 Draguignan",
+    "horaires": "De mai à septembre : tous les jours de 10h à 19h. D'octobre à avril : du lundi au samedi de 10h à 12h30 et de 14h30 à 18h, le dimanche sur rendez-vous",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé, rouge et blanc",
+      "Cuvées Céleste, Nébra et Quintessence",
+      "Cuvée Mémoires",
+      "Brut rosé"
+    ],
+    "description": "Domaine familial depuis quatre générations sur la route des Nouradons, entre Draguignan et Lorgues. Caveau de dégustation et boutique ouverts toute l'année, visites du domaine gratuites.",
+    "telephone": "04 94 68 10 91",
+    "site_web": "https://www.saintesprit-provence.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+Saint-Esprit+Draguignan",
+    "image_url": "/images/marchands/chateau-saint-esprit.jpg"
+  },
+  {
+    "slug": "domaine-du-dragon",
+    "nom": "Domaine du Dragon",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.553901,
+    "lon": 6.434941,
+    "adresse": "990 avenue Frédéric Henri Manhès, 83300 Draguignan",
+    "horaires": "Du lundi au samedi, toute l'année. Les horaires 2026 ne sont pas publiés : se renseigner au 04 98 10 23 00",
+    "produits": [
+      "Vin bio AOP Côtes de Provence rouge",
+      "Vin bio AOP Côtes de Provence rosé",
+      "Vin bio AOP Côtes de Provence blanc",
+      "Vente au caveau et boutique en ligne"
+    ],
+    "description": "Domaine de 66 hectares aux portes nord de la ville, dont 25 plantés de vignes en agriculture biologique, le reste laissé en forêt de pins. Le site est occupé depuis l'Antiquité : les poteries qu'on y a fouillées sont exposées au musée de Draguignan.",
+    "telephone": "04 98 10 23 00",
+    "site_web": "https://www.domainedudragon.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Dragon+Draguignan",
+    "image_url": "/images/marchands/domaine-du-dragon.jpg",
+    "a_confirmer": true
   }
 ]
