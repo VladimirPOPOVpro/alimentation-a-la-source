@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-16 fiches sur 33 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+17 fiches sur 38 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -32,10 +32,20 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **La Ruche qui dit Oui ! - Fréjus** (point de retrait et horaires de permanence à confirmer)
 - **Marché aux poissons du Vieux Port** (heure d'ouverture variable selon l'arrivage de la pêche)
 - **Poissonnerie Santa Lucia** (horaires du mardi et de la fermeture du dimanche divergents selon les sources, à confirmer par téléphone au 04 94 53 84 76)
+- **Oliveraie Domaine La Pierre Plantée** (l'office de tourisme signale lui-même ses horaires comme « non garantis » ; le numéro de voirie diverge aussi — « 610 route du Muy » côté office de tourisme, alors que la Base Adresse Nationale ne connaît pas ce numéro et place les coordonnées de la fiche vers le 1962)
 
-Les 33 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 38 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
+
+### Piste non publiée : le Clos des Virgiles (Sainte-Maxime)
+
+Plusieurs annuaires commerciaux (PagesJaunes, Mappy) présentent encore un
+« Clos des Virgiles », chemin des Virgiles à Sainte-Maxime, comme un domaine
+viticole ouvert à la visite et à la vente directe. **Au registre des
+entreprises, l'établissement correspondant ne compte aucun établissement
+ouvert.** Aucune source indépendante et à jour (office de tourisme, site de la
+commune, site officiel du domaine) ne le référence. Il n'a donc pas été ajouté.
 
 ### Note sur la Poissonnerie Santa Lucia
 

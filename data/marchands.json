@@ -762,5 +762,132 @@
     "site_web": "https://www.terresdestel.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Terres+Destel+Saint-Raphaël",
     "image_url": "/images/marchands/terres-destel.jpg"
+  },
+  {
+    "slug": "marche-couvert-sainte-maxime",
+    "nom": "Marché couvert de Sainte-Maxime",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.308039,
+    "lon": 6.641585,
+    "adresse": "Rue Fernand Bessy et Montée de l'Épagneul, 83120 Sainte-Maxime",
+    "horaires": "Octobre à mars : mardi-vendredi 8h-13h, samedi et dimanche 8h-14h, fermé le lundi. Avril à septembre et vacances de Noël : tous les jours 7h-14h. De la 2e semaine de juillet à la 3e semaine d'août : aussi 17h-19h30 sauf dimanches et jours fériés",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons",
+      "Viandes et charcuterie",
+      "Fromages et crèmerie",
+      "Pain et pâtisserie",
+      "Produits du terroir",
+      "Fleurs"
+    ],
+    "description": "Halle alimentaire ouverte toute l'année au cœur de la ville, avec primeur, poissonnier, boucher-charcutier, crèmerie, épicerie fine et produits de producteurs locaux.",
+    "site_web": "https://www.sainte-maxime.fr/ma-ville/vie-economique/marches-et-foires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+Sainte-Maxime",
+    "image_url": "/images/marchands/marche-couvert-sainte-maxime.jpg"
+  },
+  {
+    "slug": "marche-produits-regionaux-sainte-maxime",
+    "nom": "Marché des produits régionaux de Sainte-Maxime",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.308384,
+    "lon": 6.640825,
+    "adresse": "Place et rue du Marché, rues piétonnes du centre-ville, 83120 Sainte-Maxime",
+    "horaires": "Jeudi, 8h à 13h d'avril à septembre et 8h30 à 13h d'octobre à mars, toute l'année",
+    "produits": [
+      "Fruits et légumes",
+      "Herbes aromatiques de Provence",
+      "Fromages",
+      "Charcuterie artisanale",
+      "Miels et confitures",
+      "Huile d'olive"
+    ],
+    "description": "Grand marché provençal du jeudi matin, qui déborde de la place du Marché vers les places Colbert et des Sarrasins et les rues piétonnes du centre ancien.",
+    "site_web": "https://www.sainte-maxime.fr/ma-ville/vie-economique/marches-et-foires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Marché+Sainte-Maxime",
+    "image_url": "/images/marchands/marche-produits-regionaux-sainte-maxime.jpg"
+  },
+  {
+    "slug": "marche-mermoz-sainte-maxime",
+    "nom": "Marché Mermoz",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.310769,
+    "lon": 6.634938,
+    "adresse": "Place et parking Jean-Mermoz, 83120 Sainte-Maxime",
+    "horaires": "Vendredi, 8h à 13h d'avril à septembre et 8h30 à 13h d'octobre à mars, toute l'année",
+    "produits": [
+      "Spécialités alimentaires artisanales des régions",
+      "Fruits et légumes",
+      "Textiles et produits manufacturés"
+    ],
+    "description": "Marché du vendredi matin où la ville réserve les stands alimentaires aux spécialités artisanales vendues en circuit court, du producteur au consommateur.",
+    "site_web": "https://www.sainte-maxime.fr/ma-ville/vie-economique/marches-et-foires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Jean+Mermoz+Sainte-Maxime",
+    "image_url": "/images/marchands/marche-mermoz-sainte-maxime.jpg"
+  },
+  {
+    "slug": "domaine-la-pierre-plantee",
+    "nom": "Oliveraie Domaine La Pierre Plantée",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.344389,
+    "lon": 6.606137,
+    "adresse": "Route du Muy, quartier La Pierre Plantée, 83120 Sainte-Maxime",
+    "horaires": "Boutique : avril à octobre, lundi-samedi 10h-12h et 14h30-18h30, dimanche 10h-12h ; novembre à mars, mardi-vendredi 14h30-17h30 (samedi ouvert en novembre et décembre)",
+    "produits": [
+      "Huile d'olive vierge extra au fruité vert",
+      "Huile d'olive maturée",
+      "Olives et tapenades",
+      "Confitures, miels et pains d'épices",
+      "Vinaigres",
+      "Vins blancs et rosés"
+    ],
+    "description": "Oliveraie de 4 000 arbres et 14 variétés sur les hauteurs de Sainte-Maxime, avec boutique de vente directe et visites guidées de l'oliveraie d'avril à septembre.",
+    "telephone": "04 94 96 65 65",
+    "site_web": "https://domainelapierreplantee.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+La+Pierre+Plantée+Sainte-Maxime",
+    "image_url": "/images/marchands/domaine-la-pierre-plantee.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-des-beaucas",
+    "nom": "Domaine des Beaucas",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.368573,
+    "lon": 6.573516,
+    "adresse": "CD 44, lieu-dit Beaucas, 83120 Sainte-Maxime",
+    "horaires": "Du lundi au samedi, 10h à 18h d'avril à septembre et 10h à 17h le reste de l'année ; fermé le dimanche",
+    "produits": [
+      "Vin AOP Côtes de Provence rosé",
+      "Vin AOP Côtes de Provence blanc",
+      "Vin AOP Côtes de Provence rouge"
+    ],
+    "description": "Domaine viticole familial à 250 m d'altitude sur la route du Plan-de-la-Tour, face au golfe de Saint-Tropez. Vente et dégustation à la cave toute l'année, visite libre hors groupes.",
+    "telephone": "04 94 40 73 76",
+    "site_web": "http://www.domainedesbeaucas.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Beaucas+Sainte-Maxime",
+    "image_url": "/images/marchands/domaine-des-beaucas.jpg"
   }
 ]
