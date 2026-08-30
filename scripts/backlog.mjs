@@ -122,6 +122,33 @@ async function main() {
     return;
   }
 
+  // repondre <id> <decision> "<note>"  — simulation par defaut, --envoyer pour
+  // expedier reellement.
+  if (cmd === "repondre") {
+    const decision = rest[0];
+    const envoyer = rest.includes("--envoyer");
+    const note = rest.slice(1).filter((r) => r !== "--envoyer").join(" ") || null;
+    if (!arg || !decision) {
+      return console.error(
+        'Usage : repondre <id> <integree|refusee|complement> "note" [--envoyer]'
+      );
+    }
+    const body = await api(
+      `/api/admin/demandes/${encodeURIComponent(arg)}/email`,
+      {
+        method: "POST",
+        body: JSON.stringify({ decision, note, simulation: !envoyer }),
+      }
+    );
+    console.log(body.envoye ? "ENVOYE" : "SIMULATION (rien n'est parti)");
+    console.log(`Destinataire : ${body.destinataire}`);
+    console.log(`Objet        : ${body.objet}`);
+    if (body.raison) console.log(`Raison       : ${body.raison}`);
+    console.log(`Email actif  : ${body.email_actif}`);
+    console.log(`\n--- apercu ---\n${body.apercu}`);
+    return;
+  }
+
   const STATUTS = { encours: "en_cours", done: "integree", refuse: "refusee" };
   if (cmd in STATUTS) {
     if (!arg) return console.error(`Usage : ${cmd} <id> [note]`);
@@ -134,7 +161,11 @@ async function main() {
   }
 
   console.error(
-    "Commandes : list [statut] | show <id> | encours <id> | done <id> | refuse <id>"
+    "Commandes :\n" +
+      "  list [statut]\n" +
+      "  show <id>\n" +
+      "  encours|done|refuse <id> [note]\n" +
+      '  repondre <id> <integree|refusee|complement> "note" [--envoyer]'
   );
   process.exit(1);
 }

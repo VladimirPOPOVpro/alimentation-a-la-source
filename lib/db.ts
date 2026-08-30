@@ -69,6 +69,15 @@ create table if not exists demandes (
 
 create index if not exists demandes_statut_idx  on demandes (statut, created_at desc);
 create index if not exists demandes_ip_hash_idx on demandes (ip_hash, created_at desc);
+
+-- Ajouts postérieurs à la création initiale de la table : « create table if
+-- not exists » ne les poserait pas sur une base déjà en place.
+alter table demandes add column if not exists email_envoye_at timestamptz;
+alter table demandes add column if not exists email_decision  text;
+alter table demandes add column if not exists email_erreur    text;
+
+create index if not exists demandes_email_idx
+  on demandes (contact_email, email_envoye_at);
 `;
 
 /** Crée le schéma si besoin. Idempotent, et tenté une seule fois par process. */
