@@ -1,69 +1,80 @@
-import Image from "next/image";
+import Link from "next/link";
+import { ArrowRight, Leaf, MapPin } from "lucide-react";
+import HeroReveal from "@/components/HeroReveal";
+import { getAllMerchants } from "@/lib/merchants";
 
 export default function Home() {
+  const merchantCount = getAllMerchants().length;
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <div className="flex flex-1 flex-col">
+      <section className="relative flex flex-1 items-center overflow-hidden bg-gradient-to-b from-brand-green-light via-background to-background px-4 py-20 sm:px-6">
+        <div className="mx-auto flex max-w-4xl flex-col items-center gap-6 text-center">
+          <HeroReveal>
+            <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-medium text-brand-green-dark shadow-sm">
+              <Leaf className="h-4 w-4" aria-hidden="true" />
+              Comité environnement, Hôpital Bonnet
+            </span>
+          </HeroReveal>
+
+          <HeroReveal delay={0.1}>
+            <h1 className="font-script text-5xl font-bold leading-tight text-brand-green-dark sm:text-7xl">
+              L&apos;Alimentation à la Source
+            </h1>
+          </HeroReveal>
+
+          <HeroReveal delay={0.2}>
+            <p className="max-w-2xl text-lg text-foreground/80 sm:text-xl">
+              Du champ à votre assiette&hellip; Faites le choix du bon, du
+              frais et du sens.
+            </p>
+          </HeroReveal>
+
+          <HeroReveal delay={0.3}>
+            <p className="max-w-xl text-base text-foreground/60">
+              Consommer local, c&apos;est préserver sa santé, sa région et sa
+              planète. Découvrez {merchantCount} marchands, fermes et marchés
+              autour de l&apos;Hôpital Bonnet, à Saint-Raphaël.
+            </p>
+          </HeroReveal>
+
+          <HeroReveal delay={0.4}>
+            <Link
+              href="/carte"
+              className="group mt-4 inline-flex items-center gap-2 rounded-full bg-brand-green px-8 py-4 text-lg font-semibold text-white shadow-lg shadow-brand-green/20 transition-transform hover:scale-105 hover:bg-brand-green-dark"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+              <MapPin className="h-5 w-5" aria-hidden="true" />
+              Voir la carte
+              <ArrowRight
+                className="h-5 w-5 transition-transform group-hover:translate-x-1"
+                aria-hidden="true"
+              />
+            </Link>
+          </HeroReveal>
+        </div>
+      </section>
+
+      <section className="border-t border-brand-green-light bg-white px-4 py-14 sm:px-6">
+        <div className="mx-auto max-w-4xl text-center">
+          <p className="text-base leading-relaxed text-foreground/70">
+            Cette initiative est portée par le{" "}
+            <strong className="text-brand-green-dark">
+              comité environnement de l&apos;Hôpital Bonnet
+            </strong>
+            , à Saint-Raphaël. Notre objectif est simple : faire connaître
+            aux équipes de l&apos;hôpital et aux habitants du secteur les
+            marchands locaux, les fermes en vente directe et les marchés de
+            producteurs qui font vivre notre région, tout en réduisant notre
+            empreinte environnementale au quotidien.
           </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/pourquoi"
+            className="mt-6 inline-block text-sm font-medium text-brand-green-dark underline decoration-brand-green/40 underline-offset-4 hover:text-brand-green"
           >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            Découvrir pourquoi consommer local, en 5 piliers →
+          </Link>
         </div>
-      </main>
+      </section>
     </div>
   );
 }

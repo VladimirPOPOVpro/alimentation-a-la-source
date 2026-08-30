@@ -1,26 +1,69 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fdfbf6;
+  --foreground: #1f2a1c;
+
+  --color-brand-green: #4c8c4a;
+  --color-brand-green-dark: #35662f;
+  --color-brand-green-light: #e8f3e3;
+
+  --color-pillar-alimentation: #7cb342;
+  --color-pillar-alimentation-bg: #f1f8e9;
+  --color-pillar-environnement: #2e7d32;
+  --color-pillar-environnement-bg: #e6f2e6;
+  --color-pillar-transport: #29b6f6;
+  --color-pillar-transport-bg: #e6f7fe;
+  --color-pillar-economie: #fb9a2f;
+  --color-pillar-economie-bg: #fff3e0;
+  --color-pillar-social: #ba68c8;
+  --color-pillar-social-bg: #f6e8fa;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-brand-green: var(--color-brand-green);
+  --color-brand-green-dark: var(--color-brand-green-dark);
+  --color-brand-green-light: var(--color-brand-green-light);
+
+  --color-pillar-alimentation: var(--color-pillar-alimentation);
+  --color-pillar-alimentation-bg: var(--color-pillar-alimentation-bg);
+  --color-pillar-environnement: var(--color-pillar-environnement);
+  --color-pillar-environnement-bg: var(--color-pillar-environnement-bg);
+  --color-pillar-transport: var(--color-pillar-transport);
+  --color-pillar-transport-bg: var(--color-pillar-transport-bg);
+  --color-pillar-economie: var(--color-pillar-economie);
+  --color-pillar-economie-bg: var(--color-pillar-economie-bg);
+  --color-pillar-social: var(--color-pillar-social);
+  --color-pillar-social-bg: var(--color-pillar-social-bg);
+
+  --font-script: var(--font-caveat);
+  --font-sans: var(--font-inter);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-brand-green);
+  outline-offset: 2px;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  font-family: var(--font-sans), sans-serif;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 12px;
 }
