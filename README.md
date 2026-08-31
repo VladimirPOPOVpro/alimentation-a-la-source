@@ -58,7 +58,7 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-89 fiches sur 123 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+94 fiches sur 128 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -149,8 +149,13 @@ prioritaires en cas de conflit.
 - **Château Saint-Pierre** (l'office de tourisme écrit « transition biologique » quand le registre de l'Agence Bio enregistre un engagement chez Ecocert depuis 2022 et que le site du domaine affiche un pictogramme « Certification Bio » : la fiche parle d'engagement et s'arrête là. L'adresse publiée, « route de Taradeau », n'a pas de numéro de voirie ; le point retenu est celui de la fiche de l'office, à 490 m du centre de la voie rendu par la Base Adresse Nationale)
 - **So.bio Les Arcs** (l'enseigne annonce sur sa propre page le magasin fermé le dimanche, l'annuaire des commerces de la commune une ouverture le dimanche de 9h à 12h30 : les deux figurent dans la fiche. L'adresse est celle d'une zone d'activité sans numéro de voirie, que la Base Adresse Nationale ne sait pas géocoder ; le point publié est celui que le registre des entreprises donne à cet établissement, à 200 m du Cellier des Archers déjà présent sur la carte — les deux commerces sont bien voisins dans le même quartier de la Haute Cognasse. Enfin l'enseigne ne publie aucune photo de ce magasin-là : l'illustration est une photo de rayon fruits et légumes prise par So.bio dans l'un de ses magasins)
 - **La Ruche qui dit Oui ! - Les Arcs** (la page de la ruche porte une fréquence « chaque semaine » dans ses données de service et « deux fois par mois » dans son texte de présentation, et les deux dernières distributions publiées sont espacées de trois semaines : la fiche retient les deux distributions mensuelles annoncées par la ruche elle-même et renvoie à sa page pour les dates. Le seul contact publié est un portable personnel, qui n'a donc pas été inscrit. La photo est celle du réseau La Ruche qui dit Oui !, pas de cette ruche-là)
+- **Moulin du Grimaudet - Coopérative oléicole Cœur du Var** (trois réserves. Le nom de domaine `moulindugrimaudet.fr`, sans tiret, a été racheté et sert aujourd'hui de vitrine à un site de jeux d'argent qui reprend le nom du moulin dans son texte : le vrai site de la coopérative est `moulin-du-grimaudet.com`, avec des tirets, et c'est lui qui figure ici. Ensuite, l'adresse diverge — le moulin publie « 301 route des Mayons », le registre des entreprises donne « Moulin du Grimaudet, route de Toulon » pour son seul établissement actif et marque celui de la route des Mayons comme fermé ; c'est l'adresse du moulin qui a été retenue, et le point publié est celui de la fiche de l'office de tourisme, la Base Adresse Nationale ne connaissant pas le numéro 301 et ne rendant que l'axe, à 2 km de là. Enfin les horaires : le moulin n'ouvre que pendant la campagne, le reste de l'année l'huile est vendue à l'office de tourisme, dont les horaires figurent aussi dans la fiche)
+- **Ferme Dragone** (l'office de tourisme Cœur du Var est la seule source : il donne l'adresse, le téléphone et des horaires saisonniers, mais assortit l'hiver d'un « selon production ». La ferme n'a pas de site. Au registre, il s'agit d'une entreprise individuelle de culture de légumes sous patronyme ; « Ferme Dragone » est le nom publié par l'office. Elle ne figure pas au registre de l'Agence Bio : le pilier « environnement » n'a donc pas été coché, contrairement aux autres fiches de catégorie ferme)
+- **Spiruluc** (le siège social déclaré, « 2080 route de Toulon », n'est pas le lieu de vente : le producteur écrit lui-même que la ferme et le retrait sont chemin des Coudounelles, à 400 m de là, et c'est cette adresse qui figure ici. Aucune heure d'ouverture n'est publiée, seulement « toute l'année » côté office de tourisme et un retrait sur place proposé par la boutique en ligne. La seule photo du site montrant la ferme entière porte un visage identifiable : l'illustration retenue est celle de l'extrusion de la spiruline fraîche sur les claies de séchage)
+- **Les Vignerons du Luc** (la cave ne publie sur son site ni adresse, ni téléphone, ni horaires — seulement un formulaire. Tout vient de la fiche de l'office de tourisme, qui se contente de « ouvert tous les jours, sauf dimanche après-midi ». Au registre, la société est immatriculée sous « Coopé Vinicole du Luc » ; « Les Vignerons du Luc » est l'enseigne de la cave et le nom de son site)
+- **Château Demonpère** (les surfaces divergent d'une source à l'autre : 300 hectares chez l'office de tourisme intercommunal, 144 hectares dont 32 de vignes côté comité régional du tourisme, 52 hectares de vignes et 17 d'oliviers sur le site du domaine. La fiche ne retient que ce que le domaine écrit lui-même et ne donne aucun total. Le point publié est celui du marqueur que le domaine place sur sa propre page de contact ; la fiche de l'office tombe 280 m plus au sud-ouest et le registre 900 m au nord)
 
-Les 123 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 128 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -523,6 +528,22 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées au Luc-en-Provence
+
+- **Marché du Luc** : l'office de tourisme Cœur du Var confirme un marché le vendredi matin, « au centre
+  ville », mais ne publie ni heure de début ni de fin, et le site de la commune n'a pas de page
+  « marchés ». À reprendre dès qu'une source donnera les horaires.
+- **Château La Mascaronne** (RN7) : domaine engagé chez Ecocert, actif au registre, ouvert du lundi au
+  vendredi toute l'année d'après l'office de tourisme. Non instruit cette passe, qui en comptait déjà
+  cinq — à reprendre au prochain passage sur la commune.
+- **Ferme de la Mounette** (18 chemin de la Source) : maraîchage certifié auprès de Bureau Alpes
+  contrôles au registre de l'Agence Bio, mais absente de l'annuaire de l'office de tourisme et sans
+  aucune source publiant une vente au public ni des horaires. Non publiée en l'état.
+- **Piège de nom de domaine** : `moulindugrimaudet.fr` n'appartient plus au moulin. Le domaine a été
+  racheté et sert de vitrine à un site de jeux d'argent qui cite le moulin dans son texte pour se
+  donner l'air légitime. Le site de la coopérative est `moulin-du-grimaudet.com`. Deuxième piège de
+  ce type après celui de la Poissonnerie Santa Lucia : chaque domaine s'ouvre avant d'être inscrit.
 
 ### Pistes non publiées à Lorgues
 

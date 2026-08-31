@@ -3103,5 +3103,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Jardin+du+Soleil+RN+7+Les+Arcs",
     "image_url": "/images/marchands/la-ruche-qui-dit-oui-les-arcs.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "moulin-du-grimaudet",
+    "nom": "Moulin du Grimaudet - Coopérative oléicole Cœur du Var",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.3865,
+    "lon": 6.3127,
+    "adresse": "301 route des Mayons, 83340 Le Luc-en-Provence",
+    "horaires": "Le moulin triture et vend pendant la campagne oléicole, du 20 octobre au 31 janvier. Hors campagne, l'huile de la coopérative est vendue au même tarif à l'office de tourisme Cœur du Var, boulevard Charles Gaudin (DN7) au Luc, du lundi au vendredi de 9h à 12h30 et de 13h30 à 17h — dès 13h le mardi —, fermé le samedi et le dimanche.",
+    "produits": [
+      "Huile d'olive vierge extra en bidons de 0,25, 0,5 et 0,75 litre",
+      "Huile d'olive en cubi de 3 litres",
+      "Huile d'olive en vrac pendant la trituration",
+      "Variétés cayon, bouteillan, aglandau et picholine",
+      "Trituration des olives des adhérents"
+    ],
+    "description": "Coopérative oléicole intercommunale du Cœur du Var, créée en 1924 et forte de près de 1 500 coopérateurs venus d'un bassin de seize communes, qui font triturer leurs olives à ce moulin. On y presse la variété locale, le cayon, à côté du bouteillan, de l'aglandau et de la picholine. La coopérative est engagée en agriculture biologique auprès d'Ecocert d'après le registre de l'Agence Bio.",
+    "telephone": "04 94 99 58 46",
+    "site_web": "https://moulin-du-grimaudet.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+du+Grimaudet+Le+Luc",
+    "image_url": "/images/marchands/moulin-du-grimaudet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-dragone",
+    "nom": "Ferme Dragone",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.389096,
+    "lon": 6.314105,
+    "adresse": "16-23 chemin du Grimaudet, 83340 Le Luc-en-Provence",
+    "horaires": "En juillet et août, du mardi au vendredi de 15h30 à 18h30 et le samedi de 9h à 12h. De septembre à juin, le samedi de 9h à 12h, selon la production.",
+    "produits": [
+      "Fruits de saison",
+      "Légumes de saison",
+      "Courgettes rondes et courges",
+      "Cerises",
+      "Oignons et haricots",
+      "Huile d'olive"
+    ],
+    "description": "Exploitation maraîchère du quartier du Grimaudet qui vend sa production en direct : fruits et légumes au fil des récoltes, et l'huile d'olive de la ferme. L'office de tourisme Cœur du Var précise que l'ouverture d'hiver, le samedi matin, dépend de la production.",
+    "telephone": "06 13 60 00 46",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+Dragone+Le+Luc",
+    "image_url": "/images/marchands/ferme-dragone.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "spiruluc",
+    "nom": "Spiruluc",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.373977,
+    "lon": 6.293735,
+    "adresse": "Chemin des Coudounelles, 83340 Le Luc-en-Provence",
+    "horaires": "Vente à la ferme toute l'année, sur rendez-vous : l'option « récupérer la spiruline sur place » de la boutique en ligne permet de retirer sa commande chemin des Coudounelles, parfois avec une visite des bassins. La spiruline est aussi vendue à La Grange Bio, au Cannet-des-Maures.",
+    "produits": [
+      "Spiruline en brindilles",
+      "Spiruline en comprimés",
+      "Spiruline en poudre",
+      "Cures de plusieurs mois"
+    ],
+    "description": "Petite production de spiruline lancée en 2019 au Luc, cultivée sans pesticide sous serre et séchée à basse température pour préserver ses vitamines. La vente se fait en direct du producteur, à la ferme sur rendez-vous ou par la boutique en ligne avec retrait sur place.",
+    "telephone": "06 27 50 10 96",
+    "site_web": "https://spiruluc.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spiruluc+Le+Luc+en+Provence",
+    "image_url": "/images/marchands/spiruluc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-vignerons-du-luc",
+    "nom": "Les Vignerons du Luc",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.393266,
+    "lon": 6.310574,
+    "adresse": "Rue de l'Ormeau, 83340 Le Luc-en-Provence",
+    "horaires": "Ouvert tous les jours sauf le dimanche après-midi, d'après l'office de tourisme Cœur du Var. La cave ne publie aucune heure sur son propre site : appeler avant de se déplacer.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Vins IGP Pays des Maures",
+      "Cuvées Lou Castellas, Terres des Anges, Domaine Saint Martin et Château Peirons"
+    ],
+    "description": "Cave coopérative fondée en 1911 sous le nom de La Lucoise par quatre-vingts viticulteurs du Luc, qui vinifie aujourd'hui 350 hectares de vignes, dont 250 en AOP Côtes de Provence et une centaine en IGP Pays des Maures. Le caveau vend les cuvées des adhérents ; la coopérative est engagée en agriculture biologique auprès de Bureau Veritas d'après le registre de l'Agence Bio.",
+    "telephone": "04 94 60 70 25",
+    "site_web": "https://lesvigneronsduluc.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vignerons+du+Luc",
+    "image_url": "/images/marchands/les-vignerons-du-luc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-demonpere",
+    "nom": "Château Demonpère",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.363259,
+    "lon": 6.318729,
+    "adresse": "La Pardiguière, route des Mayons, 83340 Le Luc-en-Provence",
+    "horaires": "Du 1er avril au 20 octobre, caveau ouvert du lundi au samedi de 9h à 18h. Du 21 octobre à fin mars, du lundi au vendredi de 9h à 17h.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Huiles d'olive bio Picholine, Frantoio, Cayon et Ascolana",
+      "Huile d'olive fruité noir",
+      "Huile d'olive assemblage Tradition"
+    ],
+    "description": "Domaine cultivé depuis le XVe siècle sur l'ancienne Pardiguière, dans la plaine des Maures, qui associe vignes et oliveraie et vend en direct au caveau aménagé dans une bergerie de 1492 creusée dans la roche. Les vins des Côtes de Provence sont certifiés en agriculture biologique et les 2 700 oliviers du domaine donnent six huiles conduites sans herbicide ni engrais de synthèse.",
+    "telephone": "04 94 60 07 78",
+    "site_web": "https://www.chateau.demonpere.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Demonpere+Le+Luc",
+    "image_url": "/images/marchands/chateau-demonpere.jpg",
+    "a_confirmer": true
   }
 ]
