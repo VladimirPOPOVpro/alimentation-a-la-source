@@ -39,10 +39,15 @@ prioritaires en cas de conflit.
    part quand même : on publie les deux versions quand elles sont toutes deux plausibles, on retient
    celle du commerçant quand elle est plus récente que celle de l'office, et on marque
    `a_confirmer`. Une contradiction se consigne ici, elle ne remonte pas.
+6. **Enseigne absente du registre des entreprises.** Une fiche de commerce ou de domaine ne part
+   que si une entité **active** lui correspond au registre, à son adresse ou sous son enseigne. Un
+   site officiel vivant et une fiche d'office de tourisme ne suffisent pas : ils survivent des mois
+   à une fermeture. La règle ne s'applique pas aux marchés communaux ni aux AMAP, qui relèvent
+   d'une commune ou d'une association et se vérifient autrement.
 
 ## Marchands à confirmer
 
-74 fiches sur 108 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+79 fiches sur 113 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -118,8 +123,13 @@ prioritaires en cas de conflit.
 - **La Maison des Confitures** (deux réserves. Les horaires du site de la maison — lundi au samedi 9h-19h, fermé le dimanche — contredisent l'office, qui annonce tous les jours ; les deux figurent dans la fiche. Et au registre, la société historique est **cessée** : c'est une autre société, active, qui exploite l'enseigne à la même adresse depuis la reprise de 2023)
 - **Les Maîtres Vignerons de la presqu'île de Saint-Tropez** (l'office donne « toute l'année du lundi au samedi » sans heures, et se contredit sur la taille de l'union — dix domaines dans un paragraphe, onze dans l'autre ; c'est le chiffre du texte le plus détaillé qui a été retenu. Le point publié est celui de l'office : la Base Adresse Nationale ne rend que le rond-point de La Foux, à 390 m. `petitvillage.com`, l'ancien domaine de la boutique cité par l'office, ne répond plus et n'a pas été inscrit)
 - **Domaine du Bourrian** (les horaires du caveau sont datés — « du 11/04 au 11/10/2026 » — et devront être revérifiés la saison prochaine. La surface annoncée varie selon le paragraphe, 23,5 ou 24 hectares ; la fiche ne donne pas de chiffre)
+- **Marcel & Fils Bio Cogolin** (l'enseigne ne publie aucune photo de son magasin de Cogolin. L'illustration est une photo de rayon fruits et légumes prise par l'enseigne elle-même et publiée sur son site : elle montre la marque, pas ce magasin-là. Les horaires sont ceux annoncés par la page officielle « jusqu'au 6 septembre 2026 » et devront être revérifiés après cette date)
+- **La Boulangerie de Port Grimaud** (l'office de tourisme et l'Agence Bio écrivent « rue des Artisans », le registre des entreprises et la Base Adresse Nationale « place des Artisans » : c'est le libellé de la BAN qui a été retenu. L'office intitule l'enseigne « La Boulangerie biologique de Port Grimaud », son enseigne peinte dit « La Boulangerie de Port Grimaud » — c'est l'enseigne qui a été retenue. Tous les horaires publiés sont datés de 2026 et devront être repris la saison prochaine. La seule photo disponible montrait une personne dans l'entrée : l'image publiée est un recadrage sur le bandeau d'enseigne)
+- **Domaine Château Saint Marc** (l'office publie un fixe et un portable ; seul le fixe est inscrit. Le point retenu est celui de la Base Adresse Nationale au 588 chemin des Crottes et de Saint-Marc — la même adresse que le Clos Mirages, déjà présent sur la carte, dont les deux caveaux sont voisins sur ce chemin)
+- **Domaine de la Giscle** (deux contradictions. L'office de tourisme écrit « six générations », le site du domaine « 8 générations » : la fiche ne donne aucun chiffre et retient la seule date que les deux sources partagent, 1834. Surtout, l'office annonce une gamme de terroir — huile, miel, châtaignes, foie gras — que le site refait du domaine ne présente plus en 2026 ; les deux figurent, avec la consigne d'appeler avant de se déplacer pour ces produits)
+- **Domaine des Vallats** (le domaine ne publie que des portraits de son équipe et des intérieurs de gîtes : l'illustration est un recadrage sur le feuillage de vigne de l'une de ses propres photos, sans personne identifiable. Le nom de la cuvée diverge, « Vallats Perier » chez l'office, « Vallats Perrier » deux fois sur le site du domaine : c'est l'orthographe du domaine qui a été retenue. Le seul contact publié est un portable, donné comme numéro du domaine par l'office comme par le site)
 
-Les 108 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 113 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -282,13 +292,6 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 
 ### Pistes non publiées à Cogolin
 
-- **Marcel & Fils bio** (274 avenue de Saint-Maur) : magasin bio entièrement vérifié —
-  l'annuaire des commerces de la commune, l'établissement actif au registre et la page
-  officielle de l'enseigne donnent la même adresse, le même téléphone et des horaires
-  précis. L'enseigne ne publie aucune photo de son magasin de Cogolin. **Décision prise :
-  la fiche part avec une photo thématique honnête** (voir « Règles de décision » plus haut),
-  la réserve sur l'illustration étant écrite ici et la fiche marquée à confirmer. À intégrer
-  au prochain passage sur Cogolin.
 - **Brasserie Artisanale des Palmiers** (domaine Val d'Astier) : brasserie certifiée bio,
   active au registre en fabrication de bière, mais installée à Cogolin seulement depuis
   2025 et sans aucune source publiant une boutique, des horaires ou une vente aux
@@ -296,11 +299,24 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 - **Le Jardin de Léonie** (quartier Saint-Maur, route de Collobrières) : l'annuaire
   municipal précise « production seulement en été » et donne deux numéros de portable.
   Aucune autre source, aucune entité à ce nom au registre : non publiée.
-- **Château Saint-Marc**, **Domaine de la Giscle**, **Domaine du Val d'Astier** et
-  **Château de Trémouriès** : quatre domaines viticoles listés par la commune, non traités
-  faute de place, la passe étant limitée à cinq fiches.
+- **Domaine du Val d'Astier** : la seule entité active à ce nom au registre est immatriculée
+  en enseignement sportif (85.51Z), pas en viticulture. Aucune source ne documente un caveau
+  ni des horaires : non publiée.
+- **Château de Trémouriès** (1698 route de la Môle) : le site officiel est vivant, publie des
+  horaires de saison, un téléphone et une boutique (huile d'olive AOP, vins, épicerie), et
+  l'office de tourisme le référence avec les labels HVE et AOP. Mais **aucune entité active ne
+  lui correspond au registre** — ni sous ce nom, ni à ce numéro de voirie ; la seule société du
+  quartier engagée à l'Agence Bio, au lieu-dit Les Vergerets, est enregistrée en cueillette
+  sauvage, ce qui ne correspond pas. En application de la règle 6 des « Règles de décision »,
+  la fiche n'est pas publiée. À reprendre si l'exploitant se laisse identifier.
 - **Les vignerons de Taradeau** (73 avenue Georges Clemenceau) : point de vente d'une cave
   coopérative de Taradeau, à 60 km de là — un caviste, pas un producteur cogolinois.
+- Une correction possible sur la fiche **Château Saint-Maur**, déjà publiée : le registre de
+  l'Agence Bio l'enregistre au « 700 route de Collobrières » avec une certification Ecocert
+  **engagée**, quand la fiche publiée dit « 535 route de Collobrières (D48) » et « en conversion »,
+  d'après le domaine lui-même. Les deux sources sont plausibles et l'écart de voirie est faible ;
+  la fiche est laissée telle quelle et marquée à confirmer, mais le mot « bio » y reste absent
+  tant que le domaine ne le revendique pas.
 - L'AMAP **Les Amapiens du Golfe** distribue au point de vente du Jardin de la Piboule :
   elle est mentionnée dans cette fiche plutôt que d'en faire une entrée séparée au même
   point de la carte.
@@ -320,11 +336,6 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
   entreprises individuelles enregistrées sous le patronyme de l'exploitant, sans nom commercial
   publié par une source officielle — la règle de modération interdit de publier un patronyme comme
   s'il s'agissait d'une enseigne. Non publiées.
-- **La Boulangerie de Port Grimaud** (7 rue des Artisans) : pain frais certifié bio, engagement
-  Ecocert actif. Le site n'a pas de catégorie « boulangerie » dans `lib/types.ts`, et le code est
-  hors périmètre. **Décision prise : catégorie `producteur`** — un artisan qui cuit sur place un pain
-  certifié bio et le vend au comptoir est un producteur en vente directe, au même titre que les
-  autres fiches de cette catégorie. À intégrer au prochain passage sur Grimaud.
 - **GRIVAR** (616 route de Cogolin) et **GVSE** (3723 route du Plan de la Tour) : deux
   établissements grimaudois engagés auprès d'Ecocert, mais l'un est immatriculé en supermarché
   (47.11D) et l'autre en commerce de gros non spécialisé (46.90Z) — hors du champ des circuits

@@ -2706,5 +2706,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Bourrian+Gassin",
     "image_url": "/images/marchands/domaine-du-bourrian.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marcel-et-fils-bio-cogolin",
+    "nom": "Marcel & Fils Bio Cogolin",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.256315,
+    "lon": 6.528188,
+    "adresse": "274 avenue de Saint-Maur, 83310 Cogolin",
+    "horaires": "Du lundi au samedi de 9h à 19h30, dimanche de 9h à 12h30. Horaires annoncés par l'enseigne jusqu'au 6 septembre 2026.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Boucherie",
+      "Fromagerie",
+      "Boulangerie et pâtisserie",
+      "Épicerie sucrée et salée",
+      "Vrac",
+      "Vins et boissons"
+    ],
+    "description": "Magasin bio de l'enseigne provençale Marcel & Fils, au parc d'activités de Saint-Maur, certifié en agriculture biologique auprès de Bureau Alpes Contrôles. Les rayons couvrent les fruits et légumes, la boucherie, la fromagerie, la boulangerie et le vrac, avec une part annoncée en direct de producteurs.",
+    "telephone": "04 94 54 12 97",
+    "site_web": "https://marceletfils.com/pages/cogolin",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcel+et+Fils+Bio+Cogolin",
+    "image_url": "/images/marchands/marcel-et-fils-bio-cogolin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-boulangerie-de-port-grimaud",
+    "nom": "La Boulangerie de Port Grimaud",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.274806,
+    "lon": 6.579362,
+    "adresse": "7 place des Artisans, 83310 Grimaud",
+    "horaires": "Du 1er janvier au 31 mars et du 28 novembre au 21 décembre 2026 : du lundi au samedi de 6h à 13h, fermé le dimanche. Du 1er avril au 31 octobre 2026 : tous les jours de 6h à 13h30. Du 27 au 31 décembre 2026 : lundi, mardi, mercredi et samedi de 6h à 13h.",
+    "produits": [
+      "Pains 100 % bio, labellisés AB et Ecocert",
+      "Viennoiseries faites maison",
+      "Pâtisseries faites maison",
+      "Muffins",
+      "Croquantines aux noisettes",
+      "Sablés au chocolat",
+      "Sacristains"
+    ],
+    "description": "Boulangerie certifiée en agriculture biologique par Ecocert, qui pétrit, façonne et cuit sur place des pains 100 % bio, sur la place des Artisans à Port Grimaud. Les viennoiseries et les pâtisseries sont annoncées faites maison.",
+    "telephone": "04 94 55 43 83",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulangerie+de+Port+Grimaud",
+    "image_url": "/images/marchands/la-boulangerie-de-port-grimaud.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-chateau-saint-marc",
+    "nom": "Domaine Château Saint Marc",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.249967,
+    "lon": 6.488295,
+    "adresse": "588 chemin des Crottes et de Saint-Marc, 83310 Cogolin",
+    "horaires": "Toute l'année, du mardi au vendredi de 10h à 12h30 et de 14h30 à 18h.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Cuvée Grande Réserve Domini",
+      "Cuvée Épicure"
+    ],
+    "description": "Propriétaire récoltant de huit hectares en AOP Côtes de Provence sur les hauteurs de Cogolin, certifié en agriculture biologique par Ecocert et membre des Vignerons Indépendants de France. Le caveau, accessible en fauteuil roulant, propose une dégustation gratuite des cuvées Grande Réserve Domini et Épicure en rouge, rosé et blanc.",
+    "telephone": "09 75 64 22 91",
+    "site_web": "https://www.chateau-saint-marc.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Saint+Marc+Cogolin",
+    "image_url": "/images/marchands/domaine-chateau-saint-marc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-giscle",
+    "nom": "Domaine de la Giscle",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.271868,
+    "lon": 6.491436,
+    "adresse": "1122 route de Collobrières, 83310 Cogolin",
+    "horaires": "Du 26 janvier au 31 décembre, les lundi, mardi, jeudi, vendredi et samedi de 9h à 12h30 et de 14h à 18h30. Fermé le mercredi et le dimanche.",
+    "produits": [
+      "Vins AOP Côtes de Provence rouge, rosé et blanc",
+      "Vins IGP (chardonnay, viognier, sauvignon blanc, merlot)",
+      "Cuvée Moulin de l'Isle",
+      "Huile d'olive",
+      "Miel et produits apicoles",
+      "Châtaignes",
+      "Foie gras"
+    ],
+    "description": "Vignoble familial d'une cinquantaine d'hectares sur le versant sud du massif des Maures, dans la famille Audemard depuis 1834 et bâti autour d'un ancien moulin à farine. La dégustation se tient dans un chai voûté ; l'office de tourisme annonce, à côté des vins, une gamme de terroir (huile, miel, châtaignes, foie gras) que le site du domaine ne présente plus en 2026 : mieux vaut appeler avant de se déplacer pour ces produits.",
+    "telephone": "04 94 43 21 26",
+    "site_web": "https://domainedelagiscle.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Giscle+Cogolin",
+    "image_url": "/images/marchands/domaine-de-la-giscle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-des-vallats",
+    "nom": "Domaine des Vallats",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.253082,
+    "lon": 6.489498,
+    "adresse": "1247 chemin du Val de Perrier, 83310 Cogolin",
+    "horaires": "Toute l'année, du lundi au samedi de 9h à 12h et de 14h à 18h. Fermé le dimanche, sauf sur réservation.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Cuvée Vallats Perrier",
+      "Cuvée Rosée des Vallats",
+      "Huile d'olive"
+    ],
+    "description": "Vignoble de douze hectares en AOP Côtes de Provence au Val de Perier, repris par la famille Guillemard en 2020, dont le lac entretient une biodiversité mise en avant par le domaine. Le caveau vend en direct les cuvées Vallats Perrier et Rosée des Vallats ; la visite guidée avec dégustation est payante, annoncée à 15 € par personne.",
+    "telephone": "06 13 07 07 75",
+    "site_web": "https://www.domainedesvallats.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Vallats+Cogolin",
+    "image_url": "/images/marchands/domaine-des-vallats.jpg",
+    "a_confirmer": true
   }
 ]
