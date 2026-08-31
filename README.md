@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-60 fiches sur 93 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+64 fiches sur 98 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -76,8 +76,12 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **La Halle de Grimaud** (le magasin ne publie pas ses horaires : ceux de la fiche viennent de l'office de tourisme, qui ajoute lui-même « jours et horaires d'ouverture à vérifier ». Son site officiel, lahalledegrimaud.com, répond « Site privé » (HTTP 401) et n'a donc pas été inscrit. L'Agence Bio enregistre la certification du **commerce de détail** comme arrêtée, mais celle de l'exploitation sœur, Les Jardins Bio de la Halle de Grimaud, comme engagée auprès d'Ecocert : la fiche ne revendique le bio que pour les légumes et les œufs qui en viennent)
 - **Les Vignerons de Grimaud** (deux horaires incompatibles : la cave publie sur son propre site « du lundi au samedi 9h-12h30 et 14h-18h », l'office de tourisme annonce une ouverture sept jours sur sept en juillet et août tout en précisant « horaires à confirmer ». Ce sont ceux de la cave qui figurent ici. Le registre situe le siège « 36 avenue des Oliviers », la Base Adresse Nationale et l'office « 36 route des Oliviers » : c'est la voie reconnue par la BAN qui a été retenue. L'Agence Bio enregistre une certification arrêtée pour la cave : aucune mention bio n'a été reprise. Le téléphone est celui du caveau, pas du service commercial)
 - **Le Clos des B** (le domaine annonce sur son site « mardi, mercredi et vendredi 11h-17h » quand l'office de tourisme publie « lundi, mardi et vendredi 10h-17h30, les autres jours sur rendez-vous » : les deux sources ne s'accordent que sur le mardi et le vendredi, la fiche les cite donc toutes les deux. Le domaine écrit lui-même « la certification Bio d'Ecocert est en cours » et l'Agence Bio enregistre un engagement, pas une certification : la fiche parle de biodynamie et de certification en cours, jamais de « vin bio ». Le seul numéro publié est un portable, celui de l'exploitation. Les deux photos du domaine publiées par l'office sont des portraits des vignerons : c'est la photo de vignes du site officiel qui illustre la fiche)
+- **Moulin de la Teissonnière** (le site annoncé par l'office de tourisme, `moulindelateissonniere.com`, ne répond plus du tout : il n'a pas été inscrit. La Base Adresse Nationale ne connaît aucun numéro chemin de la Teissonnière ; les coordonnées sont celles de la fiche de l'office, à 200 m du centre de la voie. L'office écrit « bio verger », mais le moulin n'apparaît pas au registre de l'Agence Bio : aucune mention bio n'a été reprise)
+- **Chèvrerie de Biscare** (l'office de tourisme écrit que l'ouverture dépend de la production et qu'il faut appeler avant de se déplacer : la fiche le répète plutôt que d'annoncer un horaire ferme. « Chèvrerie de Biscare » est le nom commercial publié par l'office ; au registre il s'agit d'une entreprise individuelle d'élevage d'ovins et de caprins. La Base Adresse Nationale ne connaît pas de numéro au quartier Grattué, les coordonnées viennent de la fiche de l'office)
+- **Erbiero** (deux réserves. Le site annoncé par l'office, `erbiero.com`, renvoie une erreur Wix « ConnectYourDomain » : il n'a pas été inscrit. Surtout, l'office parle de « tisanes bio » et d'un « jardin bio » alors que l'Agence Bio enregistre la certification de l'exploitation comme **arrêtée** — la fiche décrit donc le jardin et la cueillette sans employer le mot « bio ». Le point retenu est le numéro de voirie de la Base Adresse Nationale ; celui de l'office tombe 730 m plus au sud)
+- **Clos Mirages** (les horaires divergent : l'office de tourisme publie trois périodes détaillées avec une après-midi de 14h à 17h ou 18h, le domaine annonce sur son propre site 9h-12h et 13h-18h du lundi au vendredi. Les deux figurent dans la fiche. L'office intitule l'adresse « chemin des Crottes et de Saint-Marc », le domaine « chemin de Saint Marc » : c'est le libellé de la Base Adresse Nationale qui a été retenu)
 
-Les 93 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 98 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -290,6 +294,56 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
   de photo de ce marché. L'illustration est un cliché de stand provençal (huiles, olives, fruits
   secs) pris par le photographe de l'office sur les marchés de Grimaud, sans qu'il soit possible
   d'affirmer qu'il a été pris place de l'Église.
+
+### Pistes non publiées à La Môle
+
+- **Domaine de Siouvette** (990 RD 98) et **Domaine de Murennes** (route des Crêtes) : deux domaines
+  viticoles de la commune, actifs au registre, documentés par l'office de tourisme et dotés de sites
+  qui répondent — Siouvette est certifié Haute Valeur Environnementale et dans la même famille depuis
+  1836, Murennes cultive six hectares en bio. Non publiés seulement parce que la passe est limitée à
+  cinq fiches : ce sont les deux premières à reprendre au prochain passage sur ce secteur.
+- **Domaine Château Saint Marc** (chemin des Crottes et de Saint-Marc) : engagé auprès d'Ecocert pour
+  le raisin de cuve et les olives, voisin immédiat du Clos Mirages. La fiche de l'office ne dit rien
+  d'un caveau ni d'horaires de vente aux particuliers.
+- **La Foncière du Domaine de La Môle** (Le Château) et une exploitation individuelle des
+  Rabassières : deux opérateurs engagés en bio à l'Agence Bio (légumes, fleurs coupées, raisin de
+  cuve, fruits). Aucune fiche d'office de tourisme, aucun site, et la seconde n'est enregistrée que
+  sous le patronyme de l'exploitante — la règle de modération interdit de la publier comme s'il
+  s'agissait d'une enseigne.
+- **Réserve générale sur la commune** : La Môle ne publie ni annuaire des commerces ni page terroir.
+  L'office de tourisme intercommunal du golfe de Saint-Tropez est donc la seule source du cercle
+  habituel pour les cinq fiches de cette passe ; le registre des entreprises, la Base Adresse
+  Nationale, l'Agence Bio et les sites des domaines ne servent qu'à recouper. Rien ne vient de la
+  commune elle-même.
+
+### Attention : le domaine de l'office de tourisme de La Garde-Freinet est perdu
+
+`lagardefreinet-tourisme.com` **ne mène plus à l'office de tourisme** : le domaine a été racheté et
+redirige aujourd'hui vers `festivalmagiajerez.com`, un site de festival espagnol. L'office de tourisme
+de La Garde-Freinet est un bureau de l'office intercommunal, à `golfe-sainttropez-tourisme.fr`, et
+c'est ce que le site officiel de la commune (`lgf83.fr`) référence lui-même. Troisième cas après
+`santaluciapoissonnerie.fr` et `chateaudastros.com` : ouvrir un site avant de l'inscrire, toujours.
+
+### Pistes non publiées à La Garde-Freinet
+
+La commune avait été explorée avant de basculer sur La Môle, faute d'y trouver cinq fiches solides.
+Ce qui a été vérifié y reste valable :
+
+- **Marché provençal de La Garde-Freinet** (place Neuve) : mercredi et dimanche de 8h30 à 12h30,
+  toute l'année, en accès libre d'après l'office de tourisme. Le site de la commune ne publie aucune
+  page « marché » qui permette de recouper l'horaire — d'où le report.
+- **La Ferme Blandine** (386 chemin de Gagnal) : microferme labellisée AB — châtaignes, farine de
+  châtaigne au moulin de la propriété, œufs, huile d'olive, brebis. Vente à la propriété et sur les
+  marchés, visites sur réservation. Piste solide, à reprendre.
+- **Domaine Théolier en Provence** (1590 route de la Mourre) : vignes, oliviers et immortelles
+  certifiés AB, mais le domaine précise qu'il « n'est pas visitable » et que la vente se fait
+  uniquement sur rendez-vous ou en point de rencontre.
+- **Un apiculteur des Bas Oliviers** : référencé par l'office de tourisme, ouvert du 1er mars au
+  1er novembre, mais la fiche ne porte que le nom et le prénom de l'exploitant, sans enseigne — non
+  publiable en l'état.
+- **Fromagerie & Cetera** (17 rue du Château) et **Au Garde Manger** (29 route Nationale) : deux
+  commerces actifs au registre, mais documentés seulement par des annuaires commerciaux, jamais par
+  l'office de tourisme ni par la commune. Non publiés faute de source du cercle habituel.
 
 ### Pistes non publiées à Lorgues
 

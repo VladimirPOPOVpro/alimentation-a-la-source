@@ -2327,5 +2327,129 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos+des+B+Grimaud",
     "image_url": "/images/marchands/clos-des-b.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "moulin-de-la-teissonniere",
+    "nom": "Moulin de la Teissonnière",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.266672,
+    "lon": 6.467194,
+    "adresse": "Quartier de la Teissonnière, 83310 La Môle",
+    "horaires": "Du 1er avril au 1er décembre, tous les jours sur rendez-vous. Dégustation individuelle gratuite et visite guidée du moulin sur demande.",
+    "produits": [
+      "Huile d'olive de première pression à froid",
+      "Huile d'olive vendue en vrac",
+      "Dégustation d'huile d'olive",
+      "Visite guidée du moulin"
+    ],
+    "description": "Domaine de plus de mille oliviers avec son propre moulin, à deux kilomètres du village. L'accueil se fait à la ferme sur rendez-vous : visite du moulin, dégustation gratuite et vente de l'huile de première pression à froid, y compris en vrac.",
+    "telephone": "06 07 88 77 21",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+de+la+Teissonniere+La+Mole",
+    "image_url": "/images/marchands/moulin-de-la-teissonniere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chevrerie-de-biscare",
+    "nom": "Chèvrerie de Biscare",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.193708,
+    "lon": 6.46629,
+    "adresse": "Quartier Grattué, 83310 La Môle",
+    "horaires": "Du 1er février au 31 octobre, tous les jours sur rendez-vous uniquement. L'office de tourisme précise que l'ouverture dépend de la production : appeler avant de se déplacer.",
+    "produits": [
+      "Fromages de chèvre fermiers",
+      "Produits laitiers de chèvre",
+      "Vente directe à la ferme"
+    ],
+    "description": "Petite chèvrerie du quartier Grattué, à l'écart du village, qui vend ses fromages directement à la ferme sur rendez-vous. L'exploitation est engagée en agriculture biologique auprès d'Ecocert d'après le registre de l'Agence Bio, et l'ouverture suit le rythme de la production laitière.",
+    "telephone": "04 94 49 58 38",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chevrerie+de+Biscare+La+Mole",
+    "image_url": "/images/marchands/chevrerie-de-biscare.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "erbiero",
+    "nom": "Erbiero",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.235394,
+    "lon": 6.488999,
+    "adresse": "1165 chemin du Figaret, 83310 La Môle",
+    "horaires": "Toute l'année sur rendez-vous : lundi, mardi, jeudi et vendredi de 9h à 16h ; mercredi et samedi de 9h à 12h. Fermé le dimanche.",
+    "produits": [
+      "Tisanes de plantes du jardin",
+      "Tisanes de plantes sauvages du massif des Maures",
+      "Plantes aromatiques séchées",
+      "Vente à l'atelier sur rendez-vous"
+    ],
+    "description": "Atelier de tisanes installé au Figaret, où une paysanne cueilleuse compose ses mélanges à partir des plantes de son jardin et des plantes sauvages du massif des Maures. La vente se fait sur rendez-vous ; le site annoncé par l'office de tourisme n'est plus en ligne.",
+    "telephone": "06 75 24 54 33",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Erbiero+La+Mole",
+    "image_url": "/images/marchands/erbiero.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-pertuade",
+    "nom": "Domaine de la Pertuade",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.217644,
+    "lon": 6.464389,
+    "adresse": "1150 chemin Saint-Julien, 83310 La Môle",
+    "horaires": "De mi-mai à fin septembre : du lundi au samedi de 10h à 14h et de 15h à 19h. Hors saison : du lundi au vendredi de 9h à 12h30 et de 14h à 18h, samedi sur rendez-vous. Fermé le dimanche. Les vendredis soir d'été, apéritif vigneron de 19h à 23h.",
+    "produits": [
+      "Vins AOP Côtes de Provence",
+      "Cuvée L'Embrun",
+      "Cuvée Le Domaine",
+      "Cuvée Arthus",
+      "Dégustation au caveau",
+      "Bar à vins les vendredis soir d'été"
+    ],
+    "description": "Domaine familial de quatorze hectares au bout du chemin qui mène au barrage de la Verne, certifié en agriculture biologique depuis 2025 et vinifiant uniquement le raisin de ses propres vignes. Le caveau se visite librement aux heures d'ouverture, et le domaine ouvre un bar à vins les vendredis soir d'été.",
+    "telephone": "06 31 07 33 32",
+    "site_web": "https://domainedelapertuade.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Pertuade+La+Mole",
+    "image_url": "/images/marchands/domaine-de-la-pertuade.jpg"
+  },
+  {
+    "slug": "clos-mirages",
+    "nom": "Clos Mirages",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.243785,
+    "lon": 6.492918,
+    "adresse": "2631 chemin des Crottes et de Saint-Marc, 83310 La Môle",
+    "horaires": "D'après l'office de tourisme : du 1er juin au 30 septembre, du lundi au samedi de 9h à 12h et de 14h à 18h, dimanche sur réservation ; le reste de l'année, du lundi au vendredi de 9h à 12h et de 14h à 17h, samedi et dimanche sur réservation. Le domaine annonce de son côté 9h-12h et 13h-18h du lundi au vendredi.",
+    "produits": [
+      "Vins AOP Côtes de Provence",
+      "Vins rosés",
+      "Vins rouges",
+      "Vins blancs",
+      "Dégustation au domaine"
+    ],
+    "description": "Domaine indépendant de quinze hectares répartis en dix-huit restanques plein sud, sur un terroir de schistes, repris par la famille en 2020 et cultivé en agriculture biologique auprès d'Ecocert. Le chai bioclimatique, dessiné par le propriétaire architecte, date de 2023 ; les vendanges sont manuelles et les sulfites limités.",
+    "telephone": "07 68 09 62 86",
+    "site_web": "https://www.closmirages.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos+Mirages+La+Mole",
+    "image_url": "/images/marchands/clos-mirages.jpg",
+    "a_confirmer": true
   }
 ]
