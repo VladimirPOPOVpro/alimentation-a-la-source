@@ -1653,5 +1653,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oliveraie+La+Colline+Trans-en-Provence",
     "image_url": "/images/marchands/oliveraie-la-colline.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-fayence",
+    "nom": "Marché de Fayence",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.623426,
+    "lon": 6.695063,
+    "adresse": "Place de l'Église, 83440 Fayence",
+    "horaires": "Du 1er avril au 30 septembre, les mardi, jeudi et samedi de 8h30 à 13h ; du 1er octobre au 31 mars, le samedi de 8h30 à 12h30. Le texte de la même fiche annonce les jours d'été « d'avril à octobre ».",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Produits de producteurs locaux",
+      "Fromages",
+      "Poissons et produits de la mer",
+      "Boucherie et charcuterie"
+    ],
+    "description": "Marché traditionnel installé sous les platanes de la place de l'Église, appelée aussi place Thiers, dans le haut du village. Aux étals alimentaires s'ajoutent des marchands non alimentaires ; en haute saison, une navette gratuite relie le parking du collège au centre du village de 8h30 à 14h.",
+    "telephone": "04 94 39 15 00",
+    "site_web": "https://www.ville-fayence.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marche+de+Fayence+Fayence",
+    "image_url": "/images/marchands/marche-de-fayence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "un-air-de-campagne",
+    "nom": "Magasin de producteurs Un air de campagne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.623832,
+    "lon": 6.695031,
+    "adresse": "Place de l'Église, 83440 Fayence",
+    "horaires": "Les mardi, jeudi et samedi matin, toute l'année. Les horaires structurés de l'office de tourisme annoncent 8h30-12h30, son texte de présentation 9h-12h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Viande et charcuterie",
+      "Fromages",
+      "Huile d'olive",
+      "Miel",
+      "Vins",
+      "Confits et confitures",
+      "Pâtisseries"
+    ],
+    "description": "Halle couverte de producteurs locaux installée au cœur du village, ouverte les mêmes matinées que le marché de plein air voisin. Elle est portée par une société coopérative d'intérêt collectif créée en 2023 et propose en saison des planches de fromages et de charcuterie à déguster sur place.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Un+air+de+campagne+Fayence",
+    "image_url": "/images/marchands/un-air-de-campagne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-des-claux",
+    "nom": "La Ferme des Claux",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.602536,
+    "lon": 6.696103,
+    "adresse": "735 boulevard des Claux, 83440 Fayence",
+    "horaires": "Du 1er janvier au 31 décembre 2026, le mercredi et le vendredi de 17h à 19h. Fermé les autres jours et le week-end.",
+    "produits": [
+      "Fromages de brebis",
+      "Brousse",
+      "Faisselles",
+      "Yaourts",
+      "Fromage blanc",
+      "Glaces au lait de brebis"
+    ],
+    "description": "Bergerie construite en bois à l'écart des grands axes, où les brebis et les chèvres sont élevées et traites sur place. La vente se fait à la propriété deux fins d'après-midi par semaine ; la ferme fabrique aussi, depuis 2018, des glaces au lait de brebis dont les parfums changent avec les saisons.",
+    "telephone": "06 14 32 13 97",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+des+Claux+Fayence",
+    "image_url": "/images/marchands/la-ferme-des-claux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "clos-notre-dame",
+    "nom": "Domaine Le Clos Notre Dame",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.621155,
+    "lon": 6.677345,
+    "adresse": "845 chemin de Notre Dame, 83440 Fayence",
+    "horaires": "Toute l'année du lundi au samedi de 9h à 12h, puis en fin de journée à partir de 18h. La fermeture du soir est annoncée à 19h30 par l'office de tourisme du Pays de Fayence et à 20h par le comité départemental d'avril à octobre ; les deux annoncent 19h de novembre à mars.",
+    "produits": [
+      "Vin rouge",
+      "Vin rosé",
+      "Vin blanc",
+      "Vin de pays du Var"
+    ],
+    "description": "Cave familiale installée au pied de la chapelle Notre-Dame-des-Cyprès, sur un coteau qui fait face au village de Fayence. Le domaine vend sa propre récolte à la propriété et reçoit les groupes sur rendez-vous.",
+    "telephone": "04 94 84 12 41",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos+Notre+Dame+Fayence",
+    "image_url": "/images/marchands/clos-notre-dame.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-la-grande-bastide",
+    "nom": "Domaine La Grande Bastide",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.614555,
+    "lon": 6.708119,
+    "adresse": "397 route de la Grande Bastide, 83440 Tourrettes",
+    "horaires": "Du lundi au samedi de 9h à 12h30 et de 14h30 à 18h30. Le lundi matin est fermé d'octobre à avril inclus.",
+    "produits": [
+      "Vin rouge",
+      "Vin rosé",
+      "Vin blanc",
+      "Épicerie fine locale",
+      "Paniers garnis"
+    ],
+    "description": "Vignoble de vingt hectares replanté au cours des dix dernières années, qui associe syrah, grenache et cinsault à des cépages moins courants dans la région comme le cabernet, le merlot ou le chardonnay. La vente se fait directement au caveau, où la dégustation est gratuite et les visites de cave possibles toute l'année.",
+    "telephone": "04 94 76 00 74",
+    "site_web": "https://www.grandebastide.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+La+Grande+Bastide+Tourrettes",
+    "image_url": "/images/marchands/domaine-la-grande-bastide.jpg",
+    "a_confirmer": true
   }
 ]

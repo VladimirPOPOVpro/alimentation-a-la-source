@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-37 fiches sur 68 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+42 fiches sur 73 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -53,8 +53,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Les Ruchers du Paradis** (l'office de tourisme annonce une ouverture tous les jours de 10h à 19h ; pour une exploitation d'une personne, mieux vaut appeler avant de se déplacer)
 - **Clos Cassivet** (trois noms pour un même domaine : l'office de tourisme le référence « Terre d'Eyssares » au 1025 chemin des Eyssares, mais ses propres coordonnées tombent au 1178 chemin du Cassivet, l'adresse que donnent les annuaires de vin et que confirme le siège au registre, « Clos Cassivet ». C'est l'étiquette photographiée par l'office qui tranche : elle porte « Clos Cassivet ». L'appellation exacte reste incertaine — les annuaires citent tantôt un « Côtes de Provence rouge », tantôt un simple « Vin de France ». Son ancien site, `lecloscassivet.com`, ne résout plus)
 - **Oliveraie La Colline** (vente à la propriété sur rendez-vous seulement ; l'exploitation est une entreprise individuelle et « Oliveraie La Colline » est le nom commercial publié par l'office de tourisme, pas une enseigne déposée au registre)
+- **Marché de Fayence** (les horaires structurés de l'office de tourisme intercommunal annoncent les jours d'été « du 01/04 au 30/09 » quand le texte de la même fiche écrit « d'avril à octobre » ; aucune source officielle ne publie la liste des étals, les catégories de produits de la fiche viennent d'un annuaire de marchés qui donne par ailleurs des jours et des horaires différents, jeudi et samedi de 8h à 12h30)
+- **Magasin de producteurs Un air de campagne** (l'office de tourisme régional tient deux fiches pour ce même lieu : l'une place le point à 1,1 km, dans le lotissement Gafary, l'autre sur la place centrale — ce sont ces dernières coordonnées qui figurent dans la fiche. L'adresse diverge aussi : « place de l'église » côté tourisme, « 3 place de l'Église Saint-Jean-Baptiste » pour l'établissement de commerce au registre, « 2 place de la République » pour le siège de la coopérative ; les deux places se touchent. Les horaires structurés annoncent 8h30-12h30, le texte de la même fiche 9h-12h30. Le seul numéro publié est celui de la mairie : il n'a pas été inscrit comme téléphone du magasin)
+- **La Ferme des Claux** (« La Ferme des Claux » est le nom commercial publié par les offices de tourisme du Pays de Fayence et du Var ; l'exploitation est une entreprise individuelle, sans enseigne déposée au registre. Elle n'a pas de site officiel, seulement une page Facebook, qui n'a donc pas été inscrite)
+- **Domaine Le Clos Notre Dame** (les deux offices de tourisme s'accordent sur la matinée, 9h-12h du lundi au samedi, mais pas sur la fermeture du soir : 19h30 d'avril à octobre pour l'office intercommunal du Pays de Fayence, 20h pour le comité départemental du Var. Le domaine n'a pas de site officiel)
+- **Domaine La Grande Bastide** (attention à l'homonymie : « La Grande Bastide » désigne déjà, dans ce fichier, un point de vente collectif de Roquebrune-sur-Argens — deux établissements sans lien, d'où le slug `domaine-la-grande-bastide`. Le vignoble est engagé auprès d'Ecocert depuis août 2023 pour son raisin de cuve, mais ni son site ni l'office de tourisme n'annoncent de vin certifié biologique : la mention n'a pas été reprise)
 
-Les 68 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 73 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -144,6 +149,24 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 - **L'Abiho** (1417B route des Arcs) : SCEA apicole créée en février 2025, active au
   registre, sans aucune présence publique vérifiable. Attention au piège de nom de
   domaine : `labiho.com` est un **autre** établissement, à Champtercier (04).
+
+### Pistes non publiées à Fayence et Tourrettes
+
+- **Marché paysan de la Ferme du Laquet** (carrefour Tireboeuf, Tourrettes) : piste
+  solide mais non traitée cette passe, faute de place — l'office de tourisme le référence
+  dans sa rubrique « marchés », et le registre confirme deux structures actives, une SARL
+  de commerce de détail au domaine du Laquet et une association de producteurs dédiée au
+  marché. À faire à la prochaine passe sur ce secteur.
+- **Le Jas de Jérôme** (1217 route de Seillans) : actif au registre, mais en activité de
+  siège social (70.10Z) et sans aucune source publique décrivant une vente à la ferme.
+- **Domaine de Borrigaille**, **La Bastide Volante** (111 chemin de Malvoisin) et
+  **Domaine du Ray** (1286 route de Mons) : trois exploitations viticoles ou d'élevage
+  actives au registre à Fayence, dont aucune n'a de site, de fiche d'office de tourisme ni
+  d'horaires publiés. Rien ne dit qu'elles vendent aux particuliers.
+- Une **oléicultrice** installée au lieu-dit de l'ancienne voie ferrée et une **éleveuse
+  ovine** aux Suanes Basses sont actives au registre, mais toutes deux en entreprise
+  individuelle sans nom commercial publié : une fiche aurait affiché un nom de personne,
+  ce que la charte de modération interdit. Non publiées.
 
 ### Pistes non publiées à Lorgues
 
