@@ -2192,5 +2192,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jardin+de+la+Piboule+Cogolin",
     "image_url": "/images/marchands/le-jardin-de-la-piboule.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-grimaud-village",
+    "nom": "Marché provençal de Grimaud village",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.273952,
+    "lon": 6.522769,
+    "adresse": "Place de l'Église et place Vieille, 83310 Grimaud",
+    "horaires": "Tous les jeudis matin de 8h à 13h, toute l'année. La commune précise que le marché peut être suspendu en cas de mauvais temps.",
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs",
+      "Miels",
+      "Fromages de chèvre",
+      "Spécialités provençales",
+      "Poteries, savons et textiles"
+    ],
+    "description": "Marché hebdomadaire du jeudi matin installé sur la place de l'Église et la place Vieille, au pied des façades de pierre du village perché. La commune y annonce fruits et légumes, fleurs, miels, fromages de chèvre et spécialités provençales, aux côtés de stands de poteries, de savons et de textiles.",
+    "telephone": "04 94 55 69 00",
+    "site_web": "https://www.mairie-grimaud.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+l'Eglise+Grimaud",
+    "image_url": "/images/marchands/marche-de-grimaud-village.jpg"
+  },
+  {
+    "slug": "marche-de-port-grimaud",
+    "nom": "Marché de Port Grimaud",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.274013,
+    "lon": 6.580593,
+    "adresse": "Place du Marché, Port Grimaud, 83310 Grimaud",
+    "horaires": "Du 1er avril au 31 octobre, tous les jeudis et dimanches matin de 8h à 13h. La commune précise que le marché peut être suspendu en cas de mauvais temps.",
+    "produits": [
+      "Poissons frais",
+      "Légumes de saison",
+      "Huiles",
+      "Tapenades",
+      "Herbes aromatiques",
+      "Céramiques et bijoux"
+    ],
+    "description": "Marché saisonnier installé au bord de l'eau, sur la place du Marché de la cité lacustre, avec une place réservée aux personnes à mobilité réduite. La circulation automobile étant réglementée dans Port Grimaud, la commune invite à venir à pied, à vélo ou par le bateau-navette.",
+    "telephone": "04 94 55 69 00",
+    "site_web": "https://www.mairie-grimaud.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Marche+Port+Grimaud",
+    "image_url": "/images/marchands/marche-de-port-grimaud.jpg"
+  },
+  {
+    "slug": "la-halle-de-grimaud",
+    "nom": "La Halle de Grimaud",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.261565,
+    "lon": 6.52955,
+    "adresse": "56 chemin de la Rine, 83310 Grimaud",
+    "horaires": "Ouvert toute l'année, tous les jours de 8h à 19h30 d'après l'office de tourisme, qui invite toutefois à vérifier les jours et horaires. Le site du magasin n'est pas accessible publiquement : mieux vaut appeler avant de se déplacer.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Fromages et laitages",
+      "Œufs de la ferme du magasin",
+      "Cave à vins",
+      "Bar à huîtres le week-end",
+      "Traiteur"
+    ],
+    "description": "Épicerie de produits biologiques et locaux à l'entrée de Grimaud, doublée d'un traiteur et d'un bar à huîtres ouvert le week-end. Une partie des légumes et les œufs viennent de sa propre exploitation, Les Jardins Bio de la Halle de Grimaud, engagée en agriculture biologique auprès d'Ecocert.",
+    "telephone": "04 94 56 06 80",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Halle+de+Grimaud",
+    "image_url": "/images/marchands/la-halle-de-grimaud.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vignerons-de-grimaud",
+    "nom": "Les Vignerons de Grimaud",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.269081,
+    "lon": 6.531284,
+    "adresse": "36 route des Oliviers, 83310 Grimaud",
+    "horaires": "Caveau ouvert du lundi au samedi de 9h à 12h30 et de 14h à 18h ; jours fériés du 1er avril au 31 août de 9h à 12h, sauf le 1er mai. Dégustation de 10h15 à 11h45 et de 14h30 à 17h. L'office de tourisme annonce de son côté une ouverture sept jours sur sept en juillet et août.",
+    "produits": [
+      "Vins AOP Côtes de Provence rouges, rosés et blancs",
+      "Cuvée Le Pont des Fées",
+      "Cuvée Le Marquis des Vallats",
+      "Cuvée La Tour de l'Horloge",
+      "Cuvée Les Aumarets",
+      "Produits du terroir au caveau"
+    ],
+    "description": "Cave coopérative née en janvier 1932, qui rassemble aujourd'hui 250 adhérents sur 950 hectares du golfe de Saint-Tropez et produit environ 50 000 hectolitres par an. Le caveau assure la vente et la dégustation des cuvées en AOP Côtes de Provence ; le bâtiment est accessible en fauteuil roulant, rampe d'accès et toilettes adaptées.",
+    "telephone": "04 98 12 68 10",
+    "site_web": "https://www.vigneronsdegrimaud.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vignerons+de+Grimaud",
+    "image_url": "/images/marchands/vignerons-de-grimaud.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "clos-des-b",
+    "nom": "Le Clos des B",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.295951,
+    "lon": 6.574455,
+    "adresse": "1032 chemin des Lyons, 83310 Grimaud",
+    "horaires": "D'après le domaine : mardi, mercredi et vendredi de 11h à 17h. L'office de tourisme annonce de son côté lundi, mardi et vendredi de 10h à 17h30, les autres jours sur rendez-vous uniquement. Appeler avant de se déplacer.",
+    "produits": [
+      "Vins rouges",
+      "Vins rosés",
+      "Vins blancs",
+      "Dégustation à la propriété",
+      "Atelier d'introduction aux vins natures sur réservation"
+    ],
+    "description": "Domaine de 13,5 hectares, dont 10,5 en production, réparti entre Grimaud et Ramatuelle et conduit en biodynamie ; le domaine annonce une certification bio Ecocert en cours. Les vieilles vignes poussent sur des sables de schistes parcourus de veines de quartz, à deux kilomètres de la mer.",
+    "telephone": "06 73 01 49 54",
+    "site_web": "https://www.clos-des-b.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos+des+B+Grimaud",
+    "image_url": "/images/marchands/clos-des-b.jpg",
+    "a_confirmer": true
   }
 ]

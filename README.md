@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-57 fiches sur 88 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+60 fiches sur 93 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -73,8 +73,11 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Château Saint-Maur** (le registre des entreprises situe l'établissement actif au 700 route de Collobrières quand le domaine et la commune publient tous deux le 535, à 640 m de là : c'est le 535, l'adresse donnée aux visiteurs, qui figure ici. Le domaine annonce un vignoble « en conversion bio » et l'Agence Bio enregistre un engagement en cours ; la fiche ne va pas plus loin)
 - **L'Atelier Provençal - Conserverie Au Bec Fin** (aucune société nommée « Au Bec Fin » n'existe au registre : la conserverie y est immatriculée sous le sigle C.B.F. et le magasin sous SAS Rue Pairolière, tous deux actifs à la même adresse. L'office de tourisme intitule sa fiche « Conserverie Au Bec Fin » quand la commune et l'enseigne du magasin disent « L'Atelier Provençal », d'où le nom composé. La commune publie le 04 94 55 74 44, le magasin son propre 04 94 55 74 43 : c'est ce dernier qui a été retenu)
 - **Le Jardin de la Piboule** (« Le Jardin de la Piboule » est le nom commercial publié par l'annuaire des commerces de la commune et par le site de l'exploitation ; au registre il s'agit d'une entreprise individuelle de culture de légumes. L'Agence Bio enregistre une certification **arrêtée** : la fiche ne revendique donc aucun label, seulement l'engagement « sans produits chimiques » affiché par le jardin lui-même. Le seul téléphone publié est celui de l'annuaire municipal, le site du jardin n'en donne aucun)
+- **La Halle de Grimaud** (le magasin ne publie pas ses horaires : ceux de la fiche viennent de l'office de tourisme, qui ajoute lui-même « jours et horaires d'ouverture à vérifier ». Son site officiel, lahalledegrimaud.com, répond « Site privé » (HTTP 401) et n'a donc pas été inscrit. L'Agence Bio enregistre la certification du **commerce de détail** comme arrêtée, mais celle de l'exploitation sœur, Les Jardins Bio de la Halle de Grimaud, comme engagée auprès d'Ecocert : la fiche ne revendique le bio que pour les légumes et les œufs qui en viennent)
+- **Les Vignerons de Grimaud** (deux horaires incompatibles : la cave publie sur son propre site « du lundi au samedi 9h-12h30 et 14h-18h », l'office de tourisme annonce une ouverture sept jours sur sept en juillet et août tout en précisant « horaires à confirmer ». Ce sont ceux de la cave qui figurent ici. Le registre situe le siège « 36 avenue des Oliviers », la Base Adresse Nationale et l'office « 36 route des Oliviers » : c'est la voie reconnue par la BAN qui a été retenue. L'Agence Bio enregistre une certification arrêtée pour la cave : aucune mention bio n'a été reprise. Le téléphone est celui du caveau, pas du service commercial)
+- **Le Clos des B** (le domaine annonce sur son site « mardi, mercredi et vendredi 11h-17h » quand l'office de tourisme publie « lundi, mardi et vendredi 10h-17h30, les autres jours sur rendez-vous » : les deux sources ne s'accordent que sur le mardi et le vendredi, la fiche les cite donc toutes les deux. Le domaine écrit lui-même « la certification Bio d'Ecocert est en cours » et l'Agence Bio enregistre un engagement, pas une certification : la fiche parle de biodynamie et de certification en cours, jamais de « vin bio ». Le seul numéro publié est un portable, celui de l'exploitation. Les deux photos du domaine publiées par l'office sont des portraits des vignerons : c'est la photo de vignes du site officiel qui illustre la fiche)
 
-Les 88 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 93 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -258,6 +261,35 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 - L'AMAP **Les Amapiens du Golfe** distribue au point de vente du Jardin de la Piboule :
   elle est mentionnée dans cette fiche plutôt que d'en faire une entrée séparée au même
   point de la carte.
+
+### Pistes non publiées à Grimaud
+
+- **Domaine Aurelia** (chemin de Rascas) : viticulture et oléiculture engagées auprès d'Ecocert,
+  établissement actif au registre — mais le siège de la société est à Lille et aucune source du
+  cercle habituel (office de tourisme, site de la commune, site officiel) ne documente un caveau,
+  des horaires ou une vente aux particuliers à Grimaud. Non publiée.
+- **Les Petites Herbes** (174 route départementale 61) : maraîchage engagé auprès d'Ecocert pour
+  les légumes, les plantes aromatiques et les fleurs coupées. Aucune société de ce nom au registre
+  sur la commune, aucune fiche d'office de tourisme, aucun site : la piste est réelle mais rien ne
+  permet de publier une adresse, des horaires ni un point de vente.
+- **Bauve**, **Reboul** et **Pons** : trois exploitations de Grimaud engagées en bio à l'Agence Bio
+  (légumes de plein champ ; pommes de terre, figues et agrumes ; châtaignes). Toutes trois sont des
+  entreprises individuelles enregistrées sous le patronyme de l'exploitant, sans nom commercial
+  publié par une source officielle — la règle de modération interdit de publier un patronyme comme
+  s'il s'agissait d'une enseigne. Non publiées.
+- **La Boulangerie de Port Grimaud** (7 rue des Artisans) : pain frais certifié bio, engagement
+  Ecocert actif. Le site n'a pas de catégorie « boulangerie » dans `lib/types.ts`, et la classer en
+  producteur ou en magasin bio serait faux. Laissée de côté, en attente d'un arbitrage.
+- **GRIVAR** (616 route de Cogolin) et **GVSE** (3723 route du Plan de la Tour) : deux
+  établissements grimaudois engagés auprès d'Ecocert, mais l'un est immatriculé en supermarché
+  (47.11D) et l'autre en commerce de gros non spécialisé (46.90Z) — hors du champ des circuits
+  courts que la carte recense.
+- **Marché artisanal nocturne de Port Grimaud** : marché estival référencé par l'office de tourisme,
+  mais explicitement artisanal et non alimentaire. Hors sujet.
+- Une réserve sur la photo du **marché de Grimaud village** : ni la commune ni l'office ne publient
+  de photo de ce marché. L'illustration est un cliché de stand provençal (huiles, olives, fruits
+  secs) pris par le photographe de l'office sur les marchés de Grimaud, sans qu'il soit possible
+  d'affirmer qu'il a été pris place de l'Église.
 
 ### Pistes non publiées à Lorgues
 
