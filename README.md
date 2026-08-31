@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-69 fiches sur 103 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+74 fiches sur 108 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -85,8 +85,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Ultimate Provence** (les horaires publiés par l'office — du 1er avril au 1er novembre, tous les jours de 7h à 23h — sont ceux de l'hôtel-restaurant, pas du caveau : le domaine ne fait dégustation et visite que sur réservation, et ne publie aucun horaire de cave. La fiche dit les deux. Le point retenu est celui de l'office : la Base Adresse Nationale ne connaît pas le numéro 7270 et ne rend que l'axe, à 3,5 km de là)
 - **Marché provençal du Plan-de-la-Tour** (la fiche de l'office ne porte aucune rue, seulement la commune et un point de géolocalisation. « Place Foch » vient du recoupement de ce point avec l'adresse de la mairie publiée par la commune, 37 place Foch. La liste de produits reprend le seul produit que l'office nomme, les fromages de chèvre au lait cru, et reste générique pour le reste)
 - **Les Marquets** (les horaires sont donnés deux fois et à l'identique par l'office, mais la même fiche contient encore une ligne « jours fériés 2022 » : la page n'a manifestement pas été relue depuis. Le site du domaine, ouvert et à jour, ne publie aucun horaire pour recouper)
+- **Fruits et légumes Le Moulin d'eau** (l'office de tourisme de Gassin annonce « toute l'année, tous les jours » sans aucune heure. L'enseigne est absente du registre sous ce nom : l'exploitation qui correspond y figure sous une raison sociale différente, active, en culture de légumes, à la même adresse — c'est elle qui a servi à retrouver le numéro de voirie, 4790 RD 559, absent des deux fiches d'office)
+- **Moulin du Val-de-Bois** (deux fiches d'office pour un seul lieu, et elles se contredisent : l'une dit que l'huile est vendue au Château Minuty et à l'office de tourisme, l'autre décrit une boutique sur place. Les deux sont reprises dans la fiche. Aucune heure d'ouverture publiée, et la Base Adresse Nationale ne connaît pas le numéro 2849 sur la RD 61 — le point retenu est celui de l'office. Pas de mention de bio : l'exploitation ne figure pas au registre de l'Agence Bio)
+- **La Maison des Confitures** (deux réserves. Les horaires du site de la maison — lundi au samedi 9h-19h, fermé le dimanche — contredisent l'office, qui annonce tous les jours ; les deux figurent dans la fiche. Et au registre, la société historique est **cessée** : c'est une autre société, active, qui exploite l'enseigne à la même adresse depuis la reprise de 2023)
+- **Les Maîtres Vignerons de la presqu'île de Saint-Tropez** (l'office donne « toute l'année du lundi au samedi » sans heures, et se contredit sur la taille de l'union — dix domaines dans un paragraphe, onze dans l'autre ; c'est le chiffre du texte le plus détaillé qui a été retenu. Le point publié est celui de l'office : la Base Adresse Nationale ne rend que le rond-point de La Foux, à 390 m. `petitvillage.com`, l'ancien domaine de la boutique cité par l'office, ne répond plus et n'a pas été inscrit)
+- **Domaine du Bourrian** (les horaires du caveau sont datés — « du 11/04 au 11/10/2026 » — et devront être revérifiés la saison prochaine. La surface annoncée varie selon le paragraphe, 23,5 ou 24 hectares ; la fiche ne donne pas de chiffre)
 
-Les 103 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 108 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -370,6 +375,43 @@ publié :
   téléphone 04 94 40 73 76, alors que la page d'accueil du même site dit « ouvert toute l'année ».
   La date du 31 septembre n'existe pas : la source se contredit deux fois. À trancher avec le domaine
   avant de toucher à la fiche.
+
+### L'office de tourisme du golfe de Saint-Tropez ne couvre que cinq communes
+
+`golfe-sainttropez-tourisme.fr` publie 1 946 fiches Apidae, mais son sitemap des communes
+(`apidae_city-sitemap.xml`) n'en liste que cinq : **Cogolin, La Garde-Freinet, La Môle,
+Le Plan-de-la-Tour et Le Rayol-Canadel-sur-Mer**. Vérification faite en ouvrant les vingt-deux
+fiches « marché » du site : aucune ne concerne une autre commune. Gassin, Ramatuelle, Saint-Tropez,
+Sainte-Maxime, Grimaud, Cavalaire et La Croix-Valmer ont chacune leur propre office — pour ces
+communes-là, il faut partir de `gassin.eu`, `ramatuelle-tourisme.com`, etc., pas de l'office
+intercommunal.
+
+Deuxième piège, propre à Gassin : le site de l'office (`gassin.eu`) et celui de la commune
+(`mairie-gassin.fr`) publient la **même** liste terroir, avec les mêmes fiches — ce n'est donc
+qu'une seule source, pas deux. Et ces pages **suppriment le bloc « Ouverture »** de la fiche Apidae.
+Le portail `golfe-saint-tropez-information.com` republie exactement les mêmes fiches, par
+identifiant Apidae, en conservant horaires **et** coordonnées : c'est là qu'il faut aller les
+chercher. Les liens des fiches ne sont visibles que dans le `<noscript>` de la page de liste, et les
+photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/maxi/`.
+
+### Pistes non publiées à Gassin
+
+- **Château Minuty** (2491 route de la Berle) : certifié HVE, engagé en bio à l'Agence Bio sous
+  SCEA Élise, actif au registre, boutique et visites guidées. Non publié seulement parce que la
+  passe est limitée à cinq fiches : c'est la première à reprendre au prochain passage.
+- **Château Barbeyrolles** (2065 route de la Berle), **Domaine de Bertaud-Belieu** (635 RD 61) et
+  **Domaine de La Rouillère** (RD 61) : trois domaines de la commune engagés en bio à l'Agence Bio
+  et référencés par l'office de tourisme. Mêmes réserves, même raison.
+- **La Madrague** (313 chemin de Brost) : engagée en bio auprès d'Ecocert pour l'huile d'olive et le
+  vin, active au registre — mais absente de la liste terroir de l'office comme de celle de la
+  commune. Aucune source du cercle habituel ne la documente.
+- **Domaine Tropez** et **Ice Tropez** (campagne Virgile, RD 559) : actifs au registre, mais avec le
+  code 46.34Z, commerce de gros de boissons. Marques de boissons, pas vente directe de producteur.
+- **La Savonnerie Gassinoise** et **Murs végétaux** : présents dans la liste terroir de l'office,
+  mais non alimentaires. Hors sujet.
+- **Le Château de Chausse**, **Vignoble Cap Saint-Pierre** et **Vignoble Domaine de Carteyron** :
+  trois fiches de l'office non dépouillées faute de temps dans cette passe, à vérifier avant tout
+  usage.
 
 ### Pistes non publiées à Lorgues
 

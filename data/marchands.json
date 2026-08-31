@@ -2579,5 +2579,132 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Marquets+Le+Plan+de+la+Tour",
     "image_url": "/images/marchands/les-marquets.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "fruits-et-legumes-le-moulin-d-eau",
+    "nom": "Fruits et légumes Le Moulin d'eau",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.222128,
+    "lon": 6.571002,
+    "adresse": "4790 route départementale 559, quartier du Moulin d'eau, 83580 Gassin",
+    "horaires": "Toute l'année, tous les jours d'après l'office de tourisme de Gassin, qui ne publie pas d'heures précises. Appeler avant de se déplacer.",
+    "produits": [
+      "Légumes cultivés sur place",
+      "Tomates",
+      "Fruits de saison",
+      "Miel",
+      "Vins",
+      "Produits régionaux"
+    ],
+    "description": "Stand de fruits et légumes installé au bord de la RD 559, entre La Croix-Valmer et le carrefour de La Foux. Une partie des légumes, dont les tomates, est cultivée sur place sur sphaigne, la mousse que l'exploitation utilise aussi pour ses murs végétaux ; le reste de l'étal vient de producteurs régionaux.",
+    "telephone": "06 15 06 35 40",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Moulin+d'eau+Gassin",
+    "image_url": "/images/marchands/fruits-et-legumes-le-moulin-d-eau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-du-val-de-bois",
+    "nom": "Moulin du Val-de-Bois",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.2392,
+    "lon": 6.60214,
+    "adresse": "2849 route départementale 61, quartier La Rouillère, 83580 Gassin",
+    "horaires": "Toute l'année. Ni l'office de tourisme ni la commune ne publient d'heures d'ouverture pour la boutique : appeler avant de se déplacer.",
+    "produits": [
+      "Huile d'olive vierge extra du domaine",
+      "Olives de variétés locales",
+      "Trituration de la récolte sur place"
+    ],
+    "description": "Oliveraie de la presqu'île qui dispose depuis fin 2020 de son propre moulin et travaille sa récolte sur place. La boutique du domaine vend l'huile vierge extra à la propriété ; l'office de tourisme de Gassin et le Château Minuty en proposent aussi. L'exploitation est référencée producteur artisan de Qualité auprès du Collège culinaire de France depuis 2015.",
+    "telephone": "06 11 52 79 30",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+du+Val+de+Bois+Gassin",
+    "image_url": "/images/marchands/moulin-du-val-de-bois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-maison-des-confitures",
+    "nom": "La Maison des Confitures",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.24431,
+    "lon": 6.574626,
+    "adresse": "825 route du Bourrian, 83580 Gassin",
+    "horaires": "Toute l'année, du lundi au samedi de 9h à 19h, fermé le dimanche, d'après le site de la maison. L'office de tourisme annonce de son côté une ouverture tous les jours.",
+    "produits": [
+      "Confitures de fruits",
+      "Recettes parfumées et originales (450 recettes en magasin)",
+      "Confitures cuites au chaudron de cuivre",
+      "Pots conditionnés à la main"
+    ],
+    "description": "Fabrique artisanale de confitures installée route du Bourrian depuis une quarantaine d'années, reprise en 2023. La cuisson est lente, dans des chaudrons de cuivre, à partir de fruits et de sucre seulement, et la mise en pot se fait à la main ; le magasin attenant propose 450 recettes.",
+    "telephone": "04 94 43 41 58",
+    "site_web": "https://maisondesconfitures.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Confitures+Gassin",
+    "image_url": "/images/marchands/la-maison-des-confitures.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-maitres-vignerons-saint-tropez",
+    "nom": "Les Maîtres Vignerons de la presqu'île de Saint-Tropez",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.2612,
+    "lon": 6.57311,
+    "adresse": "270 route départementale 98, quartier La Foux, 83580 Gassin",
+    "horaires": "Toute l'année, du lundi au samedi. L'office de tourisme ne publie pas d'heures précises ; appeler avant de se déplacer.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges et blancs",
+      "Cuvées Mas de Pampelonne, Domaine Siouvette et La Note Bleue",
+      "Produits régionaux",
+      "Dégustations commentées"
+    ],
+    "description": "Union de onze domaines et trois caves qui exploitent 900 hectares de vignes sur la presqu'île, engagée en agriculture biologique auprès d'Ecocert. Sa boutique de 400 m², au carrefour de La Foux, rassemble les cuvées des adhérents et une sélection de produits régionaux, avec des dégustations commentées.",
+    "telephone": "04 94 56 40 17",
+    "site_web": "https://www.maitresvignerons.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maitres+Vignerons+presqu'ile+de+Saint-Tropez+Gassin",
+    "image_url": "/images/marchands/les-maitres-vignerons-saint-tropez.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-bourrian",
+    "nom": "Domaine du Bourrian",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.254381,
+    "lon": 6.585562,
+    "adresse": "2360 route du Bourrian, 83580 Gassin",
+    "horaires": "Caveau ouvert du 11 avril au 11 octobre 2026, tous les jours de 11h à 20h. Visites guidées privées toute l'année sur réservation, au moins 24 heures à l'avance.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins blancs",
+      "Vins rouges",
+      "Rosé pétillant",
+      "Vins IGP Vin des Maures"
+    ],
+    "description": "Vignoble fondé en 1871, d'un seul tenant sur les collines du Bourrian, certifié en agriculture biologique auprès d'Ecocert et entièrement rénové en 2018. La dégustation se fait au caveau ou sur la terrasse ombragée de platanes centenaires ; la salle historique des grands foudres de chêne se visite sur réservation.",
+    "telephone": "04 94 49 09 79",
+    "site_web": "https://bourrian.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Bourrian+Gassin",
+    "image_url": "/images/marchands/domaine-du-bourrian.jpg",
+    "a_confirmer": true
   }
 ]
