@@ -2451,5 +2451,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos+Mirages+La+Mole",
     "image_url": "/images/marchands/clos-mirages.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-la-garde-freinet",
+    "nom": "Marché provençal de La Garde-Freinet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.316939,
+    "lon": 6.469794,
+    "adresse": "Place Neuve, 83680 La Garde-Freinet",
+    "horaires": "Toute l'année, le mercredi et le dimanche de 8h30 à 12h30. Accès libre.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits du terroir provençal",
+      "Fromages",
+      "Produits de producteurs et de commerçants ambulants"
+    ],
+    "description": "Marché de plein air deux matinées par semaine sur la place Neuve, au cœur du village. L'office de tourisme du golfe de Saint-Tropez, seule source à le documenter, le décrit simplement comme un marché typique provençal et signale la place accessible en fauteuil roulant ; la commune, elle, ne publie rien sur ce marché.",
+    "telephone": "04 94 56 04 93",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Neuve+La+Garde-Freinet",
+    "image_url": "/images/marchands/marche-provencal-la-garde-freinet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-blandine",
+    "nom": "La Ferme Blandine",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.295425,
+    "lon": 6.425776,
+    "adresse": "386 piste de Gagnal, 83680 La Garde-Freinet",
+    "horaires": "Toute l'année, tous les jours, uniquement sur réservation. La ferme est au bout d'une piste forestière : appeler avant de partir.",
+    "produits": [
+      "Châtaignes séchées au feu de bois",
+      "Farine de châtaigne moulue à la propriété",
+      "Œufs biologiques",
+      "Huile d'olive de variétés locales"
+    ],
+    "description": "Micro-ferme familiale des hautes collines des Maures, labellisée Agriculture biologique et Accueil Paysan. Elle remet en valeur d'anciennes châtaigneraies — ramassage et tri à la main, séchage au feu de bois pendant plusieurs semaines, mouture sur place — et élève des poules pondeuses et un petit troupeau de brebis qui entretient les vergers. Vente à la propriété sur réservation et sur les marchés.",
+    "telephone": "06 72 19 24 14",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+Blandine+La+Garde-Freinet",
+    "image_url": "/images/marchands/la-ferme-blandine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ultimate-provence",
+    "nom": "Ultimate Provence",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.337226,
+    "lon": 6.43219,
+    "adresse": "7270 route du Luc, 83680 La Garde-Freinet",
+    "horaires": "Cave de dégustation sur réservation : dégustation de 15 minutes, ou visite du domaine d'1h30 avec dégustation. L'office de tourisme annonce le lieu ouvert du 1er avril au 1er novembre de 7h à 23h, mais ce sont les horaires de l'hôtel-restaurant, pas ceux du caveau. Réserver avant de se déplacer.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Art de la table"
+    ],
+    "description": "Domaine viticole de 46 hectares dans la plaine des Maures, dont les vignes sont certifiées en agriculture biologique auprès d'Ocacia. La cave de dégustation, ouverte sur réservation, fait aussi la vente à la propriété ; elle est adossée à un hôtel-restaurant, ce qui explique les horaires très larges annoncés par l'office de tourisme.",
+    "telephone": "04 94 85 29 10",
+    "site_web": "https://www.ultimateprovence.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ultimate+Provence+La+Garde-Freinet",
+    "image_url": "/images/marchands/ultimate-provence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-plan-de-la-tour",
+    "nom": "Marché provençal du Plan-de-la-Tour",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.338774,
+    "lon": 6.546949,
+    "adresse": "Place Foch, 83120 Le Plan-de-la-Tour",
+    "horaires": "Toute l'année, le jeudi de 8h30 à 12h30. Accès libre, parking à proximité.",
+    "produits": [
+      "Fromages de chèvre artisanaux au lait cru",
+      "Fruits et légumes",
+      "Produits du terroir",
+      "Spécialités locales et artisanat"
+    ],
+    "description": "Marché hebdomadaire du jeudi matin sous les platanes de la place Foch, devant la mairie. Producteurs, artisans et commerçants s'y installent ; l'office de tourisme y signale notamment les fromages artisanaux au lait cru de chèvre des Chèvres de San Peire, qui ne pratiquent pas la vente à la ferme.",
+    "telephone": "04 94 55 07 55",
+    "site_web": "https://www.leplandelatour.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Foch+Le+Plan-de-la-Tour",
+    "image_url": "/images/marchands/marche-provencal-plan-de-la-tour.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-marquets",
+    "nom": "Les Marquets - Cave coopérative Les Vignerons du Plan de la Tour",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.333352,
+    "lon": 6.548193,
+    "adresse": "721 route de Grimaud (D44), 83120 Le Plan-de-la-Tour",
+    "horaires": "Toute l'année, du lundi au samedi de 8h30 à 12h30 et de 14h30 à 19h. Fermeture exceptionnelle le 1er janvier.",
+    "produits": [
+      "Vins AOP Côtes de Provence rosés, rouges et blancs",
+      "Cuvées L'Esquisse, L'Opus et Le Grand Œuvre des Marquets",
+      "Cuvée Les Terrasses du Golfe",
+      "Produits apicoles",
+      "Huile d'olive",
+      "Spiritueux"
+    ],
+    "description": "Cave coopérative communale dont les adhérents cultivent 200 hectares de vignes dans les vallons du Plan-de-la-Tour, à l'abri des influences maritimes du golfe. Le caveau, sur la route de Grimaud, assure la dégustation et la vente directe et propose aussi des produits apicoles, de l'huile d'olive et des spiritueux.",
+    "telephone": "04 94 43 79 44",
+    "site_web": "https://www.lesmarquets.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Marquets+Le+Plan+de+la+Tour",
+    "image_url": "/images/marchands/les-marquets.jpg",
+    "a_confirmer": true
   }
 ]

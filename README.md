@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-64 fiches sur 98 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+69 fiches sur 103 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -80,8 +80,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Chèvrerie de Biscare** (l'office de tourisme écrit que l'ouverture dépend de la production et qu'il faut appeler avant de se déplacer : la fiche le répète plutôt que d'annoncer un horaire ferme. « Chèvrerie de Biscare » est le nom commercial publié par l'office ; au registre il s'agit d'une entreprise individuelle d'élevage d'ovins et de caprins. La Base Adresse Nationale ne connaît pas de numéro au quartier Grattué, les coordonnées viennent de la fiche de l'office)
 - **Erbiero** (deux réserves. Le site annoncé par l'office, `erbiero.com`, renvoie une erreur Wix « ConnectYourDomain » : il n'a pas été inscrit. Surtout, l'office parle de « tisanes bio » et d'un « jardin bio » alors que l'Agence Bio enregistre la certification de l'exploitation comme **arrêtée** — la fiche décrit donc le jardin et la cueillette sans employer le mot « bio ». Le point retenu est le numéro de voirie de la Base Adresse Nationale ; celui de l'office tombe 730 m plus au sud)
 - **Clos Mirages** (les horaires divergent : l'office de tourisme publie trois périodes détaillées avec une après-midi de 14h à 17h ou 18h, le domaine annonce sur son propre site 9h-12h et 13h-18h du lundi au vendredi. Les deux figurent dans la fiche. L'office intitule l'adresse « chemin des Crottes et de Saint-Marc », le domaine « chemin de Saint Marc » : c'est le libellé de la Base Adresse Nationale qui a été retenu)
+- **Marché provençal de La Garde-Freinet** (source unique. L'office de tourisme intercommunal est le seul à documenter ce marché ; le site de la commune, `lgf83.fr`, n'a aucune page « marchés » — sa rubrique « marchés publics » concerne la commande publique. Horaires et jours n'ont donc pas pu être recoupés. Le téléphone inscrit est celui du bureau d'information touristique du village, seul contact donné par la fiche)
+- **La Ferme Blandine** (deux réserves. L'office écrit « 386 chemin de Gagnal » alors que la Base Adresse Nationale et l'Agence Bio écrivent tous deux « 386 piste de Gagnal » : c'est ce dernier libellé qui a été retenu. Surtout, le point de la Base Adresse Nationale et celui de l'office tombent à 560 m l'un de l'autre sur une piste forestière ; le point publié est celui de la BAN, comme le veut le manuel, mais l'écart est trop grand pour être ignoré — appeler avant de partir)
+- **Ultimate Provence** (les horaires publiés par l'office — du 1er avril au 1er novembre, tous les jours de 7h à 23h — sont ceux de l'hôtel-restaurant, pas du caveau : le domaine ne fait dégustation et visite que sur réservation, et ne publie aucun horaire de cave. La fiche dit les deux. Le point retenu est celui de l'office : la Base Adresse Nationale ne connaît pas le numéro 7270 et ne rend que l'axe, à 3,5 km de là)
+- **Marché provençal du Plan-de-la-Tour** (la fiche de l'office ne porte aucune rue, seulement la commune et un point de géolocalisation. « Place Foch » vient du recoupement de ce point avec l'adresse de la mairie publiée par la commune, 37 place Foch. La liste de produits reprend le seul produit que l'office nomme, les fromages de chèvre au lait cru, et reste générique pour le reste)
+- **Les Marquets** (les horaires sont donnés deux fois et à l'identique par l'office, mais la même fiche contient encore une ligne « jours fériés 2022 » : la page n'a manifestement pas été relue depuis. Le site du domaine, ouvert et à jour, ne publie aucun horaire pour recouper)
 
-Les 98 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 103 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -324,26 +329,47 @@ de La Garde-Freinet est un bureau de l'office intercommunal, à `golfe-sainttrop
 c'est ce que le site officiel de la commune (`lgf83.fr`) référence lui-même. Troisième cas après
 `santaluciapoissonnerie.fr` et `chateaudastros.com` : ouvrir un site avant de l'inscrire, toujours.
 
-### Pistes non publiées à La Garde-Freinet
+### Pistes non publiées à La Garde-Freinet et au Plan-de-la-Tour
 
-La commune avait été explorée avant de basculer sur La Môle, faute d'y trouver cinq fiches solides.
-Ce qui a été vérifié y reste valable :
+Cinq fiches du secteur ont été publiées (les deux marchés, La Ferme Blandine, Ultimate Provence,
+Les Marquets). Le reste de ce qui a été vérifié sur les deux communes, et pourquoi il n'a pas été
+publié :
 
-- **Marché provençal de La Garde-Freinet** (place Neuve) : mercredi et dimanche de 8h30 à 12h30,
-  toute l'année, en accès libre d'après l'office de tourisme. Le site de la commune ne publie aucune
-  page « marché » qui permette de recouper l'horaire — d'où le report.
-- **La Ferme Blandine** (386 chemin de Gagnal) : microferme labellisée AB — châtaignes, farine de
-  châtaigne au moulin de la propriété, œufs, huile d'olive, brebis. Vente à la propriété et sur les
-  marchés, visites sur réservation. Piste solide, à reprendre.
-- **Domaine Théolier en Provence** (1590 route de la Mourre) : vignes, oliviers et immortelles
-  certifiés AB, mais le domaine précise qu'il « n'est pas visitable » et que la vente se fait
-  uniquement sur rendez-vous ou en point de rencontre.
-- **Un apiculteur des Bas Oliviers** : référencé par l'office de tourisme, ouvert du 1er mars au
-  1er novembre, mais la fiche ne porte que le nom et le prénom de l'exploitant, sans enseigne — non
+- **Domaine Théolier en Provence** (1590 route de la Mourre, La Garde-Freinet) : vignes, oliviers et
+  immortelles certifiés AB, actif au registre sous OENOLEO. Sources contradictoires : l'office de
+  tourisme annonce une vente au domaine sur rendez-vous, le site du domaine (`theolierenprovence.fr`,
+  et non `.com`) écrit noir sur blanc « le domaine n'est pas encore ouvert au public » et renvoie vers
+  les marchés ou la boutique en ligne. Les deux points géographiques divergent en plus de 1,09 km.
+  Rien publié tant que la contradiction n'est pas levée.
+- **Les Chèvres de San Peire** (Le Plan-de-la-Tour) : fromagerie artisanale au lait cru de chèvre.
+  L'office précise « pas de vente directe à la ferme, uniquement sur le marché hebdomadaire » et ne
+  donne aucune adresse ; sa fiche ne porte que le nom de l'exploitant. Le producteur est donc
+  mentionné dans la fiche du marché du jeudi, où il vend, plutôt que doté d'une fiche sans lieu.
+- **Un apiculteur des Bas Oliviers** (La Garde-Freinet) : référencé par l'office de tourisme, ouvert
+  du 1er mars au 1er novembre, engagé en bio à l'Agence Bio sous le nom « Rucher de l'Encantadou » —
+  mais la fiche de l'office ne porte que le nom et le prénom de l'exploitant, sans enseigne. Non
   publiable en l'état.
-- **Fromagerie & Cetera** (17 rue du Château) et **Au Garde Manger** (29 route Nationale) : deux
-  commerces actifs au registre, mais documentés seulement par des annuaires commerciaux, jamais par
-  l'office de tourisme ni par la commune. Non publiés faute de source du cercle habituel.
+- **Domaine Mirabeau** (lieu-dit Jean Taxi, RD 74) et **Domaine de Tasquier**, La Garde-Freinet :
+  deux opérateurs engagés en bio à l'Agence Bio, absents des annuaires de l'office de tourisme. Rien
+  ne documente un caveau ni des horaires de vente aux particuliers.
+- **Cave des Maures** (33 rue Jean Jaurès, Le Plan-de-la-Tour) : active au registre, mais code
+  d'activité 46.34Z — commerce de gros de boissons. Négoce, pas circuit court. Hors sujet.
+- **La Ferme de Sophie** (Les Girauds, Le Plan-de-la-Tour) : citée dans l'annuaire « Commerces &
+  Services » de la commune, mais cet annuaire ne donne ni adresse complète, ni téléphone, ni
+  horaires, et ses pages de détail par catégorie renvoient une erreur 404. Aucune fiche d'office de
+  tourisme. Piste à reprendre si une source apparaît.
+- **Fromagerie & Cetera** (17 rue du Château) et **Au Garde Manger** (29 route Nationale),
+  La Garde-Freinet : deux commerces actifs au registre, mais documentés seulement par des annuaires
+  commerciaux, jamais par l'office de tourisme ni par la commune. Non publiés faute de source du
+  cercle habituel.
+- **Les mercredis de l'Assaga** (rue Saint-Jacques, La Garde-Freinet) : marché du mercredi soir en
+  juillet et août, mais consacré aux arts plastiques, à la poterie et à la photographie. Rien
+  d'alimentaire. Hors sujet.
+- **Correction à prévoir sur le Domaine des Beaucas**, déjà publié à Sainte-Maxime : son propre site
+  annonce désormais « du 01.04.26 au 31.09.26 tous les jours sauf le dimanche de 10h à 18h » et le
+  téléphone 04 94 40 73 76, alors que la page d'accueil du même site dit « ouvert toute l'année ».
+  La date du 31 septembre n'existe pas : la source se contredit deux fois. À trancher avec le domaine
+  avant de toucher à la fiche.
 
 ### Pistes non publiées à Lorgues
 
