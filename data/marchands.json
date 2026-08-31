@@ -1523,5 +1523,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+des+Demoiselles+La+Motte",
     "image_url": "/images/marchands/chateau-des-demoiselles.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-trans-en-provence",
+    "nom": "Marché provençal de Trans-en-Provence",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.503431,
+    "lon": 6.486555,
+    "adresse": "Place de l'Hôtel de Ville, 83720 Trans-en-Provence",
+    "horaires": "Dimanche matin, toute l'année. L'office de tourisme régional annonce 8h30-12h ; le guide municipal indique seulement « chaque dimanche matin ».",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Fromages",
+      "Miels",
+      "Confitures",
+      "Huile d'olive",
+      "Plats cuisinés",
+      "Rôtisserie"
+    ],
+    "description": "Marché hebdomadaire installé le dimanche matin sur la place de l'Hôtel de Ville, devant la façade de la mairie inscrite aux monuments historiques. Le guide municipal y annonce légumes, fruits, fromages, miels, plats cuisinés et spécialités italiennes, et précise que les commerces du village restent ouverts ce jour-là.",
+    "telephone": "04 94 60 62 49",
+    "site_web": "https://www.transenprovence.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+l'Hotel+de+Ville+Trans-en-Provence",
+    "image_url": "/images/marchands/marche-provencal-trans-en-provence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-petit-transian",
+    "nom": "Le Petit Transian",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.504275,
+    "lon": 6.482756,
+    "adresse": "32 route du Plan, 83720 Trans-en-Provence",
+    "horaires": "Lundi, mardi, jeudi, vendredi et dimanche de 8h30 à 13h et de 15h à 19h ; fermé le mercredi et le samedi (horaires publiés par l'office de tourisme régional).",
+    "produits": [
+      "Légumes cultivés sur la commune",
+      "Fromages",
+      "Miels",
+      "Pâtes fraîches",
+      "Vins de producteurs",
+      "Épicerie de produits locaux"
+    ],
+    "description": "Épicerie de produits locaux et café installés dans l'ancienne gare du village, remise en service à l'automne 2025 par trois habitants de Trans. Le lieu associe la vente de légumes cultivés sur la commune, de fromages, de miels et de vins de producteurs voisins à une halle ouverte où l'on peut s'asseoir.",
+    "telephone": "06 16 03 29 24",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Petit+Transian+Trans-en-Provence",
+    "image_url": "/images/marchands/le-petit-transian.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-ruchers-du-paradis",
+    "nom": "Les Ruchers du Paradis",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.504252,
+    "lon": 6.490563,
+    "adresse": "2 impasse le Paradis, 83720 Trans-en-Provence",
+    "horaires": "Tous les jours de 10h à 19h d'après l'office de tourisme régional ; mieux vaut appeler avant de se déplacer.",
+    "produits": [
+      "Miel de lavande",
+      "Miel de bruyère blanche",
+      "Miel de châtaignier",
+      "Miel de romarin",
+      "Miel de garrigue"
+    ],
+    "description": "Apiculteur installé au quartier du Paradis, à l'est du village, qui vend directement sa production. Les miels sont proposés en pots de 125, 250 et 500 grammes, avec plusieurs récoltes monoflorales selon la saison.",
+    "telephone": "06 76 74 24 89",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Ruchers+du+Paradis+Trans-en-Provence",
+    "image_url": "/images/marchands/les-ruchers-du-paradis.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "clos-cassivet",
+    "nom": "Clos Cassivet",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.500806,
+    "lon": 6.46974,
+    "adresse": "1178 chemin du Cassivet, 83720 Trans-en-Provence",
+    "horaires": "Toute l'année sur rendez-vous.",
+    "produits": [
+      "Vin naturel",
+      "Vin blanc",
+      "Vin rouge"
+    ],
+    "description": "Domaine du plateau de Trans qui élabore depuis 1980 un vin naturel, sans intrant, que le vigneron appelle son « vin des cailloux ». La vente se fait à la propriété sur rendez-vous ; l'office de tourisme régional référence le domaine sous le nom « Terre d'Eyssares ».",
+    "telephone": "06 60 86 12 33",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos+Cassivet+Trans-en-Provence",
+    "image_url": "/images/marchands/clos-cassivet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "oliveraie-la-colline",
+    "nom": "Oliveraie La Colline",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.513013,
+    "lon": 6.471109,
+    "adresse": "1522 route du Plan, 83720 Trans-en-Provence",
+    "horaires": "Toute l'année sur rendez-vous.",
+    "produits": [
+      "Huile d'olive",
+      "Olives de table",
+      "Olives préparées au sel, aux herbes et au fenouil"
+    ],
+    "description": "Oliveraie en restanques de quatre hectares, tenue par la même famille depuis trois générations et conduite sans pesticide ni traitement. Les olives sont ramassées à la main, l'huile est pressée au moulin d'Aups, et la vente se fait à la propriété sur rendez-vous ou sur les marchés.",
+    "telephone": "06 03 86 31 44",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oliveraie+La+Colline+Trans-en-Provence",
+    "image_url": "/images/marchands/oliveraie-la-colline.jpg",
+    "a_confirmer": true
   }
 ]

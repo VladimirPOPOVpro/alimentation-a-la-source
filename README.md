@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-32 fiches sur 63 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+37 fiches sur 68 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -48,8 +48,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Marché provençal de La Motte** (le jour, le vendredi, est confirmé par la commune, par la fiche Apidae et par l'office de tourisme de la Dracénie, mais aucun ne publie d'horaires : la page du marché sur le site municipal, qui annonce 8h-13h, porte encore la mention « contenu d'exemple — à remplacer par le secrétariat général »)
 - **Domaine de l'Éouve** (son propre site ne donne que le lieu-dit « Les Éouvières » ; les coordonnées retenues sont celles du 1047 route de Bagnols, adresse publiée par la Route des Vins du Sud, alors que l'Agence Bio place l'exploitation tantôt aux Éouvières, à 400 m, tantôt près de la place du village, à 1,3 km)
 - **Château des Demoiselles** (la page « contact » et la page « dégustation » du domaine se contredisent sur l'ouverture du dimanche en juin, juillet et août)
+- **Marché provençal de Trans-en-Provence** (le guide pratique municipal, seule source communale, dit seulement « chaque dimanche matin » ; la fiche Apidae de l'office de tourisme régional donne 8h30-12h et OpenStreetMap 8h-12h30 — ce sont les horaires de l'office qui figurent dans la fiche)
+- **Le Petit Transian** (la Base Adresse Nationale ne connaît pas de numéro 32 route du Plan ; les coordonnées de la fiche sont celles du bâtiment cadastré « Ancienne gare de Trans », à 90 m du début de la route du Plan, alors que la fiche Apidae place le point 700 m plus loin, au centre de la voie. La fermeture le samedi, inhabituelle pour une épicerie, vient telle quelle de la fiche de l'office de tourisme)
+- **Les Ruchers du Paradis** (l'office de tourisme annonce une ouverture tous les jours de 10h à 19h ; pour une exploitation d'une personne, mieux vaut appeler avant de se déplacer)
+- **Clos Cassivet** (trois noms pour un même domaine : l'office de tourisme le référence « Terre d'Eyssares » au 1025 chemin des Eyssares, mais ses propres coordonnées tombent au 1178 chemin du Cassivet, l'adresse que donnent les annuaires de vin et que confirme le siège au registre, « Clos Cassivet ». C'est l'étiquette photographiée par l'office qui tranche : elle porte « Clos Cassivet ». L'appellation exacte reste incertaine — les annuaires citent tantôt un « Côtes de Provence rouge », tantôt un simple « Vin de France ». Son ancien site, `lecloscassivet.com`, ne résout plus)
+- **Oliveraie La Colline** (vente à la propriété sur rendez-vous seulement ; l'exploitation est une entreprise individuelle et « Oliveraie La Colline » est le nom commercial publié par l'office de tourisme, pas une enseigne déposée au registre)
 
-Les 63 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 68 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -115,6 +120,30 @@ site officiel, confirmé par l'annuaire Service-Public, est `ville-la-motte.com`
 récent, publie encore des pages de démonstration explicitement signalées « contenu
 d'exemple » — le contenu y ressemble à une information officielle sans en être une. Même
 prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
+
+### Pistes non publiées à Trans-en-Provence
+
+- **Le magasin bio du 1114 route de Draguignan (RN 555)** : quatre sources, quatre
+  réponses. Le registre des entreprises donne l'établissement actif sous l'enseigne
+  « Les Comptoirs de la Bio » ; l'annuaire de l'Agence Bio le certifie sous la raison
+  sociale « Eric's Dragui Bio » ; les annuaires commerciaux (PagesJaunes, Yelp) et
+  OpenStreetMap l'appellent « Biomonde ». Or **aucun des deux réseaux ne le reconnaît** :
+  le localisateur officiel de Biomonde ne liste que quatre magasins en PACA, aucun ici, et
+  la page magasin des Comptoirs de la Bio référencée par OpenStreetMap
+  (`…/les-comptoirs-de-la-bio-trans-en-provence-105486`) renvoie « Page non trouvée »,
+  alors que les neuf autres magasins PACA du réseau répondent. Impossible de savoir quelle
+  enseigne est aujourd'hui sur la porte : rien n'a été publié.
+- **L'Oliveraie Bio** (chemin des Eyssares) : exploitation bien réelle, certifiée à
+  l'Agence Bio, avec un site officiel actif qui décrit 2,5 hectares et trois cuvées
+  d'huile. Mais ce site ne publie ni horaires, ni téléphone, ni vente à la propriété — sa
+  page « points de vente » ne cite que trois commerces en Belgique — et son seul contact
+  est une adresse email, qu'on ne publie pas. Une fiche aurait envoyé les visiteurs à une
+  adresse privée sans moyen de prévenir : non publiée.
+- **Les 4 Terres** (quartier Valaury) : maraîchage actif au registre depuis 2022 sous une
+  vraie enseigne, mais aucune source publique ne documente une vente aux particuliers.
+- **L'Abiho** (1417B route des Arcs) : SCEA apicole créée en février 2025, active au
+  registre, sans aucune présence publique vérifiable. Attention au piège de nom de
+  domaine : `labiho.com` est un **autre** établissement, à Champtercier (04).
 
 ### Pistes non publiées à Lorgues
 
