@@ -47,7 +47,7 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-79 fiches sur 113 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+84 fiches sur 118 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -128,8 +128,13 @@ prioritaires en cas de conflit.
 - **Domaine Château Saint Marc** (l'office publie un fixe et un portable ; seul le fixe est inscrit. Le point retenu est celui de la Base Adresse Nationale au 588 chemin des Crottes et de Saint-Marc — la même adresse que le Clos Mirages, déjà présent sur la carte, dont les deux caveaux sont voisins sur ce chemin)
 - **Domaine de la Giscle** (deux contradictions. L'office de tourisme écrit « six générations », le site du domaine « 8 générations » : la fiche ne donne aucun chiffre et retient la seule date que les deux sources partagent, 1834. Surtout, l'office annonce une gamme de terroir — huile, miel, châtaignes, foie gras — que le site refait du domaine ne présente plus en 2026 ; les deux figurent, avec la consigne d'appeler avant de se déplacer pour ces produits)
 - **Domaine des Vallats** (le domaine ne publie que des portraits de son équipe et des intérieurs de gîtes : l'illustration est un recadrage sur le feuillage de vigne de l'une de ses propres photos, sans personne identifiable. Le nom de la cuvée diverge, « Vallats Perier » chez l'office, « Vallats Perrier » deux fois sur le site du domaine : c'est l'orthographe du domaine qui a été retenue. Le seul contact publié est un portable, donné comme numéro du domaine par l'office comme par le site)
+- **Château du Rouet** (la Base Adresse Nationale ne connaît aucun numéro sur la D47 route de Bagnols : le point publié est celui que le domaine donne lui-même sur sa page « contacts & accès », à 970 m du seul lieu-dit que la BAN rende, le Gué de Bagnols. Le domaine ne revendique aucun label bio ; le registre de l'Agence Bio porte bien un opérateur engagé chez Ecocert à cette route et à ce lieu-dit, mais sous une raison sociale qu'aucune source ne rattache au château : le mot « bio » n'est donc pas employé dans la fiche)
+- **Château Les Preyres** (le domaine publie deux numéros, un par château ; seul celui du Château Les Preyres est inscrit, l'autre étant celui du Château Font du Broc, aux Arcs. Le numéro de voirie diverge d'un caractère entre le registre des entreprises, qui écrit 3208, et le site du domaine comme le registre de l'Agence Bio, qui écrivent tous deux 3280 : c'est 3280 qui a été retenu et que la BAN confirme)
+- **Domaine Saint Cassien** (le domaine écrit sur son propre site qu'il est conduit en « agriculture raisonnée » — sans herbicide, avec un troupeau de moutons l'hiver — alors que le registre de l'Agence Bio l'enregistre comme engagé chez Ecocert. Les deux peuvent coexister pendant une conversion ; la fiche décrit les pratiques que le domaine documente et n'écrit pas « bio ». Le seul contact publié, par le domaine comme par l'association des commerçants, est un portable)
+- **Domaine La Roquette** (trois réserves. La Base Adresse Nationale ne connaît pas le chemin de la Roquette au Muy : le point publié est celui de la fiche de l'office de tourisme. Les horaires sont ceux de la visite guidée sur réservation, seuls horaires publiés ; l'office indique par ailleurs « vente à la propriété » sans en donner les heures. Enfin le raisin de table et les olives viennent du registre des productions de l'Agence Bio, pas d'une source de vente : appeler avant de se déplacer pour ces deux-là)
+- **Poissonnerie du Marché** (l'annuaire de l'association des commerçants du Muy est la seule source : il donne l'adresse, le téléphone et les horaires jour par jour, mais décrit l'activité d'un seul mot, « poissonnerie traditionnelle ». La liste de produits reste donc générique et reprend ce que montre la photo de l'annuaire. Au registre, l'établissement est une entreprise individuelle sous patronyme ; « Poissonnerie du Marché » est l'enseigne publiée par l'association)
 
-Les 113 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 118 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -454,6 +459,36 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Le Château de Chausse**, **Vignoble Cap Saint-Pierre** et **Vignoble Domaine de Carteyron** :
   trois fiches de l'office non dépouillées faute de temps dans cette passe, à vérifier avant tout
   usage.
+
+### Pistes non publiées au Muy
+
+- **Cap Sud Bio** (50 rue du Liège) : enseigne engagée chez Ecocert pour le commerce de détail
+  alimentaire, active au registre. Mais l'adresse est celle d'un siège en zone industrielle, partagée
+  avec une société de tête de réseau non certifiée, et aucune source ne publie d'horaires ni ne
+  documente un magasin ouvert au public. Non publiée.
+- **L'Abeille de l'Estérel** (249 chemin de Bonnefont) : apiculteur engagé chez Ecocert, 250 ruches,
+  miellerie ouverte à la visite, treize miels dont quatre miels de cru. L'entreprise est bien
+  domiciliée au Muy, mais son propre site place la miellerie et la boutique au 954 chemin du
+  Boullidou, **aux Arcs-sur-Argens** : publier l'adresse du Muy enverrait les visiteurs au siège.
+  À traiter au prochain passage sur Les Arcs.
+- **Le Moulin de l'Argens** (204 chemin de Bonnefont) : moulin à huile engagé chez Qualisud, actif au
+  registre au Muy — mais le registre de l'Agence Bio lui donne pour adresse principale le même chemin
+  du Bouillidou aux Arcs que l'apiculteur ci-dessus. Même réserve, même report.
+- **Boulangerie Grains de Folie** (118 route de Fréjus) : boulangerie-pâtisserie active au registre,
+  horaires et téléphone publiés par l'association des commerçants. Son nom de domaine ne répond plus
+  et la seule image disponible est un logo : aucune photo publiable, la fiche n'est pas partie.
+- **Château de la Combe** : domaine engagé chez Ecocert pour la vigne, les olives et l'huile, actif au
+  registre. Son site renvoie une erreur PHP fatale, les annuaires lui donnent une adresse (2605 route
+  de Fréjus) qui est celle d'une exploitation apicole au registre, et aucune source ne publie
+  d'horaires de caveau. Non publiée.
+- **Maison Nagi** (rue du Liège) : atelier de fabrication engagé chez Ecocert pour le pain frais, mais
+  installé en zone industrielle et sans horaires cohérents d'une source à l'autre.
+- **Les Vignerons de Saint Romain** : la cave coopérative de La Motte annonce un point de vente et de
+  dégustation au Muy, mais ne publie ni adresse ni horaires pour celui-ci, et le registre ne lui
+  connaît aucun établissement sur la commune. Non publiée, au titre de la règle 6.
+- **Les Ruchers du Val d'Argens** (908 chemin des Rouvières) et **Vignobles Sylvain Massa** (ZAC des
+  Ferrières) : actifs au registre, mais l'un sans aucune source publiant une vente, l'autre étant
+  l'entité de négoce du Château Les Preyres, déjà publié.
 
 ### Pistes non publiées à Lorgues
 

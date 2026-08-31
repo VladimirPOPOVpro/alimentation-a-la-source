@@ -2842,5 +2842,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Vallats+Cogolin",
     "image_url": "/images/marchands/domaine-des-vallats.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chateau-du-rouet",
+    "nom": "Château du Rouet",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.512783,
+    "lon": 6.616117,
+    "adresse": "D47, route de Bagnols, 83490 Le Muy",
+    "horaires": "Caveau ouvert toute l'année : du lundi au samedi, le matin de 9h à 12h et l'après-midi de 14h à 18h (19h en été). Le dimanche d'avril à septembre et les jours fériés, l'après-midi seulement.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Cuvée Villa Estérelle",
+      "Cuvée 1840",
+      "Cuvée Belle Poule",
+      "Cuvée Fréjus Hermès"
+    ],
+    "description": "Vignoble de plus de 70 hectares planté en restanques au pied des roches rouges de l'Estérel, dans une zone classée Natura 2000, tenu par la même famille depuis cinq générations. Les vignes, établies en tranchées pare-feu, servent aussi de coupure de combustible pour la forêt voisine ; le caveau assure la vente et la dégustation des cuvées du domaine.",
+    "telephone": "04 94 99 21 10",
+    "site_web": "https://www.chateau-du-rouet.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+du+Rouet+Le+Muy",
+    "image_url": "/images/marchands/chateau-du-rouet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-les-preyres",
+    "nom": "Château Les Preyres",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.443323,
+    "lon": 6.573654,
+    "adresse": "3280 route de Sainte-Maxime (D125), 83490 Le Muy",
+    "horaires": "Caveau de vente et de dégustation ouvert du lundi au dimanche de 10h à 18h.",
+    "produits": [
+      "Vins bio rosés AOP Côtes de Provence",
+      "Vins bio blancs AOP Côtes de Provence",
+      "Vins bio rouges AOP Côtes de Provence",
+      "Cuvée Massa_Lia élevée en amphore",
+      "Vins du Château Font du Broc"
+    ],
+    "description": "Domaine d'une dizaine d'hectares en AOP Côtes de Provence, certifié en agriculture biologique et vendangé à la main, deuxième signature des Vignobles Sylvain Massa à côté du Château Font du Broc. Le caveau surplombe une salle d'élevage de plus de trente-cinq amphores où mûrit la cuvée Massa_Lia ; un restaurant, La Table du Château, est installé à quelques pas.",
+    "telephone": "04 12 05 02 40",
+    "site_web": "https://www.vignoblesmassa.com/chateau-les-preyres-vins-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Les+Preyres+Le+Muy",
+    "image_url": "/images/marchands/chateau-les-preyres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-saint-cassien",
+    "nom": "Domaine Saint Cassien",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.478066,
+    "lon": 6.544282,
+    "adresse": "1448 boulevard des Ferrières, 83490 Le Muy",
+    "horaires": "Du 1er septembre au 31 mai : du lundi au samedi de 10h à 12h et de 15h à 18h. Du 1er juin au 31 août : du lundi au samedi de 10h à 12h et de 15h à 19h. Fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Vins AOP Côtes de Provence rouge, rosé et blanc",
+      "Cuvée Joseph, rouge de garde",
+      "Cuvée Cassiani, rouge",
+      "Cuvée Fleur de Vignes, blanc de rolle",
+      "Cuvée La Source, rosé"
+    ],
+    "description": "Domaine familial de douze hectares d'un seul tenant, groupés autour d'une bastide et d'un platane de trois cents ans, créé en 2019 sur des terres déjà cultivées par les générations précédentes. Le vignoble est conduit en agriculture raisonnée, sans herbicide, un troupeau de moutons pâturant les rangs l'hiver ; le caveau vend les quatre cuvées du domaine en AOP Côtes de Provence.",
+    "telephone": "06 58 44 58 65",
+    "site_web": "https://domainesaintcassien.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Cassien+Le+Muy",
+    "image_url": "/images/marchands/domaine-saint-cassien.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-la-roquette",
+    "nom": "Domaine La Roquette",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.462357,
+    "lon": 6.58256,
+    "adresse": "Chemin de la Roquette, 83490 Le Muy",
+    "horaires": "Vente à la propriété. Du 1er avril au 30 novembre 2026, sur réservation : visite guidée « Histoire et légendes de la Roquette » suivie d'une dégustation, le mardi à partir de 10h et le vendredi à partir de 17h.",
+    "produits": [
+      "Vins IGP Maures",
+      "Vins IGP Var",
+      "Vin de France",
+      "Raisin de table",
+      "Olives"
+    ],
+    "description": "Domaine viticole familial au pied du rocher de la Roquette, entre l'Argens et les premiers contreforts de l'Estérel, transmis sur cinq générations et planté de dix-sept cépages sur des sols argilo-sableux. Le domaine porte le label Agriculture biologique - écoénergie de l'office de tourisme et pratique la vente à la propriété ; la visite guidée traverse le site et se termine par une dégustation.",
+    "telephone": "04 94 45 01 34",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+La+Roquette+Le+Muy",
+    "image_url": "/images/marchands/domaine-la-roquette.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "poissonnerie-du-marche-le-muy",
+    "nom": "Poissonnerie du Marché",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.472381,
+    "lon": 6.566591,
+    "adresse": "3 place de l'Église, 83490 Le Muy",
+    "horaires": "Mardi, jeudi et vendredi de 7h à 13h ; samedi, dimanche et jours fériés de 7h30 à 12h30. Fermé le lundi et le mercredi.",
+    "produits": [
+      "Poissons frais",
+      "Coquillages",
+      "Crustacés"
+    ],
+    "description": "Poissonnerie traditionnelle installée sur la place de l'Église, au cœur du village et à deux pas du marché du dimanche. Elle ouvre cinq matinées par semaine, dimanche et jours fériés compris.",
+    "telephone": "04 94 45 09 30",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poissonnerie+du+Marche+Le+Muy",
+    "image_url": "/images/marchands/poissonnerie-du-marche-le-muy.jpg",
+    "a_confirmer": true
   }
 ]
