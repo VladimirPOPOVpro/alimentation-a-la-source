@@ -44,10 +44,21 @@ prioritaires en cas de conflit.
    site officiel vivant et une fiche d'office de tourisme ne suffisent pas : ils survivent des mois
    à une fermeture. La règle ne s'applique pas aux marchés communaux ni aux AMAP, qui relèvent
    d'une commune ou d'une association et se vérifient autrement.
+7. **Deux entreprises à un même point de vente.** Quand deux sociétés distinctes vendent au même
+   comptoir, à la même adresse, elles ne font qu'une fiche, nommée d'après les deux enseignes, et les
+   produits des deux figurent dans la liste pour que la recherche trouve l'une comme l'autre. Deux
+   points superposés se masquent l'un l'autre sur la carte et se lisent comme un doublon. Le précédent
+   existait déjà : l'AMAP **Les Amapiens du Golfe** est mentionnée dans la fiche du **Jardin de la
+   Piboule**, où elle distribue, plutôt que d'occuper le même point.
+8. **Point de vente collectif permanent.** Précision de la règle 4 : un comptoir qui vend en
+   permanence la production d'un groupe de producteurs auquel il appartient — cave coopérative,
+   maison des vins d'appellation — relève de `producteur`, comme le **Cellier des 3 Collines** déjà
+   publié. La bascule vers `marche` ou `magasin-bio` ne vaut que pour un revendeur extérieur aux
+   producteurs dont il écoule la production.
 
 ## Marchands à confirmer
 
-84 fiches sur 118 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+89 fiches sur 123 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -133,8 +144,13 @@ prioritaires en cas de conflit.
 - **Domaine Saint Cassien** (le domaine écrit sur son propre site qu'il est conduit en « agriculture raisonnée » — sans herbicide, avec un troupeau de moutons l'hiver — alors que le registre de l'Agence Bio l'enregistre comme engagé chez Ecocert. Les deux peuvent coexister pendant une conversion ; la fiche décrit les pratiques que le domaine documente et n'écrit pas « bio ». Le seul contact publié, par le domaine comme par l'association des commerçants, est un portable)
 - **Domaine La Roquette** (trois réserves. La Base Adresse Nationale ne connaît pas le chemin de la Roquette au Muy : le point publié est celui de la fiche de l'office de tourisme. Les horaires sont ceux de la visite guidée sur réservation, seuls horaires publiés ; l'office indique par ailleurs « vente à la propriété » sans en donner les heures. Enfin le raisin de table et les olives viennent du registre des productions de l'Agence Bio, pas d'une source de vente : appeler avant de se déplacer pour ces deux-là)
 - **Poissonnerie du Marché** (l'annuaire de l'association des commerçants du Muy est la seule source : il donne l'adresse, le téléphone et les horaires jour par jour, mais décrit l'activité d'un seul mot, « poissonnerie traditionnelle ». La liste de produits reste donc générique et reprend ce que montre la photo de l'annuaire. Au registre, l'établissement est une entreprise individuelle sous patronyme ; « Poissonnerie du Marché » est l'enseigne publiée par l'association)
+- **L'Abeille de l'Estérel et Le Moulin de l'Argens** (deux sociétés distinctes vendent au 954 chemin du Bouillidou, la miellerie et le moulin à huile : elles ne font qu'une fiche, au titre de la règle 7, et les produits des deux y figurent. Le siège des deux est au Muy, chemin de Bonnefont ; c'est l'adresse de la miellerie, publiée par l'apiculteur lui-même et par l'annuaire des commerces des Arcs, qui a été retenue. Le site annonce 800 ruches quand un article de presse en donnait 250 : c'est le chiffre du producteur qui figure ici. Les deux engagements bio sont récents — Ecocert au 19 février 2026 pour la miellerie, Qualisud au 5 janvier 2026 pour le moulin — donc encore en conversion : la fiche parle d'engagement, jamais de certification. Les horaires sont ceux de la miellerie, le moulin n'en publiant aucun. Au registre, l'apiculture est une entreprise individuelle sous patronyme ; « L'Abeille de l'Estérel » est l'enseigne déclarée)
+- **Château Font du Broc** (les horaires sont ceux de la fiche Apidae de l'office de tourisme, datés de 2026 et à reprendre la saison prochaine. Le site du domaine annonce de son côté « tous les jours de 10h à 17h et le dimanche de 9h à 13h », quand la fiche de l'office ferme le dimanche à partir du 1er septembre : ce sont les horaires datés de l'office qui ont été retenus. Les coordonnées viennent aussi de l'office — les données structurées du site du domaine portent l'adresse du Château Les Preyres, au Muy, et non celle du château — et la Base Adresse Nationale ne connaît aucun numéro sur le chemin de la Font du Broc)
+- **Château Saint-Pierre** (l'office de tourisme écrit « transition biologique » quand le registre de l'Agence Bio enregistre un engagement chez Ecocert depuis 2022 et que le site du domaine affiche un pictogramme « Certification Bio » : la fiche parle d'engagement et s'arrête là. L'adresse publiée, « route de Taradeau », n'a pas de numéro de voirie ; le point retenu est celui de la fiche de l'office, à 490 m du centre de la voie rendu par la Base Adresse Nationale)
+- **So.bio Les Arcs** (l'enseigne annonce sur sa propre page le magasin fermé le dimanche, l'annuaire des commerces de la commune une ouverture le dimanche de 9h à 12h30 : les deux figurent dans la fiche. L'adresse est celle d'une zone d'activité sans numéro de voirie, que la Base Adresse Nationale ne sait pas géocoder ; le point publié est celui que le registre des entreprises donne à cet établissement, à 200 m du Cellier des Archers déjà présent sur la carte — les deux commerces sont bien voisins dans le même quartier de la Haute Cognasse. Enfin l'enseigne ne publie aucune photo de ce magasin-là : l'illustration est une photo de rayon fruits et légumes prise par So.bio dans l'un de ses magasins)
+- **La Ruche qui dit Oui ! - Les Arcs** (la page de la ruche porte une fréquence « chaque semaine » dans ses données de service et « deux fois par mois » dans son texte de présentation, et les deux dernières distributions publiées sont espacées de trois semaines : la fiche retient les deux distributions mensuelles annoncées par la ruche elle-même et renvoie à sa page pour les dates. Le seul contact publié est un portable personnel, qui n'a donc pas été inscrit. La photo est celle du réseau La Ruche qui dit Oui !, pas de cette ruche-là)
 
-Les 118 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 123 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -470,10 +486,11 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
   miellerie ouverte à la visite, treize miels dont quatre miels de cru. L'entreprise est bien
   domiciliée au Muy, mais son propre site place la miellerie et la boutique au 954 chemin du
   Boullidou, **aux Arcs-sur-Argens** : publier l'adresse du Muy enverrait les visiteurs au siège.
-  À traiter au prochain passage sur Les Arcs.
+  **Publiée depuis**, à l'adresse des Arcs, dans une fiche commune avec Le Moulin de l'Argens.
 - **Le Moulin de l'Argens** (204 chemin de Bonnefont) : moulin à huile engagé chez Qualisud, actif au
   registre au Muy — mais le registre de l'Agence Bio lui donne pour adresse principale le même chemin
-  du Bouillidou aux Arcs que l'apiculteur ci-dessus. Même réserve, même report.
+  du Bouillidou aux Arcs que l'apiculteur ci-dessus. **Publié depuis** avec la miellerie, dans la
+  même fiche aux Arcs, au titre de la règle 7.
 - **Boulangerie Grains de Folie** (118 route de Fréjus) : boulangerie-pâtisserie active au registre,
   horaires et téléphone publiés par l'association des commerçants. Son nom de domaine ne répond plus
   et la seule image disponible est un logo : aucune photo publiable, la fiche n'est pas partie.
@@ -489,6 +506,23 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Les Ruchers du Val d'Argens** (908 chemin des Rouvières) et **Vignobles Sylvain Massa** (ZAC des
   Ferrières) : actifs au registre, mais l'un sans aucune source publiant une vente, l'autre étant
   l'entité de négoce du Château Les Preyres, déjà publié.
+
+### Pistes non publiées aux Arcs-sur-Argens
+
+- **Moulin du Thélon** (37 rue du Thélon) : le site du moulin annonce lui-même « Saison 2023/2024 :
+  le moulin est fermé. Suite à un problème technique le moulin n'ouvrira pas cette année », et aucune
+  source consultée n'indique une réouverture depuis. Non publié.
+- **Maison des Vins Côtes de Provence** (RDN 7) : vitrine permanente de l'interprofession, qui vend
+  les vins de centaines de domaines de l'appellation sans rien produire elle-même. La règle 8, écrite
+  cette passe, la rattache à `producteur` comme les caves coopératives déjà publiées ; la fiche est à
+  monter au prochain passage sur la commune, avec les horaires que publie l'annuaire municipal
+  (du lundi au samedi 10h-13h et 14h-19h, le dimanche 10h-13h et 14h-18h).
+- **Les Œufs de Provence** (ZA de l'Écluse) : actif au registre, enregistré à l'Agence Bio, mais
+  aucune source consultée ne documente une vente au public sur place — l'adresse est celle d'un
+  centre de conditionnement en zone d'activité. Non publié en l'état.
+- **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
+  **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
+  instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
 
 ### Pistes non publiées à Lorgues
 

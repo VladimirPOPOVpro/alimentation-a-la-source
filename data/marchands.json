@@ -2970,5 +2970,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poissonnerie+du+Marche+Le+Muy",
     "image_url": "/images/marchands/poissonnerie-du-marche-le-muy.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "abeille-de-l-esterel",
+    "nom": "L'Abeille de l'Estérel et Le Moulin de l'Argens",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.458456,
+    "lon": 6.518932,
+    "adresse": "954 chemin du Bouillidou, 83460 Les Arcs-sur-Argens",
+    "horaires": "Du lundi au samedi de 8h30 à 12h et de 13h à 18h30, et le dimanche en saison d'après l'annuaire Bienvenue à la Ferme. Le moulin presse les olives à façon sur rendez-vous, au 06 61 05 48 15.",
+    "produits": [
+      "Miel de lavande, d'acacia et de châtaignier",
+      "Miel de garrigue, de maquis et de fleurs de Provence",
+      "Miel crémeux et miel à tartiner",
+      "Pollen et gelée royale",
+      "Nougat et bonbons au miel",
+      "Cire d'abeille et bougies",
+      "Huile d'olive vierge extra du Moulin de l'Argens",
+      "Pressage d'olives à façon"
+    ],
+    "description": "Exploitation apicole familiale de 800 ruches, professionnelle depuis 2018 et engagée en agriculture biologique auprès d'Ecocert d'après le registre de l'Agence Bio, qui récolte et met ses miels en pot sur place. Le même site abrite Le Moulin de l'Argens, moulin à huile artisanal à extraction à froid, qui vend son huile d'olive vierge extra et presse à façon les olives des particuliers et des producteurs du secteur.",
+    "telephone": "06 66 97 57 90",
+    "site_web": "https://labeilledelesterel.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=954+chemin+du+Bouillidou+Les+Arcs-sur-Argens",
+    "image_url": "/images/marchands/abeille-de-l-esterel.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-font-du-broc",
+    "nom": "Château Font du Broc",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.478043,
+    "lon": 6.497438,
+    "adresse": "Chemin de la Font du Broc, 83460 Les Arcs-sur-Argens",
+    "horaires": "Du 1er juillet au 31 août 2026, tous les jours de 10h à 17h. Du 1er septembre au 31 décembre 2026, du lundi au samedi de 10h à 17h, fermé le dimanche. Fermetures exceptionnelles les 1er et 11 novembre et le 25 décembre. Visite du vignoble et de la cave à 11h sur réservation.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Cuvées Château et Réserve"
+    ],
+    "description": "Domaine de 28 hectares de vignes vendangées à la main, certifié en agriculture biologique depuis 2013 et engagé auprès d'Ecocert depuis 2010 d'après le registre de l'Agence Bio. Sa cave d'élevage, bâtie en pierre à une vingtaine de mètres sous terre, reprend le dessin de la salle capitulaire de l'abbaye du Thoronet ; le caveau assure la vente et la dégustation.",
+    "telephone": "04 94 47 48 20",
+    "site_web": "https://www.vignoblesmassa.com/chateau-font-du-broc-vins-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Font+du+Broc+Les+Arcs",
+    "image_url": "/images/marchands/chateau-font-du-broc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-saint-pierre",
+    "nom": "Château Saint-Pierre",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.451851,
+    "lon": 6.472825,
+    "adresse": "Route de Taradeau, 83460 Les Arcs-sur-Argens",
+    "horaires": "Caveau ouvert 7 jours sur 7, de 9h à 13h et de 14h à 18h. Fermetures exceptionnelles les 1er janvier, lundi de Pâques, jeudi de l'Ascension, lundi de Pentecôte, 1er mai, 8 mai, 14 juillet, 15 août, 1er et 11 novembre et 25 décembre.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Cuvées Prieur, Marie et Eden"
+    ],
+    "description": "Domaine de 45 hectares au nord-est de la plaine des Maures, engagé en agriculture biologique auprès d'Ecocert depuis 2022 d'après le registre de l'Agence Bio, et qui replante vignes et oliviers. Le caveau assure la vente et la dégustation des trois gammes du domaine, sept jours sur sept.",
+    "telephone": "04 94 47 41 47",
+    "site_web": "https://www.chateaustpierre.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Saint-Pierre+Les+Arcs",
+    "image_url": "/images/marchands/chateau-saint-pierre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "so-bio-les-arcs",
+    "nom": "So.bio Les Arcs",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.447642,
+    "lon": 6.477755,
+    "adresse": "ZAE Les 4 Chemins, La Haute Cognasse, 83460 Les Arcs-sur-Argens",
+    "horaires": "Du lundi au samedi de 8h30 à 19h30. L'enseigne annonce le magasin fermé le dimanche, l'annuaire des commerces de la commune une ouverture le dimanche de 9h à 12h30 : mieux vaut appeler avant de s'y rendre ce jour-là.",
+    "produits": [
+      "Fruits et légumes bio de saison de producteurs situés à moins de 100 km",
+      "Boucherie bio à la coupe",
+      "Fromages bio à la coupe",
+      "Pain bio artisanal livré chaque jour",
+      "Vrac : plus de cent références",
+      "Cave à vins bio régionaux",
+      "Cosmétiques et compléments alimentaires bio"
+    ],
+    "description": "Magasin bio de la zone d'activité des Quatre Chemins, exploité sous l'enseigne So.bio par la société PACA BIO. Il annonce des fruits et légumes livrés chaque matin par des producteurs situés à moins de cent kilomètres, une boucherie et une crémerie bio à la coupe, du pain artisanal livré tous les jours et des paniers anti-gaspillage.",
+    "telephone": "04 81 06 10 45",
+    "site_web": "https://www.sobio.fr/magasin/so-bio-les-arcs",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=So.bio+Les+Arcs",
+    "image_url": "/images/marchands/so-bio-les-arcs.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ruche-qui-dit-oui-les-arcs",
+    "nom": "La Ruche qui dit Oui ! - Les Arcs",
+    "categorie": "amap",
+    "piliers": [
+      "social",
+      "economie",
+      "transport"
+    ],
+    "lat": 43.455473,
+    "lon": 6.512832,
+    "adresse": "Le Jardin du Soleil, RN 7, 83460 Les Arcs-sur-Argens",
+    "horaires": "Distribution le samedi matin de 10h30 à 12h30, en bordure de la Nationale 7. La ruche annonce deux distributions par mois ; les dates ouvertes se consultent sur sa page.",
+    "produits": [
+      "Viandes fermières d'élevages traditionnels",
+      "Charcuteries fermières",
+      "Produits fermiers variables d'une vente à l'autre",
+      "Commande en ligne et retrait groupé"
+    ],
+    "description": "Point de retrait collectif ouvert depuis 2014 : on commande en ligne auprès des producteurs de son choix, puis on récupère sa commande lors d'une distribution groupée en bordure de la Nationale 7. La ruche s'est spécialisée dans les viandes et charcuteries fermières et annonce des producteurs de Forcalquier, du Sud-Ouest et du Bergeracois plus que du Var.",
+    "site_web": "https://laruchequiditoui.fr/fr/assemblies/4477",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Jardin+du+Soleil+RN+7+Les+Arcs",
+    "image_url": "/images/marchands/la-ruche-qui-dit-oui-les-arcs.jpg",
+    "a_confirmer": true
   }
 ]
