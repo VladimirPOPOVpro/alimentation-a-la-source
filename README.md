@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-42 fiches sur 73 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+47 fiches sur 78 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -58,8 +58,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **La Ferme des Claux** (« La Ferme des Claux » est le nom commercial publié par les offices de tourisme du Pays de Fayence et du Var ; l'exploitation est une entreprise individuelle, sans enseigne déposée au registre. Elle n'a pas de site officiel, seulement une page Facebook, qui n'a donc pas été inscrite)
 - **Domaine Le Clos Notre Dame** (les deux offices de tourisme s'accordent sur la matinée, 9h-12h du lundi au samedi, mais pas sur la fermeture du soir : 19h30 d'avril à octobre pour l'office intercommunal du Pays de Fayence, 20h pour le comité départemental du Var. Le domaine n'a pas de site officiel)
 - **Domaine La Grande Bastide** (attention à l'homonymie : « La Grande Bastide » désigne déjà, dans ce fichier, un point de vente collectif de Roquebrune-sur-Argens — deux établissements sans lien, d'où le slug `domaine-la-grande-bastide`. Le vignoble est engagé auprès d'Ecocert depuis août 2023 pour son raisin de cuve, mais ni son site ni l'office de tourisme n'annoncent de vin certifié biologique : la mention n'a pas été reprise)
+- **Marché Paysan de la Ferme du Laquet** (les horaires publiés par l'office de tourisme ne couvrent que la période du 1er avril au 30 septembre 2026 ; rien n'est dit du reste de l'année, alors que le point de vente existe depuis 1993 et que l'association qui le porte est active au registre. Le marché n'a pas de site officiel, seulement une page Facebook, qui n'a donc pas été inscrite)
+- **Felix Paysan** (« Felix Paysan » est le nom commercial publié par l'office de tourisme et par la page Facebook de l'exploitation ; au registre il s'agit d'une entreprise individuelle de culture de légumes, sans enseigne déposée. L'office ne décrit que « des légumes de saison » : le melon, la pastèque et le poivron de la liste de produits sont ceux visibles sur la photo que l'office publie lui-même sur la fiche)
+- **La Ferme Rebuffel** (la fiche de l'office de tourisme se contredit : ses horaires structurés annoncent mercredi et samedi de 10h à 13h, son texte libre mercredi 10h-13h puis 17h-19h et samedi 10h-19h — ce sont ces derniers qui figurent ici. La Base Adresse Nationale ne connaît aucun numéro chemin de l'Establerie, les coordonnées sont celles du centre de la voie, et la seule photo publiée par l'office est une vue du village de Callian, pas de la ferme)
+- **Terre et Parfums** (l'enseigne déposée au registre est « Les Jardins Parfumés », alors que l'office de tourisme, l'annuaire de l'Agence Bio et la page Facebook de l'exploitation utilisent tous « Terre et Parfums ». L'office annonce un engagement bio « avec Ecocert depuis 2017 » quand l'Agence Bio enregistre l'exploitation auprès du Bureau Alpes Contrôles : l'engagement est certain, l'organisme certificateur non)
+- **La Ferme de La Barrière** (l'office de tourisme annonce une ouverture « tous les jours » tout en précisant que la commande de viande se fait sur réservation : c'est la seconde mention qui a été retenue. La Base Adresse Nationale ne connaît pas de numéro chemin de la Barrière et le point publié par l'office tombe à 116 m du 565, le numéro le plus proche)
 
-Les 73 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 78 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -167,6 +172,31 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
   ovine** aux Suanes Basses sont actives au registre, mais toutes deux en entreprise
   individuelle sans nom commercial publié : une fiche aurait affiché un nom de personne,
   ce que la charte de modération interdit. Non publiées.
+
+### Pistes non publiées à Callian, Montauroux et Tourrettes
+
+- **Marché hebdomadaire de Montauroux** : vérifié, mais sans photo publiable. La commune
+  annonce sur son propre site un marché **le mardi et le dimanche matin**, de 8h à 13h,
+  place du Clos devant l'hôtel de ville, quand l'office de tourisme intercommunal ne
+  mentionne que le mardi — divergence à trancher. Surtout, la seule photo publiée par le
+  réseau Apidae pour ce marché mesure 150 × 200 pixels, et l'image de la page municipale
+  renvoie une erreur 404. Plutôt que d'illustrer ce marché avec une photo prise ailleurs,
+  la fiche attend une vraie image.
+- **Les Sorbets du Jas** (444 chemin de Chambarot, Montauroux) : la fiche de l'office de
+  tourisme est toujours en ligne, horaires et parfums détaillés à l'appui, mais
+  **l'entreprise est cessée au registre**, avec zéro établissement ouvert, et sa
+  certification bio est arrêtée. Une autre exploitation, active, cultive des plantes à
+  parfum à la même adresse, sans vente de glaces documentée. Non publiée : c'est
+  exactement le cas d'une fiche touristique qui survit à la fermeture.
+- **Domaine viticole Le Mas Ricardenque** (612 chemin des Crotons, Callian) : 2,5 hectares
+  de vigne en bio, actif au registre comme à l'Agence Bio, mais l'office précise « vente
+  sur point de vente collectif » et « sur rendez-vous » — pas de caveau ouvert. À traiter
+  à la prochaine passe sur ce secteur.
+- **Cépages Parfums** (612 chemin des Crottons, Callian) : maison de parfums, hors du
+  champ alimentaire du site.
+- **La Ferme des Villards**, **Le Jas de Bel Argent** et un apiculteur professionnel de
+  Tourrettes figurent aussi à l'annuaire des producteurs de l'office : non traités faute
+  de place, la passe étant limitée à cinq fiches.
 
 ### Pistes non publiées à Lorgues
 

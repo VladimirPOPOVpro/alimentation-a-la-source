@@ -1785,5 +1785,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+La+Grande+Bastide+Tourrettes",
     "image_url": "/images/marchands/domaine-la-grande-bastide.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-ferme-du-laquet",
+    "nom": "Marché Paysan de la Ferme du Laquet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.599778,
+    "lon": 6.699075,
+    "adresse": "158 route départementale 562, quartier Tire-Bœuf, 83440 Tourrettes",
+    "horaires": "Du 1er avril au 30 septembre 2026, les mardi, mercredi et jeudi de 8h à 12h30, le vendredi et le week-end de 8h à 19h. L'office de tourisme ne publie pas d'horaires pour le reste de l'année.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages de chèvre, de vache et de brebis",
+      "Viande d'agneau, de bœuf, de porc et de canard",
+      "Volailles et foie gras",
+      "Poissons de rivière et de mer, huîtres",
+      "Miels, confitures et conserves",
+      "Vins",
+      "Plats préparés et spécialités niçoises"
+    ],
+    "description": "Point de vente collectif ouvert depuis 1993 au carrefour de Tire-Bœuf, sur la RD 562, où une association réunit environ quatre-vingts producteurs du Var et des Alpes-Maritimes. On y trouve la production de la semaine, du maraîchage à la charcuterie, et un traiteur au feu de bois les vendredis et samedis.",
+    "telephone": "04 94 47 68 07",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marche+Paysan+de+la+Ferme+du+Laquet+Tourrettes",
+    "image_url": "/images/marchands/marche-paysan-ferme-du-laquet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "felix-paysan",
+    "nom": "Felix Paysan",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.611722,
+    "lon": 6.757936,
+    "adresse": "1049 chemin des Crottons, 83440 Callian",
+    "horaires": "Toute l'année le lundi et le vendredi de 17h à 19h. Également présent sur le marché de Fayence le samedi matin.",
+    "produits": [
+      "Légumes de saison",
+      "Melons",
+      "Pastèques",
+      "Poivrons"
+    ],
+    "description": "Maraîcher installé chemin des Crottons, qui cultive et vend ses légumes de saison sans traitement. La vente se fait directement à l'exploitation deux fins d'après-midi par semaine, et sur le marché de Fayence le samedi matin.",
+    "telephone": "06 44 24 73 06",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Felix+Paysan+Callian",
+    "image_url": "/images/marchands/felix-paysan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-rebuffel",
+    "nom": "La Ferme Rebuffel",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.617277,
+    "lon": 6.751768,
+    "adresse": "Chemin de l'Establerie, 83440 Callian",
+    "horaires": "Toute l'année le mercredi de 10h à 13h et de 17h à 19h, et le samedi de 10h à 19h ; les horaires structurés de la même fiche n'annoncent que 10h à 13h ces deux jours. Fermé les 1er mai et 25 décembre.",
+    "produits": [
+      "Yaourts fermiers",
+      "Produits laitiers",
+      "Viande bovine élevée en plein air"
+    ],
+    "description": "Ferme laitière installée au quartier de l'Establerie, dont les vaches pâturent en plein air et sont nourries à l'herbe. La boutique de la ferme vend les yaourts fabriqués sur place et la viande du troupeau.",
+    "telephone": "04 94 47 70 80",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+Rebuffel+Callian",
+    "image_url": "/images/marchands/la-ferme-rebuffel.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "terre-et-parfums",
+    "nom": "Terre et Parfums",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.619888,
+    "lon": 6.744059,
+    "adresse": "45 impasse des Chenevières, 83440 Callian",
+    "horaires": "Toute l'année, le mercredi de 10h30 à 13h et de 17h à 19h30, et le samedi de 10h30 à 19h30 sans interruption.",
+    "produits": [
+      "Safran en stigmates et en poudre",
+      "Truffes",
+      "Petits fruits",
+      "Sirops",
+      "Confitures",
+      "Plants et semences",
+      "Fleurs coupées"
+    ],
+    "description": "Exploitation de safran et de plantes à parfum engagée en agriculture biologique, installée impasse des Chenevières. La vente se fait à la propriété deux jours par semaine ; le safran y est proposé en stigmates comme en poudre, à côté des petits fruits, des sirops et des confitures de la ferme.",
+    "telephone": "06 82 50 78 63",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Terre+et+Parfums+Callian",
+    "image_url": "/images/marchands/terre-et-parfums.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-la-barriere",
+    "nom": "La Ferme de La Barrière",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.601995,
+    "lon": 6.77957,
+    "adresse": "Chemin de la Barrière, 83440 Montauroux",
+    "horaires": "Ouvert toute l'année, mais sur rendez-vous seulement : la commande de viande se fait sur réservation.",
+    "produits": [
+      "Viande d'agneau",
+      "Colis de viande sur réservation",
+      "Produits de charcuterie"
+    ],
+    "description": "Exploitation familiale d'élevage ovin au quartier de la Barrière, qui vend sa production d'agneau dans une échoppe paysanne aménagée à la ferme. L'accueil et la commande se font sur rendez-vous.",
+    "telephone": "06 15 93 93 90",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+de+La+Barriere+Montauroux",
+    "image_url": "/images/marchands/la-ferme-de-la-barriere.jpg",
+    "a_confirmer": true
   }
 ]
