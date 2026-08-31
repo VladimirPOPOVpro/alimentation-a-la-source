@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-29 fiches sur 58 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+32 fiches sur 63 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -45,8 +45,11 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Marché des producteurs de pays de Lorgues** (Bienvenue à la Ferme annonce la saison « du 8 mai au 23 octobre » sans préciser l'année ; ces deux dates sont bien des vendredis en 2026, mais aussi en 2020, et l'office de tourisme se contente de « de mai à octobre »)
 - **Le Moulin de Lorgues** (aucune source officielle ne publie d'horaires ; ceux de la fiche viennent d'un site local d'histoire non daté, lorgues.info, qui décrit une ouverture du 15 novembre au 15 janvier puis une vente le mardi et le samedi matin)
 - **Le Grain dans le Bocal** (la fiche touristique porte « horaires non définis » et date de 2021 ; les horaires publiés sont ceux du dépliant du magasin scanné par l'office de tourisme, non daté)
+- **Marché provençal de La Motte** (le jour, le vendredi, est confirmé par la commune, par la fiche Apidae et par l'office de tourisme de la Dracénie, mais aucun ne publie d'horaires : la page du marché sur le site municipal, qui annonce 8h-13h, porte encore la mention « contenu d'exemple — à remplacer par le secrétariat général »)
+- **Domaine de l'Éouve** (son propre site ne donne que le lieu-dit « Les Éouvières » ; les coordonnées retenues sont celles du 1047 route de Bagnols, adresse publiée par la Route des Vins du Sud, alors que l'Agence Bio place l'exploitation tantôt aux Éouvières, à 400 m, tantôt près de la place du village, à 1,3 km)
+- **Château des Demoiselles** (la page « contact » et la page « dégustation » du domaine se contredisent sur l'ouverture du dimanche en juin, juillet et août)
 
-Les 58 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 63 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -86,6 +89,32 @@ est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
   viennent que d'annuaires. C'est aussi une coopérative réservée à ses membres.
 - **Domaine du Clos d'Aure** (412 voie Georges Pompidou) : producteur d'olives
   actif au registre, sans aucune présence web ni fiche d'office de tourisme.
+
+### Pistes non publiées à La Motte
+
+- **Domaine du Jas d'Esclans** (3094 route de Callas) : actif au registre et certifié
+  en agriculture biologique à l'annuaire de l'Agence Bio, mais deux sources officielles
+  donnent deux numéros différents — 04 94 60 40 49 pour l'annuaire du Conseil
+  interprofessionnel des vins de Provence, 04 98 10 29 29 pour l'Agence Bio — et le site
+  officiel que l'Agence Bio référence, `jasdesclans.fr`, ne répond pas. Comme la fiche
+  aurait consisté à dire « téléphoner avant de venir », publier un numéro incertain
+  n'avait pas de sens : rien n'a été publié.
+- **Les Nouveaux Jardiniers** (567 route de Trans) : maraîchers actifs au registre depuis
+  1995, mais aucune source publique ne dit qu'ils vendent aux particuliers. Non publié.
+- **Château Rêva** et **Le Castelet** : tous deux inscrits à l'annuaire de l'Agence Bio à
+  La Motte, avec des productions intéressantes (olives, huile d'olive, figues, abricots
+  pour le premier), mais aucun site ni fiche d'office de tourisme, donc aucune information
+  pratique vérifiable.
+- **Domaine de la Maurette** : actif, mais son site affiche encore des « Tarifs 2020-2022 »
+  et un bloc « _SAMPLE TEXT_ », sans adresse ni horaires exploitables.
+
+### Attention aux sites de commune récents
+
+`lamotte.fr` **n'est pas** la commune de La Motte (83) : c'est un promoteur immobilier. Le
+site officiel, confirmé par l'annuaire Service-Public, est `ville-la-motte.com`. Ce site,
+récent, publie encore des pages de démonstration explicitement signalées « contenu
+d'exemple » — le contenu y ressemble à une information officielle sans en être une. Même
+prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 
 ### Pistes non publiées à Lorgues
 

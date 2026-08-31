@@ -1400,5 +1400,128 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Grain+dans+le+Bocal+Lorgues",
     "image_url": "/images/marchands/le-grain-dans-le-bocal.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-la-motte",
+    "nom": "Marché provençal de La Motte",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.493099,
+    "lon": 6.535797,
+    "adresse": "Place Georges Clémenceau, 83920 La Motte",
+    "horaires": "Vendredi matin, toute l'année. Aucune source officielle ne publie d'heure de début ni de fin : la fiche de l'office de tourisme n'en donne pas, et la page du marché sur le site de la commune, qui annonce 8h à 13h, porte encore la mention « contenu d'exemple ». Se renseigner en mairie au 04 94 50 44 55",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Produits de producteurs locaux",
+      "Artisanat"
+    ],
+    "description": "Marché hebdomadaire du vendredi matin sur la place Clémenceau, devant l'église, décrit par l'office de tourisme comme un marché de producteurs locaux.",
+    "telephone": "04 94 50 44 55",
+    "site_web": "https://tourisme.dracenie.com/les-marches-provencaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Clémenceau+La+Motte",
+    "image_url": "/images/marchands/marche-provencal-la-motte.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vignerons-de-saint-romain",
+    "nom": "Les Vignerons de Saint-Romain",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.49312,
+    "lon": 6.562874,
+    "adresse": "2738 route de Bagnols, quartier La Maurette, 83920 La Motte",
+    "horaires": "Du lundi au samedi, 9h à 12h et 14h à 18h",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc",
+      "Cuvée rosé en agriculture biologique"
+    ],
+    "description": "Cave coopérative du village : elle vinifie et vend au caveau les Côtes de Provence de ses adhérents, dont une cuvée en agriculture biologique. Elle tient aussi des dépôts à Roquebrune-sur-Argens et aux Arcs-sur-Argens.",
+    "telephone": "04 94 70 25 68",
+    "site_web": "https://lesvigneronsdesaintromain.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vignerons+de+Saint+Romain+La+Motte",
+    "image_url": "/images/marchands/vignerons-de-saint-romain.jpg"
+  },
+  {
+    "slug": "domaine-de-l-eouve",
+    "nom": "Domaine de l'Éouve",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.491711,
+    "lon": 6.550576,
+    "adresse": "1047 route de Bagnols, quartier Les Éouvières, 83920 La Motte",
+    "horaires": "Du lundi au samedi, 9h à 12h15 et 15h à 18h30",
+    "produits": [
+      "Miels de Provence",
+      "Côtes de Provence rosé bio",
+      "Côtes de Provence rouge bio",
+      "Côtes de Provence blanc bio"
+    ],
+    "description": "Domaine familial de dix hectares en agriculture biologique, inscrit à l'annuaire de l'Agence Bio : vins AOC Côtes de Provence vendangés à la main, et miels récoltés sur l'exploitation puis extraits à froid.",
+    "telephone": "04 94 70 27 80",
+    "site_web": "https://www.eouve-vin-bio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+l'Eouve+La+Motte",
+    "image_url": "/images/marchands/domaine-de-l-eouve.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-canta-rainette",
+    "nom": "Domaine de Canta Rainette",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.492249,
+    "lon": 6.550853,
+    "adresse": "1144 route de Bagnols, 83920 La Motte",
+    "horaires": "Du 1er mai au 30 septembre, tous les jours 9h à 12h et 15h à 19h ; du 1er octobre au 30 avril, 15h à 17h45, sauf dimanche et jours fériés",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc"
+    ],
+    "description": "Domaine de vigneron indépendant sur la route de Bagnols, en AOP Côtes de Provence, dont le caveau reste ouvert toute l'année et sept jours sur sept de mai à septembre.",
+    "telephone": "04 94 70 28 25",
+    "site_web": "https://www.canta-rainette.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Canta+Rainette+La+Motte",
+    "image_url": "/images/marchands/domaine-canta-rainette.jpg"
+  },
+  {
+    "slug": "chateau-des-demoiselles",
+    "nom": "Château des Demoiselles",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.510709,
+    "lon": 6.566349,
+    "adresse": "2040 route de Callas, 83920 La Motte",
+    "horaires": "Caveau fermé l'hiver, réouverture le 1er avril. D'avril à octobre, du mercredi au samedi de 10h à 18h sans interruption ; en juillet et août, du lundi au samedi de 10h à 18h. Le site du domaine se contredit sur l'ouverture du dimanche en juin, juillet et août : appeler au 04 94 70 28 78",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc"
+    ],
+    "description": "Domaine de 300 hectares dans la vallée des Esclans, dont 72 hectares de vignes en AOP Côtes de Provence conduites en agriculture biologique. Le caveau propose une dégustation gratuite des deux cuvées du domaine, déclinées en rosé, blanc et rouge.",
+    "telephone": "04 94 70 28 78",
+    "site_web": "https://www.chateaudesdemoiselles.com/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+des+Demoiselles+La+Motte",
+    "image_url": "/images/marchands/chateau-des-demoiselles.jpg",
+    "a_confirmer": true
   }
 ]
