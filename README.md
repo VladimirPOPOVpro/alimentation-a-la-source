@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-52 fiches sur 83 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+57 fiches sur 88 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -68,8 +68,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **Moulin de la Combette** (le moulin ne publie aucun horaire d'ouverture : la fiche le dit plutôt que d'en inventer. Son propre site se présente par ailleurs comme « seul moulin à huile sur la commune », ce qui est douteux — le Moulin du Flayosquet est tout proche —, et cette phrase n'a pas été reprise)
 - **Château de Berne** (l'adresse publiée par le domaine et par la commune est « chemin des Imberts », mais la Base Adresse Nationale place cette voie 2,3 km au nord-ouest du château ; les coordonnées retenues sont celles de la « route de Berne », identiques à celles que l'Agence Bio enregistre pour l'exploitation. Le téléphone est celui de la cave de dégustation, pas de l'hôtel. L'Agence Bio indique un engagement en agriculture biologique en cours, ce que la fiche formule ainsi plutôt que d'écrire « bio »)
 - **AMAP en Dracénie** (l'association ne figure pas au registre des entreprises, comme la plupart des associations : la vérification repose sur son propre site et sur celui de l'Usine de la Redonne, qui annoncent tous deux la distribution du jeudi de 17h30 à 19h, et dont l'agenda est à jour. Aucun numéro de rue n'existe route du Flayosquet à la Base Adresse Nationale : les coordonnées sont celles du centre de la voie. Aucune photo publiable n'existe — les seules images des deux sites font 200 pixels ou montrent des visages identifiables —, l'illustration est donc une photo de cageots de légumes prise à Flayosc et publiée par la commune)
+- **Marché de Cogolin** (deux marchés, deux jours, deux places : le point de la fiche est celui du mercredi, place Victor Hugo, le plus grand des deux. La commune ne publie pas la liste des étals — les catégories de produits reprennent sa propre description du marché)
+- **Château des Garcinières** (la fiche de l'office de tourisme place le domaine 260 m à l'écart du point de la Base Adresse Nationale, lequel coïncide exactement avec celui de l'Agence Bio : ce sont les coordonnées de la BAN qui figurent ici. La commune écrit « ouvert toute l'année » quand le domaine publie sur son propre site quatre horaires saisonniers, dimanche fermé : ce sont ceux du domaine qui ont été retenus. Le domaine publie aussi un numéro de portable, qui n'a pas été inscrit)
+- **Château Saint-Maur** (le registre des entreprises situe l'établissement actif au 700 route de Collobrières quand le domaine et la commune publient tous deux le 535, à 640 m de là : c'est le 535, l'adresse donnée aux visiteurs, qui figure ici. Le domaine annonce un vignoble « en conversion bio » et l'Agence Bio enregistre un engagement en cours ; la fiche ne va pas plus loin)
+- **L'Atelier Provençal - Conserverie Au Bec Fin** (aucune société nommée « Au Bec Fin » n'existe au registre : la conserverie y est immatriculée sous le sigle C.B.F. et le magasin sous SAS Rue Pairolière, tous deux actifs à la même adresse. L'office de tourisme intitule sa fiche « Conserverie Au Bec Fin » quand la commune et l'enseigne du magasin disent « L'Atelier Provençal », d'où le nom composé. La commune publie le 04 94 55 74 44, le magasin son propre 04 94 55 74 43 : c'est ce dernier qui a été retenu)
+- **Le Jardin de la Piboule** (« Le Jardin de la Piboule » est le nom commercial publié par l'annuaire des commerces de la commune et par le site de l'exploitation ; au registre il s'agit d'une entreprise individuelle de culture de légumes. L'Agence Bio enregistre une certification **arrêtée** : la fiche ne revendique donc aucun label, seulement l'engagement « sans produits chimiques » affiché par le jardin lui-même. Le seul téléphone publié est celui de l'annuaire municipal, le site du jardin n'en donne aucun)
 
-Les 83 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 88 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -229,6 +234,30 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
   publiées.
 - **Le Primeur Flayoscais** (33 boulevard Jean Moulin) : primeur de village listé par la
   commune, mais commerce de détail généraliste et non certifié — hors du champ du site.
+
+### Pistes non publiées à Cogolin
+
+- **Marcel & Fils bio** (274 avenue de Saint-Maur) : magasin bio entièrement vérifié —
+  l'annuaire des commerces de la commune, l'établissement actif au registre et la page
+  officielle de l'enseigne donnent la même adresse, le même téléphone et des horaires
+  précis. Mais l'enseigne ne publie aucune photo de son magasin de Cogolin, et illustrer
+  un magasin de chaîne avec une image prise ailleurs serait trompeur. Fiche prête, en
+  attente d'une image.
+- **Brasserie Artisanale des Palmiers** (domaine Val d'Astier) : brasserie certifiée bio,
+  active au registre en fabrication de bière, mais installée à Cogolin seulement depuis
+  2025 et sans aucune source publiant une boutique, des horaires ou une vente aux
+  particuliers.
+- **Le Jardin de Léonie** (quartier Saint-Maur, route de Collobrières) : l'annuaire
+  municipal précise « production seulement en été » et donne deux numéros de portable.
+  Aucune autre source, aucune entité à ce nom au registre : non publiée.
+- **Château Saint-Marc**, **Domaine de la Giscle**, **Domaine du Val d'Astier** et
+  **Château de Trémouriès** : quatre domaines viticoles listés par la commune, non traités
+  faute de place, la passe étant limitée à cinq fiches.
+- **Les vignerons de Taradeau** (73 avenue Georges Clemenceau) : point de vente d'une cave
+  coopérative de Taradeau, à 60 km de là — un caviste, pas un producteur cogolinois.
+- L'AMAP **Les Amapiens du Golfe** distribue au point de vente du Jardin de la Piboule :
+  elle est mentionnée dans cette fiche plutôt que d'en faire une entrée séparée au même
+  point de la carte.
 
 ### Pistes non publiées à Lorgues
 

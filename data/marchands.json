@@ -2054,5 +2054,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Usine+de+la+Redonne+Flayosc",
     "image_url": "/images/marchands/amap-en-dracenie.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-cogolin",
+    "nom": "Marché de Cogolin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.250563,
+    "lon": 6.534291,
+    "adresse": "Place Victor Hugo le mercredi, place de la République le samedi, 83310 Cogolin",
+    "horaires": "Mercredi de 8h à 13h, place Victor Hugo et au boulodrome, une centaine d'étals ; samedi de 8h à 13h, place de la République, une cinquantaine d'étals.",
+    "produits": [
+      "Produits alimentaires de producteurs locaux",
+      "Miel",
+      "Huile d'olive",
+      "Olives préparées",
+      "Lavande",
+      "Truffes",
+      "Artisanat"
+    ],
+    "description": "Deux marchés hebdomadaires tenus par la commune : le mercredi, le plus grand, s'étend de la place Victor Hugo au boulodrome ; le samedi se tient place de la République. La mairie y annonce des produits alimentaires et manufacturés d'artisans et de producteurs locaux, du miel à l'huile d'olive.",
+    "telephone": "04 94 56 65 45",
+    "site_web": "https://www.cogolin.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Victor+Hugo+Cogolin",
+    "image_url": "/images/marchands/marche-de-cogolin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-des-garcinieres",
+    "nom": "Château des Garcinières",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.252297,
+    "lon": 6.555156,
+    "adresse": "1082 route de la Foux, 83310 Cogolin",
+    "horaires": "D'octobre à mars : du lundi au vendredi de 9h à 16h30, fermé samedi et dimanche. D'avril à juin et en septembre : du lundi au samedi de 9h à 18h. En juillet et août : du lundi au samedi de 9h à 13h et de 15h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Vins rouges, rosés et blancs",
+      "Jus de raisin",
+      "Huile d'olive",
+      "Miel",
+      "Confitures",
+      "Épices et condiments"
+    ],
+    "description": "Domaine familial de 17 hectares installé sur les terres d'un ancien monastère cistercien, tenu par la même famille depuis 1898 et engagé en agriculture biologique auprès d'Ecocert. Le caveau, au bout d'une allée de platanes tricentenaires, propose la dégustation des vins et une sélection de produits provençaux : huile d'olive, miel, confitures.",
+    "telephone": "04 94 56 02 85",
+    "site_web": "https://www.chateau-garcinieres.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+des+Garcinieres+Cogolin",
+    "image_url": "/images/marchands/chateau-des-garcinieres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-saint-maur",
+    "nom": "Château Saint-Maur",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.272104,
+    "lon": 6.503005,
+    "adresse": "535 route de Collobrières (D48), 83310 Cogolin",
+    "horaires": "De Pâques à fin septembre : tous les jours de 10h à 19h30. D'octobre à Pâques : en semaine de 10h à 17h, le samedi de 10h à 13h. Fermé le dimanche, le 25 décembre, le 1er janvier et les week-ends de janvier et février. Visite guidée sur réservation.",
+    "produits": [
+      "Vins rosés",
+      "Vins rouges",
+      "Vins blancs",
+      "Crus Classés des Côtes de Provence"
+    ],
+    "description": "Domaine du massif des Maures classé parmi les Crus Classés des Côtes de Provence, dont le vignoble est annoncé en conversion vers l'agriculture biologique. La boutique du château assure la vente et la dégustation, avec un bar à vin en terrasse.",
+    "telephone": "04 94 95 48 48",
+    "site_web": "https://www.chateausaintmaur.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Saint-Maur+Cogolin",
+    "image_url": "/images/marchands/chateau-saint-maur.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "atelier-provencal-au-bec-fin",
+    "nom": "L'Atelier Provençal - Conserverie Au Bec Fin",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.249473,
+    "lon": 6.545092,
+    "adresse": "50 avenue de Valensole, 83310 Cogolin",
+    "horaires": "Du lundi au samedi de 9h30 à 12h30 et de 14h à 18h30, fermé le dimanche sauf les 1er et 11 novembre. Visite de la conserverie gratuite sur réservation, à partir de huit personnes, du lundi au samedi de 10h à 12h30.",
+    "produits": [
+      "Soupes de poissons et bouillabaisse",
+      "Tapenades et tartinables",
+      "Aïoli et anchoïade",
+      "Plats cuisinés provençaux",
+      "Confits et sauces",
+      "Huiles d'olive",
+      "Miel de Provence",
+      "Vins de domaines régionaux"
+    ],
+    "description": "Conserverie artisanale installée à Cogolin depuis 1991, qui cuisine sur place soupes de poissons, tapenades et plats provençaux sans conservateur. Le magasin attenant, L'Atelier Provençal, vend ces conserves et une sélection de produits de la région : huiles, miels et vins d'une cinquantaine de domaines.",
+    "telephone": "04 94 55 74 43",
+    "site_web": "https://www.au-bec-fin.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au+Bec+Fin+Cogolin",
+    "image_url": "/images/marchands/atelier-provencal-au-bec-fin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-jardin-de-la-piboule",
+    "nom": "Le Jardin de la Piboule",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.262863,
+    "lon": 6.565775,
+    "adresse": "148 route du Pont de Vinaigre, 83310 Cogolin",
+    "horaires": "Stand du jardin ouvert de 8h30 à 12h45 : tous les jours en juillet et août, du lundi au samedi de septembre à juin. Distribution de l'AMAP au même point de vente les mardi et vendredi soir de 18h30 à 19h30.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Salades et choux",
+      "Artichauts",
+      "Paniers hebdomadaires de l'AMAP"
+    ],
+    "description": "Maraîchage de fruits et légumes de saison au bord de la Giscle, cultivé sans produits chimiques et travaillé en partie au cheval de trait. La vente se fait au stand du jardin, en bordure de la RD 61 entre le rond-point de Font Mourier et le pont de la Giscle, et sur les marchés de Cogolin, du Plan-de-la-Tour et de Port-Grimaud.",
+    "telephone": "04 94 49 69 71",
+    "site_web": "https://www.lejardindelapiboule.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jardin+de+la+Piboule+Cogolin",
+    "image_url": "/images/marchands/le-jardin-de-la-piboule.jpg",
+    "a_confirmer": true
   }
 ]
