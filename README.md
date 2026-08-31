@@ -14,7 +14,7 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 
 ## Marchands à confirmer
 
-47 fiches sur 78 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+52 fiches sur 83 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -63,8 +63,13 @@ La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de 
 - **La Ferme Rebuffel** (la fiche de l'office de tourisme se contredit : ses horaires structurés annoncent mercredi et samedi de 10h à 13h, son texte libre mercredi 10h-13h puis 17h-19h et samedi 10h-19h — ce sont ces derniers qui figurent ici. La Base Adresse Nationale ne connaît aucun numéro chemin de l'Establerie, les coordonnées sont celles du centre de la voie, et la seule photo publiée par l'office est une vue du village de Callian, pas de la ferme)
 - **Terre et Parfums** (l'enseigne déposée au registre est « Les Jardins Parfumés », alors que l'office de tourisme, l'annuaire de l'Agence Bio et la page Facebook de l'exploitation utilisent tous « Terre et Parfums ». L'office annonce un engagement bio « avec Ecocert depuis 2017 » quand l'Agence Bio enregistre l'exploitation auprès du Bureau Alpes Contrôles : l'engagement est certain, l'organisme certificateur non)
 - **La Ferme de La Barrière** (l'office de tourisme annonce une ouverture « tous les jours » tout en précisant que la commande de viande se fait sur réservation : c'est la seconde mention qui a été retenue. La Base Adresse Nationale ne connaît pas de numéro chemin de la Barrière et le point publié par l'office tombe à 116 m du 565, le numéro le plus proche)
+- **Marché provençal de Flayosc** (la commune annonce le lundi de 7h30 à 13h, l'office de tourisme régional la même matinée mais une fin à 12h30 ; c'est l'horaire de la commune qui figure ici. Le marché se tient « à travers le village » sans que personne ne publie la liste des rues : les coordonnées sont celles de la place de la République, où il commence)
+- **Le Cellier des 3 Collines** (la Base Adresse Nationale ne connaît pas de numéro au rond-point du Michelage ; les coordonnées viennent de la fiche de l'office de tourisme intercommunal, cohérentes avec les 200 mètres annoncés par le Moulin de la Combette entre les deux. Les Pages Jaunes publient un autre numéro de téléphone, 04 94 47 18 45, que ni le site de la cave ni la commune ne reprennent : c'est le 04 94 39 61 09, confirmé par trois sources, qui a été retenu)
+- **Moulin de la Combette** (le moulin ne publie aucun horaire d'ouverture : la fiche le dit plutôt que d'en inventer. Son propre site se présente par ailleurs comme « seul moulin à huile sur la commune », ce qui est douteux — le Moulin du Flayosquet est tout proche —, et cette phrase n'a pas été reprise)
+- **Château de Berne** (l'adresse publiée par le domaine et par la commune est « chemin des Imberts », mais la Base Adresse Nationale place cette voie 2,3 km au nord-ouest du château ; les coordonnées retenues sont celles de la « route de Berne », identiques à celles que l'Agence Bio enregistre pour l'exploitation. Le téléphone est celui de la cave de dégustation, pas de l'hôtel. L'Agence Bio indique un engagement en agriculture biologique en cours, ce que la fiche formule ainsi plutôt que d'écrire « bio »)
+- **AMAP en Dracénie** (l'association ne figure pas au registre des entreprises, comme la plupart des associations : la vérification repose sur son propre site et sur celui de l'Usine de la Redonne, qui annoncent tous deux la distribution du jeudi de 17h30 à 19h, et dont l'agenda est à jour. Aucun numéro de rue n'existe route du Flayosquet à la Base Adresse Nationale : les coordonnées sont celles du centre de la voie. Aucune photo publiable n'existe — les seules images des deux sites font 200 pixels ou montrent des visages identifiables —, l'illustration est donc une photo de cageots de légumes prise à Flayosc et publiée par la commune)
 
-Les 78 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 83 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -197,6 +202,33 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 - **La Ferme des Villards**, **Le Jas de Bel Argent** et un apiculteur professionnel de
   Tourrettes figurent aussi à l'annuaire des producteurs de l'office : non traités faute
   de place, la passe étant limitée à cinq fiches.
+
+### Pistes non publiées à Flayosc
+
+- **Moulin du Flayosquet** (route d'Ampus) : moulin à eau du XIIIe siècle, labellisé
+  agriculture biologique, avec boutique et visites guidées — mais deux problèmes. Le
+  registre des entreprises situe le siège à Flayosc quand l'office de tourisme
+  intercommunal et la Base Adresse Nationale placent le 1227 chemin de Coulombe à
+  **Draguignan** ; et les seuls horaires publiés couvrent le 6 juillet au 30 août 2026,
+  rien n'est dit du reste de l'année. Piste solide, à reprendre avec une source sur la
+  commune réelle et sur les horaires hors saison.
+- **Le Chaudron des Abeilles** (618 chemin du Gineste) : société de production apicole
+  active au registre depuis août 2022, avec miel, confitures, savons, œufs et pain.
+  Aucune source du cercle habituel ne la documente : ni site officiel, ni fiche d'office
+  de tourisme, ni la liste des commerces de la commune — seulement des annuaires de
+  producteurs. Non publiée, faute de source indépendante et de photo.
+- **La Bastide des Terres Blanches** (3186 route de Lorgues) : engagée auprès d'Ecocert
+  pour le raisin de cuve, les amandes et les olives. Attention au piège d'homonymie : les
+  résultats de recherche renvoient massivement au **Domaine des Terres Blanches** des
+  Alpilles, en AOP Les Baux-de-Provence, qui n'a rien à voir. Rien ne documente une vente
+  aux particuliers à Flayosc.
+- **Aux Sources de la Redonne**, **Le Bio Jardin de Flayosc**, **Domaine du Clos d'Aure**,
+  **Domaine Saint Lambert** et **BOB'EEZ** : cinq exploitations engagées en bio au
+  registre de l'Agence Bio, toutes en entreprise individuelle sans nom commercial publié
+  par une source officielle, ou sans aucune information sur une vente directe. Non
+  publiées.
+- **Le Primeur Flayoscais** (33 boulevard Jean Moulin) : primeur de village listé par la
+  commune, mais commerce de détail généraliste et non certifié — hors du champ du site.
 
 ### Pistes non publiées à Lorgues
 

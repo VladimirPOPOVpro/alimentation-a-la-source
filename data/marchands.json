@@ -1915,5 +1915,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+de+La+Barriere+Montauroux",
     "image_url": "/images/marchands/la-ferme-de-la-barriere.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-flayosc",
+    "nom": "Marché provençal de Flayosc",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.533671,
+    "lon": 6.396242,
+    "adresse": "Place de la République et rues du village, 83780 Flayosc",
+    "horaires": "Tous les lundis de 7h30 à 13h, toute l'année, d'après la commune. L'office de tourisme régional annonce la même matinée mais une fin à 12h30.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Fromages",
+      "Charcuteries",
+      "Épices",
+      "Produits du terroir",
+      "Artisanat"
+    ],
+    "description": "Marché du lundi matin qui s'installe place de la République et se prolonge dans les rues du village. La commune y annonce des produits du terroir, légumes, fruits, fromages, épices et charcuteries, aux côtés de stands d'artisanat.",
+    "telephone": "04 94 70 40 03",
+    "site_web": "https://www.flayosc.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Republique+Flayosc",
+    "image_url": "/images/marchands/marche-provencal-flayosc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cellier-des-3-collines",
+    "nom": "Le Cellier des 3 Collines",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.534189,
+    "lon": 6.405361,
+    "adresse": "Rond-point du Michelage, route de Draguignan, 83780 Flayosc",
+    "horaires": "Du lundi au jeudi de 9h à 13h et de 15h à 19h, vendredi et samedi de 9h à 19h, dimanche de 9h à 13h. En juillet et août : du lundi au samedi de 9h à 19h30, dimanche de 9h à 13h et de 15h30 à 19h30.",
+    "produits": [
+      "Vins AOP Côtes de Provence",
+      "Vins IGP du Var",
+      "Huile d'olive de la coopérative oléicole de Flayosc",
+      "Miel de Provence",
+      "Produits régionaux",
+      "Paniers garnis"
+    ],
+    "description": "Cave coopérative née du regroupement des caves de Flayosc et de Draguignan, certifiée Haute Valeur Environnementale. La boutique de Flayosc propose une dégustation gratuite chaque jour et vend, à côté des vins des adhérents, l'huile d'olive de la coopérative oléicole du village et d'autres produits locaux.",
+    "telephone": "04 94 39 61 09",
+    "site_web": "https://www.cellierdes3collines.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cellier+des+3+Collines+Flayosc",
+    "image_url": "/images/marchands/cellier-des-3-collines.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-de-la-combette",
+    "nom": "Moulin de la Combette",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.533334,
+    "lon": 6.401158,
+    "adresse": "8 chemin des Moulins, 83780 Flayosc",
+    "horaires": "Le moulin ne publie pas d'horaires d'ouverture. La trituration et la vente de l'huile nouvelle commencent en décembre ; fin août 2026 le moulin annonce ses cuvées épuisées et renvoie vers le Cellier des 3 Collines, au même tarif. Appeler avant de se déplacer.",
+    "produits": [
+      "Huile d'olive vierge extra",
+      "Huile d'olive fruité vert",
+      "Huile d'olive goût à l'ancienne",
+      "Trituration des olives des adhérents"
+    ],
+    "description": "Coopérative oléicole installée à la sortie du village depuis 1792, animée par une équipe de bénévoles et à but non lucratif. Les olives triturées proviennent exclusivement des 380 adhérents de Flayosc et des villages voisins, le cayet roux étant la variété dominante.",
+    "telephone": "04 94 84 63 69",
+    "site_web": "https://www.lemoulindelacombette.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+de+la+Combette+Flayosc",
+    "image_url": "/images/marchands/moulin-de-la-combette.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-de-berne",
+    "nom": "Château de Berne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.516268,
+    "lon": 6.365821,
+    "adresse": "Chemin des Imberts, 83780 Flayosc",
+    "horaires": "Cave de dégustation ouverte tous les jours de 10h à 18h.",
+    "produits": [
+      "Vins AOP Côtes de Provence",
+      "Huile d'olive du domaine",
+      "Miel",
+      "Confitures",
+      "Épicerie fine régionale"
+    ],
+    "description": "Domaine viticole de 500 hectares au sud-ouest de Flayosc, engagé en agriculture biologique d'après le registre de l'Agence Bio. La cave de dégustation vend les cuvées du domaine au comptoir et propose aussi l'huile d'olive, le miel et les confitures produits sur place.",
+    "telephone": "04 94 60 43 53",
+    "site_web": "https://www.chateauberne.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+de+Berne+Flayosc",
+    "image_url": "/images/marchands/chateau-de-berne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-en-dracenie",
+    "nom": "AMAP en Dracénie",
+    "categorie": "amap",
+    "piliers": [
+      "social",
+      "economie",
+      "alimentation"
+    ],
+    "lat": 43.538199,
+    "lon": 6.402225,
+    "adresse": "Usine de la Redonne, route du Flayosquet, 83780 Flayosc",
+    "horaires": "Distribution tous les jeudis de 17h30 à 19h, à l'Usine de la Redonne.",
+    "produits": [
+      "Légumes (deux gammes de paniers)",
+      "Œufs",
+      "Fromages",
+      "Pain",
+      "Bœuf, veau et agneau",
+      "Vin",
+      "Plantes aromatiques",
+      "Miel"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne qui distribue chaque jeudi soir, à l'Usine de la Redonne, les paniers d'une dizaine de producteurs de la Dracénie. L'adhésion se fait par contrat saisonnier avec chaque producteur ; le tableau des distributions est publié sur le site de l'association.",
+    "site_web": "https://www.amapd.org",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Usine+de+la+Redonne+Flayosc",
+    "image_url": "/images/marchands/amap-en-dracenie.jpg",
+    "a_confirmer": true
   }
 ]
