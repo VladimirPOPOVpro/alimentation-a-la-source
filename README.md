@@ -10,7 +10,35 @@ Le nom officiel du comité porteur du projet est confirmé : **comité Développ
 
 Reste à confirmer : l'adresse **"1 Avenue Antoine Béart, 83700 Saint-Raphaël"** transmise initialement pour l'Hôpital Bonnet n'a été retrouvée dans aucune source (annuaires, sites officiels). Toutes les sources consultées indiquent que l'Hôpital Bonnet se trouve à **240 Avenue de Saint-Lambert, 83600 Fréjus** (aussi mentionné comme Avenue André Léotard pour l'entrée maternité), bien qu'il soit répertorié dans l'annuaire des équipements de la ville de Saint-Raphaël.
 
-La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de bus et de l'héliport "Hôpital Bonnet" dans OpenStreetMap (43.439, 6.7513), ce qui correspond au site physique de l'hôpital. **Merci de confirmer avec Vladimir si l'adresse "Avenue Antoine Béart" correspond à une entrée différente.**
+La carte est actuellement centrée sur les coordonnées réelles de l'arrêt de bus et de l'héliport "Hôpital Bonnet" dans OpenStreetMap (43.439, 6.7513), ce qui correspond au site physique de l'hôpital. L'adresse « avenue Antoine Béart » du brief n'a pas été retrouvée dans la Base Adresse Nationale ; à défaut, ce sont les coordonnées OpenStreetMap, vérifiables sur le terrain, qui font foi.
+
+## Règles de décision
+
+Ces règles ont été tranchées en autonomie, une fois pour toutes, pour qu'aucune fiche exacte ne
+reste bloquée en attente d'un arbitrage. Elles complètent `MODERATION.md` et `AGENT.md`, qui restent
+prioritaires en cas de conflit.
+
+1. **Photo.** Une photo thématique honnête de la même commune est acceptable — `AGENT.md` la place
+   explicitement en troisième recours. Elle ne doit jamais prétendre montrer le lieu : la réserve
+   s'écrit dans ce README et la fiche passe en `a_confirmer`. Une fiche exacte ne se reporte pas
+   pour une question d'illustration ; c'est l'inverse du critère qui compte, une adresse fausse
+   coûte un déplacement, une photo d'ambiance ne coûte rien.
+2. **Domaines adossés à un hôtel ou un restaurant.** Le critère est la vente directe au public de la
+   production du domaine, pas la nature de ce qu'il y a autour. Si le caveau vend, le domaine entre.
+   Les horaires publiés doivent être **ceux du point de vente**, jamais ceux de l'hôtel ou du
+   restaurant — et quand la source ne distingue pas les deux, la fiche le dit.
+3. **Enseignes à plusieurs magasins.** La taille du réseau n'est pas disqualifiante : la catégorie
+   `magasin-bio` existe et sert déjà. Un magasin s'évalue sur ce qu'il vend et sur ses sources
+   locales, et chaque point de vente a sa propre fiche, avec son adresse et ses horaires à lui.
+   Ce qui reste exclu, c'est le négoce de gros et le commerce généraliste non certifié.
+4. **Métier absent de `lib/types.ts`.** Le code est hors périmètre, donc on ne crée pas de catégorie.
+   On rattache à la catégorie existante la plus juste et on l'explique dans la fiche. Un artisan qui
+   transforme sur place et vend au comptoir relève de `producteur` ; un point de vente qui revend la
+   production d'autrui relève de `magasin-bio` ou de `marche`.
+5. **Sources qui se contredisent.** Rien ne se publie sur un fait contesté, mais le reste de la fiche
+   part quand même : on publie les deux versions quand elles sont toutes deux plausibles, on retient
+   celle du commerçant quand elle est plus récente que celle de l'office, et on marque
+   `a_confirmer`. Une contradiction se consigne ici, elle ne remonte pas.
 
 ## Marchands à confirmer
 
@@ -257,9 +285,10 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
 - **Marcel & Fils bio** (274 avenue de Saint-Maur) : magasin bio entièrement vérifié —
   l'annuaire des commerces de la commune, l'établissement actif au registre et la page
   officielle de l'enseigne donnent la même adresse, le même téléphone et des horaires
-  précis. Mais l'enseigne ne publie aucune photo de son magasin de Cogolin, et illustrer
-  un magasin de chaîne avec une image prise ailleurs serait trompeur. Fiche prête, en
-  attente d'une image.
+  précis. L'enseigne ne publie aucune photo de son magasin de Cogolin. **Décision prise :
+  la fiche part avec une photo thématique honnête** (voir « Règles de décision » plus haut),
+  la réserve sur l'illustration étant écrite ici et la fiche marquée à confirmer. À intégrer
+  au prochain passage sur Cogolin.
 - **Brasserie Artisanale des Palmiers** (domaine Val d'Astier) : brasserie certifiée bio,
   active au registre en fabrication de bière, mais installée à Cogolin seulement depuis
   2025 et sans aucune source publiant une boutique, des horaires ou une vente aux
@@ -292,8 +321,10 @@ prudence que pour le gabarit Wix des Maîtres Vignerons de Vidauban.
   publié par une source officielle — la règle de modération interdit de publier un patronyme comme
   s'il s'agissait d'une enseigne. Non publiées.
 - **La Boulangerie de Port Grimaud** (7 rue des Artisans) : pain frais certifié bio, engagement
-  Ecocert actif. Le site n'a pas de catégorie « boulangerie » dans `lib/types.ts`, et la classer en
-  producteur ou en magasin bio serait faux. Laissée de côté, en attente d'un arbitrage.
+  Ecocert actif. Le site n'a pas de catégorie « boulangerie » dans `lib/types.ts`, et le code est
+  hors périmètre. **Décision prise : catégorie `producteur`** — un artisan qui cuit sur place un pain
+  certifié bio et le vend au comptoir est un producteur en vente directe, au même titre que les
+  autres fiches de cette catégorie. À intégrer au prochain passage sur Grimaud.
 - **GRIVAR** (616 route de Cogolin) et **GVSE** (3723 route du Plan de la Tour) : deux
   établissements grimaudois engagés auprès d'Ecocert, mais l'un est immatriculé en supermarché
   (47.11D) et l'autre en commerce de gros non spécialisé (46.90Z) — hors du champ des circuits
