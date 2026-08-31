@@ -55,10 +55,18 @@ prioritaires en cas de conflit.
    maison des vins d'appellation — relève de `producteur`, comme le **Cellier des 3 Collines** déjà
    publié. La bascule vers `marche` ou `magasin-bio` ne vaut que pour un revendeur extérieur aux
    producteurs dont il écoule la production.
+9. **Marché communal dont personne ne publie les horaires.** Un marché hebdomadaire dont le jour et
+   le lieu sont confirmés par deux sources officielles — la commune et l'office de tourisme — se
+   publie, même si aucune des deux ne donne d'heure de début ni de fin : la demi-journée et la place
+   suffisent à faire le déplacement, et un marché absent de la carte coûte plus qu'un marché sans
+   horaire précis. Ce qui n'est pas publié ne s'invente pas pour autant : le champ `horaires` dit la
+   demi-journée, écrit noir sur blanc qu'aucune heure n'est publiée, attribue à sa source toute heure
+   reprise d'un annuaire tiers, et la fiche passe en `a_confirmer`. Un marché ne s'écarte que si
+   aucune source ne le rattache à l'alimentaire.
 
 ## Marchands à confirmer
 
-94 fiches sur 128 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+99 fiches sur 133 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -154,8 +162,13 @@ prioritaires en cas de conflit.
 - **Spiruluc** (le siège social déclaré, « 2080 route de Toulon », n'est pas le lieu de vente : le producteur écrit lui-même que la ferme et le retrait sont chemin des Coudounelles, à 400 m de là, et c'est cette adresse qui figure ici. Aucune heure d'ouverture n'est publiée, seulement « toute l'année » côté office de tourisme et un retrait sur place proposé par la boutique en ligne. La seule photo du site montrant la ferme entière porte un visage identifiable : l'illustration retenue est celle de l'extrusion de la spiruline fraîche sur les claies de séchage)
 - **Les Vignerons du Luc** (la cave ne publie sur son site ni adresse, ni téléphone, ni horaires — seulement un formulaire. Tout vient de la fiche de l'office de tourisme, qui se contente de « ouvert tous les jours, sauf dimanche après-midi ». Au registre, la société est immatriculée sous « Coopé Vinicole du Luc » ; « Les Vignerons du Luc » est l'enseigne de la cave et le nom de son site)
 - **Château Demonpère** (les surfaces divergent d'une source à l'autre : 300 hectares chez l'office de tourisme intercommunal, 144 hectares dont 32 de vignes côté comité régional du tourisme, 52 hectares de vignes et 17 d'oliviers sur le site du domaine. La fiche ne retient que ce que le domaine écrit lui-même et ne donne aucun total. Le point publié est celui du marqueur que le domaine place sur sa propre page de contact ; la fiche de l'office tombe 280 m plus au sud-ouest et le registre 900 m au nord)
+- **Terres Ailées de Gonfaron** (la cave est immatriculée sous deux sociétés distinctes à la même adresse, « Les Vignerons de Gonfaron », qui tient la boutique, et « Les Maîtres Vignerons de Gonfaron », qui vinifie et porte l'engagement bio auprès de Qualisud : les deux ne font qu'une fiche, au titre de la règle 7, sous le nom commercial publié depuis 2021. Les horaires retenus sont ceux du site de la cave, plus précis que le « ouvert tous les jours, fermé le dimanche après-midi » de l'office de tourisme. La boutique de Pignans, dans une autre commune, fera sa propre fiche. Le bio ne concerne qu'une trentaine d'hectares sur les 600 vinifiés : la fiche parle d'une gamme bio, jamais d'une cave bio)
+- **Château Gasqui** (ni le domaine ni l'office de tourisme ne publient d'heure d'ouverture, seulement des jours : la fiche s'arrête là. Le téléphone diverge — l'office donne un portable, le domaine un fixe sur sa page de contact ; c'est le numéro du domaine qui figure ici. Le point publié est celui que la Base Adresse Nationale rend pour le 61 chemin Saint-Michel, adresse que le domaine et le registre de l'Agence Bio donnent tous deux ; le registre des entreprises place ses deux sociétés 700 m et 2 km plus au sud, sur l'axe « route de Flassans ». Le domaine revendique la biodynamie sans se dire certifié : la fiche parle d'un engagement bio chez Ecocert, daté de 2009 au registre de l'Agence Bio)
+- **Mélisse Escargots Délice** (l'office de tourisme Cœur du Var est la seule source : il donne l'adresse, le téléphone et « toute l'année », sans jour ni heure. Au registre, il s'agit d'une entreprise individuelle sous patronyme ; « Mélisse Escargots Délice » est l'enseigne déclarée et le nom publié par l'office. L'exploitation ne figure pas au registre de l'Agence Bio : le pilier « environnement » n'a pas été coché)
+- **Marché de Gonfaron** (première fiche publiée au titre de la règle 9. La commune et l'office de tourisme confirment tous deux le mercredi matin sur la place, mais aucun des deux ne publie d'horaire ni la liste des exposants ; les heures de 8h à 12h30 et les catégories de produits viennent d'annuaires de marchés, attribués comme tels dans la fiche. Un de ces annuaires annonce même un marché le jeudi, ce que la commune contredit. La photo est celle que la mairie publie sur sa page « Marché de Gonfaron », prise en juin 2020)
+- **Le Rucher de la Fauville** (trois orthographes du nom : l'office de tourisme titre sa fiche « La Fauville », le registre des entreprises déclare l'enseigne « Les Ruchers de la Fauville » au pluriel, et les étiquettes du producteur portent « Le Rucher de la Fauville » au singulier — c'est cette dernière, la sienne, qui a été retenue. La vente à la propriété est sur rendez-vous uniquement ; les trois points de vente cités sont ceux que publie l'office. Les miels de maquis et le pollen viennent de la photo d'étiquettes de l'office, les autres parfums de son texte)
 
-Les 128 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 133 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -533,7 +546,9 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 
 - **Marché du Luc** : l'office de tourisme Cœur du Var confirme un marché le vendredi matin, « au centre
   ville », mais ne publie ni heure de début ni de fin, et le site de la commune n'a pas de page
-  « marchés ». À reprendre dès qu'une source donnera les horaires.
+  « marchés ». **Débloqué par la règle 9**, écrite lors du passage sur Gonfaron : la fiche est
+  à monter au prochain passage sur la commune, avec le vendredi matin pour seul horaire et la
+  mention explicite qu'aucune heure n'est publiée.
 - **Château La Mascaronne** (RN7) : domaine engagé chez Ecocert, actif au registre, ouvert du lundi au
   vendredi toute l'année d'après l'office de tourisme. Non instruit cette passe, qui en comptait déjà
   cinq — à reprendre au prochain passage sur la commune.
@@ -544,6 +559,28 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
   racheté et sert de vitrine à un site de jeux d'argent qui cite le moulin dans son texte pour se
   donner l'air légitime. Le site de la coopérative est `moulin-du-grimaudet.com`. Deuxième piège de
   ce type après celui de la Poissonnerie Santa Lucia : chaque domaine s'ouvre avant d'être inscrit.
+
+### Pistes non publiées à Gonfaron
+
+- **Brasserie de l'Âne Volant** (route de Repenti) et **Moonshiners Kraft Brewery** (139 avenue
+  Gabriel Péri) : deux micro-brasseries actives au registre, listées par l'office de tourisme avec
+  téléphone et jours d'ouverture. Aucune des deux, ni sur son site ni sur sa fiche d'office, n'écrit
+  qu'elle vend sur place — la fiche de l'Âne Volant ne porte même pas la mention « vente à la
+  propriété » que l'office affiche pour les domaines voisins. Non publiées tant qu'une source
+  n'établit pas la vente au comptoir ; c'est la seule chose qui manque, tout le reste est vérifié.
+- **Les Santolines** (1200 chemin Henri Julien, ZI des Sigues) : fabricant de produits provençaux
+  dérivés du vin — tapenades, moutardes, terrines, gamme bio engagée chez Ecocert depuis 2025 —
+  actif au registre, mais sous un code de commerce de gros. Son site renvoie à sa boutique en ligne
+  et à ses « partenaires », ne publie ni horaires ni magasin d'usine, et sa page contact est en
+  erreur 404. Le négoce de gros est exclu par la règle 3 : non publiée.
+- **Château de Beaumel** (1400 chemin de Beaumet), **Château de l'Esparron**, **Château Réal d'Or**
+  (route des Mayons) et **Domaine de la Garnaude** (D233) : quatre domaines actifs au registre et
+  listés par l'office de tourisme, dont trois engagés en bio chez Ecocert. Non instruits cette
+  passe, qui en comptait déjà cinq, et écartés pour ne pas faire de Gonfaron une commune de vignobles
+  seulement. À reprendre au prochain passage.
+- **Boulangerie de l'Hermitage** (route de Repenti) : enregistrée à l'Agence Bio depuis 1996 pour le
+  pain frais, mais sous un code de commerce de gros de boulangerie, et aucune source ne documente
+  une vente au public sur ce site. Non publiée.
 
 ### Pistes non publiées à Lorgues
 

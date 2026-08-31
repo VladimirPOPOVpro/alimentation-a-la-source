@@ -3236,5 +3236,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Demonpere+Le+Luc",
     "image_url": "/images/marchands/chateau-demonpere.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "terres-ailees-de-gonfaron",
+    "nom": "Terres Ailées de Gonfaron",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.318011,
+    "lon": 6.282831,
+    "adresse": "25 route de Pignans, 83590 Gonfaron",
+    "horaires": "Boutique de Gonfaron : du lundi au samedi de 9h à 12h30 et de 14h30 à 19h, dimanche et jours fériés de 9h à 12h30. Visite de la cave uniquement sur rendez-vous.",
+    "produits": [
+      "Côtes de Provence rosés",
+      "Côtes de Provence rouges",
+      "Côtes de Provence blancs",
+      "Gamme Côtes de Provence bio",
+      "IGP Vins de Pays des Maures",
+      "Effervescents blancs et rosés",
+      "Miels et crème de marrons du Rucher de la Fauville",
+      "Coffrets et paniers garnis"
+    ],
+    "description": "Cave coopérative fondée en 1921, rebaptisée Terres Ailées après son centenaire et réunie en 2023 avec celle de Pignans ; elle vinifie aujourd'hui 600 hectares de vignes répartis sur quatre terroirs. Environ 80 % du vignoble est certifié Haute Valeur Environnementale et une trentaine d'hectares sont certifiés bio, ce qui alimente une gamme Côtes de Provence bio vendue au caveau, à côté des miels d'un apiculteur du village.",
+    "telephone": "04 94 59 63 72",
+    "site_web": "https://terresaileesdegonfaron.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Terres+Ailees+de+Gonfaron+Gonfaron",
+    "image_url": "/images/marchands/terres-ailees-de-gonfaron.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-gasqui",
+    "nom": "Château Gasqui",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.342962,
+    "lon": 6.270542,
+    "adresse": "61 chemin Saint-Michel, route de Flassans, 83590 Gonfaron",
+    "horaires": "Ouvert du lundi au vendredi, le samedi sur rendez-vous, fermé les jours fériés, d'après l'office de tourisme Cœur du Var ; ni l'office ni le domaine ne publient d'heure d'ouverture. Visite de la cave et des vignes et dégustation commentée sur réservation.",
+    "produits": [
+      "Côtes de Provence rosés",
+      "Côtes de Provence rouges",
+      "Côtes de Provence blancs",
+      "Gammes Citius, Altius et Tardius",
+      "Huile d'olive frantoio et picholine",
+      "Coffrets de dégustation"
+    ],
+    "description": "Domaine conduit en biodynamie depuis une quinzaine d'années et engagé en agriculture biologique auprès d'Ecocert depuis 2009 d'après le registre de l'Agence Bio : vendanges manuelles, fermentations en levures indigènes, doses de soufre réduites. À côté de ses trois gammes de Côtes de Provence, il presse l'huile de son oliveraie plantée de frantoio et de picholine.",
+    "telephone": "04 94 69 01 78",
+    "site_web": "https://www.chateau-gasqui.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Gasqui+Gonfaron",
+    "image_url": "/images/marchands/chateau-gasqui.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "melisse-escargots-delice",
+    "nom": "Mélisse Escargots Délice",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.338221,
+    "lon": 6.301983,
+    "adresse": "500 chemin de l'Esparon, 83590 Gonfaron",
+    "horaires": "Vente à la ferme toute l'année d'après l'office de tourisme Cœur du Var, qui ne publie ni jour ni heure : appeler avant de se déplacer. L'élevage vend également sur les marchés et les foires.",
+    "produits": [
+      "Escargots gros-gris",
+      "Escargots préparés et cuisinés",
+      "Conserves d'escargots"
+    ],
+    "description": "Élevage d'escargots gros-gris installé le long du chemin de l'Esparon, dans des parcs de plein air abrités sous des planches. La transformation et la préparation cuisinée se font sur l'exploitation, et la vente se fait à la ferme comme sur les marchés et foires de la région.",
+    "telephone": "06 50 34 02 68",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Melisse+Escargots+Delice+Gonfaron",
+    "image_url": "/images/marchands/melisse-escargots-delice.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-gonfaron",
+    "nom": "Marché de Gonfaron",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.319682,
+    "lon": 6.28808,
+    "adresse": "Place de la Victoire, 83590 Gonfaron",
+    "horaires": "Tous les mercredis matin, place de la Victoire. Ni la commune ni l'office de tourisme Cœur du Var ne publient d'heure de début ou de fin ; les annuaires de marchés annoncent une matinée de 8h à 12h30, sans que la mairie le confirme.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Fleurs et plants",
+      "Étals non alimentaires (vêtements, ustensiles)"
+    ],
+    "description": "Marché hebdomadaire de la commune, installé le mercredi matin sur la place de la Victoire, au centre du village ; l'office de tourisme Cœur du Var le range parmi ses pages terroir et gastronomie. Ni la mairie ni l'office ne publient la liste des exposants, dont le nombre varie avec la saison et la météo.",
+    "telephone": "04 94 78 30 05",
+    "site_web": "https://www.mairie-gonfaron.fr/mes-services/ciommerce-economie/marche-de-gonfaron",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Victoire+Gonfaron",
+    "image_url": "/images/marchands/marche-de-gonfaron.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-rucher-de-la-fauville",
+    "nom": "Le Rucher de la Fauville",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.297802,
+    "lon": 6.288019,
+    "adresse": "Quartier Fauville, 83590 Gonfaron",
+    "horaires": "Ouvert sur rendez-vous uniquement, d'après l'office de tourisme Cœur du Var. Les bocaux se trouvent aussi sans rendez-vous au caveau de la coopérative de Gonfaron, à l'Intermarché de Gonfaron et chez Vert et Bio à Pignans.",
+    "produits": [
+      "Miel de lavande",
+      "Miel de châtaignier",
+      "Miel de maquis",
+      "Miel d'acacia",
+      "Miel de garrigue",
+      "Pollen de fleurs",
+      "Crème de marrons"
+    ],
+    "description": "Apiculteur et producteur de châtaignes installé au quartier Fauville, au sud du village, qui récolte des miels de plusieurs origines florales et transforme sa châtaigne en crème de marrons. La vente à la propriété se fait uniquement sur rendez-vous ; trois points de vente du Cœur du Var écoulent aussi ses bocaux.",
+    "telephone": "06 06 75 36 02",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Rucher+de+la+Fauville+Gonfaron",
+    "image_url": "/images/marchands/le-rucher-de-la-fauville.jpg",
+    "a_confirmer": true
   }
 ]
