@@ -4429,5 +4429,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+du+Bessillon+Cotignac",
     "image_url": "/images/marchands/biocoop-du-bessillon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "les-vignerons-de-correns",
+    "nom": "Les Vignerons de Correns",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.487762,
+    "lon": 6.077131,
+    "adresse": "35 chemin de l'Église, 83570 Correns",
+    "horaires": "Du 2 mai au 30 septembre, du lundi au samedi de 9h30 à 12h30 et de 14h30 à 19h, fermé le dimanche ; les jours fériés de 9h30 à 12h30. La coopérative ne publie pas ses heures d'hiver ; l'office de tourisme annonce, du 1er octobre au 30 avril, le lundi au mercredi de 14h30 à 18h et du jeudi au samedi de 9h30 à 12h30 et de 14h30 à 18h. Caveau fermé les 25 décembre, 1er janvier et 1er mai.",
+    "produits": [
+      "Vins AOP Côtes de Provence en trois couleurs",
+      "Vins IGP Argens et IGP Var",
+      "Fines bulles Bulles d'Argens",
+      "Bag-in-box de 3 et 5 litres",
+      "Jus de raisin biologique de Correns",
+      "Huile d'olive biologique"
+    ],
+    "description": "Cave coopérative née en 1930 au cœur de Correns, premier village de France passé entièrement en agriculture biologique : trente vignerons y cultivent 180 hectares de vignes en bio, en AOP Côtes de Provence et en IGP Argens. Le caveau vend les cuvées de la cave — Croix de Basson, Vallon Sourn, Pesque Lune, L'Or et L'Âme des Fées — mais aussi son jus de raisin et son huile d'olive. Le registre de l'Agence Bio inscrit la coopérative auprès d'Ecocert depuis octobre 1999.",
+    "telephone": "04 94 59 59 46",
+    "site_web": "https://www.vigneronsdecorrens.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vignerons+de+Correns+Correns",
+    "image_url": "/images/marchands/les-vignerons-de-correns.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "distillerie-sentema",
+    "nom": "Distillerie Sentema",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.486551,
+    "lon": 6.078239,
+    "adresse": "35 rue du Cros, 83570 Correns",
+    "horaires": "Toute l'année sur rendez-vous. Visite et dégustation de la distillerie chaque mercredi de juin à septembre, 6 € par personne déduits dès le premier achat. Ateliers de création de gin sur demande.",
+    "produits": [
+      "Maginstère, spiritueux aux baies de genévrier sauvages",
+      "Zest d'amour, triple sec aux bigarades",
+      "Nos pas se tissent, pastis sans sucre à l'anis vert et à la réglisse",
+      "Vertige, élixir de plantes macérées et distillées",
+      "L'Amoroso, vermouth blanc à base de rolle",
+      "Eaux-de-vie de vins biologiques de Provence"
+    ],
+    "description": "Distillerie artisanale installée dans le village depuis 2022, qui travaille à la main sur des alambics en cuivre. Les spiritueux naissent d'une eau-de-vie de vins biologiques de Provence associée à des plantes et des fruits français, de culture locale ou de cueillette sauvage, sans jamais recourir à l'alcool neutre à 96°. Le registre de l'Agence Bio inscrit la distillerie auprès d'Ecocert depuis juin 2022.",
+    "telephone": "07 52 84 08 90",
+    "site_web": "https://distillerie-sentema.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Distillerie+Sentema+Correns",
+    "image_url": "/images/marchands/distillerie-sentema.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-jardins-des-semences",
+    "nom": "Les Jardins des Semences",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.488188,
+    "lon": 6.081848,
+    "adresse": "6 chemin de Saint-Jean, 83570 Correns",
+    "horaires": "Point de vente ouvert toute l'année, uniquement sur rendez-vous.",
+    "produits": [
+      "Semences potagères locales, reproductibles et libres de droits",
+      "Plants potagers",
+      "Plantes aromatiques",
+      "Plantes médicinales",
+      "Légumes de saison",
+      "Produits transformés et gemmothérapie"
+    ],
+    "description": "Petite entreprise semencière née en octobre 2019 de la collaboration avec plusieurs maraîchers varois, qui produit des semences potagères locales, biologiques, reproductibles et libres de droits. Les jardins de reproduction se trouvent à Barjols ; le point de vente, lui, est à Correns et ne reçoit que sur rendez-vous. Le registre de l'Agence Bio inscrit l'exploitation auprès de Bureau Alpes Contrôles depuis janvier 2020.",
+    "telephone": "06 82 65 95 69",
+    "site_web": "https://www.lesjardinsdessemences.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Jardins+des+Semences+Correns",
+    "image_url": "/images/marchands/les-jardins-des-semences.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "jardin-l-oree-d-argens",
+    "nom": "Jardin L'Orée d'Argens",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.476363,
+    "lon": 6.094939,
+    "adresse": "2136 quartier la Parémiane, 83570 Correns",
+    "horaires": "Du 5 janvier au 15 décembre : le mercredi de 9h à 12h30 et de 16h à 19h, le jeudi de 16h à 19h30, le samedi de 9h à 12h30. En hiver : le mercredi de 9h à 12h30 et de 15h à 19h, le samedi de 9h à 12h30.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Paniers de légumes"
+    ],
+    "description": "Petite exploitation familiale de fruits et légumes de saison, en bord d'Argens au sud de Correns, qui vend à la propriété au panier ou au détail. C'est l'un des rares producteurs de la commune à tenir des heures d'ouverture fixes plutôt qu'un accueil sur rendez-vous. Paiement en espèces ou par chèque uniquement.",
+    "telephone": "04 94 86 12 68",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Jardin+Oree+d+Argens+Correns",
+    "image_url": "/images/marchands/jardin-l-oree-d-argens.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "permavar",
+    "nom": "Permavar",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.480426,
+    "lon": 6.082455,
+    "adresse": "927 route départementale 45, lieu-dit du Basson, 83570 Correns",
+    "horaires": "Toute l'année, tous les jours sur rendez-vous, les fruits et légumes étant à commander à l'avance.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Plantes aromatiques",
+      "Fleurs comestibles",
+      "Œufs",
+      "Confitures, tartinades et sirops"
+    ],
+    "description": "Exploitation en permaculture et en agroforesterie installée sous la croix de Basson, entourée de cinquante hectares de forêt : ni engrais, ni pesticides, ni travail du sol, et un maraîchage conduit sur sol vivant. Fruits, légumes, plantes aromatiques et fleurs comestibles se commandent à l'avance et se retirent sur place. Le registre de l'Agence Bio inscrit l'exploitation auprès d'Ecocert depuis septembre 2021.",
+    "telephone": "06 41 83 50 25",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Permavar+Correns",
+    "image_url": "/images/marchands/permavar.jpg",
+    "a_confirmer": true
   }
 ]

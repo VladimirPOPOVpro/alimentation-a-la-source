@@ -159,10 +159,17 @@ prioritaires en cas de conflit.
    l'ouverture qui est lue au registre des entreprises, rien d'autre. Aucune donnée masquée n'est
    republiée, et le nom affiché reste celui que le producteur et l'office de tourisme donnent
    eux-mêmes.
+20. **Le lieu de production et le point de vente ne sont pas dans la même commune.** La règle 17
+   tranche à quelle commune rattacher un même lieu revendiqué par deux. Le cas des Jardins des
+   Semences est différent : l'entreprise a son siège et ses jardins de reproduction à Barjols, et
+   écrit noir sur blanc que « le point de vente se situe à Correns ». Tranché ainsi : **la fiche va
+   au point de vente**, parce que cette carte répond à la question « où puis-je acheter ? » et non
+   « où est-ce cultivé ? ». Le lieu de production est nommé dans la description, pour que personne
+   ne croie que tout se fait sur place, et l'adresse publiée reste celle où l'on est reçu.
 
 ## Marchands à confirmer
 
-139 fiches sur 173 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+144 fiches sur 178 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -303,8 +310,13 @@ prioritaires en cas de conflit.
 - **So'Boutargue** (le nom publié est l'enseigne déclarée au registre, la société portant un autre nom. Le point est celui de l'établissement actif au registre, au lot 13 du pôle d'activité, à 250 m du marqueur de l'office de tourisme, règle 10 ; le contrôle inverse de la Base Adresse Nationale le rattache au chemin de la Colle, voie mitoyenne de la zone. Les horaires sont ceux de l'office, qui les dit lui-même variables selon les saisons, et la fiche le répète. La gamme vient de la boutique en ligne du producteur)
 - **Les Papillons Verts** (l'entreprise est **non diffusible** au registre des entreprises : nom, adresse et enseignes masqués, seul le nombre d'établissements ouverts est lisible. Première fiche publiée au titre de la règle 19, le lien étant fait par le SIRET que publie le registre de l'Agence Bio, à la même adresse et sous la même enseigne, avec un engagement chez Bureau Alpes Contrôles daté d'avril 2023 et le label Demeter que confirme l'office de tourisme. Les horaires divergent d'une heure entre la ferme, qui écrit « de 9h à 12h », et l'office, qui écrit « de 9h à 11h » : les deux versions figurent dans la fiche, règle 5. La Base Adresse Nationale ne rend rien pour le chemin des Adrets ; le point est celui que la ferme publie elle-même en degrés sexagésimaux, à 48 m du marqueur de l'office. L'incendie de juillet 2026, documenté par les photographies datées du site de la ferme, a brûlé la plupart des oliviers et des fruitiers : la description le dit et l'huile d'olive ne figure pas dans les produits)
 - **Biocoop du Bessillon** (le magasin est immatriculé sous un nom qui n'est pas son enseigne ; c'est l'enseigne du réseau coopératif, celle de la façade et de la fiche officielle Biocoop, qui est publiée, règle 3. Horaires, téléphone et services — boulangerie, fromagerie à la coupe, collecte de contenants réemployables — viennent de cette fiche officielle ; l'adresse s'y arrête à la zone d'activités, sans numéro, et le point est celui de l'établissement au registre, que le contrôle inverse rattache au chemin du Loup à Loup à 18 m. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert de mai 2022)
+- **Les Vignerons de Correns** (le lien « accéder au plan » que la coopérative publie elle-même sur sa page « caveaux de vente » pointe une carte centrée sur 43.6157 / 6.2189, à dix-huit kilomètres du village : le marqueur du commerçant est écarté, exactement comme celui du Château Font du Broc, et le point publié est celui de l'établissement au registre, à 70 m du marqueur de l'office de tourisme et à 110 m du centre de la voie que rend la Base Adresse Nationale, règle 10. Trois graphies pour une adresse : « 35 chemin de l'église » sur le site de la cave et au registre de l'Agence Bio, « 37 rue de l'Église » au registre des entreprises ; c'est celle que le producteur imprime lui-même qui est publiée. Les horaires d'été sont ceux de la cave, qui ne publie rien pour l'hiver : ceux du 1er octobre au 30 avril sont attribués à l'office, règle 5. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert d'octobre 1999)
+- **Distillerie Sentema** (tout concorde à quelques mètres près — numéro de voirie de la Base Adresse Nationale, point du registre à 13 m, marqueur de l'office à 7 m. Fiche publiée au titre de la règle 14 : la gamme est uniquement spiritueuse, donc `alimentation` n'est pas coché, et `environnement` l'est parce que le registre de l'Agence Bio date l'engagement Ecocert de juin 2022. Les six produits nommés sont ceux que la distillerie décrit une à une sur sa fiche d'office de tourisme, avec leur degré et leur composition)
+- **Les Jardins des Semences** (première fiche publiée au titre de la règle 20 : le siège au registre des entreprises et les jardins de reproduction sont à Barjols, mais l'entreprise écrit sur sa page de contact que « le point de vente se situe à Correns », au 6 chemin de Saint-Jean, et c'est là que la fiche est posée, sur le numéro de voirie que rend la Base Adresse Nationale, à 0 m du marqueur de l'office. Le site publie le nom de la semencière à côté de cette adresse ; seule l'enseigne est reprise. Le bio est vérifié au registre de l'Agence Bio, engagement Bureau Alpes Contrôles de janvier 2020, aux deux adresses)
+- **Jardin L'Orée d'Argens** (le registre n'y déclare aucune enseigne et l'exploitante est immatriculée sous son patronyme : le nom publié est celui que donne l'office de tourisme, seul à décrire ce jardin. La Base Adresse Nationale ne connaît pas le quartier la Parémiane ; le point est celui de l'établissement au registre, à 31 m du marqueur de l'office. Trois produits seulement, parce que l'office ne dit rien de plus que « légumes et fruits de saison » et que la ferme n'a pas de site : mieux vaut trois produits vrais que huit inventés. Pas de pilier `environnement` — le SIRET est bien engagé en bio au registre de l'Agence Bio, mais pour du raisin, pas pour les légumes vendus ici, et l'office n'affiche aucun label AB sur cette fiche)
+- **Permavar** (les deux sources non-BAN se trompent de point, chacune à sa façon : le registre géocode le 927 de la départementale 45 sur le 1856 de la même route, à 830 m, et le marqueur de l'office tombe 1,35 km plus au nord, dans le vallon de Palière. C'est le numéro de voirie rendu par la Base Adresse Nationale qui est publié, premier échelon de la règle 10. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert de septembre 2021, à cette adresse exacte)
 
-Les 173 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 178 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -675,6 +687,52 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées à Correns
+
+Correns se présente comme le premier village de France passé entièrement en agriculture biologique,
+et le registre de l'Agence Bio le confirme sans exagération : **soixante-sept opérateurs bio** y sont
+enregistrés pour environ neuf cents habitants. La commune n'a donc pas manqué de candidats, elle en
+avait trop.
+
+- **Arnaud Rocheux Apiculteur** (1620 chemin du Defends) : miel IGP de Provence, safran et huile
+  d'olive, engagement Ecocert de juillet 2010 au registre de l'Agence Bio. **Non publié** : le nom
+  que l'office de tourisme donne à cette fiche est le patronyme de l'apiculteur, l'entreprise est
+  **non diffusible** au registre des entreprises — nom, adresse et enseignes masqués — et aucune
+  source ne permet donc de vérifier qu'une enseigne existe. La règle 19 sert à constater l'ouverture,
+  pas à contourner l'interdiction de `MODERATION.md` de publier un patronyme comme une enseigne. À
+  reprendre si l'apiculteur publie un nom commercial ou si le registre redevient diffusible. À noter
+  aussi : l'adresse de l'office et celles de l'Agence Bio ne sont pas les mêmes.
+- **Le Poulailler de Léa** (1178 chemin des Couastes Belles) : élevage de volailles en plein air,
+  œufs et poulets bio, engagement Ecocert de 2011, adresse confirmée au mètre près par la Base
+  Adresse Nationale et par les deux registres. Non publié faute de gamme : l'office ne donne que deux
+  mots-clés, « volailles et œufs » et « viande et charcuterie », et l'élevage n'a ni site ni page
+  détaillée. **À reprendre en premier au prochain passage sur Correns**, la fiche ne manque que de
+  trois lignes de produits.
+- **Safran des Pierres Blanches** (857 route du vallon Sourn) : safran et produits dérivés du verger,
+  accueil du mardi au jeudi sur rendez-vous. L'office écrit « en conversion bio » et le registre de
+  l'Agence Bio date l'engagement chez Bureau Alpes Contrôles de janvier 2025 — la conversion est donc
+  réelle et enregistrée. Non instruit cette passe.
+- **Domaine Saint Andrieu**, **Domaine Aspras** et **Domaine de la Grande Pallière** : trois domaines
+  viticoles bio de la commune, tous avec vente au caveau et horaires publiés, les deux premiers
+  produisant aussi de l'huile d'olive. Non publiés seulement parce que la passe comptait déjà ses
+  cinq fiches et que la carte est déjà riche en domaines viticoles. Attention pour Saint Andrieu : la
+  société que le registre rend sous ce nom a son siège au Château Talbot, en Gironde, et n'est pas
+  l'exploitation ; c'est le SIRET du registre de l'Agence Bio qui fait le lien.
+- **Château Miraval** : engagé en bio chez Ecocert depuis 1999 d'après le registre de l'Agence Bio,
+  mais l'office de tourisme ne lui consacre aucune fiche « producteurs du terroir » et rien ne
+  documente une vente directe au public sur place. Non publié en l'état.
+
+### Le marqueur qu'un commerçant publie lui-même peut tomber à dix-huit kilomètres
+
+La page « caveaux de vente » des Vignerons de Correns propose, pour chacun de ses trois caveaux, un
+lien « accéder au plan ici ». Celui du caveau de Correns ouvre une carte centrée sur
+**43.6157 / 6.2189** — non pas le village, mais un point à dix-huit kilomètres au nord-est, du côté
+de Salernes. C'est le deuxième cas après le **Château Font du Broc**, dont les données structurées
+portaient les coordonnées d'un autre domaine à six kilomètres. La règle 10 place le marqueur du
+commerçant juste derrière le numéro de voirie de la BAN, mais **seulement si l'adresse imprimée à
+côté est bien la sienne** : ici l'adresse imprimée est bonne et le lien est faux, ce qui suffit à
+écarter le marqueur. Ouvrir le lien, pas seulement le lire.
 
 ### Pistes non publiées à Cotignac
 
