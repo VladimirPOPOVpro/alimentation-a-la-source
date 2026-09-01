@@ -4697,5 +4697,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Gabriel+Peri+Entrecasteaux",
     "image_url": "/images/marchands/marche-provencal-d-entrecasteaux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "maison-de-pays-les-roseaux",
+    "nom": "Maison de Pays les Roseaux",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.568728,
+    "lon": 6.011704,
+    "adresse": "Route de Tavernes, 83670 Barjols",
+    "horaires": "Du 1er avril au 31 octobre, de 9h30 à 12h30 et de 14h30 à 19h. Du 1er novembre au 31 mars, de 9h à 12h15 et de 14h à 18h. Le magasin s'annonce ouvert du mardi au samedi sur son propre site et du lundi au samedi à l'office de tourisme ; fermé le dimanche dans les deux cas.",
+    "produits": [
+      "Vins bio du Domaine des Roseaux, rouges, rosés et blancs",
+      "Huile d'olive du domaine",
+      "Fruits et légumes bio et label rouge",
+      "Viandes et œufs",
+      "Pains de farines bio sur commande",
+      "Herbes aromatiques",
+      "Miel, confitures et nougat",
+      "Épicerie de petits producteurs : produits secs, pâtes, tisanes"
+    ],
+    "description": "Point de vente créé sur la route de Tavernes par le Domaine des Roseaux, domaine viticole et oléicole familial installé depuis 1991 sur douze hectares de vignes conduites en agriculture biologique. Plus de cinquante producteurs et artisans locaux y sont aujourd'hui représentés, à côté des vins bio et de l'huile d'olive du domaine.",
+    "telephone": "04 94 37 74 54",
+    "site_web": "http://domainedesroseaux.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+de+Pays+les+Roseaux+Barjols",
+    "image_url": "/images/marchands/maison-de-pays-les-roseaux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fromagerie-saint-jaume",
+    "nom": "Fromagerie Saint Jaume",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.538885,
+    "lon": 5.984441,
+    "adresse": "Campagne Saint Jaume, 83670 Barjols",
+    "horaires": "Du 1er février au 30 octobre, tous les jours de 9h à 12h et de 15h à 19h.",
+    "produits": [
+      "Fromages de chèvre fermiers frais",
+      "Tradition nature",
+      "Tomme affinée",
+      "Paniers nature, frais et découverte",
+      "Savon au lait de chèvre"
+    ],
+    "description": "Ferme caprine familiale des hauteurs de Barjols, en production depuis 1983, dont les quatre-vingt-dix chèvres alpines chamoisées et saanen pâturent d'avril à novembre et sont nourries l'hiver du foin et des céréales cultivés sur l'exploitation. Les fromages sont fabriqués sur place et vendus à la ferme, en détail comme en gros, avec des savons au lait de chèvre.",
+    "telephone": "06 20 43 25 97",
+    "site_web": "https://www.fromageriestjaume.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Saint+Jaume+Barjols",
+    "image_url": "/images/marchands/fromagerie-saint-jaume.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "gaec-sam-et-ju",
+    "nom": "GAEC Sam et Ju",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.559379,
+    "lon": 6.003996,
+    "adresse": "16 place Martin Ferdinand, 83670 Barjols",
+    "horaires": "Toute l'année, tous les jours sur rendez-vous. Les apiculteurs demandent d'appeler avant de passer, pour passer commande et convenir d'une heure.",
+    "produits": [
+      "Miel de lavande et de lavande fine",
+      "Miel de romarin",
+      "Miel de garrigue",
+      "Miel de châtaignier",
+      "Miel de bruyère blanche",
+      "Miel d'acacia",
+      "Pain d'épices pur miel",
+      "Propolis, baumes et savons de la ruche"
+    ],
+    "description": "Apiculteurs récoltants certifiés en agriculture biologique, installés au centre du village, dont les ruchers sont conduits dans le Var et dans la région. La gamme suit les récoltes et change d'une saison à l'autre ; la vente directe se fait sur rendez-vous, après commande par téléphone.",
+    "telephone": "06 20 73 93 86",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GAEC+Sam+et+Ju+Barjols",
+    "image_url": "/images/marchands/gaec-sam-et-ju.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-l-olivade",
+    "nom": "Moulin l'Olivade",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.550932,
+    "lon": 6.004472,
+    "adresse": "679 route de Marseille, 83670 Barjols",
+    "horaires": "Toute l'année, du mardi au jeudi de 9h à 12h et de 15h à 18h, le samedi de 9h30 à 12h30. De juin à septembre, du mardi au samedi. Fermé les jours fériés.",
+    "produits": [
+      "Huile d'olive extra vierge",
+      "Huile d'olive de production barjolaise",
+      "Trituration des olives des apporteurs, sur rendez-vous"
+    ],
+    "description": "Moulin à huile coopératif de Barjols, en activité depuis 1924, qui presse les olives de la commune et vend son huile sur place. La visite du moulin et la dégustation sont possibles aux heures d'ouverture ; les particuliers qui apportent leurs olives prennent rendez-vous.",
+    "telephone": "04 94 77 19 48",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+l+Olivade+Barjols",
+    "image_url": "/images/marchands/moulin-l-olivade.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-dominical-de-barjols",
+    "nom": "Marché dominical de Barjols",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.558159,
+    "lon": 6.005457,
+    "adresse": "Place de la Rouguière, 83670 Barjols",
+    "horaires": "Tous les dimanches de 8h à 13h, place de la Rouguière.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Fromages",
+      "Viande",
+      "Pain",
+      "Produits locaux",
+      "Artisanat"
+    ],
+    "description": "Marché hebdomadaire de la Provence Verte, une trentaine d'exposants le dimanche matin sur les cinq mille mètres carrés de la place de la Rouguière et ses platanes bicentenaires. Depuis le réaménagement de la place, la commune a réservé au marché un espace piéton autour de la fontaine Raynouard, où se tiennent maraîchers, producteurs, fromagers et artisans locaux.",
+    "telephone": "04 94 72 80 60",
+    "site_web": "https://barjols.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Rouguiere+Barjols",
+    "image_url": "/images/marchands/marche-dominical-de-barjols.jpg",
+    "a_confirmer": true
   }
 ]

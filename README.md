@@ -185,10 +185,31 @@ prioritaires en cas de conflit.
    commune est publiée, celle de l'office est consignée ici. La règle 16 — pas de fiche de marché
    sans une commune qui parle — n'est pas assouplie : elle est ici satisfaite, et la règle 22 ne
    fait que trancher le contenu une fois la commune trouvée.
+23. **Un producteur et son propre point de vente ont chacun une fiche à l'office de tourisme.**
+   À Barjols, l'office publie « Le Domaine des Roseaux » et « Espace de vente Les Roseaux » comme
+   deux fiches, à 116 m l'une de l'autre, avec **le même téléphone, le même site et la même
+   adresse** ; et le domaine écrit lui-même que « tous nos vins sont vendus à la Maison de Pays les
+   Roseaux ». Tranché ainsi : **une seule fiche, au point de vente**, le producteur nommé dans la
+   description. Le critère est le faisceau — même contact, même adresse, et le producteur qui écrit
+   que sa production part au magasin — et non la distance : la règle 12 ne se déclenche qu'à 50 m et
+   n'aurait rien vu ici. Corollaire sur les piliers : **la certification détenue par l'entité de
+   production vaut pour ce point de vente**, parce que c'est la même exploitation et que ce sont ses
+   produits certifiés qui y sont vendus. C'est le complément de la règle 18, qui sépare au contraire
+   deux sociétés distinctes exploitant deux boutiques distantes.
+24. **Le point du registre tombe dans une autre rue que l'adresse publiée.** La règle 10 fait passer
+   les coordonnées du registre des entreprises avant le marqueur de l'office de tourisme. Cet ordre
+   suppose que le registre géocode la bonne voie, ce qui n'est pas toujours vrai : à Barjols, le
+   point du registre pour la Maison de Pays les Roseaux se retourne, par le contrôle inverse de la
+   Base Adresse Nationale, sur le « 16 rue des Boyers » à 3 m — en plein village — alors que
+   l'adresse publiée est la route de Tavernes, et que le marqueur de l'office se retourne sur le
+   « 1015 avenue de Tavernes » à 51 m, 1,2 km plus au nord. Tranché ainsi : **quand le contrôle
+   inverse rattache le point du registre à une voie différente de l'adresse publiée, cet échelon de
+   la règle 10 est sauté** et l'on descend au suivant. Le contrôle inverse devient donc obligatoire
+   dès que registre et office divergent de plus de 300 m ; il ne coûte qu'un appel et il tranche.
 
 ## Marchands à confirmer
 
-149 fiches sur 183 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+154 fiches sur 188 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -339,8 +360,13 @@ prioritaires en cas de conflit.
 - **Miellerie des Moulières** (l'enseigne a changé de mains : le registre montre l'entreprise des fondateurs **fermée** et une entreprise **active** portant la même enseigne à la même adresse, et le site de la miellerie l'écrit lui-même au passé — « depuis 1982, la Miellerie Rémy *était* un lieu de production ». La fiche nomme donc l'enseigne et l'année d'ouverture, jamais les personnes, et le site est conservé parce qu'il est tenu à jour par les repreneurs, avec une actualité datée d'août 2026. Le numéro de voirie de la Base Adresse Nationale est publié, premier échelon de la règle 10 ; il tombe à 230 m du point du registre et du marqueur de l'office, qui s'accordent entre eux. Les deux mobiles publiés par la miellerie sont ceux du commerce, un seul est repris. Aucune certification n'est revendiquée : `alimentation` et `economie` seuls)
 - **Pierre et Aurélie Apiculteurs** (tout concorde : le numéro de voirie de la Base Adresse Nationale et le marqueur de l'office de tourisme tombent au même point, à la sixième décimale ; le point du registre est à 195 m et n'est pas retenu. Le registre n'y déclare aucune enseigne et l'exploitation est immatriculée sous patronyme : le nom publié est celui, formé de deux prénoms, que les apiculteurs impriment eux-mêmes sur leur site et que reprend l'office. Les médailles au Concours Général Agricole de Paris sont annoncées par l'office et par le site ; le label « Producteurs Engagés » est une mention commerciale et non une certification, le pilier `environnement` n'est pas coché, règles 15 et 21)
 - **Marché provençal d'Entrecasteaux** (première fiche publiée au titre de la règle 22 : la commune écrit « marché provençal tous les vendredis de 8h à 12h, cours Gabriel Péri » sur sa page « Marché local », l'office de tourisme écrit « le vendredi de 7h30 à 12h » et « place Bruny ». C'est la commune qui est publiée. Le point est celui que la Base Adresse Nationale rend pour le cours Gabriel Péri, à 130 m de la mairie ; la Base ne connaît pas de « place Bruny ». Les produits — fromage, charcuterie, plats à emporter, fruits et légumes, miel, paniers — viennent de l'office, qui compte cinq exposants ; les articles non alimentaires qu'il cite, vêtements et matelas, ne sont pas repris. La photo est celle que l'office met sur la vignette de ce marché : des étals de fruits et légumes, mains visibles, aucun visage identifiable)
+- **Maison de Pays les Roseaux** (première fiche publiée au titre des règles 23 et 24. L'office de tourisme en fait deux fiches — le domaine et son espace de vente — avec le même téléphone, le même site et la même adresse : une seule est publiée, au point de vente. Le point du registre est écarté parce que le contrôle inverse le rattache à la rue des Boyers, en plein village, à 1,2 km de la route de Tavernes ; c'est le marqueur de l'office, qui se retourne sur le 1015 avenue de Tavernes à 51 m, qui est publié. Le bio est vérifié au registre de l'Agence Bio : l'ancienne immatriculation de la bastide porte une certification Ecocert **arrêtée le 24 juillet 2019**, mais l'exploitant actuel du domaine en porte une **active**, engagement Ecocert de septembre 2014, pour le raisin de cuve, les olives et les vins — c'est celle-là qui vaut. Les jours d'ouverture divergent, du mardi au samedi sur le site du domaine, du lundi au samedi à l'office : les deux versions figurent dans la fiche. La surface d'oliviers annoncée par l'office, « 300 », ne dit pas si ce sont des arbres ou des hectares et n'est pas publiée. Les noms de la famille exploitante, que le site publie pourtant, ne sont pas repris)
+- **Fromagerie Saint Jaume** (le nom publié est bien l'enseigne déclarée au registre, l'exploitation étant immatriculée sous patronyme. L'adresse s'écrit « Quartier Saint Jaume » à l'office et « Campagne Saint Jaume » sur le site de la ferme ; c'est la graphie du producteur qui est publiée. La Base Adresse Nationale ne connaît pas ce quartier ; le point est celui de l'établissement au registre, que le contrôle inverse rattache au 3898 route de Marseille à 27 m, contre 133 m pour le marqueur de l'office. Le troupeau, la date de 1983 et la liste des fromages viennent de la boutique en ligne de la ferme. Trois numéros figurent sur le site, un seul est repris. Aucune certification bio n'est revendiquée sur cette exploitation : `alimentation` et `economie` seuls)
+- **GAEC Sam et Ju** (deux adresses pour un même GAEC : « 222 rue des Tanneurs » à l'office de tourisme, « 16 place Martin Ferdinand » au registre des entreprises comme au registre de l'Agence Bio et à l'annuaire professionnel des Miels de Provence. Le registre déclare deux établissements ouverts, ce qui explique la divergence ; c'est l'adresse sur laquelle deux sources indépendantes s'accordent qui est publiée, avec son numéro de voirie rendu par la Base Adresse Nationale à 0 m. Le domaine que les apiculteurs impriment sur leurs étiquettes, `mieldesametju.fr`, ne rend qu'une page « site en construction » de leur hébergeur — septième piège de nom de domaine relevé ici — et le lien de l'office pointe un annuaire professionnel, qui n'est pas leur site : le champ `site_web` est resté vide. Le bio est vérifié au registre de l'Agence Bio, engagement Bureau Alpes Contrôles de décembre 2016. Les prénoms des deux apiculteurs, que l'annuaire publie, ne sont pas repris)
+- **Moulin l'Olivade** (tout concorde : le numéro de voirie de la Base Adresse Nationale se retourne sur lui-même à 0 m, à 190 m du marqueur de l'office. Trois produits seulement, parce que l'office ne dit rien de plus que « huile d'olive extra vierge » et « production barjolaise » et que le moulin n'a pas de site — seulement des pages de réseaux sociaux, qui ne sont pas inscrites. La date de 1924 est celle que l'office affiche dans le bloc des mentions du moulin. Aucune certification n'étant revendiquée, la fiche porte `alimentation` et `economie`, règles 15 et 21)
+- **Marché dominical de Barjols** (la commune parle, règle 16 : son agenda annonce le « marché dominical » chaque dimanche, et sa page consacrée à la place de la Rouguière décrit l'espace piéton réservé au marché autour de la fontaine Raynouard, avec « ses maraichers, producteurs, fromagers, artisans locaux ». L'heure — 8h à 13h — et le décompte d'une trentaine d'exposants viennent de l'office de tourisme, qui donne le même lieu : aucune contradiction, la règle 22 n'a pas eu à trancher. La Base Adresse Nationale ne connaît pas la place de la Rouguière ; le point publié est le centre de l'allée Louis Pasteur, l'une des deux allées qui la bordent selon la commune, dernier échelon de la règle 10. La photo est celle que l'office met sur la vignette de ce marché : une vue plongeante des étals, sans visage identifiable)
 
-Les 183 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 188 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -818,6 +844,35 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Barjols
+
+Le registre de l'Agence Bio compte trente-cinq opérateurs à Barjols, dont la moitié seulement a une
+certification active et dont presque aucun n'a de fiche à l'office de tourisme. Les quatre pistes
+ci-dessous sont celles qui vendent vraiment de l'alimentaire, et il leur manque à chacune la même
+chose : **une source qui décrive le point de vente** — adresse d'accueil, horaires, gamme. Le
+registre de l'Agence Bio prouve une certification, pas un magasin.
+
+- **Le Marché d'Antan** (15 rue Frédéric Mistral) : commerce de détail de fruits et légumes frais et
+  d'œufs, certification Certipaq engagée le 25 juillet 2024, toujours active. L'enseigne est
+  déclarée au registre de l'Agence Bio, le numéro de voirie est rendu par la Base Adresse Nationale
+  à 43.557939 / 6.006857, et l'entreprise a un second site à Besse-sur-Issole. Piste la plus mûre
+  des quatre : il ne manque que les horaires.
+- **Les Roses Amorosi** (384 chemin des Mareliers) : olives, romarin, thym, infusions et conserves
+  de fruits et légumes, engagement Ecocert du 11 avril 2024.
+- **Domaine de Minguinelle** et **Les Couleurs de Minguinelle** : coings, amandes, olives, huile
+  d'olive, safran et épices préparées, deux immatriculations distinctes à la même bastide, l'une
+  engagée chez Ecocert en janvier 2014, l'autre chez Bureau Alpes Contrôles en février 2022. La
+  règle 23 s'appliquera probablement ici aussi : vérifier d'abord s'il y a un seul point de vente.
+- **SCEA Provence Truffe** (718 route de Draguignan) : truffes et lavandin, engagement Bureau
+  Veritas d'octobre 2022. Une truffière n'est pas nécessairement ouverte à la vente directe : à
+  vérifier avant toute fiche.
+
+Écartées d'emblée, pour ne pas les reprendre au prochain passage : la **Ferme de Gigery**
+(certification arrêtée en 2019), les **Jardins de l'Eau Salée** (arrêtée en 2013), la bergerie de la
+rue des Audiffren (arrêtée en 2018) et **La Lichouso** (arrêtée en 2022) ; ainsi que les rayons pain
+bio des deux supermarchés de la route de Marseille, qui sont des commerces généralistes et sortent
+du sujet.
 
 ### Pistes non publiées à Entrecasteaux
 
