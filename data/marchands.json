@@ -3503,5 +3503,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Thermes+Le+Cannet+des+Maures",
     "image_url": "/images/marchands/domaine-des-thermes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "maison-des-vins-cotes-de-provence",
+    "nom": "Maison des Vins Côtes de Provence",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.446238,
+    "lon": 6.470088,
+    "adresse": "RN 7, 83460 Les Arcs-sur-Argens",
+    "horaires": "D'avril à fin septembre : du lundi au samedi de 10h à 13h et de 14h à 19h, dimanche et jours fériés de 10h à 13h et de 14h à 18h. D'octobre à fin mars : du lundi au samedi de 10h à 13h et de 14h à 18h, fermé le dimanche, jours fériés de 10h à 13h et de 14h à 17h. La page d'accueil du même site annonce de son côté une ouverture 7j/7 aux horaires d'été toute l'année.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges AOP Côtes de Provence",
+      "Vins blancs AOP Côtes de Provence",
+      "Plus de 800 références de l'appellation, au prix producteur",
+      "Coffrets et sélections de domaines"
+    ],
+    "description": "Vitrine de l'appellation Côtes de Provence, créée en 1986 au bord de l'Argens et tenue par le syndicat des vins de l'appellation. Le caveau rassemble plus de 800 références des domaines de l'AOC vendues au prix producteur, et ses sommeliers font déguster gratuitement seize vins commentés chaque semaine.",
+    "telephone": "04 94 99 50 20",
+    "site_web": "https://www.maison-des-vins.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Vins+Cotes+de+Provence+Les+Arcs",
+    "image_url": "/images/marchands/maison-des-vins-cotes-de-provence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-la-mascaronne",
+    "nom": "Château La Mascaronne",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.384748,
+    "lon": 6.28109,
+    "adresse": "RN 7, lieu-dit La Mascarone, 83340 Le Luc-en-Provence",
+    "horaires": "Toute l'année du lundi au vendredi, fermé les jours fériés, d'après l'office de tourisme Cœur du Var, qui ne publie ni heure d'ouverture ni heure de fermeture. Visites et dégustations à partir de 12 €, sur réservation. Appeler avant de se déplacer.",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rosé Grande Réserve",
+      "Côtes de Provence rouge",
+      "Côtes de Provence rouge Grande Réserve",
+      "Côtes de Provence blanc",
+      "Cuvée Folly by Mascaronne"
+    ],
+    "description": "Domaine d'un seul tenant au nord du Luc, installé dans un cirque de collines à l'écart de la nationale, conduit en culture raisonnée depuis 1999 puis certifié en agriculture biologique auprès d'Ecocert depuis le millésime 2016. L'office de tourisme y signale la vente à la propriété ; le domaine propose visites et dégustations, dont un parcours de deux kilomètres de sentiers dans le vignoble.",
+    "telephone": "04 94 39 45 40",
+    "site_web": "https://www.chateau-lamascaronne.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+La+Mascaronne+Le+Luc",
+    "image_url": "/images/marchands/chateau-la-mascaronne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-guilde-des-vignerons",
+    "nom": "La Guilde des Vignerons",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.392493,
+    "lon": 6.34446,
+    "adresse": "Rond-point Saint-Louis, RDN 7, zone CAP 7, 83340 Le Cannet-des-Maures",
+    "horaires": "Ouvert tous les jours, fermé le dimanche et le lundi de mi-septembre à mi-juin, d'après l'office de tourisme Cœur du Var, qui ne publie pas d'heures. Dégustation commentée sur rendez-vous, dix personnes au maximum pour les groupes.",
+    "produits": [
+      "Côtes de Provence rosé, cuvée Coquelicot",
+      "Côtes de Provence rouge, cuvée des Abbés",
+      "Vins AOC Côtes de Provence",
+      "Vins de pays du Var"
+    ],
+    "description": "Cave coopérative née en 2001 de l'union de La Cannetoise, fondée en 1914, et de La Thoronéenne : une cinquantaine de vignerons y apportent quelque 250 hectares plantés sur les grès du Cannet et les coteaux argilo-calcaires du Thoronet. Le caveau du rond-point Saint-Louis fait déguster gratuitement les cuvées de la cave ; la coopérative en tient un second au Thoronet.",
+    "telephone": "04 94 50 05 94",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Guilde+des+Vignerons+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/la-guilde-des-vignerons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-maison-des-bons-fromages",
+    "nom": "La Maison des Bons Fromages",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.390754,
+    "lon": 6.343319,
+    "adresse": "Les Terrasses de la Gare, 83340 Le Cannet-des-Maures",
+    "horaires": "Fermé le lundi. Mardi, jeudi, vendredi et samedi de 8h à 12h30 et de 14h30 à 18h30, mercredi de 8h à 12h30, dimanche de 9h à 12h. La vidéo « Portrait d'entrepreneur » publiée par la commune donne de son côté une fermeture à 12h30 le dimanche.",
+    "produits": [
+      "Fromages",
+      "Lait fermier",
+      "Yaourts",
+      "Beurre",
+      "Œufs",
+      "Miel",
+      "Biscuits",
+      "Vins"
+    ],
+    "description": "Fromagerie, crémerie et épicerie fine du centre du Cannet, installée sur l'esplanade des Terrasses de la Gare où se tient le marché du samedi. L'annuaire des commerces de la commune la décrit comme ne vendant que des produits locaux : lait fermier, yaourts, beurre, œufs, miel et biscuits d'artisans y accompagnent les fromages.",
+    "telephone": "04 98 17 15 82",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Maison+des+Bons+Fromages+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/la-maison-des-bons-fromages.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-luc",
+    "nom": "Marché du Luc-en-Provence",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.39405,
+    "lon": 6.31132,
+    "adresse": "Centre-ville, place de la Convention, 83340 Le Luc-en-Provence",
+    "horaires": "Le vendredi matin, toute l'année. Ni la commune ni l'office de tourisme Cœur du Var ne publient d'heure de début ou de fin ; les annuaires de marchés, seuls à en donner, annoncent une ouverture vers 8h et un démontage vers 12h30.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Œufs de plein air vendus à la pièce",
+      "Fromages",
+      "Charcuteries",
+      "Miel et confitures",
+      "Épicerie régionale"
+    ],
+    "description": "Marché hebdomadaire du vendredi matin dans le centre du Luc, confirmé par la commune comme par l'office de tourisme Cœur du Var. Les photographies publiées par la mairie y montrent des étals de producteurs : œufs de plein air vendus à la pièce, fruits de saison, fromages, charcuteries et épicerie régionale.",
+    "telephone": "04 94 50 01 00",
+    "site_web": "https://www.mairie-leluc.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Convention+Le+Luc",
+    "image_url": "/images/marchands/marche-du-luc.jpg",
+    "a_confirmer": true
   }
 ]

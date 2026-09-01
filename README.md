@@ -73,10 +73,28 @@ prioritaires en cas de conflit.
    données structurées du site de **Château Font du Broc** portaient les coordonnées d'un autre
    domaine, à 6 km. Tout écart entre deux sources se consigne ici, et la fiche passe en
    `a_confirmer`.
+11. **Passe de rattrapage.** Les sections « Pistes non publiées » accumulent des fiches déjà
+   instruites que seule une règle ou un quota de cinq a retenues, et qui attendent « le prochain
+   passage sur leur commune » — un passage qui n'arrive jamais si chaque passe ouvre une commune
+   neuve. Dès que ces pistes débloquées atteignent cinq, la passe suivante leur est consacrée :
+   elle ne prend pas de commune nouvelle, elle vide la dette sur le secteur concerné. Une piste
+   ainsi reprise n'est pas publiée sur la foi de la note du README : elle repasse par la
+   vérification complète du point 2, registre, source indépendante, géocodage et ouverture du site
+   compris, parce qu'une note peut avoir vieilli. Le trou qu'elle bouche vaut celui d'une commune
+   neuve : c'est le marché absent d'une commune que la carte prétend déjà couvrir qui se remarque
+   le plus.
+12. **Deux fiches au même endroit.** Une adresse voisine n'est pas un doublon. Quand le meilleur
+   point d'une nouvelle fiche tombe à moins de cinquante mètres d'une fiche déjà publiée, on vérifie
+   d'abord qu'il s'agit bien de deux commerces distincts ; si oui, chacun garde le point que sa
+   propre source lui donne, on ne décale rien à la main pour faire joli, et la proximité se note
+   ici. Le cas normal est celui d'une place de marché et d'une boutique qui borde cette place : la
+   Base Adresse Nationale ne rend qu'un point pour toute une esplanade, la boutique a son numéro,
+   et les deux sont vrais. Ce qui reste interdit, c'est la coordonnée recopiée d'une fiche à
+   l'autre, qui, elle, fabrique un vrai doublon.
 
 ## Marchands à confirmer
 
-104 fiches sur 138 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+109 fiches sur 143 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -181,9 +199,14 @@ prioritaires en cas de conflit.
 - **Poissonnerie Lilou** (l'annuaire des commerces de la commune est la seule source d'horaires et décrit l'activité d'un mot, « shopping et vente au détail ». La liste de produits vient donc des enseignes lisibles sur la photo de devanture publiée par la commune : plateaux de fruits de mer, tartare de saumon et brochettes de poisson faits maison. Deux numéros sont affichés sur la vitrine, un fixe et un portable ; seul le fixe est publié)
 - **La Grange Bio** (le site du magasin n'a plus été mis à jour depuis 2012 mais porte les horaires en page d'accueil ; l'annuaire des commerces de la commune, lui, a été revu le 31 août 2026 et confirme l'adresse et le téléphone. Aucune des deux sources ne dit ce qu'il en est du dimanche : la fiche le signale plutôt que de conclure. L'adresse s'écrit « chemin du Bouillidou » côté magasin et « chemin de Bouillidou » à la Base Adresse Nationale et au registre)
 - **Château Saint-Roux** (la Base Adresse Nationale ne connaît pas la route de la Garde-Freinet au Cannet ; le point publié est le marqueur que le domaine place dans ses propres données structurées, dont le bloc d'adresse correspond bien à l'adresse publiée, quand le registre place la société 2,5 km plus au nord, au quartier des Ambard. Le domaine écrit d'un côté que ses fromages de chèvre sont « produits sur place » et de l'autre que la boutique vend « les fromages de La Fromagerie de Lorgues » : la fiche s'en tient à la seconde formule pour les produits et ne parle du troupeau que dans la description. Le domaine est aussi un hôtel-restaurant : les horaires publiés sont ceux de la boutique, au titre de la règle 2)
+- **Maison des Vins Côtes de Provence** (deux pages du même site se contredisent : la page d'accueil annonce une ouverture 7j/7 du lundi au samedi de 10h à 19h et le dimanche jusqu'à 18h, la page « contact » donne un calendrier saisonnier plus détaillé, avec fermeture le dimanche d'octobre à fin mars. C'est le calendrier saisonnier qui est publié, l'autre version est citée dans la fiche. Le point est celui que l'établissement publie lui-même sur sa page contact, à 10 m des coordonnées que le registre donne à son établissement ouvert. Deuxième fiche publiée au titre de la règle 8, après le Cellier des 3 Collines)
+- **Château La Mascaronne** (la fiche de l'office de tourisme Cœur du Var se contredit elle-même : elle écrit « RN7 » comme adresse mais place son marqueur au lieu-dit La Mascarone, à 2,7 km au nord de la nationale, là où le registre place le siège de l'exploitation — et la Base Adresse Nationale ne connaît aucune adresse à cet endroit. C'est le point du registre, confirmé à 100 m près par le marqueur de l'office, qui est publié, et l'adresse écrite comme les annuaires la donnent, « RN 7 – La Mascarone ». La société exploite un second établissement, lui bien sur la route de Toulon. Aucune source ne publie d'heure d'ouverture : seuls les jours sont donnés. Le registre de l'Agence Bio et l'office listent aussi une production d'olives et d'huile d'olive, mais aucune source n'écrit qu'elle est vendue au caveau : elle ne figure pas dans les produits)
+- **La Guilde des Vignerons** (la cave n'a pas de site : le lien « site internet » de l'annuaire de la commune mène à `lescavescoopduvar.fr`, qui n'appartient plus à la fédération des caves coopératives du Var — le domaine sert aujourd'hui de blog générique sur le vin, avec des articles sur le rosé de supermarché. Troisième piège de nom de domaine relevé ici, après la Poissonnerie Santa Lucia et le Moulin du Grimaudet : le champ `site_web` est resté vide. Les horaires viennent de l'office de tourisme et ne donnent que des jours. Le caveau du Thoronet, tenu par la même coopérative, fera sa propre fiche au titre de la règle 3)
+- **La Maison des Bons Fromages** (l'adresse s'écrit « Les Terrasses de la Gare » à l'annuaire de la commune et « 116 avenue du 8 Mai 1945 » au registre ; la Base Adresse Nationale ne connaît pas cette avenue au Cannet et nomme la voie « Esplanade de la Gare », où elle rend bien un numéro 116. Les trois désignent le même immeuble. Le point publié est le marqueur de l'annuaire communal, à 12 m du point du Marché du Cannet-des-Maures : la boutique borde l'esplanade où le marché se tient, les deux fiches sont vraies, voir la règle 12. Les horaires du dimanche divergent entre l'annuaire, revu en mars 2024, et la vidéo « Portrait d'entrepreneur » de la commune ; l'annuaire est publié, la vidéo citée. La photo est un plan de cette vidéo, recadré sur l'ardoise et le comptoir pour écarter les visages, d'où sa petite taille)
+- **Marché du Luc-en-Provence** (deuxième fiche publiée au titre de la règle 9. La commune confirme le marché du vendredi par ses articles et ses photographies, l'office de tourisme Cœur du Var confirme « le vendredi, le matin au centre ville » ; aucun des deux ne donne d'heure ni ne nomme la place. Les heures de 8h à 12h30 et la place de la Convention viennent d'annuaires de marchés, attribués comme tels dans la fiche, et le point est celui que la Base Adresse Nationale rend pour cette place, à 150 m de la mairie et à 106 m des Vignerons du Luc. La liste de produits ne reprend que ce que montrent les photographies de la mairie)
 - **Domaine des Thermes** (le domaine ne publie ni horaires ni coordonnées géographiques, et la Base Adresse Nationale ne sait pas géocoder « RN 7 » sur la commune : les horaires et le point viennent tous deux de la fiche de l'office de tourisme Cœur du Var, qui se contente de « toute l'année du lundi au samedi ». Au registre, la société est immatriculée sous un patronyme ; « Domaine des Thermes » est le nom de l'exploitation et de son site)
 
-Les 138 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 143 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -545,11 +568,9 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Moulin du Thélon** (37 rue du Thélon) : le site du moulin annonce lui-même « Saison 2023/2024 :
   le moulin est fermé. Suite à un problème technique le moulin n'ouvrira pas cette année », et aucune
   source consultée n'indique une réouverture depuis. Non publié.
-- **Maison des Vins Côtes de Provence** (RDN 7) : vitrine permanente de l'interprofession, qui vend
-  les vins de centaines de domaines de l'appellation sans rien produire elle-même. La règle 8, écrite
-  cette passe, la rattache à `producteur` comme les caves coopératives déjà publiées ; la fiche est à
-  monter au prochain passage sur la commune, avec les horaires que publie l'annuaire municipal
-  (du lundi au samedi 10h-13h et 14h-19h, le dimanche 10h-13h et 14h-18h).
+- **Maison des Vins Côtes de Provence** (RDN 7) : **publiée** lors de la passe de rattrapage, au
+  titre de la règle 8. Les horaires de l'annuaire municipal se sont révélés être ceux de la seule
+  saison d'été : c'est le calendrier saisonnier de la page « contact » du site qui a été retenu.
 - **Les Œufs de Provence** (ZA de l'Écluse) : actif au registre, enregistré à l'Agence Bio, mais
   aucune source consultée ne documente une vente au public sur place — l'adresse est celle d'un
   centre de conditionnement en zone d'activité. Non publié en l'état.
@@ -559,14 +580,11 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 
 ### Pistes non publiées au Luc-en-Provence
 
-- **Marché du Luc** : l'office de tourisme Cœur du Var confirme un marché le vendredi matin, « au centre
-  ville », mais ne publie ni heure de début ni de fin, et le site de la commune n'a pas de page
-  « marchés ». **Débloqué par la règle 9**, écrite lors du passage sur Gonfaron : la fiche est
-  à monter au prochain passage sur la commune, avec le vendredi matin pour seul horaire et la
-  mention explicite qu'aucune heure n'est publiée.
-- **Château La Mascaronne** (RN7) : domaine engagé chez Ecocert, actif au registre, ouvert du lundi au
-  vendredi toute l'année d'après l'office de tourisme. Non instruit cette passe, qui en comptait déjà
-  cinq — à reprendre au prochain passage sur la commune.
+- **Marché du Luc** : **publié** lors de la passe de rattrapage, au titre de la règle 9. Le site de
+  la commune est `mairie-leluc.com` — ni `le-luc.fr`, ni `ville-leluc.fr`, ni `lelucenprovence.fr`,
+  tous morts. Il n'a pas de page « marchés » mais ses articles et ses galeries de photos confirment
+  le marché du vendredi, ce qui suffit à la deuxième source officielle que la règle 9 exige.
+- **Château La Mascaronne** (RN 7 – La Mascarone) : **publié** lors de la passe de rattrapage.
 - **Ferme de la Mounette** (18 chemin de la Source) : maraîchage certifié auprès de Bureau Alpes
   contrôles au registre de l'Agence Bio, mais absente de l'annuaire de l'office de tourisme et sans
   aucune source publiant une vente au public ni des horaires. Non publiée en l'état.
@@ -577,22 +595,16 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 
 ### Pistes non publiées au Cannet-des-Maures
 
-- **La Maison des Bons Fromages** (Les Terrasses de la Gare, 116 avenue du 8 Mai 1945) : fromagerie,
-  crèmerie et épicerie fine « produits uniquement locaux » d'après l'annuaire des commerces de la
-  commune, active au registre, avec des horaires jour par jour. Entièrement vérifiée, mais non
-  retenue cette passe, qui comptait déjà un magasin de produits locaux avec La Grange Bio. À monter
-  au prochain passage sur la commune, en `magasin-bio` au titre de la règle 4, comme **Le Petit
-  Transian** déjà publié. Deux réserves à reprendre alors : l'adresse du registre (116 avenue du
-  8 Mai 1945) et celle de la commune (« Les Terrasses de la Gare ») désignent le même immeuble mais
-  ne s'écrivent pas pareil, et la vidéo « Portrait d'entrepreneur » de la commune donne des horaires
-  du dimanche différents de ceux de l'annuaire (12h30 contre 12h).
-- **La Guilde des Vignerons** (rond-point Saint-Louis) : cave coopérative d'une cinquantaine de
-  membres, établissement actif au registre, présente à l'annuaire des commerces de la commune comme
-  à l'office de tourisme, qui donne le point, le téléphone et « ouvert tous les jours, fermé dimanche
-  et lundi de mi-septembre à mi-juin ». Non retenue cette passe, qui comptait déjà un caveau avec le
-  Domaine des Thermes. La cave n'a pas de site : le lien « site internet » de la commune renvoie à
-  l'annuaire de la fédération des caves coopératives du Var. Elle tient aussi un caveau au Thoronet,
-  qui fera sa propre fiche au titre de la règle 3.
+- **La Maison des Bons Fromages** (Les Terrasses de la Gare) : **publiée** lors de la passe de
+  rattrapage, en `magasin-bio` au titre de la règle 4, comme **Le Petit Transian**. Les deux
+  réserves notées ici — l'adresse écrite de deux façons, les horaires du dimanche divergents — sont
+  tranchées et consignées plus haut.
+- **La Guilde des Vignerons** (rond-point Saint-Louis) : **publiée** lors de la passe de rattrapage.
+  Le lien « site internet » de l'annuaire communal est un piège : `lescavescoopduvar.fr` n'est plus
+  celui de la fédération des caves coopératives du Var, c'est aujourd'hui un blog générique sur le
+  vin. Le champ `site_web` de la fiche est resté vide. Le caveau du Thoronet, tenu par la même
+  coopérative, fera sa propre fiche au titre de la règle 3 : l'office de tourisme lui donne une
+  fiche à part, 20 boulevard du 17 Août 1944, téléphone 04 94 73 87 02.
 - **Les Jardins d'Entraygues** (île d'Entraygues, RD 84) : maraîchage certifié bio chez Ecocert
   depuis 2013 au registre de l'Agence Bio, avec une seconde adresse place de la Libération qui
   ressemble à un point de vente. Aucune source consultée ne publie d'horaires ni ne documente une
