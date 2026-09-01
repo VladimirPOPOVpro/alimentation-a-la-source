@@ -3637,5 +3637,132 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Convention+Le+Luc",
     "image_url": "/images/marchands/marche-du-luc.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-pignans",
+    "nom": "Marché de Pignans",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.302026,
+    "lon": 6.22697,
+    "adresse": "Place des écoles le jeudi, cœur du village le dimanche, 83790 Pignans",
+    "horaires": "De 8h à 12h, le jeudi matin sur la place des écoles et le dimanche matin au cœur du village, d'après l'affiche municipale. La page « Marchés hebdomadaires » de la commune, écrite pour les exposants, indique 7h à 12h le jeudi : c'est l'heure à laquelle les stands s'installent, le placier n'acceptant plus personne après 8h.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Primeurs et maraîchage",
+      "Plats cuisinés à emporter"
+    ],
+    "description": "Deux marchés hebdomadaires tenus par la commune, sur la place des écoles le jeudi et au cœur du village le dimanche. La mairie ne publie pas la liste des exposants : les produits cités ici sont ceux que montrent ses propres photographies du marché, sous les platanes de la place.",
+    "telephone": "04 94 13 54 90",
+    "site_web": "https://www.pignans.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+des+Ecoles+Pignans",
+    "image_url": "/images/marchands/marche-de-pignans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "safran-de-pignans",
+    "nom": "Safran de Pignans",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.300074,
+    "lon": 6.228219,
+    "adresse": "21 rue Saint-Esprit, 83790 Pignans",
+    "horaires": "Toute l'année sur rendez-vous au 06 73 49 31 02 ; en l'absence de réponse, laisser un message. Visites gratuites de la safranière en fleurs fin octobre et début novembre, sur rendez-vous également, avec atelier d'émondage et dégustation. Le producteur vend aussi sur les marchés et les foires des environs.",
+    "produits": [
+      "Safran de Pignans",
+      "Herbes aromatiques",
+      "Sirops de fleurs",
+      "Vinaigres aromatisés",
+      "Confitures",
+      "Fleurs de sel aromatisées",
+      "Olivades noire et verte aux herbes",
+      "Confit d'oignons au safran"
+    ],
+    "description": "Safranière installée à Pignans depuis 2018, qui récolte et émonde son safran à l'automne et le transforme en une gamme de condiments : sirops, vinaigres, confitures, fleurs de sel, olivades et confit d'oignons. La visite de la safranière en fleurs, fin octobre, se fait sur rendez-vous et se termine par une dégustation.",
+    "telephone": "06 73 49 31 02",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Safran+de+Pignans",
+    "image_url": "/images/marchands/safran-de-pignans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-truites-du-paradou",
+    "nom": "Les Truites du Paradou",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.298019,
+    "lon": 6.22095,
+    "adresse": "Quartier le Paradou, 83790 Pignans",
+    "horaires": "Toute l'année du lundi au vendredi de 9h à 17h, le samedi de 10h à 12h30.",
+    "produits": [
+      "Truites arc-en-ciel élevées sur place",
+      "Truites vendues au détail",
+      "Filets de truite fumée"
+    ],
+    "description": "Pisciculture d'eau douce du quartier du Paradou, que la commune classe dans ses fermes et qui vend ses truites arc-en-ciel en direct, à la ferme comme sur les marchés. Le stand du producteur propose aussi des filets fumés par une fumaison artisanale du Haut-Var.",
+    "telephone": "06 40 81 86 23",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Truites+du+Paradou+Pignans",
+    "image_url": "/images/marchands/les-truites-du-paradou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-vergers-de-carmaures",
+    "nom": "Les Vergers de Carmaures",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.299964,
+    "lon": 6.224503,
+    "adresse": "356 avenue Saint-Roch, 83790 Pignans",
+    "horaires": "Toute l'année sauf pendant la récolte, sur rendez-vous au 06 61 63 73 22.",
+    "produits": [
+      "Châtaignes fraîches en saison",
+      "Crème de châtaigne des Maures",
+      "Confitures et préparations de fruits"
+    ],
+    "description": "Castanéiculture et oléiculture à Pignans, dont les châtaigneraies de Pignans et de Gonfaron sont certifiées en agriculture biologique auprès d'Ecocert d'après le registre de l'Agence Bio, l'exploitation étant par ailleurs classée Haute Valeur Environnementale. Les châtaignes se vendent fraîches en saison, la crème de châtaigne toute l'année, sur les marchés du secteur comme à la propriété.",
+    "telephone": "06 61 63 73 22",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vergers+de+Carmaures+Pignans",
+    "image_url": "/images/marchands/les-vergers-de-carmaures.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-rimauresq",
+    "nom": "Domaine de Rimauresq",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.2925,
+    "lon": 6.24008,
+    "adresse": "Route de Notre-Dame-des-Anges, 83790 Pignans",
+    "horaires": "Du lundi au vendredi de 9h à 12h et de 14h à 18h. Dégustation gratuite ; accueil des groupes sur rendez-vous, quinze personnes au maximum.",
+    "produits": [
+      "Côtes de Provence rosé, gamme Classique",
+      "Côtes de Provence blanc, gamme Classique",
+      "Côtes de Provence rouge, gamme Classique",
+      "Gamme R, rosé et rouge",
+      "Gamme Quintessence",
+      "Cuvée Rebelle"
+    ],
+    "description": "Domaine de 40 hectares au pied de Notre-Dame-des-Anges, Cru Classé des Côtes de Provence depuis 1955 et engagé en agriculture biologique auprès d'Ecocert d'après le registre de l'Agence Bio. Le vignoble, exposé au nord-ouest et abrité par le massif des Maures, réunit neuf cépages ; la boutique du domaine vend les cuvées et fait déguster gratuitement.",
+    "telephone": "04 94 48 80 45",
+    "site_web": "https://rimauresq.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Rimauresq+Pignans",
+    "image_url": "/images/marchands/domaine-de-rimauresq.jpg",
+    "a_confirmer": true
   }
 ]

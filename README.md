@@ -91,10 +91,17 @@ prioritaires en cas de conflit.
    Base Adresse Nationale ne rend qu'un point pour toute une esplanade, la boutique a son numéro,
    et les deux sont vrais. Ce qui reste interdit, c'est la coordonnée recopiée d'une fiche à
    l'autre, qui, elle, fabrique un vrai doublon.
+13. **Élevages et `poissonnerie`.** Précision de la règle 4 : `poissonnerie` désigne un point de
+   vente de poisson — étal, boutique, marché aux poissons — et pas une manière d'élever. Une
+   pisciculture qui vend au détail les truites qu'elle a élevées est une exploitation agricole et
+   relève de `ferme`, comme la commune de Pignans la classe elle-même. Ce que le visiteur cherche
+   se retrouve quand même : la recherche porte aussi sur les produits, et « truites » ou « poisson »
+   dans la liste des produits ramène la fiche. La catégorie dit le métier, les produits disent ce
+   qu'on achète, et on ne déforme pas le premier pour compenser le second.
 
 ## Marchands à confirmer
 
-109 fiches sur 143 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+114 fiches sur 148 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -199,6 +206,11 @@ prioritaires en cas de conflit.
 - **Poissonnerie Lilou** (l'annuaire des commerces de la commune est la seule source d'horaires et décrit l'activité d'un mot, « shopping et vente au détail ». La liste de produits vient donc des enseignes lisibles sur la photo de devanture publiée par la commune : plateaux de fruits de mer, tartare de saumon et brochettes de poisson faits maison. Deux numéros sont affichés sur la vitrine, un fixe et un portable ; seul le fixe est publié)
 - **La Grange Bio** (le site du magasin n'a plus été mis à jour depuis 2012 mais porte les horaires en page d'accueil ; l'annuaire des commerces de la commune, lui, a été revu le 31 août 2026 et confirme l'adresse et le téléphone. Aucune des deux sources ne dit ce qu'il en est du dimanche : la fiche le signale plutôt que de conclure. L'adresse s'écrit « chemin du Bouillidou » côté magasin et « chemin de Bouillidou » à la Base Adresse Nationale et au registre)
 - **Château Saint-Roux** (la Base Adresse Nationale ne connaît pas la route de la Garde-Freinet au Cannet ; le point publié est le marqueur que le domaine place dans ses propres données structurées, dont le bloc d'adresse correspond bien à l'adresse publiée, quand le registre place la société 2,5 km plus au nord, au quartier des Ambard. Le domaine écrit d'un côté que ses fromages de chèvre sont « produits sur place » et de l'autre que la boutique vend « les fromages de La Fromagerie de Lorgues » : la fiche s'en tient à la seconde formule pour les produits et ne parle du troupeau que dans la description. Le domaine est aussi un hôtel-restaurant : les horaires publiés sont ceux de la boutique, au titre de la règle 2)
+- **Marché de Pignans** (la commune publie deux versions de ses propres horaires sur la même page : le texte, écrit pour les exposants, annonce le jeudi de 7h à 12h, l'affiche municipale annonce 8h à 12h pour le jeudi comme pour le dimanche. Ce sont les 8h de l'affiche qui sont publiés, parce que la même page précise que le placier n'installe plus personne après 8h : le 7h est l'heure de montage des stands, pas celle du marché. La mairie ne publie pas la liste des exposants ; les produits cités sont ceux que montrent ses propres photographies)
+- **Safran de Pignans** (trois adresses circulent pour la même safranière : l'annuaire des commerces de la commune donne 21 rue Saint-Esprit, l'office de tourisme Cœur du Var donne 2 rue Garianne, et le registre des entreprises rattache l'exploitation au quartier Barbeiranne, au lieu-dit Le Plaiguier, à 2,4 km au nord du village. Les deux adresses de village sont distantes de 114 m ; c'est celle de la commune qui est publiée, l'autre est citée ici. La visite se faisant de toute façon sur rendez-vous téléphonique, l'écart ne fait pas faire de trajet inutile. L'identité entre la fiche d'office et l'entité active du registre a été établie par le SIRET, une entreprise individuelle sous patronyme créée en juin 2018, ce que l'office confirme par son « depuis 2018 »)
+- **Les Truites du Paradou** (l'office de tourisme est la seule source d'horaires et ne décrit l'activité qu'en une ligne, « vente de truites au détail, truites arc-en-ciel ». Les filets fumés inscrits dans les produits se lisent sur la photo du stand publiée par le même office, dont l'emballage porte la marque d'une fumaison artisanale du Haut-Var : c'est un produit revendu, pas fumé sur place. Au registre, il s'agit d'une entreprise individuelle sous patronyme, code aquaculture en eau douce ; « Les Truites du Paradou » est le nom que publient l'office et la commune. Première fiche publiée au titre de la règle 13)
+- **Les Vergers de Carmaures** (l'exploitation écrit « 32 av. St Roch » sur ses propres bocaux et au registre de l'Agence Bio, quand l'office de tourisme et le registre des entreprises donnent le 356, respectivement « 354-356 » : la Base Adresse Nationale ne connaît pas de numéro 32 sur cette avenue mais rend bien le 356, et le point du registre tombe à 5 m de celui-là. C'est donc le 356 qui est publié. Le registre de l'Agence Bio déclare aussi des olives, de l'huile d'olive et du raisin de table, mais aucune source n'écrit que ces produits sont vendus : seuls les châtaignes et la crème de châtaigne, que l'office nomme, figurent dans les produits. L'exploitation est immatriculée sous patronyme ; « Les Vergers de Carmaures » est le nom imprimé sur ses étiquettes)
+- **Domaine de Rimauresq** (le domaine ne revendique nulle part l'agriculture biologique sur son site : la mention vient du registre de l'Agence Bio, qui l'enregistre chez Ecocert depuis février 2017, et la fiche l'attribue à cette source. Trois points coexistent, tous dans un rayon de 60 m : celui que le domaine publie sur sa page contact, celui de la fiche de l'office et celui que le registre donne à sa société de vente ; c'est celui de l'office, le plus précis, qui est publié. Deux sociétés distinctes portent le domaine, une SCI et une société de vente, toutes deux actives)
 - **Maison des Vins Côtes de Provence** (deux pages du même site se contredisent : la page d'accueil annonce une ouverture 7j/7 du lundi au samedi de 10h à 19h et le dimanche jusqu'à 18h, la page « contact » donne un calendrier saisonnier plus détaillé, avec fermeture le dimanche d'octobre à fin mars. C'est le calendrier saisonnier qui est publié, l'autre version est citée dans la fiche. Le point est celui que l'établissement publie lui-même sur sa page contact, à 10 m des coordonnées que le registre donne à son établissement ouvert. Deuxième fiche publiée au titre de la règle 8, après le Cellier des 3 Collines)
 - **Château La Mascaronne** (la fiche de l'office de tourisme Cœur du Var se contredit elle-même : elle écrit « RN7 » comme adresse mais place son marqueur au lieu-dit La Mascarone, à 2,7 km au nord de la nationale, là où le registre place le siège de l'exploitation — et la Base Adresse Nationale ne connaît aucune adresse à cet endroit. C'est le point du registre, confirmé à 100 m près par le marqueur de l'office, qui est publié, et l'adresse écrite comme les annuaires la donnent, « RN 7 – La Mascarone ». La société exploite un second établissement, lui bien sur la route de Toulon. Aucune source ne publie d'heure d'ouverture : seuls les jours sont donnés. Le registre de l'Agence Bio et l'office listent aussi une production d'olives et d'huile d'olive, mais aucune source n'écrit qu'elle est vendue au caveau : elle ne figure pas dans les produits)
 - **La Guilde des Vignerons** (la cave n'a pas de site : le lien « site internet » de l'annuaire de la commune mène à `lescavescoopduvar.fr`, qui n'appartient plus à la fédération des caves coopératives du Var — le domaine sert aujourd'hui de blog générique sur le vin, avec des articles sur le rosé de supermarché. Troisième piège de nom de domaine relevé ici, après la Poissonnerie Santa Lucia et le Moulin du Grimaudet : le champ `site_web` est resté vide. Les horaires viennent de l'office de tourisme et ne donnent que des jours. Le caveau du Thoronet, tenu par la même coopérative, fera sa propre fiche au titre de la règle 3)
@@ -206,7 +218,7 @@ prioritaires en cas de conflit.
 - **Marché du Luc-en-Provence** (deuxième fiche publiée au titre de la règle 9. La commune confirme le marché du vendredi par ses articles et ses photographies, l'office de tourisme Cœur du Var confirme « le vendredi, le matin au centre ville » ; aucun des deux ne donne d'heure ni ne nomme la place. Les heures de 8h à 12h30 et la place de la Convention viennent d'annuaires de marchés, attribués comme tels dans la fiche, et le point est celui que la Base Adresse Nationale rend pour cette place, à 150 m de la mairie et à 106 m des Vignerons du Luc. La liste de produits ne reprend que ce que montrent les photographies de la mairie)
 - **Domaine des Thermes** (le domaine ne publie ni horaires ni coordonnées géographiques, et la Base Adresse Nationale ne sait pas géocoder « RN 7 » sur la commune : les horaires et le point viennent tous deux de la fiche de l'office de tourisme Cœur du Var, qui se contente de « toute l'année du lundi au samedi ». Au registre, la société est immatriculée sous un patronyme ; « Domaine des Thermes » est le nom de l'exploitation et de son site)
 
-Les 143 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 148 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -577,6 +589,35 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées à Pignans
+
+- **Le Cellier des Trois Pignes** (avenue Saint-Roch) : l'annuaire des commerces de la commune le
+  présente encore comme la cave coopérative du village, avec son téléphone. Le registre des
+  entreprises dit l'inverse : la société est **cessée**, aucun établissement ouvert, celui de
+  l'avenue Saint-Roch fermé. La règle 6 l'écarte. C'est le premier cas rencontré où c'est
+  l'annuaire d'une commune, et non un site de commerçant, qui a pris du retard : un annuaire
+  municipal établit qu'un commerce a existé, pas qu'il est ouvert.
+- **Château Rosan** (RD 97, quartier La Fondaille) : société active au registre, engagée chez
+  Ecocert depuis 2019 au registre de l'Agence Bio, vente à la propriété annoncée par l'office de
+  tourisme — mais « ouvert sur rdv uniquement », sans jour ni heure, et les deux annuaires donnent
+  deux téléphones différents, celui de la commune étant en outre mal formé. À reprendre au prochain
+  passage sur la commune.
+- **Domaine Villa Vallombrosa** (chemin de la Cressonnière, RD 97) : actif au registre sous
+  l'adresse du domaine du Cresson, vente à la propriété et boutique annoncées par l'office, qui
+  renvoie au site du domaine pour les horaires — sauf que `villavallombrosa.com` ne répond pas.
+  Là encore deux téléphones divergents entre l'office et la commune. Non publié faute d'horaires.
+- **Château Barbeiranne** (quartier la Pellegrine) : engagé chez Ecocert depuis 2019 au registre de
+  l'Agence Bio, présent à l'annuaire de la commune avec son téléphone, mais absent de l'annuaire de
+  l'office de tourisme et sans horaires publiés nulle part.
+- **Il était une fois la ferme** (211 route Notre-Dame-des-Anges) : ferme pédagogique listée par la
+  commune. Aucune source ne documente une vente de produits alimentaires : hors sujet en l'état.
+- **Bergeries et maraîchage de la route de Notre-Dame-des-Anges** : le registre de l'Agence Bio
+  enregistre à Pignans deux élevages de brebis laitières produisant fromages et yaourts, ainsi
+  qu'un maraîchage avec verger (pommes, poires, coings, abricots, cerises, pêches), tous certifiés
+  chez Ecocert. Aucun ne figure à l'annuaire de la commune ni à celui de l'office, et aucune source
+  ne publie d'horaires ni de point de vente : non publiés en l'état. Une **fromagerie des Maures**
+  y apparaît aussi, mais sa certification est arrêtée depuis 2023.
 
 ### Pistes non publiées au Luc-en-Provence
 
