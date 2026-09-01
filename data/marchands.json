@@ -4833,5 +4833,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Rouguiere+Barjols",
     "image_url": "/images/marchands/marche-dominical-de-barjols.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-val-de-camps",
+    "nom": "Domaine du Val de Camps",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.385642,
+    "lon": 6.069617,
+    "adresse": "2196 chemin du Val de Camps, 83170 Brignoles",
+    "horaires": "Du 1er avril au 31 décembre, le vendredi de 16h30 à 19h30. Il est conseillé de téléphoner avant de venir.",
+    "produits": [
+      "Petits fruits rouges",
+      "Fruits de saison",
+      "Légumes de saison",
+      "Paniers de l'AMAP, plusieurs formules"
+    ],
+    "description": "Ferme fruitière et maraîchère du vallon du Val de Camps, au sud de Brignoles, qui vend sa récolte en direct un après-midi par semaine et alimente une AMAP proposant plusieurs formules de paniers. Les petits fruits rouges en sont la spécialité.",
+    "telephone": "06 72 83 16 66",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Val+de+Camps+Brignoles",
+    "image_url": "/images/marchands/domaine-du-val-de-camps.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-des-galinettes",
+    "nom": "La Ferme des Galinettes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.360425,
+    "lon": 6.092524,
+    "adresse": "6670 route départementale 43, quartier Les Cavières, 83170 Brignoles",
+    "horaires": "Toute l'année, le samedi de 9h30 à 12h, et sur rendez-vous.",
+    "produits": [
+      "Poulets fermiers biologiques",
+      "Pintades fermières biologiques",
+      "Poulardes",
+      "Chapons",
+      "Œufs biologiques"
+    ],
+    "description": "Élevage de volailles en agriculture biologique, en plein bois provençal au sud de Brignoles, qui a choisi des races anciennes à croissance lente plutôt que les standards industriels et nourrit ses bêtes d'une alimentation bio et locale. La vente se fait à la ferme le samedi matin et sur rendez-vous.",
+    "telephone": "06 21 90 33 39",
+    "site_web": "https://www.lafermedesgalinettes.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+des+Galinettes+Brignoles",
+    "image_url": "/images/marchands/la-ferme-des-galinettes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-tombarel",
+    "nom": "Domaine de la Tombarel",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.401156,
+    "lon": 6.09088,
+    "adresse": "2100 route de Nice, 83170 Brignoles",
+    "horaires": "Toute l'année, du lundi au samedi. Visite du domaine uniquement sur réservation.",
+    "produits": [
+      "Huile d'olive AOP Huile d'olive de Provence, certifiée bio",
+      "Olives de table",
+      "Miel",
+      "Crème de marron",
+      "Vins du domaine"
+    ],
+    "description": "Domaine du XIVe siècle sur la route de Nice, à la fois vignoble et oliveraie, dont l'huile d'olive porte l'AOP Huile d'olive de Provence et la certification biologique. Le caveau propose aussi les olives de table, le miel, la crème de marron et les spécialités de saison du domaine.",
+    "telephone": "06 95 33 45 37",
+    "site_web": "https://domainedelatombarel.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Tombarel+Brignoles",
+    "image_url": "/images/marchands/domaine-de-la-tombarel.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-des-annibals",
+    "nom": "Château des Annibals",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.410998,
+    "lon": 6.01683,
+    "adresse": "649 route départementale 35, route de Bras, 83170 Brignoles",
+    "horaires": "Du 1er mai au 30 juin, du lundi au samedi de 9h à 12h30 et de 14h à 18h30. Du 1er juillet au 31 août, du lundi au samedi de 9h à 13h et de 14h30 à 19h. Du 1er septembre au 30 avril, du lundi au samedi de 9h à 12h30 et de 14h à 18h. Fermé les jours fériés.",
+    "produits": [
+      "Vins rosés, rouges et blancs AOP Coteaux Varois en Provence, certifiés bio",
+      "Vins IGP Var",
+      "Cuvée des Annibals",
+      "Cuvée Suivez-Moi-Jeune-Homme",
+      "Huile d'olive"
+    ],
+    "description": "Très ancien vignoble d'une quarantaine d'hectares sur la route de Bras, en agriculture biologique depuis 1997, où la dégustation se fait gratuitement dans un caveau du XIIe siècle. Le domaine produit aussi de l'huile d'olive et propose des visites commentées sur réservation ainsi qu'un parc paysager.",
+    "telephone": "04 94 69 30 36",
+    "site_web": "https://annibals.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+des+Annibals+Brignoles",
+    "image_url": "/images/marchands/chateau-des-annibals.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-de-brignoles",
+    "nom": "Marché du samedi de Brignoles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.407366,
+    "lon": 6.066495,
+    "adresse": "Place du Général-de-Gaulle, devant la médiathèque Jacques-Cestor, 83170 Brignoles",
+    "horaires": "Tous les samedis matin. L'office de tourisme annonce de 7h30 à 12h30 ; la commune ne publie pas d'heure.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie",
+      "Poissonnerie",
+      "Traiteurs",
+      "Produits locaux",
+      "Artisanat"
+    ],
+    "description": "Le grand marché hebdomadaire de la Provence Verte, environ cent quarante exposants le samedi matin au cœur de Brignoles. La commune le présente comme une occasion d'échanger directement avec les producteurs du territoire, entre fruits et légumes, huile d'olive, fromages de chèvre et miel.",
+    "telephone": "04 94 86 22 22",
+    "site_web": "https://www.brignoles.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediatheque+Jacques+Cestor+Brignoles",
+    "image_url": "/images/marchands/marche-du-samedi-de-brignoles.jpg",
+    "a_confirmer": true
   }
 ]

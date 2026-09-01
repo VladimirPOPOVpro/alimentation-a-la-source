@@ -206,10 +206,30 @@ prioritaires en cas de conflit.
    inverse rattache le point du registre à une voie différente de l'adresse publiée, cet échelon de
    la règle 10 est sauté** et l'on descend au suivant. Le contrôle inverse devient donc obligatoire
    dès que registre et office divergent de plus de 300 m ; il ne coûte qu'un appel et il tranche.
+25. **Une certification « arrêtée » sur un SIRET du producteur.** La note sur les Flaveurs du Rocher
+   a appris à interroger le registre de l'Agence Bio par SIRET, parce que la date d'arrêt n'y
+   apparaît que comme cela. Le revers a été rencontré deux fois à Brignoles : le Château des
+   Annibals a une société de négoce **fermée**, dont le certificat est arrêté en février 2026, et une
+   société d'exploitation **active**, engagée chez Ecocert depuis mars 1997 ; le Domaine Balcon a un
+   certificat arrêté le 19 mai 2026 sur le SIRET de l'exploitant et un certificat engagé **le même
+   jour** sur celui du GAEC. Tranché ainsi : **une certification arrêtée sur un SIRET ne vaut perte
+   de certification que si aucun autre SIRET du même producteur, à la même adresse, n'en porte une
+   active** ; et quand la date d'arrêt de l'une égale la date d'engagement de l'autre, il s'agit d'un
+   transfert entre structures, pas d'un abandon. Le contrôle se fait en interrogeant le registre par
+   nom **et** par SIRET, et en lisant toutes les lignes rendues, pas la première.
+26. **La Base Adresse Nationale ne connaît pas la place où se tient le marché.** Trois fiches de
+   marché sur trois y ont buté : ni la place Bruny à Entrecasteaux, ni la place de la Rouguière à
+   Barjols, ni la place du Général-de-Gaulle à Brignoles n'existent dans la Base. Tranché ainsi :
+   **prendre le point du repère que la commune nomme elle-même à côté de la place**, quand elle en
+   nomme un, avant de se rabattre sur le centre d'une voie. À Brignoles la commune écrit « place du
+   général de Gaulle, devant la médiathèque Jacques-Cestor » : la Base rend la médiathèque avec un
+   score de 0,95, contre 0,44 pour le square voisin. C'est un échelon qui s'insère dans la règle 10
+   juste avant le dernier, et il est meilleur que lui parce que le repère est nommé par la source
+   qui fait foi sur le marché.
 
 ## Marchands à confirmer
 
-154 fiches sur 188 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+159 fiches sur 193 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -365,8 +385,13 @@ prioritaires en cas de conflit.
 - **GAEC Sam et Ju** (deux adresses pour un même GAEC : « 222 rue des Tanneurs » à l'office de tourisme, « 16 place Martin Ferdinand » au registre des entreprises comme au registre de l'Agence Bio et à l'annuaire professionnel des Miels de Provence. Le registre déclare deux établissements ouverts, ce qui explique la divergence ; c'est l'adresse sur laquelle deux sources indépendantes s'accordent qui est publiée, avec son numéro de voirie rendu par la Base Adresse Nationale à 0 m. Le domaine que les apiculteurs impriment sur leurs étiquettes, `mieldesametju.fr`, ne rend qu'une page « site en construction » de leur hébergeur — septième piège de nom de domaine relevé ici — et le lien de l'office pointe un annuaire professionnel, qui n'est pas leur site : le champ `site_web` est resté vide. Le bio est vérifié au registre de l'Agence Bio, engagement Bureau Alpes Contrôles de décembre 2016. Les prénoms des deux apiculteurs, que l'annuaire publie, ne sont pas repris)
 - **Moulin l'Olivade** (tout concorde : le numéro de voirie de la Base Adresse Nationale se retourne sur lui-même à 0 m, à 190 m du marqueur de l'office. Trois produits seulement, parce que l'office ne dit rien de plus que « huile d'olive extra vierge » et « production barjolaise » et que le moulin n'a pas de site — seulement des pages de réseaux sociaux, qui ne sont pas inscrites. La date de 1924 est celle que l'office affiche dans le bloc des mentions du moulin. Aucune certification n'étant revendiquée, la fiche porte `alimentation` et `economie`, règles 15 et 21)
 - **Marché dominical de Barjols** (la commune parle, règle 16 : son agenda annonce le « marché dominical » chaque dimanche, et sa page consacrée à la place de la Rouguière décrit l'espace piéton réservé au marché autour de la fontaine Raynouard, avec « ses maraichers, producteurs, fromagers, artisans locaux ». L'heure — 8h à 13h — et le décompte d'une trentaine d'exposants viennent de l'office de tourisme, qui donne le même lieu : aucune contradiction, la règle 22 n'a pas eu à trancher. La Base Adresse Nationale ne connaît pas la place de la Rouguière ; le point publié est le centre de l'allée Louis Pasteur, l'une des deux allées qui la bordent selon la commune, dernier échelon de la règle 10. La photo est celle que l'office met sur la vignette de ce marché : une vue plongeante des étals, sans visage identifiable)
+- **Domaine du Val de Camps** (le registre ne déclare aucune enseigne et l'exploitation est immatriculée sous patronyme : le nom publié est celui que donne l'office de tourisme, seul à décrire cette ferme. L'adresse électronique que l'office publie est celle d'une entreprise **fermée** au registre ; l'entité active à la même adresse, sous un autre nom de famille, est celle qui compte pour la règle 6. Le numéro de voirie rendu par la Base Adresse Nationale et le point du registre tombent à 5 m l'un de l'autre. Quatre produits seulement, parce que l'office ne dit rien de plus que « petits fruits rouges et légumes de saison ». Aucune certification n'est revendiquée : `alimentation` et `economie` seuls)
+- **La Ferme des Galinettes** (l'établissement est à la limite de deux communes : le registre et le numéro de voirie de la Base Adresse Nationale le placent à Brignoles, mais le marqueur de l'office de tourisme, 169 m plus au sud-ouest, se retourne sur un chemin de Camps-la-Source. C'est Brignoles qui est publié, règle 17, avec le point de la Base, qui se retourne sur lui-même à 0 m. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert de mars 2015, et il faut lire la liste complète des productions pour le voir : les neuf premières lignes sont des fruits, les volailles n'apparaissent qu'ensuite — c'est le piège inverse de celui du Jardin L'Orée d'Argens, où la certification portait sur autre chose que ce qui est vendu)
+- **Domaine de la Tombarel** (deuxième fiche publiée au titre de la règle 19 : l'entreprise est **non diffusible** au registre des entreprises — nom, adresse et enseignes masqués, deux établissements ouverts et un code viticole lisibles — et le lien est fait par le SIRET que publie le registre de l'Agence Bio, à la même adresse et sous le même nom, avec un engagement Bureau Veritas de juillet 2021 portant sur les olives et l'huile d'olive brute. La Base Adresse Nationale ne numérote pas jusqu'au 2100 de la route de Nice et le contrôle inverse du marqueur de l'office ne rend rien : le point publié est ce marqueur, faute de mieux, à 310 m du centre de la voie. L'office ne connaît qu'une page Facebook, alors que le domaine a un vrai site marchand, `domainedelatombarel.com`, ouvert et vérifié : c'est lui qui est inscrit)
+- **Château des Annibals** (première fiche publiée au titre de la règle 25 : la société de négoce du domaine est fermée au registre et son certificat bio arrêté en février 2026, mais la société d'exploitation est active et engagée chez Ecocert depuis **mars 1997** — la certification n'est pas perdue, elle n'a jamais été portée par la structure fermée. Le point du registre est écarté par la règle 24, son contrôle inverse le rattachant au chemin de Peygon ; c'est le numéro de voirie de la Base Adresse Nationale pour le 649 de la route de Bras qui est publié, à 47 m du marqueur de l'office. L'huile d'olive figure dans les activités déclarées à l'office et dans les productions certifiées, mais pas sur le site du domaine, qui ne parle que de vin : elle est inscrite dans les produits, sans mention de volume. Le nom de la famille exploitante, que le site publie, n'est pas repris)
+- **Marché du samedi de Brignoles** (deuxième fiche publiée au titre de la règle 22, et première au titre de la règle 26 : la commune écrit « place du général de Gaulle, devant la médiathèque Jacques-Cestor », l'office de tourisme écrit « avenue Foch », 140 m plus à l'est. C'est la commune qui est publiée, et comme la Base Adresse Nationale ne connaît pas cette place, c'est le point de la médiathèque qu'elle nomme qui sert de repère. L'heure — 7h30 à 12h30 — et le décompte de cent quarante exposants viennent de l'office ; la commune n'en publie aucun, et la fiche le dit. Le nom et le mobile du placier, que la commune publie, ne sont pas repris)
 
-Les 188 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 193 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -844,6 +869,38 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Brignoles
+
+L'office de tourisme publie seize fiches à Brignoles, dont onze domaines viticoles. Les cinq
+publiées sont celles qui vendent de l'alimentaire ; voici ce qu'il reste et pourquoi.
+
+- **Au jardin des Lices de Signon** (18 rue Lice de Signon) : maraîcher en plein centre-ville,
+  fruits, légumes, miels, plants, avec paniers et service drive, ouvert mardi, mercredi, vendredi et
+  samedi de 8h à 12h toute l'année. La fiche la plus utile de la commune pour un visiteur sans
+  voiture, et elle est **écartée au titre de la règle 6** : aucune entité active ne lui correspond au
+  registre des entreprises, ni sous ce nom, ni sous « jardin », ni à cette adresse, où le registre
+  ne connaît qu'une copropriété et une SCI fermée. Le numéro de voirie de la Base Adresse Nationale
+  tombe pourtant à 2 m du marqueur de l'office. À reprendre dès qu'une immatriculation est trouvée :
+  tout le reste est prêt.
+- **Domaine Balcon** (319 chemin du vallon de Vaubelle) : vignoble en biodynamie, **certifié bio et
+  Demeter**, avec production de jus de raisin, céréales et cent cinquante oliviers. Fiche prête —
+  numéro de voirie de la Base Adresse Nationale, entité active au registre, certificat Certipaq
+  actif au nom du GAEC — mais le caveau n'est ouvert que sur rendez-vous et le site du domaine ne
+  vend que du vin : c'est le jus de raisin, attesté par l'office et par les productions certifiées,
+  qui justifierait le pilier `alimentation`. À intégrer au prochain passage sur Brignoles.
+- **Les Vignerons de La Provence Verte** (294 avenue Saint Jean) : cave coopérative du centre-ville,
+  ouverte du lundi au samedi, qui annonce des « produits du terroir » et des paniers garnis à côté
+  du vin. Les labels AB et HVE que l'office affiche demanderont le contrôle de la règle 21, et la
+  nature exacte des produits du terroir celui de la règle 14.
+- **Les huit autres domaines viticoles** — Château Bellini, Château La Lieue, Château La
+  Margillière, Château la Source (CALA), Domaine de Ramatuelle, Domaine La Grand Vigne, Lady L -
+  Clos du Pavillon, Les Vins J.J Breban — ne vendent que du vin selon leurs fiches. Ils porteraient
+  `economie` seul, ou `environnement` s'ils sont certifiés, au titre des règles 14 et 15 : fiches
+  faibles pour une carte qui répond à « où acheter à manger ». À reprendre seulement si un passage
+  ultérieur manque de matière alimentaire dans le secteur.
+- **Floribelle** (Mas des Quatre Paysans) : production horticole et créations florales. Hors sujet
+  au sens de MODERATION.md — ce site référence la vente alimentaire en circuit court.
 
 ### Pistes non publiées à Barjols
 
