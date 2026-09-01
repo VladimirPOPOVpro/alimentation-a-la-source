@@ -5776,5 +5776,130 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Gayolle+La+Celle",
     "image_url": "/images/marchands/domaine-de-la-gayolle.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "le-cellier-de-marius-caius",
+    "nom": "Le Cellier de Marius Caïus",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.50211,
+    "lon": 5.734193,
+    "adresse": "47 Grand'Rue, 83910 Pourrières",
+    "horaires": "Toute l'année, du mardi au samedi de 9h à 12h et de 15h30 à 19h.",
+    "produits": [
+      "Vins rosés AOP Côtes de Provence",
+      "Vins rouges et blancs AOP Côtes de Provence Cru Sainte-Victoire",
+      "Vins IGP Var",
+      "Dégustation au caveau"
+    ],
+    "description": "Cave coopérative en production depuis 1912, que l'office de tourisme comme le cellier présentent comme la plus importante du Var, certifiée Terra Vitis et Haute Valeur Environnementale. La boutique occupe un local contemporain en plein centre du village, au pied de la Sainte-Victoire ; l'office annonce aussi des sentiers vignerons et un marché tous les vendredis à 15h.",
+    "telephone": "04 98 05 12 05",
+    "site_web": "https://www.cellier-marius-caius.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cellier+de+Marius+Caius+Pourrieres",
+    "image_url": "/images/marchands/le-cellier-de-marius-caius.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-clos-la-neuve",
+    "nom": "Domaine Clos La Neuve",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.475256,
+    "lon": 5.760684,
+    "adresse": "Croisement CD6 et RN7, 83910 Pourrières",
+    "horaires": "En hiver : du mardi au samedi de 9h à 12h et de 14h à 18h. En été : du lundi au samedi de 9h30 à 19h, avec une coupure à midi que le domaine annonce à 12h et l'office de tourisme à 12h30, et une réouverture à 15h.",
+    "produits": [
+      "Vins rosés, blancs et rouges AOP Côtes de Provence",
+      "Vins AOP Côtes de Provence Cru Sainte-Victoire",
+      "Huile d'olive du domaine",
+      "Bières artisanales locales",
+      "Confiseries et spécialités de Provence"
+    ],
+    "description": "Domaine familial depuis quatre générations, quarante hectares de vignes et six hectares d'oliviers au pied du mont Aurélien, face à la Sainte-Victoire. La boutique vend les cuvées et l'huile d'olive de la propriété, mais aussi une sélection de produits locaux ; une terrasse d'été de 90 m² est adossée à la cave.",
+    "telephone": "04 94 37 33 90",
+    "site_web": "https://www.closlaneuve.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Clos+La+Neuve+Pourrieres",
+    "image_url": "/images/marchands/domaine-clos-la-neuve.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-pinchinat",
+    "nom": "Domaine de Pinchinat",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.471194,
+    "lon": 5.73041,
+    "adresse": "2680 route D6, 83910 Pourrières",
+    "horaires": "Toute l'année du lundi au vendredi de 9h à 12h et de 14h30 à 18h. Le samedi sur rendez-vous par téléphone. Fermé les jours fériés.",
+    "produits": [
+      "Vins blancs, rosés et rouges AOP Côtes de Provence",
+      "Vins IGP Var",
+      "Huile d'olive du domaine"
+    ],
+    "description": "Propriété familiale du pied de la Sainte-Victoire, dont les trente hectares de vignes sont menés en agriculture biologique depuis 1990 : le registre de l'Agence Bio porte un engagement Ecocert actif depuis février 2018. Le domaine produit aussi son huile d'olive, déclarée à ce même registre.",
+    "telephone": "04 42 29 29 92",
+    "site_web": "https://www.domainepinchinat.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Pinchinat+Pourrieres",
+    "image_url": "/images/marchands/domaine-de-pinchinat.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-saint-hubert",
+    "nom": "Domaine de Saint Hubert",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.46659,
+    "lon": 5.755582,
+    "adresse": "RD 6, quartier La Neuve, 83910 Pourrières",
+    "horaires": "Du lundi au vendredi de 9h à 18h, sur rendez-vous. Le samedi sans rendez-vous, de 10h à 19h selon le domaine, de 9h à 19h selon l'office de tourisme.",
+    "produits": [
+      "Vins rosés, blancs et rouges AOP Côtes de Provence Sainte-Victoire",
+      "Huile d'olive extra vierge du domaine",
+      "Visite du domaine avec le vigneron sur demande"
+    ],
+    "description": "Domaine à la fois viticole et oléicole installé au pied des monts Auréliens, face à la Sainte-Victoire, qui vend au caveau ses vins du cru Sainte-Victoire et l'huile d'olive de ses oliviers. La conduite est annoncée en agriculture raisonnée : le domaine ne figure pas au registre de l'Agence Bio et ne revendique aucune certification environnementale.",
+    "telephone": "06 21 14 73 82",
+    "site_web": "https://www.domaine-saint-hubert.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Hubert+Pourrieres",
+    "image_url": "/images/marchands/domaine-de-saint-hubert.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-vitori",
+    "nom": "Domaine Vitòri",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.484763,
+    "lon": 5.732295,
+    "adresse": "2820 route Nationale 7, 83910 Pourrières",
+    "horaires": "En hiver : du mardi au vendredi de 14h à 18h, le samedi de 10h à 12h et de 14h à 18h. En été : du mardi au vendredi de 15h à 19h, le samedi de 10h à 12h et de 15h à 19h.",
+    "produits": [
+      "Vins rosés, blancs et rouges AOP Côtes de Provence",
+      "Vins AOP Côtes de Provence Sainte-Victoire",
+      "Vins IGP Méditerranée",
+      "Mousseux brut rosé"
+    ],
+    "description": "Domaine familial de vingt-cinq hectares en agriculture biologique, certifié Ecocert depuis août 2019 au registre de l'Agence Bio, tenu par la quatrième génération. La boutique est attenante au chai de vinification achevé en 2021 ; l'office de tourisme y annonce également une épicerie locale salée et sucrée, dont aucun produit n'est nommé.",
+    "telephone": "06 35 28 63 64",
+    "site_web": "https://domaine-vitori.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Vitori+Pourrieres",
+    "image_url": "/images/marchands/domaine-vitori.jpg",
+    "a_confirmer": true
   }
 ]

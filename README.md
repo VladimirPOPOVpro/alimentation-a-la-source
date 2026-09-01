@@ -313,10 +313,34 @@ prioritaires en cas de conflit.
    chose : dans les deux cas, seule l'ouverture du site le montre, et le visiteur envoyé sur une page
    de location de gîtes pour acheter du safran est perdu de la même façon. Un réseau social ne
    remplace pas le champ : il reste vide, et la description dit où l'on achète.
+34. **Le contrôle inverse ne rend rien du tout.** Les règles 24 et 27 supposent que le contrôle
+   inverse rend une adresse à comparer. Au Domaine de Saint Hubert, à Pourrières, le marqueur de
+   l'office tombe dans une zone où la Base Adresse Nationale ne connaît aucune adresse : la requête
+   inverse revient vide, deux fois, à deux rayons différents. Un point qu'on ne peut pas contrôler
+   n'est pas un point faux, mais il n'est pas non plus un point vérifié. Tranché ainsi : **quand le
+   contrôle inverse ne rend aucune adresse, l'échelon ne peut pas être validé et l'on descend d'un
+   cran, exactement comme s'il rendait une autre voie** ; si tous les échelons restants sont dans ce
+   cas, on prend le centre de la voie et la fiche le dit. Ici c'est l'échelon du registre qui a été
+   pris — celui de la société de vente, règle 7 — dont le contrôle inverse rend, lui, le lieu-dit
+   « Quartier La Neuve » à 72 m : un lieu-dit n'est pas une voie contradictoire, il ne disqualifie
+   donc pas l'échelon, il le laisse seulement moins précis qu'un numéro.
+35. **Le commerçant publie ses coordonnées et un numéro de voirie qui ne s'accordent pas.** Le
+   Domaine du Vallon Noir, à Pourrières, écrit sur son site « 9 route de Pourcieux » et, juste
+   au-dessus, « GPS 43.4998645, 5.7385325 ». Le contrôle inverse de ces coordonnées rend le « 435
+   route de Pourcieux » à 17 m : la bonne voie, mais 426 d'écart dans une numérotation métrique, ce
+   que la règle 27 sanctionne d'ordinaire. Sauf que la Base Adresse Nationale ne connaît sur cette
+   route qu'**un seul** numéro, le 435 : ni le 9, ni le 100, ni le 800 n'y existent. Tranché ainsi :
+   **avant d'appliquer l'écart de 300 au marqueur que le commerçant publie lui-même, on vérifie que
+   la BAN connaît le numéro publié ; si elle ne le connaît pas et que le contrôle inverse tombe sur
+   le seul numéro que la voie possède, c'est le marqueur qui est retenu et l'écart se consigne**. La
+   règle 27 a été écrite pour des points de tiers — registre, office — que rien n'oblige à viser
+   juste ; des coordonnées que le commerçant publie sous « nous sommes situés ici » sont, elles, une
+   consigne d'arrivée. Cela débloque la fiche du Vallon Noir, au point 43.499865 / 5.738533, pour le
+   prochain passage sur Pourrières.
 
 ## Marchands à confirmer
 
-189 fiches sur 223 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+194 fiches sur 228 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -507,8 +531,13 @@ prioritaires en cas de conflit.
 - **La Safranière du Mirandolier** (première fiche publiée au titre de la règle 33 : le site que donne l'office, `lesecuriesdumirandolier.com`, est celui d'une entreprise de locations de meublés de tourisme, pas de la safranière — le champ `site_web` reste vide. L'exploitation est immatriculée sous le patronyme de son exploitante, avec « LA SAFRANIERE DU MIRANDOLIER » en enseigne déclarée : c'est l'enseigne qui est publiée. L'adresse vient du registre de l'Agence Bio, « 562 allée du Safran », la seule des sources à donner une voie numérotée ; l'office n'écrit que le nom du lieu-dit. Le numéro existe dans la Base Adresse Nationale avec un score de 0,96 : premier barreau de la règle 10, il l'emporte sur le marqueur de l'office, à 210 m. Les tarifs qu'affiche l'office, de 5 à 40 €, ne sont pas repris. Photo prise à l'office, un plateau de stigmates : quatre de ses six photos montrent des visages)
 - **Les Jardins d'Amishku** (point pris au **centre de voie** : le marqueur de l'office se rattache bien au chemin de la Blanque mais au numéro 1200, quand l'adresse publiée est le 408 — écart de 792 dans la numérotation métrique, au-delà du seuil de la règle 27 — et le point du registre tombe chemin de Muscapeau, une autre voie, écarté par la règle 24. Le pilier `environnement` tient à un engagement Certipaq Bio actif depuis octobre 2020. L'exploitation est immatriculée sous le patronyme de son exploitante, avec « LES JARDINS D'AMISHKU » en enseigne déclarée. Photo prise à l'office, l'unique de la fiche : les cinq images du site sont un logo, un panneau, une photo de feuillage et un portrait)
 - **Domaine de la Gayolle** (fiche débloquée par la règle 28, cinquième du groupe de Tourves alors qu'elle est à La Celle, à sept kilomètres et demi. Horaires contredits : le domaine annonce sur son site 9h-12h et 14h-18h, l'office 9h-12h et 13h-17h — les deux sont publiés et attribués. Téléphones contredits aussi : l'office donne le 04 94 69 03 91, le site le 09 66 81 18 28 — c'est le numéro du caveau, celui de l'office, qui est publié. Pas de pilier `alimentation` : le registre bio déclare des pistaches, mais la boutique ne référence que des cuvées, règle 31. Le pilier `environnement` tient à un engagement Ocacia actif depuis avril 2021 et à la HVE que le domaine revendique sur son propre site, règle 21. Photo : l'`og:image` du domaine, l'intérieur du caveau)
+- **Le Cellier de Marius Caïus** (le pilier `environnement` vient du cellier lui-même, qui écrit « certifié Terra Vitis et Haute Valeur Environnementale », règle 21 ; le registre de l'Agence Bio porte en plus un engagement Ecocert ouvert le 24 juin 2025 sur le SIRET du cellier, trop récent pour être décrit comme une conversion aboutie et donc non mentionné dans la fiche. Pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. Horaires identiques à l'office et sur le site — le « du mardi au samedi de 9h à 19h » du pied de page est la plage de réponse du service clients, pas celle de la boutique. Deux numéros publiés des deux côtés, c'est le 04 98 05 12 05 qui est retenu. Numéro de la Base Adresse Nationale à 0 m, point du registre à 55 m : premier échelon de la règle 10. Le marché du vendredi qu'annonce l'office est cité dans la description, pas inscrit comme fiche, règle 16)
+- **Domaine Clos La Neuve** (horaires contredits sur la coupure de midi en été : le domaine annonce 12h, l'office 12h30 — les deux sont publiés et attribués ; le reste concorde. Pilier `alimentation` accordé : la boutique nomme l'huile d'olive du domaine, des bières artisanales et des confiseries, règle 31. Pas de pilier `environnement` : le domaine ne figure pas au registre de l'Agence Bio et n'affiche aucun label, règle 15. Aucun point exploitable ailleurs — la Base Adresse Nationale ne connaît pas le « croisement CD6 et RN7 », le registre ne donne aucune coordonnée à l'adresse de lieu-dit « La Neuve », le site ne publie ni carte ni GPS : c'est le marqueur de l'office qui est publié, quatrième échelon de la règle 10, et son contrôle inverse le rattache au « 67 route D6 » à 36 m, l'une des deux voies que nomme l'adresse. Une société de restauration a été immatriculée à « Domaine Clos La Neuve route de Trets » puis fermée : ce point, à trois kilomètres, n'a pas été retenu)
+- **Domaine de Pinchinat** (les trois sources s'accordent à moins de 50 m — numéro « 2680 route D6 » dans la Base Adresse Nationale, point du registre à 9 m, marqueur de l'office à 40 m — cas rare qui vaut d'être noté. Cinq sociétés partagent l'adresse ; c'est celle qui porte le code de commerce de détail de boissons qui donne le point, règle 7. Pilier `alimentation` accordé sur l'huile d'olive, que l'office range en « Huiles, épices et condiments » et que le registre de l'Agence Bio confirme en production, règle 31. Pilier `environnement` sur un engagement Ecocert actif depuis février 2018 ; le « depuis 1990 » que revendique le site est plus ancien que ce que le registre peut prouver, et la fiche l'attribue au domaine. Le site est une vitrine de six cents caractères : les horaires viennent de l'office, seul à en publier. Le nom du dirigeant, que l'office donne, n'est pas repris)
+- **Domaine de Saint Hubert** (première fiche publiée au titre de la règle 34 : le contrôle inverse du marqueur de l'office revient **vide**, deux fois — il n'y a aucune adresse connue de la Base Adresse Nationale autour de ce point — et c'est le point du registre qui est publié, celui de la société de vente en gros, règle 7. Horaires contredits le samedi : le domaine annonce 10h-19h sans rendez-vous, l'office 9h-19h — les deux sont publiés et attribués. Pas de pilier `environnement` : « agriculture raisonnée » n'est pas une certification et une recherche au registre de l'Agence Bio ne rend rien, règle 15. L'appellation de l'huile est contredite à l'intérieur même de la fiche de l'office, dont le texte écrit « AOP d'Aix-en-Provence » et le bloc labels « AOP Huile d'olive de Provence » : aucune des deux n'est publiée, l'huile est inscrite sans appellation. Le patronyme de la famille exploitante, que l'office publie, n'est pas repris)
+- **Domaine Vitòri** (pas de pilier `alimentation` bien que l'office annonce une « épicerie locale salée et sucrée » : aucun produit n'y est nommé et la boutique en ligne ne référence que des vins — c'est exactement le cas du Cellier de la Sainte-Baume, règle 31, et la mention reste dans la description attribuée à l'office. Pilier `environnement` sur un engagement Ecocert actif depuis août 2019. Horaires pris sur le site, qui donne un régime hiver/été précis quand l'office se contente de « du mardi au samedi ». Numéro « 2820 » de la Base Adresse Nationale à 0 m, contre un marqueur d'office à 145 m au « 3000 » de la même voie et un point de registre dont le contrôle inverse ne rend rien : premier échelon de la règle 10. Le siège déclaré à l'Agence Bio, « 4251 RN7 », est celui de l'exploitation, pas de la boutique)
 
-Les 223 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 228 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -986,6 +1015,39 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Pourrières
+
+L'office de tourisme Provence Verte & Verdon publie neuf fiches « Vins et Terroir » à Pourrières —
+le sitemap du site les donne toutes, les pages de liste étant filtrées côté navigateur et
+inexploitables au curl. Cinq sont publiées, choisies sur la précision des horaires et la solidité du
+point. Voici les quatre autres.
+
+- **Le Domaine du Vallon Noir** est la piste la plus mûre : domaine familial depuis 1972, quinze
+  parcelles en agriculture biologique depuis 1994, engagement Ecocert actif depuis avril 2021 au
+  registre de l'Agence Bio, trente-cinq ruches et des oliviers. Deux choses l'ont écartée cette
+  passe, et la règle 35 en règle une : son site publie une adresse (« 9 route de Pourcieux ») et des
+  coordonnées GPS qui ne s'accordent pas — **le point est désormais tranché, ce sont les coordonnées
+  du domaine, 43.499865 / 5.738533**. Reste que ni le domaine ni l'office ne publient d'heures
+  d'ouverture, seulement « toute l'année du lundi au samedi » : la fiche se publiera en le disant,
+  comme celle du Domaine du Baguier. Pas de pilier `alimentation` : le miel et l'huile sont annoncés
+  comme des « produits d'exception » sans qu'aucun ne soit nommé à la vente, et la fiche de l'office
+  ne range le domaine que sous « Vins », règle 31. **À intégrer au prochain passage sur la commune.**
+- **Le Château de Roquefeuille** est vérifiable — 200 hectares dont 110 de vignes, label Agriculture
+  biologique à l'office, horaires précis — mais sa fiche d'office décrit d'abord un lieu de
+  réception avec salle, lodges et dîners-concerts. Le caveau existe ; la part de vente en circuit
+  court dans l'ensemble reste à établir avant de l'inscrire.
+- **Le Domaine de Jacourette** n'ouvre que « toute l'année sur rendez-vous », sans aucune plage
+  horaire, et son unique certification affichée est la HVE, portée par l'office et non par le
+  domaine : la règle 21 refuse alors le pilier `environnement`. Une fiche sans horaire et sans
+  pilier autre qu'`economie` attendra une source de première main.
+- **AM Beers** est un brewpub : bières brassées et servies sur place, billard, fléchettes, jeux
+  vidéo. L'office renvoie pour les horaires à une fiche Google My Business — « jours d'ouverture et
+  horaires variables » — donc rien de publiable, et l'objet relève de la restauration-débit de
+  boissons plutôt que de la vente alimentaire en circuit court. Écarté deux fois.
+- **Le marché de Pourrières** n'a pas été instruit : l'office annonce, sur la fiche du Cellier de
+  Marius Caïus, « un marché tous les vendredis à 15h », mais aucune source communale n'en donne le
+  lieu ni les exposants — règle 16, un marché ne se publie pas sur la foi d'une mention indirecte.
 
 ### Pistes non publiées à Tourves
 
