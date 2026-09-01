@@ -279,11 +279,15 @@ prioritaires en cas de conflit.
    production au registre bio ne suffit pas à accorder le pilier `alimentation` ; il faut que le
    produit soit offert à la vente sur le site du commerce, sur sa fiche d'office de tourisme ou dans
    sa boutique en ligne**. Une olive récoltée peut partir au moulin d'un tiers et ne jamais revenir
-   au caveau : le registre prouve la culture, pas le comptoir.
+   au caveau : le registre prouve la culture, pas le comptoir. Précision ajoutée après Le Cellier de
+   la Sainte-Baume, qui annonce « de nombreux produits régionaux » sans en nommer un seul : **une
+   catégorie sans produit nommable ne vaut pas offre**, sinon la fiche listerait un produit que
+   personne n'a vu. La mention reste alors dans la description, attribuée à sa source, et le pilier
+   n'est pas coché.
 
 ## Marchands à confirmer
 
-174 fiches sur 208 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+179 fiches sur 213 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -459,8 +463,13 @@ prioritaires en cas de conflit.
 - **Domaine du Baguier** (aucun horaire précis nulle part : l'office annonce « du mercredi au dimanche » sans heures et le site du groupe n'en donne aucune — c'est écrit tel quel dans la fiche. Seule des cinq à disposer d'un numéro dans la Base Adresse Nationale, à 0 m du point publié. L'huile d'olive est attribuée au **Clos Maguise**, l'autre domaine du groupe, et non au Baguier : l'office écrivait « du domaine », la boutique du groupe tranche. Le restaurant et les chambres d'hôtes ne sont mentionnés que dans la description, la fiche restant celle d'un caveau)
 - **Domaine Baussanne** (première fiche publiée au titre de la règle 30 : adresse de visite route de Brignoles, siège chemin de Lamanon à 1,4 km, et l'identification au registre passe par les CGV du site, qui donnent la raison sociale et le numéro RCS. Le point publié est celui de l'office, le point du registre étant celui du siège. La certification Ecocert est active depuis avril 2021 ; l'ancien certificat Bureau Veritas est arrêté **le jour même** de l'engagement suivant, ce qui est un transfert d'organisme et non un arrêt, règle 25. Les 300 hectares et les horaires viennent de l'office seul ; le domaine n'en publie aucun)
 - **Cave La Roquière** (pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. L'année de fondation, 1925, vient de l'office de tourisme ; le site de la cave ne la donne pas et remonte à une ferme gallo-romaine de 46 avant notre ère, ce qui n'est pas la même chose. Le pilier `environnement` s'appuie sur trois sources concordantes : la cave écrit « une culture des vignes exclusivement en agriculture biologique » et revendique la HVE, l'office affiche les deux, et le registre de l'Agence Bio porte un engagement Bureau Veritas de décembre 2013 à l'adresse du caveau)
+- **La Ferme de Manon** (aucun site : la ferme ne communique que par ses pages Facebook et Instagram, et le champ `site_web` reste vide plutôt que de pointer sur un réseau social. Pas de pilier `environnement` : la ferme ne figure pas au registre de l'Agence Bio et l'office n'affiche aucun label, seulement un « élevage respectueux » qui n'est pas une certification, règle 15. Trois points étaient candidats sur 300 mètres de la route de Rougiers — numéro de la Base Adresse Nationale, siège au registre, marqueur de l'office : c'est le numéro qui l'emporte, règle 10, et le contrôle inverse le rend à 0 m. Les prénoms de la famille, que l'office publie, ne sont pas repris)
+- **Provence Bio** (le label bio de l'office est **périmé** : le registre de l'Agence Bio donne la certification Ecocert arrêtée depuis le 18 novembre 2022 pour le SIRET de l'exploitation. Pas de pilier `environnement`, et la description le dit noir sur blanc — c'est le même piège que la Ferme de la Grivoisière, règle 25. L'enseigne publiée est celle de l'office ; l'exploitation est immatriculée sous le patronyme de son exploitant, que la modération interdit de publier comme une enseigne. Le siège déclaré au registre est à cinq kilomètres et demi, au quartier des Paluns : c'est l'adresse de visite que publie l'office qui est retenue, règle 30, et le marqueur de l'office qui donne le point, la Base Adresse Nationale ne numérotant pas l'allée des Bastides. Photo : la seule que publie l'office, une image thématique de légumes qu'elle crédite à un tiers)
+- **Le Cellier de la Sainte-Baume** (pas de pilier `alimentation` : la cave annonce « de nombreux produits régionaux » sans en nommer un seul, cas qui a servi à préciser la règle 31. Le pilier `environnement` ne vient pas de l'office, dont le texte écrit « HVE et **prochainement** BIO » alors que son bloc labels affiche déjà « Agriculture biologique » : c'est le registre de l'Agence Bio, qui porte un engagement Ecocert actif depuis janvier 2019 sur le SIRET de la cave, qui tranche, règle 21. Le point du registre tombe au « 51 chemin des Bas Rouges », une autre voie que la route de Barjols publiée : il est écarté par la règle 24 au profit du marqueur de l'office, qui se rattache lui au « 134 route de Barjols » à 120 m. Aucun site : l'office annonce une vente par correspondance sans en donner l'adresse, et aucun domaine plausible ne répond)
+- **Domaine du Deffends** (horaires contredits : le domaine annonce sur son site une ouverture du lundi au samedi toute l'année, l'office un régime saisonnier qui ferme le samedi de novembre à mars — les deux sont publiés et attribués. Pas de pilier `alimentation` bien que le registre de l'Agence Bio porte « huile d'olive, brute » : aucune huile n'est proposée à la vente sur le site ni sur la fiche de l'office, règle 31. Photo prise à l'office : l'unique `og:image` du site est un logo)
+- **Domaine Saint Jean le Vieux** (le pilier `environnement` tient parce que le domaine revendique lui-même la Haute Valeur Environnementale et le label Terra Vitis sur sa page « Le Domaine » — l'office les affiche aussi, mais seul l'aveu du producteur suffisait, règle 21. Le siège au registre est route de Bras, à 1,3 km : c'est le caveau du 317 avenue du Huit Mai 1945, numéroté dans la Base Adresse Nationale, qui est publié, règle 30. Les prix que publie l'office, de 5,30 à 11,20 €, ne correspondent plus à ceux de la boutique du domaine : aucun prix n'est repris)
 
-Les 208 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 213 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -938,6 +947,41 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Saint-Maximin-la-Sainte-Baume
+
+L'office de tourisme Provence Verte & Verdon publie dix fiches à Saint-Maximin, et le registre de
+l'Agence Bio y compte trente-sept opérateurs. Les cinq publiées sont celles qui couvrent le plus de
+familles de produits : une ferme laitière, un maraîcher, une cave coopérative et deux domaines. Voici
+ce qu'il reste.
+
+- **Cinq domaines viticoles à reprendre au prochain passage** : le **Vignoble Arnaud** (quartier Les
+  Suies, HVE annoncée par l'office, horaires précis, médailles au Concours général agricole), le
+  **Domaine Saint Mitre** (1782 chemin de Saint Mitre, HVE, 35 hectares), le **Domaine de la
+  Batelière** (25 hectares, vin **et huile d'olive**, HVE, sur rendez-vous), le **Domaine Julianna**
+  (3408 route de Rougiers, bio, sur rendez-vous) et le **Domaine de la Martelle** (2450 route de
+  Nice, bio à l'Agence Bio, pommes et truffes en plus du raisin, sans fiche à l'office). Tous ont une
+  source de premier rang ; aucun n'a été vérifié en détail cette passe.
+- **Fabrikabul**, brasserie artisanale du 82 boulevard Rey, **n'a pas été publiée** : aucune entité
+  active ne lui correspond au registre des entreprises — ni sous ce nom, ni sous le code 11.05Z dans
+  la commune, ni à son adresse — et son site `fabrikabul.beer` n'est qu'une devanture servie par la
+  plateforme partagée `easybeer.shop`, sans mentions légales propres et sans HTTPS qui réponde. La
+  règle 6 n'est pas satisfaite. C'était pourtant la seule bière de la commune : à reprendre dès
+  qu'une immatriculation apparaît.
+- **Les trois marchés de Saint-Maximin** — mercredi (120 exposants), samedi (10) et dimanche (5)
+  d'après l'office — ne sont **pas publiés** : le site de la commune ne comporte aucune page sur son
+  marché alimentaire, son plan de site n'en connaît qu'une sur les « marchés publics », et l'office
+  ne donne ni lieu ni horaire. C'est exactement le cas de la règle 16.
+- **Une quinzaine d'exploitations certifiées bio sans enseigne ni point de vente annoncé** figurent
+  au registre de l'Agence Bio sous le patronyme de leur exploitant, dont sept au seul 3408 route de
+  Rougiers : la modération interdit de publier le patronyme d'un exploitant en entreprise
+  individuelle comme s'il s'agissait d'une enseigne.
+- **De la Graine à l'Assiette Bio** (256 rue des Poilus) et **Les Jardins de Carrawam** (150 chemin
+  de Brandine) sont deux maraîchages certifiés bio, le second avec des œufs et du raisin de table.
+  Aucun des deux n'a de fiche à l'office, de site ou d'horaire publié : deux pistes solides, rien à
+  inscrire tant qu'une source ne paraît pas.
+- **La Vie Claire** et les grandes surfaces de la commune sont référencées bio à l'Agence Bio : ce
+  sont des enseignes de distribution, hors sujet pour une carte de la vente en circuit court.
 
 ### Pistes non publiées à La Roquebrussanne
 

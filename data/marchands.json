@@ -5374,5 +5374,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Baussanne+La+Roquebrussanne",
     "image_url": "/images/marchands/domaine-baussanne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-manon",
+    "nom": "La Ferme de Manon",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.418549,
+    "lon": 5.855303,
+    "adresse": "2081 route de Rougiers, 83470 Saint-Maximin-la-Sainte-Baume",
+    "horaires": "Toute l'année : lundi et mercredi de 9h à 12h, jeudi de 16h30 à 18h30, samedi de 8h30 à 12h. Fermé les 1er janvier et 15 août.",
+    "produits": [
+      "Lait cru entier",
+      "Yaourts, crème, beurre et faisselles",
+      "Fromage frais et tommes",
+      "Glaces artisanales",
+      "Viande de porc, de veau et de bœuf",
+      "Charcuterie : jambon cuit, saucisson, terrine",
+      "Œufs de poules élevées en liberté",
+      "Volailles de fin d'année : chapons, dindes, oies, canards"
+    ],
+    "description": "Ferme d'élevage familiale à mi-chemin de Saint-Maximin et de Rougiers, où poules, vaches, cochons et moutons vivent en plein air. Le lait cru est transformé sur place en yaourts, fromages et glaces, et la viande travaillée dans les ateliers de la ferme. Sa tomme a obtenu une médaille d'or au concours des fromages de la Foire de Brignoles en 2025.",
+    "telephone": "07 71 27 59 69",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+de+Manon+Saint-Maximin-la-Sainte-Baume",
+    "image_url": "/images/marchands/la-ferme-de-manon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "provence-bio",
+    "nom": "Provence Bio",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.44748,
+    "lon": 5.851003,
+    "adresse": "125 allée des Bastides, 83470 Saint-Maximin-la-Sainte-Baume",
+    "horaires": "Du 1er mai au 30 novembre, uniquement sur rendez-vous. L'exploitation tient aussi un étal le mercredi matin au marché de Saint-Maximin-la-Sainte-Baume.",
+    "produits": [
+      "Légumes de saison de plein champ",
+      "Courges et citrouilles",
+      "Légumes racines et à bulbes",
+      "Pommes de table et fruits d'arbres",
+      "Plantes aromatiques",
+      "Confitures, compotes et purées de fruits",
+      "Paniers de légumes sur réservation"
+    ],
+    "description": "Maraîchage de plein champ installé au creux de la campagne face à Seillons-Source-d'Argens, sur une terre limoneuse, qui cultive légumes et fruits depuis plus de vingt ans. La vente se fait en paniers sur réservation et au marché du mercredi. L'office de tourisme affiche le label Agriculture biologique, mais la certification Ecocert enregistrée à l'Agence Bio est arrêtée depuis novembre 2022.",
+    "telephone": "06 95 39 83 65",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Provence+Bio+Saint-Maximin-la-Sainte-Baume",
+    "image_url": "/images/marchands/provence-bio.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-cellier-de-la-sainte-baume",
+    "nom": "Le Cellier de la Sainte-Baume",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.463081,
+    "lon": 5.86615,
+    "adresse": "Route de Barjols, 83470 Saint-Maximin-la-Sainte-Baume",
+    "horaires": "Toute l'année : lundi de 9h à 12h et de 14h30 à 18h ; du mardi au samedi de 8h30 à 12h et de 14h30 à 18h ; dimanche de 8h30 à 12h. Fermé les 1er janvier, 1er mai et 25 décembre.",
+    "produits": [
+      "Vins AOP Coteaux Varois en Provence",
+      "Vins IGP Sainte-Baume",
+      "Vins IGP Var",
+      "Rosés, rouges et blancs de la cave",
+      "Produits régionaux"
+    ],
+    "description": "Cave coopérative qui réunit une soixantaine de vignerons répartis dans un rayon de quinze kilomètres autour de Saint-Maximin. Le caveau, en bordure de la route de Barjols, assure la dégustation et la vente et annonce également des produits régionaux. La cave est engagée en agriculture biologique auprès d'Ecocert depuis janvier 2019 d'après le registre de l'Agence Bio.",
+    "telephone": "04 94 78 03 97",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cellier+de+la+Sainte+Baume+Saint-Maximin",
+    "image_url": "/images/marchands/le-cellier-de-la-sainte-baume.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-deffends",
+    "nom": "Domaine du Deffends",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.446837,
+    "lon": 5.833832,
+    "adresse": "2020 chemin du Deffends, 83470 Saint-Maximin-la-Sainte-Baume",
+    "horaires": "Le domaine annonce sur son site une ouverture du lundi au samedi de 10h à 12h et de 15h à 18h. L'office de tourisme publie des horaires saisonniers : d'avril à octobre et en décembre du lundi au samedi de 10h à 12h et de 15h à 18h ; en novembre et de janvier à mars du lundi au vendredi seulement, aux mêmes heures. Fermé les dimanches et jours fériés.",
+    "produits": [
+      "Ispahan, rosé sans levure ni sulfites et non filtré",
+      "Rosé des Filles et Nuits Roses",
+      "Champ du Sesterce, blanc",
+      "Viognier de Jacques, blanc",
+      "Marie Liesse, rouge",
+      "Champs de la Truffière et Champs du Bécassier, rouges",
+      "Les Pointes du Deffends, rouge de syrah"
+    ],
+    "description": "Petit domaine familial de quinze hectares au pied de la Sainte-Baume, entièrement conduit en agriculture biologique certifiée Ecocert, dont les parcelles sont cernées par la forêt. Le caveau reçoit pour la dégustation et le domaine propose visites du vignoble, ateliers et, l'été, des soirées musicales au milieu des vignes.",
+    "telephone": "04 94 78 03 91",
+    "site_web": "https://www.deffends.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Deffends+Saint-Maximin",
+    "image_url": "/images/marchands/domaine-du-deffends.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-saint-jean-le-vieux",
+    "nom": "Domaine Saint Jean le Vieux",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.452942,
+    "lon": 5.871422,
+    "adresse": "317 avenue du Huit Mai 1945, 83470 Saint-Maximin-la-Sainte-Baume",
+    "horaires": "Du lundi au samedi de 8h à 12h30 et de 14h à 19h. Fermé les dimanches et jours fériés.",
+    "produits": [
+      "La Grand'Bastide rouge, rosé et blanc",
+      "Le Petit Jas rouge et rosé",
+      "Fausta rouge et rosé",
+      "Chardonnay blanc IGP Var Sainte-Baume",
+      "Vins AOP Coteaux Varois en Provence"
+    ],
+    "description": "Domaine familial de soixante-cinq hectares dont les parcelles, réparties entre Saint-Maximin, Tourves et Ollières, sont plantées entre 300 et 420 mètres d'altitude ; la même famille y est vigneronne depuis 1660 et a créé la cave en 1977. Le domaine revendique sur son site la certification Haute Valeur Environnementale et le label Terra Vitis. Vente au caveau six jours sur sept.",
+    "telephone": "04 94 59 77 59",
+    "site_web": "https://saintjeanlevieux.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Jean+le+Vieux+Saint-Maximin",
+    "image_url": "/images/marchands/domaine-saint-jean-le-vieux.jpg",
+    "a_confirmer": true
   }
 ]
