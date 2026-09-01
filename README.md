@@ -247,10 +247,22 @@ prioritaires en cas de conflit.
    tient le Domaine Fontainebleau, et dont la cave coopérative était la seule fiche de l'office.
    Ce qui reste interdit, c'est d'aller chercher la cinquième à l'autre bout du département : cinq
    fiches voisines rendent une zone utilisable, cinq fiches éparpillées ne servent à personne.
+29. **Une ferme qui dit elle-même revendre plus qu'elle ne produit.** La Ferme de la Grivoisière
+   écrit sur son propre site : « pour le moment nous faisons principalement de l'achat revente et
+   nous travaillons avec des producteurs locaux pour certains produits », en annonçant une
+   installation en maraîchage pour l'année suivante — alors que l'office de tourisme la présente en
+   « maraîchage, vente d'œufs ». La modération écarte les commerces généralistes, mais un point de
+   vente à la ferme qui écoule la production de producteurs locaux n'en est pas un. Tranché ainsi :
+   **la fiche reste en `ferme` quand une immatriculation agricole active existe à l'adresse et
+   qu'au moins un produit sort de l'exploitation elle-même, et la description dit noir sur blanc ce
+   qui est revendu**. En dessous — aucune production propre, ou un assortiment d'épicerie sans
+   producteurs identifiés — c'est un commerce généraliste et la fiche ne se publie pas. C'est le
+   pendant de la règle 8, qui traite le point de vente collectif : ici le comptoir est celui d'une
+   ferme, et c'est la part de sa propre production qui est en jeu, pas son appartenance au groupe.
 
 ## Marchands à confirmer
 
-164 fiches sur 198 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+169 fiches sur 203 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -416,8 +428,13 @@ prioritaires en cas de conflit.
 - **Les Vignerons de Correns - caveau du Val** (deuxième caveau d'une coopérative déjà publiée à Correns, comme la Guilde des Vignerons l'est au Cannet-des-Maures et au Thoronet. Le point du registre a été écarté par la règle 24 bien qu'il ne soit qu'à 123 m du marqueur de l'office : le contrôle inverse le rattache à la rue du Onze-Novembre-1918, alors que le registre déclare lui-même « rue de la République » et que le marqueur de l'office se retourne sur le « 56 rue de la République » à 32 m. Le seuil de 300 m rend le contrôle obligatoire, il ne l'interdit pas en deçà. Les horaires d'été viennent de la coopérative, ceux d'hiver de l'office, qui est seul à en publier pour ce caveau ; le pilier `environnement` s'appuie sur la règle 18, l'Hôtel des Vins figurant parmi les adresses déclarées par la société de vente au registre de l'Agence Bio)
 - **Potagers & Compagnie** (deuxième fiche publiée au titre de la règle 19 : l'entreprise est **non diffusible** au registre des entreprises — nom, adresse et enseignes masqués, un établissement ouvert — et le lien est fait par le SIRET que publie le registre de l'Agence Bio, au 580 chemin de Saint-Georges, engagement Ecocert de février 2020. Le site officiel est une application JavaScript dont le HTML servi est vide : il a fallu l'ouvrir dans un navigateur pour le lire. Les horaires de l'office — « du 1er avril au 31 janvier, du lundi au vendredi » — ne recoupent pas ce qu'écrit la ferme, qui fait retirer les paniers le jeudi ; les deux sont publiés et attribués. Le pilier `social` s'appuie sur l'agrément Entreprise Solidaire d'Utilité Sociale, que l'office et la ferme affichent tous deux)
 - **Les Caves du Commandeur** (seule fiche du groupe à Montfort-sur-Argens, publiée au titre de la règle 28. Pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. Les horaires de la cave et ceux de l'office divergent sur la saison basse — 15h-19h contre 14h30-18h30 — et les deux sont publiés et attribués. Le nom de domaine `caves-du-commandeur.fr`, que publie l'office, redirige vers `caves-du-commandeur.com` : c'est l'adresse effective qui est inscrite. Le pilier `environnement` s'appuie sur deux sources concordantes, la HVE que la cave revendique depuis le millésime 2019 et l'engagement Ecocert de juillet 2015 au registre de l'Agence Bio, à l'adresse même du caveau)
+- **Fromagerie des Vallons** (l'office de tourisme et le registre de l'Agence Bio s'accordent : label AB affiché à l'office, engagement Bureau Veritas de février 2003 portant sur les chèvres, le lait de chèvre brut et les fromages. Le registre des entreprises connaît l'exploitation sous l'enseigne « EARL Les Vallons » et non sous le nom de sa fromagerie : c'est le nom commercial que publie l'office qui est retenu, l'entité étant active à l'adresse exacte. Aucun site web : `lesvallons.org`, que l'adresse électronique de l'office laisse deviner, ne répond pas. Le champ `site_web` reste vide plutôt que de pointer sur un domaine mort)
+- **La Ferme de la Grivoisière** (première fiche publiée au titre de la règle 29 : la ferme écrit elle-même faire pour l'instant surtout de l'achat-revente, et la description le dit. Pas de pilier `environnement` : la certification bio Certipaq de l'ancienne EARL est **arrêtée depuis avril 2022**, et la société qui exploite aujourd'hui, immatriculée en janvier 2026, n'en porte aucune — c'est le même piège que le label bio survivant d'un office de tourisme, mais dans l'autre sens. Horaires : ceux d'été viennent de la ferme, ceux du reste de l'année de l'office, seul à en publier, et les deux sont attribués)
+- **Le Rucher l'Or de la Loube** (le registre des entreprises porte bien l'enseigne « Le Rucher l'Or de la Loube » à l'adresse publiée : c'est elle qui est inscrite, pas le patronyme de l'apiculteur, que l'office donne. Pas de pilier `environnement` : le micro-rucher et la démarche éco-responsable que décrit l'office ne sont pas une certification vérifiable, règle 15. Les sept miels listés viennent du texte de l'office, pas des étiquettes de la photo)
+- **La Tarente** (le nom commercial n'existe pas dans le champ « enseigne » du registre, mais l'entreprise agricole du producteur, active, y déclare un **deuxième établissement** dont l'adresse est littéralement « LA TARENTE CHEMIN DU LOOU » : la règle 6 est satisfaite par l'adresse. C'est le point de ce deuxième établissement qui est publié, le chemin du Loou n'étant pas numéroté dans la Base Adresse Nationale à cet endroit. Le contrôle inverse le rattache au « 262 chemin du Loou » à 23 m, et celui du marqueur de l'office au « 1100 chemin du Loou » à 13 m : les deux candidats sont sur la même voie, à 780 m l'un de l'autre, et l'échelle de la règle 10 fait passer le registre devant. La vente se faisant sur rendez-vous, l'écart ne fait perdre personne. Le nom du producteur, que l'office publie, n'est pas repris)
+- **Cave La Roquière** (pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. L'année de fondation, 1925, vient de l'office de tourisme ; le site de la cave ne la donne pas et remonte à une ferme gallo-romaine de 46 avant notre ère, ce qui n'est pas la même chose. Le pilier `environnement` s'appuie sur trois sources concordantes : la cave écrit « une culture des vignes exclusivement en agriculture biologique » et revendique la HVE, l'office affiche les deux, et le registre de l'Agence Bio porte un engagement Bureau Veritas de décembre 2013 à l'adresse du caveau)
 
-Les 198 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 203 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -895,6 +912,33 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à La Roquebrussanne
+
+L'office de tourisme Provence Verte & Verdon publie dix fiches à La Roquebrussanne, et le registre de
+l'Agence Bio y compte quarante-sept opérateurs — la commune la plus dense rencontrée jusqu'ici. Les
+cinq publiées sont celles qui couvrent le plus de familles de produits ; voici ce qu'il reste.
+
+- **Cinq domaines viticoles à reprendre au prochain passage** : le **Domaine du Loou** (bio Ecocert
+  depuis avril 2007, olives et vins), le **Domaine des Terres Promises** (Ecocert depuis 2015, et une
+  seconde société du même domaine engagée depuis 2008 pour les olives, les pistaches et les truffes),
+  le **Domaine La Rose des Vents** (EARL Baude, Ecocert depuis **octobre 2000**, olives et vins), le
+  **Domaine du Baguier** (Ecocert depuis septembre 2021, olives et conserves de fruits et légumes) et
+  le **Domaine Baussanne**. Tous ont une fiche à l'office ; aucun n'a été vérifié en détail cette
+  passe. Les quatre premiers produisent aussi de l'huile d'olive ou des conserves d'après le registre
+  bio, ce qui leur donnerait le pilier `alimentation` que la règle 14 refuse aux domaines qui ne font
+  que du vin.
+- **Une dizaine de vignerons certifiés bio sans enseigne ni caveau annoncé** figurent au registre de
+  l'Agence Bio sous le nom de leur exploitant : la modération interdit de publier le patronyme d'un
+  exploitant en entreprise individuelle comme s'il s'agissait d'une enseigne, et rien ne dit qu'ils
+  vendent au public.
+- **Deux autres producteurs d'huile d'olive et de safran** — la même paire de productions que La
+  Tarente — sont certifiés bio dans la commune, l'un chemin des Loubes depuis mars 2015, l'autre aux
+  Clos Hauts depuis février 2023. Ni l'un ni l'autre n'a de fiche à l'office, de site ou d'horaire
+  publié : rien à inscrire pour l'instant, mais deux pistes solides si une source apparaît.
+- **Le Fournil de la Loube** (44 rue Georges-Clemenceau) est **fermé** au registre des entreprises.
+- Le **marché de La Roquebrussanne** n'a pas été instruit cette passe : les cinq fiches étaient déjà
+  réunies sans lui. À vérifier auprès de la commune, règles 16 et 22, lors d'un prochain passage.
 
 ### Pistes non publiées au Val et à Montfort-sur-Argens
 

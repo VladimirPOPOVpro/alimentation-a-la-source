@@ -5105,5 +5105,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caves+du+Commandeur+Montfort-sur-Argens",
     "image_url": "/images/marchands/les-caves-du-commandeur.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "fromagerie-des-vallons",
+    "nom": "Fromagerie des Vallons",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.312515,
+    "lon": 5.974541,
+    "adresse": "Jas des Vallons, 1650 chemin de Fioussac, 83136 La Roquebrussanne",
+    "horaires": "De mars à octobre, du lundi au samedi, sur rendez-vous. Visite de l'atelier de fabrication suivie d'une dégustation à 10h, sur réservation et à partir de trois personnes.",
+    "produits": [
+      "Fromages de chèvre biologiques",
+      "Pèbre d'Aï de la Sainte-Baume",
+      "Tommes de chèvre",
+      "Fromages frais"
+    ],
+    "description": "Élevage caprin et fromagerie dans un vallon boisé au pied de la Sainte-Baume : le troupeau, la traite et la fabrication sont sur place, du caillage à l'affinage. Le registre de l'Agence Bio inscrit l'exploitation auprès de Bureau Veritas depuis février 2003 pour les chèvres, le lait et les fromages ; l'office de tourisme lui attribue aussi la marque Valeurs Parc naturel régional.",
+    "telephone": "04 94 86 97 71",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+des+Vallons+La+Roquebrussanne",
+    "image_url": "/images/marchands/fromagerie-des-vallons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-la-grivoisiere",
+    "nom": "La Ferme de la Grivoisière",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.346747,
+    "lon": 5.969296,
+    "adresse": "268 chemin de la Palun, 83136 La Roquebrussanne",
+    "horaires": "Depuis le 13 juillet 2026, jeudi et vendredi de 9h à 12h et de 16h à 19h, samedi de 9h à 13h et de 15h à 17h, d'après la ferme. L'office de tourisme donne pour le reste de l'année jeudi et vendredi de 9h à 13h et de 15h à 18h, samedi de 9h à 13h et de 15h à 17h. Livraison à domicile ou en point relais les vendredis et samedis après-midi.",
+    "produits": [
+      "Paniers de fruits et légumes de saison, sur commande",
+      "Œufs fermiers",
+      "Fromages et yaourts",
+      "Fruits et légumes de producteurs locaux",
+      "Produits fermiers et artisanaux"
+    ],
+    "description": "Petit point de vente à la ferme, sur le chemin de la Palun. L'exploitation écrit elle-même qu'elle fait pour l'instant principalement de l'achat-revente auprès de producteurs locaux, en attendant l'installation en maraîchage qu'elle annonce pour l'année suivante ; ses œufs viennent en revanche de ses propres poules. Les paniers se commandent à l'avance et se retirent sur place ou en point relais.",
+    "telephone": "06 10 66 98 83",
+    "site_web": "https://www.lafermedelagrivoisiere.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+de+la+Grivoisiere+La+Roquebrussanne",
+    "image_url": "/images/marchands/la-ferme-de-la-grivoisiere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-rucher-l-or-de-la-loube",
+    "nom": "Le Rucher l'Or de la Loube",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.359815,
+    "lon": 5.974475,
+    "adresse": "2182 route de Brignoles, 83136 La Roquebrussanne",
+    "horaires": "Du 1er juin au 20 décembre, tous les jours, sur rendez-vous. L'office de tourisme annonce aussi des séances « Apiculteur d'un jour » d'une heure et demie, à 17h30, quelques mercredis en juin et juillet.",
+    "produits": [
+      "Miel de lavande",
+      "Miel de sainfoin",
+      "Miel de thym",
+      "Miel de romarin",
+      "Miel de garrigues",
+      "Miel de fleurs sauvages",
+      "Miel d'été"
+    ],
+    "description": "Apiculteur producteur récoltant installé au pied du massif de la Loube, dans le Parc naturel régional de la Sainte-Baume. Il travaille en micro-ruchers et ne récolte que des miels varois, chacun rattaché à un terroir précis, des rivages de la Méditerranée aux gorges du Verdon.",
+    "telephone": "04 89 21 27 85",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rucher+l+Or+de+la+Loube+La+Roquebrussanne",
+    "image_url": "/images/marchands/le-rucher-l-or-de-la-loube.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-tarente",
+    "nom": "La Tarente",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.323622,
+    "lon": 5.979203,
+    "adresse": "La Tarente, chemin du Loou, 83136 La Roquebrussanne",
+    "horaires": "Toute l'année sauf en juillet et août, tous les jours. Découverte de l'oliveraie et vente sur rendez-vous. Paiement par carte bancaire ou en espèces.",
+    "produits": [
+      "Huile d'olive",
+      "Safran",
+      "Visite de l'oliveraie"
+    ],
+    "description": "Oliveraie et safranière sur le chemin du Loou, au sud du village. La production est vendue en direct, sur rendez-vous, à l'occasion d'une visite de l'oliveraie ; le registre des entreprises y rattache un établissement agricole actif sous le nom du lieu-dit, La Tarente.",
+    "telephone": "06 18 41 57 87",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Tarente+chemin+du+Loou+La+Roquebrussanne",
+    "image_url": "/images/marchands/la-tarente.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cave-la-roquiere",
+    "nom": "Cave La Roquière",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.336644,
+    "lon": 5.979358,
+    "adresse": "38 avenue Saint-Sébastien, 83136 La Roquebrussanne",
+    "horaires": "En juin, du lundi au samedi de 9h à 12h et de 15h à 18h30. En juillet et août, du lundi au samedi de 9h à 12h et de 15h à 18h30, le dimanche de 9h à 12h30 ; fermé les 14 juillet et 15 août. Du 1er septembre au 31 mai, du mardi au samedi de 9h à 12h et de 15h à 18h30. Fermé les 1er janvier, lundi de Pâques, jeudi de l'Ascension, 1er mai, 8 mai, 1er et 11 novembre et 25 décembre.",
+    "produits": [
+      "Cuvée La Roquière en rosé, rouge et blanc",
+      "Cuvée Le Laoucien en rosé et rouge",
+      "Vins IGP Var, dont San Bastian et Roque'n'Rolle",
+      "Vin mousseux méthode traditionnelle",
+      "Bag-in-box et vente en vrac",
+      "Cartons mixtes"
+    ],
+    "description": "Cave coopérative du village, fondée en 1925 d'après l'office de tourisme, sur les contreforts de la Sainte-Baume et au pied de la Loube : 455 hectares de vignes en AOP Coteaux Varois en Provence et en IGP Var, cultivées exclusivement en agriculture biologique d'après la cave, qui revendique aussi la certification Haute Valeur Environnementale. Le registre de l'Agence Bio l'inscrit auprès de Bureau Veritas depuis décembre 2013. Derrière la boutique, une tombe du IIIe siècle mise au jour en 1997 se visite dans une ancienne cuve.",
+    "telephone": "04 98 05 20 97",
+    "site_web": "https://www.roquiere.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cave+La+Roquiere+La+Roquebrussanne",
+    "image_url": "/images/marchands/cave-la-roquiere.jpg",
+    "a_confirmer": true
   }
 ]
