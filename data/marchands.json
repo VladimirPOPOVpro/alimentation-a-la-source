@@ -5508,5 +5508,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Jean+le+Vieux+Saint-Maximin",
     "image_url": "/images/marchands/domaine-saint-jean-le-vieux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-pretuiliere",
+    "nom": "La Ferme de Prétuilière",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.398685,
+    "lon": 6.040139,
+    "adresse": "Chemin de Pré-Tuilière, 83170 La Celle",
+    "horaires": "Du 1er mai au 31 octobre, uniquement sur rendez-vous, pour les paniers ou les œufs.",
+    "produits": [
+      "Légumes de saison de plein champ et sous abri",
+      "Fruits de saison",
+      "Œufs de poules élevées en plein air",
+      "Poules pondeuses bio",
+      "Légumes aromatiques et fleurs comestibles",
+      "Savons artisanaux",
+      "Paniers sans engagement"
+    ],
+    "description": "Micro-ferme installée depuis 2017 dans la plaine de La Celle, sous le roc de Candelon, cultivée en agroécologie : planches permanentes sans labour, paillage plutôt que plastique, agroforesterie maraîchère. Elle est certifiée en agriculture biologique auprès de Certipaq et porte le label Bienvenue à la Ferme. La ferme accueille des scolaires et organise des journées à thème, et fournit aussi magasins bio et restaurateurs.",
+    "telephone": "06 32 88 10 22",
+    "site_web": "https://www.lafermedepretuiliere.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+de+Pretuiliere+La+Celle",
+    "image_url": "/images/marchands/la-ferme-de-pretuiliere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "spiruline-varoise",
+    "nom": "Spiruline Varoise",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.397937,
+    "lon": 6.033449,
+    "adresse": "506 chemin de Garé, 83170 La Celle",
+    "horaires": "Le producteur annonce sur son site une ouverture du lundi au vendredi de 9h à 18h, le samedi sur rendez-vous ; l'office de tourisme indique du lundi au samedi de 9h à 18h. Visite à annoncer par téléphone dans les deux cas.",
+    "produits": [
+      "Spiruline en paillettes",
+      "Spiruline en poudre",
+      "Spiruline en comprimés",
+      "Savons à la spiruline",
+      "Shampoing à la spiruline",
+      "Masques pour le visage"
+    ],
+    "description": "Exploitation qui cultive la spiruline en bassins, en eau de source, au bord du Caramy. Cette micro-algue est vendue à la ferme sous ses trois formes, paillettes, poudre et comprimés, ainsi qu'en cosmétiques fabriqués sur place. La production est annoncée éco-responsable, sans certification enregistrée.",
+    "telephone": "06 26 13 80 51",
+    "site_web": "https://spirulinevaroise.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spiruline+Varoise+La+Celle",
+    "image_url": "/images/marchands/spiruline-varoise.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maison-des-vins-coteaux-varois",
+    "nom": "Maison des Vins Coteaux Varois en Provence",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.393819,
+    "lon": 6.040754,
+    "adresse": "8 bis place du Général de Gaulle, Abbaye de La Celle, 83170 La Celle",
+    "horaires": "De septembre à juin : du lundi au vendredi de 9h30 à 12h30 et de 14h à 18h, le samedi de 10h à 13h et de 14h à 18h. En juillet et août, la Maison des Vins annonce 9h30-12h30 et 14h-18h30 en semaine et 10h-13h et 14h-18h30 le samedi, quand l'office de tourisme donne 9h30-13h et une fermeture à 19h le samedi. Ouverte le lundi de Pentecôte, le 14 juillet et le 15 août ; fermée les jours fériés d'hiver.",
+    "produits": [
+      "Plus de 200 vins de l'appellation Coteaux Varois en Provence",
+      "Rosés des domaines et caves de l'appellation",
+      "Blancs des domaines et caves de l'appellation",
+      "Rouges des domaines et caves de l'appellation",
+      "Sélection hebdomadaire à la dégustation",
+      "Expédition de vins en France"
+    ],
+    "description": "Vitrine de l'appellation Coteaux Varois en Provence, installée dans l'enceinte de l'abbaye de La Celle : plus de deux cents références des vigneronnes et vignerons des vingt-huit communes de l'appellation y sont vendues, avec chaque semaine une nouvelle sélection à la dégustation. Un conservatoire de quatre-vingt-huit cépages est planté en jardin à la française à côté.",
+    "telephone": "04 94 69 33 18",
+    "site_web": "http://www.coteauxvaroisenprovence.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Vins+Coteaux+Varois+La+Celle",
+    "image_url": "/images/marchands/maison-des-vins-coteaux-varois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-l-escarelle",
+    "nom": "Château l'Escarelle",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.39029,
+    "lon": 5.979952,
+    "adresse": "Château de l'Escarelle, route de La Roquebrussanne, 83170 La Celle",
+    "horaires": "Du 21 juin au 31 août : du lundi au samedi de 10h à 13h et de 15h à 19h. Du 1er septembre au 20 juin : du lundi au samedi de 9h à 12h et de 14h à 18h. Fermé les jours fériés.",
+    "produits": [
+      "Cuvée Rumeurs, rosé, blanc et rouge",
+      "Cuvée Flora",
+      "Cuvée Château",
+      "Cuvée Le Pacha",
+      "Cuvée Jardin des Secrets",
+      "Cuvée Les Deux Anges",
+      "Cuvée Croix d'Engardin"
+    ],
+    "description": "Vaste domaine viticole certifié en agriculture biologique auprès de Qualisud et labellisé Haute Valeur Environnementale, dont les vignes s'inscrivent dans 1 200 hectares de nature préservée. Le domaine est engagé depuis plus de quinze ans avec la LPO pour la protection des papillons, auxquels il a consacré un jardin visitable. La boutique du château assure la dégustation et la vente.",
+    "telephone": "04 94 69 09 98",
+    "site_web": "https://www.escarelle.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+l+Escarelle+La+Celle",
+    "image_url": "/images/marchands/chateau-l-escarelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-saint-julien",
+    "nom": "Domaine Saint Julien",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.382419,
+    "lon": 5.977564,
+    "adresse": "RD 205, route de La Roquebrussanne, 83170 La Celle",
+    "horaires": "Toute l'année du lundi au samedi de 9h à 12h et de 14h à 18h, horaires publiés par l'office de tourisme ; le domaine n'en affiche pas sur son site.",
+    "produits": [
+      "Vins rouges AOP Coteaux Varois en Provence",
+      "Vins rosés",
+      "Vins blancs",
+      "Huile d'olive du domaine",
+      "Vins IGP Var"
+    ],
+    "description": "Domaine de 427 hectares de bois, de cultures et de vignes à cheval sur La Celle et Tourves, au pied de la Loube, dont trente hectares sont plantés en vignes et sept en oliviers. La cave a été reconstruite et le chai de vieillissement occupe une ancienne cave voûtée à demi enterrée. Le caveau, près de la bastide, vend les vins et les huiles d'olive du domaine.",
+    "telephone": "04 94 59 26 10",
+    "site_web": "http://www.domaine-st-julien.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Julien+La+Celle",
+    "image_url": "/images/marchands/domaine-saint-julien.jpg",
+    "a_confirmer": true
   }
 ]
