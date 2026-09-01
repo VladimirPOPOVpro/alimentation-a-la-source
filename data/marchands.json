@@ -5645,5 +5645,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Julien+La+Celle",
     "image_url": "/images/marchands/domaine-saint-julien.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "bastide-de-blacailloux",
+    "nom": "Bastide de Blacailloux",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.398095,
+    "lon": 5.884209,
+    "adresse": "Domaine de Blacailloux, 83170 Tourves",
+    "horaires": "Du 1er avril au 31 octobre : du lundi au samedi de 10h à 12h30 et de 14h30 à 19h. Du 1er novembre au 31 mars : du lundi au samedi de 10h à 12h30 et de 14h30 à 18h. Sur rendez-vous pour les groupes.",
+    "produits": [
+      "Vins rosés, rouges et blancs AOP Coteaux Varois en Provence",
+      "Vins IGP Var Sainte-Baume",
+      "Huile d'olive",
+      "Miel",
+      "Ateliers dégustation, apiculture et vendanges"
+    ],
+    "description": "Domaine de la Sainte-Baume planté en 1917 et tenu par la quatrième génération de la même famille, dont les vignes, les oliviers et le miel sont certifiés en agriculture biologique et de niveau HVE 3. La cave, inaugurée en 2014, associe toit végétalisé et panneaux photovoltaïques ; le caveau de vente et de dégustation ouvre six jours sur sept.",
+    "telephone": "04 94 86 83 83",
+    "site_web": "https://blacailloux.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bastide+de+Blacailloux+Tourves",
+    "image_url": "/images/marchands/bastide-de-blacailloux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-lafoux",
+    "nom": "Château Lafoux",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.407896,
+    "lon": 5.967769,
+    "adresse": "RN 7, quartier Le Boulon, 83170 Tourves",
+    "horaires": "Toute l'année. En juillet et août : du lundi au samedi de 10h à 13h et de 15h à 19h. De septembre à juin : du lundi au samedi de 9h à 12h30 et de 14h30 à 18h. Le dimanche et les jours fériés sur rendez-vous.",
+    "produits": [
+      "Vins rosés AOP Coteaux Varois en Provence",
+      "Vins rouges",
+      "Vins blancs",
+      "Vin orange",
+      "Cuvées Vinicius, Auguste et Château"
+    ],
+    "description": "Vignoble de plis argilo-calcaires enserré dans une forêt de chênes que traversait la voie Aurélienne, cultivé en agriculture biologique et certifié Demeter en biodynamie. Les cépages grenache et cinsault donnent les rosés, syrah et cabernet-sauvignon les rouges, rolle, ugni blanc et clairette les blancs ; la dégustation se fait au caveau, en bord de RN 7.",
+    "telephone": "04 94 78 77 86",
+    "site_web": "https://www.chateaulafoux.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Lafoux+Tourves",
+    "image_url": "/images/marchands/chateau-lafoux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-safraniere-du-mirandolier",
+    "nom": "La Safranière du Mirandolier",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.40967,
+    "lon": 5.892058,
+    "adresse": "562 allée du Safran, hameau des Rabassières, 83170 Tourves",
+    "horaires": "Toute l'année, tous les jours de 8h à 20h. Téléphoner avant de venir.",
+    "produits": [
+      "Stigmates de safran bio entiers",
+      "Bulbes de crocus sativus",
+      "Pétales de safran séchés"
+    ],
+    "description": "Safraneraie de 1 200 m² plantée sur une parcelle de terre volcanique en plein soleil, au sein d'une propriété classée refuge de la Ligue pour la protection des oiseaux, certifiée en agriculture biologique par Ecocert. La productrice ne vend aucun produit transformé : uniquement des stigmates entiers, des bulbes et des pétales secs, à la ferme ou chez trois revendeurs de Tourves et de Saint-Maximin-la-Sainte-Baume.",
+    "telephone": "06 70 15 58 85",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Safraniere+du+Mirandolier+Tourves",
+    "image_url": "/images/marchands/la-safraniere-du-mirandolier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-jardins-d-amishku",
+    "nom": "Les Jardins d'Amishku",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.413677,
+    "lon": 5.958821,
+    "adresse": "408 chemin de la Blanque, 83170 Tourves",
+    "horaires": "Du 1er mars au 31 décembre. Fermé le lundi, le mercredi et le dimanche.",
+    "produits": [
+      "Paniers de légumes bio de saison",
+      "Tomates",
+      "Courgettes, aubergines et poivrons",
+      "Courges",
+      "Blettes et épinards",
+      "Salades et légumes-racines"
+    ],
+    "description": "Maraîchage biologique sur petite surface, conduit en agroécologie et certifié par Certipaq Bio. Les paniers se composent en ligne sans engagement ni abonnement et sont livrés à Tourves, Saint-Maximin-la-Sainte-Baume, Bras, Barjols et Mazaugues ; le jardin fournit aussi une AMAP.",
+    "telephone": "06 30 71 46 33",
+    "site_web": "https://amishku.wixsite.com/lesjardinsdamishku",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Jardins+d+Amishku+Tourves",
+    "image_url": "/images/marchands/les-jardins-d-amishku.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-gayolle",
+    "nom": "Domaine de la Gayolle",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.398635,
+    "lon": 5.977169,
+    "adresse": "Route de la Roquebrussanne (RD 205), 83170 La Celle",
+    "horaires": "Toute l'année du lundi au vendredi. Le domaine annonce sur son site 9h-12h et 14h-18h, l'office de tourisme 9h-12h et 13h-17h. Pas d'activité œnotouristique en août.",
+    "produits": [
+      "Vins rosés AOP Coteaux Varois en Provence",
+      "Vins rouges",
+      "Vins blancs",
+      "Cuvées Platanes, Chapelle et Syagria",
+      "Cuvée Collection Blanc"
+    ],
+    "description": "Domaine familial depuis 1855, cultivé en agriculture biologique et portant le label HVE, qui conduit son vignoble en agroforesterie sous trois platanes tricentenaires classés Arbres Remarquables de France. Le site abrite aussi la chapelle romane Notre-Dame-de-la-Gayolle, classée Monument historique, qui a abrité le sarcophage paléochrétien de Syagria ; visites et dégustations commentées sur réservation.",
+    "telephone": "04 94 69 03 91",
+    "site_web": "https://www.domaine-la-gayolle.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Gayolle+La+Celle",
+    "image_url": "/images/marchands/domaine-de-la-gayolle.jpg",
+    "a_confirmer": true
   }
 ]

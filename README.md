@@ -283,7 +283,12 @@ prioritaires en cas de conflit.
    la Sainte-Baume, qui annonce « de nombreux produits régionaux » sans en nommer un seul : **une
    catégorie sans produit nommable ne vaut pas offre**, sinon la fiche listerait un produit que
    personne n'a vu. La mention reste alors dans la description, attribuée à sa source, et le pilier
-   n'est pas coché.
+   n'est pas coché. Le cas symétrique s'est présenté à la Bastide de Blacailloux : la fiche de
+   l'office range le domaine sous « Produits apicoles » et « Huiles, épices et condiments », et le
+   domaine écrit lui-même que sa certification bio et son niveau HVE 3 couvrent son huile d'olive et
+   son miel. **Deux familles de produits nommables, affichées par l'office et confirmées par le
+   producteur, valent offre** même quand la boutique en ligne, elle, ne référence que du vin : une
+   boutique de vente à distance ne porte pas forcément ce qui se vend au comptoir.
 32. **Une vitrine d'appellation tenue par un syndicat de vignerons.** La Maison des Vins Coteaux
    Varois en Provence, dans l'abbaye de La Celle, vend plus de deux cents références des vigneronnes
    et vignerons de l'appellation. Mais l'entité immatriculée à son adresse est le Syndicat des vins
@@ -297,10 +302,21 @@ prioritaires en cas de conflit.
    d'`environnement`, un syndicat ne détenant pas de certification pour le compte de ses adhérents —
    une telle fiche ne porte donc en général que le pilier `economie`. Cela débloque aussi la Maison
    des Vins des Côtes de Provence, aux Arcs-sur-Argens, pour un prochain passage.
+33. **Un lien « Site Web » d'office de tourisme peut mener à une autre activité du même exploitant.**
+   La fiche de La Safranière du Mirandolier, à Tourves, donne pour site `lesecuriesdumirandolier.com`.
+   Ouvert, ce site n'est pas celui d'une safranière : c'est une entreprise de locations de meublés de
+   tourisme, avec ses propres tarifs et ses propres numéros. Le nom du lieu-dit est commun aux deux
+   activités, rien d'autre. Tranché ainsi : **un site publié par un office ne s'inscrit dans
+   `site_web` que s'il parle du commerce lui-même ; s'il présente une autre activité, même du même
+   exploitant et à la même adresse, le champ reste vide**. C'est la règle sœur de la note Santa
+   Lucia — là un domaine expiré racheté par un tiers, ici un domaine légitime mais qui décrit autre
+   chose : dans les deux cas, seule l'ouverture du site le montre, et le visiteur envoyé sur une page
+   de location de gîtes pour acheter du safran est perdu de la même façon. Un réseau social ne
+   remplace pas le champ : il reste vide, et la description dit où l'on achète.
 
 ## Marchands à confirmer
 
-184 fiches sur 218 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+189 fiches sur 223 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -486,8 +502,13 @@ prioritaires en cas de conflit.
 - **Maison des Vins Coteaux Varois en Provence** (première fiche publiée au titre de la règle 32 : l'entité immatriculée à l'adresse est le syndicat de l'appellation, code 94.11Z, et la vitrine se publie en `producteur` comme un point de vente collectif. Pilier `economie` seul. Horaires contredits sur l'été : la Maison annonce une fermeture à 12h30 le matin et à 18h30 le samedi, l'office 13h et 19h — les deux sont publiés. Les jours fériés ouverts, plus précis chez la Maison que chez l'office, viennent de la Maison. Numéro de la Base Adresse Nationale, marqueur de l'office et point du registre s'accordent à moins de dix mètres)
 - **Château l'Escarelle** (surface contredite : l'office annonce 100 hectares de vignes, le domaine 110 — aucun des deux n'est publié, seuls les 1 200 hectares de nature préservée, sur lesquels les deux s'accordent. Pas de pilier `alimentation` bien que les deux SIRET du domaine déclarent « huile d'olive, brute » à l'Agence Bio : la boutique en ligne ne vend que du vin, des expériences et des accessoires, règle 31. Deux sociétés au même comptoir — les vignobles et la société de vente au détail — c'est le point de la seconde qui est publié, règle 7, et le contrôle inverse le rattache à la voie « Domaine de l'Escarelle » à 18 m, quand la route de La Roquebrussanne que publie le domaine a son centre 3,6 km plus à l'est)
 - **Domaine Saint Julien** (l'office annonce une production « vin, huile d'olive **et amande** » ; le site du domaine détaille les sept hectares d'oliviers et l'huile en vente au caveau, mais ne parle nulle part d'amandes : elles ne sont pas inscrites, règle 5. Pas de pilier `environnement` : le domaine écrit « la culture y est raisonnée », ce qui n'est pas une certification, et il ne figure pas au registre de l'Agence Bio, règle 15. Le domaine est à cheval sur La Celle et Tourves : commune déclarée au registre, donc La Celle, règle 17. L'adresse de l'office, « RD 205 », est complétée par le nom que la Base Adresse Nationale donne à cette route, la route de La Roquebrussanne, sur laquelle le contrôle inverse rattache le point du registre à 52 m — le marqueur de l'office, lui, tombe au quartier Saint Julien, une autre voie, et il est écarté par la règle 24. L'image de partage du site titre « Château Saint Julien » quand toutes les autres sources écrivent « Domaine » : c'est « Domaine » qui est retenu)
+- **Bastide de Blacailloux** (pilier `alimentation` accordé alors que la boutique en ligne du domaine ne vend que du vin : la fiche de l'office range le domaine sous « Produits apicoles » et « Huiles, épices et condiments », et le domaine écrit lui-même que sa certification bio et son niveau HVE 3 couvrent son huile d'olive et son miel — c'est le cas qui a complété la règle 31 dans l'autre sens. Deux numéros coexistent, le 04 94 86 83 83 pour le domaine viticole et le 04 22 12 00 37 pour les séjours et événements : c'est le premier qui est publié. Le nom de domaine que publie l'office, `bastide-de-blacailloux.com`, redirige vers `blacailloux.fr` : c'est l'adresse effective qui est inscrite. Aucune coordonnée sur le site et aucune au registre pour la SCEA : le point vient du marqueur de l'office, rattaché par contrôle inverse au « 3516 RD 1 - route de Rougiers » à 40 m. Photo prise à l'office, la façade du caveau : les treize photos de la fiche comptent deux portraits et une photo de groupe, écartés)
+- **Château Lafoux** (surface contredite : l'office annonce 26 hectares de vignes, le domaine 30 dans un ensemble de 166 — aucun des deux chiffres n'est publié. Le marqueur de l'office est écarté par la règle 24 : son contrôle inverse tombe « 1372 allée du Cépage », une autre voie que la RN 7 que publient l'office comme le domaine, alors que le point du registre se rattache à la « 2550 route départementale RDN7 » à 60 m — c'est le registre qui est publié. Pas de pilier `alimentation` bien que le registre de l'Agence Bio déclare olives et truffes : ni le site ni l'office n'en proposent à la vente, règle 31. Le pilier `environnement` s'appuie sur un engagement Ecocert actif depuis août 2012 et sur la certification Demeter en biodynamie qu'affiche l'office)
+- **La Safranière du Mirandolier** (première fiche publiée au titre de la règle 33 : le site que donne l'office, `lesecuriesdumirandolier.com`, est celui d'une entreprise de locations de meublés de tourisme, pas de la safranière — le champ `site_web` reste vide. L'exploitation est immatriculée sous le patronyme de son exploitante, avec « LA SAFRANIERE DU MIRANDOLIER » en enseigne déclarée : c'est l'enseigne qui est publiée. L'adresse vient du registre de l'Agence Bio, « 562 allée du Safran », la seule des sources à donner une voie numérotée ; l'office n'écrit que le nom du lieu-dit. Le numéro existe dans la Base Adresse Nationale avec un score de 0,96 : premier barreau de la règle 10, il l'emporte sur le marqueur de l'office, à 210 m. Les tarifs qu'affiche l'office, de 5 à 40 €, ne sont pas repris. Photo prise à l'office, un plateau de stigmates : quatre de ses six photos montrent des visages)
+- **Les Jardins d'Amishku** (point pris au **centre de voie** : le marqueur de l'office se rattache bien au chemin de la Blanque mais au numéro 1200, quand l'adresse publiée est le 408 — écart de 792 dans la numérotation métrique, au-delà du seuil de la règle 27 — et le point du registre tombe chemin de Muscapeau, une autre voie, écarté par la règle 24. Le pilier `environnement` tient à un engagement Certipaq Bio actif depuis octobre 2020. L'exploitation est immatriculée sous le patronyme de son exploitante, avec « LES JARDINS D'AMISHKU » en enseigne déclarée. Photo prise à l'office, l'unique de la fiche : les cinq images du site sont un logo, un panneau, une photo de feuillage et un portrait)
+- **Domaine de la Gayolle** (fiche débloquée par la règle 28, cinquième du groupe de Tourves alors qu'elle est à La Celle, à sept kilomètres et demi. Horaires contredits : le domaine annonce sur son site 9h-12h et 14h-18h, l'office 9h-12h et 13h-17h — les deux sont publiés et attribués. Téléphones contredits aussi : l'office donne le 04 94 69 03 91, le site le 09 66 81 18 28 — c'est le numéro du caveau, celui de l'office, qui est publié. Pas de pilier `alimentation` : le registre bio déclare des pistaches, mais la boutique ne référence que des cuvées, règle 31. Le pilier `environnement` tient à un engagement Ocacia actif depuis avril 2021 et à la HVE que le domaine revendique sur son propre site, règle 21. Photo : l'`og:image` du domaine, l'intérieur du caveau)
 
-Les 218 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 223 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -966,6 +987,29 @@ quand. Deux sources vivantes contre un registre officiel : c'est le registre qui
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
 
+### Pistes non publiées à Tourves
+
+L'office de tourisme Provence Verte & Verdon publie cinq fiches « Vins et Terroir » à Tourves.
+Quatre sont publiées ; la cinquième a été écartée et remplacée, au titre de la règle 28, par le
+Domaine de la Gayolle, à La Celle, à sept kilomètres et demi, sur le même office.
+
+- **Saouach** est la fiche écartée. Deux raisons, chacune suffisante. D'abord l'objet : l'office
+  range ses produits sous « Produits non alimentaires » et détaille des savons, des hydrolats, des
+  crèmes et des déodorants — la modération réserve le site à la vente alimentaire en circuit court.
+  Ensuite la vérification : `saouach.fr` répond 403 depuis ce poste, la plateforme qui l'héberge
+  bloquant les requêtes non navigateur, et un site qu'on ne peut pas ouvrir ne s'inscrit pas.
+  Distillation de plantes aromatiques, à revoir seulement si le site redevient lisible **et** si une
+  gamme alimentaire y apparaît.
+- **Le marché de Tourves** n'a pas été instruit : le site de la commune n'en publie pas les
+  horaires, et la règle 16 interdit de publier un marché sur la seule foi d'un agrégateur.
+- **Une dizaine d'exploitations certifiées bio** du registre de l'Agence Bio sont immatriculées à
+  Tourves sous le patronyme de leur exploitant, sans enseigne déclarée, sans fiche d'office et sans
+  site : la modération interdit de publier un patronyme comme s'il s'agissait d'une enseigne, et
+  rien n'indique qu'elles vendent au public.
+- **La Table de Blacailloux**, le restaurant du domaine, et ses quatre hébergements ne sont pas
+  inscrits : c'est de l'hébergement-restauration, pas de la vente en circuit court. Seul le caveau
+  fait l'objet de la fiche.
+
 ### Pistes non publiées à La Celle
 
 L'office de tourisme Provence Verte & Verdon publie six fiches à La Celle, et le registre de l'Agence
@@ -973,15 +1017,10 @@ Bio y compte huit opérateurs. Cinq fiches sont publiées, choisies pour couvrir
 différents : une micro-ferme maraîchère, une exploitation de spiruline, la vitrine de l'appellation,
 un grand domaine bio et un domaine qui fait aussi de l'huile d'olive. Voici ce qu'il reste.
 
-- **Le Domaine de la Gayolle** est la sixième fiche de l'office, entièrement vérifiable, et la seule
-  écartée : domaine familial depuis 1855, route de La Roquebrussanne, ouvert du lundi au vendredi de
-  9h à 12h et de 13h à 17h, certifié bio à l'Agence Bio sous l'EARL La Gayolle et revendiquant la
-  HVE, avec trois platanes classés « Arbres Remarquables de France », une chapelle romane classée
-  Monument Historique et de l'agroforesterie. Elle a cédé la place au Château l'Escarelle, dont le
-  profil est le plus proche — même route, mêmes labels — parce que l'Escarelle a une boutique et des
-  jardins ouverts au public. **À intégrer au prochain passage sur la commune** : c'est la piste la
-  plus mûre du dépôt, et son registre bio mentionne des pistaches, ce qui lui ouvrirait le pilier
-  `alimentation` si elles sont vendues au caveau, règle 31.
+- **Le Domaine de la Gayolle**, sixième fiche de l'office et seule écartée à la passe précédente,
+  **est publié** depuis, en cinquième fiche du groupe de Tourves au titre de la règle 28. Les
+  pistaches que mentionne son registre bio ne lui ouvrent pas le pilier `alimentation` : la boutique
+  du domaine ne référence que des cuvées et l'office ne le range que sous « Vins », règle 31.
 - **Le Domaine de l'Éouvière** (EARL, raisin de cuve, certifié bio à l'Agence Bio) n'a ni fiche à
   l'office, ni site, ni horaire publié : rien à inscrire pour l'instant.
 - **Deux exploitations certifiées bio** sont immatriculées sous le patronyme de leur exploitante,
