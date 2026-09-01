@@ -3764,5 +3764,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Rimauresq+Pignans",
     "image_url": "/images/marchands/domaine-de-rimauresq.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "flour-de-camin",
+    "nom": "Flour de Camin",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.30243,
+    "lon": 6.188977,
+    "adresse": "2 cours Victor Hugo, 83660 Carnoules",
+    "horaires": "Fermé le lundi. Ouvert le matin de 9h30 à 12h30 du mercredi au samedi, et le dimanche de 10h à 13h. Les trois sources publiques donnent trois versions des après-midi : le magasin annonce 17h-20h le mercredi et le samedi, 17h-21h le vendredi et une fermeture le jeudi après-midi ; l'office de tourisme annonce 17h-20h d'avril à août et 16h-19h de septembre à mars ; l'annuaire Commerce Engagé de Cœur du Var annonce 16h-19h. Appeler avant de se déplacer l'après-midi.",
+    "produits": [
+      "Légumes et fruits de saison",
+      "Pain paysan cuit au feu de bois",
+      "Fromages de chèvre et de brebis",
+      "Œufs",
+      "Miels, confitures et tartinades",
+      "Huile d'olive",
+      "Sirops, jus de fruits et tisanes",
+      "Vins et bières de producteurs locaux"
+    ],
+    "description": "Magasin de producteurs ouvert en juillet 2018 par l'association Les Circuit-Courteurs, où plus de trente producteurs et artisans du secteur se partagent l'espace de vente. Le lieu est aussi un café associatif et une librariothèque consacrée au terroir et à la langue provençale ; « flour de camin » désigne en provençal le carrefour.",
+    "telephone": "09 50 73 80 96",
+    "site_web": "https://flourdecamin.jimdofree.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Flour+de+Camin+Carnoules",
+    "image_url": "/images/marchands/flour-de-camin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-grand-cros",
+    "nom": "Domaine du Grand Cros",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.319359,
+    "lon": 6.186666,
+    "adresse": "1806 route de Brignoles (RD 13), 83660 Carnoules",
+    "horaires": "Caveau ouvert du mardi au samedi de 10h à 17h30. Dégustation gratuite des vins du domaine ; parking de cinquante places et emplacement autocar.",
+    "produits": [
+      "Côtes de Provence rosé, cuvée L'Esprit de Provence",
+      "Côtes de Provence rouge, cuvée L'Esprit de Provence",
+      "Côtes de Provence blanc",
+      "Cuvée Aurélia",
+      "Rosé en bag-in-box",
+      "Huile d'olive du domaine"
+    ],
+    "description": "Domaine de trente hectares de vignes au pied du massif des Maures, exploité par la même famille depuis 1989 et certifié Haute Valeur Environnementale depuis 2020. Le caveau fait déguster les cuvées et vend aussi l'huile d'olive tirée des cinq cents oliviers replantés sur la propriété.",
+    "telephone": "04 98 01 80 08",
+    "site_web": "https://faulknerwine.com/fr/grand-cros/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Grand+Cros+Carnoules",
+    "image_url": "/images/marchands/domaine-du-grand-cros.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-de-deyssia",
+    "nom": "Moulin de Deyssia",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.299222,
+    "lon": 6.166437,
+    "adresse": "103 chemin des Vallons, 83660 Carnoules",
+    "horaires": "Toute l'année du lundi au vendredi de 9h à 12h. Visites de l'oliveraie, explication de l'extraction et dégustations sur réservation, en dehors des heures d'ouverture du moulin. L'office de tourisme, lui, annonce le moulin ouvert sur rendez-vous : téléphoner avant de venir.",
+    "produits": [
+      "Huile d'olive vierge extra",
+      "Huile d'olive aromatisée aux agrumes",
+      "Huile d'olive aromatisée au basilic",
+      "Olivade d'olives vertes",
+      "Olivade d'olives noires",
+      "Coffrets et paniers gourmands"
+    ],
+    "description": "Moulin familial en activité depuis 2010, qui triture dans sa propre huilerie les olives de son oliveraie de dix hectares et vend l'huile sur place. Pendant la récolte, d'octobre à janvier, le moulin triture aussi les olives d'autres producteurs du secteur.",
+    "telephone": "06 11 51 62 16",
+    "site_web": "https://huilerie-du-moulin-de-deyssia.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+de+Deyssia+Carnoules",
+    "image_url": "/images/marchands/moulin-de-deyssia.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-leclat",
+    "nom": "L'Éclat - Brasserie artisanale",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.298563,
+    "lon": 6.177994,
+    "adresse": "561 avenue des Platanes, 83660 Carnoules",
+    "horaires": "Du mercredi au samedi de 15h à 19h, boutique et bar sur place. Visite de l'atelier de brassage suivie d'une dégustation le samedi à 11h, sur réservation, à partir de quatre personnes.",
+    "produits": [
+      "Pale Ale aromatique",
+      "Amber Ale touraillée",
+      "Wheat Ale provençale",
+      "Bières éphémères de saison",
+      "Kombucha bio",
+      "Location de tireuse à bière"
+    ],
+    "description": "Brasserie installée en 2023 dans la zone des Platanes, dont toute la gamme est certifiée en agriculture biologique d'après le registre de l'Agence Bio. La salle de dégustation sert les bières à la pression et propose des planches de charcuteries et de fromages fournies par des producteurs du secteur.",
+    "telephone": "07 89 44 49 77",
+    "site_web": "https://brasserieleclat.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie+L+Eclat+Carnoules",
+    "image_url": "/images/marchands/brasserie-leclat.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-porc-serein",
+    "nom": "Le Porc Serein",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.300001,
+    "lon": 6.208805,
+    "adresse": "Impasse de la Verrerie, quartier de la Verrerie, 83660 Carnoules",
+    "horaires": "Vente à la ferme sur rendez-vous. L'élevage tient aussi un étal au marché de Cuers le vendredi matin et au marché paysan d'Hyères le samedi matin.",
+    "produits": [
+      "Viande de porc Mangalica",
+      "Saucisson et chorizo",
+      "Charcuteries de l'élevage"
+    ],
+    "description": "Élevage de porcs Mangalica en plein air, une race hongroise à toison laineuse élevée sous les arbres du quartier de la Verrerie. La viande et les charcuteries se vendent à la ferme sur rendez-vous ; on retrouve le saucisson de l'élevage à la carte de la brasserie L'Éclat, à Carnoules.",
+    "telephone": "06 60 94 32 70",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Porc+Serein+Carnoules",
+    "image_url": "/images/marchands/le-porc-serein.jpg",
+    "a_confirmer": true
   }
 ]

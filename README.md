@@ -98,10 +98,19 @@ prioritaires en cas de conflit.
    se retrouve quand même : la recherche porte aussi sur les produits, et « truites » ou « poisson »
    dans la liste des produits ramène la fiche. La catégorie dit le métier, les produits disent ce
    qu'on achète, et on ne déforme pas le premier pour compenser le second.
+14. **Boissons alcoolisées et pilier « alimentation ».** Le pilier s'intitule « Alimentation
+   saine » : il ne se coche pas pour une boisson alcoolisée, quelle que soit la qualité du
+   producteur. La convention existait déjà sans être écrite — les vingt-huit domaines qui ne vendent
+   que du vin portent `environnement` et `economie`, jamais `alimentation` — et elle s'étend telle
+   quelle aux brasseries et aux distilleries. Un producteur qui vend aussi de la nourriture, huile
+   d'olive ou miel du domaine, retrouve `alimentation` au titre de cette nourriture-là.
+   `environnement`, lui, ne se coche que sur une certification vérifiable au registre de l'Agence
+   Bio ou revendiquée noir sur blanc par le producteur — bio, HVE, Terra Vitis — jamais sur un
+   « sans pesticides » de page d'accueil que personne d'extérieur ne contrôle.
 
 ## Marchands à confirmer
 
-114 fiches sur 148 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+119 fiches sur 153 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -216,9 +225,14 @@ prioritaires en cas de conflit.
 - **La Guilde des Vignerons** (la cave n'a pas de site : le lien « site internet » de l'annuaire de la commune mène à `lescavescoopduvar.fr`, qui n'appartient plus à la fédération des caves coopératives du Var — le domaine sert aujourd'hui de blog générique sur le vin, avec des articles sur le rosé de supermarché. Troisième piège de nom de domaine relevé ici, après la Poissonnerie Santa Lucia et le Moulin du Grimaudet : le champ `site_web` est resté vide. Les horaires viennent de l'office de tourisme et ne donnent que des jours. Le caveau du Thoronet, tenu par la même coopérative, fera sa propre fiche au titre de la règle 3)
 - **La Maison des Bons Fromages** (l'adresse s'écrit « Les Terrasses de la Gare » à l'annuaire de la commune et « 116 avenue du 8 Mai 1945 » au registre ; la Base Adresse Nationale ne connaît pas cette avenue au Cannet et nomme la voie « Esplanade de la Gare », où elle rend bien un numéro 116. Les trois désignent le même immeuble. Le point publié est le marqueur de l'annuaire communal, à 12 m du point du Marché du Cannet-des-Maures : la boutique borde l'esplanade où le marché se tient, les deux fiches sont vraies, voir la règle 12. Les horaires du dimanche divergent entre l'annuaire, revu en mars 2024, et la vidéo « Portrait d'entrepreneur » de la commune ; l'annuaire est publié, la vidéo citée. La photo est un plan de cette vidéo, recadré sur l'ardoise et le comptoir pour écarter les visages, d'où sa petite taille)
 - **Marché du Luc-en-Provence** (deuxième fiche publiée au titre de la règle 9. La commune confirme le marché du vendredi par ses articles et ses photographies, l'office de tourisme Cœur du Var confirme « le vendredi, le matin au centre ville » ; aucun des deux ne donne d'heure ni ne nomme la place. Les heures de 8h à 12h30 et la place de la Convention viennent d'annuaires de marchés, attribués comme tels dans la fiche, et le point est celui que la Base Adresse Nationale rend pour cette place, à 150 m de la mairie et à 106 m des Vignerons du Luc. La liste de produits ne reprend que ce que montrent les photographies de la mairie)
+- **Flour de Camin** (trois sources donnent trois versions des après-midi : le site du magasin, la fiche de l'office de tourisme Cœur du Var et l'annuaire Commerce Engagé de la communauté de communes. Aucune n'est manifestement plus récente que les autres, et le matin, lui, fait consensus : la fiche publie le matin comme un fait, énumère les trois versions de l'après-midi et invite à téléphoner, au titre de la règle 5. L'adresse pose la même question : tout le monde écrit « 2 cours Victor Hugo », mais le marqueur de l'office tombe à 8 m du numéro 105 de la Base Adresse Nationale, et la plaque visible sur la photographie de la devanture porte bien 105. C'est le point du 105 qui est publié, sous l'adresse que le magasin donne lui-même. Le magasin est porté par une association, non par une société : la règle 6 ne s'y applique pas, mais l'association est bien active au registre depuis mai 2018)
+- **Domaine du Grand Cros** (le domaine écrit « chemin de Brignoles » sur son site, l'office de tourisme « 1806 route de Brignoles, D13 » : la Base Adresse Nationale ne connaît que la seconde, et le point qu'elle rend pour le 1806 tombe à 40 m du marqueur de l'office. C'est celui-là qui est publié, quand le registre place le siège 1,5 km plus au sud. Le domaine n'est pas bio et explique longuement pourquoi sur sa page « durabilité » : il a été certifié Terra Vitis en 2002, a abandonné cette certification en 2010, puis a obtenu la HVE en 2020. C'est la HVE, et elle seule, qui justifie ici le pilier `environnement`)
+- **Moulin de Deyssia** (contradiction sur le bio : l'office de tourisme écrit « la production est en Agriculture Biologique », le moulin écrit sur son propre site que ses olives sont cultivées « sans pesticides » et qu'il a « engagé des démarches vers l'agriculture biologique », et le registre de l'Agence Bio porte pour ce SIRET une certification arrêtée en 2010. Le fait contesté n'est pas publié : ni la fiche ni le pilier `environnement` ne parlent de bio. Contradiction d'adresse aussi, l'office plaçant le moulin au lieu-dit Château Royal quand le site et le registre donnent tous deux le 103 chemin des Vallons, 1,3 km à l'est ; c'est cette dernière qui est publiée. Les horaires du site, plus précis, priment sur le « sur rendez-vous » de l'office, qui est cité)
+- **L'Éclat - Brasserie artisanale** (première brasserie publiée, et première fiche au titre de la règle 14 : la gamme est certifiée bio au registre de l'Agence Bio depuis juin 2023, d'où `environnement`, mais `alimentation` n'est pas coché. Les trois bières nommées dans les produits sont celles que porte l'ardoise sur la photographie de l'office de tourisme ; le site, lui, ne détaille pas la gamme. Les horaires du site et ceux de l'office concordent sur les jours, seul le site donne les heures)
+- **Le Porc Serein** (l'office de tourisme Cœur du Var est la seule source descriptive, et ses horaires sont manifestement mal saisis : il annonce « du 01/01 au 31/01, du lundi au vendredi » puis « sur rdv ». Seul le rendez-vous est publié. Au registre, il s'agit d'une entreprise individuelle sous patronyme, code élevage de porcins, ouverte ; « Le Porc Serein » est l'enseigne déclarée. L'office ne donne que le quartier de la Verrerie et le registre le numéro 65 d'une impasse qui est aussi un domicile : la fiche s'en tient à la voie, sans numéro, et le point est celui que la Base Adresse Nationale rend pour l'impasse. Le saucisson de l'élevage figure sur l'ardoise de la brasserie L'Éclat, à 2,5 km de là, ce qui confirme l'activité de l'élevage par une source qui n'est ni l'office ni le registre)
 - **Domaine des Thermes** (le domaine ne publie ni horaires ni coordonnées géographiques, et la Base Adresse Nationale ne sait pas géocoder « RN 7 » sur la commune : les horaires et le point viennent tous deux de la fiche de l'office de tourisme Cœur du Var, qui se contente de « toute l'année du lundi au samedi ». Au registre, la société est immatriculée sous un patronyme ; « Domaine des Thermes » est le nom de l'exploitation et de son site)
 
-Les 148 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 153 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -589,6 +603,46 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées à Carnoules
+
+- **La Ferme d'Elios** (œufs frais de plein air) : l'annuaire des commerces de la commune la place
+  quartier Cansaux, chemin de l'Aurède, avec un téléphone. Le registre dit que l'exploitation qui
+  portait cette enseigne à cette adresse est **cessée**, et qu'une autre exploitation de volailles,
+  active, reprend le nom 500 m plus à l'est, au 488 impasse de l'Arguillonne. Deuxième annuaire
+  municipal pris en défaut après celui de Pignans. Aucune source ne publie d'horaires ni ne dit que
+  la vente se fait sur place : non publiée en l'état.
+- **Château Deffends** (carraire du Defens) : listé par l'annuaire de la commune avec un site web.
+  Le site ne répond plus et le registre donne la société sans établissement ouvert. Écarté par la
+  règle 6.
+- **Le Jardin Isbé** (quartier La Rouvière) : maraîcher engagé en bio auprès de Bureau Veritas
+  depuis 2014 d'après le registre de l'Agence Bio, actif au registre des entreprises. Ni l'office de
+  tourisme ni la commune ne le référencent, aucune source ne publie d'adresse de vente, d'horaires
+  ni de téléphone : rien ne dit qu'il y a un point de vente. Non publié.
+- **La Plume Sacrée** (impasse de la Verrerie) : élevage de volailles actif au registre, à 90 m du
+  Porc Serein. Aucune source publique ne le décrit : à instruire si une deuxième source apparaît,
+  en gardant la règle 12 à l'esprit pour le point.
+- **Boulangerie Bailly**, **Boucherie Prats-Madet**, **Scrocoul** et **La Cave du Collet** : quatre
+  commerces alimentaires du Collet, dont deux certifiés bio au registre de l'Agence Bio. Ce sont des
+  commerces généralistes de détail, que `MODERATION.md` exclut explicitement : ils ne relèvent pas
+  de ce site, même bio.
+- **Carnoules n'a pas de marché hebdomadaire.** Ni la liste des jours de marché de l'office de
+  tourisme Cœur du Var, qui couvre pourtant les neuf autres communes de l'intercommunalité, ni le
+  site de la commune n'en mentionnent un. La commune est donc la première du secteur couverte sans
+  fiche `marche` — ce n'est pas un oubli.
+
+### Une enseigne peut exister au registre sous le nom de son fondateur
+
+Le **Moulin de Deyssia** ne rend rien sur `recherche-entreprises.api.gouv.fr` : ni son nom, ni le
+mot « moulin » sur la commune, ni les codes NAF de fabrication d'huile. L'exploitation est pourtant
+bien active — immatriculée sous le patronyme de son fondateur, avec le code « culture de fruits
+oléagineux », et sans enseigne déclarée. Deux réflexes en sortent, à appliquer avant de conclure
+qu'une piste est morte : balayer le code d'activité sur le code postal plutôt que le nom, et
+chercher sur le web le nom de l'exploitant, que la presse locale et les annuaires publient souvent
+alors que le registre ne relie rien. Le nom trouvé sert à établir l'identité, il ne se publie pas.
+Utile aussi pour ce secteur : `commerces.coeurduvar.com` et `commerce-engage.com/cccv`, deux
+annuaires tenus par la communauté de communes, qui donnent des horaires que l'office de tourisme
+n'a pas.
 
 ### Pistes non publiées à Pignans
 
