@@ -4290,5 +4290,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Brasseur+Varois+Carces",
     "image_url": "/images/marchands/le-brasseur-varois.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "les-vignerons-de-cotignac",
+    "nom": "Les Vignerons de Cotignac",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.528281,
+    "lon": 6.149182,
+    "adresse": "1 rue Raymond Borghino et Alain Arnoux, 83570 Cotignac",
+    "horaires": "Du 1er septembre au 30 juin : le lundi de 14h à 18h, du mardi au samedi de 9h à 12h15 et de 14h à 18h. En juillet et août : du lundi au samedi de 9h à 12h30 et de 14h30 à 19h, le dimanche de 9h à 12h30.",
+    "produits": [
+      "Vins AOP Côtes de Provence",
+      "Vins IGP Var",
+      "Vin effervescent méthode traditionnelle",
+      "Cuvées issues de l'agriculture biologique",
+      "Huile d'olive vierge extra",
+      "Produits du terroir de producteurs locaux"
+    ],
+    "description": "Cave coopérative vinicole et oléicole du village, au pied du rocher de tuf, née du regroupement de vignerons récoltants installés depuis 1905. La boutique vend les vins de la cave, dont des cuvées issues de l'agriculture biologique depuis la récolte 2017, ainsi que son huile d'olive et une sélection de produits de producteurs locaux ; la visite du moulin se fait sur demande. Le registre de l'Agence Bio inscrit la coopérative en agriculture biologique auprès d'Ecocert depuis juillet 2013.",
+    "telephone": "04 94 04 60 04",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vignerons+de+Cotignac+Cotignac",
+    "image_url": "/images/marchands/les-vignerons-de-cotignac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-flaveurs-du-rocher",
+    "nom": "Les Flaveurs du Rocher",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.526779,
+    "lon": 6.15048,
+    "adresse": "3 rue d'Antoine, 83570 Cotignac",
+    "horaires": "D'avril à septembre tous les jours de 9h à 13h et de 15h à 19h. D'octobre à mars le mardi, le mercredi et du vendredi au dimanche de 9h à 13h et de 15h à 19h.",
+    "produits": [
+      "Huile d'olive vierge extra fruité mûr",
+      "Huile d'olive vierge extra fruité vert",
+      "Huiles d'olive aromatisées à la tomate, à l'ail et thym, à la truffe",
+      "Huile d'olive en vrac",
+      "Sélection de produits du terroir"
+    ],
+    "description": "Boutique d'un oliveron installée en plein centre du village : il cultive ses propres oliviers, dont la variété locale le cayon, et assemble ensuite l'huile extraite par le moulinier de Cotignac. L'huile se déguste et s'achète sur place, en bouteille ou en vrac, et le producteur emmène aussi les visiteurs dans ses oliveraies. Deux médailles d'or à la Foire de Brignoles, en 2022 et en 2024.",
+    "telephone": "04 94 04 91 47",
+    "site_web": "https://flaveursdurocher.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Flaveurs+du+Rocher+Cotignac",
+    "image_url": "/images/marchands/les-flaveurs-du-rocher.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "so-boutargue",
+    "nom": "So'Boutargue",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.512484,
+    "lon": 6.153796,
+    "adresse": "Lot 13, pôle d'activité du Loup à Loup, 83570 Cotignac",
+    "horaires": "Toute l'année du lundi au vendredi de 8h à 14h, avec des horaires variables selon les saisons d'après l'office de tourisme. Dégustation commentée sur demande.",
+    "produits": [
+      "Boutargue classique",
+      "Boutargues affinées",
+      "Boutargues So'Jumbo",
+      "Mini-boutargues So'Mini",
+      "Pastrami de saumon",
+      "Saumon fumé artisanal",
+      "Épicerie fine et coffrets"
+    ],
+    "description": "Atelier qui sale et sèche la boutargue — la poutargue, ces œufs de mulet pressés — dans la zone d'activité de Cotignac, à quelques kilomètres du village. Le produit a été élu meilleure boutargue au monde en 2019 par un jury de chefs et de critiques culinaires et se retrouve sur des tables étoilées ; l'atelier propose aussi des dégustations commentées.",
+    "telephone": "06 75 56 26 67",
+    "site_web": "https://www.soboutargue.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=So+Boutargue+Cotignac",
+    "image_url": "/images/marchands/so-boutargue.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-papillons-verts",
+    "nom": "Les Papillons Verts",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.526667,
+    "lon": 6.1125,
+    "adresse": "5387 chemin des Adrets, hameau Saint-Joseph, 83570 Cotignac",
+    "horaires": "Vente à la ferme le jeudi et le samedi de 9h à 12h d'après la ferme ; l'office de tourisme annonce les mêmes jours mais de 9h à 11h. De juin à septembre, accueil possible les autres jours en prévenant par SMS.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Œufs",
+      "Confitures de coing, de figue et de kaki",
+      "Tapenade et olives de table",
+      "Miel",
+      "Plants de légumes et de fleurs",
+      "Plantes médicinales et aromatiques de la pépinière"
+    ],
+    "description": "Ferme en agriculture biodynamique certifiée Demeter dans les collines à l'ouest du village, qui ne vend que ce qu'elle produit elle-même : légumes et fruits de saison, œufs de poules en liberté, conserves et plants de la pépinière. L'incendie de juillet 2026 a touché la plupart des oliviers et des arbres fruitiers, les parcelles de maraîchage ayant été épargnées : mieux vaut appeler avant de venir pour savoir ce qui est disponible.",
+    "telephone": "06 67 27 74 00",
+    "site_web": "http://lespapillonsverts.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Papillons+Verts+Cotignac",
+    "image_url": "/images/marchands/les-papillons-verts.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-du-bessillon",
+    "nom": "Biocoop du Bessillon",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.508924,
+    "lon": 6.152363,
+    "adresse": "Zone d'activités du Loup à Loup, 83570 Cotignac",
+    "horaires": "Du lundi au samedi de 9h à 13h et de 15h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Pain et viennoiseries",
+      "Fromages à la coupe",
+      "Vrac",
+      "Épicerie biologique",
+      "Hygiène et entretien"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop installé dans la zone d'activités du Loup à Loup, à la sortie sud de Cotignac. Il tient un rayon boulangerie et une fromagerie à la coupe et assure la collecte des contenants réemployables. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis mai 2022.",
+    "telephone": "06 76 57 26 20",
+    "site_web": "https://www.biocoop.fr/provence-alpes-cote-d-azur/var/COTIGNAC/BIOCOOP-DU-BESSILLON",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+du+Bessillon+Cotignac",
+    "image_url": "/images/marchands/biocoop-du-bessillon.jpg",
+    "a_confirmer": true
   }
 ]

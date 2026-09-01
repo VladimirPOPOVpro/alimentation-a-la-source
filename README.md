@@ -141,10 +141,28 @@ prioritaires en cas de conflit.
    marqueur doit tomber sur le bâtiment, pas sur une limite administrative. La divergence se
    consigne, elle n'empêche pas la publication : une adresse et un point qui désignent le même
    portail ne trompent personne.
+18. **Une certification bio détenue par une coopérative à plusieurs sites.** Le registre de l'Agence
+   Bio inscrit une certification au nom d'un opérateur, pas d'un bâtiment. La coopérative qui tient
+   la cave de Cotignac a son siège à Carcès, sous un nom qui n'est plus celui d'aucune de ses deux
+   boutiques, et son certificat Ecocert ne déclare que des adresses de Cotignac. Tranché ainsi : le
+   pilier `environnement` va aux sites que le certificat nomme, pas à tous les points de vente du
+   même groupe. Deux fiches d'une même coopérative peuvent donc porter des piliers différents sans
+   se contredire — elles disent chacune ce que le registre atteste à cette adresse-là. L'exception
+   de la règle 15, qui interdit à deux fiches du même commerce de se contredire, vise le même
+   commerce au même endroit, pas deux boutiques distantes exploitées par deux sociétés distinctes.
+19. **Un établissement non diffusible au registre des entreprises.** Certaines entreprises
+   individuelles demandent que leurs données ne soient pas diffusées : le registre répond alors
+   `[NON-DIFFUSIBLE]` pour le nom, l'adresse et les enseignes, en laissant visibles le nombre
+   d'établissements ouverts et le code d'activité. La règle 6 — pas de fiche sans entité active au
+   registre — reste vérifiable dans ce cas : le SIRET publié par un **autre** registre public, celui
+   de l'Agence Bio, qui porte la même enseigne et la même adresse, suffit à faire le lien, et c'est
+   l'ouverture qui est lue au registre des entreprises, rien d'autre. Aucune donnée masquée n'est
+   republiée, et le nom affiché reste celui que le producteur et l'office de tourisme donnent
+   eux-mêmes.
 
 ## Marchands à confirmer
 
-134 fiches sur 168 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+139 fiches sur 173 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -280,8 +298,13 @@ prioritaires en cas de conflit.
 - **Château Sainte-Croix** (première fiche publiée au titre de la règle 17 : deux offices de tourisme la placent au Thoronet, le producteur et le registre à Carcès, et c'est Carcès qui est publié. La Base Adresse Nationale ne connaît pas la route du Thoronet à Carcès et lui substitue silencieusement la route du Lac ; le point du registre tombe cinq kilomètres à l'ouest, sur le village. C'est le marqueur sur lequel les offices de Cœur du Var et de Provence Verte & Verdon s'accordent à la sixième décimale qui est publié. Les horaires divergent aussi d'un office à l'autre, l'un annonçant une saisonnalité que l'autre ignore : les deux versions figurent dans la fiche. Le mobile diverge d'un chiffre entre les deux offices et n'est pas publié ; seul le fixe, que le site du domaine confirme, l'est. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert d'août 2022)
 - **Hameau des Vignerons de Carcès** (trois noms pour un même lieu : « Coopérative vinicole La Carçoise » au registre pour la cave, au 66 avenue Ferrandin, « La Boutique du Hameau » pour le magasin, au 64, et « Hameau des Vignerons de Carcès » à l'office de tourisme comme sur le site. C'est ce dernier qui est publié, avec le point du 66 que rend la Base Adresse Nationale, à 30 m du marqueur de l'office. La certification HVE est annoncée par l'office — « près de 80 % du vignoble labellisé ou en cours de certification » — mais la cave ne la reprend nulle part sur son propre site : ni le pilier `environnement` ni une affirmation de certification ne figurent dans la fiche, seulement l'annonce attribuée à l'office, au titre des règles 14 et 15)
 - **Le Brasseur Varois** (la rue s'écrit « avenue Florentin Giraud » à l'office de tourisme et « avenue Giraud Florentin » au registre comme à la Base Adresse Nationale ; c'est cette dernière graphie qui est publiée, avec le point du numéro 25, à 7 m du marqueur de l'office. La gamme vient de la boutique en ligne de la brasserie, qui liste blonde, blanche, rosée, bière au miel et hydromel. Aucune certification n'étant revendiquée, la fiche porte `economie` seul, au titre des règles 14 et 15)
+- **Les Vignerons de Cotignac** (le nom de domaine `vigneronsdecotignac.com` ne mène plus à la cave : il redirige vers `hameaudecarces.com`, le site du Hameau des Vignerons de Carcès, où le mot « Cotignac » n'apparaît pas une seule fois. La redirection s'explique — le registre montre une même société coopérative, siège au 66 avenue Ferrandin à Carcès, avec un établissement actif à l'adresse de la cave de Cotignac — mais un site qui ne parle jamais de la commune ne peut pas être donné comme le site de la cave : le champ `site_web` est resté vide, cinquième piège de nom de domaine relevé ici. La Base Adresse Nationale ne connaît pas la rue Raymond Borghino et Alain Arnoux ; le point publié est celui de l'établissement au registre, à 265 m du marqueur de l'office de tourisme, règle 10. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert de juillet 2013, sous l'ancien nom de la coopérative)
+- **Les Flaveurs du Rocher** (contradiction assumée : l'office de tourisme affiche le label « Agriculture biologique (AB) » et le producteur écrit sur sa page d'accueil « production locale, artisanale et biologique depuis 10 ans », mais le registre de l'Agence Bio porte pour le SIRET de l'oléiculteur une certification Certipaq **arrêtée le 13 juin 2025**. Le pilier `environnement` n'est donc pas coché et la description ne reprend pas la mention bio, règles 5 et 15 ; le reste de la fiche est publié. Deux entités actives cohabitent : la boutique du 3 rue d'Antoine et l'huilerie de la route d'Entrecasteaux. Le fixe de l'office est publié, pas le mobile)
+- **So'Boutargue** (le nom publié est l'enseigne déclarée au registre, la société portant un autre nom. Le point est celui de l'établissement actif au registre, au lot 13 du pôle d'activité, à 250 m du marqueur de l'office de tourisme, règle 10 ; le contrôle inverse de la Base Adresse Nationale le rattache au chemin de la Colle, voie mitoyenne de la zone. Les horaires sont ceux de l'office, qui les dit lui-même variables selon les saisons, et la fiche le répète. La gamme vient de la boutique en ligne du producteur)
+- **Les Papillons Verts** (l'entreprise est **non diffusible** au registre des entreprises : nom, adresse et enseignes masqués, seul le nombre d'établissements ouverts est lisible. Première fiche publiée au titre de la règle 19, le lien étant fait par le SIRET que publie le registre de l'Agence Bio, à la même adresse et sous la même enseigne, avec un engagement chez Bureau Alpes Contrôles daté d'avril 2023 et le label Demeter que confirme l'office de tourisme. Les horaires divergent d'une heure entre la ferme, qui écrit « de 9h à 12h », et l'office, qui écrit « de 9h à 11h » : les deux versions figurent dans la fiche, règle 5. La Base Adresse Nationale ne rend rien pour le chemin des Adrets ; le point est celui que la ferme publie elle-même en degrés sexagésimaux, à 48 m du marqueur de l'office. L'incendie de juillet 2026, documenté par les photographies datées du site de la ferme, a brûlé la plupart des oliviers et des fruitiers : la description le dit et l'huile d'olive ne figure pas dans les produits)
+- **Biocoop du Bessillon** (le magasin est immatriculé sous un nom qui n'est pas son enseigne ; c'est l'enseigne du réseau coopératif, celle de la façade et de la fiche officielle Biocoop, qui est publiée, règle 3. Horaires, téléphone et services — boulangerie, fromagerie à la coupe, collecte de contenants réemployables — viennent de cette fiche officielle ; l'adresse s'y arrête à la zone d'activités, sans numéro, et le point est celui de l'établissement au registre, que le contrôle inverse rattache au chemin du Loup à Loup à 18 m. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert de mai 2022)
 
-Les 168 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 173 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -652,6 +675,67 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées à Cotignac
+
+- **Marché du mardi** (cours Gambetta et place Joseph Sigaud) : le marché existe, il est même le plus
+  gros du secteur — quatre-vingts exposants, toute l'année, de 8h à 13h d'après l'office de tourisme
+  Provence Verte & Verdon, et Les Papillons Verts écrivent sur leur propre site qu'ils y tiennent un
+  étal « les mardi de 7h à 13h ». Mais **la commune est muette** : son site ne publie que le marché
+  de Noël, le marché potier et les marchés nocturnes, son article « Reprise du marché des
+  producteurs et artisans locaux » ne rend plus qu'une 404, et son bulletin municipal est un PDF
+  scanné dont on ne peut rien extraire. Un producteur n'est pas la commune : la règle 16 demande que
+  la commune atteste l'existence du marché, et sans cela le marché n'est pas publié du tout. À
+  reprendre dès qu'une page communale, un arrêté ou un bulletin lisible le mentionne.
+- **Château Carpe Diem** (4436 route de Carcès) : domaine de trente hectares certifié en agriculture
+  biologique par Ecocert et en biodynamie depuis 2021 — le registre de l'Agence Bio confirme
+  l'engagement Ecocert de mai 2013 — avec caveau, horaires détaillés et visites guidées le jeudi
+  matin. Entièrement vérifiable ; non publié seulement parce que la passe comptait déjà ses cinq
+  fiches. **À prendre en premier au prochain passage sur Cotignac.**
+- **La Ferme du Bessillon** (chemin du Claou de Barrile) : élevage ovin et caprin, actif au registre
+  sous l'enseigne « La Ferme du Bessillon », annoncé par l'office de tourisme en vente directe avec
+  visite gratuite de la ferme. Non publié faute de gamme et d'horaires : l'office se contente de
+  « toute l'année, tous les jours » et de deux mots-clés — « fromages et produits laitiers »,
+  « viande et charcuterie » — et l'exploitation n'a pas de site, seulement une page Facebook.
+- **Château Nestuby** et **Clos de l'Ours** : deux domaines viticoles de la commune listés par
+  l'office de tourisme, non instruits cette passe. Le registre de l'Agence Bio porte pour tous deux
+  une certification arrêtée, en 2020 et en 2021 : ce sera `economie` seul, règles 14 et 15, sauf
+  élément nouveau.
+- **Le Safran du Cabanon** (chemin de la Colle de l'Andérète) : safran et olives, fiche à l'office de
+  tourisme, mais la certification bio est arrêtée depuis novembre 2021 au registre de l'Agence Bio.
+  Non instruit cette passe.
+- **M. Berton Christian** (4205 chemin de la Condamine) : producteur d'huile d'olive AOP de Provence
+  et de confitures de figues, reçu sur rendez-vous toute l'année d'après l'office de tourisme. Non
+  publié : l'office le désigne par le patronyme de l'exploitant, le registre ne déclare aucune
+  enseigne, et `MODERATION.md` interdit de publier le nom patronymique d'un exploitant en entreprise
+  individuelle comme s'il s'agissait d'une enseigne.
+- **Boucherie Maison Barra & Fils** et la **boulangerie bio de la zone du Loup à Loup** : hors sujet,
+  au même titre que les boucheries et boulangeries écartées au Thoronet et à Carcès. Le site
+  référence la vente en circuit court, pas le commerce alimentaire de détail généraliste.
+
+### Une cave peut rediriger son nom de domaine vers le site d'une autre commune
+
+`vigneronsdecotignac.com` ne mène plus à la cave de Cotignac : il redirige vers
+`hameaudecarces.com`, le site du Hameau des Vignerons de Carcès, à douze kilomètres, où le mot
+« Cotignac » n'apparaît nulle part. Ce n'est pas un domaine racheté comme `chateaudastros.com` ou
+`santaluciapoissonnerie.fr` : le registre montre une seule société coopérative — siège au 66 avenue
+Ferrandin à Carcès, sous un nom qui n'est plus celui d'aucune de ses deux boutiques — avec un
+établissement actif à l'adresse de la cave de Cotignac, et c'est le registre de l'Agence Bio qui
+garde encore l'ancienne raison sociale, « Société coopérative agricole Les Vignerons de Cotignac ».
+La redirection est donc légitime, et le champ `site_web` reste quand même vide : un site qui ne parle
+jamais de la commune ne renseigne pas le visiteur qui cherche cette cave-là. Cinquième piège de nom
+de domaine relevé ici, et le premier qui ne soit pas une capture.
+
+### Un label bio d'office de tourisme peut survivre à la fin de la certification
+
+La fiche de l'office de tourisme des Flaveurs du Rocher affiche le label « Agriculture biologique
+(AB) », et le producteur écrit sur sa propre page d'accueil « production locale, artisanale et
+biologique depuis 10 ans ». Le registre de l'Agence Bio, interrogé sur le SIRET de l'oléiculteur,
+donne une certification Certipaq **arrêtée le 13 juin 2025** — le champ `dateArret`, qui n'apparaît
+qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARRETEE` seul ne dit pas
+quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
+`environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
+et pas seulement l'état, avant d'accorder ou de refuser le pilier.
 
 ### Pistes non publiées à Carcès
 
