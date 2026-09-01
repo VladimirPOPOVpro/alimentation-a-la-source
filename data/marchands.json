@@ -4966,5 +4966,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediatheque+Jacques+Cestor+Brignoles",
     "image_url": "/images/marchands/marche-du-samedi-de-brignoles.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chateau-real-martin",
+    "nom": "Château Réal Martin",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.462135,
+    "lon": 6.05852,
+    "adresse": "4476 route de Barjols, 83143 Le Val",
+    "horaires": "Toute l'année, du mardi au vendredi de 14h à 17h, d'après l'office de tourisme Provence Verte & Verdon. Le domaine ne publie aucune heure sur son propre site.",
+    "produits": [
+      "Cuvée Château Réal Martin en rosé, blanc et rouge",
+      "Cuvée l'Optimum élevée en fûts de chêne français",
+      "Cuvées Perle de Rosé, Perle de Blanc et Cheval Martin",
+      "Huile d'olive",
+      "Dégustation et visite guidée du vignoble"
+    ],
+    "description": "Ancien domaine de l'abbaye de Montmajour passé aux comtes de Provence, restauré depuis 2001 par la famille qui l'exploite : 300 hectares de bois et de collines dont 35 hectares de vieilles vignes et 5 hectares d'oliveraie. Bovins, ovins et équidés pâturent entre les rangs ; le registre de l'Agence Bio inscrit le domaine auprès d'Ecocert depuis avril 2015, pour le vin comme pour l'huile d'olive.",
+    "telephone": "04 94 86 40 90",
+    "site_web": "https://www.chateau-real-martin.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Real+Martin+Le+Val",
+    "image_url": "/images/marchands/chateau-real-martin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-fontainebleau-en-provence",
+    "nom": "Domaine Fontainebleau en Provence",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.459549,
+    "lon": 6.107305,
+    "adresse": "Château de Fontainebleau, route de Montfort-sur-Argens, 83143 Le Val",
+    "horaires": "Du 1er juin au 30 septembre, le lundi, le vendredi et les week-ends de 10h à 19h ; du 1er octobre au 31 mai, du lundi au vendredi de 10h à 18h, samedi et dimanche uniquement sur rendez-vous, d'après l'office de tourisme Provence Verte & Verdon. Le domaine annonce de son côté, sur son propre site, une ouverture tous les jours de 10h à 19h.",
+    "produits": [
+      "Vins AOP Coteaux Varois en Provence en trois couleurs",
+      "Huile d'olive",
+      "Dégustation commentée",
+      "Visite du chai suivie d'une dégustation",
+      "Balade dans le vignoble en voiturette électrique"
+    ],
+    "description": "Bastide toscane du XVIIIe siècle relevée au milieu d'un vallon de la Provence Verte, entourée d'oliviers, d'animaux et de 35 hectares de vignes plantées sur un terroir de pélites rouges. Le registre de l'Agence Bio inscrit le domaine auprès d'Ecocert depuis septembre 2013, pour le raisin, les olives et l'huile d'olive.",
+    "telephone": "04 94 59 59 09",
+    "site_web": "https://www.domaine-fontainebleau-en-provence.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Fontainebleau+en+Provence+Le+Val",
+    "image_url": "/images/marchands/domaine-fontainebleau-en-provence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-vignerons-de-correns-le-val",
+    "nom": "Les Vignerons de Correns - caveau du Val",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.437245,
+    "lon": 6.071459,
+    "adresse": "Hôtel des Vins, rue de la République, 83143 Le Val",
+    "horaires": "Du 2 mai au 30 septembre, du lundi au dimanche et les jours fériés, de 9h30 à 12h30 et de 14h30 à 19h, d'après la coopérative. Elle ne publie pas d'heures d'hiver pour ce caveau ; l'office de tourisme annonce, du 1er octobre au 30 avril, du lundi au samedi de 9h30 à 12h30 et de 14h30 à 19h, et le dimanche de 9h30 à 12h30. Fermé les 25 décembre, 1er janvier et 1er mai.",
+    "produits": [
+      "Vins AOP Côtes de Provence en trois couleurs",
+      "Vins IGP Argens et IGP Var",
+      "Fines bulles Bulles d'Argens",
+      "Bag-in-box de 3 et 5 litres",
+      "Jus de raisin biologique de Correns",
+      "Huile d'olive biologique"
+    ],
+    "description": "Deuxième caveau de la cave coopérative de Correns, premier village de France entièrement passé en agriculture biologique : trente vignerons y cultivent 180 hectares de vignes en bio. Le caveau occupe l'Hôtel des Vins, à l'entrée du village du Val, reconnaissable à la fresque célébrant Bacchus peinte sur sa façade. Le registre de l'Agence Bio inscrit auprès d'Ecocert, depuis août 2016, la société de vente de la coopérative, qui déclare l'Hôtel des Vins parmi ses adresses.",
+    "telephone": "04 94 86 40 96",
+    "site_web": "https://www.vigneronsdecorrens.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vignerons+de+Correns+Le+Val",
+    "image_url": "/images/marchands/les-vignerons-de-correns-le-val.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "potagers-et-compagnie",
+    "nom": "Potagers & Compagnie",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.442086,
+    "lon": 6.094153,
+    "adresse": "Ferme Saint-Georges, 580 chemin de Saint-Georges, 83143 Le Val",
+    "horaires": "Paniers à composer sur la boutique en ligne et à retirer le jeudi, à la ferme, au Val ou à Brignoles. L'office de tourisme Provence Verte & Verdon annonce de son côté une ouverture du 1er avril au 31 janvier, du lundi au vendredi, sans préciser d'heures.",
+    "produits": [
+      "Paniers de fruits et légumes bio à composition libre, sans abonnement",
+      "Légumes de saison, près de cinquante variétés",
+      "Fruits : figues, pommes, abricots, pêches, prunes, kiwis, fraises",
+      "Œufs frais de poules pondeuses",
+      "Miel",
+      "Tartinades salées",
+      "Plantes aromatiques"
+    ],
+    "description": "Verger-maraîcher d'un hectare et demi installé depuis 2020 à la ferme Saint-Georges, sur les bords de la Ribeirotte : une cinquantaine de variétés de légumes et cinq espèces d'arbres fruitiers cultivés en agroforesterie et en maraîchage sur sol vivant, parmi lesquels se déplace un petit élevage de poules. L'exploitation est une entreprise de l'économie sociale et solidaire, agréée Entreprise Solidaire d'Utilité Sociale, qui emploie des maraîchers salariés ; le registre de l'Agence Bio l'inscrit auprès d'Ecocert depuis février 2020.",
+    "telephone": "04 94 59 12 96",
+    "site_web": "https://www.potagers-compagnie.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Potagers+et+Compagnie+Le+Val",
+    "image_url": "/images/marchands/potagers-et-compagnie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-caves-du-commandeur",
+    "nom": "Les Caves du Commandeur",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.471938,
+    "lon": 6.118575,
+    "adresse": "18 rue du Moulin, 83570 Montfort-sur-Argens",
+    "horaires": "Du lundi au samedi de 9h à 12h30 et de 15h à 19h, et le dimanche matin de 9h30 à 12h30 à partir du 12 juillet, d'après la cave. L'office de tourisme Provence Verte & Verdon publie une version saisonnière : du 1er juillet au 31 août, du lundi au samedi de 9h à 12h30 et de 15h à 19h, le dimanche de 9h30 à 12h30 ; du 1er septembre au 30 juin, du lundi au samedi de 9h à 12h30 et de 14h30 à 18h30.",
+    "produits": [
+      "Vins AOP Côtes de Provence en trois couleurs",
+      "Vins AOP Coteaux Varois en Provence",
+      "Vins IGP Var",
+      "Gammes L'Essentielle, Initiale, Secrète et Divitis",
+      "Cuvées Château Robernier",
+      "Vins en bag-in-box"
+    ],
+    "description": "Cave coopérative fondée en 1913 au bord de l'Argens, qui réunit plus de soixante vignerons et quelque six cents hectares de vignes répartis sur plusieurs communes. La cave annonce plus de 90 % de son vignoble en agriculture biologique ou certifié Haute Valeur Environnementale, démarche engagée en 2019 ; le registre de l'Agence Bio l'inscrit auprès d'Ecocert depuis juillet 2015. Elle tient deux autres caveaux, à Salernes et à Brignoles.",
+    "telephone": "04 94 59 54 46",
+    "site_web": "https://www.caves-du-commandeur.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Caves+du+Commandeur+Montfort-sur-Argens",
+    "image_url": "/images/marchands/les-caves-du-commandeur.jpg",
+    "a_confirmer": true
   }
 ]

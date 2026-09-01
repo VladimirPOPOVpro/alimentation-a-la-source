@@ -226,10 +226,31 @@ prioritaires en cas de conflit.
    score de 0,95, contre 0,44 pour le square voisin. C'est un échelon qui s'insère dans la règle 10
    juste avant le dernier, et il est meilleur que lui parce que le repère est nommé par la source
    qui fait foi sur le marché.
+27. **Le point du registre tombe dans la bonne rue, mais au mauvais numéro.** La règle 24 saute
+   l'échelon du registre quand le contrôle inverse rend une *voie* différente de l'adresse publiée.
+   Le Château Réal Martin montre le cas voisin, que cette formulation laissait passer : l'adresse
+   publiée par le domaine, par le registre et par l'office est « 4476 route de Barjols », et le point
+   du registre se retourne sur le « 2582 route de Barjols » à 45 m — la bonne voie, mais 1,9 km trop
+   au sud. Dans le Var rural la numérotation est métrique : l'écart entre deux numéros d'une même
+   route vaut à peu près la distance en mètres, et il se lit sans se déplacer. Tranché ainsi :
+   **l'échelon du registre se saute aussi quand le contrôle inverse rend la bonne voie avec un
+   numéro qui s'écarte de plus de 300 du numéro publié**, seuil repris de la règle 24. On descend
+   alors à l'échelon suivant. Corollaire vérifié au Val : le marqueur de l'office, lui, se retourne
+   sur le « 4476 » exact, à 117 m — le numéro publié tranche mieux que la distance.
+28. **Une commune qui ne fournit que quatre fiches vérifiables.** Le Val n'a que cinq fiches à
+   l'office de tourisme, dont une de savonnerie hors sujet, et son marché hebdomadaire tombe sous la
+   règle 16. Restaient quatre commerces solides — publier quatre fiches, ou en ajouter une cinquième
+   faible, sont deux mauvaises réponses. Tranché ainsi : **le groupe se complète sur une commune
+   limitrophe du même office de tourisme, à moins de dix kilomètres, où la cinquième fiche est la
+   seule du groupe**. Le compte rendu et la section « Pistes non publiées » nomment alors le secteur
+   et non la commune. Ici Montfort-sur-Argens, contiguë au Val, atteinte par la route même où se
+   tient le Domaine Fontainebleau, et dont la cave coopérative était la seule fiche de l'office.
+   Ce qui reste interdit, c'est d'aller chercher la cinquième à l'autre bout du département : cinq
+   fiches voisines rendent une zone utilisable, cinq fiches éparpillées ne servent à personne.
 
 ## Marchands à confirmer
 
-159 fiches sur 193 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+164 fiches sur 198 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -390,8 +411,13 @@ prioritaires en cas de conflit.
 - **Domaine de la Tombarel** (deuxième fiche publiée au titre de la règle 19 : l'entreprise est **non diffusible** au registre des entreprises — nom, adresse et enseignes masqués, deux établissements ouverts et un code viticole lisibles — et le lien est fait par le SIRET que publie le registre de l'Agence Bio, à la même adresse et sous le même nom, avec un engagement Bureau Veritas de juillet 2021 portant sur les olives et l'huile d'olive brute. La Base Adresse Nationale ne numérote pas jusqu'au 2100 de la route de Nice et le contrôle inverse du marqueur de l'office ne rend rien : le point publié est ce marqueur, faute de mieux, à 310 m du centre de la voie. L'office ne connaît qu'une page Facebook, alors que le domaine a un vrai site marchand, `domainedelatombarel.com`, ouvert et vérifié : c'est lui qui est inscrit)
 - **Château des Annibals** (première fiche publiée au titre de la règle 25 : la société de négoce du domaine est fermée au registre et son certificat bio arrêté en février 2026, mais la société d'exploitation est active et engagée chez Ecocert depuis **mars 1997** — la certification n'est pas perdue, elle n'a jamais été portée par la structure fermée. Le point du registre est écarté par la règle 24, son contrôle inverse le rattachant au chemin de Peygon ; c'est le numéro de voirie de la Base Adresse Nationale pour le 649 de la route de Bras qui est publié, à 47 m du marqueur de l'office. L'huile d'olive figure dans les activités déclarées à l'office et dans les productions certifiées, mais pas sur le site du domaine, qui ne parle que de vin : elle est inscrite dans les produits, sans mention de volume. Le nom de la famille exploitante, que le site publie, n'est pas repris)
 - **Marché du samedi de Brignoles** (deuxième fiche publiée au titre de la règle 22, et première au titre de la règle 26 : la commune écrit « place du général de Gaulle, devant la médiathèque Jacques-Cestor », l'office de tourisme écrit « avenue Foch », 140 m plus à l'est. C'est la commune qui est publiée, et comme la Base Adresse Nationale ne connaît pas cette place, c'est le point de la médiathèque qu'elle nomme qui sert de repère. L'heure — 7h30 à 12h30 — et le décompte de cent quarante exposants viennent de l'office ; la commune n'en publie aucun, et la fiche le dit. Le nom et le mobile du placier, que la commune publie, ne sont pas repris)
+- **Château Réal Martin** (première fiche publiée au titre de la règle 27 : le point du registre se retourne sur le « 2582 route de Barjols », la bonne voie mais 1,9 km trop au sud, alors que l'adresse publiée partout est le 4476. Le numéro de voirie de la Base Adresse Nationale pour ce 4476 est publié — et il est attribué par la Base à **Correns**, alors que le domaine, le registre et l'office écrivent tous « 83143 Le Val » : règle 17, on publie la commune déclarée et le point sur lequel les sources s'accordent, ici à 117 m du marqueur de l'office. Le bio est vérifié par SIRET au registre de l'Agence Bio, Ecocert depuis avril 2015, et porte sur le vin comme sur l'huile d'olive. Les horaires viennent de l'office : le domaine n'en publie aucun. Le nom de la famille exploitante, que le site publie, n'est pas repris ; les truffes et les pois chiches figurent dans les productions certifiées mais nulle part comme produits en vente, ils ne sont pas inscrits)
+- **Domaine Fontainebleau en Provence** (deux contradictions consignées. Horaires : l'office donne une ouverture saisonnière détaillée, le site du domaine écrit « ouvert tous les jours de 10h à 19h » ; les deux sont publiés et attribués, aucun n'est arbitré. Surface : l'office annonce 170 hectares, le site 135 — c'est la surface du terroir, et les deux sources s'accordent en revanche sur les 35 hectares de vignes, seul chiffre publié. Le point du registre et le marqueur de l'office tombent à 17 m l'un de l'autre ; le contrôle inverse de la Base ne rend rien à cet endroit, le domaine étant isolé. Les prénoms des exploitants, que le site publie, ne sont pas repris)
+- **Les Vignerons de Correns - caveau du Val** (deuxième caveau d'une coopérative déjà publiée à Correns, comme la Guilde des Vignerons l'est au Cannet-des-Maures et au Thoronet. Le point du registre a été écarté par la règle 24 bien qu'il ne soit qu'à 123 m du marqueur de l'office : le contrôle inverse le rattache à la rue du Onze-Novembre-1918, alors que le registre déclare lui-même « rue de la République » et que le marqueur de l'office se retourne sur le « 56 rue de la République » à 32 m. Le seuil de 300 m rend le contrôle obligatoire, il ne l'interdit pas en deçà. Les horaires d'été viennent de la coopérative, ceux d'hiver de l'office, qui est seul à en publier pour ce caveau ; le pilier `environnement` s'appuie sur la règle 18, l'Hôtel des Vins figurant parmi les adresses déclarées par la société de vente au registre de l'Agence Bio)
+- **Potagers & Compagnie** (deuxième fiche publiée au titre de la règle 19 : l'entreprise est **non diffusible** au registre des entreprises — nom, adresse et enseignes masqués, un établissement ouvert — et le lien est fait par le SIRET que publie le registre de l'Agence Bio, au 580 chemin de Saint-Georges, engagement Ecocert de février 2020. Le site officiel est une application JavaScript dont le HTML servi est vide : il a fallu l'ouvrir dans un navigateur pour le lire. Les horaires de l'office — « du 1er avril au 31 janvier, du lundi au vendredi » — ne recoupent pas ce qu'écrit la ferme, qui fait retirer les paniers le jeudi ; les deux sont publiés et attribués. Le pilier `social` s'appuie sur l'agrément Entreprise Solidaire d'Utilité Sociale, que l'office et la ferme affichent tous deux)
+- **Les Caves du Commandeur** (seule fiche du groupe à Montfort-sur-Argens, publiée au titre de la règle 28. Pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. Les horaires de la cave et ceux de l'office divergent sur la saison basse — 15h-19h contre 14h30-18h30 — et les deux sont publiés et attribués. Le nom de domaine `caves-du-commandeur.fr`, que publie l'office, redirige vers `caves-du-commandeur.com` : c'est l'adresse effective qui est inscrite. Le pilier `environnement` s'appuie sur deux sources concordantes, la HVE que la cave revendique depuis le millésime 2019 et l'engagement Ecocert de juillet 2015 au registre de l'Agence Bio, à l'adresse même du caveau)
 
-Les 193 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 198 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -869,6 +895,50 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées au Val et à Montfort-sur-Argens
+
+Premier secteur publié à cheval sur deux communes, au titre de la règle 28. L'office de tourisme
+Provence Verte & Verdon ne publie que cinq fiches au Val et une seule à Montfort-sur-Argens ; voici
+ce qui n'a pas été retenu.
+
+- **SavOnette** (18 place Gambetta, Le Val) : savons et shampoings solides, quinze photos à l'office,
+  qui la classe en « Produits non alimentaires ». Hors sujet : le site référence la vente
+  **alimentaire** en circuit court. C'est la seule des cinq fiches du Val écartée pour cette raison.
+- **Le marché du vendredi du Val** (quinze exposants d'après l'office de tourisme, toute l'année) :
+  **non publié, règle 16**. Le site de la commune ne dit rien d'un marché hebdomadaire — la
+  recherche interne ne rend que des marchés nocturnes d'été et des marchés de Noël, tous datés à un
+  jour précis, et les seules pages « marchés » du site sont celles des marchés publics. Le plan du
+  site a été parcouru en entier : ni page « commerces », ni page « marché ». Commune muette, donc
+  pas de fiche, même avec un annuaire qui donne le jour.
+- **Le Fournil du Val** (La Jouberte, Le Val) : boulangerie artisanale bien réelle au registre, sous
+  enseigne. Écartée faute de source de premier rang : ni l'office de tourisme, ni la commune, ni un
+  site officiel ne la décrivent ; seuls des annuaires tiers en parlent, et les horaires qu'ils
+  donnent — 6h à 20h, sept jours sur sept — ne ressemblent pas à ceux d'un fournil de village. Le
+  précédent de la Boulangerie de Port-Grimaud montre qu'une boulangerie a sa place ici ; c'est la
+  vérification qui manque, pas la catégorie.
+- **Domaine des Eissartènes** (4606 route de Bras, Le Val) : société active au registre depuis 2017,
+  mais aucun site officiel, aucune fiche à l'office, aucun horaire publié. À noter pour la règle 25 :
+  le certificat Ecocert que porte l'ancien groupement foncier à cette adresse est **arrêté** depuis
+  octobre 2021, et la société qui exploite aujourd'hui n'en a aucun — ici l'arrêt vaut bien perte.
+- **Ferme Saint-Georges** (580 chemin de Saint-Georges, Le Val) : exploitation active, certifiée
+  Ecocert depuis avril 2021 pour les olives, les ruches et le miel, à l'adresse exacte de Potagers &
+  Compagnie, qui est installée chez elle. Deux points superposés se lisent comme un doublon : rien
+  n'établit qu'elles vendent au même comptoir, condition de la règle 7, ni qu'elles vendent
+  séparément. Fiche non publiée en attendant une source qui le dise.
+- **La Ferme dei Benvengut** (4820 route de Bras) et **la Ferme des Alpina** (143 chemin du Marteau) :
+  deux élevages d'ovins et de caprins actifs au registre, sous des noms qui sont bien des enseignes
+  et non des patronymes. Aucune trace de vente directe, aucun site, aucune fiche à l'office : la
+  recherche n'a rendu que des annuaires d'entreprises. Pistes à reprendre si une source apparaît.
+- **Le Palangre** (980 route de Barjols, Le Val) : le nom évoque une poissonnerie, le code d'activité
+  du registre dit « activités des sièges sociaux ». Rien à publier.
+- **Une douzaine de vignerons du Val certifiés bio** figurent au registre de l'Agence Bio sous le nom
+  de leur exploitant, sans enseigne, sans caveau annoncé et sans fiche à l'office : la modération
+  interdit de publier le patronyme d'un exploitant en entreprise individuelle comme s'il s'agissait
+  d'une enseigne, et rien ici ne dit qu'ils vendent au public.
+- **Château Miraval** déclare au registre de l'Agence Bio une seconde adresse au Val, « 4515 route de
+  Barjols », mais son siège et son activité sont à Correns et il n'ouvre pas de point de vente.
+  Aucune fiche.
 
 ### Pistes non publiées à Brignoles
 
