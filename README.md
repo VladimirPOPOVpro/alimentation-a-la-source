@@ -130,10 +130,21 @@ prioritaires en cas de conflit.
    le lieu sont alors donnés comme un fait, les heures sont attribuées nommément à l'annuaire qui
    les publie, et la fiche dit que la commune ne les confirme pas. En dessous — commune muette, ou
    annuaires en désaccord — le marché n'est pas publié du tout.
+17. **Un établissement à cheval sur deux communes.** Le Château Sainte-Croix est décrit par trois
+   offices de tourisme : deux le placent au Thoronet, celui de sa propre intercommunalité le place
+   à Carcès, et le producteur comme le registre écrivent « Route du Thoronet, 83570 Carcès ». La
+   Base Adresse Nationale, elle, ne connaît pas cette voie à Carcès et rattache le point des
+   marqueurs à un chemin du Thoronet, à quarante mètres. Tranché ainsi : **la commune publiée est
+   celle que le producteur déclare et que le registre confirme**, parce que c'est l'adresse à
+   laquelle il reçoit son courrier et ses clients ; **le point de la carte est celui sur lequel les
+   sources s'accordent physiquement**, même quand la BAN l'attribue à la commune voisine — le
+   marqueur doit tomber sur le bâtiment, pas sur une limite administrative. La divergence se
+   consigne, elle n'empêche pas la publication : une adresse et un point qui désignent le même
+   portail ne trompent personne.
 
 ## Marchands à confirmer
 
-129 fiches sur 163 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+134 fiches sur 168 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -264,8 +275,13 @@ prioritaires en cas de conflit.
 - **Lumière des Simples** (l'office de tourisme Cœur du Var est la seule source descriptive, et l'exploitation est immatriculée sous patronyme : le nom publié est l'enseigne déclarée au registre. La Base Adresse Nationale ne rend pas de numéro pour le 3867 route de Vidauban ; le point publié est celui de l'établissement au registre, à 240 m du marqueur de l'office, règle 10. Les produits croisent la description de l'office — culture et distillation de plantes — et les productions déclarées au registre de l'Agence Bio, qui date l'engagement chez Ecocert de février 2024)
 - **All'Orto di Alfredo** (l'apiculteur n'apparaît qu'à l'annuaire du point information du Thoronet, sous un nom commercial italien que le registre ne déclare pas comme enseigne : c'est ce nom qui est publié, jamais le patronyme sous lequel l'entreprise individuelle est immatriculée. Son site, hébergé sur le domaine d'un saxophoniste, ne rend plus qu'une page vide : le champ `site_web` est resté vide, quatrième piège de nom de domaine relevé ici. Aucun horaire n'est publié nulle part, la fiche le dit. Les baumes et sticks à lèvres viennent des étiquettes lisibles sur la photographie de l'office, la seule source qui documente la gamme)
 - **Marché du Thoronet** (première fiche publiée au titre de la règle 16 : la commune écrit qu'elle a « son marché provençal » mais sa page « Marchés » est en cours de construction. Le jour et le lieu tiennent parce que trois sources indépendantes s'accordent — l'office de tourisme Cœur du Var, Provence-Guide, qui dit avoir fait confirmer ses données par un office de la région en juillet 2023, et Jours-de-Marché ; les heures divergent d'une demi-heure entre les deux annuaires et sont attribuées à chacun dans la fiche. Le point est celui que la Base Adresse Nationale rend pour le parking Louis Rainaud, à 100 m du chemin de Pré Long que Provence-Guide donne comme autre nom du même lieu, et à 270 m du caveau de la Guilde. La photo est une vue du village prise dans la présentation du point information : photo thématique de la même commune, règle 1 — l'affiche de la foire au bio publiée par la mairie est une affiche, pas une photographie du marché)
+- **Marché provençal de Carcès** (la commune écrit « le marché provençal du samedi matin » et cherche des exposants, sans publier ni heure ni lieu ; son règlement général des marchés est un PDF scanné dont on ne peut rien extraire. L'heure, la rue et le décompte de quarante-six exposants viennent de l'office de tourisme Provence Verte & Verdon, et sont attribués comme tels. Le point est celui que la Base Adresse Nationale rend pour la rue du Maréchal Foch, l'axe du vieux village, à 116 m de la brasserie et à 382 m de la cave coopérative. La photo est celle que la commune a mise sur sa page « marché provençal » : une vraie photographie de ses étals, avec le titre incrusté par la mairie — la seule autre image nommée « MARCHE » dans sa médiathèque est le portrait d'une élue qui porte ce patronyme)
+- **Frédéric Forton Apiculteur** (le nom publié est bien une enseigne et non un patronyme repris tel quel : « FREDERIC FORTON APICULTEUR » est l'enseigne déclarée au registre, et c'est aussi le titre du site de l'exploitation. Le bio est vérifié deux fois — engagement chez Bureau Alpes Contrôles daté de novembre 2020 au registre de l'Agence Bio, mention « FR-BIO-15 » sur le site — et l'IGP Miel de Provence est revendiquée par le producteur. Le point est le numéro 93 que la Base Adresse Nationale rend au quartier Vaou Nègre Est, à 65 m du marqueur de l'office comme du point du registre. Deux mobiles sont publiés par l'office, un seul est repris)
+- **Château Sainte-Croix** (première fiche publiée au titre de la règle 17 : deux offices de tourisme la placent au Thoronet, le producteur et le registre à Carcès, et c'est Carcès qui est publié. La Base Adresse Nationale ne connaît pas la route du Thoronet à Carcès et lui substitue silencieusement la route du Lac ; le point du registre tombe cinq kilomètres à l'ouest, sur le village. C'est le marqueur sur lequel les offices de Cœur du Var et de Provence Verte & Verdon s'accordent à la sixième décimale qui est publié. Les horaires divergent aussi d'un office à l'autre, l'un annonçant une saisonnalité que l'autre ignore : les deux versions figurent dans la fiche. Le mobile diverge d'un chiffre entre les deux offices et n'est pas publié ; seul le fixe, que le site du domaine confirme, l'est. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert d'août 2022)
+- **Hameau des Vignerons de Carcès** (trois noms pour un même lieu : « Coopérative vinicole La Carçoise » au registre pour la cave, au 66 avenue Ferrandin, « La Boutique du Hameau » pour le magasin, au 64, et « Hameau des Vignerons de Carcès » à l'office de tourisme comme sur le site. C'est ce dernier qui est publié, avec le point du 66 que rend la Base Adresse Nationale, à 30 m du marqueur de l'office. La certification HVE est annoncée par l'office — « près de 80 % du vignoble labellisé ou en cours de certification » — mais la cave ne la reprend nulle part sur son propre site : ni le pilier `environnement` ni une affirmation de certification ne figurent dans la fiche, seulement l'annonce attribuée à l'office, au titre des règles 14 et 15)
+- **Le Brasseur Varois** (la rue s'écrit « avenue Florentin Giraud » à l'office de tourisme et « avenue Giraud Florentin » au registre comme à la Base Adresse Nationale ; c'est cette dernière graphie qui est publiée, avec le point du numéro 25, à 7 m du marqueur de l'office. La gamme vient de la boutique en ligne de la brasserie, qui liste blonde, blanche, rosée, bière au miel et hydromel. Aucune certification n'étant revendiquée, la fiche porte `economie` seul, au titre des règles 14 et 15)
 
-Les 163 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 168 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -637,6 +653,57 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
 
+### Pistes non publiées à Carcès
+
+- **Spiruline du Mas Éole** (462 chemin des Fouguières) : ferme de spiruline décrite par l'office de
+  tourisme, avec un site marchand vivant, une gamme complète — paillettes, poudre, comprimés,
+  spiruline au curcuma et au gingembre, savon — et une liste de points de vente cohérente avec le
+  terrain, dont la brasserie et la cave coopérative du village. Écartée pourtant, au titre de la
+  règle 6 : **aucune entité active ne lui correspond au registre**, ni sous ce nom, ni à cette
+  adresse, ni à celle de sa seconde ferme à Cuges-les-Pins, et le site n'a pas de page de mentions
+  légales d'où tirer un SIRET. Une boutique en ligne sans mentions légales n'est pas une preuve
+  d'existence légale. À reprendre dès qu'une immatriculation est trouvée : tout le reste de la
+  fiche est prêt.
+- **Fruits et légumes Carcès** (19 rue du Maréchal Foch) : l'office de tourisme décrit un maraîcher
+  qui vend sa propre récolte dans un magasin du centre, du mardi au samedi, avec livraison dans un
+  rayon de 15 km. Au registre, **toutes les entreprises de fruits et légumes de cette adresse sont
+  fermées** — Guy Moreno et Les Halles Carçoises, toutes deux en code 47.21Z — et la seule société
+  active au nom de l'exploitant que l'office donne est une entreprise de travaux, à une autre
+  adresse. Non publiée, règle 6.
+- **Le Comptoir du Bargidou** (384 chemin de Gombaud) : biscuiterie active au registre en code
+  10.72Z, citée comme point de vente par la ferme de spiruline. Aucune fiche d'office de tourisme,
+  aucune source descriptive : rien ne dit ce qu'on y achète ni quand. À instruire.
+- **Domaine des Oliverons** (route de Cotignac) : vins bio, engagement Ecocert de 2007 au registre
+  de l'Agence Bio, label AB affiché par l'office de tourisme, vente sur rendez-vous toute l'année.
+  Non publié cette passe, qui comptait déjà deux domaines : à prendre en premier au prochain
+  passage, c'est le mieux documenté des restants.
+- **Domaine Clos Gautier**, **Domaine Foussenq**, **Domaine Roux**, **Domaine Saint Jean**,
+  **Domaine de l'Estan**, **Domaine du Grand Saint Paul** et **Domaine Hauts du Clos** : sept
+  domaines de la commune décrits par l'office de tourisme, dont trois engagés en bio au registre de
+  l'Agence Bio. Non instruits, pour ne pas faire de Carcès une liste de caveaux.
+- **Boucherie Viand'Art**, **Le Fournil de Pascal** et l'**Intermarché** de la route de Brignoles :
+  commerces alimentaires généralistes, écartés comme ailleurs. L'Intermarché est pourtant inscrit au
+  registre de l'Agence Bio, ce qui ne le rend pas circuit court pour autant.
+
+### Deux noms de domaine imitent le site d'une commune, aucun n'est le bon
+
+Chercher le site de la mairie de Carcès mène d'abord à deux impasses. `carces.fr` se présente comme
+« Carcès — magazine indépendant », publie 292 articles classés par rubriques à emoji, et remonte
+dans les moteurs de recherche sous le titre « ACCUEIL Mairie de CARCES ». `ville-carces.fr` se
+décrit lui-même comme un « site de conservation de référence » et republie des contenus scrapés. Le
+site officiel est **`villedecarces.fr`**, et il n'apparaît ni sur l'un ni sur l'autre. C'est le
+quatrième piège de nom de domaine relevé dans ce dépôt, après la Poissonnerie Santa Lucia, le
+Château d'Astros et le Moulin du Grimaudet, mais le premier qui vise une **mairie** : le réflexe
+« nom de la commune + .fr » ne suffit pas, il faut confirmer par l'annuaire de service-public.fr ou
+par un lien depuis un site institutionnel.
+
+### Une recherche d'image sur « marché » peut rendre le portrait d'une élue
+
+La médiathèque WordPress de Carcès rend, pour la requête `marche`, un fichier
+`Sandrine-MARCHE_018_resultat.jpg` : c'est le portrait d'une élue dont le patronyme est Marche, pas
+une photographie du marché. Le fichier a été ouvert avant d'être écarté, comme doit l'être toute
+image avant publication — la consigne « pas de visage identifiable » ne se vérifie qu'en regardant.
+
 ### Pistes non publiées au Thoronet
 
 - **Château Sainte-Croix** : les deux offices de tourisme qui le décrivent le placent au Thoronet —
@@ -647,9 +714,11 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
   d'Antibes », et les deux seules sociétés portant ce nom au registre sont domiciliées « Château
   Sainte Croix, route du Thoronet, 83570 Carcès ». Le producteur et le registre disent Carcès, les
   offices disent Le Thoronet : la propriété est manifestement à cheval sur la limite communale et
-  son caveau du côté de Carcès. Non publiée ici, à reprendre au passage sur Carcès. Troisième
-  divergence au passage : le site que l'office communal donne, `chateau-sainte-croix-vin.fr`, ne
-  répond plus, quand `chateau-sainte-croix.com` répond.
+  son caveau du côté de Carcès. **Reprise et publiée au passage suivant, sous Carcès**, une fois
+  trouvé le troisième office — celui de Provence Verte & Verdon, dont Carcès dépend — qui la place
+  lui aussi à Carcès, et une fois écrite la règle 17. Troisième divergence au passage : le site que
+  l'office communal donne, `chateau-sainte-croix-vin.fr`, ne répond plus, quand
+  `chateau-sainte-croix.com` répond.
 - **Domaine de Camparnaud** : quarante hectares au Thoronet, actif au registre depuis 2001, décrit
   par l'office de tourisme communal, ouvert du vendredi au dimanche. Écarté sur un point unique et
   bloquant — le point de la carte. L'office donne « Route d'Entrecasteaux », que la Base Adresse

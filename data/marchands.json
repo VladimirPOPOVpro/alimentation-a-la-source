@@ -4157,5 +4157,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parking+Louis+Rainaud+Le+Thoronet",
     "image_url": "/images/marchands/marche-du-thoronet.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-de-carces",
+    "nom": "Marché provençal de Carcès",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.476409,
+    "lon": 6.182637,
+    "adresse": "Rue du Maréchal Foch, 83570 Carcès",
+    "horaires": "Le samedi de 7h30 à 12h30, toute l'année. La commune annonce « le marché provençal du samedi matin » sans en publier l'heure ; l'horaire et le lieu viennent de l'office de tourisme Provence Verte & Verdon.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Poissons",
+      "Fromages",
+      "Charcuterie",
+      "Rôtisserie",
+      "Fleurs et plants",
+      "Vannerie",
+      "Produits locaux"
+    ],
+    "description": "Marché du samedi matin dans la rue principale du vieux village, le plus gros de ce coin de Provence Verte après ceux de Brignoles et de Garéoult : l'office de tourisme y compte quarante-six exposants, maraîchers, poissonnier, rôtisseurs, charcutier, fromages, vannier, fleurs et plants. L'emplacement est gratuit pour le visiteur ; la mairie recrute encore des exposants de produits locaux.",
+    "telephone": "04 94 04 50 14",
+    "site_web": "https://villedecarces.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+du+Marechal+Foch+Carces",
+    "image_url": "/images/marchands/marche-provencal-de-carces.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "frederic-forton-apiculteur",
+    "nom": "Frédéric Forton Apiculteur",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.474566,
+    "lon": 6.17532,
+    "adresse": "93 quartier Vaou Nègre Est, 83570 Carcès",
+    "horaires": "Ouvert toute l'année, tous les jours, mais l'apiculteur demande de prendre rendez-vous avant de se déplacer. Pour assister à l'extraction du miel en été, l'office de tourisme Provence Verte & Verdon organise les visites.",
+    "produits": [
+      "Miel de garrigue bio",
+      "Miel d'acacia et aubépine bio",
+      "Miel de châtaignier",
+      "Miel de bruyère",
+      "Miel de forêt",
+      "Gelée royale",
+      "Bonbons au miel et à la propolis"
+    ],
+    "description": "Exploitation apicole familiale installée à Carcès depuis 2011, dont les trois cent cinquante ruches sont transhumées au fil des floraisons. Les miels sont certifiés en agriculture biologique par Bureau Alpes Contrôles, engagement daté de novembre 2020 au registre de l'Agence Bio, et portent l'IGP Miel de Provence. La miellerie se visite sur rendez-vous, en face de la station-service de l'Intermarché.",
+    "telephone": "06 65 00 47 85",
+    "site_web": "https://forton-apiculteur-miel-provence.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Frederic+Forton+Apiculteur+Carces",
+    "image_url": "/images/marchands/frederic-forton-apiculteur.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-sainte-croix",
+    "nom": "Château Sainte-Croix",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.477405,
+    "lon": 6.224752,
+    "adresse": "Route du Thoronet, 83570 Carcès",
+    "horaires": "Ouvert toute l'année du lundi au samedi de 9h à 12h et de 14h à 18h, fermé les jours fériés. Le point information du Thoronet annonce pour sa part une fermeture à 18h en automne et en hiver, et de 15h à 19h au printemps et en été.",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc",
+      "Vins de la propriété en agriculture biologique"
+    ],
+    "description": "Propriété familiale depuis quatre générations, cinquante hectares de vignes entre Carcès et l'abbaye du Thoronet, engagée en agriculture biologique auprès d'Ecocert depuis août 2022 d'après le registre de l'Agence Bio. Le caveau de la propriété fait déguster une gamme de dix-neuf cuvées ; le domaine tient un second point de vente à Antibes et loue des chambres d'hôtes.",
+    "telephone": "04 94 80 79 13",
+    "site_web": "https://www.chateau-sainte-croix.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Sainte+Croix+Carces",
+    "image_url": "/images/marchands/chateau-sainte-croix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "hameau-des-vignerons-de-carces",
+    "nom": "Hameau des Vignerons de Carcès",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.473136,
+    "lon": 6.18408,
+    "adresse": "66 avenue Ferrandin, 83570 Carcès",
+    "horaires": "Du 1er septembre au 30 juin : du mardi au samedi de 9h à 12h et de 14h à 18h. Du 1er juillet au 31 août : du lundi au samedi de 9h à 13h et de 15h à 19h.",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc",
+      "Vins de pays du Var"
+    ],
+    "description": "Cave coopérative du village, immatriculée sous le nom de Coopérative vinicole La Carçoise, dont les vignes couvrent plus de six cent trente hectares de sols argilo-calcaires. La Boutique du Hameau, mitoyenne, assure la vente et la dégustation. L'office de tourisme Provence Verte & Verdon annonce près de 80 % du vignoble labellisé ou en cours de certification Haute Valeur Environnementale, une information que la cave ne reprend pas sur son propre site.",
+    "telephone": "04 94 04 50 04",
+    "site_web": "https://www.hameaudecarces.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hameau+des+Vignerons+de+Carces",
+    "image_url": "/images/marchands/hameau-des-vignerons-de-carces.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-brasseur-varois",
+    "nom": "Le Brasseur Varois",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.475382,
+    "lon": 6.182884,
+    "adresse": "25 avenue Giraud Florentin, 83570 Carcès",
+    "horaires": "Ouvert toute l'année du mardi au samedi de 9h à 12h30 et de 14h30 à 18h30. Visite découverte du brassage et dégustation sur réservation.",
+    "produits": [
+      "Bière blonde",
+      "Bière blanche",
+      "Bière rosée",
+      "Bière au miel",
+      "Hydromel"
+    ],
+    "description": "Brasserie artisanale installée au centre du village, qui brasse une gamme permanente et des bières de saison, ainsi qu'un hydromel. Le magasin attenant vend les bouteilles de 33 et 75 cl et loue des tireuses ; la visite du brassage se réserve à l'avance. L'établissement porte le label Commerce Engagé de la région.",
+    "telephone": "06 09 75 82 25",
+    "site_web": "https://www.lebrasseurvarois.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Brasseur+Varois+Carces",
+    "image_url": "/images/marchands/le-brasseur-varois.jpg",
+    "a_confirmer": true
   }
 ]
