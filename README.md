@@ -259,10 +259,31 @@ prioritaires en cas de conflit.
    producteurs identifiés — c'est un commerce généraliste et la fiche ne se publie pas. C'est le
    pendant de la règle 8, qui traite le point de vente collectif : ici le comptoir est celui d'une
    ferme, et c'est la part de sa propre production qui est en jeu, pas son appartenance au groupe.
+30. **Un commerce qui publie deux adresses différentes sur son propre site.** Le Domaine Baussanne
+   donne « Route de Brignoles » dans le bloc contact de son site, et « Chemin de Lamanon » dans ses
+   conditions générales de vente, à côté de sa raison sociale et de son numéro RCS. Les deux sont
+   vraies : l'une est le lieu où l'on est reçu, l'autre le siège déclaré. Tranché ainsi : **l'adresse
+   publiée est celle du bloc contact, celle où le visiteur est attendu ; une adresse voisine d'une
+   raison sociale et d'un numéro RCS dans les mentions légales ou les CGV ne sert qu'à identifier
+   l'entité au registre, jamais à situer le commerce**. Le point de la carte redescend alors
+   l'échelle de la règle 10 depuis l'adresse de visite, et le point du registre — qui est celui du
+   siège — est écarté comme n'importe quel point tombant sur une autre voie, au titre de la règle 24.
+   C'est ce qui a permis d'identifier Baussanne comme la SCEA Domaine Lamanon sans le cartographier
+   sur son siège, à 1,4 km de son caveau.
+31. **Le registre bio dit ce qui est cultivé, pas ce qui est vendu au comptoir.** Le registre de
+   l'Agence Bio liste des olives pour le Domaine du Loou, le Domaine La Rose des Vents et le Domaine
+   du Baguier ; la passe précédente en avait déduit que le pilier `alimentation`, que la règle 14
+   refuse aux domaines qui ne font que du vin, leur reviendrait. Vérification faite, seuls le Baguier
+   et Baussanne proposent effectivement un produit alimentaire à la vente — une huile d'olive extra
+   vierge pour l'un, du miel, des herbes et des biscuits pour l'autre. Tranché ainsi : **une ligne de
+   production au registre bio ne suffit pas à accorder le pilier `alimentation` ; il faut que le
+   produit soit offert à la vente sur le site du commerce, sur sa fiche d'office de tourisme ou dans
+   sa boutique en ligne**. Une olive récoltée peut partir au moulin d'un tiers et ne jamais revenir
+   au caveau : le registre prouve la culture, pas le comptoir.
 
 ## Marchands à confirmer
 
-169 fiches sur 203 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+174 fiches sur 208 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -432,9 +453,14 @@ prioritaires en cas de conflit.
 - **La Ferme de la Grivoisière** (première fiche publiée au titre de la règle 29 : la ferme écrit elle-même faire pour l'instant surtout de l'achat-revente, et la description le dit. Pas de pilier `environnement` : la certification bio Certipaq de l'ancienne EARL est **arrêtée depuis avril 2022**, et la société qui exploite aujourd'hui, immatriculée en janvier 2026, n'en porte aucune — c'est le même piège que le label bio survivant d'un office de tourisme, mais dans l'autre sens. Horaires : ceux d'été viennent de la ferme, ceux du reste de l'année de l'office, seul à en publier, et les deux sont attribués)
 - **Le Rucher l'Or de la Loube** (le registre des entreprises porte bien l'enseigne « Le Rucher l'Or de la Loube » à l'adresse publiée : c'est elle qui est inscrite, pas le patronyme de l'apiculteur, que l'office donne. Pas de pilier `environnement` : le micro-rucher et la démarche éco-responsable que décrit l'office ne sont pas une certification vérifiable, règle 15. Les sept miels listés viennent du texte de l'office, pas des étiquettes de la photo)
 - **La Tarente** (le nom commercial n'existe pas dans le champ « enseigne » du registre, mais l'entreprise agricole du producteur, active, y déclare un **deuxième établissement** dont l'adresse est littéralement « LA TARENTE CHEMIN DU LOOU » : la règle 6 est satisfaite par l'adresse. C'est le point de ce deuxième établissement qui est publié, le chemin du Loou n'étant pas numéroté dans la Base Adresse Nationale à cet endroit. Le contrôle inverse le rattache au « 262 chemin du Loou » à 23 m, et celui du marqueur de l'office au « 1100 chemin du Loou » à 13 m : les deux candidats sont sur la même voie, à 780 m l'un de l'autre, et l'échelle de la règle 10 fait passer le registre devant. La vente se faisant sur rendez-vous, l'écart ne fait perdre personne. Le nom du producteur, que l'office publie, n'est pas repris)
+- **Domaine du Loou** (pas de pilier `alimentation`, règles 14 et 31 : le registre bio mentionne des olives, mais ni le site ni la fiche de l'office ne proposent d'huile à la vente. Surface contredite : l'office annonce 62 hectares, le domaine 60 — aucun des deux chiffres n'est publié, seuls les 300 mètres d'altitude et l'appellation, sur lesquels les deux s'accordent, le sont. Le marqueur de l'office est **le même que celui de La Tarente**, à 3 m près : c'est le défaut d'office déjà rencontré, et c'est le point du registre qui est publié, rattaché par contrôle inverse au « 1420 chemin du Loou » à 33 m. Le chemin du Loou n'étant pas numéroté ici, l'adresse reste sans numéro)
+- **Domaine Les Terres Promises** (horaires contredits par le domaine lui-même : sa page « Nous trouver » annonce 10h-12h30 et 14h-17h, son pied de page 10h-12h et 14h-18h — les deux sont publiés et attribués, faute de pouvoir départager. Le téléphone retenu est le fixe du site, pas le portable que donne l'office. Le point du registre et celui de l'office sont à 278 m l'un de l'autre, sous le seuil de la règle 24 : c'est le registre qui l'emporte, règle 10. Les deux se rattachent au chemin de Fioussac alors que l'adresse publiée est le chemin de la Persévérance, que le domaine et le registre nomment tous deux : la Base Adresse Nationale ne connaît pas cette voie ici, l'adresse publiée reste celle du domaine)
+- **Domaine La Rose des Vents** (surface contredite : 60 hectares à l'office, 40 sur le site — ni l'un ni l'autre n'est publié. Le site du domaine porte encore du **faux texte de gabarit** sur sa page d'accueil : les cuvées et la date d'ouverture du caveau en ont été tirées, rien d'autre. Le pilier `environnement` ne vient pas de l'office, qui n'affiche aucun label, mais du registre de l'Agence Bio, où l'exploitation est certifiée Ecocert depuis octobre 2000, règle 21. Deux sociétés au même endroit — l'exploitation agricole et la société du caveau — c'est le point du caveau qui est publié, règle 7. Adresse sans numéro : l'office n'en publie pas, et le numéro rendu par le contrôle inverse n'a pas été repris)
+- **Domaine du Baguier** (aucun horaire précis nulle part : l'office annonce « du mercredi au dimanche » sans heures et le site du groupe n'en donne aucune — c'est écrit tel quel dans la fiche. Seule des cinq à disposer d'un numéro dans la Base Adresse Nationale, à 0 m du point publié. L'huile d'olive est attribuée au **Clos Maguise**, l'autre domaine du groupe, et non au Baguier : l'office écrivait « du domaine », la boutique du groupe tranche. Le restaurant et les chambres d'hôtes ne sont mentionnés que dans la description, la fiche restant celle d'un caveau)
+- **Domaine Baussanne** (première fiche publiée au titre de la règle 30 : adresse de visite route de Brignoles, siège chemin de Lamanon à 1,4 km, et l'identification au registre passe par les CGV du site, qui donnent la raison sociale et le numéro RCS. Le point publié est celui de l'office, le point du registre étant celui du siège. La certification Ecocert est active depuis avril 2021 ; l'ancien certificat Bureau Veritas est arrêté **le jour même** de l'engagement suivant, ce qui est un transfert d'organisme et non un arrêt, règle 25. Les 300 hectares et les horaires viennent de l'office seul ; le domaine n'en publie aucun)
 - **Cave La Roquière** (pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. L'année de fondation, 1925, vient de l'office de tourisme ; le site de la cave ne la donne pas et remonte à une ferme gallo-romaine de 46 avant notre ère, ce qui n'est pas la même chose. Le pilier `environnement` s'appuie sur trois sources concordantes : la cave écrit « une culture des vignes exclusivement en agriculture biologique » et revendique la HVE, l'office affiche les deux, et le registre de l'Agence Bio porte un engagement Bureau Veritas de décembre 2013 à l'adresse du caveau)
 
-Les 203 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 208 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -916,18 +942,17 @@ et pas seulement l'état, avant d'accorder ou de refuser le pilier.
 ### Pistes non publiées à La Roquebrussanne
 
 L'office de tourisme Provence Verte & Verdon publie dix fiches à La Roquebrussanne, et le registre de
-l'Agence Bio y compte quarante-sept opérateurs — la commune la plus dense rencontrée jusqu'ici. Les
-cinq publiées sont celles qui couvrent le plus de familles de produits ; voici ce qu'il reste.
+l'Agence Bio y compte quarante-sept opérateurs — la commune la plus dense rencontrée jusqu'ici. Elle
+a donc été traitée en deux passes : cinq fiches d'abord, puis les **cinq domaines viticoles** de
+rattrapage — le Domaine du Loou, le Domaine Les Terres Promises, le Domaine La Rose des Vents, le
+Domaine du Baguier et le Domaine Baussanne — au titre de la règle 11. Les dix fiches de l'office sont
+désormais toutes instruites. Voici ce qu'il reste.
 
-- **Cinq domaines viticoles à reprendre au prochain passage** : le **Domaine du Loou** (bio Ecocert
-  depuis avril 2007, olives et vins), le **Domaine des Terres Promises** (Ecocert depuis 2015, et une
-  seconde société du même domaine engagée depuis 2008 pour les olives, les pistaches et les truffes),
-  le **Domaine La Rose des Vents** (EARL Baude, Ecocert depuis **octobre 2000**, olives et vins), le
-  **Domaine du Baguier** (Ecocert depuis septembre 2021, olives et conserves de fruits et légumes) et
-  le **Domaine Baussanne**. Tous ont une fiche à l'office ; aucun n'a été vérifié en détail cette
-  passe. Les quatre premiers produisent aussi de l'huile d'olive ou des conserves d'après le registre
-  bio, ce qui leur donnerait le pilier `alimentation` que la règle 14 refuse aux domaines qui ne font
-  que du vin.
+- **Le pilier `alimentation` n'a finalement été accordé qu'à deux des cinq domaines.** La passe
+  précédente avait noté que quatre d'entre eux déclaraient des olives ou des conserves au registre
+  bio, ce qui devait leur ouvrir le pilier. Vérification faite sur les sites et les fiches d'office :
+  seuls le Baguier (huile d'olive extra vierge à la boutique) et Baussanne (miel, herbes, biscuits)
+  vendent effectivement un produit alimentaire. C'est de là que vient la règle 31.
 - **Une dizaine de vignerons certifiés bio sans enseigne ni caveau annoncé** figurent au registre de
   l'Agence Bio sous le nom de leur exploitant : la modération interdit de publier le patronyme d'un
   exploitant en entreprise individuelle comme s'il s'agissait d'une enseigne, et rien ne dit qu'ils
@@ -937,8 +962,13 @@ cinq publiées sont celles qui couvrent le plus de familles de produits ; voici 
   Clos Hauts depuis février 2023. Ni l'un ni l'autre n'a de fiche à l'office, de site ou d'horaire
   publié : rien à inscrire pour l'instant, mais deux pistes solides si une source apparaît.
 - **Le Fournil de la Loube** (44 rue Georges-Clemenceau) est **fermé** au registre des entreprises.
-- Le **marché de La Roquebrussanne** n'a pas été instruit cette passe : les cinq fiches étaient déjà
-  réunies sans lui. À vérifier auprès de la commune, règles 16 et 22, lors d'un prochain passage.
+- Le **marché de La Roquebrussanne** n'a toujours pas été instruit : les deux passes ont trouvé leurs
+  cinq fiches sans lui. À vérifier auprès de la commune, règles 16 et 22, lors d'un prochain passage.
+  C'est le seul élément de la commune encore ouvert.
+- **La Table du Baguier**, le restaurant du domaine, et le **Bastidon** des Terres Promises sont des
+  activités d'hébergement et de restauration : elles sont citées dans les descriptions parce qu'elles
+  expliquent le lieu, mais elles ne font pas l'objet d'une fiche — le site référence la vente
+  alimentaire en circuit court, pas la restauration.
 
 ### Pistes non publiées au Val et à Montfort-sur-Argens
 

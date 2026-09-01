@@ -5233,5 +5233,146 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cave+La+Roquiere+La+Roquebrussanne",
     "image_url": "/images/marchands/cave-la-roquiere.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-loou",
+    "nom": "Domaine du Loou",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.312165,
+    "lon": 5.978866,
+    "adresse": "Domaine du Loou, chemin du Loou, 83136 La Roquebrussanne",
+    "horaires": "Tous les jours de 9h à 12h et de 14h à 18h. Le dimanche et les jours fériés sur rendez-vous.",
+    "produits": [
+      "Vins rosés AOP Coteaux Varois en Provence",
+      "Vins rouges AOP Coteaux Varois en Provence",
+      "Vins blancs AOP Coteaux Varois en Provence",
+      "Cuvée Vieilles Vignes",
+      "Cuvée Capucine et cuvée Clémence",
+      "Terres du Loou rosé et rouge",
+      "Esprit de Blancs et Blanc Sous Bois"
+    ],
+    "description": "Exploitation familiale de la vallée du Loou, dont le nom rappelle la villa romaine dont les vestiges bordent le chemin d'accès. Le vignoble, planté d'un seul tenant à 300 mètres d'altitude en AOP Coteaux Varois en Provence, est conduit en agriculture biologique certifiée Ecocert, avec des traitements limités au cuivre et au soufre. Le caveau assure la vente et la dégustation.",
+    "telephone": "04 94 86 94 97",
+    "site_web": "http://domaineduloou.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Loou+La+Roquebrussanne",
+    "image_url": "/images/marchands/domaine-du-loou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-les-terres-promises",
+    "nom": "Domaine Les Terres Promises",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.320425,
+    "lon": 5.973128,
+    "adresse": "Chemin de la Persévérance, 83136 La Roquebrussanne",
+    "horaires": "Du lundi au vendredi ; le domaine annonce 10h-12h30 et 14h-17h sur sa page « Nous trouver » et 10h-12h et 14h-18h dans son pied de page. Le samedi matin sur rendez-vous. L'office de tourisme indique le domaine ouvert toute l'année, visite et dégustation sur rendez-vous.",
+    "produits": [
+      "Bandol AOC L'Amourvèdre",
+      "Bandol AOC La Chance",
+      "Cuvée L'Apostrophe, rosé",
+      "Cuvée L'Antidote, rouge",
+      "Cuvée Âme qui vive, rouge",
+      "Cuvée Arrière-Pays, blanc",
+      "Pétillant rosé L'Apesanteur"
+    ],
+    "description": "Quinze hectares installés depuis 2004 sur les contreforts de la Sainte-Baume, à 400 mètres d'altitude sur un sol argilo-calcaire, cultivés en agriculture biologique certifiée Ecocert. Les vendanges sont manuelles et les vins vinifiés sans ajout ni intrant. Le domaine reçoit au caveau, loue un bastidon au milieu des vignes et accueille l'été un chef en résidence sur ses restanques.",
+    "telephone": "09 64 45 12 72",
+    "site_web": "https://lesterrespromises.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Les+Terres+Promises+La+Roquebrussanne",
+    "image_url": "/images/marchands/domaine-les-terres-promises.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-la-rose-des-vents",
+    "nom": "Domaine La Rose des Vents",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.330462,
+    "lon": 5.981485,
+    "adresse": "Route de Toulon, 83136 La Roquebrussanne",
+    "horaires": "Du 1er juillet au 31 août : du lundi au samedi de 9h à 12h et de 15h à 19h. Du 1er septembre au 30 juin : du lundi au samedi de 9h à 12h et de 14h à 18h. Fermé les jours fériés.",
+    "produits": [
+      "Vins rosés AOP Coteaux Varois en Provence",
+      "Vins rouges",
+      "Vins blancs",
+      "Cuvée Rose des Vents",
+      "Cuvée Seigneur de Broussan",
+      "Cuvée Le Jas d'Émilien"
+    ],
+    "description": "Domaine familial du pied de la Loube, dont le caveau a été ouvert en décembre 2011 en bordure de la route de Toulon. L'exploitation est enregistrée en agriculture biologique auprès de l'Agence Bio et certifiée par Ecocert depuis 2000. Ses cuvées Rose des Vents, Seigneur de Broussan et Le Jas d'Émilien ont été citées au Guide Hachette et au Concours général agricole.",
+    "telephone": "04 94 86 99 28",
+    "site_web": "http://www.domainelarosedesvents.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+La+Rose+des+Vents+La+Roquebrussanne",
+    "image_url": "/images/marchands/domaine-la-rose-des-vents.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-baguier",
+    "nom": "Domaine du Baguier",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.326701,
+    "lon": 5.977905,
+    "adresse": "435 chemin du Baguier, 83136 La Roquebrussanne",
+    "horaires": "Ouvert toute l'année du mercredi au dimanche. L'office de tourisme ne publie pas d'horaire précis et le domaine n'en affiche pas sur son site.",
+    "produits": [
+      "Baguier rosé AOP Coteaux Varois en Provence",
+      "Baguier blanc AOP Coteaux Varois en Provence",
+      "Baguier rouge, médaille d'or au Concours général agricole de Paris",
+      "Vins du Clos Maguise",
+      "Vins du Domaine La Baratonne",
+      "Huile d'olive extra vierge du Clos Maguise"
+    ],
+    "description": "Ancien relais de charrois du XVIIIe siècle rénové au pied de la Loube, exploité par le groupe Maguise sur une dizaine d'hectares de vignes conduites en agriculture biologique certifiée Ecocert. Le caveau vend les cuvées du Baguier et celles des deux autres domaines du groupe, ainsi que leur huile d'olive extra vierge. Le domaine abrite aussi un restaurant, un gîte et des chambres d'hôtes.",
+    "telephone": "04 94 37 19 18",
+    "site_web": "https://www.maguise.fr/nos-domaines/domaine-du-baguier",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+du+Baguier+La+Roquebrussanne",
+    "image_url": "/images/marchands/domaine-du-baguier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-baussanne",
+    "nom": "Domaine Baussanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.360918,
+    "lon": 5.972198,
+    "adresse": "Route de Brignoles, 83136 La Roquebrussanne",
+    "horaires": "Toute l'année du lundi au samedi de 10h à 18h, horaires publiés par l'office de tourisme ; le domaine n'en affiche pas sur son site.",
+    "produits": [
+      "Vins rosés, blancs et rouges",
+      "Cuvée La Fée Douceline",
+      "Cuvée Les Folies d'Or et d'Azur",
+      "Gin by Baussanne",
+      "Liqueurs",
+      "Miel",
+      "Herbes aromatiques",
+      "Biscuits et confiseries"
+    ],
+    "description": "Grand domaine du nord de la commune, organisé autour d'une bastide de 900 m² restaurée et de vestiges gallo-romains. Les vignes sont conduites en agriculture biologique certifiée Ecocert. La boutique du domaine vend ses vins, un gin distillé pour lui en Provence, des liqueurs, du miel, des herbes aromatiques et des biscuits.",
+    "telephone": "06 07 36 65 06",
+    "site_web": "https://www.domainebaussanne.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Baussanne+La+Roquebrussanne",
+    "image_url": "/images/marchands/domaine-baussanne.jpg",
+    "a_confirmer": true
   }
 ]
