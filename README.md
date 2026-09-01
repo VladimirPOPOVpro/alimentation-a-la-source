@@ -110,7 +110,7 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-119 fiches sur 153 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+124 fiches sur 158 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -225,6 +225,11 @@ prioritaires en cas de conflit.
 - **La Guilde des Vignerons** (la cave n'a pas de site : le lien « site internet » de l'annuaire de la commune mène à `lescavescoopduvar.fr`, qui n'appartient plus à la fédération des caves coopératives du Var — le domaine sert aujourd'hui de blog générique sur le vin, avec des articles sur le rosé de supermarché. Troisième piège de nom de domaine relevé ici, après la Poissonnerie Santa Lucia et le Moulin du Grimaudet : le champ `site_web` est resté vide. Les horaires viennent de l'office de tourisme et ne donnent que des jours. Le caveau du Thoronet, tenu par la même coopérative, fera sa propre fiche au titre de la règle 3)
 - **La Maison des Bons Fromages** (l'adresse s'écrit « Les Terrasses de la Gare » à l'annuaire de la commune et « 116 avenue du 8 Mai 1945 » au registre ; la Base Adresse Nationale ne connaît pas cette avenue au Cannet et nomme la voie « Esplanade de la Gare », où elle rend bien un numéro 116. Les trois désignent le même immeuble. Le point publié est le marqueur de l'annuaire communal, à 12 m du point du Marché du Cannet-des-Maures : la boutique borde l'esplanade où le marché se tient, les deux fiches sont vraies, voir la règle 12. Les horaires du dimanche divergent entre l'annuaire, revu en mars 2024, et la vidéo « Portrait d'entrepreneur » de la commune ; l'annuaire est publié, la vidéo citée. La photo est un plan de cette vidéo, recadré sur l'ardoise et le comptoir pour écarter les visages, d'où sa petite taille)
 - **Marché du Luc-en-Provence** (deuxième fiche publiée au titre de la règle 9. La commune confirme le marché du vendredi par ses articles et ses photographies, l'office de tourisme Cœur du Var confirme « le vendredi, le matin au centre ville » ; aucun des deux ne donne d'heure ni ne nomme la place. Les heures de 8h à 12h30 et la place de la Convention viennent d'annuaires de marchés, attribués comme tels dans la fiche, et le point est celui que la Base Adresse Nationale rend pour cette place, à 150 m de la mairie et à 106 m des Vignerons du Luc. La liste de produits ne reprend que ce que montrent les photographies de la mairie)
+- **Marché de Puget-Ville** (la commune publie l'horaire, le samedi matin de 8h à 12h, et va jusqu'à donner la liste de ses étals, d'où la liste de produits ; elle écrit « en centre-ville » quand l'office de tourisme Cœur du Var écrit « rue de la Libération ». Le point publié est celui que la Base Adresse Nationale rend pour cette rue, l'axe du village. La photo n'est pas celle de la commune : l'image qui illustre sa page « Les Marchés » est une photographie d'agence, avec un visage au premier plan, et elle ne montre pas Puget-Ville. C'est donc une rue du village, prise dans la photothèque municipale, qui illustre la fiche — photo thématique de la même commune au titre de la règle 1)
+- **Le Cellier Saint Sidoine** (le téléphone diverge d'un chiffre : 04 94 01 80 50 chez l'office de tourisme, 04 98 01 80 50 dans l'annuaire de la commune et dans la fiche que la Route des Vins de Provence a publiée sur la cave. Deux sources contre une : c'est le 04 98 qui est publié, l'autre est consigné ici. Ni la commune ni l'office ne publient d'heures ; celles de la Route des Vins sont citées dans la fiche et attribuées, jamais présentées comme un fait vérifié. La liste des produits vient de cette même description : aucune source de première main ne détaille la gamme. La coopérative est immatriculée sous « Terra Provincia », union des caves de Saint-Roch-les-Vignes à Cuers et du Cellier Saint-Sidoine ; les deux points de vente feront deux fiches, au titre de la règle 3)
+- **Ferme de CantePerdrix** (le nom s'écrit de trois façons : « Ferme CantePerdrix » chez l'office de tourisme, « La Ferme de CantePerdrix » à l'annuaire de la commune, « FERME CANTEPERDRIX » comme enseigne au registre. C'est la graphie du logo de la ferme elle-même qui a été retenue. Le point du registre tombe 3,5 km au nord-est de l'adresse déclarée : c'est celui de la Base Adresse Nationale pour le 263 chemin de la Chevrerie qui est publié, à 250 m du marqueur de l'office. L'exploitation est immatriculée sous patronyme ; le nom publié est celui de l'enseigne. La ferme n'a pas de site, seulement une page Facebook, qui n'est pas inscrite en `site_web` : aucune fiche du fichier ne renvoie vers un réseau social)
+- **Les Ruchers de Puget-Ville** (l'office de tourisme Cœur du Var et l'annuaire de la commune sont les deux seules sources, et aucune ne publie d'heures : la vente est sur rendez-vous. L'exploitation est immatriculée sous patronyme depuis 1994 ; « Les Ruchers de Puget Ville » est l'enseigne déclarée au registre. Elle ne figure pas au registre de l'Agence Bio : le pilier « environnement » n'a pas été coché, comme pour le Rucher de la Fauville. L'huile d'olive citée dans les produits est celle que l'office annonce à la vente, pas une production annoncée du rucher)
+- **Domaine Lolicé** (le domaine se contredit sur son propre site : la page de contact donne des horaires détaillés, du lundi au samedi midi, quand la page « produits de la ferme » annonce la cave « ouverte tous les jours ». Ce sont les horaires détaillés qui sont publiés, l'autre version est citée. Deuxième écart : le site écrit « bio depuis 2011 » quand le registre de l'Agence Bio date l'engagement chez Ecocert de juin 2008. La fiche ne donne aucune des deux dates. Le pilier « alimentation » est coché non pour le vin mais pour le verger, les œufs et l'huile d'olive, conformément à la règle 14)
 - **Flour de Camin** (trois sources donnent trois versions des après-midi : le site du magasin, la fiche de l'office de tourisme Cœur du Var et l'annuaire Commerce Engagé de la communauté de communes. Aucune n'est manifestement plus récente que les autres, et le matin, lui, fait consensus : la fiche publie le matin comme un fait, énumère les trois versions de l'après-midi et invite à téléphoner, au titre de la règle 5. L'adresse pose la même question : tout le monde écrit « 2 cours Victor Hugo », mais le marqueur de l'office tombe à 8 m du numéro 105 de la Base Adresse Nationale, et la plaque visible sur la photographie de la devanture porte bien 105. C'est le point du 105 qui est publié, sous l'adresse que le magasin donne lui-même. Le magasin est porté par une association, non par une société : la règle 6 ne s'y applique pas, mais l'association est bien active au registre depuis mai 2018)
 - **Domaine du Grand Cros** (le domaine écrit « chemin de Brignoles » sur son site, l'office de tourisme « 1806 route de Brignoles, D13 » : la Base Adresse Nationale ne connaît que la seconde, et le point qu'elle rend pour le 1806 tombe à 40 m du marqueur de l'office. C'est celui-là qui est publié, quand le registre place le siège 1,5 km plus au sud. Le domaine n'est pas bio et explique longuement pourquoi sur sa page « durabilité » : il a été certifié Terra Vitis en 2002, a abandonné cette certification en 2010, puis a obtenu la HVE en 2020. C'est la HVE, et elle seule, qui justifie ici le pilier `environnement`)
 - **Moulin de Deyssia** (contradiction sur le bio : l'office de tourisme écrit « la production est en Agriculture Biologique », le moulin écrit sur son propre site que ses olives sont cultivées « sans pesticides » et qu'il a « engagé des démarches vers l'agriculture biologique », et le registre de l'Agence Bio porte pour ce SIRET une certification arrêtée en 2010. Le fait contesté n'est pas publié : ni la fiche ni le pilier `environnement` ne parlent de bio. Contradiction d'adresse aussi, l'office plaçant le moulin au lieu-dit Château Royal quand le site et le registre donnent tous deux le 103 chemin des Vallons, 1,3 km à l'est ; c'est cette dernière qui est publiée. Les horaires du site, plus précis, priment sur le « sur rendez-vous » de l'office, qui est cité)
@@ -232,7 +237,7 @@ prioritaires en cas de conflit.
 - **Le Porc Serein** (l'office de tourisme Cœur du Var est la seule source descriptive, et ses horaires sont manifestement mal saisis : il annonce « du 01/01 au 31/01, du lundi au vendredi » puis « sur rdv ». Seul le rendez-vous est publié. Au registre, il s'agit d'une entreprise individuelle sous patronyme, code élevage de porcins, ouverte ; « Le Porc Serein » est l'enseigne déclarée. L'office ne donne que le quartier de la Verrerie et le registre le numéro 65 d'une impasse qui est aussi un domicile : la fiche s'en tient à la voie, sans numéro, et le point est celui que la Base Adresse Nationale rend pour l'impasse. Le saucisson de l'élevage figure sur l'ardoise de la brasserie L'Éclat, à 2,5 km de là, ce qui confirme l'activité de l'élevage par une source qui n'est ni l'office ni le registre)
 - **Domaine des Thermes** (le domaine ne publie ni horaires ni coordonnées géographiques, et la Base Adresse Nationale ne sait pas géocoder « RN 7 » sur la commune : les horaires et le point viennent tous deux de la fiche de l'office de tourisme Cœur du Var, qui se contente de « toute l'année du lundi au samedi ». Au registre, la société est immatriculée sous un patronyme ; « Domaine des Thermes » est le nom de l'exploitation et de son site)
 
-Les 153 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 158 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -603,6 +608,48 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées à Puget-Ville
+
+- **Domaine des Sauronnes** (970 chemin de la Moutte, quartier La Ruol) : l'office de tourisme publie
+  cette exploitation sous le seul patronyme de son exploitant, ce que `MODERATION.md` interdit de
+  reprendre comme enseigne. L'annuaire de la commune donne le nom commercial, « Domaine des
+  Sauronnes », et le **même numéro de téléphone** : l'identification tient. Reste une divergence de
+  métier — la commune la classe en cave viticole et le registre lui donne le code viticulture, quand
+  l'office annonce fleurs, plantes, huile d'olive et safran. Piste solide mais à instruire au prochain
+  passage, pas à publier sur une contradiction de métier.
+- **Biscuiterie J'Ador / Les Délices d'Autrefois** (481 chemin du Gros Chêne, La Basse Ruol) :
+  fabricante de biscuits active au registre depuis 2010, listée par la commune. Son site,
+  `lesdelicesdautrefois.fr`, ne répond plus, aucune source ne publie d'horaires, et l'adresse est un
+  domicile en campagne — la vente semble se faire sur les marchés et les salons. Non publiée en
+  l'état : envoyer quelqu'un chez un particulier sans horaire est exactement ce que la consigne
+  interdit.
+- **Domaine Oléicole de Camp Joyeux** (1708 route de Pierrefeu) : huile d'olive, vente à la propriété
+  sur rendez-vous, trois photographies d'oliveraie. L'office de tourisme est la seule source
+  descriptive et l'exploitation est aussi une chambre d'hôtes, ce que la règle 2 n'interdit pas. À
+  reprendre au prochain passage, la passe comptant déjà cinq fiches.
+- **Bastide des Deux Lunes**, **Domaine de Croix Rousse**, **Domaine de Grand Pré**, **Château
+  Marouine**, **Domaine de la Sauveuse** et **Domaine Saint Laurent** : six domaines viticoles de la
+  commune, tous listés par l'annuaire municipal, trois d'entre eux engagés en bio au registre de
+  l'Agence Bio. Non instruits cette passe, qui a préféré la diversité alimentaire à l'accumulation de
+  caveaux : quatre des cinq fiches publiées ici ne vendent pas que du vin.
+- **La Ferme de Douville** (131 chemin de la Mère des Fontaines) : micro-ferme en permaculture,
+  listée par la commune, absente de l'office de tourisme. Aucune source ne dit s'il existe un point de
+  vente ni quand. À instruire.
+- **Mes Trésors au Naturel** (35 place de l'église) : boutique zéro déchet et friperie qui annonce
+  aussi des produits locaux et un salon de thé. L'alimentaire n'y est qu'une partie de l'activité :
+  écartée pour la même raison que les commerces généralistes de Carnoules, mais le cas est moins net
+  et mérite d'être revu si la boutique se recentre.
+
+### Un office de tourisme peut donner le même point à deux fiches différentes
+
+Les marqueurs de l'office de tourisme Cœur du Var ont servi de contrôle à plusieurs reprises dans ce
+dépôt. Deux fiches de Puget-Ville montrent leur limite : le **Domaine de Lolicé** et le **Domaine de
+Croix Rousse**, distants de plusieurs kilomètres et situés sur deux chemins différents, portent dans
+le HTML de l'office **exactement les mêmes coordonnées**, 43.2731 / 6.11015. L'une des deux au moins
+est fausse. La conséquence pratique : un marqueur d'office confirme un point quand il concorde avec
+la Base Adresse Nationale ou le registre, il ne le remplace jamais, et deux fiches qui partagent un
+point identique au dix-millième de degré signalent une erreur de saisie, pas deux voisins.
 
 ### Pistes non publiées à Carnoules
 

@@ -3899,5 +3899,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Porc+Serein+Carnoules",
     "image_url": "/images/marchands/le-porc-serein.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-puget-ville",
+    "nom": "Marché de Puget-Ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.289368,
+    "lon": 6.136951,
+    "adresse": "Rue de la Libération et centre-ville, 83390 Puget-Ville",
+    "horaires": "Tous les samedis matins de 8h à 12h, toute l'année.",
+    "produits": [
+      "Fruits et légumes, quatre étals",
+      "Boucherie",
+      "Poissonnerie",
+      "Rôtisserie",
+      "Œufs",
+      "Olives et tapenades, deux étals",
+      "Cade et beignets de courgette",
+      "Produits italiens"
+    ],
+    "description": "Marché du samedi matin qui s'installe dans le centre du village. La commune publie elle-même la liste de ses étals : à côté des quatre marchands de fruits et légumes, on y trouve un boucher, un poissonnier, une rôtisserie, des œufs, deux stands d'olives et de tapenades, ainsi que la cade et les beignets de courgette.",
+    "telephone": "04 94 13 82 00",
+    "site_web": "https://www.puget-ville.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+de+la+Liberation+Puget-Ville",
+    "image_url": "/images/marchands/marche-de-puget-ville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-cellier-saint-sidoine",
+    "nom": "Le Cellier Saint Sidoine",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.286809,
+    "lon": 6.133577,
+    "adresse": "12 rue de la Libération, 83390 Puget-Ville",
+    "horaires": "Toute l'année du lundi au samedi. Ni l'office de tourisme ni la commune ne publient d'heure d'ouverture ; la Route des Vins de Provence annonçait 9h-12h et 14h-18h. Dégustation commentée et visite guidée de la cave sur rendez-vous.",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc",
+      "Côtes de Provence Pierrefeu",
+      "Vins en vrac",
+      "Vins en bag-in-box"
+    ],
+    "description": "Cave coopérative du village, créée en 1923 sous le nom de La Pugétoise et rebaptisée en 1987 d'après le clocher Saint-Sidoine. Elle vinifie les raisins de ses adhérents, cultivés sur le terroir de Pierrefeu, et porte un engagement en agriculture biologique chez Ecocert d'après le registre de l'Agence Bio.",
+    "telephone": "04 98 01 80 50",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cellier+Saint+Sidoine+Puget-Ville",
+    "image_url": "/images/marchands/le-cellier-saint-sidoine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-canteperdrix",
+    "nom": "Ferme de CantePerdrix",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.267644,
+    "lon": 6.095217,
+    "adresse": "263 chemin de la Chevrerie, quartier la Moutte, 83390 Puget-Ville",
+    "horaires": "Vente à la ferme tous les mercredis matin. La chèvrerie tient aussi un étal au marché des producteurs de Toulon, le vendredi et le samedi matin.",
+    "produits": [
+      "Fromages de chèvre affinés",
+      "Fromage blanc",
+      "Faisselle",
+      "Brousse maison",
+      "Yaourts"
+    ],
+    "description": "Chèvrerie installée sur les collines du quartier de la Moutte, dont le troupeau pâture la garrigue et dont toute la production est certifiée en agriculture biologique chez Ecocert d'après le registre de l'Agence Bio. Les fromages frais et affinés se vendent à la ferme le mercredi matin.",
+    "telephone": "06 25 39 18 52",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+de+CantePerdrix+Puget-Ville",
+    "image_url": "/images/marchands/ferme-canteperdrix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-ruchers-de-puget-ville",
+    "nom": "Les Ruchers de Puget-Ville",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.266402,
+    "lon": 6.112985,
+    "adresse": "186 impasse des Abeilles, quartier Sautarel, 83390 Puget-Ville",
+    "horaires": "Toute l'année, sur rendez-vous. La visite de la miellerie s'accompagne d'une dégustation de huit variétés de miel.",
+    "produits": [
+      "Miels de garrigue",
+      "Miels de forêt",
+      "Pollen",
+      "Huile d'olive"
+    ],
+    "description": "Miellerie installée au quartier Sautarel depuis 1994, qui récolte ses miels dans la garrigue et les forêts du massif. La vente se fait à la propriété sur rendez-vous, avec dégustation de huit variétés de miel.",
+    "telephone": "06 61 75 47 94",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Ruchers+de+Puget-Ville",
+    "image_url": "/images/marchands/les-ruchers-de-puget-ville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-lolice",
+    "nom": "Domaine Lolicé",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.271995,
+    "lon": 6.111422,
+    "adresse": "1122 chemin de la Ruol, 83390 Puget-Ville",
+    "horaires": "Du lundi au vendredi de 9h à 12h et de 14h à 18h, le samedi de 9h à 12h, fermé le dimanche et les jours fériés. Une autre page du même site annonce la cave « ouverte tous les jours » et l'office de tourisme conseille de téléphoner avant de venir.",
+    "produits": [
+      "Côtes de Provence Pierrefeu, cuvées Evasion en rosé, blanc et rouge",
+      "Cuvées Voltige et Muse",
+      "Huile d'olive biologique",
+      "Œufs biologiques",
+      "Fruits du verger : abricots, pêches, prunes, cerises",
+      "Raisin de table",
+      "Confitures maison"
+    ],
+    "description": "Domaine familial de 17 hectares du hameau de la Ruol, engagé en agriculture biologique chez Ecocert et nommé d'après les prénoms des trois filles de la maison. La vente au domaine ne se limite pas au vin : le verger planté en 2019, les oliviers et le poulailler mobile fournissent aussi fruits, huile d'olive, œufs et confitures.",
+    "telephone": "06 12 09 93 81",
+    "site_web": "https://www.lolice.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Lolice+Puget-Ville",
+    "image_url": "/images/marchands/domaine-lolice.jpg",
+    "a_confirmer": true
   }
 ]
