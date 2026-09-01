@@ -166,10 +166,29 @@ prioritaires en cas de conflit.
    au point de vente**, parce que cette carte répond à la question « où puis-je acheter ? » et non
    « où est-ce cultivé ? ». Le lieu de production est nommé dans la description, pour que personne
    ne croie que tout se fait sur place, et l'adresse publiée reste celle où l'on est reçu.
+21. **Un label que seul un annuaire tiers affiche.** La règle 15 exige une certification
+   *vérifiable* pour cocher `environnement`, sans dire qui doit l'attester. Tranché ainsi : un label
+   qui figure dans le bloc « labels » d'un office de tourisme et que **le commerce ne reprend nulle
+   part sur son propre site** n'est pas vérifiable au sens de la règle 15. Le pilier n'est pas
+   coché, l'annonce est attribuée à l'office dans le README, et rien n'est affirmé dans la fiche. Le
+   critère est celui du recoupement : une seule source, et une source qui n'est pas le certificateur
+   ni le certifié, ne suffit pas. Deux caves l'ont déjà déclenché pour la HVE — le Hameau des
+   Vignerons de Carcès et les Caves de l'Amiral — et le cas des Flaveurs du Rocher a montré
+   pourquoi : un label d'office de tourisme peut survivre de plusieurs années à la fin réelle de la
+   certification. Un registre public de certification (Agence Bio) reste, lui, une source suffisante
+   à lui seule.
+22. **La commune et l'office de tourisme ne disent pas la même chose d'un marché.** À Entrecasteaux,
+   la commune écrit « marché provençal tous les vendredis de 8h à 12h, cours Gabriel Péri » et
+   l'office de tourisme « le vendredi de 7h30 à 12h, place Bruny ». Tranché ainsi : **c'est la
+   commune qui fait foi sur son propre marché**, parce qu'elle l'organise, en fixe les horaires et
+   en délivre les emplacements ; l'office de tourisme n'en est que le relais. La version de la
+   commune est publiée, celle de l'office est consignée ici. La règle 16 — pas de fiche de marché
+   sans une commune qui parle — n'est pas assouplie : elle est ici satisfaite, et la règle 22 ne
+   fait que trancher le contenu une fois la commune trouvée.
 
 ## Marchands à confirmer
 
-144 fiches sur 178 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+149 fiches sur 183 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -315,8 +334,13 @@ prioritaires en cas de conflit.
 - **Les Jardins des Semences** (première fiche publiée au titre de la règle 20 : le siège au registre des entreprises et les jardins de reproduction sont à Barjols, mais l'entreprise écrit sur sa page de contact que « le point de vente se situe à Correns », au 6 chemin de Saint-Jean, et c'est là que la fiche est posée, sur le numéro de voirie que rend la Base Adresse Nationale, à 0 m du marqueur de l'office. Le site publie le nom de la semencière à côté de cette adresse ; seule l'enseigne est reprise. Le bio est vérifié au registre de l'Agence Bio, engagement Bureau Alpes Contrôles de janvier 2020, aux deux adresses)
 - **Jardin L'Orée d'Argens** (le registre n'y déclare aucune enseigne et l'exploitante est immatriculée sous son patronyme : le nom publié est celui que donne l'office de tourisme, seul à décrire ce jardin. La Base Adresse Nationale ne connaît pas le quartier la Parémiane ; le point est celui de l'établissement au registre, à 31 m du marqueur de l'office. Trois produits seulement, parce que l'office ne dit rien de plus que « légumes et fruits de saison » et que la ferme n'a pas de site : mieux vaut trois produits vrais que huit inventés. Pas de pilier `environnement` — le SIRET est bien engagé en bio au registre de l'Agence Bio, mais pour du raisin, pas pour les légumes vendus ici, et l'office n'affiche aucun label AB sur cette fiche)
 - **Permavar** (les deux sources non-BAN se trompent de point, chacune à sa façon : le registre géocode le 927 de la départementale 45 sur le 1856 de la même route, à 830 m, et le marqueur de l'office tombe 1,35 km plus au nord, dans le vallon de Palière. C'est le numéro de voirie rendu par la Base Adresse Nationale qui est publié, premier échelon de la règle 10. Le bio est vérifié au registre de l'Agence Bio, engagement Ecocert de septembre 2021, à cette adresse exacte)
+- **Les Caves de l'Amiral** (deuxième fiche déclenchant la règle 21 : l'office de tourisme affiche la « Certification HVE (Haute Valeur Environnementale) » dans le bloc labels, la cave ne l'écrit nulle part sur son propre site — le pilier `environnement` n'est pas coché et la fiche n'affirme aucune certification. Le nombre de coopérateurs diverge selon la source, quarante à l'office, cinquante sur le site de la cave : aucun chiffre n'est publié, seule la surface, sur laquelle les deux s'accordent. Les horaires de l'office ne couvrent pas le mois de juin ; ils sont reproduits tels quels plutôt que complétés. Le pilier `alimentation` tient à la boutique, qui vend tapenade, anchoïade, confitures, biscuits, nougat et miel en plus des cuvées)
+- **Coopérative Oléicole La Solidarité** (le registre des entreprises rend pour ce moulin **exactement le même point** que pour les Caves de l'Amiral, à la sixième décimale : deux coopératives distinctes ramenées au même quartier. C'est le marqueur de l'office de tourisme qui est publié, quatrième échelon de la règle 10, à 147 m de la cave — la règle 12 est donc respectée. Les horaires divergent : l'office de tourisme intercommunal écrit « ouvert pendant les récoltes et éventuellement sur rendez-vous », Var Tourisme « toute l'année tous les jours ». C'est la première version, la plus précise et la seule compatible avec un moulin, qui est publiée, règle 5. Trois produits seulement, parce que les deux sources ne disent rien de plus que « huile d'olive extra vierge » et « AOC Huile d'olive de Provence ». L'histoire du bâtiment — un ancien moulin à quatre presses hydrauliques, abandonné en 1992 pour un édifice neuf — vient de l'Inventaire général du patrimoine culturel, notice IA83001332. Le second numéro que donne l'office est celui de la mairie ; il n'est pas republié)
+- **Miellerie des Moulières** (l'enseigne a changé de mains : le registre montre l'entreprise des fondateurs **fermée** et une entreprise **active** portant la même enseigne à la même adresse, et le site de la miellerie l'écrit lui-même au passé — « depuis 1982, la Miellerie Rémy *était* un lieu de production ». La fiche nomme donc l'enseigne et l'année d'ouverture, jamais les personnes, et le site est conservé parce qu'il est tenu à jour par les repreneurs, avec une actualité datée d'août 2026. Le numéro de voirie de la Base Adresse Nationale est publié, premier échelon de la règle 10 ; il tombe à 230 m du point du registre et du marqueur de l'office, qui s'accordent entre eux. Les deux mobiles publiés par la miellerie sont ceux du commerce, un seul est repris. Aucune certification n'est revendiquée : `alimentation` et `economie` seuls)
+- **Pierre et Aurélie Apiculteurs** (tout concorde : le numéro de voirie de la Base Adresse Nationale et le marqueur de l'office de tourisme tombent au même point, à la sixième décimale ; le point du registre est à 195 m et n'est pas retenu. Le registre n'y déclare aucune enseigne et l'exploitation est immatriculée sous patronyme : le nom publié est celui, formé de deux prénoms, que les apiculteurs impriment eux-mêmes sur leur site et que reprend l'office. Les médailles au Concours Général Agricole de Paris sont annoncées par l'office et par le site ; le label « Producteurs Engagés » est une mention commerciale et non une certification, le pilier `environnement` n'est pas coché, règles 15 et 21)
+- **Marché provençal d'Entrecasteaux** (première fiche publiée au titre de la règle 22 : la commune écrit « marché provençal tous les vendredis de 8h à 12h, cours Gabriel Péri » sur sa page « Marché local », l'office de tourisme écrit « le vendredi de 7h30 à 12h » et « place Bruny ». C'est la commune qui est publiée. Le point est celui que la Base Adresse Nationale rend pour le cours Gabriel Péri, à 130 m de la mairie ; la Base ne connaît pas de « place Bruny ». Les produits — fromage, charcuterie, plats à emporter, fruits et légumes, miel, paniers — viennent de l'office, qui compte cinq exposants ; les articles non alimentaires qu'il cite, vêtements et matelas, ne sont pas repris. La photo est celle que l'office met sur la vignette de ce marché : des étals de fruits et légumes, mains visibles, aucun visage identifiable)
 
-Les 178 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 183 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -794,6 +818,69 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Entrecasteaux
+
+- **Domaine de Roucas** (1390 route de Carcès) : domaine viticole certifié bio, engagement Ecocert
+  du 12 octobre 2009 toujours actif au registre de l'Agence Bio — aucune date d'arrêt — avec raisin
+  de cuve et olives dans les productions déclarées, une entité active au registre des entreprises en
+  culture de la vigne, des horaires précis toute l'année et un fixe. **Fiche prête, écartée
+  seulement par la limite de cinq fiches par passe**, le marché du village étant plus utile aux
+  visiteurs de l'hôpital. À intégrer au prochain passage sur Entrecasteaux, avec cette précision
+  déjà résolue : l'office de tourisme écrit « vente de vin au Domaine de Fangouse, à 1 km à droite
+  en direction d'Entrecasteaux », et la Base Adresse Nationale ne rend aucun numéro pour le 1390
+  route de Carcès ni aucune « Domaine de Fangouse » — seulement un « chemin de Fangouse » à
+  43.504248 / 6.231981, cohérent en direction et en distance avec l'indication de l'office. La règle
+  20 ne s'applique pas ici, production et vente étant dans la même commune : la fiche ira à
+  l'adresse vérifiée du domaine, et la description nommera le point de vente. Les piliers seront
+  `environnement` et `economie` — la gamme vendue est uniquement du vin, règle 14, les olives
+  n'étant certifiées que comme production, sans preuve qu'elles soient vendues.
+- **Château du Grand Jas** : domaine viticole familial décrit par l'office de tourisme, AOP Côtes de
+  Provence rosé et blanc, avec quatre plages horaires saisonnières, un fixe et une entité active au
+  registre. Écarté cette fois pour trois raisons cumulées, aucune rédhibitoire seule : le seul site
+  que l'office lui attribue, `rose-by-olivier.com`, est une boutique de marque mono-cuvée où **le
+  nom du château n'apparaît pas une seule fois** — sixième piège de nom de domaine relevé ici, le
+  champ resterait vide ; l'office ne nomme que deux produits, ce qui ferait la fiche la plus maigre
+  de la commune ; et aucune certification n'étant revendiquée, elle porterait `economie` seul. Les
+  deux entités actives du domaine sont par ailleurs immatriculées en location de terrains, pas en
+  viticulture. À reprendre si le domaine publie un site à son nom.
+- **Spiruline d'Entrecasteaux** (chemin du Plan Mariaou) : ferme de spiruline avec une fiche
+  d'office de tourisme et un site vivant. Écartée au titre de la règle 6 : la seule entité que le
+  registre connaisse à cette adresse porte l'enseigne **SPIRULINA ZAGHAWA** et elle est **fermée**,
+  zéro établissement ouvert, état administratif F. Deuxième ferme de spiruline de la Provence Verte
+  écartée pour la même raison après celle de Carcès, et deuxième cas où un site marchand toujours en
+  ligne survit à la fin de l'activité.
+
+### Le registre des entreprises peut poser deux coopératives sur le même point
+
+À Entrecasteaux, la cave coopérative et le moulin à huile coopératif sont deux sociétés distinctes,
+à deux adresses distinctes du même quartier — et le registre des entreprises leur donne **exactement
+les mêmes coordonnées**, 43.519020 / 6.238176, à la sixième décimale. Le géocodage du registre
+retombe sur le quartier quand la voie n'a pas de numéro, et deux fiches se seraient superposées sur
+la carte, ce qu'interdit la règle 12.
+
+L'échelon suivant de la règle 10 a suffi : les marqueurs de l'office de tourisme, eux, distinguent
+les deux, de 147 mètres. La cave garde le point du registre, le moulin prend celui de l'office. La
+leçon générale : **avant de retenir un point du registre, vérifier qu'aucune autre fiche de la même
+commune ne porte déjà ce point exact** — le contrôle de proximité fait au moment de l'écriture des
+fiches attrape le cas, à condition de le faire aussi entre les nouvelles fiches de la même passe, et
+pas seulement contre l'existant.
+
+### Un site de producteur peut survivre au départ de ceux qui lui ont donné leur nom
+
+Le site de la Miellerie des Moulières s'appelle `remy-mielleriedesmoulieres.fr` et porte le nom de la
+famille qui a ouvert la miellerie en 1982. Au registre, cette entreprise-là est **fermée**, et une
+autre, **active**, porte la même enseigne à la même adresse. Le réflexe acquis avec Santa Lucia —
+domaine expiré, racheté, à ne pas inscrire — aurait conduit à écarter le site. C'était le contraire :
+le site est tenu à jour par les repreneurs, qui écrivent eux-mêmes au passé « depuis 1982, la
+Miellerie Rémy *était* un lieu de production », publient leurs propres coordonnées et ont daté leur
+dernière actualité d'août 2026.
+
+Le critère qui sépare les deux cas n'est pas le nom de domaine, c'est **ce que la page raconte** :
+un domaine racheté parle d'autre chose que du commerce ; un domaine hérité parle du même commerce,
+au même endroit, et dit lui-même la transmission. Dans ce second cas le site est publié, la fiche
+nomme l'enseigne et l'année d'ouverture, et jamais les personnes — ni les partants, ni les
+repreneurs, règle de MODERATION.md sur les patronymes.
 
 ### Pistes non publiées à Carcès
 

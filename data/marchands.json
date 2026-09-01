@@ -4562,5 +4562,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Permavar+Correns",
     "image_url": "/images/marchands/permavar.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "les-caves-de-l-amiral",
+    "nom": "Les Caves de l'Amiral",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.51902,
+    "lon": 6.238176,
+    "adresse": "Quartier Les Prés, 83570 Entrecasteaux",
+    "horaires": "Du 1er septembre au 30 mai, du lundi au samedi de 9h à 12h et de 14h à 17h45. Du 1er juillet au 31 août, du lundi au samedi de 9h à 12h et de 15h à 18h45. Visite de la cave sur rendez-vous uniquement.",
+    "produits": [
+      "Cuvée Sainte-Anne, AOP Côtes de Provence",
+      "Cuvée de l'Amiral, AOP Côtes de Provence",
+      "Cuvée l'Espérance, AOP Côtes de Provence",
+      "Cuvée Ohé, IGP Var",
+      "Vins effervescents",
+      "Bag-in-box",
+      "Tapenade, anchoïade, confitures, biscuits, nougat et miel du terroir"
+    ],
+    "description": "Cave coopérative d'Entrecasteaux fondée en 1925, qui vinifie la récolte des viticulteurs du village sur environ 190 hectares classés en AOP et 23 hectares en IGP Var. La boutique vend les cuvées de la cave et une sélection de produits du terroir, dont l'huile d'olive du moulin coopératif voisin.",
+    "telephone": "04 94 04 42 68",
+    "site_web": "https://cave-amiral.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Caves+de+l+Amiral+Entrecasteaux",
+    "image_url": "/images/marchands/les-caves-de-l-amiral.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cooperative-oleicole-la-solidarite",
+    "nom": "Coopérative Oléicole La Solidarité",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.517722,
+    "lon": 6.238519,
+    "adresse": "Quartier Les Prés, route de Saint-Antonin, 83570 Entrecasteaux",
+    "horaires": "Ouvert pendant les récoltes et éventuellement sur rendez-vous.",
+    "produits": [
+      "Huile d'olive AOP Huile d'olive de Provence",
+      "Huile d'olive extra vierge",
+      "Huile d'olive de la récolte des oliviers d'Entrecasteaux"
+    ],
+    "description": "Moulin coopératif du village, installé au XXe siècle dans un ancien moulin à quatre presses hydrauliques puis transféré en 1992 dans un bâtiment neuf en sortie de bourg. Il triture et vend l'huile d'olive AOP de Provence issue des oliviers de la commune, également disponible dans les commerces du village et aux Caves de l'Amiral.",
+    "telephone": "04 94 04 44 08",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cooperative+Oleicole+La+Solidarite+Entrecasteaux",
+    "image_url": "/images/marchands/cooperative-oleicole-la-solidarite.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "miellerie-des-moulieres",
+    "nom": "Miellerie des Moulières",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.531769,
+    "lon": 6.24523,
+    "adresse": "317 chemin des Moulières, 83570 Entrecasteaux",
+    "horaires": "Toute l'année sur rendez-vous. La miellerie n'a pas d'horaires fixes : il faut téléphoner avant de passer. Pas de vente le dimanche ni après 18h.",
+    "produits": [
+      "Miel de tilleul",
+      "Miel de fleurs de Provence",
+      "Miel de montagne",
+      "Miel d'acacia",
+      "Miel de lavande",
+      "Pollen de fleurs de Provence"
+    ],
+    "description": "Miellerie d'apiculteurs récoltants ouverte en 1982 au quartier des Moulières et reprise depuis par de nouveaux apiculteurs, qui poursuivent la récolte et la vente directe sur place. Les miels se trouvent aussi sur les marchés de Lorgues le mardi matin et de Salernes le dimanche matin.",
+    "telephone": "07 86 39 20 15",
+    "site_web": "https://remy-mielleriedesmoulieres.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Miellerie+des+Moulieres+Entrecasteaux",
+    "image_url": "/images/marchands/miellerie-des-moulieres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "pierre-et-aurelie-apiculteurs",
+    "nom": "Pierre et Aurélie Apiculteurs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.483731,
+    "lon": 6.270377,
+    "adresse": "501 chemin des Plantades, 83570 Entrecasteaux",
+    "horaires": "Toute l'année, du lundi au vendredi, uniquement sur rendez-vous.",
+    "produits": [
+      "Miel de thym",
+      "Miel de lavande",
+      "Miel de garrigue",
+      "Miel de châtaignier",
+      "Miel de romarin",
+      "Pollen",
+      "Huile d'olive",
+      "Bière au miel de châtaignier"
+    ],
+    "description": "Apiculteurs récoltants installés depuis 2019 sur les hauteurs d'Entrecasteaux, dont les miels de thym, de lavande et de garrigue ont été distingués au Concours Général Agricole de Paris. Ils vendent aussi une huile d'olive et une bière brassée au miel de châtaignier ; la vente se fait à la miellerie sur rendez-vous.",
+    "telephone": "06 20 37 65 95",
+    "site_web": "https://pierreetaurelie.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pierre+et+Aurelie+Apiculteurs+Entrecasteaux",
+    "image_url": "/images/marchands/pierre-et-aurelie-apiculteurs.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-d-entrecasteaux",
+    "nom": "Marché provençal d'Entrecasteaux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.514724,
+    "lon": 6.241118,
+    "adresse": "Cours Gabriel Péri, 83570 Entrecasteaux",
+    "horaires": "Tous les vendredis de 8h à 12h, cours Gabriel Péri.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Charcuterie",
+      "Miel",
+      "Plats à emporter",
+      "Paniers et vannerie"
+    ],
+    "description": "Petit marché provençal hebdomadaire annoncé par la commune, tenu le vendredi matin sur le cours Gabriel Péri, au pied du château. Une poignée d'exposants y proposent fruits et légumes, fromages, charcuterie, miel et plats à emporter.",
+    "telephone": "04 94 37 22 88",
+    "site_web": "http://www.entrecasteaux.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Gabriel+Peri+Entrecasteaux",
+    "image_url": "/images/marchands/marche-provencal-d-entrecasteaux.jpg",
+    "a_confirmer": true
   }
 ]
