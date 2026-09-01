@@ -3370,5 +3370,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Rucher+de+la+Fauville+Gonfaron",
     "image_url": "/images/marchands/le-rucher-de-la-fauville.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-cannet-des-maures",
+    "nom": "Marché du Cannet-des-Maures",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.390842,
+    "lon": 6.343236,
+    "adresse": "Esplanade des Terrasses de la Gare, avenue du 8 Mai 1945, 83340 Le Cannet-des-Maures",
+    "horaires": "Tous les samedis de 8h à 12h, sur l'esplanade des Terrasses de la Gare. La page tourisme de la commune, plus ancienne, annonce encore 7h30 à 13h sur la place de la Gare voisine, où se tient la brocante le même jour et aux mêmes heures.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Produits du quotidien",
+      "Vêtements et brocante"
+    ],
+    "description": "Marché hebdomadaire d'une vingtaine de commerçants non sédentaires, ramené en centre-ville sur l'esplanade des Terrasses de la Gare en mars 2024. La brocante se tient le même jour et aux mêmes heures sur la place de la Gare, juste à côté.",
+    "telephone": "04 94 50 06 00",
+    "site_web": "https://www.lecannetdesmaures.com/actualite/marche-du-samedi/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Terrasses+de+la+Gare+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/marche-du-cannet-des-maures.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "poissonnerie-lilou",
+    "nom": "Poissonnerie Lilou",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.390252,
+    "lon": 6.342327,
+    "adresse": "29 avenue du 8 Mai 1945, 83340 Le Cannet-des-Maures",
+    "horaires": "Fermé le lundi. Mardi et mercredi de 8h à 12h30 ; jeudi, vendredi et samedi de 8h à 12h30 et de 16h à 18h30 ; dimanche de 9h à 12h.",
+    "produits": [
+      "Poissons frais",
+      "Plateaux de fruits de mer",
+      "Coquillages et crustacés",
+      "Tartare de saumon fait maison",
+      "Brochettes de poisson fait maison"
+    ],
+    "description": "Poissonnerie de centre-ville installée face à la gare, qui compose ses plateaux de fruits de mer sur commande et affiche chaque semaine ses préparations maison, du tartare de saumon aux brochettes de trois poissons.",
+    "telephone": "09 51 52 03 26",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Poissonnerie+Lilou+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/poissonnerie-lilou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-grange-bio",
+    "nom": "La Grange Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.39477,
+    "lon": 6.336217,
+    "adresse": "642 chemin de Bouillidou, CAP 7, 83340 Le Cannet-des-Maures",
+    "horaires": "Du lundi au jeudi de 9h à 13h et de 14h30 à 19h, vendredi et samedi de 9h à 19h. Le magasin ne publie aucun horaire pour le dimanche.",
+    "produits": [
+      "Fruits et légumes",
+      "Pains, fromages et œufs",
+      "Farines, légumineuses et épicerie en vrac",
+      "Miels, gelée royale et pollen",
+      "Jus, vins et bière locale",
+      "Tisanes et compléments alimentaires",
+      "Cosmétiques et produits d'entretien"
+    ],
+    "description": "Magasin biologique du réseau Biomonde ouvert en 2011, engagé en agriculture biologique auprès de Bureau Veritas d'après le registre de l'Agence Bio. L'accent est mis sur les producteurs du centre Var — farines, miels, fromages, œufs, pains, jus et vins — et une large part de l'épicerie se vend en vrac, sans emballage plastique.",
+    "telephone": "04 94 73 67 12",
+    "site_web": "https://www.lagrangebio.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Grange+Bio+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/la-grange-bio.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-saint-roux",
+    "nom": "Château Saint-Roux",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.379684,
+    "lon": 6.370841,
+    "adresse": "Route départementale 17, route de la Garde-Freinet, 83340 Le Cannet-des-Maures",
+    "horaires": "Boutique et cave de dégustation ouvertes 7 jours sur 7 de 8h à 20h.",
+    "produits": [
+      "Légumes du potager",
+      "Pains et fougasses cuits au four à bois",
+      "Fromages de la Fromagerie de Lorgues",
+      "Vins du domaine",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Ferme dont les origines remontent au XVe siècle, engagée en agriculture biologique auprès d'Ocacia d'après le registre de l'Agence Bio, où la boutique vend d'abord ce qui est fait sur place : légumes d'un potager de 3 800 m² planté de 90 variétés, pains et fougasses cuits au four à bois, vins du domaine. Un parcours libre traverse le potager, la boulangerie et le parc animalier où vit le troupeau de chèvres.",
+    "telephone": "04 98 10 02 61",
+    "site_web": "https://www.chateausaintroux.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Saint-Roux+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/chateau-saint-roux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-des-thermes",
+    "nom": "Domaine des Thermes",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.4001,
+    "lon": 6.37402,
+    "adresse": "RN 7, 83340 Le Cannet-des-Maures",
+    "horaires": "Toute l'année du lundi au samedi d'après l'office de tourisme Cœur du Var ; ni l'office ni le domaine ne publient d'heure d'ouverture, mieux vaut appeler avant de se déplacer.",
+    "produits": [
+      "Côtes de Provence rouges, rosés et blancs",
+      "Vins en bag-in-box",
+      "Vins de pays du Var (IGP)",
+      "Huile d'olive du domaine",
+      "Terrines, tapenade, miel et confitures"
+    ],
+    "description": "Domaine familial d'une quarantaine d'hectares dominant la plaine des Maures, dont les deux tiers sont classés en AOC Côtes de Provence. Le caveau vend les vins au prix domaine, en bouteille et pour partie en bag-in-box, l'huile d'olive pressée sur la propriété et une sélection de produits du terroir, à côté des vestiges romains qui ont donné son nom au lieu.",
+    "telephone": "04 94 60 73 15",
+    "site_web": "https://www.domaine-des-thermes.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Thermes+Le+Cannet+des+Maures",
+    "image_url": "/images/marchands/domaine-des-thermes.jpg",
+    "a_confirmer": true
   }
 ]

@@ -63,10 +63,20 @@ prioritaires en cas de conflit.
    demi-journée, écrit noir sur blanc qu'aucune heure n'est publiée, attribue à sa source toute heure
    reprise d'un annuaire tiers, et la fiche passe en `a_confirmer`. Un marché ne s'écarte que si
    aucune source ne le rattache à l'alimentaire.
+10. **Quel point publier quand la Base Adresse Nationale ne sait pas géocoder.** Le cas revient à
+   chaque passe — zone d'activité sans numéro, lieu-dit, route départementale — et se tranche
+   toujours dans le même ordre : le numéro de voirie rendu par la BAN ; à défaut le marqueur que le
+   commerçant publie lui-même, **et seulement si l'adresse imprimée à côté de ce marqueur est bien la
+   sienne** ; à défaut les coordonnées que le registre des entreprises donne à l'établissement ; à
+   défaut le marqueur de la fiche d'office de tourisme ; en dernier recours le centre de la voie,
+   qui se dit alors dans la fiche. La vérification de l'adresse voisine n'est pas facultative : les
+   données structurées du site de **Château Font du Broc** portaient les coordonnées d'un autre
+   domaine, à 6 km. Tout écart entre deux sources se consigne ici, et la fiche passe en
+   `a_confirmer`.
 
 ## Marchands à confirmer
 
-99 fiches sur 133 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+104 fiches sur 138 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -167,8 +177,13 @@ prioritaires en cas de conflit.
 - **Mélisse Escargots Délice** (l'office de tourisme Cœur du Var est la seule source : il donne l'adresse, le téléphone et « toute l'année », sans jour ni heure. Au registre, il s'agit d'une entreprise individuelle sous patronyme ; « Mélisse Escargots Délice » est l'enseigne déclarée et le nom publié par l'office. L'exploitation ne figure pas au registre de l'Agence Bio : le pilier « environnement » n'a pas été coché)
 - **Marché de Gonfaron** (première fiche publiée au titre de la règle 9. La commune et l'office de tourisme confirment tous deux le mercredi matin sur la place, mais aucun des deux ne publie d'horaire ni la liste des exposants ; les heures de 8h à 12h30 et les catégories de produits viennent d'annuaires de marchés, attribués comme tels dans la fiche. Un de ces annuaires annonce même un marché le jeudi, ce que la commune contredit. La photo est celle que la mairie publie sur sa page « Marché de Gonfaron », prise en juin 2020)
 - **Le Rucher de la Fauville** (trois orthographes du nom : l'office de tourisme titre sa fiche « La Fauville », le registre des entreprises déclare l'enseigne « Les Ruchers de la Fauville » au pluriel, et les étiquettes du producteur portent « Le Rucher de la Fauville » au singulier — c'est cette dernière, la sienne, qui a été retenue. La vente à la propriété est sur rendez-vous uniquement ; les trois points de vente cités sont ceux que publie l'office. Les miels de maquis et le pollen viennent de la photo d'étiquettes de l'office, les autres parfums de son texte)
+- **Marché du Cannet-des-Maures** (deux pages de la commune se contredisent : la page tourisme, mise à jour en mars 2023, annonce le marché de 7h30 à 13h sur la place de la Gare ; l'actualité de mars 2024, plus récente, le dit « de retour en centre-ville » de 8h à 12h sur l'esplanade des Terrasses de la Gare. C'est la plus récente qui est publiée, l'autre est citée dans la fiche. La brocante, elle, reste sur la place de la Gare. Le point est celui de l'esplanade rendu par la Base Adresse Nationale, à 99 m de la Poissonnerie Lilou : les deux fiches sont bien deux commerces distincts de la même avenue, pas un doublon. La photo est celle que la commune publie sur son actualité, recadrée sur l'étal pour écarter les visages de la foule)
+- **Poissonnerie Lilou** (l'annuaire des commerces de la commune est la seule source d'horaires et décrit l'activité d'un mot, « shopping et vente au détail ». La liste de produits vient donc des enseignes lisibles sur la photo de devanture publiée par la commune : plateaux de fruits de mer, tartare de saumon et brochettes de poisson faits maison. Deux numéros sont affichés sur la vitrine, un fixe et un portable ; seul le fixe est publié)
+- **La Grange Bio** (le site du magasin n'a plus été mis à jour depuis 2012 mais porte les horaires en page d'accueil ; l'annuaire des commerces de la commune, lui, a été revu le 31 août 2026 et confirme l'adresse et le téléphone. Aucune des deux sources ne dit ce qu'il en est du dimanche : la fiche le signale plutôt que de conclure. L'adresse s'écrit « chemin du Bouillidou » côté magasin et « chemin de Bouillidou » à la Base Adresse Nationale et au registre)
+- **Château Saint-Roux** (la Base Adresse Nationale ne connaît pas la route de la Garde-Freinet au Cannet ; le point publié est le marqueur que le domaine place dans ses propres données structurées, dont le bloc d'adresse correspond bien à l'adresse publiée, quand le registre place la société 2,5 km plus au nord, au quartier des Ambard. Le domaine écrit d'un côté que ses fromages de chèvre sont « produits sur place » et de l'autre que la boutique vend « les fromages de La Fromagerie de Lorgues » : la fiche s'en tient à la seconde formule pour les produits et ne parle du troupeau que dans la description. Le domaine est aussi un hôtel-restaurant : les horaires publiés sont ceux de la boutique, au titre de la règle 2)
+- **Domaine des Thermes** (le domaine ne publie ni horaires ni coordonnées géographiques, et la Base Adresse Nationale ne sait pas géocoder « RN 7 » sur la commune : les horaires et le point viennent tous deux de la fiche de l'office de tourisme Cœur du Var, qui se contente de « toute l'année du lundi au samedi ». Au registre, la société est immatriculée sous un patronyme ; « Domaine des Thermes » est le nom de l'exploitation et de son site)
 
-Les 133 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 138 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -559,6 +574,32 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
   racheté et sert de vitrine à un site de jeux d'argent qui cite le moulin dans son texte pour se
   donner l'air légitime. Le site de la coopérative est `moulin-du-grimaudet.com`. Deuxième piège de
   ce type après celui de la Poissonnerie Santa Lucia : chaque domaine s'ouvre avant d'être inscrit.
+
+### Pistes non publiées au Cannet-des-Maures
+
+- **La Maison des Bons Fromages** (Les Terrasses de la Gare, 116 avenue du 8 Mai 1945) : fromagerie,
+  crèmerie et épicerie fine « produits uniquement locaux » d'après l'annuaire des commerces de la
+  commune, active au registre, avec des horaires jour par jour. Entièrement vérifiée, mais non
+  retenue cette passe, qui comptait déjà un magasin de produits locaux avec La Grange Bio. À monter
+  au prochain passage sur la commune, en `magasin-bio` au titre de la règle 4, comme **Le Petit
+  Transian** déjà publié. Deux réserves à reprendre alors : l'adresse du registre (116 avenue du
+  8 Mai 1945) et celle de la commune (« Les Terrasses de la Gare ») désignent le même immeuble mais
+  ne s'écrivent pas pareil, et la vidéo « Portrait d'entrepreneur » de la commune donne des horaires
+  du dimanche différents de ceux de l'annuaire (12h30 contre 12h).
+- **La Guilde des Vignerons** (rond-point Saint-Louis) : cave coopérative d'une cinquantaine de
+  membres, établissement actif au registre, présente à l'annuaire des commerces de la commune comme
+  à l'office de tourisme, qui donne le point, le téléphone et « ouvert tous les jours, fermé dimanche
+  et lundi de mi-septembre à mi-juin ». Non retenue cette passe, qui comptait déjà un caveau avec le
+  Domaine des Thermes. La cave n'a pas de site : le lien « site internet » de la commune renvoie à
+  l'annuaire de la fédération des caves coopératives du Var. Elle tient aussi un caveau au Thoronet,
+  qui fera sa propre fiche au titre de la règle 3.
+- **Les Jardins d'Entraygues** (île d'Entraygues, RD 84) : maraîchage certifié bio chez Ecocert
+  depuis 2013 au registre de l'Agence Bio, avec une seconde adresse place de la Libération qui
+  ressemble à un point de vente. Aucune source consultée ne publie d'horaires ni ne documente une
+  vente au public : non publié en l'état.
+- **Château Reillanne**, **Château Chevron Villette** et **Domaine de la Bastide Neuve** : trois
+  domaines du Cannet enregistrés à l'Agence Bio, absents de l'annuaire de l'office de tourisme et
+  sans horaires de caveau publiés. Non instruits.
 
 ### Pistes non publiées à Gonfaron
 
