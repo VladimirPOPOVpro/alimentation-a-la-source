@@ -107,10 +107,33 @@ prioritaires en cas de conflit.
    `environnement`, lui, ne se coche que sur une certification vérifiable au registre de l'Agence
    Bio ou revendiquée noir sur blanc par le producteur — bio, HVE, Terra Vitis — jamais sur un
    « sans pesticides » de page d'accueil que personne d'extérieur ne contrôle.
+15. **Le pilier `environnement` quand aucune certification n'est vérifiable.** La règle 14 réserve
+   `environnement` à une certification vérifiable, mais le fichier la contredisait : trente-sept
+   fiches d'alcool le portaient, dont quinze sans qu'aucune certification ne soit citée nulle part.
+   Tranché dans le sens de la règle 14. Un producteur d'alcool sans certification vérifiable porte
+   `economie` seul — un pilier unique est une valeur légitime du schéma, une fiche du fichier n'en
+   portait déjà qu'un — et sa description dit ce que le producteur revendique réellement,
+   « agriculture raisonnée », « lutte raisonnée », sans le traduire en pilier. Le rattrapage ne se
+   fait pas en bloc, parce qu'effacer un pilier vrai est aussi une perte : les fiches antérieures
+   sont recalées commune par commune, au passage suivant, après vérification au registre de
+   l'Agence Bio et sur le site du producteur. Trois l'ont été le jour où la règle a été écrite —
+   Château Sainte-Roseline, Domaine Saint Cassien et Domaine La Grande Bastide, tous trois engagés
+   chez Ecocert, certification désormais citée dans leur description — il en reste douze. Une seule
+   exception au rattrapage différé : deux fiches du même commerce ne peuvent pas se contredire, donc
+   la fiche du Cannet-des-Maures de La Guilde des Vignerons a été recalée le jour même où le second
+   caveau de la coopérative a été publié au Thoronet.
+16. **Un marché que la commune reconnaît sans en publier le jour.** La règle 9 vise le marché dont
+   la commune donne le jour sans les heures. Le Thoronet présente un cas plus faible : la commune
+   écrit qu'elle a « son marché provençal », et sa page « Marchés » est en cours de construction —
+   ni jour, ni lieu, ni heure. Un tel marché est publié quand la commune atteste son existence et
+   qu'au moins deux annuaires indépendants s'accordent sur le même jour et le même lieu. Le jour et
+   le lieu sont alors donnés comme un fait, les heures sont attribuées nommément à l'annuaire qui
+   les publie, et la fiche dit que la commune ne les confirme pas. En dessous — commune muette, ou
+   annuaires en désaccord — le marché n'est pas publié du tout.
 
 ## Marchands à confirmer
 
-124 fiches sur 158 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+129 fiches sur 163 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -222,7 +245,7 @@ prioritaires en cas de conflit.
 - **Domaine de Rimauresq** (le domaine ne revendique nulle part l'agriculture biologique sur son site : la mention vient du registre de l'Agence Bio, qui l'enregistre chez Ecocert depuis février 2017, et la fiche l'attribue à cette source. Trois points coexistent, tous dans un rayon de 60 m : celui que le domaine publie sur sa page contact, celui de la fiche de l'office et celui que le registre donne à sa société de vente ; c'est celui de l'office, le plus précis, qui est publié. Deux sociétés distinctes portent le domaine, une SCI et une société de vente, toutes deux actives)
 - **Maison des Vins Côtes de Provence** (deux pages du même site se contredisent : la page d'accueil annonce une ouverture 7j/7 du lundi au samedi de 10h à 19h et le dimanche jusqu'à 18h, la page « contact » donne un calendrier saisonnier plus détaillé, avec fermeture le dimanche d'octobre à fin mars. C'est le calendrier saisonnier qui est publié, l'autre version est citée dans la fiche. Le point est celui que l'établissement publie lui-même sur sa page contact, à 10 m des coordonnées que le registre donne à son établissement ouvert. Deuxième fiche publiée au titre de la règle 8, après le Cellier des 3 Collines)
 - **Château La Mascaronne** (la fiche de l'office de tourisme Cœur du Var se contredit elle-même : elle écrit « RN7 » comme adresse mais place son marqueur au lieu-dit La Mascarone, à 2,7 km au nord de la nationale, là où le registre place le siège de l'exploitation — et la Base Adresse Nationale ne connaît aucune adresse à cet endroit. C'est le point du registre, confirmé à 100 m près par le marqueur de l'office, qui est publié, et l'adresse écrite comme les annuaires la donnent, « RN 7 – La Mascarone ». La société exploite un second établissement, lui bien sur la route de Toulon. Aucune source ne publie d'heure d'ouverture : seuls les jours sont donnés. Le registre de l'Agence Bio et l'office listent aussi une production d'olives et d'huile d'olive, mais aucune source n'écrit qu'elle est vendue au caveau : elle ne figure pas dans les produits)
-- **La Guilde des Vignerons** (la cave n'a pas de site : le lien « site internet » de l'annuaire de la commune mène à `lescavescoopduvar.fr`, qui n'appartient plus à la fédération des caves coopératives du Var — le domaine sert aujourd'hui de blog générique sur le vin, avec des articles sur le rosé de supermarché. Troisième piège de nom de domaine relevé ici, après la Poissonnerie Santa Lucia et le Moulin du Grimaudet : le champ `site_web` est resté vide. Les horaires viennent de l'office de tourisme et ne donnent que des jours. Le caveau du Thoronet, tenu par la même coopérative, fera sa propre fiche au titre de la règle 3)
+- **La Guilde des Vignerons** (la cave n'a pas de site : le lien « site internet » de l'annuaire de la commune mène à `lescavescoopduvar.fr`, qui n'appartient plus à la fédération des caves coopératives du Var — le domaine sert aujourd'hui de blog générique sur le vin, avec des articles sur le rosé de supermarché. Troisième piège de nom de domaine relevé ici, après la Poissonnerie Santa Lucia et le Moulin du Grimaudet : le champ `site_web` est resté vide. Les horaires viennent de l'office de tourisme et ne donnent que des jours. Le caveau du Thoronet, tenu par la même coopérative, a désormais sa propre fiche au titre de la règle 3, et le pilier `environnement` a été retiré des deux le jour où la règle 15 a été écrite)
 - **La Maison des Bons Fromages** (l'adresse s'écrit « Les Terrasses de la Gare » à l'annuaire de la commune et « 116 avenue du 8 Mai 1945 » au registre ; la Base Adresse Nationale ne connaît pas cette avenue au Cannet et nomme la voie « Esplanade de la Gare », où elle rend bien un numéro 116. Les trois désignent le même immeuble. Le point publié est le marqueur de l'annuaire communal, à 12 m du point du Marché du Cannet-des-Maures : la boutique borde l'esplanade où le marché se tient, les deux fiches sont vraies, voir la règle 12. Les horaires du dimanche divergent entre l'annuaire, revu en mars 2024, et la vidéo « Portrait d'entrepreneur » de la commune ; l'annuaire est publié, la vidéo citée. La photo est un plan de cette vidéo, recadré sur l'ardoise et le comptoir pour écarter les visages, d'où sa petite taille)
 - **Marché du Luc-en-Provence** (deuxième fiche publiée au titre de la règle 9. La commune confirme le marché du vendredi par ses articles et ses photographies, l'office de tourisme Cœur du Var confirme « le vendredi, le matin au centre ville » ; aucun des deux ne donne d'heure ni ne nomme la place. Les heures de 8h à 12h30 et la place de la Convention viennent d'annuaires de marchés, attribués comme tels dans la fiche, et le point est celui que la Base Adresse Nationale rend pour cette place, à 150 m de la mairie et à 106 m des Vignerons du Luc. La liste de produits ne reprend que ce que montrent les photographies de la mairie)
 - **Marché de Puget-Ville** (la commune publie l'horaire, le samedi matin de 8h à 12h, et va jusqu'à donner la liste de ses étals, d'où la liste de produits ; elle écrit « en centre-ville » quand l'office de tourisme Cœur du Var écrit « rue de la Libération ». Le point publié est celui que la Base Adresse Nationale rend pour cette rue, l'axe du village. La photo n'est pas celle de la commune : l'image qui illustre sa page « Les Marchés » est une photographie d'agence, avec un visage au premier plan, et elle ne montre pas Puget-Ville. C'est donc une rue du village, prise dans la photothèque municipale, qui illustre la fiche — photo thématique de la même commune au titre de la règle 1)
@@ -236,8 +259,13 @@ prioritaires en cas de conflit.
 - **L'Éclat - Brasserie artisanale** (première brasserie publiée, et première fiche au titre de la règle 14 : la gamme est certifiée bio au registre de l'Agence Bio depuis juin 2023, d'où `environnement`, mais `alimentation` n'est pas coché. Les trois bières nommées dans les produits sont celles que porte l'ardoise sur la photographie de l'office de tourisme ; le site, lui, ne détaille pas la gamme. Les horaires du site et ceux de l'office concordent sur les jours, seul le site donne les heures)
 - **Le Porc Serein** (l'office de tourisme Cœur du Var est la seule source descriptive, et ses horaires sont manifestement mal saisis : il annonce « du 01/01 au 31/01, du lundi au vendredi » puis « sur rdv ». Seul le rendez-vous est publié. Au registre, il s'agit d'une entreprise individuelle sous patronyme, code élevage de porcins, ouverte ; « Le Porc Serein » est l'enseigne déclarée. L'office ne donne que le quartier de la Verrerie et le registre le numéro 65 d'une impasse qui est aussi un domicile : la fiche s'en tient à la voie, sans numéro, et le point est celui que la Base Adresse Nationale rend pour l'impasse. Le saucisson de l'élevage figure sur l'ardoise de la brasserie L'Éclat, à 2,5 km de là, ce qui confirme l'activité de l'élevage par une source qui n'est ni l'office ni le registre)
 - **Domaine des Thermes** (le domaine ne publie ni horaires ni coordonnées géographiques, et la Base Adresse Nationale ne sait pas géocoder « RN 7 » sur la commune : les horaires et le point viennent tous deux de la fiche de l'office de tourisme Cœur du Var, qui se contente de « toute l'année du lundi au samedi ». Au registre, la société est immatriculée sous un patronyme ; « Domaine des Thermes » est le nom de l'exploitation et de son site)
+- **La Guilde des Vignerons - caveau du Thoronet** (les deux offices de tourisme qui décrivent ce caveau se contredisent sur les jours : le point information du Thoronet annonce « du lundi au samedi », l'office Cœur du Var « du mardi au dimanche, et le lundi en saison ». Aucune des deux versions n'est plus récente que l'autre : celle de la commune où se trouve le caveau est publiée, l'autre est citée dans la fiche, au titre de la règle 5. La Base Adresse Nationale ne connaît pas de numéro 20 sur ce boulevard : le point publié est celui de l'établissement au registre, à 110 m du marqueur de l'office. La coopérative n'a pas de site propre — le lien de l'office mène à une fiche de la Route des Vins de Provence qui n'existe plus — et aucune certification n'est vérifiable, d'où le pilier `economie` seul, règle 15)
+- **Domaine Saint-Louis la Manuelle** (deux adresses cohabitent : le domaine écrit « 220 chemin du Grand Clos » sur sa page de contact et « Route de l'Abbaye – D279 » sur celle du caveau. C'est le caveau qui est publié, puisque c'est là qu'on achète, et le point est celui de l'établissement au registre, qui porte cette même adresse et l'enseigne du domaine, à 200 m du marqueur de l'office de tourisme. Le domaine revendique noir sur blanc l'« agriculture raisonnée », qui n'est plus une certification contrôlée depuis 2013, et le registre de l'Agence Bio porte pour son SIRET une certification arrêtée en 2021 : pas de pilier `environnement`, règle 15. L'huile d'olive des 625 oliviers est décrite comme une production du domaine, jamais annoncée à la vente sur aucune source — elle est citée dans la description, pas dans les produits, et `alimentation` n'est donc pas coché)
+- **Lumière des Simples** (l'office de tourisme Cœur du Var est la seule source descriptive, et l'exploitation est immatriculée sous patronyme : le nom publié est l'enseigne déclarée au registre. La Base Adresse Nationale ne rend pas de numéro pour le 3867 route de Vidauban ; le point publié est celui de l'établissement au registre, à 240 m du marqueur de l'office, règle 10. Les produits croisent la description de l'office — culture et distillation de plantes — et les productions déclarées au registre de l'Agence Bio, qui date l'engagement chez Ecocert de février 2024)
+- **All'Orto di Alfredo** (l'apiculteur n'apparaît qu'à l'annuaire du point information du Thoronet, sous un nom commercial italien que le registre ne déclare pas comme enseigne : c'est ce nom qui est publié, jamais le patronyme sous lequel l'entreprise individuelle est immatriculée. Son site, hébergé sur le domaine d'un saxophoniste, ne rend plus qu'une page vide : le champ `site_web` est resté vide, quatrième piège de nom de domaine relevé ici. Aucun horaire n'est publié nulle part, la fiche le dit. Les baumes et sticks à lèvres viennent des étiquettes lisibles sur la photographie de l'office, la seule source qui documente la gamme)
+- **Marché du Thoronet** (première fiche publiée au titre de la règle 16 : la commune écrit qu'elle a « son marché provençal » mais sa page « Marchés » est en cours de construction. Le jour et le lieu tiennent parce que trois sources indépendantes s'accordent — l'office de tourisme Cœur du Var, Provence-Guide, qui dit avoir fait confirmer ses données par un office de la région en juillet 2023, et Jours-de-Marché ; les heures divergent d'une demi-heure entre les deux annuaires et sont attribuées à chacun dans la fiche. Le point est celui que la Base Adresse Nationale rend pour le parking Louis Rainaud, à 100 m du chemin de Pré Long que Provence-Guide donne comme autre nom du même lieu, et à 270 m du caveau de la Guilde. La photo est une vue du village prise dans la présentation du point information : photo thématique de la même commune, règle 1 — l'affiche de la foire au bio publiée par la mairie est une affiche, pas une photographie du marché)
 
-Les 158 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 163 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -608,6 +636,69 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 - **Château Clarettes**, **Château Les Apies**, **Domaine de l'Abadie**, **Le Château d'Argens** et
   **Domaine Albanel** : cinq domaines listés par l'annuaire des commerces de la commune, non
   instruits cette passe, qui en comptait déjà cinq. À reprendre au prochain passage.
+
+### Pistes non publiées au Thoronet
+
+- **Château Sainte-Croix** : les deux offices de tourisme qui le décrivent le placent au Thoronet —
+  celui de la commune écrit « Route du Thoronet 83340 Le Thoronet », celui de Cœur du Var « 530
+  chemin de Sainte Croix », deux adresses différentes que la Base Adresse Nationale rattache bien
+  toutes deux au Thoronet. Mais le domaine, sur son propre site, écrit « Château Sainte Croix, Route
+  du Thoronet, **83570 Carcès** », intitule ses pages « la cave à vin de Carcès » et « la cave à vin
+  d'Antibes », et les deux seules sociétés portant ce nom au registre sont domiciliées « Château
+  Sainte Croix, route du Thoronet, 83570 Carcès ». Le producteur et le registre disent Carcès, les
+  offices disent Le Thoronet : la propriété est manifestement à cheval sur la limite communale et
+  son caveau du côté de Carcès. Non publiée ici, à reprendre au passage sur Carcès. Troisième
+  divergence au passage : le site que l'office communal donne, `chateau-sainte-croix-vin.fr`, ne
+  répond plus, quand `chateau-sainte-croix.com` répond.
+- **Domaine de Camparnaud** : quarante hectares au Thoronet, actif au registre depuis 2001, décrit
+  par l'office de tourisme communal, ouvert du vendredi au dimanche. Écarté sur un point unique et
+  bloquant — le point de la carte. L'office donne « Route d'Entrecasteaux », que la Base Adresse
+  Nationale ne connaît pas sur la commune et à laquelle elle substitue silencieusement la route du
+  Luc, à l'opposé ; le registre ne publie aucune coordonnée pour cet établissement ; et l'itinéraire
+  que l'office décrit lui-même mène à huit kilomètres du village. Un domaine dont on ne sait pas
+  poser le marqueur ne se publie pas sur une carte. Le téléphone publié est par ailleurs un numéro
+  néerlandais.
+- **Le Rucher du Thoronet** : miel de fleurs, chemin du Haut des Clos, fiche complète avec téléphone
+  sur l'annuaire du point information de la commune. Le registre donne l'entreprise **fermée**,
+  `nombre_etablissements_ouverts` à zéro. Non publiée. La fiche de l'office est toujours en ligne :
+  un annuaire d'office de tourisme atteste ce qui a existé, pas ce qui existe encore.
+- **Le Potager de Michou** (chemin des Fadons) : listé par l'office de tourisme Cœur du Var avec des
+  horaires précis. La seule société portant cette enseigne au registre est un **commerce de gros**
+  en code 46.31Z, dont le siège est rue Les Vidals au Cannet-des-Maures, et aucune source
+  indépendante ne documente un maraîchage au Thoronet. Non publiée, règle 6.
+- **Les Jardins de Castelange** (Le Plan des Camails), **SCEA La Marquise** (lieu-dit La Marquise) et
+  **La Colline aux Cabrettes** (vallon de Gaurand) : trois exploitations actives au registre, les
+  deux premières engagées en bio chez Ecocert depuis 2009 et 2012 — légumes, fruits, asperges,
+  olives, truffes pour l'une, fromages de chèvre pour l'autre. Aucune ne figure dans les deux
+  annuaires d'office de tourisme, aucune ne publie d'horaires, et la seule trace en ligne de la
+  chèvrerie est une page Facebook. Rien ne dit qu'on peut y acheter ni quand : à instruire, pas à
+  publier.
+- **Les Ruches à Valou** (hameau des Férauds) : enseigne déclarée au registre, aucune autre source.
+- **Boucherie du Thoronet**, **Le Panier Thoronéen** et **Lou Bouan Pan** (boulangerie du parking
+  Louis Rainaud) : commerces alimentaires du village, écartés comme les commerces généralistes de
+  Carnoules et de Puget-Ville — le site référence la vente en circuit court, pas le commerce
+  alimentaire de proximité.
+
+### Une petite commune peut avoir son propre office de tourisme, distinct de l'intercommunal
+
+L'office de tourisme Cœur du Var, qui a servi de source à une dizaine de communes de ce dépôt, ne
+recensait que **deux** producteurs au Thoronet. Le point information du Thoronet, à
+`tourisme-lethoronet.com`, en recense **six** dans ses rubriques « Domaines viticoles » et « Autres
+produits du terroir », avec des horaires que l'office intercommunal ne donne pas — et il est le seul
+à connaître l'apiculteur du chemin des Fadons. Les deux annuaires tournent sur le même moteur et
+sont réalisés par la même agence, ce qui les rend faciles à lire une fois l'un connu, mais leurs
+contenus sont indépendants et se contredisent parfois sur les horaires. Sur une commune qui semble
+mal couverte par l'office intercommunal, chercher `tourisme-<commune>.com` avant de conclure que la
+commune est vide.
+
+### Un annuaire de commerçants peut n'être que la démonstration du CMS
+
+Le site de la commune du Thoronet publie un type de contenu `commercants` qui contient neuf fiches :
+« Mon commerce local 1 » à « Mon commerce local 9 », adresse « 12 rue test, 06560 Valbonne », texte
+lorem ipsum. Ce sont les fiches d'exemple livrées avec le thème, jamais remplacées. Après les
+annuaires périmés de Pignans et de Carnoules, c'est un troisième mode de défaillance des annuaires
+municipaux, et le plus facile à repérer : lire au moins une fiche en entier avant de faire d'un
+annuaire une source.
 
 ### Pistes non publiées à Puget-Ville
 

@@ -1083,7 +1083,7 @@
       "Cuvée la Chapelle de Sainte Roseline",
       "Gin et vermouth de Roseline"
     ],
-    "description": "Cru Classé de Provence installé autour de la chapelle et du cloître de Sainte-Roseline, classés monuments historiques. Caveau ouvert tous les jours de l'année, expositions et ateliers de dégustation dans l'abbaye restaurée.",
+    "description": "Cru Classé de Provence installé autour de la chapelle et du cloître de Sainte-Roseline, classés monuments historiques. Caveau ouvert tous les jours de l'année, expositions et ateliers de dégustation dans l'abbaye restaurée. Le domaine est engagé en agriculture biologique auprès d'Ecocert depuis juillet 2019 d'après le registre de l'Agence Bio.",
     "telephone": "04 94 99 50 30",
     "site_web": "https://www.sainte-roseline.com/fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Château+Sainte+Roseline+Les+Arcs",
@@ -1779,7 +1779,7 @@
       "Épicerie fine locale",
       "Paniers garnis"
     ],
-    "description": "Vignoble de vingt hectares replanté au cours des dix dernières années, qui associe syrah, grenache et cinsault à des cépages moins courants dans la région comme le cabernet, le merlot ou le chardonnay. La vente se fait directement au caveau, où la dégustation est gratuite et les visites de cave possibles toute l'année.",
+    "description": "Vignoble de vingt hectares replanté au cours des dix dernières années, qui associe syrah, grenache et cinsault à des cépages moins courants dans la région comme le cabernet, le merlot ou le chardonnay. La vente se fait directement au caveau, où la dégustation est gratuite et les visites de cave possibles toute l'année. Le registre de l'Agence Bio inscrit l'exploitation en agriculture biologique auprès d'Ecocert depuis août 2023.",
     "telephone": "04 94 76 00 74",
     "site_web": "https://www.grandebastide.fr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+La+Grande+Bastide+Tourrettes",
@@ -2916,7 +2916,7 @@
       "Cuvée Fleur de Vignes, blanc de rolle",
       "Cuvée La Source, rosé"
     ],
-    "description": "Domaine familial de douze hectares d'un seul tenant, groupés autour d'une bastide et d'un platane de trois cents ans, créé en 2019 sur des terres déjà cultivées par les générations précédentes. Le vignoble est conduit en agriculture raisonnée, sans herbicide, un troupeau de moutons pâturant les rangs l'hiver ; le caveau vend les quatre cuvées du domaine en AOP Côtes de Provence.",
+    "description": "Domaine familial de douze hectares d'un seul tenant, groupés autour d'une bastide et d'un platane de trois cents ans, créé en 2019 sur des terres déjà cultivées par les générations précédentes. Le vignoble est conduit en agriculture raisonnée, sans herbicide, un troupeau de moutons pâturant les rangs l'hiver ; le caveau vend les quatre cuvées du domaine en AOP Côtes de Provence. Le registre de l'Agence Bio l'inscrit par ailleurs en agriculture biologique auprès d'Ecocert depuis novembre 2022.",
     "telephone": "06 58 44 58 65",
     "site_web": "https://domainesaintcassien.fr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Cassien+Le+Muy",
@@ -3562,7 +3562,6 @@
     "nom": "La Guilde des Vignerons",
     "categorie": "producteur",
     "piliers": [
-      "environnement",
       "economie"
     ],
     "lat": 43.392493,
@@ -4033,6 +4032,130 @@
     "site_web": "https://www.lolice.fr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Lolice+Puget-Ville",
     "image_url": "/images/marchands/domaine-lolice.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-guilde-des-vignerons-le-thoronet",
+    "nom": "La Guilde des Vignerons - caveau du Thoronet",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.450316,
+    "lon": 6.30611,
+    "adresse": "20 boulevard du 17 Août 1944, 83340 Le Thoronet",
+    "horaires": "De septembre à juin : du lundi au samedi de 9h à 12h et de 14h à 18h. En juillet et août : du lundi au samedi de 9h à 12h30 et de 15h à 19h. Ce sont les horaires publiés par le point information du Thoronet ; l'office de tourisme Cœur du Var annonce au contraire une ouverture du mardi au dimanche, et le lundi en saison.",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc",
+      "Vins de pays du Var"
+    ],
+    "description": "Second caveau de la coopérative née en 2001 de l'union de La Cannetoise, fondée en 1914, et de La Thoronéenne, née quatre ans plus tard : une cinquantaine de coopérateurs y apportent quelque 250 hectares de vignes. La cave occupe une grande bâtisse à l'orée du village, sur la route qui mène à l'abbaye, reconnaissable à ses murs couverts de fresques d'inspiration bachique ; le caveau, rénové, fait déguster les cuvées de la cave.",
+    "telephone": "04 94 73 87 02",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Guilde+des+Vignerons+Le+Thoronet",
+    "image_url": "/images/marchands/la-guilde-des-vignerons-le-thoronet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-saint-louis-la-manuelle",
+    "nom": "Domaine Saint-Louis la Manuelle",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.460614,
+    "lon": 6.263437,
+    "adresse": "Route de l'Abbaye (D279), 83340 Le Thoronet",
+    "horaires": "Ouvert toute l'année : du lundi au vendredi de 9h à 12h et de 13h à 17h, le samedi de 11h à 17h — 18h en avril, mai, juin et septembre, 19h en juillet et août.",
+    "produits": [
+      "Côtes de Provence rosé",
+      "Côtes de Provence rouge",
+      "Côtes de Provence blanc",
+      "Gamme Signature en trois couleurs",
+      "Cuvée Pierres Sauvages"
+    ],
+    "description": "Domaine de cinquante hectares à deux pas de l'abbaye cistercienne, dont quatorze de vignes conduites en agriculture raisonnée sur un terroir argilo-calcaire ; la parcelle de La Manuelle appartenait autrefois au monastère voisin. Le caveau, au milieu des vignes, vend et fait déguster les vins du domaine, qui presse par ailleurs à froid les olives de ses 625 oliviers au moulin de Gervasoni à Aups.",
+    "telephone": "04 94 67 31 47",
+    "site_web": "https://www.domaine-saintlouis.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Louis+la+Manuelle+Le+Thoronet",
+    "image_url": "/images/marchands/domaine-saint-louis-la-manuelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "lumiere-des-simples",
+    "nom": "Lumière des Simples",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.451054,
+    "lon": 6.340761,
+    "adresse": "3867 route de Vidauban, chemin de la Chapelle, 83340 Le Thoronet",
+    "horaires": "Toute l'année le mercredi, sur rendez-vous. Également présente au marché des producteurs du Luc.",
+    "produits": [
+      "Hydrolats et eaux florales",
+      "Plantes aromatiques et médicinales",
+      "Lavande, thym et romarin",
+      "Noix, noisettes et pistaches",
+      "Olives",
+      "Baies de cueillette"
+    ],
+    "description": "Herboristerie qui cultive et cueille ses plantes aromatiques et médicinales sur place, puis les distille en hydrolats. L'exploitation est engagée en agriculture biologique auprès d'Ecocert depuis février 2024 d'après le registre de l'Agence Bio, qui déclare aussi des zones de cueillette sauvage de baies et de plantes à parfum. La vente se fait sur rendez-vous et au marché des producteurs du Luc.",
+    "telephone": "06 86 66 80 51",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lumiere+des+Simples+Le+Thoronet",
+    "image_url": "/images/marchands/lumiere-des-simples.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "all-orto-di-alfredo",
+    "nom": "All'Orto di Alfredo",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.462998,
+    "lon": 6.330759,
+    "adresse": "2203 chemin des Fadons, 83340 Le Thoronet",
+    "horaires": "Aucun horaire d'ouverture publié : l'apiculteur demande qu'on le contacte pour convenir d'un rendez-vous et de la commande.",
+    "produits": [
+      "Miel de garrigue (romarin, thym, sumac)",
+      "Miel de lavande du plateau de Valensole",
+      "Baume à lèvres au miel",
+      "Stick à lèvres au miel"
+    ],
+    "description": "Apiculteur installé au quartier des Fadons depuis 2011, dont les ruches butinent le romarin, le thym et le sumac de la garrigue du Thoronet. Elles partent en transhumance sur le plateau de Valensole au mois de juin pour le miel de lavande. Les pots sont vendus en direct, avec quelques baumes et sticks à lèvres fabriqués à partir du miel.",
+    "telephone": "06 22 09 38 73",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All+Orto+di+Alfredo+Le+Thoronet",
+    "image_url": "/images/marchands/all-orto-di-alfredo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-thoronet",
+    "nom": "Marché du Thoronet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.450686,
+    "lon": 6.302803,
+    "adresse": "Parking Louis Rainaud, chemin de Pré Long, 83340 Le Thoronet",
+    "horaires": "Le mardi matin toute l'année, sur le parking du point information : les étals ouvrent vers 8h et remballent vers 12h30 d'après Provence-Guide, qui a fait confirmer ces données par un office de tourisme de la région ; Jours-de-Marché donne la même matinée jusqu'à 13h. La page « Marchés » de la commune est en cours de construction et ne confirme ni le jour ni le lieu.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Produits de producteurs locaux",
+      "Produits du terroir"
+    ],
+    "description": "Petit marché de village d'environ cinq étals, tenu le mardi matin sur le parking Louis Rainaud, au pied du point information du Thoronet. Le nombre d'exposants et les produits varient avec la saison et la météo ; la commune, qui annonce son marché provençal sans en publier le jour, tient la mairie place Sadi Carnot.",
+    "telephone": "04 94 73 87 11",
+    "site_web": "https://www.lethoronet.org",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parking+Louis+Rainaud+Le+Thoronet",
+    "image_url": "/images/marchands/marche-du-thoronet.jpg",
     "a_confirmer": true
   }
 ]
