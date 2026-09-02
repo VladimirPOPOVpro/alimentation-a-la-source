@@ -7582,5 +7582,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Michel+Toulouse",
     "image_url": "/images/marchands/marche-saint-michel-toulouse.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-de-chelles",
+    "nom": "Marché couvert de Chelles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.876122,
+    "lon": 2.584225,
+    "adresse": "Halle du marché, 51 avenue de la Résistance, 77500 Chelles",
+    "horaires": "Mardi et jeudi de 8h à 13h, dimanche de 8h à 13h30",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Boucherie et charcuterie",
+      "Poissonnerie",
+      "Fromages",
+      "Volailles",
+      "Boulangerie",
+      "Traiteurs"
+    ],
+    "description": "Une halle couverte de 2 500 m² où la Ville compte plus de quatre-vingts commerçants de bouche : boucher, charcutier, poissonnier, fromager, volailler, primeur, boulanger, maraîcher. La partie non alimentaire — maroquinerie, prêt-à-porter, chaussures — se tient à l'extérieur, et une cafétéria occupe un coin de la halle. La Ville présente le marché sous le mot d'ordre « un marché convivial pour consommer local ».",
+    "site_web": "https://www.chelles.fr/mes-services/commerces-vie-economique/marche-de-chelles/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+de+Chelles",
+    "image_url": "/images/marchands/marche-couvert-de-chelles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-chelles",
+    "nom": "AMAP de Chelles – Entre Dhuis et Marne",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.877059,
+    "lon": 2.589664,
+    "adresse": "Stade d'athlétisme Pierre-Duport, parc du Souvenir Émile-Fouchard, rond-point du 8 Mai 1945, 77500 Chelles",
+    "horaires": "Distribution le lundi, de 20h à 21h selon le site de l'AMAP et de 19h45 à 20h45 selon l'annuaire du réseau AMAP d'Île-de-France. Paniers réservés aux adhérents, par contrat avec chaque producteur.",
+    "produits": [
+      "Légumes de saison",
+      "Œufs",
+      "Yaourts, fromages, lait et crème",
+      "Pains",
+      "Pommes et jus de pommes",
+      "Miels"
+    ],
+    "description": "L'AMAP distribue tous les lundis au stade d'athlétisme du parc du Souvenir, avec un panier par contrat et une adhésion à seize euros par an. Ses fermes partenaires sont nommées sur son site : le Maraîchage des Grands Prés à Boutigny pour les légumes et les œufs, la Fromentellerie de la ferme de Beaulieu à Pécy pour les produits laitiers, les Limons de Toulotte à Sancy-lès-Provins pour les pommes, une ferme céréalière de Saint-Mars-Vieux-Maisons pour le pain. L'AMAP écrit elle-même que le miel, produit à Brou-sur-Chantereine, ne peut pas être garanti biologique : le pilier environnement n'est donc pas porté, faute d'un engagement écrit couvrant tous les produits.",
+    "site_web": "https://amap-chelles.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+du+Souvenir+Emile+Fouchard+Chelles",
+    "image_url": "/images/marchands/amap-de-chelles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-coteaux-du-montguichet",
+    "nom": "Les Coteaux du Montguichet",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.888372,
+    "lon": 2.569643,
+    "adresse": "5 chemin du Beauzet, 77500 Chelles",
+    "horaires": "Dégustations et ventes au domaine un samedi par mois, en entrée libre ; les dates sont annoncées par la lettre d'information du domaine. Festival du Montguichet chaque 14 juillet, de 12h à 19h.",
+    "produits": [
+      "Le Faucon, pinot noir IGP Île-de-France",
+      "Le Vallon, chardonnay IGP Île-de-France",
+      "L'Orée du Bois, pinot noir IGP Île-de-France",
+      "Raisin de cuve"
+    ],
+    "description": "Un vignoble replanté sur le Mont-Guichet, à quinze kilomètres de Paris, sur des coteaux où la vigne avait disparu ; la Ville de Chelles le compte parmi les trois exploitants installés sur le site depuis 2019. Vendanges manuelles en petites caisses, fermentations sans levurage, sulfites en très petites quantités et élevages de huit à quatorze mois en fûts anciens dans une cave enterrée, sans chauffage ni climatisation au chai. L'exploitation est certifiée par Ecocert, engagement en cours au registre de l'Agence Bio.",
+    "site_web": "https://www.lescoteauxdumontguichet.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Coteaux+du+Montguichet+Chelles",
+    "image_url": "/images/marchands/les-coteaux-du-montguichet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-vrac-retrouve",
+    "nom": "Le Vrac Retrouvé",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.875449,
+    "lon": 2.58289,
+    "adresse": "56 bis avenue de la Résistance, 77500 Chelles",
+    "horaires": "Du mardi au vendredi de 10h à 13h et de 15h à 19h30, samedi de 10h à 13h et de 15h à 19h, dimanche de 10h à 12h30. Fermé le lundi.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Œufs",
+      "Produits de boulangerie et pâtisserie",
+      "Cafés, thés, cacao et épices",
+      "Huiles et matières grasses",
+      "Épicerie sucrée et confiseries",
+      "Produits de la ruche"
+    ],
+    "description": "Une épicerie biologique et en vrac à deux pas de la halle du marché, certifiée par Ecocert avec un engagement en cours au registre de l'Agence Bio. La boutique met en avant le zéro déchet et les produits locaux, et double son magasin d'une commande en ligne à retirer sur place. Le magasin écrit son adresse « 56 bis » quand le registre des entreprises et celui de l'Agence Bio écrivent « 56 » : les deux points sont à sept mètres l'un de l'autre.",
+    "telephone": "09 86 15 69 18",
+    "site_web": "https://vracretrouve.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Vrac+Retrouvé+Chelles",
+    "image_url": "/images/marchands/le-vrac-retrouve.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "sauvages-et-cultivees",
+    "nom": "Sauvages et Cultivées",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.888074,
+    "lon": 2.570186,
+    "adresse": "1 chemin du Beauzet, 77500 Chelles",
+    "horaires": "Aucun jour ni horaire de vente n'est publié : ni par l'exploitation, qui n'a pas de site, ni par la Ville de Chelles, ni par le registre de l'Agence Bio. La vente aux particuliers est en revanche déclarée par l'exploitante à ce registre.",
+    "produits": [
+      "Légumes frais de plein champ",
+      "Fraises",
+      "Pommes de table",
+      "Conserves et préparations de fruits et légumes",
+      "Sauces et condiments"
+    ],
+    "description": "La ferme maraîchère biologique du Mont-Guichet : la Ville de Chelles compte une maraîchère parmi les trois exploitants installés sur le site depuis 2019, aux côtés du vignoble voisin. L'exploitation est certifiée par Ecocert, engagement en cours au registre de l'Agence Bio, et y déclare la vente aux particuliers ; elle est aussi membre fondateur du collectif 3C, Chelles en Circuit-Court. Aucun horaire de vente n'étant publié nulle part, cette fiche localise la ferme sans promettre une porte ouverte. La photo est celle du site du Mont-Guichet publiée par la Ville de Chelles.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sauvages+et+Cultivées+Chelles",
+    "image_url": "/images/marchands/sauvages-et-cultivees.jpg",
+    "a_confirmer": true
   }
 ]

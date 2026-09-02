@@ -649,9 +649,23 @@ prioritaires en cas de conflit.
    à Saint-Michel c'est l'**annuaire** qui donne 7h30-13h30 et le fichier qui donne 7h. Un
    raisonnement sur l'origine supposée d'une valeur ne remplace pas une source qui l'a vue.
 
+56. **Un domaine qui répond n'est le site d'un commerce que si son propre contenu nomme la
+   commune, l'adresse ou le SIRET de ce commerce.** La note Santa Lucia couvrait le domaine
+   expiré puis racheté ; Chelles ajoute le cas jumeau, et trois fois dans la même passe.
+   `sauvagesetcultivees.fr` répond en 200 : c'est une productrice de plantes médicinales à
+   Cornimont, dans les Vosges, à quatre cents kilomètres de la maraîchère chelloise du même nom.
+   `sauvagesetcultivees.com` répond aussi : c'est « Officinalis Herboristerie ». `laguinche.com`
+   répond encore : c'est une guinguette à roulettes, un spectacle de bal ambulant, et non la
+   brasserie chelloise « La Guinche ». Les trois sites sont vivants, soignés et parfaitement
+   plausibles. Tranché ainsi : **une enseigne qui correspond ne prouve rien** — le contenu du
+   site doit nommer la commune, l'adresse ou le numéro d'immatriculation, faute de quoi le champ
+   `site_web` reste vide. Ce que la règle débloque : un producteur dont l'enseigne est courante
+   peut être publié **sans** `site_web`, plutôt qu'écarté faute de site ou, pire, crédité de
+   celui d'un homonyme. La fiche Sauvages et Cultivées est la première publiée à ce titre.
+
 ## Marchands à confirmer
 
-259 fiches sur 293 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+264 fiches sur 298 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -912,8 +926,13 @@ prioritaires en cas de conflit.
 - **Marché du Salin** (classé « alimentaire producteurs ». **Horaires départagés par la règle 55** : 7h-13h30, valeur de l'annuaire, l'office confirmant explicitement le vendredi « de 7h à 13h30 » ; le fichier open data donne 7h30-13h30 pour les trois jours. L'annuaire est aussi la seule source de la spécialisation par jour — producteurs le mardi, volaille le vendredi — que l'office recoupe mot pour mot ; elle est publiée dans les horaires et dans la description. L'office écrit que le marché propose « des produits bios » mais aucune autorité ne le classe ainsi : pas de pilier `environnement`, règle 45. Point de la Mairie à 20 m de la place du Salin de la BAN. Photo thématique de la même commune, règle 1 : le marché Cristal, autre marché toulousain de plein vent, **recadré à 860 × 310 au-dessus de la ligne des visages** — l'office n'illustre le Salin que par une image Adobe Stock, licence commerciale que ce site ne peut pas porter, comme le Shutterstock de la Croix-Rousse à Lyon)
 - **Marché des Ponts-Jumeaux** (classé « producteurs », l'une des deux seules fiches de cette passe dont **les deux publications de la Mairie s'accordent** — vendredi 16h à 20h, repris à l'identique par l'article « Redécouvrez les marchés toulousains ». C'est l'un des marchés que la Ville a ouverts en fin de journée plutôt que le matin. Le point de la Mairie tombe à 176 m du centre de la rue Cécile-Brunschvicg mais à 21 m du n° 18 : c'est un point sur la rue, pas un centre de voie, règle 10. Le fichier open data écrit « Rue R.C. Brunschvicg » ; c'est la forme de la BAN et de l'annuaire, « rue Cécile-Brunschvicg », qui est publiée. Photo thématique de la même commune, règle 1 : le marché de l'Hers, autre marché toulousain de fin de journée, publié par la Ville)
 - **Marché Saint-Michel** (classé « producteurs ». **Contradiction non départagée, règle 55** : le fichier open data ouvre à 7h, l'annuaire à 7h30, et ni l'office de tourisme ni aucune autre source indépendante ne fiche ce marché — les deux horaires sont donc publiés côte à côte dans le champ `horaires`. L'adresse aussi flotte : l'annuaire écrit « Parvis du Castelet - 18 Grande Rue Saint-Michel », le fichier « 18 bis Grande-Rue Saint Michel », et la BAN nomme le lieu « parvis Yves et Marie-Angèle Bettini » à 11 m du point ; la fiche publie le parvis du Castelet et le 18 bis, les deux formes de la Mairie, et laisse de côté le troisième nom que seule la BAN porte. Photo thématique de la même commune, règle 1 : le marché des Minimes place du Marché-aux-Cochons, publié par la Ville)
+- **Marché couvert de Chelles** (une halle de 2 500 m² et plus de quatre-vingts commerçants de bouche, seul marché de la ville. Les sept produits viennent de la liste de métiers que la Ville publie deux fois — sur sa page de référence et dans son dépliant *Découvrez le marché de Chelles* de janvier 2025 — et les deux sources s'accordent au mot près, horaires compris : c'est le contre-exemple exact de ce que la règle 55 a dû trancher à Toulouse. Point BAN à 0,974 sur le 51 avenue de la Résistance. Photo : celle que la Ville publie sur sa page du marché, **recadrée à 1280 × 425 sous la ligne des visages** — l'original est une scène d'étal où quatre visages au moins sont reconnaissables en gros plan)
+- **AMAP de Chelles – Entre Dhuis et Marne** (les six produits et les fermes partenaires viennent du site de l'AMAP, qui les nomme une par une. **Horaires contredits** : le site de l'AMAP écrit « les lundis de 20h à 21h », l'annuaire du réseau AMAP d'Île-de-France « Lundi 19h45-20h45 » — et l'annuaire étant renseigné par l'adhérent-relais de l'AMAP elle-même, aucune des deux n'est tierce ; les deux horaires sont donc publiés, règle 5. **Pas de pilier `environnement`** : l'AMAP écrit noir sur blanc que son miel « ne peut pas être garanti BIO », donc l'engagement écrit que réclame la règle 45 ne couvre pas tous les produits — même raisonnement de périmètre qu'à la règle 54. Le lieu se dit de deux façons aussi : « Stade d'athlétisme Pierre Duport dans le Parc du Souvenir » sur le site, « Stade Parc du Souvenir, rond point du 8 mai 1945 » dans l'annuaire ; la BAN ne connaît pas le stade mais résout le rond-point à 0,957, et c'est ce point qui est publié. **Les noms, courriels et numéros de portable des adhérents-relais et des paysans partenaires ne sont pas repris** — seules les enseignes des fermes le sont. Photo : celle d'une distribution publiée par l'AMAP, une balance et une cagette de tomates, **aucun visage dans le cadre**)
+- **Les Coteaux du Montguichet** (un vignoble replanté sur un coteau où la vigne avait disparu, à quinze kilomètres de Paris. Quatre sources indépendantes le documentent : son propre site, la page « agriculture urbaine » de la Ville de Chelles, le registre des entreprises — ESCAPADE VITICOLE, sigle LES COTEAUX DU MONTGUICHET, actif, NAF 01.21Z — et le registre de l'Agence Bio, certificat Ecocert **engagement en cours**, d'où le pilier `environnement`. Les trois cuvées sont nommées sur le site du domaine. Les horaires sont ceux que le domaine publie et rien de plus : un samedi par mois sans date fixe, plus le 14 juillet. Photo : celle du domaine, les rangs de vigne du Montguichet)
+- **Le Vrac Retrouvé** (épicerie biologique et vrac à cent vingt mètres de la halle, certificat Ecocert **engagement en cours**. Horaires, téléphone et gammes viennent du site du magasin ; les sept produits sont les rubriques que l'exploitation déclare elle-même au registre de l'Agence Bio. **Contradiction d'adresse** : le magasin écrit « 56 bis avenue de la Résistance », le registre des entreprises et celui de l'Agence Bio écrivent « 56 » ; les deux points BAN sont à sept mètres, c'est la forme du magasin qui est publiée et la description porte l'écart. À ne pas confondre avec **La Boutique Vrac et Co**, au 30-32 de la même avenue, **fermée** au registre. Photo : la devanture, publiée par le magasin, sans personne dans le cadre)
+- **Sauvages et Cultivées** (**première fiche publiée au titre de la règle 56**, c'est-à-dire sans `site_web` : les deux domaines qui portent ce nom appartiennent à d'autres. La ferme maraîchère du Mont-Guichet est documentée par la Ville de Chelles, par le registre des entreprises — l'enseigne SAUVAGES ET CULTIVEES sur une immatriculation au patronyme de son exploitante, que la modération interdit de publier comme enseigne — par le registre de l'Agence Bio, certificat Ecocert **engagement en cours**, et par le collectif 3C. Les cinq produits sont ses propres déclarations à l'Agence Bio, et la vente aux particuliers y est déclarée par elle. **Aucun horaire n'est publié nulle part** : le champ `horaires` le dit franchement plutôt que d'inventer une porte ouverte, et la fiche vaut alors comme localisation, pas comme invitation. À cinquante-deux mètres du vignoble voisin : deux exploitations distinctes, aux n° 1 et n° 5 du même chemin, que la Ville et les deux registres nomment séparément. Photo : celle du site du Mont-Guichet publiée par la Ville de Chelles, les planches maraîchères sous un grand ciel, personne dans le cadre)
 
-Les 293 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 298 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -941,6 +960,91 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Meaux et à Chelles
+
+Onzième passe en ville. Département visé : la **Seine-et-Marne (77)**, déficit **6,24** fiches
+au sens de la règle 41, le plus élevé de France avec 293 fiches publiées — devant le
+Pas-de-Calais (6,20), le Nord (6,11), le Val-de-Marne (6,06) et l'Essonne (5,69). Le 77 est en
+**région 11**, la passe précédente visait la région 76 : la réserve de la règle 41.c est
+respectée. Après la passe, le déficit du 77 tombe à **1,34**.
+
+**Descente d'échelle : Meaux n'a pas rendu ses cinq points.** La commune la plus peuplée du
+département sans aucune fiche est **Meaux, 56 905 habitants**, et c'est là que la passe a
+commencé. La Ville y documente très bien ses six marchés hebdomadaires, dans un guide PDF
+*J'aime mon marché* qui donne jour, horaire et métiers pour chacun. Mais un seul relève du
+sujet de ce site : le **marché des producteurs du dimanche matin**, boulevard Jean Rose, « une
+dizaine de producteurs (en fonction des saisons) de préférence seine-et-marnais, représentant
+exclusivement des métiers de bouche ». Les cinq autres sont des marchés généralistes où
+l'alimentaire côtoie le prêt-à-porter, la décoration et les arts de la table — le même profil
+que les vingt-quatre marchés « Alimentaire » écartés à Toulouse — et celui de la Verrière est
+même décrit comme rassemblant « des commerçants de bouche de France et d'ailleurs ». Le
+**marché du quartier du Marché**, le samedi, aurait tenu : ses deux halles sont alimentaires.
+Cela fait deux, pas cinq.
+
+**Et le reste de Meaux ne complète pas.** Les quatre producteurs biologiques que le registre de
+l'Agence Bio domicilie à Meaux et qui déclarent vendre aux particuliers sont, à un près, des
+**certifications arrêtées** : Maison Hardy en mars 2021, Horizon en mars 2025, une exploitation
+maraîchère en novembre 2023 — le même piège que Provence Bio et la Ferme de la Grivoisière,
+règle 25. Le quatrième est une association d'insertion dont l'établissement meldois est fermé
+au registre des entreprises. L'AMAP de Meaux, « Consomm'acteurs du Pays de Meaux », est bien
+listée par le réseau AMAP d'Île-de-France, mais **le domaine qu'il donne, `consommacteurs-
+paysdemeaux.fr`, ne résout plus** (NXDOMAIN) : c'est la note Santa Lucia sous sa forme la plus
+simple, et il n'y avait pas de seconde source. La Maison du Brie de Meaux, enfin, est un
+parcours de découverte avec dégustations sur billetterie, pas un point de vente.
+
+**Un piège de filtrage à noter.** Filtrer le registre de l'Agence Bio sur les opérateurs dont
+la ville *contient* « MEAUX » en ramène une trentaine — dont une bonne moitié sont à
+**Lumigny-Nesles-Ormeaux** : « Ormeaux » contient « meaux ». Il faut une égalité exacte, pas
+une sous-chaîne, et la première liste dressée dans cette passe était fausse pour cette seule
+raison.
+
+**Chelles, 54 620 habitants**, deuxième commune du département sans fiche, a rendu les cinq.
+Cinq fiches très groupées : trois sur quatre cents mètres au centre-ville — la halle du marché,
+l'épicerie vrac et l'AMAP dans le parc de la mairie — et deux voisines de cinquante mètres sur
+le plateau du Mont-Guichet, où la Ville a installé trois exploitants en 2019.
+
+**Le collectif 3C, Chelles en Circuit-Court**, a servi de fil conducteur : une association qui
+réunit producteurs, commerces de proximité et associations de la ville. Sa liste de membres
+fondateurs, publiée par l'AMAP, a corroboré indépendamment le vignoble et la ferme maraîchère
+du Montguichet, et a fourni la plupart des pistes ci-dessous. L'association elle-même n'est pas
+immatriculée au registre des entreprises et n'a pas de site : elle n'est donc citée que comme
+source, jamais comme fiche.
+
+**Trois homonymes en une passe** — voir la **règle 56**, née ici. Un détail sur la page
+« agriculture urbaine » de la Ville de Chelles, au passage : son résumé annonce « plus de
+16 hectares » quand son corps de texte écrit « plus de 20 hectares11 », coquille comprise. Aucun
+chiffre de surface n'a donc été publié.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Le marché des producteurs du dimanche matin à Meaux**, boulevard Jean Rose, et le **marché
+  du quartier du Marché** le samedi : deux fiches solides qui n'attendent qu'un groupe de cinq.
+  Attention, la Ville de Meaux se contredit sur le premier — sa page web place le marché
+  dominical du centre-ville « place du cinéma Majestic », son guide PDF « boulevard Jean Rose ».
+  C'est un cas de règle 55, et il faudra une source tierce pour départager.
+- **La brasserie La Guinche**, 44 avenue de la Résistance à Chelles : immatriculée sous
+  AVANTI LUPPOLO !, active, NAF 11.05Z, fabrication de bière, et membre fondateur de 3C sous le
+  nom « La Guinche, bières des bords de Marne ». Aucun horaire, aucun site — `laguinche.com` est
+  un spectacle de bal ambulant, règle 56.
+- **Plateau de Terroirs**, 28 avenue de la Résistance : « fromages et épicerie de région », plus
+  de quatre-vingts fromages locaux ou AOP de producteurs de Seine-et-Marne, immatriculé sous
+  CHELLES FROMAGES, actif, site et téléphone en ligne. **Écarté pour une raison de schéma, pas
+  de fond** : les catégories du fichier sont `ferme`, `marche`, `magasin-bio`, `amap`,
+  `producteur` et `poissonnerie`, et une épicerie de terroir non biologique n'entre dans aucune.
+  Changer cela demanderait de toucher au code, ce qui est hors périmètre.
+- **Le marché nocturne de la place Cala**, un vendredi par mois d'avril à septembre de 17h30 à
+  22h, entrée libre : producteurs, créateurs et artisans du territoire. **Écarté pour la photo,
+  pas pour le fond** : la seule image que la Ville publie est une affiche avec un titre incrusté
+  et quatre visages reconnaissables au premier plan, et aucune photo thématique chelloise
+  disponible n'était encore libre après les cinq fiches.
+- **Graine Urbaine** (association domiciliée à la mairie de Chelles) et le **rucher des
+  Abbesses**, cité par le domaine du Montguichet et membre de 3C : aucun des deux n'a de point
+  de vente documenté, et le rucher n'apparaît à aucun registre.
+- **Les autres communes du 77**, toutes sans fiche : Melun (45 995 hab.),
+  Pontault-Combault (39 096), Savigny-le-Temple (31 148), Bussy-Saint-Georges (27 498),
+  Champs-sur-Marne (27 451), Villeparisis (26 946). Le réseau AMAP d'Île-de-France en compte
+  **61 dans le département**, dont une à Melun et une à Chelles déjà publiée.
 
 ### Pistes non publiées à Toulouse
 
