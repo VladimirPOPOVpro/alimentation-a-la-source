@@ -337,10 +337,38 @@ prioritaires en cas de conflit.
    juste ; des coordonnées que le commerçant publie sous « nous sommes situés ici » sont, elles, une
    consigne d'arrivée. Cela débloque la fiche du Vallon Noir, au point 43.499865 / 5.738533, pour le
    prochain passage sur Pourrières.
+36. **Une enseigne bâtie sur le patronyme de celui qui exploite.** La modération interdit de publier
+   le nom patronymique d'un exploitant en entreprise individuelle comme s'il s'agissait d'une
+   enseigne, même quand la donnée est en open data — c'est ce qui a écarté une quinzaine
+   d'exploitations bio depuis le début. L'élevage de brebis de Garéoult pose le cas inverse :
+   l'entreprise est bien une entreprise individuelle sans enseigne déclarée au registre, mais
+   l'éleveur publie lui-même « Élevage Franck Tilotta » sur sa fiche d'office de tourisme et sur sa
+   page de vente en ligne, où il écrit à la première personne ce qu'il produit et où il le vend.
+   Tranché ainsi : **le patronyme reste interdit quand il n'est lu qu'au registre ; il devient
+   publiable quand le producteur le présente lui-même comme son nom commercial dans une source qu'il
+   maîtrise — son site, sa page de vente, sa fiche d'office**, et c'est alors ce libellé-là, mot pour
+   mot, qui est inscrit. Le critère est la volonté du producteur, pas la disponibilité de la donnée :
+   une enseigne qu'on affiche n'est plus une donnée personnelle qu'on expose. Restent exclus, comme
+   avant, l'adresse électronique nominative et le profil personnel de réseau social, qui ne sont pas
+   des enseignes.
+37. **La Base Adresse Nationale ignore le numéro publié mais connaît ses voisins sur la même voie.**
+   Le chemin André Malraux, à Garéoult, ne répond à aucune recherche directe de numéro sauf le 1835 ;
+   pourtant les contrôles inverses y font apparaître le 697d et le 1089. La numérotation est donc
+   métrique et lisible : 697 → 1089 vaut 392 unités pour 444 m de terrain, 1089 → 1835 vaut 746
+   unités pour 733 m. Pour le 1871, tous les échelons de la règle 10 échouent — pas de numéro à la
+   BAN, pas de marqueur du commerçant, point du registre au 697d et marqueur de l'office au 1089,
+   tous deux écartés par la règle 27 — et le centre de la voie tomberait à 1,2 km de l'adresse.
+   Tranché ainsi : **quand deux numéros connus de la même voie prouvent une numérotation métrique, le
+   point se calcule par interpolation entre eux, à condition que l'extrapolation au-delà du dernier
+   numéro connu reste sous 100 unités et que le contrôle inverse du point calculé rende bien ce
+   dernier numéro connu, à la distance attendue**. Ici le 1871 tombe à 36 m du 1835 et son contrôle
+   inverse rend « 1835 chemin André Malraux » à 35 m : l'arithmétique se vérifie elle-même. Ce n'est
+   pas une invention de coordonnées, c'est la lecture d'une numérotation qui est, par construction,
+   une distance. Au-delà de 100 unités d'extrapolation, on redescend au centre de la voie.
 
 ## Marchands à confirmer
 
-194 fiches sur 228 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+199 fiches sur 233 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -536,8 +564,13 @@ prioritaires en cas de conflit.
 - **Domaine de Pinchinat** (les trois sources s'accordent à moins de 50 m — numéro « 2680 route D6 » dans la Base Adresse Nationale, point du registre à 9 m, marqueur de l'office à 40 m — cas rare qui vaut d'être noté. Cinq sociétés partagent l'adresse ; c'est celle qui porte le code de commerce de détail de boissons qui donne le point, règle 7. Pilier `alimentation` accordé sur l'huile d'olive, que l'office range en « Huiles, épices et condiments » et que le registre de l'Agence Bio confirme en production, règle 31. Pilier `environnement` sur un engagement Ecocert actif depuis février 2018 ; le « depuis 1990 » que revendique le site est plus ancien que ce que le registre peut prouver, et la fiche l'attribue au domaine. Le site est une vitrine de six cents caractères : les horaires viennent de l'office, seul à en publier. Le nom du dirigeant, que l'office donne, n'est pas repris)
 - **Domaine de Saint Hubert** (première fiche publiée au titre de la règle 34 : le contrôle inverse du marqueur de l'office revient **vide**, deux fois — il n'y a aucune adresse connue de la Base Adresse Nationale autour de ce point — et c'est le point du registre qui est publié, celui de la société de vente en gros, règle 7. Horaires contredits le samedi : le domaine annonce 10h-19h sans rendez-vous, l'office 9h-19h — les deux sont publiés et attribués. Pas de pilier `environnement` : « agriculture raisonnée » n'est pas une certification et une recherche au registre de l'Agence Bio ne rend rien, règle 15. L'appellation de l'huile est contredite à l'intérieur même de la fiche de l'office, dont le texte écrit « AOP d'Aix-en-Provence » et le bloc labels « AOP Huile d'olive de Provence » : aucune des deux n'est publiée, l'huile est inscrite sans appellation. Le patronyme de la famille exploitante, que l'office publie, n'est pas repris)
 - **Domaine Vitòri** (pas de pilier `alimentation` bien que l'office annonce une « épicerie locale salée et sucrée » : aucun produit n'y est nommé et la boutique en ligne ne référence que des vins — c'est exactement le cas du Cellier de la Sainte-Baume, règle 31, et la mention reste dans la description attribuée à l'office. Pilier `environnement` sur un engagement Ecocert actif depuis août 2019. Horaires pris sur le site, qui donne un régime hiver/été précis quand l'office se contente de « du mardi au samedi ». Numéro « 2820 » de la Base Adresse Nationale à 0 m, contre un marqueur d'office à 145 m au « 3000 » de la même voie et un point de registre dont le contrôle inverse ne rend rien : premier échelon de la règle 10. Le siège déclaré à l'Agence Bio, « 4251 RN7 », est celui de l'exploitation, pas de la boutique)
+- **Cave des Vignerons de la Provence Verte** (l'office ne publie **aucune** adresse de site pour cette fiche ; celle qui est inscrite a été trouvée par essais de noms de domaine puis ouverte, et elle nomme le magasin de Garéoult avec son adresse et son téléphone — c'est la coopérative elle-même. Horaires pris sur ce site, seul à en donner : l'office se contente de « du lundi au samedi ». Pas de pilier `alimentation` : l'office annonce une « large gamme de produits du terroir » et des paniers garnis sans nommer un seul produit, exactement le cas du Cellier de la Sainte-Baume, règle 31. Pilier `environnement` sur un engagement Bureau Veritas actif depuis janvier 2008, porté par la coopérative dont le magasin est un établissement. Numéro « 9 boulevard Louis Brémond » de la Base Adresse Nationale à 22 m du marqueur de l'office : premier échelon de la règle 10)
+- **Château des Chaberts** (le domaine écrit s'être converti au bio « depuis 2017 » quand le registre de l'Agence Bio porte un engagement Ecocert ouvert le 5 mai 2015 : la date n'est pas publiée, seul le fait de la certification l'est. Pilier `alimentation` accordé sur l'huile, que l'office range en « Huiles, épices et condiments » et que le registre bio confirme en olives — le site du domaine, lui, n'en parle pas, et la fiche ne nomme donc pas de variété. Trois points étaient candidats sur 1,6 km : le contrôle inverse du marqueur de l'office revient **vide**, règle 34, celui de la société de vente en gros tombe chemin des Acacias, à 850 m du château, et c'est le point de l'exploitation qui est publié, rattaché au « 700g chemin des Chaberts » à 15 m. Le site indique au visiteur de viser « Bastide des Chaberts » au GPS : cette instruction n'a pas été retenue, elle désigne l'autre site. Horaires : le site donne 9h-18h sept jours sur sept et l'office « tous les jours », les deux précisant « uniquement sur rendez-vous » — les deux sont réunis sans contradiction)
+- **Domaine de Garbelle** (l'exploitation agricole est immatriculée sous le patronyme du vigneron ; c'est le groupement foncier, qui porte le nom « Garbelle » à l'adresse exacte, qui satisfait la règle 6, et l'enseigne publiée est celle du domaine. Numéro « 1835 chemin André Malraux » de la Base Adresse Nationale, à 14 m du marqueur de l'office et 135 m du point du registre : premier échelon de la règle 10. Pilier `alimentation` accordé sur l'huile d'olive extra vierge bio et le miel, tous deux nommés par le domaine et rangés par l'office en « Produits apicoles » et « Huile », règle 31. Pilier `environnement` sur un engagement Ecocert actif depuis mars 2011 ; la biodynamie que le domaine revendique depuis 2018 n'est pas une certification et n'est citée que dans la description. La photo est l'`og:image` du domaine, la pierre gravée à son nom)
+- **Élevage Franck Tilotta** (première fiche publiée au titre des règles 36 et 37. Le nom : l'entreprise est individuelle et n'a pas d'enseigne déclarée au registre, mais l'éleveur publie lui-même ce libellé sur sa fiche d'office et sur sa page de vente en ligne — c'est ce cas qui a fait écrire la règle 36. Le point : la Base Adresse Nationale ignore le 1871 du chemin André Malraux, le point du registre se retourne sur le 697d et le marqueur de l'office sur le 1089, tous deux écartés par la règle 27 ; le point publié est interpolé sur la numérotation métrique de la voie et son contrôle inverse rend le « 1835 » à 35 m, comme l'arithmétique le prévoyait, règle 37. Il tombe donc à 35 m du Domaine de Garbelle, qui est son voisin réel. Pilier `environnement` : la certification Ecocert est arrêtée le 10 octobre 2025, mais un engagement Bureau Alpes contrôles a ouvert le 5 septembre 2025, avant cet arrêt — c'est un transfert d'organisme, règle 25. Le champ `site_web` porte la page de vente en ligne, seule source de première main ; le profil Facebook personnel que publie l'office n'est pas repris, règle 33)
+- **Le Potager du Cabanon** (horaires contredits hors saison : le producteur annonce sur son site le lundi, le mercredi et le vendredi de 16h à 19h, l'office seulement le mercredi et le vendredi — les deux sont publiés et attribués, et le samedi de juillet-août vient de l'office seul. Point pris sur les coordonnées GPS que le producteur publie lui-même, deuxième échelon de la règle 10 : la Base Adresse Nationale ne numérote pas le chemin des Plans, et son contrôle inverse rend la voie à 151 m, la bonne. L'exploitation est immatriculée sous le patronyme du maraîcher ; le nom publié est celui de l'enseigne, que porte aussi l'adresse déclarée par une pépinière voisine. Pilier `environnement` sur un engagement Ecocert actif depuis décembre 2011. Le site est mutualisé avec deux autres activités du même lieu, une pépinière et un loueur de vélos : seules les pages du potager ont servi)
 
-Les 228 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 233 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1015,6 +1048,31 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Garéoult
+
+L'office de tourisme Provence Verte & Verdon publie six fiches « Vins et Terroir » à Garéoult, la
+commune la plus fournie encore absente de la carte. Cinq sont publiées ; il reste une fiche et deux
+observations.
+
+- **Le Domaine de la Bastide des Oliviers** est la sixième, et la seule écartée. Elle est
+  vérifiable sur l'essentiel — dix hectares, société de vente au détail active au 1011 chemin Louis
+  Blériot, point du registre à 50 m du marqueur de l'office — mais deux choses manquent : aucun site
+  web, et surtout **le label bio ne se retrouve pas là où il devrait**. L'office écrit que les terres
+  sont « contrôlées par Ecocert » ; une recherche au registre de l'Agence Bio sur le nom du domaine
+  ne rend rien, et les deux opérateurs homonymes trouvés sur le patronyme de la famille exploitante
+  ne portent pas l'adresse du domaine. Tant que la certification n'est pas rattachée au bon SIRET, la
+  fiche se publierait sans pilier `environnement`, avec des horaires réduits à « sur rendez-vous » et
+  sans site : elle attend une source de première main. Le contact que publie l'office est une adresse
+  électronique nominative, qui ne sera jamais inscrite.
+- **Le marché de Garéoult** n'a pas été instruit comme fiche propre, bien qu'il soit cité par
+  l'éleveur de brebis comme un de ses points de vente du mardi et du samedi : aucune source communale
+  n'en donne les horaires ni le nombre d'exposants, règle 16. C'est un manque à combler, le marché
+  de Garéoult étant présenté ailleurs dans ce dépôt comme l'un des plus gros du secteur.
+- **La numérotation du chemin André Malraux** a servi à écrire la règle 37 : deux fiches publiées y
+  sont voisines, le Domaine de Garbelle au 1835 et l'élevage de brebis au 1871, soit **35 mètres**
+  d'écart sur la carte. Ce n'est pas un doublon, c'est la réalité du terrain — deux exploitations
+  mitoyennes sur la même voie.
 
 ### Pistes non publiées à Pourrières
 

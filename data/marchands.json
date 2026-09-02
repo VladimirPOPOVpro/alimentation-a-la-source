@@ -5901,5 +5901,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Vitori+Pourrieres",
     "image_url": "/images/marchands/domaine-vitori.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "cave-des-vignerons-de-la-provence-verte",
+    "nom": "Cave des Vignerons de la Provence Verte",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.330302,
+    "lon": 6.046614,
+    "adresse": "9 boulevard Louis Brémond, 83136 Garéoult",
+    "horaires": "Du lundi au samedi de 9h à 12h30 et de 14h30 à 19h ; le mardi et le samedi, le magasin reste ouvert jusqu'à 13h le matin. Fermé le dimanche.",
+    "produits": [
+      "Vins AOP Coteaux Varois en Provence",
+      "Vins IGP Vin de Pays du Var",
+      "Vente en vrac et en bouteilles",
+      "Paniers garnis et coffrets cadeaux",
+      "Dégustation gratuite sur place"
+    ],
+    "description": "Magasin de vente directe de la coopérative Les Vignerons de la Provence Verte, qui rassemble une soixantaine de viticulteurs sur Brignoles, Bras, Garéoult et Tavernes. La coopérative est certifiée en agriculture biologique au registre de l'Agence Bio depuis janvier 2008 et annonce une gamme labellisée HVE et bio ; le magasin occupe une vitrine du centre du village.",
+    "telephone": "04 94 04 92 09",
+    "site_web": "https://www.vigneronsprovenceverte.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vignerons+de+la+Provence+Verte+Gareoult",
+    "image_url": "/images/marchands/cave-des-vignerons-de-la-provence-verte.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-des-chaberts",
+    "nom": "Château des Chaberts",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.334099,
+    "lon": 6.031798,
+    "adresse": "Quartier Les Chaberts, 83136 Garéoult",
+    "horaires": "Toute l'année, sept jours sur sept, dimanche inclus, de 9h à 18h. Uniquement sur rendez-vous.",
+    "produits": [
+      "Vins rosés, rouges et blancs AOP Coteaux Varois en Provence",
+      "Cuvée Prestige",
+      "Huile d'olive",
+      "Bouteilles personnalisables"
+    ],
+    "description": "Vieille propriété de 250 hectares dont 30 en vignes, au pied du massif de la Loube, où le vignoble enserre la bastide et les bâtiments d'exploitation sur un sol argilo-calcaire exposé plein sud à 364 mètres d'altitude. L'exploitation est certifiée en agriculture biologique par Ecocert, et des vestiges gallo-romains subsistent sur le domaine.",
+    "telephone": "04 94 04 92 05",
+    "site_web": "https://www.chaberts.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+des+Chaberts+Gareoult",
+    "image_url": "/images/marchands/chateau-des-chaberts.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-garbelle",
+    "nom": "Domaine de Garbelle",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.35577,
+    "lon": 6.053575,
+    "adresse": "1835 chemin André Malraux, 83136 Garéoult",
+    "horaires": "Toute l'année, uniquement sur rendez-vous.",
+    "produits": [
+      "Vins rouges, rosés et blancs AOP Coteaux Varois en Provence",
+      "Vins IGP Var",
+      "Huile d'olive extra vierge biologique",
+      "Miel toutes fleurs et miel de lavande"
+    ],
+    "description": "Domaine familial de dix hectares à trois kilomètres du village, vendangé à la main et certifié en agriculture biologique par Ecocert depuis mars 2011, puis conduit en biodynamie depuis 2018. Deux parcelles d'oliviers centenaires réhabilitées donnent une huile d'olive extra vierge bio, et les ruches du domaine, qui transhument vers les champs de lavande, un miel toutes fleurs.",
+    "telephone": "06 08 63 91 00",
+    "site_web": "https://www.domaine-de-garbelle.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Garbelle+Gareoult",
+    "image_url": "/images/marchands/domaine-de-garbelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "elevage-franck-tilotta",
+    "nom": "Élevage Franck Tilotta",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.356087,
+    "lon": 6.053604,
+    "adresse": "1871 chemin André Malraux, 83136 Garéoult",
+    "horaires": "Du 1er octobre au 10 juin, les mardis, jeudis et samedis de 16h à 18h. L'été, les brebis partent en estive et la production s'arrête.",
+    "produits": [
+      "Fromages fermiers de brebis",
+      "Brousse du Var (caillé doux)",
+      "Yaourts de brebis"
+    ],
+    "description": "Élevage de brebis laitières de race corse conduit en système pastoral dans les collines de Garéoult, où le troupeau sort tous les jours ; les fromages, yaourts et brousses sont fabriqués à la ferme en agriculture biologique. La vente se fait aussi sur les marchés de Garéoult le mardi et le samedi, au magasin de producteurs Terres d'Hyères, à l'AMAP de La Roquebrussanne et dans les Biocoop de Solliès-Pont et Carnoules.",
+    "telephone": "07 82 41 61 84",
+    "site_web": "https://www.acheteralasource.com/producteur/168758",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elevage+Franck+Tilotta+Gareoult",
+    "image_url": "/images/marchands/elevage-franck-tilotta.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-potager-du-cabanon",
+    "nom": "Le Potager du Cabanon",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.320557,
+    "lon": 6.03689,
+    "adresse": "Chemin des Plans, 83136 Garéoult",
+    "horaires": "Du 1er mai au 30 septembre : le lundi, le mercredi et le vendredi de 16h à 19h, plus le samedi de 9h à 12h en juillet et août. À l'automne et en hiver, le producteur annonce le lundi, le mercredi et le vendredi de 16h à 19h, quand l'office de tourisme n'annonce que le mercredi et le vendredi. Les paniers commandés se retirent le mercredi et le vendredi de 16h à 19h.",
+    "produits": [
+      "Paniers de légumes bio sans abonnement",
+      "Légumes de saison",
+      "Figues, pommes et poires",
+      "Abricots et raisin de table",
+      "Amandes",
+      "Plants potagers"
+    ],
+    "description": "Maraîchage et verger biologiques certifiés Ecocert depuis décembre 2011, en vente directe à la ferme. Les paniers, préparés ou à composer sur place, se commandent la veille avant 16h et sans abonnement ; la liste des fruits et légumes disponibles est publiée chaque semaine.",
+    "telephone": "06 12 51 72 36",
+    "site_web": "https://www.bio83.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Potager+du+Cabanon+Gareoult",
+    "image_url": "/images/marchands/le-potager-du-cabanon.jpg",
+    "a_confirmer": true
   }
 ]
