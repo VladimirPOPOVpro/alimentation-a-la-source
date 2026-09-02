@@ -7340,5 +7340,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+du+Bois+des+Anses+Nantes",
     "image_url": "/images/marchands/ferme-du-bois-des-anses.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-notre-dame-versailles",
+    "nom": "Marché Notre-Dame",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.806686,
+    "lon": 2.132066,
+    "adresse": "Halles et carrés, place du Marché Notre-Dame, 78000 Versailles",
+    "horaires": "Halles Notre-Dame (marché couvert) : du mardi au samedi de 7h à 13h30 et de 15h à 19h30, le dimanche de 7h à 14h, fermé le lundi. Carrés Notre-Dame (marché extérieur) : mardi, vendredi et dimanche de 7h30 à 14h.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Poissons et fruits de mer",
+      "Produits biologiques du Carré Bio",
+      "Spécialités culinaires et plats à emporter"
+    ],
+    "description": "Le marché historique de Versailles, sur l'emplacement voulu par Louis XIII : des halles couvertes ouvertes six jours sur sept et, autour d'elles, les « carrés » de plein air où s'installent producteurs et commerçants trois matinées par semaine. La Ville y a ouvert un Carré Bio en 2016 et signale depuis 2018, par des banderoles, les productions locales, les circuits courts et l'agriculture biologique ou raisonnée. Les mercredis, jeudis et samedis, la place accueille un marché non alimentaire.",
+    "site_web": "https://www.versailles.fr/970/economie-et-commerces/commerces-et-marches/les-marches-versaillais.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Notre-Dame+Versailles",
+    "image_url": "/images/marchands/marche-notre-dame-versailles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-louis-versailles",
+    "nom": "Marché Saint-Louis",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.799072,
+    "lon": 2.124705,
+    "adresse": "Place de la Cathédrale Saint-Louis, 78000 Versailles",
+    "horaires": "Jeudi et samedi de 7h30 à 14h selon la Ville de Versailles, de 7h30 à 13h30 selon l'office de tourisme.",
+    "produits": [
+      "Produits frais des commerçants du marché",
+      "Produits de producteurs biologiques, le samedi matin"
+    ],
+    "description": "Le marché de quartier du Vieux Versailles, sur la place au pied de la cathédrale Saint-Louis, deux matinées par semaine. L'office de tourisme y signale la présence de producteurs biologiques le samedi matin ; ni la Ville ni l'office ne publient la liste des étals.",
+    "site_web": "https://www.versailles.fr/970/economie-et-commerces/commerces-et-marches/les-marches-versaillais.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Louis+Versailles",
+    "image_url": "/images/marchands/marche-saint-louis-versailles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-porchefontaine",
+    "nom": "Marché de Porchefontaine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.79548,
+    "lon": 2.155923,
+    "adresse": "Square Lamôme, 78000 Versailles",
+    "horaires": "Mercredi et samedi de 7h30 à 14h",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le marché du quartier de Porchefontaine, deux matinées par semaine sur le square Lamôme. La Ville de Versailles, seule source à le documenter, publie son adresse et ses horaires mais aucune liste d'étals. C'est l'un des vingt et un rendez-vous hebdomadaires des marchés versaillais, tenus par cent soixante-dix-neuf commerçants abonnés et environ deux cents commerçants volants chaque mois.",
+    "site_web": "https://www.versailles.fr/970/economie-et-commerces/commerces-et-marches/les-marches-versaillais.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Porchefontaine+Versailles",
+    "image_url": "/images/marchands/marche-de-porchefontaine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-jussieu-montreuil",
+    "nom": "Marché de Jussieu-Montreuil",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.809461,
+    "lon": 2.15531,
+    "adresse": "Rue Claude Debussy, 78000 Versailles",
+    "horaires": "Samedi de 7h30 à 14h",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le marché du quartier Bernard-de-Jussieu, une matinée par semaine rue Claude Debussy, à la limite du quartier de Montreuil. Comme à Porchefontaine, la Ville publie l'adresse et l'horaire mais pas la liste des étals.",
+    "site_web": "https://www.versailles.fr/970/economie-et-commerces/commerces-et-marches/les-marches-versaillais.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Jussieu+Versailles",
+    "image_url": "/images/marchands/marche-de-jussieu-montreuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "potager-du-roi-versailles",
+    "nom": "Le Potager du Roi",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.798744,
+    "lon": 2.123691,
+    "adresse": "10 rue du Maréchal Joffre, 78000 Versailles",
+    "horaires": "Marché du Potager, en boutique : d'avril à octobre le samedi de 10h à 13h ; de novembre à mars le mardi de 14h à 18h. Le jardin et la boutique sont ouverts du mardi au dimanche de 10h à 18h d'avril à octobre, et du mardi au vendredi de 10h à 18h de novembre à mars.",
+    "produits": [
+      "Fruits de saison récoltés au Potager",
+      "Légumes de saison",
+      "Herbes aromatiques",
+      "Jus de pommes et de poires",
+      "Confitures et gelées (rhubarbe, prunes Royale de Tours, cassis-groseilles)",
+      "Sirops de fleurs de sureau, de feuilles de figuier et de lavande",
+      "Miel"
+    ],
+    "description": "Le jardin nourricier de neuf hectares réalisé entre 1678 et 1683 à la demande de Louis XIV par Jules Hardouin-Mansart et Jean-Baptiste La Quintinie, et cultivé sans interruption depuis : il appartient aujourd'hui à l'École nationale supérieure de paysage, qui y forme ses paysagistes. La récolte se vend sur place — fruits, légumes et herbes aromatiques ramassés par les jardiniers, et les confitures, gelées, jus et sirops qui en sont tirés. Le site est certifié en agriculture biologique par Ecocert depuis avril 2022.",
+    "site_web": "https://www.ecole-paysage.fr/fr/le-potager-du-roi",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Potager+du+Roi+Versailles",
+    "image_url": "/images/marchands/potager-du-roi-versailles.jpg",
+    "a_confirmer": true
   }
 ]

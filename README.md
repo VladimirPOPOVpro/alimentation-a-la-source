@@ -612,9 +612,27 @@ prioritaires en cas de conflit.
    producteur ne retranche rien, et une source tierce qui n'est pas le producteur lui-même — un
    annuaire, un office de tourisme — reste soumise à la règle 5.
 
+54. **Un espace biologique nommé à l'intérieur d'un marché n'est pas une classification du
+   marché.** Les règles 45 et 49 accordent le pilier `environnement` à un marché que l'autorité
+   gestionnaire **classe** comme biologique. Versailles pose le cas limite : la Ville ne classe
+   aucun de ses marchés ainsi, mais elle nomme sur sa page de référence un **« Carré Bio »**,
+   ouvert en 2016 au sein du marché Notre-Dame, et écrit que « depuis 2018 sur tous les carrés,
+   des banderoles identifient les productions locales, les circuits courts, l'agriculture bio et
+   raisonnée ». Deux faits administratifs, donc, mais aucun des deux ne classe le marché.
+   Tranché ainsi : **le pilier se pose sur le périmètre que la classification couvre réellement,
+   et rien de plus**. Un carré nommé à l'intérieur d'un marché ne qualifie pas le marché entier ;
+   un dispositif de signalétique qui *identifie* des productions n'en *impose* aucune, et il perd
+   toute sélectivité lorsqu'il range « bio » et « raisonné » sous la même banderole — or la
+   règle 15 dit depuis longtemps que « raisonné » n'est pas une certification. Les quatre marchés
+   de Versailles sont donc publiés sans `environnement`. Ce que la règle débloque : **si une ville
+   érige son espace biologique en équipement distinct** — une adresse, des horaires et un intitulé
+   propres, comme le fait Boulogne-Billancourt avec son « Marché biologique » — cet espace devient
+   une fiche à part entière et porte le pilier au titre de la règle 49. Le critère est là :
+   `environnement` suit le périmètre nommé par l'autorité, jamais un périmètre plus large.
+
 ## Marchands à confirmer
 
-249 fiches sur 283 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+254 fiches sur 288 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -865,8 +883,13 @@ prioritaires en cas de conflit.
 - **Marché de la Caserne Mellinet** (**horaires contredits entre deux pages de la même collectivité** : le tableau de `moncommerce.nantesmetropole.fr` range ce marché dans une bande générique « Les marchés alimentaires du soir – 16h/20h », tandis que la fiche d'équipement de `metropole.nantes.fr`, la page « Les marchés incontournables » et les associations organisatrices écrivent toutes trois « le jeudi soir de 17h à 20h ». C'est 17h qui est publié : une bande horaire commune à sept marchés n'est pas un horaire, c'est une catégorie, et la règle 44 fait primer la page de référence de l'équipement. Le détail des étals vient de l'article des Bouillonnantes, qui distingue ce qui est là toutes les semaines — légumes, pains, fromages — de ce qui tourne en alternance. **Deuxième fiche publiée au titre de la règle 50** : la Base Adresse Nationale ignore « Place du 51ème Régiment d'Artillerie » écrite en toutes lettres, mais connaît la « Place du 51ième RA » abrégée, dont le contrôle inverse tombe à **17 m** des coordonnées de la page d'équipement. L'adresse publiée garde la forme développée, qui est celle de la Ville. Pilier `environnement` sur un engagement écrit, règle 45 : les organisatrices écrivent « engagés pour une agriculture paysanne et une alimentation durable » et publient les engagements demandés aux producteurs. Photo : les choux et les blettes d'un étal du marché, photographiés par la Ville, **recadrés sous la ligne des visages**, règle 46)
 - **Marché du Champ de Mars** (la Ville écrit que le marché « a été porté par l'association "À vos paniers, citoyens" » — au passé — et une recherche au registre des entreprises sur ce nom, département 44, ne rend **aucun** résultat : l'association n'est pas nommée comme organisatrice actuelle dans la fiche, seulement comme origine du projet. Aucune source ne publie la liste des étals : `produits` ne porte donc que « Produits alimentaires biologiques et locaux », l'intitulé que la Ville emploie, et la description le dit — même traitement qu'au marché de la Plaine à Saint-Denis. Pilier `environnement` sur cette même phrase de la Ville, qui est une caractérisation du marché et non une intention d'association. Le point vient des coordonnées de la page d'équipement, à 35 m du centre de la rue Émile Masson que rend la Base Adresse Nationale. Photo : les brocolis, salades et choux d'un étal, photographiés par la Ville, **recadrés sous la ligne des visages**, règle 46)
 - **Ferme du Bois des Anses** (**première fiche publiée au titre de la règle 53** : le site de la ferme n'annonce que « légumes et aromates bio », sa déclaration au jeu de données « producteurs en vente directe » de Nantes Métropole ajoute fruits, œufs, pain, boissons sans alcool et sorbets — l'union est publiée et la description nomme la source de chaque moitié. L'exploitation est immatriculée sous le patronyme de son exploitante, avec « FERME DU BOIS DES ANSES » en enseigne déclarée : c'est l'enseigne qui est publiée, jamais le patronyme, que le jeu de données de la métropole donne pourtant en clair dans son champ `nom_entreprise`. **La Base Adresse Nationale ne connaît pas le chemin du Bois des Anses**, ni par recherche directe ni par contrôle inverse : le point publié est celui du jeu de données de la métropole, à **95 m** du point que le registre des entreprises donne au siège de l'exploitation — deux sources officielles indépendantes qui s'accordent, et l'adresse la plus proche que la Base Adresse Nationale sache nommer est à 164 m, rue de la Papotière. Code postal contredit : le registre écrit 44000, le jeu de données de la métropole 44300, et le contrôle inverse rend 44300 sur les adresses voisines — c'est 44300 qui est publié. Aucun téléphone : le seul numéro publié par la ferme est un portable personnel, que MODERATION.md interdit, et son courriel non plus n'est pas repris. Photo : l'étal de la ferme sous son arbre, découpé de l'affiche de la ferme elle-même — aucune personne dans le cadre, et les deux autres tiers de l'affiche, qui portent le nom, le téléphone et le courriel de l'exploitante, sont écartés)
+- **Marché Notre-Dame** (le seul des cinq que deux sources indépendantes documentent en détail, et elles s'accordent au mot près sur les horaires : la fiche de la Ville et celle de l'office de tourisme donnent les mêmes plages pour les halles et pour les carrés. Leurs points aussi, à **8 m** l'un de l'autre — le plus court écart rencontré jusqu'ici entre une collectivité et son office. Pas de pilier `environnement` malgré le Carré Bio : voir la règle 54. `produits` ne reprend que les cinq familles alimentaires que les deux sources nomment et laisse de côté le marché non alimentaire des mercredis, jeudis et samedis, que MODERATION.md écarte. Le « plus beau marché d'Île-de-France » est une distinction que l'office rapporte sans en nommer le jury : elle est attribuée dans la description, pas affirmée. Le téléphone de la page, 01 30 97 80 00, est le standard de la mairie, présent dans l'en-tête de toutes les pages du site : il n'est pas publié comme numéro du marché. La Base Adresse Nationale ne connaît pas la place du Marché Notre-Dame ; elle connaît en revanche quatre voies nommées « Carré » — à la Fontaine, à la Terre, au Puits, à l'Avoine — qui sont les allées du marché extérieur. Photo : la vue d'ensemble des carrés et des halles, prise pour l'office, silhouettes lointaines et non identifiables)
+- **Marché Saint-Louis** (**horaires contredits** : la Ville écrit « jeudi et samedi de 7h30 à 14h », l'office de tourisme « jeudi et samedi de 7h30 à 13h30 ». Les deux sont plausibles et aucune n'est datée : les deux sont publiées et attribuées, règle 5. Points à 32 m l'un de l'autre. La Base Adresse Nationale ignore « place de la Cathédrale Saint-Louis » mais connaît une « Place Saint Louis », dont le n° 1 tombe à 24 m du point de la Ville : l'adresse publiée reste celle de la Ville, qui est celle du marché. `produits` ne porte que deux lignes, faute de liste d'étals — la seule précision disponible est celle de l'office, « la présence de producteurs bio le samedi matin », qui reste un adjectif dans une description et ne fonde pas le pilier `environnement`, règles 49 et 54. La fiche est à **83 m du Potager du Roi** : les deux points sont exacts, ce sont des voisins réels, la place de la cathédrale touchant l'entrée du jardin. Photo : la place, la cathédrale et les étals, prise pour l'office — les visages y sont déjà floutés à la source)
+- **Marché de Porchefontaine** (la Ville est la seule source : ni l'office de tourisme, qui ne fiche que Notre-Dame et Saint-Louis, ni le registre de l'Agence Bio ne le mentionnent. `produits` ne porte donc que « Produits alimentaires », comme au marché de la Plaine à Saint-Denis, et la description le dit. « Square Lamôme » est inconnu de la Base Adresse Nationale, qui renvoie sur cette requête une voie du marché Notre-Dame — le contrôle inverse du point de la Ville rend le 17 rue Coste à **23 m**, ce qui confirme le point sans donner de meilleure adresse : c'est celle de la Ville qui est publiée. Photo thématique de la même commune au titre de la règle 1 : l'étal de poireaux, choux et radis d'un marché versaillais, photographié pour l'office, **recadré sous la ligne des visages** — ce n'est pas le marché de Porchefontaine et la présente note est là pour le dire)
+- **Marché de Jussieu-Montreuil** (même situation qu'à Porchefontaine, source unique et `produits` réduit d'autant. Le nom flotte d'une page à l'autre de la Ville : « marché de Jussieu-Montreuil » sur la liste des marchés, « Bernard de Jussieu » dans le texte de la page commerces, et le conseil de quartier s'appelle « Bernard-de-Jussieu — Petits-Bois — Picardie ». C'est le nom de la liste des marchés qui est publié, règle 44, et la description nomme le quartier. Le point de la Ville tombe à 15 m du 8 allée Emmanuel-Chabrier et à 33 m du 10 rue Claude-Debussy : l'adresse publiée est la rue Claude-Debussy, celle que la Ville donne. Photo thématique de la même commune, règle 1 : les étals de fruits du marché Notre-Dame, photographiés pour l'office, **recadrés sous la ligne des visages**)
+- **Le Potager du Roi** (le jardin de Louis XIV est aujourd'hui une exploitation certifiée : le registre de l'Agence Bio porte, au SIRET de l'École nationale supérieure de paysage, un engagement Ecocert **actif depuis le 20 avril 2022** et une cinquantaine de productions en AB — asperges, raisin de table, figues, pommes, poires, coings, abricots, cerises, pêches, prunes, framboises, fraises, cassis, groseilles, noisettes, thym, romarin, sauge, lavande, verveine, rhubarbe. Le pilier `environnement` vient de ce certificat, règle 15, sans passer par les règles 45 ou 49 : ici l'exploitant est unique et nommé. `produits` croise ce registre avec les pages produits du site de l'école, qui portent chacune la mention « Disponible en boutique » — jus, confitures, gelées, sirops, miel. Les prix qu'elles publient ne sont pas repris. **Deux régimes d'horaires à ne pas confondre**, et la fiche les distingue : le jardin et la boutique ouvrent du mardi au dimanche d'avril à octobre, du mardi au vendredi de novembre à mars, tandis que le « marché du Potager », la vente de la récolte, ne se tient que le samedi de 10h à 13h d'avril à octobre et le mardi de 14h à 18h de novembre à mars. Numéro de voirie du 10 rue du Maréchal-Joffre à 0,973, à 22 m du point du registre des entreprises : premier échelon de la règle 10. Aucun téléphone : le site de l'école n'en publie aucun sur ses pages Potager, et le standard de l'école n'est pas un numéro de boutique. Photo : le jardin en production, les carrés et les fruitiers palissés avec la cathédrale Saint-Louis derrière, prise pour l'école — **recadrée à gauche des trois visiteuses** dont les profils étaient reconnaissables au zoom)
 
-Les 283 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 288 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -894,6 +917,71 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Versailles
+
+Neuvième passe en ville. Département visé : les **Yvelines (78)**, déficit **6,10**
+fiches au sens de la règle 41, le plus élevé de France avec 283 fiches publiées —
+devant la Haute-Garonne (6,04), la Seine-et-Marne (6,03), le Pas-de-Calais (5,98)
+et le Val-de-Marne (5,86). Le 78 est en **région 11**, la passe précédente visait
+la région 52 : la réserve de la règle 41.c est respectée. Commune la plus peuplée
+du département sans aucune fiche : **Versailles, 84 095 habitants**. Elle a rendu
+ses cinq points sans descente d'échelle.
+
+**La Ville de Versailles publie ses coordonnées GPS en clair**, comme Nantes, mais
+autrement : chez Nantes elles étaient dans un objet JSON du code de chaque fiche
+d'équipement, ici elles sont **dans le texte même de la page**, une ligne
+`48.80668628445288,2.1320664899504327` juste avant le nom de chaque marché sur
+`/970/economie-et-commerces/commerces-et-marches/les-marches-versaillais.htm`.
+Les cinq marchés de la ville y sont listés avec adresse, jours et horaires. Le
+sitemap du site est un index TYPO3 découpé en une cinquantaine de sous-sitemaps
+(`?sitemap=pages`, `?sitemap=actualites_commerces`…), et `robots.txt` répond 410 :
+c'est le sitemap qu'il faut attaquer, pas le fichier robots.
+
+**Écarté : le marché aux fleurs**, terre-plein de l'avenue de Saint-Cloud, mardi,
+vendredi, samedi de 6h à 20h et dimanche de 6h à 14h. C'est le cinquième marché de
+la liste de la Ville, et le seul entièrement non alimentaire : MODERATION.md
+l'écarte. Le marché non alimentaire du mercredi, du jeudi et du samedi place
+Notre-Dame est écarté pour la même raison, mais il est cité dans la fiche du
+marché Notre-Dame parce qu'il occupe la même place les jours où le marché
+alimentaire n'y est pas.
+
+**Le registre de l'Agence Bio ne sert à rien à Versailles.** Sur 812 opérateurs
+dans les Yvelines, **63 sont domiciliés à Versailles** et ce sont, à une exception
+près, des enseignes que MODERATION.md écarte : Monoprix, Carrefour City ×6,
+Franprix ×4, Leader Price, Bio c' Bon, une Biocoop, des boulangeries, des
+torréfacteurs, des marques de thé et même une société de cosmétiques. L'exception
+est le **Potager du Roi**, immatriculé au registre sous « École nationale
+supérieure de paysage » — un nom sous lequel personne ne cherche un producteur.
+Quatre autres opérateurs sont des étals du marché Notre-Dame (« Au Petit Marché »
+au Carré à la Farine, « Garry-Guette » au Carré aux Herbes, « Les Viandes Bio de
+Versailles » et la boucherie Lombert place du Marché Notre-Dame) : ils confirment
+l'existence du Carré Bio mais restent des commerçants d'un marché, décrits dans sa
+fiche et non fichés séparément, règle 16.
+
+**Restent à instruire à Versailles, pour une passe suivante :**
+
+- **Les quatre AMAP de Versailles**, toutes trouvées dans l'annuaire du réseau AMAP
+  d'Île-de-France (recherche par département : `POST` sur
+  `amap-idf.org/l-amap-c-est-quoi/trouver-une-amap-en-idf` avec
+  `recherche=amap&departement=78`) : **Clagny** (36 rue Louis-Haussmann, mercredi
+  19h-20h), **Saint-Louis** (La Rotonde, 5 rue Royale, mardi 19h-20h),
+  **Montreuil** et **Vauban** (maison de quartier Versailles-Vauban, 76 rue Champ
+  Lagarde, mercredi 19h-20h). Les trois premières partagent un site commun,
+  `amapversailles.fr`, ouvert et à jour, qui écrit : « Les AMAP de Versailles ont
+  fait le choix du BIO pour tous les produits qui peuvent être certifiés. Nos
+  paysans n'utilisent aucun engrais ou pesticide chimique. » C'est l'obligation
+  écrite que la règle 45 demande, et le groupe de cinq d'une prochaine passe
+  versaillaise est déjà là. **L'annuaire publie les noms, les courriels et les
+  numéros de portable des adhérents-relais : rien de tout cela ne sera repris**,
+  comme à Boulogne-Billancourt et à Issy-les-Moulineaux.
+- **Le Carré Bio du marché Notre-Dame**, si la Ville venait à en faire un
+  équipement distinct avec ses propres horaires : voir la règle 54.
+- **Les autres communes du 78**, toutes sans fiche : Sartrouville (52 763 hab.),
+  Saint-Germain-en-Laye (45 931), Mantes-la-Jolie (43 526), Poissy (40 983),
+  Conflans-Sainte-Honorine (36 958). Le déficit du département retombe à **1,20**
+  après cette passe : la règle 41 renverra ailleurs d'abord, mais ces communes
+  reviendront.
 
 ### Pistes non publiées à Nantes
 
