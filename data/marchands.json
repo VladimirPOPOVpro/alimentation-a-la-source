@@ -6805,5 +6805,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+de+Vaise+place+Valmy+Lyon",
     "image_url": "/images/marchands/marche-biologique-vaise.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-saint-denis",
+    "nom": "Marché du centre-ville de Saint-Denis",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.936575,
+    "lon": 2.357552,
+    "adresse": "Halle du marché et son pourtour, place Jean-Jaurès, 93200 Saint-Denis",
+    "horaires": "Halle : mardi de 8h à 14h, vendredi et dimanche de 8h à 15h ; pourtour de la halle : mardi de 8h à 13h30, vendredi et dimanche de 8h à 14h30",
+    "produits": [
+      "Fruits et légumes exotiques (manioc, bananes plantain, gombos, patates douces)",
+      "Épices et herbes aromatiques",
+      "Viandes et poissons frais",
+      "Produits antillais, asiatiques et africains",
+      "Fromages fermiers",
+      "Pains artisanaux",
+      "Produits biologiques"
+    ],
+    "description": "Trois cents commerçants et l'un des plus grands marchés d'Île-de-France, à deux pas de la basilique. L'alimentaire se concentre sous la halle de 1893, une charpente métallique d'inspiration Baltard restaurée en 2008, et sur son pourtour ; les étals de la place du 8-Mai-1945 voisine relèvent surtout du textile et de l'équipement de la maison.",
+    "site_web": "https://www.saintdenis.fr/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle+du+marché+Saint-Denis",
+    "image_url": "/images/marchands/marche-du-centre-ville-saint-denis.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-plaine-saint-denis",
+    "nom": "Marché de la Plaine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.908995,
+    "lon": 2.363352,
+    "adresse": "28 avenue de la Métallurgie, 93210 Saint-Denis",
+    "horaires": "Samedi de 8h à 13h",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le petit marché du quartier de La Plaine, une dizaine de commerçants le samedi matin avenue de la Métallurgie. Métro Front Populaire, ligne 12. La Ville ne publie pas la liste des étals.",
+    "site_web": "https://www.saintdenis.fr/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+la+Plaine+Saint-Denis",
+    "image_url": "/images/marchands/marche-de-la-plaine-saint-denis.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-pierrefitte-sur-seine",
+    "nom": "Marché de Pierrefitte-sur-Seine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.965965,
+    "lon": 2.360028,
+    "adresse": "Place de l'Église (place Jean-Jaurès), 93380 Pierrefitte-sur-Seine",
+    "horaires": "Mardi et samedi de 9h à 13h ; marché des saveurs le premier samedi de chaque mois",
+    "produits": [
+      "Produits alimentaires",
+      "Produits artisanaux"
+    ],
+    "description": "Le marché de la commune déléguée de Pierrefitte-sur-Seine, deux matinées par semaine sur la place de l'église. Le premier samedi du mois, un marché des saveurs met en avant les commerces de proximité et les savoir-faire locaux.",
+    "site_web": "https://www.saintdenis.fr/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Pierrefitte-sur-Seine",
+    "image_url": "/images/marchands/marche-de-pierrefitte-sur-seine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-marche-ferme-ouverte-saint-denis",
+    "nom": "Le Marché de la Ferme Ouverte",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.947388,
+    "lon": 2.374771,
+    "adresse": "114 avenue de Stalingrad, 93200 Saint-Denis",
+    "horaires": "Mercredi, samedi et dimanche de 10h à 18h sans interruption",
+    "produits": [
+      "Fruits et légumes cultivés à la ferme",
+      "Pommes et poires de maraîchers partenaires",
+      "Pommes de terre, oignons et échalions",
+      "Jus de pommes et de poires des vergers",
+      "Miel du rucher",
+      "Œufs frais",
+      "Farines",
+      "Confitures"
+    ],
+    "description": "La boutique de la ferme urbaine installée sur deux hectares et demi, les terres du dernier maraîcher de Saint-Denis. Ce qui pousse sur place est vendu sur place ; le reste vient de maraîchers du Val-d'Oise et de la Plaine de Versailles. La ferme se visite librement, chèvres, moutons et poules compris. Pas de parking sur place : métro Saint-Denis-Université, ligne 13.",
+    "telephone": "01 84 03 98 95",
+    "site_web": "https://www.lesfermesdegally.com/la-ferme-urbaine-saint-denis/le-marche-saint-denis",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+Ouverte+Saint-Denis+114+avenue+de+Stalingrad",
+    "image_url": "/images/marchands/le-marche-ferme-ouverte-saint-denis.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-bio-inclusive-territoires",
+    "nom": "La Ferme BIO Inclusive — association Territoires",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.946576,
+    "lon": 2.37186,
+    "adresse": "100-102 rue Henri Barbusse, 93200 Saint-Denis",
+    "horaires": "Retrait des commandes le jeudi de 8h30 à 12h ; commande par téléphone ou par courriel du lundi au mercredi. Vente réservée aux abonnés de la ferme.",
+    "produits": [
+      "Tomates",
+      "Courgettes",
+      "Aubergines",
+      "Poireaux",
+      "Carottes",
+      "Fraises",
+      "Pommes de terre",
+      "Salades"
+    ],
+    "description": "Une ferme maraîchère certifiée Agriculture biologique par Ecocert, au cœur de la zone des Tartres, portée par une association d'insertion dionysienne. Les légumes sont récoltés et vendus sur place, mais seulement aux abonnés : la commande se passe en début de semaine et se retire le jeudi matin.",
+    "telephone": "01 48 26 49 86",
+    "site_web": "https://www.assoterritoires.com/la-ferme-bio-inclusive-de-lassociation-territoires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+bio+association+Territoires+Saint-Denis",
+    "image_url": "/images/marchands/ferme-bio-inclusive-territoires.jpg",
+    "a_confirmer": true
   }
 ]

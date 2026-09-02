@@ -544,10 +544,25 @@ prioritaires en cas de conflit.
    un paragraphe ne trie rien. L'obligation de certificat reste un renfort quand elle est
    publiée ; elle n'est plus une condition. Cette règle affine la 45, elle ne l'annule pas : sans
    classification administrative, il faut toujours l'obligation écrite.
+50. **Un odonyme que la Base Adresse Nationale ignore se résout par le croisement, pas par la
+   dégradation.** La Ville de Saint-Denis place le marché de Pierrefitte « place de l'Église » ;
+   la Base Adresse Nationale ne connaît aucune place de ce nom dans le 93380 et ne propose qu'une
+   « Ruelle de l'Église » à 0,598. La règle 10 aurait fait descendre l'échelle jusqu'au centre de
+   cette ruelle, un point que rien d'autre ne corrobore. Or l'office de tourisme de Plaine
+   Commune situe le même marché « place Jean-Jaurès », que la Base Adresse Nationale connaît à
+   0,971, à **115 m** de la ruelle. Tranché ainsi : **quand l'odonyme de l'autorité est inconnu
+   de la Base Adresse Nationale mais qu'une autre source nomme un second odonyme pour le même
+   équipement, on publie le point que la Base Adresse Nationale connaît le mieux, et l'adresse
+   porte les deux noms.** Deux conditions, nécessaires ensemble : que les deux sources décrivent
+   bien **le même équipement** — même commune, même marché, même fonction — et que les deux
+   points candidats soient distants de **moins de 150 m**, l'ordre de grandeur d'un îlot urbain,
+   en deçà duquel l'écart ne coûte rien à qui se déplace. Au-delà, la règle 10 reprend et l'écart
+   se consigne. Cette règle passe avant la descente d'échelle de la règle 10 : un point corroboré
+   à l'adresse près vaut mieux qu'un centre de voie deviné.
 
 ## Marchands à confirmer
 
-229 fiches sur 263 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+234 fiches sur 268 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -778,8 +793,13 @@ prioritaires en cas de conflit.
 - **Marché biologique place Ambroise-Courtois** (le seul des cinq que la Ville range dans « Marchés de l'après-midi » tout en le classant biologique, et le mieux documenté : vingt commerçants, neuf familles de produits, « poisson, viande, fromages, épicerie, miel, vin ». Horaires contredits entre l'office de tourisme, qui écrit 15h-20h, et la Ville, qui écrit 14h-20h : le jeu de données de la Métropole donne lui aussi 14h-20h, ce qui départage à deux contre un en faveur de la Ville. Contrôle de la Base Adresse Nationale à 56 m. Photo thématique de la même commune, règle 1 : un étal de légumes du marché fermier de la place Carnot, devant la fresque peinte qui lui sert de fond)
 - **Marché biologique place Henri** (le plus petit des cinq, trois commerçants de fruits et légumes, et la fiche la plus maigre de la passe : un seul produit dans `produits`, faute de source qui en dise davantage. Horaires contredits d'une heure — 6h sur la fiche de la Ville et à l'office de tourisme, 7h dans le jeu de données de la Métropole : c'est 6h qui est publié, deux sources contre une, règle 44. Nombre d'étals contredit aussi, deux à l'office contre trois à la Ville : celui de la Ville est publié. Contrôle de la Base Adresse Nationale à 13 m. Photo thématique de la même commune, règle 1 : la balance de légumes que la Ville de Lyon publie elle-même en tête de son actualité sur les marchés, sans visage)
 - **Marché biologique de Vaise** (l'adresse est un cas d'école : la Ville n'écrit pas un numéro mais une emprise, « entre la rue du Bourbonnais et la place Valmy », précisée par « au droit des n° 2 et 4 de la rue Sergent-Michel-Berthet et des n° 1 et 3 de la rue des Tanneurs » — les deux formes sont publiées telles quelles. La fiche de l'office de tourisme, mise à jour pour la dernière fois en **mars 2018**, annonce six commerçants et un marché qui finit à 12h30 ; la fiche de la Ville en annonce trois et 13h : ce sont les valeurs de la Ville qui sont publiées, la source la plus récente et la plus proche, règle 44. Le jeu de données de la Métropole confirme le mardi 6h-13h. Contrôle de la Base Adresse Nationale à 42 m. Photo thématique de la même commune, règle 1 : des cageots de légumes du marché fermier de la place Carnot)
+- **Marché du centre-ville de Saint-Denis** (la halle et son pourtour dans une seule fiche : mêmes jours, même point, la règle 42 les réunit. La Ville donne les horaires emplacement par emplacement, ce qui est repris tel quel. Les produits ne viennent pas de la Ville, qui n'en publie aucun, mais de la page éditoriale de l'office de tourisme de Plaine Commune, qui détaille l'offre alimentaire du marché — c'est la seule source qui la nomme. Centre de voie de la place Jean-Jaurès à 0,970. Photo : la vue d'ensemble de la halle et de ses étals que la Ville publie elle-même en tête de son appel à candidatures, visages trop lointains pour être reconnaissables)
+- **Marché de la Plaine** (deuxième fiche de ce nom sur la carte, d'où le slug `marche-de-la-plaine-saint-denis` : l'autre est à Marseille. La Ville et l'office de tourisme concordent sur le samedi 8h-13h et sur l'avenue de la Métallurgie ; ni l'un ni l'autre ne nomme un seul étal, et `produits` ne porte donc que « Produits alimentaires ». Le champ le dit, la description aussi. Numéro de voirie à 0,972 — c'est le seul des trois marchés de la commune dont l'adresse porte un numéro. Photo : l'étal de poireaux, carottes et choux-fleurs que l'office de tourisme publie sur la fiche de ce marché, **recadré sous sa bande supérieure** au titre de la règle 46, une commerçante y figurait)
+- **Marché de Pierrefitte-sur-Seine** (**première fiche publiée au titre de la règle 50** : la Ville écrit « place de l'Église », que la Base Adresse Nationale ignore, l'office de tourisme écrit « place Jean-Jaurès », qu'elle connaît à 0,971 et qui tombe à 115 m de la seule « Ruelle de l'Église » du code postal. L'adresse publiée porte les deux noms. Les horaires se contredisent aussi : mardi et samedi de 9h à 13h chez la Ville, samedi de 8h30 à 12h à l'office — mais la fiche de l'office n'a plus été touchée depuis le **30 janvier 2019**, avant la commune nouvelle, et ce sont les horaires de la Ville qui sont publiés, règle 44. Aucun étal n'est nommé : `produits` s'en tient à ce que l'office écrit, « produits alimentaires et artisanaux ». Photo : l'étal de bananes plantain et de patates douces que l'office publie sur la fiche de ce marché, un buste sans visage)
+- **Le Marché de la Ferme Ouverte** (la ferme urbaine du 114 avenue de Stalingrad, immatriculée au registre sous NAF 01.13Z, culture de légumes, établissement ouvert. Deux hectares et demi, et l'office de tourisme comme l'exploitant écrivent que ce qui pousse sur place est vendu dans la boutique. Trois sources, trois horaires différents : la boutique annonce « mercredi, samedi et dimanche de 10h à 18h », l'office de tourisme « fermé le lundi et le mardi, de 10h à 13h et de 14h à 18h », et la page de la Ville « en fin d'après-midi, les week-ends et pendant les vacances scolaires ». Ce sont les horaires de la boutique elle-même qui sont publiés, règle 44 — mais l'écart est assez large pour justifier `a_confirmer`. Numéro de voirie à 0,976. L'exploitation porte au registre le patronyme du dernier maraîcher de la commune ; c'est l'enseigne qui est publiée, et le patronyme n'apparaît nulle part, MODERATION.md)
+- **La Ferme BIO Inclusive — association Territoires** (le registre national de l'Agence Bio range cette association en **Production**, certifiée AB par Ecocert FR-BIO-01 pour l'année de contrôle 2026, avec deux adresses distinctes : le siège du 4 rue Denfert-Rochereau et un second point marqué « Lieux d'activité, Lieux de vente » au 100 rue Henri Barbusse. Le code NAF de l'association, 85.59A, ne dit rien de cette activité : c'est le registre bio qui la documente, et le site de l'association qui la détaille, tarif par tarif. Les coordonnées du registre bio et celles de la Base Adresse Nationale pour le 100 rue Henri Barbusse **coïncident au chiffre près**, ce qui ne s'était encore jamais vu ici. Le fait décisif pour le visiteur est écrit dans les horaires et dans la description : **la vente est réservée aux abonnés**, commande en début de semaine, retrait le jeudi matin. La page de vente date de 2021 et parle de la « campagne 2021 » ; c'est le certificat 2026 du registre qui atteste que la ferme tourne toujours, d'où `a_confirmer`. Photo : les courgettes de la ferme, publiées par l'association sur cette même page)
 
-Les 263 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 268 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -807,6 +827,100 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Saint-Denis
+
+Cinquième passe en ville, et la première sur une **commune nouvelle** : la Base
+Adresse Nationale et l'API géographique ne connaissent plus qu'une commune 93066
+de 149 077 habitants, Pierrefitte-sur-Seine y étant commune déléguée. Les
+adresses en 93380 sont donc étiquetées « Saint-Denis » par la Base Adresse
+Nationale alors que la Ville et l'office de tourisme écrivent toujours
+« Pierrefitte-sur-Seine ». Les fiches publiées gardent l'écriture de la Ville
+dans le champ `adresse` ; le calcul de couverture par département, lui, ne lit
+que le code postal, et 93380 comme 93200 tombent bien dans le 93.
+
+Trois sources de première main, toutes ouvertes une par une :
+
+- **`saintdenis.fr`**, site Drupal de la Ville. Son `/jsonapi` renvoie 404 —
+  contrairement à `lyon.fr`, l'endpoint n'est pas exposé — et son moteur de
+  recherche interne est piloté en JavaScript : `/recherche?search_api_fulltext=`
+  répond « 1596 résultats » quelle que soit la requête. C'est le **sitemap**
+  (699 URL) qui a servi d'index. Deux pages font autorité et se recoupent :
+  `/marches`, qui donne les horaires emplacement par emplacement, et
+  `/demander-place-marches`, qui donne les jours de marché par site.
+- **`pop-plainecommune.com`**, l'office de tourisme de Plaine Commune. Son
+  sitemap est un index de quatre fichiers ; il porte une fiche pour chacun des
+  trois marchés, cinq fiches de fermes urbaines et une page éditoriale sur le
+  marché de Saint-Denis. C'est la seule source qui nomme les produits vendus au
+  marché du centre-ville.
+- **le registre national de l'Agence Bio**, qui a rendu le seul producteur
+  certifié de la commune vendant en direct aux particuliers.
+
+Ce qui n'a pas été publié, et pourquoi :
+
+- **La place du 8-Mai-1945** est le troisième emplacement du marché du
+  centre-ville et le seul à ouvrir le samedi — de 11h à 17h depuis le 26 avril
+  2025 — donc le seul que la fiche de la halle ne couvre pas. Une fiche séparée
+  était prête. Elle n'a pas été publiée parce que les deux sources qui décrivent
+  cet emplacement le disent **non alimentaire** : l'office de tourisme y voit
+  « des centaines d'étalages supplémentaires, notamment dédiés au textile, aux
+  accessoires, à l'équipement de la maison ou encore à la téléphonie », et
+  l'appel à candidatures de la Ville du 20 juillet 2026 y met en jeu « la
+  mutation de 5 emplacements en non-alimentaires » avec un dossier intitulé
+  « Mutation Place du 8 Mai 1945 ». MODERATION.md écarte les commerces
+  généralistes : c'est le sujet du site qui tranche, pas la géographie. La
+  description de la fiche de la halle le dit en toutes lettres, pour que
+  personne ne s'y déplace un samedi en croyant y trouver un marché alimentaire.
+- **« Saint-Denis compte deux marchés »** est écrit en tête de la page
+  `/marches` et repris dans le résumé de `/demander-place-marches`, alors que
+  les deux pages en décrivent **trois** — centre-ville, la Plaine, Pierrefitte —
+  et donnent pour chacun des horaires distincts. La phrase est antérieure à la
+  commune nouvelle ; les trois marchés sont publiés, et la contradiction est
+  consignée ici plutôt que remontée.
+- **AMAPlaine**, l'AMAP du quartier de la Plaine, distribution le mercredi soir
+  à l'ancienne gare Plaine Voyageurs, partenariats documentés avec La Belle
+  Façon, Fleurs d'Halage et La Fromentellerie : aucune adresse de voirie, aucun
+  horaire précis, aucun site propre, et l'annuaire d'`amap-idf.org` est piloté
+  en JavaScript. Rien n'était géocodable. Les prénoms des adhérentes et
+  adhérents cités par l'article de la Ville n'ont évidemment pas été relevés.
+  C'est la première piste à reprendre au prochain passage sur la commune.
+- **Zone Sensible** (112 avenue de Stalingrad), ferme du Parti Poétique voisine
+  de la Ferme Ouverte : un hectare en permaculture, une buvette, une
+  programmation artistique — mais aucune source ne décrit de vente de
+  nourriture. Hors sujet en l'état.
+- **La Plaine terre** (30 rue du Maréchal-Lyautey, association La Sauge) produit
+  des **graines** et des paniers solidaires redistribués par une association aux
+  habitants des Francs-Moisins : ce n'est pas une vente directe au public.
+  **La forêt comestible du parc du Glacis** (même adresse, association
+  Engrainage) ne vend rien du tout.
+- **La micro-ferme Chez Basile** (22 rue de la Légion-d'Honneur) est le jardin
+  d'une particulière chez elle, ouvert le vendredi après-midi, qui vend des
+  graines. Domicile privé et nom d'une personne physique : MODERATION.md
+  l'interdit, quand bien même l'office de tourisme le publie.
+- **La Bonne Graine**, épicerie fine et restaurant ouvert 7j/7 de 9h à 21h, qui
+  annonce « plus de 3 000 références bio et classiques, choisies auprès de
+  producteurs » et « soutenir le local et les circuits courts » : la part de
+  l'épicerie et celle du restaurant n'ont pas pu être départagées à temps, et
+  aucun producteur n'est nommé. À reprendre.
+- **Le Bocal** (Pierrefitte), restaurant d'insertion anti-gaspillage : il cuisine
+  des **invendus collectés en grandes surfaces**, ce qui est l'inverse d'un
+  circuit court de producteur. **Au Roi du Marché** est un bistrot. Les
+  supermarchés certifiés bio du registre de l'Agence Bio ont été écartés comme
+  aux passes précédentes.
+- Les domaines devinés sont tous morts : `zonesensible.org`, `partipoetique.org`,
+  `mielbeton.com`, `lafermedespossibles.fr`, `amaplaine.org`, `amaplaine.fr`,
+  `mangeonslocal-en-idf.com`, `carotte-epicerie.fr`, et les deux anciens sites de
+  Pierrefitte, `pierrefitte-sur-seine.fr` et `ville-pierrefitte93.fr`, ne
+  répondent plus — ce dernier étant pourtant encore inscrit sur la fiche de
+  l'office de tourisme. `bienvenue-a-la-ferme.com/fr/ile-de-france/seine-saint-denis`
+  renvoie une 404. **`associationterritoires.fr` est mort, mais
+  `assoterritoires.com` est vivant** : c'est le registre de l'Agence Bio qui a
+  donné le bon domaine, après qu'un domaine deviné eut fait écarter l'association
+  à tort une première fois.
+- Le **règlement des marchés** que la Ville publie en PDF (1,97 Mo) est un
+  document **scanné** : rien n'en est extractible, pas même la liste des familles
+  de produits qui aurait étoffé les trois fiches de marché. C'est la raison pour
+  laquelle deux d'entre elles ne portent qu'une ou deux entrées dans `produits`.
 
 ### Pistes non publiées à Lyon
 
