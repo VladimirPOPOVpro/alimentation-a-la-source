@@ -7993,5 +7993,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre+socioculturel+Madeleine+Rebérioux+Créteil",
     "image_url": "/images/marchands/les-paniers-de-creteil.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-place-d-armes-calais",
+    "nom": "Marché de la place d'Armes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.959504,
+    "lon": 1.850484,
+    "adresse": "Place d'Armes, 62100 Calais",
+    "horaires": "Mercredi et samedi de 8h à 13h, toute l'année. La Ville de Calais publie les jours sans les heures ; les heures sont celles de l'office de tourisme Calais Côte d'Opale.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Viandes",
+      "Spécialités régionales"
+    ],
+    "description": "Le grand marché du centre historique, au pied de la Tour du Guet. Le droit de tenir un marché hebdomadaire les mercredis et samedis sur la place d'Armes a été accordé aux Calaisiens par François II en 1558, après la reconquête de la ville, et il n'a pas changé de jours depuis.",
+    "site_web": "https://www.calais.fr/mon-quotidien/infos-pratiques/liste-des-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+d'Armes+Calais",
+    "image_url": "/images/marchands/marche-de-la-place-d-armes-calais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-place-crevecoeur-calais",
+    "nom": "Marché de la place Crèvecœur",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.944597,
+    "lon": 1.859286,
+    "adresse": "Place Crèvecœur, 62100 Calais",
+    "horaires": "Jeudi et samedi matin, de 8h30 à 12h. Les jours viennent de la Ville de Calais et de l'office de tourisme ; les heures ne sont publiées que par le Pays du Calaisis.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Fromages",
+      "Spécialités régionales"
+    ],
+    "description": "Le marché du quartier Saint-Pierre, au pied de l'église néo-gothique qui donne son nom au quartier. Il tient seul la place le jeudi matin et double celui de la place d'Armes le samedi.",
+    "site_web": "https://www.calais.fr/mon-quotidien/infos-pratiques/liste-des-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Crèvecœur+Calais",
+    "image_url": "/images/marchands/marche-de-la-place-crevecoeur-calais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-paysanne-des-mers",
+    "nom": "La Paysanne des Mers",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 50.962745,
+    "lon": 1.850763,
+    "adresse": "Aubette « Pêche à pied », quai de la Colonne, 62100 Calais",
+    "horaires": "Vente sur le quai le matin, au rythme des marées et des arrivages : la Ville de Calais écrit « tous les jours, en fonction des marées », l'office de tourisme « tous les matins, selon arrivage ». Aucune source ne publie d'horaire propre à cette aubette.",
+    "produits": [
+      "Moules de pays",
+      "Coques",
+      "Bigorneaux",
+      "Palourdes",
+      "Crevettes grises",
+      "Crevettes roses",
+      "Salicornes"
+    ],
+    "description": "Vente directe des produits de la pêche à pied, à l'aubette du quai de la Colonne, face au port de pêche : l'entreprise récolte elle-même moules, coques et bigorneaux sur l'estran, dans le respect des tailles minimales de capture. Sa fondatrice, pêcheuse à pied depuis l'adolescence, a été faite chevalier de l'Ordre national du Mérite en 2017 pour son engagement dans la protection de la nature et du patrimoine maritime.",
+    "telephone": "03 21 97 80 55",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Paysanne+des+Mers+quai+de+la+Colonne+Calais",
+    "image_url": "/images/marchands/la-paysanne-des-mers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "aux-gouts-de-la-ferme",
+    "nom": "Aux Goûts de la Ferme",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.931407,
+    "lon": 1.893104,
+    "adresse": "1380 route de Saint-Omer, 62100 Calais",
+    "horaires": "Mercredi, jeudi et vendredi de 15h à 19h, samedi de 9h à 18h ; fermé les lundi, mardi et dimanche. Que Choisir Ensemble ajoute une ouverture le jeudi et le vendredi de 9h à 12h30, que le réseau Où acheter local ne mentionne pas.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes et foie gras",
+      "Produits laitiers, fromages et yaourts",
+      "Œufs",
+      "Pommes de terre",
+      "Soupes et confitures",
+      "Tartes",
+      "Épicerie"
+    ],
+    "description": "Magasin de producteurs de la route de Saint-Omer : dix agriculteurs et une vingtaine de dépôts-vendeurs y proposent en direct, en un seul lieu, les produits du Calaisis et des alentours. Que Choisir Ensemble le retient sur sa carte des circuits courts, dont le critère demande que 70 % des fruits et légumes viennent de circuits courts.",
+    "telephone": "03 21 82 68 35",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux+Goûts+de+la+Ferme+Calais",
+    "image_url": "/images/marchands/aux-gouts-de-la-ferme.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-calais-saint-pierre",
+    "nom": "Biocoop Calais Saint-Pierre",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.9379536,
+    "lon": 1.8625125,
+    "adresse": "111 rue Gutenberg, 62100 Calais",
+    "horaires": "Du lundi au samedi de 9h30 à 19h ; fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Épicerie biologique",
+      "Produits frais",
+      "Vrac",
+      "Pain et boulangerie",
+      "Charcuterie",
+      "Fromage à la coupe"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop ouvert en novembre 2017 dans le quartier Saint-Pierre, avec boulangerie, charcuterie, fromagerie à la coupe et rayon vrac, sur une surface que le magasin décrit lui-même comme « à taille humaine ». Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis mars 2018.",
+    "telephone": "03 21 35 27 33",
+    "site_web": "https://www.biocoopcalais.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Calais+Saint-Pierre",
+    "image_url": "/images/marchands/biocoop-calais-saint-pierre.jpg",
+    "a_confirmer": true
   }
 ]

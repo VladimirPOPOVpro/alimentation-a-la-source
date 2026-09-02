@@ -711,9 +711,44 @@ prioritaires en cas de conflit.
    Même issue qu'à l'AMAP de Chelles, pour une raison différente : là le miel était déclaré non
    garanti, ici le certificat du fournisseur est introuvable.
 
+61. **Un lieu de vente collectif que l'autorité ne décrit ni par des heures ni par une liste
+   d'occupants s'efface derrière l'occupant qui, lui, est identifiable.** La Ville de Calais range
+   le quai de la Colonne parmi ses marchés, et l'office de tourisme lui consacre une fiche
+   « Marché » ; mais ni l'une ni l'autre ne publie d'horaire — « tous les jours, en fonction des
+   marées », « tous les matins, selon arrivage » — ni la liste des aubettes. Au même endroit, une
+   pêcheuse à pied tient une aubette fixe sous une enseigne immatriculée, décrite en détail par le
+   Pays du Calaisis et par l'office, avec un téléphone qui répond. Critère : quand le lieu collectif
+   ne publie ni heures ni liste d'occupants, et qu'un occupant vend sa propre production depuis une
+   installation fixe à cette adresse, c'est l'occupant qui est publié — le visiteur peut l'appeler,
+   le lieu ne se laisse pas appeler. Le lieu passe en « Pistes non publiées » avec son critère de
+   déblocage : une liste d'occupants ou un horaire publié par la commune. La règle ne vaut PAS
+   quand le lieu collectif publie ses heures : un marché municipal avec jour, heure et placier
+   reste une fiche, et ses exposants n'en sont pas.
+
+62. **Un site web mort cité par un annuaire officiel se retire de la fiche, il ne se remplace pas
+   par l'annuaire.** Deux pistes de cette passe portaient un lien « Visiter le site internet » vers
+   un domaine éteint : celui de la Paysanne des Mers répond 410 « Le site est fermé », celui d'Aux
+   Goûts de la Ferme répond 404 « Aucune redirection pour cet host ». Critère : le champ `site_web`
+   désigne la voix du commerce lui-même ; quand elle s'est tue, le champ reste vide plutôt que de
+   pointer l'office de tourisme, le registre ou l'annuaire qui l'avait relayée, et la fiche garde
+   son téléphone. Le fait est consigné ici, parce qu'un annuaire qui affiche un lien mort donne à
+   croire au lecteur suivant qu'il n'a pas cherché. Prolonge la note Santa Lucia : là le domaine
+   avait été racheté, ici il a seulement disparu — dans les deux cas on ne l'écrit pas.
+
+63. **Précision de la règle 10 : quand la Base Adresse Nationale ignore le numéro, les coordonnées
+   que le commerce publie lui-même passent avant celles d'un registre.** La Base ne connaît aucun
+   numéro de la rue Gutenberg à Calais autour du 111 ; elle ne rend que l'axe de la rue. Le registre
+   de l'Agence Bio donne un point qui se retourne exactement sur le « 53 rue Gutenberg » — la bonne
+   rue, le mauvais numéro, à 148 m de l'axe. Le magasin, lui, publie ses propres coordonnées dans le
+   code de sa page, et le contrôle inverse les rattache au 40 rue Claude-Bernard, à 37 m, la voie qui
+   borde l'arrière du bâtiment. Critère : à défaut de numéro dans la Base, on prend le point que
+   publie le commerce, on vérifie qu'il retombe dans son propre îlot, et on écarte le point de
+   registre qui désigne un autre numéro de la même rue. On n'interpole jamais un numéro manquant
+   entre deux numéros connus : ce serait le décalage à la main que la règle 10 interdit.
+
 ## Marchands à confirmer
 
-274 fiches sur 308 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+279 fiches sur 313 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -992,7 +1027,13 @@ prioritaires en cas de conflit.
 - **L'Épicerie Bio du Village** (Créteil) (l'enseigne déclarée au registre est bien « L'EPICERIE BIO DU VILLAGE », sur une société nommée CLARISSE BOUTIQUE : c'est l'enseigne qui est publiée. Certificat **engagement en cours** au registre de l'Agence Bio, activité « Distribution », d'où le pilier `environnement`. Horaires jour par jour repris du tableau du magasin, qui contredit d'une demi-heure son propre résumé « du mardi au dimanche matin, 9h30-13h30 / 15h-19h » : le tableau, plus précis, ferme le dimanche à 13h et le lundi toute la journée. Le magasin se présente comme indépendant et membre du réseau Accord Bio. Photo : l'illustration que le magasin publie en tête de son rayon fruits et légumes — c'est son image, pas une vue de la boutique, et la présente note est là pour le dire. À 187 m de Couleur Vrac : deux commerces distincts aux n° 48 et 17 de la même rue piétonne)
 - **Les Paniers de Créteil** (**première fiche publiée au titre de la règle 60**, et donc **sans pilier `environnement`** : l'AMAP écrit que ses légumes sont « issus de l'agriculture biologique » et viennent des « Paniers bio du Val-de-Marne », mais cette enseigne est introuvable au registre de l'Agence Bio du 94 comme au registre national des entreprises — la revendication est rapportée, pas cochée. Les huit produits sont ceux que l'association énumère elle-même sur sa page de présentation. **Horaires contredits** entre l'AMAP et l'annuaire du réseau AMAP d'Île-de-France sur le point de l'université, 12h-19h contre 12h-18h : comme à Chelles, l'annuaire est renseigné par l'adhérent-relais de l'AMAP, donc aucune source n'est tierce et les deux sont publiées, règle 5. L'annuaire ne donne aucun jour pour la MJC Club Charpy, que l'AMAP situe le vendredi de 18h à 20h. Adresse aussi contredite : l'AMAP écrit « 11, avenue du Général Leclerc » pour le point Le Colibri quand l'annuaire écrit « rue », et la Base Adresse Nationale ne connaît qu'une **rue** — c'est « rue » qui est publié. Le point de la fiche est le centre socioculturel Madeleine-Rebérioux, seul des quatre points à porter un numéro de voirie, BAN 0,972. **Les noms, mobiles et courriels des quatre adhérents-relais publiés par l'annuaire ne sont pas repris.** Photo : le bandeau de cagettes de légumes du site de l'AMAP, aucun visage)
 
-Les 308 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché de la place d'Armes** (Calais) (le grand marché du centre historique, et le plus ancien droit de marché rencontré jusqu'ici : François II l'accorde aux Calaisiens en 1558, les mercredis et samedis, et ces deux jours n'ont pas bougé. **Sources complémentaires, pas contradictoires** : la Ville de Calais liste les jours sans les heures, l'office de tourisme Calais Côte d'Opale publie « de 8h à 13h et toute l'année » — les heures sont attribuées à l'office dans le champ `horaires`. Les quatre produits sont ceux que l'office énumère ; ni la Ville ni l'office ne publie de liste d'étals, même discipline qu'à Roubaix et au Mont-Mesly. Point BAN sur la place d'Armes à 0,973, à 28 m du marqueur de l'office. Photo : la vue du marché publiée par l'office, tréteaux de légumes et de fleurs sous la Tour du Guet, **recadrée sur les deux tiers gauche** — le tiers droit de l'original montre trois passants de face)
+- **Marché de la place Crèvecœur** (Calais) (le marché du quartier Saint-Pierre, au pied de l'église. **Trois sources, trois niveaux de précision** : la Ville donne les jours (jeudi et samedi), l'office de tourisme les confirme en écrivant « matin », et seul le site du Pays du Calaisis publie une heure, 8h30-12h — c'est lui qui est cité dans `horaires`. Les quatre produits viennent de l'office. Point BAN sur la place à 0,970, à 16 m du marqueur de l'office. Photo : la photographie du marché publiée par l'office, **recadrée sous la ligne des têtes** — cageots de choux et de tomates, portants de vêtements et pavés de la place ; la moitié haute de l'original montre quatre visages)
+- **La Paysanne des Mers** (Calais) (**première fiche publiée au titre de la règle 61** : la Ville range le quai de la Colonne parmi ses marchés et l'office lui consacre une fiche « Marché », mais aucune des deux ne publie d'heures ni de liste d'aubettes — tandis que cette aubette-ci porte une enseigne immatriculée, une activité « pêche en mer » au registre, un téléphone fixe qui répond, et deux descriptions détaillées, celle du Pays du Calaisis et celle de l'office. C'est donc l'occupante qui est publiée et le quai qui passe en pistes. **Le patronyme de la fondatrice n'est pas repris**, bien que les deux autorités le publient : la fiche porte l'enseigne, et la distinction de 2017 est rapportée sans le nom, même discipline qu'à L'âne hilare et qu'aux Roseaux. `site_web` est vide au titre de la règle 62 : le domaine que cite l'office répond 410, « Le site est fermé ». `horaires` ne prétend à rien de plus que ce que les deux autorités écrivent, et le dit. Point BAN sur le quai de la Colonne à 0,963 ; le marqueur de l'office se trouve 105 m plus au nord, sur le plan d'eau, et n'est pas retenu. Photo : l'étal de bulots, crevettes et coquillages sur glace publié par l'office pour cette fiche, aucun visage)
+- **Aux Goûts de la Ferme** (Calais) (magasin de producteurs de la route de Saint-Omer : dix agriculteurs et une vingtaine de dépôts-vendeurs, catégorie `ferme` comme la Grande Bastide, autre point de vente collectif. **Horaires contredits entre deux annuaires, publiés tous les deux, règle 5** : le réseau Où acheter local donne mercredi, jeudi et vendredi 15h-19h et samedi 9h-18h ; Que Choisir Ensemble, qui recense ses points de vente avec l'INRAE, ajoute une ouverture le jeudi et le vendredi de 9h à 12h30. Le noyau commun — les après-midi et le samedi — recoupe la formule du Pays du Calaisis, « du mercredi après-midi au samedi soir ». `site_web` est vide au titre de la règle 62 : le site cité par le Pays du Calaisis répond 404, « Aucune redirection pour cet host ». Point BAN sur le numéro 1380 à 0,979, à 59 m du marqueur d'Où acheter local. **Photo thématique de la même commune au titre de la règle 1** : aucune photographie du magasin n'existe dans les sources accessibles — celle de l'annuaire fait 180 × 360, très en dessous du plancher de la règle 59 — c'est donc l'étal de fruits du marché de la place d'Armes que l'office de tourisme utilise lui-même pour illustrer sa rubrique « Marchés et produits locaux » qui illustre la fiche, mains visibles, aucun visage)
+- **Biocoop Calais Saint-Pierre** (le magasin est immatriculé sous « GALEMM » ; c'est l'enseigne du réseau coopératif qui est publiée, règle 3, comme au Bessillon. Certificat **engagement en cours** au registre de l'Agence Bio, Ecocert, engagement de mars 2018, d'où le pilier `environnement` ; le magasin dit lui-même avoir ouvert en novembre 2017. Horaires concordants entre l'annuaire du réseau et le site du magasin. **Première fiche publiée au titre de la règle 63** : la Base Adresse Nationale ne connaît aucun numéro de la rue Gutenberg autour du 111 et ne rend que l'axe de la rue ; le point de l'Agence Bio se retourne sur le « 53 rue Gutenberg », bonne rue mais mauvais numéro ; ce sont les coordonnées que le magasin publie dans le code de sa propre page qui sont retenues, et le contrôle inverse les rattache au 40 rue Claude-Bernard, à 37 m, la voie qui borde l'arrière du bâtiment. Photo : la façade du magasin publiée par le magasin, enseigne lisible, personne dans le cadre)
+
+Les 313 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1020,6 +1061,106 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Calais
+
+Quatorzième passe en ville. Département visé : le **Pas-de-Calais (62)**, déficit **6,5122** fiche
+au sens de la règle 41, aucune fiche publiée — le premier du classement. Il menait déjà à la passe
+précédente, où la réserve de la règle 41.c l'avait écarté parce que la passe d'avant avait visé le
+Nord, même région 32 ; deux passes se sont écoulées depuis, la réserve est levée. Après la passe,
+le déficit du 62 tombe à **1,6179** et l'Essonne prend la tête à **6,0758**.
+
+Commune retenue : **Calais**, 67 571 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre par population,
+contrairement aux deux passes précédentes.
+
+**Le site de la Ville est un Nuxt posé sur un TYPO3 headless.** `www.ville-calais.fr` ne résout
+pas ; le vrai domaine est `www.calais.fr`, et `calais.fr` y redirige. Chaque page HTML renvoie la
+même coquille de 10 901 octets — la page « liste des marchés » et la page d'accueil sont
+strictement identiques au ratio près. Le contenu se lit à `https://www.calais.fr/api/<chemin>`, qui
+rend du JSON dont le champ `bodytext` porte le texte de la page. Le sitemap, lui, fonctionne :
+`https://www.calais.fr/sitemap.xml` est un index de dix-huit sous-sitemaps, dont `pages` (477 URL)
+et `equipement` (217). Troisième variante du même piège après Toulouse et Roubaix : la coquille
+d'une application JavaScript se fait passer pour la page.
+
+**Les trois sources qui ont fait cette passe**, dans l'ordre où elles ont servi :
+
+- **`www.calais.fr`**, rubrique « Liste des marchés », qui donne les jours des cinq marchés de la
+  ville — mercredi place d'Armes, jeudi place Crèvecœur, samedi les deux, dimanche rue Greuze /
+  rue Manet, et le quai de la Colonne « tous les jours, en fonction des marées ». Jamais d'heures.
+  La page existe en double, `liste-des-marches` et `liste-des-marches-1`, au texte identique : ce
+  n'est pas une contradiction au sens de la règle 55, seulement un doublon.
+- **`www.lecalaisisonyprendgout.com`**, édité par le **SYMPAC** (hôtel de ville de Calais) et
+  financé par le programme européen LEADER : un annuaire de producteurs du Pays du Calaisis, avec
+  une page « Marchés » qui donne les horaires que la Ville ne publie pas, et une page par
+  producteur. C'est la seule source d'heures pour le marché de la place Crèvecœur. Seuls deux de
+  ses producteurs sont domiciliés à Calais même.
+- **`www.calaisxxl.com`**, l'office de tourisme intercommunal (`calais-cotedopale.com` y redirige),
+  qui consacre une fiche à chacun des quatre marchés et une fiche aux producteurs. C'est la source
+  des horaires de la place d'Armes, des listes de produits, des photographies et de l'histoire du
+  droit de marché de 1558.
+
+**Le registre de l'Agence Bio pour le 62** compte 1 098 opérateurs ; filtré sur Calais et sa
+couronne, il ne rend que deux points de vente utiles — Biocoop Calais Saint-Pierre et Vrac'Opale.
+Tout le reste est soit un supermarché certifié bio que MODERATION.md écarte (cinq Carrefour, une
+Mie Câline), soit un stockeur ou un transporteur sans vente, soit un producteur en `venteProsGros`
+sans vente au particulier (Escargots Hauts de France, Trupin Nicolas, la Chicorée du Nord).
+
+**Marché de produits de la pêche, quai de la Colonne** — *le lieu qui s'efface derrière son
+occupante, règle 61*. La Ville le range parmi ses marchés, l'office lui consacre une fiche
+« Marché » avec une vraie photographie des aubettes ; mais aucune des deux ne publie d'horaire
+autre que « au rythme des marées » ni la liste des aubettes. C'est La Paysanne des Mers qui est
+publiée à sa place. **Critère de déblocage** : une liste d'occupants, ou un horaire, publié par la
+Ville ou par l'office — le quai deviendrait alors une fiche de marché à part entière, la fiche de
+l'aubette restant distincte.
+
+**Marché du quartier Beau-Marais, rue Greuze / rue Manet** — la Ville donne le jour, dimanche,
+et le lieu. L'office lui consacre une fiche mais n'y écrit ni jour ni heure, et l'illustre avec
+**la photographie du marché de la place d'Armes**, réutilisée telle quelle : la fiche de l'office
+n'ajoute donc rien de vérifiable. Aucun annuaire indépendant n'a été trouvé qui donne une heure.
+En dessous du seuil de la règle 16. **Critère de déblocage** : une heure publiée par la Ville, ou
+deux annuaires indépendants d'accord sur le même jour et la même heure.
+
+**Vrac'Opale, 58 rue Royale** — épicerie de vrac inscrite au registre de l'Agence Bio avec un
+certificat **engagement en cours** (Ecocert, août 2021), un établissement ouvert au registre des
+entreprises, et un point de l'Agence Bio qui tombe **exactement** sur le 58 rue Royale rendu par
+la Base Adresse Nationale, au dix-millionième de degré près. Tout le reste manque : aucun horaire
+publié nulle part, aucune photographie, et **aucun site** — `vracopale.fr`, `www.vracopale.fr` et
+`vrac-opale.fr` ne résolvent pas ; le seul lien du registre est une page Facebook. **Critère de
+déblocage** : des horaires publiés par une source accessible, et une photographie.
+
+**AMAP du Calaisis** — l'association existe et est active : elle annonce des paniers de légumes
+bio hebdomadaires à Calais et à Louches en partenariat avec la ferme au Jardin de Berthem depuis
+2020, et des colis de porc bio trimestriels à Calais avec la ferme du Bien Élever depuis 2022. Mais
+son site ne publie **ni adresse, ni jour, ni heure de partage** : le menu « Lieux de distribution »
+renvoie à l'accueil, et le lieu de retrait n'apparaît que comme une liste déroulante d'un
+formulaire d'inscription, dont les options ne sont pas dans le code de la page. **Critère de
+déblocage** : l'adresse, le jour et l'heure du partage à Calais.
+
+**L'Huîtrière Calaisienne, 12 boulevard Lafayette** — écartée pour cause de périmètre, pas de
+fiabilité. L'office la décrit comme une poissonnerie de quartier qui compose des plateaux sur
+mesure : huîtres, crevettes, homards de côte, **pinces d'Alaska**, langoustines, gambas, coques et
+palourdes **de l'île de Chausey**. C'est un revendeur de produits de la mer, dont une part
+explicitement lointaine — pas une vente en circuit court au sens de MODERATION.md.
+
+**Salle Marché Couvert, rue du Havre** — le nom trompe : l'annuaire des équipements de la Ville la
+classe « Salle multisports », catégorie Sport, et ne lui associe ni horaire de vente ni
+commerçant. Ce n'est pas un lieu de vente.
+
+**La Ferme Urbaine, 39 boulevard Jacquard** — une soixantaine d'animaux dans un espace de nature en
+centre-ville, accès gratuit, tenu par l'association Les Animaliens. Aucune vente alimentaire :
+hors sujet.
+
+**Écartés comme généralistes** : les neuf enseignes Carrefour du secteur (quatre à Calais, puis
+Coquelles, Guînes, Oye-Plage, Sangatte et Ardres) et La Mie Câline de Calais, toutes certifiées bio
+au registre de l'Agence Bio pour leur rayon boulangerie — MODERATION.md écarte les supermarchés. **Écartés comme sans vente
+au particulier** : Ghesquiers JPG et Polley Logistique (stockage), RDV Transports, la SARL Chicorée
+du Nord et les Escargots Hauts de France (`venteProsGros` seul).
+
+**Deux sites morts cités par des annuaires officiels**, à l'origine de la règle 62 :
+`www.lapaysannedesmers.com`, que l'office de tourisme donne encore en lien, répond **410 « Le site
+est fermé »** ; `aux-gouts-de-la-ferme.e-monsite.com`, que le SYMPAC donne encore, répond **404
+« Aucune redirection pour cet host »**. Aucun des deux n'est inscrit dans les fiches.
 
 ### Pistes non publiées à Vitry-sur-Seine et à Créteil
 
