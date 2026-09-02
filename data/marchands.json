@@ -6431,5 +6431,128 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+Horticole+de+Lomme",
     "image_url": "/images/marchands/ferme-horticole-de-lomme.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-raspail",
+    "nom": "Marché Raspail",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.849054,
+    "lon": 2.327542,
+    "adresse": "Terre-plein du boulevard Raspail, entre les rues de Rennes et du Cherche-Midi, 75006 Paris",
+    "horaires": "Marché alimentaire : mardi et vendredi de 7h à 13h30 ; marché biologique : dimanche de 7h à 14h30",
+    "produits": [
+      "Produits alimentaires biologiques (marché du dimanche)",
+      "Produits alimentaires (marchés du mardi et du vendredi)"
+    ],
+    "description": "Le terre-plein du boulevard Raspail accueille deux marchés distincts sur le même emplacement : un marché alimentaire le mardi et le vendredi, et le marché biologique du dimanche, l'un des quatre marchés bio de Paris. Métro Rennes ou Saint-Placide, station Vélib' à une centaine de mètres.",
+    "site_web": "https://www.paris.fr/lieux/marche-biologique-raspail-4515",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+Raspail+Paris",
+    "image_url": "/images/marchands/marche-raspail.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-batignolles",
+    "nom": "Marché biologique des Batignolles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.882681,
+    "lon": 2.323295,
+    "adresse": "Terre-plein du boulevard des Batignolles, entre les n° 27 et 35 et les n° 34 et 48, 75008 Paris",
+    "horaires": "Samedi de 7h à 14h30",
+    "produits": [
+      "Produits alimentaires biologiques"
+    ],
+    "description": "Le plus étendu des quatre marchés biologiques de Paris, avec trois cents mètres d'étals sur le terre-plein du boulevard des Batignolles, à cheval sur les 8e et 17e arrondissements. Comme sur tous les marchés bio de la Ville, chaque commerçant doit produire un certificat de conformité biologique à son nom.",
+    "site_web": "https://www.paris.fr/pages/les-marches-parisiens-2428",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+des+Batignolles+Paris",
+    "image_url": "/images/marchands/marche-biologique-batignolles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-brancusi",
+    "nom": "Marché biologique Brancusi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.837035,
+    "lon": 2.321004,
+    "adresse": "Place Constantin Brancusi, 75014 Paris",
+    "horaires": "Samedi de 7h à 14h30",
+    "produits": [
+      "Produits alimentaires biologiques"
+    ],
+    "description": "Petit marché biologique du 14e arrondissement, une centaine de mètres d'étals sur la place Constantin Brancusi, le samedi matin. Métro Gaîté, station Vélib' à 120 mètres.",
+    "site_web": "https://www.paris.fr/lieux/marche-biologique-brancusi-4516",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+Brancusi+Paris",
+    "image_url": "/images/marchands/marche-biologique-brancusi.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-pere-chaillet",
+    "nom": "Marché biologique Père Chaillet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.857053,
+    "lon": 2.379198,
+    "adresse": "Place du Père Chaillet, 75011 Paris",
+    "horaires": "Mercredi de 10h à 20h et samedi de 7h à 14h30",
+    "produits": [
+      "Fruits et légumes",
+      "Fruits et légumes secs",
+      "Miel",
+      "Fromage",
+      "Boucherie",
+      "Poissonnerie et ostréiculture",
+      "Épices, condiments et huile",
+      "Fleurs"
+    ],
+    "description": "Ouvert fin 2018 par la mairie du 11e, le plus récent des marchés biologiques de Paris, et le seul à tenir jusqu'à 20h le mercredi pour ceux qui travaillent. Fruits et légumes, fromage, boucherie, poissonnerie, épices, fleurs : tout y est certifié biologique. Métro Voltaire.",
+    "site_web": "https://www.paris.fr/pages/un-nouveau-marche-bio-a-paris-dans-le-11e-6345",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+Père+Chaillet+Paris",
+    "image_url": "/images/marchands/marche-biologique-pere-chaillet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-paris",
+    "nom": "La Ferme de Paris",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.820841,
+    "lon": 2.444368,
+    "adresse": "24 route de la Tourelle, bois de Vincennes, 75012 Paris",
+    "horaires": "Ferme ouverte le mercredi de 13h30 à 17h15, samedi et dimanche de 13h30 à 18h45 (horaires saisonniers, période affichée du 1er septembre au 16 octobre 2026) ; vente de légumes le mercredi, et le samedi ou le dimanche en saison",
+    "produits": [
+      "Légumes de saison biologiques"
+    ],
+    "description": "Ferme municipale de cinq hectares dans le bois de Vincennes, en production biologique certifiée, où animaux et cultures cohabitent. Deux parcelles de maraîchage y vendent directement au public : un espace test de 7 500 m² pour des personnes qui s'installent en maraîchage, et une parcelle de 3 500 m² cultivée dans le cadre d'un programme de réinsertion.",
+    "site_web": "https://www.paris.fr/lieux/la-ferme-de-paris-6597",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+de+Paris+bois+de+Vincennes",
+    "image_url": "/images/marchands/la-ferme-de-paris.jpg",
+    "a_confirmer": true
   }
 ]

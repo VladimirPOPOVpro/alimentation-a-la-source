@@ -455,6 +455,11 @@ prioritaires en cas de conflit.
    dont le champ `horaires` porte les deux régimes**. Deux fiches seulement quand chacune a une
    adresse géocodable en propre — ce que le cas Aspras / Permavar, distants de 31 m mais numérotés
    séparément sur la D45, satisfaisait. Le critère est l'existence de deux points, pas la distance.
+   Paris en a donné le cas le plus net : le jeu de données de la Ville porte « MARCHÉ RASPAIL »
+   (alimentaire, mardi et vendredi) et « MARCHÉ BIOLOGIQUE RASPAIL » (dimanche) comme deux marchés
+   distincts, avec **le même polygone et le même centroïde, à 0 m** — c'est la source elle-même qui
+   dit qu'il n'y a qu'un lieu. Une seule fiche, deux régimes d'horaires, et le pilier
+   `environnement` accordé au titre du marché du dimanche, ce que la description dit explicitement.
 43. **Le certificat suit l'exploitant, pas l'adresse.** La ferme urbaine Concorde est un équipement
    de la Ville de Lille, qui écrit sur sa fiche d'équipement « son exploitation maraîchère bio :
    d'une superficie de 4 500 m² » et nomme l'association à qui elle en a confié la conduite, Lille
@@ -480,10 +485,42 @@ prioritaires en cas de conflit.
    valeur dont le début (13h, partagé avec la liste des marchés) et la fin (16h30, partagée avec un
    article) soient tous deux confirmés ailleurs. Saint-Sauveur : deux pages de référence contre un
    article, c'est 7h-14h. Les variantes écartées restent écrites ici.
+45. **Un marché peut porter le pilier `environnement`.** La règle 15 exige un certificat rattaché à
+   l'exploitant, ce qui n'a pas de sens pour un marché : l'exploitant, ce sont trente commerçants
+   différents. Paris a rendu le cas tranchable. La Ville classe quatre de ses quatre-vingts marchés
+   découverts sous le produit « Alimentaire bio » dans son propre jeu de données, et sa page
+   « Exercer sur les marchés alimentaires » exige, pour vendre des produits biologiques, un
+   « certificat de conformité biologique délivré par un organisme certificateur agréé, **au nom du
+   commerçant** ». Tranché ainsi : **un marché reçoit le pilier `environnement` quand l'autorité
+   qui le gère le classe comme biologique et impose à chaque commerçant un certificat à son propre
+   nom**. C'est la règle 15 transposée : le certificat reste rattaché à un exploitant, il y en a
+   simplement autant que d'étals. Un marché seulement décrit comme « bio » par un office ou par la
+   presse ne suffit pas — il faut la classification de l'autorité et l'obligation écrite.
+46. **Recadrer plutôt que renoncer.** La seule photo que la Ville publie du marché biologique
+   Brancusi montre trois personnes identifiables au milieu de l'image, mais le tiers inférieur
+   n'est que des cageots de salades, de poivrons et de tomates. Jusqu'ici un tel cliché était
+   écarté et remplacé par une photo thématique, ce qui coûte une vraie photo du lieu. Tranché
+   ainsi : **quand la seule photo du lieu comporte des visages, on la recadre sur une zone qui n'en
+   contient aucun plutôt que de se rabattre sur une photo thématique**, à deux conditions : le
+   recadrage ne doit rien changer à ce que l'image dit du lieu — on retire des passants, on ne
+   transforme pas une devanture en gros plan de produit — et il ne doit pas obliger à agrandir.
+   Une photo thématique reste le recours quand aucune zone n'est exploitable.
+47. **MODERATION.md et AGENT.md se contredisent sur le choix du secteur.** La section 2 de
+   MODERATION.md donne encore l'ordre de priorité d'origine — le Var, puis le 06, puis PACA, puis
+   la France — quand la section « Choisir le secteur » d'AGENT.md porte depuis le 2 septembre 2026
+   le calcul de déficit de la règle 41. Les deux fichiers font autorité, mais pas sur le même
+   objet. Tranché ainsi : **AGENT.md l'emporte, parce que c'est le fichier qui décrit l'étape
+   d'enrichissement et parce que sa rédaction est postérieure**, MODERATION.md gardant toute son
+   autorité sur ce qui est son sujet — la sécurité, les données personnelles, ce qu'une passe ne
+   fait jamais. MODERATION.md n'est pas dans le périmètre modifiable d'une passe : la divergence
+   est donc consignée ici plutôt que corrigée à la source, et c'est le seul endroit où elle est
+   écrite. La même lecture vaut pour la fin de MODERATION.md, « en cas de doute, ne rien publier et
+   demander » : on ne publie pas le fait douteux, mais on ne remonte rien — la règle d'autonomie
+   complète, plus récente et donnée en conversation directe, remplace le « demander ».
 
 ## Marchands à confirmer
 
-214 fiches sur 248 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+219 fiches sur 253 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -699,8 +736,13 @@ prioritaires en cas de conflit.
 - **Marché Saint-Sauveur** (première fiche publiée au titre de la règle 44 : `lille.fr` annonce 7h-14h sur sa liste des marchés et sur son plan officiel, 7h-13h dans l'article de mars 2026 qui annonce le déménagement du marché — ce sont les deux pages de référence qui sont publiées. Cet article donne en revanche les métiers, seule source à le faire : primeurs, producteurs fermiers, fromager, boucher, poissonnier, rôtisserie et fleuriste, les deux derniers confirmés par les pictogrammes du plan, qui ne coche que « alimentation » et « fleurs ». Adresse contredite dans le temps : le plan écrit « rue Saint-Sauveur, entre la rue Gustave Delory et l'avenue Kennedy », l'article situe le marché « à l'angle des rues Delory et Saint-Sauveur » après un déplacement « de quelques mètres » qu'il dit définitif — c'est l'angle qui est publié. La Base Adresse Nationale ignore « rue Saint-Sauveur 59000 » mais connaît « Rue Saint-Sauveur 59800 Lille », dont le centre de voie est à 179 m du centre de la rue Gustave Delory : c'est ce point qui est publié, cinquième échelon de la règle 10. Photo thématique de la même commune, règle 1 : un marché lillois photographié par la Ville en août 2026, dont les visages sont floutés à la source)
 - **Ferme urbaine Concorde** (première fiche publiée au titre des règles 43 et 44. Le pilier `environnement` : la Ville écrit sur sa fiche d'équipement « son exploitation maraîchère bio, d'une superficie de 4 500 m² » et nomme Lille Sud Insertion comme exploitant ; cette association porte un engagement Ecocert ouvert le 12 octobre 2021, jamais arrêté, en maraîchage, mais déclaré au 8 rue Léon Blum quand la vente se fait au 46 — 325 m, la même rue, ce que la règle 43 accepte. Les horaires : quatre valeurs contradictoires sur le même site, c'est le 13h-16h30 de la fiche d'équipement qui est publié, règle 44. Aucun téléphone et aucun contact : le seul numéro publié par la Ville est le portable d'une personne nommée, avec son adresse électronique — ni l'un ni l'autre ne sont repris, MODERATION. Les légumes nommés — courges, pommes de terre, carottes, oignons — viennent de l'article qui décrit la tournée du triporteur, seul à en citer. Le tarif solidaire sur justificatif est annoncé par la Ville, les trois montants qu'elle donne, 4,50 €, 7 € et 10 €, ne sont pas repris faute de savoir à quoi chacun correspond. Photo : la vue aérienne de l'exploitation publiée par `lille.fr`, sans personne)
 - **Ferme Horticole de Lomme** (l'exploitation est la ferme pédagogique de l'EPLEFPA des Flandres, immatriculée sous l'enseigne « LEGTA » et déclarée « RUE DE LA MITTERIE 59160 LILLE » : **Lomme est une commune associée de Lille**, et la Base Adresse Nationale normalise le 77 de cette rue en « 59160 Lille » — l'adresse publiée le dit dans les deux formes. Pilier `environnement` sur un engagement Ecocert ouvert le 5 décembre 2018, que la ferme confirme elle-même en écrivant « en fin 2018, nous avons franchi un nouveau cap en nous engageant dans la certification Agriculture Biologique », et qui couvre bien ce qui est vendu — légumes de saison et plants —, ce que la règle 39 demande. Téléphones contredits : le registre bio donne le 03 20 17 03 90, la page Contact de la ferme le 06 89 11 95 89 — c'est celui de la ferme qui est publié, de première main. Deux adresses de drive contredites aussi, `drive-fermier-lomme.fr` sur la page magasin et `drive-fermier.fr` sur la page contact : aucune des deux n'est inscrite, seul le site principal l'est. L'adresse électronique publiée par la ferme n'est pas reprise, et les producteurs qu'elle revend, désignés par leur prénom, ne sont pas nommés. Photo : l'étal du magasin à la ferme, prise sur le site même)
+- **Marché Raspail** (deuxième fiche publiée au titre de la règle 42, et le cas le plus net : le jeu de données « Marchés découverts » de la Ville de Paris porte deux marchés distincts sur le boulevard Raspail — l'alimentaire du mardi et du vendredi, le biologique du dimanche — avec **le même polygone et le même centroïde, à 0 m l'un de l'autre**. Une seule fiche donc, dont les horaires portent les deux régimes et dont la description dit lequel est biologique. Le pilier `environnement` vient du marché du dimanche, au titre de la règle 45. Le point est le centroïde du polygone publié par la Ville ; la fiche « lieu » de `paris.fr` place son marqueur 127 m plus au sud sur le même terre-plein, et le centre de voie de la Base Adresse Nationale 261 m plus au sud encore — le boulevard fait 351 m d'étals, les trois points sont dedans, c'est le centroïde qui est retenu parce qu'il vient de l'emprise réelle du marché. Produits : la Ville ne publie aucune liste d'étals pour ce marché, seulement sa classification « Alimentaire » et « Alimentaire bio » — rien n'a été ajouté. Photo : le cliché de cageots publié par la Ville sur la fiche du marché biologique, sans personne)
+- **Marché biologique des Batignolles** (le seul des quatre marchés bio parisiens dont la fiche « lieu » sur `paris.fr` renvoie une **erreur 404** alors que le plan du site la référence encore : tout ce qui est publié vient du jeu de données « Marchés découverts » de la Ville — emprise de 301 m à cheval sur les 8e et 17e, samedi de 7h à 14h30, gestionnaire Dadoun. Le contrôle de la Base Adresse Nationale tombe à 95 m du centroïde, sur le même terre-plein. Produits : classification « Alimentaire bio » de la Ville, rien d'autre n'est documenté. Photo thématique de la même commune au titre de la règle 1 — l'image d'en-tête que la Ville publie sur sa page « Les marchés parisiens », un marché de plein air parisien où tout le monde est de dos ou flou ; ce n'est pas une photo des Batignolles et la présente note est là pour le dire)
+- **Marché biologique Brancusi** (première fiche publiée au titre de la règle 46 : la photo que la Ville publie sur la fiche du marché montre trois personnes identifiables au milieu de l'image — un commerçant, une cliente, un homme assis — et elle a été **recadrée sur son tiers inférieur**, qui n'est que des cageots de salades, poivrons, courgettes, tomates et aubergines. La fiche garde ainsi une vraie photo du lieu. Le marqueur de `paris.fr` et le centroïde du jeu de données s'accordent à 32 m, et la Base Adresse Nationale à 17 m : accord à trois sources, cas rare. Produits : classification « Alimentaire bio », rien d'autre n'est publié)
+- **Marché biologique Père Chaillet** (le seul des quatre dont les produits soient documentés : l'article par lequel la mairie du 11e a annoncé son ouverture en décembre 2018 nomme quatre commerçants du quartier et énumère « fruits et légumes secs, condiments, épices, huile, boucherie, ostréiculture, fromage, poissonnerie, traiteur, fleurs, thés et tisanes, savon… Et le tout, en bio ». Les adresses des quatre commerçants nommés ne sont pas reprises : ce sont des boutiques du quartier, pas des étals, et la règle 16 vaut ici. Horaires identiques dans le jeu de données et dans l'article, mercredi 10h-20h et samedi 7h-14h30 ; sa fiche « lieu » renvoie elle aussi une 404. Le contrôle de la Base Adresse Nationale tombe à 24 m du centroïde. Photo : le cliché de carottes et de choux-fleurs publié par la Ville dans ce même article, sans personne)
+- **La Ferme de Paris** (ferme municipale de cinq hectares dans le bois de Vincennes, dont la Ville écrit sur sa propre page « production biologique certifiée » et qu'elle décrit comme accueillant deux parcelles de maraîchage qui vendent au public : l'espace test de 7 500 m² de la coopérative Les Champs des Possibles, « vente sur place le samedi ou le dimanche en saison », et O' Potager du Bois, 3 500 m² de maraîchage bio en réinsertion piloté par Interface Formation, dont « les légumes produits sont vendus directement au public les mercredis en saison ». Interface Formation porte au registre de l'Agence Bio un engagement vivant en maraîchage, ce qui conforte la règle 43. Les horaires publiés sont ceux qu'affiche la Ville pour la période du 1er septembre au 16 octobre 2026 : ils sont saisonniers et la fiche le dit. Aucun téléphone : la seule coordonnée publiée par la Ville est une adresse électronique. Le point est le marqueur de `paris.fr`, deuxième échelon de la règle 10 — la Base Adresse Nationale ne numérote pas la route de la Tourelle et son centre de voie tombe 220 m plus au sud. Photo : la planche « maraîchage sur sol vivant » photographiée à la ferme par la Ville, sans personne ; les autres images disponibles montrent des visiteurs, dont des enfants)
 
-Les 248 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 253 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -728,6 +770,60 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Paris
+
+Deuxième passe en ville, et la meilleure source rencontrée jusqu'ici : le portail
+**open data de la Ville de Paris** publie « Marchés découverts », quatre-vingts
+marchés avec leur nom, leur type de produit, leur emprise géographique complète,
+leurs jours et leurs horaires par type de jour. Un jeu de données géocodé par
+l'autorité qui gère les marchés vaut mieux que n'importe quel géocodage
+reconstitué : c'est de là que viennent les quatre points. À retenir pour les
+prochaines grandes villes — chercher le portail open data de la commune avant de
+lire ses pages web.
+
+Deux fragilités de `paris.fr` méritent d'être notées. Le plan du site
+(`sitemap.xml.gz`, en trois niveaux, dont `lieux.xml.gz`) référence encore les
+fiches des marchés biologiques **des Batignolles et du Père Chaillet**, qui
+renvoient toutes deux une **erreur 404** ; sans le jeu de données, ces deux
+fiches n'auraient pas été publiables. Et la fiche « lieu » du marché Raspail
+donne le Groupe Dadoun comme gestionnaire quand le jeu de données donne Bensidoun
+pour Brancusi et le Père Chaillet — les numéros de téléphone publiés sont ceux
+des gestionnaires, à l'usage des commerçants qui cherchent une place, pas des
+visiteurs : aucun n'est repris dans les fiches.
+
+- **Marché biologique Brancusi et marché biologique du Père Chaillet** sont
+  gérés par Bensidoun, Raspail et les Batignolles par Dadoun. Le
+  **certificat de conformité biologique au nom du commerçant** que la Ville
+  exige pour vendre du bio sur ses marchés est ce qui fonde le pilier
+  `environnement` de ces quatre fiches, règle 45 : c'est écrit sur la page
+  « Exercer sur les marchés alimentaires ».
+- **Marché couvert des Enfants Rouges** (39 rue de Bretagne, 3e, 8h30 à 20h30),
+  **marché couvert Saint-Quentin**, **marché d'Aligre** et la douzaine d'autres
+  marchés couverts parisiens : ils ne figurent **pas** dans le jeu de données
+  « Marchés découverts », seulement dans la page « Les marchés parisiens », qui
+  donne l'adresse, les horaires et le métro mais aucune coordonnée. À reprendre
+  avec un géocodage à l'adresse, qui est cette fois numérotée.
+- **École du Breuil** (route de la Ferme, bois de Vincennes) : établissement
+  horticole de la Ville, engagement bio vivant au registre de l'Agence Bio,
+  `venteParticuliers` à vrai — le pendant parisien de la ferme horticole de
+  Lomme. Aucune source ouverte ne décrit pour l'instant un magasin ni des
+  horaires de vente ; c'est la première piste à reprendre à Paris.
+- **Les Jardins de Constantin** (6 allée Gaston Bachelard, 14e) et **la
+  Cressonnière de Montmirail** (18 rue de Crimée) : maraîchers au registre bio
+  avec un engagement vivant et la vente aux particuliers déclarée, mais leur
+  raison sociale est le **patronyme de l'exploitant** et aucune enseigne n'est
+  déclarée — rien de publiable en l'état, MODERATION.
+- **La Bonne Mure**, **Biofield**, **Les Roches Noires** : maraîchage au registre
+  mais `venteParticuliers` à faux, ou certification arrêtée.
+- **Le reste du registre bio du 75** est massivement hors sujet : sur les
+  1 187 opérateurs parcourus (le département en compte plus de 1 200, la
+  pagination a été arrêtée là), on compte 188 boulangeries, 128 magasins
+  spécialisés bio, 127 grandes surfaces, 99 commerces de proximité et
+  41 restaurants — la vente directe de producteur y est marginale. **En ville
+  dense, le registre bio sert à écarter, pas à trouver** : ce sont les marchés
+  et les fermes urbaines qui portent le circuit court, et c'est la commune qui
+  les documente.
 
 ### Pistes non publiées à Lille
 
