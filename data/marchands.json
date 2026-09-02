@@ -6554,5 +6554,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+de+Paris+bois+de+Vincennes",
     "image_url": "/images/marchands/la-ferme-de-paris.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-vieux-port-marseille",
+    "nom": "Marché du Vieux-Port",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.295147,
+    "lon": 5.374273,
+    "adresse": "Quai de la Fraternité, du Vieux-Port de l'Ombrière à La Samaritaine, 13001 Marseille",
+    "horaires": "Dimanche de 8h à 13h",
+    "produits": [
+      "Fromages",
+      "Fruits et légumes",
+      "Épices et plantes aromatiques",
+      "Boissons",
+      "Charcuteries et viandes",
+      "Produits de la mer",
+      "Pain",
+      "Plats cuisinés"
+    ],
+    "description": "Ouvert en novembre 2023 par la Ville de Marseille, ce marché du dimanche matin aligne une trentaine d'étals issus de filières en circuit court sur le quai de la Fraternité, à côté du marché aux poissons quotidien. La Ville le classe parmi ses marchés « Producteurs ».",
+    "site_web": "https://www.marseille.fr/decouvrir-marseille/les-marches-de-la-ville/les-marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Vieux-Port+quai+de+la+Fraternité+Marseille",
+    "image_url": "/images/marchands/marche-du-vieux-port-marseille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-joliette",
+    "nom": "Marché de la Joliette",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.304786,
+    "lon": 5.365914,
+    "adresse": "Place de la Joliette, 13002 Marseille",
+    "horaires": "Marché alimentaire : du lundi au vendredi de 8h à 14h ; marché de producteurs : mardi de 15h à 19h",
+    "produits": [
+      "Alimentation générale (marché du lundi au vendredi)",
+      "Produits de producteurs (marché du mardi après-midi)"
+    ],
+    "description": "Deux marchés se succèdent sur la place de la Joliette : le marché alimentaire de semaine, tous les matins du lundi au vendredi, et un marché de producteurs le mardi en fin de journée. Métro et tramway Joliette.",
+    "site_web": "https://www.marseille.fr/decouvrir-marseille/les-marches-de-la-ville/les-marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+de+la+Joliette+Marseille",
+    "image_url": "/images/marchands/marche-de-la-joliette.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-plaine",
+    "nom": "Marché de la Plaine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.295233,
+    "lon": 5.387215,
+    "adresse": "Place Jean Jaurès, 13005 Marseille",
+    "horaires": "Marché alimentaire : mardi, jeudi et samedi de 7h30 à 13h ; marché paysan : vendredi de 15h à 19h",
+    "produits": [
+      "Fruits et légumes frais de producteurs locaux",
+      "Alimentation générale (marchés du mardi, du jeudi et du samedi)"
+    ],
+    "description": "Sur la place Jean Jaurès, le marché alimentaire des mardi, jeudi et samedi matin est doublé le vendredi après-midi d'un marché paysan installé au nord-est de la place, côté boulevard Chave, dont les producteurs sont tous adhérents de l'ADEAR 13. La Ville y a engagé une démarche zéro déchet et zéro plastique : sacs en matière recyclable, tri sélectif et collecte des déchets.",
+    "site_web": "https://www.marseille.fr/decouvrir-marseille/les-marches-de-la-ville/les-marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+la+Plaine+place+Jean+Jaurès+Marseille",
+    "image_url": "/images/marchands/marche-de-la-plaine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-du-cours-julien",
+    "nom": "Marché paysan du Cours Julien",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.294197,
+    "lon": 5.383114,
+    "adresse": "Cours Julien, 13006 Marseille",
+    "horaires": "Mercredi de 8h à 13h",
+    "produits": [
+      "Pâtes fraîches",
+      "Miel",
+      "Pains"
+    ],
+    "description": "Sous les pergolas du cours Julien, un marché de producteurs se tient le mercredi matin, au milieu des façades peintes du quartier. La Ville le classe parmi ses marchés « Producteurs » ; l'office de tourisme le présente comme un marché bio et local, sans que cette certification soit documentée étal par étal. Métro Notre-Dame du Mont.",
+    "site_web": "https://www.marseille.fr/decouvrir-marseille/les-marches-de-la-ville/les-marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+paysan+Cours+Julien+Marseille",
+    "image_url": "/images/marchands/marche-paysan-du-cours-julien.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-saint-victor",
+    "nom": "Marché de Saint-Victor",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.290832,
+    "lon": 5.36609,
+    "adresse": "Place Saint-Victor, 13007 Marseille",
+    "horaires": "Le dernier dimanche de chaque mois, sauf en juillet et en août, de 7h à 18h ; de 9h à 16h en hiver",
+    "produits": [
+      "Produits locaux de producteurs"
+    ],
+    "description": "Marché de producteurs mensuel sur la place Saint-Victor, devant l'abbaye, un dimanche par mois hors juillet et août. L'office de tourisme l'attribue au collectif marseillais Hors Champs et le place le quatrième dimanche du mois ; la Ville, qui le classe parmi ses marchés « Producteurs », indique le dernier dimanche : ce sont les horaires de la Ville qui sont repris ici.",
+    "site_web": "https://www.marseille.fr/decouvrir-marseille/les-marches-de-la-ville/les-marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Saint-Victor+Marseille",
+    "image_url": "/images/marchands/marche-de-saint-victor.jpg",
+    "a_confirmer": true
   }
 ]

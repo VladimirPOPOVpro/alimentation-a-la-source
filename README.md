@@ -517,10 +517,22 @@ prioritaires en cas de conflit.
    écrite. La même lecture vaut pour la fin de MODERATION.md, « en cas de doute, ne rien publier et
    demander » : on ne publie pas le fait douteux, mais on ne remonte rien — la règle d'autonomie
    complète, plus récente et donnée en conversation directe, remplace le « demander ».
+48. **Un marché sans étal certifié peut quand même mériter `environnement`.** La règle 45 ne
+   couvre que le cas biologique, et elle est stricte à dessein : elle exige la classification de
+   l'autorité et un certificat par commerçant. Marseille ne classe aucun marché « bio », mais sa
+   page des marchés alimentaires écrit d'un seul d'entre eux, la Plaine, qu'il « est engagé dans
+   une démarche zéro déchet, zéro plastique (utilisation de sacs en matière recyclable et un
+   nouveau dispositif de tri sélectif et de collecte des déchets) ». Tranché ainsi : **un marché
+   reçoit `environnement` quand l'autorité qui le gère décrit, à propos de ce marché-là, un
+   dispositif concret et vérifiable — des sacs, un tri, une collecte — et non une intention ni un
+   label posé par un tiers**. Le critère est le dispositif nommé : « marché durable », « bio et
+   local » ou « circuit court » écrits par un office de tourisme ne l'ouvrent pas, faute de quoi
+   la mention se dissoudrait dans le vocabulaire. Cette règle est la seule voie non biologique
+   vers ce pilier pour un marché ; les règles 39, 43 et 45 continuent de valoir pour les autres.
 
 ## Marchands à confirmer
 
-219 fiches sur 253 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+224 fiches sur 258 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -741,8 +753,13 @@ prioritaires en cas de conflit.
 - **Marché biologique Brancusi** (première fiche publiée au titre de la règle 46 : la photo que la Ville publie sur la fiche du marché montre trois personnes identifiables au milieu de l'image — un commerçant, une cliente, un homme assis — et elle a été **recadrée sur son tiers inférieur**, qui n'est que des cageots de salades, poivrons, courgettes, tomates et aubergines. La fiche garde ainsi une vraie photo du lieu. Le marqueur de `paris.fr` et le centroïde du jeu de données s'accordent à 32 m, et la Base Adresse Nationale à 17 m : accord à trois sources, cas rare. Produits : classification « Alimentaire bio », rien d'autre n'est publié)
 - **Marché biologique Père Chaillet** (le seul des quatre dont les produits soient documentés : l'article par lequel la mairie du 11e a annoncé son ouverture en décembre 2018 nomme quatre commerçants du quartier et énumère « fruits et légumes secs, condiments, épices, huile, boucherie, ostréiculture, fromage, poissonnerie, traiteur, fleurs, thés et tisanes, savon… Et le tout, en bio ». Les adresses des quatre commerçants nommés ne sont pas reprises : ce sont des boutiques du quartier, pas des étals, et la règle 16 vaut ici. Horaires identiques dans le jeu de données et dans l'article, mercredi 10h-20h et samedi 7h-14h30 ; sa fiche « lieu » renvoie elle aussi une 404. Le contrôle de la Base Adresse Nationale tombe à 24 m du centroïde. Photo : le cliché de carottes et de choux-fleurs publié par la Ville dans ce même article, sans personne)
 - **La Ferme de Paris** (ferme municipale de cinq hectares dans le bois de Vincennes, dont la Ville écrit sur sa propre page « production biologique certifiée » et qu'elle décrit comme accueillant deux parcelles de maraîchage qui vendent au public : l'espace test de 7 500 m² de la coopérative Les Champs des Possibles, « vente sur place le samedi ou le dimanche en saison », et O' Potager du Bois, 3 500 m² de maraîchage bio en réinsertion piloté par Interface Formation, dont « les légumes produits sont vendus directement au public les mercredis en saison ». Interface Formation porte au registre de l'Agence Bio un engagement vivant en maraîchage, ce qui conforte la règle 43. Les horaires publiés sont ceux qu'affiche la Ville pour la période du 1er septembre au 16 octobre 2026 : ils sont saisonniers et la fiche le dit. Aucun téléphone : la seule coordonnée publiée par la Ville est une adresse électronique. Le point est le marqueur de `paris.fr`, deuxième échelon de la règle 10 — la Base Adresse Nationale ne numérote pas la route de la Tourelle et son centre de voie tombe 220 m plus au sud. Photo : la planche « maraîchage sur sol vivant » photographiée à la ferme par la Ville, sans personne ; les autres images disponibles montrent des visiteurs, dont des enfants)
+- **Marché du Vieux-Port** (le marché « Producteurs » que la Ville a ouvert sur le quai de la Fraternité le 12 novembre 2023 ; sa page des marchés alimentaires est la seule source qui en donne les familles de produits — fromages, fruits et légumes, épices et plantes aromatiques, boissons, charcuteries et viandes, produits de la mer, pain, plats cuisinés — et l'article d'annonce ajoute « une trentaine d'étals » « issus de filières en circuit court », « en plus de l'habituel marché aux poissons ». L'office de tourisme confirme la trentaine d'étals et l'emprise, de l'Ombrière à La Samaritaine. La Base Adresse Nationale connaît le quai de la Fraternité comme lieu-dit et le rend à 0,955 : c'est ce point qui est publié, l'emprise réelle étant un quai de plusieurs centaines de mètres. Aucun étal n'est nommé, aucun n'est inscrit. Photo : le cliché du marché du dimanche publié par l'office de tourisme, **recadré sous sa moitié haute** au titre de la règle 46 — l'original montre trois visages nets, le bas de l'image n'est que l'étal d'un apiculteur, ses bocaux et ses sucettes au miel)
+- **Marché de la Joliette** (troisième fiche publiée au titre de la règle 42 : la Ville liste sur la même place de la Joliette deux marchés distincts, « Joliette » du lundi au vendredi de 8h à 14h et « Joliette Producteurs » le mardi de 15h à 19h. Un seul point, une seule fiche, deux régimes d'horaires. Les produits ne sont pas documentés : la Ville n'écrit qu'« Alimentaire divers » pour le marché de semaine et rien du tout pour celui des producteurs — les deux lignes publiées ne disent que cela, et aucun métier n'a été inventé. Centre de voie de la Base Adresse Nationale à 0,960. Photo thématique de la même commune au titre de la règle 1 : un étal de fruits et légumes du marché de Noailles photographié par l'office de tourisme, sans visage ; ce n'est pas une photo de la Joliette et la présente note est là pour le dire)
+- **Marché de la Plaine** (quatrième fiche au titre de la règle 42 — « La Plaine » les mardi, jeudi et samedi de 7h30 à 13h et « La Plaine Producteurs » le vendredi de 15h à 19h, même place Jean Jaurès — et **première fiche publiée au titre de la règle 48** : la Ville écrit de ce marché, et d'aucun autre à Marseille, qu'il « est engagé dans une démarche zéro déchet, zéro plastique ». La fiche de l'office de tourisme, mise à jour le 11 mars 2026 par la Ville de Marseille elle-même, corrobore le vendredi 15h-19h, situe le marché paysan « Nord-Est de la Place (côté boulevard Chave) » et rattache ses producteurs à l'ADEAR 13. Cette même fiche se contredit sur leur nombre — « une vingtaine de producteurs locaux » dans sa description, « les 16 stands » dans son encart d'engagement : aucun des deux chiffres n'est publié. Centre de voie à 0,968. Photo : l'artichaut, les citrons et les bocaux de l'étal du marché paysan, photographiés par la Ville de Marseille, sans personne)
+- **Marché paysan du Cours Julien** (la Ville le classe « Producteurs », mercredi de 8h à 13h, et la fiche de l'office de tourisme — mise à jour le 11 mars 2026 par la Ville — donne le même horaire au quart d'heure près et le situe « sous les pergolas du cours Julien ». Les seuls produits nommés par une source sont les trois du billet de l'office, « pâtes fraîches, miel, pains » : la fiche n'en porte pas d'autres. Ce billet écrit aussi « marché bio et local », ce qui **n'ouvre pas** le pilier `environnement` : la règle 45 demande la classification de l'autorité gestionnaire et un certificat par commerçant, or la Ville classe ce marché « Producteurs » et non « bio », et aucun certificat d'étal n'est publié. La description le dit en toutes lettres plutôt que de trancher en silence. Seule coordonnée publiée par l'office : une page Facebook, que la règle 33 écarte. Centre de voie à 0,973. Photo : les tresses d'ail et les huiles d'un étal du marché, photographiées pour l'office de tourisme, **recadrées sous leur tiers supérieur** au titre de la règle 46 — deux visages nets y figuraient, la cliente qui reste est de dos)
+- **Marché de Saint-Victor** (deuxième fiche publiée au titre de la règle 44, et la contradiction porte cette fois sur la date : la Ville écrit « tous les derniers dimanches de chaque mois (sauf juillet et août) de 7h à 18h et de 9h à 16h en hiver », l'office de tourisme « tous les 4ème dimanches » — ce qui ne coïncide qu'un mois sur deux. Ce sont les indications de la Ville qui sont publiées, parce que sa page des marchés est la liste de référence des marchés qu'elle gère, et parce que **la fiche vers laquelle l'office renvoie lui-même renvoie une erreur 404** : la source la plus faible est aussi la moins consultable. La description porte les deux versions pour que personne ne se déplace un dimanche pour rien. L'office attribue le marché au collectif marseillais Hors Champs ; ce collectif n'est pas inscrit comme gestionnaire, faute d'une source de première main. Aucun produit n'est documenté au-delà de « produits locaux ». Centre de voie à 0,959. Photo thématique de la même commune au titre de la règle 1 : l'image d'en-tête que la Ville publie sur sa page des marchés alimentaires, un étal d'ail bio et de légumes, sans visage)
 
-Les 253 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 258 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -770,6 +787,44 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Marseille
+
+Troisième passe en ville, et **aucun portail open data exploitable** : `data.ampmetropole.fr`,
+le portail de la métropole Aix-Marseille-Provence, publie 257 jeux de données et **aucun ne porte
+sur les marchés**. Après le succès parisien, c'est le contre-exemple utile : chercher le portail
+open data en premier reste la bonne méthode, mais il faut savoir en repartir vite. Ici la source
+est la page « Les marchés alimentaires » de `marseille.fr`, qui liste les marchés par
+arrondissement et, surtout, **distingue les marchés « Producteurs » des marchés « Alimentaire
+divers »** : c'est la commune elle-même qui trie, et ce tri est exactement le sujet du site. Six
+marchés portent la mention « Producteurs » ; cinq sont publiés.
+
+**Carré Méry Producteurs (2e), non publié faute d'adresse sûre.** La Ville le situe « Place du
+23 janvier 1943 », le jeudi de 15h30 à 19h. La Base Adresse Nationale ne rend pour cette requête
+qu'un lieu-dit « Place du vingt trois janvier 1943 Fortuné Spo… » à 0,428, score trop bas et
+libellé trop éloigné pour être retenu : la règle 10 s'arrête là, et publier un point faux vaut
+moins que ne rien publier. C'est le seul des six marchés « Producteurs » de Marseille à manquer, et
+il est à reprendre au prochain passage sur la commune.
+
+**Cours Julien et la Plaine sont à 352 m l'un de l'autre**, ce que le contrôle de proximité
+signale à chaque ajout. Ce sont bien deux marchés distincts, sur deux voies distinctes, avec deux
+points distincts dans la Base Adresse Nationale : la règle 42 ne s'applique pas — son critère est
+l'existence de deux points, et ici il y en a deux. Le rapprochement est noté pour qu'une passe
+future ne les fusionne pas par inadvertance.
+
+**Ce que Marseille ne documente pas.** Aucune liste d'étals, aucun métier, aucun téléphone pour
+aucun des cinq marchés : la Ville publie un nom, un jour, une plage horaire, un lieu et parfois
+une famille de produits, et c'est tout. Quatre des cinq fiches n'ont donc qu'une à trois entrées
+dans `produits`, contre les trois à huit visées. Rien n'a été complété d'ailleurs : les listes
+d'étals que publient les sites de quartier et les blogs ne sont pas des sources de première main,
+et une famille de produits inventée envoie quelqu'un chercher un fromager qui n'existe pas.
+
+**Les visuels de `marseille.fr` sont pour la plupart des affiches.** Les trois images que la Ville
+associe à ses articles sur les marchés du Vieux-Port et de la Plaine — `marche_vieux-port-pano`,
+`marche_vieux-port-vignette` et `marche_plaine-pano` — sont des **bandeaux illustrés** portant le
+nom du marché en gros caractères, pas des photographies. Elles ont été écartées : « une vraie
+photo » veut dire une photographie. Seul le bandeau de la page des marchés alimentaires
+elle-même en est une, et c'est celui qui sert de photo thématique.
 
 ### Pistes non publiées à Paris
 
