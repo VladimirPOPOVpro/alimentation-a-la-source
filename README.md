@@ -425,6 +425,26 @@ prioritaires en cas de conflit.
    le régime « sur rendez-vous » protège de lui-même contre le déplacement inutile que la
    modération redoute — on téléphone avant de partir, la question se règle en un appel. Si l'office
    annonçait des heures d'ouverture libres, le drapeau redeviendrait un motif de ne pas publier.
+41. **La carte n'était jamais sortie du Var.** Au bout de quarante-deux passes, les 243 fiches
+   étaient toutes dans le 83 : la priorité géographique d'origine — le Var, puis le 06, puis PACA,
+   puis la France — n'a jamais eu l'occasion de dépasser son premier échelon, parce qu'une commune
+   voisine encore vide se trouve toujours. Dézoomée sur la France, la carte montrait une tache et
+   rien d'autre. Vladimir a tranché le 2 septembre 2026 : couvrir la France progressivement, en
+   suivant la population. Tranché ainsi : **le département d'une passe est celui dont le déficit
+   `part_de_population × total_des_fiches − fiches_publiées` est le plus grand, avec l'interdiction
+   de viser deux passes de suite la même région ; dans ce département on prend la commune la plus
+   peuplée qui n'a encore aucune fiche**. Les populations se lisent en un appel à
+   `geo.api.gouv.fr/communes?fields=nom,code,population,departement`, les fiches se comptent sur le
+   code postal du champ `adresse`. Trois remarques. D'abord le Var s'exclut tout seul : il pèse
+   1,6 % de la population pour une cible de moins de cinq fiches, son déficit est de −238 et le
+   restera longtemps — il ne faut pas écrire d'exception, il faut ne pas contourner la formule.
+   Ensuite le **groupement des cinq fiches sur une seule commune ne change pas** : c'est lui qui
+   rend une zone utilisable et qui limite une passe à un seul jeu de sources ; ce qui change, c'est
+   que la commune saute de région en région. Enfin la formule envoie les premières passes en ville
+   — Lille, Paris, Marseille, Lyon, Bordeaux, Nantes, Toulouse — donc vers des marchés, des AMAP et
+   des magasins de producteurs plutôt que vers des domaines viticoles : c'est le sujet du site, pas
+   une dérive, et cela oblige à changer de source principale, le registre national de l'Agence Bio
+   remplaçant le sitemap de l'office de tourisme de la Provence Verte.
 
 ## Marchands à confirmer
 

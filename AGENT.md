@@ -165,27 +165,82 @@ passe**, pas davantage. Mieux vaut 5 fiches solides que 15 approximatives.
 
 ### Choisir le secteur
 
-Ordre de priorité :
+La carte a été construite dans le Var et n'en est jamais sortie : au moment où
+cette règle est écrite, **les 243 fiches sont toutes dans le 83**. L'objectif
+n'est plus la densité locale, c'est une France progressivement couverte, en
+suivant la population. Le secteur d'une passe ne se choisit donc plus par
+proximité, il se **calcule**.
 
-1. le reste du **Var (83)**,
-2. les **Alpes-Maritimes (06)**,
-3. le reste de **PACA**,
-4. le reste de la **France**.
+**Le critère, en trois pas.**
 
-Regarder les communes déjà présentes dans `data/marchands.json` (champ
-`adresse`) et prendre une commune voisine encore absente. Traiter **une seule
-commune ou un seul secteur par passe** : cinq fiches groupées géographiquement
-valent mieux que cinq fiches éparpillées, parce qu'elles rendent une zone
-réellement utilisable.
+1. Population de chaque département, en un appel :
+
+   ```
+   curl -s "https://geo.api.gouv.fr/communes?fields=nom,code,population,departement&format=json"
+   ```
+
+   Ce fichier de 3,4 Mo rend les 34 969 communes de France avec leur population
+   et leur département. Sommer par département donne la part de chacun.
+
+2. Compter les fiches déjà publiées par département — le code postal se lit dans
+   le champ `adresse` de `data/marchands.json`.
+
+3. Pour chaque département, `déficit = part_de_population × total_des_fiches −
+   fiches_déjà_publiées`. **Le département retenu est celui de plus grand
+   déficit**, à une réserve près : *deux passes de suite ne peuvent pas viser la
+   même région*. Sans cette garde l'Île-de-France, qui pèse 19 % de la
+   population, prendrait quatre des dix premières passes d'affilée.
+
+Le Var sort de lui-même de ce calcul : il pèse 1,6 % de la population, sa cible
+est de moins de cinq fiches, il en a 243. Son déficit restera négatif tant que
+la base n'aura pas dépassé les quinze mille fiches. Il n'y a donc aucune
+exception à écrire — **la formule suffit, et il ne faut pas la contourner** pour
+revenir dans le Var.
+
+**Dans le département retenu**, prendre la **commune la plus peuplée qui n'a
+encore aucune fiche**. C'est là que vivent le plus d'utilisateurs potentiels et
+c'est là que les annuaires sont les mieux tenus. Si cette commune ne rend pas
+cinq commerces vérifiables, descendre à la suivante par population, et le dire
+dans le compte rendu.
+
+**Le groupement ne change pas** : les cinq fiches d'une passe restent sur **une
+seule commune ou une seule agglomération**. Cinq fiches groupées valent mieux
+que cinq fiches éparpillées, parce qu'elles rendent une zone réellement
+utilisable et parce qu'une passe n'a alors qu'un seul jeu de sources à
+apprendre. Ce qui change, c'est que la commune saute d'une région à l'autre à
+chaque passe.
+
+Conséquence à accepter : les premières passes viseront des villes — Lille,
+Paris, Marseille, Lyon, Bordeaux, Nantes, Toulouse. On y trouve moins de
+domaines viticoles et davantage de marchés, d'AMAP, de magasins de producteurs
+et de magasins bio indépendants. C'est le sujet du site, pas une dérive.
 
 ### Trouver les commerces
 
 Sources à privilégier, dans cet ordre :
 
-1. office de tourisme de la commune et `esterel-cotedazur.com`
-2. site officiel de la commune (rubrique marchés / commerces / terroir)
-3. annuaire Bienvenue à la Ferme, Chambre d'agriculture du Var
-4. sites officiels des producteurs eux-mêmes
+1. **le registre de l'Agence Bio**, qui est national et qui remplace, hors du
+   Var, le recensement par sitemap d'office de tourisme :
+
+   ```
+   curl -s "https://opendata.agencebio.org/api/gouv/operateurs/?departements=59&nb=100&debut=0"
+   ```
+
+   `nb` et `debut` paginent par cent. Il n'y a pas de filtre par commune : il
+   faut paginer le département et filtrer soi-même sur
+   `adressesOperateurs[].ville`. Le bloc `venteAnnuaire` dit si l'opérateur
+   vend aux particuliers — utile pour trier, avec la réserve de la règle 40 du
+   README. **Attention** : ce registre contient aussi des supermarchés
+   certifiés bio, que `MODERATION.md` écarte comme commerces généralistes.
+2. site officiel de la commune (rubrique marchés / commerces / terroir) — c'est
+   la source de référence pour les marchés, qui sont le premier gisement en
+   ville
+3. office de tourisme de la commune ou de l'intercommunalité ; dans le Var,
+   `esterel-cotedazur.com` et `la-provence-verte.net`, dont le `sitemap.xml`
+   reste la bonne porte d'entrée
+4. annuaire Bienvenue à la Ferme et Chambre d'agriculture du département
+5. réseau AMAP régional, pour les points de distribution
+6. sites officiels des producteurs eux-mêmes
 
 ### Renseigner une fiche
 
