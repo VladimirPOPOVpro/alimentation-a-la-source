@@ -630,9 +630,28 @@ prioritaires en cas de conflit.
    une fiche à part entière et porte le pilier au titre de la règle 49. Le critère est là :
    `environnement` suit le périmètre nommé par l'autorité, jamais un périmètre plus large.
 
+55. **Quand deux publications d'une même autorité se contredisent, on publie les deux valeurs
+   attribuées — sauf si une source tierce indépendante en corrobore une, qui est alors publiée
+   seule.** La règle 44 départage une page de référence et un article d'actualité ; elle ne dit
+   rien de deux artefacts de même rang. Toulouse pose le cas : la Mairie publie ses marchés
+   **deux fois**, dans le jeu open data `marches-couverts-et-de-plein-vent` et dans son annuaire
+   d'équipements, et les deux se contredisent sur les horaires de quatre marchés sur cinq.
+   Tranché ainsi : **le départage ne peut pas venir de la même maison**. Une troisième page de
+   l'autorité ne fait que répéter l'une des deux ; il faut une source qui ne dépende pas d'elle —
+   un office de tourisme, une association, un producteur — pour trancher, et la description dit
+   alors laquelle a tranché. Le critère est vérifiable et il mord dans les deux sens : à Toulouse,
+   l'office de tourisme corrobore l'annuaire pour l'Esparcette (8h-14h contre 7h30-13h30),
+   Arnaud-Bernard (7h contre 7h30) et le Salin (7h contre 7h30), qui sont publiés avec un seul
+   horaire ; il ne fiche pas Saint-Michel, dont les deux horaires sont donc publiés côte à côte.
+   Une tentation a été écartée en chemin : la Ville écrit ailleurs que ses marchés ouvrent
+   « traditionnellement de 7h30 à 13h30 », ce qui expliquerait que le fichier open data répète
+   ce créneau générique là où l'annuaire porte l'horaire réel. Séduisant, mais faux comme critère :
+   à Saint-Michel c'est l'**annuaire** qui donne 7h30-13h30 et le fichier qui donne 7h. Un
+   raisonnement sur l'origine supposée d'une valeur ne remplace pas une source qui l'a vue.
+
 ## Marchands à confirmer
 
-254 fiches sur 288 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+259 fiches sur 293 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -888,8 +907,13 @@ prioritaires en cas de conflit.
 - **Marché de Porchefontaine** (la Ville est la seule source : ni l'office de tourisme, qui ne fiche que Notre-Dame et Saint-Louis, ni le registre de l'Agence Bio ne le mentionnent. `produits` ne porte donc que « Produits alimentaires », comme au marché de la Plaine à Saint-Denis, et la description le dit. « Square Lamôme » est inconnu de la Base Adresse Nationale, qui renvoie sur cette requête une voie du marché Notre-Dame — le contrôle inverse du point de la Ville rend le 17 rue Coste à **23 m**, ce qui confirme le point sans donner de meilleure adresse : c'est celle de la Ville qui est publiée. Photo thématique de la même commune au titre de la règle 1 : l'étal de poireaux, choux et radis d'un marché versaillais, photographié pour l'office, **recadré sous la ligne des visages** — ce n'est pas le marché de Porchefontaine et la présente note est là pour le dire)
 - **Marché de Jussieu-Montreuil** (même situation qu'à Porchefontaine, source unique et `produits` réduit d'autant. Le nom flotte d'une page à l'autre de la Ville : « marché de Jussieu-Montreuil » sur la liste des marchés, « Bernard de Jussieu » dans le texte de la page commerces, et le conseil de quartier s'appelle « Bernard-de-Jussieu — Petits-Bois — Picardie ». C'est le nom de la liste des marchés qui est publié, règle 44, et la description nomme le quartier. Le point de la Ville tombe à 15 m du 8 allée Emmanuel-Chabrier et à 33 m du 10 rue Claude-Debussy : l'adresse publiée est la rue Claude-Debussy, celle que la Ville donne. Photo thématique de la même commune, règle 1 : les étals de fruits du marché Notre-Dame, photographiés pour l'office, **recadrés sous la ligne des visages**)
 - **Le Potager du Roi** (le jardin de Louis XIV est aujourd'hui une exploitation certifiée : le registre de l'Agence Bio porte, au SIRET de l'École nationale supérieure de paysage, un engagement Ecocert **actif depuis le 20 avril 2022** et une cinquantaine de productions en AB — asperges, raisin de table, figues, pommes, poires, coings, abricots, cerises, pêches, prunes, framboises, fraises, cassis, groseilles, noisettes, thym, romarin, sauge, lavande, verveine, rhubarbe. Le pilier `environnement` vient de ce certificat, règle 15, sans passer par les règles 45 ou 49 : ici l'exploitant est unique et nommé. `produits` croise ce registre avec les pages produits du site de l'école, qui portent chacune la mention « Disponible en boutique » — jus, confitures, gelées, sirops, miel. Les prix qu'elles publient ne sont pas repris. **Deux régimes d'horaires à ne pas confondre**, et la fiche les distingue : le jardin et la boutique ouvrent du mardi au dimanche d'avril à octobre, du mardi au vendredi de novembre à mars, tandis que le « marché du Potager », la vente de la récolte, ne se tient que le samedi de 10h à 13h d'avril à octobre et le mardi de 14h à 18h de novembre à mars. Numéro de voirie du 10 rue du Maréchal-Joffre à 0,973, à 22 m du point du registre des entreprises : premier échelon de la règle 10. Aucun téléphone : le site de l'école n'en publie aucun sur ses pages Potager, et le standard de l'école n'est pas un numéro de boutique. Photo : le jardin en production, les carrés et les fruitiers palissés avec la cathédrale Saint-Louis derrière, prise pour l'école — **recadrée à gauche des trois visiteuses** dont les profils étaient reconnaissables au zoom)
+- **Marché bio de l'Esparcette** (le seul marché que la Ville de Toulouse classe « alimentaire bio » dans son fichier des marchés, et **le seul des cinq à porter le pilier `environnement`** : la classification couvre ici le marché entier, ce qui est exactement le périmètre que la règle 54 exige. L'office de tourisme le dit « premier marché bio de France », créé il y a plus de trente ans, et n'y annonce que des produits issus de l'agriculture biologique certifiée — c'est de lui que vient la liste des huit produits, tirée des métiers qu'il énumère. Le gestionnaire est l'association L'Esparcette, SIREN 400740874, active au registre avec un établissement ouvert ; ses domaines candidats — `esparcette.org`, `esparcette.fr`, `marche-esparcette.fr` — ne répondent pas et `lesparcette.fr` renvoie une erreur 500, donc aucun site n'est publié. **Horaires départagés par la règle 55** : 8h-14h, valeur de l'annuaire municipal que l'office corrobore, contre 7h30-13h30 dans le fichier open data. Point de la Mairie à 34 m du square Général-Charles-de-Gaulle de la BAN. Photo : celle que l'office publie sur la fiche de ce marché, les barnums devant la brique du Capitole, **recadrée à 860 × 430 sous la ligne des visages**)
+- **Marché Arnaud-Bernard** (classé « alimentaire producteurs » par la Ville. **Horaires départagés par la règle 55** : samedi 7h-13h30, valeur de l'annuaire que l'office de tourisme corrobore, contre 7h30 dans le fichier open data ; le mercredi 16h-20h ne fait l'objet d'aucun désaccord. Aucune des deux sources ne publie la liste des étals : `produits` porte une seule entrée et la description dit qu'elle ne présume de rien — même discipline qu'à Porchefontaine et Jussieu-Montreuil. Point de la Mairie à 13 m de la place Arnaud-Bernard de la BAN. Photo : celle que l'office publie sur la fiche de ce marché, un cabas de fruits au-dessus des cageots, **aucun visage dans le cadre**)
+- **Marché du Salin** (classé « alimentaire producteurs ». **Horaires départagés par la règle 55** : 7h-13h30, valeur de l'annuaire, l'office confirmant explicitement le vendredi « de 7h à 13h30 » ; le fichier open data donne 7h30-13h30 pour les trois jours. L'annuaire est aussi la seule source de la spécialisation par jour — producteurs le mardi, volaille le vendredi — que l'office recoupe mot pour mot ; elle est publiée dans les horaires et dans la description. L'office écrit que le marché propose « des produits bios » mais aucune autorité ne le classe ainsi : pas de pilier `environnement`, règle 45. Point de la Mairie à 20 m de la place du Salin de la BAN. Photo thématique de la même commune, règle 1 : le marché Cristal, autre marché toulousain de plein vent, **recadré à 860 × 310 au-dessus de la ligne des visages** — l'office n'illustre le Salin que par une image Adobe Stock, licence commerciale que ce site ne peut pas porter, comme le Shutterstock de la Croix-Rousse à Lyon)
+- **Marché des Ponts-Jumeaux** (classé « producteurs », l'une des deux seules fiches de cette passe dont **les deux publications de la Mairie s'accordent** — vendredi 16h à 20h, repris à l'identique par l'article « Redécouvrez les marchés toulousains ». C'est l'un des marchés que la Ville a ouverts en fin de journée plutôt que le matin. Le point de la Mairie tombe à 176 m du centre de la rue Cécile-Brunschvicg mais à 21 m du n° 18 : c'est un point sur la rue, pas un centre de voie, règle 10. Le fichier open data écrit « Rue R.C. Brunschvicg » ; c'est la forme de la BAN et de l'annuaire, « rue Cécile-Brunschvicg », qui est publiée. Photo thématique de la même commune, règle 1 : le marché de l'Hers, autre marché toulousain de fin de journée, publié par la Ville)
+- **Marché Saint-Michel** (classé « producteurs ». **Contradiction non départagée, règle 55** : le fichier open data ouvre à 7h, l'annuaire à 7h30, et ni l'office de tourisme ni aucune autre source indépendante ne fiche ce marché — les deux horaires sont donc publiés côte à côte dans le champ `horaires`. L'adresse aussi flotte : l'annuaire écrit « Parvis du Castelet - 18 Grande Rue Saint-Michel », le fichier « 18 bis Grande-Rue Saint Michel », et la BAN nomme le lieu « parvis Yves et Marie-Angèle Bettini » à 11 m du point ; la fiche publie le parvis du Castelet et le 18 bis, les deux formes de la Mairie, et laisse de côté le troisième nom que seule la BAN porte. Photo thématique de la même commune, règle 1 : le marché des Minimes place du Marché-aux-Cochons, publié par la Ville)
 
-Les 288 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 293 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -917,6 +941,83 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Toulouse
+
+Dixième passe en ville. Département visé : la **Haute-Garonne (31)**, déficit
+**6,15** fiches au sens de la règle 41, le plus élevé de France avec 288 fiches
+publiées — devant la Seine-et-Marne (6,13), le Pas-de-Calais (6,09), le
+Val-de-Marne (5,96) et le Nord (5,92). Le 31 est en **région 76**, la passe
+précédente visait la région 11 : la réserve de la règle 41.c est respectée.
+Commune la plus peuplée du département sans aucune fiche : **Toulouse,
+514 819 habitants**. Elle a rendu ses cinq points sans descente d'échelle.
+Après la passe, le déficit du 31 tombe à **1,25**.
+
+**Les cinq fiches ne sont pas un choix, c'est un sous-ensemble.** La Ville de
+Toulouse publie ses 56 marchés dans le jeu open data
+`marches-couverts-et-de-plein-vent` (portail `data.toulouse-metropole.fr`, 844
+jeux au catalogue, mis à jour le 31 août 2026) avec un champ `type` qu'elle
+renseigne elle-même : 24 « Alimentaire », 13 « Alimentaire et forain »,
+6 « Livres », 3 « Marché couvert », 2 « Alimentaire Producteurs »,
+2 « Producteurs », 1 « Alimentaire bio », et un exemplaire de « Brocante »,
+« Brocante mensuelle », « Fleurs », « Forain » et « Espace de vente destiné aux
+vendeurs non professionnels ». Les cinq marchés publiés sont **exactement les
+cinq que la Ville range sous "Producteurs", "Alimentaire Producteurs" et
+"Alimentaire bio"** : le tri est celui de l'autorité gestionnaire, pas le mien,
+et il tombe pile sur le sujet du site.
+
+**Écartés.** Les livres, les brocantes, les fleurs, le forain et l'espace de
+vente non professionnels sont non alimentaires : MODERATION.md les écarte. Les
+24 « Alimentaire » et 13 « Alimentaire et forain » sont des marchés de quartier
+que la Ville ne rattache à aucun producteur, et sur lesquels ni son annuaire ni
+l'office de tourisme n'écrivent autre chose que l'adresse et l'horaire : ils ne
+sont pas écartés pour toujours, ils passent après.
+
+**La Mairie se publie deux fois et se contredit.** Chaque marché existe dans le
+fichier open data *et* dans l'annuaire d'équipements de
+`metropole.toulouse.fr/annuaire/…`, et les horaires diffèrent pour quatre des
+cinq marchés retenus. C'est le cas qui a fait écrire la **règle 55**.
+
+**Deux pièges de sitemap.** `www.toulouse.fr/robots.txt` et
+`www.toulouse.fr/sitemap.xml` renvoient tous les deux la page d'accueil Drupal,
+en 200 : un catch-all qui ressemble à une réponse valide. Le vrai plan du site
+est `metropole.toulouse.fr/sitemap.xml?page=1` à `?page=6`, 12 000 URL. Côté
+office de tourisme, `toulouse-visit.com` redirige en 301 vers
+`toulouse-tourisme.com`, dont `/sitemap.xml` répond 200 avec un corps vide
+alors que `/sitemap_index.xml` fonctionne et donne dix sous-sitemaps ; c'est
+`commerce-sitemap.xml` qui fiche les dix marchés que l'office documente.
+
+**Le registre de l'Agence Bio rend peu à Toulouse.** Sur 2 818 opérateurs en
+Haute-Garonne, **389 sont domiciliés à Toulouse**, dont 44 déclarent une
+activité de « Production ». **Aucun des 44 ne déclare de site web**, et la
+plupart sont immatriculés sous le patronyme de leur exploitant, que
+MODERATION.md interdit de publier comme une enseigne. Le reste est ce qu'on
+retrouve partout : préparation, distribution, supermarchés certifiés.
+
+**Restent à instruire à Toulouse, pour une passe suivante :**
+
+- **Les trois marchés couverts** — Victor-Hugo, Saint-Cyprien et les Carmes —
+  que la Ville classe « Marché couvert » et ouvre tous les jours sauf le lundi,
+  et que l'office de tourisme fiche un par un. Ce sont des halles de métiers de
+  bouche plus que de producteurs : il faudra vérifier étal par étal avant de
+  décider, comme à Talensac et aux Capucins.
+- **EARL La Ferme de Borde Bio**, 79 chemin des Izards, 31200 Toulouse : une
+  exploitation certifiée bio, active au registre avec un établissement ouvert,
+  qui déclare la vente aux particuliers — **et qui est domiciliée à l'adresse
+  exacte du siège de l'association L'Esparcette**, gestionnaire du marché bio du
+  Capitole. Le lien est visible dans deux registres indépendants ; ce qu'il
+  signifie ne l'est pas encore, et rien n'en a été publié.
+- **Les producteurs bio de Toulouse qui portent une vraie enseigne** — Les
+  Jardins de Juglans, La Ferme Arche, le GAEC des Ortalans, Al Griffoul, Liviou,
+  Hyphea, La Milpa Insertion : sept noms sous lesquels quelqu'un peut chercher,
+  contre trente-sept patronymes sous lesquels personne ne cherchera. Aucun ne
+  publie de site : il faudra les vérifier par une source tierce.
+- **Le réseau AMAP d'Occitanie**, non exploré cette fois : c'est lui qui a rendu
+  le groupe de cinq de la prochaine passe versaillaise, et il n'y a pas de
+  raison qu'il rende moins ici.
+- **Les autres communes du 31**, toutes sans fiche : Colomiers (40 882 hab.),
+  Tournefeuille (30 168), Blagnac (27 604), Muret (26 079),
+  Plaisance-du-Touch (21 079), Cugnaux (20 662), Balma (17 772).
 
 ### Pistes non publiées à Versailles
 

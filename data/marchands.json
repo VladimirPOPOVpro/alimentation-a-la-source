@@ -7462,5 +7462,125 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Potager+du+Roi+Versailles",
     "image_url": "/images/marchands/potager-du-roi-versailles.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-de-lesparcette",
+    "nom": "Marché bio de l'Esparcette",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.60457175689784,
+    "lon": 1.4450979968027657,
+    "adresse": "Square Charles-de-Gaulle, 31000 Toulouse",
+    "horaires": "Mardi et samedi de 8h à 14h",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Fruits d'arboriculteurs",
+      "Pains",
+      "Viandes et volailles",
+      "Fromages",
+      "Miels",
+      "Vins",
+      "Plants et plantes"
+    ],
+    "description": "Le marché du square Charles-de-Gaulle, derrière le Capitole, est le seul que la Ville de Toulouse classe « alimentaire bio » dans son fichier des marchés ; l'office de tourisme le présente comme le premier marché bio de France, créé il y a plus de trente ans, et n'y annonce que des produits issus de l'agriculture biologique certifiée. Apiculteurs, arboriculteurs, boulangers, bouchers-volaillers, fromagers, maraîchers, pépiniéristes et vignerons y tiennent l'étal. Le fichier open data de la Mairie donne 7h30-13h30, son annuaire et l'office de tourisme 8h-14h : ces deux-là concordent et ce sont eux qui sont retenus.",
+    "site_web": "https://metropole.toulouse.fr/annuaire/marche-bio-de-lesparcette",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+bio+de+l'Esparcette+Toulouse",
+    "image_url": "/images/marchands/marche-bio-de-lesparcette.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-arnaud-bernard",
+    "nom": "Marché Arnaud-Bernard",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.61086851044361,
+    "lon": 1.4390095895185506,
+    "adresse": "Place Arnaud-Bernard, 31000 Toulouse",
+    "horaires": "Samedi de 7h à 13h30 et mercredi de 16h à 20h",
+    "produits": [
+      "Produits alimentaires régionaux de petits producteurs"
+    ],
+    "description": "« Arnaud B » pour les Toulousains : la Ville classe ce marché « alimentaire producteurs » et l'office de tourisme y voit un marché de petits producteurs de produits régionaux, sur une place du centre connue pour ses graffs. Ni la Ville ni l'office ne publient la liste des étals, et cette fiche ne présume donc pas de ce qu'on y trouve. Le fichier open data de la Mairie ouvre le samedi à 7h30, son annuaire et l'office de tourisme à 7h : ces deux-là concordent et ce sont eux qui sont retenus.",
+    "site_web": "https://metropole.toulouse.fr/annuaire/marche-arnaud-bernard",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Arnaud+Bernard+Toulouse",
+    "image_url": "/images/marchands/marche-arnaud-bernard.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-salin-toulouse",
+    "nom": "Marché du Salin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.594693586775946,
+    "lon": 1.4441731506075528,
+    "adresse": "Place du Salin, 31000 Toulouse",
+    "horaires": "Mardi (producteurs), vendredi (volaille) et samedi de 7h à 13h30",
+    "produits": [
+      "Fruits et légumes",
+      "Volailles",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Un petit marché de producteurs au pied du palais de justice, que la Ville classe « alimentaire producteurs » et dont l'annuaire municipal précise la spécialisation des jours : les producteurs le mardi, la volaille le vendredi. L'office de tourisme confirme ce partage et note que l'affluence, moindre qu'ailleurs, y laisse le temps de parler avec les producteurs. La photo est celle du marché Cristal, autre marché toulousain de plein vent : l'office n'illustre le Salin que par une image de banque commerciale que ce site ne peut pas reprendre.",
+    "site_web": "https://metropole.toulouse.fr/annuaire/marche-du-salin",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Salin+Toulouse",
+    "image_url": "/images/marchands/marche-du-salin-toulouse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-ponts-jumeaux",
+    "nom": "Marché des Ponts-Jumeaux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.61469085539911,
+    "lon": 1.4213591223901232,
+    "adresse": "Rue Cécile-Brunschvicg, 31200 Toulouse",
+    "horaires": "Vendredi de 16h à 20h",
+    "produits": [
+      "Produits alimentaires locaux de producteurs régionaux"
+    ],
+    "description": "L'un des rares marchés que la Ville de Toulouse classe simplement « producteurs », et l'un de ceux qu'elle a ouverts en fin de journée plutôt que le matin : il « fait la part belle aux producteurs régionaux et produits alimentaires locaux », écrit son annuaire d'équipements. C'est le seul des cinq marchés de cette passe dont les deux publications de la Mairie donnent le même horaire. La photo est celle du marché de l'Hers, autre marché toulousain de fin de journée : la Ville ne publie aucune image des Ponts-Jumeaux.",
+    "site_web": "https://metropole.toulouse.fr/annuaire/marche-des-ponts-jumeaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Ponts+Jumeaux+Toulouse",
+    "image_url": "/images/marchands/marche-des-ponts-jumeaux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-michel-toulouse",
+    "nom": "Marché Saint-Michel",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.586198878516534,
+    "lon": 1.4472676736766577,
+    "adresse": "Parvis du Castelet, 18 bis Grande-Rue Saint-Michel, 31400 Toulouse",
+    "horaires": "Samedi de 7h à 13h30 selon le fichier des marchés de la Mairie, de 7h30 à 13h30 selon son annuaire d'équipements",
+    "produits": [
+      "Produits alimentaires locaux de producteurs régionaux"
+    ],
+    "description": "Le marché de producteurs du samedi matin, sur le parvis du Castelet le long de la Grande-Rue Saint-Michel. La Ville de Toulouse le classe « producteurs » et écrit qu'il « fait la part belle aux producteurs régionaux et produits alimentaires locaux ». Ses deux publications se contredisent d'une demi-heure sur l'ouverture et aucune source indépendante ne les départage : les deux horaires sont donnés. La photo est celle du marché des Minimes, autre marché toulousain de plein vent.",
+    "site_web": "https://metropole.toulouse.fr/annuaire/marche-saint-michel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Michel+Toulouse",
+    "image_url": "/images/marchands/marche-saint-michel-toulouse.jpg",
+    "a_confirmer": true
   }
 ]
