@@ -7079,5 +7079,126 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+de+Caudéran+Bordeaux",
     "image_url": "/images/marchands/marche-biologique-de-cauderan.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-escudier-boulogne-billancourt",
+    "nom": "Marché Escudier",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.843882,
+    "lon": 2.237865,
+    "adresse": "9 boulevard Jean-Jaurès, 92100 Boulogne-Billancourt",
+    "horaires": "Mardi et vendredi de 8h à 13h ; dimanche et jours de fête de 8h à 13h30",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Trois matinées par semaine boulevard Jean-Jaurès, dans le nord de la ville : 3 200 m² et environ 81 commerçants, dont 71 % de commerces alimentaires selon la Ville. C'est l'un des deux grands marchés de Boulogne-Billancourt. La Ville ne publie pas la liste des étals.",
+    "telephone": "01 55 18 61 62",
+    "site_web": "https://www.boulognebillancourt.com/ma-ville/vie-des-quartiers/marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Escudier+Boulogne-Billancourt",
+    "image_url": "/images/marchands/marche-escudier-boulogne-billancourt.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-billancourt",
+    "nom": "Marché Billancourt",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.831343,
+    "lon": 2.242378,
+    "adresse": "Place du Marché, à l'angle de la rue des Quatre-Cheminées et de la rue du Vieux-Pont-de-Sèvres, 92100 Boulogne-Billancourt",
+    "horaires": "Mercredi de 8h à 13h ; samedi et jours de fête de 8h à 13h30",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le plus grand marché de la ville : 3 800 m² et environ 80 commerçants, dont 73 % de commerces alimentaires selon la Ville. Il se tient deux matinées par semaine sur la place du Marché, dans le sud de Boulogne-Billancourt. La Ville ne publie pas la liste des étals.",
+    "telephone": "01 55 18 61 62",
+    "site_web": "https://www.boulognebillancourt.com/ma-ville/vie-des-quartiers/marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Billancourt+Boulogne-Billancourt",
+    "image_url": "/images/marchands/marche-billancourt.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-boulogne-billancourt",
+    "nom": "Marché biologique de Boulogne-Billancourt",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.840253,
+    "lon": 2.23539,
+    "adresse": "Route de la Reine (côté pair), entre la rue de l'Ancienne-Mairie et la rue de Billancourt, 92100 Boulogne-Billancourt",
+    "horaires": "Samedi de 8h à 13h30",
+    "produits": [
+      "Produits alimentaires biologiques"
+    ],
+    "description": "Le seul des trois marchés de la ville que Boulogne-Billancourt classe « biologique » : 360 m² et quinze commerçants, dont 86 % de commerces alimentaires, la plus forte proportion des trois. Il s'installe le samedi matin sur le trottoir pair de la route de la Reine. La Ville ne publie pas la liste des étals.",
+    "site_web": "https://www.boulognebillancourt.com/ma-ville/vie-des-quartiers/marches-alimentaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+route+de+la+Reine+Boulogne-Billancourt",
+    "image_url": "/images/marchands/marche-biologique-boulogne-billancourt.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-boulogne-billancourt",
+    "nom": "AMAP de Boulogne-Billancourt",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.829702,
+    "lon": 2.234255,
+    "adresse": "Maison de la Planète, 72 allée du Forum, 92100 Boulogne-Billancourt",
+    "horaires": "Distribution tous les mardis de 18h30 à 20h. Paniers réservés aux adhérents, par contrat annuel.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits (pommes, poires, framboises, fraises, cerises, prunes)",
+      "Fromages de chèvre",
+      "Produits laitiers",
+      "Œufs",
+      "Champignons",
+      "Pains"
+    ],
+    "description": "Une association pour le maintien d'une agriculture paysanne qui lie ses adhérents à sept fermes partenaires, toutes annoncées en agriculture biologique : légumes du Bio Verger de Rieux dans l'Oise, fruits de la maison Gaillard dans les Yvelines, fromages de la chèvrerie d'Haussez dans le pays de Bray, œufs de la ferme de Villezanges, pains Budi Bio et champignons de la Champignonnière des Carrières. Le panier se retire le mardi soir à la Maison de la Planète.",
+    "site_web": "https://amap-boulognebillancourt.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+de+la+Planète+72+allée+du+Forum+Boulogne-Billancourt",
+    "image_url": "/images/marchands/amap-de-boulogne-billancourt.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-graines-dissy",
+    "nom": "AMAP Graines d'Issy",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.821406,
+    "lon": 2.261906,
+    "adresse": "Maison des Projets, sous les Arches, 94 avenue Victor-Cresson, 92130 Issy-les-Moulineaux",
+    "horaires": "Distribution le mercredi de 19h15 à 19h45. Paniers réservés aux adhérents, par contrat annuel.",
+    "produits": [
+      "Légumes de saison",
+      "Œufs"
+    ],
+    "description": "Une petite AMAP née d'un groupe d'habitants d'Issy-les-Moulineaux, en contrat avec deux fermes : la ferme Camelot pour les légumes et la ferme des Beurreries pour les œufs. La distribution a lieu le mercredi soir à la Maison des Projets, sous les Arches. Les adhésions se renouvellent une fois par an, en janvier.",
+    "site_web": "https://grainesdissy.wixsite.com/site",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Projets+94+avenue+Victor+Cresson+Issy-les-Moulineaux",
+    "image_url": "/images/marchands/amap-graines-dissy.jpg",
+    "a_confirmer": true
   }
 ]

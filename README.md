@@ -574,10 +574,30 @@ prioritaires en cas de conflit.
    s'expliquent pas par le terrain. Un champ codé rare ou contrasté reste utilisable tel quel :
    à Bordeaux, les listes de cinq ou six familles ont servi. La règle vaut pour tout annuaire
    déclaratif, pas seulement pour celui-là.
+52. **Quand la commune calculée rend quatre points vérifiables et pas cinq, on complète sur une
+   commune limitrophe de la même intercommunalité ; on ne redescend d'un cran qu'en dessous de
+   quatre.** Boulogne-Billancourt, commune la plus peuplée du 92 sans aucune fiche, rend quatre
+   points solides — ses trois marchés municipaux et son AMAP — et pas un cinquième : le registre
+   de l'Agence Bio n'y compte que des supermarchés certifiés et des sièges sociaux, le réseau
+   AMAP d'Île-de-France n'y recense qu'une seule association, et le marché des producteurs de la
+   Ville est un événement annuel de trois jours sans dates publiées. La lettre de la règle 41.d
+   aurait fait descendre la passe entière sur Nanterre et laissé les quatre fiches vérifiées de
+   côté ; l'objet de la règle 41 est pourtant la couverture, et l'objet du groupement est
+   qu'« une zone soit utilisable ». Tranché ainsi : **à quatre points vérifiés, on va chercher le
+   cinquième chez le voisin immédiat plutôt que de tout recommencer ailleurs**. Deux conditions,
+   nécessaires ensemble : la commune du cinquième point appartient au **même établissement public
+   de coopération intercommunale** que les quatre autres — ici Grand Paris Seine Ouest, qui réunit
+   Boulogne-Billancourt et Issy-les-Moulineaux — et ce point est à **moins de 5 km du barycentre**
+   des quatre, la distance en deçà de laquelle la zone reste une seule zone pour qui s'y déplace.
+   Première application : l'AMAP Graines d'Issy, à **2,43 km** du barycentre des quatre fiches
+   boulonnaises. En dessous de quatre points vérifiables, la descente d'échelle de la règle 41.d
+   reprend telle quelle : une commune qui ne rend que deux ou trois fiches n'est pas une zone, et
+   la compléter chez trois voisins différents ferait exactement l'éparpillement que la consigne
+   de groupement interdit.
 
 ## Marchands à confirmer
 
-239 fiches sur 273 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+244 fiches sur 278 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -818,8 +838,13 @@ prioritaires en cas de conflit.
 - **Marché du quai des Chartrons** (fiche unique pour deux marchés au titre de la règle 42 : la Ville liste séparément le « marché des quais » du dimanche et le « marché biologique des quais » du jeudi et du vendredi, mais le jeu de la Métropole leur donne **exactement les mêmes coordonnées**. Une seule fiche, et les deux régimes dans les horaires, pour que personne ne vienne un jeudi en croyant trouver le marché du dimanche. Le pilier `environnement` tient à la règle 49 : « Marché biologique des quais » est une entrée distincte de la liste officielle de la Ville, et le magazine municipal écrit « 100 % bio » — deux marchés biologiques sur la trentaine que compte Bordeaux, la classification trie réellement. La Ville écrit **jeudi et vendredi**, la Métropole écrit le jeudi seul : ce sont les deux jours de la Ville qui sont publiés, règle 44. Le nombre d'étals du dimanche est cohérent aux deux bouts, « plus de 70 » chez la Métropole et « 70 étals » à l'office de tourisme. Photo de l'office de tourisme, la vue du marché le long du quai avec la Garonne et la flèche Saint-Michel au fond)
 - **Marché de producteurs Saint-Seurin** (la seule fiche de la passe dont le champ codé a servi : cinq familles, une liste rare et non modale, que la règle 51 laisse utilisable. Le nombre d'étals est identique chez la Métropole et à l'office de tourisme — dix-neuf étals de producteurs « bios ou non » — et cette réserve explicite interdit le pilier `environnement` : un marché mixte n'est pas un marché biologique. Horaires concordants, vendredi de 7h à 14h. Point de la Métropole à 30 m du centre de voie. Photo de l'office de tourisme : une main qui soupèse une pêche sur un étal du marché, sans visage)
 - **Marché biologique de Caudéran** (**deuxième fiche publiée au titre de la règle 50**, et le cas est plus net qu'à Pierrefitte : la Ville écrit « place Saint-Amand », que la Base Adresse Nationale ignore — elle ne connaît qu'une avenue et une impasse de ce nom — tandis que le texte libre de la Métropole écrit « place Germaine Tillon, au niveau de l'église Saint Amand ». La Base Adresse Nationale connaît la place Germaine-Tillion à 0,684, et ce point tombe à **60 m** de celui de la Métropole. Les deux sources décrivent le même marché, l'écart est bien en deçà des 150 m : le point de la Métropole est publié et l'adresse porte le nom que la Base Adresse Nationale reconnaît. Le champ `adresse` du jeu de données, lui, dit « Place des Martyrs de la Résistance Caud » — un troisième nom, qui renvoie en réalité à une place du centre-ville à 2,4 km de là, et qui n'a pas été retenu. Horaires contredits d'une heure, 7h chez la Ville contre 8h chez la Métropole : c'est 7h qui est publié, règle 44. Pilier `environnement` par la règle 49, avec un renfort : le champ `label_bio` du jeu de données vaut ici `100_POUR_CENT_PRODUITS_AB`, valeur que seuls 35 des 207 points portent. Photo thématique de la même commune au titre de la règle 1 : les cageots de salades, choux, courges et potirons du marché de la place des Citernes, photographiés par la Ville de Bordeaux, **recadrés sous les silhouettes** — ce n'est pas le marché de Caudéran et la présente note est là pour le dire)
+- **Marché Escudier** (l'un des deux grands marchés de Boulogne-Billancourt, décrit par la Ville en trois chiffres — 3 200 m², environ 81 commerçants, 71 % de commerces alimentaires — et pas un seul étal nommé. `produits` ne porte donc que « Produits alimentaires », et la description le dit. L'annuaire des commerces de la Ville, encore indexé par son moteur de recherche, renvoie une 404 : la liste des commerçants n'existe plus en ligne. Numéro de voirie du 9 boulevard Jean-Jaurès à 0,984. Le téléphone publié est celui des placiers **sur** les marchés Escudier et Billancourt, que la Ville donne à côté de ceux du service : un numéro de terrain, utile à qui cherche le marché, et non une ligne personnelle. Photo : l'étal de fruits secs et de confiseries du marché des producteurs de la commune, prise par la Ville, règle 1)
+- **Marché Billancourt** (le plus grand des trois, 3 800 m² et environ 80 commerçants dont 73 % d'alimentaire, mêmes réserves que pour Escudier sur les étals. L'adresse de la Ville est une intersection, « angle rue des Quatre Cheminées / rue du Vieux Pont de Sèvres », et la rue du Vieux-Pont-de-Sèvres ne porte aucun numéro de voirie dans la Base Adresse Nationale à cet endroit : le géocodage inverse le long de cette intersection y trouve une **« Place du Marché »**, que la Base Adresse Nationale connaît comme lieu-dit à 0,960 et à 55 m du dernier numéro de la rue des Quatre-Cheminées. Ce n'est pas tout à fait la règle 50 — les deux odonymes de la Ville sont connus de la Base Adresse Nationale, c'est leur intersection qui n'a pas d'adresse, et le troisième nom vient de la Base Adresse Nationale elle-même et non d'une autre source — mais la conclusion est la même : le point publié est celui que la Base Adresse Nationale connaît le mieux, et l'adresse porte les trois noms. Photo : la planche à pains du marché des producteurs de la commune, **recadrée sous la ligne des visages** au titre de la règle 46)
+- **Marché biologique de Boulogne-Billancourt** (pilier `environnement` par la règle 49 : « Marché biologique » est l'un des trois intitulés de la liste officielle des marchés de la Ville, à côté de « Marché Escudier » et « Marché Billancourt » — une classification qui retient un marché sur trois trie réellement. C'est aussi le plus dense en alimentaire des trois, 86 %, pour quinze commerçants et 360 m². L'adresse de la Ville est une emprise, « route de la Reine (côté pair) entre la rue de l'Ancienne mairie et la rue de Billancourt » : les deux intersections ont été retrouvées par géocodage inverse le long de la route de la Reine, et le point publié est le milieu du tronçon, entre les numéros pairs 112 et 122. Aucun téléphone : la Ville ne donne pour ce marché ni placier ni ligne dédiée, et le standard du service des marchés n'a pas été publié à sa place. Photo : l'étal d'herbes aromatiques et d'huiles du marché des producteurs de la commune, **recadré sous la ligne des visages**, règle 46)
+- **AMAP de Boulogne-Billancourt** (association immatriculée sous NAF 94.99Z, un établissement ouvert, et le seul point de vente en circuit court que la commune compte hors marchés. Son propre site titre « Nos producteurs 100 % BIO » et détaille les sept fermes partenaires ferme par ferme, ce qui fonde le pilier `environnement` sans passer par la règle 49. Le lieu de distribution, la Maison de la Planète du 72 allée du Forum, est donné à l'identique par le site de l'AMAP et par l'annuaire du réseau AMAP d'Île-de-France ; numéro de voirie à 0,975. L'adresse du siège au registre des entreprises, rue Yves-Kermen, n'est pas un lieu de vente et n'est pas publiée : c'est le lieu de distribution qui l'est. Le seul contact public de l'association est une adresse de courriel, qui n'est pas publiée non plus. La seule photographie de son site montre deux visages nets et n'a pas été retenue ; la photo publiée est un cageot de basilics du marché des producteurs de la commune, règle 1)
+- **AMAP Graines d'Issy** (**première fiche publiée au titre de la règle 52** : cinquième point de la passe, pris à Issy-les-Moulineaux faute d'un cinquième à Boulogne-Billancourt, même intercommunalité — Grand Paris Seine Ouest — et 2,43 km du barycentre des quatre autres. Association immatriculée sous NAF 94.99Z depuis novembre 2020, un établissement ouvert. Horaires contredits : l'annuaire du réseau AMAP d'Île-de-France écrit « mercredi 19h15-20h », le site de l'association écrit « le mercredi soir de 19h15 à 19h45 » — c'est le site de l'association qui est publié, règle 44. Deux fermes partenaires seulement sont nommées, la ferme Camelot pour les légumes et la ferme des Beurreries pour les œufs : `produits` s'en tient à ces deux lignes. Pas de pilier `environnement` : l'association écrit vouloir des produits « biologiques et de saison » et se réclame de la charte des AMAP, mais aucune source ne certifie ses deux fermes, et une intention n'est pas un cahier des charges — la règle 45 demande une obligation écrite. La page « bureau » du site publie les photographies et les numéros de téléphone personnels des membres : rien n'en est repris, et l'adresse du siège au registre, un appartement, n'est pas publiée. Photo : les cageots de fraises et de cerises d'un marché d'Issy-les-Moulineaux, photographiés par la Ville, aucun visage, règle 1)
 
-Les 273 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 278 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -847,6 +872,93 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Boulogne-Billancourt et à Issy-les-Moulineaux
+
+Septième passe en ville, la plus pauvre en sources jusqu'ici, et la première où
+la commune calculée n'a pas rendu cinq points : d'où la règle 52 et le cinquième
+point pris à Issy-les-Moulineaux.
+
+**Le site de la Ville est derrière un pare-bot qui rend `curl` inutilisable.**
+`boulognebillancourt.com` répond à toute requête en ligne de commande par une
+coquille HTML qui redirige en JavaScript vers `/redirect_<jeton>/...`, et suivre
+ce chemin renvoie une 403 ou la page d'accueil. Le site n'a pas de `sitemap.xml`.
+Le contournement, pour les passes suivantes : ouvrir une page dans le navigateur
+intégré, y lire `document.cookie` pour récupérer `bot_mitigation_cookie` et
+`navigator.userAgent`, puis rejouer les requêtes `curl` avec **ce cookie, cet
+user-agent, l'hôte `www.` et l'en-tête `Sec-Fetch-Dest`** — `document` pour les
+pages, `image` pour les fichiers. Sans l'un de ces quatre éléments, la requête
+retombe sur le pare-bot. Le moteur de recherche interne est en Apache Solr, à
+`/recherche-avancee?tx_solr[q]=...`, et il indexe encore des pages dépubliées :
+la fiche « Réouverture du marché de Billancourt » et l'annuaire des commerces
+sortent dans les résultats et renvoient une 404.
+
+**La Ville ne publie aucune liste d'étals.** Sa page « Marchés alimentaires »
+donne pour chaque marché la surface, le nombre de commerçants et le pourcentage
+de commerces alimentaires — et rien d'autre. Les trois fiches de marché s'en
+tiennent donc à « Produits alimentaires », et le disent. C'est la troisième
+commune, après Saint-Denis et Lyon, où la seule source disponible compte les
+étals sans les nommer.
+
+**Marché des producteurs, non publié.** La Ville annonce « chaque année en
+octobre, pendant trois jours sur la Grand Place : produits du terroir en vente
+directe ». Un événement annuel dont aucune date n'est publiée n'est pas un lieu
+où l'on peut se rendre : une fiche l'aurait fait venir quelqu'un pour rien
+onze mois sur douze. Rien n'a été publié. Sa galerie de photographies, en
+revanche, a fourni quatre des cinq images de la passe : ce sont de vraies
+photographies de marché alimentaire prises dans la commune, ce que la règle 1
+autorise, et chaque fiche à confirmer dit laquelle.
+
+**Le registre de l'Agence Bio ne donne rien dans le 92.** 1 073 opérateurs
+chargés pour le département, dont **121 adresses à Boulogne-Billancourt** :
+des Carrefour City, Carrefour Bio, Franprix, Monoprix, Naturalia, Biocoop,
+La Vie Claire, des boulangeries, des importateurs et des sièges sociaux —
+Barilla, Lavazza, Carte Noire, Yoplait. MODERATION.md écarte les supermarchés
+certifiés bio, et un siège social n'est pas un point de vente. Deux entrées
+portent pourtant un code NAF de production : `SCEA DU CHAMP DE LA VIGNE`
+(01.50Z, 66 rue du Château) et `LA MADELEINE` (01.24Z, culture de fruits à
+pépins, 121 rue d'Aguesseau). Aucune vigne ni aucun verger à ces adresses, en
+plein tissu urbain : ce sont des sièges d'exploitations situées ailleurs. Rien
+n'a été publié, et la piste est notée ici pour qu'une passe suivante ne la
+reprenne pas de zéro.
+
+**Aucun jeu de données ouvert exploitable.** `opendata.hauts-de-seine.fr` et
+`data.iledefrance.fr` ne publient que des marchés publics au sens des marchés
+d'achat. Le site de Grand Paris Seine Ouest, `seineouest.fr`, dont le
+`sitemap.xml` compte 431 URL, n'a aucune page sur les marchés alimentaires de
+ses communes. Rien d'équivalent au jeu `de_pat_p` de Bordeaux.
+
+**La Ruche qui dit Oui n'a pas pu être interrogée.** `laruchequiditoui.fr`
+renvoie une 403 CloudFront à toute requête `curl`, `robots.txt` et
+`sitemap.xml` compris ; ouvert dans le navigateur, son API `/api/v2/assemblies`
+répond « CORS Forbidden » même appelée depuis son propre domaine, et la liste
+des ruches ne se filtre pas par l'URL. L'existence d'une ruche à
+Boulogne-Billancourt n'est donc ni établie ni écartée. À reprendre par un autre
+chemin.
+
+**Les autres AMAP du 92, pistes pour les passes suivantes.** L'annuaire du
+réseau AMAP d'Île-de-France recense 47 fiches dans le département, dont une
+seule à Boulogne-Billancourt. Dans l'intercommunalité voisine immédiate :
+Amap d'Issy et d'Ailleurs (54 rue d'Erevan, mardi 18h-19h45, site en 404),
+Panier d'Issy (53 rue du Général-Leclerc, mardi 17h30-19h30, marquée
+« complet »), AMAP de l'Ile-Saint-Germain (53 avenue du Bas-Meudon, mercredi
+18h30-19h30, pas de site, contact par courriel seulement) ; puis à Vanves les
+Radis en Éventail, le Panier vanvéen et les Paniers de l'échange, tous trois
+rue Fratacci ; à Meudon le Potager Meudonnais, les Paniers du Bois Dais et
+l'AMAP du Val Fleury ; à Chaville l'AMAP au panier, les 4 Saisons et le
+Monstrueux du Marivel ; à Ville-d'Avray l'AMAP des Étangs. Deux d'entre elles
+sont annoncées complètes.
+
+**Données personnelles écartées.** L'annuaire du réseau AMAP publie, pour une
+grande partie de ses fiches, le nom du référent, son téléphone mobile et son
+adresse de courriel personnelle : rien de tout cela n'apparaît sur la carte. La
+page « bureau » du site de Graines d'Issy publie les portraits et les numéros de
+téléphone des membres du bureau — écartée. Le registre des entreprises domicilie
+cette association chez une particulière, à une adresse écrite « appart. 115
+chez… », dans une rue qui n'est même pas celle de la distribution : c'est le
+lieu de distribution, un équipement municipal, qui est publié. Le siège de
+l'AMAP de Boulogne-Billancourt, rue Yves-Kermen, n'est pas davantage un point de
+vente et n'est pas publié non plus.
 
 ### Pistes non publiées à Bordeaux
 
