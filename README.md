@@ -688,9 +688,32 @@ prioritaires en cas de conflit.
    renommé reste publiable, à son emplacement actuel, sans être bloqué par un texte réglementaire
    ancien que rien n'a formellement abrogé.
 
+59. **Sous le seuil de 700 px, la vraie photo du lieu ne cède la place à une photo thématique que
+   s'il en existe une, nette et de la même commune.** AGENT.md écrit « en dessous de ~700 px
+   l'image sera floue en bandeau, il vaut alors mieux une photo thématique nette » : la préférence
+   suppose qu'une telle photo existe. Critère, dans cet ordre : chercher une photo thématique nette
+   de la même commune au titre de la règle 1 ; si aucune n'existe, publier la vraie photo du lieu
+   même sous le seuil, **sans jamais l'agrandir**, et consigner l'écart ici. Plancher fixé à
+   **600 px** : en dessous, pas de fiche du tout. Rencontré au marché du Mont-Mesly à Créteil,
+   dont la seule photographie publiée par la Ville fait 660 × 300. Ce que la règle débloque : un
+   marché de quartier correctement documenté n'est plus écarté pour quarante pixels manquants,
+   alors qu'aucune image de remplacement honnête n'existe.
+
+60. **Quand un intermédiaire revendique le bio par la voix de son fournisseur, le pilier
+   `environnement` exige de retrouver ce fournisseur dans un registre.** Une AMAP, un magasin ou
+   un marché qui écrit « nos légumes viennent de tel producteur bio » transmet une revendication,
+   pas une obligation écrite au sens de la règle 45. Critère : nommer le fournisseur ne suffit
+   pas, il faut que son certificat soit consultable — registre de l'Agence Bio, ou organisme
+   certificateur. S'il reste introuvable, `environnement` n'est pas coché et la description
+   rapporte la revendication en l'attribuant à celui qui la porte. Rencontré aux Paniers de
+   Créteil, dont les légumes viennent des « Paniers bio du Val-de-Marne », enseigne absente du
+   registre de l'Agence Bio pour le Val-de-Marne comme du registre national des entreprises.
+   Même issue qu'à l'AMAP de Chelles, pour une raison différente : là le miel était déclaré non
+   garanti, ici le certificat du fournisseur est introuvable.
+
 ## Marchands à confirmer
 
-269 fiches sur 303 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+274 fiches sur 308 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -963,7 +986,13 @@ prioritaires en cas de conflit.
 - **Marché du Nouveau Roubaix** (**le seul marché du lundi matin**, et le cas qui a fait écrire la règle 58 : l'annexe II du règlement de mai 2019 le nomme « Nouveau Roubaix RUBENS » et le place rue Rubens, la page des marchés le nomme aujourd'hui « Nouveau Roubaix INGRES » et le place rue Ingres — deux rues de peintres du même quartier, les rues Raphaël et Léonard-de-Vinci étant décrites à l'identique par les deux textes. C'est la page à jour qui est publiée. Point BAN sur la rue Ingres à 0,981. Photo : la portion droite de la même photographie de marché de la Ville, courgettes, tomates cerise, concombres et brocolis — un cadrage franchement distinct de celui du centre-ville, mais tiré du même cliché, ce que la présente note signale)
 - **L'âne hilare** (Roubaix) (épicerie biologique et vrac de 175 m² en centre-ville, **la seule fiche de cette passe qui ne soit pas un marché**. Le pilier `environnement` vient du registre de l'Agence Bio, qui porte l'enseigne en activité « Distribution » avec un certificat **engagement en cours** aux deux adresses qu'elle occupe, 5 rue de l'Hospice et 41 rue des Arts — le registre des entreprises confirme deux établissements ouverts. Le magasin est plus nuancé que son certificat et la fiche suit le magasin : il écrit « bio à 100 % » pour ses fruits et légumes mais « ils ne sont pas tous labellisés bio » pour l'ensemble de ses producteurs, qu'il dit relever d'une agriculture paysanne dans un rayon de 70 km ; la description ne revendique donc rien de plus que ce que le magasin revendique. Les deux producteurs nommés dans la description, le Potager des 4 Vents à Annezin et les Jardins de la Fontaine à Croix, sont ceux que le magasin nomme lui-même. Le seul numéro publié est un portable, donné par le magasin comme son numéro de contact : il est repris, comme pour la Ferme Horticole de Lomme. **Les prénoms des deux gérants, que le magasin publie sur sa page « à propos », ne le sont pas ici.** Point BAN sur le numéro 5 à 0,969. Photo : l'intérieur du magasin publié par le magasin, cageots de poires, carottes, courgettes et haricots sous l'enseigne « fruits et légumes », **recadrée à gauche de l'unique personne du cadre**)
 
-Les 303 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché de Créteil Village** (l'un des deux seuls marchés d'alimentation de détail de la ville. Les cinq produits sont les spécialités que la Ville énumère — poissonnerie, charcuterie, boucherie, fruits et légumes, fleuriste — suivies chez elle d'un « etc. » que la fiche ne complète pas. **Nom et jours contredits, tranchés par la règle 58** : un article municipal de mai 2016 appelle le même marché « Centre Ancien » et le dit ouvert *deux fois par semaine*, le jeudi et le dimanche ; la page de référence des marchés forains, mise à jour le 2 avril 2026, l'appelle « Créteil Village » et n'annonce plus que le dimanche. C'est la page datée la plus récente qui est publiée. Point BAN sur la rue des Écoles à 0,977. Photo : la halle elle-même, photographiée par la Ville — l'enseigne « MARCHÉ DE CRÉTEIL VILLAGE » est lisible au zoom sur le totem de gauche, ce qui attribue la photographie à ce marché-ci et pas à l'autre ; deux silhouettes lointaines traversent la rue, aucun visage identifiable)
+- **Marché du Mont-Mesly** (**première fiche publiée au titre de la règle 59** : la seule photographie de ce marché publiée par la Ville fait 660 × 300, sous le seuil indicatif de 700 px d'AGENT.md, et aucune photo thématique nette d'un marché cristolien n'existe par ailleurs — celle du Village est attribuée au Village. Elle est publiée telle quelle, sans agrandissement. `produits` ne porte qu'une seule ligne : la Ville écrit « commerces alimentaires de détail » sans jamais énumérer les étals, et cite à côté des activités que MODERATION.md écarte — bouquiniste, mercerie, droguerie ; même discipline qu'à Porchefontaine, Jussieu-Montreuil et Arnaud-Bernard. Le marché a été reconstruit au sud du collège Laplace avec un parking public de 55 places, financé à 1,5 M€ par Créteil Habitat Semic. Point BAN sur la rue Juliette-Savar à 0,977)
+- **Couleur Vrac** (Créteil) (épicerie de vrac ouverte en 2019, certificat **engagement en cours** au registre de l'Agence Bio en activité « Distribution », d'où le pilier `environnement`. **Horaires du dimanche contredits par le magasin lui-même**, 9h30-13h30 sur sa page « Infos » contre 9h30-13h sur sa page d'accueil : les deux sont publiées et attribuées, règle 55 — aucune n'est datée, donc la règle 58 ne s'applique pas. Le chiffre de « 42 % de fournisseurs à moins de 200 km » est daté de septembre 2021 par le magasin, et la fiche le date aussi. **Aucun téléphone publié** : le seul numéro du site est un mobile figurant dans les mentions légales au nom de la directrice de la publication, avec son adresse électronique — ni l'un ni l'autre ne sont repris, MODERATION. Photo : la vitrine du magasin publiée par le magasin, logo, mode d'emploi du vrac et distributeurs, personne dans le cadre)
+- **L'Épicerie Bio du Village** (Créteil) (l'enseigne déclarée au registre est bien « L'EPICERIE BIO DU VILLAGE », sur une société nommée CLARISSE BOUTIQUE : c'est l'enseigne qui est publiée. Certificat **engagement en cours** au registre de l'Agence Bio, activité « Distribution », d'où le pilier `environnement`. Horaires jour par jour repris du tableau du magasin, qui contredit d'une demi-heure son propre résumé « du mardi au dimanche matin, 9h30-13h30 / 15h-19h » : le tableau, plus précis, ferme le dimanche à 13h et le lundi toute la journée. Le magasin se présente comme indépendant et membre du réseau Accord Bio. Photo : l'illustration que le magasin publie en tête de son rayon fruits et légumes — c'est son image, pas une vue de la boutique, et la présente note est là pour le dire. À 187 m de Couleur Vrac : deux commerces distincts aux n° 48 et 17 de la même rue piétonne)
+- **Les Paniers de Créteil** (**première fiche publiée au titre de la règle 60**, et donc **sans pilier `environnement`** : l'AMAP écrit que ses légumes sont « issus de l'agriculture biologique » et viennent des « Paniers bio du Val-de-Marne », mais cette enseigne est introuvable au registre de l'Agence Bio du 94 comme au registre national des entreprises — la revendication est rapportée, pas cochée. Les huit produits sont ceux que l'association énumère elle-même sur sa page de présentation. **Horaires contredits** entre l'AMAP et l'annuaire du réseau AMAP d'Île-de-France sur le point de l'université, 12h-19h contre 12h-18h : comme à Chelles, l'annuaire est renseigné par l'adhérent-relais de l'AMAP, donc aucune source n'est tierce et les deux sont publiées, règle 5. L'annuaire ne donne aucun jour pour la MJC Club Charpy, que l'AMAP situe le vendredi de 18h à 20h. Adresse aussi contredite : l'AMAP écrit « 11, avenue du Général Leclerc » pour le point Le Colibri quand l'annuaire écrit « rue », et la Base Adresse Nationale ne connaît qu'une **rue** — c'est « rue » qui est publié. Le point de la fiche est le centre socioculturel Madeleine-Rebérioux, seul des quatre points à porter un numéro de voirie, BAN 0,972. **Les noms, mobiles et courriels des quatre adhérents-relais publiés par l'annuaire ne sont pas repris.** Photo : le bandeau de cagettes de légumes du site de l'AMAP, aucun visage)
+
+Les 308 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -991,6 +1020,89 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Vitry-sur-Seine et à Créteil
+
+Treizième passe en ville. Département visé : le **Val-de-Marne (94)**, déficit **6,2704** fiche au
+sens de la règle 41, aucune fiche publiée. Ce n'est pas le premier au classement : le
+Pas-de-Calais mène à **6,4065**, mais il est en **région 32**, celle que la passe précédente a
+visée avec le Nord — la réserve de la règle 41.c l'écarte. Le 94 est en région 11, visée deux
+passes plus tôt seulement, ce que la réserve autorise. Après la passe, le déficit du 94 tombe à
+**1,35** et le Pas-de-Calais reste en tête.
+
+**Descente d'échelle : Vitry-sur-Seine n'a pas rendu ses cinq points.** La commune la plus peuplée
+du département sans aucune fiche est **Vitry-sur-Seine, 93 963 habitants**, et c'est là que la
+passe a commencé. Elle n'a rendu que trois pistes solides, et le prompt demande alors de descendre
+à la suivante par population : **Créteil, 93 397 habitants**, quatre cents habitants derrière.
+Voici ce que Vitry a donné, à reprendre au prochain passage :
+
+- **Les deux marchés municipaux**, bien documentés par la Ville sur une page mise à jour le
+  4 juillet 2025 : le **marché du Centre-ville**, place du Marché, « tous les mercredis et samedis
+  matins, jusqu'à 13h », que la Ville dit « l'un des plus grands du Val-de-Marne », et le **marché
+  du 8-Mai-1945**, 9 avenue du 8-Mai-1945, « les mardis, jeudis et dimanches matins, jusqu'à 13h »,
+  sous une halle rénovée. Les deux fiches d'équipement de la Ville portent le même numéro,
+  **01 46 82 82 15**, qui n'est pas le standard de l'hôtel de ville (01 46 82 80 00) : c'est bien
+  un numéro de service des marchés, publiable comme tel — contrairement au cas du marché
+  Notre-Dame à Versailles. **La Base Adresse Nationale ne connaît pas la « place du Marché » de
+  Vitry** : elle rend la rue de la Marne à 0,586. Le 9 avenue du 8-Mai-1945 est en revanche à
+  0,967.
+- **La Clef des Sols**, 65 rue Watteau, maraîchage sur le plateau de Vitry. EARL active au registre
+  sous le code NAF 01.13Z « culture de légumes », immatriculée en avril 2014, et engagement bio
+  **Certipaq ouvert le 11 juillet 2014, jamais arrêté**. Son blog `laclefdessols.blog` est déclaré
+  site officiel au registre de l'Agence Bio, il est vivant — dernier billet du 31 août 2026 — et
+  il publie la **récolte de la semaine avec ses prix** ainsi que les modalités : commandes reçues
+  jusqu'au jeudi 20h, récolte et distribution le vendredi entre 18h et 18h30 à Vitry, puis entre
+  19h30 et 20h à Cachan, où l'exploitation fournit l'AMAP K'Champs depuis l'automne 2015. Point
+  BAN sur le 65 à 0,974, à trois mètres du point du registre de l'Agence Bio. **Ce qui manque pour
+  publier : le lieu exact de la distribution vitriote**, que la ferme ne nomme pas — « à Vitry »
+  et rien de plus. L'exploitation est immatriculée au patronyme de son exploitante et le blog est
+  signé de son nom : c'est l'enseigne, et elle seule, qui serait publiée.
+- **La ferme du bout de la rue**, 25 avenue Lemerle-Vetter, au sud du parc des Lilas :
+  **deuxième cas de la règle 57**, écrite la passe précédente pour la ferme urbaine du Trichon.
+  Tout est vérifiable — société active au registre depuis septembre 2024, engagement bio Ecocert
+  du 12 novembre 2024, vente aux particuliers déclarée au registre de l'Agence Bio, neuf
+  productions déclarées (figues, poires, pommes, prunes, cerises, baies, légumes) — mais les deux
+  sources les plus proches parlent au futur. La page « agriculture urbaine » de la Ville écrit
+  « les maraîchers y **feront** pousser des fruits et légumes qui **seront** vendus à la ferme sous
+  forme de paniers » ; son article d'inauguration du 26 septembre 2025 écrit « ses produits
+  **seront** proposés à la vente via des paniers et lors de marchés hebdomadaires » et « d'ici cinq
+  ans, la ferme **devrait atteindre** sa pleine production ». Le domaine `fermeduboutdelarue.fr`
+  répond mais n'affiche qu'une page « Site en construction » d'hébergeur — un cas de plus pour la
+  règle 56. **Critère de déblocage : une date de première vente, ou des jours de panier publiés.**
+  À noter, la ferme est à 190 m de la Clef des Sols, deux exploitations distinctes du même
+  plateau.
+- **Ce que Vitry n'a pas** : aucune AMAP. L'annuaire du réseau AMAP d'Île-de-France recense
+  **33 AMAP dans le Val-de-Marne et aucune à Vitry-sur-Seine**. Aucun Biocoop, aucune Naturalia,
+  aucune Ruche qui dit Oui, aucune épicerie vrac au registre. Et sur les 79 opérateurs bio que
+  l'Agence Bio enregistre à Vitry, la grande majorité sont les sièges des sociétés Franprix,
+  toutes domiciliées quai Jules-Guesde — un artefact d'adresse, pas des commerces.
+- **La ferme Florale Urbaine**, dans le parc des Lilas, cultive des fleurs coupées livrées à vélo
+  à des professionnels : hors sujet, ce site référence de l'alimentaire.
+- **Planète Lilas**, 78 avenue Lemerle-Vetter, association active au registre depuis 2006, cultive
+  plusieurs hectares dans le parc des Lilas et ouvre des visites guidées payantes. Elle n'est pas
+  au registre de l'Agence Bio et aucune source ne lui prête de vente aux particuliers : la piste
+  attend un point de vente et des horaires.
+
+**Ce que Créteil a donné, et ce qui n'a pas été publié.**
+
+- **Le marché artisanal de Créteil Village**, organisé par l'association des commerçants et
+  artisans le premier samedi de chaque mois sauf en août : marché d'artisanat, pas
+  d'approvisionnement alimentaire. Écarté par MODERATION.md.
+- **Maison Maeder**, 38 rue du Général-Leclerc, pâtisserie immatriculée sous le code NAF 10.71D,
+  active, avec un engagement bio en cours et la vente aux particuliers déclarée. C'est un
+  commerce de bouche, pas un circuit court : écartée comme les boulangeries de Tourcoing, pour
+  garder la même règle d'un bout à l'autre de la carte.
+- **Le Panier du Primeur**, 1 rue François-Mansart, engagement bio en cours mais ne déclare que la
+  vente aux professionnels de détail. **Pure Date**, 1 rue Jean-Hémard, vend aux particuliers mais
+  importe des dattes : ni l'un ni l'autre n'est un circuit court.
+- **Les trois autres points de dépôt des Paniers de Créteil** — le fleuriste Le Colibri, la MJC
+  Club Charpy, la Maison de l'innovation de l'université — ne font pas de fiches séparées : c'est
+  une seule AMAP, comme à Chelles. Ils sont nommés dans le champ `horaires` de sa fiche.
+- **Le site de la Ville de Créteil n'a pas de sitemap** : `sitemap.xml` et `sitemap_index.xml`
+  rendent tous deux une page 404 de 26 ko, et le `robots.txt` ne dit rien d'utile. Les pages se
+  trouvent par leur slug. Son annuaire des commerces, `mes-commerces.ville-creteil.fr`, répond
+  **403** à tout accès automatisé et n'a donc pas pu servir. Les photographies utilisables sont
+  dans `/img/photos/`, en petit format : c'est de là que vient la règle 59.
 
 ### Pistes non publiées à Tourcoing et à Roubaix
 

@@ -7856,5 +7856,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L'âne+hilare+5+rue+de+l'Hospice+Roubaix",
     "image_url": "/images/marchands/l-ane-hilare.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-creteil-village",
+    "nom": "Marché de Créteil Village",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.789817,
+    "lon": 2.467343,
+    "adresse": "Rue des Écoles, 94000 Créteil",
+    "horaires": "Dimanche matin, de 8h à 13h",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Charcuterie",
+      "Boucherie",
+      "Fleuriste"
+    ],
+    "description": "L'un des deux marchés d'alimentation de détail de Créteil, sous la halle bleue de la rue des Écoles : vingt-neuf commerçants abonnés et autant de volants, que la Ville présente comme « toutes les spécialités de la consommation familiale ». Le calendrier du marché est ponctué d'animations, du beaujolais nouveau aux décorations de Noël.",
+    "site_web": "https://www.ville-creteil.fr/les-marches-forains",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Créteil+Village+rue+des+Écoles+Créteil",
+    "image_url": "/images/marchands/marche-de-creteil-village.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mont-mesly",
+    "nom": "Marché du Mont-Mesly",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.781281,
+    "lon": 2.465009,
+    "adresse": "Rue Juliette-Savar, 94000 Créteil",
+    "horaires": "Mardi et vendredi matin, de 8h à 13h",
+    "produits": [
+      "Commerces alimentaires de détail"
+    ],
+    "description": "Le plus grand des deux marchés de Créteil : trente-trois commerçants abonnés sur plus de 300 m² et plus de cent vingt volants, à côté du collège Laplace. La Ville n'en publie pas la liste des étals, seulement la mention de « commerces alimentaires de détail » à côté d'activités diverses — bouquiniste, mercerie, droguerie.",
+    "site_web": "https://www.ville-creteil.fr/les-marches-forains",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Mont-Mesly+rue+Juliette+Savar+Créteil",
+    "image_url": "/images/marchands/marche-du-mont-mesly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "couleur-vrac",
+    "nom": "Couleur Vrac",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.793161,
+    "lon": 2.462371,
+    "adresse": "17 rue du Général-Leclerc, 94000 Créteil",
+    "horaires": "Du mardi au vendredi de 9h30 à 13h30 et de 15h à 19h ; le samedi de 9h30 à 13h30 et de 14h30 à 19h ; le dimanche de 9h30 à 13h30 selon la page « Infos » du magasin, de 9h30 à 13h selon sa page d'accueil",
+    "produits": [
+      "Épicerie salée et sucrée en vrac",
+      "Fruits secs et oléagineux",
+      "Pâtes et céréales",
+      "Crémerie : beurre, yaourts, faisselles",
+      "Fromages de chèvre et de brebis",
+      "Pain au levain biologique",
+      "Bières locales consignées",
+      "Miel"
+    ],
+    "description": "Épicerie de vrac ouverte en 2019 dans la rue piétonne du Village, où l'on apporte ses contenants, on les pèse, on les remplit et on ne paie que le contenu. Le magasin travaille avec une cinquantaine de fournisseurs engagés dans la filière vrac, bio et équitable, dont 42 % étaient à moins de 200 km en septembre 2021 — la brasserie Deck & Donohue, les Ruchers de Saint-Maur, le pain au levain de Délicieusement Bio.",
+    "site_web": "https://couleurvrac.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Couleur+Vrac+17+rue+du+Général+Leclerc+Créteil",
+    "image_url": "/images/marchands/couleur-vrac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "l-epicerie-bio-du-village",
+    "nom": "L'Épicerie Bio du Village",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.791798,
+    "lon": 2.463866,
+    "adresse": "48 rue du Général-Leclerc, 94000 Créteil",
+    "horaires": "Du mardi au samedi de 9h30 à 13h30 et de 15h à 19h, le dimanche de 9h30 à 13h ; fermé le lundi",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Rayon frais",
+      "Épicerie salée",
+      "Épicerie sucrée",
+      "Thés, cafés et infusions",
+      "Produits sans gluten",
+      "Boissons"
+    ],
+    "description": "Boutique indépendante de la rue piétonne du Village, membre du réseau Accord Bio qui réunit plus de deux cents magasins bio indépendants en France. Elle choisit elle-même ses fournisseurs, commande à la demande les produits qu'on lui réclame, et son équipe compte des naturopathes.",
+    "telephone": "01 49 81 90 90",
+    "site_web": "https://www.epiceriebioduvillage.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Épicerie+Bio+du+Village+48+rue+du+Général+Leclerc+Créteil",
+    "image_url": "/images/marchands/l-epicerie-bio-du-village.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-paniers-de-creteil",
+    "nom": "Les Paniers de Créteil",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.769505,
+    "lon": 2.464902,
+    "adresse": "Centre socioculturel Madeleine-Rebérioux, 27 avenue François-Mitterrand, 94000 Créteil",
+    "horaires": "Quatre points de dépôt à Créteil : mercredi de 18h à 19h30 au centre socioculturel Madeleine-Rebérioux et de 15h à 19h30 chez le fleuriste Le Colibri (11 rue du Général-Leclerc) ; jeudi de 12h à 19h à la Maison de l'innovation et de l'entrepreneuriat étudiant de l'université Paris-Est Créteil, l'annuaire du réseau AMAP d'Île-de-France indiquant pour sa part 12h à 18h ; vendredi de 18h à 20h à la MJC Club Charpy",
+    "produits": [
+      "Légumes hebdomadaires sur abonnement",
+      "Pain sur abonnement",
+      "Farines de blé et d'épeautre moulues à la meule de pierre, pâtes artisanales",
+      "Fromage de brebis et laitages au lait de vache",
+      "Volaille et œufs",
+      "Viande d'agneau, de bœuf et de porc",
+      "Miel, huile d'olive et champignons",
+      "Agrumes de Corse"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne créée en 2008, qui répartit ses distributions sur quatre points de dépôt dans la ville, du mercredi au vendredi. Les légumes viennent chaque semaine des Paniers bio du Val-de-Marne, les autres produits d'Île-de-France pour la plupart.",
+    "site_web": "https://www.lespaniersdecreteil.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre+socioculturel+Madeleine+Rebérioux+Créteil",
+    "image_url": "/images/marchands/les-paniers-de-creteil.jpg",
+    "a_confirmer": true
   }
 ]
