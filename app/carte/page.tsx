@@ -21,8 +21,8 @@ export default function CartePage() {
           La carte des marchands
         </h1>
         <p className="mt-0.5 hidden text-sm text-foreground/60 sm:block">
-          Cherchez autour de l&apos;Hôpital Bonnet, de votre adresse ou de
-          votre position.
+          Point de départ par défaut : l&apos;Hôpital Bonnet. Vous pouvez
+          aussi saisir une adresse ou utiliser votre position.
         </p>
       </div>
       <CarteExplorer initial={initial} />

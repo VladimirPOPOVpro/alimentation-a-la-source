@@ -1,7 +1,8 @@
 import Link from "next/link";
-import { ArrowRight, FileDown, Leaf, MapPin } from "lucide-react";
+import { ArrowRight, FileDown, FlaskConical, Leaf, MapPin } from "lucide-react";
 import HeroReveal from "@/components/HeroReveal";
 import { getAllMerchants } from "@/lib/merchants";
+import { PROTOTYPE, SIGNATURE } from "@/lib/prototype";
 
 export default function Home() {
   const merchantCount = getAllMerchants().length;
@@ -11,10 +12,20 @@ export default function Home() {
       <section className="relative flex flex-1 items-center overflow-hidden bg-gradient-to-b from-brand-green-light via-background to-background px-4 py-20 sm:px-6">
         <div className="mx-auto flex max-w-4xl flex-col items-center gap-6 text-center">
           <HeroReveal>
-            <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-medium text-brand-green-dark shadow-sm">
-              <Leaf className="h-4 w-4" aria-hidden="true" />
-              Comité Développement Durable, CHI Fréjus Saint-Raphaël
-            </span>
+            {/* Ce badge affichait le nom du comité, ce qui se lisait comme une
+                signature de l'établissement. Il annonce désormais le statut
+                réel du site. */}
+            {PROTOTYPE ? (
+              <span className="inline-flex items-center gap-2 rounded-full border border-amber-300 bg-amber-50 px-4 py-1.5 text-sm font-medium text-amber-900 shadow-sm">
+                <FlaskConical className="h-4 w-4" aria-hidden="true" />
+                {SIGNATURE}
+              </span>
+            ) : (
+              <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-medium text-brand-green-dark shadow-sm">
+                <Leaf className="h-4 w-4" aria-hidden="true" />
+                Comité Développement Durable, CHI Fréjus Saint-Raphaël
+              </span>
+            )}
           </HeroReveal>
 
           <HeroReveal delay={0.1}>
@@ -34,7 +45,7 @@ export default function Home() {
             <p className="max-w-xl text-base text-foreground/60">
               Consommer local, c&apos;est préserver sa santé, sa région et sa
               planète. Découvrez {merchantCount} marchands, fermes et marchés
-              autour de l&apos;Hôpital Bonnet, à Saint-Raphaël.
+              dans le Var, autour de Fréjus et Saint-Raphaël.
             </p>
           </HeroReveal>
 
@@ -69,18 +80,36 @@ export default function Home() {
       <section className="border-t border-brand-green-light bg-white px-4 py-14 sm:px-6">
         <div className="mx-auto max-w-4xl text-center">
           <p className="text-base leading-relaxed text-foreground/70">
-            Cette initiative est portée par le{" "}
-            <strong className="text-brand-green-dark">
-              comité Développement Durable – Responsabilité Sociétale et
-              Environnementale
-            </strong>{" "}
-            du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël, sur le
-            site de l&apos;Hôpital Bonnet. Notre objectif est simple : faire
-            connaître
-            aux équipes de l&apos;hôpital et aux habitants du secteur les
-            marchands locaux, les fermes en vente directe et les marchés de
-            producteurs qui font vivre notre région, tout en réduisant notre
-            empreinte environnementale au quotidien.
+            {PROTOTYPE ? (
+              <>
+                Ce site est une{" "}
+                <strong className="text-amber-900">
+                  maquette réalisée pour être proposée au CSE Bonnet
+                </strong>
+                . Il n&apos;émane pas du Centre Hospitalier Intercommunal Fréjus
+                Saint-Raphaël et n&apos;a fait l&apos;objet d&apos;aucune
+                validation de sa part. L&apos;idée qu&apos;il illustre est
+                simple : faire connaître aux habitants du secteur les marchands
+                locaux, les fermes en vente directe et les marchés de
+                producteurs qui font vivre la région, tout en réduisant
+                l&apos;empreinte environnementale des trajets et des
+                approvisionnements.
+              </>
+            ) : (
+              <>
+                Cette initiative est portée par le{" "}
+                <strong className="text-brand-green-dark">
+                  comité Développement Durable – Responsabilité Sociétale et
+                  Environnementale
+                </strong>{" "}
+                du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël, sur le
+                site de l&apos;Hôpital Bonnet. Notre objectif est simple : faire
+                connaître aux équipes de l&apos;hôpital et aux habitants du
+                secteur les marchands locaux, les fermes en vente directe et les
+                marchés de producteurs qui font vivre notre région, tout en
+                réduisant notre empreinte environnementale au quotidien.
+              </>
+            )}
           </p>
           <Link
             href="/pourquoi"

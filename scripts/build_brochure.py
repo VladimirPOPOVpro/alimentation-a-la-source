@@ -55,12 +55,29 @@ BODY = [
     "Scannez le QR code pour la carte interactive",
     "des marchands, fermes et marchés autour de l'Hôpital Bonnet.",
 ]
-# Coupures volontaires : le nom du comité ne doit pas être scindé n'importe où.
-COMMITTEE = [
+
+# Le statut du site, en bas de la brochure.
+#
+# La brochure circule seule, imprimée, détachée du site : c'est justement le
+# support où une signature institutionnelle absente de toute validation serait
+# le plus difficile à rattraper. Elle annonce donc ce qu'elle est.
+#
+# Doit rester aligné sur lib/prototype.ts. Le jour où le comité valide, basculer
+# PROTOTYPE à False ici ET dans lib/prototype.ts, puis régénérer la brochure.
+PROTOTYPE = True
+
+# Coupures volontaires : aucune de ces mentions ne doit être scindée n'importe où.
+COMMITTEE_PROTOTYPE = [
+    ("Prototype pour CSE Bonnet", "semibold"),
+    ("Maquette de proposition — ce document n'émane pas", "regular"),
+    ("du CHI Fréjus Saint-Raphaël et n'engage pas l'établissement.", "regular"),
+]
+COMMITTEE_VALIDE = [
     ("Une initiative du comité Développement Durable –", "semibold"),
     ("Responsabilité Sociétale et Environnementale", "semibold"),
     ("CHI Fréjus Saint-Raphaël, site Hôpital Bonnet", "regular"),
 ]
+COMMITTEE = COMMITTEE_PROTOTYPE if PROTOTYPE else COMMITTEE_VALIDE
 
 
 def load_fonts() -> tuple[str, str, str]:

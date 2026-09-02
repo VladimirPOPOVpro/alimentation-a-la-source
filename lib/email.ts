@@ -1,4 +1,5 @@
 import nodemailer, { type Transporter } from "nodemailer";
+import { PROTOTYPE, SIGNATURE as MENTION_PROTOTYPE } from "./prototype";
 
 /**
  * Envoi des réponses aux personnes qui ont soumis une demande.
@@ -72,10 +73,20 @@ function sanitize(input: string | null | undefined, max: number): string {
     .slice(0, max);
 }
 
-const SIGNATURE =
-  "L'Alimentation à la Source\n" +
-  "Comité Développement Durable – Responsabilité Sociétale et Environnementale\n" +
-  "CHI Fréjus Saint-Raphaël, site Hôpital Bonnet";
+/**
+ * Ce que signent les messages envoyés aux personnes qui proposent un commerce.
+ *
+ * Tant que le projet est une proposition, signer au nom du comité ferait croire
+ * à un courrier institutionnel — auprès de commerçants, c'est exactement ce
+ * qu'il ne faut pas faire. La signature suit donc lib/prototype.ts.
+ */
+const SIGNATURE = PROTOTYPE
+  ? "L'Alimentation à la Source\n" +
+    `(${MENTION_PROTOTYPE})\n` +
+    "Site prototype, sans lien officiel avec le CHI Fréjus Saint-Raphaël"
+  : "L'Alimentation à la Source\n" +
+    "Comité Développement Durable – Responsabilité Sociétale et Environnementale\n" +
+    "CHI Fréjus Saint-Raphaël, site Hôpital Bonnet";
 
 interface Gabarit {
   objet: (nom: string) => string;
@@ -89,8 +100,8 @@ const GABARITS: Record<EmailDecision, Gabarit> = {
       `Bonjour,\n\n` +
       `Merci d'avoir proposé « ${nom} » sur la carte de L'Alimentation à la Source.\n\n` +
       `Nous avons vérifié les informations et la fiche est maintenant en ligne. ` +
-      `Votre contribution aide les habitants du secteur et le personnel de l'hôpital ` +
-      `à trouver des producteurs près de chez eux.\n\n` +
+      `Votre contribution aide les habitants du secteur à trouver des producteurs ` +
+      `près de chez eux.\n\n` +
       `Si vous constatez une erreur sur la fiche, le bouton « Signaler une erreur » ` +
       `en bas de celle-ci nous la fera remonter.\n\n` +
       `Merci encore,`,

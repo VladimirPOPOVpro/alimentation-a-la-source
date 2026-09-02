@@ -1,4 +1,5 @@
 import { FileDown } from "lucide-react";
+import { PROTOTYPE, SIGNATURE } from "@/lib/prototype";
 
 export default function Footer() {
   return (
@@ -12,9 +13,12 @@ export default function Footer() {
         <FileDown className="h-4 w-4" aria-hidden="true" />
         Télécharger la brochure A4 (PDF)
       </a>
+      {/* Ce que signe le site. Tant que le projet est une proposition, il ne
+          signe rien d'autre que son propre statut. */}
       <p>
-        Initiative du comité Développement Durable – Responsabilité Sociétale
-        et Environnementale, CHI Fréjus Saint-Raphaël (site Hôpital Bonnet)
+        {PROTOTYPE
+          ? `(${SIGNATURE}) — ce site n'émane pas du CHI Fréjus Saint-Raphaël`
+          : "Initiative du comité Développement Durable – Responsabilité Sociétale et Environnementale, CHI Fréjus Saint-Raphaël (site Hôpital Bonnet)"}
       </p>
     </footer>
   );

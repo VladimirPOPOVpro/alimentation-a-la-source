@@ -284,3 +284,25 @@ Depuis la refonte de la carte, le navigateur ne reçoit que ce qu'il affiche
 - tu peux ajouter des fiches n'importe où en France sans que le site ne
   ralentisse. La priorité géographique du prompt reste la bonne stratégie, mais
   ce n'est plus une contrainte technique.
+
+## Le site est un PROTOTYPE — ne réintroduis jamais l'attribution à l'hôpital
+
+Le site n'est pas une publication du CHI Fréjus Saint-Raphaël : c'est une
+maquette destinée à être proposée au **CSE Bonnet**. Une signature
+institutionnelle non validée exposerait la présentation à une critique
+légitime.
+
+**Règles, sans exception :**
+
+- n'écris nulle part que le site est « une initiative du comité … », « portée
+  par le CHI », ou toute formule équivalente — ni dans le README, ni dans une
+  note de commit, ni dans un email ;
+- si tu vois `Prototype pour CSE Bonnet` quelque part, **laisse-le** ;
+- l'Hôpital Bonnet peut être cité comme **point de repère géographique** (c'est
+  le centre par défaut de la carte), jamais comme concepteur ou garant ;
+- le statut vit dans `lib/prototype.ts`, qui est du **code** : tu n'y touches
+  pas. Si Vladimir t'annonce que le comité a validé, c'est lui qui bascule le
+  drapeau.
+
+Le site est aussi volontairement **exclu des moteurs de recherche** (`noindex`
+et `robots.txt`). N'essaie pas de « corriger » ça : c'est délibéré.
