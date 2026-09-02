@@ -6940,5 +6940,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+bio+association+Territoires+Saint-Denis",
     "image_url": "/images/marchands/ferme-bio-inclusive-territoires.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-capucins-bordeaux",
+    "nom": "Marché des Capucins",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.8302769,
+    "lon": -0.568086,
+    "adresse": "Halle du marché, place des Capucins, 33800 Bordeaux",
+    "horaires": "Du mardi au vendredi de 6h à 13h, le samedi et le dimanche de 6h à 14h",
+    "produits": [
+      "Fruits et légumes frais de saison",
+      "Fromages et produits fermiers",
+      "Boucheries, charcuteries et volailles",
+      "Poissonneries et fruits de mer",
+      "Boulangeries et pâtisseries artisanales",
+      "Produits du terroir et épiceries fines"
+    ],
+    "description": "Le plus grand marché de Bordeaux, et le plus ancien : premier marché hebdomadaire en 1749, couvert à partir de 1878, puis réuni sous une grande galerie de fer et de verre en 1881. Le quartier Saint-Michel l'appelle « le ventre de Bordeaux ».",
+    "telephone": "05 56 92 26 29",
+    "site_web": "https://marchedescapucins.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Capucins+Bordeaux",
+    "image_url": "/images/marchands/marche-des-capucins-bordeaux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-des-chartrons",
+    "nom": "Marché couvert des Chartrons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.8519869,
+    "lon": -0.572472,
+    "adresse": "Halle du marché, rue Sicard, 33000 Bordeaux",
+    "horaires": "Du mardi au samedi de 7h à 13h",
+    "produits": [
+      "Poissonnerie",
+      "Fruits et légumes",
+      "Fromagerie",
+      "Produits grecs",
+      "Huîtres",
+      "Volailles et rôtisserie"
+    ],
+    "description": "Six commerçants sous une petite halle rénovée en 2019, place du marché : un poissonnier, un primeur, un fromager, un traiteur grec, un vendeur d'huîtres et un volailler rôtisseur. On y fait ses courses de la semaine au sec, six matinées sur sept.",
+    "site_web": "https://www.bordeaux.fr/les-marches-de-bordeaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+des+Chartrons+Bordeaux",
+    "image_url": "/images/marchands/marche-couvert-des-chartrons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-quai-des-chartrons",
+    "nom": "Marché du quai des Chartrons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 44.8502059,
+    "lon": -0.5694949,
+    "adresse": "Quai des Chartrons, entre les n° 27 et 59, 33300 Bordeaux",
+    "horaires": "Marché des quais : dimanche de 7h à 14h ; marché biologique des quais : jeudi et vendredi de 7h à 14h",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Vins et jus de raisin",
+      "Fromages",
+      "Viandes, charcuterie et volailles",
+      "Poissons et huîtres",
+      "Huiles, cafés, thés et tisanes",
+      "Miels et confitures",
+      "Plats cuisinés"
+    ],
+    "description": "Deux marchés se succèdent sur le même quai, face à la Garonne. Le dimanche, plus de soixante-dix stands rassemblent producteurs, métiers de bouche, ostréiculteurs et terrasses ; le jeudi et le vendredi, une vingtaine de producteurs et d'artisans biologiques tiennent le marché que la Ville classe « marché biologique des quais ».",
+    "site_web": "https://www.bordeaux.fr/les-marches-de-bordeaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+quai+des+Chartrons+Bordeaux",
+    "image_url": "/images/marchands/marche-du-quai-des-chartrons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-producteurs-saint-seurin",
+    "nom": "Marché de producteurs Saint-Seurin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.8424589,
+    "lon": -0.5849339,
+    "adresse": "Place des Martyrs de la Résistance, 33000 Bordeaux",
+    "horaires": "Vendredi de 7h à 14h",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers et fromages",
+      "Viandes",
+      "Poissons et coquillages",
+      "Œufs",
+      "Produits du terroir"
+    ],
+    "description": "Dix-neuf étals de producteurs, biologiques ou non, sous les platanes de la place des Martyrs de la Résistance. Le marché est né marché biologique place Lucien-Victor-Meunier et a déménagé ici en 2018.",
+    "site_web": "https://www.bordeaux.fr/les-marches-de-bordeaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Seurin+Bordeaux",
+    "image_url": "/images/marchands/marche-de-producteurs-saint-seurin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-de-cauderan",
+    "nom": "Marché biologique de Caudéran",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 44.8522049,
+    "lon": -0.6146749,
+    "adresse": "Place Germaine-Tillion, au niveau de l'église Saint-Amand, 33200 Bordeaux",
+    "horaires": "Samedi de 7h à 14h",
+    "produits": [
+      "Pains",
+      "Viandes et volailles",
+      "Fruits et légumes",
+      "Fromages",
+      "Miels"
+    ],
+    "description": "Une vingtaine de producteurs biologiques le samedi matin, sur la place au pied de l'église Saint-Amand. C'est l'un des deux seuls marchés que la Ville de Bordeaux classe « biologiques » parmi la trentaine qu'elle organise.",
+    "site_web": "https://www.bordeaux.fr/les-marches-de-bordeaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+de+Caudéran+Bordeaux",
+    "image_url": "/images/marchands/marche-biologique-de-cauderan.jpg",
+    "a_confirmer": true
   }
 ]

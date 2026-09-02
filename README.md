@@ -559,10 +559,25 @@ prioritaires en cas de conflit.
    en deçà duquel l'écart ne coûte rien à qui se déplace. Au-delà, la règle 10 reprend et l'écart
    se consigne. Cette règle passe avant la descente d'échelle de la règle 10 : un point corroboré
    à l'adresse près vaut mieux qu'un centre de voie deviné.
+51. **Un champ codé qui porte la même valeur maximale sur une grande part du jeu de données est
+   un défaut de saisie, pas une observation.** Le jeu « Projet alimentaire territorial » de
+   Bordeaux Métropole décrit chaque point de vente par une liste codée `produits_a_la_vente` de
+   douze familles possibles. Sur ses 207 points, **soixante portent exactement la même liste :
+   les douze cases cochées** — y compris des marchés dont le texte libre du même enregistrement
+   ne nomme que quatre métiers, et des épiceries de quartier créditées de « produits de la mer ».
+   Publier ce champ tel quel aurait mis des huîtres dans une épicerie qui n'en vend pas. Tranché
+   ainsi : **quand la valeur modale d'un champ codé est aussi sa valeur maximale et qu'elle
+   couvre une fraction massive du jeu, ce champ ne se publie pas ; on publie ce que le texte
+   libre de l'autorité écrit du point précis.** Le critère est double, et les deux conditions
+   sont nécessaires ensemble : la valeur est **maximale** — toutes les cases cochées — et
+   **modale** sur au moins un quart des enregistrements. Deux propriétés qui, réunies, ne
+   s'expliquent pas par le terrain. Un champ codé rare ou contrasté reste utilisable tel quel :
+   à Bordeaux, les listes de cinq ou six familles ont servi. La règle vaut pour tout annuaire
+   déclaratif, pas seulement pour celui-là.
 
 ## Marchands à confirmer
 
-234 fiches sur 268 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+239 fiches sur 273 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -798,8 +813,13 @@ prioritaires en cas de conflit.
 - **Marché de Pierrefitte-sur-Seine** (**première fiche publiée au titre de la règle 50** : la Ville écrit « place de l'Église », que la Base Adresse Nationale ignore, l'office de tourisme écrit « place Jean-Jaurès », qu'elle connaît à 0,971 et qui tombe à 115 m de la seule « Ruelle de l'Église » du code postal. L'adresse publiée porte les deux noms. Les horaires se contredisent aussi : mardi et samedi de 9h à 13h chez la Ville, samedi de 8h30 à 12h à l'office — mais la fiche de l'office n'a plus été touchée depuis le **30 janvier 2019**, avant la commune nouvelle, et ce sont les horaires de la Ville qui sont publiés, règle 44. Aucun étal n'est nommé : `produits` s'en tient à ce que l'office écrit, « produits alimentaires et artisanaux ». Photo : l'étal de bananes plantain et de patates douces que l'office publie sur la fiche de ce marché, un buste sans visage)
 - **Le Marché de la Ferme Ouverte** (la ferme urbaine du 114 avenue de Stalingrad, immatriculée au registre sous NAF 01.13Z, culture de légumes, établissement ouvert. Deux hectares et demi, et l'office de tourisme comme l'exploitant écrivent que ce qui pousse sur place est vendu dans la boutique. Trois sources, trois horaires différents : la boutique annonce « mercredi, samedi et dimanche de 10h à 18h », l'office de tourisme « fermé le lundi et le mardi, de 10h à 13h et de 14h à 18h », et la page de la Ville « en fin d'après-midi, les week-ends et pendant les vacances scolaires ». Ce sont les horaires de la boutique elle-même qui sont publiés, règle 44 — mais l'écart est assez large pour justifier `a_confirmer`. Numéro de voirie à 0,976. L'exploitation porte au registre le patronyme du dernier maraîcher de la commune ; c'est l'enseigne qui est publiée, et le patronyme n'apparaît nulle part, MODERATION.md)
 - **La Ferme BIO Inclusive — association Territoires** (le registre national de l'Agence Bio range cette association en **Production**, certifiée AB par Ecocert FR-BIO-01 pour l'année de contrôle 2026, avec deux adresses distinctes : le siège du 4 rue Denfert-Rochereau et un second point marqué « Lieux d'activité, Lieux de vente » au 100 rue Henri Barbusse. Le code NAF de l'association, 85.59A, ne dit rien de cette activité : c'est le registre bio qui la documente, et le site de l'association qui la détaille, tarif par tarif. Les coordonnées du registre bio et celles de la Base Adresse Nationale pour le 100 rue Henri Barbusse **coïncident au chiffre près**, ce qui ne s'était encore jamais vu ici. Le fait décisif pour le visiteur est écrit dans les horaires et dans la description : **la vente est réservée aux abonnés**, commande en début de semaine, retrait le jeudi matin. La page de vente date de 2021 et parle de la « campagne 2021 » ; c'est le certificat 2026 du registre qui atteste que la ferme tourne toujours, d'où `a_confirmer`. Photo : les courgettes de la ferme, publiées par l'association sur cette même page)
+- **Marché des Capucins** (le plus grand marché de Bordeaux, et le premier cas d'application de la règle 51 : le jeu de données de la Métropole lui attribue la liste codée maximale des douze familles de produits, celle que soixante autres points portent à l'identique ; ce sont les six familles que le marché écrit sur **son propre site** qui sont publiées. Trois sources donnent trois horaires différents — la page de référence de la Ville, mise à jour le 3 mars 2026, écrit « du mardi au vendredi de 6h à 13h, le samedi et le dimanche de 6h à 14h » ; le jeu de la Métropole écrit 6h-14h et 5h30-14h30 ; l'article du magazine municipal de décembre 2024 écrit « du mardi au dimanche de 5h30 à 14h ». C'est la page de référence, la plus récente et la plus proche du gestionnaire, qui est publiée, règle 44. Le nombre de commerçants est lui aussi contredit — « une soixantaine » chez la Métropole, « plus de 80 » sur le site du marché : aucun chiffre n'est publié. Point de la Métropole, à 46 m du centre de voie de la Base Adresse Nationale. Photo : la vue plongeante sur les étals que la Ville publie en tête de sa page des marchés, © Rodolphe Escher, **recadrée sous sa bande inférieure** au titre de la règle 46, deux visages nets s'y trouvaient au premier plan)
+- **Marché couvert des Chartrons** (la fiche la mieux corroborée de la passe : la Ville et la Métropole donnent le même horaire au quart d'heure près, du mardi au samedi de 7h à 13h, et le point de la Métropole tombe à **1 m** du numéro de voirie de la Base Adresse Nationale. Les six commerçants sont nommés à l'identique par la Métropole et par l'office de tourisme — poissonnier, primeur, fromager, traiteur grec, vendeur d'huîtres, volailler rôtisseur — ce qui a permis de publier des produits sans toucher au champ codé. Photo de l'office de tourisme, **recadrée au tiers gauche** au titre de la règle 46 : quatre visages nets occupaient la moitié droite)
+- **Marché du quai des Chartrons** (fiche unique pour deux marchés au titre de la règle 42 : la Ville liste séparément le « marché des quais » du dimanche et le « marché biologique des quais » du jeudi et du vendredi, mais le jeu de la Métropole leur donne **exactement les mêmes coordonnées**. Une seule fiche, et les deux régimes dans les horaires, pour que personne ne vienne un jeudi en croyant trouver le marché du dimanche. Le pilier `environnement` tient à la règle 49 : « Marché biologique des quais » est une entrée distincte de la liste officielle de la Ville, et le magazine municipal écrit « 100 % bio » — deux marchés biologiques sur la trentaine que compte Bordeaux, la classification trie réellement. La Ville écrit **jeudi et vendredi**, la Métropole écrit le jeudi seul : ce sont les deux jours de la Ville qui sont publiés, règle 44. Le nombre d'étals du dimanche est cohérent aux deux bouts, « plus de 70 » chez la Métropole et « 70 étals » à l'office de tourisme. Photo de l'office de tourisme, la vue du marché le long du quai avec la Garonne et la flèche Saint-Michel au fond)
+- **Marché de producteurs Saint-Seurin** (la seule fiche de la passe dont le champ codé a servi : cinq familles, une liste rare et non modale, que la règle 51 laisse utilisable. Le nombre d'étals est identique chez la Métropole et à l'office de tourisme — dix-neuf étals de producteurs « bios ou non » — et cette réserve explicite interdit le pilier `environnement` : un marché mixte n'est pas un marché biologique. Horaires concordants, vendredi de 7h à 14h. Point de la Métropole à 30 m du centre de voie. Photo de l'office de tourisme : une main qui soupèse une pêche sur un étal du marché, sans visage)
+- **Marché biologique de Caudéran** (**deuxième fiche publiée au titre de la règle 50**, et le cas est plus net qu'à Pierrefitte : la Ville écrit « place Saint-Amand », que la Base Adresse Nationale ignore — elle ne connaît qu'une avenue et une impasse de ce nom — tandis que le texte libre de la Métropole écrit « place Germaine Tillon, au niveau de l'église Saint Amand ». La Base Adresse Nationale connaît la place Germaine-Tillion à 0,684, et ce point tombe à **60 m** de celui de la Métropole. Les deux sources décrivent le même marché, l'écart est bien en deçà des 150 m : le point de la Métropole est publié et l'adresse porte le nom que la Base Adresse Nationale reconnaît. Le champ `adresse` du jeu de données, lui, dit « Place des Martyrs de la Résistance Caud » — un troisième nom, qui renvoie en réalité à une place du centre-ville à 2,4 km de là, et qui n'a pas été retenu. Horaires contredits d'une heure, 7h chez la Ville contre 8h chez la Métropole : c'est 7h qui est publié, règle 44. Pilier `environnement` par la règle 49, avec un renfort : le champ `label_bio` du jeu de données vaut ici `100_POUR_CENT_PRODUITS_AB`, valeur que seuls 35 des 207 points portent. Photo thématique de la même commune au titre de la règle 1 : les cageots de salades, choux, courges et potirons du marché de la place des Citernes, photographiés par la Ville de Bordeaux, **recadrés sous les silhouettes** — ce n'est pas le marché de Caudéran et la présente note est là pour le dire)
 
-Les 268 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 273 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -827,6 +847,98 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Bordeaux
+
+Sixième passe en ville, et la source la plus riche rencontrée jusqu'ici : le jeu
+de données **« Projet alimentaire territorial »** de Bordeaux Métropole
+(`opendata.bordeaux-metropole.fr`, identifiant `de_pat_p`), qui recense **207
+points de vente de produits locaux et durables** sur la métropole, dont **59
+dans Bordeaux même**, avec pour chacun l'adresse, les coordonnées, les horaires
+en texte libre, une catégorie, le téléphone, le site et un champ `label_bio`.
+Aucune ville visitée jusqu'ici ne publiait l'équivalent.
+
+Le catalogue ne se laisse pas fouiller au petit bonheur : `search(dataset_id,…)`
+sur « marché », « halle », « forain », « alimentaire » ou « commerce » ne rend
+que des marchés **publics**, au sens de la commande publique. C'est l'énumération
+complète des 562 jeux, cent par cent, puis un filtre sur les titres, qui a fait
+apparaître `de_pat_p`.
+
+Trois sources se recoupent et se contredisent, dans cet ordre d'autorité :
+
+1. **`bordeaux.fr/les-marches-de-bordeaux`**, la liste de référence de la Ville,
+   mise à jour le 3 mars 2026, qui gère les marchés. Elle donne le nom, le lieu
+   et les horaires des trente marchés, quartier par quartier.
+2. **le jeu `de_pat_p` de la Métropole**, qui ajoute pour chaque point un texte
+   libre décrivant les étals — souvent le seul endroit où les métiers sont nommés.
+3. **l'office de tourisme** (`bordeaux-tourisme.com`), qui apporte l'histoire et
+   les photographies, mais pas d'horaires fiables.
+
+Les contradictions relevées, toutes tranchées par la règle 44 en faveur de la
+page de référence de la Ville :
+
+- **Les jours du Marché Neuf et du Marché Royal Saint-Michel sont intervertis**
+  entre les deux sources : la Métropole donne le Marché Neuf le samedi et le
+  Royal le lundi, la Ville donne exactement l'inverse. Ni l'un ni l'autre marché
+  n'est publié cette passe, mais l'écart est noté ici parce qu'il disqualifie le
+  jeu de données comme source d'horaires.
+- **Le marché de l'allée Serr** : vendredi de 14h à 19h30 chez la Métropole,
+  de 10h à 19h chez la Ville.
+- **Le marché des Citernes** (dit aussi Amédée-Saint-Germain, ouvert le
+  8 novembre 2024) : vendredi de 14h à 19h30 chez la Métropole **et** dans le
+  magazine municipal, de 15h à 19h sur la page de référence. Fiche prête par
+  ailleurs — une dizaine de commerçants, produits nommés, photo de la Ville —
+  mais l'horaire diverge dans le mauvais sens : c'est la source isolée qui fait
+  autorité. À reprendre au prochain passage.
+- **Le marché des Pins Francs** : « Place Eugène Gauthier » et « parking du stade
+  Stehelin » chez la Métropole, « 280 avenue de Lattre de Tassigny » chez la
+  Ville — trois localisations pour un même marché de quarante étals, dont aucune
+  ne se recoupe à moins de 150 m. La règle 50 ne s'applique donc pas et rien
+  n'est publié.
+- **Le marché Pey Berland** est une entrée unique chez la Ville, mercredi et
+  dimanche, mais **deux enregistrements** chez la Métropole, « Marché Pey
+  Berland » le dimanche et « Marché la Tour » le mercredi, distants de 36 m.
+  Même configuration place de l'église Saint-Augustin, avec « Marché
+  Saint-Augustin » le mercredi et « Marché Flornoy » le samedi au même point.
+  La règle 42 réunirait ces paires ; elles sont laissées de côté cette passe
+  faute de place, pas faute de règle.
+
+Ce qui n'a pas été publié, et pourquoi :
+
+- **Le marché de la Benauge**, porté par le LIA (Laboratoire d'Initiatives
+  Alimentaires), est le plus proche de l'esprit du site : quatre producteurs
+  nommés, une tarification sociale, une convention « Sécurité Sociale de
+  l'Alimentation ». Mais son **jour et son lieu changent selon la source** — la
+  Métropole écrit « le mercredi, devant l'espace Miriam Makeba, 10 rue Alexander
+  Fleming », l'association écrit sur son propre site « le vendredi au Parc
+  Pinçon » — et la cadence, « tous les quinze jours », n'est ancrée sur aucune
+  date de référence. Un visiteur avait une chance sur quatre de tomber juste.
+  Première piste à reprendre, en écrivant à l'association.
+- **Les épiceries de produits locaux** que la Métropole classe
+  `POINT_VENTE_DE_PRODUITS_LOCAUX` : Le Dépanneur du Coin, Tista, La Carotte et
+  Le Lapin. Leurs trois sites étaient hors service le jour de la passe — 503
+  OVHcloud, domaine muet, « Database Error » — et le jeu de données ne leur
+  attribue que la liste codée maximale que la règle 51 écarte. Aucune source
+  vivante, donc aucune fiche. **Maison Hegara**, quatorze cours Portal, marquée
+  100 % de produits AB, n'a pas de site du tout ; sa fiche tient au seul jeu de
+  données. À reprendre.
+- **Supercoop**, supermarché coopératif de dix-neuf rue Oscar-et-Jean-Auriac,
+  écarté comme les supermarchés certifiés bio des passes précédentes :
+  MODERATION.md ne référence pas les commerces généralistes, et le statut
+  coopératif ne change pas la nature du magasin.
+- **Les AMAP et les ruches** — trente-huit AMAP et une vingtaine de points de
+  retrait dans le jeu de données, dont sept La Ruche qui dit Oui ! et quatre
+  VRAC dans Bordeaux — n'ont pas été traitées cette passe. Plusieurs de leurs
+  enregistrements portent, dans le champ horaires en texte libre, **les
+  téléphones portables et les adresses de courriel personnels des référentes et
+  référents** : ces champs n'ont pas été relevés, et ne le seront pas.
+- Le jeu de données tronque ses propres textes libres autour de 250 caractères :
+  la description du marché bio de Caudéran s'arrête sur « miels et bi », celle
+  du marché biologique des quais sur « produits d'entret ». Seuls les produits
+  entièrement lisibles ont été publiés.
+- Un enregistrement du jeu, « Distributeur de légumes Ravezies », porte le code
+  Insee de Bordeaux mais une adresse au Bouscat. Il n'a pas été retenu, et
+  l'incohérence est signalée ici plutôt que corrigée.
 
 ### Pistes non publiées à Saint-Denis
 
