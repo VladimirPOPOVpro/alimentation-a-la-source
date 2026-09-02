@@ -6160,5 +6160,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cooperative+oleicole+La+Tavernaise+Tavernes",
     "image_url": "/images/marchands/cooperative-oleicole-la-tavernaise.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "domaine-aspras",
+    "nom": "Domaine Aspras",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.480575,
+    "lon": 6.082137,
+    "adresse": "900 quartier Croix de Basson, lieu-dit Gorloouva, par la D45, 83570 Correns",
+    "horaires": "Ouvert toute l'année du lundi au samedi : de septembre à juin de 10h à 18h, en juillet et août de 10h à 19h.",
+    "produits": [
+      "Vins AOC Côtes de Provence bio, cuvées Licorne et Les Trois Frères",
+      "Vin IGP Var, cuvée à Lisa",
+      "Vin effervescent rosé et blanc",
+      "Huile d'olive du domaine",
+      "Bière du domaine",
+      "Produits bio et locaux d'artisans et de producteurs de la région"
+    ],
+    "description": "Propriété familiale passée en agriculture biologique au début des années 1990, en même temps que le reste de Correns, premier village bio de France : la certification Ecocert du domaine remonte à avril 1998 et couvre la vigne comme les oliviers. Le caveau, lumineux, sert la dégustation des cuvées et vend aussi l'huile d'olive et la bière de la maison, avec une sélection de produits bio d'artisans du secteur.",
+    "telephone": "04 94 59 59 70",
+    "site_web": "https://aspras.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Aspras+Correns",
+    "image_url": "/images/marchands/domaine-aspras.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-grande-palliere",
+    "nom": "Domaine de la Grande Pallière",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.497251,
+    "lon": 6.088644,
+    "adresse": "Chemin Palière, 83570 Correns",
+    "horaires": "Toute l'année, tous les jours, uniquement sur rendez-vous pris par téléphone ou par courriel.",
+    "produits": [
+      "Vin rosé AOC Côtes de Provence bio",
+      "Vin blanc AOC Côtes de Provence bio",
+      "Vin rouge AOC Côtes de Provence bio",
+      "Cuvées Pallière",
+      "Magnums et grands formats"
+    ],
+    "description": "Domaine de 200 hectares dont quarante de vignes classées en AOC Côtes de Provence, sur des coteaux argilo-calcaires à 250 mètres d'altitude. En cave particulière depuis 2002 et conduit en agriculture biologique sous contrôle Ecocert depuis 1998, il a été médaillé d'or au Concours Général Agricole de Paris plusieurs années de suite et cité au Guide Hachette des Vins 2020.",
+    "telephone": "04 94 59 57 55",
+    "site_web": "https://lagrandepalliere.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+la+Grande+Palliere+Correns",
+    "image_url": "/images/marchands/domaine-de-la-grande-palliere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-saint-andrieu",
+    "nom": "Domaine Saint Andrieu",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.516614,
+    "lon": 6.070576,
+    "adresse": "Chemin de Saint Andrieu, 83570 Correns",
+    "horaires": "Toute l'année du lundi au vendredi de 9h à 17h. Le mercredi, le domaine annonce un accueil uniquement sur rendez-vous quand l'office de tourisme indique 9h à 12h. Fermé entre Noël et le Jour de l'An.",
+    "produits": [
+      "Vins AOP Côtes de Provence en trois couleurs",
+      "Vins AOP Coteaux Varois en Provence en trois couleurs",
+      "Huile d'olive vierge extra du domaine",
+      "Cuvée L'Oratoire"
+    ],
+    "description": "Domaine perché à 380 mètres sur les hauteurs de Correns, au milieu de six cents hectares de forêt et de maquis alimentés par trois sources naturelles. Neuf hectares d'oliviers y donnent une huile vierge extra extraite par pressurage à froid, certifiée en agriculture biologique chez Ecocert depuis janvier 2019 ; le vignoble, lui, est certifié Haute Valeur Environnementale depuis juin 2017. Dégustation et vente directe au caveau.",
+    "telephone": "04 94 59 52 42",
+    "site_web": "https://domaine-saint-andrieu.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Andrieu+Correns",
+    "image_url": "/images/marchands/domaine-saint-andrieu.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "safran-des-pierres-blanches",
+    "nom": "Safran des Pierres Blanches",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.492799,
+    "lon": 6.079918,
+    "adresse": "857 route du Vallon Sourn, 83570 Correns",
+    "horaires": "Toute l'année du mardi au jeudi, sur rendez-vous. Dégustation et vente sur place.",
+    "produits": [
+      "Safran de Correns",
+      "Produits dérivés au safran",
+      "Fruits du verger",
+      "Fruits à noyau et à pépins",
+      "Fruits à coque"
+    ],
+    "description": "Exploitation familiale posée entre les collines et les vignes du vallon Sourn, qui cultive son safran et le transforme avec les fruits de son propre verger. La conversion à l'agriculture biologique est enregistrée au registre de l'Agence Bio depuis janvier 2025, auprès de Bureau Alpes contrôles. L'accueil se fait sur rendez-vous, du mardi au jeudi, pour une dégustation sur place.",
+    "telephone": "06 45 56 95 96",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Safran+des+Pierres+Blanches+Correns",
+    "image_url": "/images/marchands/safran-des-pierres-blanches.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-poulailler-de-lea",
+    "nom": "Le Poulailler de Léa",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.495444,
+    "lon": 6.082708,
+    "adresse": "1178 chemin des Couastes Belles, 83570 Correns",
+    "horaires": "Toute l'année sur rendez-vous, à appeler avant de se déplacer. L'élevage tient aussi un étal au marché hebdomadaire du Val.",
+    "produits": [
+      "Poulets bio élevés en plein air",
+      "Volailles de chair",
+      "Œufs de poules élevées en plein air"
+    ],
+    "description": "Petit élevage de volailles en plein air sur les hauteurs de Correns, certifié en agriculture biologique chez Ecocert depuis janvier 2011. La vente se fait à la ferme sur rendez-vous et sur le marché hebdomadaire du Val ; l'exploitation élève aussi des poules pondeuses et cultive quelques oliviers et arbres fruitiers.",
+    "telephone": "06 30 56 15 18",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Poulailler+de+Lea+Correns",
+    "image_url": "/images/marchands/le-poulailler-de-lea.jpg",
+    "a_confirmer": true
   }
 ]

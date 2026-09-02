@@ -328,7 +328,14 @@ prioritaires en cas de conflit.
    cas, on prend le centre de la voie et la fiche le dit. Ici c'est l'échelon du registre qui a été
    pris — celui de la société de vente, règle 7 — dont le contrôle inverse rend, lui, le lieu-dit
    « Quartier La Neuve » à 72 m : un lieu-dit n'est pas une voie contradictoire, il ne disqualifie
-   donc pas l'échelon, il le laisse seulement moins précis qu'un numéro.
+   donc pas l'échelon, il le laisse seulement moins précis qu'un numéro. Précision ajoutée au
+   Domaine de la Grande Pallière, à Correns : le contrôle inverse du marqueur de l'office y revient
+   vide, mais le registre de l'Agence Bio déclare une adresse dont les coordonnées tombent à quatre
+   mètres de ce même marqueur — deux sources au même endroit, ce qui donne envie de le valider.
+   Elles ne le valident pas. **Un second témoin qui se pose au même point ne remplace pas le contrôle
+   inverse : c'est le terrain qui doit répondre, pas une autre base**, et ici le point du registre
+   des entreprises, 1,1 km plus au sud, se retourne sur le « 1600 chemin de Paliere » à 68 m, soit
+   la voie même que le domaine imprime sur son site. C'est lui qui est publié.
 35. **Le commerçant publie ses coordonnées et un numéro de voirie qui ne s'accordent pas.** Le
    Domaine du Vallon Noir, à Pourrières, écrit sur son site « 9 route de Pourcieux » et, juste
    au-dessus, « GPS 43.4998645, 5.7385325 ». Le contrôle inverse de ces coordonnées rend le « 435
@@ -394,10 +401,23 @@ prioritaires en cas de conflit.
    jamais au comptoir. Saint Ferréol garde malgré tout son pilier `environnement`, mais par la
    règle 21 : le domaine écrit lui-même être certifié Haute Valeur Environnementale niveau 3 depuis
    2020 et avoir cessé les herbicides en 2016.
+40. **Le registre bio déclare que le producteur ne vend pas aux particuliers, l'office de tourisme
+   décrit une vente directe.** Le Poulailler de Léa, à Correns, porte au registre de l'Agence Bio un
+   bloc `venteAnnuaire` où `venteParticuliers` est à `false` et seul le gros est à `true` — pendant
+   que la fiche de l'office annonce une ouverture « toute l'année sur rendez-vous » et un étal au
+   marché hebdomadaire du Val. Un étal de marché est une vente au particulier ; les deux sources ne
+   peuvent pas avoir raison ensemble. Tranché ainsi : **un `venteParticuliers` à faux ne suffit pas
+   à écarter une fiche quand l'office décrit un régime d'ouverture ou une présence sur un marché
+   nommé ; le drapeau se consigne, et la fiche doit alors dire que la vente se fait sur rendez-vous
+   téléphonique**. Deux raisons. D'abord ce bloc est le moins tenu de la fiche opérateur : sur le
+   même enregistrement, le téléphone, le site et la dénomination courante sont tous vides. Ensuite
+   le régime « sur rendez-vous » protège de lui-même contre le déplacement inutile que la
+   modération redoute — on téléphone avant de partir, la question se règle en un appel. Si l'office
+   annonçait des heures d'ouverture libres, le drapeau redeviendrait un motif de ne pas publier.
 
 ## Marchands à confirmer
 
-204 fiches sur 238 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+209 fiches sur 243 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -603,8 +623,13 @@ prioritaires en cas de conflit.
 - **Domaine Saint Ferréol** (première fiche publiée au titre de la règle 39 : l'engagement Ecocert de mars 2024 est vivant mais ne déclare que céréales, légumineuses, fourrages et jachères — pas de raisin de cuve — et ne peut donc pas accorder le pilier `environnement` à une fiche qui ne vend que du vin. Le pilier est accordé quand même, mais par la règle 21, sur la HVE niveau 3 que le domaine revendique lui-même depuis 2020. Nom pris dans la forme que le domaine emploie, « Domaine Saint Ferréol », et non « Domaine de Saint Ferréol » comme l'écrit l'office. Horaires contredits à l'ouverture d'été : le domaine annonce 9h30, l'office 10h — c'est le domaine qui est publié. Surfaces contredites : 19 hectares sur le site, 21 à l'office ; le site est retenu. L'office ne publie aucune rue, mais la page Contact du domaine donne « 585 route de Draguignan », numéro que la Base Adresse Nationale connaît, à 270 m du marqueur de l'office dont le contrôle inverse revient vide : premier échelon de la règle 10. Une autre société, le Domaine Riforan, est domiciliée sur le même domaine ; elle n'a pas été retenue, règle 7)
 - **Domaine des Roches Blanches** (pas de pilier `environnement`, alors que l'office affiche le label AB : la certification Qualisud est **arrêtée le 18 janvier 2026** au registre de l'Agence Bio, et le domaine écrit lui-même sur son site « sept hectares de vignes en cours de conversion BIO ». C'est le troisième cas de label périmé encore affiché par un office, après Provence Bio et la Ferme de la Grivoisière, règle 25 : la fiche dit « en cours de conversion », mot pour mot ce qu'annonce le producteur, et ne coche rien. Numéro « 3060 chemin de Fox-Amphoux » de la Base Adresse Nationale confirmé à 0 m par son contrôle inverse et par le pied de page du domaine, à 84 m du marqueur de l'office : premier échelon de la règle 10. L'exploitation est immatriculée sous le patronyme de la vigneronne, avec « DOMAINE DES ROCHES BLANCHES » en enseigne déclarée. La page « Magasins » du site est restée sur les données de démonstration de PrestaShop — cinq boutiques à Miami — et n'a servi à rien : l'adresse retenue est celle du pied de page)
 - **Coopérative Oléicole La Tavernaise** (cinquième fiche du groupe de Pontevès alors qu'elle est à Tavernes, à 3,4 km : c'est la règle 28, dont le critère de contiguïté a été assoupli ici, Barjols s'intercalant entre les deux communes. Horaires contredits : la coopérative annonce sur son site une boutique ouverte du mardi au samedi de 9h à 12h et de 15h à 18h, l'office seulement « du mardi au samedi de 9h30 à 12h30 » — ce sont les horaires du moulin qui sont publiés, et l'accueil téléphonique, plus large, est distingué de l'ouverture de la boutique. Adhérents contredits : l'office reprend le « 72 adhérents » qui date de la fondation en 1914, quand le site en compte environ 300 en 2021 — c'est le chiffre récent qui est publié. Piliers `alimentation` et `environnement` tous deux solides : AOP Huile d'olive de Provence au bloc labels de l'office, et engagement Ecocert ouvert le 2 décembre 2009 sans arrêt. Numéro « 53 chemin des Rayères » de la Base Adresse Nationale exactement sur le marqueur de l'office. L'`og:image` du site est un logo, la photo vient donc de l'office)
+- **Domaine Aspras** (trois adresses pour un seul domaine, sur deux voies différentes : le marqueur de l'office se retourne sur le « 1293 chemin des Aspras » et le point de l'Agence Bio sur le « 1000 chemin des Aspras », alors que le domaine imprime lui-même en pied de page « 900 quartier Croix de Basson via D45, lieu-dit Gorloouva » et que le registre bio étiquette ce même numéro « Cave des Aspras ». Les deux marqueurs sont donc écartés par la règle 24 et c'est le numéro de la Base Adresse Nationale pour le 900 de la D45 qui est publié, contrôle inverse à 0 m, premier échelon de la règle 10. Il tombe à **31 mètres de Permavar**, publié au 927 de la même route : ce n'est pas un doublon mais deux exploitations voisines sur la départementale, sous la même croix de Basson, comme Garbelle et l'élevage Tilotta à Garéoult. Pilier `alimentation` accordé sur l'huile d'olive et la bière, que le domaine range dans son propre menu « Nos produits », règle 31, et le registre bio déclare bien l'huile d'olive brute et le raisin de cuve, règle 39. Pilier `environnement` sur un engagement Ecocert ouvert le 28 avril 1998. Une seconde société du même groupe, engagée chez Ecocert en janvier 2026, porte le commerce de gros : une seule fiche, celle qui vend au caveau, règle 7. Photo prise à l'office : l'`og:image` du site renvoie une erreur et la photo du caveau montre des clients attablés)
+- **Domaine de la Grande Pallière** (première fiche publiée au titre de la précision ajoutée à la règle 34 : le marqueur de l'office et l'adresse déclarée à l'Agence Bio tombent au même endroit à quatre mètres près, mais le contrôle inverse de ce point revient **vide**, et c'est le point du registre des entreprises, 1,1 km plus au sud, qui se retourne sur le « 1600 chemin de Paliere » — la voie que le domaine imprime sur sa page contact. Surfaces contredites : l'office annonce trente hectares de vignes, le site quarante ; c'est le chiffre du domaine qui est publié. Pas de pilier `alimentation` : le registre bio déclare olives, cerises et truffes, mais l'office ne range la fiche que sous « Vins » et le site ne vend que des cuvées, règle 31. Pilier `environnement` sur un engagement Ecocert ouvert le 22 juin 1998, que le domaine confirme lui-même. Photo : l'`og:image` du site, une main tenant une bouteille devant les vignes, sans visage. Le nom du vigneron, que le site publie, n'est pas repris)
+- **Domaine Saint Andrieu** (le registre des entreprises rend bien une société de ce nom, mais son siège est au Château Talbot, en Gironde : c'est le SIRET du registre de l'Agence Bio qui rattache l'établissement à Correns, et le site du domaine confirme l'appartenance au même groupe girondin. Pilier `environnement` accordé deux fois plutôt qu'une : l'engagement Ecocert de janvier 2019 ne couvre que les olives, l'huile et les pistaches — pas le raisin de cuve — mais l'huile est justement l'un des produits de la fiche, ce que la règle 39 demande, et le domaine écrit en plus avoir obtenu la Haute Valeur Environnementale en juin 2017, règle 21. Horaires contredits le mercredi : le domaine annonce un accueil uniquement sur rendez-vous, l'office 9h à 12h — les deux sont publiés et attribués. Aucune source ne donne de numéro de voirie ; le marqueur de l'office est publié, son contrôle inverse rend le « 4350 chemin de Saint Andrieu » à 33 m et l'adresse déclarée à l'Agence Bio tombe à 32 m, mais aucune des trois ne porte de numéro et la fiche n'en invente pas)
+- **Safran des Pierres Blanches** (deux adresses au même numéro sur deux routes différentes : le registre des entreprises déclare « 857 route de Châteauvert », le registre bio et l'office « 857 route du Vallon Sourn ». Seule la seconde existe dans la Base Adresse Nationale, avec un contrôle inverse à 0 m et un point identique au mètre près à celui que l'Agence Bio géocode : c'est elle qui est publiée, règle 30, la première étant à 2,3 km à l'ouest. Pilier `environnement` accordé bien que l'office écrive « en conversion bio » : l'engagement chez Bureau Alpes contrôles est ouvert le 27 janvier 2025 et n'est pas arrêté, ce que la règle 15 demande — c'est l'inverse exact du Domaine des Roches Blanches, dont le certificat était arrêté. L'exploitation est immatriculée sous le patronyme de l'exploitant, avec « SAFRAN DES PIERRES BLANCHES » en enseigne déclarée : c'est l'enseigne qui est publiée. Pas de `site_web` : l'office ne publie qu'une page Facebook, règle 33)
+- **Le Poulailler de Léa** (première fiche publiée au titre de la règle 40 : le registre de l'Agence Bio déclare `venteParticuliers` à faux pour cet élevage, alors que l'office annonce une ouverture sur rendez-vous et un étal au marché hebdomadaire du Val. Le drapeau est consigné, la fiche dit que la vente se fait sur rendez-vous. Le nom n'est pas un patronyme publié comme enseigne : l'élevage porte lui-même ce libellé sur son logo, seule image que publie l'office, ce que la règle 36 demande — le patronyme de l'éleveuse, que le registre rend, n'apparaît nulle part. Le numéro « 1178 chemin des Couastes Belles » de la Base Adresse Nationale tombe exactement sur le marqueur de l'office, à 0 m. Pilier `environnement` sur un engagement Ecocert ouvert le 20 janvier 2011. Les produits sont ceux que l'office nomme, volailles et œufs, règle 31 : les olives et le raisin de cuve du registre bio ne sont annoncés nulle part à la vente et ne sont cités que dans la description. Photo : l'unique image de l'office est le logo dessiné de l'élevage, donc c'est une vue de l'Argens dans le vallon Sourn, à Correns, qui illustre la fiche — photo thématique de la même commune au titre de la règle 1)
 
-Les 238 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 243 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -981,35 +1006,36 @@ photos en pleine résolution sont sous `/wp-content/plugins/apidae/public/files/
 Correns se présente comme le premier village de France passé entièrement en agriculture biologique,
 et le registre de l'Agence Bio le confirme sans exagération : **soixante-sept opérateurs bio** y sont
 enregistrés pour environ neuf cents habitants. La commune n'a donc pas manqué de candidats, elle en
-avait trop.
+avait trop. L'office de tourisme Provence Verte & Verdon lui consacre onze fiches « Vins et
+Terroir », **toutes publiées aujourd'hui sauf une** : cinq l'ont été lors du premier passage, les
+cinq autres au second, qui a levé les réserves notées ici — le Poulailler de Léa attendait trois
+lignes de produits, le Safran des Pierres Blanches n'avait pas été instruit, et les trois domaines
+n'avaient été écartés que faute de place. Ce qui reste :
 
 - **Arnaud Rocheux Apiculteur** (1620 chemin du Defends) : miel IGP de Provence, safran et huile
-  d'olive, engagement Ecocert de juillet 2010 au registre de l'Agence Bio. **Non publié** : le nom
-  que l'office de tourisme donne à cette fiche est le patronyme de l'apiculteur, l'entreprise est
-  **non diffusible** au registre des entreprises — nom, adresse et enseignes masqués — et aucune
-  source ne permet donc de vérifier qu'une enseigne existe. La règle 19 sert à constater l'ouverture,
-  pas à contourner l'interdiction de `MODERATION.md` de publier un patronyme comme une enseigne. À
+  d'olive, engagement Ecocert de juillet 2010 au registre de l'Agence Bio. **Toujours non publié** :
+  le nom que l'office donne à cette fiche est le patronyme de l'apiculteur, l'entreprise reste
+  **non diffusible** au registre des entreprises — une recherche sur ce nom dans le Var ne rend
+  aucune exploitation apicole — et aucune source ne montre d'enseigne ni de logo portant un nom
+  commercial. C'est exactement ce qui sépare cette fiche du Poulailler de Léa, publié cette
+  passe : l'élevage, lui, imprime son libellé sur son propre logo, ce que la règle 36 demande. À
   reprendre si l'apiculteur publie un nom commercial ou si le registre redevient diffusible. À noter
   aussi : l'adresse de l'office et celles de l'Agence Bio ne sont pas les mêmes.
-- **Le Poulailler de Léa** (1178 chemin des Couastes Belles) : élevage de volailles en plein air,
-  œufs et poulets bio, engagement Ecocert de 2011, adresse confirmée au mètre près par la Base
-  Adresse Nationale et par les deux registres. Non publié faute de gamme : l'office ne donne que deux
-  mots-clés, « volailles et œufs » et « viande et charcuterie », et l'élevage n'a ni site ni page
-  détaillée. **À reprendre en premier au prochain passage sur Correns**, la fiche ne manque que de
-  trois lignes de produits.
-- **Safran des Pierres Blanches** (857 route du vallon Sourn) : safran et produits dérivés du verger,
-  accueil du mardi au jeudi sur rendez-vous. L'office écrit « en conversion bio » et le registre de
-  l'Agence Bio date l'engagement chez Bureau Alpes Contrôles de janvier 2025 — la conversion est donc
-  réelle et enregistrée. Non instruit cette passe.
-- **Domaine Saint Andrieu**, **Domaine Aspras** et **Domaine de la Grande Pallière** : trois domaines
-  viticoles bio de la commune, tous avec vente au caveau et horaires publiés, les deux premiers
-  produisant aussi de l'huile d'olive. Non publiés seulement parce que la passe comptait déjà ses
-  cinq fiches et que la carte est déjà riche en domaines viticoles. Attention pour Saint Andrieu : la
-  société que le registre rend sous ce nom a son siège au Château Talbot, en Gironde, et n'est pas
-  l'exploitation ; c'est le SIRET du registre de l'Agence Bio qui fait le lien.
 - **Château Miraval** : engagé en bio chez Ecocert depuis 1999 d'après le registre de l'Agence Bio,
   mais l'office de tourisme ne lui consacre aucune fiche « producteurs du terroir » et rien ne
   documente une vente directe au public sur place. Non publié en l'état.
+- **Correns est désormais la commune la mieux couverte du dépôt**, avec dix fiches : une cave
+  coopérative, une distillerie, une entreprise semencière, deux maraîchages, une ferme en
+  permaculture, un élevage de volailles, une safranière et trois domaines viticoles. **Neuf des dix
+  portent le pilier `environnement`** et huit le pilier `alimentation`, ce qui n'a rien d'un hasard
+  dans un village où la quasi-totalité des exploitations est certifiée. La dixième, le Jardin
+  L'Orée d'Argens, ne l'a pas, et pour la raison que la règle 39 nomme aujourd'hui : son SIRET est
+  bien engagé en bio, mais pour du raisin, pas pour les légumes qu'elle vend. Cette fiche avait
+  appliqué le critère avant qu'il soit écrit.
+- **Deux fiches y sont voisines à 31 mètres**, le Domaine Aspras au 900 de la départementale 45 et
+  Permavar au 927 de la même route, sous la croix de Basson. Ce n'est pas un doublon : c'est la
+  numérotation métrique de la voie qui rapproche deux exploitations réellement mitoyennes, comme le
+  Domaine de Garbelle et l'élevage Tilotta à Garéoult.
 
 ### Le marqueur qu'un commerçant publie lui-même peut tomber à dix-huit kilomètres
 
