@@ -84,7 +84,8 @@ export default function Home() {
               <>
                 Ce site est une{" "}
                 <strong className="text-amber-900">
-                  maquette réalisée pour être proposée au CSE Bonnet
+                  maquette réalisée pour être proposée au comité
+                  développement durable de l&apos;Hôpital Bonnet
                 </strong>
                 . Il n&apos;émane pas du Centre Hospitalier Intercommunal Fréjus
                 Saint-Raphaël et n&apos;a fait l&apos;objet d&apos;aucune

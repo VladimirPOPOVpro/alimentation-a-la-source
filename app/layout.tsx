@@ -3,7 +3,7 @@ import { Caveat, Inter } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import PrototypeNotice from "@/components/PrototypeNotice";
-import { PROTOTYPE, SIGNATURE } from "@/lib/prototype";
+import { PROTOTYPE, SIGNATURE_COURTE } from "@/lib/prototype";
 import "./globals.css";
 
 const inter = Inter({
@@ -23,14 +23,14 @@ export const metadata: Metadata = {
   // c'est là qu'un visiteur risque le plus de se méprendre sur l'origine.
   title: {
     default: PROTOTYPE
-      ? `L'Alimentation à la Source (${SIGNATURE})`
+      ? `L'Alimentation à la Source (${SIGNATURE_COURTE})`
       : "L'Alimentation à la Source",
-    template: PROTOTYPE ? `%s (${SIGNATURE})` : "%s",
+    template: PROTOTYPE ? `%s (${SIGNATURE_COURTE})` : "%s",
   },
   description:
     "Carte des marchands locaux, fermes en vente directe et marchés de producteurs autour de Fréjus et Saint-Raphaël." +
     (PROTOTYPE
-      ? " Site prototype, présenté pour proposition au CSE Bonnet : il n'émane pas du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël."
+      ? ` Site prototype, présenté pour proposition au comité développement durable (RSE) de l'Hôpital Bonnet : il n'émane pas du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël.`
       : ""),
   // Tant que le projet n'est pas validé, il n'a rien à faire dans les moteurs
   // de recherche : un site non officiel qui remonte sur le nom de l'hôpital

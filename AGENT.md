@@ -343,7 +343,8 @@ Depuis la refonte de la carte, le navigateur ne reçoit que ce qu'il affiche
 ## Le site est un PROTOTYPE — ne réintroduis jamais l'attribution à l'hôpital
 
 Le site n'est pas une publication du CHI Fréjus Saint-Raphaël : c'est une
-maquette destinée à être proposée au **CSE Bonnet**. Une signature
+maquette destinée à être proposée au **comité développement durable (RSE) de
+l'Hôpital Bonnet**. Une signature
 institutionnelle non validée exposerait la présentation à une critique
 légitime.
 
@@ -352,7 +353,10 @@ légitime.
 - n'écris nulle part que le site est « une initiative du comité … », « portée
   par le CHI », ou toute formule équivalente — ni dans le README, ni dans une
   note de commit, ni dans un email ;
-- si tu vois `Prototype pour CSE Bonnet` quelque part, **laisse-le** ;
+- si tu vois « Prototype pour le comité développement durable » ou « Prototype
+  pour le comité RSE » quelque part, **laisse-le** ;
+- n'écris **jamais** « CSE » : le Comité Social et Économique est une instance
+  différente. Ici c'est le comité **développement durable**, approche **RSE** ;
 - l'Hôpital Bonnet peut être cité comme **point de repère géographique** (c'est
   le centre par défaut de la carte), jamais comme concepteur ou garant ;
 - le statut vit dans `lib/prototype.ts`, qui est du **code** : tu n'y touches

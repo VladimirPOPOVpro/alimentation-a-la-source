@@ -68,7 +68,8 @@ PROTOTYPE = True
 
 # Coupures volontaires : aucune de ces mentions ne doit être scindée n'importe où.
 COMMITTEE_PROTOTYPE = [
-    ("Prototype pour CSE Bonnet", "semibold"),
+    ("Prototype pour le comité développement durable (RSE)", "semibold"),
+    ("de l'Hôpital Bonnet", "semibold"),
     ("Maquette de proposition — ce document n'émane pas", "regular"),
     ("du CHI Fréjus Saint-Raphaël et n'engage pas l'établissement.", "regular"),
 ]

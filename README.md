@@ -1,7 +1,8 @@
 # L'Alimentation à la Source
 
 > ⚠️ **Site prototype.** Ce site est une maquette réalisée pour être proposée au
-> **CSE Bonnet**. Il n'émane pas du Centre Hospitalier Intercommunal Fréjus
+> **comité développement durable (RSE) de l'Hôpital Bonnet**. Il n'émane pas du
+> Centre Hospitalier Intercommunal Fréjus
 > Saint-Raphaël et n'a fait l'objet d'aucune validation de sa part. Il est
 > volontairement **exclu des moteurs de recherche** (`noindex` + `robots.txt`)
 > tant que ce statut dure.
@@ -11,7 +12,7 @@
 > l'indexation. Il faut aussi basculer `PROTOTYPE = False` en tête de
 > `scripts/build_brochure.py` et régénérer la brochure.
 
-Site web de découverte des marchands locaux et points de vente à la ferme dans le Var, avec l'Hôpital Bonnet comme point de départ par défaut sur la carte. Maquette destinée à être proposée au CSE Bonnet.
+Site web de découverte des marchands locaux et points de vente à la ferme dans le Var, avec l'Hôpital Bonnet comme point de départ par défaut sur la carte. Maquette destinée à être proposée au comité développement durable — Responsabilité Sociétale et Environnementale — de l'Hôpital Bonnet.
 
 Le site affiche une carte interactive (OpenStreetMap) centrée sur l'hôpital, avec une liste de marchands triée par distance et une fiche détaillée pour chacun.
 
@@ -2328,4 +2329,4 @@ Le site est déployé sur Railway, avec deux services : l'application et une bas
 
 ---
 
-Prototype pour CSE Bonnet — ce dépôt et le site qu'il produit n'émanent pas du CHI Fréjus Saint-Raphaël.
+Prototype pour le comité développement durable (RSE) de l'Hôpital Bonnet — ce dépôt et le site qu'il produit n'émanent pas du CHI Fréjus Saint-Raphaël.

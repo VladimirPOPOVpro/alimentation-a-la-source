@@ -7,7 +7,7 @@ import {
   BANDEAU,
   DETAILS,
   DETAILS_TITRE,
-  SIGNATURE,
+  SIGNATURE_COURTE,
 } from "@/lib/prototype";
 
 /**
@@ -122,7 +122,7 @@ export default function PrototypeNotice() {
         className="fixed bottom-4 left-4 z-[1100] inline-flex items-center gap-1.5 rounded-full border border-amber-300 bg-amber-50/95 px-3 py-1.5 text-xs font-semibold text-amber-900 shadow-md backdrop-blur transition-colors hover:bg-amber-100"
       >
         <FlaskConical className="h-3.5 w-3.5" aria-hidden="true" />
-        {SIGNATURE}
+        {SIGNATURE_COURTE}
       </button>
 
       {detailsOuverts && (
