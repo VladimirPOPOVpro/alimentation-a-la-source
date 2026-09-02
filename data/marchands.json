@@ -7717,5 +7717,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sauvages+et+Cultivées+Chelles",
     "image_url": "/images/marchands/sauvages-et-cultivees.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-roubaix",
+    "nom": "Marché du Centre-ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.69187,
+    "lon": 3.178543,
+    "adresse": "Place de la Liberté, sur le parvis face au métro, 59100 Roubaix",
+    "horaires": "Samedi de 8h30 à 13h (les commerçants s'installent à partir de 7h)",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Charcuterie",
+      "Boucherie et rôtisserie",
+      "Fromages",
+      "Boulangerie",
+      "Fleurs et plants d'horticulteurs"
+    ],
+    "description": "Le seul des six marchés de plein air de Roubaix que la Ville classe « alimentaire et horticole ». Son règlement municipal réserve les emplacements aux métiers de bouche, aux fruits et légumes et aux horticulteurs, et interdit formellement la vente en gros destinée à la revente.",
+    "site_web": "https://www.ville-roubaix.fr/professionnels/marches-braderies-brocantes/les-marches-roubaisiens/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+centre-ville+place+de+la+Liberté+Roubaix",
+    "image_url": "/images/marchands/marche-du-centre-ville-roubaix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-lepeule-roubaix",
+    "nom": "Marché de l'Épeule",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.689836,
+    "lon": 3.159688,
+    "adresse": "Place Victor-Vandermeiren, rue Brondeloire et rue Brézin, 59100 Roubaix",
+    "horaires": "Dimanche de 8h30 à 14h (les commerçants s'installent à partir de 7h)",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Charcuterie",
+      "Boucherie et rôtisserie",
+      "Fromages",
+      "Boulangerie"
+    ],
+    "description": "Le marché du dimanche matin, dans le quartier de l'Épeule, autour de la place Victor-Vandermeiren et sur les rues Brondeloire et Brézin. La Ville ne publie pas la liste des étals : les produits indiqués ici sont les catégories alimentaires que son règlement des marchés autorise.",
+    "site_web": "https://www.ville-roubaix.fr/professionnels/marches-braderies-brocantes/les-marches-roubaisiens/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+l'Épeule+place+Victor+Vandermeiren+Roubaix",
+    "image_url": "/images/marchands/marche-de-lepeule-roubaix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-lalma-roubaix",
+    "nom": "Marché de l'Alma",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.702534,
+    "lon": 3.167388,
+    "adresse": "Parking attenant à la placette Viviane-Romance, entre la rue de France et la rue de la Chaussée, 59100 Roubaix",
+    "horaires": "Mercredi de 8h30 à 14h (les commerçants s'installent à partir de 7h)",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Charcuterie",
+      "Boucherie et rôtisserie",
+      "Fromages",
+      "Boulangerie"
+    ],
+    "description": "Le marché du mercredi matin du quartier de l'Alma : il commence rue de la Chaussée, s'installe sur le parking de la placette Viviane-Romance et se prolonge rue des Anges puis rue de Cassel. La Ville ne publie pas la liste des étals : les produits indiqués ici sont les catégories alimentaires que son règlement des marchés autorise.",
+    "site_web": "https://www.ville-roubaix.fr/professionnels/marches-braderies-brocantes/les-marches-roubaisiens/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+l'Alma+rue+des+Anges+Roubaix",
+    "image_url": "/images/marchands/marche-de-lalma-roubaix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-nouveau-roubaix",
+    "nom": "Marché du Nouveau Roubaix",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.677611,
+    "lon": 3.181164,
+    "adresse": "Rue Ingres, entre l'avenue Alfred-Motte et l'avenue Linné, 59100 Roubaix",
+    "horaires": "Lundi de 8h30 à 13h30 (les commerçants s'installent à partir de 7h)",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Charcuterie",
+      "Boucherie et rôtisserie",
+      "Fromages",
+      "Boulangerie"
+    ],
+    "description": "Le seul marché du lundi matin de Roubaix, dans le quartier Nouveau Roubaix : il occupe la rue Ingres et se prolonge rue Raphaël et rue Léonard-de-Vinci, de part et d'autre du boulevard de Fourmies. La Ville ne publie pas la liste des étals : les produits indiqués ici sont les catégories alimentaires que son règlement des marchés autorise.",
+    "site_web": "https://www.ville-roubaix.fr/professionnels/marches-braderies-brocantes/les-marches-roubaisiens/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Nouveau+Roubaix+rue+Ingres+Roubaix",
+    "image_url": "/images/marchands/marche-du-nouveau-roubaix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "l-ane-hilare",
+    "nom": "L'âne hilare",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.691572,
+    "lon": 3.169909,
+    "adresse": "5 rue de l'Hospice, 59100 Roubaix",
+    "horaires": "Du lundi au vendredi de 10h à 19h30, le samedi de 9h30 à 19h30",
+    "produits": [
+      "Fruits et légumes biologiques, locaux et de saison",
+      "Fromages fermiers au lait cru de chèvre, de vache et de brebis",
+      "Yaourts, beurre de baratte et boissons végétales",
+      "Épicerie sèche et épices biologiques en vrac",
+      "Huiles, olives et tapenades locales ou grecques",
+      "Cafés, thés et cacao de filières équitables",
+      "Bières locales, vins grecs et français"
+    ],
+    "description": "Un magasin d'alimentation de 175 m² en plein centre-ville, où le vrac se sert en fûts et où les producteurs sont pour la plupart installés dans un rayon de 70 km — le Potager des 4 Vents à Annezin, les Jardins de la Fontaine à Croix. À cette offre locale s'ajoute une sélection grecque revendiquée : huile d'olive et olives de Laconie, pistaches d'Égine, fromages AOP.",
+    "telephone": "07 77 34 20 65",
+    "site_web": "https://lanehilare.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L'âne+hilare+5+rue+de+l'Hospice+Roubaix",
+    "image_url": "/images/marchands/l-ane-hilare.jpg",
+    "a_confirmer": true
   }
 ]

@@ -663,9 +663,34 @@ prioritaires en cas de conflit.
    peut être publié **sans** `site_web`, plutôt qu'écarté faute de site ou, pire, crédité de
    celui d'un homonyme. La fiche Sauvages et Cultivées est la première publiée à ce titre.
 
+57. **Un point de vente annoncé au futur par ses propres porteurs n'est pas publiable**, quelle
+   que soit la qualité de la source. Critère : si la source la plus proche du lieu — son site,
+   l'association qui le porte, la collectivité qui le finance — décrit la vente au futur
+   (« pourront y récolter », « c'est, à terme, », « ouvrira ») et ne publie aucune date
+   d'ouverture, la fiche attend. Rencontré à la ferme urbaine du Trichon à Roubaix, où la Ville
+   et la ferme emploient l'une et l'autre le futur pour la même auto-récolte. Ce que la règle
+   débloque : elle autorise à consigner le lieu dans les « Pistes non publiées » avec le critère
+   précis qui le débloquera, plutôt qu'à le publier « à confirmer ». Le champ `a_confirmer`
+   signale une information incertaine sur un commerce **qui existe** ; il ne couvre pas un
+   commerce qui n'a pas encore ouvert, et s'en servir ainsi enverrait quelqu'un devant un
+   portail fermé.
+
+58. **Entre deux publications d'une même autorité, une date explicite départage la règle 55.**
+   La règle 55 publie les deux valeurs quand rien ne permet de choisir ; une date, elle, permet
+   de choisir. Critère : si l'une des deux publications porte une date de rédaction et que
+   l'autre est la page de référence tenue à jour sur le même sujet, c'est la seconde qui est
+   publiée seule, et la première est citée dans ce README. Rencontré à Roubaix, où le règlement
+   des marchés daté de mai 2019 place le marché du centre-ville « sur la Grand'Place (côté rue
+   du Château) » et nomme « Nouveau Roubaix Rubens » le marché du lundi, quand la page des
+   marchés de la Ville écrit aujourd'hui « place de la Liberté » et « Nouveau Roubaix Ingres ».
+   Renfort décisif : ce règlement écrit lui-même, en tête de son annexe, « La Ville garde la
+   possibilité de les modifier à tout moment ». Ce que la règle débloque : un marché déplacé ou
+   renommé reste publiable, à son emplacement actuel, sans être bloqué par un texte réglementaire
+   ancien que rien n'a formellement abrogé.
+
 ## Marchands à confirmer
 
-264 fiches sur 298 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+269 fiches sur 303 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -932,7 +957,13 @@ prioritaires en cas de conflit.
 - **Le Vrac Retrouvé** (épicerie biologique et vrac à cent vingt mètres de la halle, certificat Ecocert **engagement en cours**. Horaires, téléphone et gammes viennent du site du magasin ; les sept produits sont les rubriques que l'exploitation déclare elle-même au registre de l'Agence Bio. **Contradiction d'adresse** : le magasin écrit « 56 bis avenue de la Résistance », le registre des entreprises et celui de l'Agence Bio écrivent « 56 » ; les deux points BAN sont à sept mètres, c'est la forme du magasin qui est publiée et la description porte l'écart. À ne pas confondre avec **La Boutique Vrac et Co**, au 30-32 de la même avenue, **fermée** au registre. Photo : la devanture, publiée par le magasin, sans personne dans le cadre)
 - **Sauvages et Cultivées** (**première fiche publiée au titre de la règle 56**, c'est-à-dire sans `site_web` : les deux domaines qui portent ce nom appartiennent à d'autres. La ferme maraîchère du Mont-Guichet est documentée par la Ville de Chelles, par le registre des entreprises — l'enseigne SAUVAGES ET CULTIVEES sur une immatriculation au patronyme de son exploitante, que la modération interdit de publier comme enseigne — par le registre de l'Agence Bio, certificat Ecocert **engagement en cours**, et par le collectif 3C. Les cinq produits sont ses propres déclarations à l'Agence Bio, et la vente aux particuliers y est déclarée par elle. **Aucun horaire n'est publié nulle part** : le champ `horaires` le dit franchement plutôt que d'inventer une porte ouverte, et la fiche vaut alors comme localisation, pas comme invitation. À cinquante-deux mètres du vignoble voisin : deux exploitations distinctes, aux n° 1 et n° 5 du même chemin, que la Ville et les deux registres nomment séparément. Photo : celle du site du Mont-Guichet publiée par la Ville de Chelles, les planches maraîchères sous un grand ciel, personne dans le cadre)
 
-Les 298 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du Centre-ville** (Roubaix) (**le seul des six marchés de plein air que la Ville classe « alimentaire et horticole »** ; les six autres, elle ne les qualifie pas. Les sept produits ne sont pas une liste d'étals — la Ville n'en publie aucune — mais les catégories que son règlement des marchés autorise, énumérées à l'article premier : métiers de bouche (poissonnerie, charcuterie, boucher, rôtisseurs, fromagers, boulangers), fruits et légumes, fleuristes et horticulteurs ; le même règlement interdit « formellement » la vente en gros destinée à la revente, ce qui est exactement le périmètre de ce site. **Emplacement contredit, tranché par la règle 58** : le règlement de mai 2019 écrit « sur la Grand'Place (côté rue du Château) », la page des marchés écrit aujourd'hui « sur la place de la Liberté, sur le parvis face au métro » — c'est la page à jour qui est publiée. Point BAN sur la place de la Liberté à 0,971. Photo : la photographie de marché que la Ville publie en tête de sa rubrique, **recadrée sur la portion centrale**, l'étal et la camionnette du producteur, sans personne dans le cadre — la moitié gauche de l'original montre quatre visages reconnaissables)
+- **Marché de l'Épeule** (Roubaix) (le marché du dimanche matin, et la seule des quatre fiches de marché de cette passe que la Ville illustre elle-même : sa photothèque intitule « Marché de l'Épeule » le cliché d'étal de tomates, salades et poivrons publié en bandeau de la rubrique marchés. `produits` porte les six catégories alimentaires du règlement et la description dit qu'aucune liste d'étals n'est publiée, même discipline qu'à Porchefontaine, Jussieu-Montreuil et Arnaud-Bernard. La place Victor-Vandermeiren est connue de la BAN comme `locality` à 0,960 ; le marché déborde sur les rues Brondeloire et Brézin, que l'adresse nomme)
+- **Marché de l'Alma** (Roubaix) (le marché du mercredi matin. Le périmètre est le plus détaillé des six : la page de la Ville et l'annexe II du règlement décrivent l'une comme l'autre un marché qui commence rue de la Chaussée, occupe le parking attenant à la placette Viviane-Romance entre la rue de France et la rue de la Chaussée, puis se prolonge rue des Anges jusqu'à la rue de Cassel — **les deux sources s'accordent ici**, contrairement au centre-ville et au Nouveau Roubaix. La BAN normalise « placette Viviane-Romance » en « Place Viviane Romance », à 0,802 et à 35 m du centre de la rue de la Chaussée : c'est ce point qui est publié et l'adresse garde la forme de la Ville. Photo : la vue aérienne du quartier de l'Alma publiée par la Ville, dont le fichier s'appelle `place-march2.jpg` — c'est le quartier, pas les étals, et la présente note est là pour le dire)
+- **Marché du Nouveau Roubaix** (**le seul marché du lundi matin**, et le cas qui a fait écrire la règle 58 : l'annexe II du règlement de mai 2019 le nomme « Nouveau Roubaix RUBENS » et le place rue Rubens, la page des marchés le nomme aujourd'hui « Nouveau Roubaix INGRES » et le place rue Ingres — deux rues de peintres du même quartier, les rues Raphaël et Léonard-de-Vinci étant décrites à l'identique par les deux textes. C'est la page à jour qui est publiée. Point BAN sur la rue Ingres à 0,981. Photo : la portion droite de la même photographie de marché de la Ville, courgettes, tomates cerise, concombres et brocolis — un cadrage franchement distinct de celui du centre-ville, mais tiré du même cliché, ce que la présente note signale)
+- **L'âne hilare** (Roubaix) (épicerie biologique et vrac de 175 m² en centre-ville, **la seule fiche de cette passe qui ne soit pas un marché**. Le pilier `environnement` vient du registre de l'Agence Bio, qui porte l'enseigne en activité « Distribution » avec un certificat **engagement en cours** aux deux adresses qu'elle occupe, 5 rue de l'Hospice et 41 rue des Arts — le registre des entreprises confirme deux établissements ouverts. Le magasin est plus nuancé que son certificat et la fiche suit le magasin : il écrit « bio à 100 % » pour ses fruits et légumes mais « ils ne sont pas tous labellisés bio » pour l'ensemble de ses producteurs, qu'il dit relever d'une agriculture paysanne dans un rayon de 70 km ; la description ne revendique donc rien de plus que ce que le magasin revendique. Les deux producteurs nommés dans la description, le Potager des 4 Vents à Annezin et les Jardins de la Fontaine à Croix, sont ceux que le magasin nomme lui-même. Le seul numéro publié est un portable, donné par le magasin comme son numéro de contact : il est repris, comme pour la Ferme Horticole de Lomme. **Les prénoms des deux gérants, que le magasin publie sur sa page « à propos », ne le sont pas ici.** Point BAN sur le numéro 5 à 0,969. Photo : l'intérieur du magasin publié par le magasin, cageots de poires, carottes, courgettes et haricots sous l'enseigne « fruits et légumes », **recadrée à gauche de l'unique personne du cadre**)
+
+Les 303 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -960,6 +991,102 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Tourcoing et à Roubaix
+
+Douzième passe en ville. Département visé : le **Nord (59)**, déficit **6,304220** fiche au sens
+de la règle 41, le plus élevé de France avec 298 fiches publiées — et de très peu, puisque le
+Pas-de-Calais suit à **6,300756**, trois millièmes derrière. Les deux sont en **région 32**, que
+la passe précédente n'a pas visée : la réserve de la règle 41.c est respectée. Le Nord comptait
+déjà cinq fiches, toutes à Lille et à Lomme. Après la passe, son déficit tombe à **1,49** et
+c'est le Pas-de-Calais qui prend la tête, à 6,41.
+
+**Descente d'échelle : Tourcoing n'a pas rendu ses cinq points.** La commune la plus peuplée du
+département sans aucune fiche est **Tourcoing, 98 772 habitants**, et c'est là que la passe a
+commencé. Elle n'a rendu que quatre pistes solides, et le prompt demande alors de descendre à la
+suivante par population : **Roubaix, 98 286 habitants**, cinq cents habitants derrière et trois
+kilomètres plus au sud. Ce que Tourcoing a donné, et pourquoi cela ne suffisait pas :
+
+- **Trois marchés hebdomadaires**, correctement documentés par la Ville : le marché du
+  centre-ville sur la Grand-Place (« les lundis, jeudis de 8h à 13h », « le samedi de 7h à 13h »,
+  alimentaire exclusivement le samedi), le marché des Phalempins (« les mercredis de 7h30 à
+  12h30 ») et le marché de la Bourgogne (« les vendredis de 14h à 18h30 »), ces deux derniers
+  textile et alimentaire. Trois fiches possibles, pas cinq.
+- **Ferme Castel**, désignée ainsi par la page « commerçants écoresponsables » de la Ville, qui
+  la situe « rue lieutenant colonel Duchatelet ». Au registre des entreprises, l'immatriculation
+  correspondante est **active, deux établissements ouverts, NAF 01.50Z culture et élevage
+  associés** — une vraie exploitation agricole — mais elle est au **1 rue de Laon**, et elle est
+  immatriculée sous un patronyme que MODERATION.md interdit de publier comme enseigne (la
+  désignation de la Ville, « Ferme Castel », serait utilisable, précédent Provence Bio).
+  **Contradiction d'adresse non tranchée, et aucun horaire de vente publié nulle part** : la
+  piste attend une source qui donne l'un ou l'autre.
+- **Le registre de l'Agence Bio ne rend rien** : 21 opérateurs à Tourcoing sur les 1 785 du
+  département, presque tous des supermarchés (quatre Carrefour, un Lidl), des grossistes ou des
+  préparateurs. Le seul opérateur en activité « Production », l'IMPRO du Roitelet au 105 rue du
+  Roitelet, porte un certificat **arrêté le 27 juin 2025** et ne déclare que la vente aux
+  professionnels en gros. **Aucun producteur bio ne vend aux particuliers à Tourcoing.**
+- **Le reste de la page « commerçants écoresponsables » est hors sujet** : boulangeries,
+  boucheries, pharmacies, parfumeries, un Carrefour City et un Match. MODERATION.md écarte le
+  commerce généraliste. La Torrefactory et Öfika torréfient sur place, mais du café importé, pas
+  une production en circuit court.
+- **Trois enseignes de la liste ne sont pas publiables** : l'**Épicerie Chez Lucille**
+  (71 rue de Tournai) est **fermée** au registre ; **On part en vrac** est immatriculée à
+  Armentières et n'est présente à Tourcoing que comme étal du marché du samedi, ce que la
+  règle 16 écarte ; **Prise Direct** n'existe au registre que sous une immatriculation fermée à
+  Saint-Laurent-Blangy (62), et son domaine `prisedirect.fr` affiche « This domain is available
+  for sale » — quatrième piège de la règle 56 rencontré ici.
+
+**Le réseau AMAP des Hauts-de-France est introuvable, et un domaine imite son nom.**
+`amap-hautsdefrance.org`, `reseau-amap-hdf.org`, `amaphautsdefrance.fr` et `amap-hdf.fr` ne
+résolvent pas. **`amap5962.org` répond en 200 et n'est pas le réseau AMAP** : son sommaire
+propose « Plages », « Gastronomie », « Musées », « Art et Culture », « Histoire » et « Lieux les
+plus fréquentés », et son sous-titre est « Guide, photos et bonnes adresses du Nord-Pas-de-Calais ».
+C'est un guide touristique installé sur un nom de domaine qui ressemble à celui d'un réseau
+d'AMAP — exactement ce que la règle 56 demande de vérifier avant d'inscrire un `site_web`.
+Aucune AMAP n'a donc pu être vérifiée dans cette passe, ni à Tourcoing ni à Roubaix.
+
+**Ce que Roubaix a donné, et ce qui n'a pas été publié.**
+
+- **Deux des six marchés restent à publier** : le **marché de Nation**, place de la Nation entre
+  les rues Lacroix et du Sentier, le vendredi de 14h à 17h (BAN 0,974 sur la place), et le
+  **marché du Pile**, entre l'avenue de Brame et l'avenue de Verdun et sur l'avenue du
+  Président-Kennedy, le samedi de 14h à 17h30. Ils ont été laissés de côté pour tenir les cinq
+  fiches de la passe et pour ne pas empiler quatre marchés de plus sur les mêmes samedi et
+  vendredi ; les quatre publiés couvrent quatre jours différents et quatre quartiers. À noter
+  pour le Pile : **la Base Adresse Nationale ne connaît pas d'« avenue de Brame »**, elle rend
+  « avenue Jules Brame », à 224 m du point de l'avenue du Président-Kennedy.
+- **Un septième marché a disparu entre deux publications de la Ville** : le règlement de mai 2019
+  liste « Trois Ponts, le mardi matin », place de la Citoyenneté ; la page des marchés d'
+  aujourd'hui n'en fait plus mention. Règle 58 : c'est la page à jour qui fait foi, donc pas de
+  fiche. Si une source récente le rétablit, il complète la série.
+- **La ferme urbaine du Trichon n'est pas publiée, et c'est elle qui a fait écrire la règle 57.**
+  Tout y est pourtant vérifié : 6 300 m² sur une friche industrielle du quartier du Trichon, au
+  20 rue de Sébastopol chez la Coopérative Baraka ; le **Collectif des paysans urbains du
+  Trichon** est actif au registre des entreprises et porte au registre de l'Agence Bio une
+  activité « Production » avec un certificat **engagement en cours** ; la Ville de Roubaix
+  consacre au projet un chapitre entier de sa page « agriculture urbaine ». Mais les deux
+  sources les plus proches du lieu emploient le futur pour la vente : la Ville écrit « Les
+  habitants **pourront** y récolter directement fruits et légumes », et le site de la ferme
+  écrit « c'est, **à terme**, l'association d'un jardin partagé, d'une ferme maraîchère en
+  auto-récolte et d'un tiers-lieu ». Le principe annoncé est un abonnement annuel avec récolte
+  libre, de l'ordre de 1,50 € par personne et par jour. **Critère de déblocage : une date
+  d'ouverture de l'auto-récolte, ou des heures d'accès publiées par la ferme ou par la Ville.**
+- **Monsieur Muesli**, 87 rue du Fontenoy, est actif au registre sous le code NAF 47.21Z et porte
+  un certificat bio **engagement en cours**, mais son site est une boutique en ligne : aucune
+  vente sur place, aucun horaire, aucune adresse de magasin. Pas de point sur une carte.
+- **La Coopérative Baraka**, 20 rue de Sébastopol, sert des plats « 100 % bio et locaux dès que
+  possible » du lundi au vendredi midi. C'est un restaurant et un tiers-lieu de coworking, pas un
+  point de vente alimentaire : hors périmètre, comme le Plateau de Terroirs à Meaux.
+- **AF Barbieux**, 70 avenue Jean-Jaurès, apparaît au registre de l'Agence Bio avec vente aux
+  particuliers, mais son siège est à Avelin sous le code NAF 10.71C, boulangerie-pâtisserie
+  industrielle : commerce généraliste, écarté par MODERATION.md.
+- **Le site de la Ville se sert par deux portes**. `https://www.roubaix.fr/` ne présente pas de
+  certificat valide et `roubaix.fr` ne résout pas ; c'est `http://www.roubaix.fr/` qui redirige
+  vers le vrai domaine, **`www.ville-roubaix.fr`**. Son `robots.txt` renvoie la page d'accueil
+  (site Gatsby, réponse attrape-tout, même piège qu'à `www.toulouse.fr`), mais
+  `/sitemap.xml` existe et rend 537 URL. Les images des pages ne sont pas dans le HTML : elles
+  sont dans les fichiers `page-data.json` de Gatsby et dans l'API WordPress de
+  `api.ville-roubaix.fr`, où une recherche média sur « march » rend la photothèque des marchés.
 
 ### Pistes non publiées à Meaux et à Chelles
 
