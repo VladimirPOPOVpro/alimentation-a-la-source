@@ -445,10 +445,45 @@ prioritaires en cas de conflit.
    des magasins de producteurs plutôt que vers des domaines viticoles : c'est le sujet du site, pas
    une dérive, et cela oblige à changer de source principale, le registre national de l'Agence Bio
    remplaçant le sitemap de l'office de tourisme de la Provence Verte.
+42. **Deux équipements distincts tombent sur un seul point.** À Wazemmes, le marché de plein air et
+   les halles couvertes occupent la même place Nouvelle Aventure : la Ville les compte séparément
+   sur son plan, avec des jours et des amplitudes différents, mais aucune source ne donne aux
+   halles une adresse propre — le site des halles écrit lui-même « place de la nouvelle aventure »
+   et la Base Adresse Nationale ne connaît que la place. Deux fiches auraient partagé la même
+   coordonnée, donc se seraient cachées l'une l'autre sur la carte. Tranché ainsi : **quand deux
+   commerces se rattachent à un point qu'aucune source ne sait séparer, ils font une seule fiche,
+   dont le champ `horaires` porte les deux régimes**. Deux fiches seulement quand chacune a une
+   adresse géocodable en propre — ce que le cas Aspras / Permavar, distants de 31 m mais numérotés
+   séparément sur la D45, satisfaisait. Le critère est l'existence de deux points, pas la distance.
+43. **Le certificat suit l'exploitant, pas l'adresse.** La ferme urbaine Concorde est un équipement
+   de la Ville de Lille, qui écrit sur sa fiche d'équipement « son exploitation maraîchère bio :
+   d'une superficie de 4 500 m² » et nomme l'association à qui elle en a confié la conduite, Lille
+   Sud Insertion. Cette association porte au registre de l'Agence Bio un engagement Ecocert ouvert
+   le 12 octobre 2021 et jamais arrêté, en maraîchage, `venteParticuliers` à vrai — mais le
+   registre la déclare au 230 rue de l'Arbrisseau et au **8** rue Léon Blum, quand la vente se fait
+   au **46** de la même rue, 325 m plus loin. La règle 15 demande que le certificat soit rattaché à
+   l'exploitant : il l'est. Tranché ainsi : **le pilier `environnement` est accordé quand
+   l'exploitant certifié est celui que la source nomme comme conduisant le point de vente, et que
+   le registre lui déclare une adresse dans la même rue ou le même quartier**. Si toutes les
+   adresses déclarées étaient dans une autre commune, le pilier serait refusé. Ici la collectivité
+   qui possède l'équipement écrit elle-même « bio » : c'est un acte administratif sur son propre
+   bien, pas l'argument commercial d'un vendeur, et le certificat le corrobore.
+44. **La même source se contredit d'une page à l'autre.** `lille.fr` donne quatre heures
+   différentes pour le mercredi de la ferme urbaine Concorde — 13h-17h sur la liste des marchés,
+   10h-16h30 dans un article de quartier, 10h-16h dans un autre, 13h-16h30 sur la fiche
+   d'équipement — et deux pour le marché Saint-Sauveur, 7h-14h sur la liste des marchés et sur le
+   plan officiel, 7h-13h dans l'article qui annonce son déménagement. La règle 5 dit de consigner
+   la contradiction, elle ne dit pas laquelle publier quand c'est la même source. Tranché ainsi :
+   **à l'intérieur d'une source, la page de référence — fiche d'équipement, liste tenue à jour,
+   plan officiel — l'emporte sur l'article d'actualité, et entre plusieurs valeurs on retient celle
+   qui est corroborée aux deux bouts**. Concorde : la fiche d'équipement dit 13h-16h30, seule
+   valeur dont le début (13h, partagé avec la liste des marchés) et la fin (16h30, partagée avec un
+   article) soient tous deux confirmés ailleurs. Saint-Sauveur : deux pages de référence contre un
+   article, c'est 7h-14h. Les variantes écartées restent écrites ici.
 
 ## Marchands à confirmer
 
-209 fiches sur 243 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+214 fiches sur 248 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -659,8 +694,13 @@ prioritaires en cas de conflit.
 - **Domaine Saint Andrieu** (le registre des entreprises rend bien une société de ce nom, mais son siège est au Château Talbot, en Gironde : c'est le SIRET du registre de l'Agence Bio qui rattache l'établissement à Correns, et le site du domaine confirme l'appartenance au même groupe girondin. Pilier `environnement` accordé deux fois plutôt qu'une : l'engagement Ecocert de janvier 2019 ne couvre que les olives, l'huile et les pistaches — pas le raisin de cuve — mais l'huile est justement l'un des produits de la fiche, ce que la règle 39 demande, et le domaine écrit en plus avoir obtenu la Haute Valeur Environnementale en juin 2017, règle 21. Horaires contredits le mercredi : le domaine annonce un accueil uniquement sur rendez-vous, l'office 9h à 12h — les deux sont publiés et attribués. Aucune source ne donne de numéro de voirie ; le marqueur de l'office est publié, son contrôle inverse rend le « 4350 chemin de Saint Andrieu » à 33 m et l'adresse déclarée à l'Agence Bio tombe à 32 m, mais aucune des trois ne porte de numéro et la fiche n'en invente pas)
 - **Safran des Pierres Blanches** (deux adresses au même numéro sur deux routes différentes : le registre des entreprises déclare « 857 route de Châteauvert », le registre bio et l'office « 857 route du Vallon Sourn ». Seule la seconde existe dans la Base Adresse Nationale, avec un contrôle inverse à 0 m et un point identique au mètre près à celui que l'Agence Bio géocode : c'est elle qui est publiée, règle 30, la première étant à 2,3 km à l'ouest. Pilier `environnement` accordé bien que l'office écrive « en conversion bio » : l'engagement chez Bureau Alpes contrôles est ouvert le 27 janvier 2025 et n'est pas arrêté, ce que la règle 15 demande — c'est l'inverse exact du Domaine des Roches Blanches, dont le certificat était arrêté. L'exploitation est immatriculée sous le patronyme de l'exploitant, avec « SAFRAN DES PIERRES BLANCHES » en enseigne déclarée : c'est l'enseigne qui est publiée. Pas de `site_web` : l'office ne publie qu'une page Facebook, règle 33)
 - **Le Poulailler de Léa** (première fiche publiée au titre de la règle 40 : le registre de l'Agence Bio déclare `venteParticuliers` à faux pour cet élevage, alors que l'office annonce une ouverture sur rendez-vous et un étal au marché hebdomadaire du Val. Le drapeau est consigné, la fiche dit que la vente se fait sur rendez-vous. Le nom n'est pas un patronyme publié comme enseigne : l'élevage porte lui-même ce libellé sur son logo, seule image que publie l'office, ce que la règle 36 demande — le patronyme de l'éleveuse, que le registre rend, n'apparaît nulle part. Le numéro « 1178 chemin des Couastes Belles » de la Base Adresse Nationale tombe exactement sur le marqueur de l'office, à 0 m. Pilier `environnement` sur un engagement Ecocert ouvert le 20 janvier 2011. Les produits sont ceux que l'office nomme, volailles et œufs, règle 31 : les olives et le raisin de cuve du registre bio ne sont annoncés nulle part à la vente et ne sont cités que dans la description. Photo : l'unique image de l'office est le logo dessiné de l'élevage, donc c'est une vue de l'Argens dans le vallon Sourn, à Correns, qui illustre la fiche — photo thématique de la même commune au titre de la règle 1)
+- **Marché de Wazemmes** (première fiche publiée au titre de la règle 42 : le marché de plein air et les halles couvertes de la place Nouvelle Aventure sont deux équipements que la Ville compte séparément, mais aucune source ne donne aux halles une adresse propre — le site `halles-wazemmes.com` écrit lui-même « place de la nouvelle aventure » — et une seconde fiche se serait posée sur la même coordonnée. Une seule fiche, dont les horaires portent les deux régimes : plein air mardi et jeudi 7h-13h, dimanche 7h-14h ; halles du mardi au samedi 8h-20h, dimanche 8h-15h, les deux confirmés par la liste des marchés de `lille.fr` et par le plan officiel « Lille aux marchés ». Le point est le **centre de la place** dans la Base Adresse Nationale, cinquième échelon de la règle 10 : un marché n'a pas de numéro de voirie. Produits pris à deux endroits : les pictogrammes du plan officiel donnent alimentation, produits biologiques et fleurs pour le plein air, alimentation et produits biologiques pour les halles ; les métiers — bouchers, volailler, fromagers affineurs, primeurs, fournil biologique — viennent de la liste des commerces publiée par les halles. Aucun téléphone : les deux numéros trouvés, 03 20 49 55 92 et 03 20 49 50 84, sont ceux des services municipaux qui gèrent les emplacements, pas du marché. Photo : la façade des halles publiée par `lille.fr`, sans personne)
+- **Marché de la place Sébastopol** (produits entièrement tirés des pictogrammes du plan officiel « Lille aux marchés », qui recense pour ce marché les six familles d'étals — alimentation, produits biologiques, fleurs, habillement, équipements de la maison et livres : aucune source ne publie la liste des commerçants d'un marché lillois, et rien n'a été inventé au-delà de ces six catégories. Horaires identiques sur la liste des marchés et sur le plan, mercredi et samedi de 7h à 14h. Point au centre de la place dans la Base Adresse Nationale, règle 10, cinquième échelon. Il tombe à 666 m du marché de Wazemmes : deux marchés municipaux distincts, pas un doublon. Photo thématique de la même commune au titre de la règle 1 — un marché lillois photographié par la Ville, où personne n'est identifiable, tous les passants étant de dos ou flous)
+- **Marché Saint-Sauveur** (première fiche publiée au titre de la règle 44 : `lille.fr` annonce 7h-14h sur sa liste des marchés et sur son plan officiel, 7h-13h dans l'article de mars 2026 qui annonce le déménagement du marché — ce sont les deux pages de référence qui sont publiées. Cet article donne en revanche les métiers, seule source à le faire : primeurs, producteurs fermiers, fromager, boucher, poissonnier, rôtisserie et fleuriste, les deux derniers confirmés par les pictogrammes du plan, qui ne coche que « alimentation » et « fleurs ». Adresse contredite dans le temps : le plan écrit « rue Saint-Sauveur, entre la rue Gustave Delory et l'avenue Kennedy », l'article situe le marché « à l'angle des rues Delory et Saint-Sauveur » après un déplacement « de quelques mètres » qu'il dit définitif — c'est l'angle qui est publié. La Base Adresse Nationale ignore « rue Saint-Sauveur 59000 » mais connaît « Rue Saint-Sauveur 59800 Lille », dont le centre de voie est à 179 m du centre de la rue Gustave Delory : c'est ce point qui est publié, cinquième échelon de la règle 10. Photo thématique de la même commune, règle 1 : un marché lillois photographié par la Ville en août 2026, dont les visages sont floutés à la source)
+- **Ferme urbaine Concorde** (première fiche publiée au titre des règles 43 et 44. Le pilier `environnement` : la Ville écrit sur sa fiche d'équipement « son exploitation maraîchère bio, d'une superficie de 4 500 m² » et nomme Lille Sud Insertion comme exploitant ; cette association porte un engagement Ecocert ouvert le 12 octobre 2021, jamais arrêté, en maraîchage, mais déclaré au 8 rue Léon Blum quand la vente se fait au 46 — 325 m, la même rue, ce que la règle 43 accepte. Les horaires : quatre valeurs contradictoires sur le même site, c'est le 13h-16h30 de la fiche d'équipement qui est publié, règle 44. Aucun téléphone et aucun contact : le seul numéro publié par la Ville est le portable d'une personne nommée, avec son adresse électronique — ni l'un ni l'autre ne sont repris, MODERATION. Les légumes nommés — courges, pommes de terre, carottes, oignons — viennent de l'article qui décrit la tournée du triporteur, seul à en citer. Le tarif solidaire sur justificatif est annoncé par la Ville, les trois montants qu'elle donne, 4,50 €, 7 € et 10 €, ne sont pas repris faute de savoir à quoi chacun correspond. Photo : la vue aérienne de l'exploitation publiée par `lille.fr`, sans personne)
+- **Ferme Horticole de Lomme** (l'exploitation est la ferme pédagogique de l'EPLEFPA des Flandres, immatriculée sous l'enseigne « LEGTA » et déclarée « RUE DE LA MITTERIE 59160 LILLE » : **Lomme est une commune associée de Lille**, et la Base Adresse Nationale normalise le 77 de cette rue en « 59160 Lille » — l'adresse publiée le dit dans les deux formes. Pilier `environnement` sur un engagement Ecocert ouvert le 5 décembre 2018, que la ferme confirme elle-même en écrivant « en fin 2018, nous avons franchi un nouveau cap en nous engageant dans la certification Agriculture Biologique », et qui couvre bien ce qui est vendu — légumes de saison et plants —, ce que la règle 39 demande. Téléphones contredits : le registre bio donne le 03 20 17 03 90, la page Contact de la ferme le 06 89 11 95 89 — c'est celui de la ferme qui est publié, de première main. Deux adresses de drive contredites aussi, `drive-fermier-lomme.fr` sur la page magasin et `drive-fermier.fr` sur la page contact : aucune des deux n'est inscrite, seul le site principal l'est. L'adresse électronique publiée par la ferme n'est pas reprise, et les producteurs qu'elle revend, désignés par leur prénom, ne sont pas nommés. Photo : l'étal du magasin à la ferme, prise sur le site même)
 
-Les 243 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 248 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -688,6 +728,61 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Lille
+
+Première passe hors du Var, et première passe en ville : le registre national de
+l'Agence Bio a remplacé le sitemap de l'office de tourisme comme source
+principale, et le site de la commune s'est révélé la ressource la plus riche —
+c'est lui qui publie les marchés, leurs horaires, leur plan et leurs
+pictogrammes de spécialité. Deux avertissements pour la prochaine passe en
+ville. Le registre bio n'a **pas de filtre par commune** : il faut paginer le
+département entier par cent (`?departements=59&nb=100&debut=0`, dix-huit pages
+et 1 785 opérateurs pour le Nord) puis filtrer soi-même sur
+`adressesOperateurs[].ville`, ce qui a rendu 155 opérateurs lillois. Et **Lomme
+et Hellemmes sont des communes associées de Lille** : le registre écrit « 59160
+LILLE » et « 59260 LILLE », les codes postaux lillois vont du 59000 au 59800, et
+un filtre sur le seul 59000 aurait manqué la ferme horticole de Lomme comme le
+marché Saint-Sauveur.
+
+- **La Renarde** (21 rue Michel Ange) : maraîchage bio, engagement Ecocert ouvert
+  le 17 mars 2024 et jamais arrêté, `venteParticuliers` et `venteProsDetail` à
+  vrai, et le registre lui déclare même une activité de « commerce de détail de
+  fruits et légumes frais ». Mais **aucune source ne décrit un point de vente ni
+  un horaire**, et le seul lien du registre est une page Facebook dont l'adresse,
+  `facebook.com/ccilgibert`, ne correspond pas au nom de la structure : règle 33,
+  rien n'est inscrit. La fiche est prête dès qu'un horaire sera trouvé.
+- **Marché du Vieux-Lille, place du Concert** : mercredi, vendredi et dimanche de
+  7h à 14h, et le plan officiel lui coche **les six familles d'étals**, ce qui en
+  fait le marché lillois le mieux garni avec Sébastopol et Wazemmes. Géocodé sans
+  difficulté au centre de la place (50.642412 / 3.061217). Il n'est pas publié
+  parce qu'une passe s'arrête à cinq fiches ; c'est le premier à reprendre. Neuf
+  autres marchés lillois sont dans le même cas, tous horodatés sur `lille.fr`.
+- **Ferme du Fort** (rue Chanzy) : maraîchage certifié vivant, mais sa propre FAQ
+  écrit « Pour le moment, nous ne proposons pas de vente directe ni de paniers à
+  la ferme. Toute notre production est destinée aux magasins de notre
+  partenaire ». Pas de circuit court au sens du site, rien n'est publié.
+- **A2PASD'ICI / Terre de Producteurs** (165 avenue de Bretagne) : magasin de
+  producteurs sur le papier, mais l'établissement est **fermé au registre des
+  entreprises** — `etat_administratif` à F, zéro établissement ouvert.
+- **Champignonnière Duribreux** (2 Pavé du Moulin, Hellemmes) :
+  `venteParticuliers` à faux au registre bio, aucune enseigne déclarée, et le
+  libellé du registre est le patronyme de l'exploitant. Rien de publiable, ni le
+  nom ni la vente, MODERATION.
+- **Le Collectif des Paysans Urbains du Trichon** : trouvé en cherchant les
+  maraîchers urbains du registre bio du Nord, il est en fait domicilié **20 rue
+  de Sébastopol à Roubaix**, chez la coopérative Baraka, et non à Lille — et son
+  bloc `venteAnnuaire` est à faux partout. À reprendre lors d'une passe à
+  Roubaix, avec le contrôle de vente directe que la règle 40 impose.
+- **Les enseignes des halles de Wazemmes** — Ferme du Beau Pays (boucherie bio),
+  Le Fournil Bio, Le Coq Hardi, La Finarde — sont des producteurs et artisans qui
+  tiennent un étal, mais leur point de vente lillois **est la halle elle-même**,
+  déjà publiée, et leur ferme est hors commune. Règle 42 : elles ne peuvent pas
+  recevoir de point propre à Lille.
+- **Supermarchés bio du registre** : le registre de l'Agence Bio du Nord contient
+  vingt-cinq grandes surfaces et vingt commerces de proximité certifiés, dont un
+  Carrefour City et un Carrefour Bio actifs et un Bio C'Bon dont la certification
+  est arrêtée. Tous écartés : MODERATION refuse les commerces généralistes.
 
 ### Pistes non publiées à Draguignan
 

@@ -6290,5 +6290,146 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Poulailler+de+Lea+Correns",
     "image_url": "/images/marchands/le-poulailler-de-lea.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-wazemmes",
+    "nom": "Marché de Wazemmes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.626359,
+    "lon": 3.049297,
+    "adresse": "Place Nouvelle Aventure, 59000 Lille",
+    "horaires": "Marché de plein air : mardi et jeudi de 7h à 13h, dimanche de 7h à 14h ; halles couvertes : du mardi au samedi de 8h à 20h, dimanche de 8h à 15h",
+    "produits": [
+      "Fruits et légumes",
+      "Produits biologiques",
+      "Viandes et charcuterie",
+      "Volailles",
+      "Fromages affinés",
+      "Pain biologique",
+      "Fleurs"
+    ],
+    "description": "Sur la place Nouvelle Aventure, un marché de plein air trois jours par semaine double des halles couvertes ouvertes du mardi au dimanche. Bouchers, volailler, fromagers affineurs, primeurs et fournil biologique y tiennent boutique à l'année.",
+    "site_web": "https://www.lille.fr/Vivre-a-Lille/Les-marches2/Halles-de-Wazemmes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Wazemmes+Lille",
+    "image_url": "/images/marchands/marche-de-wazemmes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-sebastopol",
+    "nom": "Marché de la place Sébastopol",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.628896,
+    "lon": 3.0578,
+    "adresse": "Place Sébastopol, 59000 Lille",
+    "horaires": "Mercredi et samedi de 7h à 14h",
+    "produits": [
+      "Alimentation",
+      "Produits biologiques",
+      "Fleurs",
+      "Habillement",
+      "Équipements de la maison",
+      "Livres"
+    ],
+    "description": "Marché de plein air du centre de Lille, deux matinées par semaine place Sébastopol, à la station de métro République. La Ville y recense les six familles d'étals : alimentation, produits biologiques, fleurs, habillement, équipements de la maison et livres.",
+    "site_web": "https://www.lille.fr/Vivre-a-Lille/Les-marches2/Les-marches-lillois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Sébastopol+Lille",
+    "image_url": "/images/marchands/marche-place-sebastopol.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-sauveur",
+    "nom": "Marché Saint-Sauveur",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.632293,
+    "lon": 3.071026,
+    "adresse": "Rue Saint-Sauveur, à l'angle de la rue Gustave Delory, 59800 Lille",
+    "horaires": "Mardi de 7h à 14h",
+    "produits": [
+      "Fruits et légumes de primeurs",
+      "Produits de producteurs fermiers",
+      "Fromages",
+      "Viandes",
+      "Poissons",
+      "Rôtisserie",
+      "Fleurs"
+    ],
+    "description": "Marché du mardi matin rue Saint-Sauveur, déplacé début 2026 de quelques mètres pour s'installer à l'angle de la rue Gustave Delory. Primeurs et producteurs fermiers y voisinent avec un fromager, un boucher, un poissonnier, une rôtisserie et un fleuriste.",
+    "site_web": "https://www.lille.fr/Vivre-a-Lille/Les-marches2/Les-marches-lillois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Sauveur+Lille",
+    "image_url": "/images/marchands/marche-saint-sauveur.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-urbaine-concorde",
+    "nom": "Ferme urbaine Concorde",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.618047,
+    "lon": 3.041463,
+    "adresse": "46 rue Léon Blum, 59000 Lille",
+    "horaires": "Vente de légumes à la ferme le mercredi de 13h à 16h30 ; triporteur devant la mairie de quartier, avenue Verhaeren, le lundi de 14h à 16h",
+    "produits": [
+      "Légumes de saison biologiques",
+      "Courges",
+      "Pommes de terre",
+      "Carottes",
+      "Oignons"
+    ],
+    "description": "Exploitation maraîchère biologique de 4 500 m² au Faubourg de Béthune, confiée par la Ville de Lille à l'association Lille Sud Insertion. Elle vend sa production sur place le mercredi, à tarif solidaire sur justificatif, et va au-devant des habitants du secteur Verhaeren avec un triporteur.",
+    "site_web": "https://www.lille.fr/Nos-equipements/Ferme-urbaine-Concorde",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+urbaine+Concorde+Lille",
+    "image_url": "/images/marchands/ferme-urbaine-concorde.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-horticole-de-lomme",
+    "nom": "Ferme Horticole de Lomme",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.648804,
+    "lon": 2.993325,
+    "adresse": "77 rue de la Mitterie, 59160 Lille (Lomme)",
+    "horaires": "Magasin à la ferme : vendredi de 14h à 19h toute l'année, mercredi de 9h à 12h hors vacances scolaires ; drive fermier le vendredi de 16h à 19h",
+    "produits": [
+      "Légumes de saison",
+      "Tomates",
+      "Courgettes",
+      "Poireaux",
+      "Carottes",
+      "Plants de légumes biologiques",
+      "Plants aromatiques",
+      "Fleurs"
+    ],
+    "description": "Ferme pédagogique du lycée horticole de Lomme, en maraîchage diversifié certifié Agriculture biologique depuis fin 2018. Le magasin à la ferme vend les légumes de saison et les plants cultivés sur place par les apprenants, ainsi que quelques produits d'autres agriculteurs du territoire.",
+    "telephone": "06 89 11 95 89",
+    "site_web": "https://ferme-horticole-de-lomme.odoo.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+Horticole+de+Lomme",
+    "image_url": "/images/marchands/ferme-horticole-de-lomme.jpg",
+    "a_confirmer": true
   }
 ]
