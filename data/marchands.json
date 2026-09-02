@@ -6676,5 +6676,134 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Saint-Victor+Marseille",
     "image_url": "/images/marchands/marche-de-saint-victor.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-croix-rousse",
+    "nom": "Marché biologique de la Croix-Rousse",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.77416,
+    "lon": 4.829,
+    "adresse": "Boulevard de la Croix-Rousse, 69001 Lyon",
+    "horaires": "Samedi de 6h à 13h30 ; le marché a lieu les jours fériés",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Volailles",
+      "Charcuteries",
+      "Pains"
+    ],
+    "description": "Le plus grand des cinq marchés que la Ville de Lyon classe comme biologiques : dix-huit commerçants le samedi matin sur le terre-plein du boulevard de la Croix-Rousse, celui-là même qui accueille le grand marché alimentaire les autres jours de la semaine. Métro C, bus 2, 13, 45 et 61, navette des pentes ; parking au 73 rue de Belfort.",
+    "site_web": "https://www.lyon.fr/lieu/marches-biologiques/marche-biologique-croix-rousse",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+Croix-Rousse+Lyon",
+    "image_url": "/images/marchands/marche-biologique-croix-rousse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-saint-jean",
+    "nom": "Marché biologique Saint-Jean",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.76029,
+    "lon": 4.82656,
+    "adresse": "Place Édouard Commette, côté Manécanterie de la cathédrale Saint-Jean, 69005 Lyon",
+    "horaires": "Jeudi de 6h à 12h30 ; le marché a lieu les jours fériés",
+    "produits": [
+      "Fruits et légumes",
+      "Charcuteries",
+      "Pains"
+    ],
+    "description": "Huit commerçants le jeudi matin sur la place Édouard Commette, au pied de la cathédrale Saint-Jean, dans le Vieux Lyon. C'est l'un des cinq marchés que la Ville de Lyon classe comme biologiques. Métro D Saint-Jean, funiculaire, bus 28, 29, 30 et 31 ; parking au 25 quai Romain-Rolland.",
+    "site_web": "https://www.lyon.fr/lieu/marches-biologiques/marche-biologique-saint-jean",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+Saint-Jean+place+Edouard+Commette+Lyon",
+    "image_url": "/images/marchands/marche-biologique-saint-jean.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-ambroise-courtois",
+    "nom": "Marché biologique place Ambroise-Courtois",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.74481,
+    "lon": 4.87086,
+    "adresse": "Place Ambroise-Courtois, 69008 Lyon",
+    "horaires": "Mercredi de 14h à 20h ; le marché a lieu les jours fériés",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Viande de bœuf, de porc et volaille",
+      "Poisson",
+      "Pain",
+      "Petite épicerie",
+      "Miel",
+      "Vin"
+    ],
+    "description": "Le mieux fourni des marchés biologiques lyonnais : une vingtaine de commerçants le mercredi après-midi place Ambroise-Courtois, à Monplaisir, jusqu'à 20h pour ceux qui travaillent. Poisson, viande, fromages, épicerie, miel et vin y sont tous certifiés. Métro D, arrêt Monplaisir-Lumière.",
+    "site_web": "https://www.lyon.fr/lieu/marches-de-lapres-midi/marche-biologique-place-ambroise-courtois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+place+Ambroise+Courtois+Lyon",
+    "image_url": "/images/marchands/marche-biologique-ambroise-courtois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-place-henri",
+    "nom": "Marché biologique place Henri",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.74826,
+    "lon": 4.88099,
+    "adresse": "Place Henri, 69003 Lyon",
+    "horaires": "Mercredi de 6h à 12h30 ; le marché a lieu les jours fériés",
+    "produits": [
+      "Fruits et légumes"
+    ],
+    "description": "Le plus petit des cinq marchés biologiques de Lyon : trois commerçants de fruits et légumes, le mercredi matin, sur la place Henri, à la limite de Montchat et de Villeurbanne. Bus 25 et 38.",
+    "site_web": "https://www.lyon.fr/lieu/marches-biologiques/marche-biologique-place-henri",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+place+Henri+Lyon",
+    "image_url": "/images/marchands/marche-biologique-place-henri.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-vaise",
+    "nom": "Marché biologique de Vaise",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.77498,
+    "lon": 4.80569,
+    "adresse": "Entre la rue du Bourbonnais et la place Valmy, au droit des n° 2 et 4 de la rue Sergent-Michel-Berthet et des n° 1 et 3 de la rue des Tanneurs, 69009 Lyon",
+    "horaires": "Mardi de 6h à 13h ; le marché a lieu les jours fériés",
+    "produits": [
+      "Fruits et légumes",
+      "Pains"
+    ],
+    "description": "Trois commerçants le mardi matin à Vaise, entre la rue du Bourbonnais et la place Valmy. C'est l'un des cinq marchés que la Ville de Lyon classe comme biologiques, et le seul de la rive droite de la Saône au nord de la ville.",
+    "site_web": "https://www.lyon.fr/lieu/marches-biologiques/marche-biologique-vaise",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+biologique+de+Vaise+place+Valmy+Lyon",
+    "image_url": "/images/marchands/marche-biologique-vaise.jpg",
+    "a_confirmer": true
   }
 ]

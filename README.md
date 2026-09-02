@@ -529,10 +529,24 @@ prioritaires en cas de conflit.
    local » ou « circuit court » écrits par un office de tourisme ne l'ouvrent pas, faute de quoi
    la mention se dissoudrait dans le vocabulaire. Cette règle est la seule voie non biologique
    vers ce pilier pour un marché ; les règles 39, 43 et 45 continuent de valoir pour les autres.
+49. **Une classification administrative vaut le règlement écrit.** La règle 45 posait deux
+   conditions pour accorder `environnement` à un marché biologique : que l'autorité le classe
+   ainsi, et qu'elle impose un certificat à chaque commerçant. La seconde venait de ce que la
+   Ville de Paris l'écrit noir sur blanc ; elle n'est pas reproductible. La Ville de Lyon ne
+   publie ni règlement des marchés ni obligation de certificat sur son site, mais son annuaire
+   des équipements tient un **sous-type « Marchés biologiques »** distinct du sous-type
+   « Marchés alimentaires », et ce sous-type ne range que **cinq marchés sur la soixantaine que
+   compte la commune**. Tranché ainsi : **la première condition suffit lorsque la classification
+   est un acte administratif — une catégorie de l'annuaire officiel, un intitulé porté par le jeu
+   de données de l'autorité — et non un adjectif dans une description**. Le critère est la
+   sélectivité : une catégorie qui retient cinq marchés sur soixante trie réellement, un mot dans
+   un paragraphe ne trie rien. L'obligation de certificat reste un renfort quand elle est
+   publiée ; elle n'est plus une condition. Cette règle affine la 45, elle ne l'annule pas : sans
+   classification administrative, il faut toujours l'obligation écrite.
 
 ## Marchands à confirmer
 
-224 fiches sur 258 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+229 fiches sur 263 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -758,8 +772,13 @@ prioritaires en cas de conflit.
 - **Marché de la Plaine** (quatrième fiche au titre de la règle 42 — « La Plaine » les mardi, jeudi et samedi de 7h30 à 13h et « La Plaine Producteurs » le vendredi de 15h à 19h, même place Jean Jaurès — et **première fiche publiée au titre de la règle 48** : la Ville écrit de ce marché, et d'aucun autre à Marseille, qu'il « est engagé dans une démarche zéro déchet, zéro plastique ». La fiche de l'office de tourisme, mise à jour le 11 mars 2026 par la Ville de Marseille elle-même, corrobore le vendredi 15h-19h, situe le marché paysan « Nord-Est de la Place (côté boulevard Chave) » et rattache ses producteurs à l'ADEAR 13. Cette même fiche se contredit sur leur nombre — « une vingtaine de producteurs locaux » dans sa description, « les 16 stands » dans son encart d'engagement : aucun des deux chiffres n'est publié. Centre de voie à 0,968. Photo : l'artichaut, les citrons et les bocaux de l'étal du marché paysan, photographiés par la Ville de Marseille, sans personne)
 - **Marché paysan du Cours Julien** (la Ville le classe « Producteurs », mercredi de 8h à 13h, et la fiche de l'office de tourisme — mise à jour le 11 mars 2026 par la Ville — donne le même horaire au quart d'heure près et le situe « sous les pergolas du cours Julien ». Les seuls produits nommés par une source sont les trois du billet de l'office, « pâtes fraîches, miel, pains » : la fiche n'en porte pas d'autres. Ce billet écrit aussi « marché bio et local », ce qui **n'ouvre pas** le pilier `environnement` : la règle 45 demande la classification de l'autorité gestionnaire et un certificat par commerçant, or la Ville classe ce marché « Producteurs » et non « bio », et aucun certificat d'étal n'est publié. La description le dit en toutes lettres plutôt que de trancher en silence. Seule coordonnée publiée par l'office : une page Facebook, que la règle 33 écarte. Centre de voie à 0,973. Photo : les tresses d'ail et les huiles d'un étal du marché, photographiées pour l'office de tourisme, **recadrées sous leur tiers supérieur** au titre de la règle 46 — deux visages nets y figuraient, la cliente qui reste est de dos)
 - **Marché de Saint-Victor** (deuxième fiche publiée au titre de la règle 44, et la contradiction porte cette fois sur la date : la Ville écrit « tous les derniers dimanches de chaque mois (sauf juillet et août) de 7h à 18h et de 9h à 16h en hiver », l'office de tourisme « tous les 4ème dimanches » — ce qui ne coïncide qu'un mois sur deux. Ce sont les indications de la Ville qui sont publiées, parce que sa page des marchés est la liste de référence des marchés qu'elle gère, et parce que **la fiche vers laquelle l'office renvoie lui-même renvoie une erreur 404** : la source la plus faible est aussi la moins consultable. La description porte les deux versions pour que personne ne se déplace un dimanche pour rien. L'office attribue le marché au collectif marseillais Hors Champs ; ce collectif n'est pas inscrit comme gestionnaire, faute d'une source de première main. Aucun produit n'est documenté au-delà de « produits locaux ». Centre de voie à 0,959. Photo thématique de la même commune au titre de la règle 1 : l'image d'en-tête que la Ville publie sur sa page des marchés alimentaires, un étal d'ail bio et de légumes, sans visage)
+- **Marché biologique de la Croix-Rousse** (première fiche publiée au titre de la règle 49 : la Ville de Lyon range ce marché dans le sous-type « Marchés biologiques » de son annuaire des équipements, qui ne contient que cinq marchés, et sa fiche d'équipement donne dix-huit commerçants, cinq familles de produits, les horaires et jusqu'au parking du 73 rue de Belfort. Trois sources indépendantes concordent sur le samedi 6h-13h30 : la fiche de la Ville, le jeu de données « Instances de marchés forains » de la Métropole et l'office de tourisme. Une contradiction sur le nombre d'étals — « une vingtaine » à l'office, dix-huit sur la fiche de la Ville : c'est le chiffre de la Ville qui est publié, règle 44. Le point est celui de la Métropole, à 179 m du centre de voie de la Base Adresse Nationale : le boulevard est long, le marché n'en occupe qu'une partie, le point de l'autorité vaut mieux. Photo thématique au titre de la règle 1 : un étal d'agrumes du marché alimentaire **du même boulevard**, photographié en 2018 pour l'office de tourisme ; ce n'est pas le marché bio du samedi et la présente note est là pour le dire)
+- **Marché biologique Saint-Jean** (la concordance la plus nette de la passe : la fiche de la Ville et le jeu de données de la Métropole donnent tous deux **jeudi 6h-12h30**, et le contrôle de la Base Adresse Nationale tombe à **3 m** du point de la Métropole. Le jeu de données « Marchés forains » de la Métropole nomme d'ailleurs l'emprise « Saint Jean - Place Commette (marché biologique) », 480 m². Huit commerçants, trois familles de produits. L'adresse publiée reprend la précision de la Ville, « côté Manécanterie ». Photo thématique de la même commune, règle 1 : un banc de fromages et de charcuteries du marché fermier de la place Carnot, photographié en 2018 pour l'office de tourisme)
+- **Marché biologique place Ambroise-Courtois** (le seul des cinq que la Ville range dans « Marchés de l'après-midi » tout en le classant biologique, et le mieux documenté : vingt commerçants, neuf familles de produits, « poisson, viande, fromages, épicerie, miel, vin ». Horaires contredits entre l'office de tourisme, qui écrit 15h-20h, et la Ville, qui écrit 14h-20h : le jeu de données de la Métropole donne lui aussi 14h-20h, ce qui départage à deux contre un en faveur de la Ville. Contrôle de la Base Adresse Nationale à 56 m. Photo thématique de la même commune, règle 1 : un étal de légumes du marché fermier de la place Carnot, devant la fresque peinte qui lui sert de fond)
+- **Marché biologique place Henri** (le plus petit des cinq, trois commerçants de fruits et légumes, et la fiche la plus maigre de la passe : un seul produit dans `produits`, faute de source qui en dise davantage. Horaires contredits d'une heure — 6h sur la fiche de la Ville et à l'office de tourisme, 7h dans le jeu de données de la Métropole : c'est 6h qui est publié, deux sources contre une, règle 44. Nombre d'étals contredit aussi, deux à l'office contre trois à la Ville : celui de la Ville est publié. Contrôle de la Base Adresse Nationale à 13 m. Photo thématique de la même commune, règle 1 : la balance de légumes que la Ville de Lyon publie elle-même en tête de son actualité sur les marchés, sans visage)
+- **Marché biologique de Vaise** (l'adresse est un cas d'école : la Ville n'écrit pas un numéro mais une emprise, « entre la rue du Bourbonnais et la place Valmy », précisée par « au droit des n° 2 et 4 de la rue Sergent-Michel-Berthet et des n° 1 et 3 de la rue des Tanneurs » — les deux formes sont publiées telles quelles. La fiche de l'office de tourisme, mise à jour pour la dernière fois en **mars 2018**, annonce six commerçants et un marché qui finit à 12h30 ; la fiche de la Ville en annonce trois et 13h : ce sont les valeurs de la Ville qui sont publiées, la source la plus récente et la plus proche, règle 44. Le jeu de données de la Métropole confirme le mardi 6h-13h. Contrôle de la Base Adresse Nationale à 42 m. Photo thématique de la même commune, règle 1 : des cageots de légumes du marché fermier de la place Carnot)
 
-Les 258 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 263 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -787,6 +806,61 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Lyon
+
+Quatrième passe en ville, et la meilleure moisson de données depuis Paris. Deux
+sources de première main se recoupent :
+
+- le **WFS de la Métropole de Lyon** (`data.grandlyon.com/geoserver/metropole-de-lyon/ows`),
+  qui publie deux couches utiles — `eco_economie.ecomarcheinstance_latest`, 239
+  séances de marché avec commune, adresse, type, jour et horaires en syntaxe
+  `opening_hours`, chacune géocodée par l'autorité ; et
+  `gin_nettoiement.ginmarche`, 166 emprises avec nom, surface et gestionnaire ;
+- l'**annuaire des équipements de `lyon.fr`**, dont le filtre `field_sous_types`
+  distingue « Marchés alimentaires », « Marchés de l'après-midi » et
+  **« Marchés biologiques »** — ce dernier ne rendant que cinq fiches, celles
+  qui sont publiées ici.
+
+Deux leçons de méthode. D'abord, **le portail open data d'une métropole n'a pas
+forcément d'API de catalogue** : ni l'API Opendatasoft ni celle de GeoNetwork ne
+répondent sur `data.grandlyon.com`, mais le `GetCapabilities` du WFS liste tout
+en un appel et permet de retrouver les couches par leur `<Title>`. Ensuite,
+**deviner les URL de `lyon.fr` ne marche pas** — cinq tentatives, cinq 404, et
+la page de recherche interne est en JavaScript — alors que son **JSON:API**
+Drupal, interrogé sur `/jsonapi/node/page` avec un filtre `CONTAINS` sur le
+titre, rend l'adresse exacte en un appel. À retenir pour les prochaines
+communes sous Drupal.
+
+**Le marché fermier des producteurs de la place Carnot (2e), non publié cette
+passe faute d'horaire sûr.** C'est le premier marché lyonnais d'après-midi et
+le seul de la commune qui s'annonce comme un marché de producteurs, ce qui en
+fait la première fiche à reprendre au prochain passage. Mais trois sources
+donnent trois horaires : le jeu de données de la Métropole dit mercredi
+14h-20h, une fiche de l'office de tourisme dit 15h-19h, une seconde fiche du
+même office — pour le même marché, sous le nom « Marché des producteurs de
+pays » — dit 16h-19h, et le texte rédigé de la première fiche écrit lui aussi
+« de 16 à 19 heures ». La valeur corroborée aux deux bouts est 16h-19h, mais
+l'office se dédouble et se contredit sur le même objet : la règle 44 départage
+les pages d'une même source, pas deux fiches jumelles qui ne se savent pas
+jumelles. Rien n'est publié tant que la Ville n'aura pas été retrouvée sur ce
+point précis.
+
+**Ce que Lyon documente et que Marseille ne documentait pas** : le nombre de
+commerçants et la liste des produits, marché par marché, sur la fiche
+d'équipement de la Ville. Les cinq fiches de cette passe en portent donc une à
+huit entrées réelles, sans rien inventer.
+
+**Photos : cinq photos thématiques, aucune photo du lieu.** Les fiches
+d'équipement de `lyon.fr` ne portent aucune image, et les fiches de l'office de
+tourisme illustrent les marchés bio avec des banques d'images — Shutterstock
+pour la Croix-Rousse, Pixabay pour Ambroise-Courtois, PxHere pour Saint-Jean.
+Shutterstock est une image sous licence commerciale que le site ne peut pas
+porter, et les autres ne montrent pas le lieu. Les cinq photos publiées sont
+donc de vraies photographies de marchés lyonnais — quatre prises pour l'office
+de tourisme en 2018 boulevard de la Croix-Rousse et place Carnot, une publiée
+par la Ville de Lyon — mais aucune ne montre le marché biologique de sa fiche,
+et chaque puce ci-dessus le dit.
 
 ### Pistes non publiées à Marseille
 
