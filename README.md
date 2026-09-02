@@ -595,9 +595,26 @@ prioritaires en cas de conflit.
    la compléter chez trois voisins différents ferait exactement l'éparpillement que la consigne
    de groupement interdit.
 
+53. **Quand la déclaration d'un producteur à un jeu de données public est plus large que ce que
+   son propre site annonce, on publie l'union des deux listes et on attribue chaque source dans
+   la description.** La Ferme du Bois des Anses, à Nantes, écrit sur son site « Vente de légumes
+   et aromates bio » et rien d'autre ; sa fiche du jeu de données « producteurs en vente directe »
+   de Nantes Métropole coche en plus fruit, œuf, pain, boisson sans alcool et déclare des sorbets
+   en produit libre. Deux réflexes étaient possibles et tous deux mauvais : publier l'union en
+   silence, et envoyer quelqu'un chercher du pain qui n'existe peut-être plus ; ou s'en tenir au
+   site, et réduire `produits` à deux lignes alors que le producteur a lui-même déclaré les autres
+   à sa métropole. Tranché ainsi : **les deux listes sont des déclarations du producteur, pas des
+   sources concurrentes** — l'une est datée du jour où il a rempli le formulaire, l'autre du jour
+   où il a mis son site à jour, et rien ne permet de dire laquelle est la plus récente. On publie
+   donc l'union, la fiche porte `a_confirmer: true`, et **la description nomme explicitement quelle
+   source porte quoi**, pour que le visiteur sache lui-même ce qui est sûr et ce qui ne l'est pas.
+   La règle ne vaut que dans ce sens : un jeu de données public **plus étroit** que le site du
+   producteur ne retranche rien, et une source tierce qui n'est pas le producteur lui-même — un
+   annuaire, un office de tourisme — reste soumise à la règle 5.
+
 ## Marchands à confirmer
 
-244 fiches sur 278 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+249 fiches sur 283 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -843,8 +860,13 @@ prioritaires en cas de conflit.
 - **Marché biologique de Boulogne-Billancourt** (pilier `environnement` par la règle 49 : « Marché biologique » est l'un des trois intitulés de la liste officielle des marchés de la Ville, à côté de « Marché Escudier » et « Marché Billancourt » — une classification qui retient un marché sur trois trie réellement. C'est aussi le plus dense en alimentaire des trois, 86 %, pour quinze commerçants et 360 m². L'adresse de la Ville est une emprise, « route de la Reine (côté pair) entre la rue de l'Ancienne mairie et la rue de Billancourt » : les deux intersections ont été retrouvées par géocodage inverse le long de la route de la Reine, et le point publié est le milieu du tronçon, entre les numéros pairs 112 et 122. Aucun téléphone : la Ville ne donne pour ce marché ni placier ni ligne dédiée, et le standard du service des marchés n'a pas été publié à sa place. Photo : l'étal d'herbes aromatiques et d'huiles du marché des producteurs de la commune, **recadré sous la ligne des visages**, règle 46)
 - **AMAP de Boulogne-Billancourt** (association immatriculée sous NAF 94.99Z, un établissement ouvert, et le seul point de vente en circuit court que la commune compte hors marchés. Son propre site titre « Nos producteurs 100 % BIO » et détaille les sept fermes partenaires ferme par ferme, ce qui fonde le pilier `environnement` sans passer par la règle 49. Le lieu de distribution, la Maison de la Planète du 72 allée du Forum, est donné à l'identique par le site de l'AMAP et par l'annuaire du réseau AMAP d'Île-de-France ; numéro de voirie à 0,975. L'adresse du siège au registre des entreprises, rue Yves-Kermen, n'est pas un lieu de vente et n'est pas publiée : c'est le lieu de distribution qui l'est. Le seul contact public de l'association est une adresse de courriel, qui n'est pas publiée non plus. La seule photographie de son site montre deux visages nets et n'a pas été retenue ; la photo publiée est un cageot de basilics du marché des producteurs de la commune, règle 1)
 - **AMAP Graines d'Issy** (**première fiche publiée au titre de la règle 52** : cinquième point de la passe, pris à Issy-les-Moulineaux faute d'un cinquième à Boulogne-Billancourt, même intercommunalité — Grand Paris Seine Ouest — et 2,43 km du barycentre des quatre autres. Association immatriculée sous NAF 94.99Z depuis novembre 2020, un établissement ouvert. Horaires contredits : l'annuaire du réseau AMAP d'Île-de-France écrit « mercredi 19h15-20h », le site de l'association écrit « le mercredi soir de 19h15 à 19h45 » — c'est le site de l'association qui est publié, règle 44. Deux fermes partenaires seulement sont nommées, la ferme Camelot pour les légumes et la ferme des Beurreries pour les œufs : `produits` s'en tient à ces deux lignes. Pas de pilier `environnement` : l'association écrit vouloir des produits « biologiques et de saison » et se réclame de la charte des AMAP, mais aucune source ne certifie ses deux fermes, et une intention n'est pas un cahier des charges — la règle 45 demande une obligation écrite. La page « bureau » du site publie les photographies et les numéros de téléphone personnels des membres : rien n'en est repris, et l'adresse du siège au registre, un appartement, n'est pas publiée. Photo : les cageots de fraises et de cerises d'un marché d'Issy-les-Moulineaux, photographiés par la Ville, aucun visage, règle 1)
+- **Marché de Talensac** (le nombre de commerçants est contredit d'une source à l'autre : la page « Les marchés incontournables » de Nantes Métropole écrit « 150 commerçants », le site du marché lui-même « environ 157 commerçants abonnés, présents dans une cinquantaine de métiers ». C'est le chiffre du marché qui est publié, règle 44, et la présente note dit l'autre. Les horaires, eux, sont identiques mot pour mot chez la Ville et chez le marché, jour férié compris. `produits` reprend les onze métiers de bouche du plan de la halle et laisse de côté ses quatre métiers non alimentaires — fleuristes, artisanat, mode-confection, presse — que MODERATION.md écarte. Le téléphone est celui que la Ville publie sur la fiche de l'équipement, pas une ligne de commerçant. Le point vient des coordonnées que la Ville publie dans le code de sa propre page d'équipement, à 50 m du centre de la rue de Talensac que rend la Base Adresse Nationale. Photo : l'étal de fèves, choux et aubergines de la halle, photographié par la Ville, **recadré sous la ligne des visages**, règle 46)
+- **Marché Paysan de l'Île** (le seul des cinq à ne pas être un marché municipal : il se tient sous la halle du Solilab, sur un terrain des Écossolies, et n'apparaît donc pas dans le tableau des marchés nantais de `moncommerce.nantesmetropole.fr`. Horaires **saisonniers**, et la source le dit elle-même : la page des Écossolies annonce un décalage estival à 10h-13h « jusqu'au 24 août inclus » puis « reprise de l'horaire 16h à 19h à partir du mardi 1er septembre » — le champ `horaires` publie l'horaire courant et avertit du décalage d'août plutôt que de faire comme si l'année était uniforme. Les quatre dernières lignes de `produits` ne sont là que le premier mardi du mois, ce que la description précise. Numéro de voirie du 8 rue de Saint-Domingue à 0,969, à 40 m des coordonnées de la page d'équipement. Photo : les cageots de courges sous la halle, photographiés par la Ville, **recadrés sous la ligne des visages**, règle 46)
+- **Marché de la Caserne Mellinet** (**horaires contredits entre deux pages de la même collectivité** : le tableau de `moncommerce.nantesmetropole.fr` range ce marché dans une bande générique « Les marchés alimentaires du soir – 16h/20h », tandis que la fiche d'équipement de `metropole.nantes.fr`, la page « Les marchés incontournables » et les associations organisatrices écrivent toutes trois « le jeudi soir de 17h à 20h ». C'est 17h qui est publié : une bande horaire commune à sept marchés n'est pas un horaire, c'est une catégorie, et la règle 44 fait primer la page de référence de l'équipement. Le détail des étals vient de l'article des Bouillonnantes, qui distingue ce qui est là toutes les semaines — légumes, pains, fromages — de ce qui tourne en alternance. **Deuxième fiche publiée au titre de la règle 50** : la Base Adresse Nationale ignore « Place du 51ème Régiment d'Artillerie » écrite en toutes lettres, mais connaît la « Place du 51ième RA » abrégée, dont le contrôle inverse tombe à **17 m** des coordonnées de la page d'équipement. L'adresse publiée garde la forme développée, qui est celle de la Ville. Pilier `environnement` sur un engagement écrit, règle 45 : les organisatrices écrivent « engagés pour une agriculture paysanne et une alimentation durable » et publient les engagements demandés aux producteurs. Photo : les choux et les blettes d'un étal du marché, photographiés par la Ville, **recadrés sous la ligne des visages**, règle 46)
+- **Marché du Champ de Mars** (la Ville écrit que le marché « a été porté par l'association "À vos paniers, citoyens" » — au passé — et une recherche au registre des entreprises sur ce nom, département 44, ne rend **aucun** résultat : l'association n'est pas nommée comme organisatrice actuelle dans la fiche, seulement comme origine du projet. Aucune source ne publie la liste des étals : `produits` ne porte donc que « Produits alimentaires biologiques et locaux », l'intitulé que la Ville emploie, et la description le dit — même traitement qu'au marché de la Plaine à Saint-Denis. Pilier `environnement` sur cette même phrase de la Ville, qui est une caractérisation du marché et non une intention d'association. Le point vient des coordonnées de la page d'équipement, à 35 m du centre de la rue Émile Masson que rend la Base Adresse Nationale. Photo : les brocolis, salades et choux d'un étal, photographiés par la Ville, **recadrés sous la ligne des visages**, règle 46)
+- **Ferme du Bois des Anses** (**première fiche publiée au titre de la règle 53** : le site de la ferme n'annonce que « légumes et aromates bio », sa déclaration au jeu de données « producteurs en vente directe » de Nantes Métropole ajoute fruits, œufs, pain, boissons sans alcool et sorbets — l'union est publiée et la description nomme la source de chaque moitié. L'exploitation est immatriculée sous le patronyme de son exploitante, avec « FERME DU BOIS DES ANSES » en enseigne déclarée : c'est l'enseigne qui est publiée, jamais le patronyme, que le jeu de données de la métropole donne pourtant en clair dans son champ `nom_entreprise`. **La Base Adresse Nationale ne connaît pas le chemin du Bois des Anses**, ni par recherche directe ni par contrôle inverse : le point publié est celui du jeu de données de la métropole, à **95 m** du point que le registre des entreprises donne au siège de l'exploitation — deux sources officielles indépendantes qui s'accordent, et l'adresse la plus proche que la Base Adresse Nationale sache nommer est à 164 m, rue de la Papotière. Code postal contredit : le registre écrit 44000, le jeu de données de la métropole 44300, et le contrôle inverse rend 44300 sur les adresses voisines — c'est 44300 qui est publié. Aucun téléphone : le seul numéro publié par la ferme est un portable personnel, que MODERATION.md interdit, et son courriel non plus n'est pas repris. Photo : l'étal de la ferme sous son arbre, découpé de l'affiche de la ferme elle-même — aucune personne dans le cadre, et les deux autres tiers de l'affiche, qui portent le nom, le téléphone et le courriel de l'exploitante, sont écartés)
 
-Les 278 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 283 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -872,6 +894,93 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Nantes
+
+Huitième passe en ville. Département visé : la **Loire-Atlantique (44)**, déficit
+**6,00** fiches au sens de la règle 41, le plus élevé de France avec 278 fiches
+publiées — devant les Yvelines (5,99), la Haute-Garonne (5,93), la Seine-et-Marne
+(5,92) et le Pas-de-Calais (5,88). Le 44 est en **région 52** (Pays de la Loire),
+la passe précédente visait la région 11 : la réserve de la règle 41.c est
+respectée. Commune la plus peuplée du département sans aucune fiche : **Nantes,
+327 734 habitants**. Elle a rendu ses cinq points sans qu'il faille descendre
+d'un cran.
+
+**Nantes est, de loin, la ville la mieux outillée rencontrée jusqu'ici.** Trois
+sources se complètent et se recoupent :
+
+- **Le portail open data de Nantes Métropole**, `data.nantesmetropole.fr`, 590
+  jeux de données. Celui qui compte ici est
+  `244400404_producteurs-vente-circuit-court-nantes-metropole` : **69 producteurs**
+  sur 18 communes, avec pour chacun l'adresse, le point GPS, dix-sept familles de
+  produits en booléens et cinq modes de vente (point de vente, cueillette à la
+  ferme, magasin de producteurs, marché, autre). Export complet en une requête :
+  `/api/explore/v2.1/catalog/datasets/<id>/exports/json?limit=-1`.
+  **Piège d'API** : le paramètre `select=metas` est refusé par le catalogue avec
+  un `ODSQLError: Unknown field: metas`, alors que le champ existe bien dans les
+  enregistrements — il faut énumérer le catalogue cent par cent sans `select` et
+  lire `metas.default.title` dans la réponse complète.
+- **Les fiches d'équipement de `metropole.nantes.fr`**, une par marché : 25 pages
+  `metropole.nantes.fr/lieu/marche-*` repérées dans un sitemap de 9 581 URL. Chaque
+  fiche donne l'adresse, les horaires jour par jour de la semaine en cours, la
+  desserte en transports, une présentation, **et les coordonnées GPS de
+  l'équipement, en clair dans le code de la page** (`{"name":…,"lat":…,"long":…}`).
+  Ces coordonnées ont servi de point pour les quatre marchés publiés ; elles
+  tombent à 35, 40 et 50 m de ce que rend la Base Adresse Nationale sur les trois
+  voies qu'elle connaît, et à 17 m sur la quatrième, qu'elle ne connaît que sous
+  forme abrégée.
+- **Le tableau des marchés de `moncommerce.nantesmetropole.fr`**, qui donne le
+  calendrier complet — quels marchés quel jour, en deux bandes horaires. Utile
+  pour l'inventaire, dangereux pour les horaires : voir la contradiction du marché
+  de la Caserne Mellinet ci-dessus.
+
+**Les photos de la Ville**, elles, sont plafonnées. Les fiches d'équipement
+pointent vers `media-infonantes.nantesmetropole.fr/banque/public/images/lieux/m/<id>.jpg`,
+**800 × 534 pixels**, et il n'existe aucune variante plus grande : les chemins
+`/g/`, `/l/` et `/xl/` répondent tous 404. Les quatre photos de marché publiées
+sont donc des recadrages de 800 px de large sur 250 à 310 px de haut, en dessous
+de la ligne des visages — c'est la limite haute de ce que cette banque d'images
+permet, et il ne sert à rien de chercher mieux chez elle.
+
+**Le piège du domaine mort, deuxième occurrence après Santa Lucia.** Le jeu de
+données des producteurs donne à « L'Alouette Rit, Ferme Vivante » le site
+`fermesdedoulon.fr`. **Ce domaine ne résout plus du tout** — `Could not resolve
+host`, pas même une page d'erreur. Une donnée en open data n'est pas un site
+vérifié : la consigne d'ouvrir chaque URL avant de l'inscrire vaut aussi, et
+peut-être surtout, pour les jeux de données publics.
+
+**Écarté : Skornet, sorbets paysans**, 4 rue René Dumont. Le jeu de données coche
+« cueillette à la ferme », mais le site de l'entreprise n'a qu'une page « Où nous
+trouver » qui renvoie vers des points de vente tiers et des événements : aucun
+point de vente propre, aucun horaire. Rien de publiable sans envoyer quelqu'un
+devant une porte fermée.
+
+**Restent à instruire à Nantes, pour une passe suivante :**
+
+- **La Ferme de Doulon, 20 boulevard de la Louëtrie**, qui héberge au moins deux
+  producteurs du jeu de données — « L'Alouette Rit, Ferme Vivante » et
+  **Good Pousse** (micro-pousses, `goodpousse.fr`). Les deux déclarent un point de
+  vente, aucun des deux ne publie d'horaire de vente directe : Good Pousse liste
+  des magasins et des AMAP, pas sa ferme. C'est le lieu le plus prometteur du
+  département et le plus mal documenté en ligne.
+- **La Miss' Nantes & Bio**, 26 rue de l'Angle Chaillou, qui ne vend qu'en AMAP et
+  n'a ni site ni horaire publié.
+- **Les vingt marchés nantais non repris**, tous inventoriés dans le tableau de
+  `moncommerce.nantesmetropole.fr` et pourvus d'une fiche d'équipement : la
+  **Petite-Hollande** (samedi matin, 300 commerçants, le plus grand de la ville),
+  **Doulon** (dimanche matin, rue de la Papotière), **la Bourgeonnière** (mardi
+  soir), **Bottière-Chénaie** et **la Galarne** (mercredi soir), **Susan**
+  (vendredi soir), **Canclaux**, **Zola**, **Malakoff**, **Sainte-Anne**,
+  **Jean Macé**, **les Américains**, **Toutes Aides**, **les Châtelets (Pirmil)**,
+  **le Breil**, **la Marrière**, **Saint-Joseph de Porterie** et **les
+  Dervallières** le matin. De quoi tenir quatre passes entières sur la seule ville
+  de Nantes, avec les mêmes sources et le même niveau de vérification.
+- **L'AMAP Les Paniers du Grand Blottereau**, repérée dans l'annuaire des
+  associations nantaises du site de la Ville, non instruite faute de temps dans
+  cette passe.
+- **Les 64 producteurs du jeu de données situés hors Nantes**, sur 17 autres
+  communes de la métropole : la matière d'une passe groupée sur Rezé, Saint-Herblain
+  ou Vertou, qui n'ont elles non plus aucune fiche.
 
 ### Pistes non publiées à Boulogne-Billancourt et à Issy-les-Moulineaux
 

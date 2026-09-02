@@ -7200,5 +7200,145 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Projets+94+avenue+Victor+Cresson+Issy-les-Moulineaux",
     "image_url": "/images/marchands/amap-graines-dissy.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-talensac",
+    "nom": "Marché de Talensac",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.221208,
+    "lon": -1.557873,
+    "adresse": "Halle du marché, rue de Talensac, 44000 Nantes",
+    "horaires": "Du mardi au vendredi de 8h à 13h, le samedi et le dimanche de 8h à 13h30. Fermé le lundi, sauf si ce lundi est férié.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Volailles et rôtisserie",
+      "Poissonniers et ostréiculteurs",
+      "Fromagers",
+      "Boulangerie, pâtisserie et chocolats",
+      "Épicerie, miels et vins",
+      "Traiteurs et plats cuisinés"
+    ],
+    "description": "Le grand marché couvert de Nantes, dans le quartier Hauts-Pavés — Saint-Félix, ouvert six matinées sur sept. Son propre site annonce environ 157 commerçants abonnés dans une cinquantaine de métiers, et des producteurs venus de Bretagne, de Vendée, du Val de Loire et de la région nantaise. Le plan de la halle distingue les producteurs des revendeurs de fruits et légumes.",
+    "telephone": "02 40 41 94 18",
+    "site_web": "https://www.marche-talensac.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Talensac+Nantes",
+    "image_url": "/images/marchands/marche-de-talensac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-de-lile-nantes",
+    "nom": "Marché Paysan de l'Île",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.20116,
+    "lon": -1.570988,
+    "adresse": "Grande halle du Solilab, 8 rue de Saint-Domingue, 44200 Nantes",
+    "horaires": "Mardi de 16h à 19h. En plein été l'horaire est décalé à 10h-13h : vérifier la page des Écossolies avant de s'y rendre en août.",
+    "produits": [
+      "Légumes et fruits de saison",
+      "Pain",
+      "Œufs",
+      "Plants aromatiques et exotiques",
+      "Miels et conserves artisanales",
+      "Algues et spiruline",
+      "Vins et rhums",
+      "Viande de veau"
+    ],
+    "description": "Un marché paysan sous la grande halle du Solilab, la maison de l'économie sociale et solidaire de l'île de Nantes, organisé par Les Écossolies et l'association Terroirs 44 autour de la vente directe et des circuits courts. Les quatre dernières catégories de produits ne sont là que le premier mardi du mois ; les plants viennent du PépiLab, la pépinière d'agriculture urbaine du Solilab, semée en graines paysannes biologiques reproductibles.",
+    "site_web": "https://www.ecossolies.fr/solilab/marche-paysan/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Paysan+Solilab+Nantes",
+    "image_url": "/images/marchands/marche-paysan-de-lile-nantes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-caserne-mellinet",
+    "nom": "Marché de la Caserne Mellinet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.228897,
+    "lon": -1.540261,
+    "adresse": "Place du 51e Régiment d'Artillerie, 44000 Nantes",
+    "horaires": "Jeudi de 17h à 20h",
+    "produits": [
+      "Légumes",
+      "Pains",
+      "Fromages",
+      "Viande de porc et de veau",
+      "Miel",
+      "Tisanes",
+      "Galettes",
+      "Sel"
+    ],
+    "description": "Un marché gourmand et paysan lancé sur la place de l'ancienne caserne Mellinet par les associations Les Bouillonnantes et Terroirs 44, lauréates du budget participatif de la Ville de Nantes. Une quinzaine de stands de producteurs et d'artisans : légumes, pains et fromages toutes les semaines, viandes, miel, tisanes, galettes ou sel en alternance, avec un espace de dégustation.",
+    "site_web": "https://metropole.nantes.fr/lieu/marche-de-la-caserne-mellinet",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+la+Caserne+Mellinet+Nantes",
+    "image_url": "/images/marchands/marche-de-la-caserne-mellinet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-champ-de-mars-nantes",
+    "nom": "Marché du Champ de Mars",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.213944,
+    "lon": -1.546576,
+    "adresse": "Rue Émile Masson, 44000 Nantes",
+    "horaires": "Mardi de 16h à 20h",
+    "produits": [
+      "Produits alimentaires biologiques et locaux"
+    ],
+    "description": "Un marché du soir d'une dizaine de commerçants, entre la Cité des congrès et le Lieu Unique, né d'un projet porté par l'association « À vos paniers, citoyens ». La Ville le décrit comme faisant la part belle aux produits biologiques et locaux, mais ne publie pas la liste des étals.",
+    "site_web": "https://metropole.nantes.fr/lieu/marche-du-champ-de-mars",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Champ+de+Mars+Nantes",
+    "image_url": "/images/marchands/marche-du-champ-de-mars-nantes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-bois-des-anses",
+    "nom": "Ferme du Bois des Anses",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.244238,
+    "lon": -1.491139,
+    "adresse": "Chemin du Bois des Anses, 44300 Nantes",
+    "horaires": "Vente à la ferme le mercredi de 16h30 à 19h30 toute l'année, sauf en janvier (coupure annuelle) ; également le vendredi de 16h30 à 19h30 de début juin à fin octobre.",
+    "produits": [
+      "Légumes biologiques de saison",
+      "Aromates et plantes aromatiques",
+      "Fruits",
+      "Œufs",
+      "Pain",
+      "Sorbets"
+    ],
+    "description": "Une ferme maraîchère biologique de 2,7 hectares installée à l'est de Nantes, dont la première saison date de 2021 et qui vend sa production sur place. Son site n'annonce que des légumes et des aromates : les fruits, œufs, pain et sorbets viennent de sa déclaration à l'open data de Nantes Métropole et restent à confirmer sur place. Desserte annoncée par la ferme : Chronobus 7, arrêt Bois des Anses.",
+    "site_web": "https://fermeduboisdesanses.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+du+Bois+des+Anses+Nantes",
+    "image_url": "/images/marchands/ferme-du-bois-des-anses.jpg",
+    "a_confirmer": true
   }
 ]
