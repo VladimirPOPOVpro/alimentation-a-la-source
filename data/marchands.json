@@ -6032,5 +6032,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Potager+du+Cabanon+Gareoult",
     "image_url": "/images/marchands/le-potager-du-cabanon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chateau-la-calisse",
+    "nom": "Château La Calisse",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.564776,
+    "lon": 6.079842,
+    "adresse": "5055 route de Draguignan (RD 560), 83670 Pontevès",
+    "horaires": "Caveau ouvert tous les jours de 8h30 à 13h et de 14h à 18h. Dégustations pour les groupes sur réservation, au moins 48 heures à l'avance.",
+    "produits": [
+      "Vin blanc AOP Coteaux Varois en Provence",
+      "Vin rosé AOP Coteaux Varois en Provence",
+      "Vin rouge AOP Coteaux Varois en Provence",
+      "Muscat blanc",
+      "Vins certifiés Agriculture Biologique"
+    ],
+    "description": "Vignoble entièrement replanté depuis son acquisition en 1991, à 380 mètres d'altitude dans une conque au pied du Bessillon : 3,5 hectares de blancs et 5,75 hectares de rouges en AOP Coteaux Varois en Provence. Le domaine est certifié en agriculture biologique par Ecocert depuis 1996, travaille le sol aux griffes et au labour sans désherbant ni engrais chimique, et limite ses rendements à 35 hectolitres par hectare.",
+    "telephone": "04 94 77 24 71",
+    "site_web": "https://www.chateau-la-calisse.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+la+Calisse+Ponteves",
+    "image_url": "/images/marchands/chateau-la-calisse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-la-pregentiere",
+    "nom": "Château La Prégentière",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.559411,
+    "lon": 6.090254,
+    "adresse": "6095 route de Draguignan, 83670 Pontevès",
+    "horaires": "Toute l'année, du lundi au vendredi de 9h à 17h30. Le samedi sur rendez-vous. Fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Vin rosé AOP Coteaux Varois en Provence",
+      "Vin rouge AOP Coteaux Varois en Provence",
+      "Vin blanc AOP Coteaux Varois en Provence",
+      "Cuvées Prestige rosé, rouge et blanc",
+      "Vins IGP Var"
+    ],
+    "description": "Propriété de 120 hectares à l'abri du massif du Bessillon, dont les bâtiments remontent à 1839 et qui a été entièrement modernisée après sa reprise en 2001. Le domaine se déclare certifié Haute Valeur Environnementale et annonce limiter les produits chimiques au profit de la biodiversité ; la vente se fait au caveau, sur la route de Draguignan.",
+    "telephone": "04 94 77 10 64",
+    "site_web": "https://www.lapregentiere.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+la+Pregentiere+Ponteves",
+    "image_url": "/images/marchands/chateau-la-pregentiere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-saint-ferreol",
+    "nom": "Domaine Saint Ferréol",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.560604,
+    "lon": 6.028037,
+    "adresse": "585 route de Draguignan, 83670 Pontevès",
+    "horaires": "De mai à octobre, du lundi au samedi de 9h30 à 12h30 et de 15h à 19h. De novembre à avril, du lundi au samedi de 10h à 12h30 et de 14h à 18h. Le domaine conseille d'appeler avant de passer.",
+    "produits": [
+      "Vin rosé AOP Coteaux Varois en Provence",
+      "Vin rouge AOP Coteaux Varois en Provence",
+      "Vin blanc AOP Coteaux Varois en Provence",
+      "Vins IGP Var - Coteaux du Verdon"
+    ],
+    "description": "Domaine familial depuis 1720, entre les reliefs provençaux et les paysages du Verdon : 19 hectares de vignes étagées sur des coteaux, complétés par des cultures de céréales, de fourrages et de pistachiers. La vente directe au caveau existe depuis 1979 ; le domaine est certifié Haute Valeur Environnementale niveau 3 depuis 2020 et a cessé les herbicides en 2016, et ses grandes cultures sont engagées en agriculture biologique auprès d'Ecocert depuis mars 2024.",
+    "telephone": "04 94 77 10 42",
+    "site_web": "https://saintferreol.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Saint+Ferreol+Ponteves",
+    "image_url": "/images/marchands/domaine-saint-ferreol.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-des-roches-blanches",
+    "nom": "Domaine des Roches Blanches",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.566232,
+    "lon": 6.062747,
+    "adresse": "3060 chemin de Fox-Amphoux, 83670 Pontevès",
+    "horaires": "Toute l'année, tous les jours sur rendez-vous.",
+    "produits": [
+      "Vin rouge de Cabernet Sauvignon",
+      "Vin blanc de Chardonnay",
+      "Vin rosé de Pinot Noir",
+      "Vins élevés six à douze mois en fûts de chêne"
+    ],
+    "description": "Petit domaine de sept hectares répartis en six parcelles au pied du Bessillon, planté de monocépages peu courants en Provence : cabernet sauvignon, chardonnay et pinot noir, vendangés à rendement limité et élevés en fûts. La maison, le jardin et l'espace de dégustation sont ouverts sur rendez-vous ; le domaine annonce ses vignes en cours de conversion vers l'agriculture biologique.",
+    "telephone": "04 94 80 86 07",
+    "site_web": "https://rochesblanches.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+des+Roches+Blanches+Ponteves",
+    "image_url": "/images/marchands/domaine-des-roches-blanches.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cooperative-oleicole-la-tavernaise",
+    "nom": "Coopérative Oléicole La Tavernaise",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.592626,
+    "lon": 6.018337,
+    "adresse": "53 chemin des Rayères, 83670 Tavernes",
+    "horaires": "Boutique du moulin ouverte du mardi au samedi de 9h à 12h et de 15h à 18h, sauf les jours fériés. Accueil téléphonique tous les jours de 8h à 17h sauf le dimanche et les jours fériés.",
+    "produits": [
+      "Huile d'olive fruité vert",
+      "Huile d'olive fruité mûr",
+      "Huile d'olive AOP Provence",
+      "Huile d'olive biologique",
+      "Trituration à façon des olives des particuliers"
+    ],
+    "description": "Société coopérative agricole créée le 26 mars 1914, dont le moulin, achevé en 1920, a pressé sa première huile à l'hiver 1921 et rassemblait environ 300 adhérents en 2021. Il travaille aujourd'hui en chaîne continue, est habilité à transformer les olives de pays, l'AOP Provence et le bio, et vend au moulin ses deux huiles, fruité vert et fruité mûr, plusieurs fois médaillées au Concours Général Agricole de Paris.",
+    "telephone": "09 67 83 11 67",
+    "site_web": "https://www.latavernaise.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cooperative+oleicole+La+Tavernaise+Tavernes",
+    "image_url": "/images/marchands/cooperative-oleicole-la-tavernaise.jpg",
+    "a_confirmer": true
   }
 ]

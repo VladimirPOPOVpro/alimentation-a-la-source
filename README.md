@@ -247,6 +247,11 @@ prioritaires en cas de conflit.
    tient le Domaine Fontainebleau, et dont la cave coopérative était la seule fiche de l'office.
    Ce qui reste interdit, c'est d'aller chercher la cinquième à l'autre bout du département : cinq
    fiches voisines rendent une zone utilisable, cinq fiches éparpillées ne servent à personne.
+   Précision ajoutée à Pontevès, dont la cinquième fiche est allée chercher le moulin coopératif de
+   Tavernes, à 3,4 km : Barjols s'intercale entre les deux communes, qui ne sont donc pas contiguës.
+   **Le critère qui compte est la distance et l'appartenance au même office, pas la contiguïté des
+   limites communales** — trois kilomètres et demi restent un même secteur, alors que deux communes
+   limitrophes peuvent être séparées par un massif et une demi-heure de route.
 29. **Une ferme qui dit elle-même revendre plus qu'elle ne produit.** La Ferme de la Grivoisière
    écrit sur son propre site : « pour le moment nous faisons principalement de l'achat revente et
    nous travaillons avec des producteurs locaux pour certains produits », en annonçant une
@@ -365,10 +370,34 @@ prioritaires en cas de conflit.
    inverse rend « 1835 chemin André Malraux » à 35 m : l'arithmétique se vérifie elle-même. Ce n'est
    pas une invention de coordonnées, c'est la lecture d'une numérotation qui est, par construction,
    une distance. Au-delà de 100 unités d'extrapolation, on redescend au centre de la voie.
+38. **L'office publie un numéro de voirie que la Base Adresse Nationale ignore, et le producteur en
+   déclare un autre à son certificateur.** La fiche du Château La Calisse porte « 5555 route de
+   Draguignan » ; la Base Adresse Nationale ne connaît pas ce numéro et retombe sur le centre de la
+   voie, à 620 m. Le registre de l'Agence Bio, lui, donne « 5055 Route de Draguignan » pour le même
+   SIRET — et ce numéro-là existe, à **4 mètres du marqueur que l'office publie sur sa propre
+   fiche**. L'office se contredit donc lui-même : son texte dit 5555, son point dit 5055. Tranché
+   ainsi : **quand un numéro déclaré par le producteur à un registre public existe à la Base Adresse
+   Nationale et tombe à moins de 50 mètres du marqueur de l'office, c'est ce numéro qui est publié,
+   et celui du texte de l'office est traité comme une coquille**. Le marqueur sort de la base de
+   données de l'office, le texte sort d'une saisie : quand les deux divergent, c'est la saisie qui
+   ment. Le site du domaine, qui n'écrit que « Route D 560 », ne départage pas et ne contredit rien.
+39. **Une certification bio vivante qui ne couvre pas ce que la fiche vend.** Le Domaine Saint
+   Ferréol est engagé chez Ecocert depuis mars 2024, sans arrêt, au SIRET qui porte l'enseigne —
+   mais la liste des productions déclarées ne contient que des céréales, des légumineuses, des
+   fourrages et des jachères : **« raisin de cuve » n'y figure pas**, alors que la fiche ne vend que
+   du vin. Le Château La Calisse donne le contraste exact : son engagement de 1996 déclare, lui,
+   « Raisin de cuve » et « Vins de raisin ». Tranché ainsi : **un engagement au registre de l'Agence
+   Bio n'accorde le pilier `environnement` que si au moins une des productions déclarées correspond
+   à ce que la fiche annonce à la vente ; sinon la certification est réelle mais porte sur une autre
+   activité, et elle se mentionne dans la description sans cocher le pilier**. C'est la symétrique
+   de la règle 31, qui refuse le pilier `alimentation` à une production certifiée qui n'arrive
+   jamais au comptoir. Saint Ferréol garde malgré tout son pilier `environnement`, mais par la
+   règle 21 : le domaine écrit lui-même être certifié Haute Valeur Environnementale niveau 3 depuis
+   2020 et avoir cessé les herbicides en 2016.
 
 ## Marchands à confirmer
 
-199 fiches sur 233 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+204 fiches sur 238 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -569,8 +598,13 @@ prioritaires en cas de conflit.
 - **Domaine de Garbelle** (l'exploitation agricole est immatriculée sous le patronyme du vigneron ; c'est le groupement foncier, qui porte le nom « Garbelle » à l'adresse exacte, qui satisfait la règle 6, et l'enseigne publiée est celle du domaine. Numéro « 1835 chemin André Malraux » de la Base Adresse Nationale, à 14 m du marqueur de l'office et 135 m du point du registre : premier échelon de la règle 10. Pilier `alimentation` accordé sur l'huile d'olive extra vierge bio et le miel, tous deux nommés par le domaine et rangés par l'office en « Produits apicoles » et « Huile », règle 31. Pilier `environnement` sur un engagement Ecocert actif depuis mars 2011 ; la biodynamie que le domaine revendique depuis 2018 n'est pas une certification et n'est citée que dans la description. La photo est l'`og:image` du domaine, la pierre gravée à son nom)
 - **Élevage Franck Tilotta** (première fiche publiée au titre des règles 36 et 37. Le nom : l'entreprise est individuelle et n'a pas d'enseigne déclarée au registre, mais l'éleveur publie lui-même ce libellé sur sa fiche d'office et sur sa page de vente en ligne — c'est ce cas qui a fait écrire la règle 36. Le point : la Base Adresse Nationale ignore le 1871 du chemin André Malraux, le point du registre se retourne sur le 697d et le marqueur de l'office sur le 1089, tous deux écartés par la règle 27 ; le point publié est interpolé sur la numérotation métrique de la voie et son contrôle inverse rend le « 1835 » à 35 m, comme l'arithmétique le prévoyait, règle 37. Il tombe donc à 35 m du Domaine de Garbelle, qui est son voisin réel. Pilier `environnement` : la certification Ecocert est arrêtée le 10 octobre 2025, mais un engagement Bureau Alpes contrôles a ouvert le 5 septembre 2025, avant cet arrêt — c'est un transfert d'organisme, règle 25. Le champ `site_web` porte la page de vente en ligne, seule source de première main ; le profil Facebook personnel que publie l'office n'est pas repris, règle 33)
 - **Le Potager du Cabanon** (horaires contredits hors saison : le producteur annonce sur son site le lundi, le mercredi et le vendredi de 16h à 19h, l'office seulement le mercredi et le vendredi — les deux sont publiés et attribués, et le samedi de juillet-août vient de l'office seul. Point pris sur les coordonnées GPS que le producteur publie lui-même, deuxième échelon de la règle 10 : la Base Adresse Nationale ne numérote pas le chemin des Plans, et son contrôle inverse rend la voie à 151 m, la bonne. L'exploitation est immatriculée sous le patronyme du maraîcher ; le nom publié est celui de l'enseigne, que porte aussi l'adresse déclarée par une pépinière voisine. Pilier `environnement` sur un engagement Ecocert actif depuis décembre 2011. Le site est mutualisé avec deux autres activités du même lieu, une pépinière et un loueur de vélos : seules les pages du potager ont servi)
+- **Château La Calisse** (première fiche publiée au titre de la règle 38 : l'office écrit « 5555 route de Draguignan », un numéro que la Base Adresse Nationale ignore, quand le registre de l'Agence Bio déclare « 5055 » — qui existe, à 4 m du marqueur que l'office publie lui-même. C'est le 5055 qui est inscrit. Horaires contredits : le domaine annonce sur son site un caveau ouvert tous les jours de 8h30 à 13h et de 14h à 18h, l'office du lundi au vendredi 9h-12h / 13h-17h et le samedi 9h-12h / 13h-18h — ce sont les horaires du domaine qui sont publiés, plus larges et de première main. Surfaces contredites aussi : le site annonce 10 hectares en tête et détaille 3,5 + 5,75 dans sa page vignoble, c'est le détail qui est repris. Pilier `environnement` sur un engagement Ecocert ouvert le 28 février 1996, qui déclare bien « raisin de cuve » et « vins de raisin », règle 39. Pas de pilier `alimentation` : le registre bio déclare olives, huile, truffes et lavande, mais l'office ne range la fiche que sous « Vins » et le site ne vend que des bouteilles, règle 31. L'`og:image` du site est un portrait de la propriétaire, la photo vient donc de l'office)
+- **Château La Prégentière** (pilier `environnement` accordé par la règle 21 : la certification Haute Valeur Environnementale figure dans le bloc labels de l'office, ce qui ne suffirait pas, mais le domaine écrit sur sa propre page « Nos valeurs » être « Certifié Haute Valeur Environnementale ». Aucun engagement au registre de l'Agence Bio. Le contrôle inverse du marqueur de l'office revient **vide**, règle 34, et le point du registre tombe 3,6 km à l'ouest : c'est le numéro « 6095 route de Draguignan » de la Base Adresse Nationale qui est publié, confirmé à 0 m par son contrôle inverse et par la page Contact du domaine. Surfaces contredites : l'office annonce 60 hectares de vignes plantées depuis 1840, le site une propriété de 120 hectares — c'est la propriété qui est décrite, les deux chiffres ne mesurent pas la même chose et aucun n'est présenté comme l'autre. Le site ne publie aucun horaire : ceux de l'office sont repris. Le nom de l'acquéreur de 2001, que le site donne, n'est pas repris)
+- **Domaine Saint Ferréol** (première fiche publiée au titre de la règle 39 : l'engagement Ecocert de mars 2024 est vivant mais ne déclare que céréales, légumineuses, fourrages et jachères — pas de raisin de cuve — et ne peut donc pas accorder le pilier `environnement` à une fiche qui ne vend que du vin. Le pilier est accordé quand même, mais par la règle 21, sur la HVE niveau 3 que le domaine revendique lui-même depuis 2020. Nom pris dans la forme que le domaine emploie, « Domaine Saint Ferréol », et non « Domaine de Saint Ferréol » comme l'écrit l'office. Horaires contredits à l'ouverture d'été : le domaine annonce 9h30, l'office 10h — c'est le domaine qui est publié. Surfaces contredites : 19 hectares sur le site, 21 à l'office ; le site est retenu. L'office ne publie aucune rue, mais la page Contact du domaine donne « 585 route de Draguignan », numéro que la Base Adresse Nationale connaît, à 270 m du marqueur de l'office dont le contrôle inverse revient vide : premier échelon de la règle 10. Une autre société, le Domaine Riforan, est domiciliée sur le même domaine ; elle n'a pas été retenue, règle 7)
+- **Domaine des Roches Blanches** (pas de pilier `environnement`, alors que l'office affiche le label AB : la certification Qualisud est **arrêtée le 18 janvier 2026** au registre de l'Agence Bio, et le domaine écrit lui-même sur son site « sept hectares de vignes en cours de conversion BIO ». C'est le troisième cas de label périmé encore affiché par un office, après Provence Bio et la Ferme de la Grivoisière, règle 25 : la fiche dit « en cours de conversion », mot pour mot ce qu'annonce le producteur, et ne coche rien. Numéro « 3060 chemin de Fox-Amphoux » de la Base Adresse Nationale confirmé à 0 m par son contrôle inverse et par le pied de page du domaine, à 84 m du marqueur de l'office : premier échelon de la règle 10. L'exploitation est immatriculée sous le patronyme de la vigneronne, avec « DOMAINE DES ROCHES BLANCHES » en enseigne déclarée. La page « Magasins » du site est restée sur les données de démonstration de PrestaShop — cinq boutiques à Miami — et n'a servi à rien : l'adresse retenue est celle du pied de page)
+- **Coopérative Oléicole La Tavernaise** (cinquième fiche du groupe de Pontevès alors qu'elle est à Tavernes, à 3,4 km : c'est la règle 28, dont le critère de contiguïté a été assoupli ici, Barjols s'intercalant entre les deux communes. Horaires contredits : la coopérative annonce sur son site une boutique ouverte du mardi au samedi de 9h à 12h et de 15h à 18h, l'office seulement « du mardi au samedi de 9h30 à 12h30 » — ce sont les horaires du moulin qui sont publiés, et l'accueil téléphonique, plus large, est distingué de l'ouverture de la boutique. Adhérents contredits : l'office reprend le « 72 adhérents » qui date de la fondation en 1914, quand le site en compte environ 300 en 2021 — c'est le chiffre récent qui est publié. Piliers `alimentation` et `environnement` tous deux solides : AOP Huile d'olive de Provence au bloc labels de l'office, et engagement Ecocert ouvert le 2 décembre 2009 sans arrêt. Numéro « 53 chemin des Rayères » de la Base Adresse Nationale exactement sur le marqueur de l'office. L'`og:image` du site est un logo, la photo vient donc de l'office)
 
-Les 233 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 238 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1048,6 +1082,45 @@ qu'en interrogeant l'API par SIRET, est ce qui tranche : `etatCertification: ARR
 quand. Deux sources vivantes contre un registre officiel : c'est le registre qui l'emporte, le pilier
 `environnement` n'est pas coché et la description ne reprend pas la mention. Vérifier la date d'arrêt
 et pas seulement l'état, avant d'accorder ou de refuser le pilier.
+
+### Pistes non publiées à Pontevès
+
+L'office de tourisme Provence Verte & Verdon publie cinq fiches « Vins et Terroir » à Pontevès,
+toutes viticoles — la commune ne compte, à l'office, aucun maraîcher, aucun apiculteur, aucun
+fromager. Quatre sont publiées ; la cinquième du groupe est allée chercher le moulin coopératif de
+Tavernes, règle 28. Voici celle qui reste, et deux constats de secteur.
+
+- **Domaine La Mercadine** (Les Mercadiers) : l'office l'annonce « bio depuis 2017 » sur 16 hectares
+  en AOC Coteaux Varois et IGP Coteaux du Verdon, sans site web, ouverture toute l'année sur
+  rendez-vous. Le registre des entreprises ne connaît **aucune** entité nommée « Mercadine » dans le
+  Var, mais une exploitation viticole active est bien immatriculée au lieu-dit Les Mercadiers, ce qui
+  satisfait la règle 6 par l'adresse. Ce qui bloque, c'est le bio : **une recherche au registre de
+  l'Agence Bio ne rend rien**, ni par le nom, ni sur le département — la seule affirmation de
+  certification vient de l'office, et la règle 15 ne s'en contente pas. Sans site du producteur pour
+  la confirmer et sans horaires autres que « sur rendez-vous », la fiche se réduirait à un point et
+  une revendication invérifiable. Même profil que la Bastide des Oliviers écartée à Garéoult :
+  écartée pour la même raison, à reprendre si le domaine ouvre un site ou apparaît au registre bio.
+- **Pontevès n'a aucun commerce alimentaire non viticole à l'office.** Les quatre fiches publiées
+  portent toutes le pilier `economie`, trois portent `environnement`, **aucune ne porte
+  `alimentation`** — l'office range les cinq fiches sous la seule activité « Vins », et les registres
+  bio qui déclarent des olives ou des truffes ne prouvent pas un comptoir, règle 31. C'est la
+  première commune du dépôt dont le groupe entier est sans pilier `alimentation`, et c'est le
+  meilleur argument pour être allé chercher un moulin à huile à Tavernes.
+- **Le Domaine Riforan** est immatriculé à « Domaine Saint Ferréol », avec des coordonnées à 11 m du
+  marqueur de l'office. Ce n'est pas un doublon du Domaine Saint Ferréol : c'est une seconde société
+  domiciliée sur la même propriété, sans fiche d'office, sans site et sans point de vente identifié.
+  Règle 7 : une seule fiche, celle qui vend.
+
+### L'office de tourisme d'Hyères n'est pas un annuaire de producteurs
+
+Le bassin maraîcher d'Hyères et de Solliès a été cherché cette passe et abandonné, la note vaut pour
+la prochaine. `hyeres-tourisme.com` redirige vers `provencemed.com`, dont le `sitemap.xml` est un
+index Yoast découpé en types : page, restaurant, hébergement, activité, agenda, commerce, groupe,
+local, loisirs. Le type `commerce` compte 4 095 URL, dont 1 263 en français une fois les doublons de
+langue retirés — mais ce sont des services touristiques, pas des producteurs : **sept URL seulement
+répondent à un mot-clé alimentaire**. Le fichier `local-sitemap.xml` ne contient qu'un `locations.kml`.
+La méthode du sitemap, qui marche si bien pour la Provence Verte, ne donne donc rien ici : le bassin
+d'Hyères devra passer par Bienvenue à la Ferme, le registre de l'Agence Bio et les sites communaux.
 
 ### Pistes non publiées à Garéoult
 
