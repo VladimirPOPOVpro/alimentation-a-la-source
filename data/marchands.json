@@ -8128,5 +8128,125 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Calais+Saint-Pierre",
     "image_url": "/images/marchands/biocoop-calais-saint-pierre.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-senghor-evry-courcouronnes",
+    "nom": "Marché Senghor",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.625882,
+    "lon": 2.425428,
+    "adresse": "Parking Léopold Sédar Senghor-Est, 91000 Évry-Courcouronnes",
+    "horaires": "Mercredi de 11h à 18h et samedi de 8h30 à 13h30, toute l'année. La Ville d'Évry-Courcouronnes et Grand Paris Sud Tourisme donnent les mêmes horaires.",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le marché du centre-ville, à proximité de la gare d'Évry-Courcouronnes Centre : c'est le seul des trois marchés de la commune à tenir deux jours par semaine. La Ville le décrit d'une phrase — « une large offre de produits alimentaires, vêtements et accessoires » — et ne publie ni la liste des étals ni le nom des exposants, d'où l'unique ligne de produits.",
+    "telephone": "01 60 91 63 98",
+    "site_web": "https://evrycourcouronnes.fr/thematique-annuaire/marches-foodtrucks-evry-courcouronnes/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Senghor+Évry-Courcouronnes",
+    "image_url": "/images/marchands/marche-senghor-evry-courcouronnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-thorigny-evry-courcouronnes",
+    "nom": "Marché de Thorigny",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.62083,
+    "lon": 2.407045,
+    "adresse": "Place Guy Briantais, 91000 Évry-Courcouronnes",
+    "horaires": "Le samedi de 8h30 à 13h, toute l'année. La Ville d'Évry-Courcouronnes et Grand Paris Sud Tourisme donnent le même horaire.",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le marché du quartier de Thorigny, sur la place Guy-Briantais, au pied du centre commercial de Courcouronnes-Centre. Grand Paris Sud Tourisme l'appelle « marché du centre » et le décrit comme un marché de quartier ; la Ville en donne le lieu et l'horaire, la même phrase que pour ses deux autres marchés, et aucune liste d'étals.",
+    "site_web": "https://evrycourcouronnes.fr/thematique-annuaire/marches-foodtrucks-evry-courcouronnes/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Thorigny+place+Guy+Briantais+Évry-Courcouronnes",
+    "image_url": "/images/marchands/marche-de-thorigny-evry-courcouronnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-canal-evry-courcouronnes",
+    "nom": "Marché du Canal",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.630714,
+    "lon": 2.414154,
+    "adresse": "Place de l'Orme à Martin, 91000 Évry-Courcouronnes",
+    "horaires": "Le jeudi, toute l'année. Les heures diffèrent selon les sources : de 11h à 19h selon la Ville d'Évry-Courcouronnes, de 14h à 20h selon Grand Paris Sud Tourisme et Essonne Tourisme. La Ville écrivait de 15h à 19h en 2021.",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le marché du quartier du Canal, sur la place qui porte le nom de l'orme à Martin — un paysan dont le portrait peint orne un poste électrique de la place. C'est celui des trois marchés de la commune qui tient le plus tard. La Ville n'en publie pas la liste des étals.",
+    "site_web": "https://evrycourcouronnes.fr/thematique-annuaire/marches-foodtrucks-evry-courcouronnes/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Canal+place+de+l'Orme+à+Martin+Évry-Courcouronnes",
+    "image_url": "/images/marchands/marche-du-canal-evry-courcouronnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-paniers-d-evry",
+    "nom": "Les Paniers d'Évry",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.6361,
+    "lon": 2.446384,
+    "adresse": "Mairie annexe du Village, place du Général de Gaulle, 91000 Évry-Courcouronnes",
+    "horaires": "Distribution le jeudi, de 18h30 à 19h30 selon le site de l'AMAP et de 18h30 à 19h45 selon l'annuaire du réseau AMAP d'Île-de-France. Paniers réservés aux adhérents.",
+    "produits": [
+      "Paniers de légumes biologiques",
+      "Œufs biologiques",
+      "Fruits",
+      "Pain",
+      "Miel"
+    ],
+    "description": "L'AMAP du Village d'Évry-Courcouronnes distribue ses paniers le jeudi soir à la mairie annexe, place du Général-de-Gaulle. Elle résume son objet en une phrase : « pour manger bio, local, de saison, de qualité et solidaire ». La saison commence début octobre ; l'association ne publie pas le nom de ses producteurs.",
+    "site_web": "https://sites.google.com/view/lespaniersevry/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mairie+annexe+du+Village+place+du+Général+de+Gaulle+Évry-Courcouronnes",
+    "image_url": "/images/marchands/les-paniers-d-evry.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-paniers-du-potager",
+    "nom": "Les Paniers du Potager",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.61804,
+    "lon": 2.434265,
+    "adresse": "Salle LCR, 39 rue de l'Orge, 91000 Évry-Courcouronnes",
+    "horaires": "Distribution le jeudi de 19h15 à 20h15, selon l'annuaire du réseau AMAP d'Île-de-France. Paniers réservés aux adhérents, par contrat annuel.",
+    "produits": [
+      "Paniers de légumes biologiques de saison, en deux tailles",
+      "Aubergines, courgettes, tomates et poivrons",
+      "Poireaux, blettes, sucrine et pommes de terre",
+      "Œufs de la ferme",
+      "Miel, par contrat annuel de douze pots"
+    ],
+    "description": "L'AMAP du quartier des Aunettes est fournie depuis octobre 2025 par la ferme de l'Aunette, sept hectares à Ris-Orangis, montée en 2021 par deux maraîchers en reconversion sur un terrain loué par Grand Paris Sud pour l'agriculture biologique périurbaine. Ils travaillent le sol sans le bouleverser, plantent des haies et des zones refuges, et ont ajouté un poulailler de poules pondeuses en 2025. Le miel vient d'une apicultrice dont les ruches sont en Seine-et-Marne.",
+    "site_web": "http://amap-aunettes.blogspot.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Paniers+du+Potager+39+rue+de+l'Orge+Évry-Courcouronnes",
+    "image_url": "/images/marchands/les-paniers-du-potager.jpg",
+    "a_confirmer": true
   }
 ]

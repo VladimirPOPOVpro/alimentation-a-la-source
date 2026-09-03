@@ -746,9 +746,48 @@ prioritaires en cas de conflit.
    registre qui désigne un autre numéro de la même rue. On n'interpole jamais un numéro manquant
    entre deux numéros connus : ce serait le décalage à la main que la règle 10 interdit.
 
+64. **Prolongement de la règle 63 : quand la Base Adresse Nationale ignore la place tout entière,
+   les coordonnées que l'office de tourisme publie pour le lieu lui-même en tiennent lieu.** La
+   règle 63 traitait le numéro manquant dans une rue connue. À Évry-Courcouronnes, deux des trois
+   marchés se tiennent sur des places que la Base ne connaît pas du tout : « place Guy Briantais »
+   ne rend aucun résultat dans la commune, pas même sous un autre libellé — le balayage inverse des
+   rues voisines ne la fait apparaître nulle part — et « place de l'Orme à Martin » n'existe que
+   sous la forme d'une allée et d'une avenue du même nom, distantes de 45 m. Critère : prendre le
+   point que l'office de tourisme publie pour l'objet lui-même, vérifier par contrôle inverse qu'il
+   retombe à moins de cinquante mètres d'adresses portées par les voies qui bordent la place, et
+   écrire la distance de contrôle dans le README. Ne jamais se rabattre en silence sur le centroïde
+   d'une voie voisine : si le contrôle échoue, la fiche passe en pistes. Ici les deux offices —
+   Grand Paris Sud Tourisme et Essonne Tourisme — publient les mêmes coordonnées au millionième
+   près, et le contrôle inverse tombe à 25 m d'un numéro de l'allée André-de-Chénier pour la place
+   Guy-Briantais, à 21 m de l'allée de l'Orme à Martin pour l'autre.
+
+65. **Une page effacée du site d'une commune reste une source pour ce qu'elle seule documente,
+   jamais pour un horaire.** La page « Les marchés d'Évry-Courcouronnes » a disparu du site de la
+   Ville — elle répond 404 — mais l'Internet Archive en garde douze instantanés entre 2019 et 2021.
+   Ils portent la seule photographie de marché que la Ville ait jamais publiée, et une rédaction que
+   le site actuel n'a pas reprise. Critère : une page archivée d'une autorité peut fournir ce que le
+   site vivant ne publie plus — une illustration, une formule, un état passé — mais la page actuelle
+   de la même autorité l'emporte toujours sur les jours, les heures et les adresses. L'écart entre
+   les deux états s'écrit dans le README comme une évolution datée, il ne se publie pas comme un
+   fait. Le corollaire vaut aussi pour les numéros : un annuaire qui donne encore le standard d'une
+   commune fusionnée depuis six ans ne suffit pas à publier ce numéro, dans le même esprit que la
+   règle 62 pour les sites morts.
+
+66. **Une même photographie ne sert deux fiches que découpée en deux vues distinctes, et seulement
+   quand la source ne l'attribue elle-même à aucune des deux.** La Ville d'Évry-Courcouronnes
+   illustrait d'une seule image le bandeau de sa page « Les marchés », au pluriel : elle ne dit pas
+   lequel des trois marchés elle montre. Critère : la photographie doit avoir été publiée comme
+   illustration générique d'une famille de lieux, pas comme la vue d'un lieu identifié ; chaque
+   fiche reçoit un découpage franchement différent, sur un sujet différent ; le README dit d'où
+   vient l'image et que la fiche ne prétend pas montrer ce marché-là. C'est interdit dès que la
+   source attribue la photographie à un lieu précis : elle appartient alors à cette fiche seule, et
+   la seconde retombe sur la règle 1. C'est le défaut relevé à Calais, où l'office de tourisme
+   illustrait le marché du Beau-Marais avec la photographie du marché de la place d'Armes sans le
+   dire — la différence tient entièrement à ce que la source annonce.
+
 ## Marchands à confirmer
 
-279 fiches sur 313 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+284 fiches sur 318 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1033,7 +1072,13 @@ prioritaires en cas de conflit.
 - **Aux Goûts de la Ferme** (Calais) (magasin de producteurs de la route de Saint-Omer : dix agriculteurs et une vingtaine de dépôts-vendeurs, catégorie `ferme` comme la Grande Bastide, autre point de vente collectif. **Horaires contredits entre deux annuaires, publiés tous les deux, règle 5** : le réseau Où acheter local donne mercredi, jeudi et vendredi 15h-19h et samedi 9h-18h ; Que Choisir Ensemble, qui recense ses points de vente avec l'INRAE, ajoute une ouverture le jeudi et le vendredi de 9h à 12h30. Le noyau commun — les après-midi et le samedi — recoupe la formule du Pays du Calaisis, « du mercredi après-midi au samedi soir ». `site_web` est vide au titre de la règle 62 : le site cité par le Pays du Calaisis répond 404, « Aucune redirection pour cet host ». Point BAN sur le numéro 1380 à 0,979, à 59 m du marqueur d'Où acheter local. **Photo thématique de la même commune au titre de la règle 1** : aucune photographie du magasin n'existe dans les sources accessibles — celle de l'annuaire fait 180 × 360, très en dessous du plancher de la règle 59 — c'est donc l'étal de fruits du marché de la place d'Armes que l'office de tourisme utilise lui-même pour illustrer sa rubrique « Marchés et produits locaux » qui illustre la fiche, mains visibles, aucun visage)
 - **Biocoop Calais Saint-Pierre** (le magasin est immatriculé sous « GALEMM » ; c'est l'enseigne du réseau coopératif qui est publiée, règle 3, comme au Bessillon. Certificat **engagement en cours** au registre de l'Agence Bio, Ecocert, engagement de mars 2018, d'où le pilier `environnement` ; le magasin dit lui-même avoir ouvert en novembre 2017. Horaires concordants entre l'annuaire du réseau et le site du magasin. **Première fiche publiée au titre de la règle 63** : la Base Adresse Nationale ne connaît aucun numéro de la rue Gutenberg autour du 111 et ne rend que l'axe de la rue ; le point de l'Agence Bio se retourne sur le « 53 rue Gutenberg », bonne rue mais mauvais numéro ; ce sont les coordonnées que le magasin publie dans le code de sa propre page qui sont retenues, et le contrôle inverse les rattache au 40 rue Claude-Bernard, à 37 m, la voie qui borde l'arrière du bâtiment. Photo : la façade du magasin publiée par le magasin, enseigne lisible, personne dans le cadre)
 
-Les 313 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché Senghor** (Évry-Courcouronnes) (le marché du centre-ville, à proximité de la gare, le seul des trois de la commune à tenir deux jours. **Deux autorités d'accord au quart d'heure près** : la Ville et Grand Paris Sud Tourisme donnent mercredi 11h-18h et samedi 8h30-13h30, et la fiche de l'office est datée de l'année en cours. `produits` tient en une ligne, comme au Mont-Mesly : la Ville décrit ses trois marchés d'une seule phrase — « une large offre de produits alimentaires, vêtements et accessoires », lue dans la balise `description` de chaque fiche d'annuaire — et ne publie aucune liste d'étals. Le point est celui de la Base Adresse Nationale pour la rue Léopold-Sédar-Senghor, à 0,963 ; les deux offices de tourisme placent le marché 11 m plus loin, l'écart est négligeable. Le téléphone est celui que publient Essonne Tourisme et Grand Paris Sud Tourisme pour ce marché. **Photo au titre des règles 65 et 66** : la seule photographie de marché que la Ville ait publiée illustrait le bandeau de sa page « Les marchés », aujourd'hui effacée et retrouvée dans l'Internet Archive ; elle ne dit pas quel marché elle montre, et c'est un **premier découpage** — l'étal de légumes et la balance — qui est retenu ici, sous la ligne des visages)
+- **Marché de Thorigny** (Évry-Courcouronnes) (le marché du quartier de Thorigny, à Courcouronnes-Centre, que Grand Paris Sud Tourisme appelle « marché du centre ». Jour et heure concordants entre la Ville et l'office. **Première fiche publiée au titre de la règle 64** : la place Guy-Briantais est absente de la Base Adresse Nationale, y compris du balayage inverse de toutes les voies du quartier ; ce sont les coordonnées publiées par les deux offices de tourisme qui sont retenues, et le contrôle inverse les rattache au 10 allée André-de-Chénier, à 25 m, et au 2 mail de Thorigny, à 39 m. **Le téléphone n'est pas repris** : les deux offices donnent encore le standard de la mairie de Courcouronnes, commune fusionnée depuis 2019 — même prudence que la règle 62 pour les sites morts. **Photo au titre de la règle 66** : le **second découpage** de la photographie de bandeau de la Ville, la rangée d'ardoises de prix sous l'auvent, un sujet et un cadrage francs différents de la fiche précédente)
+- **Marché du Canal** (Évry-Courcouronnes) (le marché du quartier du Canal, sur la place de l'Orme à Martin. **Trois états d'horaire pour un même marché, règle 5** : la Ville écrit aujourd'hui jeudi 11h-19h, les deux offices de tourisme jeudi 14h-20h, et la Ville elle-même écrivait jeudi 15h-19h dans la version archivée de 2021 de sa page « Les marchés ». Les trois sont dans le champ `horaires`, attribuées ; la Ville actuelle est donnée en premier au titre de la règle 65. Coordonnées des offices au titre de la règle 64, contrôle inverse à 21 m de l'allée de l'Orme à Martin rendue par la Base — la place elle-même n'y figure pas, seulement une allée et une avenue du même nom distantes de 45 m. Téléphone écarté pour la même raison qu'à Thorigny. **Photo thématique de la même commune, règle 1** : le portrait peint de « Martin, paysan qui donna son nom à l'Orme à Martin » sur un poste électrique de la place, photographié et publié par la Ville — ce n'est pas le marché, c'est sa place, et la fiche ne prétend pas autre chose)
+- **Les Paniers d'Évry** (Évry-Courcouronnes) (l'AMAP du quartier du Village, distribution le jeudi soir à la mairie annexe. **Horaires contredits entre l'AMAP et son réseau, règle 5** : le site de l'association écrit 18h30-19h30, l'annuaire du réseau AMAP d'Île-de-France 18h30-19h45 ; les deux sont publiés, attribués, comme à l'AMAP de Chelles. Les cinq produits sont ceux que l'annuaire du réseau énumère — « Légumes, œufs, miel, fruits, pain » — et que le site de l'AMAP recoupe rubrique par rubrique. **Pas de pilier `environnement`, au titre de la règle 60** : l'association annonce des légumes et des œufs bio mais ne nomme aucun de ses producteurs, il n'y a donc aucun fournisseur à retrouver dans un registre. L'adresse de contact n'est pas reprise, et le nom du référent publié par l'annuaire non plus. Point BAN sur la place du Général-de-Gaulle à 0,963. **Photo thématique de la même commune, règle 1** : le site de l'AMAP est un Google Sites dont toutes les images répondent 403, avec ou sans référent ; c'est donc le visuel que la Ville publie pour le projet de budget participatif « Jardin partagé du parc Bataille » — deux mains repiquant un plant, aucun visage — qui illustre la fiche, et le README dit qu'il ne montre pas l'AMAP)
+- **Les Paniers du Potager** (Évry-Courcouronnes) (l'AMAP du quartier des Aunettes, salle LCR de la rue de l'Orge, jeudi 19h15-20h15 selon le réseau AMAP d'Île-de-France. **Seule fiche de la passe à porter le pilier `environnement`, et elle le doit à la règle 60** : le blog de l'association nomme son fournisseur depuis octobre 2025, la ferme de l'Aunette à Ris-Orangis, et l'un des deux maraîchers installés là en 2021 figure au registre de l'Agence Bio pour cette commune, en production de légumes biologiques — le fournisseur est donc retrouvé, ce qui manquait à Chelles comme aux Paniers d'Évry. **Aucun nom de personne n'est repris** : ni celui des deux maraîchers, ni celui de l'apicultrice, ni celui de la référente de l'annuaire ; la fiche porte les enseignes et les faits. Point BAN sur le 39 rue de l'Orge, `housenumber` à 0,978. Photo : l'ardoise du panier d'Évry du 18 septembre 2025, photographiée sous la serre du maraîcher et publiée par l'association — c'est elle qui a fourni la moitié des produits de la fiche, l'autre venant des relevés hebdomadaires du blog)
+
+Les 318 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1061,6 +1106,89 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Évry-Courcouronnes
+
+Quinzième passe en ville. Département visé : l'**Essonne (91)**, déficit **6,0758** fiche au sens de
+la règle 41, aucune fiche publiée — le premier du classement, où il était déjà passé en tête à la
+sortie de la passe de Calais. La réserve de la règle 41.c ne mordait pas : la passe précédente avait
+visé le Pas-de-Calais, région 32, quand l'Essonne est en région 11. Après la passe, le déficit du 91
+tombe à **1,1729** et l'**Isère** prend la tête à **5,99**, en région 84.
+
+Commune retenue : **Évry-Courcouronnes**, 66 919 habitants, la plus peuplée du département et sans
+aucune fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre par population.
+
+**Le site de la Ville est un WordPress, mais ses fiches d'annuaire sont vides.** Quatrième variante
+du piège de la coquille JavaScript après Toulouse, Roubaix et Calais — et la première où il existe
+une entrée franche. Les pages `/annuaire/<fiche>/` se rendent côté navigateur : le corps est vide,
+et l'API REST le confirme, `content.rendered` ne contient qu'un `<p>` sans texte et `acf` est un
+tableau vide. Deux chemins contournent le vide, et il a fallu les deux :
+
+- **les pages de listes thématiques sont rendues côté serveur.** `thematique-annuaire/marches-
+  foodtrucks-evry-courcouronnes/`, et sa `page/2/`, donnent en clair les onze entrées de la rubrique
+  avec leur adresse et leurs horaires. C'est de là que viennent les jours et les heures des trois
+  marchés.
+- **la balise `description` de chaque fiche porte le texte que la page ne rend pas.** Le champ
+  `yoast_head_json.description` de l'API REST donne, pour chacun des trois marchés, la phrase que la
+  Ville en écrit : « Le marché de Thorigny vous propose tout au long de l'année, une large offre de
+  produits alimentaires, vêtements et accessoires ». Elle n'apparaît nulle part dans le corps des
+  pages ; sans la balise, elle aurait été perdue.
+
+**Une page effacée a fourni la seule photographie**, à l'origine de la règle 65. La page « Les
+marchés d'Évry-Courcouronnes » répond 404 aujourd'hui ; l'Internet Archive en garde des
+instantanés répartis sur douze mois entre avril 2019 et juin 2021, tous portant la même image de bandeau — un étal de
+légumes sous auvent, ardoises de prix, une vraie photographie de marché de la commune. C'est la
+seule que la Ville ait publiée : une vingtaine de balayages de la médiathèque n'en ont rendu aucune
+autre, et les deux numéros de *La Quinzaine* que la recherche du site associe au mot « marché » ne
+parlent que de marches exploratoires, de démarches administratives et du marché de Noël. Le même instantané donne les
+horaires de 2021, qui diffèrent de ceux d'aujourd'hui pour le marché du Canal.
+
+**Trois fausses pistes photographiques**, pour mémoire : le fichier `marche-scaled.jpeg` de la
+médiathèque montre de la marche nordique, pas un marché ; la photographie `foodtrucks` montre un
+restaurateur de face ; le visuel `vide-grenier` montre des portants de vêtements et de la brocante,
+pas de l'alimentaire. Et le site de l'AMAP Les Paniers d'Évry est un Google Sites dont **toutes** les
+images répondent 403, avec ou sans référent, en `=w1280` comme en `=s0`.
+
+**Le registre de l'Agence Bio pour le 91** ne rend, sur la commune, qu'un opérateur utile —
+Études et Chantiers Île-de-France — et deux enseignes écartées. Il a servi autrement : c'est lui qui
+a permis de retrouver, à Ris-Orangis, le maraîcher fournisseur des Paniers du Potager, et donc de
+justifier le seul pilier `environnement` de la passe au titre de la règle 60.
+
+**Solibio91, Tour Lorraine, boulevard de France** — AMAP recensée par le réseau d'Île-de-France,
+partage le mardi de 12h15 à 12h45, adresse et horaire publiés. Écartée pour une raison unique et
+nette, que le réseau écrit lui-même dans le champ du lieu : « Adhésion réservée aux agents de la
+Cité administrative d'Évry ». Ce n'est pas un point de vente ouvert au public, et la carte n'a pas
+vocation à envoyer quelqu'un devant une porte fermée. **Critère de déblocage** : une ouverture aux
+habitants, publiée par l'AMAP ou par le réseau.
+
+**Études et Chantiers Île-de-France, 1 rue de l'Orge** — association d'insertion par l'activité
+économique, sept établissements ouverts au registre des entreprises, activité 88.99B, inscrite au
+registre de l'Agence Bio en **Production** avec `venteParticuliers` à vrai et une liste de légumes
+longue comme le bras. Mais elle ne publie **ni point de vente, ni jour, ni heure** : le registre
+atteste qu'elle vend au particulier, il ne dit ni où ni quand. **Critère de déblocage** : une
+adresse, un jour et une heure de vente publiés par l'association ou par la Ville.
+
+**La Belle Bio (SAS)** — inscrite au registre de l'Agence Bio à Évry-Courcouronnes, mais en
+`venteProsDetail` seul : elle vend à des détaillants, pas au public. Hors périmètre en l'état.
+**Critère de déblocage** : un point de vente au particulier publié.
+
+**Les sept foodtrucks de l'annuaire municipal** — Le Bar à crêpes, Le Goût de Carthage, Le Hérisson
+Jaune, Oh sisters snacking, Ravito Gourmand, Sushi voyage, Viêt Délice, et le centre commercial
+Le Spot — occupent huit des onze entrées de la rubrique « Marchés, foodtrucks et centre
+commercial ». Restauration ambulante et galerie marchande : hors sujet au sens de MODERATION.md,
+qui référence la vente alimentaire en circuit court.
+
+**Les sept primeurs du registre des entreprises** — deux d'entre eux sans établissement ouvert —
+sont des commerces de détail de revente, sans aucune information vérifiable publiée : ni horaires,
+ni origine des produits, ni site. Même issue que l'Huîtrière Calaisienne, pour la même raison de
+périmètre. **Écarté comme généraliste** : le Carrefour d'Évry, certifié bio au registre pour son
+rayon boulangerie.
+
+**Deux fiches de tourisme périmées, gardées quand même.** Les fiches d'Essonne Tourisme pour le
+marché du centre et le marché du Canal portent encore « du 1 janvier 2017 au 31 décembre 2017 » ;
+celle de Grand Paris Sud Tourisme pour le marché Senghor, elle, est datée de l'année en cours. Les
+périmées n'ont servi que pour ce qui ne périme pas — les coordonnées géographiques, au titre de la
+règle 64 — et jamais pour un horaire sans le dire.
 
 ### Pistes non publiées à Calais
 
