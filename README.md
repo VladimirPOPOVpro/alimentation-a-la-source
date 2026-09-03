@@ -836,9 +836,43 @@ prioritaires en cas de conflit.
    pas un report « pour une question d'illustration » au sens que la règle 1 réprouve : c'est
    l'absence pure et simple de toute image utilisable.
 
+71. **Être inscrit au registre de l'Agence Bio n'est pas être certifié : un certificat à l'état
+   « arrêtée » ne donne pas le pilier `environnement`.** La Mouette est bien au registre, avec son
+   SIRET, son adresse et ses productions ; mais son unique certificat porte l'état ARRETEE, notifié
+   le 12 janvier 2021, sans organisme ni date d'engagement. Le magasin se décrit pourtant comme bio
+   et local, et il l'est en pratique — il achète à des fermes certifiées. Critère : le pilier
+   `environnement` demande un certificat en vigueur au nom de l'établissement lui-même, pas la
+   certification de ses fournisseurs ni sa propre description ; à défaut, la fiche sort avec
+   `alimentation`, `economie` et `social`, et rien dans son texte ne laisse entendre qu'elle est
+   certifiée. La catégorie, elle, peut rester `magasin-bio` : c'est la seule catégorie de magasin
+   dont dispose le fichier, et elle décrit l'offre, pas un label. Même logique que la règle 68, un
+   cran plus bas : là c'était le mot « bio » d'une autorité, ici c'est une ligne de registre.
+
+72. **Une photographie publiée avant que la chose existe n'est pas une photographie de cette
+   chose.** L'article par lequel la Ville du Havre annonce le marché de Rouelles est daté du
+   17 mai 2025 ; le marché a ouvert le 5 juin. La photographie qui l'illustre — deux mains qui se
+   passent une tomate au-dessus des cageots, créditée au photographe de la Ville — ne peut donc pas
+   montrer ce marché-là. Critère : avant d'écrire qu'une photographie montre un lieu, comparer sa
+   date de publication à la date du fait qu'elle est censée montrer ; si la page précède le fait,
+   l'image redevient une illustration thématique au sens de la règle 1, elle est publiée comme
+   telle, et le README dit pourquoi. Prolonge la règle 70, qui écartait l'image de banque : ici
+   l'image est bien de l'autorité et bien du sujet, mais pas de l'endroit.
+
+73. **Un artisan qui transforme et vend lui-même est dans le périmètre, même si sa matière première
+   ne pousse pas ici.** La question s'est posée pour une brûlerie de café havraise inscrite au
+   registre de l'Agence Bio : le café ne pousse pas en Normandie, faut-il l'écarter ? Non — le
+   fichier publie déjà deux brasseries artisanales comme `producteur`, et le malt et le houblon
+   d'une bière ne sont pas plus locaux que le café vert d'un torréfacteur. Critère : ce qui compte
+   est que la transformation ait lieu sur place et que la vente soit directe, sans intermédiaire
+   entre l'atelier et le mangeur ; l'origine de la matière première se dit dans la description
+   quand elle est connue, elle n'exclut pas. Ce qui exclut reste ce qu'écrit MODERATION.md : le
+   revendeur pur et le commerce généraliste. La brûlerie n'est donc pas publiée cette fois pour une
+   raison de documentation, pas de périmètre — ni horaires ni photographie, sous le seuil de la
+   règle 16.
+
 ## Marchands à confirmer
 
-294 fiches sur 328 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+299 fiches sur 333 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1141,7 +1175,13 @@ prioritaires en cas de conflit.
 - **Marché des Coteaux** (Argenteuil) (le marché du quartier des Coteaux, mercredi et samedi matin, celui auquel la Ville consacre le plus de photographies — vingt sur soixante. **Deux adresses pour un seul lieu, et ce n'est pas une contradiction** : l'arrêté municipal et la page des marchés écrivent « rue de la Grande Voie », l'annuaire des équipements écrit « rue de l'Ermitage » ; le point que la Ville publie elle-même tombe à 25 m de la première et à 28 m de la seconde, au carrefour où les deux se rejoignent avec la rue de Rosière. La fiche porte l'adresse de l'arrêté et le README dit pourquoi. Photo : le comptoir du traiteur, **recadré sous la ligne des visages** — la moitié haute de l'original montre un client de profil)
 - **Marché du Val-d'Argent-Nord** (Argenteuil) (le seul marché de la commune qui se tienne l'après-midi. **Une séance provisoire devenue permanente** : la Ville a ouvert le mardi le 25 avril 2023 « jusqu'à l'été », après la fermeture administrative d'un supermarché du quartier pour manquement d'hygiène ; l'arrêté d'octobre 2024 l'inscrit au calendrier officiel, à côté du vendredi. L'offre non alimentaire annoncée par la Ville — hygiène, linge de maison, ustensiles de cuisine — est dite dans la description et absente des produits. **Le point de la Ville et l'adresse de l'arrêté divergent de 144 m** : l'arrêté dit rue Jean-Lurçat, le marqueur tombe à 19 m de l'allée Fernand-Léger et à 74 m de l'allée Jean-Lurçat ; comme les cinq autres marqueurs de l'annuaire se sont vérifiés à moins de 40 m, c'est lui qui est retenu, et l'écart est consigné. Photo : bananes et raisins sur un étal, publiée par la Ville pour ce marché, personne dans le cadre)
 
-Les 328 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché aux Poissons** (Le Havre) (le seul marché havrais ouvert six jours sur sept, quai de l'Île, face au port de pêche. **Deux autorités concordantes** : la Ville du Havre donne les jours et l'horaire, 8h30-13h30 « sauf avis de tempête », l'office de tourisme Le Havre Étretat confirme « ouvert six jours sur sept, du lundi au samedi » et fournit les huit espèces du champ `produits`. C'est lui aussi qui attribue le prix du panier à la vente directe, phrase qui vaut à ce marché sa place ici. Point BAN sur le quai de l'Île à 0,969 ; le point Google que la Ville publie tombe 29 m plus loin. Photo : la vue du marché publiée par l'office, **recadrée sur sa bande haute** — les fresques peintes, la lanterne et les ardoises des bateaux ; les deux tiers bas de l'original sont pleins de visages. Au titre de la règle 69, rien de ce que montre cette photographie n'est écrit dans la fiche : les noms de bateaux lisibles sur les ardoises ne sont légendés nulle part)
+- **Marché Thiers** (Le Havre) (le marché du centre reconstruit, sur l'avenue René Coty, trois matinées par semaine. **Deux sources, deux niveaux** : la Ville donne les jours et les heures des trois séances, l'office de tourisme ne décrit que le vendredi matin — « vendeurs de produits laitiers, volailles, poissons, viandes, charcuteries, huîtres constituent l'atout du marché Thiers » — et ce sont ces six métiers qui remplissent `produits`, en le disant. **Application de la règle 64** : la Base Adresse Nationale ne rend que l'axe de l'avenue René Coty, à 329 m du marché ; ce sont les coordonnées de la Ville qui sont retenues, et le contrôle inverse les rattache au 25 avenue René Coty, à 8 m. **Photo thématique de la même commune au titre de la règle 1** : la vue en plongée d'étals de légumes que l'office publie sous la légende « Tomates, citrouilles, salades sur les marchés du Havre », créditée au photographe de la Ville — aucun visage, seulement des dessus de tête)
+- **Marché de Rouelles** (Le Havre) (le plus récent des marchés havrais : la Ville l'a créé pour le quartier et ouvert le 5 juin 2025, place Maurice Blard. Les cinq produits sont les cinq métiers qu'elle annonce — un boucher, un fromager, un primeur, un maraîcher, un poissonnier — et rien d'autre. **Contradiction de code postal, tranchée pour la Base** : la Ville écrit 76600, la Base Adresse Nationale connaît la place Maurice Blard en 76610 ; c'est le code de la Base qui est inscrit, Rouelles étant desservi par ce bureau. Point BAN à 27 m du point que la Ville publie. **Première fiche publiée au titre de la règle 72** : la photographie qui illustre l'article est datée du 17 mai 2025, trois semaines avant l'ouverture du marché — elle ne peut pas le montrer, elle l'illustre, et c'est écrit ici)
+- **Marché du Champ de Foire** (Le Havre) (le seul marché de la ville qui tienne toute la journée, le samedi, avec un horaire d'été et un horaire d'hiver que la Ville publie au jour près — 7h30-18h30 du 1er avril au 31 octobre, 7h30-18h le reste de l'année. La Ville ne publie aucune liste d'étals : `produits` ne porte que les deux lignes de sa propre nomenclature, même discipline qu'au Mont-Mesly et qu'aux Champioux. **Application de la règle 64** : la Base Adresse Nationale ne connaît pas « Champ de Foire » comme adresse ; le point de la Ville est retenu, et le contrôle inverse le rattache au 12 place des Expositions, à 32 m. Photo : le bandeau que la Ville met en tête de sa page « Les marchés havrais », qui est une photographie de ce marché-ci, **recadrée sur sa bande haute** — les bâches des étals et les tours de la reconstruction ; les deux tiers bas montrent une trentaine de visages)
+- **La Mouette, magasin coopératif** (Le Havre) (épicerie coopérative et autogérée du quartier du Rond-Point, ouverte en février 2020 — date que la Ville publie et que le registre des entreprises confirme au jour près, 1er février 2020 — et installée rue du Maréchal Joffre depuis janvier 2022. **Première fiche publiée au titre de la règle 71** : elle est bien inscrite au registre de l'Agence Bio, mais son unique certificat est à l'état « arrêtée » ; la fiche sort donc sans le pilier `environnement`, et sa description ne dit nulle part qu'elle est certifiée. **Horaires contredits, règle 5** : le magasin publie 12h pour l'ouverture du mercredi, la Ville 13h30 ; les deux sont dans `horaires`, attribués. Les fournisseurs cités dans la description sont ceux que le magasin publie lui-même, **nommés par leur commune et non par leur exploitant** — le registre et le site donnent les patronymes, MODERATION.md les écarte. Point BAN sur le numéro 145, à un millionième de degré du point de l'Agence Bio. Photo : la devanture publiée par la Ville, **recadrée au-dessus de la ligne des visages** — l'enseigne, la mouette et le bardage ; les deux coopératrices posent au premier plan de l'original)
+
+Les 333 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1169,6 +1209,156 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées au Havre
+
+Dix-huitième passe en ville. Département visé : la **Seine-Maritime (76)**, déficit **5,9982** fiche
+au sens de la règle 41, aucune fiche publiée — le premier du classement, et sans conflit avec la
+réserve de la règle 41.c puisque la passe précédente visait l'Île-de-France. Après la passe, le
+déficit du 76 tombe à **1,0897** et l'Hérault prend la tête à **5,94**.
+
+Commune retenue : **Le Havre**, 166 687 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre — la suivante par
+population aurait été Rouen, 117 662 habitants.
+
+**Le site de la Ville trouve tout sauf ses propres marchés.** `lehavre.fr` est un Drupal classique,
+dont le sitemap est un index bien formé de 2 292 URL. Mais son moteur de recherche interne, requêté
+sur « marché », ne rend que la page des *marchés publics* — la page « Les marchés havrais », qui
+liste dix-huit marchés avec leurs jours, leurs heures, leurs adresses et un point de localisation
+chacun, ne sort pas. Elle a été trouvée en filtrant le sitemap. Nouvelle variante du piège des
+passes précédentes : à Toulouse, à Roubaix et à Calais, c'était une coquille JavaScript qui se
+faisait passer pour la page ; ici la page existe, bien servie, et c'est la recherche du site qui ne
+la voit pas. La leçon est la même : le sitemap avant le moteur.
+
+**Les trois sources qui ont fait cette passe** :
+
+- **`lehavre.fr`**, rubrique « Les marchés havrais », mise à jour le 24 novembre 2025 : la liste
+  complète des marchés de la ville, jour par jour, avec pour chacun l'horaire, l'adresse, la
+  nomenclature (« marché alimentaire », « alimentaire, confection, divers ») et un lien « Voir la
+  localisation » vers Google Maps. C'est la source des jours, des heures et des points.
+- **`lehavre-etretat-tourisme.com`**, rubrique « Les halles et marchés » : la seule source qui
+  décrive ce qui se vend. C'est elle qui donne les huit espèces du marché aux poissons, les six
+  métiers du marché Thiers, les 43 stands de Sainte-Cécile, et la phrase sur la vente directe qui
+  vaut au quai de l'Île sa place ici.
+- **Le registre de l'Agence Bio pour le 76**, 1 000 opérateurs, dont 78 domiciliés au Havre. Le
+  chiffre est exactement rond, et l'API le répète dans son champ `nbTotal` en refusant toute page
+  au-delà : c'est peut-être un plafond, et il faut le lire comme tel — ce n'en serait pas un
+  général, puisque l'Isère en avait rendu 2 233 à la passe de Grenoble. La
+  moitié n'a rien à voir avec la vente au particulier : logisticiens et frigoristes du port,
+  torréfacteurs en gros, sièges sociaux. Dix-sept lignes sont des enseignes de chaîne certifiées
+  pour un rayon — dix Carrefour sur neuf adresses, deux Leader Price, un Monoprix, un Super U, une
+  Mie Câline, La Vie Claire et Naturéo — que MODERATION.md écarte, comme à Saint-Maximin et à
+  Calais. Reste une poignée d'opérateurs utiles, dont La Mouette et quatre magasins qui passent en
+  pistes ci-dessous. **Piège du filtre** : le bloc `venteAnnuaire` est si peu fiable qu'un premier
+  tri sur `venteParticuliers` n'aurait retenu ni La Mouette, ni Le Marché Bio, ni Le Bon Endroit,
+  ni Biocoop Coty — quatre magasins dont c'est pourtant le métier. C'est exactement la réserve de
+  la règle 40 : il a fallu relire les 78 lignes une à une.
+
+**Le lien de localisation du marché de Caucriauville pointe la place de Graville**, à 1,5 km de
+l'avenue du 8 Mai 1945 où la Ville situe elle-même ce marché : les deux fiches partagent le même
+lien Google, copié de l'une à l'autre. L'erreur a été prise par le contrôle inverse de la règle 67,
+appliqué à chacun des points avant de s'en servir. Aucun des points retenus dans les cinq fiches ne
+vient de ce lien sans avoir été retourné.
+
+**Marché de Sainte-Cécile, place de la Liberté** — mardi, jeudi et samedi de 7h30 à 13h30, et la
+meilleure recommandation de toute la passe : l'office de tourisme écrit que « sur les 43 stands du
+marché de Sainte Cécile, les producteurs locaux occupent une place de choix ». Il manque tout le
+reste : aucune liste d'étals, aucune photographie de ce marché nulle part, et la règle 66 interdit
+de lui prêter celle d'un autre. **Critère de déblocage** : une photographie de ce marché sans visage
+identifiable, ou une liste d'exposants.
+
+**Marché des Halles Centrales, place des Halles Centrales** — le marché du dimanche matin, 8h30-13h,
+que l'office décrit comme un lieu de rendez-vous où l'on prend un café en terrasse et où des
+traiteurs antillais et italien complètent l'offre classique. Même manque que Sainte-Cécile : ni
+liste d'étals, ni photographie. **Critère de déblocage** : identique.
+
+**Les douze autres marchés havrais**, tous connus par leur jour, leur heure et leur adresse, aucun
+par ses étals ni par une image : Graville (mardi), la Mare-au-Clerc (mardi), Aplemont (mercredi et
+vendredi), les Gobelins / Saint-Vincent (mercredi et samedi), Montgeon (mercredi), Bayonvilliers
+(jeudi et samedi), la Mare Rouge (jeudi), Bléville (vendredi), Poincaré (vendredi), Caucriauville
+(samedi), Beauvallet (samedi) et Vavasseur (samedi). Ils seront repris au prochain passage sur la
+commune, dans l'ordre où les photographies apparaîtront. **Critère de déblocage** : le même pour
+tous.
+
+**La brûlerie de la place des Halles Centrales** — torréfacteur inscrit au registre de l'Agence Bio
+avec un certificat **engagement en cours** (Ecocert, juillet 2020), activités préparation et
+distribution, vente au particulier déclarée. C'est elle qui a fait écrire la règle 73 : le café
+n'est pas normand, mais le fichier publie déjà des brasseries artisanales, et la matière première
+n'exclut pas. Ce qui manque est prosaïque — aucun horaire, aucune photographie, aucune source hors
+du registre. **Critère de déblocage** : des horaires publiés et une photographie.
+
+**Le détaillant bio de la rue du Général Mangin** — inscrit au registre avec un certificat
+**engagement en cours** (Bureau Veritas, mars 2026) et une activité « commerce de détail de fruits
+et légumes frais », ce qui en ferait exactement le genre de commerce que cherche ce site. Mais le
+registre ne donne qu'une raison sociale, sans enseigne, sans téléphone, sans horaire — le champ
+site web est présent mais vide — et rien d'autre n'en parle. **Critère de déblocage** : une enseigne et des horaires
+publiés par une source accessible.
+
+**La Ceinture Verte du Havre Seine** — société coopérative d'intérêt collectif inscrite au registre
+en production maraîchère, certificat **engagement en cours** (Ecocert, septembre 2022). Deux raisons
+de ne pas la publier ici : son bloc de vente ne déclare que le gros et les professionnels, et son
+adresse d'exploitation n'est pas au Havre mais route de la Fontaine Mallet, à **Montivilliers**.
+Elle relève donc d'une passe sur Montivilliers, pas de celle-ci. **Critère de déblocage** : un point
+de vente au particulier, avec jour et heure.
+
+**Quatre magasins bio indépendants du Havre, tous laissés pour la même raison** — aucun horaire,
+aucune photographie, aucune source hors du registre :
+
+- **Le Marché Bio, 5 rue Saint-Jacques** — certificat **engagement en cours** (Bureau Veritas,
+  février 2026), immatriculé en supérette alimentaire.
+- **Le Bon Endroit, 56 rue Edouard Lang** — certificat **engagement en cours** (Ecocert,
+  septembre 2021), commerce de détail alimentaire en magasin spécialisé.
+- **Biocoop Coty, centre commercial Espace Coty** — l'enseigne serait publiable au titre de la
+  règle 3, comme au Bessillon, à Calais et à Grenoble ; mais son certificat est à l'état
+  **arrêtée** depuis un engagement de novembre 2019, ce qui lui coûterait le pilier `environnement`
+  au titre de la règle 71, et le registre ne donne pas d'adresse plus précise que le nom du centre
+  commercial.
+- **Le détaillant bio de la rue du Général Mangin**, décrit juste au-dessus.
+
+**Critère de déblocage, pour les quatre** : des horaires publiés par une source accessible et une
+photographie sans visage identifiable ; pour Biocoop Coty, en plus, un certificat en vigueur pour le
+pilier `environnement`, et une adresse postale.
+
+**L'inter-AMAP du Havre existe et reste introuvable.** L'université Le Havre Normandie et le théâtre
+des Bains-Douches ont organisé en mai 2026 un apéro-science sur les AMAP avec une intervenante de
+l'inter-AMAP du Havre : le réseau est donc vivant. Mais ses deux domaines connus, `amap-hn.org` et
+`reseau-amap-normandie.org`, ne résolvent plus, et aucune source accessible ne publie une adresse,
+un jour ni une heure de distribution au Havre. **Critère de déblocage** : l'adresse, le jour et
+l'heure d'une distribution.
+
+**LoHo – Le Local Shop, 165 rue de Paris** — écarté comme généraliste. L'office de tourisme le range
+parmi les producteurs, mais sa propre description commence par les produits dérivés à l'effigie du
+Havre : goodies, tee-shirts, vaisselle, linge de maison, objets déco, et une épicerie fine parmi le
+reste. MODERATION.md écarte les commerces généralistes.
+
+**La Halle aux poissons, 28 rue Général Faidherbe** — à ne pas confondre avec le marché aux poissons
+du quai de l'Île, qui est publié. La halle, bâtiment Perret réhabilité, n'est plus un lieu de vente
+alimentaire : la Ville la classe « culture, patrimoine » et y décrit une programmation culturelle,
+des ateliers-boutiques, un espace de projection et un café-cantine. Hors sujet.
+
+**Un point de vente à surveiller** : la Ville a lancé en 2025 un appel à manifestation d'intérêt
+pour l'exploitation d'un bâtiment du 10 quai Casimir Delavigne — 60 m² de magasin — en vue d'une
+« activité commerciale liée au domaine de la pêche », occupation à compter du 1er janvier 2026.
+Si un commerce s'y installe, c'est une fiche. **Critère de déblocage** : l'identité de
+l'attributaire et ses horaires.
+
+**Un producteur de houblon, rue de Verdun** — le registre l'inscrit sous quatre prénoms et un
+patronyme, ce que MODERATION.md interdit de publier comme s'il s'agissait d'une enseigne ; mais il
+lui attache aussi un site, `houblonsdenormandie.fr`, qui répond, et qui porte donc un nom d'usage
+publiable. Certificat **engagement en cours** (Ecocert, avril 2025), production « houblon en
+cônes », vente au particulier et au détail déclarées. Le houblon n'est pas un aliment, c'est une
+matière première de brasseur : la fiche n'aurait de sens que si le producteur vend aussi quelque
+chose qui se mange ou se boit. **Critère de déblocage** : un produit fini vendu sur place, avec des
+horaires.
+
+**Écartés** : La Ferme aux Mille Fruitiers, dont le certificat est arrêté ; et les enseignes de
+chaîne citées plus haut, que MODERATION.md exclut.
+
+**Données personnelles écartées** : l'adresse électronique de service que la Ville publie pour les
+demandes d'emplacement, l'adresse Gmail et le nom du gérant que le registre de l'Agence Bio attache
+à La Mouette, et les patronymes des maraîchers et éleveurs que le magasin nomme sur sa page
+« Produits » — la fiche ne cite que les communes. Le standard de l'hôtel de ville n'est pas
+davantage inscrit : aucun marché havrais n'a de téléphone propre.
 
 ### Pistes non publiées à Argenteuil
 

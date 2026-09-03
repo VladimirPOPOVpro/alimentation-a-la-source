@@ -8511,5 +8511,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Val+d+Argent+Nord+Argenteuil",
     "image_url": "/images/marchands/marche-du-val-d-argent-nord-argenteuil.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-aux-poissons-le-havre",
+    "nom": "Marché aux Poissons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.487015,
+    "lon": 0.113157,
+    "adresse": "Quai de l'Île, 76600 Le Havre",
+    "horaires": "Du lundi au samedi de 8h30 à 13h30, sauf avis de tempête ; fermé le dimanche.",
+    "produits": [
+      "Bar",
+      "Raie",
+      "Rouget",
+      "Maquereau",
+      "Sole",
+      "Homards et crevettes",
+      "Dormeurs et bulots",
+      "Pétoncles"
+    ],
+    "description": "Le marché aux poissons du quai de l'Île, face au port de pêche, est le seul marché du Havre ouvert six jours sur sept. L'office de tourisme Le Havre Étretat le décrit comme « une institution havraise » et attribue à la vente directe la fraîcheur des étals et le prix du panier ; les espèces énumérées ci-dessus sont celles qu'il cite.",
+    "site_web": "https://lehavre.fr/services-au-quotidien/commerces-entreprises/les-marches-havrais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+aux+Poissons+quai+de+l'Île+Le+Havre",
+    "image_url": "/images/marchands/marche-aux-poissons-le-havre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-thiers-le-havre",
+    "nom": "Marché Thiers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.4959104,
+    "lon": 0.1096978,
+    "adresse": "Avenue René Coty, 76600 Le Havre",
+    "horaires": "Lundi, mercredi et vendredi de 7h30 à 13h30.",
+    "produits": [
+      "Produits laitiers",
+      "Volailles",
+      "Poissons",
+      "Viandes",
+      "Charcuteries",
+      "Huîtres"
+    ],
+    "description": "Le marché du quartier Thiers, sur l'avenue René Coty, tient trois matinées par semaine au cœur du Havre reconstruit. Les six métiers énumérés ci-dessus sont ceux que l'office de tourisme Le Havre Étretat retient comme « l'atout du marché Thiers » le vendredi matin ; la Ville du Havre le classe « marché alimentaire » les trois jours et « alimentaire, divers » le vendredi.",
+    "site_web": "https://lehavre.fr/services-au-quotidien/commerces-entreprises/les-marches-havrais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Thiers+avenue+René+Coty+Le+Havre",
+    "image_url": "/images/marchands/marche-thiers-le-havre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-rouelles-le-havre",
+    "nom": "Marché de Rouelles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.522041,
+    "lon": 0.161082,
+    "adresse": "Place Maurice Blard, 76610 Le Havre",
+    "horaires": "Le jeudi de 7h30 à 13h30.",
+    "produits": [
+      "Viandes",
+      "Fromages",
+      "Fruits et légumes",
+      "Légumes de maraîcher",
+      "Poissons et fruits de mer"
+    ],
+    "description": "Le plus récent des marchés havrais : la Ville du Havre l'a créé pour le quartier de Rouelles et l'a ouvert le 5 juin 2025, place Maurice Blard. Elle annonce cinq commerçants ambulants — un boucher, un fromager, un primeur, un maraîcher et un poissonnier — et c'est de cette liste que viennent les cinq produits ci-dessus.",
+    "site_web": "https://lehavre.fr/services-au-quotidien/commerces-entreprises/les-marches-havrais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Rouelles+place+Maurice+Blard+Le+Havre",
+    "image_url": "/images/marchands/marche-de-rouelles-le-havre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-champ-de-foire-le-havre",
+    "nom": "Marché du Champ de Foire",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.4945529,
+    "lon": 0.1272695,
+    "adresse": "Champ de Foire, 76600 Le Havre",
+    "horaires": "Le samedi de 7h30 à 18h30 du 1er avril au 31 octobre, et de 7h30 à 18h du 1er novembre au 31 mars.",
+    "produits": [
+      "Produits alimentaires",
+      "Confection, tissus, tapis et divers"
+    ],
+    "description": "Le seul marché havrais qui tienne toute la journée : le samedi, du petit matin jusqu'au soir, sur l'esplanade du Champ de Foire. La Ville du Havre le classe « marché alimentaire, confection, tissus, tapis, divers » et ne publie pas la liste de ses étals ; les deux lignes ci-dessus reprennent sa nomenclature, sans rien y ajouter.",
+    "site_web": "https://lehavre.fr/services-au-quotidien/commerces-entreprises/les-marches-havrais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Champ+de+Foire+Le+Havre",
+    "image_url": "/images/marchands/marche-du-champ-de-foire-le-havre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-mouette-le-havre",
+    "nom": "La Mouette, magasin coopératif",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.50005,
+    "lon": 0.127818,
+    "adresse": "145 rue du Maréchal Joffre, 76600 Le Havre",
+    "horaires": "Mardi, jeudi et vendredi de 16h30 à 19h15, mercredi de 12h à 19h15, samedi de 10h à 12h45 ; fermé les lundi et dimanche. Le magasin publie 12h pour l'ouverture du mercredi, la Ville du Havre 13h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Œufs, lait cru, beurre et crème",
+      "Fromages fermiers",
+      "Yaourts et fromages blancs",
+      "Charcuterie fermière",
+      "Épicerie salée et sucrée",
+      "Vrac",
+      "Hygiène et entretien"
+    ],
+    "description": "Épicerie coopérative et autogérée, ouverte en février 2020 et installée depuis janvier 2022 rue du Maréchal Joffre, dans le quartier du Rond-Point. Chaque détenteur d'une part sociale peut y faire ses courses et s'engage à donner trois heures par mois au fonctionnement du magasin : commande chez les producteurs, mise en rayon, caisse. Le magasin publie la liste de ses fournisseurs, presque tous du pays de Caux — maraîchers de Montivilliers et de Bretteville-du-Grand-Caux, fermes laitières de Saint-Sauveur-d'Émalleville et de Saint-Vincent-Cramesnil, œufs et volailles de La Remuée, yaourts d'Épreville.",
+    "telephone": "09 51 21 13 53",
+    "site_web": "https://www.lamouette-coop.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Mouette+magasin+coopératif+145+rue+du+Maréchal+Joffre+Le+Havre",
+    "image_url": "/images/marchands/la-mouette-le-havre.jpg",
+    "a_confirmer": true
   }
 ]
