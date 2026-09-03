@@ -9199,5 +9199,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAPapille+Grand+Cordel+18+rue+des+Plantes+Rennes",
     "image_url": "/images/marchands/amapapille-rennes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-des-enfants-rouges",
+    "nom": "Marché couvert des Enfants Rouges",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.862954,
+    "lon": 2.362155,
+    "adresse": "39 rue de Bretagne, 75003 Paris",
+    "horaires": "Du mardi au samedi de 8h30 à 20h30, jusqu'à 21h30 le jeudi, et le dimanche de 8h30 à 17h ; fermé le lundi. Stand de producteur le mercredi et le samedi de 8h30 à 13h.",
+    "produits": [
+      "Fruits et légumes, dont un primeur biologique",
+      "Fromages fermiers",
+      "Viandes",
+      "Poissons, coquillages et huîtres",
+      "Crêpes et galettes de sarrasin",
+      "Traiteurs et restaurants du monde",
+      "Fleurs"
+    ],
+    "description": "Fondé en 1615, c'est le plus ancien marché alimentaire couvert de Paris, classé monument historique en 1982 ; son nom vient des orphelins vêtus d'étoffe rouge de l'hospice voisin, créé en 1536 par Marguerite de Navarre. Menacé de destruction pour devenir un parking dans les années 1990, il a été sauvé par ses commerçants et les riverains. Dix-huit commerces s'y partagent la halle : traiteurs et restaurateurs pour la plupart, mais aussi fromagers, bouchers, poissonniers, primeurs et un fleuriste. La Ville de Paris signale un stand de producteur le mercredi et le samedi matin.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-des-enfants-rouges-5461",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Enfants+Rouges+39+rue+de+Bretagne+Paris",
+    "image_url": "/images/marchands/marche-couvert-des-enfants-rouges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-saint-germain",
+    "nom": "Marché couvert Saint-Germain",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.851813,
+    "lon": 2.336471,
+    "adresse": "4/6 rue Lobineau, 75006 Paris",
+    "horaires": "Du mardi au samedi de 8h à 20h, et le dimanche de 8h à 13h30 ; fermé le lundi.",
+    "produits": [
+      "Poissons et fruits de mer",
+      "Fromages",
+      "Fruits et légumes",
+      "Fleurs",
+      "Restauration sur place"
+    ],
+    "description": "Quatorze commerçants sous les arcades du quartier de l'Odéon, sur l'emplacement de la foire Saint-Germain créée en 1482 par les moines de l'abbaye de Saint-Germain-des-Prés ; le bâtiment actuel a été élevé en 1817 sur les plans de Jean-Baptiste Blondel. L'une des deux poissonneries y pratique la conservation à sec, sans lit de glace : le poisson est affiné ou maturé de quatre à onze jours dans une ambiance réfrigérée, une méthode rare à Paris qui évite l'eau nécessaire à la fabrication de la glace.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-saint-germain-5466",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+Saint-Germain+rue+Lobineau+Paris",
+    "image_url": "/images/marchands/marche-couvert-saint-germain.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-saint-quentin",
+    "nom": "Marché couvert Saint-Quentin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.876975,
+    "lon": 2.355191,
+    "adresse": "85 bis boulevard de Magenta, 75010 Paris",
+    "horaires": "Du mardi au dimanche de 8h à 20h ; fermé le lundi.",
+    "produits": [
+      "Viandes",
+      "Poissons et fruits de mer",
+      "Fromages",
+      "Fruits et légumes",
+      "Vins de vieux cépages",
+      "Traiteurs"
+    ],
+    "description": "Le plus grand marché couvert de Paris, entre la gare du Nord et la gare de l'Est : une halle métallique de style Baltard construite en 1865, dont l'ossature d'origine a été conservée à travers toutes les rénovations. Jusqu'à trente-cinq commerçants s'y installent, et un espace de convivialité de 100 m² aménagé en 2013 dans un style hérité de Gustave Eiffel permet de manger sur place ce qu'on vient d'acheter, à côté d'une fontaine Wallace. Un caviste du marché s'est spécialisé dans les vieux cépages endémiques français.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-saint-quentin-5474",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+Saint-Quentin+85+bis+boulevard+de+Magenta+Paris",
+    "image_url": "/images/marchands/marche-couvert-saint-quentin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-saint-martin",
+    "nom": "Marché couvert Saint-Martin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.870946,
+    "lon": 2.35855,
+    "adresse": "31/33 rue du Château d'Eau, 75010 Paris",
+    "horaires": "Du mardi au samedi de 9h à 20h, et le dimanche de 9h à 14h ; fermé le lundi.",
+    "produits": [
+      "Viandes",
+      "Poissons et fruits de mer",
+      "Traiteur et épicerie japonaise",
+      "Fruits et légumes"
+    ],
+    "description": "Quatorze commerçants permanents dans un marché de quartier à l'atmosphère de village, où la Ville de Paris relève qu'il n'y a « pas trop de doublons » : chacun tient son métier. La halle d'origine, bâtie en 1854 par l'architecte Eugène Petit et forte de 162 emplacements, a vu sa toiture s'effondrer sous la neige en 1879 ; reconstruite l'année suivante, puis démolie à la fin des années 1980, elle a été remplacée par le marché actuel, installé au rez-de-chaussée d'un immeuble. Les vieux portiques d'entrée en pierre en ont été conservés.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-saint-martin-5473",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+Saint-Martin+rue+du+Château+d'Eau+Paris",
+    "image_url": "/images/marchands/marche-couvert-saint-martin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-la-chapelle",
+    "nom": "Marché couvert La Chapelle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.89094,
+    "lon": 2.361347,
+    "adresse": "10 rue de l'Olive, 75018 Paris",
+    "horaires": "Du mardi au samedi de 9h à 19h30, et le dimanche de 8h30 à 13h30 ; fermé le lundi.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Charcuterie",
+      "Poissons et fruits de mer",
+      "Traiteurs",
+      "Fleurs"
+    ],
+    "description": "Aussi appelé marché de l'Olive, du nom de la rue qui le longe : une halle de fonte et de fer de 1 530 m², bâtie de 1883 à 1885 par l'architecte Auguste-Joseph Magne dans le style des pavillons Baltard, et entièrement rénovée en 2010. Le site accueillait auparavant un marché aux bestiaux, à l'époque où La Chapelle était encore une commune distincte de Paris. Fin 2024, il est devenu le premier marché de la capitale à se lancer dans la consigne : on achète un contenant réutilisable à un commerçant, on le rapporte dans une borne et l'argent est remboursé.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-la-chapelle-5522",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+de+la+Chapelle+rue+de+l'Olive+Paris",
+    "image_url": "/images/marchands/marche-couvert-la-chapelle.jpg",
+    "a_confirmer": true
   }
 ]

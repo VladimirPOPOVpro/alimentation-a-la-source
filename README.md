@@ -978,9 +978,26 @@ prioritaires en cas de conflit.
    ne sort pas, et la raison s'écrit ici. Prolonge la règle 40, qui se méfiait des champs déclaratifs
    d'un registre ; ici le champ est exact, c'est son unité qui trompe.
 
+82. **Quand le département de plus grand déficit ne contient plus aucune commune vide, la passe y
+   retourne par sa commune la plus peuplée — à condition qu'une passe précédente y ait laissé des
+   pistes explicitement remises à plus tard.** Le classement de la règle 41 met Paris en tête avec
+   **5,7702** fiches de retard, et Paris est le seul département de France à ne compter qu'une seule
+   commune, déjà pourvue de cinq fiches. Lu à la lettre, le 75 ne pourrait donc plus jamais accueillir
+   de passe : la ville la plus peuplée du pays resterait à cinq fiches pendant que la formule
+   continuerait, passe après passe, à la désigner puis à l'écarter. Critère : la clause « commune sans
+   aucune fiche » de la règle 41 sert à répartir la carte **à l'intérieur** d'un département, pas à
+   interdire de revenir dans une ville que cinq fiches ne couvrent visiblement pas ; quand elle ne
+   désigne personne, on retourne à la commune la plus peuplée et **on part de sa section « Pistes non
+   publiées »** — c'est cette liste qui garantit qu'on travaille du terrain neuf plutôt que de
+   repasser sur le même. Si la liste est vide, le département est sauté et l'on descend au suivant du
+   classement. Ici elle disait, depuis la deuxième passe en ville : « les marchés couverts parisiens
+   ne figurent pas dans le jeu de données, seulement dans la page « Les marchés parisiens » ; à
+   reprendre avec un géocodage à l'adresse, qui est cette fois numérotée ». Cinq d'entre eux font
+   cette passe, et les cinq adresses se retournent au mètre près sur leur propre numéro.
+
 ## Marchands à confirmer
 
-319 fiches sur 353 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+324 fiches sur 358 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1313,7 +1330,13 @@ prioritaires en cas de conflit.
 - **Clairière commune** (Rennes) (micro-ferme urbaine associative de 5 000 m² à la Prévalaye, en face de l'éco-centre de la Taupinais et à dix minutes du métro Cleunay, entièrement cultivée par des bénévoles ; anciennement Perma G'Rennes. **Pas de pilier `environnement`** : ni l'association ni son nom d'avant ne figurent au registre de l'Agence Bio pour l'Ille-et-Vilaine — l'« EARL LA CLAIRIERE » qu'on y trouve est une tout autre ferme, à Châteaubourg. La ferme n'est pas non plus immatriculée au registre des entreprises, comme les associations de bénévoles rencontrées à Grenoble et à Antigone ; c'est le guide officiel de Rennes Métropole, qui la référence sous le n° 89, qui atteste son existence et son horaire. **Coordonnées prises au titre de la règle 63** : la Base Adresse Nationale ne connaît du chemin de la Taupinais que son axe, et l'association publie elle-même sa parcelle sur une carte ouverte — parcelle nommée, tracée, tagguée en terre agricole ; le contrôle inverse la rattache au 535 chemin de la Taupinais, à 80 m, même lieu-dit. Les six produits sont ceux de la page « Les produits ». Photo : la grappe de raisin que l'association publie en regard de cette liste)
 - **AMAPapille** (Rennes) (l'AMAP du Grand Cordel, dix-huitième saison entamée en mai 2025, distribution le mardi de 18h30 à 19h30 dans le grand hall de la maison des jeunes et de la culture qui l'héberge. **Pilier `environnement` accordé au titre de la règle 60** : l'association annonce des producteurs « certifiés bio et locaux » et les nomme ; onze ont été cherchés un par un au registre de l'Agence Bio pour le 35, **sept y sont engagés** — Plantago à Corps-Nuds, Au Gré des Champs à Chantepie, le Gros Chêne à Betton, Kig Ha Vi à Meillac, la brasserie du Vieux Singe à Saint-Jacques-de-la-Lande, les Ruchers du Semnon à Lalleu, les Clochettes à Ercé-près-Liffré. Les quatre autres sont absents du registre départemental sous l'enseigne annoncée ; la nuance est écrite ici plutôt que dans la fiche, comme à la Charrette Bio. **Aucun nom de producteur n'est repris** : la liste de l'association est faite de prénoms et de patronymes, et le registre orthographie d'ailleurs Plantago sous le patronyme de son exploitante. Le téléphone publié est le standard de la MJC, pas un portable. Point BAN sur le 18 rue des Plantes à 0,972, **identique au millionième de degré** au siège de la MJC au registre des entreprises. Photo : la photographie de distribution publiée par la MJC, deux paires de mains au-dessus d'une cagette de fenouils et de choux, aucun visage dans le cadre)
 
-Les 353 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché couvert des Enfants Rouges** (Paris 3e) (**première fiche publiée au titre de la règle 82**, et la piste que la deuxième passe en ville avait laissée en attente : les marchés couverts sont absents du jeu de données « Marchés découverts », il a fallu les prendre par la page « Les marchés de Paris » et les géocoder à l'adresse. Fondé en 1615, plus ancien marché alimentaire couvert de Paris, classé monument historique en 1982, sauvé d'un projet de parking dans les années 1990 par ses commerçants et les riverains. **Le seul des cinq dont la Ville signale un stand de producteur**, mercredi et samedi de 8h30 à 13h : le fait est dans le champ `horaires` parce que c'est lui qui rattache la halle au circuit court. Les sept produits viennent du décompte que la Ville publie elle-même — dix-huit commerces, « fromagers, bouchers, poissonniers, primeurs, dont un bio, ainsi qu'un fleuriste », traiteurs pour le reste. **Aucun nom de commerçant n'est repris**, alors que l'article de la Ville en cite huit avec leur prénom ou leur patronyme, ni le téléphone du gestionnaire, qui est une ligne commerciale à l'usage des marchands cherchant une place. Point BAN sur le 39 rue de Bretagne à 0,969, contrôle inverse **à 0 m** sur ce même numéro. Photo : l'étal du primeur sous la charpente, publiée par la Ville sur sa fiche d'équipement, aucune personne dans le cadre)
+- **Marché couvert Saint-Germain** (Paris 6e) (quatorze commerçants sous les arcades de l'Odéon, sur l'emplacement de la foire Saint-Germain créée en 1482 par les moines de l'abbaye ; le bâtiment est de 1817, sur les plans de Jean-Baptiste Blondel. **Le détail qui distingue la halle** est technique et vérifié à la source : l'une des deux poissonneries conserve à sec, sans lit de glace, et affine ou mature le poisson de quatre à onze jours — la Ville le décrit comme rare à Paris et note que la méthode épargne l'eau de fabrication de la glace. Point BAN sur le 4 rue Lobineau à 0,966, contrôle inverse à 0 m. Photo : l'entrée du marché sous les arcades, mosaïque « Marché Saint-Germain — alimentaire » bien lisible ; une silhouette de dos franchit la porte, aucun visage)
+- **Marché couvert Saint-Quentin** (Paris 10e) (le plus grand marché couvert de Paris, entre la gare du Nord et la gare de l'Est : halle métallique de style Baltard de 1865 dont l'ossature d'origine a traversé toutes les rénovations, jusqu'à trente-cinq commerçants, un espace de convivialité de 100 m² aménagé en 2013 dans un style hérité d'Eiffel, et une fontaine Wallace au milieu des allées. **Point BAN le plus faible des cinq, 0,745**, parce que la Base écrit « 85B » là où la Ville écrit « 85 bis » : le contrôle inverse retombe pourtant **à 0 m** sur ce même 85B du boulevard de Magenta, et le numéro voisin est à 33 m — le score bas mesure l'orthographe, pas la position. Photo : le pignon vitré de la halle à contre-jour, publié par la Ville en tête de son reportage, aucune personne)
+- **Marché couvert Saint-Martin** (Paris 10e) (quatorze commerçants permanents dans un marché de quartier dont la Ville souligne qu'il n'y a « pas trop de doublons ». Histoire vérifiée en trois temps : halle de 1854 par Eugène Petit et 162 emplacements, toiture effondrée sous la neige en 1879 et reconstruction l'année suivante, démolition à la fin des années 1980 au profit du marché actuel installé au rez-de-chaussée d'un immeuble, dont seuls les portiques de pierre rappellent l'ancienne halle. Point BAN sur le 31 rue du Château-d'Eau à 0,976, contrôle inverse à 0 m, le 33 à 7 m — les deux numéros de l'adresse officielle encadrent bien le point. Photo : la façade et le portique surmontés de l'enseigne « Marché Saint-Martin », **recadrée sur les 430 px du haut** ; le bas de l'original montre un cycliste et trois passants de face)
+- **Marché couvert La Chapelle** (Paris 18e) (dit marché de l'Olive, du nom de la rue : halle de fonte et de fer de 1 530 m² bâtie de 1883 à 1885 par Auguste-Joseph Magne dans le style des pavillons Baltard, rénovée en 2010, sur le site d'un ancien marché aux bestiaux du temps où La Chapelle était une commune distincte. **Premier marché de Paris à s'être lancé dans la consigne**, fin 2024 : contenant réutilisable acheté chez un commerçant, rapporté dans une borne, argent remboursé. **Le pilier `environnement` n'a pourtant pas été coché** : sur cette carte il repose sur un certificat bio consultable, règles 45 et 60, et la consigne n'en est pas un — le fait est dans la description, pas dans les piliers. Point BAN sur le 10 rue de l'Olive à 0,971, contrôle inverse à 0 m. Photo : la halle vue de la rue de Torcy sous un platane, banderole « Marché de la Chapelle » de la Ville, aucune personne)
+
+Les 358 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1341,6 +1364,73 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Paris — les marchés couverts
+
+Vingt-troisième passe en ville, et **premier retour dans une commune déjà servie**. Département
+visé : **Paris (75)**, déficit **5,7702** fiche au sens de la règle 41, premier du classement, cinq
+fiches publiées. Réserve de la règle 41.c respectée : la passe précédente visait la région 53,
+Paris est en région 11. Mais la règle 41.d ne désignait personne — Paris est le seul département de
+France à une seule commune, et cette commune n'est pas vide. C'est la règle 82, écrite dans cette
+passe, qui a tranché : on y retourne par la liste des pistes que la deuxième passe en ville avait
+laissée. Après la passe, le déficit du 75 tombe à **0,9227** et les Bouches-du-Rhône prennent la
+tête à **5,8390** — région 93, sans conflit avec celle-ci.
+
+**Une seule source, et elle suffit : `paris.fr`.** Trois niveaux, tous utiles :
+
+- La page **« Les marchés de Paris »** (mise à jour le 23/04/2026), qui annonce « les 91 marchés de
+  Paris » et les range jour par jour, avec pour chacun l'adresse, l'heure d'ouverture et de fermeture
+  **de ce jour-là** et la station de métro. C'est elle qui rend les marchés couverts exploitables :
+  le jeu de données « Marchés découverts » ne les contient pas, mais cette page-ci donne des adresses
+  **numérotées**, que la Base Adresse Nationale géocode au numéro près.
+- Les **fiches « lieu »** de chaque marché, une par équipement — dix pour les marchés couverts. Elles
+  répètent les horaires sous forme de tableau daté « du 01/01/2020 au 01/01/2030 », donnent
+  l'accessibilité, le gestionnaire, et une photographie. **Les horaires des deux sources concordent
+  exactement pour les cinq marchés publiés** : c'est assez rare pour être noté, après quatre passes
+  passées à départager des sources qui se contredisent.
+- La série d'articles **« Un petit tour au marché couvert de… »**, un par halle, mise à jour entre
+  décembre 2025 et avril 2026. C'est là que sont l'histoire du bâtiment, le nombre de commerçants et
+  les métiers présents — tout le contenu des champs `produits` et `description` en vient.
+
+**Le plan du site de `paris.fr` se lit en trois temps** : `robots.txt` annonce
+`https://www.paris.fr/sitemap.xml.gz`, qui **redirige** vers `cdn.paris.fr` et rend un index de
+quatorze sous-sitemaps gzippés ; celui qui compte est `lieux.xml.gz`, qui porte quatre-vingt-quinze
+adresses de fiches d'équipement en `/lieux/marche…`, dont les dix marchés couverts. Sans lui, ces
+fiches « lieu » étaient introuvables depuis les pages publiques.
+
+**Les cinq marchés couverts qui restent** — tous sur la même page de la Ville, tous avec leurs
+horaires, aucun encore publié :
+
+- **Marché couvert Beauvau**, place d'Aligre (12e), du mardi au samedi 8h-13h puis 16h-19h30 et le
+  dimanche 8h-13h30 — la seule des dix halles à couper à la mi-journée. **Critère de déblocage** :
+  un numéro de rue, ou un point publié par la Ville ; la place d'Aligre porte aussi le marché
+  découvert du même nom, et la règle 42 interdit deux fiches sur un point qu'aucune source ne sépare.
+- **Marché couvert de Passy**, place de Passy (16e) — même obstacle, aucune adresse numérotée.
+- **Marché couvert Batignolles**, 96 bis rue Lemercier (17e), et **marché couvert des Ternes**,
+  8 bis rue Lebon (17e) : adresses numérotées, rien ne les bloque. **Critère de déblocage** : aucun,
+  ils attendent leur tour. Attention en les publiant : le **marché biologique des Batignolles** déjà
+  publié est un marché de plein air du boulevard des Batignolles, à **805 m** de la halle couverte du
+  96 bis rue Lemercier — deux marchés distincts qui portent presque le même nom.
+- **Marché Saint-Didier**, 23 rue Mesnil (16e), mardi, jeudi et samedi. **Divergence de nom entre
+  deux publications de la Ville** : la page « Les marchés de Paris » l'appelle « Marché
+  Saint-Didier » tout court, sa fiche d'équipement s'intitule « Marché couvert Saint-Didier », et le
+  plan du site porte en plus une seconde fiche « marche-saint-didier ». La règle 80 ne s'applique
+  pas — il ne s'agit pas d'un fait contesté mais d'un doublon de fiche. **Critère de déblocage** :
+  vérifier laquelle des deux fiches d'équipement la Ville tient à jour.
+
+**Les soixante-seize marchés découverts non publiés** restent la réserve la plus simple de la
+carte : le jeu de données de la Ville les donne géocodés, avec leur gestionnaire, leur linéaire en
+mètres, leurs jours et leurs heures d'hiver comme d'été. Quatre y ont été pris à la deuxième passe
+en ville, tous « biologiques ». **Critère de déblocage** : aucun.
+
+**Ce qui a été volontairement laissé de côté.** Les noms des commerçants : les cinq articles de la
+Ville en citent une vingtaine, prénom ou patronyme, parfois avec leur métier et leur ancienneté —
+rien n'en est repris, même règle qu'au marché paysan d'Antigone. Les téléphones des deux sociétés
+gestionnaires, qui figurent sur chaque fiche d'équipement : ce sont des lignes commerciales à
+l'usage des marchands cherchant un emplacement, la note de la deuxième passe en ville l'avait déjà
+établi. Et le pilier `environnement` pour la consigne du marché de la Chapelle : le geste est réel
+et documenté par la Ville, mais sur cette carte ce pilier repose sur un certificat consultable, pas
+sur une bonne pratique — le fait est dans la description.
 
 ### Pistes non publiées à Rennes
 
