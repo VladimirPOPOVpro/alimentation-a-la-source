@@ -870,9 +870,21 @@ prioritaires en cas de conflit.
    raison de documentation, pas de périmètre — ni horaires ni photographie, sous le seuil de la
    règle 16.
 
+74. **Un panneau officiel lisible sur une photographie de l'autorité est un document : on le lit.**
+   La règle 69 interdit d'écrire ce qu'on croit voir dans une image, et cette interdiction ne
+   bouge pas. Mais la Ville de Montpellier photographie la banderole qu'elle a elle-même posée à
+   l'entrée du marché du Millénaire, et cette banderole porte, en lettres d'imprimerie, le nom du
+   marché, son jour, ses heures et sa date d'ouverture. Ce n'est pas une scène qu'on interprète,
+   c'est un texte qu'on lit. Critère, cumulatif : le texte est typographié et non manuscrit ; il est
+   lisible sans hésitation ; il est signé par l'autorité qui publie la photographie — ici le logo de
+   la Ville figure sur la banderole. Ce qui est repris est le texte lui-même, mot pour mot, jamais
+   ce qu'on déduit du reste de l'image. Et si ce texte contredit une autre page de la même autorité,
+   c'est la règle 5 qui s'applique : les deux versions sortent, attribuées. La banderole annonce
+   8h-13h30 quand la page du site annonce 8h-13h ; les deux sont dans `horaires`.
+
 ## Marchands à confirmer
 
-299 fiches sur 333 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+304 fiches sur 338 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1181,7 +1193,13 @@ prioritaires en cas de conflit.
 - **Marché du Champ de Foire** (Le Havre) (le seul marché de la ville qui tienne toute la journée, le samedi, avec un horaire d'été et un horaire d'hiver que la Ville publie au jour près — 7h30-18h30 du 1er avril au 31 octobre, 7h30-18h le reste de l'année. La Ville ne publie aucune liste d'étals : `produits` ne porte que les deux lignes de sa propre nomenclature, même discipline qu'au Mont-Mesly et qu'aux Champioux. **Application de la règle 64** : la Base Adresse Nationale ne connaît pas « Champ de Foire » comme adresse ; le point de la Ville est retenu, et le contrôle inverse le rattache au 12 place des Expositions, à 32 m. Photo : le bandeau que la Ville met en tête de sa page « Les marchés havrais », qui est une photographie de ce marché-ci, **recadrée sur sa bande haute** — les bâches des étals et les tours de la reconstruction ; les deux tiers bas montrent une trentaine de visages)
 - **La Mouette, magasin coopératif** (Le Havre) (épicerie coopérative et autogérée du quartier du Rond-Point, ouverte en février 2020 — date que la Ville publie et que le registre des entreprises confirme au jour près, 1er février 2020 — et installée rue du Maréchal Joffre depuis janvier 2022. **Première fiche publiée au titre de la règle 71** : elle est bien inscrite au registre de l'Agence Bio, mais son unique certificat est à l'état « arrêtée » ; la fiche sort donc sans le pilier `environnement`, et sa description ne dit nulle part qu'elle est certifiée. **Horaires contredits, règle 5** : le magasin publie 12h pour l'ouverture du mercredi, la Ville 13h30 ; les deux sont dans `horaires`, attribués. Les fournisseurs cités dans la description sont ceux que le magasin publie lui-même, **nommés par leur commune et non par leur exploitant** — le registre et le site donnent les patronymes, MODERATION.md les écarte. Point BAN sur le numéro 145, à un millionième de degré du point de l'Agence Bio. Photo : la devanture publiée par la Ville, **recadrée au-dessus de la ligne des visages** — l'enseigne, la mouette et le bardage ; les deux coopératrices posent au premier plan de l'original)
 
-Les 333 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché des Arceaux** (Montpellier) (le plus grand marché de la ville, sous les arches de l'aqueduc Saint-Clément, mardi et samedi. **Trois sources d'accord sur les heures** : la page de la Ville, le dépliant « Halles et marchés de la métropole » d'août 2026 et l'office de tourisme donnent tous 7h-13h30. C'est l'office qui fournit les quatre familles de `produits` et l'origine des étaliers — Aveyron, hauts cantons, plaine de Mauguio, Lozère. **Le pilier `environnement` n'est pas mis**, bien que l'office écrive que les produits sont « en très grande majorité cultivés en agriculture biologique » : c'est exactement le cas visé par la règle 68, un label collé à un marché entier ne vaut pas certificat. **Application de la règle 64** : la Base Adresse Nationale ne rend que l'axe du boulevard, à 132 m ; le point publié par la Ville est retenu, et le contrôle inverse le rattache au 4 boulevard des Arceaux, à 11 m. Photo : la vue du marché sous l'aqueduc publiée par la Ville — la foule y est lointaine, masquée, et aucun visage n'y dépasse une vingtaine de pixels)
+- **Marché paysan d'Antigone** (Montpellier) (le seul marché de la ville que ses paysans gèrent eux-mêmes : une association loi 1901 née en 1991, liée à la Ville par une convention. La Ville y compte 52 producteurs ; l'association publie leur liste rangée par métier, et ce sont ses propres rubriques qui remplissent les huit lignes de `produits`. **Les noms n'en sont pas repris** : la liste est presque entièrement faite de patronymes d'exploitants individuels, que MODERATION.md interdit de publier comme enseignes, et le président de l'association est nommé sur la page « Nous contacter » — la fiche ne cite que les métiers. Trois sources concordent sur dimanche 8h-13h30. **Attention à l'homonymie** : la même place accueille le mercredi un « marché d'Antigone » qui n'est pas paysan, avec d'autres heures ; les deux ne se confondent pas. Photo : la photographie de la Ville, **recadrée sous la ligne des visages** — la vitrine du boulanger, les tourtes et les cageots d'huîtres ; la moitié haute de l'original est pleine de portraits nets)
+- **Marché paysan des Aubes** (Montpellier) (le seul marché de producteurs de Montpellier qui se tienne en semaine après le travail. **Trois horaires contradictoires, tous publiés, règle 5** : la page de la Ville donne 16h30-19h, « 20h d'avril à septembre » ; l'office de tourisme 16h30-19h sans la mention d'été ; le dépliant d'août 2026 de la Métropole, 16h à 19h. Le champ `horaires` porte les deux versions et dit qui écrit quoi. **Aucune liste d'étals nulle part** : `produits` ne porte qu'une seule ligne, qui le dit — même discipline qu'au Mont-Mesly, aux Champioux et au Champ de Foire. **Application de la règle 64** : le point de la Ville est retenu ; le contrôle inverse le rattache au 59 rue des Colombes, à 16 m, la rue voisine de celle que la Ville donne comme adresse. Photo : la photographie de la Ville, prise en fin de journée d'hiver ; les silhouettes sont de dos ou lointaines)
+- **Marché paysan du Millénaire** (Montpellier) (le plus récent des marchés paysans de la ville. **Première fiche publiée au titre de la règle 74** : la photographie que la Ville met en tête de sa page montre la banderole qu'elle a elle-même posée à l'entrée de l'esplanade, et cette banderole porte « MARCHÉ DU MILLÉNAIRE — SAMEDI DE 8H00 À 13H30 — Démarrage du marché le samedi 6 septembre », logo de la Ville compris. Elle contredit la page du même site, qui écrit 8h-13h, et le dépliant de la Métropole, qui écrit la même chose : les deux versions sont dans `horaires`, attribuées. **La date d'ouverture est écrite sans le jour** : la banderole ne donne pas l'année, la Ville range la photographie dans son dossier de septembre 2025, et le 6 septembre 2025 était bien un samedi — trois indices concordants qui suffisent pour « septembre 2025 », pas pour une date au jour près. `produits` ne porte qu'une ligne, la Ville ne publiant aucune liste d'étals. Photo : cette banderole même, aucun visage)
+- **Biocoop Marianne** (Montpellier) (magasin du réseau coopératif à Port Marianne ; c'est l'enseigne qui est publiée, règle 3, comme au Bessillon, à Calais et à Grenoble. Ouvert en septembre 2013 — le magasin écrit « depuis 2013 » et le registre des entreprises date la création de l'établissement du 25 septembre 2013. Certificat **engagement en cours** au registre de l'Agence Bio, Ecocert, janvier 2014, d'où le pilier `environnement`. Horaires concordants entre l'annuaire du réseau, le site du magasin et l'affiche collée sur sa vitrine, lisible sur la photographie : lundi au samedi 10h-19h30. **Point BAN au numéro 181, retenu contre les coordonnées du magasin** : celui-ci publie les siennes dans le pied de sa page, 40 m plus à l'est ; la règle 63 ne s'applique pas ici, puisque la Base connaît le numéro — le contrôle inverse retombe dessus à 0 m. Photo : la devanture publiée par le magasin, 680 px de large, un peu juste pour un bandeau mais au-dessus du plancher de la règle 59 ; aucune personne dans le cadre)
+
+Les 338 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1209,6 +1227,137 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Montpellier
+
+Dix-neuvième passe en ville. Département visé : l'**Hérault (34)**, déficit **5,9415** fiche au sens
+de la règle 41, aucune fiche publiée — le premier du classement, sans que la réserve de la règle
+41.c ait à jouer : la passe précédente visait la Seine-Maritime, région 28, et l'Hérault est en
+région 76. Après la passe, son déficit tombe à **1,0307** et le **Bas-Rhin** prend la tête à
+**5,7005**.
+
+Commune retenue : **Montpellier**, 310 240 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre ; la suivante par
+population aurait été Béziers, 81 545 habitants.
+
+**Le site de la Ville se lit par son sitemap, et il est généreux.** `www.montpellier.fr` publie un
+`sitemap.xml` de **3 676 URL**, une page par marché, et chaque page de marché porte dans son code
+les coordonnées du point que la Ville a elle-même posé — de quoi appliquer la règle 64 quatre fois
+dans la même passe sans jamais deviner. La Métropole complète avec un dépliant PDF, *Halles et
+marchés de la métropole*, daté d'août 2026 : six pages, cinq halles et quarante-trois marchés, avec
+jour et heure pour chacun. C'est la source la plus complète rencontrée jusqu'ici sur une ville, et
+la seule qui ait permis de vérifier des horaires sur trois documents indépendants d'une même
+autorité.
+
+**Les quatre sources qui ont fait cette passe** :
+
+- **`www.montpellier.fr`**, une page par marché, avec le point géographique et une photographie.
+- **Le dépliant PDF de la Métropole**, *Halles et marchés de la métropole*, août 2026 — six pages,
+  cinq halles, quarante-trois marchés.
+- **`www.montpellier-tourisme.fr`**, l'office de tourisme, qui seul décrit ce qui se vend :
+  quatre-vingts étaliers aux Arceaux, vingt-quatre étals détaillés à la halle Laissac, l'origine
+  des producteurs. C'est lui qui remplit les champs `produits`.
+- **`www.paysansantigone.fr`**, l'association loi 1901 qui tient le marché paysan d'Antigone depuis
+  1991 sous convention avec la Ville, et qui publie la liste de ses producteurs rangée par métier.
+
+**Le registre de l'Agence Bio pour le 34 compte 3 272 opérateurs**, dont environ 250 domiciliés à
+Montpellier. Ce chiffre lève le doute noté à la passe précédente : le registre s'était arrêté net à
+1 000 pour la Seine-Maritime et refusait toute page au-delà, ce qui pouvait passer pour un plafond
+d'API. Ce n'en est pas un plafond général — l'Isère avait rendu 2 233, l'Hérault en rend 3 272. Le
+comportement du 76 reste inexpliqué et le doute est maintenu là-bas, pas ici.
+
+**Marché d'Agropolis**, parking du palais des sports René Bougnol, 1000 avenue du Val de
+Montferrand — la sixième fiche, écartée par le plafond de cinq, pas par un doute. La Ville en donne
+le jour et l'heure (mardi 16h-19h) et le point géographique ; il ne lui manque qu'une ligne de
+`produits` et le contrôle de la photographie que la Ville lui associe. **Critère de déblocage** :
+rien d'autre que le prochain passage sur Montpellier — c'est la première à prendre.
+
+**Marché paysan du jeudi, Halles Tropisme**, 121 rue de Foncouverte, jeudi 17h-21h — cité par le
+seul office de tourisme. Ni la page de la Ville, ni le dépliant de la Métropole ne le connaissent :
+une source unique, en dessous du seuil de la règle 16. **Critère de déblocage** : une seconde
+source indépendante, ou la page de la Ville.
+
+**Les cinq halles couvertes** — Castellane, Jacques-Cœur, Laissac, Quatre Saisons, Plaza. L'office
+en détaille les étals, vingt-quatre pour la seule halle Laissac, et écrit des Quatre Saisons et de
+la Plaza que leurs commerçants travaillent « en circuits courts ». Aucune des deux autorités ne dit
+pour autant d'où vient la marchandise étal par étal, et une halle de détaillants n'est pas en
+elle-même une vente en circuit court au sens de MODERATION.md — la ville a par ailleurs son marché
+de gros, le Marché Gare, où les détaillants s'approvisionnent. **Critère de déblocage** : une source
+qui établisse, pour un étal nommé, qu'il vend sa propre production ou une marchandise sourcée
+localement ; ce serait alors cet étal qui serait publié, pas la halle — même raisonnement qu'au quai
+de la Colonne, règle 61.
+
+**Une vingtaine de marchés de quartier** — le dépliant de la Métropole en donne le jour et l'heure,
+et rien d'autre : ni liste d'étals, ni même la mention que la vente y est alimentaire. Un jour et
+une heure ne suffisent pas à savoir ce qu'on va y acheter. **Critère de déblocage** : une source qui
+dise ce qui s'y vend, fût-ce en une ligne — c'est le seuil qui a suffi au Champ de Foire, au
+Mont-Mesly et aux Champioux.
+
+**Biocoop du Courreau et Biocoop Clemenceau** — deux autres magasins du réseau, inscrits au registre
+de l'Agence Bio à Montpellier. Ils n'ont pas été écartés : ils n'ont pas été instruits, la passe
+étant limitée à cinq et Marianne étant celui dont le certificat, les horaires et la photographie se
+recoupaient le mieux. **Critère de déblocage** : leurs horaires et une photographie, au prochain
+passage.
+
+**Folle Avoine**, 18 rue Proudhon — certificat **engagement en cours** au registre, Bureau Veritas,
+septembre 2021. Rien d'autre n'a été vérifié : ni horaires, ni photographie. **Critère de
+déblocage** : les deux.
+
+**Alentours**, 2 rue des Salins — le registre porte **deux lignes** pour cette adresse, l'une en
+engagement en cours, l'autre arrêtée. Tant qu'on ne sait pas laquelle est le magasin, la règle 71
+interdit d'accorder le pilier `environnement`, et l'incertitude porte aussi sur l'exploitant.
+**Critère de déblocage** : savoir laquelle des deux lignes correspond au point de vente.
+
+**ESAT La Croix Verte – UNAPEI 34**, 519 rue de la Croix Verte — certificat engagement en cours,
+Ecocert, janvier 2020. Ce que l'établissement produit et vend, ce sont des **plantes aromatiques en
+pot et des plants potagers** : des végétaux à planter, pas des denrées. Hors du périmètre
+alimentaire, comme la Ferme Urbaine de Calais l'était faute de vente. **Critère de déblocage** : une
+vente de légumes ou de récolte, et non de plants.
+
+**Régie agricole de la Ville de Montpellier**, 1 place Francis Ponge — le certificat du registre est
+à l'état **arrêtée** : pas de pilier `environnement`, règle 71. Surtout, la régie cultive pour les
+cantines de la ville, et aucune source ne lui connaît de point de vente ouvert au public. **Critère
+de déblocage** : un point de vente, avec adresse et horaires.
+
+**Le guide collaboratif Bocal**, publié par la Métropole, recense des adresses de consommation
+responsable. Il n'a pas été dépouillé dans cette passe : c'est la source à ouvrir au prochain
+passage sur Montpellier, après le marché d'Agropolis.
+
+**Le Marché Gare** est le marché de gros de la métropole : vente aux professionnels, hors sujet
+comme les Escargots Hauts de France l'étaient à Calais.
+
+**Deux réseaux AMAP injoignables** : `reseau-amap-occitanie.org` et `amap-lr.org` répondent tous
+deux code 000 — le nom de domaine ne résout pas. Aucune AMAP montpelliéraine n'a donc pu être
+instruite, faute d'annuaire régional accessible ; c'est la troisième région où ce réseau est
+inatteignable, après la Normandie et l'Île-de-France.
+
+**Contradictions tranchées dans cette passe** — quatre, toutes consignées dans les fiches
+elles-mêmes :
+
+- **Marché paysan des Aubes, trois horaires publiés** : la page de la Ville donne 16h30-19h avec
+  « 20h d'avril à septembre », l'office 16h30-19h sans la mention d'été, le dépliant d'août 2026
+  16h-19h. Règle 5 : le champ `horaires` porte les deux versions et dit qui écrit quoi.
+- **Marché paysan du Millénaire, la banderole contre la page** : la banderole officielle
+  photographiée par la Ville annonce 8h-13h30, la page du même site et le dépliant écrivent 8h-13h.
+  C'est le cas qui a fait naître la **règle 74** ; les deux versions sont dans `horaires`, attribuées.
+- **Deux marchés distincts sur la place du Nombre d'Or** : le « marché d'Antigone » du mercredi et
+  le « marché paysan d'Antigone » du dimanche, avec des heures différentes et des organisateurs
+  différents. Ce n'est pas une contradiction mais une homonymie ; seul le second est publié, et la
+  fiche le précise pour que personne ne se déplace le mauvais jour.
+- **Biocoop Marianne, deux points géographiques à 40 m** : la Base Adresse Nationale connaît le
+  numéro 181, le magasin publie ses propres coordonnées 40 m plus à l'est. La règle 63 ne s'applique
+  pas — elle ne vaut que si la Base ignore le numéro — donc c'est la Base qui est retenue, et le
+  contrôle inverse retombe dessus à 0 m.
+
+**Données personnelles écartées** : l'adresse de courriel du service des halles et marchés de la
+Ville, le nom et l'adresse postale du président de l'association d'Antigone, et les patronymes des
+producteurs que cette association publie sur sa liste — la fiche ne nomme que des métiers. Une
+adresse de service et un nom de bénévole n'ont rien à faire sur une carte de commerces.
+
+**Photographie limite** : celle de Biocoop Marianne fait 680 px de large, en dessous du seuil de
+netteté de ~700 px que rappelle AGENT.md pour un bandeau, mais au-dessus du plancher de 600 px de la
+règle 59. Le magasin ne publie pas d'original plus grand — son propre `/images/0/0/…` sert la même
+image. Elle est publiée telle quelle, un peu douce en grand format.
 
 ### Pistes non publiées au Havre
 

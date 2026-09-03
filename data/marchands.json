@@ -8646,5 +8646,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Mouette+magasin+coopératif+145+rue+du+Maréchal+Joffre+Le+Havre",
     "image_url": "/images/marchands/la-mouette-le-havre.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-arceaux-montpellier",
+    "nom": "Marché des Arceaux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.611725,
+    "lon": 3.866179,
+    "adresse": "Boulevard des Arceaux, 34000 Montpellier",
+    "horaires": "Mardi et samedi de 7h à 13h30.",
+    "produits": [
+      "Fruits et légumes de la plaine de Mauguio",
+      "Fromages de l'Aveyron",
+      "Pains des hauts cantons",
+      "Miels de Lozère"
+    ],
+    "description": "Le plus grand marché de Montpellier, installé sous les arches de l'aqueduc Saint-Clément. La Ville compte jusqu'à 80 commerçants selon les jours ; l'office de tourisme parle de 80 étaliers venus de l'Aveyron, des hauts cantons, de la plaine de Mauguio et de Lozère, et écrit que leurs produits sont « en très grande majorité cultivés en agriculture biologique ».",
+    "site_web": "https://www.montpellier.fr/territoire/lieux-equipements/marche-des-arceaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Arceaux+Montpellier",
+    "image_url": "/images/marchands/marche-des-arceaux-montpellier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-antigone-montpellier",
+    "nom": "Marché paysan d'Antigone",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.608193,
+    "lon": 3.887714,
+    "adresse": "Place du Nombre d'Or, 34000 Montpellier",
+    "horaires": "Le dimanche de 8h à 13h30, toute l'année.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes et volailles fermières",
+      "Poissons, huîtres et coquillages",
+      "Fromages de brebis et de chèvre",
+      "Miels",
+      "Pains et pâtisseries",
+      "Plats cuisinés",
+      "Vins et boissons"
+    ],
+    "description": "Marché de producteurs tenu depuis 1991 place du Nombre d'Or, et le seul de la ville que ses paysans gèrent eux-mêmes : l'organisation est celle d'une association loi 1901, liée à la Ville de Montpellier par une convention qui fixe les obligations de chacun. La Ville y compte 52 producteurs ; l'association publie leur liste, rangée par métier — maraîchers, arboriculteurs, éleveurs, conchyliculteurs, apiculteurs, boulangers, vignerons.",
+    "site_web": "https://www.paysansantigone.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+paysan+Antigone+place+du+Nombre+d'Or+Montpellier",
+    "image_url": "/images/marchands/marche-paysan-antigone-montpellier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-des-aubes-montpellier",
+    "nom": "Marché paysan des Aubes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.617774,
+    "lon": 3.891676,
+    "adresse": "Rue des Cailles, 34000 Montpellier",
+    "horaires": "Le mercredi de 16h30 à 19h, et jusqu'à 20h d'avril à septembre selon la Ville de Montpellier ; le dépliant « Halles et marchés de la métropole » d'août 2026 indique 16h à 19h.",
+    "produits": [
+      "Produits de producteurs locaux — ni la Ville ni l'office de tourisme ne publie la liste des étals"
+    ],
+    "description": "Le marché paysan de fin d'après-midi du quartier des Aubes, sur la petite place entre la rue des Cailles et la rue des Colombes. C'est le seul marché de producteurs de Montpellier qui se tienne en semaine après le travail ; la Ville le range parmi ses quatre marchés paysans mais n'en publie pas la liste des exposants.",
+    "site_web": "https://www.montpellier.fr/territoire/lieux-equipements/marche-paysan-des-aubes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+paysan+des+Aubes+rue+des+Cailles+Montpellier",
+    "image_url": "/images/marchands/marche-paysan-des-aubes-montpellier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-millenaire-montpellier",
+    "nom": "Marché paysan du Millénaire",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.614376,
+    "lon": 3.908236,
+    "adresse": "Esplanade Gabriel Michel, 34000 Montpellier",
+    "horaires": "Le samedi de 8h à 13h selon la page de la Ville de Montpellier et son dépliant d'août 2026 ; la banderole que la Ville a posée à l'entrée de l'esplanade annonce 8h à 13h30.",
+    "produits": [
+      "Produits alimentaires de producteurs locaux — la Ville ne publie pas la liste des étals"
+    ],
+    "description": "Le plus récent des marchés paysans de Montpellier : la Ville l'a ouvert un samedi de septembre 2025 à l'entrée de l'esplanade Gabriel Michel, dans le quartier du Millénaire. Elle le décrit comme « exclusivement alimentaire », accueillant des producteurs locaux pour valoriser les circuits courts et les produits de proximité.",
+    "site_web": "https://www.montpellier.fr/territoire/lieux-equipements/marche-paysan-millenaire",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+paysan+du+Millénaire+esplanade+Gabriel+Michel+Montpellier",
+    "image_url": "/images/marchands/marche-paysan-millenaire-montpellier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-marianne-montpellier",
+    "nom": "Biocoop Marianne",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.601853,
+    "lon": 3.901579,
+    "adresse": "181 place Ernest Granier, immeuble Oz'One, 34000 Montpellier",
+    "horaires": "Du lundi au samedi de 10h à 19h30 ; fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromage à la coupe",
+      "Charcuterie",
+      "Pain et boulangerie",
+      "Traiteur",
+      "Épicerie biologique",
+      "Vrac",
+      "Cosmétiques et entretien"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop ouvert en septembre 2013 à Port Marianne, avec boulangerie, charcuterie et fromagerie à la coupe. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis janvier 2014. Le magasin publie la liste de ses producteurs locaux et de ses paysans associés — brasserie, meunerie, kombucha et domaines viticoles de l'Hérault.",
+    "telephone": "09 67 32 98 90",
+    "site_web": "https://www.biocoopmarianne-montpellier.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Marianne+place+Ernest+Granier+Montpellier",
+    "image_url": "/images/marchands/biocoop-marianne-montpellier.jpg",
+    "a_confirmer": true
   }
 ]
