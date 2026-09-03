@@ -8924,5 +8924,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beevrac+route+de+Mittelhausbergen+Strasbourg",
     "image_url": "/images/marchands/beevrac-strasbourg.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-cours-saleya-nice",
+    "nom": "Marché du Cours Saleya",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.69555,
+    "lon": 7.275197,
+    "adresse": "Cours Saleya et place Pierre-Gautier, 06300 Nice",
+    "horaires": "Fruits, légumes, marée et alimentaire du mardi au dimanche de 6h à 14h30, carreau débarrassé à 15h ; marché aux fleurs du mardi au samedi jusqu'à 17h30, et jusqu'à 14h30 le dimanche. Fermé le lundi, sauf les 14 février, 30 avril, 1er mai, 31 octobre, 1er novembre, 24 et 25 décembre. Heures de l'arrêté municipal 2024-05542 ; la liste des marchés publiée par la Ville annonce, elle, une fin de vente à 13h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits de la mer",
+      "Fromages",
+      "Charcuteries",
+      "Confitures",
+      "Produits de l'arrière-pays niçois",
+      "Fleurs coupées et plantes en pot"
+    ],
+    "description": "Le marché emblématique du Vieux Nice, sous ses toiles rayées, du Cours Saleya à la place Pierre-Gautier : soixante-dix-sept emplacements de six mètres sur quatre où la Ville place côte à côte revendeurs et producteurs. Des maraîchers des coteaux niçois y tiennent leur propre banc le week-end, dont Le Potager de Saquier, qui cultive en agriculture biologique depuis 1996. Le marché aux fleurs occupe la même allée et reste ouvert l'après-midi.",
+    "site_web": "https://www.nice.fr/commerce-local/les-marches-de-plein-vent/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Cours+Saleya+Nice",
+    "image_url": "/images/marchands/marche-du-cours-saleya-nice.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-liberation-nice",
+    "nom": "Marché de la Libération",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.707889,
+    "lon": 7.263324,
+    "adresse": "Avenue Malausséna, place Charles-de-Gaulle, parvis de la Gare du Sud et rue Clément-Roassal, 06000 Nice",
+    "horaires": "Du mardi au dimanche le matin ; fermé le lundi. L'arrêté municipal 2024-05542 fixe la fin de vente à 13h et le carreau débarrassé à 13h30, tandis que la liste des marchés de la Ville et le comité régional du tourisme annoncent tous deux 12h30 : mieux vaut y être dans la matinée.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et fruits de mer",
+      "Viandes et charcuteries",
+      "Fromages",
+      "Miels",
+      "Préparations culinaires",
+      "Fleurs"
+    ],
+    "description": "Le plus grand marché de Nice : cent trois emplacements de six mètres sur trois déployés sur l'avenue Malausséna, la place de Gaulle, la rue Clément-Roassal et le parvis de la Gare du Sud. La Ville y installe revendeurs et producteurs, et autorise les seuls poissonniers à garer leur camion derrière leurs bancs, place de la Gare du Sud, le temps du marché, pour tenir la chaîne du froid.",
+    "site_web": "https://www.nice.fr/commerce-local/les-marches-de-plein-vent/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+la+Libération+Nice",
+    "image_url": "/images/marchands/marche-de-la-liberation-nice.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-aux-poissons-saint-francois-nice",
+    "nom": "Marché aux poissons Saint-François",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.698873,
+    "lon": 7.27803,
+    "adresse": "Place Saint-François, 06300 Nice",
+    "horaires": "Du mardi au dimanche de 6h à 13h, carreau débarrassé à 13h30 ; fermé le lundi.",
+    "produits": [
+      "Loups",
+      "Sardines",
+      "Rougets",
+      "Dorades",
+      "Poissons de roche pour la soupe",
+      "Fruits de mer"
+    ],
+    "description": "Le marché aux poissons du Vieux Nice, sur la place Saint-François, à quelques centaines de mètres du port : trois emplacements de poissonniers de six mètres sur trois, tenus selon le comité régional du tourisme par les poissonniers ou par les pêcheurs eux-mêmes. Le règlement municipal met des bornes à eau à leur disposition et leur interdit d'utiliser la fontaine publique voisine.",
+    "site_web": "https://www.nice.fr/commerce-local/les-marches-de-plein-vent/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+aux+poissons+place+Saint-François+Nice",
+    "image_url": "/images/marchands/marche-aux-poissons-saint-francois-nice.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-a-huile-nicolas-alziari-nice",
+    "nom": "Moulin à huile Nicolas Alziari",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.710483,
+    "lon": 7.227717,
+    "adresse": "318 boulevard de la Madeleine, 06000 Nice",
+    "horaires": "Boutique du moulin du lundi au vendredi de 9h à 12h30 et de 14h à 18h, fermée les jours fériés ; la page consacrée à la visite annonce les mêmes heures du lundi au samedi. Visite guidée gratuite d'environ une heure, dernier départ à 16h30, réservation conseillée au 04 93 44 45 12 ou au 09 52 62 02 27.",
+    "produits": [
+      "Huiles d'olive du domaine",
+      "Huiles d'olive d'assemblage et grands crus",
+      "Olives de table nature et assaisonnées",
+      "Tapenades et condiments",
+      "Vinaigres et vinaigrettes",
+      "Miels et confitures",
+      "Épicerie fine méditerranéenne"
+    ],
+    "description": "Le dernier moulin à huile d'olive en activité à Nice, dans le quartier de la Madeleine, fondé en 1868. La maison cultive une soixantaine d'hectares d'oliviers en agriculture biologique autour de Nice, triture ses olives sur place de la mi-octobre à décembre et fait visiter gratuitement le moulin traditionnel toute l'année, projection et dégustation comprises ; le moulin moderne, réservé aux extractions à froid, ne se visite pas. L'exploitant est inscrit au registre de l'Agence Bio auprès de Qualisud depuis mai 2017.",
+    "telephone": "04 93 44 45 12",
+    "site_web": "https://www.nicolas-alziari.com/moulin",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin+à+huile+Alziari+318+boulevard+de+la+Madeleine+Nice",
+    "image_url": "/images/marchands/moulin-a-huile-nicolas-alziari-nice.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "boutique-nicolas-alziari-vieux-nice",
+    "nom": "Boutique Nicolas Alziari du Vieux Nice",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.695671,
+    "lon": 7.271531,
+    "adresse": "14 rue Saint-François-de-Paule, 06300 Nice",
+    "horaires": "Du lundi au samedi de 9h à 19h, le dimanche de 10h à 19h. Fermée les 1er janvier, 1er mai et 25 décembre.",
+    "produits": [
+      "Huiles d'olive grands crus",
+      "Olives préparées",
+      "Tapenades et condiments",
+      "Vinaigres et vinaigrettes",
+      "Coffrets gourmands",
+      "Accessoires de dégustation"
+    ],
+    "description": "La boutique de la maison Alziari, ouverte en 1936 à deux pas du Cours Saleya et de l'Opéra, sous une façade ocre peinte à l'ancienne. On y retrouve les huiles pressées au moulin du boulevard de la Madeleine, à quatre kilomètres de là, ainsi que les olives, tapenades et condiments de la maison. L'établissement est immatriculé sous l'enseigne « Alziari Moulin à huile » au registre des entreprises.",
+    "telephone": "04 93 62 94 03",
+    "site_web": "https://www.nicolas-alziari.com/la-boutique",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boutique+Nicolas+Alziari+14+rue+Saint-François+de+Paule+Nice",
+    "image_url": "/images/marchands/boutique-nicolas-alziari-vieux-nice.jpg",
+    "a_confirmer": true
   }
 ]

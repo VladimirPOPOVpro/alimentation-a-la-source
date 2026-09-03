@@ -910,9 +910,40 @@ prioritaires en cas de conflit.
    racheté par un tiers est exactement le piège Santa Lucia, et un nom qui ressemble n'est pas une
    preuve d'identité.
 
+77. **Un site dont le `robots.txt` nomme et interdit le robot par lequel cette carte travaille n'est
+   pas une source : on ne l'ouvre pas, on cherche l'autorité qui dit la même chose sans l'interdire.**
+   L'office de tourisme métropolitain, `explorenicecotedazur.com`, est de loin la source la plus riche
+   sur les commerces niçois : une fiche par producteur, des horaires, des photographies. Son
+   `robots.txt` porte `User-agent: ClaudeBot` suivi de `Disallow: /`, à côté d'un
+   `Content-Signal: ai-train=no, use=reference` présenté comme une réservation de droits au titre de
+   la directive européenne 2019/790. Critère : quand un éditeur nomme explicitement le robot, ou le
+   range parmi les agents d'IA qu'il exclut, on s'abstient du site entier — même pour un fait unique,
+   même si la page reste techniquement accessible avec un autre en-tête. C'est une décision
+   éditoriale, pas un obstacle technique, et cette carte republie ce qu'elle lit : photographies,
+   descriptions, horaires. La règle ne vaut PAS pour un `Disallow` qui vise un chemin
+   (`/wp-admin/`, `/search`, `/*?query=`) sous `User-agent: *` : ceux-là ne visent personne en
+   particulier. Cette passe a été menée entièrement sans l'office de tourisme de Nice, et n'a perdu
+   aucune fiche : la Ville a fourni les marchés par son arrêté, le comité régional du tourisme les
+   descriptions et deux photographies, la maison Alziari ses propres horaires. Quand un site
+   s'interdit, la question n'est pas de le contourner mais de savoir qui d'autre sait.
+
+78. **Deux documents de la même autorité qui se contredisent : l'acte réglementaire daté et
+   enregistré l'emporte sur la fiche pratique non datée, et l'écart s'écrit quand même dans la
+   fiche.** La Ville de Nice publie deux textes sur ses marchés. L'arrêté municipal n° 2024-05542 du
+   20 novembre 2024, reçu en préfecture et affiché deux mois, fixe la fin de vente du Cours Saleya à
+   14h30 et celle de la Libération à 13h. La « Liste des marchés fixes », un tableau sans date, sans
+   numéro et sans signature, annonce 13h30 pour Saleya et 12h30 pour la Libération. Critère : entre
+   deux textes d'une même main, celui qui porte une date, un numéro et un visa de contrôle fait foi ;
+   l'autre est consigné dans le champ `horaires` et nommé, parce qu'un visiteur qui a lu la liste sur
+   le site de la Ville doit y retrouver son chiffre plutôt que de croire la carte fautive. Et quand
+   l'écart joue contre le visiteur — la fin de vente la plus tôt — c'est cette borne-là qu'on met en
+   avant : « mieux vaut y être dans la matinée » coûte moins cher qu'un déplacement pour un carreau
+   déjà débarrassé. Prolonge la règle 5, qui traitait deux sources indépendantes ; ici les deux
+   sources sont la même autorité, et c'est la forme du document qui départage.
+
 ## Marchands à confirmer
 
-309 fiches sur 343 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+314 fiches sur 348 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1233,7 +1264,13 @@ prioritaires en cas de conflit.
 - **Le Jardin de Marthe** (Strasbourg) (exploitation familiale de la Robertsau, installée depuis trois générations : maraîchage, apiculture et culture de champignons, plus une épicerie. **Première fiche publiée au titre de la règle 76** : le lien que donne la carte de la Ville, `www.lejardindemarthe.fr`, est mort — pas de résolution en HTTPS, 404 en HTTP — et le site vivant est `jardindemarthe.fr`, authentifié par la même adresse, la même activité et des horaires cohérents. **Horaires contredits, règle 5** : le magasin annonce fermé le dimanche et le lundi, la Ville ajoute un lundi 12h-19h ; les deux sont dans `horaires`. **Pilier `environnement`** sur un certificat **engagement en cours**, Ecocert, juin 2015, que le magasin confirme lui-même en écrivant « agriculture biologique certifiée Ecocert ». `produits` croise trois sources : la carte de la Ville, le programme du Tour des fermes — qui seul nomme le miel et les épices en vrac — et le site. **L'exploitation est immatriculée sous le patronyme de son exploitant** ; c'est l'enseigne qui est publiée, et les quatre prénoms de l'équipe, que le site affiche, ne le sont pas. Point BAN sur le numéro 9 à 0,969, **identique** au point de la Ville et à celui du registre de l'Agence Bio — trois sources sur le même point. Photo : la devanture de bois du magasin sous son enseigne, avec les plants et les fleurs de printemps, publiée par la ferme, aucune personne)
 - **Beevrac** (Strasbourg) (épicerie de vrac indépendante de Cronenbourg, en zéro déchet et sur consigne, qui cherche ses fournisseurs dans un rayon de cinquante kilomètres et ne propose aucun produit carné. **Pilier `environnement`** sur un certificat **engagement en cours**, Bureau Veritas, juin 2021. Le registre des entreprises ne répond pas au nom « Beevrac » : il orthographie la raison sociale **en deux mots**, « BEE VRAC », et c'est par le SIRET du registre de l'Agence Bio que l'établissement a été retrouvé — un seul, ouvert, à cette adresse depuis décembre 2017. Point BAN sur le numéro 36 à 0,985, à **4 m** du point de l'Agence Bio. Le magasin ne dit pas ses fournisseurs par leur nom mais par leur commune — Sarralbe, Woerth, Duntzenheim, Saales, Colmar — et la fiche s'en tient là. Photo : le rayon de vrac publié par le magasin, bocaux et distributeurs, aucune personne)
 
-Les 343 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du Cours Saleya** (Nice) (le marché du Vieux Nice, soixante-dix-sept emplacements de six mètres sur quatre où la Ville place côte à côte revendeurs et producteurs. **Première fiche publiée au titre de la règle 78** : l'arrêté municipal n° 2024-05542 du 20 novembre 2024 fixe la fin de vente à 14h30, la « Liste des marchés fixes » de la même Ville écrit 13h30 ; l'arrêté fait foi et la liste est nommée dans `horaires`. Le même arrêté donne les sept lundis fériés où le marché se tient quand même, et sépare le marché aux fleurs, ouvert jusqu'à 17h30. La présence de producteurs le week-end n'est pas déduite du tableau de la Ville : elle est écrite par un producteur, Le Potager de Saquier, sur son propre site — « nous vendons nos fruits et légumes bio au marché Saleya à Nice le week-end ». Point BAN sur le Cours Saleya à 0,977, contrôle inverse à 0 m. Photo : la vue plongeante du marché publiée par la Ville de Nice, toiles rayées et façades ocre, les passants trop lointains pour être reconnaissables)
+- **Marché de la Libération** (Nice) (le plus grand marché de la ville, cent trois emplacements sur l'avenue Malausséna, la place de Gaulle, la rue Clément-Roassal et le parvis de la Gare du Sud. **Trois sources, deux horaires** : l'arrêté municipal dit 13h, la liste des marchés de la Ville et la fiche du comité régional du tourisme disent 12h30 toutes les deux ; règle 78, l'arrêté fait foi, mais c'est la borne la plus tôt que la fiche met en avant. Les sept lignes de `produits` viennent du comité régional, qui décrit aussi les artisans et producteurs locaux venus avec miels, fromages et préparations culinaires. La dérogation de stationnement accordée aux seuls poissonniers, place de la Gare du Sud, est à l'article 88 de l'arrêté. Point BAN sur l'avenue Malausséna à 0,978, contrôle inverse à 0 m. **Photo recadrée au-dessus des têtes** : la photographie du comité régional montre l'allée du marché mais aussi un vendeur de face et une cliente ; seuls les 290 pixels du haut sont retenus — parasols, auvent métallique et façades — le reste du cadre est écarté)
+- **Marché aux poissons Saint-François** (Nice) (**cinquième fiche de la catégorie `poissonnerie`**, et la seconde qui soit un marché plutôt qu'une boutique, après le Vieux Port. L'arrêté municipal donne tout : trois emplacements de poissonniers de six mètres sur trois, place Saint-François, du mardi au dimanche de 6h à 13h, carreau débarrassé à 13h30, des bornes à eau sur site et l'interdiction d'utiliser la fontaine publique voisine. **Une contradiction d'adresse tranchée contre le comité régional du tourisme** : sa page « Les marchés de Nice » situe le marché aux poissons « Place Troja, 06300 Nice », une place que la Base Adresse Nationale ne connaît pas à Nice ; sa propre fiche détaillée du marché, elle, écrit « Place Saint-François », comme l'arrêté — c'est celle-là qui est retenue. La mention « tenus par les poissonniers ou les pêcheurs eux-mêmes » est attribuée au comité dans la description, faute d'une source municipale qui la confirme. Point BAN sur la place Saint-François à 0,973, contrôle inverse à 0 m. Photo : l'étal de rougets, dorades et poissons de roche sur glace publié par le comité régional, aucune personne dans le cadre)
+- **Moulin à huile Nicolas Alziari** (Nice) (le dernier moulin à huile d'olive en activité à Nice, fondé en 1868 dans le quartier de la Madeleine, avec visite guidée gratuite toute l'année et trituration visible de la mi-octobre à décembre. **Le site officiel a été retrouvé par redirection, règle 76** : le comité régional donne `www.alziari.com.fr`, et `alziari.com.fr` sans le `www` affiche une page « Site en construction » d'hébergeur — c'est le `www` qui redirige vers `www.nicolas-alziari.com`, authentifié par la raison sociale du registre bio, « SAS NEOLIVE – Moulin à huile Alziari », et par l'adresse. **Contradiction interne au site, règle 5** : la page « Nos points de vente » ouvre la boutique du moulin du lundi au vendredi, la page « Le moulin » annonce les visites du lundi au samedi aux mêmes heures ; les deux sont dans `horaires`. **Pilier `environnement`** sur un certificat **engagement en cours**, Qualisud, mai 2017, et sur les soixante hectares d'oliveraies que la maison déclare cultiver en bio autour de Nice. Le registre des entreprises confirme trois établissements ouverts et un fermé, celui de la Gare du Sud. Point BAN sur le numéro 318 à 0,991, **identique au millionième de degré** au point du registre de l'Agence Bio, et à moins d'un mètre de celui que l'INSEE attache au siège de l'entreprise — trois sources sur le même point. Photo : les deux enseignes peintes du moulin, « Produits provençaux – En vente ici » et « Moulin à huile d'Olive Alziari 1868 », publiées par la maison ; **le panneau est lu comme un document, règle 74** — c'est lui qui atteste la vente sur place. Aucune personne dans le cadre ; la photographie de la trituration, elle, a été écartée parce qu'un visage net occupe son tiers droit)
+- **Boutique Nicolas Alziari du Vieux Nice** (la boutique de la même maison, ouverte en 1936 rue Saint-François-de-Paule, à 295 m du Cours Saleya et à 3,9 km du moulin : deux fiches parce que deux établissements distincts au registre des entreprises, deux téléphones, deux jeux d'horaires — la boutique ouvre le dimanche, le moulin non. Horaires, produits et téléphone viennent de la page « Nos points de vente » et de la page « La boutique », concordantes. **Pas de pilier `environnement`** : le certificat bio de la maison porte le SIRET du moulin, pas celui de la boutique — règle 39. **Le prénom de la femme de la famille qui a longtemps tenu la boutique, que la maison publie, n'est pas repris**, ni les deux frères qui la dirigent aujourd'hui. Point BAN sur le numéro 14 à 0,976, contrôle inverse à 0 m. Photo : la devanture ocre sous l'enseigne peinte et les rayons de bocaux, publiées par la maison, aucune personne dans le cadre)
+
+Les 348 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1261,6 +1298,129 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Nice
+
+Vingt et unième passe en ville. Département visé : les **Alpes-Maritimes (06)**, déficit **5,6132**
+fiche au sens de la règle 41, aucune fiche publiée — le premier du classement. La réserve de la
+règle 41.c est respectée : la passe précédente visait le Bas-Rhin, région 44, tandis que les
+Alpes-Maritimes sont en région 93. Après la passe, le déficit du 06 tombe à **0,6950** et
+l'Ille-et-Vilaine prend la tête à **5,6559**.
+
+Commune retenue : **Nice**, 357 737 habitants, la plus peuplée du département et sans aucune fiche
+— comme l'ensemble du département, d'ailleurs, qui n'en comptait pas une seule. Elle a rendu cinq
+commerces vérifiables sans qu'il faille redescendre à la suivante par population, Antibes et ses
+77 637 habitants.
+
+**La source la plus riche de Nice s'est interdite d'elle-même.** L'office de tourisme métropolitain,
+`explorenicecotedazur.com`, publie une fiche par producteur, par marché et par commerce, avec
+horaires et photographies. Son `robots.txt` nomme `ClaudeBot` et lui interdit le site entier. Cette
+passe a donc été menée sans lui, et n'y a rien perdu : c'est l'origine de la **règle 77**. Les trois
+sources qui l'ont remplacé, dans l'ordre où elles ont servi :
+
+- **L'arrêté municipal n° 2024-05542 du 20 novembre 2024**, quarante-neuf pages, reçu en préfecture,
+  qui porte règlement général des marchés traditionnels de Nice. Il donne, marché par marché, le
+  lieu exact, le nombre et la taille des emplacements, les jours, les heures de fin de vente et de
+  carreau débarrassé, les dérogations de stationnement et jusqu'aux couleurs de stores autorisées.
+  C'est la meilleure source municipale rencontrée depuis le début de ces passes en ville.
+- **La « Liste des marchés fixes »**, un tableau non daté publié par la même Ville, qui a le mérite
+  unique de dire quels marchés accueillent des **producteurs** et lesquels n'ont que des revendeurs.
+  Elle contredit l'arrêté sur deux horaires : d'où la **règle 78**.
+- **Le comité régional du tourisme**, `provence-alpes-cotedazur.com`, dont le `robots.txt`
+  n'interdit que des chemins techniques. Il a fourni les listes de produits, les horaires
+  hebdomadaires détaillés de la Libération et deux photographies libres de visage.
+
+**Marché de Saint-Isidore, place Chanoine-César-Musso** — le marché de producteurs de Nice, et
+probablement la meilleure fiche circuit court de la ville. L'arrêté lui consacre sept articles : il
+est réservé aux fleurs, plantes, fruits, légumes et « à la production locale ayant trait à
+l'alimentation », il se tient **chaque samedi matin de 6h à 13h**, « le producteur ne pourra vendre
+que les produits issus de son exploitation », et un producteur déjà installé sur un autre marché
+niçois le samedi doit choisir entre les deux au bout de six mois. Deux choses manquent. D'abord une
+photographie : ni la Ville, ni le comité régional, ni la Métropole n'en publient, et l'office de
+tourisme est écarté par la règle 77. Ensuite le nombre d'emplacements, que **l'arrêté se contredit à
+lui-même** sur deux pages : le tableau de l'article 77 dit six emplacements de 3 m sur 3, l'article
+120 en dit quinze. La règle 78 ne tranche pas ce cas-là — c'est le même document. **Critère de
+déblocage** : une photographie du marché publiée par une autorité qui n'interdit pas le robot, et un
+compte d'emplacements confirmé par un arrêté plus récent ou par la Ville.
+
+**Marché de la Californie, 84 avenue de la Californie** — trois emplacements **de producteurs**, les
+lundis, jeudis et vendredis de 6h30 à 13h. Il n'existe que dans l'arrêté : la « Liste des marchés
+fixes » ne le mentionne pas, non plus que le marché Lentulo du square Lentulo, sept emplacements.
+Aucune photographie, aucune liste de produits nulle part. **Critère de déblocage** : une
+photographie et une liste de produits, ou une fiche d'autorité qui décrive ce qui s'y vend.
+
+**Marchés Saint-Roch, Fontaine du Temple et Saint-Augustin** — les trois autres marchés où la Ville
+déclare des producteurs à côté des revendeurs. L'arrêté donne tout sauf les produits et l'image :
+Saint-Roch dix-huit emplacements place Saint-Roch, Fontaine du Temple onze emplacements dont deux
+dédiés à la cuisson sur site — socca au feu de bois sur remorque, et rôtisserie — Saint-Augustin six
+emplacements plus un sur l'avenue Martin-Luther-King, tous du mardi au dimanche de 6h à 13h.
+**Critère de déblocage** : une photographie et une liste de produits par marché. Les marchés de
+l'Ariane et de Cimiez, eux, ne sont pas écartés faute de preuve mais faute de sujet : la liste de la
+Ville n'y déclare que des **revendeurs**, un poissonnier pour l'un, un poissonnier et deux
+maraîchers pour l'autre — ce n'est pas de la vente en circuit court au sens de MODERATION.md.
+
+**Le Potager de Saquier, 151 chemin de Saquier** — maraîcher bio des coteaux niçois, en agriculture
+biologique depuis 1996, certificat **engagement en cours** au registre de l'Agence Bio, Ecocert,
+engagement de novembre 2002, quatorze productions déclarées de la mangue à la courge. Et pourtant
+pas de fiche, pour une raison que la ferme écrit elle-même en tête de son site : « Pour le respect
+de notre voisinage, **pas de vente ni de cueillette à la ferme** ». Une fiche à cette adresse
+enverrait quelqu'un devant un portail fermé. Ses deux points de vente publics sont ailleurs : le
+marché du Cours Saleya le week-end — la fiche du marché le dit — et l'AMAP de Colomars, le mercredi
+de 17h30 à 18h30 devant la poste, mais Colomars est une autre commune. **Critère de déblocage** :
+un point de vente ouvert au public à Nice, ou la passe qui couvrira Colomars.
+
+**Atipic'Marché Bio, 221 avenue de Fabron** — cité par Le Potager de Saquier comme le magasin bio
+qui vend ses légumes. Le registre des entreprises répond au SIRET : **zéro établissement ouvert**,
+entreprise cessée, et immatriculée sous le patronyme de son exploitant. Le point 2 du déroulé est
+formel, `nombre_etablissements_ouverts == 0` interdit de publier. **Critère de déblocage** : une
+immatriculation vivante à cette adresse, et des horaires publiés par une source accessible.
+
+**Les domaines de l'AOC Bellet** — Nice est l'une des rares grandes villes de France à contenir une
+appellation viticole dans ses limites communales, sur les collines de Saquier et de Crémat. Six
+domaines y sont inscrits au registre de l'Agence Bio, dont quatre avec un certificat **engagement en
+cours**. Deux ont un site vivant. Aucun ne publie de **jour ni d'heure de caveau** : le Château de
+Bellet annonce accueillir « tout au long de l'année pour des visites guidées, promenades dans les
+vignes et dégustations » sans dire quand, et le Clos Saint Vincent ne met sur sa page Contact qu'un
+téléphone et un formulaire. Le registre bio classe d'ailleurs plusieurs d'entre eux en
+`venteProsGros` seul. S'ajoute une contradiction d'adresse pour le Clos Saint Vincent : le registre
+bio le domicilie 44 chemin du Collet-des-Fourniers, son propre site écrit 516 chemin de Crémat — les
+deux donnent le même téléphone. **Critère de déblocage** : des jours et des heures de caveau
+publiés, ou une page de réservation avec un calendrier ; à défaut, la règle 40 permettrait une
+fiche « sur rendez-vous téléphonique » si une autorité décrivait la vente directe, ce qu'aucune ne
+fait pour l'instant.
+
+**La ferme municipale, 245 chemin de Saquier** — la Ville de Nice est elle-même inscrite au registre
+de l'Agence Bio comme opérateur de **Production**, à cette adresse, avec le drapeau de vente aux
+particuliers. Aucune page du site de la Ville ne décrit ce lieu ni ne dit s'il vend. **Critère de
+déblocage** : une page municipale donnant l'adresse, les jours et les heures d'un point de vente.
+
+**Douze opérateurs niçois écartés parce qu'ils n'ont pas d'enseigne.** Le registre de l'Agence Bio
+compte 1 456 opérateurs dans les Alpes-Maritimes, dont 255 domiciliés à Nice ; filtrés sur un
+certificat en cours et sur la vente aux particuliers, il en reste quarante et un. Sept sont des
+supermarchés certifiés bio que MODERATION.md écarte — cinq Carrefour, un Intermarché, un Marché U,
+tous à Nice même. Douze autres n'apparaissent au registre que sous le **patronyme** de leur
+exploitant, sans dénomination commerciale, et aucune enseigne n'a été trouvée pour eux ailleurs.
+MODERATION.md interdit de publier ce patronyme comme s'il s'agissait d'une enseigne ; leurs noms ne
+sont donc pas repris ici non plus. **Critère de déblocage** : une enseigne publiée par l'exploitant
+lui-même, ou déclarée au registre des entreprises.
+
+**Magasins bio indépendants de Nice** — Nicebio (111 boulevard de Cessole), Bio Grimaldi (2 place
+Grimaldi), Label Nature (7 boulevard Carlone), Bioanice (104 avenue Henry-Dunant) et JDEBIO (2 rue
+Cais-de-Pierlas) portent tous un certificat **engagement en cours** au registre de l'Agence Bio,
+avec le détail de leurs rayons. Aucun n'a de site web trouvé, aucun ne publie d'horaires ailleurs
+que dans des annuaires commerciaux, et le bloc `venteAnnuaire` du registre est vide pour les cinq.
+**Critère de déblocage** : des horaires publiés par le magasin lui-même, et une photographie.
+
+**Une boutique fermée que des annuaires donnent encore.** Le registre des entreprises garde trace de
+l'établissement « NICOLAS ALZIARI » du hall de la Gare du Sud, place de la Gare du Sud : il est à
+l'état **fermé**. Il n'est pas dans les fiches, et la maison ne le liste plus parmi ses points de
+vente — deux sources d'accord, aucune contradiction à consigner.
+
+**Une piste non vérifiée, à reprendre.** Un annuaire privé mentionne un « marché bio de producteurs
+de l'Arénas » à Nice. Il ne figure ni dans l'arrêté municipal, ni dans la liste des marchés fixes,
+ni chez le comité régional. Il n'a pas été ouvert faute de source d'autorité, et n'est écrit ici que
+pour la prochaine passe. **Critère de déblocage** : une source municipale, métropolitaine ou
+organisatrice donnant le lieu, le jour et les heures.
 
 ### Pistes non publiées à Strasbourg
 
