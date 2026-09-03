@@ -1117,10 +1117,44 @@ prioritaires en cas de conflit.
    la fiche entière de cet annuaire — produits, nombre d'étals, téléphone — plutôt que de garder les
    champs qui arrangent. Le tri à la pièce d'une source démentie revient à choisir ce qu'on a envie
    de croire.
+91. **La photographie qu'une autorité publie pour une fiche précise est un document ; celle qu'elle
+   réutilise partout n'en est pas un.** C'est le complément de la règle 88. À Annecy, une seule
+   photographie — la même au bit près — illustre **dix** des douze marchés de la ville sur le site
+   de la Ville et sur celui de l'office de tourisme : elle ne prouve rien et on n'y lit rien. Mais
+   deux marchés, la vieille ville et Pringy, ont chacun leur propre photographie, attachée à leur
+   seule fiche : celles-là montrent bien ce lieu-là. Critère : quand une photographie n'est attachée
+   qu'à une fiche, ce qu'on y voit sur les étals peut nourrir `produits`, au même titre qu'une
+   enseigne lisible au sens de la règle 74 — **et ce qu'on y lit qui contredit le texte doit être
+   consigné**. La Ville d'Annecy présente le marché de Pringy comme un marché de producteurs
+   locaux ; les ardoises de l'étal qu'elle photographie pour ce marché annoncent de l'asperge et du
+   citron d'Espagne. Le marché est publié, la formule de la Ville est rapportée comme sienne, et la
+   fiche ne promet pas que tous les bancs soient ceux d'un producteur voisin.
+92. **Le plancher de trois produits ne se comble pas en découpant une seule catégorie publiée.**
+   Le marché forain de La Source, à Saint-Denis de La Réunion, est vérifié sur tout le reste — la
+   Ville en publie le jour et l'heure, deux annuaires indépendants le situent au même endroit — mais
+   aucune des trois sources n'écrit autre chose que « fruits et légumes locaux ». On atteindrait
+   trois entrées en écrivant « fruits péi », « légumes péi » et « produits locaux » : ce serait le
+   même fait dit trois fois, et le visiteur y lirait un assortiment qui n'a été constaté nulle part.
+   Critère : quand toutes les sources accessibles convergent sur une seule catégorie de
+   marchandise, `produits` porte cette catégorie et s'arrête là, fût-ce à une ou deux entrées, la
+   description dit lesquelles ont été lues et qu'elles n'en disent pas plus, et la fiche passe en
+   `a_confirmer`. Le plancher de trois est une exigence de détail vérifié, pas un quota de lignes.
+93. **Un département que le contrôle de construction refuse n'est pas éligible à la règle 41.**
+   `lib/validateMerchants.ts` refuse toute fiche hors du cadre `lat 41 → 51,5 ; lon −5,5 → 9,8`,
+   c'est-à-dire hors de France métropolitaine. Ce garde-fou existe pour attraper l'inversion
+   latitude/longitude de la Base Adresse Nationale, et il fait son travail ; il est simplement
+   antérieur à toute fiche d'outre-mer. Or la règle 41 désigne aujourd'hui **La Réunion** comme le
+   premier déficit de France, et cinq fiches dionysiennes complètes se heurtent à `npm run build`.
+   Élargir ce cadre est une modification de code : hors périmètre, la seule catégorie que
+   l'autonomie complète laisse remonter. Critère : avant d'appliquer la règle 41, on vérifie que le
+   département retenu tombe dans le cadre de `lib/validateMerchants.ts` ; s'il n'y tombe pas, on
+   passe au déficit suivant, on garde le travail déjà fait en pistes avec ses photographies, et on
+   signale le point de blocage. La réserve de la règle 41.c sur les régions n'est pas concernée : un
+   département inéligible n'a pas été « visé », il a été sauté.
 
 ## Marchands à confirmer
 
-344 fiches sur 378 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+349 fiches sur 383 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1483,7 +1517,13 @@ prioritaires en cas de conflit.
 - **Halles Saint-Martin** (Brest) (la halle couverte du quartier Saint-Martin, ouverte cinq matinées par semaine. **Première fiche dont les produits sortent du registre des entreprises, règle 89** : ni la Ville ni l'office ne publie la liste des étals, et l'office décrit même sous ce titre le marché non alimentaire de l'esplanade. Le registre rend sept établissements ouverts à l'adresse de la halle, dont un primeur, un boucher, deux fabricants de charcuterie, un comptoir de plats à emporter et la boutique d'un marchand de volailles et de gibiers, dont le site confirme la rôtisserie du mardi au samedi matin. **Trois lectures des horaires, tranchées par la règle 22** : la Ville écrit « du mardi au samedi de 8h30 à 12h30 », l'office « du lundi au samedi » dans son résumé et « 08:00 - 13:00 » dans un tableau dont la fenêtre de validité s'est achevée le 31 décembre 2025 ; la commune l'emporte sur son propre équipement, les deux autres lectures restent entre parenthèses. Adresse de la Ville, 4 rue Massillon, confirmée par le magazine municipal Sillage, quand l'office écrit rue Danton — les deux rues bordent la même halle. Point BAN à 0,978, contrôle inverse à 0 m. Photo : la halle vue de la rue, publiée par l'office pour cette fiche et pour elle seule, recadrée pour écarter un passant lointain)
 - **Biocoop Kerbio Rive Droite** (Brest) (magasin de 2004 sur la rive droite de la Penfeld, rouvert en mai 2024 après onze mois de fermeture consécutifs à l'incendie d'un local voisin. Le magasin est immatriculé sous « FINIS TERRA », coopérative de consommateurs brestoise de 1984 aux douze établissements ouverts ; c'est l'enseigne qui est publiée, règle 3. Certificat **engagement en cours** au registre de l'Agence Bio, Ecocert, engagement d'octobre 2014, certificat consultable en ligne, d'où le pilier `environnement`. **Première épicerie de réseau à franchir la règle 86** : la coopérative ne se contente pas de dire « local », elle publie trois pages de fournisseurs nommés — huit fermes et ateliers, onze fromageries avec leur commune, dix brasseries. Horaires et téléphone pris sur le site de la coopérative. Point BAN sur le numéro 114 à 0,977, contrôle inverse à 0 m, et à 14 m du point que l'Agence Bio publie pour cette adresse. Photo : la façade bleue publiée par l'office de tourisme pour cette fiche, enseigne lisible, personne dans le cadre, plaques d'immatriculation déjà masquées à la source)
 
-Les 378 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché de la vieille ville** (Annecy) (le marché des arcades et du canal du Thiou, trois matinées par semaine. **Deux autorités, deux horaires, publiés tous les deux** : l'arrêté municipal portant réglementation des marchés de plein air fixe l'ouverture à 6h et la libération des emplacements à 13h — 13h30 le dimanche — tandis que la fiche de l'office de tourisme du lac d'Annecy, alimentée par la Ville elle-même, écrit 7h-13h ; `horaires` cite les deux et attribue chacun. L'arrêté donne aussi les rues, une par une, et le partage entre l'alimentaire et le manufacturé les vendredis et dimanches, ainsi que la limite de quatre commerçants autorisés à cuire sur place, cinq le dimanche. **Première fiche publiée au titre de la règle 91** : les sept produits sont ceux du terroir annoncés par la Ville, complétés par ce que montrent les cageots de la photographie que la Ville attache à cette seule fiche. Point BAN sur la rue Sainte-Claire à 0,973, contrôle inverse à 0 m. Photo : cette photographie de la Ville, **recadrée sous la ligne des visages** — cageots de pommes, de pêches et de courgettes ; le tiers haut de l'original montre une cliente de face)
+- **Marché de Pringy** (Annecy) (le marché du dimanche matin de la commune déléguée de Pringy, que la Ville d'Annecy décrit comme un marché de producteurs locaux et dont elle énumère les métiers — fruits et légumes de saison, fromages artisanaux, rôtisserie, pâtisserie, traiteur. **Deuxième volet de la règle 91, celui qui coûte** : la photographie que la Ville publie pour ce marché, et pour lui seul, montre un étal dont les ardoises annoncent de l'asperge verte et du citron d'Espagne. Le marché entre, la formule de la Ville est rapportée comme étant la sienne, et la description dit ce que la photographie montre. La Ville annonce par ailleurs une fermeture estivale « les dimanches 2, 9 et 15 août 2026 » — le 15 août 2026 est un samedi, le troisième dimanche du mois est le 16 : la fiche annonce la fermeture sans reprendre des dates fausses. Point BAN sur le chemin du Tram à 0,966, contrôle inverse à 0 m)
+- **La Ferme du Pré Paillard** (Annecy-le-Vieux) (maraîchage bio et volailles fermières au pied du Parmelan. Certificat **Bureau Alpes Contrôles consultable**, engagement de janvier 2020, d'où le pilier `environnement` — mais les légumes seuls sont certifiés, les volailles n'en relèvent pas, et la description le dit. **Le patronyme de l'exploitante n'est pas repris** bien que le registre de l'Agence Bio, Bienvenue à la Ferme et le site de la ferme le publient tous les trois : la fiche porte l'enseigne, règle 3. `telephone` reste vide : le seul numéro publié est un 06 personnel, que `MODERATION.md` interdit. **Horaires contredits par la ferme elle-même** : Bienvenue à la Ferme donne le mardi 16h-19h de mi-juillet à fin octobre, et le site de la ferme annonce en 2026 l'annulation des ventes directes pour cause de canicule — les deux sont dans `horaires`, avec l'invitation à vérifier. Point BAN sur le 22 route de Nâves à 0,966, et **le point de l'Agence Bio tombe dessus au millionième de degré près**. Photo : le petit marché abrité de la ferme, publiée par la ferme, cageots de navets, fenouils, carottes et courges, personne dans le cadre)
+- **Aux Douceurs de la Ferme** (Annecy-le-Vieux) (quarante-cinq vaches Montbéliarde et Abondance, et un atelier de glaces et de crèmes desserts au lait de l'exploitation. Vente à la ferme deux après-midi par semaine, et des distributeurs à casiers accessibles de 6h à 23h depuis janvier 2021 — c'est le premier point de vente automatique publié sur la carte. `site_web` est vide au titre de la **règle 62** : le domaine que Bienvenue à la Ferme donne encore répond **410**. `telephone` vide pour la même raison qu'au Pré Paillard. Pas de pilier `environnement` : la ferme n'est pas au registre de l'Agence Bio et ne revendique pas la mention. Belle boucle locale, vérifiée des deux côtés : la fiche de Bienvenue à la Ferme précise que les œufs vendus ici viennent de la Ferme du Pré Paillard, « env 800 m » — les deux points géocodés sont à 786 m l'un de l'autre. Point BAN sur le 40 route de Thônes à 0,977, contrôle inverse à 0 m. Photo : la façade de la ferme et le casier de vente devant le mur de pierre, publiée par Bienvenue à la Ferme)
+- **AMAP Le Petit Chaperon Vert** (Annecy — Cran-Gevrier) (l'association 1901 adossée au GAEC Les Jardins du Petit Chaperon Vert, quatre maraîchers installés depuis 2011 sur le parc du Taillefer. **Le GAEC ne vend nulle part ailleurs** : cent pour cent des légumes partent dans les paniers des adhérents, ce qui en fait le contraire exact d'un magasin — d'où le pilier `social` en plus des trois autres. Certificat Bureau Alpes Contrôles consultable, engagement de mai 2022. Deux distributions par semaine, mardi à l'Espace Vallon et jeudi à La Turbine ; c'est l'adresse du mardi qui porte le point, la salle Jean Moulin, 6 place Jean Moulin. **Les prénoms des quatre maraîchers, que le site publie, ne sont pas repris.** Point BAN sur le 6 place Jean Moulin à 0,967. Photo : le tunnel de salades du jardin, publiée par l'AMAP, aucun visage)
+
+Les 383 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1511,6 +1551,143 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Annecy
+
+Département visé : la **Haute-Savoie (74)**, déficit **4,7209** fiche au sens de la règle 41, aucune
+fiche publiée. Ce n'était pas le premier du classement : **La Réunion** l'était, avec **4,8772**, et
+elle a été écartée au titre de la **règle 93**, écrite dans cette passe — le contrôle de
+construction refuse les coordonnées d'outre-mer, et l'élargir est une modification de code. La
+région 84 n'était pas sous la réserve de la règle 41.c, la passe précédente ayant visé le Finistère,
+région 53. Après la passe, le déficit du 74 tombe à **-0,2167** et La Réunion reste en tête à
+**4,9417**, où elle restera tant que le cadre du contrôle n'aura pas bougé.
+
+Commune retenue : **Annecy**, 132 117 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre. Les quatre communes
+déléguées — Annecy-le-Vieux, Cran-Gevrier, Seynod, Meythet, Pringy — font partie de la commune
+depuis la fusion de 2017 : trois des cinq fiches y sont, et restent donc dans une seule commune.
+
+**Le site de la Ville est un Nuxt posé sur un TYPO3 headless**, quatrième variante du piège après
+Toulouse, Roubaix et Calais. `www.annecy.fr/1073-les-marches.htm` répond 200 et rend 14 880 octets
+qui ne contiennent qu'un `<div id="__nuxt"></div>` vide. Le contenu se lit à
+`https://www.annecy.fr/api/<chemin>`, en JSON. Deux différences avec Calais, utiles à noter : le
+sitemap `pages` **ne contient aucune page « marchés »** — la Ville n'a pas de page de rubrique sur
+ses marchés —, et les fiches vivent dans un annuaire d'agendas, `/annuaires/agendas/detail/<slug>`,
+dont les slugs ne sont pas énumérés par le sitemap. Il a fallu les deviner un par un ; sept ont
+répondu, `marche-de-la-vieille-ville`, `marche-de-la-place-des-romains`, `marche-du-boulevard-taine`,
+`marche-de-seynod`, `marche-de-meythet`, `marche-de-vieugy`, `marche-de-pringy`.
+
+**La source qui a fait cette passe est un PDF de 28 pages** : l'*Arrêté municipal portant
+réglementation des marchés de plein air de la Ville d'Annecy*, déposé dans la médiathèque du site et
+trouvé par un moteur de recherche, pas par le sitemap. Son article 1 décrit **neuf marchés**, un par
+un, avec les rues exactes, l'heure d'ouverture, l'heure de libération des emplacements, le nombre de
+commerçants autorisés à cuire sur place et le partage entre l'alimentaire et le manufacturé. C'est
+de très loin la meilleure source de cette passe, meilleure que n'importe quelle page web de la
+Ville. **Enseignement à retenir** : quand une commune ne publie pas de page « marchés », son arrêté
+de police des marchés dit tout, et il est presque toujours en ligne.
+
+**Une seule photographie pour dix marchés sur douze.** C'est le fait qui a décidé de la composition
+de la passe, et l'origine de la règle 91. Sur `annecy.fr` comme sur `lac-annecy.com`, la même image
+— une corbeille de charcuterie savoyarde, `8a9179d3f68a` en md5 sur le fichier d'origine de 1 044 ×
+1 200 — illustre le boulevard Taine, les Teppes, Novel-Teppes, la place des Romains, la place
+Chorus, le quartier du Vallon, les Pommaries, Seynod, Meythet et Vieugy. Seules la vieille ville et
+Pringy ont la leur. Publier cinq marchés annéciens aurait donc voulu dire publier trois fois la même
+photographie : c'est ce qui a fait chercher ailleurs, et donné deux fermes et une AMAP.
+
+**Les sept autres marchés d'Annecy**, tous vérifiés sur le jour, l'heure et le lieu par l'office de
+tourisme du lac d'Annecy et, pour quatre d'entre eux, par l'arrêté municipal — **il ne leur manque
+qu'une photographie qui leur soit propre** :
+
+- **Marché du boulevard Taine**, samedi 7h-13h selon l'office, 6h-13h30 selon l'arrêté, alimentaire
+  boulevard Taine entre l'avenue de Brogny et la rue Jean-Ritz, boulevard Nicollet et square du
+  8-mai-1945 ; c'est là que La Ferme du Pré Paillard tient son banc.
+- **Marché du quartier des Teppes**, place des Rhododendrons, dimanche 7h-13h ; l'arrêté l'appelle
+  « marché de producteurs et alimentaires » et impose aux commerçants d'occuper leur place de 8h à
+  13h. C'est le plus proche du sujet du site parmi les sept.
+- **Marché du quartier Novel-Teppes**, jeudi 7h-13h, contre-allée de l'avenue de France et rue
+  Louis-Armand.
+- **Marché de la place des Romains**, mardi ; l'alimentaire se tient rue Cécile-Vogt-Mugnier de 7h à
+  13h, le manufacturé sur la place jusqu'à 17h — l'office fond les deux en « 7h à 17h30 ».
+- **Marché de la Mandallaz**, mercredi 7h-13h, place de Mandallaz devant la fontaine. Il est dans
+  l'arrêté mais **n'a pas de fiche d'agenda**, donc pas d'adresse normalisée ni de photographie.
+- **Marché du quartier du Vallon**, place Jean Moulin, dimanche 8h-12h, et **marché de la place
+  Chorus**, jeudi 8h-12h, tous deux à Cran-Gevrier.
+- **Marchés de Seynod** (mercredi 8h-12h, avenue de Champ-Fleuri), **de Vieugy** (samedi 8h-12h),
+  **de Meythet** (mercredi 8h-12h, rue François-Vernex) et **des Pommaries** à Annecy-le-Vieux
+  (mercredi 8h-12h).
+
+**Critère de déblocage commun** : une photographie propre à l'un de ces marchés, publiée par la
+Ville, par l'office ou par un commerçant du marché. Tout le reste est déjà vérifié.
+
+**Écartés du registre de l'Agence Bio pour le 74**, qui compte 1 127 opérateurs dont 131 domiciliés
+à Annecy ou dans ses communes déléguées : les supermarchés certifiés pour un rayon, que
+`MODERATION.md` écarte — deux Carrefour City, un Intermarché, une Panière, deux Jardineries du
+Salève ; les opérateurs au certificat `ARRETEE` ; et les entreprises individuelles enregistrées sous
+le seul patronyme de l'exploitant. **Restent en réserve, vérifiables mais incomplets** :
+`CEINTURE VERTE HAUTE-SAVOIE`, domiciliée à la Maison de l'agriculture, 52 avenue des Îles — c'est
+une structure de soutien à l'installation, code NAF 01.61Z, sans point de vente identifié ;
+`CAMPAGNE SAINTE-CLAIRE`, 11 faubourg Sainte-Claire, boulangerie certifiée bio qui ne nomme aucun
+producteur, écartée au titre de la règle 86 ; et le `GAEC LES JARDINS DU PETIT CHAPERON VERT`
+lui-même, 10 avenue de Beauregard, qui n'a pas de point de vente puisque sa production entière passe
+par l'AMAP — c'est l'AMAP qui est publiée, pas le GAEC.
+
+**Un domaine mort de plus, deuxième cas de la règle 62 en deux passes** :
+`auxdouceursdelaferme.sitew.com`, que Bienvenue à la Ferme donne encore comme site de la ferme,
+répond **410 Gone**. La fiche est publiée avec `site_web` vide.
+
+### Pistes non publiées à Saint-Denis de La Réunion
+
+**Cinq fiches complètes, cinq photographies déjà déposées, et un `npm run build` rouge.** Cette
+section n'est pas une liste de pistes : c'est une passe entière, terminée et vérifiée, que le code
+refuse de publier. Elle est à intégrer telle quelle le jour où le cadre de `lib/validateMerchants.ts`
+acceptera l'outre-mer. C'est l'origine de la **règle 93**.
+
+Département : **La Réunion (974)**, déficit **4,8772** au moment du calcul, aucune fiche — premier du
+classement, et il y reste. Commune : **Saint-Denis**, 155 634 habitants. Le contrôle de construction
+refuse les cinq fiches d'un même message, « coordonnées hors de France (lat -20,88…, lon 55,45…) —
+la Base Adresse Nationale renvoie [lon, lat], vérifier l'ordre ». Le garde-fou fait exactement son
+travail : il attrape l'inversion latitude/longitude. Il est simplement plus ancien que l'ambition de
+couvrir la France entière. **Un seul geste le lève, et c'est une modification de code, hors
+périmètre.**
+
+**Les cinq fiches prêtes**, avec leurs points déjà contrôlés en inverse :
+
+- **Le Petit Marché**, angle rue Sainte-Anne / rue des Limites, -20,881009 / 55,458655 — le marché
+  quotidien du centre-ville, rénové en 2014. Deux pages de la Ville se contredisent sur les
+  horaires : la liste générale écrit « du lundi au dimanche, de 6h à 18h », la page dédiée « du
+  lundi au samedi de 6h à 18h30, dimanche jusqu'à 12h », plus les jours fériés — la page dédiée
+  l'emporte, règles 55 et 80. Huit produits. Photo recadrée au-dessus des visages.
+- **Marché forain du Chaudron**, place Nelson Mandela, -20,890923 / 55,487829 — plus de quatre cents
+  exposants, mercredi et dimanche de 6h à 12h, revenu place Nelson Mandela le 17 juin 2020. Six
+  produits, dont les fruits lontan, mangue José, banane zoiso, combava.
+- **Marché forain de La Source**, boulevard Jean Jaurès à hauteur de la clinique vétérinaire,
+  -20,890625 / 55,453839 — jeudi de 6h à 12h. La Ville n'en publie pas l'adresse ; deux annuaires
+  indépendants donnent le même repère et l'un d'eux un numéro. **Deux produits seulement**, au titre
+  de la règle 92.
+- **Marché forain des Camélias**, parking du rond-point de la Sécurité sociale, boulevard Doret,
+  -20,890937 / 55,461298 — vendredi de 6h à 12h. Il n'est plus avenue des Cocotiers : la Ville écrit
+  que « le marché s'installe sur le parking à la croisée des ravines » pendant les travaux. Huit
+  produits.
+- **Marché Péi du Jardin de l'État**, parking Poivre, -20,887560 / 55,451442 — le marché de
+  producteurs du Département de La Réunion, sans périodicité fixe, quelques samedis par an de 7h à
+  13h, chaque séance annoncée sur une page permanente. Sept produits.
+
+**Ce que la passe dionysienne a par ailleurs écarté** : le **Grand Marché** et le **marché de nuit
+du Barachois**, qui sont des marchés d'artisanat, hors sujet — et la page du Grand Marché est en
+outre périmée, ses exposants ayant été relogés dans un village artisanal du front de mer en novembre
+2024 pendant la rénovation de la halle de 1866 ; **La Vie Claire** et **Naturalia** à
+Sainte-Clotilde, qui ne nomment aucun producteur, règle 86 ; **Biodiet**, dont le domaine
+`www.biodiet-reunion.fr` ne résout pas ; et la grande majorité des 1 134 opérateurs du registre de
+l'Agence Bio pour le 974, enregistrés sous le seul patronyme de l'exploitant. **La Ruche qui dit
+Oui !** reste une piste non résolue pour une raison purement technique : `laruchequiditoui.fr`
+répond 403 à `curl` comme à la récupération de page, et le panneau navigateur redirige vers une
+liste géolocalisée sur l'adresse de sortie, jamais sur La Réunion.
+
+**L'open data de Saint-Denis ne sert à rien ici** : `opendata-sig.saintdenis.re` est un ArcGIS Hub
+dont le flux DCAT énumère 72 jeux de données, aucun sur les marchés forains. Et **le site de la Ville
+est un thème acheté mal vidé de sa démonstration** : chaque page traîne des blocs « Lorem ipsum » et
+un pied de page annonçant « 12,345 Fans » sur six réseaux. Le contenu éditorial, lui, est exact et
+daté.
 
 ### Pistes non publiées à Brest
 

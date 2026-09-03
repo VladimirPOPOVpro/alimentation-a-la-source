@@ -9880,5 +9880,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Kerbio+Rive+Droite+114+boulevard+de+Plymouth+Brest",
     "image_url": "/images/marchands/kerbio-rive-droite.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-vieille-ville-annecy",
+    "nom": "Marché de la vieille ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.898323,
+    "lon": 6.124693,
+    "adresse": "Rue Sainte-Claire, rue de la République, place Sainte-Claire, rue du Pont-Morens et quai de l'Évêché, 74000 Annecy",
+    "horaires": "Mardi, vendredi et dimanche de 7h à 13h selon l'office de tourisme du lac d'Annecy ; l'arrêté municipal sur les marchés de plein air fixe pour sa part l'ouverture à 6h, la libération des emplacements à 13h les mardi et vendredi et à 13h30 le dimanche",
+    "produits": [
+      "Produits du terroir de Haute-Savoie",
+      "Pommes",
+      "Pêches",
+      "Tomates",
+      "Courgettes",
+      "Carottes",
+      "Pommes de terre"
+    ],
+    "description": "Le marché le plus ancien et le plus visité d'Annecy, sous les arcades et le long du canal du Thiou. Le mardi il est purement alimentaire ; le vendredi et le dimanche il s'agrandit avec les produits textiles et manufacturés, que l'arrêté municipal cantonne à la rue de la République, à la place Sainte-Claire et au quai de l'Évêché. Le même arrêté limite à quatre — cinq le dimanche — le nombre de commerçants autorisés à cuire sur place.",
+    "site_web": "https://www.annecy.fr/annuaires/agendas/detail/marche-de-la-vieille-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20vieille%20ville%20rue%20Sainte-Claire%20Annecy",
+    "image_url": "/images/marchands/marche-de-la-vieille-ville-annecy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-pringy-annecy",
+    "nom": "Marché de Pringy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.944727,
+    "lon": 6.119525,
+    "adresse": "Chemin du Tram, Pringy, 74370 Annecy",
+    "horaires": "Dimanche de 7h à 13h, toute l'année ; la Ville annonce une fermeture estivale en août 2026",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages artisanaux",
+      "Rôtisserie",
+      "Pâtisseries",
+      "Plats traiteur"
+    ],
+    "description": "Le marché du dimanche matin de Pringy, que la Ville d'Annecy présente comme un marché de producteurs locaux : des produits « directement issus des fermes et entreprises locales », et un rendez-vous de quartier autant qu'un lieu d'achat. La photographie que la Ville publie elle-même pour ce marché montre cependant un étal où des ardoises annoncent de l'asperge et du citron d'Espagne : tous les bancs ne sont pas ceux d'un producteur voisin, et la fiche ne le promet pas.",
+    "site_web": "https://www.annecy.fr/annuaires/agendas/detail/marche-de-pringy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Pringy%20chemin%20du%20Tram%20Annecy",
+    "image_url": "/images/marchands/marche-de-pringy-annecy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-du-pre-paillard",
+    "nom": "La Ferme du Pré Paillard",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.926612,
+    "lon": 6.175763,
+    "adresse": "Le Pré Paillard, 22 route de Nâves, Annecy-le-Vieux, 74940 Annecy",
+    "horaires": "Vente à la ferme le mardi de 16h à 19h, de la mi-juillet à la fin octobre, sous forme d'un petit marché abrité ; la ferme tient aussi un banc au marché du boulevard Taine le samedi matin. En 2026 son site a annoncé l'annulation des ventes directes à la ferme pour cause de canicule : vérifier avant de se déplacer",
+    "produits": [
+      "Légumes de saison (courgettes, tomates, haricots, oignons, pommes de terre, blettes)",
+      "Œufs fermiers de poules élevées en plein air",
+      "Poulets fermiers",
+      "Pintades fermières",
+      "Lapins fermiers",
+      "Volailles festives de Noël (chapons, poulardes, canards)"
+    ],
+    "description": "Petite exploitation familiale au pied du Parmelan, à la sortie d'Annecy-le-Vieux : maraîchage certifié en agriculture biologique, et des volailles nourries au grain et élevées en plein air. Les légumes portent la mention agriculture biologique — certificat Bureau Alpes Contrôles consultable, engagement de janvier 2020 —, les volailles n'en relèvent pas. Ses œufs se retrouvent aussi à huit cents mètres de là, dans les casiers d'Aux Douceurs de la Ferme.",
+    "site_web": "https://la-ferme-du-pre-paillard.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20du%20Pr%C3%A9%20Paillard%2022%20route%20de%20N%C3%A2ves%20Annecy-le-Vieux",
+    "image_url": "/images/marchands/la-ferme-du-pre-paillard.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "aux-douceurs-de-la-ferme",
+    "nom": "Aux Douceurs de la Ferme",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.921836,
+    "lon": 6.168299,
+    "adresse": "Sur les Bois, 40 route de Thônes, Annecy-le-Vieux, 74940 Annecy",
+    "horaires": "Le mercredi et le vendredi de 16h à 19h ; en janvier et février, le vendredi seulement. Les distributeurs automatiques à casiers installés devant la ferme sont accessibles 7j/7 de 6h à 23h",
+    "produits": [
+      "Glaces et sorbets fermiers",
+      "Crèmes desserts",
+      "Lait entier pasteurisé",
+      "Yaourts",
+      "Fromages blancs",
+      "Confitures, coulis de fruits et jus d'autres producteurs",
+      "Œufs frais de la Ferme du Pré Paillard"
+    ],
+    "description": "Quarante-cinq vaches de races Montbéliarde et Abondance à quinze minutes d'Annecy, et un atelier qui transforme une partie du lait en glaces et en crèmes desserts, sans arôme artificiel ni colorant. La vente se fait sur l'exploitation, deux après-midi par semaine, et depuis janvier 2021 par des distributeurs à casiers accessibles jour et nuit. La ferme dépose aussi ses produits au Rendez-vous du Terroir à Meythet et chez C'nos Terroirs à Seynod.",
+    "site_web": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Aux%20Douceurs%20de%20la%20Ferme%2040%20route%20de%20Th%C3%B4nes%20Annecy-le-Vieux",
+    "image_url": "/images/marchands/aux-douceurs-de-la-ferme.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-le-petit-chaperon-vert",
+    "nom": "AMAP Le Petit Chaperon Vert",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.904035,
+    "lon": 6.100796,
+    "adresse": "Espace Vallon, salle Jean Moulin, 6 place Jean Moulin, Cran-Gevrier, 74960 Annecy",
+    "horaires": "Distribution le mardi de 18h à 19h30 à l'Espace Vallon (salle Jean Moulin) et le jeudi de 18h à 19h30 à La Turbine, sur quarante-six semaines, de début mai à fin avril ; contrats souscrits en janvier, pas d'inscription en cours de saison",
+    "produits": [
+      "Paniers et demi-paniers de légumes de saison certifiés bio",
+      "Pain",
+      "Œufs",
+      "Yaourts",
+      "Légumineuses",
+      "Commandes groupées de miel, d'agrumes, de cidre et de chocolat"
+    ],
+    "description": "Association de bénévoles adossée au GAEC Les Jardins du Petit Chaperon Vert, quatre maraîchers qui cultivent depuis 2011 le terrain du parc du Taillefer, à Cran-Gevrier, en agriculture biologique — certificat Bureau Alpes Contrôles consultable, engagement de mai 2022. La totalité des légumes produits part dans les paniers des adhérents : le GAEC ne vend ni sur les marchés ni ailleurs. L'AMAP contractualise en outre avec d'autres producteurs pour le pain, les œufs, les yaourts et les légumineuses. Deux cent trente-six adhérents pour cent vingt et un paniers en 2025-2026, et une liste d'attente.",
+    "site_web": "https://lepetitchaperonvert.net",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Espace%20Vallon%20place%20Jean%20Moulin%20Cran-Gevrier%20Annecy",
+    "image_url": "/images/marchands/amap-le-petit-chaperon-vert.jpg",
+    "a_confirmer": true
   }
 ]
