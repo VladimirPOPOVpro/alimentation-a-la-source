@@ -808,9 +808,37 @@ prioritaires en cas de conflit.
    publiée par la commune ou par la Métropole, dont les certificats se retrouvent au registre de
    l'Agence Bio — la même exigence que pour une AMAP.
 
+69. **Les légendes qu'une autorité attache à ses propres photographies valent liste d'étals.**
+   Aucune source ne publie ce qui se vend sur les six marchés d'Argenteuil : ni le site de la Ville,
+   ni l'arrêté municipal qui les règlemente, ni aucun annuaire. Mais la Ville publie un reportage de
+   soixante photographies dont **le nom de fichier désigne le marché** — `241123_mt12_marche_de_la
+   _colonie.jpg` — et dont **le texte alternatif nomme le métier de l'étal** : primeur, boucher,
+   poissonnier, fromager, traiteur, fleuriste. Critère : la légende doit venir de l'autorité qui
+   tient le lieu, nommer un métier et non une personne, et la photographie doit être rattachée à un
+   lieu identifié par son nom de fichier ou par sa galerie ; alors `produits` reprend ces métiers,
+   marché par marché, dans les mots de l'autorité. Trois interdits : ne jamais transporter les
+   métiers d'un marché sur son voisin ; ne jamais écrire ce que l'on croit reconnaître **dans**
+   l'image, seulement ce que la légende **dit** ; et quand les légendes d'un marché ne documentent
+   qu'un seul métier, `produits` n'en porte qu'un, comme au Mont-Mesly. Le marché des Champioux sort
+   ainsi avec une seule ligne, et c'est exact.
+
+70. **Quand toutes les photographies d'un lieu portent des visages identifiables et que la
+   résolution de la source interdit un recadrage sans visage au-dessus du plancher, la fiche
+   attend.** C'est le cas du marché Héloïse : les neuf photographies que la Ville lui consacre sont
+   des portraits de commerçants, en gros plan et de face, et les fichiers ne dépassent pas 700 px —
+   tout recadrage qui écarte les visages tombe sous le plancher de 600 px de la règle 59. La
+   règle 1 ne sauve pas la fiche : les cinquante et une autres photographies du reportage sont
+   attribuées chacune à un marché précis, ce que la règle 66 interdit de réemployer, et le bandeau que la
+   Ville met en tête de sa page « Les marchés » est une image de banque — **une photographie
+   achetée à une banque d'images et publiée par une commune n'est pas une photographie du lieu**, et
+   sa licence n'est pas celle du site. Critère : le lieu passe en « Pistes non publiées » avec, pour
+   déblocage, une seule condition — une photographie de ce lieu sans visage identifiable. Ce n'est
+   pas un report « pour une question d'illustration » au sens que la règle 1 réprouve : c'est
+   l'absence pure et simple de toute image utilisable.
+
 ## Marchands à confirmer
 
-289 fiches sur 323 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+294 fiches sur 328 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1107,7 +1135,13 @@ prioritaires en cas de conflit.
 - **Marché Place aux Herbes** (Grenoble) (le marché quotidien du cœur historique, ouvert tous les jours sauf le lundi, et qui devient le vendredi après-midi le marché des montagnes de l'Isère. **Sources complémentaires, pas contradictoires** : la Ville donne les horaires complets, l'office de tourisme résume « tous les jours sauf le lundi », la Métropole ne retient que les matinées et omet l'après-midi du vendredi — c'est la Ville qui fait foi et l'omission est signalée dans `horaires`. Les produits reprennent mot pour mot la rubrique « Informations pratiques » de la Ville, faute de liste d'étals, même discipline qu'au Mont-Mesly et à Roubaix. Point BAN sur le numéro à 0,967. Photo : la vue des étals sous les auvents publiée par l'office de tourisme, deux silhouettes lointaines et aucun visage lisible)
 - **Biocoop Libération** (Grenoble) (le magasin est immatriculé sous « BIOLIBE » ; c'est l'enseigne du réseau coopératif qui est publiée, règle 3, comme au Bessillon et à Calais. Revenu à l'enseigne et rouvert le 15 janvier 2026. **Première fiche publiée au titre de la règle 67** : les données structurées de sa page donnent la bonne adresse et un point faux de 1,7 km, qui se retourne rue de Stalingrad ; ce sont la Base Adresse Nationale, à 0,983 sur le numéro, et le registre de l'Agence Bio, à 9 m de ce numéro, qui font foi. Les huit produits sont les catégories que l'exploitant déclare lui-même au registre. Certificat **engagement en cours** chez Ecocert ; le registre date cet engagement de septembre 2019 quand la société n'est immatriculée que depuis février 2023 — la date est attribuée au registre plutôt que réécrite. L'adresse électronique de gérance n'est pas reprise. Photo : la façade et l'enseigne publiées par le magasin, personne dans le cadre)
 
-Les 323 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché de la Colonie** (Argenteuil) (le marché du samedi matin, place Aristide-Briand, quartier d'Orgemont. **Première fiche publiée au titre de la règle 69** : aucune source ne dit ce qui se vend sur les marchés d'Argenteuil, mais les douze photographies que la Ville consacre à celui-ci sont légendées métier par métier — primeur, boucher, poissonnier, fromager, traiteur, fleuriste, et un « marchand avec une trancheuse » qui donne la charcuterie à la coupe. Jours et heures concordent entre la page « Les marchés argenteuillais » et l'arrêté municipal 2024-446A du 7 octobre 2024. Point de la Ville, contrôlé à 37 m de la place Aristide-Briand rendue par la Base Adresse Nationale. Photo : l'étal de poissonnerie sur glace publié par la Ville pour ce marché, personne dans le cadre)
+- **Marché Joliot-Curie** (Argenteuil) (le seul des six marchés de la commune à se tenir trois matinées par semaine, dans la cité Joliot-Curie à Orgemont. **Adresse complétée par l'annuaire** : l'arrêté et la page des marchés écrivent « Cité Joliot-Curie », l'annuaire des équipements ajoute la route d'Enghien, et c'est la version longue qui est publiée. Produits tirés des légendes de la Ville, règle 69, jusqu'aux oursins de la poissonnerie. Point de la Ville, contrôlé à 29 m du 28 rue Irène-et-Frédéric-Joliot-Curie ; la Base Adresse Nationale ne rendait la cité qu'à 0,514, l'annuaire fait mieux qu'elle. Photo : pommes et bouteilles de jus au premier plan d'un étal, l'arrière-plan entièrement hors de mise au point)
+- **Marché des Champioux** (Argenteuil) (le marché couvert du Val Notre-Dame, mercredi et samedi matin. **Une seule ligne de produits, et c'est exact** : de ce marché la Ville ne publie que trois photographies, dont les légendes ne nomment que le primeur — même discipline qu'au Mont-Mesly et qu'à Roubaix. **Orthographe tranchée** : la page des marchés écrit « boulevard du Général Delembre », l'arrêté municipal et la Base Adresse Nationale écrivent **Delambre**, à 0,979 contre 0,819 pour la graphie fautive ; la fiche suit l'arrêté. Point de la Ville, contrôlé à 23 m du 194 boulevard du Général-Delambre — l'axe que rendait la Base tombait 500 m plus au sud, le boulevard étant long. Photo : l'intérieur de la halle, plateaux d'œufs et comptoir, personne dans le cadre)
+- **Marché des Coteaux** (Argenteuil) (le marché du quartier des Coteaux, mercredi et samedi matin, celui auquel la Ville consacre le plus de photographies — vingt sur soixante. **Deux adresses pour un seul lieu, et ce n'est pas une contradiction** : l'arrêté municipal et la page des marchés écrivent « rue de la Grande Voie », l'annuaire des équipements écrit « rue de l'Ermitage » ; le point que la Ville publie elle-même tombe à 25 m de la première et à 28 m de la seconde, au carrefour où les deux se rejoignent avec la rue de Rosière. La fiche porte l'adresse de l'arrêté et le README dit pourquoi. Photo : le comptoir du traiteur, **recadré sous la ligne des visages** — la moitié haute de l'original montre un client de profil)
+- **Marché du Val-d'Argent-Nord** (Argenteuil) (le seul marché de la commune qui se tienne l'après-midi. **Une séance provisoire devenue permanente** : la Ville a ouvert le mardi le 25 avril 2023 « jusqu'à l'été », après la fermeture administrative d'un supermarché du quartier pour manquement d'hygiène ; l'arrêté d'octobre 2024 l'inscrit au calendrier officiel, à côté du vendredi. L'offre non alimentaire annoncée par la Ville — hygiène, linge de maison, ustensiles de cuisine — est dite dans la description et absente des produits. **Le point de la Ville et l'adresse de l'arrêté divergent de 144 m** : l'arrêté dit rue Jean-Lurçat, le marqueur tombe à 19 m de l'allée Fernand-Léger et à 74 m de l'allée Jean-Lurçat ; comme les cinq autres marqueurs de l'annuaire se sont vérifiés à moins de 40 m, c'est lui qui est retenu, et l'écart est consigné. Photo : bananes et raisins sur un étal, publiée par la Ville pour ce marché, personne dans le cadre)
+
+Les 328 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1135,6 +1169,91 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Argenteuil
+
+Dix-septième passe en ville. Département visé : le **Val-d'Oise (95)**, déficit **6,0037** fiche au
+sens de la règle 41, aucune fiche publiée — premier du classement à la sortie de la passe de
+Grenoble. La réserve de la règle 41.c ne mordait pas : la passe précédente avait visé l'Isère,
+région 84, quand le Val-d'Oise est en région 11. Après la passe, le déficit du 95 tombe à **1,0967**
+et la **Seine-Maritime** prend la tête à **5,9982**, en région 28.
+
+Commune retenue : **Argenteuil**, 106 130 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq marchés vérifiables sans qu'il faille redescendre par population.
+
+**Le site de la Ville est un Drupal dont le sitemap se trompe de domaine.** `www.argenteuil.fr`
+répond bien, mais son `sitemap.xml` est un index dont les trois `<loc>` pointent vers
+`http://default/sitemap.xml?page=1`, `?page=2` et `?page=3` : la variable de base du module n'a
+jamais été renseignée. Les trois pages existent pourtant en https et donnent **4 062 URL**, dont
+**1 432 portent encore ce préfixe `http://default/`** qu'il faut réécrire à la main pour les
+ouvrir. C'est de ce sitemap que sont sortis les six marchés, en une seule recherche.
+
+**Cinquième variante du piège de la coquille JavaScript**, après Toulouse, Roubaix, Calais et
+Évry-Courcouronnes — et la moins méchante. Les fiches `/fr/annuaire-des-equipements/<slug>` font
+148 ko de HTML sans une seule occurrence du mot « adresse » : tout le contenu est construit par le
+script. Mais il est bien là une fois la page rendue, et il porte davantage que ce qui s'affiche : un
+`<span data-lat="…" data-lon="…">` donne les coordonnées de l'équipement, au dix-millième de degré.
+Les six marchés ont été relevés ainsi, un par un.
+
+**Les trois sources qui ont fait cette passe** :
+
+- **la page « Les marchés argenteuillais »** de `www.argenteuil.fr`, qui donne les jours et les
+  heures des six marchés en clair — la seule source d'horaires, et elle est complète ;
+- **l'arrêté municipal 2024-446A du 7 octobre 2024**, règlement général des marchés
+  d'approvisionnement, téléchargeable depuis cette page. Son article 3 nomme les six marchés, donne
+  leur adresse et un tableau jour par jour qui recoupe exactement la page web. **Le PDF est un scan
+  de bout en bout** : vingt et une pages pour 953 caractères de texte, tous sur la page de garde de
+  la plate-forme de télétransmission ; le règlement lui-même n'existe que comme image, et a dû être
+  rendu page à page pour être lu ;
+- **l'annuaire des équipements** de la même Ville, pour l'adresse détaillée, le quartier et le point
+  de chaque marché.
+
+**Le registre de l'Agence Bio pour le 95** compte 371 opérateurs, dont 21 à Argenteuil, et **aucun
+n'est publiable**. Le seul qui déclare vendre au particulier est un Intermarché, que MODERATION.md
+écarte. Le reste se répartit en trois familles : des enseignes de distribution (un Carrefour, un
+Casino, un Monoprix), des grossistes sans vente au détail (Hédiard, Tout Beurre, Louis Tellier,
+Miko Café Service, Sophichel, Givaudan), et **quatorze certificats arrêtés** sur vingt et une
+entrées — deux d'entre elles étant des doublons du même opérateur, inscrit deux fois. Une ville de
+106 000 habitants où le registre ne rend pas un seul point de vente bio indépendant : le fait est
+noté ici parce qu'il est rare.
+
+**AM'hAPpy, l'AMAP d'Argenteuil** — le Réseau des AMAP en Île-de-France la liste au 55 rue de la
+Voie des Bans, partage le mardi de 12h30 à 14h, avec la mention **« complet »**. C'est tout : ni
+produits, ni ferme partenaire, ni site, ni téléphone — la seule coordonnée publiée est une adresse
+électronique, que MODERATION.md interdit de reprendre. Sous le seuil de la règle 16, et sans
+photographie. **Critère de déblocage** : une liste de produits ou une ferme partenaire, publiée par
+l'AMAP ou par le réseau, et une photographie du lieu de partage.
+
+**Marché Héloïse, boulevard Héloïse, centre-ville** — vendredi et dimanche de 8h à 13h ; tout est
+vérifié, sauf l'image. C'est la piste qui a fait naître la règle 70 : les neuf photographies que la
+Ville lui consacre sont des portraits de commerçants, de face et en gros plan, et les fichiers
+plafonnent à 700 px, si bien qu'aucun recadrage sans visage ne tient au-dessus du plancher de
+600 px de la règle 59. Ses légendes documentent pourtant le marché le mieux du lot — quatre
+primeurs, deux pâtissiers, un traiteur, deux restaurateurs préparant des sandwichs. **Critère de
+déblocage** : une photographie de ce marché sans visage identifiable.
+
+**Le bandeau de la page « Les marchés » est une image de banque.** `shutterstock_2331978265.jpg`,
+comme celui de la page du nouvel an chinois au marché Héloïse : deux rappels qu'une commune peut
+illustrer ses propres pages avec des photographies qu'elle n'a pas prises et dont la licence n'est
+pas celle de ce site. Aucune des deux n'est utilisée.
+
+**`www.ville-argenteuil.fr` ne résout pas**, alors que l'arrêté de 2024 le donne encore en pied de
+page comme « site officiel » et que la direction du commerce y publie encore son adresse
+électronique. Le domaine vivant est `argenteuil.fr`. Application directe de la règle 62 : rien de ce
+domaine mort n'entre dans les fiches.
+
+**Aucun téléphone n'est publié pour les marchés d'Argenteuil.** Le seul numéro rencontré est le
+standard de l'hôtel de ville, au pied de l'arrêté ; il n'est pas repris, même discipline qu'à
+Évry-Courcouronnes pour le standard de l'ancienne commune de Courcouronnes. Le champ reste vide.
+
+**Écartés comme événements et non comme marchés du calendrier** : le marché nocturne 2026, le
+marché de Noël au musée, le marché artisanal de Noël, la guinguette créole au marché de la Colonie
+et le forum des associations tenu sur le marché Héloïse. Tous ont leur galerie sur le site de la
+Ville ; aucun n'est un lieu de vente permanent.
+
+**Données personnelles écartées** : l'adresse électronique de la direction du commerce, celle de
+l'AMAP, et **le nom de tous les commerçants** — la Ville publie soixante photographies où ils sont
+reconnaissables, et plusieurs légendes les décrivent ; les fiches ne nomment que des métiers.
 
 ### Pistes non publiées à Grenoble
 

@@ -8384,5 +8384,132 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Libération+Grenoble",
     "image_url": "/images/marchands/biocoop-liberation-grenoble.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-colonie-argenteuil",
+    "nom": "Marché de la Colonie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.9491338,
+    "lon": 2.2572044,
+    "adresse": "Place Aristide Briand, 95100 Argenteuil",
+    "horaires": "Le samedi de 8h à 13h.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie",
+      "Poissonnerie",
+      "Charcuterie et produits à la coupe",
+      "Fromagerie",
+      "Traiteur",
+      "Fleurs"
+    ],
+    "description": "Le marché du samedi matin, place Aristide-Briand, dans le quartier d'Orgemont. Le reportage photographique que la Ville d'Argenteuil consacre à ses six marchés y montre des étals de primeur, de boucherie, de poissonnerie, de charcuterie à la coupe, de fromagerie, de traiteur et de fleuriste.",
+    "site_web": "https://www.argenteuil.fr/fr/les-marches-argenteuillais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+la+Colonie+place+Aristide+Briand+Argenteuil",
+    "image_url": "/images/marchands/marche-de-la-colonie-argenteuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-joliot-curie-argenteuil",
+    "nom": "Marché Joliot-Curie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.9579914,
+    "lon": 2.2867175,
+    "adresse": "Cité Joliot-Curie, route d'Enghien, 95100 Argenteuil",
+    "horaires": "Les mardi, jeudi et samedi de 8h à 13h.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie et coquillages",
+      "Boucherie",
+      "Jus de fruits"
+    ],
+    "description": "Le marché de la cité Joliot-Curie, à Orgemont, le seul des six marchés d'Argenteuil à se tenir trois matinées par semaine. Le reportage photographique de la Ville y montre des étals de primeur, une boucherie et une poissonnerie qui va jusqu'aux oursins.",
+    "site_web": "https://www.argenteuil.fr/fr/les-marches-argenteuillais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Joliot-Curie+Argenteuil",
+    "image_url": "/images/marchands/marche-joliot-curie-argenteuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-champioux-argenteuil",
+    "nom": "Marché des Champioux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.9399744,
+    "lon": 2.2234025,
+    "adresse": "Boulevard du Général Delambre, 95100 Argenteuil",
+    "horaires": "Les mercredi et samedi de 8h à 13h.",
+    "produits": [
+      "Fruits et légumes"
+    ],
+    "description": "Le marché couvert du quartier du Val Notre-Dame, boulevard du Général-Delambre, les mercredi et samedi matin. De ses étals, la Ville d'Argenteuil ne documente que le primeur : la liste des autres commerces n'est publiée nulle part.",
+    "site_web": "https://www.argenteuil.fr/fr/les-marches-argenteuillais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Champioux+Argenteuil",
+    "image_url": "/images/marchands/marche-des-champioux-argenteuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-coteaux-argenteuil",
+    "nom": "Marché des Coteaux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.9612218,
+    "lon": 2.2359441,
+    "adresse": "Rue de la Grande Voie, 95100 Argenteuil",
+    "horaires": "Les mercredi et samedi de 8h à 13h.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Fromagerie",
+      "Boucherie",
+      "Charcuterie et produits à la coupe",
+      "Traiteur italien"
+    ],
+    "description": "Le marché du quartier des Coteaux, sous une halle installée au carrefour des rues de la Grande-Voie, de l'Ermitage et de Rosière. C'est celui auquel la Ville consacre le plus de photographies : primeurs, poissonniers, fromagère, étal de viande et un traiteur italien.",
+    "site_web": "https://www.argenteuil.fr/fr/les-marches-argenteuillais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Coteaux+Argenteuil",
+    "image_url": "/images/marchands/marche-des-coteaux-argenteuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-val-d-argent-nord-argenteuil",
+    "nom": "Marché du Val-d'Argent-Nord",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.9520816,
+    "lon": 2.2270123,
+    "adresse": "Rue Jean Lurçat, 95100 Argenteuil",
+    "horaires": "Les mardi et vendredi de 14h à 18h.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie",
+      "Boucherie",
+      "Œufs"
+    ],
+    "description": "Le seul des six marchés d'Argenteuil à se tenir l'après-midi. La séance du mardi a été ouverte le 25 avril 2023, à titre provisoire, après la fermeture administrative d'un supermarché du quartier ; l'arrêté municipal d'octobre 2024 l'a inscrite au calendrier officiel des marchés. La Ville annonce, à côté de l'offre alimentaire, des stands non alimentaires : hygiène et entretien, linge de maison, ustensiles de cuisine.",
+    "site_web": "https://www.argenteuil.fr/fr/les-marches-argenteuillais",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Val+d+Argent+Nord+Argenteuil",
+    "image_url": "/images/marchands/marche-du-val-d-argent-nord-argenteuil.jpg",
+    "a_confirmer": true
   }
 ]
