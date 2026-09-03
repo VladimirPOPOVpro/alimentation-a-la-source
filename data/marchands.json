@@ -9474,5 +9474,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Paniers+de+Cérès+avenue+du+Club+Hippique+Aix-en-Provence",
     "image_url": "/images/marchands/les-paniers-de-ceres-aix.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-de-metz",
+    "nom": "Marché couvert de Metz",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.120056,
+    "lon": 6.173736,
+    "adresse": "Place de la Cathédrale, 57000 Metz",
+    "horaires": "Du mardi au samedi de 8h à 18h, fermé les jours fériés, selon la page que la Ville de Metz consacre au marché couvert ; l'office de tourisme donne les mêmes heures pour toute l'année 2026. Le tableau des marchés de la Ville écrit de son côté 7h à 17h30.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Charcuterie",
+      "Fromages",
+      "Vins",
+      "Spécialités régionales lorraines"
+    ],
+    "description": "Halle marchande adossée à la cathédrale, dans un bâtiment commencé en 1785 pour servir de palais épiscopal : le chantier est interrompu par la Révolution, la ville rachète l'édifice et l'achève au début du XIXe siècle ; il sert de marché depuis 1831 environ. L'office de tourisme y décrit des commerçants de bouche et une cuisine à la fois messine et venue d'ailleurs. La Ville donne l'adresse « place de la Cathédrale », l'office « place du Marché Couvert » ; l'entrée donne sur la place Jean-Paul II.",
+    "telephone": "0800 891 891",
+    "site_web": "https://metz.fr/lieux/lieu-983.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+Metz",
+    "image_url": "/images/marchands/marche-couvert-de-metz.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-central-de-metz",
+    "nom": "Marché central de Metz",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.11962,
+    "lon": 6.17511,
+    "adresse": "Places d'Armes et Jean-Paul II, 57000 Metz",
+    "horaires": "Samedi de 7h30 à 12h45.",
+    "produits": [
+      "Marché alimentaire de plein air",
+      "Producteurs bio lorrains, à repérer à l'affichage AB"
+    ],
+    "description": "Le marché de plein air du samedi matin, que la Ville de Metz installe sur les places d'Armes et Jean-Paul II, dans la cour du marché couvert. L'office de tourisme le dédouble en deux fiches, l'une pour le marché hebdomadaire, l'autre pour les producteurs bio lorrains qui y tiennent étal aux mêmes heures et qu'il invite à repérer à l'affichage AB. Aucune des deux autorités ne publie de liste d'étals.",
+    "telephone": "0800 891 891",
+    "site_web": "https://metz.fr/lieux/lieu-3790.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+central+Metz+place+d'Armes",
+    "image_url": "/images/marchands/marche-central-de-metz.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-place-philippe-de-vigneulles-metz",
+    "nom": "Marché de la place Philippe de Vigneulles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.106742,
+    "lon": 6.166714,
+    "adresse": "Place Philippe de Vigneulles, 57000 Metz",
+    "horaires": "Dimanche de 8h à 12h45.",
+    "produits": [
+      "Pommes Royal Gala d'Alsace",
+      "Pommes Pinova",
+      "Fruits et légumes"
+    ],
+    "description": "Le marché du dimanche matin du quartier Sainte-Thérèse, sur la place qui borde l'église. La Ville de Metz et l'office de tourisme donnent le même jour et les mêmes heures, ce qui est rare parmi les marchés messins. Les deux variétés de pommes citées sont celles qu'annoncent les ardoises d'un étal sur la photographie que la Ville publie pour cette place.",
+    "telephone": "0800 891 891",
+    "site_web": "https://metz.fr/lieux/lieu-2234.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Philippe+de+Vigneulles+Metz",
+    "image_url": "/images/marchands/marche-de-la-place-philippe-de-vigneulles-metz.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-bel-air-metz",
+    "nom": "Ferme Bel Air - boutique de Metz",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.11836,
+    "lon": 6.176764,
+    "adresse": "10 rue de Ladoucette, 57000 Metz",
+    "horaires": "Du mardi au samedi de 9h à 13h et de 14h à 18h30, selon la page que la ferme consacre à sa boutique de Metz. Sa page d'accueil écrit de son côté 9h à 18h30 sans coupure.",
+    "produits": [
+      "Farine de blé bio moulue à la ferme",
+      "Farine de petit épeautre",
+      "Huile de colza vierge première pression à froid",
+      "Tortilles, pâtes aux céréales anciennes",
+      "Viande de bœuf bio sous vide",
+      "Œufs bio",
+      "Moutardes, conserves et tartinades",
+      "Pain de campagne au blé et pain de petit épeautre"
+    ],
+    "description": "Boutique messine de la Ferme Bel Air, exploitation certifiée bio installée à Landroff, à 36 km à l'est : elle y vend ses farines, son huile de colza, ses pâtes, sa viande de bœuf et ses œufs, complétés d'une sélection d'autres artisans locaux. Les pains sont livrés le mardi, le jeudi et le vendredi par Les Pains Vagabonds, qui les élabore avec les farines de la ferme. Certificat Ecocert consultable en ligne, engagement de décembre 2012.",
+    "telephone": "07 88 67 35 79",
+    "site_web": "https://www.fermebelair.fr/nous-retrouver/boutique-de-metz/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+Bel+Air+rue+de+Ladoucette+Metz",
+    "image_url": "/images/marchands/ferme-bel-air-metz.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-l-avenue-de-nancy-metz",
+    "nom": "Marché de l'avenue de Nancy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.10746,
+    "lon": 6.165302,
+    "adresse": "Avenue de Nancy, 57000 Metz",
+    "horaires": "Mercredi et vendredi de 8h à 12h.",
+    "produits": [
+      "Marché alimentaire de plein air",
+      "Poissonnerie"
+    ],
+    "description": "Le marché de plein air du quartier de la Nouvelle Ville, sur l'avenue de Nancy. La Ville de Metz et l'office de tourisme donnent les mêmes jours et les mêmes heures, sans liste d'étals ni l'une ni l'autre ; la photographie que la Ville consacre à ce marché montre un banc de poissonnerie. Il se tient à 130 m du marché dominical de la place Philippe de Vigneulles, dont il ne partage aucun jour.",
+    "telephone": "0800 891 891",
+    "site_web": "https://metz.fr/lieux/lieu-2250.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+avenue+de+Nancy+Metz",
+    "image_url": "/images/marchands/marche-de-l-avenue-de-nancy-metz.jpg",
+    "a_confirmer": true
   }
 ]

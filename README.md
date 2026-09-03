@@ -1030,9 +1030,37 @@ prioritaires en cas de conflit.
    éviter. Ce que la règle débloque : les producteurs en vente sur commande, nombreux en périphérie
    des villes, ne sont plus écartés au motif qu'ils n'ont pas de comptoir.
 
+85. **Précision de la règle 83 : quand les places composantes sont à égalité de score et que
+   l'autorité publie elle-même un point pour le nom collectif, c'est son point qui est retenu.**
+   La Ville de Metz tient son marché du samedi « places d'Armes & Jean-Paul II ». La Base Adresse
+   Nationale ignore l'ensemble mais connaît les deux composantes **au même score, 0,967** : la
+   règle 83, qui départage par le score, ne tranche donc pas. La Ville, elle, publie pour ce marché
+   un point dans son propre annuaire de lieux, et le contrôle inverse le rattache au 12 place
+   d'Armes à 17 m et au 1 place Jean-Paul II à 22 m — il tombe entre les deux composantes nommées,
+   ce qu'aucune des deux adresses BAN ne fait. Critère : à égalité de score entre composantes, on
+   retient le point de l'autorité si le contrôle inverse le place à moins de 50 m d'au moins une
+   composante nommée ; sinon on revient à la règle 83 et l'on prend la composante au meilleur
+   score, en écrivant l'écart. L'idée est que le point de l'autorité désigne le barycentre du
+   marché, quand chaque composante n'en désigne qu'un bord.
+
+86. **Le vrac n'est pas un circuit court : une épicerie en vrac n'entre que si elle nomme ses
+   producteurs.** L'épicerie day by day de la place du Quarteau, à Metz, avait tout pour être
+   publiée : établissement ouvert au registre, certificat Ecocert en vigueur et consultable,
+   horaires complets jour par jour, téléphone, façade photographiée sans visage. Sa page
+   « Nos fournisseurs » a tranché autrement : Lustucru pour les pâtes, Weiss pour la confiserie,
+   Café Sati, Pronatura, Beendi — des marques nationales et des transformateurs, pas des
+   producteurs à portée de camionnette. Critère : ce qui fait entrer un commerce ici est la
+   **longueur de la chaîne**, pas le conditionnement. Vendre sans emballage est un progrès
+   environnemental réel, et il ne raccourcit aucune chaîne à lui seul. Une épicerie en vrac entre
+   quand elle publie le nom des producteurs dont elle vend les produits et qu'ils sont de la
+   région ; elle reste dehors quand sa liste de fournisseurs est une liste de marques, même
+   certifiée bio. La règle ne remet en cause aucune fiche déjà publiée : elle s'applique aux
+   candidatures à venir, et le prochain magasin de réseau rencontré devra montrer cette liste de
+   producteurs avant d'entrer.
+
 ## Marchands à confirmer
 
-329 fiches sur 363 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+334 fiches sur 368 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1377,7 +1405,13 @@ prioritaires en cas de conflit.
 - **Ma Terre** (Aix-en-Provence) (magasin indépendant qui se présente « 100 % bio et 100 % local » : fruits et légumes de saison, pain au levain d'un paysan boulanger livré chaque jour, vrac, produits de la ruche, cosmétiques aux ingrédients locaux. **Pilier `environnement` sur pièce** : registre de l'Agence Bio, certificat **engagement en cours** chez Ecocert depuis avril 2008, avec URL de certificat consultable. **Deux établissements ouverts, un seul publié** : le registre des entreprises donne le siège au 4 rue Pierre de Coubertin, activité 47.21Z, et un second au 115 route de Roquefavour ; le registre bio liste les deux adresses et **type la première « Lieux de vente » et « Siège social »**, la seconde « Lieux d'activité » seulement — c'est donc le point de vente qui est publié, et c'est bien celui dont le magasin donne les horaires sur son propre site. Point BAN sur le numéro 4 à 0,971, contrôle inverse à 0 m, à 44 m du point de l'Agence Bio. **Les huit prénoms de l'équipe, que le magasin publie avec une citation chacun, ne sont pas repris.** Photo : les cageots de pommes anciennes publiés par le magasin, étiquettes manuscrites lisibles — « Reinette Clochard », « De L'Estre », « Serveau », « Reinette Dorée de la Sarthe », « Fenouillet Gris », « Boskoop Rouge » — aucune personne dans le cadre)
 - **Les Paniers de Cérès** (Aix-en-Provence) (**première fiche publiée au titre de la règle 84** : exploitation maraîchère familiale qui cultive à Aix depuis 1970, engagement Ecocert consultable au registre de l'Agence Bio depuis mars 1995, mais qui écrit sur sa page « Livraisons » ne disposer que « d'un atelier de préparation de commandes et d'un bureau d'accueil uniquement, mais pas de magasin ouvert au public » — le champ `horaires` commence donc par le dire. C'est l'enseigne qui est publiée, règle 3 : la société est immatriculée « LES PLANTS DE CERES », l'enseigne au registre est « LES PANIERS DE CERES », et le site distingue les deux comptoirs, celui des particuliers et celui des professionnels, avec deux numéros différents — c'est le numéro des particuliers qui est inscrit. **Deux adresses de retrait sur le même site, à 49 m l'une de l'autre** : la page « Contact » donne le 535 avenue du Club Hippique, la page « Livraisons » le 30 chemin des Cavaliers ; c'est la première qui est publiée, parce qu'elle est à la fois le siège au registre des entreprises et le « Lieu de vente » du registre bio, et parce que son point BAN est **identique au dix-millionième de degré** à celui de l'Agence Bio. **Le catalogue distingue lui-même « notre production » de l'acheté** — le pamplemousse y est marqué « Origine Afrique du Sud » — et seuls les produits de la première catégorie sont listés, dans l'esprit de la règle 29. **Le patronyme de la famille, que le site publie sur ses couvertures de livres et dans une adresse électronique, n'est pas repris**, et aucune de ses photographies de famille n'est utilisée. Photo thématique de la même commune au titre de la règle 1 : les poivrons, ails et courgettes rondes de la plaquette de la Ville d'Aix — l'image ne prétend pas montrer l'exploitation)
 
-Les 363 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché couvert de Metz** (halle marchande adossée à la cathédrale, dans un bâtiment commencé en 1785 pour être un palais épiscopal, interrompu par la Révolution, racheté par la ville et achevé au début du XIXe siècle ; marché depuis 1831 environ, selon l'office de tourisme. **Horaires contredits par la Ville avec elle-même** : son tableau général des marchés écrit 7h-17h30, la page qu'elle consacre au marché couvert écrit « du mardi au samedi de 8h à 18h, fermé les jours fériés », et l'office de tourisme donne les mêmes 8h-18h pour toute l'année 2026. Règle 80 : la page dont l'objet déclaré est ce marché l'emporte, et ici une seconde autorité la confirme — 8h-18h est publié, 7h-17h30 est écrit dans le champ. **Adresse contredite entre autorités** : la Ville écrit « place de la Cathédrale », l'office « place du Marché Couvert », et la Base Adresse Nationale ne connaît ni l'une ni l'autre — 0,495 pour la première, 0,671 sur une localité « Cour du Marché Couvert » pour la seconde. C'est l'adresse de la Ville qui est publiée et le point de la Ville qui est retenu, règle 64, avec un contrôle inverse à 6 m du 16 place de Chambre. Les six familles de produits sont celles que l'office énumère. Photo : la façade et son enseigne, publiée par l'office ; la plaque de rue « PLACE JEAN PAUL II » y est lisible à côté de l'entrée, ce qui documente au passage l'adresse de la cour)
+- **Marché central de Metz** (le marché de plein air du samedi matin, dans la cour du marché couvert. **Première fiche publiée au titre de la règle 85** : la Ville le situe « places d'Armes & Jean-Paul II », la Base connaît les deux composantes **au même score de 0,967**, si bien que la règle 83 ne départage pas ; c'est le point que la Ville publie elle-même qui est retenu, dont le contrôle inverse tombe à 17 m du 12 place d'Armes et à 22 m du 1 place Jean-Paul II. **L'office de tourisme dédouble ce marché en deux fiches** — « Marché hebdomadaire Metz Cathédrale », sans horaire, et « Marche bio lorrain Metz », samedi 07:30-12:45, mêmes heures que la Ville : ce sont deux vues du même marché, pas deux marchés, et une seule fiche est publiée. Les producteurs bio lorrains que l'office invite à repérer « à l'affichage AB » sont cités dans `produits` mais **ne fondent pas le pilier `environnement`**, règle 68 : aucun certificat n'est attaché à un étal nommé. `produits` ne porte que deux lignes, aucune des deux autorités ne publiant de liste d'étals. Photo : l'étal de légumes que la Ville publie pour ce marché, **recadrée sous la ligne des têtes** — céleri-branche, poivrons, oignons, aubergines et haricots ; le tiers haut de l'original montre une dizaine de visages)
+- **Marché de la place Philippe de Vigneulles** (Metz) (le marché du dimanche matin du quartier Sainte-Thérèse, le long de l'église. Rare concorde messine : la Ville et l'office donnent le même jour et les mêmes heures, dimanche 8h-12h45. Point BAN sur la place à 0,967, contrôle inverse à 0 m. **`produits` lu sur une photographie, règle 74** : faute de liste d'étals, les deux variétés publiées — Royal Gala d'Alsace et Pinova — sont celles qu'annoncent les ardoises d'un étal de pommes sur la photo que la Ville consacre à cette place, et la fiche dit qu'elle les tient de là. Photo : cette même photo, **recadrée sous la ligne des têtes** — cageots de pommes et ardoises manuscrites ; la moitié haute de l'original montre trois visages nets)
+- **Marché de l'avenue de Nancy** (Metz) (le marché de la Nouvelle Ville, mercredi et vendredi 8h-12h, mêmes jours et mêmes heures chez la Ville et chez l'office. Point BAN sur l'axe de l'avenue à 0,974, contrôle inverse à 0 m, le 37 à 14 m. Il se tient à **130 m du marché de la place Philippe de Vigneulles**, dont il ne partage aucun jour : deux marchés voisins et distincts, chacun avec sa page chez les deux autorités. Photo : le banc de poissonnerie que la Ville publie pour ce marché, **recadré très bas, 980 × 351** — c'est la seule bande sans visage d'une image qui en compte cinq ; le format est plus plat que d'habitude, il reste moins étiré que celui de la fiche du marché de la place Richelme, et il montre ce que la fiche annonce)
+- **Ferme Bel Air - boutique de Metz** (**règle 20** : la fiche est posée sur la boutique du 10 rue de Ladoucette, la ferme de Landroff — à 36 km à l'est — étant nommée dans la description. Établissement messin ouvert au registre sous le siret 53040949900031, engagement Ecocert de décembre 2012 avec certificat en vigueur consultable, d'où le pilier `environnement`. **Horaires contredits par la ferme avec elle-même** : sa page d'accueil écrit « du mardi au samedi de 9h à 18h30 », la page qu'elle consacre à sa boutique de Metz « de 9h à 13h et de 14h à 18h30 » — règle 80, la page dédiée l'emporte et la coupure du midi est publiée, l'autre lecture étant écrite dans le champ. Le point de la Base et celui de l'Agence Bio sont **identiques au dix-millionième de degré**, contrôle inverse à 0 m. **Le nom de famille de l'exploitant n'est pas repris**, bien qu'il figure sur l'enseigne photographiée et dans le registre de l'Agence Bio : la fiche porte l'enseigne, même discipline qu'aux Paniers de Cérès. Le courriel de la boutique n'est pas repris non plus. Photo : la devanture publiée par la ferme sur sa propre page « Boutique de Metz », enseigne « ALIMENTATION — BIO & LOCALE » lisible, personne dans le cadre, 710 × 702)
+
+Les 368 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1405,6 +1439,106 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Metz
+
+Département visé : la **Moselle (57)**, déficit **5,5346** fiche au sens de la règle 41, aucune
+fiche publiée. La réserve de la règle 41.c ne mordait pas : la passe précédente avait visé les
+Bouches-du-Rhône, région 93, quand la Moselle est en région 44. Après la passe, le déficit du 57
+tombe à **0,6108** et le Rhône prend la tête à **5,22**.
+
+Commune retenue : **Metz**, 122 572 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre.
+
+**Les trois sources qui ont fait cette passe**, dans l'ordre où elles ont servi :
+
+- **`metz.fr`**, rubrique « Marchés », dont le tableau croise les sept marchés de la ville avec les
+  jours de la semaine, et dont chaque lieu a sa page `/lieux/lieu-<id>.php` avec ses horaires et sa
+  photographie. Une API non documentée, `metz.fr/api/lieux/?categorie=346`, rend les sept points en
+  un appel, avec le nom de fichier de la photo de chaque fiche.
+- **`www.tourisme-metz.com`**, le portail de l'agence Inspire Metz, qui consacre une fiche à chacun
+  des sept marchés messins et publie, pour le marché couvert et pour Sainte-Thérèse, des
+  photographies en 1 400 px de large — les seules images de qualité de cette passe.
+- **le registre de l'Agence Bio pour le 57** (875 opérateurs), filtré sur Metz et sa couronne :
+  83 opérateurs, dont l'écrasante majorité sont des supermarchés certifiés pour un rayon, des
+  logisticiens ou des boulangeries. Deux seulement méritaient l'enquête, et une seule est publiée.
+
+**Deux pièges de navigation, notés pour la prochaine fois.** `inspire-metz.com` **n'est pas** le
+portail touristique : c'est le site institutionnel de l'agence, vingt-quatre URL au sitemap, et sa
+recherche interne répond « Sorry, no results were found » à « marché couvert ». Le portail est
+`www.tourisme-metz.com`, dont le `/sitemap.xml` est une page HTML qui liste deux vrais sitemaps,
+`/sitemap-fr.xml` (202 URL) et `/sitlor/sitemap-fr.xml` (1 881 URL). Côté Ville, `metz.fr/sitemap.xml`
+répond 404 : l'index utilisable est `metz.fr/plan-site.php`.
+
+**Les trois marchés messins restés dehors, tous les trois pour la même raison : la photographie.**
+Jours et heures sont pourtant publiés **deux fois et à l'identique**, par la Ville et par l'office —
+c'est le dossier le mieux documenté qu'une piste ait présenté ici. Ce qui manque est une image
+utilisable :
+
+- **Marché de Borny, place Auguste Foselle** — mardi et vendredi de 8h à 12h30. La seule
+  photographie publiée par la Ville montre des portants de vêtements et une douzaine de visages
+  nets ; aucun étal alimentaire n'y est visible. L'office n'illustre pas sa fiche.
+- **Marché du Sablon, place Saint-Livier** — mercredi de 8h à 12h30. Même cas : l'image de la Ville
+  est une allée de stands de textile, passants de face au premier plan, pas un produit alimentaire
+  dans le cadre. La Ville signale par ailleurs que l'édition du 9 septembre 2026 est déplacée
+  autour de l'église Saint-Fiacre pour cause de fête patronale.
+- **Marché du quartier impérial, square du Général Mangin** — jeudi de 8h à 12h. Ici l'image de la
+  Ville ne montre pas le marché du tout : c'est la statue du square et la façade de la Grande Poste.
+
+**Critère de déblocage, commun aux trois** : une photographie du marché lui-même, sans visage
+identifiable ou floutée à la source, publiée par la Ville, par l'office ou par le marché. Les
+horaires et les points sont déjà vérifiés et n'auront pas à l'être de nouveau. La Base connaît la
+place Saint-Livier et le square du Général Mangin comme localités, toutes deux à 0,961, et leurs
+points tombent respectivement à 17 m et à 30 m de ceux que publie la Ville. Elle ne connaît pas la
+place Auguste Foselle sous ce nom : sa meilleure réponse est une « Place du Marché - Auguste
+Foselle » à 0,678, à 37 m du point de la Ville — c'est ce dernier qu'il faudra retenir, règle 64.
+
+**Marchés fermiers des producteurs, place Saint-Louis** — la piste la plus proche du sujet de ce
+site, et la seule que ni la Ville ni l'office ne datent assez pour être publiée. L'office la décrit
+comme la cinquième saison d'une manifestation organisée par la Ville de Metz avec la Chambre
+d'agriculture de la Moselle, Moselle Attractivité, l'association du quartier Saint-Louis et Ici
+Lorraine : **dix-sept stands de producteurs locaux** — primeur, glacier, boulanger, vins AOC,
+fromager, charcutier — le vendredi de 15h à 19h. Mais l'office ne publie **qu'une seule date**, le
+11 septembre 2026, et le mot « fermier » n'apparaît **nulle part** sur `metz.fr`, ni au plan du site
+ni dans la rubrique des marchés. Une fiche bâtie sur une date unique serait périmée le vendredi
+suivant. **Critère de déblocage** : le calendrier de la saison, publié par la Ville ou par l'office.
+
+**day by day, 27 place du Quarteau** — **refusée au titre de la règle 86**, écrite pour elle. Le
+dossier était complet : établissement ouvert au registre sous la raison sociale Place au Vrac,
+certificat Ecocert en vigueur et consultable (engagement de janvier 2020), horaires publiés jour par
+jour, téléphone fixe, et une devanture photographiée par le réseau lui-même, enseigne lisible et
+personne dans le cadre. C'est sa page « Nos fournisseurs » qui a tranché : Lustucru pour les pâtes,
+Weiss pour la confiserie, Café Sati, Pronatura, Beendi — des marques nationales et des
+transformateurs. Vendre sans emballage n'est pas vendre court. **Critère de déblocage** : une liste
+de producteurs régionaux publiée par le magasin de Metz.
+
+**Les Jardins du Val de Moselle** — maraîcher messin inscrit à l'Agence Bio, mais **l'adresse du
+registre est celle d'un établissement fermé** : le 50 rue de la Ronde porte le siret
+80826262000012, état F, quand le seul établissement ouvert de la société est au 15 chemin de la
+Petite Île. Deux sociétés voisines portent des noms presque identiques au 17 et au 19 du même
+chemin, dont une fermée. Ni site, ni horaire, ni photographie. **Critère de déblocage** : des
+horaires et une adresse publiés par l'exploitation elle-même.
+
+**Espace Test Agricole ENVOLS** — couveuse agricole de l'Euro-Métropole de Metz et de Cap
+Entreprendre, inscrite à l'Agence Bio avec une longue liste de cultures et, chose rare, le drapeau
+`venteParticuliers`. Elle n'est pourtant pas publiable : elle est immatriculée sous le siret de
+l'Euro-Métropole elle-même, son adresse au registre est la place du Parlement de Metz, et la
+recherche du site `eurometropolemetz.eu` ne rend aucune page à son nom. Aucun point de vente, aucun
+créneau. **Critère de déblocage** : un lieu et un horaire de vente publiés par l'Euro-Métropole.
+
+**La Ferme de Borny** — écartée au titre de la règle 25 : sa certification Ecocert est **arrêtée**
+depuis 2017, et le registre ne lui reconnaît que `venteProsGros`, pas de vente au particulier.
+
+**Le « marché bio lorrain » n'a pas eu de fiche** : l'office lui en consacre une, mais aux mêmes
+jour, heures et lieu que le marché central. C'est une vue du même marché, pas un second marché ;
+il est cité dans la fiche du marché central.
+
+**Écartés comme généralistes** : les Carrefour, Lidl, Intermarché, Colruyt, Super U et Leclerc du
+secteur, tous certifiés pour un rayon — MODERATION.md écarte les supermarchés. **Écartés comme sans
+vente au particulier** : les trois sites STEF, Promocash, Charal Metz, Fabre Graines, CIPF Codipal.
+**Non instruits, faute de temps et parce que cinq fiches étaient déjà trouvées** : Naturéo Metz et
+La Vie Claire boulevard de Trèves, deux enseignes bio de réseau qui devront, la prochaine fois,
+passer l'examen de la règle 86 avant d'entrer.
 
 ### Pistes non publiées à Aix-en-Provence
 
