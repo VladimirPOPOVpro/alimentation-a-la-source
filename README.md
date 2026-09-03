@@ -785,9 +785,32 @@ prioritaires en cas de conflit.
    illustrait le marché du Beau-Marais avec la photographie du marché de la place d'Armes sans le
    dire — la différence tient entièrement à ce que la source annonce.
 
+67. **Les coordonnées d'un JSON-LD se vérifient comme n'importe quel point, par contrôle inverse, et
+   jamais par la justesse de l'adresse qui les accompagne.** La page de Biocoop Libération porte des
+   données structurées où l'adresse postale est exacte — 234 cours de la Libération, 38100 Grenoble
+   — et où le bloc `geo` donne un point qui se retourne sur le 133 rue de Stalingrad, à **1,7 km**
+   de là. Les deux champs sont voisins dans le même objet, et l'un est faux. Critère : un point
+   auto-publié n'est retenu qu'après un contrôle inverse qui le fait retomber dans l'îlot de
+   l'adresse annoncée ; la justesse du champ d'à côté ne prouve rien. Ici la Base Adresse Nationale
+   rend le numéro à 0,983 et le point du registre de l'Agence Bio tombe dessus à 9 m : deux sources
+   indépendantes contre une, le JSON-LD est écarté. Ce n'est pas une exception à la règle 63, c'en
+   est le revers : là-bas la Base ignorait le numéro et le point du commerce était le seul
+   disponible ; ici la Base le connaît, et le point du commerce est simplement faux.
+
+68. **Le label « bio » qu'une autorité accole à un marché entier ne vaut pas le pilier
+   `environnement`.** La Ville de Grenoble décrit le marché Europole par ses seuls « Produits bios »,
+   l'office de tourisme l'appelle marché de producteurs bio, et la Métropole marque Europole comme
+   Flaubert d'un `#Bio`. Aucune des trois ne nomme un seul exposant. Critère : le pilier
+   `environnement` demande de retrouver un fournisseur nommé dans un registre, comme la règle 60
+   l'exige ; un label collectif posé sur un ensemble d'exposants anonymes se consigne dans la
+   description et dans les produits, pas dans les piliers. Ce n'est pas un doute sur l'honnêteté du
+   marché, c'est l'impossibilité de le vérifier. **Critère de déblocage** : une liste d'exposants
+   publiée par la commune ou par la Métropole, dont les certificats se retrouvent au registre de
+   l'Agence Bio — la même exigence que pour une AMAP.
+
 ## Marchands à confirmer
 
-284 fiches sur 318 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+289 fiches sur 323 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1078,7 +1101,13 @@ prioritaires en cas de conflit.
 - **Les Paniers d'Évry** (Évry-Courcouronnes) (l'AMAP du quartier du Village, distribution le jeudi soir à la mairie annexe. **Horaires contredits entre l'AMAP et son réseau, règle 5** : le site de l'association écrit 18h30-19h30, l'annuaire du réseau AMAP d'Île-de-France 18h30-19h45 ; les deux sont publiés, attribués, comme à l'AMAP de Chelles. Les cinq produits sont ceux que l'annuaire du réseau énumère — « Légumes, œufs, miel, fruits, pain » — et que le site de l'AMAP recoupe rubrique par rubrique. **Pas de pilier `environnement`, au titre de la règle 60** : l'association annonce des légumes et des œufs bio mais ne nomme aucun de ses producteurs, il n'y a donc aucun fournisseur à retrouver dans un registre. L'adresse de contact n'est pas reprise, et le nom du référent publié par l'annuaire non plus. Point BAN sur la place du Général-de-Gaulle à 0,963. **Photo thématique de la même commune, règle 1** : le site de l'AMAP est un Google Sites dont toutes les images répondent 403, avec ou sans référent ; c'est donc le visuel que la Ville publie pour le projet de budget participatif « Jardin partagé du parc Bataille » — deux mains repiquant un plant, aucun visage — qui illustre la fiche, et le README dit qu'il ne montre pas l'AMAP)
 - **Les Paniers du Potager** (Évry-Courcouronnes) (l'AMAP du quartier des Aunettes, salle LCR de la rue de l'Orge, jeudi 19h15-20h15 selon le réseau AMAP d'Île-de-France. **Seule fiche de la passe à porter le pilier `environnement`, et elle le doit à la règle 60** : le blog de l'association nomme son fournisseur depuis octobre 2025, la ferme de l'Aunette à Ris-Orangis, et l'un des deux maraîchers installés là en 2021 figure au registre de l'Agence Bio pour cette commune, en production de légumes biologiques — le fournisseur est donc retrouvé, ce qui manquait à Chelles comme aux Paniers d'Évry. **Aucun nom de personne n'est repris** : ni celui des deux maraîchers, ni celui de l'apicultrice, ni celui de la référente de l'annuaire ; la fiche porte les enseignes et les faits. Point BAN sur le 39 rue de l'Orge, `housenumber` à 0,978. Photo : l'ardoise du panier d'Évry du 18 septembre 2025, photographiée sous la serre du maraîcher et publiée par l'association — c'est elle qui a fourni la moitié des produits de la fiche, l'autre venant des relevés hebdomadaires du blog)
 
-Les 318 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **La Charrette Bio** (Grenoble) (association loi 1901 dirigée en collégiale par des productrices et producteurs de fermes bio de l'Isère, seize ans d'activité, camion peint d'une fleur de tournesol qui dresse un marché éphémère dans cinq lieux de la ville. Catégorie `amap` comme La Ruche qui dit Oui : commande en ligne sans engagement, retrait à une permanence fixe et hebdomadaire. **Fiche multi-dépôts sur le modèle des Paniers de Créteil** : les cinq permanences sont dans `horaires`, l'adresse retenue est celle du parvis de la gare SNCF, et les cinq points ont été contrôlés un par un à la Base Adresse Nationale — gare 12 m, Île Verte 29 m, Maison des Jeux 44 m, Direction départementale des territoires 60 m, La Bifurk 21 m. **Pilier `environnement` accordé sur deux appuis** : l'association est elle-même inscrite au registre de l'Agence Bio, certificat **engagement en cours** chez Ecocert depuis janvier 2022, siège déclaré au MIN de Grenoble — le registre l'orthographie « LA CHARETTE BIO », d'un seul R, comme l'adresse électronique de l'association et contre l'enseigne du camion ; et dix-sept des fermes annoncées ont été cherchées une par une au registre pour l'Isère, où treize sont **engagées**, deux **arrêtées** et deux absentes du département. La règle 60 est satisfaite deux fois plutôt qu'une ; la nuance sur les quatre fermes est écrite ici. **Le nombre de fermes n'est pas publié** : la Ville de Grenoble écrit « une vingtaine », le site de l'association en liste une quinzaine ; la fiche dit « des fermes bio de l'Isère » et s'arrête là. L'adresse électronique de l'association et le prénom du salarié qui assure la distribution ne sont pas repris. Photo : le bandeau du site de l'association, camion, pain, serres et fermes de l'Isère)
+- **Marché Europole** (Grenoble) (le marché de l'après-midi du quartier Europole. **Contradiction d'horaires entre trois autorités, règle 5** : la Ville de Grenoble et l'office de tourisme écrivent jeudi 15h-19h, Grenoble-Alpes Métropole écrit 15h-18h30 ; les deux versions sont publiées et attribuées. **Premier point pris à la commune au titre de la règle 64** : la Base Adresse Nationale ne connaît la place Firmin Gautier que comme un axe, à 0,806 — c'est le point que la Ville publie dans le code de sa propre fiche qui est retenu, à 16 m de cet axe et à 19 m du marqueur de l'office. La Base orthographie *Gautier*, l'office *Gauthier* : la fiche suit la Base. **Pilier `environnement` refusé au titre de la règle 68** malgré le « bio » des trois sources : aucune ne nomme un exposant. Photo : l'étal de fraises publié par l'office de tourisme pour cette fiche, aucun visage)
+- **Marché Flaubert** (Grenoble) (petit marché du vendredi soir devant La Bifurk, le seul des trois où la Ville énumère les produits — légumes, fruits, fromage, viande, pain, plantes, tofu, miel. La Ville et la Métropole s'accordent sur le jour et l'heure. **Le point de la Ville est faux de 107 m** : il se retourne sur l'avenue Marcelin Berthelot, quand la Base Adresse Nationale rend le 2 rue Gustave Flaubert à 0,971 — c'est la Base qui est suivie, et le contrôle recoupe à 21 m le marqueur que La Charrette Bio publie pour sa permanence du jeudi, à la même adresse, la veille. **Photo thématique au titre des règles 1 et 66** : aucune photographie de ce marché n'existe dans les sources accessibles, et la Métropole illustre **toutes** ses pages de marchés d'un même bandeau générique, attribué à aucun marché en particulier — c'est lui qui sert, **recadré sous la ligne des visages** ; la moitié haute de l'original montre une maraîchère de face)
+- **Marché Place aux Herbes** (Grenoble) (le marché quotidien du cœur historique, ouvert tous les jours sauf le lundi, et qui devient le vendredi après-midi le marché des montagnes de l'Isère. **Sources complémentaires, pas contradictoires** : la Ville donne les horaires complets, l'office de tourisme résume « tous les jours sauf le lundi », la Métropole ne retient que les matinées et omet l'après-midi du vendredi — c'est la Ville qui fait foi et l'omission est signalée dans `horaires`. Les produits reprennent mot pour mot la rubrique « Informations pratiques » de la Ville, faute de liste d'étals, même discipline qu'au Mont-Mesly et à Roubaix. Point BAN sur le numéro à 0,967. Photo : la vue des étals sous les auvents publiée par l'office de tourisme, deux silhouettes lointaines et aucun visage lisible)
+- **Biocoop Libération** (Grenoble) (le magasin est immatriculé sous « BIOLIBE » ; c'est l'enseigne du réseau coopératif qui est publiée, règle 3, comme au Bessillon et à Calais. Revenu à l'enseigne et rouvert le 15 janvier 2026. **Première fiche publiée au titre de la règle 67** : les données structurées de sa page donnent la bonne adresse et un point faux de 1,7 km, qui se retourne rue de Stalingrad ; ce sont la Base Adresse Nationale, à 0,983 sur le numéro, et le registre de l'Agence Bio, à 9 m de ce numéro, qui font foi. Les huit produits sont les catégories que l'exploitant déclare lui-même au registre. Certificat **engagement en cours** chez Ecocert ; le registre date cet engagement de septembre 2019 quand la société n'est immatriculée que depuis février 2023 — la date est attribuée au registre plutôt que réécrite. L'adresse électronique de gérance n'est pas reprise. Photo : la façade et l'enseigne publiées par le magasin, personne dans le cadre)
+
+Les 323 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1106,6 +1135,134 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Grenoble
+
+Seizième passe en ville. Département visé : l'**Isère (38)**, déficit **5,99** fiche au sens de la
+règle 41, aucune fiche publiée — premier du classement à la sortie de la passe d'Évry-Courcouronnes.
+La réserve de la règle 41.c ne mordait pas : la passe précédente avait visé l'Essonne, région 11,
+quand l'Isère est en région 84. Après la passe, le déficit du 38 tombe à **1,0849** et le
+**Val-d'Oise** prend la tête à **6,0037**, en région 11.
+
+Commune retenue : **Grenoble**, 156 140 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre par population — et
+elle en aurait rendu sept : deux marchés de plus sont entièrement documentés, photographie comprise,
+et attendent la prochaine passe faute de place dans celle-ci.
+
+**Le site de la Ville publie les coordonnées de ses marchés en clair.** Après Toulouse, Roubaix,
+Calais et Évry-Courcouronnes, où la coquille d'une application JavaScript se faisait passer pour la
+page, Grenoble est l'inverse exact : chaque équipement a une
+page `/lieu/<id>/137-<slug>.htm` rendue côté serveur, qui porte l'adresse, une rubrique
+« Informations pratiques » qui tient lieu de liste de produits, les horaires, et — dans le code de
+la page — un couple `"latitude":…/"longitude":…`. Les trois sitemaps fonctionnent :
+`sitemap.page.xml` (815 URL), `sitemap.module.xml` (1 692) et `sitemap.document.xml` (218). La leçon
+est double, parce que **deux de ces trois points se sont révélés faux ou grossiers** : voir plus bas.
+
+**Les quatre sources qui ont fait cette passe**, dans l'ordre où elles ont servi :
+
+- **`www.grenoble.fr`**, pour les trois marchés publiés — adresse, produits, horaires — et pour
+  l'article du magazine municipal du 28 août 2025 consacré à La Charrette Bio, qui confirme le
+  téléphone, le site, les cinq points de retrait, les deux formats de panier et le fonctionnement
+  sans engagement.
+- **`www.grenoble-tourisme.com`**, dont chaque fiche `/fr/catalogue/detail/<slug>-<id>/` porte sa
+  propre `og:image` sur `media.grenoble-tourisme.com` : c'est la seule source de photographies
+  attribuées à un marché précis, et donc la source de deux des cinq images.
+- **`www.grenoblealpesmetropole.fr`**, rubrique `/marche/<id>/217-<slug>.htm`, qui donne jour et
+  heure et étiquette chaque marché (`#Marché de l'après-midi`, `#Alimentaire`, `#Bio`,
+  `#Produits locaux`). C'est la source qui contredit les deux autres sur Europole.
+- **le registre de l'Agence Bio pour le 38**, 2 233 opérateurs, filtrés sur Grenoble : 41 vendent
+  au particulier. C'est là qu'ont été vérifiés le certificat de Biocoop Libération, celui de La
+  Charrette Bio elle-même, et treize des dix-sept fermes qu'elle annonce.
+
+**La contradiction d'horaires du marché Europole, tranchée par la règle 5.** La Ville écrit
+« Jeudi de 15h à 19h », l'office de tourisme écrit la même chose, la Métropole écrit
+« Jeudi, 15h-18h30 ». Deux autorités contre une, mais la troisième est celle qui gère les marchés à
+l'échelle de l'agglomération : aucune ne l'emporte, les deux versions sont publiées et attribuées
+dans le champ `horaires`. Le visiteur qui vient à 18h45 saura qu'il prend un risque.
+
+**L'omission du marché Place aux Herbes.** La Ville publie quatre plages — mardi à vendredi 7h-13h,
+samedi et dimanche jusqu'à 13h30, et le vendredi de 15h à 19h. La Métropole ne retient que les
+matinées et laisse tomber l'après-midi du vendredi, qui est pourtant le moment où le marché devient
+celui des montagnes de l'Isère. Ce n'est pas une contradiction mais une source moins complète : la
+Ville fait foi, et `horaires` dit que la Métropole ne mentionne que les matinées.
+
+**Deux points de géolocalisation faux sur trois, publiés par la Ville elle-même.** Le site de
+Grenoble donne pour le marché Flaubert un couple qui se retourne sur l'avenue Marcelin Berthelot, à
+**107 m** de l'adresse qu'il annonce lui-même deux lignes plus haut ; la Base Adresse Nationale rend
+le 2 rue Gustave Flaubert à 0,971, et c'est elle qui est suivie. Pour Europole, en revanche, la Base
+ne connaît la place Firmin Gautier que comme un axe, à 0,806 : c'est le point de la Ville qui est
+retenu, au titre de la règle 64, à 16 m de cet axe. Une même source, deux qualités opposées, selon
+que la Base sait ou non répondre — d'où la discipline : le contrôle inverse, toujours, avant de
+retenir un point.
+
+**Le point faux le plus spectaculaire est celui de Biocoop Libération**, et il est à l'origine de la
+règle 67. Les données structurées de la page du magasin donnent une adresse postale exacte et, dans
+le même objet, un bloc `geo` qui tombe **1,7 km** plus au nord, sur le 133 rue de Stalingrad. La
+Base Adresse Nationale rend le numéro à 0,983 et le point du registre de l'Agence Bio tombe dessus à
+9 m : c'est ce numéro qui est publié.
+
+**Le « bio » des marchés n'a pas donné le pilier `environnement`**, et c'est l'objet de la règle 68.
+Trois autorités qualifient Europole et Flaubert de bio, aucune ne nomme un exposant. Le label est
+consigné dans la description et dans les produits ; le pilier attend une liste d'exposants
+vérifiable au registre.
+
+**La Charrette Bio est inscrite au registre sous un nom qui n'est pas le sien.** L'Agence Bio
+l'orthographie « LA CHARETTE BIO », d'un seul R, avec le SIRET 514802099 00028, siège au MIN, 117
+rue des Alliés, certificat **engagement en cours** chez Ecocert depuis janvier 2022 ; l'association
+utilise la même orthographe dans son adresse électronique, quand le camion et le site en portent
+deux. La graphie du registre n'est pas reprise : la fiche porte l'enseigne. Le registre des
+entreprises confirme un établissement ouvert et une création au **15 juin 2009**, ce qui recoupe les
+« seize ans » du magazine municipal d'août 2025 — la fiche écrit « depuis 2009 » plutôt que de
+recopier un décompte qui a vieilli d'un an.
+
+**Le nombre de fermes de La Charrette Bio n'est pas publié** : la Ville écrit « une vingtaine de
+fermes agricoles bio de l'Isère », le site de l'association en présente une quinzaine. L'écart est
+trop petit pour trancher et trop grand pour être ignoré ; la fiche dit « des fermes bio de l'Isère ».
+
+**Deux marchés entièrement documentés, gardés pour un prochain passage à Grenoble**, faute de place
+dans les cinq fiches de la passe. Ce ne sont pas des pistes bloquées : elles sont prêtes.
+
+- **Marché de l'Estacade**, 2 rue Joseph Rey, angle avenue de Vizille — du mardi au vendredi de 7h à
+  13h, samedi et dimanche jusqu'à 13h30 ; point BAN sur le numéro ; photographie de l'office de
+  tourisme dont la bande supérieure porte l'enseigne « MARCHÉ DE L'ESTACADE » et ne montre aucun
+  visage.
+- **Marché Hoche**, place André Malraux — le samedi de 7h à 13h30 ; l'office de tourisme l'appelle
+  marché de producteurs bio et lui consacre une fiche avec photographie.
+
+**Quatre marchés écartés, chacun pour une raison différente** :
+
+- **Marché Victor Hugo** — la Ville le décrit par « Articles manufacturés et artisanat » : pas de
+  vente alimentaire, hors sujet.
+- **Marché Libération** et **Marché de l'Île Verte** — les fiches de la Ville portent l'adresse mais
+  ni produits ni horaires, et aucune autre autorité ne les complète. En dessous du seuil de la
+  règle 16. **Critère de déblocage** : un horaire publié par la Ville ou par la Métropole.
+- **Marché d'intérêt national (Grand marché des Alpes)** — marché de gros réservé aux
+  professionnels, hors sujet, bien qu'il serve d'entrepôt frigorifique à La Charrette Bio.
+
+**Écartés comme enseignes de distribution** : les quatre Carrefour City et Express de Grenoble,
+l'Intermarché Express et SEMARDIS, tous inscrits au registre de l'Agence Bio pour leur rayon bio —
+même traitement qu'à Saint-Maximin-la-Sainte-Baume pour La Vie Claire et qu'à Calais pour les
+Carrefour. Biocoop est publiée parce que c'est une coopérative où les paysannes et paysans associés
+votent au même titre que les magasins et les associations de consommateurs — le réseau l'écrit sur
+la page même du magasin — et parce que ses magasins portent une enseigne propre, publiée au titre de
+la règle 3 comme au Bessillon et à Calais.
+
+**Sept pistes grenobloises repérées au registre et non instruites**, faute de temps dans cette
+passe : La Ferme de Bonne, Le Pain des Cairns, Le Habert du Pain, Mille Pousses, Les Jardins Vivants,
+La Brûlerie des Alpes et Mon Sac en Vrac (Day by Day). Aucune n'a été vérifiée : elles sont notées
+ici comme point de départ du prochain passage, pas comme fiches à moitié faites.
+
+**`labifurk.org` ne résout pas.** Le lieu qui accueille le marché Flaubert et la permanence du jeudi
+de La Charrette Bio a un nom de domaine mort : `labifurk.org` et `www.labifurk.org` renvoient tous
+deux un échec DNS. Aucun des deux n'est inscrit dans les fiches, application directe de la règle 62.
+C'est aussi ce qui a privé le marché Flaubert de photographie propre et l'a fait retomber sur la
+règle 1.
+
+**Données personnelles écartées** : l'adresse électronique de La Charrette Bio et celle de la gérance
+de Biocoop Libération, toutes deux publiées par les intéressés ; le prénom du salarié de
+l'association cité par le magazine municipal ; celui du fondateur cité par la presse locale. Les
+téléphones publiés — un mobile pour l'association, un fixe pour le magasin — sont ceux que chaque
+structure donne comme son contact, et que la Ville reprend pour la première.
 
 ### Pistes non publiées à Évry-Courcouronnes
 

@@ -8248,5 +8248,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Paniers+du+Potager+39+rue+de+l'Orge+Évry-Courcouronnes",
     "image_url": "/images/marchands/les-paniers-du-potager.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-charrette-bio",
+    "nom": "La Charrette Bio",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.1909521,
+    "lon": 5.7151061,
+    "adresse": "Parvis de la gare SNCF, place de la Gare, 38000 Grenoble",
+    "horaires": "Commande sur le site avant le dimanche soir, puis retrait et paiement à l'une des cinq permanences : mardi de 16h30 à 19h au parvis de la gare SNCF ; mercredi de 11h45 à 14h à l'Île Verte (3 avenue Maréchal Randon) et de 17h30 à 19h à la Maison des Jeux (48 quai de France) ; jeudi de 16h à 17h à la Direction départementale des territoires (17 boulevard Joseph Vallier) et de 17h45 à 19h à La Bifurk (2 rue Gustave Flaubert).",
+    "produits": [
+      "Paniers de légumes de saison",
+      "Fruits",
+      "Pain et farine",
+      "Œufs",
+      "Miel et huile",
+      "Viande de bœuf, de porc et volaille",
+      "Fromages de chèvre",
+      "Bière"
+    ],
+    "description": "Association de productrices et de producteurs de fermes bio de l'Isère qui vendent eux-mêmes leurs produits en circuit court depuis 2009, à bord d'un camion peint d'une fleur de tournesol qui dresse un marché éphémère dans cinq lieux de Grenoble. On compose son panier en ligne sans engagement, on le retire à la permanence de son choix : le panier de légumes de saison coûte 11 € pour une à deux personnes, 16 € pour deux à quatre. Pots de yaourts, bouteilles et boîtes à œufs repartent chez les producteurs à chaque tournée.",
+    "telephone": "06 58 14 72 09",
+    "site_web": "https://www.lacharrettebio.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Charrette+Bio+gare+de+Grenoble",
+    "image_url": "/images/marchands/la-charrette-bio.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-europole-grenoble",
+    "nom": "Marché Europole",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.19082,
+    "lon": 5.71158,
+    "adresse": "1 place Firmin Gautier, 38000 Grenoble",
+    "horaires": "Le jeudi de 15h à 19h selon la Ville de Grenoble et l'office de tourisme ; Grenoble-Alpes Métropole écrit de 15h à 18h30.",
+    "produits": [
+      "Produits biologiques",
+      "Produits locaux"
+    ],
+    "description": "Le marché de l'après-midi du quartier Europole, sur la place Firmin Gautier. La Ville de Grenoble le décrit par ses seuls produits bios ; l'office de tourisme l'appelle marché de producteurs bio, et la Métropole le range parmi ses marchés de l'après-midi en le marquant « bio » et « produits locaux ». Aucune des trois autorités ne publie la liste des étals.",
+    "site_web": "https://www.grenoble.fr/lieu/1663/137-marche-europole.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Europole+place+Firmin+Gautier+Grenoble",
+    "image_url": "/images/marchands/marche-europole-grenoble.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-flaubert-grenoble",
+    "nom": "Marché Flaubert",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.172949,
+    "lon": 5.729285,
+    "adresse": "2 rue Gustave Flaubert, 38100 Grenoble",
+    "horaires": "Tous les vendredis de 16h30 à 19h30.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Fromage",
+      "Viande",
+      "Pain",
+      "Plantes",
+      "Tofu",
+      "Miel"
+    ],
+    "description": "Petit marché de fin de semaine devant La Bifurk, dans le quartier Flaubert : la Ville de Grenoble le présente comme un rendez-vous de productrices et de producteurs locaux, et la Métropole le marque « bio » et « produits locaux ». La Charrette Bio tient sa permanence du jeudi à la même adresse, la veille.",
+    "site_web": "https://www.grenoble.fr/lieu/5293/137-marche-flaubert.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Flaubert+rue+Gustave+Flaubert+Grenoble",
+    "image_url": "/images/marchands/marche-flaubert-grenoble.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-aux-herbes-grenoble",
+    "nom": "Marché Place aux Herbes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.19301,
+    "lon": 5.72969,
+    "adresse": "2 place aux Herbes, 38000 Grenoble",
+    "horaires": "Du mardi au vendredi de 7h à 13h, samedi et dimanche jusqu'à 13h30, et le vendredi également de 15h à 19h. Grenoble-Alpes Métropole ne mentionne que les matinées.",
+    "produits": [
+      "Produits alimentaires",
+      "Le vendredi, marché des montagnes de l'Isère (producteurs locaux)"
+    ],
+    "description": "Le marché quotidien du cœur historique, sur la place aux Herbes, ouvert tous les jours sauf le lundi. Le vendredi après-midi, il devient le marché des montagnes de l'Isère et laisse la place aux producteurs locaux.",
+    "site_web": "https://www.grenoble.fr/lieu/197/137-marche-place-aux-herbes.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Place+aux+Herbes+Grenoble",
+    "image_url": "/images/marchands/marche-place-aux-herbes-grenoble.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-liberation-grenoble",
+    "nom": "Biocoop Libération",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.160006,
+    "lon": 5.709369,
+    "adresse": "234 cours de la Libération et du Général de Gaulle, 38100 Grenoble",
+    "horaires": "Lundi de 12h à 19h, du mardi au samedi de 9h à 19h ; fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Pain et pâtisserie",
+      "Produits laitiers",
+      "Œufs",
+      "Café, thé, cacao et épices",
+      "Huiles",
+      "Fleurs, plantes et graines",
+      "Traiteur préparé sur place"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop revenu à l'enseigne et rouvert le 15 janvier 2026 au sud de Grenoble, avec une large gamme de produits locaux et une offre traiteur préparée sur place. Il met en avant ses fournisseurs de proximité, dont une microbrasserie du Diois. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis septembre 2019.",
+    "telephone": "04 76 23 98 60",
+    "site_web": "https://www.biocoop-liberation.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Libération+Grenoble",
+    "image_url": "/images/marchands/biocoop-liberation-grenoble.jpg",
+    "a_confirmer": true
   }
 ]
