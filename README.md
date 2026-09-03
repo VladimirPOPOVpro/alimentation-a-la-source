@@ -995,9 +995,44 @@ prioritaires en cas de conflit.
    reprendre avec un géocodage à l'adresse, qui est cette fois numérotée ». Cinq d'entre eux font
    cette passe, et les cinq adresses se retournent au mètre près sur leur propre numéro.
 
+83. **Quand l'autorité désigne le lieu d'un marché par un nom collectif que la Base Adresse
+   Nationale ignore, on publie le point de celle des places composantes que la même autorité nomme
+   ailleurs.** La Ville d'Aix-en-Provence tient son grand marché alimentaire « places Comtales » :
+   la Base ne connaît ni « Places Comtales » ni « Place Comtale » — la meilleure réponse tombe à
+   0,542 sur un chemin des Platanes situé à trois kilomètres. Mais la même Ville écrit, dans son
+   avis de déplacement du 1er septembre 2026, que « le marché Prêcheur Fleurs qui se tient
+   habituellement sur les places Comtales » est exceptionnellement déplacé : elle nomme donc
+   elle-même une des places Comtales, et la Base connaît la place des Prêcheurs à 0,972, avec un
+   contrôle inverse à 0 m. L'adresse de l'URL d'une seconde page de la Ville,
+   `Antiquaires-brocanteurs-du-Pays-d-Aix-Place-de-la-Madeleine`, dont le texte parle des « Places
+   Comtales », confirme que la Madeleine en est une autre ; la page patrimoine de la place Verdun
+   rappelle qu'elle occupe l'emplacement de l'ancien Palais **Comtal**. Critère : le nom collectif
+   reste dans `adresse`, parce que c'est le mot que le visiteur lira sur place et dans les avis de
+   la Ville ; les coordonnées sont celles de la place nommée dont le score BAN est le plus élevé,
+   et l'écart maximal à l'intérieur de l'ensemble se mesure et s'écrit — ici 77 m entre les
+   Prêcheurs et Verdun, l'épaisseur d'un pâté de maisons. On n'invente pas l'énumération des places
+   composantes : seules celles que l'autorité nomme comptent. Prolonge la règle 26, qui traitait la
+   place inconnue de la Base, et la règle 64, qui la remplaçait par un croisement ; ici la Base
+   connaît les composantes, c'est l'ensemble qui lui manque.
+
+84. **Un producteur qui n'a pas de magasin ouvert au public entre quand même, à la condition que la
+   fiche le dise dans son champ `horaires`.** Les Paniers de Cérès cultivent à Aix depuis 1970,
+   portent un engagement Ecocert consultable et vendent leur propre production en paniers — mais
+   leur page « Livraisons » écrit noir sur blanc : « nous disposons d'un atelier de préparation de
+   commandes et d'un bureau d'accueil uniquement, mais pas de magasin ouvert au public ». La
+   tentation est de refuser la fiche, puisque personne ne peut y pousser une porte. Critère : ce
+   qui compte est qu'un visiteur puisse repartir avec les produits d'un producteur à cette adresse,
+   et non qu'il existe une vitrine — les fiches d'AMAP publiées ici sont exactement de cette forme,
+   un lieu et un créneau de retrait. La fiche entre donc si trois choses sont publiées : une adresse,
+   des jours et heures de retrait, et un moyen de commander ; et le champ `horaires` **commence par
+   dire qu'il n'y a pas de magasin**, avant de donner les créneaux. Sans cette phrase la fiche
+   mentirait par omission, ce qui est précisément le déplacement inutile que ce README cherche à
+   éviter. Ce que la règle débloque : les producteurs en vente sur commande, nombreux en périphérie
+   des villes, ne sont plus écartés au motif qu'ils n'ont pas de comptoir.
+
 ## Marchands à confirmer
 
-324 fiches sur 358 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+329 fiches sur 363 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1336,7 +1371,13 @@ prioritaires en cas de conflit.
 - **Marché couvert Saint-Martin** (Paris 10e) (quatorze commerçants permanents dans un marché de quartier dont la Ville souligne qu'il n'y a « pas trop de doublons ». Histoire vérifiée en trois temps : halle de 1854 par Eugène Petit et 162 emplacements, toiture effondrée sous la neige en 1879 et reconstruction l'année suivante, démolition à la fin des années 1980 au profit du marché actuel installé au rez-de-chaussée d'un immeuble, dont seuls les portiques de pierre rappellent l'ancienne halle. Point BAN sur le 31 rue du Château-d'Eau à 0,976, contrôle inverse à 0 m, le 33 à 7 m — les deux numéros de l'adresse officielle encadrent bien le point. Photo : la façade et le portique surmontés de l'enseigne « Marché Saint-Martin », **recadrée sur les 430 px du haut** ; le bas de l'original montre un cycliste et trois passants de face)
 - **Marché couvert La Chapelle** (Paris 18e) (dit marché de l'Olive, du nom de la rue : halle de fonte et de fer de 1 530 m² bâtie de 1883 à 1885 par Auguste-Joseph Magne dans le style des pavillons Baltard, rénovée en 2010, sur le site d'un ancien marché aux bestiaux du temps où La Chapelle était une commune distincte. **Premier marché de Paris à s'être lancé dans la consigne**, fin 2024 : contenant réutilisable acheté chez un commerçant, rapporté dans une borne, argent remboursé. **Le pilier `environnement` n'a pourtant pas été coché** : sur cette carte il repose sur un certificat bio consultable, règles 45 et 60, et la consigne n'en est pas un — le fait est dans la description, pas dans les piliers. Point BAN sur le 10 rue de l'Olive à 0,971, contrôle inverse à 0 m. Photo : la halle vue de la rue de Torcy sous un platane, banderole « Marché de la Chapelle » de la Ville, aucune personne)
 
-Les 358 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché de la place Richelme** (Aix-en-Provence) (le marché quotidien du centre ancien, et le seul de cette passe dont la commune atteste elle-même la vente directe : sa page patrimoine écrit que la place, appelée place aux Herbes avant 1930, se caractérise « depuis son origine à nos jours » par « la présence de producteurs, maraîchers ou jardiniers, vendant directement leurs produits frais chaque jour ». **Horaires tranchés par la règle 22** : la plaquette de février 2026 de la Ville fixe l'ouverture des ventes à 8h30 et l'arrêt à 13h pour les marchés « alimentaire », l'office de tourisme écrit 8h-13h ; c'est la commune qui fait foi sur son propre marché, l'écart de l'office est dans le champ. **L'arrêt à 12h30 des étals de poisson est une lecture de la plaquette, pas une déduction** : elle énumère les cinq catégories qui vont jusqu'à 13h — « alimentaire », « artisanat », « brocante », « prêcheurs fleurs », « textile » — et « poisson » est une sixième catégorie de sa légende, absente de cette liste ; l'arrêt général de 12h30 s'y applique donc, et le champ le dit en nommant la plaquette. Les huit produits sont ceux que l'office énumère pour son « marché aux fruits et légumes » des places Richelme et Comtales, plus le poisson qu'il place ici. Point BAN sur la place à 0,972, contrôle inverse à 0 m, et à 40 m du marqueur Apidae de l'office. Téléphone : le standard de la mairie d'Aix, que l'office publie lui-même sous la mention « Pour s'informer » et que la Ville affiche en pied de ses pages — un numéro institutionnel, pas la ligne d'un gestionnaire de marché comme celles écartées à Paris. Photo : le comptoir de fruits publié par l'office pour cette fiche, **recadré au-dessus de x = 200 et sous y = 900** — mangues, fraises, abricots, avocats et ardoises manuscrites ; le bord gauche de l'original porte un visage net et le haut deux autres)
+- **Marché alimentaire des places Comtales** (Aix-en-Provence) (le grand marché des mardis, jeudis et samedis devant le Palais de Justice et l'église de la Madeleine ; les autres jours, les mêmes places reçoivent le marché aux fleurs que la Ville nomme « Prêcheurs Fleurs ». **Première fiche publiée au titre de la règle 83** : la Base Adresse Nationale ne connaît pas « Places Comtales » — sa meilleure réponse tombe à 0,542 sur un chemin situé à trois kilomètres — mais la Ville nomme elle-même la place des Prêcheurs comme une des places Comtales dans son avis de déplacement du 1er septembre 2026, et la Base la connaît à 0,972 avec un contrôle inverse à 0 m. L'écart maximal à l'intérieur de l'ensemble est mesuré : **77 m** entre les Prêcheurs et la place Verdun. **238 m de la place Richelme**, ce que le contrôle de proximité signale ; deux marchés distincts, deux jours distincts, deux points distincts dans la Base — la règle 42 ne s'applique pas, comme au Cours Julien et à la Plaine. Les sept produits sont ceux de la fiche de l'office, qui traite Richelme et Comtales comme un seul marché. Photo thématique de la même commune au titre de la règle 1 : les tomates en cageots de la plaquette de la Ville, dont aucune photographie n'est attribuée à un marché précis — l'image ne prétend pas montrer cette place)
+- **Marché du Pont de Béraud** (Aix-en-Provence) (le marché de quartier de l'est de la ville, avenue Jean et Marcel Fontenaille, et le seul avec la place Richelme que la plaquette de la Ville inscrive aux sept jours de la semaine. La page de quartier le classe « marché alimentaire et divers étals » et n'en dit rien d'autre : `produits` n'a donc que deux entrées, et aucune n'est inventée — même discipline qu'à Marseille et au Mont-Mesly. Ni téléphone ni liste d'étals publiés. Point BAN sur l'avenue à 0,979, contrôle inverse à 0 m. Photo thématique de la même commune au titre de la règle 1 : les jattes d'olives, de tapenade et de tomates séchées de la plaquette de la Ville, **recadrées sous y = 400** — le haut de l'original montre une dizaine de visages nets)
+- **Ma Terre** (Aix-en-Provence) (magasin indépendant qui se présente « 100 % bio et 100 % local » : fruits et légumes de saison, pain au levain d'un paysan boulanger livré chaque jour, vrac, produits de la ruche, cosmétiques aux ingrédients locaux. **Pilier `environnement` sur pièce** : registre de l'Agence Bio, certificat **engagement en cours** chez Ecocert depuis avril 2008, avec URL de certificat consultable. **Deux établissements ouverts, un seul publié** : le registre des entreprises donne le siège au 4 rue Pierre de Coubertin, activité 47.21Z, et un second au 115 route de Roquefavour ; le registre bio liste les deux adresses et **type la première « Lieux de vente » et « Siège social »**, la seconde « Lieux d'activité » seulement — c'est donc le point de vente qui est publié, et c'est bien celui dont le magasin donne les horaires sur son propre site. Point BAN sur le numéro 4 à 0,971, contrôle inverse à 0 m, à 44 m du point de l'Agence Bio. **Les huit prénoms de l'équipe, que le magasin publie avec une citation chacun, ne sont pas repris.** Photo : les cageots de pommes anciennes publiés par le magasin, étiquettes manuscrites lisibles — « Reinette Clochard », « De L'Estre », « Serveau », « Reinette Dorée de la Sarthe », « Fenouillet Gris », « Boskoop Rouge » — aucune personne dans le cadre)
+- **Les Paniers de Cérès** (Aix-en-Provence) (**première fiche publiée au titre de la règle 84** : exploitation maraîchère familiale qui cultive à Aix depuis 1970, engagement Ecocert consultable au registre de l'Agence Bio depuis mars 1995, mais qui écrit sur sa page « Livraisons » ne disposer que « d'un atelier de préparation de commandes et d'un bureau d'accueil uniquement, mais pas de magasin ouvert au public » — le champ `horaires` commence donc par le dire. C'est l'enseigne qui est publiée, règle 3 : la société est immatriculée « LES PLANTS DE CERES », l'enseigne au registre est « LES PANIERS DE CERES », et le site distingue les deux comptoirs, celui des particuliers et celui des professionnels, avec deux numéros différents — c'est le numéro des particuliers qui est inscrit. **Deux adresses de retrait sur le même site, à 49 m l'une de l'autre** : la page « Contact » donne le 535 avenue du Club Hippique, la page « Livraisons » le 30 chemin des Cavaliers ; c'est la première qui est publiée, parce qu'elle est à la fois le siège au registre des entreprises et le « Lieu de vente » du registre bio, et parce que son point BAN est **identique au dix-millionième de degré** à celui de l'Agence Bio. **Le catalogue distingue lui-même « notre production » de l'acheté** — le pamplemousse y est marqué « Origine Afrique du Sud » — et seuls les produits de la première catégorie sont listés, dans l'esprit de la règle 29. **Le patronyme de la famille, que le site publie sur ses couvertures de livres et dans une adresse électronique, n'est pas repris**, et aucune de ses photographies de famille n'est utilisée. Photo thématique de la même commune au titre de la règle 1 : les poivrons, ails et courgettes rondes de la plaquette de la Ville d'Aix — l'image ne prétend pas montrer l'exploitation)
+
+Les 363 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1364,6 +1405,104 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Aix-en-Provence
+
+Département visé : les **Bouches-du-Rhône (13)**, déficit **5,8390** fiche au sens de la règle 41,
+cinq fiches publiées, premier du classement. La passe précédente visait Paris, région 11 ; les
+Bouches-du-Rhône sont en région 93, la réserve de la règle 41.c ne mord pas. Après la passe, le
+déficit du 13 tombe à **0,9904** et la **Moselle** prend la tête à **5,5346**, région 44, avec Metz
+pour commune la plus peuplée sans aucune fiche.
+
+Commune retenue : **Aix-en-Provence**, 149 695 habitants, la plus peuplée du département sans
+aucune fiche — Marseille, plus peuplée, en a cinq depuis la troisième passe en ville. Aix a rendu
+cinq points vérifiables sans qu'il faille redescendre.
+
+**Le site de la Ville est un SPIP, et c'est un soulagement.** Après les coquilles JavaScript de
+Toulouse, de Roubaix et de Calais, `www.aixenprovence.fr` rend du HTML complet page par page, avec
+un `sitemap.xml` de 2 275 URL qui liste une page de marché par quartier. Deux pièges tout de même.
+La page mère « Les marchés de la ville » ne contient **aucun horaire dans son corps de texte** : les
+heures ne sont que dans la **plaquette PDF** qu'elle met en pièce jointe. Et le **règlement des
+marchés A.2023-65**, l'acte réglementaire qui ferait foi au sens de la règle 78, est un **PDF
+scanné** : ses 534 flux ne portent aucune couche de texte, seulement des images JPEG. Toutes les
+heures de cette passe viennent donc de la plaquette, pas du règlement.
+
+**La plaquette est une grille en sept colonnes, dont les catégories sont graphiques.** Son texte
+donne, jour par jour, les quartiers et les places ; mais la correspondance entre chaque ligne et sa
+famille de produits passe par des pictogrammes qu'aucune extraction de texte ne rend. La
+classification a donc été prise ailleurs : **chaque page de quartier de la Ville écrit en clair
+« Marché alimentaire » ou « Marché alimentaire et divers étals »**, ce qui suffit, et c'est la
+commune elle-même qui trie — exactement comme la mention « Producteurs » de `marseille.fr`.
+
+**Les dix marchés alimentaires d'Aix, tels que la Ville les décrit**, trois publiés et sept en
+réserve : place Richelme (tous les jours), places Comtales (mardi, jeudi, samedi), avenue Jean et
+Marcel Fontenaille au Pont de Béraud (tous les jours) — les trois publiés ; puis **place
+Romée-de-Villeneuve à Encagnane** (lundi, mercredi, vendredi, dimanche), **avenue Robert-Daugey à
+Luynes** (lundi, mercredi, dimanche), **place André-Magnan au Val Saint-André** (mercredi,
+vendredi), **place de l'Église à Puyricard** (vendredi), **place de la Croix-Verte au Jas de
+Bouffan** (samedi), **place A.-Maurel aux Hauts d'Aix–Saint-Eutrope** (samedi, le seul que la Ville
+appelle « Marché alimentaire » sans y ajouter « et divers étals ») et **cours Brémond aux Milles**
+(lundi). **Critère de déblocage** : aucun — ces sept marchés sont publiables en l'état, au même
+titre que les trois retenus, et la seule raison de leur report est la limite de cinq fiches par
+passe. Ils sont la première chose à reprendre au prochain passage sur Aix.
+
+**Encagnane est le seul de la liste qui demande une vérification avant publication.** Sa page de
+quartier annonce, sous l'arrêté A.2025-415, que le marché est déplacé **à compter du 14 mars 2025,
+« jusqu'à la fin de l'année »**, sur trois contre-allées parallèles à l'avenue de l'Europe, et le
+dimanche sur la seule contre-allée de la paroisse Saint-Paul. Nous sommes en septembre 2026 :
+l'échéance annoncée est passée, mais l'avis est toujours en ligne et la page ne dit pas si le
+marché est revenu place Romée-de-Villeneuve. Publier l'une ou l'autre adresse serait tirer à la
+courte paille. **Critère de déblocage** : un avis de la Ville qui dise où le marché se tient
+après 2025, ou le retrait de l'avis de déplacement de la page.
+
+**Les Paniers de Cérès n'ont aucune photographie utilisable, et la règle 1 les a quand même
+publiés.** Les seules images de leur site sont des logos (AB, Ecocert, « Click and Collect »), une
+illustration dessinée de légumes, des couvertures de livres publiés par la famille et deux
+portraits de famille légendés du patronyme. Le cas ressemblait à celui du marché Héloïse, qui
+attend sous la règle 70 ; il en diffère sur le point qui compte : ici il **existe** des
+photographies thématiques honnêtes de la même commune, celles de la plaquette de la Ville, et la
+règle 1 est formelle — « une fiche exacte ne se reporte pas pour une question d'illustration ».
+**Critère de déblocage** : une photographie du lieu, qui remplacerait la vue thématique.
+
+**Ce qu'Aix ne documente pas.** Aucune liste d'étals, aucun métier, aucun nom de commerçant pour
+aucun des dix marchés : la Ville publie un quartier, une place, un jour et une famille de
+produits, et la plaquette ajoute deux bornes horaires valables pour toute la ville. Les huit
+produits des deux fiches du centre viennent tous de la **fiche Apidae de l'office de tourisme**,
+qui traite les places Richelme et Comtales comme un seul « marché aux fruits et légumes » ; le
+marché du Pont de Béraud, faute de cette source, n'a que deux entrées dans `produits`.
+
+**Le registre de l'Agence Bio pour le 13 compte 3 214 opérateurs**, dont 232 avec au moins une
+adresse à Aix-en-Provence et 68 qui déclarent la vente aux particuliers avec une activité de
+production ou de distribution. Deux seulement ont fait des fiches. Le reste s'écarte en quatre tas.
+**Raison sociale au patronyme, sans enseigne déclarée** : une trentaine d'entrées, du type
+« MADAME … » ou « … Prénom Nom », que MODERATION.md interdit de publier comme si c'était une
+enseigne. **Enseigne réelle mais aucune source d'horaires** : Lou Capeou (680 chemin de l'Aubère,
+Ecocert depuis 1995, aucun site), La Bardeline, Campagne Longchamp, la Ferme Granon et Fils, Jadines
+au 100 chemin de la Simone — toutes sous le seuil de la règle 16, faute d'un jour et d'une heure
+publiés. **Hors sujet ou généralistes** : l'Intermarché de l'avenue d'Avignon et Botanic à la
+Pioline, tous deux certifiés bio pour un rayon ; La Fabrique à Pain et sa succursale de Lignane,
+boulangeries bio qui achètent leur farine à des producteurs mais ne vendent pas leur propre
+récolte ; Lepaturage Développement, 9 rue des Cordeliers, « commerce de détail de produits à base
+de viande » sans site ni horaires ; La Casserie et la Compagnie des Amandes, même adresse rue des
+Allumettes, dont le second a un certificat **arrêté** depuis août 2024. **Certification arrêtée** :
+Bee's Garden, Boulangerie Bio Noé, La Ferme Aixoise, Le Paysan Moderne, l'EARL Romain Blanchard,
+l'Indivision Colette de Thé — règle 25.
+
+**Trois domaines viticoles bio de la commune restent en réserve** : le Château du Seuil et le
+Domaine de Belambrée à Puyricard, le Domaine Magalone au chemin du Pont Rout, tous trois avec un
+engagement vivant. Aucun n'a été ouvert cette passe : la carte compte déjà cent cinquante et un
+producteurs et le prompt rappelle qu'en ville l'enjeu est ailleurs. **Critère de déblocage** : des
+horaires de caveau publiés par le domaine lui-même, au sens de la règle 2.
+
+**Une source locale utile pour la suite** : le portail open data de la métropole,
+`data.ampmetropole.fr`, ne publie toujours aucun jeu de données sur les marchés — le constat de la
+troisième passe en ville, faite à Marseille, vaut encore pour Aix. En revanche l'office de tourisme
+d'Aix expose ses fiches Apidae en HTML complet, avec les coordonnées du marqueur dans un attribut
+`odms-map` et les photographies en pleine résolution sur `synapi.aixenprovencetourism.com`. Deux
+avertissements sur ce site : son `og:image` est un fichier `noimg-new.jpg` sur toutes les fiches
+consultées, donc inutile ; et le domaine `www.aixenprovence-tourism.com`, avec un tiret, **ne
+résout pas** — le bon domaine est `www.aixenprovencetourism.com`, sans tiret, vers lequel
+`aixenprovencetourisme.com` redirige aussi.
 
 ### Pistes non publiées à Paris — les marchés couverts
 

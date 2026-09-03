@@ -9332,5 +9332,147 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+couvert+de+la+Chapelle+rue+de+l'Olive+Paris",
     "image_url": "/images/marchands/marche-couvert-la-chapelle.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-place-richelme-aix",
+    "nom": "Marché de la place Richelme",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.528976,
+    "lon": 5.448202,
+    "adresse": "Place Richelme, 13100 Aix-en-Provence",
+    "horaires": "Tous les jours. La plaquette des marchés de la Ville d'Aix fixe l'ouverture des ventes à 8h30 et l'arrêt à 13h pour les marchés « alimentaire » ; les étals de poisson, qu'elle classe à part, s'arrêtent à 12h30. L'office de tourisme écrit de son côté 8h à 13h, toute l'année sauf le 1er janvier.",
+    "produits": [
+      "Fruits et légumes",
+      "Huile d'olive",
+      "Œufs",
+      "Fromages de chèvre",
+      "Miel",
+      "Guirlandes d'ail",
+      "Herbes aromatiques",
+      "Poissons et coquillages"
+    ],
+    "description": "Le marché quotidien du centre ancien, sur une place qui s'appelait place aux Herbes avant 1930 et que la Ville d'Aix décrit comme caractérisée « depuis son origine à nos jours » par la présence de producteurs, maraîchers ou jardiniers vendant directement leurs produits frais chaque jour. Le marché aux poissons s'y tient aussi tous les matins, à l'emplacement d'une halle aux poissons aujourd'hui disparue.",
+    "telephone": "04 42 91 90 00",
+    "site_web": "https://www.aixenprovence.fr/Les-marches-de-la-ville-3694",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Richelme+Aix-en-Provence",
+    "image_url": "/images/marchands/marche-de-la-place-richelme-aix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-places-comtales-aix",
+    "nom": "Marché alimentaire des places Comtales",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.528776,
+    "lon": 5.451134,
+    "adresse": "Places Comtales, 13100 Aix-en-Provence",
+    "horaires": "Mardi, jeudi et samedi. La plaquette des marchés de la Ville d'Aix fixe l'ouverture des ventes à 8h30 et l'arrêt à 13h pour les marchés « alimentaire » ; l'office de tourisme écrit 8h à 13h. Les mercredis, vendredis et dimanches, les mêmes places accueillent le marché aux fleurs, que la Ville nomme « Prêcheurs Fleurs ».",
+    "produits": [
+      "Fruits et légumes",
+      "Huile d'olive",
+      "Œufs",
+      "Fromages de chèvre",
+      "Miel",
+      "Guirlandes d'ail",
+      "Herbes aromatiques"
+    ],
+    "description": "Le grand marché alimentaire du quartier comtal, trois matins par semaine devant le Palais de Justice et l'église de la Madeleine. L'office de tourisme le présente avec celui de la place Richelme comme un seul marché aux fruits et légumes, où l'on trouve des producteurs, de l'huile d'olive, des œufs, des fromages de chèvre, du miel, des guirlandes d'ail et des herbes aromatiques. Le point publié est celui de la place des Prêcheurs, celle des places Comtales qui donne son nom au marché aux fleurs des autres jours.",
+    "telephone": "04 42 91 90 00",
+    "site_web": "https://www.aixenprovence.fr/Les-marches-de-la-ville-3694",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Places+Comtales+Aix-en-Provence",
+    "image_url": "/images/marchands/marche-des-places-comtales-aix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-pont-de-beraud-aix",
+    "nom": "Marché du Pont de Béraud",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.534307,
+    "lon": 5.465938,
+    "adresse": "Avenue Jean et Marcel Fontenaille, 13100 Aix-en-Provence",
+    "horaires": "Tous les jours. La plaquette des marchés de la Ville d'Aix fixe l'ouverture des ventes à 8h30 et l'arrêt à 13h pour les marchés « alimentaire ».",
+    "produits": [
+      "Alimentation générale",
+      "Étals divers"
+    ],
+    "description": "Le marché de quartier du Pont de Béraud, à l'est du centre, le long de l'avenue Jean et Marcel Fontenaille. C'est, avec la place Richelme, le seul marché qu'Aix tienne tous les jours de la semaine ; la Ville le classe « marché alimentaire et divers étals » et ne publie pas de liste d'étals.",
+    "site_web": "https://www.aixenprovence.fr/Marches-du-Pont-de-Beraud",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Pont+de+Béraud+Aix-en-Provence",
+    "image_url": "/images/marchands/marche-du-pont-de-beraud-aix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ma-terre-aix",
+    "nom": "Ma Terre",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.52265,
+    "lon": 5.460772,
+    "adresse": "4 rue Pierre de Coubertin, 13100 Aix-en-Provence",
+    "horaires": "Du lundi au samedi de 9h à 19h30, le dimanche de 9h à 13h.",
+    "produits": [
+      "Fruits et légumes locaux de saison",
+      "Produits laitiers de vache, brebis et chèvre, lait cru",
+      "Pain au levain d'un paysan boulanger, livré chaque jour",
+      "Vrac : céréales, légumineuses, riz",
+      "Épicerie salée et sucrée",
+      "Produits de la ruche",
+      "Jus, kombucha, bières et vins",
+      "Cosmétiques et produits d'entretien"
+    ],
+    "description": "Magasin indépendant qui se présente comme « 100 % bio et 100 % local » : fruits et légumes au rythme des saisons, pain au levain d'un paysan boulanger livré chaque jour, rayon vrac, produits de la ruche et cosmétiques aux ingrédients locaux. L'enseigne réunit ses producteurs une fois par an. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis avril 2008, avec un certificat consultable.",
+    "telephone": "04 42 26 83 65",
+    "site_web": "https://www.materre.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ma+Terre+4+rue+Pierre+de+Coubertin+Aix-en-Provence",
+    "image_url": "/images/marchands/ma-terre-aix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-paniers-de-ceres-aix",
+    "nom": "Les Paniers de Cérès",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.513911,
+    "lon": 5.430126,
+    "adresse": "535 avenue du Club Hippique, 13090 Aix-en-Provence",
+    "horaires": "Retrait des commandes du lundi au vendredi de 9h à 12h et de 16h à 19h, le samedi de 9h à 12h. Il n'y a pas de magasin ouvert au public : l'exploitation précise ne disposer sur place que d'un atelier de préparation et d'un bureau d'accueil, et les commandes se passent en ligne.",
+    "produits": [
+      "Paniers de légumes de saison",
+      "Corbeilles de fruits",
+      "Aubergines",
+      "Courgettes",
+      "Melons charentais et canari",
+      "Pastèques",
+      "Coulis de tomates",
+      "Caviar d'aubergines"
+    ],
+    "description": "Exploitation maraîchère familiale qui cultive à Aix depuis 1970 et qui dit avoir abandonné tout traitement chimique dans ses serres et ses jardins bien avant la certification. Elle vend sa production en paniers et en corbeilles, à retirer sur place ou livrés à vélo dans le centre-ville par un prestataire de cyclologistique ; son catalogue distingue explicitement « notre production » des fruits achetés ailleurs. Le registre de l'Agence Bio rattache son engagement Ecocert à mars 1995, avec un certificat consultable.",
+    "telephone": "04 42 59 00 35",
+    "site_web": "https://www.lespaniersdeceres.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Paniers+de+Cérès+avenue+du+Club+Hippique+Aix-en-Provence",
+    "image_url": "/images/marchands/les-paniers-de-ceres-aix.jpg",
+    "a_confirmer": true
   }
 ]
