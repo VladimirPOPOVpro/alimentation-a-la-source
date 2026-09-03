@@ -941,9 +941,46 @@ prioritaires en cas de conflit.
    déjà débarrassé. Prolonge la règle 5, qui traitait deux sources indépendantes ; ici les deux
    sources sont la même autorité, et c'est la forme du document qui départage.
 
+79. **Un domaine encore en ligne mais devenu support d'affiliation étrangère au commerce est un
+   domaine mort : il ne s'inscrit pas dans `site_web`.** L'office de tourisme de Rennes renvoie
+   depuis 2018 à `www.lacriee-marchecentral.com` pour « plus d'infos sur les commerces du marché
+   central ». Le domaine répond, porte le nom et l'histoire des Halles centrales — et intercale,
+   entre la présentation et les horaires, quatre encarts « Sponsors du site Web » vantant des
+   casinos en ligne sous licence de Curaçao, dans un texte visiblement traduit à la machine (« notre
+   nouveau vidéoobzore »), avec des avis Google recopiés sous les noms de leurs auteurs. Critère :
+   quand un site porte des liens commerciaux sans rapport avec l'activité du lieu, ou quand son
+   texte trahit une génération automatique, on ne l'inscrit pas, même si l'autorité l'a cité et même
+   s'il répond 200 ; on ne lui emprunte non plus aucun fait — ses horaires du dimanche, 9h-19h,
+   contredisent d'ailleurs ceux de l'office. Prolonge la règle 62, qui ne visait que les domaines
+   éteints, et la note Santa Lucia, qui visait les domaines rachetés pour un autre commerce : ici le
+   nom est intact et c'est l'usage qui a changé de main.
+
+80. **Deux pages non datées d'une même autorité qui se contredisent : celle dont l'objet déclaré est
+   le fait contesté l'emporte, et à égalité on retient la lecture qui coûte le moins au visiteur.**
+   L'office de tourisme de Rennes écrit, sur sa page « La liste des marchés — dates et horaires »,
+   que le marché couvert de la Criée ouvre à 9h ; dans un article de gastronomie, qu'il ouvre à 8h.
+   Aucun des deux n'est un acte réglementaire, la règle 78 ne tranche donc pas. Critère : la page
+   faite pour porter des horaires l'emporte sur l'article qui en cite un en passant ; si les deux
+   ont le même objet, on garde l'ouverture la plus tardive et la fermeture la plus tôt, parce qu'un
+   visiteur arrivé trop tôt attend une heure devant un rideau, quand celui qui arrive dans la
+   fourchette commune trouve le marché ouvert dans les deux hypothèses. L'écart s'écrit dans le
+   champ `horaires`, comme à la règle 78.
+
+81. **Un décompte tiré d'un jeu de données ouvert ne devient un fait publiable qu'après vérification
+   de son unité sur un cas témoin.** La Ville de Rennes publie « Les emplacements sur les marchés
+   dédiés au commerce non sédentaire » : 6 121 lignes, dont 1 523 portent `nom_marche = « Les
+   Lices »`. La tentation était d'écrire « 1 523 étals » sur la fiche du plus grand marché de la
+   ville. Le témoin l'interdit : le même jeu compte 1 757 lignes pour Sainte-Thérèse, un marché de
+   quartier d'une trentaine de commerçants, et 46 pour la Poterie. Une ligne n'est donc pas un
+   marchand mais un carré de marquage au sol, et le total ne mesure que la surface cadastrée.
+   Critère : avant de publier un nombre venu d'un jeu de données, on le recalcule sur un cas dont on
+   connaît déjà l'ordre de grandeur par une autre source ; si les deux ne s'accordent pas, le nombre
+   ne sort pas, et la raison s'écrit ici. Prolonge la règle 40, qui se méfiait des champs déclaratifs
+   d'un registre ; ici le champ est exact, c'est son unité qui trompe.
+
 ## Marchands à confirmer
 
-314 fiches sur 348 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+319 fiches sur 353 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1270,7 +1307,13 @@ prioritaires en cas de conflit.
 - **Moulin à huile Nicolas Alziari** (Nice) (le dernier moulin à huile d'olive en activité à Nice, fondé en 1868 dans le quartier de la Madeleine, avec visite guidée gratuite toute l'année et trituration visible de la mi-octobre à décembre. **Le site officiel a été retrouvé par redirection, règle 76** : le comité régional donne `www.alziari.com.fr`, et `alziari.com.fr` sans le `www` affiche une page « Site en construction » d'hébergeur — c'est le `www` qui redirige vers `www.nicolas-alziari.com`, authentifié par la raison sociale du registre bio, « SAS NEOLIVE – Moulin à huile Alziari », et par l'adresse. **Contradiction interne au site, règle 5** : la page « Nos points de vente » ouvre la boutique du moulin du lundi au vendredi, la page « Le moulin » annonce les visites du lundi au samedi aux mêmes heures ; les deux sont dans `horaires`. **Pilier `environnement`** sur un certificat **engagement en cours**, Qualisud, mai 2017, et sur les soixante hectares d'oliveraies que la maison déclare cultiver en bio autour de Nice. Le registre des entreprises confirme trois établissements ouverts et un fermé, celui de la Gare du Sud. Point BAN sur le numéro 318 à 0,991, **identique au millionième de degré** au point du registre de l'Agence Bio, et à moins d'un mètre de celui que l'INSEE attache au siège de l'entreprise — trois sources sur le même point. Photo : les deux enseignes peintes du moulin, « Produits provençaux – En vente ici » et « Moulin à huile d'Olive Alziari 1868 », publiées par la maison ; **le panneau est lu comme un document, règle 74** — c'est lui qui atteste la vente sur place. Aucune personne dans le cadre ; la photographie de la trituration, elle, a été écartée parce qu'un visage net occupe son tiers droit)
 - **Boutique Nicolas Alziari du Vieux Nice** (la boutique de la même maison, ouverte en 1936 rue Saint-François-de-Paule, à 295 m du Cours Saleya et à 3,9 km du moulin : deux fiches parce que deux établissements distincts au registre des entreprises, deux téléphones, deux jeux d'horaires — la boutique ouvre le dimanche, le moulin non. Horaires, produits et téléphone viennent de la page « Nos points de vente » et de la page « La boutique », concordantes. **Pas de pilier `environnement`** : le certificat bio de la maison porte le SIRET du moulin, pas celui de la boutique — règle 39. **Le prénom de la femme de la famille qui a longtemps tenu la boutique, que la maison publie, n'est pas repris**, ni les deux frères qui la dirigent aujourd'hui. Point BAN sur le numéro 14 à 0,976, contrôle inverse à 0 m. Photo : la devanture ocre sous l'enseigne peinte et les rayons de bocaux, publiées par la maison, aucune personne dans le cadre)
 
-Les 348 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché des Lices** (Rennes) (le plus ancien et le plus grand marché de la ville, sur la place des joutes de chevaliers, en plein air et sous les deux halles Martenot. **Trois autorités, un seul jour, aucune heure** : la Ville de Rennes, Rennes Métropole et l'office de tourisme écrivent toutes « samedi matin », place des Lices, et **aucune ne publie d'heure d'ouverture ni de fermeture** — le champ `horaires` le dit plutôt que de combler. L'origine de 1622 et le rang de deuxième marché de France viennent de l'office et de la Métropole, qui l'écrivent tous les deux. Les six produits sont ceux que l'office énumère : « alimentaire et floral, produits bio » sur sa liste, et la galette-saucisse, la pomme et l'huître de Cancale sur sa page des 400 ans, où il les appelle les produits phares du marché. **Le décompte d'étals n'est pas publié, règle 81** : l'open data de la Ville porte 1 523 emplacements aux Lices, mais 1 757 à Sainte-Thérèse, marché de quartier — la ligne est un carré de marquage, pas un marchand. Point BAN sur la place à 0,977, à 28 m du centre du périmètre officiel publié par Rennes Métropole. Photo : la vue de l'office, **recadrée sur les 600 px du haut** — bannes rouges, vertes et orange devant la verrière des halles Martenot ; la moitié basse de l'original est pleine de visages nets)
+- **Halles centrales – La Criée** (Rennes) (le marché couvert du centre, dessiné par Emmanuel Le Ray et bâti de 1913 à 1926 en granit, briques jaunes et céramiques polychromes ; rebaptisé « La Criée – marché central » en 2018, en souvenir de la criée aux poissons. **Première fiche publiée au titre de la règle 79** : le site que l'office de tourisme donne encore comme source, `www.lacriee-marchecentral.com`, répond 200 et porte le bon nom, mais intercale quatre encarts d'affiliation pour des casinos en ligne dans un texte traduit à la machine — `site_web` reste donc vide, et aucun de ses faits n'est repris. **Horaires tranchés par la règle 80** : la page « dates et horaires » de l'office donne 9h-19h du lundi au samedi, 19h30 le vendredi, 9h-13h le dimanche ; son article de gastronomie donne 8h-19h. La page dont l'objet est l'horaire l'emporte, l'écart est écrit dans le champ. Le nombre de commerçants suit la même prudence : « une trentaine », avec les vingt-huit comptés par l'office en 2018 nommés comme tels. Point BAN sur la place Honoré Commeurec à 0,967, à 64 m du centre du périmètre officiel. Photo : l'allée du marché publiée par l'office, **recadrée sous la ligne des acheteuses** — cageots, panier d'artichauts, pilier de céramique et le panneau « Les Halles centrales deviennent La Criée » ; le tiers haut de l'original montre une dizaine de visages)
+- **Ferme de Quincé** (Rennes) (quatre hectares dont un peu moins de deux en maraîchage sur sol vivant, en pleine ville, au bord du parc de Quincé-Beauregard, portés par le collectif 35 Volts. **Pilier `environnement` sur pièce** : le registre de l'Agence Bio inscrit COLLECTIF 35 VOLTS, SIRET 89395842100024, certificat **engagement en cours** chez Certis depuis février 2022, activité production ; le registre des entreprises donne un établissement ouvert depuis mars 2023. **Le point de l'Agence Bio est faux et n'a pas été retenu** : il tombe à 48,0990 / -1,6374, soit **6,3 km** au sud-est du Haut Quincé, à l'autre bout de Rennes, et le contrôle inverse le rattache à l'**avenue du Haut Sancé** — deux lieux-dits qui ne diffèrent que d'une syllabe, ce qui ressemble fort à une confusion de géocodage à la source ; ce sont la Base Adresse Nationale (lieu-dit « le Haut Quincé », 0,963) et le siège au registre des entreprises qui font foi, et ils tombent à **10 m** l'un de l'autre. **Trois canaux de vente, tous du site de la ferme** : l'étal du jeudi à partir de 18h d'avril à octobre — le guide de la Métropole écrit 18h-20h, l'écart est dans le champ ; les paniers sur commande, liste le lundi, clôture le mercredi 23h, retrait le jeudi 17h-18h15 ; et le marché des Lices le samedi. **Ni téléphone ni prénoms** : le seul numéro publié par le guide de la Métropole est un portable rattaché aux deux maraîchers nommés en toutes lettres, et les trois prénoms de l'équipe agricole ne sont pas repris. Photo : la photographie de la ferme publiée par le collectif, **recadrée sur sa moitié gauche** — voiles de forçage et planches de légumes, une silhouette de dos ; le côté droit de l'original montre deux visages nets)
+- **Clairière commune** (Rennes) (micro-ferme urbaine associative de 5 000 m² à la Prévalaye, en face de l'éco-centre de la Taupinais et à dix minutes du métro Cleunay, entièrement cultivée par des bénévoles ; anciennement Perma G'Rennes. **Pas de pilier `environnement`** : ni l'association ni son nom d'avant ne figurent au registre de l'Agence Bio pour l'Ille-et-Vilaine — l'« EARL LA CLAIRIERE » qu'on y trouve est une tout autre ferme, à Châteaubourg. La ferme n'est pas non plus immatriculée au registre des entreprises, comme les associations de bénévoles rencontrées à Grenoble et à Antigone ; c'est le guide officiel de Rennes Métropole, qui la référence sous le n° 89, qui atteste son existence et son horaire. **Coordonnées prises au titre de la règle 63** : la Base Adresse Nationale ne connaît du chemin de la Taupinais que son axe, et l'association publie elle-même sa parcelle sur une carte ouverte — parcelle nommée, tracée, tagguée en terre agricole ; le contrôle inverse la rattache au 535 chemin de la Taupinais, à 80 m, même lieu-dit. Les six produits sont ceux de la page « Les produits ». Photo : la grappe de raisin que l'association publie en regard de cette liste)
+- **AMAPapille** (Rennes) (l'AMAP du Grand Cordel, dix-huitième saison entamée en mai 2025, distribution le mardi de 18h30 à 19h30 dans le grand hall de la maison des jeunes et de la culture qui l'héberge. **Pilier `environnement` accordé au titre de la règle 60** : l'association annonce des producteurs « certifiés bio et locaux » et les nomme ; onze ont été cherchés un par un au registre de l'Agence Bio pour le 35, **sept y sont engagés** — Plantago à Corps-Nuds, Au Gré des Champs à Chantepie, le Gros Chêne à Betton, Kig Ha Vi à Meillac, la brasserie du Vieux Singe à Saint-Jacques-de-la-Lande, les Ruchers du Semnon à Lalleu, les Clochettes à Ercé-près-Liffré. Les quatre autres sont absents du registre départemental sous l'enseigne annoncée ; la nuance est écrite ici plutôt que dans la fiche, comme à la Charrette Bio. **Aucun nom de producteur n'est repris** : la liste de l'association est faite de prénoms et de patronymes, et le registre orthographie d'ailleurs Plantago sous le patronyme de son exploitante. Le téléphone publié est le standard de la MJC, pas un portable. Point BAN sur le 18 rue des Plantes à 0,972, **identique au millionième de degré** au siège de la MJC au registre des entreprises. Photo : la photographie de distribution publiée par la MJC, deux paires de mains au-dessus d'une cagette de fenouils et de choux, aucun visage dans le cadre)
+
+Les 353 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1298,6 +1341,118 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Rennes
+
+Vingt-deuxième passe en ville. Département visé : l'**Ille-et-Vilaine (35)**, déficit **5,6559**
+fiche au sens de la règle 41, aucune fiche publiée. Il était deuxième du classement à la passe
+précédente et il passe premier parce que la réserve de la règle 41.c écarte la tête de liste :
+la passe d'avant visait les Alpes-Maritimes, région 93, et Paris comme les Bouches-du-Rhône
+retombent sur des régions déjà servies. L'Ille-et-Vilaine est en **région 53**, jamais visitée.
+Après la passe, son déficit tombe à **0,7372** et Paris prend la tête à **5,7702** — région 11,
+sans conflit avec celle-ci.
+
+Commune retenue : **Rennes**, 230 890 habitants, de loin la plus peuplée du département et sans
+aucune fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre ; la suivante
+par population aurait été Saint-Malo, 47 439 habitants.
+
+**Les sources qui ont fait cette passe**, dans l'ordre où elles ont servi :
+
+- **`environnement-sante.metropole.rennes.fr`**, rubrique « Où faire votre marché ? », l'inventaire
+  officiel des marchés de la métropole, commune par commune, avec pour chacun la voie et la
+  demi-journée — jamais d'heure. C'est la seule autorité qui écrive noir sur blanc que les Lices est
+  « le second plus grand de France ».
+- **Le guide « Manger local et de saison » 2026-27** de Rennes Métropole, un PDF de dix-neuf pages
+  téléchargeable depuis cette même page : près de cent vingt points de vente en circuit
+  court, numérotés, avec adresse, jour, heure et famille de produits. C'est lui qui donne les
+  horaires de la Clairière commune et de la ferme de Quincé, et lui seul qui range les **Halles
+  municipales – La Criée** parmi les marchés, « rue Jules Simon, tous les jours ».
+- **`www.tourisme-rennes.com`**, l'office de tourisme — et non `destination-rennes.fr`, qui porte la
+  marque « Destination Rennes » mais s'adresse aux professionnels. Son `robots.txt` n'interdit rien.
+  Quatre pages ont servi : la liste « dates et horaires » des marchés, l'article « Rennes, ville de
+  marchés » et deux actualités, l'une sur les 400 ans du marché des Lices, l'autre sur le
+  changement de nom des Halles centrales en 2018.
+- **Le registre de l'Agence Bio pour le 35** : 2 491 opérateurs, dont **206 à Rennes** en comptant
+  toutes leurs adresses et non la seule première — la précaution prise depuis la passe de Nice.
+  Cent huit y sont **engagés**, et **41** cumulent l'engagement et la vente au particulier. De ces
+  41, **douze sont des supermarchés ou supérettes** certifiés pour un rayon (neuf enseignes
+  Carrefour, un U Express, un E.Leclerc, un Intermarché), que MODERATION.md écarte ; **cinq** sont
+  des magasins Scarabée Biocoop ; **sept** sont immatriculés sous le patronyme de leur exploitant,
+  qui n'est pas repris ici.
+- **`data.rennesmetropole.fr`**, l'open data de la métropole, pour les périmètres officiels des
+  dix-neuf marchés rennais — c'est le contrôle qui a validé les points BAN des Lices et des Halles.
+  Son second jeu, les emplacements de commerce non sédentaire, a été **écarté** : voir la règle 81.
+
+**Le piège de la passe : un domaine intact devenu régie publicitaire.** Voir la règle 79.
+`www.lacriee-marchecentral.com`, que l'office de tourisme donne encore comme source officielle des
+Halles, répond, porte le bon nom, raconte l'histoire du bâtiment — et vend, entre deux paragraphes,
+quatre casinos en ligne. Troisième variante après le domaine racheté de Santa Lucia et les deux
+domaines éteints de Calais : ici le nom n'a pas changé de mains, seul l'usage a changé.
+
+**Les Cols Verts, rue de Hongrie** — le guide de la Métropole les référence sous le n° 90, avec un
+marché « le mercredi de 9h30 à 16h30 au Potager des Cultures », une vente en magasin chez
+Breizhicoop, et trois familles de produits : légumes, aromates, produits transformés. La page du
+collectif rennais est une application Softr qui ne rend ni numéro de rue, ni photographie propre —
+son image d'aperçu est celle, par défaut, de l'outil qui l'héberge. **Critère de déblocage** : une
+photographie du potager, et une adresse postale du Potager des Cultures publiée par le collectif ou
+par la Ville.
+
+**La Garden Partie, plaine de Baud** — marché de producteurs bio et d'artisans locaux, le vendredi
+de 16h à 20h. Deux autorités le décrivent et se contredisent sur le lieu : le guide de la Métropole
+écrit « Plaine de Baud », l'office de tourisme « 32 boulevard Villebois-Mareuil », et l'inventaire
+des marchés de la Métropole ne le mentionne pas du tout. **Critère de déblocage** : un troisième
+document qui départage l'adresse, ou la mention du marché dans l'inventaire officiel.
+
+**Les cinq Scarabée Biocoop de Rennes** — Jacques-Cartier, Cleunay, Papu, Paris-Metz et Vasselot,
+tous **engagés** au registre de l'Agence Bio. La coopérative est rennaise et le précédent de la
+Biocoop de Calais autorise la catégorie `magasin-bio`, mais cinq magasins d'une même enseigne
+rempliraient à eux seuls la passe et donneraient de Rennes une image de chaîne plutôt que de circuit
+court. Ils sont gardés pour un passage ultérieur, un ou deux à la fois. **Critère de déblocage** :
+aucun — c'est un choix de composition, pas un doute de vérification.
+
+**Le Primeur Bio des Halles, La Ferme du Turfu, En Pleine Terre, Champicoop, La Laiterie Rennaise,
+Les Maraîchers des Quatre Chemins, Les Jardins du Breil** — sept opérateurs engagés et vendant au
+particulier, repérés au registre mais non instruits faute de place dans une passe de cinq. Le
+Primeur Bio des Halles tient un étal dans les Halles centrales publiées ci-dessus ; Les Jardins du
+Breil sont un chantier d'insertion en maraîchage qui vend sur abonnement. **Critère de déblocage** :
+aucun, ils attendent seulement leur tour.
+
+**Les seize autres marchés de Rennes** — Beauregard, Cleunay, Maurepas, Robidou, Saint-Germain,
+Sainte-Thérèse, le Mail François-Mitterrand, Sainte-Anne, Sarah-Bernhardt, Alexis-Carrel, la
+Courrouze, la Bellangerais, Bréquigny, Villejean, la Poterie, le Landrel. L'inventaire de la
+Métropole les donne tous avec leur voie et leur demi-journée et **aucun avec une heure** ; l'office
+de tourisme en horodate cinq — Beauregard 16h-20h, le Mail 15h-20h, Sainte-Anne 15h-20h, la
+Bellangerais 15h-19h, la Poterie 15h-19h. **Un écart de lieu reste ouvert sur Bréquigny du jeudi
+matin** : « square Sarah Bernhardt » selon l'office de tourisme et le guide papier, « parking à
+l'intersection du boulevard de l'Yser et la rue Louis et René Moine » selon l'inventaire en ligne.
+Ce n'est pas le désaccord qu'on croyait : le point du square publié par l'open data de la Ville et
+l'axe de la rue Louis-et-René-Moine rendu par la Base Adresse Nationale ne sont **qu'à 140 m** l'un
+de l'autre, sans doute deux bords du même terrain. **Critère de déblocage** : une des deux pages qui
+nomme l'autre emplacement, ou un arrêté.
+
+**Les neuf autres AMAP de Rennes** — Artist'Chaud à Rennes 2, Beaulieu d'Ar Vuhez, Biorégard, La
+Courzette, Amapopote, I-AMAP-Y, l'AMAP Monde du Blosne, plus celles du Pont-Neuf et de la Lande
+citées par leurs producteurs. Le guide de la Métropole donne pour chacune le jour, l'heure et le
+lieu de distribution ; il ne donne, pour la plupart, qu'une adresse électronique en guise de
+contact. **Critère de déblocage** : aucun, elles attendent leur tour — mais la règle 60 devra être
+refaite pour chacune, producteur par producteur.
+
+**Ce qui a été volontairement laissé de côté.** Le décompte d'étals des Lices, écarté par la
+règle 81. Les dates du « marché de producteurs » que la ferme de Quincé organise certains jeudis :
+la seule liste publiée est celle de la saison 2024, et une date périmée envoie quelqu'un pour rien.
+Le portable des maraîchers de Quincé, rattaché dans le guide officiel à deux noms d'exploitants en
+toutes lettres. Les prénoms et patronymes des onze producteurs que l'AMAPapille nomme sur son site,
+et ceux des sept opérateurs rennais immatriculés sous leur nom au registre de l'Agence Bio. Le
+« Marché à Manger », enfin, qui se tient chaque premier dimanche du mois dans la cour des Halles :
+c'est un rendez-vous de restauration de rue, chefs et food-trucks, pas une vente en circuit court.
+
+**Note technique, pour la passe suivante.** Trois des quatre sites rennais utilisés sont des
+WordPress, et leur API `wp-json/wp/v2/media?search=` a donné directement les images en pleine
+définition, avec leurs dimensions, sans avoir à lire le HTML : c'est ainsi qu'ont été trouvées la
+photographie de la ferme de Quincé et celle de la distribution de l'AMAPapille, absentes des pages
+publiques. L'office de tourisme, lui, a la même architecture mais l'API désactivée ; il a fallu
+reconstruire les URL d'origine en retirant des vignettes leur suffixe de dimensions, `-400x530` ou
+`-1024x683`, pour retomber sur le fichier en pleine définition.
 
 ### Pistes non publiées à Nice
 

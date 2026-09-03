@@ -9063,5 +9063,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boutique+Nicolas+Alziari+14+rue+Saint-François+de+Paule+Nice",
     "image_url": "/images/marchands/boutique-nicolas-alziari-vieux-nice.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-lices-rennes",
+    "nom": "Marché des Lices",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.113086,
+    "lon": -1.682958,
+    "adresse": "Place des Lices, 35000 Rennes",
+    "horaires": "Samedi matin. La Ville de Rennes, Rennes Métropole et l'office de tourisme donnent le même jour et le même lieu ; aucune des trois ne publie d'heure d'ouverture ni de fermeture.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits biologiques",
+      "Huîtres de Cancale",
+      "Pommes",
+      "Galette-saucisse",
+      "Fleurs et plants"
+    ],
+    "description": "Le plus ancien et le plus grand marché de Rennes, sur la place où se tenaient autrefois les joutes de chevaliers : son origine remonte à 1622. Il se tient chaque samedi matin en plein air et sous les deux halles Martenot. La Ville de Rennes comme l'office de tourisme le présentent comme le deuxième plus grand marché de France.",
+    "site_web": "https://environnement-sante.metropole.rennes.fr/faire-son-marche-dans-la-metropole/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Lices+place+des+Lices+Rennes",
+    "image_url": "/images/marchands/marche-des-lices-rennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-centrales-la-criee-rennes",
+    "nom": "Halles centrales – La Criée",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.108331,
+    "lon": -1.679641,
+    "adresse": "Place Honoré Commeurec, 35000 Rennes",
+    "horaires": "Du lundi au samedi de 9h à 19h, jusqu'à 19h30 le vendredi, et le dimanche de 9h à 13h, d'après la page « horaires des marchés » de l'office de tourisme. Le guide de Rennes Métropole écrit « tous les jours » sans donner d'heure, et un article du même office donne 8h-19h.",
+    "produits": [
+      "Viandes",
+      "Poissons, coquillages et crustacés",
+      "Fruits et légumes",
+      "Fromages",
+      "Pains et pâtisseries",
+      "Épicerie fine et épices",
+      "Vins",
+      "Crêpes et galettes"
+    ],
+    "description": "Le marché couvert du centre de Rennes, dessiné par l'architecte Emmanuel Le Ray et bâti de 1913 à 1926 en granit, briques jaunes et céramiques polychromes, entre la place Honoré Commeurec, la rue de Nemours, le boulevard de la Liberté et la rue Jules Simon. Une trentaine de commerçants y tiennent boutique tous les jours — l'office de tourisme en comptait vingt-huit en 2018, l'année où les Halles centrales ont repris le nom de « La Criée – marché central », en souvenir de la criée aux poissons.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+centrales+La+Criée+place+Honoré+Commeurec+Rennes",
+    "image_url": "/images/marchands/halles-centrales-la-criee-rennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-quince-rennes",
+    "nom": "Ferme de Quincé",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.136915,
+    "lon": -1.700416,
+    "adresse": "Le Haut Quincé, 35000 Rennes",
+    "horaires": "Vente de légumes à la ferme le jeudi à partir de 18h, d'avril à octobre ; le guide de Rennes Métropole écrit jeudi de 18h à 20h. Paniers sur commande : la liste des légumes disponibles part le lundi, la commande se ferme le mercredi à 23h, le retrait a lieu le jeudi de 17h à 18h15. Et chaque samedi au marché des Lices, en haut de la place.",
+    "produits": [
+      "Légumes de saison certifiés biologiques",
+      "Paniers de légumes à composer soi-même",
+      "Paniers tout prêts, petit ou grand format"
+    ],
+    "description": "Une exploitation maraîchère de quatre hectares, dont un peu moins de deux cultivés, en plein cœur de Rennes, au bord du parc de Quincé-Beauregard. Les maraîchers y pratiquent le maraîchage sur sol vivant et cultivent des légumes de saison certifiés en agriculture biologique. La ferme est portée par le collectif 35 Volts, qui y tient aussi une guinguette d'avril à octobre.",
+    "site_web": "https://quince.bzh/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+de+Quincé+le+Haut+Quincé+Rennes",
+    "image_url": "/images/marchands/ferme-de-quince-rennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "clairiere-commune-rennes",
+    "nom": "Clairière commune",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.097941,
+    "lon": -1.7201265,
+    "adresse": "Chemin de la Taupinais, la Prévalaye, 35000 Rennes",
+    "horaires": "Le dimanche autour de midi, d'après l'association ; le guide de Rennes Métropole précise dimanche de 12h à 15h.",
+    "produits": [
+      "Légumes de saison",
+      "Pêches et raisin",
+      "Petits fruits",
+      "Confitures",
+      "Tisanes",
+      "Plants potagers et aromatiques"
+    ],
+    "description": "Une micro-ferme urbaine de 5 000 m² à la Prévalaye, en face de l'éco-centre de la Taupinais et à dix minutes à pied du métro Cleunay, cultivée entièrement par des bénévoles selon la tradition du maraîchage sur sol vivant. Anciennement Perma G'Rennes, l'association y tient chantier collectif et repas partagé chaque dimanche, et vend ce jour-là les produits de la ferme.",
+    "site_web": "https://clairierecommune.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clairière+commune+chemin+de+la+Taupinais+Rennes",
+    "image_url": "/images/marchands/clairiere-commune-rennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amapapille-rennes",
+    "nom": "AMAPapille",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.122198,
+    "lon": -1.648248,
+    "adresse": "Le Grand Cordel MJC, 18 rue des Plantes, 35700 Rennes",
+    "horaires": "Distribution tous les mardis de 18h30 à 19h30, dans le grand hall de la MJC.",
+    "produits": [
+      "Paniers de légumes, petits ou grands",
+      "Pains et brioches",
+      "Œufs",
+      "Volailles",
+      "Fromages et produits laitiers",
+      "Fruits et sorbets",
+      "Champignons",
+      "Crêpes et galettes"
+    ],
+    "description": "L'AMAP du Grand Cordel, hébergée par la maison des jeunes et de la culture du quartier Jeanne d'Arc, entrée en 2025 dans sa dix-huitième saison. Les contrats courent sur six mois, de mai à novembre puis de novembre à mai, et engagent l'adhérent auprès d'une douzaine de producteurs d'Ille-et-Vilaine ; les paniers non retirés sont donnés à une œuvre sociale.",
+    "telephone": "02 99 87 49 49",
+    "site_web": "https://amapapille.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAPapille+Grand+Cordel+18+rue+des+Plantes+Rennes",
+    "image_url": "/images/marchands/amapapille-rennes.jpg",
+    "a_confirmer": true
   }
 ]
