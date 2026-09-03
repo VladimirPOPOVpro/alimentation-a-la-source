@@ -1058,9 +1058,24 @@ prioritaires en cas de conflit.
    candidatures à venir, et le prochain magasin de réseau rencontré devra montrer cette liste de
    producteurs avant d'entrer.
 
+87. **Une page d'autorité qui se contredit elle-même d'un champ à l'autre : c'est la valeur qu'une
+   seconde autorité indépendante confirme qui l'emporte.** La fiche du Petit marché du Cours sur
+   `villeurbanne.fr` porte trois fois un horaire, et pas le même : le chapô et la ligne d'adresse
+   annoncent « mercredi de 14h à 19h30 », tandis que le bloc « Informations complémentaires », en
+   bas de la même page, écrit « Ouvert tous les mercredis de 14h à 19h ». Ce n'est pas la
+   configuration de la règle 55, deux pages d'une même autorité, ni celle de la règle 80, deux pages
+   dont l'une a le fait pour objet déclaré : c'est une seule page qui ne s'accorde pas avec
+   elle-même, et aucun des deux champs n'a d'objet plus déclaré que l'autre. Critère : on cherche
+   une seconde autorité indépendante et on retient la valeur qu'elle confirme — ici la Métropole de
+   Lyon publie une fermeture à 19h, qui départage. À défaut de seconde autorité, on revient à la
+   règle 80 et on retient la lecture qui coûte le moins au visiteur, c'est-à-dire la fenêtre la plus
+   étroite : arriver trop tôt fait attendre, arriver après la fermeture fait rentrer bredouille. Les
+   valeurs écartées se consignent dans la fiche, entre parenthèses du champ `horaires`, pour que le
+   lecteur suivant ne refasse pas l'enquête.
+
 ## Marchands à confirmer
 
-334 fiches sur 368 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+339 fiches sur 373 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1411,7 +1426,13 @@ prioritaires en cas de conflit.
 - **Marché de l'avenue de Nancy** (Metz) (le marché de la Nouvelle Ville, mercredi et vendredi 8h-12h, mêmes jours et mêmes heures chez la Ville et chez l'office. Point BAN sur l'axe de l'avenue à 0,974, contrôle inverse à 0 m, le 37 à 14 m. Il se tient à **130 m du marché de la place Philippe de Vigneulles**, dont il ne partage aucun jour : deux marchés voisins et distincts, chacun avec sa page chez les deux autorités. Photo : le banc de poissonnerie que la Ville publie pour ce marché, **recadré très bas, 980 × 351** — c'est la seule bande sans visage d'une image qui en compte cinq ; le format est plus plat que d'habitude, il reste moins étiré que celui de la fiche du marché de la place Richelme, et il montre ce que la fiche annonce)
 - **Ferme Bel Air - boutique de Metz** (**règle 20** : la fiche est posée sur la boutique du 10 rue de Ladoucette, la ferme de Landroff — à 36 km à l'est — étant nommée dans la description. Établissement messin ouvert au registre sous le siret 53040949900031, engagement Ecocert de décembre 2012 avec certificat en vigueur consultable, d'où le pilier `environnement`. **Horaires contredits par la ferme avec elle-même** : sa page d'accueil écrit « du mardi au samedi de 9h à 18h30 », la page qu'elle consacre à sa boutique de Metz « de 9h à 13h et de 14h à 18h30 » — règle 80, la page dédiée l'emporte et la coupure du midi est publiée, l'autre lecture étant écrite dans le champ. Le point de la Base et celui de l'Agence Bio sont **identiques au dix-millionième de degré**, contrôle inverse à 0 m. **Le nom de famille de l'exploitant n'est pas repris**, bien qu'il figure sur l'enseigne photographiée et dans le registre de l'Agence Bio : la fiche porte l'enseigne, même discipline qu'aux Paniers de Cérès. Le courriel de la boutique n'est pas repris non plus. Photo : la devanture publiée par la ferme sur sa propre page « Boutique de Metz », enseigne « ALIMENTATION — BIO & LOCALE » lisible, personne dans le cadre, 710 × 702)
 
-Les 368 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché des Gratte-Ciel** (Villeurbanne) (le marché de la place du Chanoine-Boursier, l'un des trois que le magazine municipal appelle les grands marchés de la ville, avec Wilson et Leclerc. **Son acte de naissance est daté** : le conseil municipal achète le terrain le 25 mars 1937 pour donner un marché au quartier des Gratte-Ciel achevé trois ans plus tôt, et le 16 avril suivant *La Voix du Peuple* salue « le grand succès du marché » — deux dates que l'historien Alain Belmont établit dans Viva sur les archives municipales, cotes citées. **Trois lectures des horaires, tranchées par la règle 22** : la Ville écrit 7h30-13h30, la Métropole de Lyon 7h30-12h30 dans son jeu de données des marchés, l'annuaire M ton Marché 8h30-12h30 ; c'est la commune qui organise son propre marché et paye son placier, ce sont ses heures qui sont publiées, et les deux autres lectures tiennent dans la parenthèse du champ. Les six produits sont ceux que M ton Marché énumère. Point BAN sur la place à 0,965, contrôle inverse **à 0 m**, et le 2 place du Chanoine-Boursier à 0 m également. Photo : la vue aérienne du marché publiée par le magazine municipal Viva, créditée à Gilles Michallet et datée 2018 dans le nom de fichier de la Ville — bannes bleues, rouges et blanches en rangs serrés entre les platanes, les personnes ne sont que des points vus à la verticale)
+- **Marché de la place Wilson** (Villeurbanne) (le marché du quartier des Charpennes, le deuxième des trois grands. **Deux découpages du même dimanche, publiés tous les deux, règle 5** : la Ville tient deux fiches distinctes, la place Wilson d'un côté — alimentaire et manufacturé, mercredi, vendredi et dimanche — et le marché des Charpennes de l'autre, uniquement manufacturé, le dimanche avenue Galline et avenue Salengro ; M ton Marché n'y voit qu'un seul marché du dimanche, « immense », dont la place Wilson concentre l'alimentaire. Les deux descriptions se recouvrent sans se contredire : c'est le découpage de la Ville qui est publié, et une seule fiche est créée, pour la place Wilson, parce que le marché des Charpennes tel que la Ville le décrit ne vend rien qui se mange. Mêmes trois lectures d'horaires qu'aux Gratte-Ciel, même arbitrage. **Les six produits sont lus sur la photographie**, faute de liste d'étals publiée par quiconque : mâche en coupelles, salades, tomates en grappe, radis, concombres et oranges, et la fiche le dit. Point BAN sur la place à 0,971, contrôle inverse à 0 m. Photo : le banc de légumes du marché publié par Viva en mars 2020, **recadré sur le bas de sa moitié gauche** — le reste de l'original est plein de visages, dont un que la Ville avait déjà flouté et celui d'un enfant qu'elle n'avait pas flouté)
+- **Petit marché du Cours** (Villeurbanne) (**le seul marché de producteurs de la ville**, et à ce titre le cœur de cette passe : depuis le 15 avril 2015, une dizaine de producteurs locaux déballent en fin de journée à l'angle du cours Émile-Zola et de la rue d'Alsace, au pied du square René-et-Marguerite-Pellet. **Première fiche publiée au titre de la règle 87** : la fiche de la Ville se contredit avec elle-même, 14h-19h30 dans son chapô et sa ligne d'adresse, 14h-19h dans ses « Informations complémentaires », sur la même page ; la Métropole de Lyon, qui publie 15h-19h, confirme la fermeture à 19h et départage. L'ouverture reste celle que la Ville écrit deux fois, 14h. M ton Marché, qui donne 15h-20h, est la troisième lecture et figure dans la parenthèse. Les six produits sont ceux que M ton Marché énumère pour ce marché-là. **Coordonnées prises sur le point de localité de la BAN**, « Square René Pellet », 0,962, contrôle inverse à 0 m et 76 cours Émile-Zola à 11 m ; le point que la Métropole publie pour ce marché tombe à 10 m de là — les deux autorités s'accordent au mètre près. Photo : l'étal de tomates, radis, basilic et poivrons que Viva publie en tête de son article sur les marchés de producteurs de Villeurbanne, ardoise de prix visible, aucun visage — photo thématique de la même commune au titre de la règle 1, puisqu'elle illustre les marchés de producteurs de la ville sans être datée de celui-ci)
+- **Biocoop Des Gratte-Ciel** (Villeurbanne) (**la première épicerie de réseau à franchir la règle 86**, écrite à la passe précédente contre une épicerie de vrac dont la liste de fournisseurs n'était qu'une liste de marques : ce magasin-ci nomme ses producteurs locaux un par un, avec leur commune et leur gamme, et annonce plus de quatre-vingts d'entre eux pour le seul rayon fruits et légumes, à moins de 150 km, récoltés le matin et remis en rayon l'après-midi. L'enseigne est publiée, règle 3 : l'immatriculation est « BIO GRATTE-CIEL DISTRIBUTION », siren 879454155, un établissement ouvert. Certificat **engagement en cours** chez Ecocert France au registre de l'Agence Bio, engagement du 1er juillet 2020, page de certificat consultable — d'où le pilier `environnement`. **Le nom du gérant n'est pas repris**, bien que le magasin le publie et le cite entre guillemets. Point BAN sur le 181 cours Émile-Zola à 0,985, contrôle inverse à 0 m, **identique au millionième de degré** au point de l'Agence Bio. Photo : la façade du magasin photographiée par le magasin lui-même, enseigne et horaires peints sur la vitrine, personne dans le cadre)
+- **Alter Conso – Toï Toï Le Zinc** (Villeurbanne) (coopérative lyonnaise qui distribue depuis 2006 des paniers bio et paysans dans quatorze lieux du Grand Lyon, dont deux à Villeurbanne ; celui-ci se tient le jeudi de 17h à 19h dans la salle du Toï Toï Le Zinc, rue Marcel-Dutartre. **Pas de pilier `environnement`, malgré le mot « bio » partout sur le site** : la coopérative n'a pas de certificat à son nom au registre de l'Agence Bio pour le Rhône — 2 429 opérateurs passés en revue, aucun Alter Conso — et ce sont ses fermes qui sont certifiées, pas elle. Même issue qu'à La Mouette, règle 71, par une autre voie : là un certificat arrêté, ici pas de certificat du tout, et une SCIC qui distribue plutôt qu'elle ne produit. **La règle 86 est en revanche largement satisfaite** : les fermes sont nommées une par une, par filière — légumes, fruits, produits laitiers, viande, pain, boissons — et les paysans fixent avec les consommateurs le calendrier de l'année et le prix des produits. La fiche va au point de retrait, règle 20, le siège de Décines-Charpieu étant nommé dans la description. **Ni téléphone ni adresse électronique** : la page de mentions légales de la coopérative n'a jamais été remplie — responsable de publication « Mr Lorem Ipsum », adresse à Martigues, numéro de téléphone à six chiffres — et le seul contact praticable est une adresse électronique, que la modération interdit de publier. Point BAN sur le 17 rue Marcel-Dutartre à 0,975, contrôle inverse à 0 m. Photo : les cageots de poireaux, cébettes, blettes et salades d'une distribution, une main tendant une barquette de fraises, publiée par la coopérative en tête de son site, aucun visage)
+
+Les 373 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1439,6 +1460,133 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Villeurbanne
+
+Département visé : le **Rhône (69)**, déficit **5,2185** fiche au sens
+de la règle 41, cinq fiches publiées — les cinq marchés biologiques de Lyon, posés il y a plusieurs
+passes. La réserve de la règle 41.c ne s'y opposait pas : la passe précédente visait la Moselle,
+région 44, et le Rhône est en région 84. Après cette passe le déficit du 69 tombe à **0,3574** et le
+**Finistère** prend la tête à **5,05**, sans fiche.
+
+Commune retenue : **Villeurbanne**, 163 684 habitants, deuxième commune du département et de loin la
+plus peuplée sans aucune fiche — Lyon en a cinq. Elle a rendu cinq commerces vérifiables sans qu'il
+faille redescendre.
+
+**Les quatre sources qui ont fait cette passe**, dans l'ordre où elles ont servi :
+
+- **Le jeu de données des marchés de la Métropole de Lyon**, servi en WFS par
+  `data.grandlyon.com/geoserver/metropole-de-lyon/ows`, couche
+  `eco_economie.ecomarcheinstance_latest` : **239 séances** pour toute la Métropole, dont **20 à
+  Villeurbanne réparties sur 11 lieux**, chacune avec son jour, ses heures en notation OSM, son type
+  (alimentaire ou mixte) et son point géographique. C'est le seul inventaire géolocalisé, et c'est
+  lui qui a servi de plan de travail. Il est cependant **en retard sur deux points** : il place
+  encore le marché de Grandclément avenue Général-Leclerc, d'où il est parti fin 2022, et il donne
+  le marché des Brosses le vendredi matin alors que la Ville l'annonce le vendredi après-midi.
+- **`villeurbanne.fr`, rubrique Annuaire > Marchés**, dix fiches d'une page chacune, jour, heures et
+  adresse, sans aucune photographie. C'est l'autorité qui organise ses marchés et paye son placier :
+  c'est elle qui l'emporte au titre de la règle 22 chaque fois que les heures divergent. Elle a
+  cependant deux lieux de moins que la Métropole — ni l'avenue Roberto-Rossellini le lundi
+  après-midi, ni l'esplanade Miriam-Makeba le jeudi après-midi n'y figurent.
+- **`viva.villeurbanne.fr`**, le magazine municipal, **seule photothèque de la commune**. Ses URL
+  d'images passent par un segment d'alias — `…/var/site/storage/images/_aliases/<alias>/…` — et
+  **retirer ce segment rend l'original**, jusqu'à 5 616 × 3 744 px. Deux pièges : les noms de
+  fichiers sont stockés en **Unicode décomposé**, si bien que `Marche%CC%81s.jpg` répond quand
+  `March%C3%A9s.jpg` donne un 404 ; et le sitemap racine est un index de huit sous-sitemaps totalisant
+  plus de quatre mille URL, qu'il faut parcourir pour retrouver l'article qui porte une image donnée.
+- **`mtonmarche.com`**, édité par l'**ADPM** (Association pour le développement et la promotion des
+  marchés, loi 1901, siret 452 614 886 00029), hébergée à la chambre de commerce et d'industrie de
+  région Auvergne-Rhône-Alpes. C'est la seule source qui décrive le contenu des étals marché par
+  marché, et la seule à publier les noms des forains — qui ne sont pas repris ici. Elle recense dix
+  marchés villeurbannais, et ses heures d'ouverture du matin sont systématiquement une heure plus
+  tard que celles de la Ville.
+
+**Le registre de l'Agence Bio pour le 69 compte 2 429 opérateurs, dont 75 domiciliés à
+Villeurbanne — et pas un seul n'est utilisable tel quel.** Le décompte par activité dit pourquoi :
+58 en `Préparation`, 33 en `Distribution`, 8 en `Stockage`, 4 en `Importation`, 2 en `Restauration`
+et **4 seulement en `Production`** ; et aucun des 75 n'a le drapeau `venteParticuliers`. C'est
+l'inverse d'un département rural : dans une commune de 163 000 habitants encastrée dans une
+métropole, le registre recense des ateliers, des grossistes et des importateurs, pas des fermes qui
+ouvrent leur cour. Des quatre producteurs, deux sont immatriculés sous le patronyme de leur
+exploitante, que la modération interdit de publier comme une enseigne ; le troisième, **GRAND
+BRAHIS**, 54 rue Paul-Verlaine, produit de l'huile d'olive et des olives — son adresse
+villeurbannaise est un **siège social**, pas un lieu d'activité, et son domaine est celui d'un
+domaine oléicole qui n'est pas ici ; le quatrième est l'EBE Saint-Jean, ci-dessous.
+
+**Marché de Grandclément** — *la fiche prête que la passe ne publie pas, faute de place*. Le plus
+grand marché de la ville, trois fois par semaine, et le plus ancien : le dimanche 2 octobre 1892, le
+maire Frédéric Faÿs voyait pour la première fois les forains garnir les étals de la place
+Grandclément, au terme d'un siècle de tentatives municipales ratées — la place du Molard en 1793,
+les Maisons-Neuves et la place de la Cité en 1878, disparues en moins de cinq ans. **La
+contradiction sur son emplacement est tranchée ici** : la Ville l'annonce boulevard
+Eugène-Réguillon et boulevard du Docteur-Frappaz, la Métropole et M ton Marché le placent encore
+place Grandclément et avenue Général-Leclerc. Viva explique l'écart : les travaux du tramway T6
+devaient emprunter l'avenue Général-Leclerc à partir de 2023, et les forains avaient obligation de
+libérer la place **pour le 31 décembre 2022**. La Ville, qui organise le marché, décrit donc
+l'emplacement d'aujourd'hui ; les deux autres décrivent celui d'avant. Il ne reste rien à trancher :
+la fiche part au prochain passage sur Villeurbanne, aux jours et heures de la Ville, avec pour photo
+l'étal de fruits et légumes que Viva publie en février 2021 dans l'article qui annonce le
+déménagement, recadré sous la ligne des têtes.
+
+**Marché des Brosses, place de la Paix** — même mécanique, écart plus large : la Ville écrit
+« vendredi de 14h à 19h30 », la Métropole « vendredi 7h30-12h30 ». Ce n'est pas une demi-heure de
+désaccord mais une demi-journée, et la règle 22 donne la Ville. Ce qui manque n'est donc pas
+l'arbitrage, c'est **la photographie** : ni la Ville ni Viva ni M ton Marché ne publient d'image de
+ce marché-là. **Critère de déblocage** : une photographie de la place de la Paix un vendredi
+après-midi, ou n'importe quelle vue du marché publiée par une des trois autorités.
+
+**Les six autres marchés forains** — Cusset (place Victor-Balland), Croix-Luizet, la Ferrandière
+(avenue Saint-Exupéry), les Buers (rue Pierre-Joseph-Proudhon), les Charpennes (avenues Galline et
+Salengro, manufacturé seul, hors périmètre) et les deux marchés d'après-midi que seule la Métropole
+connaît, avenue Roberto-Rossellini le lundi et esplanade Miriam-Makeba le jeudi. Tous ont un jour,
+des heures et un point vérifiés ; **aucun n'a de photographie**, et le fichier ne publie pas de
+fiche sans image. **Critère de déblocage** : une photographie par marché, ou une photographie
+d'ensemble assez large pour être découpée en vues distinctes au sens de la règle 66. Pour les deux
+marchés d'après-midi, il faudra en outre une confirmation par la Ville : ils ne figurent pas dans
+son annuaire.
+
+**L'Îlot Vert d'EmerJean** — le maraîchage urbain de l'entreprise à but d'emploi Saint-Jean, née de
+l'expérimentation Territoire zéro chômeur de longue durée : siret 82837429800036, certificat
+**engagement en cours** au Bureau Alpes Contrôles depuis le 26 juin 2025, catégorie « Vente aux
+consommateurs » au registre de l'Agence Bio, légumes de plein champ et sous abri, et une vente
+annoncée « le mercredi matin de 10h à 12h pour les habitants locaux ». Deux photographies de tunnel
+sans visage existent, à 800 × 453, au-dessus du plancher de la règle 59. **Ce qui manque est
+l'endroit** : la seule adresse publiée, 10 impasse Abbé-Firmin, est le siège de l'entreprise, et la
+vente se tient « au cœur de L'Îlot Vert », dont le jardin n'a pas d'adresse publiée — l'entreprise
+écrit par ailleurs avoir déménagé fin 2023 « sur 2 nouvelles parcelles », ce qui interdit aussi de
+rattacher les deux photographies aux tunnels d'aujourd'hui, au sens de la règle 72. Publier le siège
+enverrait le visiteur devant des bureaux. **Critère de déblocage** : l'adresse ou le point du jardin,
+publié par l'entreprise, par la Ville ou par la Métropole.
+
+**Légum'au logis** — l'association de paniers dont Viva a publié le portrait, et **un piège de
+domaine expiré du même genre que Santa Lucia** : `legumaulogis.fr` répond, mais le domaine a été
+racheté et le site est devenu une ferme de contenu qui mêle des articles sur les légumes à des
+publications sur l'automobile et le placement financier. Le lien n'est inscrit nulle part. **Critère
+de déblocage** : une adresse, un jour et une heure de distribution publiés par une source
+accessible, et une photographie sans visage — celle de Viva montre les bénévoles de face.
+
+**Alter Conso Grandclément – Le Rize / Ferrandière** — le second point villeurbannais de la
+coopérative, jeudi de 17h à 19h lui aussi, mais **à deux adresses qui alternent avec la saison** :
+devant le centre social de la Ferrandière, 51 rue Lafontaine, en horaire d'été ; à l'intérieur de la
+médiathèque Le Rize, 23 rue Valentin-Haüy, en horaire d'hiver. Une fiche porte un point, et celui-ci
+en a deux, à 700 m l'un de l'autre, six mois chacun. Le fichier n'a pas de champ pour cela et la
+règle 42 ne couvre pas ce cas — deux lieux dans le temps, pas deux équipements sur un point.
+**Décision, faute de mécanisme** : c'est le point du Toï Toï, ouvert toute l'année à une seule
+adresse, qui est publié pour Villeurbanne, et celui-ci passe en pistes. **Critère de déblocage** :
+le jour où un commerce à adresse alternante se présentera une seconde fois, la règle sera écrite —
+vraisemblablement une fiche par adresse, chacune disant sa saison dans `horaires`.
+
+**Les mentions légales d'Alter Conso n'ont jamais été remplies** : responsable de publication
+« Mr Lorem Ipsum », adresse à Martigues, numéro de téléphone à six chiffres, crédit photographique
+« Mr Lorem Ipsum Mme Lorem Ipsum ». Le gabarit du prestataire est resté en place. Aucun de ces
+champs n'est repris, et la coopérative est publiée sans téléphone : le seul contact praticable est
+une adresse électronique, que MODERATION.md interdit. Le fait est consigné ici parce qu'il a coûté
+une demi-heure de recherche d'un numéro qui n'existe pas.
+
+**Écartés comme hors périmètre** : le marché des Charpennes tel que la Ville le décrit, qui ne vend
+que du manufacturé ; les cinquante-huit préparateurs et trente-trois distributeurs bio de la commune,
+qui n'ont pas de vente au particulier ; et les deux restaurateurs certifiés du registre, dont les
+deux certificats sont d'ailleurs **arrêtés**, ce que la règle 25 écarte de toute façon.
 
 ### Pistes non publiées à Metz
 

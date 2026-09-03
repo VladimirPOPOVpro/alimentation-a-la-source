@@ -9605,5 +9605,145 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+avenue+de+Nancy+Metz",
     "image_url": "/images/marchands/marche-de-l-avenue-de-nancy-metz.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-gratte-ciel-villeurbanne",
+    "nom": "Marché des Gratte-Ciel",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.768874,
+    "lon": 4.878459,
+    "adresse": "Place du Chanoine-Boursier, 69100 Villeurbanne",
+    "horaires": "Mardi, jeudi et samedi de 7h30 à 13h30 (horaires publiés par la Ville de Villeurbanne ; la Métropole de Lyon annonce 7h30-12h30 et l'annuaire M ton Marché 8h30-12h30)",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Poisson",
+      "Fromages",
+      "Produits laitiers",
+      "Épicerie"
+    ],
+    "description": "L'un des trois grands marchés de Villeurbanne, avec Wilson et Grandclément. Le conseil municipal acheta le terrain qui allait devenir la place du Chanoine-Boursier le 25 mars 1937, pour donner un marché au quartier des Gratte-Ciel achevé trois ans plus tôt ; dès le 16 avril suivant la presse locale saluait « le grand succès du marché ». Marché mixte : les étals alimentaires y côtoient les stands de vêtements, de linge de maison et de livres, à deux pas de l'avenue Henri-Barbusse.",
+    "telephone": "04 78 03 67 67",
+    "site_web": "https://www.villeurbanne.fr/annuaire/marches/marche-des-gratte-ciel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+des+Gratte-Ciel+place+du+Chanoine-Boursier+Villeurbanne",
+    "image_url": "/images/marchands/marche-des-gratte-ciel-villeurbanne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-place-wilson-villeurbanne",
+    "nom": "Marché de la place Wilson",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.773601,
+    "lon": 4.868233,
+    "adresse": "Place Wilson, 69100 Villeurbanne",
+    "horaires": "Mercredi, vendredi et dimanche de 7h30 à 13h30 (horaires publiés par la Ville de Villeurbanne ; la Métropole de Lyon annonce 7h30-12h30 les trois jours, et M ton Marché 8h30-12h30, 13h le dimanche)",
+    "produits": [
+      "Mâche",
+      "Salades",
+      "Tomates",
+      "Radis",
+      "Concombres",
+      "Agrumes"
+    ],
+    "description": "Le marché du quartier des Charpennes, troisième des grands marchés villeurbannais. La Ville le distingue du marché des Charpennes proprement dit, qui n'accueille que des produits manufacturés le dimanche, avenue Galline et avenue Salengro ; l'annuaire M ton Marché, lui, n'y voit qu'un seul et même marché du dimanche dont la place Wilson concentre l'alimentaire. Les produits énumérés ici sont ceux que l'on distingue sur les étals de la photographie que le magazine municipal publie de ce marché : la Ville ne publie aucune liste d'étals.",
+    "telephone": "04 78 03 67 67",
+    "site_web": "https://www.villeurbanne.fr/annuaire/marches/marche-de-la-place-wilson",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+place+Wilson+Villeurbanne",
+    "image_url": "/images/marchands/marche-de-la-place-wilson-villeurbanne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "petit-marche-du-cours-villeurbanne",
+    "nom": "Petit marché du Cours",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.7708,
+    "lon": 4.870412,
+    "adresse": "Cours Émile-Zola, au niveau du square René-et-Marguerite-Pellet, 69100 Villeurbanne",
+    "horaires": "Mercredi de 14h à 19h (la Ville annonce 14h-19h30 en tête de sa fiche et 14h-19h dans les informations complémentaires de la même page ; la Métropole de Lyon publie 15h-19h et M ton Marché 15h-20h)",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Fromages",
+      "Œufs",
+      "Pain",
+      "Volailles"
+    ],
+    "description": "Le seul marché de producteurs de Villeurbanne. Depuis le 15 avril 2015, une dizaine de producteurs locaux déballent en fin de journée à l'angle du cours Émile-Zola et de la rue d'Alsace, au pied du square René-et-Marguerite-Pellet. C'est un marché du soir, créé pour élargir l'offre de circuits courts d'une ville qui compte par ailleurs une dizaine de marchés forains.",
+    "telephone": "04 78 03 67 67",
+    "site_web": "https://www.villeurbanne.fr/annuaire/marches/petit-marche-du-cours",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Petit+marché+du+Cours+cours+Emile-Zola+Villeurbanne",
+    "image_url": "/images/marchands/petit-marche-du-cours-villeurbanne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-des-gratte-ciel",
+    "nom": "Biocoop Des Gratte-Ciel",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.769385,
+    "lon": 4.880751,
+    "adresse": "181 cours Émile-Zola, 69100 Villeurbanne",
+    "horaires": "Du lundi au samedi de 9h à 19h30 ; fermé le dimanche",
+    "produits": [
+      "Fruits et légumes locaux de saison",
+      "Pain frais",
+      "Fromage à la coupe",
+      "Charcuterie",
+      "Produits en vrac",
+      "Épicerie salée et sucrée",
+      "Œufs"
+    ],
+    "description": "Magasin coopératif ouvert en 2020 au pied des Gratte-Ciel, sur deux niveaux reliés par un escalier et un ascenseur aux normes PMR : fruits et légumes, épicerie et cosmétiques au rez-de-chaussée, vrac, frais en libre-service, fromage et boulangerie à l'étage. Le magasin annonce plus de quatre-vingts producteurs locaux, des fruits et légumes récoltés le matin même à moins de 150 km et remis en rayon l'après-midi, et plus de 350 références en vrac. Certification bio Ecocert en cours au registre de l'Agence Bio, engagement du 1er juillet 2020.",
+    "telephone": "04 28 70 98 25",
+    "site_web": "https://www.biocoopdesgratteciel.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Des+Gratte-Ciel+181+cours+Emile+Zola+Villeurbanne",
+    "image_url": "/images/marchands/biocoop-des-gratte-ciel.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "alter-conso-toi-toi-le-zinc",
+    "nom": "Alter Conso – Toï Toï Le Zinc",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.779751,
+    "lon": 4.877033,
+    "adresse": "Toï Toï Le Zinc, 17-19 rue Marcel-Dutartre, 69100 Villeurbanne",
+    "horaires": "Distribution le jeudi de 17h à 19h, dans les locaux du Toï Toï",
+    "produits": [
+      "Panier de légumes bio",
+      "Panier de fruits",
+      "Fromages et produits laitiers",
+      "Viande",
+      "Pain et biscuits",
+      "Vins et bières"
+    ],
+    "description": "Coopérative lyonnaise qui distribue depuis 2006 des paniers bio et paysans dans quatorze lieux du Grand Lyon, dont deux à Villeurbanne. Près d'une cinquantaine de fermes fournissent les paniers, réparties par filière — légumes, fruits, produits laitiers, viande, pain, boissons — et les paysans fixent avec les consommateurs le calendrier de l'année et le prix des produits. Ce point-ci, dit « La Doua », se tient dans la salle du Toï Toï Le Zinc ; le siège de la coopérative est à Décines-Charpieu.",
+    "site_web": "https://www.alter-conso.org/paniers/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toï+Toï+Le+Zinc+17+rue+Marcel+Dutartre+Villeurbanne",
+    "image_url": "/images/marchands/alter-conso-toi-toi-le-zinc.jpg",
+    "a_confirmer": true
   }
 ]
