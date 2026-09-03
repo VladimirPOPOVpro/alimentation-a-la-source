@@ -9745,5 +9745,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Toï+Toï+Le+Zinc+17+rue+Marcel+Dutartre+Villeurbanne",
     "image_url": "/images/marchands/alter-conso-toi-toi-le-zinc.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-pilier-rouge-brest",
+    "nom": "Marché du Pilier Rouge",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.398983,
+    "lon": -4.471121,
+    "adresse": "Parking couvert du Pilier Rouge, rue Sébastopol, 29200 Brest",
+    "horaires": "Mardi et vendredi de 8h à 12h30, toute l'année",
+    "produits": [
+      "Légumes de producteurs locaux",
+      "Productions de petits jardiniers",
+      "Poissons de petite pêche",
+      "Huîtres",
+      "Restauration à emporter le mardi"
+    ],
+    "description": "Le seul des douze marchés de plein air brestois que la Ville range parmi les « marchés des producteurs locaux ». Il se tient à l'abri, sous le parking couvert de la rue Sébastopol, deux matinées par semaine. L'office de tourisme précise que les places reviennent d'abord aux producteurs, aux petits jardiniers, aux patrons-pêcheurs et aux ostréiculteurs, les commerçants non alimentaires n'étant admis qu'après tirage au sort s'il reste de la place.",
+    "site_web": "https://brest.fr/gerer-mon-quotidien/marches-et-halles-brest-metropole",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Pilier+Rouge+rue+Sébastopol+Brest",
+    "image_url": "/images/marchands/marche-du-pilier-rouge-brest.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-kerinou-brest",
+    "nom": "Marché de Kérinou",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.400259,
+    "lon": -4.490116,
+    "adresse": "Espace couvert de Kérinou, rue du Moulin à Poudre, 29200 Brest",
+    "horaires": "Mardi de 15h30 à 20h et samedi de 8h à 12h30, toute l'année",
+    "produits": [
+      "Produits issus de l'agriculture biologique",
+      "Légumes de producteurs et de petits jardiniers",
+      "Poissons de petite pêche",
+      "Huîtres"
+    ],
+    "description": "Le seul marché brestois que la Ville qualifie de « couvert biologique et traditionnel » : un espace y est réservé à la vente de produits issus de l'agriculture biologique, à côté des étals traditionnels. C'est aussi le seul marché de la ville qui se tienne en fin de journée, le mardi jusqu'à 20h, l'autre séance ayant lieu le samedi matin.",
+    "site_web": "https://brest.fr/gerer-mon-quotidien/marches-et-halles-brest-metropole",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Kérinou+rue+du+Moulin+à+Poudre+Brest",
+    "image_url": "/images/marchands/marche-de-kerinou-brest.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-louis-brest",
+    "nom": "Marché Siam Saint-Louis",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.389205,
+    "lon": -4.489646,
+    "adresse": "Rues de Lyon, Boussingault et Pasteur, 29200 Brest",
+    "horaires": "Dimanche : du 1er mai au 30 septembre de 8h à 13h ; du 1er octobre au 30 avril de 8h30 à 13h",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages bretons",
+      "Coquilles Saint-Jacques et crustacés",
+      "Truites fumées",
+      "Kig ha farz",
+      "Kouign-amann et far breton",
+      "Crêpes"
+    ],
+    "description": "Le plus grand marché de Brest et le rendez-vous du dimanche matin, sur trois rues du quartier Saint-Louis. L'office de tourisme y relève un plateau de fromages entièrement bretons, un banc de produits de la mer dont les crustacés sont pêchés à la main en plongée, et les spécialités qui partent le plus vite — le kig ha farz, ce pot-au-feu du nord Finistère, le kouign-amann et le far breton. La Ville l'appelle « Siam Saint-Louis », l'office de tourisme « marché Saint-Louis ». Les halles couvertes voisines, elles, sont fermées depuis fin mai 2024 pour une rénovation complète : la Ville annonce leur réouverture au premier trimestre 2027 et leurs commerçants sont relogés au village Saint-Louis, square Marc-Sangnier.",
+    "site_web": "https://brest.fr/gerer-mon-quotidien/marches-et-halles-brest-metropole",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Louis+rue+de+Lyon+Brest",
+    "image_url": "/images/marchands/marche-saint-louis-brest.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-saint-martin-brest",
+    "nom": "Halles Saint-Martin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.39588,
+    "lon": -4.48122,
+    "adresse": "4 rue Massillon, 29200 Brest",
+    "horaires": "Du mardi au samedi de 8h30 à 12h30 (l'office de tourisme écrit du lundi au samedi, et un tableau horaire périmé de la même fiche annonce 8h-13h)",
+    "produits": [
+      "Fruits et légumes",
+      "Viande de bœuf",
+      "Charcuterie",
+      "Volailles, gibiers et foies gras",
+      "Rôtisserie",
+      "Plats à emporter"
+    ],
+    "description": "La halle couverte du quartier Saint-Martin, pierre et verrière, ouverte cinq matinées par semaine. Aucune autorité n'en publie la liste des étals : c'est le registre national des entreprises qui la donne, avec un primeur, un boucher, deux fabricants de charcuterie, un comptoir de plats à emporter et la boutique d'un marchand de volailles et de gibiers installé à Brest depuis 1973, qui y tient une rôtisserie du mardi au samedi matin. À ne pas confondre avec le marché non alimentaire qui se tient dehors, sur l'esplanade autour des halles, du mardi au samedi.",
+    "site_web": "https://brest.fr/gerer-mon-quotidien/marches-et-halles-brest-metropole",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+Saint-Martin+4+rue+Massillon+Brest",
+    "image_url": "/images/marchands/halles-saint-martin-brest.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "kerbio-rive-droite",
+    "nom": "Biocoop Kerbio Rive Droite",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.38649,
+    "lon": -4.53206,
+    "adresse": "114 boulevard de Plymouth, 29200 Brest",
+    "horaires": "Du lundi au samedi de 9h à 19h ; fermé le dimanche et les jours fériés",
+    "produits": [
+      "Fruits et légumes bio",
+      "Pain à la coupe",
+      "Fromage à la coupe",
+      "Viande et charcuterie",
+      "Traiteur",
+      "Vrac",
+      "Bières de brasseries bretonnes"
+    ],
+    "description": "Magasin du réseau Biocoop ouvert en 2004 sur la rive droite de la Penfeld, tenu par Finisterra, coopérative de consommateurs brestoise née en 1984 et qui compte aujourd'hui douze établissements en Finistère. Il a rouvert en mai 2024 après onze mois de fermeture consécutifs à l'incendie d'un local voisin. Rayon fruits et légumes dès l'entrée, service arrière pain et fromage à la coupe, boucherie-charcuterie. La coopérative publie nommément ses fournisseurs bretons : huit fermes et ateliers, onze fromageries et dix brasseries.",
+    "telephone": "02 98 45 45 28",
+    "site_web": "https://www.finisterra.fr/kerbio-rive-droite-brest.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Kerbio+Rive+Droite+114+boulevard+de+Plymouth+Brest",
+    "image_url": "/images/marchands/kerbio-rive-droite.jpg",
+    "a_confirmer": true
   }
 ]

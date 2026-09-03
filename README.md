@@ -1073,9 +1073,54 @@ prioritaires en cas de conflit.
    valeurs écartées se consignent dans la fiche, entre parenthèses du champ `horaires`, pour que le
    lecteur suivant ne refasse pas l'enquête.
 
+88. **Quand une autorité illustre plusieurs fiches différentes avec le même fichier, sa
+   photographie redevient une illustration thématique : elle ne prouve rien sur le lieu, et on n'y
+   lit aucun produit.** L'office de tourisme de Brest métropole consacre une fiche à chacun des
+   marchés de la ville, chacune avec sa photographie. Comparaison des empreintes md5 : quatre
+   fichiers de noms différents mais d'empreinte identique, `DL-MLG-DSC-8396-2022` et ses variantes
+   `-2`, `-3`, `-4`, servent à Kérinou, à Lambézellec, à Sadi-Carnot et à Sanquer ; les quatre
+   `DL-MLG-DSC-8422-2022` au Pilier Rouge, à Bellevue, aux Quatre-Moulins et à l'une des deux fiches
+   Saint-Marc ; les deux `DL-MLG-DSC-8387-2022` à Saint-Marc et à Saint-Pierre. Trois photographies
+   pour dix fiches — et le suffixe numérique du nom de fichier ne signale aucune variante, les
+   octets sont les mêmes. Une fiche
+   dédiée n'est donc pas la preuve d'une photographie dédiée. Critère : avant de lire un étal, un
+   panneau ou un cageot sur la photographie d'une autorité, on télécharge les fichiers de ses
+   autres fiches voisines et on compare les empreintes ; si un même fichier sert deux fiches ou
+   plus, la photographie passe sous le régime de la règle 1, illustration honnête de la même
+   commune, et le champ `produits` ne peut rien tirer de ce qu'on y voit. C'est le prolongement de
+   la règle 72 dans l'espace : là une photographie antérieure à la chose, ici une photographie qui
+   n'est celle d'aucune des choses.
+
+89. **Quand aucune autorité ne publie la liste des étals d'une halle, le registre national des
+   entreprises en tient lieu.** Les Halles Saint-Martin de Brest sont ouvertes cinq matinées par
+   semaine, mais ni la Ville ni l'office de tourisme n'écrit ce qu'on y vend — l'office décrit même,
+   sous le titre « Les halles Saint-Martin », le marché non alimentaire qui se tient dehors. Or les
+   commerçants d'une halle y sont domiciliés, contrairement aux marchands d'un marché de plein air :
+   `recherche-entreprises.api.gouv.fr` interrogé sur « halles saint martin brest » rend leurs
+   établissements, avec leur état administratif et leur code NAF. Critère : on ne retient que les
+   établissements **ouverts** (état A) dont l'adresse est celle de la halle ; les produits se lisent
+   sur le **libellé du code NAF**, jamais sur l'enseigne — « Au Faisan Doré » ne prouve pas qu'on y
+   vende du faisan, c'est le site de la maison qui l'a confirmé. L'enseigne se publie selon la
+   règle 3 et jamais le patronyme d'une entreprise individuelle : trois des sept établissements
+   ouverts trouvés ici en sont, et l'un des trois a pour enseigne déclarée le patronyme même de
+   l'exploitante — la fiche ne le reprend pas et décrit son métier. Cette règle ne vaut que pour les halles et les marchés couverts permanents : sur un
+   marché de plein air, personne n'est domicilié à l'adresse du marché.
+
+90. **Un annuaire tiers qui se trompe sur un fait que l'autorité publie ne sert de source pour
+   aucun autre fait de la même fiche.** L'application Saveur Marché décrit le marché du Pilier
+   Rouge avec une liste de métiers séduisante — « fromager, poissonnier, charcuterie, primeur,
+   fruits, légumes, fleurs » — et annonce quarante commerçants ; mais elle le fait tenir le mardi et
+   le **jeudi** de 7h15 à 12h30, quand la Ville de Brest écrit mardi et **vendredi** de 8h à 12h30.
+   Le jour et l'heure sont exactement ce que l'autorité publie et ce qu'un annuaire peut vérifier :
+   s'y tromper n'est pas une divergence au sens de la règle 5, c'est une erreur. Critère : dès qu'un
+   annuaire tiers contredit la commune sur un fait que la commune publie noir sur blanc, on écarte
+   la fiche entière de cet annuaire — produits, nombre d'étals, téléphone — plutôt que de garder les
+   champs qui arrangent. Le tri à la pièce d'une source démentie revient à choisir ce qu'on a envie
+   de croire.
+
 ## Marchands à confirmer
 
-339 fiches sur 373 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+344 fiches sur 378 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1432,7 +1477,13 @@ prioritaires en cas de conflit.
 - **Biocoop Des Gratte-Ciel** (Villeurbanne) (**la première épicerie de réseau à franchir la règle 86**, écrite à la passe précédente contre une épicerie de vrac dont la liste de fournisseurs n'était qu'une liste de marques : ce magasin-ci nomme ses producteurs locaux un par un, avec leur commune et leur gamme, et annonce plus de quatre-vingts d'entre eux pour le seul rayon fruits et légumes, à moins de 150 km, récoltés le matin et remis en rayon l'après-midi. L'enseigne est publiée, règle 3 : l'immatriculation est « BIO GRATTE-CIEL DISTRIBUTION », siren 879454155, un établissement ouvert. Certificat **engagement en cours** chez Ecocert France au registre de l'Agence Bio, engagement du 1er juillet 2020, page de certificat consultable — d'où le pilier `environnement`. **Le nom du gérant n'est pas repris**, bien que le magasin le publie et le cite entre guillemets. Point BAN sur le 181 cours Émile-Zola à 0,985, contrôle inverse à 0 m, **identique au millionième de degré** au point de l'Agence Bio. Photo : la façade du magasin photographiée par le magasin lui-même, enseigne et horaires peints sur la vitrine, personne dans le cadre)
 - **Alter Conso – Toï Toï Le Zinc** (Villeurbanne) (coopérative lyonnaise qui distribue depuis 2006 des paniers bio et paysans dans quatorze lieux du Grand Lyon, dont deux à Villeurbanne ; celui-ci se tient le jeudi de 17h à 19h dans la salle du Toï Toï Le Zinc, rue Marcel-Dutartre. **Pas de pilier `environnement`, malgré le mot « bio » partout sur le site** : la coopérative n'a pas de certificat à son nom au registre de l'Agence Bio pour le Rhône — 2 429 opérateurs passés en revue, aucun Alter Conso — et ce sont ses fermes qui sont certifiées, pas elle. Même issue qu'à La Mouette, règle 71, par une autre voie : là un certificat arrêté, ici pas de certificat du tout, et une SCIC qui distribue plutôt qu'elle ne produit. **La règle 86 est en revanche largement satisfaite** : les fermes sont nommées une par une, par filière — légumes, fruits, produits laitiers, viande, pain, boissons — et les paysans fixent avec les consommateurs le calendrier de l'année et le prix des produits. La fiche va au point de retrait, règle 20, le siège de Décines-Charpieu étant nommé dans la description. **Ni téléphone ni adresse électronique** : la page de mentions légales de la coopérative n'a jamais été remplie — responsable de publication « Mr Lorem Ipsum », adresse à Martigues, numéro de téléphone à six chiffres — et le seul contact praticable est une adresse électronique, que la modération interdit de publier. Point BAN sur le 17 rue Marcel-Dutartre à 0,975, contrôle inverse à 0 m. Photo : les cageots de poireaux, cébettes, blettes et salades d'une distribution, une main tendant une barquette de fraises, publiée par la coopérative en tête de son site, aucun visage)
 
-Les 373 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du Pilier Rouge** (Brest) (le seul des douze marchés de plein air brestois que la Ville range parmi les « marchés des producteurs locaux », et il se tient à l'abri, sous un parking couvert. Jours et heures pris chez la Ville, mise à jour du 1er juillet 2026 ; l'office de tourisme donne exactement les mêmes et énumère qui a droit à une place — producteurs, petits jardiniers, patrons-pêcheurs, ostréiculteurs, les non-alimentaires seulement après tirage au sort s'il reste de la place. C'est de cette énumération que viennent les produits : aucune des deux autorités ne publie de liste d'étals, même discipline qu'à Roubaix et au Mont-Mesly. **Première fiche écartant un annuaire au titre de la règle 90** : l'application Saveur Marché offrait une belle liste de métiers, mais elle fait tenir ce marché le jeudi quand la Ville écrit vendredi. Point BAN sur la rue Sébastopol à 0,978, contrôle inverse à 0 m. **Photo thématique au titre des règles 88 et 1** : l'office illustre cette fiche avec un fichier qu'il emploie aussi, aux octets près, pour Bellevue, pour les Quatre-Moulins et pour l'une de ses deux fiches Saint-Marc — navets, radis et ardoise de producteur, recadrée sur sa moitié basse, aucun visage)
+- **Marché de Kérinou** (Brest) (le seul marché de la ville que la Ville qualifie de « couvert biologique et traditionnel », et le seul qui se tienne en fin de journée, le mardi jusqu'à 20h. L'office de tourisme précise qu'un espace y est réservé aux produits issus de l'agriculture biologique. **Pas de pilier `environnement`** malgré le mot « biologique » : ce pilier demande un certificat consultable au sens des règles 45, 60 et 71, et un marché, dont les étals changent d'une séance à l'autre, n'en a pas — aucun des marchés publiés jusqu'ici ne porte ce pilier. Point BAN sur la rue du Moulin à Poudre à 0,975, contrôle inverse à 0 m. `site_web` renvoie à la page des marchés de la Ville : le domaine `kerinoubio.fr` répond bien, mais c'est une page enregistrée à la main dont les liens pointent vers un dossier `index_fichiers` local et dont la dernière nouvelle date de mai 2020 ; le blog de l'association CABA s'arrête en mai 2019. **Photo thématique au titre des règles 88 et 1** : le fichier de l'office sert aussi, aux octets près, à Lambézellec, à Sadi-Carnot et à Sanquer — choux, blettes et poireaux en cageots, aucun visage)
+- **Marché Siam Saint-Louis** (Brest) (le plus grand marché de la ville, le dimanche matin, sur trois rues du quartier Saint-Louis. **Le nom est celui de la Ville, règle 22** : elle écrit « Siam Saint-Louis », l'office de tourisme « marché Saint-Louis », et les deux sont dits dans la description. Horaires saisonniers publiés par la Ville, 8h en été, 8h30 en hiver. Les sept produits viennent du reportage que l'office consacre à ce marché-ci : fromages entièrement bretons, crustacés pêchés à la main en plongée, truites fumées, kig ha farz, kouign-amann, far breton. **Le nom du poissonnier n'est pas repris**, bien que l'office le publie, même discipline qu'à La Paysanne des Mers. **Adresse composite tranchée par la règle 83** : des trois rues citées, `rue de Lyon` obtient le meilleur score BAN, 0,978, contrôle inverse à 0 m et la rue Louis-Pasteur à 48 m. Photo : l'étal de choux, pak choï, poireaux et laitues rouges publié par la Ville pour son article du 14 juillet, dont le nom de fichier désigne ce marché, recadré sous la ligne des visages)
+- **Halles Saint-Martin** (Brest) (la halle couverte du quartier Saint-Martin, ouverte cinq matinées par semaine. **Première fiche dont les produits sortent du registre des entreprises, règle 89** : ni la Ville ni l'office ne publie la liste des étals, et l'office décrit même sous ce titre le marché non alimentaire de l'esplanade. Le registre rend sept établissements ouverts à l'adresse de la halle, dont un primeur, un boucher, deux fabricants de charcuterie, un comptoir de plats à emporter et la boutique d'un marchand de volailles et de gibiers, dont le site confirme la rôtisserie du mardi au samedi matin. **Trois lectures des horaires, tranchées par la règle 22** : la Ville écrit « du mardi au samedi de 8h30 à 12h30 », l'office « du lundi au samedi » dans son résumé et « 08:00 - 13:00 » dans un tableau dont la fenêtre de validité s'est achevée le 31 décembre 2025 ; la commune l'emporte sur son propre équipement, les deux autres lectures restent entre parenthèses. Adresse de la Ville, 4 rue Massillon, confirmée par le magazine municipal Sillage, quand l'office écrit rue Danton — les deux rues bordent la même halle. Point BAN à 0,978, contrôle inverse à 0 m. Photo : la halle vue de la rue, publiée par l'office pour cette fiche et pour elle seule, recadrée pour écarter un passant lointain)
+- **Biocoop Kerbio Rive Droite** (Brest) (magasin de 2004 sur la rive droite de la Penfeld, rouvert en mai 2024 après onze mois de fermeture consécutifs à l'incendie d'un local voisin. Le magasin est immatriculé sous « FINIS TERRA », coopérative de consommateurs brestoise de 1984 aux douze établissements ouverts ; c'est l'enseigne qui est publiée, règle 3. Certificat **engagement en cours** au registre de l'Agence Bio, Ecocert, engagement d'octobre 2014, certificat consultable en ligne, d'où le pilier `environnement`. **Première épicerie de réseau à franchir la règle 86** : la coopérative ne se contente pas de dire « local », elle publie trois pages de fournisseurs nommés — huit fermes et ateliers, onze fromageries avec leur commune, dix brasseries. Horaires et téléphone pris sur le site de la coopérative. Point BAN sur le numéro 114 à 0,977, contrôle inverse à 0 m, et à 14 m du point que l'Agence Bio publie pour cette adresse. Photo : la façade bleue publiée par l'office de tourisme pour cette fiche, enseigne lisible, personne dans le cadre, plaques d'immatriculation déjà masquées à la source)
+
+Les 378 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1460,6 +1511,114 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Brest
+
+Département visé : le **Finistère (29)**, déficit **5,0495** fiche au sens de la règle 41, aucune
+fiche publiée. Région 53, contre 84 à la passe précédente : la réserve de la règle 41.c est
+respectée. Après la passe le déficit du 29 tombe à **0,1172** et **La Réunion (974)** prend la tête
+du classement à **4,88**, également sans aucune fiche.
+
+Commune retenue : **Brest**, 142 346 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre par population.
+
+**La source qui a porté la passe** est la page « Marchés et halles à Brest métropole » de
+`brest.fr`, mise à jour du 1er juillet 2026 : elle donne les douze marchés de plein air de la ville
+avec, pour chacun, le jour, le lieu, la nature — alimentaire, non alimentaire, producteurs locaux,
+biologique et traditionnel — et l'heure. C'est rare : la plupart des communes rencontrées jusqu'ici
+publient les jours et taisent les heures. En revanche `brest.fr` n'a **pas de sitemap** (son
+`sitemap.xml` rend la page d'accueil) et sa recherche interne répond 404 : les pages d'équipement
+se devinent à l'URL, `brest.fr/<nom-de-l-equipement>`, et elles ne contiennent qu'une adresse. Le
+magazine municipal `sillage.brest.fr`, lui, a un vrai sitemap, mais court seulement sur 260 URL.
+
+**Les halles Saint-Louis sont fermées, et l'office de tourisme écrit le contraire.** La page projet
+de la Ville donne le calendrier : fermeture fin mai 2024, commerçants relogés au village
+Saint-Louis temporaire aménagé square Marc-Sangnier, désamiantage, démolition de la dalle et de la
+charpente. Le magazine municipal ajoute ce que cette page ne dit pas : à l'automne 2024 les offres
+d'entreprises dépassant fortement l'estimation, la Ville a **suspendu le chantier** et relancé une
+consultation ; il a repris en avril 2025 pour deux ans, et l'ouverture est désormais annoncée au
+**premier trimestre 2027**. La page projet, elle, promet toujours « une ouverture du lieu au public
+début 2026 » : deux pages de la même autorité qui divergent, configuration de la règle 55, et c'est
+la plus récente et la plus circonstanciée qui est retenue. Pendant ce temps la fiche « Le marché
+Saint-Louis » de l'office de tourisme écrit encore, en septembre 2026, « Les halles couvertes
+(produits alimentaires) ouvertes tous les jours matin et soir toute l'année ». Publier cela aurait
+envoyé quelqu'un devant un chantier ; la fiche du marché dit au contraire que les halles sont
+fermées et jusqu'à quand. **Critère de déblocage** pour une fiche des halles : leur réouverture
+effective, et une liste de commerçants publiée par la Ville ou par la SPL des Ateliers des Capucins
+— vingt-trois candidats avaient déjà été désignés en avril 2024.
+
+**Village Saint-Louis, square Marc-Sangnier** — la structure provisoire qui abrite les commerçants
+des halles pendant les travaux existe, la Ville la nomme et la localise, et le magazine municipal
+confirme qu'ils y sont maintenus. Mais aucune des deux sources ne publie **ni jour, ni heure, ni
+liste d'occupants**, et la page `brest.fr/village-saint-louis` n'existe pas. En dessous du seuil de
+la règle 16. **Critère de déblocage** : des horaires publiés par la Ville, ou la liste des
+commerçants du village.
+
+**Brasserie L'Urbaine, 11B rue Kerfautras — la fiche est prête, elle attend le prochain passage à
+Brest.** Tout est vérifié : brasserie de bières artisanales bio créée en 2018, un seul
+établissement ouvert au registre, code NAF 11.05Z, inscrite au registre de l'Agence Bio avec un
+certificat Ecocert en cours ; l'office de tourisme publie l'adresse, le téléphone et des horaires
+précis, « ouvert le mardi et vendredi de 9h à 12h et de 14h à 18h » ; et il existe une vraie
+photographie du producteur, ses bouteilles sur des fûts marqués à son nom, sans visage. Elle n'est
+pas publiée cette fois seulement parce que la passe tenait déjà cinq fiches et que le groupement
+sur une commune ne se déforme pas. Rien à trancher : elle entre au prochain passage.
+
+**Ferme de Traon Bihan — deux pièges d'affilée sur le même producteur.** L'exploitation est réelle
+et vérifiée : EARL DE TRAON BIHAN, siren 423461482, créée en 1999, engagée en bio auprès d'Ecocert
+depuis le 1er janvier 1999, vente au consommateur de viande, œufs, produits laitiers, lait cru et
+fruits et légumes, point de l'Agence Bio à Saint-Pierre. La Ville lui consacre même une page
+d'équipement. Mais **`fermedetraonbihan.fr` répond 200 et porte le nom de la ferme sans être la
+ferme** : c'est un magazine à liens dont la page « annoncer chez nous » vend un « article
+sponsorisé … lien dofollow … engagement de publication 24 mois », dont l'équipe éditoriale est
+inventée de toutes pièces, et qui date la conversion bio de 2010 quand le registre la date de 1999.
+Nouveau cas de la règle 79, après Santa Lucia. Second piège : `courtcircuitpaysdebrest.fr`, qui
+consacrait une page à cette ferme, sert aujourd'hui une porte « 18+ Access ». **Critère de
+déblocage** : une adresse précise, un jour et une heure de vente publiés par la ferme elle-même ou
+par une autorité — la page de la Ville ne donne que « Saint-Pierre ».
+
+**Bio du Portzic, angle rue Jim-Sevellec et route de Sainte-Anne du Portzic** — magasin bio
+immatriculé en 47.11C, un établissement ouvert, certificat Ecocert en cours depuis avril 2017 au
+registre de l'Agence Bio. Il manque tout le reste : `bioduportzic.bzh`, `bioduportzic.fr` et
+`bioatao.bzh` ne résolvent pas, aucune autorité ne publie ses horaires, aucune photographie n'a été
+trouvée. **Critère de déblocage** : des horaires publiés par une source accessible, et une
+photographie.
+
+**Les neuf autres marchés de plein air** — Sadi-Carnot, Saint-Marc, Sanquer, Europe, Saint-Pierre,
+Bellevue, Lambézellec, Quatre-Moulins, et le marché non alimentaire de l'esplanade Saint-Martin —
+ont tous un jour, un lieu et une heure publiés par la Ville : ils passent le seuil de la règle 16.
+Ce qui leur manque est ailleurs. D'abord les produits : l'office de tourisme leur écrit à tous la
+même phrase, « commerçants non sédentaires, producteurs, petits jardiniers, patron-pêcheurs,
+ostréiculteurs », qui ne distingue rien. Ensuite les photographies, et c'est la découverte de la
+passe : **trois fichiers illustrent dix fiches**, à l'octet près, sous des noms qui diffèrent d'un
+suffixe. C'est la matière de la règle 88. L'office publie par ailleurs **deux fiches pour le marché
+de Saint-Marc**, `le-marche-de-saint-marc` et `le-marche-de-saint-marc-2`, avec deux photographies
+prises dans deux lots différents. **Critère de déblocage** : une liste d'étals ou une description
+propre à un marché, publiée par la Ville, par l'office ou par une association de commerçants.
+
+**Le marché bio de Kérinou a deux sites, tous deux figés.** `kerinoubio.fr` répond 200 en HTTP mais
+pas en HTTPS, et ce qu'il sert est une page **enregistrée à la main** — ses feuilles de style
+pointent vers un dossier `index_fichiers` local, sa balise canonique vers un domaine qui ne résout
+plus, et sa dernière nouvelle annonce la reprise du marché « ce samedi 16 mai » 2020. Le blog de
+l'association CABA, `cabakerinou.over-blog.com`, est vivant mais s'arrête en mai 2019. Les deux
+disent la même chose sur le fond — une association de consommateurs et de producteurs, un carré bio
+— mais aucun ne peut être inscrit en `site_web` : la fiche renvoie donc à la page des marchés de la
+Ville. **Critère de déblocage** : un site ou une page à jour de l'association.
+
+**Producteurs écartés parce qu'ils ne sont immatriculés que sous un patronyme** — le registre de
+l'Agence Bio pour le Finistère compte 2 645 opérateurs, dont 91 à Brest et 18 signalés en vente aux
+consommateurs. Une bonne part des producteurs brestois y figurent sous leur seul nom de famille,
+sans enseigne déclarée. MODERATION.md interdit de publier le patronyme d'un exploitant en
+entreprise individuelle comme s'il s'agissait d'une enseigne, même en open data : ils ne sont ni
+nommés ici ni publiés. **Critère de déblocage** : une enseigne déclarée au registre des entreprises
+ou affichée sur le point de vente.
+
+**Écartés comme hors sujet** : la page « shopping gourmand » de l'office de tourisme mène à une
+dizaine d'adresses brestoises qui n'entrent pas dans le sujet du site — un comptoir de thés d'une
+marque nationale, une épicerie de produits du monde, une épicerie fine d'épices et de chocolats,
+une cave-cantine. **Écartés au titre de la règle 86** : deux épiceries de vrac et de quartier bien
+décrites par l'office, dont l'une annonce « du vrac bio et local » et l'autre « des vins de petits
+producteurs », mais dont aucune ne nomme un seul de ses producteurs — c'est exactement la condition
+que Kerbio Rive Droite a remplie et qu'elles ne remplissent pas.
 
 ### Pistes non publiées à Villeurbanne
 
