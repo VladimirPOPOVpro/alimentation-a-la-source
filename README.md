@@ -882,9 +882,37 @@ prioritaires en cas de conflit.
    c'est la règle 5 qui s'applique : les deux versions sortent, attribuées. La banderole annonce
    8h-13h30 quand la page du site annonce 8h-13h ; les deux sont dans `horaires`.
 
+75. **Une marque en filigrane qui porte le nom d'une personne se recadre comme un visage ; si le
+   recadrage tombe sous le plancher, la fiche attend.** Ma Ferme en Ville, à Strasbourg, ne publie
+   qu'une seule vue de sa boutique : un bandeau de 1 920 px dont la moitié gauche est délavée par un
+   fondu et dont le centre porte le logo de l'exploitation, patronyme et prénom de l'exploitant
+   compris. C'est une entreprise individuelle, et MODERATION.md interdit de publier le nom
+   patronymique d'un exploitant comme s'il s'agissait d'une enseigne. Le seul recadrage qui écarte à
+   la fois le fondu et le logo mesure 430 px de large, sous le plancher de 600 px de la règle 59 ;
+   les deux autres photographies du site montrent l'exploitant de face derrière son étal de marché,
+   et une troisième est dominée par le camion d'un fromager qui n'a rien à voir avec la fiche.
+   Critère : le nom d'une personne physique lisible dans une image se traite comme un visage — on le
+   recadre ; si la source ne permet aucun recadrage conforme, le commerce passe en « Pistes non
+   publiées » avec, pour déblocage, une seule condition : une photographie de ce commerce sans ce
+   nom. Prolonge la règle 70, qui posait le même blocage pour les visages. La fiche n'est pas
+   refusée, elle attend — et le précédent du Bois des Anses, où le nom, le téléphone et le courriel
+   de l'exploitante avaient été découpés hors de l'affiche, dit bien que c'est le recadrage qu'on
+   cherche d'abord.
+
+76. **Un lien mort dans un annuaire officiel n'éteint pas le commerce : on cherche son domaine
+   voisin, et on l'authentifie avant de l'inscrire.** La carte des circuits alimentaires courts de
+   la Ville de Strasbourg donne `www.lejardindemarthe.fr` pour Le Jardin de Marthe ; le domaine ne
+   résout pas en HTTPS et répond 404 en HTTP. Le site vivant est `jardindemarthe.fr`, sans l'article,
+   trouvé en essayant les variantes du nom. Critère d'authentification, cumulatif : le site doit
+   donner la même adresse postale que l'annuaire, une activité qui correspond, et des horaires
+   cohérents avec ce que l'annuaire publie ; alors il est inscrit, et c'est l'annuaire qui a vieilli.
+   Sans ces recoupements on s'en tient à la règle 62 et `site_web` reste vide : un domaine voisin
+   racheté par un tiers est exactement le piège Santa Lucia, et un nom qui ressemble n'est pas une
+   preuve d'identité.
+
 ## Marchands à confirmer
 
-304 fiches sur 338 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+309 fiches sur 343 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1199,7 +1227,13 @@ prioritaires en cas de conflit.
 - **Marché paysan du Millénaire** (Montpellier) (le plus récent des marchés paysans de la ville. **Première fiche publiée au titre de la règle 74** : la photographie que la Ville met en tête de sa page montre la banderole qu'elle a elle-même posée à l'entrée de l'esplanade, et cette banderole porte « MARCHÉ DU MILLÉNAIRE — SAMEDI DE 8H00 À 13H30 — Démarrage du marché le samedi 6 septembre », logo de la Ville compris. Elle contredit la page du même site, qui écrit 8h-13h, et le dépliant de la Métropole, qui écrit la même chose : les deux versions sont dans `horaires`, attribuées. **La date d'ouverture est écrite sans le jour** : la banderole ne donne pas l'année, la Ville range la photographie dans son dossier de septembre 2025, et le 6 septembre 2025 était bien un samedi — trois indices concordants qui suffisent pour « septembre 2025 », pas pour une date au jour près. `produits` ne porte qu'une ligne, la Ville ne publiant aucune liste d'étals. Photo : cette banderole même, aucun visage)
 - **Biocoop Marianne** (Montpellier) (magasin du réseau coopératif à Port Marianne ; c'est l'enseigne qui est publiée, règle 3, comme au Bessillon, à Calais et à Grenoble. Ouvert en septembre 2013 — le magasin écrit « depuis 2013 » et le registre des entreprises date la création de l'établissement du 25 septembre 2013. Certificat **engagement en cours** au registre de l'Agence Bio, Ecocert, janvier 2014, d'où le pilier `environnement`. Horaires concordants entre l'annuaire du réseau, le site du magasin et l'affiche collée sur sa vitrine, lisible sur la photographie : lundi au samedi 10h-19h30. **Point BAN au numéro 181, retenu contre les coordonnées du magasin** : celui-ci publie les siennes dans le pied de sa page, 40 m plus à l'est ; la règle 63 ne s'applique pas ici, puisque la Base connaît le numéro — le contrôle inverse retombe dessus à 0 m. Photo : la devanture publiée par le magasin, 680 px de large, un peu juste pour un bandeau mais au-dessus du plancher de la règle 59 ; aucune personne dans le cadre)
 
-Les 338 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **La Nouvelle Douane** (Strasbourg) (magasin de producteurs de 250 m² installé dans le bâtiment de l'ancienne douane, au bord de l'Ill : dix-neuf exploitations associées y tiennent elles-mêmes la boutique. **Deux sources concordent presque exactement** — la carte des circuits alimentaires courts que la Ville et l'Eurométropole publient en données ouvertes, et le site du magasin — sur l'adresse, le téléphone, la liste des produits et le samedi 8h-18h30 ; elles divergent d'une demi-heure sur l'ouverture en semaine, 9h pour le magasin, 9h30 pour la Ville, et les deux sont dans `horaires`, règle 5. Les huit lignes de `produits` sont celles que la Ville énumère. **Pas de pilier `environnement`** : la Ville note l'offre bio « en partie » et le registre de l'Agence Bio ne connaît pas ce magasin — règle 39. Le registre des entreprises garde trace du déménagement : l'établissement du 6 rue de la Douane est fermé, celui du 1A rue du Vieux Marché aux Poissons est ouvert, et le contrôle inverse les sépare de 17 m. Point BAN sur le numéro 1a à 0,978, à 41 m du point de la Ville. **L'adresse de courriel que le magasin publie n'est pas reprise.** Photo : la façade sous l'enseigne, publiée par le magasin, aucune personne dans le cadre)
+- **Kooma** (Strasbourg) (magasin de producteurs et épicerie dans la Manufacture des Tabacs, l'entrée se faisant par le porche du 7 rue de la Krutenau : vingt-quatre fermes y vendent en direct. **Contradiction d'horaires et de téléphone entre la Ville et le magasin, règle 5 et de première main** : la carte de la Ville écrit « du lundi au samedi de 8h à 20h » et donne le 03 67 70 04 04, mais la page Contact de Kooma distingue quatre établissements dans le même lieu et n'attribue au magasin que le 03 67 70 04 03 et les horaires mardi-vendredi 10h-20h, samedi 10h-19h — le numéro du magasin est publié, celui de la Ville étant celui de la brasserie, et les deux horaires sont dans `horaires`. Le 03 67 70 04 03 est confirmé une seconde fois par le registre de l'Agence Bio. **Pilier `environnement`** sur un certificat **engagement en cours**, Ecocert, avril 2024, au nom des Épiciers bio de la Manufacture, à cette adresse même. Point BAN sur le numéro 6 à 0,969, **identique au millionième de degré** au point que publie la Ville, et à 63 m de celui du registre bio. Photo : l'intérieur du magasin publié par Kooma, la longue vitrine du boucher, aucune personne dans le cadre)
+- **L'Îlot de la Meinau** (Strasbourg) (la première ferme d'agriculture urbaine de la ville, onze hectares à la Meinau, installée en 2014 ; le registre des entreprises y ouvre l'EARL en octobre 2013 et déclare « L'ILOT DE LA MEINAU » comme enseigne du point de vente. Les sept lignes de `produits` croisent deux sources de la Ville et du magasin : la carte des circuits courts, le programme du **Tour des fermes** — « légumes, fruits, jus, bières, viandes et fromages » — et la boutique en ligne de la ferme, qui vend ses œufs. **Horaires saisonniers, règle 5** : la ferme et la Ville écrivent toutes deux lundi-vendredi 9h-19h et samedi 9h-13h, mais la ferme a annoncé pour l'été une coupure de midi, 9h-13h puis 15h-19h ; les deux sont publiés. **Pas de pilier `environnement`** : la ferme ne revendique aucune certification, la Ville note « en partie », et l'homonyme certifié du registre — L'Îlot Bio, rue Gambs — est une autre exploitation, à 1,6 km. Pilier `social` pour l'accueil du public, ateliers pédagogiques et sensoriels au programme du Tour des fermes, comme à La Grande Bastide. Point BAN sur le numéro 36 à 0,976, à 34 m du point de la Ville. **Le prénom du fondateur, que la ferme publie sur sa page « Qui sommes-nous », n'est pas repris, et sa photographie de famille — trois visages nets sur 800 px — n'a pas servi.** Photo : les planches de salades devant les serres, publiée par la ferme, aucune personne)
+- **Le Jardin de Marthe** (Strasbourg) (exploitation familiale de la Robertsau, installée depuis trois générations : maraîchage, apiculture et culture de champignons, plus une épicerie. **Première fiche publiée au titre de la règle 76** : le lien que donne la carte de la Ville, `www.lejardindemarthe.fr`, est mort — pas de résolution en HTTPS, 404 en HTTP — et le site vivant est `jardindemarthe.fr`, authentifié par la même adresse, la même activité et des horaires cohérents. **Horaires contredits, règle 5** : le magasin annonce fermé le dimanche et le lundi, la Ville ajoute un lundi 12h-19h ; les deux sont dans `horaires`. **Pilier `environnement`** sur un certificat **engagement en cours**, Ecocert, juin 2015, que le magasin confirme lui-même en écrivant « agriculture biologique certifiée Ecocert ». `produits` croise trois sources : la carte de la Ville, le programme du Tour des fermes — qui seul nomme le miel et les épices en vrac — et le site. **L'exploitation est immatriculée sous le patronyme de son exploitant** ; c'est l'enseigne qui est publiée, et les quatre prénoms de l'équipe, que le site affiche, ne le sont pas. Point BAN sur le numéro 9 à 0,969, **identique** au point de la Ville et à celui du registre de l'Agence Bio — trois sources sur le même point. Photo : la devanture de bois du magasin sous son enseigne, avec les plants et les fleurs de printemps, publiée par la ferme, aucune personne)
+- **Beevrac** (Strasbourg) (épicerie de vrac indépendante de Cronenbourg, en zéro déchet et sur consigne, qui cherche ses fournisseurs dans un rayon de cinquante kilomètres et ne propose aucun produit carné. **Pilier `environnement`** sur un certificat **engagement en cours**, Bureau Veritas, juin 2021. Le registre des entreprises ne répond pas au nom « Beevrac » : il orthographie la raison sociale **en deux mots**, « BEE VRAC », et c'est par le SIRET du registre de l'Agence Bio que l'établissement a été retrouvé — un seul, ouvert, à cette adresse depuis décembre 2017. Point BAN sur le numéro 36 à 0,985, à **4 m** du point de l'Agence Bio. Le magasin ne dit pas ses fournisseurs par leur nom mais par leur commune — Sarralbe, Woerth, Duntzenheim, Saales, Colmar — et la fiche s'en tient là. Photo : le rayon de vrac publié par le magasin, bocaux et distributeurs, aucune personne)
+
+Les 343 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1227,6 +1261,125 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Strasbourg
+
+Vingtième passe en ville. Département visé : le **Bas-Rhin (67)**, déficit **5,7049** fiche au sens
+de la règle 41, aucune fiche publiée — le premier du classement, la réserve de la règle 41.c n'ayant
+pas à jouer : la passe précédente visait l'Hérault, région 76, et le Bas-Rhin est en région 44.
+Après la passe son déficit tombe à **0,7893** et les **Alpes-Maritimes** prennent la tête à
+**5,6132**.
+
+Commune retenue : **Strasbourg**, 293 771 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu cinq commerces vérifiables sans qu'il faille redescendre ; la suivante par
+population aurait été Haguenau, 36 391 habitants.
+
+**Le portail open data de la ville est le plus riche rencontré jusqu'ici sur ce sujet.**
+`data.strasbourg.eu` est un Opendatasoft dont l'API v2.1 répond sans clé, et il porte une rubrique
+« Approvisionnement en circuits courts » qui renvoie elle-même vers quatre jeux de données : **vente
+à la ferme** (48 points, dont onze à Strasbourg, avec adresse, téléphone, horaires, familles de
+produits, mention bio et Bienvenue à la Ferme), **magasin coopératif**, **livraison de paniers**
+(72 points) et **marchés de l'Eurométropole**. Deux autres jeux décrivent les marchés :
+`sites-marches-d-approvisionnement`, tenu par le service Domaine Public et mis à jour le
+2 juillet 2026, qui donne l'emprise, le jour et l'heure des **23 sites** de la commune, et
+`marches_ems`, plus ancien, qui donne leurs noms complets et un lien vers la page de chacun sur
+`strasbourg.eu`. La Ville publie en outre la **plaquette « Mangeons local »** et le programme du
+**Tour des fermes**, qui décrit ce que vend chacune des onze fermes strasbourgeoises un dimanche de
+juin. C'est de là que viennent quatre des cinq fiches de cette passe.
+
+**En revanche, l'office de tourisme ne documente pas les circuits courts.** `visitstrasbourg.fr` est
+derrière un Cloudflare qui refuse les requêtes de cet environnement — il a fallu l'ouvrir dans un
+navigateur — et, une fois ouvert, ses recherches sur « marché des producteurs », « marchés
+hebdomadaires » et « producteurs » ne rendent que des pages de gastronomie, de shopping et de marchés
+de Noël. Aucune fiche de marché alimentaire, aucune fiche de producteur. Pour cette ville, la source
+utile est la Ville elle-même, pas l'office.
+
+**Deux domaines qui ressemblent à des sources et n'en sont pas** : `strasbourg-alsace.eu` répond 200
+mais publie « des conseils sur les formations et de l'emploi » — un domaine racheté, piège Santa
+Lucia ; `bioalsace.com` répond 200 avec un sitemap d'une seule URL, `/lander`, c'est-à-dire une page
+de parking. Ni l'un ni l'autre n'a servi. **Trois autres domaines sont morts** :
+`www.jardins-montagne-verte.com` renvoie sur une page « Construction » non publiée,
+`www.lejardindemarthe.fr` ne résout pas (voir la règle 76) et `montagneverte.org` répond 403.
+
+**Le registre de l'Agence Bio pour le 67** compte 1 530 opérateurs, dont 177 domiciliés à
+Strasbourg. La moisson utile y est mince : l'essentiel est fait de boulangeries, de préparateurs, de
+grossistes du Marché-Gare et de supérettes certifiées pour leur rayon — une dizaine de Carrefour
+City et Express, deux Monoprix, deux U Express, un Lidl, une Mie Câline, un Cora en ville —, que
+MODERATION.md écarte.
+
+**Ma Ferme en Ville**, 58 rue de Zürich — *première piste ouverte au titre de la règle 75*. Tout le
+reste est vérifié : la boutique de la Krutenau vend la récolte d'un maraîcher de l'Eurométropole, son
+catalogue en ligne nomme légumes, salades, aromates, fruits, œufs et jus de pommes, le registre des
+entreprises l'ouvre au 58 rue de Zürich, le point BAN y tombe à 0 m au contrôle inverse, et
+l'exploitation tient aussi des étals à Quatzenheim, Neugartheim, Wasselonne, Oberschaeffolsheim et
+Osthoffen. Il ne manque qu'une image publiable : le seul bandeau de boutique porte en son centre le
+logo au nom de l'exploitant, les autres photographies le montrent de face sur son étal. **Critère de
+déblocage** : une photographie de la boutique sans le nom de l'exploitant.
+
+**Marché des producteurs, rue de la Douane**, tous les samedis de 7h à 13h — le marché le plus sur le
+sujet de tout Strasbourg, et pourtant en attente. Trois sources municipales le documentent et
+s'accordent : les deux jeux de données et sa page sur `strasbourg.eu`, qui donne jusqu'aux fermetures
+des 1er et 11 novembre et aux arrêts de tram. Mais **aucune ne dit ce qui s'y vend** — pas une liste
+d'étals, pas une ligne de produits — et **aucune ne publie de photographie** : la page de la Ville
+n'en porte pas, et l'office de tourisme ignore les marchés. Deux manques, chacun bloquant.
+**Critère de déblocage** : une source qui dise ce qui se vend sur ce marché, et une photographie du
+lieu. À noter pour le jour où il sera publié : il se tient à 28 m de La Nouvelle Douane, dont il
+occupe la rue.
+
+**Les vingt-deux autres marchés de la ville** — Broglie, la Marne, Neudorf, l'Esplanade, la
+Robertsau, la Krutenau, Hautepierre, Cronenbourg, la Meinau, l'Elsau, la Montagne Verte,
+Koenigshoffen, la Cité de l'Ill, Bordeaux, le Neuhof — sont dans le même cas : jour, heure, place et
+point géographique publiés, rien sur les étals, aucune photographie. Quatre d'entre eux sont d'
+ailleurs hors sujet, la Ville les rangeant parmi les marchés d'approvisionnement sans qu'ils soient
+alimentaires : la brocante de la place de l'Étal, le marché aux fleurs de la rue des Grandes Arcades,
+le marché aux livres de la place Kléber et le marché de la Montagne
+et de l'Artisanat. **Critère de déblocage**, identique : ce qui s'y vend, et une image.
+
+**Les Jardins de la Montagne Verte**, 5 avenue du Cimetière — le plus regretté des reports. Une
+association née en 2001, quatre établissements ouverts au registre, un certificat **engagement en
+cours** chez Ecocert depuis **avril 2005**, la vente aux particuliers déclarée au registre bio, des
+horaires publiés par la Ville, un téléphone confirmé par deux sources, et le programme du Tour des
+fermes qui nomme ce qui s'y vend — tisanes, légumes bio et produits transformés. **Il ne manque
+qu'une photographie** : le site de l'association est une page « Construction » non publiée, et aucun
+autre domaine n'existe. **Critère de déblocage** : une photographie du jardin ou de son point de
+vente.
+
+**Neuf autres fermes strasbourgeoises**, toutes documentées par le programme du Tour des fermes de la
+Ville et non instruites faute de place dans cette passe : **la Ferme de la Ganzau**, 207 rue de la
+Ganzau, maraîchage et ferme pédagogique, engagement Certipaq de 2010, ouverte le vendredi de 14h30 à
+19h ; **Le Bon Goût du Terroir et des Primeurs**, 1 rue Welsch, inscrit au registre bio sous son propre
+nom, à l'adresse même que l'EARL de la Ganzau déclare comme second site ; **Les Grands Jardins**, 155 rue Kempf ; **Le Safran de Strasbourg**, 2 rue des
+Gardes-Forestiers ; **L'Ill des Terres Nouvelles**, 1 rue de la Magel ; **la micro-ferme du
+Hohberg**, 47 rue Colette ; **Les Poires secouées**, 10 rue Raphaël ; **L'Îlot Bio**, 14 rue Gambs,
+engagement Certipaq de 2021 ; et **Le Comptoir de l'Îlot**, 68 rue du Faubourg National, second point
+de vente de L'Îlot de la Meinau. Une dixième, le « projet agricole Mélanie » de la rue de Kamm, n'est
+désignée par la Ville que **par les noms de trois personnes physiques** : elle ne sera publiée que
+sous une enseigne. Même réserve pour le **maraîcher de la rue de l'Afrique**, que la Ville et le
+registre ne nomment que par le patronyme de son exploitant, alors que la Ville lui donne des horaires
+détaillés et deux lignes de produits : la fiche attend une enseigne déclarée.
+
+**Deux coopératives alimentaires**, que la Ville range elle-même dans les circuits courts et qui
+n'ont pas été instruites : **Coopalim Strasbourg**, 7 rue Kageneck, et le **Jardin du Temple Neuf**,
+place du Temple Neuf. **Critère de déblocage** : vérifier qu'il s'agit bien d'une vente ouverte et
+non réservée aux sociétaires, puis les horaires et une photographie.
+
+**Écartés comme hors sujet** : le **Marché-Gare**, où sont domiciliés une douzaine de grossistes du
+registre bio — Solibio, Soprolux, From'Arhin, Fromex, Sapam, O'Tour2, Atelier 116 —, vente aux
+professionnels ; le **comptoir agricole Silostra** du Neuhof, silo céréalier ; et les nombreux
+préparateurs certifiés sans point de vente que le registre domicilie à Strasbourg.
+
+**Données personnelles écartées** : les dix adresses de courriel que le jeu de données « vente à la
+ferme » de la Ville publie en clair pour ses onze points strasbourgeois — dont plusieurs sont des adresses personnelles chez des
+fournisseurs grand public —, l'adresse de courriel que La Nouvelle Douane publie sur son site, le
+prénom du fondateur de L'Îlot de la Meinau, les quatre prénoms de l'équipe du Jardin de Marthe, le
+patronyme de l'exploitant de Ma Ferme en Ville, et les trois noms de personnes par lesquels la Ville
+désigne le projet agricole Mélanie.
+
+**Une image écartée pour une raison inédite** : le bandeau que la Ville met en tête de sa page « Tour
+des fermes » est, de son propre aveu, un **visuel généré à l'aide de l'IA** — la mention figure en
+toutes lettres dans le programme PDF. Une image générée n'est pas une photographie, et AGENT.md
+demande une vraie photo ; elle n'a servi à rien, pas même de dépannage. C'est le pendant de la
+photographie de banque écartée à Argenteuil par la règle 70.
 
 ### Pistes non publiées à Montpellier
 

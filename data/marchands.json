@@ -8774,5 +8774,155 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Marianne+place+Ernest+Granier+Montpellier",
     "image_url": "/images/marchands/biocoop-marianne-montpellier.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-nouvelle-douane-strasbourg",
+    "nom": "La Nouvelle Douane",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.579649,
+    "lon": 7.750399,
+    "adresse": "1A rue du Vieux Marché aux Poissons, 67000 Strasbourg",
+    "horaires": "Du lundi au vendredi de 9h à 19h30, le samedi de 8h à 18h30. Le magasin publie 9h le matin en semaine ; la carte des circuits alimentaires courts de la Ville et de l'Eurométropole de Strasbourg écrit 9h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Champignons",
+      "Viandes et charcuteries (bœuf, porc, agneau, volailles)",
+      "Foie gras",
+      "Truites",
+      "Produits laitiers",
+      "Miel, confitures et pain",
+      "Vins et eaux-de-vie"
+    ],
+    "description": "Magasin de producteurs de 250 m² installé dans le bâtiment de l'ancienne douane, au bord de l'Ill : dix-neuf exploitations associées y vendent elles-mêmes leur production, sans intermédiaire. La Ville de Strasbourg leur a renouvelé le bail d'occupation du bâtiment pour douze ans à l'issue d'un appel à manifestation en juillet 2025.",
+    "telephone": "03 88 38 51 70",
+    "site_web": "https://www.lanouvelledouane.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Nouvelle+Douane+Strasbourg",
+    "image_url": "/images/marchands/la-nouvelle-douane-strasbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "kooma-strasbourg",
+    "nom": "Kooma",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.581078,
+    "lon": 7.757922,
+    "adresse": "6 cour des Cigarières, Manufacture des Tabacs, 67000 Strasbourg",
+    "horaires": "Le magasin de producteurs et l'épicerie ouvrent du mardi au vendredi de 10h à 20h et le samedi de 10h à 19h, horaires publiés par Kooma. La carte des circuits alimentaires courts de la Ville de Strasbourg écrit « du lundi au samedi de 8h à 20h », qui couvre l'ensemble du lieu, restauration comprise.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Viandes",
+      "Poissons",
+      "Laitages",
+      "Fromages",
+      "Boissons",
+      "Épicerie biologique"
+    ],
+    "description": "Magasin de producteurs et épicerie installés dans la Manufacture des Tabacs, l'entrée se faisant par le porche du 7 rue de la Krutenau : vingt-quatre fermes y vendent en direct, sans intermédiaire, et l'épicerie complète leur offre de produits biologiques majoritairement locaux. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis avril 2024.",
+    "telephone": "03 67 70 04 03",
+    "site_web": "https://kooma-strasbourg.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kooma+cour+des+Cigarières+Strasbourg",
+    "image_url": "/images/marchands/kooma-strasbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "l-ilot-de-la-meinau-strasbourg",
+    "nom": "L'Îlot de la Meinau",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.564215,
+    "lon": 7.742521,
+    "adresse": "36 route de la Fédération, 67100 Strasbourg",
+    "horaires": "Du lundi au vendredi de 9h à 19h, le samedi de 9h à 13h ; fermé les dimanches et jours fériés. La ferme a annoncé pour la saison estivale une coupure de midi : du lundi au vendredi de 9h à 13h puis de 15h à 19h, le samedi de 9h à 13h.",
+    "produits": [
+      "Légumes de saison, plus de cinquante variétés",
+      "Fruits",
+      "Œufs",
+      "Jus et conserves de la ferme",
+      "Bières",
+      "Viandes",
+      "Fromages"
+    ],
+    "description": "Première ferme d'agriculture urbaine de Strasbourg, installée en 2014 sur onze hectares à la Meinau : plus de cinquante variétés de légumes y sont cultivées et vendues au magasin de la ferme, avec les produits de confrères alsaciens et des jus et conserves fabriqués sur place. La ferme livre aussi à vélo dans Strasbourg et Illkirch, et compte parmi les étapes du Tour des fermes organisé chaque année par la Ville.",
+    "telephone": "03 88 55 62 79",
+    "site_web": "https://www.lilotdelameinau.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Îlot+de+la+Meinau+Strasbourg",
+    "image_url": "/images/marchands/l-ilot-de-la-meinau-strasbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-jardin-de-marthe-strasbourg",
+    "nom": "Le Jardin de Marthe",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.594469,
+    "lon": 7.784881,
+    "adresse": "9 chemin Goeb, 67000 Strasbourg",
+    "horaires": "Du mardi au vendredi de 10h à 19h, le samedi de 9h à 18h ; le magasin annonce fermé les dimanche et lundi. La carte des circuits alimentaires courts de la Ville de Strasbourg ajoute une ouverture le lundi de 12h à 19h.",
+    "produits": [
+      "Légumes biologiques de saison",
+      "Fruits",
+      "Champignons",
+      "Miel de l'exploitation",
+      "Viandes et charcuterie",
+      "Produits laitiers et fromages",
+      "Épices en vrac et farines",
+      "Boissons"
+    ],
+    "description": "Exploitation familiale de la Robertsau, installée depuis trois générations : maraîchage, apiculture et culture de champignons, vendus au magasin de la ferme avec une épicerie de produits sélectionnés chez des producteurs partenaires. Le registre de l'Agence Bio inscrit l'exploitation en agriculture biologique auprès d'Ecocert depuis juin 2015.",
+    "telephone": "03 88 31 11 48",
+    "site_web": "https://jardindemarthe.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Jardin+de+Marthe+Strasbourg",
+    "image_url": "/images/marchands/le-jardin-de-marthe-strasbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "beevrac-strasbourg",
+    "nom": "Beevrac",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.592749,
+    "lon": 7.723664,
+    "adresse": "36 route de Mittelhausbergen, 67200 Strasbourg",
+    "horaires": "Du mardi au vendredi de 9h30 à 13h et de 14h30 à 19h30, le samedi de 9h30 à 13h et de 14h30 à 18h.",
+    "produits": [
+      "Céréales",
+      "Légumineuses",
+      "Fruits secs et apéritifs",
+      "Condiments",
+      "Boissons",
+      "Produits frais",
+      "Plats traiteurs",
+      "Paniers de fruits et légumes de saison"
+    ],
+    "description": "Épicerie de vrac indépendante de Cronenbourg, tenue en zéro déchet et sur consigne : elle cherche ses fournisseurs dans un rayon de cinquante kilomètres chaque fois qu'elle le peut et ne propose aucun produit carné. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès de Bureau Veritas depuis juin 2021.",
+    "telephone": "09 81 36 26 24",
+    "site_web": "https://beevrac.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Beevrac+route+de+Mittelhausbergen+Strasbourg",
+    "image_url": "/images/marchands/beevrac-strasbourg.jpg",
+    "a_confirmer": true
   }
 ]
