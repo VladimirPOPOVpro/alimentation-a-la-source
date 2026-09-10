@@ -1152,9 +1152,48 @@ prioritaires en cas de conflit.
    signale le point de blocage. La réserve de la règle 41.c sur les régions n'est pas concernée : un
    département inéligible n'a pas été « visé », il a été sauté.
 
+94. **Un nom cherché au registre des entreprises peut rendre un homonyme et un mort ; c'est l'adresse
+   qui tranche.** `recherche-entreprises` interrogé sur « M'Angers Bio Angers » place en tête une
+   **association** du même nom (NAF 94.99Z, siège bâtiment Sarthe, 13 rue Papiau de la Verrie), qui
+   n'a rien à voir avec le magasin ; et la même enseigne porte une seconde société, **MGB**, qui a
+   tenu la boutique de 2018 au **1er août 2024** et affiche aujourd'hui `état F`,
+   `nombre_etablissements_ouverts` **0**. Appliquer à la lettre le contrôle du mandat sur cette
+   fiche-là — « nombre_etablissements_ouverts == 0 => ne publie pas » — ferme un commerce ouvert. La
+   société vivante est **CVCB**, même enseigne, même 15 rue de Létanduère, activité débutée le jour
+   même où l'autre s'arrête. **Critère** : quand un nom rend plusieurs personnes morales, on
+   interroge le registre **par la rue** (`q=<voie> <commune>`) et on retient l'établissement ouvert
+   à l'adresse du commerce, pas celui qui porte le nom le plus ressemblant. Le registre de l'Agence
+   Bio raconte la même reprise et sert de contrôle : certificat de MGB **arrêté** le 1er août 2024,
+   certificat de CVCB **engagé** le 16 juillet 2024. Une reprise se lit toujours comme deux
+   enregistrements dont l'un se ferme le jour où l'autre s'ouvre.
+
+95. **`magasin-bio` est un rayon du fichier, pas un label.** La liste des catégories vit dans le
+   code, hors périmètre, et elle n'a pas de case « épicerie ». Un commerce alimentaire spécialisé
+   qui n'est pas certifié y entre quand même : le fichier le fait déjà, Le Petit Transian et
+   Diététique Leblanc sont rangés en `magasin-bio` sans le pilier `environnement`. Ce qui porte la
+   certification, c'est le **pilier**, au sens des règles 45, 60 et 71 — un certificat consultable,
+   pas une intention. L'Épicerie Racynes vend des fruits et légumes bio mais n'est pas inscrite au
+   registre national de l'Agence Bio : catégorie `magasin-bio`, pas de pilier `environnement`, et la
+   description le dit en toutes lettres. **Critère** : la catégorie répond à « quel rayon le
+   visiteur cherche », le pilier répond à « qu'est-ce qui est prouvé ».
+
+96. **Quand une commune rend les faits mais pas les images, on élargit à l'agglomération avant de
+   descendre en population.** Le mandat prévoit, si la commune la plus peuplée ne rend pas cinq
+   commerces vérifiables, de descendre à la suivante par population. Angers rend les **faits** en
+   abondance : la Ville publie le jour et le lieu de dix-sept marchés. Elle ne rend pas les
+   **images** — une seule photographie de 600 × 400 pleine de visages identifiables illustre toute
+   la rubrique, et l'office de tourisme illustre sa page « marché bio » d'une photographie de stock
+   créditée à un photographe d'Unsplash, que le mandat interdit. Descendre en population mènerait à
+   Cholet, à soixante kilomètres, et casserait le groupement qui fait l'utilité d'une passe. Or le
+   mandat autorise « UNE SEULE commune **ou agglomération** ». **Critère** : l'élargissement reste
+   dans la même intercommunalité, toutes les fiches à moins d'une quinzaine de kilomètres du centre,
+   deux au moins dans la commune elle-même, et le compte rendu dit lesquelles viennent d'où et
+   pourquoi. Ici : cinq fiches dans Angers Loire Métropole, deux intra-muros, les trois autres à
+   5,8, 6,0 et 7,5 km de la place du Ralliement.
+
 ## Marchands à confirmer
 
-349 fiches sur 383 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+354 fiches sur 388 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1523,7 +1562,13 @@ prioritaires en cas de conflit.
 - **Aux Douceurs de la Ferme** (Annecy-le-Vieux) (quarante-cinq vaches Montbéliarde et Abondance, et un atelier de glaces et de crèmes desserts au lait de l'exploitation. Vente à la ferme deux après-midi par semaine, et des distributeurs à casiers accessibles de 6h à 23h depuis janvier 2021 — c'est le premier point de vente automatique publié sur la carte. `site_web` est vide au titre de la **règle 62** : le domaine que Bienvenue à la Ferme donne encore répond **410**. `telephone` vide pour la même raison qu'au Pré Paillard. Pas de pilier `environnement` : la ferme n'est pas au registre de l'Agence Bio et ne revendique pas la mention. Belle boucle locale, vérifiée des deux côtés : la fiche de Bienvenue à la Ferme précise que les œufs vendus ici viennent de la Ferme du Pré Paillard, « env 800 m » — les deux points géocodés sont à 786 m l'un de l'autre. Point BAN sur le 40 route de Thônes à 0,977, contrôle inverse à 0 m. Photo : la façade de la ferme et le casier de vente devant le mur de pierre, publiée par Bienvenue à la Ferme)
 - **AMAP Le Petit Chaperon Vert** (Annecy — Cran-Gevrier) (l'association 1901 adossée au GAEC Les Jardins du Petit Chaperon Vert, quatre maraîchers installés depuis 2011 sur le parc du Taillefer. **Le GAEC ne vend nulle part ailleurs** : cent pour cent des légumes partent dans les paniers des adhérents, ce qui en fait le contraire exact d'un magasin — d'où le pilier `social` en plus des trois autres. Certificat Bureau Alpes Contrôles consultable, engagement de mai 2022. Deux distributions par semaine, mardi à l'Espace Vallon et jeudi à La Turbine ; c'est l'adresse du mardi qui porte le point, la salle Jean Moulin, 6 place Jean Moulin. **Les prénoms des quatre maraîchers, que le site publie, ne sont pas repris.** Point BAN sur le 6 place Jean Moulin à 0,967. Photo : le tunnel de salades du jardin, publiée par l'AMAP, aucun visage)
 
-Les 383 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Le Jardin de l'Avenir** (Sainte-Gemmes-sur-Loire) (ferme maraîchère bio de 1974, une dizaine d'hectares aux portes d'Angers : libre cueillette sur les parcelles, magasin bio complet, restaurant depuis 2021. Certificat **Ecocert engagement en cours**, engagement de septembre 2007, d'où le pilier `environnement`. Le site publie la liste de ses producteurs référencés **avec leur commune** — c'est cette liste, et non une reformulation, qui alimente les produits : pain de Soulaines-sur-Aubance et de Saint-Martin-du-Bois, chèvres de Grézillé, d'Yzernay et de Beaucouzé, bière de Bouchemaine, de La Ménitré et de Rochefort-sur-Loire, miel de Montigné-lès-Rairies, huiles de Combrée, pâtes de Jarzé. Point BAN sur le 61 route de la Roche à 0,957 ; le registre des entreprises tombe 40 m plus loin, celui de l'Agence Bio 1,1 km plus au nord — **règle 40**, on garde la BAN. Photo : l'étal de courges du magasin publié par le Jardin, **recadré sous la ligne des têtes** — le quart haut de l'original montre deux silhouettes floues ; après recadrage il reste les ardoises de prix, lisibles, qui servent de source aux produits au titre de la règle 74. Les prénoms de l'équipe, que le site publie sous sa photo de groupe, ne sont pas repris)
+- **La Ferme Angevine** (Beaucouzé) (magasin de producteurs de 1992 installé dans une ancienne longère au rond-point du pôle bricolage de l'Atoll : vingt-sept producteurs, deux jours d'ouverture par semaine, agréé Bienvenue à la Ferme. **Le commerce publie son propre point GPS**, 47,489922 / −0,623492, qui se retourne à 7 m du 245 route de la Haie du Moulin — la BAN ne connaît que l'axe de la voie pour ce lieu-dit, et le registre des entreprises tombe à 27 m ; les trois sources concordent, c'est la plus précise qui est retenue. Pas de pilier `environnement` : l'engagement affiché — « réduire notre impact en diminuant les distances » — est une déclaration, pas un certificat consultable, et la ferme n'est pas au registre de l'Agence Bio. `telephone` porte le **fixe** publié à côté du portable, jamais le portable, comme partout ailleurs dans ce fichier)
+- **Marché Fermier** (Saint-Sylvain-d'Anjou, Verrières-en-Anjou) (**catégorie `marche` au titre de la règle 80, l'objet déclaré l'emporte** : c'est un point de vente collectif du GIE Les Fermes Baugeoises, ouvert en 1995, et son site écrit noir sur blanc « notre devanture nous laisse croire que nous sommes un magasin, mais nous sommes bel et bien un marché couvert » — il a commencé en plein air sous des barnums. Trente producteurs, un boucher, un charcutier, un boulanger, un maraîcher, un fromager, un apiculteur, un fleuriste et un pêcheur. **Contradiction de code postal tranchée en faveur de la BAN** : le site et la Base Adresse Nationale écrivent 49480, le registre des entreprises 49112. Sur les vingt-sept lignes de la page « producteurs », **seules les raisons sociales sont reprises** — Charcuterie Cochard, Ferme de Villaine, EARL Anjou Biquettes, Gaec du Rodoir ; les autres sont des patronymes d'exploitants, que MODERATION.md interdit de publier comme des enseignes. Photo : le rayon crémerie et l'étal de légumes publiés par le marché, aucun visage, l'ardoise « Produits laitiers » lisible)
+- **M'Angers Bio** (Angers) (épicerie bio indépendante du quartier La Fayette, à vingt mètres du tramway. **Première fiche publiée au titre de la règle 94** : le registre des entreprises rend d'abord une association homonyme, puis la société **MGB** qui a tenu la boutique jusqu'au 1er août 2024 et affiche `nombre_etablissements_ouverts` à zéro — le contrôle du mandat, appliqué à cette fiche-là, aurait fermé un commerce ouvert. La société vivante est **CVCB**, même enseigne, même adresse, activité débutée le jour de la fermeture de l'autre ; le registre de l'Agence Bio confirme la reprise à un jour près. Certificat **Bureau Veritas engagement en cours**, juillet 2024, d'où le pilier `environnement`. La BAN ne connaît pas de « 15 » rue de Létanduère mais des 15e et 15f : les coordonnées retenues sont celles du registre, qui se retournent à 10 m du 15f. Photo : la devanture publiée par le magasin, store lisible — « primeur, crèmerie, cave, épicerie, bien-être » —, aucun visage, et l'enseigne fait elle-même office de source pour les rayons au titre de la règle 74)
+- **Épicerie Racynes** (Angers) (épicerie de produits frais ouverte fin 2023 rue Saint-Julien, doublée d'une pause déjeuner faite maison et anti-gaspi dont la carte change chaque semaine. **Première fiche publiée au titre de la règle 95** : elle vend des fruits et légumes bio, mais elle n'est pas inscrite au registre national de l'Agence Bio — catégorie `magasin-bio` faute de case « épicerie » dans le code, pas de pilier `environnement`, et la description le dit. Elle **nomme ses maraîchers partenaires** — Le Pas sage Obligé, le Champ des Hérissons, La Prairie — ce qui satisfait la règle 86, et affiche en boutique la provenance de tous ses produits. Les noms des deux gérants, que le site publie, ne sont pas repris. Photo : l'intérieur de la boutique publié par le commerce, 600 × 400, **exactement au plancher de la règle 59** et donc jamais agrandie ; les autres photographies de son site font 330 × 330, sous le plancher)
+
+Les 388 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1551,6 +1596,97 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Angers
+
+Département visé : le **Maine-et-Loire (49)**, déficit **4,6312** fiche au sens de la règle 41,
+région 52, **aucune fiche publiée**. Ce n'est pas le premier du classement : **La Réunion** mène
+toujours, à 4,9417, mais la règle 93 l'a rendue inéligible et le travail dionysien reste en pistes.
+Le 49 est donc le premier déficit éligible. Après la passe il tombe à **−0,3083**, et le prochain
+déficit éligible devient le **Nord** à 4,7182, région 32 — la réserve de la règle 41.c ne s'y oppose
+pas, la passe précédente ayant visé la région 84.
+
+Commune retenue : **Angers**, 159 022 habitants, la plus peuplée du département et sans aucune
+fiche. Elle rend les faits mais pas les images, et c'est ce qui a fait naître la **règle 96** :
+l'agglomération, pas la commune suivante par population. Deux fiches sont intra-muros, les trois
+autres à 5,8 km (Beaucouzé), 6,0 km (Sainte-Gemmes-sur-Loire) et 7,5 km (Verrières-en-Anjou) de la
+place du Ralliement, toutes dans **Angers Loire Métropole**.
+
+**Le problème de cette ville tient en une image.** `www.angers.fr/vivre-a-angers/marches/` liste
+**dix-sept marchés** avec leur jour et leur place — c'est une des rubriques municipales les mieux
+tenues rencontrées jusqu'ici. Elle est illustrée par **une seule photographie**,
+`fileadmin/plugin/tx_dcdfal/marches.jpg`, 600 × 400, où une douzaine de visages sont identifiables
+d'un bord à l'autre du cadre ; recadrer sous la ligne des têtes ferait tomber la largeur très en
+dessous du plancher de la règle 59. L'office de tourisme, lui, illustre sa page « marché bio » d'une
+photographie de stock **créditée à un photographe d'Unsplash**, que le mandat interdit nommément.
+Les faits sont donc publiables et les fiches ne le sont pas.
+
+**Les douze marchés alimentaires d'Angers**, jour et lieu vérifiés sur le site de la Ville, en
+attente d'une photographie : grand marché **samedi place Leclerc** ; Deux-Croix Banchais
+Grand-Pigeon **vendredi place Camille Claudel** ; Doutre Saint-Jacques Nazareth **jeudi place
+Bichon** et **samedi place Bordillon** ; Justice Madeleine Saint-Léonard **mardi rue de Villesicard**
+et **jeudi square Jeanne d'Arc** ; Hauts-de-Saint-Aubin **vendredi 15h-19h place de la Fraternité** ;
+La Fayette **mercredi et samedi place La Fayette** ; Monplaisir **dimanche boulevard du Doyenné** et
+**mercredi boulevard Allonneau** ; Roseraie **samedi place Jean XXIII** ; **marché bio samedi place
+Molière** ; Belle-Beille **vendredi rue Louis-Dolbeau** ; **marché des producteurs locaux vendredi
+16h-19h rue Saint-Julien** ; place Ney **mardi**. La brocante de la rue Toussaint et le marché des
+brocanteurs de la place Imbach, que la même page liste, sont hors sujet. **Critère de déblocage** :
+une photographie sans visage identifiable, d'au moins 600 px de large, publiée par la Ville, par
+l'office ou par le marché lui-même — une par marché, la photographie unique de la rubrique ne valant
+pour aucun au titre de la règle 88.
+
+**Bio Loire Océan, 9 rue Plantagenêt** — Destination Angers référence un point de vente à cette
+adresse. Le registre des entreprises ne connaît à Angers que l'**association** Bio Loire Océan,
+domiciliée 9 rue André Brouard à la Maison de l'agriculture, et **BLO Distribution**, 2 rue
+Saint-Denis : rien rue Plantagenêt, et une recherche du registre sur cette voie ne rend **aucun**
+établissement. Une page d'autorité qui référence une adresse que le registre ignore ne suffit pas.
+**Critère de déblocage** : un établissement ouvert au registre à l'adresse annoncée, ou des horaires
+publiés par Bio Loire Océan elle-même pour un point de vente précis.
+
+**Le Drive Angevin, 8 rue du Maine** — retrait le jeudi de 16h30 à 19h30, site `driveangevin.fr`.
+La page `/nos-producteurs/` est rendue en JavaScript et ne livre pas ses noms au chargement : la
+règle 86 n'est donc pas vérifiable, et la seule image du site est une bannière graphique, pas une
+photographie. **Critère de déblocage** : la liste des producteurs lisible sans exécuter le script,
+et une photographie du point de retrait.
+
+**AMAP Les Potes en Bottes** — distribution annoncée le mardi de 17h45 à 18h45 chez Penrose,
+138 rue de la Chalouère, mais seulement par des annuaires tiers ; ni le réseau AMAP régional ni
+l'association elle-même ne publient cette information sur une page accessible. Deux annuaires qui se
+recopient ne font pas deux sources. **Critère de déblocage** : le jour, l'heure et le lieu publiés
+par l'AMAP ou par le réseau régional.
+
+**Quatre épiceries de vrac angevines** — Bocalie, P'tits poids carottes, Day by Day, Prends-en de
+la graine. Aucune ne nomme ses producteurs sur une page accessible : la **règle 86** les laisse
+dehors, comme partout ailleurs. **Critère de déblocage** : une page « nos producteurs » nominative.
+
+**Écartés comme généralistes** : les supermarchés du secteur inscrits au registre de l'Agence Bio
+pour un rayon certifié — MODERATION.md les écarte, et cette passe n'a pas dérogé.
+
+**Non écartées mais non retenues : les quatre Biocoop de l'agglomération angevine.** Elles sont
+recevables — le fichier publie déjà une Biocoop à Calais — mais cinq places étaient prises par des
+commerces qui, eux, n'existent qu'ici : une ferme de 1974, un magasin de vingt-sept producteurs, un
+marché couvert de trente producteurs, une épicerie bio indépendante et une épicerie de quartier qui
+nomme ses maraîchers. À couverture égale, un lieu unique rend plus de service qu'un magasin de
+réseau. **Critère de reprise** : quand l'agglomération angevine aura épuisé ses commerces uniques,
+les Biocoop seront la piste suivante, avec leurs certificats consultables au registre.
+
+**Trois contradictions rencontrées, et comment elles ont été tranchées :**
+
+- **Le code postal du Marché Fermier.** Son site et la Base Adresse Nationale écrivent **49480**,
+  le registre des entreprises **49112**. La BAN fait foi pour l'adresse postale ; c'est 49480.
+  Verrières-en-Anjou étant une commune nouvelle née de la fusion de Saint-Sylvain-d'Anjou et de
+  Pellouailles-les-Vignes, les deux codes coexistent réellement, mais un seul dessert la Millardière.
+- **Trois points pour un même magasin bio.** Pour Le Jardin de l'Avenir, la BAN pose le 61 route de
+  la Roche à 0,957, le registre des entreprises tombe 40 m plus loin, et le registre de l'Agence Bio
+  **1,1 km plus au nord** — la règle 40 tranche depuis longtemps en faveur de la BAN, et le contrôle
+  inverse le confirme au mètre près.
+- **« M'Angers Bio » désigne trois personnes morales.** Une association homonyme, une société morte
+  et une société vivante, toutes trois trouvables sous ce nom. C'est l'origine de la **règle 94**.
+
+**Un fait volontairement laissé de côté** : l'Épicerie Racynes affiche sur sa page d'accueil un
+badge « Artisan sélectionné 2026 » dont le fichier image porte le nom de Gault & Millau, sans que le
+texte de la page nomme le guide. Le lien n'est pas assez explicite pour être publié comme une
+distinction : la fiche n'en dit rien.
 
 ### Pistes non publiées à Annecy
 

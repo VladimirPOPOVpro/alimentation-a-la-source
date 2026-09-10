@@ -10016,5 +10016,156 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Espace%20Vallon%20place%20Jean%20Moulin%20Cran-Gevrier%20Annecy",
     "image_url": "/images/marchands/amap-le-petit-chaperon-vert.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "le-jardin-de-l-avenir",
+    "nom": "Le Jardin de l'Avenir",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.42119,
+    "lon": -0.582016,
+    "adresse": "61 route de la Roche, 49130 Sainte-Gemmes-sur-Loire",
+    "horaires": "Libre cueillette et magasin : lundi 14h-19h, du mardi au samedi 9h-19h en continu ; la cueillette ferme quinze minutes avant le magasin. Restaurant du mardi au samedi à partir de 12h, café de 10h30 à 18h.",
+    "produits": [
+      "Légumes bio de saison à cueillir soi-même sur les parcelles",
+      "Courges du jardin : potimarron, butternut, pâtisson, sucrine",
+      "Pommes de terre, betteraves, radis et roquette",
+      "Pain bio du Fournil de l'Aubance (Soulaines-sur-Aubance) et de Soleil Levain (Saint-Martin-du-Bois)",
+      "Fromages de chèvre bio d'Aube Verte (Grézillé), du Gaec du Roumé (Yzernay) et de la Ferme de la Grande Houssaie (Beaucouzé)",
+      "Bières bio de La Belle de Maine (Bouchemaine), de La Piautre (La Ménitré) et de Sterne et Mousse (Rochefort-sur-Loire)",
+      "Miel bio des Ruchers de la Terre Ferme (Montigné-lès-Rairies) et des Butineuses de Champigny",
+      "Épicerie vrac, huiles de La Safranerie (Combrée), pâtes de La Ferme du Point du Jour (Jarzé) et vins d'Anjou bio"
+    ],
+    "description": "Ferme maraîchère bio installée depuis 1974 aux portes d'Angers, sur une dizaine d'hectares entre Sainte-Gemmes-sur-Loire et la Loire : les parcelles se cueillent soi-même, le magasin vend les légumes du jardin à côté d'une épicerie bio complète, et un restaurant ouvert en 2021 cuisine ce que les parcelles donnent, avec une carte qui change chaque semaine. Certificat Ecocert consultable, engagement de septembre 2007. Le magasin publie la liste de ses producteurs référencés avec leur commune — plus d'une vingtaine pour le seul Maine-et-Loire : pain de Soulaines-sur-Aubance et de Saint-Martin-du-Bois, fromages de chèvre de Grézillé et d'Yzernay, bière de Bouchemaine, miel de Montigné-lès-Rairies, huiles de Combrée, pâtes de Jarzé. Terminus de la ligne de bus 8, station Roche Morna.",
+    "telephone": "02 41 66 64 08",
+    "site_web": "https://www.jardindelavenir.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=61%20route%20de%20la%20Roche%2049130%20Sainte-Gemmes-sur-Loire",
+    "image_url": "/images/marchands/le-jardin-de-l-avenir.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-angevine",
+    "nom": "La Ferme Angevine",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.489922,
+    "lon": -0.623492,
+    "adresse": "La Haie du Moulin, 49070 Beaucouzé",
+    "horaires": "Vendredi 15h30-19h et samedi 9h-12h30. Fermetures ponctuelles annoncées dans les actualités du site.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes : porc, volailles, bœuf, veau, agneau",
+      "Charcuterie",
+      "Pains et viennoiseries",
+      "Produits laitiers, fromages de chèvre et de brebis",
+      "Miel d'Anjou",
+      "Vins d'Anjou, cidre, bières artisanales et jus de fruits",
+      "Glaces et tisanes"
+    ],
+    "description": "Magasin de producteurs installé depuis 1992 dans une ancienne longère de Beaucouzé, au rond-point du pôle bricolage de l'Atoll : vingt-sept producteurs y vendent en direct, sans intermédiaire, deux jours par semaine seulement. Le magasin est agréé Bienvenue à la Ferme et accessible aux personnes à mobilité réduite, avec un parking au pied du bâtiment. Espèces, carte bancaire et chèque acceptés, titres restaurant non ; les commandes se passent directement auprès des producteurs et non auprès du magasin.",
+    "telephone": "02 41 48 76 96",
+    "site_web": "http://lafermeangevine.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20Angevine%20La%20Haie%20du%20Moulin%2049070%20Beaucouz%C3%A9",
+    "image_url": "/images/marchands/la-ferme-angevine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-fermier-fermes-baugeoises",
+    "nom": "Marché Fermier",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.513955,
+    "lon": -0.474187,
+    "adresse": "2 avenue de la Millardière, Saint-Sylvain-d'Anjou, 49480 Verrières-en-Anjou",
+    "horaires": "Vendredi 9h30-19h et samedi 9h-13h. Le marché prévient lui-même qu'il réapprovisionne peu entre les deux jours.",
+    "produits": [
+      "Viandes et charcuterie : bœuf, veau, agneau, daguet, chevreau",
+      "Volailles fermières : poulet, pintade, dinde, chapon, canard, foie gras, pigeon, lapin",
+      "Légumes de saison, champignons de Paris, melon, endive",
+      "Fruits de saison : pommes, poires, fruits rouges, noix, noisettes, kiwis",
+      "Produits laitiers fermiers : lait cru, beurre, crème, camembert, yaourts, fromages de chèvre et de brebis",
+      "Truite fumée et escargots préparés",
+      "Pains, brioches et tourtons ; huiles de tournesol, colza et cameline ; farines et pâtes",
+      "Vins d'Anjou, crémant de Loire, jus de fruits, miels et produits de la ruche, fleurs coupées"
+    ],
+    "description": "Marché couvert d'une trentaine de producteurs, point de vente collectif du GIE Les Fermes Baugeoises, ouvert depuis 1995 à Saint-Sylvain-d'Anjou, entre le Super U et le Centrakor. Le lieu tient à la distinction : « les apparences sont parfois trompeuses, notre devanture nous laisse croire que nous sommes un magasin, mais nous sommes bel et bien un marché couvert » — il a d'ailleurs commencé en plein air sous des barnums. On y trouve un boucher, un charcutier, un boulanger, un maraîcher, un fromager, un apiculteur, un fleuriste et un pêcheur, parmi lesquels la Charcuterie Cochard, la Ferme de Villaine, l'EARL Anjou Biquettes et le Gaec du Rodoir. Ligne de bus 2 depuis Angers, arrêt Millardière.",
+    "telephone": "02 41 60 87 56",
+    "site_web": "https://marche-fermier.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20avenue%20de%20la%20Millardi%C3%A8re%20Saint-Sylvain-d%27Anjou%2049480%20Verri%C3%A8res-en-Anjou",
+    "image_url": "/images/marchands/marche-fermier-fermes-baugeoises.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "m-angers-bio",
+    "nom": "M'Angers Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.461042,
+    "lon": -0.554409,
+    "adresse": "15 rue de Létanduère, 49000 Angers",
+    "horaires": "Du mardi au samedi, 9h-13h30 et 14h30-19h15.",
+    "produits": [
+      "Fruits et légumes bio, rayon primeur",
+      "Crémerie : produits laitiers de la Maison Gaborit",
+      "Cave : vins du Domaine du Closel, du Domaine des Deux Moulins, du Domaine les Grandes Vignes et du Pas Saint-Martin",
+      "Bières des brasseries Penrose, Sterne & Mousse et des Fontaines",
+      "Produits de la Ferme de l'Égrassière et de la Ferme la Grande Fontaine",
+      "Épicerie salée et sucrée, vrac, sans gluten et alternatives végétales",
+      "Thés et infusions des Jardins de Gaia et des Thés de la Pagode",
+      "Cosmétiques, hygiène et compléments alimentaires bio"
+    ],
+    "description": "Épicerie bio indépendante du quartier La Fayette, à vingt mètres de l'arrêt de tramway : primeur, crèmerie, cave, épicerie et rayon bien-être, comme l'annonce l'enseigne au-dessus de la vitrine. Certificat Bureau Veritas consultable, engagement de juillet 2024. Le magasin dit sélectionner lui-même ses produits et travailler avec plus de deux cents producteurs et fournisseurs ; il publie la liste de ses marques, où figurent plusieurs maisons d'Anjou — Domaine du Closel, Domaine des Deux Moulins, Domaine les Grandes Vignes, Le Pas Saint-Martin, brasseries Penrose, Sterne & Mousse et des Fontaines, Ferme de l'Égrassière, Ferme la Grande Fontaine, Maison Gaborit. Parking payant à cent mètres place La Fayette, attaches vélo devant le magasin.",
+    "telephone": "02 41 87 33 89",
+    "site_web": "https://mangersbio.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15%20rue%20de%20L%C3%A9tanduere%2049000%20Angers",
+    "image_url": "/images/marchands/m-angers-bio.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "epicerie-racynes",
+    "nom": "Épicerie Racynes",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.469912,
+    "lon": -0.551327,
+    "adresse": "22 rue Saint-Julien, 49100 Angers",
+    "horaires": "Du mardi au samedi, 9h30-19h.",
+    "produits": [
+      "Fruits et légumes bio, arrivage hebdomadaire, de saison",
+      "Fromages français à la coupe",
+      "Charcuteries à la coupe",
+      "Cave : plus de quatre-vingts références de vin et bières artisanales locales",
+      "Boissons sans alcool de producteurs",
+      "Épicerie salée : tartinades végétales, pâtés, sardines millésimées, sauces pimentées, épices",
+      "Épicerie sucrée : confitures, miels, chocolats, tisanes, jus",
+      "Pause déjeuner faite maison à emporter : sandwiches, salades, plats chauds, soupes, desserts"
+    ],
+    "description": "Épicerie de produits frais et de saison ouverte fin 2023 rue Saint-Julien, doublée d'une petite restauration faite maison et anti-gaspi dont la carte change chaque semaine. Le magasin nomme ses maraîchers partenaires — Le Pas sage Obligé, le Champ des Hérissons, La Prairie — dit rencontrer chacun de ses producteurs et affiche en boutique la provenance de tous ses produits. Les fruits et légumes sont bio ; l'épicerie elle-même n'est pas inscrite au registre national de l'Agence Bio, la fiche ne porte donc pas le pilier environnement.",
+    "telephone": "09 86 72 88 89",
+    "site_web": "https://www.epicerieracynes.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%20rue%20Saint-Julien%2049100%20Angers",
+    "image_url": "/images/marchands/epicerie-racynes.jpg",
+    "a_confirmer": true
   }
 ]
