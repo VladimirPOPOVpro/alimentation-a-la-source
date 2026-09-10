@@ -10167,5 +10167,148 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%20rue%20Saint-Julien%2049100%20Angers",
     "image_url": "/images/marchands/epicerie-racynes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-tourcoing",
+    "nom": "Marché du centre-ville de Tourcoing",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.722776,
+    "lon": 3.158613,
+    "adresse": "Grand'Place, et les lundis et jeudis parvis Saint-Christophe, place de la Résistance et promenade de la Fraternité, 59200 Tourcoing",
+    "horaires": "Lundi et jeudi de 8h à 13h, samedi de 7h à 13h (le samedi, alimentaire exclusivement)",
+    "produits": [
+      "Pommes de terre, carottes, poireaux et céleris",
+      "Choux, épinards et haricots",
+      "Salades, courgettes, aubergines, poivrons et tomates",
+      "Courges, potirons et potimarrons",
+      "Oignons, échalotes et ail",
+      "Herbes aromatiques",
+      "Fraises, framboises et cerises",
+      "Melons, rhubarbe et noix"
+    ],
+    "description": "Le marché du centre-ville se tient trois fois par semaine sur la Grand'Place. Depuis le nouveau périmètre arrêté par la Ville, les séances du lundi et du jeudi débordent sur le parvis Saint-Christophe, la place de la Résistance et la promenade de la Fraternité ; celle du samedi reste sur la Grand'Place et n'accueille que l'alimentaire. La Ville ne publie pas la liste des étals : les produits indiqués ici sont ceux que la Chambre d'agriculture des Hauts-de-France recense pour le seul producteur qu'elle référence sur la séance du samedi, la Ferme Ghestem de Deûlémont.",
+    "site_web": "https://www.tourcoing.fr/evenements-a-tourcoing/marches-et-braderies/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grand%27Place%2059200%20Tourcoing",
+    "image_url": "/images/marchands/marche-du-centre-ville-tourcoing.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-phalempins-tourcoing",
+    "nom": "Marché des Phalempins",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.732352,
+    "lon": 3.15772,
+    "adresse": "Place des Phalempins, 59200 Tourcoing",
+    "horaires": "Mercredi de 7h30 à 12h30",
+    "produits": [
+      "Fruits et légumes",
+      "Produits alimentaires",
+      "Textile et habillement"
+    ],
+    "description": "Le marché de quartier des Phalempins, le mercredi matin, sur la place du même nom au nord de Tourcoing. La Ville le classe « textile et alimentaire » et ne publie ni la liste des étals ni le nom des producteurs : les catégories indiquées ici sont les siennes, et aucun annuaire agricole ne référence de producteur sur cette séance.",
+    "site_web": "https://www.tourcoing.fr/evenements-a-tourcoing/marches-et-braderies/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Phalempins%2059200%20Tourcoing",
+    "image_url": "/images/marchands/marche-des-phalempins-tourcoing.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-castel-tourcoing",
+    "nom": "Ferme Castel",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.732229,
+    "lon": 3.189116,
+    "adresse": "Rue du Lieutenant-Colonel Duchâtelet, 59200 Tourcoing",
+    "horaires": "Mardi, mercredi et vendredi de 9h à 12h30, jeudi de 15h30 à 18h30, samedi de 9h à 18h30",
+    "produits": [
+      "Lait cru et lait battu",
+      "Beurre fermier",
+      "Fromage blanc et faisselle",
+      "Yaourts nature",
+      "Yaourts aux fruits",
+      "Crèmes dessert",
+      "Glaces et sorbets",
+      "Pommes de terre"
+    ],
+    "description": "L'une des deux dernières fermes de Tourcoing, installée à la Marlière depuis cinq générations : quarante hectares, une quarantaine de vaches laitières et un magasin à la ferme ouvert cinq jours par semaine. Le lait est transformé sur place — quatre à cinq cents yaourts chaque mardi matin, deux cents litres travaillés chaque semaine en beurre et en lait battu — et la ferme livre aussi la cantine de Bondues, la cuisine centrale de Wattrelos et plusieurs collèges dans le cadre du label métropolitain « Ici, je mange local ». Le magasin vend également les produits d'autres fermes voisines.",
+    "telephone": "03 20 76 47 71",
+    "site_web": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20Castel%20rue%20du%20Lieutenant-Colonel%20Duch%C3%A2telet%2059200%20Tourcoing",
+    "image_url": "/images/marchands/ferme-castel-tourcoing.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-du-vinage-roncq",
+    "nom": "La Ferme du Vinage",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.755316,
+    "lon": 3.099222,
+    "adresse": "4 Carrière Madame Deflandre, 59223 Roncq",
+    "horaires": "Magasin : du mardi au vendredi de 9h30 à 12h30 et de 14h30 à 19h, samedi de 9h30 à 19h. Cueillette : du mardi au vendredi de 9h30 à 12h et de 14h30 à 18h, samedi de 9h30 à 18h",
+    "produits": [
+      "Carré du Vinage, créé à la ferme en 1985",
+      "Camemberts, tommes et mimolette fermiers",
+      "Une trentaine de fromages au lait des vaches de la ferme",
+      "Fromages blancs",
+      "Bœuf, porc et volaille de la boucherie fermière",
+      "Plats préparés à l'atelier : cordon bleu, filet américain, lasagnes, tartes au fromage",
+      "Fruits et légumes bio en libre cueillette, selon la saison",
+      "Épicerie de producteurs voisins"
+    ],
+    "description": "Ferme laitière et fromagerie fermière à Roncq, aux portes de Tourcoing, tenue par la même famille depuis dix générations. Soixante vaches, six mille litres de lait transformés chaque jour dans un atelier de mille mètres carrés et une trentaine de fromages, dont le Carré du Vinage créé ici en 1985 par la génération précédente. Le magasin réunit la fromagerie, une boucherie qui vend les viandes de l'élevage et l'accès à la cueillette libre : deux hectares de fruits et légumes certifiés bio par Ecocert depuis 2019, engagement de mars 2017 et certificat consultable. La cueillette ferme une heure avant le magasin, et l'accès se prend à la caisse.",
+    "telephone": "03 20 94 60 67",
+    "site_web": "https://www.fermeduvinage.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20Carri%C3%A8re%20Madame%20Deflandre%2059223%20Roncq",
+    "image_url": "/images/marchands/la-ferme-du-vinage-roncq.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-du-recueil",
+    "nom": "La Ferme du Recueil",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.650294,
+    "lon": 3.163013,
+    "adresse": "327 rue de Lannoy, 59491 Villeneuve-d'Ascq",
+    "horaires": "Marché paysan : mercredi de 10h à 13h30 et samedi de 10h à 12h30",
+    "produits": [
+      "Légumes de saison cultivés en agroécologie",
+      "Salades et légumes à feuilles",
+      "Légumes racines, bulbes et tubercules",
+      "Fraises",
+      "Petits fruits rouges",
+      "Verveine",
+      "Œufs",
+      "Colis de légumes à réserver en ligne et à retirer à la ferme"
+    ],
+    "description": "Collectif de maraîchers installé au Recueil, un ancien corps de ferme en brique posé au bord de la rue de Lannoy, en limite de Croix et de Villeneuve-d'Ascq. Les légumes y sont cultivés en agroécologie et en agroforesterie, et se vendent sur place au marché paysan du mercredi et du samedi matin ; les colis se réservent aussi en ligne et se retirent à la ferme. Engagement en agriculture biologique enregistré auprès de l'Agence Bio depuis juillet 2019, mais aucun certificat consultable en ligne, ce qui explique que le pilier environnement ne soit pas coché.",
+    "site_web": "https://lafermedurecueil.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20du%20Recueil%20327%20rue%20de%20Lannoy%20Villeneuve-d%27Ascq",
+    "image_url": "/images/marchands/la-ferme-du-recueil.jpg",
+    "a_confirmer": true
   }
 ]

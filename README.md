@@ -1190,10 +1190,41 @@ prioritaires en cas de conflit.
    deux au moins dans la commune elle-même, et le compte rendu dit lesquelles viennent d'où et
    pourquoi. Ici : cinq fiches dans Angers Loire Métropole, deux intra-muros, les trois autres à
    5,8, 6,0 et 7,5 km de la place du Ralliement.
+97. **Un annuaire de chambre d'agriculture décrit le stand d'un producteur, pas le marché.** Où
+   Acheter Local, l'annuaire de la Chambre d'agriculture des Hauts-de-France, publie « Marché de
+   Tourcoing – Samedi, Grand place, 08:30 12:00 » et une liste de vingt-quatre productions, quand
+   la Ville de Tourcoing écrit « le samedi de 7h à 13h ». Ce n'est pas une contradiction entre deux
+   autorités : la page de l'annuaire est un **point de vente rattaché à un producteur**, et elle
+   donne ses heures de présence et sa production — ici la Ferme Ghestem, de Deûlémont, seul
+   producteur que l'annuaire référence sur cette séance. **Critère** : les horaires d'un marché
+   viennent de la commune ; la liste de produits d'un tel annuaire est utilisable pour ce que la
+   commune ne publie pas, à condition que la fiche **nomme le producteur** dont elle vient. Elle ne
+   se présente jamais comme l'inventaire du marché.
+98. **Deux rues à vingt mètres l'une de l'autre ne sont pas deux adresses contradictoires.** La
+   Ville de Tourcoing, la Chambre d'agriculture et la Métropole européenne de Lille situent toutes
+   trois la Ferme Castel « rue du Lieutenant-Colonel Duchâtelet » ; le registre des entreprises
+   l'immatricule au **1 rue de Laon**. La douzième passe avait classé la piste « contradiction
+   d'adresse non tranchée » et l'y avait laissée. Géocodées, les deux voies sont à **20 m** l'une
+   de l'autre : l'exploitation occupe l'angle, le siège est déclaré d'un côté, le magasin ouvre de
+   l'autre. **Critère** : quand le registre et les autorités locales nomment deux voies
+   différentes, géocoder les deux avant de conclure ; sous une cinquantaine de mètres, ce n'est pas
+   une contradiction mais un coin de rue — on publie l'adresse **côté client**, celle que donnent
+   la commune et les annuaires professionnels, et le README consigne celle du registre. Au-delà, la
+   règle 5 reprend la main.
+99. **Une photographie institutionnelle se recadre, elle ne se jette pas.** La MEL publie, dans son
+   reportage sur le label « Ici, je mange local », une photographie de 5 496 × 3 664 prise **dans
+   l'atelier de la Ferme Castel** — la seule image de cette ferme hors d'un réseau social bloqué,
+   ses deux annuaires ne portant qu'un logo de 670 × 670. Un visage y est identifiable, ce
+   qu'`AGENT.md` interdit. **Critère** : le reportage d'une institution publique — métropole,
+   commune, département — sur l'établissement lui-même est une source de premier rang, à égalité
+   avec le site officiel du commerce ; si une personne y est reconnaissable, on **recadre** avant
+   d'écarter, et on vérifie que le recadrage reste au-dessus du plancher de 600 px de la règle 59
+   et n'agrandit rien. Ici, la moitié gauche de l'image — la cuve de lait et la conditionneuse —
+   donne 2 528 × 2 200, réduits à 1 280 × 1 114.
 
 ## Marchands à confirmer
 
-354 fiches sur 388 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+359 fiches sur 393 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1568,7 +1599,13 @@ prioritaires en cas de conflit.
 - **M'Angers Bio** (Angers) (épicerie bio indépendante du quartier La Fayette, à vingt mètres du tramway. **Première fiche publiée au titre de la règle 94** : le registre des entreprises rend d'abord une association homonyme, puis la société **MGB** qui a tenu la boutique jusqu'au 1er août 2024 et affiche `nombre_etablissements_ouverts` à zéro — le contrôle du mandat, appliqué à cette fiche-là, aurait fermé un commerce ouvert. La société vivante est **CVCB**, même enseigne, même adresse, activité débutée le jour de la fermeture de l'autre ; le registre de l'Agence Bio confirme la reprise à un jour près. Certificat **Bureau Veritas engagement en cours**, juillet 2024, d'où le pilier `environnement`. La BAN ne connaît pas de « 15 » rue de Létanduère mais des 15e et 15f : les coordonnées retenues sont celles du registre, qui se retournent à 10 m du 15f. Photo : la devanture publiée par le magasin, store lisible — « primeur, crèmerie, cave, épicerie, bien-être » —, aucun visage, et l'enseigne fait elle-même office de source pour les rayons au titre de la règle 74)
 - **Épicerie Racynes** (Angers) (épicerie de produits frais ouverte fin 2023 rue Saint-Julien, doublée d'une pause déjeuner faite maison et anti-gaspi dont la carte change chaque semaine. **Première fiche publiée au titre de la règle 95** : elle vend des fruits et légumes bio, mais elle n'est pas inscrite au registre national de l'Agence Bio — catégorie `magasin-bio` faute de case « épicerie » dans le code, pas de pilier `environnement`, et la description le dit. Elle **nomme ses maraîchers partenaires** — Le Pas sage Obligé, le Champ des Hérissons, La Prairie — ce qui satisfait la règle 86, et affiche en boutique la provenance de tous ses produits. Les noms des deux gérants, que le site publie, ne sont pas repris. Photo : l'intérieur de la boutique publié par le commerce, 600 × 400, **exactement au plancher de la règle 59** et donc jamais agrandie ; les autres photographies de son site font 330 × 330, sous le plancher)
 
-Les 388 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du centre-ville de Tourcoing** (Tourcoing) (les lundis, jeudis et samedis sur la Grand'Place. **Nouveau périmètre publié par la Ville** : les séances du lundi et du jeudi s'étendent au parvis Saint-Christophe, à la place de la Résistance et à la promenade de la Fraternité, celle du samedi reste sur la Grand'Place et n'accueille que l'alimentaire — les deux périmètres sont dans l'adresse. **Première fiche publiée au titre de la règle 97** : la liste de produits ne vient pas de la Ville, qui n'en publie aucune, mais de la fiche « Marché de Tourcoing – Samedi » d'Où Acheter Local, qui décrit en réalité le stand d'un seul producteur, la Ferme Ghestem de Deûlémont — et la description le dit. Point BAN sur la Grand'Place à 0,973, contrôle inverse à 0 m. Photo : l'étal de tomates, de radis et de salades publié par la Ville pour sa rubrique « Marchés et braderies », 600 × 400, **exactement au plancher de la règle 59**, ardoises lisibles, aucun visage)
+- **Marché des Phalempins** (Tourcoing) (le mercredi matin, place des Phalempins, au nord de la ville. La Ville le classe « textile et alimentaire » et ne publie ni la liste des étals ni le nom d'un producteur ; **aucun annuaire agricole ne référence quoi que ce soit sur cette séance**. Les trois catégories de produits sont donc celles de la Ville, mot pour mot, et rien de plus n'est affirmé. Point BAN sur la place à 0,971, contrôle inverse à 0 m. Photo : la vue aérienne de la place publiée par la Ville, silhouettes lointaines, aucun visage identifiable)
+- **Ferme Castel** (Tourcoing) (l'une des deux dernières fermes de la commune, à la Marlière depuis cinq générations : quarante hectares, une quarantaine de vaches laitières, un magasin cinq jours par semaine et un atelier qui sort quatre à cinq cents yaourts chaque mardi matin. **Première fiche publiée au titre de la règle 98** : la douzième passe l'avait laissée en attente sur une contradiction d'adresse entre la Ville et le registre ; les deux voies sont à 20 m l'une de l'autre. Le second point bloquant — « aucun horaire de vente publié nulle part » — a été levé par **Où Acheter Local**, l'annuaire de la Chambre d'agriculture des Hauts-de-France, qui donne les cinq jours d'ouverture. `site_web` reste vide au titre de la **règle 62** : `fermecastel.fr` ne répond plus, et le seul lien vivant est une page Facebook. Pas de pilier `environnement` : la ferme n'est pas au registre de l'Agence Bio. Le patronyme de l'exploitant, que le registre des entreprises et la MEL publient tous les deux, n'est pas repris — la fiche porte l'enseigne, règle 3. Photo : **première application de la règle 99**, l'atelier de la ferme photographié par la MEL, recadré à gauche du visage)
+- **La Ferme du Vinage** (Roncq) (ferme laitière et fromagerie fermière de la dixième génération, six mille litres de lait transformés par jour, une trentaine de fromages dont le Carré du Vinage né ici en 1985, une boucherie fermière et deux hectares de cueillette libre. Certificat **Ecocert engagement en cours**, engagement de mars 2017 et certification obtenue en 2019, d'où le pilier `environnement` — **mais il porte sur la production de la SCEA, c'est-à-dire la cueillette, pas sur la fromagerie**, et la description ne dit pas autre chose. **Le site se contredit lui-même sur les horaires de la cueillette** : sa page « cueillette » écrit « l'accès à la cueillette se fait aux horaires du magasin », puis publie des heures qui ferment une heure plus tôt que celles de la page « contact » — les deux séries figurent dans `horaires`, règle 5. Deux personnes morales au même corps de ferme, la SCEA Couvreur Capelle et l'EARL du Vinage, toutes deux actives en 01.50Z : une seule fiche, règle 7. Point BAN sur le 4 Carrière Madame Deflandre à 0,961, contrôle inverse à 0 m. Photo : la façade du magasin publiée par la ferme, enseigne « Accueil magasin » lisible, aucun visage)
+- **La Ferme du Recueil** (Villeneuve-d'Ascq) (collectif de maraîchers installé dans un ancien corps de ferme en brique au bord de la rue de Lannoy, en limite de Croix : marché paysan le mercredi et le samedi matin, colis à réserver en ligne et à retirer sur place. **Trois adresses pour un même nom, tranchées en faveur du commerce** : son site donne le 327 rue de Lannoy à Villeneuve-d'Ascq, le registre de l'Agence Bio le 22 chemin de la Vacquerie à Croix — 1,7 km plus au nord — et le registre des entreprises le 15 allée des Deux Lions à Croix pour son seul établissement ouvert, celui du chemin de la Vacquerie étant fermé. Règle 58, la page à jour du commerce l'emporte ; le registre confirme au passage que le lieu du 327 rue de Lannoy s'appelle « Le Recueil », une ancienne adresse d'assurance y étant immatriculée sous ce nom. Pas de pilier `environnement` : l'engagement Ecocert est bien enregistré depuis juillet 2019 au registre de l'Agence Bio, mais **son champ `url` est vide** — aucun certificat consultable, règle 45. Point BAN sur le 327 rue de Lannoy à 0,760, contrôle inverse à 0 m. Photo : le marché paysan sous les barnums devant les bâtiments de la ferme, publiée par la ferme, silhouettes lointaines et aucun visage identifiable)
+
+Les 393 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1596,6 +1633,100 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Tourcoing
+
+Treizième passe en ville. Département visé : le **Nord (59)**, déficit **4,7182** fiche au sens de
+la règle 41 avec 388 fiches publiées et 10 dans le département. La Réunion vient devant, à
+**5,0062**, mais le contrôle de construction de `lib/validateMerchants.ts` refuse toute coordonnée
+hors du cadre métropolitain : **règle 93**, un département que la construction refuse n'est pas
+éligible. Le Nord est en **région 32**, la passe précédente visait le Maine-et-Loire, région 52 :
+la réserve de la règle 41.c est respectée. Après la passe, le déficit du Nord tombe à **−0,0921**.
+
+**Élargissement à l'agglomération, règle 96.** La commune la plus peuplée du département sans
+aucune fiche restait **Tourcoing, 98 772 habitants** — la douzième passe y avait commencé, n'y
+avait trouvé que quatre pistes et était descendue sur Roubaix, qui a pris les cinq fiches. Cette
+fois Tourcoing rend trois fiches solides et pas cinq, pour une raison qui n'est pas la
+vérification mais l'illustration : la Ville ne publie **qu'une seule photographie de marché** pour
+ses trois marchés, et les deux commerces restants — la coopérative Au Panier Vert et l'AMAP du
+Broutteux — n'ont de photographie nulle part. Plutôt que de redescendre en population, la passe
+élargit à la Métropole européenne de Lille, comme à Angers : **trois fiches dans Tourcoing même**
+(les deux marchés et la Ferme Castel, à 1,1, 0 et 2,4 km de la Grand'Place), **une à Roncq** à
+5,5 km et **une à Villeneuve-d'Ascq** à 8,1 km. Toutes dans la même intercommunalité, toutes sous
+la quinzaine de kilomètres.
+
+**La source qui a débloqué la passe : `ouacheterlocal.fr`.** L'annuaire de la Chambre
+d'agriculture des Hauts-de-France référence 1 606 producteurs et leurs points de vente. C'est un
+WordPress dont l'API REST expose les types `producteur`, `mapping` (les points de vente),
+`produit` et `reseaux` ; `?search=<COMMUNE>` sur `mapping` rend les points de vente d'une commune,
+et les pages `/nos-points-de-vente/<slug>/` portent adresse, téléphone, **horaires** et taxonomie
+de produits. C'est là qu'ont été trouvés les horaires de la Ferme Castel, que ni la Ville ni la
+MEL ne publient. Réserve : son `featured_media` est presque toujours un logo `photo_identite_*.png`
+de 670 × 670, jamais une photographie — l'annuaire donne des faits, pas des images.
+
+**Ce que Tourcoing a rendu et qui n'est pas publié.**
+
+- **Le marché de la Bourgogne**, place de la Bourgogne, « les vendredis de 14h à 18h30 », textile
+  et alimentaire. Les faits sont aussi solides que pour les deux autres. Ce qui manque est une
+  image : la seule photographie que la Ville associe à ce quartier montre les « Halles de la
+  Bourgogne », qui sont une façade de pharmacie — la publier sur une fiche de marché tromperait le
+  lecteur, ce que la règle 1 interdit. **Critère de déblocage** : n'importe quelle photographie
+  d'étal prise place de la Bourgogne, ou un troisième marché tourquennois illustré par la Ville.
+- **L'AMAP du Broutteux**, 100 rue de Lille, distribution le jeudi de 18h à 19h d'après Où Acheter
+  Local. Tout est vérifié sauf l'image : aucune photographie n'existe, et l'association ne publie
+  qu'une adresse électronique, que MODERATION.md interdit de reprendre. **Critère de déblocage** :
+  une photographie de la distribution ou du local.
+- **Au Panier Vert**, 595 rue de Lille à Roncq, coopérative agricole fondée à Frelinghien en 1986,
+  deuxième magasin ouvert le 12 septembre 2024, ouvert du lundi au samedi de 9h à 19h30, téléphone
+  03 20 39 86 49, une trentaine de producteurs-adhérents nommés ferme par ferme sur son site — la
+  règle 86 est donc satisfaite — et certificat Bureau Veritas engagement en cours depuis juillet
+  2019. **La fiche était prête et n'a pas d'image.** Les soixante-seize images de son site ont été
+  téléchargées : une seule dépasse le plancher de 600 px de la règle 59, et c'est un bandeau de
+  marque à quatre quartiers surchargé de texte. La photographie de l'article de la Ville de Roncq
+  fait 654 × 240 et montre deux hommes identifiables, qu'aucun recadrage ne retire sans passer sous
+  le plancher. **Critère de déblocage** : une photographie de la devanture ou des rayons.
+- **La Ferme du Partage**, 207 rue du Calvaire Déviée à Hem, maraîchage bio en permaculture sur
+  deux hectares, certifiée Ecocert. Elle ne vend pas sur place : ses légumes partent au Biocoop
+  Saveurs et Saisons de Villeneuve-d'Ascq et au Label Vie de Marcq-en-Barœul, et sa page ne publie
+  aucun horaire de vente. Le seul numéro affiché est un portable. Pas de point de vente, pas de
+  fiche.
+- **Les Jardins de Blandine**, chemin des Grands Obeaux à Bondues, maraîchage bio en permaculture,
+  vente directe aux jardins et sur le marché de Bondues. Le registre de l'Agence Bio ne connaît
+  d'elle qu'un `site_web` Facebook, aucun horaire n'est publié nulle part, et le nom sous lequel
+  elle est immatriculée est un patronyme. **Critère de déblocage** : des heures de vente publiées.
+- **Wattrelos**, 40 847 habitants, limitrophe de Tourcoing et dans la même métropole, publie
+  quatre marchés avec leur jour et leur place mais **ni horaires ni photographies**. À noter pour
+  la prochaine passe : la formulation de la Ville pour le marché du centre-ville contient un sigle
+  qu'`AGENT.md` interdit d'écrire — il faudra décrire le lieu autrement.
+
+**Les contradictions rencontrées et comment elles ont été tranchées.**
+
+- **Horaires du marché du samedi** : la Ville écrit 7h-13h, Où Acheter Local 8h30-12h. Ce n'est pas
+  un désaccord entre autorités mais deux objets différents, et c'est ce qui a fait écrire la
+  **règle 97** : l'annuaire décrit le stand de la Ferme Ghestem, pas le marché. Les horaires
+  publiés sont ceux de la Ville, la liste de produits est attribuée nommément au producteur.
+- **Adresse de la Ferme Castel** : rue du Lieutenant-Colonel Duchâtelet pour la Ville, la Chambre
+  d'agriculture et la MEL, 1 rue de Laon au registre des entreprises. Les deux points BAN sont à
+  **20 m** l'un de l'autre — **règle 98**, c'est un angle, pas une contradiction. Une recherche du
+  registre par voie sur la rue du Lieutenant-Colonel Duchâtelet ne rend aucun établissement
+  agricole, ce qui est cohérent : le siège est déclaré côté rue de Laon.
+- **Adresse de la Ferme du Recueil** : trois sources, trois adresses, détaillées dans la puce de
+  la fiche. La page à jour du commerce l'emporte, règle 58.
+- **Horaires de la cueillette du Vinage** : la ferme se contredit elle-même d'une page à l'autre.
+  Les deux séries sont publiées, règle 5.
+- **`venteAnnuaire` du registre de l'Agence Bio** : il porte `venteParticuliers: false` pour la
+  SCEA Couvreur Capelle, alors que la Ferme du Vinage tient un magasin ouvert six jours sur sept.
+  Nouvelle illustration de la réserve de la **règle 40** : ce bloc trie, il ne prouve rien.
+
+**Ce qui a été volontairement laissé de côté.** Le prénom et le nom de l'exploitant de la Ferme
+Castel et de son épouse, que la MEL et le registre publient ; le prénom de l'exploitante du Vinage
+et ceux de son équipe, que le site publie ; les prénoms et les âges des quatre maraîchers de la
+Ferme du Partage ; l'adresse électronique de la Ferme Castel et celle de l'AMAP du Broutteux ; le
+portable de la Ferme du Partage. La photographie de groupe d'Au Panier Vert, une cinquantaine de
+visages identifiables dans un verger, et les deux photographies tourquennoises « marché nocturne »
+et « marché aux puces », pour la même raison. La photographie de la rue de la Marlière prise au
+drone : elle montre le quartier de la Ferme Castel mais n'y montre aucune ferme, et l'utiliser
+comme photo d'ambiance sur une fiche de ferme laitière aurait été malhonnête au sens de la règle 1.
 
 ### Pistes non publiées à Angers
 
@@ -3534,6 +3665,13 @@ Aucune AMAP n'a donc pu être vérifiée dans cette passe, ni à Tourcoing ni à
   `/sitemap.xml` existe et rend 537 URL. Les images des pages ne sont pas dans le HTML : elles
   sont dans les fichiers `page-data.json` de Gatsby et dans l'API WordPress de
   `api.ville-roubaix.fr`, où une recherche média sur « march » rend la photothèque des marchés.
+
+**Reprise en passe 73.** Quatre des pistes ci-dessus sont devenues des fiches : le marché du
+centre-ville, le marché des Phalempins et la **Ferme Castel**, dont les deux points bloquants ont
+été levés (règle 98 pour l'adresse, l'annuaire de la Chambre d'agriculture pour les horaires). Le
+marché de la Bourgogne et les deux marchés roubaisiens restent en attente, pour la raison dite plus
+bas : il n'existe d'eux aucune photographie publiable. La section « Pistes non publiées à
+Tourcoing » ci-dessous prend la suite de celle-ci.
 
 ### Pistes non publiées à Meaux et à Chelles
 
