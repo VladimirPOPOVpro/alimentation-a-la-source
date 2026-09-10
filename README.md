@@ -1222,9 +1222,55 @@ prioritaires en cas de conflit.
    et n'agrandit rien. Ici, la moitié gauche de l'image — la cuve de lait et la conditionneuse —
    donne 2 528 × 2 200, réduits à 1 280 × 1 114.
 
+100. **Une enseigne survit à la personne morale qui la portait.** « Montreuil Saumon » rend au
+     registre des entreprises une société **cessée le 28 juillet 2020**, zéro établissement ouvert.
+     Le mandat du prompt — `nombre_etablissements_ouverts == 0`, on ne publie pas — aurait fermé
+     une fumaison qui reçoit encore du public rue de Rosny : au **130 rue de Rosny**, la société
+     **Montreuil Financière** exploite depuis février 2021 un établissement ouvert sous le même
+     code 47.29Z, et le registre de l'Agence Bio y inscrit l'opérateur sous un nom composite qui
+     mêle les deux raisons sociales. **Critère** : un zéro sur le nom ne se lit jamais seul. Avant
+     de conclure à la fermeture, refaire la recherche **sur l'adresse** ; si une autre société y
+     exploite le même code d'activité et qu'une source indépendante — registre de l'Agence Bio,
+     site de l'enseigne, commune — l'y place toujours, l'établissement est ouvert. La fiche porte
+     alors l'**enseigne** (règle 3), jamais la raison sociale du repreneur, et passe en
+     `a_confirmer`.
+
+101. **Un site vérolé par du spam injecté n'est pas un site officiel, mais ce qu'il hébergeait
+     avant l'injection reste un document.** La page d'accueil de `butinerie.com` sert aujourd'hui
+     des articles de casino en ligne en français, en italien et en polonais, intercalés dans le
+     texte de la coopérative ; `amap-idf.org` porte la même greffe. **Critère** : un domaine dans
+     cet état ne s'inscrit pas dans `site_web` — on lui préfère une page officielle vivante
+     ailleurs (site de l'enseigne nationale, registre, commune), ou on laisse le champ vide au
+     titre de la règle 62. En revanche un média déposé sur ce domaine **avant la première trace
+     d'injection** reste utilisable comme illustration ; le compte rendu dit lequel et de quand il
+     date. Ici, la photographie de la vente en vrac dans la cour de La Butinerie est un dépôt de
+     2021, les articles de casino des publications de 2024 à 2026.
+
+102. **Une plateforme e-commerce en marque blanche mélange plusieurs commerces sur un seul
+     domaine.** `bocalgenial.fr` appartient bien à Bocal Génial, mais son gabarit est celui
+     d'« Aventure Bio » : sa page « À propos de l'épicerie » décrit une boutique **du bourg de
+     Corzé**, en Maine-et-Loire, et son sitemap porte les pages promotionnelles de plus de cent
+     magasins de vrac. **Critère** : sur un site de commerce construit par un prestataire
+     mutualisé, ne retenir que ce qui porte l'adresse, le téléphone ou le nom du commerce — bloc
+     `LocalBusiness`, pied de page « Mon magasin », page de contact — et **lire l'adresse du
+     JSON-LD avant de le croire**. Tout le reste appartient au gabarit, pas au magasin.
+
+103. **Un marché dont personne ne publie les étals se décrit avec les mots des sources, pas avec
+     les métiers qu'on y suppose.** Pour le marché couvert de la Croix de Chavaux, la Ville de
+     Montreuil publie le lieu et les trois demi-journées, le comité départemental du tourisme les
+     confirme, l'open data municipal donne le point GPS — et aucun des trois ne nomme un seul
+     commerçant ni un seul étal. **Critère** : `produits` ne reprend alors que ce que les sources
+     écrivent — le classement « marchés alimentaires » du comité départemental, l'étal de fruits
+     que la Ville a choisi pour illustrer sa propre page —, quitte à ne compter que deux lignes au
+     lieu des trois à huit visées ; et la description dit que la composition des étals n'est pas
+     publiée. Deux lignes vraies valent mieux que cinq métiers plausibles. Un annuaire participatif
+     qui, lui, donne des horaires précis ne comble pas ce vide : `jours-de-marche.fr` avertit
+     lui-même qu'il est alimenté par ses visiteurs et ne garantit rien, ce qui l'exclut du recours
+     nommé de la règle 9.
+
 ## Marchands à confirmer
 
-359 fiches sur 393 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+364 fiches sur 398 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1605,7 +1651,13 @@ prioritaires en cas de conflit.
 - **La Ferme du Vinage** (Roncq) (ferme laitière et fromagerie fermière de la dixième génération, six mille litres de lait transformés par jour, une trentaine de fromages dont le Carré du Vinage né ici en 1985, une boucherie fermière et deux hectares de cueillette libre. Certificat **Ecocert engagement en cours**, engagement de mars 2017 et certification obtenue en 2019, d'où le pilier `environnement` — **mais il porte sur la production de la SCEA, c'est-à-dire la cueillette, pas sur la fromagerie**, et la description ne dit pas autre chose. **Le site se contredit lui-même sur les horaires de la cueillette** : sa page « cueillette » écrit « l'accès à la cueillette se fait aux horaires du magasin », puis publie des heures qui ferment une heure plus tôt que celles de la page « contact » — les deux séries figurent dans `horaires`, règle 5. Deux personnes morales au même corps de ferme, la SCEA Couvreur Capelle et l'EARL du Vinage, toutes deux actives en 01.50Z : une seule fiche, règle 7. Point BAN sur le 4 Carrière Madame Deflandre à 0,961, contrôle inverse à 0 m. Photo : la façade du magasin publiée par la ferme, enseigne « Accueil magasin » lisible, aucun visage)
 - **La Ferme du Recueil** (Villeneuve-d'Ascq) (collectif de maraîchers installé dans un ancien corps de ferme en brique au bord de la rue de Lannoy, en limite de Croix : marché paysan le mercredi et le samedi matin, colis à réserver en ligne et à retirer sur place. **Trois adresses pour un même nom, tranchées en faveur du commerce** : son site donne le 327 rue de Lannoy à Villeneuve-d'Ascq, le registre de l'Agence Bio le 22 chemin de la Vacquerie à Croix — 1,7 km plus au nord — et le registre des entreprises le 15 allée des Deux Lions à Croix pour son seul établissement ouvert, celui du chemin de la Vacquerie étant fermé. Règle 58, la page à jour du commerce l'emporte ; le registre confirme au passage que le lieu du 327 rue de Lannoy s'appelle « Le Recueil », une ancienne adresse d'assurance y étant immatriculée sous ce nom. Pas de pilier `environnement` : l'engagement Ecocert est bien enregistré depuis juillet 2019 au registre de l'Agence Bio, mais **son champ `url` est vide** — aucun certificat consultable, règle 45. Point BAN sur le 327 rue de Lannoy à 0,760, contrôle inverse à 0 m. Photo : le marché paysan sous les barnums devant les bâtiments de la ferme, publiée par la ferme, silhouettes lointaines et aucun visage identifiable)
 
-Les 393 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché couvert de la Croix de Chavaux** (Montreuil) (le marché couvert du centre-ville, au pied de la station de métro : jeudi matin, vendredi après-midi, dimanche matin. **Trois sources officielles concordent sur le lieu et les demi-journées** — la page « Les marchés de Montreuil » mise à jour le 21 août 2026, le comité départemental du tourisme, et le jeu de données `les-marches` de l'open data municipal, qui fournit le point 48,857964 / 2,433696 ; ce point se retourne à 7 m de la place du Marché. **Aucune des trois ne publie d'heure ni de liste d'étals** : `horaires` le dit, règle 9, et `produits` s'en tient aux mots des sources, première application de la **règle 103**. Photo : l'étal de fraises, de raisin et de citrons que la Ville a choisi pour illustrer sa rubrique « Marchés », **recadrée à 760 × 300 pour écarter le passant du fond** ; elle ne prétend pas montrer ce marché-là, règle 1)
+- **Montreuil Saumon – SAFA** (Montreuil) (fumaison artisanale de la rue de Rosny depuis 1926 : saumon salé à sec puis fumé, poissons fumés entiers ou tranchés, œufs de poissons, taramas, rollmops. **Première fiche publiée au titre de la règle 100** : la société « Montreuil Saumon » est cessée depuis juillet 2020 et ne compte aucun établissement ouvert, mais **Montreuil Financière** exploite l'établissement du 130 rue de Rosny depuis février 2021 sous le même code 47.29Z, et le registre de l'Agence Bio l'y inscrit sous l'enseigne. **Pas de pilier `environnement` et pas un mot « bio » dans les produits** : le site vend un « saumon Bio », le registre de l'Agence Bio classe l'opérateur `NON CERTIFIEE` avec un champ `url` vide — règle 45, on ne reprend pas la mention. **Contradiction d'horaires interne au site** : le corps de la page ouvre le lundi de 12h à 18h, l'encadré « Infos pratiques » écrit « du lundi au vendredi de 9h à 18h » ; c'est la version détaillée qui est publiée. Le prénom et le nom du responsable, que le site affiche, ne sont pas repris ; l'adresse électronique non plus. Point BAN sur le 130 rue de Rosny à 0,982. Photo : l'assiette de saumon fumé publiée par la maison, aucun visage)
+- **Bocal Génial** (Montreuil) (épicerie bio et vrac du boulevard Rouget de Lisle, avec commande à l'avance et retrait au magasin. Certificat **Bureau Veritas engagement en cours**, d'où le pilier `environnement`. **Première fiche publiée au titre de la règle 102** : le site est construit sur le gabarit mutualisé d'Aventure Bio, dont la page « À propos de l'épicerie » décrit une boutique de **Corzé, en Maine-et-Loire** — seuls le bloc `LocalBusiness`, la page de contact et le pied de page « Mon magasin » ont été retenus. **Contradiction d'horaires interne au site** : le bandeau d'accueil annonce « du mardi au dimanche », le tableau du pied de page et le JSON-LD ouvrent tous deux le lundi de 15h30 à 19h30 ; deux représentations concordantes contre une ligne de bandeau, ce sont les horaires détaillés qui sont publiés. Le point BAN du 32 boulevard Rouget de Lisle, celui du JSON-LD et celui de l'Agence Bio tombent au même mètre. L'adresse électronique nominative publiée par le site n'est pas reprise. Photo : la devanture publiée par le magasin, enseigne lisible, **recadrée à 620 × 600 pour écarter un passant du trottoir**)
+- **Debout les Pains !** (Pantin) (boulangerie bio au levain naturel, dont les pains ne contiennent que farine, eau, sel et levain : blé complet, petit épeautre, seigle, plus focaccias, brioches, babkas et biscuits boulangers. Catégorie `producteur` au titre de la **règle 4**, comme la Boulangerie de Port-Grimaud : l'artisan transforme sur place. Certificat **Ecocert engagement en cours**, d'où le pilier `environnement`. La farine vient de la coopérative **Biocer** de Marcilly-la-Campagne, auprès de céréaliers à moins de 120 km — c'est la boulangerie qui le publie, et c'est ce qui rend la fiche pertinente ici. Aucun numéro de téléphone n'est publié : le champ est simplement absent. Point BAN sur le 7 rue Méhul à 0,971, à 1 m du point de l'Agence Bio. Photo : la salle des meules et des cuves du fournil, publiée par la boulangerie en 2024, 5 000 × 3 333, aucun visage)
+- **La Butinerie – Biocoop Bas Canal** (Pantin) (coopérative alimentaire de l'avenue Jean Lolive qui réunit un magasin Biocoop, une cantine, un café et un jardin. **Deux personnes morales à la même porte, une seule fiche, règle 7** : La Butinerie en 56.10A et la société Saule en 47.29Z, toutes deux ouvertes au 209 avenue Jean Lolive. Certificat **Bureau Alpes Contrôles engagement en cours** au nom de La Butinerie, d'où le pilier `environnement`. **Première fiche publiée au titre de la règle 101** : `butinerie.com` sert aujourd'hui des articles de casino en ligne injectés dans son texte, il n'est donc pas inscrit ; `site_web` porte la **page officielle du magasin sur `biocoop.fr`**, qui fournit aussi les horaires, le téléphone et les deux rayons — boulangerie et fromagerie. Photo : la vente en vrac de légumes dans la cour de la coopérative, déposée sur son site en 2021, **trois ans avant la première trace d'injection**, recadrée à 880 × 690 pour écarter les personnes présentes)
+
+Les 398 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1633,6 +1685,118 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Montreuil
+
+Quatorzième passe en ville. Département visé : la **Seine-Saint-Denis (93)**, déficit **4,7138**
+fiche au sens de la règle 41 avec 393 fiches publiées et 5 dans le département — quatre à
+Saint-Denis, une à Pierrefitte-sur-Seine. La Réunion vient devant, à **5,0708**, mais le contrôle
+de construction refuse toute coordonnée hors du cadre métropolitain : **règle 93**, un département
+que la construction refuse n'est pas éligible. L'Oise suit à **4,7300**, en **région 32** — la
+passe précédente visait le Nord, même région : la réserve de la **règle 41.c** l'écarte. La
+Seine-Saint-Denis est en région 11. Après la passe, son déficit tombe à **−0,1626**.
+
+**Commune retenue : Montreuil, 111 934 habitants**, la plus peuplée du département sans aucune
+fiche — Saint-Denis, 149 077, en compte déjà quatre.
+
+**Élargissement à l'agglomération, règle 96, pour la deuxième passe consécutive et pour la même
+raison qu'à Tourcoing : les faits abondent, les photographies manquent.** Montreuil publie neuf
+marchés avec leur lieu et leur demi-journée, une douzaine d'AMAP avec jour, heure et adresse, sept
+sites d'agriculture urbaine, deux marchés de producteurs, et compte 77 opérateurs au registre de
+l'Agence Bio. Mais la Ville ne met en ligne **qu'une seule photographie exploitable** pour
+l'ensemble de ses marchés — la règle 88 interdit de la répartir sur plusieurs fiches ; les deux
+autres images de ses pages « mieux consommer » et « agriculture urbaine » portent des visages
+identifiables et ne se recadrent pas sans détruire le sujet ; Un Écrin Vert, la Biocoop de la place
+Jean-Jaurès, ne publie que deux images de 470 et 425 px de large, **sous le plancher de 600 px de
+la règle 59** ; l'AMAP Le Cri du Radis n'a qu'un logo de radis. Trois fiches sont donc
+intra-muros — le marché couvert de la Croix de Chavaux à 0,9 km de la mairie, Bocal Génial à
+0,4 km, Montreuil Saumon à 0,7 km — et deux viennent de **Pantin**, à 3,9 et 4,0 km, dans la même
+intercommunalité **Est Ensemble**. Les deux fiches intra-muros exigées par la règle 96 sont donc
+largement dépassées.
+
+**Contradictions rencontrées et arbitrages.**
+
+- **Marché de la Dhuys, trois libellés.** La Ville écrit « Rue de la Dhuys — mardi, vendredi » sans
+  demi-journée ; l'open data municipal précise « entre la rue Saint-Denis et l'avenue Fernand
+  Lamaze, mardi et vendredi **matin** » ; le comité départemental du tourisme l'appelle « Marché
+  Colonel Fabien, rue du Colonel Fabien Briand, mardi, vendredi **après-midi** ». Matin contre
+  après-midi, sur une séance dont même le nom change : rien n'est publié, la fiche attendra qu'une
+  source postérieure tranche.
+- **Marché Paul Signac, avenue ou place.** La Ville (page du 21 août 2026) et le comité du tourisme
+  écrivent « **Avenue** Paul Signac », l'open data municipal « Place Paul Signac ». **Règle 58**, la
+  page à jour l'emporte : ce serait l'avenue. Non publié faute de photographie propre.
+- **Marché Carnot, une demi-journée ou deux.** La Ville liste « samedi matin **et dimanche matin** »,
+  l'open data municipal seulement « samedi matin ». Même arbitrage, même conclusion : consigné, non
+  publié.
+- **Colette Lepage et Le Morillon, expérimentaux ou permanents.** Le comité du tourisme les décrit
+  encore comme deux essais lancés en octobre 2022 « qui deviendront permanents si le succès est au
+  rendez-vous », et il est le seul à donner leurs horaires — samedi 8h-13h pour l'un, jeudi
+  14h-20h pour l'autre. La Ville, elle, les range sans réserve parmi ses neuf marchés permanents
+  sous les noms « Marché Branly - Boissière » et « Marché Montreau - Le Morillon ». Règle 58, la
+  Ville l'emporte sur le statut ; les horaires du comité restent utilisables au titre de la règle 9,
+  mais aucune photographie ne permet d'ouvrir ces deux fiches.
+- **Montreuil Saumon, « bio » revendiqué et non certifié** — tranché à la règle 45, voir la fiche.
+- **Bocal Génial et Montreuil Saumon, chacun en contradiction avec lui-même sur ses horaires** —
+  tranchés en faveur de la version détaillée, voir les fiches.
+
+**Six domaines écartés au titre de la règle 56, aucun inscrit.** La vérification du nom de domaine
+avant inscription a servi six fois dans cette seule passe :
+
+- `lecriduradis.fr` — le texte visible de la page de la Ville imprime ce domaine, mais son `href`
+  pointe vers `amap-lecriduradis.fr` ; `lecriduradis.fr` est une ferme de la Vienne, à Liglet.
+- `laconquetedupain.fr` — un blog de recettes de boulange, pas la boulangerie autogérée de la rue
+  de la Beaune.
+- `lesfruitsdefendus.org` — un collectif de cueillette urbaine de **Montréal, au Québec**.
+- `lafermedemontreuil.fr` — une chambre d'hôtes en Normandie.
+- `painlibre.fr` — une boulangerie d'Auzet, dans les Alpes-de-Haute-Provence.
+- `lecampanier.com` — une page intitulée « SINGATOTO — Recettes de Cuisine Française » qui sert une
+  image Unsplash en `og:image`.
+
+À quoi s'ajoutent deux sites **vérolés par du spam de casino injecté**, `butinerie.com` et
+`amap-idf.org` : c'est ce constat qui a produit la **règle 101**.
+
+**Pistes non publiées, avec ce qui les débloquerait.**
+
+- **Un Écrin Vert – Biocoop Montreuil**, 6 place Jean-Jaurès, lundi-vendredi 10h-20h, samedi
+  9h-20h, 01 48 95 27 20, certificat Ecocert engagement en cours. Tout est vérifié sauf
+  l'illustration : les deux seules images de `unecrinvert.fr` font 470 × 318 et 425 × 331, sous le
+  plancher de la règle 59, et on n'agrandit jamais. **Débloquée** dès qu'une photographie d'au
+  moins 600 px de large existe — une reprise du magasin par la Ville ou par Biocoop suffirait.
+- **Le Cri du Radis**, AMAP du quartier Solidarité-Carnot : partage de récolte le jeudi de 19h à
+  20h au centre Pierre-Mendès-France, 59 rue de la Solidarité ; ferme partenaire **Le Bio Verger
+  Potager**, au hameau de Rieux à Le Hamel (60) ; fromages, fruits, légumes, œufs et pain. Site
+  `amap-lecriduradis.fr`. Manque une photographie : le site n'a qu'un logo.
+- **Boulangerie La Conquête du Pain**, 47 rue de la Beaune, 01 83 74 62 35, boulangerie bio
+  autogérée — pain au levain, viennoiseries, sandwichs. La Ville publie l'adresse, le téléphone et
+  les spécialités mais **aucun horaire**, et le domaine qui porte ce nom est un blog de recettes.
+  **Débloquée** par un horaire publié par la boulangerie elle-même ou par la Ville.
+- **La Ferme de Montreuil**, 32 boulevard de Chanzy, opérateur inscrit à l'Agence Bio, point relais
+  des Paniers du Val de Loire le mercredi de 15h à 19h30. La Ville ne publie pour ce lieu qu'un
+  horaire de retrait de paniers, pas des horaires de vente ; `lespaniersbioduvaldeloire.fr` illustre
+  sa page d'une photographie **Pexels**, qu'`AGENT.md` interdit.
+- **Marchés de producteurs de Montreuil** : le vendredi après-midi au Jardin École, 4 rue du Jardin
+  École, et le samedi matin aux Fruits Défendus, 33 rue Pierre-Jean-de-Béranger. Aucun horaire
+  précis, aucune photographie, et `lesfruitsdefendus.org` est le collectif québécois.
+- **Le Potager du Grand Paname**, 95 avenue du Président-Wilson : société active, opérateur Agence
+  Bio engagé avec vente aux particuliers, mais **aucun point de vente ni horaire publié** ailleurs
+  que sur un réseau social bloqué.
+- **Biocoop Les Lilas**, 14 rue Raymonde-Salez aux Lilas, certificat Ecocert engagement en cours :
+  la seule image de son site est une **illustration dessinée** — deux personnages sur un tandem —
+  et non une photographie, exactement le même piège que le logo de 670 × 670 rencontré à Tourcoing.
+- **Le Relais de la Lande** (26 rue Hoche, Pantin) et **Atli Agri** (8 rue Guillaume-Apollinaire,
+  Bondy), tous deux inscrits en production au registre de l'Agence Bio : ni horaire de vente ni
+  photographie.
+
+**Écarté comme hors sujet** : Miyam, qui se décrit lui-même comme un supermarché ; Otiec, épicerie
+fine de produits d'importation ; Les Jours Sucrés, confiserie ; Murs à Fleurs, qui ne vend que des
+fleurs ; Kelbongoo, commande en ligne et camion de retrait sans magasin ni horaire ; La Caravane,
+supermarché coopératif réservé à ses membres.
+
+**Données personnelles volontairement laissées de côté** : le prénom et le nom du responsable de
+Montreuil Saumon, publiés par son site ; les adresses électroniques nominatives de Bocal Génial et
+de la plupart des AMAP montreuilloises ; et surtout, sur la page « Mieux consommer » de la Ville,
+les **noms et adresses personnelles de particuliers** qui hébergent des points relais de paniers à
+leur domicile — trois d'entre eux y figurent avec leur numéro de rue.
 
 ### Pistes non publiées à Tourcoing
 

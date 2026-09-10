@@ -10310,5 +10310,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20du%20Recueil%20327%20rue%20de%20Lannoy%20Villeneuve-d%27Ascq",
     "image_url": "/images/marchands/la-ferme-du-recueil.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-croix-de-chavaux-montreuil",
+    "nom": "Marché couvert de la Croix de Chavaux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.857964,
+    "lon": 2.433696,
+    "adresse": "Place de la Croix de Chavaux, 93100 Montreuil",
+    "horaires": "Jeudi matin, vendredi après-midi et dimanche matin. La Ville de Montreuil et le comité départemental du tourisme publient les demi-journées, aucun des deux ne publie d'horaire précis.",
+    "produits": [
+      "Produits alimentaires",
+      "Fruits et légumes"
+    ],
+    "description": "Le marché couvert du centre de Montreuil, sur la place de la Croix de Chavaux, au pied de la station de métro. La Ville le compte parmi ses neuf marchés et le comité départemental du tourisme le range parmi les marchés alimentaires du département ; ni l'une ni l'autre ne publie la composition des étals.",
+    "site_web": "https://www.montreuil.fr/sortir-et-bouger/les-marches-de-montreuil",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Croix%20de%20Chavaux%2C%2093100%20Montreuil",
+    "image_url": "/images/marchands/marche-couvert-croix-de-chavaux-montreuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "montreuil-saumon-safa",
+    "nom": "Montreuil Saumon – SAFA",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.864479,
+    "lon": 2.452789,
+    "adresse": "130 rue de Rosny, 93100 Montreuil",
+    "horaires": "Lundi de 12h à 18h, du mardi au vendredi de 9h à 18h, samedi de 9h à 12h",
+    "produits": [
+      "Saumon mariné ou fumé au sel sec, dont saumon sauvage de la Baltique",
+      "Poissons fumés entiers ou tranchés : thon, truite, flétan, hareng, anguille",
+      "Œufs de saumon, de truite et de cabillaud",
+      "Poutargue et caviar",
+      "Taramas",
+      "Harengs préparés et rollmops",
+      "Tartare d'algues et rillettes de poisson"
+    ],
+    "description": "Une fumaison artisanale installée rue de Rosny depuis 1926, qui sale à sec et fume elle-même ses poissons puis les vend à sa boutique. Le magasin reste connu sous le sigle SAFA.",
+    "telephone": "01 42 87 20 20",
+    "site_web": "https://montreuilsaumon.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=130%20rue%20de%20Rosny%2C%2093100%20Montreuil",
+    "image_url": "/images/marchands/montreuil-saumon-safa.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "bocal-genial-montreuil",
+    "nom": "Bocal Génial",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.860368,
+    "lon": 2.439245,
+    "adresse": "32 boulevard Rouget de Lisle, 93100 Montreuil",
+    "horaires": "Lundi de 15h30 à 19h30, mardi de 10h à 19h30, mercredi et jeudi de 10h à 14h et de 15h30 à 19h30, vendredi et samedi de 10h à 19h30, dimanche de 10h à 13h",
+    "produits": [
+      "Épicerie salée en vrac",
+      "Épicerie sucrée en vrac",
+      "Pâtes, riz, céréales et légumineuses",
+      "Farines, sucres et aides à la pâtisserie",
+      "Fruits secs, fruits séchés et bocaux",
+      "Confitures et pâtes à tartiner",
+      "Thés, cafés et petit-déjeuner",
+      "Boissons sans alcool"
+    ],
+    "description": "Une épicerie bio et vrac de quartier, sur le boulevard Rouget de Lisle. Elle est certifiée en agriculture biologique et propose la commande à l'avance des références qu'elle n'a pas en rayon, à retirer au magasin.",
+    "telephone": "01 48 58 48 50",
+    "site_web": "https://www.bocalgenial.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32%20boulevard%20Rouget%20de%20Lisle%2C%2093100%20Montreuil",
+    "image_url": "/images/marchands/bocal-genial-montreuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "debout-les-pains-pantin",
+    "nom": "Debout les Pains !",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.889234,
+    "lon": 2.410346,
+    "adresse": "7 rue Méhul, 93500 Pantin",
+    "horaires": "Du mardi au vendredi de 11h à 19h30, samedi de 9h à 14h30",
+    "produits": [
+      "Pains au levain naturel, sans levure",
+      "Pain de blé complet",
+      "Pain au petit épeautre",
+      "Pain de seigle",
+      "Focaccias garnies",
+      "Brioches et babkas",
+      "Biscuits boulangers"
+    ],
+    "description": "Une boulangerie bio au levain naturel, dont les pains ne contiennent que farine, eau, sel et levain. La farine vient de la coopérative Biocer de Marcilly-la-Campagne, auprès de céréaliers situés à moins de 120 km du fournil ; la maison a fait le choix de ne jamais travailler la nuit et ouvre donc à 11h en semaine.",
+    "site_web": "https://www.deboutlespains.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7%20rue%20M%C3%A9hul%2C%2093500%20Pantin",
+    "image_url": "/images/marchands/debout-les-pains-pantin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-butinerie-pantin",
+    "nom": "La Butinerie – Biocoop Bas Canal",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.894593,
+    "lon": 2.41961,
+    "adresse": "209 avenue Jean Lolive, 93500 Pantin",
+    "horaires": "Magasin : lundi de 12h à 20h, du mardi au samedi de 10h à 20h, fermé le dimanche",
+    "produits": [
+      "Fruits et légumes bio",
+      "Épicerie en vrac",
+      "Boulangerie",
+      "Fromagerie"
+    ],
+    "description": "Une coopérative alimentaire pantinoise installée avenue Jean Lolive, qui réunit sous un même toit un magasin Biocoop, une cantine, un café et un jardin. Le magasin, seule partie ouverte aux horaires ci-dessus, tient les rayons boulangerie et fromagerie.",
+    "telephone": "01 48 46 15 71",
+    "site_web": "https://www.biocoop.fr/ile-de-france/seine-saint-denis/PANTIN/BIOCOOP-BAS-CANAL",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=209%20avenue%20Jean%20Lolive%2C%2093500%20Pantin",
+    "image_url": "/images/marchands/la-butinerie-pantin.jpg",
+    "a_confirmer": true
   }
 ]
