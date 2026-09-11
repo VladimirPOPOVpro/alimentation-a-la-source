@@ -10888,5 +10888,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20rue%20Silvy%2C%2092000%20Nanterre",
     "image_url": "/images/marchands/brasserie-nemeto-nanterre.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-merville-lorient",
+    "nom": "Halles de Merville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.747238,
+    "lon": -3.369341,
+    "adresse": "Halles provisoires, rue Jean Le Coutaller, 56100 Lorient",
+    "horaires": "Du mardi au dimanche, chaque matin jusqu'à 13h, toute l'année, jours fériés compris sauf le 1er mai. Le site des halles annonce une ouverture à 7h30, l'office de tourisme à 7h.",
+    "produits": [
+      "Poissons et crustacés",
+      "Huîtres et coquillages",
+      "Viande et charcuterie",
+      "Fromages et produits laitiers",
+      "Fruits et légumes",
+      "Pain et crêpes",
+      "Épicerie fine et traiteur"
+    ],
+    "description": "Le marché couvert de Lorient, une soixantaine de commerçants selon la Ville, ouvert six matins sur sept. Les halles de 1964, coiffées d'une coupole d'aluminium de 28 mètres, sont en rénovation jusqu'en 2027 : depuis avril 2024 les commerçants tiennent dans des halles provisoires de 1 800 m², rue Jean Le Coutaller, à une cinquantaine de mètres du bâtiment historique. Un marché de plein air s'y ajoute le mercredi et le samedi matin.",
+    "telephone": "02 97 02 23 91",
+    "site_web": "https://hallesdemerville.bzh/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles%20provisoires%2C%20rue%20Jean%20Le%20Coutaller%2C%2056100%20Lorient",
+    "image_url": "/images/marchands/halles-de-merville-lorient.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-de-lorient",
+    "nom": "Marché bio du mardi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.747531,
+    "lon": -3.366,
+    "adresse": "Place de l'Hôtel de Ville, 56100 Lorient",
+    "horaires": "Le mardi de 16h à 19h, toute l'année, sauf quand le mardi tombe un jour férié. Le marché est déplacé devant la Sécurité sociale pendant la première quinzaine d'août et pendant la fête foraine d'hiver, de mi-décembre à mi-janvier.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Fromage",
+      "Pain",
+      "Miel",
+      "Confitures",
+      "Spiruline"
+    ],
+    "description": "Un marché de fin de journée dont la Ville publie la charte : tous les exposants doivent être certifiés bio — AB, Demeter ou Nature & Progrès, les produits en conversion étant admis à partir de la deuxième année — et être installés dans un rayon de 70 km, ou ne travailler que des produits bio venus de ce rayon. La priorité est donnée aux producteurs, puis aux transformateurs, puis aux revendeurs, et le marché ne dépasse pas trente exposants. Les produits sans certification possible, comme les produits de la mer et la spiruline, sont admis en attendant qu'une certification existe.",
+    "telephone": "02 97 02 23 91",
+    "site_web": "https://www.lorient.bzh/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27H%C3%B4tel%20de%20Ville%2C%2056100%20Lorient",
+    "image_url": "/images/marchands/marche-bio-de-lorient.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-les-7-epis-lorient",
+    "nom": "Biocoop Les 7 Épis - Keryado",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.765424,
+    "lon": -3.401386,
+    "adresse": "2 rue Antoine de Saint-Exupéry, ZI de Keryado, 56100 Lorient",
+    "horaires": "Le magasin est ouvert de 9h30 à 19h, fermé le dimanche et les jours fériés. La poissonnerie ouvre le mardi, le mercredi, le jeudi et le samedi de 9h30 à 13h, le vendredi de 9h30 à 19h, et ferme le lundi.",
+    "produits": [
+      "Poissonnerie",
+      "Boucherie, charcuterie et traiteur",
+      "Pain et fromages à la coupe",
+      "Fruits et légumes bio",
+      "Vrac",
+      "Cosmétiques et écoproduits"
+    ],
+    "description": "Le magasin de Keryado de la coopérative bretonne Les 7 Épis, qui compte neuf points de vente ouverts autour de Lorient. Il tient sa propre poissonnerie, chose rare dans un magasin bio, ainsi qu'une boucherie-charcuterie-traiteur, de grands rayons vrac et fruits et légumes, et prolonge le magasin par le restaurant Croc'Épi. Certificat Ecocert en vigueur au nom de la coopérative, pour cette adresse.",
+    "telephone": "02 97 37 58 92",
+    "site_web": "https://www.biocoop-les7epis.bzh/les-7-epis-lorient-keryado/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20Antoine%20de%20Saint-Exup%C3%A9ry%2C%20ZI%20de%20Keryado%2C%2056100%20Lorient",
+    "image_url": "/images/marchands/biocoop-les-7-epis-lorient.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "pain-barge-lorient",
+    "nom": "Pain Barge",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.751199,
+    "lon": -3.371688,
+    "adresse": "4 boulevard Léon Blum, 56100 Lorient",
+    "horaires": "Du mardi au vendredi de 10h à 19h, le samedi de 9h à 13h.",
+    "produits": [
+      "Pains au levain naturel",
+      "Miches rustiques",
+      "Pain à la coupe",
+      "Brioche pur beurre",
+      "Brioche façon babka",
+      "Focaccias",
+      "Biscuits"
+    ],
+    "description": "Boulangerie au levain naturel immatriculée en 2026 : « nos pains sont fabriqués uniquement à partir de farine, d'eau, de sel et de levain naturel », sans additif ni améliorant, avec des farines 100 % françaises, du sel récolté à la main en presqu'île guérandaise et des beurre, œufs et miel bretons. La maison revendique une organisation sans travail de nuit et un vrai week-end. Certificat Ecocert en vigueur pour la boulangerie, la pâtisserie et la viennoiserie.",
+    "site_web": "https://www.painbarge.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20boulevard%20L%C3%A9on%20Blum%2C%2056100%20Lorient",
+    "image_url": "/images/marchands/pain-barge-lorient.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "gaec-du-champ-des-tours-lorient",
+    "nom": "GAEC du Champ des Tours",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.766476,
+    "lon": -3.373615,
+    "adresse": "Micro-ferme du parc du Bois-du-Château, 4 rue Gabriel Fauré, 56100 Lorient",
+    "horaires": "Marché à la ferme le mercredi après-midi, dans le parc. La Ville annonce 16h30-18h30, le premier mercredi du mois d'octobre à mai puis chaque mercredi de juin à septembre ; l'office de tourisme et l'opération Fais pousser ton emploi annoncent 16h-19h, chaque mercredi de mai à septembre puis le premier mercredi du mois d'octobre à avril.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits",
+      "Paniers de légumes sur abonnement"
+    ],
+    "description": "Micro-ferme maraîchère d'un hectare installée depuis 2019 au pied des tours du Bois-du-Château, dans le grand parc boisé du quartier, et reprise en 2021 par le groupement qui l'exploite aujourd'hui. Elle vend sa production sur place, au marché hebdomadaire de la ferme et en paniers d'abonnement, dont une partie est distribuée dans une AMAP lorientaise. Certificat Ecocert en vigueur pour les fruits, les légumes et une surface de biodiversité.",
+    "site_web": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Micro-ferme%20du%20parc%20du%20Bois-du-Ch%C3%A2teau%2C%204%20rue%20Gabriel%20Faur%C3%A9%2C%2056100%20Lorient",
+    "image_url": "/images/marchands/gaec-du-champ-des-tours-lorient.jpg",
+    "a_confirmer": true
   }
 ]

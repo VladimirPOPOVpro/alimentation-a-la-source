@@ -1341,9 +1341,44 @@ prioritaires en cas de conflit.
      oui, `site_web` non — les cinq fiches de la passe pointent vers `nanterre.fr`, `biocoop.fr` et
      le site de la brasserie.
 
+111. **Quand l'intéressé ne publie rien de consultable, c'est la collectivité propriétaire du lieu
+     qui dit l'horaire.** Le marché à la ferme du GAEC du Champ des Tours, dans le parc du
+     Bois-du-Château, a quatre horaires publiés : la page « marchés » de la Ville et son actualité
+     du 11 août 2026 écrivent toutes deux 16h30-18h30, l'office de tourisme et l'opération
+     « Fais pousser ton emploi » écrivent toutes deux 16h-19h — et elles divergent aussi sur les
+     mois. L'exploitation, elle, ne publie que sur un réseau social bloqué. La règle 104 ne tranche
+     pas : elle oppose un annuaire à l'intéressé, or l'intéressé est muet. **Critère** : à défaut de
+     source de premier rang, c'est la collectivité qui possède le terrain et autorise le marché qui
+     fait foi — ici la Ville, propriétaire du parc ; les autres versions sont citées dans
+     `horaires`, attribuées, parce que le visiteur les rencontrera aussi. Ce que la règle débloque :
+     une vente à la ferme correctement située n'est plus écartée parce que quatre institutions ne
+     s'accordent pas à la demi-heure près.
+
+112. **La page de l'intéressé ne l'emporte pas sur un fait que la collectivité a elle-même
+     décidé.** `hallesdemerville.bzh`, le site des commerçants des halles de Lorient, donne encore
+     l'avenue Anatole France comme adresse d'accès. Or c'est la Ville qui a fermé ce bâtiment pour
+     le rénover et bâti des halles provisoires rue Jean Le Coutaller, où les commerçants ont
+     déménagé en avril 2024 ; le même site imprime d'ailleurs, deux lignes plus bas, les parkings
+     de la rue Jean Le Coutaller. **Critère** : la règle 58 fait gagner la page à jour de
+     l'intéressé sur sa page périmée ; elle ne le fait pas gagner sur l'autorité qui a décidé le
+     fait. Déménagement, fermeture administrative, travaux, changement de jour de marché : la
+     collectivité dit le fait, l'intéressé dit son métier.
+
+113. **Deux inscriptions d'un même opérateur au registre de l'Agence Bio se tranchent sur le
+     certificat consultable, pas sur l'état affiché.** Les 7 Épis apparaissent trois fois dans le
+     registre du Morbihan : « LES 7 EPIS COOP BIO », `ENGAGEE` depuis 2005 avec une URL Ecocert ;
+     « LES 7 EPIS », `ENGAGEE` depuis 2021 sans URL ; et « LES 7 EPIS », `ARRETEE`, à la même
+     adresse que le magasin de Keryado et sans URL non plus. Lue seule, la troisième ligne ferait
+     écarter le pilier `environnement`. **Critère** : quand un opérateur a plusieurs lignes
+     contradictoires, on ouvre le certificat consultable et on lit **l'adresse qu'il porte** ; ici
+     il porte « 2 rue Antoine de St Exupéry - ZI de Keryado, 56100 Lorient », document en vigueur,
+     activité « Détaillant ». Une ligne `ARRETEE` sans certificat consultable n'annule pas une
+     ligne `ENGAGEE` dont le certificat nomme la même adresse — c'est une inscription administrative
+     close, pas une certification retirée.
+
 ## Marchands à confirmer
 
-379 fiches sur 413 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+384 fiches sur 418 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1744,8 +1779,13 @@ prioritaires en cas de conflit.
 - **Marché Charles-de-Gaulle** (Nanterre) (dit marché Préfecture, entre la sortie du RER Nanterre-Préfecture et le parc départemental André-Malraux : mardi, vendredi et dimanche de 8h à 14h, 11 commerçants alimentaires et une vingtaine de non alimentaires — le plus petit des quatre, et le seul à tenir jusqu'à 14h. Photo : l'étal d'agrumes, de pastèque et d'ananas publié par la Ville, **recadré à 670 × 307 pour écarter les vendeurs et une cliente**, sans agrandissement — 670 px de large, au-dessus du plancher de la règle 59)
 - **Biocoop Nanterre Ville** (Nanterre) (magasin bio du réseau Biocoop, ouvert sept jours sur sept rue Maurice Thorez : fruits et légumes bio, vrac, boulangerie, fromagerie, crémerie, épicerie, et un point de collecte pour le réemploi des contenants. Certificat **Ecocert en vigueur** au nom de la société qui exploite le magasin, consultable, d'où le pilier `environnement` ; un seul établissement ouvert au registre. La fiche porte l'enseigne et non la raison sociale, **règle 3**. Ses `produits` citent les limonades et colas de La Limonaderie de Paris, fabriqués à Nanterre : c'est l'office de tourisme qui range le magasin parmi leurs points de vente. Photo : **première application de la règle 108** — la devanture publiée par `biocoop.fr` dans un `data-lazy-src`, 600 × 600, enseigne « biocoop Nanterre Ville » lisible, aucun visage)
 - **Brasserie Nemeto** (Nanterre) (brasserie artisanale du 4 rue Silvy, immatriculée en 2019 : six bières permanentes — Geneviève, La Grange, La Folie, Boulevard du Couchant, Bois Joly, Trigoujat — des séries éphémères, et des biscuits cuits sur place avec les drêches de brassage. Vente à emporter du lundi au vendredi de 10h à 18h et le premier samedi du mois ; **contradiction interne au site** sur les heures de ce samedi, 10h30-13h et 15h30-19h sur la page « Lieux de vente », 10h-19h sur la page « Contact » : la version détaillée est publiée, l'autre est citée, règle 5. Certificat **Certipaq Bio valide du 8 avril 2026 au 31 mars 2028**, vérifié sur la fiche de l'organisme, d'où le pilier `environnement`. Le registre de l'Agence Bio marque pourtant `venteParticuliers` à faux : c'est la brasserie qui gagne sur son propre comptoir, **règle 104**, elle publie ses heures de vente à emporter. Le portable que l'office de tourisme donne pour elle n'est pas repris, seulement son fixe. Photo : le bâtiment de pierre de la brasserie, cuves visibles par le porche ouvert, publiée par la brasserie, aucun visage)
+- **Halles de Merville** (Lorient) (le marché couvert de Lorient, une soixantaine de commerçants selon la Ville, ouvert du mardi au dimanche jusqu'à 13h : poissonnerie, huîtres, boucherie, charcuterie, fromageries, laiterie, primeur, crêperie, épicerie fine. Les halles de 1964 et leur coupole d'aluminium de 28 m sont en rénovation jusqu'en 2027 ; depuis avril 2024 les commerçants tiennent dans des halles provisoires de 1 800 m², rue Jean Le Coutaller. **Première fiche publiée au titre de la règle 112** : le site des halles donne encore l'avenue Anatole France, c'est l'adresse de la Ville qui est publiée. **Trois heures d'ouverture pour la même matinée** — « chaque matin jusqu'à 13h » pour la Ville, 7h30 pour le site des halles, 7h pour l'office de tourisme : les trois sont dans `horaires`, règle 5. Aucune entreprise au registre, marché municipal, règle 106. La Base Adresse Nationale ne connaît pas les halles provisoires : le point est celui de la rue Jean Le Coutaller, à 210 m du bâtiment historique. Téléphone : la ligne « marchés » de la Ville. Photo : la façade en polycarbonate des halles provisoires, enseigne « HALLES DE MERVILLE » lisible, publiée par les halles, aucun visage)
+- **Marché bio du mardi** (Lorient) (place de l'Hôtel de Ville, le mardi de 16h à 19h : fruits et légumes, fromage, pain, miel, confitures, spiruline. **La Ville publie la charte du marché** — tous les exposants certifiés AB, Demeter ou Nature & Progrès, conversion admise à partir de la deuxième année, rayon de 70 km, priorité aux producteurs puis aux transformateurs puis aux revendeurs, trente exposants au plus — ce qui vaut le pilier `environnement` comme pour les onze autres marchés biologiques déjà publiés. Déplacements saisonniers devant la Sécurité sociale écrits dans `horaires`. Photo : l'étal de légumes bio publié par l'office de tourisme sur sa fiche de ce marché, aucun visage ; **une mosaïque apparaît au fond, qui ressemble à celle que la Ville décrit sur le mur des halles historiques** — la photographie est donc retenue comme illustration honnête au sens de la règle 1, elle ne prouve pas le lieu)
+- **Biocoop Les 7 Épis - Keryado** (Lorient) (le magasin de Keryado de la coopérative bretonne Les 7 Épis, immatriculée en 1986 et forte de neuf établissements ouverts : poissonnerie en propre, boucherie-charcuterie-traiteur, pain et fromages à la coupe, grands rayons vrac et fruits et légumes, et le restaurant Croc'Épi dans le prolongement. **Première fiche publiée au titre de la règle 113** : trois lignes au registre de l'Agence Bio, dont une `ARRETEE` à l'adresse du magasin ; c'est le certificat Ecocert consultable, « document en vigueur » au nom de LES 7 EPIS COOP BIO et portant l'adresse de Keryado, qui vaut le pilier `environnement`. La fiche porte l'enseigne du magasin, règle 3, et ses horaires à lui, règle 3 encore. Point BAN du 2 rue Antoine de Saint-Exupéry au mètre du point de l'Agence Bio. Photo : la devanture publiée par la coopérative, enseignes « biocoop · Les 7 Épis · MAGASIN BIO » et « Croc'Épi Restaurant BIO » lisibles, recadrée à 3 087 × 1 700, aucun visage)
+- **Pain Barge** (Lorient) (boulangerie au levain naturel du boulevard Léon Blum, immatriculée en avril 2026 : miches rustiques, pain à la coupe, brioches pur beurre et façon babka, focaccias, biscuits. « Nos pains sont fabriqués uniquement à partir de farine, d'eau, de sel et de levain naturel », sans additif ni améliorant ; farines 100 % françaises, sel récolté à la main en presqu'île guérandaise, beurre, œufs et miel bretons. Catégorie `producteur` au titre de la règle 4, comme Debout les Pains ! : l'artisan transforme sur place. Certificat **Ecocert en vigueur** pour la boulangerie, la pâtisserie et la viennoiserie, d'où le pilier `environnement`. Aucun numéro de téléphone n'est publié : le champ est absent ; l'adresse électronique du site n'est pas reprise. Point BAN du 4 boulevard Léon Blum au mètre du point de l'Agence Bio. Photo : la miche aux graines entière et coupée, publiée par la boulangerie, aucun visage)
+- **GAEC du Champ des Tours** (Lorient) (micro-ferme maraîchère d'un hectare installée depuis 2019 au pied des tours du Bois-du-Château, dans le parc boisé du quartier, reprise en avril 2021 par le groupement qui l'exploite : légumes de saison, fruits, paniers d'abonnement dont une partie part dans une AMAP lorientaise, et un marché à la ferme le mercredi après-midi. Certificat **Ecocert en vigueur** pour les fruits, les légumes et une surface de biodiversité, d'où le pilier `environnement`. **Première fiche publiée au titre de la règle 111** : quatre horaires publiés par quatre institutions, c'est la Ville, propriétaire du parc, qui est retenue, les deux autres versions étant citées dans `horaires`. `site_web` reste vide, règle 62 : la ferme ne publie que sur un réseau social bloqué. Les noms des exploitants, leur portable et leur adresse électronique, tous trois publiés par l'opération Fais pousser ton emploi, ne sont pas repris. Le registre écrit « 4 B rue Gabriel Fauré » là où l'Agence Bio et la Base Adresse Nationale écrivent « 4 », au même point. Photo : les cageots de courgettes et de tomates publiés par l'office de tourisme sur sa fiche de ce marché, aucun visage)
 
-Les 413 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 418 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1773,6 +1813,58 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Lorient
+
+Département visé : **Morbihan (56)**, déficit **4,6922** au titre de la règle 41, le plus fort des
+départements éligibles — La Réunion vient devant avec 5,3288 mais reste écartée par la **règle 93**.
+Région 53, contre la région 11 à la passe précédente : la réserve de la règle 41 est respectée. Les
+cinq fiches ramènent le déficit du 56 à **-0,2510**. Commune retenue : **Lorient**, 58 329
+habitants, aucune fiche jusqu'ici, la plus peuplée du département dans ce cas ; le Morbihan entier
+était vide. Aucun élargissement au titre de la règle 96 n'a été nécessaire : les cinq fiches sont
+dans Lorient même, la plus éloignée du centre à 3,3 km.
+
+Pour une fois, les photographies n'ont pas été le point dur : les halles publient la façade de leur
+bâtiment provisoire, la Biocoop et la boulangerie publient les leurs, et l'office de tourisme
+attache une image propre à chaque fiche de marché — **sept empreintes md5 comparées sur ses fiches
+de marchés lorientais, aucune partagée**, ce que la règle 88 impose de vérifier avant de lire quoi que ce soit sur une image
+d'autorité. Ce qui a coûté cher, cette fois, ce sont les horaires : quatre versions pour le marché
+à la ferme, trois pour l'ouverture des halles.
+
+Lorient a beaucoup plus de cinq points de vente en circuit court. Restent non publiés :
+
+- **Marché de Merville** (devant les halles provisoires, rue Jean Le Coutaller, mercredi et samedi
+  matin, alimentaire, plantes, vêtements et articles ménagers) : documenté par la Ville et
+  photographié par elle — la halle provisoire vue depuis les étals de melons et de légumes. Non
+  publié uniquement parce que la passe est limitée à cinq fiches ; à prendre au prochain passage.
+- **Marché de Kerentrech** (cours de Chazelles, samedi matin), **marché de Keryado** (place de la
+  Liberté, vendredi matin), **marché de l'Orientis** (place François Mitterrand, vendredi de 16h à
+  19h), **marché du Bois-du-Château** (centre commercial Kennedy : boucher-charcutier et apiculteur
+  le mercredi matin, ostréiculteur le dimanche matin), **place Polig Monjarret** (un producteur de
+  légumes le samedi matin), **Carnel** (un charcutier le mardi de 15h30 à 19h) et **Kervénanec**
+  (un poissonnier une fois par semaine) : tous documentés par la Ville. Les photographies de
+  l'office de tourisme pour ces fiches montrent en revanche des **visages identifiables au premier
+  plan** — c'est le cas des cinq images examinées — ce qui les écarte en l'état.
+- **Kergrume** (14 rue Général Frébault, NAF 01.23Z culture d'agrumes, Ecocert engagement en cours,
+  `venteParticuliers` à vrai) : la ligne la plus curieuse du registre morbihannais, une culture
+  d'agrumes en ville. Aucun site, aucun horaire publié, aucune photographie.
+- **Terres de Tisanes** (37 rue Ernest Hello, Production, `venteParticuliers` à vrai, site
+  `terresdetisanes.fr`) : l'opérateur est inscrit au registre sous le patronyme de l'exploitant, que
+  `MODERATION.md` interdit de publier comme enseigne ; l'enseigne existe, mais le point de vente et
+  ses horaires restent à établir.
+- **Les Bocaux d'Abord** (56 rue Monistrol, 47.11B, Ecocert engagement en cours) et **Marc-Humbert**
+  (17 rue du Couëdic, boulangerie, engagement en cours) : à instruire au prochain passage.
+- **La Filière Locale Bio 56** (2 rue Antoine de Saint-Exupéry) : négoce de gros, 46.38B, exclu par
+  la règle 3.
+- Les supermarchés certifiés bio du registre — Carrefour et ses cinq City et Express, Intermarché,
+  Monoprix, Leclerc — écartés par `MODERATION.md`.
+- **Les AMAP du pays de Lorient** (`amaps-pays-de-lorient.org`) : le réseau existe et le GAEC du
+  Champ des Tours y livre des paniers, mais aucune des fiches n'a été instruite dans cette passe.
+
+Données personnelles écartées : les noms des deux exploitants de la micro-ferme, leur portable et
+leur adresse électronique, tous publiés par l'opération Fais pousser ton emploi ; l'adresse
+électronique de Pain Barge ; et le patronyme sous lequel Terres de Tisanes est inscrite au registre
+de l'Agence Bio.
 
 ### Pistes non publiées à Nanterre
 
