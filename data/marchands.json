@@ -10449,5 +10449,152 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=209%20avenue%20Jean%20Lolive%2C%2093500%20Pantin",
     "image_url": "/images/marchands/la-butinerie-pantin.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "au-panier-bio-beauvais",
+    "nom": "Au Panier Bio - Biocoop Beauvais",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.430618,
+    "lon": 2.070244,
+    "adresse": "1 rue des Filatures, 60000 Beauvais",
+    "horaires": "Du lundi au samedi de 9h à 19h30. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Pain et viennoiseries",
+      "Fromages à la coupe",
+      "Viande et charcuterie",
+      "Vrac : céréales, légumineuses, fruits secs",
+      "Épicerie bio et commerce équitable",
+      "Paniers de fruits et légumes"
+    ],
+    "description": "Magasin Biocoop de Beauvais, certifié en agriculture biologique par Ecocert. Il met en avant les produits bio, locaux et de saison de ses paysans associés et propose des paniers de fruits et légumes.",
+    "telephone": "03 44 45 40 25",
+    "site_web": "https://www.biocoopaupanierbio-beauvais.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20rue%20des%20Filatures%2C%2060000%20Beauvais",
+    "image_url": "/images/marchands/au-panier-bio-beauvais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-producteur-local-beauvais",
+    "nom": "Le Producteur Local",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.430487,
+    "lon": 2.08356,
+    "adresse": "2 rue Louvet, 60000 Beauvais",
+    "horaires": "Du mardi au samedi de 9h à 19h sans interruption, d'après le site du magasin de Beauvais et l'annuaire Où acheter local de la Chambre d'agriculture des Hauts-de-France. Le site national de la coopérative annonce pour sa part 9h30-19h30, et l'ardoise photographiée devant la boutique par la communauté d'agglomération du Beauvaisis annonçait 9h-13h et 15h-19h.",
+    "produits": [
+      "Viande et charcuterie",
+      "Volailles et œufs",
+      "Fromage et laitage",
+      "Pâtes et farines",
+      "Boulangerie",
+      "Épicerie salée",
+      "Épicerie sucrée",
+      "Poisson"
+    ],
+    "description": "Boutique coopérative du centre de Beauvais, immatriculée en 2020, où des producteurs et artisans de l'Oise et de Normandie vendent eux-mêmes leurs produits. La société coopérative d'intérêt collectif annonce ne prendre aucune marge et reverser aux producteurs l'intégralité de ce qu'ils vendent.",
+    "telephone": "03 44 45 08 40",
+    "site_web": "https://beauvais.leproducteurlocal.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20Louvet%2C%2060000%20Beauvais",
+    "image_url": "/images/marchands/le-producteur-local-beauvais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-clos-des-chenes-aux-marais",
+    "nom": "Le Clos des Chênes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.409584,
+    "lon": 2.03997,
+    "adresse": "26 impasse du Bout Rifflé, 60000 Aux Marais",
+    "horaires": "À la ferme le samedi de 14h30 à 17h. Vente également sur la place d'Aux Marais le mardi de 16h30 à 18h15, et un dimanche matin sur deux au marché de Crèvecœur-le-Grand.",
+    "produits": [
+      "Courgettes",
+      "Haricots verts",
+      "Poireaux",
+      "Tomates",
+      "Pommes de terre",
+      "Radis",
+      "Courges",
+      "Melons"
+    ],
+    "description": "Petite exploitation de maraîchage installée à Aux Marais, à quatre kilomètres de Beauvais, immatriculée en 2024. Les légumes y sont cultivés sans pesticides et vendus le lendemain de la cueillette, à la ferme ou sur la place du village.",
+    "site_web": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=26%20impasse%20du%20Bout%20Riffl%C3%A9%2C%2060000%20Aux%20Marais",
+    "image_url": "/images/marchands/le-clos-des-chenes-aux-marais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "miel-du-beauvaisis-auneuil",
+    "nom": "Miel du Beauvaisis",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.372881,
+    "lon": 1.999015,
+    "adresse": "374 rue René Duchatel, 60390 Auneuil",
+    "horaires": "Sur rendez-vous, par téléphone.",
+    "produits": [
+      "Miel de printemps",
+      "Miel de tournesol",
+      "Miel de fleurs",
+      "Miel de tilleul",
+      "Miel de châtaignier",
+      "Miel d'acacia",
+      "Pain d'épices",
+      "Pollen, propolis et hydromel"
+    ],
+    "description": "Exploitation apicole d'Auneuil, au sud de Beauvais, en activité depuis plus de quarante ans et reprise par la génération suivante. Elle propose sept sortes de miels en pots de 500 g et d'un kilo, ainsi que du pain d'épices et des dérivés de la ruche.",
+    "telephone": "03 44 47 74 76",
+    "site_web": "",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=374%20rue%20Ren%C3%A9%20Duchatel%2C%2060390%20Auneuil",
+    "image_url": "/images/marchands/miel-du-beauvaisis-auneuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-maison-delamarre-auteuil",
+    "nom": "La Maison Delamarre",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.324461,
+    "lon": 2.069194,
+    "adresse": "9 rue de Valdampierre, hameau de Malassise, 60390 Auteuil",
+    "horaires": "Colis de viande uniquement sur réservation, à retirer à la ferme. Farines, lentilles et huiles en vente libre lors des journées d'ouverture annoncées sur le site de la ferme, quelques vendredis en fin d'après-midi ; au 11 septembre 2026 la ferme annonçait encore une trêve estivale sans avoir publié ses dates de reprise.",
+    "produits": [
+      "Colis de bœuf et de veau",
+      "Poulet fermier bio",
+      "Farine de blé « La Triple »",
+      "Farines de blé ancien, de sarrasin et de petit-épeautre",
+      "Lentilles vertes",
+      "Huile de cameline",
+      "Huile de tournesol",
+      "Jus et confitures de pomme"
+    ],
+    "description": "Ferme certifiée en agriculture biologique depuis plus de trente-cinq ans, à un quart d'heure au sud de Beauvais. Les Charolaises et Blondes d'Aquitaine y sont nourries d'aliments bio produits sur l'exploitation, et la viande est vendue en colis de 3 à 16 kilos, sous vide et étiquetés.",
+    "site_web": "https://lamaisondelamarre.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20rue%20de%20Valdampierre%2C%20hameau%20de%20Malassise%2C%2060390%20Auteuil",
+    "image_url": "/images/marchands/la-maison-delamarre-auteuil.jpg",
+    "a_confirmer": true
   }
 ]

@@ -1268,9 +1268,29 @@ prioritaires en cas de conflit.
      lui-même qu'il est alimenté par ses visiteurs et ne garantit rien, ce qui l'exclut du recours
      nommé de la règle 9.
 
+104. **Une date de mise à jour plus récente ne fait pas d'un annuaire une meilleure source que
+     l'intéressé.** L'annuaire *Où acheter local* de la Chambre d'agriculture des Hauts-de-France,
+     modifié le 10 juin 2026, ouvre sa fiche du Producteur Local de Beauvais par « Nouvelle adresse
+     2026 : 41 rue de Malherbe ». Le registre national, rafraîchi le 10 septembre 2026, ne connaît
+     qu'un seul établissement ouvert, **2 rue Louvet** ; le site propre de la coopérative écrit la
+     même adresse ; et aucune société de commerce alimentaire n'est immatriculée rue de Malherbe.
+     **Critère** : quand un annuaire contredit l'intéressé sur une adresse ou des horaires, c'est
+     l'intéressé qui gagne, et le registre tranche l'adresse. La règle 58 départage deux pages
+     également légitimes, elle ne promeut pas un tiers au rang de source parce qu'il a été édité
+     plus tard. Corollaire sur les ardoises : une ardoise photographiée documente un jour, pas un
+     calendrier — elle se cite, attribuée et datée, elle ne fixe pas le champ `horaires`.
+
+105. **Un magasin de producteurs permanent prend `producteur`, pas `marche`.** Le Producteur Local
+     tient boutique six jours sur sept rue Louvet ; `marche` décrit un point de vente qui n'existe
+     que certains jours, et c'est ainsi que la carte le lit. **Critère** : une enseigne collective
+     ouverte en continu prend `producteur`, au même titre que les caves et les moulins coopératifs
+     déjà publiés ; `marche` reste aux étals qui se montent et se démontent. Une fiche ancienne —
+     « Magasin de producteurs Un air de campagne », à Fayence — porte encore `marche` : elle n'est
+     pas corrigée à l'aveugle, ses jours d'ouverture n'ayant pas été revérifiés.
+
 ## Marchands à confirmer
 
-364 fiches sur 398 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+369 fiches sur 403 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1657,7 +1677,12 @@ prioritaires en cas de conflit.
 - **Debout les Pains !** (Pantin) (boulangerie bio au levain naturel, dont les pains ne contiennent que farine, eau, sel et levain : blé complet, petit épeautre, seigle, plus focaccias, brioches, babkas et biscuits boulangers. Catégorie `producteur` au titre de la **règle 4**, comme la Boulangerie de Port-Grimaud : l'artisan transforme sur place. Certificat **Ecocert engagement en cours**, d'où le pilier `environnement`. La farine vient de la coopérative **Biocer** de Marcilly-la-Campagne, auprès de céréaliers à moins de 120 km — c'est la boulangerie qui le publie, et c'est ce qui rend la fiche pertinente ici. Aucun numéro de téléphone n'est publié : le champ est simplement absent. Point BAN sur le 7 rue Méhul à 0,971, à 1 m du point de l'Agence Bio. Photo : la salle des meules et des cuves du fournil, publiée par la boulangerie en 2024, 5 000 × 3 333, aucun visage)
 - **La Butinerie – Biocoop Bas Canal** (Pantin) (coopérative alimentaire de l'avenue Jean Lolive qui réunit un magasin Biocoop, une cantine, un café et un jardin. **Deux personnes morales à la même porte, une seule fiche, règle 7** : La Butinerie en 56.10A et la société Saule en 47.29Z, toutes deux ouvertes au 209 avenue Jean Lolive. Certificat **Bureau Alpes Contrôles engagement en cours** au nom de La Butinerie, d'où le pilier `environnement`. **Première fiche publiée au titre de la règle 101** : `butinerie.com` sert aujourd'hui des articles de casino en ligne injectés dans son texte, il n'est donc pas inscrit ; `site_web` porte la **page officielle du magasin sur `biocoop.fr`**, qui fournit aussi les horaires, le téléphone et les deux rayons — boulangerie et fromagerie. Photo : la vente en vrac de légumes dans la cour de la coopérative, déposée sur son site en 2021, **trois ans avant la première trace d'injection**, recadrée à 880 × 690 pour écarter les personnes présentes)
 
-Les 398 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Au Panier Bio - Biocoop Beauvais** (Beauvais) (magasin bio de la rue des Filatures, certifié par **Ecocert, engagement en cours**, d'où le pilier `environnement` ; fruits et légumes bio, pain, fromages et viande à la coupe, vrac, épicerie équitable, paniers de fruits et légumes. Horaires pris dans le bloc `openingHoursSpecification` du site du magasin — lundi au samedi 9h-19h30, dimanche fermé — et non dans le bandeau « prochaine ouverture », qui ne montre qu'un jour. Point BAN du 1 rue des Filatures à 0,965, à 25 m du point de l'Agence Bio. Le nom de la responsable, que le magasin publie, n'est pas repris. Photo : la devanture bleue publiée par le magasin, enseigne « Au Panier Bio » lisible, aucun visage — les silhouettes sont des adhésifs de vitrine)
+- **Le Producteur Local** (Beauvais) (boutique coopérative du 2 rue Louvet, immatriculée en 2020, où des producteurs et artisans de l'Oise et de Normandie vendent eux-mêmes : viande et charcuterie, volailles et œufs, fromage et laitage, pâtes et farines, boulangerie, épicerie salée et sucrée, poisson. Les huit lignes de `produits` sont les rayons du catalogue tels que le magasin les nomme, **règle 103**. Catégorie `producteur` au titre de la **règle 105**. **Première fiche publiée au titre de la règle 104** : l'annuaire de la Chambre d'agriculture annonce une « nouvelle adresse 2026 » rue de Malherbe, que ni le registre national ni le site du magasin ne confirment ; les deux adresses sont distantes de 250 m au centre-ville. **Trois versions d'horaires** : 9h-19h sans interruption sur le site du magasin et sur l'annuaire, 9h30-19h30 sur le site national de la coopérative, 9h-13h et 15h-19h sur l'ardoise photographiée par la communauté d'agglomération ; la version du magasin est publiée, les deux autres sont citées et attribuées. L'adresse électronique de la boutique n'est pas reprise. Photo : la devanture publiée par la communauté d'agglomération du Beauvaisis, enseigne et ardoise lisibles, recadrée à 765 × 760, aucun visage)
+- **Le Clos des Chênes** (Aux Marais) (maraîchage installé à quatre kilomètres de Beauvais, immatriculé en 2024 : courgettes, haricots verts, poireaux, tomates, pommes de terre, radis, courges, melons, cultivés sans pesticides et vendus le lendemain de la cueillette. Trois rendez-vous de vente — la ferme le samedi après-midi, la place d'Aux Marais le mardi en fin de journée, un dimanche matin sur deux au marché de Crèvecœur-le-Grand. **Pas de pilier `environnement`** : « sans pesticides » n'est pas une certification, et l'exploitation n'est pas au registre de l'Agence Bio — règle 45. Adresse dans l'orthographe de la Base Adresse Nationale, « impasse du Bout Rifflé », là où la source écrit « Bout Riffle ». Aucun numéro fixe n'est publié, seulement un portable : le champ `telephone` est absent et `site_web` reste vide. Le prénom et le nom de l'exploitant ne sont pas repris. Photo : la cagette de courgettes, concombres et tomates au bord des planches, publiée par la ferme sur l'annuaire de la Chambre d'agriculture)
+- **Miel du Beauvaisis** (Auneuil) (exploitation apicole en activité depuis plus de quarante ans, aujourd'hui reprise par la génération suivante : sept miels — printemps, tournesol, fleurs, tilleul, châtaignier, forêt, acacia — en pots de 500 g et d'un kilo, pain d'épices, pollen, propolis, hydromel. Vente sur rendez-vous téléphonique. **Deuxième fiche publiée au titre de la règle 100** : au nom du fondateur, le registre ne rend qu'une activité de location sans rapport ; **la recherche sur l'adresse** fait apparaître « MIEL DU BEAUVAISIS », code 01.49Z, un établissement ouvert, au même 374 rue René Duchatel. Le téléphone, 03 44 47 74 76, est lisible sur les étiquettes des pots photographiés — **règle 74**. Pas de pilier `environnement` : aucune inscription à l'Agence Bio. Les noms des deux exploitants ne sont pas repris. Photo : l'étal de pots de miel, de pollen et de propolis publié par l'exploitation, aucun visage)
+- **La Maison Delamarre** (Auteuil) (ferme bio depuis 1988, à un quart d'heure au sud de Beauvais : colis de bœuf et de veau de 3 à 16 kg sur réservation, poulet fermier, farines de blé ancien, de sarrasin et de petit-épeautre, farine « La Triple », lentilles vertes, huiles de cameline et de tournesol, jus et confitures de pomme. Certificat **Bureau Veritas engagement en cours** au nom de l'EARL des Courtils, d'où le pilier `environnement`. **Trois adresses pour un même lieu** : le registre écrit « Ham Malassise », l'Agence Bio inscrit deux points dont « 2 rie de Valdampierre » — coquille comprise — et la ferme écrit elle-même, dans son itinéraire, « la ferme se trouve sur votre droite, au numéro 9 ». C'est l'intéressé qui gagne, **règle 104** : le 9 est publié, sur le point BAN à 0,941, à 50 m du second point de l'Agence Bio et à 2,7 km du premier. Horaires honnêtes plutôt que faux : la page « nos jours d'ouverture » affichait encore, au 11 septembre 2026, une trêve estivale sans date de reprise, et c'est écrit tel quel. Seul un portable est publié : le champ `telephone` est absent, le prénom de l'exploitant n'est pas repris. Photo : les poules de plein air devant les bâtiments de la ferme, publiée par la ferme en 2024, recadrée à 2 196 × 1 464 puis réduite à 1 280 × 853)
+Les 403 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1685,6 +1710,74 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Beauvais
+
+Quinzième passe en ville. Département visé : l'**Oise (60)**, déficit **4,7902** fiche au sens de
+la règle 41 avec 398 fiches publiées et **aucune** dans le département. La Réunion vient devant, à
+**5,1353**, mais le contrôle de construction refuse toute coordonnée hors du cadre métropolitain :
+**règle 93**, un département que la construction refuse n'est pas éligible. La Gironde suit à
+**4,7581**. L'Oise est en **région 32**, la passe précédente visait la Seine-Saint-Denis, en
+région 11 : la réserve de la **règle 41.c** ne s'applique pas. Après la passe, le déficit de l'Oise
+tombe à **−0,1496**.
+
+**Commune retenue : Beauvais, 55 550 habitants**, la plus peuplée du département et sans aucune
+fiche — les suivantes sont Compiègne, 40 761, et Creil, 36 301.
+
+**Élargissement à l'agglomération, règle 96.** Deux fiches sont dans Beauvais même — Au Panier Bio
+à 0,8 km du centre, Le Producteur Local à 0,2 km. Les trois autres sont dans la **communauté
+d'agglomération du Beauvaisis** : Aux Marais à 3,7 km, Auneuil à 8,7 km, Auteuil à 11,7 km. La
+condition « deux au moins dans la commune elle-même » est donc tenue sans amendement, et
+l'appartenance à l'intercommunalité a été vérifiée code par code sur `geo.api.gouv.fr` : Beauvais
+60057, Aux Marais 60703, Auneuil 60029 et Auteuil 60030 relèvent tous de la CA du Beauvaisis.
+
+**Ce qui a coûté le plus cher : les photographies.** Beauvais rend des faits en abondance et des
+images presque inutilisables. Ont été écartées, une par une :
+
+- les portraits de producteurs de l'agglomération, qui sont des fichiers **AdobeStock** ;
+- la page des marchés de l'office de tourisme, illustrée d'une pomme **Pixabay** ;
+- `LPL_beauvais-producteur-local.jpg`, 2 000 × 300, collage de visages identifiables dont le seul
+  panneau de devanture ne fait que 490 px de large ;
+- la photographie du marché nocturne artisanal, 2 000 × 1 333, où les visages restent identifiables
+  même recadrée à 670 × 670 ;
+- l'unique image de La Ferme Saint Jean, qui est une **capture satellite** ;
+- la vue de la place des Halles publiée par l'agglomération, qui montre le parking un jour sans
+  marché : elle est honnête et sans intérêt, une carte n'y gagne rien ;
+- La Vie Claire (450 × 450) et Un Écrin Vert (470 et 425 px), sous le **plancher de 600 px de la
+  règle 59** ;
+- la photo du marché sur l'annuaire de la Chambre d'agriculture, 284 × 177.
+
+**Pistes laissées en attente, avec leur critère de déblocage :**
+
+- **Marché de Beauvais, place des Halles** (mercredi et samedi de 8h à 13h, deux sources
+  officielles concordantes). Tous les faits sont là ; **aucune photographie utilisable** ne l'est,
+  et la règle 103 interdit d'inventer des étals. À publier dès qu'une image du marché en activité,
+  sans visage identifiable et large d'au moins 600 px, est publiée par la Ville, l'office de
+  tourisme ou le marché lui-même.
+- **AMAP Mon Bio Chou**, place de Marissel. Le lieu et le principe sont publics, le jour et
+  l'heure de distribution ne le sont pas. À publier quand le réseau AMAP Hauts-de-France ou
+  l'association publiera sa permanence — la règle 9 demande au moins la demi-journée.
+- **La Ferme Saint Jean**, chemin de la Cavée aux Pierres à Beauvais (EARL au registre, code
+  01.13Z, un établissement ouvert). Une **troisième fiche dans Beauvais même** serait acquise si
+  l'exploitation publiait ses horaires de vente et une photographie de son point de vente.
+- **La Terre en Héritage**, à Troussures (Auneuil) : maraîchage au registre sous le code 01.13Z,
+  ouvert mercredi et samedi 9h-12h et 14h-18h, avec un site qui ne répond **qu'en HTTP**
+  (`terreheritage.fr`) et pour seule image une bannière de planches de haricots. Écartée de cette
+  passe au profit de fiches mieux illustrées, pas pour un défaut de vérification : à reprendre au
+  prochain passage sur le Beauvaisis.
+- **Ferme de la Frimousse** (pommes, certificat Bureau Veritas consultable, belle photo de
+  cagettes) : elle est à **Haucourt**, qui relève de la **CC de la Picardie Verte** et non de la CA
+  du Beauvaisis. La **règle 96** l'écarte tant qu'une passe ne vise pas cette intercommunalité.
+
+**Hors sujet, écartés sans regret** : Le Bercail (papeterie et loisirs créatifs), et les Carrefour,
+Lidl, Intermarché et Promocash que le registre de l'Agence Bio fait remonter pour le département —
+`MODERATION.md` écarte les grandes surfaces.
+
+**Données personnelles volontairement laissées de côté** : le nom de la responsable du magasin
+Biocoop, les adresses électroniques des cinq commerces, les prénoms et noms des exploitants du Clos
+des Chênes, de Miel du Beauvaisis et de La Maison Delamarre, et les trois numéros de portable que
+ces exploitations publient comme seul contact — ils ne sont recopiés nulle part, pas même ici pour
+dire qu'ils ont été écartés.
 
 ### Pistes non publiées à Montreuil
 
