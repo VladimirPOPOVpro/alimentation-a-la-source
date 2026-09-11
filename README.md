@@ -1375,10 +1375,50 @@ prioritaires en cas de conflit.
      activité « Détaillant ». Une ligne `ARRETEE` sans certificat consultable n'annule pas une
      ligne `ENGAGEE` dont le certificat nomme la même adresse — c'est une inscription administrative
      close, pas une certification retirée.
+114. **Un marché classé biologique pour une seule de ses séances porte quand même le pilier
+     `environnement`, et la fiche dit laquelle.** Les règles 45 et 49 ont été écrites pour des
+     marchés que l'autorité classe biologiques en bloc — Raspail, les cinq marchés biologiques de
+     Lyon. Saint-Étienne pose le cas mixte : sa page « Marchés de plein air » réserve le marché
+     Albert Thomas aux producteurs le mardi, le jeudi et le samedi, et écrit « le vendredi :
+     100 % bio » ; c'est le seul de ses vingt et un lieux de marché à porter une thématique
+     biologique, et Saint-Étienne Métropole tient de son côté une fiche d'agenda intitulée
+     « Marché bio Albert Thomas ». **Tranché ainsi** : la sélectivité exigée par la règle 49 se
+     mesure sur le **lieu**, pas sur le nombre de séances — un lieu sur vingt et un trie
+     réellement — et le pilier est donc accordé, **à la condition que le champ `horaires` nomme
+     explicitement le jour biologique et les jours qui ne le sont pas**. Sans cette mention, la
+     fiche laisserait croire qu'on trouve du bio certifié un mardi matin ; avec elle, le pilier
+     décrit ce qui existe. La même lecture vaudra pour tout marché dont l'autorité isole une
+     séance biologique.
+115. **La règle 74 vaut aussi quand l'intéressé photographie son propre panneau.** La règle 74
+     autorise à lire un panneau typographié sur une photographie publiée par l'autorité qui l'a
+     posé. Deux commerces stéphanois ont rendu l'extension nécessaire : De la Ferme au Quartier ne
+     publie nulle part en texte les heures de son magasin, mais photographie sa propre porte, où
+     une affichette imprimée annonce « Ouvert du mardi au vendredi de 16h à 19h » ; Maison Fouillat
+     photographie sa devanture, dont le panneau « HORAIRES D'OUVERTURE » annonce le samedi
+     6h-13h30 quand le texte de son site annonce 6h-18h. **Tranché ainsi** : les trois conditions
+     de la règle 74 restent les mêmes — texte typographié, lisible sans hésitation, porté par le
+     lieu dont parle la photographie — et **l'auteur de la photographie peut être l'exploitant
+     lui-même**, puisque c'est précisément sa propre signalétique qu'il montre. Quand ce panneau
+     contredit le texte du même site, la règle 5 s'applique et les deux versions sortent,
+     attribuées, comme ici pour le samedi de Maison Fouillat. Ce qui n'est pas permis reste
+     inchangé : déduire un horaire d'une scène, d'une file d'attente ou d'une ardoise manuscrite.
+116. **Un certificat biologique prouve qui est certifié, jamais où le commerce se tient
+     aujourd'hui.** La règle 113 tranchait des inscriptions contradictoires de l'Agence Bio sur
+     l'adresse portée par le certificat consultable. De la Ferme au Quartier montre le cas inverse :
+     son certificat Bureau Alpes Contrôles, en vigueur et délivré le 1er décembre 2025, porte
+     « 2 ESPLANADE BENEVENT 42000 Saint-Étienne » — or le registre des entreprises donne cet
+     établissement **fermé**, n'en laisse qu'un seul ouvert, 11 allée Mathieu Murgue à Terrenoire
+     depuis octobre 2021, et c'est la seule adresse que la coopérative publie à ses clients.
+     **Tranché ainsi** : le certificat sert à accorder le pilier `environnement`, jamais à situer
+     la fiche — c'est la règle 43 prise par l'autre bout. **Critère** : quand l'adresse d'un
+     certificat désigne un établissement que le registre national déclare fermé, la fiche va à
+     l'établissement ouvert que l'intéressé publie, et la divergence est consignée ici. Un
+     organisme certificateur ne réédite pas un document à chaque déménagement ; son adresse est
+     une donnée de dossier, pas un point de vente.
 
 ## Marchands à confirmer
 
-384 fiches sur 418 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+389 fiches sur 423 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1785,7 +1825,13 @@ prioritaires en cas de conflit.
 - **Pain Barge** (Lorient) (boulangerie au levain naturel du boulevard Léon Blum, immatriculée en avril 2026 : miches rustiques, pain à la coupe, brioches pur beurre et façon babka, focaccias, biscuits. « Nos pains sont fabriqués uniquement à partir de farine, d'eau, de sel et de levain naturel », sans additif ni améliorant ; farines 100 % françaises, sel récolté à la main en presqu'île guérandaise, beurre, œufs et miel bretons. Catégorie `producteur` au titre de la règle 4, comme Debout les Pains ! : l'artisan transforme sur place. Certificat **Ecocert en vigueur** pour la boulangerie, la pâtisserie et la viennoiserie, d'où le pilier `environnement`. Aucun numéro de téléphone n'est publié : le champ est absent ; l'adresse électronique du site n'est pas reprise. Point BAN du 4 boulevard Léon Blum au mètre du point de l'Agence Bio. Photo : la miche aux graines entière et coupée, publiée par la boulangerie, aucun visage)
 - **GAEC du Champ des Tours** (Lorient) (micro-ferme maraîchère d'un hectare installée depuis 2019 au pied des tours du Bois-du-Château, dans le parc boisé du quartier, reprise en avril 2021 par le groupement qui l'exploite : légumes de saison, fruits, paniers d'abonnement dont une partie part dans une AMAP lorientaise, et un marché à la ferme le mercredi après-midi. Certificat **Ecocert en vigueur** pour les fruits, les légumes et une surface de biodiversité, d'où le pilier `environnement`. **Première fiche publiée au titre de la règle 111** : quatre horaires publiés par quatre institutions, c'est la Ville, propriétaire du parc, qui est retenue, les deux autres versions étant citées dans `horaires`. `site_web` reste vide, règle 62 : la ferme ne publie que sur un réseau social bloqué. Les noms des exploitants, leur portable et leur adresse électronique, tous trois publiés par l'opération Fais pousser ton emploi, ne sont pas repris. Le registre écrit « 4 B rue Gabriel Fauré » là où l'Agence Bio et la Base Adresse Nationale écrivent « 4 », au même point. Photo : les cageots de courgettes et de tomates publiés par l'office de tourisme sur sa fiche de ce marché, aucun visage)
 
-Les 418 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché Albert Thomas** (Saint-Étienne) (le marché de producteurs de la ville, au pied du musée d'Art et d'Industrie et à dix mètres de l'arrêt de tram Bourse du travail. **Première fiche publiée au titre de la règle 114** : la Ville le réserve aux producteurs le mardi, le jeudi et le samedi de 6h à 13h, et c'est le seul de ses vingt et un lieux de marché dont elle écrit « le vendredi : 100 % bio » ; Saint-Étienne Métropole lui consacre une fiche d'agenda intitulée « Marché bio Albert Thomas ». D'où le pilier `environnement`, avec le jour nommé dans `horaires`. **Horaire du vendredi contredit** : Saint-Étienne Métropole, Loire Tourisme et l'office de tourisme donnent tous trois 7h-12h, le média local Saint-Étienne CityCrunch donnait 6h-13h en février 2023 — les quatre sources sont citées, l'article de presse étant le plus ancien et le seul isolé. Les produits viennent de ce même article, qui les énumère un par un. Le téléphone est le standard de la Ville, vérifié sur sa page « Contacter la Ville ». Point BAN sur la place à 0,967, contrôle inverse à 1 m du numéro 6. Photo : la photographie que l'office de tourisme joint à la fiche de ce marché — aulx en bottes, carottes, céleris-raves et oignons en cageots, aucun visage. **Règle 88** : cinq empreintes md5 comparées sur les fiches de marchés stéphanois de Loire Tourisme, et Jacquard et Massenet partagent bien la même image générique — celle d'Albert Thomas n'est partagée avec aucune des quatre autres)
+- **De la Ferme au Quartier** (Saint-Étienne) (coopérative alimentaire créée en 2010, qui annonce approvisionner 90 % de ses produits dans un rayon de 150 km et les distribue par groupements d'achats mensuels, en semi-gros, depuis sa plateforme de Terrenoire et dans une dizaine de points de retrait. Certificat **Bureau Alpes Contrôles en vigueur** du 1er décembre 2025 au 31 décembre 2026, activité « Distribution / Mise sur le marché », d'où le pilier `environnement`. Catégorie `amap` comme Alter Conso à Villeurbanne : on commande, on retire. **Première fiche publiée au titre de la règle 116** : le certificat porte encore « 2 esplanade Bénévent », adresse que le registre déclare **fermée** ; le seul établissement ouvert est le 11 allée Mathieu Murgue, et c'est la seule adresse que la coopérative publie. **Première fiche publiée au titre de la règle 115** : les heures du magasin — mardi au vendredi, 16h à 19h — ne sont écrites nulle part en texte sur le site, mais sur l'affichette imprimée de la porte, que la coopérative photographie elle-même. **Aucun téléphone** : le site ne publie qu'une adresse électronique, que la modération interdit ; le champ est absent. La page d'accueil du site est encore truffée de « Lorem ipsum » du gabarit Socleo — rien n'en a été repris, tout vient des pages « Le projet », « Comment ça marche » et du pied de page. Point BAN du 11 allée Mathieu Murgue et point de l'Agence Bio identiques au millionième de degré ; le registre tombe 60 m plus loin. Photo : la devanture publiée par la coopérative, enseigne, affichette d'horaires et panneau « Mangez LOCAL ! Profitez du meilleur des fermes du bassin stéphanois » lisibles, aucun visage)
+- **Vrac en Vert** (Saint-Étienne) (épicerie sans emballage ouverte en 2017 au Crêt de Roc, rue Roger-Salengro, et installée rue de la République depuis 2022 : on apporte ses contenants, ils sont tarés à l'entrée, on ne paie que le contenu. Certificat **Bureau Alpes Contrôles en vigueur** du 14 août 2026 au 31 décembre 2027, d'où le pilier `environnement`. Horaires **concordants** entre le bandeau du magasin et la fiche Apidae publiée par Partir ici, portail de la Région Auvergne-Rhône-Alpes, qui les date du 2 janvier 2025 au 31 décembre 2027 et ajoute les onze fermetures exceptionnelles reprises dans la fiche. Les produits croisent les productions déclarées au registre de l'Agence Bio et les ardoises de prix lisibles sur la photographie, règle 74 — dont un « POIVRON FRANCE (42) » qui dit le rayon d'approvisionnement. Le 09 est le numéro que le magasin donne comme son contact ; l'adresse électronique n'est pas reprise, les prénoms des deux fondatrices publiés par Partir ici non plus. `site_web` reste en `http://` : le domaine ne répond pas en `https`. Point BAN, point de l'Agence Bio et certificat s'accordent sur le 22 rue de la République, le registre à 2 m. Photo : l'intérieur du magasin publié par Partir ici, silos à vrac et cageots de tomates, courgettes, poireaux et aubergines, aucun visage)
+- **Cidrerie du Pilat** (Saint-Étienne) (cidrerie fondée en 2024 par trois associés, qui ne presse que des pommes du Pilat. Certificat **Bureau Alpes Contrôles en vigueur** du 28 janvier 2026 au 31 mars 2027, activité « Préparation », répertoire de produits « Cidre » et « Jus de pomme effervescent » — d'où le pilier `environnement`. L'adresse est vérifiée **trois fois** : la page de contact, le registre des entreprises, et l'étiquette d'une bouteille photographiée par la cidrerie, où se lisent « 24 rue Peyret Lallier 42100 Saint-Étienne », « CIDRERIEDUPILAT.FR » et le logo AB — règle 74. **Aucun horaire d'ouverture publié** : ni la page d'accueil ni la page de contact n'en donnent, et l'onglet « Revendeurs » du site pointe vers une carte, pas vers une boutique ; le champ le dit plutôt que d'inventer. Le mobile est celui que la cidrerie inscrit sous « Téléphone » sur sa propre page de contact, pour les particuliers comme pour les professionnels ; l'adresse électronique et le prénom du maître de chai ne sont pas repris. Photo : la tireuse du chai, une main tenant une bouteille sous le bec de remplissage, recadrée sous la ligne d'épaule, aucun visage)
+- **Maison Fouillat** (Saint-Étienne) (boulangerie de plus de cent ans du centre-ville, catégorie `producteur` au titre de la règle 4 : l'artisan cuit sur place. Certificat **Bureau Veritas consultable** pour l'agriculture biologique au 18 rue Charles de Gaulle, engagement d'avril 2019 ; la seule production certifiée au registre de l'Agence Bio est le **pain frais**, et la description le dit plutôt que de laisser croire la boutique entière certifiée. **Deuxième fiche publiée au titre de la règle 115, et contradiction interne** : le panneau « HORAIRES D'OUVERTURE » de la devanture, que la boulangerie photographie elle-même, annonce le samedi 6h-13h30, quand le texte de son site annonce 6h-18h — les deux sortent, règle 5, avec l'invitation à vérifier. Du lundi au vendredi, panneau et site s'accordent sur 6h-19h30. La maison nomme ses fournisseurs locaux, et ce sont eux qui sont repris : le miel de la Miellerie des Séquoias, à Saint-Étienne, les glaces de la ferme des Délices Foréziens, à Saint-Cyr-les-Vignes. Le second magasin, à Saint-Cyprien, n'a pas de fiche : il est hors de la commune visée. Les prénoms et le patronyme des gérants sont publiés par le site, mais « MAISON FOUILLAT » est l'enseigne déclarée au registre — c'est elle qui est portée, règle 3 — et l'adresse électronique n'est pas reprise. Le site se contredit sur ses effectifs, « neuf salariés » puis « 18 salariés répartis sur les deux sites », et sur son ancienneté, « vingt-cinq ans » puis « 26 ans » : aucun de ces chiffres n'est dans la fiche. Point BAN du 18 rue Charles de Gaulle et point de l'Agence Bio identiques au mètre. Photo : la devanture publiée par la boulangerie, **recadrée sur sa moitié gauche** — enseigne, store rayé et vitrine gravée « La CULTURE du BON PAIN » — parce que les deux gérants posent au centre de l'original, règle 46)
+
+Les 423 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1813,6 +1859,89 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Saint-Étienne
+
+Département visé : la **Loire (42)**, déficit **4,6929** au titre de la règle 41, le plus fort des
+départements éligibles — La Réunion vient devant avec 5,3933 mais reste écartée par la **règle 93**,
+son cadre de coordonnées sortant de la fenêtre France de `lib/validateMerchants.ts`, fichier hors
+périmètre. Région 84, contre la région 53 à la passe précédente : la réserve de la règle 41.c est
+respectée. Les cinq fiches ramènent le déficit du 42 à **-0,2510**. Commune retenue :
+**Saint-Étienne**, 173 136 habitants, aucune fiche jusqu'ici, et de très loin la plus peuplée du
+département — Saint-Chamond, deuxième, en compte 35 646. Aucun élargissement au titre de la
+règle 96 n'a été nécessaire : les cinq fiches sont dans Saint-Étienne même, la plus éloignée du
+centre à 3,6 km, à Terrenoire.
+
+**Deux domaines morts, dont un du sous-domaine d'une ville.** Le moteur de recherche renvoie
+`produitslocaux.saint-etienne.fr`, un annuaire « Producteurs de la Loire » avec une fiche par lieu
+de marché, et `marche-albert-thomas.fr`, la commande en ligne aux producteurs bio de la place :
+**les deux ne résolvent plus en DNS**, ni par curl, ni par le récupérateur de pages. Aucun des deux
+n'est inscrit, application directe de la règle 62. C'est ce qui a privé le marché Albert Thomas de
+sa source la plus riche et fait chercher ses produits dans la presse locale. Même sort pour
+`supercagette.com`, le drive de producteurs de la Loire que l'office de tourisme met en avant en
+bonus de son classement des marchés : le domaine existe encore, mais il n'affiche que la page
+d'accueil de son hébergeur, « Bravo ! Votre domaine supercagette.com a bien été créé avec LWS ! ».
+Le registre de l'Agence Bio le confirme à sa façon — la certification de l'exploitant de Super
+Cagette y est **arrêtée**. Troisième rappel de la note Santa Lucia : ouvrir un site avant de
+l'inscrire.
+
+**Marché de producteurs Bel-Air** — prêt sur tout sauf les produits. La Ville le publie deux fois,
+sur sa page des marchés et sur celle du quartier 7 : « Rue Bel Air, tous les samedis de 6h à 13h ».
+L'office de tourisme le situe « sur les hauteurs de Bergson en direction de la Terrasse » et le
+média local IF Saint-Étienne, en juin 2021, « au bout de la rue Bel-Air, face au quartier Bergson ».
+Mais aucune de ces trois sources n'énumère un seul produit : elles écrivent « produits frais et
+locaux » et « une large gamme de produits frais », ce qui n'est pas un produit. Une quatrième
+source, l'agenda JDS, place le marché « rue Montaigne (devant la chapelle) » — 220 m du point de la
+Base Adresse Nationale pour la rue Bel Air, donc le même endroit plutôt qu'une contradiction. La
+fiche est écartée faute de produits vérifiables, pas faute d'existence : à reprendre au prochain
+passage si une source les nomme.
+
+**Les Gueules d'Orge** — microbrasserie bio du 6-8 boulevard Albert-1er, certificat Ecocert
+`ENGAGEE` de 2022 consultable, établissement ouvert au registre, NAF 11.05Z. Son domaine
+`lesgueulesdorge.fr` ne sert plus que la page « Website unavailable » d'OVHcloud, et les deux
+sources institutionnelles qui la décrivent — la fiche de l'office de tourisme Saint-Étienne
+Hors-Cadre et celle de Loire Tourisme — ne rendent leur contenu qu'en JavaScript : ni le
+récupérateur de pages, ni le récupérateur de texte, ni l'API REST du site de l'office n'en tirent
+autre chose que le gabarit. Les horaires et la gamme de bières n'ont donc pas pu être lus à leur
+source. À reprendre quand l'une des deux fiches redeviendra lisible.
+
+**Takubeh** — kombucha biologique certifié Bureau Alpes Contrôles `ENGAGEE`, fondé en 2020, sept
+parfums décrits sur son site. Écarté pour deux raisons : l'adresse diverge entre le site
+(« Lieu dit Le Clapeau, 42100 Rochetaillée ») et le registre de l'Agence Bio comme celui des
+entreprises (« 18 route du Gouffre d'Enfer, 42100 Saint-Étienne »), et aucun horaire ni point de
+vente sur place n'est publié.
+
+**EARL des Petits Chênes** — élevage bovin de Saint-Victor-sur-Loire, commune associée de
+Saint-Étienne, certificat Ecocert `ENGAGEE` et `venteParticuliers` au registre de l'Agence Bio.
+Aucune source indépendante trouvée : ni site, ni fiche d'office de tourisme, ni Bienvenue à la
+Ferme, ni chambre d'agriculture. Deux registres ne font pas une source au sens du point 2 du
+protocole, et rien ne dit qu'on peut y acheter. Non publié.
+
+**Écartés par MODERATION.md ou par la règle 3.** Le registre de l'Agence Bio du 42 compte 1 405
+opérateurs, dont 98 à Saint-Étienne, et une bonne moitié des lignes stéphanoises sont des
+supermarchés généralistes certifiés bio — Carrefour City, Carrefour Market, Intermarché, Casino et
+Géant Casino, Monoprix, Leclerc, Lidl, Colruyt — que la modération écarte. Les autres refus :
+**La Vinifacture** et **Tayiba**, NAF de commerce de gros ; **Au Soleil Fruits**, **Aux 3
+Primeurs**, **Plaine Fruits Services**, **Établissements Testud** et **Société Arbona**, tous au
+marché de gros de la rue Necker ; **La Fabuleuse Cantine**, **Le Croq en Bouche** et **Le C**,
+restaurants ; **Chocolat Weiss**, dont la matière première ne relève d'aucun circuit court.
+
+**Deux magasins bio de réseau restent éligibles et attendent.** **Satoriz Saint-Étienne** (5 rue
+Marc-Charras, certificat Bureau Alpes Contrôles `ENGAGEE`) et **La Vie Claire Saint-Étienne**
+(25 cours Victor-Hugo, certificat Bureau Veritas `ENGAGEE`) sont des magasins spécialisés, pas des
+supermarchés généralistes : la règle 3 dit que la taille du réseau ne disqualifie pas, et la carte
+publie déjà des Biocoop. Ils ne sont pas écartés, seulement pas retenus — la passe est limitée à
+cinq fiches et Vrac en Vert, indépendante et coopérative, disait mieux le sujet du site. À prendre
+au prochain passage sur Saint-Étienne.
+
+**Données personnelles écartées** : les adresses électroniques de De la Ferme au Quartier, de Vrac
+en Vert, de la Cidrerie du Pilat et de Maison Fouillat, toutes publiées par les intéressés ; les
+prénoms des deux fondatrices de Vrac en Vert, publiés par Partir ici ; le prénom du maître de chai
+de la Cidrerie du Pilat ; les prénoms des gérants de Maison Fouillat. Le mobile de la Cidrerie du
+Pilat **est** publié : c'est le numéro que l'entreprise inscrit elle-même sous « Téléphone » sur sa
+page de contact, pour les particuliers comme pour les professionnels — même lecture qu'à la
+Miellerie des Moulières. Les deux photographies de presse du site de De la Ferme au Quartier, dont
+le nom de fichier porte l'identité des personnes photographiées, n'ont pas été utilisées.
 
 ### Pistes non publiées à Lorient
 

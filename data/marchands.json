@@ -11027,5 +11027,149 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Micro-ferme%20du%20parc%20du%20Bois-du-Ch%C3%A2teau%2C%204%20rue%20Gabriel%20Faur%C3%A9%2C%2056100%20Lorient",
     "image_url": "/images/marchands/gaec-du-champ-des-tours-lorient.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-albert-thomas-saint-etienne",
+    "nom": "Marché Albert Thomas",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.432388,
+    "lon": 4.387788,
+    "adresse": "Place Albert Thomas, 42000 Saint-Étienne",
+    "horaires": "Marché de producteurs : mardi, jeudi et samedi de 6h à 13h. Marché 100 % bio : vendredi de 7h à 12h d'après Saint-Étienne Métropole, Loire Tourisme et l'office de tourisme ; le média local Saint-Étienne CityCrunch annonçait 6h-13h le vendredi en février 2023.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viande et charcuterie",
+      "Poisson et huîtres",
+      "Fromages et yaourts",
+      "Pain",
+      "Miel",
+      "Coulis et jus de fruits artisanaux"
+    ],
+    "description": "Le marché de producteurs de Saint-Étienne, au pied du musée d'Art et d'Industrie et à dix mètres de l'arrêt de tram Bourse du travail. La Ville le réserve aux producteurs le mardi, le jeudi et le samedi, et c'est le seul de ses vingt et un lieux de marché qu'elle classe « 100 % bio », le vendredi.",
+    "telephone": "04 77 48 77 48",
+    "site_web": "https://www.saint-etienne.fr/marches-de-plein-air",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Albert%20Thomas%2C%2042000%20Saint-%C3%89tienne",
+    "image_url": "/images/marchands/marche-albert-thomas-saint-etienne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "de-la-ferme-au-quartier",
+    "nom": "De la Ferme au Quartier",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.433655,
+    "lon": 4.433005,
+    "adresse": "11 allée Mathieu Murgue, 42100 Saint-Étienne",
+    "horaires": "Magasin ouvert du mardi au vendredi de 16h à 19h d'après l'affichette de la porte, que la coopérative photographie elle-même sur son site. Le site n'annonce par ailleurs que le retrait des commandes de groupement d'achat, à Terrenoire, de 16h à 19h les jours concernés ; les commandes se passent en ligne.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Viande bovine bio",
+      "Viande de porc fermière",
+      "Produits laitiers bio",
+      "Œufs",
+      "Épicerie sucrée et salée"
+    ],
+    "description": "Coopérative alimentaire stéphanoise créée en 2010, qui annonce approvisionner 90 % de ses produits dans un rayon de 150 km autour de Saint-Étienne. Elle les stocke dans sa plateforme de Terrenoire et les distribue par groupements d'achats mensuels, en semi-gros, dans une dizaine de points de retrait partenaires.",
+    "site_web": "https://www.delafermeauquartier.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11%20all%C3%A9e%20Mathieu%20Murgue%2C%2042100%20Saint-%C3%89tienne",
+    "image_url": "/images/marchands/de-la-ferme-au-quartier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vrac-en-vert-saint-etienne",
+    "nom": "Vrac en Vert",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.43897,
+    "lon": 4.392003,
+    "adresse": "22 rue de la République, 42000 Saint-Étienne",
+    "horaires": "Lundi de 14h30 à 19h30, du mardi au samedi de 9h à 19h30. Fermé les 1er janvier, lundi de Pâques, jeudi de l'Ascension, lundi de Pentecôte, 1er mai, 8 mai, 14 juillet, 15 août, 1er novembre, 11 novembre et 25 décembre.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Céréales, légumineuses et fruits secs en vrac",
+      "Café, thé, cacao et épices",
+      "Produits laitiers et œufs",
+      "Pain et produits de boulangerie",
+      "Huiles et matières grasses",
+      "Produits d'hygiène et d'entretien"
+    ],
+    "description": "Épicerie sans emballage ouverte en 2017 : on apporte ses contenants, ils sont tarés à l'entrée, on se sert et on ne paie que le contenu. Installée d'abord rue Roger-Salengro, au Crêt de Roc, elle a déménagé rue de la République en 2022 ; des contenants sont prêtés ou vendus sur place pour les oublis.",
+    "telephone": "09 86 66 57 41",
+    "site_web": "http://vracenvert.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%20rue%20de%20la%20R%C3%A9publique%2C%2042000%20Saint-%C3%89tienne",
+    "image_url": "/images/marchands/vrac-en-vert-saint-etienne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cidrerie-du-pilat",
+    "nom": "Cidrerie du Pilat",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.431555,
+    "lon": 4.408502,
+    "adresse": "24 rue Peyret-Lallier, 42100 Saint-Étienne",
+    "horaires": "Aucun horaire d'ouverture publié par la cidrerie : commande sur sa boutique en ligne ou par téléphone. Elle tient par ailleurs une carte de ses revendeurs sur son site.",
+    "produits": [
+      "Cidre extra-brut 6,5° (pommes Gala)",
+      "Cidre 7,5° (Goldrush et Rosée du Pilat)",
+      "Poiré extra-brut 7° (poires Louise Bonne)",
+      "Mistelle du Pilat",
+      "Vinaigre de cidre",
+      "Cidre à tartiner"
+    ],
+    "description": "Cidrerie fondée en 2024 par trois associés, qui ne presse que des pommes du Pilat : le cidre, le poiré et le vinaigre sortent tous du chai de la rue Peyret-Lallier. Certificat biologique Bureau Alpes Contrôles en vigueur pour l'activité de préparation.",
+    "telephone": "07 81 44 70 23",
+    "site_web": "https://www.cidreriedupilat.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24%20rue%20Peyret-Lallier%2C%2042100%20Saint-%C3%89tienne",
+    "image_url": "/images/marchands/cidrerie-du-pilat.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maison-fouillat-saint-etienne",
+    "nom": "Maison Fouillat",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.443418,
+    "lon": 4.386083,
+    "adresse": "18 rue Charles de Gaulle, 42000 Saint-Étienne",
+    "horaires": "Du lundi au vendredi de 6h à 19h30, fermé le dimanche. Le samedi, le site de la boulangerie annonce 6h-18h et le panneau d'horaires de la devanture, qu'elle photographie elle-même, 6h-13h30 : mieux vaut vérifier avant de se déplacer un samedi après-midi.",
+    "produits": [
+      "Pains bio : complet, tourte de seigle, petit épeautre, meules nature et aux graines",
+      "Baguettes bio sur levain",
+      "Baguettes de tradition française",
+      "Pains spéciaux : maïs, graines de chia, pain nordique",
+      "Viennoiseries",
+      "Pâtisseries",
+      "Snacking et traiteur"
+    ],
+    "description": "Boulangerie de plus de cent ans du centre-ville, dont la gamme de pains biologiques est certifiée par Bureau Veritas — c'est le pain frais, et lui seul, qui porte la certification. La maison nomme ses fournisseurs locaux : le miel de la Miellerie des Séquoias, à Saint-Étienne, et les glaces de la ferme des Délices Foréziens, à Saint-Cyr-les-Vignes.",
+    "telephone": "04 77 32 24 14",
+    "site_web": "https://www.boulangerie-patisserie-saint-etienne.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18%20rue%20Charles%20de%20Gaulle%2C%2042000%20Saint-%C3%89tienne",
+    "image_url": "/images/marchands/maison-fouillat-saint-etienne.jpg",
+    "a_confirmer": true
   }
 ]
