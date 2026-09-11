@@ -1308,9 +1308,42 @@ prioritaires en cas de conflit.
      visiteur le lira lui aussi sur la page de la Ville et doit savoir quoi en faire. Un avis dont
      l'année reconstituée est encore ouverte, lui, déplace la fiche.
 
+108. **Une image en chargement différé n'est pas une image absente.** La page de Biocoop Nanterre
+     Ville sur `biocoop.fr` a d'abord été classée « sans photographie du magasin » : le relevé des
+     attributs `src=` n'y trouvait que les visuels de marque du réseau. La devanture est pourtant
+     là, dans un `data-lazy-src`, sous `media/stores/photos/`. La fiche allait partir avec une
+     photo d'ambiance au titre de la règle 1 alors que la vraie existait. **Critère** : avant de
+     conclure qu'une page ne publie pas de photographie, chercher aussi `data-lazy-src`,
+     `data-src`, `data-original`, `srcset` et les blocs de données du gabarit, pas seulement
+     `src=`. Ce que la règle débloque : la façade réelle d'un commerce plutôt qu'une illustration
+     thématique, chaque fois qu'un site moderne diffère le chargement de ses images.
+
+109. **L'horodatage EXIF situe une photographie de marché quand un seul marché de la commune se
+     tient ce jour-là.** L'office de tourisme de Nanterre publie quatre photographies sur sa page
+     des marchés ; trois portent un titre qui nomme leur marché, la quatrième s'appelle
+     `20230907_093738`. Son EXIF donne le 7 septembre 2023 à 9 h 37, un jeudi : des quatre marchés
+     de Nanterre, seul celui du Centre ouvre le jeudi. Les trois autres corroborent la méthode —
+     la gare le samedi 23 mai 2020, Charles-de-Gaulle le vendredi 16 septembre 2022, deux jours où
+     leur marché est bien le seul ou l'un des deux ouverts. **Critère** : lire `DateTimeOriginal`,
+     reconstituer le jour de la semaine, et n'attribuer la photographie que si un seul marché de
+     la commune se tient ce jour-là à cette heure ; si deux marchés partagent le créneau, la
+     déduction ne tient pas et la photographie n'est pas utilisée. La fiche reste `a_confirmer` et
+     le raisonnement est écrit ici.
+
+110. **Un site institutionnel dont le pied de page est infecté reste une source ; il ne devient pas
+     un lien à inscrire.** `ot-nanterre.fr` sert, sous son bloc de contact, une grappe de liens de
+     casino en ligne — « slot », « toto togel », « rtp slot » — injectée comme l'était
+     `butinerie.com` à la règle 101. **Critère** : la règle 101 refuse d'**inscrire** un site
+     infecté dans `site_web` ; elle n'oblige pas à jeter ce que sa rédaction publie. Ici les jours
+     et heures des quatre marchés sont mot pour mot ceux de l'attribut `data-opening-hours` des
+     fiches équipement de `nanterre.fr`, et les photographies portent l'EXIF des appareils de
+     l'office ; l'injection est cantonnée au pied de page, hors du contenu rédactionnel. Source
+     oui, `site_web` non — les cinq fiches de la passe pointent vers `nanterre.fr`, `biocoop.fr` et
+     le site de la brasserie.
+
 ## Marchands à confirmer
 
-374 fiches sur 408 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+379 fiches sur 413 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1706,8 +1739,13 @@ prioritaires en cas de conflit.
 - **Marché d'Arlac** (Mérignac) (marché de quartier principalement alimentaire sur la place de la chapelle Sainte-Bernadette, le samedi de 7h30 à 13h, avec festival de la soupe en janvier et fête de la gastronomie en septembre. **Deux contradictions internes au site de la Ville**, toutes deux consignées dans `horaires` : la page du marché annonce une quinzaine de commerçants quand la page d'accueil des marchés en annonce dix-huit ; et un avis de déplacement temporaire « à partir du samedi 28 septembre », sans année, que la **règle 107** date de 2024 et dont la fenêtre de quatre mois est close. La Base Adresse Nationale ne connaît pas la place elle-même : le point retenu est celui de l'avenue de la Chapelle - Sainte Bernadette, à 0,745, à une cinquantaine de mètres. Photo : les cagettes d'un étal de fruits et légumes publiées par la Ville, **recadrées à 920 × 506 pour écarter les visages**)
 - **La Ferme des Chênes** (Mérignac) (ferme urbaine de la Ville de Mérignac, avenue de l'Alouette : une vingtaine de légumes, une vente directe le jeudi de 17h à 19h sous un hangar de 200 m² équipé pour le lavage et le stockage, des paniers à 10 ou 20 € depuis juillet 2026, paiement en espèces. **Première fiche publiée au titre de la règle 106** : aucune entreprise n'est immatriculée au 103 avenue de l'Alouette, l'exploitant est la commune. **Pas de pilier `environnement`, et pas un mot « bio » dans les produits** : la Ville annonce un terrain labellisé en agriculture biologique, mais Certipaq marque les deux certificats de la commune « Ce certificat n'est plus valide » — règle 45, la contradiction est écrite dans la description au lieu d'être tranchée en faveur du plus flatteur. Le nom du maraîcher, que la Ville publie, n'est pas repris. Point BAN sur le 103 avenue de l'Alouette à 0,976, à 38 m du point de l'Agence Bio. Photo : le hangar de la ferme, enseigne « Ferme des chênes / Ville de Mérignac » lisible, publiée par la Ville, aucun visage)
 - **Brasserie Effet Papillon** (Mérignac) (brasserie artisanale de l'avenue Gustave Eiffel, immatriculée en 2017, seize bières à la pression au comptoir de son bar-boutique : Double Belge ambrée, Hoppy Mood East Coast IPA, Shake Shake Shake Milkshake IPA, Double NEIPA, Tranquillement sour gingembre-cassis, plus fûts, coffrets et planches de charcuterie et de fromages. Certificat **Certipaq Bio engagement en cours**, d'où le pilier `environnement` ; la brasserie écrit elle-même que ses gammes permanentes et éphémères sont certifiées depuis mai 2022. **Deux personnes morales à la même porte, une seule fiche, règle 7** : la brasserie en 11.05Z et le bar en 56.30Z, tous deux ouverts au 35 avenue Gustave Eiffel. Le point BAN et celui de l'Agence Bio tombent au même mètre. Deux numéros publiés, celui de la brasserie et celui du bar : c'est celui de la brasserie qui est inscrit. Photo : le foudre de bois et la cuve inox frappée « EFFET PAPILLON », publiée par la brasserie, aucun visage)
-- **Les Paniers d'Api** (Mérignac) (paniers de fruits et légumes commandés en ligne du jeudi soir au dimanche minuit et retirés le mardi ou le mercredi dans l'un des 65 points relais de la Gironde, préparés par une douzaine de personnes en situation de handicap visuel ou auditif. Catégorie `amap` comme Les Paniers de Créteil et La Charrette Bio : commande puis retrait en permanence. **Troisième fiche publiée au titre de la règle 100** : « Les Paniers d'Api » n'existe pas au registre, et la recherche sur le 302 avenue Aristide Briand fait apparaître l'établissement ouvert qui la porte. **Pas de pilier `environnement`** : la structure annonce du 100 % bio mais ne figure pas parmi les 3 746 opérateurs girondins du registre de l'Agence Bio — la mention est attribuée dans la description, pas reprise à son compte, règle 45. **Contradiction sur la distance** : la Ville écrit « moins de 150 km de Bordeaux », la structure « moins de 200 km » ; c'est l'intéressée qui gagne, règle 104. L'adresse électronique publiée n'est pas reprise. Photo : le carton « Les paniers d'Api - Bio & Local » entouré de confitures, miel, œufs, fraises, cidre et jus de pomme, publiée par la structure, aucun visage)
-Les 408 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Les Paniers d'Api** (Mérignac) (paniers de fruits et légumes commandés en ligne du jeudi soir au dimanche minuit et retirés le mardi ou le mercredi dans l'un des 65 points relais de la Gironde, préparés par une douzaine de personnes en situation de handicap visuel ou auditif. Catégorie `amap` comme Les Paniers de Créteil et La Charrette Bio : commande puis retrait en permanence. **Troisième fiche publiée au titre de la règle 100** : « Les Paniers d'Api » n'existe pas au registre, et la recherche sur le 302 avenue Aristide Briand fait apparaître l'établissement ouvert qui la porte. **Pas de pilier `environnement`** : la structure annonce du 100 % bio mais ne figure pas parmi les 3 746 opérateurs girondins du registre de l'Agence Bio — la mention est attribuée dans la description, pas reprise à son compte, règle 45. **Contradiction sur la distance** : la Ville écrit « moins de 150 km de Bordeaux », la structure « moins de 200 km » ; c'est l'intéressée qui gagne, règle 104. L'adresse électronique publiée n'est pas reprise. Photo : le carton « Les paniers d'Api - Bio & Local » entouré de confitures, miel, œufs, fraises, cidre et jus de pomme, publiée par la structure, aucun visage)- **Marché du Centre** (Nanterre) (le plus grand des quatre marchés de la ville, place du Maréchal Foch, dans le centre ancien : mardi, jeudi et dimanche de 8h à 13h30, 65 commerçants alimentaires et une trentaine de non alimentaires. Aucune entreprise au registre, marché municipal, **règle 106** ; jours et heures lus dans l'attribut `data-opening-hours` de la fiche équipement de la Ville et confirmés mot pour mot par l'office de tourisme. Téléphone : le standard de la mairie, seul numéro que la Ville publie sur ces pages. Photo : **première application de la règle 109** — la seule photographie non titrée de la galerie de l'office de tourisme, datée par son EXIF du jeudi 7 septembre 2023 à 9 h 37, jour où seul ce marché-là est ouvert ; recadrée à 2 604 × 1 736 puis réduite à 1 280 × 853, aucun visage identifiable)
+- **Marché de la Gare** (Nanterre) (marché couvert sous une halle à toile tendue près de la gare de Nanterre-Ville : mercredi et samedi de 8h à 13h30, 24 commerçants alimentaires et environ 70 non alimentaires — c'est celui des quatre où le non-alimentaire domine le plus. **Contradiction d'adresse entre deux institutions** : la Ville écrit « av Benoît Frachon », l'office de tourisme « 3-7 avenue Henri Martin ». Les deux points de la Base Adresse Nationale sont à 75 m l'un de l'autre, les deux voies se rejoignent sur la place du marché : l'adresse de la Ville est publiée, celle de l'office est citée dans la description. Photo : la halle publiée par l'office de tourisme, **recadrée à 2 268 × 1 260 pour rester au-dessus de la ligne des visages**, puis réduite à 1 280 × 711)
+- **Marché Charles-de-Gaulle** (Nanterre) (dit marché Préfecture, entre la sortie du RER Nanterre-Préfecture et le parc départemental André-Malraux : mardi, vendredi et dimanche de 8h à 14h, 11 commerçants alimentaires et une vingtaine de non alimentaires — le plus petit des quatre, et le seul à tenir jusqu'à 14h. Photo : l'étal d'agrumes, de pastèque et d'ananas publié par la Ville, **recadré à 670 × 307 pour écarter les vendeurs et une cliente**, sans agrandissement — 670 px de large, au-dessus du plancher de la règle 59)
+- **Biocoop Nanterre Ville** (Nanterre) (magasin bio du réseau Biocoop, ouvert sept jours sur sept rue Maurice Thorez : fruits et légumes bio, vrac, boulangerie, fromagerie, crémerie, épicerie, et un point de collecte pour le réemploi des contenants. Certificat **Ecocert en vigueur** au nom de la société qui exploite le magasin, consultable, d'où le pilier `environnement` ; un seul établissement ouvert au registre. La fiche porte l'enseigne et non la raison sociale, **règle 3**. Ses `produits` citent les limonades et colas de La Limonaderie de Paris, fabriqués à Nanterre : c'est l'office de tourisme qui range le magasin parmi leurs points de vente. Photo : **première application de la règle 108** — la devanture publiée par `biocoop.fr` dans un `data-lazy-src`, 600 × 600, enseigne « biocoop Nanterre Ville » lisible, aucun visage)
+- **Brasserie Nemeto** (Nanterre) (brasserie artisanale du 4 rue Silvy, immatriculée en 2019 : six bières permanentes — Geneviève, La Grange, La Folie, Boulevard du Couchant, Bois Joly, Trigoujat — des séries éphémères, et des biscuits cuits sur place avec les drêches de brassage. Vente à emporter du lundi au vendredi de 10h à 18h et le premier samedi du mois ; **contradiction interne au site** sur les heures de ce samedi, 10h30-13h et 15h30-19h sur la page « Lieux de vente », 10h-19h sur la page « Contact » : la version détaillée est publiée, l'autre est citée, règle 5. Certificat **Certipaq Bio valide du 8 avril 2026 au 31 mars 2028**, vérifié sur la fiche de l'organisme, d'où le pilier `environnement`. Le registre de l'Agence Bio marque pourtant `venteParticuliers` à faux : c'est la brasserie qui gagne sur son propre comptoir, **règle 104**, elle publie ses heures de vente à emporter. Le portable que l'office de tourisme donne pour elle n'est pas repris, seulement son fixe. Photo : le bâtiment de pierre de la brasserie, cuves visibles par le porche ouvert, publiée par la brasserie, aucun visage)
+
+Les 413 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1735,6 +1773,83 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Nanterre
+
+Département visé : **Hauts-de-Seine (92)**, déficit **4,7911** au titre de la règle 41, le plus fort
+des départements éligibles — La Réunion vient devant avec 5,2643 mais reste écartée par la
+**règle 93**, le contrôle de `lib/validateMerchants.ts` refusant toute latitude hors de France
+métropolitaine. Région 11, contre la région 75 à la passe précédente : la réserve de la règle 41 est
+respectée. Les cinq fiches ramènent le déficit du 92 à **-0,0889**. Commune retenue : **Nanterre**,
+97 783 habitants, aucune fiche jusqu'ici, la plus peuplée du département dans ce cas ; les quatre
+autres fiches des Hauts-de-Seine étaient à Boulogne-Billancourt et à Issy-les-Moulineaux. Aucun
+élargissement au titre de la règle 96 n'a été nécessaire : les cinq fiches sont dans Nanterre même,
+la plus éloignée du centre à 2,2 km.
+
+Ce qui a coûté le plus cher, cette fois encore : les photographies. Les quatre fiches équipement de
+`nanterre.fr` n'en publient que pour le marché Charles-de-Gaulle ; les trois autres marchés n'ont
+que le bandeau générique de la rubrique. La galerie de l'office de tourisme a débloqué deux marchés
+sur trois, et la règle 109 a permis d'attribuer la photographie non titrée.
+
+Restent non publiés :
+
+- **Marché Pablo Picasso** (avenue Pablo Picasso, mercredi et samedi de 8h à 13h30, 18 commerçants
+  alimentaires et une trentaine de non alimentaires) : entièrement documenté par la Ville et par
+  l'office de tourisme, bloqué sur la seule photographie publiée. Elle fait 900 × 600 — c'est le
+  fichier d'origine, pas une vignette — et montre plusieurs visages identifiables au premier plan,
+  dont un enfant. Tout recadrage qui les écarte tombe à une bande de 900 × 190, sous le plancher
+  utilisable de la règle 59. À publier dès qu'une autre image paraît.
+- **La Limonaderie de Paris** (255 rue de la Garenne, Paris Cola, Parimonade dont une version bio,
+  Ecocert engagement en cours depuis 2019, deux établissements ouverts) : l'office de tourisme la
+  range parmi les points de vente nanterriens avec la mention « Sur place : 255 rue de la Garenne ».
+  Mais l'entreprise ne publie sur son propre site ni boutique, ni horaire ; son code NAF est 46.34Z,
+  commerce de gros ; et le registre de l'Agence Bio la marque `venteParticuliers` à faux. Trois
+  indices contre un : pas de fiche point de vente, on n'envoie personne sonner à une porte dont
+  aucune heure n'est publiée. Ses boissons figurent en revanche dans les `produits` du Biocoop, où
+  elles sont attestées.
+- **Dal'Cyno** (33 rue Henri Barbusse, NAF 01.21Z culture de la vigne, immatriculée en 2022,
+  certificat Ecocert engagement en cours depuis le 20 mai 2025, `venteParticuliers` à vrai) : une
+  vigne urbaine, ce qui serait la fiche la plus singulière de la commune. Mais le champ `url` de son
+  unique `siteWebs` est vide, aucune source ne publie d'horaire, et aucune photographie n'existe.
+  `horaires` ne peut pas être rempli sans inventer.
+- **La Ferme du Bonheur** (220 avenue de la République) : ferme urbaine et lieu culturel depuis
+  1993, très active — six billets en septembre 2026. Sa page « Infos pratiques » écrit « La Ferme du
+  Bonheur est ouverte au public uniquement lors des événements » et ne publie aucune vente de
+  produits alimentaires. Hors sujet au sens de `MODERATION.md`, qui référence la vente en circuit
+  court, pas les lieux de visite.
+- **Les AMAP de Nanterre** : le CEAN (Consommer et Échanger Autrement à Nanterre) fait tourner
+  l'AMAP des Guignons, salle des Guignons, 7 boulevard du Général Leclerc, le jeudi de 18h à 19h15.
+  Mais `cean.nanterreasso.org` répond 403 sur toutes ses adresses, y compris depuis un navigateur ;
+  le site dédié `amapguignons.wordpress.com` n'a pas bougé depuis avril 2014, et
+  `amapetal.wordpress.com` — AMAP ETAL, Maison de l'étudiant·e de l'université Paris-Nanterre, le
+  mercredi de 12h30 à 13h30 et de 17h30 à 19h — depuis octobre 2019. Rien ne prouve une activité
+  actuelle, et l'annuaire des associations de la Ville ne les inscrit pas.
+- **Naturalia Nanterre** (9 bis-11 rue du Marché, 47.29Z, Agence Bio engagement en cours) : 163
+  établissements ouverts sous une seule société, réseau détenu par Monoprix. La règle 3 ne
+  disqualifie pas la taille d'une enseigne, mais elle exclut le commerce généraliste ; laissé de
+  côté, à la différence du Biocoop dont le magasin est exploité par une société à établissement
+  unique.
+- **Terre et Fourchette** (24 rue Becquet au registre de l'Agence Bio) : son site place la boutique
+  à Issy-les-Moulineaux et ne vend que des plats cuisinés en bocaux consignés, pas de produit brut.
+- **Flocon Rebel / BAM Foods** (5 boulevard des Bouvets) : vente en ligne seulement, aucune adresse
+  de retrait publiée.
+- **Autour des Drêches – Biscuiterie Nemeto** (14 rue Sadi Carnot) : zéro établissement ouvert au
+  registre et certificat bio `ARRETEE`. Les biscuits aux drêches sont vendus à la brasserie, qui est
+  la fiche publiée.
+- **Mimi Champi – les artisans du champignon** (6 place de la Colombe) : établissement fermé au
+  registre, certificat `ARRETEE`.
+- Les supermarchés certifiés bio du registre — Carrefour Market, Lidl, Franprix, Monoprix, Monop,
+  Metro, Leclerc — écartés par `MODERATION.md`.
+
+Données personnelles écartées : le portable que l'office de tourisme publie pour la brasserie (son
+fixe est inscrit à la place), l'adresse électronique nominative de La Limonaderie de Paris, celle de
+la Ferme du Bonheur et celle de l'office de tourisme, et le nom des personnes visibles sur les
+photographies retenues — il n'y en a aucune.
+
+Une observation à consigner : `ot-nanterre.fr`, site associatif de l'office de tourisme, sert une
+grappe de liens de casino en ligne injectée dans son pied de page. Elle n'a pas fait écarter la
+source — voir la **règle 110** — mais elle explique pourquoi aucune des cinq fiches ne pointe vers
+lui.
 
 ### Pistes non publiées à Mérignac
 

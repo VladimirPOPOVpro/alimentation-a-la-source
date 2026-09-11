@@ -10746,5 +10746,147 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=302%20avenue%20Aristide%20Briand%2C%2033700%20M%C3%A9rignac",
     "image_url": "/images/marchands/les-paniers-d-api-merignac.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-nanterre",
+    "nom": "Marché du Centre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.888847,
+    "lon": 2.194677,
+    "adresse": "Place du Maréchal Foch, 92000 Nanterre",
+    "horaires": "Toute l'année, le mardi, le jeudi et le dimanche de 8h à 13h30.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Courgettes et concombres",
+      "Tomates, poivrons et aubergines",
+      "Carottes et oignons",
+      "Agrumes",
+      "Produits des terroirs de la région parisienne"
+    ],
+    "description": "Le plus grand des quatre marchés de Nanterre : la Ville y compte 65 commerçants alimentaires, auxquels s'ajoute en moyenne une trentaine de commerçants non alimentaires. Il se tient en plein air place du Maréchal Foch, dans le centre ancien. Des animations rythment l'année, dont une vente de plantes en octobre au profit d'une association ou d'un établissement hospitalier partenaire.",
+    "telephone": "01 47 29 50 50",
+    "site_web": "https://www.nanterre.fr/annuaires/equipements/detail/marche-du-centre",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Mar%C3%A9chal%20Foch%2C%2092000%20Nanterre",
+    "image_url": "/images/marchands/marche-du-centre-nanterre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-gare-nanterre",
+    "nom": "Marché de la Gare",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.896496,
+    "lon": 2.195026,
+    "adresse": "Avenue Benoît Frachon, 92000 Nanterre",
+    "horaires": "Toute l'année, le mercredi et le samedi de 8h à 13h30.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Pommes de terre et oignons en sac",
+      "Agrumes",
+      "Melons et pastèques",
+      "Bananes",
+      "Produits des terroirs de la région parisienne"
+    ],
+    "description": "Marché couvert sous une halle à toile tendue, près de la gare de Nanterre-Ville. La Ville y compte 24 commerçants alimentaires et environ 70 commerçants non alimentaires : c'est, des quatre marchés nanterriens, celui où le non-alimentaire domine le plus nettement. L'office de tourisme situe l'entrée au 3-7 avenue Henri Martin, la Ville avenue Benoît Frachon : les deux voies se rejoignent sur la place du marché.",
+    "telephone": "01 47 29 50 50",
+    "site_web": "https://www.nanterre.fr/annuaires/equipements/detail/marche-de-la-gare",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Beno%C3%AEt%20Frachon%2C%2092000%20Nanterre",
+    "image_url": "/images/marchands/marche-de-la-gare-nanterre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-charles-de-gaulle-nanterre",
+    "nom": "Marché Charles-de-Gaulle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.895112,
+    "lon": 2.222999,
+    "adresse": "Esplanade Charles de Gaulle, 92000 Nanterre",
+    "horaires": "Toute l'année, le mardi, le vendredi et le dimanche de 8h à 14h.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Agrumes",
+      "Fraises",
+      "Ananas et bananes",
+      "Melons et pastèques",
+      "Produits des terroirs de la région parisienne"
+    ],
+    "description": "Appelé aussi marché Préfecture, il se tient entre la sortie du RER Nanterre-Préfecture et le parc départemental André-Malraux, dans le quartier Parc Nord. La Ville y compte 11 commerçants alimentaires et une vingtaine de commerçants non alimentaires : c'est le plus petit des quatre marchés de Nanterre, et le seul à tenir jusqu'à 14h.",
+    "telephone": "01 47 29 50 50",
+    "site_web": "https://www.nanterre.fr/annuaires/equipements/detail/marche-charles-de-gaulle",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Esplanade%20Charles%20de%20Gaulle%2C%2092000%20Nanterre",
+    "image_url": "/images/marchands/marche-charles-de-gaulle-nanterre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-nanterre-ville",
+    "nom": "Biocoop Nanterre Ville",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.893763,
+    "lon": 2.19591,
+    "adresse": "60-62 rue Maurice Thorez, 92000 Nanterre",
+    "horaires": "Du lundi au vendredi de 8h30 à 20h, le samedi de 9h à 20h, le dimanche de 9h à 13h.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Vrac",
+      "Pain et viennoiseries",
+      "Fromage à la coupe",
+      "Crémerie",
+      "Épicerie",
+      "Limonades et colas de La Limonaderie de Paris, fabriqués à Nanterre"
+    ],
+    "description": "Magasin bio du réseau Biocoop, ouvert sept jours sur sept dans la rue commerçante du centre de Nanterre. Il annonce une boulangerie, une fromagerie et un point de collecte pour le réemploi des contenants. L'office de tourisme le cite parmi les points de vente des boissons de La Limonaderie de Paris, fabriquées à 255 rue de la Garenne. Son certificat bio Ecocert est consultable et en vigueur.",
+    "telephone": "01 41 47 08 32",
+    "site_web": "https://www.biocoop.fr/ile-de-france/hauts-de-seine/NANTERRE/BIOCOOP-NANTERRE-VILLE",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=60-62%20rue%20Maurice%20Thorez%2C%2092000%20Nanterre",
+    "image_url": "/images/marchands/biocoop-nanterre-ville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-nemeto-nanterre",
+    "nom": "Brasserie Nemeto",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.893503,
+    "lon": 2.19527,
+    "adresse": "4 rue Silvy, 92000 Nanterre",
+    "horaires": "Du lundi au vendredi de 10h à 18h, et le premier samedi de chaque mois de 10h30 à 13h puis de 15h30 à 19h. La page Contact du site annonce 10h-19h pour ce samedi-là.",
+    "produits": [
+      "Geneviève, pale ale (5 %)",
+      "La Grange, hefeweizen (5,5 %)",
+      "La Folie, IPA (6 %)",
+      "Boulevard du Couchant (6 %)",
+      "Bois Joly (5,1 %)",
+      "Trigoujat (6 %)",
+      "Biscuits fabriqués avec les drêches de brassage"
+    ],
+    "description": "Brasserie artisanale installée dans un grand bâtiment de pierre à charpente apparente, à deux minutes du RER Nanterre-Ville. Elle brasse six bières permanentes et des séries éphémères, et cuit sur place des biscuits à partir des drêches de brassage. Son certificat bio Certipaq est consultable et valide jusqu'au 31 mars 2028 ; la brasserie se dit en outre membre du réseau Nature & Progrès. Tout est vendu à emporter sur place.",
+    "telephone": "01 46 95 44 25",
+    "site_web": "https://www.brasserienemeto.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20rue%20Silvy%2C%2092000%20Nanterre",
+    "image_url": "/images/marchands/brasserie-nemeto-nanterre.jpg",
+    "a_confirmer": true
   }
 ]
