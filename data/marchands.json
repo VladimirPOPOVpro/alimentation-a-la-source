@@ -10596,5 +10596,155 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20rue%20de%20Valdampierre%2C%20hameau%20de%20Malassise%2C%2060390%20Auteuil",
     "image_url": "/images/marchands/la-maison-delamarre-auteuil.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-merignac",
+    "nom": "Marché du centre-ville de Mérignac",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.842184,
+    "lon": -0.64688,
+    "adresse": "Place Charles de Gaulle, 33700 Mérignac",
+    "horaires": "Le samedi de 7h30 à 13h place Charles de Gaulle, avec près de 120 commerçants, dont une quinzaine tenant un espace de vente dédié au bio. Le mercredi de 7h30 à 13h avenue de l'Yser, sur le parvis de la Poste, avec une quinzaine de commerçants en moyenne.",
+    "produits": [
+      "Fruits et légumes",
+      "Poisson",
+      "Viande",
+      "Charcuterie",
+      "Rôtisserie",
+      "Pain et boulangerie",
+      "Fromage",
+      "Cuisine du monde"
+    ],
+    "description": "Le grand marché de Mérignac se tient sur deux sites et deux jours : en plein air sur la place Charles de Gaulle le samedi, sur le parvis de la Poste avenue de l'Yser le mercredi. La Ville y signale un espace de vente dédié au bio le samedi matin.",
+    "telephone": "05 56 18 88 98",
+    "site_web": "https://www.merignac.com/mon-quotidien/la-ville/les-marches/marche-du-centre-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Charles%20de%20Gaulle%2C%2033700%20M%C3%A9rignac",
+    "image_url": "/images/marchands/marche-du-centre-ville-merignac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-arlac-merignac",
+    "nom": "Marché d'Arlac",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.822711,
+    "lon": -0.622884,
+    "adresse": "Place de la Chapelle Sainte-Bernadette, quartier d'Arlac, 33700 Mérignac",
+    "horaires": "Le samedi de 7h30 à 13h, toute l'année. La page du marché annonce une quinzaine de commerçants, la page d'accueil des marchés en annonce dix-huit. La Ville affiche en outre un avis de déplacement temporaire du marché « à partir du samedi 28 septembre » derrière la Maison des habitants, pour quatre mois et sans année : le dernier 28 septembre tombé un samedi est celui de 2024, la fenêtre annoncée est donc close.",
+    "produits": [
+      "Viande",
+      "Poisson",
+      "Charcuterie",
+      "Volaille",
+      "Fromage",
+      "Fruits et légumes",
+      "Miel",
+      "Vins"
+    ],
+    "description": "Marché de quartier principalement alimentaire, sur la place de la chapelle Sainte-Bernadette, à Arlac. Il accueille deux rendez-vous annuels, le festival de la soupe en janvier et la fête de la gastronomie en septembre.",
+    "telephone": "05 56 18 88 98",
+    "site_web": "https://www.merignac.com/mon-quotidien/la-ville/les-marches/marche-darlac",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Chapelle%20Sainte-Bernadette%2C%20quartier%20d%27Arlac%2C%2033700%20M%C3%A9rignac",
+    "image_url": "/images/marchands/marche-arlac-merignac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-chenes-merignac",
+    "nom": "La Ferme des Chênes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.82045,
+    "lon": -0.658718,
+    "adresse": "103 avenue de l'Alouette, 33700 Mérignac",
+    "horaires": "Vente directe à la ferme chaque jeudi de 17h à 19h. Paiement en espèces uniquement.",
+    "produits": [
+      "Salades",
+      "Carottes",
+      "Choux",
+      "Courges",
+      "Tomates",
+      "Poivrons",
+      "Betteraves",
+      "Paniers de légumes à 10 ou 20 €"
+    ],
+    "description": "Ferme urbaine de la Ville de Mérignac, avenue de l'Alouette, qui cultive une vingtaine de légumes et tient sa vente directe sous un hangar de 200 m² équipé pour le lavage et le stockage. La Ville annonce un terrain labellisé en agriculture biologique ; l'organisme certificateur marque les deux certificats de la commune comme n'étant plus valides.",
+    "site_web": "https://www.merignac.com/ferme-des-chenes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=103%20avenue%20de%20l%27Alouette%2C%2033700%20M%C3%A9rignac",
+    "image_url": "/images/marchands/ferme-des-chenes-merignac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-effet-papillon-merignac",
+    "nom": "Brasserie Effet Papillon",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 44.857384,
+    "lon": -0.667484,
+    "adresse": "35 avenue Gustave Eiffel, 33700 Mérignac",
+    "horaires": "Bar et boutique : lundi de 12h à 21h, mardi de 16h à 21h, mercredi de 12h à 21h, jeudi et vendredi de 12h à 22h, samedi de 15h à 21h. Fermé le dimanche.",
+    "produits": [
+      "Double Belge, bière ambrée",
+      "Hoppy Mood, East Coast IPA",
+      "Shake Shake Shake, Milkshake IPA",
+      "Double, NEIPA",
+      "Tranquillement, sour gingembre et cassis",
+      "Bières à la pression, à consommer ou à emporter",
+      "Fûts et coffrets",
+      "Planches de charcuterie et de fromages"
+    ],
+    "description": "Brasserie artisanale installée avenue Gustave Eiffel depuis 2017, dont les gammes permanentes et éphémères sont certifiées biologiques depuis mai 2022 par Certipaq Bio. Elle brasse sur place et vend au comptoir de son bar-boutique, qui tire seize bières à la pression.",
+    "telephone": "05 35 65 52 82",
+    "site_web": "https://www.brasserieffetpapillon.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=35%20avenue%20Gustave%20Eiffel%2C%2033700%20M%C3%A9rignac",
+    "image_url": "/images/marchands/brasserie-effet-papillon-merignac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-paniers-d-api-merignac",
+    "nom": "Les Paniers d'Api",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.824697,
+    "lon": -0.646434,
+    "adresse": "302 avenue Aristide Briand, 33700 Mérignac",
+    "horaires": "Commande en ligne du jeudi soir au dimanche minuit, retrait le mardi ou le mercredi suivant dans l'un des 65 points relais de la Gironde. La Ville de Mérignac a annoncé une épicerie ouverte au public à cette adresse de 8h30 à 12h30 et de 13h15 à 16h30, et le vendredi de 8h30 à 12h30 ; la structure ne publie plus d'horaires de magasin sur son site.",
+    "produits": [
+      "Paniers de fruits et légumes de saison",
+      "Œufs",
+      "Confitures",
+      "Miel",
+      "Jus de pomme",
+      "Cidre",
+      "Fruits de saison",
+      "Légumes de saison"
+    ],
+    "description": "Paniers de fruits et légumes annoncés comme bio et cultivés à moins de 200 km de Bordeaux, pensés, préparés et livrés par une douzaine de personnes en situation de handicap visuel ou auditif de l'établissement et service d'aide par le travail des Eyquems. Commande en ligne, retrait en point relais.",
+    "telephone": "05 56 64 93 98",
+    "site_web": "https://www.lespaniersdapi.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=302%20avenue%20Aristide%20Briand%2C%2033700%20M%C3%A9rignac",
+    "image_url": "/images/marchands/les-paniers-d-api-merignac.jpg",
+    "a_confirmer": true
   }
 ]

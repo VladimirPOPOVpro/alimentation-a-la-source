@@ -1288,9 +1288,29 @@ prioritaires en cas de conflit.
      « Magasin de producteurs Un air de campagne », à Fayence — porte encore `marche` : elle n'est
      pas corrigée à l'aveugle, ses jours d'ouverture n'ayant pas été revérifiés.
 
+106. **Un équipement municipal n'a pas d'entreprise à lui : le test du registre ne s'y applique
+     pas.** La Ferme des Chênes est une ferme urbaine de la Ville de Mérignac ; rechercher son
+     adresse au registre national ne rend rien, parce que l'exploitant est la commune, dont le
+     SIREN couvre quarante-cinq établissements sans en nommer un seul « ferme ». Les marchés
+     municipaux sont dans le même cas depuis la première passe, sans que la règle ait jamais été
+     écrite. **Critère** : pour un marché, une régie ou une ferme communale, la page de la commune
+     tient lieu à la fois de source indépendante et de preuve d'existence, et l'absence
+     d'établissement au registre ne vaut pas fermeture. En revanche, tout ce que la commune
+     n'écrit pas — une certification, un horaire — reste à vérifier ailleurs comme pour n'importe
+     quelle fiche.
+
+107. **Un avis daté d'un jour de la semaine sans année se date au calendrier.** La page du marché
+     d'Arlac annonce un déplacement « à partir du samedi 28 septembre », pour quatre mois, sans
+     préciser l'année. Le 28 septembre n'est tombé un samedi ni en 2025 ni en 2026 : le dernier
+     est celui de 2024, et la fenêtre de quatre mois s'est refermée en janvier 2025. **Critère** :
+     reconstituer l'année par le jour de la semaine ; si la fenêtre annoncée est close, l'avis ne
+     déplace pas la fiche, mais il est cité dans `horaires`, attribué et daté, parce que le
+     visiteur le lira lui aussi sur la page de la Ville et doit savoir quoi en faire. Un avis dont
+     l'année reconstituée est encore ouverte, lui, déplace la fiche.
+
 ## Marchands à confirmer
 
-369 fiches sur 403 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+374 fiches sur 408 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1682,7 +1702,12 @@ prioritaires en cas de conflit.
 - **Le Clos des Chênes** (Aux Marais) (maraîchage installé à quatre kilomètres de Beauvais, immatriculé en 2024 : courgettes, haricots verts, poireaux, tomates, pommes de terre, radis, courges, melons, cultivés sans pesticides et vendus le lendemain de la cueillette. Trois rendez-vous de vente — la ferme le samedi après-midi, la place d'Aux Marais le mardi en fin de journée, un dimanche matin sur deux au marché de Crèvecœur-le-Grand. **Pas de pilier `environnement`** : « sans pesticides » n'est pas une certification, et l'exploitation n'est pas au registre de l'Agence Bio — règle 45. Adresse dans l'orthographe de la Base Adresse Nationale, « impasse du Bout Rifflé », là où la source écrit « Bout Riffle ». Aucun numéro fixe n'est publié, seulement un portable : le champ `telephone` est absent et `site_web` reste vide. Le prénom et le nom de l'exploitant ne sont pas repris. Photo : la cagette de courgettes, concombres et tomates au bord des planches, publiée par la ferme sur l'annuaire de la Chambre d'agriculture)
 - **Miel du Beauvaisis** (Auneuil) (exploitation apicole en activité depuis plus de quarante ans, aujourd'hui reprise par la génération suivante : sept miels — printemps, tournesol, fleurs, tilleul, châtaignier, forêt, acacia — en pots de 500 g et d'un kilo, pain d'épices, pollen, propolis, hydromel. Vente sur rendez-vous téléphonique. **Deuxième fiche publiée au titre de la règle 100** : au nom du fondateur, le registre ne rend qu'une activité de location sans rapport ; **la recherche sur l'adresse** fait apparaître « MIEL DU BEAUVAISIS », code 01.49Z, un établissement ouvert, au même 374 rue René Duchatel. Le téléphone, 03 44 47 74 76, est lisible sur les étiquettes des pots photographiés — **règle 74**. Pas de pilier `environnement` : aucune inscription à l'Agence Bio. Les noms des deux exploitants ne sont pas repris. Photo : l'étal de pots de miel, de pollen et de propolis publié par l'exploitation, aucun visage)
 - **La Maison Delamarre** (Auteuil) (ferme bio depuis 1988, à un quart d'heure au sud de Beauvais : colis de bœuf et de veau de 3 à 16 kg sur réservation, poulet fermier, farines de blé ancien, de sarrasin et de petit-épeautre, farine « La Triple », lentilles vertes, huiles de cameline et de tournesol, jus et confitures de pomme. Certificat **Bureau Veritas engagement en cours** au nom de l'EARL des Courtils, d'où le pilier `environnement`. **Trois adresses pour un même lieu** : le registre écrit « Ham Malassise », l'Agence Bio inscrit deux points dont « 2 rie de Valdampierre » — coquille comprise — et la ferme écrit elle-même, dans son itinéraire, « la ferme se trouve sur votre droite, au numéro 9 ». C'est l'intéressé qui gagne, **règle 104** : le 9 est publié, sur le point BAN à 0,941, à 50 m du second point de l'Agence Bio et à 2,7 km du premier. Horaires honnêtes plutôt que faux : la page « nos jours d'ouverture » affichait encore, au 11 septembre 2026, une trêve estivale sans date de reprise, et c'est écrit tel quel. Seul un portable est publié : le champ `telephone` est absent, le prénom de l'exploitant n'est pas repris. Photo : les poules de plein air devant les bâtiments de la ferme, publiée par la ferme en 2024, recadrée à 2 196 × 1 464 puis réduite à 1 280 × 853)
-Les 403 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du centre-ville de Mérignac** (Mérignac) (le grand marché de la commune, sur deux sites et deux jours : place Charles de Gaulle le samedi de 7h30 à 13h, avec près de 120 commerçants dont une quinzaine sur un espace dédié au bio, et avenue de l'Yser, parvis de la Poste, le mercredi aux mêmes heures, avec une quinzaine de commerçants. Les huit lignes de `produits` sont celles que la Ville énumère, **règle 103**, moins les vêtements, chaussures et jouets qu'elle cite aussi et qui ne relèvent pas du site. Point BAN sur la place Charles de Gaulle à 0,969. Aucune entreprise au registre : marché municipal, **règle 106**. Téléphone du service Commerces de proximité de la Ville, pas d'un commerçant. Photo : un étal de fruits publié par la Ville, **recadré à 1 400 × 551 pour écarter le vendeur et un passant**)
+- **Marché d'Arlac** (Mérignac) (marché de quartier principalement alimentaire sur la place de la chapelle Sainte-Bernadette, le samedi de 7h30 à 13h, avec festival de la soupe en janvier et fête de la gastronomie en septembre. **Deux contradictions internes au site de la Ville**, toutes deux consignées dans `horaires` : la page du marché annonce une quinzaine de commerçants quand la page d'accueil des marchés en annonce dix-huit ; et un avis de déplacement temporaire « à partir du samedi 28 septembre », sans année, que la **règle 107** date de 2024 et dont la fenêtre de quatre mois est close. La Base Adresse Nationale ne connaît pas la place elle-même : le point retenu est celui de l'avenue de la Chapelle - Sainte Bernadette, à 0,745, à une cinquantaine de mètres. Photo : les cagettes d'un étal de fruits et légumes publiées par la Ville, **recadrées à 920 × 506 pour écarter les visages**)
+- **La Ferme des Chênes** (Mérignac) (ferme urbaine de la Ville de Mérignac, avenue de l'Alouette : une vingtaine de légumes, une vente directe le jeudi de 17h à 19h sous un hangar de 200 m² équipé pour le lavage et le stockage, des paniers à 10 ou 20 € depuis juillet 2026, paiement en espèces. **Première fiche publiée au titre de la règle 106** : aucune entreprise n'est immatriculée au 103 avenue de l'Alouette, l'exploitant est la commune. **Pas de pilier `environnement`, et pas un mot « bio » dans les produits** : la Ville annonce un terrain labellisé en agriculture biologique, mais Certipaq marque les deux certificats de la commune « Ce certificat n'est plus valide » — règle 45, la contradiction est écrite dans la description au lieu d'être tranchée en faveur du plus flatteur. Le nom du maraîcher, que la Ville publie, n'est pas repris. Point BAN sur le 103 avenue de l'Alouette à 0,976, à 38 m du point de l'Agence Bio. Photo : le hangar de la ferme, enseigne « Ferme des chênes / Ville de Mérignac » lisible, publiée par la Ville, aucun visage)
+- **Brasserie Effet Papillon** (Mérignac) (brasserie artisanale de l'avenue Gustave Eiffel, immatriculée en 2017, seize bières à la pression au comptoir de son bar-boutique : Double Belge ambrée, Hoppy Mood East Coast IPA, Shake Shake Shake Milkshake IPA, Double NEIPA, Tranquillement sour gingembre-cassis, plus fûts, coffrets et planches de charcuterie et de fromages. Certificat **Certipaq Bio engagement en cours**, d'où le pilier `environnement` ; la brasserie écrit elle-même que ses gammes permanentes et éphémères sont certifiées depuis mai 2022. **Deux personnes morales à la même porte, une seule fiche, règle 7** : la brasserie en 11.05Z et le bar en 56.30Z, tous deux ouverts au 35 avenue Gustave Eiffel. Le point BAN et celui de l'Agence Bio tombent au même mètre. Deux numéros publiés, celui de la brasserie et celui du bar : c'est celui de la brasserie qui est inscrit. Photo : le foudre de bois et la cuve inox frappée « EFFET PAPILLON », publiée par la brasserie, aucun visage)
+- **Les Paniers d'Api** (Mérignac) (paniers de fruits et légumes commandés en ligne du jeudi soir au dimanche minuit et retirés le mardi ou le mercredi dans l'un des 65 points relais de la Gironde, préparés par une douzaine de personnes en situation de handicap visuel ou auditif. Catégorie `amap` comme Les Paniers de Créteil et La Charrette Bio : commande puis retrait en permanence. **Troisième fiche publiée au titre de la règle 100** : « Les Paniers d'Api » n'existe pas au registre, et la recherche sur le 302 avenue Aristide Briand fait apparaître l'établissement ouvert qui la porte. **Pas de pilier `environnement`** : la structure annonce du 100 % bio mais ne figure pas parmi les 3 746 opérateurs girondins du registre de l'Agence Bio — la mention est attribuée dans la description, pas reprise à son compte, règle 45. **Contradiction sur la distance** : la Ville écrit « moins de 150 km de Bordeaux », la structure « moins de 200 km » ; c'est l'intéressée qui gagne, règle 104. L'adresse électronique publiée n'est pas reprise. Photo : le carton « Les paniers d'Api - Bio & Local » entouré de confitures, miel, œufs, fraises, cidre et jus de pomme, publiée par la structure, aucun visage)
+Les 408 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1710,6 +1735,66 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Mérignac
+
+Seizième passe en ville. Département visé : la **Gironde (33)**, déficit **4,8802** fiche au sens
+de la règle 41 avec 403 fiches publiées et 5 dans le département, toutes à Bordeaux et toutes des
+marchés. La Réunion vient devant, à **5,1998**, mais reste écartée par la **règle 93**. Les
+Hauts-de-Seine suivent à **4,6711**. La Gironde est en **région 75**, la passe précédente visait
+l'Oise, en région 32 : la réserve de la **règle 41.c** ne s'applique pas. Après la passe, le
+déficit de la Gironde tombe à **0,0028** — la couverture du département est à l'équilibre.
+
+**Commune retenue : Mérignac, 78 090 habitants**, la plus peuplée du département sans aucune fiche,
+Bordeaux (267 991) en comptant déjà cinq. Les cinq fiches sont toutes dans Mérignac même, entre
+80 m et 3 km du centre : **aucun élargissement au titre de la règle 96 n'a été nécessaire**.
+
+**Ce qui a coûté le plus cher, cette fois encore : les photographies de marché.** Les cinq images
+publiées par la Ville pour ses marchés sont des vues de foule, pleines de visages identifiables.
+Deux ont pu être sauvées par la **règle 99** en ne gardant que les étals ; les trois autres n'ont
+rien donné d'exploitable au-dessus du plancher de 600 px de la règle 59.
+
+**Pistes laissées en attente, avec leur critère de déblocage :**
+
+- **Marché de Mondésir** (dimanche de 7h30 à 13h, sur le parking du magasin Auchan, quartier de la
+  Glacière). Jour, heures et lieu sont publics et concordants ; la Ville ne publie ni le nombre de
+  commerçants, ni la nature des étals, ni de photographie du marché. La **règle 103** interdit d'y
+  suppléer. À publier dès que la Ville en décrira les étals ou en publiera une image.
+- **Le p'tit marché de Chemin Long** : ouvert le dimanche de 7h30 à 13h sur le parvis de la
+  maison des habitants, inauguré le 4 décembre 2022 et baptisé par vote des habitants, il a
+  ensuite fermé — « les commerçants n'ont pas trouvé leur clientèle et ne peuvent pas dans ces
+  conditions assurer une présence hebdomadaire », écrit la Ville. Le marché existe encore dans
+  l'agenda et le plan du site municipal : **il n'est pas publié parce qu'il est fermé**, et la
+  piste est notée ici pour que la prochaine passe ne le redécouvre pas comme une nouveauté.
+- **Le Poulailler Bio Majolan**, 5 rue de Nantes, et **l'EARL Le Petit Clos du Mas Forêt**, chemin
+  de Sabatey : deux producteurs mérignacais au registre de l'Agence Bio avec un certificat
+  consultable. Aucun des deux ne publie d'horaires de vente ni de photographie. À reprendre au
+  prochain passage sur Bordeaux Métropole.
+- **Deux Poids des Mesures**, 28 rue André Ouley (47.29Z, ouvert, certificat Qualisud consultable)
+  et **la Famille P & J Allard**, 2 rue Miguel de Cervantes (certificat Bureau Veritas
+  consultable) : le premier ne publie qu'une page Facebook, bloquée ici ; la seconde est
+  immatriculée en commerce de gros de boissons, 46.34Z, ce qui ne dit pas qu'elle vend au détail.
+  À reprendre si l'un ou l'autre ouvre un site consultable.
+- **Les huit AMAP de Mérignac**, que la Ville recense avec, pour chacune, un lieu, un jour et une
+  heure de distribution précis : Arlac le mercredi de 18h à 19h et Taravao le vendredi de 18h à
+  19h à la maison des habitants d'Arlac, Beutre le jeudi de 18h30 à 19h15, Aux paniers des deux
+  villes le jeudi de 18h à 19h15 à la MJC CL2V, Le Burck le mercredi de 17h30 à 18h30, La
+  Passerelle vers la terre le mercredi de 18h30 à 19h30 au centre social Le Puzzle, le Domaine de
+  Fantaisie le mardi de 18h30 à 19h30, La Glacière le vendredi de 18h30 à 19h30. **Rien ne leur
+  manque du côté des faits** — la règle 9 est largement satisfaite. Ce qui manque est une
+  photographie : aucune des huit n'en publie, et la Ville n'en publie pas non plus. Les seuls
+  contacts publiés sont des adresses électroniques nominatives ou associatives, qui ne se
+  recopient pas ici. C'est la matière évidente du prochain passage sur Bordeaux Métropole, dès
+  qu'une image honnête sera disponible pour chacune.
+
+**Hors sujet, écartés sans regret** : Bio c'Bon, Carrefour, Carrefour City, Casino, Intermarché et
+le magasin Auchan de Mondésir, que le registre de l'Agence Bio fait remonter pour la commune —
+`MODERATION.md` écarte les grandes surfaces. Expresso Service (31 avenue Gustave Eiffel) est un
+prestataire de machines à café, pas un point de vente alimentaire.
+
+**Données personnelles volontairement laissées de côté** : le nom du maraîcher de la Ferme des
+Chênes, que la Ville publie, et les adresses électroniques des cinq fiches — celle du service
+municipal des marchés comme celle des Paniers d'Api.
 
 ### Pistes non publiées à Beauvais
 
