@@ -11274,5 +11274,148 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Patio%20Bio%2C%20Chemin%20de%20la%20Carreirasse%2C%2030132%20Caissargues",
     "image_url": "/images/marchands/el-patio-bio-caissargues.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-canal-couvert-mulhouse",
+    "nom": "Marché du Canal Couvert",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.751819,
+    "lon": 7.328561,
+    "adresse": "26 Quai de la Cloche, 68200 Mulhouse",
+    "horaires": "Le mardi, le jeudi et le samedi de 7h à 17h, d'après la page des marchés de la Ville de Mulhouse, qui gère et réglemente le marché. (L'association des commerçants du marché et la carte des producteurs locaux de Mulhouse Alsace Agglomération annoncent une ouverture dès 6h ; le règlement municipal des marchés de 2012 fixait l'ouverture du carreau des légumes à 5h, celle de la halle à 6h30 le mardi et le jeudi et à 5h30 le samedi.)",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie, charcuterie et volaille",
+      "Poissonnerie",
+      "Boulangerie et pâtisserie",
+      "Fromagerie",
+      "Épicerie fine, thé, café et épices",
+      "Vins et spiritueux",
+      "Spécialités du monde"
+    ],
+    "description": "Le grand marché de Mulhouse, au bord du quai de la Cloche. Le règlement municipal y distingue une halle couverte réservée au commerce alimentaire — bouchers, charcutiers, traiteurs, fromagers, boulangers, poissonniers, épiciers — et un carreau des fruits et légumes où des producteurs, tenus de justifier de leurs parcelles, côtoient des revendeurs. Un marché-mercerie de plus de deux cents commerçants non alimentaires occupe un secteur distinct du même site ; la fiche ne décrit que la halle et le carreau alimentaire.",
+    "site_web": "https://marchedemulhouse.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Canal%20Couvert%2C%2026%20Quai%20de%20la%20Cloche%2C%2068200%20Mulhouse",
+    "image_url": "/images/marchands/marche-du-canal-couvert-mulhouse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "coeur-paysan-mulhouse",
+    "nom": "Cœur Paysan Mulhouse",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.749795,
+    "lon": 7.35169,
+    "adresse": "98 Rue de Bâle, 68100 Mulhouse",
+    "horaires": "Du mardi au jeudi de 9h à 12h45 et de 14h45 à 19h, le vendredi de 9h à 19h sans interruption, le samedi de 9h à 14h, d'après le site du magasin et la carte des producteurs locaux de Mulhouse Alsace Agglomération. (Le magazine de l'agglomération, en avril 2025, annonçait une réouverture à 14h du mardi au jeudi.)",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes et charcuteries",
+      "Volailles",
+      "Fromages et produits laitiers",
+      "Épicerie",
+      "Miel",
+      "Vins et bières"
+    ],
+    "description": "Magasin de producteurs ouvert en 2023 rue de Bâle, repérable à la carotte géante en mosaïque dressée devant l'entrée. Plus de 75 fermes alsaciennes y vendent leurs produits — maraîchers, arboriculteurs, éleveurs, apiculteur, viticulteurs, brasseur — et en fixent elles-mêmes le prix ; des producteurs se relaient au comptoir.",
+    "telephone": "03 89 60 54 81",
+    "site_web": "https://mulhouse.coeur-paysan.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C5%93ur%20Paysan%2C%2098%20Rue%20de%20B%C3%A2le%2C%2068100%20Mulhouse",
+    "image_url": "/images/marchands/coeur-paysan-mulhouse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-rhenamap-mulhouse",
+    "nom": "Rhénamap – distribution de Mulhouse",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.741975,
+    "lon": 7.31385,
+    "adresse": "Parking de l'Église protestante évangélique, 61 Rue de Brunstatt, 68200 Mulhouse",
+    "horaires": "Distribution le jeudi de 18h45 à 19h45. Paniers réservés aux adhérents, par contrat avec chaque producteur : les légumes et le pain sont livrés chaque semaine, les autres producteurs tous les quinze jours, une fois par mois ou quelques fois par an, selon le calendrier publié par le réseau.",
+    "produits": [
+      "Légumes de saison",
+      "Pain",
+      "Fruits",
+      "Produits laitiers de vache et de brebis",
+      "Viande de porc, agneau et poulets",
+      "Champignons",
+      "Farine, légumineuses et huiles",
+      "Miel, bière et vin"
+    ],
+    "description": "Point de distribution mulhousien de Rhénamap, le réseau des AMAP du sud de l'Alsace. Une douzaine de producteurs et d'artisans du réseau y remettent les contrats le jeudi soir, sur le parking d'une église de la rue de Brunstatt ; le réseau distribuait auparavant sur le site DMC.",
+    "site_web": "https://www.rhenamap.org/mulhouse/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=61%20Rue%20de%20Brunstatt%2C%2068200%20Mulhouse",
+    "image_url": "/images/marchands/amap-rhenamap-mulhouse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-chateau-pfastatt",
+    "nom": "La Ferme du Château de Pfastatt",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "environnement"
+    ],
+    "lat": 47.761376,
+    "lon": 7.300727,
+    "adresse": "2 Rue de la Ferme, 68120 Pfastatt",
+    "horaires": "Magasin ouvert du lundi au vendredi de 8h30 à 19h et le samedi de 8h30 à 18h ; la boucherie est fermée le lundi, d'après le site de la ferme.",
+    "produits": [
+      "Légumes bio de la ferme (salades, tomates, courges, pommes de terre, poireaux…)",
+      "Fruits du verger",
+      "Boucherie et charcuterie d'éleveurs alsaciens",
+      "Fromages de la région",
+      "Miel des ruches de la ferme",
+      "Épicerie et vrac"
+    ],
+    "description": "Magasin fermier d'une ancienne ferme de Pfastatt, entourée des serres, des sept hectares de maraîchage et du verger de 1 200 arbres de l'exploitation, certifiée en agriculture biologique. Le magasin vend ces récoltes et les produits de plus de soixante-dix producteurs partenaires, qui ne sont pas tous biologiques ; il est lui-même certifié par Certipaq comme détaillant bio. Une boulangerie-restaurant et une mini-ferme partagent le site.",
+    "telephone": "03 89 34 48 85",
+    "site_web": "https://fermeduchateaupfastatt.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20du%20Ch%C3%A2teau%2C%202%20Rue%20de%20la%20Ferme%2C%2068120%20Pfastatt",
+    "image_url": "/images/marchands/ferme-du-chateau-pfastatt.jpg"
+  },
+  {
+    "slug": "fraicheur-paysanne-de-lill-ruelisheim",
+    "nom": "Fraîcheur Paysanne de l'Ill",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "environnement"
+    ],
+    "lat": 47.830515,
+    "lon": 7.34115,
+    "adresse": "52 Route de Colmar, 68270 Ruelisheim",
+    "horaires": "Le jeudi et le vendredi de 9h à 12h et de 14h à 18h30, le samedi de 9h à 12h30, d'après le site du magasin et la carte des producteurs locaux de Mulhouse Alsace Agglomération. (Le magazine de l'agglomération annonçait en novembre 2024 une fermeture à 18h le jeudi et le vendredi.)",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Fromages et produits laitiers de vache, chèvre et brebis",
+      "Viandes de porc, veau, bœuf et agneau",
+      "Volailles et lapins",
+      "Œufs",
+      "Truites et escargots",
+      "Miel, farines et tisanes"
+    ],
+    "description": "Magasin de producteurs fermiers créé en 2016 à Ruelisheim, à neuf kilomètres au nord de Mulhouse, par neuf exploitations associées, sur le site de la ferme maraîchère et arboricole qui en a eu l'idée. Une vingtaine de fermes de la région y vendent leurs produits et en fixent le prix ; le groupement qui tient la boutique est certifié par Certipaq comme détaillant bio, sans que tout l'assortiment le soit. Ouvert trois jours par semaine pour laisser les associés à leurs fermes.",
+    "telephone": "03 89 52 97 59",
+    "site_web": "https://www.fraicheur-paysanne.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fra%C3%AEcheur%20Paysanne%20de%20l'Ill%2C%2052%20Route%20de%20Colmar%2C%2068270%20Ruelisheim",
+    "image_url": "/images/marchands/fraicheur-paysanne-de-lill-ruelisheim.jpg",
+    "a_confirmer": true
   }
 ]

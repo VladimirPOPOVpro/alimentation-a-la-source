@@ -1472,9 +1472,29 @@ prioritaires en cas de conflit.
      critère, et ce n'est pas lui qui l'a arrêté (voir les pistes de Nîmes). Sans décompte publié,
      la règle 9 continue de s'appliquer telle quelle.
 
+120. **Quand l'autorité découpe elle-même un grand marché en secteurs réglementés à part, la règle
+     119 se compte secteur par secteur, et la fiche ne décrit que les secteurs alimentaires.** Le
+     marché du Canal Couvert, à Mulhouse, annonce plus de trois cents commerçants, dont « plus de
+     200 » pour sa mercerie : lu d'un bloc, il tomberait sous la règle 119. Mais le règlement
+     municipal des marchés en fait trois objets distincts, chacun sous son propre titre — le
+     « marché légumes » (titre VIII), où les producteurs doivent présenter un relevé de parcelles et
+     une attestation de la Mutualité sociale agricole, la « halle » (titre IX), « prioritairement
+     affectée au commerce de produits alimentaires », et le « marché-mercerie » (titre X) — avec des
+     heures d'ouverture et des règles de placement propres à chacun ; l'association des commerçants
+     présente de son côté « 3 pôles ». Le visiteur qui vient acheter des légumes ou du fromage n'est
+     pas envoyé dans un marché textile : il entre dans une halle et sur un carreau qui ne vendent que
+     de l'alimentaire. **Critère** : quand un texte de l'autorité gestionnaire — règlement, arrêté,
+     plan — donne à des secteurs du même site un régime propre (titre, horaires ou conditions
+     d'accès distincts), le décompte de la règle 119 porte sur les secteurs que la fiche décrit ; la
+     fiche ne décrit que les secteurs alimentaires, `produits` ne reprend que leurs métiers, et la
+     description dit en toutes lettres qu'un secteur non alimentaire occupe le même site. Un marché
+     dont les étals alimentaires et textiles se mêlent sur les mêmes allées, comme au Chemin-Bas
+     d'Avignon, reste sous la règle 119 telle quelle : c'est l'autorité qui trace la frontière,
+     jamais la passe.
+
 ## Marchands à confirmer
 
-393 fiches sur 426 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+397 fiches sur 431 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1890,8 +1910,12 @@ prioritaires en cas de conflit.
 - **Le Mas des Agriculteurs** (Nîmes) (magasin de producteurs, catégorie `producteur` au titre des règles 8 et 105 : la page de la Chambre d'agriculture du Gard écrit qu'il « commercialise la production de ses 180 actionnaires, agriculteurs et coopératives gardois ». **Règle 6** : l'opérateur que le registre de l'Agence Bio nomme « MAISON DES PRODUCTEURS - LE MAS DES AGRICULTEURS » est une société active au registre des entreprises, NAF 47.29Z, un établissement ouvert, domiciliée au Mas de l'Agriculture, 1120 route de Saint-Gilles ; certificat Ecocert **engagé depuis avril 2019**, activité « Détaillant », fruits et légumes et boulangerie en bio, avec la mention de mixité — d'où le pilier `environnement` (règles 39 et 43) et la phrase de la description qui dit que tout n'est pas bio. `venteParticuliers` est à faux dans ce même enregistrement, que le magasin de 960 m² contredit : règle 40. **Horaires** : le site du magasin écrit « du lundi au samedi de 8h30 à 19h et le dimanche de 9h à 12h30 » ; la Chambre d'agriculture donne un régime d'été et d'hiver, cité dans le champ — l'intéressé l'emporte, règle 104. **Point, par la règle 37** : l'adresse de visite est le 581 rue Michel Debré, numéro que la Base Adresse Nationale ignore ; le magasin ne publie aucune coordonnée (sa carte intégrée ne cherche que l'adresse), le point du registre et celui du certificat désignent le siège sur la route de Saint-Gilles, autre voie (règles 24 et 30), et le lien « Localiser » de la Chambre pointe sur sa propre adresse de la même route. La Base connaît le 270, le 400 et le 570 de la rue Michel Debré, espacés à peu près au mètre ; le 581 s'extrapole à 11 unités du 570 et son contrôle inverse rend « 570 Rue Michel Debré » à 13 m. Les prénoms et noms qui figurent dans les mentions légales du site ne sont pas repris, ni l'adresse électronique. Photo : l'intérieur du magasin publié par son site — mur d'accueil, verrière et « coin du bio » —, sans personne, 900 × 1200)
 - **Maison de la Brandade La Nîmoise** (Nîmes) (brandade de morue fabriquée dans l'atelier de la maison, 115 rue Guy Arnaud, fermé au public, et vendue dans sa boutique du 7 rue de la Madeleine : la fiche va au point de vente, règle 20, catégorie `producteur` au titre des règles 4 et 73 — la morue ne se pêche pas dans le Gard, la transformation et la vente directe se font à Nîmes. **Registre** : la société de fabrication est active et son établissement de la rue Guy Arnaud ouvert, NAF 10.85Z ; celui de la rue Émile Jamais, que porte encore une carte de visite publiée sur le site, est **fermé** — l'adresse de l'atelier est donc celle du site ; la boutique est exploitée par une seconde société, active au 7 rue de la Madeleine sous l'enseigne « La Maison de la Brandade », NAF 47.11B, règle 7. **Pilier `environnement` refusé** : le certificat Ecocert de la société de fabrication est engagé, mais la boutique en ligne décrit la seule recette concernée comme certifiée avec « 47 % de la composition de la recette » en ingrédients biologiques — ce n'est pas un produit biologique, et les trois autres recettes ne sont pas certifiées ; la description le dit, règle 39. `produits` ne reprend que les recettes vendues sous leur nom dans la boutique en ligne. Le site nomme longuement la famille qui tient la maison depuis plusieurs générations : aucun de ces noms n'est repris. **Photo thématique, règle 1** : la façade photographiée par la maison porte, peint sur son panneau de droite, le nom de l'artisan, et deux personnes se tiennent dans l'embrasure de la porte ; aucun recadrage au-dessus de 600 px n'écarte à la fois le nom (règle 75) et les silhouettes, et la seconde photographie de devanture est un portrait. La fiche montre donc trois bocaux de la maison, photographie du site **recadrée** pour retirer la pastille « x12 » d'un lot en vente, 960 × 480 ; elle ne prétend pas montrer la boutique. Point BAN du numéro, à 93 m de celui des Halles)
 - **El Patio Bio** (Caissargues) (groupement agricole d'exploitation en commun, actif au registre, NAF 01.13Z ; certificat Ecocert **engagé depuis mars 1999**, productions déclarées en 2026 — légumes frais, légumes à feuilles, aromatiques, fraises, figues, agrumes — et `venteParticuliers` à vrai. **Cinquième point de la passe, au titre de la règle 52** : Caissargues appartient à la communauté d'agglomération de Nîmes Métropole, comme Nîmes, et le point est à **4,2 km** du barycentre des quatre fiches nîmoises. **Sans magasin, règle 84** : la page « Formule de vente » du site décrit la commande en ligne, le retrait à l'exploitation le mardi et le jeudi à partir de 16h, et le retrait au marché de Nîmes le vendredi matin ; le champ `horaires` commence par le dire. Deux absences annoncées en tête du site, du 15 au 20 août et au marché de Montpellier jusqu'au 2 septembre 2026, sont passées. **Point, par la règle 118** : numéro « 5180 » des deux registres hors de la plage que la Base connaît sur la voie, donc non inscrit ; marqueur de la page « Nous trouver » retenu. Le lieu-dit que le site ajoute à l'adresse n'est pas repris, et le téléphone est celui que le groupement publie pour ses commandes. Photo : les planches de culture et le mas au fond, publiées dans la galerie du site, sans personne, 1920 px réduits à 1280 ; les autres photographies de la galerie montrent des mains au travail ou un visage, et le fichier d'une photographie de cagette porte un prénom : non utilisées)
+- **Marché du Canal Couvert** (Mulhouse) (le grand marché de la ville, 26 quai de la Cloche, catégorie `marche` et piliers des halles déjà publiées. **Règle 120, écrite pour lui** : plus de 200 des quelque 300 commerçants sont ceux de la mercerie, mais le règlement municipal des marchés de 2012, toujours publié par la Ville, fait de la halle alimentaire, du carreau des légumes et du marché-mercerie trois secteurs à titres, horaires et règles de placement distincts ; la fiche ne décrit que les deux premiers, et le dit. `produits` reprend les rubriques de la page « Le Marché » de l'association des commerçants pour la halle et le carreau, et l'article 36 du règlement. **Horaires, règle 22** : la Ville, qui gère et réglemente le marché, écrit « mardi, jeudi et samedi de 7h à 17h » sur sa page des marchés ; l'association des commerçants et la carte des producteurs locaux de Mulhouse Alsace Agglomération écrivent 6h, le règlement de 2012 5h pour les légumes et 5h30 ou 6h30 pour la halle. La valeur de la Ville est publiée, les autres sont citées dans `horaires`. **Point** : numéro 26 du quai de la Cloche à la Base Adresse Nationale (score 0,971) ; le point de la carte de l'agglomération tombe à 16 m. **Photo** : reportage de l'association sur son propre site (série « Marche-Mulhouse »), étal de légumes sous tentes ; l'enseigne d'un restaurant du 5 quai de la Cloche, visible à l'arrière-plan et vérifiée au registre, situe la vue sur le quai. Recadrée sur le tiers inférieur, 1 000 × 520, pour écarter les trois vendeurs et clients dont le visage était visible. La photographie que la Ville publie de la halle n'a pas été retenue : visages au premier plan et deux enseignes d'étal bâties sur un nom de famille, règle 75)
+- **Cœur Paysan Mulhouse** (Mulhouse) (magasin de producteurs, catégorie `producteur` au titre de la règle 105. **Règle 6** : la société CP Mulhouse, NAF 47.11B, a un établissement ouvert au 98 rue de Bâle ; aucun certificat biologique à ce nom au registre de l'Agence Bio, d'où l'absence du pilier `environnement`. **Horaires** : le site du magasin et la carte de l'agglomération, mise à jour en novembre 2025, s'accordent sur une réouverture à 14h45 du mardi au jeudi ; l'article du magazine de l'agglomération d'avril 2025 écrit 14h — règle 104, l'intéressé l'emporte, l'écart est cité. **Point** : numéro 98 à la Base (0,979) ; le point du registre, à 47 m, se retourne à 13 m sur une adresse du même îlot. **Photo, règle 72** : le site du magasin mulhousien réemploie les photographies de 2020 du magasin de Colmar — son `og:image` s'appelle `magasin-colmar.jpg` —, antérieures à l'ouverture de 2023 ; non utilisées. Retenue : la façade et la carotte géante, photographiées par le magazine de l'agglomération en mars 2025, sans personne, recadrée au-dessus des voitures pour écarter les plaques d'immatriculation, 1 920 px réduits à 1 280. Le magazine nomme l'artiste de la mosaïque et le président du magasin : aucun des deux noms n'est repris)
+- **Rhénamap – distribution de Mulhouse** (Mulhouse) (AMAP, catégorie et piliers des AMAP déjà publiées ; pas d'`environnement`, les producteurs du point n'étant pas tous certifiés et le réseau ne publiant aucun engagement écrit valant pour tous, règle 60. **Lieu** : la page Mulhouse du réseau et son tableau de distribution de décembre 2025 placent la distribution au 61 rue de Brunstatt, le jeudi de 18h45 à 19h45 ; l'annuaire indépendant Avenir Bio et la carte de l'agglomération, mise à jour en juin 2024, donnent la même adresse et le même créneau. Un article de 2018 du média de la Ville plaçait la distribution sur le site DMC : c'est l'ancien lieu, règle 58, et la description le dit. **Produits** : lus dans le tableau de distribution, catégories seulement ; le réseau nomme un référent et des producteurs, aucun nom n'est repris. **Photo** : la page Mulhouse du réseau porte deux photographies du lieu, attachées à cette seule page — les pages de Riedisheim, Rixheim, Brunstatt et Wittenheim ont chacune les leurs ; toutes deux montrent la distribution en cours, visages compris. Recadrage de la règle 46 sur le tiers supérieur de l'une, 1 024 × 415 : la salle, les arbres et le haut de la camionnette d'une brasserie du réseau, sans personne ni plaque)
+- **Fraîcheur Paysanne de l'Ill** (Ruelisheim) (magasin de producteurs, catégorie `producteur` au titre des règles 8 et 105. **Élargissement à l'agglomération, règle 96**, voir les pistes de Mulhouse : Ruelisheim appartient à Mulhouse Alsace Agglomération et le magasin est à **9,3 km** de la place de la Réunion. **Règle 6** : le groupement d'intérêt économique qui tient la boutique a un établissement ouvert au 52 route de Colmar. **Pilier `environnement`** : ce groupement est lui-même certifié par Certipaq, certificat valide du 21 octobre 2025 au 31 mars 2027, activité « commerce de détail », productions déclarées — viandes, volailles, produits laitiers, œufs, fruits et légumes — qui correspondent à ce que la fiche annonce, règle 39 ; la description dit que tout l'assortiment n'est pas biologique. **Horaires** : le site du magasin et la carte de l'agglomération écrivent 18h30 le jeudi et le vendredi, le magazine de l'agglomération de novembre 2024 écrit 18h — règle 104, écart cité. **Adresse** : le pied de page du site écrit « rue de Colmar », le registre, la Base et le magazine « route de Colmar » ; la Base rend le numéro 52 à 0,950 et le point du registre tombe au même endroit. Téléphone : celui que le magazine et la carte de l'agglomération publient pour le magasin. **Photo** : l'image d'en-tête de l'article du magazine de l'agglomération, un cageot de légumes du magasin, sans personne ni étiquette, 1 920 px réduits à 1 280. Le magazine nomme le gérant de la ferme fondatrice et le photographie : ni le nom ni la photographie ne sont repris)
 
-Les 426 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 431 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1919,6 +1943,110 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Mulhouse
+
+Département visé : le **Haut-Rhin (68)**, déficit **4,7617** au titre de la règle 41 avec 426 fiches
+publiées et **aucune** dans le département, le plus fort des départements éligibles — La Réunion
+vient devant avec 5,4965 mais reste écartée par la règle 93. Région 44, contre la région 76 à la
+passe précédente dans le Gard : la réserve de la règle 41.c est respectée. Les cinq fiches ramènent
+le déficit du 68 à **-0,1824**. Commune retenue : **Mulhouse**, 104 978 habitants, la plus peuplée du
+département — Colmar, deuxième, en compte 66 970. Trois fiches sont dans Mulhouse (Canal Couvert,
+Cœur Paysan, Rhénamap), à moins de deux kilomètres de la place de la Réunion ; les deux autres sont
+dans Mulhouse Alsace Agglomération au titre de la **règle 96** : la Ferme du Château à Pfastatt, à
+**3,3 km**, et Fraîcheur Paysanne de l'Ill à Ruelisheim, à **9,3 km**.
+
+**Pourquoi la règle 96 et pas la règle 52.** Mulhouse rend les faits de six marchés — la Ville et l'agglomération en
+publient les jours et les lieux — mais ni photographie ni composition des étals pour aucun des marchés
+de quartier ; ses autres commerces tombent sous les règles 6 ou 86 (voir ci-dessous). Trois points
+solides, et non quatre : la règle 52 ne s'appliquait pas, et descendre à Colmar aurait abandonné les
+trois fiches mulhousiennes. La règle 96 autorise l'élargissement à l'intercommunalité, deux fiches au
+moins dans la commune, toutes à moins d'une quinzaine de kilomètres : elle est satisfaite.
+
+**La source qui a fait la passe** : la carte « Producteurs locaux et circuits courts » de Mulhouse
+Alsace Agglomération, que la Ville renvoie depuis sa page des commerces. Elle est servie par un
+prestataire cartographique dont l'interface publique rend chaque point de la carte avec ses
+horaires et sa date de mise à jour. Elle a servi de seconde source pour les horaires et les lieux,
+jamais de source unique. Les offices de tourisme de Mulhouse et d'Alsace, le site de la Ville, le
+magazine de l'agglomération, le média de la Ville et le site des commerçants du marché n'interdisent
+aucun robot dans leur `robots.txt`.
+
+**La Ferme du Château de Pfastatt** (publiée, sans `a_confirmer`) — **règle 6** : la SARL qui tient
+le magasin a un établissement ouvert au 2 rue de la Ferme, NAF 47.11B. **Pilier `environnement`** :
+deux certificats Certipaq consultables et valides à cette adresse, celui de la SARL comme détaillant
+(du 23 juin 2026 au 31 mars 2028) et celui de la société agricole qui cultive les parcelles autour de
+la ferme (du 1er mai 2026 au 31 mars 2028), dont les productions déclarées — légumes de plein champ,
+maïs doux, pommes, abricots, cerises, prunes, fraises — sont celles du magasin, règle 39. **Règle 29**
+: la ferme écrit elle-même revendre les produits de plus de soixante-dix producteurs partenaires, et
+la description le dit. La boulangerie-restaurant du site est tenue par une chaîne régionale de
+boulangeries, immatriculée à part : elle n'entre pas dans la fiche. **Point** : numéro 2 à la Base (0,957), le point
+du registre se retourne au mètre près sur la même adresse. **Photo** : l'intérieur du magasin, déposé
+sur le site de la ferme en septembre 2023, sans visage identifiable, 2 000 px réduits à 1 280.
+Le site nomme par leur prénom les maraîchers de l'exploitation, et la raison sociale de la société
+agricole porte un nom de famille : ni l'un ni l'autre n'est repris. La libre cueillette de fraises
+et de maïs doux qu'annonce la carte de l'agglomération n'est pas mentionnée sur le site de la ferme :
+elle n'est pas publiée.
+
+**Marchés de la place de la Paix, de la place de la Réunion et de Bourtzwiller** — jours et lieux
+publiés par la Ville et par la carte de l'agglomération, mais aucune source ne dit ce qui s'y vend,
+et aucune photographie de ces marchés n'a été trouvée. Les horaires divergent aussi : place de la Paix,
+la Ville et l'agglomération écrivent « samedi matin de 7h à 13h », le règlement municipal de 2012 et
+l'association des commerçants du Canal Couvert « mardi, jeudi, samedi de 5h à 14h » ; place de la
+Réunion, la Ville écrit du mardi au samedi de 7h à 18h, l'association de 7h à 19h, le règlement
+mardi, vendredi et samedi de 7h à 19h ; Bourtzwiller, vendredi de 7h à 13h pour la Ville, de 5h à 15h
+pour l'association, de 5h à 14h pour le règlement. Les règles 58 et 22 donneraient la page de la
+Ville. Déblocage : une photographie sans visage et une liste d'étals ou de métiers publiée par une
+source rattachée au marché. **Marchés de la place Vauban et du quartier Drouot** : « 1 à 2 stands »
+selon la Ville et l'agglomération — pas une zone de marché, non instruits.
+
+**Biocoop du Rebberg** (36 avenue de Riedisheim) et **Biocoop Engelmann** (8 bis rue du Moulin) —
+deux magasins de la même société, active au registre, certificat engagé au registre de l'Agence
+Bio. **Règle 86** : la page du premier présente trois coopératives de Bretagne, du Centre-Val de
+Loire et de Mayenne, et sa rubrique « Producteurs locaux » est vide (« Aucun contenu disponible pour
+le moment ») ; aucun producteur de la région n'est nommé. Déblocage : une liste de producteurs
+alsaciens publiée par le magasin.
+
+**Épicerie de produits alsaciens de la rue Henriette** — décrite par le magazine de l'agglomération
+en mai 2022 comme ne vendant que des produits de fermes et d'artisans alsaciens. **Règle 6** : aucune
+entité n'est immatriculée sous cette enseigne, ni à cette adresse avec un code d'activité de
+commerce alimentaire ; l'article a plus de quatre ans. Déblocage : un établissement actif
+identifiable au registre.
+
+**Le Panier Saveurs et Fraîcheur Bio** — paniers composés par une entreprise colmarienne, avec des
+dépôts à Mulhouse que la carte de l'agglomération n'a pas mis à jour depuis mai 2021 ; son site ne
+nomme aucun producteur (« bio, et au maximum local »). Règles 60 et 86 : non publié.
+
+**Stand d'une association de fruits sauvages au Canal Couvert** — confitures de baies sauvages, un
+vendredi par mois selon la carte de l'agglomération ; stand intérieur à un marché déjà publié. Non
+instruit.
+
+**Marché paysan des Sheds, à Kingersheim** (agglomération) — marché entièrement biologique du
+mercredi, 17h-19h. La page de contact de l'association annonce la **liquidation judiciaire du
+20 janvier 2025** et la fermeture de son épicerie et de son restaurant ; la page du marché, non
+datée, nomme les exploitants, et la page d'accueil n'annonce rien de plus récent qu'une assemblée
+générale le 1er mars 2025. Aucune source postérieure ne confirme que le marché se tient. Déblocage : une page datée d'après la
+liquidation.
+
+**Laissés de côté faute de place dans une passe de cinq** (agglomération, non instruits jusqu'au
+bout) : le marché couvert d'Illzach le vendredi matin, le marché de Riedisheim — une soixantaine de
+commerçants dont des marchands de vêtements, règle 119 à appliquer si un décompte est publié —, et
+la boutique d'un confiturier artisanal de Rixheim.
+
+**Écartés pour doute sur une personne** (règle absolue de `MODERATION.md`, sans nom) : Mulhouse,
+trois exploitations en entreprise individuelle inscrites au registre de l'Agence Bio — maraîchage,
+élevage — dont l'adresse déclarée peut être un domicile, l'une ne publiant qu'un portable et une
+messagerie personnels ; Mulhouse, un rucher qui vend sur commande à une adresse résidentielle ;
+Mulhouse et Illzach, deux points de retrait d'un même réseau de paniers dont le contact publié est
+le portable et la messagerie nominative d'un particulier ; agglomération, une dizaine de fermes
+relevées sur la carte de l'agglomération dont l'enseigne est bâtie sur un nom de famille
+(Zimmersheim, Rixheim, Reiningue, Heimsbrunn, Battenheim, Lutterbach, Brunstatt-Didenheim). Ces pistes ne se rouvrent pas.
+
+**Écartés par `MODERATION.md` ou par le registre.** Le registre de l'Agence Bio du Haut-Rhin compte
+1 339 opérateurs, dont 34 inscrits à une adresse mulhousienne : supermarchés généralistes certifiés
+(Carrefour, Carrefour City, Super U, Monoprix, Lidl, Leclerc), grossistes et restaurants, et de
+nombreux certificats **arrêtés** — dont ceux de deux commerces bio de la rue des Maréchaux
+et d'une épicerie en vrac, non suivis. Un comptoir de produits grecs du Canal Couvert est
+hors du circuit court.
 
 ### Pistes non publiées à Nîmes
 
