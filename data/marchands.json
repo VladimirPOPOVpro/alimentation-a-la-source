@@ -11417,5 +11417,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fra%C3%AEcheur%20Paysanne%20de%20l'Ill%2C%2052%20Route%20de%20Colmar%2C%2068270%20Ruelisheim",
     "image_url": "/images/marchands/fraicheur-paysanne-de-lill-ruelisheim.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-halles-la-roche-sur-yon",
+    "nom": "Marché des Halles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.670198,
+    "lon": -1.423647,
+    "adresse": "Place du Marché, 85000 La Roche-sur-Yon",
+    "horaires": "Du mardi au dimanche sauf le mercredi, de 8h à 13h, et le samedi de 7h à 13h, d'après la page des marchés de la Ville de La Roche-sur-Yon, qui gère le marché. Un marché extérieur s'ajoute le jeudi et le samedi, d'après l'office de tourisme. (L'office de tourisme annonce une ouverture à 8h le samedi.)",
+    "produits": [
+      "Poissons, huîtres et produits de la mer",
+      "Fruits et légumes de primeurs et de petits producteurs",
+      "Boucherie, charcuterie, boucherie chevaline et traiteurs",
+      "Boulangerie et pâtisserie",
+      "Fromages et produits laitiers",
+      "Agneaux et volailles fermiers",
+      "Escargots et miel",
+      "Épicerie fine, olives et fruits secs"
+    ],
+    "description": "Le marché couvert du centre-ville, que la Ville présente comme la plus grande surface de vente de produits frais de Vendée et qui porte le label « Qualité marché » depuis 2008. Poissonniers, ostréiculteurs, bouchers, fromagers et primeurs y côtoient des producteurs fermiers — légumes, fromages, agneaux et volailles —, une hélicicultrice et un apiculteur ; des étals d'habillement s'installent sur le parvis.",
+    "site_web": "https://larochesuryon.fr/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Halles%2C%20Place%20du%20March%C3%A9%2C%2085000%20La%20Roche-sur-Yon",
+    "image_url": "/images/marchands/marche-des-halles-la-roche-sur-yon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-jaulnieres-la-roche-sur-yon",
+    "nom": "Marché des Jaulnières",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.654128,
+    "lon": -1.42694,
+    "adresse": "Place Viollet-le-Duc, 85000 La Roche-sur-Yon",
+    "horaires": "Le dimanche de 8h à 13h, d'après la page des marchés de la Ville de La Roche-sur-Yon et l'office de tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Plants et légumes de saison",
+      "Huîtres",
+      "Rôtisserie",
+      "Crèmerie",
+      "Cuisine orientale"
+    ],
+    "description": "Petit marché couvert du dimanche matin, place Viollet-le-Duc, dans le quartier des Jaulnières au sud du centre-ville ; ouvert en 1985, il a eu quarante ans à la fin de 2025. La Ville en décrit les étals par métier — fruits et légumes, huîtres, rôtisserie, crèmerie, cuisine orientale, plants — sans en publier la composition détaillée.",
+    "site_web": "https://larochesuryon.fr/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Viollet-le-Duc%2C%2085000%20La%20Roche-sur-Yon",
+    "image_url": "/images/marchands/marche-des-jaulnieres-la-roche-sur-yon.jpg"
+  },
+  {
+    "slug": "laitiva-la-roche-sur-yon",
+    "nom": "Laitiva",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.670095,
+    "lon": -1.499928,
+    "adresse": "243 Route des Fontenelles, 85000 La Roche-sur-Yon",
+    "horaires": "Boutique ouverte le mardi de 17h à 19h, le vendredi de 15h à 19h et le samedi de 10h à 12h et de 15h à 17h, d'après le site de la laiterie. En été, le site annonce le mercredi de 10h à 12h à la place du mardi, sans dater la bascule : mieux vaut vérifier sur le site avant de venir un mardi ou un mercredi.",
+    "produits": [
+      "Lait bio pasteurisé entier, demi-écrémé et écrémé",
+      "Beurre doux et demi-sel",
+      "Fromages frais et fromages blancs",
+      "Faisselle et crème fraîche",
+      "Desserts lactés et œufs au lait",
+      "Épicerie, viandes, fromages et légumes de producteurs partenaires"
+    ],
+    "description": "Laiterie artisanale ouverte en 2021 dans une ancienne minoterie des Fontenelles, à l'ouest de La Roche-sur-Yon, qui transforme sur place du lait de vache bio en laits, beurres, fromages frais et desserts, vendus en contenants consignés. La boutique propose aussi les produits d'une trentaine de producteurs et d'artisans partenaires, pour la plupart vendéens ; l'entreprise est engagée chez Ecocert.",
+    "site_web": "https://laitiva.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Laitiva%2C%20243%20Route%20des%20Fontenelles%2C%2085000%20La%20Roche-sur-Yon",
+    "image_url": "/images/marchands/laitiva-la-roche-sur-yon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "pain-et-paturette-la-roche-sur-yon",
+    "nom": "Pain et Pâturette",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.660575,
+    "lon": -1.361125,
+    "adresse": "La Durandière, 120 Route de la Trézanne, 85000 La Roche-sur-Yon",
+    "horaires": "Vente à la ferme le mardi de 17h30 à 18h30, en libre-service, et le vendredi de 16h30 à 17h45, d'après le site de la ferme, qui prend aussi les commandes en ligne. Les pains se trouvent également au magasin de la ferme du lycée Nature le mardi et le vendredi, et à la distribution d'AMAP'Yon le vendredi soir.",
+    "produits": [
+      "Pains au levain cuits au feu de bois",
+      "Brioches",
+      "Lait cru",
+      "Farine",
+      "Colis de viande de bœuf"
+    ],
+    "description": "Ferme laitière en agriculture biologique de la Durandière, à l'est de La Roche-sur-Yon, qui cultive son blé et son seigle, les transforme en farine et en fait des pains au levain naturel cuits au feu de bois. Les bovins sont nés et élevés sur la ferme ; l'exploitation est engagée chez Ecocert pour son lait, ses farines et son pain.",
+    "site_web": "https://www.painetpaturette.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pain%20et%20P%C3%A2turette%2C%20120%20Route%20de%20la%20Tr%C3%A9zanne%2C%2085000%20La%20Roche-sur-Yon",
+    "image_url": "/images/marchands/pain-et-paturette-la-roche-sur-yon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amapyon-la-roche-sur-yon",
+    "nom": "AMAP'Yon",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.665447,
+    "lon": -1.455574,
+    "adresse": "Maison de quartier de Saint-André-d'Ornay, 55 Chemin Guy Bourrieau, 85000 La Roche-sur-Yon",
+    "horaires": "Distribution le vendredi de 18h30 à 19h30, au foyer des jeunes de la maison de quartier. Paniers réservés aux adhérents, par contrat signé directement avec chaque producteur (adhésion annuelle de 10 €) ; l'AMAP invite à venir voir une distribution sans engagement avant d'adhérer.",
+    "produits": [
+      "Légumes de saison",
+      "Pain et brioches",
+      "Produits laitiers de vache et fromage de chèvre",
+      "Œufs et poulets",
+      "Viandes d'agneau, de porc, de veau et de bœuf",
+      "Pâtes, farine et cresson",
+      "Miel, sel, tisanes et aromatiques",
+      "Huîtres, bière et chocolat"
+    ],
+    "description": "AMAP créée en 2010, qui réunit une vingtaine de producteurs et d'artisans, pour l'essentiel vendéens, autour d'une distribution hebdomadaire dans le quartier de Saint-André-d'Ornay, près de la route des Sables. Les contrats sont passés directement avec chaque producteur ; l'association organise aussi des journées et des chantiers à la ferme.",
+    "site_web": "https://amapyon.info/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=55%20Chemin%20Guy%20Bourrieau%2C%2085000%20La%20Roche-sur-Yon",
+    "image_url": "/images/marchands/amapyon-la-roche-sur-yon.jpg",
+    "a_confirmer": true
   }
 ]

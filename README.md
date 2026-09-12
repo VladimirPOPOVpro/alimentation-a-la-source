@@ -1494,7 +1494,7 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-397 fiches sur 431 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+401 fiches sur 436 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1914,8 +1914,12 @@ prioritaires en cas de conflit.
 - **Cœur Paysan Mulhouse** (Mulhouse) (magasin de producteurs, catégorie `producteur` au titre de la règle 105. **Règle 6** : la société CP Mulhouse, NAF 47.11B, a un établissement ouvert au 98 rue de Bâle ; aucun certificat biologique à ce nom au registre de l'Agence Bio, d'où l'absence du pilier `environnement`. **Horaires** : le site du magasin et la carte de l'agglomération, mise à jour en novembre 2025, s'accordent sur une réouverture à 14h45 du mardi au jeudi ; l'article du magazine de l'agglomération d'avril 2025 écrit 14h — règle 104, l'intéressé l'emporte, l'écart est cité. **Point** : numéro 98 à la Base (0,979) ; le point du registre, à 47 m, se retourne à 13 m sur une adresse du même îlot. **Photo, règle 72** : le site du magasin mulhousien réemploie les photographies de 2020 du magasin de Colmar — son `og:image` s'appelle `magasin-colmar.jpg` —, antérieures à l'ouverture de 2023 ; non utilisées. Retenue : la façade et la carotte géante, photographiées par le magazine de l'agglomération en mars 2025, sans personne, recadrée au-dessus des voitures pour écarter les plaques d'immatriculation, 1 920 px réduits à 1 280. Le magazine nomme l'artiste de la mosaïque et le président du magasin : aucun des deux noms n'est repris)
 - **Rhénamap – distribution de Mulhouse** (Mulhouse) (AMAP, catégorie et piliers des AMAP déjà publiées ; pas d'`environnement`, les producteurs du point n'étant pas tous certifiés et le réseau ne publiant aucun engagement écrit valant pour tous, règle 60. **Lieu** : la page Mulhouse du réseau et son tableau de distribution de décembre 2025 placent la distribution au 61 rue de Brunstatt, le jeudi de 18h45 à 19h45 ; l'annuaire indépendant Avenir Bio et la carte de l'agglomération, mise à jour en juin 2024, donnent la même adresse et le même créneau. Un article de 2018 du média de la Ville plaçait la distribution sur le site DMC : c'est l'ancien lieu, règle 58, et la description le dit. **Produits** : lus dans le tableau de distribution, catégories seulement ; le réseau nomme un référent et des producteurs, aucun nom n'est repris. **Photo** : la page Mulhouse du réseau porte deux photographies du lieu, attachées à cette seule page — les pages de Riedisheim, Rixheim, Brunstatt et Wittenheim ont chacune les leurs ; toutes deux montrent la distribution en cours, visages compris. Recadrage de la règle 46 sur le tiers supérieur de l'une, 1 024 × 415 : la salle, les arbres et le haut de la camionnette d'une brasserie du réseau, sans personne ni plaque)
 - **Fraîcheur Paysanne de l'Ill** (Ruelisheim) (magasin de producteurs, catégorie `producteur` au titre des règles 8 et 105. **Élargissement à l'agglomération, règle 96**, voir les pistes de Mulhouse : Ruelisheim appartient à Mulhouse Alsace Agglomération et le magasin est à **9,3 km** de la place de la Réunion. **Règle 6** : le groupement d'intérêt économique qui tient la boutique a un établissement ouvert au 52 route de Colmar. **Pilier `environnement`** : ce groupement est lui-même certifié par Certipaq, certificat valide du 21 octobre 2025 au 31 mars 2027, activité « commerce de détail », productions déclarées — viandes, volailles, produits laitiers, œufs, fruits et légumes — qui correspondent à ce que la fiche annonce, règle 39 ; la description dit que tout l'assortiment n'est pas biologique. **Horaires** : le site du magasin et la carte de l'agglomération écrivent 18h30 le jeudi et le vendredi, le magazine de l'agglomération de novembre 2024 écrit 18h — règle 104, écart cité. **Adresse** : le pied de page du site écrit « rue de Colmar », le registre, la Base et le magazine « route de Colmar » ; la Base rend le numéro 52 à 0,950 et le point du registre tombe au même endroit. Téléphone : celui que le magazine et la carte de l'agglomération publient pour le magasin. **Photo** : l'image d'en-tête de l'article du magazine de l'agglomération, un cageot de légumes du magasin, sans personne ni étiquette, 1 920 px réduits à 1 280. Le magazine nomme le gérant de la ferme fondatrice et le photographie : ni le nom ni la photographie ne sont repris)
+- **Marché des Halles** (La Roche-sur-Yon) (marché couvert de la Ville, place du Marché, catégorie `marche` et piliers des halles déjà publiées. **Horaires, règle 22** : la page des marchés de la Ville écrit « tous les jours, sauf le lundi et le mercredi, de 8 h à 13 h et le samedi de 7 h à 13 h » ; l'agenda de l'office de tourisme, repris à l'identique par Vendée Tourisme, donne les mêmes jours mais 8h le samedi. La valeur de la Ville est publiée, celle de l'office est citée ; le marché extérieur du jeudi et du samedi n'est annoncé que par l'office, et le champ le lui attribue. **Règle 119** : la Ville publie la composition par métier sans décompte — une vingtaine de rubriques, toutes alimentaires sauf les fleuristes et l'habillement du parvis — la règle 9 s'applique donc telle quelle ; `produits` regroupe ces rubriques, la description signale le parvis. Aucun commerçant n'est nommé par la Ville. **Point** : « Place du marché » à la Base Adresse Nationale (0,967), contrôle inverse à 0 m ; Vendée Tourisme publie pour la fiche un point à 18 m. Les fiches de l'office local, elles, donnent à tous les marchés de la commune le même point générique du centre-ville, non utilisé. **Photo** : la façade des halles depuis l'esplanade, photographie de la fiche Vendée Tourisme du marché, 6 000 px réduits à 1 280 ; deux passants lointains, non identifiables. Le nom du fichier porte le crédit d'un photographe, non repris)
+- **Laitiva** (La Roche-sur-Yon) (laiterie artisanale avec boutique, catégorie `producteur` au titre de la règle 73 : le lait est transformé et vendu sur place. **Règle 6** : la SARL, NAF 10.51D, est active, établissement ouvert aux Fontenelles. **Pilier `environnement`** : engagement Ecocert du 18 février 2021, jamais arrêté, productions déclarées — beurre, yaourts, fromages, lait et crème — qui correspondent à la fiche, règle 39. **Horaires** : le site affiche encore un bandeau des fêtes de fin d'année 2024 mais a été mis à jour en septembre 2025 ; il donne un horaire courant et un « horaire d'été » sans dates de bascule, les deux sont publiés et la fiche invite à vérifier. **Téléphone non inscrit** : le seul numéro est un portable, présenté en pied de page comme celui de la boutique mais imprimé, sur les cartes de visite photographiées par le site, sous le nom d'une personne — même traitement que les portables personnels non inscrits plus haut ; la fiche garde le site, qui porte un formulaire de commande. La page « À propos » présente la personne qui tient la laiterie et sa famille : rien n'en est repris, et la description s'en tient à « lait de vache bio » sans dire de quelle ferme il vient. **Point** : numéro 243 à la Base Adresse Nationale (0,962) ; le point du registre de l'Agence Bio tombe à 99 m sur la même voie. **Photo** : la porte de la boutique et sa signalétique, photographie du site, 768 × 1 024, sans personne ; les autres vues de la boutique montrent des personnes ou la carte de visite nominative, non utilisées)
+- **Pain et Pâturette** (La Roche-sur-Yon) (ferme laitière et boulangère, catégorie `ferme`. **Règle 6** : le GAEC qui l'exploite, NAF 01.41Z, est actif, un établissement ouvert au 120 route de la Trézanne ; l'enseigne n'est pas un patronyme. **Pilier `environnement`** : engagement Ecocert du 25 avril 2020, jamais arrêté, productions déclarées pour 2026 — lait de vache, farines, pain frais, céréales — qui correspondent à la fiche, règle 39. **Horaires et produits** : ceux du site de la ferme, qui présente aussi ses deux autres points de vente, repris dans le champ ; les six variétés de pain sont détaillées par la page du contrat pain d'AMAP'Yon. Téléphone non inscrit : le seul numéro est un portable, sur un site qui présente la ferme par les prénoms de ceux qui la tiennent. **Point** : numéro 120 à la Base Adresse Nationale (0,965) ; le point du registre des entreprises se retourne sur le « 96 route de la Trézanne » à 8 m, bonne voie, écart de 24, règle 27. Le registre de l'Agence Bio pose le lieu de vente « La Durandière » rue Louis-Lumière, **5,7 km** plus à l'ouest : c'est le lieu-dit géocodé au hasard sur la commune — la Base ne connaît aucune « Durandière » dans le 85000 —, écarté. **Photo** : les pains dans le four à bois, page « Pains et brioches » du site, 1 920 px réduits à 1 280, sans personne ; la photographie de la page d'accueil à la ferme montre des enfants, non utilisée)
+- **AMAP'Yon** (La Roche-sur-Yon) (AMAP, catégorie et piliers des AMAP déjà publiées ; pas d'`environnement`, les producteurs n'étant pas tous certifiés et l'association ne publiant aucun engagement valant pour tous, règle 60. **Existence et lieu** : le site de l'association publie le calendrier de distribution 2026-2027 et le bulletin d'adhésion 2026-2027 ; l'annuaire du réseau national des AMAP donne la même adresse, et les deux producteurs de cette passe citent l'AMAP parmi leurs points de vente, l'un avec le créneau du vendredi. Règle 6 sans objet pour une association de consommateurs. **Produits** : les rubriques de la page « Les producteurs – Contrats », catégories seulement ; le site nomme chaque producteur et chaque bénévole, aucun nom n'est repris. **Point** : numéro 55 du chemin Guy-Bourrieau à la Base Adresse Nationale (0,962). **Photo, règle 1** : la seule photographie du lieu, sur la page « Informations pratiques », montre une distribution en plein air avec une vingtaine de visages identifiables, enfants compris ; le seul recadrage sans visage ne garde qu'un pan de mur qu'aucune source ne permet d'attribuer à la maison de quartier. Retenue : la miche de pain que l'AMAP publie sur la page de son contrat pain, produit d'une ferme de la commune, 1 280 × 960 — illustration du panier, pas vue du lieu)
 
-Les 431 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 436 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1943,6 +1947,73 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à La Roche-sur-Yon
+
+Département visé : la **Vendée (85)**, déficit **4,4605** au titre de la règle 41 avec 431 fiches
+publiées et **aucune** dans le département. La Réunion (5,5611) reste écartée par la règle 93 ; la
+Meurthe-et-Moselle, deuxième avec 4,5769, est en **région 44**, celle du Haut-Rhin visé à la passe
+précédente : la réserve de la règle 41.c l'exclut. La Vendée est en région 52. Les cinq fiches
+ramènent le déficit du 85 à **-0,4877**. Commune retenue : **La Roche-sur-Yon**, 54 849 habitants,
+la plus peuplée du département — Les Sables-d'Olonne, deuxième, en compte 49 603. Les cinq fiches
+sont **dans la commune** : les Halles au centre, le marché des Jaulnières à 1,8 km au sud, AMAP'Yon
+à 2,5 km à l'ouest, Laitiva à 5,8 km à l'ouest et Pain et Pâturette à 4,9 km à l'est — la commune
+est vaste et agricole sur ses franges, aucune règle d'élargissement n'a servi.
+
+**Les sources qui ont fait la passe** : la page « Marchés » de la Ville, qui publie jours, heures,
+lieux et composition par métier de ses quatre marchés ; l'agenda de l'office de tourisme
+(`destination-larochesuryon.fr`) et celui de Vendée Tourisme, alimentés par la même base ; le
+registre de l'Agence Bio, qui compte **81** opérateurs à une adresse yonnaise ; les sites des
+commerces. Aucun de ces sites n'interdit de robot nommément dans son `robots.txt` ; la Ville n'en
+publie pas.
+
+**Le marché des Jaulnières** (publié, sans `a_confirmer`) — jour, heures et lieu identiques sur la
+page de la Ville et à l'office de tourisme ; étals par métier d'après la Ville, la règle 103 limite
+`produits` à ces six rubriques. **Point** : centre de la place Viollet-le-Duc à la Base Adresse
+Nationale (0,967), contrôle inverse à 10 m du numéro 12 de la place. L'année d'ouverture se déduit de
+l'article de la Ville d'octobre 2025, qui situe les quarante ans « à la mi-novembre » et en fixe la
+fête au 21 décembre 2025. Cet article cite des conseillers citoyens et deux commerçants par leur nom
+et une enseigne d'étal : rien n'en est repris. **Photo** : l'unique photographie de l'article, attachée
+à lui seul (règle 91), nommée d'un horodatage d'appareil au dimanche 22 décembre 2024 à 10 h 46 — un
+dimanche, jour du marché — et montrant un marché sous une charpente de tuiles sans rapport avec le
+bâtiment des Halles. Une douzaine de visages identifiables : recadrage de la règle 46 sur l'étal de
+légumes du premier plan, 1 481 × 841 réduits à 1 280 × 727, sans visage ; une passante y reste
+visible du buste aux mains.
+
+**Ma Product'Yon Locale** (magasin de producteurs, rue d'Aizenay) — **règle 6** : aucune entité au
+registre des entreprises sous cette enseigne ni au numéro annoncé de la rue d'Aizenay, et le domaine
+que citent les annuaires ne résout plus. Seuls des annuaires tiers et un réseau social le décrivent
+encore. Critère de déblocage : un établissement ouvert au registre à cette adresse ou sous cette
+enseigne.
+
+**Magasin de la ferme du lycée Nature** (lycée agricole, exploitation certifiée par Certipaq depuis
+2000) — faits vérifiés : horaires du mardi et du vendredi et liste de produits sur le site du lycée,
+établissement public actif au registre. **Non publié pour son point** : l'allée des Druides est
+inconnue de la Base Adresse Nationale (meilleure réponse, un chemin des Druides à 0,668, à plus d'un
+kilomètre) ; la plateforme de commande du magasin et le siège déclaré à l'Agence Bio s'accordent à
+44 m, mais le contrôle inverse n'y rend que la route de la Chaize-le-Vicomte à 134 m — règle 34, un
+second témoin au même point ne vaut pas contrôle — et le point du registre des entreprises, à
+**1,4 km** au nord-est, ne rend aucune adresse. **Et pour sa photo** : la seule image du magasin est un
+bandeau de 955 × 211, sous tout plancher. Critère de déblocage : un plan d'accès ou un point publié
+par le lycée qui se retourne sur une voie bordant l'exploitation, et une photographie d'au moins
+600 px de large.
+
+**Marché de la Garenne** (mercredi et samedi matin, parvis du centre commercial) et **marché du
+Bourg-sous-La Roche** (dimanche matin, huîtres seulement) — jours, heures et lieux concordants entre
+la Ville et l'office de tourisme ; aucune photographie publiée ni par l'une ni par l'autre. Laissés
+au quota de cinq ; critère de déblocage : une photographie du lieu. La Garenne mêle de la maroquinerie
+aux étals alimentaires sans décompte publié, la règle 9 s'y appliquerait telle quelle.
+
+**Non instruits** : les deux magasins Biocoop Croq'Bio (certifiés Ecocert, soumis à la règle 86 avant
+d'entrer), les deux points de vente yonnais des Vergers de Vendée, le « magasin de la Vergne » et le
+Coliglou que citent les producteurs publiés, et les Vendredis du Bourg, rendez-vous de l'office de tourisme.
+
+**Écartés par `MODERATION.md` ou par le registre.** Parmi les 81 opérateurs de l'Agence Bio :
+supermarchés généralistes certifiés (Carrefour, Leclerc, Super U, U Express, Lidl), industriels et
+coopératives de collecte, boulangeries de réseau, et de nombreux certificats **arrêtés**. Plusieurs
+exploitations en entreprise individuelle, inscrites sous le seul nom de leur exploitant, déclarent une
+vente aux particuliers (maraîchage, élevage, transformation) : non instruites, aucune n'a d'enseigne
+publiée par l'intéressé, et ces pistes ne se rouvrent pas.
 
 ### Pistes non publiées à Mulhouse
 
