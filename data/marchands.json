@@ -492,68 +492,29 @@
     "a_confirmer": true
   },
   {
-    "slug": "comptoirs-bio-frejus",
-    "nom": "Les Comptoirs de la Bio - Fréjus",
+    "slug": "famiho-bio-saint-raphael",
+    "nom": "Famiho Bio",
     "categorie": "magasin-bio",
     "piliers": [
       "alimentation",
       "environnement"
     ],
-    "lat": 43.47293,
-    "lon": 6.740228,
-    "adresse": "1944 Avenue Jean Lachenaud, Pôle Capitou Sud, 83600 Fréjus",
-    "horaires": "Lundi à samedi, 9h à 20h ; dimanche, 9h à 13h",
+    "lat": 43.437211,
+    "lon": 6.785625,
+    "adresse": "60 Allée de Vaulongue, 83700 Saint-Raphaël",
+    "horaires": "Lundi à samedi, 8h30 à 20h ; fermé le dimanche",
     "produits": [
-      "Épicerie bio",
-      "Fruits et légumes",
-      "Produits locaux et de saison"
+      "Fruits et légumes bio",
+      "Viande bio",
+      "Boulangerie et pâtisserie bio",
+      "Produits laitiers et œufs bio",
+      "Café, thé et épices",
+      "Épicerie bio"
     ],
-    "description": "Magasin indépendant bio avec un accent sur les produits locaux, aussi présent à Saint-Raphaël.",
-    "site_web": "https://magasins.lescomptoirsdelabio.fr/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Comptoirs+de+la+Bio+Fréjus",
-    "image_url": "/images/marchands/comptoirs-bio-frejus.jpg"
-  },
-  {
-    "slug": "comptoirs-bio-saint-raphael",
-    "nom": "Les Comptoirs de la Bio - Saint-Raphaël",
-    "categorie": "magasin-bio",
-    "piliers": [
-      "alimentation",
-      "environnement"
-    ],
-    "lat": 43.44047,
-    "lon": 6.781788,
-    "adresse": "Boulevard du Cerceron, 83700 Saint-Raphaël",
-    "horaires": "Lundi à samedi, 8h30 à 20h (fermé le dimanche)",
-    "produits": [
-      "Épicerie bio",
-      "Produits locaux"
-    ],
-    "description": "Deuxième point de vente de l'enseigne Les Comptoirs de la Bio dans le secteur.",
-    "site_web": "https://magasins.lescomptoirsdelabio.fr/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Comptoirs+de+la+Bio+Saint-Raphaël",
-    "image_url": "/images/marchands/comptoirs-bio-saint-raphael.jpg",
-    "a_confirmer": true
-  },
-  {
-    "slug": "dietetique-leblanc",
-    "nom": "Diététique Leblanc",
-    "categorie": "magasin-bio",
-    "piliers": [
-      "alimentation"
-    ],
-    "lat": 43.425814,
-    "lon": 6.76866,
-    "adresse": "45 Rue Marius Allongue, 83700 Saint-Raphaël",
-    "horaires": "Lundi à samedi, environ 8h30-13h et 14h30-19h30 (horaires à reconfirmer)",
-    "produits": [
-      "Compléments alimentaires",
-      "Huiles essentielles",
-      "Produits diététiques et bio"
-    ],
-    "description": "Magasin bio et diététique historique de Saint-Raphaël, plus de 6000 références.",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Diététique+Leblanc+Saint-Raphaël",
-    "image_url": "/images/marchands/dietetique-leblanc.jpg",
+    "description": "Épicerie bio familiale ouverte en 2019 à l'angle du boulevard du Cerceron, qui annonce plus de 9 000 références ; elle portait l'enseigne Les Comptoirs de la Bio avant de prendre le nom Famiho Bio. Certifiée par Ecocert.",
+    "telephone": "04 94 55 58 29",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Famiho+Bio+60+Allée+de+Vaulongue+Saint-Raphaël",
+    "image_url": "/images/marchands/famiho-bio-saint-raphael.jpg",
     "a_confirmer": true
   },
   {

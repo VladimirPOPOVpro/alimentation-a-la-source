@@ -1169,8 +1169,8 @@ prioritaires en cas de conflit.
 
 95. **`magasin-bio` est un rayon du fichier, pas un label.** La liste des catégories vit dans le
    code, hors périmètre, et elle n'a pas de case « épicerie ». Un commerce alimentaire spécialisé
-   qui n'est pas certifié y entre quand même : le fichier le fait déjà, Le Petit Transian et
-   Diététique Leblanc sont rangés en `magasin-bio` sans le pilier `environnement`. Ce qui porte la
+   qui n'est pas certifié y entre quand même : le fichier le fait déjà, Le Petit Transian est
+   rangé en `magasin-bio` sans le pilier `environnement`. Ce qui porte la
    certification, c'est le **pilier**, au sens des règles 45, 60 et 71 — un certificat consultable,
    pas une intention. L'Épicerie Racynes vend des fruits et légumes bio mais n'est pas inscrite au
    registre national de l'Agence Bio : catégorie `magasin-bio`, pas de pilier `environnement`, et la
@@ -1416,9 +1416,29 @@ prioritaires en cas de conflit.
      organisme certificateur ne réédite pas un document à chaque déménagement ; son adresse est
      une donnée de dossier, pas un point de vente.
 
+117. **Un signalement de fermeture se juge sur le lieu, pas sur la société.** Trois corrections de
+     visiteurs sont arrivées le 12 septembre 2026, et les deux fermetures signalées laissent au
+     registre des entreprises une société **active** avec un établissement **ouvert** à l'adresse
+     du magasin. Appliquer la règle 6 à l'envers — « le registre dit ouvert, donc on garde » —
+     enverrait des visiteurs devant un rideau baissé : une société survit des mois, parfois des
+     années, à la boutique qu'elle tenait, exactement comme un site web (règle 6). **Critère** :
+     une fiche se retire quand **deux indices indépendants du signalement** désignent le lieu
+     comme fermé — une fiche cartographique marquée « définitivement fermé », un certificat bio
+     arrêté, la disparition du magasin dans le localisateur de son propre réseau, une autre
+     enseigne installée dans le local. Pour le magasin bio du Capitou à Fréjus, les trois premiers
+     concordent (certificat Ecocert **arrêté le 26 octobre 2024**, dernier contrôle 2023 ; fiche
+     cartographique « définitivement fermé » ; absent des neuf magasins que le réseau liste dans la
+     région). Pour le magasin diététique du 45 rue Marius Allongue à Saint-Raphaël, la fiche
+     cartographique « définitivement fermé » et des avis du début 2026 qui datent la fermeture de
+     l'hiver concordent. Le cas inverse se règle aussi : quand le lieu vit sous un
+     autre nom (le magasin du Cerceron devenu Famiho Bio), la fiche ne se supprime pas, elle se
+     **corrige** — enseigne, lien et produits — parce que le visiteur trouvera bien un magasin bio
+     ouvert à cette adresse. Une correction ne compte pas dans la limite de deux suppressions par
+     passe.
+
 ## Marchands à confirmer
 
-389 fiches sur 423 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+388 fiches sur 421 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1431,8 +1451,7 @@ prioritaires en cas de conflit.
 - **Plein Cagnard** (horaires à préciser)
 - **Domaine Réal Saint-Jean** (horaires à préciser)
 - **Domaine De La Vernède** (horaires à préciser)
-- **Les Comptoirs de la Bio - Saint-Raphaël** (horaires à préciser)
-- **Diététique Leblanc** (horaires à préciser)
+- **Famiho Bio** (Saint-Raphaël) (ancienne fiche « Les Comptoirs de la Bio - Saint-Raphaël », corrigée le 12 septembre 2026 sur signalement d'un visiteur. Le magasin n'a pas fermé, il a changé d'enseigne : le registre des entreprises déclare l'enseigne « FAMIHO BIO » sur l'établissement ouvert de la société qui l'exploite depuis avril 2019, et la page publique que le magasin tenait sous le nom des Comptoirs porte désormais celui de Famiho Bio, avec ses horaires, lundi au samedi 8h30-20h, et son téléphone ; la fiche cartographique dit la même chose. Le réseau Les Comptoirs de la Bio ne liste plus aucun magasin à Saint-Raphaël ni à Fréjus : ses neuf magasins de la région sont à Nice, La Colle-sur-Loup, Roquefort-les-Pins, Opio, Grasse, La Garde, Marseille (deux) et Mallemort — le lien vers son localisateur est donc retiré. Pilier `environnement` maintenu : certificat Ecocert **engagé** depuis janvier 2020, contrôle 2026. Produits lus dans les rubriques de ce certificat. **Coordonnées corrigées** : l'ancien point, celui de l'Agence Bio, géocodait la voie et tombait à environ 480 m ; le point retenu est celui de la Base Adresse Nationale pour le 60 allée de Vaulongue (numéro, score 0,96), qui coïncide à une vingtaine de mètres avec le code plus de la fiche cartographique. Reste `a_confirmer` pour une seule raison : la photo est thématique, au sens de la règle 1 — le magasin ne publie aucune photo de sa façade hors réseaux sociaux)
 - **La Ruche qui dit Oui ! - Fréjus** (point de retrait et horaires de permanence à confirmer)
 - **Marché aux poissons du Vieux Port** (heure d'ouverture variable selon l'arrivage de la pêche)
 - **Poissonnerie Santa Lucia** (horaires du mardi et de la fermeture du dimanche divergents selon les sources, à confirmer par téléphone au 04 94 53 84 76)
@@ -1831,7 +1850,7 @@ prioritaires en cas de conflit.
 - **Cidrerie du Pilat** (Saint-Étienne) (cidrerie fondée en 2024 par trois associés, qui ne presse que des pommes du Pilat. Certificat **Bureau Alpes Contrôles en vigueur** du 28 janvier 2026 au 31 mars 2027, activité « Préparation », répertoire de produits « Cidre » et « Jus de pomme effervescent » — d'où le pilier `environnement`. L'adresse est vérifiée **trois fois** : la page de contact, le registre des entreprises, et l'étiquette d'une bouteille photographiée par la cidrerie, où se lisent « 24 rue Peyret Lallier 42100 Saint-Étienne », « CIDRERIEDUPILAT.FR » et le logo AB — règle 74. **Aucun horaire d'ouverture publié** : ni la page d'accueil ni la page de contact n'en donnent, et l'onglet « Revendeurs » du site pointe vers une carte, pas vers une boutique ; le champ le dit plutôt que d'inventer. Le mobile est celui que la cidrerie inscrit sous « Téléphone » sur sa propre page de contact, pour les particuliers comme pour les professionnels ; l'adresse électronique et le prénom du maître de chai ne sont pas repris. Photo : la tireuse du chai, une main tenant une bouteille sous le bec de remplissage, recadrée sous la ligne d'épaule, aucun visage)
 - **Maison Fouillat** (Saint-Étienne) (boulangerie de plus de cent ans du centre-ville, catégorie `producteur` au titre de la règle 4 : l'artisan cuit sur place. Certificat **Bureau Veritas consultable** pour l'agriculture biologique au 18 rue Charles de Gaulle, engagement d'avril 2019 ; la seule production certifiée au registre de l'Agence Bio est le **pain frais**, et la description le dit plutôt que de laisser croire la boutique entière certifiée. **Deuxième fiche publiée au titre de la règle 115, et contradiction interne** : le panneau « HORAIRES D'OUVERTURE » de la devanture, que la boulangerie photographie elle-même, annonce le samedi 6h-13h30, quand le texte de son site annonce 6h-18h — les deux sortent, règle 5, avec l'invitation à vérifier. Du lundi au vendredi, panneau et site s'accordent sur 6h-19h30. La maison nomme ses fournisseurs locaux, et ce sont eux qui sont repris : le miel de la Miellerie des Séquoias, à Saint-Étienne, les glaces de la ferme des Délices Foréziens, à Saint-Cyr-les-Vignes. Le second magasin, à Saint-Cyprien, n'a pas de fiche : il est hors de la commune visée. Les prénoms et le patronyme des gérants sont publiés par le site, mais « MAISON FOUILLAT » est l'enseigne déclarée au registre — c'est elle qui est portée, règle 3 — et l'adresse électronique n'est pas reprise. Le site se contredit sur ses effectifs, « neuf salariés » puis « 18 salariés répartis sur les deux sites », et sur son ancienneté, « vingt-cinq ans » puis « 26 ans » : aucun de ces chiffres n'est dans la fiche. Point BAN du 18 rue Charles de Gaulle et point de l'Agence Bio identiques au mètre. Photo : la devanture publiée par la boulangerie, **recadrée sur sa moitié gauche** — enseigne, store rayé et vitrine gravée « La CULTURE du BON PAIN » — parce que les deux gérants posent au centre de l'original, règle 46)
 
-Les 423 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 421 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
