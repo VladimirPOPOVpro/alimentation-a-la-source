@@ -430,7 +430,7 @@ prioritaires en cas de conflit.
    étaient toutes dans le 83 : la priorité géographique d'origine — le Var, puis le 06, puis PACA,
    puis la France — n'a jamais eu l'occasion de dépasser son premier échelon, parce qu'une commune
    voisine encore vide se trouve toujours. Dézoomée sur la France, la carte montrait une tache et
-   rien d'autre. Vladimir a tranché le 2 septembre 2026 : couvrir la France progressivement, en
+   rien d'autre. Le responsable du site a tranché le 2 septembre 2026 : couvrir la France progressivement, en
    suivant la population. Tranché ainsi : **le département d'une passe est celui dont le déficit
    `part_de_population × total_des_fiches − fiches_publiées` est le plus grand, avec l'interdiction
    de viser deux passes de suite la même région ; dans ce département on prend la commune la plus
