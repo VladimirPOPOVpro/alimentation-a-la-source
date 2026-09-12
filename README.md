@@ -1513,9 +1513,29 @@ prioritaires en cas de conflit.
      quartier qui annonce « producteurs locaux et producteurs bio » sans liste, comme celui du parc
      Sainte-Marie, reste sous la règle 68.
 
+122. **Un producteur qui publie lui-même sa présence sur un marché nommé documente ce marché comme
+     l'annuaire de la règle 97, et à la même condition : la fiche le nomme par son enseigne.** Le
+     marché du boulevard Leroy, à Caen, accueille près de cent vingt commerçants selon la Ville,
+     mais ni la Ville, ni son règlement des marchés, ni l'office de tourisme n'en décrivent un seul
+     étal. La Bergerie de la Souleuvre, élevage de brebis laitières de Souleuvre-en-Bocage, écrit
+     sur la page « Sur les marchés » de son propre site : « Marché de Caen — Tous les samedis de 8h
+     à 13h30 — Boulevard Leroy ». La règle 97 n'accepte qu'un annuaire de chambre d'agriculture ;
+     une page que l'exploitant tient lui-même est une source de premier rang sur sa propre présence.
+     **Tranché ainsi**, quatre conditions cumulatives : le site nomme la commune de l'exploitation
+     (règle 56) ; le registre des entreprises y donne un établissement ouvert ; la ligne de
+     `produits` nomme l'enseigne entre parenthèses et la description dit qu'elle vient du
+     producteur, sans jamais présenter cette ligne comme l'inventaire du marché ; et **l'enseigne
+     ne se publie que si elle n'est pas un patronyme** — ici un nom de lieu, alors que la
+     dénomination du registre et celle de l'Agence Bio, qui accolent le nom de l'exploitant, ne sont
+     reprises nulle part. Les heures restent celles de l'autorité : le 8h de la bergerie est une
+     heure de présence de l'étal, le règlement de la Ville fixe l'installation des commerçants entre
+     6h et 7h45 et l'ouverture au public à 9h, ce qui n'est pas une contradiction. Le certificat bio
+     du producteur se dit dans la description ; il ne donne pas le pilier `environnement` au marché
+     (règles 60 et 68).
+
 ## Marchands à confirmer
 
-406 fiches sur 441 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+411 fiches sur 446 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1944,8 +1964,13 @@ prioritaires en cas de conflit.
 - **Marché bio et local de L'Octroi** (Nancy) (marché de producteurs du vendredi, catégorie `marche`. Jour et heures identiques à la Ville, à la Métropole, à L'Octroi et à L'Autre Canal. **Pilier `environnement`, règle 121** : organisé par la coopérative Bio en Grand Est, engagée chez Ecocert depuis avril 2010 ; neuf des dix-sept exploitations et stands nommés par L'Octroi ou par L'Autre Canal sont engagés au registre de l'Agence Bio (Meurthe-et-Moselle, Meuse, Vosges), les autres ne s'y retrouvent pas sous leur enseigne. Les deux listes divergent — L'Octroi nomme douze exposants, L'Autre Canal quatorze, dont neuf en commun — ce que dit la description. Aucun exposant n'est nommé dans la fiche : deux entrées des listes sont des noms de personnes. `produits` regroupe les familles que les deux listes annoncent. **Point** : 47 boulevard d'Austrasie à la Base Adresse Nationale (0,974), contrôle inverse à 0 m ; c'est l'adresse du tiers-lieu, la halle ouverte est sur son terrain. Le site de L'Octroi nomme la commune et ne porte aucun contenu injecté. **Photo** : la photographie que la Ville publie pour ce marché montre un exposant, deux clients et une banderole d'étal où se lit le nom d'un exploitant ; recadrage des règles 46 et 75 sur les cageots de légumes et les pains du premier plan, 690 × 345, sans visage ni nom)
 - **Marché Parc Sainte-Marie** (Nancy) (marché de plein air du vendredi soir, catégorie `marche`, sans `environnement` au titre de la règle 68 : « producteurs locaux et producteurs bio », sans liste d'exposants. Jour et heures identiques à la Ville, à la Métropole, à l'agenda de Bio Grand Est et sur l'affiche photographiée par la Ville (règle 74). **Produits, règles 92 et 103** : aucune source ne nomme un étal ; `produits` s'arrête aux deux formules de la Ville. L'inauguration du 6 juin 2025 et le budget participatif 2024 viennent de l'agenda de Bio Grand Est. L'adresse électronique de contact que publie la Ville est celle d'une messagerie grand public : non reprise. **Point** : l'agenda de Bio Grand Est écrit « Placette Boffrand, 1 avenue Boffrand » ; la Base Adresse Nationale connaît ce numéro à 0,968. **Photo** : l'affiche du marché au premier plan et la foule floue au fond, 610 × 635 après recadrage à gauche ; les passants restants sont hors de la zone nette et de dos ou de profil)
 - **Marché de la Ville Vieille** (Nancy) (marché de plein air du dimanche, catégorie et piliers des marchés. Jour, heures et lieu identiques à la Ville et à la Métropole ; la fermeture de la rue vient de la Ville. **Point** : centre de la rue Pierre Gringoire à la Base Adresse Nationale (0,964), contrôle inverse à 0 m, le 22 à 3 m ; le marché occupe la rue elle-même. **Produits** : « alimentaire et fleurs » d'après la Ville ; la photographie qu'elle attache à ce seul marché (règle 91) montre un camion-étal de fromager, d'où la ligne « Fromages ». **Photo** : la seule image publiée compte une vingtaine de passants dont plusieurs identifiables au premier plan, et le store d'un second camion porte un nom de famille et un numéro de portable ; le recadrage qui sort les deux ne garde que le haut de la scène — façades, arbres, toit du camion-étal et passants lointains — 720 × 305. La photographie ne montre donc presque plus d'étal : elle situe le marché, elle ne le décrit pas)
+- **Marché Saint-Pierre** (Caen) (marché de plein air du dimanche, catégorie et piliers des marchés. **Horaires** : 9h-14h30, identiques au règlement général des marchés (arrêté du 16 janvier 2026, annexe 1, « ouverture au public » et « fermeture au public »), à la page de la Ville et à sa carte des marchés ; le guide des marchés de septembre 2024 donne la même fin, « jusqu'à 14h30 ». **Commerçants** : « près de 400 » sur la page et la carte de la Ville, « 350 » sur le guide de septembre 2024 ; c'est la page tenue à jour qui est reprise (règle 58). **Point, règle 83** : la Ville place le marché « place Courtonne, quai Vendeuvre » ; la Base Adresse Nationale connaît les deux voies, le quai à 0,974 et la place à 0,962 : c'est le centre du quai Vendeuvre qui est publié, contrôle inverse à 0 m. Le point de la carte de la Ville tombe à 80 m, contrôle inverse « 36 quai Vendeuvre » à 41 m. **Produits** : ceux que nomme l'office de tourisme (« marchands de produits locaux », « stands de plats à emporter de tous les horizons ») ; les artisans, vêtements et bibelots qu'il cite aussi sont dans la description, pas dans `produits`. Aucun décompte des étals par activité n'est publié : la règle 119 ne s'applique pas, la règle 9 suffit. **Photo** : photographie « Caen, le marché Saint-Pierre » de l'office de tourisme, créditée à un studio de photographie, attachée à ce seul marché par son nom de fichier et sa légende ; la moitié basse est pleine de passants identifiables, le recadrage ne garde que le haut — tour Leroy, église Saint-Pierre, façades et bâches des étals — 1 500 × 415, réduit à 1 280 × 354. L'enseigne d'un étal de volailles rôties y reste lisible ; elle n'a pas été reprise dans `produits`, la photographie datant de 2019)
+- **Marché Saint-Sauveur** (Caen) (marché de plein air du vendredi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville et à sa carte. **Point** : centre de la place Saint-Sauveur à la Base Adresse Nationale (0,973), contrôle inverse « 19bis place Saint-Sauveur » à 8 m ; la carte de la Ville tombe à 21 m. **Produits** : article de l'office de tourisme « Faire quelques emplettes au marché Saint-Sauveur », publié le 5 juillet 2022 — maraîchers locaux, fromages normands nommés (camembert, pont-l'évêque, livarot, neufchâtel), crottin de chèvre « d'une ferme locale », poissons et crustacés, chouquettes ; la page « Marchés » du même office, non datée, reprend fromagers, produits frais et locaux et brocanteurs. Le règlement de 2026 confirme la place des alimentaires (rue Pémagnie « réservée prioritairement aux commerçants alimentaires ») et des poissonniers (promenade Saint-Julien). **Photo** : photographie de l'office légendée « Marché Saint Sauveur de Caen » (Les Conteurs), attachée à ce seul article ; une passante y est identifiable au premier plan, le recadrage sur les cagettes de haricots verts, courgettes et tomates donne 620 × 480, au-dessus du plancher de 600 px de la règle 59 et sans agrandissement. L'autre photographie de l'office titrée Saint-Sauveur n'a aucun recadrage sans visage au-dessus de 600 px)
+- **Marché du boulevard Leroy** (Caen) (marché de plein air du samedi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville et à sa carte. **Point, règle 64** : la Base Adresse Nationale ne connaît pas la place du Docteur Henri-Buot (meilleure réponse à 0,509, une autre place à 2,4 km) ; le point est celui de la carte des marchés de la Ville, dont le contrôle inverse rend « 58 boulevard Leroy » à 10 m et « 8 avenue Albert-Ier » à 51 m, les deux voies qui bordent la place. **Produits, règle 122** : une seule exploitation publie sa présence, la Bergerie de la Souleuvre (établissement ouvert au registre des entreprises, certificat Certis engagé au registre de l'Agence Bio, brebis laitières déclarées) ; les fleurs et sapins viennent de l'article 14.2 du règlement, qui autorise des installations le long du mur de l'avenue Albert-Ier « les jours de marchés aux fleurs des Rameaux, de la Toussaint et aux sapins de Noël ». L'application Saveur Marché, qui publie une liste de métiers, annonce une ouverture à 8h que le règlement contredit : écartée en entier, règle 90. **Photo, règle 1** : photographie thématique de l'office de tourisme légendée « Légumes de saison au marché de Caen » (Les Conteurs), qui ne nomme aucun marché et ne prétend pas montrer celui-ci ; recadrée sous les têtes des passants, flous et de dos, 1 500 × 520, réduite à 1 280 × 444)
+- **Marché de la Guérinière** (Caen) (marché de plein air du jeudi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville et à sa carte ; des annuaires tiers donnent 7h30-13h et 65 commerçants, non repris (règle 90). **Point** : centre de la place de la Liberté à la Base Adresse Nationale (0,97), contrôle inverse « 15 place de la Liberté » à 11 m ; la carte de la Ville tombe à 30 m. **Produits, règle 103** : aucune source ne décrit ce marché-là ; la fiche reprend la formule que la Ville (« des producteurs locaux, des produits de qualité », guide de 2024) et l'office (« retrouvez des producteurs locaux et des produits de qualité ») appliquent à tous les marchés, et l'objet que le règlement donne à tous (« vente au détail de denrées alimentaires et de produits manufacturés »), sans rien y ajouter. **Photo, règle 1** : photographie thématique de l'office « Marché à Caen » (Les Conteurs), araignées de mer sur un étal, sans personne, 1 500 × 1 000 réduite à 1 280 × 853 ; elle illustre l'article sur Saint-Sauveur sans légende de lieu et ne montre pas la Guérinière ; `produits` n'en tire rien (règle 88))
+- **Marché de la rue de Bayeux** (Caen) (marché de plein air du mardi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville (« 9h à 13 h 30 ») et à sa carte. **Point, règle 10** : la Base Adresse Nationale ne rend pour la rue de Bayeux qu'un centre de voie à 774 m du tronçon du marché ; le point est celui de la carte de la Ville, contrôle inverse « 212 rue de Bayeux » à 15 m, à l'extrémité ouest du tronçon, près de la rue du Clos-des-Roses (la rue Robert-Tournières, autre borne, est à 290 m). **Produits, règle 103** : même formule générale que pour la Guérinière. **Photo, règle 1** : photographie thématique de l'office (Les Conteurs), étal de poissonnier sous tonnelle, recadrée pour sortir une cliente et des passants flous, 660 × 1 000 ; elle illustre l'article sur Saint-Sauveur sans légende de lieu et ne montre pas la rue de Bayeux)
 
-Les 441 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 446 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1973,6 +1998,73 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Caen
+
+Département visé : le **Calvados (14)**, déficit **4,5373** au titre de la règle 41 avec 441 fiches
+publiées et **aucune** dans le département. La Réunion (5,6901) reste écartée par la règle 93. La
+passe précédente visait la Meurthe-et-Moselle, en région Grand Est (44) ; le Calvados est en
+Normandie (28), la réserve de la règle 41.c ne joue pas. Suivants du classement : les
+Pyrénées-Atlantiques (4,5189) et la Loire-Atlantique (4,5140). Les cinq fiches ramènent le déficit du
+14 à environ **−0,41**. Commune retenue : **Caen**, 109 400 habitants, la plus peuplée du département
+— Hérouville-Saint-Clair, deuxième, en compte 23 470. Les cinq fiches sont **dans la commune**, toutes
+à moins de 4 km de la place Saint-Sauveur ; aucune règle d'élargissement n'a servi.
+
+**Les sources qui ont fait la passe** : le règlement général des marchés de la Ville de Caen, arrêté
+n° A-2026-023 du 16 janvier 2026, en vigueur au 1er janvier 2026, dont l'annexe 1 donne pour chaque
+marché l'installation, l'ouverture et la fermeture au public ; les pages de l'annuaire des équipements
+de `caen.fr` et la carte des marchés que la Ville publie sur sa page « Marchés caennais », qui
+s'accordent exactement avec l'arrêté ; le guide « À Caen, 11 marchés de plein air par
+semaine » de septembre 2024 ; les pages « Marchés » et « marché Saint-Sauveur » de l'office de
+tourisme Caen la mer, dont viennent les cinq photographies ; le registre de l'Agence Bio, **1 360**
+opérateurs lus sur le Calvados, dont 90 domiciliés à Caen.
+
+**Sources non ouvertes ou indisponibles.** `explore-calvados.com`, le site de Calvados Attractivité,
+porte `User-agent: ClaudeBot` suivi de `Disallow: /` : aucune page lue, règle 77. `emag.calvados.fr`,
+qui publie des articles du Département sur les producteurs présents sur les marchés, a répondu 503 à
+chaque essai, et `amap-bn.fr`, le réseau des AMAP bas-normandes, n'a pas répondu du tout. La passe n'y
+a rien perdu pour ses cinq fiches, qui ont chacune l'arrêté et la Ville ; ce sont les pistes des AMAP
+et la composition des marchés de quartier qui en dépendent.
+
+**Contradiction consignée, règle 22** : pour le marché du **Chemin-Vert**, l'office de tourisme écrit
+« le jeudi, avenue du Président-Coty » ; la Ville, sa carte et le règlement de 2026 écrivent le lundi
+après-midi, rue Pierre-Corneille et rue Jean-Racine, « à partir du 12 mai 2025 », de 14h à 18h30 — et
+le guide de septembre 2024, antérieur à ce changement d'horaire, écrit déjà le lundi mais « jusqu'à
+13h30 ». C'est la Ville qui fait foi ;
+le marché est laissé au quota de cinq. Critère de reprise : aucun, il est publiable tel quel au
+prochain passage, avec la version de la Ville et la mention de l'écart.
+
+**Marché Saint-Paul** (samedi matin, place Saint-Paul) — la seule séance caennaise que la Ville
+qualifie de « producteurs locaux et bio », organisée par une association de quartier et absente du
+règlement municipal, ce qui s'explique puisqu'elle n'est pas un marché de la Ville. Deux freins : la
+Ville écrit 9h30-13h, l'association 9h-12h dans son dernier article, qui date de **novembre 2023** et
+nomme des exposants par des prénoms ; et aucune source datée de 2025 ou 2026 n'atteste que la séance
+se tient encore, la mention « Saint-Paul, point de vente » du guide de septembre 2024 étant la plus
+récente. Pas de photographie non plus. Critère de déblocage : une source datée d'au moins 2025 qui
+atteste la séance, et une photographie sans visage ; les exposants ne seront pas nommés.
+
+**Point de vente saisonnier du cours Koenig** (le jeudi de 16h30 à 19h30, de juin à septembre,
+« producteurs locaux » selon la carte de la Ville) — saison close à la fin du mois ; aucune
+composition publiée. À reprendre au printemps 2027 si la Ville reconduit le créneau.
+
+**Marchés de la Grâce-de-Dieu (mardi, 20 commerçants), du Calvaire-Saint-Pierre (mercredi) et de Venoix
+(mercredi, 20 commerçants)** — même documentation que la Guérinière et la rue de Bayeux, laissés au
+quota de cinq. Le Calvaire-Saint-Pierre compte 15 commerçants au guide de 2024 et 10 sur la carte de la
+Ville : la carte fait foi (règle 58). **Marché de la Pierre-Heuzé** (samedi, place Champlain) — deux
+commerçants selon la Ville et le guide : trop peu pour une fiche de marché.
+
+**Non instruits** : les AMAP de la ville — l'une a une fiche d'association sur `caen.fr`, sans jour ni
+lieu de distribution, les créneaux ne se lisant que sur des annuaires tiers et le site du réseau
+régional étant muet ; les deux magasins Biocoop de la ville, tous deux engagés au
+registre de l'Agence Bio, soumis à la règle 86 avant d'entrer ; les boulangeries biologiques engagées ;
+un établissement d'enseignement professionnel qui déclare une production et une vente aux
+particuliers.
+
+**Écartés par `MODERATION.md` ou par le registre** : parmi les quatre-vingt-dix opérateurs de l'Agence
+Bio domiciliés à Caen, une douzaine de supermarchés et de supérettes de réseau, des entrepôts
+frigorifiques et des grossistes du marché de gros, et de nombreux certificats **arrêtés**. Les
+producteurs que les annuaires tiers placent sur les marchés de quartier sous le nom de leur exploitant
+n'ont pas été cherchés par ce nom et ces pistes ne se rouvrent pas.
 
 ### Pistes non publiées à Nancy
 

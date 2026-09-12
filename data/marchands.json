@@ -11682,5 +11682,123 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Pierre%20Gringoire%2C%2054000%20Nancy",
     "image_url": "/images/marchands/marche-de-la-ville-vieille-nancy.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-pierre-caen",
+    "nom": "Marché Saint-Pierre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.181983,
+    "lon": -0.353952,
+    "adresse": "Place Courtonne et quai Vendeuvre, 14000 Caen",
+    "horaires": "Le dimanche matin, de 9h à 14h30, d'après le règlement général des marchés de la Ville de Caen (arrêté du 16 janvier 2026) et la page que la Ville consacre à ce marché. Le marché occupe aussi le boulevard des Alliés, entre la rue Neuve-Saint-Jean et l'avenue du Six-Juin.",
+    "produits": [
+      "Produits locaux",
+      "Plats à emporter de toutes cuisines"
+    ],
+    "description": "Le plus grand marché de Caen, le dimanche matin le long du bassin Saint-Pierre et au pied de la tour Leroy : près de 400 commerçants selon la Ville. L'office de tourisme y signale des marchands de produits locaux et des stands de plats à emporter, mais aussi des artisans, des vêtements et des bibelots ; aucune des sources consultées ne publie la composition des étals.",
+    "site_web": "https://caen.fr/annuaire-equipement/marche-saint-pierre",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quai%20Vendeuvre%2C%2014000%20Caen",
+    "image_url": "/images/marchands/marche-saint-pierre-caen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-sauveur-caen",
+    "nom": "Marché Saint-Sauveur",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.182774,
+    "lon": -0.369026,
+    "adresse": "Place Saint-Sauveur, rue Pémagnie, promenade Saint-Julien et place Saint-Martin, 14000 Caen",
+    "horaires": "Le vendredi matin, de 9h à 13h30, d'après le règlement général des marchés de la Ville de Caen (arrêté du 16 janvier 2026) et la page que la Ville consacre à ce marché.",
+    "produits": [
+      "Fruits et légumes de maraîchers locaux",
+      "Fromages normands : camembert, pont-l'évêque, livarot, neufchâtel",
+      "Fromages de chèvre fermiers",
+      "Poissons et crustacés",
+      "Chouquettes"
+    ],
+    "description": "Marché du vendredi matin sur la place Saint-Sauveur et les rues voisines, près de 150 commerçants selon la Ville. Le règlement municipal réserve la rue Pémagnie en priorité aux commerçants alimentaires et installe les poissonniers sur la promenade Saint-Julien ; l'office de tourisme y décrit des maraîchers locaux, des fromagers et des poissonniers, ainsi que des stands de brocanteurs.",
+    "site_web": "https://caen.fr/annuaire-equipement/marche-saint-sauveur",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Sauveur%2C%2014000%20Caen",
+    "image_url": "/images/marchands/marche-saint-sauveur-caen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-boulevard-leroy-caen",
+    "nom": "Marché du boulevard Leroy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.171049,
+    "lon": -0.349055,
+    "adresse": "Place du Docteur Henri-Buot, boulevard Leroy, 14000 Caen",
+    "horaires": "Le samedi matin, de 9h à 13h30, d'après le règlement général des marchés de la Ville de Caen (arrêté du 16 janvier 2026) et la page que la Ville consacre à ce marché.",
+    "produits": [
+      "Fromages et produits laitiers de brebis (Bergerie de la Souleuvre)",
+      "Fleurs et sapins, aux marchés aux fleurs des Rameaux et de la Toussaint et avant Noël"
+    ],
+    "description": "Marché du samedi matin sur la place du Docteur Henri-Buot, que la Ville a aménagée pour lui : près de 120 commerçants selon la Ville. Aucune des sources consultées ne publie la composition des étals ; la Bergerie de la Souleuvre, élevage de brebis laitières du bocage virois certifié bio, écrit sur son site y vendre ses produits chaque samedi.",
+    "site_web": "https://caen.fr/annuaire-equipement/marche-boulevard-leroy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=58%20Boulevard%20Leroy%2C%2014000%20Caen",
+    "image_url": "/images/marchands/marche-boulevard-leroy-caen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-gueriniere-caen",
+    "nom": "Marché de la Guérinière",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.160699,
+    "lon": -0.342907,
+    "adresse": "Place de la Liberté et contre-allée de l'avenue de la Concorde, 14000 Caen",
+    "horaires": "Le jeudi matin, de 9h à 13h30, d'après le règlement général des marchés de la Ville de Caen (arrêté du 16 janvier 2026) et la page que la Ville consacre à ce marché.",
+    "produits": [
+      "Produits de producteurs locaux",
+      "Denrées alimentaires et produits manufacturés"
+    ],
+    "description": "Marché de quartier du jeudi matin, place de la Liberté le long de la plateforme du tramway et sur la contre-allée de l'avenue de la Concorde jusqu'à la rue Henri-Dunant : près de 50 commerçants selon la Ville. La composition des étals n'est pas publiée ; les produits indiqués reprennent ce que la Ville et l'office de tourisme écrivent de l'ensemble des marchés caennais.",
+    "site_web": "https://caen.fr/annuaire-equipement/marche-de-la-gueriniere",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Libert%C3%A9%2C%2014000%20Caen",
+    "image_url": "/images/marchands/marche-de-la-gueriniere-caen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-rue-de-bayeux-caen",
+    "nom": "Marché de la rue de Bayeux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.184618,
+    "lon": -0.393912,
+    "adresse": "Rue de Bayeux, entre la rue Robert-Tournières et la rue du Clos-des-Roses, 14000 Caen",
+    "horaires": "Le mardi matin, de 9h à 13h30, d'après le règlement général des marchés de la Ville de Caen (arrêté du 16 janvier 2026) et la page que la Ville consacre à ce marché.",
+    "produits": [
+      "Produits de producteurs locaux",
+      "Denrées alimentaires et produits manufacturés"
+    ],
+    "description": "Marché de quartier du mardi matin sur le trottoir nord de la rue de Bayeux, entre la rue Robert-Tournières et la rue du Clos-des-Roses : près de 30 commerçants selon la Ville. La composition des étals n'est pas publiée ; les produits indiqués reprennent ce que la Ville et l'office de tourisme écrivent de l'ensemble des marchés caennais.",
+    "site_web": "https://caen.fr/annuaire-equipement/marche-rue-de-bayeux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=212%20Rue%20de%20Bayeux%2C%2014000%20Caen",
+    "image_url": "/images/marchands/marche-rue-de-bayeux-caen.jpg",
+    "a_confirmer": true
   }
 ]
