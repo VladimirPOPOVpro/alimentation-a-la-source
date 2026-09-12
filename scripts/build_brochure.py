@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 """
+⚠ NE PAS RELANCER SANS DEMANDE EXPLICITE DU RESPONSABLE DU SITE.
+
+Depuis le 12 septembre 2026, public/brochure/brochure-a4.pdf est la première
+brochure mise en ligne le 30 août (bandeau « Découvrez nos marchands locaux ! »,
+sans nom de comité ni mention de prototype) : c'est la version que le
+responsable du site a choisie et validée avec le comité, identique à l'octet
+près à celle du commit 5bf7349. Ce script produirait autre chose (nom du
+comité, mention de prototype) et l'écraserait. Il est conservé pour le jour
+où une nouvelle brochure sera demandée.
+
 Régénère la brochure A4 : l'affiche originale + un bandeau bas avec le QR code
 vers le site et le nom du comité.
 

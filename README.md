@@ -6451,6 +6451,15 @@ Variables d'environnement (dans `.env.local`, jamais commité) :
 
 Next.js 16 (App Router) + TypeScript + Tailwind CSS 4, cartographie Leaflet / OpenStreetMap, regroupement géographique côté serveur avec `supercluster`, animations Framer Motion, icônes Lucide, Postgres (`pg`) pour le backlog des demandes. Géocodage et autocomplétion via l'API officielle française `api-adresse.data.gouv.fr`.
 
+## Brochure A4 en ligne
+
+`public/brochure/brochure-a4.pdf` est, depuis le 12 septembre 2026, la première
+brochure mise en ligne le 30 août (identique au commit `5bf7349`) : bandeau
+« Découvrez nos marchands locaux ! » avec le QR code, sans nom de comité ni
+mention de prototype. C'est la version choisie par le responsable du site après
+validation du comité. Ne pas relancer `scripts/build_brochure.py` sans demande
+explicite : il l'écraserait avec une autre version.
+
 ## Déploiement
 
 Le site est déployé sur Railway, avec deux services : l'application et une base Postgres. Toute modification poussée sur la branche `main` du dépôt GitHub déclenche un nouveau déploiement automatique.
