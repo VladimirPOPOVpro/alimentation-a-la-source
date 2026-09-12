@@ -11800,5 +11800,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=212%20Rue%20de%20Bayeux%2C%2014000%20Caen",
     "image_url": "/images/marchands/marche-rue-de-bayeux-caen.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-saint-nazaire",
+    "nom": "Halles de Saint-Nazaire",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.280674,
+    "lon": -2.21477,
+    "adresse": "Place du Commerce, 44600 Saint-Nazaire",
+    "horaires": "Le mardi, le vendredi, le samedi et le dimanche matin. Commerçants alimentaires, d'après la page « Marchés » de la Ville de Saint-Nazaire : en hiver de 7h30 à 12h30 le mardi, le vendredi et le samedi, de 7h30 à 13h le dimanche ; en été de 7h30 à 12h30 le mardi, de 7h30 à 13h le vendredi et le samedi, de 7h30 à 13h30 le dimanche (la Ville fixe l'été du 1er juillet au 31 août dans sa page destinée aux commerçants). L'office de tourisme écrit 13h, et non 12h30, pour le mardi d'été. Les commerçants non alimentaires arrivent plus tard, vers 8h30-9h.",
+    "produits": [
+      "Légumes, pommes, miel, volailles, sel et vin de producteurs locaux",
+      "Fruits et légumes, dont bio",
+      "Fromages et crèmerie",
+      "Boucherie, charcuterie, volailles",
+      "Poissons et huîtres",
+      "Pain d'artisans boulangers, dont deux bio",
+      "Crêpes et pâtisseries"
+    ],
+    "description": "Le plus grand marché de Saint-Nazaire, dans les halles de béton inaugurées en 1958 et labellisées « Architecture contemporaine remarquable », et tout autour. Une centaine de commerçants selon la Ville, dont environ 90 % d'alimentaire : producteurs locaux, maraîchers, fromagers, bouchers, ostréiculteurs et poissonniers.",
+    "site_web": "https://www.saintnazaire.fr/annuaire/saint-nazaire-halles-de-saint-nazaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Commerce%2C%2044600%20Saint-Nazaire",
+    "image_url": "/images/marchands/halles-de-saint-nazaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-halles-de-penhoet-saint-nazaire",
+    "nom": "Marché des halles de Méan-Penhoët",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.295647,
+    "lon": -2.191548,
+    "adresse": "Place des Halles de Penhoët, rue de Trignac, 44600 Saint-Nazaire",
+    "horaires": "Le samedi matin, toute l'année : de 7h30 à 12h30 pour les commerçants alimentaires, d'après la page « Marchés » de la Ville de Saint-Nazaire et la fiche de l'office de tourisme ; de 8h30 à 12h30 pour les autres.",
+    "produits": [
+      "Fruits et légumes",
+      "Légumes de producteurs",
+      "Boucherie et charcuterie",
+      "Poulets rôtis",
+      "Poissons",
+      "Huîtres"
+    ],
+    "description": "Petit marché du samedi matin sur le parvis des halles de Penhoët, construites en 1877 dans le centre-ville puis remontées dans ce quartier ouvrier en 1936 : le plus ancien bâtiment public de Saint-Nazaire encore en service. L'office de tourisme y compte sept commerçants — poissonnier, producteurs de légumes, charcutier, ostréiculteur, rôtisseur et boucher.",
+    "site_web": "https://www.saintnazaire.fr/annuaire/saint-nazaire-halles-mean-penhoet/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Halles%20de%20Penho%C3%ABt%2C%2044600%20Saint-Nazaire",
+    "image_url": "/images/marchands/marche-des-halles-de-penhoet-saint-nazaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-pertuischaud-saint-nazaire",
+    "nom": "Marché du Pertuischaud",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.263764,
+    "lon": -2.234654,
+    "adresse": "Place Pierre Bourdan, 44600 Saint-Nazaire",
+    "horaires": "Le jeudi matin. Commerçants alimentaires, d'après la page « Marchés » de la Ville de Saint-Nazaire : de 7h30 à 12h30 en hiver, de 7h30 à 13h en été (la Ville fixe l'été du 1er juillet au 31 août dans sa page destinée aux commerçants).",
+    "produits": [
+      "Légumes bio de producteurs",
+      "Volailles bio d'un producteur",
+      "Pommes d'un producteur local",
+      "Fruits et légumes",
+      "Viande chevaline et charcuterie",
+      "Poissons",
+      "Crêpes"
+    ],
+    "description": "Marché de quartier du jeudi matin sur la place Pierre-Bourdan, avec une dizaine de commerçants alimentaires selon la Ville. Les producteurs y sont nombreux pour sa taille : maraîchers bio, éleveur de volailles bio, producteur de pommes ; la Ville ne précise pas quels étals sont certifiés.",
+    "site_web": "https://www.saintnazaire.fr/annuaire/saint-nazaire-marche-du-pertuischaud/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Pierre%20Bourdan%2C%2044600%20Saint-Nazaire",
+    "image_url": "/images/marchands/marche-du-pertuischaud-saint-nazaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-saint-marc-sur-mer",
+    "nom": "Marché de Saint-Marc-sur-Mer",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.239681,
+    "lon": -2.278677,
+    "adresse": "Rue du Commandant Charcot, Saint-Marc-sur-Mer, 44600 Saint-Nazaire",
+    "horaires": "Le jeudi et le dimanche matin. Commerçants alimentaires, d'après la page « Marchés » de la Ville de Saint-Nazaire : en hiver de 7h30 à 12h30 le jeudi et de 7h30 à 13h le dimanche ; en été de 7h30 à 13h le jeudi et de 7h30 à 13h30 le dimanche (la Ville fixe l'été du 1er juillet au 31 août dans sa page destinée aux commerçants). Des marchés nocturnes s'y ajoutent certains mercredis d'été ; leurs dates changent chaque année.",
+    "produits": [
+      "Crèmerie locale bio",
+      "Légumes bio d'un producteur local",
+      "Fruits et légumes",
+      "Huîtres",
+      "Poissons",
+      "Boucherie, charcuterie, saucissons",
+      "Pain d'artisans boulangers, dont un bio",
+      "Crêpes bio"
+    ],
+    "description": "Marché de plein air du quartier balnéaire de Saint-Marc-sur-Mer, à deux pas de la plage. La Ville y compte 14 commerçants alimentaires le dimanche et 5 le jeudi en hiver, dont un crémier bio, un maraîcher bio et un ostréiculteur.",
+    "site_web": "https://www.saintnazaire.fr/annuaire/saint-nazaire-marche-de-saint-marc/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20du%20Commandant%20Charcot%2C%2044600%20Saint-Nazaire",
+    "image_url": "/images/marchands/marche-de-saint-marc-sur-mer.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-bouletterie-saint-nazaire",
+    "nom": "Marché de la Bouletterie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.261794,
+    "lon": -2.255988,
+    "adresse": "Place Nadia Boulanger, 44600 Saint-Nazaire",
+    "horaires": "Le mercredi matin. Commerçants alimentaires, d'après la page « Marchés » de la Ville de Saint-Nazaire : de 7h30 à 12h30 en hiver, de 7h30 à 13h en été (la Ville fixe l'été du 1er juillet au 31 août dans sa page destinée aux commerçants).",
+    "produits": [
+      "Légumes d'un producteur local",
+      "Fruits et légumes",
+      "Charcuterie",
+      "Poissons",
+      "Poulets rôtis halal",
+      "Crêpes"
+    ],
+    "description": "Petit marché du mercredi matin sur la place Nadia-Boulanger, au cœur du quartier renouvelé de la Bouletterie : cinq commerçants alimentaires selon la Ville, dont un producteur local de légumes, un poissonnier et un charcutier.",
+    "site_web": "https://www.saintnazaire.fr/annuaire/saint-nazaire-marche-de-la-bouletterie/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Nadia%20Boulanger%2C%2044600%20Saint-Nazaire",
+    "image_url": "/images/marchands/marche-de-la-bouletterie-saint-nazaire.jpg",
+    "a_confirmer": true
   }
 ]

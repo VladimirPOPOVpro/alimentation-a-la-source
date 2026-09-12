@@ -1533,9 +1533,24 @@ prioritaires en cas de conflit.
      du producteur se dit dans la description ; il ne donne pas le pilier `environnement` au marché
      (règles 60 et 68).
 
+123. **Une saison qu'une autorité nomme sans la dater se date par la page de la même autorité qui la
+     définit, et la fiche attribue cette date à sa page.** La page « Marchés » de la Ville de
+     Saint-Nazaire donne pour chaque marché un horaire « Hiver » et un horaire « Été », sans dire où
+     commence l'une ni l'autre. La page que la même Ville destine aux commerçants, « Vendre sur les
+     marchés de Saint-Nazaire », fixe l'arrivée des placiers « en hiver (01/09 au 30/06) » et
+     « l'été (01/07 au 31/08) ». Publier les deux horaires sans période laisserait le visiteur deviner
+     lequel vaut en juin ; choisir soi-même le calendrier astronomique serait inventer. **Tranché
+     ainsi** : quand une autorité découpe ses horaires par saison sans dater les saisons, on cherche
+     la définition sur les autres pages **de la même autorité** ; si elle existe, le champ `horaires`
+     donne les deux horaires, cite la période et dit de quelle page elle vient ; si elle n'existe
+     pas, les deux horaires sortent sans période et la fiche le dit. Une définition trouvée chez un
+     tiers — office de tourisme, annuaire — ne sert pas : chaque organisme a ses propres saisons.
+     La fiche reste `a_confirmer`, puisque la page des commerçants règle l'heure du tirage au sort
+     des places, pas explicitement celle de l'ouverture au public.
+
 ## Marchands à confirmer
 
-411 fiches sur 446 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+416 fiches sur 451 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1969,8 +1984,13 @@ prioritaires en cas de conflit.
 - **Marché du boulevard Leroy** (Caen) (marché de plein air du samedi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville et à sa carte. **Point, règle 64** : la Base Adresse Nationale ne connaît pas la place du Docteur Henri-Buot (meilleure réponse à 0,509, une autre place à 2,4 km) ; le point est celui de la carte des marchés de la Ville, dont le contrôle inverse rend « 58 boulevard Leroy » à 10 m et « 8 avenue Albert-Ier » à 51 m, les deux voies qui bordent la place. **Produits, règle 122** : une seule exploitation publie sa présence, la Bergerie de la Souleuvre (établissement ouvert au registre des entreprises, certificat Certis engagé au registre de l'Agence Bio, brebis laitières déclarées) ; les fleurs et sapins viennent de l'article 14.2 du règlement, qui autorise des installations le long du mur de l'avenue Albert-Ier « les jours de marchés aux fleurs des Rameaux, de la Toussaint et aux sapins de Noël ». L'application Saveur Marché, qui publie une liste de métiers, annonce une ouverture à 8h que le règlement contredit : écartée en entier, règle 90. **Photo, règle 1** : photographie thématique de l'office de tourisme légendée « Légumes de saison au marché de Caen » (Les Conteurs), qui ne nomme aucun marché et ne prétend pas montrer celui-ci ; recadrée sous les têtes des passants, flous et de dos, 1 500 × 520, réduite à 1 280 × 444)
 - **Marché de la Guérinière** (Caen) (marché de plein air du jeudi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville et à sa carte ; des annuaires tiers donnent 7h30-13h et 65 commerçants, non repris (règle 90). **Point** : centre de la place de la Liberté à la Base Adresse Nationale (0,97), contrôle inverse « 15 place de la Liberté » à 11 m ; la carte de la Ville tombe à 30 m. **Produits, règle 103** : aucune source ne décrit ce marché-là ; la fiche reprend la formule que la Ville (« des producteurs locaux, des produits de qualité », guide de 2024) et l'office (« retrouvez des producteurs locaux et des produits de qualité ») appliquent à tous les marchés, et l'objet que le règlement donne à tous (« vente au détail de denrées alimentaires et de produits manufacturés »), sans rien y ajouter. **Photo, règle 1** : photographie thématique de l'office « Marché à Caen » (Les Conteurs), araignées de mer sur un étal, sans personne, 1 500 × 1 000 réduite à 1 280 × 853 ; elle illustre l'article sur Saint-Sauveur sans légende de lieu et ne montre pas la Guérinière ; `produits` n'en tire rien (règle 88))
 - **Marché de la rue de Bayeux** (Caen) (marché de plein air du mardi, catégorie et piliers des marchés. **Horaires** : 9h-13h30 au règlement de 2026, à la page de la Ville (« 9h à 13 h 30 ») et à sa carte. **Point, règle 10** : la Base Adresse Nationale ne rend pour la rue de Bayeux qu'un centre de voie à 774 m du tronçon du marché ; le point est celui de la carte de la Ville, contrôle inverse « 212 rue de Bayeux » à 15 m, à l'extrémité ouest du tronçon, près de la rue du Clos-des-Roses (la rue Robert-Tournières, autre borne, est à 290 m). **Produits, règle 103** : même formule générale que pour la Guérinière. **Photo, règle 1** : photographie thématique de l'office (Les Conteurs), étal de poissonnier sous tonnelle, recadrée pour sortir une cliente et des passants flous, 660 × 1 000 ; elle illustre l'article sur Saint-Sauveur sans légende de lieu et ne montre pas la rue de Bayeux)
+- **Halles de Saint-Nazaire** (Saint-Nazaire) (marché couvert du mardi, du vendredi, du samedi et du dimanche, catégorie et piliers des halles. **Horaires, règles 5 et 123** : ceux des commerçants alimentaires sur la page « Marchés » de la Ville, avec l'été du 1er juillet au 31 août d'après sa page « Vendre sur les marchés » ; la fiche de l'office de tourisme donne 13h pour le mardi d'été là où la Ville écrit 12h30, les deux valeurs sortent. **Composition, règle 119** : « une centaine de commerçants : environ 90 % d'alimentaire et 10 % de manufacturé » selon la Ville, qui publie la liste des métiers reprise dans `produits` ; aucun étal n'est nommé. Pas d'`environnement` : la Ville cite des fruits et légumes bio et deux boulangers bio sans les nommer, règle 68. **Point** : centre de la place du Commerce à la Base Adresse Nationale (0,969), contrôle inverse à 0 m ; le marqueur de la fiche d'annuaire de la Ville tombe à 57 m, sur la rue des Halles. **Photo** : vue aérienne des halles et du marché de plein air qui les entoure, créditée à la CARENE, publiée par l'office de tourisme sur sa fiche des halles ; 3 543 px réduits à 1 280, aucun visage identifiable à cette hauteur. La photographie intérieure que la Ville attache au marché montre plusieurs clients de face au premier plan : non utilisée)
+- **Marché des halles de Méan-Penhoët** (Saint-Nazaire) (marché du samedi sur le parvis des halles, catégorie et piliers des marchés. Jour et heures identiques à la Ville et à l'office de tourisme (7h30-12h30). **Produits** : la Ville cite fruits et légumes, boucher, charcutier, rôtisseur ; l'office, plus détaillé, sept commerçants dont poissonnier, producteurs de légumes et ostréiculteur — les deux listes sont réunies, aucune ne contredit l'autre. **Point** : la Ville écrit « rue de Trignac », dont le centre de voie tombe à 224 m ; la Base Adresse Nationale connaît la place des Halles de Penhoët (0,958), contrôle inverse « 1 place des Halles de Penhoet » à 0 m, et le marqueur de la Ville tombe à 20 m. **Photo** : façade des halles que la Ville attache à ce marché, 1 920 px réduits à 1 280, personne dans le cadre ; elle montre le bâtiment un jour sans marché)
+- **Marché du Pertuischaud** (Saint-Nazaire) (marché de quartier du jeudi, catégorie et piliers des marchés, sans `environnement` : la Ville cite des producteurs de légumes bio et un producteur de volaille bio sans les nommer, règle 68. L'office de tourisme écrit « Perthuischaud », la Ville « Pertuischaud » : l'écriture de la Ville est gardée. **Point** : centre de la place Pierre-Bourdan à la Base Adresse Nationale (0,965), marqueur de la Ville à 6 m. **Photo** : l'étal de fruits que la Ville attache à ce marché, recadré sous les têtes d'un cycliste et de clients (règle 46), 2 000 × 775 réduits à 1 280 × 496 ; les caisses visibles portent des marques de fruits importés, ce que la fiche ne reprend pas)
+- **Marché de Saint-Marc-sur-Mer** (Saint-Nazaire) (marché de plein air du jeudi et du dimanche, catégorie et piliers des marchés, sans `environnement` (règle 68). **Horaires, règle 123** : ceux de la Ville ; les marchés nocturnes d'été, organisés avec le comité des fêtes, ne sont cités qu'en une phrase, sans dates : la page des marchés de la Ville en donne encore celles de 2023. **Point, règle 63** : la Ville et l'office n'écrivent que « rue du Commandant Charcot », sans numéro ; le centre de voie rendu par la Base Adresse Nationale tombe à 114 m du marqueur de la Ville, dont le contrôle inverse rend « 5 rue du Commandant Charcot » à 7 m : c'est ce marqueur qui est publié. **Photo, règles 46 et 59** : la seule photographie publiée du marché, par la Ville, montre des commerçants et une terrasse de clients de face, et des cageots marqués d'un nom qui pourrait être un patronyme ; le seul recadrage sans l'un ni l'autre garde un étal de nectarines sur tréteaux, 620 × 545, sous le seuil de 700 px mais au-dessus du plancher, sans photo thématique nette de la commune pour la remplacer. Les photographies de l'office sur Saint-Marc montrent le marché nocturne et ses bougies artisanales : non utilisées)
+- **Marché de la Bouletterie** (Saint-Nazaire) (marché de quartier du mercredi, catégorie et piliers des marchés. **Composition, règle 119** : la Ville annonce « 5 commerçants alimentaires et des commerçants manufacturés » sans compter ces derniers ; la règle 119 ne s'applique qu'à un décompte complet, la règle 9 suffit, et la description dit la petite taille. La Ville énumère six métiers alimentaires pour cinq commerçants : les six sont repris. **Point** : centre de la place Nadia-Boulanger à la Base Adresse Nationale (0,964), marqueur de la Ville à 32 m, contrôle inverse de ce marqueur « 8 place Nadia Boulanger » à 29 m. **Photo** : la photographie que la Ville attache à ce marché montre des enfants et des commerçants de face ; recadrage sur le haut de la scène — immeuble de la place, bâche de la remorque d'un charcutier, parasol d'un primeur — 1 920 × 640 réduits à 1 280 × 427. Elle situe le marché plus qu'elle ne montre ses étals)
 
-Les 446 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 451 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1998,6 +2018,53 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Saint-Nazaire
+
+Département visé : la **Loire-Atlantique (44)**, déficit **4,6219** au titre de la règle 41 avec 446
+fiches publiées et 5 dans le département, toutes à Nantes. La Réunion (5,7546) reste écartée par la
+règle 93. La passe précédente visait le Calvados, en Normandie (28) ; la Loire-Atlantique est en
+Pays de la Loire (52), la réserve de la règle 41.c ne joue pas. Suivants du classement : les
+Yvelines (4,6058) et les Pyrénées-Atlantiques (4,5702). Les cinq fiches ramènent le déficit du 44 à
+environ **−0,27**. Commune retenue : **Saint-Nazaire**, 74 568 habitants, la plus peuplée du
+département sans aucune fiche — Nantes, première, en a cinq. Les cinq fiches sont **dans la
+commune**, de Penhoët à Saint-Marc-sur-Mer, la plus éloignée, Saint-Marc, à 6,6 km des halles centrales ; aucune
+règle d'élargissement n'a servi.
+
+**Les sources qui ont fait la passe** : la page « Marchés » de `saintnazaire.fr`, qui donne pour
+chacun des cinq marchés municipaux les jours, les horaires d'hiver et d'été et la liste des métiers,
+et ses cinq fiches d'annuaire, qui portent chacune une photographie et un marqueur ; la page
+« Vendre sur les marchés de Saint-Nazaire » de la même Ville, pour la définition des saisons
+(règle 123) ; la page « Les marchés et producteurs » et les fiches des halles centrales et de
+Penhoët de l'office de tourisme `saint-nazaire-tourisme.com` ; le registre de l'Agence Bio,
+**3 303** opérateurs lus sur la Loire-Atlantique, dont 57 domiciliés à Saint-Nazaire. Les deux
+sites ont un `robots.txt` sans interdiction pour le robot de la carte.
+
+**Contradiction consignée, règle 5** : l'horaire d'été des commerçants alimentaires des halles
+centrales le mardi — 12h30 à la Ville, 13h à l'office de tourisme. Les deux valeurs sont publiées.
+
+**La Ferme des Pouls-Hauts** (Saint-Marc-sur-Mer, 83 route du Cromlech) — élevage laitier et
+maraîchage avec boutique, catégorie `ferme`. Tout est vérifié sauf l'image : établissement ouvert à
+cette adresse au registre des entreprises ; certificat Bureau Veritas engagé depuis 2000 au registre
+de l'Agence Bio ; boutique « du mercredi au samedi de 16h à 19h », produits laitiers, fruits et
+légumes, viandes, à l'office de tourisme et sur La Loire à Vélo ; numéro 83 connu de la Base Adresse
+Nationale (0,971), point du registre à 10 m. Écartée de cette passe parce qu'aucune photographie
+n'existe hors d'un réseau social : ni l'office ni La Loire à Vélo n'en publient, et la ferme n'a pas
+de site. Critère de déblocage : une photographie de la ferme ou de sa boutique, sans visage ; le
+téléphone à publier serait le fixe que l'office affiche, pas le portable. Un annuaire tiers présente
+l'exploitant par son prénom : rien de cet annuaire n'est repris.
+
+**Non instruits** : une ferme bio de la route des Carrois de Cuneix qui vend en colis sur commande
+mensuelle et dont le certificat est **arrêté** depuis mai 2025 ; une ferme maraîchère bio de la
+route de la Motte-Allemand qui ne publie son jour de vente que sur un réseau social ; une fromagerie
+de Saint-Marc engagée au registre de l'Agence Bio, sans source indépendante trouvée. Un élevage
+caprin de Saint-Marc dont la dénomination au registre bio accole un nom de personne à l'enseigne
+est écarté pour ce motif et ne se rouvre pas.
+
+**Écartés par `MODERATION.md` ou par le registre** : parmi les 57 opérateurs de l'Agence Bio
+domiciliés à Saint-Nazaire, une quinzaine de supermarchés et supérettes de réseau, des grossistes,
+des entreprises de transformation sans vente au détail, et plusieurs producteurs inscrits sous le
+nom de leur exploitant, qui n'ont pas été cherchés par ce nom.
 
 ### Pistes non publiées à Caen
 
