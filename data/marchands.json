@@ -11132,5 +11132,147 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18%20rue%20Charles%20de%20Gaulle%2C%2042000%20Saint-%C3%89tienne",
     "image_url": "/images/marchands/maison-fouillat-saint-etienne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-nimes",
+    "nom": "Les Halles de Nîmes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.838911,
+    "lon": 4.358684,
+    "adresse": "6a Rue Général Perrier, 30000 Nîmes",
+    "horaires": "Tous les jours de l'année, jours fériés compris, de 7h à 13h ; certains étals ouvrent aussi l'après-midi, d'après la page que la Ville consacre aux Halles. (L'annuaire des équipements de la même Ville n'affiche que « LUN/MAR/MER/JEU/VEN » ; la page dédiée aux Halles et la page des marchés, qui écrit « ouvertes tous les jours même le dimanche », sont retenues.)",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie, charcuterie et volailles",
+      "Poissons et coquillages",
+      "Fromages, crèmerie et œufs",
+      "Boulangerie et pâtisserie",
+      "Olives et condiments",
+      "Épicerie fine et café",
+      "Traiteurs et pâtes fraîches"
+    ],
+    "description": "Marché couvert du centre-ville, inauguré en 1884 et rénové de 1988 à 1991, dont la Ville est propriétaire des murs. La liste des étaliers qu'elle publie en février 2026 compte une soixantaine de stands alimentaires, rangés par métier : primeurs, bouchers et volaillers, fromagers, poissonniers, boulangers, marchands d'olives.",
+    "telephone": "04 66 76 71 72",
+    "site_web": "https://www.nimes.fr/que-faire-a-nimes/commerces/les-halles-de-nimes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6a%20Rue%20G%C3%A9n%C3%A9ral%20Perrier%2C%2030000%20N%C3%AEmes",
+    "image_url": "/images/marchands/halles-de-nimes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-jean-jaures-nimes",
+    "nom": "Marché des producteurs de l'avenue Jean-Jaurès",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.834661,
+    "lon": 4.351057,
+    "adresse": "Avenue Jean-Jaurès, 30900 Nîmes",
+    "horaires": "Vendredi de 8h à 13h, d'après la page des marchés de la Ville. (Le magazine municipal, en mars 2025, écrit que les stands de créateurs et de brocante, côté place Jules-Guesde, sont présents de 7h à 13h.)",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et coquillages",
+      "Viandes et charcuteries",
+      "Fromages",
+      "Pains",
+      "Miel et confitures",
+      "Huiles d'olive",
+      "Vins"
+    ],
+    "description": "Marché de producteurs installé depuis plus de trente ans sur les allées de l'avenue Jean-Jaurès, de la place Jules-Guesde à la rue du Mail. Le magazine de la Ville y compte 73 commerçants alimentaires chaque vendredi, à côté de neuf stands de créateurs et de brocante ; le maraîcher bio El Patio Bio et la brandade La Nîmoise, qui ont leur propre fiche, y vendent aussi.",
+    "telephone": "04 66 76 71 72",
+    "site_web": "https://www.nimes.fr/mon-quotidien/commerces/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Jean-Jaur%C3%A8s%2C%2030900%20N%C3%AEmes",
+    "image_url": "/images/marchands/marche-des-producteurs-jean-jaures-nimes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "mas-des-agriculteurs-nimes",
+    "nom": "Le Mas des Agriculteurs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.810115,
+    "lon": 4.369994,
+    "adresse": "581 Rue Michel Debré, 30000 Nîmes",
+    "horaires": "Du lundi au samedi de 8h30 à 19h, le dimanche de 9h à 12h30, d'après le site du magasin. (La page de la Chambre d'agriculture du Gard annonce en été une ouverture tous les jours de 8h30 à 19h30, et de 9h à 13h les jours fériés.)",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes de la boucherie",
+      "Fromages, yaourts et lait",
+      "Œufs",
+      "Pain",
+      "Poissons et coquillages",
+      "Vins du Gard",
+      "Huiles d'olive et miels"
+    ],
+    "description": "Magasin de producteurs de 960 m² qui vend la production de ses 180 actionnaires, agriculteurs et coopératives du Gard, avec une boucherie approvisionnée par des éleveurs gardois ou des départements voisins et plus de 500 vins gardois. Il est certifié par Ecocert comme détaillant de produits biologiques, mais vend aussi des produits qui ne le sont pas.",
+    "telephone": "04 48 76 02 10",
+    "site_web": "https://www.lemasdesagriculteurs.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Mas%20des%20Agriculteurs%2C%20581%20Rue%20Michel%20Debr%C3%A9%2C%2030000%20N%C3%AEmes",
+    "image_url": "/images/marchands/mas-des-agriculteurs-nimes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maison-de-la-brandade-la-nimoise",
+    "nom": "Maison de la Brandade La Nîmoise",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.838103,
+    "lon": 4.359024,
+    "adresse": "7 Rue de la Madeleine, 30000 Nîmes",
+    "horaires": "Du lundi au vendredi de 9h à 13h et de 15h30 à 19h ; le samedi de 9h à 19h sans interruption ; fermé le dimanche. Horaires de fin d'année affichés en magasin. La maison tient aussi un étal au marché des producteurs de l'avenue Jean-Jaurès, le vendredi de 7h30 à 12h30.",
+    "produits": [
+      "Brandade de morue « La Traditionnelle »",
+      "Brandade de morue « L'Authentique »",
+      "Brandade de morue « La Naturelle »",
+      "Brandade naturelle à ingrédients biologiques"
+    ],
+    "description": "Boutique d'une brandade de morue artisanale fabriquée dans l'atelier de la maison, rue Guy Arnaud à Nîmes, à deux pas des Halles. Une de ses recettes, dont 47 % des ingrédients sont issus de l'agriculture biologique, est certifiée par Ecocert ; les autres ne le sont pas.",
+    "telephone": "04 34 04 26 96",
+    "site_web": "https://lanimoise.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7%20Rue%20de%20la%20Madeleine%2C%2030000%20N%C3%AEmes",
+    "image_url": "/images/marchands/maison-de-la-brandade-la-nimoise.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "el-patio-bio-caissargues",
+    "nom": "El Patio Bio",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.802558,
+    "lon": 4.395456,
+    "adresse": "Chemin de la Carreirasse, 30132 Caissargues",
+    "horaires": "Pas de magasin ouvert au public : vente sur commande passée sur le site. Retrait du panier à l'exploitation le mardi et le jeudi à partir de 16h (plus tôt en précisant l'heure), commande la veille ; ou le vendredi matin au marché des producteurs de l'avenue Jean-Jaurès à Nîmes, commande la veille avant 7h.",
+    "produits": [
+      "Pommes de terre",
+      "Échalotes et petits oignons",
+      "Légumes-fruits de saison",
+      "Légumes feuilles",
+      "Aromates et jeunes pousses"
+    ],
+    "description": "Exploitation maraîchère aux portes de Nîmes, certifiée biologique par Ecocert depuis 1999, qui écrit ne vendre que les légumes et les aromates qu'elle produit, cueillis le matin du retrait. Elle vend aussi le mercredi matin au marché de la place Albert-Ier, à Montpellier.",
+    "telephone": "06 22 60 48 56",
+    "site_web": "https://www.elpatiobio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=El%20Patio%20Bio%2C%20Chemin%20de%20la%20Carreirasse%2C%2030132%20Caissargues",
+    "image_url": "/images/marchands/el-patio-bio-caissargues.jpg",
+    "a_confirmer": true
   }
 ]

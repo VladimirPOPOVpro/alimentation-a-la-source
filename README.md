@@ -1436,9 +1436,45 @@ prioritaires en cas de conflit.
      ouvert à cette adresse. Une correction ne compte pas dans la limite de deux suppressions par
      passe.
 
+118. **Un numéro de voirie hors de la plage que la Base Adresse Nationale connaît sur la voie ne
+     sert à aucun contrôle.** Le registre des entreprises et celui de l'Agence Bio inscrivent le
+     maraîcher El Patio Bio, à Caissargues, au « 5180 chemin de la Carreirasse ». La Base Adresse
+     Nationale ignore ce numéro, mais elle en connaît d'autres sur la même voie, et ils vont du
+     1367 au 1661 sur les quelques centaines de mètres où tombent le marqueur du site, le point du
+     registre et le premier point de l'Agence Bio : un
+     5180 n'a pas de place dans cette numérotation. La règle 27, qui écarte un point dont le numéro
+     retourné s'écarte de plus de 300 du numéro publié, suppose un numéro publié vraisemblable ; ici
+     elle écarterait tous les points, y compris le bon. Les points divergent d'ailleurs entre eux :
+     le marqueur que le groupement publie sur sa page « Nous trouver » se retourne sur le chemin de
+     la Carreirasse à 108 m, le point du registre des entreprises sur le 1621 à 22 m, 493 m plus à
+     l'est, et la seconde adresse que l'Agence Bio déclare sur une autre voie, à près d'un kilomètre au sud.
+     **Critère** : quand le numéro publié est hors de la plage des numéros que la Base connaît sur
+     la voie, on ne l'inscrit pas dans `adresse` et on n'applique pas l'écart de la règle 27 ; on
+     retient le marqueur que le commerce publie lui-même, à la condition que son contrôle inverse
+     rende la bonne voie à moins de 150 m, comme à la règle 50. La fiche passe en `a_confirmer`, et
+     son champ `horaires` doit rendre le déplacement inutile sans contact préalable — ici, un retrait
+     sur commande, où l'exploitant indique le chemin. Sans marqueur du commerce, on redescend à la
+     règle 10 à partir du centre de la voie.
+
+119. **Un marché dont l'autorité publie une composition majoritairement non alimentaire n'entre
+     pas.** La règle 9 n'écarte un marché que si aucune source ne le rattache à l'alimentaire ; elle
+     a été écrite pour des marchés sans horaires, pas pour des marchés dont on connaît le détail des
+     étals. Le magazine de la Ville de Nîmes publie la composition du marché du Chemin-Bas
+     d'Avignon, le mardi : 26 commerçants, dont 18 pour le bazar, la vaisselle, les tissus, le
+     prêt-à-porter, le linge, la lingerie, la téléphonie et la cosmétique, et 8 pour l'alimentaire
+     — un poissonnier, un boulanger, deux primeurs, deux marchands d'olives et de légumes, un
+     marchand de plantes aromatiques. La seule photographie qu'elle en publie ne montre que des
+     portants de vêtements et des étals de bijoux. Une fiche sur une carte de l'alimentation en
+     circuit court enverrait le visiteur dans un marché aux trois quarts textile. **Critère** : quand
+     l'autorité publie le décompte des étals par activité, le marché ne se publie que si les étals
+     alimentaires en font au moins la moitié ; en dessous, il passe en « Pistes non publiées ». Le
+     marché du Mas-de-Mingue, dans la même série, compte 7 étals alimentaires sur 8 : il remplit ce
+     critère, et ce n'est pas lui qui l'a arrêté (voir les pistes de Nîmes). Sans décompte publié,
+     la règle 9 continue de s'appliquer telle quelle.
+
 ## Marchands à confirmer
 
-388 fiches sur 421 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+393 fiches sur 426 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1849,8 +1885,13 @@ prioritaires en cas de conflit.
 - **Vrac en Vert** (Saint-Étienne) (épicerie sans emballage ouverte en 2017 au Crêt de Roc, rue Roger-Salengro, et installée rue de la République depuis 2022 : on apporte ses contenants, ils sont tarés à l'entrée, on ne paie que le contenu. Certificat **Bureau Alpes Contrôles en vigueur** du 14 août 2026 au 31 décembre 2027, d'où le pilier `environnement`. Horaires **concordants** entre le bandeau du magasin et la fiche Apidae publiée par Partir ici, portail de la Région Auvergne-Rhône-Alpes, qui les date du 2 janvier 2025 au 31 décembre 2027 et ajoute les onze fermetures exceptionnelles reprises dans la fiche. Les produits croisent les productions déclarées au registre de l'Agence Bio et les ardoises de prix lisibles sur la photographie, règle 74 — dont un « POIVRON FRANCE (42) » qui dit le rayon d'approvisionnement. Le 09 est le numéro que le magasin donne comme son contact ; l'adresse électronique n'est pas reprise, les prénoms des deux fondatrices publiés par Partir ici non plus. `site_web` reste en `http://` : le domaine ne répond pas en `https`. Point BAN, point de l'Agence Bio et certificat s'accordent sur le 22 rue de la République, le registre à 2 m. Photo : l'intérieur du magasin publié par Partir ici, silos à vrac et cageots de tomates, courgettes, poireaux et aubergines, aucun visage)
 - **Cidrerie du Pilat** (Saint-Étienne) (cidrerie fondée en 2024 par trois associés, qui ne presse que des pommes du Pilat. Certificat **Bureau Alpes Contrôles en vigueur** du 28 janvier 2026 au 31 mars 2027, activité « Préparation », répertoire de produits « Cidre » et « Jus de pomme effervescent » — d'où le pilier `environnement`. L'adresse est vérifiée **trois fois** : la page de contact, le registre des entreprises, et l'étiquette d'une bouteille photographiée par la cidrerie, où se lisent « 24 rue Peyret Lallier 42100 Saint-Étienne », « CIDRERIEDUPILAT.FR » et le logo AB — règle 74. **Aucun horaire d'ouverture publié** : ni la page d'accueil ni la page de contact n'en donnent, et l'onglet « Revendeurs » du site pointe vers une carte, pas vers une boutique ; le champ le dit plutôt que d'inventer. Le mobile est celui que la cidrerie inscrit sous « Téléphone » sur sa propre page de contact, pour les particuliers comme pour les professionnels ; l'adresse électronique et le prénom du maître de chai ne sont pas repris. Photo : la tireuse du chai, une main tenant une bouteille sous le bec de remplissage, recadrée sous la ligne d'épaule, aucun visage)
 - **Maison Fouillat** (Saint-Étienne) (boulangerie de plus de cent ans du centre-ville, catégorie `producteur` au titre de la règle 4 : l'artisan cuit sur place. Certificat **Bureau Veritas consultable** pour l'agriculture biologique au 18 rue Charles de Gaulle, engagement d'avril 2019 ; la seule production certifiée au registre de l'Agence Bio est le **pain frais**, et la description le dit plutôt que de laisser croire la boutique entière certifiée. **Deuxième fiche publiée au titre de la règle 115, et contradiction interne** : le panneau « HORAIRES D'OUVERTURE » de la devanture, que la boulangerie photographie elle-même, annonce le samedi 6h-13h30, quand le texte de son site annonce 6h-18h — les deux sortent, règle 5, avec l'invitation à vérifier. Du lundi au vendredi, panneau et site s'accordent sur 6h-19h30. La maison nomme ses fournisseurs locaux, et ce sont eux qui sont repris : le miel de la Miellerie des Séquoias, à Saint-Étienne, les glaces de la ferme des Délices Foréziens, à Saint-Cyr-les-Vignes. Le second magasin, à Saint-Cyprien, n'a pas de fiche : il est hors de la commune visée. Les prénoms et le patronyme des gérants sont publiés par le site, mais « MAISON FOUILLAT » est l'enseigne déclarée au registre — c'est elle qui est portée, règle 3 — et l'adresse électronique n'est pas reprise. Le site se contredit sur ses effectifs, « neuf salariés » puis « 18 salariés répartis sur les deux sites », et sur son ancienneté, « vingt-cinq ans » puis « 26 ans » : aucun de ces chiffres n'est dans la fiche. Point BAN du 18 rue Charles de Gaulle et point de l'Agence Bio identiques au mètre. Photo : la devanture publiée par la boulangerie, **recadrée sur sa moitié gauche** — enseigne, store rayé et vitrine gravée « La CULTURE du BON PAIN » — parce que les deux gérants posent au centre de l'original, règle 46)
+- **Les Halles de Nîmes** (Nîmes) (marché couvert de la Ville, 6a rue Général Perrier, catégorie `marche` et piliers des halles déjà publiées — Criée de Rennes, Merville à Lorient. **Contradiction interne à la Ville, tranchée par la règle 80** : la page « Les Halles de Nîmes » écrit « tous les jours de l'année, de 7h00 à 13h00, y compris les jours fériés », la page des marchés « ouvertes tous les jours même le dimanche », et la fiche de l'annuaire des équipements « LUN/MAR/MER/JEU/VEN » sans heure ; la page dont l'objet déclaré est l'accès et les horaires l'emporte, l'annuaire est cité dans le champ. Aucun étalier n'est nommé : `produits` reprend les **rubriques par métier** de la liste des étaliers que la Ville publie (document daté du 3 février 2026), au sens de la règle 69 — 16 étals de boucherie, charcuterie et volailles, 12 primeurs, 7 crémiers et fromagers, 6 boulangers et pâtissiers, 6 marchands d'olives et condiments, 6 poissonniers, 4 épiceries, 4 spécialités du monde, soit une soixantaine d'étals alimentaires ; plusieurs enseignes de cette liste sont des prénoms ou des noms de famille, et aucune n'est reprise. Le téléphone est celui que la Ville inscrit sur la fiche d'annuaire des Halles. Point BAN du « 6a Rue Général Perrier » (0,972) ; la Ville publie pour les Halles un point à 31 m. Photo : le stand de fruits de la page de la Ville, **recadrée sur ses 640 px de gauche** pour écarter deux commerçants au fond de l'allée, règle 46 ; la cliente qui reste au premier plan est vue de dos, visage caché)
+- **Marché des producteurs de l'avenue Jean-Jaurès** (Nîmes) (la Ville le publie sous le nom « Marché des Producteurs », « Producteurs agricoles : Jean Jaurès 8h - 13h » le vendredi ; son magazine Vivre Nîmes, en mars 2025, le situe « de la place Jules-Guesde à la rue du Mail », y compte 73 commerçants alimentaires et en donne la liste des familles de produits, reprise dans `produits`. **Écart d'heure consigné** : le même article écrit que les stands de créateurs et de brocante sont présents « de 7h à 13h, côté Jules-Guesde » ; la page de référence de la Ville est retenue pour le marché, règle 44. Aucun commerçant cité par l'article n'est nommé. **Point** : la Base Adresse Nationale ne connaît que le centre de l'avenue, qui mesure près d'un kilomètre ; la Ville publie pour ce marché un point dans son annuaire, dont le contrôle inverse rend le 42b et le 25b avenue Jean-Jaurès à 32 m, entre le 1 de l'avenue et la rue du Mail, que la Base connaît toutes deux — point retenu au titre de la règle 64. Deux autres fiches de la passe y vendent, El Patio Bio et La Nîmoise, qui le disent sur leur propre site. Photo : la vitrine d'un fromager, insérée dans cet article du magazine et absente de la page des marchés comme des articles consacrés aux autres marchés (règle 91), **recadrée sous la ligne des épaules** : les vendeurs et les clients de l'original sont hors cadre, ne restent qu'une main et les meules ; 966 × 752)
+- **Le Mas des Agriculteurs** (Nîmes) (magasin de producteurs, catégorie `producteur` au titre des règles 8 et 105 : la page de la Chambre d'agriculture du Gard écrit qu'il « commercialise la production de ses 180 actionnaires, agriculteurs et coopératives gardois ». **Règle 6** : l'opérateur que le registre de l'Agence Bio nomme « MAISON DES PRODUCTEURS - LE MAS DES AGRICULTEURS » est une société active au registre des entreprises, NAF 47.29Z, un établissement ouvert, domiciliée au Mas de l'Agriculture, 1120 route de Saint-Gilles ; certificat Ecocert **engagé depuis avril 2019**, activité « Détaillant », fruits et légumes et boulangerie en bio, avec la mention de mixité — d'où le pilier `environnement` (règles 39 et 43) et la phrase de la description qui dit que tout n'est pas bio. `venteParticuliers` est à faux dans ce même enregistrement, que le magasin de 960 m² contredit : règle 40. **Horaires** : le site du magasin écrit « du lundi au samedi de 8h30 à 19h et le dimanche de 9h à 12h30 » ; la Chambre d'agriculture donne un régime d'été et d'hiver, cité dans le champ — l'intéressé l'emporte, règle 104. **Point, par la règle 37** : l'adresse de visite est le 581 rue Michel Debré, numéro que la Base Adresse Nationale ignore ; le magasin ne publie aucune coordonnée (sa carte intégrée ne cherche que l'adresse), le point du registre et celui du certificat désignent le siège sur la route de Saint-Gilles, autre voie (règles 24 et 30), et le lien « Localiser » de la Chambre pointe sur sa propre adresse de la même route. La Base connaît le 270, le 400 et le 570 de la rue Michel Debré, espacés à peu près au mètre ; le 581 s'extrapole à 11 unités du 570 et son contrôle inverse rend « 570 Rue Michel Debré » à 13 m. Les prénoms et noms qui figurent dans les mentions légales du site ne sont pas repris, ni l'adresse électronique. Photo : l'intérieur du magasin publié par son site — mur d'accueil, verrière et « coin du bio » —, sans personne, 900 × 1200)
+- **Maison de la Brandade La Nîmoise** (Nîmes) (brandade de morue fabriquée dans l'atelier de la maison, 115 rue Guy Arnaud, fermé au public, et vendue dans sa boutique du 7 rue de la Madeleine : la fiche va au point de vente, règle 20, catégorie `producteur` au titre des règles 4 et 73 — la morue ne se pêche pas dans le Gard, la transformation et la vente directe se font à Nîmes. **Registre** : la société de fabrication est active et son établissement de la rue Guy Arnaud ouvert, NAF 10.85Z ; celui de la rue Émile Jamais, que porte encore une carte de visite publiée sur le site, est **fermé** — l'adresse de l'atelier est donc celle du site ; la boutique est exploitée par une seconde société, active au 7 rue de la Madeleine sous l'enseigne « La Maison de la Brandade », NAF 47.11B, règle 7. **Pilier `environnement` refusé** : le certificat Ecocert de la société de fabrication est engagé, mais la boutique en ligne décrit la seule recette concernée comme certifiée avec « 47 % de la composition de la recette » en ingrédients biologiques — ce n'est pas un produit biologique, et les trois autres recettes ne sont pas certifiées ; la description le dit, règle 39. `produits` ne reprend que les recettes vendues sous leur nom dans la boutique en ligne. Le site nomme longuement la famille qui tient la maison depuis plusieurs générations : aucun de ces noms n'est repris. **Photo thématique, règle 1** : la façade photographiée par la maison porte, peint sur son panneau de droite, le nom de l'artisan, et deux personnes se tiennent dans l'embrasure de la porte ; aucun recadrage au-dessus de 600 px n'écarte à la fois le nom (règle 75) et les silhouettes, et la seconde photographie de devanture est un portrait. La fiche montre donc trois bocaux de la maison, photographie du site **recadrée** pour retirer la pastille « x12 » d'un lot en vente, 960 × 480 ; elle ne prétend pas montrer la boutique. Point BAN du numéro, à 93 m de celui des Halles)
+- **El Patio Bio** (Caissargues) (groupement agricole d'exploitation en commun, actif au registre, NAF 01.13Z ; certificat Ecocert **engagé depuis mars 1999**, productions déclarées en 2026 — légumes frais, légumes à feuilles, aromatiques, fraises, figues, agrumes — et `venteParticuliers` à vrai. **Cinquième point de la passe, au titre de la règle 52** : Caissargues appartient à la communauté d'agglomération de Nîmes Métropole, comme Nîmes, et le point est à **4,2 km** du barycentre des quatre fiches nîmoises. **Sans magasin, règle 84** : la page « Formule de vente » du site décrit la commande en ligne, le retrait à l'exploitation le mardi et le jeudi à partir de 16h, et le retrait au marché de Nîmes le vendredi matin ; le champ `horaires` commence par le dire. Deux absences annoncées en tête du site, du 15 au 20 août et au marché de Montpellier jusqu'au 2 septembre 2026, sont passées. **Point, par la règle 118** : numéro « 5180 » des deux registres hors de la plage que la Base connaît sur la voie, donc non inscrit ; marqueur de la page « Nous trouver » retenu. Le lieu-dit que le site ajoute à l'adresse n'est pas repris, et le téléphone est celui que le groupement publie pour ses commandes. Photo : les planches de culture et le mas au fond, publiées dans la galerie du site, sans personne, 1920 px réduits à 1280 ; les autres photographies de la galerie montrent des mains au travail ou un visage, et le fichier d'une photographie de cagette porte un prénom : non utilisées)
 
-Les 421 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 426 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1878,6 +1919,81 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Nîmes
+
+Département visé : le **Gard (30)**, déficit **4,7071** au titre de la règle 41, le plus fort des
+départements éligibles — La Réunion vient devant avec 5,4320 mais reste écartée par la règle 93.
+Région 76, contre la région 84 à la passe précédente dans la Loire : la réserve de la règle 41.c est
+respectée. Les cinq fiches ramènent le déficit du 30 à **-0,2370**. Commune retenue : **Nîmes**,
+151 839 habitants, aucune fiche jusqu'ici, et de très loin la plus peuplée du département — Alès,
+deuxième, en compte 46 125. Quatre fiches sont dans Nîmes ; la cinquième, El Patio Bio, est à
+Caissargues, dans Nîmes Métropole, au titre de la règle 52, parce que Nîmes n'a rendu que quatre
+points vérifiables (voir ci-dessous).
+
+**L'office de tourisme de Nîmes s'interdit.** Le `robots.txt` de `nimes-tourisme.com` porte
+`User-agent: ClaudeBot` suivi de `Disallow: /`, au milieu d'une liste d'agents d'IA exclus. Règle 77 :
+le site n'a été ouvert pour aucun fait. La Ville (`nimes.fr`), son magazine (`vivrenimes.fr`) et la
+Chambre d'agriculture du Gard ont fourni ce qu'il fallait.
+
+**Marché du Chemin-Bas d'Avignon** — mardi de 8h à 13h, place du Professeur Pierre-Daudet, publié
+par la Ville et géocodable au numéro. Écarté par la **règle 119**, écrite pour lui : 8 étals
+alimentaires sur 26 dans le décompte du magazine municipal, et une seule photographie, textile et
+bijoux, avec une passante reconnaissable.
+
+**Marché du Mas-de-Mingue** — jeudi, 7 étals alimentaires sur 8. **Lieu contradictoire et non
+géocodable** : la fiche d'annuaire de la Ville le place « Place Pantagruel », le magazine municipal de
+mars 2025 écrit qu'il a quitté la rue Rabelais pour s'installer « définitivement » « place
+Agrippa-d'Aubigné, derrière l'église Notre-Dame-du-Salut » ; la Base Adresse Nationale ne connaît
+aucune des deux places, et la rue Agrippa-d'Aubigné qu'elle propose tombe à 200 m du point de
+l'annuaire. Les heures divergent aussi, 8h-13h sur la page des marchés, 7h-13h dans l'article.
+Déblocage : une page de la Ville qui nomme la place avec une adresse que la Base connaît.
+
+**Marchés de Beausoleil, de Valdegour et de Nîmes Ouest-Goethe** — la Ville les classe
+« Bazar / Alimentaire » ou « Textile / Alimentaire » sans décompte des étals ; ils relèvent donc de
+la règle 9, et ne sont pas écartés, seulement pas instruits : la passe a été limitée à cinq fiches.
+À reprendre au prochain passage, avec la règle 119 si un décompte est publié entre-temps.
+
+**Les Comptoirs de la Bio Nîmes** (295 cours Jean Monnet) et **Satoriz Nîmes** (115 avenue des
+Français Libres) — deux magasins de réseau ouverts, registre actif, certificats engagés au registre
+de l'Agence Bio, horaires publiés par leur réseau : du lundi au samedi 8h30-19h30 et le dimanche
+9h-13h pour le premier, du lundi au samedi 8h30-19h30 pour le second. Ni l'un ni l'autre ne nomme un
+seul producteur — « nos producteurs locaux » pour le premier, rien pour le second : **règle 86**, non
+publiés. Déblocage : une liste de producteurs de la région publiée par le magasin.
+
+**Croc'AMAP** — AMAP du centre-ville, distribution le mercredi de 17h30 à 18h30 près du cinéma Le
+Sémaphore, d'après l'annuaire du réseau national des AMAP. Son site, hébergé chez Jimdo, répond
+**403** derrière Cloudflare à toutes les requêtes et au récupérateur de pages : aucune source
+indépendante de l'annuaire, qui ne porte pas de date de mise à jour. L'annuaire nomme les paysans :
+aucun nom n'est repris ici. Déblocage : le site de l'AMAP lisible, ou une page de la Ville.
+
+**La Moisson Rouge** — paysan-boulanger, pains au levain de blés anciens cuits au feu de bois,
+société active au registre depuis septembre 2023, certificat Ecocert. Les seuls horaires trouvés,
+« les mardis et vendredis de 16 h à 19 h », viennent d'un article de radio de **février 2021**,
+antérieur à la société actuelle ; la page du groupement d'achat qui la référence n'en donne aucun, et la recherche de photographie n'a pas été menée faute d'horaires. Déblocage : un horaire publié après 2023.
+
+**ESAT Osaris** — l'établissement vend au Domaine de la Bastide les légumes biologiques de ses
+jardins (certificat engagé, `venteParticuliers` à vrai), mais son site est « en refonte » et ne dit
+plus rien de cette vente ; seuls des annuaires médico-sociaux et un réseau social la décrivent.
+Déblocage : le nouveau site, avec les jours de vente.
+
+**Greenouille** — inscrit au registre de l'Agence Bio comme distributeur de paniers locavores ; son
+site ne présente plus qu'une recyclerie. Hors sujet.
+
+**Masa Mama**, boulangerie biologique certifiée — le registre de l'Agence Bio ne lui connaît que des
+réseaux sociaux, inaccessibles d'ici, et aucune page lisible n'a été trouvée : ni horaires ni photographie. Déblocage : une page lisible.
+
+**Écartés pour doute sur une personne** (règle absolue de `MODERATION.md`, sans nom) : Nîmes, cinq
+exploitations en entreprise individuelle — apiculture, plantes aromatiques, pépinière, oléiculture —
+dont l'adresse déclarée peut être un domicile ; Nîmes, deux boulangeries dont l'enseigne est bâtie sur
+un nom de famille. Ces pistes ne se rouvrent pas.
+
+**Écartés par `MODERATION.md` ou par le registre.** Le registre de l'Agence Bio du Gard compte 3 067
+opérateurs, dont 137 inscrits à une adresse nîmoise ; une grande part sont des supermarchés
+généralistes certifiés — Carrefour, Carrefour Market, Carrefour City et Express, Intermarché, Géant
+Casino, Monoprix, Franprix, Leclerc, Lidl — ou des grossistes, NAF 46.xx. Les certificats **arrêtés**
+de plusieurs boulangeries et magasins nîmois (dont Bio c' Bon, La Vie Claire, l'ancien Biocoop du
+centre commercial des 7 Collines) n'ont pas été suivis.
 
 ### Pistes non publiées à Saint-Étienne
 
