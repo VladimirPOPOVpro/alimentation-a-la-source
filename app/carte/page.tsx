@@ -1,19 +1,14 @@
 import type { Metadata } from "next";
 import CarteExplorer from "@/components/Map/CarteExplorer";
-import { nearestList } from "@/lib/spatialIndex";
-import { HOSPITAL } from "@/lib/geo";
 
 export const metadata: Metadata = {
   title: "Carte des marchands · L'Alimentation à la Source",
 };
 
 export default function CartePage() {
-  // Ce que le serveur envoie dans la page : de quoi afficher immédiatement le
-  // rayon par défaut autour de l'hôpital, et rien de plus. Le reste arrive par
-  // l'API au fil des déplacements — c'est ce qui permet à la page de garder la
-  // même taille quand la base passera de 40 marchands à des milliers.
-  const initial = nearestList(HOSPITAL, { radiusKm: 30, limit: 80 }).resultats;
-
+  // La page ne transporte aucun marchand : la carte demande à l'API ce qui
+  // entre dans l'écran, et rien de plus. C'est ce qui permet à la page de
+  // garder la même taille quelle que soit la taille de la base.
   return (
     <div className="flex flex-1 flex-col">
       <div className="border-b border-brand-green-light bg-brand-green-light/30 px-4 py-3 sm:py-6 sm:px-6">
@@ -21,11 +16,12 @@ export default function CartePage() {
           La carte des marchands
         </h1>
         <p className="mt-0.5 hidden text-sm text-foreground/60 sm:block">
-          Point de départ par défaut : l&apos;Hôpital Bonnet. Vous pouvez
-          aussi saisir une adresse ou utiliser votre position.
+          Déplacez la carte, ou saisissez une adresse pour vous y rendre. Les
+          distances sont mesurées depuis l&apos;Hôpital Bonnet, ou depuis le
+          point que vous choisissez.
         </p>
       </div>
-      <CarteExplorer initial={initial} />
+      <CarteExplorer />
     </div>
   );
 }

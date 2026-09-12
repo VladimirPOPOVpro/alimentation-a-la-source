@@ -1444,7 +1444,7 @@ prioritaires en cas de conflit.
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
 - **Domaine de la Bouverie** (horaires à préciser)
 - **Les Fermes Jourdan** (horaires et téléphone à trouver)
-- **Le Rucher des Myrtes** (nom du producteur à confirmer)
+- **Le Rucher des Myrtes** (activité et vente de miel confirmées par téléphone le 12 septembre 2026, information transmise par le responsable du site ; restent à confirmer le libellé de l'enseigne — le registre des entreprises ne déclare aucune enseigne sur l'avenue, seulement une entreprise individuelle de vente hors magasin — et la gamme au-delà du miel, pollen et miel en rayon)
 - **AMAP Fréjus** (plusieurs AMAP existent sur le secteur, point de distribution à confirmer)
 - **Cueillette du Rocher** (horaires à préciser)
 - **La Gaudine** (horaires à préciser)
@@ -6368,16 +6368,24 @@ Le choix est mémorisé dans le navigateur, et toutes les distances sont recalcu
 
 C'est ce qui permet au site de sortir du Var sans rien changer au code : il suffit d'ajouter des marchands ailleurs dans `data/marchands.json`.
 
-## Deux façons de chercher, et pourquoi la carte tient la charge
+## Comment la carte cherche, et pourquoi elle tient la charge
 
-Sur `/carte`, un sélecteur propose :
+Sur `/carte`, on se déplace librement : la carte charge et décharge les
+marchands au fil des déplacements, et regroupe automatiquement ce qui est trop
+dense pour être lisible. Cliquer sur un cercle vert zoome juste assez pour
+qu'il se sépare. Le panneau pose deux questions distinctes — **« Que
+cherchez-vous ? »** (un produit ou un marchand, filtré sur la vue, avec un
+rattrapage sur toute la France quand la vue ne rend rien) et **« Où ? »** (une
+adresse ou une ville, pour y emmener la carte). Le point de référence — l'Hôpital
+Bonnet par défaut, ou l'adresse choisie — ne borne plus rien : il sert à mesurer
+les distances affichées et à recentrer la carte quand on le change.
 
-- **Autour de moi** — le rayon classique autour du point de référence, avec le
-  cercle, la liste triée par distance et le curseur de rayon ;
-- **Explorer** — on se déplace librement : la carte charge et décharge les
-  marchands au fil des déplacements, et regroupe automatiquement ce qui est trop
-  dense pour être lisible. Cliquer sur un cercle vert zoome juste assez pour
-  qu'il se sépare.
+Le mode « Autour de moi » (cercle, curseur de rayon, liste bornée au rayon) a
+été retiré le 12 septembre 2026 à la demande du responsable du site : il
+doublait l'exploration libre, alourdissait le panneau, et sur téléphone son
+champ d'adresse arrivait en premier sous la carte, si bien que les visiteurs y
+tapaient un produit et n'obtenaient que des rues d'autres départements. L'API
+`?lat&lon&radius` reste en place, elle n'est simplement plus appelée par la page.
 
 ### Le point important : la taille de la base n'entre pas dans l'équation
 
@@ -6395,8 +6403,7 @@ Désormais **le navigateur ne reçoit que ce qu'il affiche** :
   vue ?*, *qu'y a-t-il autour de ce point ?*, *où trouve-t-on ce mot-clé en
   France ?* ;
 - `lib/useViewportMerchants.ts` demande une zone un peu plus large que l'écran et
-  la garde : se déplacer un peu ne déclenche aucune requête ; faire glisser le
-  curseur de rayon de 15 à 60 km n'en déclenche qu'une seule.
+  la garde : se déplacer un peu ne déclenche aucune requête.
 
 Mesuré sur un jeu synthétique réparti comme le sont les commerces (60 % groupés
 autour de pôles urbains) :

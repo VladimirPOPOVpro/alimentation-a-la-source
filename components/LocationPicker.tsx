@@ -172,8 +172,11 @@ export default function LocationPicker() {
 
   return (
     <div ref={rootRef} className="relative">
-      <label htmlFor={`${listId}-input`} className="sr-only">
-        Chercher autour d&apos;une adresse
+      <label
+        htmlFor={`${listId}-input`}
+        className="mb-1 block text-xs font-semibold uppercase tracking-wide text-foreground/50"
+      >
+        Où ?
       </label>
 
       <div className="flex gap-2">
@@ -204,7 +207,7 @@ export default function LocationPicker() {
             }
             autoComplete="off"
             value={query}
-            placeholder="Votre adresse, votre ville…"
+            placeholder="Une adresse, une ville — pour y aller"
             onChange={(e) => onQueryChange(e.target.value)}
             onFocus={() => setOpen(true)}
             onKeyDown={onKeyDown}
@@ -286,14 +289,15 @@ export default function LocationPicker() {
         </div>
       )}
 
-      {/* Centre actif : le visiteur doit toujours savoir d'où l'on mesure. */}
+      {/* Point de référence actif : le visiteur doit toujours savoir d'où
+          l'on mesure les distances. */}
       <div className="mt-2 flex items-center gap-1.5 text-xs text-foreground/60">
         <CenterIcon
           className="h-3.5 w-3.5 shrink-0 text-brand-green"
           aria-hidden="true"
         />
         <span className="min-w-0 flex-1 truncate">
-          Autour de <span className="font-medium">{center.label}</span>
+          Distances depuis <span className="font-medium">{center.label}</span>
         </span>
         {center.kind !== "hopital" && (
           <button

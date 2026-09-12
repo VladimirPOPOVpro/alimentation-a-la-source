@@ -1,11 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import type {
-  MapPoint,
-  MapCluster,
-  MerchantListEntry,
-} from "./spatialIndex";
+import type { MapPoint, MapCluster } from "./spatialIndex";
 import type { MerchantCategory } from "./types";
 import { ALL_CATEGORIES } from "./categories";
 
@@ -256,107 +252,5 @@ export function useRechercheNationale(
   return {
     resultats: demande && aJour ? etat.resultats : [],
     chargement: Boolean(demande) && !aJour,
-  };
-}
-
-/**
- * Les marchands d'un rayon autour du point de référence (mode « autour de moi »).
- *
- * Même discipline que la vue : on demande un rayon un peu plus large que celui
- * affiché et on garde le résultat. Faire glisser le curseur de 15 à 18 km ne
- * déclenche donc rien — c'est important, un curseur émet des dizaines
- * d'événements par seconde.
- *
- * Ni les catégories ni le mot-clé ne sont envoyés : ils se recalculent
- * instantanément sur la liste déjà en main, alors qu'un aller-retour par touche
- * frappée serait à la fois lent et inutile.
- */
-export function useProches(
-  center: { lat: number; lon: number },
-  radiusKm: number,
-  maxRadiusKm: number
-): {
-  resultats: MerchantListEntry[] | null;
-  tronque: boolean;
-  chargement: boolean;
-  erreur: string | null;
-} {
-  const [etat, setEtat] = useState<{
-    clef: string;
-    resultats: MerchantListEntry[];
-    tronque: boolean;
-  } | null>(null);
-  const [erreur, setErreur] = useState<string | null>(null);
-  const [chargement, setChargement] = useState(false);
-  // Point de référence pour lequel on a déjà élargi la recherche au maximum.
-  const [elargi, setElargi] = useState<string | null>(null);
-
-  const clef = `${center.lat.toFixed(4)},${center.lon.toFixed(4)}`;
-
-  // Ce que la liste doit au minimum couvrir. Normalement le rayon affiché ;
-  // le maximum une fois qu'une réponse vide a montré qu'il n'y a rien près
-  // d'ici — c'est ce qui permet de dire « le plus proche est à 42 km » plutôt
-  // que « rien ici », et donc de proposer d'élargir.
-  const besoin = elargi === clef ? maxRadiusKm : radiusKm;
-
-  // Le rayon demandé au serveur avance par paliers de 10 km : sans ça, chaque
-  // pixel du curseur serait une requête.
-  const demande = Math.min(
-    maxRadiusKm,
-    Math.max(besoin, Math.ceil((radiusKm * 1.5) / 10) * 10)
-  );
-
-  // Ce qu'on a en main couvre-t-il ce qu'on affiche ?
-  const couvre =
-    etat !== null &&
-    etat.clef.startsWith(`${clef}@`) &&
-    Number(etat.clef.split("@")[1]) >= besoin;
-
-  useEffect(() => {
-    if (couvre) return;
-    const ctrl = new AbortController();
-    const t = setTimeout(() => {
-      const params = new URLSearchParams({
-        lat: String(center.lat),
-        lon: String(center.lon),
-        radius: String(demande),
-        liste: "1",
-        limit: "400",
-      });
-      setChargement(true);
-      fetch(`/api/marchands?${params}`, { signal: ctrl.signal })
-        .then((r) =>
-          r.ok ? r.json() : Promise.reject(new Error(`Réponse ${r.status}`))
-        )
-        .then((json) => {
-          const resultats: MerchantListEntry[] = json.resultats ?? [];
-          setEtat({
-            clef: `${clef}@${demande}`,
-            resultats,
-            tronque: Boolean(json.tronque),
-          });
-          setErreur(null);
-          setChargement(false);
-          if (resultats.length === 0 && demande < maxRadiusKm) {
-            setElargi(clef);
-          }
-        })
-        .catch((e) => {
-          if (ctrl.signal.aborted) return;
-          setErreur(e instanceof Error ? e.message : "Chargement impossible.");
-          setChargement(false);
-        });
-    }, 180);
-    return () => {
-      clearTimeout(t);
-      ctrl.abort();
-    };
-  }, [couvre, clef, demande, maxRadiusKm, center.lat, center.lon]);
-
-  return {
-    resultats: etat && etat.clef.startsWith(`${clef}@`) ? etat.resultats : null,
-    tronque: etat?.tronque ?? false,
-    chargement,
-    erreur,
   };
 }

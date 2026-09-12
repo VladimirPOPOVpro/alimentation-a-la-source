@@ -360,7 +360,7 @@ responsable du site plutôt que d'y toucher.
 ## La carte ne charge plus tout le fichier
 
 Depuis la refonte de la carte, le navigateur ne reçoit que ce qu'il affiche
-(voir la section « Deux façons de chercher » du README). Conséquence pour toi :
+(voir la section « Comment la carte cherche » du README). Conséquence pour toi :
 
 - **rien ne change dans ton travail** — `data/marchands.json` reste la source de
   vérité, le format est identique, aucun champ nouveau n'est requis ;

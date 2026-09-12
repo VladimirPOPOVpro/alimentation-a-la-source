@@ -24,12 +24,6 @@ export function getAllMerchants(): MerchantWithDistance[] {
     .sort((a, b) => a.distanceKm - b.distanceKm);
 }
 
-export function getMerchantsWithinRadius(
-  radiusKm: number
-): MerchantWithDistance[] {
-  return getAllMerchants().filter((m) => m.distanceKm <= radiusKm);
-}
-
 export function getMerchantBySlug(slug: string): MerchantWithDistance | undefined {
   return getAllMerchants().find((m) => m.slug === slug);
 }

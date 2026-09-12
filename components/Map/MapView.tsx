@@ -7,7 +7,6 @@ import {
   TileLayer,
   Marker,
   Popup,
-  Circle,
   useMap,
   useMapEvents,
 } from "react-leaflet";
@@ -22,16 +21,15 @@ import {
   createClusterIcon,
 } from "@/lib/mapIcons";
 
-import type {
-  MapPoint,
-  MapCluster,
-  MerchantListEntry,
-} from "@/lib/spatialIndex";
+import type { MapPoint, MapCluster } from "@/lib/spatialIndex";
 import type { Viewport } from "@/lib/useViewportMerchants";
 import { formatDistance, distanceKm } from "@/lib/geo";
 
 const PHOTO_ZOOM_SHOW = 14;
 const PHOTO_ZOOM_HIDE = 13;
+/** Cadrage de départ : la ville et ses abords, de quoi voir une vingtaine de
+ *  points sans zoomer. */
+const ZOOM_INITIAL = 12;
 
 function ZoomTracker({ onZoom }: { onZoom: (zoom: number) => void }) {
   useMapEvents({
@@ -79,44 +77,24 @@ function ViewportWatcher({
 }
 
 /**
- * Recentre la carte quand le visiteur change de point de référence.
- *
- * En mode rayon, le cadrage suit aussi le rayon pour que le cercle tienne à
- * l'écran. En mode exploration il n'y a pas de rayon : on se contente de
- * rejoindre le nouveau point, sans jamais contrarier un déplacement en cours.
+ * Leaflet mesure son conteneur une fois, à la création. Sur téléphone, la
+ * hauteur en `dvh` change quand la barre d'adresse se replie, et une bande de
+ * tuiles grises apparaissait sur le bord : on lui redit la taille à chaque
+ * changement.
  */
-function Recenter({
-  center,
-  radiusKm,
-  suivreRayon,
-}: {
-  center: Center;
-  radiusKm: number;
-  suivreRayon: boolean;
-}) {
+function SuivreTaille() {
   const map = useMap();
-  const first = useRef(true);
-
   useEffect(() => {
-    if (!suivreRayon && !first.current) return;
-    const bounds: [[number, number], [number, number]] = [
-      [center.lat - radiusKm / 111, center.lon - radiusKm / 78],
-      [center.lat + radiusKm / 111, center.lon + radiusKm / 78],
-    ];
-    if (first.current) {
-      first.current = false;
-      map.fitBounds(bounds, { padding: [24, 24] });
-    } else {
-      map.flyToBounds(bounds, { padding: [24, 24], duration: 0.8 });
-    }
-  }, [map, center.lat, center.lon, radiusKm, suivreRayon]);
-
+    const observer = new ResizeObserver(() => map.invalidateSize());
+    observer.observe(map.getContainer());
+    return () => observer.disconnect();
+  }, [map]);
   return null;
 }
 
-/** En mode exploration, rejoindre le nouveau point de référence sans toucher
- *  au zoom choisi par le visiteur. */
-function RecenterLibre({ center }: { center: Center }) {
+/** Rejoindre le nouveau point de référence sans toucher au zoom choisi par le
+ *  visiteur, et sans contrarier un déplacement en cours. */
+function Recenter({ center }: { center: Center }) {
   const map = useMap();
   const premier = useRef(true);
 
@@ -125,7 +103,7 @@ function RecenterLibre({ center }: { center: Center }) {
       premier.current = false;
       return;
     }
-    map.flyTo([center.lat, center.lon], Math.max(map.getZoom(), 12), {
+    map.flyTo([center.lat, center.lon], Math.max(map.getZoom(), ZOOM_INITIAL), {
       duration: 0.8,
     });
   }, [map, center.lat, center.lon]);
@@ -168,23 +146,17 @@ function ClusterMarker({ cluster }: { cluster: MapCluster }) {
 }
 
 export default function MapView({
-  mode = "rayon",
-  merchants,
-  points = [],
-  clusters = [],
+  points,
+  clusters,
   onViewport,
   focus,
-  radiusKm,
   center,
   selectedSlug,
 }: {
-  mode?: "rayon" | "exploration";
-  merchants: MerchantListEntry[];
-  points?: MapPoint[];
-  clusters?: MapCluster[];
-  onViewport?: (v: Viewport) => void;
+  points: MapPoint[];
+  clusters: MapCluster[];
+  onViewport: (v: Viewport) => void;
   focus?: { lat: number; lon: number; n: number };
-  radiusKm: number;
   center: Center;
   selectedSlug?: string;
 }) {
@@ -198,41 +170,22 @@ export default function MapView({
     });
   };
 
-  const exploration = mode === "exploration";
-
   return (
     <MapContainer
       center={[center.lat, center.lon]}
-      zoom={12}
+      zoom={ZOOM_INITIAL}
       scrollWheelZoom
       className="h-full w-full"
     >
       <ZoomTracker onZoom={handleZoom} />
-      {exploration ? (
-        <RecenterLibre center={center} />
-      ) : (
-        <Recenter center={center} radiusKm={radiusKm} suivreRayon />
-      )}
-      {onViewport && <ViewportWatcher onViewport={onViewport} />}
+      <SuivreTaille />
+      <Recenter center={center} />
+      <ViewportWatcher onViewport={onViewport} />
       {focus && <FlyTo focus={focus} />}
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-
-      {!exploration && (
-        <Circle
-          center={[center.lat, center.lon]}
-          radius={radiusKm * 1000}
-          pathOptions={{
-            color: "#4c8c4a",
-            fillColor: "#4c8c4a",
-            fillOpacity: 0.06,
-            weight: 1.5,
-            dashArray: "6 6",
-          }}
-        />
-      )}
 
       <Marker
         position={[center.lat, center.lon]}
@@ -242,92 +195,52 @@ export default function MapView({
       >
         <Popup>
           <strong>{center.label}</strong>
-          {center.kind !== "hopital" && (
-            <>
-              <br />
-              <span className="text-xs">Votre point de référence</span>
-            </>
-          )}
+          <br />
+          <span className="text-xs">
+            {center.kind === "hopital"
+              ? "Point de repère : les distances sont mesurées d'ici"
+              : "Votre point de référence"}
+          </span>
         </Popup>
       </Marker>
 
-      {exploration &&
-        clusters.map((c) => <ClusterMarker key={`c${c.id}`} cluster={c} />)}
+      {clusters.map((c) => (
+        <ClusterMarker key={`c${c.id}`} cluster={c} />
+      ))}
 
-      {exploration &&
-        points.map((p) => (
-          <Marker
-            key={p.s}
-            position={[p.y, p.x]}
-            icon={
-              showPhotos
-                ? createPhotoIcon(p.i, p.c, p.s === selectedSlug, p.n)
-                : createCategoryIcon(p.c, p.s === selectedSlug)
-            }
-          >
-            <Popup>
-              <div className="min-w-[170px]">
-                <div
-                  className="popup-thumb"
-                  style={{ backgroundImage: `url('${p.i}')` }}
-                />
-                <p className="mb-0.5 font-semibold text-brand-green-dark">
-                  {p.n}
-                </p>
-                <p className="mb-1 text-xs text-foreground/60">
-                  {CATEGORY_LABELS[p.c]} ·{" "}
-                  {formatDistance(distanceKm(center.lat, center.lon, p.y, p.x))}
-                </p>
-                <Link
-                  href={`/marchand/${p.s}`}
-                  className="text-sm font-medium text-brand-green underline underline-offset-2"
-                >
-                  Voir la fiche →
-                </Link>
-              </div>
-            </Popup>
-          </Marker>
-        ))}
-
-      {!exploration &&
-        merchants.map((m) => (
-          <Marker
-            key={m.slug}
-            position={[m.lat, m.lon]}
-            icon={
-              showPhotos
-                ? createPhotoIcon(
-                    m.image_url,
-                    m.categorie,
-                    m.slug === selectedSlug,
-                    m.nom
-                  )
-                : createCategoryIcon(m.categorie, m.slug === selectedSlug)
-            }
-          >
-            <Popup>
-              <div className="min-w-[170px]">
-                <div
-                  className="popup-thumb"
-                  style={{ backgroundImage: `url('${m.image_url}')` }}
-                />
-                <p className="mb-0.5 font-semibold text-brand-green-dark">
-                  {m.nom}
-                </p>
-                <p className="mb-1 text-xs text-foreground/60">
-                  {CATEGORY_LABELS[m.categorie]} ·{" "}
-                  {formatDistance(m.distanceKm)}
-                </p>
-                <Link
-                  href={`/marchand/${m.slug}`}
-                  className="text-sm font-medium text-brand-green underline underline-offset-2"
-                >
-                  Voir la fiche →
-                </Link>
-              </div>
-            </Popup>
-          </Marker>
-        ))}
+      {points.map((p) => (
+        <Marker
+          key={p.s}
+          position={[p.y, p.x]}
+          icon={
+            showPhotos
+              ? createPhotoIcon(p.i, p.c, p.s === selectedSlug, p.n)
+              : createCategoryIcon(p.c, p.s === selectedSlug)
+          }
+        >
+          <Popup>
+            <div className="min-w-[170px]">
+              <div
+                className="popup-thumb"
+                style={{ backgroundImage: `url('${p.i}')` }}
+              />
+              <p className="mb-0.5 font-semibold text-brand-green-dark">
+                {p.n}
+              </p>
+              <p className="mb-1 text-xs text-foreground/60">
+                {CATEGORY_LABELS[p.c]} ·{" "}
+                {formatDistance(distanceKm(center.lat, center.lon, p.y, p.x))}
+              </p>
+              <Link
+                href={`/marchand/${p.s}`}
+                className="text-sm font-medium text-brand-green underline underline-offset-2"
+              >
+                Voir la fiche →
+              </Link>
+            </div>
+          </Popup>
+        </Marker>
+      ))}
     </MapContainer>
   );
 }
