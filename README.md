@@ -1492,9 +1492,30 @@ prioritaires en cas de conflit.
      d'Avignon, reste sous la règle 119 telle quelle : c'est l'autorité qui trace la frontière,
      jamais la passe.
 
+121. **La liste d'exposants que publie l'organisateur d'un marché bio vaut celle de la commune,
+     quand l'organisateur est lui-même un opérateur certifié et que la majorité des exposants se
+     retrouve engagée au registre.** La règle 68 refuse `environnement` à un marché que l'autorité
+     qualifie de « bio » sans nommer d'exposant, et elle ne le débloque que par une liste publiée
+     « par la commune ou par la Métropole ». Le marché bio et local de L'Octroi, à Nancy, présente
+     le cas voisin : la Ville et la Métropole ne nomment personne, mais l'organisateur — la
+     coopérative Bio en Grand Est, elle-même engagée chez Ecocert depuis 2010 au registre de l'Agence
+     Bio — écrit « rencontrez vos producteurs locaux certifiés bio » et publie, avec L'Octroi et
+     L'Autre Canal, deux listes d'exploitations par nom commercial et par commune. **Tranché ainsi** :
+     une liste publiée par l'organisateur remplit la condition de la règle 68 à trois conditions
+     cumulatives — l'organisateur est un opérateur dont le certificat est en vigueur au registre, il
+     écrit noir sur blanc que les exposants sont certifiés, et **plus de la moitié** des
+     exploitations nommées se retrouvent, sous leur enseigne ou leur raison sociale, avec un
+     certificat `ENGAGEE`. On ne cherche jamais une exploitation au registre par le nom d'une
+     personne : celles que seule une recherche par patronyme permettrait de retrouver comptent comme
+     non retrouvées. Ici, neuf des dix-sept exploitations et stands nommés dans l'une ou l'autre
+     liste sont engagés ; les huit autres ne sont pas retrouvés sous leur enseigne, et la fiche ne promet donc
+     pas que chaque étal soit certifié — elle attribue la formule à l'organisateur. Un marché de
+     quartier qui annonce « producteurs locaux et producteurs bio » sans liste, comme celui du parc
+     Sainte-Marie, reste sous la règle 68.
+
 ## Marchands à confirmer
 
-401 fiches sur 436 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+406 fiches sur 441 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1918,8 +1939,13 @@ prioritaires en cas de conflit.
 - **Laitiva** (La Roche-sur-Yon) (laiterie artisanale avec boutique, catégorie `producteur` au titre de la règle 73 : le lait est transformé et vendu sur place. **Règle 6** : la SARL, NAF 10.51D, est active, établissement ouvert aux Fontenelles. **Pilier `environnement`** : engagement Ecocert du 18 février 2021, jamais arrêté, productions déclarées — beurre, yaourts, fromages, lait et crème — qui correspondent à la fiche, règle 39. **Horaires** : le site affiche encore un bandeau des fêtes de fin d'année 2024 mais a été mis à jour en septembre 2025 ; il donne un horaire courant et un « horaire d'été » sans dates de bascule, les deux sont publiés et la fiche invite à vérifier. **Téléphone non inscrit** : le seul numéro est un portable, présenté en pied de page comme celui de la boutique mais imprimé, sur les cartes de visite photographiées par le site, sous le nom d'une personne — même traitement que les portables personnels non inscrits plus haut ; la fiche garde le site, qui porte un formulaire de commande. La page « À propos » présente la personne qui tient la laiterie et sa famille : rien n'en est repris, et la description s'en tient à « lait de vache bio » sans dire de quelle ferme il vient. **Point** : numéro 243 à la Base Adresse Nationale (0,962) ; le point du registre de l'Agence Bio tombe à 99 m sur la même voie. **Photo** : la porte de la boutique et sa signalétique, photographie du site, 768 × 1 024, sans personne ; les autres vues de la boutique montrent des personnes ou la carte de visite nominative, non utilisées)
 - **Pain et Pâturette** (La Roche-sur-Yon) (ferme laitière et boulangère, catégorie `ferme`. **Règle 6** : le GAEC qui l'exploite, NAF 01.41Z, est actif, un établissement ouvert au 120 route de la Trézanne ; l'enseigne n'est pas un patronyme. **Pilier `environnement`** : engagement Ecocert du 25 avril 2020, jamais arrêté, productions déclarées pour 2026 — lait de vache, farines, pain frais, céréales — qui correspondent à la fiche, règle 39. **Horaires et produits** : ceux du site de la ferme, qui présente aussi ses deux autres points de vente, repris dans le champ ; les six variétés de pain sont détaillées par la page du contrat pain d'AMAP'Yon. Téléphone non inscrit : le seul numéro est un portable, sur un site qui présente la ferme par les prénoms de ceux qui la tiennent. **Point** : numéro 120 à la Base Adresse Nationale (0,965) ; le point du registre des entreprises se retourne sur le « 96 route de la Trézanne » à 8 m, bonne voie, écart de 24, règle 27. Le registre de l'Agence Bio pose le lieu de vente « La Durandière » rue Louis-Lumière, **5,7 km** plus à l'ouest : c'est le lieu-dit géocodé au hasard sur la commune — la Base ne connaît aucune « Durandière » dans le 85000 —, écarté. **Photo** : les pains dans le four à bois, page « Pains et brioches » du site, 1 920 px réduits à 1 280, sans personne ; la photographie de la page d'accueil à la ferme montre des enfants, non utilisée)
 - **AMAP'Yon** (La Roche-sur-Yon) (AMAP, catégorie et piliers des AMAP déjà publiées ; pas d'`environnement`, les producteurs n'étant pas tous certifiés et l'association ne publiant aucun engagement valant pour tous, règle 60. **Existence et lieu** : le site de l'association publie le calendrier de distribution 2026-2027 et le bulletin d'adhésion 2026-2027 ; l'annuaire du réseau national des AMAP donne la même adresse, et les deux producteurs de cette passe citent l'AMAP parmi leurs points de vente, l'un avec le créneau du vendredi. Règle 6 sans objet pour une association de consommateurs. **Produits** : les rubriques de la page « Les producteurs – Contrats », catégories seulement ; le site nomme chaque producteur et chaque bénévole, aucun nom n'est repris. **Point** : numéro 55 du chemin Guy-Bourrieau à la Base Adresse Nationale (0,962). **Photo, règle 1** : la seule photographie du lieu, sur la page « Informations pratiques », montre une distribution en plein air avec une vingtaine de visages identifiables, enfants compris ; le seul recadrage sans visage ne garde qu'un pan de mur qu'aucune source ne permet d'attribuer à la maison de quartier. Retenue : la miche de pain que l'AMAP publie sur la page de son contrat pain, produit d'une ferme de la commune, 1 280 × 960 — illustration du panier, pas vue du lieu)
+- **Marché Central** (Nancy) (la halle du centre-ville, catégorie et piliers des halles déjà publiées. **Horaires, règle 5** : la page des marchés de la Ville de Nancy donne du mardi au samedi 7h-19h et le dimanche 9h-13h30 ; la page « Les jours des marchés sur le Grand Nancy » de la Métropole, vérifiée le 7 septembre 2026, donne 18h30 le samedi. Deux autorités distinctes : les deux valeurs sortent, et la fermeture la plus tôt est mise en avant (règle 78). **Adresse, règle 50** : la Ville écrit « place Henri Mengin », que la Base Adresse Nationale ignore (meilleure réponse à 0,459, une rue d'un autre quartier) ; la Métropole écrit « place Charles III », connue à 0,972, contrôle inverse à 0 m. Les établissements que le registre des entreprises domicilie « place Henri Mengin » — numérotés du 4 au 30 et « marché central » — tombent de 48 à 120 m de ce point : même équipement, écart sous 150 m, les deux noms figurent dans `adresse`. **Produits, règle 89** : ni la Ville ni la Métropole ne publient les étals ; `produits` reprend les libellés NAF des établissements ouverts au marché — commerce de détail de fruits et légumes, de viandes, de boissons, autres commerces alimentaires spécialisés, boulangerie-pâtisserie — et « fleurs et livres » d'après la Ville. Aucune enseigne ni aucun commerçant n'est nommé. Le marché des étalagistes, non alimentaire, a sa propre ligne sur la page de la Ville et n'est pas décrit. **Photo** : la vue plongeante de la halle que la Ville publie pour ce marché, 1 200 × 675, recadrée en haut à 1 200 × 530 pour sortir les clients du premier plan ; les passants restants sont lointains)
+- **Marché d'Haussonville** (Nancy) (marché couvert de quartier, catégorie et piliers des halles. Jours et heures identiques à la Ville et à la Métropole. **Point, règle 10** : la Ville et la Métropole n'écrivent que « boulevard d'Haussonville », sans numéro ; le registre des entreprises domicilie plusieurs commerces « marché d'Haussonville », dont l'un sur une place voisine que la Base Adresse Nationale ignore ; le point commun à ces établissements se retourne sur le 58 boulevard d'Haussonville à 25 m, la bonne voie, et c'est lui qui est publié, à 72 m du centre de la voie. **Produits** : le registre n'y domicilie qu'une boucherie (47.22Z) et des commerces alimentaires de marché (47.81Z) ; la photographie que la Ville attache à ce seul marché (règle 91) montre un comptoir de fromages et une enseigne imprimée d'étal « spécialités lyonnaises, périgourdines, alsaciennes, lorraines, auvergnates », reprise mot pour mot. Des annuaires tiers annoncent poissonnier, volailler et fleuriste : non repris, faute de source de premier rang. **Photo** : la même image, qui montre de face deux clientes, la fromagère et une vendeuse ; recadrage de la règle 46 sur le comptoir et la balance, 900 × 375, sans aucun visage)
+- **Marché bio et local de L'Octroi** (Nancy) (marché de producteurs du vendredi, catégorie `marche`. Jour et heures identiques à la Ville, à la Métropole, à L'Octroi et à L'Autre Canal. **Pilier `environnement`, règle 121** : organisé par la coopérative Bio en Grand Est, engagée chez Ecocert depuis avril 2010 ; neuf des dix-sept exploitations et stands nommés par L'Octroi ou par L'Autre Canal sont engagés au registre de l'Agence Bio (Meurthe-et-Moselle, Meuse, Vosges), les autres ne s'y retrouvent pas sous leur enseigne. Les deux listes divergent — L'Octroi nomme douze exposants, L'Autre Canal quatorze, dont neuf en commun — ce que dit la description. Aucun exposant n'est nommé dans la fiche : deux entrées des listes sont des noms de personnes. `produits` regroupe les familles que les deux listes annoncent. **Point** : 47 boulevard d'Austrasie à la Base Adresse Nationale (0,974), contrôle inverse à 0 m ; c'est l'adresse du tiers-lieu, la halle ouverte est sur son terrain. Le site de L'Octroi nomme la commune et ne porte aucun contenu injecté. **Photo** : la photographie que la Ville publie pour ce marché montre un exposant, deux clients et une banderole d'étal où se lit le nom d'un exploitant ; recadrage des règles 46 et 75 sur les cageots de légumes et les pains du premier plan, 690 × 345, sans visage ni nom)
+- **Marché Parc Sainte-Marie** (Nancy) (marché de plein air du vendredi soir, catégorie `marche`, sans `environnement` au titre de la règle 68 : « producteurs locaux et producteurs bio », sans liste d'exposants. Jour et heures identiques à la Ville, à la Métropole, à l'agenda de Bio Grand Est et sur l'affiche photographiée par la Ville (règle 74). **Produits, règles 92 et 103** : aucune source ne nomme un étal ; `produits` s'arrête aux deux formules de la Ville. L'inauguration du 6 juin 2025 et le budget participatif 2024 viennent de l'agenda de Bio Grand Est. L'adresse électronique de contact que publie la Ville est celle d'une messagerie grand public : non reprise. **Point** : l'agenda de Bio Grand Est écrit « Placette Boffrand, 1 avenue Boffrand » ; la Base Adresse Nationale connaît ce numéro à 0,968. **Photo** : l'affiche du marché au premier plan et la foule floue au fond, 610 × 635 après recadrage à gauche ; les passants restants sont hors de la zone nette et de dos ou de profil)
+- **Marché de la Ville Vieille** (Nancy) (marché de plein air du dimanche, catégorie et piliers des marchés. Jour, heures et lieu identiques à la Ville et à la Métropole ; la fermeture de la rue vient de la Ville. **Point** : centre de la rue Pierre Gringoire à la Base Adresse Nationale (0,964), contrôle inverse à 0 m, le 22 à 3 m ; le marché occupe la rue elle-même. **Produits** : « alimentaire et fleurs » d'après la Ville ; la photographie qu'elle attache à ce seul marché (règle 91) montre un camion-étal de fromager, d'où la ligne « Fromages ». **Photo** : la seule image publiée compte une vingtaine de passants dont plusieurs identifiables au premier plan, et le store d'un second camion porte un nom de famille et un numéro de portable ; le recadrage qui sort les deux ne garde que le haut de la scène — façades, arbres, toit du camion-étal et passants lointains — 720 × 305. La photographie ne montre donc presque plus d'étal : elle situe le marché, elle ne le décrit pas)
 
-Les 436 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 441 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -1947,6 +1973,53 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Nancy
+
+Département visé : la **Meurthe-et-Moselle (54)**, déficit **4,6300** au titre de la règle 41 avec 436
+fiches publiées et **aucune** dans le département. La Réunion (5,6256) reste écartée par la règle 93.
+La réserve de la règle 41.c ne vise que la passe précédente, la Vendée, en région 52 ; la
+Meurthe-et-Moselle est en région 44, qu'avait visée l'avant-dernière passe (Mulhouse), ce que la règle
+n'interdit pas. Suivants du classement : le Calvados (4,4859) et les Pyrénées-Atlantiques (4,4677). Les
+cinq fiches ramènent le déficit du 54 à environ **−0,32**. Commune retenue : **Nancy**, 103 671
+habitants, la plus peuplée du département — Vandœuvre-lès-Nancy, deuxième, en compte 29 942. Les cinq
+fiches sont **dans la commune**, toutes à moins de 3 km de la place Stanislas ; aucune règle
+d'élargissement n'a servi.
+
+**Les sources qui ont fait la passe** : la page « Les marchés de Nancy » de la Ville, qui publie jours,
+heures et lieux de ses marchés avec une photographie propre à chacun ; la page « Les jours des marchés
+sur le Grand Nancy » de la Maison de l'habitat et du développement durable de la Métropole, vérifiée le
+7 septembre 2026, qui a servi de seconde autorité pour chaque horaire ; le registre des entreprises pour
+les halles (règle 89) ; le registre de l'Agence Bio, **1 994** opérateurs lus sur la Meurthe-et-Moselle,
+la Meuse et les Vosges ; les sites de L'Octroi, de L'Autre Canal et l'agenda de Bio Grand Est.
+
+**L'office de tourisme n'a pas été ouvert, règle 77.** Le `robots.txt` de `nancy-tourisme.fr` porte
+`User-agent: ClaudeBot` suivi de `Disallow: /` et un `Content-Signal: ai-train=no, use=reference` ; il
+renvoie au plan du site de `destination-nancy.com`, même éditeur, dont aucune page n'a été lue non plus.
+La passe n'y a rien perdu : chaque marché avait déjà deux autorités publiques.
+
+**Marché du Plateau de Haye** (dimanche 7h30-13h, esplanade de l'espace commercial, avenue Raymond
+Pinchard) — la Ville le décrit « tous types de commerces », porté par un syndicat de marchands, et la
+Métropole ajoute un premier et un troisième mercredi du mois que la Ville ne mentionne pas. Aucun
+décompte des étals n'est publié, la règle 9 s'y appliquerait ; laissé au quota de cinq et à cette
+contradiction de jours (règle 55, sans source tierce pour départager). Critère de déblocage : une
+source indépendante de la Ville et de la Métropole sur le mercredi, ou la composition des étals.
+
+**Marché des étalagistes** (autour du Marché Central et mail Saint-Thiébaut) — non alimentaire d'après
+la Ville elle-même (confection, maroquinerie, articles divers, replants) : hors sujet, ne se rouvre pas.
+
+**Non instruits** : les magasins bio de réseau du centre (un Naturalia est domicilié place Henri Mengin,
+soumis à la règle 86 avant d'entrer) ; les opérateurs nancéiens de l'Agence Bio dont le certificat est
+en vigueur et qui déclarent une vente aux particuliers — une laiterie, une épicerie en vrac (règle 86),
+une boulangerie, une structure d'insertion — ; les AMAP de la ville ; les commerçants du Marché Central
+pris un par un. Les exposants du marché bio de L'Octroi ne se publient pas
+comme fiches à Nancy : ils n'y ont pas de point de vente propre.
+
+**Écartés par `MODERATION.md` ou par le registre** : parmi les cinquante opérateurs de l'Agence Bio
+domiciliés à Nancy, une douzaine de supermarchés généralistes certifiés, des grossistes, et de nombreux
+certificats **arrêtés** ; plusieurs exploitations des listes
+d'exposants de L'Octroi ne se retrouvent au registre que sous le nom de leur exploitant — elles n'ont
+pas été cherchées par ce nom et ces pistes ne se rouvrent pas.
 
 ### Pistes non publiées à La Roche-sur-Yon
 

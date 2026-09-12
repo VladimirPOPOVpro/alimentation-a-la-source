@@ -11554,5 +11554,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=55%20Chemin%20Guy%20Bourrieau%2C%2085000%20La%20Roche-sur-Yon",
     "image_url": "/images/marchands/amapyon-la-roche-sur-yon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-central-nancy",
+    "nom": "Marché Central",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.689207,
+    "lon": 6.182338,
+    "adresse": "Place Henri Mengin (place Charles III), 54000 Nancy",
+    "horaires": "Du mardi au samedi de 7h à 19h, et le dimanche de 9h à 13h30, d'après la page des marchés de la Ville de Nancy. (La page des marchés de la Métropole du Grand Nancy annonce une fermeture à 18h30 le samedi : mieux vaut arriver avant.)",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Boulangerie et pâtisserie",
+      "Commerces alimentaires spécialisés",
+      "Vins et boissons",
+      "Fleurs et livres"
+    ],
+    "description": "La halle couverte du centre-ville, dans la Ville-Neuve, ouverte six jours sur sept. La Ville la décrit comme un marché alimentaire, de fleurs et de livres ; les métiers listés ici sont ceux sous lesquels le registre des entreprises immatricule les commerces domiciliés au marché. Un marché non alimentaire d'étalagistes, que la Ville réglemente à part, s'installe autour de la halle et sur le mail Saint-Thiébaut.",
+    "site_web": "https://www.nancy.fr/services/commerces/les-marches-de-nancy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Central%2C%20Place%20Henri%20Mengin%2C%2054000%20Nancy",
+    "image_url": "/images/marchands/marche-central-nancy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-d-haussonville-nancy",
+    "nom": "Marché d'Haussonville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.671615,
+    "lon": 6.166381,
+    "adresse": "Boulevard d'Haussonville, 54000 Nancy",
+    "horaires": "Le mardi, le jeudi et le samedi de 6h30 à 12h30, et le vendredi de 6h30 à 19h30 ; fermé le dimanche, le lundi et le mercredi. Horaires identiques sur les pages des marchés de la Ville de Nancy et de la Métropole du Grand Nancy.",
+    "produits": [
+      "Fromages à la coupe",
+      "Boucherie",
+      "Spécialités lyonnaises, périgourdines, alsaciennes, lorraines et auvergnates"
+    ],
+    "description": "Marché alimentaire couvert du quartier d'Haussonville, au sud-ouest du centre, ouvert quatre matinées par semaine et toute la journée le vendredi. Le registre des entreprises y domicilie une boucherie et des commerces alimentaires de marché ; la photographie que la Ville publie pour ce marché montre un étal de fromager et l'enseigne d'un étal de spécialités régionales. La composition complète des étals n'est pas publiée.",
+    "site_web": "https://www.nancy.fr/services/commerces/les-marches-de-nancy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20d'Haussonville%2C%20Boulevard%20d'Haussonville%2C%2054000%20Nancy",
+    "image_url": "/images/marchands/marche-d-haussonville-nancy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-et-local-octroi-nancy",
+    "nom": "Marché bio et local de L'Octroi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.692853,
+    "lon": 6.199672,
+    "adresse": "Halle ouverte de L'Octroi, 47 Boulevard d'Austrasie, 54000 Nancy",
+    "horaires": "Le vendredi de 16h à 19h, sous la halle ouverte, d'après la Ville de Nancy, la Métropole du Grand Nancy et L'Octroi. Les producteurs présents changent selon la semaine du mois.",
+    "produits": [
+      "Légumes frais",
+      "Fruits de saison et fruits transformés",
+      "Fromages de chèvre, yaourts et produits laitiers",
+      "Volailles, porc, agneau, œufs et charcuterie",
+      "Pain au levain, farines et pâtes",
+      "Huiles, aromates, tisanes et condiments",
+      "Miel",
+      "Bières"
+    ],
+    "description": "Marché du vendredi que la coopérative Bio en Grand Est présente comme celui de « producteurs locaux certifiés bio », organisé avec L'Octroi, tiers-lieu installé sur le site des anciens abattoirs, et L'Autre Canal. Les exploitations viennent de Meurthe-et-Moselle, de Meuse et des Vosges et se relaient selon la semaine du mois ; les listes d'exposants publiées par L'Octroi et par L'Autre Canal ne concordent pas tout à fait.",
+    "site_web": "https://www.octroi-nancy.fr/marche-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L'Octroi%2C%2047%20Boulevard%20d'Austrasie%2C%2054000%20Nancy",
+    "image_url": "/images/marchands/marche-bio-et-local-octroi-nancy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-parc-sainte-marie-nancy",
+    "nom": "Marché Parc Sainte-Marie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.681595,
+    "lon": 6.172633,
+    "adresse": "Entrée Boffrand du parc Sainte-Marie, 1 Avenue Boffrand, 54000 Nancy",
+    "horaires": "Le vendredi de 16h à 20h, à l'entrée Boffrand du parc, d'après la Ville de Nancy, la Métropole du Grand Nancy et l'affiche du marché que la Ville photographie.",
+    "produits": [
+      "Produits de producteurs locaux",
+      "Produits de producteurs bio"
+    ],
+    "description": "Marché de plein air du vendredi soir, inauguré en juin 2025 à l'entrée Boffrand du parc Sainte-Marie, issu du budget participatif 2024 et porté par l'association de vie de quartier Mon Désert – Jeanne-d'Arc – Saurupt – Clemenceau. Aucune des sources consultées ne publie la liste des étals : les sources parlent seulement de producteurs locaux et de producteurs bio, en circuit court.",
+    "site_web": "https://www.nancy.fr/services/commerces/les-marches-de-nancy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20Avenue%20Boffrand%2C%2054000%20Nancy",
+    "image_url": "/images/marchands/marche-parc-sainte-marie-nancy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-ville-vieille-nancy",
+    "nom": "Marché de la Ville Vieille",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.695877,
+    "lon": 6.18042,
+    "adresse": "Rue Pierre Gringoire, 54000 Nancy",
+    "horaires": "Le dimanche de 8h à 13h, d'après les pages des marchés de la Ville de Nancy et de la Métropole du Grand Nancy. La rue est fermée à la circulation et au stationnement du samedi 19h au dimanche 16h.",
+    "produits": [
+      "Produits alimentaires",
+      "Fromages",
+      "Fleurs"
+    ],
+    "description": "Marché de plein air du dimanche matin dans la Ville Vieille, rue Pierre Gringoire, que la Ville présente comme un marché alimentaire et de fleurs. La photographie qu'elle publie pour ce marché montre notamment le camion-étal d'un fromager ; la composition complète des étals n'est pas publiée.",
+    "site_web": "https://www.nancy.fr/services/commerces/les-marches-de-nancy",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Pierre%20Gringoire%2C%2054000%20Nancy",
+    "image_url": "/images/marchands/marche-de-la-ville-vieille-nancy.jpg",
+    "a_confirmer": true
   }
 ]
