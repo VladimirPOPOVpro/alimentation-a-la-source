@@ -13430,5 +13430,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+de+Laleu+17000+La+Rochelle",
     "image_url": "/images/marchands/grand-bazar-de-laleu-la-rochelle.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halle-gourmande-saint-pierre-clermont-ferrand",
+    "nom": "Halle gourmande Saint-Pierre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.779425,
+    "lon": 3.083089,
+    "adresse": "Place Saint-Pierre, 63000 Clermont-Ferrand",
+    "horaires": "Du lundi au samedi de 7h à 19h ; fermée le dimanche.",
+    "produits": [
+      "Viandes et volailles (bouchers et volaillers)",
+      "Poissons et fruits de mer, bar à huîtres",
+      "Fruits et légumes (primeurs)",
+      "Fromages",
+      "Pain et pâtisserie",
+      "Charcuterie et plats de traiteurs",
+      "Produits d'Auvergne et épicerie fine",
+      "Olives, fruits secs et confiserie"
+    ],
+    "description": "Marché couvert permanent du centre historique, sous une charpente de bois, où la Ville réunit bouchers, volaillers, poissonnier, primeurs, fromagers, charcutiers-traiteurs et spécialités régionales ou étrangères, avec un espace pour manger sur place. Selon l'office de tourisme, de petits producteurs des environs s'installent autour de la halle le samedi matin ; le nombre de commerçants diffère selon la source (une quarantaine pour la Ville, une vingtaine pour l'office).",
+    "telephone": "04 73 31 27 88",
+    "site_web": "https://clermont-ferrand.fr/halle-gourmande-saint-pierre-0",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle+gourmande+Saint-Pierre+63000+Clermont-Ferrand",
+    "image_url": "/images/marchands/halle-gourmande-saint-pierre-clermont-ferrand.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-joseph-clermont-ferrand",
+    "nom": "Marché Saint-Joseph",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.778538,
+    "lon": 3.094722,
+    "adresse": "Halle Saint-Joseph, 4 rue d'Ambert (angle de la rue de Courpière), 63000 Clermont-Ferrand",
+    "horaires": "Vendredi de 7h à 12h selon l'association organisatrice et l'office de tourisme ; la liste des marchés de la Ville indique une fin à 13h. Mieux vaut venir avant midi.",
+    "produits": [
+      "Fromages fermiers",
+      "Viandes et charcuteries",
+      "Foie gras et volailles",
+      "Fruits et légumes de saison",
+      "Truites",
+      "Miels, confitures et pain d'épices"
+    ],
+    "description": "Marché fermier hebdomadaire sous une halle métallique du XIXe siècle protégée au titre des monuments historiques, entre la place Delille et la gare, organisé par une association de producteurs fermiers d'Auvergne créée en 1991, qui le présente comme le seul marché fermier de l'agglomération. L'office de tourisme y annonce des producteurs fermiers et bio ; la certification de chaque étal n'a pas été vérifiée.",
+    "site_web": "https://clermont-ferrand.fr/liste-des-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle+Saint-Joseph+4+rue+d%27Ambert+63000+Clermont-Ferrand",
+    "image_url": "/images/marchands/marche-saint-joseph-clermont-ferrand.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mazet-clermont-ferrand",
+    "nom": "Marché du Mazet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.77956,
+    "lon": 3.084454,
+    "adresse": "Place du Mazet, 63000 Clermont-Ferrand",
+    "horaires": "Samedi de 7h à 13h.",
+    "produits": [
+      "Légumes de saison (haricots verts, blettes, poireaux et carottes sur l'étal photographié par la Ville en juin 2025)",
+      "Fleurs de saison (office de tourisme)"
+    ],
+    "description": "Marché alimentaire du samedi matin sur la place du Mazet, dans le prolongement de la place Saint-Pierre, dont les étals gagnent selon l'office de tourisme les rues commerçantes voisines de la rue de la Boucherie. Ni la Ville ni l'office ne publient la composition des étals : les produits indiqués viennent de la photographie de la Ville et de la mention de fleurs par l'office.",
+    "site_web": "https://clermont-ferrand.fr/liste-des-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Mazet+63000+Clermont-Ferrand",
+    "image_url": "/images/marchands/marche-du-mazet-clermont-ferrand.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "jaude-fait-son-marche-clermont-ferrand",
+    "nom": "Jaude fait son marché",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.776588,
+    "lon": 3.082062,
+    "adresse": "Place de Jaude, 63000 Clermont-Ferrand",
+    "horaires": "Les 1er et 3e dimanches du mois, de 7h à 13h, toute l'année.",
+    "produits": [
+      "Produits locaux et biologiques (formule de la Ville)",
+      "Confiture de châtaigne, marrons et farine (panneau d'un étal sur la photographie de la Ville, juillet 2025)",
+      "Pain (même photographie)"
+    ],
+    "description": "Marché bimensuel que la Ville tient sur sa place principale pour favoriser les circuits courts, les producteurs locaux et les produits biologiques. La Ville ne publie ni liste d'exposants ni obligation de certificat : le mot « biologiques » décrit l'intention du marché, pas chaque étal.",
+    "site_web": "https://clermont-ferrand.fr/liste-des-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+Jaude+63000+Clermont-Ferrand",
+    "image_url": "/images/marchands/jaude-fait-son-marche-clermont-ferrand.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-producteurs-parc-thermal-royat",
+    "nom": "Marché de producteurs et artisans du parc thermal",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.768,
+    "lon": 3.0576,
+    "adresse": "Parc thermal, place Allard, 63130 Royat",
+    "horaires": "Pendant la saison thermale seulement : le vendredi à partir de 7h, dans le parc thermal, entre l'établissement thermal et la buvette Eugénie. L'office de tourisme donne la saison du 9 mai au 31 octobre et une fin à 12h ; l'annonce de la Ville de mai 2026 ne publie ni dates de saison ni heure de fin.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Miel",
+      "Salaisons",
+      "Conserves de canard"
+    ],
+    "description": "Marché de vente directe que la Ville de Royat organise pour les producteurs et artisans locaux au cœur du parc thermal, au pied de la buvette Eugénie, à la limite de Chamalières. Des artisans y vendent aussi des créations textiles, des paniers et des huiles essentielles ; la répartition des étals n'est pas publiée.",
+    "telephone": "04 73 29 50 80",
+    "site_web": "https://www.royat.fr/actualites/marche-de-producteurs-et-artisans-les-vendredis-matins/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+thermal+place+Allard+63130+Royat",
+    "image_url": "/images/marchands/marche-de-producteurs-parc-thermal-royat.jpg",
+    "a_confirmer": true
   }
 ]

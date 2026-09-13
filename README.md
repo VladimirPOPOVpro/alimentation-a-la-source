@@ -1876,9 +1876,39 @@ prioritaires en cas de conflit.
      autre voie (règle 24) : c'est le centre de l'avenue du 14-Juillet à la Base Adresse Nationale (0,97) qui est publié, et la
      fiche le dit.
 
+147. **Un marqueur arrondi au millième se contrôle à la précision de son arrondi, et par les repères que la commune nomme.** La
+     Ville de Royat place son marché de producteurs « dans le Parc, vers l'Établissement thermal et la buvette Eugénie » ; la Base
+     Adresse Nationale ne connaît ni la buvette ni le parc, seulement la place Allard, dont le centre tombe à 81 m de la buvette. Le
+     marqueur de l'office de tourisme, 45.768 / 3.0576, n'a que trois ou quatre décimales ; son contrôle inverse rend le 8 boulevard
+     Vaquez à **52 m**, deux mètres au-delà du seuil de la règle 64. Or un point arrondi au millième de degré ne peut pas viser
+     mieux qu'à une cinquantaine de mètres : lui appliquer un seuil de 50 m revient à le juger sur son écriture, pas sur sa
+     position. **Tranché ainsi** : pour un marqueur arrondi à trois décimales, le seuil de la règle 64 est porté à 60 m, à deux
+     conditions cumulatives — que le marqueur ne soit pas une valeur partagée (règle 146 ; ici l'office donne 45.767571 / 3.055899,
+     le centre de la place Allard, à un salon qui s'y tient, et un autre point au marché), et que les repères nommés par la commune,
+     situés par OpenStreetMap faute de Base, tombent chacun à moins de 100 m du marqueur (ici 34 m de l'établissement thermal, 74 m
+     de la buvette). Sinon on redescend au centre de la voie, et la fiche le dit.
+
+148. **Un marché créé à titre provisoire dont la date de fin est passée n'est publié que si une publication postérieure à cette date
+     le confirme.** La Ville de Clermont-Ferrand a ouvert le 12 juin 2025 un marché alimentaire à Croix-de-Neyrat, après la fermeture
+     d'un hypermarché, en écrivant que « son organisation est prévue jusqu'au 31 décembre 2025, avec possibilité de reconduction ».
+     Sa liste des marchés, non datée, le mentionne toujours ; mais ses images y ont été déposées en octobre 2025, avant l'échéance, et
+     aucune page de 2026 n'en parle. Une liste tenue à jour qui mentionne un lieu vaut d'ordinaire preuve d'existence (règle 106) ; une
+     échéance écrite par la même autorité la renverse. **Tranché ainsi** : quand l'autorité a fixé elle-même une date de fin, la
+     fiche attend une publication datée d'après cette date — actualité, agenda, arrêté de reconduction — ou une page dont un élément
+     est postérieur à l'échéance. Le critère de déblocage s'écrit dans les « Pistes non publiées ». C'est la symétrique de la
+     règle 57 : là un lieu annoncé au futur, ici un lieu dont la fin a été annoncée.
+
+149. **`CCBot` et `Bytespider` sont des agents d'IA au sens des règles 77 et 145.** Le `robots.txt` de `biocoop.fr` ne nomme ni
+     `ClaudeBot` ni `GPTBot`, mais range `CCBot` et `Bytespider` parmi les robots auxquels il interdit `/`. Le premier alimente le
+     corpus ouvert Common Crawl, dont se servent la plupart des modèles de langage ; le second est le robot de collecte d'un groupe qui
+     entraîne les siens. **Tranché ainsi** : un éditeur qui exclut nommément l'un de ces deux robots exprime la même intention qu'un
+     éditeur qui exclut `GPTBot`, et le site entier n'est pas consulté. Le magasin Biocoop du centre de Clermont-Ferrand n'a donc pas
+     été instruit par `biocoop.fr`. Les fiches Biocoop déjà publiées, instruites avant la règle 145, ne sont pas retirées pour autant :
+     elles se revérifient au prochain passage sur leur commune, par le registre et par une autre source que le site du réseau.
+
 ## Marchands à confirmer
 
-467 fiches sur 506 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+472 fiches sur 511 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2370,8 +2400,13 @@ prioritaires en cas de conflit.
 - **Marché de La Pallice** (La Rochelle) (même catégorie et mêmes piliers. **Horaires, règle 55** : trois valeurs, 8h30-13h30 (fiche du lieu de la Ville), 7h-13h30 (liste des marchés de la Ville), 8h-13h (office) ; aucune source tierce ne corrobore l'une des deux valeurs de la Ville, les trois sont publiées et la plage commune est donnée. **Point** : numéro 14 du boulevard Maréchal Lyautey, adresse de la Ville, à la Base (0,969) ; marqueur de l'office à 17 m ; le point de la fiche de la Ville tombe à 243 m, rue Eugène-Dor, écarté (règle 24). **Produits, règles 69 et 91** : légendes de l'office (« Fruits et légumes », « Poissonnier », « vêtements »), texte détaillé de l'office, et étal de langoustines et d'huîtres de la photographie « Poissonnier », prise le dimanche 11 juin 2017. **Photographie** : la même, recadrée sous la ligne des épaules, 1 417 px réduits à 1 280. **Règle 119** : aucune source ne publie le décompte des étals par activité ; la part non alimentaire est dite dans la description. Reste `a_confirmer`)
 - **Marché de Villeneuve-les-Salines** (La Rochelle) (même catégorie et mêmes piliers. **Horaires, règle 55** : mercredi 7h-13h30 sur la liste des marchés de la Ville et chez l'office, 8h30-13h30 sur la fiche du lieu de la Ville ; l'office départage. **Point, règle 146, née ici** : le marqueur de l'office est identique à celui qu'il donne au marché de Mireuil, il est sauté ; le point de la Ville se retourne à 33 m de la rue Ledru-Rollin (règle 24) ; c'est le centre de l'avenue du 14-Juillet à la Base (0,97), à 78 m du point de la Ville, et la fiche le dit. **Produits, règle 91** : lus sur la photographie de l'office attachée à ce seul marché, prise le mercredi 26 septembre 2018 ; le nom peint sur le camion du poissonnier, un prénom, n'est pas repris. **Photographie** : la même, recadrée sur l'étal de fruits — hors du camion, de l'enseigne de la galerie et des passants, dont une enfant de face — 1 240 px. Reste `a_confirmer` : composition des étals non publiée, point au centre de la voie)
 - **Le Grand Bazar de Laleu, marché bio et local** (La Rochelle) (`marche`, piliers des marchés et `environnement` au titre de la **règle 144, née ici**. **Sources** : liste des marchés de la Ville (« marché bio de producteurs et d'artisans locaux organisé par l'association 270° »), page du marché sur le site de l'association, fiche de l'office de tourisme. Une association d'un nom voisin est active au registre des entreprises à La Rochelle, sans que le rattachement ait été établi ; la règle 6 ne s'applique pas à un marché. **Horaires, règle 80** : 14h-20h (page de l'association), 15h-19h (office), « à partir de 15h30 » (affiche de l'association déposée sur la fiche de l'office) ; les trois sont publiés avec la plage commune. **Point, règle 64** : la Base ignore le parc de Laleu ; le marqueur de l'office se retourne à 27 m du 8 rue Georges-Musset et tombe à 37 m du centre du parc dans OpenStreetMap. **Produits, règle 74** : intitulés typographiés des métiers sur l'affiche « Label qualité producteur 2020/2021 » que l'association a déposée sur la fiche de l'office ; l'affiche montre les exposants en photographie, et aucun nom ni aucun visage n'en est repris ; la fiche dit que la liste date de cette saison. **Photographie** : vue prise sous le kiosque du parc, le mercredi 18 novembre 2020 d'après son horodatage et l'ardoise du marché, publiée par l'association sur sa page du marché ; recadrée sur le kiosque, les bocaux et l'allée — hors de l'ardoise manuscrite, qui porte des noms d'exposants dont certains sont des prénoms, d'une vendeuse et de deux personnes assises au fond — 823 px sans agrandissement. Reste `a_confirmer` : heures divergentes et composition 2026 non publiée)
+- **Halle gourmande Saint-Pierre** (Clermont-Ferrand) (catégorie et piliers des halles déjà publiées, Pau, Nîmes, Brest. **Registre, règle 106** : halle municipale ; le registre des entreprises y domicilie un poissonnier, un primeur, une brasserie et un établissement de la commune. **Sources** : liste des marchés de la Ville, sa page consacrée à la halle, fiche de l'office de tourisme. **Nombre de commerçants, règle 5** : « une quarantaine d'exposants » pour la Ville, « une vingtaine de commerçants » pour l'office ; les deux figurent dans la description. **Site, règle 62** : le domaine que la Ville et l'office donnent pour la halle renvoie désormais vers la page d'une agence web ; le champ pointe vers la page de la Ville. **Téléphone, règle 143** : ligne fixe que la Ville publie pour la halle. **Point** : centre de la place Saint-Pierre à la Base (0,972) ; le point qu'un primeur de la halle déclare au registre de l'Agence Bio tombe à 9 m, le marqueur de l'office, arrondi au millième, à une cinquantaine de mètres. **Produits** : page de la Ville consacrée à la halle. **Photo, règle 46** : photographie de la Ville attachée à la halle dans sa liste des marchés, prise un samedi de mars 2025 (règle 140 satisfaite, la halle ouvre six jours sur sept) ; recadrée sur la charpente et l'enseigne, hors de toute personne.)
+- **Marché Saint-Joseph** (Clermont-Ferrand) (même catégorie et mêmes piliers. **Organisateur** : association de producteurs fermiers dont l'enseigne est active au registre des entreprises, siège à Saint-Julien-Puy-Lavèze. **Horaires, règles 55 et 80** : vendredi 7h-12h pour l'association et pour l'office, 7h-13h sur la liste des marchés de la Ville ; l'office corrobore l'organisateur, 12h est publié et 13h cité. **Adresse, règle 98** : « 4 rue d'Ambert » pour l'association, « rue de Courpière » pour la Ville ; les deux points sont à 41 m, aux deux côtés de la halle ; on publie le numéro que la Base connaît (0,97), le marqueur de l'office se retourne sur le 1 rue de Courpière à 7 m. **Produits** : paragraphe de présentation de l'association ; sa page du marché liste aussi les producteurs sous leurs noms et leurs numéros de portable, rien n'en est repris. **Site** : la page de la Ville plutôt que celle de l'association, pour ne pas renvoyer depuis la carte vers une page de numéros personnels. **Photo, règle 46** : photographie de la Ville attachée à la halle, prise un vendredi de mai 2025 ; recadrée sur un étal de salades, hors de toute personne.)
+- **Marché du Mazet** (Clermont-Ferrand) (même catégorie et mêmes piliers. **Sources** : liste des marchés de la Ville et fiche de l'office, qui s'accordent sur le samedi 7h-13h. **Point** : centre de la place du Mazet à la Base (0,967), marqueur de l'office à 19 m ; la halle Saint-Pierre est à 107 m, deux lieux distincts (règle 12). **Produits, règles 91 et 103** : légumes lus sur l'étal de la photographie de la Ville, fleurs citées par l'office ; deux lignes seulement. **Photo, règles 46 et 140** : photographie de la Ville attachée à ce marché, prise un samedi de juin 2025 à 8h39 ; recadrée sur l'étal, sans visage.)
+- **Jaude fait son marché** (Clermont-Ferrand) (même catégorie et mêmes piliers ; pas d'`environnement`, règle 68 : la Ville écrit « produits locaux et biologiques » sans classification ni liste d'exposants. **Sources** : liste des marchés de la Ville, ses fiches d'agenda de septembre et décembre 2026, fiche de l'office ; toutes disent 1er et 3e dimanches, 7h-13h. **Point** : centre de la place de Jaude à la Base (0,974), marqueur de l'office à 27 m. **Produits, règles 74 et 91** : panneau imprimé d'un étal lisible sur la photographie de la Ville attachée à ce marché, prise le dimanche 6 juillet 2025, premier dimanche du mois. **Photo, règle 46** : même photographie, recadrée sur la statue, les façades et les toits des barnums, sans personne.)
+- **Marché de producteurs et artisans du parc thermal** (Royat) (même catégorie et mêmes piliers ; cinquième fiche prise dans Clermont Auvergne Métropole au titre de la **règle 96**, à 2,1 km de la place de Jaude, voir les pistes de Clermont-Ferrand. **Sources** : actualité de la Ville de Royat du 19 mai 2026, fiche de l'office de tourisme ; la page « Commerces / Marchés » de la Ville, qui annonce 8h-12h, décrit la saison 2023 et n'est pas reprise (règle 65). **Horaires, règle 5** : saison et heure de fin données par l'office seul, attribuées. **Point, règle 147, née ici**. **Produits, règle 119** : la Ville nomme des métiers alimentaires et des métiers d'artisanat sans décompte ; seuls les premiers sont dans `produits`, la description dit les seconds. **Photo** : photographie de la Ville de Royat publiée sur la fiche de l'office, qui montre la buvette Eugénie derrière les étals ; recadrée au-dessus des personnes, ce qui écarte aussi la banderole d'un exposant portant un numéro de portable. Le `robots.txt` de la Ville interdit `/wp-content` à tous les robots : aucune image n'a été prise sur son site.)
 
-Les 506 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 511 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2399,6 +2434,84 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Clermont-Ferrand
+
+Département visé : le **Puy-de-Dôme (63)**, déficit **4,8760** au titre de la règle 41 avec 506 fiches publiées, dont aucune dans
+le département. La Réunion (6,5288) reste écartée par la règle 93. La passe précédente visait la Charente-Maritime, en
+Nouvelle-Aquitaine ; le Puy-de-Dôme est en Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas. Après la passe, le
+Puy-de-Dôme tombe à **−0,0758** ; en tête du classement : l'**Essonne** (4,9193, Île-de-France), puis l'Isère (4,6266,
+Auvergne-Rhône-Alpes, que la prochaine passe ne peut pas viser) et l'Indre-et-Loire (4,5900).
+
+Commune retenue : **Clermont-Ferrand**, 146 351 habitants, la plus peuplée du département. Elle a rendu quatre fiches entières,
+image comprise — la halle gourmande Saint-Pierre, le marché Saint-Joseph, le marché du Mazet et Jaude fait son marché — et bien
+plus de marchés vérifiés sur les faits mais sans image utilisable (ci-dessous). La cinquième fiche a donc été prise dans la même
+intercommunalité au titre de la **règle 96** : le marché de producteurs du parc thermal de **Royat**, commune de Clermont Auvergne
+Métropole, à 2,1 km de la place de Jaude. Les cinq fiches tiennent dans 3,1 km (de la halle Saint-Joseph au parc thermal).
+
+**Les sources qui ont fait la passe.** La « Liste des marchés » de `clermont-ferrand.fr`, dont chaque photographie a été récupérée
+en pleine résolution pour en lire la date de prise de vue ; la page de la Ville consacrée à la halle Saint-Pierre, son actualité
+du marché de Croix-de-Neyrat et ses fiches d'agenda de Jaude ; les fiches de l'office de tourisme sur
+`clermontauvergnevolcans.com` (`robots.txt` ouvert à tous) ; le site de l'association organisatrice du marché Saint-Joseph ;
+l'actualité de la Ville de Royat du 19 mai 2026 ; le registre des entreprises ; la Base Adresse Nationale ; OpenStreetMap par l'API
+Overpass, pour contrôler le point de Royat seulement. Le registre de l'Agence Bio, paginé sur les 1 348 opérateurs du département,
+compte 94 opérateurs à Clermont-Ferrand : supermarchés, grossistes, restaurants, laboratoires et quelques magasins spécialisés
+(ci-dessous) ; il n'a fourni aucune fiche. **Non consultés** : `biocoop.fr` (règle 149, née ici) et le répertoire
+`/wp-content` de `royat.fr`, que son `robots.txt` ferme à tous les robots.
+
+**Contradictions tranchées** : horaires du marché Saint-Joseph (12h pour l'organisateur et l'office, 13h pour la Ville ; règles 55
+et 80) ; adresse de la même halle (rue d'Ambert contre rue de Courpière, 41 m ; règle 98) ; nombre de commerçants de la halle
+Saint-Pierre (quarante contre vingt ; règle 5, les deux publiés) ; point de Royat (règle 147, née ici). Le domaine que la Ville
+et l'office donnent encore pour la halle Saint-Pierre renvoie vers la page d'une agence web : il n'est pas inscrit (règle 62).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. Ont été laissés de côté pour ce motif sans bloquer de
+fiche : la page du marché Saint-Joseph qui liste les producteurs sous leurs noms et leurs portables, dont seul le paragraphe de
+présentation a servi ; la page d'accueil de la même association, qui met un producteur en avant sous son nom ; les crédits
+photographiques nominatifs de l'office et le champ « copyright » des métadonnées des photographies de la Ville, effacés des
+fichiers publiés ; la banderole d'un exposant de Royat portant un numéro de portable, hors du recadrage.
+
+**Photographies de la Ville écartées par la règle 140** — c'est ce qui a fait tomber la plupart des marchés de quartier :
+
+- **Marché de Montferrand** (vendredi 7h-13h, de la place Poly à la place de la Rodade ; la Ville et l'office concordent) : la
+  photographie dont le nom de fichier désigne Montferrand a été prise un **jeudi** de septembre 2022, et elle montre surtout des
+  portants de vêtements. **Critère** : une photographie prise un vendredi, et une composition des étals qui écarte la règle 119.
+- **Marché Loucheur** (mercredi 7h-13h, rues Chevreul et Alexis-Piron) : sa photographie a été prise un **mardi**, et la même prise
+  de vue illustre aussi la rubrique du samedi. **Critère** : une photographie prise un mercredi.
+- **Marché de La Glacière** (mardi et samedi 7h-13h, rue Chateaubriand) : sa photographie a été prise un **vendredi**.
+  **Critère** : une photographie prise un mardi ou un samedi.
+- **Marché de La Gauthière** (mardi 7h-13h, place de la Gauthière) : sa photographie, un gros plan de 800 px de 2013, est le même
+  fichier que le bandeau de la rubrique du dimanche (règle 88) ; aucun produit ne s'en lit, et aucune source ne décrit les étals.
+  **Critère** : une photographie propre à ce marché, ou une composition publiée.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché (circuits courts) de Montferrand** (1er et 3e samedis, place de la Fontaine ; « Producteurs locaux et produits du
+  terroir », 7h-13h pour la Ville ; « produits exclusivement auvergnats », organisé par l'association des commerçants, 8h-13h pour
+  l'office ; Base sur la place de la Fontaine à vérifier) : publiable sur les faits au titre de la règle 80, **bloqué par l'image**.
+  L'office l'illustre d'une photographie de banque d'images (Pexels, interdite), la Ville d'aucune, et la seule image non
+  attribuée de sa page des marchés montre un étal couvert d'avocats et de fruits étiquetés d'origines lointaines, trompeuse pour un
+  marché « exclusivement auvergnat ». **Critère** : une photographie de ce marché sans visage, ou une vue thématique de Montferrand
+  qui ne montre pas de produits d'importation.
+- **Marché de Trémonteix** (jeudi en fin d'après-midi ; producteurs locaux et bio, épicerie en vrac et camions de restauration,
+  organisé par le comité de quartier avec la Ville selon l'office, place Paul-Eychart) : 17h-20h pour la Ville, 17h-19h30 pour
+  l'office ; la liste de la Ville fait suivre ce marché de la mention « Marché alimentaire de quartier, 62 rue Victor Charreton »,
+  sans qu'on sache si c'est son adresse ou un autre marché ; photographie de l'office tirée de Pexels. **Critère** : une page de la
+  Ville qui rattache le marché à un seul lieu, et une photographie.
+- **Marché de Croix-de-Neyrat** (jeudi, parking devant l'ancienne médiathèque ; 6h-13h dans l'actualité d'ouverture, 7h-13h dans la
+  liste) : photographie de la Ville prise le jour de l'ouverture, un jeudi, utilisable. **Bloqué par la règle 148, née ici** :
+  organisation annoncée jusqu'au 31 décembre 2025. **Critère** : une publication de la Ville postérieure à cette date.
+- **Autres marchés de quartier** (les 4 routes, Ballainvilliers, Vallières, les Vergnes, place de Regensburg, place de Verdun le
+  vendredi après-midi, La Pradelle, place Littré, Neuf-Soleils, les Gravouses) : jour et heure publiés par la Ville seule, sans
+  photographie ni composition ; non instruits.
+- **Magasins** : Le Cercle des Producteurs, deux boutiques du centre adossées à une exploitation de Vertaizon, certificat bio en
+  vigueur pour la boutique de la rue Saint-Genès — son site met en avant des maisons nationales (foie gras landais, caviar de
+  Dordogne, beurre breton) à côté de fruits et légumes achetés en direct à des agriculteurs de la région ; **critère, règle 86** :
+  une liste de producteurs régionaux nommés sous leur enseigne. Le magasin Biocoop de la rue Blatin (établissement ouvert,
+  certificat en vigueur) ; **critère, règle 149** : des horaires et une liste de producteurs publiés ailleurs que sur le site du
+  réseau. Deux magasins bio certifiés depuis 2005, avenue Jean-Jaurès et rue Niel, sans site trouvé ; non instruits.
+- **Dans la métropole** : les marchés de producteurs de Gerzat et de Lempdes (4e dimanche du mois, réseau « De nos fermes 63 »),
+  dont les images de l'office sont des affiches sous 600 px ou des photographies « libres de droit » ; le petit marché
+  exclusivement alimentaire d'Aubière le vendredi ; non instruits.
 
 ### Pistes non publiées à La Rochelle
 
