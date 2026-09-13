@@ -1638,9 +1638,31 @@ prioritaires en cas de conflit.
      consigné ici. Avec deux sources seulement, ou sans numéro bis au contrôle inverse, la règle 10
      s'applique telle quelle.
 
+130. **Un siège transféré vers un nouvel établissement ne ferme pas le point de vente que le registre garde
+     ouvert et que le commerce publie encore.** La micro-brasserie L'Arras'In a déplacé son siège le
+     17 juin 2026 vers un nouvel établissement d'Arras, déclaré sous un autre code d'activité (11.07B) ; son
+     établissement de la rue Désiré-Bras, code 11.05Z, reste **ouvert** au registre, et le site de la
+     brasserie y donne toujours son adresse et ses heures. Lue vite, la date récente du transfert fait
+     croire à un déménagement. **Tranché ainsi** : la fiche va à l'établissement ouvert que le commerce
+     publie à ses clients, règles 30 et 116 ; le nouvel établissement se consigne ici sans être cartographié
+     tant que le commerce n'y annonce ni vente ni horaires ; la fiche passe en `a_confirmer`. Le jour où le
+     registre ferme l'établissement publié, ou le jour où le site change d'adresse, la fiche se corrige.
+
+131. **La page qu'un annuaire consacre à un marché additionne les productions de tous les producteurs
+     qu'il y rattache ; elle ne nourrit pas `produits`, seule la page d'un producteur à enseigne non
+     patronymique le fait.** Où acheter local rattache au marché de la place Verlaine trois exploitations
+     et affiche, sous le marché, une liste de produits qui est l'union de leurs trois fiches ; deux d'entre
+     elles ne sont désignées que par un nom de personne ou un prénom. Reprendre la liste du marché aurait
+     crédité l'étal d'une exploitation publiable de ce que vendent les deux autres, et publié en creux ce
+     que vendent des personnes qu'on ne nomme pas. **Tranché ainsi** : on ouvre la fiche de chaque
+     producteur, on ne retient que ceux dont l'enseigne n'est pas un patronyme (règles 36 et 122), et la
+     ligne de `produits` reprend ce que la fiche du producteur écrit, entre ses mots, avec son nom, comme à
+     la règle 97. Les autres producteurs du marché ne sont ni nommés ni comptés. Si aucun producteur
+     publiable n'est rattaché, `produits` retombe sur la règle 103.
+
 ## Marchands à confirmer
 
-431 fiches sur 466 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+436 fiches sur 471 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2095,7 +2117,12 @@ prioritaires en cas de conflit.
 - **Ferme de Saint-Thibault** (Saint-Thibault-des-Vignes) (catégorie `ferme`, règle 29 : lait, fromages et yaourts produits sur place, produits d'autres fermes revendus et dits. **Règle 6** : exploitation active, établissement ouvert rue Pasteur, code 01.50Z. Pas de pilier `environnement`, règle 39 : l'engagement Certis ne déclare que des mélanges fourragers et des surfaces non productives. **Horaires, règle 58** : page de référence « La boutique », corroborée par Bienvenue à la ferme ; la page d'accueil, dans son annonce de Noël 2025, donne 15h le dimanche, cité dans la fiche. **Point** : 80 rue Pasteur à la Base Adresse Nationale (0,958), adresse du site de la ferme ; le marqueur de l'office tombe 295 m à l'est, sur la partie de la rue Pasteur qui appartient à Gouvernes, et l'Agence Bio écrit « 82 rue Pasteur ». **Photo** : intérieur de la boutique publié par la ferme (janvier 2012), recadré sur la vitrine réfrigérée et les étagères pour écarter la vendeuse ; 754 px)
 - **Au pain des champs** (Montévrain) (paysan-boulanger, catégorie `producteur`, règles 20 et 73 : grains cultivés et moulus à la ferme de Baleine, à Amillis, pain cuit et vendu au kiosque. **Règle 6** : entreprise individuelle active, établissement ouvert au 4 rue Édouard-Buffard depuis septembre 2023 ; son nom au registre est celui de l'exploitant et n'est repris nulle part, l'enseigne est celle que la boulangerie imprime elle-même (règle 36). **Horaires** : office de tourisme de Marne et Gondoire et affichette de la boulangerie, identiques (règle 115). Pas de `site_web` : seules des pages de réseaux sociaux existent (règle 33). Téléphone non inscrit : portable. **Point** : 4 rue Édouard-Buffard à la Base Adresse Nationale (0,96), point du registre à 19 m. **Image** : haut de l'affichette de la boulangerie, photographiée en octobre 2023 et publiée par l'office de tourisme — elle montre l'enseigne et les pains, pas le kiosque)
 
-Les 466 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché des Places** (Arras) (catégorie et piliers des marchés. **Jours et lieux** : page « Les marchés arrageois » de la Ville, mercredi matin place des Héros, samedi matin place de la Vacquerie, place des Héros et Grand'Place, sans heure (règle 9) ; 9h-13h attribué à l'office de tourisme. Une seule fiche pour les deux séances, qui partagent la place des Héros (règle 42). **Produits** : métiers de la fiche de l'office pour la place des Héros, et « produits locaux » de sa page sur les Places ; aucun décompte d'étals, la règle 119 ne joue pas. **Déplacement d'hiver** : lettre de la Ville de novembre 2025, fenêtre close le 14 janvier 2026, citée dans `horaires` (règle 107) ; ses plans d'emplacements portent des noms de commerçants, aucun n'est repris. **Point** : place des Héros à la Base Adresse Nationale (0,971), marqueur de l'office à 8 m. **Photo, règles 1 et 66** : bandeau de la page des marchés de la Ville, sans EXIF ni attribution à un marché — les pavés et les arcades désignent les Places, mais rien ne le prouve ; recadré sur les cagettes d'un primeur, sans visage, 2 008 px réduits à 1 280. Ce bandeau ne sert aucune autre fiche)
+- **Marché de la place Marc-Lanvin** (Arras) (catégorie et piliers des marchés. **Jour** : Ville, jeudi matin, et deux actualités de la Ville consacrées à ce marché (jeudis fériés de mai 2025, annulations des 25 décembre 2025 et 1er janvier 2026) ; 9h-13h attribué à l'office de tourisme ; l'annuaire Où acheter local donne 8h-13h pour deux stands, dont l'un porte un patronyme et l'autre un nom pouvant en être un : non repris. **Produits, règles 91 et 92** : les deux photographies que la Ville attache à ses actualités sur ce marché montrent un primeur, des portants de vêtements et un étal de biscuits de marque ; seule la ligne « fruits et légumes » est publiée. **Photo, règles 75 et 109** : l'une de ces deux photographies, EXIF du jeudi 19 avril 2018 à 11h16, le jour du marché ; recadrée pour écarter les visages, un panneau d'étal portant un nom de personne et les prénoms peints sur un camion, 2 976 px réduits à 1 280. **Point** : place Marc-Lanvin à la Base Adresse Nationale (0,964), marqueur de l'office à 10 m)
+- **Marché du Rietz** (Arras) (catégorie et piliers des marchés. **Jour** : Ville, jeudi après-midi « Parc du Rietz » ; 14h-18h chez l'office de tourisme et chez Où acheter local, concordants. **Point, règle 64** : la Base Adresse Nationale ne connaît ni « parc » ni « place du Rietz » (meilleure réponse : rue Neuve du Rietz à 0,51, à plus de 200 m). Le marqueur de l'office se retourne sur le 66 rue Alexandre-Georges à **36 m** ; le point que la Ville publie pour son marché nocturne du Rietz du 8 octobre 2026, à 73 m de là, se retourne sur la même rue à 52 m, deux mètres au-delà du seuil : c'est le point de l'office qui est publié, et l'adresse porte les deux noms (règle 50). **Produits, règles 97 et 131** : le Verger de Souastre, arboriculteur que l'annuaire rattache à ce marché ; enseigne de lieu, établissement ouvert au registre à l'adresse que donne l'annuaire ; le nom de l'exploitant que l'annuaire imprime n'est pas repris. Son certificat bio est arrêté le 21 août 2026 sur un SIRET et engagé sur un autre à Souastre (règle 25) ; il ne donne pas `environnement` au marché (règles 60 et 68). **Photo, règle 1** : vignette de la page des marchés de la Ville, attribuée à aucun marché, recadrée sur des cagettes de pommes sans personne ; elle ne montre pas le Rietz et la fiche le dit)
+- **Marché de la place Verlaine** (Arras) (catégorie et piliers des marchés. **Jour** : Ville, dimanche matin ; 8h-13h chez l'office de tourisme, 8h-12h30 chez Où acheter local pour les stands qu'il référence — les deux sont cités, la fin la plus tôt mise en avant (règle 78). **Adresse** : « Place Paul Verlaine » à la Base Adresse Nationale (0,703), marqueur de l'office à 41 m. **Produits, règle 131, née ici** : des trois exploitations que l'annuaire rattache au marché, seule Au Jardin de l'Artois Bio et Local a une enseigne publiable — établissement ouvert à Neuville-Vitasse, engagement Ecocert depuis 2007 au registre de l'Agence Bio ; la ligne reprend sa propre fiche, « légumes et pommes bio ». Pas de pilier `environnement` pour le marché (règle 60). **Photo, règle 1** : la place réaménagée, aire de jeux et tour de logements, dans la galerie de l'inauguration publiée par la Ville en juin 2025 ; aucune personne identifiable, pas de marché ce jour-là, et la fiche le dit)
+- **Micro-brasserie L'Arras'In** (Arras) (catégorie `producteur`, règle 73 ; pilier `economie` seul, règles 14 et 15 : bières uniquement, aucune certification. **Règles 6 et 130** : établissement ouvert au 2 bis rue Désiré-Bras, code 11.05Z ; siège transféré le 17 juin 2026 vers un nouvel établissement de la commune, non cartographié. **Horaires, règle 104** : site de la brasserie, contre la fiche de l'office de tourisme qui date de la période de confinement (jeudi-samedi 10h-19h, mercredi 10h-13h et 15h30-19h). **Site** : `larrasin.fr` nomme l'adresse (règle 56). Téléphone non inscrit : l'office donne un portable que la brasserie ne publie pas ; adresse électronique non reprise. **Point** : 2bis rue Désiré-Bras à la Base Adresse Nationale (0,784 ; le « 2 » à 0,966 tombe à 7 m), point du registre à 3 m, marqueur de l'office à 10 m. **Photo** : la devanture publiée par la brasserie, enseigne lisible, personne dans le cadre)
+Les 471 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2123,6 +2150,69 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Arras
+
+Département visé : le **Pas-de-Calais (62)**, déficit **4,8529** au titre de la règle 41 avec 466 fiches
+publiées et 5 dans le département, toutes à Calais. La Réunion (6,0127) reste écartée par la règle 93. La
+passe précédente visait la Seine-et-Marne, en Île-de-France ; le Pas-de-Calais est dans les Hauts-de-France,
+la réserve de la règle 41.c ne joue pas. Suivants du classement après cette passe : les Pyrénées-Atlantiques
+(4,8264) et le Val-de-Marne (4,7470). Les cinq fiches ramènent le déficit du 62 à environ **−0,04**.
+
+**Commune** : **Arras** (42 875 habitants), la plus peuplée du département sans aucune fiche, Calais mise à
+part. Elle rend ses cinq fiches à elle seule, sans élargissement ni descente d'échelle : quatre des cinq
+marchés hebdomadaires de la Ville — les séances du mercredi et du samedi faisant une seule fiche — et une
+micro-brasserie du centre. Distance maximale entre deux fiches : 3,3 km, entre la place Verlaine et le Rietz.
+
+**Les sources qui ont fait la passe** : la page « Les marchés arrageois » de `arras.fr`, lue par l'API de
+son application (`varras.mbscom.net/api/pages/les-marches-arrageois`), ses actualités sur le marché Lanvin et
+la place Verlaine, sa lettre de novembre 2025 sur le déplacement d'hiver ; les fiches « Commerces et
+services » et la page « Les Places d'Arras » de l'office de tourisme `arraspaysdartois.com`, dont le
+`robots.txt` n'interdit rien (règle 77) — attention, beaucoup de ces fiches datent du confinement et
+n'ont pas été reprises depuis ; l'annuaire Où acheter local de la Chambre d'agriculture ; le site de la
+brasserie ; le registre de l'Agence Bio, **1 099** opérateurs lus sur le Pas-de-Calais ; le registre des
+entreprises ; la Base Adresse Nationale. Ces sources nomment des commerçants, des exploitants, des gérants
+et des photographes, et les photographies de la Ville portent le nom de leur auteur dans leurs métadonnées :
+aucun nom n'est repris, et les images publiées ont été réenregistrées sans métadonnées.
+
+**Contradictions tranchées** :
+
+- Micro-brasserie L'Arras'In : horaires du site contre ceux de l'office, règle 104 ; transfert de siège,
+  règle 130, née ici.
+- Marché du Rietz : « Parc du Rietz » pour la Ville, « Place du Rietz » pour l'office ; deux points
+  d'autorité à 73 m l'un de l'autre, règle 64 appliquée au seul qui passe le seuil de 50 m (voir la fiche).
+- Marché de la place Verlaine : 8h-13h contre 8h-12h30, les deux cités, règle 78. Produits : règle 131,
+  née ici.
+- Marché des Places : la page de la Ville ne donne que des demi-journées, l'office 9h-13h ; l'annuaire de
+  la Chambre d'agriculture donne 8h-13h le samedi, heure de présence d'un stand (règle 97), non reprise.
+
+**Restent à instruire, pour une passe suivante :**
+
+- Arras, magasin bio de réseau de la voie Notre-Dame-de-Lorette : établissement ouvert, certificat
+  engagé ; sa page « Producteurs locaux » est vide. Règle 86.
+- Saint-Laurent-Blangy, magasin bio coopératif : sa page « Nos amis producteurs & partenaires » ne nomme
+  aucun producteur, seulement des intervenants et une association. Règle 86.
+- Arras, ancien magasin bio de réseau du boulevard de Strasbourg : certificat arrêté en décembre 2020,
+  fiche d'office datant du confinement. Non instruit, probablement fermé.
+- Arras, boulangerie bio inscrite au registre de l'Agence Bio avec un lieu de vente rue d'Amiens : aucun
+  établissement ouvert à cette adresse au registre des entreprises, siège dans une autre commune. Non publiée
+  (règle 6).
+- Arras, point de retrait d'un réseau de vente en ligne de produits fermiers, dans une rue résidentielle :
+  distribution hebdomadaire active, mais l'adresse n'est rattachée à aucun commerce et peut être un
+  domicile. Écarté, doute sur une donnée personnelle.
+- Arras, AMAP rue Aristide-Briand et point de vente associatif boulevard du Général-de-Gaulle : repérés
+  dans l'annuaire Où acheter local comme points de vente d'une exploitation de Neuville-Vitasse, non
+  instruits.
+- Dainville, maraîcher bio avec magasin à la ferme : l'enseigne publiée accole le patronyme de la famille
+  exploitante. Écarté, doute sur une personne.
+- Sainte-Catherine, ferme avec cueillette et distributeur de légumes : horaires dans l'annuaire de la
+  Chambre d'agriculture (14h-18h du lundi au samedi), aucune photographie. Débloquée par une photographie et une source de la ferme.
+- Beaurains, cueillette d'un réseau de cueillettes : horaires sur la fiche de l'office datant du
+  confinement, seule présence en ligne sur un réseau social. Débloquée par une source à jour et une image.
+- Gavrelle, magasin de producteurs et brasserie paysanne bio voisins : à 10 km du centre d'Arras, dans la
+  communauté urbaine ; non instruits, la passe ayant trouvé ses cinq fiches dans la commune.
+- Arras, marché aux fleurs de l'office de tourisme : jardinerie, hors sujet.
+- **Communes suivantes du 62** : Boulogne-sur-Mer (40 539 habitants), puis Lens et Liévin.
 
 ### Pistes non publiées à Bussy-Saint-Georges et en Marne et Gondoire
 

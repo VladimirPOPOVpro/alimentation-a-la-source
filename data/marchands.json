@@ -12349,5 +12349,125 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20rue%20%C3%89douard%20Buffard%2C%2077144%20Mont%C3%A9vrain",
     "image_url": "/images/marchands/au-pain-des-champs-montevrain.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-places-arras",
+    "nom": "Marché des Places",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.290843,
+    "lon": 2.777893,
+    "adresse": "Place des Héros, place de la Vacquerie et Grand'Place, 62000 Arras",
+    "horaires": "Le mercredi matin sur la place des Héros, et le samedi matin sur la place de la Vacquerie, la place des Héros et la Grand'Place, d'après la page « Les marchés arrageois » de la Ville, qui ne publie pas d'heures. L'office de tourisme Arras Pays d'Artois annonce 9h-13h les deux jours. L'hiver dernier, pendant l'installation de la Ville de Noël (du 12 novembre 2025 au 14 janvier 2026), la Ville a déplacé ces deux marchés dans les rues voisines et sur la place Guy-Mollet.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie",
+      "Poissonnerie et huîtres",
+      "Volailles et rôtisserie",
+      "Produits laitiers et fromages",
+      "Produits locaux"
+    ],
+    "description": "Le grand marché du centre d'Arras, au pied du beffroi, sur les places à arcades reconstruites après la Première Guerre mondiale : plus de 200 étals le samedi selon l'office de tourisme, qui cite aussi des objets d'artisanat. Les métiers listés sont ceux de la fiche de l'office pour la place des Héros ; aucune source ne publie le décompte des étals par activité.",
+    "site_web": "https://www.arras.fr/page/les-marches-arrageois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20H%C3%A9ros%2C%2062000%20Arras",
+    "image_url": "/images/marchands/marche-des-places-arras.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-marc-lanvin-arras",
+    "nom": "Marché de la place Marc-Lanvin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.29407,
+    "lon": 2.746902,
+    "adresse": "Place Marc Lanvin, 62000 Arras",
+    "horaires": "Le jeudi matin, d'après la page « Les marchés arrageois » de la Ville, qui ne publie pas d'heures ; l'office de tourisme Arras Pays d'Artois annonce 9h-13h. La Ville a maintenu ce marché les jeudis fériés de mai 2025 et l'a annulé le 25 décembre 2025 et le 1er janvier 2026.",
+    "produits": [
+      "Fruits et légumes (étal photographié par la Ville)"
+    ],
+    "description": "Marché de quartier des Hauts Blancs Monts, dans l'ouest d'Arras. La composition des étals n'est publiée nulle part : les photographies que la Ville consacre à ce marché montrent un primeur, mais aussi des portants de vêtements et un étal de biscuits emballés.",
+    "site_web": "https://www.arras.fr/page/les-marches-arrageois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Marc%20Lanvin%2C%2062000%20Arras",
+    "image_url": "/images/marchands/marche-place-marc-lanvin-arras.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-rietz-arras",
+    "nom": "Marché du Rietz",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.2864,
+    "lon": 2.78707,
+    "adresse": "Parc du Rietz (place du Rietz pour l'office de tourisme), rue Alexandre-Georges, 62000 Arras",
+    "horaires": "Le jeudi après-midi, d'après la page « Les marchés arrageois » de la Ville, qui ne publie pas d'heures ; l'office de tourisme Arras Pays d'Artois et l'annuaire Où acheter local de la Chambre d'agriculture annoncent 14h-18h.",
+    "produits": [
+      "Fruits bio du Verger de Souastre : pommes, poires, mirabelles, cerises, fraises",
+      "Confitures du Verger de Souastre"
+    ],
+    "description": "Petit marché du jeudi après-midi dans le quartier Sud, derrière la gare. Ni la Ville ni l'office ne publient la liste des étals ; les produits cités sont ceux du Verger de Souastre, arboriculteur que l'annuaire Où acheter local de la Chambre d'agriculture place sur ce marché, et ne font pas l'inventaire du marché. Photo d'illustration des marchés arrageois publiée par la Ville, pas une vue de ce marché.",
+    "site_web": "https://www.arras.fr/page/les-marches-arrageois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc%20du%20Rietz%2C%2062000%20Arras",
+    "image_url": "/images/marchands/marche-du-rietz-arras.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-verlaine-arras",
+    "nom": "Marché de la place Verlaine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.301311,
+    "lon": 2.747289,
+    "adresse": "Place Paul Verlaine, 62000 Arras",
+    "horaires": "Le dimanche matin, d'après la page « Les marchés arrageois » de la Ville, qui ne publie pas d'heures ; l'office de tourisme Arras Pays d'Artois annonce 8h-13h, et l'annuaire Où acheter local de la Chambre d'agriculture donne 8h-12h30 pour les producteurs qu'il y référence : mieux vaut y être avant midi et demi.",
+    "produits": [
+      "Légumes et pommes bio d'Au Jardin de l'Artois Bio et Local (Neuville-Vitasse)"
+    ],
+    "description": "Marché du dimanche matin de la résidence Saint-Pol, sur une place que la Ville a réaménagée et plantée d'arbres en 2025. La composition des étals n'est pas publiée ; la ligne de produits vient d'une exploitation de Neuville-Vitasse que l'annuaire Où acheter local de la Chambre d'agriculture place sur ce marché. La photo montre la place réaménagée, publiée par la Ville, un jour sans marché.",
+    "site_web": "https://www.arras.fr/page/les-marches-arrageois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Paul%20Verlaine%2C%2062000%20Arras",
+    "image_url": "/images/marchands/marche-place-verlaine-arras.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "micro-brasserie-l-arras-in",
+    "nom": "Micro-brasserie L'Arras'In",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 50.292082,
+    "lon": 2.776132,
+    "adresse": "2 bis rue Désiré Bras, 62000 Arras",
+    "horaires": "Mercredi de 10h à 13h30 et de 15h30 à 19h, jeudi et vendredi de 15h à 19h, samedi de 10h à 19h, d'après le site de la brasserie. La fiche plus ancienne de l'office de tourisme donne d'autres heures (jeudi au samedi 10h-19h) : ce sont celles du site qui sont publiées.",
+    "produits": [
+      "Bière blonde de fermentation haute (6,2 %)",
+      "Bière de fermentation haute aux notes de céréales, houblonnée et épicée (8,2 %)",
+      "Bière aux fruits exotiques et à la chicorée (6,5 %)",
+      "Smash lager (4,5 %)",
+      "Bière à la myrtille (8,3 %)",
+      "Bières saisonnières, éphémères et collaborations",
+      "Location de tireuse et de fûts"
+    ],
+    "description": "Micro-brasserie urbaine installée en 2019 à 200 m de la place des Héros : la bière est brassée sur place et vendue au comptoir de la brasserie, avec une gamme permanente et des brassins éphémères. Aucune certification n'est revendiquée, d'où le seul pilier économie.",
+    "site_web": "https://larrasin.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20bis%20rue%20D%C3%A9sir%C3%A9%20Bras%2C%2062000%20Arras",
+    "image_url": "/images/marchands/micro-brasserie-l-arras-in.jpg",
+    "a_confirmer": true
   }
 ]
