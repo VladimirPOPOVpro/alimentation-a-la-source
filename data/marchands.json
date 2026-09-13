@@ -12888,5 +12888,137 @@
     "site_web": "https://zou-lagalinette.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=443+rue+du+Parc+Floral+Saint-Cyr-en-Val",
     "image_url": "/images/marchands/au-bon-endroit-zou-la-galinette-saint-cyr-en-val.jpg"
+  },
+  {
+    "slug": "marche-couvert-batignolles",
+    "nom": "Marché couvert Batignolles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.889372,
+    "lon": 2.319134,
+    "adresse": "96 bis rue Lemercier, 75017 Paris",
+    "horaires": "Du mardi au vendredi de 9h à 14h et de 16h à 20h30, le samedi de 8h30 à 20h30, le dimanche de 8h30 à 14h ; fermé le lundi, d'après la fiche du lieu et le panneau de la Ville à l'entrée. (La page générale des marchés de la Ville donne 8h-13h le dimanche ; le gestionnaire annonce en semaine 8h30-13h et 15h30-20h, et le samedi jusqu'à 20h.)",
+    "produits": [
+      "Fruits et légumes (quatre étals)",
+      "Produits maraîchers de proximité issus de l'agriculture raisonnée (ardoise d'un étal photographiée par la Ville)",
+      "Boucherie, charcuterie et volaille",
+      "Poissonnerie (deux étals)",
+      "Crèmerie, épicerie fine et fromagerie",
+      "Boulangerie",
+      "Traiteurs libanais, italien, japonais, coréen, marocain et africain",
+      "Fleurs"
+    ],
+    "description": "Halle de quartier entre les rues Lemercier, des Moines et Brochant, dont le panneau municipal recense vingt-deux emplacements, en grande majorité alimentaires, autour d'une supérette et d'un espace de convivialité. Ses façades ont été entièrement repeintes en 2018 par quatre muralistes, sur des thèmes de graines, de fruits et de plantes, dans le cadre du budget participatif. L'entrée de la photographie est celle de la rue des Moines.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-batignolles-5517",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=96+bis+rue+Lemercier+75017+Paris",
+    "image_url": "/images/marchands/marche-couvert-batignolles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-des-ternes",
+    "nom": "Marché couvert des Ternes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.881131,
+    "lon": 2.291995,
+    "adresse": "8 bis rue Lebon, 75017 Paris",
+    "horaires": "Du mardi au vendredi de 8h à 14h30 et de 16h à 19h30, le samedi de 8h à 19h30, le dimanche de 8h à 13h ; fermé le lundi, d'après la Ville. (Le gestionnaire annonce une coupure de 13h à 16h du mardi au samedi ; la page générale des marchés de la Ville ne cite pas ce marché le dimanche, que la fiche du lieu et le gestionnaire donnent ouvert.)",
+    "produits": [
+      "Fruits et légumes (deux primeurs)",
+      "Agrumes, melons, fruits rouges et noix (étal photographié par la Ville)",
+      "Fromages (deux fromagers)",
+      "Boucherie",
+      "Volailles",
+      "Poissonnerie",
+      "Traiteurs libanais et franco-caribéen",
+      "Fleurs"
+    ],
+    "description": "Petit marché couvert d'une dizaine de commerces, héritier d'un marché découvert créé en 1852 sur l'avenue des Ternes, alors sur la commune de Neuilly, et couvert en 1868 ; la halle actuelle a été reconstruite et a ouvert en décembre 1970. La Ville y compte deux fromagers, deux primeurs, un boucher, un volailler, un poissonnier, un fleuriste et deux traiteurs.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-des-ternes-5515",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8+bis+rue+Lebon+75017+Paris",
+    "image_url": "/images/marchands/marche-couvert-des-ternes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-de-passy",
+    "nom": "Marché couvert de Passy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.857472,
+    "lon": 2.277298,
+    "adresse": "1 rue Bois le Vent, place de Passy, 75016 Paris",
+    "horaires": "Du mardi au vendredi de 8h à 13h et de 16h à 19h, le samedi de 8h à 19h, le dimanche de 8h à 13h ; fermé le lundi, d'après la fiche du lieu et la page des marchés de la Ville. (Le gestionnaire annonce le samedi une coupure de 13h à 15h30.)",
+    "produits": [
+      "Fruits et légumes, dont ceux d'un maraîcher qui vend la production de son jardin familial de Cergy (Val-d'Oise)",
+      "Choux-fleurs blancs, violets et orange, poireaux, épinards (étal photographié par la Ville)",
+      "Fromages",
+      "Poissons et fruits de mer, avec comptoir de dégustation",
+      "Boucherie, rôtisserie et charcuterie-traiteur",
+      "Pâtisseries d'artisans",
+      "Fleurs"
+    ],
+    "description": "Une vingtaine de commerçants sous une toiture de béton à petites fenêtres construite dans les années 1960, quand la halle n'était fermée que par des grilles ; elle n'a été close par des vitres et des portes qu'en 1990. Les étals les plus anciens gardent leur carrelage d'époque, jaune et blanc moucheté, et la poissonnerie y est installée depuis quarante-cinq ans. On y trouve aussi un droguiste.",
+    "site_web": "https://www.paris.fr/lieux/marche-couvert-de-passy-5512",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1+rue+Bois+le+Vent+75016+Paris",
+    "image_url": "/images/marchands/marche-couvert-de-passy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-berthier",
+    "nom": "Marché Berthier",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.889485,
+    "lon": 2.298216,
+    "adresse": "Boulevard de Reims, le long du square André-Ulmann, 75017 Paris",
+    "horaires": "Mercredi de 7h à 13h30 ; samedi de 7h à 13h30 d'après la page des marchés de la Ville (sa fiche du lieu et son jeu de données ouvert annoncent une fermeture à 14h30 le samedi).",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits et légumes : pêches plates, pommes, grenades, ananas, agrumes, avocats (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 558 mètres de linéaire, sous les arbres du boulevard de Reims, le long du square André-Ulmann et du terrain de boules, près de la porte de Champerret. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient de la seule photographie qu'elle attache à ce marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-berthier-5514",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Berthier+boulevard+de+Reims+Paris",
+    "image_url": "/images/marchands/marche-berthier.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-maillot-malakoff",
+    "nom": "Marché Maillot-Malakoff",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.876383,
+    "lon": 2.283744,
+    "adresse": "Avenue de Malakoff, côté pair, entre le n° 154 et le n° 162, 75116 Paris",
+    "horaires": "Mercredi de 7h à 13h30, samedi de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits et légumes : artichauts, blettes, carottes, tomates, aubergines, poivrons (étal photographié par la Ville)"
+    ],
+    "description": "Petit marché alimentaire de plein air, cinquante mètres de linéaire sur le trottoir pair de l'avenue de Malakoff, à deux pas de la porte Maillot. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient de la seule photographie qu'elle attache à ce marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-maillot-malakoff-5511",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=154+avenue+de+Malakoff+75116+Paris",
+    "image_url": "/images/marchands/marche-maillot-malakoff.jpg",
+    "a_confirmer": true
   }
 ]

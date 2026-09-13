@@ -1752,9 +1752,41 @@ prioritaires en cas de conflit.
      Saint-Cyr-en-Val, dont le certificat Ecocert porte l'activité « Détaillant » en plus de la production, n'a pas
      besoin de cette règle.
 
+138. **Quand deux publications d'une même autorité se contredisent sur le jour de tenue d'un marché, et non sur
+     l'heure, la fiche ne publie comme certains que les jours sur lesquels elles s'accordent, et nomme l'autre jour
+     avec ses deux versions.** Le marché Président Wilson, dans le 16e arrondissement, se tient le samedi pour toutes
+     les sources de la Ville ; son second jour est le **mercredi** sur la fiche du lieu et dans le jeu de données
+     ouvert « Marchés découverts », mais le **mardi** sur la page « Les marchés de Paris » mise à jour le 7 septembre
+     2026, qui ne le cite pas le mercredi. La règle 80 départage des heures par la fenêtre la plus étroite ; pour un
+     jour, il n'y a pas de fenêtre commune, et publier les deux jours comme sûrs enverrait une fois sur deux un
+     visiteur devant un trottoir vide. La règle 55 demande une source tierce indépendante : aucune n'a été trouvée,
+     l'office de tourisme de Paris opposant au robot une vérification anti-robot qu'on ne contourne pas. **Tranché
+     ainsi** : le champ `horaires` donne le jour concordant avec ses heures, puis écrit « second jour contesté :
+     mardi selon …, mercredi selon … », et la fiche passe en `a_confirmer`. Un marché dont **aucun** jour ne fait
+     l'accord de ses sources attend. Ce que la règle débloque : le marché Président Wilson, à publier au prochain
+     passage à Paris ; il n'a pas été pris dans cette passe, dont les cinq places étaient déjà tenues par des fiches
+     sans contradiction de jour.
+
+139. **Une série de gros plans de produits versée le même jour sur les fiches de plusieurs marchés est une
+     illustration, même quand chaque fichier est distinct ; et quand la réserve de pistes débloquées dépasse cinq, on
+     prend d'abord les pistes nommées, puis les marchés voisins que leur propre photographie montre en place.** La
+     règle 91 fait de la photographie attachée à une seule fiche un document. Sur `paris.fr`, les fiches des marchés
+     Président Wilson, Navier, Point-du-Jour, Auteuil, Gros-la-Fontaine et Porte Molitor ont chacune un fichier
+     d'empreinte différente, tous déposés le 25 août 2026, et tous des gros plans serrés — olives, salades,
+     fraises, groseilles, abricots et prunes — sans un arbre, une façade ou une rue qui situe l'étal ; les fiches Berthier et Maillot-Malakoff, elles,
+     portent des photographies du 2 juin 2026 où l'on voit l'alignement des étals sous les arbres et la chaussée.
+     Le test d'empreinte de la règle 88 ne suffit donc pas : une banque de visuels peut fournir six fichiers
+     différents. **Tranché ainsi** : une photographie qui ne montre aucun élément du lieu et appartient à une série
+     homogène déposée le même jour sur plusieurs fiches retombe sous la règle 1, et `produits` n'en tire rien. Et
+     pour choisir, dans une commune revisitée au titre de la règle 82, parmi plus de cinq pistes sans obstacle : on
+     prend d'abord celles qu'une passe précédente a nommées une à une (ici les halles Batignolles et des Ternes, et
+     Passy, dont l'obstacle a disparu), puis, pour compléter, les marchés de la réserve générale les plus proches de
+     ces premières, dont la photographie est un document au sens de la règle 91 et dont les jours concordent. Le
+     groupement de la passe y gagne, et le visiteur aussi : cinq fiches à moins de 4,7 km les unes des autres.
+
 ## Marchands à confirmer
 
-449 fiches sur 486 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+454 fiches sur 491 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2227,8 +2259,13 @@ prioritaires en cas de conflit.
 - **Marché du Quai du Roi** (Orléans) (catégorie et piliers des marchés. **Registre, règle 106** : marché municipal. **Jour et heures** : samedi 7h30-12h30, concordants entre la page « Les marchés » de la Ville, la fiche de l'office de tourisme Orléans Val de Loire et la plateforme du gestionnaire des marchés. **Point, règle 10** : la Base Adresse Nationale ne connaît que la voie (score 0,97) ; aucun numéro, pas de marqueur publié par la Ville ni par le gestionnaire, pas d'établissement au registre ; c'est le marqueur de l'office de tourisme qui est publié, à 131 m du centre de voie de la Base, et son contrôle inverse rend le 25 quai du Roi à 15 m. Le marché s'étire du pont Thinat au Cabinet Vert : le point est sur le quai, pas à une entrée précise. **Produits** : textes de la Ville (« produits du terroir », « produits locaux ou spécialités régionales ») et de l'office (« fruits et légumes, viandes et volailles, produits laitiers et de traiteurs ») ; fraises, cerises, rhubarbe et salades lus sur l'une des deux photographies que l'office attache à cette seule fiche (règle 91), recadrée sur les cageots pour ne garder aucune silhouette — les visages de l'original sont déjà floutés par la source. Reste `a_confirmer` : point sans numéro, aucune liste d'étals)
 - **Marché nocturne du Martroi** (Orléans) (catégorie et piliers des marchés. **Horaires** : « Vendredi 16h-21h » dans le titre et le texte de la page de la Ville ; 16h-21h30 sur la fiche de l'office de tourisme et sur la plateforme du gestionnaire. Les deux valeurs sortent, celle de la Ville en avant (règles 5 et 104). **Point** : centre de la place du Martroi à la Base Adresse Nationale (score 0,97), à 24 m du marqueur de l'office. **Produits** : liste de métiers de la Ville, reprise à ses mots ; la boulangerie bio au levain est corroborée par le registre de l'Agence Bio, où un fournil certifié Ecocert depuis 2019 déclare ce marché comme lieu de vente — le pilier `environnement` ne suit pas pour autant (règles 45 et 48). **Photographie** : l'une des trois que l'office attache à ce seul marché, un étal de fruits sans personne, choisie de préférence à la vue de la place où des passants restent reconnaissables. La plateforme du gestionnaire liste des exposants sous des noms de personnes : rien n'en est repris. Reste `a_confirmer` pour l'heure de fin)
 - **Solembio – Jardin de Cocagne d'Orléans** (Orléans) (catégorie `ferme` et piliers des fermes d'insertion déjà publiées, `social` compris. **Registre** : association active, établissement ouvert au 132 T rue des Montées, code 01.13Z. **Pilier `environnement`** : engagement Ecocert du 19 juillet 2007 jamais arrêté, certificat en vigueur consultable pour « Agriculteur, Fabricant & Transformateur, Détaillant » à la même adresse. **Horaires, règle 136, née ici** : retrait au jardin jeudi et vendredi 10h-18h30 d'après le site de commande ; boutique annoncée sur le site de l'association sans horaires. **Point** : numéro « 132ter » à la Base Adresse Nationale (score 0,82), contrôle inverse à 0 m, registre à 4 m ; le marqueur de l'office de tourisme tombe à 255 m et n'est pas retenu (règle 10). **Site** : `solembio.org`, cité par l'office, ne répond qu'en http, son certificat https échoue ; c'est le site de commande de l'association, en https et porteur des créneaux cités, qui est inscrit. **Photographie** : diptyque du comptoir de légumes publié par l'association, 1 117 px, sans personne. Reste `a_confirmer` pour les horaires de la boutique)
+- **Marché couvert Batignolles** (Paris 17e) (catégorie et piliers des halles parisiennes déjà publiées. **Registre, règle 106** : équipement municipal. **Horaires** : fiche du lieu de la Ville et panneau municipal à l'entrée, photographié par la Ville en avril 2026 et lu au titre de la règle 74, concordants — mardi-vendredi 9h-14h et 16h-20h30, samedi 8h30-20h30, dimanche 8h30-14h. La page générale des marchés de la Ville donne 8h-13h le dimanche ; la société gestionnaire des halles confirme 8h30-14h, ce qui départage au titre de la règle 55, mais donne d'autres créneaux en semaine, cités dans la fiche. **Produits** : les vingt-deux emplacements du panneau, par métier, sans enseigne ; l'ardoise « agriculture raisonnée » d'un étal photographié par la Ville (règle 74). **Point** : « 96B » à la Base Adresse Nationale ; le 27 rue des Moines, entrée de la photographie, tombe à 40 m. **Photographie** : la façade rue des Moines, publiée par la Ville dans son article sur ce marché, sans personne ; la photographie de la fiche du lieu, un étal de fleurs, n'a pas été retenue. Reste `a_confirmer` pour les créneaux de semaine divergents)
+- **Marché couvert des Ternes** (Paris 17e) (catégorie et piliers des halles. **Horaires** : fiche du lieu et page des marchés de la Ville concordantes en semaine et le samedi ; le dimanche 8h-13h vient de la fiche du lieu, absent de la page générale, et le gestionnaire le confirme (règle 55). Le gestionnaire coupe de 13h à 16h du mardi au samedi : cité. **Produits** : décompte de l'article de la Ville (dix commerces) et étal de fruits de la photographie de la fiche du lieu. **Photographie** : celle de la fiche du lieu recadrée sur sa moitié gauche (740 px) pour retirer deux personnes du fond, dont un visage lisible (règle 46). Reste `a_confirmer` pour la coupure de mi-journée)
+- **Marché couvert de Passy** (Paris 16e) (catégorie et piliers des halles. **Adresse** : l'obstacle noté à la passe des marchés couverts a disparu, la fiche du lieu de la Ville porte désormais « 1 rue Bois le Vent » quand la page générale, l'article et le gestionnaire écrivent « place de Passy » ; les deux points sont à 44 m l'un de l'autre (règle 98) et la fiche prend le numéro. **Horaires** : fiche du lieu et page concordantes ; le gestionnaire coupe le samedi de 13h à 15h30, cité. **Photographie** : choux-fleurs d'un étal, tirée de l'article de la Ville, 2 000 px réduits à 1 280, sans personne ; celle de la fiche du lieu montre un commerçant de face et n'a pas été reprise. Reste `a_confirmer` pour le samedi après-midi)
+- **Marché Berthier** (Paris 17e) (catégorie et piliers des marchés de plein air parisiens. **Point** : celui du jeu de données « Marchés découverts » de la Ville, comme les marchés biologiques déjà publiés. **Horaires, règle 80** : mercredi 7h-13h30 partout ; le samedi, 14h30 sur la fiche du lieu et dans le jeu de données, 13h30 sur la page générale — c'est la fermeture la plus tôt qui est publiée, l'autre est citée. **Produits, règle 103** : classement « Alimentaire » de la Ville et étal de sa photographie. **Photographie** : celle de la fiche du lieu, recadrée sur sa partie gauche (760 px) pour retirer un marchand et des passants. Reste `a_confirmer` pour le samedi et la composition des étals)
+- **Marché Maillot-Malakoff** (Paris 16e) (catégorie et piliers des marchés de plein air. **Horaires** : identiques sur la page générale, la fiche du lieu et le jeu de données. **Point** : jeu de données de la Ville ; le 154 avenue de Malakoff tombe à 20 m à la Base Adresse Nationale, qui écrit le code postal 75116, repris dans l'adresse. **Produits, règle 103** : classement « Alimentaire » et étal de la photographie de la fiche du lieu. **Photographie** : celle de la fiche du lieu, sans sa bande gauche où se tenait une personne ; un cycliste de dos, minuscule, reste au fond. Reste `a_confirmer` pour la composition des étals)
 
-Les 486 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 491 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2256,6 +2293,64 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Paris — halles et marchés de l'ouest
+
+Département visé : **Paris (75)**, déficit **4,8280** au titre de la règle 41 avec 486 fiches publiées, dont dix à
+Paris. La Réunion (6,2707) reste écartée par la règle 93. La passe précédente visait le Loiret, en Centre-Val de
+Loire ; Paris est en Île-de-France, la réserve de la règle 41.c ne joue pas. Paris n'ayant qu'une commune, déjà
+pourvue, c'est la **règle 82** qui fait la passe : retour par les pistes laissées à la passe des marchés couverts,
+qui nommaient les halles Batignolles et des Ternes « sans obstacle » et gardaient en réserve les soixante-seize
+marchés découverts. Après la passe, le 75 tombe à environ **−0,02** ; suivants du classement : les Bouches-du-Rhône
+(4,8658, Provence-Alpes-Côte d'Azur, sans conflit de région), l'Ain (4,8375), la Charente-Maritime (4,7872).
+
+**Les cinq fiches**, toutes à l'ouest de la ville et à moins de **4,7 km** les unes des autres (entre Passy et les
+Batignolles) : les halles **Batignolles** et **des Ternes** (17e), la halle **de Passy** (16e), les marchés de plein
+air **Berthier** (17e) et **Maillot-Malakoff** (16e). Choix des deux derniers dans la réserve : règle 139, née ici.
+
+**Les sources qui ont fait la passe** : la page « Les marchés de Paris » (mise à jour le 7 septembre 2026), les
+fiches « lieu » de `paris.fr` lues par `lieux.xml.gz`, les articles « Un petit tour au marché couvert… » (Ternes,
+avril 2026 ; Passy, janvier 2026 ; Batignolles, avril 2026), le jeu de données « Marchés découverts » de l'open data
+de la Ville, la page des marchés parisiens de la société gestionnaire des halles, la Base Adresse Nationale. Aucun
+`robots.txt` rencontré n'interdit le robot (règle 77) ; l'office de tourisme de Paris l'autorise dans son
+`robots.txt` mais répond par une vérification anti-robot, qui n'a pas été contournée. Les articles de la Ville
+nomment une quinzaine de commerçants, par leur prénom, leur patronyme ou une enseigne formée d'un prénom, ainsi
+que les muralistes des façades et les photographes : **aucun nom n'est repris**, pas même les enseignes, et les
+images publiées ont été réenregistrées sans métadonnées. Le panneau municipal des Batignolles ne porte que des
+métiers.
+
+**Contradictions tranchées** :
+
+- Batignolles, dimanche : 8h30-14h (fiche du lieu, panneau, gestionnaire) contre 8h-13h (page générale) ; règle 55.
+  Semaine : créneaux du gestionnaire différents de ceux de la Ville, cités (règle 5).
+- Ternes : dimanche absent de la page générale, présent sur la fiche du lieu et chez le gestionnaire ; coupure de
+  13h à 16h chez le seul gestionnaire, citée.
+- Passy : « 1 rue Bois le Vent » contre « place de Passy », 44 m ; règle 98. Samedi après-midi coupé chez le seul
+  gestionnaire, cité.
+- Berthier, samedi : 14h30 contre 13h30 entre publications de la Ville ; règle 80, fermeture la plus tôt.
+- Président Wilson : second jour mardi ou mercredi selon la publication de la Ville ; règle 138, née ici.
+
+**Fiches écartées pour doute sur une personne** : aucune.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché Président Wilson** (16e, 626 m de linéaire, le plus grand marché découvert de l'arrondissement) :
+  samedi 7h-14h30 certain, second jour contesté. **Débloqué par la règle 138** ; sa seule photographie est un gros
+  plan d'olives de la série du 25 août 2026, donc une illustration (règle 139), et `produits` ne peut rien en tirer.
+- **Marché couvert Saint-Didier** (16e) : sa fiche d'équipement annonce désormais la halle « fermée pour une durée
+  indéterminée, aucune date de réouverture » ; une seconde fiche, « Marché Saint Didier », au 23 rue Mesnil, porte
+  des horaires valables « à partir du 27/08/2026 » — mardi et jeudi 7h-13h30, samedi 7h-14h30 —, repris par la page
+  générale, quand le jeu de données de 2024 donnait mardi, jeudi, vendredi et samedi de 8h à 13h30. Le doublon noté
+  à la passe des marchés couverts se lit donc comme une halle fermée et un marché qui lui succède. **Critère de
+  déblocage** : une publication qui dise où se tiennent désormais les étals (sous la halle, dans la rue) et une
+  photographie qui ne soit pas de la série du 25 août.
+- **Marché couvert Beauvau** (12e) : toujours « place d'Aligre » sans numéro sur les trois publications de la
+  Ville ; même obstacle qu'à la passe des marchés couverts (règle 42).
+- **Marchés découverts du 16e et du 17e** : Navier, Point-du-Jour, Auteuil, Gros-la-Fontaine et Porte Molitor ont
+  des jours et des heures sans obstacle dans le jeu de données, mais leur photographie est un gros plan de la série
+  du 25 août (règle 139). **Critère de déblocage** : une photographie du lieu, ou l'illustration dessinée d'une page
+  qui leur soit propre (règle 125).
+- **Le reste de la réserve** (une soixantaine de marchés découverts) : inchangé.
 
 ### Pistes non publiées à Orléans et dans Orléans Métropole
 
