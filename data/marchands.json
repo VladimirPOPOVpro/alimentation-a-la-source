@@ -13156,5 +13156,141 @@
     "site_web": "https://www.biocoop-camargue.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Camargue+7+avenue+du+Mar%C3%A9chal+Juin+Arles",
     "image_url": "/images/marchands/biocoop-camargue-arles.jpg"
+  },
+  {
+    "slug": "marche-du-champ-de-foire-bourg-en-bresse",
+    "nom": "Marché de Bourg-en-Bresse (champ de foire et marché couvert)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.208285,
+    "lon": 5.228617,
+    "adresse": "Parc du marché, champ de foire et marché couvert, 01000 Bourg-en-Bresse",
+    "horaires": "Mercredi et samedi matin, toute l'année sauf le 1er mai, le 25 décembre et le 1er janvier. Le règlement municipal des marchés (arrêté du 29 janvier 2024) fixe le début de la vente à 7h et impose de libérer les emplacements à 14h, la fin de la vente étant laissée à chaque commerçant ; l'office de tourisme annonce 8h-13h : mieux vaut venir dans la matinée. Le samedi, marché alimentaire seulement ; le mercredi, marché alimentaire et manufacturé.",
+    "produits": [
+      "Fruits et légumes, dont des étals de producteurs maraîchers",
+      "Pains et viennoiseries",
+      "Viandes, volailles et charcuterie",
+      "Fromages",
+      "Poissons de mer et d'eau douce",
+      "Miel, fleurs et plantes",
+      "Tomates, concombres, pastèques, melons, raisin et pêches (étals photographiés par l'office de tourisme un mercredi d'août 2020)"
+    ],
+    "description": "Le grand marché de Bourg-en-Bresse se tient deux matinées par semaine sous le marché couvert et en plein air sur le champ de foire. Le règlement municipal réserve le samedi à l'alimentaire et impose aux producteurs qui ne vendent que leur propre récolte un panneau « producteur » au-dessus de leurs denrées, ce qui les distingue des revendeurs ; le mercredi, des étals de textile et de bazar s'y ajoutent. La Ville ne publie pas la liste des étals.",
+    "site_web": "https://www.bourgenbresse.fr/255-non-sedentaires.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+du+march%C3%A9+01000+Bourg-en-Bresse",
+    "image_url": "/images/marchands/marche-du-champ-de-foire-bourg-en-bresse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "sardelices-bourg-en-bresse",
+    "nom": "Sardélices, boutique du lycée agricole des Sardières",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.211666,
+    "lon": 5.256371,
+    "adresse": "79 avenue de Jasseron, 01000 Bourg-en-Bresse",
+    "horaires": "Du lundi au vendredi de 9h à 12h et de 13h30 à 18h ; fermé le samedi et le dimanche. Commande possible sur la boutique en ligne du lycée, avec retrait au magasin. L'ouverture pendant les vacances scolaires n'est pas précisée : téléphoner avant de venir à ces périodes.",
+    "produits": [
+      "Volailles de Bresse AOP élevées sur la ferme du lycée, et poulardes et chapons pour les fêtes",
+      "Caissettes de viande bovine issue du troupeau du lycée",
+      "Terrines, rillettes et conserves fines de volaille, de lapin, de canard et de gibier",
+      "Mousse de carpe de la Dombes et rillettes de truite",
+      "Plats cuisinés en conserve, dont le poulet de Bresse à la crème",
+      "Escargots",
+      "Pâtes, confitures et biscuits, dont les sablés aux gaudes"
+    ],
+    "description": "Boutique de l'atelier agroalimentaire du lycée agricole des Sardières, qui vend ce que les élèves fabriquent sur place dans un atelier agréé, notamment à partir des volailles de Bresse et des bovins de la ferme du lycée, qui cultive environ 150 hectares aux portes de la ville. Le lycée précise que les autres matières premières sont sélectionnées par ses équipes : tout ne vient pas de sa ferme.",
+    "telephone": "04 74 45 50 91",
+    "site_web": "https://sardieres.fr/exploitation-atelier/latelier-agro-alimentaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=79+avenue+de+Jasseron+01000+Bourg-en-Bresse",
+    "image_url": "/images/marchands/sardelices-bourg-en-bresse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-kennedy-bourg-en-bresse",
+    "nom": "Biocoop Kennedy",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.206359,
+    "lon": 5.240676,
+    "adresse": "10 boulevard John Kennedy, 01000 Bourg-en-Bresse",
+    "horaires": "Du lundi au samedi de 9h à 19h. Fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Fruits et légumes bio de saison, dont ceux de maraîchers de Saint-Denis-lès-Bourg et de Buellas",
+      "Œufs d'un élevage de Saint-Denis-lès-Bourg",
+      "Pommes, poires et jus de fruits bio d'une coopérative fruitière de Haute-Savoie",
+      "Huiles d'une huilerie artisanale bio du Jura",
+      "Fromages à la coupe de vache, de chèvre et de brebis",
+      "Pain frais de boulangers locaux",
+      "Boucherie et charcuterie",
+      "Vrac : céréales, légumineuses, café et thé"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop, 100 % bio, avec boucherie, fromagerie à la coupe et un large rayon vrac, qui présente sur son site vingt-trois producteurs et artisans locaux, dont deux maraîchers et un élevage de poules à moins de dix kilomètres. Le registre de l'Agence Bio inscrit l'exploitant auprès d'Ecocert depuis mai 2011, avec un certificat consultable.",
+    "telephone": "04 74 22 10 73",
+    "site_web": "https://magbio.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Kennedy+10+boulevard+John+Kennedy+Bourg-en-Bresse",
+    "image_url": "/images/marchands/biocoop-kennedy-bourg-en-bresse.jpg"
+  },
+  {
+    "slug": "bourgamap-bourg-en-bresse",
+    "nom": "BourgAmap",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.207519,
+    "lon": 5.216467,
+    "adresse": "Campus universitaire de Bourg-en-Bresse, 2 rue du 23e R.I., 01000 Bourg-en-Bresse",
+    "horaires": "Distribution le lundi de 17h30 à 18h30 sur le campus, d'après la page que l'université consacre à l'AMAP et le site du maraîcher partenaire (un annuaire tiers de 2020 indiquait 18h-19h30). Paniers réservés aux adhérents sous contrat : se renseigner auprès de l'AMAP, par la page de l'université, avant de se déplacer.",
+    "produits": [
+      "Légumes bio du Jardin de Villemotier",
+      "Œufs des Poulaillers de Chrysodor, à Saint-Denis-lès-Bourg",
+      "Pain de La mie du grain, paysan boulanger de Saint-Nizier-le-Bouchoux",
+      "Pommes, jus et purée de pommes d'un verger de Meximieux",
+      "Vins du Bugey de vignerons de Mérignat et de Rignat",
+      "Bières de la Brasserie du Bugey"
+    ],
+    "description": "AMAP lancée en octobre 2020 avec des étudiants et des bénévoles, accueillie sur le campus de l'université Jean Moulin Lyon 3 mais ouverte à tous, avec des paniers et des tarifs adaptés aux étudiants. Le maraîcher et le paysan boulanger ont un engagement en cours au registre de l'Agence Bio ; les autres certificats n'ont pas été vérifiés, d'où l'absence du pilier environnement. La Base Adresse Nationale ne connaissant pas le numéro de l'entrée du campus, le point de la carte est le centre de la rue ; la photo, publiée par le maraîcher, montre sa récolte et non le lieu de distribution.",
+    "site_web": "https://bourgenbresse.univ-lyon3.fr/bourgamap-sur-le-campus-de-bourg-en-bresse",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2+rue+du+23e+RI+01000+Bourg-en-Bresse",
+    "image_url": "/images/marchands/bourgamap-bourg-en-bresse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-mont-saint-denis-les-bourg",
+    "nom": "Ferme du Mont",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.205983,
+    "lon": 5.1772,
+    "adresse": "551 chemin du Mont, 01000 Saint-Denis-lès-Bourg",
+    "horaires": "Pas de magasin tenu : vente en libre-service aux distributeurs automatiques installés à l'entrée de la cour de la ferme, accessibles 24 heures sur 24 d'après la fiche que Grand Bourg Agglomération consacre à la ferme. Venir avec ses bouteilles ou un récipient pour le lait, et ses boîtes à œufs.",
+    "produits": [
+      "Lait cru entier bio, au distributeur",
+      "Desserts lactés (fiche de Grand Bourg Agglomération, 2024)",
+      "Œufs (annoncés par la ferme pour l'édition 2026 de De ferme en ferme)"
+    ],
+    "description": "Élevage laitier du hameau du Mont, aux portes de Bourg-en-Bresse, à l'ouest, dont les vaches sont nourries l'hiver des cultures et du foin de la ferme puis pâturent les prairies alentour ; la ferme accueille aussi des brebis et des poules. Le groupement est certifié en agriculture biologique par Certipaq, certificat valide jusqu'en mars 2028, et le registre de l'Agence Bio déclare le lait de vache parmi ses productions ; la certification des œufs n'a pas été vérifiée.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=551+chemin+du+Mont+01000+Saint-Denis-l%C3%A8s-Bourg",
+    "image_url": "/images/marchands/ferme-du-mont-saint-denis-les-bourg.jpg",
+    "a_confirmer": true
   }
 ]

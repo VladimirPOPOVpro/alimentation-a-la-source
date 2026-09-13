@@ -1817,9 +1817,33 @@ prioritaires en cas de conflit.
      l'impasse du même nom. Sans façade ni repère lisible, la contradiction de place reste sous la règle 5 et la fiche
      attend. La fiche passe en `a_confirmer`, et l'écart d'horaires entre les deux sources suit la règle 80.
 
+142. **Quand deux séances d'un même lieu font une seule fiche au titre de la règle 42, une photographie prise l'un des deux
+     jours documente la fiche, sans que la règle 140 l'écarte.** L'office de tourisme de Bourg-en-Bresse tient deux fiches,
+     « Marché du mercredi matin » et « Marché du samedi matin », toutes deux au « Marché couvert et champ de foire », à 59 et
+     34 m du parc du marché que connaît la Base Adresse Nationale ; le règlement municipal décrit un seul site pour les deux
+     jours. Les photographies attachées à la fiche du **samedi** portent toutes une prise de vue du **mercredi** 12 août 2020,
+     et la règle 140, lue à la lettre, les écarterait de cette fiche. **Tranché ainsi** : la règle 140 sert à ne pas prêter à
+     un marché la vue d'un autre ; quand les deux jours se tiennent au même endroit et ne font qu'une fiche, la photographie
+     d'un des jours est bien une vue de ce lieu, et `produits` peut en tirer ce qu'elle montre, en disant le jour de la prise
+     de vue. La règle 140 garde toute sa force dès que les deux séances ont chacune leur fiche, comme à Arles, où le mercredi
+     et le samedi se tiennent sur deux boulevards distincts. La photographie retenue est recadrée hors de toute personne ; les
+     ardoises et les cageots qu'elle montre (tomates d'une coopérative belge, concombres d'Espagne) sont consignés ici, et la
+     fiche ne présente pas ces étals comme des étals de producteurs.
+
+143. **Un numéro de portable que seul un annuaire publie pour une exploitation sans site ne s'inscrit pas, et deux numéros
+     différents pour la même ferme se neutralisent.** La Ferme du Mont, à Saint-Denis-lès-Bourg, n'a ni site ni page
+     consultable : la fiche que Grand Bourg Agglomération tient pour elle sur le site de l'office de tourisme porte un numéro
+     en 07, la page de l'édition 2026 de De ferme en ferme un autre numéro en 06, sous les noms des exploitants. Le mandat
+     n'admet dans `telephone` qu'un numéro « que le commerce publie lui-même pour sa clientèle » ; un portable relayé par un
+     annuaire peut être la ligne personnelle d'un exploitant, et deux portables différents disent qu'au moins l'un des deux
+     n'est plus, ou n'a jamais été, celui de la vente. **Tranché ainsi** : un numéro mobile n'entre dans `telephone` que s'il
+     figure sur une source que l'exploitation tient elle-même ; à défaut le champ reste vide, la fiche dit comment acheter
+     sans appeler (ici, des distributeurs en libre-service) et aucun des numéros n'est reproduit dans ce README. Un numéro fixe
+     publié par une collectivité pour son propre équipement, comme le standard d'un marché municipal, n'est pas concerné.
+
 ## Marchands à confirmer
 
-458 fiches sur 496 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+462 fiches sur 501 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2301,8 +2325,12 @@ prioritaires en cas de conflit.
 - **Marché du mercredi d'Arles** (Arles) (même catégorie et mêmes piliers. **Deux fiches pour le centre, règle 42** : la Ville décrit un seul marché tenu deux jours, mais sur deux boulevards distincts, et l'office en fait deux fiches ; chacun a sa voie géocodable, ils sont à 528 m. **Horaires** : mercredi 8h-12h45, Ville et office concordants ; exception du 1er mai chez l'office. **Point** : centre de voie du boulevard Émile-Combes (0,972), entre la place Lamartine, que la Base ignore, et le carrefour de la Croisière. **Produits** : texte de l'office (fromages régionaux, fruits, olives, viandes du pays) et produits régionaux que la Ville cite pour le marché du centre. **Photographie, règle 140, née ici** : celle de l'office pour cette fiche, prise un samedi de 2017 : illustration, rien n'en est tiré. Reste `a_confirmer`)
 - **Marché de Trinquetaille** (Arles) (catégorie et piliers des marchés. **Horaires** : mardi 7h30-12h30 sur la page de la Ville ; la photothèque le présente comme « nouveau » en avril 2025. **Point** : place Saint-Pierre à la Base Adresse Nationale (0,97), contrôle inverse à 29 m du 7 place Saint-Pierre. **Produits, règle 91** : lus sur la série « Nouveau marché de Trinquetaille, tous les mardis matins » de la photothèque de la Ville, trente et une photographies prises le mardi 8 avril 2025 et attachées à ce seul marché ; aucune enseigne d'étal n'est reprise. **Photographie** : vue de la place et de ses étals sous les platanes, prise de la même série, recadrée pour retirer la signature du photographe ; deux passants minuscules au loin, non reconnaissables. Reste `a_confirmer` : aucune liste d'étals publiée, et la page de la Ville porte une date de modification de mai 2024 antérieure à l'ouverture de ce marché qu'elle cite, ce qui interdit de la dater)
 - **Marché de Pont-de-Crau** (Arles) (catégorie et piliers des marchés. **Lieu, règle 141, née ici** : place du Cabaret Neuf, point de la Base à 0,96 ; « place Saint-Victor » pour la Ville, repris entre parenthèses. **Horaires, règle 80** : 8h30-12h30 pour la Ville, 7h30-13h pour l'office ; la fenêtre la plus étroite est publiée, l'autre citée. **Produits** : lus sur les séries « Nouveau marché de Pont-de-Crau » (dimanche 1er septembre 2024) et « Inauguration du marché de Pont-de-Crau » (dimanche 8 décembre 2024) de la photothèque de la Ville. **Photographie** : les sardines d'un étal de poissonnier de la première série, 2 048 px réduits à 1 280, sans personne, recadrées pour retirer la signature du photographe. Les deux séries accompagnent une visite d'élus : aucune de ces photographies de personnes n'a été reprise. Reste `a_confirmer`)
+- **Marché de Bourg-en-Bresse (champ de foire et marché couvert)** (Bourg-en-Bresse) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché municipal. **Une fiche pour deux jours, règle 42** : l'office tient une fiche pour le mercredi et une pour le samedi, au même « marché couvert et champ de foire », et le règlement municipal des marchés (arrêté n° 63794 du 29 janvier 2024) décrit un seul site. **Horaires, règles 78 et 80** : le règlement fixe le début de la vente à 7h et la libération des emplacements à 14h, sans heure de fin de vente ; l'office annonce 8h-13h ; les deux sont publiés, la matinée conseillée. Jours de fermeture (1er mai, 25 décembre, 1er janvier) et partage alimentaire du samedi / manufacturé du mercredi repris du règlement. **Point, règle 26** : le règlement nomme le « parc du marché », que la Base Adresse Nationale connaît (lieu-dit, 0,511) ; les marqueurs de l'office tombent à 34 m (samedi) et 59 m (mercredi). **Produits** : métiers de l'article 1 du règlement et de la composition de la commission locale des marchés (primeurs, producteurs maraîchers, boulangers, bouchers, fromagers, apiculteurs, fleuriste, traiteur), et étals de la photographie, règle 142. **Photographie** : fiche de l'office pour le mercredi, 6 000 px, prise le mercredi 12 août 2020, recadrée sur les étals pour retirer deux passants et réduite à 1 280 ; les légendes de l'office créditent nommément leurs photographes, rien n'en est repris et l'image est réenregistrée sans métadonnées. Reste `a_confirmer` : heure de fin de vente et composition des étals non publiées)
+- **Sardélices, boutique du lycée agricole des Sardières** (Bourg-en-Bresse) (`producteur`, règles 4 et 73 : atelier agroalimentaire agréé où les élèves transforment notamment les volailles de Bresse AOP et les bovins de la ferme du lycée, que le lycée décrit sur sa page « La ferme et ses productions ». **Registre** : l'établissement public local d'enseignement agricole est actif, avec un établissement ouvert au 79 avenue de Jasseron sous l'enseigne « Atelier technologique Sardélices ». Pas de pilier `environnement` : AOP, Label Rouge et lait « nourri sans OGM » ne sont pas des certifications environnementales (règle 15), et le lycée n'est pas au registre de l'Agence Bio. **Horaires** : page de l'atelier sur `sardieres.fr` et fiche de l'office concordantes. **Point** : numéro 79 à la Base Adresse Nationale (0,972), marqueur de l'office à 11 m. **Photographie** : intérieur de la boutique publié par l'office, sans personne, 3 888 px réduits à 1 280. La page de l'atelier nomme ses salariés : aucun nom n'est repris. Reste `a_confirmer` pour l'ouverture pendant les vacances scolaires)
+- **BourgAmap** (Bourg-en-Bresse) (catégorie et piliers des AMAP. **Sources** : page de l'université Jean Moulin Lyon 3 consacrée à l'AMAP (mise à jour du 15 novembre 2023), page « AMAP Bourg en Bresse » du site du maraîcher partenaire, et deux articles de presse d'octobre 2020 qui datent le lancement. **Horaires, règle 104** : lundi 17h30-18h30 sur la page de l'université et chez le maraîcher ; un annuaire tiers (fiche d'octobre 2020) écrit 18h-19h30, cité seulement. **Point, règle 10** : l'université publie « 2, rue du 23ème R.I. » (entrée piéton) et « 6 » (parking) ; la Base Adresse Nationale ne connaît sur cette rue que les numéros 1, 5 et 8 à 30, et le registre place l'université rue des Casernes, sur une autre voie (règle 24) ; aucun marqueur publié : c'est le centre de la voie, que la fiche annonce, à 259 m du numéro 1. **Produits** : liste de la page de l'université ; les producteurs qui n'y sont désignés que par leur nom sont décrits par leur métier et leur commune. **Pilier `environnement` non coché, règle 60** : le maraîcher et le paysan boulanger ont un engagement en cours au registre de l'Agence Bio sous leur enseigne ; le verger, les vignerons et la brasserie n'ont pas été vérifiés, et l'élevage de poules déclare au registre des volailles et des ovins, pas les œufs (règle 39). La page de l'université nomme les producteurs et les référents de l'AMAP : aucun nom de personne n'est repris. **Photographie, règle 1** : courges du maraîcher publiées sur sa page consacrée à cette AMAP, recadrées hors du cadre noir et des flèches du diaporama, 1 208 px ; ce n'est pas une vue du lieu de distribution, ce que la fiche dit. Reste `a_confirmer` : activité 2026 attestée seulement par le site du maraîcher, et point au centre de la voie)
+- **Ferme du Mont** (Saint-Denis-lès-Bourg) (`ferme`, cinquième fiche de la passe de Bourg-en-Bresse au titre de la règle 52. **Registre** : groupement agricole actif au 551 chemin du Mont depuis 1989, un établissement ouvert. **Pilier `environnement`** : certificat Certipaq consultable, valide du 2 juin 2026 au 31 mars 2028, et « lait de vache, brut » parmi les productions déclarées à l'Agence Bio (règle 39). **Horaires, règle 84** : pas de magasin tenu ; distributeurs automatiques en libre-service, 24 h sur 24 d'après la fiche que Grand Bourg Agglomération tient pour la ferme (mise à jour d'août 2024), et « nos distributeurs automatiques » pour le lait et les œufs d'après la page de la ferme pour l'édition 2026 de De ferme en ferme. **Produits, règle 53** : union attribuée des deux sources. **Téléphone, règle 143, née ici** : deux portables différents selon la source, aucun n'est inscrit. **Point** : numéro 551 à la Base Adresse Nationale (0,954), identique au marqueur de l'office. **Photographie** : vaches au pré publiées par l'agglomération sur la seule fiche de cette ferme, 1 000 px, sans personne. Les deux sources nomment les exploitants ; aucun nom n'est repris. L'agglomération écrit « EARL », le registre et le certificat désignent un GAEC : le nom publié est celui du lieu, « Ferme du Mont ». Reste `a_confirmer` : desserts lactés et œufs non recoupés par une seconde source)
 
-Les 496 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 501 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2330,6 +2358,66 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Bourg-en-Bresse
+
+Département visé : l'**Ain (01)**, déficit **4,8867** au titre de la règle 41 avec 496 fiches publiées, dont aucune dans le
+département. La Réunion (6,3997) reste écartée par la règle 93. La passe précédente visait les Bouches-du-Rhône, en
+Provence-Alpes-Côte d'Azur ; l'Ain est en Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas. Après la passe, l'Ain
+tombe à **−0,0640** ; en tête du classement : la **Charente-Maritime** (4,8847, Nouvelle-Aquitaine), puis le Puy-de-Dôme
+(4,8278, Auvergne-Rhône-Alpes, que la prochaine passe ne peut pas viser) et l'Essonne (4,7252).
+
+Commune retenue : **Bourg-en-Bresse**, 42 372 habitants, la plus peuplée du département. Elle a rendu **quatre** fiches
+vérifiées, toutes à moins de 3,2 km les unes des autres : le marché du champ de foire et du marché couvert (mercredi et samedi,
+une seule fiche, règle 42), la boutique Sardélices du lycée agricole, le magasin Biocoop Kennedy et l'AMAP du campus. La
+cinquième a été prise au titre de la **règle 52** dans la même intercommunalité, la communauté d'agglomération du Bassin de
+Bourg-en-Bresse : la **Ferme du Mont**, à Saint-Denis-lès-Bourg, à **4,50 km** du barycentre des quatre (6,1 km au plus entre
+deux fiches de la passe).
+
+**Les sources qui ont fait la passe.** Le site de la Ville, `bourgenbresse.fr`, ne tient aucune page sur ses marchés hormis sa
+page « Non-sédentaires » et le **règlement municipal des marchés**, un arrêté du 29 janvier 2024 publié en PDF scanné et lu par
+reconnaissance de caractères ; l'office de tourisme, `bourgenbressedestinations.fr` (gabarit Woody, `robots.txt` sans
+exclusion nominative, marqueurs dans les données structurées, photographies sur le serveur Apidae) ; le registre de l'Agence
+Bio, paginé sur les 988 opérateurs du département ; le registre des entreprises ; les sites du lycée des Sardières, du magasin
+Biocoop (`robots.txt` qui n'exclut aucun agent d'IA), de l'université et du maraîcher partenaire de l'AMAP ; les certificats
+Ecocert et Certipaq. Le registre de l'Agence Bio, à Bourg-en-Bresse même, ne compte guère que des supermarchés, des ateliers
+agroalimentaires et des sièges : il n'a servi qu'à vérifier les certificats.
+
+**Contradictions tranchées** :
+
+- Marché, heures : début de vente à 7h et emplacements libérés à 14h (règlement) contre 8h-13h (office) ; règles 78 et 80,
+  les deux publiés.
+- Marché, photographies du samedi prises un mercredi : règle 142, née ici.
+- Biocoop Kennedy, jours : du lundi au samedi 9h-19h sur le site du magasin et sur sa vitrine photographiée ; un annuaire tiers
+  écrit du mardi au samedi ; règle 104, le magasin l'emporte.
+- BourgAmap, heures : 17h30-18h30 (université, maraîcher) contre 18h-19h30 (annuaire tiers de 2020) ; règle 104.
+- Ferme du Mont, téléphone : deux portables différents ; règle 143, née ici.
+
+**Fiches écartées pour doute sur une personne** : aucune.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché des Vennes** (dimanche, rue Montesquieu entre les rues La Bruyère et Villon d'une part, Montaigne et Racine d'autre
+  part ; début de vente 7h et emplacements libérés à 13h30 selon le règlement, 8h-13h selon l'office) : publiable sur les
+  faits, la Base connaît la rue (0,97) et le marqueur de l'office tombe à 4 m du 23 rue Montesquieu. Mais la seule
+  photographie publiée fait 612 px, créditée à un tiers, au format d'une vignette de banque d'images, et rien ne la rattache à
+  la rue Montesquieu. **Critère de déblocage, règle 70** : une
+  photographie de ce marché sans visage identifiable.
+- **Biomonde Biophare** (24 rue du 23e R.I.) : magasin bio indépendant du réseau Biomonde, société active au registre et
+  certificat Ecocert engagé depuis 2005 ; horaires publiés par la page du réseau. Son propre domaine ne répond plus (NXDOMAIN)
+  et aucune liste de producteurs n'est publiée. **Critère, règle 86** : une liste de producteurs locaux nommés.
+- **Marché de producteurs bio de Saint-Denis-lès-Bourg** (vendredi 15h30-18h30, place de la salle des fêtes, esplanade de la
+  Liberté selon l'office) : photographie de l'office issue d'une banque d'images, page de la commune non consultée.
+  **Critère** : la commune qui l'atteste (règle 16) et une photographie du lieu.
+- **Terres de Luisandre** (maraîchage bio, Saint-Denis-lès-Bourg, engagé chez Ecocert depuis 2009) : pas d'ouverture au public
+  selon sa fiche d'office ; vend au marché bio de Saint-Denis-lès-Bourg et le samedi sous le marché couvert de Bourg. Son site
+  répond 404. Sa présence au marché de Bourg n'a pas été reprise dans la fiche du marché : la source est une fiche d'office et
+  non une page que le producteur tient lui-même (règle 122). **Critère** : un site du producteur qui publie ses marchés.
+- **Biocoop Monternoz** (Péronnas) : le registre de l'Agence Bio inscrit son adresse sous le même opérateur que Biocoop Kennedy ; non instruit, laissé pour ne pas donner deux des cinq
+  places au même exploitant.
+- **Baraque à Vrac** (enseigne day by day, avenue de Bad-Kreuznach) : non instruite, règle 86.
+- **Fromagerie de Saint-Denis-lès-Bourg**, **Ferm'andises** (Saint-Denis-lès-Bourg), **Le Grand Panier Bio** (Viriat) et les
+  fermes de Viriat fichées par l'office : non instruits.
 
 ### Pistes non publiées à Arles
 
