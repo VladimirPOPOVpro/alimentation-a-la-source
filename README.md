@@ -1841,9 +1841,44 @@ prioritaires en cas de conflit.
      sans appeler (ici, des distributeurs en libre-service) et aucun des numéros n'est reproduit dans ce README. Un numéro fixe
      publié par une collectivité pour son propre équipement, comme le standard d'un marché municipal, n'est pas concerné.
 
+144. **Le dispositif zéro déchet que décrit l'association organisatrice d'un marché ouvre le pilier `environnement` au titre de
+     la règle 48, quand la commune désigne cette association comme organisatrice.** La règle 48 accorde le pilier à un marché
+     dont « l'autorité qui le gère » décrit un dispositif concret — des sacs, un tri, une collecte. Le Grand Bazar de Laleu, à
+     La Rochelle, n'est pas géré par la Ville : sa liste des marchés écrit qu'il est « organisé par l'association 270° », et
+     c'est l'association qui écrit, sur sa page du marché, « Venez avec vos contenants » et propose « des contenants textiles
+     à prix modique et des pots en verre en consigne ». La tentation était de lire « autorité » comme « collectivité » et de
+     refuser le pilier. **Tranché ainsi** : l'autorité de la règle 48 est celle qui tient le marché, publique ou non, à deux
+     conditions cumulatives — qu'une collectivité la nomme comme organisatrice de ce marché-là, et que le dispositif soit un
+     objet qu'on peut constater sur place (une consigne, un contenant vendu, un bac de tri), pas une intention. Le mot « bio »
+     que la Ville et l'office accolent au marché n'y ajoute rien : la règle 68 continue de valoir, et la fiche ne promet pas que
+     chaque étal soit certifié. C'est le prolongement de la règle 121, qui avait déjà admis la liste d'exposants d'un
+     organisateur à la place de celle de la commune.
+
+145. **Quand deux sites diffusent les mêmes fiches d'un même propriétaire et que seul l'un d'eux interdit le robot, on lit
+     l'autre ; un `robots.txt` qui exclut nommément un autre agent d'IA fait écarter le site entier.** À La Rochelle, les fiches
+     de marchés de l'office de tourisme sont publiées à la fois sur `nous-larochelle.fr` et sur `larochelle-congres.fr`, avec la
+     mention « Propriétaire de la fiche : Nous La Rochelle » et le même contenu. Le `robots.txt` du second nomme `ClaudeBot` et
+     `Disallow: /` ; celui du premier ne contient que `User-Agent: *` et `Allow: /`. Celui de l'agglomération,
+     `agglo-larochelle.fr`, exclut `GPTBot` sans nommer `ClaudeBot`, et celui du Département, `charente-maritime.fr`, interdit
+     tout robot. **Tranché ainsi** : la règle 77 s'applique site par site, parce que c'est l'éditeur du site qui s'exprime dans
+     son `robots.txt` ; le site de l'éditeur propriétaire des fiches, qui les ouvre, est donc une source, et le site miroir qui
+     les ferme n'est pas ouvert une seconde fois — ce qui en a été lu avant de consulter son `robots.txt` n'a servi à rien dans
+     les fiches. Un `robots.txt` qui range un autre agent d'IA parmi ceux qu'il exclut vaut exclusion de l'intention (règle 77,
+     « le range parmi les agents d'IA qu'il exclut ») : l'agglomération et le Département n'ont pas été consultés.
+
+146. **Un point que la même autorité donne à l'identique à deux lieux différents n'est le point d'aucun des deux.** L'office de
+     tourisme de La Rochelle publie pour le marché de Mireuil et pour celui de Villeneuve-les-Salines exactement les mêmes
+     coordonnées, 46.160077 / −1.177472, alors que la Ville place ces marchés à plus de trois kilomètres l'un de l'autre. La
+     règle 88 écartait une photographie qui sert plusieurs fiches ; le cas est le même pour une coordonnée. **Tranché ainsi** :
+     avant d'utiliser le marqueur d'une autorité à l'échelon de la règle 10, on compare les coordonnées de ses fiches voisines ;
+     un point partagé au millionième par deux lieux distincts est une valeur par défaut, il est sauté, et l'on descend à
+     l'échelon suivant. À Villeneuve-les-Salines, le point de la fiche du lieu de la Ville se retourne sur la rue Ledru-Rollin, une
+     autre voie (règle 24) : c'est le centre de l'avenue du 14-Juillet à la Base Adresse Nationale (0,97) qui est publié, et la
+     fiche le dit.
+
 ## Marchands à confirmer
 
-462 fiches sur 501 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+467 fiches sur 506 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2330,7 +2365,13 @@ prioritaires en cas de conflit.
 - **BourgAmap** (Bourg-en-Bresse) (catégorie et piliers des AMAP. **Sources** : page de l'université Jean Moulin Lyon 3 consacrée à l'AMAP (mise à jour du 15 novembre 2023), page « AMAP Bourg en Bresse » du site du maraîcher partenaire, et deux articles de presse d'octobre 2020 qui datent le lancement. **Horaires, règle 104** : lundi 17h30-18h30 sur la page de l'université et chez le maraîcher ; un annuaire tiers (fiche d'octobre 2020) écrit 18h-19h30, cité seulement. **Point, règle 10** : l'université publie « 2, rue du 23ème R.I. » (entrée piéton) et « 6 » (parking) ; la Base Adresse Nationale ne connaît sur cette rue que les numéros 1, 5 et 8 à 30, et le registre place l'université rue des Casernes, sur une autre voie (règle 24) ; aucun marqueur publié : c'est le centre de la voie, que la fiche annonce, à 259 m du numéro 1. **Produits** : liste de la page de l'université ; les producteurs qui n'y sont désignés que par leur nom sont décrits par leur métier et leur commune. **Pilier `environnement` non coché, règle 60** : le maraîcher et le paysan boulanger ont un engagement en cours au registre de l'Agence Bio sous leur enseigne ; le verger, les vignerons et la brasserie n'ont pas été vérifiés, et l'élevage de poules déclare au registre des volailles et des ovins, pas les œufs (règle 39). La page de l'université nomme les producteurs et les référents de l'AMAP : aucun nom de personne n'est repris. **Photographie, règle 1** : courges du maraîcher publiées sur sa page consacrée à cette AMAP, recadrées hors du cadre noir et des flèches du diaporama, 1 208 px ; ce n'est pas une vue du lieu de distribution, ce que la fiche dit. Reste `a_confirmer` : activité 2026 attestée seulement par le site du maraîcher, et point au centre de la voie)
 - **Ferme du Mont** (Saint-Denis-lès-Bourg) (`ferme`, cinquième fiche de la passe de Bourg-en-Bresse au titre de la règle 52. **Registre** : groupement agricole actif au 551 chemin du Mont depuis 1989, un établissement ouvert. **Pilier `environnement`** : certificat Certipaq consultable, valide du 2 juin 2026 au 31 mars 2028, et « lait de vache, brut » parmi les productions déclarées à l'Agence Bio (règle 39). **Horaires, règle 84** : pas de magasin tenu ; distributeurs automatiques en libre-service, 24 h sur 24 d'après la fiche que Grand Bourg Agglomération tient pour la ferme (mise à jour d'août 2024), et « nos distributeurs automatiques » pour le lait et les œufs d'après la page de la ferme pour l'édition 2026 de De ferme en ferme. **Produits, règle 53** : union attribuée des deux sources. **Téléphone, règle 143, née ici** : deux portables différents selon la source, aucun n'est inscrit. **Point** : numéro 551 à la Base Adresse Nationale (0,954), identique au marqueur de l'office. **Photographie** : vaches au pré publiées par l'agglomération sur la seule fiche de cette ferme, 1 000 px, sans personne. Les deux sources nomment les exploitants ; aucun nom n'est repris. L'agglomération écrit « EARL », le registre et le certificat désignent un GAEC : le nom publié est celui du lieu, « Ferme du Mont ». Reste `a_confirmer` : desserts lactés et œufs non recoupés par une seconde source)
 
-Les 501 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché central de La Rochelle** (La Rochelle) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché municipal. **Une fiche pour les halles, la place et le marché de rues, règle 42** : la Ville tient une fiche pour le « marché couvert et sa place » et une pour le « marché de rues » du mercredi et du samedi, sans adresse propre à ce dernier. **Horaires, règles 44 et 80** : 8h-13h30 tous les jours sur la fiche du lieu de la Ville et chez l'office, 13h30 sur la liste des marchés (mise à jour du 18 mars 2025) ; l'actualité « Requalification du Marché central » (13 février 2026) écrit « jusqu'à 13h », citée ; marché de rues 7h30-13h30 sur sa fiche, 7h sur la liste, la fenêtre la plus étroite est publiée. **Point** : place du Marché à la Base Adresse Nationale (0,959), marqueur de l'office à 6 m, point de la Ville à 17 m. **Produits** : métiers du texte détaillé de l'office ; nombre de bancs repris de l'actualité de la Ville. **Photographie, règle 91** : étal d'agrumes devant la halle illuminée, fiche de l'office pour ce seul marché, prise un mercredi de décembre 2021 à 8h, recadrée pour retirer les personnes de la moitié gauche (reste une silhouette en mouvement, floue et sans visage), 939 px sans agrandissement. Les légendes de l'office créditent nommément leurs photographes : rien n'en est repris. Reste `a_confirmer` : heure de fermeture contestée)
+- **Marché de Port-Neuf** (La Rochelle) (même catégorie et mêmes piliers. **Horaires, règle 55** : jeudi 8h30-13h30 sur la fiche du lieu de la Ville et chez l'office, 7h sur la liste des marchés ; l'office départage. **Point, règle 64** : la Base ignore la place de l'Île-de-France ; le marqueur de l'office se retourne à 16 m du 19 allée de l'Île-de-France ; celui de la Ville tombe 186 m plus à l'ouest, square d'Auvergne, écarté. **Produits** : métiers du texte de l'office — la même énumération que pour le marché central et La Pallice, ce que la fiche dit — et légumes lus sur les ardoises de la photographie de l'office attachée à ce seul marché, prise le jeudi 25 mars 2021 (règles 91 et 140). **Photographie** : la même, recadrée au-dessus des têtes pour ne garder que les parasols, les barnums et les immeubles du quartier ; les clients masqués du bas de l'image restaient reconnaissables. 1 771 px réduits à 1 280. Reste `a_confirmer` : aucune liste d'étals publiée)
+- **Marché de La Pallice** (La Rochelle) (même catégorie et mêmes piliers. **Horaires, règle 55** : trois valeurs, 8h30-13h30 (fiche du lieu de la Ville), 7h-13h30 (liste des marchés de la Ville), 8h-13h (office) ; aucune source tierce ne corrobore l'une des deux valeurs de la Ville, les trois sont publiées et la plage commune est donnée. **Point** : numéro 14 du boulevard Maréchal Lyautey, adresse de la Ville, à la Base (0,969) ; marqueur de l'office à 17 m ; le point de la fiche de la Ville tombe à 243 m, rue Eugène-Dor, écarté (règle 24). **Produits, règles 69 et 91** : légendes de l'office (« Fruits et légumes », « Poissonnier », « vêtements »), texte détaillé de l'office, et étal de langoustines et d'huîtres de la photographie « Poissonnier », prise le dimanche 11 juin 2017. **Photographie** : la même, recadrée sous la ligne des épaules, 1 417 px réduits à 1 280. **Règle 119** : aucune source ne publie le décompte des étals par activité ; la part non alimentaire est dite dans la description. Reste `a_confirmer`)
+- **Marché de Villeneuve-les-Salines** (La Rochelle) (même catégorie et mêmes piliers. **Horaires, règle 55** : mercredi 7h-13h30 sur la liste des marchés de la Ville et chez l'office, 8h30-13h30 sur la fiche du lieu de la Ville ; l'office départage. **Point, règle 146, née ici** : le marqueur de l'office est identique à celui qu'il donne au marché de Mireuil, il est sauté ; le point de la Ville se retourne à 33 m de la rue Ledru-Rollin (règle 24) ; c'est le centre de l'avenue du 14-Juillet à la Base (0,97), à 78 m du point de la Ville, et la fiche le dit. **Produits, règle 91** : lus sur la photographie de l'office attachée à ce seul marché, prise le mercredi 26 septembre 2018 ; le nom peint sur le camion du poissonnier, un prénom, n'est pas repris. **Photographie** : la même, recadrée sur l'étal de fruits — hors du camion, de l'enseigne de la galerie et des passants, dont une enfant de face — 1 240 px. Reste `a_confirmer` : composition des étals non publiée, point au centre de la voie)
+- **Le Grand Bazar de Laleu, marché bio et local** (La Rochelle) (`marche`, piliers des marchés et `environnement` au titre de la **règle 144, née ici**. **Sources** : liste des marchés de la Ville (« marché bio de producteurs et d'artisans locaux organisé par l'association 270° »), page du marché sur le site de l'association, fiche de l'office de tourisme. Une association d'un nom voisin est active au registre des entreprises à La Rochelle, sans que le rattachement ait été établi ; la règle 6 ne s'applique pas à un marché. **Horaires, règle 80** : 14h-20h (page de l'association), 15h-19h (office), « à partir de 15h30 » (affiche de l'association déposée sur la fiche de l'office) ; les trois sont publiés avec la plage commune. **Point, règle 64** : la Base ignore le parc de Laleu ; le marqueur de l'office se retourne à 27 m du 8 rue Georges-Musset et tombe à 37 m du centre du parc dans OpenStreetMap. **Produits, règle 74** : intitulés typographiés des métiers sur l'affiche « Label qualité producteur 2020/2021 » que l'association a déposée sur la fiche de l'office ; l'affiche montre les exposants en photographie, et aucun nom ni aucun visage n'en est repris ; la fiche dit que la liste date de cette saison. **Photographie** : vue prise sous le kiosque du parc, le mercredi 18 novembre 2020 d'après son horodatage et l'ardoise du marché, publiée par l'association sur sa page du marché ; recadrée sur le kiosque, les bocaux et l'allée — hors de l'ardoise manuscrite, qui porte des noms d'exposants dont certains sont des prénoms, d'une vendeuse et de deux personnes assises au fond — 823 px sans agrandissement. Reste `a_confirmer` : heures divergentes et composition 2026 non publiée)
+
+Les 506 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2358,6 +2399,69 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à La Rochelle
+
+Département visé : la **Charente-Maritime (17)**, déficit **4,8847** au titre de la règle 41 avec 501 fiches publiées, dont aucune
+dans le département. La Réunion (6,4643) reste écartée par la règle 93. La passe précédente visait l'Ain, en Auvergne-Rhône-Alpes ;
+la Charente-Maritime est en Nouvelle-Aquitaine, la réserve de la règle 41.c ne joue pas. Après la passe, la Charente-Maritime tombe
+à **−0,0666** ; en tête du classement : le **Puy-de-Dôme** (4,8760, Auvergne-Rhône-Alpes, que la prochaine passe peut viser
+puisque celle-ci n'y était pas), puis l'Essonne (4,8223) et l'Indre-et-Loire (4,5451).
+
+Commune retenue : **La Rochelle**, 79 851 habitants, la plus peuplée du département. Elle a rendu cinq fiches à elle seule, toutes
+des marchés, à 5,9 km au plus l'une de l'autre (de La Pallice à Villeneuve-les-Salines) : le marché central, Port-Neuf, La
+Pallice, Villeneuve-les-Salines et le Grand Bazar de Laleu.
+
+**Les sources qui ont fait la passe.** La page « Les marchés » de `larochelle.fr` (mise à jour du 18 mars 2025) et les fiches de
+lieux de son annuaire, dont l'attribut `data-open-hours` porte les horaires et dont le script porte le point ; l'actualité
+« Requalification du Marché central » (13 février 2026) ; les fiches de marchés de l'office de tourisme sur `nous-larochelle.fr`
+(`robots.txt` ouvert à tous), dont les données Apidae portent horaires, coordonnées, textes détaillés, légendes et photographies
+avec leur date de prise de vue ; le site de l'association 270° ; le registre des entreprises ; OpenStreetMap par l'API Overpass,
+pour contrôler un point seulement. **Non consultés, règle 145, née ici** : `larochelle-congres.fr`, qui nomme `ClaudeBot` dans son
+`robots.txt`, `agglo-larochelle.fr`, qui exclut `GPTBot`, et `charente-maritime.fr`, fermé à tout robot. Le registre de l'Agence
+Bio, paginé sur les 1 399 opérateurs du département, ne compte à La Rochelle même que des supermarchés, des grossistes, des
+boulangeries, des ateliers du port de pêche et des sièges : il n'a fourni aucune fiche.
+
+**Contradictions tranchées** :
+
+- Marché central, fermeture : 13h30 (fiche du lieu, liste des marchés, office) contre 13h (actualité de février 2026) ; règle 44,
+  la page de référence l'emporte, l'actualité est citée. Marché de rues : 7h30 (fiche) contre 7h (liste) ; règle 80.
+- Port-Neuf et Villeneuve-les-Salines, heures : la fiche du lieu et la liste des marchés de la Ville se contredisent, l'office
+  corrobore l'une des deux ; règle 55. Il corrobore la fiche à Port-Neuf et la liste à Villeneuve : aucune des deux pages de la
+  Ville n'est donc plus fiable que l'autre.
+- La Pallice, heures : trois valeurs, aucune corroborée ; règle 55, les trois publiées.
+- Grand Bazar de Laleu, heures : trois valeurs, dont deux de l'association elle-même ; règle 80.
+- Villeneuve-les-Salines, point : coordonnées de l'office identiques à celles de Mireuil ; règle 146, née ici.
+- Port-Neuf, point : Ville et office à 186 m ; règle 64, l'office retombe sur l'allée qui borde la place.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. Deux sources ont été laissées de côté pour ce motif sans
+bloquer de fiche : l'affiche des exposants du Grand Bazar de Laleu, faite de portraits, dont seuls les intitulés de métiers ont
+servi ; et l'ardoise manuscrite du même marché, qui mêle enseignes, prénoms et patronymes.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché de la place de Verdun** (vendredi 13h30-19h30, « alimentaire exclusivement » ; la Ville, sa fiche du lieu et l'office
+  concordent ; Base Adresse Nationale sur la place de Verdun à 0,968, le marqueur de l'office tombant 326 m plus loin, rue des
+  Augustins, et celui de la Ville à 145 m) : publiable sur les faits, **débloqué**. La seule photographie de l'office est datée
+  d'un samedi à 10h, donc du marché de rues du samedi (règle 140), et porte de nombreux visages et l'enseigne d'un ostréiculteur
+  avec son téléphone ; elle ne vaut qu'illustration après recadrage sur les façades (règle 1). Laissé pour le quota de cinq, au
+  profit de marchés dont la photographie est un document.
+- **Marché de Mireuil** (vendredi ; 7h-13h30 selon la liste de la Ville, 8h30-13h30 selon sa fiche et l'office ; « une dizaine de
+  commerçants » pour l'office) : la seule photographie de l'office, datée d'un vendredi, montre surtout des portants de vêtements
+  et des passants de face ; le marqueur de l'office est la valeur par défaut de la règle 146. **Critère** : une photographie d'étal
+  alimentaire sans visage, et un point à la Base sur l'avenue de la Résistance.
+- **Marché de Tasdon** (mardi, place des Britanniques, que la Base connaît à 0,966 ; 7h-13h30 selon la liste, 8h30-13h30 selon la
+  fiche de la Ville) : aucune fiche d'office trouvée, aucune photographie. **Critère** : une photographie du lieu (règle 70) ou,
+  à défaut, une illustration de la même commune au titre de la règle 1.
+- **Marché des Minimes** (lundi, de juin à fin août seulement, avenue du Lazaret) : saisonnier, hors saison à la date de la passe ;
+  non instruit.
+- **Marché paysan** (fiche de lieu de la Ville, rue de l'Armide) : ni jour ni heure publiés ; **critère, règle 16** : deux sources
+  qui s'accordent sur le jour et le lieu.
+- **Magasins et producteurs** : Biomonde de la rue de Quatrefages (certificat Ecocert engagé ; **critère, règle 86** : une liste de
+  producteurs locaux nommés) ; une boulangerie bio engagée au registre de l'Agence Bio (règle 73,
+  non instruite) ; le jardin d'insertion inscrit au registre de l'Agence Bio sous une association rochelaise, dont l'exploitation
+  se tient à Nieul-sur-Mer et dont la dénomination au registre accole des noms de personnes — non repris, et à instruire à
+  Nieul-sur-Mer seulement sous l'enseigne que publie l'exploitation.
 
 ### Pistes non publiées à Bourg-en-Bresse
 

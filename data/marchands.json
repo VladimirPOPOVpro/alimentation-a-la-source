@@ -13292,5 +13292,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=551+chemin+du+Mont+01000+Saint-Denis-l%C3%A8s-Bourg",
     "image_url": "/images/marchands/ferme-du-mont-saint-denis-les-bourg.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-central-la-rochelle",
+    "nom": "Marché central de La Rochelle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.161834,
+    "lon": -1.149589,
+    "adresse": "Place du Marché, 17000 La Rochelle",
+    "horaires": "Tous les jours de 8h à 13h30, sous les halles et sur la place (fiche du lieu de la Ville et office de tourisme concordants ; une actualité de la Ville de février 2026 écrit « jusqu'à 13h », mieux vaut donc y être avant). Le mercredi et le samedi, le marché s'étend aux rues voisines de 7h30 à 13h30 selon la fiche de ce marché de rues (7h selon la liste des marchés de la Ville), et jusqu'à 20h les 24 et 31 décembre.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Boucherie et charcuterie",
+      "Poissons et coquillages",
+      "Huîtres d'ostréiculteurs",
+      "Fromages",
+      "Pain",
+      "Plats de traiteur",
+      "Agrumes en hiver (étal photographié par l'office de tourisme en décembre)"
+    ],
+    "description": "Marché quotidien de la ville, sous une halle de 1834 à verrières et toits de zinc et sur la place qui la précède : la Ville y compte 57 bancs sous les halles et 17 sur la place. Les métiers cités sont ceux que l'office de tourisme énumère ; le mercredi et le samedi, les rues voisines accueillent en plus des maraîchers des environs et quelques vendeurs non alimentaires. La Ville prévoit une rénovation du bâtiment, avec des travaux annoncés pour 2029-2031.",
+    "site_web": "https://www.larochelle.fr/annuaires/lieux/annuaire/marche-central",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+March%C3%A9+17000+La+Rochelle",
+    "image_url": "/images/marchands/marche-central-la-rochelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-port-neuf-la-rochelle",
+    "nom": "Marché de Port-Neuf",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.158898,
+    "lon": -1.180394,
+    "adresse": "Place de l'Île-de-France, Port-Neuf, 17000 La Rochelle",
+    "horaires": "Jeudi de 8h30 à 13h30 (fiche du lieu de la Ville et office de tourisme concordants ; la liste des marchés de la Ville indique 7h).",
+    "produits": [
+      "Fruits et légumes : ail, oignons, échalotes, pommes de terre, carottes, poireaux, radis (étals photographiés par l'office un jeudi de mars 2021)",
+      "Boucherie et charcuterie",
+      "Poissons et coquillages",
+      "Fromages",
+      "Pain",
+      "Plats de traiteur"
+    ],
+    "description": "Marché de quartier du jeudi matin, sur la place qui fait face au stade de rugby, que l'office de tourisme décrit comme essentiellement alimentaire. La Ville ne publie pas la liste des étals : les métiers viennent du texte de l'office, qui emploie la même énumération pour plusieurs marchés de la ville, et les légumes nommés des ardoises de sa photographie.",
+    "site_web": "https://www.larochelle.fr/annuaires/lieux/annuaire/marche-de-port-neuf-1",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+l'Ile+de+France+17000+La+Rochelle",
+    "image_url": "/images/marchands/marche-de-port-neuf-la-rochelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-pallice-la-rochelle",
+    "nom": "Marché de La Pallice",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.161672,
+    "lon": -1.20395,
+    "adresse": "14 boulevard Maréchal Lyautey, La Pallice, 17000 La Rochelle",
+    "horaires": "Dimanche matin. Heures divergentes selon la source : 8h30-13h30 sur la fiche du lieu de la Ville, 7h-13h30 sur la liste des marchés de la Ville, 8h-13h pour l'office de tourisme ; la plage commune aux trois va de 8h30 à 13h.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnier : langoustines, huîtres (étal photographié par l'office un dimanche de juin 2017)",
+      "Boucherie et charcuterie",
+      "Fromages",
+      "Pain",
+      "Plats de traiteur"
+    ],
+    "description": "Grand marché dominical du quartier portuaire de La Pallice, sur la place qui borde le boulevard Maréchal Lyautey, avec de petites halles couvertes. Il mêle alimentation et camelots : l'office de tourisme y signale un espace de vêtements, chapeaux et accessoires, et la Ville ne publie pas la composition des étals.",
+    "site_web": "https://www.larochelle.fr/annuaires/lieux/annuaire/marche-de-la-pallice",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=14+boulevard+Mar%C3%A9chal+Lyautey+17000+La+Rochelle",
+    "image_url": "/images/marchands/marche-de-la-pallice-la-rochelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-villeneuve-les-salines-la-rochelle",
+    "nom": "Marché de Villeneuve-les-Salines",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.153007,
+    "lon": -1.12855,
+    "adresse": "Avenue du 14-Juillet, Villeneuve-les-Salines, 17000 La Rochelle",
+    "horaires": "Mercredi de 7h à 13h30 (liste des marchés de la Ville et office de tourisme concordants ; la fiche du lieu de la Ville indique 8h30-13h30).",
+    "produits": [
+      "Fruits : raisin, bananes, melons, avocats (étal photographié par l'office un mercredi de septembre 2018)",
+      "Noix",
+      "Patates douces",
+      "Poissonnier (camion-étal visible sur la même photographie)"
+    ],
+    "description": "Marché de quartier du mercredi matin, le long de l'avenue du 14-Juillet et de la galerie commerçante de Villeneuve-les-Salines, où l'office de tourisme compte une quarantaine de commerçants, alimentaires et non alimentaires. Aucune source ne publie la liste des étals : les produits cités sont ceux que montre la photographie de l'office, et le point de la carte est le centre de l'avenue.",
+    "site_web": "https://www.larochelle.fr/annuaires/lieux/annuaire/marche-de-villeneuve-les-salines",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue+du+14+Juillet+17000+La+Rochelle",
+    "image_url": "/images/marchands/marche-de-villeneuve-les-salines-la-rochelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "grand-bazar-de-laleu-la-rochelle",
+    "nom": "Le Grand Bazar de Laleu, marché bio et local",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 46.167537,
+    "lon": -1.201805,
+    "adresse": "Parc de Laleu, 17000 La Rochelle",
+    "horaires": "Mercredi après-midi, dans le parc de Laleu. Heures divergentes selon la source : 14h-20h sur la page de l'association organisatrice, 15h-19h pour l'office de tourisme, « à partir de 15h30 » sur une affiche de l'association ; la plage commune va de 15h30 à 19h.",
+    "produits": [
+      "Légumes de maraîchers",
+      "Pain et pâtisseries",
+      "Fromages, charcuterie et viandes",
+      "Miel et confitures",
+      "Épicerie bio",
+      "Poissons fumés et conserves",
+      "Bières artisanales",
+      "Jeunes plants potagers"
+    ],
+    "description": "Marché de producteurs et d'artisans organisé chaque mercredi par une association des quartiers ouest de La Rochelle, que la Ville présente comme un marché bio de producteurs et d'artisans locaux. Il fonctionne en zéro déchet : on vient avec ses contenants, et l'organisateur propose des contenants textiles et des pots en verre consignés. Les produits viennent de l'affiche des exposants de la saison 2020-2021 ; la certification de chaque étal n'est pas vérifiée.",
+    "site_web": "https://asso270.org/index.php/2016/06/02/legrandbazardelaleu/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+de+Laleu+17000+La+Rochelle",
+    "image_url": "/images/marchands/grand-bazar-de-laleu-la-rochelle.jpg",
+    "a_confirmer": true
   }
 ]
