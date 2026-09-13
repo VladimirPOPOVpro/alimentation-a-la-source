@@ -1548,9 +1548,30 @@ prioritaires en cas de conflit.
      La fiche reste `a_confirmer`, puisque la page des commerçants règle l'heure du tirage au sort
      des places, pas explicitement celle de l'ouverture au public.
 
+124. **Quand la commune calculée ne rend que deux fiches solides et que la suivante par population en
+     rend trois, dans le même office de tourisme et à moins de dix kilomètres, la passe les réunit.**
+     La règle 41 a désigné les Yvelines et, dans le département, Sartrouville. La commune rend deux
+     fiches irréprochables — la brasserie qui accueille l'AMAP, et le marché Debussy, dont l'office
+     de tourisme publie la liste des métiers — et deux marchés que rien ne permet de décrire : le
+     marché de la Gare n'a aucune composition publiée et la seule photographie attachée à sa fiche ne
+     montre que des étals de vêtements ; le marché des Indes, privé, a deux adresses à 230 m l'une de
+     l'autre et une photographie de banque d'images. La règle 52 fait alors descendre la passe entière
+     sur la commune suivante, Saint-Germain-en-Laye, qui rend à son tour trois fiches solides — le
+     marché central, l'AMAP, la ferme de l'Agrocampus — et deux marchés sans photographie ni
+     composition. Descendre une seconde fois jetterait cinq fiches vérifiées pour recommencer à
+     Mantes-la-Jolie. **Tranché ainsi** : les deux communes font une seule passe, à quatre conditions
+     cumulatives — la seconde commune est **la suivante par population** dans le département, pas une
+     voisine choisie ; les deux relèvent du **même office de tourisme** (ici Saint Germain Boucles de
+     Seine, qui fiche les deux) et de la même intercommunalité ; **toutes les fiches sont à moins de
+     dix kilomètres les unes des autres**, la distance de la règle 28 (ici 9,1 km au plus, entre le
+     marché Debussy et les serres) ; **au moins deux fiches** sont dans la commune calculée, comme à la
+     règle 96. Le compte rendu et la section « Pistes non publiées » nomment les deux communes. La
+     règle ne vaut pas pour trois communes : au-delà de deux, c'est l'éparpillement que la consigne de
+     groupement interdit, et la descente d'échelle de la règle 41.d reprend.
+
 ## Marchands à confirmer
 
-416 fiches sur 451 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+421 fiches sur 456 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1989,8 +2010,13 @@ prioritaires en cas de conflit.
 - **Marché du Pertuischaud** (Saint-Nazaire) (marché de quartier du jeudi, catégorie et piliers des marchés, sans `environnement` : la Ville cite des producteurs de légumes bio et un producteur de volaille bio sans les nommer, règle 68. L'office de tourisme écrit « Perthuischaud », la Ville « Pertuischaud » : l'écriture de la Ville est gardée. **Point** : centre de la place Pierre-Bourdan à la Base Adresse Nationale (0,965), marqueur de la Ville à 6 m. **Photo** : l'étal de fruits que la Ville attache à ce marché, recadré sous les têtes d'un cycliste et de clients (règle 46), 2 000 × 775 réduits à 1 280 × 496 ; les caisses visibles portent des marques de fruits importés, ce que la fiche ne reprend pas)
 - **Marché de Saint-Marc-sur-Mer** (Saint-Nazaire) (marché de plein air du jeudi et du dimanche, catégorie et piliers des marchés, sans `environnement` (règle 68). **Horaires, règle 123** : ceux de la Ville ; les marchés nocturnes d'été, organisés avec le comité des fêtes, ne sont cités qu'en une phrase, sans dates : la page des marchés de la Ville en donne encore celles de 2023. **Point, règle 63** : la Ville et l'office n'écrivent que « rue du Commandant Charcot », sans numéro ; le centre de voie rendu par la Base Adresse Nationale tombe à 114 m du marqueur de la Ville, dont le contrôle inverse rend « 5 rue du Commandant Charcot » à 7 m : c'est ce marqueur qui est publié. **Photo, règles 46 et 59** : la seule photographie publiée du marché, par la Ville, montre des commerçants et une terrasse de clients de face, et des cageots marqués d'un nom qui pourrait être un patronyme ; le seul recadrage sans l'un ni l'autre garde un étal de nectarines sur tréteaux, 620 × 545, sous le seuil de 700 px mais au-dessus du plancher, sans photo thématique nette de la commune pour la remplacer. Les photographies de l'office sur Saint-Marc montrent le marché nocturne et ses bougies artisanales : non utilisées)
 - **Marché de la Bouletterie** (Saint-Nazaire) (marché de quartier du mercredi, catégorie et piliers des marchés. **Composition, règle 119** : la Ville annonce « 5 commerçants alimentaires et des commerçants manufacturés » sans compter ces derniers ; la règle 119 ne s'applique qu'à un décompte complet, la règle 9 suffit, et la description dit la petite taille. La Ville énumère six métiers alimentaires pour cinq commerçants : les six sont repris. **Point** : centre de la place Nadia-Boulanger à la Base Adresse Nationale (0,964), marqueur de la Ville à 32 m, contrôle inverse de ce marqueur « 8 place Nadia Boulanger » à 29 m. **Photo** : la photographie que la Ville attache à ce marché montre des enfants et des commerçants de face ; recadrage sur le haut de la scène — immeuble de la place, bâche de la remorque d'un charcutier, parasol d'un primeur — 1 920 × 640 réduits à 1 280 × 427. Elle situe le marché plus qu'elle ne montre ses étals)
+- **Brasserie La P'tite Sœur et AMAP de Sartrouville** (Sartrouville) (une seule fiche pour la brasserie et l'AMAP qui distribue dans son espace de dégustation, règles 7 et 42 ; catégorie `producteur`, piliers `alimentation` (légumes et pain de l'AMAP), `economie` et `social` (ESAT). Horaires du Relais : site de la brasserie, avec la version du comité départemental ; distribution : site de l'AMAP, avec la fin à 20h de l'annuaire du réseau. Point : 165 avenue de la République à la Base Adresse Nationale (0,977), marqueur de l'AMAP à 4 m. Téléphone non inscrit : portable. Détail dans les pistes de Sartrouville et Saint-Germain-en-Laye)
+- **Marché Debussy** (Sartrouville) (halle couverte communale, catégorie et piliers des marchés. Horaires 8h-13h de la page des marchés de 2025, 7h30 de la fiche de lieu de 2022 cité, règle 58. Point : marqueur commun à la Ville et à l'office, contrôle inverse sur le parking Claude-Debussy à 29 m, règle 64. Produits : métiers de la liste de commerçants de l'office, aucun nom repris. Photo : illustration générique de la page des marchés de la Ville, recadrée, règles 1, 59 et 66)
+- **Marché central de Saint-Germain-en-Laye** (Saint-Germain-en-Laye) (catégorie et piliers des marchés. Horaires de la Ville ; l'office donne 13h le dimanche, règle 22. Point : centre de la place du Marché-Neuf à la Base Adresse Nationale (0,961), marqueur de l'office à 18 m. Produits : lus sur les photographies que l'office attache à ce seul marché, règle 91 — aucune source ne publie la composition. Photo : étal de légumes de l'office, sans client)
+- **AMAP de Saint-Germain-en-Laye** (Saint-Germain-en-Laye) (catégorie et piliers des AMAP, sans `environnement`, règle 60 : le boulanger et la ferme des œufs sont engagés au registre de l'Agence Bio ; le maraîcher, dans l'Eure, n'a pas été vérifié, et le verger des Alluets-le-Roi a un certificat de production arrêté à côté d'une boutique engagée en simple distribution. Jour : annuaire du réseau AMAP d'Île-de-France ; heures : site de l'AMAP, qui ne donne pas le jour. Producteurs désignés par leur commune, jamais par leur nom — l'un des noms commerciaux est un prénom. Point : 20 rue de la Maison Verte à la Base Adresse Nationale (0,964). Photo : panier publié par l'AMAP)
+- **Les Serres des Princesses** (Saint-Germain-en-Laye) (exploitation de l'Agrocampus, catégorie `ferme`. Règle 6 : établissement « exploitation agricole et horticole » ouvert au registre des entreprises, code 01.11Z. Pilier `environnement` : engagement Ecocert du 22 janvier 2020, en cours, sur ce même SIRET, productions déclarées légumes frais, pommes, poires et conserves de fruits et légumes, règle 39. Horaires de l'Agrocampus, version de Bienvenue à la ferme citée, règle 104. Point : marqueur de Bienvenue à la ferme, et non le « 1 route des Princesses » administratif à 1 km, voir les pistes. Téléphone : le fixe que publie l'Agrocampus. Photo : étal du magasin publié par l'Agrocampus)
 
-Les 451 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 456 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2018,6 +2044,122 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Sartrouville et à Saint-Germain-en-Laye
+
+Département visé : les **Yvelines (78)**, déficit **4,7135** au titre de la règle 41 avec 451 fiches
+publiées et 5 dans le département, toutes à Versailles. La Réunion (5,8191) reste écartée par la
+règle 93. La passe précédente visait la Loire-Atlantique, en Pays de la Loire ; les Yvelines sont en
+Île-de-France, la réserve de la règle 41.c ne joue pas. Suivants du classement : la Haute-Garonne
+(4,6244) et les Pyrénées-Atlantiques (4,6214). Les cinq fiches ramènent le déficit du 78 à environ
+**−0,18**. Commune calculée : **Sartrouville**, 52 763 habitants, la plus peuplée du département sans
+fiche. Elle n'a rendu que deux fiches solides ; la suivante par population, **Saint-Germain-en-Laye**
+(45 931 habitants), en a rendu trois : les deux communes font la passe au titre de la règle 124,
+toutes deux dans la communauté d'agglomération Saint Germain Boucles de Seine et fichées par le même
+office de tourisme. Deux fiches à Sartrouville (la brasserie et le marché Debussy, à 1,1 km l'une de
+l'autre), trois à Saint-Germain-en-Laye ; 9,1 km au plus entre deux fiches.
+
+**Les sources qui ont fait la passe** : la page « Les marchés à Sartrouville » et les fiches de lieu de
+`sartrouville.fr` ; la page « Foires et marchés » de `saintgermainenlaye.fr` ; les fiches de l'office
+de tourisme intercommunal `seine-saintgermain.fr` (marchés, brasserie), dont le `robots.txt` n'interdit
+que des chemins techniques ; la fiche de la brasserie du comité départemental `destination-yvelines.fr`
+; l'annuaire du réseau AMAP d'Île-de-France (recherche par département, 78) ; les sites de la
+brasserie, des deux AMAP et de l'Agrocampus ; Bienvenue à la ferme ; le registre de l'Agence Bio,
+**815** opérateurs lus sur les Yvelines. L'annuaire du réseau AMAP publie les noms, courriels et
+portables des contacts : rien n'en est repris. Les fiches de l'office et du comité départemental sur
+le marché Debussy et la brasserie nomment des commerçants et des brasseurs par leur nom ou leur
+prénom : seuls les métiers sont repris.
+
+**Contradictions consignées** :
+- **Marché Debussy, horaires** : 8h-13h sur la page des marchés de la Ville, mise à jour le 13 juin
+  2025, et à l'office ; 7h30-13h sur la fiche de lieu de la Ville, mise à jour le 29 août 2022. La page
+  datée la plus récente est publiée (règle 58), l'autre valeur est citée dans `horaires`.
+- **Marché Debussy, adresse** : « rue Louise-Michel » sur la page des marchés et à l'office, « 93 rue
+  Lamartine » sur la fiche de lieu. La Base Adresse Nationale ne connaît aucun numéro rue Louise-Michel.
+  Le point publié est le marqueur commun à la fiche de lieu de la Ville et à l'office (au mètre près) ;
+  son contrôle inverse rend « Parking Claude Debussy » à 29 m, la rue Lamartine à 48 m et un numéro
+  d'une rue voisine à 27 m, règle 64. Le 93 rue Lamartine tombe à 55 m.
+- **Brasserie, horaires du Relais** : jeudi et vendredi 17h-21h, samedi 14h-21h sur le site de la
+  brasserie ; jeudi 17h-20h, vendredi et samedi 14h-20h au comité départemental. L'intéressé l'emporte
+  (règle 104), les deux versions sont dans `horaires`.
+- **AMAP de Sartrouville, fin de distribution** : 19h45 sur son site, 20h à l'annuaire du réseau ; les
+  deux sont écrites. Le site précise que l'AMAP distribuait auparavant dans une ferme ouverte de la
+  commune, « désormais fermée pour travaux » ; les deux établissements de cette ferme sont fermés au
+  registre des entreprises.
+- **Marché central de Saint-Germain-en-Laye** : fin du dimanche à 13h30 pour la Ville, 13h pour
+  l'office ; la commune fait foi sur son marché (règle 22), l'autre valeur est citée.
+- **Les Serres des Princesses, horaires** : du mercredi au samedi, 9h30-12h30 et 14h-18h30, sur la page
+  de l'Agrocampus ; du mardi au samedi, 10h-13h et 14h-18h30, sur Bienvenue à la ferme. L'intéressé
+  l'emporte (règle 104), l'annuaire est cité.
+- **Les Serres des Princesses, point** : le registre des entreprises et la Base Adresse Nationale
+  placent l'établissement « exploitation agricole et horticole » au « 1 route des Princesses », à
+  l'entrée de la route côté ville, **1 km** au nord-est. Le magasin n'est pas à cette adresse
+  administrative : Bienvenue à la ferme le situe « en contrebas du lycée horticole, au niveau des
+  serres », et son marqueur se retourne sur le lieu-dit « Route des Princesses » à 4 m, à la limite de
+  Chambourcy ; la seconde adresse que l'Agence Bio déclare, « Route Forestière des Princesses », tombe à
+  240 m, et le point du lycée au registre des entreprises à 330 m. C'est le marqueur de l'annuaire qui
+  est publié, avec la commune que l'exploitation déclare (règle 17), et la fiche reste `a_confirmer`.
+
+**Brasserie et AMAP, une seule fiche (règles 7 et 42)** : l'AMAP distribue dans l'espace de dégustation
+de la brasserie, et son site publie un marqueur qui se retourne sur le 165 avenue de la République à
+4 m, le numéro même de la brasserie. Deux fiches se seraient superposées. Catégorie `producteur` (la
+brasserie brasse sur place, règle 73) ; pilier `alimentation` au titre des légumes et du pain de l'AMAP
+(règle 14) ; `social` au titre de l'ESAT, que la brasserie et le comité départemental décrivent ; pas
+d'`environnement` : la brasserie n'est pas au registre de l'Agence Bio, le maraîcher de l'AMAP n'est
+nommé nulle part, et seul le fournil d'Épône, qui y est engagé, se retrouve (règle 60). Règle 6 : la
+société qui exploite la brasserie est active, un établissement ouvert à cette adresse, code 11.05Z. Le
+seul téléphone publié par la brasserie est un portable : non inscrit.
+
+**Photos** : bouteilles de la brasserie sur un tonneau, comité départemental du tourisme, 2 560 px
+réduits à 1 280, sans personne (les étiquettes portent des dessins). Marché Debussy, **règles 1, 59 et
+66** : la seule photographie que l'office attache à ce marché fait 581 px, sous le plancher ; la fiche
+utilise l'illustration générique de la page « Les marchés à Sartrouville », signée de la Ville et
+passée par un logiciel de mise en page, qui ne nomme aucun marché — recadrée sur l'étal de légumes pour
+sortir une cliente et un passant, 720 × 480 ; elle ne prétend pas montrer la halle Debussy. Marché
+central : photographie de l'office attachée à ce seul marché (règle 91), étal de légumes sans client,
+recadrée pour sortir un vendeur lointain, réduite à 1 280 px. AMAP de Saint-Germain-en-Laye : le panier
+de légumes que l'AMAP publie sur sa page d'accueil, 1 000 px, sans personne. Serres des Princesses :
+l'étal de légumes du magasin, publié par l'Agrocampus, étiquettes « Agrocampus » et logo AB lisibles,
+réduit à 1 280 px, sans personne.
+
+**Pistes non publiées à Sartrouville** :
+- **Marché de la Gare**, place des Fusillés, le vendredi de 14h à 20h (Ville et office concordent).
+  Aucune composition publiée, et la seule photographie attachée à sa fiche par l'office (règle 91) ne
+  montre que des étals de vêtements. Critère de déblocage : une composition publiée ou une
+  photographie d'étals alimentaires de ce marché.
+- **Marché des Indes**, marché privé du mercredi et du samedi matin. Adresse « 3 rue du 8-Mai-1945 »
+  pour la Ville, « rue du Berry » pour l'office, à 230 m, au-delà du seuil de la règle 50 ; ouverture à
+  8h pour la Ville, 8h30 pour l'office ; aucune composition ; photographie de l'office créditée à une
+  banque d'images ; quartier en renouvellement urbain. Critère : un lieu confirmé par le gestionnaire,
+  une composition et une photographie.
+- **Magasin bio de réseau de l'avenue Maurice-Berteaux** : établissement ouvert, certificat engagé, mais
+  la page du réseau ne nomme aucun producteur local ni ne publie de photographie du magasin (règle 86).
+  **Magasin bio d'un second réseau avenue Jean-Jaurès** et **épicerie en vrac** du centre, qui
+  paraît rattachée au réseau déjà écarté à Metz : non instruits, la règle 86 demandant une liste de
+  producteurs que ni l'un ni l'autre n'a montrée au premier examen.
+- **Producteurs de la plaine de Montesson** : l'office les fiche sous des noms de personnes ; non
+  instruits, et ils ne se rouvrent pas. Deux exploitations maraîchères bio de Montesson ne vendent
+  qu'en gros d'après le registre de l'Agence Bio.
+
+**Pistes non publiées à Saint-Germain-en-Laye** :
+- **Marché Pereire**, place Michel-Péricard, le samedi de 8h30 à 13h. L'office le fiche encore sous
+  l'ancien nom de sa place, « devant la gare de Grande Ceinture », à 75 m, même jour, même heure ; mais la photographie de cette
+  fiche montre en réalité la place du Marché-Neuf — les bâches portent, lisibles, les enseignes d'une
+  banque et d'un opticien des arcades du marché central. Aucune composition, aucune photographie du
+  lieu. Critère : une photographie de ce marché et une composition.
+- **Marché de l'Aurore**, rue de l'Aurore, le vendredi de 15h à 19h30 ; l'office écrit « place des
+  Rotondes », 15h30. Ses deux photographies, de 2017, montrent un étal d'agrumes et un étal de
+  papeterie ; aucune composition publiée. Critère : une composition publiée par la Ville.
+- **Marché de Fourqueux** : la Ville se contredit (« Foires et marchés » : mercredi et samedi 7h-13h30,
+  place de l'Espace-Pierre-Delanoë ; page de la commune déléguée : mercredi et samedi 8h-13h,
+  place Victor-Hugo) et l'office annonce mardi, vendredi et dimanche 9h-13h. L'office publie une liste
+  de métiers, mais se trompe de jours : écartée (règle 90). La seule photographie de la Ville fait
+  500 px, sous le plancher de la règle 59. Critère : une photographie d'au moins 600 px.
+- **AMAP de Fourqueux** et **AMAP de Mareil-Marly** : actives d'après l'annuaire du réseau, mais aucune
+  photographie utilisable (bannières, calendriers illustrés, photographie de banque d'images).
+- **Fromagerie-affineur de la rue au Pain** : revendeur ; non instruite.
+- **Une exploitation maraîchère bio de la commune** dont la dénomination au registre de l'Agence Bio
+  accole un nom de personne à l'enseigne, sans site de vente : écartée pour ce motif, ne se rouvre pas.
 
 ### Pistes non publiées à Saint-Nazaire
 

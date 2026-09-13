@@ -11939,5 +11939,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Nadia%20Boulanger%2C%2044600%20Saint-Nazaire",
     "image_url": "/images/marchands/marche-de-la-bouletterie-saint-nazaire.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-la-ptite-soeur-amap-sartrouville",
+    "nom": "Brasserie La P'tite Sœur et AMAP de Sartrouville",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.932351,
+    "lon": 2.148692,
+    "adresse": "165 avenue de la République, 78500 Sartrouville",
+    "horaires": "Le Relais de la brasserie (dégustation et vente directe des bières) ouvre le jeudi et le vendredi de 17h à 21h et le samedi de 14h à 21h, d'après le site de la brasserie ; le comité départemental du tourisme annonce 17h-20h le jeudi et 14h-20h le vendredi et le samedi. Visite guidée gratuite le samedi après-midi. Distribution de l'AMAP le jeudi de 18h30 à 19h45 d'après son site (18h30-20h dans l'annuaire du réseau AMAP d'Île-de-France), réservée aux adhérents sous contrat annuel ; un trimestre d'essai est proposé.",
+    "produits": [
+      "Bières artisanales brassées sur place, non filtrées et non pasteurisées",
+      "Limonades et jus de pommes (au Relais)",
+      "Planches de charcuterie ou de fromages (au Relais)",
+      "Paniers hebdomadaires de légumes bio d'un maraîcher de Conflans-Sainte-Honorine (AMAP)",
+      "Pain bio d'un fournil d'Épône (AMAP)",
+      "Livraisons ponctuelles de viande bio, légumineuses, pâtes et huile (AMAP)"
+    ],
+    "description": "Brasserie artisanale installée à Sartrouville depuis 2015, qui produit une quinzaine de bières et associe à ses brassages et à l'embouteillage des travailleurs d'ESAT de Montesson et de Cormeilles-en-Parisis. Son espace de dégustation, le Relais, accueille aussi chaque jeudi soir la distribution de l'AMAP de Sartrouville, portée par l'association Comm'un Avenir ; le maraîcher de l'AMAP n'est pas nommé et la brasserie n'est pas certifiée, d'où l'absence du pilier environnement.",
+    "site_web": "https://laptitesoeur.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=165%20avenue%20de%20la%20R%C3%A9publique%2C%2078500%20Sartrouville",
+    "image_url": "/images/marchands/brasserie-la-ptite-soeur-amap-sartrouville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-debussy-sartrouville",
+    "nom": "Marché Debussy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.935284,
+    "lon": 2.162678,
+    "adresse": "Rue Louise-Michel, parking Claude-Debussy, 78500 Sartrouville",
+    "horaires": "Le jeudi et le dimanche de 8h à 13h, d'après la page « Les marchés à Sartrouville » de la Ville (mise à jour le 13 juin 2025) et l'office de tourisme Saint Germain Boucles de Seine ; la fiche de lieu plus ancienne de la Ville indique 7h30-13h. Le marché reste ouvert les jours fériés ; la Ville met en place une navette gratuite pour s'y rendre.",
+    "produits": [
+      "Fruits et légumes",
+      "Pommes de terre, ail et oignons",
+      "Pommes d'un arboriculteur",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Fromages",
+      "Poissons",
+      "Olives, fruits secs, traiteur italien, café, thé et vins"
+    ],
+    "description": "Le principal marché communal de Sartrouville, sous la halle couverte à l'enseigne « Marché Claude Debussy ». L'office de tourisme intercommunal publie une liste d'une vingtaine de commerçants — deux bouchers, un charcutier, deux fromagers, quatre marchands de fruits et légumes, deux poissonniers, deux volaillers, un verger — ; la Ville ne publie pas elle-même la composition des étals.",
+    "site_web": "https://www.sartrouville.fr/vivre-a-sartrouville/commerces-et-entreprises/les-marches-a-sartrouville/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Louise-Michel%2C%2078500%20Sartrouville",
+    "image_url": "/images/marchands/marche-debussy-sartrouville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-central-saint-germain-en-laye",
+    "nom": "Marché central de Saint-Germain-en-Laye",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.897912,
+    "lon": 2.089113,
+    "adresse": "Place du Marché-Neuf, 78100 Saint-Germain-en-Laye",
+    "horaires": "Le mardi et le vendredi de 8h30 à 13h, le dimanche de 8h30 à 13h30, d'après la page « Foires et marchés » de la Ville ; l'office de tourisme Saint Germain Boucles de Seine indique 13h pour le dimanche aussi.",
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs et plantes en pot",
+      "Charcuterie en vitrine réfrigérée",
+      "Vins"
+    ],
+    "description": "Le grand marché du centre historique, sur la place du Marché-Neuf bordée d'arcades, premier des quatre marchés que liste la Ville. Ni la Ville ni l'office de tourisme ne publient la composition des étals : les produits repris ici sont ceux que montrent les photographies que l'office consacre à ce marché, où des étals de vêtements occupent aussi la rue voisine.",
+    "site_web": "https://www.saintgermainenlaye.fr/999/la-ville-vous/m-installer/mes-commerces/foires-et-marches.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20March%C3%A9-Neuf%2C%2078100%20Saint-Germain-en-Laye",
+    "image_url": "/images/marchands/marche-central-saint-germain-en-laye.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-saint-germain-en-laye",
+    "nom": "AMAP de Saint-Germain-en-Laye",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.893484,
+    "lon": 2.080696,
+    "adresse": "Espace Saint-Léger, 20 rue de la Maison Verte, 78100 Saint-Germain-en-Laye",
+    "horaires": "Distribution le mercredi de 18h à 20h (préparation de 17h à 18h) : le jour vient de l'annuaire du réseau AMAP d'Île-de-France, les heures du site de l'AMAP. Réservé aux adhérents : contrat annuel de légumes, auquel s'ajoutent des contrats de pain, d'œufs, de champignons et de fruits, et des commandes ponctuelles.",
+    "produits": [
+      "Légumes bio de saison",
+      "Pain bio d'un boulanger-meunier de Chavenay",
+      "Œufs bio de Feucherolles, tous les quinze jours",
+      "Champignons d'une champignonnière d'Évecquemont",
+      "Pommes, poires et fruits rouges des Alluets-le-Roi",
+      "Viande de bœuf et de veau, en commande ponctuelle",
+      "Huile, en commande ponctuelle"
+    ],
+    "description": "AMAP en fonctionnement depuis septembre 2016, qui écrit que tous ses produits viennent de l'agriculture paysanne et biologique. Le boulanger de Chavenay et la ferme qui fournit les œufs ont un engagement en cours au registre de l'Agence Bio ; le maraîcher du contrat de légumes, installé dans l'Eure, et le verger n'y ont pas de certificat de production vérifié, d'où l'absence du pilier environnement.",
+    "site_web": "https://amapstgermain78100.wordpress.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=20%20rue%20de%20la%20Maison%20Verte%2C%2078100%20Saint-Germain-en-Laye",
+    "image_url": "/images/marchands/amap-saint-germain-en-laye.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "serres-des-princesses-saint-germain-en-laye",
+    "nom": "Les Serres des Princesses",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.899233,
+    "lon": 2.050431,
+    "adresse": "Route des Princesses, Agrocampus, 78100 Saint-Germain-en-Laye",
+    "horaires": "Magasin ouvert du mercredi au samedi de 9h30 à 12h30 et de 14h à 18h30, d'après la page de l'Agrocampus ; l'annuaire Bienvenue à la ferme indique encore du mardi au samedi, de 10h à 13h et de 14h à 18h30. Cueillette en libre-service ouverte depuis l'été 2026, prolongée pour l'instant jusqu'à fin octobre. Drive fermier : commande en ligne et retrait sur place.",
+    "produits": [
+      "Légumes bio de saison de l'exploitation",
+      "Pommes et poires du verger",
+      "Jus de pommes, tartinades et conserves",
+      "Tomates, aubergines, haricots à rame et poivrons en cueillette (été et automne 2026)",
+      "Vins d'autres lycées agricoles",
+      "Plants, fleurs, arbres et arbustes"
+    ],
+    "description": "Exploitation de l'Agrocampus de Saint-Germain-en-Laye–Chambourcy, conduite en agriculture biologique sur 3 ha de maraîchage et 2 ha de verger, qui vend sa production dans un espace de vente de 2 000 m² en contrebas du lycée, au niveau des serres. Les apprenants participent à la production et à la vente ; engagement Ecocert en cours au registre de l'Agence Bio depuis janvier 2020. Le magasin vend aussi des produits d'autres producteurs locaux et d'autres lycées agricoles.",
+    "telephone": "01 30 87 18 18",
+    "site_web": "https://agrocampus78.fr/agrocampus/serres-des-princesses/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20des%20Princesses%2C%2078100%20Saint-Germain-en-Laye",
+    "image_url": "/images/marchands/serres-des-princesses-saint-germain-en-laye.jpg",
+    "a_confirmer": true
   }
 ]
