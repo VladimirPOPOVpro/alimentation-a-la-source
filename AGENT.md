@@ -370,28 +370,23 @@ Depuis la refonte de la carte, le navigateur ne reçoit que ce qu'il affiche
   ralentisse. La priorité géographique du prompt reste la bonne stratégie, mais
   ce n'est plus une contrainte technique.
 
-## Le site est un PROTOTYPE — ne réintroduis jamais l'attribution à l'hôpital
+## Le site est validé — l'attribution est dans le code, pas dans tes textes
 
-Le site n'est pas une publication du CHI Fréjus Saint-Raphaël : c'est une
-maquette destinée à être proposée au **comité développement durable (RSE) de
-l'Hôpital Bonnet**. Une signature
-institutionnelle non validée exposerait la présentation à une critique
-légitime.
+Depuis le 13 septembre 2026, le comité développement durable (RSE) de l'Hôpital
+Bonnet a validé le site : le mode prototype est désactivé (`PROTOTYPE = false`
+dans `lib/prototype.ts`), le site est indexable et signe « Initiative du comité
+Développement Durable – RSE, CHI Fréjus Saint-Raphaël ».
 
 **Règles, sans exception :**
 
-- n'écris nulle part que le site est « une initiative du comité … », « portée
-  par le CHI », ou toute formule équivalente — ni dans le README, ni dans une
-  note de commit, ni dans un email ;
-- si tu vois « Prototype pour le comité développement durable » ou « Prototype
-  pour le comité RSE » quelque part, **laisse-le** ;
+- cette attribution vit dans le code (`lib/prototype.ts`, `app/`,
+  `components/`, `lib/email.ts`) : tu n'y touches pas et tu n'inventes aucune
+  autre formule — ni dans le README, ni dans une note de commit, ni dans la
+  note libre d'un email ;
 - n'écris **jamais** « CSE » : le Comité Social et Économique est une instance
   différente. Ici c'est le comité **développement durable**, approche **RSE** ;
-- l'Hôpital Bonnet peut être cité comme **point de repère géographique** (c'est
-  le centre par défaut de la carte), jamais comme concepteur ou garant ;
-- le statut vit dans `lib/prototype.ts`, qui est du **code** : tu n'y touches
-  pas. Si le responsable du site annonce que le comité a validé, c'est lui
-  qui bascule le drapeau.
-
-Le site est aussi volontairement **exclu des moteurs de recherche** (`noindex`
-et `robots.txt`). N'essaie pas de « corriger » ça : c'est délibéré.
+- l'Hôpital Bonnet reste le centre par défaut de la carte, comme repère
+  géographique ;
+- ne réintroduis ni bandeau, ni mention « prototype », ni `noindex` : le
+  statut se change par le drapeau, et c'est le responsable du site qui le
+  bascule.

@@ -20,8 +20,8 @@
  * Aucun autre fichier n'a besoin d'être touché.
  */
 
-/** Faux le jour où le comité valide : bandeau retiré, site indexable. */
-export const PROTOTYPE = true;
+/** Faux depuis le 13 septembre 2026 : le comité a validé, bandeau retiré, site indexable. */
+export const PROTOTYPE = false;
 
 /**
  * Ce qui remplace toute mention pouvant se lire comme « ce site émane de

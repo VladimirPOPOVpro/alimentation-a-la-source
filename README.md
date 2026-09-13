@@ -1,18 +1,11 @@
 # L'Alimentation à la Source
 
-> ⚠️ **Site prototype.** Ce site est une maquette réalisée pour être proposée au
-> **comité développement durable (RSE) de l'Hôpital Bonnet**. Il n'émane pas du
-> Centre Hospitalier Intercommunal Fréjus
-> Saint-Raphaël et n'a fait l'objet d'aucune validation de sa part. Il est
-> volontairement **exclu des moteurs de recherche** (`noindex` + `robots.txt`)
-> tant que ce statut dure.
->
-> Tout le statut tient dans **`lib/prototype.ts`** : passer `PROTOTYPE` à `false`
-> retire le bandeau, rétablit les mentions officielles partout et rouvre
-> l'indexation. Il faut aussi basculer `PROTOTYPE = False` en tête de
-> `scripts/build_brochure.py` et régénérer la brochure.
+> ✅ **Site validé** par le comité développement durable (RSE) de l'Hôpital
+> Bonnet le 13 septembre 2026. Le mode prototype (bandeau, pastille,
+> `noindex`, `robots.txt`) est désactivé : `PROTOTYPE = false` dans
+> `lib/prototype.ts`. Le fichier est conservé pour pouvoir revenir en arrière.
 
-Site web de découverte des marchands locaux et points de vente à la ferme dans le Var, avec l'Hôpital Bonnet comme point de départ par défaut sur la carte. Maquette destinée à être proposée au comité développement durable — Responsabilité Sociétale et Environnementale — de l'Hôpital Bonnet.
+Site web de découverte des marchands locaux et points de vente à la ferme dans le Var, avec l'Hôpital Bonnet comme point de départ par défaut sur la carte. Initiative du comité développement durable — Responsabilité Sociétale et Environnementale — de l'Hôpital Bonnet (CHI Fréjus Saint-Raphaël), validée le 13 septembre 2026.
 
 Le site affiche une carte interactive (OpenStreetMap) centrée sur l'hôpital, avec une liste de marchands triée par distance et une fiche détaillée pour chacun.
 
@@ -8369,4 +8362,4 @@ Le site est déployé sur Railway, avec deux services : l'application et une bas
 
 ---
 
-Prototype pour le comité développement durable (RSE) de l'Hôpital Bonnet — ce dépôt et le site qu'il produit n'émanent pas du CHI Fréjus Saint-Raphaël.
+Initiative du comité développement durable (RSE) de l'Hôpital Bonnet, CHI Fréjus Saint-Raphaël.

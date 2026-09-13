@@ -74,7 +74,7 @@ BODY = [
 #
 # Doit rester aligné sur lib/prototype.ts. Le jour où le comité valide, basculer
 # PROTOTYPE à False ici ET dans lib/prototype.ts, puis régénérer la brochure.
-PROTOTYPE = True
+PROTOTYPE = False
 
 # Coupures volontaires : aucune de ces mentions ne doit être scindée n'importe où.
 COMMITTEE_PROTOTYPE = [
