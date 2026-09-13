@@ -1569,9 +1569,36 @@ prioritaires en cas de conflit.
      règle ne vaut pas pour trois communes : au-delà de deux, c'est l'éparpillement que la consigne de
      groupement interdit, et la descente d'échelle de la règle 41.d reprend.
 
+125. **Quand aucune photographie d'un marché n'existe, l'illustration dessinée que la commune attache
+     à sa propre page des marchés tient lieu de photo thématique, à trois conditions.** La Ville de
+     Colomiers ne publie aucune photographie de ses marchés de la place du Languedoc : sa page « Marchés
+     de plein vent » porte pour seul bandeau un dessin — des étals, une marchande, des clients — et le
+     comité départemental du tourisme, l'annuaire du Département et les annuaires tiers n'en montrent
+     pas davantage. La règle 1 accepte une photo thématique honnête de la même commune ; la règle 70 fait
+     attendre la fiche quand aucune image n'est utilisable. Le dessin n'est ni une photographie du lieu
+     ni une image de banque achetée pour un autre sujet : c'est l'image que l'autorité a choisie pour
+     annoncer ce marché-là. **Tranché ainsi** : il illustre la fiche si l'autorité l'attache à la page
+     du marché lui-même, si aucun personnage dessiné n'est le portrait reconnaissable d'une personne, et
+     si la fiche et ce README disent qu'il s'agit d'une illustration et non d'une vue du lieu ; la fiche
+     passe en `a_confirmer`. On n'y lit aucun produit (règle 88 : le dessin ne prouve rien sur les étals).
+     Dès qu'une photographie du marché sans visage identifiable est publiée, elle remplace le dessin.
+
+126. **Un annuaire public qui place un producteur sur un marché ne documente plus ce marché quand le
+     producteur publie lui-même un agenda de ses marchés où il n'apparaît pas.** L'annuaire
+     DirectFermiers31 du Département rattache au marché de Colomiers une chèvrerie bio du Comminges, avec
+     une douzaine de fromages, et un annuaire tiers écrit qu'elle y vend le samedi. La règle 97 aurait
+     permis de reprendre ses produits en nommant l'exploitation. Mais la chèvrerie tient sur son site
+     un agenda public de ses marchés, et Colomiers n'y figure ni parmi les dates passées ni parmi les
+     marchés récurrents en cours : Saint-Gaudens, Saint-Lys, Boulogne-sur-Gesse, L'Isle-Jourdain. **Tranché ainsi** : la déclaration
+     tenue par l'intéressé l'emporte sur l'annuaire (règle 104), et un producteur absent de son propre
+     agenda ne nourrit pas `produits`. L'annuaire n'est pas écarté pour autant sur ses autres fiches :
+     il ne se trompe pas sur un fait que l'autorité publie (règle 90), il a vieilli sur une présence.
+     À l'inverse, un producteur qui écrit lui-même être sur ce marché le documente (règle 122) — c'est le
+     cas du fournil Le Vent de la Récolte, présent le jeudi.
+
 ## Marchands à confirmer
 
-421 fiches sur 456 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+426 fiches sur 461 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2015,8 +2042,13 @@ prioritaires en cas de conflit.
 - **Marché central de Saint-Germain-en-Laye** (Saint-Germain-en-Laye) (catégorie et piliers des marchés. Horaires de la Ville ; l'office donne 13h le dimanche, règle 22. Point : centre de la place du Marché-Neuf à la Base Adresse Nationale (0,961), marqueur de l'office à 18 m. Produits : lus sur les photographies que l'office attache à ce seul marché, règle 91 — aucune source ne publie la composition. Photo : étal de légumes de l'office, sans client)
 - **AMAP de Saint-Germain-en-Laye** (Saint-Germain-en-Laye) (catégorie et piliers des AMAP, sans `environnement`, règle 60 : le boulanger et la ferme des œufs sont engagés au registre de l'Agence Bio ; le maraîcher, dans l'Eure, n'a pas été vérifié, et le verger des Alluets-le-Roi a un certificat de production arrêté à côté d'une boutique engagée en simple distribution. Jour : annuaire du réseau AMAP d'Île-de-France ; heures : site de l'AMAP, qui ne donne pas le jour. Producteurs désignés par leur commune, jamais par leur nom — l'un des noms commerciaux est un prénom. Point : 20 rue de la Maison Verte à la Base Adresse Nationale (0,964). Photo : panier publié par l'AMAP)
 - **Les Serres des Princesses** (Saint-Germain-en-Laye) (exploitation de l'Agrocampus, catégorie `ferme`. Règle 6 : établissement « exploitation agricole et horticole » ouvert au registre des entreprises, code 01.11Z. Pilier `environnement` : engagement Ecocert du 22 janvier 2020, en cours, sur ce même SIRET, productions déclarées légumes frais, pommes, poires et conserves de fruits et légumes, règle 39. Horaires de l'Agrocampus, version de Bienvenue à la ferme citée, règle 104. Point : marqueur de Bienvenue à la ferme, et non le « 1 route des Princesses » administratif à 1 km, voir les pistes. Téléphone : le fixe que publie l'Agrocampus. Photo : étal du magasin publié par l'Agrocampus)
+- **Marché de plein vent de Colomiers** (Colomiers) (les deux marchés hebdomadaires de la place du Languedoc, une seule fiche au titre de la règle 42 ; catégorie et piliers des marchés. **Horaires** : ceux de la Ville ; le dimanche matin à la Naspe, cité par le comité départemental du tourisme et par DirectFermiers31, n'est pas repris, la Ville n'en parle pas (règle 22). **Produits, règles 103, 122 et 126** : la formule du comité départemental et le pain du fournil qui écrit être là le jeudi. **Point, règle 64** : la Base Adresse Nationale ignore la place du Languedoc ; marqueur du comité départemental, contrôle inverse sur le 12 quater passage du Languedoc à 48 m. **Image, règle 125** : illustration dessinée de la page de la Ville, pas une photographie)
+- **Le Vent de la Récolte** (Colomiers) (fournil coopératif, catégorie `producteur` (règle 73). **Règle 6** : société active, un établissement ouvert au 6 allée de Sisteron, NAF 10.71C. Pilier `environnement` : engagement Ecocert du 12 mars 2020, en cours, production déclarée « pain frais » (règle 39). **Horaires, règle 84** : retrait des commandes au fournil, et marché du jeudi. **Point** : 6 allée de Sisteron à la Base Adresse Nationale (0,966), point du registre au mètre. Téléphones non inscrits : portables nominatifs. Photo : une miche publiée par le fournil, sur fond neutre)
+- **Au Tournant du Vivant** (Colomiers) (micro-ferme maraîchère, catégorie `ferme`. **Règle 6** : entreprise active, un établissement ouvert au 32 chemin du Sélery, NAF 01.13Z. Pilier `environnement` : engagement Ecocert du 27 mai 2024, en cours, légumes déclarés. La Ville confirme l'adresse des parcelles communales louées à des maraîchers, sans nommer d'exploitation. **Horaires, règles 84 et 104** : le vendredi de la boutique en ligne de la ferme, le lundi de DirectFermiers31 cité. **Point** : 32 chemin du Sélery à la Base Adresse Nationale (0,965) ; le point de vente de DirectFermiers31, 545 m plus au nord, ne rend aucune adresse au contrôle inverse (règle 34). Téléphone non inscrit : portable. Photo : paysage publié par la ferme sur sa page d'accueil, sans légende — la fiche ne prétend pas montrer la parcelle ; une autre image du site montre des personnes, les dernières des fleurs et un champignon)
+- **Le Maraîcher du Coin** (Colomiers) (exploitation maraîchère de Mondonville, fiche au point de distribution de Colomiers (règle 20), catégorie `ferme`. **Règle 19** : entreprise non diffusible au registre ; le SIRET que publie l'Agence Bio y rend un établissement ouvert, NAF 01.13Z, et rien d'autre n'est lu. Pilier `environnement` : engagement Ecocert du 1er janvier 2025, en cours, légumes frais et plantes aromatiques déclarés. **Horaires, règle 84**. **Point** : 29 chemin du Loudet à la Base Adresse Nationale (0,971), adresse d'une zone commerciale où plusieurs sociétés sont immatriculées ; l'adresse de siège que l'Agence Bio déclare, 470 m plus loin, n'est pas publiée. Téléphone non inscrit : portable. Photo : panier de légumes publié par le maraîcher, sans personne ; son site avertit que certaines images viennent d'une banque, celle-ci porte un nom de fichier d'appareil photo daté de janvier 2025)
+- **Marché de Pibrac** (Pibrac) (marché du mercredi, cinquième point de la passe au titre de la règle 52 ; catégorie et piliers des marchés, sans `environnement` : la Ville cite « bio » parmi les fruits et légumes sans classer le marché (règle 68). **Produits** : les métiers que la Ville énumère, vêtements exclus. **Point** : centre de l'esplanade Sainte-Germaine à la Base Adresse Nationale (0,958), point de DirectFermiers31 à 10 m. **Photo, règle 109** : vue plongeante que la Ville attache à ce marché, prise un mercredi à 9h34 (EXIF du 15 mai 2019) ; les passants y sont minuscules et non identifiables, 1 620 px réduits à 1 280)
 
-Les 456 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 461 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2044,6 +2076,86 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Colomiers
+
+Département visé : la **Haute-Garonne (31)**, déficit **4,7311** au titre de la règle 41 avec 456 fiches
+publiées et 5 dans le département, toutes à Toulouse. La Réunion (5,8836) reste écartée par la règle 93.
+La passe précédente visait les Yvelines, en Île-de-France ; la Haute-Garonne est en Occitanie, la
+réserve de la règle 41.c ne joue pas — elle écartait d'ailleurs la Seine-et-Marne (4,7089), troisième
+du classement. Suivants : les Pyrénées-Atlantiques (4,6727) et le Pas-de-Calais (4,6414). Les cinq
+fiches ramènent le déficit du 31 à environ **−0,16**. Commune calculée : **Colomiers**, 40 882
+habitants, la plus peuplée du département sans fiche. Elle a rendu **quatre** fiches solides ; la
+cinquième est le marché du mercredi de **Pibrac** (8 977 habitants), commune limitrophe de la même
+métropole, Toulouse Métropole, à **2,6 km** du barycentre des quatre fiches columérines, au titre de la
+règle 52. Distance maximale entre deux fiches : 3,8 km, entre les deux marchés.
+
+**Les sources qui ont fait la passe** : les pages « Marchés de plein vent », « Commerces et services » et
+« Alimentation durable, maraîchage » de `ville-colomiers.fr` et son annuaire des associations ; la page
+« Marchés à Pibrac » de `ville-pibrac.fr` ; la fiche du marché de Colomiers du comité départemental du
+tourisme, `hautegaronnetourisme.com`, dont le `robots.txt` ne vise que des chemins techniques ;
+l'annuaire DirectFermiers31 du Département, lu dans ses jeux ouverts `monpanier31` sur
+`data.haute-garonne.fr` (665 points de vente, 362 producteurs) ; le registre de l'Agence Bio, **2 821**
+opérateurs lus sur la Haute-Garonne, dont 22 à Colomiers ; les sites du fournil, de la ferme et du
+maraîcher. Les pages de la Ville de Pibrac, de la ferme et du fournil nomment des personnes, et les deux
+seuls téléphones du fournil sont des portables présentés sous un prénom : rien de tout cela n'est repris.
+
+**Contradictions consignées** :
+- **Marché de Colomiers, dimanche** : la Ville écrit, sur deux pages mises à jour le 1er octobre 2025 et
+  le 7 janvier 2026, que ses « 2 marchés de plein-vent » ont lieu le jeudi et le samedi place du
+  Languedoc. Le comité départemental du tourisme (« sur la place de la Naspe le dimanche matin ») et
+  DirectFermiers31 (« le dimanche matin sur les Allées de la Moselle ») ajoutent un dimanche. La commune
+  fait foi sur son marché (règle 22) : le dimanche n'est pas publié. Critère de déblocage : une page de
+  la Ville qui le mentionne.
+- **Au Tournant du Vivant, jours de retrait** : vendredi de 17h30 à 19h sur la boutique en ligne de la
+  ferme ; lundi et vendredi de 17h à 19h sur DirectFermiers31. L'intéressé l'emporte (règle 104),
+  l'annuaire est cité dans `horaires`.
+- **Marché de Colomiers, point** : le marqueur du comité départemental se retourne sur le 12 quater
+  passage du Languedoc à 48 m ; celui de DirectFermiers31, 66 m plus à l'ouest, sur le 6 passage du
+  Languedoc à 1 m, c'est-à-dire sur un numéro de façade plutôt que sur la place. Le premier est publié (règle 64).
+- **Chèvrerie du Comminges rattachée au marché de Colomiers** par DirectFermiers31 : absente de
+  l'agenda de marchés que l'exploitation publie elle-même. Non reprise, **règle 126**.
+
+**Photos** : voir la liste des fiches à confirmer. Le marché de Colomiers est illustré par le dessin de
+la page de la Ville (**règle 125**) ; aucune photographie n'a été trouvée ni sur le site de la Ville,
+ni chez le comité départemental, ni dans l'annuaire du Département, et l'Internet Archive était hors
+service pendant la passe.
+
+**Pistes non publiées à Colomiers et autour** :
+- **AMAP Columérines** : l'association existe à l'annuaire des associations de la Ville (mis à jour le
+  10 décembre 2025, « regroupement de consommateurs autour d'un producteur maraîcher bio »), mais le jour
+  et le lieu de distribution ne sont publiés que par un annuaire tiers, qui écrit le mercredi de 18h30 à
+  19h30 sous le préau de l'école Jules-Ferry, rue des Fenassiers ; la page de l'AMAP est sur un réseau
+  social bloqué, et d'anciennes sources placent les distributions des AMAP de Colomiers place
+  Joseph-Verseille. L'adresse que l'annuaire de la Ville donne pour l'association est celle d'un contact
+  et n'est pas reprise. Critère de déblocage : le lieu et l'horaire de distribution publiés par l'AMAP
+  sur une page consultable, ou par la Ville.
+- **AMAP viande de Montplaisir**, ancienne école Jean-Macé, place Joseph-Verseille : distribution
+  mensuelle le mercredi soir selon DirectFermiers31, mais son blog s'arrête en 2014. Critère : une source
+  datée d'après 2024.
+- **Biocoop Le Perget** (2-4 avenue André-Marie-Ampère) et **So.bio Colomiers** (45 chemin de la
+  Salvetat) : certificats en vigueur au registre de l'Agence Bio, horaires publiés, mais aucun des deux
+  ne nomme un seul producteur local — Biocoop annonce « plus de 100 producteurs locaux » et ne cite que
+  des coopératives régionales de Bretagne, du Centre et des Pays de la Loire, membres de son réseau, So.bio écrit travailler avec des producteurs « à moins de
+  100 km » sans les nommer. **Règle 86**, non publiés.
+- **Une boulangerie bio de la zone d'En Jacca**, certifiée depuis 1997 : production industrielle
+  destinée aux professionnels et aux collectivités, sans vente aux particuliers déclarée. Hors sujet.
+- **L'Autre Marché**, marché mensuel de producteurs du dimanche, allée des Droits-de-l'Homme : seule une
+  page politique de 2022 le décrit, sans calendrier. Critère : une date publiée par la Ville.
+- **Marché du samedi de Pibrac**, parking du TMP, avec un espace bio : publié par la même page de la
+  Ville, mais une autre adresse ; à reprendre au passage sur Pibrac ou Tournefeuille.
+- **Cueillette de nashis**, chemin de Faudoas à Cornebarrieu : seul l'annuaire du Département et des
+  annuaires tiers la décrivent, sans site propre ni certification. Critère : une source de l'exploitation
+  ou de la commune.
+- Colomiers, ferme maraîchère bio : enseigne construite sur un prénom. Écartée, doute sur une personne.
+- Colomiers, maraîcher bio en vente sur les parcelles communales : inscrit sous le nom de l'exploitant.
+  Écarté, doute sur une personne.
+- Colomiers, point de vente de producteurs référencé par DirectFermiers31 dans la zone du Perget : nom
+  commercial qui est un patronyme. Écarté, doute sur une personne.
+- Colomiers, fromagerie référencée par DirectFermiers31 : enseigne construite sur un prénom. Écartée,
+  doute sur une personne.
+- **Communes suivantes du 31** : Tournefeuille (30 168 habitants), où DirectFermiers31 référence un
+  marché bio du vendredi et un magasin de producteurs, Blagnac (27 604), Muret (26 079).
 
 ### Pistes non publiées à Sartrouville et à Saint-Germain-en-Laye
 

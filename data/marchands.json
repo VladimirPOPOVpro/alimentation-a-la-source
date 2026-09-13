@@ -12077,5 +12077,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20des%20Princesses%2C%2078100%20Saint-Germain-en-Laye",
     "image_url": "/images/marchands/serres-des-princesses-saint-germain-en-laye.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-plein-vent-colomiers",
+    "nom": "Marché de plein vent de Colomiers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.610519,
+    "lon": 1.330752,
+    "adresse": "Place du Languedoc, 31770 Colomiers",
+    "horaires": "Le jeudi et le samedi de 8h à 13h, jours fériés compris, d'après la page « Marchés de plein vent » de la Ville. Le comité départemental du tourisme et l'annuaire DirectFermiers31 du Département citent aussi un marché le dimanche matin à la Naspe, que la Ville ne mentionne pas : il n'est pas repris ici.",
+    "produits": [
+      "Produits alimentaires et vestimentaires (comité départemental du tourisme)",
+      "Pain au levain de blés paysans, le jeudi (Le Vent de la Récolte)"
+    ],
+    "description": "Les deux marchés hebdomadaires de la ville, sur la place du Languedoc au centre de Colomiers. La Ville soumet toute demande d'emplacement alimentaire à une commission, mais ne publie pas la composition des étals : le comité départemental du tourisme parle de produits alimentaires et vestimentaires, et le fournil bio Le Vent de la Récolte y annonce lui-même sa présence le jeudi matin.",
+    "site_web": "https://www.ville-colomiers.fr/mon-quotidien/commerces-et-services/marches-de-plein-vent",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Languedoc%2C%2031770%20Colomiers",
+    "image_url": "/images/marchands/marche-de-plein-vent-colomiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-vent-de-la-recolte-colomiers",
+    "nom": "Le Vent de la Récolte",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.59865,
+    "lon": 1.31809,
+    "adresse": "6 allée de Sisteron, 31770 Colomiers",
+    "horaires": "Pas de boutique ouverte sans commande : les pains se commandent en ligne au plus tard à 19h la veille et se retirent au fournil du mardi au vendredi, de 14h à 20h. Vente directe sans commande au marché de Colomiers, place du Languedoc, le jeudi à partir de 8h.",
+    "produits": [
+      "Pain au levain de blés paysans du Tarn et du Lauragais",
+      "Pain aux graines de courge, tournesol et lin",
+      "Pain de petit épeautre",
+      "Pain de seigle",
+      "Pain de sarrasin",
+      "Pain aux noix et aux pruneaux",
+      "Farine de blés paysans moulue sur meules de pierre"
+    ],
+    "description": "Fournil coopératif installé à Colomiers depuis 2019, qui cuit sur commande des pains au levain naturel à partir de farines de blés paysans cultivés en bio autour de Toulouse, dans le Tarn, le Gers et le Lauragais. Il livre une quinzaine de points de retrait dans l'agglomération et propose un pain solidaire offert à des personnes qui en ont besoin. Engagement Ecocert depuis mars 2020, consultable au registre de l'Agence Bio.",
+    "site_web": "https://leventdelarecolte.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Vent%20de%20la%20R%C3%A9colte%2C%206%20all%C3%A9e%20de%20Sisteron%2C%2031770%20Colomiers",
+    "image_url": "/images/marchands/le-vent-de-la-recolte-colomiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-tournant-du-vivant-colomiers",
+    "nom": "Au Tournant du Vivant",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.623205,
+    "lon": 1.305889,
+    "adresse": "32 chemin du Sélery, 31770 Colomiers",
+    "horaires": "Pas de magasin : les légumes se commandent sur la boutique en ligne de la ferme et se retirent sur place le vendredi de 17h30 à 19h. L'annuaire DirectFermiers31 du Département indique aussi le lundi de 17h à 19h, que la boutique de la ferme ne mentionne pas.",
+    "produits": [
+      "Tomates",
+      "Poivrons et aubergines",
+      "Courgettes",
+      "Pommes de terre",
+      "Courges (butternut, potimarron, potiron musqué)",
+      "Salades, mesclun et roquette",
+      "Chou-rave et céleri",
+      "Basilic et herbes fraîches"
+    ],
+    "description": "Micro-ferme maraîchère bio installée sur une des parcelles communales que la Ville de Colomiers loue à des maraîchers au Bassac, près du bassin de l'Aussonnelle. Les légumes y sont cultivés à la main, sur sol vivant, au rythme des saisons. Engagement Ecocert depuis mai 2024, consultable au registre de l'Agence Bio.",
+    "site_web": "https://autournantduvivant1.odoo.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32%20chemin%20du%20S%C3%A9lery%2C%2031770%20Colomiers",
+    "image_url": "/images/marchands/au-tournant-du-vivant-colomiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-maraicher-du-coin-colomiers",
+    "nom": "Le Maraîcher du Coin",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.609217,
+    "lon": 1.304993,
+    "adresse": "Parking de La Foir'Fouille, 29 chemin du Loudet, 31770 Colomiers",
+    "horaires": "Pas de magasin : les paniers de légumes se réservent en ligne, le maraîcher confirme chaque commande, et la distribution a lieu le vendredi de 17h à 18h sur le parking de La Foir'Fouille, zone du Perget.",
+    "produits": [
+      "Paniers de légumes bio à 10, 15 ou 20 €",
+      "Tomates",
+      "Poivrons et aubergines",
+      "Courgettes",
+      "Pommes de terre",
+      "Épinards, navets et fèves",
+      "Aillet (pousses d'ail)",
+      "Herbes aromatiques (basilic, ciboulette, persil)"
+    ],
+    "description": "Petite exploitation maraîchère bio de Mondonville, au lieu-dit les Cussecs, qui vend sa récolte en paniers de saison distribués chaque semaine à Colomiers. Le contenu change avec la saison et se précise sur demande. Engagement Ecocert depuis janvier 2025, consultable au registre de l'Agence Bio.",
+    "site_web": "https://www.lemaraicherducoin.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=29%20chemin%20du%20Loudet%2C%2031770%20Colomiers",
+    "image_url": "/images/marchands/le-maraicher-du-coin-colomiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-pibrac",
+    "nom": "Marché de Pibrac",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.619166,
+    "lon": 1.285036,
+    "adresse": "Esplanade Sainte-Germaine, 31820 Pibrac",
+    "horaires": "Le mercredi de 8h à 13h, d'après la page « Marchés à Pibrac » de la Ville. La Ville tient aussi un marché le samedi matin, avec un espace bio, sur le parking du TMP : c'est une autre adresse, il n'est pas repris dans cette fiche.",
+    "produits": [
+      "Fruits et légumes (primeur, producteur, bio)",
+      "Charcuterie",
+      "Volailles",
+      "Boucherie",
+      "Rôtisserie et plats cuisinés",
+      "Poissonnerie",
+      "Fromages",
+      "Plants de producteurs"
+    ],
+    "description": "Plus d'une trentaine de commerçants s'installent chaque mercredi matin sur l'esplanade Sainte-Germaine, l'adresse même de la mairie, au pied de la basilique. La Ville en énumère les métiers, alimentaires pour l'essentiel, avec aussi des étals de vêtements ; elle ne classe pas le marché en bio.",
+    "site_web": "https://ville-pibrac.fr/accueil/consommer-local/marches-a-pibrac/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Esplanade%20Sainte-Germaine%2C%2031820%20Pibrac",
+    "image_url": "/images/marchands/marche-de-pibrac.jpg",
+    "a_confirmer": true
   }
 ]
