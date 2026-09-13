@@ -12215,5 +12215,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Esplanade%20Sainte-Germaine%2C%2031820%20Pibrac",
     "image_url": "/images/marchands/marche-de-pibrac.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-bussy-saint-georges",
+    "nom": "Marché du centre de Bussy-Saint-Georges",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.836598,
+    "lon": 2.709832,
+    "adresse": "Square Vitlina, sortie de la gare RER, 77600 Bussy-Saint-Georges",
+    "horaires": "Jeudi de 14h à 20h et dimanche de 7h à 13h, d'après la page « Les marchés de Bussy » de la Ville, mise à jour le 12 janvier 2026.",
+    "produits": [
+      "Boucherie",
+      "Fromages",
+      "Volailles",
+      "Fruits et légumes",
+      "Rôtisserie"
+    ],
+    "description": "Marché du centre-ville tenu deux fois par semaine square Vitlina, à la sortie de la gare RER. La Ville y recense un boucher, un fromager, un volailler, des étals de fruits et légumes et un rôtisseur, à côté d'étals non alimentaires (vêtements, chaussures, bijoux). Le samedi matin, un second marché, entièrement alimentaire, se tient place de Verdun, près de la mairie.",
+    "site_web": "https://www.bussysaintgeorges.fr/economie-et-emploi/marches-alimentaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gare%20de%20Bussy-Saint-Georges",
+    "image_url": "/images/marchands/marche-du-centre-bussy-saint-georges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-les-paniers-de-bussy",
+    "nom": "AMAP Les Paniers de Bussy",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.840585,
+    "lon": 2.721609,
+    "adresse": "Gymnase Herzog, 21-23 boulevard des Genêts, 77600 Bussy-Saint-Georges",
+    "horaires": "Distribution le mercredi des semaines impaires, de 19h30 à 20h15, au gymnase Herzog. Paniers réservés aux adhérents, par contrat avec chaque producteur.",
+    "produits": [
+      "Légumes et parfois fruits (petit ou grand panier, tous les quinze jours)",
+      "Œufs et poulets",
+      "Pains, farines, huile et légumineuses",
+      "Viande de bœuf",
+      "Tisanes et plantes aromatiques",
+      "Miels"
+    ],
+    "description": "AMAP dont les paniers sont préparés et distribués par les adhérents. Ses partenaires sont décrits sur son site : une exploitation maraîchère familiale de Poincy, près de Meaux, en agroforesterie ; une ferme avicole de Marigny-en-Orxois, dans l'Aisne, que l'AMAP présente comme biologique ; la ferme céréalière de Fontanelle, à Saint-Mars-Vieux-Maisons, pour le pain, les farines et le bœuf ; un producteur de plantes aromatiques et médicinales ; le Rucher de Bussy, à Bussy-Saint-Martin. Aucun certificat biologique n'a été vérifié pour l'ensemble de ces producteurs : le pilier environnement n'est pas porté.",
+    "site_web": "https://www.amap-paniersdebussy.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20boulevard%20des%20Gen%C3%AAts%2C%2077600%20Bussy-Saint-Georges",
+    "image_url": "/images/marchands/amap-les-paniers-de-bussy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-de-chanteloup",
+    "nom": "Cueillette de Chanteloup et Marché du Plessis",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.852731,
+    "lon": 2.748653,
+    "adresse": "1 rue de la Cueillette, 77600 Chanteloup-en-Brie",
+    "horaires": "Cueillette ouverte d'avril à novembre : du mardi au vendredi de 9h30 à 12h30 et de 14h à 19h, le samedi de 9h30 à 19h, le dimanche de 9h30 à 12h30 (jusqu'à 19h entre mi-août et mi-octobre), d'après le site de la cueillette. Boutique du Marché du Plessis ouverte toute l'année selon l'office de tourisme de Marne et Gondoire ; ses heures ne sont pas publiées sur son site.",
+    "produits": [
+      "Fruits, légumes et fleurs à cueillir (fraises, pommes, tomates, courgettes, courges, salades)",
+      "Jus de pomme du verger",
+      "Biscuits et conserves de légumes faits maison",
+      "Fromages de Seine-et-Marne",
+      "Viande et charcuterie",
+      "Épicerie fine (miel, terrines)"
+    ],
+    "description": "Cueillette en libre-service du réseau Chapeau de Paille, derrière la zone commerciale du Clos du Chêne, avec animations d'avril à novembre et accueil des scolaires. Le Marché du Plessis, boutique installée au même endroit, vend les jus, biscuits et conserves faits maison et des produits d'autres producteurs, seine-et-marnais ou d'ailleurs en France.",
+    "telephone": "01 60 31 60 86",
+    "site_web": "https://www.cueillettedechanteloup.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20Chanteloup%2C%20rue%20de%20la%20Cueillette%2C%2077600%20Chanteloup-en-Brie",
+    "image_url": "/images/marchands/cueillette-de-chanteloup.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-saint-thibault",
+    "nom": "Ferme de Saint-Thibault",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.860563,
+    "lon": 2.681621,
+    "adresse": "80 rue Pasteur, 77400 Saint-Thibault-des-Vignes",
+    "horaires": "Boutique du lundi au vendredi de 15h à 19h, le samedi de 9h à 12h30 et de 15h à 19h, le dimanche de 16h30 à 19h, d'après la page « La boutique » de la ferme et Bienvenue à la ferme (la page d'accueil du site, en décembre 2025, indiquait 15h le dimanche). Fermée le 1er janvier, les 1er et 15 mai, le 14 juillet, le 15 août et le 25 décembre.",
+    "produits": [
+      "Lait cru de la ferme",
+      "Tomme de Brie et brie-yère fabriqués à la ferme",
+      "Yaourts et crèmes au chocolat de la ferme",
+      "Bries de Meaux, de Melun et de Provins",
+      "Fromages de chèvre",
+      "Légumes de saison",
+      "Viandes de porc, de bœuf et de volaille",
+      "Miel, confitures, œufs, farine, jus de pomme et cidre de Seine-et-Marne"
+    ],
+    "description": "Exploitation laitière familiale en bordure de Gouvernes, dont la boutique vend le lait cru et les fromages et yaourts fabriqués sur place, ainsi que des produits d'autres fermes du département. La visite de la ferme est libre aux heures de la boutique, avec la traite vers 16h30. L'exploitation est engagée chez Certis au registre de l'Agence Bio pour ses seules cultures fourragères : ses produits laitiers ne sont pas déclarés certifiés.",
+    "telephone": "01 64 30 65 20",
+    "site_web": "https://www.ferme-de-saint-thibault.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=80%20rue%20Pasteur%2C%2077400%20Saint-Thibault-des-Vignes",
+    "image_url": "/images/marchands/ferme-de-saint-thibault.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-pain-des-champs-montevrain",
+    "nom": "Au pain des champs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.865901,
+    "lon": 2.760938,
+    "adresse": "Kiosque C, 4 rue Édouard Buffard, 77144 Montévrain",
+    "horaires": "Du mardi au samedi, de 11h à 14h et de 16h à 21h, d'après la fiche de l'office de tourisme de Marne et Gondoire et l'affichette de la boulangerie.",
+    "produits": [
+      "Pains au levain cuits au four à bois (blé, seigle, petit épeautre)",
+      "Brioche traditionnelle et feuilletés",
+      "Pain au cacao et panettone",
+      "Huiles de tournesol, de colza et de cameline"
+    ],
+    "description": "Boulangerie paysanne en kiosque : le céréalier cultive ses grains à la ferme de Baleine, à Amillis, à une trentaine de kilomètres, les moud et en cuit le pain au levain vendu ici, avec les huiles de la même exploitation. La boulangerie ne publie ni site ni certification ; seules ses pages de réseaux sociaux la présentent.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20rue%20%C3%89douard%20Buffard%2C%2077144%20Mont%C3%A9vrain",
+    "image_url": "/images/marchands/au-pain-des-champs-montevrain.jpg",
+    "a_confirmer": true
   }
 ]

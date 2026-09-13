@@ -1596,9 +1596,51 @@ prioritaires en cas de conflit.
      À l'inverse, un producteur qui écrit lui-même être sur ce marché le documente (règle 122) — c'est le
      cas du fournil Le Vent de la Récolte, présent le jeudi.
 
+127. **Dans la descente d'échelle de la règle 41.d, chaque commune s'éprouve aussi au titre de la règle 96
+     avant qu'on passe à la suivante, et la première qui la remplit fait la passe.** La Seine-et-Marne a
+     épuisé ses grandes communes : Meaux, Melun, Pontault-Combault et Savigny-le-Temple ne rendent
+     chacune que deux ou trois fiches, et le criblage de treize communes par ordre de population n'en a
+     trouvé aucune capable d'en rendre cinq à elle seule. La règle 96 permet d'élargir à
+     l'intercommunalité, à condition que deux fiches au moins soient dans la commune elle-même. Lue
+     seulement pour la commune calculée, elle ne sert qu'une fois ; lue pour chaque commune de la
+     descente, elle trouve la première zone réellement utilisable. **Tranché ainsi** : à chaque échelon de
+     la descente, on vérifie d'abord si la commune a **deux fiches publiables entières, image comprise**,
+     puis si son intercommunalité complète le groupe dans les limites de la règle 96 ; sinon on descend.
+     Une fiche dont les faits sont vérifiés mais qui n'a aucune image utilisable ne compte pas parmi les
+     deux. Ici : Meaux a deux marchés solides mais les seules photographies de la Ville font au plus
+     548 px, sous le plancher de la règle 59 ; Melun n'a qu'une fiche illustrable, le marché Gaillardon ;
+     Pontault-Combault et Savigny-le-Temple n'en ont aucune. Bussy-Saint-Georges, cinquième de la
+     descente, en a deux, et Marne et Gondoire trois autres à moins de 5,6 km : c'est elle qui fait la
+     passe. On ne saute jamais une commune qui remplirait la règle pour en atteindre une plus riche.
+
+128. **Quand le nom de fichier d'une photographie désigne un marché et que son EXIF en désigne un autre,
+     l'EXIF l'emporte s'il est recoupé par ce que l'image montre.** La Ville de Bussy-Saint-Georges
+     illustre sa page « Les marchés de Bussy » d'un fichier nommé `marche-village.jpg`. Son EXIF le date du
+     jeudi 27 avril 2017 à 17h40 : le marché du village ne se tient que le samedi matin, celui du centre le
+     jeudi après-midi ; et l'arrière-plan montre des portants de vêtements, que la Ville ne cite que pour
+     le marché du centre. **Tranché ainsi** : un nom de fichier est une saisie, l'horodatage un
+     enregistrement de l'appareil ; quand les deux divergent, la photographie va au marché que l'EXIF
+     désigne au sens de la règle 109, **à la condition qu'un indice visible dans l'image le confirme**.
+     Sans ce second indice, la photographie n'est attribuée à aucun des deux et retombe sous la règle 1.
+     Le marché que le nom de fichier désignait ne la reçoit pas en plus (règle 66).
+
+129. **Un numéro de la Base Adresse Nationale qui tombe loin de trois sources concordantes ne l'emporte
+     pas quand la même voie porte, au droit de ces sources, des numéros bis du même numéro.** La
+     Cueillette de Chanteloup publie « 1 rue de la Cueillette ». La Base Adresse Nationale connaît ce
+     numéro, mais à **398 m** au nord, contre la route de la Ferme du Pavillon ; elle connaît aussi un
+     « 1a » et un « 1b » sur la même rue. Le point du registre des entreprises pour l'établissement de la
+     cueillette se retourne sur le 1a à 20 m, le marqueur de l'office de tourisme de Marne et Gondoire sur
+     le 1b à 113 m, et l'ancienne exploitation bio inscrite rue de la Cueillette au registre de l'Agence
+     Bio tombe entre les deux. **Tranché ainsi**, au titre de la règle 17 — le point est celui sur lequel
+     les sources s'accordent physiquement : quand trois sources indépendantes se regroupent à moins de
+     150 m les unes des autres et que le contrôle inverse de la meilleure rend un numéro bis du numéro
+     publié, c'est ce point qui est publié, et le numéro nu de la Base, isolé à plus de 300 m, est
+     consigné ici. Avec deux sources seulement, ou sans numéro bis au contrôle inverse, la règle 10
+     s'applique telle quelle.
+
 ## Marchands à confirmer
 
-426 fiches sur 461 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+431 fiches sur 466 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2047,8 +2089,13 @@ prioritaires en cas de conflit.
 - **Au Tournant du Vivant** (Colomiers) (micro-ferme maraîchère, catégorie `ferme`. **Règle 6** : entreprise active, un établissement ouvert au 32 chemin du Sélery, NAF 01.13Z. Pilier `environnement` : engagement Ecocert du 27 mai 2024, en cours, légumes déclarés. La Ville confirme l'adresse des parcelles communales louées à des maraîchers, sans nommer d'exploitation. **Horaires, règles 84 et 104** : le vendredi de la boutique en ligne de la ferme, le lundi de DirectFermiers31 cité. **Point** : 32 chemin du Sélery à la Base Adresse Nationale (0,965) ; le point de vente de DirectFermiers31, 545 m plus au nord, ne rend aucune adresse au contrôle inverse (règle 34). Téléphone non inscrit : portable. Photo : paysage publié par la ferme sur sa page d'accueil, sans légende — la fiche ne prétend pas montrer la parcelle ; une autre image du site montre des personnes, les dernières des fleurs et un champignon)
 - **Le Maraîcher du Coin** (Colomiers) (exploitation maraîchère de Mondonville, fiche au point de distribution de Colomiers (règle 20), catégorie `ferme`. **Règle 19** : entreprise non diffusible au registre ; le SIRET que publie l'Agence Bio y rend un établissement ouvert, NAF 01.13Z, et rien d'autre n'est lu. Pilier `environnement` : engagement Ecocert du 1er janvier 2025, en cours, légumes frais et plantes aromatiques déclarés. **Horaires, règle 84**. **Point** : 29 chemin du Loudet à la Base Adresse Nationale (0,971), adresse d'une zone commerciale où plusieurs sociétés sont immatriculées ; l'adresse de siège que l'Agence Bio déclare, 470 m plus loin, n'est pas publiée. Téléphone non inscrit : portable. Photo : panier de légumes publié par le maraîcher, sans personne ; son site avertit que certaines images viennent d'une banque, celle-ci porte un nom de fichier d'appareil photo daté de janvier 2025)
 - **Marché de Pibrac** (Pibrac) (marché du mercredi, cinquième point de la passe au titre de la règle 52 ; catégorie et piliers des marchés, sans `environnement` : la Ville cite « bio » parmi les fruits et légumes sans classer le marché (règle 68). **Produits** : les métiers que la Ville énumère, vêtements exclus. **Point** : centre de l'esplanade Sainte-Germaine à la Base Adresse Nationale (0,958), point de DirectFermiers31 à 10 m. **Photo, règle 109** : vue plongeante que la Ville attache à ce marché, prise un mercredi à 9h34 (EXIF du 15 mai 2019) ; les passants y sont minuscules et non identifiables, 1 620 px réduits à 1 280)
+- **Marché du centre de Bussy-Saint-Georges** (Bussy-Saint-Georges) (catégorie et piliers des marchés. **Horaires** : page « Les marchés de Bussy » de la Ville, mise à jour le 12 janvier 2026 ; l'office de tourisme de Marne et Gondoire concorde. **Produits, règle 103** : les métiers que la Ville énumère, étals non alimentaires exclus ; aucun décompte publié, la règle 119 ne joue pas. **Point, règle 26** : la Base Adresse Nationale ignore le square Vitlina ; la Ville le situe « à la sortie du RER », et c'est le point de la gare de Bussy-Saint-Georges qui est publié. Le marqueur de l'office est à 119 m plus au nord, son contrôle inverse rend le 11 bis rue Konrad-Adenauer à 53 m, trois mètres au-delà du seuil de la règle 64. **Photo, règles 109 et 128** : bandeau de la page de la Ville, attribué par son EXIF et ses étals de vêtements au marché du jeudi ; recadré sur les cagettes de fruits, sans visage, 3 000 px réduits à 1 280)
+- **AMAP Les Paniers de Bussy** (Bussy-Saint-Georges) (catégorie et piliers des AMAP, sans `environnement` (règle 60). **Distribution** : jour, heures et lieu identiques sur la page d'accueil de l'AMAP et sur son article du 7 août 2026. **Producteurs** : désignés par leur commune ou leur lieu-dit — le site de l'AMAP nomme les exploitants, et le nom du GAEC maraîcher est un patronyme. **Point** : 21 boulevard des Genêts à la Base Adresse Nationale (0,966). **Photo** : panier de légumes publié par l'AMAP en août 2026, recadré pour écarter un tract qui porte le nom d'un producteur ; 650 px, sous le seuil de 700 mais au-dessus du plancher de la règle 59, aucune autre photographie de l'AMAP n'étant utilisable — la seconde montre des visages)
+- **Cueillette de Chanteloup et Marché du Plessis** (Chanteloup-en-Brie) (une seule fiche pour la cueillette et la boutique installées au même endroit, règle 7 ; catégorie `ferme`, règle 29 : la cueillette vend sa propre récolte, la description dit ce que la boutique revend. **Règle 6** : l'exploitation de cueillettes a un établissement ouvert rue de la Cueillette, code 01.13Z. Pas de pilier `environnement` : l'office de tourisme affiche un label « Agriculture biologique » (règle 21), mais la seule exploitation bio inscrite rue de la Cueillette au registre de l'Agence Bio a son établissement **fermé** à cette adresse au registre des entreprises. **Horaires** : site de la cueillette ; Bienvenue à la ferme ne mentionne pas l'ouverture prolongée du dimanche ; la boutique ne publie pas ses heures. **Point, règle 129**. **Photo** : étal de courges sur la parcelle, attaché par l'office de tourisme à cette seule fiche, sans personne ; les images du site et de Bienvenue à la ferme sont des visuels du réseau Chapeau de Paille, avec visages)
+- **Ferme de Saint-Thibault** (Saint-Thibault-des-Vignes) (catégorie `ferme`, règle 29 : lait, fromages et yaourts produits sur place, produits d'autres fermes revendus et dits. **Règle 6** : exploitation active, établissement ouvert rue Pasteur, code 01.50Z. Pas de pilier `environnement`, règle 39 : l'engagement Certis ne déclare que des mélanges fourragers et des surfaces non productives. **Horaires, règle 58** : page de référence « La boutique », corroborée par Bienvenue à la ferme ; la page d'accueil, dans son annonce de Noël 2025, donne 15h le dimanche, cité dans la fiche. **Point** : 80 rue Pasteur à la Base Adresse Nationale (0,958), adresse du site de la ferme ; le marqueur de l'office tombe 295 m à l'est, sur la partie de la rue Pasteur qui appartient à Gouvernes, et l'Agence Bio écrit « 82 rue Pasteur ». **Photo** : intérieur de la boutique publié par la ferme (janvier 2012), recadré sur la vitrine réfrigérée et les étagères pour écarter la vendeuse ; 754 px)
+- **Au pain des champs** (Montévrain) (paysan-boulanger, catégorie `producteur`, règles 20 et 73 : grains cultivés et moulus à la ferme de Baleine, à Amillis, pain cuit et vendu au kiosque. **Règle 6** : entreprise individuelle active, établissement ouvert au 4 rue Édouard-Buffard depuis septembre 2023 ; son nom au registre est celui de l'exploitant et n'est repris nulle part, l'enseigne est celle que la boulangerie imprime elle-même (règle 36). **Horaires** : office de tourisme de Marne et Gondoire et affichette de la boulangerie, identiques (règle 115). Pas de `site_web` : seules des pages de réseaux sociaux existent (règle 33). Téléphone non inscrit : portable. **Point** : 4 rue Édouard-Buffard à la Base Adresse Nationale (0,96), point du registre à 19 m. **Image** : haut de l'affichette de la boulangerie, photographiée en octobre 2023 et publiée par l'office de tourisme — elle montre l'enseigne et les pains, pas le kiosque)
 
-Les 461 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 466 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2076,6 +2123,104 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Bussy-Saint-Georges et en Marne et Gondoire
+
+Département visé : la **Seine-et-Marne (77)**, déficit **4,8154** au titre de la règle 41 avec 461 fiches
+publiées et 5 dans le département, toutes à Chelles. La Réunion (5,9481) reste écartée par la règle 93.
+La passe précédente visait la Haute-Garonne, en Occitanie ; la Seine-et-Marne est en Île-de-France, la
+réserve de la règle 41.c ne joue pas. Suivants du classement : le Pas-de-Calais (4,7471) et les
+Pyrénées-Atlantiques (4,7239). Les cinq fiches ramènent le déficit du 77 à environ **−0,08**.
+
+**La descente d'échelle, commune par commune** (règles 41.d, 96 et 127) :
+
+- **Meaux** (56 905 habitants), la plus peuplée sans fiche : deux marchés solides, pas davantage — même
+  constat que la passe de Chelles. Les seules photographies que la Ville publie de ses marchés sont
+  celles du guide *J'aime mon marché*, 548 px au plus, sous le plancher de la règle 59.
+- **Melun** (45 995) : une seule fiche illustrable, le marché Gaillardon. Le marché de l'Ermitage et
+  l'AMAP ont des faits vérifiés mais aucune image utilisable ; voir ci-dessous.
+- **Pontault-Combault** (39 096) : les deux marchés n'ont que des photographies de banque d'images, créditées
+  comme telles sur les fiches de l'office de tourisme Paris-Vallée de la Marne ; le site de l'AMAP répond 404.
+- **Savigny-le-Temple** (31 148) : deux marchés et une AMAP aux faits vérifiables, aucune image
+  utilisable — portraits de commerçants en gros plan, image d'en-tête d'origine invérifiable, photographie
+  de banque d'images sur la fiche de l'office.
+- **Bussy-Saint-Georges** (27 498) : le marché du centre et l'AMAP, tous deux illustrables. La
+  communauté d'agglomération Marne et Gondoire complète le groupe : la cueillette de Chanteloup-en-Brie
+  (3,9 km du centre de Bussy), la ferme de Saint-Thibault-des-Vignes (4,0 km) et la boulangerie paysanne
+  de Montévrain (5,5 km). Distance maximale entre deux fiches : 5,8 km, entre la ferme et la boulangerie.
+
+Pour ne pas descendre à l'aveugle, les communes suivantes du département ont aussi été criblées ; aucune
+ne rend cinq fiches seule : Champs-sur-Marne (aucun marché municipal, AMAP sans site), Villeparisis (un
+marché dont la seule photographie montre surtout du textile), Dammarie-les-Lys, Combs-la-Ville, Roissy-en-Brie
+(deux fiches probables), Torcy, Montereau-Fault-Yonne et Lagny-sur-Marne.
+
+**Les sources qui ont fait la passe** : la page « Les marchés de Bussy » de `bussysaintgeorges.fr` ; le
+site de l'AMAP ; les fiches et rubriques « Se procurer des produits locaux » et « Faire son marché » de
+l'office de tourisme `marneetgondoire-tourisme.fr`, dont le `robots.txt` n'interdit rien ; les sites de la
+cueillette, du Marché du Plessis et de la ferme de Saint-Thibault ; Bienvenue à la ferme ; le registre de
+l'Agence Bio, **922** opérateurs lus sur la Seine-et-Marne ; le registre des entreprises ; la Base Adresse
+Nationale et l'index des lieux de la Géoplateforme. Ces sources nomment des exploitants, des commerçants et
+des photographes : aucun nom n'est repris.
+
+**Contradictions tranchées** :
+
+- Ferme de Saint-Thibault, dimanche : 16h30 sur la page « La boutique » et chez Bienvenue à la ferme,
+  15h dans l'annonce de Noël 2025 de la page d'accueil. Règle 58, la page de référence est publiée, l'autre
+  valeur citée. Jours de fermeture : la ferme cite le 1er janvier, les 1er et 15 mai, le 14 juillet, le
+  15 août et le 25 décembre ; Bienvenue à la ferme, le 15 août, le 1er novembre, le 25 décembre et le
+  1er janvier. La liste de la ferme est publiée (règle 104).
+- Cueillette de Chanteloup, dimanche : jusqu'à 19h selon le site, avec fermeture à 12h30 hors de la
+  période mi-août – mi-octobre ; 12h30 seulement chez Bienvenue à la ferme. La version du site, plus
+  détaillée, est publiée.
+- Cueillette de Chanteloup, point : règle 129, née ici.
+- Marché du centre de Bussy, photographie : règle 128, née ici. Point : règle 26, voir la fiche.
+
+**Restent à instruire, pour une passe suivante :**
+
+- Bussy-Saint-Georges, marché du village, place de Verdun, le samedi de 7h à 13h : entièrement
+  alimentaire selon la Ville, fiche solide sauf l'image — aucune photographie de ce marché. Débloquée par
+  une photographie de ce marché sans visage.
+- Meaux, marché des producteurs du dimanche matin : la page web de la Ville le place « place du cinéma
+  Majestic », le guide PDF de 2023 « boulevard Jean Rose » ; la page à jour l'emporte (règle 58), et un
+  annuaire tiers le place aussi au Majestic, de 9h à 13h, quand le guide dit 8h. Meaux, marché du quartier
+  du Marché, le samedi : deux halles alimentaires. Débloqués par une photographie d'au moins 600 px.
+- Melun, marché Gaillardon : halle d'une cinquantaine de commerces alimentaires, une cinquantaine de
+  non alimentaires à l'extérieur (Ville). Horaires contradictoires : 7h-13h30 (Ville), 7h30-13h30 (office
+  de tourisme), 7h30-13h (annuaire commerçant de la Ville). Photographie de la façade, sans personne, sur
+  l'annuaire des commerces de la Ville. Fiche prête ; elle attend un groupe de cinq à Melun.
+- Melun, marché de l'Ermitage, le dimanche de 7h30 à 13h, une dizaine de commerçants alimentaires : faits
+  concordants entre la Ville et l'office ; la photographie de l'office est une image de banque, la même que
+  pour le marché Balzac (règle 88). Débloqué par une photographie de ce marché.
+- Melun, marché Balzac : le jeudi selon la Ville, le jeudi et le dimanche selon l'office (règle 22) ; les
+  deux photographies de l'annuaire commerçant ne montrent que des étals de vêtements. Écarté tant qu'aucune
+  source ne montre ou ne décrit sa part alimentaire.
+- Melun, AMAP : page de la Ville non datée, distribution le jeudi de 18h à 19h30 rue Doré ; un annuaire
+  tiers donne 18h-20h, l'annuaire du réseau de 2017 un autre lieu ; le domaine de l'AMAP ne résout plus.
+  Association active au registre. Débloquée par une source datée de l'AMAP et une image.
+- Melun, rucher en centre-ville : entreprise individuelle, portable pour seul contact. Écarté, doute sur
+  une personne.
+- Villiers-en-Bière, apiculture : portable pour seul contact, aucune enseigne vérifiée au registre. Écarté,
+  doute sur une personne.
+- Dammarie-les-Lys, arboriculteur bio : entreprise individuelle au nom patronymique, sans point de vente.
+  Écarté, doute sur une personne.
+- Dammarie-les-Lys, AMAP : distribution le jeudi de 19h à 19h45 rue du Château-Gaillard, site vivant ; seule
+  image du local, une vue de type Street View. Dammarie-les-Lys, marché : recadrage sans visage de 710 px
+  qui ne situe pas le lieu. Deux pistes pour un passage sur l'agglomération de Melun.
+- Vaux-le-Pénil, jardins maraîchers bio associatifs : ventes réservées aux adhérents hors été, jour et lieu
+  de retrait qui changent d'un article à l'autre (mardi soir en 2022, mercredi en juillet 2026, deux adresses).
+  Débloquée par un créneau de retrait publié comme régulier.
+- Lagny-sur-Marne, marché : une cinquantaine de commerces de bouche dans la halle, plus de soixante-dix
+  étals non alimentaires à l'extérieur en saison haute ; règle 119, la part alimentaire n'atteint pas la
+  moitié en saison. Lagny-sur-Marne, AMAP : sans site ni image.
+- Saint-Thibault-des-Vignes, magasin bio de réseau : sa page « Producteurs locaux » est vide. Règle 86.
+- Jossigny, vente de produits d'une ferme en paniers et casiers : l'entité ouverte à l'adresse est une
+  société de commerce de détail, aucune entité agricole n'y est ouverte, et la liste des producteurs n'est
+  publiée que sur un réseau social. Règles 29 et 86.
+- Chanteloup-en-Brie, maraîchage bio : l'établissement de la rue de la Cueillette est fermé au registre des
+  entreprises ; il n'est pas publié et ne donne pas le pilier `environnement` à la cueillette.
+- **Communes suivantes du 77** : Ozoir-la-Ferrière (21 238 habitants), puis le reste de la liste par
+  population ; le criblage a repéré à Roissy-en-Brie deux fiches probables (marché et magasin bio), non encore
+  vérifiées en détail.
 
 ### Pistes non publiées à Colomiers
 
