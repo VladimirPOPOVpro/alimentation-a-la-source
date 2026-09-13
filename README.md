@@ -1784,9 +1784,42 @@ prioritaires en cas de conflit.
      ces premières, dont la photographie est un document au sens de la règle 91 et dont les jours concordent. Le
      groupement de la passe y gagne, et le visiteur aussi : cinq fiches à moins de 4,7 km les unes des autres.
 
+140. **La date de prise de vue d'une photographie de marché se lit au calendrier : tombée un autre jour que celui du
+     marché, elle n'est pas une vue de ce marché ; et un office qui illustre l'un de ses marchés d'une image de banque
+     étrangère perd, pour ses fiches voisines, la présomption de la règle 91.** L'office de tourisme d'Arles tient trois
+     fiches de marchés, chacune avec sa photographie d'empreinte distincte : le test de la règle 88 ne dit rien. Mais
+     celle du marché dominical de Pont-de-Crau montre des aubergines et des fèves étiquetées en livres sterling, avec
+     des libellés en anglais : c'est une image de banque prise hors de France. Et celle du marché du **mercredi**
+     porte dans ses métadonnées une prise de vue du **samedi** 16 septembre 2017 à 8h03 — l'heure d'ouverture du
+     grand marché du samedi, pas du mercredi. **Tranché ainsi** : avant de lire une photographie d'autorité au titre
+     de la règle 91, on vérifie que sa date de prise de vue, quand elle existe, tombe le jour de la semaine du marché
+     qu'elle illustre ; sinon elle retombe sous la règle 1, et `produits` n'en tire rien. Et quand une même autorité
+     illustre l'un de ses marchés d'une image manifestement étrangère au lieu, ses autres photographies ne valent
+     document que si leur date ou un élément du lieu les rattache au marché. Prolonge les règles 109 et 128, qui
+     lisaient l'EXIF pour situer une photographie, en y ajoutant le jour de la semaine. Ici : le marché du mercredi
+     garde la photographie de l'office comme illustration d'un marché du centre d'Arles, dite comme telle dans la
+     fiche, et ses produits viennent des seuls textes de la Ville et de l'office ; les photographies des marchés du
+     samedi, de Trinquetaille et de Pont-de-Crau viennent de la photothèque de la Ville, où leurs dates de prise de vue
+     tombent un samedi, un mardi et un dimanche.
+
+141. **Quand la commune et l'office de tourisme nomment deux places différentes pour un même marché, une photographie
+     de la commune qui montre en fond la façade d'un établissement dont l'adresse publiée est sur l'une des deux
+     places départage.** La Ville d'Arles tient son marché de Pont-de-Crau « place Saint-Victor » ; l'office de
+     tourisme, « place du Cabaret Neuf ». La Base Adresse Nationale ignore la première — elle ne connaît qu'une impasse
+     Saint-Victor — et connaît la seconde à 0,96 ; les deux points sont à **64 m**, au-delà de la cinquantaine de
+     mètres de la règle 98. Le marqueur de l'office, lui, tombe à **1 129 m**, loin des deux (règle 10). Les
+     photographies que la Ville a prises sur ce marché, en septembre et en décembre 2024, montrent derrière les étals
+     l'enseigne et la façade de l'hôtel-restaurant du quartier, dont les annuaires consultés publient l'adresse au 7 place du
+     Cabaret Neuf. **Tranché ainsi** : la façade lisible sur la photographie de l'autorité est un document au sens de la
+     règle 74 ; elle place le marché sur la place du Cabaret Neuf, dont on publie le point de la Base, et le champ
+     `adresse` garde le nom employé par la Ville entre parenthèses, parce que c'est celui que lira le visiteur sur le
+     site de la commune. Le nom d'Arles « place Saint-Victor » se lit alors comme l'usage local de l'espace qui borde
+     l'impasse du même nom. Sans façade ni repère lisible, la contradiction de place reste sous la règle 5 et la fiche
+     attend. La fiche passe en `a_confirmer`, et l'écart d'horaires entre les deux sources suit la règle 80.
+
 ## Marchands à confirmer
 
-454 fiches sur 491 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+458 fiches sur 496 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2264,8 +2297,12 @@ prioritaires en cas de conflit.
 - **Marché couvert de Passy** (Paris 16e) (catégorie et piliers des halles. **Adresse** : l'obstacle noté à la passe des marchés couverts a disparu, la fiche du lieu de la Ville porte désormais « 1 rue Bois le Vent » quand la page générale, l'article et le gestionnaire écrivent « place de Passy » ; les deux points sont à 44 m l'un de l'autre (règle 98) et la fiche prend le numéro. **Horaires** : fiche du lieu et page concordantes ; le gestionnaire coupe le samedi de 13h à 15h30, cité. **Photographie** : choux-fleurs d'un étal, tirée de l'article de la Ville, 2 000 px réduits à 1 280, sans personne ; celle de la fiche du lieu montre un commerçant de face et n'a pas été reprise. Reste `a_confirmer` pour le samedi après-midi)
 - **Marché Berthier** (Paris 17e) (catégorie et piliers des marchés de plein air parisiens. **Point** : celui du jeu de données « Marchés découverts » de la Ville, comme les marchés biologiques déjà publiés. **Horaires, règle 80** : mercredi 7h-13h30 partout ; le samedi, 14h30 sur la fiche du lieu et dans le jeu de données, 13h30 sur la page générale — c'est la fermeture la plus tôt qui est publiée, l'autre est citée. **Produits, règle 103** : classement « Alimentaire » de la Ville et étal de sa photographie. **Photographie** : celle de la fiche du lieu, recadrée sur sa partie gauche (760 px) pour retirer un marchand et des passants. Reste `a_confirmer` pour le samedi et la composition des étals)
 - **Marché Maillot-Malakoff** (Paris 16e) (catégorie et piliers des marchés de plein air. **Horaires** : identiques sur la page générale, la fiche du lieu et le jeu de données. **Point** : jeu de données de la Ville ; le 154 avenue de Malakoff tombe à 20 m à la Base Adresse Nationale, qui écrit le code postal 75116, repris dans l'adresse. **Produits, règle 103** : classement « Alimentaire » et étal de la photographie de la fiche du lieu. **Photographie** : celle de la fiche du lieu, sans sa bande gauche où se tenait une personne ; un cycliste de dos, minuscule, reste au fond. Reste `a_confirmer` pour la composition des étals)
+- **Marché du samedi d'Arles** (Arles) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché municipal. **Horaires** : samedi 8h-12h45 sur la page « Les marchés d'Arles » de la Ville, sur sa page « La règlementation des marchés » (fin des transactions à 12h45 en toutes saisons) et sur la fiche de l'office de tourisme, qui ajoute les exceptions du 1er janvier et du 25 décembre. **Lieu, règle 87** : la page de la Ville écrit dans un paragraphe « boulevards des Lices, Georges-Clemenceau et Émile-Combes », puis dans sa rubrique « Jours de marchés » les deux premiers seulement ; l'office confirme « Boulevards des Lices et Clémenceau », qui est retenu. **Point, règle 10** : centre de voie du boulevard des Lices à la Base Adresse Nationale (0,968) ; le marqueur de l'office tombe place de la République, à 15 m du 33 rue de l'Hôtel-de-Ville, et c'est le même au millionième pour ses fiches du samedi et du mercredi : il n'est pas retenu. **Produits** : liste de la Ville, et tomates de l'étal photographié. **Photographie** : bandeau de la page des marchés de la Ville, 1 800 px, tiré de la série « Marché du samedi » de sa photothèque (prise de vue le samedi 23 mai 2020), recadré sur les cagettes pour retirer une passante et la signature du photographe, réenregistré sans métadonnées. Reste `a_confirmer` : composition des étals non décomptée)
+- **Marché du mercredi d'Arles** (Arles) (même catégorie et mêmes piliers. **Deux fiches pour le centre, règle 42** : la Ville décrit un seul marché tenu deux jours, mais sur deux boulevards distincts, et l'office en fait deux fiches ; chacun a sa voie géocodable, ils sont à 528 m. **Horaires** : mercredi 8h-12h45, Ville et office concordants ; exception du 1er mai chez l'office. **Point** : centre de voie du boulevard Émile-Combes (0,972), entre la place Lamartine, que la Base ignore, et le carrefour de la Croisière. **Produits** : texte de l'office (fromages régionaux, fruits, olives, viandes du pays) et produits régionaux que la Ville cite pour le marché du centre. **Photographie, règle 140, née ici** : celle de l'office pour cette fiche, prise un samedi de 2017 : illustration, rien n'en est tiré. Reste `a_confirmer`)
+- **Marché de Trinquetaille** (Arles) (catégorie et piliers des marchés. **Horaires** : mardi 7h30-12h30 sur la page de la Ville ; la photothèque le présente comme « nouveau » en avril 2025. **Point** : place Saint-Pierre à la Base Adresse Nationale (0,97), contrôle inverse à 29 m du 7 place Saint-Pierre. **Produits, règle 91** : lus sur la série « Nouveau marché de Trinquetaille, tous les mardis matins » de la photothèque de la Ville, trente et une photographies prises le mardi 8 avril 2025 et attachées à ce seul marché ; aucune enseigne d'étal n'est reprise. **Photographie** : vue de la place et de ses étals sous les platanes, prise de la même série, recadrée pour retirer la signature du photographe ; deux passants minuscules au loin, non reconnaissables. Reste `a_confirmer` : aucune liste d'étals publiée, et la page de la Ville porte une date de modification de mai 2024 antérieure à l'ouverture de ce marché qu'elle cite, ce qui interdit de la dater)
+- **Marché de Pont-de-Crau** (Arles) (catégorie et piliers des marchés. **Lieu, règle 141, née ici** : place du Cabaret Neuf, point de la Base à 0,96 ; « place Saint-Victor » pour la Ville, repris entre parenthèses. **Horaires, règle 80** : 8h30-12h30 pour la Ville, 7h30-13h pour l'office ; la fenêtre la plus étroite est publiée, l'autre citée. **Produits** : lus sur les séries « Nouveau marché de Pont-de-Crau » (dimanche 1er septembre 2024) et « Inauguration du marché de Pont-de-Crau » (dimanche 8 décembre 2024) de la photothèque de la Ville. **Photographie** : les sardines d'un étal de poissonnier de la première série, 2 048 px réduits à 1 280, sans personne, recadrées pour retirer la signature du photographe. Les deux séries accompagnent une visite d'élus : aucune de ces photographies de personnes n'a été reprise. Reste `a_confirmer`)
 
-Les 491 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 496 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2293,6 +2330,77 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Arles
+
+Département visé : les **Bouches-du-Rhône (13)**, déficit **4,8658** au titre de la règle 41 avec 491 fiches publiées,
+dont dix dans le département (cinq à Marseille, cinq à Aix-en-Provence). La Réunion (6,3352) reste écartée par la règle
+93. La passe précédente visait Paris, en Île-de-France ; le 13 est en Provence-Alpes-Côte d'Azur, la réserve de la règle
+41.c ne joue pas. Après la passe, le 13 tombe à **0,0172** ; en tête du classement : l'**Ain** (4,8867,
+Auvergne-Rhône-Alpes), puis la Charente-Maritime (4,8359) et le Puy-de-Dôme (4,7796). La prochaine passe ne peut pas
+viser Provence-Alpes-Côte d'Azur.
+
+Commune retenue : **Arles**, 51 811 habitants, la plus peuplée du département sans aucune fiche. Elle a rendu cinq
+fiches sans descendre ni élargir, **toutes à moins de 3 km les unes des autres** (2 950 m au plus, entre Trinquetaille et
+Pont-de-Crau) : les marchés du **samedi** (boulevard des Lices) et du **mercredi** (boulevard Émile-Combes), le marché
+de **Trinquetaille** (mardi), le marché de **Pont-de-Crau** (dimanche) et le magasin **Biocoop Camargue**, dans la zone
+de Fourchon. Une zone où l'on trouve un marché quatre jours sur sept et un magasin bio ouvert du mardi au samedi.
+
+**Les sources qui ont fait la passe.** La page « Les marchés d'Arles » de `arles.fr` (WordPress, `robots.txt`
+permissif, sitemap complet), sa page « La règlementation des marchés », les fiches de l'office de tourisme sur
+`arlestourisme.com` (lecture des marqueurs dans les champs cachés `lat` et `long`), la **photothèque de la Ville**,
+`phototheque.arles.fr`, un Piwigo dont l'API `ws.php` rend les albums, les dimensions, les dates et les fichiers
+originaux — la meilleure source d'images rencontrée depuis Paris —, le registre de l'Agence Bio, le registre des
+entreprises, le site du magasin et le certificat Ecocert. Tous les fichiers de la photothèque portent en métadonnées
+et en filigrane le nom de leur photographe : **les images publiées sont recadrées hors signature et réenregistrées sans
+métadonnées**, et aucun nom n'est repris ici.
+
+**Biocoop Camargue, règle 86.** Magasin de réseau, il devait montrer sa liste de producteurs : sa page « Nos
+producteurs locaux » en présente vingt-trois, une à une, dont la majorité entre Arles, la Crau, Mas-Thibert, Fontvieille
+et les Alpilles — riz de Camargue, vins de domaines bio, pommes et jus d'un verger arlésien, pois chiches et amandes de
+la Crau. La règle est remplie. Établissement ouvert au registre des entreprises, créé en 2016, enseigne « BIOCOOP » ;
+certificat Ecocert en vigueur et consultable, engagement du 27 juillet 2016, d'où `environnement`. Point : numéro 7 à la
+Base Adresse Nationale (0,963), identique au point du registre, à 8 m des coordonnées publiées par le magasin.
+Plusieurs fiches de producteurs du magasin sont intitulées au prénom ou au patronyme de l'exploitant, et la page de
+présentation nomme son responsable : `produits` décrit ces fournisseurs par leur métier et leur commune, sans les
+nommer. Photographie : la façade publiée par le magasin, 1 360 px réduits à 1 280, sans personne.
+
+**Contradictions tranchées** :
+
+- Samedi : la page de la Ville cite trois boulevards dans un paragraphe, deux dans sa rubrique des jours ; l'office
+  confirme les deux, règle 87.
+- Pont-de-Crau, lieu : place Saint-Victor (Ville) contre place du Cabaret Neuf (office), 64 m ; règle 141, née ici.
+- Pont-de-Crau, horaires : 8h30-12h30 (Ville) contre 7h30-13h (office) ; règle 80.
+- Mercredi et Pont-de-Crau, photographies de l'office : prise de vue un samedi pour l'une, image de banque étiquetée en
+  livres sterling pour l'autre ; règle 140, née ici.
+
+**Fiches écartées pour doute sur une personne** : aucune.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché de Raphèle** (mardi 7h30-12h30, « place des Micocouliers » pour la Ville) : la Base Adresse Nationale ne
+  connaît qu'une impasse des Micocouliers (0,66) et l'office ne fiche pas ce marché. La photothèque de la Ville en tient
+  une série de septembre 2024 (1 024 px, une vue de pêches sans personne). **Critère de déblocage** : un point publié
+  par une autorité, ou un repère nommé par la Ville au sens de la règle 26.
+- **Marché de Moulès** (jeudi 7h30-12h30, « place Adam de Craponne ») : la seule place de ce nom que connaît la Base
+  (0,963) est à 243 m de l'impasse des Micocouliers, qui porte le nom de la place du marché de Raphèle, ce qui ne permet
+  pas de dire qu'elle est bien à Moulès ; aucune photographie. **Critère** : le même.
+- **Marché de Mas-Thibert** (dimanche 8h30-12h30, place Marius Hortozol, connue de la Base à 0,96) : publiable sur les
+  faits, avec deux séries de la photothèque (2019 et 2020), non encore examinées ; laissé pour le groupement, le
+  village étant à une quinzaine de kilomètres du centre. **Critère** : aucun obstacle, à reprendre au prochain passage sur Arles.
+- **Marché de Salin-de-Giraud** (vendredi 7h30-12h30, place Carle Naudot) : place inconnue de la Base, à une trentaine
+  de kilomètres du centre, aucune photographie. **Critère** : un point d'autorité.
+- **Biocoop Arelate** (24 avenue Victor Hugo) : son site ne présente que les groupements nationaux de paysans associés
+  du réseau, aucun producteur local nommé ; règle 86, en attente d'une liste.
+- **Un comptoir de produits régionaux à Mas-Thibert** : l'établissement enregistré sous cette enseigne est fermé au
+  registre des entreprises, alors que son site reste en ligne ; la raison sociale porte des noms de personnes et n'est
+  pas reprise. **Critère** : un établissement ouvert au registre à l'adresse du comptoir (règle 117).
+- **Producteurs de Camargue et de la Crau** fichés par l'office dans « Découvrir les producteurs » (domaines viticoles et
+  rizicoles, vergers, élevages) : non instruits, pour la plupart loin du centre et plusieurs sous un nom de famille ;
+  **critère** : des horaires de vente publiés par le producteur lui-même (règle 2), et une enseigne qui ne soit pas un
+  nom de personne.
+- **AMAP du Rouinet** : distribue à Fourques, dans le Gard, et non à Arles ; hors commune.
+- **L'épicerie de vrac du quartier de Griffeuille**, présentée par la Ville : non instruite, règle 86.
 
 ### Pistes non publiées à Paris — halles et marchés de l'ouest
 

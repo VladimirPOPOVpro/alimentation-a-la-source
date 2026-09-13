@@ -13020,5 +13020,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=154+avenue+de+Malakoff+75116+Paris",
     "image_url": "/images/marchands/marche-maillot-malakoff.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-arles",
+    "nom": "Marché du samedi d'Arles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.675301,
+    "lon": 4.628408,
+    "adresse": "Boulevard des Lices et boulevard Georges-Clemenceau, 13200 Arles",
+    "horaires": "Samedi de 8h à 12h45, toute l'année sauf le 1er janvier et le 25 décembre. La Ville fixe la fin des transactions à 12h45 en toutes saisons ; les boulevards des Lices et Georges-Clemenceau sont fermés à la circulation le samedi matin.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Viandes et poissons",
+      "Miel, fleurs et épices",
+      "Huile d'olive, saucisson d'Arles, riz de Camargue et tellines (produits régionaux cités par la Ville)",
+      "Tomates de France, dont la variété côtelée (étal photographié par la Ville un samedi)"
+    ],
+    "description": "Le grand marché hebdomadaire d'Arles, attesté dès 1584, s'étend chaque samedi matin sur plus de 2,5 km d'étals le long des boulevards des Lices et Georges-Clemenceau, avec quelque 450 forains selon la Ville. Les étals alimentaires y côtoient des vêtements, des tissus et de l'artisanat : la Ville n'en publie pas le décompte par métier. Le point de la carte est le centre du boulevard des Lices.",
+    "site_web": "https://arles.fr/decouvrir/les-marches/les-marches-du-centre-ville/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulevard+des+Lices+13200+Arles",
+    "image_url": "/images/marchands/marche-du-samedi-arles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mercredi-arles",
+    "nom": "Marché du mercredi d'Arles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.678128,
+    "lon": 4.633684,
+    "adresse": "Boulevard Émile-Combes, de la place Lamartine au carrefour de la Croisière, 13200 Arles",
+    "horaires": "Mercredi de 8h à 12h45, toute l'année sauf le 1er mai.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages régionaux",
+      "Olives",
+      "Viandes du pays",
+      "Miel, huile d'olive et riz de Camargue (produits régionaux que la Ville cite pour ses deux marchés du centre)"
+    ],
+    "description": "Second marché hebdomadaire du centre d'Arles, qui s'étire le mercredi matin le long des remparts sur le boulevard Émile-Combes, depuis la place Lamartine jusqu'au carrefour de la Croisière, avec quelque 300 forains selon la Ville. La photographie est une illustration prise sur un marché du centre d'Arles un autre jour que le mercredi, et non une vue de ce marché.",
+    "site_web": "https://arles.fr/decouvrir/les-marches/les-marches-du-centre-ville/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulevard+Emile+Combes+13200+Arles",
+    "image_url": "/images/marchands/marche-du-mercredi-arles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-trinquetaille-arles",
+    "nom": "Marché de Trinquetaille",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.680308,
+    "lon": 4.622631,
+    "adresse": "Place Saint-Pierre, Trinquetaille, 13200 Arles",
+    "horaires": "Mardi de 7h30 à 12h30.",
+    "produits": [
+      "Fruits et légumes : radis, asperges, courgettes, poireaux (étals photographiés par la Ville)",
+      "Fromages à la coupe",
+      "Olives et condiments servis au détail",
+      "Tartes et feuilletés",
+      "Alimentation générale (marché de quartier de la Ville)"
+    ],
+    "description": "Marché de quartier de la rive droite du Rhône, que la Ville présentait comme nouveau au printemps 2025, sur la place Saint-Pierre et sous ses platanes. La Ville ne publie pas la liste des étals ; les produits cités viennent de la série de photographies qu'elle a consacrée à ce seul marché, un mardi d'avril 2025.",
+    "site_web": "https://arles.fr/decouvrir/les-marches/les-marches-du-centre-ville/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Saint-Pierre+13200+Arles",
+    "image_url": "/images/marchands/marche-de-trinquetaille-arles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-pont-de-crau-arles",
+    "nom": "Marché de Pont-de-Crau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.662919,
+    "lon": 4.650326,
+    "adresse": "Place du Cabaret Neuf (place Saint-Victor pour la Ville), Pont-de-Crau, 13200 Arles",
+    "horaires": "Dimanche de 8h30 à 12h30 d'après la Ville (l'office de tourisme annonce 7h30-13h).",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons, dont des sardines",
+      "Pain de campagne et viennoiseries",
+      "Rôtisserie",
+      "Fromages à la coupe",
+      "Olives",
+      "Fleurs et plantes"
+    ],
+    "description": "Marché dominical du quartier de Pont-de-Crau, que la Ville présentait comme nouveau en septembre 2024, installé sur la place devant l'hôtel-restaurant du quartier. La Ville ne publie pas la liste des étals : les produits cités viennent des deux séries de photographies qu'elle a prises sur ce marché, en septembre et en décembre 2024.",
+    "site_web": "https://arles.fr/decouvrir/les-marches/les-marches-du-centre-ville/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Cabaret+Neuf+13200+Arles",
+    "image_url": "/images/marchands/marche-de-pont-de-crau-arles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-camargue-arles",
+    "nom": "Biocoop Camargue",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.66783,
+    "lon": 4.635166,
+    "adresse": "7 avenue du Maréchal Juin, zone de Fourchon, 13200 Arles",
+    "horaires": "Du mardi au vendredi de 9h à 13h et de 15h à 19h, le samedi de 9h à 19h. Fermé le dimanche et le lundi.",
+    "produits": [
+      "Fruits et légumes bio, dont ceux d'un maraîcher de la Crau",
+      "Riz de Camargue bio",
+      "Pommes, jus et compotes d'un verger bio arlésien",
+      "Vins bio de domaines d'Arles, de Mas-Thibert et des Alpilles",
+      "Fromages à la coupe",
+      "Pain",
+      "Vrac sec et liquide",
+      "Hygiène, cosmétiques et entretien écologique"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop ouvert en 2016 dans la zone commerciale de Fourchon, qui dit s'approvisionner auprès de soixante producteurs de la région et en présente vingt-trois sur son site, pour la plupart installés entre Arles, la Crau et les Alpilles. Le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique auprès d'Ecocert depuis juillet 2016, avec un certificat consultable.",
+    "telephone": "04 90 98 36 11",
+    "site_web": "https://www.biocoop-camargue.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Camargue+7+avenue+du+Mar%C3%A9chal+Juin+Arles",
+    "image_url": "/images/marchands/biocoop-camargue-arles.jpg"
   }
 ]
