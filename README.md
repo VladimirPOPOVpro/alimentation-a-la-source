@@ -1724,9 +1724,37 @@ prioritaires en cas de conflit.
      de quelle photographie vient la ligne. C'est la sœur de la règle 128, qui départageait un nom de fichier
      et un EXIF : ici ni l'un ni l'autre ne parle, c'est la page qui le fait.
 
+136. **Une boutique que l'exploitant annonce sans en publier les horaires ne donne pas d'horaires à la fiche : on
+     publie les créneaux qu'il publie lui-même à la même adresse, et l'on dit que la boutique n'a pas d'heures
+     connues.** Solembio, le Jardin de Cocagne d'Orléans, écrit sur la page d'accueil de son site « nous avons
+     également une boutique où nous vendons nos produits », sans un seul jour ni une seule heure. Son site de
+     commande publie en revanche, pour le point de retrait « SOLEMBIO » du 132 ter rue des Montées, le jeudi et le vendredi de 10h à 18h30 ; l'annuaire d'un groupement d'employeurs affiche un lundi
+     au vendredi 9h-18h qui décrit le bureau du chantier d'insertion, pas une vente. La règle 84 fait entrer un
+     producteur sans magasin quand il publie des créneaux de retrait ; elle ne dit rien d'un magasin sans créneaux.
+     **Tranché ainsi** : la fiche entre si l'exploitant publie lui-même au moins un créneau de vente ou de retrait à
+     l'adresse cartographiée ; le champ `horaires` donne ce créneau pour ce qu'il est (un retrait de paniers
+     d'abonnés), dit ensuite que la boutique existe mais que ses horaires ne sont pas publiés, invite à téléphoner,
+     et la fiche passe en `a_confirmer`. Les heures d'un annuaire tiers qui ne parle pas de la boutique ne la
+     remplacent pas (règles 90 et 104). Sans aucun créneau publié par l'intéressé, la fiche attend.
+
+137. **Une ferme dont la boutique est tenue, à la même adresse, par une société distincte garde le pilier
+     `environnement` au titre de l'exploitation, à condition que la description dise ce que le certificat ne couvre
+     pas.** La Ferme urbaine 9TER, rue du Coin Rond à Orléans, réunit deux personnes morales au même numéro : la
+     société agricole (code 01.13Z), engagée chez Ecocert depuis le 18 avril 2017, certificat « en vigueur » pour les
+     activités « Agriculteur (production végétale) » et « Fabricant & Transformateur » ; et la société de la
+     boutique (code 47.21Z), absente du registre de l'Agence Bio. La règle 71 demande un certificat « au nom de
+     l'établissement lui-même », et la règle 43 fait suivre le certificat à l'exploitant. **Tranché ainsi** : la
+     fiche est celle de la ferme — sa catégorie est `ferme`, son nom celui de l'exploitation, sa photographie celle
+     des serres et des planches — et le pilier suit l'exploitant certifié à cette adresse ; mais la description
+     écrit que la boutique vend aussi les produits de confrères dont la certification n'a pas été vérifiée. Si la
+     boutique était la seule chose publiée, ou si elle se tenait à une autre adresse que l'exploitation, la règle 71
+     s'appliquerait telle quelle et le pilier tomberait. Contre-exemple de la même passe : Au Bon Endroit, à
+     Saint-Cyr-en-Val, dont le certificat Ecocert porte l'activité « Détaillant » en plus de la production, n'a pas
+     besoin de cette règle.
+
 ## Marchands à confirmer
 
-446 fiches sur 481 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+449 fiches sur 486 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2196,7 +2224,11 @@ prioritaires en cas de conflit.
 - **La Clef des Sols** (Vitry-sur-Seine) (catégorie `ferme`, maraîchage. **Registre** : EARL active, établissement ouvert au 65 rue Watteau, code 01.13Z. **Pilier `environnement`** : engagement Certipaq Bio du 11 juillet 2014, jamais arrêté, productions déclarées « légumes frais sous abris » et « plein champ » (règle 39), vente aux particuliers déclarée. **Horaires et point, règle 134, née ici** : la vente se fait uniquement sur commande et le lieu de la distribution vitriote n'est pas publié ; point de la Base Adresse Nationale sur le 65 rue Watteau (0,975), à 3 m du point du registre de l'Agence Bio. **Produits** : récolte du vendredi 11 septembre 2026 publiée sur le site ; la gamme change chaque semaine. **Site** : `laclefdessols.blog`, déclaré site officiel au registre de l'Agence Bio, nomme la commune (règle 56). Le site est signé du nom de l'exploitante : seule l'enseigne est reprise. **Photo** : allée d'un tunnel de tomates publiée par le producteur le 13 juillet 2026, sans personne, 800 px)
 - **AMAP K'Champs** (Cachan) (catégorie et piliers des AMAP, sans `environnement` (règle 60) : seul le maraîcher du mardi a un certificat vérifié. **Registre, règle 6** : association, non concernée. **Horaires, règle 104** : 19h15-20h sur la page des distributions et le résumé des contrats de l'AMAP ; 19h-20h dans l'annuaire des associations de la Ville, cité. **Produits** : résumé des contrats du site ; seuls les producteurs désignés par une enseigne qui n'est pas un patronyme sont nommés (règles 36 et 131) — le site désigne les autres par le prénom ou le nom de leurs exploitants, qui ne sont pas repris, et le verger partenaire change de mains et de nom en 2026. **Contact** : l'annuaire de la Ville donne le nom et le portable d'une personne, non repris. **Site** : `kchamps.fr` nomme Cachan et l'adresse (règle 56). **Point** : 9 rue Amédée-Picard à la Base Adresse Nationale (0,962). **Photo, règle 1** : bandeau de la page d'accueil de l'AMAP, tunnels de maraîchage et poulailler d'une exploitation partenaire, sans personne, 2 016 px réduits à 1 280 ; elle ne montre pas le lieu de distribution et la fiche le dit. Les autres images du site sont surtout des portraits d'adhérents et de producteurs, écartés)
 - **Marché de Cachan** (Cachan) (catégorie et piliers des marchés. **Registre, règle 106** : marché municipal. **Horaires, règle 44** : la fiche d'équipement de la Ville donne mercredi et samedi 8h-13h, fermé les mercredis d'août ; l'encadré de la page « Marché de Cachan », mise à jour le 11 septembre 2026, ne donne que le samedi, mais son propre texte annonce une fermeture « mercredi 24 juin » et un stand éphémère « chaque mercredi et samedi matin » : la valeur corroborée est publiée, l'écart est écrit dans la fiche. **Produits, règle 89 transposée** : la Ville publie la liste des trente-cinq commerçants par métier ; la plupart sont désignés par le nom d'une personne, et aucune enseigne n'est reprise — seuls les métiers le sont. **Point** : 1 avenue Léon-Eyrolles à la Base Adresse Nationale (0,958), adresse de l'agenda de la Ville ; le point de la fiche d'équipement se retourne sur l'avenue à 10 m, à 52 m du numéro. **Photo** : barquettes de prunes, première des cinq photographies de la page du marché, empreintes toutes distinctes, sans visage identifiable, 820 px ; les crédits nominatifs des photographes ne sont pas repris)
-Les 481 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du Quai du Roi** (Orléans) (catégorie et piliers des marchés. **Registre, règle 106** : marché municipal. **Jour et heures** : samedi 7h30-12h30, concordants entre la page « Les marchés » de la Ville, la fiche de l'office de tourisme Orléans Val de Loire et la plateforme du gestionnaire des marchés. **Point, règle 10** : la Base Adresse Nationale ne connaît que la voie (score 0,97) ; aucun numéro, pas de marqueur publié par la Ville ni par le gestionnaire, pas d'établissement au registre ; c'est le marqueur de l'office de tourisme qui est publié, à 131 m du centre de voie de la Base, et son contrôle inverse rend le 25 quai du Roi à 15 m. Le marché s'étire du pont Thinat au Cabinet Vert : le point est sur le quai, pas à une entrée précise. **Produits** : textes de la Ville (« produits du terroir », « produits locaux ou spécialités régionales ») et de l'office (« fruits et légumes, viandes et volailles, produits laitiers et de traiteurs ») ; fraises, cerises, rhubarbe et salades lus sur l'une des deux photographies que l'office attache à cette seule fiche (règle 91), recadrée sur les cageots pour ne garder aucune silhouette — les visages de l'original sont déjà floutés par la source. Reste `a_confirmer` : point sans numéro, aucune liste d'étals)
+- **Marché nocturne du Martroi** (Orléans) (catégorie et piliers des marchés. **Horaires** : « Vendredi 16h-21h » dans le titre et le texte de la page de la Ville ; 16h-21h30 sur la fiche de l'office de tourisme et sur la plateforme du gestionnaire. Les deux valeurs sortent, celle de la Ville en avant (règles 5 et 104). **Point** : centre de la place du Martroi à la Base Adresse Nationale (score 0,97), à 24 m du marqueur de l'office. **Produits** : liste de métiers de la Ville, reprise à ses mots ; la boulangerie bio au levain est corroborée par le registre de l'Agence Bio, où un fournil certifié Ecocert depuis 2019 déclare ce marché comme lieu de vente — le pilier `environnement` ne suit pas pour autant (règles 45 et 48). **Photographie** : l'une des trois que l'office attache à ce seul marché, un étal de fruits sans personne, choisie de préférence à la vue de la place où des passants restent reconnaissables. La plateforme du gestionnaire liste des exposants sous des noms de personnes : rien n'en est repris. Reste `a_confirmer` pour l'heure de fin)
+- **Solembio – Jardin de Cocagne d'Orléans** (Orléans) (catégorie `ferme` et piliers des fermes d'insertion déjà publiées, `social` compris. **Registre** : association active, établissement ouvert au 132 T rue des Montées, code 01.13Z. **Pilier `environnement`** : engagement Ecocert du 19 juillet 2007 jamais arrêté, certificat en vigueur consultable pour « Agriculteur, Fabricant & Transformateur, Détaillant » à la même adresse. **Horaires, règle 136, née ici** : retrait au jardin jeudi et vendredi 10h-18h30 d'après le site de commande ; boutique annoncée sur le site de l'association sans horaires. **Point** : numéro « 132ter » à la Base Adresse Nationale (score 0,82), contrôle inverse à 0 m, registre à 4 m ; le marqueur de l'office de tourisme tombe à 255 m et n'est pas retenu (règle 10). **Site** : `solembio.org`, cité par l'office, ne répond qu'en http, son certificat https échoue ; c'est le site de commande de l'association, en https et porteur des créneaux cités, qui est inscrit. **Photographie** : diptyque du comptoir de légumes publié par l'association, 1 117 px, sans personne. Reste `a_confirmer` pour les horaires de la boutique)
+
+Les 486 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2224,6 +2256,82 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Orléans et dans Orléans Métropole
+
+Département visé : le **Loiret (45)**, déficit **4,8221** au titre de la règle 41 avec 481 fiches publiées et
+aucune dans le département. La Réunion (6,2062) reste écartée par la règle 93. La passe précédente visait le
+Val-de-Marne, en Île-de-France ; le Loiret est en Centre-Val de Loire, la réserve de la règle 41.c ne joue pas. Il pèse 1,00 % de la population ; les cinq fiches
+ramènent son déficit à environ **−0,13**. Suivants du classement après cette passe : Paris (4,8280), qui redevient
+éligible, l'Ain (4,7882), la Charente-Maritime (4,7384).
+
+**Commune** : **Orléans** (116 357 habitants), la plus peuplée du département et sans aucune fiche. Elle rend les
+**faits** en abondance — la Ville publie le jour, l'heure, le lieu et un portrait de dix marchés alimentaires ou
+mixtes et des Halles Châtelet — mais pas les **images** : sa page des marchés n'a qu'un bandeau d'olives de 1 008 px
+sans lieu identifiable, et l'office de tourisme illustre dix de ses douze fiches de marchés orléanais par des
+fichiers de banque d'images (noms `pixabay`, `pexels`, `market-601580-1280-10` et `-11`, `bread-546589-1280-3` et
+`-7`…), dont plusieurs servent à deux fiches à la fois : règle 88, et Pexels est de toute façon exclu par le mandat.
+Seuls le quai du Roi et le marché nocturne ont leurs propres photographies. **Quatre fiches entières, image
+comprise, dans la commune** : ces deux marchés, Solembio et la Ferme urbaine 9TER. Au titre de la règle 96, le
+cinquième point est dans la même intercommunalité, Orléans Métropole : **Au Bon Endroit**, magasin paysan de
+Saint-Cyr-en-Val, à **6,0 km** de la place du Martroi et à 1,6 km de Solembio. La règle 52 n'était pas la bonne
+porte (le point est à plus de 5 km du barycentre des quatre autres) ; la règle 96, écrite pour une commune qui rend
+les faits mais pas les images, l'est. Distance maximale entre deux fiches : **7,8 km**, entre 9TER et Au Bon Endroit.
+
+**Les sources qui ont fait la passe** : la page « Les marchés » de la Ville d'Orléans ; les fiches de l'office de
+tourisme Orléans Val de Loire, lues par son plan de site (79 commerces et organismes, douze fiches de marchés orléanais) ; la
+plateforme du gestionnaire des marchés de plein air ; le site de Solembio et son site de commande ; le site de la
+boutique 9TER et l'ancien site de la ferme ; le site d'Au Bon Endroit ; le site des Halles Châtelet ; le registre de
+l'Agence Bio, **730** opérateurs lus sur le département, dont 72 à Orléans ; les certificats Ecocert consultables ;
+le registre des entreprises ; la Base Adresse Nationale et son service de géocodage inverse, désormais servi par la
+Géoplateforme (`data.geopf.fr/geocodage/reverse`, l'ancienne adresse `api-adresse.data.gouv.fr/reverse` renvoyant
+une redirection). Aucun `robots.txt` rencontré n'interdit le robot (règle 77). Ces sources nomment des commerçants,
+des exposants, des exploitants, des salariés, des bénévoles et des photographes, jusque dans les noms de fichiers
+et les adresses des certificats : aucun nom n'est repris, et les images publiées ont été réenregistrées sans
+métadonnées.
+
+**Contradictions tranchées** :
+
+- Marché nocturne : fin à 21h selon la Ville, 21h30 selon l'office et le gestionnaire ; règles 5 et 104.
+- Solembio : boutique annoncée sans horaires, créneaux de retrait publiés, heures de bureau dans un annuaire tiers ;
+  règle 136, née ici. Marqueur de l'office à 255 m du numéro, écarté (règle 10).
+- 9TER : deux sociétés au même numéro, certificat sur la seule exploitation ; règle 137, née ici. L'ancien site de
+  la ferme (2017-2018) donnait d'autres horaires de boutique ; ceux du site de la boutique, tenu à jour, l'emportent.
+- Au Bon Endroit : horaires identiques sur la page du magasin (mise à jour en mai 2026) et sur la fiche de l'office.
+  Photographies de l'office : deux montrent des cageots de récupération marqués au pochoir de noms de personnes, la
+  troisième des ardoises d'origine portant des prénoms de producteurs et une cliente masquée ; la photographie
+  publiée est un recadrage de la deuxième sur l'étagère des bouteilles et les distributeurs de vrac, sans cageot
+  ni ardoise (règle 75).
+
+**Fiches écartées pour doute sur une personne** : aucune.
+
+**Restent à instruire, pour une passe suivante :**
+
+- Orléans, marché Madeleine (dimanche 8h-12h30, allée Pierre-Chevallier, une centaine d'étals à dominante
+  alimentaire, « la plupart » tenus par des producteurs locaux selon la Ville) : faits solides, aucune photographie
+  propre. Débloqué par une photographie du marché ou une illustration attachée à sa page (règle 125).
+- Orléans, marchés Turbat (jeudi 7h30-12h30, maraîchers en bio ou en raisonnée selon la Ville), Dunois (jeudi
+  15h-19h30), Münster (mercredi 7h30-12h30, une vingtaine de commerçants) et du centre-ville (mercredi 15h-19h30,
+  place de la République, principalement des producteurs locaux) : même situation. Pour le marché du centre-ville,
+  une ferme maraîchère bio du Loiret déclare la place de la République comme lieu de vente au registre de
+  l'Agence Bio ; son propre site n'a pas été ouvert (règle 122).
+- Orléans, marchés de La Source (jeudi mixte, samedi exclusivement alimentaire, place Albert-Camus), de l'Argonne
+  (vendredi, mixte) et des Blossières (mardi, mixte) : photographies de banque d'images seulement ; pour les marchés
+  mixtes, composition à lire au titre des règles 119 et 120. L'office fiche aussi un marché de la Bascule à
+  Saint-Marceau que la page de la Ville ne cite pas : non instruit.
+- Orléans, Halles Châtelet (halles alimentaires du mardi au samedi 8h-19h30, dimanche 8h-13h, concordants entre la
+  Ville et le site des Halles) : toutes les photographies publiées par les Halles montrent des visages
+  reconnaissables ou des enseignes formées de noms de personnes, et une grande part des commerces s'y présentent
+  sous un nom patronymique ; l'office illustre sa fiche d'une image Pexels. Débloqué par une photographie de la
+  halle sans visage ni enseigne nominative.
+- Orléans, épicerie en vrac certifiée de la place Louis-XI : règle 86, liste de producteurs non recherchée.
+- Orléans Métropole, AMAP de l'Orléanais : siège à Orléans, distributions à Chanteau et à Saint-Jean-de-Braye.
+  Non instruite.
+- Orléans Métropole, producteurs fichés par l'office avec des horaires de vente sur place : Saint-Pryvé-Saint-Mesmin
+  (deux maraîchers), Saint-Jean-de-Braye (ferme bio avec cueillette), Saint-Cyr-en-Val (serres bio), Olivet (vergers
+  et maraîchage), Chécy (maraîchage bio). Plusieurs fiches de l'office sont titrées d'un nom de personne et
+  seraient à publier sous leur seule enseigne, ou pas du tout (règle 36). Non instruits.
+- **Communes suivantes du 45** : Olivet (23 507 habitants), puis Saint-Jean-de-Braye et Fleury-les-Aubrais.
 
 ### Pistes non publiées à Vitry-sur-Seine et à Cachan
 

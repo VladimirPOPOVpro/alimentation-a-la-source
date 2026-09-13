@@ -12746,5 +12746,147 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Cachan+avenue+Léon+Eyrolles",
     "image_url": "/images/marchands/marche-de-cachan.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-quai-du-roi-orleans",
+    "nom": "Marché du Quai du Roi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.899612,
+    "lon": 1.924851,
+    "adresse": "Quai du Roi, 45000 Orléans",
+    "horaires": "Samedi de 7h30 à 12h30, le long de la Loire entre le pont Thinat et le Cabinet Vert, d'après la Ville et l'office de tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes et volailles",
+      "Produits laitiers",
+      "Plats de traiteurs",
+      "Produits du terroir et spécialités régionales",
+      "Fraises, cerises, rhubarbe et salades (étal photographié par l'office de tourisme)"
+    ],
+    "description": "Marché alimentaire du samedi matin sur la promenade des bords de Loire, sous un abri aménagé pour lui : la Ville y compte une centaine de commerçants, y a installé un kiosque où l'on peut goûter des produits du terroir, et rappelle qu'il a été finaliste du concours du plus beau marché de France en 2018. La Ville ne publie pas la liste des étals ; la dernière ligne des produits vient de la photographie que l'office de tourisme attache à ce seul marché.",
+    "telephone": "02 38 79 23 58",
+    "site_web": "https://www.orleans.fr/demarches-et-services/commerce/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quai+du+Roi+Orléans",
+    "image_url": "/images/marchands/marche-du-quai-du-roi-orleans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-nocturne-du-martroi-orleans",
+    "nom": "Marché nocturne du Martroi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.902476,
+    "lon": 1.904469,
+    "adresse": "Place du Martroi, 45000 Orléans",
+    "horaires": "Vendredi de 16h à 21h d'après la page des marchés de la Ville ; l'office de tourisme et la plateforme du gestionnaire des marchés annoncent une fin à 21h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Viande",
+      "Escargots",
+      "Boulangerie bio au levain",
+      "Fromagerie-crèmerie",
+      "Fruits secs et olives",
+      "Bières artisanales et poisson",
+      "Plats de traiteurs : cuisine créole, asiatique, espagnole"
+    ],
+    "description": "Marché alimentaire de fin de semaine sur la place de la statue de Jeanne d'Arc, que la Ville présente comme un marché nocturne où l'on fait ses courses et où l'on achète aussi des plats préparés. La liste des métiers est celle de la Ville ; l'étal de fruits de la photographie que l'office de tourisme attache à ce marché porte des étiquettes Agriculture biologique, ce qui ne vaut pas pour tout le marché.",
+    "telephone": "02 38 79 23 58",
+    "site_web": "https://www.orleans.fr/demarches-et-services/commerce/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Martroi+Orléans",
+    "image_url": "/images/marchands/marche-nocturne-du-martroi-orleans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "solembio-jardin-de-cocagne-orleans",
+    "nom": "Solembio – Jardin de Cocagne d'Orléans",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.86483,
+    "lon": 1.929792,
+    "adresse": "132 ter rue des Montées, 45100 Orléans",
+    "horaires": "Paniers de légumes sur abonnement hebdomadaire, à retirer au jardin le jeudi et le vendredi de 10h à 18h30, ou dans l'un des points de retrait de l'agglomération. L'association annonce aussi une boutique au jardin mais n'en publie pas les horaires : téléphoner avant de venir sans abonnement.",
+    "produits": [
+      "Paniers de légumes bio sur abonnement (petit, maraîcher, familial)",
+      "Légumes et fruits de saison du jardin",
+      "Œufs de poules élevées en plein air, en complément de panier",
+      "Plants potagers, lors de la fête des plants du printemps",
+      "Produits de partenaires locaux, à la boutique"
+    ],
+    "description": "Chantier d'insertion par le maraîchage biologique, géré par une association créée en 2006 et installée depuis décembre 2010 dans la zone d'activité des Montées : une soixantaine de personnes accompagnées vers l'emploi chaque année, 7 hectares dont 6 500 m² de serres, environ 150 variétés récoltées. La production est engagée en agriculture biologique chez Ecocert depuis 2007 ; des paniers solidaires sont destinés à des personnes en précarité.",
+    "telephone": "02 38 86 50 26",
+    "site_web": "https://solembio.cocagnebio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=132+ter+rue+des+Montées+Orléans",
+    "image_url": "/images/marchands/solembio-jardin-de-cocagne-orleans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-urbaine-9ter-orleans",
+    "nom": "La Ferme urbaine 9TER",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.926011,
+    "lon": 1.931749,
+    "adresse": "9 ter rue du Coin Rond, 45000 Orléans",
+    "horaires": "Boutique : mardi et mercredi de 15h30 à 19h ; jeudi et vendredi de 10h à 13h et de 15h30 à 19h ; samedi de 10h à 13h ; fermée le dimanche et le lundi. Commande possible sur le site, avec retrait à la boutique.",
+    "produits": [
+      "Légumes : betterave, carottes en botte, navet, poivrons, tomates et tomates cerises",
+      "Aromates en botte : estragon, romarin, thym",
+      "Pommes Jonagored et Reine des Reinettes, raisin blanc, noix",
+      "Œufs et crèmerie",
+      "Viandes",
+      "Pain",
+      "Épicerie et boissons"
+    ],
+    "description": "Ferme maraîchère urbaine créée en 2017 sur 5 000 m² d'une ancienne exploitation du quartier de la Barrière Saint-Marc, dans un îlot agricole que ses fondateurs veulent préserver de l'urbanisation. L'exploitation est engagée en agriculture biologique chez Ecocert depuis avril 2017 ; la boutique vend aussi les produits de confrères, dont la certification n'a pas été vérifiée. Les fruits et légumes cités sont ceux de la boutique en ligne au 13 septembre 2026.",
+    "telephone": "09 72 62 18 32",
+    "site_web": "https://laboutique.9ter.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9+ter+rue+du+Coin+Rond+Orléans",
+    "image_url": "/images/marchands/ferme-urbaine-9ter-orleans.jpg"
+  },
+  {
+    "slug": "au-bon-endroit-zou-la-galinette-saint-cyr-en-val",
+    "nom": "Au Bon Endroit – Ferme Zou la Galinette",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.856267,
+    "lon": 1.946939,
+    "adresse": "443 rue du Parc Floral, lieu-dit la Patte d'Oie, 45590 Saint-Cyr-en-Val",
+    "horaires": "Magasin paysan : mardi de 15h à 19h30, vendredi de 13h à 19h30, samedi de 10h à 12h. Paniers sur mesure et drive à commander sur le site.",
+    "produits": [
+      "Légumes de plein champ de la ferme : carottes orange et de couleur, pommes de terre, oignons, betteraves",
+      "Potimarrons, butternuts, courgettes, tomates anciennes, fenouil",
+      "Lentilles et haricots rouges",
+      "Fruits, jus, miels et confitures",
+      "Œufs, poulet et fromages de chèvre en saison",
+      "Farines, légumineuses et céréales en vrac",
+      "Bières et cidre"
+    ],
+    "description": "Magasin paysan installé dans un bâtiment de la ferme de la Patte d'Oie, à quelques minutes du Parc Floral de La Source : une exploitation familiale en maraîchage biologique y vend ses légumes de plein champ et les produits d'autres producteurs. L'exploitation est engagée en agriculture biologique chez Ecocert depuis juillet 2015, avec une activité de détaillant sur le certificat ; la certification des produits des autres producteurs n'a pas été vérifiée.",
+    "telephone": "07 68 13 92 48",
+    "site_web": "https://zou-lagalinette.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=443+rue+du+Parc+Floral+Saint-Cyr-en-Val",
+    "image_url": "/images/marchands/au-bon-endroit-zou-la-galinette-saint-cyr-en-val.jpg"
   }
 ]
