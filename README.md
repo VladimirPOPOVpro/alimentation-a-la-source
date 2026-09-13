@@ -1690,9 +1690,43 @@ prioritaires en cas de conflit.
      affiche encore. Sans reprise par la commune, les deux valeurs sortent, la fin la plus tôt en avant
      (règles 78 et 80).
 
+134. **Un producteur qui vend uniquement sur commande et ne publie que la commune de sa distribution se
+     cartographie à l'adresse de son exploitation, à la condition que la fiche oblige à commander avant de se
+     déplacer.** La Clef des Sols, maraîchage de Vitry-sur-Seine, publie chaque semaine sa récolte, ses prix
+     et un formulaire de commande, puis écrit « récolte et distribution vendredi : entre 18h et 18h30 à Vitry,
+     puis entre 19h30 et 20h à Cachan » — sans jamais nommer le lieu vitriot. La passe du Val-de-Marne avait
+     laissé la piste en attente de ce lieu. La règle 84 demande une adresse, des créneaux et un moyen de
+     commander ; les deux derniers sont là, l'adresse manque au sens strict. **Tranché ainsi**, trois
+     conditions cumulatives : la vente ne se fait **que** sur commande, par un moyen que le producteur publie
+     lui-même ; la commune de distribution qu'il nomme est celle de son exploitation, que le registre des
+     entreprises et celui de l'Agence Bio situent à une adresse précise ; le champ `horaires` commence par
+     « Pas de magasin », dit que le lieu exact de distribution n'est pas publié et qu'il faut commander avant de
+     se déplacer. Le point est alors celui de l'exploitation, la fiche passe en `a_confirmer`. Personne n'est
+     envoyé devant un portail : on ne peut pas acheter sans avoir commandé, et la commande établit le contact
+     — c'est le raisonnement de la règle 118, « un retrait sur commande, où l'exploitant indique le chemin ».
+     Indice consigné, qui ne suffirait pas seul : en 2015, le producteur écrivait à ses premiers clients
+     qu'ils venaient « s'approvisionner à la clef des sols ». Sans vente exclusivement sur commande — un étal
+     libre, un marché —, un lieu non publié reste un motif de ne pas publier.
+
+135. **Une page qui place une photographie sans légende dans la rubrique de chaque lieu attribue ces
+     photographies par sa mise en page, si un témoin de la même page fixe le sens de lecture et qu'un indice
+     visible le confirme.** La page « Les marchés » de la Maison du tourisme de Vitry-sur-Seine présente trois
+     rubriques — marché du Centre-ville, marché du 8-Mai-1945, marché de Noël — et trois photographies sans
+     légende ni texte alternatif, dont les noms de fichier (`marche-3`, `marche-1`, `marche-4`) ne disent rien.
+     Dans le code, chaque image précède le titre d'une rubrique. La règle 88 interdit de lire une photographie
+     qui sert plusieurs fiches ; ici chacune ne sert qu'une fois, mais on ne sait pas encore à laquelle.
+     **Tranché ainsi** : l'attribution par la mise en page vaut quand une des photographies est
+     indiscutable et fixe le sens — les chalets de bois décorés ne peuvent montrer que le marché de Noël, et
+     cette image précède bien le titre « Marché de Noël » — et qu'un indice visible confirme chaque autre
+     attribution — l'étal sous bâche de plein air va à la place du Marché, l'étal sous charpente de halle au
+     8-Mai-1945. Sans photographie témoin, ou si un indice contredit l'ordre, aucune n'est attribuée et la
+     règle 1 reprend. Ce qui est attribué nourrit `produits` au titre de la règle 91, et la description dit
+     de quelle photographie vient la ligne. C'est la sœur de la règle 128, qui départageait un nom de fichier
+     et un EXIF : ici ni l'un ni l'autre ne parle, c'est la page qui le fait.
+
 ## Marchands à confirmer
 
-441 fiches sur 476 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+446 fiches sur 481 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2157,7 +2191,12 @@ prioritaires en cas de conflit.
 - **AMAP Pautiron** (Pau) (catégorie et piliers des AMAP, sans `environnement` : les mentions bio sont celles de l'AMAP et aucun certificat de producteur n'a été retrouvé sous une enseigne (règle 60) ; la seule exploitation que le site désigne par une enseigne n'est pas citée, son actualité nommant ses exploitants par leur prénom. **Horaires** : site de l'AMAP et fiche de l'office, 18h15-19h et 18h30-19h en vacances scolaires, concordants ; la liste des AMAP du Béarn éditée par le réseau pour 2025 écrit 18h-19h, citée (règle 104). **Produits** : page « Prix » du site, sans nom de producteur. Adresse électronique de l'AMAP non reprise. **Site** : `pautiron.amap-bearn.fr` nomme la MJC et l'adresse (règle 56). **Point** : 19 bis avenue de Buros à la Base Adresse Nationale (0,809) ; le marqueur de la carte du site tombe à 16 m, celui de l'office à 28 m. **Photo** : panier de fromages, œufs, pain et légumes, publié sous le crédit de l'AMAP sur la fiche de l'office de tourisme, sans personne, 1 440 px réduits à 1 280)
 - **Marché bio de Billère** (Billère, agglomération de Pau) (catégorie des marchés ; **pilier `environnement` par les règles 49, 54 et 132, née ici** : « Marché bio » est l'un des deux intitulés de la liste des marchés de la Ville, l'autre marché ne le porte pas. **Horaires** : page « Les marchés de Billère » de la Ville, mercredi et samedi 8h-12h30 ; un résumé de moteur de recherche donnait 7h30-12h30, qu'aucune page consultable ne porte : non repris. **Produits** : liste que la Ville et l'office de tourisme publient mot pour mot pour ce marché, sans liste d'exposants. **Point** : 31 route de Bayonne à la Base Adresse Nationale (0,968), adresse du point d'intérêt de la Ville ; le marqueur de l'office tombe à 9 m de la route de Bayonne. **Photo** : la halle en bois, publiée par l'office pour cette fiche, sans personne ; bordure blanche retirée, 1 200 × 634. La photographie que la Ville met en tête de sa page des marchés montre la halle un jour de marché, mais plusieurs visages y sont identifiables et le seul recadrage sans visage tombe sous 600 px (règle 70))
 - **Marché de Bizanos** (Bizanos, agglomération de Pau) (catégorie et piliers des marchés. **Jour, heures et lieu** : actualité de la page d'accueil de la Ville, « Le marché de Bizanos retrouve sa place ! », qui annonce le retour place de la Mairie à partir du jeudi 17 septembre 2026 ; la prochaine séance après la passe est donc la première à ce nouvel emplacement, et la fiche le situe là (règle 107). Les artistes et intervenants nommés dans cette actualité ne sont pas repris. **Produits, règle 119** : métiers de la même actualité, sans décompte ; les stands non alimentaires sont dits dans la description. **Point, règle 64** : la Base Adresse Nationale ne connaît ni la place de la Victoire ni la place de la Mairie, seulement la rue de la Mairie et la rue de la Victoire ; le marqueur que l'office de tourisme publie pour le marché se retourne sur le 6 rue de la Victoire à 20 m, et tombe à 62 m du centre de la rue de la Mairie. **Photo** : vue aérienne du marché installé devant la mairie, publiée par l'office pour cette fiche ; personnages lointains, aucun visage identifiable ; 1 645 px réduits à 1 280)
-Les 476 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Marché du Centre-ville de Vitry-sur-Seine** (Vitry-sur-Seine) (catégorie et piliers des marchés. **Jours, règle 9** : page « Les marchés de Vitry-sur-Seine » de la Ville (mise à jour le 4 juillet 2025) et Maison du tourisme de Vitry, concordantes : mercredi et samedi « jusqu'à 13h », sans heure de début. **Règle 119** : la Ville annonce des stands alimentaires et vestimentaires sans en publier le décompte ; la règle 9 s'applique telle quelle et la description le dit. **Point, règle 50** : la Base Adresse Nationale ne connaît pas la « place du Marché » (meilleure réponse : rue de la Marne à 0,586) ; OpenStreetMap porte cette place avec pour autre nom « Place Jean Martin », et un annuaire tiers de marchés intitule celui du mercredi et du samedi « Marché Jean Martin » ; la Base connaît la place Jean-Martin à 0,968, à **107 m** du centre de la place du Marché d'OpenStreetMap : c'est ce point qui est publié, l'adresse porte les deux noms. **Téléphone** : 01 46 82 82 15, publié par la Ville sur les fiches d'équipement de ses deux marchés, distinct du standard. **Photo, règle 135, née ici** : rubrique « Marché du Centre-ville » de la page de la Maison du tourisme, étal de poissonnerie et de traiteur sous bâche ; recadrée sur l'étal pour écarter la commerçante et des clientes reconnaissables, 760 × 399, rien d'agrandi ; la ligne « Poissons et crustacés » en vient)
+- **Marché du 8-Mai-1945** (Vitry-sur-Seine) (catégorie et piliers des marchés. **Jours, règle 9** : Ville et Maison du tourisme, concordantes : mardi, jeudi et dimanche « jusqu'à 13h ». **Produits** : « produits frais à petits prix » de la Ville, « produits frais à bon marché » de la Maison du tourisme ; « fruits et légumes » d'après l'étal de la photographie que la Ville attache à sa seule page d'inauguration (règle 91) et l'enseigne « Fruits et légumes » lisible au-dessus d'une allée sur la photographie d'inauguration de la halle rénovée, en octobre 2025. **Travaux** : halle rénovée de juin à septembre 2025, inaugurée le 12 octobre 2025 devant l'entrée du 45 rue Ampère. **Point** : 9 avenue du 8-Mai-1945 à la Base Adresse Nationale (0,967), adresse de la fiche d'équipement ; le bâtiment de marché d'OpenStreetMap est à une cinquantaine de mètres. **Photo** : fichier `22-09-12-marche-du-8-mai`, étal de fruits photographié par la Ville en septembre 2022, avant les travaux ; recadré pour écarter le commerçant, deux clients et des passants reconnaissables, 1 070 × 590, rien d'agrandi. La Maison du tourisme publie aussi une photographie de la halle (règle 135) ; celle de la Ville, nommée d'après le marché, a été préférée)
+- **La Clef des Sols** (Vitry-sur-Seine) (catégorie `ferme`, maraîchage. **Registre** : EARL active, établissement ouvert au 65 rue Watteau, code 01.13Z. **Pilier `environnement`** : engagement Certipaq Bio du 11 juillet 2014, jamais arrêté, productions déclarées « légumes frais sous abris » et « plein champ » (règle 39), vente aux particuliers déclarée. **Horaires et point, règle 134, née ici** : la vente se fait uniquement sur commande et le lieu de la distribution vitriote n'est pas publié ; point de la Base Adresse Nationale sur le 65 rue Watteau (0,975), à 3 m du point du registre de l'Agence Bio. **Produits** : récolte du vendredi 11 septembre 2026 publiée sur le site ; la gamme change chaque semaine. **Site** : `laclefdessols.blog`, déclaré site officiel au registre de l'Agence Bio, nomme la commune (règle 56). Le site est signé du nom de l'exploitante : seule l'enseigne est reprise. **Photo** : allée d'un tunnel de tomates publiée par le producteur le 13 juillet 2026, sans personne, 800 px)
+- **AMAP K'Champs** (Cachan) (catégorie et piliers des AMAP, sans `environnement` (règle 60) : seul le maraîcher du mardi a un certificat vérifié. **Registre, règle 6** : association, non concernée. **Horaires, règle 104** : 19h15-20h sur la page des distributions et le résumé des contrats de l'AMAP ; 19h-20h dans l'annuaire des associations de la Ville, cité. **Produits** : résumé des contrats du site ; seuls les producteurs désignés par une enseigne qui n'est pas un patronyme sont nommés (règles 36 et 131) — le site désigne les autres par le prénom ou le nom de leurs exploitants, qui ne sont pas repris, et le verger partenaire change de mains et de nom en 2026. **Contact** : l'annuaire de la Ville donne le nom et le portable d'une personne, non repris. **Site** : `kchamps.fr` nomme Cachan et l'adresse (règle 56). **Point** : 9 rue Amédée-Picard à la Base Adresse Nationale (0,962). **Photo, règle 1** : bandeau de la page d'accueil de l'AMAP, tunnels de maraîchage et poulailler d'une exploitation partenaire, sans personne, 2 016 px réduits à 1 280 ; elle ne montre pas le lieu de distribution et la fiche le dit. Les autres images du site sont surtout des portraits d'adhérents et de producteurs, écartés)
+- **Marché de Cachan** (Cachan) (catégorie et piliers des marchés. **Registre, règle 106** : marché municipal. **Horaires, règle 44** : la fiche d'équipement de la Ville donne mercredi et samedi 8h-13h, fermé les mercredis d'août ; l'encadré de la page « Marché de Cachan », mise à jour le 11 septembre 2026, ne donne que le samedi, mais son propre texte annonce une fermeture « mercredi 24 juin » et un stand éphémère « chaque mercredi et samedi matin » : la valeur corroborée est publiée, l'écart est écrit dans la fiche. **Produits, règle 89 transposée** : la Ville publie la liste des trente-cinq commerçants par métier ; la plupart sont désignés par le nom d'une personne, et aucune enseigne n'est reprise — seuls les métiers le sont. **Point** : 1 avenue Léon-Eyrolles à la Base Adresse Nationale (0,958), adresse de l'agenda de la Ville ; le point de la fiche d'équipement se retourne sur l'avenue à 10 m, à 52 m du numéro. **Photo** : barquettes de prunes, première des cinq photographies de la page du marché, empreintes toutes distinctes, sans visage identifiable, 820 px ; les crédits nominatifs des photographes ne sont pas repris)
+Les 481 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2185,6 +2224,77 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Vitry-sur-Seine et à Cachan
+
+Département visé : le **Val-de-Marne (94)**, déficit **4,8505** au titre de la règle 41 avec 476 fiches publiées
+et 5 dans le département, toutes à Créteil. La Réunion (6,1417) reste écartée par la règle 93. La passe
+précédente visait les Pyrénées-Atlantiques, en Nouvelle-Aquitaine ; le Val-de-Marne est en Île-de-France, la
+réserve de la règle 41.c ne joue pas. Les cinq fiches ramènent le déficit du 94 à environ **−0,05**. Suivants
+du classement après cette passe : le Loiret (4,8221), l'Ain (4,7389), la Charente-Maritime (4,6897) ; Paris
+(4,6755) est en Île-de-France et ne peut pas faire la passe suivante.
+
+**Commune** : **Vitry-sur-Seine** (93 963 habitants), la plus peuplée du département sans aucune fiche. La
+treizième passe en ville l'avait quittée pour Créteil avec trois pistes en attente ; elle rend cette fois
+**trois fiches entières, image comprise** : ses deux marchés, dont la Maison du tourisme de Vitry publie des
+photographies que la passe précédente n'avait pas trouvées (règle 135), et La Clef des Sols, débloquée par la
+règle 134. Au titre des règles 96 et 127, le groupe se complète dans l'établissement public territorial
+Grand-Orly Seine Bièvre, sur une seule commune : **Cachan**, dont le marché et l'AMAP sont à 300 m l'un de
+l'autre et à moins de 5 km du marché du Centre-ville de Vitry. Distance maximale entre deux fiches : 5,3 km,
+entre le marché du 8-Mai-1945 et le marché de Cachan.
+
+**Les sources qui ont fait la passe** : le site de la Ville de Vitry-sur-Seine (page des marchés, fiches
+d'équipement, articles sur la rénovation de la halle du 8-Mai-1945) ; la page « Les marchés » de la Maison du
+tourisme et des projets de Vitry ; le site de La Clef des Sols ; le site de l'AMAP K'Champs ; le site de la
+Ville de Cachan (page du marché, fiche d'équipement, agenda, annuaire des associations) ; le site de la Ville
+d'Ivry-sur-Seine ; le comité départemental du tourisme du Val-de-Marne ; le registre de l'Agence Bio, **883**
+opérateurs lus sur le département ; le registre des entreprises ; la Base Adresse Nationale ; OpenStreetMap,
+par l'API Overpass, pour l'autre nom de la place du Marché. Aucun `robots.txt` rencontré n'interdit le robot
+(règle 77). Ces sources nomment des élus, des commerçants, des exploitants, des adhérents, des bénévoles et
+des photographes : aucun nom n'est repris, et les images publiées ont été réenregistrées sans métadonnées.
+
+**Contradictions tranchées** :
+
+- Marché de Cachan : mercredi et samedi sur la fiche d'équipement, samedi seul dans l'encadré de la page du
+  marché, qui cite pourtant le mercredi deux fois dans son texte ; règle 44, voir la fiche.
+- AMAP K'Champs : 19h15-20h sur son site, 19h-20h dans l'annuaire de la Ville ; règle 104.
+- Marché du Centre-ville : place inconnue de la Base Adresse Nationale, résolue par la place Jean-Martin
+  (règle 50).
+- Photographies de la Maison du tourisme de Vitry sans légende : règle 135, née ici. La Clef des Sols : lieu de
+  distribution non publié, règle 134, née ici.
+
+**Restent à instruire, pour une passe suivante :**
+
+- Vitry-sur-Seine, épicerie bio et vrac de l'avenue de l'Abbé-Roger-Derry : société active au registre,
+  horaires et paniers sur commande publiés sur son site ; ni la page d'accueil ni la page de commande ne nomment
+  un seul producteur, et l'épicerie n'apparaît pas au registre de l'Agence Bio pour Vitry. Règle 86 ; débloquée
+  par une liste de producteurs publiée.
+- Vitry-sur-Seine, épicerie-restaurant de la rue Charles-Fourier, au Port-à-l'Anglais : société active, vend le
+  pain d'une association de quartier selon un article de la Ville de 2023. Non instruite.
+- Vitry-sur-Seine, ferme maraîchère de l'avenue Lemerle-Vetter : la Ville écrit encore, dans son article
+  d'inauguration de septembre 2025 et sur sa page « agriculture urbaine », que les produits « seront »
+  vendus. Règle 57, inchangée ; non réinstruite au-delà des pages de la Ville.
+- Vitry-sur-Seine, marché du Plateau-Moulin-Vert (rue Lebrun, dimanche 8h-13h) : connu par un article de la Ville
+  de septembre 2022 ; la page des marchés de 2025 ne cite plus que deux marchés. Non publié.
+- Vitry-sur-Seine, brasserie artisanale : production au domicile du brasseur selon le comité départemental du
+  tourisme, vente chez des cavistes et des restaurants, aucun point de vente propre. Hors périmètre en l'état.
+- Vitry-sur-Seine, épicerie solidaire de paniers de fruits et légumes du lundi : réservée aux locataires de
+  trois bailleurs du quartier Commune-de-Paris, produits principalement issus d'invendus du marché de Rungis.
+  Hors sujet.
+- Ivry-sur-Seine, les quatre marchés de la Ville (page mise à jour le 16 juin 2026) : le marché du Centre-ville
+  compte une quarantaine de commerçants alimentaires contre plus d'une cinquantaine non alimentaires, sans
+  secteur réglementé à part — règle 119, non publié. Les marchés Barbusse (halle, samedi 8h-12h45, six étals
+  alimentaires), du Petit-Ivry (place Jean-Ferrat, dimanche 8h-12h45) et d'Ivry-Port (pelouse Gambetta,
+  samedi 8h-14h, dont un primeur bio) sont solides sur les faits, mais la Ville ne les illustre que par des
+  gravures colorées, attachées à des pages d'événements et non aux marchés. Débloqués par une photographie ou
+  par une illustration attachée à la page du marché lui-même (règle 125).
+- Cachan, marché paysan solidaire du collectif alimentation et agriculture durables : produits d'une ferme bio
+  d'Île-de-France à trois tarifs, mais une date par mois et un lieu qui change d'une édition à l'autre. Pas de
+  fiche fixe possible.
+- Villejuif (marché du Centre Eugène-Varlin, mercredi et samedi 8h-13h selon la Ville) et Choisy-le-Roi (marché
+  du Centre, marché du soir, marché des Gondoles ; paniers bio d'une association en insertion) : non instruits.
+- **Communes suivantes du 94** : Champigny-sur-Marne (78 072 habitants), puis Saint-Maur-des-Fossés et
+  Ivry-sur-Seine.
 
 ### Pistes non publiées à Pau et dans l'agglomération paloise
 

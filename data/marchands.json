@@ -12612,5 +12612,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20la%20Mairie%2C%2064320%20Bizanos",
     "image_url": "/images/marchands/marche-de-bizanos.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-vitry-sur-seine",
+    "nom": "Marché du Centre-ville de Vitry-sur-Seine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.792021,
+    "lon": 2.395578,
+    "adresse": "Place du Marché (place Jean-Martin), 94400 Vitry-sur-Seine",
+    "horaires": "Mercredi et samedi matin, jusqu'à 13h ; ni la Ville ni la Maison du tourisme ne publient d'heure d'ouverture",
+    "produits": [
+      "Produits frais",
+      "Plats du monde entier, dont des plats créoles",
+      "Poissons et crustacés"
+    ],
+    "description": "Marché de plein air de la place du Marché, que la Ville présente comme l'un des plus grands du Val-de-Marne : stands alimentaires et stands de vêtements s'y côtoient. La Ville ne publie ni la liste ni le nombre des étals ; l'étal de poissons et de crustacés est celui de la photographie que la Maison du tourisme de Vitry attache à ce marché.",
+    "telephone": "01 46 82 82 15",
+    "site_web": "https://www.vitry94.fr/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Marché+Vitry-sur-Seine",
+    "image_url": "/images/marchands/marche-du-centre-ville-vitry-sur-seine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-8-mai-1945-vitry-sur-seine",
+    "nom": "Marché du 8-Mai-1945",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.784312,
+    "lon": 2.397908,
+    "adresse": "9 avenue du 8-Mai-1945, 94400 Vitry-sur-Seine",
+    "horaires": "Mardi, jeudi et dimanche matin, jusqu'à 13h ; la Ville ne publie pas d'heure d'ouverture",
+    "produits": [
+      "Produits frais à petits prix",
+      "Fruits et légumes"
+    ],
+    "description": "Marché couvert du quartier du 8-Mai-1945, dont la halle a été rénovée de juin à septembre 2025 et inaugurée le 12 octobre 2025 : entrée habillée de bois, allée centrale, enseigne pour chaque commerçant. Des marchands « volants » s'installent aussi à l'extérieur. La Ville ne publie pas la liste des étals ; la photographie de l'étal de fruits, qu'elle attache à la page de l'inauguration, date de 2022, avant les travaux.",
+    "telephone": "01 46 82 82 15",
+    "site_web": "https://www.vitry94.fr/equipements/marche-du-8-mai-1945/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+8+Mai+1945+Vitry-sur-Seine",
+    "image_url": "/images/marchands/marche-du-8-mai-1945-vitry-sur-seine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-clef-des-sols-vitry-sur-seine",
+    "nom": "La Clef des Sols",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.776041,
+    "lon": 2.391993,
+    "adresse": "65 rue Watteau, 94400 Vitry-sur-Seine",
+    "horaires": "Pas de magasin : vente sur commande uniquement. Commandes jusqu'au jeudi 20h par le formulaire de la page « Récoltes du moment » du site ; récolte et distribution le vendredi entre 18h et 18h30 à Vitry, puis entre 19h30 et 20h à Cachan. Le lieu exact de la distribution n'est pas publié : il faut commander avant de se déplacer (65 rue Watteau est l'adresse de l'exploitation). Choix réduit au premier semestre.",
+    "produits": [
+      "Tomates anciennes et tomates cerises",
+      "Aubergines",
+      "Bettes et concombres",
+      "Aromates : basilic, menthe, origan, romarin, sarriette, sauge, thym",
+      "Figues d'automne et prunes mirabelles",
+      "Cerises de terre (physalis)"
+    ],
+    "description": "Maraîchage installé au printemps 2014 sur un site horticole du plateau de Vitry, travaillé surtout à la main, avec des variétés paysannes et des plants produits sur place. L'exploitation est engagée en agriculture biologique chez Certipaq depuis juillet 2014, fournit l'AMAP K'Champs de Cachan depuis 2015 et publie chaque semaine sa récolte avec les prix — les produits cités sont ceux de la récolte du 11 septembre 2026.",
+    "site_web": "https://laclefdessols.blog/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=65+rue+Watteau+Vitry-sur-Seine",
+    "image_url": "/images/marchands/la-clef-des-sols-vitry-sur-seine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-k-champs-cachan",
+    "nom": "AMAP K'Champs",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.793139,
+    "lon": 2.33153,
+    "adresse": "Maison des associations, 9 rue Amédée-Picard, 94230 Cachan",
+    "horaires": "Distributions le mardi et le jeudi de 19h15 à 20h d'après le site de l'AMAP (19h à 20h dans l'annuaire des associations de la Ville). Paniers réservés aux adhérents, par contrat avec chaque producteur : légumes chaque semaine, les autres produits selon le calendrier de chaque contrat.",
+    "produits": [
+      "Légumes de saison (La Clef des Sols, Vitry-sur-Seine, le mardi ; Les Bordes de Milly, le jeudi)",
+      "Œufs",
+      "Poulets (L'Orée de Milly)",
+      "Produits laitiers de vache (La Fromentellerie, Pécy)",
+      "Fromages de brebis",
+      "Pain et farine (La Budinerie)",
+      "Pommes, poires, fruits rouges et prunes d'un verger partenaire",
+      "Micro-pousses"
+    ],
+    "description": "AMAP créée à Cachan en décembre 2009 : les adhérents s'engagent par contrat de saison directement auprès de chaque producteur et assurent eux-mêmes les distributions. Les légumes du mardi viennent de La Clef des Sols, maraîchage de Vitry-sur-Seine engagé en agriculture biologique ; les certificats des autres producteurs n'ont pas été vérifiés, d'où l'absence du pilier environnement. La photo, en bandeau du site de l'AMAP, montre une exploitation partenaire et non le lieu de distribution.",
+    "site_web": "https://www.kchamps.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9+rue+Amédée+Picard+Cachan",
+    "image_url": "/images/marchands/amap-k-champs-cachan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-cachan",
+    "nom": "Marché de Cachan",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.79579,
+    "lon": 2.328128,
+    "adresse": "1 avenue Léon-Eyrolles, 94230 Cachan",
+    "horaires": "Mercredi et samedi de 8h à 13h, fermé tous les mercredis du mois d'août, d'après la fiche d'équipement de la Ville. L'encadré de la page « Marché de Cachan » ne cite que le samedi, mais la même page parle du stand éphémère du mercredi et d'une fermeture un mercredi de juin.",
+    "produits": [
+      "Fruits et légumes, dont un étal bio et des maraîchers",
+      "Boucherie et volailles",
+      "Poissonnerie",
+      "Fromages, dont fromages de chèvre",
+      "Boulangerie",
+      "Charcuterie",
+      "Épicerie italienne, olives et fruits secs",
+      "Fleurs"
+    ],
+    "description": "Marché couvert géré par la Ville avec un prestataire, dans une halle voisine de la gare RER Arcueil-Cachan : trente-cinq commerçants, dont certains proposent des produits de l'agriculture biologique selon la Ville, qui en publie la liste par métier. Devant la halle, des commerçants de passage vendent des plats à emporter et des produits manufacturés ; un stand éphémère réfrigéré accueille des traiteurs différents au fil des semaines.",
+    "site_web": "https://ville-cachan.fr/marche-de-cachan/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Cachan+avenue+Léon+Eyrolles",
+    "image_url": "/images/marchands/marche-de-cachan.jpg",
+    "a_confirmer": true
   }
 ]
