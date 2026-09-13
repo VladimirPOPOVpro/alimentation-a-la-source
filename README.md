@@ -1660,9 +1660,39 @@ prioritaires en cas de conflit.
      la règle 97. Les autres producteurs du marché ne sont ni nommés ni comptés. Si aucun producteur
      publiable n'est rattaché, `produits` retombe sur la règle 103.
 
+132. **Sur une commune qui ne tient que deux marchés, l'intitulé « bio » de l'un d'eux reste une classification
+     au sens des règles 49 et 54.** La Ville de Billère publie la liste de ses marchés sous deux titres,
+     « Marché de la place Jules Gois » et « Marché bio », et donne au second un point d'intérêt, une adresse
+     et des horaires propres — la forme exacte que la règle 54 désignait comme déblocage à partir du
+     « Marché biologique » de Boulogne-Billancourt. La règle 49 mesure pourtant la classification à sa
+     sélectivité, et un marché sur deux ne trie pas grand-chose ; la tentation était de fixer un nombre
+     minimal de marchés sous lequel l'intitulé ne vaudrait plus rien. Elle a été écartée : Boulogne-Billancourt
+     a reçu le pilier pour un marché sur trois, et un seuil tiré de ce seul précédent serait un chiffre
+     inventé. **Tranché ainsi** : la sélectivité se lit sur ce que l'autorité **refuse** d'appeler bio — il
+     suffit qu'au moins un autre marché de la même commune figure dans la même liste sans cet intitulé. Une
+     commune qui n'a qu'un marché, ou qui qualifie tous les siens de bio, ne classe rien, et la règle 68
+     reprend. Deux conditions de forme restent attachées au pilier : la description dit que la Ville ne publie
+     ni liste d'exposants ni obligation de certificat, et elle ne promet pas que chaque étal soit certifié.
+     Un texte de la commune qui parle de « producteurs respectueux de l'environnement » n'ajoute ni n'ôte
+     rien : c'est l'intitulé qui classe, pas l'adjectif (règle 68).
+
+133. **Quand un arrêté municipal se contredit entre sa disposition générale et l'article qui vise un marché
+     nommé, c'est l'article nommé qui fait foi, si la page de la commune le reprend.** L'arrêté de la Ville
+     de Pau du 25 août 2026 abaisse, en son article 1er, « l'heure d'arrêt des ventes du marché Laherrère
+     de 13h30 à 13h00 », puis réécrit en article 2 l'article du règlement qui dit que « les marchés de la
+     Ville de Pau se tiennent de 8h00 à 13h30 ». Lu seul, l'article 2 contredit l'article 1er qu'il suit.
+     La règle 78 fait gagner l'acte daté sur la page non datée ; elle ne dit rien d'un acte qui ne s'accorde
+     pas avec lui-même. **Tranché ainsi** : la disposition qui nomme le marché et dont c'est l'objet déclaré
+     — le considérant de l'arrêté porte sur « l'horaire actuel de clôture du marché Laherrère » — l'emporte
+     sur la formule générale recopiée de l'ancien règlement, à la condition qu'une seconde publication de la
+     même autorité la reprenne ; ici la page « Les marchés de plein air », mise à jour le 8 septembre 2026,
+     écrit 8h-13h pour les cinq marchés. La fiche publie 13h et cite le 13h30 que l'office de tourisme
+     affiche encore. Sans reprise par la commune, les deux valeurs sortent, la fin la plus tôt en avant
+     (règles 78 et 80).
+
 ## Marchands à confirmer
 
-436 fiches sur 471 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+441 fiches sur 476 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2122,7 +2152,12 @@ prioritaires en cas de conflit.
 - **Marché du Rietz** (Arras) (catégorie et piliers des marchés. **Jour** : Ville, jeudi après-midi « Parc du Rietz » ; 14h-18h chez l'office de tourisme et chez Où acheter local, concordants. **Point, règle 64** : la Base Adresse Nationale ne connaît ni « parc » ni « place du Rietz » (meilleure réponse : rue Neuve du Rietz à 0,51, à plus de 200 m). Le marqueur de l'office se retourne sur le 66 rue Alexandre-Georges à **36 m** ; le point que la Ville publie pour son marché nocturne du Rietz du 8 octobre 2026, à 73 m de là, se retourne sur la même rue à 52 m, deux mètres au-delà du seuil : c'est le point de l'office qui est publié, et l'adresse porte les deux noms (règle 50). **Produits, règles 97 et 131** : le Verger de Souastre, arboriculteur que l'annuaire rattache à ce marché ; enseigne de lieu, établissement ouvert au registre à l'adresse que donne l'annuaire ; le nom de l'exploitant que l'annuaire imprime n'est pas repris. Son certificat bio est arrêté le 21 août 2026 sur un SIRET et engagé sur un autre à Souastre (règle 25) ; il ne donne pas `environnement` au marché (règles 60 et 68). **Photo, règle 1** : vignette de la page des marchés de la Ville, attribuée à aucun marché, recadrée sur des cagettes de pommes sans personne ; elle ne montre pas le Rietz et la fiche le dit)
 - **Marché de la place Verlaine** (Arras) (catégorie et piliers des marchés. **Jour** : Ville, dimanche matin ; 8h-13h chez l'office de tourisme, 8h-12h30 chez Où acheter local pour les stands qu'il référence — les deux sont cités, la fin la plus tôt mise en avant (règle 78). **Adresse** : « Place Paul Verlaine » à la Base Adresse Nationale (0,703), marqueur de l'office à 41 m. **Produits, règle 131, née ici** : des trois exploitations que l'annuaire rattache au marché, seule Au Jardin de l'Artois Bio et Local a une enseigne publiable — établissement ouvert à Neuville-Vitasse, engagement Ecocert depuis 2007 au registre de l'Agence Bio ; la ligne reprend sa propre fiche, « légumes et pommes bio ». Pas de pilier `environnement` pour le marché (règle 60). **Photo, règle 1** : la place réaménagée, aire de jeux et tour de logements, dans la galerie de l'inauguration publiée par la Ville en juin 2025 ; aucune personne identifiable, pas de marché ce jour-là, et la fiche le dit)
 - **Micro-brasserie L'Arras'In** (Arras) (catégorie `producteur`, règle 73 ; pilier `economie` seul, règles 14 et 15 : bières uniquement, aucune certification. **Règles 6 et 130** : établissement ouvert au 2 bis rue Désiré-Bras, code 11.05Z ; siège transféré le 17 juin 2026 vers un nouvel établissement de la commune, non cartographié. **Horaires, règle 104** : site de la brasserie, contre la fiche de l'office de tourisme qui date de la période de confinement (jeudi-samedi 10h-19h, mercredi 10h-13h et 15h30-19h). **Site** : `larrasin.fr` nomme l'adresse (règle 56). Téléphone non inscrit : l'office donne un portable que la brasserie ne publie pas ; adresse électronique non reprise. **Point** : 2bis rue Désiré-Bras à la Base Adresse Nationale (0,784 ; le « 2 » à 0,966 tombe à 7 m), point du registre à 3 m, marqueur de l'office à 10 m. **Photo** : la devanture publiée par la brasserie, enseigne lisible, personne dans le cadre)
-Les 471 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+- **Les Halles de Pau** (Pau) (catégorie et piliers des halles, comme les Halles de Nîmes ou de Merville. **Registre, règle 106** : équipement municipal, le test du registre ne s'applique pas. **Horaires** : page « Informations pratiques » de `hallesdepau.fr` ; la page de l'étal collectif sur `fermiersdubearn.fr`, datée de 2019, annonce l'étal ouvert du mardi au dimanche de 7h à 13h, la boutique en ligne de ces fermiers donne 9h-13h le dimanche : les deux sont cités (règle 5). **Produits** : métiers de la liste des étaliers des Halles — les enseignes, dont plusieurs sont des patronymes, ne sont pas reprises, règle 89 — et produits que le collectif Fermiers du Béarn publie pour son étal (règle 7 : un étal à l'intérieur des Halles ne fait pas une fiche à part) ; les exploitants que ce collectif nomme ne sont pas repris. **Point** : 8 rue Carnot à la Base Adresse Nationale (0,975), adresse que donnent les Halles ; la page d'accueil du même site écrit « rue de la République », l'office de tourisme « place de la République » et place son marqueur à 103 m, sur le 8 place de la République : le bâtiment borde les trois voies (règle 98). **Photo** : façade de la halle des étaliers publiée par l'office de tourisme pour sa fiche « Marché des Halles », EXIF de février 2019 ; recadrée pour écarter une passante reconnaissable, 940 × 960, rien d'agrandi)
+- **Marché Laherrère** (Pau) (catégorie et piliers des marchés. **Horaires, règle 133, née ici** : arrêté du 25 août 2026, reçu en préfecture le 3 septembre et publié le 7, et page de la Ville mise à jour le 8 septembre : 8h-13h ; l'office de tourisme affiche encore 8h-13h30, cité. **Produits, règle 119** : aucune source ne publie le décompte des étals par activité ; les métiers sont ceux du texte de la fiche de l'office, qui renvoie à la Mairie de Pau pour ce marché. La page de la Ville décrit ensemble ses trois marchés mixtes, Gramont, Hameau et Laherrère : cette description commune n'est pas transportée sur la fiche (règle 69). **Point** : place Laherrère à la Base Adresse Nationale (0,968) ; le marqueur de l'office se retourne sur le 3 place Laherrère à 2 m. **Photo, règle 88** : vue d'ensemble publiée par l'office pour cette seule fiche, empreinte distincte de toutes les autres photographies de marchés de l'office téléchargées ; prise d'en haut, aucun visage identifiable ; 1 440 px réduits à 1 280)
+- **AMAP Pautiron** (Pau) (catégorie et piliers des AMAP, sans `environnement` : les mentions bio sont celles de l'AMAP et aucun certificat de producteur n'a été retrouvé sous une enseigne (règle 60) ; la seule exploitation que le site désigne par une enseigne n'est pas citée, son actualité nommant ses exploitants par leur prénom. **Horaires** : site de l'AMAP et fiche de l'office, 18h15-19h et 18h30-19h en vacances scolaires, concordants ; la liste des AMAP du Béarn éditée par le réseau pour 2025 écrit 18h-19h, citée (règle 104). **Produits** : page « Prix » du site, sans nom de producteur. Adresse électronique de l'AMAP non reprise. **Site** : `pautiron.amap-bearn.fr` nomme la MJC et l'adresse (règle 56). **Point** : 19 bis avenue de Buros à la Base Adresse Nationale (0,809) ; le marqueur de la carte du site tombe à 16 m, celui de l'office à 28 m. **Photo** : panier de fromages, œufs, pain et légumes, publié sous le crédit de l'AMAP sur la fiche de l'office de tourisme, sans personne, 1 440 px réduits à 1 280)
+- **Marché bio de Billère** (Billère, agglomération de Pau) (catégorie des marchés ; **pilier `environnement` par les règles 49, 54 et 132, née ici** : « Marché bio » est l'un des deux intitulés de la liste des marchés de la Ville, l'autre marché ne le porte pas. **Horaires** : page « Les marchés de Billère » de la Ville, mercredi et samedi 8h-12h30 ; un résumé de moteur de recherche donnait 7h30-12h30, qu'aucune page consultable ne porte : non repris. **Produits** : liste que la Ville et l'office de tourisme publient mot pour mot pour ce marché, sans liste d'exposants. **Point** : 31 route de Bayonne à la Base Adresse Nationale (0,968), adresse du point d'intérêt de la Ville ; le marqueur de l'office tombe à 9 m de la route de Bayonne. **Photo** : la halle en bois, publiée par l'office pour cette fiche, sans personne ; bordure blanche retirée, 1 200 × 634. La photographie que la Ville met en tête de sa page des marchés montre la halle un jour de marché, mais plusieurs visages y sont identifiables et le seul recadrage sans visage tombe sous 600 px (règle 70))
+- **Marché de Bizanos** (Bizanos, agglomération de Pau) (catégorie et piliers des marchés. **Jour, heures et lieu** : actualité de la page d'accueil de la Ville, « Le marché de Bizanos retrouve sa place ! », qui annonce le retour place de la Mairie à partir du jeudi 17 septembre 2026 ; la prochaine séance après la passe est donc la première à ce nouvel emplacement, et la fiche le situe là (règle 107). Les artistes et intervenants nommés dans cette actualité ne sont pas repris. **Produits, règle 119** : métiers de la même actualité, sans décompte ; les stands non alimentaires sont dits dans la description. **Point, règle 64** : la Base Adresse Nationale ne connaît ni la place de la Victoire ni la place de la Mairie, seulement la rue de la Mairie et la rue de la Victoire ; le marqueur que l'office de tourisme publie pour le marché se retourne sur le 6 rue de la Victoire à 20 m, et tombe à 62 m du centre de la rue de la Mairie. **Photo** : vue aérienne du marché installé devant la mairie, publiée par l'office pour cette fiche ; personnages lointains, aucun visage identifiable ; 1 645 px réduits à 1 280)
+Les 476 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2150,6 +2185,84 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Pau et dans l'agglomération paloise
+
+Département visé : les **Pyrénées-Atlantiques (64)**, déficit **4,8264** au titre de la règle 41 avec 471 fiches
+publiées et **aucune** dans le département. La Réunion (6,0772) reste écartée par la règle 93. La passe
+précédente visait le Pas-de-Calais, dans les Hauts-de-France ; les Pyrénées-Atlantiques sont en
+Nouvelle-Aquitaine, la réserve de la règle 41.c ne joue pas. Les cinq fiches ramènent le déficit du 64 à
+environ **−0,12**. Suivants du classement après cette passe : le Val-de-Marne (4,8505), le Loiret (4,7720),
+l'Ain (4,6897) ; la Charente-Maritime (4,6409) est en Nouvelle-Aquitaine et ne peut pas faire la passe
+suivante.
+
+**Commune** : **Pau** (80 441 habitants), la plus peuplée du département. Elle rend les faits en abondance —
+cinq marchés de plein vent, les Halles, cinq AMAP — mais pas les images : elle ne rend que **trois fiches
+entières, image comprise**. Au titre des règles 96 et 127, le groupe se complète dans la communauté
+d'agglomération Pau Béarn Pyrénées, sur deux communes limitrophes : le marché bio de **Billère**, à 2,1 km des
+Halles, et le marché de **Bizanos**, à 1,6 km. Distance maximale entre deux fiches : 3,5 km, entre Billère et
+l'AMAP Pautiron.
+
+**Les sources qui ont fait la passe** : la page « Les marchés de plein air » de `pau.fr` et l'arrêté municipal
+du 25 août 2026 qu'elle publie — le site de la Ville répond 404 à toute requête en ligne de commande et a été lu
+par le navigateur ; son moteur de recherche interne est protégé par un défi anti-robot, qui n'a pas été
+contourné ; le site `hallesdepau.fr` ; l'office de tourisme `tourismepau.com`, dont le `robots.txt` n'interdit
+rien (règle 77) et dont les photographies se téléchargent en pleine taille sur `cdt64.media.tourinsoft.eu` ; le
+site et la page « Prix » de l'AMAP Pautiron ; la liste 2025 des AMAP du Béarn publiée par le réseau
+`amap-bearn.fr` ; les sites de la Ville de Billère et de la Ville de Bizanos ; les deux sites du collectif
+Fermiers du Béarn ; le registre de l'Agence Bio, **2 037** opérateurs lus sur le département ; le registre des
+entreprises ; la Base Adresse Nationale. Ces sources nomment des élus, des étaliers, des exploitants, des
+bénévoles et des artistes : aucun nom n'est repris, et les images publiées ont été réenregistrées sans
+métadonnées.
+
+**Contradictions tranchées** :
+
+- Marché Laherrère : fin des ventes à 13h dans l'article 1er de l'arrêté et sur la page de la Ville, 13h30 dans
+  l'article 2 du même arrêté et chez l'office de tourisme ; règle 133, née ici.
+- Marché bio de Billère : pilier `environnement` sur une commune de deux marchés ; règle 132, née ici.
+- Halles de Pau : trois adresses pour un même bâtiment (8 rue Carnot, rue de la République, place de la
+  République), règle 98 ; horaires de l'étal des Fermiers du Béarn, règle 5 (voir la fiche).
+- AMAP Pautiron : 18h15-19h sur son site et chez l'office, 18h-19h sur la liste du réseau ; le site est publié.
+- Marché de Bizanos : déplacement temporaire à l'espace Daniel Balavoine, retour place de la Mairie le
+  17 septembre 2026 ; la fiche va au nouvel emplacement, règle 107.
+
+**Restent à instruire, pour une passe suivante :**
+
+- Pau, marché du Hameau (avenue de Buros, dimanche 8h-13h, près de 70 étaliers selon la Ville) : faits
+  solides — Ville, arrêté, office de tourisme — mais les quatre seules photographies publiées, prises en
+  janvier 2011, font 800 px et montrent des visages de face ; aucun recadrage sans visage n'atteint 600 px.
+  Règle 70 ; débloquée par une photographie du marché sans visage identifiable.
+- Pau, marché Gramont (place Gramont, dimanche 8h-13h, une dizaine d'étaliers) : aucune photographie trouvée.
+  Débloqué par une image.
+- Pau, marché de la place Albert-Ier (samedi 8h-13h) : la Ville le réserve à « une douzaine de revendeurs
+  exclusivement de fruits et légumes », sans producteur ; la seule image de sa page est un étal intérieur
+  crédité aux Halles, avec des fruits exotiques, qui ne montre pas la place. Non publié.
+- Pau, marché de la place de la Libération : non alimentaire selon la Ville. Hors sujet.
+- Pau, AMAP du Grand Cèdre (MJC du Laü, avenue du Loup, mardi 18h30-19h) : site vivant et liste du réseau
+  concordants, produits nommables ; sa page des producteurs désigne la plupart des exploitations par le nom
+  de leurs exploitants, qui ne seraient pas repris. Aucune photographie. Débloquée par une image.
+- Pau, AMAP de la Pépinière (centre social, 6 avenue Robert-Schuman, jeudi 18h-19h) : page du centre social à
+  jour pour la saison 2026, produits détaillés ; le téléphone publié est un portable, non repris ; la seule
+  image est une affiche de 2024. Débloquée par une photographie.
+- Pau, AMAP Las Branas : son site écrit « Ferme Saint Joseph, 209 boulevard du Cami-Salié », la liste du réseau
+  « centre équestre, avenue des Lilas » — à géocoder avant de conclure (règle 98) ; la seule image du site est
+  un paysage de montagne hors de la commune. Débloquée par une image du lieu.
+- Pau, AMAP La Forge Moderne (avenue Léon-Heid, jeudi 18h30-19h30) : connue par la seule liste du réseau. Non
+  instruite.
+- Pau, magasin bio de réseau de l'avenue Fouchet : établissement présent au registre de l'Agence Bio avec un
+  certificat engagé, horaires publiés ; sa page ne nomme aucun producteur. Règle 86. Un second magasin de
+  réseau, rue Ronsard, non instruit pour la même raison.
+- Pau, ancien magasin bio de la rue Alfred-de-Lassence : certificat arrêté en 2020. Non instruit, probablement
+  fermé.
+- Pau, exploitation bio du chemin de la Madeleine, engagée depuis 1995 et déclarant la vente aux particuliers :
+  aucune source de vente directe trouvée pendant la passe. Non instruite.
+- Pau, avenue Pouguet : parcours de test agricole inscrit au registre de l'Agence Bio ; aucun point de vente
+  publié. Hors sujet en l'état.
+- Billère, AMAP distribuée sous la halle bio le jeudi soir : même point que le marché bio ; à décrire dans sa
+  fiche plutôt qu'en fiche propre (règles 7 et 42). Non instruite.
+- Jurançon, marché hebdomadaire (vendredi 8h-13h selon l'office) : photographies de l'office avec visages, page
+  de la commune non lue. Gelos, marché du mardi (place de la Liberté) : seule image, une affiche. Non instruits.
+- **Communes suivantes du 64** : Bayonne (54 306 habitants), puis Anglet et Biarritz.
 
 ### Pistes non publiées à Arras
 

@@ -12469,5 +12469,148 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20bis%20rue%20D%C3%A9sir%C3%A9%20Bras%2C%2062000%20Arras",
     "image_url": "/images/marchands/micro-brasserie-l-arras-in.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "les-halles-de-pau",
+    "nom": "Les Halles de Pau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.299464,
+    "lon": -0.369222,
+    "adresse": "8 rue Carnot (place de la République), 64000 Pau",
+    "horaires": "Halle des étaliers : du mardi au samedi de 7h à 13h, ou jusqu'à 15h selon les commerçants ; le dimanche de 9h à 13h, ou jusqu'à 15h selon les commerçants ; fermée le lundi. Carreau des producteurs : mardi, mercredi, vendredi et samedi de 7h à 13h. Nocturne le dernier vendredi du mois, de 17h à 23h. Horaires de la page « Informations pratiques » des Halles ; une page plus ancienne des Fermiers du Béarn annonce son étal ouvert du mardi au dimanche de 7h à 13h, leur boutique en ligne donne 9h-13h le dimanche.",
+    "produits": [
+      "Fruits et légumes (primeurs)",
+      "Boucherie, volailles et charcuterie",
+      "Poissonnerie et huîtres",
+      "Fromages et crèmerie",
+      "Boulangerie et pâtisserie, dont un boulanger bio",
+      "Olives, huiles et épices",
+      "Café torréfié (torréfacteur)",
+      "Produits des Fermiers du Béarn : fromages de brebis, de chèvre et de vache, porc gascon, agneau de lait, canard, miel, kiwis, pêches Roussanne, vin de Jurançon"
+    ],
+    "description": "Marché couvert du centre de Pau, rouvert en 2018 dans un bâtiment neuf : une halle des étaliers sur deux niveaux, avec des espaces de dégustation à l'étage, et depuis fin 2019 un carreau de 1 811 m² que le site des Halles dit ouvert à plus de 90 producteurs. Au rez-de-chaussée, l'étal collectif des Fermiers du Béarn vend la production de fermes béarnaises adhérentes. Les métiers listés viennent de la liste des étaliers publiée par les Halles.",
+    "telephone": "05 59 98 56 90",
+    "site_web": "https://www.hallesdepau.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8%20rue%20Carnot%2C%2064000%20Pau",
+    "image_url": "/images/marchands/les-halles-de-pau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-laherrere-pau",
+    "nom": "Marché Laherrère",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.308649,
+    "lon": -0.360514,
+    "adresse": "Place Laherrère, avenue de Saragosse, 64000 Pau",
+    "horaires": "Le jeudi matin de 8h à 13h, toute l'année y compris les jours fériés, sauf le 25 décembre et le 1er janvier, d'après la page « Les marchés de plein air » de la Ville de Pau. L'arrêté municipal du 25 août 2026, publié le 7 septembre, a avancé la fin des ventes de 13h30 à 13h ; la fiche de l'office de tourisme Pau Pyrénées affiche encore 8h-13h30.",
+    "produits": [
+      "Fruits et légumes (primeurs)",
+      "Fromages",
+      "Poisson",
+      "Volailles",
+      "Pâtisseries marocaines",
+      "Olives",
+      "Jus de fruits bio"
+    ],
+    "description": "Marché mixte du quartier Saragosse, où la Ville compte une trentaine d'étaliers. Les étals alimentaires y côtoient des stands de tissus, vêtements, maroquinerie, bazar et friperie, et aucune source ne publie le décompte des étals par activité. Les métiers cités sont ceux de la fiche que l'office de tourisme consacre à ce marché, dont la photo montre la place vue d'en haut.",
+    "site_web": "https://www.pau.fr/vie-quotidienne/commerce-economie-emploi/les-marches-de-plein-air/les-marches-de-plein-air-pau",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Laherr%C3%A8re%2C%2064000%20Pau",
+    "image_url": "/images/marchands/marche-laherrere-pau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-pautiron-pau",
+    "nom": "AMAP Pautiron",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.308644,
+    "lon": -0.353316,
+    "adresse": "MJC des Fleurs, 19 bis avenue de Buros, 64000 Pau",
+    "horaires": "Distribution des paniers le lundi de 18h15 à 19h, et de 18h30 à 19h pendant les vacances scolaires, d'après le site de l'AMAP et l'office de tourisme Pau Pyrénées ; la liste des AMAP du Béarn (édition 2025) indique 18h-19h. Paniers réservés aux adhérents sous contrat, par saison (mai à octobre, novembre à avril) : on vient d'abord se renseigner à la distribution du lundi soir.",
+    "produits": [
+      "Légumes de saison en paniers, annoncés bio par l'AMAP",
+      "Œufs, annoncés bio par l'AMAP",
+      "Pain complet",
+      "Poulet fermier",
+      "Colis de bœuf",
+      "Salaisons : jambon, saucisson, pâté, boudin",
+      "Huile de tournesol"
+    ],
+    "description": "La plus ancienne AMAP de Pau selon son site : une cinquantaine de familles et une vingtaine de producteurs béarnais, qui s'engagent par contrats de saison avec l'appui du CIVAM Béarn. Les produits cités sont ceux de sa page « Prix » ; les mentions bio sont celles de l'AMAP, les certificats des producteurs n'ayant pas été vérifiés au registre. La photo, publiée par l'AMAP, montre le contenu d'un panier.",
+    "site_web": "https://pautiron.amap-bearn.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=19%20bis%20avenue%20de%20Buros%2C%2064000%20Pau",
+    "image_url": "/images/marchands/amap-pautiron-pau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-billere",
+    "nom": "Marché bio de Billère",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.301111,
+    "lon": -0.395568,
+    "adresse": "Halle de Billère, 31 route de Bayonne, 64140 Billère",
+    "horaires": "Le mercredi et le samedi de 8h à 12h30, d'après la page « Les marchés de Billère » de la Ville ; l'office de tourisme Pau Pyrénées annonce les mêmes heures.",
+    "produits": [
+      "Fruits et légumes",
+      "Pains et gâteaux",
+      "Viandes et poissons",
+      "Fromages et crèmerie",
+      "Miel",
+      "Vins",
+      "Épicerie, thé et café",
+      "Plats cuisinés"
+    ],
+    "description": "Le marché bio de Billère, commune limitrophe de Pau, se tient deux matinées par semaine sous la halle en bois de la route de Bayonne ; la Ville en fait l'un de ses deux marchés sous l'intitulé « Marché bio » et le présente comme un marché de producteurs locaux, avec de petites animations musicales. Elle ne publie ni la liste des exposants ni d'obligation de certificat : la fiche ne promet pas que chaque étal soit certifié. La photo, publiée par l'office de tourisme, montre la halle.",
+    "site_web": "https://www.billere.fr/la-ville/decouvrez-billere/les-marches-de-billere/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31%20route%20de%20Bayonne%2C%2064140%20Bill%C3%A8re",
+    "image_url": "/images/marchands/marche-bio-billere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-bizanos",
+    "nom": "Marché de Bizanos",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.288982,
+    "lon": -0.355679,
+    "adresse": "Place de la Victoire (place de la Mairie), rue de la Mairie, 64320 Bizanos",
+    "horaires": "Le jeudi de 8h à 13h, d'après la Ville de Bizanos. À partir du jeudi 17 septembre 2026, le marché revient place de la Mairie, les exposants s'installant le long de la rue de la Mairie rendue piétonne, après un déplacement temporaire à l'espace Daniel Balavoine pendant des travaux ; la Ville présente cette implantation comme un essai appelé à évoluer.",
+    "produits": [
+      "Fruits et légumes",
+      "Boulangerie",
+      "Poissonnerie",
+      "Charcuterie",
+      "Produits gourmands",
+      "Plats à emporter"
+    ],
+    "description": "Petit marché hebdomadaire du centre de Bizanos, commune limitrophe de Pau au sud-est : une douzaine d'exposants selon la Ville, qui cite aussi des vêtements, des accessoires et des articles de couture. Aucune source ne publie le décompte des étals par activité. La photo, publiée par l'office de tourisme Pau Pyrénées, montre le marché devant la mairie.",
+    "site_web": "https://www.ville-bizanos.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20la%20Mairie%2C%2064320%20Bizanos",
+    "image_url": "/images/marchands/marche-de-bizanos.jpg",
+    "a_confirmer": true
   }
 ]
