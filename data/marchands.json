@@ -15264,5 +15264,131 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Berche%20du%20Bio%2084%20route%20d%27Amiens%2080480%20Dury",
     "image_url": "/images/marchands/biocoop-berche-du-bio-dury.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-bi-hebdomadaire-haguenau",
+    "nom": "Marché bi-hebdomadaire de Haguenau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.816223,
+    "lon": 7.791516,
+    "adresse": "115 Grand' Rue, Halle aux Houblons, 67500 Haguenau",
+    "horaires": "Mardi et vendredi de 7h30 à 12h, toute l'année. Déplacé aux abords de l'hôtel de ville pendant certains salons et pendant le Festival du Houblon ; périmètre restreint de début novembre à début janvier pendant le marché de Noël ; séances annulées les jours fériés.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Divers produits alimentaires"
+    ],
+    "description": "Le marché historique de Haguenau se tient deux matinées par semaine sous la halle aux Houblons et sur ses abords. La Ville le décrit comme un marché mixte, où les fruits et légumes et divers produits alimentaires voisinent avec la mercerie et l'habillement : la liste des produits ci-dessus est exactement celle qu'elle publie, rien n'y a été ajouté. Les visiteurs peuvent y déposer gratuitement leurs biodéchets, collectés et compostés par une association du territoire.",
+    "site_web": "https://www.haguenau.fr/fr/page/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20aux%20Houblons%20115%20Grand%27Rue%2067500%20Haguenau",
+    "image_url": "/images/marchands/marche-bi-hebdomadaire-haguenau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-gourmand-haguenau",
+    "nom": "Marché gourmand de Haguenau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.814347,
+    "lon": 7.789448,
+    "adresse": "Place de la République (Forum), 67500 Haguenau",
+    "horaires": "Samedi de 8h à 12h30, d'avril à octobre seulement — du 11 avril au 31 octobre pour l'année 2026, seules dates publiées par la Ville. Déplacé cours de la Décapole ou en contrebas du forum lors de l'Humour des Notes et du Festival du Houblon.",
+    "produits": [
+      "Produits locaux",
+      "Produits du terroir"
+    ],
+    "description": "Marché de saison des producteurs locaux, installé le samedi matin en zone piétonne sur la place de la République. La Ville et l'office de tourisme le présentent comme un marché de circuit court, sans énumérer les étals : les deux entrées ci-dessus sont leur formulation exacte et aucune n'a été complétée.",
+    "site_web": "https://www.haguenau.fr/fr/page/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2067500%20Haguenau",
+    "image_url": "/images/marchands/marche-gourmand-haguenau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-brandt-arbogast-harthouse",
+    "nom": "Ferme Brandt Arbogast — magasin d'Harthouse",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.788929,
+    "lon": 7.728423,
+    "adresse": "23 rue Principale, Harthouse, 67500 Haguenau",
+    "horaires": "Vendredi de 9h à 19h en continu, samedi de 9h à 13h en continu. Fermé du lundi au jeudi, le dimanche et les jours fériés.",
+    "produits": [
+      "Asperges blanches et vertes",
+      "Myrtilles",
+      "Framboises",
+      "Mûres",
+      "Rhubarbe",
+      "Courges et potirons",
+      "Plats cuisinés et pâtisseries maison",
+      "Produits fumés"
+    ],
+    "description": "Exploitation familiale du quartier d'Harthouse, dont le magasin occupe le fond de la cour de ferme et vend sa propre production de fruits et de légumes ainsi que les plats cuisinés préparés sur place. La ferme dit y proposer aussi des produits de partenaires locaux, fraises et pommes de terre notamment, et ouvre l'été une libre-cueillette de myrtilles, framboises et groseilles. Elle revendique une culture raisonnée et une certification GlobalG.A.P. annuelle, et non une certification biologique.",
+    "telephone": "03 88 73 83 01",
+    "site_web": "https://www.ferme-brandt.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20Brandt%20Arbogast%2023%20rue%20Principale%20Harthouse%2067500%20Haguenau",
+    "image_url": "/images/marchands/ferme-brandt-arbogast-harthouse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-gout-d-ici-haguenau",
+    "nom": "Au Goût d'Ici",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.813523,
+    "lon": 7.788471,
+    "adresse": "9 impasse de l'Oie, 67500 Haguenau",
+    "horaires": "Du mardi au vendredi de 8h30 à 14h, le samedi de 8h30 à 17h — horaires publiés par l'Interprofession des Fruits et Légumes d'Alsace, que le commerce ne reprend sur aucune source qu'il maîtrise.",
+    "produits": [
+      "Abricots",
+      "Cerises",
+      "Pommes",
+      "Jus de pomme"
+    ],
+    "description": "Magasin de vente directe installé au centre de Haguenau, inscrit comme producteur à l'annuaire de l'Interprofession des Fruits et Légumes d'Alsace, qui le classe en vente directe et lui attribue abricots, cerises, pommes et jus de pomme. Le registre des entreprises y déclare, sous cette enseigne et à cette adresse, un commerce de détail de fruits et légumes actif depuis mai 2026. Aucun téléphone ni site n'est publié : la fiche n'en invente pas.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Go%C3%BBt%20d%27Ici%209%20impasse%20de%20l%27Oie%2067500%20Haguenau",
+    "image_url": "/images/marchands/au-gout-d-ici-haguenau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-haguenau",
+    "nom": "AMAP de Haguenau",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.820006,
+    "lon": 7.791646,
+    "adresse": "Cour du foyer Saint-Nicolas, 204 Grand' Rue, 67500 Haguenau",
+    "horaires": "Distribution le mercredi de 18h à 19h. Contrats de six mois, de janvier à juin ou de juillet à décembre, ou d'un an de juillet à juin.",
+    "produits": [
+      "Légumes bio",
+      "Fruits bio",
+      "Pain bio",
+      "Fromage de chèvre",
+      "Farine"
+    ],
+    "description": "Point de distribution hebdomadaire d'une association pour le maintien d'une agriculture paysanne, dans la cour du foyer Saint-Nicolas. Les paniers de légumes — demi-panier, panier intermédiaire ou panier complet — viennent du maraîcher Le Jardin d'Agnès, dont l'engagement Ecocert est consultable au registre national de l'Agence Bio ; le pain et les produits laitiers de chèvre viennent de deux autres fermes, dont la certification n'a pas été vérifiée ici.",
+    "site_web": "https://www.lejardindagnes.fr/distribution/haguenau",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=204%20Grand%27Rue%2067500%20Haguenau",
+    "image_url": "/images/marchands/amap-de-haguenau.jpg",
+    "a_confirmer": true
   }
 ]

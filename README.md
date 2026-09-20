@@ -2592,10 +2592,57 @@ prioritaires en cas de conflit.
      soit l'état du registre, et la fiche part en « Pistes non publiées ». Déblocage : le retour du
      magasin dans l'annuaire du réseau, ou une page propre au magasin qui publie ses heures.
 
+201. **Le numéro qu'un office de tourisme imprime sur sa fiche de marché est souvent le sien.** La
+     règle 189 reprend le standard publié « sur la page même du marché », parce qu'il aboutit à
+     l'autorité qui organise. Haguenau en montre la limite : la Ville, qui organise ses deux
+     marchés, ne publie **aucun** numéro sur sa page « Les marchés » ; l'office de tourisme, lui,
+     en imprime un sur chacune de ses deux fiches — et le premier, 03 88 06 59 99, est mot pour
+     mot celui de sa propre page « Nous contacter », tandis que le second, 03 88 90 67 72, est
+     rattaché à l'office par les annuaires inversés. **Critère** : un numéro porté par la fiche
+     d'un office de tourisme n'est repris que s'il diffère du numéro de contact de cet office
+     **et** qu'une autre source le rattache au marché ou à un service de la commune ; sinon le
+     champ reste vide. Qui compose le numéro d'une fiche croit joindre le marché, pas le guichet
+     d'accueil touristique qui se trouve le relayer — et un accueil touristique ne connaît ni le
+     plan des emplacements ni le placier. La règle 189 n'est pas assouplie : elle vise la page de
+     l'autorité qui organise, et quand cette page ne porte aucun numéro, il n'y en a pas à
+     publier.
+
+202. **Une AMAP sans voix propre peut porter dans `site_web` la page que son maraîcher consacre à
+     ce point de distribution.** Les règles 33, 56 et 62 réservent ce champ à « la voix du
+     commerce lui-même ». Une AMAP n'en a pas toujours : celle de Haguenau ne publie qu'une
+     adresse de courriel associative et une page de réseau social, et les deux annuaires qui la
+     recensent sont des tiers — l'un porte une fiche datée de 2022, l'autre est un wiki. Son
+     maraîcher, en revanche, consacre au point une page entière qui nomme la commune, l'adresse
+     exacte, le jour, les heures, la durée des contrats et les paniers complémentaires.
+     **Critère** : quand une AMAP ne publie aucun site à elle, `site_web` peut porter la page que
+     son producteur consacre **à ce point de distribution précis** — jamais sa page d'accueil,
+     jamais une page d'annuaire — et la description dit de qui est cette page. Le visiteur y
+     trouve exactement ce qu'il cherche et sait qui le lui écrit. Si le producteur ne décrit pas
+     le point, le champ reste vide comme avant.
+
+203. **Cinq fiches d'une passe peuvent se partager un même jeu de photographies d'office de
+     tourisme sans qu'aucune ne montre deux fois la même image.** La règle 191 traitait deux
+     fiches héritant d'un même fichier. Haguenau pose le cas élargi : l'office publie huit
+     photographies sur la fiche du marché bi-hebdomadaire et deux sur celle du marché gourmand —
+     et ces deux-là sont, aux octets près, deux des huit premières. Quatre des huit sont
+     exploitables — l'une ne montre personne, les trois autres le deviennent après un recadrage
+     latéral ou bas — alors que deux des cinq fiches de la passe n'ont aucune photographie
+     propre. **Critère** : un fichier ne sert qu'à une seule fiche, mais un
+     fichier écarté d'une fiche de marché redevient disponible comme **photographie thématique**
+     (règle 1) pour une autre fiche de la même commune, à condition que le README dise pour
+     chacune d'où vient l'image et qu'elle ne prétende pas montrer le lieu. Ce qui reste interdit
+     est inchangé : deux fiches voisines qui affichent la même image, qu'un visiteur lit comme un
+     défaut du site.
+
 
 ## Marchands à confirmer
 
-533 fiches sur 574 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+538 fiches sur 579 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché bi-hebdomadaire de Haguenau** (Haguenau) (le marché historique de la commune, sous la halle aux Houblons et sur ses abords, mardi et vendredi de 7h30 à 12h ; catégorie et piliers des marchés municipaux. **Deux autorités, aucun écart** : la page « Les marchés » de la Ville et la fiche de l'office de tourisme du Pays de Haguenau donnent les mêmes jours, les mêmes heures et le même lieu, et l'office ajoute l'adresse de voirie, « 115 Grand'rue, Halle aux Houblons ». **Produits, règle 187** : aucune des deux sources ne publie de liste d'étals ; la Ville écrit « des fruits et légumes à la mercerie, en passant par l'habillement ou divers produits alimentaires » — seules les trois mentions alimentaires sont reprises, la mercerie et l'habillement relevant de ce que MODERATION.md écarte. Les fromages, fraises, tomates et carottes que montrent les photographies de l'office n'alimentent pas `produits`, règle 88. **Calendrier** : la Ville publie quatre transferts aux abords de l'hôtel de ville, cinq annulations de jours fériés, un report de vendredi saint et un périmètre restreint de novembre à janvier pendant le marché de Noël ; `horaires` en garde le principe, pas le détail daté, qui vieillira. **Téléphone, règle 201** : aucun. La page de la Ville n'en porte pas, et le 03 88 06 59 99 que l'office imprime sur sa fiche est celui de sa propre page « Nous contacter ». **Point** : 115 Grand' Rue à la Base Adresse Nationale, score 0,976, contrôle inverse à 0 m. **Photo, règle 46** : une des huit photographies de l'office, la pile de meules d'un fromager devant la charpente métallique et la verrière en plein cintre de la halle — l'original 2 000 × 1 333 montre à droite un couple et une enfant de face, le recadrage à 970 × 700 les écarte tous les trois et garde ce qui rattache l'image au lieu ; rien n'est agrandi.)
+- **Marché gourmand de Haguenau** (Haguenau) (marché de saison des producteurs locaux, le samedi de 8h à 12h30 en zone piétonne sur la place de la République ; catégorie et piliers des marchés. **Deux autorités concordantes** sur le jour, les heures, le lieu et la saison : la Ville et l'office de tourisme. **Produits, règle 187** : les deux sources écrivent « des produits locaux et du terroir » et « un marché basé sur les circuits courts », sans nommer un seul étal ; `produits` n'a donc que deux entrées et aucune n'a été complétée — même discipline qu'à Marseille, au Mont-Mesly et au Pont de Béraud. **Saison** : la Ville publie « du samedi 11 avril au samedi 31 octobre 2026 », des dates d'année civile ; `horaires` dit « d'avril à octobre » et cite les dates 2026 comme les seules publiées. **Téléphone, règle 201** : aucun, pour la même raison que le marché bi-hebdomadaire — le 03 88 90 67 72 de la fiche de l'office est rattaché à l'office par les annuaires inversés, et la page de la Ville ne porte aucun numéro. **Point** : centre de la place de la République à la Base Adresse Nationale, score 0,957, contrôle inverse à 0 m ; la Base ne rend pas de numéro pour cette place, ce qui est le cas normal d'une esplanade, règle 12. **Voisinage** : 116 m du magasin Au Goût d'Ici, deux commerces distincts, chacun garde le point de sa propre source. **Photo, règle 191** : l'office illustre ce marché avec deux fichiers qui sont, aux octets près, deux de ceux de la fiche du marché bi-hebdomadaire ; c'est celui des deux que l'autre fiche n'utilise pas qui sert ici — barquettes de fraises et de tomates sur un étal, 6 192 × 4 128 ramenés à 1 280 × 853, personne dans le cadre.)
+- **Ferme Brandt Arbogast — magasin d'Harthouse** (Haguenau) (magasin de vente directe au fond de la cour de ferme, dans le quartier d'Harthouse, catégorie `ferme`. **Registre des entreprises, règle 6** : société active, deux établissements ouverts, code 47.21Z, au 23 rue Principale Harthouse ; la forme juridique est une société par actions simplifiée, l'enseigne n'est donc pas un patronyme d'entreprise individuelle au sens de MODERATION.md, et la ferme la publie elle-même en titre de page, en `og:site_name` et en mention de copyright sur son propre site, règle 36. **Horaires** : ceux de la page « Magasin d'Harthouse » du site de la ferme — vendredi 9h-19h et samedi 9h-13h en continu, fermé du lundi au jeudi, le dimanche et les jours fériés ; aucune autre source ne publie d'horaire, et la fiche de l'office de tourisme n'en donne pas. **Produits** : ceux que la ferme et l'office décrivent — asperges blanches et vertes, myrtilles, framboises, mûres, rhubarbe, courges et potirons, produits fumés, plats cuisinés et pâtisseries maison. **Règle 29 appliquée** : la description dit noir sur blanc que le magasin vend aussi des produits de partenaires locaux, fraises et pommes de terre selon l'office, à côté de sa propre production. **Pas de pilier `environnement`, règles 14 et 15** : la ferme revendique « la culture raisonnée » et une certification annuelle GLOBALG.A.P. (GGN 4069453319806), plus l'adhésion à Bienvenue à la Ferme ; ni bio, ni HVE, ni Terra Vitis — la description rapporte ce que la ferme revendique sans le traduire en pilier. **Deux autres points de vente non publiés** : un magasin à Durrenbach et des casiers automatiques à Froeschwiller, hors de Haguenau, à reprendre lors d'un passage sur ces communes. **Point** : 23 rue Principale Harthouse à la Base Adresse Nationale, score 0,968, contrôle inverse à 0 m ; le registre place le siège à 70 m, même voie et même numéro. **Photo** : l'intérieur du magasin publié par l'office de tourisme, cageots de poireaux, tomates, courgettes, choux-fleurs et ardoises de prix, 2 500 × 1 875 ramenés à 1 280 × 960, personne dans le cadre.)
+- **Au Goût d'Ici** (Haguenau) (magasin de vente directe de fruits, 9 impasse de l'Oie, catégorie `producteur` au titre des règles 4 et 20 — le point de vente d'un producteur, en ville, et non un revendeur généraliste. **Registre des entreprises, règle 6** : entité active, un établissement ouvert, code 47.21Z, enseigne « AU GOUT D'ICI » déclarée à cette adresse exacte, immatriculée le 6 mai 2026. **Source indépendante** : l'annuaire « Mangez local » de l'Interprofession des Fruits et Légumes d'Alsace, qui la range parmi ses producteurs, la classe en « magasin de vente directe » et lui attribue abricot, cerise, pomme et jus de pomme. **Horaires attribués** : mardi au vendredi 8h30-14h, samedi 8h30-17h — publiés par cette seule interprofession, que le commerce ne reprend sur aucune source qu'il maîtrise ; le champ `horaires` le dit. **Ni téléphone ni site**, règle 33 : aucun numéro n'est publié, et les deux seuls liens que donne l'annuaire sont des pages de réseau social, qui ne remplacent pas `site_web`. **Point** : 9 impasse de l'Oie à la Base Adresse Nationale, score 0,962, contrôle inverse à 0 m ; les coordonnées du registre des entreprises sont identiques à la dixième décimale. **Le prénom et le nom de la personne qui tient le magasin, que la presse locale publie, ne sont repris nulle part** ; l'adresse de courriel que donne l'annuaire porte l'enseigne et non un patronyme, mais le schéma n'a pas ce champ. **Photo, règles 1 et 203** : aucune photographie du magasin n'existe ; c'est une photographie thématique de la même commune — barquettes de fraises et de cerises sur un étal du marché bi-hebdomadaire, fichier de l'office de tourisme recadré à 1 050 × 700 pour écarter le visage d'une enfant au tiers droit de l'image — et elle ne prétend pas montrer la boutique.)
+- **AMAP de Haguenau** (Haguenau) (point de distribution hebdomadaire dans la cour du foyer Saint-Nicolas, 204 Grand' Rue, le mercredi de 18h à 19h ; catégorie et piliers des AMAP. **Registre, règle 6** : les AMAP en sont dispensées. **Trois sources concordantes** sur le lieu, le jour et les heures : la page « Haguenau » du maraîcher qui l'approvisionne, la fiche de l'annuaire Avenir-Bio datée du 14 mai 2022, et un annuaire associatif régional. **Nom divergent** : Avenir-Bio l'appelle « AMAP de Haguenau - SandhaA'sMAP », l'annuaire associatif « AMAP Haguenau », et le maraîcher ne la nomme pas du tout ; c'est le libellé commun aux deux annuaires qui est publié, la variante étant consignée ici. **Pilier `environnement` accordé, règle 60** : le fournisseur des paniers de légumes est nommé par les trois sources et son engagement Ecocert est consultable au registre national de l'Agence Bio, sans date d'arrêt, avec des productions déclarées — asperges, pommes de terre, légumes frais — qui correspondent à ce que l'AMAP distribue, règle 39. Le pain et les produits laitiers de chèvre viennent de deux autres fermes dont la certification n'a pas été vérifiée : la description le dit. **`site_web`, règle 202** : la page que le maraîcher consacre à ce point de distribution, qui en publie l'adresse, le jour, les heures, la durée des contrats et les paniers complémentaires ; l'AMAP n'a pas de site à elle. **Adresse de courriel associative non reprise** : le schéma n'a pas ce champ. **Point** : 204 Grand' Rue à la Base Adresse Nationale, score 0,976, contrôle inverse à 0 m. **Photo, règles 1 et 203** : photographie thématique de la même commune — carottes, courgettes, tomates et fanes sur un étal du marché bi-hebdomadaire, fichier de l'office de tourisme recadré à 1 200 × 453 sous la ligne des visages — elle ne montre pas la cour du foyer et ne le prétend pas.)
 - **Les Halles d'Amiens** (Amiens) (halle couverte, catégorie `marche` et piliers des marchés. **Deux noms pour un même lieu, règle 176** : la page « Marchés de plein vent » de la Ville le nomme encore « La Halle au frais du beffroi » et annonce « du mardi au samedi de 9h à 19h et le dimanche de 9h à 12h30 », quand la page « Les Halles d'Amiens » de la même Ville décrit la réouverture du lieu sous son nouveau nom, avec vingt-quatre commerçants, artisans et traiteurs. Ce sont les heures du gestionnaire — mardi à jeudi 9h-13h et 15h-19h, vendredi et samedi 8h-19h, dimanche 8h-13h pour la partie marché — qui sont publiées, celles de la page communale étant citées dans `horaires`. **Produits, règle 74 appliquée à une liste et non à une image** : la liste d'étals que publie le gestionnaire nomme les métiers un par un — maraîcher des hortillonnages, primeur, deux poissonneries, boucherie, fromagerie, boulangerie, caviste — et c'est cette liste, mot pour mot, qui alimente `produits` ; les six stands de traiteur et le food court sont dans la description, pas dans `produits`. **Site web, règle 199** : le nom de domaine que l'office de tourisme publie encore pour ce lieu est racheté et sert un site de casino ; `site_web` renvoie vers la page de la Ville. Aucun téléphone : celui de l'office est attaché à l'ancienne enseigne. **Point** : 1 place Maurice Vast à la Base Adresse Nationale, score 0,961, contrôle inverse à 0 m. **Photo** : bandeau que la Ville publie sur sa page des Halles — l'enseigne, l'auvent de bois et le brise-soleil en miroir qui reflète le beffroi — 1 920 × 600 ramené à 1 280, sans personne.)
 - **Marché sur l'eau (place Parmentier)** (Amiens) (catégorie et piliers des marchés communaux. **Trois sources, deux heures de début, règle 176** : la Ville écrit samedi 6h-13h sur sa page des marchés de plein vent, l'office de tourisme écrit « tous les samedis matin » sans heure, et deux annuaires de marchés écrivent 8h-13h. L'heure publiée est celle de la commune, les autres versions sont nommées dans `horaires`. **Produits** : ce sont les deux autorités qui les donnent en toutes lettres — la Ville parle des barques « chargées de légumes, de fruits et de fleurs » qui alimentent ce marché, l'office de « produits frais et fleurs issus directement des Hortillonnages ». **Point** : centre de la place Parmentier à la Base, score 0,971, contrôle inverse à 0 m. **Photo, règles 46 et 75** : photographie que la Ville publie pour ce marché dans son journal municipal, une barque à cornet chargée de salades sur la Somme ; l'original montre une foule de visages reconnaissables sur le quai et deux personnes debout dans la barque. Recadrage sous la ligne des têtes, 1 000 × 337 : il ne reste que la barque, ses cageots et l'eau. La photographie est prise lors de la reconstitution annuelle, ce que dit la description ; elle ne prétend pas montrer un samedi ordinaire.)
 - **L'Île aux Fruits** (Amiens) (ferme maraîchère urbaine sur une île de la Somme, catégorie `ferme`. **Horaires, règle 5 entre deux pages d'un même site** : la page d'accueil annonce le jeudi « de 17h à 22h », la page « infos pratiques » détaille mercredi 17h-19h, jeudi 17h-21h, vendredi 17h-19h et samedi 10h-12h30. Ce sont les heures de la page pratique qui sont publiées, l'écart est cité. **Registre** : deux entités actives à l'adresse, une exploitation maraîchère depuis 2016 et une société de restauration depuis 2019. **Pilier `environnement`** : l'exploitation maraîchère est engagée auprès d'Ecocert depuis mai 2017 au registre national de l'Agence Bio. **Adhésion** : le lieu écrit lui-même qu'il est associatif et demande deux euros d'adhésion annuelle pour accéder au marché — c'est dans la description, parce qu'un visiteur doit le savoir avant de venir. **Téléphone, règle 198** : le 07 que publie l'office de tourisme n'est pas repris, le lieu ne publiant lui-même qu'un courriel. **Point** : 325 rue de Verdun à la Base, score 0,980, contrôle inverse à 0 m ; la ferme cultive par ailleurs sur l'île Saint-Aragone, adresse citée par le site mais non publiée ici, ce n'est pas un point de vente. **Photo, règle 46** : étal de légumes du marché, photographie du site du lieu, recadrée sous la ligne des visages — l'original montre deux personnes en gros plan et des clients attablés au fond — 1 920 × 780 ramené à 1 280 × 520. Une autre photographie du même site, écartée : ses étiquettes de prix portent le nom et le téléphone de producteurs.)
@@ -3154,7 +3201,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 560 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 579 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -9489,6 +9536,80 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Haguenau
+
+Passe du 21 septembre 2026. **Département retenu, règle 41** : le Bas-Rhin (67), déficit **4,6882**
+pour 1 163 810 habitants et cinq fiches, toutes strasbourgeoises — premier du classement
+métropolitain sur une base de 574 fiches, devant la Marne (4,6873) à neuf millièmes près. La
+Réunion arrive devant avec **7,4061** et sort par les règles 93 et 177, comme à chaque passe depuis
+que la formule a été écrite : ses cinq fiches dionysiennes sont prêtes et attendent une
+modification de `lib/validateMerchants.ts`, hors périmètre. La réserve de région est respectée :
+la passe précédente visait la Somme, dans les Hauts-de-France, celle-ci vise le Grand Est.
+**Commune** : Haguenau, 36 391 habitants, la plus peuplée du département après Strasbourg et sans
+aucune fiche. Elle a rendu **cinq fiches publiables**, toutes intra-muros — la règle 52 n'a pas eu
+à jouer. **Sources principales** : la page « Les marchés » de la Ville de Haguenau ; les rubriques
+« Marchés » et « Producteurs locaux » de l'office de tourisme du Pays de Haguenau, dont le
+`sitemap.xml` est la bonne porte d'entrée, la liste étant rendue côté client ; le registre national
+de l'Agence Bio, dont la pagination complète sur le Bas-Rhin rend 1 532 opérateurs, dont 21
+déclarent une adresse à Haguenau ; l'annuaire « Mangez local » de l'Interprofession des Fruits et
+Légumes d'Alsace ; le site du maraîcher qui approvisionne l'AMAP, et deux annuaires d'AMAP.
+
+- **Le registre de l'Agence Bio est ici d'un faible rendement.** Sur les 21 opérateurs déclarant
+  une adresse à Haguenau, on compte quatre boulangeries ou pâtisseries, un bretzelier à quatorze
+  sites, trois grandes surfaces certifiées — que MODERATION.md écarte comme commerces généralistes
+  —, un abattoir, un torréfacteur, une société de restauration rapide et plusieurs préparateurs
+  sans vente aux particuliers. **Aucun point de vente à la ferme, aucun maraîcher ni éleveur vendant aux particuliers, aucun point de vente collectif.**
+  Le `venteParticuliers` est à faux pour dix-huit d'entre eux. C'est la première commune de cette
+  taille où ce registre ne rend pas une seule fiche.
+- **Une chocolaterie du centre-ville, écartée comme hors sujet.** C'est le seul des deux
+  producteurs haguenoviens de la rubrique « Producteurs locaux » de l'office de tourisme que cette
+  passe n'a pas retenu. La fabrication est artisanale et faite sur place, ce que la règle 4
+  suffirait à ranger en `producteur` ; mais la matière première ne pousse pas en Alsace et le site
+  recense de la vente alimentaire **en circuit court**, pas de la confiserie de qualité. Le
+  critère est celui de la provenance, pas celui du métier. **Déblocage** : aucun — la fiche ne
+  relève pas du sujet.
+- **Une brasserie artisanale de Marienthal, écartée par la règle 6.** Le registre national de
+  l'Agence Bio la porte encore avec une adresse à Haguenau, mais le registre des entreprises ne
+  lui compte **aucun établissement ouvert**. Un registre de certification survit des mois à une
+  fermeture ; c'est le registre des entreprises qui tranche. **Déblocage** : un établissement à
+  nouveau ouvert.
+- **Un magasin biologique de Haguenau, écarté par la règle 6.** Il figure au registre de l'Agence
+  Bio sous une raison sociale bâtie sur le nom de la ville, mais le registre des entreprises le
+  donne **fermé**, et son siège a été transféré à Obernai. **Déblocage** : une réouverture.
+- **L'épicerie de vrac d'Oberhoffen-sur-Moder, gardée pour un prochain passage.** Elle est décrite
+  en détail par l'office de tourisme — cent silos de vrac, un étal de fruits et légumes
+  biologiques de saison, un panier de primeur hebdomadaire, des fromages à la coupe — mais elle
+  est à **7,8 km** du barycentre des cinq fiches haguenoviennes et dans une autre commune. La
+  règle 52 ne s'applique pas : elle ne joue qu'à quatre fiches vérifiées, et Haguenau en a rendu
+  cinq. **Déblocage** : un passage sur Oberhoffen-sur-Moder ou sur l'agglomération, où elle sera
+  reprise avec la vérification complète du point 2 — la fiche de l'office nomme ses deux
+  gérantes par leur prénom, qui ne seront pas repris.
+- **Les deux autres points de vente de la ferme d'Harthouse, hors commune.** La ferme publiée dans
+  cette passe tient un second magasin à Durrenbach, près de Morsbronn-les-Bains, et des casiers
+  automatiques réfrigérés à Froeschwiller. Les deux sont documentés par son propre site, avec
+  adresse et téléphone. Ils ne sont pas publiés ici : une fiche par point de vente, règle 3, mais
+  chacune dans sa commune. **Déblocage** : un passage sur le nord du Bas-Rhin.
+- **Six producteurs de la rubrique de l'office de tourisme, hors commune.** Wahlenheim, Neubourg,
+  Uhrwiller, Sessenheim, Bischwiller et Mietesheim — une ferme laitière, deux fromageries dont un
+  élevage de bufflonnes, un arboriculteur, un atelier d'aliments crus et un fabricant de
+  condiments. Tous vérifiables, tous à reprendre lors d'un passage sur leur commune ou sur
+  l'agglomération. Aucun n'entre dans le groupement de cinq que la consigne impose.
+- **Ce que l'office de tourisme illustre, et ce que la Ville n'illustre pas.** La Ville de Haguenau
+  ne publie aucune photographie sur sa page des marchés. L'office en publie huit sur la fiche du
+  marché bi-hebdomadaire et deux sur celle du marché gourmand — ces deux-là étant, aux octets
+  près, deux des huit. C'est ce qui a fait écrire la règle 203. Quatre des huit ont été écartées :
+  trois montrent des visages nets, dont ceux d'enfants, sur toute la largeur de l'image, et la
+  quatrième est un portrait de commerçant en pied. Des quatre retenues, une ne montre personne et
+  les trois autres n'ont exigé qu'un recadrage latéral ou bas, sans agrandissement ; aucune ne
+  descend sous le seuil de 700 px de la règle 185.
+- **Aucune fiche n'a été écartée pour doute sur une personne.** Les deux enseignes de cette passe
+  qui contiennent un nom propre — celle de la ferme d'Harthouse et celle du maraîcher de l'AMAP —
+  sont des raisons sociales de sociétés, l'une par actions simplifiée, l'autre à responsabilité
+  limitée, et toutes deux sont publiées par leurs titulaires sur leur propre site : ce ne sont pas
+  des patronymes d'entreprise individuelle au sens de MODERATION.md, et la règle 36 les couvre de
+  toute façon. Le prénom et le nom de la personne qui tient le magasin de fruits de l'impasse de
+  l'Oie, que la presse locale publie, ne sont écrits nulle part.
 
 ### Pistes non publiées à Amiens
 
