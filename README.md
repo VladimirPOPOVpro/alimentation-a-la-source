@@ -2388,10 +2388,66 @@ prioritaires en cas de conflit.
      quelle photographie du lieu a été écartée et pourquoi. Une image floue coûte la même chose
      qu'une image d'ambiance — elle ne montre rien — mais elle prétend montrer le lieu.
 
+186. **La place d'un marché que la Base Adresse Nationale ignore, mais où le registre des
+     entreprises domicilie des établissements.** La Ville d'Évreux situe le marché de La Madeleine
+     « place Kennedy » ; la Base Adresse Nationale ne connaît à Évreux ni « Kennedy », ni « Aulne »,
+     ni aucune place de ce nom — l'inventaire de ses dix-neuf places de la commune n'en porte pas
+     trace, et la meilleure réponse à la requête tombe à 0,41 sur une rue sans rapport. Le registre
+     des entreprises, lui, rend quarante-trois entités à l'adresse « PL JOHN F KENNEDY 27000
+     EVREUX », dont trois partagent exactement le point 49,009856 / 1,160661. **Critère** : la
+     troisième marche de la règle 10 — les coordonnées du registre — vaut aussi quand l'adresse est
+     celle d'une place et non de l'établissement recherché, à la condition que **plusieurs** entités
+     distinctes y soient domiciliées au même point et que le contrôle inverse de la Base Adresse
+     Nationale retombe à proximité immédiate : ici « Allée Irène et Frédéric Joliot-Curie » à 41 m,
+     la voie que l'annuaire Jours-de-Marché associe lui-même à ce marché. Le nom officiel de la voie
+     se lit alors dans le registre — « place John F. Kennedy » — et c'est lui qui est écrit dans
+     `adresse`, pas l'abrégé de la commune. La fiche reste `a_confirmer`, et le README dit d'où
+     vient le point. Un point de registre isolé, lui, ne suffit pas : c'est l'adresse d'une société,
+     pas celle d'une place.
+
+187. **Quand le plafond de cinq mord sur des candidats tous vérifiés, ce sont les sources qui
+     départagent, pas le goût.** Évreux rendait sept points solides pour cinq places : cinq marchés
+     communaux, une AMAP et un magasin biologique, tous vérifiés. La règle 168 traite de la
+     répétition entre deux enseignes voisines, elle ne dit rien d'un marché contre un autre.
+     **Critère** : à vérification égale, on publie les candidats dont une source décrit le contenu,
+     et on ajourne ceux dont aucune source ne dit ce qu'on y achète. Ici les marchés de Nétreville
+     et de Navarre n'ont pour toute description que « petit marché de quartier » — leur jour, leur
+     place et leurs heures sont confirmés par deux autorités, mais rien ne renseigne `produits`,
+     que le schéma exige non vide et qu'`AGENT.md` veut concret. Les cinq publiés portent chacun
+     une liste sourcée. Ce critère s'applique après la vérification, jamais à sa place : il classe
+     des fiches également exactes, il n'en repêche aucune qui serait douteuse. La règle 11 reprend
+     la main au prochain passage sur la commune.
+
+188. **Une même place qui porte un marché alimentaire un jour et un marché non alimentaire un
+     autre ne fait qu'une fiche, et le champ `horaires` nomme les deux séances.** La Ville d'Évreux
+     écrit pour la place Kennedy : « vendredis de 13h à 18h en hiver et 19h en été (non
+     alimentaire), et dimanches de 8h à 13h ». Le guide des producteurs locaux de l'agglomération,
+     lui, range les deux séances sans distinction dans son tableau des marchés hebdomadaires.
+     **Critère** : la règle 42 réunit en une fiche deux équipements qu'aucune source ne sait
+     séparer géographiquement ; celle-ci réunit deux séances que la source sépare par leur objet.
+     C'est le jour alimentaire qui fixe la fiche — jour, heures, produits, piliers — et la séance
+     non alimentaire est citée dans `horaires` avec la mention que la commune lui donne, pour que
+     personne ne s'y rende en croyant y faire ses courses. Sur la qualification, c'est la commune
+     qui tranche (règle 176) : un guide qui liste sans qualifier ne contredit pas une commune qui
+     qualifie.
+
+189. **Le standard de la mairie se publie quand c'est le seul contact que la commune donne à ses
+     marchés.** Les fiches de Vitry-sur-Seine et de Corbeil-Essonnes ont écarté un numéro général
+     au profit d'une ligne « commerces et marchés » ; Évreux ne publie pas de ligne de ce genre —
+     la page des marchés ne porte que le 02 32 31 52 52 de l'accueil municipal. **Critère** : à
+     défaut de ligne dédiée, le standard publié **sur la page même du marché** est repris, parce
+     qu'il aboutit à l'autorité qui organise ; le README écrit que c'est le standard et non un
+     service des marchés. Un numéro trouvé ailleurs que sur cette page ne se reprend pas.
+
 
 ## Marchands à confirmer
 
-514 fiches sur 555 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+519 fiches sur 560 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville d'Évreux** (Évreux) (marché principal de la commune, place Georges-Clemenceau, mercredi et samedi matin ; catégorie et piliers des marchés municipaux. **Deux autorités concordent** : la page « Les marchés d'Évreux » de la Ville, dont les métadonnées portent une dernière modification du 16 juillet 2026, et le tableau « Vos marchés hebdomadaires » du *Guide des producteurs locaux* de l'agglomération Évreux Portes de Normandie, daté d'octobre 2024 par sa direction de la communication. **Horaires, règle 176** : 8h-13h à la Ville, 8h-12h à l'agenda régional Flanerbouger, qui renvoie pourtant lui-même à `evreux.fr` ; c'est la Ville qui est publiée et l'écart est cité dans le champ. **Produits, règle 187** : aucune source ne publie la liste des étals. Ne sont repris que les fruits et légumes — que l'annuaire Jours-de-Marché atteste en creux, en signalant que les épices et plantes aromatiques du marché de La Madeleine ne se trouvent « pas forcément sur le marché du centre-ville du samedi » — et le food-truck que le même annuaire dit régulier, attribué dans le champ. La photographie que la Ville publie dans sa rubrique « mon quotidien » montre un étal de légumes, mais elle illustre la rubrique et non ce marché : la règle 88 interdit d'en tirer `produits`. **Téléphone, règle 189** : 02 32 31 52 52, le standard de la mairie, seul numéro publié sur la page des marchés ; aucune ligne « commerces et marchés » n'existe pour Évreux. **Point** : « Place Georges Clemenceau » à la Base Adresse Nationale, score 0,964. **Voisinage, règle 12** : le magasin Mon Côté Bio est à **32 m**, au 14 de la même place ; chacun garde le point de sa propre source. **Photo, règle 164** : la photographie de marché que la Ville publie dans sa rubrique « mon quotidien » (804 × 512), recadrée sous la ligne des visages à 804 × 247 — il reste un étal de carottes et des cageots, aucune personne identifiable, rien n'est agrandi. Elle n'est attribuée à aucun des cinq marchés de la commune et sert donc aux trois fiches de marché de cette passe, ce que le README dit ici)
+- **Marché Saint-Michel** (Évreux) (marché de quartier du mardi et du vendredi matin, place Aimé-Doucerain ; catégorie et piliers des marchés municipaux. **Deux autorités** : la Ville et le guide des producteurs locaux de l'agglomération, concordants sur les deux jours et la place. **Nom de la place divergent** : la Ville et la Base Adresse Nationale écrivent « Aimé Doucerain », le guide de l'agglomération « André Doucerain » ; c'est la Base, qui géocode, et la commune, qui organise, qui sont suivies. **Produits** : les métiers que décrit l'annuaire Jours-de-Marché — un primeur, un charcutier, un poissonnier, parfois un marchand d'œufs fermiers — repris tels quels, l'annuaire ne contredisant ici ni la Ville ni l'agglomération. **Place rénovée en 2022**, ce qui explique le petit nombre d'étals que l'annuaire signale. **Point** : « Place Aimé Doucerain » à la Base Adresse Nationale, score 0,961. **Téléphone** : règle 189, comme les deux autres marchés. **Photo** : la même photographie municipale recadrée, règle 164)
+- **Marché de La Madeleine** (Évreux) (marché de quartier du dimanche matin, sous la halle de la place John-F.-Kennedy et dans les rues piétonnes autour du centre commercial ; catégorie et piliers des marchés municipaux. **Deux publications communales distinctes, règle 178** : le tableau « Les marchés d'Évreux » et la page d'événement « Marché en Musique #8 » du 13 septembre 2026, modifiée le 24 août 2026, qui situe le marché « au pied de la tour Aulne » et annonce « légumes, fruits, épices » — c'est de là que viennent les trois premières lignes de `produits`. Le guide de l'agglomération et l'annuaire Jours-de-Marché le confirment, ce dernier le décrivant « essentiellement alimentaire » avec des plantes aromatiques, des épices et des plats cuisinés absents du marché du centre-ville. **Deux séances, règle 188** : la Ville tient au même endroit un marché **non alimentaire** le vendredi après-midi, 13h-18h l'hiver et 19h l'été ; il est cité dans `horaires` et ne fait pas de seconde fiche. Le guide de l'agglomération, lui, range les deux séances sans les qualifier. **Point, règle 186** : la Base Adresse Nationale ignore cette place ; le point publié est celui que le registre des entreprises donne à trois entités distinctes domiciliées « PL JOHN F KENNEDY », 49,009856 / 1,160661, dont le contrôle inverse retombe sur l'allée Irène-et-Frédéric-Joliot-Curie à **41 m** — la voie que l'annuaire associe lui-même à ce marché. **Téléphone** : règle 189. **Photo** : la même photographie municipale recadrée, règle 164. L'affiche du « Marché en Musique », qui aurait relevé de la règle 182, a été écartée : elle montre une quinzaine de musiciens identifiables et ne fait que 400 px de large)
+- **AMAP d'Évreux** (Évreux) (distribution de paniers le jeudi de 18h à 19h à la maison de quartier du Clos au Duc ; catégorie et piliers des AMAP, **sans `environnement`** (règle 60) : aucune source ne publie de certificat au nom des fermes partenaires. **Deux sources concordantes** sur le lieu, le jour et les heures : l'annuaire du Réseau régional des AMAP de Normandie et l'annuaire Avenir-Bio, dont la fiche porte une mise à jour du 28 février 2024. **Registre, règle 6** : les AMAP en sont dispensées, mais l'association y figure — un établissement ouvert, immatriculé le 11 mai 2005. **Son adresse de siège n'est pas reprise** : c'est une adresse particulière, sans rapport avec le lieu de distribution. **Produits** : les neuf lignes de l'annuaire régional, regroupées en huit. **Fermes fournisseuses** : six au total ; seules leurs **communes** sont écrites dans la description — l'annuaire désigne quatre d'entre elles par le nom ou le prénom de leurs exploitants, qui ne sont pas repris, et la brasserie de Gravigny n'est nommée que par sa commune pour ne pas faire exception. **Contact** : l'annuaire publie une adresse de courriel associative et une page Facebook ; le schéma n'a pas de champ courriel et rien n'est repris. **Point** : « 5 Rue Pierre et Marie Curie » à la Base Adresse Nationale, numéro exact, score 0,965 ; l'accueil de loisirs municipal du Clos-au-Duc est au 2 de la même rue, ce qui confirme le pôle d'équipements. **Photo, règle 1** : aucune photographie du lieu de distribution n'est publiée, et le contenu éditorial du réseau régional est sous CC BY-SA, licence que le site ne sait pas créditer. La fiche porte donc le bandeau thématique que l'agglomération publie en tête de sa page « Producteurs locaux » — une cagette de légumes portée à bout de bras, aucun visage, 2 560 px réduits à 1 280 — qui ne prétend pas montrer la maison de quartier)
+- **Mon Côté Bio** (Évreux) (épicerie biologique indépendante, 14 place Georges-Clemenceau. **Registre, règle 6** : établissement ouvert, code 47.29Z ; c'est le seul établissement ouvert de la société, les deux autres, à Caen et à Mont-Saint-Aignan, sont fermés. **Bio** : inscription propre au registre national de l'Agence Bio, activités « Préparation » et « Distribution », `venteParticuliers` à vrai — le pilier `environnement` repose donc sur un certificat rattaché à ce point de vente (règles 45 et 95). **Enseigne divergente** : le registre bio et l'office de tourisme écrivent « Mon Côté Bio », l'enseigne que porte la devanture ; un annuaire commercial garde l'ancien nom « Évreux Diététique » et un comparateur de catalogues range l'adresse sous « Biomonde ». La raison sociale, patronymique, n'est pas reprise. **Horaires** : ceux que le magasin publie sur sa page « Contact », mardi-vendredi 9h-19h et samedi 9h-13h puis 14h30-19h ; les annuaires tiers donnent les mêmes. **Site ouvert avant inscription** : `moncotebio.com` répond, est bien celui de ce magasin — il se dit « le magasin bio de référence sur Evreux » — et n'a pas été racheté. **Téléphone** : le même numéro sur le site du magasin et sur la fiche de l'office de tourisme. **Courriel non repris** : le magasin publie une adresse, le schéma n'a pas ce champ. **Point** : « 14 Place Georges Clemenceau » à la Base Adresse Nationale, numéro exact (0,964), identique à la sixième décimale au point du registre bio. **Voisinage, règle 12** : 32 m du point du marché du centre-ville, qui se tient sur la place ; ce sont bien deux commerces distincts et chacun garde son point. **Photo** : la devanture publiée par l'office de tourisme sur sa fiche, un panier d'oranges devant l'enseigne, 1 200 × 900, sans personne)
 - **Marché du centre-ville de Saint-Brieuc** (le grand marché briochin, mercredi et samedi matin, places de la Résistance, du Martray et de la Grille. **Horaires, règle 176** : la Ville publie 8h-13h sur sa page « Marchés hebdomadaires », l'office de tourisme de la Baie de Saint-Brieuc 8h30-13h ; c'est la Ville qui est publiée, l'écart est cité dans le champ. **Retour place de la Résistance le 6 août 2025** après réaménagement, avec un plan d'étals repensé par thématique et une piétonnisation de 9h à 15h30 : l'article de la Ville le détaille rue par rue. **Produits** : les six thématiques que la Ville énumère, moins le non-alimentaire. **Aucun exposant n'est nommé** : la liste des étals n'est pas publiée pour ce marché. **Point** : « Place de la Résistance » à la Base Adresse Nationale (0,959) ; la place du Martray, second pôle du même marché, est à 190 m et ne fait pas une seconde fiche (règle 42). **Téléphone** : le service municipal de gestion du domaine public, publié par la Ville sur sa page des marchés. **Photo, règle 1** : un étal de tomates, haricots et céleris publié par l'office de tourisme sur sa page « Les marchés » — une photographie de marché de la destination, pas une vue datée de cette place)
 - **Marché de la Croix Saint-Lambert** (Saint-Brieuc) (marché du dimanche matin du quartier sud, cinquante à quatre-vingt-dix commerçants. **Horaires, règle 176** : la Ville écrit 9h-14h à deux endroits — le tableau des marchés et la page « Venir au marché de la Croix Saint-Lambert » — quand l'office de tourisme arrête la vente à 13h et compte trente à quatre-vingts exposants ; la version de la Ville est publiée. L'annuaire Jours-de-Marché, lui, donne 8h-13h : site participatif portant encore un bandeau d'alerte sanitaire de 2020, il n'a pas été retenu. **Adresse, règle 184** : aucune source ne nomme la place ; le point est le lieu-dit « Allée du marché » de la Base Adresse Nationale, contrôle inverse à 0 m, à 71 m de l'esplanade Alain Mimoun, 103 m de l'abri vélo de la rue Jean Grenier et 151 m du parking de la rue Romain Gary, les trois repères que la Ville publie. **Produits** : ceux que montre la photographie de la Ville, faute de liste d'étals. **Photo** : la photographie que la Ville attache à cette page, **recadrée à 1400 × 830 puis réduite à 1280** — l'original montre au premier plan un enfant et un groupe de chalands de face ; le recadrage garde les étals, la halle de l'Espace Saint-Lambert et son enseigne, qui rattache l'image à ce marché-ci)
 - **Marché des Villages** (Saint-Brieuc) (marché municipal du vendredi matin, square de l'Armée Patton, créé le 7 novembre 2025 pour remplacer le marché qui se tenait sur le parking privé d'un ancien centre commercial. **Trois sources concordantes** sur le jour et les heures : le tableau des marchés de la Ville, son article d'annonce et la fiche de l'office de tourisme. **Nombre d'étals divergent** : treize dans l'article d'annonce et à l'office, quinze dans le tableau des marchés — la fiche retient treize, le chiffre des deux sources qui décrivent le marché, et le tableau est cité ici. **Produits** : les métiers que l'article énumère, **jamais les noms** — sur les treize étals, cinq sont désignés dans la source par le patronyme de l'exploitant, et deux fermes par une enseigne. La Ville écrit n'avoir reçu aucune candidature de poissonnier. **Point** : le lieu-dit « Square de l'Armée Patton » à la Base Adresse Nationale (0,956) ; la rue de Penthièvre, que la Ville donne comme repère, est une voie de 441 m dont le point médian n'aurait rien précisé. **Photo, règle 185** : la photographie de la Ville montre une dizaine de personnes d'un bord à l'autre de l'image et la seule fenêtre sans visage tombe à 620 px de large ; la fiche porte donc une photographie thématique nette d'un étal d'herbes aromatiques, publiée par l'office de tourisme sur sa page « Les marchés »)
@@ -9266,6 +9322,50 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Évreux
+
+Passe du 20 septembre 2026, deuxième de la journée. **Département retenu, règle 41** : l'Eure (27),
+déficit **4,8512** pour 602 714 habitants et aucune fiche — premier du classement métropolitain sur
+une base de 555 fiches. La Réunion arrivait devant avec 7,1610, mais elle en sort par la règle 177.
+La réserve de région est respectée : la passe précédente visait les Côtes-d'Armor, en Bretagne.
+**Commune** : Évreux, 49 360 habitants, la plus peuplée du département et sans aucune fiche ; elle
+rend sept points vérifiables, deux de plus que le plafond de cinq.
+
+- **Marché de Nétreville (place des Peupliers, mercredi 13h-18h)** — **fiche vérifiée, ajournée par
+  le plafond de cinq au titre de la règle 187, pas par un doute.** Le jour, la place et les heures
+  sont confirmés par deux autorités : le tableau des marchés de la Ville d'Évreux et le guide des
+  producteurs locaux de l'agglomération d'octobre 2024. La place géocode à la Base Adresse
+  Nationale, score 0,964, 49,026533 / 1,171955. Ce qui manque est `produits` : la seule description
+  publiée est celle de l'annuaire Jours-de-Marché, « petit marché de quartier qui cherche sa place
+  parmi les autres marchés de la Ville », et l'annuaire ne nomme aucun étal. C'est l'un des rares
+  marchés d'après-midi de la commune, et le secteur a été rénové en 2022. **Déblocage** : n'importe
+  quelle source qui dise ce qu'on y achète — une page de la Ville propre à ce marché, une fiche
+  d'office de tourisme, un guide de l'agglomération plus récent. **La passe suivante sur Évreux le
+  reprend** (règle 11), après avoir refait la vérification complète.
+- **Marché de Navarre (place Bertrand du Pouget, dimanche 8h-13h)** — **même situation, même
+  motif.** Deux autorités concordantes sur le jour, la place et les heures ; la Base Adresse
+  Nationale rend « Place Bertrand du Pouget » à 0,962, 49,016838 / 1,123933 ; l'annuaire précise
+  que la place est celle de la mairie annexe du quartier. Là encore aucune source ne décrit les
+  étals — « petit marché de quartier, ayant la bonne idée de se dérouler le dimanche matin ».
+  Même déblocage, même reprise à la passe suivante sur la commune.
+- **Registre bio d'Évreux : vingt-sept opérateurs, aucun retenu en dehors de Mon Côté Bio.** La
+  pagination du registre national de l'Agence Bio sur le département rend, pour la commune,
+  cinq enseignes de la grande distribution (deux hypermarchés, un supermarché, deux magasins de
+  proximité d'un même groupe), un cash-and-carry, sept boulangeries ou pâtisseries sans vente de
+  produits fermiers déclarée, un façonnier pharmaceutique et plusieurs sociétés de négoce dont le
+  bloc `venteAnnuaire` porte `venteParticuliers` à faux. `MODERATION.md` écarte le commerce
+  généraliste et le négoce de gros ; la règle 4 ne rattache pas une boulangerie à `magasin-bio` sans
+  source indépendante décrivant une vente de produits fermiers. Une inscription bio pour du pain
+  frais reste une piste à instruire au prochain passage, pas une fiche refusée.
+- **Aucune piste écartée pour doute sur une personne dans la commune.** Le *Guide des producteurs
+  locaux* de l'agglomération et l'annuaire du réseau AMAP nomment une trentaine d'exploitants par
+  leur patronyme, avec téléphone personnel et courriel : rien de tout cela n'est repris, ici pas
+  plus que dans les fiches. Les exploitations de ce guide sont en outre situées hors d'Évreux, donc
+  hors du groupement de la passe.
+- **Une contradiction consignée, non remontée** : le siège social de l'AMAP est une adresse
+  particulière du registre des entreprises, distincte du lieu de distribution. Seul le lieu de
+  distribution est publié ; l'adresse de siège n'est écrite nulle part.
 
 ### Pistes non publiées à Saint-Brieuc
 

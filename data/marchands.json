@@ -14740,5 +14740,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20La%20Gambille%202%20rue%20Michelet%2022000%20Saint-Brieuc",
     "image_url": "/images/marchands/biocoop-la-gambille-centre-ville-saint-brieuc.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-centre-ville-evreux",
+    "nom": "Marché du centre-ville d'Évreux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.027168,
+    "lon": 1.148471,
+    "adresse": "Place Georges Clemenceau, 27000 Évreux",
+    "horaires": "Mercredi et samedi de 8h à 13h (horaires publiés par la Ville d'Évreux ; l'agenda régional Flanerbouger arrête la vente à 12h)",
+    "produits": [
+      "Fruits et légumes",
+      "Food-truck de burgers, présence régulière signalée par l'annuaire Jours-de-Marché"
+    ],
+    "description": "Marché principal d'Évreux, sur la place Georges-Clemenceau, deux matinées par semaine : le samedi rassemble le plus d'étals et le mercredi n'occupe qu'une partie de la place. L'agglomération Évreux Portes de Normandie l'inscrit au mercredi et au samedi matin dans son guide des producteurs locaux d'octobre 2024. Aucune source ne publie la liste des commerçants.",
+    "telephone": "02 32 31 52 52",
+    "site_web": "https://www.evreux.fr/mon-quotidien/les-marches-devreux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20place%20Georges%20Clemenceau%2027000%20%C3%89vreux",
+    "image_url": "/images/marchands/marche-centre-ville-evreux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-michel-evreux",
+    "nom": "Marché Saint-Michel",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.030225,
+    "lon": 1.135395,
+    "adresse": "Place Aimé Doucerain, quartier Saint-Michel, 27000 Évreux",
+    "horaires": "Mardi et vendredi de 8h à 13h (horaires publiés par la Ville d'Évreux)",
+    "produits": [
+      "Fruits et légumes",
+      "Charcuterie",
+      "Poissons",
+      "Œufs de ferme, présence occasionnelle"
+    ],
+    "description": "Marché de quartier réinstallé sur la place Aimé-Doucerain après la rénovation de celle-ci en 2022 ; l'espace ne permet qu'un petit nombre d'étals. L'annuaire Jours-de-Marché y décrit un primeur, un charcutier et un poissonnier, et par moments un marchand d'œufs fermiers. Le guide des producteurs locaux de l'agglomération, daté d'octobre 2024, confirme le mardi et le vendredi matin.",
+    "telephone": "02 32 31 52 52",
+    "site_web": "https://www.evreux.fr/mon-quotidien/les-marches-devreux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Saint-Michel%20place%20Aim%C3%A9%20Doucerain%2027000%20%C3%89vreux",
+    "image_url": "/images/marchands/marche-saint-michel-evreux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-la-madeleine-evreux",
+    "nom": "Marché de La Madeleine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.009856,
+    "lon": 1.160661,
+    "adresse": "Place John-F.-Kennedy, sous la halle et rues piétonnes du centre commercial, quartier de La Madeleine, 27000 Évreux",
+    "horaires": "Dimanche de 8h à 13h (horaires publiés par la Ville d'Évreux). Le vendredi après-midi, la Ville tient au même endroit un second marché qu'elle déclare non alimentaire, de 13h à 18h en hiver et 19h en été.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Épices",
+      "Plantes aromatiques",
+      "Plats cuisinés"
+    ],
+    "description": "Le marché de quartier le plus fourni d'Évreux, sous la halle et dans les rues piétonnes qui entourent le centre commercial Kennedy, au pied de la tour Aulne. La Ville y annonce « légumes, fruits, épices » et y programme le dimanche matin des concerts de l'orchestre d'harmonie municipal. L'annuaire Jours-de-Marché le décrit comme essentiellement alimentaire, avec des étals de plantes aromatiques, d'épices et de plats cuisinés qu'on ne retrouve pas au marché du centre-ville.",
+    "telephone": "02 32 31 52 52",
+    "site_web": "https://www.evreux.fr/mon-quotidien/les-marches-devreux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20La%20Madeleine%20place%20Kennedy%2027000%20%C3%89vreux",
+    "image_url": "/images/marchands/marche-la-madeleine-evreux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-evreux",
+    "nom": "AMAP d'Évreux",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.019508,
+    "lon": 1.164883,
+    "adresse": "Maison de quartier du Clos au Duc, 5 rue Pierre et Marie Curie, 27000 Évreux",
+    "horaires": "Distribution le jeudi de 18h à 19h, à la maison de quartier du Clos au Duc. Paniers réservés aux adhérents, commandés à l'avance auprès des fermes.",
+    "produits": [
+      "Panier de légumes",
+      "Pain au levain",
+      "Jus de pomme et produits de la pomme",
+      "Viande d'agneau",
+      "Œufs",
+      "Pâtes artisanales",
+      "Charcuterie",
+      "Bière locale"
+    ],
+    "description": "Cinquante paniers distribués chaque jeudi soir à la maison de quartier du Clos au Duc. L'association est enregistrée depuis mai 2005 et figure à l'annuaire du réseau régional des AMAP de Normandie, qui lui compte six fermes fournisseuses réparties dans l'Eure : légumes d'Amfreville-sur-Iton, pain au levain, farines et lentilles de Buis-sur-Damville, farines de Sainte-Colombe-la-Commanderie, œufs et charcuterie de Quatremare, bière d'une brasserie de Gravigny.",
+    "site_web": "https://reseau-amap-hn.com/amap/amap-d-evreux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20de%20quartier%20du%20Clos%20au%20Duc%205%20rue%20Pierre%20et%20Marie%20Curie%2027000%20%C3%89vreux",
+    "image_url": "/images/marchands/amap-evreux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "mon-cote-bio-evreux",
+    "nom": "Mon Côté Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.027327,
+    "lon": 1.148835,
+    "adresse": "14 Place Georges Clemenceau, 27000 Évreux",
+    "horaires": "Du mardi au vendredi de 9h à 19h, samedi de 9h à 13h puis de 14h30 à 19h. Fermé le dimanche et le lundi.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Épicerie bio",
+      "Produits laitiers",
+      "Thés, tisanes et herboristerie",
+      "Compléments alimentaires",
+      "Cosmétiques et hygiène"
+    ],
+    "description": "Épicerie biologique indépendante installée sur la place Georges-Clemenceau, au bord de la place où se tient le marché du mercredi et du samedi. Le magasin propose la livraison à domicile sans frais et la commande à l'avance par téléphone, à retirer en boutique. Certification biologique inscrite au registre national de l'Agence Bio pour cet établissement.",
+    "telephone": "02 32 33 49 83",
+    "site_web": "https://www.moncotebio.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mon%20C%C3%B4t%C3%A9%20Bio%2014%20place%20Georges%20Clemenceau%2027000%20%C3%89vreux",
+    "image_url": "/images/marchands/mon-cote-bio-evreux.jpg",
+    "a_confirmer": true
   }
 ]
