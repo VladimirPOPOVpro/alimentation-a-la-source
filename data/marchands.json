@@ -15155,5 +15155,114 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20de%20la%20M%C3%A9tairie%2039%20boulevard%20Pierre%20Lefaucheux%2072100%20Le%20Mans",
     "image_url": "/images/marchands/ferme-metairie-le-mans.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-amiens",
+    "nom": "Les Halles d'Amiens",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.895195,
+    "lon": 2.295856,
+    "adresse": "1 Place Maurice Vast, 80000 Amiens",
+    "horaires": "Côté marché : fermé le lundi, du mardi au jeudi de 9h à 13h et de 15h à 19h, les vendredi et samedi de 8h à 19h, le dimanche de 8h à 13h. Ces heures sont celles du gestionnaire des halles. La page « Marchés de plein vent » de la Ville d'Amiens annonce encore « du mardi au samedi de 9h à 19h et le dimanche de 9h à 12h30 » sous l'ancien nom du lieu (règle 176) : la fiche reste a_confirmer.",
+    "produits": [
+      "Fruits et légumes de primeur",
+      "Légumes des hortillonnages d'Amiens",
+      "Poissons et coquillages",
+      "Viandes et charcuteries",
+      "Fromages et crèmerie",
+      "Pains et viennoiseries",
+      "Vins et bières"
+    ],
+    "description": "Halle couverte du centre d'Amiens, au pied du beffroi, réaménagée et rouverte sous le nom de Les Halles d'Amiens : la Ville décrit vingt-quatre commerçants, artisans et traiteurs réunis autour d'un marché, d'un food court et d'un café, dans un bâtiment inauguré en 1994 comme halle au frais. Le gestionnaire publie la liste de ses étals — maraîcher des hortillonnages, primeur, deux poissonneries, boucherie, fromagerie, boulangerie, caviste — et ce sont ces métiers, et non une reformulation, qui alimentent les produits.",
+    "site_web": "https://www.amiens.fr/Grands-projets/Les-Halles-d-Amiens",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles%20d%27Amiens%201%20place%20Maurice%20Vast%2080000%20Amiens",
+    "image_url": "/images/marchands/halles-amiens.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-sur-l-eau-amiens",
+    "nom": "Marché sur l'eau (place Parmentier)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.895601,
+    "lon": 2.304857,
+    "adresse": "Place Parmentier, 80000 Amiens",
+    "horaires": "Le samedi matin, de 6h à 13h selon la Ville d'Amiens. L'office de tourisme d'Amiens Métropole écrit « tous les samedis matin » sans heure, et les annuaires de marchés donnent 8h à 13h (règle 176) : c'est l'heure de la commune qui est publiée, la fiche reste a_confirmer.",
+    "produits": [
+      "Légumes des hortillonnages",
+      "Fruits de saison",
+      "Fleurs coupées et plants",
+      "Produits frais de maraîchers locaux"
+    ],
+    "description": "Marché du samedi matin sur les quais de Saint-Leu, héritier du marché créé en 1882 à cet endroit, quand les maraîchers des hortillonnages accostaient directement au quai dans leurs barques à cornet. La Ville et l'office de tourisme le présentent l'un comme l'autre comme le marché des produits frais et des fleurs venus des hortillonnages ; une fois par an, le marché se tient comme autrefois, les barques chargées de légumes, de fruits et de fleurs descendant la Somme jusqu'à la place.",
+    "site_web": "https://www.amiens.fr/Vivre-a-Amiens/Commerce/Marches-de-plein-vent",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20sur%20l%27eau%20place%20Parmentier%2080000%20Amiens",
+    "image_url": "/images/marchands/marche-sur-l-eau-amiens.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ile-aux-fruits-amiens",
+    "nom": "L'Île aux Fruits",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.892291,
+    "lon": 2.320269,
+    "adresse": "325 Rue de Verdun, 80000 Amiens",
+    "horaires": "Le mercredi de 17h à 19h, le jeudi de 17h à 21h, le vendredi de 17h à 19h et le samedi de 10h à 12h30, selon la page « infos pratiques » du lieu. La page d'accueil du même site annonce le jeudi « de 17h à 22h » : l'écart est signalé, ce sont les heures de la page pratique qui sont publiées et la fiche reste a_confirmer.",
+    "produits": [
+      "Légumes bio de saison cultivés sur place",
+      "Légumes des hortillonnages",
+      "Fruits de saison",
+      "Fromages de producteurs locaux",
+      "Bières locales",
+      "Pains, farines et légumes secs de producteurs partenaires"
+    ],
+    "description": "Ferme maraîchère urbaine installée sur une île de la Somme, en pleine ville d'Amiens, qui cultive fruits et légumes en permaculture et tient un marché plusieurs soirs par semaine au 325 rue de Verdun. L'office de tourisme d'Amiens Métropole la décrit comme une ferme urbaine pratiquant la vente directe pour quatre-vingts producteurs locaux ; le lieu est porté par une association et demande une adhésion annuelle de deux euros pour accéder au marché. L'exploitation maraîchère déclarée à cette adresse est engagée auprès d'Ecocert depuis mai 2017 au registre national de l'Agence Bio. Terrain en terre battue, sans stationnement aménagé ni accès fauteuil, précise l'office.",
+    "site_web": "https://ile-aux-fruits.fr/infos-pratiques",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27%C3%8Ele%20aux%20Fruits%20325%20rue%20de%20Verdun%2080000%20Amiens",
+    "image_url": "/images/marchands/ile-aux-fruits-amiens.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-berche-du-bio-dury",
+    "nom": "Biocoop Berche du Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.860418,
+    "lon": 2.276342,
+    "adresse": "84 Route d'Amiens, 80480 Dury",
+    "horaires": "Du lundi au samedi de 9h à 19h30. Fermé le dimanche. Mêmes heures sur le site du magasin et sur l'annuaire national du réseau.",
+    "produits": [
+      "Fruits et légumes bio de saison, en priorité locaux",
+      "Boucherie bio à la coupe",
+      "Fromages, charcuterie et traiteur à la coupe",
+      "Plus de trois cents références en vrac",
+      "Produits d'entretien écologiques",
+      "Cosmétiques et compléments alimentaires bio"
+    ],
+    "description": "Magasin biologique coopératif et indépendant du réseau Biocoop, ouvert depuis 2012 au sud de l'agglomération amiénoise, dans un bâtiment à basse consommation de plus de cinq cents mètres carrés. Il annonce une boucherie bio artisanale, une coupe fromage et charcuterie et plus de trois cents références en vrac, alimentaires comme ménagères, et accepte les contenants réutilisables à ces rayons. Une boulangerie biologique distincte occupe le local voisin. L'exploitant est engagé au registre national de l'Agence Bio pour cette adresse, et son établissement est actif au registre des entreprises.",
+    "telephone": "03 22 41 52 30",
+    "site_web": "https://www.amiens-biocoop.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Berche%20du%20Bio%2084%20route%20d%27Amiens%2080480%20Dury",
+    "image_url": "/images/marchands/biocoop-berche-du-bio-dury.jpg",
+    "a_confirmer": true
   }
 ]

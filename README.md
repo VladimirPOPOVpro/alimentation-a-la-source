@@ -2537,10 +2537,69 @@ prioritaires en cas de conflit.
      séance non reconnue par la commune peut avoir été déplacée ou supprimée sans que le relais
      l'apprenne.
 
+197. **La règle 187 ne sert pas qu'à départager : un marché dont aucune source ne dit ce qu'on y
+     achète s'ajourne, même quand le plafond de cinq ne mord pas.** À Amiens, la Ville publie dix
+     marchés de plein vent avec leur jour et leurs heures, et les annuaires confirment plusieurs
+     d'entre eux à la demi-heure près. Mais la page communale ne porte qu'une phrase pour les dix
+     — « de nombreux producteurs et commerçants locaux vous y proposent une grande diversité de
+     produits » — et l'office de tourisme ne décrit que trois marchés sur dix. Pour le marché de la
+     place Maurice-Vast, celui de l'esplanade Édouard-Branly, celui de la rue Dargent et ceux
+     d'Étouvie, **aucune source ne nomme un seul métier ni une seule famille de produits**. Le
+     schéma exige `produits` non vide et `AGENT.md` le veut concret : il n'y avait rien à y mettre
+     sans inventer. La règle 187 avait été écrite à Évreux comme un départage sous plafond ; elle
+     dit en réalité quelque chose de plus simple. **Critère** : un marché ne se publie que si une
+     source écrit, en toutes lettres, au moins une famille de ce qui s'y vend — la phrase générique
+     qui couvre tous les marchés d'une commune ne compte pas, parce qu'elle ne dit rien de
+     celui-là. Sinon il part en « Pistes non publiées », et la passe rend moins de cinq fiches
+     plutôt que d'en compléter une au jugé. **Conséquence assumée** : une passe peut rendre quatre
+     fiches. C'est exactement ce qui s'est passé à Amiens. Déblocage : une page communale propre au
+     marché, une liste d'exposants, ou un panneau lisible au sens de la règle 74.
+
+198. **Un numéro de portable qu'un office de tourisme publie pour une association, quand
+     l'association elle-même ne publie qu'une adresse électronique, ne se recopie pas.** L'office
+     de tourisme d'Amiens Métropole donne un 07 pour la ferme urbaine de la rue de Verdun. Le site
+     de la ferme, lui, publie une adresse, des heures d'ouverture et un courriel de contact —
+     **et aucun téléphone**. Un 07 est un numéro mobile ; celui d'une association bénévole est
+     très probablement celui d'une personne, et le mandat n'autorise que « un téléphone ou un site
+     que le commerce publie lui-même pour sa clientèle ». **Critère** : le champ `telephone` ne se
+     remplit qu'avec un numéro que le commerce publie lui-même, ou avec une ligne de service d'une
+     administration (règle 189). Un numéro relayé par un tiers, et absent des pages du commerce,
+     ne se publie pas — a fortiori un mobile. Ce n'est pas un doute sur l'office : c'est que le
+     silence du commerce sur son propre site est lui-même une information. La fiche part sans
+     téléphone, elle ne part pas sans adresse.
+
+199. **Le piège du nom de domaine racheté ne se lit pas que sur le site du commerce : une autorité
+     peut continuer à le publier longtemps après.** Deux pages de l'office de tourisme d'Amiens
+     Métropole renvoient encore vers le nom de domaine de l'ancienne halle au frais du beffroi. Ce
+     domaine répond, en HTTP 200, avec un site de casino en ligne — exactement le cas de la
+     poissonnerie Santa Lucia, noté plus haut dans ce README. La page de l'office est par ailleurs
+     à jour : elle donne le nouveau nom du lieu et ses vingt-quatre commerçants. **Critère** :
+     l'obligation d'ouvrir un site avant de l'inscrire ne dépend pas de la qualité de la source qui
+     le publie. Un lien repris d'un office de tourisme, d'une commune ou d'une chambre consulaire
+     s'ouvre comme les autres, et s'il est mort ou racheté, `site_web` prend la page de l'autorité
+     ou celle du gestionnaire, jamais le domaine hérité. Ici la fiche des halles renvoie vers la
+     page de la Ville, et le README garde la trace du domaine perdu.
+
+200. **Un établissement actif au registre des entreprises mais disparu de l'annuaire de son propre
+     réseau ne se publie pas.** Une épicerie de vrac d'Amiens porte au registre une enseigne
+     nationale, son établissement est ouvert, et son certificat biologique est engagé. Mais
+     l'annuaire officiel du réseau ne compte plus que deux magasins dans les Hauts-de-France, et
+     aucun à Amiens. Les deux sources sont de bonne qualité et se contredisent sur le seul point
+     qui compte pour un visiteur : la porte est-elle ouverte ? Le registre des entreprises met des
+     mois à enregistrer une cessation ; l'annuaire d'un réseau qui vit de son maillage n'a aucune
+     raison d'oublier un de ses points de vente. **Critère** : quand une enseigne de réseau est
+     absente de l'annuaire que ce réseau tient lui-même, la présomption d'ouverture tombe, quel que
+     soit l'état du registre, et la fiche part en « Pistes non publiées ». Déblocage : le retour du
+     magasin dans l'annuaire du réseau, ou une page propre au magasin qui publie ses heures.
+
 
 ## Marchands à confirmer
 
-529 fiches sur 570 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+533 fiches sur 574 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Halles d'Amiens** (Amiens) (halle couverte, catégorie `marche` et piliers des marchés. **Deux noms pour un même lieu, règle 176** : la page « Marchés de plein vent » de la Ville le nomme encore « La Halle au frais du beffroi » et annonce « du mardi au samedi de 9h à 19h et le dimanche de 9h à 12h30 », quand la page « Les Halles d'Amiens » de la même Ville décrit la réouverture du lieu sous son nouveau nom, avec vingt-quatre commerçants, artisans et traiteurs. Ce sont les heures du gestionnaire — mardi à jeudi 9h-13h et 15h-19h, vendredi et samedi 8h-19h, dimanche 8h-13h pour la partie marché — qui sont publiées, celles de la page communale étant citées dans `horaires`. **Produits, règle 74 appliquée à une liste et non à une image** : la liste d'étals que publie le gestionnaire nomme les métiers un par un — maraîcher des hortillonnages, primeur, deux poissonneries, boucherie, fromagerie, boulangerie, caviste — et c'est cette liste, mot pour mot, qui alimente `produits` ; les six stands de traiteur et le food court sont dans la description, pas dans `produits`. **Site web, règle 199** : le nom de domaine que l'office de tourisme publie encore pour ce lieu est racheté et sert un site de casino ; `site_web` renvoie vers la page de la Ville. Aucun téléphone : celui de l'office est attaché à l'ancienne enseigne. **Point** : 1 place Maurice Vast à la Base Adresse Nationale, score 0,961, contrôle inverse à 0 m. **Photo** : bandeau que la Ville publie sur sa page des Halles — l'enseigne, l'auvent de bois et le brise-soleil en miroir qui reflète le beffroi — 1 920 × 600 ramené à 1 280, sans personne.)
+- **Marché sur l'eau (place Parmentier)** (Amiens) (catégorie et piliers des marchés communaux. **Trois sources, deux heures de début, règle 176** : la Ville écrit samedi 6h-13h sur sa page des marchés de plein vent, l'office de tourisme écrit « tous les samedis matin » sans heure, et deux annuaires de marchés écrivent 8h-13h. L'heure publiée est celle de la commune, les autres versions sont nommées dans `horaires`. **Produits** : ce sont les deux autorités qui les donnent en toutes lettres — la Ville parle des barques « chargées de légumes, de fruits et de fleurs » qui alimentent ce marché, l'office de « produits frais et fleurs issus directement des Hortillonnages ». **Point** : centre de la place Parmentier à la Base, score 0,971, contrôle inverse à 0 m. **Photo, règles 46 et 75** : photographie que la Ville publie pour ce marché dans son journal municipal, une barque à cornet chargée de salades sur la Somme ; l'original montre une foule de visages reconnaissables sur le quai et deux personnes debout dans la barque. Recadrage sous la ligne des têtes, 1 000 × 337 : il ne reste que la barque, ses cageots et l'eau. La photographie est prise lors de la reconstitution annuelle, ce que dit la description ; elle ne prétend pas montrer un samedi ordinaire.)
+- **L'Île aux Fruits** (Amiens) (ferme maraîchère urbaine sur une île de la Somme, catégorie `ferme`. **Horaires, règle 5 entre deux pages d'un même site** : la page d'accueil annonce le jeudi « de 17h à 22h », la page « infos pratiques » détaille mercredi 17h-19h, jeudi 17h-21h, vendredi 17h-19h et samedi 10h-12h30. Ce sont les heures de la page pratique qui sont publiées, l'écart est cité. **Registre** : deux entités actives à l'adresse, une exploitation maraîchère depuis 2016 et une société de restauration depuis 2019. **Pilier `environnement`** : l'exploitation maraîchère est engagée auprès d'Ecocert depuis mai 2017 au registre national de l'Agence Bio. **Adhésion** : le lieu écrit lui-même qu'il est associatif et demande deux euros d'adhésion annuelle pour accéder au marché — c'est dans la description, parce qu'un visiteur doit le savoir avant de venir. **Téléphone, règle 198** : le 07 que publie l'office de tourisme n'est pas repris, le lieu ne publiant lui-même qu'un courriel. **Point** : 325 rue de Verdun à la Base, score 0,980, contrôle inverse à 0 m ; la ferme cultive par ailleurs sur l'île Saint-Aragone, adresse citée par le site mais non publiée ici, ce n'est pas un point de vente. **Photo, règle 46** : étal de légumes du marché, photographie du site du lieu, recadrée sous la ligne des visages — l'original montre deux personnes en gros plan et des clients attablés au fond — 1 920 × 780 ramené à 1 280 × 520. Une autre photographie du même site, écartée : ses étiquettes de prix portent le nom et le téléphone de producteurs.)
+- **Biocoop Berche du Bio** (Dury) (magasin biologique, catégorie `magasin-bio`, mêmes piliers que les fiches comparables du réseau. **Élargissement à l'agglomération, règle 96** : Dury appartient à Amiens Métropole, le magasin est à 4,4 km du beffroi d'Amiens, et trois fiches de la passe sont intra-muros. **Ouverture** : l'établissement est actif au registre à cette adresse ; les trois établissements que la même société a eus dans Amiens même — rue d'Abbeville, chaussée Jules-Ferry et place Gambetta — sont tous fermés, ce qui explique qu'il n'y ait aucun magasin de ce réseau dans la ville. **Horaires** : lundi au samedi 9h-19h30, identiques sur le site du magasin et sur l'annuaire national du réseau. **Produits** : la liste que le magasin publie lui-même. **Certification** : opérateur engagé au registre national de l'Agence Bio pour cette adresse. **Point** : 84 route d'Amiens à la Base, score 0,957, contrôle inverse à 0 m. **Photo** : image d'en-tête du site du magasin, la façade avec l'enseigne et la boulangerie voisine, 1 920 px ramenés à 1 280 ; une silhouette de dos, minuscule, aucun visage.)
 - **Marché des Jacobins** (Le Mans) (catégorie et piliers des marchés communaux. **Deux autorités, un écart d'une demi-heure, règle 176** : la page « Les marchés » de la Ville du Mans, mise à jour le 11 septembre 2026, donne 7h-12h30 pour les marchés du matin ; l'office de tourisme donne 7h-13h sur sa liste comme sur la fiche du marché, et son texte descriptif va jusqu'à 13h30 le mercredi et le vendredi. La fiche publie l'heure de la commune et nomme celle de l'office. **Point, règle 193** : les deux sources rattachent le marché à deux lieux voisins — la Ville écrit « avenue de Paderborn », l'office « place du Jet d'Eau, avenue de Paderborn » et intitule sa fiche « place du Jet d'Eau et place des Jacobins » ; le point est posé sur la place du Jet-d'Eau, la plus petite des emprises que les deux nomment, à 48,008375 / 0,198363. **Brocante** : les deux sources la décrivent le vendredi et le dimanche sur la place des Jacobins, non alimentaire, jusqu'à 17h30 le vendredi selon l'office ; elle est citée dans `horaires` au titre de la règle 188. **Téléphone, règle 189** : le 02 43 47 38 22 est la ligne du service municipal des droits de place, publiée sur la page des marchés de la Ville et reprise par l'office. **Photo** : étal de choux et de verdure devant la cathédrale Saint-Julien, photothèque de l'office de tourisme, original 1 024 × 1 295 px recadré en 1 024 × 780 ; les personnes présentes sont à distance, de dos ou de profil, aucun visage lisible.)
 - **Marché de Pontlieue** (Le Mans) (mêmes catégorie, piliers, source communale et téléphone que les Jacobins. Mercredi et dimanche matin, place Henri-Vaillant ; **même écart de sources, règle 176** : 7h-12h30 pour la Ville, 7h-13h pour l'office. Un annuaire privé de marchés sarthois, sans éditeur identifiable dans ses mentions, publie une troisième version — mercredi 7h-12h30, dimanche 7h-13h — et n'a pas été retenu. **Photo, règle 1** : barquettes de fraises, photothèque de l'office de tourisme, 2 048 × 1 536 px ramenés à 1 280 ; c'est une photo thématique des marchés du Mans, elle ne montre pas la place Henri-Vaillant.)
 - **Marché des Sablons** (Le Mans) (mêmes catégorie, piliers, source communale et téléphone que les deux autres. Jeudi matin ; **même écart d'une demi-heure, règle 176**. **Point, règle 194** : la Ville nomme « rues des Sablons, du Cantal et des Pyrénées » ; la Base Adresse Nationale géocode une rue des Sablons à 900 m à l'ouest des deux autres, tandis que la place des Sablons, la rue du Cantal et la rue des Pyrénées tiennent dans un même carré de trois cents mètres — et c'est « place des Sablons » que l'office met en tête de sa fiche. Le point est posé sur la place, à 47,991644 / 0,22373. **Photo** : étal de tomates, melons et pastèques du marché lui-même, fiche de l'office de tourisme, original carré 1 664 px recadré sur sa moitié basse puis ramené à 1 280 × 649 — le recadrage écarte une rangée de visages et laisse bien au-dessus du seuil de la règle 185.)
@@ -9430,6 +9489,93 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Amiens
+
+Passe du 21 septembre 2026. **Département retenu, règle 41** : la Somme (80), déficit **4,6740**
+pour 565 413 habitants et aucune fiche — premier du classement métropolitain sur une base de
+570 fiches. La Réunion arrivait devant avec 7,35, suivie des autres départements d'outre-mer ;
+tous sortent par la règle 177. La réserve de région est respectée : la passe précédente visait la
+Sarthe, dans les Pays de la Loire, celle-ci vise les Hauts-de-France. **Commune** : Amiens,
+136 449 habitants, la plus peuplée du département et sans aucune fiche. **Elle n'a rendu que
+quatre fiches publiables, pas cinq** — la raison est la règle 197, écrite ici, et le détail est
+plus bas. **Sources principales** : la page « Marchés de plein vent » de la Ville d'Amiens, qui
+recense dix marchés ; la page « Les Halles d'Amiens » de la même Ville ; la page « Les marchés
+locaux accessibles » de l'office de tourisme d'Amiens Métropole, à jour du nouveau nom des halles ;
+les articles du journal municipal filtrés sur « Marché de plein vent » ; le registre national de
+l'Agence Bio, dont la pagination complète sur la Somme rend 590 opérateurs, dont 64 déclarent une
+adresse à Amiens.
+
+- **Six marchés de plein vent d'Amiens, écartés par la règle 197 — faute de `produits`.** La place
+  Maurice-Vast (mercredi et samedi 8h-18h), l'esplanade Édouard-Branly (vendredi 8h-13h), la rue
+  Dargent (vendredi 8h30-13h), la place Görlitz (mardi 8h-13h, vendredi 13h-19h), la place de
+  l'Amitié entre les Peuples et l'avenue de Picardie à Étouvie sont tous recensés par la Ville avec
+  leur jour et leurs heures ; pour Branly et l'avenue de Picardie, un annuaire donne exactement les
+  mêmes heures. Leur existence n'est pas en cause. Ce qui manque est ailleurs : **aucune source ne
+  nomme un métier ni une famille de produits pour aucun d'eux**. La page communale ne porte qu'une
+  phrase pour les dix marchés, et l'office de tourisme n'en décrit que trois. Le schéma refuse un
+  `produits` vide, et le remplir de « fruits et légumes » au jugé serait de l'invention.
+  **Déblocage** : une page communale propre à l'un de ces marchés, une liste d'exposants, ou un
+  panneau lisible au sens de la règle 74.
+- **Le marché du Colvert, écarté sur son adresse.** C'est « le plus grand marché d'Amiens » selon
+  l'office de tourisme, le dimanche matin, et la Ville le place rue Léo-Lagrange les vendredi et
+  dimanche de 8h à 13h. Mais le journal municipal a annoncé en septembre 2024 que ses quelque
+  cent cinquante marchands dominicaux se redéployaient « à deux pas » — plus à l'est rue
+  Léo-Lagrange, rue César-Franck et avenue de la Paix — pour libérer l'emprise de l'ancienne halle,
+  et que l'aménagement de la place devait durer jusqu'en 2026. Deux ans plus tard, aucune source
+  ne dit où le marché se tient aujourd'hui de façon stable. Publier une adresse en cours de
+  déménagement, c'est envoyer quelqu'un au mauvais bout de la rue. **Déblocage** : une page de la
+  Ville ou de l'office donnant l'emplacement après travaux.
+- **Une épicerie de vrac d'Amiens, écartée par la règle 200 qu'elle a fait écrire.** Elle porte au
+  registre l'enseigne d'un réseau national de vrac, son établissement de la rue du Général-Leclerc
+  est ouvert depuis 2018, et son certificat biologique est engagé. Mais l'annuaire que ce réseau
+  tient lui-même ne compte plus que deux magasins dans les Hauts-de-France, à Lille et à Croix, et
+  aucun à Amiens. **Déblocage** : le retour du magasin dans l'annuaire du réseau, ou une page
+  propre au magasin publiant ses heures.
+- **Un magasin biologique indépendant d'Amiens, écarté par la règle 192.** Rue Saint-Patrice, la
+  société est active au registre depuis 2007, son certificat est engagé depuis mai 2007, le
+  registre de l'Agence Bio la classe « magasin spécialisé bio », la déclare non mixte — donc
+  entièrement biologique — et liste ses productions : fruits et légumes frais, fruits et légumes de
+  conservation, produits de boulangerie. Il lui manque une seule chose : **aucune source ne publie
+  ses horaires**. Elle n'a pas de site, le seul annuaire qui la référence est auto-renseigné et ne
+  donne ni jour ni heure, et l'annuaire du réseau bio auquel il la rattache ne la connaît plus.
+  **Déblocage** : des heures publiées par le magasin ou par une autorité locale.
+- **Deux maraîchages des hortillonnages, écartés par la règle 192.** L'un, rue de l'Agrappin, est
+  actif au registre et engagé à l'Agence Bio, et il figure dans le carnet des producteurs en
+  circuit court qu'Amiens Métropole a publié le 26 septembre 2025 ; l'autre, square Friant, est
+  engagé depuis 2013 et déclare vendre aux particuliers. Ni l'un ni l'autre n'a de page publiant
+  jour et heure de vente : le carnet de la Métropole est diffusé sur une plateforme de feuilletage
+  dont seules les premières lignes sont lisibles hors de son lecteur, et aucune des deux fermes
+  n'a de site propre. **Déblocage** : le carnet en version texte ou PDF, ou une page de ferme
+  publiant ses créneaux.
+- **Une ferme de Rivery, écartée faute de source stable.** Le journal municipal du 4 février 2026
+  décrit une reprise de maraîchage biologique dans les marais de Rivery, avec bail rural signé avec
+  Amiens Métropole, quarante-cinq à cinquante légumes annoncés et la création d'un marché. La
+  société est active au registre depuis décembre 2025 et engagée à l'Agence Bio. Mais la seule
+  source qui publie des créneaux de vente est une page de réseau social ; l'article, lui, ne donne
+  ni adresse de vente ni heures. **Déblocage** : une page publiant l'adresse et les créneaux du
+  point de vente. L'article nomme et photographie les deux exploitants : ni leurs noms ni leur
+  photographie ne sont repris ici.
+- **Une vente à la ferme de Dury, écartée par la règle 6.** Le carnet des producteurs d'Amiens
+  Métropole la nomme avec son adresse route d'Amiens et ses heures, mercredi et vendredi
+  15h-19h. Aucune entité de ce nom n'existe au registre des entreprises, ni au registre de
+  l'Agence Bio. Une enseigne que seule une brochure connaît n'est pas une entité vérifiable.
+  **Déblocage** : une immatriculation au registre, ou une seconde source indépendante.
+- **Le nom de domaine de l'ancienne halle au frais est racheté — deux pages de l'office de tourisme
+  le publient encore.** Il répond en HTTP 200 avec un site de casino en ligne, comme la
+  poissonnerie Santa Lucia en son temps. Les pages de l'office sont par ailleurs à jour, l'une
+  donnant le nouveau nom du lieu et ses vingt-quatre commerçants. C'est la règle 199 : un lien
+  repris d'une autorité s'ouvre comme les autres. Piste technique, pas éditoriale.
+- **Un règlement communal illisible.** La Ville publie en PDF le règlement de ses marchés de plein
+  vent, 22 pages, 1,7 Mo. C'est un scan sans couche de texte : l'extraction rend zéro caractère.
+  Il aurait pu servir de seconde source communale au sens de la règle 178 et, peut-être, donner la
+  composition des marchés. **Déblocage** : une version texte, ou un outil de reconnaissance de
+  caractères — ce qui n'est pas du ressort d'une passe de données.
+- **Aucune fiche écartée pour doute sur une personne à Amiens.** Trois entrées du registre bio
+  amiénois ne portent qu'un patronyme, sans enseigne : elles n'ont pas été instruites, et leurs
+  noms n'apparaissent nulle part. Une photographie du site de la ferme urbaine a en revanche été
+  écartée parce que ses étiquettes de prix portaient le nom et le numéro de téléphone de
+  producteurs.
 
 ### Pistes non publiées au Mans
 
