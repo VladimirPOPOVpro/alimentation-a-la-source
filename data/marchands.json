@@ -13930,5 +13930,136 @@
     "site_web": "https://www.lepotagerdelatenteverte.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Potager+de+la+Tente+Verte+39+ter+rue+de+Belfort+59240+Dunkerque",
     "image_url": "/images/marchands/le-potager-de-la-tente-verte-dunkerque.jpg"
+  },
+  {
+    "slug": "marche-axe-majeur-horloge-cergy",
+    "nom": "Marché Axe Majeur / Horloge",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.048048,
+    "lon": 2.033783,
+    "adresse": "Place du Marché, rue de l'Abondance et avenue Mondétour, 95800 Cergy",
+    "horaires": "Mercredi et samedi de 8h30 à 13h15 selon la Ville de Cergy. L'office de tourisme de Cergy-Pontoise confirme les deux matinées sans publier d'heures.",
+    "produits": [
+      "Produits alimentaires de saison"
+    ],
+    "description": "Le troisième plus grand marché d'Île-de-France selon la Ville de Cergy, avec deux cent quarante-quatre commerçants, alimentaires et manufacturés, deux matinées par semaine en amont de la gare RER de Cergy-Saint-Christophe. L'exploitation des trois marchés de la commune est confiée à un délégataire de service public. Ni la Ville ni l'office de tourisme ne publient la liste des étals.",
+    "site_web": "https://www.cergy.fr/mes-services-mes-demarches/commerces-marches/les-commerces-a-cergy/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Axe%20Majeur%20Horloge%20place%20du%20March%C3%A9%2095800%20Cergy",
+    "image_url": "/images/marchands/marche-axe-majeur-horloge-cergy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-grand-centre-cergy",
+    "nom": "Marché du Grand Centre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.036499,
+    "lon": 2.079484,
+    "adresse": "Place devant la gare de Cergy-Préfecture, 95000 Cergy",
+    "horaires": "Jeudi de 15h30 à 19h30. La Ville précise que ces créneaux restent en phase de test et pourront évoluer selon la fréquentation.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Poisson",
+      "Fromages",
+      "Charcuterie",
+      "Œufs frais",
+      "Café torréfié",
+      "Traiteur asiatique"
+    ],
+    "description": "Marché alimentaire ouvert le 28 mai 2026 par la Ville de Cergy sur la place devant la gare de Cergy-Préfecture, avec une dizaine d'exposants et une offre centrée sur les produits frais. C'est le seul des trois marchés de la commune à se tenir l'après-midi : les horaires de fin de journée ont été choisis pour les habitants, les étudiants et les salariés du quartier.",
+    "site_web": "https://www.cergy.fr/mes-services-mes-demarches/commerces-marches/les-commerces-a-cergy/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Grand%20Centre%20gare%20de%20Cergy-Pr%C3%A9fecture%2095000%20Cergy",
+    "image_url": "/images/marchands/marche-grand-centre-cergy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-hauts-de-cergy",
+    "nom": "Marché des Hauts-de-Cergy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.050053,
+    "lon": 2.008884,
+    "adresse": "Cours des Merveilles, 95000 Cergy",
+    "horaires": "Dimanche de 9h30 à 13h30 selon la Ville de Cergy. L'office de tourisme de Cergy-Pontoise confirme le dimanche matin sans publier d'heures.",
+    "produits": [
+      "Produits alimentaires de saison",
+      "Produits biologiques"
+    ],
+    "description": "Le marché du dimanche matin du quartier des Hauts-de-Cergy, sur le cours des Merveilles, à quelques centaines de mètres de la gare RER de Cergy-le-Haut. La Ville y compte vingt-deux commerçants alimentaires et signale la présence de produits biologiques, sans publier la liste des étals. Aucune source ne donne de numéro sur le cours : le point est celui du milieu de la voie.",
+    "site_web": "https://www.cergy.fr/mes-services-mes-demarches/commerces-marches/les-commerces-a-cergy/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Hauts-de-Cergy%20cours%20des%20Merveilles%2095000%20Cergy",
+    "image_url": "/images/marchands/marche-des-hauts-de-cergy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-plaisirs-du-jardin-cergy",
+    "nom": "Les Plaisirs du Jardin",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.023146,
+    "lon": 2.083234,
+    "adresse": "8 chemin des Pâtis, 95000 Cergy",
+    "horaires": "Magasin à la ferme le mercredi et le vendredi de 9h30 à 19h, le jeudi de 15h à 19h, le samedi de 9h30 à 12h30 ; retrait des commandes en drive le lundi de 14h à 16h et le mardi de 10h30 à 12h30. La page « Maraîchers cergyssois » de la Ville de Cergy publie des horaires plus anciens et différents.",
+    "produits": [
+      "Légumes biologiques de saison",
+      "Fruits rouges",
+      "Paniers de légumes composés",
+      "Pain biologique",
+      "Œufs fermiers",
+      "Jus de fruits et limonades biologiques",
+      "Miels",
+      "Farines et pâtes"
+    ],
+    "description": "Ferme maraîchère biologique de treize hectares dans la plaine maraîchère de Cergy, entre le bois de Cergy et l'Oise, qui annonce cent soixante variétés de légumes et des fruits rouges, et les vend au magasin de la ferme. Le comptoir accueille aussi les produits d'autres producteurs : pains, œufs, jus, miels et conserves. L'exploitation est engagée en agriculture biologique au registre de l'Agence Bio et publie un certificat valable jusqu'au 31 mars 2027. Un retrait de paniers est assuré le jeudi midi sur le campus de CY Cergy Paris Université, boulevard du Port.",
+    "site_web": "https://lesplaisirsdujardin.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Plaisirs%20du%20Jardin%20chemin%20des%20P%C3%A2tis%2095000%20Cergy",
+    "image_url": "/images/marchands/les-plaisirs-du-jardin-cergy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-rivoise-cergy",
+    "nom": "La Rivoise",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.023159,
+    "lon": 2.080349,
+    "adresse": "42 chemin des Voies, 95000 Cergy",
+    "horaires": "Vente au détail à la ferme le mercredi et le samedi de 9h à 12h, le vendredi de 9h à 12h puis de 14h à 19h. La page « Maraîchers cergyssois » de la Ville de Cergy et une page plus ancienne du site de la ferme annoncent une fermeture à 18h le vendredi.",
+    "produits": [
+      "Légumes de plein champ",
+      "Légumes de serre",
+      "Salades",
+      "Radis",
+      "Petits pois",
+      "Fraises",
+      "Paniers de fruits et légumes sur abonnement",
+      "Volailles, poisson et miel de producteurs partenaires"
+    ],
+    "description": "Exploitation maraîchère de seize hectares dans la boucle de l'Oise, en plein cœur de Cergy, qui vend sans intermédiaire depuis plus de vingt ans : une trentaine de produits et environ quatre-vingts variétés, cultivés en plein champ, sous serres chauffées et sous abris froids. La ferme pratique la protection biologique intégrée — lâchers d'insectes auxiliaires plutôt que traitements — et récupère depuis 1994 les eaux de pluie de ses sept mille mètres carrés de serres, mais elle n'est pas certifiée en agriculture biologique. Des producteurs partenaires y tiennent certains jours un étal de volailles, de poisson et de miel.",
+    "telephone": "01 30 32 53 81",
+    "site_web": "https://www.larivoise.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Rivoise%2042%20chemin%20des%20Voies%2095000%20Cergy",
+    "image_url": "/images/marchands/la-rivoise-cergy.jpg",
+    "a_confirmer": true
   }
 ]

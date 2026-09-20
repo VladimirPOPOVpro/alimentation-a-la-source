@@ -2139,10 +2139,50 @@ prioritaires en cas de conflit.
      géocodé, qui attend en pistes pour cette seule raison ; celui de la place Saint-Nicolas, lui,
      est fermé par la règle 166 et non par celle-ci.
 
+168. **La préférence de catégorie de la règle 167 suppose une qualité de vérification égale, et deux
+     fiches de même catégorie ne se comptent comme une répétition que si elles servent le même
+     besoin au même moment.** Cergy a rendu neuf candidates : trois marchés que la Ville organise,
+     quatre exploitations maraîchères de la plaine agricole, un magasin à la ferme et une AMAP. Lue
+     à la lettre, la règle 167 aurait donné la cinquième place au magasin à la ferme, seule
+     candidate de la catégorie `magasin-bio`. Deux raisons de ne pas le faire, qui font la règle.
+     **D'abord la qualité** : ce magasin n'est décrit que par une seule page de la Ville, il n'a ni
+     site propre ni photographie, et il est absent du registre de l'Agence Bio malgré son enseigne ;
+     la fiche qui lui disputait la place a son site, son téléphone vérifié et sa propre
+     photographie. La règle 167 écrit « à qualité de vérification égale », et cette condition n'est
+     pas remplie. **Ensuite la répétition** : les trois marchés de Cergy ne se recoupent d'aucun
+     jour — mercredi et samedi matin à l'Axe Majeur, jeudi de 15h30 à 19h30 au Grand Centre, le seul
+     de l'après-midi, dimanche matin aux Hauts-de-Cergy. Un troisième marché qui ouvre le seul
+     créneau de semaine que les deux autres laissent vide n'est pas « un quatrième marché de plein
+     air » au sens de la règle 167 : il ne répète rien. **Critère** : deux fiches de même catégorie
+     comptent comme une répétition quand leurs jours d'ouverture se recoupent ; sinon elles comptent
+     comme distinctes, et la préférence de catégorie ne s'applique qu'entre candidates également
+     vérifiées. La candidate écartée part en pistes avec son critère de déblocage, comme la
+     règle 11 le prévoit.
+
+169. **Quand l'autorité situe un marché par un équipement public plutôt que par une adresse, c'est
+     l'équipement qu'il faut géocoder, et dans la base de son exploitant.** La Ville de Cergy place
+     son nouveau marché « place devant la gare de Cergy-Préfecture ». La Base Adresse Nationale ne
+     connaît aucune place de ce nom ; interrogée sur « gare de Cergy-Préfecture » elle rend le
+     **Parvis de la Préfecture**, qui a l'air d'être la bonne réponse et ne l'est pas : le jeu de
+     données « Liste des gares » de SNCF Open Data place la gare à **2,079484 / 49,036499**, soit
+     **195 m à l'est** de ce parvis, qui est celui de la préfecture et non celui de la gare. Le
+     point publié est celui de la gare. **Critère** : un équipement public nommé par l'autorité se
+     géocode dans le référentiel de l'organisme qui l'exploite — gares chez SNCF Open Data,
+     équipements municipaux dans l'annuaire de la commune — avant tout repli sur une voie
+     homonyme de la Base Adresse Nationale. Une voie dont le nom ressemble à celui de l'équipement
+     n'est pas l'équipement : c'est la même erreur que celle de la règle 10 sur Font du Broc, à
+     ceci près qu'ici elle se serait commise en croyant appliquer la Base. La fiche reste en
+     `a_confirmer` tant que la Ville ne publie pas de point pour son marché.
+
 ## Marchands à confirmer
 
-484 fiches sur 525 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+489 fiches sur 530 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
+- **Marché Axe Majeur / Horloge** (Cergy) (jour, heures et lieu publiés par la Ville de Cergy et le jour confirmé par l'office de tourisme de Cergy-Pontoise ; aucune des deux sources ne publie la liste des étals, et aucune ne photographie ce marché : l'illustration est le bandeau générique de la page « Marchés » de la Ville, partagé avec les deux autres marchés cergyssois au titre de la règle 164)
+- **Marché du Grand Centre** (Cergy) (la Ville écrit elle-même que les horaires de fin de journée restent « en phase de test » et pourront évoluer ; la place n'a pas de nom dans la Base Adresse Nationale et le point est celui que SNCF Open Data donne à la gare de Cergy-Préfecture, règle 169 ; bandeau générique partagé, règle 164)
+- **Marché des Hauts-de-Cergy** (Cergy) (le cours des Merveilles n'a qu'un seul numéro connu de la Base Adresse Nationale, le 3 ; aucune source ne situe le marché sur le cours, le point est donc celui du milieu de la voie, à 290 m de la gare de Cergy-le-Haut. La Ville signale des produits biologiques sans nommer d'étal ; bandeau générique partagé, règle 164)
+- **Les Plaisirs du Jardin** (Cergy) (**horaires contredits, règle 5** : la page « Maraîchers cergyssois » de la Ville annonce mercredi 9h30-12h30, jeudi 16h30-19h, vendredi 13h30-19h et samedi 9h30-12h30, quand la ferme publie sur son propre site — page « points relais » et affiche « horaires 2026 » déposée en août 2026 — mercredi et vendredi 9h30-19h, jeudi 15h-19h, samedi 9h30-12h30 ; ce sont les horaires de la ferme qui figurent dans la fiche, comme les plus récents. **Point, règle 10** : la Base Adresse Nationale ignore le 8 du chemin des Pâtis et n'en connaît que le 1 et le 49, trop éloignés pour l'interpolation de la règle 161 ; le point est celui du registre des entreprises, dont le contrôle inverse rend bien le chemin des Pâtis à 61 m, alors que celui de l'Agence Bio tombe à 280 m de là, sur le chemin des Voies. **Téléphone non repris** : les deux seuls numéros publiés, celui du site et celui du registre bio, sont des portables et diffèrent l'un de l'autre. Le nombre de variétés diverge aussi d'une page à l'autre du site, cent soixante ou cent quarante)
+- **La Rivoise** (Cergy) (**horaires contredits, règle 5** : la page d'accueil de la ferme annonce le vendredi jusqu'à 19h, sa propre page « vente à la ferme » — datée du 19 mai 2020 — et la page « Maraîchers cergyssois » de la Ville jusqu'à 18h ; les deux versions sont publiées. Le registre des entreprises situe le siège au 44 chemin des Voies quand la ferme et la Ville donnent le 42, que la Base Adresse Nationale connaît exactement : c'est le 42, l'adresse donnée aux visiteurs, qui figure ici, à 34 m de l'autre. Pas de pilier `environnement` : la ferme revendique la protection biologique intégrée et l'agriculture raisonnée, ce qui n'est pas une certification vérifiable au sens des règles 14 et 15, et elle est absente du registre de l'Agence Bio)
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
 - **Domaine de la Bouverie** (horaires à préciser)
@@ -2746,6 +2786,99 @@ sous un patronyme sans enseigne déclarée, ce qui suffirait à elle seule à ne
 finissait par une phrase biographique sur la personne qui a créé l'entreprise. Aucun nom n'y
 figurait, mais l'enseigne suffisait à l'identifier, et une fiche ne porte que l'enseigne, l'adresse,
 les horaires et les produits. La phrase a été retirée.
+
+### Pistes non publiées à Cergy
+
+Département visé : le **Val-d'Oise (95)**, déficit **4,7584** au titre de la règle 41 avec 525 fiches publiées, dont cinq
+dans le département, toutes à Argenteuil. La Réunion (6,7739) reste écartée par la règle 93. La passe précédente en mode 2
+visait le Nord, en Hauts-de-France ; le Val-d'Oise est en Île-de-France, la réserve de la règle 41.c ne joue pas. Après la
+passe, le 95 tombe à **−0,1487** avec dix fiches ; en tête du classement ensuite, outre-mer écarté :
+l'**Indre-et-Loire** (4,7607), le **Rhône** (4,7169), les **Côtes-d'Armor** (4,7030) et la **Seine-Maritime** (4,6923).
+
+Commune retenue : **Cergy**, 70 906 habitants, la deuxième du Val-d'Oise et la plus peuplée sans aucune fiche —
+Argenteuil, qui la précède, en a cinq. Elle a rendu **neuf candidates entièrement instruites**, sans qu'il faille
+descendre par population : trois marchés que la Ville organise, quatre exploitations maraîchères de la plaine agricole,
+un magasin à la ferme et une AMAP. Le mandat arrête une passe à cinq, et c'est la règle 168, née ici, qui a choisi.
+Les cinq points tiennent dans 6,2 km — du cours des Merveilles, à l'ouest, au chemin des Pâtis, au sud-est.
+
+**Les sources qui ont fait la passe.** La page « Marchés » de `cergy.fr`, qui donne jour, heures, lieu et nombre de
+commerçants pour les trois marchés ; la page « Les maraîchers cergyssois en vente directe » de la même Ville, qui
+recense cinq exploitations de la plaine avec leur adresse et leurs horaires — une page rare, qui dresse à elle seule
+l'inventaire de la vente directe de toute la commune ; l'actualité du 4 mai 2026 annonçant le marché du Grand
+Centre, qui donne la liste des métiers présents et le nom du délégataire ; la page « Marchés » de
+`ot-cergypontoise.fr`, seule source indépendante de la Ville, qui confirme deux des trois marchés sans publier
+d'heures ; les sites propres de trois des quatre maraîchers ; le registre national de l'Agence Bio pour le 95,
+**372 opérateurs** paginés par cent, filtrés à la main sur Cergy ; le registre des entreprises ; la Base Adresse
+Nationale ; et le jeu de données « Liste des gares » de SNCF Open Data, entré dans la boîte à outils par la règle 169.
+
+**Le registre bio du 95 rend vingt et un opérateurs à Cergy et un seul publiable.** **Treize** portent un **certificat
+arrêté** ; **trois** sont des enseignes de distribution au certificat engagé, que `MODERATION.md` écarte comme commerces
+généralistes — une enseigne de grande distribution et les deux magasins d'une enseigne bio nationale, auxquels s'ajoutent parmi les
+certificats arrêtés deux Franprix, un Casino et un Lidl ; **deux** ne font que préparer ou vendre en gros. Il en reste
+**trois** qui produisent et vendent aux particuliers : la ferme maraîchère publiée, un potager en agriculture biologique
+de Cergy Village, et une exploitation inscrite sous un patronyme, qui ne se publie pas.
+
+**Pistes non publiées à Cergy** :
+
+- **Un magasin à la ferme du chemin des Voies** (Cergy, magasin-bio) — la Ville publie son adresse et des horaires
+  précis, six jours sur sept, et le registre des entreprises y déclare une société active depuis 2012 sous une enseigne
+  qui n'est pas un patronyme. **Non publié au titre de la règle 168, née ici** : aucune source ne le décrit en dehors de
+  cette page de la Ville, il n'a pas de site — seulement une page de réseau social —, il n'existe de lui aucune
+  photographie, et il est **absent du registre de l'Agence Bio** alors que son enseigne annonce le biologique. La
+  cinquième place lui revenait par la lettre de la règle 167, puisqu'il aurait ouvert la catégorie `magasin-bio` ; elle
+  est allée à une fiche mieux vérifiée. **Déblocage** : une seconde source qui le décrive, ou une photographie du lieu.
+- **Une exploitation maraîchère du chemin des Pâtis** (Cergy, ferme) — **entièrement vérifiée, géocodée et gardée pour
+  un prochain passage dans la commune**, au titre de la règle 167 : quinze hectares de plein champ et huit mille cinq
+  cents mètres carrés de serres, vente à la ferme le mercredi et le vendredi de 15h à 19h et le samedi de 15h à 18h
+  selon son propre site, distributeurs automatiques ouverts sept jours sur sept de 8h à 22h, une soixantaine de produits
+  nommés sur son site, société active au registre, point de la Base Adresse Nationale sur le numéro exact, score 0,96,
+  et une photographie de ses cultures sans personne dessus. Rien ne manque, il ne manquait que la place. À noter pour
+  ce passage : la Ville annonce pour elle « du lundi au samedi de 15h à 18h30 » quand le site de l'exploitation donne
+  trois jours seulement — contradiction à trancher par la règle 5 au moment de publier, en retenant le site.
+- **Un potager biologique de Cergy Village et l'AMAP qui y distribue** (Cergy, producteur et amap) — le potager est
+  inscrit au registre de l'Agence Bio en « Production » avec vente aux particuliers, certificat engagé, et la Ville
+  annonce une vente directe le samedi de 9h30 à 12h ; l'AMAP y partage ses paniers le jeudi de 18h30 à 19h30 selon le
+  Réseau des AMAP en Île-de-France. Aucun des deux n'a de site propre — seulement des pages de réseaux sociaux — ni de
+  téléphone fixe publié ; le réseau ne publie de l'AMAP ni liste de produits ni ferme partenaire, et la seule
+  coordonnée qu'il en donne est une adresse électronique, que `MODERATION.md` interdit de reprendre. Sous le seuil de
+  la règle 16 pour l'AMAP, et sans photographie pour l'un comme pour l'autre. **Déblocage** : une liste de produits
+  publiée par l'AMAP, et une photographie du potager.
+- **Une exploitation maraîchère de la rue de Neuville** (Cergy, ferme) — inscrite au registre de l'Agence Bio en
+  « Production », « Préparation » et « Distribution », vente aux particuliers déclarée, certificat engagé, société
+  active au registre des entreprises. **Non publiée par précaution sur une personne** : sa raison sociale est un
+  patronyme, que deux autres enregistrements du même registre portent à la même adresse, et aucune enseigne distincte
+  n'est déclarée. La règle est de ne rien publier au moindre doute sur un nom de personne ; la piste ne se rouvre pas
+  sur ce motif. Ni la raison sociale ni le nom ne sont écrits ici.
+
+**Trois images écartées, chacune pour une raison utile.** L'affiche du marché du Grand Centre que la Ville publie sur
+son actualité est une **illustration dessinée** — légumes stylisés et titre calligraphié — et non une photographie :
+même motif qu'à Dunkerque pour l'image de synthèse des Halles, une affiche montre l'annonce, pas le lieu. La seconde
+déclinaison de cette affiche y **ajoute une photographie de banque d'images** montrant deux visages nets en gros plan.
+Et la photographie d'équipe que publie l'une des fermes retenues porte **une douzaine de visages identifiables et trois
+prénoms en incrustation** : elle est écartée, et c'est l'affiche des horaires 2026 de la même ferme, recadrée sous sa
+ligne de texte, 1280 × 393, qui illustre sa fiche — une vraie photographie de son magasin, sans personne dessus.
+
+**Le bandeau générique de la page « Marchés » de la Ville illustre les trois fiches de marché**, au titre de la
+règle 164 : la Ville ne photographie aucun de ses marchés, cette image d'étal — cageots, tomates, champignons — n'est
+attribuée à aucun d'eux, elle ne porte aucun visage, et ses métadonnées ne déclarent aucune banque d'images, à la
+différence du cas d'Argenteuil qui a fait la règle 70. Les trois fiches restent en `a_confirmer` et le partage est dit
+ici, comme la règle 164 l'exige.
+
+**Aucun téléphone n'est publié pour les marchés de Cergy**, dont l'exploitation est déléguée : le seul numéro rencontré
+est le standard de l'hôtel de ville, qui n'est pas repris. Des trois maraîchers dont le site est vivant, l'un ne publie
+**aucun numéro** — seulement un formulaire et une adresse postale — et un autre **deux portables qui ne concordent pas**,
+l'un sur son site, l'autre au registre bio : ni l'un ni l'autre n'est repris, même discipline qu'au Château des
+Garcinières. Le seul téléphone inscrit dans cette passe est le fixe que la seconde ferme publiée donne sur sa page
+« Contact ».
+
+**Données personnelles écartées** : sur le site de l'une des fermes publiées, la douzaine de visages de sa photographie
+d'équipe, les trois prénoms incrustés dans sa légende, les quatre personnes citées en encadré sur sa page d'accueil, et
+le patronyme que le registre de l'Agence Bio accole à son adresse. Sur le site de l'autre, les quatre prénoms sous
+lesquels elle annonce ses producteurs partenaires, le portable que l'un d'eux y publie pour ses commandes, et les trois
+associés qu'elle nomme dans son historique. Ailleurs : le patronyme qui sert de raison sociale à l'exploitation de la
+rue de Neuville écartée ci-dessus, le nom de la personne que la Ville désigne pour le potager de Cergy Village, celui du
+contact de l'AMAP, et les adresses électroniques des fermes, de l'AMAP et de l'office de tourisme. Aucun n'apparaît dans
+une fiche, dans un nom de fichier image, dans un message de commit ni ici.
 
 ### Pistes non publiées à Dunkerque
 
