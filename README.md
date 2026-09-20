@@ -2213,10 +2213,63 @@ prioritaires en cas de conflit.
      citée dans le champ `horaires` — pas seulement dans ce README — parce qu'un visiteur qui arrive
      à 15h20 doit savoir laquelle des deux il risque de rencontrer. La fiche passe en `a_confirmer`.
 
+173. **Un règlement municipal qui fixe une plage horaire générale, et un annuaire professionnel qui
+     donne les mêmes heures marché par marché, font un horaire vérifié.** La page « Marchés forains
+     et producteurs locaux » de la Ville de Vénissieux n'annonce que des demi-journées — « les
+     mercredis et dimanches matins » — ce qui rangeait ses cinq marchés sous la règle 9, celle du
+     marché dont personne ne publie l'heure. Deux sources la sortent de là. D'abord le **livret de
+     réglementation des marchés forains** de la Ville, arrêté du maire du 29 avril 2016, fichier
+     déposé en juillet 2025 : son article 2 interdit tout dépôt avant 6h, fixe le début de la vente
+     à 7h30 et sa fin à 12h30 au plus tard, 13h au marché des Minguettes, et l'évacuation des
+     emplacements à 13h30. Ensuite l'annuaire professionnel **M ton Marché**, qui publie
+     7h30-12h30 pour chacun des marchés vénissians et 7h30-13h pour les Minguettes — exactement ce
+     que dit le règlement, marché par marché. **Critère** : une plage fixée par le règlement de
+     l'autorité qui organise, retrouvée à l'identique et fiche par fiche dans un annuaire
+     indépendant, se publie comme l'horaire du marché, les deux sources nommées dans le champ
+     `horaires`. La fiche reste en `a_confirmer` pour une raison précise : un règlement fixe un
+     **maximum**, pas un programme, et rien ne garantit que le dernier étal tienne jusqu'à 12h30.
+     **Note d'outillage**, qui a failli coûter la règle : la page de la Ville affiche un encart
+     « La réglementation des marchés forains — PDF » **sans lien**. Le fichier existe pourtant, et
+     c'est la médiathèque du site qui l'a rendu —
+     `wp-json/wp/v2/media?search=forain`. Un encart mort ne prouve pas l'absence du document.
+
+174. **Trois autorités s'accordent sur une séance d'un marché et se contredisent sur une seconde :
+     on publie la séance commune, on cite les autres, et l'énumération de la règle 156 ne tranche
+     pas.** Le marché du Moulin à Vent, à Vénissieux, tient le jeudi matin selon ses quatre
+     sources. Pour sa seconde séance, la page des marchés de la Ville écrit « les mardis
+     après-midis », l'annuaire M ton Marché un marché du soir le vendredi de 16h à 20h, et le
+     règlement municipal ne liste que le jeudi. La règle 156 ferait dire à cette énumération
+     qu'elle nie ce qu'elle omet — mais elle exige aussi qu'une seconde source de la même autorité
+     la confirme, et ici la page de la Ville la contredit. Il y a plus : le règlement procède d'un
+     arrêté du **29 avril 2016**, et le marché de producteurs du vendredi soir a été lancé le
+     **27 avril 2018**, presse municipale et presse locale à l'appui. Une liste ne peut pas nier ce
+     qui n'existait pas quand elle a été écrite. **Critère** : quand un marché a plusieurs séances,
+     la fiche publie comme un fait celle sur laquelle les sources s'accordent, nomme les versions
+     divergentes avec leur source dans `horaires`, et reste en `a_confirmer` ; une énumération ne
+     vaut négation, au sens de la règle 156, que pour les objets existants à sa date. Déblocage :
+     une publication municipale postérieure à 2018 qui dise le jour de la seconde séance.
+
+175. **Un second point de distribution de la même coopérative de paniers est une fiche à part.**
+     Alter Conso distribue dans quatorze lieux du Grand Lyon ; la carte en portait un, au Toï Toï
+     Le Zinc à Villeurbanne, et le point vénissian du centre associatif Boris Vian en fait un
+     second. C'est la règle 3 appliquée à la catégorie `amap` : ce qui compte est le lieu, son jour
+     et son heure, pas la taille du réseau, et deux points à quatre kilomètres l'un de l'autre ne
+     se servent pas les mêmes habitants. **Deux conditions**, qui viennent d'ailleurs : la
+     description de chaque fiche dit qu'il s'agit d'un point de retrait parmi d'autres et nomme le
+     siège de la coopérative (règle 20), et la photographie ne se répète pas d'une fiche à l'autre
+     (règle 66) — ici la fiche vénissiane porte la façade du bâtiment où se tient la distribution,
+     publiée par la Ville, quand celle de Villeurbanne porte la photographie de cageots publiée par
+     la coopérative.
+
 ## Marchands à confirmer
 
-494 fiches sur 535 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+499 fiches sur 540 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
+- **Marché du Centre** (Vénissieux) (marché mixte du mercredi et du dimanche matin, place Léon-Sublet. **Horaires, règle 173** : le livret de réglementation des marchés forains que la Ville met en ligne — arrêté du maire du 29 avril 2016, fichier déposé en juillet 2025 — fixe le début de la vente à 7h30 et sa fin à 12h30 au plus tard ; l'annuaire professionnel M ton Marché publie 7h30-12h30 pour ce marché précis. **Point, règle 171** : le marqueur que la Ville donne au marché sur sa carte interactive, dont le contrôle inverse rend la place Léon-Sublet à 10 m, à 57 m du centre de la surface de 8 344 m² que la Métropole de Lyon nettoie et à 11 m du point de voie de la Base Adresse Nationale. **Produits** : aucune source ne publie de liste d'étals ; « fruits et légumes » se lit sur la photographie de la Ville, le reste vient du règlement, qui partage chaque marché en un secteur alimentaire et un secteur de produits manufacturés. **Photo** : la photographie que la Ville publie dans sa médiathèque sous le nom `marche-forains-2-web`, **recadrée à 1080 × 1020 au-dessus de la ligne des têtes** — l'original montre une dizaine de visages au premier plan ; le recadrage garde les barnums, les arbres en fleurs et le clocher, et le panneau « les mercredi et dimanche jour de marché » visible sur l'original rattache l'image à ce marché-ci)
+- **Marché des Minguettes** (Vénissieux) (jeudi et samedi de 7h30 à 13h : le règlement municipal en fait le seul marché de la commune où la vente peut se prolonger jusqu'à 13h, et M ton Marché publie les mêmes heures. 18 000 m² au recensement de la Métropole de Lyon, 357 forains abonnés selon M ton Marché — un chiffre d'annuaire, cité comme tel. **Adresse** : la Ville écrit « rue Edouard-Herriot », la Métropole « entre les rues Lyvet-Herriot-Lagrange » ; les trois voies existent à la Base Adresse Nationale et la fiche les nomme. **Point** : marqueur de la Ville, à 27 m du centre de la surface de la Métropole ; le contrôle inverse rend le 2 rue Gaston-Monmousseau à 75 m, la Base ne sachant pas adresser une esplanade de cette taille. **Photo, règle 158** : la vue plongeante que la Ville publie sous le titre « Marché des Minguettes », prise du haut d'une tour de Monmousseau, recadrée à 1037 × 800 sur les étals — les personnes y sont vues de très loin et de dessus)
+- **Marché de Charréard** (Vénissieux) (vendredi matin, avenue Jacques-Duclos ; 991 m² et classement « mixte » à la Métropole de Lyon, heures du règlement municipal confirmées par M ton Marché. Point de la Ville, contrôle inverse au 27 avenue Jacques-Duclos à 19 m, à 7 m du centre de la surface de la Métropole. **Photo, règle 164** : le bandeau générique de la page « Marchés forains et producteurs locaux » de la Ville, **recadré à 1080 × 330 au-dessus de la ligne des têtes**, partagé avec la fiche du Moulin à Vent ; il montre des barnums de marché vénissians et n'est attribué à aucun des cinq marchés)
+- **Marché du Moulin à Vent** (Vénissieux) (**séance contestée, règle 174** : jeudi 7h30-12h30 est la seule séance que toutes les sources donnent — le règlement municipal, la page des marchés de la Ville, le recensement de la Métropole de Lyon et M ton Marché. Pour la seconde séance, la page de la Ville écrit « les mardis après-midis », M ton Marché un marché du soir le vendredi de 16h à 20h, et le règlement n'en mentionne aucune ; les trois versions sont dans la fiche. Un marché de producteurs a bien été lancé là le vendredi 27 avril 2018 de 16h à 20h, avec l'appui de la Chambre d'agriculture du Rhône, après deux tentatives sans lendemain en 2011 et 2013. **Le label « marché de producteurs de pays » que M ton Marché lui attribue n'a pas été retenu** : la commune n'apparaît pas au réseau national des Marchés des Producteurs de Pays. Point de la Ville, à 23 m du centre de la surface de la Métropole et à une centaine de mètres du point de voie de la Base Adresse Nationale pour la place Ennemond-Romand. **Photo** : même bandeau générique que Charréard, règle 164)
+- **Alter Conso – Centre associatif Boris Vian** (Vénissieux) (point de retrait du mercredi de 17h30 à 19h, deuxième fiche de cette coopérative après celle du Toï Toï à Villeurbanne, au titre de la règle 175. Lieu et heures publiés par la coopérative elle-même ; la Ville cite Alter Conso parmi les distributions de paniers locaux de la commune, et sa carte interactive situe le centre associatif Boris Vian au 13 avenue Marcel-Paul. Point de la Base Adresse Nationale au numéro, score 0,968, à 15 m du marqueur municipal du bâtiment. **Pas de pilier `environnement`**, pour la raison déjà écrite à la fiche du Toï Toï : la coopérative n'a pas de certificat à son nom au registre de l'Agence Bio, ce sont ses fermes qui sont certifiées. **Ni téléphone ni adresse électronique**, même raison qu'à Villeurbanne. **Photo** : la façade du centre associatif que la Ville publie sous le nom « Maison des Associations Boris Vian », sans personne — c'est bien le bâtiment où se tient la distribution, et non une image de paniers)
 - **Carreau des Halles** (Tours) (marché de plein air du centre, mercredi et samedi 7h30-12h30 : trois publications de la Ville — la liste des marchés de janvier 2025, l'infographie de février 2026 et la fiche d'équipement — donnent le même horaire, et le règlement des marchés de plein air en vigueur depuis mars 2025 le range parmi les deux seuls marchés tourangeaux « alimentaires uniquement ». Aucune liste d'étals n'est publiée : les produits sont les métiers de bouche que l'article 15 de ce règlement admet. **Point, règle 171** : place des Halles à la Base Adresse Nationale (0,973), contrôle inverse à 0 m, à 17 m du marqueur que la Ville donne à ce marché et à 93 m de celui des Halles couvertes. **Photo, règles 125 et 164** : c'est l'illustration dessinée — un panier de légumes — que la Ville attache à sa liste des marchés et à son infographie, pas une vue du lieu ; aucune photographie de ce marché n'est publiée, et la seule que la Ville attache au couple « Halles et marché des Halles » montre l'intérieur de la halle)
 - **Les Halles de Tours** (marché couvert municipal, ouvert tous les jours, 7h-19h du lundi au samedi et 7h-13h le dimanche et les jours fériés : le site des Halles et la fiche d'équipement de la Ville écrivent les mêmes heures. Les « trente-huit professionnels » et la formule « la plus grande surface de produits frais du centre-ville » viennent d'un seul texte, repris à l'identique par la Ville et par les Halles — une seule origine, d'où l'`a_confirmer`. Aucune source ne publie l'origine des marchandises étal par étal : la fiche décrit la halle, elle ne garantit pas le circuit court de chaque commerçant. **Point** : 1 place Gaston Paillhou à la Base (0,976), contrôle inverse à 0 m. **Photo** : la vue extérieure que la Ville publie sous ce nom, **recadrée à 1240 × 750** pour écarter le kiosque à journaux du bord droit, dont l'affiche porte un visage en gros plan)
 - **Marché Blanqui** (Tours) (marché de plein air du vendredi après-midi, rive droite. **Horaires contredits, règle 172** : 15h-19h30 sur l'infographie de février 2026 et sur la fiche d'équipement, 15h30-19h30 sur la liste de janvier 2025 ; la valeur la plus récente part dans la fiche, l'autre y est citée. **Point, règle 64** : la Base Adresse Nationale ne connaît aucune place Saint-Pierre à Tours — sa meilleure réponse, le passage Saint-Pierre, tombe à 0,646 et à une centaine de mètres ; le point publié est celui que la Ville donne au marché, dont le contrôle inverse rend le 62 rue Blanqui à 13 m. Produits tirés de l'article 15 du règlement, faute de liste d'étals. **Photo, règle 46** : la photographie que la Ville attache nommément à ce marché, prise le vendredi 7 avril 2023, **recadrée à 1280 × 376 au-dessus de la ligne des têtes** — l'original compte une douzaine de visages reconnaissables ; le recadrage garde l'église, la maison à pans de bois et les bâches des étals)
@@ -2735,7 +2788,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 525 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 540 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2763,6 +2816,79 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Pistes non publiées à Vénissieux
+
+Département visé : le **Rhône (69)**, déficit **4,8557** au titre de la règle 41 avec 535 fiches publiées et
+dix dans le département, toutes à Lyon et à Villeurbanne. La Réunion (6,9029) reste écartée par la règle 93.
+La passe précédente en mode 2 visait l'Indre-et-Loire, en Centre-Val de Loire ; le Rhône est en
+Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas. Après la passe, le 69 tombe à **−0,0054** avec
+quinze fiches ; en tête du classement ensuite, outre-mer écarté : la **Seine-Maritime** (4,8751), les
+**Côtes-d'Armor** (4,7917), l'**Eure** (4,7201) et l'**Hérault** (4,6349).
+
+Commune retenue : **Vénissieux**, 65 502 habitants, la plus peuplée du département sans aucune fiche — Lyon et
+Villeurbanne, les deux seules au-dessus, sont déjà couvertes. Elle a rendu **six candidates instruites** : les
+cinq marchés forains que la Ville organise et le point de retrait vénissian d'une coopérative de paniers. Le
+mandat en arrête cinq, et ce sont les règles 167 et 168 qui ont choisi — la cinquième place va à la catégorie
+qui manque plutôt qu'au cinquième exemplaire de la même, et parmi les marchés c'est celui dont les jours se
+recouvrent entièrement avec un autre qui cède.
+
+**Les sources.** La page « Marchés forains et producteurs locaux » de la Ville donne les cinq marchés, leur
+place et leur demi-journée ; sa carte interactive publie un marqueur par marché, servi par le fichier
+`sorted-features.json` du thème du site ; le **livret de réglementation des marchés forains**, arrêté du maire
+du 29 avril 2016 déposé en juillet 2025, donne les heures (règle 173), la répartition de chaque marché en un
+secteur alimentaire et un secteur de produits manufacturés, et l'obligation faite à qui vend sa propre
+production d'afficher une pancarte « PRODUCTEUR ». Le jeu de données **« Marchés forains de la Métropole de
+Lyon »**, qui recense les surfaces nettoyées, confirme les cinq marchés, leurs jours et leur classement
+alimentaire ou mixte, avec un polygone dont le centre tombe entre 7 et 57 m des marqueurs municipaux. Enfin
+l'annuaire professionnel **M ton Marché** publie les heures marché par marché. Le registre de l'Agence Bio a
+été passé en revue pour le département — 2 430 opérateurs, 23 à Vénissieux — sans rien rendre de publiable :
+des supermarchés certifiés, des grossistes et des plateformes de distribution, que `MODERATION.md` écarte.
+
+**Contradictions rencontrées et comment elles ont été tranchées.**
+
+- **Moulin à Vent, seconde séance** : la Ville écrit « les mardis après-midis », M ton Marché un marché du soir
+  le vendredi de 16h à 20h, le règlement municipal ne liste que le jeudi. Tranché par la règle 174, née ici :
+  le jeudi matin part comme un fait, les trois versions figurent dans le champ `horaires`, la fiche reste en
+  `a_confirmer`.
+- **Marché de Parilly, nature du marché** : la Métropole le classe « alimentaire », M ton Marché « mixte ».
+  Non publiée cette fois, la contradiction est consignée ici et devra être tranchée au passage suivant.
+- **Nom du lieu de distribution des paniers** : la carte de la Ville écrit « Centre Associatif Boris Vian », sa
+  médiathèque « Maison des Associations Boris Vian », la coopérative « centre associatif Boris Vian ». La fiche
+  retient la forme que la Ville et la coopérative ont en commun et cite l'autre.
+- **Encart sans lien** : la page des marchés de la Ville annonce un PDF de réglementation par un encart mort.
+  Le document existe et la médiathèque du site le rend ; la note d'outillage est dans la règle 173.
+
+**Pistes non publiées à Vénissieux** :
+
+- **Marché de Parilly** (marché forain, place Jules-Grandclément) — entièrement instruit et géocodé : samedi
+  matin, 950 m² à la Métropole de Lyon, 7h30-12h30 chez M ton Marché, marqueur municipal dont le contrôle
+  inverse rend la place Jules-Grandclément à 33 m et qui tombe à 8 m du centre de la surface métropolitaine.
+  Écarté pour la seule raison de la règle 167 : son samedi se recouvre entièrement avec celui du marché des
+  Minguettes, quand les quatre autres marchés publiés n'ont aucun jour commun deux à deux. Déblocage : le
+  prochain passage sur la commune le prend sans refaire le travail (règle 11), en tranchant au passage son
+  classement contredit.
+- **Une microferme maraîchère certifiée bio** (Vénissieux, producteur) — son siège social est avenue
+  Francis-de-Pressensé, mais le registre de l'Agence Bio ne lui connaît de lieux de vente qu'à Lyon 8e. Rien
+  n'est publié à son adresse vénissiane, au titre de la règle 152. Déblocage : une source décrivant une vente
+  à Vénissieux même ; sinon la fiche relèvera d'une passe lyonnaise.
+- **La Main dans l'Sac** (Vénissieux, magasin spécialisé, 27 chemin du Laquay) — inscrite au registre de
+  l'Agence Bio en commerce de détail de fruits et légumes, épices, confiseries et produits agricoles bruts,
+  mais son **certificat Ecocert est arrêté depuis le 6 décembre 2020** et aucune source indépendante ne décrit
+  de boutique ouverte. Déblocage : un certificat vivant ou une source publiant des horaires de vente.
+- **Les distributions de paniers citées par la Ville sans adresse** (Vénissieux, amap) — la page des marchés
+  nomme deux autres distributions de paniers locaux à côté d'Alter Conso, sans lieu ni jour ni heure, et
+  aucune n'a d'adresse vénissiane publiée. Déblocage : un lieu, un jour et une heure publiés par la structure
+  elle-même ou par la Ville.
+- **Un commerce de fruits et légumes du centre** (Vénissieux, catégorie indécise) — l'enseigne que l'annuaire
+  municipal publie est bâtie sur un prénom, et aucune source ne rattache le commerce à la vente directe ou au
+  circuit court. Doute sur une personne : rien n'est publié, la piste ne se rouvre pas.
+
+**Ce que la commune ne rend pas.** Aucun magasin de producteurs, aucun magasin bio indépendant, aucune ferme
+ouverte à la vente : le registre de l'Agence Bio ne compte à Vénissieux que des enseignes de la grande
+distribution et des grossistes. La règle 170 aurait permis d'aller chercher la catégorie manquante dans
+l'agglomération ; elle ne l'a pas été, la cinquième place étant déjà prise par la catégorie `amap`, absente de
+la commune jusqu'ici et servie sur place.
 
 ### Passe du 20 septembre 2026 : quatre demandes de visiteurs
 

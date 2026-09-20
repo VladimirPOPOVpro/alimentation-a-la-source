@@ -14209,5 +14209,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tours%20de%20Fermes%2010%20boulevard%20des%20Bretonni%C3%A8res%2037300%20Jou%C3%A9-l%C3%A8s-Tours",
     "image_url": "/images/marchands/tours-de-fermes-joue-les-tours.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-venissieux",
+    "nom": "Marché du Centre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.699936,
+    "lon": 4.883777,
+    "adresse": "Place Léon-Sublet, 69200 Vénissieux",
+    "horaires": "Mercredi et dimanche de 7h30 à 12h30 (le règlement municipal des marchés forains fixe le début de la vente à 7h30 et sa fin à 12h30 au plus tard ; l'annuaire professionnel M ton Marché publie les mêmes heures pour ce marché)",
+    "produits": [
+      "Fruits et légumes",
+      "Produits alimentaires de saison"
+    ],
+    "description": "Le plus grand des cinq marchés forains de Vénissieux, deux matinées par semaine place Léon-Sublet, au pied du clocher du centre-ville : 8 344 m² au recensement de la Métropole de Lyon, qui le classe marché mixte. Le règlement municipal l'étend à la rue Gambetta et à la placette voisine, et l'annuaire M ton Marché y ajoute la place Henri-Barbusse et la rue Jean-Jaurès. Comme sur tous les marchés de la commune, les commerçants qui vendent leur propre production doivent afficher une pancarte « PRODUCTEUR ».",
+    "telephone": "04 72 50 02 72",
+    "site_web": "https://venissieux.fr/nos-services/entreprises-commerces/marches-forains-et-producteurs-locaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Centre%20place%20L%C3%A9on-Sublet%2069200%20V%C3%A9nissieux",
+    "image_url": "/images/marchands/marche-du-centre-venissieux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-minguettes-venissieux",
+    "nom": "Marché des Minguettes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.696289,
+    "lon": 4.876341,
+    "adresse": "Rue Édouard-Herriot, entre les rues Georges-Lyvet et Léo-Lagrange, 69200 Vénissieux",
+    "horaires": "Jeudi et samedi de 7h30 à 13h (le règlement municipal en fait le seul marché de la commune où la vente peut se prolonger jusqu'à 13h ; M ton Marché publie les mêmes heures)",
+    "produits": [
+      "Fruits et légumes",
+      "Produits alimentaires de saison"
+    ],
+    "description": "Le plus vaste marché de Vénissieux et l'un des plus grands de l'agglomération lyonnaise : 18 000 m² au recensement de la Métropole de Lyon, sur le plateau des Minguettes, au pied du château d'eau et à portée du tramway T4. L'annuaire professionnel M ton Marché lui compte 357 forains abonnés — producteurs, commerçants et artisans — répartis entre un secteur alimentaire et un secteur de produits manufacturés, comme le prévoit le règlement municipal. La vente peut s'y prolonger une demi-heure de plus qu'ailleurs dans la commune.",
+    "telephone": "04 72 50 02 72",
+    "site_web": "https://venissieux.fr/nos-services/entreprises-commerces/marches-forains-et-producteurs-locaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Minguettes%20rue%20%C3%89douard-Herriot%2069200%20V%C3%A9nissieux",
+    "image_url": "/images/marchands/marche-des-minguettes-venissieux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-charreard-venissieux",
+    "nom": "Marché de Charréard",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.697738,
+    "lon": 4.892742,
+    "adresse": "Avenue Jacques-Duclos, 69200 Vénissieux",
+    "horaires": "Vendredi de 7h30 à 12h30 (heures fixées par le règlement municipal des marchés forains et publiées à l'identique par l'annuaire M ton Marché)",
+    "produits": [
+      "Produits alimentaires de saison"
+    ],
+    "description": "Le marché du vendredi matin du quartier Charréard, sur l'avenue Jacques-Duclos, à l'est de la commune : 991 m² au recensement de la Métropole de Lyon, qui le classe marché mixte — un secteur alimentaire et un secteur de produits manufacturés. C'est le seul marché vénissian du vendredi. Ni la Ville ni la Métropole ne publient la liste des étals.",
+    "telephone": "04 72 50 02 72",
+    "site_web": "https://venissieux.fr/nos-services/entreprises-commerces/marches-forains-et-producteurs-locaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Charr%C3%A9ard%20avenue%20Jacques-Duclos%2069200%20V%C3%A9nissieux",
+    "image_url": "/images/marchands/marche-de-charreard-venissieux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-moulin-a-vent-venissieux",
+    "nom": "Marché du Moulin à Vent",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.725372,
+    "lon": 4.858405,
+    "adresse": "Place Ennemond-Romand, 69200 Vénissieux",
+    "horaires": "Jeudi de 7h30 à 12h30, seule séance que toutes les sources donnent. Une seconde séance en fin de journée est annoncée différemment selon les sources : la page des marchés de la Ville écrit « les mardis après-midis », l'annuaire M ton Marché un marché du soir le vendredi de 16h à 20h, et le règlement municipal ne liste que le jeudi.",
+    "produits": [
+      "Produits alimentaires de saison"
+    ],
+    "description": "Le marché du quartier du Moulin-à-Vent, place Ennemond-Romand, au nord de la commune : 507 m² au recensement de la Métropole de Lyon, qui le classe marché alimentaire. Un marché de producteurs y a été lancé le vendredi 27 avril 2018 en fin d'après-midi, avec l'appui de la Chambre d'agriculture du Rhône, après deux tentatives sans lendemain en 2011 et 2013 ; les sources ne s'accordent plus aujourd'hui sur le jour de cette seconde séance, et seul le jeudi matin est certain.",
+    "telephone": "04 72 50 02 72",
+    "site_web": "https://venissieux.fr/nos-services/entreprises-commerces/marches-forains-et-producteurs-locaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Moulin%20%C3%A0%20Vent%20place%20Ennemond-Romand%2069200%20V%C3%A9nissieux",
+    "image_url": "/images/marchands/marche-du-moulin-a-vent-venissieux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "alter-conso-boris-vian-venissieux",
+    "nom": "Alter Conso – Centre associatif Boris Vian",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.700001,
+    "lon": 4.881545,
+    "adresse": "Centre associatif Boris Vian, 13 avenue Marcel-Paul, 69200 Vénissieux",
+    "horaires": "Distribution le mercredi de 17h30 à 19h, dans les locaux du centre associatif Boris Vian",
+    "produits": [
+      "Panier de légumes",
+      "Panier de fruits",
+      "Panier de produits laitiers",
+      "Panier d'œufs",
+      "Panier de pain",
+      "Commande de viande",
+      "Épicerie paysanne"
+    ],
+    "description": "Point de retrait vénissian de la coopérative lyonnaise Alter Conso, qui distribue depuis 2006 des paniers bio et paysans dans quatorze lieux du Grand Lyon. Une cinquantaine de fermes fournissent les paniers, réparties par filière — légumes, fruits, produits laitiers, viande, pain, boissons — et les paysans fixent avec les consommateurs le calendrier de l'année et le prix des produits. La distribution se tient dans les locaux du centre associatif Boris Vian, que la Ville appelle aussi Maison des associations ; le siège de la coopérative est à Décines-Charpieu. La Ville cite elle-même Alter Conso parmi les distributions de paniers locaux de la commune.",
+    "site_web": "https://www.alter-conso.org/paniers/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20associatif%20Boris%20Vian%2013%20avenue%20Marcel-Paul%2069200%20V%C3%A9nissieux",
+    "image_url": "/images/marchands/alter-conso-boris-vian-venissieux.jpg",
+    "a_confirmer": true
   }
 ]
