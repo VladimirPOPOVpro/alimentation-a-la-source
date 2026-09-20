@@ -1980,9 +1980,50 @@ prioritaires en cas de conflit.
      Constat annexe, à ne pas confondre avec une règle : l'aperçu de `repondre` est tronqué à
      quelques centaines de caractères et coupe la note avant qu'on puisse la relire en entier.
 
+156. **Un règlement municipal qui énumère les marchés prime sur la fiche d'un office de tourisme qui
+     en annonce un de plus.** Le marché d'Essonnes, place d'Essonnes, a sa fiche chez Essonne
+     Tourisme et chez Grand Paris Sud Tourisme, la seconde avec des jours et des heures — jeudi et
+     dimanche de 8 h à 13 h. Il a existé : la Ville a mis en ligne en décembre 2021 cinq
+     photographies qui le nomment, et son annuaire d'équipements garde une halle du marché
+     d'Essonnes. Mais l'arrêté 2024-982 portant règlement des marchés d'approvisionnement communaux
+     énumère les marchés de la commune en son article 1er et n'en cite que **deux**, le
+     centre/Comte-Haymon et les Tarterêts ; la page « Les marchés alimentaires » de la Ville, mise à
+     jour le 31 août 2026, n'en décrit que ces deux-là. **Critère** : une liste close publiée par
+     l'autorité qui organise la chose — un règlement, un arrêté — l'emporte sur l'annuaire d'un
+     tiers qui en ajoute un élément, dès lors qu'elle est plus récente et qu'une seconde source de
+     la même autorité la confirme. La règle 5 donnait déjà le pas à la source la plus proche du
+     fait ; celle-ci dit qu'une **énumération** vaut négation de ce qu'elle omet, ce qu'une simple
+     description ne vaudrait pas. Déblocage : une source municipale qui nomme à nouveau ce marché.
+     Les deux offices, eux, portent des enregistrements Apidae dont la période d'ouverture est
+     restée figée sur l'année 2017.
+
+157. **Un marché déplacé le temps d'un chantier se publie là où il se tient, pas là où il siège.**
+     Le règlement de Corbeil-Essonnes situe le marché du centre « sous la halle et sur la place du
+     Comte-Haymon » ; depuis janvier 2024 la Ville l'installe sur les allées Aristide Briand, à
+     600 m à l'ouest, le temps des travaux de la halle, et affrète une navette gratuite le
+     dimanche. Publier l'adresse de siège enverrait le visiteur devant un chantier. **Critère** :
+     `lat`/`lon` et `adresse` portent l'emplacement effectif du jour, le libellé dit qu'il est
+     provisoire, et la description nomme le siège officiel et la distance qui l'en sépare, pour que
+     le retour ne rende pas la fiche fausse d'un coup. La fiche reste en `a_confirmer` tant que le
+     provisoire dure. C'est la symétrique de la règle 57, qui refuse le point de vente annoncé au
+     futur : ici le lieu existe, c'est son adresse qui est datée.
+
+158. **Une vue aérienne publiée par l'autorité répond à la règle 70 : elle montre le lieu et ne
+     porte aucun visage.** Les sept photographies que la Ville de Corbeil-Essonnes consacre à ses
+     deux marchés sont prises à hauteur d'étal et montrent des commerçants et des clients de face ;
+     la règle 46 sauve la seconde par recadrage, mais la première n'offrait aucune zone franche qui
+     dise encore la halle. La même Ville publie deux prises de vue par drone, nommées pour le
+     marché et pour la halle, où le bâtiment et sa place se lisent entièrement et où personne n'est
+     identifiable. **Critère** : avant de conclure au blocage de la règle 70, chercher dans la
+     médiathèque de l'autorité une vue aérienne, une vue de façade ou un plan photographié du lieu ;
+     la hauteur de prise de vue règle le problème des visages sans rien retirer de ce que l'image
+     dit. Ici la vue de drone date de novembre 2023, donc d'avant le déplacement du marché : le
+     compte rendu et la fiche disent que la halle photographiée est le siège, pas l'emplacement
+     provisoire.
+
 ## Marchands à confirmer
 
-471 fiches sur 510 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+476 fiches sur 515 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2478,8 +2519,13 @@ prioritaires en cas de conflit.
 - **Marché du Mazet** (Clermont-Ferrand) (même catégorie et mêmes piliers. **Sources** : liste des marchés de la Ville et fiche de l'office, qui s'accordent sur le samedi 7h-13h. **Point** : centre de la place du Mazet à la Base (0,967), marqueur de l'office à 19 m ; la halle Saint-Pierre est à 107 m, deux lieux distincts (règle 12). **Produits, règles 91 et 103** : légumes lus sur l'étal de la photographie de la Ville, fleurs citées par l'office ; deux lignes seulement. **Photo, règles 46 et 140** : photographie de la Ville attachée à ce marché, prise un samedi de juin 2025 à 8h39 ; recadrée sur l'étal, sans visage.)
 - **Jaude fait son marché** (Clermont-Ferrand) (même catégorie et mêmes piliers ; pas d'`environnement`, règle 68 : la Ville écrit « produits locaux et biologiques » sans classification ni liste d'exposants. **Sources** : liste des marchés de la Ville, ses fiches d'agenda de septembre et décembre 2026, fiche de l'office ; toutes disent 1er et 3e dimanches, 7h-13h. **Point** : centre de la place de Jaude à la Base (0,974), marqueur de l'office à 27 m. **Produits, règles 74 et 91** : panneau imprimé d'un étal lisible sur la photographie de la Ville attachée à ce marché, prise le dimanche 6 juillet 2025, premier dimanche du mois. **Photo, règle 46** : même photographie, recadrée sur la statue, les façades et les toits des barnums, sans personne.)
 - **Marché de producteurs et artisans du parc thermal** (Royat) (même catégorie et mêmes piliers ; cinquième fiche prise dans Clermont Auvergne Métropole au titre de la **règle 96**, à 2,1 km de la place de Jaude, voir les pistes de Clermont-Ferrand. **Sources** : actualité de la Ville de Royat du 19 mai 2026, fiche de l'office de tourisme ; la page « Commerces / Marchés » de la Ville, qui annonce 8h-12h, décrit la saison 2023 et n'est pas reprise (règle 65). **Horaires, règle 5** : saison et heure de fin données par l'office seul, attribuées. **Point, règle 147, née ici**. **Produits, règle 119** : la Ville nomme des métiers alimentaires et des métiers d'artisanat sans décompte ; seuls les premiers sont dans `produits`, la description dit les seconds. **Photo** : photographie de la Ville de Royat publiée sur la fiche de l'office, qui montre la buvette Eugénie derrière les étals ; recadrée au-dessus des personnes, ce qui écarte aussi la banderole d'un exposant portant un numéro de portable. Le `robots.txt` de la Ville interdit `/wp-content` à tous les robots : aucune image n'a été prise sur son site.)
+- **Marché du centre** (Corbeil-Essonnes) (catégorie et piliers des marchés municipaux. **Horaires** : mardi, vendredi et dimanche 8h-13h, identiques dans l'article 1er du règlement municipal des marchés d'approvisionnement (arrêté 2024-982), sur la page « Les marchés alimentaires » de la Ville et sur la fiche de Grand Paris Sud Tourisme. **Adresse provisoire, règle 157, née ici** : le règlement le situe sous la halle et sur la place du Comte-Haymon, la Ville l'installe depuis janvier 2024 sur les allées Aristide Briand, à **580 m** à l'ouest, le temps des travaux de la halle ; le point est celui des allées, le libellé dit « emplacement provisoire », la description nomme le siège. `a_confirmer` tant que le provisoire dure. **Produits** : la liste vient du texte de la Ville — fruits et légumes, poissonniers, bouchers, boulangers, traiteurs, saveurs d'ici et d'ailleurs — les stands non alimentaires restant hors fiche. **Téléphone** : celui du service « Commerces et marchés » que la Ville publie elle-même (01 60 89 70 26), et non le 01 60 89 71 79 des deux offices de tourisme, qui vient d'enregistrements Apidae figés sur 2017. **Photo, règle 158, née ici** : la prise de vue par drone que la Ville publie sous le nom `Drone-centre-ville-marche`, novembre 2023, redimensionnée à 1280 px — la halle et sa place s'y lisent en entier et personne n'y est identifiable ; elle montre donc le **siège**, pas l'emplacement provisoire, et c'est dit ici)
+- **Marché des Tarterêts** (Corbeil-Essonnes) (même catégorie et mêmes piliers. **Horaires** : mercredi et samedi 8h-13h, mêmes trois sources concordantes. **Adresse** : avenue Léon Blum, comme l'annuaire d'équipements de la Ville (défibrillateur de la halle du marché des Tarterêts) et les deux offices de tourisme ; la page des marchés de la Ville écrit « place Nicolas Tarterêts », voie que la Base Adresse Nationale ne connaît pas, et le règlement parle seulement de « la place attenante et le parking en contrebas » — c'est donc l'avenue qui est publiée. **Produits, règle 88 a contrario** : les trois photographies que la Ville consacre à ce marché ont des empreintes md5 distinctes de toutes les autres, elles lui sont propres, et les olives, condiments, huiles, épices, fruits secs, salades, œufs et la boucherie s'y lisent. **Photo, règle 46** : la photographie des olives et épices, recadrée à **900 × 520** sur la partie droite — les visages de la moitié gauche sont écartés, l'étal reste entier)
+- **Robinson fait son panier** (Corbeil-Essonnes) (catégorie et piliers des AMAP, avec `environnement` : l'association décrit sept contrats passés avec des fermes biologiques et le registre des entreprises l'enregistre comme association depuis le 14 avril 2009, ce que son site confirme. **Règle 6** : les AMAP en sont dispensées, mais celle-ci y figure quand même, un établissement ouvert. **Horaires contredits, règle 5** : mardi 18h30-19h30 sur son propre site, 18h30-19h45 dans l'annuaire du réseau AMAP d'Île-de-France ; les deux sont publiés, comme aux Paniers d'Évry. **Point** : la Base Adresse Nationale ne porte aucun numéro rue Fernand Laguide, le point est celui de la voie, contrôle inverse à 0 m. **Personnes** : le site nomme ses six paysans partenaires et l'annuaire régional nomme un contact avec son portable et son courriel — rien de tout cela n'est publié, la fiche ne porte que les produits. **`site_web`** : le site propre de l'association, pas `amap-idf.org`, que la règle 101 écarte. **Photo, règle 1** : les trois photographies publiées par l'AMAP montrent deux personnes dont un enfant ; la fiche porte donc la vue aérienne du centre-ville que la Ville publie en bandeau de sa page de présentation, une vraie photographie de la commune qui ne prétend pas montrer le local de distribution)
+- **naturéO Corbeil-Essonnes** (Corbeil-Essonnes) (`magasin-bio`, règle 4, comme les magasins de réseau déjà publiés ; pilier `environnement` au titre d'un certificat **Ecocert FR-BIO-01 « engagée »**, engagement du 30 juin 2009, enregistrement mis à jour le 12 janvier 2026. **`venteParticuliers` à faux au registre bio, règle 154** : les activités déclarées sont « Préparation » et « Distribution », le bloc `venteAnnuaire` décrit ce périmètre-là ; le site de l'enseigne publie les heures du magasin jour par jour et le registre des entreprises range l'établissement en 47.11D, un commerce de détail. **Adresse** : « rue Jean Cocteau » au registre des entreprises, au registre bio et à la Base Adresse Nationale, avec « centre commercial Exona » au registre et « Centre Commercial Discount Center » sur la page de l'enseigne — c'est le libellé du registre qui est publié. **Producteurs locaux** : l'enseigne en référence six avec leur distance, de 17 à 90 km ; la fiche les compte sans nommer les personnes citées à côté d'eux. **Photo** : une des quatre prises de vue de la visite virtuelle que la page du magasin met en lien, **recadrée à 1000 × 800** pour écarter la seule silhouette, de dos, du rayon frais)
+- **Le Panier Saint Fiacre** (Lisses) (**cinquième fiche de la passe prise hors de la commune au titre de la règle 96** : Lisses appartient à Grand Paris Sud Seine-Essonne-Sénart comme Corbeil-Essonnes, la salle de distribution est à **4,3 km** du marché du centre et à 2,6 km du barycentre des cinq points, et quatre fiches sur cinq restent intra-muros. Catégorie et piliers des AMAP, avec `environnement` : tous les contrats publiés sont biologiques. **Règle 6** : aucune entité ne répond à ce nom au registre des entreprises, ce qui est le cas de la plupart des associations et ce que la règle dispense ; la vérification tient au site propre de l'association, actif — dernier contrat déposé en septembre 2026 — à l'annuaire du réseau AMAP d'Île-de-France et à l'annuaire des associations de la Ville de Lisses. **Adresse** : la salle Cocteau, à la médiathèque Colette, mail de l'Île-de-France, adresse que la Ville de Lisses donne à la médiathèque ; l'annuaire municipal publie en regard l'adresse personnelle, le nom et le portable de la présidente de l'association — aucun des trois n'est repris. **Horaires** : « les jeudis soir, entre 18h et 19h » sur le site de l'association, avec des créneaux un peu différents selon les contrats, tous publiés. **Photo** : une photographie déposée par l'association en novembre 2020, une courge posée sur la table d'une distribution — pas une vue de la salle, et c'est dit)
 
-Les 510 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 515 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2574,6 +2620,58 @@ sous un patronyme sans enseigne déclarée, ce qui suffirait à elle seule à ne
 finissait par une phrase biographique sur la personne qui a créé l'entreprise. Aucun nom n'y
 figurait, mais l'enseigne suffisait à l'identifier, et une fiche ne porte que l'enseigne, l'adresse,
 les horaires et les produits. La phrase a été retirée.
+
+### Pistes non publiées à Corbeil-Essonnes
+
+Département visé : l'**Essonne (91)**, déficit **4,8999** au titre de la règle 41 avec 510 fiches publiées, dont cinq dans
+le département, toutes à Évry-Courcouronnes. La Réunion (6,5804) reste écartée par la règle 93. La passe précédente en mode 2
+visait le Puy-de-Dôme, en Auvergne-Rhône-Alpes ; l'Essonne est en Île-de-France, la réserve de la règle 41.c ne joue pas.
+Après la passe, l'Essonne tombe à **−0,0030** avec dix fiches ; en tête du classement ensuite : l'**Isère** (4,7020,
+Auvergne-Rhône-Alpes), l'**Indre-et-Loire** (4,6259), le **Val-d'Oise** (4,5725) et les **Côtes-d'Armor** (4,5699).
+
+Commune retenue : **Corbeil-Essonnes**, 54 471 habitants, la plus peuplée du département sans aucune fiche — Évry-Courcouronnes,
+66 919 habitants, en compte déjà cinq. Elle a rendu **quatre fiches entières, image comprise** : ses deux marchés
+d'approvisionnement, son AMAP et son magasin bio de réseau. La cinquième est prise dans la même intercommunalité au titre de la
+**règle 96** : l'AMAP de **Lisses**, commune de Grand Paris Sud Seine-Essonne-Sénart, à 4,3 km du marché du centre. Les cinq points
+tiennent dans 4,3 km.
+
+**Les sources qui ont fait la passe.** La page « Les marchés alimentaires » de `corbeil-essonnes.fr`, mise à jour le 31 août 2026 ;
+l'**arrêté 2024-982 portant règlement des marchés d'approvisionnement communaux**, trouvé par la médiathèque WordPress de la Ville
+et décisif sur deux points (règles 156 et 157) ; l'annuaire d'équipements de la Ville, dont les fiches de défibrillateurs donnent
+l'adresse des trois halles ; la médiathèque de la Ville, interrogée par son API REST, pour les photographies ; les fiches d'Essonne
+Tourisme et de Grand Paris Sud Tourisme ; l'annuaire du réseau AMAP d'Île-de-France, interrogé par `POST` sur
+`amap-idf.org/l-amap-c-est-quoi/trouver-une-amap-en-idf` avec `recherche=amap&departement=91` ; les sites propres des deux AMAP ;
+la page magasin de `natureo-bio.fr` et la visite virtuelle qu'elle met en lien ; l'annuaire des associations de la Ville de Lisses ;
+le registre de l'Agence Bio, paginé sur les 724 opérateurs de l'Essonne ; le registre des entreprises ; la Base Adresse Nationale.
+**Non utilisés** : `natureo.fr`, qui ne répond pas depuis cet environnement (l'enseigne publie sur `natureo-bio.fr`) ;
+`amap-idf.org` comme `site_web`, écarté par la règle 101 alors que son annuaire reste utilisable comme source de faits ;
+`web.archive.org`, qui a répondu 429 quand il s'est agi de dater la disparition du marché d'Essonnes.
+
+**Une contradiction tranchée : le marché d'Essonnes.** Essonne Tourisme et Grand Paris Sud Tourisme lui consacrent chacun une
+fiche, la seconde avec jours et heures — jeudi et dimanche, 8h-13h, place d'Essonnes. La Ville a publié en décembre 2021 cinq
+photographies qui le nomment, et son annuaire garde une « halle du marché d'Essonnes ». Mais l'article 1er du règlement municipal
+de 2024 énumère les marchés de la commune et n'en cite que deux, et la page des marchés de la Ville, à jour d'août 2026, n'en
+décrit que ces deux-là. La fiche n'est pas publiée : c'est la **règle 156**, née ici. Les deux enregistrements des offices portent
+une période d'ouverture figée sur l'année 2017.
+
+**Trois photographies écartées pour visages, une sauvée par recadrage, une par la hauteur.** Les sept photographies que la Ville
+consacre à ses marchés sont prises à hauteur d'étal, commerçants et clients de face : cinq sont inutilisables même recadrées, une
+(les olives des Tarterêts) offre une zone franche de 900 × 520, et la vue de drone de novembre 2023 règle le cas du marché du
+centre sans recadrage — d'où la **règle 158**. La photographie unique que les deux offices de tourisme servent à leurs trois
+fiches de marchés corbeil-essonnois est un seul et même fichier de banque d'images (même empreinte md5, mention « Pixabay
+License ») : règle 88, elle ne prouve rien et n'a pas été reprise.
+
+**Pistes non publiées à Corbeil-Essonnes et alentour** :
+
+- **Le marché d'Essonnes** (Corbeil-Essonnes, marché) — deux offices de tourisme le décrivent, le règlement municipal de 2024 et
+  la page des marchés de la Ville ne le connaissent plus. Déblocage : une source municipale qui le nomme à nouveau — règlement,
+  arrêté, page des marchés ou actualité.
+- **Un magasin bio de Ris-Orangis et les fermes partenaires des deux AMAP** (Ris-Orangis, Lissy, Guillerval, Avrainville,
+  Champcueil) — les deux AMAP nomment leurs paysans partenaires, mais toujours par leur nom de personne ; seules deux fermes
+  portent une enseigne (la Ferme de l'Aunette à Ris-Orangis, le Chemin des Fleurs à Avrainville). Déblocage : une source qui
+  décrive un point de vente à la ferme, avec adresse et créneaux, sous une enseigne — et non un patronyme.
+- **Une ferme de Lisses** (Lisses, production) — inscrite au registre de l'Agence Bio en production, sans vente aux particuliers,
+  et son certificat Ecocert est **arrêté depuis le 20 avril 2026**. Ne se publie pas en l'état.
 
 ### Pistes non publiées à Clermont-Ferrand
 

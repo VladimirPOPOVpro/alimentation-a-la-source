@@ -13541,5 +13541,151 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%94+Paysans+85+chemin+de+la+Tuili%C3%A8re+Puget-sur-Argens",
     "image_url": "/images/marchands/o-paysans.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-corbeil-essonnes",
+    "nom": "Marché du centre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.610194,
+    "lon": 2.475412,
+    "adresse": "Allées Aristide Briand (emplacement provisoire), 91100 Corbeil-Essonnes",
+    "horaires": "Mardi, vendredi et dimanche matin de 8h à 13h, toute l'année. Mêmes jours et mêmes heures dans le règlement municipal des marchés d'approvisionnement, sur la page des marchés de la Ville et chez Grand Paris Sud Tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et coquillages",
+      "Viandes et volailles",
+      "Pain et pâtisserie",
+      "Plats de traiteurs",
+      "Spécialités d'ici et d'ailleurs"
+    ],
+    "description": "Le plus grand marché du département avec plus de cent quarante commerçants, dont les étals de bouche tiennent sous une halle métallique. Le règlement municipal le situe sous la halle et sur la place du Comte-Haymon ; depuis janvier 2024, le temps des travaux de la halle et de la place, la Ville l'installe sur les allées Aristide Briand, à 600 m à l'ouest, et affrète une navette gratuite le dimanche. Les stands d'équipement de la maison et de la personne se tiennent à l'extérieur.",
+    "telephone": "01 60 89 70 26",
+    "site_web": "https://www.corbeil-essonnes.fr/les-marches-alimentaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All%C3%A9es+Aristide+Briand+91100+Corbeil-Essonnes",
+    "image_url": "/images/marchands/marche-du-centre-corbeil-essonnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-tarterets-corbeil-essonnes",
+    "nom": "Marché des Tarterêts",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.616501,
+    "lon": 2.462742,
+    "adresse": "Avenue Léon Blum, 91100 Corbeil-Essonnes",
+    "horaires": "Mercredi et samedi matin de 8h à 13h, toute l'année. Mêmes jours et mêmes heures dans le règlement municipal des marchés d'approvisionnement, sur la page des marchés de la Ville et chez Grand Paris Sud Tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Salades et légumes-feuilles",
+      "Olives et condiments",
+      "Huiles et épices",
+      "Fruits secs et dattes",
+      "Boucherie",
+      "Œufs"
+    ],
+    "description": "Marché de quartier de plus de quatre-vingts stands, alimentaire sous la halle et non alimentaire à l'extérieur, sur la place attenante et le parking en contrebas. La Ville le décrit comme « haut en couleurs et en senteurs » et met en avant ses produits traditionnels et typiques ; les produits listés ici se lisent sur les photographies que la Ville consacre à ce marché.",
+    "telephone": "01 60 89 70 26",
+    "site_web": "https://www.corbeil-essonnes.fr/les-marches-alimentaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue+L%C3%A9on+Blum+91100+Corbeil-Essonnes",
+    "image_url": "/images/marchands/marche-des-tarterets-corbeil-essonnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "robinson-fait-son-panier-corbeil-essonnes",
+    "nom": "Robinson fait son panier",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.59884,
+    "lon": 2.45852,
+    "adresse": "Local du 6 rue Fernand Laguide, 91100 Corbeil-Essonnes",
+    "horaires": "Distribution le mardi de 18h30 à 19h30 selon le site de l'association, de 18h30 à 19h45 selon l'annuaire du réseau AMAP d'Île-de-France. Le contrat légumes court sur 48 distributions, du 6 janvier au 31 décembre 2026 ; fromages, fruits et miel reviennent une ou deux fois par mois. Paniers réservés aux adhérents.",
+    "produits": [
+      "Paniers de légumes biologiques",
+      "Œufs biologiques",
+      "Fromages de brebis, yaourts et faisselles",
+      "Pommes et poires",
+      "Pain au levain",
+      "Volailles",
+      "Miel"
+    ],
+    "description": "AMAP du quartier de Robinson, créée en 2009, qui distribue chaque mardi soir dans un local mis à disposition par la Ville sept contrats passés avec un maraîcher, une arboricultrice, une bergère, un éleveur, un boulanger et un apiculteur. Les partenaires légumes et œufs cultivent à Ris-Orangis, à une dizaine de kilomètres.",
+    "site_web": "https://robinsonfaitsonpanier.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6+rue+Fernand+Laguide+91100+Corbeil-Essonnes",
+    "image_url": "/images/marchands/robinson-fait-son-panier-corbeil-essonnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "natureo-corbeil-essonnes",
+    "nom": "naturéO Corbeil-Essonnes",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.60971,
+    "lon": 2.448014,
+    "adresse": "Rue Jean Cocteau, centre commercial Exona, 91100 Corbeil-Essonnes",
+    "horaires": "Du lundi au samedi de 9h30 à 20h, dimanche de 9h30 à 12h30. Magasin ouvert en continu.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Vrac",
+      "Boucherie et charcuterie à la coupe",
+      "Fromagerie et crémerie",
+      "Boulangerie",
+      "Poissonnerie",
+      "Épicerie et cave",
+      "Produits diététiques (vegan, sans gluten, sans lactose)"
+    ],
+    "description": "Magasin bio de 2009 dans la zone commerciale du sud de la commune, avec rayons à la coupe, poissonnerie et vrac. L'enseigne référence ici six producteurs locaux dont elle publie la distance : une brasserie de la vallée de Chevreuse, un chocolatier de Montigny-sur-Loing, un safranier et un producteur du Loiret, et deux fermes de Seine-et-Marne, la plus proche à 17 km. Certificat Ecocert FR-BIO-01 en cours au registre de l'Agence Bio.",
+    "telephone": "01 60 89 87 80",
+    "site_web": "https://www.natureo-bio.fr/magasin-bio/corbeil-essonnes/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=natur%C3%A9O+rue+Jean+Cocteau+91100+Corbeil-Essonnes",
+    "image_url": "/images/marchands/natureo-corbeil-essonnes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-panier-saint-fiacre-lisses",
+    "nom": "Le Panier Saint Fiacre",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.611359,
+    "lon": 2.417367,
+    "adresse": "Salle Cocteau, médiathèque Colette, mail de l'Île-de-France, 91090 Lisses",
+    "horaires": "Distribution le jeudi en soirée, entre 18h et 19h selon le site de l'association ; les créneaux varient un peu selon les contrats (18h-19h, 18h15-19h, environ 18h30-19h30). Légumes chaque jeudi du 8 janvier au 17 décembre 2026, les autres contrats un jeudi sur deux ou une fois par mois. Paniers réservés aux adhérents.",
+    "produits": [
+      "Paniers de légumes biologiques",
+      "Œufs biologiques",
+      "Farines biologiques",
+      "Pain au levain",
+      "Fromages et produits laitiers de chèvre",
+      "Volailles biologiques",
+      "Viande de porc biologique",
+      "Miel et plantes aromatiques"
+    ],
+    "description": "AMAP de 2006, une cinquantaine d'adhérents venus de Lisses, de Bondoufle et des communes voisines, qui distribue le jeudi soir dans une salle municipale à côté de la médiathèque. Les contrats sont passés avec une ferme maraîchère de Ris-Orangis pour les légumes et avec des fermes d'Essonne, de Seine-et-Marne et de Touraine pour le reste ; l'association publie le détail de chaque contrat.",
+    "site_web": "https://lepaniersaintfiacre.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=M%C3%A9diath%C3%A8que+Colette+mail+de+l%27%C3%8Ele-de-France+91090+Lisses",
+    "image_url": "/images/marchands/le-panier-saint-fiacre-lisses.jpg",
+    "a_confirmer": true
   }
 ]
