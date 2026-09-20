@@ -15017,5 +15017,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20de%20la%20Bio%20255%20chemin%20de%20la%20Castelette%2084140%20Avignon",
     "image_url": "/images/marchands/amap-libre-terre-avignon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-jacobins-le-mans",
+    "nom": "Marché des Jacobins",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.008375,
+    "lon": 0.198363,
+    "adresse": "Place du Jet-d'Eau et avenue de Paderborn, 72000 Le Mans",
+    "horaires": "Le mercredi, le vendredi et le dimanche matin, de 7h à 12h30 selon la Ville du Mans, page mise à jour le 11 septembre 2026 ; l'office de tourisme écrit 7h à 13h pour les mêmes séances (règle 176). La brocante du vendredi et du dimanche est une autre séance, non alimentaire : elle occupe la place des Jacobins voisine, jusqu'à 17h30 le vendredi selon l'office.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Fromages",
+      "Charcuterie",
+      "Miel",
+      "Plantes et fleurs"
+    ],
+    "description": "Le marché le plus fréquenté du Mans, au pied de la cathédrale Saint-Julien, tenu trois matinées par semaine entre la place du Jet-d'Eau et l'avenue de Paderborn. La Ville comme l'office de tourisme écrivent qu'on y vient de loin et que les étals font la part belle aux maraîchers, horticulteurs, apiculteurs, fromagers et charcutiers sarthois ; la partie brocante, le vendredi et le dimanche, figure dans les calendriers nationaux de déballage.",
+    "telephone": "02 43 47 38 22",
+    "site_web": "https://www.lemans.fr/ma-ville/commerce/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Jacobins%20place%20du%20Jet%20d%27Eau%2072000%20Le%20Mans",
+    "image_url": "/images/marchands/marche-jacobins-le-mans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-pontlieue-le-mans",
+    "nom": "Marché de Pontlieue",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.980671,
+    "lon": 0.212732,
+    "adresse": "Place Henri-Vaillant, quartier de Pontlieue, 72100 Le Mans",
+    "horaires": "Le mercredi et le dimanche matin, de 7h à 12h30 selon la Ville du Mans, page mise à jour le 11 septembre 2026 ; l'office de tourisme écrit 7h à 13h pour les deux séances (règle 176).",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Fromages",
+      "Charcuterie",
+      "Miel",
+      "Plantes et fleurs"
+    ],
+    "description": "Marché de quartier du sud du Mans, sur la place Henri-Vaillant, deux matinées par semaine. La Ville et l'office de tourisme le citent avec les Jacobins parmi les marchés pour lesquels on vient de loin en Sarthe ; le dimanche, des étals de déballage s'ajoutent aux étals alimentaires.",
+    "telephone": "02 43 47 38 22",
+    "site_web": "https://www.lemans.fr/ma-ville/commerce/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Pontlieue%20place%20Henri%20Vaillant%2072100%20Le%20Mans",
+    "image_url": "/images/marchands/marche-pontlieue-le-mans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-sablons-le-mans",
+    "nom": "Marché des Sablons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.991644,
+    "lon": 0.22373,
+    "adresse": "Place des Sablons, rues du Cantal et des Pyrénées, 72100 Le Mans",
+    "horaires": "Le jeudi matin, de 7h à 12h30 selon la Ville du Mans, page mise à jour le 11 septembre 2026 ; l'office de tourisme écrit 7h à 13h et publie la même heure dans son calendrier de séances (règle 176). Les jeudis 25 décembre et 1er janvier sont avancés à la veille.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Épices",
+      "Herbes fraîches",
+      "Poissons",
+      "Fromages"
+    ],
+    "description": "Marché du jeudi matin dans le quartier des Sablons, desservi par le tramway. L'office de tourisme le décrit comme un marché d'épices et d'herbes fraîches, où les fruits et légumes de saison se vendent aussi par lot, et signale une rue consacrée au prêt-à-porter à côté des étals alimentaires.",
+    "telephone": "02 43 47 38 22",
+    "site_web": "https://www.lemans.fr/ma-ville/commerce/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Sablons%20place%20des%20Sablons%2072100%20Le%20Mans",
+    "image_url": "/images/marchands/marche-sablons-le-mans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fenouil-biocoop-republique-le-mans",
+    "nom": "Le Fenouil Biocoop République",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.004633,
+    "lon": 0.194852,
+    "adresse": "1 bis Rue Gambetta, 72000 Le Mans",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30. Fermé les jours fériés. Le retrait des commandes passées en ligne se fait aux mêmes heures.",
+    "produits": [
+      "Fruits et légumes bio de saison, en priorité sarthois",
+      "Plus de deux cents références en vrac",
+      "Pain frais local livré chaque jour",
+      "Produits frais et surgelés",
+      "Petits plats cuisinés sur place le midi",
+      "Compléments alimentaires bio"
+    ],
+    "description": "Épicerie biologique de quartier de deux cents mètres carrés, ouverte en 2017 près de la place de la République, conçue pour des courses à pied, à vélo ou en tramway. Elle appartient à une coopérative mancelle du réseau Biocoop qui déclare travailler avec cent trente producteurs dans un rayon de cent cinquante kilomètres ; son adresse figure parmi les lieux d'activité de l'opérateur au registre national de l'Agence Bio, certifié par Ecocert depuis décembre 2005.",
+    "telephone": "02 85 29 15 80",
+    "site_web": "https://lefenouil-biocoop.fr/magasin-bio-le-mans-republique/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fenouil%20Biocoop%20R%C3%A9publique%201%20bis%20rue%20Gambetta%2072000%20Le%20Mans",
+    "image_url": "/images/marchands/fenouil-biocoop-republique-le-mans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-metairie-le-mans",
+    "nom": "La Ferme de la Métairie",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.956925,
+    "lon": 0.179207,
+    "adresse": "39 Boulevard Pierre Lefaucheux, 72100 Le Mans",
+    "horaires": "Magasin d'usine ouvert en semaine, généralement de 8h30 à 17h30 ; fermé le week-end et les jours fériés. L'atelier demande d'appeler avant de venir (règle 40).",
+    "produits": [
+      "Confitures biologiques",
+      "Marmelades et gelées",
+      "Sorbets plein fruit",
+      "Jus de fruits biologiques"
+    ],
+    "description": "Atelier de confitures et de sorbets biologiques installé depuis juin 2009 dans la zone industrielle sud du Mans, avec un point de vente ouvert sur le lieu de fabrication. Certification biologique inscrite au registre national de l'Agence Bio, engagée auprès d'Ecocert depuis janvier 1996 ; l'entreprise, active au registre des entreprises à cette adresse, garde deux lieux d'activité à Chenu, dans le sud de la Sarthe, et l'office de tourisme la référence parmi ses partenaires gastronomie 2026.",
+    "telephone": "02 43 16 65 51",
+    "site_web": "https://lafermedelametairie.fr/pointsdevente/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20de%20la%20M%C3%A9tairie%2039%20boulevard%20Pierre%20Lefaucheux%2072100%20Le%20Mans",
+    "image_url": "/images/marchands/ferme-metairie-le-mans.jpg",
+    "a_confirmer": true
   }
 ]

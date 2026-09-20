@@ -2484,10 +2484,68 @@ prioritaires en cas de conflit.
      pendant de la règle 167, qui ajourne pour cause de plafond : ici l'ajournement tient à un
      champ, pas à un quota.
 
+193. **Un marché que la commune et l'office rattachent à deux emprises voisines : le point va à la
+     plus petite des deux.** Au Mans, la Ville écrit « marché des Jacobins, avenue de Paderborn »,
+     l'office de tourisme écrit « place du Jet d'Eau, avenue de Paderborn — Jacobins » et intitule
+     sa fiche « place du Jet d'Eau et place des Jacobins ». La Base Adresse Nationale rend les
+     trois : l'avenue au centre de ses sept cents mètres, à 48,011085 / 0,203407, la place du
+     Jet-d'Eau à 48,008375 / 0,198363, la place des Jacobins cent mètres plus au sud. Quatre cent
+     cinquante mètres séparent les deux premiers points. **Critère** : quand deux sources
+     concordantes nomment une voie longue et une place, le point se pose sur la place — un centre
+     de voie est le dernier recours de la règle 10, et une place est une emprise que le visiteur
+     voit d'un coup d'œil en arrivant. Le champ `adresse` nomme les deux, pour que la recherche
+     trouve l'une comme l'autre. Ce qui départage n'est pas la longueur seule mais l'emprise
+     réelle du marché : ici la photographie que l'office publie pour ce marché montre les étals au
+     pied de la cathédrale, c'est-à-dire du côté de la place.
+194. **Une des rues que la commune nomme pour un marché porte le même nom ailleurs dans la
+     ville.** Pour le marché des Sablons, la Ville du Mans écrit « rues des Sablons, du Cantal et
+     des Pyrénées ». La Base Adresse Nationale géocode « rue des Sablons » à 47,988055 / 0,212153,
+     soit neuf cents mètres à l'ouest de la rue du Cantal et de la rue des Pyrénées, qui tiennent
+     avec la place des Sablons dans un carré de trois cents mètres. Prise au mot, la première
+     adresse posait le marché dans un autre quartier. **Critère** : quand la commune nomme
+     plusieurs voies pour un même marché et que l'une d'elles se géocode loin des autres, c'est le
+     groupe majoritaire qui fait foi, pas la voie dont le nom ressemble à celui du marché ; une
+     confirmation se cherche dans l'en-tête d'adresse de l'office de tourisme, qui écrit ici
+     « place des Sablons ». La voie isolée ne se mentionne pas dans la fiche, pour ne pas y
+     réinjecter l'erreur.
+195. **Un annuaire associatif que ses membres mettent à jour eux-mêmes ne prouve pas qu'une AMAP
+     distribue encore.** L'annuaire national du réseau des AMAP liste cinq associations au Mans,
+     avec adresse et créneau de distribution : c'est la source que `AGENT.md` désigne pour les
+     points de distribution. Lues de près, ses notices portent leur année de création — 2008, 2010
+     — et l'une d'elles propose encore des paniers « pour la saison 2013 » ; chaque notice se
+     termine par un bouton « Mettre à jour » qui dit qui écrit. Le blog propre de l'une des cinq
+     s'arrête à un catalogue de 2016. Aucune des cinq n'a de source datée de l'année en cours.
+     **Critère** : une AMAP ne se publie que si une source de moins de douze mois, ou son propre
+     site vivant, atteste d'une distribution en cours — jour, heure et lieu. L'annuaire du réseau
+     reste bon pour trouver la piste et pour la décrire, jamais seul pour établir qu'elle existe
+     encore. C'est la règle 6 transposée : ce que le registre des entreprises fait pour un
+     commerce, une source datée doit le faire pour une association, qui n'y figure pas.
+     **Déblocage** : une page d'actualité datée, un calendrier de distribution de la saison, ou
+     une mention dans une publication municipale de l'année.
+
+196. **Le symétrique de la règle 178 : un marché que seul l'office de tourisme recense ne se
+     publie pas sur cette seule source.** À Le Mans, la liste des marchés de l'office ajoute
+     quatre rendez-vous que la page des marchés de la Ville ne connaît pas — trois le samedi
+     matin, un le mercredi après-midi, ce dernier portant chez l'office la mention « initiative
+     privée ». La Ville annonce d'ailleurs seize rendez-vous hebdomadaires et n'en détaille que
+     quinze, ce qui montre que sa liste n'est pas forcément exhaustive. **Critère** : la règle 178
+     accorde à la commune seule le rang de source suffisante parce qu'elle organise, réglemente et
+     encaisse les droits de place ; la réciproque ne vaut pas, l'office étant un relais (règle
+     176). Un marché absent de la page communale reste en « Pistes non publiées » jusqu'à ce que
+     la commune le publie, ou, s'il est privé, jusqu'à ce que son organisateur publie lui-même
+     jour, lieu et heures. Ce n'est pas un doute sur la bonne foi de l'office : c'est qu'une
+     séance non reconnue par la commune peut avoir été déplacée ou supprimée sans que le relais
+     l'apprenne.
+
 
 ## Marchands à confirmer
 
-524 fiches sur 565 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+529 fiches sur 570 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché des Jacobins** (Le Mans) (catégorie et piliers des marchés communaux. **Deux autorités, un écart d'une demi-heure, règle 176** : la page « Les marchés » de la Ville du Mans, mise à jour le 11 septembre 2026, donne 7h-12h30 pour les marchés du matin ; l'office de tourisme donne 7h-13h sur sa liste comme sur la fiche du marché, et son texte descriptif va jusqu'à 13h30 le mercredi et le vendredi. La fiche publie l'heure de la commune et nomme celle de l'office. **Point, règle 193** : les deux sources rattachent le marché à deux lieux voisins — la Ville écrit « avenue de Paderborn », l'office « place du Jet d'Eau, avenue de Paderborn » et intitule sa fiche « place du Jet d'Eau et place des Jacobins » ; le point est posé sur la place du Jet-d'Eau, la plus petite des emprises que les deux nomment, à 48,008375 / 0,198363. **Brocante** : les deux sources la décrivent le vendredi et le dimanche sur la place des Jacobins, non alimentaire, jusqu'à 17h30 le vendredi selon l'office ; elle est citée dans `horaires` au titre de la règle 188. **Téléphone, règle 189** : le 02 43 47 38 22 est la ligne du service municipal des droits de place, publiée sur la page des marchés de la Ville et reprise par l'office. **Photo** : étal de choux et de verdure devant la cathédrale Saint-Julien, photothèque de l'office de tourisme, original 1 024 × 1 295 px recadré en 1 024 × 780 ; les personnes présentes sont à distance, de dos ou de profil, aucun visage lisible.)
+- **Marché de Pontlieue** (Le Mans) (mêmes catégorie, piliers, source communale et téléphone que les Jacobins. Mercredi et dimanche matin, place Henri-Vaillant ; **même écart de sources, règle 176** : 7h-12h30 pour la Ville, 7h-13h pour l'office. Un annuaire privé de marchés sarthois, sans éditeur identifiable dans ses mentions, publie une troisième version — mercredi 7h-12h30, dimanche 7h-13h — et n'a pas été retenu. **Photo, règle 1** : barquettes de fraises, photothèque de l'office de tourisme, 2 048 × 1 536 px ramenés à 1 280 ; c'est une photo thématique des marchés du Mans, elle ne montre pas la place Henri-Vaillant.)
+- **Marché des Sablons** (Le Mans) (mêmes catégorie, piliers, source communale et téléphone que les deux autres. Jeudi matin ; **même écart d'une demi-heure, règle 176**. **Point, règle 194** : la Ville nomme « rues des Sablons, du Cantal et des Pyrénées » ; la Base Adresse Nationale géocode une rue des Sablons à 900 m à l'ouest des deux autres, tandis que la place des Sablons, la rue du Cantal et la rue des Pyrénées tiennent dans un même carré de trois cents mètres — et c'est « place des Sablons » que l'office met en tête de sa fiche. Le point est posé sur la place, à 47,991644 / 0,22373. **Photo** : étal de tomates, melons et pastèques du marché lui-même, fiche de l'office de tourisme, original carré 1 664 px recadré sur sa moitié basse puis ramené à 1 280 × 649 — le recadrage écarte une rangée de visages et laisse bien au-dessus du seuil de la règle 185.)
+- **Le Fenouil Biocoop République** (Le Mans) (magasin biologique de quartier, catégorie `magasin-bio` et piliers des magasins bio ; enseigne à six magasins, admise par la règle 3, avec une fiche par point de vente. **Registre des entreprises** : établissement actif au 1 B rue Gambetta, enseigne « LE FENOUIL BIOCOOP », parmi les six établissements ouverts de la société. **Registre national de l'Agence Bio** : la rue Gambetta figure parmi les six lieux d'activité de l'opérateur, certifié par Ecocert, engagement du 2 décembre 2005. **Drapeau `venteParticuliers` à faux, règle 40** : l'opérateur porte tous ses drapeaux de vente à faux alors qu'il s'agit de six magasins de détail qui publient eux-mêmes leurs heures d'ouverture — le bloc est ici manifestement non tenu, il est consigné et n'écarte pas la fiche. **Photo** : rayon fruits et légumes du magasin, site officiel de l'enseigne, 1 024 × 768 px, aucune personne.)
+- **La Ferme de la Métairie** (Le Mans) (atelier de confitures et de sorbets biologiques, catégorie `producteur` au titre de la règle 4 — transformation sur place et vente au comptoir du lieu de fabrication. **Registre des entreprises** : un établissement ouvert au 39 boulevard Pierre Lefaucheux, état administratif actif. **Agence Bio** : certificat Ecocert engagé depuis le 1er janvier 1996, deux lieux d'activité conservés à Chenu (72500). **Source indépendante** : l'office de tourisme du Mans la référence parmi ses partenaires « artisanat et gastronomie » 2026, à la même adresse et avec le même téléphone. **Horaires, règle 40** : le site officiel annonce un magasin d'usine « généralement de 8h30 à 17h30 », fermé le week-end et les jours fériés, en demandant d'appeler avant de venir ; le régime sur appel préalable protège du déplacement inutile. **Réserve de fond consignée** : la même page dit recevoir chaque lundi à Rungis des fruits exotiques d'Afrique — la fiche ne présente donc pas l'approvisionnement comme local, seulement la vente comme directe. **Photo** : pot de sorbet « fraise Sarthe » portant la feuille biologique européenne, photothèque de l'office de tourisme, original 3 840 px recadré et ramené à 1 280 × 853.)
 - **Marché des producteurs des allées de l'Oulle** (Avignon) (marché de producteurs de fin de journée, le lundi de 17h à 19h, sur l'esplanade entre les remparts et le Rhône ; catégorie et piliers des marchés. **Trois autorités concordent sur le jour et les heures** : le tableau « Marchés et brocantes » de la Ville d'Avignon, la fiche de l'Office de tourisme Avignon Tourisme mise à jour le 19 février 2026, et le recensement des marchés provençaux, qui compte sept étals et écrit que ses données ont été confirmées par la Chambre d'agriculture le 14 janvier 2026. **Saison contredite trois fois, règle 190** : l'office arrête la saison au 19 octobre 2026, le recensement au 23 octobre, l'office d'agglomération du Grand Avignon au 25 octobre ; la fiche publie « de fin mars à mi-octobre » et la contradiction est consignée ici. **Téléphone, règle 189** : le 04 90 80 80 00 est le standard de la mairie, seul numéro que l'office publie pour ce marché. **Photo** : tomates sur un étal, photothèque Avignon Tourisme, 1 200 px, aucun visage.)
 - **Marché des producteurs de Montfavet** (Avignon) (marché du soir du vendredi, 16h30-19h, place de l'Église de Montfavet ; catégorie et piliers des marchés. **Trois autorités concordent** : la Ville, l'office de tourisme (fiche mise à jour le 19 février 2026) et le recensement des marchés provençaux, qui compte huit étals. **Saison contredite, règle 190** : l'office écrit du 27 mars au 23 octobre 2026, le recensement du 25 mars au 25 octobre ; la fiche publie « de fin mars à fin octobre ». **Géocodage** : la Base Adresse Nationale ignore « place de l'Église **Montfavet** » mais rend « Place de l'Eglise 84140 Avignon » à 0,965, confirmée par le contrôle inverse à 0 m — il n'a pas fallu descendre à un repère au sens de la règle 26, seulement retirer le nom du quartier de la requête. **Photo, règle 191** : l'office illustre ce marché et celui de l'Oulle avec le **même fichier** ; c'est donc la photographie de la Ville d'Avignon qui est reprise ici, recadrée pour écarter les silhouettes du premier plan, 1 200 px.)
 - **Biocoop Avignon Sud** (Avignon) (magasin biologique de la ZAC la Cristole à Montfavet, rayons à la coupe, boulangerie cuite sur place et comptoir traiteur. **Registre, règle 6** : établissement ouvert, code 47.29Z, à l'adresse publiée. **Bio** : inscription propre au registre national de l'Agence Bio, activité « Distribution », `venteParticuliers` à vrai, certificat **engagé** auprès du Bureau Alpes contrôles depuis le 27 novembre 2019, fiche rafraîchie le 17 septembre 2026 — trois jours avant cette passe, ce qui vaut le pilier `environnement`. **Horaires** : publiés par le magasin lui-même, lundi 10h-19h30 et mardi au samedi 9h-19h30. **Adresse** : le registre des entreprises écrit 84000, le magasin et la Base Adresse Nationale 84140 ; c'est la Base qui est publiée. **Photo** : devanture, site du magasin, recadrée au-dessus des véhicules pour qu'aucune plaque d'immatriculation ne soit lisible, 1 280 px.)
@@ -3037,7 +3095,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 555 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 560 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -9372,6 +9430,92 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées au Mans
+
+Passe du 20 septembre 2026, en soirée. **Département retenu, règle 41** : la Sarthe (72), déficit
+**4,6438** pour 566 733 habitants et aucune fiche — premier du classement métropolitain sur une
+base de 565 fiches. La Réunion arrivait devant avec 7,29, la Guadeloupe, la Martinique, la Guyane
+et Mayotte suivaient ; toutes sortent par la règle 177. La réserve de région est respectée : la
+passe précédente visait le Vaucluse, en Provence-Alpes-Côte d'Azur, celle-ci vise les Pays de la
+Loire. **Commune** : Le Mans, 146 249 habitants, la plus peuplée du département et sans aucune
+fiche ; elle a rendu bien plus de cinq candidats vérifiables, il n'a pas fallu descendre à la
+suivante. **Sources principales** : la page « Les marchés » de la Ville du Mans, mise à jour le
+11 septembre 2026, qui recense seize rendez-vous hebdomadaires ; la liste « Les marchés du Mans et
+de la métropole » de l'office de tourisme ; le registre national de l'Agence Bio, dont la
+pagination complète sur la Sarthe rend 995 opérateurs, dont 87 déclarent une adresse au Mans.
+
+- **Marché du Pâtis Saint-Lazare** (place du Pâtis-Saint-Lazare) — **ajourné par le plafond de
+  cinq, règle 187.** Vérifié des deux côtés : la Ville le place le samedi matin, l'office écrit
+  « Au Mans, Pâtis Saint-Lazare (déballage et alimentation) : de 7h à 13h », et la Base Adresse
+  Nationale géocode la place à 0,967. Il aurait fait un **quatrième** marché dans une passe qui
+  n'avait encore aucun magasin ni aucun atelier au Mans ; l'ordre de la règle 167 a donné les deux
+  dernières places aux catégories manquantes. **Déblocage** : aucun, sinon le temps d'une passe —
+  il se reprend tel quel au prochain passage sur Le Mans, avec une photographie qui lui soit
+  propre.
+- **Marché de la République** (place de la République) — **écarté sur une contradiction
+  d'horaires, règle 5.** La Ville le range dans ses marchés du soir, « jeudi soir », et annonce
+  16h-20h pour cette tranche ; l'office de tourisme écrit « Place de la République
+  (alimentation) : de 12h à 19h ». Les deux plages ne se recouvrent qu'à moitié et l'écart porte
+  sur quatre heures, pas sur une demi-heure comme pour les marchés du matin : un visiteur qui
+  arriverait à 12h30 sur la foi de l'office pourrait trouver la place vide. La règle 176 ferait
+  trancher pour la commune, mais la commune ne publie pas d'heure propre à ce marché — seulement
+  la règle générale de ses marchés du soir. **Déblocage** : une page de la Ville propre à ce
+  marché, ou une liste communale qui lui donne ses heures.
+- **Six marchés du Mans laissés de côté, faute de place.** La Boussinière et les Maillets le mardi
+  matin, la Gare-Sud le jeudi soir, Washington le vendredi matin, Gazonfier le vendredi soir et la
+  Cité des Pins le samedi matin sont recensés par la Ville **et** par l'office, avec jour, lieu et
+  heures concordants à la demi-heure près : ils sont publiables en l'état. Le plafond de cinq
+  fiches et le choix d'équilibrer les catégories les ont écartés, pas un doute. **Déblocage** :
+  aucun, sinon le temps de plusieurs passes sur Le Mans.
+- **Quatre marchés que seul l'office de tourisme recense, écartés par la règle 196.** La rue
+  Hippolyte-Lecornué, La Butte à l'angle de l'avenue Bollée et de la rue de la Mariette, Les
+  Ardriers rue du Happeau — tous trois le samedi matin, 7h-13h — et le parvis de la Visitation rue
+  Gambetta le mercredi de 15h à 19h ne figurent pas sur la page des marchés de la Ville, qui
+  annonce pourtant seize rendez-vous hebdomadaires quand elle n'en détaille que quinze. Le
+  quatrième porte de surcroît la mention « initiative privée » chez l'office, ce qui le sort du
+  régime communal. **Déblocage** : une seconde source pour chacun — une liste communale complétée,
+  une publication de quartier, ou la page d'un organisateur.
+- **Cinq AMAP du Mans, écartées par la règle 195 qu'elles ont fait écrire.** L'annuaire national
+  du réseau des AMAP en liste cinq sur la commune, avec adresse et créneau. Aucune ne porte de
+  source datée de l'année en cours : les notices annoncent des créations de 2008 et 2010, l'une
+  propose encore des paniers « pour la saison 2013 », et le blog propre de l'une d'elles s'arrête
+  à un catalogue de 2016. L'annuaire est renseigné par les associations elles-mêmes. Publier un
+  créneau de distribution qui n'existe plus enverrait quelqu'un attendre devant une porte fermée.
+  **Déblocage** : pour chacune, une page d'actualité datée, un calendrier de la saison en cours,
+  ou une mention dans une publication municipale de l'année.
+- **Registre bio du Mans : quatre-vingt-sept opérateurs, deux retenus.** Sur les 87 opérateurs qui
+  déclarent une adresse au Mans, **23** portent `venteParticuliers` à vrai. Sur ces 23 : **10**
+  enseignes de la grande distribution, que `MODERATION.md` écarte comme commerces généralistes ;
+  **3** boulangeries, que la règle 4 ne rattache pas à `magasin-bio` sans source indépendante
+  décrivant une vente de produits fermiers ; **2** brasseries et **1** distillerie, qui méritent
+  une instruction mais dont aucune source consultée ne publie d'heures d'ouverture au public ;
+  **1** torréfacteur, dans le même cas ; **1** grossiste, hors sujet ; **3** écartés pour doute sur
+  une personne (ci-dessous) ; **1** magasin d'une enseigne biologique nationale, rue de la Galère,
+  et **1** maraîchage en `EARL` portant une vraie enseigne, chemin des Oiselières — ces deux
+  derniers n'ont pas été instruits faute de place, le plafond de cinq étant atteint. **Déblocage** :
+  aucun, sinon le temps d'une passe. Les deux retenus de cette passe — le magasin de la rue
+  Gambetta et l'atelier du boulevard Pierre Lefaucheux — ne viennent pas de ce sous-ensemble :
+  ils portent l'un et l'autre tous leurs drapeaux de vente à faux dans ce registre, alors qu'ils
+  publient eux-mêmes leurs heures d'ouverture, et c'est la règle 40 qui les a maintenus.
+- **Trois pistes écartées pour doute sur une personne, au Mans.** Trois opérateurs du registre bio
+  annoncent une vente au Mans mais ne sont désignés, dans toutes les sources trouvées, que par le
+  patronyme ou le prénom de leur exploitant : aucune enseigne, aucune page propre, aucun horaire
+  publié pour une clientèle. Le nom patronymique d'une entreprise individuelle n'est pas une
+  enseigne, et un prénom en guise d'enseigne ne lève pas le doute. Rien de ces fiches n'est
+  publié, ni ici, ni dans le compte rendu, et **elles ne se rouvrent pas**.
+- **Une réserve de fond consignée sur l'atelier du boulevard Pierre Lefaucheux.** Sa page
+  « points de vente » annonce, à côté du magasin d'usine, un arrivage hebdomadaire de fruits
+  exotiques africains au marché d'intérêt national de Rungis. La fiche est donc écrite sur ce qui
+  est vérifié — une transformation sur place et une vente directe au comptoir de l'atelier — et ne
+  présente pas l'approvisionnement comme local. La règle 4 rattache bien ce cas à `producteur` ;
+  c'est la description qui porte la nuance, pas la catégorie.
+- **Une contradiction consignée, non remontée** : la Ville du Mans écrit que ses marchés du matin
+  se tiennent « de 7 h à 12 h 30 », l'office de tourisme écrit 7h-13h sur sa liste comme dans le
+  calendrier de ses fiches, et le texte descriptif de l'office va jusqu'à 13h30 le mercredi et le
+  vendredi aux Jacobins, en ajoutant que les premiers commerçants arrivent à 4h du matin. La
+  règle 176 tranche : l'heure publiée est celle de la commune, celle de l'office est nommée dans
+  `horaires`, les trois fiches de marché restent `a_confirmer`.
 
 ### Pistes non publiées à Avignon
 
