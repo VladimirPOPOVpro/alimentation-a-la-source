@@ -2096,9 +2096,52 @@ prioritaires en cas de conflit.
      la photographie d'une exploitation maraîchère de la plaine de la Taillat, attribuée nommément
      à ce lieu par la Métropole, tombe sous la règle 66 malgré son tiers droit sans visage.
 
+165. **Deux pages d'une même autorité donnent deux horaires : c'est la page dont le sujet est la
+     chose qui l'emporte sur la page dont le sujet est le lieu.** La Ville de Dunkerque écrit
+     « mardi 8h-12h » et « jeudi 8h-12h » pour les deux marchés de Petite-Synthe sur sa page « Les
+     marchés de plein air », qui range les six séances de la commune par quartier, et « de 8h à
+     13h » pour ces deux mêmes marchés dans la foire aux questions de la page de sa mairie de
+     quartier. **Critère** : la règle 162 départageait l'autorité qui organise et celle qui
+     recense ; ici c'est la même autorité, et c'est la page thématique — celle qui les énumère
+     toutes, qu'un seul service tient et qui sert de référence à l'office de tourisme — qui
+     l'emporte sur la page d'un quartier, où l'horaire n'est qu'un renseignement parmi d'autres.
+     L'office de tourisme de la communauté urbaine, source indépendante, écrit 8h-12h lui aussi :
+     il confirme, il ne fonde pas — sans lui le critère serait le même. Ici la divergence ne va
+     dans aucune fiche, les deux marchés concernés n'étant pas publiés (règle 166).
+
+166. **Une place que ni la Base Adresse Nationale ni l'autorité ne savent situer ferme la fiche,
+     même quand le marché, lui, est certain.** Le marché du mardi de Petite-Synthe se tient
+     « place Saint-Nicolas » selon la Ville de Dunkerque et selon l'office de tourisme — deux
+     sources indépendantes concordantes sur le jour, l'heure et le nom du lieu. Mais la Base ne
+     connaît aucune « place Saint-Nicolas » dans la commune, ni sous ce libellé ni sous un autre :
+     la requête filtrée sur le code commune 59183 ne rend qu'une digue homonyme, score 0,31, et le
+     balayage du 59640 ne la fait apparaître nulle part. Le bouton « Voir sur la carte » de la page
+     de la mairie de quartier pointe sur « / ». Ni la Ville ni l'office ne publient de point.
+     **Critère** : la règle 64 permettait de se rabattre sur les coordonnées que l'office publie
+     pour le lieu lui-même ; quand personne n'en publie, il ne reste rien à contrôler et la fiche
+     ne part pas — un marché placé à l'estime dans un quartier de 17 000 habitants est une fiche
+     fausse, et 500 m suffisent à faire manquer un marché qui dure quatre heures. Le lieu passe en
+     « Pistes non publiées ». Déblocage : un point publié par la Ville ou par l'office, ou
+     l'apparition de la voie dans la Base. Note d'outillage et non règle : `overpass-api.de` répond
+     406 depuis cet environnement et le miroir `overpass.osm.ch` répond 200 mais rend des jeux
+     vides pour toute requête — le recours à OpenStreetMap n'a donc rien prouvé, ni dans un sens ni
+     dans l'autre, et n'a pas été compté comme une vérification.
+
+167. **Quand une commune rend plus de cinq fiches vérifiées, la cinquième place va à la catégorie
+     qui manque, pas au cinquième exemplaire de la même.** Dunkerque en a rendu six d'un coup :
+     quatre marchés de plein air géocodables, un marché couvert municipal et un maraîcher qui vend
+     à la ferme six jours sur sept. Le mandat arrête une passe à cinq. **Critère** : à qualité de
+     vérification égale, on complète le tableau de la commune plutôt qu'on ne l'allonge — un
+     visiteur qui cherche où acheter en circuit court gagne davantage à apprendre qu'il existe un
+     producteur ouvert toute la semaine qu'à connaître un quatrième marché de plein air, et la
+     fiche écartée est déjà faite, donc la passe suivante sur la commune la prend sans refaire le
+     travail (règle 11). Ici c'est le marché du jeudi de la place Louis XIV, entièrement vérifié et
+     géocodé, qui attend en pistes pour cette seule raison ; celui de la place Saint-Nicolas, lui,
+     est fermé par la règle 166 et non par celle-ci.
+
 ## Marchands à confirmer
 
-480 fiches sur 520 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+484 fiches sur 525 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2603,8 +2646,12 @@ prioritaires en cas de conflit.
 - **Marché Paul-Éluard** (Saint-Martin-d'Hères) (mêmes catégorie, piliers, sources et photographie que le marché Champberton. Mardi et vendredi matin ; même écart de 7h30 entre les deux fiches de la Métropole, règle 162. Point de la Base Adresse Nationale sur la place, score 0,958)
 - **Marché de la République** (Saint-Martin-d'Hères) (mêmes catégorie, piliers, sources et photographie que les deux autres. Jeudi et dimanche matin ; **seul des trois que la Ville déclare uniquement alimentaire**, ce que la Métropole confirme en ne lui donnant que l'étiquette « Alimentaire ». La Métropole le situe dans le quartier Croix-Rouge. C'est celui que la Ville a choisi pour les animations du Mois de la transition alimentaire, le 9 octobre 2025. Point de la Base Adresse Nationale sur la place, score 0,965, à 600 m de la maison communale ; même écart de 7h30, règle 162)
 - **Ferme des Maquis** (Saint-Martin-d'Hères) (chèvrerie de la colline du Murier. **Pilier `environnement`** : certificat Bureau Veritas **engagé** au registre de l'Agence Bio depuis le 16 mai 2011 ; registre des entreprises, un établissement ouvert depuis 2012, code 01.45Z. **Trois versions des horaires, règle 5** : le guide des producteurs de la Métropole et le corps de la fiche de l'office de tourisme s'accordent sur mercredi, vendredi et samedi de 16h à 19h, le premier avec une saison de février à fin novembre ; le bloc « périodes d'ouverture » de la même fiche d'office écrit du 15 mars au 18 octobre, mercredi et samedi de 17h à 19h. Les jours et heures concordants sont publiés, les trois saisons sont dites. **`site_web` vide, règle 159, née ici** : `fermedesmaquis.fr`, que les deux sources citent encore, sert aujourd'hui un blog de contenu sans rapport avec la commune ni avec la chèvrerie. **`telephone` vide, règle 160, née ici** : un fixe au guide de la Métropole, un mobile à l'office de tourisme, et plus de site à l'exploitation pour départager ; la fiche dit où acheter au lieu d'appeler. **Photo** : le troupeau de chèvres alpines chamoisées publié par l'office de tourisme sur la fiche de cette ferme, 1200 × 800, personne dans le cadre)
+- **Marché de Dunkerque-Centre** (Dunkerque) (catégorie et piliers des marchés municipaux. **Deux autorités** : la page « Les marchés de plein air » de la Ville de Dunkerque, qui range les six séances de la commune par quartier, et la page « Faire son marché » de l'office de tourisme de la communauté urbaine. **Horaires contredits, règle 162** : 8h-13h à la Ville, qui l'organise, 8h-14h à l'office ; c'est le 8h-13h qui est publié et l'écart est écrit dans `horaires`. **Adresse** : place du Général de Gaulle et rue des Sœurs Blanches, avec le cours François Bart le samedi seulement — les deux autorités s'accordent, l'office omettant la rue des Sœurs Blanches. Point de la Base Adresse Nationale sur la place, score 0,965. **Produits, règle 88 a contrario** : la photographie `Marché de Dunkerque centre 2026` que la Ville consacre à ce marché lui est propre — son empreinte md5 diffère de celles des cinq autres photographies que la Ville publie sur ses pages de commerce, de halles et de mairies de quartier, toutes vérifiées — et un étal de fruits et légumes en occupe toute la moitié droite ; aucune source ne publie la liste des étals, l'office s'en tient à « saveurs locales » et « produits de saison ». **Photo, règle 164** : cette photographie-là est inutilisable, trois visages au premier plan dont celui d'un enfant, et aucun recadrage ne garde à la fois l'étal et une largeur exploitable — 280 px au mieux ; la fiche porte donc le bandeau générique « faire son marché » de l'office, qui n'est attribué à aucun lieu, recadré sous la ligne des visages, 1000 × 520, partagé avec les deux autres marchés de la commune)
+- **Marché de Rosendaël** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que le marché du centre. Dimanche 9h-13h, les deux autorités concordent : c'est le seul marché dunkerquois du dimanche. Point de la Base Adresse Nationale sur la place des Martyrs de la Résistance, score 0,968. Aucune source ne publie la liste des étals ; `produits` s'en tient à la formule de l'office. `a_confirmer` pour cette raison et pour la photographie partagée)
+- **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
+- **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 520 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 525 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2699,6 +2746,88 @@ sous un patronyme sans enseigne déclarée, ce qui suffirait à elle seule à ne
 finissait par une phrase biographique sur la personne qui a créé l'entreprise. Aucun nom n'y
 figurait, mais l'enseigne suffisait à l'identifier, et une fiche ne porte que l'enseigne, l'adresse,
 les horaires et les produits. La phrase a été retirée.
+
+### Pistes non publiées à Dunkerque
+
+Département visé : le **Nord (59)**, déficit **4,7255** au titre de la règle 41 avec 520 fiches publiées, dont quinze dans
+le département — cinq à Lille, cinq à Roubaix, trois à Tourcoing, une à Roncq, une à Villeneuve-d'Ascq. La Réunion (6,7094)
+reste écartée par la règle 93. La passe précédente en mode 2 visait l'Isère, en Auvergne-Rhône-Alpes ; le Nord est en
+Hauts-de-France, la réserve de la règle 41.c ne joue pas. Après la passe, le Nord tombe à **−0,0848** avec vingt fiches ;
+en tête du classement ensuite, outre-mer écarté : le **Val-d'Oise** (4,7584), l'**Indre-et-Loire** (4,7158), les
+**Côtes-d'Armor** (4,6586) et la **Seine-Maritime** (4,6008).
+
+Commune retenue : **Dunkerque**, 86 263 habitants, la quatrième du Nord et la plus peuplée sans aucune fiche — Lille,
+Tourcoing et Roubaix, qui la précèdent, en ont déjà cinq, trois et cinq. Elle a rendu **six fiches entières, image
+comprise**, sans qu'il faille descendre par population, et c'est la règle 167, née ici, qui a choisi les cinq qui partent :
+trois marchés de plein air, le marché couvert municipal et un maraîcher qui vend à la ferme. Les cinq points tiennent dans
+3,1 km — de l'axe du cours François Bart au magasin de la rue de Belfort, les deux extrêmes.
+
+**Les sources qui ont fait la passe.** La page « Les marchés de plein air » de `ville-dunkerque.fr`, qui range les six
+séances hebdomadaires par quartier dans quatre onglets — le texte rendu à plat les mélange, il a fallu lire les
+`tab-pane` du code pour rattacher chaque horaire à son quartier ; la page « Les Halles des Sœurs Blanches » de la même
+Ville, dont la foire aux questions donne les horaires et énumère les quinze enseignes du marché couvert ; la page de la
+mairie de quartier de Petite-Synthe, qui a livré la contradiction de la règle 165, et celles des trois autres quartiers,
+ouvertes pour le contrôle d'empreintes de la règle 88 ; la page « Faire son marché » de
+`dunkerque-tourisme.fr`, seule source indépendante et seule à couvrir toute l'agglomération, de Bergues à Grand-Fort-Philippe ;
+le registre national de l'Agence Bio pour le 59, **1 789 opérateurs** paginés par cent, filtrés à la main sur une liste de
+vingt-deux communes de l'agglomération ; le site propre du maraîcher ; la presse économique régionale pour la date
+d'inauguration et les surfaces des Halles ; le registre des entreprises ; la Base Adresse Nationale.
+
+**Le registre bio du 59 rend quinze opérateurs vendant aux particuliers dans l'agglomération, et presque rien
+d'utilisable en ville.** Sur les **quatre-vingt-onze** opérateurs inscrits dans les vingt-deux communes retenues,
+**trente-cinq** portent le nom d'une enseigne de grande distribution, inscrite pour son seul rayon boulangerie ou
+traiteur — que `MODERATION.md` écarte comme commerce généraliste — et le reste se partage entre logisticiens portuaires,
+chocolatiers industriels et plateformes de gros. Après filtre sur `venteParticuliers` et retrait de ces enseignes, il
+reste **quinze** noms, dont **quatre sont des patronymes sans enseigne** : ceux-là ne se publient pas, et ne sont pas
+repris ici. Le seul opérateur du lot qui tienne un vrai point
+de vente dans Dunkerque même est le maraîcher publié.
+
+**Pistes non publiées à Dunkerque** :
+
+- **Le marché du jeudi de la place Louis XIV** (Dunkerque, Petite-Synthe, marché) — **entièrement vérifié, géocodé et
+  gardé pour un prochain passage dans la commune**, au titre de la règle 167, née ici : jeudi de 8h à 12h selon la page
+  « Les marchés de plein air » de la Ville et selon l'office de tourisme, point de la Base Adresse Nationale sur la place,
+  score 0,969. Rien ne manque, il ne manquait que la place — la cinquième a été donnée au maraîcher, catégorie que la
+  commune n'avait pas encore. À noter pour ce passage : la page « Faire son marché » de l'office attribue aussi un marché
+  du jeudi « place Louis XIV » à **Grande-Synthe**, commune voisine, à côté de celui de Petite-Synthe ; la Base ne connaît
+  pas de place de ce nom à Grande-Synthe, et la Ville de Grande-Synthe n'en annonce pas. Contradiction consignée, non
+  tranchée, sans effet sur la fiche dunkerquoise.
+- **Le marché du mardi de la place Saint-Nicolas** (Dunkerque, Petite-Synthe, marché) — jour, heure et lieu concordants
+  chez les deux autorités, mais **aucune des deux ne publie de point et la Base Adresse Nationale ne connaît pas cette
+  place** : non publié au titre de la **règle 166**, née ici. Déblocage : un point publié par la Ville ou par l'office, ou
+  l'apparition de la voie dans la Base.
+- **Une épicerie biologique en vrac de Rosendaël** (Dunkerque, magasin-bio) — inscrite au registre de l'Agence Bio en
+  « Distribution », vente aux particuliers déclarée, société active au registre des entreprises depuis juillet 2026, avec
+  un site marchand propre. **Non publiée par précaution sur une personne** : l'enseigne commerciale sous laquelle elle
+  communique est de la forme « Maison X », où X peut être le patronyme de l'exploitant, alors que la raison sociale est
+  tout autre. La règle est de ne rien publier au moindre doute sur un nom de personne ; la piste ne se rouvre pas sur ce
+  motif. Ni l'enseigne ni le nom ne sont écrits ici.
+- **Un magasin biologique de Coudekerque-Branche et un point de vente de Bourbourg** (agglomération de Dunkerque,
+  magasin-bio) — inscrits au registre bio en « Distribution » avec vente aux particuliers, actifs au registre des
+  entreprises. Hors commune : la règle 41 groupe les cinq fiches d'une passe sur une seule commune, et la règle 96 ne
+  permet d'en sortir que pour compléter un compte qui l'était déjà. Déblocage : une passe qui vise ces communes, ou un
+  cinquième emplacement à pourvoir dans l'agglomération.
+- **Une boulangerie coopérative de Gravelines et une coopérative de transition écologique de Grande-Synthe**
+  (agglomération de Dunkerque, producteur) — les deux ne déclarent au registre bio que « Préparation » et « Pain frais »,
+  les deux publient un site propre, les deux sont hors de la commune retenue. Même motif que ci-dessus, même déblocage ;
+  s'y ajoute la question de la catégorie, qu'il faudra trancher au titre de la règle 4.
+
+**Deux images écartées, chacune pour une raison utile.** La seule vue large des Halles que publie l'office de tourisme,
+1920 × 960 et sans visage identifiable, est une **image de synthèse d'avant construction** — silhouettes dessinées, arbres
+au gabarit, mobilier urbain qui n'existe pas : elle ne montre pas le bâtiment, elle montre le projet, et la règle 1
+demande une photographie honnête, pas une perspective d'architecte. Et la photographie que la Ville consacre au marché du
+centre, la seule vraie photographie de marché dunkerquois publiée par une autorité, porte **trois visages nets au premier
+plan dont celui d'un enfant** ; le recadrage de la règle 46 ne rend ici que 280 px de large, trop peu pour un bandeau, ce
+qui a conduit au bandeau générique de la règle 164.
+
+**Données personnelles écartées** : les quinze enseignes que la Ville énumère pour les Halles, dont **deux sont un
+prénom suivi d'un nom** et plusieurs autres un patronyme seul ; les **deux élus de quartier** que chaque page de mairie de
+quartier nomme avec leur fonction ; le **chef étoilé** que l'office de tourisme nomme pour l'un des étals ; l'adresse
+électronique personnelle que le maraîcher publie en pied de son site — seul son numéro de téléphone fixe, qu'il publie
+pour sa clientèle, est repris ; les **quatre patronymes** sous lesquels le registre bio inscrit des exploitations de
+l'agglomération, qui ne sont pas des enseignes, ainsi que le patronyme que ce même registre accole à l'enseigne du
+maraîcher publié ; et le nom de famille possible que porte l'enseigne de l'épicerie en vrac
+écartée ci-dessus. Aucun n'apparaît dans une fiche, dans un nom de fichier image, dans un message de commit ni ici.
 
 ### Pistes non publiées à Saint-Martin-d'Hères
 

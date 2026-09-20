@@ -13806,5 +13806,129 @@
     "site_web": "https://www.champiloop.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Champiloop+45+avenue+du+8+Mai+1945+38400+Saint-Martin-d'H%C3%A8res",
     "image_url": "/images/marchands/champiloop-saint-martin-dheres.jpg"
+  },
+  {
+    "slug": "marche-dunkerque-centre",
+    "nom": "Marché de Dunkerque-Centre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 51.036089,
+    "lon": 2.380564,
+    "adresse": "Place du Général de Gaulle et rue des Sœurs Blanches, avec le cours François Bart le samedi, 59140 Dunkerque",
+    "horaires": "Mercredi et samedi de 8h à 13h selon la Ville de Dunkerque ; l'office de tourisme de la communauté urbaine annonce 8h à 14h les deux jours.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits alimentaires de saison"
+    ],
+    "description": "Le plus grand des marchés de plein air de Dunkerque, deux matinées par semaine sur la place du Général de Gaulle, le long des Halles des Sœurs Blanches que la Ville présente comme son complément couvert. Le samedi il déborde sur le cours François Bart. Ni la Ville ni l'office de tourisme ne publient la liste des étals ; les fruits et légumes figurent sur la photographie que la Ville consacre à ce marché.",
+    "site_web": "https://www.ville-dunkerque.fr/les-marches-de-plein-air",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+de+Dunkerque+centre+place+du+G%C3%A9n%C3%A9ral+de+Gaulle+59140+Dunkerque",
+    "image_url": "/images/marchands/marche-dunkerque-centre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-rosendael-dunkerque",
+    "nom": "Marché de Rosendaël",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 51.041048,
+    "lon": 2.40369,
+    "adresse": "Place des Martyrs de la Résistance, 59240 Dunkerque",
+    "horaires": "Dimanche de 9h à 13h.",
+    "produits": [
+      "Produits alimentaires de saison"
+    ],
+    "description": "Marché de plein air du quartier de Rosendaël, le dimanche matin sur la place des Martyrs de la Résistance. C'est le seul des marchés dunkerquois qui se tienne le dimanche. La Ville et l'office de tourisme donnent les mêmes jour et heures, mais aucun des deux ne publie la liste des étals.",
+    "site_web": "https://www.ville-dunkerque.fr/les-marches-de-plein-air",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+de+Rosenda%C3%ABl+place+des+Martyrs+de+la+R%C3%A9sistance+59240+Dunkerque",
+    "image_url": "/images/marchands/marche-rosendael-dunkerque.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-malo-les-bains-dunkerque",
+    "nom": "Marché de Malo-les-Bains",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 51.047457,
+    "lon": 2.394809,
+    "adresse": "Place Turenne, 59240 Dunkerque",
+    "horaires": "Mardi de 8h à 13h.",
+    "produits": [
+      "Produits alimentaires de saison"
+    ],
+    "description": "Marché de plein air du quartier balnéaire de Malo-les-Bains, le mardi matin place Turenne, à quelques rues de la digue. La Ville et l'office de tourisme donnent les mêmes jour et heures ; aucun des deux ne publie la liste des étals.",
+    "site_web": "https://www.ville-dunkerque.fr/les-marches-de-plein-air",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+de+Malo-les-Bains+place+Turenne+59240+Dunkerque",
+    "image_url": "/images/marchands/marche-malo-les-bains-dunkerque.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-des-soeurs-blanches-dunkerque",
+    "nom": "Les Halles des Sœurs Blanches",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 51.037372,
+    "lon": 2.378133,
+    "adresse": "Cours François Bart, 59140 Dunkerque",
+    "horaires": "Du mardi au samedi de 8h à 19h, le dimanche de 9h à 15h ; fermé le lundi. Les horaires peuvent varier les jours fériés.",
+    "produits": [
+      "Fruits, légumes et miel d'un maraîcher",
+      "Fromages et crèmerie",
+      "Boucherie et charcuterie",
+      "Boulangerie et pâtisserie",
+      "Huîtres et coquillages",
+      "Épicerie, vrac et produits secs",
+      "Bières locales, kombucha et vins"
+    ],
+    "description": "Marché couvert municipal inauguré le 21 mai 2025 en cœur de ville, 1 100 m² dont 400 m² de vente et une quarantaine d'étals, où une vingtaine de commerçants et artisans de bouche travaillent en circuits courts. La Ville le présente comme le complément permanent du marché de plein air du centre, qui se tient à deux pas les mercredis et samedis matin. La Base Adresse Nationale ne connaît pas de numéro pour les Halles : le point de la fiche est celui du cours François Bart.",
+    "site_web": "https://www.ville-dunkerque.fr/les-halles-des-soeurs-blanches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+des+S%C5%93urs+Blanches+cours+Fran%C3%A7ois+Bart+59140+Dunkerque",
+    "image_url": "/images/marchands/halles-des-soeurs-blanches-dunkerque.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-potager-de-la-tente-verte-dunkerque",
+    "nom": "Le Potager de la Tente Verte",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "environnement"
+    ],
+    "lat": 51.042801,
+    "lon": 2.42122,
+    "adresse": "39 ter rue de Belfort, 59240 Dunkerque",
+    "horaires": "Lundi et jeudi de 14h30 à 18h30 ; mardi, mercredi et vendredi de 9h à 12h30 et de 14h30 à 18h30 ; samedi de 9h à 12h30 et de 14h30 à 18h ; fermé le dimanche.",
+    "produits": [
+      "Pommes de terre",
+      "Carottes, oignons, aulx et échalotes",
+      "Poireaux, radis et salades",
+      "Courges et potirons",
+      "Œufs",
+      "Pommes, poires et jus de pomme",
+      "Viande et produits laitiers locaux",
+      "Épicerie fine"
+    ],
+    "description": "Maraîcher dunkerquois qui vend sa production dans son propre magasin à la ferme, agrandi en juin 2024, et y ajoute de la viande, des produits laitiers locaux et une épicerie fine. Un distributeur automatique de fruits et légumes, réapprovisionné chaque jour, complète la vente au 180 rue Paul Vancassel, à Rosendaël, ouvert en permanence. L'exploitation figure au registre national de l'Agence Bio, avec un engagement enregistré auprès d'Ecocert.",
+    "telephone": "03 28 63 24 45",
+    "site_web": "https://www.lepotagerdelatenteverte.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Potager+de+la+Tente+Verte+39+ter+rue+de+Belfort+59240+Dunkerque",
+    "image_url": "/images/marchands/le-potager-de-la-tente-verte-dunkerque.jpg"
   }
 ]
