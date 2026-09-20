@@ -2021,9 +2021,84 @@ prioritaires en cas de conflit.
      compte rendu et la fiche disent que la halle photographiée est le siège, pas l'emplacement
      provisoire.
 
+159. **Un nom de domaine racheté ne devient pas toujours un casino : il peut devenir un site
+     crédible dans le même métier.** L'office de tourisme de Grenoble-Alpes et le guide des
+     producteurs de la Métropole renvoient tous deux, pour la chèvrerie de la colline du Murier, à
+     `fermedesmaquis.fr`. Le domaine répond, en 200, et sert aujourd'hui un blog de contenu :
+     rubriques Jardin, Maison, Travaux, articles quotidiens sur les crottes d'animaux et les
+     abonnements à des magazines de décoration, liens vers d'autres domaines du même réseau, et une
+     fondatrice présentée comme une ancienne citadine installée « en garrigue provençale ». Aucune
+     occurrence de la commune, de l'adresse, des chèvres ni du fromage ; l'ancienne page de vente
+     `/vente.html`, que les moteurs indexent encore, renvoie 200 sur cette nouvelle page d'accueil.
+     **Critère** : le contrôle d'un site avant inscription, posé par la note Santa Lucia et la note
+     Château d'Astros, ne se satisfait ni d'un code 200, ni du fait que la page parle d'agriculture.
+     Il se fait sur trois points nommés — **l'enseigne, la commune, l'adresse** ; si les trois
+     manquent, le domaine n'est plus celui du commerce et `site_web` reste vide. Le piège est plus
+     dangereux que celui du casino, parce qu'une lecture rapide du seul titre le laisserait passer.
+
+160. **Quand le site d'une exploitation est mort, aucun numéro relayé par un annuaire ne la
+     représente plus — même un fixe.** La règle 143 ne fermait `telephone` qu'aux numéros mobiles
+     relayés. Ici la chèvrerie n'a plus de site à elle (règle 159) et deux numéros circulent : un
+     fixe en 04 dans le guide des producteurs de Grenoble-Alpes Métropole et sur les annuaires
+     commerciaux, un mobile en 07 sur la fiche de l'office de tourisme. **Critère** : le mandat
+     n'admet qu'« un téléphone que le commerce publie lui-même pour sa clientèle » ; la disparition
+     du site retire au commerce toute voix propre, et les deux numéros se neutralisent comme dans
+     la règle 143. Le champ reste vide, aucun des deux n'est reproduit ici, et la fiche dit comment
+     acheter sans appeler — les créneaux de vente à la ferme, deux marchés de communes voisines et
+     un magasin de producteurs nommé.
+
+161. **Un numéro de voirie que la Base Adresse Nationale ignore s'interpole entre ses deux voisins
+     immédiats, s'ils sont à moins de cinquante mètres l'un de l'autre.** La champignonnière du 45
+     avenue du 8 Mai 1945 n'existe pas dans la Base, qui connaît le 41, le 43, le 47, le 49 et le
+     51 ; l'axe de la voie, seul résultat rendu, tombe 30 m au nord du 43, donc hors du segment
+     cherché. Le 43 et le 47 sont distants de 39 m. **Critère** : quand les deux voisins immédiats
+     de même parité encadrent le numéro cherché à moins de cinquante mètres, le point est leur
+     milieu — ici à 19 m de chacun — et le README le dit. Au-delà de cinquante mètres, ou si un
+     seul voisin existe, on reste aux règles 10 et 63 (point du registre, point publié par le
+     commerce, contrôle inverse). L'interpolation ne vaut que pour une voie numérotée
+     continûment ; elle ne s'applique pas aux numérotations métriques rencontrées dans le Var.
+
+162. **Deux enregistrements de la même autorité pour un seul marché, à une demi-heure d'écart : ni
+     l'un ni l'autre ne tranche, c'est la commune qui organise qui fait foi.** Grenoble-Alpes
+     Métropole tient **deux fiches par marché** pour les trois marchés de Saint-Martin-d'Hères —
+     51 et 82 pour Paul-Éluard, 52 et 83 pour Champberton, 53 et 84 pour République. Les paires
+     sont identiques en tout point sauf l'heure d'ouverture : 8h dans l'une, 7h30 dans l'autre. La
+     page « Marchés » de la Ville, à jour de 2026, écrit 8h-12h45 pour les trois. **Critère** :
+     c'est le symétrique de la règle 146 — là, une même autorité donnait un seul point à deux lieux
+     et ce point n'était celui d'aucun ; ici, elle donne deux valeurs à un seul lieu et ne peut donc
+     pas arbitrer. L'autorité qui **organise** la chose l'emporte sur celle qui la recense, la
+     divergence s'écrit dans `horaires`, et la fiche part en `a_confirmer`. L'hypothèse du
+     dressage des étals à 7h30 n'est pas publiée : elle ne figure donc pas dans les fiches.
+
+163. **Un marché que la commune a créé puis retiré de sa propre liste ne se republie pas sur la foi
+     de ses anciennes actualités.** La Ville de Saint-Martin-d'Hères a ouvert le 4 mars 2022 un
+     marché bio et local place Sonia Delaunay, dans l'écoquartier Daudet, le vendredi de 15h à 19h,
+     qu'elle présentait alors comme « le septième marché » de la commune ; deux actualités de 2022
+     le décrivent, dont une pause estivale. Sa page « Marchés », à jour de 2026, n'énumère plus que
+     trois sites, soit six séances. **Critère** : la règle 156 faisait primer une énumération
+     d'autorité sur l'annuaire d'un tiers ; ici l'énumération et l'élément omis viennent de **la
+     même** autorité, et c'est la date qui départage — la liste la plus récente vaut négation de ce
+     qu'elle omet, une actualité de quatre ans ne la rouvre pas. Déblocage : une source municipale
+     postérieure qui nomme à nouveau ce marché.
+
+164. **Une photographie générique publiée par une autorité peut illustrer plusieurs fiches, tant
+     qu'elle n'est attribuée à aucun lieu — et une vue aérienne ne répond à la règle 158 que si
+     elle montre le sujet.** Aucune des deux autorités ne photographie les marchés de
+     Saint-Martin-d'Hères. Le bandeau générique dont Grenoble-Alpes Métropole illustre toutes ses
+     pages de marchés, déjà retenu au marché Flaubert, sert donc aux trois fiches, **recadré sous
+     la ligne des visages**, 1024 × 363. **Critère** : la règle 66 interdit de réemployer une
+     photographie attribuée à un lieu précis ; un bandeau générique n'en porte aucune, il peut donc
+     se répéter, à condition que le README dise quelles fiches le partagent et que celles-ci
+     restent en `a_confirmer`. Deux images ont été écartées au passage, chacune pour une raison
+     utile : la **vue aérienne de la commune** publiée par la Métropole, pourtant sans visage et en
+     1800 px, montre au premier plan une autoroute et l'entrepôt d'une enseigne de mobilier — une
+     vue aérienne ne règle le problème des visages que si ce qu'elle cadre est encore le sujet ; et
+     la photographie d'une exploitation maraîchère de la plaine de la Taillat, attribuée nommément
+     à ce lieu par la Métropole, tombe sous la règle 66 malgré son tiers droit sans visage.
+
 ## Marchands à confirmer
 
-476 fiches sur 515 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+480 fiches sur 520 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -2524,8 +2599,12 @@ prioritaires en cas de conflit.
 - **Robinson fait son panier** (Corbeil-Essonnes) (catégorie et piliers des AMAP, avec `environnement` : l'association décrit sept contrats passés avec des fermes biologiques et le registre des entreprises l'enregistre comme association depuis le 14 avril 2009, ce que son site confirme. **Règle 6** : les AMAP en sont dispensées, mais celle-ci y figure quand même, un établissement ouvert. **Horaires contredits, règle 5** : mardi 18h30-19h30 sur son propre site, 18h30-19h45 dans l'annuaire du réseau AMAP d'Île-de-France ; les deux sont publiés, comme aux Paniers d'Évry. **Point** : la Base Adresse Nationale ne porte aucun numéro rue Fernand Laguide, le point est celui de la voie, contrôle inverse à 0 m. **Personnes** : le site nomme ses six paysans partenaires et l'annuaire régional nomme un contact avec son portable et son courriel — rien de tout cela n'est publié, la fiche ne porte que les produits. **`site_web`** : le site propre de l'association, pas `amap-idf.org`, que la règle 101 écarte. **Photo, règle 1** : les trois photographies publiées par l'AMAP montrent deux personnes dont un enfant ; la fiche porte donc la vue aérienne du centre-ville que la Ville publie en bandeau de sa page de présentation, une vraie photographie de la commune qui ne prétend pas montrer le local de distribution)
 - **naturéO Corbeil-Essonnes** (Corbeil-Essonnes) (`magasin-bio`, règle 4, comme les magasins de réseau déjà publiés ; pilier `environnement` au titre d'un certificat **Ecocert FR-BIO-01 « engagée »**, engagement du 30 juin 2009, enregistrement mis à jour le 12 janvier 2026. **`venteParticuliers` à faux au registre bio, règle 154** : les activités déclarées sont « Préparation » et « Distribution », le bloc `venteAnnuaire` décrit ce périmètre-là ; le site de l'enseigne publie les heures du magasin jour par jour et le registre des entreprises range l'établissement en 47.11D, un commerce de détail. **Adresse** : « rue Jean Cocteau » au registre des entreprises, au registre bio et à la Base Adresse Nationale, avec « centre commercial Exona » au registre et « Centre Commercial Discount Center » sur la page de l'enseigne — c'est le libellé du registre qui est publié. **Producteurs locaux** : l'enseigne en référence six avec leur distance, de 17 à 90 km ; la fiche les compte sans nommer les personnes citées à côté d'eux. **Photo** : une des quatre prises de vue de la visite virtuelle que la page du magasin met en lien, **recadrée à 1000 × 800** pour écarter la seule silhouette, de dos, du rayon frais)
 - **Le Panier Saint Fiacre** (Lisses) (**cinquième fiche de la passe prise hors de la commune au titre de la règle 96** : Lisses appartient à Grand Paris Sud Seine-Essonne-Sénart comme Corbeil-Essonnes, la salle de distribution est à **4,3 km** du marché du centre et à 2,6 km du barycentre des cinq points, et quatre fiches sur cinq restent intra-muros. Catégorie et piliers des AMAP, avec `environnement` : tous les contrats publiés sont biologiques. **Règle 6** : aucune entité ne répond à ce nom au registre des entreprises, ce qui est le cas de la plupart des associations et ce que la règle dispense ; la vérification tient au site propre de l'association, actif — dernier contrat déposé en septembre 2026 — à l'annuaire du réseau AMAP d'Île-de-France et à l'annuaire des associations de la Ville de Lisses. **Adresse** : la salle Cocteau, à la médiathèque Colette, mail de l'Île-de-France, adresse que la Ville de Lisses donne à la médiathèque ; l'annuaire municipal publie en regard l'adresse personnelle, le nom et le portable de la présidente de l'association — aucun des trois n'est repris. **Horaires** : « les jeudis soir, entre 18h et 19h » sur le site de l'association, avec des créneaux un peu différents selon les contrats, tous publiés. **Photo** : une photographie déposée par l'association en novembre 2020, une courge posée sur la table d'une distribution — pas une vue de la salle, et c'est dit)
+- **Marché Champberton** (Saint-Martin-d'Hères) (catégorie et piliers des marchés municipaux, comme les trois marchés de Grenoble. **Deux autorités concordent sur les jours et le lieu** : la page « Marchés » de la Ville, à jour de 2026, et Grenoble-Alpes Métropole. **Horaires divergents à l'intérieur d'une même autorité, règle 162, née ici** : la Métropole tient deux fiches de ce marché, l'une à 8h, l'autre à 7h30 ; c'est le 8h-12h45 de la Ville, qui l'organise, qui est publié, et la divergence est écrite dans `horaires`. **Adresse** : « Place du Marché » à la Ville, « rue Garcia Lorca » à la Métropole — la Base Adresse Nationale nomme la voie « Place du Marché Champberton » et c'est elle qui est suivie ; la rue est nommée dans la description. **Produits** : les deux catégories que publient les deux autorités, faute de liste d'étals, même discipline qu'au Mont-Mesly, à Roubaix et place aux Herbes. **Photo, règle 164, née ici** : le bandeau générique des pages de marchés de la Métropole, recadré sous la ligne des visages, partagé avec les deux autres marchés de la commune et avec le marché Flaubert)
+- **Marché Paul-Éluard** (Saint-Martin-d'Hères) (mêmes catégorie, piliers, sources et photographie que le marché Champberton. Mardi et vendredi matin ; même écart de 7h30 entre les deux fiches de la Métropole, règle 162. Point de la Base Adresse Nationale sur la place, score 0,958)
+- **Marché de la République** (Saint-Martin-d'Hères) (mêmes catégorie, piliers, sources et photographie que les deux autres. Jeudi et dimanche matin ; **seul des trois que la Ville déclare uniquement alimentaire**, ce que la Métropole confirme en ne lui donnant que l'étiquette « Alimentaire ». La Métropole le situe dans le quartier Croix-Rouge. C'est celui que la Ville a choisi pour les animations du Mois de la transition alimentaire, le 9 octobre 2025. Point de la Base Adresse Nationale sur la place, score 0,965, à 600 m de la maison communale ; même écart de 7h30, règle 162)
+- **Ferme des Maquis** (Saint-Martin-d'Hères) (chèvrerie de la colline du Murier. **Pilier `environnement`** : certificat Bureau Veritas **engagé** au registre de l'Agence Bio depuis le 16 mai 2011 ; registre des entreprises, un établissement ouvert depuis 2012, code 01.45Z. **Trois versions des horaires, règle 5** : le guide des producteurs de la Métropole et le corps de la fiche de l'office de tourisme s'accordent sur mercredi, vendredi et samedi de 16h à 19h, le premier avec une saison de février à fin novembre ; le bloc « périodes d'ouverture » de la même fiche d'office écrit du 15 mars au 18 octobre, mercredi et samedi de 17h à 19h. Les jours et heures concordants sont publiés, les trois saisons sont dites. **`site_web` vide, règle 159, née ici** : `fermedesmaquis.fr`, que les deux sources citent encore, sert aujourd'hui un blog de contenu sans rapport avec la commune ni avec la chèvrerie. **`telephone` vide, règle 160, née ici** : un fixe au guide de la Métropole, un mobile à l'office de tourisme, et plus de site à l'exploitation pour départager ; la fiche dit où acheter au lieu d'appeler. **Photo** : le troupeau de chèvres alpines chamoisées publié par l'office de tourisme sur la fiche de cette ferme, 1200 × 800, personne dans le cadre)
 
-Les 515 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 520 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2620,6 +2699,104 @@ sous un patronyme sans enseigne déclarée, ce qui suffirait à elle seule à ne
 finissait par une phrase biographique sur la personne qui a créé l'entreprise. Aucun nom n'y
 figurait, mais l'enseigne suffisait à l'identifier, et une fiche ne porte que l'enseigne, l'adresse,
 les horaires et les produits. La phrase a été retirée.
+
+### Pistes non publiées à Saint-Martin-d'Hères
+
+Département visé : l'**Isère (38)**, déficit **4,7020** au titre de la règle 41 avec 515 fiches publiées, dont cinq dans
+le département, toutes à Grenoble. La Réunion (6,6449) reste écartée par la règle 93. La passe précédente en mode 2 visait
+l'Essonne, en Île-de-France ; l'Isère est en Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas. Après la passe,
+l'Isère tombe à **−0,2039** avec dix fiches ; en tête du classement ensuite : le **Nord** (4,7255, Hauts-de-France),
+l'**Indre-et-Loire** (4,6708), le **Val-d'Oise** (4,6654) et les **Côtes-d'Armor** (4,6143).
+
+Commune retenue : **Saint-Martin-d'Hères**, 37 695 habitants, la deuxième de l'Isère et la plus peuplée sans aucune fiche —
+Grenoble, 156 140 habitants, en compte déjà cinq. Elle a rendu **cinq fiches entières, image comprise**, sans qu'il faille
+descendre par population : ses trois marchés de détail, une chèvrerie de coteau et une champignonnière urbaine. Les cinq
+points tiennent dans 3,7 km — de la place de la République à la chèvrerie, les deux extrêmes.
+
+**Les sources qui ont fait la passe.** La page « Marchés » de `saintmartindheres.fr`, tableau de trois lignes — site, jours,
+heures, lieu, produits — qui est la seule source d'horaires complète et fait autorité sur les trois marchés ; les fiches
+`/marche/<id>/217-<slug>.htm` de `grenoblealpesmetropole.fr`, qui recoupent jours et lieux et ajoutent le quartier ; le
+**guide des producteurs locaux** de la Métropole, PDF de 1,6 Mo dont le texte a dû être extrait flux par flux, faute de
+`pdftotext` dans cet environnement — c'est lui qui a livré la chèvrerie et la champignonnière ; les fiches
+`/fr/catalogue/detail/<slug>-<id>/` de `grenoble-tourisme.com`, seule source de photographies du secteur, comme à la passe
+de Grenoble ; le site propre de la champignonnière ; le registre de l'Agence Bio pour le 38, **2 236 opérateurs** paginés
+par cent, filtrés sur la commune ; le registre des entreprises ; la Base Adresse Nationale.
+
+**Le filtre par commune du registre bio se fait sur deux orthographes, pas une.** Un premier passage sur
+`adressesOperateurs[].ville` avec le motif `SAINT[- ]MARTIN[- ]D.H` a rendu 31 opérateurs et **manqué la chèvrerie**, que le
+registre inscrit sous `ST MARTIN D'HERES`. Le motif corrigé, qui accepte `SAINT` comme `ST`, en rend 33 — et les deux
+manquants étaient un Satoriz et l'exploitation la plus intéressante de la commune. La leçon vaut pour toutes les communes
+dont le nom commence par un saint : **le registre abrège**, et le filtre doit abréger avec lui.
+
+**Deux fiches par marché chez la Métropole, une demi-heure d'écart.** C'est de là que naît la règle 162 : les six
+enregistrements — 51 et 82, 52 et 83, 53 et 84 — vont deux par deux, identiques sauf l'heure d'ouverture, 8h dans l'un,
+7h30 dans l'autre. La Ville, qui organise les marchés, écrit 8h-12h45 pour les trois : c'est elle qui est publiée, la
+divergence est dite dans chaque fiche et les trois restent en `a_confirmer`.
+
+**Un domaine racheté qui ne se trahit pas au premier coup d'œil.** `fermedesmaquis.fr`, que l'office de tourisme et le guide
+de la Métropole donnent encore pour le site de la chèvrerie, sert aujourd'hui un blog de contenu — jardin, maison, travaux,
+liens vers d'autres domaines du même réseau — dont la fondatrice affichée est présentée comme installée en garrigue
+provençale. Ni la commune, ni l'adresse, ni les chèvres n'y apparaissent, et l'ancienne page de vente répond 200 sur cette
+nouvelle page d'accueil. Après le casino de Santa Lucia et celui du Château d'Astros, c'est la variante crédible du même
+piège : d'où la **règle 159**, et la **règle 160** qui en découle pour le téléphone.
+
+**Aucune photographie des marchés n'existe dans les sources accessibles.** Ni la Ville ni la Métropole n'en publient ; la
+médiathèque WordPress de la Ville refuse son API (401) et sa recherche interne ne rend que des visuels d'actualité carrés.
+Les trois fiches partagent donc le bandeau générique des pages de marchés de la Métropole, recadré sous la ligne des
+visages — **règle 164**, qui dit aussi pourquoi la vue aérienne de la commune (une autoroute et l'entrepôt d'une enseigne de
+mobilier au premier plan) et la photographie de la plaine de la Taillat (attribuée nommément à ce lieu) ont été écartées.
+
+**Pistes non publiées à Saint-Martin-d'Hères** :
+
+- **Le marché Daudet** (Saint-Martin-d'Hères, marché) — marché bio et local du vendredi 15h-19h, place Sonia Delaunay,
+  ouvert le 4 mars 2022 par la Ville comme « le septième marché » de la commune, avec fruits et légumes de saison,
+  laitages, œufs fermiers, viande, vin, miel, pain d'épices et nougat. Deux actualités de 2022 le décrivent ; la page
+  « Marchés » de la Ville, à jour de 2026, n'énumère plus que trois sites. Non publié au titre de la **règle 163**, née ici.
+  Déblocage : une source municipale postérieure à 2026 qui le nomme à nouveau.
+- **Deux magasins bio de la même enseigne** (Saint-Martin-d'Hères, magasin-bio) — **entièrement documentés, gardés pour un
+  prochain passage dans la commune**, comme les deux marchés grenoblois de la passe de Grenoble : le mandat arrête une passe
+  à cinq fiches, et les cinq étaient faites. Le registre de l'Agence Bio inscrit deux établissements de cette enseigne dans
+  la commune, certificats engagés en 2012 et en 2019, l'un 2 avenue Gabriel-Péri, l'autre 9 rue du Béal — ce second est
+  enregistré sous une dénomination qui nomme la commune voisine, ce qui l'avait d'abord fait prendre pour un magasin de
+  Grenoble. L'enseigne publie bien une page par magasin, avec l'adresse, le téléphone et les horaires jour par jour
+  (lundi-samedi 8h30-19h30, fermé le dimanche, pour les deux), et une photographie de façade pour celui de l'avenue. Rien
+  ne manque : il ne manquait que la place.
+- **Un maraîchage de la rue des Taillées** (Saint-Martin-d'Hères, ferme) — **entièrement documenté, gardé pour un prochain
+  passage**, faute de place : ferme en agriculture biologique installée depuis 2018 sur un terrain de la Ville de Grenoble,
+  certificat engagé depuis janvier 2019 au registre bio, une quarantaine de légumes de mars à décembre, livrés à vélo à
+  moins de 5 km. Elle tient une **cueillette libre de fleurs au jardin, sans rendez-vous, les mercredis de 8h30 à 17h**,
+  publie son adresse, un numéro mobile et une adresse électronique génériques — le numéro entre donc dans `telephone` au
+  titre de la règle 143, puisque c'est l'exploitation qui le publie elle-même — et alimente deux AMAP grenobloises. Les
+  trois prénoms que la ferme affiche sur sa page « Qui sommes-nous » ne seront pas repris.
+- **Une exploitation maraîchère et apicole dont le siège est rue Antoine-Polotti** (Saint-Martin-d'Hères, production) — le
+  registre de l'Agence Bio la domicilie dans la commune, certificat engagé depuis 2022, vente aux particuliers déclarée.
+  **Son propre site place la ferme et tous ses points de vente à Meylan** et ne présente l'adresse martinéroise que comme
+  siège social. Règle 152 : un siège social n'est pas un point de vente, et la fiche irait à la mauvaise commune. Déblocage :
+  aucun pour Saint-Martin-d'Hères — l'exploitation relèvera d'une passe sur Meylan.
+- **Une exploitation apicole de la rue Normandie-Niemen** (Saint-Martin-d'Hères, production) — inscrite au registre bio sous
+  un patronyme, avec une enseigne lisible dans la ligne d'adresse, certificat engagé depuis 2019 et vente aux particuliers
+  déclarée. **Aucune source ne décrit de vente à cette adresse** : ni horaires, ni créneau, ni magasin. Règle 152.
+  Déblocage : une source qui décrive une vente sur place avec des créneaux, sous l'enseigne et non sous le patronyme.
+- **Une exploitation caprine et un maraîchage à la même adresse** (Saint-Martin-d'Hères) — le 165 route des Maquis porte
+  **deux exploitations distinctes** au registre bio, la chèvrerie publiée et un maraîchage engagé en mai 2026. Le second n'a
+  pas de fiche : aucune source ne lui connaît de vente au détail, et il ne faut pas que deux fiches se superposent au même
+  point sans que rien ne les distingue pour le visiteur — même précaution qu'au registre des deux coopératives du Var.
+  Déblocage : des horaires de vente propres au maraîchage.
+
+**Le registre bio du 38 rend 32 opérateurs pour la commune** : 18 engagés, 13 à certificat arrêté, 1 non certifié.
+**Écartés comme enseignes de distribution**, que `MODERATION.md` exclut : six magasins de chaîne — deux hypermarchés, deux
+supermarchés, une supérette et un hard-discount — tous inscrits au registre pour leur seul rayon boulangerie, pâtisserie ou
+traiteur. **Écartés comme grossistes** : un négoce de fruits et légumes, une brasserie qui ne déclare que la vente aux
+professionnels, un distributeur de plants et semences. **Écartés pour certificat arrêté** : treize opérateurs, dont trois
+boulangeries, un torréfacteur et un maraîchage.
+
+**Données personnelles écartées** : le nom de la fondatrice affichée par le blog qui occupe l'ancien domaine de la
+chèvrerie ; les deux prénoms sous lesquels une radio régionale présente cette même ferme ; l'**adresse électronique
+nominative** que le guide des producteurs de la Métropole publie pour la champignonnière, et l'adresse électronique de
+contact qu'il publie pour la chèvrerie ; le prénom et le numéro mobile que le maraîchage de Meylan met en pied de page ; les
+trois prénoms que le maraîchage de la rue des Taillées affiche sur sa page de présentation ; les **quatre patronymes** sous
+lesquels le registre bio inscrit des exploitations de la commune, qui ne sont pas des enseignes. Aucun n'apparaît dans une
+fiche, dans un nom de fichier image, dans un message de commit ni ici.
 
 ### Pistes non publiées à Corbeil-Essonnes
 

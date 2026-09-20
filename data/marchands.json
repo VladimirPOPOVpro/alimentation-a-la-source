@@ -13687,5 +13687,124 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=M%C3%A9diath%C3%A8que+Colette+mail+de+l%27%C3%8Ele-de-France+91090+Lisses",
     "image_url": "/images/marchands/le-panier-saint-fiacre-lisses.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-champberton-saint-martin-dheres",
+    "nom": "Marché Champberton",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.169838,
+    "lon": 5.759221,
+    "adresse": "Place du Marché Champberton, 38400 Saint-Martin-d'Hères",
+    "horaires": "Le mercredi et le samedi matin de 8h à 12h45 selon la Ville de Saint-Martin-d'Hères. Grenoble-Alpes Métropole tient deux fiches pour ce marché, l'une de 8h à 12h45, l'autre de 7h30 à 12h45.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits manufacturés"
+    ],
+    "description": "Marché de plein air du quartier Champberton, deux matinées par semaine sur la place du Marché. La Ville le compte parmi ses trois marchés de détail et le décrit comme alimentaire et manufacturé ; Grenoble-Alpes Métropole le situe rue Garcia Lorca, la voie qui borde la place. Aucune des deux autorités ne publie la liste des étals.",
+    "site_web": "https://www.saintmartindheres.fr/pratique/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+March%C3%A9+Champberton+38400+Saint-Martin-d'H%C3%A8res",
+    "image_url": "/images/marchands/marche-champberton-saint-martin-dheres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paul-eluard-saint-martin-dheres",
+    "nom": "Marché Paul-Éluard",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.165422,
+    "lon": 5.747768,
+    "adresse": "Place Paul-Éluard, 38400 Saint-Martin-d'Hères",
+    "horaires": "Le mardi et le vendredi matin de 8h à 12h45 selon la Ville de Saint-Martin-d'Hères. Grenoble-Alpes Métropole tient deux fiches pour ce marché, l'une de 8h à 12h45, l'autre de 7h30 à 12h45.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits manufacturés"
+    ],
+    "description": "Marché de plein air du quartier Paul-Éluard, deux matinées par semaine sur la place du même nom, au sud de la commune. La Ville et Grenoble-Alpes Métropole le décrivent toutes deux comme alimentaire et manufacturé, sans publier la liste des étals.",
+    "site_web": "https://www.saintmartindheres.fr/pratique/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Paul+Eluard+38400+Saint-Martin-d'H%C3%A8res",
+    "image_url": "/images/marchands/marche-paul-eluard-saint-martin-dheres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-republique-saint-martin-dheres",
+    "nom": "Marché de la République",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.185728,
+    "lon": 5.747912,
+    "adresse": "Place de la République, 38400 Saint-Martin-d'Hères",
+    "horaires": "Le jeudi et le dimanche matin de 8h à 12h45 selon la Ville de Saint-Martin-d'Hères. Grenoble-Alpes Métropole tient deux fiches pour ce marché, l'une de 8h à 12h45, l'autre de 7h30 à 12h45.",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Le seul des trois marchés de la commune que la Ville déclare uniquement alimentaire, sur la place de la République, dans le quartier Croix-Rouge et à cinq cents mètres de la maison communale. C'est celui que la Ville a choisi pour accueillir les animations du Mois de la transition alimentaire en octobre 2025.",
+    "site_web": "https://www.saintmartindheres.fr/pratique/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+R%C3%A9publique+38400+Saint-Martin-d'H%C3%A8res",
+    "image_url": "/images/marchands/marche-republique-saint-martin-dheres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-maquis-saint-martin-dheres",
+    "nom": "Ferme des Maquis",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.163791,
+    "lon": 5.783625,
+    "adresse": "165 route des Maquis, 38400 Saint-Martin-d'Hères",
+    "horaires": "Vente à la ferme le mercredi, le vendredi et le samedi de 16h à 19h. La saison diffère selon les sources : de février à fin novembre pour le guide des producteurs de Grenoble-Alpes Métropole, du 15 mars au 18 octobre pour la fiche de l'office de tourisme, qui ne retient par ailleurs que le mercredi et le samedi de 17h à 19h.",
+    "produits": [
+      "Fromages de chèvre frais au lait cru",
+      "Fromages de chèvre affinés",
+      "Faisselles de chèvre",
+      "Fromages aux herbes du jardin",
+      "Fromages cendrés",
+      "Tommes de chèvre",
+      "Yaourts de chèvre",
+      "Crème dessert au chocolat"
+    ],
+    "description": "Élevage caprin sur la colline du Murier, au-dessus de la commune, dont le lait est intégralement transformé à la ferme. Le troupeau est de race alpine chamoisée et l'exploitation est engagée en agriculture biologique au registre de l'Agence Bio depuis 2011. On retrouve les fromages au marché de Gières le mercredi matin, à celui de Saint-Ismier le samedi matin et au magasin de producteurs Herbe et Coquelicot, à Herbeys.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme+des+Maquis+165+route+des+Maquis+38400+Saint-Martin-d'H%C3%A8res",
+    "image_url": "/images/marchands/ferme-des-maquis-saint-martin-dheres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "champiloop-saint-martin-dheres",
+    "nom": "Champiloop",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.169516,
+    "lon": 5.756148,
+    "adresse": "45 avenue du 8 Mai 1945, 38400 Saint-Martin-d'Hères",
+    "horaires": "Vente directe à la champignonnière tous les mercredis de 16h30 à 18h.",
+    "produits": [
+      "Pleurotes biologiques frais",
+      "Shiitakés biologiques frais",
+      "Kit de culture de pleurotes « Mon coin à Champiloop »"
+    ],
+    "description": "Champignonnière urbaine installée en sous-sol, qui cultive pleurotes et shiitakés et ouvre sa vente directe un après-midi par semaine. Les substrats de pleurotes sont fabriqués sur place à partir de coproduits agricoles locaux — paille, sciure de feuillu, tourteaux d'oléagineux — ceux de shiitakés achetés à un fournisseur de l'Allier. L'exploitation est engagée en agriculture biologique au registre de l'Agence Bio depuis 2021 et livre une cinquantaine de points de vente en Isère et en Savoie.",
+    "site_web": "https://www.champiloop.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Champiloop+45+avenue+du+8+Mai+1945+38400+Saint-Martin-d'H%C3%A8res",
+    "image_url": "/images/marchands/champiloop-saint-martin-dheres.jpg"
   }
 ]
