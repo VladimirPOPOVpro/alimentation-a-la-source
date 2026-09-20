@@ -2301,10 +2301,61 @@ prioritaires en cas de conflit.
      La fiche reste `a_confirmer` et le README dit que la source est unique. Déblocage : toute
      publication extérieure à la Ville qui cite ce marché.
 
+179. **Quand l'association qui tient un marché communal publie son propre horaire de vente, c'est le
+     sien qui part dans la fiche ; la plage de la commune est celle de l'occupation de la place.**
+     La règle 176 fait primer la commune sur l'office de tourisme pour un marché communal, mais elle
+     suppose que les deux parlent de la même chose. À Béziers, la Ville et l'office annoncent tous
+     deux 7h-13h place de la Madeleine le samedi, quand l'association qui organise ce marché depuis
+     1994 écrit sur chacune de ses pages « tous les samedis de 8h à 12h30 ». Les deux sont vraies et
+     ne mesurent pas la même chose : 7h-13h est le créneau pendant lequel la place est occupée,
+     montage et démontage compris, 8h-12h30 l'heure où l'on peut acheter. **Critère** : l'exploitant
+     d'un marché — association, régie, société de halles — donne l'horaire de vente ; la commune
+     donne la plage d'occupation. La fiche publie l'horaire de vente, cite l'autre, et reste
+     `a_confirmer`. Ce n'est pas un renversement de la règle 176 : celle-ci arbitre entre deux
+     autorités qui décrivent le même fait, celle-ci sépare deux faits différents.
+
+180. **Une halle exploitée par un tiers qui publie séparément « horaires marché » et « horaires
+     restauration » se lit sur la première ligne.** L'exploitant des Halles de Béziers publie deux
+     grilles pour le même lieu : le marché du mardi au dimanche de 8h à 14h, les comptoirs de
+     restauration de 11h à 15h et de 18h à 23h. L'office de tourisme, lui, n'en publie qu'une,
+     8h-23h, qui est la réunion des deux et qui enverrait un visiteur chercher un poissonnier à 21h.
+     **Critère** : c'est la règle 2 appliquée aux halles — les horaires publiés sont ceux du point de
+     vente, jamais ceux de la restauration qui l'entoure, et la fiche dit que l'amplitude annoncée
+     ailleurs recouvre les deux. Vaut pour toute halle dont l'exploitant distingue lui-même les deux.
+
+181. **Une liste communale non datée ne prime pas sur une fiche d'office de tourisme datée de
+     l'année en cours.** La page « Marchés de plein air » de la Ville de Béziers porte une dernière
+     mise à jour de septembre 2022 et ne propose que deux PDF, l'un daté 2021, l'autre sans date ;
+     ce dernier range la place du 14-Juillet en « divers » et place le marché alimentaire du
+     vendredi sur la place David-d'Angers, à 311 m de là. L'office de tourisme, dont chaque fiche
+     porte une période d'ouverture « du 01 janvier au 31 décembre 2026 », intitule au contraire
+     « marché alimentaire » celui de la place du 14-Juillet, le décrit stand par stand et
+     l'illustre de deux photographies d'étals alimentaires. **Critère** : la règle 176 suppose deux
+     sources d'actualité comparable ; quand la commune ne date pas sa publication et que l'office
+     date la sienne de l'année en cours, aucune des deux ne l'emporte et le fait contesté ne se
+     publie pas — le marché part en « Pistes non publiées » avec la contradiction écrite. Ce qui
+     reste acquis, ce sont les faits sur lesquels les deux s'accordent : ici le jour et les heures.
+     Déblocage : une liste communale datée, ou une page de la Ville propre à ce marché.
+
+182. **L'affiche qu'une commune publie pour un marché peut l'illustrer, faute de photographie du
+     lieu.** Aucune photographie du marché paysan de la place de la Madeleine n'est publiée : ni
+     l'association, qui n'affiche que les logos de ses fermes, ni la Ville, ni l'office, qui reprend
+     pour cette fiche le visuel de communication de la Ville — un fond de fruits et légumes portant
+     « marché samedi, place de la Madeleine, frais et bio, 7h00/13h00 » et le blason de la commune.
+     **Critère** : une affiche officielle du marché lui-même est un troisième recours meilleur qu'une
+     photographie thématique prise ailleurs, parce qu'elle ne prétend rien montrer, qu'elle nomme le
+     lieu qu'elle illustre et qu'elle vient de l'autorité qui organise. Elle ne vaut que pour la
+     fiche du marché qu'elle annonce, et le README dit que c'est une affiche et non une vue du lieu.
+
 
 ## Marchands à confirmer
 
-504 fiches sur 545 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+509 fiches sur 550 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché paysan de Béziers** (Béziers) (marché de producteurs du samedi matin, place de la Madeleine. **Horaires, règle 179** : l'association organisatrice écrit « tous les samedis de 8h à 12h30 » sur chacune de ses pages ; la Ville et l'office de tourisme annoncent 7h-13h, qui est la plage d'occupation de la place — les deux figurent dans la fiche. **Registre** : entité active immatriculée en janvier 1994, code 47.81Z (commerce de détail alimentaire sur éventaires et marchés) ; son adresse de siège n'est pas celle du marché et n'est pas reprise. **Produits** : les métiers du calendrier hebdomadaire de l'association — maraîchage, élevages caprin, ovin, bovin, porcin et avicole, arboriculture, apiculture, meunerie, boulangerie paysanne, herboristerie, viticulture — complétés par l'office (escargots, poisson fumé, huile d'olive, artisanat). Aucun producteur n'est nommé : le calendrier les désigne par leur enseigne **et** par le nom des personnes. **Point** : « Place de la Madeleine » à la Base Adresse Nationale (0,960), à 35 m du point OpenStreetMap que l'association publie elle-même sous « Nous trouver ». **Photo, règle 182** : le visuel que la Ville édite pour ce marché, repris par l'office — c'est une affiche, pas une vue du lieu)
+- **Les Halles de Béziers** (Béziers) (marché couvert du centre, place Pierre-Sémard, du mardi au dimanche. **Horaires, règle 180** : l'exploitant publie deux grilles, marché 8h-14h et restauration 11h-15h puis 18h-23h ; l'office de tourisme n'annonce que l'amplitude totale, 8h-23h du mardi au samedi et 8h-18h le dimanche. C'est l'horaire du marché qui est publié, l'autre est cité. **Registre, règle 6** : la société d'exploitation est active, deux établissements ouverts, immatriculée en juillet 2024. **Téléphone non repris** : le seul numéro publié pour ces halles, sur la fiche de l'office, est un 04 74 — indicatif de la région lyonnaise, à 300 km ; faute de le retrouver ailleurs, il n'entre pas dans la fiche. **Produits** : les métiers de la liste que l'exploitant publie, jamais les enseignes, dont plusieurs sont patronymiques. Halles inaugurées en 1891, charpente de style Baltard classée Monument Historique, rénovation achevée en 2025. **Point** : « Place Pierre Sémard » à la Base (0,969). **Photo** : la vue extérieure publiée par l'office, **recadrée à 1100 × 600 au-dessus de la ligne des passants** — l'original montre une dizaine de personnes sur le parvis)
+- **Marché de la place Émile-Zola** (Béziers) (marché alimentaire du mardi matin, 7h-13h : mêmes jour et heures dans la liste municipale des marchés de plein air et sur la fiche de l'office de tourisme, datée de l'année en cours. Aucune source ne publie la liste des étals. **Point** : « Place Emile Zola » à la Base Adresse Nationale (0,959). **Téléphone** : celui du service municipal de l'occupation du domaine public, publié par la Ville sur sa page des marchés et repris par l'office. **Photo** : la photographie que l'office attache à cette fiche — cageots de pommes, de poires et de courges, aucune personne)
+- **Marché au Bois** (Béziers) (marché de plein air du mercredi et du samedi matin, place du 11-Novembre, 7h-13h. **Deux sources concordantes** : la liste municipale le range parmi les marchés alimentaires, l'office de tourisme donne les mêmes jours et heures et annonce fruits et légumes frais, spécialités locales et artisanat. Le nom est celui de l'ancien marché au bois de la ville, non celui d'un commerce de bois. **Point** : « Place du 11 Novembre » à la Base Adresse Nationale (0,960). **Photo, règle 1** : l'office publie sur cette fiche la même photographie générique que sur celle de la place Émile-Zola ; pour ne pas donner deux fois la même image, la fiche porte une autre photographie de marché biterrois du même office — un étal d'olives et de condiments — qui ne prétend pas montrer la place)
+- **Maison Alaryk – caveau de la brasserie** (Béziers) (brasserie artisanale du quartier des neuf écluses, vente au caveau du mardi au samedi. **Registre, règle 6** : deux sociétés actives à la même adresse, brasserie et distillerie, immatriculées en septembre 2022. **Bio** : certification inscrite au registre de l'Agence Bio, mention « Agriculture biologique » sur la fiche de l'office de tourisme. **Horaires** : ceux que la brasserie publie pour son caveau, à la demi-heure près. **Produits limités à ce qui est annoncé au caveau** : la maison distille aussi gins, vodka et liqueurs et prépare limonades et tonics, mais sa page « Nous trouver » ne promet au caveau que les bières, en fûts et en bouteilles de 33 et 75 cl — d'où l'`a_confirmer`. **Pas de pilier `alimentation`**, comme pour les deux brasseries déjà publiées. **Point** : 2 rue des Poiriers à la Base Adresse Nationale, numéro exact (0,966). **Photo** : le comptoir du showroom photographié par la brasserie elle-même, sans personne ; la photographie mise en avant par l'office a été écartée, c'est un portrait de deux personnes)
 - **Marché Saint-Marc** (Rouen) (le plus grand marché de l'agglomération, place Saint-Marc, quatre jours par semaine. **Horaires, règle 176** : la Ville de Rouen publie 6h-18h les mardi, vendredi et samedi et 6h-13h30 le dimanche, sur sa fiche de marché comme dans le tableau récapitulatif de la page « Les marchés de Rouen » ; l'annuaire Jours-de-Marché donne les mêmes heures ; l'office de tourisme, lui, arrête la vente à 13h30 les quatre jours. C'est la version de la Ville qui est publiée. **Produits** : la Ville ne publie que le classement « toutes catégories » ; fruits, légumes, viandes et fleurs viennent de l'office de tourisme, les champignons de la photographie. **Point** : Base Adresse Nationale sur « Place Saint Marc », contrôle inverse à 0 m, à 6 m du point que l'annuaire Mon Panier 76 du Département donne au même marché. **Photo** : la photographie que l'office de tourisme publie pour ce marché, **recadrée sur les cageots de betteraves du bas de l'image** — l'original montre un maraîcher et des clients de face)
 - **Marché du Vieux-Marché** (Rouen) (le marché couvert du centre historique, six jours sur sept sous les halles. **Horaires, règle 176** : Ville et office de tourisme s'accordent sur 7h-19h du mardi au samedi et 7h-13h le dimanche, avec brocante le samedi de 7h à 18h ; l'annuaire Jours-de-Marché publie 7h-13h tous les jours, version non retenue. **Produits** : la Ville n'annonce que fruits, légumes et fleurs ; la poissonnerie, la fromagerie et la rôtisserie viennent de l'office de tourisme et se voient sur sa photographie. **Point** : Base Adresse Nationale sur « Place du Vieux Marche », contrôle inverse à 0 m. **Photo** : la vue intérieure des halles publiée par l'office de tourisme, **recadrée sur la travée de droite** — au centre de l'original, deux visages sont reconnaissables derrière l'étal de poisson)
 - **Marché de la Rougemare** (Rouen) (marché de fin d'après-midi du mardi, place de la Rougemare, 15h-18h30. **Source unique, règle 178** : seule la Ville le publie, sur sa fiche de marché et dans le tableau de la page des marchés ; ni l'office de tourisme, ni Jours-de-Marché, ni l'annuaire Mon Panier 76 ne le connaissent, et la page d'actualité annonçant sa création en mai 2023 a été dépubliée depuis (403). **Produits** : les six exposants énumérés par la Ville — deux maraîchers, un crémier-fromager, un boulanger, un traiteur de produits orientaux, un marchand d'olives et de fruits secs. **Point** : Base Adresse Nationale sur « Place de la Rougemare », contrôle inverse à 0 m. **Photo, règle 1** : aucune photographie du marché n'existe ; la fiche porte une photographie thématique de fromages normands publiée par l'office de tourisme, qui ne prétend pas montrer le lieu et qui renvoie au crémier-fromager du marché)
@@ -9169,6 +9220,49 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Béziers
+
+- **Béziers, marché alimentaire du vendredi (place du 14-Juillet / place David-d'Angers)** —
+  contradiction tranchée par la règle 181. L'office de tourisme intitule « marché alimentaire »
+  celui de la place du 14-Juillet, l'annonce le vendredi de 7h à 13h, le décrit (fruits, légumes,
+  fromages, viandes, poissons) et l'illustre de deux photographies d'étals. La liste municipale des
+  marchés de plein air, non datée et pendue à une page mise à jour en septembre 2022, range au
+  contraire cette place en « divers » et place l'alimentaire du même vendredi sur la place
+  David-d'Angers, à 311 m. Le jour et les heures sont acquis, la nature du marché ne l'est pas :
+  rien n'est publié. Les deux places sont géocodées (Base Adresse Nationale, 0,960 et 0,728) et la
+  photographie retenue le jour venu serait celle des étals d'olives, déjà utilisée ici pour le
+  Marché au Bois. Déblocage : une liste communale datée, ou une page de la Ville propre à l'un des
+  deux marchés.
+- **Béziers, marché paysan du mercredi soir (place Jean-Jaurès)** — la liste municipale lui donne
+  mercredi 17h-21h et le qualifie de « marché paysan » ; l'office de tourisme le nomme dans sa page
+  des marchés mais laisse ses blocs « coordonnées » et « horaires » entièrement vides, et
+  l'association du marché paysan de la Madeleine n'annonce que le samedi. Une seule source
+  renseignée, et non datée : la règle 178 ne s'applique pas, la commune ne le publiant qu'à un seul
+  endroit. Déblocage : une fiche renseignée de l'office, ou une page de la Ville propre à ce marché.
+- **Béziers, marché de l'Iranget (rue Pierre-Jean-Bédard)** — mercredi 7h-13h chez l'office de
+  tourisme, « alimentaire et divers » dans la liste municipale, voie connue de la Base Adresse
+  Nationale (0,964). Fiche entièrement instruisable : elle n'est pas publiée parce que la passe est
+  arrêtée à cinq fiches et que la commune rendait déjà quatre marchés mieux documentés (règles 167
+  et 168). À reprendre telle quelle au prochain passage sur la commune, comme le prévoit la règle 11.
+- **Béziers, halles privées du boulevard Jules-Cadenat** — l'office de tourisme les recense avec
+  adresse, téléphone, site et horaires (7h30-14h, du mardi au dimanche et les jours fériés). Ni la
+  composition des étals ni l'origine des marchandises ne sont publiées, et rien ne permet de dire si
+  ce marché couvert relève du circuit court ou du commerce généraliste que `MODERATION.md` écarte.
+  Déblocage : une liste d'étals ou de producteurs publiée par l'exploitant.
+- **Béziers, magasin de volailles fermières (route de Corneilhan)** — enseigne active au registre
+  des entreprises depuis 2010, code 47.29Z, recensée par l'office de tourisme avec son adresse et son
+  numéro fixe. Deux obstacles : aucune source ne publie ses horaires, et le nom de domaine qu'annonce
+  encore l'office est **expiré et racheté** — il sert aujourd'hui un site de jeux d'argent, comme
+  celui de Santa Lucia en son temps. Rien de ce domaine n'est repris. Déblocage : des horaires
+  publiés par l'enseigne ou par la Ville.
+- **Béziers, magasins biologiques du réseau Biocoop (allées Paul-Riquet et rue Michelin-Ostermeyer)**
+  — les deux sociétés sont actives au registre et inscrites au registre de l'Agence Bio, mais la
+  règle 149 ferme `biocoop.fr` et aucune autre source ne publie leurs horaires ni leurs
+  approvisionnements locaux. Déblocage : une page du magasin hors du site du réseau, ou une fiche de
+  l'office de tourisme.
+- **Béziers, primeur bio installé dans les halles** — l'enseigne paraît bâtie sur un nom de
+  personne. Doute sur une personne : rien n'est publié, et la piste ne se rouvre pas.
 
 ### Pistes non publiées à Rouen
 

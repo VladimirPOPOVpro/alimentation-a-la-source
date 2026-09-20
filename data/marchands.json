@@ -14463,5 +14463,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MJC%20Saint-Sever%20rue%20du%20Docteur%20Merry%20Delabost%2076100%20Rouen",
     "image_url": "/images/marchands/amap-rouen-rive-gauche.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-de-beziers",
+    "nom": "Marché paysan de Béziers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.344743,
+    "lon": 3.212664,
+    "adresse": "Place de la Madeleine, 34500 Béziers",
+    "horaires": "Samedi de 8h à 12h30 (horaire publié par l'association organisatrice ; la Ville de Béziers et l'office de tourisme annoncent une plage de 7h à 13h, qui est celle de l'occupation de la place)",
+    "produits": [
+      "Légumes de saison",
+      "Fruits",
+      "Fromages de chèvre et de brebis",
+      "Viande et charcuterie",
+      "Pain au levain et farine",
+      "Miel",
+      "Huile d'olive",
+      "Vin"
+    ],
+    "description": "Marché de producteurs tenu chaque samedi matin place de la Madeleine par une association immatriculée en 1994, qui publie son calendrier semaine par semaine : huit à douze fermes selon les dates, en maraîchage, élevage caprin, ovin, bovin, porcin et avicole, arboriculture, apiculture, meunerie, boulangerie paysanne, herboristerie et viticulture. L'office de tourisme y ajoute escargots, poisson fumé, huile d'olive et quelques artisans (vannerie, céramique, cuir).",
+    "site_web": "https://marchepaysanbeziers.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20paysan%20place%20de%20la%20Madeleine%2034500%20B%C3%A9ziers",
+    "image_url": "/images/marchands/marche-paysan-de-beziers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-beziers",
+    "nom": "Les Halles de Béziers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.343476,
+    "lon": 3.211631,
+    "adresse": "Place Pierre-Sémard, 34500 Béziers",
+    "horaires": "Du mardi au dimanche, marché de 8h à 14h (horaires publiés par l'exploitant des halles ; l'office de tourisme annonce 8h-23h du mardi au samedi et 8h-18h le dimanche, heures qui englobent la restauration du soir). Fermé le lundi.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et coquillages",
+      "Viandes et volailles",
+      "Fromages et crèmerie",
+      "Charcuterie",
+      "Pain et viennoiseries",
+      "Épicerie",
+      "Rôtisserie"
+    ],
+    "description": "Marché couvert du centre historique, inauguré en 1891 sous une charpente métallique de style Baltard aujourd'hui classée Monument Historique, rénové en 2025 et repris par un exploitant de halles qui y a installé de nouveaux producteurs. Une vingtaine d'étals de bouche — primeurs, bouchers, fromagers, poissonniers, écaillers, rôtisseur, fournil, épicier — et des comptoirs de restauration qui servent plus tard que le marché. L'origine des marchandises n'est pas publiée étal par étal.",
+    "site_web": "https://biltoki.com/halles/halle-de-beziers",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles%20de%20B%C3%A9ziers%20place%20Pierre-S%C3%A9mard%2034500%20B%C3%A9ziers",
+    "image_url": "/images/marchands/halles-de-beziers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-emile-zola-beziers",
+    "nom": "Marché de la place Émile-Zola",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.340782,
+    "lon": 3.224377,
+    "adresse": "Place Émile-Zola, 34500 Béziers",
+    "horaires": "Mardi de 7h à 13h (jour et heures publiés par la Ville de Béziers et par l'office de tourisme)",
+    "produits": [
+      "Fruits et légumes",
+      "Produits du terroir",
+      "Produits alimentaires de saison"
+    ],
+    "description": "Marché alimentaire du mardi matin, à quelques rues du centre-ville, sur une place que la liste municipale des marchés de plein air range parmi les emplacements alimentaires. Ni la Ville ni l'office de tourisme ne publient la liste des étals : les produits sont ceux qu'annonce l'office et ceux que montre sa photographie, pommes, poires et courges en cageots.",
+    "telephone": "04 67 36 73 39",
+    "site_web": "https://www.beziers-mediterranee.com/a-voir-a-faire/activites/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20place%20%C3%89mile%20Zola%2034500%20B%C3%A9ziers",
+    "image_url": "/images/marchands/marche-place-emile-zola-beziers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-au-bois-place-du-11-novembre-beziers",
+    "nom": "Marché au Bois",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.347748,
+    "lon": 3.216038,
+    "adresse": "Place du 11-Novembre, 34500 Béziers",
+    "horaires": "Mercredi et samedi de 7h à 13h (mêmes jours et mêmes heures dans la liste municipale des marchés de plein air et sur la fiche de l'office de tourisme)",
+    "produits": [
+      "Fruits et légumes frais",
+      "Spécialités locales",
+      "Produits alimentaires de saison",
+      "Artisanat"
+    ],
+    "description": "Marché de plein air du mercredi et du samedi matin, place du 11-Novembre, que son nom rattache à l'ancien marché au bois de la ville. La liste municipale le classe parmi les marchés alimentaires ; l'office de tourisme y annonce fruits et légumes frais, spécialités locales et quelques artisans. Aucune des deux sources ne publie la liste des étals.",
+    "telephone": "04 67 36 73 39",
+    "site_web": "https://www.beziers-mediterranee.com/a-voir-a-faire/activites/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20au%20Bois%20place%20du%2011%20Novembre%2034500%20B%C3%A9ziers",
+    "image_url": "/images/marchands/marche-au-bois-place-du-11-novembre-beziers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maison-alaryk-beziers",
+    "nom": "Maison Alaryk – caveau de la brasserie",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.339894,
+    "lon": 3.19216,
+    "adresse": "2 Rue des Poiriers, 34500 Béziers",
+    "horaires": "Mardi de 9h30 à 12h30 et de 15h à 19h ; du mercredi au samedi de 9h30 à 12h30 et de 14h à 19h (horaires du caveau publiés par la brasserie)",
+    "produits": [
+      "Bières artisanales biologiques",
+      "Bières en fûts",
+      "Bières en bouteilles de 33 et 75 cl"
+    ],
+    "description": "Brasserie artisanale installée près des neuf écluses de Fonseranes, certifiée en agriculture biologique au registre de l'Agence Bio, qui brasse à Béziers et vend au caveau attenant. La maison distille aussi gins, vodka et liqueurs et prépare des limonades et tonics, mais elle n'annonce explicitement au caveau que ses bières, en fûts et en bouteilles de 33 et 75 cl.",
+    "telephone": "04 67 80 12 76",
+    "site_web": "https://maisonalaryk.fr/nous-trouver/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Alaryk%202%20rue%20des%20Poiriers%2034500%20B%C3%A9ziers",
+    "image_url": "/images/marchands/maison-alaryk-beziers.jpg",
+    "a_confirmer": true
   }
 ]
