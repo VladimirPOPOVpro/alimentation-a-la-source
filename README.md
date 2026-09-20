@@ -2348,9 +2348,55 @@ prioritaires en cas de conflit.
      fiche du marché qu'elle annonce, et le README dit que c'est une affiche et non une vue du lieu.
 
 
+183. **Un marché « zéro déchet » décrété par la commune ne donne pas le pilier `environnement`.**
+     Saint-Brieuc pose un cas que les règles 45, 49 et 54 n'avaient pas rencontré : la Ville
+     n'appelle biologique aucun de ses marchés, mais elle écrit que « les marchés briochins sont des
+     marchés zéro déchet depuis le 1er septembre 2025 » et en publie les obligations — interdiction
+     de laisser ses déchets au sol ou aux abords, interdiction d'apporter les déchets d'un autre
+     marché, obligation de repartir avec tous ses déchets y compris cartons et cageots, aucune
+     poubelle sur place. C'est une contrainte écrite, imposée par l'autorité gestionnaire à chaque
+     commerçant, exactement la forme que la règle 45 demande. **Critère** : le pilier
+     `environnement` porte sur la manière dont la marchandise est produite, pas sur ce que devient
+     son emballage ; une règle de propreté, aussi contraignante soit-elle, ne dit rien de
+     l'agriculture qui est derrière l'étal, et l'accorder ici viderait le pilier de ce que les
+     règles 15 et 45 y ont mis. Le fait est vrai et utile : il va dans la description, pas dans les
+     piliers. Déblocage inchangé — une classification biologique de l'autorité avec certificat au
+     nom de chaque commerçant, au sens de la règle 45.
+
+184. **Quand la commune ne nomme pas la place d'un marché, les repères pratiques qu'elle publie
+     désignent le point, et la Base Adresse Nationale le confirme.** La Ville de Saint-Brieuc
+     consacre une page entière à « venir au marché de la Croix Saint-Lambert » sans jamais écrire
+     l'adresse : elle donne six parkings, un abri vélo rue Jean Grenier, l'esplanade Alain Mimoun,
+     trente places nouvelles rue Romain Gary et une ligne de bus. L'office de tourisme n'écrit que
+     « Croix Saint-Lambert » ; l'annuaire Jours-de-Marché, non plus, ne connaît pas de place. La
+     Base Adresse Nationale, elle, connaît un lieu-dit **« Allée du marché »** dans ce quartier, dont
+     le contrôle inverse rend 0 m et qui tombe à 71 m de l'esplanade, 103 m de l'abri vélo et 151 m
+     du parking — au milieu des trois repères. **Critère** : un lieu-dit de la Base dont le nom
+     désigne le marché et qui tombe à l'intérieur du triangle des repères pratiques publiés par la
+     commune vaut mieux qu'un point de milieu de voie ; le README nomme les repères et les
+     distances, et la fiche reste `a_confirmer`. Si aucun lieu-dit ne portait ce nom, on
+     retomberait sur la règle 10.
+
+185. **Un recadrage qui retire les visages mais descend l'image sous 700 px cède la place à une
+     photographie thématique nette.** La règle 46 dit de recadrer plutôt que de renoncer, à la
+     condition de ne pas agrandir. Le marché des Villages en montre la limite : la seule
+     photographie que la Ville publie de ce marché compte une dizaine de personnes réparties d'un
+     bord à l'autre de l'image, et la seule fenêtre qui n'en contient aucune fait 620 px de large —
+     en dessous du seuil de netteté que `AGENT.md` fixe à environ 700 px pour un bandeau. **Critère**
+     : le recadrage de la règle 46 s'arrête à 700 px de large ; en dessous, c'est la règle 1 qui
+     s'applique et la fiche prend une photographie thématique nette, en disant dans le README
+     quelle photographie du lieu a été écartée et pourquoi. Une image floue coûte la même chose
+     qu'une image d'ambiance — elle ne montre rien — mais elle prétend montrer le lieu.
+
+
 ## Marchands à confirmer
 
-509 fiches sur 550 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+514 fiches sur 555 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville de Saint-Brieuc** (le grand marché briochin, mercredi et samedi matin, places de la Résistance, du Martray et de la Grille. **Horaires, règle 176** : la Ville publie 8h-13h sur sa page « Marchés hebdomadaires », l'office de tourisme de la Baie de Saint-Brieuc 8h30-13h ; c'est la Ville qui est publiée, l'écart est cité dans le champ. **Retour place de la Résistance le 6 août 2025** après réaménagement, avec un plan d'étals repensé par thématique et une piétonnisation de 9h à 15h30 : l'article de la Ville le détaille rue par rue. **Produits** : les six thématiques que la Ville énumère, moins le non-alimentaire. **Aucun exposant n'est nommé** : la liste des étals n'est pas publiée pour ce marché. **Point** : « Place de la Résistance » à la Base Adresse Nationale (0,959) ; la place du Martray, second pôle du même marché, est à 190 m et ne fait pas une seconde fiche (règle 42). **Téléphone** : le service municipal de gestion du domaine public, publié par la Ville sur sa page des marchés. **Photo, règle 1** : un étal de tomates, haricots et céleris publié par l'office de tourisme sur sa page « Les marchés » — une photographie de marché de la destination, pas une vue datée de cette place)
+- **Marché de la Croix Saint-Lambert** (Saint-Brieuc) (marché du dimanche matin du quartier sud, cinquante à quatre-vingt-dix commerçants. **Horaires, règle 176** : la Ville écrit 9h-14h à deux endroits — le tableau des marchés et la page « Venir au marché de la Croix Saint-Lambert » — quand l'office de tourisme arrête la vente à 13h et compte trente à quatre-vingts exposants ; la version de la Ville est publiée. L'annuaire Jours-de-Marché, lui, donne 8h-13h : site participatif portant encore un bandeau d'alerte sanitaire de 2020, il n'a pas été retenu. **Adresse, règle 184** : aucune source ne nomme la place ; le point est le lieu-dit « Allée du marché » de la Base Adresse Nationale, contrôle inverse à 0 m, à 71 m de l'esplanade Alain Mimoun, 103 m de l'abri vélo de la rue Jean Grenier et 151 m du parking de la rue Romain Gary, les trois repères que la Ville publie. **Produits** : ceux que montre la photographie de la Ville, faute de liste d'étals. **Photo** : la photographie que la Ville attache à cette page, **recadrée à 1400 × 830 puis réduite à 1280** — l'original montre au premier plan un enfant et un groupe de chalands de face ; le recadrage garde les étals, la halle de l'Espace Saint-Lambert et son enseigne, qui rattache l'image à ce marché-ci)
+- **Marché des Villages** (Saint-Brieuc) (marché municipal du vendredi matin, square de l'Armée Patton, créé le 7 novembre 2025 pour remplacer le marché qui se tenait sur le parking privé d'un ancien centre commercial. **Trois sources concordantes** sur le jour et les heures : le tableau des marchés de la Ville, son article d'annonce et la fiche de l'office de tourisme. **Nombre d'étals divergent** : treize dans l'article d'annonce et à l'office, quinze dans le tableau des marchés — la fiche retient treize, le chiffre des deux sources qui décrivent le marché, et le tableau est cité ici. **Produits** : les métiers que l'article énumère, **jamais les noms** — sur les treize étals, cinq sont désignés dans la source par le patronyme de l'exploitant, et deux fermes par une enseigne. La Ville écrit n'avoir reçu aucune candidature de poissonnier. **Point** : le lieu-dit « Square de l'Armée Patton » à la Base Adresse Nationale (0,956) ; la rue de Penthièvre, que la Ville donne comme repère, est une voie de 441 m dont le point médian n'aurait rien précisé. **Photo, règle 185** : la photographie de la Ville montre une dizaine de personnes d'un bord à l'autre de l'image et la seule fenêtre sans visage tombe à 620 px de large ; la fiche porte donc une photographie thématique nette d'un étal d'herbes aromatiques, publiée par l'office de tourisme sur sa page « Les marchés »)
+- **Ferme Ar Goued** (Saint-Brieuc) (chèvrerie biologique de la vallée du Gouët, vente à la ferme le vendredi de 17h à 19h et le dimanche de 10h30 à 12h. **Trois sources** : la fiche « vente directe » de l'office de tourisme de la Baie de Saint-Brieuc, qui donne l'adresse, les heures et les produits ; le registre national de l'Agence Bio, qui inscrit l'exploitation au 95 rue de Berrien avec chèvres et sarrasin et un `venteParticuliers` à vrai ; le registre des entreprises, un établissement ouvert immatriculé en juillet 2021, code 01.45Z. **Homonyme écarté, règle 94** : un établissement médico-social porte le même nom « Ar Goued » rue du Vau Méno, avec sa propre inscription au registre bio pour du maraîchage — c'est l'adresse qui tranche, la fiche est celle de la rue de Berrien. **Effectif du troupeau divergent** : soixante-dix chèvres sur la fiche « visites » de l'office, quatre-vingts sur sa fiche « vente directe » ; la fiche écrit la fourchette. **Saison** : fromages de la mi-mars à Noël, chèvres taries en janvier et février, alors que le calendrier d'ouverture de l'office court du 2 février au 31 décembre — c'est le texte de la fiche, plus précis, qui est publié. **Téléphone** : le même numéro à l'office de tourisme et au registre bio, deux sources indépendantes ; le second numéro, celui des visites de groupe, n'est pas repris. **Aucune personne n'est nommée** : la fiche de l'office donne les prénoms des exploitants et les enseignes des ateliers qui préparent conserves, savons et saucissons, dont deux sont patronymiques — rien de tout cela n'est publié. **Point** : 95 rue de Berrien à la Base Adresse Nationale, numéro exact (0,969), à 3 m du point du registre bio. **Photo** : le troupeau en sous-bois publié par l'office sur cette fiche, 1000 × 710, sans personne)
+- **Biocoop La Gambille – Centre-ville** (Saint-Brieuc) (magasin de la coopérative de consommateurs briochine fondée en 1983, 2 rue Michelet. **Registre, règle 6** : l'établissement du 2 rue Michelet est ouvert, la société compte cinq établissements ouverts et deux fermés — les deux fermés sont d'anciennes adresses briochines, rue Chateaubriand et rue Saint-Benoît. **Bio** : l'établissement a sa propre inscription au registre national de l'Agence Bio, activité « Distribution » — le pilier `environnement` est donc porté par un certificat rattaché à ce point de vente, au sens des règles 45 et 95. **Horaires** : ceux que le magasin publie sur sa page, jour par jour. **Site vérifié avant inscription** : `lagambille.bzh` ne résout pas, `www.lagambille.fr` redirige vers `www.lagambille-biocoop.fr`, qui est le site de la coopérative et porte une page par magasin. **Aucune personne n'est nommée** : la page du magasin donne le nom de son responsable, qui n'est pas repris, non plus que celui du photographe inscrit dans le nom du fichier d'origine. **Chiffres attribués** : « plus de cent vingt producteurs locaux », « moins de 150 km », « environ 250 références en vrac » sont les annonces de la coopérative, reprises comme telles. **Point** : 2 rue Michelet à la Base Adresse Nationale, numéro exact (0,965), identique à la sixième décimale au point du registre bio ; à 82 m de la place de la Résistance, où se tient le marché du mercredi et du samedi. **Photo** : la devanture publiée par la coopérative sur la page de ce magasin, sans personne)
 - **Marché paysan de Béziers** (Béziers) (marché de producteurs du samedi matin, place de la Madeleine. **Horaires, règle 179** : l'association organisatrice écrit « tous les samedis de 8h à 12h30 » sur chacune de ses pages ; la Ville et l'office de tourisme annoncent 7h-13h, qui est la plage d'occupation de la place — les deux figurent dans la fiche. **Registre** : entité active immatriculée en janvier 1994, code 47.81Z (commerce de détail alimentaire sur éventaires et marchés) ; son adresse de siège n'est pas celle du marché et n'est pas reprise. **Produits** : les métiers du calendrier hebdomadaire de l'association — maraîchage, élevages caprin, ovin, bovin, porcin et avicole, arboriculture, apiculture, meunerie, boulangerie paysanne, herboristerie, viticulture — complétés par l'office (escargots, poisson fumé, huile d'olive, artisanat). Aucun producteur n'est nommé : le calendrier les désigne par leur enseigne **et** par le nom des personnes. **Point** : « Place de la Madeleine » à la Base Adresse Nationale (0,960), à 35 m du point OpenStreetMap que l'association publie elle-même sous « Nous trouver ». **Photo, règle 182** : le visuel que la Ville édite pour ce marché, repris par l'office — c'est une affiche, pas une vue du lieu)
 - **Les Halles de Béziers** (Béziers) (marché couvert du centre, place Pierre-Sémard, du mardi au dimanche. **Horaires, règle 180** : l'exploitant publie deux grilles, marché 8h-14h et restauration 11h-15h puis 18h-23h ; l'office de tourisme n'annonce que l'amplitude totale, 8h-23h du mardi au samedi et 8h-18h le dimanche. C'est l'horaire du marché qui est publié, l'autre est cité. **Registre, règle 6** : la société d'exploitation est active, deux établissements ouverts, immatriculée en juillet 2024. **Téléphone non repris** : le seul numéro publié pour ces halles, sur la fiche de l'office, est un 04 74 — indicatif de la région lyonnaise, à 300 km ; faute de le retrouver ailleurs, il n'entre pas dans la fiche. **Produits** : les métiers de la liste que l'exploitant publie, jamais les enseignes, dont plusieurs sont patronymiques. Halles inaugurées en 1891, charpente de style Baltard classée Monument Historique, rénovation achevée en 2025. **Point** : « Place Pierre Sémard » à la Base (0,969). **Photo** : la vue extérieure publiée par l'office, **recadrée à 1100 × 600 au-dessus de la ligne des passants** — l'original montre une dizaine de personnes sur le parvis)
 - **Marché de la place Émile-Zola** (Béziers) (marché alimentaire du mardi matin, 7h-13h : mêmes jour et heures dans la liste municipale des marchés de plein air et sur la fiche de l'office de tourisme, datée de l'année en cours. Aucune source ne publie la liste des étals. **Point** : « Place Emile Zola » à la Base Adresse Nationale (0,959). **Téléphone** : celui du service municipal de l'occupation du domaine public, publié par la Ville sur sa page des marchés et repris par l'office. **Photo** : la photographie que l'office attache à cette fiche — cageots de pommes, de poires et de courges, aucune personne)
@@ -2885,7 +2931,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 540 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 555 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -9220,6 +9266,64 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Saint-Brieuc
+
+Passe du 20 septembre 2026. **Département retenu, règle 41** : les Côtes-d'Armor (22), déficit
+**4,8805** pour 611 859 habitants et aucune fiche — premier du classement métropolitain. La Réunion
+arrivait devant avec 7,0965, mais elle en sort par la règle 177, le validateur refusant ses
+coordonnées. La réserve de région est respectée : la passe précédente visait l'Hérault, en
+Occitanie. **Commune** : Saint-Brieuc, 44 364 habitants, la plus peuplée du département et sans
+aucune fiche ; elle rend six points vérifiables, un de plus que le plafond.
+
+- **Biocoop La Gambille – Robien** (10 rue de Robien) — **fiche entièrement vérifiée, écartée par le
+  plafond de cinq et par la règle 167, pas par un doute.** Établissement ouvert au registre des
+  entreprises, inscription propre au registre national de l'Agence Bio, horaires publiés jour par
+  jour par la coopérative (9h30-13h et 14h30-19h du lundi au vendredi, 9h30-19h le samedi),
+  téléphone sur sa page, photographie de façade disponible. C'est le plus ancien magasin de la
+  coopérative, ouvert en 2001. Il dispute sa place à celui du centre-ville, même catégorie et mêmes
+  jours d'ouverture — une répétition au sens de la règle 168 — et c'est le magasin du centre-ville,
+  à quatre-vingts mètres du grand marché, qui a été publié. **La passe suivante sur Saint-Brieuc le
+  prend sans refaire le travail** (règle 11).
+- **Marché de Cesson (place Jules Verne, dimanche 8h-13h)** — **source unique insuffisante, règle
+  178.** La Ville ne le publie qu'à un seul endroit, la ligne du tableau des marchés hebdomadaires :
+  il n'a ni page dédiée ni article, contrairement aux trois autres marchés briochins, et l'office de
+  tourisme de la Baie de Saint-Brieuc ne le connaît pas. Trois exposants annoncés. Déblocage : une
+  seconde publication de la Ville, ou n'importe quelle source extérieure.
+- **Boulangerie biologique du centre-ville** (rue Pierre Le Gorrec) — inscrite au registre de
+  l'Agence Bio pour le pain frais, `venteParticuliers` à vrai. Aucune source indépendante n'a été
+  consultée dans cette passe, et le rattachement d'une boulangerie à `magasin-bio` relève de la
+  règle 4 : piste à instruire au prochain passage sur la commune, pas une fiche refusée.
+- **Producteur de plantes aromatiques et d'infusions** (rue du Vau Meno) — inscrit au registre bio en
+  production et préparation, `venteParticuliers` à vrai, mais ni horaires ni point de vente publiés
+  nulle part. Déblocage : une fiche d'office de tourisme ou un site propre.
+- **Aucune piste écartée pour doute sur une personne dans la commune.** Les exploitations que le
+  registre de l'Agence Bio immatricule sous le seul patronyme de leur exploitant, nombreuses dans
+  ce département, sont toutes hors de Saint-Brieuc dans l'extraction faite ici ; la seule
+  briochine dans ce cas ne vend qu'en gros. Rien n'a donc été retenu puis retiré pour ce motif.
+- **Supermarchés certifiés bio** — le registre de l'Agence Bio compte pour Saint-Brieuc et ses
+  communes limitrophes une douzaine d'enseignes de la grande distribution (hypermarchés,
+  supermarchés, magasins de proximité de réseau) porteuses d'une certification sur une partie de
+  leurs rayons. `MODERATION.md` les écarte comme commerces généralistes.
+- **Sites de production sans vente publiée** — le service horticole de la Ville (rue Coquelin), un
+  chantier d'insertion maraîcher et un établissement médico-social cultivant des légumes sont
+  inscrits au registre bio, mais aucun ne publie d'horaire de vente au public. Rien de vérifiable à
+  publier.
+- **Magasins de la même coopérative hors commune** (Trégueux, Plérin, Pordic) — hors du groupement
+  d'une passe, qui reste une seule commune. Ils entreront par le calcul de la règle 41, pas par
+  proximité.
+
+**Sources de la passe** : les pages « Marchés hebdomadaires », « Le marché retrouve sa place »,
+« Le marché hebdomadaire des Villages se déplace et s'agrandit » et « Venir au marché de la Croix
+Saint-Lambert » du site de la Ville de Saint-Brieuc ; la page « Les marchés » et deux fiches de
+vente directe de l'office de tourisme de la Baie de Saint-Brieuc ; le registre national de l'Agence
+Bio pour le département 22 (2 208 opérateurs, paginés par cent) ; le registre des entreprises ; la
+Base Adresse Nationale. **Contradictions rencontrées et tranchées** : deux écarts d'horaires entre
+la Ville et l'office (8h contre 8h30 au centre-ville, 14h contre 13h à la Croix Saint-Lambert),
+tranchés par la règle 176 en faveur de la Ville, les deux versions écrites dans les fiches ; un
+écart sur le nombre d'étals du marché des Villages, treize contre quinze, tranché en faveur des
+deux sources qui décrivent le marché ; un annuaire de marchés participatif donnant un troisième
+horaire, écarté comme relais non daté.
 
 ### Pistes non publiées à Béziers
 

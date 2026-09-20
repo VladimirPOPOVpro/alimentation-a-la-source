@@ -14597,5 +14597,148 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Alaryk%202%20rue%20des%20Poiriers%2034500%20B%C3%A9ziers",
     "image_url": "/images/marchands/maison-alaryk-beziers.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-centre-ville-saint-brieuc",
+    "nom": "Marché du centre-ville de Saint-Brieuc",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.513715,
+    "lon": -2.761516,
+    "adresse": "Place de la Résistance, 22000 Saint-Brieuc",
+    "horaires": "Mercredi et samedi de 8h à 13h (heures publiées par la Ville de Saint-Brieuc ; l'office de tourisme de la Baie de Saint-Brieuc annonce 8h30-13h). Le marché occupe aussi la place du Martray, la place de la Grille et les rues attenantes, piétonnisées de 9h à 15h30 les jours de marché.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits de la mer",
+      "Produits de bouche et traiteur",
+      "Horticulture et fleurs",
+      "Restauration sur place"
+    ],
+    "description": "Le grand marché briochin, plus de quatre-vingts exposants le mercredi et plus de cent le samedi, revenu place de la Résistance le 6 août 2025 après le réaménagement de la place. Les étals y sont désormais rangés par thématique — fruits et légumes, horticulture, produits de la mer, produits de bouche, restauration, non alimentaire — et s'étendent sur les rues de la Poissonnerie, Michelet, Saint-Gouéno et Jouallan. Comme tous les marchés briochins, il est « zéro déchet » depuis le 1er septembre 2025 : chaque commerçant repart avec ses cartons et ses cageots.",
+    "telephone": "02 96 62 53 39",
+    "site_web": "https://www.saint-brieuc.bzh/au-quotidien/commerces-et-marches/marches-et-ventes-ambulantes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20centre-ville%20place%20de%20la%20R%C3%A9sistance%2022000%20Saint-Brieuc",
+    "image_url": "/images/marchands/marche-centre-ville-saint-brieuc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-croix-saint-lambert-saint-brieuc",
+    "nom": "Marché de la Croix Saint-Lambert",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.49838,
+    "lon": -2.746287,
+    "adresse": "Allée du Marché, quartier de la Croix Saint-Lambert, 22000 Saint-Brieuc",
+    "horaires": "Dimanche de 9h à 14h (heures publiées deux fois par la Ville de Saint-Brieuc ; l'office de tourisme de la Baie de Saint-Brieuc arrête la vente à 13h)",
+    "produits": [
+      "Fruits et légumes",
+      "Agrumes",
+      "Champignons",
+      "Fruits secs et graines",
+      "Épicerie"
+    ],
+    "description": "Le marché du dimanche matin du quartier sud, devant l'Espace Saint-Lambert : entre cinquante et quatre-vingt-dix commerçants alimentaires et non alimentaires selon la Ville, ce qui en fait le deuxième marché de la commune par le nombre d'exposants. Six parkings offrent environ trois cent trente places à moins de trois minutes à pied, un abri vélo est installé rue Jean Grenier, et la ligne DF3 du réseau TUB dessert la place.",
+    "telephone": "02 96 62 53 39",
+    "site_web": "https://www.saint-brieuc.bzh/information/actualites/marche-croix-saint-lambert",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Croix%20Saint-Lambert%2022000%20Saint-Brieuc",
+    "image_url": "/images/marchands/marche-croix-saint-lambert-saint-brieuc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-villages-saint-brieuc",
+    "nom": "Marché des Villages",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.519783,
+    "lon": -2.793205,
+    "adresse": "Square de l'Armée Patton, rue de Penthièvre, 22000 Saint-Brieuc",
+    "horaires": "Vendredi de 8h à 13h (heures publiées par la Ville de Saint-Brieuc et par l'office de tourisme de la Baie de Saint-Brieuc)",
+    "produits": [
+      "Charcuterie et traiteur fermiers",
+      "Viande de la ferme",
+      "Fruits et légumes",
+      "Fromage de chèvre",
+      "Œufs",
+      "Olives",
+      "Galettes et crêpes",
+      "Moules, de mai à septembre"
+    ],
+    "description": "Marché municipal créé par la Ville le 7 novembre 2025 pour pérenniser le marché du vendredi qui se tenait jusque-là sur le parking privé d'un ancien centre commercial. Treize étals alimentaires et non alimentaires ont été retenus après appel à candidatures, dont deux fermes d'élevage, un maraîcher, une chèvrerie briochine, une crêperie, une rôtisserie et trois traiteurs ; la Ville n'a reçu aucune candidature de poissonnier. Le stationnement sur le square est interdit le vendredi de 7h à 14h.",
+    "telephone": "02 96 62 53 39",
+    "site_web": "https://www.saint-brieuc.bzh/information/actualites/le-marche-hebdomadaire-des-villages-se-deplace-et-sagrandit",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Villages%20square%20de%20l%27Arm%C3%A9e%20Patton%2022000%20Saint-Brieuc",
+    "image_url": "/images/marchands/marche-des-villages-saint-brieuc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-ar-goued-saint-brieuc",
+    "nom": "Ferme Ar Goued",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.525614,
+    "lon": -2.814389,
+    "adresse": "95 Rue de Berrien, 22000 Saint-Brieuc",
+    "horaires": "Vente à la ferme le vendredi de 17h à 19h et le dimanche de 10h30 à 12h. Fromages vendus de la mi-mars à Noël ; les chèvres sont taries en janvier et février. La ferme tient aussi un étal au marché des Villages le vendredi.",
+    "produits": [
+      "Fromages de chèvre frais et affinés",
+      "Fromage blanc et faisselle",
+      "Yaourts pasteurisés",
+      "Tomme de chèvre",
+      "Terrines et rillettes de chevreau",
+      "Saucisson de chèvre",
+      "Savons au lait de chèvre"
+    ],
+    "description": "Chèvrerie biologique installée dans la vallée du Gouët, aux portes ouest de Saint-Brieuc : soixante-dix à quatre-vingts chèvres de race poitevine et croisée alpine, dont le lait est transformé sur place en fromages frais, affinés et en tomme. Les plats cuisinés, les saucissons et les savons sont façonnés à partir des animaux et du lait de la ferme par des ateliers costarmoricains. Certification biologique inscrite au registre national de l'Agence Bio.",
+    "telephone": "06 84 64 70 59",
+    "site_web": "https://www.baiedesaintbrieuc.com/sit/ferme-ar-goued-2",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20Ar%20Goued%2095%20rue%20de%20Berrien%2022000%20Saint-Brieuc",
+    "image_url": "/images/marchands/ferme-ar-goued-saint-brieuc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-la-gambille-centre-ville-saint-brieuc",
+    "nom": "Biocoop La Gambille – Centre-ville",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.513616,
+    "lon": -2.762613,
+    "adresse": "2 Rue Michelet, 22000 Saint-Brieuc",
+    "horaires": "Du lundi au vendredi de 9h30 à 19h, samedi de 9h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Pain au levain",
+      "Fromages",
+      "Produits frais et laitages",
+      "Vrac, environ 250 références",
+      "Épicerie",
+      "Boissons",
+      "Cosmétiques et hygiène"
+    ],
+    "description": "Épicerie biologique de plein centre-ville, à l'angle de la rue Michelet, à moins de cent mètres de la place de la Résistance où se tient le marché du mercredi et du samedi. C'est l'un des cinq magasins de La Gambille, coopérative de consommateurs fondée à Saint-Brieuc en 1983 et affiliée au réseau Biocoop, qui annonce travailler avec plus de cent vingt producteurs locaux et donner la priorité aux fruits et légumes cultivés à moins de cent cinquante kilomètres. Certification biologique inscrite au registre national de l'Agence Bio pour cet établissement.",
+    "telephone": "02 96 70 00 74",
+    "site_web": "https://www.lagambille-biocoop.fr/presentation-detaillee/la-gambille-centre-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20La%20Gambille%202%20rue%20Michelet%2022000%20Saint-Brieuc",
+    "image_url": "/images/marchands/biocoop-la-gambille-centre-ville-saint-brieuc.jpg",
+    "a_confirmer": true
   }
 ]
