@@ -1899,9 +1899,90 @@ prioritaires en cas de conflit.
      été instruit par `biocoop.fr`. Les fiches Biocoop déjà publiées, instruites avant la règle 145, ne sont pas retirées pour autant :
      elles se revérifient au prochain passage sur leur commune, par le registre et par une autre source que le site du réseau.
 
+150. **Quand l'exploitant annonce lui-même la fin de son activité, son annonce vaut les deux indices
+     indépendants de la règle 117.** La règle 117 avait été écrite pour des signalements que
+     l'intéressé ne commentait pas : deux indices extérieurs étaient alors nécessaires pour retirer
+     une fiche, parce qu'aucune source ne parlait au nom du commerce. Le cas de La Gaudine, à
+     Fréjus, est l'inverse : le site du lieu porte en tête « Fin d'activité », puis « La ferme
+     referme ses portes », donne la date des derniers paniers, celle de la dernière présence au
+     marché de la D8, écrit que le magasin à la ferme « n'ouvrira plus ses portes pour une longue
+     période », et renvoie sa clientèle vers deux commerces nommés. **Critère** : la déclaration de
+     fermeture publiée par le commerce lui-même, datée et circonstanciée, suffit à retirer la fiche,
+     sans attendre qu'un annuaire ou un certificat le confirme — c'est la source la plus proche du
+     fait, et la règle 5 lui donne déjà le pas sur les tiers quand elle est plus récente. Ce que la
+     règle débloque : un signalement de visiteur que le site de l'intéressé confirme se traite dans
+     la passe même, au lieu d'attendre qu'un second indice apparaisse.
+
+151. **Une société active, un certificat bio vivant et une déclaration de vente au détail ne font
+     pas un point de vente ouvert.** Au 525 chemin rural n° 7 dit Carraire de la Gaudine, le
+     registre des entreprises ouvre depuis le 28 février 2026 une société de culture de légumes qui
+     n'existait pas lors des passes précédentes, inscrite au registre de l'Agence Bio en « vente aux
+     consommateurs », avec le même numéro de téléphone et le même domaine de messagerie que
+     l'exploitation qui s'arrête. La tentation est de corriger la fiche au lieu de la retirer, comme
+     la règle 117 le prévoit pour un lieu qui vit sous un autre nom. **Critère** : la reprise
+     n'autorise à corriger que si une source décrit un point de vente — une adresse, des jours, des
+     heures, ou une annonce de réouverture. Une immatriculation et une inscription à un registre
+     décrivent une activité, pas une porte ouverte, et la règle 57 refuse déjà le point de vente
+     annoncé au futur. La fiche se retire, la reprise se consigne en piste, et la commune se
+     revérifie au prochain passage.
+
+152. **Un producteur dont aucune source ne décrit de vente à son adresse ne garde pas de point sur
+     la carte.** La fiche de Plein Cagnard, à Roquebrune-sur-Argens, portait l'adresse de la
+     micro-ferme et des horaires « à confirmer ». Or l'office de tourisme écrit que la production
+     est vendue à la Maison du Terroir et chez les Producteurs de la Grande Bastide, sans un mot
+     d'une vente sur place, et une correction de visiteur dit la même chose en plus restrictif.
+     Aucune entité ne répond non plus à cette enseigne au registre des entreprises (règle 6).
+     **Critère** : la règle 84 fait entrer un producteur sans magasin à la condition qu'il publie
+     une adresse, des créneaux de retrait et un moyen de commander ; quand les trois manquent et que
+     les points de vente connus appartiennent à d'autres commerces, le producteur n'a pas de point
+     propre — il se mentionne, le cas échéant, dans la fiche du comptoir qui le vend, comme l'AMAP
+     Les Amapiens du Golfe l'est dans celle du Jardin de la Piboule (règle 7). Ici rien n'a été
+     ajouté à la fiche de La Grande Bastide : c'est précisément le fait que les deux sources se
+     contredisent, et la règle 5 interdit de publier un fait contesté.
+
+153. **Une enseigne collective qui déclare acheter et revendre relève de la règle 4, pas de la
+     règle 8.** Ô Paysans, à Puget-sur-Argens, est une halle de 270 m² fondée par six producteurs du
+     secteur : la règle 8 rangerait ce comptoir en `producteur`, comme une cave coopérative, et la
+     règle 105 le confirmerait puisqu'il ouvre en continu. Mais son président explique dans la
+     presse agricole avoir « opté pour l'achat revente, plutôt que pour un point de vente
+     producteurs », et la centaine de fermes qui fournissent les rayons n'y tient pas d'étal.
+     **Critère** : ce qui range la fiche est le circuit de la marchandise, pas la qualité des
+     associés — dépôt-vente ou étal tenu par le producteur donnent `producteur`, achat-revente donne
+     `magasin-bio` au sens de la règle 4, et la règle 95 rappelle que cette catégorie est un rayon
+     du fichier et non un label. Le pilier `environnement`, lui, se juge comme toujours sur le
+     certificat de l'établissement.
+
+154. **Un `venteParticuliers` à faux qui décrit l'activité certifiée, et non le magasin, ne vaut
+     plus motif d'écarter.** La règle 40 finissait par une réserve : si l'office annonçait des
+     heures d'ouverture libres, le drapeau du registre de l'Agence Bio redeviendrait un motif de ne
+     pas publier. Ô Paysans est exactement ce cas — `venteParticuliers` à faux, `venteProsDetail` et
+     `venteRestauCollective` à vrai — sur un enregistrement bien tenu, mis à jour le 14 septembre
+     2026. Pourtant quatre sources indépendantes décrivent un magasin ouvert au public : l'office de
+     tourisme avec ses heures, l'agglomération avec la date d'inauguration et une photographie du
+     bâtiment, la presse agricole avec la surface de vente, et le site d'un producteur voisin qui y
+     renvoie sa clientèle en septembre 2026. **Critère** : quand l'activité certifiée déclarée au
+     registre est la distribution — une plateforme qui livre des professionnels et la restauration
+     collective — le bloc `venteAnnuaire` décrit ce périmètre-là, pas le magasin que la même société
+     tient à la même adresse ; le drapeau se consigne et la fiche part. La réserve de la règle 40
+     reste entière pour un opérateur dont la seule activité déclarée est la production.
+
+155. **Une correction qui aboutit à un retrait ne reçoit pas de message.** Les trois gabarits
+     d'`backlog.mjs repondre` sont écrits pour des propositions d'ajout : `integree` affirme « la
+     fiche est maintenant en ligne », `refusee` « nous ne pouvons pas l'ajouter à la carte ». Aucun
+     ne décrit le cas d'une correction exacte dont la conséquence est de **supprimer** une fiche —
+     les deux signalements de fermeture du 17 septembre 2026 sont dans ce cas. Répondre `integree`
+     dirait au visiteur qu'une fiche est en ligne alors qu'elle vient d'être retirée ; répondre
+     `refusee` lui dirait que son signalement n'a pas été retenu alors qu'il l'a été. **Critère** :
+     la demande passe bien en `integree` au backlog, pour que le statut dise la vérité à l'intérieur,
+     mais aucun message ne part ; le compte rendu de la passe le dit, avec la raison. La note libre
+     ne rattrape rien : elle s'imprime **après** le corps du gabarit, et le visiteur lit d'abord
+     l'affirmation fausse. Changer les gabarits est une modification de code, donc hors périmètre.
+     Constat annexe, à ne pas confondre avec une règle : l'aperçu de `repondre` est tronqué à
+     quelques centaines de caractères et coupe la note avant qu'on puisse la relire en entier.
+
 ## Marchands à confirmer
 
-472 fiches sur 511 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+471 fiches sur 510 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
 - **Marché provençal de Fréjus** (horaires à préciser)
 - **Marché des producteurs de la Vallée Rose** (horaires à préciser)
@@ -1910,9 +1991,8 @@ prioritaires en cas de conflit.
 - **Le Rucher des Myrtes** (activité et vente de miel confirmées par téléphone le 12 septembre 2026, information transmise par le responsable du site ; restent à confirmer le libellé de l'enseigne — le registre des entreprises ne déclare aucune enseigne sur l'avenue, seulement une entreprise individuelle de vente hors magasin — et la gamme au-delà du miel, pollen et miel en rayon)
 - **AMAP Fréjus** (plusieurs AMAP existent sur le secteur, point de distribution à confirmer)
 - **Cueillette du Rocher** (horaires à préciser)
-- **La Gaudine** (horaires à préciser)
-- **Plein Cagnard** (horaires à préciser)
 - **Domaine Réal Saint-Jean** (horaires à préciser)
+- **Ô Paysans** (Puget-sur-Argens) (halle de producteurs ajoutée sur demande d'un visiteur. **Catégorie `magasin-bio`, règle 153** : l'enseigne achète et revend, elle ne loue pas d'étals. **Pilier `environnement`** : certificat Bureau Alpes Contrôles engagé le 26 mai 2026 au registre de l'Agence Bio, activité « Distribution », sans que tout l'assortiment soit biologique. **Horaires contredits, règle 5** : 8h30-19h du lundi au samedi chez l'office de tourisme — qui écrit « tous les jours » et « fermé le dimanche » dans la même phrase — contre 9h dans le signalement reçu ; les deux sont publiés. **Point, règle 10** : la Base Adresse Nationale ignore le 85 du chemin de la Tuilière mais en connaît le 51 et le 554 ; le point est celui du registre des entreprises, dont le contrôle inverse rend la bonne voie à 38 m. **`site_web` vide, règle 62** : `opaysans.fr`, que l'office et le registre bio citent encore, répond « Account Suspended ». **`venteParticuliers` à faux au registre bio, règle 154.** Photo : la photographie du bâtiment publiée par l'agglomération, **recadrée à droite, 700 × 700** — le tiers gauche de l'original montre une dizaine de personnes devant l'entrée le jour de l'inauguration)
 - **Domaine De La Vernède** (horaires à préciser)
 - **Famiho Bio** (Saint-Raphaël) (ancienne fiche « Les Comptoirs de la Bio - Saint-Raphaël », corrigée le 12 septembre 2026 sur signalement d'un visiteur. Le magasin n'a pas fermé, il a changé d'enseigne : le registre des entreprises déclare l'enseigne « FAMIHO BIO » sur l'établissement ouvert de la société qui l'exploite depuis avril 2019, et la page publique que le magasin tenait sous le nom des Comptoirs porte désormais celui de Famiho Bio, avec ses horaires, lundi au samedi 8h30-20h, et son téléphone ; la fiche cartographique dit la même chose. Le réseau Les Comptoirs de la Bio ne liste plus aucun magasin à Saint-Raphaël ni à Fréjus : ses neuf magasins de la région sont à Nice, La Colle-sur-Loup, Roquefort-les-Pins, Opio, Grasse, La Garde, Marseille (deux) et Mallemort — le lien vers son localisateur est donc retiré. Pilier `environnement` maintenu : certificat Ecocert **engagé** depuis janvier 2020, contrôle 2026. Produits lus dans les rubriques de ce certificat. **Coordonnées corrigées** : l'ancien point, celui de l'Agence Bio, géocodait la voie et tombait à environ 480 m ; le point retenu est celui de la Base Adresse Nationale pour le 60 allée de Vaulongue (numéro, score 0,96), qui coïncide à une vingtaine de mètres avec le code plus de la fiche cartographique. Reste `a_confirmer` pour une seule raison : la photo est thématique, au sens de la règle 1 — le magasin ne publie aucune photo de sa façade hors réseaux sociaux)
 - **La Ruche qui dit Oui ! - Fréjus** (point de retrait et horaires de permanence à confirmer)
@@ -2399,7 +2479,7 @@ prioritaires en cas de conflit.
 - **Jaude fait son marché** (Clermont-Ferrand) (même catégorie et mêmes piliers ; pas d'`environnement`, règle 68 : la Ville écrit « produits locaux et biologiques » sans classification ni liste d'exposants. **Sources** : liste des marchés de la Ville, ses fiches d'agenda de septembre et décembre 2026, fiche de l'office ; toutes disent 1er et 3e dimanches, 7h-13h. **Point** : centre de la place de Jaude à la Base (0,974), marqueur de l'office à 27 m. **Produits, règles 74 et 91** : panneau imprimé d'un étal lisible sur la photographie de la Ville attachée à ce marché, prise le dimanche 6 juillet 2025, premier dimanche du mois. **Photo, règle 46** : même photographie, recadrée sur la statue, les façades et les toits des barnums, sans personne.)
 - **Marché de producteurs et artisans du parc thermal** (Royat) (même catégorie et mêmes piliers ; cinquième fiche prise dans Clermont Auvergne Métropole au titre de la **règle 96**, à 2,1 km de la place de Jaude, voir les pistes de Clermont-Ferrand. **Sources** : actualité de la Ville de Royat du 19 mai 2026, fiche de l'office de tourisme ; la page « Commerces / Marchés » de la Ville, qui annonce 8h-12h, décrit la saison 2023 et n'est pas reprise (règle 65). **Horaires, règle 5** : saison et heure de fin données par l'office seul, attribuées. **Point, règle 147, née ici**. **Produits, règle 119** : la Ville nomme des métiers alimentaires et des métiers d'artisanat sans décompte ; seuls les premiers sont dans `produits`, la description dit les seconds. **Photo** : photographie de la Ville de Royat publiée sur la fiche de l'office, qui montre la buvette Eugénie derrière les étals ; recadrée au-dessus des personnes, ce qui écarte aussi la banderole d'un exposant portant un numéro de portable. Le `robots.txt` de la Ville interdit `/wp-content` à tous les robots : aucune image n'a été prise sur son site.)
 
-Les 511 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 510 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -2427,6 +2507,73 @@ Baume, 83460 Les Arcs**, alors que son propre site `chateausaintange.com`
 annonce le **40 place des Deux Anges, 83300 Draguignan** : deux communes
 différentes. Aucun horaire de caveau n'est publié, et l'activité mise en avant
 est surtout l'hébergement. Les sources se contredisant, rien n'a été publié.
+
+### Passe du 20 septembre 2026 : quatre demandes de visiteurs
+
+Quatre demandes attendaient au backlog, ce qui met la passe en mode 1 : le calcul de déficit de la
+règle 41 n'a donc pas été fait, et aucune commune n'a été choisie. Les quatre demandes venaient d'un
+même contact, et concernaient toutes le secteur de Fréjus — Saint-Raphaël.
+
+**Deux corrections, deux retraits.**
+
+- **La Gaudine** (Fréjus) — signalée comme fermée au 16 septembre 2026. Le site du lieu confirme
+  davantage qu'une fermeture saisonnière : « Fin d'activité », « La ferme referme ses portes »,
+  derniers paniers à commander avant le 5 septembre, dernière présence au marché de la D8 le
+  15 septembre, et « notre magasin à la ferme n'ouvrira plus ses portes pour une longue période ».
+  La fiche a été retirée et son image supprimée, au titre de la **règle 150**. **Contradiction
+  consignée** : le registre des entreprises laisse l'EARL active, et surtout il ouvre au même
+  525 chemin rural n° 7 dit Carraire de la Gaudine une société de culture de légumes créée le
+  28 février 2026, inscrite au registre de l'Agence Bio en « vente aux consommateurs » avec le même
+  numéro de téléphone et le même domaine de messagerie. Le site, lui, écrit n'avoir pas réussi à
+  transmettre l'activité. C'est la **règle 151** qui tranche : une immatriculation n'est pas une
+  porte ouverte, et la source la plus récente est celle du lieu. À revérifier au prochain passage
+  dans le secteur — si un point de vente est publié à cette adresse, la fiche revient.
+- **Plein Cagnard** (Roquebrune-sur-Argens) — signalé comme vendant uniquement à la Maison du
+  Terroir. L'office de tourisme écrit deux points de vente, la Maison du Terroir **et** les
+  Producteurs de la Grande Bastide, et ne décrit aucune vente à la micro-ferme ; aucune entité ne
+  répond à cette enseigne au registre des entreprises. La fiche a été retirée au titre de la
+  **règle 152**. Le point contesté — un point de vente ou deux — n'est publié nulle part
+  (**règle 5**) : rien n'a donc été ajouté à la fiche de La Grande Bastide.
+
+Les deux retraits épuisent la limite de deux suppressions par passe.
+
+**Aucun message n'est parti.** L'envoi d'e-mail est désactivé côté serveur — `repondre` répond
+`Email actif : false` et reste en simulation même avec `--envoyer`. Les réponses aux demandes #11 et
+#12 ont donc été rédigées et relues en simulation, sans destinataire servi. Les deux corrections #9
+et #10 n'auraient de toute façon pas reçu de message, au titre de la **règle 155** : le gabarit
+`integree` affirme qu'une fiche est en ligne, alors qu'elles ont conduit à en retirer une.
+
+**Un ajout.** **Ô Paysans**, 85 chemin de la Tuilière à Puget-sur-Argens : halle de 270 m² ouverte le
+11 juillet 2024, une centaine de producteurs et d'artisans fournisseurs, environ sept cents
+références annoncées comme régionales et à 80 % varoises. Sources croisées : fiche de l'office de
+tourisme de Puget-sur-Argens et des Adrets-de-l'Estérel, page de l'agglomération Estérel Côte
+d'Azur, presse agricole régionale de juillet 2024, registre des entreprises (établissement ouvert,
+`nom_commercial` « O PAYSANS ») et registre de l'Agence Bio (certificat engagé le 26 mai 2026). Les
+règles **153** et **154** sont nées de cette fiche. Les noms des associés et du dirigeant, que la
+presse publie, ne sont repris nulle part.
+
+**Un refus.** La demande d'ajout d'un maraîchage de l'avenue du Gratadis, à Agay, a été refusée : le
+seul établissement agricole de cette voie est fermé au registre des entreprises depuis novembre
+2014, ce que la piste déjà consignée plus bas disait. L'exploitation est par ailleurs immatriculée
+sous un patronyme sans enseigne déclarée, ce qui suffirait à elle seule à ne rien publier.
+
+**Pistes non publiées (secteur de Fréjus — Saint-Raphaël)** :
+
+- **La Maison du Terroir** (Roquebrune-sur-Argens, point de vente) — citée par l'office de tourisme
+  comme point de vente d'au moins un producteur du secteur, elle n'a pas de fiche. Déblocage :
+  une adresse, des horaires et une source indépendante ; la commune compte déjà six fiches, donc
+  elle attendra un passage qui ne contourne pas la règle 41.
+- **Une société de maraîchage de Fréjus** (525 chemin rural n° 7 dit Carraire de la Gaudine) —
+  créée en février 2026 à l'adresse d'une exploitation qui vient de s'arrêter, certifiée bio,
+  déclarant la vente aux consommateurs. Déblocage : une source publiant un point de vente, des
+  jours et des heures (règles 57 et 151).
+- **Un maraîchage d'Agay** (Saint-Raphaël, producteur) — établissement fermé au registre depuis
+  2014, enseigne inexistante, immatriculation sous patronyme : piste close, elle ne se rouvre pas.
+
+**Une correction de discrétion, hors demandes.** La fiche de la Paysanne des Mers, à Calais,
+finissait par une phrase biographique sur la personne qui a créé l'entreprise. Aucun nom n'y
+figurait, mais l'enseigne suffisait à l'identifier, et une fiche ne porte que l'enseigne, l'adresse,
+les horaires et les produits. La phrase a été retirée.
 
 ### Pistes non publiées à Clermont-Ferrand
 
@@ -8173,9 +8320,15 @@ L'adresse publiée reste celle du domaine.
 
 L'office de tourisme référence encore le site `santaluciapoissonnerie.fr` pour ce commerce. **Ce nom de domaine a expiré et a été racheté : il redirige aujourd'hui vers un site de casino en ligne, sans aucun rapport avec la poissonnerie.** Il a donc volontairement été laissé de côté dans la fiche. Ne pas le rajouter.
 
-### Piste non publiée : la Ferme Philip (Agay)
+### Piste non publiée : un maraîchage d'Agay (Saint-Raphaël)
 
-La Ferme Philip, avenue du Gratadis à Agay, existe bien et est référencée par l'office de tourisme (maraîchage en vente directe, tél. 04 94 82 04 44). Elle **n'a volontairement pas été ajoutée au site** : au registre des entreprises, l'établissement correspondant est indiqué comme fermé depuis novembre 2014, alors que la fiche touristique la donne encore ouverte (dernière mise à jour connue : mai 2023). **Un appel au 04 94 82 04 44 permettrait de trancher** avant de l'ajouter, pour éviter d'envoyer des visiteurs vers un point de vente qui n'existe plus.
+Une exploitation maraîchère de l'avenue du Gratadis, à Agay, est encore référencée par l'office de
+tourisme comme vente directe. Elle **n'a volontairement pas été ajoutée au site** : au registre des
+entreprises, le seul établissement agricole de cette voie est fermé depuis novembre 2014 et ne
+compte aucun établissement ouvert, alors que la fiche touristique la donne encore ouverte. Elle est
+immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
+interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
+refusée pour la même raison de fait — un établissement fermé au registre.
 
 ## Comment ajouter ou modifier un marchand
 

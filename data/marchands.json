@@ -333,55 +333,6 @@
     "a_confirmer": true
   },
   {
-    "slug": "la-gaudine",
-    "nom": "La Gaudine",
-    "categorie": "ferme",
-    "piliers": [
-      "alimentation",
-      "environnement",
-      "economie"
-    ],
-    "lat": 43.432083,
-    "lon": 6.716675,
-    "adresse": "525 Chemin de la Gaudine, 83600 Fréjus",
-    "horaires": "Tous les jours, 9h à 19h en continu",
-    "produits": [
-      "Fruits et légumes bio de saison",
-      "Pain",
-      "Poulet fermier rôti",
-      "Paniers bio"
-    ],
-    "description": "Ferme familiale bio tenue par Florin et son épouse, vente directe à la ferme et paniers hebdomadaires à partir de 17 euros.",
-    "telephone": "06 50 45 75 02",
-    "site_web": "https://www.lagaudine.com/",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Gaudine+Fréjus",
-    "image_url": "/images/marchands/la-gaudine.jpg",
-    "a_confirmer": true
-  },
-  {
-    "slug": "plein-cagnard",
-    "nom": "Plein Cagnard",
-    "categorie": "producteur",
-    "piliers": [
-      "environnement",
-      "alimentation"
-    ],
-    "lat": 43.472358,
-    "lon": 6.635892,
-    "adresse": "Route de Marchandise, 83520 Roquebrune-sur-Argens",
-    "horaires": "À confirmer (micro-ferme en développement, précommandes conseillées)",
-    "produits": [
-      "Fruits et légumes",
-      "Plantes aromatiques méditerranéennes",
-      "Produits transformés ou séchés"
-    ],
-    "description": "Micro-ferme en permaculture depuis plus de 10 ans, dans le respect des saisons. Produits aussi disponibles à la Maison du Terroir et à La Grande Bastide.",
-    "telephone": "06 40 46 78 30",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Plein+Cagnard+Roquebrune-sur-Argens",
-    "image_url": "/images/marchands/plein-cagnard.jpg",
-    "a_confirmer": true
-  },
-  {
     "slug": "spirulinazur",
     "nom": "EARL Spirulin'Azur",
     "categorie": "producteur",
@@ -8026,7 +7977,7 @@
       "Crevettes roses",
       "Salicornes"
     ],
-    "description": "Vente directe des produits de la pêche à pied, à l'aubette du quai de la Colonne, face au port de pêche : l'entreprise récolte elle-même moules, coques et bigorneaux sur l'estran, dans le respect des tailles minimales de capture. Sa fondatrice, pêcheuse à pied depuis l'adolescence, a été faite chevalier de l'Ordre national du Mérite en 2017 pour son engagement dans la protection de la nature et du patrimoine maritime.",
+    "description": "Vente directe des produits de la pêche à pied, à l'aubette du quai de la Colonne, face au port de pêche : l'entreprise récolte elle-même moules, coques et bigorneaux sur l'estran, dans le respect des tailles minimales de capture.",
     "telephone": "03 21 97 80 55",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Paysanne+des+Mers+quai+de+la+Colonne+Calais",
     "image_url": "/images/marchands/la-paysanne-des-mers.jpg",
@@ -13560,6 +13511,35 @@
     "site_web": "https://www.royat.fr/actualites/marche-de-producteurs-et-artisans-les-vendredis-matins/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+thermal+place+Allard+63130+Royat",
     "image_url": "/images/marchands/marche-de-producteurs-parc-thermal-royat.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "o-paysans",
+    "nom": "Ô Paysans",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "environnement"
+    ],
+    "lat": 43.443922,
+    "lon": 6.698777,
+    "adresse": "85 chemin de la Tuilière, 83480 Puget-sur-Argens",
+    "horaires": "Du lundi au samedi de 8h30 à 19h, toute l'année, d'après l'office de tourisme de Puget-sur-Argens et des Adrets-de-l'Estérel, qui écrit « tous les jours de 8h30 à 19h » et « fermé le dimanche ». Un signalement reçu en septembre 2026 donne plutôt une ouverture à 9h : mieux vaut téléphoner avant de se déplacer en tout début de matinée.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Pains et pâtisseries",
+      "Œufs, viandes et fromages",
+      "Poissons",
+      "Huiles d'olive et vinaigrettes",
+      "Miels, pâtes et épicerie sucrée et salée",
+      "Vins et bières de la région",
+      "Fleurs et plantes"
+    ],
+    "description": "Halle de 270 m² ouverte en juillet 2024 dans la zone d'activité de la Tuilière, à l'initiative de six producteurs du secteur : une centaine d'agriculteurs et d'artisans y fournissent environ sept cents références, annoncées comme originaires de Provence-Alpes-Côte d'Azur et à 80 % du département du Var. L'enseigne achète et revend ces produits plutôt que de louer des étals ; elle est inscrite au registre de l'Agence Bio pour son activité de commerce de détail, avec un certificat Bureau Alpes Contrôles engagé depuis le 26 mai 2026, sans que tout l'assortiment soit biologique.",
+    "telephone": "07 75 72 23 94",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%94+Paysans+85+chemin+de+la+Tuili%C3%A8re+Puget-sur-Argens",
+    "image_url": "/images/marchands/o-paysans.jpg",
     "a_confirmer": true
   }
 ]
