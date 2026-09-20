@@ -14331,5 +14331,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20associatif%20Boris%20Vian%2013%20avenue%20Marcel-Paul%2069200%20V%C3%A9nissieux",
     "image_url": "/images/marchands/alter-conso-boris-vian-venissieux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-marc-rouen",
+    "nom": "Marché Saint-Marc",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.438299,
+    "lon": 1.100976,
+    "adresse": "Place Saint-Marc, 76000 Rouen",
+    "horaires": "Mardi, vendredi et samedi de 6h à 18h, dimanche de 6h à 13h30 (heures publiées par la Ville de Rouen, que l'annuaire Jours-de-Marché reprend ; l'office de tourisme donne, lui, une fin de vente à 13h30 les quatre jours)",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Viandes",
+      "Champignons",
+      "Fleurs"
+    ],
+    "description": "Le plus grand marché de l'agglomération rouennaise, quatre jours par semaine place Saint-Marc, sur la rive droite. La Ville le classe « marché toutes catégories » : à côté des étals alimentaires, une brocante s'y tient du vendredi au dimanche. Des maraîchers y affichent la pancarte « producteur » au-dessus de leurs cageots, et l'office de tourisme y organise une visite guidée à la rencontre des producteurs locaux.",
+    "telephone": "02 35 08 87 56",
+    "site_web": "https://www.rouen.fr/marche-saint-marc",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Saint-Marc%20place%20Saint-Marc%2076000%20Rouen",
+    "image_url": "/images/marchands/marche-saint-marc-rouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-vieux-marche-rouen",
+    "nom": "Marché du Vieux-Marché",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.443078,
+    "lon": 1.088286,
+    "adresse": "Place du Vieux-Marché, 76000 Rouen",
+    "horaires": "Du mardi au samedi de 7h à 19h et le dimanche de 7h à 13h, brocante le samedi de 7h à 18h (heures de la Ville de Rouen, reprises par l'office de tourisme ; l'annuaire Jours-de-Marché publie, lui, 7h à 13h tous les jours)",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poissons et crustacés",
+      "Rôtisserie",
+      "Fleurs"
+    ],
+    "description": "Le marché couvert du cœur historique, sous les halles de la place du Vieux-Marché, ouvert six jours sur sept. La Ville n'y annonce que fruits, légumes et fleurs ; l'office de tourisme y ajoute une poissonnerie, une fromagerie et une rôtisserie installées à demeure sous la halle, ce que confirme la photographie qu'il publie.",
+    "telephone": "02 35 08 87 56",
+    "site_web": "https://www.rouen.fr/marche-place-du-vieux-marche",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Vieux-March%C3%A9%20place%20du%20Vieux-March%C3%A9%2076000%20Rouen",
+    "image_url": "/images/marchands/marche-du-vieux-marche-rouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-rougemare-rouen",
+    "nom": "Marché de la Rougemare",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.445099,
+    "lon": 1.098144,
+    "adresse": "Place de la Rougemare, 76000 Rouen",
+    "horaires": "Mardi de 15h à 18h30 (seule la Ville de Rouen publie cet horaire)",
+    "produits": [
+      "Légumes de maraîchers",
+      "Fromages de crémier",
+      "Pain",
+      "Olives et fruits secs",
+      "Traiteur de produits orientaux"
+    ],
+    "description": "Un marché de fin d'après-midi, le mardi, sur la petite place de la Rougemare au nord du centre-ville. La Ville y recense six exposants — deux maraîchers, un crémier-fromager, un boulanger, un traiteur de produits orientaux et un marchand d'olives et de fruits secs — et c'est l'un des rares marchés rouennais qui déballe après le travail plutôt que le matin.",
+    "telephone": "02 35 08 87 56",
+    "site_web": "https://www.rouen.fr/marche-rougemare",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Rougemare%20place%20de%20la%20Rougemare%2076000%20Rouen",
+    "image_url": "/images/marchands/marche-de-la-rougemare-rouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-cauchoise-rouen",
+    "nom": "Marché Cauchoise",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.444678,
+    "lon": 1.087265,
+    "adresse": "Rue Cauchoise, 76000 Rouen",
+    "horaires": "Vendredi de 8h à 18h (heures publiées par la Ville de Rouen et reprises par l'annuaire Jours-de-Marché)",
+    "produits": [
+      "Produits de producteurs locaux",
+      "Produits d'artisans"
+    ],
+    "description": "Le marché du vendredi de la rue Cauchoise, la rue commerçante qui monte vers l'ouest depuis le centre ancien. La Ville le range parmi les marchés de « producteurs et artisans », et non parmi les marchés « toutes catégories » comme la plupart des autres marchés rouennais ; aucune source ne publie en revanche la liste de ses étals.",
+    "telephone": "02 35 08 87 56",
+    "site_web": "https://www.rouen.fr/marche-cauchoise",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Cauchoise%20rue%20Cauchoise%2076000%20Rouen",
+    "image_url": "/images/marchands/marche-cauchoise-rouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-rouen-rive-gauche",
+    "nom": "AMAP Rouen rive gauche",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.432179,
+    "lon": 1.079858,
+    "adresse": "Parking de la MJC Saint-Sever, rue du Docteur Merry Delabost, 76100 Rouen",
+    "horaires": "Distribution le mercredi de 18h30 à 19h30, sur le parking de la MJC Saint-Sever. Paniers réservés aux adhérents, engagés à l'avance auprès des fermes.",
+    "produits": [
+      "Panier de légumes",
+      "Pain au levain",
+      "Produits de la pomme",
+      "Pommes ou poires à couteau",
+      "Fromage de vache",
+      "Poissons et fruits de mer",
+      "Bière locale"
+    ],
+    "description": "Cent paniers distribués chaque mercredi soir sur le parking de la MJC Saint-Sever, rive gauche. C'est le plus gros effectif des AMAP rouennaises recensées par le réseau régional des AMAP de Normandie, dont l'annuaire lui compte six fermes fournisseuses — légumes et fruits rouges d'Emanville, pain au levain du Fresnoy-Folny, jus et fruits d'un verger de Quevillon, fromage de vache d'Osmoy-Saint-Valery, bière des Authieux-sur-le-Port-Saint-Ouen et pêche débarquée à Meuvaines. Le Département de la Seine-Maritime la recense sur son annuaire Mon Panier 76.",
+    "site_web": "https://amaprouenrivegauche.wordpress.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MJC%20Saint-Sever%20rue%20du%20Docteur%20Merry%20Delabost%2076100%20Rouen",
+    "image_url": "/images/marchands/amap-rouen-rive-gauche.jpg",
+    "a_confirmer": true
   }
 ]

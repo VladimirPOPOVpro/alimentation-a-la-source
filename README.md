@@ -2261,9 +2261,55 @@ prioritaires en cas de conflit.
      publiée par la Ville, quand celle de Villeurbanne porte la photographie de cageots publiée par
      la coopérative.
 
+176. **Sur un marché communal, la commune qui l'organise prime sur l'office de tourisme et sur
+     l'annuaire national ; les versions divergentes se citent, la fiche reste `a_confirmer`.**
+     Trois sources décrivent les marchés de Rouen et ne disent pas la même chose. Pour le marché
+     Saint-Marc, la Ville publie « mardi, vendredi et samedi de 6h à 18h, dimanche de 6h à 13h30 »
+     sur sa fiche comme dans son tableau récapitulatif, l'annuaire Jours-de-Marché donne les mêmes
+     heures, et l'office de tourisme arrête la vente à 13h30 les quatre jours. Pour le marché du
+     Vieux-Marché, Ville et office s'accordent sur 7h-19h du mardi au samedi quand l'annuaire
+     publie 7h-13h. Et l'office situe le marché des Emmurées « place de la Fraternité », qui est
+     la place d'un autre marché rouennais, celui de Saint-Clément — une erreur vérifiable, qui
+     dit le rang de cette source. **Critère** : sur un marché communal, l'autorité est la commune,
+     parce que c'est elle qui arrête le règlement, attribue les places et encaisse les droits ;
+     l'office de tourisme et l'annuaire de marchés sont des relais, utiles pour confirmer et pour
+     compléter la liste des étals, jamais pour contredire. La fiche publie l'horaire de la
+     commune, nomme la version divergente avec sa source dans `horaires`, et reste
+     `a_confirmer`. Ce n'est pas la règle 5 renversée : la règle 5 arbitre entre deux sources de
+     même rang, celle-ci dit que deux sources sur un marché communal ne sont pas de même rang.
+
+177. **Les départements d'outre-mer sortent du calcul de déficit de la règle 41, parce que le
+     garde-fou du `build` refuse leurs coordonnées.** Au calcul de cette passe, La Réunion (974)
+     arrivait première avec un déficit de 6,97, loin devant la Seine-Maritime (4,88). Une fiche
+     réunionnaise ne peut pourtant pas être publiée : `lib/validateMerchants.ts` borne latitude et
+     longitude à la France métropolitaine, et une fiche hors cadre fait échouer la construction.
+     Le fichier le dit lui-même — c'est du code, donc hors périmètre d'une passe. **Critère** :
+     le calcul de la règle 41 ne porte que sur les départements métropolitains ; l'outre-mer
+     rentrera dans le calcul le jour où le responsable du site élargira les bornes du validateur,
+     et pas avant. Rien d'autre ne change à la formule.
+
+178. **Un marché que seule sa commune publie se publie quand même, s'il paraît à deux endroits
+     distincts du site communal.** Le marché de la Rougemare n'existe pour aucun annuaire : ni
+     l'office de tourisme, ni Jours-de-Marché, ni l'annuaire Mon Panier 76 du Département ne le
+     connaissent, et la page d'actualité par laquelle la Ville avait annoncé sa création en mai
+     2023 a été dépubliée depuis (elle répond 403). La règle 6, qui exige une entité active au
+     registre des entreprises, ne s'applique pas aux marchés communaux ; restait la question du
+     nombre de sources. **Critère** : pour un marché, la commune organisatrice est une source
+     suffisante dès lors qu'elle le publie à deux endroits qui se tiennent à jour séparément — le
+     tableau des marchés et la fiche du marché — parce que l'absence dans un annuaire ne prouve
+     rien d'un marché récent, quand un annuaire ne se met à jour que tous les deux ou trois ans.
+     La fiche reste `a_confirmer` et le README dit que la source est unique. Déblocage : toute
+     publication extérieure à la Ville qui cite ce marché.
+
+
 ## Marchands à confirmer
 
-499 fiches sur 540 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+504 fiches sur 545 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Saint-Marc** (Rouen) (le plus grand marché de l'agglomération, place Saint-Marc, quatre jours par semaine. **Horaires, règle 176** : la Ville de Rouen publie 6h-18h les mardi, vendredi et samedi et 6h-13h30 le dimanche, sur sa fiche de marché comme dans le tableau récapitulatif de la page « Les marchés de Rouen » ; l'annuaire Jours-de-Marché donne les mêmes heures ; l'office de tourisme, lui, arrête la vente à 13h30 les quatre jours. C'est la version de la Ville qui est publiée. **Produits** : la Ville ne publie que le classement « toutes catégories » ; fruits, légumes, viandes et fleurs viennent de l'office de tourisme, les champignons de la photographie. **Point** : Base Adresse Nationale sur « Place Saint Marc », contrôle inverse à 0 m, à 6 m du point que l'annuaire Mon Panier 76 du Département donne au même marché. **Photo** : la photographie que l'office de tourisme publie pour ce marché, **recadrée sur les cageots de betteraves du bas de l'image** — l'original montre un maraîcher et des clients de face)
+- **Marché du Vieux-Marché** (Rouen) (le marché couvert du centre historique, six jours sur sept sous les halles. **Horaires, règle 176** : Ville et office de tourisme s'accordent sur 7h-19h du mardi au samedi et 7h-13h le dimanche, avec brocante le samedi de 7h à 18h ; l'annuaire Jours-de-Marché publie 7h-13h tous les jours, version non retenue. **Produits** : la Ville n'annonce que fruits, légumes et fleurs ; la poissonnerie, la fromagerie et la rôtisserie viennent de l'office de tourisme et se voient sur sa photographie. **Point** : Base Adresse Nationale sur « Place du Vieux Marche », contrôle inverse à 0 m. **Photo** : la vue intérieure des halles publiée par l'office de tourisme, **recadrée sur la travée de droite** — au centre de l'original, deux visages sont reconnaissables derrière l'étal de poisson)
+- **Marché de la Rougemare** (Rouen) (marché de fin d'après-midi du mardi, place de la Rougemare, 15h-18h30. **Source unique, règle 178** : seule la Ville le publie, sur sa fiche de marché et dans le tableau de la page des marchés ; ni l'office de tourisme, ni Jours-de-Marché, ni l'annuaire Mon Panier 76 ne le connaissent, et la page d'actualité annonçant sa création en mai 2023 a été dépubliée depuis (403). **Produits** : les six exposants énumérés par la Ville — deux maraîchers, un crémier-fromager, un boulanger, un traiteur de produits orientaux, un marchand d'olives et de fruits secs. **Point** : Base Adresse Nationale sur « Place de la Rougemare », contrôle inverse à 0 m. **Photo, règle 1** : aucune photographie du marché n'existe ; la fiche porte une photographie thématique de fromages normands publiée par l'office de tourisme, qui ne prétend pas montrer le lieu et qui renvoie au crémier-fromager du marché)
+- **Marché Cauchoise** (Rouen) (marché du vendredi, rue Cauchoise, 8h-18h. Heures publiées par la Ville et reprises par l'annuaire Jours-de-Marché. **Produits** : aucune source ne publie la liste des étals ; la Ville se borne à ranger ce marché parmi les « producteurs et artisans », mention qu'elle ne porte sur aucune des autres fiches de marché consultées. **Point** : Base Adresse Nationale au milieu de la rue Cauchoise, contrôle inverse à 0 m ; la Ville n'indique ni numéro ni tronçon. **Photo, règle 1** : photographie thématique de vaches normandes sous les pommiers, publiée par l'office de tourisme, sans prétention de montrer la rue)
+- **AMAP Rouen rive gauche** (Rouen) (distribution le mercredi de 18h30 à 19h30, parking de la MJC Saint-Sever. **Sources** : l'annuaire du réseau régional des AMAP de Normandie, qui publie le jour, l'heure, l'adresse, les cent paniers et les six fermes fournisseuses ; l'annuaire Mon Panier 76 du Département, qui recense l'AMAP à la même rue ; et le site de l'association, ouvert et à jour, inscrit dans la fiche après vérification. **Point** : Base Adresse Nationale sur « Rue du Docteur Merry Delabost », contrôle inverse à 0 m, à 7 m du point du réseau des AMAP ; la rue n'est pas numérotée au droit du parking. **Téléphone** : le seul numéro publié par le réseau est un portable, qui n'est pas repris ici. **Photo, règle 1** : photographie thématique de poires sur l'arbre publiée par l'office de tourisme — l'AMAP distribue pommes et poires à couteau d'un verger de Quevillon)
 
 - **Marché du Centre** (Vénissieux) (marché mixte du mercredi et du dimanche matin, place Léon-Sublet. **Horaires, règle 173** : le livret de réglementation des marchés forains que la Ville met en ligne — arrêté du maire du 29 avril 2016, fichier déposé en juillet 2025 — fixe le début de la vente à 7h30 et sa fin à 12h30 au plus tard ; l'annuaire professionnel M ton Marché publie 7h30-12h30 pour ce marché précis. **Point, règle 171** : le marqueur que la Ville donne au marché sur sa carte interactive, dont le contrôle inverse rend la place Léon-Sublet à 10 m, à 57 m du centre de la surface de 8 344 m² que la Métropole de Lyon nettoie et à 11 m du point de voie de la Base Adresse Nationale. **Produits** : aucune source ne publie de liste d'étals ; « fruits et légumes » se lit sur la photographie de la Ville, le reste vient du règlement, qui partage chaque marché en un secteur alimentaire et un secteur de produits manufacturés. **Photo** : la photographie que la Ville publie dans sa médiathèque sous le nom `marche-forains-2-web`, **recadrée à 1080 × 1020 au-dessus de la ligne des têtes** — l'original montre une dizaine de visages au premier plan ; le recadrage garde les barnums, les arbres en fleurs et le clocher, et le panneau « les mercredi et dimanche jour de marché » visible sur l'original rattache l'image à ce marché-ci)
 - **Marché des Minguettes** (Vénissieux) (jeudi et samedi de 7h30 à 13h : le règlement municipal en fait le seul marché de la commune où la vente peut se prolonger jusqu'à 13h, et M ton Marché publie les mêmes heures. 18 000 m² au recensement de la Métropole de Lyon, 357 forains abonnés selon M ton Marché — un chiffre d'annuaire, cité comme tel. **Adresse** : la Ville écrit « rue Edouard-Herriot », la Métropole « entre les rues Lyvet-Herriot-Lagrange » ; les trois voies existent à la Base Adresse Nationale et la fiche les nomme. **Point** : marqueur de la Ville, à 27 m du centre de la surface de la Métropole ; le contrôle inverse rend le 2 rue Gaston-Monmousseau à 75 m, la Base ne sachant pas adresser une esplanade de cette taille. **Photo, règle 158** : la vue plongeante que la Ville publie sous le titre « Marché des Minguettes », prise du haut d'une tour de Monmousseau, recadrée à 1037 × 800 sur les étals — les personnes y sont vues de très loin et de dessus)
@@ -9123,6 +9169,31 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Rouen
+
+- **Rouen, drive fermier (rive droite, quai de Boisguilbert)** — l'enseigne est bâtie sur ce qui
+  ressemble au prénom abrégé de la personne qui l'exploite. Doute sur une personne : rien n'est publié, et la
+  piste ne se rouvre pas.
+- **Rouen, marché bio mensuel (rive gauche, rue Geuffroy)** — l'annuaire Mon Panier 76 du
+  Département le donne le deuxième samedi du mois de 10h à 13h, dans un tiers-lieu associatif, et
+  l'y inscrit deux fois sous deux noms voisins. Aucune autre source publique ne publie ce
+  calendrier. Fait manquant, pas de fiche. Déblocage : une page du lieu ou de la Ville qui
+  confirme la séance mensuelle.
+- **Rouen, magasin de producteurs (place du Vieux-Marché)** — classé « magasin de producteurs »
+  par l'annuaire du Département, qui range au même rang, à la même place, une boutique de
+  souvenirs : la catégorie de cet annuaire ne se reprend pas telle quelle (règle 40). Il faudrait
+  une source propre au commerce pour trancher entre `producteur` et `magasin-bio`.
+- **Rouen, magasins bio de réseau (rue Jeanne d'Arc, place Saint-Marc, rue aux Ours)** — trois
+  enseignes certifiées bio, recevables au titre de la règle 3, laissées de côté faute de place
+  dans les cinq fiches de la passe. À reprendre au prochain passage sur la commune.
+- **Rouen, huit autres AMAP** — le réseau régional des AMAP de Normandie en publie neuf sur la
+  commune, jour, heure et lieu compris. Une seule est entrée dans cette passe ; les autres sont à
+  intégrer au prochain passage, une fiche par point de distribution (règle 175).
+- **Registre de l'Agence Bio, Seine-Maritime** — sur les 83 opérateurs que le registre rattache à
+  Rouen et à ses communes limitrophes, la moitié sont des supérettes de réseau et des entrepôts du
+  marché d'intérêt national, que `MODERATION.md` écarte comme commerces généralistes ou négoce de
+  gros. Le registre reste utile, mais il ne se lit pas comme un annuaire de vente directe.
 
 ## Comment ajouter ou modifier un marchand
 
