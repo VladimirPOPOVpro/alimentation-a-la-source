@@ -14061,5 +14061,153 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Rivoise%2042%20chemin%20des%20Voies%2095000%20Cergy",
     "image_url": "/images/marchands/la-rivoise-cergy.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "carreau-des-halles-tours",
+    "nom": "Carreau des Halles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.392467,
+    "lon": 0.679652,
+    "adresse": "Place Gaston Paillhou, 37000 Tours",
+    "horaires": "Mercredi et samedi de 7h30 à 12h30. Le même horaire figure sur la liste des marchés publiée par la Ville en janvier 2025, sur l'infographie « À chaque quartier son marché ! » de février 2026 et sur la fiche d'équipement de la Ville.",
+    "produits": [
+      "Fruits et légumes",
+      "Légumes secs",
+      "Viandes de boucherie",
+      "Charcuterie",
+      "Poissons",
+      "Volailles",
+      "Beurre, œufs et fromages",
+      "Épicerie"
+    ],
+    "description": "Marché de plein air du centre de Tours, deux matinées par semaine sur le pavé de la place Gaston Paillhou, au pied des Halles couvertes dont il est le prolongement en plein vent. Le règlement des marchés de plein air de la Ville, en vigueur depuis mars 2025, en fait l'un des deux seuls marchés tourangeaux réservés aux denrées alimentaires : partout ailleurs les produits manufacturés sont admis. Aucune source ne publie la liste des étals ; les produits repris ici sont les métiers de bouche que le règlement admet sur ces marchés. L'image de la fiche est l'illustration que la Ville attache à sa liste des marchés, pas une vue du lieu.",
+    "site_web": "https://www.tours.fr/page-portail-ma-mairie/services-pratiques/activite-commerciale/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Carreau%20des%20Halles%20place%20Gaston%20Paillhou%2037000%20Tours",
+    "image_url": "/images/marchands/carreau-des-halles-tours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-halles-de-tours",
+    "nom": "Les Halles de Tours",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.391944,
+    "lon": 0.68008,
+    "adresse": "1 place Gaston Paillhou, 37000 Tours",
+    "horaires": "Du lundi au samedi de 7h à 19h, le dimanche et les jours fériés de 7h à 13h. Les Halles et la Ville de Tours donnent les mêmes heures.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes de boucherie",
+      "Charcuterie",
+      "Poissons et coquillages",
+      "Fromages et crèmerie",
+      "Pains spéciaux et pâtisseries",
+      "Épicerie fine",
+      "Vins"
+    ],
+    "description": "Marché couvert du centre de Tours, ouvert tous les jours, que la Ville présente comme la plus grande surface de produits frais du centre-ville : trente-huit professionnels sous un même toit, commerçants et artisans de bouche. Le bâtiment actuel a succédé aux halles métalliques du XIXe siècle et donne son nom à tout le quartier. Le marché de plein air du Carreau des Halles se tient sur la même place les mercredis et samedis matin. Aucune source ne publie l'origine des marchandises étal par étal.",
+    "telephone": "02 47 39 04 89",
+    "site_web": "https://leshallesdetours.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles%20de%20Tours%201%20place%20Gaston%20Paillhou%2037000%20Tours",
+    "image_url": "/images/marchands/les-halles-de-tours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-blanqui-tours",
+    "nom": "Marché Blanqui",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.396993,
+    "lon": 0.701024,
+    "adresse": "Place Saint-Pierre, 37000 Tours",
+    "horaires": "Vendredi de 15h à 19h30 selon l'infographie des marchés publiée par la Ville en février 2026 et selon sa fiche d'équipement ; la liste des marchés publiée en janvier 2025 annonçait 15h30 à 19h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes de boucherie",
+      "Charcuterie",
+      "Fromages et crèmerie",
+      "Poissons",
+      "Volailles",
+      "Pain",
+      "Épicerie"
+    ],
+    "description": "Marché de plein air du quartier Sainte-Radegonde, le vendredi après-midi place Saint-Pierre, sur la rive droite de la Loire. C'est l'un des deux seuls marchés tourangeaux de fin de journée avec celui du parking Édouard-Péron, tenu le même jour un peu plus à l'est. Le règlement municipal le classe parmi les marchés d'approvisionnement général, où les denrées alimentaires côtoient les produits manufacturés ; aucune source ne publie la liste des étals, et les produits repris ici sont les métiers de bouche que ce règlement admet. La Base Adresse Nationale ne connaît pas la place Saint-Pierre : le point publié est celui que la Ville donne au marché, contrôlé à treize mètres du 62 rue Blanqui.",
+    "site_web": "https://www.tours.fr/page-portail-ma-mairie/services-pratiques/activite-commerciale/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Blanqui%20place%20Saint-Pierre%2037000%20Tours",
+    "image_url": "/images/marchands/marche-blanqui-tours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-la-fuye-tours",
+    "nom": "Amap de la Fuye",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.386283,
+    "lon": 0.703847,
+    "adresse": "4 rue Montesquieu, 37000 Tours",
+    "horaires": "Distribution le jeudi de 18h30 à 20h dans le local de l'association, au patronage laïque de la Fuye ; les producteurs livrent entre 16h30 et 18h15. Paniers réservés aux adhérents : les légumes se prennent par abonnement annuel, les autres produits par commandes trimestrielles payées d'avance.",
+    "produits": [
+      "Paniers de légumes de saison",
+      "Pains",
+      "Produits laitiers de vache, de chèvre et de brebis",
+      "Viandes de bœuf, de porc, de veau, canards, poulets et pintades",
+      "Œufs et terrines",
+      "Pommes, poires et fruits de saison",
+      "Jus de pomme, pétillants et cidre",
+      "Farines, légumineuses, pâtes et champignons",
+      "Huiles, miels, confitures et tisanes"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne qui réunit entre quatre-vingts et quatre-vingt-dix adhérents autour de dix-sept producteurs, seize en Indre-et-Loire et un en Loir-et-Cher — l'association écrit par ailleurs qu'ils sont tous en Indre-et-Loire, à moins de cinquante kilomètres de Tours, et plus de quatre sur dix à moins de vingt-cinq. La distribution se tient chaque jeudi soir dans une salle louée au patronage laïque de la Fuye, encadrée à tour de rôle par les adhérents. L'association décrit ses paysans comme engagés en agriculture biologique, mais les certificats n'ont pas été vérifiés un à un, d'où l'absence du pilier environnement. La photo, publiée par l'association, montre une récolte et non le lieu de distribution.",
+    "site_web": "https://amapdelafuye.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Amap%20de%20la%20Fuye%204%20rue%20Montesquieu%2037000%20Tours",
+    "image_url": "/images/marchands/amap-de-la-fuye-tours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "tours-de-fermes-joue-les-tours",
+    "nom": "Tours de Fermes",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.345279,
+    "lon": 0.638658,
+    "adresse": "10 boulevard des Bretonnières, 37300 Joué-lès-Tours",
+    "horaires": "Du mardi au jeudi de 9h30 à 12h30 et de 14h30 à 19h, le vendredi de 9h30 à 19h sans interruption, le samedi de 9h30 à 18h sans interruption ; fermé le dimanche et le lundi. Le panneau collé sur la vitrine du magasin donne les mêmes heures que son site ; un annuaire national de magasins de producteurs n'annonce, lui, qu'une ouverture du mercredi au samedi.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes de bœuf, veau, agneau, porc, volailles et lapin",
+      "Charcuterie",
+      "Fromages, yaourts, crèmes et lait de vache, de chèvre et de brebis",
+      "Pains et pâtisseries",
+      "Farines, pâtes et légumes secs",
+      "Huiles, vinaigres, moutardes, miels et confitures",
+      "Vins de Touraine, bières locales et jus de fruits"
+    ],
+    "description": "Magasin de producteurs ouvert en 2013 au sud de l'agglomération tourangelle et tenu par une association de dix fermes de Touraine, qui se relaient au comptoir. Il réunit plus de huit cents produits venus d'une soixantaine de producteurs, viticulteurs et artisans alimentaires installés dans un rayon de quatre-vingts kilomètres, avec un rayon boucherie où la découpe se fait sur place. C'est la seule fiche de cette passe hors de la commune de Tours : aucun magasin de producteurs ni magasin bio indépendant n'y a été vérifié.",
+    "telephone": "02 47 41 70 95",
+    "site_web": "https://www.toursdefermes.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tours%20de%20Fermes%2010%20boulevard%20des%20Bretonni%C3%A8res%2037300%20Jou%C3%A9-l%C3%A8s-Tours",
+    "image_url": "/images/marchands/tours-de-fermes-joue-les-tours.jpg",
+    "a_confirmer": true
   }
 ]

@@ -2174,10 +2174,54 @@ prioritaires en cas de conflit.
      ceci près qu'ici elle se serait commise en croyant appliquer la Base. La fiche reste en
      `a_confirmer` tant que la Ville ne publie pas de point pour son marché.
 
+170. **Quand la cinquième place d'une commune appelle une catégorie que cette commune ne rend pas, on
+     va la chercher dans l'agglomération plutôt que d'aligner un marché de plus.** Tours rend dix-sept
+     marchés vérifiables, une halle couverte municipale et une AMAP, et aucun magasin de producteurs
+     ni magasin bio indépendant instruisable : le seul magasin bio du centre appartient à un réseau
+     dont la règle 149 ferme le site, et la plateforme de retrait la plus citée répond 403 depuis cet
+     environnement. Lue seule, la règle 167 aurait donné la cinquième place à un cinquième marché de
+     plein air ; la règle 96 fait élargir à l'agglomération quand la commune ne rend pas ce qu'il
+     faut. **Critère** : la préférence de catégorie de la règle 167 se sert d'abord dans la commune
+     calculée ; si celle-ci ne rend aucune candidate de la catégorie manquante, on prend la plus
+     proche de l'agglomération, à condition qu'elle reste dans le groupement de la passe — ici
+     cinq kilomètres entre le centre de Tours et le magasin de producteurs de Joué-lès-Tours, moins
+     que les 3,1 km de Dunkerque additionnés au rayon de l'agglomération. La fiche dit en clair
+     qu'elle est hors de la commune retenue, et le compte rendu aussi. Ce qui reste exclu, c'est
+     d'aller chercher la catégorie manquante dans une commune qui ne touche pas la zone couverte :
+     le groupement du mandat prime sur la diversité des catégories.
+
+171. **Un marché de plein air et la halle couverte de la même place font deux fiches quand l'autorité
+     leur donne deux points distincts et que chacun retombe sur une voie que la Base Adresse
+     Nationale connaît.** La règle 42 n'en faisait qu'une à Wazemmes parce qu'aucune source ne savait
+     séparer les deux. À Tours, la Ville tient deux fiches d'équipement, avec deux marqueurs distants
+     de **93 m** : celui des Halles couvertes retombe sur le 1 place Gaston Paillhou, que la Base
+     connaît comme numéro (0,976, contrôle inverse à 0 m), celui du Carreau des Halles retombe sur la
+     **place des Halles**, que la Base connaît comme voie (0,973, contrôle inverse à 0 m), à 17 m du
+     marqueur municipal. **Critère** : deux points que l'autorité sépare elle-même et que la Base
+     sépare aussi valent deux fiches, même quand l'autorité écrit le même nom de place dans les deux
+     adresses — c'est le nom que le visiteur lira, il reste dans `adresse` au titre de la règle 83,
+     et ce sont les coordonnées qui distinguent. Sans ces deux conditions réunies, la règle 42
+     s'applique et il n'y a qu'une fiche à deux régimes d'horaires.
+
+172. **Entre deux publications datées de la même autorité, c'est la plus récente qui donne l'horaire,
+     et l'écart reste écrit dans la fiche.** La règle 58 départageait une publication datée et une
+     page de référence tenue à jour ; ici les deux portent une date. La Ville de Tours annonce le
+     marché Blanqui « 15h30-19h30 » dans la liste des marchés qu'elle a mise en ligne en janvier 2025
+     et « 15h-19h30 » dans l'infographie « À chaque quartier son marché ! » parue dans son magazine
+     de février 2026, que sa fiche d'équipement confirme. **Critère** : à autorité égale et forme
+     égale, la date tranche, la valeur la plus récente part dans la fiche, et la plus ancienne est
+     citée dans le champ `horaires` — pas seulement dans ce README — parce qu'un visiteur qui arrive
+     à 15h20 doit savoir laquelle des deux il risque de rencontrer. La fiche passe en `a_confirmer`.
+
 ## Marchands à confirmer
 
-489 fiches sur 530 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+494 fiches sur 535 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 
+- **Carreau des Halles** (Tours) (marché de plein air du centre, mercredi et samedi 7h30-12h30 : trois publications de la Ville — la liste des marchés de janvier 2025, l'infographie de février 2026 et la fiche d'équipement — donnent le même horaire, et le règlement des marchés de plein air en vigueur depuis mars 2025 le range parmi les deux seuls marchés tourangeaux « alimentaires uniquement ». Aucune liste d'étals n'est publiée : les produits sont les métiers de bouche que l'article 15 de ce règlement admet. **Point, règle 171** : place des Halles à la Base Adresse Nationale (0,973), contrôle inverse à 0 m, à 17 m du marqueur que la Ville donne à ce marché et à 93 m de celui des Halles couvertes. **Photo, règles 125 et 164** : c'est l'illustration dessinée — un panier de légumes — que la Ville attache à sa liste des marchés et à son infographie, pas une vue du lieu ; aucune photographie de ce marché n'est publiée, et la seule que la Ville attache au couple « Halles et marché des Halles » montre l'intérieur de la halle)
+- **Les Halles de Tours** (marché couvert municipal, ouvert tous les jours, 7h-19h du lundi au samedi et 7h-13h le dimanche et les jours fériés : le site des Halles et la fiche d'équipement de la Ville écrivent les mêmes heures. Les « trente-huit professionnels » et la formule « la plus grande surface de produits frais du centre-ville » viennent d'un seul texte, repris à l'identique par la Ville et par les Halles — une seule origine, d'où l'`a_confirmer`. Aucune source ne publie l'origine des marchandises étal par étal : la fiche décrit la halle, elle ne garantit pas le circuit court de chaque commerçant. **Point** : 1 place Gaston Paillhou à la Base (0,976), contrôle inverse à 0 m. **Photo** : la vue extérieure que la Ville publie sous ce nom, **recadrée à 1240 × 750** pour écarter le kiosque à journaux du bord droit, dont l'affiche porte un visage en gros plan)
+- **Marché Blanqui** (Tours) (marché de plein air du vendredi après-midi, rive droite. **Horaires contredits, règle 172** : 15h-19h30 sur l'infographie de février 2026 et sur la fiche d'équipement, 15h30-19h30 sur la liste de janvier 2025 ; la valeur la plus récente part dans la fiche, l'autre y est citée. **Point, règle 64** : la Base Adresse Nationale ne connaît aucune place Saint-Pierre à Tours — sa meilleure réponse, le passage Saint-Pierre, tombe à 0,646 et à une centaine de mètres ; le point publié est celui que la Ville donne au marché, dont le contrôle inverse rend le 62 rue Blanqui à 13 m. Produits tirés de l'article 15 du règlement, faute de liste d'étals. **Photo, règle 46** : la photographie que la Ville attache nommément à ce marché, prise le vendredi 7 avril 2023, **recadrée à 1280 × 376 au-dessus de la ligne des têtes** — l'original compte une douzaine de visages reconnaissables ; le recadrage garde l'église, la maison à pans de bois et les bâches des étals)
+- **Amap de la Fuye** (Tours) (distribution le jeudi de 18h30 à 20h au patronage laïque de la Fuye, 4 rue Montesquieu : le site de l'association et l'annuaire de Touraine Bio, source indépendante, donnent le même lieu et les mêmes heures. Point BAN au numéro (0,966), contrôle inverse à 0 m. **Pas de pilier `environnement`, règles 15 et 71** : l'association écrit que ses paysans sont engagés en agriculture biologique, mais les certificats n'ont pas été vérifiés un à un. **Contradiction consignée, règle 87** : la même page écrit que tous les producteurs sont en Indre-et-Loire et en liste dix-sept, dont un en Loir-et-Cher ; les deux versions sont dans la fiche. **Photo** : la photographie de récolte que l'association publie sur sa page d'accueil, 1024 × 683, sans personne — elle ne montre pas le lieu de distribution, la fiche le dit)
+- **Tours de Fermes** (Joué-lès-Tours) (magasin de producteurs tenu par une association de dix fermes de Touraine, **seule fiche de la passe hors de la commune de Tours, règle 170**. Société active au registre des entreprises, un établissement ouvert, immatriculée en septembre 2012 ; le magasin écrit de son côté avoir ouvert en 2013, les deux dates sont proches et aucune n'est reprise comme un fait. **Horaires** : ceux du site, confirmés au mot près par le panneau collé sur la vitrine que le magasin photographie lui-même (règle 74) ; un annuaire national de magasins de producteurs n'annonce, lui, que du mercredi au samedi et neuf producteurs associés au lieu de dix — l'écart est cité dans la fiche. Point BAN au numéro (0,970), contrôle inverse « 12 boulevard des Bretonnières » à 0 m. **Pas de pilier `environnement`** : l'enseigne est absente du registre de l'Agence Bio. **Photo** : la façade que le magasin publie sur sa page « Le magasin », 1200 × 801, sans personne ; l'image `og:image` de son site a été écartée, c'est une photographie d'agence montrant un vétérinaire dans une étable, sans rapport avec le lieu)
 - **Marché Axe Majeur / Horloge** (Cergy) (jour, heures et lieu publiés par la Ville de Cergy et le jour confirmé par l'office de tourisme de Cergy-Pontoise ; aucune des deux sources ne publie la liste des étals, et aucune ne photographie ce marché : l'illustration est le bandeau générique de la page « Marchés » de la Ville, partagé avec les deux autres marchés cergyssois au titre de la règle 164)
 - **Marché du Grand Centre** (Cergy) (la Ville écrit elle-même que les horaires de fin de journée restent « en phase de test » et pourront évoluer ; la place n'a pas de nom dans la Base Adresse Nationale et le point est celui que SNCF Open Data donne à la gare de Cergy-Préfecture, règle 169 ; bandeau générique partagé, règle 164)
 - **Marché des Hauts-de-Cergy** (Cergy) (le cours des Merveilles n'a qu'un seul numéro connu de la Base Adresse Nationale, le 3 ; aucune source ne situe le marché sur le cours, le point est donc celui du milieu de la voie, à 290 m de la gare de Cergy-le-Haut. La Ville signale des produits biologiques sans nommer d'étal ; bandeau générique partagé, règle 164)
@@ -2786,6 +2830,93 @@ sous un patronyme sans enseigne déclarée, ce qui suffirait à elle seule à ne
 finissait par une phrase biographique sur la personne qui a créé l'entreprise. Aucun nom n'y
 figurait, mais l'enseigne suffisait à l'identifier, et une fiche ne porte que l'enseigne, l'adresse,
 les horaires et les produits. La phrase a été retirée.
+
+### Pistes non publiées à Tours
+
+Département visé : l'**Indre-et-Loire (37)**, déficit **4,7607** au titre de la règle 41 avec 530 fiches publiées et
+aucune dans le département. La Réunion (6,8384) reste écartée par la règle 93. La passe précédente en mode 2 visait le
+Val-d'Oise, en Île-de-France ; l'Indre-et-Loire est en Centre-Val de Loire, la réserve de la règle 41.c ne joue pas.
+Après la passe, le 37 tombe à **−0,1944** avec cinq fiches ; en tête du classement ensuite, outre-mer écarté : le
+**Rhône** (4,8557), la **Seine-Maritime** (4,7837), les **Côtes-d'Armor** (4,7474) et l'**Eure** (4,6764).
+
+Commune retenue : **Tours**, 139 259 habitants, la plus peuplée du département et sans aucune fiche. Elle a rendu
+**dix-neuf candidates instruites** sans qu'il faille descendre par population : dix-sept marchés de plein air que la
+Ville organise, la halle couverte municipale et une AMAP. Le mandat en arrête cinq, et c'est la règle 167 qui a choisi —
+avec une extension, la **règle 170**, née ici : la catégorie qui manquait à Tours, le magasin de producteurs, n'existe
+pas dans la commune, elle a donc été prise à cinq kilomètres, à **Joué-lès-Tours**, dans la même agglomération. Les cinq
+fiches couvrent cinq créneaux qui ne se recoupent pas — le mercredi et le samedi matin au Carreau des Halles, tous les
+jours à la halle couverte, le vendredi de fin de journée au marché Blanqui, le jeudi soir à l'AMAP, du mardi au samedi
+au magasin de producteurs — ce qui est exactement ce que la règle 168 demande.
+
+**Les sources qui ont fait la passe.** La page « Marchés » de `tours.fr` et les deux documents qu'elle met en
+téléchargement : la **liste des marchés** de janvier 2025, dont les quatre pages donnent jour, lieu et heures des
+dix-huit marchés, et le **règlement des marchés de plein air** en vigueur depuis mars 2025, dont l'article 15 énumère
+les seize marchés d'approvisionnement général, les métiers de bouche qui y sont admis et la seule exception de la
+commune — « à l'exception des marchés Les Halles et Heurteloup qui restent des marchés alimentaires uniquement ».
+L'**infographie « À chaque quartier son marché ! »** parue dans le magazine municipal de février 2026, qui reprend les
+dix-huit marchés et corrige un horaire, a servi de source la plus récente (règle 172). Les **fiches d'équipement** de
+`tours.fr` ont fourni les marqueurs : chacune porte ses coordonnées dans un attribut `data-lat` / `data-lon` de son
+bloc de carte, et c'est la seule forme sous laquelle la Ville publie un point pour ses marchés. La **médiathèque
+WordPress** du même site, interrogée par son API, a rendu les photographies. Pour la halle, son propre site,
+`leshallesdetours.fr`, dont les horaires coïncident au mot près avec ceux de la Ville. Pour l'AMAP, son site et
+l'annuaire de **Touraine Bio**, indépendant. Pour le magasin de producteurs, son site, le **registre des entreprises**
+et un annuaire national de magasins de producteurs. Le **registre de l'Agence Bio** a été paginé pour tout le
+département — 1 275 opérateurs, dont 91 à Tours — et n'a rien rendu de publiable : hors supermarchés et enseignes de
+distribution, les opérateurs tourangeaux y sont pour l'essentiel des boulangeries, des grossistes du marché de gros de
+Rochepinard et des entreprises immatriculées sous le seul patronyme de l'exploitant.
+
+**Ce qui a été écarté, et pourquoi.**
+
+- **Le marché aux fleurs et aux produits manufacturés** du boulevard Béranger, les mercredis et samedis 8h-19h :
+  le règlement le classe parmi les marchés à thème, et son objet est non alimentaire — **règle 119**.
+- **Le marché à la ferraille, friperie et brocante** de la place de la Victoire, les brocantes du boulevard Béranger et
+  de la rue de Bordeaux : hors sujet, même article du règlement.
+- **Le magasin bio du centre-ville**, 6 rue Émile Zola : il appartient à un réseau dont la **règle 149** ferme le site,
+  et aucune autre autorité ne publie ses horaires. Déblocage : une source municipale ou une fiche d'office de tourisme.
+- **La plateforme de retrait de paniers la plus citée à Tours** : son domaine répond 403 à `curl` comme à la
+  récupération de page, exactement comme à Saint-Denis de La Réunion. Piste technique, pas éditoriale.
+- **Deux enseignes nationales de distribution bio** présentes à Tours : commerces généralistes au sens de
+  `MODERATION.md`, et aucune ne nomme de producteur.
+- **Le marché couvert de producteurs** (vendredi 14h30-19h, samedi 9h-12h) et le **marché à la ferme** (samedi 9h-12h),
+  que `tours.fr` recense parmi ses équipements : le contrôle inverse de leurs marqueurs les place à **Mettray** et à
+  **Notre-Dame-d'Oé**, hors du groupement de cette passe. Deux pistes entières pour un futur passage sur ces communes.
+- **Une ferme d'agriculture urbaine de Tours Nord** : aucune source ne publie d'horaire ni de point de vente ouvert au
+  public, seulement une vente sur commande et une livraison en zone commerciale. Déblocage : règles 57 et 151.
+
+**Pistes non publiées à Tours** :
+
+- **Marché Heurteloup** (marche) — boulevard Heurteloup, mardi 8h-13h, **entièrement vérifié et géocodé**, écarté par
+  la seule règle 167. Avec le Carreau des Halles, c'est l'un des deux marchés « alimentaires uniquement » de la
+  commune. **Point** : le règlement le situe « entre les rues Bernard Palissy et Jules Simon » ; le centroïde du
+  boulevard à la Base Adresse Nationale (0,982) tombe 300 m à l'est de ce segment, alors que le **31 boulevard
+  Heurteloup** (numéro, contrôle inverse à 0 m, lon 0,694188) tient entre les longitudes des deux rues nommées
+  (0,693438 et 0,694709) et à 20 m du marqueur de la Ville. Déblocage : la prochaine passe sur Tours le prend tel
+  quel, illustré au titre de la règle 125 comme le Carreau des Halles.
+- **Marché Saint-Paul** (marche) — place Saint-Paul, mardi et vendredi 8h-12h30. C'est le seul autre marché tourangeau
+  dont la Ville publie une photographie attachée nommément, prise le mardi 29 avril 2025, 1800 × 1012. Écarté par la
+  règle 167. Déblocage : aucun, il est prêt.
+- **Treize autres marchés de plein air de Tours** — Beaujardin, Beffroi, Coty, Fontaines, Maine, Monconseil, Paul
+  Bert, Rabelais, Rives du Cher, Sainte-Radegonde, Strasbourg, Velpeau, ainsi que le marché gourmand de la place
+  Châteauneuf (1er vendredi du mois, 16h-20h30) : jour, lieu et heures concordants entre le règlement, la liste de
+  2025 et l'infographie de 2026. Non publiés faute de place, pas faute de vérification. Deux d'entre eux ont une
+  photographie attachée nommément par la Ville, celle de Beaujardin et celle du Beffroi.
+
+**Ce que la passe n'a pas inscrit.** Aucun téléphone de marché : la Ville ne publie que celui de sa direction du
+commerce, qui n'est pas un numéro de commerce. Aucune adresse électronique, ni celle de l'AMAP, ni celle de la
+direction du commerce. Aucun nombre d'étals : contrairement à Dunkerque ou à Chelles, aucune autorité tourangelle n'en
+publie, et les produits des trois fiches de marché viennent donc de l'énumération des métiers de bouche de l'article 15
+du règlement, jamais d'une lecture d'étal sur photographie.
+
+**Données personnelles écartées** : les dix-sept producteurs que l'AMAP nomme sur sa page « liste des produits », avec
+leur prénom et leur nom, ainsi que son adresse électronique de contact ; le nom et l'initiale des deux photographes que
+la Ville de Tours inscrit dans le nom de fichier de chacune de ses images — les fichiers déposés ici portent le slug de
+la fiche et rien d'autre ; les deux prénoms peints sur l'auvent d'un étal, sur la seconde photographie du marché
+Blanqui, qui est l'une des raisons pour lesquelles c'est la première qui a été recadrée ; le visage en gros plan d'une
+couverture de magazine sur le kiosque à journaux du bord droit de la photographie des Halles ; l'architecte du
+XIXe siècle et le maire que la page d'histoire des Halles nomme ; les fermes et les personnes que le magasin de
+producteurs présente sur sa page « producteurs associés », dont seul le nombre est repris ; et le patronyme qui sert de
+raison sociale à la majorité des opérateurs d'Indre-et-Loire au registre de l'Agence Bio. Aucun n'apparaît dans une
+fiche, dans un nom de fichier image, dans un message de commit ni ici.
 
 ### Pistes non publiées à Cergy
 
