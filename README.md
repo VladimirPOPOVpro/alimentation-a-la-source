@@ -2439,10 +2439,60 @@ prioritaires en cas de conflit.
      qu'il aboutit à l'autorité qui organise ; le README écrit que c'est le standard et non un
      service des marchés. Un numéro trouvé ailleurs que sur cette page ne se reprend pas.
 
+190. **Trois autorités, trois dates de fin de saison pour un même marché saisonnier.** Le marché
+     des producteurs des allées de l'Oulle ferme le 19 octobre 2026 pour l'office de tourisme
+     d'Avignon, le 23 octobre pour le recensement des marchés provençaux, le 25 octobre pour
+     l'office de l'agglomération du Grand Avignon ; celui de Montfavet est arrêté au 23 octobre
+     par le premier et au 25 par le deuxième. Les trois sources s'accordent en revanche mot pour
+     mot sur le jour et sur les heures, et la Ville, qui organise, ne publie aucune date de fin.
+     La règle 5 dit de ne pas publier un fait contesté, mais un champ `horaires` vide de toute
+     saison ferait croire à un marché d'hiver, ce qui est faux pour les trois sources.
+     **Critère** : quand des autorités concordantes divergent seulement sur la **borne** d'une
+     saison, la fiche publie ce qu'elles affirment toutes — le jour, les heures — et **l'intervalle
+     qui englobe leurs bornes**, écrit en langue courante (« de fin mars à mi-octobre »), jamais
+     une date précise choisie parmi elles. Le champ renvoie explicitement à la réserve du README,
+     la fiche passe en `a_confirmer`, et les trois dates sont consignées ici. Un visiteur qui lit
+     « mi-octobre » et trouve porte close le 20 n'a pas fait un déplacement pour rien : il n'en
+     avait pas reçu la promesse. Une date exacte tirée au sort, si.
+
+191. **Deux marchés distincts illustrés par le même fichier photo de l'office de tourisme.** Les
+     fiches de l'Oulle et de Montfavet portent, chez Avignon Tourisme, deux identifiants d'image
+     différents pour un fichier rigoureusement identique — même empreinte, mêmes 1 200 × 800 px.
+     Reprendre les deux donnerait deux fiches voisines avec la même photographie, ce qu'un
+     visiteur lit comme un défaut du site et non comme un choix de l'office. **Critère** : quand
+     deux fiches d'une même passe héritent du même fichier, l'une le garde et l'autre descend d'un
+     échelon dans l'ordre des photos d'`AGENT.md` — ici la photographie que la **Ville** publie
+     pour son propre marché. Celle-ci n'était pas le premier choix parce qu'elle montre du monde :
+     elle n'est reprise qu'après recadrage, et seulement parce que le recadrage laisse 1 200 px de
+     large, au-dessus du seuil de la règle 185. La photographie que la Ville publie pour l'Oulle
+     n'a pas passé ce test — des visages en gros plan sur toute la largeur, impossible à recadrer
+     sans vider l'image — et c'est le fichier de l'office qui y est resté.
+
+192. **Une fiche à qui il ne manque que ses horaires ne se publie pas, elle attend.** La Ferme de
+     la Durette, à Montfavet, est vérifiée de bout en bout : société active au registre,
+     certificat Ecocert engagé depuis avril 2016, adresse géocodée à 0,964, liste de productions
+     tenue par le registre national, vente directe sur la ferme attestée par la fédération
+     régionale d'agriculture biologique. Il lui manque une seule chose : **aucune source ne publie
+     de jour ni d'heure de vente**. Son propre site annonce « deux retraits par semaine » dans une
+     image, sans texte, sa dernière actualité date de 2023 et ses mentions légales sont restées le
+     gabarit vierge du prestataire. La règle générale — ne pas publier le fait douteux, publier le
+     reste — ne s'applique pas ici, parce que `horaires` est un champ obligatoire que le
+     validateur refuse vide : le remplir d'une paraphrase (« se renseigner auprès de la ferme »)
+     serait une fiche qui envoie quelqu'un devant un portail fermé. **Critère** : quand le seul
+     manque porte sur `horaires` et qu'aucune source n'en publie, la fiche part en « Pistes non
+     publiées » avec son critère de déblocage, et la passe prend le candidat suivant. C'est le
+     pendant de la règle 167, qui ajourne pour cause de plafond : ici l'ajournement tient à un
+     champ, pas à un quota.
+
 
 ## Marchands à confirmer
 
-519 fiches sur 560 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+524 fiches sur 565 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché des producteurs des allées de l'Oulle** (Avignon) (marché de producteurs de fin de journée, le lundi de 17h à 19h, sur l'esplanade entre les remparts et le Rhône ; catégorie et piliers des marchés. **Trois autorités concordent sur le jour et les heures** : le tableau « Marchés et brocantes » de la Ville d'Avignon, la fiche de l'Office de tourisme Avignon Tourisme mise à jour le 19 février 2026, et le recensement des marchés provençaux, qui compte sept étals et écrit que ses données ont été confirmées par la Chambre d'agriculture le 14 janvier 2026. **Saison contredite trois fois, règle 190** : l'office arrête la saison au 19 octobre 2026, le recensement au 23 octobre, l'office d'agglomération du Grand Avignon au 25 octobre ; la fiche publie « de fin mars à mi-octobre » et la contradiction est consignée ici. **Téléphone, règle 189** : le 04 90 80 80 00 est le standard de la mairie, seul numéro que l'office publie pour ce marché. **Photo** : tomates sur un étal, photothèque Avignon Tourisme, 1 200 px, aucun visage.)
+- **Marché des producteurs de Montfavet** (Avignon) (marché du soir du vendredi, 16h30-19h, place de l'Église de Montfavet ; catégorie et piliers des marchés. **Trois autorités concordent** : la Ville, l'office de tourisme (fiche mise à jour le 19 février 2026) et le recensement des marchés provençaux, qui compte huit étals. **Saison contredite, règle 190** : l'office écrit du 27 mars au 23 octobre 2026, le recensement du 25 mars au 25 octobre ; la fiche publie « de fin mars à fin octobre ». **Géocodage** : la Base Adresse Nationale ignore « place de l'Église **Montfavet** » mais rend « Place de l'Eglise 84140 Avignon » à 0,965, confirmée par le contrôle inverse à 0 m — il n'a pas fallu descendre à un repère au sens de la règle 26, seulement retirer le nom du quartier de la requête. **Photo, règle 191** : l'office illustre ce marché et celui de l'Oulle avec le **même fichier** ; c'est donc la photographie de la Ville d'Avignon qui est reprise ici, recadrée pour écarter les silhouettes du premier plan, 1 200 px.)
+- **Biocoop Avignon Sud** (Avignon) (magasin biologique de la ZAC la Cristole à Montfavet, rayons à la coupe, boulangerie cuite sur place et comptoir traiteur. **Registre, règle 6** : établissement ouvert, code 47.29Z, à l'adresse publiée. **Bio** : inscription propre au registre national de l'Agence Bio, activité « Distribution », `venteParticuliers` à vrai, certificat **engagé** auprès du Bureau Alpes contrôles depuis le 27 novembre 2019, fiche rafraîchie le 17 septembre 2026 — trois jours avant cette passe, ce qui vaut le pilier `environnement`. **Horaires** : publiés par le magasin lui-même, lundi 10h-19h30 et mardi au samedi 9h-19h30. **Adresse** : le registre des entreprises écrit 84000, le magasin et la Base Adresse Nationale 84140 ; c'est la Base qui est publiée. **Photo** : devanture, site du magasin, recadrée au-dessus des véhicules pour qu'aucune plaque d'immatriculation ne soit lisible, 1 280 px.)
+- **La boutique de Semailles** (Avignon) (point de vente directe des jardins maraîchers de la Ceinture verte, catégorie `ferme` : la boutique est sur le site cultivé et vend d'abord la production des jardins. **Registre, règle 6** : association active, un établissement ouvert, 2370 avenue de la Croix Rouge. **Bio** : certificat **engagé** auprès d'Ecocert depuis le 8 avril 1997 au registre national de l'Agence Bio. **Quatrième pilier `social`** : l'activité est un chantier d'insertion, la Ville d'Avignon le décrit dans son magazine, seize hectares sur trois sites. **Horaires contredits, règle 104** : l'association écrit 11h-18h sur la page de sa boutique, la Ville 12h-18h dans son article ; c'est l'intéressée qui gagne et l'écart est consigné ici. **Photo** : intérieur de la boutique, site de l'association, 800 px, aucun visage.)
+- **AMAP Libre Terre** (Avignon) (AMAP du sud d'Avignon, distribution le mardi de 17h30 à 18h30 à la Maison de la Bio, derrière le lycée agricole. **Registre, règle 6** : association, non concernée — rien ne lui correspond au registre des entreprises, ce qui est le cas courant des associations. **Sources** : son propre site, qui publie le lieu, le jour, les heures, les coordonnées GPS et la liste de ses fermes partenaires, et l'annuaire du réseau des AMAP de Provence auquel elle adhère. **Horaires contredits, règle 104** : un annuaire tiers écrit 18h-19h quand l'association écrit 17h30-18h30 ; c'est l'association qui est publiée. **Pas de pilier `environnement`, règle 60** : l'association publie année par année les certificats de dix de ses fournisseurs, avec l'organisme certificateur, mais sa page des producteurs en liste treize et n'affirme nulle part que tous soient certifiés — le registre national confirme d'ailleurs qu'au moins un des fournisseurs a un certificat **arrêté** depuis octobre 2022. **Photo, règle 1** : aucune photographie du lieu de distribution n'est publiée nulle part ; c'est une photo thématique honnête d'un étal de légumes d'un marché d'Avignon, photothèque Avignon Tourisme, recadrée sous la ligne des visages, 1 280 px — elle ne montre pas la Maison de la Bio et ne le prétend pas.)
 - **Marché du centre-ville d'Évreux** (Évreux) (marché principal de la commune, place Georges-Clemenceau, mercredi et samedi matin ; catégorie et piliers des marchés municipaux. **Deux autorités concordent** : la page « Les marchés d'Évreux » de la Ville, dont les métadonnées portent une dernière modification du 16 juillet 2026, et le tableau « Vos marchés hebdomadaires » du *Guide des producteurs locaux* de l'agglomération Évreux Portes de Normandie, daté d'octobre 2024 par sa direction de la communication. **Horaires, règle 176** : 8h-13h à la Ville, 8h-12h à l'agenda régional Flanerbouger, qui renvoie pourtant lui-même à `evreux.fr` ; c'est la Ville qui est publiée et l'écart est cité dans le champ. **Produits, règle 187** : aucune source ne publie la liste des étals. Ne sont repris que les fruits et légumes — que l'annuaire Jours-de-Marché atteste en creux, en signalant que les épices et plantes aromatiques du marché de La Madeleine ne se trouvent « pas forcément sur le marché du centre-ville du samedi » — et le food-truck que le même annuaire dit régulier, attribué dans le champ. La photographie que la Ville publie dans sa rubrique « mon quotidien » montre un étal de légumes, mais elle illustre la rubrique et non ce marché : la règle 88 interdit d'en tirer `produits`. **Téléphone, règle 189** : 02 32 31 52 52, le standard de la mairie, seul numéro publié sur la page des marchés ; aucune ligne « commerces et marchés » n'existe pour Évreux. **Point** : « Place Georges Clemenceau » à la Base Adresse Nationale, score 0,964. **Voisinage, règle 12** : le magasin Mon Côté Bio est à **32 m**, au 14 de la même place ; chacun garde le point de sa propre source. **Photo, règle 164** : la photographie de marché que la Ville publie dans sa rubrique « mon quotidien » (804 × 512), recadrée sous la ligne des visages à 804 × 247 — il reste un étal de carottes et des cageots, aucune personne identifiable, rien n'est agrandi. Elle n'est attribuée à aucun des cinq marchés de la commune et sert donc aux trois fiches de marché de cette passe, ce que le README dit ici)
 - **Marché Saint-Michel** (Évreux) (marché de quartier du mardi et du vendredi matin, place Aimé-Doucerain ; catégorie et piliers des marchés municipaux. **Deux autorités** : la Ville et le guide des producteurs locaux de l'agglomération, concordants sur les deux jours et la place. **Nom de la place divergent** : la Ville et la Base Adresse Nationale écrivent « Aimé Doucerain », le guide de l'agglomération « André Doucerain » ; c'est la Base, qui géocode, et la commune, qui organise, qui sont suivies. **Produits** : les métiers que décrit l'annuaire Jours-de-Marché — un primeur, un charcutier, un poissonnier, parfois un marchand d'œufs fermiers — repris tels quels, l'annuaire ne contredisant ici ni la Ville ni l'agglomération. **Place rénovée en 2022**, ce qui explique le petit nombre d'étals que l'annuaire signale. **Point** : « Place Aimé Doucerain » à la Base Adresse Nationale, score 0,961. **Téléphone** : règle 189, comme les deux autres marchés. **Photo** : la même photographie municipale recadrée, règle 164)
 - **Marché de La Madeleine** (Évreux) (marché de quartier du dimanche matin, sous la halle de la place John-F.-Kennedy et dans les rues piétonnes autour du centre commercial ; catégorie et piliers des marchés municipaux. **Deux publications communales distinctes, règle 178** : le tableau « Les marchés d'Évreux » et la page d'événement « Marché en Musique #8 » du 13 septembre 2026, modifiée le 24 août 2026, qui situe le marché « au pied de la tour Aulne » et annonce « légumes, fruits, épices » — c'est de là que viennent les trois premières lignes de `produits`. Le guide de l'agglomération et l'annuaire Jours-de-Marché le confirment, ce dernier le décrivant « essentiellement alimentaire » avec des plantes aromatiques, des épices et des plats cuisinés absents du marché du centre-ville. **Deux séances, règle 188** : la Ville tient au même endroit un marché **non alimentaire** le vendredi après-midi, 13h-18h l'hiver et 19h l'été ; il est cité dans `horaires` et ne fait pas de seconde fiche. Le guide de l'agglomération, lui, range les deux séances sans les qualifier. **Point, règle 186** : la Base Adresse Nationale ignore cette place ; le point publié est celui que le registre des entreprises donne à trois entités distinctes domiciliées « PL JOHN F KENNEDY », 49,009856 / 1,160661, dont le contrôle inverse retombe sur l'allée Irène-et-Frédéric-Joliot-Curie à **41 m** — la voie que l'annuaire associe lui-même à ce marché. **Téléphone** : règle 189. **Photo** : la même photographie municipale recadrée, règle 164. L'affiche du « Marché en Musique », qui aurait relevé de la règle 182, a été écartée : elle montre une quinzaine de musiciens identifiables et ne fait que 400 px de large)
@@ -9322,6 +9372,73 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Avignon
+
+Passe du 20 septembre 2026, en fin de journée. **Département retenu, règle 41** : le Vaucluse
+(84), déficit **4,6459** pour 572 056 habitants et aucune fiche — premier du classement
+métropolitain sur une base de 560 fiches. La Réunion arrivait devant avec 7,2255, mais elle en sort
+par la règle 177. La réserve de région est respectée : la passe précédente visait l'Eure, en
+Normandie. Le Var, qui est dans la même région que le Vaucluse, n'entre pas dans cette réserve, qui
+porte sur la passe précédente et non sur le stock de fiches ; son propre déficit reste très
+négatif. **Commune** : Avignon, 92 188 habitants, la plus peuplée du département et sans aucune
+fiche. Montfavet, où se trouvent trois des cinq fiches, est un quartier d'Avignon et non une
+commune : le groupement de la règle 41 est respecté sans recourir à la règle 28.
+
+- **Ferme de la Durette** (556 chemin des Semailles, Montfavet) — **fiche ajournée par la règle
+  192, qu'elle a fait écrire, et non par un doute.** Tout est vérifié : société active au registre
+  des entreprises, code 01.13Z, un établissement ouvert à l'adresse publiée ; certificat Ecocert
+  **engagé** depuis le 1er avril 2016 au registre national de l'Agence Bio, fiche rafraîchie le
+  4 février 2025 ; adresse géocodée par la Base Adresse Nationale à 0,964, 43,919160 / 4,863996 ;
+  productions listées par le registre (légumes à feuilles, pommes, poires, abricots, cerises,
+  pêches, prunes, cassis, œufs de poule, jus de fruits et légumes) ; vente directe sur la ferme
+  attestée par la fédération régionale d'agriculture biologique, qui écrit que les agriculteurs
+  installés « écoulent leur production en vente directe sur la ferme ». Ce qui manque est le champ
+  `horaires` : le site de commande de la ferme parle de « deux retraits par semaine » en renvoyant
+  à un schéma qui est une image sans texte, sa page d'actualités s'arrête en 2023 et ses mentions
+  légales sont restées le gabarit vierge du prestataire. **Déblocage** : n'importe quelle source
+  qui publie un jour et une heure de retrait — une page du site remise à jour, une fiche d'annuaire
+  agricole datée, une page de la Chambre d'agriculture de Vaucluse. **La passe suivante sur Avignon
+  la reprend** (règle 11), après avoir refait la vérification complète.
+- **Les Halles d'Avignon** (18 place Pie) — **ajournée par le plafond de cinq et par la règle
+  167.** Le marché couvert de la place Pie est ouvert toute l'année et l'association de ses
+  commerçants est active au registre. Prise, elle aurait fait un **troisième** marché dans la
+  passe, quand la cinquième place est allée à une AMAP, catégorie alors absente de la commune. Une
+  réserve de fond reste à lever avant publication : la halle abrite des commerçants détaillants
+  autant que des producteurs, et `MODERATION.md` écarte le commerce généraliste — il faudra
+  établir, sur une source de la halle ou de la Ville, quelle part de ses étals relève du circuit
+  court. **Déblocage** : cette part établie, ou une liste d'exposants producteurs publiée par la
+  halle.
+- **Registre bio d'Avignon : cent trente-quatre opérateurs, trois retenus.** La pagination
+  complète du registre national de l'Agence Bio sur le Vaucluse rend 2 772 opérateurs, dont 134
+  déclarent une adresse à Avignon, dont **29 seulement** portent `venteParticuliers` à vrai. Sur
+  ces 29 : **4** enseignes de la grande distribution, que `MODERATION.md` écarte comme commerces
+  généralistes ; **2** opérateurs installés au marché d'intérêt national, qui est un carreau de
+  gros ; **2** boulangeries, que la règle 4 ne rattache pas à `magasin-bio` sans source
+  indépendante décrivant une vente de produits fermiers ; et 21 autres, dont sont sortis les trois
+  retenus de cette passe — la boutique de la Ceinture verte et le magasin biologique de la
+  Cristole, publiés, et la ferme de Montfavet, ajournée ci-dessus. Les marchés et l'AMAP de la
+  passe, eux, ne viennent pas de ce registre mais de la Ville et du réseau régional.
+- **Deux enseignes du registre laissées de côté faute de temps, pas faute de sérieux.** Une
+  champignonnière associative déclarée en production à deux adresses d'Avignon, avec site
+  officiel, et une exploitation fruitière en `EARL` déclarée en production et distribution avec
+  `venteParticuliers` à vrai, portent l'une et l'autre une enseigne véritable et méritent une
+  instruction complète. Elles n'ont pas été instruites : le plafond de cinq était atteint et
+  l'ordre de la règle 167 donnait la priorité aux catégories manquantes. **Déblocage** : aucun,
+  sinon le temps d'une passe — elles se reprennent telles quelles au prochain passage sur Avignon.
+- **Neuf pistes écartées pour doute sur une personne, à Avignon.** Neuf opérateurs du registre bio
+  annoncent une vente aux particuliers à une adresse d'Avignon mais ne sont désignés, dans toutes
+  les sources trouvées, que par le patronyme de leur exploitant : aucune enseigne, aucune page
+  propre, aucun horaire publié pour une clientèle. Le nom patronymique d'une entreprise
+  individuelle n'est pas une enseigne, même en open data ; rien de ces fiches n'est publié, ni
+  ici, ni dans le compte rendu, et **elles ne se rouvrent pas**. Une dixième, qui porte une
+  enseigne suivie d'un patronyme, tombe sous la même réserve tant que l'enseigne seule n'est pas
+  attestée par une source propre.
+- **Une contradiction consignée, non remontée** : le registre national de l'Agence Bio place le
+  siège de l'association qui tient la boutique de la Ceinture verte à 43,926787 / 4,835708 quand la
+  Base Adresse Nationale rend la même adresse postale à 43,923355 / 4,840898, six cents mètres plus
+  au sud-est. `AGENT.md` tranche seul : les coordonnées viennent de la Base, jamais d'une estime ni
+  d'un autre registre.
 
 ### Pistes non publiées à Évreux
 

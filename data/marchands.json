@@ -14874,5 +14874,148 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mon%20C%C3%B4t%C3%A9%20Bio%2014%20place%20Georges%20Clemenceau%2027000%20%C3%89vreux",
     "image_url": "/images/marchands/mon-cote-bio-evreux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-producteurs-oulle-avignon",
+    "nom": "Marché des producteurs des allées de l'Oulle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.949586,
+    "lon": 4.801348,
+    "adresse": "Allées de l'Oulle, 84000 Avignon",
+    "horaires": "Le lundi de 17h à 19h, de fin mars à mi-octobre. Le marché ne se tient pas en hiver ; la date de clôture de la saison varie selon les sources (voir la réserve du README).",
+    "produits": [
+      "Fruits de saison",
+      "Légumes de saison",
+      "Pain",
+      "Fromages",
+      "Produits locaux"
+    ],
+    "description": "Marché de producteurs de fin de journée, sur l'esplanade des allées de l'Oulle, entre les remparts et le Rhône. Il rassemble sept étals de producteurs selon le recensement des marchés provençaux confirmé par la Chambre d'agriculture en janvier 2026, et il est l'un des deux marchés de producteurs que la Ville d'Avignon organise hors du centre historique.",
+    "telephone": "04 90 80 80 00",
+    "site_web": "https://www.avignon.fr/ma-ville/marches-et-brocantes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All%C3%A9es%20de%20l'Oulle%2084000%20Avignon",
+    "image_url": "/images/marchands/marche-producteurs-oulle-avignon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-producteurs-montfavet-avignon",
+    "nom": "Marché des producteurs de Montfavet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.935365,
+    "lon": 4.871192,
+    "adresse": "Place de l'Église, Montfavet, 84140 Avignon",
+    "horaires": "Le vendredi de 16h30 à 19h, de fin mars à fin octobre. Le marché ne se tient pas en hiver ; la date de clôture de la saison varie selon les sources (voir la réserve du README).",
+    "produits": [
+      "Fruits de saison",
+      "Légumes de saison",
+      "Fromages",
+      "Produits locaux de saison"
+    ],
+    "description": "Marché du soir installé sur la place de l'Église de Montfavet, au pied de la collégiale Notre-Dame du Bon Repos. Huit étals selon le recensement des marchés provençaux confirmé par la Chambre d'agriculture en janvier 2026 ; l'office de tourisme le décrit comme connu pour sa qualité et ses prix abordables.",
+    "telephone": "04 90 80 80 00",
+    "site_web": "https://www.avignon.fr/ma-ville/marches-et-brocantes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l'%C3%89glise%20Montfavet%2084140%20Avignon",
+    "image_url": "/images/marchands/marche-producteurs-montfavet-avignon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-avignon-sud",
+    "nom": "Biocoop Avignon Sud",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.924896,
+    "lon": 4.852151,
+    "adresse": "240 Rue du Bon Vent, ZAC la Cristole, Montfavet, 84140 Avignon",
+    "horaires": "Lundi de 10h à 19h30, du mardi au samedi de 9h à 19h30. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes locaux et de saison",
+      "Vrac sans emballage",
+      "Pain cuit sur place",
+      "Fromage à la coupe",
+      "Charcuterie à la coupe",
+      "Viandes et poissons frais",
+      "Plats traiteur préparés sur place",
+      "Vins biologiques et bières artisanales"
+    ],
+    "description": "Magasin biologique du sud d'Avignon, dans la zone de la Cristole à Montfavet, avec des rayons à la coupe pour la charcuterie et le fromage, une boulangerie cuite sur place et un comptoir traiteur. La devanture annonce deux cent cinquante produits en vrac et quatre-vingt-dix producteurs locaux. Certification biologique inscrite au registre national de l'Agence Bio, engagée depuis novembre 2019 auprès du Bureau Alpes contrôles.",
+    "telephone": "04 90 39 53 21",
+    "site_web": "https://www.biocoopavignonsud.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Avignon%20Sud%20240%20rue%20du%20Bon%20Vent%2084140%20Avignon",
+    "image_url": "/images/marchands/biocoop-avignon-sud.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "boutique-semailles-avignon",
+    "nom": "La boutique de Semailles",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.923355,
+    "lon": 4.840898,
+    "adresse": "2370 Avenue de la Croix Rouge, 84000 Avignon",
+    "horaires": "Boutique ouverte à tous le mardi et le vendredi de 11h à 18h. Les paniers se retirent aux mêmes créneaux ou aux points de dépôt annoncés par l'association.",
+    "produits": [
+      "Fruits et légumes de saison des jardins",
+      "Œufs biologiques",
+      "Soupes et coulis",
+      "Jus de fruits et de légumes",
+      "Confitures et tartinades",
+      "Miel",
+      "Pâtes, légumineuses et farine",
+      "Huile d'olive"
+    ],
+    "description": "Point de vente directe des jardins maraîchers cultivés en Ceinture verte d'Avignon depuis 1997 par une association d'insertion par l'activité économique, sur seize hectares répartis en trois sites. La boutique est ouverte à tous, sans adhésion, et vend la production des jardins complétée de produits transformés et de quelques références d'épicerie. Certification biologique inscrite au registre national de l'Agence Bio, engagée auprès d'Ecocert depuis avril 1997.",
+    "telephone": "04 90 16 05 05",
+    "site_web": "https://boutique.semaillesavignon.fr/la-boutique-de-vente-directe/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Semailles%202370%20avenue%20de%20la%20Croix%20Rouge%2084000%20Avignon",
+    "image_url": "/images/marchands/boutique-semailles-avignon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-libre-terre-avignon",
+    "nom": "AMAP Libre Terre",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.908791,
+    "lon": 4.882397,
+    "adresse": "Maison de la Bio, 255 Chemin de la Castelette, 84140 Avignon",
+    "horaires": "Distribution le mardi de 17h30 à 18h30, à la Maison de la Bio, derrière le lycée agricole. Paniers réservés aux adhérents, commandés à l'avance par contrat.",
+    "produits": [
+      "Panier de légumes",
+      "Fruits et jus",
+      "Pain",
+      "Œufs",
+      "Fromages",
+      "Viandes",
+      "Poissons",
+      "Miel"
+    ],
+    "description": "AMAP du sud d'Avignon, adhérente au réseau des AMAP de Provence, qui distribue ses paniers le mardi soir à la Maison de la Bio. L'association passe contrat avec une douzaine de fermes pour les légumes, les fruits et jus, le pain, les viandes, les poissons, les œufs, les fromages, les vins, l'huile d'olive, le miel et les champignons, et publie chaque année les certificats biologiques de ses fournisseurs ; tous n'en portent pas, le pilier environnement n'est donc pas coché (règle 60).",
+    "site_web": "https://amaplibreterre.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20de%20la%20Bio%20255%20chemin%20de%20la%20Castelette%2084140%20Avignon",
+    "image_url": "/images/marchands/amap-libre-terre-avignon.jpg",
+    "a_confirmer": true
   }
 ]
