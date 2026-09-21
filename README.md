@@ -3177,9 +3177,30 @@ prioritaires en cas de conflit.
      une phrase que la société exerce aussi une autre activité, prend pour photographie un produit et non un chantier, et
      suit la règle 14 pour les piliers — `environnement` et `economie`, jamais `alimentation` pour une boisson alcoolisée.
 
+245. **Des conditions générales d'utilisation qui nomment les photographies valent les mentions légales de la règle 231, et
+     les mentions qui conditionnent la reprise à la citation de la source se remplissent dans la fiche.** À Poitiers, le site
+     de la coopérative Le Pois Tout Vert n'interdit rien dans ses mentions légales, mais ses conditions générales d'utilisation
+     rangent « les photographies, les images fixes ou animées » parmi les éléments dont « toute représentation totale ou
+     partielle » est interdite sans autorisation. L'office de tourisme de Grand Poitiers, lui, autorise la reproduction de
+     « l'ensemble des informations » de son site sous réserve de ne pas les modifier et de reproduire la mention des droits
+     d'auteur, sans nommer les images ; et la Ville subordonne la reprise sur un support numérique à la mention « Extrait du
+     site internet www.poitiers.fr », en rappelant que ses photographies sont protégées. **Critère** : la règle 231 lit la
+     clause, pas la page qui la porte — pied de page, mentions légales ou conditions générales, une interdiction qui nomme les
+     photographies ferme le site comme source d'image, et l'on descend à l'office de tourisme (règle 230) ; une clause qui
+     autorise sous condition sans nommer les images reste une clause générale (règle 231), et sa condition se remplit comme à
+     la règle 239 : la description se termine par « Photo : <source>, droits réservés », l'image n'est que recadrée,
+     redimensionnée et nettoyée de ses métadonnées (règles 46 et 235). Ici : les cinq images de la passe viennent de l'office
+     de tourisme ou de l'AMAP ; aucune ne vient du site de la coopérative, et la fiche du magasin porte une photographie
+     thématique de la commune au titre des règles 1 et 203.
+
 ## Marchands à confirmer
 
-629 fiches sur 694 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+632 fiches sur 699 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Notre-Dame et ses halles** (Poitiers) (catégorie et piliers des marchés municipaux, sans `environnement` : l'étiquette « produits bio » que la Ville donne au marché ne vaut pas le pilier, **règle 68**. **Registre, règle 106** : marché de la Ville. **Une seule fiche, règle 42** : la Ville consacre deux pages au marché de plein air et aux halles, mais son plan des équipements ne leur donne qu'un seul point, rue du Marché Notre-Dame ; `horaires` porte les deux régimes. **Horaire contesté, règle 55** : « du mardi au samedi » pour les halles sur la page du marché, dans le plan des équipements et à l'office de tourisme, « du lundi au samedi » sur la page des Halles et dans la liste des marchés de la même Ville ; les deux valeurs sont écrites, d'où `a_confirmer`. **Produits** : la liste de la page du marché, sans les rubriques non alimentaires. **Point** : place Charles de Gaulle à la Base Adresse Nationale (0,973), à 16 m du point de la Ville. **Photo, règle 245** : vue plongeante du marché de plein air devant Notre-Dame-la-Grande, publiée par l'office de tourisme sur sa fiche du marché, passants trop lointains pour être reconnus, 1 280 × 846.)
+- **Marché Carmago** (Poitiers) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jour et heure** : vendredi 16h-20h, identiques sur la page de la Ville, son plan des équipements et la fiche de l'office de tourisme. **Produits** : les quatre familles que publie la Ville. **Point, règle 64** : la Base Adresse Nationale ignore le square de la République ; le point est celui du plan des équipements de la Ville, qui se retourne à 16 m du 16 rue de Magenta, en bordure du square. **Photo, règles 46 et 185** : la photographie que l'office attache au marché — la même vue que celle de la Ville — montre une marchande de profil au premier plan ; recadrée à droite de son visage, elle garde 700 × 566, au seuil de la règle 185.)
+- **Marché des Couronneries** (Poitiers) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Règle 119** : la Ville liste quinze familles de produits, dont trois non alimentaires ; la composition publiée n'est pas majoritairement non alimentaire, vêtements et articles de maison restent hors de `produits` et sont dits dans la description. **Jour et heure** : mercredi et dimanche 8h30-13h30, Ville et office concordants. **Point** : place de Provence à la Base Adresse Nationale (0,973), à 21 m du point de la Ville. **Photo** : étal de légumes publié par l'office de tourisme sur la fiche du marché, recadré sous les visages des clients, 1 280 × 594.)
+- **Biocoop Le Pois Tout Vert Saint-Éloi** (Poitiers) (`magasin-bio`, règle 3. **Registre, règle 6** : société coopérative LE POIS TOUT VERT active, établissement ouvert au 20 rue de Bonneuil-Matours, qui est aussi son siège. **Pilier `environnement`** : certificat Ecocert engagé le 2 décembre 2005 sur le SIRET de ce magasin. **Règle 7** : le registre place dans le magasin un établissement d'une société de boucherie distincte ; la fiche le dit et garde la boucherie dans `produits`. **Règle 86** : la page « producteurs locaux » en nomme onze ; la fiche en cite deux par leur commune, pas par leur nom. **Horaires et téléphone** : page du magasin. **Point** : 20 rue de Bonneuil Matours à la Base Adresse Nationale (0,972), à 25 m des coordonnées publiées par le magasin. **Photo, règles 1, 203 et 245** : les conditions générales du site de la coopérative interdisent la reproduction des photographies et l'office de tourisme ne fiche pas le magasin ; l'image est une vue de Notre-Dame-la-Grande, recadrée dans une photographie de l'office, et la description dit qu'elle ne montre pas le magasin, d'où `a_confirmer`. La page du magasin nomme son responsable : non repris.)
+- **AMAP du Chaudron d'Or** (Poitiers) (catégorie et piliers des AMAP, sans `environnement` : les produits sont dits bio par l'AMAP, sans vérification au registre. **Activité, règle 195** : l'association publie en septembre 2026 son journal de cultures et le calendrier des producteurs associés, et ses contrats de la saison 2026-2027. **Lieu et heure** : « derrière le RU Champlain », le vendredi de 17h15 à 18h45, sur le site de l'AMAP ; un annuaire tiers écrit « devant la Maison des étudiants », voisine du restaurant — c'est l'association qui fixe le lieu (règle 104). **Point** : les coordonnées que le Crous publie pour le restaurant universitaire Champlain, à 33 m du 9 rue Théodore Lefebvre de la Base Adresse Nationale ; la distribution se tient derrière le bâtiment, d'où `a_confirmer`. **Téléphone, règle 229** : le seul numéro publié est le portable du maraîcher, présenté par son prénom : non repris. **Photo, règle 232** : une serre de tomates publiée par l'AMAP dans sa médiathèque en juillet 2026, recadrée, 1 280 × 863. Les producteurs associés tenus en nom propre ne sont pas nommés.)
 - **Marché biologique du jeudi, place du Palais de Justice** (Chambéry) (catégorie et piliers des marchés, sans `environnement`. **Source, règle 196** : la page des marchés de la Ville ne le cite pas ; l'association organisatrice publie elle-même le jour, le lieu et l'heure sur son site, et l'office de tourisme le fiche aussi (mise à jour de mai 2025). Un communiqué de l'association, daté de septembre 2026, rapporte que la Ville ne souhaite pas étendre ce marché et le renvoie vers celui du mercredi place de Genève : le marché existe, la commune ne le promeut pas. **Horaire, règle 179** : 13h30-19h selon l'association, 15h-19h selon l'office ; c'est l'organisateur qui donne l'heure de vente, l'autre valeur est citée. **Pas d'`environnement`, règle 121** : deux des trois exploitations nommées par l'association sont engagées au registre de l'Agence Bio (la ferme de paysans boulangers de Velanne depuis mars 2015, le maraîcher de Saint-Bueil depuis mars 2014), la troisième n'y est pas retrouvée sous son enseigne, mais l'association n'est pas elle-même un opérateur certifié : la condition première de la règle 121 manque, la formule « certifiés AB ou Nature et Progrès » est attribuée à l'association. **Point, règle 26** : la place telle que la Base Adresse Nationale la connaît (0,964) ; le marqueur de l'office tombe à 55 m, devant le palais. **Photographie** : l'étal de pain que l'association publie pour ce marché, recadré sous la ligne des épaules pour écarter les visages, 1140 × 400.)
 - **La ferme du Forezan** (Cognin) (micro-ferme maraîchère du parc du Forezan, catégorie `ferme`, dans Grand Chambéry à 2,50 km du barycentre des quatre fiches chambériennes, **règle 52**. **Registre, règle 6** : l'exploitation agricole est active (01.13Z) ; elle est tenue en nom propre et le patronyme n'est repris nulle part, l'enseigne est celle que la ferme publie sur son site. **Pilier `environnement`, règle 43** : certificat engagé en janvier 2020 au registre de l'Agence Bio pour les légumes sous abri et de plein champ. **Horaires** : ceux du site de la ferme ; l'office de tourisme ajoute l'ouverture tous les jours pendant les vacances scolaires et date la saison 2026 du 7 février au 22 novembre. **Point, règle 10** : la Base Adresse Nationale ne connaît pas le 26, seulement le 26a et le 26b ; le point est celui du registre des entreprises, dont le contrôle inverse rend le 26b à 46 m ; le marqueur de l'office est le centre de la voie, à 284 m, et n'est pas retenu. **Photographie** : les planches de légumes et de fleurs publiées par la ferme sur son propre site, sans personne ; celles de l'office sont écartées par la règle 231.)
 - **Marché aux poissons du quai Gambetta** (Boulogne-sur-Mer) (`poissonnerie`, comme les marchés aux poissons de Saint-Raphaël et de Nice, où les pêcheurs vendent leur pêche. **Registre, règle 106** : marché de la Ville, qui le liste parmi ses marchés, « tous les jours ». **Horaires** : ni la Ville ni l'office de tourisme ne publient d'heure — l'office écrit que les horaires « varient en fonction du débarquement de poisson frais », Nausicaá de même ; `horaires` dit « le matin » et rien de plus. **Produits** : espèces citées par l'office et par Nausicaá. **Point, règles 64 et 67** : la Base Adresse Nationale ignore le « quai Gambetta » et la passerelle Marguet ; le marqueur de la fiche de l'office (50,726432 ; 1,599817) se retourne à 28 m du 88 boulevard Léon Gambetta. **Photo, règles 1, 164 et 230** : les mentions légales de l'office de tourisme interdisent nommément la reprise de ses photographies ; la seule photographie des étals que publie la Ville fait 588 px et montre une file de clients de face (plancher de la règle 59) ; l'image est donc un étal de poissonnier du marché de la place Dalton, publié par la Ville, recadré sous les visages, 1 280 × 602, et la description dit qu'elle ne montre pas les aubettes.)
@@ -10187,6 +10208,55 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Poitiers
+
+Passe du 22 septembre 2026. **Département retenu, règle 41** : la **Vienne** (86), déficit **4,4174** sur 694 fiches, devant le
+Finistère (4,3951), les Landes (4,3638) et le Val-de-Marne (4,3618) ; l'outre-mer sort par la règle 177, le dénominateur est
+celui de la règle 224. La passe précédente visait la Savoie, en Auvergne-Rhône-Alpes ; la Vienne est en Nouvelle-Aquitaine, la
+réserve de la règle 41.c ne joue pas. `origin/main` n'avait pas bougé au moment de publier (règle 241). **Commune** : aucune
+fiche dans la Vienne ; Poitiers, 89 916 habitants, est la plus peuplée, et elle rend cinq fiches à elle seule. Après la passe,
+sur 699 fiches, le 86 tombe à **−0,55** ; en tête ensuite : le **Val-de-Marne** (4,4653), le **Finistère** (4,4628), le
+**Rhône** (4,4096), les **Landes** (4,3953).
+
+**Les sources** : la rubrique « Les marchés et brocantes » de `poitiers.fr` et le plan des équipements de la Ville (service
+cartographique de Grand Poitiers, couche « Marché et brocante sur Poitiers ») ; les fiches de l'office de tourisme de Grand
+Poitiers (`visitpoitiers.fr`, images servies par le réseau Iris) ; le site de la coopérative Le Pois Tout Vert ; le site de
+l'AMAP du Chaudron d'Or ; la page du Crous pour le restaurant universitaire Champlain ; le registre de l'Agence Bio, **1 119**
+opérateurs lus dans la Vienne ; le registre des entreprises ; la Base Adresse Nationale. Ces sources nomment des exploitants, un
+responsable de magasin, des producteurs associés et des photographes : aucun nom n'est repris.
+
+**Contradictions consignées** :
+- Halles Notre-Dame : « du mardi au samedi » (page du marché, plan des équipements, office de tourisme) contre « du lundi au
+  samedi » (page des Halles, liste des marchés), toutes publications de la Ville ou de l'office ; les deux valeurs figurent
+  dans la fiche (règle 55), qui reste `a_confirmer`.
+- AMAP du Chaudron d'Or : « derrière le RU Champlain » sur son site, « devant la Maison des étudiants » dans un annuaire tiers ;
+  les deux bâtiments se touchent, c'est l'association qui fixe le lieu.
+
+**Restent à instruire, pour une passe suivante** :
+- Poitiers, quatre marchés de quartier de la Ville, tous vérifiés (jour, heure, point du plan des équipements) et laissés de
+  côté par le plafond de cinq (règle 167) : Bel-Air (vendredi 9h-14h, rue Émile Roux, 11 étals), Montgorges (mercredi 14h-20h,
+  rue Léopold Sédar Senghor, 6 étals), Clos Gaultier (jeudi 9h-14h, place Léon Jouhaux, 9 étals), Montierneuf ou « des
+  Trois-Quartiers » (mardi 16h-20h, place Montierneuf, depuis mai 2024). Les photographies examinées de Bel-Air, Montgorges et
+  Montierneuf montrent des visages, celle du Clos Gaultier n'a pas été examinée ; Montierneuf n'a qu'une image de 600 px à la
+  Ville. Déblocage : une photographie sans visage identifiable, ou recadrable
+  au-dessus de 700 px (règles 46 et 185). Le marché de Bellejouanne (vendredi matin, deux étals) est trop mince pour une fiche.
+- Poitiers, deux autres magasins Biocoop de la même coopérative : place Charles de Gaulle (certifié depuis janvier 2021) et
+  zone commerciale de Poitiers Sud, route de la Saulaie (certifié depuis avril 2021, avec poissonnerie). Faits complets sur le
+  site de la coopérative ; laissés de côté pour ne pas mettre deux magasins de la même enseigne dans une passe de cinq, et
+  faute d'image permise (règle 245).
+- Poitiers, magasin d'un producteur de fruits de Roches-Prémarie-Andillé, avenue du Plateau des Glières, enseigne active au
+  registre, fiché par l'office de tourisme avec deux photographies : le site du producteur ne répond pas depuis cet
+  environnement et les horaires ne viennent que d'annuaires tiers (règles 62 et 192). Déblocage : un horaire publié par
+  l'exploitant ou par une autorité.
+- Poitiers, biscuiterie de broyés du Poitou de la zone République, fichée par l'office de tourisme avec des heures
+  d'ouverture en semaine : rien ne dit qu'une boutique y reçoive le public. Déblocage : une page de l'entreprise qui annonce la vente sur place.
+- Poitiers, seconde AMAP de la ville, née en 2008, deux points de distribution le jeudi soir selon un moteur de recherche :
+  non instruite dans cette passe, la page de son site qui les décrirait n'a pas été relue. À reprendre depuis son site.
+- Écartés d'emblée au registre de l'Agence Bio, sans autre instruction : les supérettes, supermarchés et hypermarchés certifiés
+  de la commune (commerces généralistes, `MODERATION.md`), les grossistes et les sièges sans vente aux particuliers.
+- Écartée pour doute sur une personne : Poitiers, micro-ferme maraîchère de l'ouest de la ville, vente de paniers à une adresse
+  en zone résidentielle qui est aussi celle d'une entreprise tenue en nom propre (règle 243).
 
 ### Pistes non publiées à Chambéry et dans Grand Chambéry
 

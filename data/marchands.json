@@ -18472,5 +18472,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20ferme%20du%20Forezan%2C%20Cognin",
     "image_url": "/images/marchands/ferme-du-forezan-cognin.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-notre-dame-poitiers",
+    "nom": "Marché Notre-Dame et ses halles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.583869,
+    "lon": 0.344079,
+    "adresse": "Place Charles de Gaulle, 86000 Poitiers",
+    "horaires": "Halles couvertes : du mardi au samedi de 7h à 13h, jusqu'à 20h pour la restauration, selon la page du marché, le plan des équipements de la Ville et l'office de tourisme (la page des Halles et la liste des marchés de la Ville écrivent « du lundi au samedi ») ; marché de plein air : le samedi de 7h à 13h. Pas de marché les jours fériés selon l'office de tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Viandes et charcuteries",
+      "Poissons et fruits de mer",
+      "Pains et pâtisseries",
+      "Produits de la ferme",
+      "Fleurs et plantes",
+      "Épices et herbes aromatiques"
+    ],
+    "description": "Le marché du centre-ville, sur la place que les Poitevins appellent « place du marché », au pied de Notre-Dame-la-Grande : vingt-sept commerçants permanents dans les halles couvertes et, le samedi, quatre-vingts à quatre-vingt-dix étals en plein air, alimentaires et non alimentaires, d'après la Ville. La Ville y signale des produits de la ferme, des produits en circuit court et des étals bio. Photo : Office de tourisme de Grand Poitiers, droits réservés.",
+    "site_web": "https://www.poitiers.fr/le-marche-notre-dame",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Charles%20de%20Gaulle%2C%2086000%20Poitiers",
+    "image_url": "/images/marchands/marche-notre-dame-poitiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-carmago-poitiers",
+    "nom": "Marché Carmago",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.579309,
+    "lon": 0.340131,
+    "adresse": "Square de la République, 86000 Poitiers",
+    "horaires": "Le vendredi de 16h à 20h",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Crustacés",
+      "Produits de la ferme"
+    ],
+    "description": "Petit marché de fin d'après-midi, à deux pas de l'hôtel de ville, que la Ville présente comme exclusivement alimentaire et consacré aux producteurs locaux, avec six étals. La Base Adresse Nationale ne connaît pas le square : le point est celui du plan des équipements de la Ville. Photo : Office de tourisme de Grand Poitiers, droits réservés.",
+    "site_web": "https://www.poitiers.fr/le-marche-carmago",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Square%20de%20la%20R%C3%A9publique%2C%2086000%20Poitiers",
+    "image_url": "/images/marchands/marche-carmago-poitiers.jpg"
+  },
+  {
+    "slug": "marche-des-couronneries-poitiers",
+    "nom": "Marché des Couronneries",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.589205,
+    "lon": 0.357746,
+    "adresse": "Place de Provence, 86000 Poitiers",
+    "horaires": "Le mercredi et le dimanche de 8h30 à 13h30",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Viandes et charcuteries",
+      "Poissons et fruits de mer",
+      "Pains et pâtisseries",
+      "Produits de la ferme",
+      "Épices et herbes aromatiques",
+      "Produits bio"
+    ],
+    "description": "Plus de deux cents étals deux matins par semaine, ce qui en fait selon la Ville le plus grand marché de Poitiers et de la Vienne ; on y trouve des producteurs locaux à côté des cuisines du monde, et aussi des vêtements et des articles de maison. Une brocante se tient les mêmes jours sur la même place. Photo : Office de tourisme de Grand Poitiers, droits réservés.",
+    "site_web": "https://www.poitiers.fr/le-marche-des-couronneries",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20Provence%2C%2086000%20Poitiers",
+    "image_url": "/images/marchands/marche-des-couronneries-poitiers.jpg"
+  },
+  {
+    "slug": "biocoop-le-pois-tout-vert-saint-eloi-poitiers",
+    "nom": "Biocoop Le Pois Tout Vert Saint-Éloi",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.585926,
+    "lon": 0.366587,
+    "adresse": "20 Rue de Bonneuil Matours, 86000 Poitiers",
+    "horaires": "Du lundi au vendredi de 9h30 à 19h30, le samedi de 9h30 à 19h ; fermé le dimanche",
+    "produits": [
+      "Fruits et légumes de saison, en grande partie de maraîchers locaux",
+      "Pains locaux",
+      "Fromages à la coupe, dont des fromages de chèvre bio de la Vienne",
+      "Boucherie et charcuterie",
+      "Plats du traiteur",
+      "Épicerie et vrac",
+      "Lentilles, pois chiches et conserves d'un céréalier de la Vienne"
+    ],
+    "description": "Premier magasin, ouvert en 1991, de la coopérative Le Pois Tout Vert, qui tient trois magasins Biocoop à Poitiers et un à Châtellerault ; elle publie la liste de ses producteurs locaux, parmi lesquels une chèvrerie bio de La Bussière et un fabricant de tisanes de Migné-Auxances. Le registre de l'Agence Bio certifie ce magasin depuis décembre 2005 ; le rayon boucherie y est tenu par une société distincte. Photo d'illustration : Notre-Dame-la-Grande, Office de tourisme de Grand Poitiers, droits réservés ; elle ne montre pas le magasin.",
+    "telephone": "05 49 01 18 96",
+    "site_web": "https://www.biocooplepoistoutvert.fr/presentation-detaillee",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Le%20Pois%20Tout%20Vert%2C%2020%20rue%20de%20Bonneuil%20Matours%2C%2086000%20Poitiers",
+    "image_url": "/images/marchands/biocoop-le-pois-tout-vert-saint-eloi-poitiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-du-chaudron-d-or-poitiers",
+    "nom": "AMAP du Chaudron d'Or",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.56907,
+    "lon": 0.387439,
+    "adresse": "Restaurant universitaire Champlain, 9 Rue Théodore Lefebvre, 86000 Poitiers",
+    "horaires": "Distribution le vendredi de 17h15 à 18h45, derrière le restaurant universitaire Champlain, sur le campus, d'après le site de l'AMAP. Réservé aux adhérents sous contrat ; les contrats de la saison 2026-2027 sont publiés.",
+    "produits": [
+      "Légumes bio de saison d'un maraîcher de la Vienne",
+      "Fromages, yaourts et lait de chèvre",
+      "Œufs bio",
+      "Petits fruits bio, gelées et confitures",
+      "Bœuf et veau bio, une fois par mois",
+      "Huile d'olive et olives",
+      "Miel",
+      "Produits du commerce équitable"
+    ],
+    "description": "AMAP née en 2009 autour de l'installation d'un maraîcher bio à Adriers, dans le sud de la Vienne, qui livre aujourd'hui une soixantaine de paniers par semaine ; une douzaine de producteurs associés passent à la distribution, chaque semaine, chaque mois ou de temps à autre, et l'association publie encore en septembre 2026 le journal des cultures et le calendrier de leurs venues. Les produits sont dits bio par l'AMAP, sans vérification au registre ici. Photo : une serre de tomates, publiée par l'AMAP.",
+    "site_web": "https://amap-duchaudrondor.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20universitaire%20Champlain%2C%209%20rue%20Th%C3%A9odore%20Lefebvre%2C%2086000%20Poitiers",
+    "image_url": "/images/marchands/amap-du-chaudron-d-or-poitiers.jpg",
+    "a_confirmer": true
   }
 ]
