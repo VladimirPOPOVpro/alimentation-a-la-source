@@ -15390,5 +15390,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=204%20Grand%27Rue%2067500%20Haguenau",
     "image_url": "/images/marchands/amap-de-haguenau.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-saint-vincent-chalon",
+    "nom": "Marché alimentaire de la place Saint-Vincent",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.782103,
+    "lon": 4.858427,
+    "adresse": "Place Saint-Vincent et rue aux Fèvres, 71100 Chalon-sur-Saône",
+    "horaires": "Vendredi et dimanche matin, toute l'année. Le dépliant « Les marchés dans le Grand Chalon » de l'office de tourisme, daté de février 2026, annonce 7h30-12h30 ; la fiche en ligne du même office annonce 8h-13h. La Ville publie le jour et le lieu, pas les heures.",
+    "produits": [
+      "Volaille de Bresse",
+      "Bœuf charolais",
+      "Escargots",
+      "Charcuterie",
+      "Fromages",
+      "Fruits et légumes",
+      "Vins"
+    ],
+    "description": "Le marché alimentaire du centre ancien, au pied de la cathédrale, que l'office de tourisme présente comme une institution chalonnaise ; la Ville le situe sur la place Saint-Vincent et la rue aux Fèvres, les deux mêmes matinées. La liste de produits ci-dessus est celle que l'office attribue, sur sa page consacrée aux marchés, au marché du vendredi et du dimanche matin : aucun décompte d'étals n'est publié.",
+    "site_web": "https://www.chalon.fr/decouvrir-la-ville/les-marches-661.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Vincent%2071100%20Chalon-sur-Sa%C3%B4ne",
+    "image_url": "/images/marchands/marche-place-saint-vincent-chalon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-hotel-de-ville-chalon",
+    "nom": "Marché alimentaire de la place de l'Hôtel de Ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.780918,
+    "lon": 4.853069,
+    "adresse": "Place de l'Hôtel de Ville, 71100 Chalon-sur-Saône",
+    "horaires": "Mercredi matin, toute l'année. Le dépliant de l'office de tourisme de février 2026 annonce 7h30-13h ; l'annuaire J'veux du local de la Chambre d'agriculture de Saône-et-Loire, qui reprend les coordonnées de la Ville, annonce 7h30-12h30.",
+    "produits": [
+      "Produits alimentaires"
+    ],
+    "description": "Marché alimentaire hebdomadaire installé le mercredi matin devant l'hôtel de ville. Aucune des trois sources — la Ville, l'office de tourisme et l'annuaire de la Chambre d'agriculture — ne détaille les étals : elles écrivent toutes « marché alimentaire », et la fiche s'en tient là plutôt que d'inventer un assortiment. La photographie est une image de marché chalonnais publiée par l'office, pas une vue de cette place.",
+    "site_web": "https://www.chalon.fr/decouvrir-la-ville/les-marches-661.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l'H%C3%B4tel%20de%20Ville%2071100%20Chalon-sur-Sa%C3%B4ne",
+    "image_url": "/images/marchands/marche-hotel-de-ville-chalon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marcel-et-fils-bio-chalon",
+    "nom": "Marcel & Fils Bio Chalon-sur-Saône",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.772797,
+    "lon": 4.865729,
+    "adresse": "13 Rue René Cassin, 71100 Chalon-sur-Saône",
+    "horaires": "Du lundi au samedi de 9h à 19h30. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio de producteurs partenaires",
+      "Vrac : céréales, graines, produits ménagers",
+      "Épicerie sucrée et salée",
+      "Boulangerie",
+      "Boucherie",
+      "Vins et spiritueux",
+      "Compléments alimentaires"
+    ],
+    "description": "Magasin biologique de l'avenue commerçante du sud de Chalon, repris par l'enseigne à l'été 2022 avec le réseau de magasins qu'elle a racheté — c'est ce que sa propre page de magasin explique. L'établissement est actif au registre des entreprises à cette adresse, et l'opérateur qui l'exploite y est engagé au registre national de l'Agence Bio, certifié par Bureau Alpes Contrôles depuis décembre 2023. La photographie est celle que l'enseigne publie sur la page de ce magasin ; rien n'indique dans quel magasin du réseau elle a été prise.",
+    "telephone": "03 85 49 90 00",
+    "site_web": "https://marceletfils.com/pages/chalon-sur-saone",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcel%20%26%20Fils%2013%20rue%20Ren%C3%A9%20Cassin%2071100%20Chalon-sur-Sa%C3%B4ne",
+    "image_url": "/images/marchands/marcel-et-fils-bio-chalon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-chalon-bourgogne",
+    "nom": "Biocoop Chalon Bourgogne",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.793927,
+    "lon": 4.830521,
+    "adresse": "2 Rue de la Guerlande, 71880 Châtenoy-le-Royal",
+    "horaires": "Du lundi au dimanche de 9h à 19h. Fermé les jours fériés.",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Plus de trois cents références en vrac",
+      "Pain frais à la coupe",
+      "Fromage à la coupe",
+      "Charcuterie et traiteur",
+      "Cave : vins et bières de producteurs"
+    ],
+    "description": "Magasin biologique de six cents mètres carrés dans la zone commerciale de Châtenoy-le-Royal, à quatre kilomètres du centre de Chalon, qui annonce travailler avec plus de cinquante producteurs locaux et tient des rayons à la coupe. L'établissement est actif au registre des entreprises depuis mai 2021 et l'opérateur qui l'exploite à cette adresse est engagé chez Ecocert au registre national de l'Agence Bio depuis septembre 2021. La Base Adresse Nationale ignore le numéro 2 de cette rue et connaît le 2c : c'est ce point qui est publié, à dix-sept mètres de celui du registre.",
+    "telephone": "03 85 48 74 40",
+    "site_web": "https://chalon.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Chalon%20Bourgogne%202%20rue%20de%20la%20Guerlande%2071880%20Ch%C3%A2tenoy-le-Royal",
+    "image_url": "/images/marchands/biocoop-chalon-bourgogne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-chatenoy-en-bresse",
+    "nom": "Marché des producteurs de Châtenoy-en-Bresse",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.790524,
+    "lon": 4.91323,
+    "adresse": "Parc du château, 4 rue de la Chapelle, 71380 Châtenoy-en-Bresse",
+    "horaires": "Le deuxième vendredi du mois, de 16h à 19h. L'office de tourisme annonce une saison d'avril à novembre ; la page du Grand Chalon annonce du 14 mars au 14 novembre et ne publie que des dates passées.",
+    "produits": [
+      "Viandes",
+      "Escargots",
+      "Miel et épices",
+      "Œufs",
+      "Fromage de chèvre",
+      "Légumes et plants",
+      "Jus de pommes",
+      "Bières artisanales et vins"
+    ],
+    "description": "Marché mensuel de producteurs et d'artisans dans le parc du château, à cinq kilomètres à l'est de Chalon, organisé par la commune et annoncé par l'agglomération. La liste des produits est celle que publie le Grand Chalon, qui cite aussi des savons, des compositions florales et des articles de décoration, non repris ici. La photographie est celle qui illustre la page de l'agglomération ; les ardoises qu'on y lit sont celles d'un maraîcher de Saint-Marcel, et rien ne dit qu'elle a été prise sur ce marché-ci.",
+    "site_web": "https://www.legrandchalon.fr/evenements/marche-des-producteurs/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc%20du%20ch%C3%A2teau%204%20rue%20de%20la%20Chapelle%2071380%20Ch%C3%A2tenoy-en-Bresse",
+    "image_url": "/images/marchands/marche-des-producteurs-chatenoy-en-bresse.jpg",
+    "a_confirmer": true
   }
 ]

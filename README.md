@@ -2635,9 +2635,39 @@ prioritaires en cas de conflit.
      défaut du site.
 
 
+204. **Quand la commune publie le jour et le lieu d'un marché mais aucune heure, l'horaire vient du
+     dépliant daté de l'office de tourisme, et l'annuaire de chambre d'agriculture sert de
+     contrôle.** Précision de la règle 97, qui écartait l'annuaire d'une chambre d'agriculture
+     parce que sa fiche décrivait le stand d'un producteur et non le marché. Chalon-sur-Saône pose
+     le cas inverse : la page « Les marchés » de la Ville donne les quatre séances, leur jour et
+     leur place, et **pas une heure** ; l'office de tourisme publie un dépliant daté de février
+     2026 qui donne l'heure des vingt-quatre marchés de l'agglomération ; et les fiches de
+     l'annuaire « J'veux du local » de la Chambre d'agriculture de Saône-et-Loire portent, pour
+     chacun de ces marchés, **le standard et l'adresse de courriel de la Ville** — ce ne sont pas
+     des stands de producteur, ce sont des relais de la commune. **Critère** : l'heure publiée est
+     celle du dépliant daté de l'office ; celle de l'annuaire est citée dans `horaires` quand elle
+     diffère, et la fiche passe en `a_confirmer`. Ce que la règle 97 interdit reste interdit : la
+     liste de produits d'un tel annuaire ne se présente jamais comme l'inventaire du marché.
+
+205. **Deux documents d'une même autorité se contredisent sur un horaire, et cette autorité n'est
+     pas l'organisateur : le document daté passe en tête, l'autre est cité.** La règle 162 tranchait
+     le même désaccord en faveur de la collectivité qui organise le marché — recours indisponible
+     ici, puisque la Ville de Chalon ne publie aucune heure. L'office de tourisme, lui, écrit
+     7h30-12h30 dans son dépliant « Les marchés dans le Grand Chalon » de février 2026 et 8h-13h
+     sur la fiche en ligne du même marché. **Critère** : entre deux documents d'une même autorité
+     tierce, celui qui porte une date de publication passe en tête de `horaires`, l'autre est
+     nommé à la suite, et la fiche passe en `a_confirmer` — une demi-heure d'écart au départ d'un
+     marché coûte un déplacement pour rien, elle ne se choisit pas en silence.
+
+
 ## Marchands à confirmer
 
-538 fiches sur 579 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+543 fiches sur 584 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché alimentaire de la place Saint-Vincent** (Chalon-sur-Saône) (le marché du centre ancien, vendredi et dimanche matin, catégorie et piliers des marchés communaux. **Deux autorités, deux découpages** : la Ville publie le jour et le lieu — « place Saint-Vincent et rue aux Fèvres », marché alimentaire — et aucune heure ; l'office de tourisme publie les heures. **Écart interne à l'office, règle 205, née ici** : son dépliant « Les marchés dans le Grand Chalon » daté de février 2026 écrit 7h30-12h30, sa fiche en ligne du même marché écrit 8h-13h ; le dépliant daté passe en tête, l'autre version est nommée dans `horaires`. **Produits, règle 74 appliquée à un texte** : la page « Plongez dans l'effervescence des marchés » de l'office énumère volaille de Bresse, bœuf charolais, escargots, vins, charcuterie, fromages, fruits et légumes et rattache explicitement cette énumération « au marché du vendredi et dimanche matin » — c'est la seule source qui nomme des étals, et rien n'a été ajouté. Aucun décompte de commerçants n'est publié. **Point** : centre de la place Saint-Vincent à la Base Adresse Nationale, score 0,965, contrôle inverse à 0 m. **Photo** : la photographie que l'office attache à cette fiche de marché, 4 724 × 3 153, **recadrée au tiers haut, 1 280 × 591** — il reste les maisons à colombages de la place et la ligne des bâches ; la moitié basse de l'original est pleine de clients et de marchands reconnaissables. Le nom du photographe, que porte le nom de fichier d'origine, n'est pas repris.)
+- **Marché alimentaire de la place de l'Hôtel de Ville** (Chalon-sur-Saône) (marché du mercredi matin, mêmes catégorie et piliers. **Règle 204, née ici** : la Ville donne le jour et la place sans heure ; le dépliant de l'office de février 2026 écrit 7h30-13h ; la fiche de l'annuaire « J'veux du local » de la Chambre d'agriculture de Saône-et-Loire écrit 7h30-12h30 — et cette fiche porte le standard et l'adresse de courriel de la Ville, ce n'est donc pas le stand d'un producteur au sens de la règle 97. Les deux versions sont dans `horaires`. **Produits, règle 92** : aucune des trois sources ne nomme un seul étal ; toutes écrivent « marché alimentaire », et `produits` s'arrête à cette seule entrée plutôt que de la découper en trois. La page gastronomie de l'office cite bien une liste de spécialités, mais elle l'attribue « au marché bio du mercredi matin » sans nommer de place, et Chalon compte **deux** marchés le mercredi matin — la liste n'a donc été reprise sur aucun des deux. **Point** : centre de la place de l'Hôtel de Ville à la Base, score 0,965, contrôle inverse à 0 m. **Photo, règles 1 et 46** : les quatre photographies de la page des marchés de la Ville ne sont publiées qu'en 320 px de large, inutilisables en bandeau ; c'est une photographie de rue marchande chalonnaise de l'office qui sert d'illustration thématique, **recadrée en bande basse, 1 280 × 300**, sur les cageots de salades — aucun visage, et la fiche dit que l'image ne montre pas cette place.)
+- **Marcel & Fils Bio Chalon-sur-Saône** (Chalon-sur-Saône) (magasin biologique de l'avenue commerçante du sud de la ville, catégorie `magasin-bio` et règle 3, comme les deux magasins varois de la même enseigne déjà publiés. **Registre des entreprises, règle 6** : la société qui exploite le réseau en Bourgogne-Franche-Comté a un établissement **actif** au 13 rue René Cassin ; deux sociétés antérieures à la même adresse, dont l'une portait l'enseigne précédente, sont fermées — c'est la reprise de l'été 2022 que le magasin raconte lui-même. **Pilier `environnement`, règle 21** : l'opérateur déclare cette adresse au registre national de l'Agence Bio, certificat Bureau Alpes Contrôles engagé depuis le 26 décembre 2023. **Horaires, téléphone, produits** : la page que l'enseigne consacre à ce magasin, seule source à les publier. **Point** : 13 rue René Cassin à la Base, score 0,968, contrôle inverse à 0 m ; le point du registre tombe à 22 m. **Photo** : l'image de cette page de magasin, un rayon de vrac sans personne, 1 600 × 1 200 ramenés à 1 280 × 960 ; rien n'indique dans quel magasin du réseau elle a été prise, et la fiche le dit.)
+- **Biocoop Chalon Bourgogne** (Châtenoy-le-Royal) (magasin biologique de 600 m² en zone commerciale, catégorie `magasin-bio`. **Élargissement à l'agglomération, règle 96** : Châtenoy-le-Royal appartient au Grand Chalon, le magasin est à 4 km du centre de Chalon, et trois fiches de la passe sont dans la commune-centre. **Registre, règle 6** : établissement actif depuis mai 2021 à cette adresse, sous une raison sociale qui n'est pas l'enseigne — c'est l'enseigne du réseau, celle de la façade et du site du magasin, qui est publiée, comme pour la Biocoop du Bessillon. **Pilier `environnement`** : le même opérateur est engagé chez Ecocert au registre de l'Agence Bio depuis le 8 septembre 2021, et le registre pointe vers ce même site de magasin. **Horaires, téléphone et produits** : ceux que le magasin publie, sept jours sur sept de 9h à 19h. **Point, règles 10 et 63** : la Base Adresse Nationale ignore le numéro 2 de la rue de la Guerlande mais connaît le **2c**, à 17 m du point du registre — c'est le 2c qui est publié, l'adresse restant celle qu'écrivent le magasin et le registre. **Photo** : l'étal de fruits et légumes que le magasin publie sur son propre site, 1 920 × 887 ramenés à 1 280, personne dans le cadre.)
+- **Marché des producteurs de Châtenoy-en-Bresse** (Châtenoy-en-Bresse) (marché mensuel de producteurs dans le parc du château, le deuxième vendredi du mois de 16h à 19h ; catégorie et piliers des marchés. **Élargissement à l'agglomération, règle 96** : la commune est dans le Grand Chalon, à 5 km du centre de Chalon. **Deux autorités, un écart de saison, règle 5** : le dépliant de l'office de février 2026 écrit « d'avril à novembre », la page de l'agglomération « du 14 mars au 14 novembre » et n'affiche que des dates échues ; les deux versions sont dans `horaires` et la fiche ne promet aucune date précise. **Adresse** : « parc du château » pour l'office, « parc de Châtenoy-en-Bresse, 4 rue de la Chapelle » pour l'agglomération — les deux désignent le même parc, et c'est le numéro de l'agglomération qui est géocodé, score 0,948, contrôle inverse à 0 m. **Produits** : la liste de l'agglomération, dont les savons, compositions florales et articles de décoration ont été retirés, MODERATION.md n'admettant que l'alimentaire. **Photo** : l'image que l'agglomération publie sur cette page d'événement, un étal de côtes de bettes et d'herbes, **recadrée à 780 × 673** pour écarter deux silhouettes des bords ; les ardoises lisibles y annoncent un maraîcher de Saint-Marcel, ce que la fiche signale plutôt que de laisser croire que l'image a été prise sur ce marché-ci.)
 - **Marché bi-hebdomadaire de Haguenau** (Haguenau) (le marché historique de la commune, sous la halle aux Houblons et sur ses abords, mardi et vendredi de 7h30 à 12h ; catégorie et piliers des marchés municipaux. **Deux autorités, aucun écart** : la page « Les marchés » de la Ville et la fiche de l'office de tourisme du Pays de Haguenau donnent les mêmes jours, les mêmes heures et le même lieu, et l'office ajoute l'adresse de voirie, « 115 Grand'rue, Halle aux Houblons ». **Produits, règle 187** : aucune des deux sources ne publie de liste d'étals ; la Ville écrit « des fruits et légumes à la mercerie, en passant par l'habillement ou divers produits alimentaires » — seules les trois mentions alimentaires sont reprises, la mercerie et l'habillement relevant de ce que MODERATION.md écarte. Les fromages, fraises, tomates et carottes que montrent les photographies de l'office n'alimentent pas `produits`, règle 88. **Calendrier** : la Ville publie quatre transferts aux abords de l'hôtel de ville, cinq annulations de jours fériés, un report de vendredi saint et un périmètre restreint de novembre à janvier pendant le marché de Noël ; `horaires` en garde le principe, pas le détail daté, qui vieillira. **Téléphone, règle 201** : aucun. La page de la Ville n'en porte pas, et le 03 88 06 59 99 que l'office imprime sur sa fiche est celui de sa propre page « Nous contacter ». **Point** : 115 Grand' Rue à la Base Adresse Nationale, score 0,976, contrôle inverse à 0 m. **Photo, règle 46** : une des huit photographies de l'office, la pile de meules d'un fromager devant la charpente métallique et la verrière en plein cintre de la halle — l'original 2 000 × 1 333 montre à droite un couple et une enfant de face, le recadrage à 970 × 700 les écarte tous les trois et garde ce qui rattache l'image au lieu ; rien n'est agrandi.)
 - **Marché gourmand de Haguenau** (Haguenau) (marché de saison des producteurs locaux, le samedi de 8h à 12h30 en zone piétonne sur la place de la République ; catégorie et piliers des marchés. **Deux autorités concordantes** sur le jour, les heures, le lieu et la saison : la Ville et l'office de tourisme. **Produits, règle 187** : les deux sources écrivent « des produits locaux et du terroir » et « un marché basé sur les circuits courts », sans nommer un seul étal ; `produits` n'a donc que deux entrées et aucune n'a été complétée — même discipline qu'à Marseille, au Mont-Mesly et au Pont de Béraud. **Saison** : la Ville publie « du samedi 11 avril au samedi 31 octobre 2026 », des dates d'année civile ; `horaires` dit « d'avril à octobre » et cite les dates 2026 comme les seules publiées. **Téléphone, règle 201** : aucun, pour la même raison que le marché bi-hebdomadaire — le 03 88 90 67 72 de la fiche de l'office est rattaché à l'office par les annuaires inversés, et la page de la Ville ne porte aucun numéro. **Point** : centre de la place de la République à la Base Adresse Nationale, score 0,957, contrôle inverse à 0 m ; la Base ne rend pas de numéro pour cette place, ce qui est le cas normal d'une esplanade, règle 12. **Voisinage** : 116 m du magasin Au Goût d'Ici, deux commerces distincts, chacun garde le point de sa propre source. **Photo, règle 191** : l'office illustre ce marché avec deux fichiers qui sont, aux octets près, deux de ceux de la fiche du marché bi-hebdomadaire ; c'est celui des deux que l'autre fiche n'utilise pas qui sert ici — barquettes de fraises et de tomates sur un étal, 6 192 × 4 128 ramenés à 1 280 × 853, personne dans le cadre.)
 - **Ferme Brandt Arbogast — magasin d'Harthouse** (Haguenau) (magasin de vente directe au fond de la cour de ferme, dans le quartier d'Harthouse, catégorie `ferme`. **Registre des entreprises, règle 6** : société active, deux établissements ouverts, code 47.21Z, au 23 rue Principale Harthouse ; la forme juridique est une société par actions simplifiée, l'enseigne n'est donc pas un patronyme d'entreprise individuelle au sens de MODERATION.md, et la ferme la publie elle-même en titre de page, en `og:site_name` et en mention de copyright sur son propre site, règle 36. **Horaires** : ceux de la page « Magasin d'Harthouse » du site de la ferme — vendredi 9h-19h et samedi 9h-13h en continu, fermé du lundi au jeudi, le dimanche et les jours fériés ; aucune autre source ne publie d'horaire, et la fiche de l'office de tourisme n'en donne pas. **Produits** : ceux que la ferme et l'office décrivent — asperges blanches et vertes, myrtilles, framboises, mûres, rhubarbe, courges et potirons, produits fumés, plats cuisinés et pâtisseries maison. **Règle 29 appliquée** : la description dit noir sur blanc que le magasin vend aussi des produits de partenaires locaux, fraises et pommes de terre selon l'office, à côté de sa propre production. **Pas de pilier `environnement`, règles 14 et 15** : la ferme revendique « la culture raisonnée » et une certification annuelle GLOBALG.A.P. (GGN 4069453319806), plus l'adhésion à Bienvenue à la Ferme ; ni bio, ni HVE, ni Terra Vitis — la description rapporte ce que la ferme revendique sans le traduire en pilier. **Deux autres points de vente non publiés** : un magasin à Durrenbach et des casiers automatiques à Froeschwiller, hors de Haguenau, à reprendre lors d'un passage sur ces communes. **Point** : 23 rue Principale Harthouse à la Base Adresse Nationale, score 0,968, contrôle inverse à 0 m ; le registre place le siège à 70 m, même voie et même numéro. **Photo** : l'intérieur du magasin publié par l'office de tourisme, cageots de poireaux, tomates, courgettes, choux-fleurs et ardoises de prix, 2 500 × 1 875 ramenés à 1 280 × 960, personne dans le cadre.)
@@ -3201,7 +3231,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 579 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 584 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -9536,6 +9566,76 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Chalon-sur-Saône
+
+Passe du 21 septembre 2026, seconde de la journée. **Département retenu, règle 41** : la
+Saône-et-Loire (71), déficit **4,6210** pour 550 310 habitants et **aucune** fiche, sur une base de
+579 fiches. La Réunion arrive devant avec **7,4707** et sort par les règles 93 et 177, comme à
+chaque passe. La Marne (4,7282) venait ensuite mais elle est dans le Grand Est, région visée par la
+passe précédente à Haguenau : la réserve de la règle 41.c l'écarte, et c'est la Saône-et-Loire, en
+Bourgogne-Franche-Comté, qui est retenue. Après la passe, le 71 tombe à **−0,3435** avec cinq
+fiches ; en tête ensuite, outre-mer écarté : le **Doubs**, la **Côte-d'Or**, la **Drôme** et
+l'**Aisne**, tous autour de 4,6 et tous sans fiche.
+
+**Commune** : Chalon-sur-Saône, 45 102 habitants, la plus peuplée du département et sans aucune
+fiche. Elle a rendu trois fiches intra-muros ; les deux dernières viennent du Grand Chalon, à 4 et
+5 km du centre, au titre de la règle 96 — Châtenoy-le-Royal et Châtenoy-en-Bresse, deux communes
+homonymes qu'il ne faut pas confondre.
+
+**Les sources.** La page « Les marchés » de la Ville de Chalon-sur-Saône, qui donne les jours et les
+lieux sans aucune heure ; le dépliant « Les marchés dans le Grand Chalon » de l'office de tourisme,
+daté de février 2026, qui donne l'heure des vingt-quatre marchés de l'agglomération — un PDF à
+polices encodées, illisible au filtre habituel, qu'il faut extraire avec un lecteur de PDF ; la page
+« Plongez dans l'effervescence des marchés » du même office, seule à nommer des produits ; l'annuaire
+« J'veux du local » de la Chambre d'agriculture de Saône-et-Loire ; la page « Marché des
+producteurs » du Grand Chalon ; le registre national de l'Agence Bio, dont la pagination complète
+sur la Saône-et-Loire rend 1 200 opérateurs, dont 44 déclarent une adresse à Chalon ou dans sa
+couronne ; et le registre des entreprises.
+
+- **Le registre de l'Agence Bio, ici encore, est d'un faible rendement.** Sur les 44 opérateurs de
+  la couronne chalonnaise, on compte six grandes surfaces certifiées — que MODERATION.md écarte
+  comme commerces généralistes —, une dizaine de boulangeries et de préparateurs, autant de
+  grossistes qui ne vendent pas aux particuliers, une série de domaines viticoles de Givry, et une
+  quinzaine d'entrées immatriculées sous un patronyme. Deux enseignes seulement en sont sorties,
+  toutes deux publiées. Le registre a surtout servi de **contrôle** : il a permis de rattacher
+  l'enseigne Biocoop du Grand Chalon à l'opérateur certifié qui l'exploite, et de confirmer la
+  certification du magasin de la rue René Cassin.
+- **Trois commerces bio de la ville sont fermés au registre et n'ont pas été publiés** : une
+  épicerie 100 % bio de la rue au Change, une enseigne de vrac de la rue aux Fèvres et un magasin
+  d'un réseau national de la rue Paul Sabatier. Les trois sont encore présentés comme ouverts par
+  des annuaires commerciaux et par des articles de presse locale. C'est exactement le cas que la
+  règle 6 vise : un site vivant et une fiche d'annuaire survivent des mois à une fermeture.
+- **Deux AMAP chalonnaises restent en piste, faute d'un lieu de distribution stable.** Pour la
+  première, trois sources donnent trois adresses différentes dans la même ville : un annuaire
+  national d'AMAP et le site bio régional la placent dans une cour du centre ancien, l'annuaire de
+  la Chambre d'agriculture sur un quai, et deux articles de la presse locale — dont un de juin 2025,
+  le plus récent — dans la cour d'un équipement culturel. Le blog de l'association n'a pas été mis à
+  jour depuis 2016. Un panier hebdomadaire se retire à un endroit précis : publier une adresse
+  contestée enverrait quelqu'un attendre devant une porte fermée, la règle 5 ne permet pas de la
+  choisir en silence, et la fiche n'est donc pas publiée. La seconde AMAP n'est décrite que par
+  l'annuaire de la Chambre d'agriculture, qui la situe sur un plateau sans numéro de voirie, avec
+  deux jours de distribution possibles selon le contrat ; une seule source, pas de point sûr, pas de
+  fiche. Les deux sont à reprendre si l'une d'elles publie elle-même son lieu.
+- **Deux marchés chalonnais vérifiés mais non publiés, faute de place dans la passe** : le marché
+  mixte des Prés Saint-Jean, le mercredi matin près du centre commercial du quartier, et le marché
+  mixte de la Cité du stade, le jeudi matin. Les deux figurent au dépliant de l'office avec leurs
+  heures et dans l'annuaire de la Chambre d'agriculture — avec, pour les deux, le même écart d'une
+  demi-heure entre les deux sources qu'ailleurs dans cette passe. Le marché du stade est en outre le
+  seul que la Ville range en « tous produits » plutôt qu'en alimentaire. Le marché mixte des
+  Aubépins, le mardi matin, n'est connu que du dépliant de l'office et ne figure pas sur la page des
+  marchés de la Ville : il demande une seconde source avant d'être publié.
+- **Un torréfacteur du centre ancien, écarté pour documentation insuffisante.** L'établissement est
+  actif au registre et inscrit au registre de l'Agence Bio comme vendant aux particuliers ; la règle
+  73 le place bien dans le périmètre. Mais aucune source ne publie ses horaires ni de photographie
+  de l'atelier, et la seule page qui le décrive nomme la personne qui le dirige. Même cas qu'à la
+  brûlerie havraise : périmètre bon, documentation insuffisante.
+- **La page gastronomie de l'office appelle « marché bio » le marché du mercredi matin**, sans
+  nommer de place, alors que la Ville range le marché du mercredi de l'Hôtel de Ville en « marché
+  alimentaire » et que le dépliant du même office compte **deux** marchés chalonnais le mercredi
+  matin. Aucune des deux fiches possibles ne reçoit donc le pilier `environnement`, et la liste de
+  produits de cette page n'a été reprise que pour le marché du vendredi et du dimanche, seul que la
+  phrase désigne sans ambiguïté. Contradiction consignée, règle 5.
 
 ### Pistes non publiées à Haguenau
 
