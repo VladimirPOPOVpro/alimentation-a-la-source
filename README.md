@@ -3139,9 +3139,32 @@ prioritaires en cas de conflit.
      boutique entre deux exploitants peut être fermée des semaines. **Déblocage** : une source datée d'après juillet 2026
      qui nomme l'exploitation par son enseigne et donne ses heures.
 
+241. **Deux passes peuvent tourner en même temps : le département se recalcule sur `origin/main` au moment de publier, et
+     le travail d'une cible devenue caduque part en pistes.** Le 21 septembre 2026, une passe a calculé la Seine-et-Marne
+     (4,4569 sur 679 fiches), a fait sa descente de Combs-la-Ville à Roissy-en-Brie et préparé cinq fiches dans Paris - Vallée
+     de la Marne ; pendant ce temps une autre passe publiait cinq fiches à Nemours, dans le même département, et le poussait
+     à −0,44. Publier le second lot aurait visé deux fois de suite l'Île-de-France, ce que la règle 41.c interdit, sur un
+     département devenu excédentaire. **Critère** : juste avant le commit, `git fetch` ; si `origin/main` a bougé depuis le
+     calcul, on recalcule ; si la cible change, les fiches préparées ne sont pas publiées, leur travail est consigné en pistes
+     (sources, points, photographies retenues) et la passe repart sur le département que désigne le nouveau calcul. On ne
+     force jamais la main à la formule pour sauver un travail fait.
+
+242. **Deux marchés d'un même quai font deux fiches quand chacun a son point, même si une source les dit « face à face ».**
+     À Boulogne-sur-Mer, la Ville liste séparément le marché aux poissons des aubettes, tous les jours, et le marché
+     alimentaire du dimanche, sur le même quai Gambetta. L'ancien site de l'office situe le second au « 10 Quai Gambetta »,
+     « face aux étals à poissons » ; le marqueur que l'office actuel donne aux aubettes se retourne près du 88 du même
+     boulevard, à 287 m. **Critère** : c'est la règle 42 lue par son critère — l'existence de deux points, pas la proximité
+     d'un texte — et la règle 171 pour les deux régimes que l'autorité sépare ; la formule « face aux étals » est rapportée
+     ici, et la fiche du dimanche reste `a_confirmer` jusqu'à ce qu'une source situe ses étals au mètre.
+
 ## Marchands à confirmer
 
-622 fiches sur 684 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+627 fiches sur 689 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché aux poissons du quai Gambetta** (Boulogne-sur-Mer) (`poissonnerie`, comme les marchés aux poissons de Saint-Raphaël et de Nice, où les pêcheurs vendent leur pêche. **Registre, règle 106** : marché de la Ville, qui le liste parmi ses marchés, « tous les jours ». **Horaires** : ni la Ville ni l'office de tourisme ne publient d'heure — l'office écrit que les horaires « varient en fonction du débarquement de poisson frais », Nausicaá de même ; `horaires` dit « le matin » et rien de plus. **Produits** : espèces citées par l'office et par Nausicaá. **Point, règles 64 et 67** : la Base Adresse Nationale ignore le « quai Gambetta » et la passerelle Marguet ; le marqueur de la fiche de l'office (50,726432 ; 1,599817) se retourne à 28 m du 88 boulevard Léon Gambetta. **Photo, règles 1, 164 et 230** : les mentions légales de l'office de tourisme interdisent nommément la reprise de ses photographies ; la seule photographie des étals que publie la Ville fait 588 px et montre une file de clients de face (plancher de la règle 59) ; l'image est donc un étal de poissonnier du marché de la place Dalton, publié par la Ville, recadré sous les visages, 1 280 × 602, et la description dit qu'elle ne montre pas les aubettes.)
+- **Marché de la place Dalton** (Boulogne-sur-Mer) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jours, règle 204** : mercredi et samedi matin sur la page des marchés de la Ville ; l'heure, 8h-12h30, vient de la page « Marchés » de l'ancien site de l'office de tourisme de Boulogne (`tourisme-boulognesurmer.com`), la fiche de l'office actuel (`boulonnaisautop.com`) n'en affichant aucune. **Produits** : la liste de l'office, fleurs comprises ; vêtements et artisanat, cités par l'office, restent hors de `produits`. **Point** : place Dalton à la Base Adresse Nationale (0,966), à 11 m du marqueur de l'office. **Photo, règle 231** : un étal de légumes de la série « marché place Dalton » que la Ville publie sur sa page des marchés, recadré à droite pour écarter un bras, 1 280 × 964 ; ses mentions légales soumettent la reproduction à son accord « en principe » et autorisent la réutilisation non commerciale en citant la source, que la description cite.)
+- **Biocoop Opale Bio** (Boulogne-sur-Mer) (`magasin-bio`, règle 3. **Registre, règle 6** : société ESPACE BIO active, un établissement ouvert au 68 rue Louis Faidherbe. **Pilier `environnement`** : certificat Ecocert engagé le 27 octobre 2005, sans arrêt. **Règle 86** : la page « producteurs locaux » du magasin en nomme trente-quatre, dans le Pas-de-Calais, le Nord et la Somme ; la fiche en cite trois par leur commune, pas par leur nom. **Horaires et téléphone** : page du magasin, identiques sur `biocoop.fr`. **Point** : 68 rue Louis Faidherbe à la Base Adresse Nationale (0,773, score abaissé par l'odonyme abrégé « rue Faidherbe »). **Photo** : la façade publiée par le magasin, recadrée au-dessus de la vitrine où des clients sont attablés, 710 × 325. La page du magasin nomme son responsable : non repris.)
+- **Marché du dimanche du quai Gambetta** (Boulogne-sur-Mer) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Famille de produits, règle 221** : la liste de la Ville donne à chacun de ses quatre marchés une nature, et à celui-ci « alimentaire, circuits courts et terroir » ; `produits` porte cette seule ligne. **Heure, règle 204** : 8h-12h30, ancien site de l'office de tourisme. **Point, règle 242, née ici** : 10 boulevard Léon Gambetta, adresse que donne l'ancien site de l'office (« 10 Quai Gambetta »), à 287 m du marqueur des aubettes. **Photo, règles 1 et 164** : un étal de salades du marché de la place Dalton, publié par la Ville, recadré sous les passants, 1 280 × 507 ; la description dit qu'elle ne montre pas ce marché.)
+- **Biocoop Saint-Martin** (Saint-Martin-Boulogne) (`magasin-bio`, règle 3. **Cinquième point, règle 52** : Boulogne-sur-Mer rend quatre points ; Saint-Martin-Boulogne est limitrophe, dans la communauté d'agglomération du Boulonnais au champ `epci` de `geo.api.gouv.fr` (règle 219), et le magasin est à 1,58 km du barycentre des quatre autres. **Registre, règle 6** : société LITTORAL BIO active, établissement ouvert au 1 route de Calais sous l'enseigne BIOCOOP SAINT MARTIN ; le registre de l'Agence Bio écrit « 101 route de Calais ». **Pilier `environnement`** : certificat Ecocert engagé le 29 août 2017, sans arrêt. **Règle 86** : la page d'accueil du magasin présente trois producteurs locaux — sa page « producteurs locaux » répond en 404 et ses fiches de producteurs s'affichent malgré un statut 404. **Horaires et téléphone** : page du magasin, identiques sur `biocoop.fr`. **Point** : 1 route de Calais à la Base Adresse Nationale (0,967). **Photo** : l'intérieur du magasin, rayons et étal de légumes, sans personne, publié par le magasin, 1 920 × 1 080 ramenés à 1 280. La page du magasin nomme son responsable : non repris.)
 - **Des Lis Chocolat** (Nemours) (`producteur` au titre de la règle 73 : la maison fabrique sur place chocolats et confiseries au coquelicot, avec un arôme tiré de fleurs cueillies dans le canton. **Registre, règle 6** : société active, établissement ouvert au 21 rue des Hauteurs du Loing ; l'ancien atelier de la zone du Rocher Vert est fermé. Pas de pilier `environnement` : absente du registre de l'Agence Bio. **Horaires** : la page « Nos boutiques » du site et la fiche 2026 de l'office de tourisme concordent. **Point, règle 10** : la Base ne connaît pas le n° 21 ; le point du registre retombe au contrôle inverse sur le n° 28 de la même rue, à 15 m, et le marqueur de l'office est à 42 m de lui. **Photo, règle 239** : un assortiment de chocolats publié par l'office de tourisme du Pays de Nemours, sans personne, 1 600 px ramenés à 1 280 ; la troisième photographie de la fiche, qui montre deux personnes, n'a pas servi.)
 - **L'Entre-pot** (Nemours) (`producteur`, règle 73 : atelier culinaire et conserverie qui transforme et vend lui-même. **Registre, règle 6** : société active depuis 2021, code 10.39A, un établissement ouvert au 18 rue Hédelin, sous l'enseigne L'Entre-pot. **Source unique pour les horaires** : la fiche 2026 de l'office de tourisme ; l'atelier n'a pas de site propre, d'où `a_confirmer`. **Téléphone** : le fixe que l'office et un annuaire professionnel publient n'est repris nulle part sur une page de l'atelier, il n'est pas inscrit (règle 198). **Point** : n° 18 à la Base (0,962), à 9 m du point du registre. **Photo, règle 239** : les étagères de bocaux publiées par l'office, sans personne, 1 000 px, non agrandie. Les pages consultées nomment les deux fondatrices : non repris.)
 - **Le Village Potager** (Saint-Pierre-lès-Nemours) (`ferme`. **Élargissement, règles 96 et 127** : à 4,4 km du centre de Nemours, dans la communauté de communes du Pays de Nemours au champ `epci` de `geo.api.gouv.fr` (règle 219). **Registre, règle 6** : société active, un établissement ouvert rue de Larchant. **Pilier `environnement`** : certificat Ecocert engagé le 12 février 2018, sans arrêt, légumes, fraises et petits fruits déclarés. **Pilier `social`** : la ferme publie un partenariat hebdomadaire avec les Restos du Cœur de Nemours et trente emplois créés en cinq ans. **Horaires** : site et office concordent. **Adresse, règle 38** : le site et l'office écrivent « 3300 route de Larchant », numéro que la Base ignore ; la ferme déclare le n° 300 au registre bio, la Base le connaît (0,965) et le marqueur de l'office retombe dessus à 48 m ; c'est lui qui est publié. **Photo, règle 239** : l'étal de salades, de ciboulette et de persil publié par l'office, personnes coupées au niveau du buste, aucun visage.)
@@ -10142,6 +10165,55 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Boulogne-sur-Mer, et le lot de Roissy-en-Brie laissé de côté
+
+Passe du 21 septembre 2026. **Département retenu, règle 41** : d'abord la Seine-et-Marne (4,4569 sur 679 fiches) ; pendant la
+passe, une autre passe a publié cinq fiches à Nemours et le 77 est tombé à −0,44 (règle 241, née ici). Recalcul sur 684 fiches :
+le **Pas-de-Calais** (62) arrive en tête avec **4,4621**, devant la Savoie (4,4463) et la Vienne (4,3538) ; l'outre-mer sort
+par la règle 177, le dénominateur est celui de la règle 224. La passe précédente visait l'Île-de-France ; le 62 est dans les
+Hauts-de-France, la réserve de la règle 41.c ne joue pas. **Commune** : Calais et Arras ont leurs fiches ; Boulogne-sur-Mer,
+40 539 habitants, est la plus peuplée sans aucune, et rend quatre points ; le cinquième vient de Saint-Martin-Boulogne,
+limitrophe, par la règle 52. Après la passe, sur 689 fiches, le 62 tombe à **−0,43** ; en tête ensuite : la **Savoie**
+(4,4788), la **Vienne** (4,3856), les **Landes** (4,3324).
+
+**Les sources** : la page « Les marchés » de `ville-boulogne-sur-mer.fr` et sa médiathèque WordPress ; l'office de tourisme
+du Boulonnais (`boulonnaisautop.com`) pour les points et les descriptions, jamais pour les images (règle 230) ; l'ancien site
+de l'office (`tourisme-boulognesurmer.com`) pour les heures ; Nausicaá pour les espèces ; les sites des deux magasins et
+`biocoop.fr` ; le registre de l'Agence Bio, **1 099** opérateurs lus sur le Pas-de-Calais ; le registre des entreprises ; la
+Base Adresse Nationale. Ces sources nomment des exploitants, des producteurs, des responsables de magasin et des
+photographes : aucun nom n'est repris.
+
+**Restent à instruire, pour une passe suivante :**
+
+- Boulogne-sur-Mer, marché de la place Vignon, le dimanche matin : la Ville le dit « traditionnel : alimentaire, mercerie,
+  disques… », sans décompte des étals ni photographie. Débloqué par une composition publiée (règle 119) et une image.
+- Boulogne-sur-Mer, AMAP distribuant le mardi en fin d'après-midi dans un centre social du quartier des Sources : pas de
+  site propre, seulement des annuaires et un réseau social, aucune source datée de 2026 (règle 195). Débloquée par une page
+  datée de l'association ou du réseau régional.
+- Baincthun, ferme de plantes aromatiques et médicinales certifiée bio : ses produits sont surtout des tisanes et des
+  préparations de bien-être, et son point de vente annoncé est une herboristerie dont ni l'adresse ni les heures n'ont été
+  vérifiées ; son site est signé d'un nom de personne, non repris. Écartée pour l'objet et pour le point, pas pour la personne.
+- Wimereux, marché du mardi et du vendredi : la Ville l'annonce avec « toute une gamme d'articles régionaux », sans
+  composition ; ses images sont des fichiers repris d'un réseau social ou téléchargés, d'origine invérifiable.
+- Le marché aux poissons n'a pas de vraie photographie publiable : celles de l'office sont réservées (règle 230), celle de la
+  Ville fait 588 px et montre des visages. Débloqué par une photographie de la Ville d'au moins 700 px sans visage.
+
+**Le lot de Roissy-en-Brie, préparé puis retiré (règle 241).** La descente de la Seine-et-Marne avait repris à Combs-la-Ville
+(un seul point illustrable : le magasin So.bio, dont le certificat est arrêté depuis décembre 2023 ; le marché couvert et le
+magasin de producteurs Côté Ferme n'ont aucune photographie publiable), puis Roissy-en-Brie : le marché du samedi, place
+Charles Pathé, 8h-13h, illustré par l'affiche officielle de la Ville (règle 182), et le magasin Biocoop du parc Gecko, certifié
+depuis octobre 2018 — **mais ce magasin ne nomme aucun producteur**, ce que la passe de Nemours avait bien vu (règle 86) : le
+lot aurait dû être revu de toute façon. Les trois autres points, tous dans Paris - Vallée de la Marne à moins de 6,5 km,
+restent de bonnes pistes pour le prochain passage dans le 77 :
+- Pontault-Combault, AMAP de la rue Émile Pajot, distribution le jeudi de 19h à 20h, calendrier public daté jusqu'en
+  novembre 2026, photographie d'une poule chez un fournisseur publiée par l'AMAP (720 × 606).
+- Torcy, marché couvert du samedi, 8h-13h, place de l'Appel du 18 Juin 1940 (Ville) et place de l'Église (office), à 85 m
+  l'une de l'autre (règle 98) ; une photographie de la Ville de 2024 recadrée sur un étal de légumes, sans visage.
+- Pontault-Combault, brasserie artisanale du parc du Pontillault, société active (NAF 11.05Z) : la brasserie donne un
+  horaire d'hiver incomplet (jeudi 17h-22h30), l'office de tourisme le vendredi 15h-19h toute l'année ; photographie de la
+  salle de brassage, sans personne.
+- Écartée pour doute sur une personne : Torcy, élevage ovin bio (déjà noté par la passe de Nemours).
 
 ### Pistes non publiées à Nemours, et dans la descente de la Seine-et-Marne
 

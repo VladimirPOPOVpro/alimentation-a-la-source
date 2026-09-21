@@ -18209,5 +18209,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20rue%20de%20la%20Mairie%2C%2077167%20Ch%C3%A2tenoy",
     "image_url": "/images/marchands/ferme-de-chatenoy.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-aux-poissons-boulogne-sur-mer",
+    "nom": "Marché aux poissons du quai Gambetta",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.726432,
+    "lon": 1.599817,
+    "adresse": "Aubettes du quai Gambetta, près de la passerelle Marguet, boulevard Gambetta, 62200 Boulogne-sur-Mer",
+    "horaires": "Tous les jours de l'année, le matin. Les heures varient selon l'arrivée des bateaux, la marée et la pêche du jour, et les étals ne s'installent pas quand la météo l'interdit.",
+    "produits": [
+      "Poissons du jour : bar, sole, turbot, maquereau, limande, roussette",
+      "Harengs, grondins, dorades et carrelets selon la saison",
+      "Coquilles Saint-Jacques",
+      "Tourteaux et araignées de mer",
+      "Coquillages et crustacés"
+    ],
+    "description": "Sur le quai du port de pêche, face à l'avant-port, les pêcheurs et leurs familles vendent chaque matin dans les aubettes la pêche débarquée quelques heures plus tôt. La Ville le compte parmi ses marchés, tous les jours de l'année. L'image est une photographie thématique : un étal de poissonnier du marché de la place Dalton, publiée par la Ville de Boulogne-sur-Mer ; elle ne montre pas les aubettes.",
+    "site_web": "https://www.ville-boulogne-sur-mer.fr/decouvrir-et-sortir/loisirs/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=50.726432,1.599817",
+    "image_url": "/images/marchands/marche-aux-poissons-boulogne-sur-mer.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-dalton-boulogne-sur-mer",
+    "nom": "Marché de la place Dalton",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.723021,
+    "lon": 1.607067,
+    "adresse": "Place Dalton, 62200 Boulogne-sur-Mer",
+    "horaires": "Mercredi et samedi de 8h à 12h30",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages affinés",
+      "Charcuteries",
+      "Pains",
+      "Poissonnerie",
+      "Fleurs"
+    ],
+    "description": "Le grand marché du centre, deux matinées par semaine au pied de l'église Saint-Nicolas. La Ville le présente comme un « marché alimentaire traditionnel, terroir et spécialités locales » ; l'office de tourisme y cite des fruits et légumes de saison, des fromages, des charcuteries et du pain, à côté de quelques étals de fleurs, de vêtements et d'artisanat. Photo : Ville de Boulogne-sur-Mer.",
+    "site_web": "https://www.ville-boulogne-sur-mer.fr/decouvrir-et-sortir/loisirs/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Dalton%2C%2062200%20Boulogne-sur-Mer",
+    "image_url": "/images/marchands/marche-place-dalton-boulogne-sur-mer.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-opale-bio-boulogne-sur-mer",
+    "nom": "Biocoop Opale Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.725418,
+    "lon": 1.605809,
+    "adresse": "68 rue Louis Faidherbe, 62200 Boulogne-sur-Mer",
+    "horaires": "Lundi de 10h à 19h, du mardi au vendredi de 9h30 à 19h, samedi de 9h à 19h ; fermé le dimanche",
+    "produits": [
+      "Fruits et légumes bio",
+      "Pain (boulangerie)",
+      "Fromages à la coupe",
+      "Charcuterie et viandes",
+      "Produits laitiers et œufs",
+      "Épicerie et vrac"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop, ouvert en 2004 et installé rue Faidherbe depuis juillet 2019, face au théâtre Monsigny, avec boulangerie, charcuterie et fromagerie. Il publie la liste de trente-quatre producteurs locaux, du Pas-de-Calais, du Nord et de la Somme : parmi eux un maraîcher bio de Campigneulles-les-Grandes, une boulangerie bio de Montreuil-sur-Mer et le jardin de Cocagne de Vieille-Église. Le registre de l'Agence Bio le certifie depuis octobre 2005 pour les fruits et légumes, la viande, le pain, les produits laitiers et les œufs.",
+    "telephone": "09 54 85 97 56",
+    "site_web": "https://www.biocoop-boulognesurmer.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Opale%20Bio%2C%2068%20rue%20Faidherbe%2C%20Boulogne-sur-Mer",
+    "image_url": "/images/marchands/biocoop-opale-bio-boulogne-sur-mer.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-dimanche-quai-gambetta",
+    "nom": "Marché du dimanche du quai Gambetta",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.724263,
+    "lon": 1.602046,
+    "adresse": "10 boulevard Gambetta (quai Gambetta), 62200 Boulogne-sur-Mer",
+    "horaires": "Dimanche de 8h à 12h30",
+    "produits": [
+      "Produits alimentaires en circuit court et du terroir"
+    ],
+    "description": "Marché dominical le long du quai, que la Ville classe « alimentaire, circuits courts et terroir » dans la liste de ses marchés ; le détail des étals n'est pas publié. L'image est une photographie thématique d'un étal de salades du marché de la place Dalton, publiée par la Ville de Boulogne-sur-Mer ; elle ne montre pas ce marché.",
+    "site_web": "https://www.ville-boulogne-sur-mer.fr/decouvrir-et-sortir/loisirs/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10%20boulevard%20Gambetta%2C%2062200%20Boulogne-sur-Mer",
+    "image_url": "/images/marchands/marche-du-dimanche-quai-gambetta.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-saint-martin-boulogne",
+    "nom": "Biocoop Saint-Martin",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.733992,
+    "lon": 1.620821,
+    "adresse": "1 route de Calais, 62280 Saint-Martin-Boulogne",
+    "horaires": "Du lundi au vendredi de 8h30 à 19h, samedi de 9h à 19h ; fermé le dimanche",
+    "produits": [
+      "Fruits et légumes bio",
+      "Boucherie",
+      "Charcuterie",
+      "Pain (boulangerie)",
+      "Fromages à la coupe",
+      "Épicerie en vrac"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop ouvert en 2017 à l'entrée de Saint-Martin-Boulogne, sur la route de Calais, avec boucherie, charcuterie, boulangerie et fromagerie. Il présente comme producteurs locaux un maraîcher bio de Campigneulles-les-Grandes, une boulangerie bio de Montreuil-sur-Mer et le jardin de Cocagne de Vieille-Église. Le registre de l'Agence Bio le certifie depuis août 2017 pour les fruits et légumes, la viande, le pain, les produits laitiers et les œufs.",
+    "telephone": "03 59 70 19 78",
+    "site_web": "https://www.biocoop-saintmartin.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Saint-Martin%2C%201%20route%20de%20Calais%2C%20Saint-Martin-Boulogne",
+    "image_url": "/images/marchands/biocoop-saint-martin-boulogne.jpg",
+    "a_confirmer": true
   }
 ]
