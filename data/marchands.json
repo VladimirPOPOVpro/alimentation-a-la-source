@@ -17938,5 +17938,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=natur%C3%A9O%2C%2080%20avenue%20Henri%20Barbusse%2C%2078340%20Les%20Clayes-sous-Bois",
     "image_url": "/images/marchands/natureo-les-clayes-sous-bois.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "amap-pastel-tournefeuille",
+    "nom": "AMAP Pastel",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.588941,
+    "lon": 1.337077,
+    "adresse": "1 avenue de l'Ariège, 31170 Tournefeuille",
+    "horaires": "Distribution le mercredi de 18h à 19h30, au 1 rue de l'Ariège d'après le site de l'AMAP (la Base Adresse Nationale ne connaît à Tournefeuille qu'une avenue de l'Ariège) ; l'annuaire des associations de la Ville, mis à jour en août 2026, donne le même créneau. Réservé aux adhérents, par contrats séparés pour chaque produit ; les contrats de légumes se renouvellent entre novembre et janvier, avec liste d'attente.",
+    "produits": [
+      "Légumes bio d'un maraîcher de Haute-Garonne",
+      "Fruits bio d'un arboriculteur de l'Ariège",
+      "Œufs bio",
+      "Pains au levain de farines bio",
+      "Agneau, veau et poulets",
+      "Fromages de chèvre",
+      "Truites d'un pisciculteur bio",
+      "Miel, tisanes, farines et pâtes"
+    ],
+    "description": "AMAP créée en avril 2006, membre du réseau des AMAP de Midi-Pyrénées, qui réunit une quinzaine de contrats de producteurs de Haute-Garonne et des départements voisins ; elle publiait encore en septembre 2026 ses contrats de pain et de pâtes pour la saison. Les producteurs sont dits bio par l'AMAP, sans vérification au registre ici, d'où l'absence du pilier environnement. Photo : une table de distribution d'œufs, publiée par l'AMAP.",
+    "site_web": "https://amappastel.wixsite.com/blog",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20avenue%20de%20l%27Ari%C3%A8ge%2C%2031170%20Tournefeuille",
+    "image_url": "/images/marchands/amap-pastel-tournefeuille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-4-saisons-tournefeuille",
+    "nom": "AMAP 4 Saisons",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.5814423,
+    "lon": 1.3459642,
+    "adresse": "Parking du cinéma Utopia, impasse du Château, 31170 Tournefeuille",
+    "horaires": "Distribution le jeudi de 18h30 à 19h30 sur le parking derrière le cinéma Utopia, d'après l'annuaire des associations de la Ville et l'annonce du réseau des AMAP de Midi-Pyrénées du 20 avril 2026. Saison d'avril à mars, adhésion au renouvellement de mars ; le réseau signalait des places disponibles pour la saison 2026.",
+    "produits": [
+      "Légumes de saison d'un producteur local"
+    ],
+    "description": "AMAP liée à un seul producteur local de légumes, que la Ville et le réseau régional des AMAP décrivent sans le nommer ; aucune autre production n'est publiée, d'où une seule ligne de produits. Photo : la façade du cinéma Utopia, publiée par la Ville ; la distribution se tient sur le parking situé derrière.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cin%C3%A9ma%20Utopia%2C%20impasse%20du%20Ch%C3%A2teau%2C%2031170%20Tournefeuille",
+    "image_url": "/images/marchands/amap-4-saisons-tournefeuille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cote-ferme-tournefeuille",
+    "nom": "Côté Ferme",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.577289,
+    "lon": 1.325273,
+    "adresse": "5 chemin de Bordeneuve, 31170 Tournefeuille",
+    "horaires": "Du mardi au vendredi de 9h à 19h30, le samedi de 9h à 19h, fermé le dimanche et le lundi, d'après la présentation que le magasin publie sur l'annuaire Sucrine Club et la carte des circuits courts de Que Choisir. L'annuaire DirectFermiers31 du Département, dans son jeu de données de 2020, indiquait encore une coupure de 13h à 15h30.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Bœuf, veau, agneau, lapin et porc",
+      "Volailles et canards gras",
+      "Œufs fermiers bio",
+      "Fromages de brebis, de vache et de chèvre",
+      "Truites et saumons",
+      "Conserves, confitures et gâteaux secs",
+      "Jus de fruits, vins et bières"
+    ],
+    "description": "Magasin de produits fermiers créé en 2004 par des producteurs, qui dit référencer environ 150 producteurs et quelques artisans livrant chaque semaine, en bio et en conventionnel. Certifié bio par Bureau Veritas depuis 2007 pour la vente de fruits et légumes, d'œufs, de produits laitiers et de pain. Photo : le marché du dimanche de Tournefeuille vu d'en haut, publiée par la Ville ; elle ne montre pas le magasin.",
+    "telephone": "05 61 16 54 89",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5%20chemin%20de%20Bordeneuve%2C%2031170%20Tournefeuille",
+    "image_url": "/images/marchands/cote-ferme-tournefeuille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cultures-paysannes-cugnaux",
+    "nom": "Cultures Paysannes",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.535849,
+    "lon": 1.363433,
+    "adresse": "9 place Alfred Sauvy, 31270 Cugnaux",
+    "horaires": "Du mardi au jeudi de 9h à 13h et de 15h30 à 19h, le vendredi de 9h à 19h, le samedi de 9h à 18h, d'après le site du magasin. La carte des circuits courts de Que Choisir indique encore une coupure le vendredi ; l'annuaire DirectFermiers31 de 2020 annonçait 19h30.",
+    "produits": [
+      "Fruits et légumes de producteurs de la région",
+      "Porc, agneau, lapin et volailles",
+      "Canards gras, magrets et foie gras",
+      "Fromages de brebis, de chèvre et de vache",
+      "Yaourts et produits laitiers",
+      "Noix, noisettes et amandes",
+      "Miel des Pyrénées",
+      "Bières, limonades et vins de la région"
+    ],
+    "description": "Magasin indépendant de produits fermiers ouvert en septembre 2011, qui présente sur son site, fiche par fiche, les éleveurs, laitiers, maraîchers et artisans qui le fournissent, en majorité d'Occitanie ; il propose aussi un retrait des commandes en ligne. Hors de la commune retenue, à Cugnaux, dans la même métropole que Tournefeuille. Photo : le rayon fruits et légumes, publiée par le magasin.",
+    "telephone": "05 61 92 47 04",
+    "site_web": "https://culturespaysannes.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20place%20Alfred%20Sauvy%2C%2031270%20Cugnaux",
+    "image_url": "/images/marchands/cultures-paysannes-cugnaux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paniers-d-ici-cugnaux",
+    "nom": "Marché Paniers d'ici",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.53714,
+    "lon": 1.347587,
+    "adresse": "Place de la République, côté rue du Pré Vicinal, 31270 Cugnaux",
+    "horaires": "Le mercredi après-midi, de 15h à 19h30 en été et de 15h à 18h30 en hiver, d'après la page « Marchés hebdomadaires » de la Ville (juillet 2025). L'arrêté municipal du 28 octobre 2024 donne 15h-19h30 à partir du 1er mai et 14h30-18h30 à partir du 1er novembre ; le comité départemental du tourisme écrit 16h-20h.",
+    "produits": [
+      "Fruits et légumes de producteurs",
+      "Miel, plantes et fleurs",
+      "Viande et volaille",
+      "Fromages et charcuterie",
+      "Poisson",
+      "Boulangerie et pâtisserie",
+      "Plats cuisinés, épices et vin"
+    ],
+    "description": "Marché municipal créé en 2020 par délibération « à vocation majoritairement bio, favorisant les producteurs et le circuit court », que la Ville décrit comme réunissant des producteurs locaux en bio et en circuits courts ; les produits sont ceux des collèges de commerçants que fixe l'arrêté des marchés, la Ville ne publiant pas de liste d'exposants. Hors de la commune retenue, à Cugnaux, dans la même métropole que Tournefeuille. Photo : les jardins familiaux de Tournefeuille, publiée par la Ville de Tournefeuille ; elle ne montre pas le marché.",
+    "telephone": "05 62 20 76 09",
+    "site_web": "https://www.ville-cugnaux.fr/mon-quotidien/economie-et-emploi/marches-hebdomadaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2031270%20Cugnaux",
+    "image_url": "/images/marchands/marche-paniers-d-ici-cugnaux.jpg",
+    "a_confirmer": true
   }
 ]

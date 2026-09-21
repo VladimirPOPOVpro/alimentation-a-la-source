@@ -3061,9 +3061,52 @@ prioritaires en cas de conflit.
      déclenchent rien. **Déblocage** : le retrait de la ligne, ou la même information publiée par une autre autorité
      qui ne s'interdit pas.
 
+234. **La photographie thématique de la règle 228 peut venir d'un équipement public non marchand de la commune calculée ;
+     jamais d'un autre marché.** Le marché Paniers d'ici, à Cugnaux, complète la passe de Tournefeuille au titre des
+     règles 96 et 127 : la Ville de Cugnaux le documente entièrement, mais ses mentions légales interdisent nommément la
+     reproduction des « photos » (règle 230), le comité départemental du tourisme n'attache aucune image à sa fiche, et
+     aucun exposant n'est publié. La règle 228 veut une photographie de l'autorité de la commune calculée « attribuée à
+     aucun lieu précis » ; la Ville de Tournefeuille n'en publie aucune sans visage qui touche à l'alimentation. Ses deux
+     candidates sans visage sont attribuées : la vue aérienne de son marché du dimanche, et celle de ses jardins familiaux.
+     **Tranché ainsi** : l'exigence « aucun lieu précis » protège contre une seule confusion, celle d'un visiteur qui
+     prendrait un commerce ou un marché pour un autre ; une photographie d'équipement public non marchand — jardins
+     familiaux, parc, verger communal — ne peut pas la produire et remplit donc la règle 228, tandis que la photographie
+     d'un autre marché reste interdite hors de sa propre commune, même avec une légende honnête. Mêmes conditions que la
+     règle 228 : la description dit d'où vient l'image et qu'elle ne montre pas le lieu, l'image ne sert qu'une fiche, et la
+     fiche reste `a_confirmer`. À l'intérieur de sa propre commune, la vue d'un marché non publié reste disponible comme
+     photographie thématique au titre de la règle 203 — c'est elle qui illustre Côté Ferme.
+
+235. **Une image se publie sans ses métadonnées : l'EXIF et le XMP d'une photographie peuvent porter le nom, l'adresse
+     électronique et le portable d'une personne.** Deux photographies de la Ville de Tournefeuille retenues dans cette
+     passe portent, dans leurs champs « Artiste » et « Copyright », l'identité complète de leur photographe, portable
+     compris ; aucun visage, aucun texte visible, et pourtant le fichier aurait publié une donnée personnelle que la carte
+     ne montre à personne mais que n'importe qui peut lire. Le contrôle des 684 images déjà déposées en a trouvé deux autres
+     dans le même cas, deux domaines du Var. **Tranché ainsi** : toute image déposée dans `public/images/marchands/` est
+     réencodée à partir de ses seuls pixels, sans EXIF, XMP ni bloc Photoshop, et `sips`, qui ajoute ses propres blocs en
+     redimensionnant, passe avant ce réencodage, jamais après. Les deux images anciennes ont été nettoyées de la même
+     façon, pixels inchangés. Ni ce README ni le compte rendu ne reprennent ce que contenaient ces champs.
+
+236. **La présentation qu'un commerce rédige lui-même dans un annuaire tiers vaut la voix de l'intéressé pour ses
+     horaires, quand il n'a pas de site.** Côté Ferme n'a ni site ni page lisible hors d'un réseau social : trois annuaires
+     portent ses horaires. Sa fiche de l'annuaire Sucrine Club est écrite à la première personne (« Nous référençons
+     actuellement 150 producteurs… Les producteurs nous livrent… ») et donne 9h-19h30 du mardi au vendredi, 9h-19h le
+     samedi ; la carte de Que Choisir, mise à jour deux fois par an, donne la même grille ; le jeu de données
+     DirectFermiers31 du Département, figé en 2020, donne une coupure de 13h à 15h30. **Critère** : la règle 104 fait
+     gagner l'intéressé contre un annuaire ; un texte qu'il signe en disant « nous », dans l'espace qu'un annuaire lui
+     réserve, est sa voix, et quand un second annuaire indépendant publie la même grille elle fixe `horaires`. La grille
+     divergente est citée dans le champ, attribuée et datée, et la fiche reste `a_confirmer`. Ce que la règle n'ouvre pas :
+     les images de cet annuaire, dont les mentions légales interdisent la reproduction (règle 230), et `telephone`, qui
+     reste soumis aux règles 143 et 160 — ici un fixe que la Ville publie dans son annuaire des professionnels et que
+     quatre sources donnent à l'identique.
+
 ## Marchands à confirmer
 
-612 fiches sur 674 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+617 fiches sur 679 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP Pastel** (Tournefeuille) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : le site de l'AMAP publie ses contrats de pain et de pâtes pour 2026-2027, mis en ligne mi-septembre 2026, et l'annuaire des associations de la Ville a été mis à jour le 11 août 2026. **Adresse** : l'AMAP écrit « 1 rue de l'Ariège » ; la Base Adresse Nationale ne connaît à Tournefeuille qu'une avenue de l'Ariège, dont le n° 1 (0,732) tombe à 7 m du point de l'annuaire DirectFermiers31 ; la Ville donne pour l'association l'adresse de la Maison des associations, qui est sa domiciliation, pas le lieu de distribution (règle 104). **Pas de pilier `environnement`, règle 60** : les producteurs sont dits bio par l'AMAP, sans recherche au registre dans cette passe. **Photo, règle 232** : une table de distribution d'œufs publiée par l'AMAP, recadrée pour écarter une feuille d'émargement manuscrite, 1 280 × 1 014. Les pages de l'AMAP nomment plusieurs producteurs et référents : rien n'en est repris.)
+- **AMAP 4 Saisons** (Tournefeuille) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : l'annonce du réseau des AMAP de Midi-Pyrénées du 20 avril 2026 donne le jeudi 18h30-19h30 « sur le parking Utopia derrière la mairie », ce que confirme l'annuaire des associations de la Ville. **Produits, règle 92** : aucune source ne dit autre chose que des légumes, d'où une seule ligne. **Point, règle 169** : le marqueur que la Ville publie pour le cinéma Utopia (43,5814423 ; 1,3459642), à 36 m du 2 impasse du Château en contrôle inverse ; le parking lui-même n'a pas de point publié. **Photo** : la façade du cinéma, publiée par la Ville, sans personne ; les métadonnées du fichier ont été retirées (règle 235).)
+- **Côté Ferme** (Tournefeuille) (`producteur`, règle 105. **Registre, règle 6** : société active, un établissement ouvert au 5 chemin de Bordeneuve sous l'enseigne Côté Ferme. **Pilier `environnement`** : certificat Bureau Veritas engagé le 4 octobre 2007, sans arrêt, à ce SIRET, pour la vente de fruits et légumes, de produits de boulangerie, d'œufs et de produits laitiers ; le registre de l'Agence Bio déclare `venteParticuliers` à faux, ce qui décrit l'activité certifiée et non le magasin (règle 154). **Horaires, règle 236, née ici.** **Téléphone** : le fixe que la Ville publie dans son annuaire des professionnels. **Point** : Base Adresse Nationale (0,967), à 40 m du marqueur de la Ville et à 12 m de celui de DirectFermiers31. **Photo, règle 203** : le marché du dimanche de Tournefeuille vu d'en haut, publié par la Ville en bandeau de sa page « Vie économique », recadré au-dessus du premier plan pour qu'aucune silhouette ne soit reconnaissable, 1 280 × 448 ; le marché n'a pas de fiche (voir les pistes), la description dit que l'image ne montre pas le magasin.)
+- **Cultures Paysannes** (Cugnaux) (`producteur`, comme les magasins de produits fermiers comparables. **Élargissement, règles 96 et 127** : hors de la commune retenue, à 5,4 km de la place de la Mairie de Tournefeuille, dans Toulouse Métropole au champ `epci` de `geo.api.gouv.fr` (règle 219). **Registre, règle 6** : société active depuis le 1er septembre 2011, un établissement ouvert au 9 place Alfred Sauvy ; aucun certificat bio. **Horaires et téléphone** : site du magasin ; Que Choisir et DirectFermiers31 cités dans `horaires`. **Produits** : les pages « nos maraîchers », « nos éleveurs », « nos laitiers » et « les autres » du site, qui nomment chaque producteur — aucun nom n'est repris. **Photo** : l'image de partage du site, le rayon fruits et légumes, recadrée à droite pour écarter une silhouette, 770 × 459 ; les mentions légales du site ne réservent pas les photographies.)
+- **Marché Paniers d'ici** (Cugnaux) (catégorie et piliers des marchés municipaux. **Élargissement, règles 96 et 127** : à 5,1 km de la place de la Mairie de Tournefeuille, dans Toulouse Métropole. **Registre, règle 106** : marché de la Ville. **Horaires, règle 172** : la page « Marchés hebdomadaires » de la Ville, modifiée le 29 juillet 2025, l'emporte sur l'arrêté 2024ARR019 du 28 octobre 2024, qui ouvrait à 14h30 l'hiver ; le comité départemental du tourisme (16h-20h) est cité. **Produits, règle 49** : l'arrêté répartit les commerçants du marché en trois collèges nommés par métier — fromager, poissonnier, plats cuisinés, épices, vin, charcuterie ; viande, volaille, boulangerie, pâtisserie ; producteurs de légumes, fruits, miel, plantes et fleurs — et `produits` reprend ces mots, la Ville ne publiant pas de liste d'exposants. **Pas de pilier `environnement`, règles 68 et 132** : la délibération de 2020 dit le marché « à vocation majoritairement bio », ce qui n'est ni un intitulé bio ni une obligation de certificat ; la mention est dans la description. **Téléphone, règle 189** : le fixe du service Attractivité du territoire, foires et marchés ; le portable publié à côté n'est pas repris. **Point** : centre de la place de la République à la Base Adresse Nationale (0,952), à une centaine de mètres du marqueur du comité départemental pour le marché du samedi sur la même place. **Photo, règle 234, née ici** : les jardins familiaux de Tournefeuille, publiés par la Ville de Tournefeuille, sans personne.)
 - **Marché de Plaisir** (Plaisir) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jours et heures, règle 178** : vendredi et dimanche 8h-13h sur la page du marché et sur la page « Économie, commerce » de la Ville, deux endroits distincts ; le comité départemental du tourisme dit vendredi et dimanche matin. **Panneau, règles 74 et 226** : l'enseigne de la halle, sur une photographie non datée de la Ville, porte « mardi, vendredi, dimanche matin » ; la page qui donne la liste des commerçants de 2026 l'emporte, le panneau est cité dans `horaires`. **Produits, règle 187** : la liste des commerçants par jour que publie la Ville, reprise par métier ; les noms de commerçants, dont plusieurs sont des noms de personnes, ne sont pas repris. **Point** : le marqueur « Halle du Marché » de la carte de la page (48.818117, 1.94476), contrôlé par géocodage inverse à 52 m du 7 rue Calmette et à 58 m du 5 rue du Docteur Alexander Fleming. **Téléphone, règle 189** : la Maison de l'entreprise et de l'emploi, service municipal que la page désigne. **Photo** : la halle vue de l'extérieur, sans personne, publiée par la Ville dans la galerie de la page ; les mentions légales réservent « les contenus » en termes généraux sans nommer les photographies (règle 231).)
 - **AMAP Plaisir des Saveurs** (Plaisir) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : le site de l'AMAP publie le panier de chaque jeudi, les derniers les 3, 10 et 17 septembre 2026, et sa page « Présentation » donne le jeudi 18h30-20h sous la halle du marché ; un billet du 22 septembre 2024 annonce le déménagement sous la halle. **Heure, règle 179** : l'association prime, l'annuaire du réseau (17h-20h, préparation comprise) est cité. **Pas de pilier `environnement`, règle 60** : l'AMAP dit son maraîcher certifié, mais l'exploitation est une société à nom de famille qui n'a pas été recherchée au registre dans cette passe. **Point, règle 12** : le point de la Base Adresse Nationale pour la rue du Docteur Alexander Fleming (0,683), l'adresse que donne l'annuaire, à 63 m du marqueur de la halle qui sert au marché : deux fiches distinctes, jamais le même jour. **Photo, règle 232** : la halle installée pour une distribution, sans personne, publiée par l'AMAP, recadrée de 1 920 × 2 560 à 1 280 × 960. La page « Contacts » nomme tout le collectif : rien n'en est repris.)
 - **Les Vergers de Plaisir** (Plaisir) (catégorie `ferme`, comme la cueillette déjà publiée. **Registre, règle 6** : société active, établissement ouvert au 2048 rue Jules Régnier, enseigne sans nom de personne. **Pas de pilier `environnement`** : aucun certificat au registre de l'Agence Bio ; les Vergers parlent de variétés résistantes aux maladies, ce qui n'est pas un label. **Horaires** : la grille du site, mise à jour le 17 septembre 2026 ; la fin de saison, « mi-novembre », n'est pas datée. **Téléphone, règle 143** : le numéro que les Vergers publient sur leur site pour la clientèle, repris par le comité départemental du tourisme. **Point** : Base Adresse Nationale, 0,973. **Photo** : le stand des Vergers que publie le comité départemental du tourisme, 800 × 600, recadré sur la moitié basse pour écarter la seule personne, 800 × 300 ; les visuels du site sont des fiches de variétés, pas des photographies.)
@@ -10054,6 +10097,69 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Tournefeuille et à Cugnaux
+
+Passe du 21 septembre 2026, vingt et unième de la journée. **Département retenu, règle 41** : la Haute-Garonne (31),
+déficit **4,3833** sur une base de 674 fiches, devant la Savoie (4,3813) et la Seine-et-Marne (4,3504) ; l'outre-mer sort
+par la règle 177, le dénominateur est celui de la règle 224. La passe précédente visait les Yvelines, en Île-de-France ;
+la Haute-Garonne est en Occitanie, la réserve de la règle 41.c ne joue pas. Après la passe, sur 679 fiches, le 31 tombe à
+**−0,51** ; en tête ensuite : la **Seine-et-Marne** (4,4569), la **Savoie** (4,4138), le **Pas-de-Calais** (4,3564).
+
+**Commune calculée** : **Tournefeuille**, 30 168 habitants, la plus peuplée du 31 sans aucune fiche, Toulouse et
+Colomiers étant déjà pourvues. Elle rend **trois** fiches entières, image comprise : deux AMAP et un magasin de producteurs. Sous quatre, la
+règle 52 ne s'applique pas ; la règle 127 éprouve alors la commune au titre de la règle 96 avant toute descente : deux
+fiches au moins dans la commune, le reste dans la même intercommunalité à moins de quinze kilomètres. Les deux dernières
+places vont à **Cugnaux**, commune limitrophe de Toulouse Métropole, où la Ville et un magasin documentent tout : le
+marché Paniers d'ici et Cultures Paysannes. Distance maximale entre deux fiches : 6,3 km, entre l'AMAP Pastel et Cultures
+Paysannes.
+
+**Les sources** : l'annuaire des associations, l'annuaire des professionnels, les pages « Vie économique » et « Utopia »
+et la médiathèque de `mairie-tournefeuille.fr`, dont le `robots.txt` ne vise que `SemrushBot` ; la page « Marchés
+hebdomadaires » et l'arrêté 2024ARR019 de `ville-cugnaux.fr` ; les fiches des marchés de Tournefeuille et de Cugnaux du
+comité départemental `hautegaronnetourisme.com` ; le jeu de données DirectFermiers31 de `data.haute-garonne.fr` ; le site
+de l'AMAP Pastel et l'annonce du réseau des AMAP de Midi-Pyrénées du 20 avril 2026 ; le site de Cultures Paysannes ;
+l'annuaire Sucrine Club et la carte des circuits courts de Que Choisir ; le registre de l'Agence Bio, **2 823** opérateurs
+lus sur la Haute-Garonne, dont 15 à Tournefeuille — l'un, Côté Ferme, sous une adresse mal orthographiée qu'un filtre sur le nom de la commune ne rattrape pas ; le registre des entreprises ; la Base Adresse Nationale.
+
+**Contradictions tranchées** : les horaires de Côté Ferme (règle 236) ; l'heure d'hiver du marché Paniers d'ici (règle
+172) ; « rue » ou « avenue » de l'Ariège pour l'AMAP Pastel (la Base fait foi, l'AMAP est citée) ; l'adresse de l'AMAP
+Pastel dans l'annuaire de la Ville, qui est celle de son siège (règle 104).
+
+**Fiches écartées pour doute sur une personne** : une.
+- Tournefeuille, magasin de produits locaux du chemin Saint-Pierre : l'enseigne déclarée au registre accole un nom de
+  famille à la dénomination commerciale, et l'exploitation est une entreprise individuelle. Écarté, doute sur une
+  personne.
+
+La matière en contenait beaucoup d'autres, dont rien n'est repris : les pages producteurs de Cultures Paysannes et de
+l'AMAP Pastel nomment chaque éleveur, maraîcher et référent, un annuaire tiers donne pour une AMAP une adresse
+électronique personnelle, et les métadonnées de deux photographies de la Ville portaient l'identité complète de leur
+photographe (règle 235).
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché du dimanche de Tournefeuille**, allée des Sports : la Ville (page « Vie économique », « plus de 100
+  commerçants ») et le comité départemental (« une centaine d'étals et plus spécifiquement un carré bio ») s'accordent sur
+  le jour et le lieu, et la Ville en publie deux photographies. **Non retenu, règle 197** : aucune autorité n'écrit une
+  seule famille de produits — le comité départemental porte les étiquettes « Alimentaire, Bio, Habillement, accessoires »,
+  les mêmes mot pour mot que sur sa fiche du marché de Cugnaux, donc une taxonomie et non une description ; l'enseigne
+  « Charcuterie » lisible sur la vue aérienne est celle d'un commerçant, pas un panneau de l'autorité (règle 74). Aucune
+  heure n'est publiée par une autorité (7h-13h chez des annuaires tiers). Déblocage : un règlement des marchés, une liste
+  d'exposants, ou une page communale qui nomme ce qui s'y vend.
+- **Marché bio du vendredi de Tournefeuille**, place de la Mairie, 16h-20h selon DirectFermiers31 (2020) et des annuaires
+  commerciaux : absent de toutes les pages de la Ville, règle 196.
+- **AMAP de la Lèze**, distribution mensuelle le premier jeudi de 19h à 20h à Utopia selon l'annuaire de la Ville, fiche
+  non mise à jour depuis juin 2023 ; son site répond 404. Règle 195.
+- **Biocoop de l'avenue du Marquisat** : certificat Ecocert engagé depuis 2010, mais le réseau relève de la règle 149 et
+  aucun producteur n'est nommé (règle 86).
+- **Le Cours des Halles**, boulevard Vincent-Auriol : primeur d'un réseau de onze magasins, certificat engagé en juin 2026,
+  qui dit s'approvisionner chaque jour au marché d'intérêt national et ne nomme aucun producteur. Règle 86.
+- **Cugnaux, marché de plein vent du samedi**, place de la République, 8h-13h : documenté par la Ville et son arrêté,
+  mais pas retenu, le plafond de cinq étant atteint et le groupement plus serré avec le marché du mercredi ; aucune
+  photographie utilisable (règle 230). À reprendre au passage sur Cugnaux.
+- **AMAP des Oliviers**, Villeneuve-Tolosane : deux annuaires donnent des jours différents ; non instruite.
+- **Laissés de côté** : les supermarchés certifiés, les préparateurs sans vente aux particuliers, les importateurs, et
+  les entreprises individuelles inscrites sous le seul nom de leur exploitant, qui ne sont pas nommées.
 
 ### Pistes non publiées à Plaisir, et dans la descente des Yvelines
 
