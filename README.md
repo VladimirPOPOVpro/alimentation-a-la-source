@@ -2937,9 +2937,29 @@ prioritaires en cas de conflit.
      (3,3 km), Baudoyer (4,4 km de Président Wilson), Bastille (1,1 km de Baudoyer) et Monge (1,5 km de
      Baudoyer) ; le marché Convention reste en pistes, avec son jour contesté.
 
+224. **Le dénominateur de la règle 41 reste la population de toutes les communes, outre-mer compris, même
+     quand la règle 177 sort l'outre-mer du classement.** La règle 177 dit que le calcul « ne porte que sur les
+     départements métropolitains » sans dire si la part de population se calcule sur la métropole seule. Les
+     deux lectures ne donnent pas le même vainqueur : sur 639 fiches, la part rapportée à toute la France met
+     la **Moselle** en tête (4,7427), devant la Manche (4,6106) ; rapportée à la métropole seule, elle met le
+     **Nord** en tête (5,2606), devant les Bouches-du-Rhône (5,1617) et la Moselle (5,1531). Les passes
+     précédentes ont appliqué la première lecture : le déficit publié pour la Sarthe au Mans, 4,6438 pour
+     566 733 habitants sur 565 fiches, ne s'obtient qu'avec les 68 952 941 habitants de l'appel complet.
+     **Tranché ainsi** : la part se calcule sur la somme de toutes les communes que rend
+     `geo.api.gouv.fr`, outre-mer compris, et la règle 177 ne fait que retirer les départements d'outre-mer
+     du classement. Changer de dénominateur en cours de route déplacerait le rang de départements déjà
+     visités sans qu'aucune fiche n'ait changé ; la continuité avec les passes déjà faites l'emporte. Les
+     écarts de quelques centièmes entre les valeurs publiées par les passes et un recalcul viennent de
+     l'état du fichier au moment du calcul et ne changent pas cette lecture.
+
 ## Marchands à confirmer
 
-583 fiches sur 639 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+586 fiches sur 644 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché alimentaire du samedi** (Thionville) (catégorie et piliers des marchés, sans `environnement`. **Horaires** : samedi 7h-12h30, identiques sur la page « Les marchés de Thionville » de la Ville (mise à jour le 12 février 2026) et sur la page « Les marchés locaux » de l'office de tourisme du Pays Thionvillois. **Produits** : les six familles que la Ville et l'office écrivent pour ce marché, sans liste d'étals. **Point** : la Ville écrit « rue du Manège et place Hugo » ; la Base Adresse Nationale connaît la rue du Manège (0,967) et ne rend pour « place Hugo » que la rue Victor-Hugo à 0,73 : c'est le centre de la rue du Manège qui est publié, règle 83. **Règle 106** : équipement municipal, pas de test du registre. **Téléphone** : la ligne du service Foires & Marchés que la Ville publie sur la page. **Photo, règle 1** : l'office range dans ses blocs de Yutz et de Terville deux photographies titrées « Marché alimentaire - Thionville » ; celle de l'étal de légumes est recadrée sur ses 1 320 px de gauche pour retirer le seul client (de dos, sans visage), réduite à 1 280 px, et la description dit qu'elle illustre sans dater la séance. Reste `a_confirmer` pour la composition des étals)
+- **Marché de la gare** (Thionville) (catégorie `marche`, pilier `transport` en plus, le marché se tenant sur le parvis de la gare. **Horaires, règle 176** : la Ville écrit jeudi 16h-20h, l'office 17h-20h ; c'est l'horaire de la Ville qui est publié, l'autre cité dans `horaires`. **Produits** : le classement de la Ville (« alimentaire, produits régionaux ») et, règle 91, la photographie que l'office attache à ce seul marché — confitures, jus, fraises, agrumes, kiwis et avocats sur un étal. **Point** : l'esplanade Jean Moulin à la Base (0,956), contrôle inverse sur l'esplanade même. **Photo** : la même, 2 048 px, recadrée sur l'étal du coin inférieur gauche, 720 × 549 : la marchande n'y apparaît plus que de dos à la taille, la foule et le numéro de téléphone imprimé sur la tente sont hors cadre. Reste `a_confirmer` pour l'heure d'ouverture)
+- **La Fabrik des Pains Vagabonds** (Thionville) (boulangerie au levain, cantine et café, `producteur` au titre de la règle 73. **Registre, règle 6** : société active, établissement ouvert au Carré des Arts, 15 rue du Manège. **Pilier `environnement`, règle 39** : engagement Ecocert du 27 mars 2023, sans date d'arrêt, productions déclarées pain frais et viennoiserie, lieu d'activité déclaré à cette adresse. **Horaires** : les données structurées du site de la maison (mardi-vendredi 7h30-18h30, samedi 7h30-14h30), que son texte résume en « du mardi 7h30 au samedi 14h30 ». **Téléphone** : le seul numéro publié est un portable, dans les mentions légales, à côté du nom du gérant ; ni l'un ni l'autre n'est repris, pas plus que le prénom de la cheffe que cite la page. **Point** : numéro 15 à la Base (0,967). **Photo** : une miche aux graines de courge publiée par la maison, 1 280 × 960, personne dans le cadre. Fiche non marquée `a_confirmer`.)
+- **AMAP Terre Citadine** (Thionville) (catégorie `amap`, sans `environnement` : l'AMAP écrit « certifié bio » pour ses paniers, mais son maraîcher n'est présenté que sous un nom de personne, qui n'a pas été cherché ni repris. **Activité** : association active au registre (6 cours de Lattre-de-Tassigny) et billet du 21 septembre 2026 annonçant la distribution du jeudi 1er octobre. **Horaires, règle 172** : la page « Vous voulez un panier ? » (9 février 2026) et la page de la livraison donnent 19h10-20h ; la vieille page Contact donne encore 18h30-19h30, c'est la plus récente qui est publiée. La saison diffère d'une page à l'autre (février ou mars à fin novembre) : les deux sont écrites dans `horaires`, règle 55. **Point** : l'école primaire Beauregard, 25 rue de Verdun, à l'annuaire de l'Éducation nationale ; numéro 25 à la Base (0,974), à 50 m du point de l'annuaire. **Téléphone** : le numéro de permanence est un portable, non repris. **Photo, règles 1 et 185** : les deux photographies de distribution du site font 640 et 500 px et montrent des visages ; la fiche porte un étal de fraises tiré d'une photographie de marché de l'office de tourisme, recadré sous les visages, 1 280 × 330, et la description dit que ce n'est pas la distribution)
+- **Biocoop du Linkling** (Terville) (**hors de la commune retenue, règles 96 et 170** : Thionville ne rend aucun magasin bio instruisable ; Terville est dans la CA Portes de France-Thionville au référentiel (règle 219), le magasin est à 2,6 km de l'hôtel de ville de Thionville. **Règle 86** : le magasin publie ses vingt-cinq producteurs locaux avec leur commune (pâtes de Freyming-Merlebach, maraîchage d'Inglange et de Tincry, chèvre de Xivry-Circourt, vin d'Ars-sur-Moselle…) ; seules les enseignes sont reprises, certaines lignes de la liste sont des noms de personnes. **Registre, règle 6** : société active au 57 rue le Kem depuis janvier 2020, code 47.29Z. **Pilier `environnement`** : engagement Ecocert du 25 juillet 2020, sans date d'arrêt, fruits et légumes frais déclarés parmi onze familles. **Horaires, règle 165** : la page d'accueil résume « du lundi au samedi de 9h30 à 19h30 », la grille de la page de présentation ferme le samedi à 18h ; c'est la grille qui est publiée. **Point** : numéro 57 à la Base (0,962), à moins de 10 m du point du registre bio. **Photo** : le rayon fruits et légumes publié par le magasin, 1 080 px, recadré sous l'étagère haute dont une étiquette de producteur porte un numéro de téléphone. Le site nomme le responsable du magasin : non repris. Fiche non marquée `a_confirmer`.)
 - **Marché Président Wilson** (Paris 16e) (catégorie et piliers des marchés de plein air parisiens. Piste nommée par la passe des halles de l'ouest et débloquée par la **règle 138** : samedi 7h-14h30 concordant partout ; second jour contesté, mardi sur la page « Les marchés de Paris » (7 septembre 2026, relue ce jour), mercredi sur la fiche du lieu et dans le jeu de données « Marchés découverts ». **Point** : celui du jeu de données, que la Base Adresse Nationale retourne sur la place de Tokyo, à 21 m, au milieu du terre-plein décrit. **Produits, règle 92** : le seul classement « Alimentaire » de la Ville. **Photo, règles 1 et 139** : le gros plan d'olives du 25 août 2026 que la Ville attache à cette fiche, gardé comme illustration et dit tel dans la description ; rien n'en est lu. Reste `a_confirmer` pour le second jour et la composition des étals)
 - **Marché Lecourbe** (Paris 15e) (catégorie et piliers des marchés de plein air parisiens. **Horaires** : mercredi 7h-13h30 et samedi 7h-14h30, concordants sur les trois publications de la Ville. **Point** : celui du jeu de données, à 13 m du 354 rue Lecourbe selon le contrôle inverse de la Base. **Produits, règles 91 et 103** : classement de la Ville et étal de poissonnerie de la photographie de juin 2026, où l'on voit l'arbre et la chaussée. **Photo** : celle de la fiche du lieu, sans personne, telle quelle. La page générale indique la station Sèvres-Lecourbe, éloignée de ce tronçon : la fiche ne cite aucune station. Reste `a_confirmer` pour la composition des étals)
 - **Marché Baudoyer** (Paris 4e) (catégorie et piliers des marchés de plein air parisiens. **Horaires** : mercredi 10h-20h, samedi 7h-14h30, concordants sur les trois publications de la Ville. **Point** : celui du jeu de données, à 11 m de la place Baudoyer au contrôle inverse. **Produits, règle 223** : étal entier photographié sous l'auvent de la Ville, série de juin 2026. **Photo** : celle de la fiche du lieu, bord droit retiré (1 160 px). Reste `a_confirmer` pour la composition des étals)
@@ -9897,6 +9917,56 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Thionville et dans son agglomération
+
+Passe du 21 septembre 2026, quatorzième de la journée. **Département retenu, règle 41** : la Moselle (57),
+déficit **4,7427** sur une base de 639 fiches, devant la Manche (4,6106) et les Pyrénées-Orientales
+(4,6044) ; l'outre-mer sort par les règles 93 et 177, le dénominateur est fixé par la règle 224, née ici.
+La passe précédente visait Paris, en Île-de-France ; la Moselle est en Grand Est, la réserve de la règle
+41.c ne joue pas. **Commune** : Metz a déjà ses cinq fiches ; Thionville, 42 658 habitants, est la plus
+peuplée du département sans aucune fiche. Après la passe, sur 644 fiches, le 57 tombe à **−0,18** ; en tête
+ensuite, outre-mer écarté : la **Manche** (4,6467), les **Pyrénées-Orientales** (4,6405), les
+**Bouches-du-Rhône** (4,4981), le **Nord** (4,4293).
+
+**Les cinq fiches** : quatre dans Thionville — le marché alimentaire du samedi, le marché de la gare, La
+Fabrik des Pains Vagabonds et l'AMAP Terre Citadine — et, au titre de la règle 170, la Biocoop du Linkling à
+Terville, à 2,6 km, même agglomération, parce que la commune ne rend aucun magasin bio instruisable.
+
+**Les sources** : la page « Les marchés de Thionville » de la Ville, la page « Les marchés locaux » de
+l'office de tourisme du Pays Thionvillois (`thionvilletourisme.fr`, dont le `robots.txt` ne vise aucun
+agent d'IA) et son sitemap, le registre de l'Agence Bio pour le 57 (877 opérateurs, dont une cinquantaine
+dans l'agglomération, surtout des supermarchés et des laboratoires), le registre des entreprises, la Base
+Adresse Nationale, l'annuaire de l'Éducation nationale pour l'école Beauregard. Le `robots.txt` de la
+Biocoop n'exclut qu'une liste de robots de référencement, aucun agent d'IA.
+
+**Contradictions tranchées** : l'heure d'ouverture du marché de la gare (règle 176), l'horaire et la saison
+de l'AMAP (règles 172 et 55), le samedi de la Biocoop (règle 165) — voir les fiches.
+
+**Fiches écartées pour doute sur une personne** : aucune. Plusieurs pages nomment des personnes (gérants,
+cheffe, paysans de l'AMAP, maraîcher sur la fiche de l'office) : ces noms ne sont repris nulle part.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché libre hebdomadaire du mardi** (Thionville, parking du Manège et place Hugo, 8h-12h30, Ville et
+  office concordants) : la Ville le classe « textile, alimentaire, produits régionaux » et l'office écrit que
+  l'alimentation y est apparue en second ; sans décompte des étals, la règle 9 le laisserait publier, mais
+  la cinquième place allait à la catégorie manquante (règle 170) et sa seule photographie propre, chez
+  l'office, fait 810 px et porte une dizaine de visages. **Déblocage** : une photographie utilisable.
+- **Maraîcher bio d'Oeutrange** (Thionville, maraîchage) : certificat Certipaq engagé en 2024, mais l'office
+  de tourisme situe sa boutique de vente directe à Kanfen, hors de l'agglomération, quand le registre bio
+  déclare le lieu de vente à Oeutrange ; le seul numéro publié est un portable. **Déblocage** : un lieu et
+  des horaires de vente publiés par l'exploitation elle-même.
+- **Boulangerie bio de la rue du Lavoir** (Thionville, boulangerie) : société créée en 2025, engagement
+  Ecocert de mai 2026, aucun site ni horaire publié — règle 192.
+- **Marchés de Yutz et de Terville** (vendredi 8h-12h, esplanade de la Brasserie et place de la Liberté,
+  selon l'office) : l'office illustre leurs deux blocs de photographies titrées « Marché alimentaire -
+  Thionville » ; aucune image propre, et la page des marchés des deux villes n'a pas été lue.
+- **AMAP Cultures d'Avenir** (Yutz) : association active au registre ; distribution du jeudi citée par un
+  annuaire tiers seulement. **Déblocage** : une page de l'AMAP elle-même.
+- **Écartés comme généralistes ou sans vente au particulier** : les Carrefour, Leclerc, Intermarché et Lidl
+  du secteur, Promocash, un torréfacteur et un grossiste de Terville. Une épicerie certifiée de l'esplanade
+  de la Brasserie, à Yutz, n'a pas été instruite faute de place.
 
 ### Pistes non publiées à Paris — du 16e au 11e
 

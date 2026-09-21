@@ -16969,5 +16969,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Monge+place+Monge+Paris",
     "image_url": "/images/marchands/marche-monge.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-alimentaire-du-samedi-thionville",
+    "nom": "Marché alimentaire du samedi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.359507,
+    "lon": 6.165102,
+    "adresse": "Rue du Manège et place Hugo, 57100 Thionville",
+    "horaires": "Samedi de 7h à 12h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Œufs",
+      "Fromages",
+      "Viande",
+      "Poisson",
+      "Fleurs"
+    ],
+    "description": "Le marché alimentaire hebdomadaire du centre de Thionville, rue du Manège et place Hugo. La Ville et l'office de tourisme du Pays Thionvillois donnent les mêmes jour, heures et familles de produits ; aucune liste d'étals n'est publiée. La photographie, un étal de légumes que l'office publie sous le titre « Marché alimentaire - Thionville », illustre la fiche sans qu'on puisse dater la séance.",
+    "telephone": "03 82 52 38 81",
+    "site_web": "https://www.thionville.fr/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20du%20Man%C3%A8ge%2057100%20Thionville",
+    "image_url": "/images/marchands/marche-alimentaire-du-samedi-thionville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-gare-thionville",
+    "nom": "Marché de la gare",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "transport",
+      "economie",
+      "social"
+    ],
+    "lat": 49.35431,
+    "lon": 6.169073,
+    "adresse": "Esplanade Jean Moulin, 57100 Thionville",
+    "horaires": "Jeudi de 16h à 20h selon la Ville de Thionville (l'office de tourisme du Pays Thionvillois écrit 17h-20h).",
+    "produits": [
+      "Produits alimentaires",
+      "Produits régionaux",
+      "Fruits et légumes",
+      "Confitures et jus"
+    ],
+    "description": "Marché de fin de journée sur le parvis de la gare, où, selon l'office de tourisme, s'installent des producteurs locaux ; pratique pour les navetteurs du jeudi soir. La Ville le classe « alimentaire, produits régionaux » ; les confitures, jus et fruits viennent de la photographie que l'office attache à ce marché.",
+    "telephone": "03 82 52 38 81",
+    "site_web": "https://www.thionville.fr/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Esplanade%20Jean%20Moulin%2057100%20Thionville",
+    "image_url": "/images/marchands/marche-de-la-gare-thionville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-fabrik-des-pains-vagabonds-thionville",
+    "nom": "La Fabrik des Pains Vagabonds",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.359929,
+    "lon": 6.164812,
+    "adresse": "15 Rue du Manège, 57100 Thionville",
+    "horaires": "Du mardi au vendredi de 7h30 à 18h30, samedi de 7h30 à 14h30. Fermé dimanche et lundi. Commandes 48 h à l'avance.",
+    "produits": [
+      "Pains au levain naturel",
+      "Pain de campagne aux graines de courge",
+      "Viennoiseries",
+      "Brioches et cookies",
+      "Cantine du midi",
+      "Café de spécialité"
+    ],
+    "description": "Boulangerie bio au levain naturel, cantine et coffee shop indépendants, qui fabrique sur place et dit privilégier le local et le bio. Engagée chez Ecocert depuis mars 2023 pour le pain et la viennoiserie au registre de l'Agence Bio, à cette adresse du Carré des Arts.",
+    "site_web": "https://la-fabrik-des-pains-vagabonds.eatbu.com/?lang=fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15%20rue%20du%20Man%C3%A8ge%2057100%20Thionville",
+    "image_url": "/images/marchands/la-fabrik-des-pains-vagabonds-thionville.jpg"
+  },
+  {
+    "slug": "amap-terre-citadine-thionville",
+    "nom": "AMAP Terre Citadine",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.349907,
+    "lon": 6.158351,
+    "adresse": "École primaire Beauregard, 25 Rue de Verdun, 57100 Thionville",
+    "horaires": "Distribution le jeudi de 19h10 à 20h, sous le préau de l'école, de février à fin novembre selon la page de la livraison (de mars à fin novembre selon la page d'adhésion). Paniers réservés aux adhérents.",
+    "produits": [
+      "Paniers de légumes de saison",
+      "Fruits",
+      "Œufs",
+      "Fromages et yaourts",
+      "Pain et farines",
+      "Viande et poulet",
+      "Miel",
+      "Bière"
+    ],
+    "description": "AMAP thionvilloise, qui tenait en mars 2026 sa dix-septième assemblée générale et fédère plusieurs paysans de la région et anime des ateliers de jardinage et de verger. Elle annonce ses paniers de légumes certifiés bio, sans que la certification du maraîcher ait été vérifiée ici. La photographie, un étal de fruits de marché publié par l'office de tourisme, est une illustration et ne montre pas la distribution.",
+    "site_web": "https://www.terre-citadine.info/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=25%20rue%20de%20Verdun%2057100%20Thionville",
+    "image_url": "/images/marchands/amap-terre-citadine-thionville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-du-linkling-terville",
+    "nom": "Biocoop du Linkling",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.35277,
+    "lon": 6.133972,
+    "adresse": "57 Rue le Kem, 57180 Terville",
+    "horaires": "Du lundi au vendredi de 9h30 à 19h30, samedi de 9h30 à 18h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Vrac",
+      "Fromages et charcuterie à la coupe",
+      "Pain",
+      "Pâtes aux blés anciens de Moselle",
+      "Fromages et yaourts de chèvre de Meurthe-et-Moselle",
+      "Vins AOC Moselle"
+    ],
+    "description": "Magasin bio de la zone du Linkling, à Terville, à 2,6 km du centre de Thionville, dans la même agglomération. Il publie la liste de ses vingt-cinq producteurs locaux, avec leur commune, et n'a en rayon fruits et légumes que de saison ; certifié Ecocert depuis 2020.",
+    "telephone": "03 82 90 71 27",
+    "site_web": "https://www.biocoop-linkling.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=57%20rue%20le%20Kem%2057180%20Terville",
+    "image_url": "/images/marchands/biocoop-du-linkling-terville.jpg"
   }
 ]
