@@ -3000,9 +3000,31 @@ prioritaires en cas de conflit.
      passe, et la description dit en toutes lettres d'où elle vient et qu'elle ne montre pas le lieu. Ici, l'étal de
      nectarines que la Ville de Valenciennes range sous « Marché de Valenciennes », sans place.
 
+229. **Un numéro que le site du commerce présente lui-même comme la ligne personnelle d'une personne nommée ne s'inscrit
+     pas, même s'il est publié par le commerce.** La règle 143 admet un portable dans `telephone` quand il figure sur une
+     source que l'exploitation tient elle-même. La ferme Aïoli Caganis publie bien un 06 sur sa page « Contact », mais en
+     le présentant comme le numéro de téléphone personnel de son fondateur, nommé par son prénom ; l'office de tourisme
+     reprend le même numéro. **Critère** : la règle 143 suppose un numéro « publié pour la clientèle » ; un numéro que la
+     source qualifie elle-même de personnel et rattache à une personne est une donnée personnelle, que le mandat interdit,
+     quelle que soit la volonté affichée de le partager. Le champ reste vide, la fiche dit comment venir et quand, et ni le
+     numéro ni le prénom ne sont reproduits dans ce README.
+
+230. **Un site qui interdit en toutes lettres la réutilisation de ses photographies n'est pas une source d'image ; la
+     photographie que l'office de tourisme publie pour la fiche du commerce prend le relais.** `AGENT.md` place le site
+     officiel en premier pour les photos. Celui de la cave coopérative La Venise Provençale écrit en pied de page que
+     « toute reproduction ou utilisation des photos présentes sur le site » est interdite sans l'autorisation de l'auteur.
+     **Critère** : une interdiction explicite l'emporte sur l'ordre de préférence ; on descend à l'échelon suivant, la
+     fiche de l'office de tourisme, dont les photographies sont fournies par le prestataire pour sa promotion, et le
+     README dit pourquoi. Si l'office n'en publie aucune, c'est la photographie thématique de la règle 1.
+
 ## Marchands à confirmer
 
-598 fiches sur 659 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+603 fiches sur 664 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Grand marché de Jonquières** (Martigues) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jours et heures, règle 176** : jeudi 8h-13h et dimanche 8h-13h30 sur la page « Marchés en ville » de la Ville ; l'office de tourisme arrête le dimanche à 13h, ce que `horaires` cite. **Pas de pilier `environnement`, règle 183** : l'arrêté municipal du 19 décembre 2023 qui supprime les sacs plastique de tous les marchés va dans la description. **Produits, règle 103** : les mots de la Ville et de l'office (fruits et légumes, épices, viandes, poissons, produits du terroir, fleurs, plats cuisinés) ; la présence de vêtements et d'artisanat est dite. **Point** : centre de la place des Martyrs à la Base Adresse Nationale (0,958), à 77 m du marqueur de l'office sur le quai Général-Leclerc. **Photo** : l'étal d'olives que l'office attache à ce seul marché, daté par son nom de fichier du dimanche 16 octobre 2022 (règle 140), aucune personne.)
+- **Marché des producteurs locaux de Ferrières** (Martigues) (mêmes catégorie, piliers et source communale. **Jour et heures** : mardi 16h-19h, identiques chez la Ville et l'office. **Saison, règle 176** : « d'avril à octobre » pour la Ville, « du 1er avril au 30 septembre » pour l'office ; la Ville prime, l'office est cité. **Pas de pilier `environnement`, règle 68** : la Ville compte « bio » parmi les étals sans qu'aucun certificat ne soit rattaché au marché. **Produits** : la liste de l'office (fruits et légumes, charcuterie, volailles, fromages, miel, œufs, huile d'olive, pâtes fraîches, confitures, entre autres), recoupée par celle de la Ville. **Point** : centre de la place Jean-Jaurès (0,963), à 18 m du marqueur de l'office. **Photo** : étal de tomates, courgettes et pommes de terre que l'office attache à ce marché, 1 920 px, recadré sur ses 270 pixels du haut pour écarter le buste d'un passant, 1 280 × 780.)
+- **Marché de Saint-Julien-les-Martigues** (Martigues) (mêmes catégorie, piliers et source communale. **Heures, règle 176** : samedi 8h30-12h30 selon la Ville, 8h30-12h selon l'office, qui est cité. **Produits** : la liste nominative d'étals de l'office (fromages et brousses, pain, poissons de Port-de-Bouc, coquillages de Sète, panisses de l'Estaque, fruits et légumes), recoupée par les « producteurs » de la Ville ; l'étal de pain y est dit bio sans certificat rattaché, d'où « Pain » tout court. **Point, règle 146** : l'office donne à ce marché et à la cave La Venise Provençale le même point au millionième ; il est sauté. La Ville situe le marché à la Maison pour tous, que le registre des entreprises domicilie au 322 route de Sausset (une association sportive y a son siège, point à 37 m) ; la Base Adresse Nationale rend ce numéro exact (0,971). **Photo** : les étals de légumes que l'office attache à ce marché, sans personne identifiable.)
+- **Aïoli Caganis** (Martigues) (catégorie `ferme`. **Registre, règle 6** : société civile agricole active, enseigne « AIOLI - CAGANIS », établissement ouvert au 100 chemin des Gides depuis juin 2023 (un ancien établissement rue des Laurons est fermé). **Pas de pilier `environnement`, règles 14 et 71** : aucun certificat à son SIRET au registre de l'Agence Bio ; la ferme écrit « agriculture raisonnée » et « permaculture », ce que la description reprend sans le traduire en pilier. **Pilier `social`** : parcours pédagogique sur la biodiversité et journées ouvertes, comme les fermes comparables. **Horaires** : identiques sur la page « Contact » de la ferme et chez l'office ; la fermeture annuelle vient de l'office seul. **Point, règle 63** : la Base Adresse Nationale ne connaît que les numéros 35 à 39 du chemin des Gides et pas le chemin des Gabians ; le point est celui de la carte que la ferme publie sous son propre nom sur sa page « Contact », à 91 m du marqueur de l'office. Le point du registre des entreprises tombe à 714 m plus à l'est, à 116 m du 35 chemin des Gides : il interpole l'adresse sur la partie numérotée de la voie, alors que la ferme dit se trouver au bout du chemin. **Téléphone, règle 229, née ici** : aucun. **Photo** : les courges que l'office attache à la fiche de la ferme, sans personne ; la photo de partage du site de la ferme est une fleur sauvage.)
+- **La Venise Provençale** (Martigues) (catégorie `producteur`, comme les caves coopératives déjà publiées. **Registre, règle 6** : coopérative vinicole active au 233 route de Sausset, et au même numéro une société distincte pour la boutique (règle 137 : la fiche est celle de la cave). **Piliers, règles 14 et 39** : `environnement`, parce que la coopérative est engagée chez Ecocert depuis le 18 août 2020, sans date d'arrêt, et que le registre déclare « vins de raisin » ; la description dit que le site ne précise pas les cuvées concernées. Pas d'`alimentation` : le seul produit non alcoolisé de la cave est un jus de raisin, le reste de l'épicerie vient de confrères. **Horaires** : ceux de la page « Contacter / Situer » de la cave ; l'office place la bascule au 15 septembre au lieu du 16, écart d'un jour cité dans `horaires`. **Point, règle 10** : la Base ignore le 233 ; la carte du site est un cadrage large, sans marqueur exploitable ; le point du registre des entreprises (commun à la cave et à la boutique) retombe à 78 m des 225 et 228 route de Sausset, la bonne voie à la bonne hauteur de numéro. Celui de l'Agence Bio, sur la route des Ventrons, n'est pas repris. **Photo, règle 230, née ici** : les grappes de la vendange que l'office attache à la fiche de la cave.)
 - **Marché de la place d'Armes** (Valenciennes) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jour et heures** : mercredi 7h30-12h30, jours fériés compris, place d'Armes et place du Commerce, sur la page « Marchés » de la Ville ; l'office de tourisme ne le cite qu'au détour de l'avis d'hiver (transfert au square Paul Gosset pendant le marché de Noël), que `horaires` reprend. **Produits, règles 69 et 103** : les légendes que la Ville attache à ses propres photographies (« étalage de légumes », « étalage de nectarines ») ; les vues d'ensemble de la Ville montrent aussi des portants de vêtements, ce que la description dit — aucun décompte d'étals n'est publié, la règle 119 ne joue pas. **Point** : centre de voie de la place d'Armes à la Base Adresse Nationale (0,971). **Photo** : la photographie « marché place d'Armes » de la Ville, 1 200 × 400, recadrée sur les 230 pixels du haut — façades, flèche, auvents — pour écarter les passants.)
 - **Marché de la place Verte** (Valenciennes) (mêmes catégorie, piliers et source communale. **Jour et heures** : samedi 7h30-12h30, identiques à la Ville et à l'office de tourisme (« le samedi matin autour du kiosque derrière le musée »). **Lieu, règle 227, née ici** : la Ville l'a transféré place d'Armes du 11 juillet « jusqu'à la mi-septembre 2026 » pour un diagnostic archéologique préalable au réaménagement de la place Verte ; la passe tombe le 21 septembre, la fiche porte la place Verte et cite le lieu provisoire. **Produits** : le texte de l'office (producteurs du Valenciennois, poulets rôtis, fruits, bouquets de fleurs). **Point** : centre de voie de la place Verte (0,966). **Photo** : la vue d'ensemble que la Ville publie, 1 200 × 400, le kiosque et les jardins du musée vus d'en haut ; les passants y font quelques pixels.)
 - **Marché d'Anzin** (Anzin) (**cinquième fiche au titre de la règle 52** : Anzin, commune limitrophe, appartient comme Valenciennes à Valenciennes Métropole, et le marché est à 2,0 km du barycentre des quatre fiches valenciennoises. **Registre, règle 106** : marché de la Ville. **Jour et heures** : mardi et vendredi 8h-13h, place Roger Salengro, sur la page « Le marché » de la Ville, qui publie aussi l'arrêté et le règlement. **Pas de pilier `environnement`, règle 183** : le dispositif écoresponsable d'avril 2023 (fin des sacs plastiques, tri dans trois bennes) va dans la description. **Produits, règle 103** : les mots de la Ville — produits frais, fruits et légumes, paniers anti-gaspi. **Point** : centre de voie de la place (0,966). **Photo, règle 228, née ici** : aucune photographie du marché ; photographie thématique de la Ville de Valenciennes (étal de nectarines, rattachée à aucun marché précis), ce que la description dit.)
@@ -9979,6 +10001,56 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Martigues
+
+Passe du 21 septembre 2026, dix-huitième de la journée. **Département retenu, règle 41** : les Bouches-du-Rhône (13),
+déficit **4,9523** sur une base de 659 fiches, devant la Savoie (4,2838) et la Loire-Atlantique (4,2171) ; l'outre-mer
+sort par les règles 93 et 177, le dénominateur est celui de la règle 224. La passe précédente visait Valenciennes, dans
+les Hauts-de-France ; les Bouches-du-Rhône sont en Provence-Alpes-Côte d'Azur, la réserve de la règle 41.c ne joue pas.
+**Commune** : Martigues, 48 298 habitants, la plus peuplée du département sans aucune fiche (Marseille, Aix-en-Provence
+et Arles en ont). Après la passe, sur 664 fiches, le 13 tombe à **+0,10** ; en tête ensuite : la **Loire-Atlantique**
+(4,3249), la **Savoie** (4,3163), les **Yvelines** (4,3010).
+
+**Les cinq fiches**, toutes dans Martigues, à moins de 6 km les unes des autres : le grand marché de Jonquières (jeudi et
+dimanche), le marché des producteurs locaux de Ferrières (mardi soir, d'avril à octobre), le marché de
+Saint-Julien-les-Martigues (samedi), la ferme Aïoli Caganis à Saint-Pierre-les-Martigues et la cave coopérative La Venise
+Provençale à Saint-Julien. Règle 167 : trois marchés, une ferme et un producteur plutôt que cinq marchés.
+
+**Les sources** : la page « Marchés en ville » et la page du quartier de Carro de la Ville (`ville-martigues.fr`), les
+fiches de l'office de tourisme (`martigues-tourisme.com`) — aucun des deux `robots.txt` ne vise un agent d'IA —, le
+registre de l'Agence Bio pour le 13 (3 220 opérateurs), le registre des entreprises, la Base Adresse Nationale, les sites
+de la ferme et de la cave, le blog de l'AMAP.
+
+**Contradictions tranchées** : trois écarts d'horaire ou de saison entre la Ville et l'office sur les marchés (règle
+176, la Ville prime) ; un jour d'écart sur la bascule d'horaire de la cave (le site de la cave prime, l'office est
+cité) ; le point de la ferme (règle 63, la carte de la ferme contre le registre, 714 m d'écart).
+
+**Fiches écartées pour doute sur une personne** : aucune. La page « Contact » de la ferme présente un numéro comme la
+ligne personnelle de son fondateur (règle 229) ; la fiche de l'AMAP à l'office et une fiche de producteur nomment des
+exploitants : rien n'en est repris.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché aux poissons de Carro** (vente directe des pêcheurs au retour des bateaux, tous les matins de 8h30 à 12h selon
+  l'office ; la page du quartier de Carro de la Ville confirme « son marché aux poissons tous les matins ») : fiche
+  `poissonnerie` prête, photographie d'étal sans personne datée de juin 2026. **Bloquée par le point, règle 166** : la
+  Base ignore le quai Jean-Vérandy ; l'office donne au marché aux poissons et au marché forain de Carro exactement le même
+  point (règle 146) ; les points que le registre des entreprises donne au quai se retournent sur d'autres voies, rue de la
+  Seinche à 3 m, rue des Ragues à 50 et 90 m (règle 24). **Déblocage** : un point publié pour le marché aux poissons seul,
+  ou l'apparition du quai dans la Base.
+- **AMAP À Tout Bio** (distribution le mercredi de 18h à 19h sur le parvis de la MJC, place du 8 Mai 1945, selon
+  l'office) : le blog de l'association s'arrête à un billet du 9 mars 2025 — **règle 195**, aucune source de moins de douze
+  mois. Le seul téléphone publié est un portable relayé par l'office (règle 198). **Déblocage** : une page datée de la
+  saison en cours.
+- **Marché de Ferrières** (place des Aires, jeudi et dimanche matin) et **marchés de La Couronne et de Carro** (mercredi et
+  samedi matin) : publiés par la Ville et l'office, laissés de côté au titre de la règle 167. Pour Ferrières, la Base ne
+  connaît pas de place des Aires dans ce quartier (l'office situe le marché rue du Colonel-Fabien) ; pour La Couronne, la
+  Base ignore la « place du marché » ; Carro partage le point de l'office avec le marché aux poissons (règle 146).
+- **Écartés** : une ferme qui livre des paniers et ne reçoit pas sur place (règle 152), un éleveur et un producteur de
+  poutargue que l'office présente sous leur nom personnel, les supermarchés certifiés de Martigues, de Port-de-Bouc et de
+  Châteauneuf-les-Martigues, des grossistes, et des exploitations inscrites sous le seul nom de leur exploitant, qui ne
+  sont pas nommées.
 
 ### Pistes non publiées à Valenciennes
 

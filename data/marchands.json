@@ -17506,5 +17506,145 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=70%20Rue%20Malplaquet%2059300%20Valenciennes",
     "image_url": "/images/marchands/amap-val-en-sol-valenciennes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "grand-marche-de-jonquieres-martigues",
+    "nom": "Grand marché de Jonquières",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.402531,
+    "lon": 5.057332,
+    "adresse": "Place des Martyrs, quai Général Leclerc et esplanade des Belges, 13500 Martigues",
+    "horaires": "Le jeudi de 8h à 13h et le dimanche de 8h à 13h30, selon la page « Marchés en ville » de la Ville ; l'office de tourisme arrête la séance du dimanche à 13h et signale qu'elle est annulée par mauvais temps.",
+    "produits": [
+      "Fruits et légumes",
+      "Olives et épices",
+      "Viandes",
+      "Poissons",
+      "Produits du terroir",
+      "Fleurs",
+      "Plats cuisinés"
+    ],
+    "description": "Le plus grand marché de Martigues, au cœur de Jonquières : une centaine d'étals selon la Ville, 140 forains selon l'office, où producteurs locaux et primeurs côtoient des stands de vêtements, de tissus et d'artisanat. Depuis le 1er janvier 2024, un arrêté municipal y interdit les sacs plastique, et la navette maritime gratuite Nauti'Bus le dessert depuis l'Île selon l'office. La photographie, publiée par l'office pour ce marché, montre un étal d'olives un dimanche d'octobre 2022.",
+    "site_web": "https://www.ville-martigues.fr/loisirs/marches-en-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Martyrs%2013500%20Martigues",
+    "image_url": "/images/marchands/grand-marche-de-jonquieres-martigues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-de-ferrieres-martigues",
+    "nom": "Marché des producteurs locaux de Ferrières",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.407731,
+    "lon": 5.054876,
+    "adresse": "Place Jean Jaurès et rue Jean Roque, Ferrières, 13500 Martigues",
+    "horaires": "Le mardi de 16h à 19h, d'avril à octobre, selon la Ville ; l'office de tourisme arrête la saison au 30 septembre et signale une annulation par mauvais temps.",
+    "produits": [
+      "Fruits et légumes",
+      "Volailles et charcuterie",
+      "Fromages",
+      "Miel",
+      "Œufs",
+      "Huile d'olive",
+      "Pâtes fraîches",
+      "Confitures"
+    ],
+    "description": "Marché saisonnier de fin d'après-midi lancé par la Ville et les commerçants de l'Île et de Ferrières : une quinzaine de producteurs locaux vendent directement sur la place Jean-Jaurès et la rue Jean-Roque, et depuis 2025 des créateurs et artisans locaux s'y ajoutent selon l'office. La photographie, publiée par l'office pour ce marché, montre un étal de tomates, de courgettes et de pommes de terre.",
+    "site_web": "https://www.ville-martigues.fr/loisirs/marches-en-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Jean%20Jaur%C3%A8s%2013500%20Martigues",
+    "image_url": "/images/marchands/marche-des-producteurs-de-ferrieres-martigues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-saint-julien-les-martigues",
+    "nom": "Marché de Saint-Julien-les-Martigues",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.362866,
+    "lon": 5.09574,
+    "adresse": "Maison pour tous, 322 Route de Sausset, Saint-Julien-les-Martigues, 13500 Martigues",
+    "horaires": "Le samedi de 8h30 à 12h30, devant la Maison pour tous, selon la Ville ; l'office de tourisme indique 8h30-12h et une annulation par mauvais temps.",
+    "produits": [
+      "Fromages et brousses",
+      "Œufs",
+      "Miel",
+      "Pain",
+      "Fruits et légumes",
+      "Poissons de Port-de-Bouc",
+      "Coquillages de Sète",
+      "Panisses"
+    ],
+    "description": "Petit marché du samedi matin dans le hameau agricole de Saint-Julien : six à sept exposants, principalement des producteurs selon la Ville, dont un fromager et un boulanger du hameau, un pêcheur de Port-de-Bouc et un conchyliculteur de Sète selon l'office, qui signale aussi quelques stands d'artisanat. La photographie, publiée par l'office pour ce marché, montre les étals de légumes alignés au bord de la place.",
+    "site_web": "https://www.ville-martigues.fr/loisirs/marches-en-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=322%20Route%20de%20Sausset%2013500%20Martigues",
+    "image_url": "/images/marchands/marche-de-saint-julien-les-martigues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "aioli-caganis-martigues",
+    "nom": "Aïoli Caganis",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.366335,
+    "lon": 5.043948,
+    "adresse": "100 Chemin des Gides, Saint-Pierre-les-Martigues, 13500 Martigues",
+    "horaires": "Magasin ouvert du mercredi au vendredi de 9h à 13h et de 16h à 19h, le samedi de 9h à 19h, selon le site de la ferme et l'office de tourisme ; l'office indique une fermeture annuelle du 20 décembre au 6 janvier.",
+    "produits": [
+      "Tomates, aubergines et poivrons",
+      "Courges et potirons",
+      "Haricots verts",
+      "Betteraves",
+      "Fraises",
+      "Pastèques et raisins",
+      "Œufs extra-frais"
+    ],
+    "description": "Ferme maraîchère conduite en permaculture dans la plaine agricole de Saint-Pierre-les-Martigues, sur une ancienne friche, avec un parcours pédagogique sur la biodiversité locale ; aucun certificat bio n'est inscrit à son nom au registre de l'Agence Bio. On y accède par la route de la Couronne puis le chemin des Gides, qui devient chemin des Gabians et se termine dans la ferme. L'office signale un « village des producteurs » les 1er et 3e samedis du mois à partir d'avril, de 9h à 13h30.",
+    "site_web": "https://aioli-caganis.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=A%C3%AFoli%20Caganis%2C%20Chemin%20des%20Gides%2C%2013500%20Martigues",
+    "image_url": "/images/marchands/aioli-caganis-martigues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-venise-provencale-martigues",
+    "nom": "La Venise Provençale",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.367764,
+    "lon": 5.087509,
+    "adresse": "233 Route de Sausset, Saint-Julien-les-Martigues, 13500 Martigues",
+    "horaires": "Vente directe au caveau du lundi au samedi : de 9h à 12h et de 14h à 18h du 16 septembre au 14 mai, de 9h à 12h et de 15h à 19h du 15 mai au 15 septembre, selon le site de la cave. L'office de tourisme place le changement d'horaire au 15 septembre.",
+    "produits": [
+      "Vins rouges, rosés et blancs AOP Coteaux d'Aix-en-Provence",
+      "Vins IGP Méditerranée",
+      "Vins effervescents de méthode traditionnelle",
+      "Jus de raisin",
+      "Sélection de produits locaux : poutargue, huile d'olive, miels"
+    ],
+    "description": "Cave coopérative fondée en 1957, première récolte en 1959, qui vinifie les raisins de 121 viticulteurs sur 185 hectares, surtout à Saint-Julien et Saint-Pierre selon l'office de tourisme. Engagée chez Ecocert depuis août 2020 au registre de l'Agence Bio pour des vins de raisin ; le site de la cave ne précise pas quelles cuvées sont concernées. Le caveau vend aussi une sélection de produits du terroir de confrères.",
+    "telephone": "04 42 81 33 93",
+    "site_web": "https://www.laveniseprovencale.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=233%20Route%20de%20Sausset%2013500%20Martigues",
+    "image_url": "/images/marchands/la-venise-provencale-martigues.jpg",
+    "a_confirmer": true
   }
 ]
