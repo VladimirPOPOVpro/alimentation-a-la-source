@@ -17377,5 +17377,134 @@
     "site_web": "https://www.neoperpignan.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15%20Rue%20Pierre%20Rameil%2066000%20Perpignan",
     "image_url": "/images/marchands/neo-atelier-des-pains-contraires-perpignan.jpg"
+  },
+  {
+    "slug": "marche-place-d-armes-valenciennes",
+    "nom": "Marché de la place d'Armes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.35787,
+    "lon": 3.523556,
+    "adresse": "Place d'Armes, 59300 Valenciennes",
+    "horaires": "Le mercredi de 7h30 à 12h30, jours fériés compris, sur la place d'Armes et la place du Commerce, selon la page « Marchés » de la Ville. Chaque hiver, pendant le marché de Noël, la Ville le transfère au square Paul Gosset, derrière le musée (de mi-novembre à début janvier les années précédentes).",
+    "produits": [
+      "Fruits et légumes",
+      "Nectarines et fruits de saison",
+      "Stands alimentaires et non alimentaires"
+    ],
+    "description": "Le marché de détail du mercredi, devant l'hôtel de ville, que la Ville présente comme l'un de ses marchés de plein air ; c'est un marché mixte, où les primeurs voisinent avec des stands de vêtements, et la Ville ne publie pas la liste des étals. Stationnement gratuit le mercredi sur le parking du musée selon la Ville. La photographie, publiée par la Ville pour ce marché, est recadrée au-dessus des passants.",
+    "site_web": "https://www.valenciennes.fr/decouvrir-la-ville/commerces-de-proximite/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20d'Armes%2059300%20Valenciennes",
+    "image_url": "/images/marchands/marche-place-d-armes-valenciennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-verte-valenciennes",
+    "nom": "Marché de la place Verte",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.357493,
+    "lon": 3.528395,
+    "adresse": "Place Verte, 59300 Valenciennes",
+    "horaires": "Le samedi de 7h30 à 12h30, jours fériés compris, dans les jardins du musée des Beaux-Arts (place Verte), selon la Ville et l'office de tourisme. Du 11 juillet à la mi-septembre 2026, le temps d'un diagnostic archéologique avant le réaménagement de la place Verte, la Ville l'a transféré sur la place d'Armes, à 350 m : en cas de doute sur le lieu du jour, vérifier auprès de la Ville.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Volailles rôties",
+      "Produits de producteurs locaux",
+      "Fleurs coupées"
+    ],
+    "description": "Le grand marché du samedi matin, autour du kiosque, derrière le musée et face à l'office de tourisme, que l'office décrit comme un marché de producteurs du Valenciennois ; il compte aussi des stands non alimentaires. Stationnement gratuit le samedi sur les boulevards Watteau et Pater selon la Ville. La photographie, une vue d'ensemble publiée par la Ville, montre le marché autour du kiosque.",
+    "site_web": "https://www.valenciennes.fr/decouvrir-la-ville/commerces-de-proximite/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Verte%2059300%20Valenciennes",
+    "image_url": "/images/marchands/marche-place-verte-valenciennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-roger-salengro-anzin",
+    "nom": "Marché d'Anzin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.37008,
+    "lon": 3.501033,
+    "adresse": "Place Roger Salengro, 59410 Anzin",
+    "horaires": "Le mardi et le vendredi matin, de 8h à 13h, selon la page « Le marché » de la Ville d'Anzin.",
+    "produits": [
+      "Produits frais",
+      "Fruits et légumes",
+      "Paniers anti-gaspi chez certains commerçants"
+    ],
+    "description": "Marché bihebdomadaire d'une centaine de commerçants devant l'hôtel de ville d'Anzin, commune limitrophe de Valenciennes, où la Ville signale des ventes parfois directes du producteur. Depuis avril 2023 la Ville l'a rendu écoresponsable : plus de sacs plastiques à usage unique, tri des déchets par les commerçants dans trois bennes. La Ville ne publie ni photographie ni liste des étals : l'image est une photographie thématique d'un étal de nectarines publiée par la Ville de Valenciennes, elle ne montre pas ce marché.",
+    "site_web": "https://anzin.fr/mon-quotidien/commerce/le-marche.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Roger%20Salengro%2059410%20Anzin",
+    "image_url": "/images/marchands/marche-place-roger-salengro-anzin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-valenciennes",
+    "nom": "Biocoop Valenciennes",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.371642,
+    "lon": 3.535282,
+    "adresse": "34bis Rue Ernest Macarez, 59300 Valenciennes",
+    "horaires": "Du lundi au samedi de 9h30 à 19h, fermé le dimanche, selon le site du magasin.",
+    "produits": [
+      "Fruits et légumes, dont des pommes locales",
+      "Pain (rayon boulangerie)",
+      "Fromagerie",
+      "Charcuterie",
+      "Viande et produits laitiers",
+      "Épicerie en vrac"
+    ],
+    "description": "Magasin bio du réseau Biocoop ouvert en 2008, au nord du centre, avec rayons boulangerie, fromagerie et charcuterie, un large rayon vrac et un retrait des courses commandées en ligne. Engagé chez Ecocert depuis juin 2008 au registre de l'Agence Bio, à cette adresse.",
+    "telephone": "09 61 46 18 00",
+    "site_web": "https://www.biocoop-valenciennes.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34bis%20Rue%20Ernest%20Macarez%2059300%20Valenciennes",
+    "image_url": "/images/marchands/biocoop-valenciennes.jpg"
+  },
+  {
+    "slug": "amap-val-en-sol-valenciennes",
+    "nom": "AMAP Val'en SOL",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.35044,
+    "lon": 3.507927,
+    "adresse": "70 Rue Malplaquet, 59300 Valenciennes",
+    "horaires": "Distribution le vendredi de 18h30 à 19h30 : légumes et pain chaque semaine, produits laitiers et fruits une semaine sur deux, selon le site de l'AMAP. Contrat à l'année, adhésion à l'association nécessaire ; visite possible pendant les distributions.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Pommes et poires (paniers de fruits)",
+      "Pains et brioches au levain",
+      "Produits laitiers de vache",
+      "Champignons",
+      "Colis de viande"
+    ],
+    "description": "AMAP créée en 2010, qui distribue chaque vendredi soir près de l'étang du Vignoble les paniers de producteurs de l'Avesnois et du Valenciennois. Le maraîcher qui fournit les légumes depuis 2025 est engagé chez Ecocert au registre de l'Agence Bio ; la certification des autres fournisseurs n'a pas été vérifiée. La photographie, publiée par l'AMAP, montre les cagettes d'une distribution d'août 2026.",
+    "site_web": "http://amapvalenciennes.blogspot.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=70%20Rue%20Malplaquet%2059300%20Valenciennes",
+    "image_url": "/images/marchands/amap-val-en-sol-valenciennes.jpg",
+    "a_confirmer": true
   }
 ]

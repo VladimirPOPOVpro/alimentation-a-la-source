@@ -2981,9 +2981,32 @@ prioritaires en cas de conflit.
      sur la pause de midi perd une heure ; celui qui se fie au panneau alors que la pause a été supprimée ne perd
      rien : la phrase du panneau reste donc visible.
 
+227. **Un marché déplacé à titre provisoire, dont l'autorité a daté la fin, se publie à son lieu habituel dès que la date
+     est passée, et le lieu provisoire se cite.** La Ville de Valenciennes a transféré son marché du samedi de la place
+     Verte à la place d'Armes « dès le samedi 11 juillet jusqu'à la mi-septembre 2026 », le temps d'un diagnostic
+     archéologique préalable au réaménagement de la place ; sa page permanente « Marchés » donne toujours la place
+     Verte. La règle 157 publie le lieu effectif pendant un chantier ; la règle 148 exige une publication postérieure
+     quand l'autorité a daté la fin d'un marché. Ici ce n'est pas le marché qui finit, c'est son exil, et l'autorité a
+     elle-même dit où il revient. **Tranché ainsi** : une fois l'échéance passée, la fiche porte le lieu habituel, cite
+     le lieu provisoire et la distance qui les sépare (350 m) dans `horaires`, et reste `a_confirmer`. Si l'autorité
+     publiait une prolongation, la règle 157 reprendrait la main.
+
+228. **La cinquième fiche d'une passe complétée au titre de la règle 52 peut porter une photographie thématique de la
+     commune calculée, si aucune n'existe dans la sienne.** Le marché d'Anzin est entièrement documenté par sa Ville —
+     lieu, jours, heures, règlement — mais ni la Ville, ni l'office de tourisme, ni l'intercommunalité n'en publient
+     une seule photographie. La règle 1 veut une photographie thématique « de la même commune » ; la règle 52, elle,
+     traite les deux communes comme une seule zone, à moins de 5 km. **Critère** : la photographie vient de l'autorité
+     de la commune calculée, n'est attribuée à aucun lieu précis (règle 164), n'est portée par aucune autre fiche de la
+     passe, et la description dit en toutes lettres d'où elle vient et qu'elle ne montre pas le lieu. Ici, l'étal de
+     nectarines que la Ville de Valenciennes range sous « Marché de Valenciennes », sans place.
+
 ## Marchands à confirmer
 
-594 fiches sur 654 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+598 fiches sur 659 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la place d'Armes** (Valenciennes) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jour et heures** : mercredi 7h30-12h30, jours fériés compris, place d'Armes et place du Commerce, sur la page « Marchés » de la Ville ; l'office de tourisme ne le cite qu'au détour de l'avis d'hiver (transfert au square Paul Gosset pendant le marché de Noël), que `horaires` reprend. **Produits, règles 69 et 103** : les légendes que la Ville attache à ses propres photographies (« étalage de légumes », « étalage de nectarines ») ; les vues d'ensemble de la Ville montrent aussi des portants de vêtements, ce que la description dit — aucun décompte d'étals n'est publié, la règle 119 ne joue pas. **Point** : centre de voie de la place d'Armes à la Base Adresse Nationale (0,971). **Photo** : la photographie « marché place d'Armes » de la Ville, 1 200 × 400, recadrée sur les 230 pixels du haut — façades, flèche, auvents — pour écarter les passants.)
+- **Marché de la place Verte** (Valenciennes) (mêmes catégorie, piliers et source communale. **Jour et heures** : samedi 7h30-12h30, identiques à la Ville et à l'office de tourisme (« le samedi matin autour du kiosque derrière le musée »). **Lieu, règle 227, née ici** : la Ville l'a transféré place d'Armes du 11 juillet « jusqu'à la mi-septembre 2026 » pour un diagnostic archéologique préalable au réaménagement de la place Verte ; la passe tombe le 21 septembre, la fiche porte la place Verte et cite le lieu provisoire. **Produits** : le texte de l'office (producteurs du Valenciennois, poulets rôtis, fruits, bouquets de fleurs). **Point** : centre de voie de la place Verte (0,966). **Photo** : la vue d'ensemble que la Ville publie, 1 200 × 400, le kiosque et les jardins du musée vus d'en haut ; les passants y font quelques pixels.)
+- **Marché d'Anzin** (Anzin) (**cinquième fiche au titre de la règle 52** : Anzin, commune limitrophe, appartient comme Valenciennes à Valenciennes Métropole, et le marché est à 2,0 km du barycentre des quatre fiches valenciennoises. **Registre, règle 106** : marché de la Ville. **Jour et heures** : mardi et vendredi 8h-13h, place Roger Salengro, sur la page « Le marché » de la Ville, qui publie aussi l'arrêté et le règlement. **Pas de pilier `environnement`, règle 183** : le dispositif écoresponsable d'avril 2023 (fin des sacs plastiques, tri dans trois bennes) va dans la description. **Produits, règle 103** : les mots de la Ville — produits frais, fruits et légumes, paniers anti-gaspi. **Point** : centre de voie de la place (0,966). **Photo, règle 228, née ici** : aucune photographie du marché ; photographie thématique de la Ville de Valenciennes (étal de nectarines, rattachée à aucun marché précis), ce que la description dit.)
+- **AMAP Val'en SOL** (Valenciennes) (catégorie `amap`. **Registre, règle 6** : les AMAP en sont dispensées. **Source** : le site de l'AMAP, tenu à jour (billets de janvier à août 2026) : distribution le vendredi 18h30-19h30 au 70 rue Malplaquet, près de l'étang du Vignoble, contrats légumes, fruits, pain, produits laitiers, champignons et colis de viande. **Pilier `environnement`, règles 60 et 209** : le maraîcher qui fournit les légumes depuis 2025 est engagé chez Ecocert depuis octobre 2025 au registre de l'Agence Bio, légumes frais déclarés ; les autres fournisseurs n'ont pas été vérifiés, la description le dit. **Non repris** : les prénoms et noms des producteurs et le numéro de portable que publie le site. **Point** : numéro exact (0,972). **Photo** : cagettes de tomates, oignons, aubergines et courgettes d'une distribution d'août 2026, publiée par l'AMAP, recadrée à 1 200 × 650 pour écarter les personnes et la feuille d'émargement.)
 - **Marché de la place de la République** (Perpignan) (catégorie et piliers des marchés municipaux, sans `environnement` : la Ville et l'office écrivent « produits bio et fermiers le samedi », ce qui ne désigne aucun étal certifié (règle 68). **Horaires** : du mardi au dimanche 7h30-13h, identiques sur la fiche du lieu de la Ville et sur la page « Les marchés de Perpignan » de l'office de tourisme (21 mai 2026) ; la place des Poilus, que les deux nomment, est dite dans `horaires`. **Produits, règle 92** : seules les familles que publient les deux sources. **Point** : la place de la République à la Base Adresse Nationale (0,971), à 23 m du marqueur de la Ville. **Règle 106** : équipement municipal. **Photo, règle 91** : l'étal de légumes que l'office attache à ce seul marché, 4 000 px, recadré sous la ligne des terrasses du fond où se tenaient des passants lointains, 1 280 × 353. Reste `a_confirmer` pour la composition des étals)
 - **Les Halles Vauban** (Perpignan) (catégorie `marche`, comme les halles couvertes déjà publiées. **Horaires** : mardi-dimanche 8h-20h, dimanche 8h-15h, identiques à la Ville et à l'office ; chaque commerce garde ses heures, ce que `horaires` dit. **Produits, règle 89** : la Ville ne publie que « une vingtaine d'artisans de bouche » et la restauration sur place ; le registre des entreprises place au 37-39 quai Vauban une boulangerie active sous enseigne, d'où « Pain », et des débits de boissons et de restauration. **Point** : numéro 37 à la Base (0,973), à 30 m du marqueur de la Ville. **Photo** : la cour d'entrée et l'enseigne, photographie de l'office que la Ville publie pour ce lieu, recadrée au-dessus des têtes des clients attablés, 1 000 × 372 ; la vue de l'office en terrasse, pleine de visages, n'a pas été retenue. Reste `a_confirmer` pour la liste des stands)
 - **Marché de la place de Belgique** (Perpignan) (catégorie et piliers des marchés municipaux, sans `environnement`, les œufs et la boulangerie bio n'étant que deux étals sans certificat rattaché au marché (règle 68). **Horaires** : jeudi et dimanche 7h30-12h, dimanche réduit, identiques à la Ville et à l'office. **Produits** : les familles que publient la Ville et l'office. **Point** : celui de la Ville, à 15 m du centre de la « place Albert de Belgique » à la Base (0,729 : la Base ne rend la place que sous ce nom complet, qui est celui qu'écrit la Ville). **Photo, règle 91** : les étals de primeurs que l'office attache à ce marché, recadrés sous les visages des chalands, 1 024 × 322. **Règle 168** : ce marché recoupe le jeudi et le dimanche celui de la République ; aucune candidate d'une autre catégorie n'atteignait la même qualité de vérification (voir les pistes). Reste `a_confirmer` pour la composition des étals)
@@ -9956,6 +9979,59 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Valenciennes
+
+Passe du 21 septembre 2026, dix-septième de la journée. **Département retenu, règle 41** : le Nord (59), déficit
+**4,8086** sur une base de 654 fiches, devant les Bouches-du-Rhône (4,8009) et la Savoie (4,2513) ; l'outre-mer sort par
+les règles 93 et 177, le dénominateur est celui de la règle 224. La passe précédente visait Perpignan, en Occitanie ; le
+Nord est dans les Hauts-de-France, la réserve de la règle 41.c ne joue pas. **Commune** : Valenciennes, 43 468 habitants,
+la plus peuplée du département sans aucune fiche (Lille, Tourcoing, Roubaix, Dunkerque et Villeneuve-d'Ascq en ont).
+Après la passe, sur 659 fiches, le 59 tombe à **−0,00** ; en tête ensuite, outre-mer écarté : les **Bouches-du-Rhône**
+(4,9523), la **Savoie** (4,2838), la **Loire-Atlantique** (4,2171).
+
+**Les cinq fiches** : quatre à Valenciennes — les marchés de la place d'Armes (mercredi) et de la place Verte (samedi),
+la Biocoop de la rue Ernest-Macarez, l'AMAP Val'en SOL — et, au titre de la règle 52, le marché d'Anzin, commune
+limitrophe de Valenciennes Métropole, à 2,0 km du barycentre des quatre autres. Valenciennes ne rendait que quatre
+fiches solides, voir ci-dessous.
+
+**Les sources** : la page « Marchés » et les avis de la Ville (`valenciennes.fr`), la page « Flâner sur le marché » de
+l'office de tourisme (`tourismevalenciennes.fr`) — aucun des deux `robots.txt` ne vise un agent d'IA —, la page « Le
+marché » de la Ville d'Anzin, le registre de l'Agence Bio pour le 59 (1 790 opérateurs), le registre des entreprises, la
+Base Adresse Nationale, le site du magasin Biocoop (son `robots.txt` interdit une liste de robots où ne figure aucun agent
+d'IA ; `biocoop.fr` n'a pas été ouvert, règle 149) et celui de l'AMAP.
+
+**Contradictions tranchées** : le lieu du marché du samedi (règle 227, née ici). Pour les deux marchés valenciennois, la
+Ville et l'office donnent les mêmes jours et heures.
+
+**Fiches écartées pour doute sur une personne** : aucune. Le site de la Biocoop nomme son responsable, celui de l'AMAP ses
+producteurs et un contact par son prénom avec un portable, celui d'une ferme d'Escautpont un prénom avec un portable :
+rien n'en est repris.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Halle Place Ô Marché** (ancien hippodrome, place de la Poterne) : la Ville la présente comme son marché couvert et
+  l'office en donne les horaires (mardi-samedi 7h30-19h, dimanche 8h-13h) ; le registre des entreprises y donne ouverts
+  un primeur, une boucherie, une poissonnerie, un caviste, un torréfacteur et un restaurant. Mais le site du réseau Place
+  Ô Marché ne liste plus que trois halles, sans Valenciennes, et son exploitant a été placé en redressement judiciaire
+  en 2024 : **règle 200**, la présomption d'ouverture de l'enseigne tombe. **Déblocage** : le retour de la halle dans
+  l'annuaire du réseau, ou une page propre à la halle qui publie ses heures ; la fiche est prête (photographie de façade
+  de la Ville, 1 200 × 370, sans personne).
+- **Marché bio de la place Saint-Nicolas** (premier dimanche du mois, le matin) : cité par la page « Marchés » de la
+  Ville et par l'office, mais sans heure, et les deux fiches dédiées (agenda de la Ville, fiche de l'office) répondent
+  404 ; l'heure 9h-12h ne survit que dans des pages effacées — règle 65. **Déblocage** : une heure publiée sur une page
+  vivante de la Ville ou de l'organisateur.
+- **Marché paysan de la place de la Barre** (troisième dimanche du mois, une vingtaine de producteurs selon l'office) :
+  absent de la page « Marchés » de la Ville, qui ne l'a mentionné qu'en février 2022 — règle 196.
+- **Paniers bio d'une association d'insertion** (siège avenue Désandrouin, certificat Ecocert engagé depuis 2009) :
+  vente de paniers aux adhérents, retrait le jeudi à Raismes selon des conditions de vente d'avril 2022 ; Raismes relève
+  d'une autre intercommunalité (règle 52) et la liste actuelle des points de retrait n'est pas lisible.
+- **Deux fermes en vente directe** à Escautpont et près de Valenciennes : ni horaires ni, pour l'une, adresse publiés —
+  règle 192.
+- **Écartés comme généralistes, sans vente au particulier ou fermés** : les supermarchés certifiés de la commune et de
+  l'agglomération, un magasin bio de réseau de l'avenue Albert-Ier (certificat arrêté en décembre 2020), des
+  préparateurs et grossistes, et des exploitations inscrites sous le seul nom de leur exploitant, qui ne sont pas
+  nommées.
 
 ### Pistes non publiées à Perpignan
 
