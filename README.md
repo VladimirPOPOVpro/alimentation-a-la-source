@@ -2880,9 +2880,29 @@ prioritaires en cas de conflit.
      Quatre-Routes, seul dont les deux publications concordent au quart d'heure près, est publié avec un
      seul horaire.
 
+221. **Un marché que la liste de la commune classe « alimentaire », quand cette même liste en classe
+     d'autres « manufacturé », « mixte » ou « de producteurs », a une famille de produits au sens de la
+     règle 197.** La Ville de Valence publie ses quinze marchés dans une seule page, mise à jour le
+     17 février 2026, et donne à chacun une nature : un « marché de producteurs », deux « mixtes », deux
+     « manufacturés », les autres « alimentaires » ; l'office de tourisme reprend la même nature fiche par
+     fiche. Pour le marché de Faventines, aucune source ne dit rien de plus. La règle 197 écarte la phrase
+     générique qui couvre tous les marchés d'une commune, parce qu'elle ne dit rien de celui-là. Une nature
+     attribuée marché par marché, dans une liste qui en distingue quatre, n'est pas cette phrase : elle trie,
+     comme le sous-type de la règle 49, et c'est exactement le classement « marchés alimentaires » que la
+     règle 103 a déjà accepté à Montreuil. **Critère** : la nature compte comme une famille quand elle est
+     écrite pour ce marché-là et que la même liste en emploie au moins une autre ; `produits` porte alors
+     cette seule ligne, la description dit que la composition des étals n'est pas publiée, et la fiche
+     reste `a_confirmer` (règle 92). Un adjectif commun à tous les marchés de la liste ne trie rien et
+     reste régi par la règle 197. Ici : le marché de Faventines, vendredi matin.
+
 ## Marchands à confirmer
 
-571 fiches sur 624 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+575 fiches sur 629 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de producteurs de la place Saint-Jean** (Valence) (catégorie et piliers des marchés, sans `environnement` : l'office écrit « agriculture raisonnée ou bio », ce n'est pas une classification (règles 45 et 49). **Jour, heure et lieu, règle 215** : la page « Les marchés à Valence » de la Ville, mise à jour le 17 février 2026 (mardi 16h-19h, « marché de producteurs ») et la fiche de l'office de tourisme Valence Romans Tourisme (mardi 16h-19h, toute l'année) concordent. **Produits, règle 91** : ceux qu'énumère l'office pour ce seul marché. **Téléphone, règle 189** : le service municipal des activités commerciales, que la page des marchés donne comme contact ; l'office imprime le standard de la mairie. **Point** : la Base Adresse Nationale connaît la place (0,966), à 28 m du marqueur de l'office. **Photo, règle 46** : la photographie que l'office attache à ce marché, sous une halle métallique, recadrée sous la ligne des visages, 1 024 × 318, non agrandie ; l'autre photographie de la fiche, le clocher de l'église, fait 512 px, sous le plancher de 600.)
+- **Marché de la place des Clercs** (Valence) (catégorie et piliers des marchés. **Deux séances, une fiche, règle 42** : l'office tient deux fiches, jeudi et samedi, sur le même point (12 m d'écart) ; la Ville écrit jeudi 7h-12h30 place des Clercs, samedi 7h-14h « place des Clercs, Université, Ormeaux, Simone Veil », et l'office concorde à la minute. **Produits, règle 91** : fruits et légumes, fleurs et plants, lus sur les trois photographies que l'office attache à la seule fiche du samedi, et les mots de cette fiche (« produits frais et locaux », « centaine d'exposants »). **Point** : la place à la Base Adresse Nationale (0,966). **Photo, règle 46** : l'étal de radis, poivrons et courges de la fiche du samedi, recadré sous la ligne des visages et à gauche d'une silhouette lointaine, 950 × 265 ; le bandeau que la Ville nomme « marchés fleurs place des Clercs » porte le portrait d'un marchand et plusieurs visages, il n'a pas servi.)
+- **Marché de Faventines** (Valence) (catégorie et piliers des marchés. **Produits, règle 221, née ici** : la seule nature « alimentaire » que lui donnent la Ville et l'office ; la fiche dit que la composition n'est pas publiée. **Horaires** : vendredi 7h-13h30 à la Ville et à l'office. **Point, règle 50** : la Ville écrit « place Faventines », que la Base Adresse Nationale ignore ; l'office écrit « Parking Faventines, 66 rue Faventines », numéro exact (0,979), à 25 m du marqueur de l'office ; l'adresse porte les deux noms. **Photo, règle 208** : la corbeille de fruits tenue à deux mains, sans visage, 800 × 533, que l'office attache sans légende aux fiches de cinq marchés valentinois (place des Clercs le jeudi, place de la Paix, place Danton, rue Jules-Ferry, Faventines) ; la fiche dit qu'elle ne montre pas ce marché, et aucune autre fiche de la passe ne l'emploie.)
+- **Biocoop Victor Hugo** (Valence) (magasin du réseau Biocoop, `magasin-bio`. **Source, règles 145 et 149** : le site du magasin, `valence.biocoop.net`, dont le `robots.txt` n'exclut aucun agent d'IA ; `biocoop.fr` n'a pas été consulté. **Registre, règle 6** : société active, établissement ouvert au 268 avenue Victor Hugo, code 47.29Z ; l'ancien établissement du 333 de la même avenue est fermé, ce qui concorde avec le déménagement de février 2022 que le site annonce. **Pilier `environnement`, règle 15** : certificat engagé depuis mars 2013 au registre de l'Agence Bio. **Circuit court, règle 86** : le site annonce 160 producteurs drômois et ardéchois et quatre boulangers locaux, sans les nommer. **Horaires** : données structurées du site, lundi-samedi 9h-19h30 ; la page d'accueil dit fermé les jours fériés. **Point** : numéro exact (0,981), à 10 m des coordonnées du site. **Photo** : l'allée des produits frais publiée par le magasin, 1 920 px ramenés à 1 280, personne dans le cadre ; la photographie du rayon traiteur, où paraît la couverture d'un livre avec un portrait nommé, n'a pas servi. Fiche non marquée `a_confirmer`.)
+- **Paysans Direct** (Valence) (magasin de producteurs ouvert cinq jours sur sept, `producteur` au titre de la règle 105. **Registre, règle 6** : l'association qui le porte est active depuis février 2024, un établissement ouvert au 86 route de Beauvallon, code 47.81Z. **Pas de pilier `environnement`, règle 60** : le magasin écrit que ses fermes sont certifiées bio mais ne figure pas lui-même au registre de l'Agence Bio, et ne nomme pas les fermes. **Horaires, produits, téléphone** : ceux du site du magasin. **Point** : numéro exact (0,97). **Photo, règles 1 et 203** : le bandeau « fruits et légumes » de la page des marchés de la Ville de Valence, sans visage, 1 618 px ramenés à 1 280 × 312 ; photographie thématique de la commune, la fiche dit qu'elle ne montre pas le magasin. L'illustration du site du magasin a l'allure d'une image de banque et n'a pas servi. L'adresse de courriel du magasin, une messagerie grand public, n'est pas reprise.)
 - **Biocoop Asnières** (Asnières-sur-Seine) (magasin du réseau Biocoop, `magasin-bio` comme les autres magasins du réseau. **Source, règles 145 et 149** : le site du magasin, `asnieres.biocoop.net`, dont le `robots.txt` n'exclut aucun agent d'IA ; `biocoop.fr`, qui exclut `CCBot` et `Bytespider`, n'a pas été consulté. **Registre, règle 6** : société active, un établissement ouvert au 17 rue Pierre Brossolette, code 47.29Z. **Pilier `environnement`, règle 15** : certificat Ecocert engagé depuis juillet 2015 au registre de l'Agence Bio. **Circuit court, règle 86** : la page « Producteurs locaux » nomme cinq fournisseurs à moins de 100 km, tous sous une enseigne non patronymique. **Horaires** : les données structurées du site et la page « Présentation détaillée » concordent. **Point** : numéro exact (0,97), à 7 m du point de l'Agence Bio, à 95 m du marché des Victoires (règle 12). **Photo** : l'entrée du magasin publiée sur son site, 2 362 px ramenés à 1 280, personne dans le cadre ; la photographie d'équipe n'a pas servi. Les prénoms et noms de l'équipe et de la responsable, que le site publie, ne sont pas repris. Fiche non marquée `a_confirmer`.)
 - **Marché des Victoires** (Asnières-sur-Seine) (marché municipal, catégorie et piliers des marchés. **Horaires, règle 220, née ici** : la page des marchés de la Ville (jeudi et dimanche 8h-13h30, vendredi 16h30-20h) ; l'annuaire municipal écrit 16h pour le vendredi, la fiche le dit. **Produits, règle 103** : les mots de la Ville pour l'ensemble de ses six marchés, la fiche le dit. **Point** : la Base Adresse Nationale ne connaît que la place (0,97) ; le point de la place tombe à 13 m de celui que la Géoplateforme de l'IGN donne à la « Halle Gourmande des Victoires », classée marché. **Téléphone, règle 189** : le service commerce de la Ville, seul contact publié. **Photo, règles 164 et 208** : le bandeau de la page « Économie et commerce » de la Ville, une halle de marché vue d'en haut que la Ville ne nomme pas, recadré sur la charpente et les allées lointaines au-dessus de toute tête reconnaissable, 1 280 × 420 ; la fiche dit que la Ville ne nomme pas cette halle.)
 - **Marché des Quatre-Routes** (Asnières-sur-Seine) (marché municipal, catégorie et piliers des marchés. **Horaires** : la page des marchés et l'annuaire de la Ville concordent, jeudi et dimanche 8h30-13h30 (règle 220). **Répétition, règle 168** : ses jours recoupent ceux du marché des Victoires, mais aucune candidate d'une autre catégorie, également vérifiée et illustrable, ne restait à Asnières ; il passe devant les marchés du mercredi et du samedi parce que c'est le seul dont les deux publications de la Ville concordent et dont l'adresse est numérotée. **Point** : numéro exact (0,98), à 100 m de la station de tramway Asnières Quatre Routes de la Géoplateforme. **Produits, règle 103** : les mots de la Ville pour ses six marchés. **Photo, règles 1 et 203** : un détail d'étal (cageots de légumes et de fruits) tiré du bandeau de la page des marchés de la Ville, fichier distinct de celui du marché des Victoires, recadré à 760 × 330 sans visage — une tête vue de dos, une autre coupée au bord — ; photographie thématique qui ne montre pas ce marché, la fiche le dit.)
@@ -9825,6 +9845,55 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Valence
+
+Passe du 21 septembre 2026, onzième de la journée. **Département retenu, règle 41** : la Drôme (26),
+déficit **4,7439** pour 524 207 habitants et aucune fiche, sur une base de 624 fiches ; l'outre-mer sort
+par les règles 93 et 177. La passe précédente visait les Hauts-de-Seine, en Île-de-France ; la Drôme est
+en Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas. Après la passe, sur 629 fiches, le 26
+tombe à **−0,2181** ; en tête ensuite, outre-mer écarté : l'**Aisne** (4,7740), la **Moselle** (4,5902),
+la **Manche** (4,5385) et les **Pyrénées-Orientales** (4,5324).
+
+**Commune** : Valence, 64 458 habitants, la plus peuplée du département ; elle rend ses cinq fiches
+seule, sans élargissement. Les cinq tiennent dans 3,6 km, du marché de la place des Clercs au magasin de
+producteurs de la route de Beauvallon, et couvrent six jours sur sept.
+
+**Les sources.** La page « Les marchés à Valence » de la Ville, mise à jour le 17 février 2026, et son
+plan de site ; les fiches de marchés et le plan de site de l'office de tourisme Valence Romans Tourisme ;
+le site de Paysans Direct ; le site du magasin Biocoop ; le registre de l'Agence Bio, paginé sur les 3 264
+opérateurs du département, dont 84 à Valence ; le registre des entreprises ; la Base Adresse Nationale.
+Aucun de ces sites n'exclut d'agent d'IA dans son `robots.txt` ; celui de la Ville répond 403, ce qui ne
+vaut pas exclusion.
+
+- **Marchés de la place de la Paix** (mercredi, Châteauvert), **de la rue Jules-Ferry** (mercredi,
+  Valensolles) **et de la place Danton** (lundi) : jour, heures et nature « alimentaire » concordent entre
+  la Ville et l'office, et la règle 221 leur donnerait la même ligne de produits qu'à Faventines. Leur seule
+  image est la corbeille générique déjà employée pour Faventines, en 800 px : un second découpage
+  franchement différent (règle 208) tomberait sous 700 px. **Déblocage** : une photographie propre, ou le
+  prochain passage sur la commune avec une autre image générique de la Ville.
+- **Marché de la place des Aravis** (jeudi, Le Plan) : « petit marché de produits frais » selon l'office,
+  mais sa seule photographie fait 194 px, sous le plancher de la règle 59, et il tient le même jour que la
+  place des Clercs (règle 168).
+- **Marchés de la rue Marx-Dormoy** (jeudi, Grand Charran) **et de l'avenue de Verdun** (vendredi,
+  Polygone) : cités par la seule page des marchés de la Ville, une fois chacun, absents de l'office ; la
+  règle 178 demande deux endroits distincts du site communal.
+- **Marché mixte de la place de l'Europe** (mardi 7h-14h et samedi 12h-18h, Fontbarlettes) : « mixte »
+  pour la Ville, 115 commerçants selon l'office, sans part alimentaire publiée (règle 119). **Marchés
+  manufacturés** du boulevard Maurice-Clerc et de la place de l'Europe : hors sujet.
+- **AMAP Le Goût Nature** (Bourg-lès-Valence, jeudi soir) : commune voisine de la même agglomération ;
+  non instruite, Valence rendant cinq fiches seule (règle 96). À reprendre le jour où la règle 41 visera
+  Bourg-lès-Valence.
+- **Ferme pédagogique du chemin des Marlhes** : parc animalier et visites, sans vente alimentaire publiée ;
+  hors sujet. Sa fiche d'office porte le portrait nommé de l'exploitante, qui n'est pas repris.
+- **Le registre de l'Agence Bio à Valence** : 84 opérateurs, en majorité des supermarchés et supérettes
+  certifiés pour un rayon, des industries, des grossistes et des sièges. Un primeur certifié voisin de
+  Paysans Direct, une brasserie, une ferme et quelques maraîchers exerçant en nom propre n'ont pas été
+  instruits, la passe ayant ses cinq fiches.
+- **Aucune piste écartée pour doute sur une personne.** Les données personnelles rencontrées ont été
+  laissées de côté sans que les fiches en dépendent : noms d'exploitants en nom propre au registre de
+  l'Agence Bio, portrait nommé de la ferme pédagogique, adresse de courriel du magasin de producteurs,
+  portrait d'auteur sur une photographie du rayon traiteur du Biocoop.
 
 ### Pistes non publiées à Asnières-sur-Seine
 

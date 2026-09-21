@@ -16586,5 +16586,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20rue%20Cugnet%2C%2092700%20Colombes",
     "image_url": "/images/marchands/amap-du-poete-colombes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-producteurs-saint-jean-valence",
+    "nom": "Marché de producteurs de la place Saint-Jean",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.934542,
+    "lon": 4.891304,
+    "adresse": "Place Saint-Jean, 26000 Valence",
+    "horaires": "Le mardi de 16h à 19h, toute l'année.",
+    "produits": [
+      "Fruits et légumes frais de saison",
+      "Pain et pogne",
+      "Œufs",
+      "Noix",
+      "Miel",
+      "Tisanes et plantes aromatiques",
+      "Vins"
+    ],
+    "description": "Le seul marché valentinois que la Ville classe « marché de producteurs », en fin d'après-midi sur la place Saint-Jean, au pied de l'église Saint-Jean-Baptiste. L'office de tourisme le présente comme le rendez-vous des producteurs, éleveurs et horticulteurs de la région, en agriculture raisonnée ou bio ; les produits indiqués sont ceux qu'il énumère. La photographie, publiée par l'office pour ce marché, est recadrée sous la ligne des visages.",
+    "telephone": "04 75 79 20 96",
+    "site_web": "https://www.valence.fr/mon-quotidien/commerce/les-marches-a-valence/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Jean%2C%2026000%20Valence",
+    "image_url": "/images/marchands/marche-de-producteurs-saint-jean-valence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-clercs-valence",
+    "nom": "Marché de la place des Clercs",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.931689,
+    "lon": 4.890306,
+    "adresse": "Place des Clercs, 26000 Valence",
+    "horaires": "Le jeudi de 7h à 12h30, place des Clercs ; le samedi de 7h à 14h, étendu aux places de l'Université, des Ormeaux et Simone-Veil.",
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs et plants",
+      "Produits frais et locaux"
+    ],
+    "description": "Marché alimentaire du centre ancien, au pied de la cathédrale Saint-Apollinaire, deux fois par semaine ; le samedi, l'office de tourisme le décrit comme le plus grand marché de la semaine, avec une centaine d'exposants. La Ville ne publie pas la liste des étals : les produits indiqués sont ceux que montrent les photographies que l'office attache à la seule fiche du samedi, et celle-ci est recadrée sous la ligne des visages.",
+    "telephone": "04 75 79 20 96",
+    "site_web": "https://www.valence.fr/mon-quotidien/commerce/les-marches-a-valence/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Clercs%2C%2026000%20Valence",
+    "image_url": "/images/marchands/marche-des-clercs-valence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-faventines-valence",
+    "nom": "Marché de Faventines",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.929277,
+    "lon": 4.898364,
+    "adresse": "Place Faventines (parking Faventines), 66 rue Faventines, 26000 Valence",
+    "horaires": "Le vendredi de 7h à 13h30, toute l'année.",
+    "produits": [
+      "Produits alimentaires (marché classé « alimentaire » par la Ville)"
+    ],
+    "description": "Marché de quartier du vendredi matin, sur le parking Faventines, à l'est du centre-ville ; c'est le seul marché alimentaire valentinois de ce jour-là avec celui de l'avenue de Verdun. La Ville et l'office de tourisme le classent « marché alimentaire » sans publier la composition des étals. La photographie est l'image générique dont l'office illustre cinq marchés de la ville ; elle ne montre pas ce marché-ci.",
+    "telephone": "04 75 79 20 96",
+    "site_web": "https://www.valence.fr/mon-quotidien/commerce/les-marches-a-valence/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=66%20rue%20Faventines%2C%2026000%20Valence",
+    "image_url": "/images/marchands/marche-faventines-valence.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-victor-hugo-valence",
+    "nom": "Biocoop Victor Hugo",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.9179,
+    "lon": 4.885318,
+    "adresse": "268 avenue Victor Hugo, 26000 Valence",
+    "horaires": "Du lundi au samedi de 9h à 19h30 ; fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Fruits et légumes exclusivement de saison",
+      "Pain frais de quatre boulangers locaux",
+      "Fromages à la coupe",
+      "Plats traiteur faits maison",
+      "Plus de 400 produits en vrac",
+      "Point retrait des paniers de légumes des Jardins de Cocagne"
+    ],
+    "description": "Magasin du réseau Biocoop ouvert en 2012 et installé depuis février 2022 dans de nouveaux locaux avenue Victor-Hugo, au sud du centre-ville. Il annonce travailler toute l'année avec 160 producteurs drômois et ardéchois ; son certificat bio est engagé depuis 2013 au registre de l'Agence Bio. Parking, abri à vélos et livraison à vélo.",
+    "telephone": "04 75 25 19 58",
+    "site_web": "https://valence.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=268%20avenue%20Victor%20Hugo%2C%2026000%20Valence",
+    "image_url": "/images/marchands/biocoop-victor-hugo-valence.jpg"
+  },
+  {
+    "slug": "paysans-direct-valence",
+    "nom": "Paysans Direct",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.899632,
+    "lon": 4.887792,
+    "adresse": "86 route de Beauvallon, 26000 Valence",
+    "horaires": "Mardi, mercredi et jeudi de 14h à 19h ; vendredi et samedi de 9h à 19h sans interruption ; fermé dimanche et lundi.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Pains, céréales, légumineuses et farines",
+      "Fromages et produits laitiers",
+      "Confitures, conserves, condiments et huiles",
+      "Miels",
+      "Volailles et viandes de bœuf, porc, brebis, chèvre et chevreau"
+    ],
+    "description": "Magasin de producteurs de Drôme-Ardèche, dans le sud de Valence, où chaque produit vient directement des fermes associées, sans intermédiaire ; il a été financé en partie par un appel au financement participatif. Les fermes se disent certifiées bio, mais le magasin ne figure pas au registre de l'Agence Bio, d'où l'absence du pilier environnement. La photographie est un bandeau de la Ville de Valence sur ses marchés : elle ne montre pas le magasin.",
+    "telephone": "09 88 34 33 73",
+    "site_web": "https://paysansdirect.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=86%20route%20de%20Beauvallon%2C%2026000%20Valence",
+    "image_url": "/images/marchands/paysans-direct-valence.jpg",
+    "a_confirmer": true
   }
 ]
