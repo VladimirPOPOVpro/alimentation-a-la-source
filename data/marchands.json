@@ -15526,5 +15526,131 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc%20du%20ch%C3%A2teau%204%20rue%20de%20la%20Chapelle%2071380%20Ch%C3%A2tenoy-en-Bresse",
     "image_url": "/images/marchands/marche-des-producteurs-chatenoy-en-bresse.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-du-boulingrin-reims",
+    "nom": "Marché des Halles du Boulingrin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.260141,
+    "lon": 4.031281,
+    "adresse": "Halles du Boulingrin, 50 Rue de Mars, 51100 Reims",
+    "horaires": "Le vendredi de 7h à 13h et le samedi de 6h à 14h. Le règlement des marchés de plein air du 15 octobre 2025 prévoit en outre, le vendredi, un « marché bio » de 15h30 à 19h30, sans en préciser le lieu ; l'office de tourisme le situe aux Halles, la page des marchés de la Ville ne le mentionne pas. Le même office annonce aussi une ouverture le mercredi matin, absente de la page de la Ville comme de l'arrêté.",
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs et plantes",
+      "Produits alimentaires",
+      "Produits non alimentaires"
+    ],
+    "description": "Marché couvert sous la voûte de béton des Halles du Boulingrin, inaugurées en 1929 et devenues un repère de la ville. Le règlement municipal étend l'emprise du samedi à la place du Boulingrin, à la rue de Mars et à la rue Andrieux, et impose une pancarte « PRODUCTEUR » aux seuls étals qui vendent leur propre récolte. Aucune source ne publie la liste des commerçants : les fruits, les légumes et les fleurs cités sont ceux que montre la photographie du marché publiée par le Grand Reims. L'illustration de la fiche est, elle, une vue extérieure des halles publiée par l'office de tourisme.",
+    "site_web": "https://www.reims.fr/economie-emplois/les-marches/les-halles-du-boulingrin",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles%20du%20Boulingrin%2050%20rue%20de%20Mars%2051100%20Reims",
+    "image_url": "/images/marchands/halles-du-boulingrin-reims.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-jean-jaures-reims",
+    "nom": "Marché Jean Jaurès",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.261068,
+    "lon": 4.050112,
+    "adresse": "Avenue Jean Jaurès, du boulevard Carteret à la rue Marteau, 51100 Reims",
+    "horaires": "Le dimanche : ouverture de vente à 7h, fin de présence obligatoire des commerçants à 13h15, selon le règlement des marchés de plein air du 15 octobre 2025. La page des marchés de la Ville annonce « de 5h à 13h30 » ; 5h est, dans le même arrêté, l'heure à partir de laquelle les commerçants peuvent s'installer.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits non alimentaires"
+    ],
+    "description": "Marché de plein air du dimanche matin, installé des deux côtés de l'avenue Jean Jaurès entre le boulevard Carteret et la rue Marteau. Le règlement municipal y autorise l'alimentaire comme le non-alimentaire et réserve la pancarte « PRODUCTEUR » aux étals qui vendent leur propre récolte ; aucune source ne publie la composition des étals. Le point publié est le milieu du tronçon défini par l'arrêté, contrôlé à 11 m sur le 158 bis de l'avenue. La photographie est un étal de légumes pris sur un autre marché rémois et publié par l'office de tourisme : elle ne montre pas ce marché-ci.",
+    "site_web": "https://www.reims.fr/economie-emplois/les-marches/les-marches-dans-la-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Jean%20Jaur%C3%A8s%2051100%20Reims",
+    "image_url": "/images/marchands/marche-jean-jaures-reims.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-sainte-anne-reims",
+    "nom": "Marché Sainte-Anne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.236363,
+    "lon": 4.032511,
+    "adresse": "Rue de Louvois, du début de la rue au n° 93, 51100 Reims",
+    "horaires": "Le dimanche : ouverture de vente à 7h, fin de présence obligatoire des commerçants à 13h, selon le règlement des marchés de plein air du 15 octobre 2025. La page des marchés de la Ville annonce « de 5h à 13h30 » ; 5h est, dans le même arrêté, l'heure à partir de laquelle les commerçants peuvent s'installer.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits non alimentaires"
+    ],
+    "description": "Marché de plein air du dimanche matin, installé des deux côtés de la rue de Louvois depuis le début de la rue jusqu'au numéro 93, dans le quartier Sainte-Anne. Le règlement municipal y autorise l'alimentaire comme le non-alimentaire ; aucune source ne publie la composition des étals. Le point publié est le milieu du tronçon défini par l'arrêté, contrôlé à 8 m sur le 62 de la rue. La photographie est un étal de légumes pris sur un autre marché rémois et publié par l'office de tourisme : elle ne montre pas ce marché-ci.",
+    "site_web": "https://www.reims.fr/economie-emplois/les-marches/les-marches-dans-la-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20Louvois%2051100%20Reims",
+    "image_url": "/images/marchands/marche-sainte-anne-reims.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-croix-rouge-reims",
+    "nom": "Marché Croix-Rouge",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.237097,
+    "lon": 4.004543,
+    "adresse": "Rue Pierre Taittinger, côté centre commercial, 51100 Reims",
+    "horaires": "Le samedi : ouverture de vente à 7h, fin de présence obligatoire des commerçants à 13h, selon le règlement des marchés de plein air du 15 octobre 2025. La page des marchés de la Ville annonce « de 5h à 13h » ; 5h est, dans le même arrêté, l'heure à partir de laquelle les commerçants peuvent s'installer.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits non alimentaires"
+    ],
+    "description": "Marché de plein air du samedi matin, aligné le long de la rue Pierre Taittinger du côté du centre commercial, dans le quartier Croix-Rouge. Le règlement municipal y autorise l'alimentaire comme le non-alimentaire ; aucune source ne publie la composition des étals. L'arrêté écrit « boulevard Pierre Taittinger », un nom que la Base Adresse Nationale ne connaît pas : le point publié est celui du numéro 44 de la rue, à 4 m du marqueur de l'office de tourisme. La photographie est un étal de légumes pris sur un autre marché rémois et publié par l'office de tourisme : elle ne montre pas ce marché-ci.",
+    "site_web": "https://www.reims.fr/economie-emplois/les-marches/les-marches-dans-la-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Pierre%20Taittinger%2051100%20Reims",
+    "image_url": "/images/marchands/marche-croix-rouge-reims.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-saint-thomas-reims",
+    "nom": "Biocoop Saint-Thomas",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.264503,
+    "lon": 4.027153,
+    "adresse": "34 Avenue de Laon, 51100 Reims",
+    "horaires": "Du lundi au vendredi de 9h30 à 13h et de 15h à 19h30, le samedi de 9h30 à 19h30. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Vrac : céréales, légumineuses, pâtes, riz, fruits secs, café",
+      "Pain et viennoiserie",
+      "Fromage à la coupe",
+      "Produits laitiers et œufs",
+      "Épicerie salée et sucrée"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop installé avenue de Laon, au nord du centre, où l'enseigne annonce 300 m² de produits biologiques et locaux. La société qui l'exploite est active au registre des entreprises, avec un siège à soixante-dix mètres de là rue Léon Hourlier, et engagée au registre national de l'Agence Bio depuis juin 2017, certifiée par Bureau Veritas. Le magasin publie deux rayons à la coupe, boulangerie et fromagerie ; le détail du vrac est lu sur le mur de silos que le magasin photographie lui-même.",
+    "telephone": "03 26 77 04 89",
+    "site_web": "https://www.biocoop-saint-thomas.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Saint-Thomas%2034%20avenue%20de%20Laon%2051100%20Reims",
+    "image_url": "/images/marchands/biocoop-saint-thomas-reims.jpg",
+    "a_confirmer": true
   }
 ]
