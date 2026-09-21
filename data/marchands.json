@@ -17243,5 +17243,139 @@
     "site_web": "https://www.fournildespetitspas.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28%20rue%20de%20la%20Paix%2050100%20Cherbourg-en-Cotentin",
     "image_url": "/images/marchands/fournil-des-petits-pas-cherbourg.jpg"
+  },
+  {
+    "slug": "marche-republique-poilus-perpignan",
+    "nom": "Marché de la place de la République",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.698507,
+    "lon": 2.895279,
+    "adresse": "Place de la République, 66000 Perpignan",
+    "horaires": "Du mardi au dimanche, de 7h30 à 13h, selon la Ville et l'office de tourisme de Perpignan. Le samedi matin, des producteurs bio et fermiers s'ajoutent au marché. Le marché déborde aussi sur la place des Poilus toute proche.",
+    "produits": [
+      "Fruits et légumes",
+      "Primeurs de saison",
+      "Produits bio et fermiers le samedi"
+    ],
+    "description": "Le marché alimentaire quotidien du cœur du centre historique, que la Ville et l'office de tourisme décrivent sur la place de la République et la place des Poilus ; le samedi matin, des producteurs bio et fermiers viennent s'ajouter aux commerçants de l'année. La photographie, publiée par l'office de tourisme pour ce marché, montre un étal de légumes sur la place.",
+    "site_web": "https://www.mairie-perpignan.fr/contacts/marche-republique-poilus",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2066000%20Perpignan",
+    "image_url": "/images/marchands/marche-republique-poilus-perpignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-halles-vauban-perpignan",
+    "nom": "Les Halles Vauban",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.699645,
+    "lon": 2.892367,
+    "adresse": "37 Quai Sébastien Vauban, 66000 Perpignan",
+    "horaires": "Du mardi au dimanche de 8h à 20h ; le dimanche de 8h à 15h. Fermé le lundi. Horaires identiques sur la page de la Ville et sur celle de l'office de tourisme ; chaque stand garde ses propres heures.",
+    "produits": [
+      "Pain",
+      "Produits d'artisans de bouche",
+      "Restauration sur place"
+    ],
+    "description": "Halles couvertes du centre-ville, au bord de la Basse, qui réunissent selon la Ville plus d'une vingtaine d'artisans de bouche, avec la possibilité de manger sur place. La photographie montre la cour d'entrée et l'enseigne des Halles.",
+    "site_web": "https://www.mairie-perpignan.fr/contacts/les-halles-vauban",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37%20Quai%20S%C3%A9bastien%20Vauban%2066000%20Perpignan",
+    "image_url": "/images/marchands/les-halles-vauban-perpignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-de-belgique-perpignan",
+    "nom": "Marché de la place de Belgique",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.695703,
+    "lon": 2.883069,
+    "adresse": "Place Albert de Belgique, 66000 Perpignan",
+    "horaires": "Jeudi et dimanche matin, de 7h30 à 12h ; le dimanche, marché réduit. Horaires identiques sur la page de la Ville et sur celle de l'office de tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Pain et pâtisserie",
+      "Œufs bio",
+      "Fromages",
+      "Charcuterie",
+      "Huîtres",
+      "Miel",
+      "Vins"
+    ],
+    "description": "Marché alimentaire à l'ombre des platanes, dans le quartier de la gare, que la Ville décrit comme méditerranéen : fruits et légumes, boulangerie bio, œufs bio, fromagerie, huîtres, miel, vins et bière artisanale, avec des traiteurs italien, libanais et catalan. La photographie, publiée par l'office de tourisme pour ce marché, montre les étals de primeurs sur la place.",
+    "site_web": "https://www.mairie-perpignan.fr/contacts/marche-place-de-belgique",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Albert%20de%20Belgique%2066000%20Perpignan",
+    "image_url": "/images/marchands/marche-place-de-belgique-perpignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-perpignan-centre-del-mon",
+    "nom": "Biocoop Perpignan",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 42.698836,
+    "lon": 2.876993,
+    "adresse": "12 Avenue de Prades, 66000 Perpignan",
+    "horaires": "Du lundi au samedi de 9h à 19h selon le site du magasin. Le panneau photographié sur la façade (non daté) indique 9h-13h et 14h-19h, sans interruption le mardi et le samedi. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes frais, de saison et locaux",
+      "Fromages à la coupe",
+      "Viande et produits laitiers",
+      "Pain frais",
+      "Épicerie en vrac",
+      "Écoproduits"
+    ],
+    "description": "Magasin bio de 300 m² du réseau Biocoop, près de la gare et du centre-ville, avec un parking : fruits et légumes de saison et locaux, rayon fromage à la coupe, pain de boulangers, vrac et écoproduits. Engagé chez Ecocert depuis mars 2024 au registre de l'Agence Bio, à cette adresse.",
+    "telephone": "04 68 56 62 97",
+    "site_web": "https://www.biocoopperpignan.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=12%20Avenue%20de%20Prades%2066000%20Perpignan",
+    "image_url": "/images/marchands/biocoop-perpignan-centre-del-mon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "neo-atelier-des-pains-contraires-perpignan",
+    "nom": "Néo, l'Atelier des Pains Contraires",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 42.701395,
+    "lon": 2.891274,
+    "adresse": "15 Rue Pierre Rameil, 66000 Perpignan",
+    "horaires": "Mardi de 14h à 19h, du mercredi au vendredi de 8h à 19h, samedi de 8h à 13h et de 17h à 19h (sauf si tout le pain est parti à 13h). Fermé dimanche et lundi. Commande en ligne 72 h à l'avance.",
+    "produits": [
+      "Pains au levain naturel bio",
+      "Pain au blé Barbu du Roussillon",
+      "Pains de semences paysannes",
+      "Pains au khorasan, au petit épeautre et 100 % seigle",
+      "Pains de riz sans blé",
+      "Brioche au levain",
+      "Focaccia et crackers"
+    ],
+    "description": "Boulangerie bio au levain naturel du centre de Perpignan, qui fabrique sur place avec des farines du sud de la France, dont un blé Barbu du Roussillon, et le sel de Gruissan ; les invendus sont donnés à des associations et banques alimentaires du département. Certifiée bio depuis 2022, engagée chez Bureau Alpes Contrôles au registre de l'Agence Bio.",
+    "site_web": "https://www.neoperpignan.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15%20Rue%20Pierre%20Rameil%2066000%20Perpignan",
+    "image_url": "/images/marchands/neo-atelier-des-pains-contraires-perpignan.jpg"
   }
 ]

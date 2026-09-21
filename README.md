@@ -2968,9 +2968,27 @@ prioritaires en cas de conflit.
      dimanche, 9h-13h le samedi. La règle ne joue qu'entre deux documents de la même commune ; entre la commune et
      un relais, la règle 176 reste seule applicable.
 
+226. **Un panneau d'horaires photographié sur la façade, dans une photographie non datée que le commerce publie, ne
+     l'emporte pas sur les horaires que ce même commerce publie aujourd'hui en données structurées ; il se cite.**
+     Le site de Biocoop Perpignan donne, dans son bloc `openingHoursSpecification` comme dans son texte, 9h-19h du
+     lundi au samedi. Sa propre galerie montre la façade et, à côté de l'entrée, un panneau « Tous les jours de
+     9h-13h / 14h-19h — Mardi et samedi 9h/19h non stop ». La règle 74 fait du panneau un document, la règle 115 le
+     vaut quand l'intéressé le photographie lui-même ; mais la photographie ne porte aucune date, alors que la page
+     qui publie la grille affiche des avis de clients de septembre 2026 et le calendrier de saisonnalité de
+     septembre 2026, ce qui la date. **Tranché ainsi** : entre deux publications du même commerce, la datée l'emporte
+     sur la non datée (prolongement de la règle 58) ; la fiche publie la grille du site, cite le panneau dans
+     `horaires` en disant qu'il n'est pas daté, et reste `a_confirmer`. Le visiteur qui se fie à la grille et tombe
+     sur la pause de midi perd une heure ; celui qui se fie au panneau alors que la pause a été supprimée ne perd
+     rien : la phrase du panneau reste donc visible.
+
 ## Marchands à confirmer
 
-590 fiches sur 649 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+594 fiches sur 654 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la place de la République** (Perpignan) (catégorie et piliers des marchés municipaux, sans `environnement` : la Ville et l'office écrivent « produits bio et fermiers le samedi », ce qui ne désigne aucun étal certifié (règle 68). **Horaires** : du mardi au dimanche 7h30-13h, identiques sur la fiche du lieu de la Ville et sur la page « Les marchés de Perpignan » de l'office de tourisme (21 mai 2026) ; la place des Poilus, que les deux nomment, est dite dans `horaires`. **Produits, règle 92** : seules les familles que publient les deux sources. **Point** : la place de la République à la Base Adresse Nationale (0,971), à 23 m du marqueur de la Ville. **Règle 106** : équipement municipal. **Photo, règle 91** : l'étal de légumes que l'office attache à ce seul marché, 4 000 px, recadré sous la ligne des terrasses du fond où se tenaient des passants lointains, 1 280 × 353. Reste `a_confirmer` pour la composition des étals)
+- **Les Halles Vauban** (Perpignan) (catégorie `marche`, comme les halles couvertes déjà publiées. **Horaires** : mardi-dimanche 8h-20h, dimanche 8h-15h, identiques à la Ville et à l'office ; chaque commerce garde ses heures, ce que `horaires` dit. **Produits, règle 89** : la Ville ne publie que « une vingtaine d'artisans de bouche » et la restauration sur place ; le registre des entreprises place au 37-39 quai Vauban une boulangerie active sous enseigne, d'où « Pain », et des débits de boissons et de restauration. **Point** : numéro 37 à la Base (0,973), à 30 m du marqueur de la Ville. **Photo** : la cour d'entrée et l'enseigne, photographie de l'office que la Ville publie pour ce lieu, recadrée au-dessus des têtes des clients attablés, 1 000 × 372 ; la vue de l'office en terrasse, pleine de visages, n'a pas été retenue. Reste `a_confirmer` pour la liste des stands)
+- **Marché de la place de Belgique** (Perpignan) (catégorie et piliers des marchés municipaux, sans `environnement`, les œufs et la boulangerie bio n'étant que deux étals sans certificat rattaché au marché (règle 68). **Horaires** : jeudi et dimanche 7h30-12h, dimanche réduit, identiques à la Ville et à l'office. **Produits** : les familles que publient la Ville et l'office. **Point** : celui de la Ville, à 15 m du centre de la « place Albert de Belgique » à la Base (0,729 : la Base ne rend la place que sous ce nom complet, qui est celui qu'écrit la Ville). **Photo, règle 91** : les étals de primeurs que l'office attache à ce marché, recadrés sous les visages des chalands, 1 024 × 322. **Règle 168** : ce marché recoupe le jeudi et le dimanche celui de la République ; aucune candidate d'une autre catégorie n'atteignait la même qualité de vérification (voir les pistes). Reste `a_confirmer` pour la composition des étals)
+- **Biocoop Perpignan** (Perpignan) (magasin bio du réseau Biocoop, avenue de Prades. **Règle 149** : `biocoop.fr` n'a pas été ouvert ; le magasin a son propre domaine, `biocoopperpignan.com`, dont le `robots.txt` ne nomme aucun agent d'IA, et l'office de tourisme le fiche. **Registre, règle 6** : la société Centre del Mon, active, établissement ouvert au 12 avenue de Prades depuis novembre 2022, code 47.29Z ; l'ancienne société qui portait l'enseigne à la même adresse est fermée (règle 217). **Pilier `environnement`, règle 39** : engagement Ecocert du 7 mars 2024, sans date d'arrêt, commerce de détail de fruits et légumes, viandes, produits laitiers et pain déclaré, lieu d'activité à cette adresse ; `venteParticuliers` à faux, règle 154. **Horaires, règle 226, née ici** : la grille du site, le panneau de façade cité. **Téléphone** : le même au site et à l'office ; l'adresse électronique de l'office n'est pas reprise. **Point** : numéro 12 à la Base (0,98), à 33 m du point du site. **Photo** : la façade, publiée par le magasin, recadrée à gauche de la porte vitrée où une affiche publicitaire montre un visage, 1 020 × 720 ; la photographie plus large montrait le numéro de portable d'un commerce voisin. Reste `a_confirmer` pour les horaires)
+- **Néo, l'Atelier des Pains Contraires** (Perpignan) (boulangerie bio au levain, `producteur` au titre de la règle 73. **Registre, règle 6** : la société Néo, active depuis novembre 2021, établissement ouvert au 15 rue Pierre-Rameil, code 10.71C ; ses deux autres points de vente, à Thuir et à Céret, ne sont pas publiés. **Pilier `environnement`, règle 39** : engagement Bureau Alpes Contrôles du 3 mars 2022, sans date d'arrêt, pain frais, pâtisserie et biscuits déclarés, siège et lieu d'activité à cette adresse ; `venteParticuliers` à faux, mais le site publie une boutique ouverte cinq jours sur sept (règle 154). **Pilier `social`** : le site dit donner ses invendus à des associations et banques alimentaires du département. **Horaires et produits** : la page du site, carte des pains comprise. **Téléphone** : aucun publié, rien d'inscrit. Le site présente l'équipe par ses prénoms : non repris. **Point** : numéro 15 à la Base (0,97), à 5 m du point de l'Agence Bio. **Photo** : la vitrine à pains, publiée par l'office de tourisme pour cette boulangerie, recadrée au format paysage, 1 024 × 700, personne dans le cadre ; celle où l'on voit l'équipe derrière le comptoir n'a pas été retenue. Fiche non marquée `a_confirmer`.)
 - **Marché du centre-ville de Cherbourg** (Cherbourg-en-Cotentin) (catégorie et piliers des marchés municipaux, sans `environnement`. **Une fiche pour trois séances, règle 42** : la Ville tient le mardi, le jeudi et le samedi un marché dont la place du Général-de-Gaulle est le seul lieu commun, et l'office de tourisme du Cotentin les réunit lui-même sur une fiche « Centre de Cherbourg » ; le jeudi s'étend aux rues voisines, le samedi à la place Centrale, ce que `horaires` dit. **Horaires, règle 225, née ici** : 9h-13h30 (13h le samedi), intersection de l'arrêté du 2 avril 2019 et de la page de la Ville du 17 février 2026, les deux versions citées. **Produits** : les familles que la page de la Ville écrit pour chaque séance, sans liste d'étals. **Point, règles 64 et 67** : la Base Adresse Nationale range la « Place General de Gaulle » sous le code 50120 et pose son centre à 1,4 km de là ; le point est celui que l'office publie, dont le contrôle inverse tombe à 17 m du 4 place Général-de-Gaulle et à 9 m de la rue des Tribunaux. **Photo, règle 91** : la vue de la place, du théâtre et de la fontaine que l'office attache à cette seule fiche, recadrée sur ses 555 px du haut pour que plus aucun passant n'y figure. Reste `a_confirmer` pour les heures)
 - **Marché de l'avenue de Normandie** (Cherbourg-en-Cotentin) (marché du dimanche d'Octeville, catégorie et piliers des marchés municipaux. **Horaires, règle 225** : 9h-13h30, où concordent la fin de l'arrêté et celle de la page ; seule l'ouverture diffère. **Produits** : les familles de la page de la Ville ; la même page compte produits manufacturés et bazar, mais la composition qu'elle publie est majoritairement alimentaire (règle 119). **Point** : celui de l'office de tourisme, à 20 m des numéros 20 et 49 de l'avenue au contrôle inverse ; le centre de la voie à la Base Adresse Nationale tombe 130 m plus loin. Le plan des périmètres annexé au règlement délimite le marché entre la place des Provinces, l'avenue de Normandie, la rue de Champagne et la rue de l'Orléanais : le point retenu est dans ce périmètre, à 155 m du centre de la rue de Champagne et à 215 m de celui de la rue de l'Orléanais. **Photo, règle 91** : un panier de saucissons secs que l'office attache à ce seul marché, recadré sous la ligne où apparaissait le buste d'un marchand, 1 200 × 550 ; le gros plan de fromages de la même fiche portait une marque au nom de famille (règle 75), la troisième photographie sert à quatre marchés et n'est qu'une illustration (règle 88). Reste `a_confirmer` pour les heures)
 - **Biolavie** (Cherbourg-en-Cotentin) (magasin bio du réseau Biomonde, avenue Aristide-Briand. **Registre, règle 6** : société active, établissement ouvert à cette adresse, code 47.11C. **Pilier `environnement`, règle 39** : engagement Ecocert du 6 juin 2025, sans date d'arrêt, productions déclarées fruits et légumes frais, boulangerie, produits laitiers et œufs, lieu de vente déclaré à cette adresse. **Règle 3** : le magasin consacre une page à chacun de ses fournisseurs locaux ; plusieurs portent des noms de personnes ou une enseigne bâtie sur un patronyme, et la fiche ne les décrit que par leur production et leur commune. **Horaires, règle 104** : ceux du magasin, l'écart de l'office de tourisme (lundi 14h30, samedi 9h30) est cité. **Téléphone** : le même chez le magasin et chez l'office. **Site** : `bio-la-vie.fr` redirige vers `www.bio-la-vie.fr`, que son certificat ne couvre pas ; le visiteur tomberait sur une alerte de sécurité, et le site n'est pas inscrit, comme pour Solembio à Orléans. **Point** : numéro 6 à la Base (0,972), à 1 m du point de l'office. **Photo** : le rayon de fruits et légumes et les silos de vrac publiés par l'office pour ce magasin, 800 × 600, personne dans le cadre. Reste `a_confirmer` pour les horaires du lundi et du samedi)
@@ -9938,6 +9956,60 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Perpignan
+
+Passe du 21 septembre 2026, seizième de la journée. **Département retenu, règle 41** : les Pyrénées-Orientales
+(66), déficit **4,6765** sur une base de 649 fiches, devant les Bouches-du-Rhône (4,6495) et le Nord (4,6189) ;
+l'outre-mer sort par les règles 93 et 177, le dénominateur est celui de la règle 224. La passe précédente visait
+Cherbourg-en-Cotentin, en Normandie ; les Pyrénées-Orientales sont en Occitanie, la réserve de la règle 41.c ne joue
+pas. **Commune** : Perpignan, 121 616 habitants, la plus peuplée du département, sans aucune fiche. Après la passe,
+sur 654 fiches, le 66 tombe à **−0,29** ; en tête ensuite, outre-mer écarté : le **Nord** (4,8086), les
+**Bouches-du-Rhône** (4,8009), la **Savoie** (4,2513).
+
+**Les cinq fiches**, toutes dans la commune, à moins de 1,5 km les unes des autres : le marché de la place de la
+République (du mardi au dimanche), les Halles Vauban, le marché de la place de Belgique (jeudi et dimanche), la
+Biocoop de l'avenue de Prades et la boulangerie bio Néo.
+
+**Les sources** : les fiches des lieux de la page « Les marchés » de la Ville (`mairie-perpignan.fr`), la page « Les
+marchés de Perpignan » de l'office de tourisme (`perpignantourisme.com`, 21 mai 2026) et ses fiches commerces — aucun
+des deux `robots.txt` ne vise un agent d'IA —, le registre de l'Agence Bio pour le 66 (2 023 opérateurs, 234 à
+Perpignan, dont de nombreux supermarchés et supérettes de réseau), le registre des entreprises, la Base
+Adresse Nationale et les sites des deux commerces.
+
+**Contradictions tranchées** : les horaires de Biocoop Perpignan (règle 226, née ici). Pour les trois marchés
+publiés, la Ville et l'office donnent mot pour mot les mêmes jours et heures.
+
+**Fiches écartées pour doute sur une personne** : aucune. Le site de Néo présente son équipe par ses prénoms, et le
+registre des entreprises rend, à l'adresse d'une piste, plusieurs entreprises individuelles : rien n'en est repris.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché de producteurs de l'avenue Paul-Alduy** (Moulin-à-Vent, dimanche, une vingtaine de producteurs locaux
+  selon l'office) : la Ville et l'office écrivent 7h30-12h, l'affiche de lancement que publie l'office écrit
+  « de 8h à 13h » (règles 5 et 225, publiable sur 8h-12h) ; mais aucune image n'est utilisable — l'affiche montre le
+  visage d'une personne et fait 312 px, la fiche de la Ville ne porte qu'une vue du Castillet. **Déblocage** : une
+  photographie du marché sans visage identifiable, ou la règle 125 si la Ville attache un dessin à sa page. Écarté
+  aussi par la règle 168 : il recoupe le dimanche les deux marchés publiés.
+- **Marché Saint-Martin** (place Vaillant-Couturier, mercredi et samedi 7h30-12h) et **marché des Embruns** (rue des
+  Embruns, vendredi 7h30-13h) : jours, heures et familles de produits concordants à la Ville et à l'office ;
+  l'office publie pour Saint-Martin une photographie de 1 024 px, les Embruns n'ont qu'une affiche. Laissés pour la
+  diversité des catégories (règle 167).
+- **Marché Cassanyes** (du mardi au dimanche) : la Ville et l'office le décrivent aussi par ses vêtements,
+  cosmétiques, chaussures et bijoux ; composition non départagée, règle 119 à instruire. **Marchés Clodion, de la
+  Sardane et du Méridien** : « tous commerces », sans liste — règle 197.
+- **Boutique de producteurs de la rue des Augustins** (centre historique, fiche de l'office avec horaires) : aucune
+  entreprise active sous cette enseigne au registre, ni à cette adresse ni sous ce nom — règle 6 ; pas de site
+  trouvé, seul un logo à l'office. **Déblocage** : l'enseigne au registre ou une publication propre du commerce.
+- **Champignonnière de l'avenue de Londres** (société active, certificat Qualisud vivant, vente aux particuliers
+  déclarée) et **boulangerie bio de l'avenue Julien-Panchot** (société active, certificat Bureau Veritas de décembre
+  2025) : ni site, ni horaires, ni photographie — règle 192. Un maraîchage bio du chemin de les Carlettes, inscrit
+  depuis 2025, n'a pas de site non plus.
+- **Épicerie en vrac de la rue de l'Ange** (société active, Ecocert) : règle 86, ses producteurs n'ont pas été
+  cherchés. **Magasin bio de réseau de l'avenue d'Espagne** : non instruit, la catégorie `magasin-bio` était remplie.
+- **Écartés comme généralistes ou sans vente au particulier** : les Carrefour, Leclerc et Super U de la commune,
+  plusieurs grossistes et des exploitations inscrites sous le seul nom de leur exploitant, qui ne sont pas nommées ;
+  une boulangerie du centre dont l'enseigne est un patronyme n'est pas instruite (règle 36).
 
 ### Pistes non publiées à Cherbourg-en-Cotentin
 
