@@ -2914,9 +2914,37 @@ prioritaires en cas de conflit.
      marché de Château-Thierry, mardi sous la halle et vendredi sur la place, 8h-14h ; le marché des
      Vaucrises, que seul le tableau de l'Agglomération mentionne, reste en pistes.
 
+223. **Dans une commune revisitée au titre de la règle 82, la proximité de la règle 139 se mesure pas à pas,
+     et une photographie d'étal entier tirée d'une série de reportage garde la présomption de la règle 91.**
+     Deux questions laissées ouvertes par la règle 139 se sont posées à la quatrième passe parisienne. D'abord,
+     « les plus proches de ces premières » : la seule piste nommée et débloquée était le marché Président
+     Wilson, et le plus proche marché à photographie documentaire et à jours concordants, Lecourbe, n'a
+     derrière lui aucun voisin qui remplisse les deux conditions à moins de quatre kilomètres ; le marché
+     Convention, à 1,3 km de Lecourbe, a bien une photographie qui montre le lieu, mais la page « Les marchés
+     de Paris » le tient le samedi quand sa fiche du lieu et le jeu de données ouvert le tiennent le dimanche.
+     **Tranché ainsi** : chaque place suivante va au candidat le plus proche de **l'une quelconque** des fiches
+     déjà retenues, pas du seul point de départ, ce qui resserre le groupe autant que le permet la réserve ;
+     et un marché que la règle 138 débloque, mais dont un jour reste contesté, ne sert pas à compléter tant
+     qu'il reste un candidat à jours concordants — il garde son tour de piste nommée pour la passe suivante.
+     Ensuite, la photographie : les fichiers que la Ville a déposés le 1er, le 2 et le 3 juin 2026 sur ses
+     fiches de marchés sont des vues larges prises sur place — alignement d'étals sous les arbres, fontaine de
+     la place Monge, auvents et chaussée —, quand ceux du 19 et du 25 août sont des gros plans serrés de
+     produits. La photographie de la place Baudoyer, tirée de la série de juin, ne montre qu'un étal entier
+     sous l'auvent aux couleurs de la Ville, sans façade ni arbre. **Critère** : le test « aucun élément du
+     lieu » de la règle 139 vise une série homogène de gros plans ; une vue d'étal entier, attachée à la seule
+     fiche de ce marché et prise dans une série dont les autres vues montrent chacune leur lieu, reste un
+     document au sens de la règle 91, et `produits` peut la lire. Ici : Président Wilson, puis Lecourbe
+     (3,3 km), Baudoyer (4,4 km de Président Wilson), Bastille (1,1 km de Baudoyer) et Monge (1,5 km de
+     Baudoyer) ; le marché Convention reste en pistes, avec son jour contesté.
+
 ## Marchands à confirmer
 
-578 fiches sur 634 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+583 fiches sur 639 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Président Wilson** (Paris 16e) (catégorie et piliers des marchés de plein air parisiens. Piste nommée par la passe des halles de l'ouest et débloquée par la **règle 138** : samedi 7h-14h30 concordant partout ; second jour contesté, mardi sur la page « Les marchés de Paris » (7 septembre 2026, relue ce jour), mercredi sur la fiche du lieu et dans le jeu de données « Marchés découverts ». **Point** : celui du jeu de données, que la Base Adresse Nationale retourne sur la place de Tokyo, à 21 m, au milieu du terre-plein décrit. **Produits, règle 92** : le seul classement « Alimentaire » de la Ville. **Photo, règles 1 et 139** : le gros plan d'olives du 25 août 2026 que la Ville attache à cette fiche, gardé comme illustration et dit tel dans la description ; rien n'en est lu. Reste `a_confirmer` pour le second jour et la composition des étals)
+- **Marché Lecourbe** (Paris 15e) (catégorie et piliers des marchés de plein air parisiens. **Horaires** : mercredi 7h-13h30 et samedi 7h-14h30, concordants sur les trois publications de la Ville. **Point** : celui du jeu de données, à 13 m du 354 rue Lecourbe selon le contrôle inverse de la Base. **Produits, règles 91 et 103** : classement de la Ville et étal de poissonnerie de la photographie de juin 2026, où l'on voit l'arbre et la chaussée. **Photo** : celle de la fiche du lieu, sans personne, telle quelle. La page générale indique la station Sèvres-Lecourbe, éloignée de ce tronçon : la fiche ne cite aucune station. Reste `a_confirmer` pour la composition des étals)
+- **Marché Baudoyer** (Paris 4e) (catégorie et piliers des marchés de plein air parisiens. **Horaires** : mercredi 10h-20h, samedi 7h-14h30, concordants sur les trois publications de la Ville. **Point** : celui du jeu de données, à 11 m de la place Baudoyer au contrôle inverse. **Produits, règle 223** : étal entier photographié sous l'auvent de la Ville, série de juin 2026. **Photo** : celle de la fiche du lieu, bord droit retiré (1 160 px). Reste `a_confirmer` pour la composition des étals)
+- **Marché Bastille** (Paris 11e) (catégorie et piliers des marchés de plein air parisiens. **Horaires** : jeudi 7h-13h30, dimanche 7h-14h30, concordants sur les trois publications de la Ville. **Point** : celui du jeu de données, à 32 m du 16 boulevard Richard-Lenoir au contrôle inverse. **Produits, règles 74 et 91** : l'étal de fruits et légumes de la photographie et l'enseigne « Foie gras » d'un étal voisin. **Photo** : celle de la fiche du lieu, recadrée sur ses 1 040 px de gauche pour retirer une passante. Reste `a_confirmer` pour la composition des étals)
+- **Marché Monge** (Paris 5e) (catégorie et piliers des marchés de plein air parisiens. **Horaires** : mercredi et vendredi 7h-13h30, dimanche 7h-14h30, concordants sur les trois publications de la Ville. **Point** : celui du jeu de données, à 7 m de la place Monge au contrôle inverse. **Produits** : classement de la Ville et un étal de fleuriste, seul étal lisible une fois l'image recadrée. **Photo** : celle de la fiche du lieu, où l'on voit la fontaine de la place ; recadrée sur sa bande basse (1 200 × 355) pour écarter un marchand et une dizaine de passants, la seule découpe sans personne qui reste au-dessus de 700 px de large. Reste `a_confirmer` pour la composition des étals)
 - **Marché de Château-Thierry** (Château-Thierry) (catégorie et piliers des marchés, sans `environnement`. **Existence, jour et lieu** : la Ville, dans ses avis sur « les marchés de centre-ville hebdomadaires du vendredi », place de l'Hôtel-de-Ville ; le réaménagement de la place, lancé en novembre 2024, est terminé et le marché y a repris. **Heures, règle 222, née ici** : le tableau « Flânez sur un marché » de l'Agglomération (mis à jour le 19 septembre 2023) donne mardi 8h-14h sous les halles, « marché alimentaire », et vendredi 8h-14h sur la place, rue Drugeon-Lecart et rue du Général-de-Gaulle, « alimentaire et non alimentaire » ; l'office Les Portes de la Champagne écrit « mardi matin (sous le marché couvert) et vendredi matin ». **Une fiche, deux séances, règle 42** : la halle et la place n'ont qu'un point à la Base Adresse Nationale. **Produits** : la nature des deux séances, et deux stands que l'annuaire de l'Agglomération et l'office placent sur le marché du vendredi, une ferme laitière bio de Montlevon et un élevage d'Essômes-sur-Marne (règle 97 : la fiche dit d'où viennent ces lignes). **Téléphone, règle 189** : le standard de la mairie. **Point** : la place à la Base (0,96), identique au marqueur de l'Agglomération. **Photo, règle 91** : la façade de la halle, enseigne « MARCHE », publiée par la Ville sur son avis consacré aux travaux de la place ; 6 960 px recadrés sur la façade, au-dessus de la pelleteuse, de son conducteur et des passants, ramenés à 1 280 × 672.)
 - **Ferme Jean de La Fontaine** (Château-Thierry) (magasin de produits fermiers ouvert trois jours par semaine, `producteur` au titre de la règle 105 ; l'enseigne porte le nom du fabuliste, né à Château-Thierry, pas celui d'un exploitant. **Registre, règle 6** : société active depuis 1990, établissement ouvert au 24 rue de la Prairie, code 47.21Z. **Règle 23** : l'office tient deux fiches, le magasin et la ferme Saint-Robert d'Épaux-Bézu, dont il écrit que les produits sont vendus au magasin ; une seule fiche, au point de vente, la ferme nommée dans la description. **Horaires** : l'annuaire des producteurs de l'Agglomération (septembre 2024) ; l'office n'en publie pas. **Produits** : l'Agglomération et l'office. **Site, règle 62** : l'adresse que donnent l'Agglomération et le registre de l'Agence Bio mène à une page Wix « domaine non connecté » ; retirée. **Photo, règles 1 et 59** : la seule photographie du magasin, sur la fiche de l'office, fait 400 px, sous le plancher ; la fiche porte une photographie thématique de la commune, des pieds de tomates publiés par l'office pour une autre boutique de Château-Thierry, 1 920 px ramenés à 1 280, et la description dit qu'elle ne montre pas le magasin.)
 - **La Fontaine Bio** (Essômes-sur-Marne) (magasin bio indépendant, `magasin-bio`, à 2,6 km de la place de l'Hôtel-de-Ville, même agglomération, règle 96. **Registre, règle 6** : société active depuis 2011, établissement ouvert avenue du Général-de-Gaulle, code 47.29Z. **Pilier `environnement`** : certificat Ecocert engagé depuis avril 2012, document en vigueur consultable. **Source** : la page du magasin sur le site du réseau Accord Bio, horaires et téléphone ; le domaine propre annoncé ne répond plus. **Circuit court** : le magasin écrit travailler avec plusieurs producteurs locaux, sans les nommer, comme le Biocoop de Valence. **Point** : numéro exact (0,959), identique au point du registre bio. **Photo** : le rayon vrac publié par le réseau pour ce magasin, personne dans le cadre, 1 024 × 576, non agrandi. La page du réseau nomme la gérante, qui n'est pas reprise. Fiche non marquée `a_confirmer`.)
@@ -9869,6 +9897,54 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Paris — du 16e au 11e
+
+Passe du 21 septembre 2026, treizième de la journée. **Département retenu, règle 41** : Paris (75), déficit
+**4,9908** sur une base de 634 fiches, devant la Moselle (4,9899) ; l'outre-mer sort par les règles 93 et 177.
+La passe précédente visait l'Aisne, en Hauts-de-France ; Paris est en Île-de-France, la réserve de la règle
+41.c ne joue pas. Paris n'a qu'une commune, déjà pourvue : c'est la **règle 82** qui fait la passe, par les
+pistes laissées à la passe des halles de l'ouest, qui nommaient le marché Président Wilson comme débloqué.
+Après la passe, sur 639 fiches, le 75 tombe à **0,1485** ; en tête ensuite, outre-mer écarté : la **Moselle**
+(5,0687), le **Nord** (5,0507), les **Bouches-du-Rhône** (4,9941), la **Manche** (4,7649).
+
+**Les cinq fiches** : **Président Wilson** (16e), **Lecourbe** (15e), **Baudoyer** (4e), **Bastille** (11e) et
+**Monge** (5e), choisies par la règle 139 lue pas à pas (règle 223, née ici). L'écart le plus grand, entre
+Lecourbe et Bastille, est de 6,7 km : plus que les 4,7 km de la passe précédente, parce que les marchés de
+l'ouest encore en réserve n'ont que des gros plans pour toute photographie.
+
+**Les sources** : la page « Les marchés de Paris » (mise à jour le 7 septembre 2026), les fiches « lieu » de
+`paris.fr` retrouvées par `lieux.xml.gz`, le jeu de données « Marchés découverts » de l'open data de la Ville
+(80 marchés), la Base Adresse Nationale. Les cinq marchés sont des équipements municipaux : le test du
+registre des entreprises ne s'y applique pas (règle 106). Les photographies ont été réenregistrées sans
+métadonnées ; aucune ne portait de date de prise de vue.
+
+**Contradictions tranchées** : Président Wilson, second jour (règle 138, voir la fiche). Les quatre autres
+marchés ont des jours et des heures identiques sur les trois publications.
+
+**Entretien** : la fiche d'équipement du marché couvert de Passy, lien `site_web` de sa fiche, répond 404
+alors que le plan du site la cite encore ; la page « Les marchés de Paris », qui publie toujours ce marché et
+ses horaires, la remplace, comme pour le marché biologique des Batignolles. Le même jour, une vingtaine de
+fiches d'équipement de marchés répondent 404 (Grenelle, Cervantes, Raspail, Porte Molitor, Saint-Didier…).
+
+**Fiches écartées pour doute sur une personne** : aucune.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché Convention** (15e) : mardi et jeudi 7h-13h30 concordants ; troisième jour contesté, samedi sur la
+  page générale, dimanche 7h-14h30 sur la fiche du lieu et dans le jeu de données. **Débloqué par la règle
+  138** ; sa photographie de juin montre le lieu, avec un marchand au centre : recadrage sur les 760 px de
+  gauche. Première piste nommée pour le prochain passage.
+- **Marchés Saint-Charles** (15e) et **Saxe-Breteuil** (7e) : jours concordants, mais leur seule photographie
+  est un gros plan de la série d'août (règle 139) ; publiables avec cette image comme illustration, sans
+  `produits` lus. Saxe-Breteuil : samedi 13h30 sur la page générale, 14h30 ailleurs (règle 80).
+- **Marché Grenelle** (15e) : sa fiche d'équipement répond 404 ; la page générale donne le dimanche jusqu'à
+  13h30, le jeu de données jusqu'à 14h30. **Déblocage** : une photographie du lieu.
+- **Série de juin à photographie documentaire, jours concordants** : Barbès (18e), Belleville (20e), place des
+  Fêtes (19e), cours de Vincennes (12e/20e), Jeanne d'Arc et Maison-Blanche (13e) — les suivants par la
+  règle 223, pour une passe centrée à l'est.
+- **Marché couvert Beauvau** et **Saint-Didier** : inchangés, mêmes critères de déblocage qu'à la passe
+  précédente ; la fiche d'équipement du marché Saint-Didier du 23 rue Mesnil répond désormais 404.
 
 ### Pistes non publiées à Château-Thierry et dans son agglomération
 

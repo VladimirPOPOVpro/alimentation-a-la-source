@@ -12921,7 +12921,7 @@
       "Fleurs"
     ],
     "description": "Une vingtaine de commerçants sous une toiture de béton à petites fenêtres construite dans les années 1960, quand la halle n'était fermée que par des grilles ; elle n'a été close par des vitres et des portes qu'en 1990. Les étals les plus anciens gardent leur carrelage d'époque, jaune et blanc moucheté, et la poissonnerie y est installée depuis quarante-cinq ans. On y trouve aussi un droguiste.",
-    "site_web": "https://www.paris.fr/lieux/marche-couvert-de-passy-5512",
+    "site_web": "https://www.paris.fr/pages/les-marches-parisiens-2428",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1+rue+Bois+le+Vent+75016+Paris",
     "image_url": "/images/marchands/marche-couvert-de-passy.jpg",
     "a_confirmer": true
@@ -16854,5 +16854,120 @@
     "site_web": "http://www.canardises.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20du%20Cahot%2C%2002330%20Cond%C3%A9-en-Brie",
     "image_url": "/images/marchands/canardises-des-3-vallees-conde-en-brie.jpg"
+  },
+  {
+    "slug": "marche-president-wilson",
+    "nom": "Marché Président Wilson",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.864915,
+    "lon": 2.296776,
+    "adresse": "Terre-plein de l'avenue du Président Wilson, entre la rue Debrousse et la place d'Iéna, 75116 Paris",
+    "horaires": "Samedi de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent. Second jour contesté, de 7h à 13h30 : mardi selon la page « Les marchés de Paris » (mise à jour le 7 septembre 2026), mercredi selon la fiche du lieu et le jeu de données ouvert.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 626 mètres de linéaire, sur le terre-plein de l'avenue du Président Wilson, à hauteur de la place de Tokyo. La Ville ne publie pas la composition des étals, et la seule image qu'elle attache à ce marché est un gros plan d'olives qui ne montre pas le lieu : c'est une illustration.",
+    "site_web": "https://www.paris.fr/lieux/marche-president-wilson-5510",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Président+Wilson+Paris",
+    "image_url": "/images/marchands/marche-president-wilson.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-lecourbe",
+    "nom": "Marché Lecourbe",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.836636,
+    "lon": 2.282637,
+    "adresse": "Rue Lecourbe, côté pair, entre la rue Vasco-de-Gama et la rue Leblanc, 75015 Paris",
+    "horaires": "Mercredi de 7h à 13h30, samedi de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Poissonnerie et crustacés : crevettes grises, gambas, bulots cuits, pinces de crabe (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 245 mètres de linéaire, sur le trottoir pair de la rue Lecourbe, dans sa partie ouest, entre les rues Vasco-de-Gama et Leblanc. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient de la seule photographie qu'elle attache à ce marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-lecourbe-5503",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Lecourbe+rue+Lecourbe+Paris",
+    "image_url": "/images/marchands/marche-lecourbe.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-baudoyer",
+    "nom": "Marché Baudoyer",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.856206,
+    "lon": 2.355367,
+    "adresse": "Place Baudoyer, 75004 Paris",
+    "horaires": "Mercredi de 10h à 20h (marché de l'après-midi), samedi de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits et légumes : pommes de terre, oignons, ail, poireaux, carottes, cerises, raisin, fraises, kiwis, avocats (étal photographié par la Ville)"
+    ],
+    "description": "Petit marché alimentaire de 166 mètres de linéaire sur la place Baudoyer, qui se tient le mercredi l'après-midi et jusqu'au soir, et le samedi matin. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient de la seule photographie qu'elle attache à ce marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-baudoyer-5462",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Baudoyer+place+Baudoyer+Paris",
+    "image_url": "/images/marchands/marche-baudoyer.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bastille",
+    "nom": "Marché Bastille",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.855255,
+    "lon": 2.37008,
+    "adresse": "Terre-plein du boulevard Richard-Lenoir, entre la rue Amelot et la rue Saint-Sabin, 75011 Paris",
+    "horaires": "Jeudi de 7h à 13h30, dimanche de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits et légumes : poivrons, piments, tomates, concombres, courgettes, artichauts, haricots verts, champignons (étal photographié par la Ville)",
+      "Foie gras (enseigne d'un étal voisin sur la même photographie)"
+    ],
+    "description": "Marché alimentaire de plein air de 1 140 mètres de linéaire, le deuxième plus long de la liste de la Ville, sur le terre-plein du boulevard Richard-Lenoir. La Ville ne publie pas la composition des étals ; les lignes de produits autres que la première viennent de la seule photographie qu'elle attache à ce marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-bastille-5477",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Bastille+boulevard+Richard-Lenoir+Paris",
+    "image_url": "/images/marchands/marche-bastille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-monge",
+    "nom": "Marché Monge",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.842957,
+    "lon": 2.351795,
+    "adresse": "Place Monge, 75005 Paris",
+    "horaires": "Mercredi et vendredi de 7h à 13h30, dimanche de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fleurs coupées, en bouquets et en seaux (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 352 mètres de linéaire, dont les étals entourent la fontaine de la place Monge, trois matinées par semaine. La Ville ne publie pas la composition des étals, et sa photographie ne montre, une fois recadrée pour écarter les passants, qu'un étal de fleuriste au pied de la fontaine.",
+    "site_web": "https://www.paris.fr/lieux/marche-monge-5464",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Monge+place+Monge+Paris",
+    "image_url": "/images/marchands/marche-monge.jpg",
+    "a_confirmer": true
   }
 ]
