@@ -18077,5 +18077,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2031270%20Cugnaux",
     "image_url": "/images/marchands/marche-paniers-d-ici-cugnaux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "des-lis-chocolat-nemours",
+    "nom": "Des Lis Chocolat",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.275831,
+    "lon": 2.704226,
+    "adresse": "21 rue des Hauteurs du Loing, 77140 Nemours",
+    "horaires": "Le lundi de 14h à 18h30, du mardi au samedi de 10h à 12h30 et de 14h à 18h30, fermé le dimanche, d'après la page « Nos boutiques » de la maison et la fiche 2026 de l'office de tourisme du Pays de Nemours, qui concordent. Fermé les jours fériés selon l'office.",
+    "produits": [
+      "Chocolats fabriqués à l'atelier",
+      "Bonbons et chocolats au coquelicot",
+      "Sirop, liqueur, vinaigre et confit de coquelicot",
+      "Sucre d'orge des Religieuses de Moret",
+      "Biscuits et confitures"
+    ],
+    "description": "Chocolaterie et confiserie qui fabrique à Nemours le coquelicot de Nemours, bonbon né dans la ville en 1870, à partir d'un arôme de fleurs de coquelicots sauvages cueillies à la main dans le canton, et qui a repris en 2012 la fabrication du sucre d'orge de Moret. La maison a d'autres boutiques (Melun, Villiers-en-Bière, Moret) ; celle-ci est à l'adresse de son atelier. Photo : office de tourisme du Pays de Nemours, droits réservés.",
+    "telephone": "01 64 29 20 20",
+    "site_web": "https://www.deslischocolat.com/nos-boutiques/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20rue%20des%20Hauteurs%20du%20Loing%2C%2077140%20Nemours",
+    "image_url": "/images/marchands/des-lis-chocolat-nemours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "l-entre-pot-nemours",
+    "nom": "L'Entre-pot",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.266789,
+    "lon": 2.691313,
+    "adresse": "18 rue Hédelin, 77140 Nemours",
+    "horaires": "À l'atelier le vendredi de 10h à 19h et le samedi de 14h à 19h, d'après la fiche 2026 de l'office de tourisme du Pays de Nemours. L'atelier est aussi présent le samedi matin sur le marché de Nemours. Aucun site propre ne publie ces horaires : mieux vaut vérifier avant de venir.",
+    "produits": [
+      "Conserves et bocaux",
+      "Plats cuisinés",
+      "Soupes et jus en bouteille",
+      "Granolas salés, sucrés ou épicés",
+      "Traiteur"
+    ],
+    "description": "Atelier culinaire et conserverie immatriculé en 2021, qui prépare plats cuisinés, conserves et granolas avec des produits que l'office de tourisme dit issus des circuits courts, et les vend à l'atelier et sur les marchés. Pas de certification biologique au registre de l'Agence Bio. Photo : office de tourisme du Pays de Nemours, droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18%20rue%20H%C3%A9delin%2C%2077140%20Nemours",
+    "image_url": "/images/marchands/l-entre-pot-nemours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-village-potager-saint-pierre-les-nemours",
+    "nom": "Le Village Potager",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.276514,
+    "lon": 2.639295,
+    "adresse": "300 rue de Larchant, 77140 Saint-Pierre-lès-Nemours",
+    "horaires": "Boutique de la ferme le vendredi de 15h à 19h et le samedi de 10h à 13h, d'après la page « Les légumes » de la ferme et la fiche 2026 de l'office de tourisme, qui concordent. La ferme vend aussi à la halle de Saint-Pierre le dimanche et sur le marché de Nemours le samedi.",
+    "produits": [
+      "Légumes bio de saison (plus de 160 variétés annoncées)",
+      "Carottes, navets, pommes de terre et betteraves primeurs",
+      "Courgettes, concombres, fenouil et choux",
+      "Salades, épinards et blettes",
+      "Herbes aromatiques",
+      "Fraises, groseilles et cassis en petite quantité"
+    ],
+    "description": "Ferme maraîchère biologique de 15 hectares, en lisière de la forêt de la Commanderie, certifiée Ecocert depuis 2018, qui écoule selon elle les trois quarts de sa récolte en circuit court (boutique, marchés, AMAP) et accueille aussi un gîte et des séminaires. À 4,4 km du centre de Nemours, dans la même communauté de communes. Le site de la ferme et l'office écrivent « 3300 route de Larchant » ; le point est celui du n° 300, que la ferme déclare au registre bio. Photo : office de tourisme du Pays de Nemours, droits réservés.",
+    "telephone": "01 64 78 67 28",
+    "site_web": "https://levillagepotager.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=300%20rue%20de%20Larchant%2C%2077140%20Saint-Pierre-l%C3%A8s-Nemours",
+    "image_url": "/images/marchands/le-village-potager-saint-pierre-les-nemours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-laveau-fay-les-nemours",
+    "nom": "La Ferme de Laveau",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.226467,
+    "lon": 2.650955,
+    "adresse": "Route de Chatenoy (D403e1), 77167 Faÿ-lès-Nemours",
+    "horaires": "Vente à la ferme du lundi au samedi de 10h30 à 12h15, d'après le site de la ferme et l'office de tourisme ; distributeur automatique de 150 casiers ouvert 24h/24 et 7j/7, paiement par carte uniquement.",
+    "produits": [
+      "Œufs de poules élevées en plein air, bio",
+      "Framboises de saison",
+      "Poules de réforme (ventes ponctuelles)",
+      "Pâtes, farines et préparations de producteurs locaux",
+      "Miel, jus de pommes et rillettes de poule"
+    ],
+    "description": "Élevage de poules pondeuses en plein air, certifié bio (Bureau Veritas, 2018) pour ses œufs, qui tient au bord de la D403e1, à la sortie du village vers Châtenoy, des distributeurs de plus de 70 produits de producteurs locaux. À 5,6 km du centre de Nemours, dans la même communauté de communes. Photo : office de tourisme du Pays de Nemours, droits réservés.",
+    "telephone": "06 13 12 80 42",
+    "site_web": "https://www.lafermedelaveau.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20de%20Chatenoy%20(D403e1)%2C%2077167%20Fa%C3%BF-l%C3%A8s-Nemours",
+    "image_url": "/images/marchands/ferme-de-laveau-fay-les-nemours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-chatenoy",
+    "nom": "Ferme de Châtenoy",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.233578,
+    "lon": 2.626155,
+    "adresse": "1 rue de la Mairie, 77167 Châtenoy",
+    "horaires": "Boutique le vendredi de 15h à 19h et le samedi de 9h à 13h, d'après la fiche 2026 de l'office de tourisme du Pays de Nemours ; le site de la ferme est réservé aux commandes des professionnels et ne publie pas ces horaires.",
+    "produits": [
+      "Pommes de terre bio",
+      "Agneau bio de la ferme",
+      "Légumes et fruits de saison",
+      "Œufs et miel",
+      "Fromages, volailles et terrines de producteurs bio",
+      "Vins et bières"
+    ],
+    "description": "Ferme céréalière et d'élevage de brebis, certifiée Ecocert depuis 2013 pour ses pommes de terre, ses agneaux et ses pommes, qui tient depuis 2016 une boutique bio et locale où elle revend aussi les produits d'autres producteurs, dont la certification n'a pas été vérifiée une à une. Ferme pédagogique et chambres d'hôtes. À 6,3 km du centre de Nemours, dans la même communauté de communes. Photo : office de tourisme du Pays de Nemours, droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20rue%20de%20la%20Mairie%2C%2077167%20Ch%C3%A2tenoy",
+    "image_url": "/images/marchands/ferme-de-chatenoy.jpg",
+    "a_confirmer": true
   }
 ]

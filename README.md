@@ -3099,9 +3099,54 @@ prioritaires en cas de conflit.
      reste soumis aux règles 143 et 160 — ici un fixe que la Ville publie dans son annuaire des professionnels et que
      quatre sources donnent à l'identique.
 
+237. **Une commune dont le site ne répond pas depuis cet environnement se traite comme une commune qui ne publie rien,
+     et la descente continue.** À la vingt-deuxième passe, Meaux arrivait en tête de la descente de la Seine-et-Marne :
+     `www.meaux.fr` n'ouvre aucune connexion (délai dépassé, en ligne de commande comme dans le navigateur intégré) et
+     `meaux.fr` redirige vers un service de messagerie sans rapport. Ses deux marchés sont décrits par la Ville seule, dont
+     les photographies étaient déjà sous le plancher de la règle 59 à la passe du 13 septembre. **Critère** : c'est la
+     règle 212 étendue à l'indisponibilité — ce qu'on ne peut pas lire ne se vérifie pas, et un annuaire tiers ne remplace
+     pas la commune sur ses propres marchés (règle 196). On le dit dans la section de pistes, avec la date, et l'on passe
+     à la commune suivante. **Déblocage** : le retour du site.
+
+238. **Le `robots.txt` qui compte pour une image est aussi celui du domaine qui la sert.** À Claye-Souilly, l'AMAP Les
+     Pot'iront publie sur son site, dont le `robots.txt` n'exclut personne, un album de ses serres ; mais les fichiers sont
+     servis par `image.jimcdn.com`, l'hébergeur d'images de Jimdo, dont le `robots.txt` interdit nommément
+     `meta-externalagent` et `Bytespider`. La règle 145 lit l'exclusion site par site, parce que c'est l'éditeur qui
+     s'exprime ; pour un fichier, l'éditeur qui le sert est l'hébergeur, et il a dit non aux agents d'IA (règles 149 et
+     233). **Critère** : une image n'est reprise que si ni le site qui la publie ni le domaine qui la sert n'exclut un
+     agent d'IA ; sinon la fiche retombe sur les autres échelons de photo d'`AGENT.md`, et, faute d'image, elle attend
+     (règle 231). Un réseau de diffusion neutre dont le `robots.txt` n'exclut personne, comme celui des fiches Apidae ou
+     d'Iris, n'est pas concerné.
+
+239. **Des mentions légales qui autorisent la reproduction électronique sous condition de citer la source rendent les
+     photographies utilisables, à cette condition.** L'office de tourisme du Pays de Nemours écrit que « la reproduction de
+     tout ou partie de ce site sur un support électronique est autorisée sous réserve de l'ajout de façon claire et lisible
+     de la source » et de la mention « Droits réservés », pour un usage non commercial ; l'exclusion de l'iconographie ne
+     vise que la reproduction sur papier. Ce n'est pas l'interdiction « en toutes lettres » de la règle 231 : c'est une
+     permission conditionnelle. **Critère** : la condition est remplie dans la fiche même — la description se termine par
+     « Photo : <source>, droits réservés » —, l'image n'est ni retouchée ni détournée (redimensionnement et retrait des
+     métadonnées seulement, règle 235), et la carte, initiative non commerciale d'un comité développement durable (RSE),
+     reste dans l'usage permis. Une permission qui exclut explicitement les images en ligne, elle, vaut interdiction.
+
+240. **Un commerce municipal pour lequel la commune cherche un repreneur ne se publie pas avant qu'une source datée
+     d'après l'appel dise qui l'exploite.** La Maison du Terroir de Montereau-Fault-Yonne, épicerie de produits locaux que
+     la Ville possède et dont elle publie encore les horaires, a fait l'objet en mai 2026 d'un appel à manifestation
+     d'intérêt pour « le repreneur ou la repreneuse » de son exploitation, clôturé en juin puis prolongé en juillet ; la
+     presse locale annonce que la société d'économie mixte qui la tenait depuis 2023 la cède à un commerçant indépendant.
+     La page des horaires n'est pas datée. **Critère** : c'est la règle 148 appliquée à un changement d'exploitant — quand
+     l'autorité a elle-même annoncé la fin d'une gestion, la fiche attend une publication postérieure à l'échéance
+     (actualité de la Ville, page du repreneur, horaires datés) ; la page permanente d'avant ne suffit pas, parce qu'une
+     boutique entre deux exploitants peut être fermée des semaines. **Déblocage** : une source datée d'après juillet 2026
+     qui nomme l'exploitation par son enseigne et donne ses heures.
+
 ## Marchands à confirmer
 
-617 fiches sur 679 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+622 fiches sur 684 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Des Lis Chocolat** (Nemours) (`producteur` au titre de la règle 73 : la maison fabrique sur place chocolats et confiseries au coquelicot, avec un arôme tiré de fleurs cueillies dans le canton. **Registre, règle 6** : société active, établissement ouvert au 21 rue des Hauteurs du Loing ; l'ancien atelier de la zone du Rocher Vert est fermé. Pas de pilier `environnement` : absente du registre de l'Agence Bio. **Horaires** : la page « Nos boutiques » du site et la fiche 2026 de l'office de tourisme concordent. **Point, règle 10** : la Base ne connaît pas le n° 21 ; le point du registre retombe au contrôle inverse sur le n° 28 de la même rue, à 15 m, et le marqueur de l'office est à 42 m de lui. **Photo, règle 239** : un assortiment de chocolats publié par l'office de tourisme du Pays de Nemours, sans personne, 1 600 px ramenés à 1 280 ; la troisième photographie de la fiche, qui montre deux personnes, n'a pas servi.)
+- **L'Entre-pot** (Nemours) (`producteur`, règle 73 : atelier culinaire et conserverie qui transforme et vend lui-même. **Registre, règle 6** : société active depuis 2021, code 10.39A, un établissement ouvert au 18 rue Hédelin, sous l'enseigne L'Entre-pot. **Source unique pour les horaires** : la fiche 2026 de l'office de tourisme ; l'atelier n'a pas de site propre, d'où `a_confirmer`. **Téléphone** : le fixe que l'office et un annuaire professionnel publient n'est repris nulle part sur une page de l'atelier, il n'est pas inscrit (règle 198). **Point** : n° 18 à la Base (0,962), à 9 m du point du registre. **Photo, règle 239** : les étagères de bocaux publiées par l'office, sans personne, 1 000 px, non agrandie. Les pages consultées nomment les deux fondatrices : non repris.)
+- **Le Village Potager** (Saint-Pierre-lès-Nemours) (`ferme`. **Élargissement, règles 96 et 127** : à 4,4 km du centre de Nemours, dans la communauté de communes du Pays de Nemours au champ `epci` de `geo.api.gouv.fr` (règle 219). **Registre, règle 6** : société active, un établissement ouvert rue de Larchant. **Pilier `environnement`** : certificat Ecocert engagé le 12 février 2018, sans arrêt, légumes, fraises et petits fruits déclarés. **Pilier `social`** : la ferme publie un partenariat hebdomadaire avec les Restos du Cœur de Nemours et trente emplois créés en cinq ans. **Horaires** : site et office concordent. **Adresse, règle 38** : le site et l'office écrivent « 3300 route de Larchant », numéro que la Base ignore ; la ferme déclare le n° 300 au registre bio, la Base le connaît (0,965) et le marqueur de l'office retombe dessus à 48 m ; c'est lui qui est publié. **Photo, règle 239** : l'étal de salades, de ciboulette et de persil publié par l'office, personnes coupées au niveau du buste, aucun visage.)
+- **La Ferme de Laveau** (Faÿ-lès-Nemours) (`ferme`. **Élargissement, règles 96 et 127** : à 5,6 km du centre de Nemours, même communauté de communes. **Registre, règle 6** : la société d'exploitation de l'élevage est active, établissement ouvert rue des Prés, au village ; la société civile agricole de Laveau l'est aussi. La raison sociale de la première est un patronyme : seule l'enseigne est publiée. **Pilier `environnement`** : certificat Bureau Veritas engagé le 23 mai 2018, sans arrêt, poules pondeuses et œufs déclarés — ce que la fiche vend en premier. **Horaires et téléphone** : le site de la ferme, qui publie le numéro sous « Une question ? » pour sa clientèle (règle 143) ; l'office concorde. **Point, règle 10** : l'adresse du registre est le siège au village, sur une autre voie (règles 24 et 30) ; le point est le marqueur de l'office, qui retombe sur le 1 bis route de Chatenoy à 36 m, là où le site situe les distributeurs, « à 30 m de la route D403e1 ». **Photo, règle 239** : les poules devant le bâtiment d'élevage, publiée par l'office ; la photographie des exploitants posant dans le pré n'a pas servi. Le site nomme les exploitants : non repris.)
+- **Ferme de Châtenoy** (Châtenoy) (`ferme`, règle 137 : la boutique revend aussi d'autres producteurs bio, et la description le dit. **Élargissement, règles 96 et 127** : à 6,3 km du centre de Nemours, même communauté de communes ; distance maximale entre deux fiches de la passe, 7,4 km, entre elle et Des Lis Chocolat. **Registre, règle 6** : société active, établissement ouvert au 1 rue de la Mairie. **Pilier `environnement`** : certificat Ecocert engagé le 8 avril 2013, sans arrêt, pommes de terre, agneaux et pommes déclarés. **Horaires** : la seule fiche 2026 de l'office ; le site de la ferme est une plateforme de commande réservée aux professionnels, il ne s'inscrit pas dans `site_web` (règle 33), et le fixe de l'office, absent de toute page de la ferme, ne s'inscrit pas non plus (règle 198). **Point** : n° 1 à la Base (0,944), identique au point du registre bio. **Photo, règle 239** : l'intérieur de la boutique, publié par l'office, sans personne. La dénomination de l'exploitation au registre bio accole un nom de personne : non reprise.)
 - **AMAP Pastel** (Tournefeuille) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : le site de l'AMAP publie ses contrats de pain et de pâtes pour 2026-2027, mis en ligne mi-septembre 2026, et l'annuaire des associations de la Ville a été mis à jour le 11 août 2026. **Adresse** : l'AMAP écrit « 1 rue de l'Ariège » ; la Base Adresse Nationale ne connaît à Tournefeuille qu'une avenue de l'Ariège, dont le n° 1 (0,732) tombe à 7 m du point de l'annuaire DirectFermiers31 ; la Ville donne pour l'association l'adresse de la Maison des associations, qui est sa domiciliation, pas le lieu de distribution (règle 104). **Pas de pilier `environnement`, règle 60** : les producteurs sont dits bio par l'AMAP, sans recherche au registre dans cette passe. **Photo, règle 232** : une table de distribution d'œufs publiée par l'AMAP, recadrée pour écarter une feuille d'émargement manuscrite, 1 280 × 1 014. Les pages de l'AMAP nomment plusieurs producteurs et référents : rien n'en est repris.)
 - **AMAP 4 Saisons** (Tournefeuille) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : l'annonce du réseau des AMAP de Midi-Pyrénées du 20 avril 2026 donne le jeudi 18h30-19h30 « sur le parking Utopia derrière la mairie », ce que confirme l'annuaire des associations de la Ville. **Produits, règle 92** : aucune source ne dit autre chose que des légumes, d'où une seule ligne. **Point, règle 169** : le marqueur que la Ville publie pour le cinéma Utopia (43,5814423 ; 1,3459642), à 36 m du 2 impasse du Château en contrôle inverse ; le parking lui-même n'a pas de point publié. **Photo** : la façade du cinéma, publiée par la Ville, sans personne ; les métadonnées du fichier ont été retirées (règle 235).)
 - **Côté Ferme** (Tournefeuille) (`producteur`, règle 105. **Registre, règle 6** : société active, un établissement ouvert au 5 chemin de Bordeneuve sous l'enseigne Côté Ferme. **Pilier `environnement`** : certificat Bureau Veritas engagé le 4 octobre 2007, sans arrêt, à ce SIRET, pour la vente de fruits et légumes, de produits de boulangerie, d'œufs et de produits laitiers ; le registre de l'Agence Bio déclare `venteParticuliers` à faux, ce qui décrit l'activité certifiée et non le magasin (règle 154). **Horaires, règle 236, née ici.** **Téléphone** : le fixe que la Ville publie dans son annuaire des professionnels. **Point** : Base Adresse Nationale (0,967), à 40 m du marqueur de la Ville et à 12 m de celui de DirectFermiers31. **Photo, règle 203** : le marché du dimanche de Tournefeuille vu d'en haut, publié par la Ville en bandeau de sa page « Vie économique », recadré au-dessus du premier plan pour qu'aucune silhouette ne soit reconnaissable, 1 280 × 448 ; le marché n'a pas de fiche (voir les pistes), la description dit que l'image ne montre pas le magasin.)
@@ -10097,6 +10142,106 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Nemours, et dans la descente de la Seine-et-Marne
+
+Passe du 21 septembre 2026, vingt-deuxième de la journée. **Département retenu, règle 41** : la Seine-et-Marne (77),
+déficit **4,4569** sur une base de 679 fiches, devant la Savoie (4,4138) et le Pas-de-Calais (4,3564) ; l'outre-mer sort
+par la règle 177, le dénominateur est celui de la règle 224. La passe précédente visait la Haute-Garonne, en Occitanie ;
+la Seine-et-Marne est en Île-de-France, la réserve de la règle 41.c ne joue pas. Après la passe, sur 684 fiches, le 77
+tombe à **−0,44** ; en tête ensuite : le **Pas-de-Calais** (4,4621), la **Savoie** (4,4463), la **Vienne** (4,3538).
+
+**La descente, commune par commune** (règles 41.d, 96 et 127). Le département avait déjà ses fiches à Chelles et en Marne
+et Gondoire ; la commune la plus peuplée sans fiche restait Meaux, et il a fallu descendre jusqu'à la vingt-neuvième
+commune du département par population. Chaque échelon a été éprouvé sur la seule question de la règle 127 : deux fiches
+publiables entières, image comprise, dans la commune elle-même.
+
+- **Meaux** (56 905 habitants) : `www.meaux.fr` ne répond pas depuis cet environnement, ni en ligne de commande ni dans le
+  navigateur intégré ; règle 237, née ici. Les deux marchés notés à la passe du 13 septembre attendent toujours.
+- **Melun** : toujours une seule fiche illustrable, le marché Gaillardon ; la page des marchés de la Ville ne porte
+  aucune photographie.
+- **Pontault-Combault, Savigny-le-Temple, Champs-sur-Marne, Villeparisis** : constats de la passe du 13 septembre,
+  vieux de huit jours, repris sans les rouvrir.
+- **Dammarie-lès-Lys** : une fiche. L'AMAP Les Paniers bio du Lys distribue bien (actualité du 4 septembre 2026, règle
+  195) ; le marché n'a ni adresse précise ni photographie ; le jardin maraîcher d'insertion bio « Vert chez moi » n'a
+  qu'une image de banque sur la page de la Ville, le site de l'association gestionnaire ne résout plus, et la Ville donne
+  deux calendriers de vente différents (mardi et vendredi sur la fiche du lieu, jeudi dans une actualité).
+- **Combs-la-Ville** : un seul marché. **Roissy-en-Brie** : le marché n'a que des affiches d'animation de 2021 ; le
+  magasin Biocoop, certifié et vivant, ne nomme que les groupements nationaux du réseau (règle 86, comme à Arles).
+- **Torcy** : un seul marché.
+- **Montereau-Fault-Yonne** : trois marchés publiés par la Ville, sans photographie ; la Maison du Terroir municipale
+  relève de la règle 240, née ici.
+- **Lagny-sur-Marne** : constat de la passe du 13 septembre (règle 119). **Ozoir-la-Ferrière, Mitry-Mory** : un marché
+  chacun, sans image.
+- **Le Mée-sur-Seine, Moissy-Cramayel** : un marché illustrable chacun, rien d'autre.
+- **Brie-Comte-Robert** : les mentions légales de la Ville interdisent nommément la reprise de ses photos (règle 230), et
+  celles du campus agricole comme de Bienvenue à la ferme aussi ; ni le marché ni la boutique de l'exploitation du lycée
+  n'ont d'image utilisable (règle 231).
+- **Coulommiers, Fontainebleau** : Coulommiers interdit la reprise de ses visuels ; Fontainebleau n'a qu'une fiche dans la
+  commune, ses AMAP distribuant à Avon.
+- **Noisiel** : l'AMAP est illustrable (règle 232), le marché du Luzard n'a que des photographies de foule ou de 200 px.
+- **Saint-Fargeau-Ponthierry** : le marché couvert de Ponthierry est entier — Ville et office de tourisme de Melun Val de
+  Seine concordent, photographies de la Ville sans visage après recadrage, mentions légales générales. Le marché de la
+  place Temploux, lui, n'a ni heure publiée ni seconde source : seule la page « Jours de marché » de la Ville le cite,
+  « mardis matins et vendredis soirs » ; règles 9 et 178.
+- **Lognes, Lieusaint, Vaires-sur-Marne** : aucun marché hebdomadaire publié par la commune.
+- **Avon** : l'AMAP Les Belles Fontaines de la Vallée est entière ; les marchés sont bien publiés par la Ville et par
+  Fontainebleau Tourisme, mais les mentions légales de la Ville interdisent nommément la reprise de ses images, et la
+  photographie de l'office montre un étal d'ail de Cadours qu'aucun indice ne rattache à Avon.
+- **Claye-Souilly** : la Ferme du Gué au Prieur est entière ; l'AMAP Les Pot'iront aussi, sauf son image, servie par un
+  hébergeur qui exclut des agents d'IA (règle 238, née ici).
+- **Nemours** (12 889 habitants) : **deux fiches entières dans la commune**, Des Lis Chocolat et L'Entre-pot. La
+  communauté de communes du Pays de Nemours complète au titre de la règle 96 : le Village Potager à Saint-Pierre-lès-Nemours
+  (4,4 km), la Ferme de Laveau à Faÿ-lès-Nemours (5,6 km) et la Ferme de Châtenoy (6,3 km). Distance maximale entre deux
+  fiches : 7,4 km.
+
+**Les sources qui ont fait la passe** : les fiches « producteur », « commerce-service » et « fête-manifestation » de
+l'office de tourisme du Pays de Nemours, `tourisme-paysdenemours.fr`, dont le `robots.txt` ne vise personne et dont les
+mentions légales autorisent la reprise électronique avec citation de la source (règle 239, née ici) ; la page des marchés
+de `nemours.fr` ; les sites de Des Lis Chocolat, du Village Potager et de la Ferme de Laveau ; le registre de l'Agence Bio,
+**924** opérateurs lus sur la Seine-et-Marne ; le registre des entreprises ; la Base Adresse Nationale et son contrôle
+inverse ; le référentiel `geo.api.gouv.fr` pour l'intercommunalité (règle 219). Ces sources nomment des exploitants, des
+fondatrices, un apiculteur et plusieurs gérants : aucun nom n'est repris.
+
+**Contradictions tranchées** : le numéro de voirie du Village Potager (3300 sur le site et chez l'office, 300 au registre
+bio, règle 38) ; le siège de la Ferme de Laveau au village et ses distributeurs au bord de la D403e1 (règles 24 et 30) ;
+aucune contradiction d'horaires, les cinq grilles publiées concordant entre le commerce et l'office quand les deux existent.
+
+**Fiches écartées pour doute sur une personne** : trois.
+- Torcy, élevage ovin bio : la dénomination déclarée au registre bio est faite de noms de personnes, et aucun point de
+  vente n'est publié. Écarté.
+- Boulancourt, safranière : l'enseigne est le prénom et le nom de l'exploitant. Écarté.
+- Seine-Port, miel : la fiche de l'office présente le producteur par son prénom, sans enseigne propre. Écarté.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marchés de Nemours**, mercredi place de la République de 8h à 12h30, samedi au Champ-de-Mars de 8h à 13h, alimentaire
+  et non alimentaire mêlés selon la Ville, sans décompte publié : la seule photographie de la Ville porte un nom de fichier
+  de banque d'images, et celle de l'office (un étal de légumes, crédit d'un studio) sert à l'identique au marché de
+  Saint-Pierre-lès-Nemours (règle 88). Déblocage : une photographie du lieu.
+- **Halle du Clos Saint-Jean**, Saint-Pierre-lès-Nemours, dimanche 8h30-12h30 selon l'office : même photographie partagée,
+  et la commune n'a pas été lue. Le Village Potager y vend le dimanche.
+- **Le Panier Fermier**, 17 rue Jean-Jaurès à Nemours, retrait de commandes de produits locaux et bio le mardi et le
+  jeudi de 17h à 19h, le samedi de 9h à 13h : l'office ne publie qu'un prospectus, le site n'a pas été lu en détail, et le
+  seul numéro est un portable. Déblocage : une photographie du magasin et la vérification au registre.
+- **Ferme des Tuiles** (Guercheville, volailles, vendredi et samedi), **Ferme Clavelou** (Bagneaux-sur-Loing, pommes de
+  terre, en semaine « téléphoner avant de venir »), **Écoferme des 1001 feuilles** (Fromont, farines et légumineuses) et la
+  **Distillerie du Loing** (Châtenoy) : fiches de l'office non instruites, le plafond de cinq étant atteint ; les trois
+  premières sont à plus de dix kilomètres de Nemours.
+- **AMAP La Chèvre et le Chou** (Moncourt-Fromonville, vendredi 19h-20h) et **AMAP L'Art du Champ** (Villiers-sous-Grez,
+  jeudi 18h45-20h) : même image de logo chez l'office pour les deux, aucune source datée lue (règle 195).
+- **Maraîchage bio de Chevrainvilliers** : certificat Ecocert **arrêté** le 9 mai 2023 au registre bio, alors que l'office
+  annonce toujours des légumes bio. Pas de pilier possible (règle 71) ; non instruit.
+- **Montereau-Fault-Yonne, Maison du Terroir** : règle 240 ; déblocage, une source datée d'après juillet 2026.
+- **Saint-Fargeau-Ponthierry, marché couvert** : fiche prête (Ville et office, photographie de la Ville recadrée sous la
+  ligne des visages) ; elle attend un groupe de cinq. **Place Temploux** : règles 9 et 178.
+- **Brasserie des Grottes** (Boissise-la-Bertrand), **Ferme de Fourches** (Limoges-Fourches) : fiches de l'office de
+  Melun Val de Seine, pour une passe sur l'agglomération de Melun, où le marché Gaillardon et l'AMAP de Dammarie-lès-Lys
+  sont déjà prêts.
+- **Claye-Souilly** : la Ferme du Gué au Prieur est prête ; l'AMAP attend une image servie hors de l'hébergeur exclu.
+- **Avon** : l'AMAP est prête ; les marchés attendent une photographie que la Ville permette de reprendre.
+- **Laissés de côté** : les supermarchés certifiés, les distributeurs de gros, et les entreprises individuelles inscrites
+  sous le seul nom de leur exploitant, qui ne sont pas nommées.
 
 ### Pistes non publiées à Tournefeuille et à Cugnaux
 
