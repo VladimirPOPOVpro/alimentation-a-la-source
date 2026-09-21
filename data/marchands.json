@@ -17108,5 +17108,140 @@
     "site_web": "https://www.biocoop-linkling.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=57%20rue%20le%20Kem%2057180%20Terville",
     "image_url": "/images/marchands/biocoop-du-linkling-terville.jpg"
+  },
+  {
+    "slug": "marche-du-centre-ville-cherbourg",
+    "nom": "Marché du centre-ville de Cherbourg",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.63803,
+    "lon": -1.623078,
+    "adresse": "Place du Général de Gaulle, Cherbourg-Octeville, 50100 Cherbourg-en-Cotentin",
+    "horaires": "Mardi, jeudi et samedi matin, de 9h à 13h30 (13h le samedi) : c'est la plage sur laquelle s'accordent l'arrêté municipal du 2 avril 2019, qui ouvre la vente au public à 9h, et la page des marchés de la Ville mise à jour le 17 février 2026, qui annonce 8h30-14h le mardi, 8h30-13h30 le jeudi et 8h30-13h le samedi (8h30 est l'heure de placement des commerçants dans l'arrêté). Le jeudi, le marché gagne la rue Gambetta, la rue des Tribunaux, la rue de l'Ancien Quai et les abords de la Poste ; le samedi, la place Centrale.",
+    "produits": [
+      "Fruits et légumes de producteurs locaux",
+      "Fromages",
+      "Charcuterie",
+      "Poisson",
+      "Crustacés et coquillages",
+      "Fleurs"
+    ],
+    "description": "Le marché du centre de Cherbourg, devant le théâtre à l'italienne : une dizaine de commerçants le mardi, surtout des producteurs de fruits et légumes, une cinquantaine le samedi avec poisson et coquillages, et environ 115 le jeudi, où l'alimentaire côtoie les produits manufacturés et le bazar. La photographie, publiée par l'office de tourisme du Cotentin pour ce marché, montre la place et le théâtre.",
+    "site_web": "https://www.cherbourg.fr/ma-ville/commerces/marches-de-plein-air/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2050100%20Cherbourg-en-Cotentin",
+    "image_url": "/images/marchands/marche-du-centre-ville-cherbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-l-avenue-de-normandie-cherbourg",
+    "nom": "Marché de l'avenue de Normandie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.62631,
+    "lon": -1.62993,
+    "adresse": "Avenue de Normandie, Octeville, 50130 Cherbourg-en-Cotentin",
+    "horaires": "Dimanche de 9h à 13h30. L'arrêté municipal du 2 avril 2019 ouvre la vente au public à 9h ; la page des marchés de la Ville (17 février 2026) annonce 8h30-13h30, 8h30 étant l'heure de placement des commerçants dans l'arrêté.",
+    "produits": [
+      "Fruits et légumes de producteurs locaux",
+      "Boucherie et charcuterie",
+      "Poissons, crustacés et coquillages",
+      "Animaux de basse-cour vivants",
+      "Épicerie",
+      "Fleurs"
+    ],
+    "description": "Le marché du dimanche matin d'Octeville, dans le quartier des Provinces, que la Ville range parmi ses principaux avec environ 115 commerçants : producteurs de fruits et légumes, boucherie, poisson et coquillages, animaux de basse-cour vivants, mais aussi produits manufacturés et bazar. La photographie, un panier de saucissons secs, est celle que l'office de tourisme du Cotentin attache à ce marché ; elle ne permet pas de dater la séance.",
+    "site_web": "https://www.cherbourg.fr/ma-ville/commerces/marches-de-plein-air/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20de%20Normandie%2050130%20Cherbourg-en-Cotentin",
+    "image_url": "/images/marchands/marche-de-l-avenue-de-normandie-cherbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biolavie-cherbourg",
+    "nom": "Biolavie",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.639335,
+    "lon": -1.616168,
+    "adresse": "6 Avenue Aristide Briand, 50100 Cherbourg-en-Cotentin",
+    "horaires": "Lundi de 14h à 19h15, du mardi au vendredi de 9h30 à 19h15, samedi de 9h15 à 19h15 selon le magasin ; l'office de tourisme du Cotentin, pour 2026, ouvre le lundi à 14h30 et le samedi à 9h30. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Légumes de maraîchers bio du Cotentin",
+      "Fromages et yaourts fermiers de la Manche",
+      "Produits laitiers d'une ferme proche de Cherbourg",
+      "Cidre et bière bio de la Manche",
+      "Pain",
+      "Vrac"
+    ],
+    "description": "Magasin bio de proximité du réseau Biomonde, dans le centre de Cherbourg, qui consacre sur son site une page à chacun de ses producteurs partenaires : maraîchers bio du Cotentin, une chèvrerie près de Carentan, une ferme laitière à 16 km, un cidre et une bière de la Manche. Engagé chez Ecocert depuis juin 2025 au registre de l'Agence Bio, à cette adresse.",
+    "telephone": "02 33 44 88 09",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6%20avenue%20Aristide%20Briand%2050100%20Cherbourg-en-Cotentin",
+    "image_url": "/images/marchands/biolavie-cherbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-saumonier-cherbourg",
+    "nom": "Le Saumonier Cherbourg",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.651255,
+    "lon": -1.590427,
+    "adresse": "455 Rue de la Cale des Flamands, Tourlaville, 50110 Cherbourg-en-Cotentin",
+    "horaires": "Du mardi au vendredi de 10h à 12h30 et de 14h à 18h30, samedi de 10h à 12h30 et de 14h à 17h30. Fermé dimanche et lundi.",
+    "produits": [
+      "Saumon frais élevé en rade de Cherbourg, en saison",
+      "Saumon fumé",
+      "Rillettes de saumon",
+      "Produits d'autres producteurs locaux"
+    ],
+    "description": "La boutique de la ferme aquacole qui élève des saumons depuis 1991 en pleine mer, dans la grande rade de Cherbourg, à l'abri de la digue ; élevage et ateliers de transformation sont regroupés au port des Flamands. Saumon frais d'avril à juillet selon la page de la boutique (« entre décembre et juillet » selon celle des produits), fumé et rillettes toute l'année ; la boutique vend aussi des produits d'autres producteurs locaux.",
+    "telephone": "02 33 43 00 57",
+    "site_web": "https://saumonfrance.fr/boutique/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=455%20rue%20de%20la%20Cale%20des%20Flamands%2050110%20Cherbourg-en-Cotentin",
+    "image_url": "/images/marchands/le-saumonier-cherbourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fournil-des-petits-pas-cherbourg",
+    "nom": "Fournil des Petits Pas",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.648641,
+    "lon": -1.649275,
+    "adresse": "28 Rue de la Paix, Équeurdreville-Hainneville, 50100 Cherbourg-en-Cotentin",
+    "horaires": "Mercredi et vendredi de 15h30 à 19h, au fournil. Commande en ligne jusqu'à la veille 10h ; au-delà de 4 kg de pain, 48 h à l'avance.",
+    "produits": [
+      "Pains de campagne au levain, nature et aux graines",
+      "Pain paysan et méteil",
+      "Pains au khorasan et au petit épeautre",
+      "Pains au riz et au sarrasin",
+      "Brioches et briochettes",
+      "Crackers salés",
+      "Cookies et biscuits granola"
+    ],
+    "description": "Micro-fournil 100 % bio et au levain naturel d'Équeurdreville, dont l'atelier devient boutique deux fins d'après-midi par semaine. Farines d'une coopérative bio de producteurs normands et beurre, crème et lait d'une laiterie bio normande, selon sa page des fournisseurs ; engagé chez Certipaq depuis février 2024 pour le pain et la viennoiserie au registre de l'Agence Bio.",
+    "site_web": "https://www.fournildespetitspas.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28%20rue%20de%20la%20Paix%2050100%20Cherbourg-en-Cotentin",
+    "image_url": "/images/marchands/fournil-des-petits-pas-cherbourg.jpg"
   }
 ]

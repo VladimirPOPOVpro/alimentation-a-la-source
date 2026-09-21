@@ -2952,9 +2952,30 @@ prioritaires en cas de conflit.
      écarts de quelques centièmes entre les valeurs publiées par les passes et un recalcul viennent de
      l'état du fichier au moment du calcul et ne changent pas cette lecture.
 
+225. **Quand l'arrêté des marchés, plus ancien, distingue le placement des commerçants de l'ouverture au public,
+     et que la page plus récente de la même commune donne d'autres bornes, on publie la plage sur laquelle les
+     deux s'accordent.** La Ville de Cherbourg-en-Cotentin publie ses marchés deux fois. L'arrêté du 2 avril 2019,
+     reçu en sous-préfecture le 30 avril, modifie le règlement de 2017 et lui joint un tableau : déballage à 6h,
+     « placement des passagers » à 8h30, **ouverture au public de 9h à 13h30** pour tous les marchés, remballage à
+     partir de 13h30. La page « Les marchés de plein air », mise à jour le 17 février 2026, annonce 8h30-14h le
+     mardi, 8h30-13h30 le jeudi et le dimanche, 8h30-13h le samedi. La règle 207 ferait primer l'arrêté, parce
+     qu'il dit ce que mesure le 8h30 de la page ; la règle 172 ferait primer la page, plus récente de sept ans, qui
+     a pu enregistrer un vrai changement. Aucune pièce ne départage les deux lectures. **Tranché ainsi** : la fiche
+     publie l'intersection des deux plages — la plus tardive des ouvertures, la plus précoce des fins —, pendant
+     laquelle le marché est ouvert selon l'une comme selon l'autre, cite les deux versions dans `horaires` en
+     disant ce qu'est le 8h30, et reste `a_confirmer`. C'est la lecture qui coûte le moins au visiteur, celle que
+     la règle 78 applique à la fin de vente, étendue ici aux deux bornes. Ici : 9h-13h30 le mardi, le jeudi et le
+     dimanche, 9h-13h le samedi. La règle ne joue qu'entre deux documents de la même commune ; entre la commune et
+     un relais, la règle 176 reste seule applicable.
+
 ## Marchands à confirmer
 
-586 fiches sur 644 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+590 fiches sur 649 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville de Cherbourg** (Cherbourg-en-Cotentin) (catégorie et piliers des marchés municipaux, sans `environnement`. **Une fiche pour trois séances, règle 42** : la Ville tient le mardi, le jeudi et le samedi un marché dont la place du Général-de-Gaulle est le seul lieu commun, et l'office de tourisme du Cotentin les réunit lui-même sur une fiche « Centre de Cherbourg » ; le jeudi s'étend aux rues voisines, le samedi à la place Centrale, ce que `horaires` dit. **Horaires, règle 225, née ici** : 9h-13h30 (13h le samedi), intersection de l'arrêté du 2 avril 2019 et de la page de la Ville du 17 février 2026, les deux versions citées. **Produits** : les familles que la page de la Ville écrit pour chaque séance, sans liste d'étals. **Point, règles 64 et 67** : la Base Adresse Nationale range la « Place General de Gaulle » sous le code 50120 et pose son centre à 1,4 km de là ; le point est celui que l'office publie, dont le contrôle inverse tombe à 17 m du 4 place Général-de-Gaulle et à 9 m de la rue des Tribunaux. **Photo, règle 91** : la vue de la place, du théâtre et de la fontaine que l'office attache à cette seule fiche, recadrée sur ses 555 px du haut pour que plus aucun passant n'y figure. Reste `a_confirmer` pour les heures)
+- **Marché de l'avenue de Normandie** (Cherbourg-en-Cotentin) (marché du dimanche d'Octeville, catégorie et piliers des marchés municipaux. **Horaires, règle 225** : 9h-13h30, où concordent la fin de l'arrêté et celle de la page ; seule l'ouverture diffère. **Produits** : les familles de la page de la Ville ; la même page compte produits manufacturés et bazar, mais la composition qu'elle publie est majoritairement alimentaire (règle 119). **Point** : celui de l'office de tourisme, à 20 m des numéros 20 et 49 de l'avenue au contrôle inverse ; le centre de la voie à la Base Adresse Nationale tombe 130 m plus loin. Le plan des périmètres annexé au règlement délimite le marché entre la place des Provinces, l'avenue de Normandie, la rue de Champagne et la rue de l'Orléanais : le point retenu est dans ce périmètre, à 155 m du centre de la rue de Champagne et à 215 m de celui de la rue de l'Orléanais. **Photo, règle 91** : un panier de saucissons secs que l'office attache à ce seul marché, recadré sous la ligne où apparaissait le buste d'un marchand, 1 200 × 550 ; le gros plan de fromages de la même fiche portait une marque au nom de famille (règle 75), la troisième photographie sert à quatre marchés et n'est qu'une illustration (règle 88). Reste `a_confirmer` pour les heures)
+- **Biolavie** (Cherbourg-en-Cotentin) (magasin bio du réseau Biomonde, avenue Aristide-Briand. **Registre, règle 6** : société active, établissement ouvert à cette adresse, code 47.11C. **Pilier `environnement`, règle 39** : engagement Ecocert du 6 juin 2025, sans date d'arrêt, productions déclarées fruits et légumes frais, boulangerie, produits laitiers et œufs, lieu de vente déclaré à cette adresse. **Règle 3** : le magasin consacre une page à chacun de ses fournisseurs locaux ; plusieurs portent des noms de personnes ou une enseigne bâtie sur un patronyme, et la fiche ne les décrit que par leur production et leur commune. **Horaires, règle 104** : ceux du magasin, l'écart de l'office de tourisme (lundi 14h30, samedi 9h30) est cité. **Téléphone** : le même chez le magasin et chez l'office. **Site** : `bio-la-vie.fr` redirige vers `www.bio-la-vie.fr`, que son certificat ne couvre pas ; le visiteur tomberait sur une alerte de sécurité, et le site n'est pas inscrit, comme pour Solembio à Orléans. **Point** : numéro 6 à la Base (0,972), à 1 m du point de l'office. **Photo** : le rayon de fruits et légumes et les silos de vrac publiés par l'office pour ce magasin, 800 × 600, personne dans le cadre. Reste `a_confirmer` pour les horaires du lundi et du samedi)
+- **Le Saumonier Cherbourg** (Cherbourg-en-Cotentin, Tourlaville) (boutique de la ferme aquacole du port des Flamands ; catégorie `ferme` au titre de la règle 13, une pisciculture qui vend ce qu'elle élève. **Registre, règle 6** : la société d'élevage marin (code 03.21Z) et la société Le Saumonier Cherbourg (10.20Z, enseigne déclarée) sont actives à la ZA Produimer ; un ancien établissement de commerce de la rue de la Tourelle est fermé, règle 217. **Horaires** : ceux que la page de la boutique et la page de contact du site publient à l'identique. **Saison, règle 44** : la page de la boutique dit le saumon frais « d'avril à juillet », celle des produits « entre décembre et juillet » ; les deux sont dans la description. **Règle 29** : la boutique dit vendre aussi les produits de producteurs locaux, ce que la description écrit. **Pas de pilier `environnement`** : aucune certification au registre de l'Agence Bio ; la maison revendique une reconnaissance du Collège culinaire de France, qui n'est pas une certification au sens de la règle 14. **Téléphone** : le fixe que publie le site ; l'office de tourisme en donne un autre, et le portable du site n'est pas repris. Le site nomme le dirigeant : non repris. **Point** : numéro 455 à la Base (0,963) ; le marqueur de l'office tombe 510 m plus à l'est, rue Jean-François-Millet, et n'est pas retenu. **Photo** : l'intérieur de la boutique, vitrines et enseigne murale, publié par l'office, bandes noires retirées, 1 200 × 800, personne. Reste `a_confirmer` pour la saison du frais)
+- **Fournil des Petits Pas** (Cherbourg-en-Cotentin, Équeurdreville-Hainneville) (micro-fournil bio au levain, `producteur` au titre de la règle 73. **Registre, règle 6** : entreprise individuelle active, créée en novembre 2023, **enseigne déclarée « Fournil des Petits Pas »** — c'est elle seule qui est publiée ; le nom de l'exploitante, que portent le registre et le site, ne l'est nulle part. **Pilier `environnement`, règle 39** : engagement Certipaq du 15 février 2024, sans date d'arrêt, pain frais et viennoiserie déclarés, lieu de vente déclaré au 28 rue de la Paix. **Horaires** : la page d'accueil du site, mercredi et vendredi 15h30-19h ; la page de commande ouvre les retraits des mercredis et vendredis du 23 septembre au 9 octobre 2026, ce qui atteste l'activité. **Produits, règle 115** : la carte des pains 2026 que le fournil publie. **Téléphone** : aucun fixe publié, rien d'inscrit. Les fournisseurs nommés sur le site (dont des éleveurs désignés par leur nom) ne sont décrits que par leur production. **Point** : numéro 28 à la Base (0,98) ; la Base range la rue sous le code 50100, l'Agence Bio sous 50120, et l'adresse est écrite comme la Base la rend. **Photo** : sacs de pain kraft à l'étiquette du fournil, publiés par le fournil, recadrés au format bandeau, 1 280 × 622, personne ; la photographie de l'atelier où l'on voit la boulangère n'a pas été retenue. Fiche non marquée `a_confirmer`.)
 - **Marché alimentaire du samedi** (Thionville) (catégorie et piliers des marchés, sans `environnement`. **Horaires** : samedi 7h-12h30, identiques sur la page « Les marchés de Thionville » de la Ville (mise à jour le 12 février 2026) et sur la page « Les marchés locaux » de l'office de tourisme du Pays Thionvillois. **Produits** : les six familles que la Ville et l'office écrivent pour ce marché, sans liste d'étals. **Point** : la Ville écrit « rue du Manège et place Hugo » ; la Base Adresse Nationale connaît la rue du Manège (0,967) et ne rend pour « place Hugo » que la rue Victor-Hugo à 0,73 : c'est le centre de la rue du Manège qui est publié, règle 83. **Règle 106** : équipement municipal, pas de test du registre. **Téléphone** : la ligne du service Foires & Marchés que la Ville publie sur la page. **Photo, règle 1** : l'office range dans ses blocs de Yutz et de Terville deux photographies titrées « Marché alimentaire - Thionville » ; celle de l'étal de légumes est recadrée sur ses 1 320 px de gauche pour retirer le seul client (de dos, sans visage), réduite à 1 280 px, et la description dit qu'elle illustre sans dater la séance. Reste `a_confirmer` pour la composition des étals)
 - **Marché de la gare** (Thionville) (catégorie `marche`, pilier `transport` en plus, le marché se tenant sur le parvis de la gare. **Horaires, règle 176** : la Ville écrit jeudi 16h-20h, l'office 17h-20h ; c'est l'horaire de la Ville qui est publié, l'autre cité dans `horaires`. **Produits** : le classement de la Ville (« alimentaire, produits régionaux ») et, règle 91, la photographie que l'office attache à ce seul marché — confitures, jus, fraises, agrumes, kiwis et avocats sur un étal. **Point** : l'esplanade Jean Moulin à la Base (0,956), contrôle inverse sur l'esplanade même. **Photo** : la même, 2 048 px, recadrée sur l'étal du coin inférieur gauche, 720 × 549 : la marchande n'y apparaît plus que de dos à la taille, la foule et le numéro de téléphone imprimé sur la tente sont hors cadre. Reste `a_confirmer` pour l'heure d'ouverture)
 - **La Fabrik des Pains Vagabonds** (Thionville) (boulangerie au levain, cantine et café, `producteur` au titre de la règle 73. **Registre, règle 6** : société active, établissement ouvert au Carré des Arts, 15 rue du Manège. **Pilier `environnement`, règle 39** : engagement Ecocert du 27 mars 2023, sans date d'arrêt, productions déclarées pain frais et viennoiserie, lieu d'activité déclaré à cette adresse. **Horaires** : les données structurées du site de la maison (mardi-vendredi 7h30-18h30, samedi 7h30-14h30), que son texte résume en « du mardi 7h30 au samedi 14h30 ». **Téléphone** : le seul numéro publié est un portable, dans les mentions légales, à côté du nom du gérant ; ni l'un ni l'autre n'est repris, pas plus que le prénom de la cheffe que cite la page. **Point** : numéro 15 à la Base (0,967). **Photo** : une miche aux graines de courge publiée par la maison, 1 280 × 960, personne dans le cadre. Fiche non marquée `a_confirmer`.)
@@ -9917,6 +9938,59 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Cherbourg-en-Cotentin
+
+Passe du 21 septembre 2026, quinzième de la journée. **Département retenu, règle 41** : la Manche (50),
+déficit **4,6467** sur une base de 644 fiches, devant les Pyrénées-Orientales (4,6405) et les
+Bouches-du-Rhône (4,4981) ; l'outre-mer sort par les règles 93 et 177, le dénominateur est celui de la
+règle 224. La passe précédente visait Thionville, en Grand Est ; la Manche est en Normandie, la réserve de la
+règle 41.c ne joue pas. **Commune** : Cherbourg-en-Cotentin, 78 258 habitants, la plus peuplée du
+département, sans aucune fiche. Après la passe, sur 649 fiches, le 50 tombe à **−0,32** ; en tête ensuite,
+outre-mer écarté : les **Pyrénées-Orientales** (4,6765), les **Bouches-du-Rhône** (4,6495), le **Nord**
+(4,6189).
+
+**Les cinq fiches**, toutes dans la commune nouvelle : le marché du centre-ville (mardi, jeudi et samedi) et
+celui de l'avenue de Normandie (dimanche), le magasin Biolavie, la boutique Le Saumonier Cherbourg à
+Tourlaville et le Fournil des Petits Pas à Équeurdreville. Deux marchés qui ne se recoupent d'aucun jour
+(règle 168), un magasin bio, un éleveur et un artisan : la règle 170 n'a pas eu à élargir.
+
+**Les sources** : la page « Les marchés de plein air » de la Ville (17 février 2026) et les arrêtés qu'elle
+joint — le règlement de 2017, l'arrêté modificatif du 2 avril 2019 et le plan des périmètres, scannés et lus
+par reconnaissance de caractères —, les fiches de l'office de tourisme du Cotentin (`encotentin.fr`, dont le
+`robots.txt` ne vise aucun agent d'IA), le registre de l'Agence Bio pour le 50 (1 339 opérateurs, dont une
+cinquantaine dans la commune, surtout des supermarchés et des boulangeries), le registre des entreprises, la
+Base Adresse Nationale et les sites des commerces, dont aucun `robots.txt` ne vise un agent d'IA.
+
+**Contradictions tranchées** : les heures des marchés (règle 225, née ici), les horaires du lundi et du
+samedi de Biolavie (règle 104), la saison du saumon frais (règle 44), le téléphone du Saumonier (celui du
+commerce) — voir les fiches.
+
+**Fiches écartées pour doute sur une personne** : aucune. Plusieurs pages nomment des personnes (dirigeants,
+équipe, fournisseurs, élus signataires des arrêtés) : ces noms ne sont repris nulle part.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché de la place Alfred-Rossel** (Octeville, mercredi, quatre commerçants de fruits et légumes selon la
+  Ville) et **marché de la place Mandela** (Équeurdreville, vendredi) : jours et lieux confirmés par la Ville
+  et l'office, heures régies par la règle 225 ; laissés pour la diversité des catégories (règle 167). Leurs
+  photographies d'office sont des gros plans propres à chaque fiche (prunes, étal d'agrumes), utilisables
+  comme illustrations.
+- **Marché de La Glacerie** (mercredi matin, centre commercial Montmartre, rue Hélène-Boucher) : la Ville et
+  l'office ne donnent que « mercredi matin », et l'arrêté de 2019 ne le cite pas ; sa photographie d'office
+  montre des marchands. **Déblocage** : une heure publiée par la commune.
+- **Marchés de la Rocambole (Querqueville) et de la Brèche du Bois** : présents dans l'arrêté de 2019, absents
+  de la page de 2026 — règle 163, non publiés.
+- **Biocoop de Tourlaville** (rue des Industries, société active, engagement Ecocert de 2018) : non instruite
+  faute de place ; la catégorie `magasin-bio` était remplie par Biolavie.
+- **Ferme des Margannes** (Équeurdreville, œufs et volailles bio, engagement Bureau Veritas du GAEC en cours) :
+  aucun horaire de vente publié trouvé — règle 192.
+- **Épicerie en vrac de la rue Gambetta** (Équeurdreville, certifiée Ecocert) : règle 86, ses producteurs
+  n'ont pas été cherchés. **Atelier de pâtes bio** (La Glacerie, engagement Ecocert 2021) et
+  **fromagerie de la rue du Château** : non instruits.
+- **Écartés comme généralistes ou sans vente au particulier** : les Carrefour, Leclerc, Intermarché, Lidl et
+  Leader Price de la commune, un laboratoire, un grossiste de produits de la mer et un négoce d'animalerie ;
+  plusieurs exploitations inscrites sous le seul nom de leur exploitant, sans enseigne, ne sont pas nommées.
 
 ### Pistes non publiées à Thionville et dans son agglomération
 
