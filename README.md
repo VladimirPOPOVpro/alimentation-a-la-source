@@ -2895,9 +2895,33 @@ prioritaires en cas de conflit.
      reste `a_confirmer` (règle 92). Un adjectif commun à tous les marchés de la liste ne trie rien et
      reste régi par la règle 197. Ici : le marché de Faventines, vendredi matin.
 
+222. **Quand la commune ne publie d'un marché que le jour et la place, sans heure ni page des marchés,
+     la page que son agglomération consacre aux marchés de ses communes donne l'heure ; l'office de
+     tourisme sert de contrôle.** La Ville de Château-Thierry n'a pas de rubrique des marchés : elle ne
+     les nomme qu'au détour d'avis (« les marchés de centre-ville hebdomadaires du vendredi » déplacés
+     pour les fêtes, place de l'Hôtel-de-Ville). La Communauté d'agglomération de la Région de
+     Château-Thierry tient, elle, un tableau « Flânez sur un marché » (mis à jour le 19 septembre 2023)
+     qui donne commune, lieu, jour et heure de chaque marché du territoire, et un annuaire des
+     producteurs (septembre 2024) qui reprend le marché du vendredi. La règle 196 refuse l'office seul
+     parce qu'il n'est qu'un relais ; la règle 204 prend l'heure dans le dépliant daté de l'office quand
+     la commune n'en donne pas. Une intercommunalité n'est pas un relais touristique : c'est la
+     collectivité qui porte, avec ses communes, la compétence de développement économique, et elle
+     publie le marché avec la même précision qu'une commune. **Critère** : la commune établit
+     l'existence du marché, son jour et son lieu ; l'heure et la distinction des séances viennent de la
+     page intercommunale ; l'office sert de contrôle, et quand il se contente d'écrire « matin », la
+     fiche le dit et reste `a_confirmer`. La règle ne crée pas de marché : une séance que seule
+     l'intercommunalité recense, sans aucune mention communale, reste soumise à la règle 196. Ici : le
+     marché de Château-Thierry, mardi sous la halle et vendredi sur la place, 8h-14h ; le marché des
+     Vaucrises, que seul le tableau de l'Agglomération mentionne, reste en pistes.
+
 ## Marchands à confirmer
 
-575 fiches sur 629 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+578 fiches sur 634 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Château-Thierry** (Château-Thierry) (catégorie et piliers des marchés, sans `environnement`. **Existence, jour et lieu** : la Ville, dans ses avis sur « les marchés de centre-ville hebdomadaires du vendredi », place de l'Hôtel-de-Ville ; le réaménagement de la place, lancé en novembre 2024, est terminé et le marché y a repris. **Heures, règle 222, née ici** : le tableau « Flânez sur un marché » de l'Agglomération (mis à jour le 19 septembre 2023) donne mardi 8h-14h sous les halles, « marché alimentaire », et vendredi 8h-14h sur la place, rue Drugeon-Lecart et rue du Général-de-Gaulle, « alimentaire et non alimentaire » ; l'office Les Portes de la Champagne écrit « mardi matin (sous le marché couvert) et vendredi matin ». **Une fiche, deux séances, règle 42** : la halle et la place n'ont qu'un point à la Base Adresse Nationale. **Produits** : la nature des deux séances, et deux stands que l'annuaire de l'Agglomération et l'office placent sur le marché du vendredi, une ferme laitière bio de Montlevon et un élevage d'Essômes-sur-Marne (règle 97 : la fiche dit d'où viennent ces lignes). **Téléphone, règle 189** : le standard de la mairie. **Point** : la place à la Base (0,96), identique au marqueur de l'Agglomération. **Photo, règle 91** : la façade de la halle, enseigne « MARCHE », publiée par la Ville sur son avis consacré aux travaux de la place ; 6 960 px recadrés sur la façade, au-dessus de la pelleteuse, de son conducteur et des passants, ramenés à 1 280 × 672.)
+- **Ferme Jean de La Fontaine** (Château-Thierry) (magasin de produits fermiers ouvert trois jours par semaine, `producteur` au titre de la règle 105 ; l'enseigne porte le nom du fabuliste, né à Château-Thierry, pas celui d'un exploitant. **Registre, règle 6** : société active depuis 1990, établissement ouvert au 24 rue de la Prairie, code 47.21Z. **Règle 23** : l'office tient deux fiches, le magasin et la ferme Saint-Robert d'Épaux-Bézu, dont il écrit que les produits sont vendus au magasin ; une seule fiche, au point de vente, la ferme nommée dans la description. **Horaires** : l'annuaire des producteurs de l'Agglomération (septembre 2024) ; l'office n'en publie pas. **Produits** : l'Agglomération et l'office. **Site, règle 62** : l'adresse que donnent l'Agglomération et le registre de l'Agence Bio mène à une page Wix « domaine non connecté » ; retirée. **Photo, règles 1 et 59** : la seule photographie du magasin, sur la fiche de l'office, fait 400 px, sous le plancher ; la fiche porte une photographie thématique de la commune, des pieds de tomates publiés par l'office pour une autre boutique de Château-Thierry, 1 920 px ramenés à 1 280, et la description dit qu'elle ne montre pas le magasin.)
+- **La Fontaine Bio** (Essômes-sur-Marne) (magasin bio indépendant, `magasin-bio`, à 2,6 km de la place de l'Hôtel-de-Ville, même agglomération, règle 96. **Registre, règle 6** : société active depuis 2011, établissement ouvert avenue du Général-de-Gaulle, code 47.29Z. **Pilier `environnement`** : certificat Ecocert engagé depuis avril 2012, document en vigueur consultable. **Source** : la page du magasin sur le site du réseau Accord Bio, horaires et téléphone ; le domaine propre annoncé ne répond plus. **Circuit court** : le magasin écrit travailler avec plusieurs producteurs locaux, sans les nommer, comme le Biocoop de Valence. **Point** : numéro exact (0,959), identique au point du registre bio. **Photo** : le rayon vrac publié par le réseau pour ce magasin, personne dans le cadre, 1 024 × 576, non agrandi. La page du réseau nomme la gérante, qui n'est pas reprise. Fiche non marquée `a_confirmer`.)
+- **Ferme de la Genevroye** (Rocourt-Saint-Martin) (élevage bio, `ferme`, à 11,4 km au nord du centre de Château-Thierry, même agglomération, règle 96. **Registre, règle 6** : société active, établissement ouvert à la ferme. **Pilier `environnement`** : certificat Ecocert, document en vigueur. **Contradiction consignée, règle 5** : la ferme écrit « en agriculture biologique depuis 1990 », le registre de l'Agence Bio date l'engagement de 1995 ; la fiche ne donne pas d'année. **Horaires** : l'article « Les horaires d'ouverture du magasin » du site de la ferme (26 septembre 2025), concordant avec l'Agglomération ; le marché bio du 2e samedi, que l'Agglomération et l'office comptent comme un marché à part, se tient dans la cour de la ferme et reste dans cette fiche (règle 42). **Point, règle 10** : la Base ne connaît que le village (0,56) ; le point retenu est le marqueur que la ferme publie elle-même sur sa page « Nous trouver », libellé « Ferme de la Genevroye, magasin de produits fermiers bio », à 1,1 km du point du registre bio et à 0,7 km de celui de l'Agglomération, tous deux posés au village. **Photo** : une vache Salers au pré, publiée par la ferme, personne dans le cadre, 1 000 × 563, non agrandie. Le registre bio et le certificat portent le nom de l'exploitant, qui n'est pas repris.)
+- **Canardises des 3 Vallées** (Condé-en-Brie) (élevage de canards avec boutique à la ferme, `ferme`, à 12,1 km au sud-est du centre de Château-Thierry, même agglomération, règle 96. **Registre, règle 6** : société active depuis 2002, établissement ouvert au 2 rue du Cahot. **Pas de pilier `environnement`** : aucune certification. **Horaires** : la page « Horaires » du site (mise à jour le 6 décembre 2024), identique à l'Agglomération. **Point, règle 67** : numéro exact à la Base (0,944), identique au registre des entreprises et à l'Agglomération ; les coordonnées GPS que publie le site retombent rue de la Gravière, à 350 m, et ne sont pas retenues. **Photo** : l'intérieur de la boutique publié par la ferme, personne dans le cadre, 1 920 px ramenés à 1 280, liseré bas retiré. Le site présente l'exploitation par les prénoms et le nom de la famille : rien n'en est repris. Fiche non marquée `a_confirmer`.)
 - **Marché de producteurs de la place Saint-Jean** (Valence) (catégorie et piliers des marchés, sans `environnement` : l'office écrit « agriculture raisonnée ou bio », ce n'est pas une classification (règles 45 et 49). **Jour, heure et lieu, règle 215** : la page « Les marchés à Valence » de la Ville, mise à jour le 17 février 2026 (mardi 16h-19h, « marché de producteurs ») et la fiche de l'office de tourisme Valence Romans Tourisme (mardi 16h-19h, toute l'année) concordent. **Produits, règle 91** : ceux qu'énumère l'office pour ce seul marché. **Téléphone, règle 189** : le service municipal des activités commerciales, que la page des marchés donne comme contact ; l'office imprime le standard de la mairie. **Point** : la Base Adresse Nationale connaît la place (0,966), à 28 m du marqueur de l'office. **Photo, règle 46** : la photographie que l'office attache à ce marché, sous une halle métallique, recadrée sous la ligne des visages, 1 024 × 318, non agrandie ; l'autre photographie de la fiche, le clocher de l'église, fait 512 px, sous le plancher de 600.)
 - **Marché de la place des Clercs** (Valence) (catégorie et piliers des marchés. **Deux séances, une fiche, règle 42** : l'office tient deux fiches, jeudi et samedi, sur le même point (12 m d'écart) ; la Ville écrit jeudi 7h-12h30 place des Clercs, samedi 7h-14h « place des Clercs, Université, Ormeaux, Simone Veil », et l'office concorde à la minute. **Produits, règle 91** : fruits et légumes, fleurs et plants, lus sur les trois photographies que l'office attache à la seule fiche du samedi, et les mots de cette fiche (« produits frais et locaux », « centaine d'exposants »). **Point** : la place à la Base Adresse Nationale (0,966). **Photo, règle 46** : l'étal de radis, poivrons et courges de la fiche du samedi, recadré sous la ligne des visages et à gauche d'une silhouette lointaine, 950 × 265 ; le bandeau que la Ville nomme « marchés fleurs place des Clercs » porte le portrait d'un marchand et plusieurs visages, il n'a pas servi.)
 - **Marché de Faventines** (Valence) (catégorie et piliers des marchés. **Produits, règle 221, née ici** : la seule nature « alimentaire » que lui donnent la Ville et l'office ; la fiche dit que la composition n'est pas publiée. **Horaires** : vendredi 7h-13h30 à la Ville et à l'office. **Point, règle 50** : la Ville écrit « place Faventines », que la Base Adresse Nationale ignore ; l'office écrit « Parking Faventines, 66 rue Faventines », numéro exact (0,979), à 25 m du marqueur de l'office ; l'adresse porte les deux noms. **Photo, règle 208** : la corbeille de fruits tenue à deux mains, sans visage, 800 × 533, que l'office attache sans légende aux fiches de cinq marchés valentinois (place des Clercs le jeudi, place de la Paix, place Danton, rue Jules-Ferry, Faventines) ; la fiche dit qu'elle ne montre pas ce marché, et aucune autre fiche de la passe ne l'emploie.)
@@ -9845,6 +9869,75 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Château-Thierry et dans son agglomération
+
+Passe du 21 septembre 2026, douzième de la journée. **Département retenu, règle 41** : l'Aisne (02),
+déficit **4,7740** pour 523 342 habitants et aucune fiche, sur une base de 629 fiches ; l'outre-mer sort
+par les règles 93 et 177. La passe précédente visait la Drôme, en Auvergne-Rhône-Alpes ; l'Aisne est en
+Hauts-de-France, la réserve de la règle 41.c ne joue pas. Après la passe, sur 634 fiches, le 02 tombe à
+**−0,1880** ; en tête ensuite, outre-mer écarté : la **Moselle** (4,6664), la **Manche** (4,5746), les
+**Pyrénées-Orientales** (4,5684) et **Paris** (4,3436).
+
+**Descente de la règle 41.d, quatre échelons.** Chaque commune a été éprouvée au titre de la règle 127
+avant de passer à la suivante.
+
+1. **Saint-Quentin** (52 813 habitants) : le site de la Ville et celui de l'Agglomération du
+   Saint-Quentinois opposent un défi anti-robot à toute lecture (règle 212) ; leurs marchés relèvent de
+   la règle 196, la page des marchés de l'office ne citant d'ailleurs qu'un annuaire tiers comme source.
+   Hors marchés, une seule fiche entière — un magasin Biocoop du boulevard Gambetta, actif au registre —,
+   aucune AMAP à source datée, et le magasin La Vie Claire de la rue Émile-Zola est fermé au registre, une
+   supérette de chaîne occupant l'adresse. L'ancien domaine d'office `saint-quentin-tourisme.fr` a été
+   racheté et affiche un texte sans rapport : l'office vit sur `destination-saintquentin.fr`.
+2. **Soissons** (28 046) : la Ville publie son marché du mercredi et du samedi matin, place
+   Fernand-Marquigny et marché couvert, sans aucune heure, et l'office du Soissonnais Valois pas davantage
+   (règle 192). Le magasin Biocoop de l'avenue de Compiègne est la seule fiche entière ; l'AMAP de la
+   ville n'a plus rien publié depuis 2017 (règle 195).
+3. **Laon** (24 220) : le `robots.txt` du site de la Ville nomme et interdit notre robot (règle 77) ;
+   aucune source communale pour les marchés, et le registre bio n'y compte que des enseignes de
+   distribution et des exploitants en nom propre.
+4. **Château-Thierry** (15 097) : deux fiches entières dans la commune — le marché, le magasin de la
+   Ferme Jean de La Fontaine — et trois dans la Communauté d'agglomération de la Région de
+   Château-Thierry, vérifiée au référentiel (règle 219) : Essômes-sur-Marne (2,6 km), Rocourt-Saint-Martin
+   (11,4 km), Condé-en-Brie (12,1 km), toutes à moins de quinze kilomètres (règle 96). C'est la première
+   commune de la descente qui remplit la règle 127 ; c'est donc elle qui fait la passe.
+
+**Les sources.** Les avis de la Ville de Château-Thierry sur ses marchés et sur les travaux de la place de
+l'Hôtel-de-Ville ; le tableau des marchés et l'annuaire des producteurs de l'Agglomération ; les fiches
+et le plan de site de l'office Les Portes de la Champagne ; le site de la Ferme de la Genevroye, celui des
+Canardises des 3 Vallées, la page du réseau Accord Bio pour La Fontaine Bio ; le registre de l'Agence Bio,
+paginé sur les 582 opérateurs du département ; les certificats Ecocert ; le registre des entreprises ; la
+Base Adresse Nationale. Aucun de ces sites n'exclut d'agent d'IA dans son `robots.txt`.
+
+- **AMAP de Château-Thierry, non publiée, règle 195** : distribution du mercredi soir à la Biscuiterie
+  selon l'annuaire de l'Agglomération (septembre 2024) ; son blog s'arrête en 2015 et la fiche
+  associative de la Ville n'est pas datée. **Déblocage** : une source de moins de douze mois.
+- **Marché des Vaucrises** (mardi 8h-14h) : le seul tableau de l'Agglomération le cite ; ni la Ville ni
+  l'office (règles 196 et 222).
+- **Marché de producteurs d'Essômes-sur-Marne**, 2e mercredi du mois : l'Agglomération écrit 16h-19h
+  d'avril à octobre, l'office 16h-20h de mars à décembre (règle 5), et la seule illustration publiée est
+  une vidéo. **Déblocage** : une publication de la commune, dont le site ne cite pas ce marché.
+- **Magasin La Vie Claire de la place de l'Hôtel-de-Ville** : enseigne de réseau, écartée comme à
+  Saint-Maximin-la-Sainte-Baume et à Metz, faute de producteurs locaux nommés (règle 86).
+- **Ferme laitière bio de Montlevon** (9,2 km, certifiée Ecocert) : faits solides à l'annuaire de
+  l'Agglomération, mais aucune photographie publiable, et le seul téléphone publié est un portable
+  personnel (règle 143). **Déblocage** : une photographie de la ferme sans visage.
+- **Ferme maraîchère de Bézu-Saint-Germain** (4,9 km) : société active, horaires à l'annuaire de
+  l'Agglomération (2024), pas d'autre source ni de photographie.
+- **Boulangerie bio de la rue Carnot**, certifiée depuis 2015 : ni site, ni horaires, ni photographie.
+- **Épicerie coopérative de Nesles-la-Montagne** : réservée à ses membres, hors sujet en l'état.
+- **Marché campagnard de Marigny-en-Orxois** (13 km) : l'Agglomération et l'office donnent le jour, aucun
+  l'heure (règle 192).
+- **Soissonnais, non instruits faute de commune retenue** : un maraîcher de Venizel à boutique et
+  distributeur (horaires publiés par l'office), une ferme bio de Crouy, deux brasseries. À reprendre le
+  jour où la règle 41 désignera Soissons avec des heures de marché publiées.
+- **Quatre pistes écartées pour doute sur une personne** : à Château-Thierry, une fromagerie dont l'office
+  titre la fiche d'un patronyme et dont la boutique relève d'une autre société que l'enseigne affichée ;
+  à Essômes-sur-Marne, deux maraîchers dont l'enseigne est bâtie sur un prénom ; dans le Soissonnais, un
+  confiturier dont l'enseigne porte un prénom. Aucune ne se rouvre.
+- **Données personnelles rencontrées et laissées de côté** : noms d'exploitants dans le registre bio,
+  les certificats et les annuaires ; nom de la gérante d'un magasin sur la page de son réseau ; prénoms et
+  nom de famille sur le site d'un élevage ; élus nommés dans les articles municipaux.
 
 ### Pistes non publiées à Valence
 

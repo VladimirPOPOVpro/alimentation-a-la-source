@@ -16718,5 +16718,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=86%20route%20de%20Beauvallon%2C%2026000%20Valence",
     "image_url": "/images/marchands/paysans-direct-valence.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-chateau-thierry",
+    "nom": "Marché de Château-Thierry",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.0457,
+    "lon": 3.402689,
+    "adresse": "Place de l'Hôtel de Ville, 02400 Château-Thierry",
+    "horaires": "Le mardi de 8h à 14h sous la halle (marché alimentaire) et le vendredi de 8h à 14h sur la place de l'Hôtel-de-Ville et les rues voisines (alimentaire et non alimentaire), selon l'Agglomération ; l'office de tourisme écrit seulement « mardi matin » et « vendredi matin ».",
+    "produits": [
+      "Produits alimentaires sous la halle le mardi",
+      "Produits laitiers bio de ferme le vendredi (lait cru, beurre, yaourts)",
+      "Viandes et charcuteries de ferme le vendredi",
+      "Étals alimentaires et non alimentaires le vendredi"
+    ],
+    "description": "Le marché du centre-ville, sur la place de l'Hôtel-de-Ville, que la Ville vient de réaménager : le mardi sous la halle marquée « Marché », le vendredi en plein air sur la place et les rues voisines. La composition des étals n'est pas publiée ; l'Agglomération et l'office de tourisme y signalent le vendredi une ferme laitière bio de Montlevon et un élevage d'Essômes-sur-Marne. La photographie, publiée par la Ville pendant les travaux de la place, montre la façade de la halle.",
+    "telephone": "03 23 84 86 86",
+    "site_web": "https://www.carct.fr/a-la-une/une/cet-ete-flanez-sur-un-marche-47",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27H%C3%B4tel%20de%20Ville%2C%2002400%20Ch%C3%A2teau-Thierry",
+    "image_url": "/images/marchands/marche-de-chateau-thierry.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-jean-de-la-fontaine-chateau-thierry",
+    "nom": "Ferme Jean de La Fontaine",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.038584,
+    "lon": 3.400267,
+    "adresse": "24 rue de la Prairie, 02400 Château-Thierry",
+    "horaires": "Jeudi et vendredi de 9h30 à 12h et de 14h30 à 19h ; samedi de 9h30 à 12h et de 14h30 à 18h.",
+    "produits": [
+      "Volailles, porc, agneau et lapin",
+      "Charcuterie artisanale",
+      "Œufs et miel",
+      "Fromages et beurre",
+      "Foie gras",
+      "Légumes, pommes et poires",
+      "Jus de pomme et cidre",
+      "Confitures et farine à pain"
+    ],
+    "description": "Magasin de produits fermiers au bord de la Marne, qui vend la viande, la charcuterie, les œufs et le miel de la ferme Saint-Robert d'Épaux-Bézu, transformés dans son propre laboratoire, et les produits d'une vingtaine d'autres producteurs du sud de l'Aisne. Les horaires sont ceux de l'annuaire des producteurs de l'Agglomération. La photographie est une vue thématique de Château-Thierry publiée par l'office de tourisme ; elle ne montre pas le magasin.",
+    "telephone": "03 23 83 04 64",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=24%20rue%20de%20la%20Prairie%2C%2002400%20Ch%C3%A2teau-Thierry",
+    "image_url": "/images/marchands/ferme-jean-de-la-fontaine-chateau-thierry.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-fontaine-bio-essomes-sur-marne",
+    "nom": "La Fontaine Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.033721,
+    "lon": 3.379172,
+    "adresse": "64 avenue du Général de Gaulle, 02400 Essômes-sur-Marne",
+    "horaires": "Du mardi au vendredi de 9h à 12h30 et de 14h à 19h ; samedi de 9h à 19h sans interruption ; fermé dimanche et lundi.",
+    "produits": [
+      "Fruits et légumes frais bio",
+      "Pain et viennoiseries",
+      "Œufs",
+      "Épicerie en vrac",
+      "Thés, cafés et épices",
+      "Produits frais"
+    ],
+    "description": "Magasin bio indépendant ouvert en 2011 à l'entrée d'Essômes-sur-Marne, à deux kilomètres et demi du centre de Château-Thierry, membre du réseau Accord Bio. Certifié en agriculture biologique chez Ecocert depuis 2012 pour la vente au détail, il annonce travailler avec plusieurs producteurs locaux sans les nommer.",
+    "telephone": "03 23 84 26 10",
+    "site_web": "https://www.accord-bio.fr/magasin-bio/essomes-sur-marne/la-fontaine-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=64%20avenue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2002400%20Ess%C3%B4mes-sur-Marne",
+    "image_url": "/images/marchands/la-fontaine-bio-essomes-sur-marne.jpg"
+  },
+  {
+    "slug": "ferme-de-la-genevroye-rocourt-saint-martin",
+    "nom": "Ferme de la Genevroye",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.142628,
+    "lon": 3.391758,
+    "adresse": "Ferme de la Genevroye, 02210 Rocourt-Saint-Martin",
+    "horaires": "Magasin à la ferme le vendredi de 16h à 19h et le samedi de 10h à 12h ; le 2e samedi du mois, marché à la ferme avec d'autres producteurs bio de 10h à 14h (jusqu'à 17h en octobre).",
+    "produits": [
+      "Viande de bœuf (vaches Salers et bœufs normands)",
+      "Viande de veau",
+      "Agneau",
+      "Poulets",
+      "Œufs bio de poules en plein air",
+      "Colis de viande sur réservation"
+    ],
+    "description": "Ferme familiale d'élevage en agriculture biologique, au nord de Château-Thierry : vaches, moutons et volailles nourris à l'herbe et aux céréales locales, avec des arbres plantés dans les prairies. Certifiée chez Ecocert, elle ouvre son magasin deux fois par semaine et accueille chaque mois un marché de producteurs bio dans sa cour.",
+    "site_web": "https://lagenevroye.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20de%20la%20Genevroye%2C%2002210%20Rocourt-Saint-Martin",
+    "image_url": "/images/marchands/ferme-de-la-genevroye-rocourt-saint-martin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "canardises-des-3-vallees-conde-en-brie",
+    "nom": "Canardises des 3 Vallées",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.003429,
+    "lon": 3.555522,
+    "adresse": "2 rue du Cahot, 02330 Condé-en-Brie",
+    "horaires": "Boutique ouverte du jeudi au samedi de 9h à 12h et de 14h à 19h, et souvent sur rendez-vous ; tous les jours du 1er au 24 décembre.",
+    "produits": [
+      "Foie gras de canard",
+      "Magrets et confits",
+      "Pâtés et plats cuisinés",
+      "Miel",
+      "Haricots de Soissons et lentillons de Champagne",
+      "Jus de fruits, cidre et bières"
+    ],
+    "description": "Élevage de canards installé depuis 1995 à Condé-en-Brie, dans la vallée du Surmelin : les canards sont élevés en pâture puis gavés au maïs, et toute la transformation se fait sur l'exploitation, dans un laboratoire agréé. La boutique de la ferme vend aussi les produits d'autres producteurs locaux.",
+    "telephone": "03 23 82 74 96",
+    "site_web": "http://www.canardises.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20du%20Cahot%2C%2002330%20Cond%C3%A9-en-Brie",
+    "image_url": "/images/marchands/canardises-des-3-vallees-conde-en-brie.jpg"
   }
 ]
