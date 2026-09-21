@@ -17795,5 +17795,148 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=12bis%20Avenue%20des%20Th%C3%A9baudi%C3%A8res%2C%2044800%20Saint-Herblain",
     "image_url": "/images/marchands/amap-du-sillon-saint-herblain.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-plaisir",
+    "nom": "Marché de Plaisir",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.818117,
+    "lon": 1.94476,
+    "adresse": "Halle du marché, rue du Docteur Alexander Fleming, 78370 Plaisir",
+    "horaires": "Le vendredi et le dimanche de 8h à 13h, sous la halle couverte du centre-ville, d'après la page « Marché de Plaisir » de la Ville et sa page « Économie, commerce » ; le comité départemental du tourisme indique aussi vendredi et dimanche matin. L'enseigne de la halle, sur une photographie non datée de la Ville, annonce encore « mardi, vendredi, dimanche matin » : aucune séance du mardi n'est publiée aujourd'hui.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Fromages",
+      "Poissons",
+      "Boulangerie",
+      "Rôtisserie et traiteur",
+      "Vins (présence occasionnelle)"
+    ],
+    "description": "Le marché communal de Plaisir, sous une halle en bois du centre-ville. La Ville publie la liste des commerçants jour par jour — deux marchands de fruits et légumes, un boucher, un volailler, un fromager, un poissonnier, un boulanger, des traiteurs — et elle fait appel à candidatures pour y accueillir un producteur de fruits et légumes. Photo : la halle, publiée par la Ville.",
+    "telephone": "01 30 79 66 43",
+    "site_web": "https://www.ville-plaisir.fr/services/economie-emploi/marche-de-plaisir",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20du%20march%C3%A9%2C%20rue%20du%20Docteur%20Fleming%2C%2078370%20Plaisir",
+    "image_url": "/images/marchands/marche-de-plaisir.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-plaisir-des-saveurs",
+    "nom": "AMAP Plaisir des Saveurs",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.817805,
+    "lon": 1.945478,
+    "adresse": "Halle couverte du marché, rue du Docteur Alexander Fleming, 78370 Plaisir",
+    "horaires": "Distribution le jeudi de 18h30 à 20h sous la halle du marché, d'après le site de l'AMAP ; l'annuaire du réseau AMAP d'Île-de-France indique 17h-20h, préparation comprise. Réservé aux adhérents, par contrat semestriel de légumes et contrats complémentaires ; l'AMAP tient une liste d'attente.",
+    "produits": [
+      "Légumes de saison d'un maraîcher bio",
+      "Viande de bœuf, de veau et de porc",
+      "Fromages de chèvre et de brebis",
+      "Pommes et poires",
+      "Œufs",
+      "Champignons",
+      "Volailles",
+      "Pain, miel et cidre"
+    ],
+    "description": "AMAP créée en 2006, qui publie chaque semaine le contenu du panier de légumes — encore les 3, 10 et 17 septembre 2026. Depuis septembre 2024, la préparation et la distribution se font sous la halle couverte du marché, à quelques mètres de la fiche du marché de Plaisir. Le maraîcher est dit certifié bio par l'AMAP, sans vérification au registre ici, d'où l'absence du pilier environnement. Photo : la halle installée pour une distribution, publiée par l'AMAP.",
+    "site_web": "https://www.amap-plaisir.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20du%20march%C3%A9%2C%20rue%20du%20Docteur%20Fleming%2C%2078370%20Plaisir",
+    "image_url": "/images/marchands/amap-plaisir-des-saveurs.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-vergers-de-plaisir",
+    "nom": "Les Vergers de Plaisir",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.804054,
+    "lon": 1.959569,
+    "adresse": "2048 rue Jules Régnier, 78370 Plaisir",
+    "horaires": "Pendant la saison de cueillette, de fin août à mi-novembre : du lundi au vendredi de 14h à 18h30, le samedi et le dimanche de 10h à 18h30, d'après le site des Vergers (mis à jour le 17 septembre 2026). La cueillette 2026 a ouvert le 28 août ; la date de fermeture n'est pas encore publiée.",
+    "produits": [
+      "Pommes en cueillette libre (une dizaine de variétés)",
+      "Boskoop, Golden, Pinkgold et Idared en ce moment",
+      "Jus de pomme",
+      "Pétillant de pomme",
+      "Confitures et gelée de pomme",
+      "Produits de producteurs locaux"
+    ],
+    "description": "L'un des premiers sites de libre cueillette en France : deux vergers de pommiers plantés en 1982, 2,7 hectares, sur le plateau des Gâtines. On y cueille soi-même ses pommes et la boutique vend les jus et confitures de l'exploitation ; visites pédagogiques pour les écoles sur réservation. Photo : le stand des Vergers publié par le comité départemental du tourisme, recadré.",
+    "telephone": "06 64 64 14 50",
+    "site_web": "https://lesvergersdeplaisir.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Vergers%20de%20Plaisir%2C%202048%20rue%20Jules%20R%C3%A9gnier%2C%2078370%20Plaisir",
+    "image_url": "/images/marchands/les-vergers-de-plaisir.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-vie-claire-plaisir",
+    "nom": "La Vie Claire Plaisir",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.829842,
+    "lon": 1.954617,
+    "adresse": "1 rue Paul Langevin, 78370 Plaisir",
+    "horaires": "Du lundi au samedi de 9h30 à 19h, le dimanche de 10h à 12h30 : c'est la fenêtre commune aux deux horaires que publie la page du magasin (la grille annonce 9h30-19h30 du lundi au samedi et 9h30-12h30 le dimanche, le texte 9h30-19h en semaine et 10h-13h le dimanche).",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Pain cuit sur place",
+      "Vrac",
+      "Crèmerie, viandes et œufs",
+      "Traiteur et produits locaux",
+      "Épicerie et produits sans gluten"
+    ],
+    "description": "Magasin bio de réseau dans la zone commerciale nord de Plaisir, avec parking, pain cuit sur place et rayon vrac. Certificat Bureau Veritas en cours au registre de l'Agence Bio (engagement du 25 novembre 2025). Photo thématique : un étal de miel de la forêt de Sainte-Apolline à la fête du miel de Plaisir, publié par la Ville — elle ne montre pas le magasin.",
+    "telephone": "01 30 54 69 05",
+    "site_web": "https://magasins.lavieclaire.com/lavieclaire/fr/store/france/ile-de-france/yvelines/plaisir/plaisir/17804",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Vie%20Claire%2C%201%20rue%20Paul%20Langevin%2C%2078370%20Plaisir",
+    "image_url": "/images/marchands/la-vie-claire-plaisir.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "natureo-les-clayes-sous-bois",
+    "nom": "naturéO Les Clayes-sous-Bois",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.828015,
+    "lon": 1.971253,
+    "adresse": "80 avenue Henri Barbusse, centre commercial Alpha Park, 78340 Les Clayes-sous-Bois",
+    "horaires": "Du lundi au samedi de 9h30 à 20h, le dimanche de 9h30 à 12h30, d'après la page du magasin.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Vrac",
+      "Boucherie et charcuterie à la coupe",
+      "Fromagerie",
+      "Boulangerie",
+      "Épicerie et produits sans gluten"
+    ],
+    "description": "Magasin bio de réseau au fond de la zone commerciale Alpha Park, aux Clayes-sous-Bois, commune voisine de Plaisir dans Saint-Quentin-en-Yvelines, à 2 km des autres fiches de la zone. Certificat Ecocert en cours au registre de l'Agence Bio (engagement du 1er décembre 2012). Photo thématique : un cadre de ruche à la fête du miel de Plaisir, publié par la Ville — elle ne montre pas le magasin, dont l'enseigne interdit la reprise des photographies.",
+    "telephone": "01 30 96 69 03",
+    "site_web": "https://www.natureo-bio.fr/magasin-bio/les-clayes-sous-bois/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=natur%C3%A9O%2C%2080%20avenue%20Henri%20Barbusse%2C%2078340%20Les%20Clayes-sous-Bois",
+    "image_url": "/images/marchands/natureo-les-clayes-sous-bois.jpg",
+    "a_confirmer": true
   }
 ]

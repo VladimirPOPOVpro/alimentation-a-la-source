@@ -3047,9 +3047,28 @@ prioritaires en cas de conflit.
      (règles 66 et 175), la description dit ce que l'image montre et qu'elle ne montre pas le lieu de distribution, et la
      fiche reste `a_confirmer`.
 
+233. **`meta-externalagent` et `Amazonbot` sont des agents d'IA au sens des règles 77, 145 et 149 : un site qui les
+     exclut nommément n'est pas consulté.** Le `robots.txt` de `manteslajolie.fr`, qui porte aussi l'office de tourisme
+     municipal, interdit `/` à `meta-externalagent` ; celui de `lesmureaux.fr` range `Amazonbot` dans sa liste de robots
+     exclus. Aucun des deux ne nomme `ClaudeBot`, `GPTBot`, `CCBot` ou `Bytespider`. La règle 149 avait ajouté deux noms
+     à la liste sans dire à quoi on reconnaît un agent d'IA. **Tranché ainsi** : un robot est un agent d'IA quand la
+     documentation publique de son exploitant range l'entraînement de modèles d'IA parmi ses usages — c'est le cas de
+     `meta-externalagent`, dont Meta écrit qu'il sert notamment à entraîner des modèles, et d'`Amazonbot`, dont Amazon
+     écrit qu'il peut servir à entraîner les siens. Un éditeur qui exclut nommément l'un d'eux exprime l'intention de la
+     règle 77, même quand la ligne est noyée dans une liste de robots de référencement, et le site entier n'est pas
+     consulté. La commune est alors traitée comme à la règle 212 : ses marchés relèvent de la règle 196, et la descente
+     de la règle 41.d continue. Les robots de pur référencement (`SemrushBot`, `AhrefsBot`, `MJ12bot`, `YandexBot`) ne
+     déclenchent rien. **Déblocage** : le retrait de la ligne, ou la même information publiée par une autre autorité
+     qui ne s'interdit pas.
+
 ## Marchands à confirmer
 
-607 fiches sur 669 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+612 fiches sur 674 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Plaisir** (Plaisir) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jours et heures, règle 178** : vendredi et dimanche 8h-13h sur la page du marché et sur la page « Économie, commerce » de la Ville, deux endroits distincts ; le comité départemental du tourisme dit vendredi et dimanche matin. **Panneau, règles 74 et 226** : l'enseigne de la halle, sur une photographie non datée de la Ville, porte « mardi, vendredi, dimanche matin » ; la page qui donne la liste des commerçants de 2026 l'emporte, le panneau est cité dans `horaires`. **Produits, règle 187** : la liste des commerçants par jour que publie la Ville, reprise par métier ; les noms de commerçants, dont plusieurs sont des noms de personnes, ne sont pas repris. **Point** : le marqueur « Halle du Marché » de la carte de la page (48.818117, 1.94476), contrôlé par géocodage inverse à 52 m du 7 rue Calmette et à 58 m du 5 rue du Docteur Alexander Fleming. **Téléphone, règle 189** : la Maison de l'entreprise et de l'emploi, service municipal que la page désigne. **Photo** : la halle vue de l'extérieur, sans personne, publiée par la Ville dans la galerie de la page ; les mentions légales réservent « les contenus » en termes généraux sans nommer les photographies (règle 231).)
+- **AMAP Plaisir des Saveurs** (Plaisir) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : le site de l'AMAP publie le panier de chaque jeudi, les derniers les 3, 10 et 17 septembre 2026, et sa page « Présentation » donne le jeudi 18h30-20h sous la halle du marché ; un billet du 22 septembre 2024 annonce le déménagement sous la halle. **Heure, règle 179** : l'association prime, l'annuaire du réseau (17h-20h, préparation comprise) est cité. **Pas de pilier `environnement`, règle 60** : l'AMAP dit son maraîcher certifié, mais l'exploitation est une société à nom de famille qui n'a pas été recherchée au registre dans cette passe. **Point, règle 12** : le point de la Base Adresse Nationale pour la rue du Docteur Alexander Fleming (0,683), l'adresse que donne l'annuaire, à 63 m du marqueur de la halle qui sert au marché : deux fiches distinctes, jamais le même jour. **Photo, règle 232** : la halle installée pour une distribution, sans personne, publiée par l'AMAP, recadrée de 1 920 × 2 560 à 1 280 × 960. La page « Contacts » nomme tout le collectif : rien n'en est repris.)
+- **Les Vergers de Plaisir** (Plaisir) (catégorie `ferme`, comme la cueillette déjà publiée. **Registre, règle 6** : société active, établissement ouvert au 2048 rue Jules Régnier, enseigne sans nom de personne. **Pas de pilier `environnement`** : aucun certificat au registre de l'Agence Bio ; les Vergers parlent de variétés résistantes aux maladies, ce qui n'est pas un label. **Horaires** : la grille du site, mise à jour le 17 septembre 2026 ; la fin de saison, « mi-novembre », n'est pas datée. **Téléphone, règle 143** : le numéro que les Vergers publient sur leur site pour la clientèle, repris par le comité départemental du tourisme. **Point** : Base Adresse Nationale, 0,973. **Photo** : le stand des Vergers que publie le comité départemental du tourisme, 800 × 600, recadré sur la moitié basse pour écarter la seule personne, 800 × 300 ; les visuels du site sont des fiches de variétés, pas des photographies.)
+- **La Vie Claire Plaisir** (Plaisir) (`magasin-bio`, règle 3. **Registre, règle 6** : établissement ouvert au 1 rue Paul Langevin, enseigne La Vie Claire. **Pilier `environnement`** : certificat Bureau Veritas engagé le 25 novembre 2025 à ce SIRET. **Horaires, règle 87** : la page du magasin se contredit — grille 9h30-19h30 du lundi au samedi et 9h30-12h30 le dimanche, texte 9h30-19h en semaine et 10h-13h le dimanche ; faute de seconde autorité, la fenêtre la plus étroite, les deux valeurs citées. **Adresse** : « rue » au registre et à la Base Adresse Nationale (0,966), « avenue » sur la page du magasin. **Photo, règles 1 et 164** : aucune photographie du magasin n'est publiée ; un étal de miel de la forêt de Sainte-Apolline à la fête du miel 2020, publié par la Ville dans sa galerie de l'événement, sans personne, recadré à 960 × 420.)
+- **naturéO Les Clayes-sous-Bois** (Les Clayes-sous-Bois) (`magasin-bio`, comme naturéO Corbeil-Essonnes. **Cinquième point, règle 52** : Plaisir rend quatre points vérifiés ; Les Clayes-sous-Bois est limitrophe, dans la communauté d'agglomération de Saint-Quentin-en-Yvelines au champ `epci` de `geo.api.gouv.fr` (règle 219), et le magasin est à 1,89 km du barycentre des quatre autres. **Registre** : société active, établissement ouvert avenue Henri Barbusse ; certificat Ecocert engagé le 1er décembre 2012. **Horaires et téléphone** : page du magasin sur `natureo-bio.fr`, dont le `robots.txt` ne vise aucun agent. **Point** : 80 avenue Henri Barbusse à la Base Adresse Nationale (0,956), à 190 m du point du registre dans la même zone commerciale. **Photo, règles 228 et 230** : les mentions légales de l'enseigne interdisent la reproduction des « photographies », la visite virtuelle utilisée à Corbeil-Essonnes n'est donc plus une source ; photographie thématique de la commune calculée, un cadre de ruche à la fête du miel de Plaisir publié par la Ville, recadré pour écarter une banderole à visages, 960 × 470. La page du magasin nomme sa directrice : non repris.)
 - **Chlorophylle Saint-Herblain Beauséjour** (Saint-Herblain) (catégorie `magasin-bio`, règle 3 : chaque magasin de la coopérative a sa fiche. **Registre, règle 6** : société coopérative active, établissement ouvert au 34 avenue des Plantes. **Pilier `environnement`, règle 71** : engagement Bureau Veritas du 20 juin 2005 sans arrêt, à ce SIRET, pour des fruits et légumes, des œufs, des fromages et des préparations de viande. **Adresse** : « rue des Plantes » sur la page du magasin, « avenue des Plantes » au registre et à la Base Adresse Nationale (0,970), qui fait foi ; d'où `a_confirmer`. **Horaires et téléphone** : page du magasin. **Champignons** : la page de la champignonnière de Bellevue cite ce magasin parmi ses points de vente. **Photo** : la façade publiée par la coopérative, recadrée au-dessus des passants, 1 240 × 510 ; règle 231 pour la clause générale du site.)
 - **AMAP Tillay-Bourg – distribution du Tillay** (Saint-Herblain) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : la fiche de l'association dans l'annuaire de la Ville, modifiée le 24 juillet 2026, donne les deux points, jours et heures ; le site de l'AMAP a mis en ligne ses documents d'inscription en mai 2026. **Deux fiches, règle 175**, une par point. **Pilier `environnement`, règles 60 et 209** : la champignonnière de Bellevue, fournisseur nommé, est engagée chez Certipaq depuis juin 2024 pour des champignons ; le maraîcher, en nom propre en Vendée, n'a pas été recherché. **Téléphone** : l'annuaire de la Ville donne un portable, non repris (règle 198). **Photo, règle 232, née ici** : la brochure de l'AMAP, recadrée sur son volet illustré pour écarter les adresses électroniques du verso.)
 - **AMAP Tillay-Bourg – distribution du Bourg** (Saint-Herblain) (mêmes sources, catégorie, piliers et réserve de téléphone. **Heures** : 18h30-19h30 partout, salle Françoise-Giroud de l'école de la Solvardière. **Photo, règle 232** : le troupeau d'une bergerie partenaire du pays de Retz, publié par l'AMAP ; le berger, de dos au loin, n'est pas reconnaissable.)
@@ -10035,6 +10054,82 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Plaisir, et dans la descente des Yvelines
+
+Passe du 21 septembre 2026, vingtième de la journée. **Département retenu, règle 41** : les Yvelines (78), déficit
+**4,4087** sur une base de 669 fiches, devant la Savoie (4,3488) et la Haute-Garonne (4,2766) ; l'outre-mer sort par la
+règle 177, le dénominateur est celui de la règle 224. La passe précédente visait Saint-Herblain, dans les Pays de la
+Loire ; les Yvelines sont en Île-de-France, la réserve de la règle 41.c ne joue pas. Après la passe, sur 674 fiches, le
+78 tombe à **−0,48** ; en tête ensuite : la **Haute-Garonne** (4,3833), la **Savoie** (4,3813), la **Seine-et-Marne**
+(4,3504).
+
+**La descente, règle 41.d.** La commune la plus peuplée du 78 sans fiche était Mantes-la-Jolie (43 526 habitants) ; la
+passe a dû descendre sept crans avant de trouver une commune qui rende quatre points vérifiés.
+
+- **Mantes-la-Jolie** : `manteslajolie.fr`, qui porte aussi l'office de tourisme municipal, exclut `meta-externalagent`
+  (règle 233, née ici). Sans la Ville, les deux marchés — centre-ville mercredi et samedi, Val Fourré — ne reposent que
+  sur des annuaires tiers et sur une ligne du comité départemental du tourisme qui renvoie au site d'une autre commune
+  (règle 196). Restent un magasin La Vie Claire rue de Lorraine, certificat engagé en novembre 2025, et des pistes dans les
+  communes voisines : l'AMAP du Mantois à Magnanville et l'AMAP de Limay, que seul l'annuaire du réseau atteste (règle
+  195). Le registre de l'Agence Bio ne compte à Mantes que des supermarchés, des boulangeries sans vente déclarée et des
+  certificats arrêtés, dont celui du magasin Biocoop du Mantois (2018), qui n'a pas été instruit (règle 149).
+- **Poissy** : le site de la Ville répond à toute requête par une page « JavaScript requis. Accès refusé » qui pose un
+  cookie avant de rendre quoi que ce soit — un défi anti-robot, règle 212.
+- **Conflans-Sainte-Honorine** : un seul point entièrement solide, le magasin **marcel&fils** de la zone des Boutries
+  (5 rue des Cayennes, du lundi au samedi 9h-19h30 sur la page de l'enseigne, société La Vie Saine active, certificat
+  Bureau Alpes Contrôles engagé en décembre 2023) — **fiche prête**, qui attend une passe sur sa commune. Les trois marchés
+  (quais, Fonderie, Chennevières) ont leur jour et leur lieu sur l'annuaire des marchés de la Ville, mais aucune heure ni
+  aucune famille de produits publiée par une autorité (règle 197), et les mentions légales réservent les « œuvres »
+  photographiées. L'AMAP La Clé des champs n'a pas de source datée de moins de douze mois (règle 195) : son blog s'arrête
+  en 2020 et renvoie à une plateforme fermée. La boulangerie bio de la rue Désiré-Clément (engagement Ecocert de juin
+  2026) et une boucherie certifiée du quai de Gaillon (Certipaq, janvier 2025) n'ont pas été instruites : leurs horaires restent à trouver chez elles (règle 192).
+  **Piège du domaine, règle 199** : la carte « Manger local » 2025 de la communauté urbaine Grand Paris Seine & Oise
+  renvoie, pour les jardins d'insertion Les Pot'Iront de Conflans et de Chanteloup, à `filierebioequalis.org`, qui
+  héberge aujourd'hui un texte de promotion d'escorte. Ni le lien ni les jardins ne sont repris.
+- **Trappes** : la Ville publie deux marchés avec leurs heures, mais aucune famille de produits (règle 197), et ses
+  mentions légales interdisent la reproduction des « photographies » (règle 231) ; reste l'AMAP de Trappes, seule.
+- **Les Mureaux** : `lesmureaux.fr` exclut `Amazonbot` (règle 233). La Ferme de la Haye et les Jardins de Cocagne
+  restent à instruire par leurs propres sites ; les deux marchés n'ont pas de source communale lisible.
+- **Houilles** : le marché municipal (mercredi et samedi, avenue Carnot, près de 160 commerçants selon la Ville) n'a
+  aucune composition publiée, et les mentions légales interdisent l'utilisation des « visuels » ; avec La Vie Claire de la
+  place Michelet et l'AMAP Ratat'Houilles, la commune ne peut pas atteindre quatre points.
+- **Montigny-le-Bretonneux** : un marché dont la Ville ne dit que « alimentaire et mixte », un magasin bio et une AMAP
+  complète : moins de quatre.
+- **Plaisir** (31 811 habitants) : quatre points vérifiés, le cinquième chez le voisin au titre de la règle 52.
+
+**Les cinq fiches** : le marché de Plaisir, l'AMAP Plaisir des Saveurs sous la même halle le jeudi soir, les Vergers de
+Plaisir (cueillette de pommes), La Vie Claire de la zone nord, et naturéO aux Clayes-sous-Bois, commune limitrophe de la
+même agglomération, à 1,89 km du barycentre des quatre autres ; 2,9 km au plus entre deux fiches.
+
+**Les sources** : les pages « Marché de Plaisir », « Économie, commerce » et « Food-trucks et commerces ambulants » et la
+galerie « Fête du miel » de `ville-plaisir.fr` (dont le `robots.txt` ne vise que `SemrushBot` et `Linguee`) ; la page
+« Marchés locaux » et la fiche des Vergers du comité départemental `destination-yvelines.fr` ; le site de l'AMAP et
+l'annuaire du réseau AMAP d'Île-de-France ; les sites des Vergers, de La Vie Claire (`magasins.lavieclaire.com`) et de
+naturéO ; le registre de l'Agence Bio, **817** opérateurs lus sur les Yvelines ; la carte « Manger local » 2025 de Grand
+Paris Seine & Oise ; le registre des entreprises ; la Base Adresse Nationale.
+
+**Contradictions tranchées** : l'enseigne de la halle de Plaisir contre la page du marché (règle 226) ; l'heure de l'AMAP
+(règle 179) ; la page de La Vie Claire qui se contredit (règle 87) ; « rue » ou « avenue » Paul Langevin (le registre et
+la Base font foi).
+
+**Fiches écartées pour doute sur une personne** : aucune. La matière en contenait beaucoup : la liste des commerçants du
+marché de Plaisir mêle enseignes et noms de personnes, la page « Contacts » de l'AMAP nomme tout son collectif, le
+maraîcher de l'AMAP exerce sous un nom de famille, la carte de Grand Paris Seine & Oise nomme chaque exploitant, et
+l'AMAP de Villepreux publie les portables de ses bénévoles. Rien n'en est repris.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **AMAP 100 % Villepreux**, deux distributions (mardi et jeudi, 18h30-19h45 selon l'annuaire) au hangar d'un maraîcher
+  bio de la rue de Mézu, à Villepreux : site vivant (tarifs mis à jour le 31 août 2026). **Non retenue ici** : la Base
+  Adresse Nationale ignore la rue de Mézu (règle 186 à appliquer), le seul point est celui du registre, au nom d'un
+  exploitant en nom propre, et il tombe à 4,96 km du barycentre, à la limite de la règle 52.
+- **Marché des Clayes-sous-Bois** (halle, jeudi et dimanche 8h-13h, environ cent commerçants selon la Ville) : pas de
+  composition publiée (règle 197), et les mentions légales de la Ville interdisent la reproduction des « photographies ».
+- **magasin marcel&fils de Conflans-Sainte-Honorine** : fiche prête, voir plus haut.
+- **Laissés de côté** : les supermarchés certifiés de toutes ces communes, les grossistes et les torréfacteurs sans vente
+  au détail, les entreprises individuelles inscrites sous le seul nom de leur exploitant, qui ne sont pas nommées, et la
+  pépinière de plants bio de Plaisir, inscrite sous un nom de personne.
 
 ### Pistes non publiées à Saint-Herblain
 
