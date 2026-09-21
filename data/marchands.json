@@ -16309,5 +16309,144 @@
     "site_web": "https://www.talence.fr/decouvrir-talence/commerce/marches/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=300%20cours%20de%20la%20Lib%C3%A9ration%2C%2033400%20Talence",
     "image_url": "/images/marchands/marche-centre-ville-talence.jpg"
+  },
+  {
+    "slug": "halles-marche-central-dijon",
+    "nom": "Halles et marché central de Dijon",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.323592,
+    "lon": 5.039816,
+    "adresse": "Halles centrales, rue Quentin, 21000 Dijon",
+    "horaires": "Mardi, jeudi, vendredi et samedi de 7h à 13h, sous les Halles centrales et sur le marché de plein air déployé autour (rues de Soissons, Bannelier, Odebert, Quentin et Ramey, place de la Banque, place Grangier, rue et place François-Rude, rue Musette). Le samedi après-midi, quelques commerçants restent sur le refuge Odebert. Les ouvertures et fermetures des jours fériés sont annoncées par la Ville.",
+    "produits": [
+      "Fruits et légumes, dont bio",
+      "Viande et charcuterie",
+      "Poisson",
+      "Pain",
+      "Fromages",
+      "Vins",
+      "Spécialités bourguignonnes (gougères, jambon persillé)"
+    ],
+    "description": "Halles métalliques construites de 1873 à 1875, inscrites aux Monuments historiques, et marché de plein air qui déborde dans les rues voisines quatre matins par semaine. Au moins un stand de ferme certifiée bio y est inscrit au registre de l'Agence Bio.",
+    "site_web": "https://www.dijon.fr/dijon-a-votre-service/commerce-et-artisanat/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=rue%20Quentin%2C%2021000%20Dijon",
+    "image_url": "/images/marchands/halles-marche-central-dijon.jpg"
+  },
+  {
+    "slug": "epicerie-locavore-des-bourroches-dijon",
+    "nom": "Épicerie Locavore des Bourroches",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.309308,
+    "lon": 5.015755,
+    "adresse": "34 boulevard Eugène Fyot, 21000 Dijon",
+    "horaires": "Du mardi au vendredi de 8h30 à 13h et de 14h30 à 19h ; fermée le samedi, le dimanche et le lundi (horaires publiés par l'épicerie depuis le 1er septembre). Des annuaires en ligne indiquent encore une ouverture le samedi matin : c'est la page de l'épicerie qui fait foi.",
+    "produits": [
+      "Fruits et légumes",
+      "Viande fraîche et volailles",
+      "Charcuterie",
+      "Fromages, crèmerie et œufs",
+      "Pain",
+      "Confitures, gelées et miel",
+      "Vins et bières de la région",
+      "Farines, huiles, légumes secs et moutarde"
+    ],
+    "description": "Épicerie de quartier ouverte en 2013, en face de la MJC des Bourroches, qui vend les produits de plus de 75 producteurs de la région, dont plus de la moitié en bio ; elle est elle-même certifiée bio depuis 2013 pour ses rayons frais et d'épicerie. Elle propose aussi des paniers sans engagement.",
+    "telephone": "09 50 36 36 02",
+    "site_web": "https://epicerie-locavore-des-bourroches.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=34%20boulevard%20Eug%C3%A8ne%20Fyot%2C%2021000%20Dijon",
+    "image_url": "/images/marchands/epicerie-locavore-des-bourroches-dijon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-les-jardins-de-virgile-dijon",
+    "nom": "AMAP Les Jardins de Virgile",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.312884,
+    "lon": 5.018438,
+    "adresse": "Centre social des Bourroches, 71 rue de la Corvée, 21000 Dijon",
+    "horaires": "Distribution des paniers le samedi de 8h30 à 9h30, réservée aux adhérents sous contrat (contrats à l'année civile). On peut venir se renseigner sur place pendant la distribution.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Fruits",
+      "Œufs",
+      "Pain",
+      "Farines",
+      "Produits laitiers et fromages de chèvre et de brebis",
+      "Viande de bœuf, de porc, de veau et d'agneau",
+      "Volailles"
+    ],
+    "description": "AMAP créée en 2005, qui compte plus de cent adhérents et ne distribue que des produits locaux et bio ; les légumes viennent d'un maraîcher certifié bio d'Auxonne. La photographie, publiée par l'AMAP, montre la serre de ce maraîcher et non le lieu de distribution.",
+    "site_web": "http://lesjardinsdevirgile.eu.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=71%20rue%20de%20la%20Corv%C3%A9e%2C%2021000%20Dijon",
+    "image_url": "/images/marchands/amap-les-jardins-de-virgile-dijon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-bray-dijon",
+    "nom": "La Ferme de Bray",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.29027,
+    "lon": 5.083515,
+    "adresse": "Ferme de la Rente de Bray, chemin dit de la Mongeotte, 21000 Dijon",
+    "horaires": "Boutique à la ferme le vendredi de 16h30 à 18h et le samedi de 9h30 à 12h ; distributeur automatique ouvert 7 jours sur 7 de 6h30 à 22h.",
+    "produits": [
+      "Viande charolaise de la ferme (colis et détail)",
+      "Huiles de tournesol, colza et cameline",
+      "Farines",
+      "Lentilles et pois chiches",
+      "Pâtes",
+      "Œufs",
+      "Fromages et produits laitiers de producteurs voisins",
+      "Légumes de saison de producteurs voisins"
+    ],
+    "description": "Ferme familiale de la plaine dijonnaise, à la limite de Longvic, qui élève des vaches charolaises et cultive céréales, oléagineux et légumineuses, transformés en huiles, farines, lentilles et pâtes. La boutique, installée dans une grange depuis 2021, vend aussi les produits d'une vingtaine d'autres fermes et producteurs locaux ; une partie de l'exploitation est en conversion vers l'agriculture biologique.",
+    "site_web": "https://www.lafermedebray.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=chemin%20dit%20de%20la%20Mongeotte%2C%2021000%20Dijon",
+    "image_url": "/images/marchands/la-ferme-de-bray-dijon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "pain-caramel-dijon",
+    "nom": "Pain Caramel",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.328981,
+    "lon": 5.038269,
+    "adresse": "8 place Barbe, 21000 Dijon",
+    "horaires": "Lundi, mardi, jeudi et vendredi de 16h à 19h.",
+    "produits": [
+      "Pains au levain naturel bio, cuits au four à bois",
+      "Pâtisseries bio de saison",
+      "Viennoiseries",
+      "Plats préparés"
+    ],
+    "description": "Boulangerie biologique au levain naturel, avec des farines de fermes bio de Côte-d'Or et de la limite haute-marnaise, des fermentations longues et une cuisson au four à bois. Le pain est cuit au fournil de Pasques, à une quinzaine de kilomètres ; la boutique de la place Barbe le vend l'après-midi, à la sortie du four, quatre jours par semaine.",
+    "site_web": "https://www.paincaramel.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8%20place%20Barbe%2C%2021000%20Dijon",
+    "image_url": "/images/marchands/pain-caramel-dijon.jpg"
   }
 ]

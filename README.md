@@ -2838,9 +2838,39 @@ prioritaires en cas de conflit.
      propriétaire, peint sur le comptoir de la boutique, a été recadré hors de la photographie
      (règle 75) et n'est écrit nulle part.
 
+218. **Une affiche d'événement à venir, publiée par l'AMAP sur son propre site, atteste une
+     distribution en cours.** La règle 195 exige, pour publier une AMAP, une source de moins de douze
+     mois ou un site propre vivant. Le site de l'AMAP Les Jardins de Virgile, à Dijon, est fait de
+     pages anciennes — visites de 2019, fonctionnement non daté —, et sa plateforme de contrats
+     répond par une page introuvable. Mais sa page d'accueil porte, depuis le 29 août 2026 selon
+     l'en-tête du fichier, une affiche « Marché de producteurs Bio » organisé par l'AMAP le samedi
+     26 septembre, au centre social des Bourroches où elle distribue ; le 26 septembre tombe un
+     samedi en 2026 et non en 2025 (règle 107), et le nom du fichier porte l'année. **Critère** : une
+     affiche d'événement **à venir**, publiée par l'AMAP elle-même, datable au calendrier et tenue
+     au lieu de distribution que ses autres pages donnent, vaut la page d'actualité datée que la
+     règle 195 demande ; la fiche reste `a_confirmer`, et elle ne reprend du site ancien que le jour,
+     l'heure, le lieu et la nature des paniers. Un événement passé, ou tenu ailleurs, n'atteste rien
+     de plus que son propre jour.
+219. **L'intercommunalité des règles 52, 96, 124 et 170 se vérifie au référentiel, jamais sur le nom
+     de la commune.** Pour la cinquième place de Dijon, un magasin de producteurs d'Asnières-lès-Dijon,
+     à 6,7 km des Halles, remplissait tout le reste : société active, horaires et point publiés par le
+     magasin lui-même, catégorie `producteur` qui manquait. Son nom de commune et sa distance le
+     désignaient comme « l'agglomération ». Or `geo.api.gouv.fr` rattache Asnières-lès-Dijon à la
+     communauté de communes Norge et Tille, pas à Dijon Métropole. **Critère** : avant tout
+     élargissement, l'établissement public de coopération intercommunale de chaque commune se lit
+     dans le champ `epci` de `geo.api.gouv.fr/communes`, et une commune d'une autre intercommunalité
+     ne complète pas le groupe, quelle que soit sa distance ; le magasin part en pistes, avec son
+     travail, pour le jour où le calcul de la règle 41 visera sa propre commune. Ici la cinquième
+     place a été trouvée dans Dijon même, et la passe n'a pas eu à élargir.
+
 ## Marchands à confirmer
 
-564 fiches sur 614 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+567 fiches sur 619 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Halles et marché central de Dijon** (Dijon) (marché municipal, catégorie et piliers des marchés, sans `environnement` : aucune autorité ne le classe comme biologique. **Jours, heures et emprise** : la page « Commerce et artisanat » de la Ville, mise à jour le 21 janvier 2026 — mardi, jeudi, vendredi et samedi de 7h à 13h, halles et rues voisines nommées une à une, refuge Odebert le samedi après-midi ; l'actualité du 29 avril 2026 sur les jours fériés confirme le fonctionnement. **Point, règles 146 et 169** : le marqueur de l'office de tourisme (47,3220434 / 5,0408203) se retourne sur la rue des Forges et sert à l'identique à d'autres fiches de l'office, il n'est pas repris ; le point publié est celui que le registre de l'Agence Bio donne au stand d'une ferme bio « sous les halles », à 35 m du 16 rue Odebert, à l'intérieur du quadrilatère Bannelier–Odebert–Ramey–Quentin. **Produits, règle 103** : les mots de la Ville pour ses marchés et ceux de l'office pour les Halles (gougères, jambon persillé) ; le stand bio est celui du registre, dont l'exploitation n'est pas nommée. **Téléphone** : la page ne donne que le guichet unique des commerçants, qui ne s'adresse pas à la clientèle ; champ vide. **Photo** : la photographie que l'office attache aux Halles, recadrée sur la charpente et les bannières au-dessus de la ligne des têtes, 1 600 px ramenés à 1 280 × 448. Le nom de l'ingénieur, les photographes crédités et les commerçants cités par l'office ne sont pas repris. Fiche non marquée `a_confirmer`.)
+- **Épicerie Locavore des Bourroches** (Dijon) (épicerie qui revend la production d'autrui, `magasin-bio` au titre de la règle 4. **Registre, règle 6** : société active, un établissement ouvert au 34 boulevard Eugène Fyot, code 47.29Z. **Pilier `environnement`, règles 15 et 210** : certificat Ecocert engagé depuis juin 2013 sur l'établissement, avec cinq productions de commerce de détail déclarées (fruits et légumes, boulangerie, confiserie, produits laitiers, épicerie). **Horaires, règle 104** : la page « Contactez-nous » et l'actualité « Nouveaux horaires à partir du 1er septembre » concordent — du mardi au vendredi, fermée le samedi ; plusieurs annuaires tiers donnent encore le samedi matin, la fiche le dit. **Produits et description** : le site de l'épicerie et la fiche qu'elle a rédigée pour Bourgogne Tourisme ; les deux rayons de distance (100 km sur la fiche, 200 km sur le site) ne sont pas repris, la fiche dit « de la région ». **Point** : numéro exact (0,98), à 7 m du point de l'Agence Bio. **Photo, règle 1** : le panier de produits que l'épicerie publie sur sa fiche Bourgogne Tourisme, 1 014 × 761, personne dans le cadre, d'où `a_confirmer` ; la photographie intérieure du magasin montre la commerçante en portrait et n'a pas servi, les vignettes du site font au plus 320 px. Le prénom que porte l'adresse de courriel n'est pas repris.)
+- **AMAP Les Jardins de Virgile** (Dijon) (**Distribution en cours, règles 195 et 218, née ici** : affiche du marché de producteurs bio du samedi 26 septembre 2026 au centre social, déposée le 29 août 2026. **Jour, heure et lieu** : samedi de 8h30 à 9h30 au centre social des Bourroches — la page d'accueil de l'AMAP et la page « Amap » de la MJC-centre social concordent. **Numéro de voirie, règle 98** : le 71 rue de la Corvée des deux pages est retenu ; l'affiche écrit 77, à 80 m sur la même rue, cité ici. **Pilier `environnement`, règles 60 et 209** : le maraîcher d'Auxonne qui fournit les légumes se retrouve au registre de l'Agence Bio par l'adresse que publie l'AMAP, route de Rainans, engagement sans date d'arrêt sur légumes frais ; il n'est pas nommé. **Photo** : la serre de ce maraîcher, publiée par l'AMAP, recadrée à droite hors de la personne penchée au premier plan (visage non visible), 708 × 430, non agrandie ; la description dit qu'elle ne montre pas le lieu de distribution, d'où `a_confirmer`. Les photographies de distribution, pleines de visages, n'ont pas servi. Les noms et prénoms des producteurs, que le site publie un à un, ne sont pas repris.)
+- **La Ferme de Bray** (Dijon) (boutique à la ferme, `ferme` au titre de la règle 29 : huiles, farines, lentilles, pâtes, viande et œufs sortent de l'exploitation, et la description dit que la boutique revend une vingtaine d'autres fermes. **Registre, règle 6** : la SCEA de la Rente de Bray est active, un établissement ouvert « Ferme de la Rente de Bray, chemin dit de la Mongeotte », code 01.11Z. **Pas de pilier `environnement`, règle 39** : son certificat engagé en mai 2025 ne couvre qu'une luzerne en conversion, et le site parle d'une partie de la ferme « en transition » ; la description le dit. **Point, règle 63** : la Base Adresse Nationale ne connaît que l'axe du chemin (0,78) ; le point est celui du registre des entreprises, dans la commune de Dijon selon `geo.api.gouv.fr`, à 160 m du point que l'Agence Bio donne à la même ferme, d'où `a_confirmer`. **Téléphone** : le seul numéro publié est un portable, il n'est pas repris. **Photo** : l'intérieur de la boutique publié par la ferme, 2 560 px ramenés à 1 280, personne dans le cadre. Les prénoms et noms des exploitants, que le site affiche, ne sont pas repris.)
+- **Pain Caramel** (Dijon) (boulangerie qui façonne et cuit elle-même, `producteur` au titre des règles 4 et 73 ; la fiche va au point de vente (règle 20), le fournil de Pasques est nommé dans la description. **Registre, règle 6** : société active depuis 2024, établissement ouvert au 8 place Barbe sous l'enseigne « Pain Caramel », code 47.24Z. **Pilier `environnement`, règles 15 et 210** : certificat engagé en août 2024, place Barbe déclarée comme lieu de vente, productions pain frais, pâtisseries et viennoiseries, plats préparés. **Horaires** : ceux que publie la boulangerie pour ses deux boutiques. **Point** : numéro exact (0,97), à 1 m du point du registre. **Téléphone** : un portable, non repris. **Photo** : une miche au levain publiée par la boulangerie sur sa page « Nos produits », 2 991 px ramenés à 1 280 ; les images de banque du modèle de site et la photographie nommée d'après une personne n'ont pas servi. Les noms des associés, cités par la presse, et celui d'une ferme meunière patronymique ne sont pas repris. Fiche non marquée `a_confirmer`.)
 - **AMAP de Terre d'ADELES** (Pessac) (**Distribution en cours, règle 195** : l'agenda 2026 de l'association, sur son propre site, date une à une les livraisons « AMAP et circuits courts » du vendredi de 18h à 19h — dans une salle municipale de Saige de janvier à mars, au Jardin d'ADELES depuis le 20 mars et encore le 4 septembre 2026 — et la page AMAP publie les contrats 2026-2027. **Lieu, règle 5** : le point est celui du jardin, 36 avenue de Magellan (Base Adresse Nationale, numéro exact, 0,973) ; le lieu d'hiver et une séance de février à la salle de Magonty sont dits dans `horaires`, d'où `a_confirmer`. **Pilier `environnement`, règles 60 et 68** : parmi les fournisseurs nommés par leur enseigne, le GAEC du Plainier (pommes, contrat 2026-2027) est engagé chez Qualisud au registre de l'Agence Bio, et la coopérative de torréfaction pessacaise qui fournit café, thé et chocolat chez Ecocert. **Téléphone** : le seul numéro publié est un portable, il n'est pas repris ; les prénoms des coordinateurs et des producteurs, nombreux sur le site, ne sont pas repris. **Photo** : le jardin en hiver, publiée par l'association sur la page de son événement des 48h de l'agriculture urbaine 2026, 2 000 px ramenés à 1 280, personne dans le cadre.)
 - **Brasserie Gasconha** (Pessac) (brasserie artisanale, `producteur` au titre de la règle 73, comme la brasserie Effet Papillon de Mérignac. **Registre, règle 6** : société active depuis février 2010, un établissement ouvert au 5 avenue Louis de Broglie, code 11.05Z ; un ancien établissement au château Bersol est fermé. **Piliers, règles 14 et 15** : `economie` seul, aucune certification ni au registre de l'Agence Bio ni sur le site. **Horaires, règle 5** : l'annuaire économique de la Ville de Pessac donne la brasserie ouverte du lundi au vendredi de 8h30 à 17h30, le site de la brasserie les heures du brewpub ; les deux sont publiés et attribués, `a_confirmer` parce qu'aucune source ne dit en toutes lettres les heures de vente à emporter. **Point** : numéro exact à la Base Adresse Nationale (0,966), identique au point du registre. **Photo** : les rayonnages de bouteilles de la salle, publiés par la brasserie, 2 500 px ramenés à 1 280, personne dans le cadre.)
 - **Château Pape Clément – boutique Les Clés du Vin** (Pessac) (cru classé de Graves, `producteur`. **Registre, règles 6 et 217** : la société viticole du château est active au 216 avenue du Docteur-Nancel-Pénard, code 01.21Z ; un établissement de commerce de boissons voisin est fermé. **Boutique, règle 29** : les heures et le téléphone de la boutique sont ceux des pages « Boutique » et « Contact » du domaine ; la description dit ce qui est revendu. **Piliers, règles 14 et 15** : `economie` seul, aucune certification revendiquée ni inscrite au registre de l'Agence Bio pour ce domaine. **Point** : numéro exact (0,98), à 3 m du point du registre. **Photo** : l'intérieur de la boutique publié par le domaine, recadré à gauche du comptoir qui porte le nom du propriétaire (règle 75), 1 760 px ramenés à 1 280, personne dans le cadre. Fiche non marquée `a_confirmer`.)
@@ -9773,6 +9803,73 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Dijon
+
+Passe du 21 septembre 2026, neuvième de la journée. **Département retenu, règle 41** : la Côte-d'Or
+(21), déficit **4,8094** pour 540 100 habitants et aucune fiche, sur une base de 614 fiches. La Réunion
+arrive devant avec **7,9223** et sort par les règles 93 et 177. La passe précédente visait la
+Gironde, en Nouvelle-Aquitaine ; la Côte-d'Or est en Bourgogne-Franche-Comté, la réserve de la règle
+41.c ne joue pas. Après la passe, sur 619 fiches, le 21 tombe à **−0,1514** ; en tête ensuite, outre-mer
+écarté : les **Hauts-de-Seine** (4,8546), la **Drôme** (4,7059), l'**Aisne** (4,6981) et la **Manche**
+(4,4663). La prochaine passe ne peut pas viser la Bourgogne-Franche-Comté.
+
+**Commune** : Dijon, 161 830 habitants, la plus peuplée du département et sans aucune fiche. Elle rend
+les cinq fiches à elle seule, sans élargissement : un marché, un magasin, une AMAP, une ferme et un
+producteur, dans 6 km. Une sixième candidate, hors de la métropole, a été écartée par la règle 219.
+
+**Les sources.** La page « Commerce et artisanat » de la Ville de Dijon et ses actualités sur les Halles ;
+les fiches de l'office de tourisme Destination Dijon et de Bourgogne Tourisme ; les sites de l'épicerie,
+de l'AMAP, de la ferme et de la boulangerie ; la page « Amap » de la MJC-centre social des Bourroches ;
+l'annuaire « J'veux du local » de la Chambre d'agriculture de Côte-d'Or ; le registre de l'Agence Bio,
+paginé sur les 1 870 opérateurs du département ; le registre des entreprises. Aucun de ces sites
+n'exclut d'agent d'IA dans son `robots.txt`. **Écartée, règle 77** : la page d'une radio publique sur
+le marché du port du Canal, dont le `robots.txt` interdit nommément les robots d'Anthropic ; rien n'en
+est repris.
+
+- **Multiferm du Val, Asnières-lès-Dijon, non publiée, règle 219, née ici.** Magasin de producteurs d'un
+  groupement de paysans de Haute-Marne, rue de Bellefond : société active, établissement ouvert route
+  de Langres, horaires publiés par le magasin (du mardi au vendredi 9h-12h30 et 14h-19h, samedi 9h-18h ;
+  l'annuaire de la Chambre d'agriculture donne 18h et 17h), point publié par le magasin et concordant
+  avec le registre, fermeture annuelle du 28 septembre au 4 octobre 2026. La commune relève de la
+  communauté de communes Norge et Tille, pas de Dijon Métropole. **Déblocage** : une passe sur cette
+  intercommunalité ; la photographie devra être départagée, le site montrant deux bâtiments sans dire
+  lequel est celui d'Asnières.
+- **Le Potager des Ducs, ferme maraîchère urbaine bio, rue Henri Grimm, non publiée, règle 192.** Certificat
+  Ecocert engagé, société active, « magasin à la ferme » selon l'annuaire de la Chambre d'agriculture ;
+  aucune source ne publie d'heure d'ouverture, et l'article de presse qui la situe sur un marché date de
+  2018. **Déblocage** : des horaires de vente publiés par la ferme ou par un annuaire daté.
+- **Le marché de Fontaine d'Ouche (mercredi 8h-12h, place centrale), le marché des Grésilles (jeudi et
+  samedi 8h-12h, place et rue Galilée) et le marché du port du Canal (mercredi 8h30-12h), non publiés,
+  règles 178 et 70.** La Ville ne les publie qu'à une ligne chacun de la même page ; aucune seconde source
+  consultable ne les décrit, et aucune photographie n'existe hors des sites qui l'interdisent. Ils ne
+  recoupent pas les jours des Halles pour le mercredi, ce qui les rendra distincts au sens de la règle 168.
+  **Déblocage** : une seconde publication de la Ville ou d'une mairie de quartier, et une image.
+- **La Vie Saine, 29 rue Musette, non publiée, règle 5 à l'extrême.** Magasin bio indépendant inscrit au
+  registre de l'Agence Bio (certification engagée, productions déclarées pour 2025 seulement) ; mais un
+  annuaire professionnel et le site d'une enseigne de réseau placent à la même adresse un magasin de
+  cette autre enseigne. Qui tient la porte n'est pas établi. **Déblocage** : le site du magasin ou
+  l'annuaire du réseau qui tranchent, puis la règle 200.
+- **Une maison de pain d'épices fondée en 1796, non publiée, règle 6.** Fabrique dijonnaise, certifiée bio pour une
+  partie de sa gamme ; au registre des entreprises, les établissements de ses boutiques de la rue de la
+  Liberté et de la place Notre-Dame sont fermés sous la société de fabrication, et la boutique historique
+  de la place Bossuet ne publie que des « horaires de printemps ». **Déblocage** : l'entité qui exploite
+  les boutiques retrouvée au registre, et des horaires de saison.
+- **AMAP Les Paniers d'Honoré (vendredi 12h15-13h15, Maison Maladière, 25 rue Balzac), non publiée, règle
+  195.** Le site propre ne porte plus d'actualité postérieure à l'annonce d'un événement du 12 octobre 2025.
+  **Déblocage** : une page ou une affiche de la saison 2026-2027. D'autres AMAP dijonnaises (Arrosoir des
+  Saveurs, Paniers de l'Eldo, de la Colombière, de la Chouette) ne sont connues que par des annuaires
+  associatifs non datés.
+- **Boutiques gourmandes du centre-ville** (moutarderie, biscuiterie, chocolatiers, cassis) recensées par
+  l'office de tourisme : non instruites, parce que plusieurs portent le patronyme d'un fondateur ou d'un
+  exploitant (règle 36) et que la passe avait déjà ses cinq fiches.
+- **Le registre de l'Agence Bio à Dijon** : une centaine d'opérateurs, surtout des supermarchés certifiés
+  pour un rayon, des grossistes, des restaurants et des sièges ; les exploitations et boulangeries
+  immatriculées sous un patronyme ne sont pas reprises.
+- **Aucune piste écartée pour doute sur une personne.** Les données personnelles rencontrées ont été
+  laissées de côté sans que la fiche en dépende : prénoms et noms des exploitants et des producteurs sur
+  les sites de la ferme, de l'AMAP et de la boulangerie, portables publiés, prénom dans une adresse de
+  courriel, photographes crédités.
 
 ### Pistes non publiées à Pessac
 
