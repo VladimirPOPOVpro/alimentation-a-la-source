@@ -15917,5 +15917,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Paul%20Isnard%20Vallauris",
     "image_url": "/images/marchands/marche-place-paul-isnard-vallauris.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-aubervilliers",
+    "nom": "Marché du centre-ville d'Aubervilliers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.914344,
+    "lon": 2.37947,
+    "adresse": "Halle du marché et parvis, place Rosa-Parks, rue Ferragus, 93300 Aubervilliers",
+    "horaires": "Mardi, jeudi et samedi en matinée (Ville d'Aubervilliers) ; de 8h à 13h selon l'office de tourisme de Plaine Commune, la Ville ne publiant aucune heure.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons frais",
+      "Produits du monde"
+    ],
+    "description": "Le marché du centre, à deux pas de la mairie, se tient trois matinées par semaine sous sa halle et sur le parvis de la place Rosa-Parks ; les poissonniers y ont leurs étals. La halle, fermée provisoirement en mars 2024 pour des raisons de sécurité, a rouvert le 25 avril 2024 avec une jauge de cent clients à la fois ; l'office de tourisme décrit un marché de produits « venus d'ailleurs ».",
+    "telephone": "01 48 39 52 79",
+    "site_web": "https://www.aubervilliers.fr/Les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20centre-ville%2C%20rue%20Ferragus%2C%2093300%20Aubervilliers",
+    "image_url": "/images/marchands/marche-du-centre-ville-aubervilliers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-montfort-aubervilliers",
+    "nom": "Marché du Montfort",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.919868,
+    "lon": 2.395051,
+    "adresse": "120 rue Hélène-Cochennec, angle avenue Marcel-Gargam, 93300 Aubervilliers",
+    "horaires": "Mercredi, vendredi et dimanche en matinée (Ville d'Aubervilliers) ; de 9h à 12h selon l'office de tourisme de Plaine Commune, la Ville ne publiant aucune heure.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits locaux et exotiques"
+    ],
+    "description": "Le second marché municipal d'Aubervilliers, dans le quartier du Montfort au nord-est de la ville, trois matinées par semaine autour de sa halle. L'office de tourisme le présente comme un marché de produits locaux et exotiques ; l'AMAP Robin des Pois y distribue ses paniers le jeudi soir.",
+    "telephone": "01 48 39 52 79",
+    "site_web": "https://www.aubervilliers.fr/Les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=120%20rue%20H%C3%A9l%C3%A8ne%20Cochennec%2093300%20Aubervilliers",
+    "image_url": "/images/marchands/marche-du-montfort-aubervilliers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "panifixion-aubervilliers",
+    "nom": "Panifixion – miniboulangerie de La Pépinière",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.915354,
+    "lon": 2.378742,
+    "adresse": "La Pépinière, 62 bis rue du Moutier, 93300 Aubervilliers",
+    "horaires": "Vente sur place le mercredi et le jeudi de 17h30 à 20h (paiement en espèces) ; commandes en ligne à retirer aux mêmes jours sur place ou dans plusieurs points de dépôt de la ville.",
+    "produits": [
+      "Pains au levain pétris à la main",
+      "Pain de seigle aux graines",
+      "Pain au petit épeautre",
+      "Brioches à la fleur d'oranger",
+      "Focaccia aux citrons confits",
+      "Cookies au levain"
+    ],
+    "description": "Une miniboulangerie installée dans le lieu associatif La Pépinière, près de la mairie : le pain y est pétri à la main et cuit au four à bois deux jours par semaine, et vendu sur place à prix libre. La maison indique des ingrédients issus de l'agriculture biologique et des farines moulues à la ferme par des paysans-meuniers du Loiret et de l'Essonne ; elle n'est pas inscrite au registre de l'Agence Bio, d'où l'absence du pilier environnement.",
+    "site_web": "https://panifixion.ooo/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=62%20bis%20rue%20du%20Moutier%2093300%20Aubervilliers",
+    "image_url": "/images/marchands/panifixion-aubervilliers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-la-semeuse-aubervilliers",
+    "nom": "AMAP de la Semeuse",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.906696,
+    "lon": 2.393135,
+    "adresse": "Les Laboratoires d'Aubervilliers, 41 rue Lécuyer, 93300 Aubervilliers",
+    "horaires": "Distribution le jeudi de 18h à 19h30, sur contrat annuel (saison du 8 octobre 2026 au 30 septembre 2027).",
+    "produits": [
+      "Paniers de 5 à 6 légumes bio de saison",
+      "Pains au levain de la miniboulangerie Panifixion, sur commande"
+    ],
+    "description": "L'AMAP du jardin de la Semeuse, espace de culture partagé devant Les Laboratoires d'Aubervilliers, avec compost, verger et four à pain. Les légumes viennent d'une exploitation maraîchère d'Héricourt-sur-Thérain, dans l'Oise, Les Jardins d'Héricourt, engagée chez Ecocert au registre national de l'Agence Bio depuis 2010.",
+    "site_web": "https://leslaboratoires.org/projet/la-semeuse-lieu-de-rencontre-pour-la-biodiversite-en-ville/la-semeuse-lieu-de-rencontre-pour-",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=41%20rue%20L%C3%A9cuyer%2093300%20Aubervilliers",
+    "image_url": "/images/marchands/amap-de-la-semeuse-aubervilliers.jpg"
+  },
+  {
+    "slug": "amap-robin-des-pois-aubervilliers",
+    "nom": "AMAP Robin des Pois",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.919931,
+    "lon": 2.394442,
+    "adresse": "Marché du Montfort, 120 rue Hélène-Cochennec, 93300 Aubervilliers",
+    "horaires": "Distribution le jeudi de 19h à 20h30, au marché du Montfort. Paniers réservés aux adhérents ; inscription sur liste d'attente.",
+    "produits": [
+      "Paniers de légumes",
+      "Pains au levain de la miniboulangerie Panifixion, sur commande"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne qui distribue ses paniers chaque jeudi soir au marché du Montfort ; les distributions d'octobre 2026 sont programmées sur la plateforme de commande de la miniboulangerie qui y livre son pain. La certification des producteurs n'a pas pu être vérifiée, et la photographie montre une serre de ferme urbaine d'Aubervilliers, pas le lieu de distribution.",
+    "site_web": "https://sites.google.com/view/amaprobindespois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=120%20rue%20H%C3%A9l%C3%A8ne%20Cochennec%2093300%20Aubervilliers",
+    "image_url": "/images/marchands/amap-robin-des-pois-aubervilliers.jpg",
+    "a_confirmer": true
   }
 ]

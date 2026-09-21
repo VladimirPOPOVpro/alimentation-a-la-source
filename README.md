@@ -2764,9 +2764,40 @@ prioritaires en cas de conflit.
      noms et portables des pêcheurs, comme à Golfe-Juan, la piste relève de la règle des personnes
      et ne se rouvre pas.
 
+212. **Un site qui oppose un défi anti-robot à la lecture n'est pas une source consultable, et il
+     ne se contourne pas.** Le site de la Ville de Saint-Ouen-sur-Seine répond à toute requête par
+     une page de preuve de travail (« I Challenge Thee ») avant d'afficher quoi que ce soit, sitemap
+     compris. Résoudre ce défi, c'est franchir un dispositif de détection des robots, ce que les
+     règles de cette carte interdisent au même titre qu'un captcha ; la règle 77, qui écarte un site
+     dont le `robots.txt` nomme notre robot, dit déjà que la volonté affichée du site prime.
+     **Tranché ainsi** : la commune derrière un tel défi est traitée comme une commune qui ne publie
+     rien — ses marchés relèvent de la règle 196, un office de tourisme seul ne suffisant pas —, et
+     l'on passe à la commune suivante de la descente ou du voisinage de la règle 52. **Déblocage** :
+     le retrait du défi, ou une publication communale reprise ailleurs sous une forme lisible
+     (arrêté au recueil des actes, bulletin municipal en PDF).
+
+213. **Le calendrier de distribution que publie un fournisseur d'une AMAP vaut la source datée de
+     la règle 195.** Le site propre de l'AMAP Robin des Pois, à Aubervilliers, s'arrête à la saison
+     2023-2024 : lu seul, il la ferait écarter. Mais la miniboulangerie qui lui livre son pain tient,
+     sur sa plateforme de commande, une page « Panifixion x AMAP Robin des Pois » qui nomme le lieu,
+     le jour et l'heure — marché du Montfort, jeudi de 19h à 20h30 — et **ouvre les commandes des
+     distributions à venir, datées une à une** : les jeudis 1er, 8, 15, 22 et 29 octobre 2026. Un
+     fournisseur ne programme pas de livraison dans une AMAP qui ne distribue plus. **Critère** : un
+     calendrier de distributions futures, publié par un fournisseur identifié de l'AMAP et
+     concordant sur le lieu, le jour et l'heure avec au moins une autre source, atteste une
+     distribution en cours ; la fiche reste `a_confirmer`, sa description dit d'où vient
+     l'attestation, et elle ne reprend du site ancien de l'AMAP que ce que le calendrier confirme —
+     ici les légumes et le pain, pas la liste des producteurs de 2023-2024, faite de noms de
+     personnes qui ne sont de toute façon pas repris.
+
 ## Marchands à confirmer
 
-553 fiches sur 599 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+557 fiches sur 604 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville d'Aubervilliers** (Aubervilliers) (marché municipal délégué à un concessionnaire, catégorie et piliers des marchés, sans `environnement`. **Jours** : la page « Les marchés » de la Ville, mardi, jeudi et samedi « en matinée », et la liste des marchés du comité départemental du tourisme, qui dit « matin ». **Heures, règle 9** : la Ville n'en publie aucune ; les 8h-13h viennent de la fiche de l'office de tourisme de Plaine Commune, qui avertit elle-même « horaires non garantis ». **Téléphone, règle 189** : le Pôle Commerce et Artisanat de la Ville, seul numéro que porte la page des marchés ; le numéro de la fiche de l'office n'est pas repris, règle 201. **Point, règles 26 et 67** : la Base Adresse Nationale ignore la place Rosa-Parks ; le point est celui de la fiche de l'office, contrôlé à 5 m du 16 rue Ferragus, et à 24 m du centroïde que la Base donne à la rue. **Halle** : fermeture provisoire annoncée par la Ville le 14 mars 2024, réouverture le 25 avril 2024, communiqué du 6 mai 2024. **Photo, règle 46** : la photographie que l'office attache à cette fiche, 3 518 × 4 547, recadrée sur sa moitié basse puis ramenée à 1 280 × 778 — il reste la balance et les citrons verts ; les deux commerçants du haut de l'image sont sous la coupe.)
+- **Marché du Montfort** (Aubervilliers) (second marché municipal, même traitement. **Jours** : Ville et comité départemental, mercredi, vendredi et dimanche matin. **Heures, règle 9** : 9h-12h, fiche de l'office de Plaine Commune, « horaires non garantis ». **Téléphone, règle 189** : même numéro que le marché du centre. **Point** : la fiche de l'office, à 45 m du 120 rue Hélène-Cochennec que la Base Adresse Nationale connaît au numéro ; la fiche de l'AMAP Robin des Pois garde ce numéro, règle 12. **Produits, règle 92** : l'office ne dit que « produits locaux et exotiques », la Ville rien ; les fruits et légumes sont lisibles sur les ardoises de la photographie de l'office, règle 74 ; `produits` s'arrête à deux entrées. **Photo** : la photographie de l'office pour cette fiche, 4 895 × 3 268, recadrée à gauche — un vendeur et le haut d'une enseigne portant un prénom sont sous la coupe — puis ramenée à 1 280 × 879.)
+- **Panifixion – miniboulangerie de La Pépinière** (Aubervilliers) (boulangerie artisanale au levain, catégorie `producteur` au titre de la règle 73, comme Debout les Pains à Pantin. **Registre, règle 6** : société active depuis le 10 septembre 2025, établissement ouvert au 62 B rue du Moutier sous l'enseigne « La Pépinière », code 10.71C. **Horaires, règle 172** : la plaquette de la maison, créée le 5 septembre 2025, donnait le mercredi sur commande seulement et la vente sur place le jeudi de 18h à 20h ; la page du fournil sur le site de La Pépinière, modifiée le 14 septembre 2026, et le site de la maison donnent tous deux la vente sur place le mercredi et le jeudi de 17h30 à 20h — c'est la plus récente qui est publiée. **Pas de pilier `environnement`, règle 15** : la maison écrit que tous ses ingrédients sont bio et nomme ses meuniers, mais elle n'est pas au registre de l'Agence Bio. **Point** : numéro 62 à la Base Adresse Nationale, score 0,974. **Photo** : la seule image du site de la maison, des miches sur une claie, 700 × 469, non agrandie, personne dans le cadre. Les noms de personnes que porte la plaquette — fournisseurs et conceptrice du site — ne sont pas repris.)
+- **AMAP de la Semeuse** (Aubervilliers) (**Distribution en cours, règle 195** : la page de la Semeuse sur le site des Laboratoires d'Aubervilliers et le contrat 2026-2027 qu'elle publie, créé le 4 septembre 2026, qui fixe la distribution au jeudi de 18h à 19h30 au 41 rue Lécuyer ; la plateforme de commande de Panifixion donne 18h30-19h30 pour son dépôt de pain, c'est le contrat de l'AMAP qui est publié. **Pilier `environnement`, règles 60 et 209** : le contrat nomme l'exploitation par son enseigne, Les Jardins d'Héricourt, et son adresse au lieu-dit Beaudechon ; le registre de l'Agence Bio, paginé sur les 609 opérateurs de l'Oise, y rend un seul maraîcher, engagé chez Ecocert depuis le 5 janvier 2010, sans date d'arrêt, légumes frais déclarés. Le nom de l'exploitant, qui figure au contrat, n'est pas repris. **Registre, règle 6** : l'association hôte, Les Laboratoires d'Aubervilliers, est active au 41 rue Lécuyer. **Point** : numéro 41 à la Base Adresse Nationale, score 0,974. **Photo** : le jardin de la Semeuse devant les Laboratoires, publié par les Laboratoires sur cette page, 851 × 1 000, non agrandi, personne dans le cadre. Fiche non marquée `a_confirmer`.)
+- **AMAP Robin des Pois** (Aubervilliers) (**Distribution en cours, règle 213, née ici** : le calendrier de commande de la miniboulangerie Panifixion, qui ouvre les jeudis d'octobre 2026 au marché du Montfort, de 19h à 20h30 ; mêmes lieu, jour et heures sur le site de l'AMAP et sur la liste des AMAP du comité départemental du tourisme. **Pas de pilier `environnement`, règle 60** : le site de l'AMAP ne présente ses producteurs que par des noms de personnes, qui ne sont pas repris, et leur certification n'a pas été recherchée par ce biais (règle 121). **Point, règle 12** : le 120 rue Hélène-Cochennec à la Base Adresse Nationale, à 45 m de la fiche du marché du Montfort, qui garde le point de l'office. **Photo, règle 1** : photographie thématique — la serre de la ferme urbaine Terre Terre, à Aubervilliers, publiée par l'office de tourisme de Plaine Commune sur la fiche de cette ferme, non publiée ici (voir « Pistes non publiées à Aubervilliers ») ; elle ne montre ni l'AMAP ni ses producteurs, ce que la description dit. 1 440 × 1 440 ramenés à 1 280.)
 - **Marché provençal du cours Masséna** (Antibes) (le marché alimentaire quotidien du Vieil Antibes, sous la halle du cours Masséna ; catégorie et piliers des marchés municipaux, sans `environnement` : aucune autorité ne le classe comme biologique. **Horaires** : la page « Halles & Marchés » de la Ville, tous les matins de 7h30 à 13h, fermé le lundi de septembre à mai, jusqu'à 13h45 l'été ; l'office de tourisme donne les mêmes. **Producteurs et revendeurs** : la Ville publie deux formulaires de renouvellement distincts, « Provençal Producteur » et « Provençal Revendeur ». **Produits** : la page de l'office, qui cite les commerçants par leur prénom — aucun n'est repris ; la présence des pêcheurs vient de la page des points de vente directe du comité départemental des pêches, règle 211. **Point** : centre du cours Masséna à la Base Adresse Nationale, score 0,972, la halle occupant le cours. **Photo** : la vue de la halle publiée par l'office sur sa page des marchés, 2 048 × 1 365 ramenés à 1 280 ; les passants sont en mouvement, flous, et les silhouettes du fond font quelques pixels. Fiche non marquée `a_confirmer`.)
 - **Biocoop Pin Parasol** (Antibes) (magasin biologique du centre commercial La Jacotte, catégorie `magasin-bio` et règle 3. **Registre, règle 6** : la société, active, a un seul établissement, au 2685 chemin de Saint-Claude, code 47.29Z. **Pilier `environnement`, règle 15** : le même SIRET est engagé chez Ecocert au registre de l'Agence Bio depuis le 24 octobre 2023, avec la liste des rayons certifiés. **Source, règle 149** : le site propre au magasin, dont le `robots.txt` n'exclut que des robots de référencement anciens, aucun agent d'IA ; le site national du réseau n'a pas été ouvert. **Horaires, téléphone, produits** : la page « Présentation détaillée » ; le nom du responsable qui y figure et ceux des producteurs locaux ne sont pas repris. **Point** : numéro 2685 à la Base Adresse Nationale, score 0,977. **Photo** : le rayon fruits et légumes publié par le magasin, 1 600 × 1 200 ramenés à 1 280, personne dans le cadre. Fiche non marquée `a_confirmer`.)
 - **Jardins Vert d'Azur – exploitation du Campus Vert d'Azur** (Antibes) (exploitation horticole et maraîchère du lycée agricole public, catégorie `ferme`. **Registre, règles 6 et 106** : l'établissement public est actif, et son établissement du 1285 avenue Jules Grec porte l'enseigne « Exploitation horticole d'Antibes ». **Pilier `environnement`, règles 15 et 210** : ce SIRET est engagé chez Ecocert depuis décembre 2012 et le registre déclare à la fois les cultures (légumes, plants potagers, agrumes, figues, avocats) et le commerce de détail de fruits et légumes frais. **Horaires, règle 136** : le campus publie un seul créneau, le retrait des paniers le jeudi après-midi, et aucune heure d'ouverture du magasin ; le site propre du magasin est suspendu chez son hébergeur, et les heures que donnent des annuaires tiers ne sont pas reprises. **Téléphone, règle 189** : le standard du lycée, seul numéro que publie le campus. **Photo** : la serre et les tables de vente de plantes que le campus attache à son bloc « Exploitation – Magasin Jardins Vert d'Azur », 721 × 1 080, non agrandie, personne dans le cadre ; le nom de fichier d'origine porte celui d'un photographe, il n'est repris nulle part.)
@@ -9685,6 +9716,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Aubervilliers
+
+Passe du 21 septembre 2026, sixième de la journée. **Département retenu, règle 41** : la
+Seine-Saint-Denis (93), déficit **4,8055** pour 1 704 316 habitants et dix fiches — cinq à Saint-Denis,
+trois à Montreuil, deux à Pantin —, sur une base de 599 fiches. La Réunion arrive devant avec
+**7,7287** et sort par les règles 93 et 177. La passe précédente visait les Alpes-Maritimes, en
+Provence-Alpes-Côte d'Azur ; la Seine-Saint-Denis est en Île-de-France, la réserve de la règle 41.c ne
+joue donc pas. Après la passe, le 93 tombe à **−0,0709** avec quinze fiches ; en tête ensuite,
+outre-mer écarté : l'**Ille-et-Vilaine** (4,8166), la **Gironde** (4,8080), la **Côte-d'Or** (4,7311),
+celle-ci sans aucune fiche, et la **Drôme** (4,5918). La prochaine passe ne peut pas viser
+l'Île-de-France.
+
+**Commune** : Aubervilliers, 88 365 habitants, troisième du département après Saint-Denis et Montreuil,
+toutes deux pourvues, et sans aucune fiche. Elle rend les cinq fiches, image comprise ; aucune
+descente ni aucun élargissement n'a été nécessaire. Deux voisins de Plaine Commune ont été instruits
+au titre de la règle 52 avant que la cinquième fiche ne soit trouvée dans la commune même, et restent
+en pistes ci-dessous.
+
+**Les sources.** La page « Les marchés » de la Ville d'Aubervilliers et ses communiqués sur la halle
+du centre ; les fiches de l'office de tourisme de Plaine Commune, dont le sitemap a servi d'index ; les
+listes des marchés et des AMAP du comité départemental du tourisme de la Seine-Saint-Denis ; le site
+de La Pépinière et celui de la miniboulangerie Panifixion, avec sa plaquette et sa plateforme de
+commande ; la page de la Semeuse et le contrat de son AMAP sur le site des Laboratoires
+d'Aubervilliers ; le site de l'AMAP Robin des Pois ; le registre de l'Agence Bio, paginé sur les 444
+opérateurs du département et les 609 de l'Oise ; le registre des entreprises. Aucun de ces sites
+n'exclut d'agent d'IA dans son `robots.txt`.
+
+- **L'épicerie-primeur du 26 rue du Moutier, non publiée.** Société active depuis octobre 2024,
+  engagée chez Bureau Veritas au registre de l'Agence Bio depuis janvier 2025 pour le commerce de
+  détail de fruits et légumes. Mais son site est fermé par un mot de passe (« notre site se refait
+  une beauté ») : ses horaires et ses fournisseurs ne se lisent que dans des annuaires et dans des
+  publications de personnes sur les réseaux sociaux, qui ne sont pas des sources. **Déblocage** : le
+  retour du site de la maison, ou une page d'office qui la décrive ; la règle 86 demandera alors
+  qu'elle nomme des producteurs.
+- **Le Four d'Auber, non publié.** Seconde miniboulangerie du fournil de La Pépinière, au même
+  62 bis rue du Moutier, avec son propre site : deux fiches de boulangerie sur le même point se
+  cacheraient l'une l'autre, et la règle 167 préférait une catégorie absente de la commune.
+  Reprenable au prochain passage, sur un jour de vente distinct.
+- **L'AMAP Auber'gine, non publiée, règles 5 et 195.** Le portail associatif de la Ville la donne le
+  mercredi de 17h à 19h45, une actualité municipale plus ancienne au 167 rue André-Karman le vendredi
+  et le samedi, et le comité départemental ne la liste plus. Aucune source datée ne tranche le lieu ni
+  le jour.
+- **L'AMAP Sauvage, non publiée, règle 195.** Sa page sur le site de La Pépinière n'a pas été modifiée
+  depuis février 2024, et le comité départemental la situe dans un autre lieu associatif, rue des
+  Cités. Son maraîcher est d'ailleurs celui de la Semeuse. La page nomme les exploitants : aucun nom
+  n'est repris.
+- **L'AMAP Pommes Deter, du campus Condorcet, non publiée, règle 195** : seule la liste du comité
+  départemental la mentionne, sans date.
+- **La ferme urbaine Terre Terre, non publiée, hors sujet en l'état.** Potager partagé, pépinière de
+  plants et guinguette au bord du canal ; aucune source ne décrit de vente de nourriture. Sa
+  photographie de serre, publiée par l'office sur sa fiche, illustre l'AMAP Robin des Pois comme photo
+  thématique au sens des règles 1 et 203.
+- **Le marché des terroirs du Montfort, non publié** : une page de réservation d'emplacements du
+  concessionnaire, sans date ni jour.
+- **Plaine Commune, La Courneuve, le marché des Quatre-Routes, non publié, règle 5.** À 1,9 km du
+  barycentre des fiches d'Aubervilliers, instruit au titre de la règle 52. La Ville écrit en 2022 que
+  le marché a repris place sous sa halle rénovée ; l'office de Plaine Commune écrit encore « la Halle
+  étant en travaux, le marché est déplacé avenue Paul-Vaillant-Couturier » ; le comité départemental
+  porte « fermé à compter d'avril 2022 ». Le lieu même du marché n'est pas établi, et la seule
+  photographie de l'office date de 2006.
+- **Plaine Commune, Saint-Ouen-sur-Seine, les marchés Ottino et du Landy, non publiés, règle 212,
+  née ici.** À 4,0 et 4,1 km du barycentre ; le site de la Ville oppose un défi anti-robot, et
+  l'office de tourisme seul ne suffit pas, règle 196.
+- **Le registre de l'Agence Bio, peu productif en ville**, comme à Antibes : dix-neuf opérateurs
+  déclarent une adresse à Aubervilliers, supermarchés certifiés, grossistes, préparateurs et une
+  boulangerie à la certification arrêtée en 2021 ; une boulangerie engagée en juin 2026 n'a ni site ni
+  horaires publiés, et une entreprise inscrite sous un patronyme n'est pas reprise.
 
 ### Pistes non publiées à Antibes
 
