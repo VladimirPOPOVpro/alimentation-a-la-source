@@ -2814,9 +2814,38 @@ prioritaires en cas de conflit.
      versions attribuées à leur source (règle 5), et reste `a_confirmer`. Un écart plus large, ou
      une divergence sur le jour ou sur le lieu, reste régi par les règles 138, 176 et 181.
 
+216. **Une photographie qu'un office attache à un marché, mais dont l'arrière-plan ne peut pas être
+     ce lieu, n'en est pas une vue.** L'office de tourisme de Bordeaux Métropole illustre sa fiche du
+     marché Bourrec, à Pessac, d'un étal de pain légendé « Marché de Bourrec à Pessac » ; la Ville de
+     Pessac met le même fichier en bandeau de sa page des marchés. Or l'arrière-plan montre un quai
+     bordé d'un garde-corps au bord de l'eau, et l'avenue Pierre Wiehn, où se tient le marché, n'est
+     au bord d'aucune eau. La règle 91 fait de la photographie qu'une autorité publie pour une fiche
+     précise un document ; elle suppose que l'image puisse être ce lieu. **Critère** : quand le
+     contenu d'une image contredit la géographie du lieu qu'elle illustre, c'est une image
+     d'ambiance au sens de la règle 70 — elle ne sert ni de vue du lieu ni de photographie
+     thématique « de la même commune » au titre de la règle 1. Le marché attend une vraie
+     photographie. Ici le recadrage sans visage aurait d'ailleurs donné un bandeau de 840 × 265.
+217. **Une boutique de domaine se juge sur l'établissement qui produit, pas sur celui qui a porté la
+     boutique.** Au registre des entreprises, l'établissement de vente au détail de boissons ouvert au
+     218 avenue du Docteur-Nancel-Pénard, à Pessac, est fermé ; la société viticole du Château Pape
+     Clément, elle, est active au 216 et le domaine publie une boutique ouverte sept jours sur sept, à
+     cette même adresse. La règle 117 juge un signalement de fermeture sur le lieu ; la règle 130 dit
+     qu'un transfert ne ferme pas le point de vente. **Critère** : quand une société de production
+     est active à l'adresse et que le domaine publie lui-même les heures de sa boutique, un ancien
+     établissement de commerce fermé à côté ne fait pas tomber la fiche ; la règle 29 s'applique
+     ensuite à ce que la boutique vend — ici près de 300 références, dont les vins des autres domaines
+     du même propriétaire, des spiritueux et de l'épicerie fine, ce que la description dit. Le nom du
+     propriétaire, peint sur le comptoir de la boutique, a été recadré hors de la photographie
+     (règle 75) et n'est écrit nulle part.
+
 ## Marchands à confirmer
 
-561 fiches sur 609 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+564 fiches sur 614 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP de Terre d'ADELES** (Pessac) (**Distribution en cours, règle 195** : l'agenda 2026 de l'association, sur son propre site, date une à une les livraisons « AMAP et circuits courts » du vendredi de 18h à 19h — dans une salle municipale de Saige de janvier à mars, au Jardin d'ADELES depuis le 20 mars et encore le 4 septembre 2026 — et la page AMAP publie les contrats 2026-2027. **Lieu, règle 5** : le point est celui du jardin, 36 avenue de Magellan (Base Adresse Nationale, numéro exact, 0,973) ; le lieu d'hiver et une séance de février à la salle de Magonty sont dits dans `horaires`, d'où `a_confirmer`. **Pilier `environnement`, règles 60 et 68** : parmi les fournisseurs nommés par leur enseigne, le GAEC du Plainier (pommes, contrat 2026-2027) est engagé chez Qualisud au registre de l'Agence Bio, et la coopérative de torréfaction pessacaise qui fournit café, thé et chocolat chez Ecocert. **Téléphone** : le seul numéro publié est un portable, il n'est pas repris ; les prénoms des coordinateurs et des producteurs, nombreux sur le site, ne sont pas repris. **Photo** : le jardin en hiver, publiée par l'association sur la page de son événement des 48h de l'agriculture urbaine 2026, 2 000 px ramenés à 1 280, personne dans le cadre.)
+- **Brasserie Gasconha** (Pessac) (brasserie artisanale, `producteur` au titre de la règle 73, comme la brasserie Effet Papillon de Mérignac. **Registre, règle 6** : société active depuis février 2010, un établissement ouvert au 5 avenue Louis de Broglie, code 11.05Z ; un ancien établissement au château Bersol est fermé. **Piliers, règles 14 et 15** : `economie` seul, aucune certification ni au registre de l'Agence Bio ni sur le site. **Horaires, règle 5** : l'annuaire économique de la Ville de Pessac donne la brasserie ouverte du lundi au vendredi de 8h30 à 17h30, le site de la brasserie les heures du brewpub ; les deux sont publiés et attribués, `a_confirmer` parce qu'aucune source ne dit en toutes lettres les heures de vente à emporter. **Point** : numéro exact à la Base Adresse Nationale (0,966), identique au point du registre. **Photo** : les rayonnages de bouteilles de la salle, publiés par la brasserie, 2 500 px ramenés à 1 280, personne dans le cadre.)
+- **Château Pape Clément – boutique Les Clés du Vin** (Pessac) (cru classé de Graves, `producteur`. **Registre, règles 6 et 217** : la société viticole du château est active au 216 avenue du Docteur-Nancel-Pénard, code 01.21Z ; un établissement de commerce de boissons voisin est fermé. **Boutique, règle 29** : les heures et le téléphone de la boutique sont ceux des pages « Boutique » et « Contact » du domaine ; la description dit ce qui est revendu. **Piliers, règles 14 et 15** : `economie` seul, aucune certification revendiquée ni inscrite au registre de l'Agence Bio pour ce domaine. **Point** : numéro exact (0,98), à 3 m du point du registre. **Photo** : l'intérieur de la boutique publié par le domaine, recadré à gauche du comptoir qui porte le nom du propriétaire (règle 75), 1 760 px ramenés à 1 280, personne dans le cadre. Fiche non marquée `a_confirmer`.)
+- **La Compagnie Fermière Gradignan** (Gradignan) (**Élargissement à l'agglomération, règle 96** : Bordeaux Métropole, à 3,5 km de l'hôtel de ville de Pessac. Magasin de producteurs ouvert en continu, `producteur` au titre de la règle 105 ; `a_confirmer` parce que le site ne dit pas quelle part de l'assortiment est achetée et revendue (règle 153) — la description dit qu'il s'agit de sept familles associées et de plus d'une centaine de producteurs. **Registre, règle 6** : la société est active depuis mars 2012, un établissement ouvert au 6 allée Mégevie sous l'enseigne « La Compagnie Fermière », code 47.11C. **Pas de pilier `environnement`** : aucune certification au registre de l'Agence Bio. **Horaires et téléphone** : ceux que le magasin publie. **Point** : numéro 6 à la Base Adresse Nationale (0,799), à 48 m du point du registre. **Photo** : la façade du magasin de Gradignan publiée par l'enseigne, 800 × 363, non agrandie, personne dans le cadre ; les photographies intérieures, qui montrent des clients et les portraits des producteurs, n'ont pas servi. Les noms des familles associées, que le site publie, ne sont pas repris.)
+- **Marché du centre-ville de Talence** (Talence) (**Élargissement à l'agglomération, règle 96** : Bordeaux Métropole, à 3,3 km de l'hôtel de ville de Pessac. Catégorie et piliers des marchés, sans `environnement` : aucune autorité ne le classe comme biologique. **Jour, heures et lieu** : la page « Marchés » de la Ville de Talence — mercredi de 9h à 13h, 300 cours de la Libération, place Alcala de Henares — et la fiche de l'office de tourisme de Bordeaux Métropole concordent. **Produits, règle 103** : la liste des étals que publie la Ville. **Téléphone, règle 189** : le service municipal que la Ville donne pour ses marchés. **Point** : numéro 300 à la Base Adresse Nationale (0,974), à 25 m de l'esplanade. **Photo** : la photographie que l'office attache à ce marché, 1 512 × 2 016, recadrée sur les cageots de salades et de céleris hors de toute personne, 952 × 686. Fiche non marquée `a_confirmer`.)
 - **Marché de Saint-Servan** (Saint-Malo) (marché municipal, catégorie et piliers des marchés, sans `environnement`. **Jours** : mardi et vendredi, identiques au dépliant « Les marchés de Saint-Malo » que la Ville publie sur sa page « Marchés et commerces » et au calendrier 2026 de l'office de tourisme de Saint-Malo Baie du Mont-Saint-Michel. **Heures, règle 215** : la Ville écrit « 8h-12h30 (et jusqu'à 13h en été) » pour tous ses marchés, sur un dépliant sans date déposé en mars 2024 ; l'office donne 8h-13h pour chaque séance de 2026 ; les deux fins sont publiées et attribuées. **Lieu** : la Ville ne nomme que le quartier ; la place Bouvet vient de l'office. Point au centre de la place à la Base Adresse Nationale (0,965), marqueur de l'office à 29 m. **Téléphone, règle 189** : le standard de la mairie, seul numéro de la page des marchés. **Produits, règle 103** : les mots de l'office — légumes, fromages, poissons, fleurs —, l'artisanat restant dans la description. **Photo, règle 203** : l'office n'illustre ce marché que d'une image de banque étrangère ; la photographie retenue est l'une des douze qu'il attache au marché de Paramé — un étal de crabes et d'araignées de mer sous la halle de Paramé, recadré sous la ligne des clients, 1 280 × 453 — et elle ne prétend pas montrer la place Bouvet.)
 - **Marché de Paramé** (Saint-Malo) (même traitement. **Jours** : mercredi et samedi, Ville et office concordants. **Heures, règle 215** : mêmes versions qu'à Saint-Servan. **Lieu** : place Georges Coudray, selon l'office ; Base Adresse Nationale à 0,964, marqueur de l'office à 12 m. **Photo** : l'une des douze photographies que l'office attache à ce marché, des navets et des ardoises de prix sous la charpente de la halle, prise un mercredi, jour de marché (règle 140), 4 608 px réduits à 1 280 × 720, personne dans le cadre. Les photographes crédités ne sont pas nommés.)
 - **Marché Intra-Muros** (Saint-Malo) (même traitement. **Jours** : mardi et vendredi, Ville et office concordants. **Heures, règle 215** : 8h-12h30 (13h en été) pour la Ville, 8h30-13h pour l'office, les deux versions publiées. **Lieu** : la Halle au Blé selon l'office ; la Base Adresse Nationale la connaît comme voie, « Halle aux Blés » (0,715), et le marqueur de l'office tombe à 18 m de son point. **Photo, règle 203** : même situation qu'à Saint-Servan ; la photographie retenue est un autre fichier du jeu de Paramé, un étal de fleurs coupées sous un barnum, recadré sur sa moitié droite pour écarter les passants, 1 280 × 1 440. Elle ne montre pas la Halle au Blé.)
@@ -9744,6 +9773,71 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Pessac
+
+Passe du 21 septembre 2026, huitième de la journée. **Département retenu, règle 41** : la Gironde
+(33), déficit **4,9306** pour dix fiches, cinq à Bordeaux et cinq à Mérignac, sur une base de 609
+fiches. La Réunion arrive devant avec **7,8577** et sort par les règles 93 et 177. La passe
+précédente visait l'Ille-et-Vilaine, en Bretagne ; la Gironde est en Nouvelle-Aquitaine, la réserve
+de la règle 41.c ne joue pas. Après la passe, le 33 tombe à **0,0532** avec quinze fiches ; en tête
+ensuite, outre-mer écarté : la **Côte-d'Or** (4,8094), les **Hauts-de-Seine** (4,7346), la **Drôme**
+(4,6679) et l'**Aisne** (4,6602). La prochaine passe ne peut pas viser la Nouvelle-Aquitaine.
+
+**Commune** : Pessac, 67 339 habitants, la plus peuplée du département sans aucune fiche après
+Bordeaux et Mérignac. **Elle rend les faits mais pas les images** : la Ville publie jour, heure, lieu
+et composition de ses marchés, sans une seule photographie. Trois fiches pessacaises sont publiables
+image comprise ; la règle 52 demande quatre points pour compléter chez un voisin, la règle 96 permet,
+avec deux fiches au moins dans la commune, d'élargir à l'intercommunalité. **Élargissement, règle 96** :
+deux fiches dans Bordeaux Métropole, La Compagnie Fermière à Gradignan (3,5 km de l'hôtel de ville de
+Pessac) et le marché du centre-ville de Talence (3,3 km) ; les cinq fiches tiennent dans 6,5 km.
+
+**Les sources.** La page « Marchés » de la Ville de Pessac et l'arrêté portant règlement général des
+marchés de plein air (janvier 2023) qu'elle publie ; l'annuaire économique de la Ville (`eco.pessac.fr`)
+et son annuaire des associations ; le site et l'agenda 2026 de Terre d'ADELES ; les sites de la
+Brasserie Gasconha, du Château Pape Clément et de La Compagnie Fermière ; la page « Marchés » de la
+Ville de Talence ; les fiches de l'office de tourisme de Bordeaux Métropole ; le registre de l'Agence
+Bio, paginé sur les 3 748 opérateurs du département ; le registre des entreprises. Aucun de ces sites
+n'exclut d'agent d'IA dans son `robots.txt` ; celui de Terre d'ADELES impose trente secondes entre
+deux requêtes, et elles ont été espacées d'autant.
+
+- **Les marchés de Pessac-centre, place de la Ve République, non publiés, règle 70.** Mardi, marché
+  biologique des producteurs de 8h à 13h30 ; samedi, marché alimentaire de 8h à 13h30 — l'arrêté de
+  2023 et la page de la Ville concordent, la page écrivant aussi « 8 h – 14 h » dans son paragraphe
+  sur le marché bio (règle 87). Ce serait une seule fiche à deux régimes (règle 42), avec le pilier
+  `environnement` au titre de la règle 45 : l'arrêté intitule la séance du mardi « marché biologique
+  des producteurs » et exige des commerçants bio leurs pièces justificatives. Faits complets ; aucune
+  photographie utilisable : la seule, celle des trente ans du marché sur le site d'une association de
+  producteurs, est un scan d'affiche de 686 px plein de visages. **Déblocage** : une photographie de
+  la place un mardi ou un samedi, sans visage identifiable.
+- **Le marché Bourrec, non publié, règles 70 et 216, née ici.** Dimanche de 8h à 14h, avenues Pierre
+  Wiehn et Roger Chaumet, environ 150 commerçants, alimentaire et non alimentaire. La seule image est
+  l'étal de pain de l'office, qui ne peut pas être ce lieu. **Déblocage** : une vraie photographie.
+- **Le marché de Cap-de-Bos, non publié, règles 55 et 70.** L'arrêté de 2023 le tient le jeudi et le
+  samedi de 8h à 13h30, espace Pierre Hugues ; la page de la Ville ne donne que le samedi, « côté rue
+  de Belfort ». Aucune photographie. **Déblocage** : une image, puis les deux jours attribués à leur source.
+- **Le marché de Monbalon, non publié, règles 70 et 103.** Mercredi de 8h à 13h, maison municipale de
+  Monbalon, cinq commerçants « alimentation », sans étal décrit ni photographie.
+- **Biocoop Pessac, 14 avenue Jean Jaurès, non publiée, faute d'image.** Faits solides : société active
+  au registre (47.29Z), un établissement ouvert, certificat Ecocert engagé au registre de l'Agence Bio,
+  horaires publiés par l'annuaire économique de la Ville. Le site du magasin présente un certificat qui
+  ne correspond pas à son nom de domaine et ne se lit pas (règle 62), `biocoop.fr` est écarté par la
+  règle 149, l'annuaire de la Ville n'en montre que le logo. **Déblocage** : une photographie du magasin.
+- **Le Fils des Artisans, boulangerie bio, 22 avenue Jean Cordier, non publiée, faute d'image.** Société
+  active (10.71C), certificat Ecocert engagé, horaires publiés par l'annuaire de la Ville ; le site
+  du commerce est une page « en construction » et la seule image est un logo de 200 px. **Déblocage** :
+  une photographie de la boutique ou de ses pains.
+- **Le registre de l'Agence Bio, peu productif en ville** : 43 opérateurs à une adresse pessacaise,
+  Pessac-sur-Dordogne compris ; surtout des supermarchés certifiés pour un rayon, des logisticiens, des
+  grossistes et des préparateurs. Les exploitations et boulangeries immatriculées sous un patronyme ne
+  sont pas reprises.
+- **Hors sujet** : la ferme du Peugue, conservatoire de variétés anciennes visité sur inscription, ne
+  vend rien ; la coopérative de torréfaction de l'avenue Louis de Broglie vend aux professionnels,
+  ses horaires sont ceux de bureaux.
+- **Données personnelles volontairement laissées de côté** : les noms des producteurs du marché bio,
+  que publient l'association organisatrice et un annuaire en ligne ; les prénoms des coordinateurs et
+  des fournisseurs de l'AMAP ; les membres du bureau de Terre d'ADELES que liste l'annuaire municipal ;
+  le nom de la chargée de mission commerce de la Ville ; le nom du propriétaire du Château Pape Clément.
 
 ### Pistes non publiées à Saint-Malo
 

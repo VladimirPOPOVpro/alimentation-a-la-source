@@ -16174,5 +16174,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20all%C3%A9e%20de%20la%20Go%C3%A9lette%2035400%20Saint-Malo",
     "image_url": "/images/marchands/amap-du-bocage-saint-malo.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "amap-terre-d-adeles-pessac",
+    "nom": "AMAP de Terre d'ADELES",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 44.785145,
+    "lon": -0.663991,
+    "adresse": "Jardin d'ADELES, 36 avenue de Magellan, 33600 Pessac",
+    "horaires": "Livraisons des AMAP et circuits courts le vendredi de 18h à 19h, en général une semaine sur deux (semaines paires), réservées aux adhérents sous contrat. Au Jardin d'ADELES à la belle saison (d'avril à octobre en 2026) ; en hiver dans une salle municipale du quartier de Saige, 68 rue de l'Horloge. L'agenda de l'association donne le lieu date par date.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Pommes, poires et jus de pomme",
+      "Kiwis",
+      "Œufs",
+      "Volailles",
+      "Bœuf et veau",
+      "Pain et pâtisseries",
+      "Miel"
+    ],
+    "description": "Association pessacaise fondée en 2003, qui soutient des producteurs bio ou en conversion par des contrats d'AMAP et de circuit court, et cultive un jardin partagé d'environ deux hectares derrière l'hôpital Haut-Lévêque. Le calendrier 2026-2027 des livraisons est publié sur son site ; le lieu change avec la saison.",
+    "site_web": "https://terredadeles.fr/wiki/doku.php?id=amap:amap",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=36%20avenue%20de%20Magellan%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/amap-terre-d-adeles-pessac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-gasconha-pessac",
+    "nom": "Brasserie Gasconha",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 44.782319,
+    "lon": -0.645053,
+    "adresse": "5 avenue Louis de Broglie, 33600 Pessac",
+    "horaires": "Brasserie ouverte du lundi au vendredi de 8h30 à 17h30 (annuaire économique de la Ville de Pessac). Brewpub Gascopub dans l'atelier : lundi 16h-21h, du mardi au vendredi 16h-22h.",
+    "produits": [
+      "Bières artisanales non filtrées et non pasteurisées",
+      "Limonade",
+      "Bouteilles 33 cl et 75 cl",
+      "Fûts de 20 L",
+      "Location de tireuse"
+    ],
+    "description": "Brasserie artisanale installée à Pessac depuis 2010, qui brasse sur place ses bières et une limonade et les vend aux particuliers comme aux professionnels. Le brewpub, au cœur de l'atelier de production, sert les bières à la pression avec des planches à partager.",
+    "telephone": "05 56 08 93 32",
+    "site_web": "https://www.gasconha.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5%20avenue%20Louis%20de%20Broglie%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/brasserie-gasconha-pessac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-pape-clement-pessac",
+    "nom": "Château Pape Clément – boutique Les Clés du Vin",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 44.806207,
+    "lon": -0.647285,
+    "adresse": "216 avenue du Docteur Nancel Pénard, 33600 Pessac",
+    "horaires": "Boutique ouverte du lundi au samedi de 10h à 19h, le dimanche et les jours fériés de 10h à 18h ; fermée le 1er janvier, le 1er mai et le 25 décembre.",
+    "produits": [
+      "Vins rouges et blancs AOC Pessac-Léognan du domaine",
+      "Second vin du domaine",
+      "Vins des autres domaines du même groupe",
+      "Spiritueux",
+      "Épicerie fine"
+    ],
+    "description": "Cru classé de Graves dont le vignoble est dans la ville même de Pessac, avec une boutique ouverte tous les jours au château. La boutique vend les vins du domaine, mais aussi, sur près de 300 références, ceux des autres domaines du même propriétaire, des spiritueux et de l'épicerie fine qui ne sont pas produits sur place.",
+    "telephone": "05 57 26 43 04",
+    "site_web": "https://www.chateau-pape-clement.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=216%20avenue%20du%20Docteur%20Nancel%20P%C3%A9nard%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/chateau-pape-clement-pessac.jpg"
+  },
+  {
+    "slug": "la-compagnie-fermiere-gradignan",
+    "nom": "La Compagnie Fermière Gradignan",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.77464,
+    "lon": -0.639744,
+    "adresse": "6 allée de Mégevie, 33170 Gradignan",
+    "horaires": "Du mardi au samedi de 9h à 19h.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie",
+      "Crèmerie et fromages",
+      "Épicerie",
+      "Cave",
+      "Pommes et kiwis"
+    ],
+    "description": "Magasin de producteurs fondé par sept familles d'agriculteurs du Lot-et-Garonne et des Landes, qui vendent leur production et celle de plus d'une centaine de producteurs de la région. À la limite de Pessac, à 3,5 km de l'hôtel de ville de Pessac ; un second magasin est à Mérignac.",
+    "telephone": "05 40 25 05 32",
+    "site_web": "https://www.lacompagniefermiere.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6%20all%C3%A9e%20de%20M%C3%A9gevie%2C%2033170%20Gradignan",
+    "image_url": "/images/marchands/la-compagnie-fermiere-gradignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-centre-ville-talence",
+    "nom": "Marché du centre-ville de Talence",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.811908,
+    "lon": -0.590611,
+    "adresse": "Place Alcala de Henares, 300 cours de la Libération, 33400 Talence",
+    "horaires": "Le mercredi de 9h à 13h, sur le parvis du Forum des Arts et de la Culture (tram B, station Forum).",
+    "produits": [
+      "Fruits et légumes, dont bio et de producteurs",
+      "Pain bio",
+      "Boucherie",
+      "Poissonnerie",
+      "Fromages",
+      "Charcuterie",
+      "Miel",
+      "Vin"
+    ],
+    "description": "Marché hebdomadaire créé en 2014, de 25 à 30 stands, où la Ville signale des primeurs bio et des producteurs, à côté de traiteurs et de quelques étals de vêtements et de bijoux.",
+    "telephone": "05 56 84 36 80",
+    "site_web": "https://www.talence.fr/decouvrir-talence/commerce/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=300%20cours%20de%20la%20Lib%C3%A9ration%2C%2033400%20Talence",
+    "image_url": "/images/marchands/marche-centre-ville-talence.jpg"
   }
 ]
