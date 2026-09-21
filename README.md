@@ -2727,9 +2727,51 @@ prioritaires en cas de conflit.
      adresse qui ne rend aucun opérateur, ou n'en rend qu'un certifié pour autre chose que ce que
      l'AMAP distribue, laisse le fournisseur non retrouvé, règle 39.
 
+210. **Un certificat bio engagé sur l'établissement, mais sans aucune production déclarée au
+     registre, n'ouvre pas le pilier `environnement`.** La boutique du Nérolium, à Golfe-Juan, est
+     inscrite au registre de l'Agence Bio sous le SIRET même de l'établissement du 140 avenue de la
+     Liberté, engagement Ecocert du 6 août 2026, sans date d'arrêt. La règle 15 serait satisfaite à la
+     lettre. Mais la liste `productions` de cet opérateur est **vide** : le registre ne dit pas ce que
+     le certificat couvre, et la maison vend à la fois une « gamme bio » et des produits qui ne le sont
+     pas. La règle 39 refuse le pilier quand le certificat ne couvre pas ce que la fiche vend ; ici on
+     ne sait pas ce qu'il couvre. **Tranché ainsi** : le pilier n'est accordé que si le registre
+     déclare au moins une production ou une activité de vente rattachée à ce que la fiche publie ; un
+     engagement sans production déclarée se mentionne dans la description, avec sa date, et le pilier
+     attend. Contre-exemple de la même passe : l'exploitation du Campus Vert d'Azur, dont le
+     certificat liste à la fois ses cultures et le « commerce de détail de fruits et légumes frais »,
+     reçoit le pilier. **Déblocage** : une liste de productions publiée au registre ou le certificat
+     de l'organisme consultable. Sur le reste, la règle 6 est remplie par la société active qui
+     exploite la boutique sous l'enseigne Nérolium à cette adresse, bien que la coopérative agricole
+     historique soit close au registre : c'est le point de vente qui doit être vivant, et il l'est ;
+     la catégorie reste `producteur` au titre de la règle 8, la maison décrivant elle-même la
+     culture de ses bigaradiers et ses plantations récentes, et la description dit les deux faits.
+
+211. **Un point de vente directe que seul un organisme professionnel publie, avec une même grille
+     horaire pour tous ses ports et un lieu réduit à un nom de quai, attend.** Le comité
+     départemental des pêches des Alpes-Maritimes publie, sur une page modifiée en janvier 2026, les
+     points de vente directe des pêcheurs : pour Antibes, le marché provençal, le « quai des
+     pêcheurs », la rue de la République de septembre à mai et le port du Crouton — tous, comme presque
+     tous les ports du département, « selon pêche, du mardi au dimanche 9h-12h ». Une grille
+     identique d'un port à l'autre est une valeur par défaut au sens de la règle 146, pas une
+     observation ; le quai n'a ni numéro ni point, l'office de tourisme d'Antibes ne mentionne la
+     vente sur aucune de ses pages de ports, et aucune photographie n'existe hors banque d'images.
+     **Tranché ainsi** : l'organisme professionnel est une source légitime pour dire **qu'**une vente
+     directe existe, et il sert à documenter la présence des pêcheurs dans la fiche d'un marché
+     qu'une commune publie par ailleurs — c'est ce qu'en fait la fiche du marché provençal — ; il ne
+     suffit pas seul pour ouvrir une fiche `poissonnerie`, qui demande un lieu situable et une
+     seconde source. **Déblocage** : une page de la Ville ou du port qui situe l'étal, ou une fiche
+     d'office qui le décrive, et une photographie du lieu. Quand la seule seconde source publie les
+     noms et portables des pêcheurs, comme à Golfe-Juan, la piste relève de la règle des personnes
+     et ne se rouvre pas.
+
 ## Marchands à confirmer
 
-550 fiches sur 594 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+553 fiches sur 599 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché provençal du cours Masséna** (Antibes) (le marché alimentaire quotidien du Vieil Antibes, sous la halle du cours Masséna ; catégorie et piliers des marchés municipaux, sans `environnement` : aucune autorité ne le classe comme biologique. **Horaires** : la page « Halles & Marchés » de la Ville, tous les matins de 7h30 à 13h, fermé le lundi de septembre à mai, jusqu'à 13h45 l'été ; l'office de tourisme donne les mêmes. **Producteurs et revendeurs** : la Ville publie deux formulaires de renouvellement distincts, « Provençal Producteur » et « Provençal Revendeur ». **Produits** : la page de l'office, qui cite les commerçants par leur prénom — aucun n'est repris ; la présence des pêcheurs vient de la page des points de vente directe du comité départemental des pêches, règle 211. **Point** : centre du cours Masséna à la Base Adresse Nationale, score 0,972, la halle occupant le cours. **Photo** : la vue de la halle publiée par l'office sur sa page des marchés, 2 048 × 1 365 ramenés à 1 280 ; les passants sont en mouvement, flous, et les silhouettes du fond font quelques pixels. Fiche non marquée `a_confirmer`.)
+- **Biocoop Pin Parasol** (Antibes) (magasin biologique du centre commercial La Jacotte, catégorie `magasin-bio` et règle 3. **Registre, règle 6** : la société, active, a un seul établissement, au 2685 chemin de Saint-Claude, code 47.29Z. **Pilier `environnement`, règle 15** : le même SIRET est engagé chez Ecocert au registre de l'Agence Bio depuis le 24 octobre 2023, avec la liste des rayons certifiés. **Source, règle 149** : le site propre au magasin, dont le `robots.txt` n'exclut que des robots de référencement anciens, aucun agent d'IA ; le site national du réseau n'a pas été ouvert. **Horaires, téléphone, produits** : la page « Présentation détaillée » ; le nom du responsable qui y figure et ceux des producteurs locaux ne sont pas repris. **Point** : numéro 2685 à la Base Adresse Nationale, score 0,977. **Photo** : le rayon fruits et légumes publié par le magasin, 1 600 × 1 200 ramenés à 1 280, personne dans le cadre. Fiche non marquée `a_confirmer`.)
+- **Jardins Vert d'Azur – exploitation du Campus Vert d'Azur** (Antibes) (exploitation horticole et maraîchère du lycée agricole public, catégorie `ferme`. **Registre, règles 6 et 106** : l'établissement public est actif, et son établissement du 1285 avenue Jules Grec porte l'enseigne « Exploitation horticole d'Antibes ». **Pilier `environnement`, règles 15 et 210** : ce SIRET est engagé chez Ecocert depuis décembre 2012 et le registre déclare à la fois les cultures (légumes, plants potagers, agrumes, figues, avocats) et le commerce de détail de fruits et légumes frais. **Horaires, règle 136** : le campus publie un seul créneau, le retrait des paniers le jeudi après-midi, et aucune heure d'ouverture du magasin ; le site propre du magasin est suspendu chez son hébergeur, et les heures que donnent des annuaires tiers ne sont pas reprises. **Téléphone, règle 189** : le standard du lycée, seul numéro que publie le campus. **Photo** : la serre et les tables de vente de plantes que le campus attache à son bloc « Exploitation – Magasin Jardins Vert d'Azur », 721 × 1 080, non agrandie, personne dans le cadre ; le nom de fichier d'origine porte celui d'un photographe, il n'est repris nulle part.)
+- **Nérolium – écomusée et boutique de Golfe-Juan** (Vallauris) (écomusée de l'ancienne distillerie de néroli et boutique des produits du bigaradier, catégorie `producteur` par la règle 8. **Élargissement à l'agglomération, règle 96** : trois fiches de la passe sont dans Antibes, et Golfe-Juan appartient à la Communauté d'agglomération Sophia Antipolis, à 4,2 km du marché provençal. **Registre, règles 6 et 210** : l'établissement du 140 avenue de la Liberté est actif sous l'enseigne Nérolium ; la coopérative agricole historique est close au registre, ce que la description dit. **Horaires, règles 58 et 172** : la page Contact, modifiée en mars 2025, donne 10h-12h30 le matin ; la page Écomusée, de juin 2024, donne 10h-12h ; la plus récente est publiée et l'autre nommée. **Pas de pilier `environnement`, règle 210, née ici.** **Point** : numéro 140 à la Base Adresse Nationale, score 0,975. **Produits** : les rubriques de la boutique en ligne de la maison. **Photo** : les alambics de l'écomusée, publiés par la maison, 1 920 × 2 560 recadrés sur la bande centrale puis ramenés à 1 280 × 867, personne dans le cadre.)
+- **Marché de la place Paul-Isnard** (Vallauris) (marché de fruits et légumes du centre de Vallauris, catégorie et piliers des marchés. **Élargissement, règle 96** : même agglomération, à 6,0 km du marché provençal d'Antibes. **Jours, règle 176** : la Ville écrit « tous les matins sauf lundi et mercredi », l'office de tourisme « samedi et dimanche matin » ; la commune est publiée, l'office est nommé, et aucune heure n'existe, règle 9. **Produits, règle 92** : les deux sources ne disent que « fruits et légumes » et « marché provençal » ; `produits` s'arrête à une entrée. **Point, règle 64** : la Base Adresse Nationale ignore la place Paul Isnard ; le point est celui que l'office de tourisme publie pour L'Homme au Mouton, qui se dresse « sur la place du marché » — 43,5794 / 7,052627, distinct au mètre près de ceux qu'il donne à l'église et au musée voisins (règle 146) ; contrôle inverse à 5 m du 7 rue Clément Bel. **Photo, règles 46 et 185** : la photographie du marché publiée par la Ville en tête de sa page, 1 772 × 1 178, recadrée sur son tiers haut, 1 280 × 405 — il reste les parasols des étals, les façades, les platanes et le haut de la statue ; toutes les personnes et une cagette marquée d'un nom sont sous la coupe.)
 - **Halles Beaux-Arts** (Besançon) (le marché couvert municipal du centre historique ; catégorie et piliers des marchés municipaux, sans `environnement` : aucune source ne classe les halles comme biologiques, un seul étal de légumes s'y dit bio. **Horaires, trois publications concordantes** : la page « Les marchés » de Grand Besançon Métropole, service rendu avec la Ville, modifiée en juillet 2026 ; le jeu de données ouvert « Marchés alimentaires » de la même collectivité ; le guide « Foires et marchés » de l'office de tourisme, régénéré le 20 septembre 2026 — mardi à jeudi 7h-14h, vendredi et samedi 7h-18h30, dimanche 8h-13h. **Produits** : la fiche que l'office consacre à l'association des commerçants, qui décompte dix-huit commerçants et les range par métier ; les noms de personnes qui y figurent ne sont repris nulle part. **Adresse et point, règle 37** : la Ville et le guide de l'office écrivent « 2 rue Claude Goudimel », la fiche de l'association « 6 rue Claude Goudimel » ; la Base Adresse Nationale ignore le 2 et connaît le 6, score 0,964, contrôle inverse à 0 m et à 21 m du centroïde de la rue : l'adresse publiée est celle de la Ville, le point celui du 6. **Téléphone** : aucun ; le numéro du guide est le standard de la mairie et la page de la collectivité renvoie au service de la tranquillité publique, pas aux halles. **Photo** : l'image d'en-tête de l'appel à candidatures de la Ville de juillet 2026, 2 000 × 700 recadrée à 1 280 × 700 pour écarter un client de profil au bord droit ; il reste des silhouettes de dos, floues, et les décorations des fêtes, ce que la fiche dit.)
 - **Marché bio de Tarragnoz** (Besançon) (marché de producteurs du mardi soir, place du Maréchal de Lattre de Tassigny ; catégorie et piliers des marchés, **sans `environnement`, règles 45, 68 et 121** : l'organisateur est une association de quartier qui n'est pas elle-même un opérateur certifié et ne publie aucune liste d'exposants, la collectivité ne classe pas ce marché comme biologique — son jeu de données l'appelle seulement « Marché Tarragnoz ». La description attribue la mention « 100 % bio » à l'association. **Horaires, règle 179** : l'affiche 2026 de l'association, que l'office de tourisme publie sur ses deux fiches, donne « du 17 mars au 15 décembre 2026, tous les mardis, 17h à 19h30 » ; la page de Grand Besançon Métropole et son jeu de données ouvert donnent 17h-20h, d'avril à décembre — la version de l'organisateur est publiée, l'autre est nommée dans `horaires`. **Produits** : la description de l'office sur la fiche de l'association, rien de plus. **Point, règle 12** : centroïde de la place à la Base Adresse Nationale, sans numéro, cas normal d'une place. **`site_web`** : aucun, l'association n'a pas de site et la fiche de l'office n'en tient pas lieu. **Photo** : la vue du marché au crépuscule publiée par l'office sur la fiche de l'association, 4 032 × 3 024, **recadrée au tiers haut, 1 280 × 413** — il ne reste que l'immeuble, les arbres et le haut des barnums ; tous les clients et exposants sont sous la coupe.)
 - **Biocoop La Canopée Mouillère** (Besançon) (magasin biologique de l'allée de l'Île aux Moineaux, catégorie `magasin-bio` et règle 3. **Registre des entreprises, règle 6** : la société La Canopée est active, quatre établissements ouverts, code 47.29Z ; celui du 3 allée de l'Île aux Moineaux porte l'enseigne « BIOCOOP LA CANOPEE ». **Pilier `environnement`, règle 15** : ce même SIRET est engagé chez Ecocert au registre de l'Agence Bio depuis le 1er décembre 2007, sans date d'arrêt. **Source, règle 149** : le site `lacanopee.biocoop.net`, propre à la société, dont le `robots.txt` n'exclut aucun agent d'IA — le site national du réseau n'a pas été ouvert. **Horaires, téléphone, produits** : la page de ce magasin sur ce site ; les noms de responsables qui y figurent ne sont pas repris. **Point** : 3 allée de l'Île aux Moineaux à la Base Adresse Nationale, score 0,970 ; le point du registre tombe à 17 m. **Photo** : le rayon fruits et légumes publié dans la section de ce magasin, 1 600 × 1 066 ramenés à 1 280, personne dans le cadre.)
@@ -9643,6 +9685,63 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Antibes
+
+Passe du 21 septembre 2026, cinquième de la journée. **Département retenu, règle 41** : les
+Alpes-Maritimes (06), déficit **4,7208** pour 1 128 418 habitants et cinq fiches, toutes niçoises, sur
+une base de 594 fiches. La Réunion arrive devant avec **7,6642** et sort par les règles 93 et 177. La
+passe précédente visait le Doubs, en Bourgogne-Franche-Comté ; les Alpes-Maritimes sont en
+Provence-Alpes-Côte d'Azur, la réserve de la règle 41.c ne joue donc pas. Après la passe, le 06 tombe à
+**−0,1973** avec dix fiches ; en tête ensuite, outre-mer écarté : la **Seine-Saint-Denis** (4,8055),
+l'**Ille-et-Vilaine** (4,7353), la **Côte-d'Or** (4,6919), celle-ci sans aucune fiche, et la
+**Gironde** (4,6855). La prochaine passe ne peut pas viser Provence-Alpes-Côte d'Azur.
+
+**Commune** : Antibes, 77 637 habitants, la plus peuplée du département après Nice, déjà pourvue, et
+sans aucune fiche. Elle rend trois fiches entières, image comprise ; la règle 96 complète le groupe dans
+la Communauté d'agglomération Sophia Antipolis, avec deux fiches à Vallauris Golfe-Juan, à 4,2 et
+6,0 km du marché provençal. Cannes, suivante par population, n'a pas été ouverte : la règle 127 dit de
+s'arrêter à la première commune qui remplit la règle 96.
+
+**Les sources.** La page « Halles & Marchés » de la Ville d'Antibes ; la page des marchés de l'office
+de tourisme d'Antibes Juan-les-Pins ; la page des points de vente directe du comité départemental des
+pêches ; le site du Campus Vert d'Azur ; la page « Marchés et foires » de la Ville de Vallauris Golfe-Juan
+et la page « Marchés et producteurs locaux » de son office de tourisme ; le registre national de
+l'Agence Bio, paginé sur les 1 459 opérateurs du département ; le registre des entreprises ; les sites
+des commerces eux-mêmes. Aucun de ces sites n'exclut d'agent d'IA dans son `robots.txt`.
+
+- **Le marché de producteurs de la Garoupe, non publié, règle 196.** Une association de quartier le
+  tient le troisième dimanche du mois, de 10h à 16h, sur l'esplanade de la Garoupe ; l'office de
+  tourisme et le comité régional du tourisme le publient, la page des marchés de la Ville ne le connaît
+  pas, et l'organisateur ne publie rien lui-même. **Déblocage** : la page communale, ou une publication
+  de l'association qui donne jour, lieu et heures.
+- **L'AMAP Bio Antiboise, non publiée, règle 195.** Son site publie un créneau de livraison le lundi
+  soir près de l'avenue Jules Grec et la liste de ses fournisseurs, mais sa dernière mise à jour date
+  de septembre 2024, et son espace de contrats n'est lisible qu'après connexion. **Déblocage** : une
+  source datée de moins de douze mois qui atteste une distribution en cours. Sa page des producteurs
+  nomme chaque exploitant : aucun nom n'est repris.
+- **Les étals de vente directe des pêcheurs, non publiés, règle 211, née ici** : quai des pêcheurs,
+  rue de la République de septembre à mai, et port du Crouton à Juan-les-Pins.
+- **La Vie Claire, avenue Robert Soleau, non publiée faute de place.** Instruite : magasin engagé chez
+  Bureau Veritas au registre de l'Agence Bio depuis novembre 2025, horaires publiés sur la page du
+  magasin du réseau ; mais cette page ne porte qu'une image générique de l'enseigne, et la règle 167
+  préférait une catégorie que la passe n'avait pas. Reprenable au prochain passage.
+- **Le marché mixte de la Fontonne, non publié, règles 119 et 197.** La Ville y réunit le mercredi des
+  brocanteurs, des forains et « des stands de produits alimentaires » sans en nommer un seul ; les
+  marchés forains de la place De Gaulle, du boulevard Albert-Ier, du pont Dulys et de l'esplanade
+  Championnet sont décrits par la Ville comme des marchés de vêtements et d'accessoires.
+- **Le registre de l'Agence Bio, peu productif en ville.** Soixante-douze opérateurs déclarent
+  une adresse à Antibes : une vingtaine de supermarchés certifiés, des grossistes, des restaurants, des
+  préparateurs, et plusieurs entreprises individuelles inscrites sous un patronyme, qui ne sont pas
+  reprises ; deux exploitations à vente aux particuliers n'ont ni enseigne ni horaire publiés.
+- **Vallauris Golfe-Juan, un étal de pêche et deux exploitations, écartés pour doute sur des
+  personnes.** L'office de tourisme ne les présente que par des noms de personnes et des numéros de
+  portable ; ces pistes ne se rouvrent pas.
+- **Vallauris Golfe-Juan, le marché de la place Aimé-Berger, non publié faute de place.** La Ville
+  l'intitule « fruits et légumes / forain », le mardi et le vendredi matin ; la règle 167 a donné la
+  place au marché de la place Paul-Isnard, seul des deux à avoir une photographie exploitable. Le
+  magasin du Nérolium au centre de Vallauris est une jardinerie de réseau, rayon terroir compris : il
+  n'est pas repris, la boutique de Golfe-Juan suffisant à la maison.
 
 ### Pistes non publiées à Besançon
 

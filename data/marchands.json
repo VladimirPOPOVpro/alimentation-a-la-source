@@ -15790,5 +15790,132 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grange%20M%C3%A9lot%2025620%20La%20Chevillotte",
     "image_url": "/images/marchands/la-grange-melot-la-chevillotte.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-cours-massena-antibes",
+    "nom": "Marché provençal du cours Masséna",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.5807,
+    "lon": 7.12746,
+    "adresse": "Cours Masséna, 06600 Antibes",
+    "horaires": "Tous les matins de 7h30 à 13h, fermé le lundi du 1er septembre au 31 mai ; du 1er juin au 31 août, ouvert aussi le lundi et jusqu'à 13h45. Horaires de la page « Halles & Marchés » de la Ville, repris à l'identique par l'office de tourisme. L'après-midi, la même halle accueille un marché de fleuristes et d'artisans créateurs, qui n'est pas alimentaire.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Fromages et charcuteries de montagne",
+      "Poisson de la pêche locale",
+      "Épices et spécialités régionales",
+      "Produits corses",
+      "Fleurs coupées et séchées"
+    ],
+    "description": "Le marché alimentaire quotidien du Vieil Antibes, sous la halle métallique du cours Masséna, géré en régie par la Ville, qui y distingue des emplacements de producteurs et de revendeurs. Le comité départemental des pêches des Alpes-Maritimes le compte parmi les points de vente directe des pêcheurs, selon la pêche du jour.",
+    "site_web": "https://www.antibes-juanlespins.com/ma-ville/commerces-et-entreprises/occupation-du-domaine-public/halles-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20proven%C3%A7al%20cours%20Mass%C3%A9na%20Antibes",
+    "image_url": "/images/marchands/marche-provencal-cours-massena-antibes.jpg"
+  },
+  {
+    "slug": "biocoop-pin-parasol-antibes",
+    "nom": "Biocoop Pin Parasol",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.602528,
+    "lon": 7.087369,
+    "adresse": "2685 chemin de Saint-Claude, centre commercial La Jacotte, 06600 Antibes",
+    "horaires": "Du lundi au samedi de 9h à 19h30. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio, de saison et locaux en priorité",
+      "Fromages à la coupe, dont des fermes des environs",
+      "Pains de boulangers locaux",
+      "Traiteur d'un artisan de Vence",
+      "Vrac : pâtes, fruits secs, café en grain moulu sur place",
+      "Vins bio et bières locales"
+    ],
+    "description": "Magasin du réseau Biocoop ouvert en 2021 dans le centre commercial La Jacotte, entre les enseignes Ubaldi et SoCoo'c ; arrêt de bus Chapelle des Combes. La société qui l'exploite est active au registre des entreprises et cet établissement est engagé chez Ecocert au registre national de l'Agence Bio depuis octobre 2023. Le magasin tient sur son site une page de ses producteurs locaux, dont une bergerie de l'arrière-pays et un apiculteur de la vallée du Var.",
+    "telephone": "04 97 15 21 27",
+    "site_web": "https://www.biocoop-pinparasol.fr/presentation-detaillee",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Pin%20Parasol%202685%20chemin%20de%20Saint-Claude%20Antibes",
+    "image_url": "/images/marchands/biocoop-pin-parasol-antibes.jpg"
+  },
+  {
+    "slug": "jardins-vert-d-azur-campus-antibes",
+    "nom": "Jardins Vert d'Azur – exploitation du Campus Vert d'Azur",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.598201,
+    "lon": 7.113254,
+    "adresse": "1285 avenue Jules Grec, 06600 Antibes",
+    "horaires": "Paniers de fruits et légumes bio à retirer au magasin le jeudi après-midi (gardés au frais jusqu'au samedi), sur commande en ligne ouverte du vendredi après-midi au mercredi soir. Le magasin de l'exploitation existe mais le campus n'en publie pas les horaires d'ouverture : téléphoner avant de venir.",
+    "produits": [
+      "Paniers de fruits et légumes bio de saison",
+      "Légumes bio de l'exploitation",
+      "Plants potagers",
+      "Plantes en pots et pépinière"
+    ],
+    "description": "L'exploitation horticole et agricole du lycée agricole public d'Antibes, trois hectares en plein cœur de la ville, avec pépinière, maraîchage bio et un magasin de vente. Elle est engagée chez Ecocert au registre de l'Agence Bio depuis décembre 2012, vente au détail comprise ; les paniers hebdomadaires, à 12,80 € ou 24,50 €, mêlent ses récoltes à celles de producteurs locaux dont la certification n'a pas été vérifiée ici. Arrêt de bus « Lycée Horticole ».",
+    "telephone": "04 92 91 44 44",
+    "site_web": "https://www.campusvertdazur.fr/panier-bio",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Campus%20Vert%20d'Azur%201285%20avenue%20Jules%20Grec%20Antibes",
+    "image_url": "/images/marchands/jardins-vert-d-azur-campus-antibes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "nerolium-ecomusee-boutique-golfe-juan",
+    "nom": "Nérolium – écomusée et boutique de Golfe-Juan",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.569411,
+    "lon": 7.077814,
+    "adresse": "140 avenue de la Liberté, Golfe-Juan, 06220 Vallauris",
+    "horaires": "De mai à septembre, du mardi au samedi et les jours fériés de 10h à 12h30 et de 14h à 18h ; d'octobre à avril, du mardi au samedi de 10h à 12h30 et de 14h à 17h. Fermé le dimanche et le lundi. Heures de la page Contact du site, la plus récente ; la page Écomusée du même site donne une fermeture à 12h le matin.",
+    "produits": [
+      "Eau distillée de fleurs d'oranger, dont une version bio",
+      "Confitures d'oranges amères, de citrons et de pamplemousses",
+      "Sirops d'oranges bigarades et de citrons",
+      "Apéritif La Bigarade",
+      "Eau distillée de roses centifolia"
+    ],
+    "description": "Le Nérolium cultive le bigaradier, l'oranger amer dont la fleur donne le néroli, autour de Vallauris Golfe-Juan depuis 1904. Dans son ancienne distillerie de Golfe-Juan, un écomusée en entrée libre montre les alambics du XIXe siècle et une boutique vend les eaux de fleurs, confitures et sirops de la maison. La société qui exploite la boutique est active au registre des entreprises à cette adresse, sous l'enseigne Nérolium, et cet établissement est engagé chez Ecocert depuis août 2026 ; la coopérative agricole historique, elle, est close au registre.",
+    "telephone": "04 93 63 74 29",
+    "site_web": "https://nerolium.fr/ecomusee/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=N%C3%A9rolium%20140%20avenue%20de%20la%20Libert%C3%A9%20Golfe-Juan",
+    "image_url": "/images/marchands/nerolium-ecomusee-boutique-golfe-juan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-paul-isnard-vallauris",
+    "nom": "Marché de la place Paul-Isnard",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.5794,
+    "lon": 7.052627,
+    "adresse": "Place Paul Isnard, dite de l'Homme au Mouton, 06220 Vallauris",
+    "horaires": "Le matin, tous les jours sauf le lundi et le mercredi, selon la page « Marchés et foires » de la Ville ; aucune heure n'est publiée. L'office de tourisme ne l'annonce que le samedi et le dimanche matin.",
+    "produits": [
+      "Fruits et légumes"
+    ],
+    "description": "Le marché de fruits et légumes du centre de Vallauris, sur la place où se dresse L'Homme au Mouton, la sculpture de Picasso. La Ville le range sous l'intitulé « Marché fruits et légumes » et l'office de tourisme sous celui de « marché provençal » ; aucune des deux sources ne détaille davantage les étals.",
+    "site_web": "https://www.vallauris-golfe-juan.fr/20705-marches-et-foires.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Paul%20Isnard%20Vallauris",
+    "image_url": "/images/marchands/marche-place-paul-isnard-vallauris.jpg",
+    "a_confirmer": true
   }
 ]
