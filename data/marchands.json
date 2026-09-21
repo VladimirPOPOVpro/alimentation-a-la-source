@@ -16448,5 +16448,143 @@
     "site_web": "https://www.paincaramel.com/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8%20place%20Barbe%2C%2021000%20Dijon",
     "image_url": "/images/marchands/pain-caramel-dijon.jpg"
+  },
+  {
+    "slug": "biocoop-asnieres",
+    "nom": "Biocoop Asnières",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.911106,
+    "lon": 2.292441,
+    "adresse": "17 rue Pierre Brossolette, 92600 Asnières-sur-Seine",
+    "horaires": "Le lundi de 12h à 20h, du mardi au samedi de 10h à 20h ; fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Asperges d'une aspergeraie de Fleurines (Oise)",
+      "Légumes frais d'un maraîcher de Montesson (Yvelines)",
+      "Produits de la Coopérative Bio d'Île-de-France",
+      "Pains de La Caravane des Pains (Épône)",
+      "Fromages et plats préparés au rayon traiteur",
+      "Vrac : graines, céréales, huile d'olive, miel, thé",
+      "Vins"
+    ],
+    "description": "Magasin du réseau Biocoop ouvert en 2014 en plein centre-ville, face à l'église Sainte-Geneviève et à deux pas de la mairie. Il met en avant cinq fournisseurs situés à moins de 100 km, dont la Coopérative Bio d'Île-de-France, qui réunit des agriculteurs bio de la région, et fait une large place au vrac. Son certificat bio Ecocert est engagé depuis 2015.",
+    "telephone": "01 47 33 52 98",
+    "site_web": "https://asnieres.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=17%20rue%20Pierre%20Brossolette%2C%2092600%20Asni%C3%A8res-sur-Seine",
+    "image_url": "/images/marchands/biocoop-asnieres.jpg"
+  },
+  {
+    "slug": "marche-des-victoires-asnieres",
+    "nom": "Marché des Victoires",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.910418,
+    "lon": 2.291671,
+    "adresse": "Place des Victoires, 92600 Asnières-sur-Seine",
+    "horaires": "Jeudi et dimanche de 8h à 13h30, vendredi de 16h30 à 20h, selon la page des marchés de la Ville. La fiche du marché dans l'annuaire municipal écrit 16h pour l'ouverture du vendredi.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons",
+      "Viandes",
+      "Fromages",
+      "Spécialités du monde"
+    ],
+    "description": "Marché du centre-ville, place des Victoires, trois fois par semaine, dont une séance en fin de journée le vendredi. La Ville ne publie pas la liste des étals : les produits indiqués sont ceux qu'elle annonce pour l'ensemble de ses six marchés. Sur la même place, la Halle des Victoires est un espace de restauration distinct du marché. La photographie, bandeau de la page « Économie et commerce » de la Ville, montre une halle de marché asniéroise que la Ville ne nomme pas.",
+    "telephone": "01 41 11 16 56",
+    "site_web": "https://asnieres-sur-seine.fr/vivre-a-asnieres/economie-et-commerce/halles-marches-et-commerces-ambulants",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Victoires%2C%2092600%20Asni%C3%A8res-sur-Seine",
+    "image_url": "/images/marchands/marche-des-victoires-asnieres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-quatre-routes-asnieres",
+    "nom": "Marché des Quatre-Routes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.926616,
+    "lon": 2.273662,
+    "adresse": "372 avenue d'Argenteuil, 92600 Asnières-sur-Seine",
+    "horaires": "Jeudi et dimanche de 8h30 à 13h30.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons",
+      "Viandes",
+      "Fromages",
+      "Spécialités du monde"
+    ],
+    "description": "Marché du quartier des Quatre-Routes, dans le nord d'Asnières, à deux pas de la station de tramway Asnières Quatre Routes, deux matinées par semaine. La Ville ne publie pas la liste des étals : les produits indiqués sont ceux qu'elle annonce pour l'ensemble de ses six marchés. La photographie est un détail d'étal tiré du bandeau de la page des marchés de la Ville ; elle ne montre pas ce marché-ci.",
+    "telephone": "01 41 11 16 56",
+    "site_web": "https://asnieres-sur-seine.fr/vivre-a-asnieres/economie-et-commerce/halles-marches-et-commerces-ambulants",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=372%20avenue%20d'Argenteuil%2C%2092600%20Asni%C3%A8res-sur-Seine",
+    "image_url": "/images/marchands/marche-des-quatre-routes-asnieres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-des-agnettes-gennevilliers",
+    "nom": "AMAP des Agnettes – Consomm'acteurs de Gennevilliers",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.921558,
+    "lon": 2.288798,
+    "adresse": "Agrocité, 16 rue des Agnettes, 92230 Gennevilliers",
+    "horaires": "Distribution le mercredi de 18h à 19h30, à l'Agrocité. Paniers réservés aux adhérents (adhésion annuelle), contrats de saison pour les légumes ; commandes ponctuelles ouvertes aux adhérents sans contrat.",
+    "produits": [
+      "Paniers de légumes bio (petit ou grand)",
+      "Pain bio au levain",
+      "Œufs",
+      "Fromage de chèvre",
+      "Champignons",
+      "Poisson, sur commande",
+      "Pommes, viande bio de l'Aveyron et miel, sur commande"
+    ],
+    "description": "Point de distribution du quartier des Agnettes de l'association Consomm'acteurs, qui tient quatre AMAP à Gennevilliers, commune voisine d'Asnières-sur-Seine. Les légumes viennent d'un maraîcher du pays de Bray, dans l'Oise, certifié bio au registre de l'Agence Bio. La distribution se tient à l'Agrocité, jardin partagé et tiers-lieu d'agriculture urbaine de la Ville, que montre la photographie.",
+    "site_web": "https://amap-consommacteurs-gennevilliers.org/amap/amap-agnettes",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=16%20rue%20des%20Agnettes%2C%2092230%20Gennevilliers",
+    "image_url": "/images/marchands/amap-des-agnettes-gennevilliers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-du-poete-colombes",
+    "nom": "AMAP du Poète",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.911556,
+    "lon": 2.235141,
+    "adresse": "C2Mains, 21 rue Cugnet, 92700 Colombes",
+    "horaires": "Distribution le mercredi de 18h à 19h30 environ (entrée par le 21 rue Cugnet), sauf pendant trois pauses annuelles : une semaine fin avril, les deux dernières semaines de décembre et tout le mois d'août. Paniers réservés aux adhérents, sur engagement d'un an.",
+    "produits": [
+      "Paniers de légumes de saison (petit ou grand)",
+      "Œufs",
+      "Pain",
+      "Yaourts",
+      "Fromages, viandes et boissons en commande mensuelle"
+    ],
+    "description": "AMAP de Colombes en partenariat avec le Collectif Percheron, créé en 2009 à l'initiative de la Confédération paysanne de l'Orne, qui réunit une trentaine de fermes et d'artisans du Perche. Le collectif annonce ses producteurs labellisés bio ou en conversion, mais la certification du maraîcher qui compose les paniers est arrêtée au registre de l'Agence Bio, d'où l'absence du pilier environnement. La photographie, publiée par l'AMAP, montre des paniers préparés pour une distribution.",
+    "site_web": "https://www.amapdupoete.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20rue%20Cugnet%2C%2092700%20Colombes",
+    "image_url": "/images/marchands/amap-du-poete-colombes.jpg",
+    "a_confirmer": true
   }
 ]

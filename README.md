@@ -2863,9 +2863,31 @@ prioritaires en cas de conflit.
      travail, pour le jour où le calcul de la règle 41 visera sa propre commune. Ici la cinquième
      place a été trouvée dans Dijon même, et la passe n'a pas eu à élargir.
 
+220. **Quand l'annuaire d'une commune garde des marchés que sa page des marchés ne cite plus, c'est la page
+     des marchés qui donne l'horaire, et l'annuaire est cité dans la fiche.** La Ville d'Asnières-sur-Seine
+     publie ses marchés deux fois : sa page « Halles, marchés et commerces ambulants » en annonce six, et son
+     annuaire des services en garde sept fiches. Les deux listes ne se recouvrent pas : l'annuaire conserve un
+     marché Flachat, rue Henri-Martin, là où la page décrit désormais la Halle Flachat, lieu de restauration
+     ouvert jusqu'à minuit, et un marché de la place de la République qu'elle ne cite plus ; la page, elle,
+     ajoute un marché place Beltrame que l'annuaire ignore. Sur les marchés communs, les heures divergent d'une
+     demi-heure (Victoires, Mourinoux, Bretagne) à une heure (Bords de Seine). Aucune des deux publications
+     n'est datée, et aucune source indépendante ne tranche : la règle 55 ferait publier les deux valeurs à
+     égalité. **Critère** : une liste qui décrit encore un lieu devenu autre chose est la plus ancienne des
+     deux ; à autorité égale, c'est donc la page des marchés qui donne l'horaire, et la valeur de l'annuaire
+     est citée dans le champ `horaires`, comme le veut la règle 172, la fiche restant `a_confirmer`. Un
+     marché que seule la page cite (Beltrame) reste régi par la règle 178, un marché que seul l'annuaire
+     garde (Flachat, République) par la règle 163 : ni l'un ni l'autre n'est publié. Ici, le marché des
+     Quatre-Routes, seul dont les deux publications concordent au quart d'heure près, est publié avec un
+     seul horaire.
+
 ## Marchands à confirmer
 
-567 fiches sur 619 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+571 fiches sur 624 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Biocoop Asnières** (Asnières-sur-Seine) (magasin du réseau Biocoop, `magasin-bio` comme les autres magasins du réseau. **Source, règles 145 et 149** : le site du magasin, `asnieres.biocoop.net`, dont le `robots.txt` n'exclut aucun agent d'IA ; `biocoop.fr`, qui exclut `CCBot` et `Bytespider`, n'a pas été consulté. **Registre, règle 6** : société active, un établissement ouvert au 17 rue Pierre Brossolette, code 47.29Z. **Pilier `environnement`, règle 15** : certificat Ecocert engagé depuis juillet 2015 au registre de l'Agence Bio. **Circuit court, règle 86** : la page « Producteurs locaux » nomme cinq fournisseurs à moins de 100 km, tous sous une enseigne non patronymique. **Horaires** : les données structurées du site et la page « Présentation détaillée » concordent. **Point** : numéro exact (0,97), à 7 m du point de l'Agence Bio, à 95 m du marché des Victoires (règle 12). **Photo** : l'entrée du magasin publiée sur son site, 2 362 px ramenés à 1 280, personne dans le cadre ; la photographie d'équipe n'a pas servi. Les prénoms et noms de l'équipe et de la responsable, que le site publie, ne sont pas repris. Fiche non marquée `a_confirmer`.)
+- **Marché des Victoires** (Asnières-sur-Seine) (marché municipal, catégorie et piliers des marchés. **Horaires, règle 220, née ici** : la page des marchés de la Ville (jeudi et dimanche 8h-13h30, vendredi 16h30-20h) ; l'annuaire municipal écrit 16h pour le vendredi, la fiche le dit. **Produits, règle 103** : les mots de la Ville pour l'ensemble de ses six marchés, la fiche le dit. **Point** : la Base Adresse Nationale ne connaît que la place (0,97) ; le point de la place tombe à 13 m de celui que la Géoplateforme de l'IGN donne à la « Halle Gourmande des Victoires », classée marché. **Téléphone, règle 189** : le service commerce de la Ville, seul contact publié. **Photo, règles 164 et 208** : le bandeau de la page « Économie et commerce » de la Ville, une halle de marché vue d'en haut que la Ville ne nomme pas, recadré sur la charpente et les allées lointaines au-dessus de toute tête reconnaissable, 1 280 × 420 ; la fiche dit que la Ville ne nomme pas cette halle.)
+- **Marché des Quatre-Routes** (Asnières-sur-Seine) (marché municipal, catégorie et piliers des marchés. **Horaires** : la page des marchés et l'annuaire de la Ville concordent, jeudi et dimanche 8h30-13h30 (règle 220). **Répétition, règle 168** : ses jours recoupent ceux du marché des Victoires, mais aucune candidate d'une autre catégorie, également vérifiée et illustrable, ne restait à Asnières ; il passe devant les marchés du mercredi et du samedi parce que c'est le seul dont les deux publications de la Ville concordent et dont l'adresse est numérotée. **Point** : numéro exact (0,98), à 100 m de la station de tramway Asnières Quatre Routes de la Géoplateforme. **Produits, règle 103** : les mots de la Ville pour ses six marchés. **Photo, règles 1 et 203** : un détail d'étal (cageots de légumes et de fruits) tiré du bandeau de la page des marchés de la Ville, fichier distinct de celui du marché des Victoires, recadré à 760 × 330 sans visage — une tête vue de dos, une autre coupée au bord — ; photographie thématique qui ne montre pas ce marché, la fiche le dit.)
+- **AMAP des Agnettes – Consomm'acteurs de Gennevilliers** (Gennevilliers) (**Élargissement, règle 96** : Asnières rend trois fiches illustrables ; celle-ci est dans Gennevilliers, commune limitrophe de la même intercommunalité au champ `epci` de `geo.api.gouv.fr` (règle 219), à 1,3 km du marché des Victoires ; la description le dit. **Distribution en cours, règle 195** : le site de l'association, tenu à jour en septembre 2026, publie le calendrier des distributions « Agnettes » jusqu'en septembre 2027 et donne rendez-vous « à l'Amap des Agnettes de 18h à 19h30 » le mercredi 23 septembre ; l'annuaire du réseau AMAP d'Île-de-France situe ce point à l'Agrocité, 16 rue des Agnettes, le mercredi de 18h à 19h30. **Pilier `environnement`, règles 60 et 209** : le maraîcher du pays de Bray qui fournit les légumes est engagé au registre de l'Agence Bio ; il exerce en nom propre et n'est pas nommé. **Point, règle 169** : la Base Adresse Nationale ignore le 16 (0,81, axe de la rue) ; le point est celui que l'annuaire de la Ville de Gennevilliers donne à l'Agrocité, équipement municipal, à 54 m du 20 et à 85 m du 18 de la même rue. **Photo, règle 59** : l'Agrocité, bâtiment et parcelles, publiée par la Ville sur sa page, 636 × 477, sous le seuil de 700 px mais au-dessus du plancher de 600, aucune photographie plus large du lieu n'existant ; les silhouettes y sont lointaines. **Téléphone** : les seuls numéros publiés sont des portables, ils ne sont pas repris. Les prénoms et noms des producteurs, des référents et des membres du bureau, que le site et l'annuaire publient, ne sont pas repris.)
+- **AMAP du Poète** (Colombes) (**Élargissement, règle 96** : Colombes est limitrophe d'Asnières, dans la même intercommunalité (règle 219), à 4,1 km du marché des Victoires ; la description situe l'AMAP à Colombes. **Distribution en cours, règle 195** : le site de l'AMAP publie les tarifs 2025-2026 et un calendrier qui date la pause du 22 au 29 avril 2026. **Horaires, règle 104** : ceux du site de l'AMAP, mercredi 18h-19h30 ; l'annuaire du réseau AMAP d'Île-de-France écrit 16h-20h le mercredi et ajoute un samedi matin par mois, que le site de l'AMAP ne mentionne pas : ni l'un ni l'autre n'est repris. **Pas de pilier `environnement`, règle 71** : le maraîcher du Collectif Percheron qui compose les paniers a un certificat arrêté au registre de l'Agence Bio ; il exerce en nom propre et n'est pas nommé. **Point** : numéro exact à la Base Adresse Nationale (0,97). **Photo** : des paniers préparés, publiés par l'AMAP sur sa page d'accueil, 800 × 600, personne dans le cadre ; le portrait du maraîcher n'a pas servi. Les noms des producteurs, que le site publie, ne sont pas repris.)
 - **Halles et marché central de Dijon** (Dijon) (marché municipal, catégorie et piliers des marchés, sans `environnement` : aucune autorité ne le classe comme biologique. **Jours, heures et emprise** : la page « Commerce et artisanat » de la Ville, mise à jour le 21 janvier 2026 — mardi, jeudi, vendredi et samedi de 7h à 13h, halles et rues voisines nommées une à une, refuge Odebert le samedi après-midi ; l'actualité du 29 avril 2026 sur les jours fériés confirme le fonctionnement. **Point, règles 146 et 169** : le marqueur de l'office de tourisme (47,3220434 / 5,0408203) se retourne sur la rue des Forges et sert à l'identique à d'autres fiches de l'office, il n'est pas repris ; le point publié est celui que le registre de l'Agence Bio donne au stand d'une ferme bio « sous les halles », à 35 m du 16 rue Odebert, à l'intérieur du quadrilatère Bannelier–Odebert–Ramey–Quentin. **Produits, règle 103** : les mots de la Ville pour ses marchés et ceux de l'office pour les Halles (gougères, jambon persillé) ; le stand bio est celui du registre, dont l'exploitation n'est pas nommée. **Téléphone** : la page ne donne que le guichet unique des commerçants, qui ne s'adresse pas à la clientèle ; champ vide. **Photo** : la photographie que l'office attache aux Halles, recadrée sur la charpente et les bannières au-dessus de la ligne des têtes, 1 600 px ramenés à 1 280 × 448. Le nom de l'ingénieur, les photographes crédités et les commerçants cités par l'office ne sont pas repris. Fiche non marquée `a_confirmer`.)
 - **Épicerie Locavore des Bourroches** (Dijon) (épicerie qui revend la production d'autrui, `magasin-bio` au titre de la règle 4. **Registre, règle 6** : société active, un établissement ouvert au 34 boulevard Eugène Fyot, code 47.29Z. **Pilier `environnement`, règles 15 et 210** : certificat Ecocert engagé depuis juin 2013 sur l'établissement, avec cinq productions de commerce de détail déclarées (fruits et légumes, boulangerie, confiserie, produits laitiers, épicerie). **Horaires, règle 104** : la page « Contactez-nous » et l'actualité « Nouveaux horaires à partir du 1er septembre » concordent — du mardi au vendredi, fermée le samedi ; plusieurs annuaires tiers donnent encore le samedi matin, la fiche le dit. **Produits et description** : le site de l'épicerie et la fiche qu'elle a rédigée pour Bourgogne Tourisme ; les deux rayons de distance (100 km sur la fiche, 200 km sur le site) ne sont pas repris, la fiche dit « de la région ». **Point** : numéro exact (0,98), à 7 m du point de l'Agence Bio. **Photo, règle 1** : le panier de produits que l'épicerie publie sur sa fiche Bourgogne Tourisme, 1 014 × 761, personne dans le cadre, d'où `a_confirmer` ; la photographie intérieure du magasin montre la commerçante en portrait et n'a pas servi, les vignettes du site font au plus 320 px. Le prénom que porte l'adresse de courriel n'est pas repris.)
 - **AMAP Les Jardins de Virgile** (Dijon) (**Distribution en cours, règles 195 et 218, née ici** : affiche du marché de producteurs bio du samedi 26 septembre 2026 au centre social, déposée le 29 août 2026. **Jour, heure et lieu** : samedi de 8h30 à 9h30 au centre social des Bourroches — la page d'accueil de l'AMAP et la page « Amap » de la MJC-centre social concordent. **Numéro de voirie, règle 98** : le 71 rue de la Corvée des deux pages est retenu ; l'affiche écrit 77, à 80 m sur la même rue, cité ici. **Pilier `environnement`, règles 60 et 209** : le maraîcher d'Auxonne qui fournit les légumes se retrouve au registre de l'Agence Bio par l'adresse que publie l'AMAP, route de Rainans, engagement sans date d'arrêt sur légumes frais ; il n'est pas nommé. **Photo** : la serre de ce maraîcher, publiée par l'AMAP, recadrée à droite hors de la personne penchée au premier plan (visage non visible), 708 × 430, non agrandie ; la description dit qu'elle ne montre pas le lieu de distribution, d'où `a_confirmer`. Les photographies de distribution, pleines de visages, n'ont pas servi. Les noms et prénoms des producteurs, que le site publie un à un, ne sont pas repris.)
@@ -9803,6 +9825,72 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Asnières-sur-Seine
+
+Passe du 21 septembre 2026, dixième de la journée. **Département retenu, règle 41** : les
+Hauts-de-Seine (92), déficit **4,8546** pour 1 654 712 habitants et dix fiches, sur une base de 619
+fiches. La Réunion arrive devant avec **7,9868** et sort par les règles 93 et 177. La passe précédente
+visait la Côte-d'Or, en Bourgogne-Franche-Comté ; les Hauts-de-Seine sont en Île-de-France, la réserve
+de la règle 41.c ne joue pas. Après la passe, sur 624 fiches, le 92 tombe à **−0,0254** ; en tête
+ensuite, outre-mer écarté : la **Drôme** (4,7439), l'**Aisne** (4,7361), la **Moselle** (4,5140) et la
+**Manche** (4,5024). La prochaine passe ne peut pas viser l'Île-de-France.
+
+**Commune** : Asnières-sur-Seine, 93 941 habitants, la plus peuplée du département sans aucune fiche
+après Boulogne-Billancourt et Nanterre. **Elle rend les faits mais pas les images** : la Ville publie
+jours, heures et lieux de six marchés, sans une photographie qui leur soit attribuée ; ses seules images
+de marché sont trois bandeaux de pages, deux photographies d'une même halle couverte, bondée, et une vue
+d'architecte. Trois fiches asniéroises sont publiables image comprise. **Élargissement, règles 96 et
+127** : deux AMAP des communes limitrophes de la Boucle Nord de Seine, à Gennevilliers (1,3 km du marché
+des Victoires) et à Colombes (4,1 km) ; `geo.api.gouv.fr` rattache les trois communes à la Métropole du
+Grand Paris (règle 219).
+
+**Les sources.** La page « Halles, marchés et commerces ambulants » de la Ville d'Asnières et les fiches
+de son annuaire des services (règle 220) ; le site du magasin Biocoop ; l'annuaire du réseau AMAP
+d'Île-de-France, interrogé par `POST` avec `departement=92` ; les sites de l'association Consomm'acteurs
+de Gennevilliers et de l'AMAP du Poète ; la page « Agrocité » et la page « Mes commerçants » de la Ville
+de Gennevilliers ; la Géoplateforme de l'IGN pour les points d'intérêt ; le registre de l'Agence Bio,
+paginé sur les 1 073 opérateurs du département ; le registre des entreprises ; la Base Adresse
+Nationale. Aucun de ces sites n'exclut d'agent d'IA dans son `robots.txt` ; celui de l'AMAP Chez Nous
+impose dix secondes entre deux requêtes, et elles ont été espacées d'autant. L'API Overpass n'a rien
+rendu depuis cet environnement.
+
+- **Marchés des Mourinoux et de Bretagne** (mercredi et samedi matin) : faits vérifiés, heures
+  divergentes d'une demi-heure le mercredi (règle 220). Aucune image utilisable : les deux photographies
+  de halle de la Ville servent déjà aux deux marchés publiés (règle 203), et le troisième recadrage
+  possible du bandeau des marchés, sans visage, fait 1 000 × 200. **Déblocage** : une photographie de ces
+  marchés, ou une autre photographie de marché publiée par la Ville.
+- **Marché des Bords de Seine** (avenue des Grésillons et rue Olympe-de-Gouges ; mercredi 8h-18h et
+  samedi 8h30-13h30 selon la page des marchés, mercredi 8h30-19h et samedi 8h-13h30 selon l'annuaire) :
+  le seul marché asniérois de l'après-midi. Même absence d'image, et **point non établi** : la Base
+  Adresse Nationale ne donne que des numéros épars sur les deux voies, dont les centroïdes sont à 800 m
+  l'un de l'autre, et ne connaît pas leur carrefour ; la Géoplateforme n'y connaît aucun marché. Ne pas
+  confondre avec le marché couvert des Grésillons, à Gennevilliers, au 41 de la même avenue.
+- **Marché de la place Beltrame** (samedi 8h30-13h30) : cité par la seule page des marchés, absent de
+  l'annuaire (règles 178 et 220).
+- **Marchés Flachat et République** : gardés par le seul annuaire municipal ; la page des marchés décrit
+  à leur place la Halle Flachat, lieu de restauration (règles 163 et 220). **Halles des Victoires et
+  Flachat** : restaurants et comptoirs de traiteurs, hors sujet.
+- **AMAP Chez Nous** (Asnières, mercredi soir dans un café de quartier) : son site ne publie plus rien de
+  daté depuis le calendrier de la saison 2022-2023 (règle 195). **Déblocage** : un calendrier de saison
+  ou une actualité datée. **AMAP Flachat Asnières** : l'annuaire du réseau ne renvoie qu'à une page de
+  réseau social, non consultable ; même déblocage.
+- **Épicerie coopérative de la rue Maurice-Bokanowski** : ouverte aux seuls adhérents, et son site
+  s'arrête à des actualités de 2023 et à un bulletin de souscription 2025. **Boutique associative de la
+  rue Victor-Hugo, à Gennevilliers** : réservée elle aussi aux adhérents ; non instruite, la passe ayant
+  ses cinq fiches.
+- **AMAP du Village**, second point de l'association de Gennevilliers (Ferme de l'Horloge, mercredi
+  18h30-20h, confirmé par le site de l'association) : fiche à part au titre de la règle 175, mais même
+  soir que l'AMAP des Agnettes (règle 168) et aucune photographie du lieu au-delà de 302 px.
+- **Marchés de Gennevilliers** (Village, Grésillons, Agnettes, Luth) : la Ville publie jours, heures et
+  lieux, et une seule photographie d'étal, de 422 px ; sous le plancher de la règle 59.
+- **Le registre de l'Agence Bio à Asnières** : 45 opérateurs, presque tous des supérettes et
+  supermarchés certifiés pour un rayon, des boulangeries, des grossistes et des sièges ; les autres magasins
+  de réseau bio n'ont pas été instruits, la passe ayant ses cinq fiches.
+- **Aucune piste écartée pour doute sur une personne.** Les données personnelles rencontrées ont été
+  laissées de côté sans que les fiches en dépendent : noms, portables et courriels des référents d'AMAP
+  dans l'annuaire du réseau, noms des producteurs sur les sites des deux AMAP, noms de l'équipe du
+  magasin, prénoms de bénévoles sur le site de l'épicerie coopérative.
 
 ### Pistes non publiées à Dijon
 
