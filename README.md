@@ -2790,9 +2790,37 @@ prioritaires en cas de conflit.
      ici les légumes et le pain, pas la liste des producteurs de 2023-2024, faite de noms de
      personnes qui ne sont de toute façon pas repris.
 
+214. **Un fait qu'un site ne sert que par une route que son `robots.txt` exclut n'est pas publié.**
+     L'office de tourisme de Saint-Malo Baie du Mont-Saint-Michel laisse lire ses fiches, mais leur
+     bloc « Voir les horaires » se remplit par un appel à `/api/content/ts/*/sheets`, chemin que son
+     `robots.txt` interdit à tous les robots. La page servie ne contient donc aucun horaire pour la
+     Ferme du Pré Bois, la Poissonnerie de la Roulais ou la Poissonnerie Guinemer ; ni le site de la
+     ferme ni un autre document consultable n'en publie. **Critère** : on ne contourne pas une
+     exclusion partielle du `robots.txt` plus qu'une exclusion totale (règles 77 et 212) ; un fait
+     que seule cette route donnerait est traité comme non publié, et une fiche à qui il ne manque que
+     ses horaires attend (règle 192). **Déblocage** : les horaires sur le site du commerce, ou dans
+     une page de l'office ou de la commune servie sans cette route.
+
+215. **Quand la commune et l'office de tourisme s'accordent sur les jours et le lieu d'un marché,
+     et ne divergent que d'une demi-heure au plus sur ses heures, les deux versions sont publiées.** La Ville
+     de Saint-Malo publie pour ses quatre marchés un seul dépliant, sans date — le fichier est déposé
+     en mars 2024 —, « 8h-12h30 (et jusqu'à 13h en été) » ; l'office de tourisme donne, séance par
+     séance pour 2026, 8h-13h à Saint-Servan et à Paramé, 8h30-13h à l'Intra-Muros. La règle 176
+     ferait primer la commune, la règle 181 lui retire cette primauté faute de date : le fait est
+     contesté. Mais la règle 181 écartait un lieu, dont l'erreur coûte un déplacement ; ici les
+     sources s'accordent sur le jour et sur le lieu, et un visiteur venu entre 8h30 et 12h30 trouve
+     le marché ouvert dans les deux versions. **Critère** : quand deux sources de rang disputé ne
+     divergent que sur l'ouverture ou la fin, de trente minutes au plus, la fiche publie les deux
+     versions attribuées à leur source (règle 5), et reste `a_confirmer`. Un écart plus large, ou
+     une divergence sur le jour ou sur le lieu, reste régi par les règles 138, 176 et 181.
+
 ## Marchands à confirmer
 
-557 fiches sur 604 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+561 fiches sur 609 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Saint-Servan** (Saint-Malo) (marché municipal, catégorie et piliers des marchés, sans `environnement`. **Jours** : mardi et vendredi, identiques au dépliant « Les marchés de Saint-Malo » que la Ville publie sur sa page « Marchés et commerces » et au calendrier 2026 de l'office de tourisme de Saint-Malo Baie du Mont-Saint-Michel. **Heures, règle 215** : la Ville écrit « 8h-12h30 (et jusqu'à 13h en été) » pour tous ses marchés, sur un dépliant sans date déposé en mars 2024 ; l'office donne 8h-13h pour chaque séance de 2026 ; les deux fins sont publiées et attribuées. **Lieu** : la Ville ne nomme que le quartier ; la place Bouvet vient de l'office. Point au centre de la place à la Base Adresse Nationale (0,965), marqueur de l'office à 29 m. **Téléphone, règle 189** : le standard de la mairie, seul numéro de la page des marchés. **Produits, règle 103** : les mots de l'office — légumes, fromages, poissons, fleurs —, l'artisanat restant dans la description. **Photo, règle 203** : l'office n'illustre ce marché que d'une image de banque étrangère ; la photographie retenue est l'une des douze qu'il attache au marché de Paramé — un étal de crabes et d'araignées de mer sous la halle de Paramé, recadré sous la ligne des clients, 1 280 × 453 — et elle ne prétend pas montrer la place Bouvet.)
+- **Marché de Paramé** (Saint-Malo) (même traitement. **Jours** : mercredi et samedi, Ville et office concordants. **Heures, règle 215** : mêmes versions qu'à Saint-Servan. **Lieu** : place Georges Coudray, selon l'office ; Base Adresse Nationale à 0,964, marqueur de l'office à 12 m. **Photo** : l'une des douze photographies que l'office attache à ce marché, des navets et des ardoises de prix sous la charpente de la halle, prise un mercredi, jour de marché (règle 140), 4 608 px réduits à 1 280 × 720, personne dans le cadre. Les photographes crédités ne sont pas nommés.)
+- **Marché Intra-Muros** (Saint-Malo) (même traitement. **Jours** : mardi et vendredi, Ville et office concordants. **Heures, règle 215** : 8h-12h30 (13h en été) pour la Ville, 8h30-13h pour l'office, les deux versions publiées. **Lieu** : la Halle au Blé selon l'office ; la Base Adresse Nationale la connaît comme voie, « Halle aux Blés » (0,715), et le marqueur de l'office tombe à 18 m de son point. **Photo, règle 203** : même situation qu'à Saint-Servan ; la photographie retenue est un autre fichier du jeu de Paramé, un étal de fleurs coupées sous un barnum, recadré sur sa moitié droite pour écarter les passants, 1 280 × 1 440. Elle ne montre pas la Halle au Blé.)
+- **AMAP du Bocage** (Saint-Malo) (**Distribution en cours, règle 195** : le site propre de l'AMAP, vivant — page d'accueil modifiée le 8 février 2026 —, donne la distribution du mercredi de 18h30 à 19h15, salle Théophile-Briant ; une salle provisoire annoncée du 1er janvier au 30 août 2025 est échue. **Pilier `environnement`, règle 209** : l'AMAP publie l'adresse de ses fournisseurs ; à Pleine-Fougères, Meillac, Saint-Broladre et Baguer-Morvan, le registre de l'Agence Bio pour le 35 rend à ces adresses des exploitations engagées chez Ecocert, sans date d'arrêt. Le site nomme les producteurs et les référents : aucun nom n'est repris, ni le portable de contact de l'association (règle 198). **Point** : numéro 2 de l'allée à la Base Adresse Nationale (0,964) ; les coordonnées que l'AMAP publie tombent à 80 m, règle 10. **Photo** : un panier de légumes et de fraises publié par l'AMAP sur son site, 1 024 × 768, personne dans le cadre.)
 - **Marché du centre-ville d'Aubervilliers** (Aubervilliers) (marché municipal délégué à un concessionnaire, catégorie et piliers des marchés, sans `environnement`. **Jours** : la page « Les marchés » de la Ville, mardi, jeudi et samedi « en matinée », et la liste des marchés du comité départemental du tourisme, qui dit « matin ». **Heures, règle 9** : la Ville n'en publie aucune ; les 8h-13h viennent de la fiche de l'office de tourisme de Plaine Commune, qui avertit elle-même « horaires non garantis ». **Téléphone, règle 189** : le Pôle Commerce et Artisanat de la Ville, seul numéro que porte la page des marchés ; le numéro de la fiche de l'office n'est pas repris, règle 201. **Point, règles 26 et 67** : la Base Adresse Nationale ignore la place Rosa-Parks ; le point est celui de la fiche de l'office, contrôlé à 5 m du 16 rue Ferragus, et à 24 m du centroïde que la Base donne à la rue. **Halle** : fermeture provisoire annoncée par la Ville le 14 mars 2024, réouverture le 25 avril 2024, communiqué du 6 mai 2024. **Photo, règle 46** : la photographie que l'office attache à cette fiche, 3 518 × 4 547, recadrée sur sa moitié basse puis ramenée à 1 280 × 778 — il reste la balance et les citrons verts ; les deux commerçants du haut de l'image sont sous la coupe.)
 - **Marché du Montfort** (Aubervilliers) (second marché municipal, même traitement. **Jours** : Ville et comité départemental, mercredi, vendredi et dimanche matin. **Heures, règle 9** : 9h-12h, fiche de l'office de Plaine Commune, « horaires non garantis ». **Téléphone, règle 189** : même numéro que le marché du centre. **Point** : la fiche de l'office, à 45 m du 120 rue Hélène-Cochennec que la Base Adresse Nationale connaît au numéro ; la fiche de l'AMAP Robin des Pois garde ce numéro, règle 12. **Produits, règle 92** : l'office ne dit que « produits locaux et exotiques », la Ville rien ; les fruits et légumes sont lisibles sur les ardoises de la photographie de l'office, règle 74 ; `produits` s'arrête à deux entrées. **Photo** : la photographie de l'office pour cette fiche, 4 895 × 3 268, recadrée à gauche — un vendeur et le haut d'une enseigne portant un prénom sont sous la coupe — puis ramenée à 1 280 × 879.)
 - **Panifixion – miniboulangerie de La Pépinière** (Aubervilliers) (boulangerie artisanale au levain, catégorie `producteur` au titre de la règle 73, comme Debout les Pains à Pantin. **Registre, règle 6** : société active depuis le 10 septembre 2025, établissement ouvert au 62 B rue du Moutier sous l'enseigne « La Pépinière », code 10.71C. **Horaires, règle 172** : la plaquette de la maison, créée le 5 septembre 2025, donnait le mercredi sur commande seulement et la vente sur place le jeudi de 18h à 20h ; la page du fournil sur le site de La Pépinière, modifiée le 14 septembre 2026, et le site de la maison donnent tous deux la vente sur place le mercredi et le jeudi de 17h30 à 20h — c'est la plus récente qui est publiée. **Pas de pilier `environnement`, règle 15** : la maison écrit que tous ses ingrédients sont bio et nomme ses meuniers, mais elle n'est pas au registre de l'Agence Bio. **Point** : numéro 62 à la Base Adresse Nationale, score 0,974. **Photo** : la seule image du site de la maison, des miches sur une claie, 700 × 469, non agrandie, personne dans le cadre. Les noms de personnes que porte la plaquette — fournisseurs et conceptrice du site — ne sont pas repris.)
@@ -9716,6 +9744,66 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Saint-Malo
+
+Passe du 21 septembre 2026, septième de la journée. **Département retenu, règle 41** : l'Ille-et-Vilaine
+(35), déficit **4,8166** pour 1 120 666 habitants et cinq fiches, toutes rennaises, sur une base de 604
+fiches. La Réunion arrive devant avec **7,7932** et sort par les règles 93 et 177. La passe précédente
+visait la Seine-Saint-Denis, en Île-de-France ; l'Ille-et-Vilaine est en Bretagne, la réserve de la
+règle 41.c ne joue donc pas. Après la passe, le 35 tombe à **−0,1022** avec dix fiches ; en tête
+ensuite, outre-mer écarté : la **Gironde** (4,9306), la **Côte-d'Or** (4,7702), la **Drôme** (4,6299)
+et l'**Aisne** (4,6222), ces trois dernières sans aucune fiche. La prochaine passe ne peut pas viser la
+Bretagne.
+
+**Commune** : Saint-Malo, 47 439 habitants, deuxième du département après Rennes, déjà pourvue, et sans
+aucune fiche. Elle rend les cinq fiches, image comprise ; aucune descente ni aucun élargissement n'a été
+nécessaire. La cinquième place est allée à une AMAP plutôt qu'à un quatrième marché ou à une
+poissonnerie, au titre de la règle 167 — les poissonneries n'avaient de toute façon pas d'horaires
+consultables (règle 214).
+
+**Les sources.** La page « Marchés et commerces » de la Ville de Saint-Malo et le dépliant « Les marchés
+de Saint-Malo » qu'elle y publie ; les fiches de l'office de tourisme de Saint-Malo Baie du
+Mont-Saint-Michel, dont le sitemap a servi d'index ; le site de la Ferme Benaise ; le site de l'AMAP du
+Bocage et les pages qu'elle consacre à chacun de ses fournisseurs ; le registre de l'Agence Bio, paginé
+sur les 2 496 opérateurs du département ; le registre des entreprises. Aucun de ces sites n'exclut
+d'agent d'IA dans son `robots.txt` ; celui de l'office exclut seulement ses routes d'API, voir la règle
+214, née ici.
+
+- **La Ferme Benaise, publiée sans `a_confirmer`.** Société active depuis juillet 2022, un établissement
+  ouvert, siège déclaré à La Petite Salmonais ; certificat Ecocert engagé depuis le 6 septembre 2022,
+  sans date d'arrêt, légumes frais, œufs et vente au détail déclarés, `venteParticuliers` à vrai. Le
+  site de la ferme, qui nomme Saint-Malo, donne la vente à la ferme le mardi et le jeudi de 16h à 19h et
+  son adresse, La Salmonais : c'est ce lieu-dit que la Base Adresse Nationale géocode (0,683) ; le point
+  de l'office tombe à 30 m, celui, corrigé à la main, de l'Agence Bio à 64 m, et le lieu-dit du
+  registre, La Petite Salmonais, à 168 m. Le téléphone est celui que la ferme publie elle-même pour sa
+  clientèle. **Photo** : un chou kale sous serre, publié par la ferme, 1 920 × 2 560 réduits à
+  960 × 1 280, personne dans le cadre.
+- **La Ferme du Pré Bois, non publiée, règles 192 et 214.** Élevage porcin en plein air et charcuterie
+  à la ferme, au lieu-dit Le Pré Bois ; site vivant, magasin annoncé, mais aucun horaire publié ailleurs
+  que dans le bloc que l'office sert par sa route exclue. Le site et la fiche de l'office nomment les
+  exploitants : aucun nom n'est repris. **Déblocage** : les heures du magasin sur le site de la ferme.
+- **La Poissonnerie de la Roulais (Saint-Servan) et la Poissonnerie Guinemer (Intra-Muros), non
+  publiées, règle 214.** L'office les décrit — la première « du mardi au dimanche », sans heures — et
+  aucune n'a de site. La fiche de la première nomme son équipe : aucun nom n'est repris. Le registre des
+  entreprises n'a pas été interrogé, faute de fiche publiable.
+- **Le marché de Rocabey, non publié, règle 166.** La Ville le liste — lundi, jeudi et samedi, mêmes
+  heures que les autres — et annonce son ouverture un jour férié de mai 2026, mais ne nomme pas son
+  lieu ; l'office de tourisme ne le recense pas. **Déblocage** : une page de la Ville ou un arrêté qui
+  le situe.
+- **Les AMAP Part de Marché, Art de Marché et Encore!, non instruites, règle 195.** Repérées par des
+  annuaires et une recherche, elles n'ont pas été instruites dans cette passe ; il leur faudra une source
+  datée de moins de douze mois.
+- **Le registre de l'Agence Bio, peu productif en ville**, comme à Aubervilliers : quatre-vingt-cinq
+  opérateurs à une adresse malouine, Saint-Malo-de-Phily compris, surtout des supermarchés certifiés pour un rayon, des grossistes et des
+  préparateurs. Une épicerie de la rue Ville-Pépin engagée en mars 2026 n'a ni site ni horaires publiés.
+  Le Biocoop du 44 rue Patton n'apparaît que comme adresse d'un autre opérateur, et `biocoop.fr` est
+  écarté par la règle 149. Les exploitations immatriculées sous un patronyme ne sont pas reprises.
+- **La Ferme de Solidor, hors sujet** : refuge animalier et ferme pédagogique, sans vente de nourriture.
+- **Photographies.** L'office illustre ses fiches de Saint-Servan et de l'Intra-Muros par des images
+  de banque étrangère ; ces deux fiches portent deux fichiers distincts du jeu de Paramé, comme photos
+  thématiques (règles 1 et 203). La première image de ce jeu, datée d'un lundi, n'est pas une vue du
+  marché de Paramé (règle 140) et n'a pas servi.
 
 ### Pistes non publiées à Aubervilliers
 

@@ -16039,5 +16039,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=120%20rue%20H%C3%A9l%C3%A8ne%20Cochennec%2093300%20Aubervilliers",
     "image_url": "/images/marchands/amap-robin-des-pois-aubervilliers.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-saint-servan-saint-malo",
+    "nom": "Marché de Saint-Servan",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.637267,
+    "lon": -2.016894,
+    "adresse": "Place Bouvet, Saint-Servan, 35400 Saint-Malo",
+    "horaires": "Mardi et vendredi matin, toute l'année, à partir de 8h. Fin de matinée à 12h30 (13h en été) selon la Ville de Saint-Malo, à 13h selon le calendrier 2026 de l'office de tourisme.",
+    "produits": [
+      "Légumes",
+      "Fromages",
+      "Poissons",
+      "Fleurs"
+    ],
+    "description": "Le marché du quartier de Saint-Servan, autour des halles de la place Bouvet. L'office de tourisme y compte environ quatre-vingt-dix exposants, marché général et halles. On y trouve aussi de l'artisanat.",
+    "telephone": "02 99 40 71 11",
+    "site_web": "https://www.saint-malo.fr/accueil/vivre/marches-et-commerces/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Bouvet%2035400%20Saint-Malo",
+    "image_url": "/images/marchands/marche-de-saint-servan-saint-malo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-parame-saint-malo",
+    "nom": "Marché de Paramé",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.657723,
+    "lon": -1.982882,
+    "adresse": "Place Georges Coudray, Paramé, 35400 Saint-Malo",
+    "horaires": "Mercredi et samedi matin, toute l'année, à partir de 8h. Fin de matinée à 12h30 (13h en été) selon la Ville de Saint-Malo, à 13h selon le calendrier 2026 de l'office de tourisme.",
+    "produits": [
+      "Légumes",
+      "Fromages",
+      "Poissons",
+      "Fleurs"
+    ],
+    "description": "Le marché du quartier de Paramé, sous la halle à charpente de bois de la place Georges Coudray et sur la place autour, avec environ soixante-dix exposants selon l'office de tourisme. On y trouve aussi de l'artisanat.",
+    "telephone": "02 99 40 71 11",
+    "site_web": "https://www.saint-malo.fr/accueil/vivre/marches-et-commerces/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Georges%20Coudray%2035400%20Saint-Malo",
+    "image_url": "/images/marchands/marche-de-parame-saint-malo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-intra-muros-saint-malo",
+    "nom": "Marché Intra-Muros",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.648286,
+    "lon": -2.024478,
+    "adresse": "Halle aux Blés, Intra-Muros, 35400 Saint-Malo",
+    "horaires": "Mardi et vendredi matin, toute l'année. De 8h à 12h30 (13h en été) selon la Ville de Saint-Malo, de 8h30 à 13h selon le calendrier 2026 de l'office de tourisme.",
+    "produits": [
+      "Légumes",
+      "Fromages",
+      "Poissons",
+      "Fleurs"
+    ],
+    "description": "Le petit marché couvert de la vieille ville, à la Halle aux Blés, entre les remparts : une douzaine d'exposants selon l'office de tourisme, qui le présente comme un marché de circuits courts et de vente directe.",
+    "telephone": "02 99 40 71 11",
+    "site_web": "https://www.saint-malo.fr/accueil/vivre/marches-et-commerces/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20aux%20Bl%C3%A9s%2035400%20Saint-Malo",
+    "image_url": "/images/marchands/marche-intra-muros-saint-malo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-benaise-saint-malo",
+    "nom": "Ferme Benaise",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.62873,
+    "lon": -1.947991,
+    "adresse": "La Salmonais, 35400 Saint-Malo",
+    "horaires": "Vente à la ferme le mardi et le jeudi de 16h à 19h. Paniers à commander en ligne, à retirer à la ferme aux mêmes heures.",
+    "produits": [
+      "Légumes de saison",
+      "Aromates",
+      "Œufs",
+      "Paniers de légumes",
+      "Miel",
+      "Bocaux de ratatouille"
+    ],
+    "description": "Ferme maraîchère installée en 2022 au lieu-dit La Salmonais, dans la campagne malouine, certifiée en agriculture biologique pour ses légumes et ses œufs. Elle vend deux soirs par semaine sur place et propose des paniers avec ou sans abonnement.",
+    "telephone": "06 47 44 42 29",
+    "site_web": "https://fermebenaise.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20Benaise%20La%20Salmonais%20Saint-Malo",
+    "image_url": "/images/marchands/ferme-benaise-saint-malo.jpg"
+  },
+  {
+    "slug": "amap-du-bocage-saint-malo",
+    "nom": "AMAP du Bocage",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.665141,
+    "lon": -1.982102,
+    "adresse": "Salle Théophile Briant, 2 allée de la Goélette, Le Lévy, 35400 Saint-Malo",
+    "horaires": "Distribution tous les mercredis de 18h30 à 19h15, sur contrat.",
+    "produits": [
+      "Paniers de légumes de saison",
+      "Pains et brioches au levain",
+      "Œufs",
+      "Poulets fermiers",
+      "Fromages et yaourts de vache",
+      "Fromages et yaourts de brebis",
+      "Galettes"
+    ],
+    "description": "L'AMAP de Saint-Malo, fondée en 2008 et tenue par des bénévoles, dans le quartier du Lévy. Ses producteurs, installés en Ille-et-Vilaine et dans les Côtes-d'Armor, sont certifiés en agriculture biologique.",
+    "site_web": "https://amap-du-bocage-st-malo-35.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20all%C3%A9e%20de%20la%20Go%C3%A9lette%2035400%20Saint-Malo",
+    "image_url": "/images/marchands/amap-du-bocage-saint-malo.jpg",
+    "a_confirmer": true
   }
 ]
