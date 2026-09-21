@@ -3017,9 +3017,43 @@ prioritaires en cas de conflit.
      fiche de l'office de tourisme, dont les photographies sont fournies par le prestataire pour sa promotion, et le
      README dit pourquoi. Si l'office n'en publie aucune, c'est la photographie thématique de la règle 1.
 
+231. **L'interdiction « en toutes lettres » de la règle 230 est celle qui nomme les photographies ou les images, qu'elle
+     figure en pied de page ou dans les mentions légales ; et quand elle ferme toutes les sources d'une fiche sans qu'aucune
+     photographie thématique permise de la commune n'existe, la fiche attend.** À Saint-Herblain, les mentions légales de la
+     Ville interdisent la reproduction de « tout le contenu […] graphismes, images, textes » ; celles de Nantes Métropole
+     celle des « photographies, textes, slogans, dessins, images » ; celles du campus Nantes Terre Atlantique celle des
+     « dessins, photographies, images » ; celles de l'association de la champignonnière de Bellevue celle des « textes,
+     images, graphismes ». Aucun office de tourisme ne fiche ces lieux. Les pages de la coopérative Chlorophylle interdisent
+     en revanche la « représentation de ce site et de son contenu » sans nommer d'image, et le site de l'AMAP Tillay-Bourg
+     n'a aucune mention légale. **Critère** : la règle 230 joue dès que la clause nomme les photographies ou les images,
+     même noyées dans une formule générale ; une clause générale sur « le site et son contenu » ne la déclenche pas — c'est
+     la lecture qu'ont suivie toutes les passes depuis la première, et la retourner rendrait inutilisable l'essentiel des
+     sources. Et la règle 1 (« une fiche exacte ne se reporte pas pour une question d'illustration ») suppose qu'une
+     photographie thématique permise de la même commune existe, comme la règle 59 le dit pour le seuil de 700 px : quand ce
+     n'est pas le cas, une image prise ailleurs ou dans une source interdite prétendrait montrer ce qu'elle ne montre pas, ou
+     serait reproduite sans droit. La fiche part alors en pistes, faits vérifiés compris, avec un **déblocage** unique :
+     une photographie du lieu, ou thématique de la commune, publiée par une source qui n'en interdit pas la reprise. Ici :
+     les trois marchés municipaux de Saint-Herblain et le marché à la ferme du campus Nantes Terre Atlantique.
+
+232. **Une AMAP peut illustrer son point de distribution d'une photographie qu'elle publie de ses propres fournisseurs, et
+     une seconde AMAP de la même commune d'une photographie de leur fournisseur commun, pourvu qu'aucune ne se répète.** Le
+     site de l'AMAP Tillay-Bourg, sans clause d'interdiction, publie le troupeau d'une bergerie partenaire du pays de Retz,
+     sa brochure, et les pleurotes de la champignonnière d'insertion de Bellevue, à Saint-Herblain, qui fournit aussi
+     l'AMAP du Sillon ; le site de l'AMAP du Sillon n'illustre sa page que d'une photographie de banque d'images. Les vues
+     de ses distributions montrent toutes des visages, ou font moins de 600 px (règle 59). **Critère** : c'est la
+     photographie du site officiel du commerce, premier recours de `AGENT.md`, même quand elle montre la ferme plutôt que
+     la salle ; pour l'AMAP voisine, c'est la photographie thématique honnête de la même commune de la règle 1, et elle
+     vaut mieux que l'image de banque, qui n'est d'aucun lieu. Trois conditions : chaque fiche a sa propre photographie
+     (règles 66 et 175), la description dit ce que l'image montre et qu'elle ne montre pas le lieu de distribution, et la
+     fiche reste `a_confirmer`.
+
 ## Marchands à confirmer
 
-603 fiches sur 664 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+607 fiches sur 669 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Chlorophylle Saint-Herblain Beauséjour** (Saint-Herblain) (catégorie `magasin-bio`, règle 3 : chaque magasin de la coopérative a sa fiche. **Registre, règle 6** : société coopérative active, établissement ouvert au 34 avenue des Plantes. **Pilier `environnement`, règle 71** : engagement Bureau Veritas du 20 juin 2005 sans arrêt, à ce SIRET, pour des fruits et légumes, des œufs, des fromages et des préparations de viande. **Adresse** : « rue des Plantes » sur la page du magasin, « avenue des Plantes » au registre et à la Base Adresse Nationale (0,970), qui fait foi ; d'où `a_confirmer`. **Horaires et téléphone** : page du magasin. **Champignons** : la page de la champignonnière de Bellevue cite ce magasin parmi ses points de vente. **Photo** : la façade publiée par la coopérative, recadrée au-dessus des passants, 1 240 × 510 ; règle 231 pour la clause générale du site.)
+- **AMAP Tillay-Bourg – distribution du Tillay** (Saint-Herblain) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : la fiche de l'association dans l'annuaire de la Ville, modifiée le 24 juillet 2026, donne les deux points, jours et heures ; le site de l'AMAP a mis en ligne ses documents d'inscription en mai 2026. **Deux fiches, règle 175**, une par point. **Pilier `environnement`, règles 60 et 209** : la champignonnière de Bellevue, fournisseur nommé, est engagée chez Certipaq depuis juin 2024 pour des champignons ; le maraîcher, en nom propre en Vendée, n'a pas été recherché. **Téléphone** : l'annuaire de la Ville donne un portable, non repris (règle 198). **Photo, règle 232, née ici** : la brochure de l'AMAP, recadrée sur son volet illustré pour écarter les adresses électroniques du verso.)
+- **AMAP Tillay-Bourg – distribution du Bourg** (Saint-Herblain) (mêmes sources, catégorie, piliers et réserve de téléphone. **Heures** : 18h30-19h30 partout, salle Françoise-Giroud de l'école de la Solvardière. **Photo, règle 232** : le troupeau d'une bergerie partenaire du pays de Retz, publié par l'AMAP ; le berger, de dos au loin, n'est pas reconnaissable.)
+- **AMAP du Sillon** (Saint-Herblain) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : page des contrats 2025-2026 de l'AMAP, mise à jour le 1er septembre 2025, et article de la Ville du 3 novembre 2025 qui la cite ; la page de la champignonnière la compte parmi ses points de vente. **Heure, règle 179** : 18h30-19h30 le mardi selon l'AMAP, 19h-20h selon l'article de la Ville d'août 2023 ; l'association prime, la Ville est citée. **Lieu, règle 169** : la salle Graine de Café du centre socioculturel, dont la Ville publie l'adresse (12 bis avenue des Thébaudières, Base Adresse Nationale 0,832). **Pilier `environnement`** : le maraîcher de La Chapelle-sur-Erdre, société à enseigne, et la champignonnière sont engagés chez Certipaq. **Photo, règle 232** : les pleurotes de la champignonnière, publiées par l'AMAP Tillay-Bourg ; l'image de banque du site de l'AMAP du Sillon n'est pas reprise.)
 - **Grand marché de Jonquières** (Martigues) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jours et heures, règle 176** : jeudi 8h-13h et dimanche 8h-13h30 sur la page « Marchés en ville » de la Ville ; l'office de tourisme arrête le dimanche à 13h, ce que `horaires` cite. **Pas de pilier `environnement`, règle 183** : l'arrêté municipal du 19 décembre 2023 qui supprime les sacs plastique de tous les marchés va dans la description. **Produits, règle 103** : les mots de la Ville et de l'office (fruits et légumes, épices, viandes, poissons, produits du terroir, fleurs, plats cuisinés) ; la présence de vêtements et d'artisanat est dite. **Point** : centre de la place des Martyrs à la Base Adresse Nationale (0,958), à 77 m du marqueur de l'office sur le quai Général-Leclerc. **Photo** : l'étal d'olives que l'office attache à ce seul marché, daté par son nom de fichier du dimanche 16 octobre 2022 (règle 140), aucune personne.)
 - **Marché des producteurs locaux de Ferrières** (Martigues) (mêmes catégorie, piliers et source communale. **Jour et heures** : mardi 16h-19h, identiques chez la Ville et l'office. **Saison, règle 176** : « d'avril à octobre » pour la Ville, « du 1er avril au 30 septembre » pour l'office ; la Ville prime, l'office est cité. **Pas de pilier `environnement`, règle 68** : la Ville compte « bio » parmi les étals sans qu'aucun certificat ne soit rattaché au marché. **Produits** : la liste de l'office (fruits et légumes, charcuterie, volailles, fromages, miel, œufs, huile d'olive, pâtes fraîches, confitures, entre autres), recoupée par celle de la Ville. **Point** : centre de la place Jean-Jaurès (0,963), à 18 m du marqueur de l'office. **Photo** : étal de tomates, courgettes et pommes de terre que l'office attache à ce marché, 1 920 px, recadré sur ses 270 pixels du haut pour écarter le buste d'un passant, 1 280 × 780.)
 - **Marché de Saint-Julien-les-Martigues** (Martigues) (mêmes catégorie, piliers et source communale. **Heures, règle 176** : samedi 8h30-12h30 selon la Ville, 8h30-12h selon l'office, qui est cité. **Produits** : la liste nominative d'étals de l'office (fromages et brousses, pain, poissons de Port-de-Bouc, coquillages de Sète, panisses de l'Estaque, fruits et légumes), recoupée par les « producteurs » de la Ville ; l'étal de pain y est dit bio sans certificat rattaché, d'où « Pain » tout court. **Point, règle 146** : l'office donne à ce marché et à la cave La Venise Provençale le même point au millionième ; il est sauté. La Ville situe le marché à la Maison pour tous, que le registre des entreprises domicilie au 322 route de Sausset (une association sportive y a son siège, point à 37 m) ; la Base Adresse Nationale rend ce numéro exact (0,971). **Photo** : les étals de légumes que l'office attache à ce marché, sans personne identifiable.)
@@ -3666,7 +3700,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 584 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 669 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -10001,6 +10035,62 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Saint-Herblain
+
+Passe du 21 septembre 2026, dix-neuvième de la journée. **Département retenu, règle 41** : la Loire-Atlantique (44),
+déficit **4,3249** sur une base de 664 fiches, devant la Savoie (4,3163) et les Yvelines (4,3010) ; l'outre-mer sort par la
+règle 177, le dénominateur est celui de la règle 224. La passe précédente visait Martigues, en Provence-Alpes-Côte d'Azur ;
+le 44 est dans les Pays de la Loire, la réserve de la règle 41.c ne joue pas. **Commune** : Saint-Herblain, 50 973 habitants,
+la plus peuplée du département sans aucune fiche (Nantes et Saint-Nazaire en ont cinq chacune), dans Nantes Métropole. Après
+la passe, sur 669 fiches, le 44 tombe à **−0,57** ; en tête ensuite : les **Yvelines** (4,4087), la **Savoie** (4,3488), la
+**Haute-Garonne** (4,2766).
+
+**Les cinq fiches**, toutes dans Saint-Herblain, à moins de 5 km les unes des autres : les magasins Chlorophylle d'Atlantis
+et de Beauséjour, et les trois distributions d'AMAP de la commune — le Tillay et le Bourg le jeudi, le Sillon le mardi. Ce
+n'est pas le tableau que la commune rendait en faits : ses trois marchés municipaux et le marché à la ferme du campus
+agricole étaient vérifiés, et c'est la photographie qui les arrête (règle 231, née ici). La commune rend malgré tout cinq
+points vérifiés avec une image permise ; ni la règle 52 ni la descente de la règle 41.d n'ont eu à jouer.
+
+**Les sources** : l'annuaire des lieux publics et des associations de la Ville, son article « Comment manger durable et
+local à Saint-Herblain » (août 2023), son article « L'alimentation en partage » (novembre 2025) et ses actes
+réglementaires de 2026 sur les marchés (`saint-herblain.fr`, dont le `robots.txt` ne vise aucun agent) ; le registre de
+l'Agence Bio pour le 44 (3 304 opérateurs) ; le jeu de données des producteurs en circuit court de Nantes Métropole (un seul
+à Saint-Herblain) ; les sites des deux AMAP, de la coopérative Chlorophylle, du campus Nantes Terre Atlantique et de
+l'association de la champignonnière ; le registre des entreprises ; la Base Adresse Nationale.
+
+**Contradictions tranchées** : l'heure de l'AMAP du Sillon (règle 179, l'association prime sur l'article municipal de
+2023) ; « rue » ou « avenue » des Plantes pour Chlorophylle Beauséjour (le registre et la Base font foi, `a_confirmer`).
+
+**Fiches écartées pour doute sur une personne** : aucune. Mais la matière en est pleine : les intitulés des actes
+municipaux d'attribution de place sur les marchés portent le nom des commerçants, les pages de producteurs de l'AMAP
+Tillay-Bourg nomment les exploitants et les coordinateurs, les pages des magasins leurs responsables, et l'annuaire de la
+Ville donne pour l'AMAP un numéro de portable. Rien n'en est repris.
+
+**Restent à instruire, pour une passe suivante :**
+
+- **Marché du Bourg** (vendredi 8h-13h, place de l'Abbé-Chérel), **marché de la Crémetterie** (mercredi 8h-13h, rue de la
+  Branchoire) et **marché de Bellevue** (mardi et vendredi 8h-13h, place Denis-Forestier, déplacé en partie rue
+  Jean-Marie-Pelt depuis le 14 avril 2026 et jusqu'au printemps 2028 pour un chantier, règle 157). Jours, heures et lieux sur
+  les fiches de l'annuaire de la Ville, recoupés par son article de 2023, qui donne aussi la composition des étals, et par
+  sa brève du 21 juillet 2026 pour Bellevue ; des actes de 2026 y attribuent encore des places. Pas de pilier
+  `environnement` (règle 68). **Bloqués par la photographie, règle 231** : ni la Ville ni la Métropole n'en permettent la
+  reprise, aucun office ne les fiche. **Déblocage** : une photographie de ces marchés dans une source qui n'en interdit pas
+  la reprise.
+- **Marché à la ferme des Jardins de la Fée au Duc**, atelier de maraîchage bio et chantier d'insertion du campus Nantes
+  Terre Atlantique, 5 rue de la Syonnière : ouvert à tous le jeudi de 16h à 19h depuis le 3 septembre 2026 (18h30 en basse
+  saison), paniers sur adhésion le mardi de 10h à 16h et le jeudi de 10h à 18h30 ; engagement Ecocert depuis 2005 pour des
+  légumes et des fruits à ce SIRET. Catégorie `ferme`, fiche prête. **Bloqué par la photographie, règle 231** : les
+  mentions légales du campus interdisent la reprise de ses photographies. **Déblocage** : le même que pour les marchés.
+- **Ferme de la Chasseloire**, chemin de l'Ouchetien : exploitation maraîchère active au registre sous cette dénomination,
+  boutique à la ferme ouverte tous les jours selon l'article municipal d'août 2023. **Bloquée par les horaires** : aucune
+  source de moins de douze mois ne les confirme, la seule page de vente est un réseau social au nom de famille des
+  exploitants, qui n'est pas repris, et l'exploitation n'est pas au registre de l'Agence Bio, malgré le « bio » de
+  l'article. **Déblocage** : des horaires publiés par la ferme ou la Ville dans l'année.
+- **Laissés de côté** : les supermarchés certifiés de la commune (hypermarchés d'Atlantis, supérettes de quartier, discount),
+  des grossistes et des fabricants sans vente au détail, des certificats à l'état « arrêtée » (règle 71), des entreprises
+  individuelles inscrites sous le seul nom de leur exploitant, qui ne sont pas nommées, et l'épicerie associative de
+  Bellevue conventionnée par la caisse commune de l'alimentation, non instruite.
 
 ### Pistes non publiées à Martigues
 

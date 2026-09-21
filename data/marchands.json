@@ -17646,5 +17646,154 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=233%20Route%20de%20Sausset%2013500%20Martigues",
     "image_url": "/images/marchands/la-venise-provencale-martigues.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chlorophylle-atlantis-saint-herblain",
+    "nom": "Chlorophylle Saint-Herblain Atlantis",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.22882,
+    "lon": -1.634317,
+    "adresse": "279 Boulevard Marcel Paul, 44800 Saint-Herblain",
+    "horaires": "Du lundi au samedi de 9h à 19h30, fermé le dimanche et les jours fériés, selon la page du magasin ; espace de restauration ouvert du lundi au vendredi de 11h30 à 14h30.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Épicerie en vrac",
+      "Fromages",
+      "Pain frais",
+      "Viande et charcuterie",
+      "Œufs",
+      "Pleurotes et shiitakés cultivés à Bellevue",
+      "Plats du jour, soupes et jus faits sur place"
+    ],
+    "description": "Le plus grand des magasins de Chlorophylle, coopérative bio fondée à Nantes en 1985, ouvert en 2017 près d'Atlantis avec un large rayon vrac et un coin restauration le midi. La coopérative dit travailler avec plus de soixante producteurs locaux, et le magasin vend les champignons cultivés en insertion dans les caves du quartier de Bellevue. Engagé chez Bureau Veritas depuis octobre 2017 au registre de l'Agence Bio, à cette adresse.",
+    "telephone": "02 52 20 07 00",
+    "site_web": "https://www.chlorophylle-coop.com/nos-magasins/saint-herblain-atlantis",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44800%20Saint-Herblain",
+    "image_url": "/images/marchands/chlorophylle-atlantis-saint-herblain.jpg"
+  },
+  {
+    "slug": "chlorophylle-beausejour-saint-herblain",
+    "nom": "Chlorophylle Saint-Herblain Beauséjour",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.233733,
+    "lon": -1.585878,
+    "adresse": "34 Avenue des Plantes, 44800 Saint-Herblain",
+    "horaires": "Du lundi au samedi de 9h à 19h30, fermé le dimanche et les jours fériés, selon la page du magasin.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Fromages",
+      "Œufs",
+      "Charcuterie",
+      "Pleurotes et shiitakés cultivés à Bellevue",
+      "Épicerie bio"
+    ],
+    "description": "Le premier vrai magasin de la coopérative bio Chlorophylle, ouvert cinq ans après sa naissance en 1985 et l'un de ses plus petits, dans le quartier Beauséjour à la limite de Nantes. Il vend lui aussi les champignons cultivés dans les caves de Bellevue. Engagé chez Bureau Veritas depuis juin 2005 au registre de l'Agence Bio ; la coopérative écrit « rue des Plantes », le registre et la Base Adresse Nationale « avenue des Plantes ».",
+    "telephone": "02 40 40 10 10",
+    "site_web": "https://www.chlorophylle-coop.com/nos-magasins/saint-herblain-beausejour",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44800%20Saint-Herblain",
+    "image_url": "/images/marchands/chlorophylle-beausejour-saint-herblain.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-tillay-bourg-point-du-tillay-saint-herblain",
+    "nom": "AMAP Tillay-Bourg – distribution du Tillay",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.230667,
+    "lon": -1.605108,
+    "adresse": "Salle Camille-Desmoulins, 11 Rue du Tillay, 44800 Saint-Herblain",
+    "horaires": "Distribution le jeudi de 19h à 20h, selon le site de l'AMAP, sa brochure et l'annuaire des associations de la Ville. Contrats de six mois, adhésion à l'association nécessaire ; inscription sur liste d'attente.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Pain",
+      "Œufs",
+      "Fromages et produits laitiers de brebis et de chèvre",
+      "Viande de bœuf, de porc et volailles",
+      "Pleurotes et shiitakés",
+      "Miel",
+      "Pommes, poires et jus"
+    ],
+    "description": "L'une des deux distributions de l'AMAP Tillay-Bourg, créée en 2009, qui réunit quelque 250 familles et plus de vingt contrats avec des producteurs ; l'autre se tient le même soir dans le Bourg. Parmi ses fournisseurs, la champignonnière d'insertion de Bellevue est engagée chez Certipaq au registre de l'Agence Bio ; la certification des autres n'a pas été vérifiée ici. La photographie, publiée par l'AMAP, montre sa brochure et non la salle.",
+    "site_web": "https://www.amap-saint-herblain.fr/amap-du-tillay-a-saint-herblain",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11%20Rue%20du%20Tillay%2C%2044800%20Saint-Herblain",
+    "image_url": "/images/marchands/amap-tillay-bourg-point-du-tillay-saint-herblain.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-tillay-bourg-point-du-bourg-saint-herblain",
+    "nom": "AMAP Tillay-Bourg – distribution du Bourg",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.217519,
+    "lon": -1.641629,
+    "adresse": "Salle Françoise-Giroud, 5 Chemin de la Solvardière, 44800 Saint-Herblain",
+    "horaires": "Distribution le jeudi de 18h30 à 19h30, dans la salle de l'école de la Solvardière, selon le site de l'AMAP, sa brochure et l'annuaire des associations de la Ville. Contrats de six mois, adhésion à l'association nécessaire ; inscription sur liste d'attente.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Pain",
+      "Œufs",
+      "Fromages et produits laitiers de brebis et de chèvre",
+      "Viande de bœuf, de porc et volailles",
+      "Pleurotes et shiitakés",
+      "Miel",
+      "Sel de mer"
+    ],
+    "description": "Le second point de distribution de l'AMAP Tillay-Bourg, dans le vieux bourg, avec les mêmes producteurs que celui du Tillay le même soir. Parmi ses fournisseurs, la champignonnière d'insertion de Bellevue est engagée chez Certipaq au registre de l'Agence Bio ; la certification des autres n'a pas été vérifiée ici. La photographie, publiée par l'AMAP, montre le troupeau d'une bergerie partenaire du pays de Retz et non le lieu de distribution.",
+    "site_web": "https://www.amap-saint-herblain.fr/amap-du-bourg-a-saint-herblain",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5%20Chemin%20de%20la%20Solvardi%C3%A8re%2C%2044800%20Saint-Herblain",
+    "image_url": "/images/marchands/amap-tillay-bourg-point-du-bourg-saint-herblain.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-du-sillon-saint-herblain",
+    "nom": "AMAP du Sillon",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.243898,
+    "lon": -1.607546,
+    "adresse": "Centre socioculturel du Sillon, 12bis Avenue des Thébaudières, 44800 Saint-Herblain",
+    "horaires": "Distribution le mardi de 18h30 à 19h30, salle Graine de Café du centre socioculturel, selon le site de l'AMAP ; la Ville écrivait en 2023 de 19h à 20h. Adhésion et contrats de six à douze mois nécessaires.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Œufs",
+      "Pain",
+      "Pommes, cidre, jus et compote",
+      "Produits laitiers de brebis",
+      "Volailles",
+      "Crêpes et galettes",
+      "Pleurotes et shiitakés"
+    ],
+    "description": "AMAP créée en septembre 2021 au pied du Sillon de Bretagne ; la Ville signalait en novembre 2025 que le centre socioculturel y réserve des paniers pour des familles en difficulté. Son maraîcher, installé à La Chapelle-sur-Erdre, et la champignonnière de Bellevue sont engagés chez Certipaq au registre de l'Agence Bio. La photographie, publiée par l'AMAP Tillay-Bourg, montre les pleurotes de cette champignonnière herblinoise, qui fournit aussi l'AMAP du Sillon, et non le lieu de distribution.",
+    "site_web": "https://www.sillon.amap-saint-herblain.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=12bis%20Avenue%20des%20Th%C3%A9baudi%C3%A8res%2C%2044800%20Saint-Herblain",
+    "image_url": "/images/marchands/amap-du-sillon-saint-herblain.jpg",
+    "a_confirmer": true
   }
 ]
