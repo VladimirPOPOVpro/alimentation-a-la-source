@@ -3157,9 +3157,31 @@ prioritaires en cas de conflit.
      d'un texte — et la règle 171 pour les deux régimes que l'autorité sépare ; la formule « face aux étals » est rapportée
      ici, et la fiche du dimanche reste `a_confirmer` jusqu'à ce qu'une source situe ses étals au mètre.
 
+243. **Un point de vente qui se tient dans le jardin d'un particulier ne se publie pas : son adresse est celle d'un domicile.**
+     À Bassens, dans Grand Chambéry, une association tient chaque jeudi après-midi un marché de producteurs locaux, avec
+     calendrier de fermetures daté jusqu'en 2027 et photographie des étals sans personne. Elle écrit elle-même que ce marché
+     se tient « dans un jardin aimablement prêté par l'habitant », et ses deux pages ne donnent pas le même numéro de la
+     même avenue. Une fiche publierait sur la carte, au mètre, le domicile d'une personne privée qui n'a rien demandé.
+     **Critère** : c'est la règle des personnes de `MODERATION.md`, pas une question de fait — l'adresse d'un habitant est
+     une donnée personnelle, même quand une association la publie pour ses adhérents ; au moindre doute que le lieu soit un
+     domicile, rien n'est publié, la piste se note sans adresse ni numéro, et elle ne se rouvre pas. Un point de vente
+     associatif qui se tient dans un local, une salle ou un équipement public reste, lui, sous les règles ordinaires.
+
+244. **Une société dont l'activité principale au registre est autre peut entrer pour la production qu'elle vend elle-même,
+     à heure fixe, sous certificat.** La brasserie Coup de Mousse, à Chambéry, est inscrite au registre des entreprises
+     sous un code de travaux spécialisés : la même société fait de l'élagage et des travaux sur corde, et la plupart des
+     photographies de son site montrent ces chantiers. Elle brasse pourtant dans la zone industrielle de Bissy, sa bière est
+     certifiée au registre de l'Agence Bio depuis février 2021, et son site publie une vente directe à la brasserie le
+     vendredi de 15h à 18h. **Critère** : la règle 6 demande un établissement actif, pas un code d'activité ; ce qui fait
+     entrer un point de vente, c'est une production vendue sur place à des heures que l'exploitant publie. La fiche dit en
+     une phrase que la société exerce aussi une autre activité, prend pour photographie un produit et non un chantier, et
+     suit la règle 14 pour les piliers — `environnement` et `economie`, jamais `alimentation` pour une boisson alcoolisée.
+
 ## Marchands à confirmer
 
-627 fiches sur 689 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+629 fiches sur 694 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché biologique du jeudi, place du Palais de Justice** (Chambéry) (catégorie et piliers des marchés, sans `environnement`. **Source, règle 196** : la page des marchés de la Ville ne le cite pas ; l'association organisatrice publie elle-même le jour, le lieu et l'heure sur son site, et l'office de tourisme le fiche aussi (mise à jour de mai 2025). Un communiqué de l'association, daté de septembre 2026, rapporte que la Ville ne souhaite pas étendre ce marché et le renvoie vers celui du mercredi place de Genève : le marché existe, la commune ne le promeut pas. **Horaire, règle 179** : 13h30-19h selon l'association, 15h-19h selon l'office ; c'est l'organisateur qui donne l'heure de vente, l'autre valeur est citée. **Pas d'`environnement`, règle 121** : deux des trois exploitations nommées par l'association sont engagées au registre de l'Agence Bio (la ferme de paysans boulangers de Velanne depuis mars 2015, le maraîcher de Saint-Bueil depuis mars 2014), la troisième n'y est pas retrouvée sous son enseigne, mais l'association n'est pas elle-même un opérateur certifié : la condition première de la règle 121 manque, la formule « certifiés AB ou Nature et Progrès » est attribuée à l'association. **Point, règle 26** : la place telle que la Base Adresse Nationale la connaît (0,964) ; le marqueur de l'office tombe à 55 m, devant le palais. **Photographie** : l'étal de pain que l'association publie pour ce marché, recadré sous la ligne des épaules pour écarter les visages, 1140 × 400.)
+- **La ferme du Forezan** (Cognin) (micro-ferme maraîchère du parc du Forezan, catégorie `ferme`, dans Grand Chambéry à 2,50 km du barycentre des quatre fiches chambériennes, **règle 52**. **Registre, règle 6** : l'exploitation agricole est active (01.13Z) ; elle est tenue en nom propre et le patronyme n'est repris nulle part, l'enseigne est celle que la ferme publie sur son site. **Pilier `environnement`, règle 43** : certificat engagé en janvier 2020 au registre de l'Agence Bio pour les légumes sous abri et de plein champ. **Horaires** : ceux du site de la ferme ; l'office de tourisme ajoute l'ouverture tous les jours pendant les vacances scolaires et date la saison 2026 du 7 février au 22 novembre. **Point, règle 10** : la Base Adresse Nationale ne connaît pas le 26, seulement le 26a et le 26b ; le point est celui du registre des entreprises, dont le contrôle inverse rend le 26b à 46 m ; le marqueur de l'office est le centre de la voie, à 284 m, et n'est pas retenu. **Photographie** : les planches de légumes et de fleurs publiées par la ferme sur son propre site, sans personne ; celles de l'office sont écartées par la règle 231.)
 - **Marché aux poissons du quai Gambetta** (Boulogne-sur-Mer) (`poissonnerie`, comme les marchés aux poissons de Saint-Raphaël et de Nice, où les pêcheurs vendent leur pêche. **Registre, règle 106** : marché de la Ville, qui le liste parmi ses marchés, « tous les jours ». **Horaires** : ni la Ville ni l'office de tourisme ne publient d'heure — l'office écrit que les horaires « varient en fonction du débarquement de poisson frais », Nausicaá de même ; `horaires` dit « le matin » et rien de plus. **Produits** : espèces citées par l'office et par Nausicaá. **Point, règles 64 et 67** : la Base Adresse Nationale ignore le « quai Gambetta » et la passerelle Marguet ; le marqueur de la fiche de l'office (50,726432 ; 1,599817) se retourne à 28 m du 88 boulevard Léon Gambetta. **Photo, règles 1, 164 et 230** : les mentions légales de l'office de tourisme interdisent nommément la reprise de ses photographies ; la seule photographie des étals que publie la Ville fait 588 px et montre une file de clients de face (plancher de la règle 59) ; l'image est donc un étal de poissonnier du marché de la place Dalton, publié par la Ville, recadré sous les visages, 1 280 × 602, et la description dit qu'elle ne montre pas les aubettes.)
 - **Marché de la place Dalton** (Boulogne-sur-Mer) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jours, règle 204** : mercredi et samedi matin sur la page des marchés de la Ville ; l'heure, 8h-12h30, vient de la page « Marchés » de l'ancien site de l'office de tourisme de Boulogne (`tourisme-boulognesurmer.com`), la fiche de l'office actuel (`boulonnaisautop.com`) n'en affichant aucune. **Produits** : la liste de l'office, fleurs comprises ; vêtements et artisanat, cités par l'office, restent hors de `produits`. **Point** : place Dalton à la Base Adresse Nationale (0,966), à 11 m du marqueur de l'office. **Photo, règle 231** : un étal de légumes de la série « marché place Dalton » que la Ville publie sur sa page des marchés, recadré à droite pour écarter un bras, 1 280 × 964 ; ses mentions légales soumettent la reproduction à son accord « en principe » et autorisent la réutilisation non commerciale en citant la source, que la description cite.)
 - **Biocoop Opale Bio** (Boulogne-sur-Mer) (`magasin-bio`, règle 3. **Registre, règle 6** : société ESPACE BIO active, un établissement ouvert au 68 rue Louis Faidherbe. **Pilier `environnement`** : certificat Ecocert engagé le 27 octobre 2005, sans arrêt. **Règle 86** : la page « producteurs locaux » du magasin en nomme trente-quatre, dans le Pas-de-Calais, le Nord et la Somme ; la fiche en cite trois par leur commune, pas par leur nom. **Horaires et téléphone** : page du magasin, identiques sur `biocoop.fr`. **Point** : 68 rue Louis Faidherbe à la Base Adresse Nationale (0,773, score abaissé par l'odonyme abrégé « rue Faidherbe »). **Photo** : la façade publiée par le magasin, recadrée au-dessus de la vitrine où des clients sont attablés, 710 × 325. La page du magasin nomme son responsable : non repris.)
@@ -10165,6 +10187,66 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Chambéry et dans Grand Chambéry
+
+Passe du 22 septembre 2026. **Département retenu, règle 41** : la **Savoie** (73), déficit **4,4788** sur 689 fiches, devant la
+Vienne (4,3856) et les Landes (4,3324) ; l'outre-mer sort par la règle 177, le dénominateur est celui de la règle 224. La passe
+précédente visait les Hauts-de-France ; la Savoie est en Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas.
+`origin/main` n'avait pas bougé au moment de publier (règle 241). **Commune** : aucune fiche en Savoie ; Chambéry, 59 964
+habitants, est la plus peuplée. Elle rend les **faits** en abondance mais presque pas d'**images** : la Ville, l'office de
+tourisme Grand Chambéry Alpes Tourisme et l'agglomération Grand Chambéry interdisent tous trois, dans leurs mentions légales,
+la reproduction des images de leurs sites (règles 230 et 231), et la seule photographie de la page des marchés de la Ville fait
+483 px. Quatre fiches chambériennes ont une image permise — le marché biologique du jeudi, les deux magasins Biocoop et la
+brasserie de Bissy — ; la cinquième est la ferme du Forezan, à Cognin, commune limitrophe du même établissement public de
+coopération intercommunale (vérifié au champ `epci` de `geo.api.gouv.fr`, règle 219), à 2,50 km du barycentre des quatre
+(**règle 52**). Après la passe, sur 694 fiches, le 73 tombe à **−0,49** ; en tête ensuite : la **Vienne** (4,4174), le
+**Finistère** (4,3951), les **Landes** (4,3638).
+
+**Les sources** : la page « Les marchés » de `chambery.fr` ; les fiches Apidae de l'office (`chamberymontagnes.com`), lues
+pour les faits et les marqueurs, jamais pour les images ; le site de l'association organisatrice du marché biologique ; les
+sites des deux magasins, de la brasserie et de la ferme ; le registre de l'Agence Bio, **836** opérateurs lus en Savoie et
+l'Isère relue pour les exposants du marché ; le registre des entreprises ; la Base Adresse Nationale. Ces sources nomment des
+exploitants, des responsables de magasin, des membres d'association et des photographes : aucun nom n'est repris.
+
+**Contradictions consignées** :
+- Halles de Chambéry : 6h-13h30 du mardi au samedi selon la Ville, 7h-12h selon l'office ; c'est la commune qui organise
+  (règle 176). Sans objet tant que la fiche attend son image, mais c'est l'heure de la Ville qui partira.
+- Marché biologique du jeudi : 13h30-19h selon l'association, 15h-19h selon l'office ; tranché par la règle 179. Ce n'est pas
+  le « marché bio et local » du mercredi que la Ville tient place de Genève : ce sont deux marchés, deux jours, deux places.
+- Biocoop Faubourg Maché : 106 Faubourg Maché sur le site du magasin, 122 au registre de l'Agence Bio et au registre des
+  entreprises, pour le même établissement ; les deux points sont à une vingtaine de mètres (règle 98), la fiche garde
+  l'adresse que publie le magasin, géocodée au numéro (0,974).
+
+**Restent à instruire, pour une passe suivante** (déblocage commun, sauf mention : une photographie du lieu, ou thématique de
+la commune, publiée par une source qui n'en interdit pas la reprise — règle 231) :
+- Chambéry, Halles couvertes (mardi-samedi, 6h-13h30, 27 commerçants de bouche) et marché de plein air de la place de Genève
+  (mardi 7h-12h ; mercredi 15h-19h en hiver et 16h-20h en été, « bio et local » ; samedi 6h-13h30 avec les rues De Maistre et
+  Favre) : une seule fiche au titre de la règle 42, l'office ne donnant qu'un marqueur (retourné sur le 7 place de Genève à
+  1 m) et aucune source ne séparant les deux points. Faits complets ; seules les images manquent.
+- Chambéry, marché des Hauts-de-Chambéry, dimanche 7h-12h, esplanade de l'avenue d'Annecy : Ville et office concordent,
+  marqueur de l'office à 20 m de la voie ; la photographie que l'office lui attache est de toute façon datée d'un vendredi
+  (règle 140).
+- Chambéry, marché des Combes, jeudi 7h-12h, rue du Pré de l'Âne : Ville et office concordent ; la seule photographie de
+  l'office montre surtout des portants de vêtements.
+- Chambéry, marché du Biollay, vendredi 7h-12h30, place François Marcet : une quinzaine d'étaliers, alimentaire et
+  manufacturé mêlés, selon l'office ; sa photographie est une image de banque (règle 70).
+- Chambéry, AMAP distribuant le mercredi de 18h15 à 19h45 dans un bar coopératif de la rue Sainte-Rose : saison 2026-2027
+  publiée le 15 septembre 2026, première distribution le 23 septembre (règle 195 remplie) ; son nouveau site interdit la
+  reprise des images, l'ancien n'offre qu'une affiche faite d'illustrations d'une banque d'images.
+- Chambéry, maraîchage biologique de Bissy, vente à la ferme : pas de site propre, horaire connu des seuls annuaires tiers
+  (règle 192). Déblocage : un horaire publié par l'exploitation ou une autorité.
+- Chambéry, boutique d'une boulangerie bio des Bauges, place de l'Hôtel-de-Ville : certifiée au registre depuis juillet 2023,
+  horaire publié par l'office seul, aucune photographie de la boutique sur le site de l'enseigne.
+- Écartés d'emblée au registre de l'Agence Bio, sans autre instruction : une épicerie en vrac de la rue d'Italie (certificat
+  arrêté en 2020) et les supérettes et hypermarchés certifiés de l'agglomération (commerces généralistes, `MODERATION.md`).
+- La Motte-Servolex, magasin de producteurs de la rue Denis Papin, ouvert depuis 1999 : horaires publiés par le magasin, mais
+  ses mentions légales interdisent la reproduction des photographies.
+- La Motte-Servolex, vente de la ferme du lycée agricole (fromages au lait cru, escargots, viande), vendredi 15h-17h30 et samedi
+  8h30-11h à la fromagerie : mêmes mentions d'interdiction sur le site du lycée.
+- Cognin, jardin d'insertion en maraîchage biologique : paniers réservés aux adhérents, mentions légales interdisant la
+  reproduction des photographies.
+- Écartée pour doute sur une personne : Bassens, marché de producteurs associatif tenu chez un particulier (règle 243).
 
 ### Pistes non publiées à Boulogne-sur-Mer, et le lot de Roissy-en-Brie laissé de côté
 

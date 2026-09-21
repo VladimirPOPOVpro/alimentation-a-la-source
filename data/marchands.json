@@ -18340,5 +18340,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Saint-Martin%2C%201%20route%20de%20Calais%2C%20Saint-Martin-Boulogne",
     "image_url": "/images/marchands/biocoop-saint-martin-boulogne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-biologique-palais-de-justice-chambery",
+    "nom": "Marché biologique du jeudi, place du Palais de Justice",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.568082,
+    "lon": 5.919192,
+    "adresse": "Place du Palais de Justice, 73000 Chambéry",
+    "horaires": "Jeudi de 13h30 à 19h selon l'association organisatrice (l'office de tourisme indique 15h-19h)",
+    "produits": [
+      "Légumes et fruits de saison",
+      "Pain et tartes de paysans boulangers",
+      "Œufs",
+      "Pâtes fraîches, raviolis, lasagnes et arancini",
+      "Fromages et yaourts de chèvre et de brebis",
+      "Miel"
+    ],
+    "description": "Marché hebdomadaire d'après-midi créé en octobre 2014 à l'initiative de l'association La Mandragore, qui le présente comme un marché de producteurs locaux certifiés AB ou Nature et Progrès ; elle nomme parmi les étals une ferme de paysans boulangers de Velanne et un maraîcher de Saint-Bueil, tous deux engagés au registre de l'Agence Bio. La page des marchés de la Ville ne le mentionne pas : le jour, le lieu et l'heure viennent de l'association et de l'office de tourisme. Photo : étal de pain du marché, publiée par l'association.",
+    "site_web": "https://www.lamandragore.net/marche-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Palais%20de%20Justice%2C%2073000%20Chamb%C3%A9ry",
+    "image_url": "/images/marchands/marche-biologique-palais-de-justice-chambery.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-faubourg-mache-chambery",
+    "nom": "Biocoop Faubourg Maché",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.56551,
+    "lon": 5.915302,
+    "adresse": "106 Faubourg Maché, 73000 Chambéry",
+    "horaires": "Du lundi au samedi de 9h à 19h ; fermé le dimanche et les jours fériés",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Pain (boulangers locaux)",
+      "Fromages à la coupe",
+      "Charcuterie",
+      "Plats du traiteur faits sur place",
+      "Épicerie et vrac"
+    ],
+    "description": "Magasin du réseau coopératif Biocoop ouvert en 2009 au pied du château des Ducs de Savoie, avec fromagerie, charcuterie, boulangerie et un traiteur qui cuisine sur place. Il publie la liste de soixante-six producteurs locaux, parmi lesquels une boulangerie bio du Noyer, dans les Bauges, et un fumoir de La Motte-Servolex. Le registre de l'Agence Bio le certifie depuis février 2010 ; il y figure au 122 Faubourg Maché, à une vingtaine de mètres de l'adresse que le magasin publie.",
+    "telephone": "04 79 26 68 68",
+    "site_web": "https://www.biocoop-faubourg-mache.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Faubourg%20Mach%C3%A9%2C%20106%20Faubourg%20Mach%C3%A9%2C%20Chamb%C3%A9ry",
+    "image_url": "/images/marchands/biocoop-faubourg-mache-chambery.jpg"
+  },
+  {
+    "slug": "biocoop-casabio-chambery",
+    "nom": "Biocoop Casabio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.567537,
+    "lon": 5.93333,
+    "adresse": "26 Quai de la Rize, 73000 Chambéry",
+    "horaires": "Du lundi au samedi de 9h30 à 19h ; fermé le dimanche et les jours fériés",
+    "produits": [
+      "Fruits et légumes bio",
+      "Pain au levain de boulangers locaux",
+      "Fromages à la coupe",
+      "Charcuterie",
+      "Épicerie et vrac",
+      "Bières de brasseries savoyardes et iséroises"
+    ],
+    "description": "Magasin bio créé en 1992 à partir d'une ancienne association de consommateurs, aujourd'hui dans le réseau Biocoop, avec parking et arceaux à vélos au bord de la Rize. Il dit recevoir chaque jour le pain de cinq boulangers locaux et nomme parmi ses producteurs une boulangerie bio au levain d'Aix-les-Bains et plusieurs brasseries de Savoie et d'Isère. Le registre de l'Agence Bio le certifie sans interruption depuis 2005, auprès d'un nouvel organisme depuis septembre 2025.",
+    "telephone": "04 79 60 72 50",
+    "site_web": "https://www.casabiochamberybiocoop.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Casabio%2C%2026%20quai%20de%20la%20Rize%2C%20Chamb%C3%A9ry",
+    "image_url": "/images/marchands/biocoop-casabio-chambery.jpg"
+  },
+  {
+    "slug": "brasserie-coup-de-mousse-chambery",
+    "nom": "Brasserie Coup de Mousse",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.583403,
+    "lon": 5.890071,
+    "adresse": "175 bis Rue Émile Romanet, 73000 Chambéry",
+    "horaires": "Vente directe à la brasserie le vendredi de 15h à 18h, et sur demande",
+    "produits": [
+      "Bière blonde",
+      "Bière ambrée",
+      "Bière blanche",
+      "Bière rousse",
+      "Bière noire",
+      "Bière d'hiver"
+    ],
+    "description": "Microbrasserie inaugurée en septembre 2019 dans la zone industrielle de Bissy, qui brasse avec du malt bio de fournisseurs locaux et reprend ses bouteilles en consigne pour les laver et les remplir de nouveau. Le registre de l'Agence Bio la certifie pour la bière depuis février 2021. La même société exerce aussi des travaux d'élagage et d'accès sur corde.",
+    "site_web": "https://coupdemousse.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=175%20bis%20rue%20Emile%20Romanet%2C%2073000%20Chamb%C3%A9ry",
+    "image_url": "/images/marchands/brasserie-coup-de-mousse-chambery.jpg"
+  },
+  {
+    "slug": "ferme-du-forezan-cognin",
+    "nom": "La ferme du Forezan",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social"
+    ],
+    "lat": 45.55773,
+    "lon": 5.888672,
+    "adresse": "26 Chemin du Forézan, 73160 Cognin",
+    "horaires": "Mercredi, samedi, dimanche et jours fériés de 9h à 12h et de 14h à 19h ; tous les jours pendant les vacances scolaires selon l'office de tourisme ; fermeture annuelle de mi-novembre à mi-février",
+    "produits": [
+      "Légumes bio de saison (tomates, blettes, salades, courges, carottes, haricots, choux)",
+      "Petits fruits (cassis, groseilles)",
+      "Autocueillette au jardin",
+      "Épicerie locale : bocaux, sirops, jus de fruits, terrines"
+    ],
+    "description": "Micro-ferme maraîchère en agriculture biologique installée dans le parc public du Forezan, à Cognin, aux portes de Chambéry : on y achète les légumes du jardin, on les cueille soi-même, et l'on peut prendre un café au bord de la rivière. La ferme est aussi ferme pédagogique ; ses cultures sont certifiées au registre de l'Agence Bio depuis janvier 2020. Le point est celui du registre des entreprises, la Base Adresse Nationale ne connaissant pas le numéro 26.",
+    "telephone": "04 79 68 75 62",
+    "site_web": "https://fermeduforezan.wordpress.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20ferme%20du%20Forezan%2C%20Cognin",
+    "image_url": "/images/marchands/ferme-du-forezan-cognin.jpg",
+    "a_confirmer": true
   }
 ]
