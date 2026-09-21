@@ -15652,5 +15652,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Saint-Thomas%2034%20avenue%20de%20Laon%2051100%20Reims",
     "image_url": "/images/marchands/biocoop-saint-thomas-reims.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-beaux-arts-besancon",
+    "nom": "Halles Beaux-Arts",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.240689,
+    "lon": 6.023404,
+    "adresse": "2 rue Claude Goudimel, 25000 Besançon",
+    "horaires": "Du mardi au jeudi de 7h à 14h, le vendredi et le samedi de 7h à 18h30, le dimanche de 8h à 13h. Fermé le lundi.",
+    "produits": [
+      "Fruits et légumes, dont un étal de légumes bio",
+      "Poisson",
+      "Fromages",
+      "Boucherie, charcuterie et traiteur",
+      "Pain et pâtisserie",
+      "Salaisons du Haut-Doubs",
+      "Épiceries fines"
+    ],
+    "description": "Marché couvert municipal du centre historique, à deux pas de la place de la Révolution, où une association de dix-huit commerçants permanents — primeurs, poissonnier, trois fromagers, deux bouchers, un boulanger, un salaisonnier du Haut-Doubs et plusieurs épiceries — dit défendre le commerce de proximité et les circuits courts. Les horaires sont ceux de la Ville et de Grand Besançon Métropole, repris à l'identique par le guide des marchés de l'office de tourisme. La photographie, publiée par la Ville, a été prise pendant les fêtes de fin d'année.",
+    "site_web": "https://www.grandbesancon.fr/infos-pratiques/environnement/pour-une-alimentation-saine-durable-et-plus-locale/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles%20Beaux-Arts%202%20rue%20Claude%20Goudimel%2025000%20Besan%C3%A7on",
+    "image_url": "/images/marchands/halles-beaux-arts-besancon.jpg"
+  },
+  {
+    "slug": "marche-bio-tarragnoz-besancon",
+    "nom": "Marché bio de Tarragnoz",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.231002,
+    "lon": 6.026558,
+    "adresse": "Place du Maréchal de Lattre de Tassigny (place du Jura), 25000 Besançon",
+    "horaires": "Le mardi de 17h à 19h30, du 17 mars au 15 décembre 2026 selon l'affiche de l'association organisatrice. La page des marchés de Grand Besançon Métropole et son jeu de données ouvert annoncent encore 17h-20h, d'avril à décembre.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits",
+      "Fromages comtois et produits laitiers",
+      "Pain",
+      "Viande",
+      "Miel",
+      "Tisanes",
+      "Sirops, confitures et sorbets"
+    ],
+    "description": "Marché de fin de journée tenu depuis 2013 par une association de quartier au pied de la Citadelle, que l'organisateur présente comme le seul marché hebdomadaire de producteurs entièrement biologiques de la ville. Aucune liste d'exposants n'est publiée : la certification de chaque étal n'a donc pas pu être vérifiée ici, et la mention « 100 % bio » reste celle de l'association. La photographie, publiée par l'office de tourisme, montre les barnums sur la place au crépuscule.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20Lattre%20de%20Tassigny%2025000%20Besan%C3%A7on",
+    "image_url": "/images/marchands/marche-bio-tarragnoz-besancon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-la-canopee-mouillere-besancon",
+    "nom": "Biocoop La Canopée Mouillère",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.239842,
+    "lon": 6.034113,
+    "adresse": "3 allée de l'Île aux Moineaux, 25000 Besançon",
+    "horaires": "Du lundi au vendredi de 9h à 19h30, le samedi de 9h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio, priorité au local",
+      "Fromages à la coupe",
+      "Traiteur et charcuterie sans nitrites",
+      "Vrac : féculents, farines, fruits secs, légumineuses",
+      "Pain",
+      "Épicerie locale : huiles, vinaigres, miel, confitures, tisanes, pâtes"
+    ],
+    "description": "Magasin du réseau Biocoop ouvert en 2007 à côté du parc Micaud et de la gare de la Mouillère, le plus ancien des quatre magasins de la société La Canopée dans l'agglomération. La société est active au registre des entreprises et cet établissement est engagé chez Ecocert au registre national de l'Agence Bio depuis décembre 2007. Le magasin annonce quelque deux cents références en vrac et un rayon à la coupe agrandi lors de sa rénovation de 2020.",
+    "telephone": "03 81 80 25 47",
+    "site_web": "https://lacanopee.biocoop.net/presentation-detaillee",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20La%20Canop%C3%A9e%203%20all%C3%A9e%20de%20l'%C3%8Ele%20aux%20Moineaux%2025000%20Besan%C3%A7on",
+    "image_url": "/images/marchands/biocoop-la-canopee-mouillere-besancon.jpg"
+  },
+  {
+    "slug": "amap-le-panier-de-l-aneth-besancon",
+    "nom": "AMAP Le Panier de l'Aneth",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.258048,
+    "lon": 6.048482,
+    "adresse": "Micro-brasserie Les 2 Fûts, 7 rue François Rein, 25000 Besançon",
+    "horaires": "Distributions le mardi et le vendredi de 18h à 19h30, sur contrat d'engagement annuel avec les producteurs.",
+    "produits": [
+      "Légumes bio de saison",
+      "Œufs et poulets",
+      "Pain",
+      "Fromages de chèvre",
+      "Fruits et confitures",
+      "Miel",
+      "Viandes d'agneau, de porc et de bœuf",
+      "Carpe"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne créée en 2008, qui distribue deux fois par semaine dans une micro-brasserie ; elle est inscrite au registre des entreprises avec un établissement actif à cette adresse. Elle travaille avec neuf fermes situées dans un rayon de cinquante kilomètres : le maraîchage de Montagney qui fournit les légumes et les fermes qui livrent œufs et volailles, fromages de chèvre, agneau et porc, et fruits sont engagés au registre national de l'Agence Bio. Le contenu du panier est publié chaque semaine sur son site.",
+    "site_web": "https://amapaneth25.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7%20rue%20Fran%C3%A7ois%20Rein%2025000%20Besan%C3%A7on",
+    "image_url": "/images/marchands/amap-le-panier-de-l-aneth-besancon.jpg"
+  },
+  {
+    "slug": "la-grange-melot-la-chevillotte",
+    "nom": "La Grange Mélot",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.208558,
+    "lon": 6.143413,
+    "adresse": "2 La Bâtière, 25620 La Chevillotte",
+    "horaires": "Vente directe au magasin de la ferme le mardi et le vendredi de 17h à 19h et le samedi de 10h à 12h, de mi-mai à mi-décembre ; vente de plants à la serre aux mêmes heures d'avril à mi-mai (du 18 avril au 16 mai en 2026). Les dates de fin de saison 2026 ne sont pas encore publiées.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits, dont pommes en cueillette libre",
+      "Œufs",
+      "Plants de légumes et d'aromatiques",
+      "Farine de blé T80",
+      "Conserves, gelées et confitures de la ferme"
+    ],
+    "description": "Ferme maraîchère installée en 2015 sur la D410 entre Saône et Mamirolle, à une dizaine de kilomètres du centre de Besançon, qui cultive légumes, fruits et céréales à partir de semences paysannes. Elle est engagée chez Ecocert au registre national de l'Agence Bio depuis novembre 2015 et porte son enseigne au registre des entreprises. La ferme livre aussi des paniers hebdomadaires, dont une distribution le jeudi soir à Besançon selon sa page consacrée aux paniers.",
+    "site_web": "https://melotweb.wordpress.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grange%20M%C3%A9lot%2025620%20La%20Chevillotte",
+    "image_url": "/images/marchands/la-grange-melot-la-chevillotte.jpg",
+    "a_confirmer": true
   }
 ]

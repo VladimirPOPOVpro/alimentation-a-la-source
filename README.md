@@ -2712,9 +2712,29 @@ prioritaires en cas de conflit.
      une photographie annoncée comme la vue d'un marché ne peut pas illustrer un autre marché.
 
 
+209. **Le fournisseur d'une AMAP qui exerce en nom propre se retrouve au registre de l'Agence Bio
+     par l'adresse que l'AMAP publie, jamais par le nom de la personne.** La règle 60 exige de
+     retrouver au registre le fournisseur dont un intermédiaire revendique le bio, et la règle 121
+     interdit de chercher une exploitation par un patronyme. L'AMAP Le Panier de l'Aneth, à Besançon,
+     réunit les deux : sa page « Nos producteurs » publie, pour chaque ferme, une adresse d'exploitation
+     à côté des noms des exploitants, et son maraîchage de légumes est tenu par des entreprises
+     individuelles inscrites sous leur patronyme, sans enseigne. **Tranché ainsi** : le département de
+     l'adresse publiée est paginé au registre, et l'on retient l'opérateur dont une adresse déclarée
+     porte la même voie dans la même commune — ici la route de Bresilley, à Montagney, où deux
+     engagements Ecocert sans date d'arrêt couvrent des légumes frais ; les fermes à enseigne se
+     recoupent par leur enseigne et leur adresse ensemble. La fiche et le README ne nomment ni
+     l'exploitant ni l'exploitation en nom propre : ils disent la commune et la production. Une
+     adresse qui ne rend aucun opérateur, ou n'en rend qu'un certifié pour autre chose que ce que
+     l'AMAP distribue, laisse le fournisseur non retrouvé, règle 39.
+
 ## Marchands à confirmer
 
-548 fiches sur 589 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+550 fiches sur 594 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Halles Beaux-Arts** (Besançon) (le marché couvert municipal du centre historique ; catégorie et piliers des marchés municipaux, sans `environnement` : aucune source ne classe les halles comme biologiques, un seul étal de légumes s'y dit bio. **Horaires, trois publications concordantes** : la page « Les marchés » de Grand Besançon Métropole, service rendu avec la Ville, modifiée en juillet 2026 ; le jeu de données ouvert « Marchés alimentaires » de la même collectivité ; le guide « Foires et marchés » de l'office de tourisme, régénéré le 20 septembre 2026 — mardi à jeudi 7h-14h, vendredi et samedi 7h-18h30, dimanche 8h-13h. **Produits** : la fiche que l'office consacre à l'association des commerçants, qui décompte dix-huit commerçants et les range par métier ; les noms de personnes qui y figurent ne sont repris nulle part. **Adresse et point, règle 37** : la Ville et le guide de l'office écrivent « 2 rue Claude Goudimel », la fiche de l'association « 6 rue Claude Goudimel » ; la Base Adresse Nationale ignore le 2 et connaît le 6, score 0,964, contrôle inverse à 0 m et à 21 m du centroïde de la rue : l'adresse publiée est celle de la Ville, le point celui du 6. **Téléphone** : aucun ; le numéro du guide est le standard de la mairie et la page de la collectivité renvoie au service de la tranquillité publique, pas aux halles. **Photo** : l'image d'en-tête de l'appel à candidatures de la Ville de juillet 2026, 2 000 × 700 recadrée à 1 280 × 700 pour écarter un client de profil au bord droit ; il reste des silhouettes de dos, floues, et les décorations des fêtes, ce que la fiche dit.)
+- **Marché bio de Tarragnoz** (Besançon) (marché de producteurs du mardi soir, place du Maréchal de Lattre de Tassigny ; catégorie et piliers des marchés, **sans `environnement`, règles 45, 68 et 121** : l'organisateur est une association de quartier qui n'est pas elle-même un opérateur certifié et ne publie aucune liste d'exposants, la collectivité ne classe pas ce marché comme biologique — son jeu de données l'appelle seulement « Marché Tarragnoz ». La description attribue la mention « 100 % bio » à l'association. **Horaires, règle 179** : l'affiche 2026 de l'association, que l'office de tourisme publie sur ses deux fiches, donne « du 17 mars au 15 décembre 2026, tous les mardis, 17h à 19h30 » ; la page de Grand Besançon Métropole et son jeu de données ouvert donnent 17h-20h, d'avril à décembre — la version de l'organisateur est publiée, l'autre est nommée dans `horaires`. **Produits** : la description de l'office sur la fiche de l'association, rien de plus. **Point, règle 12** : centroïde de la place à la Base Adresse Nationale, sans numéro, cas normal d'une place. **`site_web`** : aucun, l'association n'a pas de site et la fiche de l'office n'en tient pas lieu. **Photo** : la vue du marché au crépuscule publiée par l'office sur la fiche de l'association, 4 032 × 3 024, **recadrée au tiers haut, 1 280 × 413** — il ne reste que l'immeuble, les arbres et le haut des barnums ; tous les clients et exposants sont sous la coupe.)
+- **Biocoop La Canopée Mouillère** (Besançon) (magasin biologique de l'allée de l'Île aux Moineaux, catégorie `magasin-bio` et règle 3. **Registre des entreprises, règle 6** : la société La Canopée est active, quatre établissements ouverts, code 47.29Z ; celui du 3 allée de l'Île aux Moineaux porte l'enseigne « BIOCOOP LA CANOPEE ». **Pilier `environnement`, règle 15** : ce même SIRET est engagé chez Ecocert au registre de l'Agence Bio depuis le 1er décembre 2007, sans date d'arrêt. **Source, règle 149** : le site `lacanopee.biocoop.net`, propre à la société, dont le `robots.txt` n'exclut aucun agent d'IA — le site national du réseau n'a pas été ouvert. **Horaires, téléphone, produits** : la page de ce magasin sur ce site ; les noms de responsables qui y figurent ne sont pas repris. **Point** : 3 allée de l'Île aux Moineaux à la Base Adresse Nationale, score 0,970 ; le point du registre tombe à 17 m. **Photo** : le rayon fruits et légumes publié dans la section de ce magasin, 1 600 × 1 066 ramenés à 1 280, personne dans le cadre.)
+- **AMAP Le Panier de l'Aneth** (Besançon) (point de distribution à la micro-brasserie Les 2 Fûts, mardi et vendredi de 18h à 19h30 ; catégorie et piliers des AMAP. **Registre, règle 6** : l'association, créée en 2008, est inscrite au registre des entreprises avec un établissement actif « Brasserie Les 2 Fûts, 7 rue François Rein » — la brasserie elle-même est une société active à la même adresse. **Activité en cours, règle 195** : le site de l'AMAP publie le contenu des paniers des semaines 36, 37 et 38 de 2026, le dernier le 15 septembre. **Pilier `environnement`, règles 60 et 209, née ici** : le maraîchage de Montagney (Haute-Saône) qui fournit les légumes est retrouvé au registre par son adresse, deux engagements Ecocert en vigueur depuis 2008 et 2009 ; les fermes qui livrent œufs et volailles, fromages de chèvre, agneau et porc, et le verger, se retrouvent sous leur enseigne ou leur adresse avec un certificat `ENGAGEE`. **Produits** : la liste que l'AMAP publie. **Aucun nom de personne repris** : la page « Nos producteurs » nomme chaque exploitant, la fiche ne dit que la commune et la production. **Point** : 7 rue François Rein à la Base Adresse Nationale, score 0,970. **Photo** : le panier de légumes, de pain et de viande que l'AMAP publie sur son site, 900 × 675, personne dans le cadre, non agrandi.)
+- **La Grange Mélot** (La Chevillotte) (ferme maraîchère biologique avec magasin de vente directe, catégorie `ferme`. **Élargissement à l'agglomération, règle 170** : quatre fiches de la passe sont dans Besançon, dont deux marchés, et la commune ne rendait aucune ferme vérifiable — la catégorie manquante est allée se chercher dans Grand Besançon Métropole, à une dizaine de kilomètres du centre. **Registre, règles 6 et 36** : entreprise individuelle active, un établissement ouvert, code 01.13Z, enseigne « LA GRANGE MELOT » déclarée à l'établissement — un nom de lieu et non un patronyme ; le nom de l'exploitante, que le site affiche en tête, n'est repris nulle part. **Pilier `environnement`, règle 15** : même SIRET engagé chez Ecocert au registre de l'Agence Bio depuis le 6 novembre 2015, sans date d'arrêt. **Horaires, `a_confirmer`** : ceux du bloc « Vente directe » du site — mardi et vendredi 17h-19h, samedi 10h-12h, de mi-mai à mi-décembre — et la vente de plants 2026 datée par le billet d'avril 2026 ; la date de fin de saison 2026 n'est pas publiée, celle de 2025 était le 9 décembre. **Téléphone, règles 143 et 198** : aucun ; le seul numéro publié est un portable, au nom de l'exploitante. **Point** : « 2 La Batière — La Grange Melot » à la Base Adresse Nationale, que la ferme écrit « 2, la bâtière ». **Produits** : ceux que la ferme énumère dans ses billets de saison. **Photo** : les groseilliers de la ferme, publiés sur son propre site en juin 2022, 1 021 × 1 021 recadrés en 1 021 × 680, personne dans le cadre ; les photographies de 2026 portent des visages ou sont signées d'un nom de personne et n'ont pas été reprises.)
 - **Marché des Halles du Boulingrin** (Reims) (le marché couvert emblématique de la ville, sous la voûte de béton de 1929 ; catégorie et piliers des marchés, plus `environnement` par la règle 206. **Trois documents de la Ville, trois calendriers, règle 5** : la page « Les Halles du Boulingrin » et la page « Les marchés dans la Ville » donnent vendredi 7h-13h et samedi 6h-14h ; le règlement des marchés de plein air du 15 octobre 2025 donne les mêmes heures d'ouverture de vente et ajoute, le vendredi, une ligne « Marché bio » de 15h30 à 19h30 sans lui attribuer d'emplacement ; l'office de tourisme situe ce marché bio aux Halles et annonce en plus une ouverture le mercredi matin, que ni la page des marchés ni l'arrêté ne mentionnent — un visuel promotionnel des Halles, non daté, annonce lui aussi « mercredi + vendredi ». Les deux régimes certains sont publiés, les deux mentions incertaines sont nommées dans `horaires` sans être promises. **Emprise** : l'arrêté étend le samedi à la place du Boulingrin, à la rue de Mars et à la rue Andrieux. **Produits, règle 103** : aucune source ne publie de liste d'étals ; `produits` reprend la formule de l'arrêté — alimentaire et non alimentaire — et les fruits, légumes et fleurs que montre la photographie du marché publiée par le Grand Reims. **Point** : 50 rue de Mars à la Base Adresse Nationale, contrôle inverse à 0 m ; le JSON-LD de l'office donne exactement les mêmes coordonnées. **Photo** : la vue extérieure des halles publiée par l'office, 6 110 × 4 073 recadrée à 1 280 × 972 pour écarter un piéton au bord gauche et la plaque d'une voiture au bord droit ; il ne reste que la voûte, la verrière et le ciel.)
 - **Marché Jean Jaurès** (Reims) (marché de plein air du dimanche matin ; catégorie et piliers des marchés, plus `environnement` par la règle 206. **Horaires, règle 207, née ici** : le règlement des marchés de plein air du 15 octobre 2025 distingue l'installation (5h) de l'ouverture de vente (7h) et de la fin de présence obligatoire (13h15) ; la page des marchés de la Ville publie « de 5h à 13h30 », c'est-à-dire la borne d'installation et une fin que l'arrêté ne donne pas. La fiche publie 7h-13h15 et nomme la version de la page. **Emprise et point** : l'arrêté définit le marché comme les deux côtés de l'avenue Jean Jaurès, du boulevard Carteret à la rue Marteau ; le point publié est le milieu de ce tronçon, contrôle inverse « 158 bis avenue Jean Jaurès » à 11 m, et le marqueur de l'office de tourisme tombe à 26 m. **Produits, règle 103** : les seuls mots des sources, l'arrêté autorisant « tous les produits alimentaires et non alimentaires ». **Photo, règle 208, née ici** : étal de carottes et de poireaux, détail d'une photographie que l'office de tourisme publie sur trois de ses pages de marchés sans légende, et dont le seul nom de fichier rappelle qu'elle a été prise au marché Saint-Remi ; la fiche dit qu'elle ne montre pas ce marché-ci.)
 - **Marché Sainte-Anne** (Reims) (marché de plein air du dimanche matin, rue de Louvois ; catégorie et piliers des marchés, plus `environnement` par la règle 206. **Horaires, règle 207** : ouverture de vente à 7h et fin de présence obligatoire à 13h au règlement du 15 octobre 2025, contre « 5h à 13h30 » sur la page des marchés de la Ville. **Emprise et point** : l'arrêté définit les deux côtés de la rue de Louvois, du début de la rue au numéro 93 ; le point est le milieu de ce tronçon, contrôle inverse « 62 rue de Louvois » à 8 m. Le marqueur de l'office de tourisme tombe 140 m plus au sud, toujours dans la rue mais hors du milieu : il n'a pas été retenu. **Produits, règle 103** : les mots de l'arrêté, rien de plus. **Photo, règles 1 et 208** : second détail de la même photographie d'office, un cageot de navets, franchement distinct de celui du marché Jean Jaurès. L'office ne l'emploie pas sur cette fiche-ci — il y met une vue du marché de Fismes, autre commune —, c'est donc la règle 1, photographie thématique de la même commune, qui la porte ici, et la fiche dit qu'elle ne montre pas ce marché-là.)
@@ -9623,6 +9643,59 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Besançon
+
+Passe du 21 septembre 2026, quatrième de la journée. **Département retenu, règle 41** : le Doubs (25),
+déficit **4,6739** pour 547 163 habitants et **aucune** fiche, sur une base de 589 fiches. La Réunion
+arrive devant avec **7,5997** et sort par les règles 93 et 177. La passe précédente visait la Marne,
+dans le Grand Est ; le Doubs est en Bourgogne-Franche-Comté, la réserve de la règle 41.c ne joue donc
+pas — la Saône-et-Loire, dans la même région, remonte à deux passes, ce que la réserve n'interdit pas.
+Après la passe, le 25 tombe à **−0,2864** avec cinq fiches ; en tête ensuite, outre-mer écarté : les
+**Alpes-Maritimes** (4,7208), la **Seine-Saint-Denis** (4,6820), l'**Ille-et-Vilaine** (4,6541) et la
+**Côte-d'Or** (4,6527), celle-ci sans aucune fiche. La prochaine passe ne peut pas viser la
+Bourgogne-Franche-Comté.
+
+**Commune** : Besançon, 118 489 habitants, la plus peuplée du département et sans aucune fiche. Quatre
+fiches sont intra-muros ; la cinquième, une ferme, est à La Chevillotte, dans Grand Besançon Métropole,
+au titre de la règle 170.
+
+**Les sources.** La page « Les marchés » de Grand Besançon Métropole, service rendu avec la Ville et
+modifiée en juillet 2026, et le jeu de données ouvert « Marchés alimentaires » de la même collectivité,
+qui en reprend le contenu mot pour mot ; les fiches de l'office de tourisme de Besançon et son guide
+« Foires et marchés », régénéré le 20 septembre 2026 ; le registre national de l'Agence Bio, paginé
+sur les 738 opérateurs du Doubs ; le registre des entreprises ; les sites des commerces eux-mêmes.
+
+- **L'office de tourisme ne se lit qu'au navigateur.** `besancon-tourisme.com` répond à tout client en
+  ligne de commande par une page d'attente anti-robot ; son `robots.txt` n'exclut aucun agent d'IA et ne
+  ferme que des chemins techniques, les fiches ont donc été lues dans le navigateur, règle 77. Son guide
+  PDF des marchés et les images de ses fiches, servies par un autre domaine, se téléchargent en
+  revanche directement.
+- **Les marchés de plein air, écartés par la règle 197.** La collectivité publie les jours, les heures
+  et les places de huit marchés de plein air — Révolution, Époisses, Cassin, Palente, Île-de-France,
+  Jouffroy d'Abbans, Saint-Ferjeux et Rivotte — mais ne dit de chacun rien d'autre que « marché
+  alimentaire », et l'office n'en décrit aucun. Aucune source d'autorité ne publiant ce qu'on y
+  achète, ils attendent ; les listes d'étals que donne la presse locale ne sont pas des sources au
+  sens de MODERATION.md.
+- **Un marché dominical de producteurs du quartier Rivotte, non publié.** L'annuaire « J'veux du local »
+  du Doubs et du Territoire de Belfort lui consacre une fiche, mais n'y publie qu'un
+  numéro de portable, règle 198, et un site qui ne répond plus, règle 62 ; ce qu'on y
+  vend n'y est pas nommé, règle 197.
+- **Un maraîchage biologique de Besançon, non publié.** Engagé au registre de
+  l'Agence Bio, référencé comme fournisseur local par un magasin biologique de la ville, il publiait
+  des heures de vente sur un site dont le domaine ne résout plus : sans voix propre, aucun horaire
+  relayé par un annuaire ne le représente, règles 160 et 192.
+- **Deux autres magasins biologiques de la même société, non publiés faute de place.** Les
+  établissements de la place du Maréchal Leclerc et de la rue des Granges sont actifs au registre et le
+  second est engagé au registre de l'Agence Bio depuis avril 2021 ; la règle 167 a donné la cinquième
+  place à la catégorie manquante plutôt qu'à un deuxième magasin de la même enseigne. Ils sont
+  instruits et reprenables au prochain passage.
+- **Une épicerie biologique de la rue de la République, non publiée, règle 86.** Engagée au registre
+  depuis juin 2026, elle ne publie qu'une page de réseau social et ne nomme aucun producteur.
+- **Le registre de l'Agence Bio, ici encore, est d'un faible rendement.** Sur une centaine d'opérateurs
+  déclarant une adresse à Besançon, on compte une vingtaine de grandes surfaces certifiées, autant de
+  boulangeries et de préparateurs, plusieurs grossistes, et une série d'entreprises individuelles
+  immatriculées sous un patronyme ; seule la société des magasins biologiques en est sortie publiable.
 
 ### Pistes non publiées à Reims
 
