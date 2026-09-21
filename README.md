@@ -9574,9 +9574,10 @@ Saône-et-Loire (71), déficit **4,6210** pour 550 310 habitants et **aucune** f
 579 fiches. La Réunion arrive devant avec **7,4707** et sort par les règles 93 et 177, comme à
 chaque passe. La Marne (4,7282) venait ensuite mais elle est dans le Grand Est, région visée par la
 passe précédente à Haguenau : la réserve de la règle 41.c l'écarte, et c'est la Saône-et-Loire, en
-Bourgogne-Franche-Comté, qui est retenue. Après la passe, le 71 tombe à **−0,3435** avec cinq
-fiches ; en tête ensuite, outre-mer écarté : le **Doubs**, la **Côte-d'Or**, la **Drôme** et
-l'**Aisne**, tous autour de 4,6 et tous sans fiche.
+Bourgogne-Franche-Comté, qui est retenue. Après la passe, le 71 tombe à **−0,3391** avec cinq
+fiches ; en tête ensuite, outre-mer écarté : la **Marne** (4,7690), que la réserve de région ne
+bloquera plus, puis le **Doubs** (4,6342), la **Côte-d'Or** (4,5744) et les **Alpes-Maritimes**
+(4,5572) — les trois premiers sans aucune fiche.
 
 **Commune** : Chalon-sur-Saône, 45 102 habitants, la plus peuplée du département et sans aucune
 fiche. Elle a rendu trois fiches intra-muros ; les deux dernières viennent du Grand Chalon, à 4 et
