@@ -5230,34 +5230,6 @@
     "a_confirmer": true
   },
   {
-    "slug": "la-ferme-de-manon",
-    "nom": "La Ferme de Manon",
-    "categorie": "ferme",
-    "piliers": [
-      "alimentation",
-      "economie"
-    ],
-    "lat": 43.418549,
-    "lon": 5.855303,
-    "adresse": "2081 route de Rougiers, 83470 Saint-Maximin-la-Sainte-Baume",
-    "horaires": "Toute l'année : lundi et mercredi de 9h à 12h, jeudi de 16h30 à 18h30, samedi de 8h30 à 12h. Fermé les 1er janvier et 15 août.",
-    "produits": [
-      "Lait cru entier",
-      "Yaourts, crème, beurre et faisselles",
-      "Fromage frais et tommes",
-      "Glaces artisanales",
-      "Viande de porc, de veau et de bœuf",
-      "Charcuterie : jambon cuit, saucisson, terrine",
-      "Œufs de poules élevées en liberté",
-      "Volailles de fin d'année : chapons, dindes, oies, canards"
-    ],
-    "description": "Ferme d'élevage familiale à mi-chemin de Saint-Maximin et de Rougiers, où poules, vaches, cochons et moutons vivent en plein air. Le lait cru est transformé sur place en yaourts, fromages et glaces, et la viande travaillée dans les ateliers de la ferme. Sa tomme a obtenu une médaille d'or au concours des fromages de la Foire de Brignoles en 2025.",
-    "telephone": "07 71 27 59 69",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+de+Manon+Saint-Maximin-la-Sainte-Baume",
-    "image_url": "/images/marchands/la-ferme-de-manon.jpg",
-    "a_confirmer": true
-  },
-  {
     "slug": "provence-bio",
     "nom": "Provence Bio",
     "categorie": "ferme",

@@ -3364,6 +3364,20 @@ prioritaires en cas de conflit.
      saison si elle commence par la saison (« De mars à juin : … ») et si rien ne la contredit, et elle compte parmi les deux
      fiches entières de la règle 127. Elle ne suffit pas seule à faire une zone (règle 52) : à Castets, elle attend en pistes.
 
+
+262. **Le groupe qu'une commune à deux fiches entières complète dans son intercommunalité se mesure depuis le centre de cette
+     commune, dans la limite de quinze kilomètres de la règle 96 ; les cinq kilomètres de la règle 52 ne valent que pour un
+     cinquième point ajouté à quatre points pris dans la commune elle-même.** La seconde passe landaise sans publication a écrit
+     qu'il manquait au groupe de Labenne — ses deux fiches entières, l'antenne de Capbreton de la même AMAP et le marché de
+     Seignosse — un cinquième point « à moins de 5 km de leur barycentre (règle 52) ». Or la règle 127 renvoie, pour compléter
+     deux fiches entières, aux « limites de la règle 96 » : même intercommunalité, toutes les fiches à moins d'une quinzaine de
+     kilomètres du centre, deux au moins dans la commune. La règle 52 traite un autre cas, celui d'une commune qui rend quatre
+     points à elle seule. **Tranché ainsi** : c'est la règle 96 qui borne un groupe bâti sur deux fiches entières, le centre
+     étant celui que `geo.api.gouv.fr` donne pour la commune ; la phrase de la section du 22 septembre 2026 reste écrite, elle
+     est corrigée par celle-ci. Conséquence immédiate : le magasin à la ferme des **Jardins de Castelnau**, à Saint-Jean-de-Marsacq
+     (Maremne Adour Côte Sud, 13,9 km du centre de Labenne), est un cinquième point recevable pour ce groupe ; il ne lui manque
+     qu'une image (voir la section de pistes du 23 septembre 2026, quatrième passe).
+
 ## Marchands à confirmer
 
 647 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -3723,7 +3737,7 @@ prioritaires en cas de conflit.
 - **Domaine du Baguier** (aucun horaire précis nulle part : l'office annonce « du mercredi au dimanche » sans heures et le site du groupe n'en donne aucune — c'est écrit tel quel dans la fiche. Seule des cinq à disposer d'un numéro dans la Base Adresse Nationale, à 0 m du point publié. L'huile d'olive est attribuée au **Clos Maguise**, l'autre domaine du groupe, et non au Baguier : l'office écrivait « du domaine », la boutique du groupe tranche. Le restaurant et les chambres d'hôtes ne sont mentionnés que dans la description, la fiche restant celle d'un caveau)
 - **Domaine Baussanne** (première fiche publiée au titre de la règle 30 : adresse de visite route de Brignoles, siège chemin de Lamanon à 1,4 km, et l'identification au registre passe par les CGV du site, qui donnent la raison sociale et le numéro RCS. Le point publié est celui de l'office, le point du registre étant celui du siège. La certification Ecocert est active depuis avril 2021 ; l'ancien certificat Bureau Veritas est arrêté **le jour même** de l'engagement suivant, ce qui est un transfert d'organisme et non un arrêt, règle 25. Les 300 hectares et les horaires viennent de l'office seul ; le domaine n'en publie aucun)
 - **Cave La Roquière** (pas de pilier `alimentation` : la cave ne vend que du vin, règle 14. L'année de fondation, 1925, vient de l'office de tourisme ; le site de la cave ne la donne pas et remonte à une ferme gallo-romaine de 46 avant notre ère, ce qui n'est pas la même chose. Le pilier `environnement` s'appuie sur trois sources concordantes : la cave écrit « une culture des vignes exclusivement en agriculture biologique » et revendique la HVE, l'office affiche les deux, et le registre de l'Agence Bio porte un engagement Bureau Veritas de décembre 2013 à l'adresse du caveau)
-- **La Ferme de Manon** (aucun site : la ferme ne communique que par ses pages Facebook et Instagram, et le champ `site_web` reste vide plutôt que de pointer sur un réseau social. Pas de pilier `environnement` : la ferme ne figure pas au registre de l'Agence Bio et l'office n'affiche aucun label, seulement un « élevage respectueux » qui n'est pas une certification, règle 15. Trois points étaient candidats sur 300 mètres de la route de Rougiers — numéro de la Base Adresse Nationale, siège au registre, marqueur de l'office : c'est le numéro qui l'emporte, règle 10, et le contrôle inverse le rend à 0 m. Les prénoms de la famille, que l'office publie, ne sont pas repris)
+- *Fiche d'élevage de la route de Rougiers (Saint-Maximin-la-Sainte-Baume)* : **retirée le 23 septembre 2026 avec son image**, au titre de la règle 259 — son enseigne portait un prénom. Le travail de vérification (point de la Base Adresse Nationale, absence de certification) n'a pas à être refait ; la fiche ne se republie pas sous ce libellé, et aucune enseigne neutre ne s'invente à sa place.
 - **Provence Bio** (le label bio de l'office est **périmé** : le registre de l'Agence Bio donne la certification Ecocert arrêtée depuis le 18 novembre 2022 pour le SIRET de l'exploitation. Pas de pilier `environnement`, et la description le dit noir sur blanc — c'est le même piège que la Ferme de la Grivoisière, règle 25. L'enseigne publiée est celle de l'office ; l'exploitation est immatriculée sous le patronyme de son exploitant, que la modération interdit de publier comme une enseigne. Le siège déclaré au registre est à cinq kilomètres et demi, au quartier des Paluns : c'est l'adresse de visite que publie l'office qui est retenue, règle 30, et le marqueur de l'office qui donne le point, la Base Adresse Nationale ne numérotant pas l'allée des Bastides. Photo : la seule que publie l'office, une image thématique de légumes qu'elle crédite à un tiers)
 - **Le Cellier de la Sainte-Baume** (pas de pilier `alimentation` : la cave annonce « de nombreux produits régionaux » sans en nommer un seul, cas qui a servi à préciser la règle 31. Le pilier `environnement` ne vient pas de l'office, dont le texte écrit « HVE et **prochainement** BIO » alors que son bloc labels affiche déjà « Agriculture biologique » : c'est le registre de l'Agence Bio, qui porte un engagement Ecocert actif depuis janvier 2019 sur le SIRET de la cave, qui tranche, règle 21. Le point du registre tombe au « 51 chemin des Bas Rouges », une autre voie que la route de Barjols publiée : il est écarté par la règle 24 au profit du marqueur de l'office, qui se rattache lui au « 134 route de Barjols » à 120 m. Aucun site : l'office annonce une vente par correspondance sans en donner l'adresse, et aucun domaine plausible ne répond)
 - **Domaine du Deffends** (horaires contredits : le domaine annonce sur son site une ouverture du lundi au samedi toute l'année, l'office un régime saisonnier qui ferme le samedi de novembre à mars — les deux sont publiés et attribués. Pas de pilier `alimentation` bien que le registre de l'Agence Bio porte « huile d'olive, brute » : aucune huile n'est proposée à la vente sur le site ni sur la fiche de l'office, règle 31. Photo prise à l'office : l'unique `og:image` du site est un logo)
@@ -10393,6 +10407,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées dans les Landes et en Eure-et-Loir — quatrième passe sans publication
+
+Passe du 23 septembre 2026, après la troisième. **Aucune fiche ajoutée** (règle 248). **Classement, règle 41**, sur 710 fiches
+avant le retrait ci-dessous, dénominateur de la règle 224, outre-mer écarté par la règle 177 : **Landes** (40) **4,4644**,
+**Eure-et-Loir** (28) **4,4599**, Dordogne 4,3001, Tarn 4,0915, Aude 3,9092. La dernière passe qui a publié visait le Finistère ;
+les deux départements quittés sans publication ne sont pas « visés » (règle 247). `origin/main` n'avait pas bougé au moment de
+conclure (règle 241). Aucune demande de visiteur, aucun courriel. **Retrait de la règle 259** : la ferme d'élevage de la route de
+Rougiers, à Saint-Maximin-la-Sainte-Baume, est retirée avec son image ; sa mention du README est réécrite sans le libellé. La liste
+de la règle 259 est ainsi épuisée ; un nom qu'une passe trouverait encore se retire de la même façon.
+
+**Reprise d'abord (règles 249 et 258)** : le site de la Ville de Capbreton n'ouvre toujours aucune connexion (règle 237). Le groupe
+de Labenne a été relu à la lumière de la règle 262 (nouvelle) : il se mesure depuis le centre de Labenne, à quinze kilomètres, et non
+à cinq kilomètres d'un barycentre. Un cinquième point y est désormais trouvé, mais sans image :
+
+- **Les Jardins de Castelnau**, Saint-Jean-de-Marsacq (Maremne Adour Côte Sud, à 13,9 km du centre de Labenne) : **faits complets,
+  image fermée**. Société active au registre (un établissement ouvert, 1008 route d'Arriet, maraîchage), certifiée biologique au
+  registre de l'Agence Bio ; magasin à la ferme ouvert le lundi et le jeudi de 17h à 19h et le samedi de 9h à 12h selon la page
+  « Producteurs » de la commune. Le site du producteur confirme la vente directe à la ferme sans en donner les heures, et tient
+  aussi un étal aux halles de Capbreton (mardi et samedi de 8h à 12h30, plus le jeudi l'été) et au parking d'une zone d'activité
+  de Soorts-Hossegor (vendredi de 14h30 à 19h). **Contradiction consignée (règle 5)** : la commune décrit un distributeur de
+  casiers de produits de saison en libre-service, le producteur le réserve au retrait des commandes passées en ligne ; c'est la
+  version du producteur qui ferait foi, et les heures du magasin, publiées par la seule commune, partiraient avec
+  `a_confirmer`. La BAN rend l'adresse à 0,946. Mais les mentions légales du site rangent les « images » parmi ce qu'elles interdisent
+  de reproduire, et ses conditions de vente ferment les « éléments visuels » (règles 231 et 245) ; la commune ne publie aucune
+  photographie du lieu, la Ville de Labenne ferme les siennes, et les deux photographies de l'AMAP de Labenne sont déjà
+  attribuées (règle 203). **Déblocage** : une photographie permise de ce magasin ou de ses cultures, ou une photographie
+  thématique de la Ville de Labenne si elle ouvre ses images (règle 228). Avec elle, le groupe de Labenne fait cinq points et la
+  passe qui reviendra dans le 40 le publie en premier.
+
+**Landes : douze nouvelles communes, d'Ychoux (37e) à Saint-Julien-en-Born (48e), aucune zone (règles 127, 247 et 260).** Point
+d'arrêt : **Saint-Julien-en-Born** ; la prochaine passe dans le 40 reprend à **Pontenx-les-Forges** (1 775 habitants), puis
+Saint-Perdon, Lit-et-Mixe et Vieux-Boucau-les-Bains, après avoir vérifié d'abord le déblocage du groupe de Labenne.
+
+- **Ychoux** (2 338), **Mées** (2 036), **Hinx** (1 894), **Roquefort** (1 990) : gabarit de l'Agence landaise pour l'informatique,
+  dont la clause range les « photos » parmi ce qu'elle interdit (règle 231) ; aucune ne publie de marché hebdomadaire sur son site.
+  Au registre biologique, seulement des exploitants en nom propre sans site (règle 259) ou des opérateurs sans vente au détail.
+  Aucune fiche.
+- **Léon** (2 306) : le site de la commune n'ouvre aucune connexion (règle 237) ; le fournil biologique de la Grand-Rue tient son
+  site sur un domaine dont le `robots.txt` exclut nommément `ClaudeBot` (règle 77). Aucune fiche.
+- **Angresse** (2 277, Maremne Adour Côte Sud) : le site de la commune ne publie ni marché ni producteur ; au registre, une
+  boulangerie et un fumoir sans vente déclarée aux particuliers, et un supermarché. Aucune fiche.
+- **Saint-André-de-Seignanx** (1 945) et **Benquet** (1 913) : pas de marché sur le site de la première, pas de site joignable pour
+  la seconde (règle 237) ; au registre, des exploitants en nom propre sans site. Aucune fiche.
+- **Saint-Jean-de-Marsacq** (1 840) : deux marchés par an seulement (producteurs au printemps, nocturne en été), sans dates, qui
+  ne font pas une fiche ; les Jardins de Castelnau ci-dessus ; les autres producteurs listés par la commune portent un nom de
+  personne ou ne publient leurs ventes que sur un réseau social. Aucune fiche entière.
+- **Saubion** (1 826, Maremne Adour Côte Sud) : la commune ne publie pas de marché ; la ferme d'insertion biologique de la route
+  de Saint-Vincent-de-Tyrosse (vente sur place et paniers) a un site en maintenance, dont le certificat ne correspond pas au
+  domaine (règle 237), et la vente à la ferme voisine n'est documentée que par l'office Landes Atlantique Sud, qui refuse le robot
+  (règle 257). Aucune fiche. **Déblocage** : le retour du site de la ferme d'insertion, qui ferait un sixième candidat du groupe
+  de Labenne (à environ 12 km de son centre).
+- **Saint-Martin-de-Hinx** (1 808) : l'annuaire des entreprises de la commune ne compte aucun commerce alimentaire ni producteur.
+  Aucune fiche.
+- **Saint-Julien-en-Born** (1 781) : même gabarit à clause fermée ; la page des marchés hebdomadaires existe, mais aucune image ne
+  la suit ; le fournil biologique de Contis est celui du domaine exclu ci-dessus, et le domaine inscrit au registre pour la ferme
+  maraîchère du chemin de Lio redirige vers un site sans rapport (règle 56). Aucune fiche.
+
+**Eure-et-Loir : les deux communes suivantes de la descente, aucune zone (règle 248).**
+
+- **Nogent-le-Rotrou** (9 292) : le site de la Ville, `ville-nogentlerotrou.fr`, répond 200 à l'agent par défaut et 403 à l'agent
+  nommé (règle 257). Les deux requêtes de contrôle ont été lancées dans la même commande que la lecture de la page des marchés ;
+  ce qui a été lu (marché alimentaire le samedi matin place Saint-Pol) n'a nourri aucune fiche, comme à Bry-sur-Marne (règle 252).
+  Les autres domaines de la Ville et de l'office ne répondent pas, et le Parc naturel régional du Perche n'est qu'un relais (règle
+  196). Aucune fiche. À l'avenir, le contrôle en deux requêtes se fait **avant** toute lecture de contenu.
+- **Luisant** (6 945, Chartres Métropole) : `luisant.fr` répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257). Non
+  consulté. Aucune fiche. Si une passe revient dans le 28, la descente reprend à **Auneau-Bleury-Saint-Symphorien** (6 419), puis
+  Épernon.
 
 ### Pistes non publiées dans les Landes et en Eure-et-Loir — troisième passe sans publication
 
