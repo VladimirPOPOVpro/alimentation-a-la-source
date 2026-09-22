@@ -3302,6 +3302,30 @@ prioritaires en cas de conflit.
      la médiathèque de la Ville et écartée des fiches de marchés, ce que la description dit. **Déblocage** : un `robots.txt`
      lisible chez l'hébergeur, ou la même photographie publiée par l'AMAP sur un domaine qui n'exclut personne.
 
+257. **Un serveur qui refuse le robot par son nom dit la même chose qu'un `robots.txt` qui l'exclut.** Dans les Landes, trois
+     éditeurs servent leurs pages à `curl` et à un robot quelconque, mais répondent 403 ou 444 dès que l'agent se présente comme
+     `ClaudeBot` : l'office de tourisme de Mont-de-Marsan et celui des Landes Atlantique Sud renvoient 403 à `ClaudeBot` comme à
+     `GPTBot` et 200 à un robot au nom inconnu ou à celui d'un moteur de recherche ; la Ville de Biscarrosse coupe la connexion
+     (444) pour `ClaudeBot` seul. Le `robots.txt` de ces sites ne nomme pourtant personne. La règle 77 visait le fichier
+     `robots.txt` ; elle disait déjà que ce qui compte est la décision éditoriale, pas l'obstacle technique. **Tranché ainsi** :
+     un filtrage qui distingue le robot par son nom — ou qui range les agents d'IA à part, en les refusant tous alors que les
+     autres passent — vaut exclusion au sens de la règle 77, le site entier n'est pas consulté, et **on ne repasse pas sous un
+     autre en-tête** (règles 212 et 252 : se déguiser pour franchir un filtrage, c'est le contourner). Le contrôle se fait en deux
+     requêtes, l'une avec l'agent par défaut, l'autre avec un agent nommé, avant d'instruire une commune. Un site qui refuse
+     *tout* agent automatique relève de la règle 237, pas de celle-ci. **Déblocage** : le retrait du filtrage, ou la même
+     information publiée par une autre autorité.
+258. **Deux fiches entières dans la commune calculée ne font pas une passe si l'intercommunalité ne complète pas le groupe.**
+     À Saint-Paul-lès-Dax, le marché du jeudi et le magasin biologique de l'avenue Gaston-Phoebus remplissent la règle 127,
+     faits et image compris. Mais le Grand Dax ne rend pas de troisième point illustrable : la Ville de Dax, l'agglomération et
+     l'office intercommunal ferment tous les trois leurs photographies, et les producteurs du secteur n'ont pas de site. La règle
+     127 s'arrête à « deux fiches entières, puis l'intercommunalité complète le groupe » sans dire ce qu'on fait quand la seconde
+     condition manque. **Tranché ainsi** : le groupement de cinq fiches est l'objet même de la passe (règle 41), et deux fiches
+     isolées ne sont pas une zone (règle 52) ; la commune est comptée comme éprouvée, ses deux fiches entières partent en pistes
+     **nommément désignées pour la reprise** au sens de la règle 249, et la descente continue. La passe qui reviendra dans le
+     département les prend avant tout candidat neuf, sans rouvrir le reste de la commune. Même issue à Labenne, dernière commune
+     de la même descente : deux fiches entières dans la commune, une troisième chez la voisine de son intercommunalité, et rien
+     au-delà — trois points ne font pas davantage une zone que deux, puisque la règle 52 ne s'ouvre qu'à quatre.
+
 ## Marchands à confirmer
 
 647 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10332,6 +10356,133 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées dans les Landes et en Eure-et-Loir — passe sans publication
+
+Passe du 22 septembre 2026, après celle de Morlaix, **aucune fiche publiée** (règle 248). **Classement, règle 41**, sur 714 fiches,
+dénominateur de la règle 224, outre-mer écarté par la règle 177 : **Landes** (40) **4,4896**, **Eure-et-Loir** (28) **4,4850**,
+Dordogne 4,3243, Tarn 4,1145, Aude 3,9312. La passe précédente visait le Finistère, en Bretagne : la Nouvelle-Aquitaine n'est pas
+écartée par la règle 41.c. `origin/main` n'avait pas bougé au moment de conclure (règle 241). Aucune demande de visiteur en
+attente, aucun courriel envoyé.
+
+**Ce qui a arrêté cette passe est le même obstacle partout : l'image.** Dans les Landes, les communes et les offices de tourisme
+qui documentent le mieux les marchés sont aussi ceux qui ferment leurs photographies (règles 231, 245 et 246), et trois éditeurs
+refusent nommément le robot par lequel cette carte travaille (règle 257, nouvelle). Les faits sont là, les images non : douze
+communes éprouvées n'ont rendu qu'une ou deux fiches entières, jamais une zone de cinq.
+
+**Landes : douze communes éprouvées, aucune zone (règles 127 et 247).** Point d'arrêt : **Labenne** ; la prochaine passe dans le 40
+reprend à **Ondres** (6 533 habitants), puis Saint-Martin-de-Seignanx, Aire-sur-l'Adour et Saint-Sever, et reprend
+d'abord les fiches entières listées ci-dessous (règles 247 et 249).
+
+- **Mont-de-Marsan** (1re commune, 31 592 habitants) : la Ville publie ses deux marchés hebdomadaires — le marché couvert
+  Saint-Roch, « exclusivement alimentaire », les mardis et samedis matin, et un marché aux vêtements place des Arènes le mardi de
+  9h à 18h — mais ses mentions légales interdisent l'usage de ses photographies (règle 231) et l'office de tourisme refuse le
+  robot (règle 257). **Fiche entière, à reprendre (règles 247 et 249)** : l'**AMAP du Moun**, distribution tous les mercredis de
+  18h15 à 19h45 dans la cour du collège Jean Cassaigne, 1120 chemin de Thore ; association vivante (articles des 27 août et
+  21 septembre 2026, plus de vingt producteurs listés par contrat), photographie utilisable publiée par l'AMAP elle-même (les
+  endives biologiques de sa maraîchère, 2 560 px, aucune personne, aucune mention légale sur le site — règles 232 et 231). Écartés :
+  la **Biocoop Nature et Santé** du boulevard Jean-Larrieu (SCOP active, certificat Ecocert engagé depuis février 2006, ouverte du
+  lundi au samedi de 9h30 à 19h) dont les conditions générales rangent les photographies parmi ce qu'elles interdisent de
+  reproduire (règle 245), sans qu'aucune photographie thématique permise de la commune n'existe (règle 231) ; les **Jardins de
+  Nonères**, maraîchage biologique du Département avec magasin et paniers, dont la page vit sur `landes.fr`, qui répond 403 à toute
+  requête (règle 237), et dont aucune autre source ne publie les heures de vente ; le magasin de producteurs de l'avenue du
+  Maréchal-Foch (société active, deux établissements ouverts), sans site propre, dont les horaires ne sont publiés que par des
+  annuaires tiers et dont personne ne publie de photographie ; les supermarchés certifiés biologiques, que `MODERATION.md` écarte ;
+  une enseigne de cosmétiques certifiée, hors sujet.
+- **Dax** (2e, 22 109) : la Ville documente tout — les vingt commerçants des halles et leurs métiers, les horaires des halles
+  (mardi à jeudi 8h-14h, vendredi 8h-18h, samedi 7h-18h, dimanche 8h30-14h), le marché des halles du samedi de 7h à 13h et le
+  marché des Trois-Pigeons le dimanche de 8h à 13h place Camille-Bouvet — mais ses mentions légales nomment les images dans leur
+  interdiction (règle 231), celles de l'office intercommunal interdisent « toute reproduction même partielle » de ses photos
+  (règle 230) et l'agglomération du Grand Dax fait de même. L'**AMAP de Dax** (distribution le mardi de 18h45 à 19h30 à la Halle
+  pour tous, 27 rue de l'Épargne) tient son site sur un service dont le `robots.txt` ne se lit pas et dont l'hébergeur d'images
+  répond 400 : règle 256, et aucune date de mise à jour n'y figure (règle 195). Le magasin biologique de l'avenue du Sablar et la
+  boutique de charcuterie fermière des halles ferment leurs photographies dans leurs mentions ; le site du fournil biologique de
+  la rue Saint-Vincent exclut nommément `ClaudeBot` dans son `robots.txt` (règle 77). Aucune fiche entière.
+- **Biscarrosse** (3e, 15 836) : le site de la Ville coupe la connexion pour `ClaudeBot` seul (règle 257) et l'office Bisca Grands
+  Lacs interdit explicitement la reprise de ses photographies (règle 230). **Fiche entière, à reprendre** : l'AMAP **Les Jardins du
+  Canal**, permanence et distribution tous les mardis de 17h30 à 18h45 à la Maison de la Foire, 104 rue du Lieutenant-de-Vaisseau-Paris ;
+  association vivante (page des paniers mise à jour le 1er mai 2026, fête de l'AMAP 2026 annoncée en page d'accueil le 20 septembre
+  2026), deux maraîchers sous contrat, photographie d'un panier d'été publiée par l'association (2 560 px, aucune personne, pas de
+  mentions légales sur le site). La Biocoop de la rue de l'Atelier est écartée faute d'image (règle 245, mêmes conditions générales
+  qu'à Mont-de-Marsan) ; les deux fermes biologiques de la commune ne publient pas d'horaires de vente (règle 192).
+- **Saint-Paul-lès-Dax** (4e, 14 481) : **deux fiches entières, à reprendre en premier (règles 258, nouvelle, et 249)**. Le
+  **marché du jeudi**, place du Marché Baheigne, de 8h à 12h30 sous la halle couverte livrée en juillet 2024 — jour, heure et lieu
+  lus sur le kakémono que la Ville a fait poser et qu'elle photographie elle-même (règle 74), confirmés par ses actualités du
+  8 juillet 2024 et du 14 août 2026 ; étals documentés par les photographies de la Ville (primeur, charcuterie fermière et conserves,
+  œufs, traiteur, et une partie non alimentaire) ; la Ville ne publie aucune clause sur ses images, sa page de mentions légales est
+  vide (règle 231), et deux de ses photographies sont sans personne (la halle vide, 2 560 px ; le kakémono, 2 048 px). Et le
+  **magasin biologique de l'avenue Gaston-Phoebus**, au Grand Mail, ouvert du lundi au samedi de 9h30 à 19h, dont les conditions
+  générales ferment les photographies (règle 245) mais qu'une photographie thématique de la commune publiée par la Ville pourrait
+  illustrer (règles 1 et 203). L'office de tourisme place ce marché « place de la Poste » quand la Ville écrit « place du Marché
+  Baheigne » : c'est la commune qui fait foi (règle 176), la contradiction est consignée ici. Ce qui manque est le reste de la
+  zone : le Grand Dax ne rend aucun troisième point illustrable (voir Dax), l'AMAP Pré Vert n'a plus de source datée depuis 2017
+  (règle 195) et son adresse est celle d'une salle municipale, les maraîchers du secteur sont inscrits en nom propre sans site
+  (règles 36 et 192).
+- **Tarnos** (5e, 12 957) : les mentions légales de la Ville nomment « images, photographies » et n'autorisent qu'un usage privé
+  (règle 246). Une seule fiche possible, et elle est entière : la **Ferme Emmaüs Baudonne**,
+  ferme maraîchère d'insertion certifiée biologique, qui publie sur son propre site une vente directe le mercredi de 14h à 17h30
+  au 361 route Emmaüs, devant le bric-à-brac voisin, et vend aussi le samedi matin au marché de Bayonne (règle 20 : le point de
+  vente est dans la commune). Une fiche isolée n'est pas une zone (règle 52) : elle attend en piste. Attention pour la reprise :
+  plusieurs fichiers de ce site portent dans leur nom l'identité de la photographe, à retirer avant tout dépôt (règle 235).
+- **Saint-Pierre-du-Mont** (6e, 10 092) : la commune n'a pas de site joignable depuis cet environnement (règle 237). La ferme
+  maraîchère biologique du lieu-dit Burté vend sur place, mais ses horaires ne sont publiés que par un annuaire départemental et
+  par la presse, et elle n'a ni site ni photographie libre ; l'autre opérateur certifié de la commune vend des cosmétiques. Aucune
+  fiche entière.
+- **Capbreton** (7e, 9 184) : le site de la Ville ne répond plus (règle 237, vérifié à quatre reprises) et l'office Landes
+  Atlantique Sud refuse le robot (règle 257). Les deux brasseries certifiées de la commune sont inscrites au registre biologique à
+  Capbreton mais installées, pour l'une, à Seignosse selon son propre site ; l'autre n'a pas de site joignable. Aucune fiche entière.
+- **Soustons** (8e, 8 701) : `soustons.fr` renvoie vers le portail de l'office Landes Atlantique Sud, qui refuse l'agent nommé
+  (règle 257) ; l'autre domaine de la mairie ne répond pas (règle 237). Le marché du lundi de 8h à 13h, place des Arènes, n'est
+  documenté que par le syndicat des marchés des Landes et des Pyrénées-Atlantiques, sans composition ni photographie ; l'AMAP
+  locale (jeudi de 19h à 20h, local d'un comité des fêtes) n'est datée que par un annuaire associatif (règle 195) ; une exploitation
+  apicole de la route de Saint-Geours a une photographie utilisable de son enseigne (1 632 px, sur un annuaire dont les conditions
+  ne nomment aucune image) mais ses horaires ne sont publiés que par un site dont le `robots.txt` exclut nommément ClaudeBot,
+  GPTBot, CCBot, Bytespider, `anthropic-ai` et Amazonbot (règles 77 et 149). Aucune fiche entière.
+- **Saint-Vincent-de-Tyrosse** (9e, 8 014) : les faits sont complets — marché du samedi de 8h à 13h place du Foirail, une
+  soixantaine d'exposants (page de la Ville, novembre 2023, recoupée par le syndicat des marchés) ; magasin biologique de la zone
+  de Casablanca ouvert du lundi au samedi de 9h à 19h, société active ; AMAP le samedi de 10h à 11h sous les halles. Mais les
+  mentions légales de la Ville nomment les photos et les conditions générales du magasin nomment « les photographies, les images
+  fixes ou animées » (règles 231 et 245) ; la seule photographie du marché montre en outre des visages au premier plan,
+  irrécupérables au-dessus de 700 px (règle 185). Aucune fiche entière.
+- **Mimizan** (10e, 7 673) : les mentions de la Ville excluent l'iconographie et celles de l'office de tourisme nomment les images
+  (règles 231 et 230). Une ferme biologique de la rue de Galand ouvre sa boutique du mardi au vendredi de 16h à 18h et tient le
+  marché du bourg le vendredi matin : la seule photographie de son étal est servie par l'hébergeur d'images de Wix, dont le
+  `robots.txt` répond 403 (règle 256). Le magasin biologique de la place des Ormes a des faits complets, mais son site propre
+  refuse l'agent nommé (règle 257) et l'enseigne nationale qui le référence nomme les photographies dans ses mentions. Aucune
+  fiche entière.
+- **Parentis-en-Born** (11e, 7 586) : les mentions de la Ville nomment « photos, images » (règle 231). Une ferme maraîchère
+  biologique de la route de Herran tient son propre site, présente au marché du jeudi matin, mais ne publie aucun horaire de vente
+  à la ferme (règle 192). Aucune fiche entière.
+- **Labenne** (12e et dernière commune de la descente, 7 183) : **deux fiches entières, à reprendre en premier (règles 258 et 249)**.
+  Le **marché de terroir**, le jeudi de 16h30 à 19h place de la République, de 16h30 à 22h en juillet et août, « producteurs locaux
+  et bio » — page « Marchés » de la Ville, datée du 7 juillet 2026, qui renvoie à l'AMAP pour ce marché. Et l'**AMAP de Labenne**,
+  la première des Landes (2006), distribution le jeudi de 18h à 19h sous l'auvent du foyer municipal, même place ; son activité est
+  attestée par la page de la Ville plutôt que par son propre site. **Images** : celles de la Ville sont fermées par ses mentions
+  (règle 231) ; celles de l'association sont utilisables — un étal de courges (2 560 × 644) et une distribution recadrée sous la
+  ligne des visages (1 626 × 520) —, avec la réserve de la règle 101 : le site de l'AMAP est aujourd'hui vérolé par du spam injecté
+  (listes de domaines sans rapport sur chaque page, gabarit de démonstration déposé en avril 2024), il ne doit pas entrer dans
+  `site_web`, mais ses dépôts de 2019 à 2022 restent des documents. **Complément manquant** : dans Maremne Adour Côte Sud, seule
+  l'antenne de Capbreton de la même AMAP tient (lundi de 18h30 à 19h30, au marché côté Boudigau, photographie de cageots sans
+  visage, 789 px, règle 175) ; la boulangerie biologique de l'avenue du Général-de-Gaulle, société active et certifiée, n'a plus de
+  site joignable et ses horaires ne sont publiés que par des annuaires (règle 192) ; le maraîcher de Saint-Jean-de-Marsacq ferme
+  ses « éléments visuels » dans ses conditions de vente ; la brasserie de Seignosse interdit la reprise de ses images ; le site de
+  la Ville de Capbreton, qui répond mais ne sert plus aucune page, relève de la règle 237. Trois fiches, pas quatre : la règle 52
+  fait reprendre la descente, et la règle 247 la termine ici.
+
+
+**Eure-et-Loir : les deux communes que la règle 248 autorise, aucune zone.** Second département du classement (4,4850).
+
+- **Chartres** (38 324 habitants) : le `robots.txt` de `chartres.fr` porte `User-agent: ClaudeBot` et lui interdit le site (règle 77) ;
+  celui de l'office de tourisme ne nomme personne, mais son serveur répond 403 au même agent et 200 aux autres (règle 257). Ni la
+  Ville ni l'office n'ont donc été consultés, et aucune fiche n'a été instruite : les marchés chartrains restent à documenter par
+  une autre autorité. **Déblocage** : le retrait de ces deux exclusions, ou les mêmes faits publiés par Chartres Métropole.
+- **Dreux** (31 543) : `dreux.fr` et le site de l'agglomération ne répondent pas ; le site officiel de la Ville, `dreux.com`, est
+  ouvert et documente la vie commerçante et le marché couvert du centre, mais ses mentions légales rangent « illustrations,
+  photographies » parmi ce qu'il est interdit de reproduire (règle 231), ses crédits citent Fotolia, Adobe Stock et Stocklib
+  (règle 70), et l'office de tourisme du Pays de Dreux refuse le robot (règle 257). Aucune image, donc aucune fiche entière.
+
+La passe suivante recalcule le classement (règle 41) et reprend soit la descente landaise à Ondres (règle 247), soit celle
+d'Eure-et-Loir à Lucé, selon ce que donne le calcul.
 
 ### Pistes non publiées à Morlaix et dans la descente du Finistère
 
