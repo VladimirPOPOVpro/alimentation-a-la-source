@@ -18879,5 +18879,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3+rue+Henri+Barbusse+Oullins",
     "image_url": "/images/marchands/amap-oull-oullins.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-morlaix",
+    "nom": "Marché du samedi de Morlaix",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.576357,
+    "lon": -3.826007,
+    "adresse": "Place Allende, 29600 Morlaix",
+    "horaires": "Samedi matin, jusqu'à 13h30 pour le marché alimentaire place Allende (Ville de Morlaix et office de tourisme Baie de Morlaix) ; le marché d'habillement et d'artisanat se tient toute la journée place des Otages. Aucune des deux sources ne publie l'heure d'ouverture.",
+    "produits": [
+      "Fruits et légumes des maraîchers",
+      "Pain",
+      "Poisson",
+      "Charcuterie",
+      "Miel",
+      "Huîtres de la baie"
+    ],
+    "description": "Le grand marché hebdomadaire de Morlaix, au pied du viaduc : la Ville y place les maraîchers, boulangers, poissonniers, charcutiers et apiculteurs des environs sur la place Allende, et le non-alimentaire place des Otages. Une ferme bio de Plouezoc'h y vend sa viande d'élevage plein air chaque samedi. Photo : Ville de Morlaix, bandeau de la page du marché, recadré.",
+    "site_web": "https://www.morlaix.bzh/vie-quotidienne/marche-de-morlaix",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Allende+Morlaix",
+    "image_url": "/images/marchands/marche-du-samedi-morlaix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "grain-de-sail-chocolaterie-morlaix",
+    "nom": "Grain de Sail — boutique-chocolaterie",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.592804,
+    "lon": -3.831818,
+    "adresse": "7 Rue du Cosquer, 29600 Morlaix",
+    "horaires": "Boutique du mardi au samedi de 9h30 à 18h30, fermée le lundi, le dimanche et les jours fériés ; galerie de visite du mardi au samedi de 9h30 à 17h30 (office de tourisme Baie de Morlaix et site de l'entreprise).",
+    "produits": [
+      "Tablettes de chocolat bio",
+      "Chocolat",
+      "Café torréfié"
+    ],
+    "description": "Chocolaterie et torréfaction installées au rond-point de la Vierge Noire, qui transforment sur place un cacao et un café importés à la voile ; la boutique vend la production de l'atelier, et une galerie vitrée montre la fabrication des tablettes. Entreprise certifiée bio (Certis) au registre de l'Agence Bio. Photo : Office de tourisme Baie de Morlaix, façade de la chocolaterie, droits réservés.",
+    "site_web": "https://graindesail.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grain+de+Sail+7+rue+du+Cosquer+Morlaix",
+    "image_url": "/images/marchands/grain-de-sail-chocolaterie-morlaix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-coccinelle-saint-martin-des-champs",
+    "nom": "Biocoop Coccinelle",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.566837,
+    "lon": -3.854969,
+    "adresse": "3 Rue Marcellin Berthelot, ZA de Keriven, 29600 Saint-Martin-des-Champs",
+    "horaires": "Du lundi au samedi de 9h à 19h ; fermé le dimanche et les jours fériés",
+    "produits": [
+      "Fruits et légumes de saison bio",
+      "Boucherie et charcuterie",
+      "Traiteur, dont végétarien",
+      "Pain",
+      "Fromage à la coupe",
+      "Vrac"
+    ],
+    "description": "Né en 1985 d'un groupement d'achat de consommateurs, le magasin bio de Morlaix est installé depuis 2016 dans la zone de Keriven ; c'est le deuxième plus grand magasin de Finisterra, coopérative de consommateurs finistérienne qui publie nommément ses fermes, fromageries et brasseries bretonnes. Rayon boucherie traditionnelle, pain et fromage à la coupe. Photo : Office de tourisme Baie de Morlaix, façade du magasin, droits réservés.",
+    "telephone": "02 98 63 42 04",
+    "site_web": "https://www.finisterra.fr/bio-biocoop-coccinelle-morlaix.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Coccinelle+Saint-Martin-des-Champs",
+    "image_url": "/images/marchands/biocoop-coccinelle-saint-martin-des-champs.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-troglo-plouezoch",
+    "nom": "La Ferme du Troglo",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.642776,
+    "lon": -3.845732,
+    "adresse": "Kerfénéface, 29252 Plouezoc'h",
+    "horaires": "Marché à la ferme le vendredi de 17h à 19h (office de tourisme Baie de Morlaix, page des marchés) ; la ferme vend aussi le samedi au marché de Morlaix.",
+    "produits": [
+      "Viande d'agneau",
+      "Viande de porc",
+      "Charcuteries",
+      "Fumaisons sans nitrites",
+      "Bocaux"
+    ],
+    "description": "Élevage bio de moutons Landes de Bretagne et de cochons laineux et de Bayeux, races anciennes élevées en plein air, les moutons à l'herbe et les cochons aux céréales de la ferme. Le vendredi soir, d'autres producteurs bio (légumes, pain, cidre) rejoignent le marché à la ferme, animé par une buvette associative. Photo : Office de tourisme Baie de Morlaix, cochons au pré, droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kerf%C3%A9n%C3%A9face+Plouezoc%27h",
+    "image_url": "/images/marchands/ferme-du-troglo-plouezoch.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "huitres-de-sterec-plougasnou",
+    "nom": "Les Huîtres de Stérec",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.676639,
+    "lon": -3.84896,
+    "adresse": "Impasse de Feunteun Bol, port de Térénez, 29630 Plougasnou",
+    "horaires": "Vente directe au port de Térénez du lundi au vendredi de 9h à 12h et de 14h à 18h, le samedi de 9h à 12h ; au bourg de Plouezoc'h le dimanche de 8h à 12h30. Bar à huîtres de juillet à septembre, de 12h à 21h.",
+    "produits": [
+      "Huîtres Morlaix-Penzé",
+      "Moules",
+      "Coquillages"
+    ],
+    "description": "Parcs ostréicoles du port de Térénez, en baie de Morlaix, où naissent entre l'île Stérec et l'île Noire des huîtres Morlaix-Penzé médaillées au Concours général agricole ; vente directe au chantier et terrasse de dégustation en saison. Photo : Office de tourisme Baie de Morlaix, port de Térénez et tables à huîtres, droits réservés.",
+    "telephone": "02 98 72 44 43",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Port+de+T%C3%A9r%C3%A9nez+Plougasnou",
+    "image_url": "/images/marchands/huitres-de-sterec-plougasnou.jpg",
+    "a_confirmer": true
   }
 ]

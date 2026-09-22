@@ -3304,7 +3304,12 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-642 fiches sur 709 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+647 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du samedi de Morlaix** (Morlaix) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jour et lieu** : Ville et office de tourisme Baie de Morlaix concordants, alimentaire place Allende jusqu'à 13h30 ; aucune des deux ne publie l'heure d'ouverture, d'où `a_confirmer`. **Point** : place Allende à la Base Adresse Nationale (0,96). **Produits** : métiers que la Ville nomme sur la place Allende, et la présence du samedi qu'une ferme bio de Plouezoc'h publie sur sa fiche d'office (règle 122). **Photo** : bandeau de la page du marché de la Ville, 1920 × 330, recadré au centre sur 1280 px, foule trop lointaine pour qu'un visage se lise ; le site de la Ville n'a aucune clause sur ses images, sa page « Crédits » ne nomme que le prestataire et l'hébergeur (règle 231))
+- **Grain de Sail — boutique-chocolaterie** (Morlaix) (catégorie `producteur`, règle 73 : cacao et café importés, transformés et vendus sur place. **Registre** : établissement actif au 7 rue du Cosquer (siret se terminant par 00029), la société a trois établissements ouverts. **Bio** : certificat Certis engagé depuis 2014 au registre de l'Agence Bio, vente aux particuliers déclarée ; le certificat suit l'exploitant (règle 43). **Horaires** : office, recoupés pour la galerie par le site de l'entreprise. **Téléphone non inscrit** : seul l'office publie un numéro, que le site de l'entreprise ne donne nulle part (règle 201). **Photo, règles 59 et 239** : façade de la chocolaterie publiée par l'office, 600 × 311, plus grande variante servie, sans personne ; aucune photographie thématique nette de la commune ne la remplace)
+- **Biocoop Coccinelle** (Saint-Martin-des-Champs) (catégorie et piliers des magasins bio de la coopérative Finisterra, comme Kerbio Rive Droite. **Registre** : établissement « COOP COCCINELLE » de Finis Terra actif ZA de Keriven ; l'ancien établissement de la route de Sainte-Sève est fermé. **Règle 86** : la coopérative publie nommément ses fournisseurs bretons. **Horaires et téléphone** : site de la coopérative et office concordants. **Photo, règle 239** : les mentions légales de Finisterra réservent ses photographies ; la façade vient de l'office de tourisme (fichier de 2026, 4608 px ramené à 1280), enseigne lisible, personne dans le cadre. À 2,1 km du marché de Morlaix, même intercommunalité (règle 96))
+- **La Ferme du Troglo** (Plouezoc'h) (catégorie `ferme`, pilier `environnement` : GAEC actif au lieu-dit Kerfénéface, certificat Certipaq Bio engagé, vente aux particuliers déclarée. **Horaires** : page des marchés de l'office, marché à la ferme du vendredi 17h-19h ; la nouveauté du mercredi d'été que cite la fiche de l'office date de 2024 et n'est pas reprise. **Point** : lieu-dit Kerfénéface à la Base Adresse Nationale (0,94), lieu de l'établissement au registre ; exploitation agricole, pas un domicile (règle 243). **Téléphone non inscrit** : un portable que seul l'office publie (règle 143). **Photo** : cochons au pré publiés par l'office, 800 px. À 7,4 km du marché de Morlaix)
+- **Les Huîtres de Stérec** (Plougasnou) (catégorie `ferme`, règle 13 : ostréiculteur qui vend sa production. **Registre** : société active, établissement ouvert à Térénez. Pas de pilier `environnement` : aucune inscription au registre de l'Agence Bio. **Horaires, téléphone** : office de tourisme ; le numéro fixe est aussi imprimé sur la carte de visite de l'entreprise que l'office publie. **Point** : impasse de Feunteun Bol à la Base Adresse Nationale (0,80), sur le port de Térénez. **Photo** : vue du port et des tables à huîtres publiée par l'office, 600 × 450 ; la carte de visite et le portrait de la même fiche nomment des personnes et ne sont pas repris. À 11,1 km du marché de Morlaix)
 - **Marché Diderot** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jours et heures** : page « Jours de marché » de la Ville, mise à jour le 12 janvier 2026 ; la Métropole de Lyon arrête le marché à 12h, cité dans `horaires` (règle 176). **Point, règles 26 et 64** : la Ville écrit « Parking Diderot », l'office « 25 rue Diderot – parking de l'Hôtel de Ville », numéro que la Base Adresse Nationale ignore ; le point est celui que la Métropole publie pour ce marché, dont le contrôle inverse rend la place Roger-Salengro, siège de l'Hôtel de Ville, à 8 m. **Produits** : natures de la Ville et fiche de l'office. **Photo, règles 109 et 245** : fichier de la médiathèque de la Ville pour sa page des marchés, prise de vue du jeudi 6 juillet 2017, seul marché du jeudi ; recadré sous la vendeuse, métadonnées retirées, source citée)
 - **Marché de la Bussière** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Jours et heures** : Ville, Métropole et office concordants. **Point, règle 64** : point de la Métropole, contrôle inverse sur le 42 rue de la Bussière à 19 m. **Photo** : fichier que la Ville légende « Marché de la Bussière », pris un samedi (12 décembre 2015) ; recadré sur la bande haute — auvents et platanes — pour écarter tous les visages, ce qui laisse un bandeau de 1280 × 310 sans étal lisible)
 - **Marché de la place de la Paix** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Jours et heures** : Ville 8h-12h, Métropole 7h30-13h, les deux cités ; la fiche de l'office, de 2018, place encore ces séances place Jean-Jaurès — la Ville et la Métropole, qui s'accordent, font foi (règle 176). **Point** : lieu-dit « Place de la Paix (Pierre-Bénite) » de la Base Adresse Nationale, à 18 m du point de la Métropole. **Produits, règle 221** : la Ville ne publie que la nature du marché. **Photo** : fichier de la Ville nommé pour le marché de Pierre-Bénite, pris le dimanche 28 septembre 2014, au cours de la même séance que la vue que la Ville nomme « place de la Paix », qui montre des visages et n'a pas été retenue ; on n'en lit aucun produit)
@@ -10327,6 +10332,51 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Morlaix et dans la descente du Finistère
+
+Passe du 22 septembre 2026, après celle d'Oullins-Pierre-Bénite. **Département retenu, règle 41** : le **Finistère** (29), déficit
+**4,5981** sur 709 fiches, devant les Landes (4,4581), l'Eure-et-Loir (4,4536) et la Dordogne (4,2941) ; outre-mer écarté (règle
+177), dénominateur de la règle 224. La passe précédente visait le Rhône, en Auvergne-Rhône-Alpes : la Bretagne n'est pas écartée
+par la règle 41.c. `origin/main` n'avait pas bougé au moment de publier (règle 241). Aucune demande de visiteur en attente, aucun
+courriel envoyé. **Descente, règles 127 et 247** : reprise à Landerneau, point laissé par la passe sans publication ; trois
+communes éprouvées — Landerneau, Guipavas, puis **Morlaix** (15 194 habitants), qui fait la passe : deux fiches entières dans la
+commune (le marché du samedi, la boutique-chocolaterie Grain de Sail), complétées dans Morlaix Communauté (règle 96) par la
+Biocoop Coccinelle de Saint-Martin-des-Champs (2,1 km), la Ferme du Troglo à Plouezoc'h (7,4 km) et les Huîtres de Stérec à
+Plougasnou (11,1 km). La fiche entière de Quimper (magasin de producteurs de Locmaria) reste en pistes : à plus de 60 km, elle ne
+peut pas compléter une zone morlaisienne (règles 96 et 249). Après la passe, sur 714 fiches, le 29 tombe à **−0,33** ; en tête
+ensuite : les **Landes** (4,4896), l'**Eure-et-Loir** (4,4850), la **Dordogne** (4,3243). Si une passe revient dans le Finistère,
+la descente reprend à **Douarnenez** (14 068 habitants), puis Plouzané, Plougastel-Daoulas et Quimperlé.
+
+- **Landerneau** (1re commune) : la Ville publie un marché les mardi, vendredi et samedi de 8h30 à 13h (place du Général-de-Gaulle,
+  pont de Rohan, quai de Léon, et place du Commandant-L'Herminier le samedi), mais ses mentions légales réservent « les
+  représentations iconographiques et photographiques » (règle 231) ; l'office de tourisme du pays de Landerneau-Daoulas, qui
+  fiche une cinquantaine de producteurs et de marchés de l'intercommunalité, interdit lui aussi la reproduction de ses
+  photographies. La brasserie bio de la rue Ernest-Renan (vendredi 15h-19h, certificat Certipaq engagé) ferme ses images dans
+  ses mentions (« graphismes, images »), comme la ferme bio de La Roche-Maurice qui vend sur le marché. Les vergers de Kerlaran
+  n'ont ni horaires ni site (règle 192) ; le magasin Biocoop de la rue Henri-Dunant n'a pas de site propre. Aucune fiche entière.
+  Déblocage : une photographie du marché, ou thématique de la commune, publiée par une source qui en permet la reprise. Noté pour
+  plus tard dans l'intercommunalité : le magasin de producteurs de Goasven à Logonna-Daoulas (mardi 16h30-19h, vendredi 15h-19h30,
+  samedi 9h30-12h30 sur son propre site), un magasin de quarante producteurs à Pencran, une fromagerie fermière à Saint-Urbain.
+- **Guipavas** (2e) : un marché le mercredi de 15h à 20h, revenu le 20 mai 2026 place Saint-Herbot Saint-Éloi refaite ; les
+  mentions de la Ville sont une clause générale (règle 253), mais la photographie de la page porte dans ses métadonnées le
+  copyright d'un photographe professionnel et date de l'ancien emplacement. Le seul magasin bio de la commune n'a plus de site : son
+  domaine sert aujourd'hui un site de jeux d'argent (règles 79 et 159). Une seule fiche possible, pas deux (règle 127).
+- **Morlaix**, écartés : une épicerie asiatique du centre (produits importés revendus, hors sujet) ; un magasin de prêt-à-porter
+  que l'office range dans la même rubrique.
+- **Morlaix Communauté**, écartés ou laissés : la brasserie de l'allée Saint-François à Saint-Martin-des-Champs (société active
+  depuis 2023) ne publie aucun horaire de vente, ni sur la fiche de l'office ni ailleurs (règle 192) ; trois ostréiculteurs de
+  Carantec vendent sous des enseignes bâties sur un patronyme (règle 36) ; un quatrième, au nom de lieu, est au registre de l'Agence
+  Bio avec une certification arrêtée et une vente aux seuls grossistes ; le marché de producteurs bio de Plounéour-Ménez (vendredi
+  17h-19h30) est à plus de quinze kilomètres ; le marché du dimanche de Saint-Martin-des-Champs n'a pas d'image. Aucune AMAP
+  morlaisienne n'a été trouvée avec une source datée (règle 195) : la cinquième place revient à la fiche la mieux vérifiée (règle
+  170).
+
+**Sources consultées** : sites des Villes de Landerneau, Guipavas et Morlaix (pages des marchés, mentions légales, crédits) ; offices
+de tourisme du pays de Landerneau-Daoulas et Baie de Morlaix (fiches, page des marchés, mentions légales) ; site de la coopérative
+Finisterra ; sites de Grain de Sail, d'une brasserie de Landerneau, d'une ferme de La Roche-Maurice et du magasin de Goasven ;
+registre de l'Agence Bio (29, 2 658 opérateurs) ; registre des entreprises ; Base Adresse Nationale. Ces sources nomment des élus,
+des exploitants, des ostréiculteurs, des brasseurs, des commerçants et des photographes : aucun nom n'est repris.
 
 ### Pistes non publiées à Oullins-Pierre-Bénite et dans la descente du Rhône
 
