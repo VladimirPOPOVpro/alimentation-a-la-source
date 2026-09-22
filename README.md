@@ -3265,9 +3265,51 @@ prioritaires en cas de conflit.
      règle 196, et l'on passe. Ce qui a été lu de ce site pendant le test n'a nourri aucune fiche. **Déblocage** : le retrait du
      filtrage, ou la même information publiée par une autre autorité.
 
+253. **La règle 246 se lit à la section, pas à la balise : sous un même intertitre « Droits d'auteur », une interdiction de
+     reproduire « ce site » et une phrase qui range les photographies parmi les droits de la Ville font une seule clause.** Les
+     mentions légales de Vaulx-en-Velin et de Bron portent, sous l'intertitre « Droits d'auteurs et copyright », trois
+     paragraphes HTML distincts : le site relève du droit d'auteur ; toute reproduction de ce site est interdite sans
+     autorisation ; les droits des illustrations et photographies appartiennent à la Ville. La règle 246 parlait « du
+     paragraphe » ; ici l'interdiction et la mention des photographies sont dans deux balises voisines. **Tranché ainsi** : le
+     découpage en balises est une affaire de mise en page, l'intertitre dit l'objet de la clause ; une interdiction et une
+     mention des photographies placées sous le même intertitre ferment le site comme source d'image. Une clause qui ne nomme
+     les images nulle part dans la section reste une clause générale (règle 231) — c'est le cas d'Oullins-Pierre-Bénite, dont
+     la section « Propriété intellectuelle » autorise en outre la réutilisation non commerciale en citant l'origine et la date,
+     condition remplie dans chaque fiche (règles 239 et 245).
+
+254. **Quand la commune ferme ses propres photographies, celle qu'elle a fournie à l'office de tourisme, créditée à son nom sur la
+     fiche de l'office, se lit sous le régime de l'office.** À Bron, la seule photographie du marché de la place de la Liberté
+     publiée par ONLYLYON Tourisme porte le crédit « Ville de Bron » ; les mentions légales de la Ville ferment son site (règle
+     253), celles de l'office ne disent rien des images. **Tranché ainsi** : c'est la règle 230 — la photographie est fournie à
+     l'office pour la promotion du lieu, et c'est l'éditeur qui la diffuse qui s'exprime sur sa reprise (règle 145) ; elle est
+     utilisable pour la fiche de ce marché-là, et seulement pour elle (règle 66). Bron n'a pas fait la passe pour autant : aucune
+     autre de ses candidates n'avait d'image (règle 127). Une photographie d'office créditée à une banque d'images (Pixabay,
+     PxHere, Shutterstock, Adobe Stock) reste sous la règle 70, quel que soit l'éditeur qui la diffuse.
+
+255. **Une image servie par un redimensionneur se juge à la plus grande taille que la page elle-même demande.** Le serveur d'images
+     de l'office de tourisme de la Métropole de Lyon rend n'importe quelle dimension qu'on lui demande : les vignettes de
+     220 × 165 des marchés de Saint-Priest et de 200 × 133 de Décines-Charpieu reviennent en 1 600 × 1 067 si on les appelle ainsi,
+     floues et agrandies. `AGENT.md` interdit d'agrandir, et un agrandissement fait par un serveur reste un agrandissement.
+     **Critère** : la largeur d'une telle image est celle de la plus grande variante que la page sert elle-même (`src`, `srcset`,
+     bloc de galerie) ; c'est elle qui passe les seuils des règles 59 et 185. Les deux marchés de Saint-Priest partagent en outre
+     le même fichier, comme trois des marchés de Décines (règle 88).
+
+256. **Un hébergeur d'images dont le `robots.txt` ne se lit pas n'est pas un hébergeur qui n'exclut personne.** Le site de
+     l'Amap'Oull' est servi par Wix, et ses photographies par `static.wixstatic.com`, dont le `robots.txt` répond 403. La règle
+     238 veut qu'une image ne soit reprise que si ni le site ni le domaine qui la sert n'exclut un agent d'IA ; une réponse 403
+     ne dit ni oui ni non. **Tranché ainsi** : faute de pouvoir lire la volonté de l'hébergeur, l'image n'est pas reprise et la
+     fiche descend à l'échelon suivant — ici une photographie thématique de la même commune au titre de la règle 203, prise dans
+     la médiathèque de la Ville et écartée des fiches de marchés, ce que la description dit. **Déblocage** : un `robots.txt`
+     lisible chez l'hébergeur, ou la même photographie publiée par l'AMAP sur un domaine qui n'exclut personne.
+
 ## Marchands à confirmer
 
-637 fiches sur 704 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+642 fiches sur 709 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Diderot** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jours et heures** : page « Jours de marché » de la Ville, mise à jour le 12 janvier 2026 ; la Métropole de Lyon arrête le marché à 12h, cité dans `horaires` (règle 176). **Point, règles 26 et 64** : la Ville écrit « Parking Diderot », l'office « 25 rue Diderot – parking de l'Hôtel de Ville », numéro que la Base Adresse Nationale ignore ; le point est celui que la Métropole publie pour ce marché, dont le contrôle inverse rend la place Roger-Salengro, siège de l'Hôtel de Ville, à 8 m. **Produits** : natures de la Ville et fiche de l'office. **Photo, règles 109 et 245** : fichier de la médiathèque de la Ville pour sa page des marchés, prise de vue du jeudi 6 juillet 2017, seul marché du jeudi ; recadré sous la vendeuse, métadonnées retirées, source citée)
+- **Marché de la Bussière** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Jours et heures** : Ville, Métropole et office concordants. **Point, règle 64** : point de la Métropole, contrôle inverse sur le 42 rue de la Bussière à 19 m. **Photo** : fichier que la Ville légende « Marché de la Bussière », pris un samedi (12 décembre 2015) ; recadré sur la bande haute — auvents et platanes — pour écarter tous les visages, ce qui laisse un bandeau de 1280 × 310 sans étal lisible)
+- **Marché de la place de la Paix** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Jours et heures** : Ville 8h-12h, Métropole 7h30-13h, les deux cités ; la fiche de l'office, de 2018, place encore ces séances place Jean-Jaurès — la Ville et la Métropole, qui s'accordent, font foi (règle 176). **Point** : lieu-dit « Place de la Paix (Pierre-Bénite) » de la Base Adresse Nationale, à 18 m du point de la Métropole. **Produits, règle 221** : la Ville ne publie que la nature du marché. **Photo** : fichier de la Ville nommé pour le marché de Pierre-Bénite, pris le dimanche 28 septembre 2014, au cours de la même séance que la vue que la Ville nomme « place de la Paix », qui montre des visages et n'a pas été retenue ; on n'en lit aucun produit)
+- **Marché de producteurs de la place Jean-Jaurès** (Oullins-Pierre-Bénite) (catégorie et piliers des marchés municipaux. **Jours et heures** : Ville et Métropole concordantes. **Point** : centre de la place Jean-Jaurès à la Base Adresse Nationale (0,96), à 11 m du point de la Métropole et à 200 m de la place de la Paix : deux lieux, deux fiches (règle 42). **Produits, règles 197 et 221** : « marché de producteurs – alimentaire » pour la Ville ; aucune liste de producteurs publiée. **Photo** : le stand de fleurs de la Saint-Valentin que la Ville photographie sur ce marché le vendredi 14 février 2025 ; ce n'est pas un étal alimentaire, et la description le dit)
+- **Amap'Oull'** (Oullins-Pierre-Bénite) (catégorie et piliers des AMAP, sans `environnement` (règle 60). **Activité, règle 195** : site propre vivant, qui décrit les contrats et l'adhésion de 2026. **Lieu, règle 243** : un parc public, derrière un gymnase municipal. **Photo, règles 203 et 256** : les photographies de l'AMAP sont servies par un hébergeur dont le `robots.txt` ne se lit pas ; la fiche porte des courges photographiées par la Ville sur un marché de la commune un vendredi de septembre 2019 — fichier non attribué à un marché et écarté de la fiche du vendredi —, recadrées hors de toute personne. La page de l'association nomme les membres de son bureau : aucun n'est repris)
 - **Marché Cœur de Nogent « Le Village »** (Nogent-sur-Marne) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville, confié à la régie intercommunale de Paris Est Marne & Bois. **Existence en 2026** : la page « Marchés de Nogent » (avril 2025), l'office de tourisme et une actualité de la Ville du 18 septembre 2026 qui y annonce des animations. **Jours et heures** : Ville et office concordants. **Lieu provisoire, règle 157** : depuis le 11 juillet 2024, le marché occupe un parcours de plusieurs pôles autour de l'ancien marché, pendant la reconstruction de la halle du centre (gros œuvre achevé en février 2026) ; la page de juillet 2024 cite cinq pôles, rue Thiers comprise, la page des marchés quatre — ce sont les quatre de la page de référence qui sont écrits. **Point** : place de l'Ancien-Marché à la Base Adresse Nationale (0,958). **Produits** : la liste de la Ville, sans les commerçants de passage. **Téléphone, règle 251**. **Photo, règles 46, 109 et 135** : l'étal de fruits que la Ville place dans la rubrique de ce marché, pris le jeudi 11 juillet 2024, jour d'ouverture du parcours provisoire, recadré sous les visages et hors de la balance, 1 280 × 904.)
 - **Marché Leclerc** (Nogent-sur-Marne) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jours et heures** : Ville et office concordants. **Point, règle 10** : l'office écrit « 1, place du Général Leclerc », numéro que la Base Adresse Nationale ignore (elle connaît le 2 bis et le 4) ; le point est le centre de la place (0,834), dont le contrôle inverse rend le 2 bis à 9 m. **Téléphone, règle 251**. **Photo, règles 109, 135 et 140** : la Ville place deux photographies de halle dans la rubrique de ce marché ; leur prise de vue tombe le mercredi 5 février 2020, jour du marché Leclerc et non de l'ancien marché du centre (mardi, jeudi, samedi) ; comptoirs de fromages et de primeurs, recadrés sous les visages, 1 181 × 342, non agrandie.)
 - **AMAP de Joinville-le-Pont** (Joinville-le-Pont) (catégorie et piliers des AMAP. **Élargissement, règles 96 et 249** : à 1,7 km du centre de Nogent. **Activité, règle 195** : calendrier des distributions et des commandes mis à jour le 19 septembre 2026, distributions datées jusqu'au 29 octobre. **Lieu, règle 243** : le 5 place Mozart est le local du café associatif Moz'Art, que la presse locale présente comme un lieu de vie associatif en mars 2026 ; le registre y domicilie des sociétés, aucune source n'en fait un domicile. **Point** : n° 5 à la Base Adresse Nationale (0,961). **Pilier `environnement`, règle 60** : le GAEC du Champ Libre, ferme de Combreux à Tournan-en-Brie, est engagé chez Ecocert depuis le 3 mars 2021 pour des légumes frais, retrouvé par son enseigne et son adresse ; la dénomination du registre accole des noms d'exploitants, non repris. **Photo, règles 232 et 250** : la préparation des paniers publiée par l'AMAP ; la vue de la place est une capture de service de cartographie, écartée. Le producteur de champignons est nommé par l'AMAP : seul son lieu est écrit.)
@@ -10285,6 +10327,63 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Oullins-Pierre-Bénite et dans la descente du Rhône
+
+Quatrième passe du 22 septembre 2026. **Département retenu, règle 41** : le **Rhône** (69), déficit **4,5485** sur 704
+fiches, devant le Finistère (4,5304), les Landes (4,4267) et l'Eure-et-Loir (4,4222) ; outre-mer écarté (règle 177),
+dénominateur de la règle 224. La passe précédente visait le Val-de-Marne, en Île-de-France ; le Rhône est en
+Auvergne-Rhône-Alpes, la réserve de la règle 41.c ne joue pas. Aucune demande de visiteur en attente, aucun courriel envoyé.
+**Descente, règles 41.d et 127** : Lyon, Villeurbanne et Vénissieux ont déjà leurs fiches ; cinq communes éprouvées, dans
+l'ordre de population — Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron, puis **Oullins-Pierre-Bénite** (38 168
+habitants), qui fait la passe à elle seule : quatre marchés municipaux et une AMAP, tous dans la commune, à 2,6 km au plus les
+uns des autres. Après la passe, sur 709 fiches, le 69 tombe à **−0,31** ; en tête ensuite : le **Finistère** (4,5981), les
+**Landes** (4,4581), l'**Eure-et-Loir** (4,4536), la **Dordogne** (4,2941). Si une passe revient dans le Rhône, la descente
+reprend à **Meyzieu** (36 687 habitants), puis Villefranche-sur-Saône, Rillieux-la-Pape et Décines-Charpieu.
+
+**La source qui a manqué partout.** Dans l'est lyonnais, les Villes publient correctement leurs marchés mais ferment leurs
+photographies (règles 246 et 253), la Métropole de Lyon et l'annuaire M ton Marché aussi, et l'office de tourisme de la
+Métropole illustre la plupart de ses fiches de marchés d'images de banque (règle 70) ou de vignettes (règle 255). Le recensement
+des marchés de la Métropole (`eco_economie.ecomarcheinstance_latest`) a servi de contrôle des jours, des heures et des points.
+
+- **Vaulx-en-Velin** (1re commune) : la Ville décrit, sur une page mise à jour le 10 septembre 2026, trois marchés — le Village
+  place Gilbert-Boissier (mardi et dimanche), le Mas du Taureau place François-Mauriac (mercredi et samedi, environ 200 étals),
+  l'Écoin Thibaude (jeudi) —, avec leurs produits et des photographies, mais ses mentions légales les ferment (règle 253).
+  L'office illustre le Mas du Taureau d'une image Pixabay et ne donne rien pour les autres ; sa fiche du Village, de 2018, le
+  tient encore le mercredi. **Contradiction consignée** : la Ville place l'Écoin Thibaude « place Robert Badinter » en titre et
+  « place Noël Carmellino » en sous-titre, la Métropole « place Camelino ». Le point de distribution vaudais d'une coopérative de
+  paniers, cité par l'annuaire des associations (mars 2025), n'est plus dans la liste de la coopérative : son point « Vaulx-La
+  Soie » est à Villeurbanne. Le registre de l'Agence Bio n'y compte que des supermarchés, des grossistes et des exploitations
+  sans vente au particulier. Déblocage : une photographie de marché publiée par une source qui en permet la reprise.
+- **Saint-Priest** (2e) : trois marchés (Salengro mardi et dimanche, Spielberg jeudi après-midi, Buisson vendredi) ; la Ville
+  réserve ses contenus à l'usage privé (règle 246), l'office sert pour deux d'entre eux la même vignette (règles 88 et 255). Le
+  potager d'insertion certifié bio de la route de Grenoble n'est plus décrit sur le site refait de son association : aucun
+  créneau de vente publié (règle 192). Déblocage : une page de vente datée de l'association.
+- **Caluire-et-Cuire** (3e) : six marchés publiés par la Ville, sans composition ; ses mentions interdisent la reprise des
+  images, l'office illustre Montessuy d'une image Pixabay. Un magasin bio indépendant du réseau Biocoop, montée des Soldats,
+  a son propre site, ses horaires et ses photographies : une seule fiche possible, pas deux (règle 127). La ferme maraîchère
+  dont le siège est avenue Élie-Vignal cultive et vend à Belleville-en-Beaujolais (règle 20).
+- **Bron** (4e) : la Ville classe deux séances « marchés biologiques et produits locaux » place Baptiste-Curial (mercredi et
+  dimanche), un marché d'après-midi rue Louis-Ailloud et deux marchés forains ; elle ferme ses images (règle 253). La seule
+  photographie utilisable est celle du marché de la Liberté, fournie par la Ville à l'office (règle 254), avec des visages
+  qu'un recadrage laisse sous le plancher ou en bandeau très étroit. Le point de distribution de la même coopérative de paniers
+  au centre social du Grand Taillis (mercredi 17h-19h) est attesté par la coopérative et par le centre social (juillet 2026),
+  mais le centre social réserve ses photographies. Déblocage : une photographie du marché biologique de la place Curial.
+- **Oullins-Pierre-Bénite**, écartés : le magasin Biocoop de la Grande Rue (son site a répondu une fois, puis plus du tout,
+  règle 237, et il ne publiait aucune liste de producteurs, règle 86) ; le point de la coopérative de paniers à l'Espace
+  Moreaud, dont la seule image de la Ville est une carte postale de 1910 qui porte « reproduction interdite » et le nom de son
+  photographe ; deux producteurs bio immatriculés sous leur patronyme.
+- **Photographies de la Ville écartées** : la vue de la place de la Paix du 28 septembre 2014 et le fichier « Marché Diderot »
+  de 825 px du 5 septembre 2017 montrent des visages ; les fiches retiennent d'autres fichiers des mêmes séances. Plusieurs
+  fichiers de la Ville portent dans leurs métadonnées le nom de leur photographe : ils sont publiés réencodés sans métadonnées
+  (règle 235), et ce nom n'est écrit nulle part.
+
+**Sources consultées** : sites des Villes de Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron et Oullins-Pierre-Bénite
+(pages des marchés, médiathèque, mentions légales) ; office de tourisme de la Métropole de Lyon ; recensement des marchés de la
+Métropole de Lyon ; mentions légales de la Métropole et de M ton Marché ; sites de l'Amap'Oull', d'une coopérative de paniers,
+d'un centre social de Bron, d'une association d'insertion de Saint-Priest et de deux magasins bio ; registre de l'Agence Bio
+(69, 2 431 opérateurs) ; registre des entreprises ; Base Adresse Nationale. Ces sources nomment des élus, des membres de
+bureau, des exploitants et des photographes : aucun nom n'est repris.
 
 ### Pistes non publiées à Nogent-sur-Marne et dans son voisinage
 

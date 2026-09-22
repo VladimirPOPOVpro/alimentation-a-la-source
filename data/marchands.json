@@ -18756,5 +18756,128 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Émile+Bertrand+Saint-Maurice",
     "image_url": "/images/marchands/marche-emile-bertrand-saint-maurice.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-diderot-oullins",
+    "nom": "Marché Diderot",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.714191,
+    "lon": 4.806885,
+    "adresse": "Parking Diderot, parking de l'Hôtel de Ville (place Roger-Salengro), rue Diderot, 69600 Oullins-Pierre-Bénite",
+    "horaires": "Mardi de 7h30 à 12h30 (marché alimentaire) et jeudi de 7h30 à 12h30 (marché alimentaire et manufacturé), selon la page « Jours de marché » de la Ville mise à jour le 12 janvier 2026. Le recensement des marchés de la Métropole de Lyon indique une fin à 12h les deux jours.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Produits manufacturés (le jeudi)"
+    ],
+    "description": "Marché municipal du centre d'Oullins, deux matinées par semaine sur le parking de l'Hôtel de Ville : alimentaire seul le mardi, alimentaire et manufacturé le jeudi. Les produits sont ceux que l'office de tourisme de la Métropole de Lyon nomme pour ce marché ; la composition des étals n'est pas publiée en détail. Photo : Ville d'Oullins-Pierre-Bénite, étal de fruits photographié un jeudi de juillet 2017, droits réservés.",
+    "site_web": "https://www.oullinspierrebenite.fr/mes-activites/marches/jours-de-marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Roger+Salengro+Oullins",
+    "image_url": "/images/marchands/marche-diderot-oullins.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-bussiere-oullins",
+    "nom": "Marché de la Bussière",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.719203,
+    "lon": 4.801166,
+    "adresse": "Rue de la Bussière, 69600 Oullins-Pierre-Bénite",
+    "horaires": "Samedi de 7h30 à 12h30 (Ville, page « Jours de marché » mise à jour le 12 janvier 2026 ; mêmes heures à la Métropole de Lyon et à l'office de tourisme).",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Traiteur",
+      "Produits manufacturés"
+    ],
+    "description": "Marché alimentaire et manufacturé du samedi matin, installé le long de la rue de la Bussière sous les platanes, dans le quartier du même nom. Les produits sont ceux que l'office de tourisme de la Métropole de Lyon nomme pour ce marché ; la composition des étals n'est pas publiée en détail. Photo : Ville d'Oullins-Pierre-Bénite, marché de la Bussière un samedi de décembre 2015, recadrée sur les étals et les arbres, droits réservés.",
+    "site_web": "https://www.oullinspierrebenite.fr/mes-activites/marches/jours-de-marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+de+la+Bussi%C3%A8re+Oullins",
+    "image_url": "/images/marchands/marche-de-la-bussiere-oullins.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-de-la-paix-pierre-benite",
+    "nom": "Marché de la place de la Paix",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.703997,
+    "lon": 4.825804,
+    "adresse": "Place de la Paix (Pierre-Bénite), 69310 Oullins-Pierre-Bénite",
+    "horaires": "Mercredi et dimanche de 8h à 12h selon la Ville (page « Jours de marché » mise à jour le 12 janvier 2026). Le recensement de la Métropole de Lyon indique 7h30-13h les deux jours ; l'ancienne fiche de l'office de tourisme (2018) situe ces deux séances place Jean-Jaurès, à 200 m.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits manufacturés"
+    ],
+    "description": "Marché alimentaire et manufacturé du mercredi et du dimanche matin à Pierre-Bénite, commune déléguée d'Oullins-Pierre-Bénite. La Ville ne publie que la nature du marché, pas la composition des étals. Photo : Ville d'Oullins-Pierre-Bénite, étal de fruits d'un dimanche de septembre 2014 sur le marché de Pierre-Bénite, droits réservés.",
+    "site_web": "https://www.oullinspierrebenite.fr/mes-activites/marches/jours-de-marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+la+Paix+Pierre-B%C3%A9nite",
+    "image_url": "/images/marchands/marche-place-de-la-paix-pierre-benite.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-producteurs-jean-jaures-pierre-benite",
+    "nom": "Marché de producteurs de la place Jean-Jaurès",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.703772,
+    "lon": 4.823228,
+    "adresse": "Place Jean-Jaurès, face à la mairie déléguée de Pierre-Bénite, 69310 Oullins-Pierre-Bénite",
+    "horaires": "Vendredi de 16h à 19h (Ville, page « Jours de marché » mise à jour le 12 janvier 2026 ; mêmes heures au recensement de la Métropole de Lyon).",
+    "produits": [
+      "Produits de producteurs locaux",
+      "Produits alimentaires de saison"
+    ],
+    "description": "Marché de producteurs du vendredi en fin d'après-midi, face à la mairie déléguée de Pierre-Bénite ; l'office de tourisme le présente comme un marché de producteurs de pays labellisé par la Chambre d'agriculture du Rhône. Aucune source ne publie la liste des producteurs. Photo : Ville d'Oullins-Pierre-Bénite, stand de fleurs de la Saint-Valentin sur ce marché en février 2025, droits réservés.",
+    "site_web": "https://www.oullinspierrebenite.fr/mes-activites/marches/jours-de-marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Jean+Jaur%C3%A8s+Pierre-B%C3%A9nite",
+    "image_url": "/images/marchands/marche-producteurs-jean-jaures-pierre-benite.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-oull-oullins",
+    "nom": "Amap'Oull'",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.70919,
+    "lon": 4.814853,
+    "adresse": "Parc Saint-Viateur, 3 rue Henri-Barbusse (derrière le gymnase Herzog), 69600 Oullins-Pierre-Bénite",
+    "horaires": "Distribution le mardi de 18h à 19h, sauf congés des producteurs. Paniers réservés aux adhérents, par contrat ; un panier d'essai est proposé sur place selon l'AMAP.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits",
+      "Œufs",
+      "Volailles",
+      "Colis de bœuf et de porc",
+      "Poisson",
+      "Vin (ponctuellement)"
+    ],
+    "description": "AMAP créée en 2009, qui distribue chaque mardi dans le parc Saint-Viateur les paniers de producteurs sous contrat ; ses contrats 2026 couvrent légumes, fruits, œufs, volaille, viandes et poisson. L'AMAP écrit que ses produits sont majoritairement bio, sans que les certificats des fournisseurs aient été vérifiés ici. Photo : Ville d'Oullins-Pierre-Bénite, courges d'un marché de la commune, qui ne montrent ni l'AMAP ni son lieu de distribution, droits réservés.",
+    "site_web": "https://amapoull.wixsite.com/amapoull",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3+rue+Henri+Barbusse+Oullins",
+    "image_url": "/images/marchands/amap-oull-oullins.jpg",
+    "a_confirmer": true
   }
 ]
