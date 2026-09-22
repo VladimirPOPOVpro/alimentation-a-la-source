@@ -18611,5 +18611,150 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant%20universitaire%20Champlain%2C%209%20rue%20Th%C3%A9odore%20Lefebvre%2C%2086000%20Poitiers",
     "image_url": "/images/marchands/amap-du-chaudron-d-or-poitiers.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-coeur-de-nogent-le-village",
+    "nom": "Marché Cœur de Nogent « Le Village »",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.837717,
+    "lon": 2.487249,
+    "adresse": "Îlot Ancelet, rue Gallieni, place de l'Ancien-Marché et rue du Lieutenant-Ohresser (emplacement provisoire), 94130 Nogent-sur-Marne",
+    "horaires": "Mardi et jeudi de 8h à 13h, samedi de 8h à 13h30, d'après la Ville et l'office de tourisme Paris Est Marne & Bois. Emplacement provisoire depuis le 11 juillet 2024, réparti sur plusieurs pôles autour de l'ancien marché, le temps de la construction de la nouvelle halle.",
+    "produits": [
+      "Fruits et légumes, produits maraîchers et produits bio",
+      "Boucherie, triperie, charcuterie et volailles",
+      "Poissonnerie et huîtres",
+      "Fromages",
+      "Boulangerie et pâtisserie",
+      "Traiteurs et plats préparés",
+      "Produits régionaux et épiceries du monde",
+      "Fleurs"
+    ],
+    "description": "Le grand marché du centre de Nogent-sur-Marne : 92 commerces alimentaires selon la Ville, rejoints par environ 80 commerçants de passage (vêtements, mercerie, maison). Il se tient sur un parcours provisoire autour de l'ancien marché pendant la reconstruction de la halle du centre, dont le gros œuvre s'est achevé en février 2026 ; la Ville en a confié la gestion à la régie des marchés du territoire Paris Est Marne & Bois. La photographie, prise par la Ville le jour de l'ouverture du parcours provisoire, a été recadrée sur l'étal.",
+    "telephone": "09 72 59 15 87",
+    "site_web": "https://ville-nogentsurmarne.com/nogent-pratique/commerces/marches-de-nogent/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+l'Ancien+Marché+Nogent-sur-Marne",
+    "image_url": "/images/marchands/marche-coeur-de-nogent-le-village.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-leclerc-nogent-sur-marne",
+    "nom": "Marché Leclerc",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.835203,
+    "lon": 2.472637,
+    "adresse": "Place du Général-Leclerc, 94130 Nogent-sur-Marne",
+    "horaires": "Mercredi, vendredi et dimanche de 8h à 13h, d'après la Ville et l'office de tourisme Paris Est Marne & Bois.",
+    "produits": [
+      "Fruits et légumes, maraîcher et produits bio",
+      "Fruits secs et herbes aromatiques",
+      "Boucherie, charcuterie-traiteur, volailles et rôtisserie",
+      "Fromages",
+      "Poissonnerie",
+      "Boulangerie et pâtisserie",
+      "Produits régionaux, italiens, marocains et asiatiques",
+      "Fleurs"
+    ],
+    "description": "Marché couvert du quartier de la place Leclerc, à l'ouest de Nogent-sur-Marne : 24 commerces alimentaires et deux ou trois commerçants de passage (literie, arts de la table) selon la Ville, qui en a confié la gestion à la régie des marchés du territoire Paris Est Marne & Bois. La photographie de la Ville, prise un mercredi de février 2020, montre les comptoirs de fromages et de primeurs sous la halle.",
+    "telephone": "09 72 59 15 87",
+    "site_web": "https://ville-nogentsurmarne.com/nogent-pratique/commerces/marches-de-nogent/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Leclerc+Nogent-sur-Marne",
+    "image_url": "/images/marchands/marche-leclerc-nogent-sur-marne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-joinville-le-pont",
+    "nom": "AMAP de Joinville-le-Pont",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.824825,
+    "lon": 2.474526,
+    "adresse": "Café Moz'Art, 5 place Mozart, 94340 Joinville-le-Pont",
+    "horaires": "Distribution tous les jeudis de 19h à 20h, dans le quartier de Polangis. Paniers réservés aux adhérents, par contrat de saison ; le calendrier des distributions et des commandes est tenu à jour sur le site de l'AMAP.",
+    "produits": [
+      "Légumes de saison (GAEC du Champ Libre, ferme de Combreux, Tournan-en-Brie)",
+      "Pains bio (Le Pain de 2 mains, Fontenay-sous-Bois)",
+      "Œufs bio de Seine-et-Marne",
+      "Champignons d'une champignonnière du bois de Vincennes",
+      "Pommes, poires et jus (Verger du Grand Morin)",
+      "Noix et huile de noix de l'Isère",
+      "Agrumes",
+      "Huile d'olive grecque (non certifiée bio)"
+    ],
+    "description": "Point de distribution de l'AMAP 94 à Joinville-le-Pont, dans le café associatif de la place Mozart. Les légumes viennent du GAEC du Champ Libre, engagé chez Ecocert au registre de l'Agence Bio depuis 2021 ; la certification des autres fournisseurs n'a pas été vérifiée ici, et l'AMAP précise elle-même que son huile d'olive n'est pas certifiée. La photographie, publiée par l'AMAP, montre la préparation des paniers et non le lieu de distribution.",
+    "site_web": "https://joinville.amap94.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5+place+Mozart+Joinville-le-Pont",
+    "image_url": "/images/marchands/amap-joinville-le-pont.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-alfortville",
+    "nom": "AMAP Alfortville",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.805808,
+    "lon": 2.420236,
+    "adresse": "Maison Gabriel-Désir, square Gabriel-Meynet (à côté de la mairie), 94140 Alfortville",
+    "horaires": "Distribution des légumes et des œufs un vendredi sur deux, de 18h30 à 19h45 selon la page Contact de l'AMAP (avril 2026 ; 20h sur une page de 2023) ; calendrier 2026-2027 publié par l'AMAP (2 octobre, 16 octobre, 30 octobre…). Agrumes, pommes et poires un mercredi ou un jeudi sur trois environ. Paniers réservés aux adhérents.",
+    "produits": [
+      "Légumes d'un maraîchage de la Somme",
+      "Œufs de la Ferme de Villezanges (Périgny)",
+      "Pommes et poires de l'Essonne (Champcueil)",
+      "Agrumes de Corse",
+      "Fromages de chèvre",
+      "Pain"
+    ],
+    "description": "Association de consommateurs qui distribue, dans une salle municipale voisine de la mairie, les paniers de producteurs partenaires sous contrat de saison. L'AMAP décrit son maraîchage comme biologique, mais le certificat n'a pas pu être rattaché par l'adresse au registre de l'Agence Bio, d'où l'absence du pilier environnement. La photographie, publiée par l'AMAP, montre une distribution de février 2023.",
+    "site_web": "https://amapalfortville.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Square+Gabriel+Meynet+Alfortville",
+    "image_url": "/images/marchands/amap-alfortville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-emile-bertrand-saint-maurice",
+    "nom": "Marché Émile-Bertrand",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.821196,
+    "lon": 2.419939,
+    "adresse": "38 avenue du Maréchal-de-Lattre-de-Tassigny (angle rue Edmond-Nocard), 94410 Saint-Maurice",
+    "horaires": "Mardi, vendredi et dimanche de 8h à 13h, d'après la Ville et l'office de tourisme Paris Est Marne & Bois.",
+    "produits": [
+      "Charcuterie",
+      "Fruits et légumes",
+      "Champignons",
+      "Volailles",
+      "Poissonnerie",
+      "Produits biologiques",
+      "Vins (stand d'un caviste)"
+    ],
+    "description": "Marché couvert de 1 500 m² au centre de Saint-Maurice, constitué essentiellement de commerces de bouche selon la Ville, avec un stand associatif de convivialité auprès d'un caviste. La Ville ne publie aucune photographie réutilisable du marché : l'image, publiée par la Ville de Nogent-sur-Marne, montre une récolte du jardin partagé de l'espace Jean-Louis-Boileau et non ce marché.",
+    "site_web": "https://www.ville-saint-maurice.fr/330/emploi-economie-commerce/marche-emile-bertrand.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Émile+Bertrand+Saint-Maurice",
+    "image_url": "/images/marchands/marche-emile-bertrand-saint-maurice.jpg",
+    "a_confirmer": true
   }
 ]

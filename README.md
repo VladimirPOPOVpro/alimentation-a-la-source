@@ -3229,9 +3229,50 @@ prioritaires en cas de conflit.
      où celle-ci s'est arrêtée (règle 247). Une passe qui ne publie rien le dit dans son compte rendu ; elle ne se rattrape pas
      en baissant une exigence.
 
+249. **Dans la Métropole du Grand Paris, le champ `epci` ne sépare pas les communes du Val-de-Marne : l'élargissement de la
+     règle 96 s'y borne par la distance, et la fiche entière qu'une passe précédente a laissée au titre de la règle 247 passe
+     avant toute recherche neuve.** La descente reprise à Thiais a trouvé sa zone à Nogent-sur-Marne, deuxième commune éprouvée :
+     deux marchés municipaux entiers, image comprise (règle 127). Pour compléter, `geo.api.gouv.fr` rattache les quarante-sept
+     communes du 94 au même établissement public, la Métropole du Grand Paris (200054781) ; lu seul, le critère de la règle 219
+     ouvrirait tout le département. **Tranché ainsi** : l'intercommunalité reste celle du champ `epci` (règle 219), mais les
+     fiches de complément restent à moins de quinze kilomètres du centre de la commune calculée (règle 96) et se cherchent
+     d'abord dans son territoire (ici Paris Est Marne & Bois : Joinville-le-Pont à 1,7 km, Saint-Maurice à 5,3 km) ; la fiche
+     entière qu'une section de pistes du même département désigne pour la reprise (règle 247) est prise avant un candidat neuf,
+     même dans une commune déjà éprouvée — ici l'AMAP Alfortville, à 6,1 km —, parce que c'est une reprise nommée et non une
+     réouverture de la commune. Le reste de la commune éprouvée ne se rouvre pas.
+
+250. **Une capture d'écran d'un service de cartographie, publiée par un commerce pour montrer son lieu, n'est pas une
+     photographie de ce commerce.** La page « Paniers et produits » de l'AMAP de Joinville-le-Pont illustre son adresse d'une
+     vue de la place Mozart qui porte, incrustés, le filigrane « © 2025 Google » et le bouton « Partager » du service de
+     cartographie. **Critère** : l'image appartient au service qui l'a prise, pas au site qui la montre ; elle ne sert ni de vue
+     du lieu ni de photographie thématique, et l'on descend à l'échelon suivant d'`AGENT.md` — ici la photographie de la
+     préparation des paniers que l'AMAP publie elle-même (règle 232).
+
+251. **Quand la commune et l'intercommunalité se disputent la gestion d'un marché, le numéro de celle que la commune contredit
+     ne se publie pas.** La page de la Ville de Saint-Maurice sur le marché Émile-Bertrand, modifiée le 22 septembre 2026, écrit
+     que son exploitation « est en régie directe », qu'un agent de la Ville place les commerçants, et ne donne qu'une adresse
+     électronique ; la page de la régie intercommunale des marchés de Paris Est Marne & Bois range ce marché parmi les siens et
+     donne un numéro, que l'office de tourisme recopie. **Critère** : c'est la règle 176 appliquée au gestionnaire — la commune
+     dit qui tient son marché ; le champ `telephone` reste vide, `site_web` pointe la page de la Ville, et la revendication de
+     la régie est consignée ici. À Nogent-sur-Marne, au contraire, c'est la Ville elle-même qui écrit avoir confié ses marchés
+     à la régie du territoire : le numéro de la régie est alors celui du service qui gère le marché (règle 189), et il est publié.
+
+252. **Un site qui refuse les agents non navigateurs et ne s'ouvre qu'à un en-tête de navigateur complet filtre les robots : il
+     ne se contourne pas.** Le site de la Ville de Bry-sur-Marne répond 403 à toute requête, `robots.txt` compris, tant que
+     l'agent ne se présente pas comme un navigateur complet, et s'ouvre dès qu'on imite un Chrome de bureau. **Critère** : c'est
+     la règle 212 — se faire passer pour un navigateur afin de franchir un filtrage des robots, c'est contourner un dispositif
+     de détection ; la commune est traitée comme une commune dont le site ne répond pas (règle 237), ses marchés relèvent de la
+     règle 196, et l'on passe. Ce qui a été lu de ce site pendant le test n'a nourri aucune fiche. **Déblocage** : le retrait du
+     filtrage, ou la même information publiée par une autre autorité.
+
 ## Marchands à confirmer
 
-632 fiches sur 699 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+637 fiches sur 704 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Cœur de Nogent « Le Village »** (Nogent-sur-Marne) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville, confié à la régie intercommunale de Paris Est Marne & Bois. **Existence en 2026** : la page « Marchés de Nogent » (avril 2025), l'office de tourisme et une actualité de la Ville du 18 septembre 2026 qui y annonce des animations. **Jours et heures** : Ville et office concordants. **Lieu provisoire, règle 157** : depuis le 11 juillet 2024, le marché occupe un parcours de plusieurs pôles autour de l'ancien marché, pendant la reconstruction de la halle du centre (gros œuvre achevé en février 2026) ; la page de juillet 2024 cite cinq pôles, rue Thiers comprise, la page des marchés quatre — ce sont les quatre de la page de référence qui sont écrits. **Point** : place de l'Ancien-Marché à la Base Adresse Nationale (0,958). **Produits** : la liste de la Ville, sans les commerçants de passage. **Téléphone, règle 251**. **Photo, règles 46, 109 et 135** : l'étal de fruits que la Ville place dans la rubrique de ce marché, pris le jeudi 11 juillet 2024, jour d'ouverture du parcours provisoire, recadré sous les visages et hors de la balance, 1 280 × 904.)
+- **Marché Leclerc** (Nogent-sur-Marne) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jours et heures** : Ville et office concordants. **Point, règle 10** : l'office écrit « 1, place du Général Leclerc », numéro que la Base Adresse Nationale ignore (elle connaît le 2 bis et le 4) ; le point est le centre de la place (0,834), dont le contrôle inverse rend le 2 bis à 9 m. **Téléphone, règle 251**. **Photo, règles 109, 135 et 140** : la Ville place deux photographies de halle dans la rubrique de ce marché ; leur prise de vue tombe le mercredi 5 février 2020, jour du marché Leclerc et non de l'ancien marché du centre (mardi, jeudi, samedi) ; comptoirs de fromages et de primeurs, recadrés sous les visages, 1 181 × 342, non agrandie.)
+- **AMAP de Joinville-le-Pont** (Joinville-le-Pont) (catégorie et piliers des AMAP. **Élargissement, règles 96 et 249** : à 1,7 km du centre de Nogent. **Activité, règle 195** : calendrier des distributions et des commandes mis à jour le 19 septembre 2026, distributions datées jusqu'au 29 octobre. **Lieu, règle 243** : le 5 place Mozart est le local du café associatif Moz'Art, que la presse locale présente comme un lieu de vie associatif en mars 2026 ; le registre y domicilie des sociétés, aucune source n'en fait un domicile. **Point** : n° 5 à la Base Adresse Nationale (0,961). **Pilier `environnement`, règle 60** : le GAEC du Champ Libre, ferme de Combreux à Tournan-en-Brie, est engagé chez Ecocert depuis le 3 mars 2021 pour des légumes frais, retrouvé par son enseigne et son adresse ; la dénomination du registre accole des noms d'exploitants, non repris. **Photo, règles 232 et 250** : la préparation des paniers publiée par l'AMAP ; la vue de la place est une capture de service de cartographie, écartée. Le producteur de champignons est nommé par l'AMAP : seul son lieu est écrit.)
+- **AMAP Alfortville** (Alfortville) (catégorie et piliers des AMAP, sans `environnement`. **Reprise, règles 247 et 249** : fiche entière laissée par la passe du 22 septembre 2026, à 6,1 km du centre de Nogent. **Activité, règle 195** : calendrier 2026-2027 sur la page Contact (avril 2026). **Horaire, règle 172** : 19h45 sur la page Contact d'avril 2026, 20h sur la page « Les distributions » d'avril 2023 ; les deux sont écrits. **Lieu** : salle municipale au fond du square Gabriel-Meynet, à côté de la mairie. **Point** : square Gabriel-Meynet à la Base Adresse Nationale (lieu-dit, 0,956), à 70 m de la place de la mairie. **Pas d'`environnement`, règles 39, 60 et 209** : l'AMAP ne publie que la commune de son maraîchage (Bayonvillers) ; un opérateur y est engagé pour des légumes frais, mais aucune voie publiée ne permet de le rattacher, et le certificat de la Ferme de Villezanges ne déclare pas d'œufs. **Photo** : une distribution du vendredi 10 février 2023 publiée par l'AMAP, sans personne, recadrée hors des tableaux blancs et d'une feuille imprimée posée sur la table, 1 280 × 1 223. La page Contact nomme les membres du bureau : non repris.)
+- **Marché Émile-Bertrand** (Saint-Maurice) (catégorie et piliers des marchés municipaux. **Élargissement, règles 96 et 249** : à 5,3 km du centre de Nogent. **Registre, règle 106** : la commune y tient un établissement actif, enseigne « Marché alimentaire Émile Bertrand », au 38 avenue du Maréchal-de-Lattre-de-Tassigny. **Jours, heures et produits** : page de la Ville modifiée le 22 septembre 2026, office concordant. **Point** : n° 38 à la Base Adresse Nationale (0,965), à 7 m du point du registre. **Téléphone, règle 251**. **Photo, règles 228 et 234** : les mentions légales de la Ville réservent ses photographies à l'usage privé (règle 246), l'office illustre le marché d'une image Pixabay ; l'image est la récolte du jardin partagé municipal de l'espace Jean-Louis-Boileau, publiée par la Ville de Nogent-sur-Marne, sans personne, recadrée, 1 280 × 940, et la description dit qu'elle ne montre pas le marché.)
 - **Marché Notre-Dame et ses halles** (Poitiers) (catégorie et piliers des marchés municipaux, sans `environnement` : l'étiquette « produits bio » que la Ville donne au marché ne vaut pas le pilier, **règle 68**. **Registre, règle 106** : marché de la Ville. **Une seule fiche, règle 42** : la Ville consacre deux pages au marché de plein air et aux halles, mais son plan des équipements ne leur donne qu'un seul point, rue du Marché Notre-Dame ; `horaires` porte les deux régimes. **Horaire contesté, règle 55** : « du mardi au samedi » pour les halles sur la page du marché, dans le plan des équipements et à l'office de tourisme, « du lundi au samedi » sur la page des Halles et dans la liste des marchés de la même Ville ; les deux valeurs sont écrites, d'où `a_confirmer`. **Produits** : la liste de la page du marché, sans les rubriques non alimentaires. **Point** : place Charles de Gaulle à la Base Adresse Nationale (0,973), à 16 m du point de la Ville. **Photo, règle 245** : vue plongeante du marché de plein air devant Notre-Dame-la-Grande, publiée par l'office de tourisme sur sa fiche du marché, passants trop lointains pour être reconnus, 1 280 × 846.)
 - **Marché Carmago** (Poitiers) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Jour et heure** : vendredi 16h-20h, identiques sur la page de la Ville, son plan des équipements et la fiche de l'office de tourisme. **Produits** : les quatre familles que publie la Ville. **Point, règle 64** : la Base Adresse Nationale ignore le square de la République ; le point est celui du plan des équipements de la Ville, qui se retourne à 16 m du 16 rue de Magenta, en bordure du square. **Photo, règles 46 et 185** : la photographie que l'office attache au marché — la même vue que celle de la Ville — montre une marchande de profil au premier plan ; recadrée à droite de son visage, elle garde 700 × 566, au seuil de la règle 185.)
 - **Marché des Couronneries** (Poitiers) (catégorie et piliers des marchés municipaux. **Registre, règle 106** : marché de la Ville. **Règle 119** : la Ville liste quinze familles de produits, dont trois non alimentaires ; la composition publiée n'est pas majoritairement non alimentaire, vêtements et articles de maison restent hors de `produits` et sont dits dans la description. **Jour et heure** : mercredi et dimanche 8h30-13h30, Ville et office concordants. **Point** : place de Provence à la Base Adresse Nationale (0,973), à 21 m du point de la Ville. **Photo** : étal de légumes publié par l'office de tourisme sur la fiche du marché, recadré sous les visages des clients, 1 280 × 594.)
@@ -10244,6 +10285,57 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Nogent-sur-Marne et dans son voisinage
+
+Troisième passe du 22 septembre 2026. **Département retenu, règle 41** : le **Val-de-Marne** (94), déficit **4,4653** sur 699
+fiches, devant le Finistère (4,4628), le Rhône (4,4096), les Landes (4,3953) et l'Eure-et-Loir (4,3908) ; outre-mer écarté
+(règle 177), dénominateur de la règle 224. La dernière passe qui a publié visait la Vienne, en Nouvelle-Aquitaine ; la passe
+sans publication qui a suivi n'a « visé » aucun département (règle 247) : la réserve de la règle 41.c ne joue pas.
+`origin/main` n'avait pas bougé au moment de publier (règle 241). **Descente, règles 127 et 247** : reprise à la commune
+suivant le point d'arrêt, Thiais (1re commune éprouvée), puis **Nogent-sur-Marne** (2e), qui fait la passe : deux marchés
+entiers dans la commune, complétés dans la Métropole du Grand Paris à moins de 6,1 km (règle 249) par l'AMAP de
+Joinville-le-Pont (1,7 km), le marché Émile-Bertrand de Saint-Maurice (5,3 km) et l'AMAP Alfortville (6,1 km), fiche entière
+laissée par la passe précédente. Après la passe, sur 704 fiches, le 94 tombe à **−0,43** ; en tête ensuite : le **Rhône**
+(4,5485), le **Finistère** (4,5304), les **Landes** (4,4267), l'**Eure-et-Loir** (4,4222). Si une passe revient dans le 94, la
+descente reprend à **L'Haÿ-les-Roses** (31 188 habitants), puis Fresnes, Charenton-le-Pont, Sucy-en-Brie. Aucune demande de
+visiteur en attente, aucun courriel envoyé.
+
+- **Thiais** : la Ville publie un seul marché, jeudi et dimanche matin place du Marché, face à l'hôtel de ville, sans heure
+  (règle 9) et avec pour toute composition « produits frais ». Le site de l'AMAP 94 donne une distribution à Thiais le mardi
+  soir, sur une page de mars 2025 : plus de douze mois (règle 195), et ses images font au plus 544 px (règle 59). Le registre
+  de l'Agence Bio n'y compte qu'un restaurant et un négociant en vins. Déblocage : une source datée de l'AMAP, une heure et une
+  composition publiées par la Ville.
+- Nogent-sur-Marne, **La Guinguette Bio**, primeur et épicerie bio du 7-9 rue Paul-Bert, certificat Ecocert engagé le 9 octobre
+  2025 pour la distribution : son site publie l'adresse, le téléphone et le retrait en boutique, mais aucun horaire du magasin
+  (seuls des annuaires tiers en donnent, règles 104 et 192), et il ne nomme aucun producteur (règle 86). Déblocage : les horaires
+  et la liste des producteurs sur le site du magasin.
+- Nogent-sur-Marne, écartés : une cave à bières du centre, qui revend des brasseries de plusieurs pays et ne brasse pas ; le
+  magasin Biocoop (règles 86 et 149) ; deux magasins de réseaux.
+- **Joinville-le-Pont**, marchés Gallieni (mercredi et samedi) et de la place du 8-Mai-1945 (jeudi et dimanche), 8h-13h selon
+  la régie de Paris Est Marne & Bois : aucune source n'en publie la composition (règle 197), et les mentions légales de la Ville
+  comme celles du territoire nomment les images dans leur interdiction (règles 231 et 246).
+- **Saint-Mandé**, marchés de la Tourelle (jeudi et dimanche) et de l'Alouette (mardi et vendredi), 8h-13h, décrits par la Ville
+  (page de novembre 2025) : ses mentions légales autorisent la reprise des contenus « à l'exception de l'iconographie » (règle
+  246), le territoire ferme ses images, et l'office de tourisme illustre les deux fiches du même fichier Pixabay de 450 px. L'office
+  place d'ailleurs l'Alouette place Gallieni, quand la Ville et la régie la placent place de la Libération (règle 90). Déblocage :
+  une photographie de l'un des deux marchés publiée par une source qui en permet la reprise.
+- **Charenton-le-Pont**, marché du centre (mercredi et samedi 8h-13h, halle et voûte du commandant Delmas, composition publiée par
+  la Ville) : la seule photographie de la Ville fait 250 px, sa page de mentions légales ne répond pas, l'office l'illustre d'une
+  image Pixabay. Commune de la descente, pas encore éprouvée à son rang.
+- **Bry-sur-Marne** : le site de la Ville filtre les robots (règle 252) ; l'office de tourisme seul ne suffit pas (règle 196).
+- **Saint-Maurice**, contradiction consignée (règle 251) : la Ville exploite le marché Émile-Bertrand « en régie directe », la
+  régie de Paris Est Marne & Bois le compte parmi les siens.
+- **Office de tourisme Paris Est Marne & Bois** : ses deux photographies du marché du centre de Nogent sont créditées nommément à
+  un photographe et montrent une animation avec du public ; les autres fiches de marchés de la sélection portent des images
+  Pixabay. Aucune n'a servi.
+
+**Sources consultées** : sites des Villes de Thiais, Nogent-sur-Marne, Joinville-le-Pont, Saint-Mandé, Saint-Maurice,
+Charenton-le-Pont et Bry-sur-Marne (filtré) ; pages de la régie intercommunale des marchés de Paris Est Marne & Bois ; office de
+tourisme Paris Est Marne & Bois ; sites de l'AMAP 94, de l'AMAP de Joinville-le-Pont et de l'AMAP Alfortville ; presse locale
+(café associatif de la place Mozart) ; registre de l'Agence Bio (94, 77 et 80) ; registre des entreprises ; Base Adresse
+Nationale. Ces sources nomment des élus, des régisseurs, des exploitants, des bénévoles, des membres de bureau et des
+photographes : aucun nom n'est repris.
 
 ### Pistes non publiées dans le Val-de-Marne et à Quimper — passe sans publication
 
