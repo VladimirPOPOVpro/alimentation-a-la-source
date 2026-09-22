@@ -408,7 +408,7 @@ prioritaires en cas de conflit.
    règle 21 : le domaine écrit lui-même être certifié Haute Valeur Environnementale niveau 3 depuis
    2020 et avoir cessé les herbicides en 2016.
 40. **Le registre bio déclare que le producteur ne vend pas aux particuliers, l'office de tourisme
-   décrit une vente directe.** Le Poulailler de Léa, à Correns, porte au registre de l'Agence Bio un
+   décrit une vente directe.** L'élevage de volailles de Correns porte au registre de l'Agence Bio un
    bloc `venteAnnuaire` où `venteParticuliers` est à `false` et seul le gros est à `true` — pendant
    que la fiche de l'office annonce une ouverture « toute l'année sur rendez-vous » et un étal au
    marché hebdomadaire du Val. Un étal de marché est une vente au particulier ; les deux sources ne
@@ -3355,6 +3355,15 @@ prioritaires en cas de conflit.
      publication n'est pas « visé » au sens de la règle 41.c. Ici : douze nouvelles communes landaises, d'Ondres à Tosse, puis
      les deux communes d'Eure-et-Loir que permet la règle 248.
 
+261. **Un point de vente à la ferme dont l'exploitant publie lui-même la saison compte comme une fiche entière hors saison, la
+     saison écrite en tête des horaires.** À Castets, la coopérative des producteurs d'asperges de la région de Dax publie sur son
+     site un point de vente ouvert « de mars à juin », du lundi au vendredi de 9h à 18h et le samedi de 9h à 14h, avec une clause
+     de propriété générale et ses propres photographies ; la passe du 23 septembre 2026 l'a trouvée fermée pour l'année. La
+     règle 192 écarte une fiche qui n'a pas d'horaires, pas une fiche dont les horaires sont saisonniers. **Tranché ainsi** : la
+     saison publiée par l'exploitant fait partie de ses horaires, comme celle d'un marché saisonnier ; la fiche peut partir hors
+     saison si elle commence par la saison (« De mars à juin : … ») et si rien ne la contredit, et elle compte parmi les deux
+     fiches entières de la règle 127. Elle ne suffit pas seule à faire une zone (règle 52) : à Castets, elle attend en pistes.
+
 ## Marchands à confirmer
 
 647 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -3748,7 +3757,6 @@ prioritaires en cas de conflit.
 - **Domaine de la Grande Pallière** (première fiche publiée au titre de la précision ajoutée à la règle 34 : le marqueur de l'office et l'adresse déclarée à l'Agence Bio tombent au même endroit à quatre mètres près, mais le contrôle inverse de ce point revient **vide**, et c'est le point du registre des entreprises, 1,1 km plus au sud, qui se retourne sur le « 1600 chemin de Paliere » — la voie que le domaine imprime sur sa page contact. Surfaces contredites : l'office annonce trente hectares de vignes, le site quarante ; c'est le chiffre du domaine qui est publié. Pas de pilier `alimentation` : le registre bio déclare olives, cerises et truffes, mais l'office ne range la fiche que sous « Vins » et le site ne vend que des cuvées, règle 31. Pilier `environnement` sur un engagement Ecocert ouvert le 22 juin 1998, que le domaine confirme lui-même. Photo : l'`og:image` du site, une main tenant une bouteille devant les vignes, sans visage. Le nom du vigneron, que le site publie, n'est pas repris)
 - **Domaine Saint Andrieu** (le registre des entreprises rend bien une société de ce nom, mais son siège est au Château Talbot, en Gironde : c'est le SIRET du registre de l'Agence Bio qui rattache l'établissement à Correns, et le site du domaine confirme l'appartenance au même groupe girondin. Pilier `environnement` accordé deux fois plutôt qu'une : l'engagement Ecocert de janvier 2019 ne couvre que les olives, l'huile et les pistaches — pas le raisin de cuve — mais l'huile est justement l'un des produits de la fiche, ce que la règle 39 demande, et le domaine écrit en plus avoir obtenu la Haute Valeur Environnementale en juin 2017, règle 21. Horaires contredits le mercredi : le domaine annonce un accueil uniquement sur rendez-vous, l'office 9h à 12h — les deux sont publiés et attribués. Aucune source ne donne de numéro de voirie ; le marqueur de l'office est publié, son contrôle inverse rend le « 4350 chemin de Saint Andrieu » à 33 m et l'adresse déclarée à l'Agence Bio tombe à 32 m, mais aucune des trois ne porte de numéro et la fiche n'en invente pas)
 - **Safran des Pierres Blanches** (deux adresses au même numéro sur deux routes différentes : le registre des entreprises déclare « 857 route de Châteauvert », le registre bio et l'office « 857 route du Vallon Sourn ». Seule la seconde existe dans la Base Adresse Nationale, avec un contrôle inverse à 0 m et un point identique au mètre près à celui que l'Agence Bio géocode : c'est elle qui est publiée, règle 30, la première étant à 2,3 km à l'ouest. Pilier `environnement` accordé bien que l'office écrive « en conversion bio » : l'engagement chez Bureau Alpes contrôles est ouvert le 27 janvier 2025 et n'est pas arrêté, ce que la règle 15 demande — c'est l'inverse exact du Domaine des Roches Blanches, dont le certificat était arrêté. L'exploitation est immatriculée sous le patronyme de l'exploitant, avec « SAFRAN DES PIERRES BLANCHES » en enseigne déclarée : c'est l'enseigne qui est publiée. Pas de `site_web` : l'office ne publie qu'une page Facebook, règle 33)
-- **Le Poulailler de Léa** (première fiche publiée au titre de la règle 40 : le registre de l'Agence Bio déclare `venteParticuliers` à faux pour cet élevage, alors que l'office annonce une ouverture sur rendez-vous et un étal au marché hebdomadaire du Val. Le drapeau est consigné, la fiche dit que la vente se fait sur rendez-vous. Le nom n'est pas un patronyme publié comme enseigne : l'élevage porte lui-même ce libellé sur son logo, seule image que publie l'office, ce que la règle 36 demande — le patronyme de l'éleveuse, que le registre rend, n'apparaît nulle part. Le numéro « 1178 chemin des Couastes Belles » de la Base Adresse Nationale tombe exactement sur le marqueur de l'office, à 0 m. Pilier `environnement` sur un engagement Ecocert ouvert le 20 janvier 2011. Les produits sont ceux que l'office nomme, volailles et œufs, règle 31 : les olives et le raisin de cuve du registre bio ne sont annoncés nulle part à la vente et ne sont cités que dans la description. Photo : l'unique image de l'office est le logo dessiné de l'élevage, donc c'est une vue de l'Argens dans le vallon Sourn, à Correns, qui illustre la fiche — photo thématique de la même commune au titre de la règle 1)
 - **Marché de Wazemmes** (première fiche publiée au titre de la règle 42 : le marché de plein air et les halles couvertes de la place Nouvelle Aventure sont deux équipements que la Ville compte séparément, mais aucune source ne donne aux halles une adresse propre — le site `halles-wazemmes.com` écrit lui-même « place de la nouvelle aventure » — et une seconde fiche se serait posée sur la même coordonnée. Une seule fiche, dont les horaires portent les deux régimes : plein air mardi et jeudi 7h-13h, dimanche 7h-14h ; halles du mardi au samedi 8h-20h, dimanche 8h-15h, les deux confirmés par la liste des marchés de `lille.fr` et par le plan officiel « Lille aux marchés ». Le point est le **centre de la place** dans la Base Adresse Nationale, cinquième échelon de la règle 10 : un marché n'a pas de numéro de voirie. Produits pris à deux endroits : les pictogrammes du plan officiel donnent alimentation, produits biologiques et fleurs pour le plein air, alimentation et produits biologiques pour les halles ; les métiers — bouchers, volailler, fromagers affineurs, primeurs, fournil biologique — viennent de la liste des commerces publiée par les halles. Aucun téléphone : les deux numéros trouvés, 03 20 49 55 92 et 03 20 49 50 84, sont ceux des services municipaux qui gèrent les emplacements, pas du marché. Photo : la façade des halles publiée par `lille.fr`, sans personne)
 - **Marché de la place Sébastopol** (produits entièrement tirés des pictogrammes du plan officiel « Lille aux marchés », qui recense pour ce marché les six familles d'étals — alimentation, produits biologiques, fleurs, habillement, équipements de la maison et livres : aucune source ne publie la liste des commerçants d'un marché lillois, et rien n'a été inventé au-delà de ces six catégories. Horaires identiques sur la liste des marchés et sur le plan, mercredi et samedi de 7h à 14h. Point au centre de la place dans la Base Adresse Nationale, règle 10, cinquième échelon. Il tombe à 666 m du marché de Wazemmes : deux marchés municipaux distincts, pas un doublon. Photo thématique de la même commune au titre de la règle 1 — un marché lillois photographié par la Ville, où personne n'est identifiable, tous les passants étant de dos ou flous)
 - **Marché Saint-Sauveur** (première fiche publiée au titre de la règle 44 : `lille.fr` annonce 7h-14h sur sa liste des marchés et sur son plan officiel, 7h-13h dans l'article de mars 2026 qui annonce le déménagement du marché — ce sont les deux pages de référence qui sont publiées. Cet article donne en revanche les métiers, seule source à le faire : primeurs, producteurs fermiers, fromager, boucher, poissonnier, rôtisserie et fleuriste, les deux derniers confirmés par les pictogrammes du plan, qui ne coche que « alimentation » et « fleurs ». Adresse contredite dans le temps : le plan écrit « rue Saint-Sauveur, entre la rue Gustave Delory et l'avenue Kennedy », l'article situe le marché « à l'angle des rues Delory et Saint-Sauveur » après un déplacement « de quelques mètres » qu'il dit définitif — c'est l'angle qui est publié. La Base Adresse Nationale ignore « rue Saint-Sauveur 59000 » mais connaît « Rue Saint-Sauveur 59800 Lille », dont le centre de voie est à 179 m du centre de la rue Gustave Delory : c'est ce point qui est publié, cinquième échelon de la règle 10. Photo thématique de la même commune, règle 1 : un marché lillois photographié par la Ville en août 2026, dont les visages sont floutés à la source)
@@ -9580,7 +9588,7 @@ et le registre de l'Agence Bio le confirme sans exagération : **soixante-sept o
 enregistrés pour environ neuf cents habitants. La commune n'a donc pas manqué de candidats, elle en
 avait trop. L'office de tourisme Provence Verte & Verdon lui consacre onze fiches « Vins et
 Terroir », **toutes publiées aujourd'hui sauf une** : cinq l'ont été lors du premier passage, les
-cinq autres au second, qui a levé les réserves notées ici — le Poulailler de Léa attendait trois
+cinq autres au second, qui a levé les réserves notées ici — l'élevage de volailles attendait trois
 lignes de produits, le Safran des Pierres Blanches n'avait pas été instruit, et les trois domaines
 n'avaient été écartés que faute de place. Ce qui reste :
 
@@ -9589,7 +9597,7 @@ n'avaient été écartés que faute de place. Ce qui reste :
   le nom que l'office donne à cette fiche est le patronyme de l'apiculteur, l'entreprise reste
   **non diffusible** au registre des entreprises — une recherche sur ce nom dans le Var ne rend
   aucune exploitation apicole — et aucune source ne montre d'enseigne ni de logo portant un nom
-  commercial. C'est exactement ce qui sépare cette fiche du Poulailler de Léa, publié cette
+  commercial. C'est exactement ce qui sépare cette fiche de l'élevage de volailles, publié cette
   passe : l'élevage, lui, imprime son libellé sur son propre logo, ce que la règle 36 demande. À
   reprendre si l'apiculteur publie un nom commercial ou si le registre redevient diffusible. À noter
   aussi : l'adresse de l'office et celles de l'Agence Bio ne sont pas les mêmes.
@@ -10385,6 +10393,68 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées dans les Landes et en Eure-et-Loir — troisième passe sans publication
+
+Passe du 23 septembre 2026. **Aucune fiche ajoutée** (règle 248). **Classement, règle 41**, sur 710 fiches (après les deux retraits
+ci-dessous), dénominateur de la règle 224, outre-mer écarté par la règle 177 : **Landes** (40) **4,4644**, **Eure-et-Loir** (28)
+**4,4599**, Dordogne 4,3001, Tarn 4,0915. La dernière passe qui a publié visait le Finistère, en Bretagne ; les deux départements
+quittés sans publication ne sont pas « visés » (règle 247). `origin/main` n'avait pas bougé au moment de conclure (règle 241).
+Aucune demande de visiteur, aucun courriel. **Retraits de la règle 259** : la fiche d'apiculteurs d'Entrecasteaux et l'élevage de
+volailles de Correns sont retirés avec leurs images (plafond de deux par passe) ; leurs mentions du README sont réécrites sans
+nom. **Reste à retirer** : la ferme de Saint-Maximin-la-Sainte-Baume désignée par la règle 259, à la prochaine passe.
+
+**Déblocages vérifiés d'abord (règles 247, 249 et 258)** : le site de la Ville de Capbreton ne répond toujours pas (règle 237), et
+les conditions générales de la brasserie de Seignosse ferment toujours ses images. Le groupe Maremne Adour Côte Sud reste à quatre
+points, les deux fiches entières de Saint-Paul-lès-Dax restent sans complément.
+
+**Landes : douze nouvelles communes, de Saint-Vincent-de-Paul (25e) à Grenade-sur-l'Adour (36e), aucune zone (règles 127, 247 et
+260).** Neuf des douze communes portent le gabarit de l'Agence landaise pour l'informatique, dont la clause range les « photos »
+parmi ce qu'elle interdit (règle 231). Point d'arrêt : **Grenade-sur-l'Adour** ; la prochaine passe dans le 40 reprend à **Ychoux**
+(2 338 habitants), puis Léon, Angresse et Mées, et prend d'abord les fiches désignées dans les deux sections précédentes.
+
+- **Saint-Vincent-de-Paul** (3 402, Grand Dax) : la commune ne publie aucun marché ; au registre biologique, une seule entreprise
+  individuelle. Clause fermée. Aucune fiche.
+- **Narrosse** (3 387, Grand Dax) : pas de marché hebdomadaire, seulement un marché de producteurs de pays ponctuel ; un primeur
+  en partie certifié (route des Pyrénées), sans site. Clause fermée. Aucune fiche entière.
+- **Tartas** (3 169, Pays Tarusate) : la Ville publie le marché traditionnel du lundi matin et le marché fermier et artisanal du
+  samedi matin (producteurs inscrits à la MSA), sans heure ; clause fermée, aucune autre image. Aucune fiche entière.
+- **Rion-des-Landes** (3 142) : aucun marché publié par la commune ; les maraîchers et producteurs d'asperges sont inscrits en
+  nom propre ou ne publient d'horaires que dans des annuaires (règles 192 et 259). Clause fermée. Aucune fiche.
+- **Pouillon** (3 134, Pays d'Orthe et Arrigans) : **faits complets pour deux points de vente, images fermées**. Le **Domaine du
+  Tastet** (2350 chemin Aymont-Tastet ; du lundi au samedi, 9h-12h et 14h30-18h, site du domaine) nomme les images dans son
+  interdiction ; la **boutique de la Cave des Vignerons de Tursan** (367 boulevard des Sports ; du mardi au samedi, 9h-12h et
+  14h-18h, site de la coopérative) réserve les « représentations iconographiques et photographiques ». La commune (même
+  gabarit) et Bienvenue à la Ferme (403 à tout agent, règle 237) n'ouvrent rien d'autre ; le site d'une ferme laitière de la
+  commune ne répond pas. Aucune fiche entière.
+- **Saint-Geours-de-Maremne** (3 089, MACS) : le marché du dimanche de 8h à 13h n'est documenté que par l'agenda de
+  l'intercommunalité, pas par la commune (règle 196). Aucune fiche entière.
+- **Pontonx-sur-l'Adour** (3 021) : la Ville publie un « marché des saisons » le dimanche matin au boulodrome, sans heure ;
+  clause fermée. **Labouheyre** (2 906) : clause fermée ; une boulangerie biologique sans site. Aucune fiche.
+- **Magescq** (2 698, MACS) : le site de la mairie répond 200 à un robot quelconque et 403 à `ClaudeBot` comme à `GPTBot` (règle
+  257) ; il n'a pas été consulté. Aucune fiche.
+- **Castets** (2 516, Côte Landes Nature) : **une fiche entière**, le point de vente de la **coopérative des producteurs d'asperges
+  de la région de Dax** (1328 route de Bayonne ; de mars à juin, du lundi au vendredi de 9h à 18h, le samedi de 9h à 14h), site
+  propre à clause générale et photographies de la coopérative (règle 261, nouvelle). La boulangerie biologique de la commune a un
+  `robots.txt` qui exclut nommément `ClaudeBot` (règle 77) ; la conserverie biologique n'a plus de site joignable. Une fiche
+  n'est pas une zone (règle 52).
+- **Villeneuve-de-Marsan** (2 508) : **faits complets, image fermée** : le magasin de producteurs **Ô Champs** (1120 avenue des
+  Pyrénées ; du mercredi au samedi, 9h30-12h30 et 16h-19h), documenté par l'office des Landes d'Armagnac, dont les mentions
+  disent que « les photos du site ne sont pas libres de droit » (règle 246) et dont la seule image fait 245 px (règle 59). La
+  clause de la Ville nomme les photographies. Aucune fiche entière.
+- **Grenade-sur-l'Adour** (2 398) : mentions de la Ville et de l'office du Pays Grenadois fermées (« photos, images » ;
+  « photographies »). Le verger de la commune porte un nom de famille (règle 259) ; la safranière n'a plus de site joignable.
+  Aucune fiche entière.
+
+**Eure-et-Loir : les deux communes suivantes de la descente, aucune zone (règle 248).**
+
+- **Vernouillet** (12 310, Pays de Dreux) : `vernouillet.fr` est un annuaire privé (règle 56) ; le site de la Ville,
+  `vernouillet28.fr`, a une clause générale, mais ne publie ni jour ni heure pour le marché des Corvées, que seul le comité
+  départemental documente (règles 196 et 257). Au registre biologique : des supermarchés, deux boulangeries et une entreprise
+  individuelle. Aucune fiche.
+- **Mainvilliers** (10 629, Chartres Métropole) : `mainvilliers.fr` est lui aussi un annuaire privé ; les mentions de la Ville
+  interdisent la reproduction des « textes, images et illustrations » (règle 231). Au registre : des supermarchés seulement.
+  Aucune fiche. Si une passe revient dans le 28, la descente reprend à **Nogent-le-Rotrou** (9 292), puis Luisant.
 
 ### Pistes non publiées dans les Landes et en Eure-et-Loir — seconde passe sans publication
 

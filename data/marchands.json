@@ -4525,35 +4525,6 @@
     "a_confirmer": true
   },
   {
-    "slug": "pierre-et-aurelie-apiculteurs",
-    "nom": "Pierre et Aurélie Apiculteurs",
-    "categorie": "producteur",
-    "piliers": [
-      "alimentation",
-      "economie"
-    ],
-    "lat": 43.483731,
-    "lon": 6.270377,
-    "adresse": "501 chemin des Plantades, 83570 Entrecasteaux",
-    "horaires": "Toute l'année, du lundi au vendredi, uniquement sur rendez-vous.",
-    "produits": [
-      "Miel de thym",
-      "Miel de lavande",
-      "Miel de garrigue",
-      "Miel de châtaignier",
-      "Miel de romarin",
-      "Pollen",
-      "Huile d'olive",
-      "Bière au miel de châtaignier"
-    ],
-    "description": "Apiculteurs récoltants installés depuis 2019 sur les hauteurs d'Entrecasteaux, dont les miels de thym, de lavande et de garrigue ont été distingués au Concours Général Agricole de Paris. Ils vendent aussi une huile d'olive et une bière brassée au miel de châtaignier ; la vente se fait à la miellerie sur rendez-vous.",
-    "telephone": "06 20 37 65 95",
-    "site_web": "https://pierreetaurelie.com",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pierre+et+Aurelie+Apiculteurs+Entrecasteaux",
-    "image_url": "/images/marchands/pierre-et-aurelie-apiculteurs.jpg",
-    "a_confirmer": true
-  },
-  {
     "slug": "marche-provencal-d-entrecasteaux",
     "nom": "Marché provençal d'Entrecasteaux",
     "categorie": "marche",
@@ -6123,30 +6094,6 @@
     "telephone": "06 45 56 95 96",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Safran+des+Pierres+Blanches+Correns",
     "image_url": "/images/marchands/safran-des-pierres-blanches.jpg",
-    "a_confirmer": true
-  },
-  {
-    "slug": "le-poulailler-de-lea",
-    "nom": "Le Poulailler de Léa",
-    "categorie": "ferme",
-    "piliers": [
-      "alimentation",
-      "environnement",
-      "economie"
-    ],
-    "lat": 43.495444,
-    "lon": 6.082708,
-    "adresse": "1178 chemin des Couastes Belles, 83570 Correns",
-    "horaires": "Toute l'année sur rendez-vous, à appeler avant de se déplacer. L'élevage tient aussi un étal au marché hebdomadaire du Val.",
-    "produits": [
-      "Poulets bio élevés en plein air",
-      "Volailles de chair",
-      "Œufs de poules élevées en plein air"
-    ],
-    "description": "Petit élevage de volailles en plein air sur les hauteurs de Correns, certifié en agriculture biologique chez Ecocert depuis janvier 2011. La vente se fait à la ferme sur rendez-vous et sur le marché hebdomadaire du Val ; l'exploitation élève aussi des poules pondeuses et cultive quelques oliviers et arbres fruitiers.",
-    "telephone": "06 30 56 15 18",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Poulailler+de+Lea+Correns",
-    "image_url": "/images/marchands/le-poulailler-de-lea.jpg",
     "a_confirmer": true
   },
   {
