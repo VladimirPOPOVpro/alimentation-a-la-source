@@ -4101,35 +4101,6 @@
     "a_confirmer": true
   },
   {
-    "slug": "frederic-forton-apiculteur",
-    "nom": "Frédéric Forton Apiculteur",
-    "categorie": "producteur",
-    "piliers": [
-      "alimentation",
-      "environnement",
-      "economie"
-    ],
-    "lat": 43.474566,
-    "lon": 6.17532,
-    "adresse": "93 quartier Vaou Nègre Est, 83570 Carcès",
-    "horaires": "Ouvert toute l'année, tous les jours, mais l'apiculteur demande de prendre rendez-vous avant de se déplacer. Pour assister à l'extraction du miel en été, l'office de tourisme Provence Verte & Verdon organise les visites.",
-    "produits": [
-      "Miel de garrigue bio",
-      "Miel d'acacia et aubépine bio",
-      "Miel de châtaignier",
-      "Miel de bruyère",
-      "Miel de forêt",
-      "Gelée royale",
-      "Bonbons au miel et à la propolis"
-    ],
-    "description": "Exploitation apicole familiale installée à Carcès depuis 2011, dont les trois cent cinquante ruches sont transhumées au fil des floraisons. Les miels sont certifiés en agriculture biologique par Bureau Alpes Contrôles, engagement daté de novembre 2020 au registre de l'Agence Bio, et portent l'IGP Miel de Provence. La miellerie se visite sur rendez-vous, en face de la station-service de l'Intermarché.",
-    "telephone": "06 65 00 47 85",
-    "site_web": "https://forton-apiculteur-miel-provence.fr",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Frederic+Forton+Apiculteur+Carces",
-    "image_url": "/images/marchands/frederic-forton-apiculteur.jpg",
-    "a_confirmer": true
-  },
-  {
     "slug": "chateau-sainte-croix",
     "nom": "Château Sainte-Croix",
     "categorie": "producteur",
@@ -5890,31 +5861,6 @@
     "site_web": "https://www.domaine-de-garbelle.com",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+Garbelle+Gareoult",
     "image_url": "/images/marchands/domaine-de-garbelle.jpg",
-    "a_confirmer": true
-  },
-  {
-    "slug": "elevage-franck-tilotta",
-    "nom": "Élevage Franck Tilotta",
-    "categorie": "ferme",
-    "piliers": [
-      "alimentation",
-      "environnement",
-      "economie"
-    ],
-    "lat": 43.356087,
-    "lon": 6.053604,
-    "adresse": "1871 chemin André Malraux, 83136 Garéoult",
-    "horaires": "Du 1er octobre au 10 juin, les mardis, jeudis et samedis de 16h à 18h. L'été, les brebis partent en estive et la production s'arrête.",
-    "produits": [
-      "Fromages fermiers de brebis",
-      "Brousse du Var (caillé doux)",
-      "Yaourts de brebis"
-    ],
-    "description": "Élevage de brebis laitières de race corse conduit en système pastoral dans les collines de Garéoult, où le troupeau sort tous les jours ; les fromages, yaourts et brousses sont fabriqués à la ferme en agriculture biologique. La vente se fait aussi sur les marchés de Garéoult le mardi et le samedi, au magasin de producteurs Terres d'Hyères, à l'AMAP de La Roquebrussanne et dans les Biocoop de Solliès-Pont et Carnoules.",
-    "telephone": "07 82 41 61 84",
-    "site_web": "https://www.acheteralasource.com/producteur/168758",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Elevage+Franck+Tilotta+Gareoult",
-    "image_url": "/images/marchands/elevage-franck-tilotta.jpg",
     "a_confirmer": true
   },
   {
