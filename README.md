@@ -3193,6 +3193,42 @@ prioritaires en cas de conflit.
      de tourisme ou de l'AMAP ; aucune ne vient du site de la coopérative, et la fiche du magasin porte une photographie
      thématique de la commune au titre des règles 1 et 203.
 
+246. **Une clause de droits d'auteur qui range nommément les photographies parmi ce qu'elle protège, puis interdit de
+     reproduire « le site », ferme le site comme source d'image ; une permission limitée à l'usage privé aussi.** La règle 231
+     demande que l'interdiction « nomme les photographies ou les images ». Plusieurs communes du Val-de-Marne l'écrivent en
+     deux phrases voisines d'un même paragraphe : l'une énumère « logos, textes, photographies » comme propriété de la Ville,
+     l'autre interdit « toute reproduction même partielle du site » (Ivry-sur-Seine, Maisons-Alfort) ; Vincennes n'autorise la
+     reproduction de ses photographies que « pour un usage strictement privé » ; l'office de tourisme de Quimper Cornouaille
+     écrit que ses photos « font l'objet de droits réservés ». **Tranché ainsi** : la règle 231 se lit au paragraphe, pas à la
+     phrase — quand le paragraphe qui interdit la reproduction est aussi celui qui nomme les photographies, l'interdiction les
+     vise ; une permission réservée à l'usage privé exclut la publication, et « droits réservés » posé sur les photographies
+     est une réserve, pas une licence. Reste une clause générale au sens de la règle 231 celle qui ne parle que de « contenus »
+     ou « du site » sans nommer d'image nulle part dans le paragraphe : Villiers-sur-Marne, la Ville de Concarneau et l'office
+     De Concarneau à Pont-Aven sont dans ce cas.
+
+247. **Une descente de la règle 41.d s'arrête au bout de douze communes éprouvées sans succès ; la passe change de
+     département et le point d'arrêt s'écrit.** La règle 127 fait éprouver chaque commune de la descente, et le mandat dit de
+     descendre « à la suivante » sans dire quand s'arrêter. Le Val-de-Marne montre pourquoi il faut une borne : ses communes
+     documentent correctement leurs marchés, mais presque toutes ferment leurs photographies (règles 231 et 246) et aucun office
+     ni comité départemental ne fiche leurs marchés ; douze communes criblées, de Champigny-sur-Marne à Villiers-sur-Marne, n'en
+     ont rendu aucune avec deux fiches entières. **Tranché ainsi** : douze communes, le nombre que la descente de la
+     Seine-et-Marne avait atteint (treize) avant de trouver sa zone, sont la borne ; au-delà, la passe prend le département
+     suivant du classement, avec la réserve de la règle 41.c. Le département quitté n'est pas « visé » au sens de la règle
+     41.c, puisqu'aucune fiche n'y est publiée. La section de pistes nomme la dernière commune éprouvée : la passe qui reviendra
+     dans ce département reprend la descente à la commune suivante, sans refaire le criblage, et reprend d'abord les fiches
+     déjà entières qu'il a laissées. Les communes éprouvées ne se rouvrent qu'avec un déblocage nommé dans les pistes.
+
+248. **Une passe qui ne trouve sa zone dans aucun des deux départements qu'elle a éprouvés ne publie rien.** Après la règle
+     247, la passe du 22 septembre 2026 est passée au Finistère : Quimper y rend **une** fiche entière (un magasin de
+     producteurs), et Concarneau aucune — ses halles et ses marchés sont documentés, mais la seule image de la Ville est une
+     photographie achetée à une banque d'images (règle 70) et l'office n'en publie aucune pour eux. La tentation était de
+     publier la fiche quimpéroise seule, ou de continuer la descente du Finistère commune après commune. **Tranché ainsi** : une
+     fiche isolée n'est pas une zone (règle 52), elle attend en pistes avec tout son travail ; et une passe éprouve au plus la
+     commune calculée du second département et la suivante de sa descente, pour ne pas finir en criblage sans fin. Au-delà,
+     elle s'arrête sans publier, consigne son criblage, et la passe suivante recalcule le classement (règle 41) et reprend là
+     où celle-ci s'est arrêtée (règle 247). Une passe qui ne publie rien le dit dans son compte rendu ; elle ne se rattrape pas
+     en baissant une exigence.
+
 ## Marchands à confirmer
 
 632 fiches sur 699 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10208,6 +10244,99 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées dans le Val-de-Marne et à Quimper — passe sans publication
+
+Seconde passe du 22 septembre 2026, **aucune fiche publiée** (règle 248). **Classement, règle 41**, sur 699 fiches, dénominateur
+de la règle 224, outre-mer écarté par la règle 177 : **Val-de-Marne** (94) **4,4653**, **Finistère** (29) **4,4628**, Rhône
+4,4096, Landes 4,3953, Eure-et-Loir 4,3908. La passe précédente visait la Vienne, en Nouvelle-Aquitaine : ni l'Île-de-France ni
+la Bretagne ne sont écartées par la règle 41.c. Aucune demande de visiteur en attente, aucun courriel envoyé.
+
+**Val-de-Marne : douze communes éprouvées, aucune zone (règle 247).** Point d'arrêt : **Villiers-sur-Marne** ; la prochaine passe
+dans le 94 reprend à **Thiais** (32 918 habitants), puis Nogent-sur-Marne, L'Haÿ-les-Roses, Fresnes, Charenton-le-Pont.
+
+- **Champigny-sur-Marne** : le site de la Ville répond « Sorry, you have been blocked » (Cloudflare), en ligne de commande comme
+  dans le navigateur intégré — règle 237. L'AMAP locale ne publie ni le lieu ni l'heure de sa distribution campinoise, seulement
+  « le jeudi soir » ; l'épicerie coopérative qui en est née n'ouvre que deux heures par quinzaine à ses membres. Déblocage :
+  le retour du site de la Ville, ou un lieu de distribution publié par l'AMAP.
+- **Saint-Maur-des-Fossés** : huit marchés publiés par la Ville (page de juillet 2022), mais aucune source ne dit ce qui se
+  vend sur chacun (règle 197), les mentions légales nomment les photographies dans leur interdiction (règle 231) et l'office
+  Paris Est Marne & Bois illustre ses fiches de marché d'une image de banque. Les halles d'Adamville et de La Varenne ont connu
+  en 2026 un report de réouverture lié au délégataire : à revérifier avant toute fiche.
+- **Ivry-sur-Seine** : la page des marchés (mise à jour le 16 juin 2026) porte maintenant une vraie photographie de marché,
+  mais les mentions légales la ferment (règle 246). Les faits des marchés Barbusse, Petit-Ivry et Ivry-Port restent ceux
+  consignés à la passe de Vitry.
+- **Villejuif** : trois marchés publiés par la Ville (jours et heures, fiches vérifiées le 29 septembre 2025) sans aucune
+  composition (règle 197) ; la ferme urbaine de l'avenue de la République, certifiée bio au nom de la commune, est un tiers-lieu
+  sans vente publiée (règle 57).
+- **Maisons-Alfort** : deux marchés publiés sans heure ni composition ; mentions légales fermées (règle 246).
+- **Fontenay-sous-Bois** : le site de la Ville (`fontenay.fr`) exige JavaScript et cookies avant toute page, `robots.txt` compris
+  — défi anti-robot, règle 212.
+- **Vincennes** : photographies réservées à l'usage privé (règle 246).
+- **Choisy-le-Roi** : quatre marchés avec jours et heures, sans composition ; mentions légales qui nomment les photos.
+- **Alfortville** : trois marchés, un arrêté de règlement du 30 juillet 2026 (n° 2026/713) qui fixe la vente de 8h30 à 13h en
+  semaine et 13h30 le week-end — la page de la Ville écrit 6h30-13h, heure d'installation (règle 207) ; l'arrêté nomme « marché
+  Carnot » ce que la page appelle « place Achtarak ». Photographies de la Ville fermées par ses mentions légales. **Fiche
+  entière disponible pour la reprise : l'AMAP Alfortville**, distribution un vendredi sur deux de 18h30 à 19h45 à la Maison
+  Gabriel Désir, square Gabriel-Meynet, à côté de la mairie, calendrier daté 2026-2027 sur son propre site (règle 195) ;
+  légumes d'un maraîchage bio de la Somme, œufs de la ferme de Villezanges à Périgny, pommes et poires de l'Essonne, agrumes de
+  Corse, fromages de chèvre, pain. Son site (page « Contact », avril 2026) donne 19h45 quand une page de 2023 donnait 20h :
+  c'est la page datée la plus récente qui l'emporte (règle 172). Photographie non encore examinée. Les deux autres magasins
+  bio du registre sont un étal de marché domicilié et une supérette. La seconde AMAP de la commune n'a qu'une page de réseau
+  social et une fiche municipale d'avril 2023 (règle 195).
+- **Villeneuve-Saint-Georges** : mentions légales qui interdisent de reproduire « textes, images » (règle 231).
+- **Le Perreux-sur-Marne** : mentions légales qui nomment « les photos, les images ».
+- **Villiers-sur-Marne** : clause générale, qui ne ferme rien (règle 246) ; deux marchés gérés en délégation, le centre-ville
+  (jeudi et dimanche 8h-13h, halle alimentaire, rues voisines non alimentaires, règle 120) et le Bois de Gaumont (samedi 8h-13h,
+  place des Châtaigniers : fruits, légumes, viande, poisson). La seule image de la page est un gros plan d'étal de 750 px, déposé
+  en 2016, sans aucun élément du lieu : illustration au sens de la règle 139, pas une vue de ces marchés. Déblocage : une
+  photographie de l'un des deux marchés publiée par une source qui en permet la reprise.
+- Hors descente, noté pour plus tard : le registre de l'Agence Bio (885 opérateurs lus dans le 94) montre un gisement de fermes
+  en vente directe sur le plateau briard, à Mandres-les-Roses et Périgny, communes que la descente n'atteindra pas avant
+  longtemps.
+
+**Finistère : deux communes éprouvées (règle 248).** Brest a déjà cinq fiches ; la commune calculée est **Quimper** (64 385
+habitants), puis Concarneau (20 845). Point d'arrêt : **Concarneau** ; la prochaine passe dans le 29 reprend à **Landerneau**,
+après avoir repris les fiches entières de Quimper ci-dessous.
+
+- **Quimper, fiche entière disponible : La Ferme de Locmaria**, magasin de producteurs bio d'une vingtaine de fermes du sud
+  Finistère, 6 rue du Frugy (Base Adresse Nationale 0,975, point −4,107788 / 47,987754) ; ouvert mardi et mercredi 15h30-19h30,
+  vendredi 12h-19h30, samedi 9h-13h ; téléphone fixe publié par le magasin ; légumes, viande, pain, produits laitiers, fruits,
+  épicerie. L'association qui le tient est active au registre à cette adresse depuis mars 2020. Catégorie `producteur` (règles 8
+  et 105). Pas de pilier `environnement` : l'association n'est pas au registre de l'Agence Bio (règle 71), même si des fermes
+  de sa liste y sont engagées. Photographie retenue : la vue intérieure du magasin, enseigne peinte au mur, comptoirs du fromage
+  et de la viande, sans personne (2 560 px, fichier `ferme-site-scaled.jpg` du site) ; le site n'a aucune clause sur ses images.
+  Les autres photographies du site sont des portraits de producteurs, légendés de leurs prénoms : aucune n'est utilisable.
+  Le serveur du site refuse `curl` (réponse 406) mais s'ouvre normalement dans le navigateur intégré.
+- Quimper, **Les Maraîchers de la Coudraie**, chantier d'insertion en maraîchage bio (Ecocert), 271 route de Guengat : vente à
+  la ferme mardi et vendredi 11h-18h, légumes, petits fruits, pommes, œufs, jus, conserves et soupes. Faits complets, mais son
+  site et l'annuaire qui la décrit ferment tous deux leurs photographies (règle 231). Déblocage : une image permise.
+- Quimper, domaine cidricole du chemin du Quinquis (cidres, pommeau, eaux-de-vie, jus de pomme) : photographies réservées par
+  ses mentions légales, et heures publiées pour les visites de la distillerie, pas pour la boutique (règle 2).
+- Quimper, plantation de thé bio du chemin de Coat Bily : boutique le vendredi de 15h à 18h selon son site (18h30 selon l'office
+  de tourisme), certificat Ecocert engagé depuis mars 2021 sur le thé ; mais aucune entité active n'a pu lui être rattachée au
+  registre des entreprises (aucun SIRET publié par l'Agence Bio, rien à l'adresse ni sous l'enseigne) — règles 6 et 19.
+- Quimper, marchés de la Ville (halles Saint-François, grand marché du Steir, marché biologique de Kerfeunteun, Penhars,
+  Braden) : faits publiés par la Ville (page de juillet 2019) et par l'office de tourisme, avec des écarts d'horaires à trancher
+  (Kerfeunteun 14h30-19h30 contre 15h-19h, Braden 8h15-13h45 contre 7h-14h) ; photographies fermées chez la Ville, chez l'office
+  et sur le site des halles tenu par la chambre de commerce (règle 246). Le marché biologique de Kerfeunteun porterait le pilier
+  `environnement` au titre de la règle 132 s'il devenait publiable.
+- Quimper, écartés : une coopérative bio qui ne publie aucune liste de producteurs (règle 86), une brasserie sans heures de vente
+  directe (vente sur rendez-vous seulement, règle 192), une autre sans aucune vente sur place ; une AMAP dont le lieu de
+  distribution est une adresse qu'aucune source ne rattache à un équipement public ni à une entreprise — doute sur un domicile,
+  règle 243, piste close.
+- **Concarneau** : les halles (14 commerçants, tous les jours 8h-13h selon la Ville, page mise à jour le 23 juin 2026 ; 8h30-13h30
+  selon l'office) et les marchés du lundi et du vendredi sont bien documentés, mais la seule image de la Ville est une photographie
+  de banque d'images (règle 70) et l'office De Concarneau à Pont-Aven ne publie aucune image de ces lieux. Les magasins bio de la
+  commune relèvent de la règle 86 (réseau ou vrac sans liste de producteurs). Déblocage : une photographie des halles ou du
+  marché publiée par une source qui en permet la reprise.
+
+**Sources consultées** : sites des Villes (Champigny-sur-Marne, bloqué ; Saint-Maur-des-Fossés, Ivry-sur-Seine, Villejuif,
+Maisons-Alfort, Fontenay-sous-Bois, bloqué ; Vincennes, Choisy-le-Roi, Alfortville, Villeneuve-Saint-Georges, Le Perreux-sur-Marne,
+Villiers-sur-Marne, Quimper, Concarneau) ; offices de tourisme Paris Est Marne & Bois, Quimper Cornouaille, De Concarneau à
+Pont-Aven ; comité départemental du tourisme du Val-de-Marne ; sites des AMAP, magasins et producteurs cités ; registre de l'Agence
+Bio (94 et 29) ; registre des entreprises ; Base Adresse Nationale. Ces sources nomment des élus, des exploitants, des producteurs,
+des bénévoles et des photographes : aucun nom n'est repris.
 
 ### Pistes non publiées à Poitiers
 
