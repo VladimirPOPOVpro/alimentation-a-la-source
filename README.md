@@ -10656,6 +10656,103 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans l'Oise et dans le Val-d'Oise — cinquième passe sans publication
+
+Passe du 23 septembre 2026, après la quatrième passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
+(nouvelle ou en cours), aucun courriel. **Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte ; le site de
+la Ville de Capbreton n'ouvre toujours aucune connexion (agent par défaut et agent nommé, règle 237) : le groupe de Labenne reste à
+quatre points. **Classement, règle 41**, recalculé sur 753 fiches (dénominateur de la règle 224, outre-mer écarté, règle 177) :
+**Oise (60) 5,0629**, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, Vosges 3,9013 —
+inchangé (règle 260). Hauts-de-France et Île-de-France ouverts (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle
+241). **Douze communes de l'Oise** (règle 247), reprises à Grandvilliers comme la section précédente le prescrit, puis **deux du
+Val-d'Oise** (règle 248), reprises à Ermont : aucune ne rend deux fiches entières, image comprise (règle 127). Rien n'est publié.
+
+**Le trait commun reste le même** : sous 3 000 habitants, les Villes de l'Oise ne publient presque jamais de marché hebdomadaire ;
+quand un commerce a ses faits entiers, ses photographies sont servies par Wix (`static.wixstatic.com`, `robots.txt` en 403 : règle
+256) ou fermées par une clause qui nomme les images (règles 231, 246 et 253). Sources muettes ou exclues pour toute la passe :
+`oise.fr` (403 à tous les agents, règle 237), l'office du Pays de Bray (`Disallow: /` sous `User-agent: *`, règle 282),
+`saveursdenosvallees60.fr` (exclut `CCBot` et `GPTBot`, règle 149), et le site de la Ville d'Hermes, qui sert l'agent par défaut et
+coupe la connexion à l'agent nommé (règle 257).
+
+**Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Grandvilliers** (2 786) — Ville fermée aux images (« textes, images, photographies », usage « personnel et privé »). Le marché
+   du lundi (13h-18h, place Barbier) est attesté par la Ville, qui n'en cite que « produits comestibles, articles vestimentaires » :
+   pas de produits concrets. **Une fiche entière, désignée pour la reprise** : **Agri Glaces**, glacier au lait bio d'une ferme
+   voisine, 5 route de Crèvecœur (BAN au numéro, 0,952 ; société active, un établissement ouvert) ; du lundi au samedi 9h-18h30
+   selon les deux fiches de l'office de Picardie Verte mises à jour le 23 septembre 2026 ; glaces, sorbets, entremets glacés ;
+   téléphone fixe publié par l'office ; image : coupes glacées de la fiche d'office (Tourinsoft, 1 536 px, aucun visage ; clause
+   générale de l'office, `robots.txt` sans exclusion). Catégorie `producteur` à confirmer (`a_confirmer`), la page du Département
+   qui le range parmi ses producteurs fermiers répondant 403. **Faits entiers sans image** : **La Planète Verte**, épicerie bio
+   indépendante du 21 place Barbier (du mardi au samedi 8h30-19h, lundi 14h30-18h30 ; photographies servies par Wix, presse locale
+   fermée aux images). **Une** fiche entière.
+2. **Sérifontaine** (2 784) — Ville sans marché, site servi par Wix. La seule ferme à vente directe connue est **fermée au
+   registre** (société et boutique, zéro établissement ouvert) et son domaine n'existe plus. **Zéro.**
+3. **Venette** (2 758) — Ville sans marché régulier. Un stand de maraîcher bio du samedi n'est décrit que par un annuaire non daté
+   qui exclut des agents d'IA, avec « légumes » pour seul produit ; l'AMAP qui a son siège dans la commune distribue à Compiègne.
+   **Zéro.**
+4. **Cauffry** (2 649) — Le marché mensuel (deuxième dimanche, place de l'Église) n'a pas de produits publiés, deux horaires
+   différents sur les pages de la Ville, une place que la BAN ne connaît pas (0,52), et pour toute image une affiche de texte et une
+   photographie de banque d'images. **La Ferme du Moulin**, maraîchage et boulangerie bio du 20 rue du Moulin (active, certifiée),
+   n'a pas d'horaires attestés — trois versions chez des annuaires tiers, aucune chez la Ville — et ses photographies font 300 px.
+   **Zéro.**
+5. **Longueil-Annel** (2 586) — Ville sans marché hebdomadaire (seul un annuaire tiers en annonce un) ; au registre bio, une
+   grande surface. **Zéro.**
+6. **Rantigny** (2 524) — Liste des commerces de la Ville sans marché, ferme ni AMAP. **Zéro.**
+7. **Fitz-James** (2 514) — Un marché floral et fermier annuel, rien d'hebdomadaire ; au registre bio, des supermarchés et un
+   silo de coopérative. **Zéro.**
+8. **Maignelay-Montigny** (2 473) — **Faits entiers sans image** : le **marché du vendredi**, 8h30-12h30, place du Général-de-Gaulle
+   (page de la Ville ; charcuterie, fromages, légumes, poisson ; BAN à la place, 0,955). La Ville ne permet qu'une copie « à l'usage
+   exclusivement privé » (règle 246) ; la communauté de communes du Plateau Picard le fiche au mercredi 8h30-13h en contredisant
+   son propre texte (la Ville fait foi, règle 176) et l'illustre d'une image agrandie par un redimensionneur (règle 255), prise sur
+   un autre marché, sous un chemin que son `robots.txt` interdit. **Zéro fiche entière.**
+9. **Breuil-le-Sec** (2 467) — Aucun marché sur le site de la Ville ; une épicerie ambulante sans horaires publiés ni site joignable.
+   **Zéro.**
+10. **Hermes** (2 466) — Site de la Ville refusé à l'agent nommé (règle 257) : le marché du dimanche n'a pas d'autre source
+    municipale (règle 196). Les autres producteurs de la commune sont inscrits sous un patronyme ou ne vendent pas au public.
+    **Zéro.**
+11. **Le Mesnil-en-Thelle** (2 439) — Ville fermée aux images (« logos, textes, photographies » puis interdiction de reproduire le
+    site, sous le même intertitre : règle 253) ; aucun marché ni producteur publié ; un commerce des annuaires est fermé au
+    registre, un rucher actif n'a ni horaires ni produits publiés. **Zéro.**
+12. **Bailleul-sur-Thérain** (2 330) — Aucun marché ni AMAP sur le site de la Ville. **Une fiche entière, désignée pour la
+    reprise** : le **Verger Potager de Bailleul**, 20 rue de Beauvais (BAN au numéro, 0,954 ; établissement actif ; l'établissement
+    homonyme de Bury est fermé) ; mercredi et vendredi 14h-18h30, samedi 10h-17h30, distributeur 24 h/24 (office de tourisme du
+    Beauvaisis et Oise Tourisme, période 2026, et site du producteur) ; pommes et poires, fraises, asperges, salades, tomates,
+    courges, jus et confitures ; image : les serres à l'enseigne en en-tête du site du producteur (1 600 px, personne dans le cadre,
+    mentions légales vides, `robots.txt` sans exclusion). Le seul téléphone publié est un portable : champ vide (règle 229).
+    **Une.**
+
+La passe qui reviendra dans l'Oise reprend la descente au **Meux** (2 327) ; douze communes de 2 000 habitants ou plus restent
+(jusqu'à Chevrières, 2 036), après quoi le département sera épuisé au sens de la règle 265. **Huit fiches restent désignées pour la
+reprise**, chacune seule dans sa commune : le marché de la place Carnot à Creil, la Ferme de l'Arbre à Poule à Villers-Saint-Paul,
+La Ferme de la Nonette à Chantilly (sous sa réserve de registre), l'AMAP de Margny-lès-Compiègne, le p'tit marché de
+Précy-sur-Oise, et désormais Agri Glaces à Grandvilliers et le Verger Potager de Bailleul. Bailleul-sur-Thérain et Hermes sont dans
+la communauté d'agglomération du Beauvaisis, à 4 km l'une de l'autre, avec Beauvais (déjà couverte) : le déblocage d'Hermes est une
+source municipale joignable pour son marché du dimanche. Noailles attend toujours une photographie permise.
+
+**Val-d'Oise — deux communes (règle 248)**, reprises à Ermont :
+
+1. **Ermont** (29 489) — Ville fermée aux images (« textes, photographies […] propriété de la ville » puis interdiction de
+   reproduire le site). **Trois fiches aux faits entiers ou presque, aucune image permise** : l'épicerie vrac bio **RO-ZE**, 8 rue de
+   la République (active, certifiée ; horaires et produits sur son site ; photographies servies par Wix, règle 256) ; l'**AMAP
+   d'Ermont**, 4 rue Daniel, distribution le mercredi 19h-20h (contrats de la rentrée 2026 ; BAN à la rue seulement, 0,804 ;
+   photographies servies par un hébergeur dont le `robots.txt` répond 403) ; le **marché Saint-Flaive**, mercredi et samedi 7h30-13h
+   (page de la Ville, sans produits cités, seule photographie à 200 px). **Zéro fiche entière.** Déblocage : une photographie
+   permise pour deux d'entre elles.
+2. **Gonesse** (27 707) — Ville fermée aux images (« textes, images, graphismes » sous autorisation écrite) et sans marché publié
+   avec jour et heure. Une ferme maraîchère bio active n'a pas d'horaires accessibles (site « en construction »). **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Taverny** (27 593).
+
+**Après la passe**, sur 753 fiches, rien n'a changé : **Oise 5,0629** (Hauts-de-France), Landes 4,7348 et Eure-et-Loir 4,7300
+(épuisés), Val-d'Oise 3,9963, Vosges 3,9013. La passe suivante peut viser les Hauts-de-France.
+
+**Données personnelles écartées** : les noms des exploitants individuels lus au registre (Grandvilliers, Cauffry, Bailleul-sur-Thérain,
+Gonesse, Breuil-le-Sec), les enseignes patronymiques d'une jardinerie de Rantigny, d'apiculteurs de Maignelay-Montigny, de
+Breuil-le-Sec et d'Hermes, et de deux fermes de Grandvilliers ; l'enseigne d'un stand de Venette formée sur un patronyme ; les
+portables publiés pour la ferme de Cauffry, le verger de Bailleul et le stand de Venette ; un portrait d'exploitant et une
+photographie d'office montrant deux visages, non retenus. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
 ### Pistes non publiées dans l'Oise et dans le Val-d'Oise — quatrième passe sans publication
 
 Passe du 23 septembre 2026, après la troisième passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
