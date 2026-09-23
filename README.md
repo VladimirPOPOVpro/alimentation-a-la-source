@@ -3417,9 +3417,20 @@ prioritaires en cas de conflit.
      titre de la règle 11 sans rouvrir la descente. Première application le 23 septembre 2026 : Landes sautées, Eure-et-Loir
      premier (douze communes, de Lèves à Gallardon), Dordogne second (Périgueux, puis Bergerac, qui a fait la passe).
 
+266. **Le déblocage du groupe de Labenne (règle 265) reste soumis à la réserve de la règle 41.c.** La règle 265 fait vérifier
+     à chaque passe, avant tout, les déblocages du groupe de Labenne, et dit qu'à cinq points il est publié « sans rouvrir la
+     descente ». Elle ne dit pas ce qu'il advient quand la passe précédente a publié dans la même région. Le 23 septembre 2026,
+     la passe de Bergerac a visé la Nouvelle-Aquitaine ; celle-ci a trouvé le site de la Ville de Capbreton de nouveau joignable
+     (200 à l'agent par défaut comme à l'agent nommé, après plusieurs passes sans réponse, règle 237). **Tranché ainsi** : la
+     vérification se fait et s'écrit, mais une publication du groupe ne peut pas suivre une passe qui a publié dans sa région ;
+     la règle 41.c est une garde sur la formule, et une reprise n'est pas une exception à la formule. Le contrôle de la source
+     datée de l'antenne de Capbreton (règle 264) revient à la prochaine passe autorisée à viser la Nouvelle-Aquitaine.
+
 ## Marchands à confirmer
 
-645 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+647 fiches sur 719 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marchés de la place Fernand Pelloutier** (Albi) (catégorie et piliers des marchés municipaux, pilier `environnement` au titre du marché biologique du mardi, que la description nomme (règle 42). **Faits** : page « Marchés albigeois » de la Ville (14 octobre 2025) et fiche d'équipement de la Ville, samedi 7h-13h et mardi 16h-20h ; l'office Vallée du Tarn donne le même créneau du mardi. Deux séances sur la même place : une seule fiche (règle 42). **Point** : place Fernand Pelloutier à la Base Adresse Nationale (0,97), à 14 m du marqueur de la Ville. **Photo, règles 1 et 203** : la seule photographie que l'office attache au marché du mardi fait 515 px, sous le plancher de la règle 59 ; la fiche porte une photographie thématique d'Albi, une rue du centre un jour de marché prise dans la fiche du marché des bouquinistes de l'office, recadrée au-dessus des passants et sans l'enseigne d'une boutique, ce que la description dit. D'où `a_confirmer`. À 1,7 km du centre d'Albi)
+- **Marché de la Madeleine** (Albi) (catégorie et piliers des marchés municipaux. **Faits** : Ville seule, samedi 7h-13h, boulevard de Strasbourg (page des marchés et fiche d'équipement). **Point** : boulevard de Strasbourg à la Base Adresse Nationale (0,97, centre de voie), à 20 m du marqueur de la Ville. **Photo, règle 1** : aucune photographie du marché n'est publiée par une source ouverte ; la fiche porte le Pont-Vieux et la cathédrale vus de la rive droite, quartier de la Madeleine, pris dans la fiche du petit train touristique de l'office Vallée du Tarn, 1280 px, sans personne reconnaissable. D'où `a_confirmer`. À 1,3 km du centre d'Albi)
 - **Les Agriculteurs Réunis** (Bergerac) (catégorie `producteur`, règle 105 : épicerie de producteurs ouverte six jours sur sept. **Registre, règle 6** : SARL active, établissement ouvert au 81 avenue Paul Doumer (47.21Z) ; un ancien établissement de la route de Sainte-Alvère est fermé. Pas de pilier `environnement` : aucune inscription au registre de l'Agence Bio, l'office écrit « agriculture raisonnée ou bio ». **Horaires** : office de tourisme du Pays de Bergerac seul ; le site du magasin est une page « en construction » qui ne les donne pas, d'où `a_confirmer` et un champ `site_web` vide (règle 33). **Téléphone non inscrit** : un portable que seul l'office publie. **Point** : numéro à la Base Adresse Nationale (0,97), à 23 m du marqueur de l'office. **Photo, règle 239** : façade publiée par l'office, 787 × 436, enseigne lisible, personne dans le cadre ; mentions de l'office : reproduction permise avec indication de la source. À 1,8 km du centre de Bergerac)
 - **Marché du dimanche de Prigonrieux** (Prigonrieux) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jour et lieu** : actualité de la commune du 9 octobre 2025 (« chaque dimanche, sous la halle colorée ») et fiche de l'office, concordantes ; **heures** de l'office seul (8h-13h, calendrier daté jusqu'en décembre 2026), d'où `a_confirmer` (règle 9). **Point** : place du Groupe Loiseau à la Base Adresse Nationale (0,95, centre de voie), confondu avec le marqueur de l'office. **Produits** : exposants que la commune énumère ; les noms de personnes de sa liste ne sont pas repris. **Photo, règles 46, 239 et 254** : la halle publiée par l'office, recadrée sur la charpente et sa verrière colorée (1024 × 296) pour écarter tous les visages ; les mentions de la commune ferment ses propres images. À 6,8 km du centre de Bergerac, même agglomération (règle 96))
 - **Château de Peyrel** (Prigonrieux) (catégorie `producteur`, pilier `environnement` : SCEA active au 21 route de Peyrel, certificat Bureau Veritas engagé depuis le 11 mars 2018, « vins de raisin » déclarés (règle 39) ; pas d'`alimentation`, le domaine ne vend que du vin (règle 14). **Horaires, contradiction consignée (règle 5)** : le site du domaine donne du lundi au vendredi de 9h à 18h, la fiche de l'office tous les jours de 9h à 19h ; la version du domaine est publiée, celle de l'office est citée. **Téléphone non inscrit** : le site ne donne qu'un portable. **Point** : numéro à la Base Adresse Nationale (0,95), à 20 m du point déclaré au registre de l'Agence Bio. **Photo, règle 239** : le château vu du parc, publié par l'office, 1024 px, sans personne ; le portrait de la même fiche n'est pas repris. À 8,3 km du centre de Bergerac)
@@ -4114,7 +4125,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 714 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 719 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -10449,6 +10460,94 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe d'Albi (Tarn) — cinq marchés publiés, douze communes d'Eure-et-Loir éprouvées sans zone
+
+Passe du 23 septembre 2026, après celle de Bergerac. Aucune demande de visiteur, aucun courriel. **Classement, règle 41**, sur
+714 fiches, dénominateur de la règle 224, outre-mer écarté par la règle 177 : Landes (40) 4,4896 (épuisées, règle 265),
+Eure-et-Loir (28) 4,4850, **Tarn (81) 4,1145**, Aude 3,9312, Haute-Savoie 3,9172. La passe précédente visait la Nouvelle-Aquitaine ;
+le Centre-Val de Loire et l'Occitanie restent ouverts (règle 41.c). `origin/main` n'avait pas bougé au moment de publier (règle
+241). **Après la passe**, sur 719 fiches : Landes 4,5210 (épuisées), Eure-et-Loir 4,5164, Haute-Savoie 3,9796, Aude 3,9587,
+Essonne 3,9569 ; Tarn −0,8567. La passe suivante ne peut pas viser l'Occitanie (règle 41.c).
+
+**Reprise d'abord (règles 264, 265 et 266)** : le site de la Ville de Capbreton répond de nouveau (200 aux deux agents) ; la
+Nouvelle-Aquitaine étant fermée à cette passe, la source datée de l'antenne n'a pas été instruite (règle 266, nouvelle).
+
+**Eure-et-Loir, premier département : douze communes, de Brou à Janville-en-Beauce, aucune zone (règles 127, 247 et 260).**
+Contrôle en deux requêtes fait pour chaque site ; seul celui d'une poissonnerie d'Anet refuse l'agent nommé (règle 257).
+L'office départemental `tourisme28.com` nomme les « images fixes » dans son interdiction ; l'office Entre Beauce et Perche exclut
+l'iconographie de sa permission (lu comme une interdiction, règle 239) ; seul l'office du Grand Châteaudun n'a qu'une clause générale.
+
+- **Brou** (3 230) : marché du mercredi de 8h à 13h30 au centre-ville, par arrêté municipal publié sur `brou28.com` ; image de
+  l'office du Grand Châteaudun (2 048 px, visages au premier plan, recadrage haut possible). **Une fiche entière.** Le marché du
+  dimanche n'a d'heures que chez l'office (règle 196) ; une poissonnerie sans horaires publiés par elle-même ni image (règle 192).
+- **Illiers-Combray** (3 210) : marché du vendredi de 8h à 12h, place Maunoury (commune, avril 2025) ; photographies de la commune
+  fermées, aucune autre image. Aucune fiche.
+- **La Loupe** (3 191) : aucun marché publié ; une AMAP sans heure ni source datée (règle 195). Aucune fiche.
+- **Senonches** (3 045) : marché du vendredi de 8h à 13h (commune, juillet 2026), images fermées. Aucune fiche.
+- **Saint-Georges-sur-Eure** (2 797) : site de la commune sans réponse (règle 237). Aucune fiche.
+- **Courville-sur-Eure** (2 791) : marché du jeudi de 7h à 13h, place des Fusillés-de-la-Résistance ; CGU fermant les
+  photographies ; une ferme qui ne vend que sur rendez-vous (règle 192). Aucune fiche.
+- **Pierres** (2 788) : marché du dimanche de 9h à 12h, place Saint-Gilles, images fermées ; un maraîcher dont le domaine a
+  disparu. Aucune fiche.
+- **Anet** (2 721) : aucun marché publié ; la boutique de la Ferme de la Garenne (19 rue Diane-de-Poitiers, vendredi et samedi
+  9h30-12h30 et 15h30-19h, dimanche 10h-12h30 selon son site, clause générale, image de 800 px sans personne). **Une fiche
+  entière.** Le magasin biologique de la commune n'a plus de domaine.
+- **Hanches** (2 696) : aucun marché ; le seul point de vente trouvé est dans une autre commune. Aucune fiche.
+- **Châteauneuf-en-Thymerais** (2 641) : marché du mercredi matin sans heure (règle 192). Aucune fiche.
+- **Toury** (2 640) : marché du dimanche de 8h à 12h30 et grand marché du dernier vendredi du mois de 16h à 20h, images fermées.
+  Aucune fiche.
+- **Janville-en-Beauce** (2 464) : marché du mercredi de 8h à 13h, places du Martroi et Georges-Clemenceau ; CGU fermant les
+  photographies. Aucune fiche.
+
+Point d'arrêt : **Janville-en-Beauce**. La descente reprend à **Abondant** (2 434), puis Tremblay-les-Villages, Arcisses et
+Saint-Prest ; la commune suivante compte moins de 2 000 habitants, et le 28 sera épuisé au sens de la règle 265 au plus tard là.
+Brou et Anet ont chacune une fiche entière, sans voisine illustrable : elles n'y font pas une zone (règle 258).
+
+**Tarn, second département : Albi, commune calculée, fait la passe (règles 41.d et 248).**
+
+- Les sources ordinaires sont fermées : la Ville d'Albi interdit les « représentations iconographiques et photographiques »,
+  la communauté d'agglomération de l'Albigeois ne permet que l'usage « personnel et privé » (règle 246), le comité départemental
+  `tourisme-tarn.com` interdit toute copie de ses photographies, l'association du marché couvert réserve les « représentations
+  iconographiques et photographiques ». L'office de tourisme d'Albi (`albi-tourisme.fr`) et la Chambre d'agriculture du Tarn
+  répondent 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) : non consultés.
+- **L'office Vallée du Tarn & Monts de l'Albigeois** (`valleedutarn-tourisme.com`), dont le territoire jouxte Albi, diffuse les
+  fiches des marchés albigeois ; son `robots.txt` n'exclut personne, il répond 200 aux deux agents, et ses mentions subordonnent la
+  reprise à l'indication de la source sans nommer d'image (règles 239 et 245) ; ses images sont servies par
+  `static.apidae-tourisme.com`, réseau neutre (règle 238). C'est la règle 145 : quand l'éditeur d'Albi se ferme, on lit l'autorité
+  qui diffuse les mêmes fiches sans l'interdire. Les faits viennent tous de la Ville (page « Marchés albigeois » du 14 octobre
+  2025 et fiches d'équipement), l'office n'apporte que les images.
+
+  1. **Marché couvert** (1,0 km du centre) : du mardi au dimanche de 7h à 14h, Ville et association concordantes ; l'office
+     écrit 15h le week-end, variante citée dans la fiche (règles 5 et 176). Photo : l'étal d'agrumes de la halle, recadré sous
+     les passants (1 280 × 376). Site de l'association ouvert et vérifié.
+  2. **Marché de la place de la Pile** (0,9 km) : samedi de 7h à 13h, au pourtour de la halle ; point propre à la Base Adresse
+     Nationale (lieu-dit « Place de la Pile », 0,96), à 120 m du point de la halle, donc deux fiches (règle 42).
+     Photo : la halle et la place, recadrées au-dessus de toutes les têtes (1 280 × 514).
+  3. **Marché de producteurs du Castelviel** (0,4 km) : jeudi de 16h à 20h selon la Ville ; l'office écrit 16h-20h dans son texte
+     et 16h-19h dans ses horaires, contradiction consignée, la Ville fait foi (règles 5 et 176). Photo : un étal de légumes, sans
+     personne (1 280 px).
+  4. **Marchés de la place Fernand Pelloutier** et 5. **Marché de la Madeleine** : voir « Marchands à confirmer ».
+
+  Point à la Base Adresse Nationale (0,96 à 0,97) pour la Pile et le Castelviel, à 21 et 5 m des marqueurs de la Ville ; pour
+  la halle, la Base ne connaît que la rue Émile-Grand, dont le centre tombe à 99 m du bâtiment : le point est celui que la Ville
+  publie sur la fiche d'équipement du marché couvert (règle 63). Métadonnées
+  retirées de toutes les images (règle 235). Pas de téléphone : la Ville ne publie que ceux de son service commerce.
+
+**Pistes non publiées à Albi et dans le Grand Albigeois.**
+
+- **Marché de la place Marie-Curie à Saint-Juéry** (jeudi matin et marché biologique du lundi après-midi, une seule fiche par la
+  règle 42) : la commune publie jours et lieu sans heures, l'office donne 7h-13h et 16h-19h ; photographie de l'office recadrable
+  sur les parasols. À 5,6 km du barycentre des quatre fiches albigeoises entières, au-delà des 5 km de la règle 52 (règle 262) ;
+  il n'a pas été nécessaire. **Déblocage** : une passe de rattrapage sur le Grand Albigeois (règle 11).
+- **Magasin Biocoop de la rue du Puech-Petit** : faits complets sur son site (du lundi au samedi de 9h à 19h), mais ses CGU
+  rangent « les photographies, les images » parmi ce qu'elles interdisent (règle 245). **Déblocage** : une photographie thématique
+  d'Albi encore libre.
+- **Magasin So.bio de la rue du Roc** : horaires sur le site de l'enseigne, dont les mentions ne nomment pas les images, mais les
+  fichiers sont servis par un stockage objet dont le `robots.txt` répond 403 (règle 256). Mêmes images, même déblocage.
+- **Magasin de producteurs de l'avenue Charles-de-Gaulle** : aucun site propre, seulement des annuaires (règle 192).
+- **Écartés** : une épicerie en vrac dont le domaine sert un casino en ligne (piège de la note Santa Lucia) ; un magasin de
+  produits locaux dont le domaine ne se résout plus.
 
 ### Passe de Bergerac (Dordogne) — cinq fiches publiées, pistes en Eure-et-Loir et à Périgueux
 

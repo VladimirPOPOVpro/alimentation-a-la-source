@@ -19002,5 +19002,144 @@
     "site_web": "https://chateaularenaudie.fr/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20La%20Renaudie%2C%2065%20chemin%20de%20la%20Renaudie%2C%2024100%20Lembras",
     "image_url": "/images/marchands/chateau-la-renaudie-lembras.jpg"
+  },
+  {
+    "slug": "marche-couvert-albi",
+    "nom": "Marché couvert d'Albi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.92909,
+    "lon": 2.14485,
+    "adresse": "Rue Émile Grand, 81000 Albi",
+    "horaires": "Du mardi au dimanche de 7h à 14h, jours fériés compris (Ville d'Albi et association du marché couvert). L'office de tourisme Vallée du Tarn annonce une fermeture à 15h le week-end, que ni la Ville ni l'association ne reprennent.",
+    "produits": [
+      "Fruits et légumes de maraîchers et primeurs",
+      "Poissons",
+      "Charcuteries",
+      "Fromages",
+      "Pâtisseries artisanales",
+      "Plats de traiteurs",
+      "Vins"
+    ],
+    "description": "Halle de type pavillon Baltard inaugurée au début du XXe siècle, à deux pas de la cathédrale Sainte-Cécile, où une vingtaine de boutiques ouvrent leurs loges six jours sur sept : maraîchers, poissonniers, fromagers, charcutier, pâtissiers et traiteurs, avec des points de restauration sous la halle. Photo : Office de Tourisme Vallée du Tarn & Monts de l'Albigeois (valleedutarn-tourisme.com), étal de la halle, recadrée, droits réservés.",
+    "site_web": "https://marchecouvert-albi.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20couvert%2C%20rue%20%C3%89mile%20Grand%2C%2081000%20Albi",
+    "image_url": "/images/marchands/marche-couvert-albi.jpg"
+  },
+  {
+    "slug": "marche-place-de-la-pile-albi",
+    "nom": "Marché de la place de la Pile",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.928314,
+    "lon": 2.143747,
+    "adresse": "Place de la Pile, 81000 Albi",
+    "horaires": "Samedi de 7h à 13h (Ville d'Albi).",
+    "produits": [
+      "Fruits et légumes",
+      "Pains",
+      "Viandes",
+      "Poissons",
+      "Fromages",
+      "Miels",
+      "Épices",
+      "Vins"
+    ],
+    "description": "Marché de plein vent du samedi matin qui s'installe au pourtour du marché couvert, en plein centre historique d'Albi, avec une gamme alimentaire très large selon la Ville : pains, fruits et légumes, viandes, poissons, fromages, miels, épices et vins. Photo : Office de Tourisme Vallée du Tarn & Monts de l'Albigeois (valleedutarn-tourisme.com), la halle et la place, recadrée au-dessus des passants, droits réservés.",
+    "site_web": "https://albi.fr/commerces-et-marches/marches-albigeois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Pile%2C%2081000%20Albi",
+    "image_url": "/images/marchands/marche-place-de-la-pile-albi.jpg"
+  },
+  {
+    "slug": "marche-producteurs-castelviel-albi",
+    "nom": "Marché de producteurs du Castelviel",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.926581,
+    "lon": 2.13627,
+    "adresse": "Halle du Castelviel, Place du Foirail du Castelviel, 81000 Albi",
+    "horaires": "Jeudi de 16h à 20h, sous la halle du foirail du Castelviel (Ville d'Albi ; l'office de tourisme Vallée du Tarn écrit 16h-20h dans son texte et 16h-19h dans ses horaires, c'est la Ville qui fait foi).",
+    "produits": [
+      "Légumes de saison",
+      "Viandes de porc, d'agneau et volailles",
+      "Fromages de vache et de chèvre",
+      "Pain",
+      "Miel",
+      "Vins",
+      "Safran"
+    ],
+    "description": "Marché réservé aux producteurs installés à moins de 60 km d'Albi, organisé par la Ville avec la Chambre d'agriculture du Tarn dans le cadre de son Plan alimentaire territorial, sous la halle du foirail à quelques pas de la cathédrale. Photo : Office de Tourisme Vallée du Tarn & Monts de l'Albigeois (valleedutarn-tourisme.com), droits réservés.",
+    "site_web": "https://albi.fr/commerces-et-marches/marches-albigeois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20du%20Castelviel%2C%20place%20du%20Foirail%20du%20Castelviel%2C%2081000%20Albi",
+    "image_url": "/images/marchands/marche-producteurs-castelviel-albi.jpg"
+  },
+  {
+    "slug": "marche-place-fernand-pelloutier-albi",
+    "nom": "Marchés de la place Fernand Pelloutier",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.925662,
+    "lon": 2.152668,
+    "adresse": "Place Fernand Pelloutier, 81000 Albi",
+    "horaires": "Samedi de 7h à 13h (marché de plein vent) et mardi de 16h à 20h (marché biologique), selon la Ville d'Albi ; l'office de tourisme Vallée du Tarn donne le même créneau pour le marché du mardi.",
+    "produits": [
+      "Légumes de maraîchers locaux",
+      "Pains",
+      "Fromages et yaourts",
+      "Biscuits et tartes salées",
+      "Fraises et melons en saison",
+      "Plants de producteurs",
+      "Viandes et poissons le samedi"
+    ],
+    "description": "Deux marchés sur la même place, à une dizaine de minutes à pied du centre historique : un marché alimentaire complet le samedi matin et, le mardi en fin de journée, une dizaine de commerçants de produits issus de l'agriculture biologique, dont des maraîchers locaux. Photo d'illustration : une rue du centre d'Albi un jour de marché, publiée par l'Office de Tourisme Vallée du Tarn & Monts de l'Albigeois (valleedutarn-tourisme.com), recadrée, droits réservés ; elle ne montre pas la place Pelloutier.",
+    "site_web": "https://albi.fr/commerces-et-marches/marches-albigeois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Fernand%20Pelloutier%2C%2081000%20Albi",
+    "image_url": "/images/marchands/marche-place-fernand-pelloutier-albi.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-madeleine-albi",
+    "nom": "Marché de la Madeleine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.934265,
+    "lon": 2.146462,
+    "adresse": "Boulevard de Strasbourg, 81000 Albi",
+    "horaires": "Samedi de 7h à 13h (Ville d'Albi).",
+    "produits": [
+      "Fruits et légumes",
+      "Pains",
+      "Viandes",
+      "Poissons",
+      "Fromages",
+      "Miels",
+      "Vins"
+    ],
+    "description": "Marché de plein vent du samedi matin dans le quartier de la Madeleine, sur la rive droite du Tarn, boulevard de Strasbourg, avec une gamme alimentaire complète selon la Ville. Photo d'illustration : le Pont-Vieux et la cathédrale vus depuis la rive droite, publiée par l'Office de Tourisme Vallée du Tarn & Monts de l'Albigeois (valleedutarn-tourisme.com), droits réservés ; elle ne montre pas le marché.",
+    "site_web": "https://albi.fr/commerces-et-marches/marches-albigeois",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulevard%20de%20Strasbourg%2C%2081000%20Albi",
+    "image_url": "/images/marchands/marche-de-la-madeleine-albi.jpg",
+    "a_confirmer": true
   }
 ]
