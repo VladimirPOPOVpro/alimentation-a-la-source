@@ -19800,5 +19800,140 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Arts+rue+du+Tamarin+49450+S%C3%A8vremoine",
     "image_url": "/images/marchands/amap-des-2-etangs-sevremoine.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "saveurs-fermieres-ceramique-limoges",
+    "nom": "Saveurs Fermières — Mas Loubier",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.845716,
+    "lon": 1.257635,
+    "adresse": "10 rue de la Céramique, 87100 Limoges",
+    "horaires": "Du mardi au jeudi de 9h à 13h et de 15h à 19h, le vendredi de 9h à 19h, le samedi de 8h30 à 12h30 ; fermé le dimanche et le lundi (site du magasin).",
+    "produits": [
+      "Viande limousine (bœuf, veau, agneau, porc)",
+      "Charcuteries",
+      "Fromages et produits laitiers",
+      "Fruits et légumes de saison",
+      "Miels et confitures",
+      "Conserves et épicerie fermière"
+    ],
+    "description": "Premier des deux magasins d'une coopérative de paysans, ouvert en 2003 dans le quartier du Mas Loubier, près du parc Victor-Thuillat : les adhérents y vendent eux-mêmes les produits de leurs fermes, pour la plupart limousines, avec un rayon boucherie traditionnel ; « ici pas d'achat-revente », écrit la coopérative. Photo : Destination Limoges (destination-limoges.com), droits réservés ; l'office ne précise pas lequel des deux magasins elle montre.",
+    "telephone": "05 55 79 88 51",
+    "site_web": "https://www.saveurs-fermieres.fr/magasins-saveurs-fermieres/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Saveurs+Fermi%C3%A8res+10+rue+de+la+C%C3%A9ramique+87100+Limoges",
+    "image_url": "/images/marchands/saveurs-fermieres-ceramique-limoges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "saveurs-fermieres-mauvendiere-limoges",
+    "nom": "Saveurs Fermières — La Mauvendière",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.833167,
+    "lon": 1.248637,
+    "adresse": "38 rue de la Mauvendière, 87000 Limoges",
+    "horaires": "Du mardi au jeudi de 9h à 13h et de 15h à 19h, le vendredi de 9h à 19h, le samedi de 8h30 à 12h30 ; fermé le dimanche et le lundi (site du magasin).",
+    "produits": [
+      "Viande limousine (bœuf, veau, agneau, porc)",
+      "Charcuteries",
+      "Fromages et produits laitiers",
+      "Fruits et légumes de saison",
+      "Miels et confitures",
+      "Coffrets et épicerie fermière"
+    ],
+    "description": "Second magasin de la même coopérative de paysans, ouvert en 2010 dans le quartier de la Mauvendière, non loin de la place Winston-Churchill : produits des fermes adhérentes et de quelques artisans choisis, vendus par les producteurs et une équipe salariée. Photo thématique : les bords de Vienne à Limoges, Destination Limoges (destination-limoges.com), droits réservés ; elle ne montre pas le magasin.",
+    "telephone": "05 55 55 88 63",
+    "site_web": "https://www.saveurs-fermieres.fr/magasins-saveurs-fermieres/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Saveurs+Fermi%C3%A8res+38+rue+de+la+Mauvendi%C3%A8re+87000+Limoges",
+    "image_url": "/images/marchands/saveurs-fermieres-mauvendiere-limoges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "atelier-les-fayes-limoges",
+    "nom": "L'Atelier Les Fayes — Maison du Fromage Blanc",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.891311,
+    "lon": 1.297572,
+    "adresse": "147 avenue Raymond Poulidor, 87280 Limoges",
+    "horaires": "Mardi, mercredi et vendredi de 10h à 12h et de 14h à 18h30 ; jeudi de 10h à 12h ; samedi de 10h à 12h et de 14h à 18h ; fermé le dimanche et le lundi (site de la boutique, mis à jour en mars 2026, et Destination Limoges).",
+    "produits": [
+      "Fromages blancs de la laiterie",
+      "Yaourts et produits frais",
+      "Produits de la coopérative laitière",
+      "Épicerie de producteurs et d'artisans limousins",
+      "Boissons régionales"
+    ],
+    "description": "Boutique ouverte au pied de la Laiterie Les Fayes, au nord de Limoges : toute la gamme de fromages blancs de la maison, les produits de la coopérative laitière à laquelle elle appartient et une sélection de producteurs et d'artisans du Limousin ; c'est aussi le point de départ des visites de la laiterie. Photo : Destination Limoges (destination-limoges.com), photographie de L'Atelier Les Fayes, droits réservés.",
+    "telephone": "05 55 79 00 49",
+    "site_web": "https://www.latelier-les-fayes.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Atelier+Les+Fayes+147+avenue+Raymond+Poulidor+87280+Limoges",
+    "image_url": "/images/marchands/atelier-les-fayes-limoges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-coin-limoges",
+    "nom": "La Ferme du Coin",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.820141,
+    "lon": 1.240459,
+    "adresse": "23 avenue de Naugeat, 87000 Limoges",
+    "horaires": "Du mardi au jeudi de 9h à 12h30 et de 14h30 à 19h, le vendredi de 9h à 19h, le samedi de 8h30 à 12h30 ; fermé le dimanche et le lundi (carte des circuits courts de Que Choisir Ensemble ; le magasin ne publie pas de site).",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Produits laitiers",
+      "Pains",
+      "Épicerie",
+      "Boissons"
+    ],
+    "description": "Magasin de producteurs du sud-ouest de Limoges, recensé par la carte des circuits courts de Que Choisir Ensemble ; un domaine viticole de Verneuil-sur-Vienne le cite parmi ses points de vente limougeauds. Photo thématique : les bords de Vienne à Limoges, Destination Limoges (destination-limoges.com), droits réservés ; elle ne montre pas le magasin.",
+    "telephone": "05 44 23 94 46",
+    "site_web": "https://www.quechoisir.org/carte-interactive-circuit-court-n97688/magasin-ccm1446/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+du+Coin+23+avenue+de+Naugeat+87000+Limoges",
+    "image_url": "/images/marchands/ferme-du-coin-limoges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-petite-ferme-le-vigen",
+    "nom": "La Petite Ferme",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.779313,
+    "lon": 1.312563,
+    "adresse": "10 rue de la Tour, Le Bas Fauré, 87110 Le Vigen",
+    "horaires": "Du mardi au jeudi de 9h30 à 18h30, le vendredi de 9h30 à 19h, le samedi de 9h à 18h (site du magasin).",
+    "produits": [
+      "Fruits et légumes de saison, bio ou en agriculture raisonnée",
+      "Viande de bœuf et de veau bio, agneau",
+      "Porc et charcuterie bio",
+      "Volailles et canard gras",
+      "Produits laitiers de vache, de chèvre et de brebis",
+      "Pain bio, miel, confitures",
+      "Vins, bières, jus de fruits et cidre"
+    ],
+    "description": "Magasin coopératif ouvert en octobre 1993, premier magasin de producteurs en vente directe de la Haute-Vienne : une vingtaine d'agriculteurs de Haute-Vienne, de Corrèze et de Dordogne, dont la charte limite l'origine des produits à quatre départements. Il est dans la zone commerciale de Boisseuil – Le Vigen, au pied de la tour, à 11 km du centre de Limoges. Photo thématique : le lac d'Uzurat à Limoges, Destination Limoges (destination-limoges.com), droits réservés ; elle ne montre pas le magasin.",
+    "telephone": "05 55 30 29 33",
+    "site_web": "https://lapetiteferme.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Petite+Ferme+Le+Bas+Faur%C3%A9+87110+Le+Vigen",
+    "image_url": "/images/marchands/la-petite-ferme-le-vigen.jpg",
+    "a_confirmer": true
   }
 ]

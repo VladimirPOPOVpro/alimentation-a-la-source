@@ -3523,9 +3523,33 @@ prioritaires en cas de conflit.
      un rayon maximum de 100 km du magasin de Saint-Macaire-en-Mauges ». Ce n'est pas la liste commune d'un réseau (règle 273) :
      elle dit ce que ce magasin-là vend. Les noms de la carte ne sont pas repris, certains sont formés d'un patronyme.
 
+277. **Quand la Ville de la commune calculée refuse tout agent automatique, la photographie thématique des règles 228, 234 et
+     272 vient de l'office de tourisme qui fiche ses équipements publics.** Le site de la Ville de Limoges répond 403 à toute
+     requête, `robots.txt` compris, qu'elle vienne d'un agent quelconque ou de l'agent nommé : c'est la règle 237, non la règle
+     257. Ses marchés et ses halles, que seul l'office décrit, attendent donc (règle 196). Mais la règle 272 cherche la photographie
+     thématique d'une fiche entière chez « l'autorité de la commune calculée », et cette autorité est muette. **Tranché ainsi** :
+     l'office de tourisme intercommunal qui fiche les parcs, les jardins et les rives de la commune calculée en tient lieu, à
+     condition que sa clause se lise et permette la reprise (ici Destination Limoges, règle 239 : reproduction électronique
+     autorisée en citant la source avec « Droits réservés », l'exclusion de l'iconographie ne visant que le papier) ; mêmes
+     conditions que la règle 272 — équipement public non marchand, un fichier par fiche, aucun visage, crédit à l'office et jamais
+     au photographe (règle 268), description qui dit que l'image ne montre pas le lieu, `a_confirmer`. Une photographie que
+     l'office crédite à la Ville elle-même n'est pas retenue : la clause de la Ville ne se lit pas (règle 256).
+
+278. **Un code « Plus Code » que le commerce publie sur son propre site est un marqueur du commerce au sens de la règle 63.**
+     La Petite Ferme, au Vigen, écrit « GPS : Q8H7+P2 Le Vigen » sur sa page d'accueil ; la Base Adresse Nationale ne connaît que
+     l'axe de la rue de la Tour, et le registre des entreprises place l'établissement à Feytiat, à 430 m. **Critère** : le code
+     court se complète avec la zone de la commune qu'il nomme, se décode au centre de sa maille (environ 14 × 10 m), et se
+     contrôle comme tout marqueur (règle 67) : son retournement doit tomber sur la voie de l'adresse publiée. Ici, le 14 rue de la
+     Tour, à 26 m ; le point du registre, dans une autre commune, est écarté.
+
 ## Marchands à confirmer
 
-670 fiches sur 744 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+675 fiches sur 749 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Saveurs Fermières — Mas Loubier** (Limoges) (catégorie `producteur`, règle 105 : magasin permanent d'une coopérative de producteurs. **Registre, règle 6** : la société coopérative agricole Saveurs Fermières, active, deux établissements ouverts, au 10 rue de la Céramique (siège) et au 38 rue de la Mauvendière. Pas d'`environnement` : aucun certificat de la coopérative au registre de l'Agence Bio. **Règle 86** : la coopérative vend la production de ses fermes adhérentes et écrit ne pas faire d'achat-revente ; sa carte de producteurs lui est propre (règle 276), les noms n'en sont pas repris. **Horaires et téléphone** : pages « Nos magasins » et « Horaires » du site, identiques ; la fiche de Destination Limoges (article du 25 juin 2026, modifié le 2 juillet) donne les mêmes adresses et numéros. **Point** : 10 rue de la Céramique à la Base Adresse Nationale (0,970, type « numéro »), à 25 m du point du registre. **Photo, règles 230, 239 et 268** : les mentions légales du site nomment les photographies et en interdisent la reprise ; retenue : des bouteilles d'huile de tournesol devant l'enseigne du magasin, publiée par l'office dans son article (1 600 × 2 133, ramenée à 1 280), sans personne ; l'office crédite la coopérative et une photographe, la fiche ne cite que l'office. Deux autres images de l'article sont écartées : des portraits de producteurs, et une tartine dont l'étiquette de fromage porte le nom de personnes.)
+- **Saveurs Fermières — La Mauvendière** (Limoges) (même coopérative, second magasin, fiche à part comme les magasins d'un même réseau à Sèvremoine et Cholet. **Registre** : établissement ouvert au 38 rue de la Mauvendière. **Horaires et téléphone** : site du magasin. **Point** : 38 rue de la Mauvendière à la Base Adresse Nationale (0,800, type « numéro »), confondu avec le point du registre ; la BAN donne le code postal 87000, le site 87100 : c'est la BAN qui est reprise. **Photo, règles 272 et 277** : aucune autre image permise ; retenue : les bords de Vienne et le pont Saint-Étienne, publiée par Destination Limoges sur sa fiche « Bords de Vienne » (1 600 px, ramenée à 1 280), sans personne.)
+- **L'Atelier Les Fayes — Maison du Fromage Blanc** (Limoges) (catégorie `producteur`, règle 73 : la laiterie transforme et vend elle-même, sur son site de production. **Registre, règle 6** : la société Laiterie Les Fayes, active, au 147 avenue Raymond-Poulidor ; son ancien établissement d'Isle est fermé. Pas d'`environnement`, règle 39 : un certificat Certipaq est engagé au registre de l'Agence Bio, mais la boutique vend une gamme dont rien ne dit quelle part est biologique. **Horaires** : page « Infos pratiques » du site (modifiée le 24 mars 2026) et fiche de Destination Limoges (horaires 2026), identiques. **Téléphone** : celui que le site donne pour la boutique. **Point** : 147 avenue Raymond-Poulidor à la Base Adresse Nationale (0,964, type « numéro »), à 10 m du point du registre. **Photo, règles 230 et 239** : les mentions légales du site nomment les images ; retenue : la façade de la boutique (1 023 × 682), sans personne, publiée par l'office sur sa fiche et créditée par lui à L'Atelier Les Fayes. Le prénom d'une vendeuse que cite le site n'est pas repris.)
+- **La Ferme du Coin** (Limoges) (catégorie `producteur`, règle 105. **Registre, règle 6** : la SARL La Ferme du Coin, active, enseigne à l'adresse. **Source indépendante** : la carte des circuits courts de Que Choisir Ensemble, établie avec l'INRAE (horaires jour par jour, téléphone fixe, rayons) ; le site du Domaine des Gabies la cite parmi ses points de vente. Le magasin ne publie qu'une page de réseau social, non consultée. **Produits** : les rayons que la carte déclare, sans détail qu'aucune source ne donne. **Point** : 23 avenue de Naugeat à la Base Adresse Nationale (0,977, type « numéro »), confondu avec le point du registre. **Photo, règles 272 et 277** : aucune image permise du magasin ; retenue : les bords de Vienne, publiée par Destination Limoges sur la même fiche que celle de la Mauvendière, fichier différent (1 600 px, ramenée à 1 280), sans personne.)
+- **La Petite Ferme** (Le Vigen) (catégorie `producteur`, règle 105 : magasin coopératif permanent. **Élargissement, règles 96 et 127** : Le Vigen est dans la communauté urbaine Limoges Métropole, à 10,9 km du centre de Limoges que donne `geo.api.gouv.fr` ; quatre fiches sont dans la commune. **Registre, règle 6** : la société Les Fermiers près de chez vous, active, au Bas Fauré. Pas d'`environnement` : le magasin vend du bio et du raisonné, règle 60. **Horaires et téléphone** : page « Contact » du site. **Point, règles 63 et 278** : la Base Adresse Nationale ne connaît que l'axe de la rue de la Tour (le « 10 » vient de la carte de Que Choisir Ensemble) ; le site publie un code « Plus Code » (Q8H7+P2 Le Vigen) dont le point se retourne au 14 rue de la Tour à 26 m ; il est retenu. Le point du registre des entreprises tombe à Feytiat, allée du Vigen, à 430 m : écarté. **Photo, règles 245, 272 et 277** : les mentions légales du site interdisent la reproduction des « images » ; retenue : le lac d'Uzurat à Limoges, publiée par Destination Limoges (1 024 × 683), sans personne ; la description dit qu'elle ne montre pas le magasin.)
 - **La Ferme de Chez Nous — Saint-Macaire-en-Mauges** (Sèvremoine) (catégorie `producteur`, règle 105 : magasin permanent de cinq fermes associées. **Registre, règle 6** : la société qui exploite le magasin, active, enseigne « La Ferme de Chez Nous » à Saint-Macaire-en-Mauges. Pas d'`environnement` : aucun certificat au registre de l'Agence Bio. **Règle 86**, par la règle 276 : carte propre au magasin, 59 producteurs à moins de 100 km. **Horaires et téléphone** : site du magasin. **Point** : 33 rue Denis-Papin à la Base Adresse Nationale (0,63, type « numéro »). **Photo** : un panier de légumes du bandeau d'accueil (1 000 px), sans personne ; les mentions légales réservent le contenu sans nommer les images (règle 246).)
 - **Les Vergers du Pontonnet** (Sèvremoine) (catégorie `ferme`, règle 29 : production de pommes et de poires, et revente d'autres produits, que la description dit. **Registre, règle 6** : SARL du Pontonnet, active, au lieu-dit. **Pilier `environnement`, règle 210** : certificat engagé, productions déclarées (pommes de table, légumes, commerce de détail de fruits et légumes), mixité déclarée, dite dans la description. **Horaires et téléphone** : page « Le magasin » du site, téléphone confirmé par l'Agence Bio. **Lien, règle 274** : pas de `site_web`. **Point** : le lieu-dit Le Pontonnet à la Base Adresse Nationale (type « voie »). **Photo** : l'intérieur du magasin (1 800 px, ramené à 1 280), sans personne.)
 - **Les Vergers de la Chenillère** (Sèvremoine) (catégorie `ferme`. **Registre, règle 6** : la société, active, à la Croix de la Chenillère. **Pilier `environnement`, règle 210** : certificat Ecocert engagé depuis 2009 (pommes de table, autres fruits à pépins, jus), mixité déclarée ; le site écrit « une partie de nos pommes » en bio, la description le dit. **Horaires** : site de l'exploitation et fiche d'Ôsez Mauges, identiques. **Lien, règle 274** : `site_web` est la fiche de l'office. **Point** : 3 La Chenillère (Saint-Macaire-en-Mauges) à la Base Adresse Nationale ; la même adresse existe à Saint-Germain-sur-Moine, écartée. **Photo, règles 239, 268 et 275** : une allée du verger en fleurs publiée par Ôsez Mauges (1 024 px), créditée par l'office à l'exploitation.)
@@ -10580,6 +10604,54 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Limoges (Haute-Vienne) — cinq fiches publiées, commune calculée
+
+Passe du 23 septembre 2026, après celle de Sèvremoine. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel.
+**Classement, règle 41**, sur 744 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) : Landes 4,6782 et
+Eure-et-Loir 4,6734 (épuisés, règle 265), **Haute-Vienne (87) 4,0265**, Isère 4,0161, Oise 3,9546. La passe précédente visait les
+Pays de la Loire : la Nouvelle-Aquitaine est ouverte (règle 41.c). La Haute-Vienne n'avait jamais été visée. `origin/main` n'avait
+pas bougé au moment de publier (règle 241). **Après la passe**, sur 749 fiches : Landes 4,7096 et Eure-et-Loir 4,7049 (épuisés),
+Isère 4,1103, Oise 4,0148, Val-d'Oise 3,9219 ; Haute-Vienne −0,9465. La passe suivante ne peut pas viser la Nouvelle-Aquitaine.
+
+**Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte. Le site de la Ville de Capbreton n'ouvre aucune
+connexion (`capbreton.fr` et `www.capbreton.fr`, aux deux agents, règle 237) : le groupe de Labenne reste à quatre points.
+
+**Limoges** (129 937, commune calculée) : **cinq fiches**, quatre dans la commune et une dans Limoges Métropole.
+
+- Contrôle en deux requêtes (règle 257) : le site de la Ville (`limoges.fr`) répond 403 à tout agent, `robots.txt` compris
+  (règle 237) ; l'agence régionale (`visitlimousin.com`) répond 403 à l'agent nommé et 200 aux autres, exclusion, non lue ;
+  l'office Destination Limoges (`destination-limoges.com`) n'exclut personne et permet la reprise électronique en citant la source
+  (règle 239) ; son hébergeur d'images (`cdn.iris-etourism.io`) n'a pas de `robots.txt` (404, aucune exclusion).
+- **Deux fiches entières dans la commune (règle 127)** : le magasin Saveurs Fermières de la rue de la Céramique et L'Atelier Les
+  Fayes, chacun avec une photographie que l'office publie pour lui. **Deux autres dans la commune** : le second magasin Saveurs
+  Fermières (la Mauvendière) et La Ferme du Coin, faits entiers, photographie thématique de l'office (règle 277, nouvelle).
+  **Cinquième** : La Petite Ferme, au Vigen, 10,9 km (règle 96), point fixé par la règle 278 (nouvelle). Toutes les fiches sont
+  `a_confirmer` ; le détail des sources est dans « Marchands à confirmer ».
+- **Règle 167** : les cinq fiches sont des magasins de producteurs ou de transformateur (`producteur`) ; aucun marché ni AMAP
+  n'était publiable (voir les pistes), et les deux magasins Biocoop sont bloqués par la règle 273.
+
+### Pistes non publiées à Limoges
+
+Passe du 23 septembre 2026 (Haute-Vienne). Limoges est éprouvée ; la passe qui reviendra dans le 87 reprend les pistes nommées ici,
+puis la descente à **Saint-Junien** (11 415 habitants), deuxième commune sans fiche.
+
+- **Marchés et halles de Limoges** (Halles centrales, Halles Carnot, marchés de la place Marceau et de la place de la Motte) :
+  décrits par l'office seul ; la Ville ne répond à aucun agent (règles 196 et 237). **Déblocage** : le retour du site de la Ville,
+  ou la publication des jours et heures par une autre autorité (la communauté urbaine ne publie pas les marchés).
+- **Magasins Biocoop L'Aubre et Au Grand Épeautre** : certificats Ecocert engagés ; la page « Paysans associés » de L'Aubre est la
+  liste du réseau (règle 273). **Déblocage** : une liste de fournisseurs locaux publiée par le magasin.
+- **AMAP de Landouge** (distribution le jeudi, parking d'une bibliothèque) : aucune source datée de moins de douze mois (règle 195),
+  la page de la plateforme de commande n'a pas de vente en cours ; ses pages de réseaux sociaux ne sont pas lues.
+- **AMAP du centre de Limoges créée en 2005** : le site que donne l'annuaire du réseau ne répond plus (règles 195 et 237).
+- **Magasin de producteurs de Couzeix** (route de Poitiers) : la fiche de la commune ne porte que le nom et une adresse électronique
+  sans rapport ; horaires connus seulement par des annuaires tiers. **Déblocage** : une source datée ou un site du magasin.
+- **Feytiat, maraîchage** : exploitant individuel non diffusible, adresse de contact qui peut être un domicile, seuls numéros
+  mobiles ; écarté au titre de la règle des personnes, ne se rouvre pas.
+- **Verneuil-sur-Vienne, domaine viticole** : vente au domaine sur rendez-vous seulement (règle 192) ; le seul numéro est un mobile.
+- **Saint-Just-le-Martel, magasin d'une exploitation** : site fermé à l'agent nommé (règle 257).
+- **Magasin de Rayons Verts** (rue Clouet, certificat Bureau Veritas) : le domaine `rayonsverts.fr` est celui d'une autre activité
+  (panneaux solaires) ; aucun site du magasin trouvé.
 
 ### Passe de Sèvremoine (Maine-et-Loire) — cinq fiches publiées dans la commune, troisième de la descente
 
