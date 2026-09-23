@@ -19263,5 +19263,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20de%20Chamonix%20Mottet%2C%2074300%20Magland",
     "image_url": "/images/marchands/ferme-de-chamonix-mottet-magland.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-gravilliers-athis-mons",
+    "nom": "Marché des Gravilliers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.701003,
+    "lon": 2.37165,
+    "adresse": "33 avenue François Mitterrand, 91200 Athis-Mons",
+    "horaires": "Le dimanche de 8h à 13h (page « Les marchés » de la Ville, mise à jour le 7 septembre 2026, et fiche du marché).",
+    "produits": [
+      "Boucherie",
+      "Fromages",
+      "Fruits et légumes",
+      "Pain",
+      "Rôtisserie",
+      "Plats de traiteurs antillais et d'Afrique de l'Ouest",
+      "Fleurs"
+    ],
+    "description": "Marché couvert du quartier du Plateau, au bord de la RN7, tenu sous une verrière avec un coin buvette et un espace pour s'attabler. La Ville y annonce un boucher, un fromager, un primeur, un boulanger, un rôtisseur, deux traiteurs et un fleuriste, ainsi qu'un stand de vêtements. Photo : Ville d'Athis-Mons (mairie-athis-mons.fr), mise en ligne le 5 juillet 2024, recadrée sur la vitrine du fromager.",
+    "site_web": "https://www.mairie-athis-mons.fr/annuaire/marche-des-gravilliers/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33+avenue+Fran%C3%A7ois+Mitterrand+91200+Athis-Mons",
+    "image_url": "/images/marchands/marche-des-gravilliers-athis-mons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "petit-marche-du-centre-ville-athis-mons",
+    "nom": "Petit marché du centre-ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.707635,
+    "lon": 2.389229,
+    "adresse": "Place du Général de Gaulle (devant la mairie), 91200 Athis-Mons",
+    "horaires": "Le vendredi de 15h30 à 20h (page « Les marchés » de la Ville, mise à jour le 7 septembre 2026, et fiche du marché).",
+    "produits": [
+      "Fromages",
+      "Fruits et légumes",
+      "Poissons et fruits de mer",
+      "Rôtisserie",
+      "Cuisine cambodgienne à emporter"
+    ],
+    "description": "Marché de fin de journée, le vendredi, sur la place pavée devant l'hôtel de ville. La Ville y liste un camion de fromager, un primeur, un poissonnier, un rôtisseur et des camions de cuisine à emporter, avec un stand de créations artisanales ; le parking situé derrière la mairie est ouvert au public le vendredi à partir de 17h. Photo : Ville d'Athis-Mons (mairie-athis-mons.fr), mise en ligne le 21 mars 2025, recadrée.",
+    "site_web": "https://www.mairie-athis-mons.fr/annuaire/petit-marche-du-ventre-ville/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+G%C3%A9n%C3%A9ral+de+Gaulle+91200+Athis-Mons",
+    "image_url": "/images/marchands/petit-marche-du-centre-ville-athis-mons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "petit-marche-du-val-athis-mons",
+    "nom": "Petit marché du Val",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.698613,
+    "lon": 2.385282,
+    "adresse": "Place Jean Jaurès, 91200 Athis-Mons",
+    "horaires": "Le jeudi de 16h à 20h (page « Les marchés » de la Ville, mise à jour le 7 septembre 2026, et fiche du marché publiée le même jour).",
+    "produits": [
+      "Fruits et légumes",
+      "Rôtisserie"
+    ],
+    "description": "Petit marché de fin d'après-midi du quartier du Val, sur la place Jean-Jaurès, que la Ville a ajouté à sa liste en septembre 2026. Elle n'y annonce que deux commerçants, un primeur et un rôtisseur ; l'étal photographié par la Ville porte des fruits d'importation, et rien ne dit qu'on y trouve des producteurs. Photo : Ville d'Athis-Mons (mairie-athis-mons.fr), mise en ligne le 10 septembre 2026, recadrée sur l'étal.",
+    "site_web": "https://www.mairie-athis-mons.fr/annuaire/petit-marche-du-val/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Jean+Jaur%C3%A8s+91200+Athis-Mons",
+    "image_url": "/images/marchands/petit-marche-du-val-athis-mons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-festival-des-legumes-athis-mons",
+    "nom": "AMAP Festi'Val des légumes",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.713283,
+    "lon": 2.385207,
+    "adresse": "Local de l'ARCA, 9 rue Émile Lécrivain, 91200 Athis-Mons",
+    "horaires": "Distribution le jeudi de 19h à 20h (fiche de l'association sur le site de la Ville, mise à jour le 29 juillet 2026, et site de l'AMAP). Paniers réservés aux adhérents sous contrat ; on peut venir se renseigner pendant la distribution.",
+    "produits": [
+      "Paniers de légumes biologiques",
+      "Poulets",
+      "Œufs",
+      "Farine",
+      "Pommes et poires",
+      "Cidre",
+      "Miel"
+    ],
+    "description": "AMAP affiliée au réseau des AMAP d'Île-de-France, dont les paniers de légumes viennent d'une maraîchère de Périgny-sur-Yerres, à une vingtaine de kilomètres ; la Ville cite aussi des contrats de poulets, œufs, farine, cidre, fruits et miel. L'association présente ses légumes comme biologiques ; le certificat du fournisseur n'a pas été vérifié au registre. Photo : jardin partagé Jules-Vallès, Ville d'Athis-Mons (mairie-athis-mons.fr), mise en ligne le 28 mai 2026 ; elle ne montre pas le lieu de distribution.",
+    "site_web": "https://www.mairie-athis-mons.fr/annuaire/festival-des-legumes-amap/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9+rue+%C3%89mile+L%C3%A9crivain+91200+Athis-Mons",
+    "image_url": "/images/marchands/amap-festival-des-legumes-athis-mons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-bioviveo-athis-mons",
+    "nom": "Biocoop Biovivéo Athis-Mons",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.701342,
+    "lon": 2.371641,
+    "adresse": "37 avenue François Mitterrand, 91200 Athis-Mons",
+    "horaires": "Selon le site du magasin : du lundi au jeudi de 10h à 13h30 et de 14h30 à 19h30, le vendredi de 10h à 19h30, le samedi de 9h à 19h30 ; fermé le dimanche. La fiche de la Ville (juin 2026) indique au contraire le lundi fermé et une pause de 13h à 14h30 du mardi au vendredi : mieux vaut appeler avant de venir un lundi.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Pain au levain",
+      "Crémerie",
+      "Viande et charcuterie",
+      "Épicerie et vrac",
+      "Produits d'entretien et cosmétiques"
+    ],
+    "description": "Un des trois magasins de la coopérative de consommateurs Biovivéo, membre du réseau Biocoop depuis 1997, à côté du marché des Gravilliers. La coopérative publie ses fournisseurs, dont un verger biologique de l'Essonne et une brasserie de la vallée de Chevreuse. Le registre de l'Agence Bio inscrit la coopérative auprès d'Ecocert depuis juin 2006, ce magasin compris. Photo : Ville d'Athis-Mons (mairie-athis-mons.fr), mise en ligne le 20 mai 2025.",
+    "telephone": "01 69 96 37 00",
+    "site_web": "https://bioviveo.coop/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Biovivéo+37+avenue+Fran%C3%A7ois+Mitterrand+Athis-Mons",
+    "image_url": "/images/marchands/biocoop-bioviveo-athis-mons.jpg",
+    "a_confirmer": true
   }
 ]

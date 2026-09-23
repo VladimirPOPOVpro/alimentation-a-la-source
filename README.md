@@ -3449,9 +3449,25 @@ prioritaires en cas de conflit.
      une collectivité ou à un commerce, celui-ci peut être nommé avec lui. Le nom d'une personne n'apparaît ni dans la fiche, ni
      dans le nom du fichier, ni dans les métadonnées, retirées (règle 235).
 
+269. **Un numéro mobile qu'une autorité imprime sous la ligne « Contact : » d'une personne nommée est la ligne de cette
+     personne : il ne s'inscrit pas, même sur une fiche de marché municipal.** La Ville d'Athis-Mons donne pour ses trois
+     marchés, sur chaque fiche, un « Contact » formé du prénom et du nom d'un agent, suivi d'un 06. La règle 189 reprend le
+     standard qu'une commune publie sur la page de son marché, parce qu'il aboutit au service ; la règle 229 écarte le numéro
+     qu'une source présente comme la ligne personnelle d'une personne nommée. **Tranché ainsi** : un numéro mobile placé sous
+     le nom d'une personne se lit comme sa ligne, même quand l'éditeur est une collectivité — c'est un doute sur une donnée
+     personnelle, et le doute écarte. Le champ `telephone` reste vide, ni le nom ni le numéro ne sont reproduits ici, et la
+     fiche renvoie à la page de la Ville (`site_web`). Un standard fixe ou une ligne de service sans nom de personne reste
+     sous la règle 189. Même lecture pour l'AMAP de la même commune, dont la Ville imprime le mobile de son président sous
+     son nom.
+
 ## Marchands à confirmer
 
-650 fiches sur 724 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+655 fiches sur 729 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché des Gravilliers** (Athis-Mons) (catégorie et piliers des marchés municipaux. **Faits, règle 178** : page « Les marchés » de la Ville, mise à jour le 7 septembre 2026, et fiche du marché (9 février 2026), dimanche 8h-13h ; les deux concordent. **Produits, règles 69 et 197** : la liste « Ils vous attendent » de la fiche de la Ville (un boucher, un fromager, un primeur, un boulanger, un rôtisseur, deux traiteurs, un fleuriste, une buvette, un stand de vêtements) ; neuf étals sur dix sont alimentaires (règle 119). **Téléphone** : aucun, règle 269. **Point** : 33 avenue François-Mitterrand à la Base Adresse Nationale (0,975), à 92 m du marqueur de la Ville, qui vise le milieu du bâtiment. **Voisinage, règle 12** : le magasin Biovivéo est à 38 m, au 37 ; chacun garde son point. **Photo, règle 253** : photographie de l'intérieur de la halle, mise en ligne par la Ville le 5 juillet 2024 et attachée à la seule fiche de ce marché ; clients et commerçants de face sur les deux tiers de l'image, recadrée sur la vitrine du fromager (778 × 717), métadonnées retirées (règle 235).)
+- **Petit marché du centre-ville** (Athis-Mons) (catégorie et piliers des marchés municipaux. **Faits, règle 178** : page « Les marchés » et fiche du marché (11 juin 2026), vendredi 15h30-20h, place du Général-de-Gaulle devant la mairie. **Produits** : les métiers des commerçants que la fiche de la Ville rattache à ce marché — fromager, primeur, poissonnier, rôtisseur, cuisine cambodgienne — sans nommer les étals dont l'enseigne est faite de prénoms ; un stand de créations artisanales, non alimentaire, est cité dans la description. **Téléphone** : aucun, règle 269. **Point** : place du Général-de-Gaulle à la Base Adresse Nationale (0,955), à 58 m du marqueur de la Ville. **Photo, règle 253** : vue de la place mise en ligne par la Ville le 21 mars 2025, recadrée pour écarter le seul client proche (1 500 px ramenés à 1 280) ; les silhouettes du fond ne sont pas identifiables.)
+- **Petit marché du Val** (Athis-Mons) (catégorie et piliers des marchés municipaux. **Faits, règle 178** : page « Les marchés » (7 septembre 2026) et fiche du marché publiée le même jour, jeudi 16h-20h place Jean-Jaurès ; marché récent, d'où `a_confirmer`. **Produits, règle 92** : deux commerçants seulement, un primeur et un rôtisseur. **Point** : place Jean-Jaurès à la Base Adresse Nationale (0,958), à 10 m du marqueur de la Ville. **Photo, règles 91 et 253** : l'étal du primeur que la Ville a mis en ligne le 10 septembre 2026 sous le nom « …-sur-le-petit-marche-du-Val » ; recadré sous les deux commerçants, au-dessus de la banderole qui porte un numéro mobile et sous une plaque d'immatriculation (848 × 316). Les cageots portent des fruits d'importation : la description ne promet aucun producteur (règle 91). La photographie principale de la même page, prise en septembre 2026, montre des clients et une enfant de face ; son seul recadrage sans personne tombe sous 700 px ou garde le numéro de la banderole, elle n'est pas utilisée.)
+- **AMAP Festi'Val des légumes** (Athis-Mons) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : fiche de l'association sur le site de la Ville, mise à jour le 29 juillet 2026, jeudi 19h-20h au 9 rue Émile-Lécrivain (local de l'ARCA) ; le site de l'AMAP, dont le bandeau porte « Septembre 2026 », donne le même jour, la même heure et le même lieu. Association active au registre des entreprises. **Pas d'`environnement`, règles 60 et 209** : l'AMAP nomme sa maraîchère, entreprise individuelle, et ne publie que sa commune (Périgny-sur-Yerres) ; le certificat n'est pas recherché par un nom de personne. **Téléphone et site** : le seul numéro est le mobile du président, imprimé sous son nom (règle 269) ; `site_web` pointe la fiche de la Ville, le site de l'association nommant des personnes. **Photo, règles 1 et 234** : le flyer de l'AMAP est dominé par un portrait et son seul recadrage sans visage fait 474 px ; la photographie de légumes attachée à la fiche d'un primeur du marché du centre-ville est une image iStock (métadonnées Getty Images, règle 70) ; retenu : le jardin partagé Jules-Vallès, équipement municipal non marchand, sans personne, mis en ligne par la Ville le 28 mai 2026, dit comme tel dans la fiche.)
+- **Biocoop Biovivéo Athis-Mons** (Athis-Mons) (catégorie `magasin-bio`, règle 3 ; **règle 86 remplie** : la coopérative publie sur sa page « Nos fournisseurs » des producteurs nommés, dont un verger biologique de l'Essonne et une brasserie de la vallée de Chevreuse. **Registre, règle 6** : établissement ouvert au 37 avenue François-Mitterrand, enseigne Biovivéo, de la Coopérative Biovivéo. **Pilier `environnement`, règle 210** : certificat Ecocert engagé le 16 juin 2006, sans arrêt, qui déclare le lieu d'activité « Biocoop Biovivéo Athis-Mons » et des productions de fruits et légumes, crémerie, pain. `biocoop.fr` n'est pas consulté (règle 149) ; tout vient de `bioviveo.coop`, du site de la Ville et des registres. **Horaires, règle 104** : ceux du site du magasin ; la fiche de la Ville (11 juin 2026) donne le lundi fermé et une pause 13h-14h30, citée dans le champ. **Photo, règle 263** : le site de la coopérative interdit toute reproduction de ses photos (règle 230) ; la vue du rayon fruits et légumes que la Ville publie sur sa fiche du magasin (20 mai 2025), sans personne, est reprise sous la clause de la Ville (règle 253), source et date citées.)
 - **Marché du lundi de Cluses, place des Allobroges** (Cluses) (catégorie et piliers des marchés municipaux. **Faits** : page « Marché hebdomadaire » de la Ville (janvier 2025), lundi de 7h à 13h ; l'office Cluses Arve & montagnes écrit 8h-14h, variante citée, la Ville organise et fait foi (règle 176). **Produits** : l'office classe ce marché « alimentaire et manufacturé » quand il détaille le marché du jeudi ; `produits` porte cette seule nature (règles 92 et 221). **Point** : place des Allobroges à la Base Adresse Nationale (0,962), à 30 m du marqueur de l'office. **Photo** : Ville de Cluses, diffusée par l'office, prise un lundi matin de juillet 2015 (règle 140), recadrée au-dessus des passants, métadonnées retirées (règle 235).)
 - **Chèvrerie des Oulettes** (Mont-Saxonnex) (catégorie `ferme`, pas d'`environnement` : aucune inscription au registre de l'Agence Bio (règle 15). **Faits** : fiche 2026 de l'office seule, vente du lundi au samedi de 17h à 18h ; entreprise individuelle active au registre à la même adresse, dont le nom n'est pas repris (règle 259) ; le seul téléphone publié est un portable, non inscrit (règle 143). BAN 0,951 au numéro. 7,7 km du centre de Cluses, même communauté de communes (règle 96).)
 - **Ferme de Chamonix-Mottet (GAEC Chamonix)** (Magland) (catégorie `ferme`, pas d'`environnement` (règle 15). **Faits** : fiche 2026 de l'office seule, vente du lundi au samedi de 8h à 9h et de 17h à 19h ; GAEC actif au registre au lieu-dit Chamonix Mottet, nom de lieu que la Base Adresse Nationale connaît comme voie. **Point** : celui de l'office, contrôlé par inversion à 5 m du 649 route de Chamonix Mottet (règles 63 et 67) ; le numéro n'est pas publié, faute de source. Portable non inscrit (règle 143). 4,5 km du centre de Cluses.)
@@ -10486,6 +10502,51 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe d'Athis-Mons (Essonne) — cinq fiches publiées dans la commune, quatrième de la descente
+
+Passe du 23 septembre 2026, après celle de Cluses. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel. **Classement,
+règle 41**, sur 724 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) : Landes 4,5524 et Eure-et-Loir 4,5478
+(épuisés, règle 265), **Essonne (91) 4,0540**, Aude 3,9863, Deux-Sèvres 3,9399. La passe précédente visait Auvergne-Rhône-Alpes :
+l'Île-de-France est ouverte (règle 41.c). `origin/main` n'avait pas bougé au moment de publier (règle 241). **Après la passe**, sur
+729 fiches : Landes 4,5839 et Eure-et-Loir 4,5792 (épuisés), Aude 4,0138, Deux-Sèvres 3,9671, Haute-Vienne 3,9453 ; Essonne −0,8490.
+La passe suivante ne peut pas viser l'Île-de-France ; l'Aude (Occitanie) est ouverte.
+
+**Descente de l'Essonne (règles 41.d et 127)**, communes sans fiche par population ; contrôle en deux requêtes avant toute lecture.
+
+- **Massy** (51 729, commune calculée) : le site de la Ville répond 200 à l'agent par défaut et à un agent au nom inconnu, et coupe
+  la connexion (erreur de protocole) pour l'agent nommé : exclusion au sens de la règle 257, site non consulté, ses quatre marchés
+  relèvent de la règle 196 (Essonne Tourisme et l'office Destination Paris-Saclay les fichent, l'agglomération Paris-Saclay ne les
+  publie pas). Les deux magasins La Vie Claire de la commune ont des horaires sur le site du réseau mais aucune photographie propre,
+  et aucune photographie permise de Massy n'existe : Essonne Tourisme réserve ses visuels à la consultation privée (règle 246), les
+  mentions légales de Destination Paris-Saclay sont sous un `Disallow` de son `robots.txt` (règle 214), et l'AMAP Massy Manger Bio,
+  dont le site vit (recettes de septembre 2026), interdit la reproduction du contenu de son site et réserve ses photographies
+  (règle 246). Aucune fiche entière.
+- **Savigny-sur-Orge** (37 601) : le site de la Ville coupe la connexion (444) pour l'agent nommé seul (règle 257). Aucune fiche.
+- **Palaiseau** (37 471) : la Ville publie ses deux marchés (place de la Victoire, jeudi et dimanche 8h-13h ; halle de Lozère,
+  1 rue Collet, mercredi et samedi 8h-13h, « offre mixte » sans composition, règle 197) mais réserve textes et photos à l'usage privé
+  (règle 246). Aucune fiche entière.
+- **Athis-Mons** (36 613, Métropole du Grand Paris, territoire Grand-Orly Seine Bièvre) : la Ville publie trois marchés, chacun
+  avec sa composition et sa photographie, et ses mentions légales — gabarit resté à trous — ne contiennent qu'une clause générale sur
+  les « contenus » et autorisent la réutilisation non commerciale en citant l'origine et la date (règle 253 ; condition remplie dans
+  chaque fiche). La commune rend à elle seule **cinq fiches entières** : les marchés des Gravilliers (dimanche), du centre-ville
+  (vendredi soir) et du Val (jeudi soir), l'AMAP Festi'Val des légumes (jeudi soir) et le magasin Biocoop Biovivéo. Aucun
+  élargissement n'a été nécessaire ; les cinq points tiennent dans 2,1 km. Trois catégories (règle 167), et les trois marchés ne
+  partagent aucun jour (règle 168).
+
+**Pistes non publiées à Athis-Mons, Massy et Palaiseau.**
+
+- **Marchés de Massy** (Narbonne, centre-ville, Villaine, Vilmorin) : jours et heures chez Essonne Tourisme et Destination
+  Paris-Saclay seulement (règle 196). **Déblocage** : le retrait du filtrage du site de la Ville, ou une publication de
+  l'agglomération Paris-Saclay.
+- **La Vie Claire Massy UE et Massy Atlantis** : horaires sur le site du réseau ; aucune photographie du magasin, aucune thématique
+  permise de la commune ; avant d'entrer, elles devront aussi passer l'examen de la règle 86. **Déblocage** : une photographie permise.
+- **AMAP Massy Manger Bio** (distribution le mardi soir selon des annuaires, halle des Graviers) : jour, heure et lieu à relire sur le
+  site de l'association, images fermées. **Déblocage** : une photographie permise du lieu ou de la commune.
+- **Marchés de Palaiseau** : faits complets à la Ville, images réservées. **Déblocage** : une photographie permise.
+- **Athis-Mons** : le magasin de production « Herbes du Monde » (registre de l'Agence Bio, 52 avenue François-Mitterrand) et une
+  boulangerie certifiée n'ont pas été instruits, la commune ayant déjà rendu ses cinq fiches ; la ferme de Mons, rachetée par la
+  Ville, n'a pas encore de projet arrêté (règle 57).
 
 ### Passe de Cluses (Haute-Savoie) — cinq fiches publiées, Eure-et-Loir épuisé
 
