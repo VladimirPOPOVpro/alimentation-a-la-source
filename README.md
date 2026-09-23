@@ -3400,9 +3400,29 @@ prioritaires en cas de conflit.
      Jardins de Castelnau, désormais illustrables (règle 263). **Déblocage** : un cinquième point illustrable à moins de quinze
      kilomètres du centre de Labenne dans Maremne Adour Côte Sud, ou une source datée pour l'antenne de Capbreton.
 
+265. **Un département dont la descente atteint des communes de moins de 2 000 habitants sans avoir trouvé de zone est épuisé
+     pour la règle 41 : la passe le saute et prend le suivant du classement.** Les Landes sont arrivées en tête du calcul cinq
+     passes de suite, du 21 au 23 septembre 2026 ; soixante communes y ont été éprouvées, de Mont-de-Marsan à Vielle-Saint-Girons
+     (1 518 habitants), sans qu'aucune ne rende une zone, et la descente devait reprendre à Pissos (1 505). La règle 41.d prend la
+     commune la plus peuplée parce que c'est là que vivent le plus d'utilisateurs et que les annuaires sont le mieux tenus ; sous
+     deux mille habitants, ni l'une ni l'autre raison ne tient plus — ces villages n'ont ni marché publié avec ses heures ni
+     commerce illustrable —, et la borne par passe de la règle 260 condamnait chaque passe à recommencer le même criblage pendant
+     que le second du classement ne recevait que deux communes (règle 248). Cinq passes sans publication ont montré que la
+     formule, lue ainsi, ne produisait plus rien. **Tranché ainsi** : un département est épuisé quand la prochaine commune de sa
+     descente compte moins de 2 000 habitants ; il reste dans le calcul des parts (règle 224) et son déficit continue d'être
+     publié, mais aucune passe ne le vise plus ; le premier département non épuisé du classement reçoit les douze communes de la
+     règle 247 et le suivant les deux de la règle 248, la réserve de la règle 41.c restant entière. Ce n'est pas contourner la
+     formule : l'ordre des autres départements ne change pas, et le Var reste où il est. **Déblocage** : chaque passe vérifie
+     d'abord, en deux requêtes, les déblocages nommés du groupe de Labenne (règle 264) ; s'il atteint cinq points, il est publié au
+     titre de la règle 11 sans rouvrir la descente. Première application le 23 septembre 2026 : Landes sautées, Eure-et-Loir
+     premier (douze communes, de Lèves à Gallardon), Dordogne second (Périgueux, puis Bergerac, qui a fait la passe).
+
 ## Marchands à confirmer
 
-647 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+645 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Agriculteurs Réunis** (Bergerac) (catégorie `producteur`, règle 105 : épicerie de producteurs ouverte six jours sur sept. **Registre, règle 6** : SARL active, établissement ouvert au 81 avenue Paul Doumer (47.21Z) ; un ancien établissement de la route de Sainte-Alvère est fermé. Pas de pilier `environnement` : aucune inscription au registre de l'Agence Bio, l'office écrit « agriculture raisonnée ou bio ». **Horaires** : office de tourisme du Pays de Bergerac seul ; le site du magasin est une page « en construction » qui ne les donne pas, d'où `a_confirmer` et un champ `site_web` vide (règle 33). **Téléphone non inscrit** : un portable que seul l'office publie. **Point** : numéro à la Base Adresse Nationale (0,97), à 23 m du marqueur de l'office. **Photo, règle 239** : façade publiée par l'office, 787 × 436, enseigne lisible, personne dans le cadre ; mentions de l'office : reproduction permise avec indication de la source. À 1,8 km du centre de Bergerac)
+- **Marché du dimanche de Prigonrieux** (Prigonrieux) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jour et lieu** : actualité de la commune du 9 octobre 2025 (« chaque dimanche, sous la halle colorée ») et fiche de l'office, concordantes ; **heures** de l'office seul (8h-13h, calendrier daté jusqu'en décembre 2026), d'où `a_confirmer` (règle 9). **Point** : place du Groupe Loiseau à la Base Adresse Nationale (0,95, centre de voie), confondu avec le marqueur de l'office. **Produits** : exposants que la commune énumère ; les noms de personnes de sa liste ne sont pas repris. **Photo, règles 46, 239 et 254** : la halle publiée par l'office, recadrée sur la charpente et sa verrière colorée (1024 × 296) pour écarter tous les visages ; les mentions de la commune ferment ses propres images. À 6,8 km du centre de Bergerac, même agglomération (règle 96))
+- **Château de Peyrel** (Prigonrieux) (catégorie `producteur`, pilier `environnement` : SCEA active au 21 route de Peyrel, certificat Bureau Veritas engagé depuis le 11 mars 2018, « vins de raisin » déclarés (règle 39) ; pas d'`alimentation`, le domaine ne vend que du vin (règle 14). **Horaires, contradiction consignée (règle 5)** : le site du domaine donne du lundi au vendredi de 9h à 18h, la fiche de l'office tous les jours de 9h à 19h ; la version du domaine est publiée, celle de l'office est citée. **Téléphone non inscrit** : le site ne donne qu'un portable. **Point** : numéro à la Base Adresse Nationale (0,95), à 20 m du point déclaré au registre de l'Agence Bio. **Photo, règle 239** : le château vu du parc, publié par l'office, 1024 px, sans personne ; le portrait de la même fiche n'est pas repris. À 8,3 km du centre de Bergerac)
 - **Marché du samedi de Morlaix** (Morlaix) (catégorie et piliers des marchés municipaux. **Registre, règle 106**. **Jour et lieu** : Ville et office de tourisme Baie de Morlaix concordants, alimentaire place Allende jusqu'à 13h30 ; aucune des deux ne publie l'heure d'ouverture, d'où `a_confirmer`. **Point** : place Allende à la Base Adresse Nationale (0,96). **Produits** : métiers que la Ville nomme sur la place Allende, et la présence du samedi qu'une ferme bio de Plouezoc'h publie sur sa fiche d'office (règle 122). **Photo** : bandeau de la page du marché de la Ville, 1920 × 330, recadré au centre sur 1280 px, foule trop lointaine pour qu'un visage se lise ; le site de la Ville n'a aucune clause sur ses images, sa page « Crédits » ne nomme que le prestataire et l'hébergeur (règle 231))
 - **Grain de Sail — boutique-chocolaterie** (Morlaix) (catégorie `producteur`, règle 73 : cacao et café importés, transformés et vendus sur place. **Registre** : établissement actif au 7 rue du Cosquer (siret se terminant par 00029), la société a trois établissements ouverts. **Bio** : certificat Certis engagé depuis 2014 au registre de l'Agence Bio, vente aux particuliers déclarée ; le certificat suit l'exploitant (règle 43). **Horaires** : office, recoupés pour la galerie par le site de l'entreprise. **Téléphone non inscrit** : seul l'office publie un numéro, que le site de l'entreprise ne donne nulle part (règle 201). **Photo, règles 59 et 239** : façade de la chocolaterie publiée par l'office, 600 × 311, plus grande variante servie, sans personne ; aucune photographie thématique nette de la commune ne la remplace)
 - **Biocoop Coccinelle** (Saint-Martin-des-Champs) (catégorie et piliers des magasins bio de la coopérative Finisterra, comme Kerbio Rive Droite. **Registre** : établissement « COOP COCCINELLE » de Finis Terra actif ZA de Keriven ; l'ancien établissement de la route de Sainte-Sève est fermé. **Règle 86** : la coopérative publie nommément ses fournisseurs bretons. **Horaires et téléphone** : site de la coopérative et office concordants. **Photo, règle 239** : les mentions légales de Finisterra réservent ses photographies ; la façade vient de l'office de tourisme (fichier de 2026, 4608 px ramené à 1280), enseigne lisible, personne dans le cadre. À 2,1 km du marché de Morlaix, même intercommunalité (règle 96))
@@ -4094,7 +4114,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 669 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 714 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -10429,6 +10449,115 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Bergerac (Dordogne) — cinq fiches publiées, pistes en Eure-et-Loir et à Périgueux
+
+Passe du 23 septembre 2026, après la cinquième passe landaise sans publication. Aucune demande de visiteur, aucun courriel.
+**Classement, règle 41**, sur 709 fiches, dénominateur de la règle 224, outre-mer écarté par la règle 177 : Landes (40) 4,4581,
+Eure-et-Loir (28) 4,4536, **Dordogne (24) 4,2941**, Tarn 4,0857, Aude 3,9037. **Les Landes sont sautées par la règle 265
+(nouvelle)** : leur descente arrivait à Pissos, 1 505 habitants. La dernière passe qui a publié visait le Finistère : la réserve
+de la règle 41.c ne joue pas. `origin/main` n'avait pas bougé au moment de publier (règle 241). **Après la passe**, sur 714
+fiches : Landes 4,4896 (épuisées), Eure-et-Loir 4,4850, Tarn 4,1145, Aude 3,9312 ; Dordogne −0,6757. La passe suivante ne peut
+pas viser la Nouvelle-Aquitaine (règle 41.c).
+
+**Reprise d'abord (règles 249, 264 et 265)** : le site de la Ville de Capbreton n'ouvre toujours aucune connexion (règle 237) ;
+le groupe de Labenne reste à quatre points.
+
+**Eure-et-Loir, premier département : douze communes, de Lèves à Gallardon, aucune zone (règles 127 et 247).** Même obstacle
+que dans les Landes : les faits se trouvent, les images sont fermées. Contrôle en deux requêtes fait pour chaque site avant
+lecture ; aucun ne filtre l'agent nommé.
+
+- **Lèves** (5 685) : aucun marché publié ; mentions de la commune réservant « les documents iconographiques et
+  photographiques ». Le jardin d'insertion biologique qui y déclare un lieu d'activité n'y tient qu'un point de retrait de
+  paniers chez une association ; il vend à Voves (ci-dessous). Aucune fiche.
+- **Cloyes-les-Trois-Rivières** (5 607) : marché du samedi de 6h à 13h, place Chanzy et rues voisines, publié par la commune
+  (page datée de mai 2026) ; mentions de la commune interdisant la reproduction des « textes, images » (règle 231). Une
+  exploitation maraîchère biologique sans site. Aucune fiche.
+- **Bonneval** (4 868) : `bonneval.fr` est un site d'histoire, pas la commune ; celle-ci (`ville-bonneval.eu`) publie deux
+  marchés, lundi et samedi de 7h à 13h, le samedi réservé à l'alimentaire. La commune, l'office du Bonnevalais et la communauté
+  de communes nomment tous trois les images ou photographies dans leur interdiction (règle 231). Aucune fiche.
+- **Maintenon** (4 494) : marché du jeudi matin, place Aristide-Briand et marché couvert, sans heure (règle 192) ; les
+  mentions de la Ville nomment les « photos » dans leur interdiction. L'AMAP que la Ville recense n'a pour contact qu'une adresse
+  de rue et une messagerie personnelle (règle 243) ; un producteur biologique est inscrit en nom propre (règle 259). Aucune fiche.
+- **Saint-Lubin-des-Joncherets** (4 116) et **Saint-Rémy-sur-Avre** (4 058) : aucun marché publié ; la première interdit la
+  reproduction des « images ». Aucune fiche.
+- **Le Coudray** (4 038) : aucun marché publié ; photographies réservées. Aucune fiche.
+- **Nogent-le-Roi** (4 021) : marché du samedi de 8h à 12h30, place du Marché-aux-Chevaux, plus de quinze étals, publié par la
+  commune ; ses mentions légales ne disent rien des images, mais ses conditions générales d'utilisation rangent les
+  « photographies » parmi ce qu'elles interdisent de reproduire (règle 245). Aucune fiche.
+- **Les Villages Vovéens** (4 009) : marché du mardi matin, place Maurice-Maunoury, sans heure ; la seule photographie de la
+  commune (1024 px, pas de clause qui nomme les images) montre des visages, et le recadrage qui les écarte descend sous 700 px
+  (règle 185). Le jardin d'insertion biologique de Voves vend au jardin du lundi au jeudi de 9h à 15h, mais son site nomme les
+  « photographies » dans son interdiction. Une fiche au plus. Aucune fiche.
+- **Champhol** (3 643), **Vald'Yerre** (3 609) et **Gallardon** (3 530) : aucun marché publié ; Gallardon interdit la
+  reproduction des « images ». Aucune fiche.
+
+Si une passe revient dans le 28, la descente reprend à **Brou** (3 230), puis Illiers-Combray.
+
+**Dordogne, second département : Périgueux, puis Bergerac, qui fait la passe (règle 248).**
+
+- **Périgueux** (29 055) : les faits sont complets et datables — halle du Coderc tous les matins du mardi au dimanche de 7h à
+  13h (14h en été), grand marché du mercredi et du samedi de 8h à 12h45 (13h en été) places de la Clautre, de l'Ancien-Hôtel-
+  de-Ville et Saint-Silain, marché du dimanche place du Coderc, petit marché du vendredi place de Verdun (sans heure), marché au
+  gras place Saint-Louis les mercredis et samedis de novembre à mars (8h30-13h à l'office pour la saison 2025-2026). Mais la
+  Ville nomme les « images, photographies » dans son interdiction, l'office du Grand Périgueux les « photos », et les
+  photographies que le comité départemental consacre au marché des producteurs sont servies par `woody.cloudly.space`, qui répond
+  403 à ClaudeBot et à GPTBot et 200 à un robot quelconque (règles 238 et 257) ; la page du comité, elle, s'ouvre à l'agent
+  nommé. **Écart de méthode** : ces photographies avaient été téléchargées avant le contrôle de leur hébergeur ; elles ont été
+  supprimées et n'ont servi à rien, comme à Bry-sur-Marne (règle 252). Le site qu'un producteur biologique de la commune déclare
+  au registre est un domaine racheté par un site de jeux d'argent (piège de la note Santa Lucia). Aucune fiche entière.
+  **Déblocage** : une photographie du lieu, ou thématique de la commune, publiée par une source qui n'en interdit pas la reprise.
+- **Bergerac** (27 110) : l'office du Pays de Bergerac écrit que ses contenus « ne sauraient être reproduits librement sans
+  l'indication de la source » — la permission conditionnelle de la règle 239 ; ses images sont servies par
+  `cdt24.media.tourinsoft.eu`, dont le `robots.txt` ne contient que le préambule des « content signals » sans aucune directive
+  (cas c : ni permission ni restriction) et qui répond 200 à l'agent nommé. Deux fiches entières dans la commune (règle 127),
+  trois dans la Communauté d'agglomération bergeracoise (200070647), toutes à moins de quinze kilomètres du centre (règle 96) :
+
+  1. **Marché de producteurs de La Traverse** (Bergerac, 0,8 km) : marché privé dont l'organisateur publie lui-même jour, lieu
+     et heures (règle 196) — jeudi de 17h30 à 19h, page de son site mise à jour en août 2026, même créneau au calendrier daté de
+     l'office ; structure active au registre des entreprises au 36 boulevard Joseph-Santraille. Point : ce numéro à la Base Adresse Nationale
+     (0,97) ; l'office pointe l'entrée du parking, 2 rue Jean-Nicot, à 120 m. Le site de La Traverse nomme les « images » dans son
+     interdiction ; la photographie vient de la fiche de l'office (règles 239 et 254), recadrée au-dessus des visiteurs sur la
+     façade et la sculpture de bambous de la cour (1024 × 380). Les noms de producteurs et de personnes de la page du marché ne
+     sont pas repris ; les produits le sont.
+  2. **Les Agriculteurs Réunis** (Bergerac, 1,8 km) : voir « Marchands à confirmer ».
+  3. **Marché du dimanche de Prigonrieux** (6,8 km) : voir « Marchands à confirmer ».
+  4. **Château de Peyrel** (Prigonrieux, 8,3 km) : voir « Marchands à confirmer ».
+  5. **Château La Renaudie** (Lembras, 5,0 km) : SCEA active au lieu-dit La Renaudie ; aucune certification au registre de
+     l'Agence Bio, donc `economie` seul (règle 15). Horaires identiques sur le site du domaine et chez l'office ; téléphone fixe
+     publié par le domaine sur sa page de contact. Point : numéro à la Base Adresse Nationale (0,94), confondu avec le marqueur
+     de l'office. Photographie de l'office : la boutique de dégustation sous sa banderole, 1024 px, sans personne. La
+     description ne reprend ni la cuvée qui porte le nom d'un personnage ni le nom du fournisseur de l'épicerie fine.
+
+**Pistes non publiées à Bergerac et dans l'agglomération.**
+
+- **Marché traditionnel du centre de Bergerac** (mercredi et samedi, 8h-13h à l'office ; places de Lattre-de-Tassigny,
+  Louis-de-la-Bardonnie, où est la halle, et des Deux-Conils) : une seule fiche pour les deux séances, qui occupent les mêmes
+  places (règle 42). **Petit marché bio du mardi soir** (16h-19h, parvis de Notre-Dame) et **marché du vendredi rive gauche**
+  (8h-13h, place Barbacane) : faits de l'office, à recouper sur la page des marchés de la Ville avant publication (règle 196).
+  Les fiches de l'office sont illustrées de photographies de banque d'images, au nommage Pixabay (règle 70), et celle du samedi
+  d'un étal de légumes sans lieu ni source ; la Ville et le site de la halle nomment les images dans leur interdiction. **Déblocage** : une photographie du lieu, ou thématique de la commune, publiée par
+  une source qui n'en interdit pas la reprise.
+- **Marché du samedi de La Force** : seul l'office le publie, la commune n'en dit rien (règle 196), et l'office se contredit —
+  9h-13h dans son texte, 8h30-13h30 dans son calendrier (règle 5). **Déblocage** : une publication de la commune.
+- **Domaine viticole biologique de Prigonrieux** (Combrillac, SCEA active, certificat Ecocert engagé en 2023) : caveau ouvert du
+  lundi au vendredi de 8h30 à 12h et de 14h à 18h selon son site, qui range les « images, photographies » parmi ce qu'il ne
+  concède pas (règle 246). **Déblocage** : l'article que le blog de l'office consacre au domaine n'a pas été instruit ; ses
+  photographies relèveraient de la règle 239.
+- **Deux autres domaines de Prigonrieux et de Creysse** : l'un n'a pas d'horaires à l'office et sa fiche nomme l'exploitant,
+  l'autre n'a ni site ni autre téléphone qu'un portable. Non instruits plus avant.
+- **Écartés sans consultation** : un château de Monbazillac dont le site répond 200 à l'agent par défaut et 403 à l'agent nommé
+  (règle 257 ; la page a été lue dans la même commande que le contrôle, rien n'en est repris) ; un château de Prigonrieux dont le
+  `robots.txt` nomme ClaudeBot (règle 77), dont la fiche d'office n'est pas reprise non plus (règle 145).
+
+**Écartés pour un nom de personne (règle 259), une ligne chacun :**
+
+- Lembras — apiculture — enseigne formée d'un prénom.
+- Lunas — verger — enseigne patronymique.
+- Bergerac — distillerie — enseigne formée d'un prénom.
+- Bergerac — conserverie de foie gras — enseigne patronymique.
+- Dampierre-sous-Brou (28) — ferme maraîchère — enseigne patronymique.
+- Maintenon (28) — producteur biologique — inscrit en nom propre.
 
 ### Pistes non publiées dans les Landes et en Eure-et-Loir — cinquième passe sans publication
 

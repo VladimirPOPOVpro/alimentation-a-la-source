@@ -18872,5 +18872,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Port+de+T%C3%A9r%C3%A9nez+Plougasnou",
     "image_url": "/images/marchands/huitres-de-sterec-plougasnou.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-producteurs-la-traverse-bergerac",
+    "nom": "Marché de producteurs de La Traverse",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.85896,
+    "lon": 0.485388,
+    "adresse": "36 Boulevard Joseph Santraille, 24100 Bergerac",
+    "horaires": "Jeudi de 17h30 à 19h, toute l'année (site de La Traverse, page mise à jour en août 2026 ; même créneau au calendrier de l'office de tourisme du Pays de Bergerac). Dans le café associatif en hiver, dans la cour centrale aux beaux jours.",
+    "produits": [
+      "Légumes bio de saison",
+      "Pain bio cuit au four à bois",
+      "Œufs et volailles",
+      "Fromages de chèvre et de brebis",
+      "Miels et gelée royale",
+      "Tisanes",
+      "Jus, sirops et compotes bio",
+      "Crèmes et préparations de marrons"
+    ],
+    "description": "Marché hebdomadaire réservé aux producteurs et artisans des environs de Bergerac, dans le tiers-lieu associatif de La Traverse. Chaque participant propose trois prix au choix du client pour rendre l'alimentation locale accessible, et plusieurs sont certifiés bio ; entrée et parking au 2 rue Jean Nicot. Photo : Pays de Bergerac Tourisme, la cour de La Traverse, recadrée, droits réservés.",
+    "site_web": "https://latraverse-bergerac.fr/le-marche-bio-local-solidaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Traverse%2C%2036%20boulevard%20Joseph%20Santraille%2C%2024100%20Bergerac",
+    "image_url": "/images/marchands/marche-producteurs-la-traverse-bergerac.jpg"
+  },
+  {
+    "slug": "agriculteurs-reunis-bergerac",
+    "nom": "Les Agriculteurs Réunis",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.836681,
+    "lon": 0.479315,
+    "adresse": "81 Avenue Paul Doumer, 24100 Bergerac",
+    "horaires": "Du lundi au samedi de 9h30 à 12h30 et de 14h30 à 18h30 ; fermé le dimanche (office de tourisme du Pays de Bergerac ; le site du magasin est en construction et ne les publie pas).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes de bœuf, d'agneau et de lapin",
+      "Volailles fermières et canard",
+      "Charcuteries",
+      "Produits laitiers et fromages",
+      "Pain",
+      "Noix, pruneaux et conserves du Périgord",
+      "Glaces"
+    ],
+    "description": "Épicerie de producteurs locaux et du Sud-Ouest à l'entrée sud de Bergerac, avec un grand parking : fruits et légumes de saison, viandes, volailles, laitages et produits du Périgord, issus selon l'office de tourisme de l'agriculture raisonnée ou biologique. Aucune certification biologique n'est inscrite au registre de l'Agence Bio pour ce magasin. Photo : Pays de Bergerac Tourisme, façade du magasin, droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Agriculteurs%20R%C3%A9unis%2C%2081%20avenue%20Paul%20Doumer%2C%2024100%20Bergerac",
+    "image_url": "/images/marchands/agriculteurs-reunis-bergerac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-dimanche-prigonrieux",
+    "nom": "Marché du dimanche de Prigonrieux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.855396,
+    "lon": 0.40204,
+    "adresse": "La Halle, Place du Groupe Loiseau, 24130 Prigonrieux",
+    "horaires": "Dimanche de 8h à 13h, sous la halle (heures de l'office de tourisme du Pays de Bergerac ; la commune publie le dimanche matin et la halle sans donner d'heure).",
+    "produits": [
+      "Légumes de maraîchers locaux",
+      "Huîtres d'Oléron",
+      "Miels locaux",
+      "Rôtisserie et charcuteries",
+      "Plats cuisinés à emporter",
+      "Vin d'un domaine du secteur",
+      "Fleurs coupées"
+    ],
+    "description": "Marché du dimanche matin sous la halle colorée de la place du Groupe Loiseau, où la commune réunit commerçants et producteurs locaux : maraîchers, apiculteurs, étal d'huîtres d'Oléron, rôtisseur, vigneron et ferme florale du secteur. Photo : Pays de Bergerac Tourisme, la charpente de la halle, recadrée, droits réservés.",
+    "site_web": "https://www.ville-prigonrieux.fr/actualites/le-marche-dominical-de-prigonrieux-3783",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Groupe%20Loiseau%2C%2024130%20Prigonrieux",
+    "image_url": "/images/marchands/marche-du-dimanche-prigonrieux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-de-peyrel-prigonrieux",
+    "nom": "Château de Peyrel",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.886566,
+    "lon": 0.395503,
+    "adresse": "21 Route de Peyrel, 24130 Prigonrieux",
+    "horaires": "Du lundi au vendredi de 9h à 18h (site du domaine) ; l'office de tourisme annonce une ouverture tous les jours de 9h à 19h, que le domaine ne reprend pas. Visite des vignes et du chai avec dégustation sur réservation.",
+    "produits": [
+      "Bergerac blanc sec",
+      "Bergerac rouge bio",
+      "Bergerac rosé",
+      "Rosette moelleux",
+      "Méthode traditionnelle brut bio"
+    ],
+    "description": "Vignoble de Prigonrieux remis en culture en 2013 autour de son château, qui vinifie notamment la muscadelle et le sémillon en blanc sec et en moelleux d'appellation Rosette. Engagé en agriculture biologique au registre de l'Agence Bio depuis mars 2018, vins compris. Photo : Pays de Bergerac Tourisme, droits réservés.",
+    "site_web": "https://chateaudepeyrel.com/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Peyrel%2C%2021%20route%20de%20Peyrel%2C%2024130%20Prigonrieux",
+    "image_url": "/images/marchands/chateau-de-peyrel-prigonrieux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-la-renaudie-lembras",
+    "nom": "Château La Renaudie",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 44.884743,
+    "lon": 0.530693,
+    "adresse": "65 Chemin de la Renaudie, 24100 Lembras",
+    "horaires": "Du lundi au vendredi de 10h à 12h30 et de 13h30 à 18h, toute l'année (site du domaine et office de tourisme) ; le samedi et le dimanche sur rendez-vous selon l'office. Dégustation gratuite à la boutique.",
+    "produits": [
+      "Pécharmant rouge du château",
+      "Vins partenaires des appellations Bergerac, Rosette et Monbazillac",
+      "Épicerie fine autour du canard"
+    ],
+    "description": "Vignoble de 35 hectares d'un seul tenant sur les coteaux de Pécharmant, au-dessus de Bergerac, dont la boutique occupe une périgourdine restaurée et rouverte au public en 2020. On y vend le Pécharmant du château, des vins partenaires des appellations voisines et une épicerie fine autour du canard d'un producteur partenaire. Photo : Pays de Bergerac Tourisme, la boutique de dégustation, droits réservés.",
+    "telephone": "05 53 27 05 75",
+    "site_web": "https://chateaularenaudie.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20La%20Renaudie%2C%2065%20chemin%20de%20la%20Renaudie%2C%2024100%20Lembras",
+    "image_url": "/images/marchands/chateau-la-renaudie-lembras.jpg"
   }
 ]
