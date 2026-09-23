@@ -10656,6 +10656,112 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans l'Oise et dans le Val-d'Oise — quatrième passe sans publication
+
+Passe du 23 septembre 2026, après la troisième passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
+(nouvelle ou en cours), aucun courriel. **Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte ; le site de
+la Ville de Capbreton n'ouvre toujours aucune connexion (agent par défaut et agent nommé, règle 237) : le groupe de Labenne reste à
+quatre points. **Classement, règle 41**, recalculé sur 753 fiches (dénominateur de la règle 224, outre-mer écarté, règle 177) :
+**Oise (60) 5,0629**, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, Vosges 3,9013 —
+inchangé, rien n'ayant été publié (règle 260). Dernière région visée : Auvergne-Rhône-Alpes ; Hauts-de-France et Île-de-France
+ouverts (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241). **Douze communes de l'Oise** (règle 247), reprises
+à Choisy-au-Bac comme la section précédente le prescrit — Auneuil, qui a déjà une fiche, est sautée par la règle 41.d —, puis
+**deux du Val-d'Oise** (règle 248), reprises à Goussainville : aucune ne rend deux fiches entières, image comprise (règle 127).
+Aucune zone n'est publiée et aucune région n'est « visée ».
+
+**Le trait commun ne change pas, et il s'aggrave** : dans cette tranche de population (3 450 à 2 830 habitants), la plupart des
+Villes ne publient ni marché hebdomadaire ni AMAP ; quand elles en publient un, leurs mentions légales ferment les images. Agnetz et
+Noailles (même prestataire de site, clause « textes, images, photographies […] usage personnel et privé »), Bury (« illustrations et
+photographies »), Béthisy-Saint-Pierre (« logo, photos, images, textes ») et Pontpoint (« graphismes, images, textes ») rangent
+nommément les images parmi ce qu'elles interdisent (règles 231, 246 et 253). Sources muettes ou exclues pour toute la passe :
+Bienvenue à la Ferme (403 à tous les agents, règle 237), `ouacheterlocal.fr` et `valdoise-tourisme.com` (200 à l'agent par défaut,
+403 à l'agent nommé : règle 257), le site de la communauté de communes Thelloise et la page « marché fermier » du Département (403 à
+tous les agents). Deux domaines que les Villes donnent pour gestionnaires de leurs marchés servent un contenu sans rapport (règle
+159) : rien n'en a été repris.
+
+**Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Choisy-au-Bac** (3 449) — Ville lisible, sans marché ni AMAP ; son livret des commerçants 2025-2026 ne compte aucun
+   producteur ni magasin bio ; au registre bio, une supérette de réseau. **Zéro.**
+2. **Andeville** (3 434) — Ville lisible, sans marché ni AMAP. Une crèmerie de produits fermiers (13 rue des 17 Martyrs, active
+   au registre) a des horaires sur la fiche de la Ville, datée de 2022, et aucun produit ; les produits et des horaires plus récents
+   ne viennent que de l'office départemental. Les agriculteurs de l'annuaire communal sont inscrits sous leur patronyme (règle 259).
+   **Zéro.**
+3. **Chaumont-en-Vexin** (3 338) — Ville lisible mais site inachevé (pages de démonstration, annuaire « en construction ») ; aucun
+   marché hebdomadaire publié, un marché du terroir annuel seulement. L'AMAP du Vexin n'a ni jour, ni heure, ni lieu datés (règle
+   195) ; le distributeur de fraises de Rebetz renvoie à un domaine qui n'existe plus ; la micro-brasserie de la zone d'Angean n'a
+   pas de site joignable. **Zéro.**
+4. **Saint-Maximin** (3 335) — Ville lisible, sans marché publié (un marché du vendredi n'apparaît que sur un réseau social et
+   dans la presse de 2023, absent de tous les magazines municipaux de 2024 à 2026 : non publiable, règle 196). **Une fiche aux faits
+   entiers sans image** : le magasin Biocoop de la rue de la Révolution-Française (établissement actif, horaires du lundi au samedi
+   9h-19h30 sur son site), qui publie **sa propre** liste de quatorze producteurs de l'Oise et des départements voisins (règle
+   276, non la liste de réseau de la règle 273) ; mais ses conditions d'utilisation nomment « les photographies, les images » et en
+   interdisent la représentation (règle 245). **Zéro fiche entière.**
+5. **Précy-sur-Oise** (3 332) — Ville lisible, **sans clause sur les images**. **Une fiche entière, désignée pour la reprise** : le
+   **p'tit marché de Précy**, samedi de 15h30 à 18h, parking de covoiturage de la gare, rue Gaston-Wateau (page et affiche de la
+   Ville, confirmées par le bulletin municipal d'octobre 2025 ; primeurs, apiculteur, poissonnier, fromages de chèvre et de brebis,
+   brasseur, charcutier-volailler) ; BAN à la rue (0,96). Image : la vue de l'arrêt « Précy-sur-Oise Gare » que la Ville publie sur
+   sa page des bus, 2 016 px, sans personne, qui montre le parking du marché hors séance ; à recadrer à gauche pour retirer
+   l'abribus et son affiche publicitaire (règle 75), et la description dira qu'elle montre le lieu sans le marché. Deux autres
+   images de la Ville sont écartées : une capture de service de cartographie (règle 250) et un fichier au nommage de Wikimedia
+   Commons. Aucune seconde fiche dans la commune : **une**.
+6. **Pontpoint** (3 275) — Ville fermée aux images. Le marché du dimanche (page de 2023 : un primeur, un boucher, deux fromagers en
+   alternance) n'a ni lieu ni heure publiés ; l'AMAP voisine distribue à Pont-Sainte-Maxence, sans jour ni lieu sur son propre site.
+   **Zéro.**
+7. **Breuil-le-Vert** (3 183) — Ville lisible au premier passage puis muette en cours de passe (règle 237) ; aucun marché, aucune
+   AMAP dans ses pages. Le magasin bio de la route de Paris est **fermé au registre** (zéro établissement ouvert). **Zéro.**
+8. **Béthisy-Saint-Pierre** (3 111) — Ville fermée aux images. Le marché du vendredi matin, place du Marché (page de la Ville du
+   27 novembre 2025 : légumes, fruits, poisson, rôtisserie), n'a pas d'heure publiée par la Ville, et la seule image de la page
+   ressemble à une photographie de banque d'images d'un rayon de supermarché (règle 70). La miellerie de la commune ne publie aucun
+   lieu ni aucune heure de vente sur place, seulement ses revendeurs (règle 243). **Zéro.**
+9. **La Chapelle-en-Serval** (3 084) — Ville lisible, sans clause sur les images, sans marché ni AMAP : l'AMAP de son annuaire
+   distribue à Orry-la-Ville (commune éprouvée). La cueillette de la D1017 n'a pour site propre qu'une page arrêtée à la saison
+   2020, et la page du Département qui la présente répond 403 à tous les agents. **Zéro.**
+10. **Agnetz** (3 058) — Ville fermée aux images, sans marché hebdomadaire (un marché fermier annuel). La vente de produits
+    laitiers d'un GAEC de la commune n'est documentée que par un annuaire qui exclut l'agent nommé (règle 257). **Zéro.**
+11. **Noailles** (2 877) — Ville fermée aux images. **Deux fiches aux faits entiers sans image** : le **marché** de la place du
+    Marché, mardi et dimanche de 8h à 13h (page des marchés de la Ville, bulletin de novembre 2024 ; bulletin de septembre 2026 pour
+    l'arrivée d'une poissonnerie ; fruits et légumes, fromages, boucherie, poisson, miel, rôtisserie), dont la seule photographie —
+    une vue plongeante de 720 px, sans visage identifiable — est servie par la Ville sous sa clause fermante ; et **La Ferme du
+    Relais**, magasin fermier du hameau de Blainville, 66 rue de Calais (société active, deux établissements ouverts ; du mardi au
+    vendredi 9h-12h30 et 14h-19h, samedi 9h-19h, dimanche 9h-12h30 ; volailles, asperges, légumes, charcuterie, conserves,
+    confitures, selon l'annuaire de la Ville), sans site propre, dont la seule image publique est un logo. Le site de la communauté
+    de communes Thelloise répond 403 à tous les agents. **Zéro fiche entière** ; ces deux fiches n'attendent qu'une photographie
+    permise, et feraient à elles deux la règle 127.
+12. **Bury** (2 838) — Ville fermée aux images, sans marché ni producteur publié ; au registre bio, rien dans la commune. **Zéro.**
+
+La passe qui reviendra dans l'Oise reprend la descente à **Grandvilliers** (2 786) ; vingt-quatre communes de 2 000 habitants ou
+plus restent avant l'épuisement de la règle 265. **Six fiches restent désignées pour la reprise**, chacune seule dans sa commune ou
+sans image : le marché de la place Carnot à Creil, la Ferme de l'Arbre à Poule à Villers-Saint-Paul, La Ferme de la Nonette à
+Chantilly (sous sa réserve de registre), l'AMAP de Margny-lès-Compiègne (sections précédentes), et désormais le p'tit marché de
+Précy-sur-Oise. Noailles a deux fiches aux faits entiers : son **déblocage** est une photographie du marché ou du magasin fermier
+publiée par une source qui n'en interdit pas la reprise — il rouvrirait la commune au titre de la règle 127, sans rouvrir le reste.
+
+**Val-d'Oise — deux communes (règle 248)**, reprises à Goussainville :
+
+1. **Goussainville** (31 301) — Ville lisible, sans clause de reproduction (ses crédits citent des banques d'images, à écarter une
+   à une). Le marché de la halle de la Charmeuse (mardi et samedi, 8h30-13h30) n'est décrit que par l'appel à candidatures 2026 de
+   la Ville, qui dit quels commerçants elle cherche et non ce qui s'y vend ; aucune photographie de la halle. Au registre bio, des
+   grossistes et des magasins de chaîne. Aucune AMAP au réseau d'Île-de-France. **Zéro.**
+2. **Villiers-le-Bel** (30 053) — Ville lisible, sans clause de reproduction. Le marché de la rue Gounod (mardi et vendredi) porte
+   trois horaires contradictoires sur les pages de la Ville (15h-19h sur la fiche du 18 septembre 2026, « 6h à 23h » sur une page de
+   mars 2026, 14h-19h30 sur un agenda de 2023) et aucun produit concret ; sa seule image est un logo. Les ventes de fruits et
+   légumes d'une association changent de lieu à chaque séance ; l'association de paniers de l'annuaire communal n'a ni jour, ni
+   heure, ni lieu, et sa fiche date de juin 2024 (règle 195). **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Ermont** (29 489). Pistes relevées dans la même agglomération Roissy Pays de
+France, non instruites (communes plus petites, hors descente) : un magasin à la ferme à Arnouville, des producteurs à Gonesse, au
+Thillay et à Fontenay-en-Parisis, et l'AMAP de Fosses.
+
+**Après la passe**, sur 753 fiches, rien n'a changé : **Oise 5,0629** (Hauts-de-France), Landes 4,7348 et Eure-et-Loir 4,7300
+(épuisés), Val-d'Oise 3,9963, Vosges 3,9013. Rien n'ayant été publié, la passe suivante peut viser les Hauts-de-France.
+
+**Données personnelles écartées** : les noms des maires, directeurs de publication et responsables d'association lus dans les
+mentions légales et les annuaires des Villes ; les patronymes des agriculteurs des annuaires d'Andeville, de Béthisy-Saint-Pierre et
+de Villiers-le-Bel, et ceux des exploitants individuels du registre (Choisy-au-Bac, Chaumont-en-Vexin, Agnetz, Noailles) ; le nom
+et le portable que l'annuaire de Villiers-le-Bel imprime pour une association de paniers ; le nom de l'exploitant de la miellerie de
+Béthisy-Saint-Pierre. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
 ### Pistes non publiées dans l'Oise et dans le Val-d'Oise — troisième passe sans publication
 
 Passe du 23 septembre 2026, après la seconde passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
