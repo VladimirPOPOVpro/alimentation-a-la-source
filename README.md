@@ -10656,6 +10656,96 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans l'Oise et dans le Val-d'Oise — seconde passe sans publication
+
+Passe du 23 septembre 2026, après la première passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
+(nouvelle ou en cours), aucun courriel. **Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte ; le site de
+la Ville de Capbreton n'ouvre aucune connexion (`capbreton.fr` comme `www.capbreton.fr`, aux deux agents, règle 237) : le groupe de
+Labenne reste à quatre points. **Classement, règle 41**, sur 753 fiches, dénominateur de la règle 224, outre-mer écarté (règle
+177) : **Oise (60) 5,0629**, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, Vosges 3,9013.
+Rien n'ayant été publié à la passe précédente, la dernière région visée reste l'Auvergne-Rhône-Alpes : les Hauts-de-France et
+l'Île-de-France étaient ouverts (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241). **Douze communes de l'Oise**
+(règle 247), reprises à Margny-lès-Compiègne comme la section précédente le prescrit, puis **deux du Val-d'Oise** (règle 248) :
+aucune ne rend deux fiches entières, image comprise (règle 127). Aucune zone n'est publiée et aucune région n'est « visée ».
+
+**Le trait commun reste celui de la passe précédente** : les faits existent, les images manquent. Margny-lès-Compiègne,
+Liancourt, Saint-Just-en-Chaussée, Mouy, Laigneville, Saint-Leu-d'Esserent et Franconville rangent nommément les photographies ou
+les images parmi ce qu'elles interdisent, ou ne les permettent qu'à l'usage privé (règles 231, 246 et 253). L'annuaire « Où acheter
+local » de la Chambre d'agriculture refuse toujours l'agent nommé et sert les autres (règle 257), comme l'hébergeur WordPress.com de
+l'AMAP de Bezons. L'annuaire « Saveurs des Vallées de l'Oise » exclut `CCBot` et `GPTBot` : il n'a pas été consulté (règles 145 et
+149). La plateforme « Illico mes produits locaux », qui fiche plusieurs marchés de la descente, est un annuaire participatif
+(« Proposer un marché ») : elle ne vaut pas source au sens de la règle 103. **Deux sources d'images ouvertes** ont servi : l'office
+Creil Sud Oise Tourisme (règle 239, déjà relevée) et le site de l'AMAP de Margny, qui ne porte aucune clause ; le site de la Ville
+de Bornel n'en porte pas non plus, mais ne publie ni marché ni producteur.
+
+**Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Margny-lès-Compiègne** (8 677) — **une fiche entière, désignée pour la reprise** : l'**AMAP Au fil des saisons**, distribution
+   le mardi de 18h15 à 19h15 au Parc de la Mairie (pied de page du site de l'AMAP, vivant : actualité datée du 20 juin 2026 ; la
+   fiche d'annuaire de la Ville, modifiée en février 2024, donne 18h-19h30 au club-house du parc — c'est l'horaire que
+   l'association publie elle-même qui vaut, règle 179) ; paniers de légumes, œufs et pommes de terre, pain, fromages et glaces de
+   chèvre, miel, bières, farines et légumineuses, de producteurs de l'Oise et de la Somme (page « Nos partenaires ») ; point de la
+   mairie, 117 avenue Octave-Butin (BAN au numéro, 0,968 ; 49,424099, 2,819124). Image : la photographie d'une distribution, avec
+   ses cagettes de carottes et de sacs de légumes, à recadrer sous les personnes (règle 99) : la moitié gauche du bas de l'image,
+   environ 1 440 px de large, ne montre aucun visage. Le **marché du dimanche** (Parc de la Mairie ; 8h30-13h selon la page de la Ville, 8h-13h sur son affiche) n'a
+   aucune composition publiée hors la phrase « un marché très complet » (règle 197), et la Ville interdit ses photographies hors
+   usage privé. Le magasin **Bio'Margny**, 143 B rue Octave-Carpentier, est certifié et actif, mais sa page de magasin ne nomme
+   aucun producteur local (règle 273) et donne deux horaires différents (9h-19h30 dans l'en-tête, 9h-20h dans le tableau).
+   **Une fiche.**
+2. **Liancourt** (6 785) — la Ville publie le marché du mercredi matin, place de La Rochefoucauld, sans heure, et n'autorise ses
+   visuels qu'à la consultation privée. **Zéro.**
+3. **Villers-Saint-Paul** (6 480, Creil Sud Oise) — **une fiche entière, désignée pour la reprise** : la **Ferme de l'Arbre à
+   Poule**, 28 rue Mortefontaine (BAN au numéro, 0,962 ; 49,285846, 2,483998), écolieu en permaculture qui vend à la ferme ses
+   légumes et fruits de saison, ses volailles (poulets, dindes, canards, oies, chapons, pintades, cailles), ses transformations,
+   ses plants de tomates et d'aromates et des produits de fermes partenaires. La société maraîchère de la ferme est active au
+   registre à cette adresse (01.13Z). Horaires : mardi et vendredi 16h30-19h, samedi 10h-12h (page « Productions » du site de la
+   ferme) ; l'office donne 17h-19h et le samedi soir en plus — c'est la voix de l'intéressé qui donne l'horaire, et la différence
+   s'écrit (règle 236). Image : la photographie du verger et de la mare que l'office publie sur sa fiche (1 600 px, aucune
+   personne ; les trois autres montrent des visiteurs ou l'exploitant). Seule dans sa commune : la ville ne tient pas de marché.
+   **Une fiche.**
+4. **Saint-Just-en-Chaussée** (5 810) — Ville fermée aux images (usage personnel et privé), aucune page de marché. **Zéro.**
+5. **Lacroix-Saint-Ouen** (5 415) — la Ville publie le marché du dimanche, 7h30-13h, sans place ni composition (« une ambiance de
+   saveurs »), avec trois vignettes de 200 px. **Zéro.**
+6. **Mouy** (5 319) — Ville fermée (usage personnel et privé), aucune page de marché trouvée sur son site. **Zéro.**
+7. **Laigneville** (4 926) — Ville fermée aux images, aucune page de marché trouvée sur son site. **Zéro.**
+8. **Bornel** (4 832) — Ville sans clause sur les images, mais sans page de marché ; son annuaire des commerces ne compte qu'un
+   serriste inscrit sous le nom de son exploitant (règle 259) ; l'AMAP qu'un annuaire rattache au code postal est en Haute-Savoie.
+   **Zéro.**
+9. **Verneuil-en-Halatte** (4 775) — aucun marché publié ; l'annuaire de la Ville cite une brasserie artisanale de la zone
+   d'activités, seule candidate. **Zéro.**
+10. **Saint-Leu-d'Esserent** (4 638, Creil Sud Oise) — le marché du samedi (8h30-12h30, place de la République) n'est publié que
+    par l'office intercommunal, sans photographie propre, et la Ville ferme ses images ; un maraîchage biologique de la commune,
+    dont l'enseigne porte un prénom, n'est pas publiable (règle 259). **Zéro.**
+11. **Thourotte** (4 463) — la Ville publie le marché du jeudi matin (8h-12h d'avril à septembre, 8h30-12h d'octobre à mars, places
+    et rue de la République) sans composition, avec un bandeau de banque d'images (règle 70). **Zéro.**
+12. **Nanteuil-le-Haudouin** (4 258) — le site de la Ville ne publie aucun marché ; une cueillette avec boutique n'a pas de source
+    consultable. **Zéro.**
+
+La passe qui reviendra dans l'Oise reprend la descente à **Breteuil** (4 222). **Quatre fiches restent désignées pour la reprise**,
+chacune seule dans sa commune : le marché de la place Carnot à Creil et la Ferme de l'Arbre à Poule à Villers-Saint-Paul (toutes
+deux dans Creil Sud Oise, à 2,7 km l'une de l'autre, mais la règle 127 veut deux fiches entières dans la même commune), La Ferme
+de la Nonette à Chantilly (sous sa réserve de registre) et l'AMAP de Margny-lès-Compiègne. Une commune de Creil Sud Oise qui
+rendrait sa seconde fiche ferait avec elles une zone au titre de la règle 96.
+
+**Val-d'Oise — deux communes (règle 248)**, reprises à Franconville :
+
+1. **Franconville** (37 754) — les mentions légales rangent nommément les images parmi ce qu'elles interdisent de reproduire.
+   **Zéro.**
+2. **Bezons** (36 434) — la clause de la Ville est générale et permet la réutilisation non commerciale en citant l'origine et la
+   date (règle 253), mais sa page « Le marché couvert » est vide (un titre et une date, 14 juillet 2025) ; les deux AMAP de la
+   commune n'ont que des annuaires associatifs (règle 195) et un site qui refuse l'agent nommé (règle 257). **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Pontoise** (31 970).
+
+**Après la passe**, sur 753 fiches, rien n'a changé : **Oise 5,0629** (Hauts-de-France), Landes 4,7348 et Eure-et-Loir 4,7300
+(épuisés), Val-d'Oise 3,9963, Vosges 3,9013. Rien n'ayant été publié, la passe suivante peut viser les Hauts-de-France.
+
+**Données personnelles écartées** : les noms des directeurs de publication, maires, placiers et responsables d'association lus sur
+les sites des Villes, avec leurs portables ; les prénoms des exploitants et des adhérents cités par le site de l'AMAP de Margny,
+par l'office Creil Sud Oise et par les avis publiés sur le site de la ferme ; les patronymes sous lesquels le registre des
+entreprises et les annuaires inscrivent des producteurs de Villers-Saint-Paul, de Bornel et de Saint-Leu-d'Esserent ; le prénom
+de l'enseigne écartée. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
 ### Pistes non publiées dans l'Oise et dans le Val-d'Oise — passe sans publication
 
 Passe du 23 septembre 2026, après celle de Varces-Allières-et-Risset. Aucune demande de visiteur (nouvelle ou en cours), aucun
