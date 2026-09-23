@@ -3460,9 +3460,40 @@ prioritaires en cas de conflit.
      sous la règle 189. Même lecture pour l'AMAP de la même commune, dont la Ville imprime le mobile de son président sous
      son nom.
 
+270. **Des mentions légales placées sous un `Disallow` du `robots.txt` ferment le site comme source d'image, même quand ses
+     fiches restent lisibles.** L'agence départementale `audetourisme.com` publie des fiches datées (La Ferme Côté Producteurs, à
+     Narbonne : page mise à jour le 4 juin 2026) et leurs photographies, servies par un hébergeur dont le `robots.txt` n'exclut
+     personne ; mais son propre `robots.txt` interdit `/fr/mentions-legales/`, la seule page qui dirait ce que l'éditeur permet de
+     ses images. La passe de Massy avait déjà renoncé pour la même raison aux images de Destination Paris-Saclay, sans l'écrire en
+     règle. **Tranché ainsi** : la règle 214 interdit de lire ce que le `robots.txt` exclut, et la règle 256 refuse de reprendre une
+     image quand la volonté de l'éditeur ne se lit pas ; une clause d'image inaccessible vaut une clause inconnue, et l'image n'est
+     pas reprise. Les faits des fiches (jours, heures, adresse) restent une source ordinaire, puisque la règle 214 ne vise que ce
+     qu'on ne sert que par la route exclue. **Déblocage** : les mentions sorties du `Disallow`, ou la même photographie publiée par
+     un éditeur dont la clause se lit.
+
+271. **La grille tarifaire des droits de place qu'une commune publie atteste l'existence et le lieu de ses marchés au sens de la
+     règle 16 ; elle ne donne ni le jour ni l'heure.** La Ville de Carcassonne n'a pas de page des marchés : sa page « Occupation
+     commerciale » dit seulement qu'il existe des marchés de consommation et un marché à thème, et renvoie à ses « Tarifs 2026 des
+     occupations commerciales » (PDF de janvier 2026), dont la rubrique « Marchés » nomme « Place Carnot - Bd Roumens - Bd Barbès »
+     et les « Halles couvertes ». La règle 196 refuse un marché que seul l'office recense ; la règle 16 publie un marché que la
+     commune reconnaît sans en donner le jour, si deux annuaires indépendants s'accordent sur le jour et le lieu. **Tranché ainsi** :
+     un acte de la commune qui fixe les droits de place d'un marché nommé par son lieu est une reconnaissance au sens de la règle
+     16 — la commune n'encaisse pas de droits sur un marché qui n'existe pas —, mais il ne dit ni le jour ni l'heure ; ceux-ci
+     viennent des deux annuaires, les heures sont attribuées nommément et la fiche reste `a_confirmer`. Ici : la place Carnot
+     (office de tourisme et Jours-de-Marché d'accord sur mardi, jeudi et samedi matin) est publiée ; le marché du samedi est rangé
+     par l'office « boulevard Commandant Roumens » et par Jours-de-Marché « boulevard Camille Pelletan » — deux voies, un désaccord
+     de lieu au sens de la règle 16 — et il attend en pistes. Pour une halle couverte, qui ouvre tous les jours de la semaine
+     plutôt qu'un jour de marché, la grille atteste l'équipement et l'heure vient de l'office au titre de la règle 204.
+
+
 ## Marchands à confirmer
 
-655 fiches sur 729 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+660 fiches sur 734 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Halles Prosper-Montagné** (Carcassonne) (catégorie et piliers des marchés municipaux, comme les halles de Nîmes ou de Pau ; pas d'`environnement`, aucune source ne classe les halles. **Existence, règle 271** : la Ville tarife les « Halles couvertes » dans sa grille 2026 et loue la salle des halles ; elle ne publie pas d'horaires. **Horaires, règle 204** : ceux de la fiche de l'office de tourisme (mardi-samedi 7h-13h), aucune autre source ne les contredit. **Produits** : la liste de métiers que donne l'office (bouchers, charcutiers, poissonniers, primeurs, volaillers). **Point, règles 63 et 67** : la Base Adresse Nationale ignore la place Eggenfelden (elle rend une autre place de la ville) ; le marqueur de l'office est repris, et son contrôle inverse rend le 23 rue Albert-Tomey à 21 m, l'une des voies qui bordent la halle, à 60 m du milieu de la rue de Verdun. **Photo, règle 231** : la façade à arcades, sans personne, attachée par l'office à la fiche des halles (1 200 × 675) ; le site de l'office n'a qu'une page de crédits, sans clause sur les images ; métadonnées retirées (règle 235).)
+- **Marché de la place Carnot** (Carcassonne) (catégorie et piliers des marchés municipaux ; pas d'`environnement`, règle 68 : l'office écrit « producteurs locaux et bio » le samedi sans classification. **Faits, règles 16 et 271** : la Ville reconnaît le marché dans sa grille tarifaire 2026 ; l'office de tourisme et l'annuaire Jours-de-Marché s'accordent sur mardi, jeudi et samedi matin, place Carnot ; heures 7h-13h attribuées à Jours-de-Marché, l'office n'écrivant que « matins ». **Point** : place Carnot à la Base Adresse Nationale (0,968). **Voisinage, règle 12** : les halles sont à 140 m ; chacune garde son point. **Photo** : la place et sa fontaine, publiée par l'office sur sa page des marchés (1 600 px, ramenée à 1 280) ; une seule personne, de dos, près de la fontaine ; ce n'est pas un jour de marché, la description le dit. Les trois photographies de marché de la même page montrent des clients et des marchands de face et portent la signature d'un photographe en filigrane (règle 75) : aucune n'est reprise. Le crédit nomme l'office, jamais le photographe (règle 268).)
+- **La Borieta, boutique paysanne** (Carcassonne) (catégorie `producteur`, règle 105 : point de vente collectif permanent tenu par ses producteurs. **Registre, règle 6** : l'association Nous Paysans, active, un établissement au 385 boulevard Denis-Papin. **Pilier `environnement`, règle 210** : certificat Qualisud engagé le 9 février 2026, activité « magasin de producteurs », productions déclarées (œufs, fromages, produits laitiers, fruits et légumes). **Adresse, règle 87** : la page « Contacts » du site écrit « 374 boulevard Denis Papin », numéro que la Base Adresse Nationale ignore ; le registre des entreprises, celui de l'Agence Bio et l'office de tourisme donnent le 385, dont le point (0,972) tombe à 30 m du marqueur de l'office : le 385 est retenu. **Horaires, règle 87** : la page d'accueil et la page « Contacts » du même site ne s'accordent pas sur le lundi (15h ou 14h) ni sur le samedi (12h30 ou 13h) ; faute de seconde autorité (l'office ne publie pas d'heures), la fenêtre la plus étroite est publiée et l'autre citée. **Téléphone** : aucun ; le fixe n'est publié que par l'office et le mobile du registre de l'Agence Bio est inscrit sous le nom d'une personne (règle 269). **Photo** : la façade publiée par la boutique sur sa page d'accueil (1 200 px) montre, sous l'enseigne, un groupe d'une trentaine de personnes de face ; recadrée au-dessus des têtes (1 200 × 425), métadonnées retirées ; le site n'a ni `robots.txt` ni clause sur les images.)
+- **Domaine du Lycée Charlemagne** (Carcassonne) (catégorie `producteur`, comme les domaines viticoles. **Registre, règle 6** : l'EARL du domaine est active. **Piliers, règles 14 et 43** : `environnement`, parce que le domaine revendique noir sur blanc l'agriculture biologique et la HVE et que le registre de l'Agence Bio certifie (Ecocert, engagement d'avril 2014) le lycée agricole qui l'exploite, pour ses vins, ses raisins et ses légumes ; `alimentation` au titre du jus de raisin du domaine et des produits de bouche vendus au caveau. **Horaires** : page « Contact » du domaine. **Téléphone** : le seul numéro publié est un mobile que l'office de tourisme imprime à côté de l'adresse électronique d'une personne nommée ; il n'est pas inscrit (règles 229 et 269). **Point, règle 63** : le marqueur de l'office, dont le contrôle inverse rend l'impasse de la Font-Charlemagne à 48 m ; le centre de la route de Saint-Hilaire, que rend la Base Adresse Nationale, est à 300 m au nord. **Photo** : l'entrée du caveau, sans personne, attachée par l'office à la fiche du domaine (1 200 × 900). Les images du site du domaine ne sont pas reprises : l'une reproduit une fresque d'artiste, les autres sont des logos ou une carte postale ancienne.)
+- **Biocoop Tourne Sol** (Carcassonne) (catégorie `magasin-bio`, règles 3 et 95 ; **règle 86 remplie** : le magasin publie sur son site une page de producteurs locaux, avec leur distance au magasin. **Registre, règle 6** : la société Tourne Sol, active, un établissement au 275 boulevard Denis-Papin. **Pilier `environnement`, règle 210** : certificat Ecocert engagé le 15 février 2006, activité « magasin spécialisé bio ». `biocoop.fr` n'est pas consulté (règle 149) ; le site du magasin n'exclut aucun agent d'IA. **Horaires** : site du magasin, confirmés par la fiche du Biocivam de l'Aude. **Voisinage, règle 12** : La Borieta est à 90 m, au 385 ; chacune garde son point. **Photo, règles 1, 203 et 234** : les conditions d'utilisation du site nomment les photographies et en interdisent la reproduction (règle 245), la seule vue du magasin publiée ailleurs (Biocivam) est fermée par une clause identique, et l'office n'a pas de fiche ; la fiche porte une vue d'une écluse du canal du Midi à Carcassonne que l'office publie, équipement public non marchand, et la description dit qu'elle ne montre pas le magasin.)
 - **Marché des Gravilliers** (Athis-Mons) (catégorie et piliers des marchés municipaux. **Faits, règle 178** : page « Les marchés » de la Ville, mise à jour le 7 septembre 2026, et fiche du marché (9 février 2026), dimanche 8h-13h ; les deux concordent. **Produits, règles 69 et 197** : la liste « Ils vous attendent » de la fiche de la Ville (un boucher, un fromager, un primeur, un boulanger, un rôtisseur, deux traiteurs, un fleuriste, une buvette, un stand de vêtements) ; neuf étals sur dix sont alimentaires (règle 119). **Téléphone** : aucun, règle 269. **Point** : 33 avenue François-Mitterrand à la Base Adresse Nationale (0,975), à 92 m du marqueur de la Ville, qui vise le milieu du bâtiment. **Voisinage, règle 12** : le magasin Biovivéo est à 38 m, au 37 ; chacun garde son point. **Photo, règle 253** : photographie de l'intérieur de la halle, mise en ligne par la Ville le 5 juillet 2024 et attachée à la seule fiche de ce marché ; clients et commerçants de face sur les deux tiers de l'image, recadrée sur la vitrine du fromager (778 × 717), métadonnées retirées (règle 235).)
 - **Petit marché du centre-ville** (Athis-Mons) (catégorie et piliers des marchés municipaux. **Faits, règle 178** : page « Les marchés » et fiche du marché (11 juin 2026), vendredi 15h30-20h, place du Général-de-Gaulle devant la mairie. **Produits** : les métiers des commerçants que la fiche de la Ville rattache à ce marché — fromager, primeur, poissonnier, rôtisseur, cuisine cambodgienne — sans nommer les étals dont l'enseigne est faite de prénoms ; un stand de créations artisanales, non alimentaire, est cité dans la description. **Téléphone** : aucun, règle 269. **Point** : place du Général-de-Gaulle à la Base Adresse Nationale (0,955), à 58 m du marqueur de la Ville. **Photo, règle 253** : vue de la place mise en ligne par la Ville le 21 mars 2025, recadrée pour écarter le seul client proche (1 500 px ramenés à 1 280) ; les silhouettes du fond ne sont pas identifiables.)
 - **Petit marché du Val** (Athis-Mons) (catégorie et piliers des marchés municipaux. **Faits, règle 178** : page « Les marchés » (7 septembre 2026) et fiche du marché publiée le même jour, jeudi 16h-20h place Jean-Jaurès ; marché récent, d'où `a_confirmer`. **Produits, règle 92** : deux commerçants seulement, un primeur et un rôtisseur. **Point** : place Jean-Jaurès à la Base Adresse Nationale (0,958), à 10 m du marqueur de la Ville. **Photo, règles 91 et 253** : l'étal du primeur que la Ville a mis en ligne le 10 septembre 2026 sous le nom « …-sur-le-petit-marche-du-Val » ; recadré sous les deux commerçants, au-dessus de la banderole qui porte un numéro mobile et sous une plaque d'immatriculation (848 × 316). Les cageots portent des fruits d'importation : la description ne promet aucun producteur (règle 91). La photographie principale de la même page, prise en septembre 2026, montre des clients et une enfant de face ; son seul recadrage sans personne tombe sous 700 px ou garde le numéro de la banderole, elle n'est pas utilisée.)
@@ -10502,6 +10533,88 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Carcassonne (Aude) — cinq fiches publiées dans la commune, deuxième de la descente
+
+Passe du 23 septembre 2026, après celle d'Athis-Mons. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel. **Classement,
+règle 41**, sur 729 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) : Landes 4,5839 et Eure-et-Loir 4,5792
+(épuisés, règle 265), **Aude (11) 4,0138**, Deux-Sèvres 3,9671, Haute-Vienne 3,9453. La passe précédente visait l'Île-de-France :
+l'Occitanie est ouverte (règle 41.c). L'Aude n'avait jamais été visée. `origin/main` n'avait pas bougé au moment de publier (règle
+241). **Après la passe**, sur 734 fiches : Landes 4,6153 et Eure-et-Loir 4,6106 (épuisés), Deux-Sèvres 3,9943, Haute-Vienne 3,9723,
+Maine-et-Loire 3,8755 ; Aude −0,9587. La passe suivante ne peut pas viser l'Occitanie ; les Deux-Sèvres (Nouvelle-Aquitaine) sont
+ouvertes.
+
+**Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte à cette passe. Le site de la Ville de Capbreton refuse
+toute connexion (`capbreton.fr` comme `www.capbreton.fr`, aux deux agents, règle 237) : la source datée de l'antenne de Capbreton
+reste introuvable, le groupe de Labenne reste à quatre points.
+
+**Descente de l'Aude (règles 41.d et 127)**, communes sans fiche par population ; contrôle en deux requêtes avant toute lecture.
+
+- **Narbonne** (57 587, commune calculée) : **une seule fiche entière**, les halles (voir les pistes ci-dessous). L'office Côte du
+  Midi (`cotedumidi.com`, vers lequel redirige `narbonne-tourisme.com`) répond 403 à l'agent nommé et 200 aux autres : exclusion au
+  sens de la règle 257. Le site de la Ville répond, publie ses marchés avec jours et heures, mais ses mentions légales réservent
+  nommément les « représentations iconographiques et photographiques » et en interdisent la reproduction (règles 230 et 246). Le
+  site du Grand Narbonne a répondu une fois puis plus du tout (règle 237). Les images de l'agence départementale sont fermées par la
+  règle 270 (nouvelle). Deux fiches entières manquent donc, et la règle 127 fait descendre.
+- **Carcassonne** (46 080) : **cinq fiches**, toutes dans la commune, à moins de 2,7 km du centre que donne `geo.api.gouv.fr` —
+  les halles Prosper-Montagné et le marché de la place Carnot (Bastide Saint-Louis), La Borieta et le magasin Biocoop Tourne Sol
+  (boulevard Denis-Papin, zone de la Bouriette), le caveau du Domaine du Lycée Charlemagne (au pied de la Cité). Quatre portent une
+  photographie du lieu ; la cinquième, au titre des règles 1, 167 et 203, une photographie thématique de la commune. Sources : la
+  Ville (grille tarifaire 2026, carte des commerces de la Bastide), l'office municipal de tourisme, qui n'a pas de clause sur les
+  images, l'annuaire Jours-de-Marché, les sites des commerces, le Biocivam de l'Aude et les deux registres.
+  **Règle 167** : Carcassonne a rendu plus de cinq candidates ; la cinquième place est allée à la seule catégorie absente
+  (`magasin-bio`), et entre les deux magasins bio instruits, à celui qui publie ses producteurs (règle 86).
+
+### Pistes non publiées à Narbonne et à Carcassonne
+
+Passe du 23 septembre 2026 (Aude). Sections de pistes : la passe qui reviendra dans l'Aude reprend d'abord les fiches nommément
+désignées pour la reprise (règles 249 et 258), puis la descente à **Castelnaudary** (12 151), troisième commune ; Narbonne et
+Carcassonne sont éprouvées.
+
+**Narbonne — désignée pour la reprise (règle 258)**
+
+- **Les Halles de Narbonne** : fiche **entière**. Marché couvert municipal du boulevard du Docteur-Ferroul (1, point à la Base Adresse
+  Nationale, 0,968), pavillon de type Baltard centenaire, plus de 70 commerces de bouche. Horaires : la Ville écrit « 365 jours par an
+  de 7h à 14h » ; l'affiche de l'association des commerçants (avril 2024) écrit « tous les jours de 7h à 14h », « service minimum les
+  lundis », fermetures exceptionnelles des lundis de janvier à mars et d'octobre à novembre. Téléphone fixe de l'association, que la
+  Ville publie aussi. Site de l'association (`narbonne.halles.fr`) : `robots.txt` ouvert, seulement un pied de page « Tous droits
+  réservés » (règle 231). Photographie retenue : l'allée centrale sous la charpente métallique (2 560 px, mise en ligne en mars
+  2021), recadrée au-dessus des clients et à gauche de l'enseigne d'un fromager qui porte le nom d'une personne (règle 75), 1 280 ×
+  676. La façade publiée par le même site a été écartée : ses vitrages portent des portraits d'archives agrandis.
+- **La Ferme Côté Producteurs** (1 rue René-Panhard, ZI Croix Sud ; point à la Base Adresse Nationale, 0,969) : magasin de
+  producteurs ouvert en 2013 par des agriculteurs, dix associés et plus de quarante apporteurs, du lundi au samedi de 9h à 19h selon
+  la fiche de l'agence départementale mise à jour le 4 juin 2026. **Faits entiers, image manquante** : le site de son drive interdit
+  la reproduction des « images » et « photographies », son hébergeur d'images interdit tout robot, et les images de l'agence
+  départementale relèvent de la règle 270. **Déblocage** : une photographie sous une clause lisible (Ville, magasin, agence).
+- **Biocoop Terrabio** (trois magasins : centre, boulevard Marcel-Sembat ; sud, rue du Rec-de-Veyret ; est, espace Lacoste) :
+  horaires et téléphones sur le site du magasin (`biocoop-narbonne.com`), qui n'exclut personne ; la seule photographie qu'il
+  publie fait 328 px, sous le plancher de la règle 59. **Déblocage** : une vue d'au moins 600 px.
+- **Marchés de la Ville** (cours Mirabeau et quai Vallière, jeudi et dimanche ; place au Blé, mardi ; Razimbaud, mardi ;
+  Saint-Jean-Saint-Pierre, samedi ; marché bio du samedi, cours Mirabeau, 8h-13h ; Narbonne-Plage) : jours, lieux et heures publiés
+  par la Ville, aucune photographie permise (voir ci-dessus).
+- **Un domaine viticole du massif de la Clape** : son `robots.txt` répond une erreur 500 et son site refuse l'agent par défaut ;
+  la volonté de l'éditeur ne se lit pas (règle 256), site non retenu comme source.
+- Narbonne, AMAP : lieu de distribution dont le nom peut désigner le domicile d'une personne (règle 243), aucune image — non publiée,
+  ne se rouvre pas.
+
+**Carcassonne — pistes**
+
+- **BioVivre** (104 rue de Verdun, magasin bio indépendant depuis 1976) : horaires publiés à l'identique par le magasin et par la
+  carte des commerces de la Ville (lundi-samedi 9h30-13h30 et 14h30-19h30) ; ses mentions légales interdisent la reproduction des
+  « images », et il ne nomme pas ses fournisseurs (règle 86). Écarté par la règle 167 au profit de Tourne Sol.
+- **Marché du samedi, boulevard Commandant-Roumens** : désaccord de lieu entre l'office et Jours-de-Marché (règle 271), et toutes
+  les photographies de l'office montrent des visages. **Déblocage** : la Ville publiant le lieu, ou deux annuaires d'accord.
+- **Marché de Casson** (place de Montréal, mardi) : un seul annuaire le recense, la grille de la Ville ne le nomme pas (règle 196).
+- **Les Fermiers Occitans** (142 boulevard Denis-Papin, boutique d'une coopérative agricole) : aucune source ne publie ses heures
+  (règle 192).
+- **Épicerie fine de la rue de Verdun** : « produits d'ici et d'ailleurs », sans fournisseur nommé (règle 86).
+- Carcassonne, épicerie de producteurs de la zone de la Bouriette : enseigne formée d'un patronyme (règle 259) — non publiée, ne se
+  rouvre pas.
+- **Trèbes** (Carcassonne Agglo, 8 km) : marché du dimanche, 7h30-13h, avenue Pierre-Curie le long du canal, organisé par la commune
+  (`ville-trebes.com`, règlement en ligne) ; les mentions légales de la Ville interdisent la reproduction des « images » : pas
+  d'image, non nécessaire à cette passe. Le site de l'office intercommunal (`grand-carcassonne-tourisme.fr`) répond 403 à l'agent
+  nommé (règle 257) ; celui d'un château viticole de Pennautier exclut `ClaudeBot` dans son `robots.txt` (règle 77) — ce qui a été
+  lu de sa page d'accueil avant de lire le fichier n'a nourri aucune fiche.
 
 ### Passe d'Athis-Mons (Essonne) — cinq fiches publiées dans la commune, quatrième de la descente
 

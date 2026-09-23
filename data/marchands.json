@@ -19396,5 +19396,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Biovivéo+37+avenue+Fran%C3%A7ois+Mitterrand+Athis-Mons",
     "image_url": "/images/marchands/biocoop-bioviveo-athis-mons.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-prosper-montagne-carcassonne",
+    "nom": "Halles Prosper-Montagné",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.212132,
+    "lon": 2.350777,
+    "adresse": "Place Eggenfelden (rue de Verdun), 11000 Carcassonne",
+    "horaires": "Du mardi au samedi de 7h à 13h ; fermé le dimanche et le lundi (fiche de l'office de tourisme de Carcassonne ; la Ville, qui tarife les « halles couvertes », ne publie pas d'horaires).",
+    "produits": [
+      "Boucherie",
+      "Charcuterie",
+      "Poissonnerie",
+      "Fruits et légumes",
+      "Volailles"
+    ],
+    "description": "Marché couvert municipal de la Bastide Saint-Louis, installé dans l'ancienne halle aux grains du XVIIIe siècle dont la Ville décrit la charpente. L'office de tourisme y annonce des bouchers, charcutiers, poissonniers, primeurs et volaillers aux produits de la région. Photo : Office de tourisme de Carcassonne (tourisme-carcassonne.fr), façade des halles.",
+    "site_web": "https://www.tourisme-carcassonne.fr/commerce-organisme/les-halles-prosper-montagne/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+Prosper+Montagn%C3%A9+Carcassonne",
+    "image_url": "/images/marchands/halles-prosper-montagne-carcassonne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-carnot-carcassonne",
+    "nom": "Marché de la place Carnot",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.21312,
+    "lon": 2.351801,
+    "adresse": "Place Carnot, 11000 Carcassonne",
+    "horaires": "Le mardi, le jeudi et le samedi matin. Heures : de 7h à 13h selon l'annuaire Jours-de-Marché ; l'office de tourisme écrit « matins » et la Ville, qui tarife le marché, ne publie pas d'heures.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits de producteurs locaux (samedi)",
+      "Produits biologiques (samedi)"
+    ],
+    "description": "Marché de plein air de la place centrale de la Bastide, autour de la fontaine de Neptune : fruits et légumes le mardi et le jeudi, producteurs locaux et bio le samedi, en complément du marché du boulevard Roumens (office de tourisme). Photo : Office de tourisme de Carcassonne (tourisme-carcassonne.fr), la place et sa fontaine hors jour de marché.",
+    "site_web": "https://www.tourisme-carcassonne.fr/preparer/restaurants-gastronomie/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Carnot+11000+Carcassonne",
+    "image_url": "/images/marchands/marche-place-carnot-carcassonne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-borieta-carcassonne",
+    "nom": "La Borieta, boutique paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.207707,
+    "lon": 2.31712,
+    "adresse": "385 boulevard Denis Papin, 11000 Carcassonne",
+    "horaires": "Le lundi de 15h à 19h, du mardi au vendredi de 9h à 19h, le samedi de 9h à 12h30 ; fermé le dimanche (page d'accueil du site ; sa page « Contacts » écrit lundi 14h-19h et samedi 9h-13h).",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Viandes",
+      "Fromages et produits laitiers",
+      "Pain",
+      "Vins",
+      "Miel",
+      "Épicerie et vrac"
+    ],
+    "description": "Point de vente collectif tenu par l'association de producteurs Nous Paysans, qui réunit plus de 70 fermes et ateliers à moins de 100 km, toutes en agriculture biologique, en conversion ou sous mention Nature & Progrès ; un producteur ou une productrice tient la boutique chaque jour. Le registre de l'Agence Bio l'inscrit comme magasin de producteurs, certifié par Qualisud. Photo : site de la boutique (boutiquelaborieta.fr), recadrée sur l'enseigne.",
+    "site_web": "https://boutiquelaborieta.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Borieta+385+boulevard+Denis+Papin+Carcassonne",
+    "image_url": "/images/marchands/la-borieta-carcassonne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-du-lycee-charlemagne-carcassonne",
+    "nom": "Domaine du Lycée Charlemagne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.196985,
+    "lon": 2.356022,
+    "adresse": "Route de Saint-Hilaire, 11000 Carcassonne",
+    "horaires": "Caveau ouvert du jeudi au samedi de 10h à 12h et de 14h à 18h ; fermé le dimanche et le lundi ; le mardi et le mercredi sur rendez-vous (page « Contact » du domaine).",
+    "produits": [
+      "Vins IGP Cité de Carcassonne",
+      "Jus de raisin",
+      "Huile d'olive",
+      "Miel",
+      "Conserves et pâtés de l'Aude"
+    ],
+    "description": "Domaine viticole du lycée agricole de Carcassonne, au pied de la Cité : 25 ha de vigne que le domaine déclare conduits en agriculture biologique et en HVE, et dont le registre de l'Agence Bio certifie les vins au nom du lycée (Ecocert). Le caveau, réhabilité en 2018, vend les vins et jus du domaine et des produits de la marque Pays cathare. Photo : Office de tourisme de Carcassonne (tourisme-carcassonne.fr), entrée du caveau.",
+    "site_web": "https://domainelyceecharlemagne.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Lyc%C3%A9e+Charlemagne+Route+de+Saint-Hilaire+Carcassonne",
+    "image_url": "/images/marchands/domaine-du-lycee-charlemagne-carcassonne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-tourne-sol-carcassonne",
+    "nom": "Biocoop Tourne Sol",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.207339,
+    "lon": 2.316055,
+    "adresse": "275 boulevard Denis Papin, 11000 Carcassonne",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30 ; fermé le dimanche (site du magasin, confirmé par l'annuaire du Biocivam de l'Aude).",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Boucherie et charcuterie",
+      "Pain",
+      "Fromagerie",
+      "Épicerie et vrac",
+      "Produits d'entretien et cosmétiques"
+    ],
+    "description": "Magasin bio indépendant du réseau Biocoop, ouvert en 1994 près de Grand Frais, avec rayons boucherie, boulangerie et fromagerie ; il publie une liste de fournisseurs locaux situés de 2 à 123 km du magasin. Certifié par Ecocert depuis 2006 au registre de l'Agence Bio. Photo thématique : écluse du canal du Midi à Carcassonne, Office de tourisme de Carcassonne (tourisme-carcassonne.fr) ; elle ne montre pas le magasin.",
+    "telephone": "04 68 72 47 62",
+    "site_web": "https://www.tourne-sol-biocoop.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Tourne+Sol+275+boulevard+Denis+Papin+Carcassonne",
+    "image_url": "/images/marchands/biocoop-tourne-sol-carcassonne.jpg",
+    "a_confirmer": true
   }
 ]
