@@ -3627,9 +3627,24 @@ prioritaires en cas de conflit.
      l'exposant lui-même prend une troisième photographie, d'un autre marché. Ce que la règle débloque : les marchés couverts
      d'une ville qui ferme toutes ses images, dès qu'un de leurs exposants publie son étal.
 
+287. **Quand ni la BAN ni le registre ne placent un établissement, le point qu'une autorité publique donne au bâtiment qui
+     l'abrite le remplace.** À Saint-Étienne-du-Rouvray, Le Producteur Local tient boutique à la Maison du Parc, allée du Champ
+     de Course. La Base Adresse Nationale ne connaît pas cette allée : elle ne rend que la rue du Champ des Bruyères, à 0,52 et
+     à près de 2 km de là. Le registre des entreprises connaît l'établissement actif à cette adresse, mais sans coordonnées.
+     L'ordre suivi jusqu'ici (BAN, puis registre, puis fiche d'office de tourisme, puis marqueur du commerce, règle 63)
+     s'arrêtait là. L'annuaire Mon Panier 76 du Département place l'AMAP qui distribue dans la cuisine pédagogique de la même
+     Maison du Parc, allée du Champ de Course. **Tranché ainsi** : après le registre, le point qu'un annuaire de collectivité
+     donne à un autre occupant du même bâtiment, nommé et à la même adresse, vaut pour l'établissement ; la section de la passe
+     le dit, et la fiche passe en `a_confirmer`. Ce point doit rester cohérent avec les sources : ici, il tombe à 250 m de
+     l'entrée de la ferme pédagogique géocodée au numéro par la BAN, dans le même parc de 28 hectares. Un point de collectivité posé sur une voie ou sur le centre de la commune ne suffit pas.
+
 ## Marchands à confirmer
 
-682 fiches sur 763 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+686 fiches sur 768 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Le Producteur Local — Champ des Bruyères** (Saint-Étienne-du-Rouvray) (catégorie `producteur`, boutique coopérative (règle 105), précédent de Beauvais. **Registre, règle 6** : établissement actif au 5 allée du Champ de Course, ouvert en août 2023, rattaché à la société coopérative de Belbeuf, ce qui explique le numéro commun aux deux boutiques. **Horaires, règle 5** : du lundi au samedi pour la coopérative (2026), du mardi au samedi pour la Métropole (2023) ; la version du commerçant, plus récente, est publiée et l'autre citée. **Point** : la BAN ne connaît pas l'allée du Champ de Course et le registre ne géocode pas l'établissement ; le point est celui que l'annuaire Mon Panier 76 du Département donne à la Maison du Parc (règle 287). **Photo, règles 1, 228 et 239** : le site de la coopérative réserve ses « représentations photographiques » ; la fiche porte la vue d'ensemble du parc publiée par la Métropole, qui autorise la reproduction électronique en citant la source avec la mention « Droits réservés ». Elle ne montre pas la boutique.)
+- **Ferme pédagogique du Champ des Bruyères — mercredis de Triticum** (Saint-Étienne-du-Rouvray) (catégorie `ferme`. **Association** : le registre ne s'applique pas (règle 6) ; l'association est active à son siège rouennais, et le registre de l'Agence Bio inscrit la ferme des Bruyères parmi ses lieux d'activité (céréales et légumes, certification en cours). **Source datée** : la page de la ferme annonce le programme du parc de juillet à décembre 2026. **Point** : la BAN au numéro 7 de la rue du Madrillet (0,972), en face de l'entrée ; le point de l'Agence Bio est à 50 m. **Piliers** : pas `economie`, la vente n'étant qu'un volet d'une ferme d'animation. **Photo** : une parcelle de blés en moisson publiée par l'association, dont les mentions légales ne disent rien des images, recadrée sur les épis pour écarter trois personnes au travail. La photographie du moulin publiée par l'association montre un autre lieu, sous son logo : elle n'est pas utilisée.)
+- **Marchés de la place Voltaire** (Sotteville-lès-Rouen) (catégorie `marche`. Heures du mardi : page des marchés de la Ville, modifiée en juillet 2026. **Produits** : aucune source ne publie les étals du mardi ; les trois produits cités sont ceux que la Ville annonce pour ses marchés de fin de journée sur la même place (règle 103). **Photo** : un étal du marché de fin de journée d'avril 2025, publiée par la Ville ; le paragraphe « Propriété intellectuelle » ne parle que de « contenus » (règle 231). Recadrée sous la ligne des visages.)
+- **Marché de la place de Verdun** (Sotteville-lès-Rouen) (catégorie `marche`. **Horaires, règle 5** : 8h-13h pour la Ville (juillet 2026), 8h-12h pour Mon Panier 76 ; la Ville est publiée, l'annuaire cité. **Photo, règle 1** : la seule autre photographie de marché publiée par la Ville est un étal de fleurs sur sa page des marchés, sans indication de lieu. C'est une photo thématique de la commune, recadrée sous les visages flous du fond, et la description dit qu'elle ne montre pas forcément ce marché.)
 - **Marché Victor-Hugo** (Angoulême) (catégorie `marche`. **Horaires, règle 5** : 8h30-13h pour la Ville (fiche du lieu), 7h-13h pour le site du marché (page de décembre 2023) ; les deux sont publiés. La Ville ne le publie qu'à un endroit ; le site de l'organisateur et celui de la Régie urbaine (juillet 2026) le confirment. **Point** : Base Adresse Nationale, niveau rue (0,964). Le site `marche-victor-hugo.fr`, avec tirets, est un homonyme toulousain (règle 56). **Photo, règle 286** : l'étal de la Régie urbaine sur ce marché, recadré sans visage ; les images du site du marché sont fermées par sa clause.)
 - **La Débauche** (Angoulême) (catégorie `producteur`, brasserie artisanale (règle 4). **Registre, règle 6** : société active au 13 rue des Lignes, activité de fabrication de bière. **Piliers, règles 14, 15 et 39** : le certificat Ecocert ne couvre que les boissons sans alcool, dont la vente à la taproom n'est pas vérifiée : `economie` seul. La brasserie a aussi une activité de négoce de boissons. **Photo** : barriques, site de la brasserie (826 px), clause générale sans mention d'image (règle 231).)
 - **Boutique du Domaine de l'Oisellerie** (La Couronne) (catégorie `producteur`, exploitation d'un lycée agricole public, à 4,9 km de l'hôtel de ville d'Angoulême dans GrandAngoulême (règle 96). **Registre** : établissement public actif à cette adresse. **Agence Bio** : Ecocert depuis 2009, vins et jus de raisin. **Point** : adresse du lycée au numéro (0,956) ; l'emplacement exact de la boutique sur le domaine n'est pas publié, et le veau n'est vendu que « régulièrement ». **Photo** : intérieur de la boutique, site du domaine, sans mention légale.)
@@ -10696,6 +10711,104 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Saint-Étienne-du-Rouvray (Seine-Maritime) : cinq fiches publiées, Val-d'Oise épuisé
+
+Passe du 24 septembre 2026 (nuit), après la passe d'Angoulême. Aucune demande de visiteur (ni nouvelle, ni en cours), aucun
+courriel. **Reprise (règles 264 à 266)** : la passe précédente visait la Nouvelle-Aquitaine. La vérification du groupe de
+Labenne revient donc à la prochaine passe autorisée dans cette région (règle 266), et rien n'y a été tenté. **Classement,
+règle 41**, recalculé sur 763 fiches, sans changement : Oise 5,1833, Landes 4,7977 et Eure-et-Loir 4,7928 (épuisés, règle 265),
+**Val-d'Oise (95) 4,1822**, **Seine-Maritime (76) 3,9532**, Nord 3,9434. Ni l'Île-de-France ni la Normandie ne sont exclues
+(règle 41.c).
+
+**Val-d'Oise : dix communes (règles 247 et 127), reprises à Bernes-sur-Oise.** Aucune ne rend une fiche entière :
+
+1. **Bernes-sur-Oise** (2 684) : le marché de producteurs et créateurs de la place de la Mairie existe (page de la Ville, planning
+   2026, mardis de 16h à 20h). Mais la page annonce les premier et troisième mardis du mois, alors que l'agenda donne deux mardis
+   consécutifs en octobre. Et les mentions légales de la Ville nomment les « images, photographies » et en réservent l'usage au
+   cadre privé (règle 246). Un distributeur de produits locaux n'a pas d'exploitant retrouvé au registre. **Zéro.** Déblocage :
+   une photographie permise du marché et un rythme publié sans contradiction.
+2. **Roissy-en-France** (2 674) : ni marché, ni AMAP, ni producteur ; au registre bio, des supermarchés et des grossistes. **Zéro.**
+3. **Butry-sur-Oise** (2 252) : le site de la Ville est en construction ; une exploitation fourragère est écartée pour son nom.
+   **Zéro.**
+4. **Belloy-en-France** (2 250) : un marché nocturne ponctuel, pas de marché régulier ; un grossiste au registre bio. **Zéro.**
+5. **Ennery** (2 243) : pas de marché hors Noël. Attention, `ville-ennery.fr` est le site de l'Ennery de Moselle. **Zéro.**
+6. **Fontenay-en-Parisis** (2 219) : une ferme maraîchère bio active au registre, sous un nom de lieu, mais sans aucun horaire
+   publié (règle 192). Ses homonymes du Nord occupent les annuaires. Une société est écartée pour son nom. **Zéro.**
+7. **Boissy-l'Aillerie** (2 120) : ni marché ni ferme ; un verger bio ne publie aucun point de vente. **Zéro.**
+8. **Neuville-sur-Oise** (2 058) : la Ville oppose un défi anti-robot à tout agent (règle 237) ; une exploitation est écartée pour
+   son nom. **Zéro.**
+9. **Baillet-en-France** (2 021) : une seule exploitation bio, qui ne fait que produire, écartée pour son nom. **Zéro.**
+10. **Chars** (2 006) : le moulin est inscrit comme grossiste. Le marché du samedi n'a plus de page à la Ville (404) et sa dernière
+    trace datée remonte à 2021 (règle 195). **Zéro.**
+
+La commune suivante, Attainville, compte 1 904 habitants : **le Val-d'Oise est épuisé** (règle 265). Au titre de la règle 267, le
+reste de la borne (deux communes) passe au suivant du classement, la Seine-Maritime, qui devient le premier département au sens de
+la règle 248. Si elle échouait, le Nord aurait reçu les deux communes suivantes.
+
+**Seine-Maritime : Saint-Étienne-du-Rouvray fait la passe (règles 127 et 96).** Saint-Étienne-du-Rouvray (29 518 habitants), commune
+la plus peuplée du département sans aucune fiche, rend deux fiches entières. Les deux sont dans le Parc naturel urbain du Champ
+des Bruyères, que la Métropole a ouvert à la limite nord de la commune :
+
+- **Le Producteur Local — Champ des Bruyères**, boutique coopérative de producteurs à la Maison du Parc. Établissement actif au
+  registre. Horaires publiés par la coopérative en 2026. Point placé par la règle 287. Photographie du parc publiée par la
+  Métropole (règle 239 : reproduction électronique permise, source citée, « Droits réservés ») ;
+- la **ferme pédagogique** que la Métropole a confiée à deux associations, où l'une d'elles, Triticum, vend chaque mercredi de 14h
+  à 17h la farine et le pain au levain bio de ses blés paysans (sa page, programme de juillet à décembre 2026). Photographie de
+  moisson publiée par l'association, recadrée sans personne.
+
+Métropole Rouen Normandie complète la zone (même EPCI au référentiel, règle 219) avec trois marchés de Sotteville-lès-Rouen,
+commune limitrophe. La Ville publie leurs heures sur une page modifiée le 20 juillet 2026, et son paragraphe « Propriété
+intellectuelle » ne parle que de « contenus », sans nommer d'image (règle 231) :
+
+- le **marché de la place de l'Hôtel de Ville**, le jeudi et le dimanche de 8h à 13h, environ 180 étals le dimanche. Photographie
+  aérienne de la Ville, où personne n'est reconnaissable ;
+- les **marchés de la place Voltaire**, le mardi de 8h à 12h, avec les marchés de fin de journée de la Ville (prochain : le
+  7 octobre 2026) ;
+- le **marché de la place de Verdun**, le samedi.
+
+Distances depuis le centre de Saint-Étienne-du-Rouvray donné par `geo.api.gouv.fr` : Verdun 2,2 km, ferme 2,7 km, boutique
+2,9 km, Hôtel de Ville 3,5 km, Voltaire 4,5 km. Toutes sont sous les quinze kilomètres de la règle 96, et deux sont dans la
+commune elle-même. Les images viennent de trois éditeurs, sans en répéter aucune (règle 66). Chaque fichier a été réencodé depuis
+ses seuls pixels (règle 235).
+
+**Contradictions consignées (règle 5)** :
+
+- jours d'ouverture de la boutique : du lundi au samedi selon la coopérative (2026), du mardi au samedi selon la Métropole (2023).
+  La première est publiée, la seconde citée ;
+- fin du marché de Verdun : 13h pour la Ville, 12h pour l'annuaire Mon Panier 76 du Département. La Ville est publiée.
+
+**Pistes non publiées à Saint-Étienne-du-Rouvray et à Sotteville-lès-Rouen** :
+
+- **les deux marchés de Saint-Étienne-du-Rouvray** (le Madrillet le mercredi 8h-13h, l'Église le dimanche 8h-12h30). Leur seule
+  page date de décembre 2024, au-delà de douze mois (règle 195 par analogie), et la Ville interdit la reproduction de ses
+  « images ». Déblocage : une page datée de moins de douze mois et une photographie permise ;
+- **les AMAP de la commune** : Mon Panier 76 en recense deux, dont celle de la Maison du Parc, sans jour ni heure. Une autre
+  mention ne se trouve que sur un réseau social, et le site du réseau régional des AMAP de Normandie ne répond plus depuis cet
+  environnement (règles 195 et 237) ;
+- **une ferme maraîchère bio de la ferme pédagogique**, association dont le site ne répond pas et qui ne publie aucun horaire de
+  vente (règle 192) ;
+- **les serres horticoles de la rue de Couronne**, qui vendent aussi leurs légumes (article de la Ville, août 2026) : aucun horaire
+  publié par une source consultable ;
+- **le magasin de producteurs du Parc Bertel** à Sotteville, actif au registre. Ses horaires ne viennent que d'un annuaire
+  municipal non daté, et la seule image de l'annuaire départemental vient d'une banque d'images (règle 70). Déblocage : une page
+  datée du magasin avec une photographie permise.
+
+Écartés : un atelier de confection en lin (hors alimentation), des supermarchés et des grossistes du registre bio, des certifications
+arrêtées.
+
+**Après la passe**, sur 768 fiches : le Val-d'Oise (4,2751) est épuisé, le **Nord 4,1330** est le premier non épuisé, puis la
+Seine-Saint-Denis 3,9827. La Seine-Maritime passe à −0,9553. La passe suivante ne peut pas viser la Normandie (règle 41.c) ; le Nord,
+en Hauts-de-France, reste possible, et sa descente commence à Wattrelos, commune la plus peuplée du Nord sans fiche.
+
+**Données personnelles écartées** : à Saint-Étienne-du-Rouvray, une boulangerie bio à nom patronymique, les prénoms des salariés de
+la boutique et le nom des exploitants des serres cités par la Ville, les responsables nommés des mentions légales et le crédit des
+photographes de la Métropole, dont les initiales figurent dans le nom de fichier de la photographie du parc, renommée ici. S'y ajoutent une entreprise individuelle
+inscrite sous le nom de son exploitant au registre bio, le
+portable et l'adresse personnelle d'une association, le nom du président et le portable du magasin de Sotteville, et la fondatrice
+de la coopérative, nommée dans l'article de la Métropole. Dans le Val-d'Oise : des exploitations à Butry-sur-Oise,
+Fontenay-en-Parisis, Neuville-sur-Oise, Baillet-en-France et Bernes-sur-Oise. Aucun n'apparaît ici, dans un commit ni dans un nom
+de fichier.
 
 ### Passe d'Angoulême (Charente) — cinq fiches publiées, commune calculée ; douze communes du Val-d'Oise éprouvées sans zone
 

@@ -20308,5 +20308,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+l'Oisellerie+40+All%C3%A9e+de+l'Oisellerie+16400+La+Couronne",
     "image_url": "/images/marchands/boutique-domaine-oisellerie-la-couronne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "le-producteur-local-champ-des-bruyeres-saint-etienne-du-rouvray",
+    "nom": "Le Producteur Local — Champ des Bruyères",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.406766,
+    "lon": 1.072788,
+    "adresse": "Maison du Parc, 5 allée du Champ de Course, 76800 Saint-Étienne-du-Rouvray",
+    "horaires": "Du lundi au samedi de 9h30 à 19h, d'après le site de la coopérative (2026). À l'ouverture, en septembre 2023, la Métropole annonçait du mardi au samedi de 9h30 à 19h.",
+    "produits": [
+      "Fruits et légumes",
+      "Pain",
+      "Viande",
+      "Poisson",
+      "Crémerie et produits laitiers fermiers",
+      "Œufs",
+      "Miel",
+      "Épicerie sucrée et salée"
+    ],
+    "description": "Boutique coopérative ouverte en 2023 à la Maison du Parc, à l'entrée du Parc naturel urbain du Champ des Bruyères, après un appel d'offres de la Métropole ; une trentaine de producteurs et d'artisans normands y vendent eux-mêmes, la coopérative ne prenant aucune marge. Photo : vue d'ensemble du parc du Champ des Bruyères, pas de la boutique, Métropole Rouen Normandie (metropole-rouen-normandie.fr), droits réservés.",
+    "telephone": "02 35 02 04 48",
+    "site_web": "https://leproducteurlocal.fr/contacts-services",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Producteur+Local+Maison+du+Parc+all%C3%A9e+du+Champ+de+Course+76800+Saint-%C3%89tienne-du-Rouvray",
+    "image_url": "/images/marchands/le-producteur-local-champ-des-bruyeres-saint-etienne-du-rouvray.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-pedagogique-champ-des-bruyeres-saint-etienne-du-rouvray",
+    "nom": "Ferme pédagogique du Champ des Bruyères — mercredis de Triticum",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social"
+    ],
+    "lat": 49.405696,
+    "lon": 1.075784,
+    "adresse": "Face au 7 rue du Madrillet (entrée du 2 ter), 76800 Saint-Étienne-du-Rouvray",
+    "horaires": "Tous les mercredis de 14h à 17h, sauf jours fériés (site de l'association Triticum, programme 2026). Entrée libre.",
+    "produits": [
+      "Pain au levain bio",
+      "Farines bio de céréales de pays",
+      "Semences paysannes potagères (prix libre)",
+      "Semences de céréales anciennes"
+    ],
+    "description": "Ferme citoyenne en agroécologie du Parc naturel urbain du Champ des Bruyères, confiée par la Métropole aux associations Triticum et Le Champ des Possibles ; le mercredi après-midi, Triticum y vend la farine et le pain au levain bio issus de ses blés de semences paysannes. Photo : parcelle de céréales de la ferme au moment de la moisson, publiée par l'association (triticum.fr), recadrée.",
+    "site_web": "https://www.triticum.fr/ferme-pedagogique-des-bruyeres",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7+rue+du+Madrillet+76800+Saint-%C3%89tienne-du-Rouvray",
+    "image_url": "/images/marchands/ferme-pedagogique-champ-des-bruyeres-saint-etienne-du-rouvray.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-hotel-de-ville-sotteville-les-rouen",
+    "nom": "Marché de la place de l'Hôtel de Ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.415202,
+    "lon": 1.089888,
+    "adresse": "Place de l'Hôtel de Ville, 76300 Sotteville-lès-Rouen",
+    "horaires": "Jeudi et dimanche de 8h à 13h (Ville de Sotteville-lès-Rouen, page des marchés, juillet 2026).",
+    "produits": [
+      "Légumes de saison et pommes de terre",
+      "Fraises",
+      "Œufs",
+      "Fromages de vache et de chèvre, Neufchâtel",
+      "Beurre et crème",
+      "Volailles et lapin",
+      "Porc, agneau et charcuterie",
+      "Plats cuisinés"
+    ],
+    "description": "Le grand marché de Sotteville, géré par la Ville avec le comité de promotion des marchés : environ 180 étals le dimanche, l'un des plus grands de France selon la Ville. Les produits listés sont ceux que recense l'annuaire Mon Panier 76 du Département. Photo : le marché vu d'en haut, Ville de Sotteville-lès-Rouen (sotteville-les-rouen.fr).",
+    "telephone": "02 35 63 62 47",
+    "site_web": "https://sotteville-les-rouen.fr/vivre/economie-commerce/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+l'H%C3%B4tel+de+Ville+76300+Sotteville-l%C3%A8s-Rouen",
+    "image_url": "/images/marchands/marche-hotel-de-ville-sotteville-les-rouen.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "marches-place-voltaire-sotteville-les-rouen",
+    "nom": "Marchés de la place Voltaire",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.423973,
+    "lon": 1.089028,
+    "adresse": "Place Voltaire, 76300 Sotteville-lès-Rouen",
+    "horaires": "Mardi de 8h à 12h (Ville de Sotteville-lès-Rouen, juillet 2026). Un marché de fin de journée s'y tient aussi certains mercredis de 15h à 19h ; prochaine date annoncée par la Ville : mercredi 7 octobre 2026.",
+    "produits": [
+      "Fruits et légumes",
+      "Miel",
+      "Bière locale"
+    ],
+    "description": "Marché de quartier du mardi matin, au nord de la commune, que la Ville complète depuis 2025 par des marchés de fin de journée en semaine. Aucune source ne publie la liste des étals du mardi : les produits cités sont ceux que la Ville annonce pour les marchés de fin de journée. Photo : un étal de fruits sur la place Voltaire, Ville de Sotteville-lès-Rouen (sotteville-les-rouen.fr), recadrée.",
+    "telephone": "02 35 63 62 47",
+    "site_web": "https://sotteville-les-rouen.fr/vivre/economie-commerce/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Voltaire+76300+Sotteville-l%C3%A8s-Rouen",
+    "image_url": "/images/marchands/marches-place-voltaire-sotteville-les-rouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-verdun-sotteville-les-rouen",
+    "nom": "Marché de la place de Verdun",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.40245,
+    "lon": 1.081114,
+    "adresse": "Place de Verdun, 76300 Sotteville-lès-Rouen",
+    "horaires": "Samedi de 8h à 13h selon la Ville de Sotteville-lès-Rouen (juillet 2026) ; l'annuaire Mon Panier 76 du Département indique 8h-12h.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers et œufs",
+      "Épicerie",
+      "Boissons"
+    ],
+    "description": "Marché du samedi matin dans le sud de la commune, à moins de 3 km du Champ des Bruyères. Les familles de produits sont celles que recense l'annuaire Mon Panier 76 ; la Ville n'en publie pas le détail. Photo : étal de fleurs d'un marché sottevillais, publiée par la Ville sur sa page des marchés (sotteville-les-rouen.fr), sans précision du lieu, recadrée.",
+    "telephone": "02 35 63 62 47",
+    "site_web": "https://sotteville-les-rouen.fr/vivre/economie-commerce/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+Verdun+76300+Sotteville-l%C3%A8s-Rouen",
+    "image_url": "/images/marchands/marche-de-verdun-sotteville-les-rouen.jpg",
+    "a_confirmer": true
   }
 ]
