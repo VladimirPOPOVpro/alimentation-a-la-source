@@ -3378,6 +3378,28 @@ prioritaires en cas de conflit.
      (Maremne Adour Côte Sud, 13,9 km du centre de Labenne), est un cinquième point recevable pour ce groupe ; il ne lui manque
      qu'une image (voir la section de pistes du 23 septembre 2026, quatrième passe).
 
+263. **Une photographie qu'une commune publie sur sa propre page consacrée à un producteur se lit sous le régime du site de la
+     commune, même quand le site du producteur ferme ses images.** La commune de Saint-Jean-de-Marsacq consacre une page aux
+     Jardins de Castelnau, illustrée de quatre photographies qu'elle sert depuis son propre domaine ; son `robots.txt`
+     n'exclut personne, et son site n'a pas de mentions légales — seul un pied de page « Tous droits réservés » qui ne nomme
+     aucune image. Le site du producteur, lui, range les « images » et les « éléments visuels » parmi ce qu'il interdit de
+     reproduire. **Tranché ainsi** : c'est la règle 254 retournée — l'éditeur qui diffuse l'image s'exprime sur sa reprise
+     (règle 145), et une photographie fournie à la commune pour faire connaître le producteur sert la fiche de ce producteur,
+     et seulement elle (règle 66). Une clause générale sans image nommée reste une clause générale (règle 231). La fiche porte
+     « Photo : commune de Saint-Jean-de-Marsacq » et passe en `a_confirmer`. Ici : l'abri du distributeur « Fruits et légumes
+     bio 24/24H », 700 px, sans personne.
+
+264. **Un point de distribution retenu par une passe précédente se réépreuve contre la règle 195 au moment de publier : une
+     reprise nommée ne dispense pas d'une source datée.** La section de la troisième passe landaise comptait l'antenne de
+     Capbreton de l'AMAP de Labenne parmi les points qui « tiennent ». Relue le 23 septembre 2026, elle n'a pour source que
+     le site de l'AMAP — vérolé depuis 2024 (règle 101), dont aucune page propre n'a été modifiée depuis juin 2024 — et des
+     annuaires associatifs ; le site de la Ville de Capbreton ne répond toujours pas (règle 237). **Tranché ainsi** : la règle
+     195 s'applique à la reprise comme à un candidat neuf ; l'antenne sort du groupe jusqu'à ce qu'une source de moins de douze
+     mois atteste la distribution du lundi. Le groupe de Labenne compte donc quatre points et non cinq : le marché de terroir
+     et l'AMAP de Labenne (attestée par la page « Marchés » de la Ville du 7 juillet 2026), le marché de Seignosse et les
+     Jardins de Castelnau, désormais illustrables (règle 263). **Déblocage** : un cinquième point illustrable à moins de quinze
+     kilomètres du centre de Labenne dans Maremne Adour Côte Sud, ou une source datée pour l'antenne de Capbreton.
+
 ## Marchands à confirmer
 
 647 fiches sur 714 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10407,6 +10429,80 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées dans les Landes et en Eure-et-Loir — cinquième passe sans publication
+
+Passe du 23 septembre 2026, après la quatrième. **Aucune fiche ajoutée, aucune retirée** (règle 248). **Classement, règle 41**, sur
+709 fiches, dénominateur de la règle 224, outre-mer écarté par la règle 177 : **Landes** (40) **4,4581**, **Eure-et-Loir** (28)
+**4,4536**, Dordogne 4,2941, Tarn 4,0857, Aude 3,9037. La dernière passe qui a publié visait le Finistère ; les départements quittés
+sans publication ne sont pas « visés » (règle 247). Aucune demande de visiteur, aucun courriel. `origin/main` n'avait pas bougé au
+moment de conclure (règle 241).
+
+**Reprise d'abord : le groupe de Labenne (règles 249, 258 et 262).**
+
+- **Les Jardins de Castelnau** (Saint-Jean-de-Marsacq) : **image débloquée** par la règle 263 (nouvelle) — l'abri du distributeur,
+  700 × 440, publié par la commune sur sa page « Producteurs ». Faits relus ce jour : magasin le lundi et le jeudi de 17h à 19h, le
+  samedi de 9h à 12h, distributeur 24 h sur 24 (commune) ; société active au registre, un établissement ouvert ; BAN
+  « 1008 Route d'Arriet 40230 Saint-Jean-de-Marsacq », 0,946, 43.616043 / -1.267424, 13,8 km du centre de Labenne ; téléphone fixe
+  publié par la commune et par le producteur. La contradiction sur l'usage du distributeur reste consignée (quatrième passe, règle 5).
+  **Fiche entière.**
+- **Marché de terroir de Labenne** : la page « Marchés » de la Ville (7 juillet 2026) donne le jeudi de 16h30 à **19h** hors saison,
+  de 16h30 à 22h en juillet et août ; la page Labenne de l'AMAP, qui se dit gestionnaire du marché depuis novembre 2018, donne
+  16h30 à **19h30**. **Contradiction consignée (règle 5)** : c'est la commune qui fait foi (règle 176), la fin à 19h30 serait écrite
+  comme variante et la fiche partirait avec `a_confirmer`. Images de l'AMAP, dépôts de 2019 à 2022 antérieurs à l'injection (règle
+  101) : les courges de 2022 (2 560 × 644) et la distribution de 2019 recadrée sous les visages restent les deux candidates.
+- **AMAP de Labenne** et **marché de Seignosse** : inchangés, entiers (image de Seignosse : les tomates, 1 000 px, clause générale
+  « tout élément » sans image nommée, crédits au service communication de la Ville).
+- **Antenne de Capbreton de l'AMAP** : **sortie du groupe** par la règle 264 (nouvelle), faute de source datée de moins de douze mois.
+- **Cinquième point cherché dans Maremne Adour Côte Sud, sans succès** : la ferme d'insertion biologique de Saubion (vente sur place,
+  paniers) a toujours un site au certificat invalide (règle 237), et la plateforme de l'inclusion qui la fiche répond 404 ; la
+  commune de **Tosse** range les « photographies » parmi ce qu'elle interdit de reproduire (règle 231) ; la Ville de Labenne aussi
+  (section « Propriété intellectuelle » de `ville-labenne.fr`) ; l'office départemental `tourismelandes.com` répond 403 à tout agent
+  (règle 237) ; le site de la Ville de Capbreton ne répond pas. **Quatre points, pas cinq** : le groupe attend.
+
+**Landes : douze nouvelles communes, de Pontenx-les-Forges (49e) à Vielle-Saint-Girons (60e), aucune zone (règles 127, 247 et 260).**
+Point d'arrêt : **Vielle-Saint-Girons** ; la prochaine passe dans le 40 reprend à **Pissos** (1 505 habitants), puis Oeyreluy, après
+avoir vérifié d'abord le déblocage du groupe de Labenne. L'office Côte Landes Nature (`cotelandesnaturetourisme.com`) répond 200 à
+l'agent par défaut et 403 à l'agent nommé (règle 257) : il n'a pas été consulté.
+
+- **Pontenx-les-Forges** (1 775) : marché du samedi de 8h à 13h sur le site de la commune, gabarit ALPI à clause photo fermée (règle
+  231) ; le rucher biologique de la commune tient son site sur un domaine qui refuse l'agent nommé (règle 257) ; les autres opérateurs
+  certifiés sont inscrits en nom propre (règle 259). Aucune fiche.
+- **Saint-Perdon** (1 732) : la page « Vente de produits à la ferme » ne liste que des exploitations en nom propre et un vendeur de
+  gibier sans horaires (règle 192) ; plus de marché régulier publié depuis 2022. Aucune fiche.
+- **Lit-et-Mixe** (1 719) : un magasin biologique indépendant (société active) et une ferme d'élevage biologique, sans site propre
+  (réseaux sociaux et annuaires seulement, règle 192) ; photographies de la commune fermées (ALPI). Aucune fiche.
+- **Vieux-Boucau-les-Bains** (1 685) : la page « Commerces alimentaires » de la commune est vide, aucun marché avec jour et heure ;
+  office Landes Atlantique Sud fermé au robot. Aucune fiche.
+- **Saubrigues** (1 659) : ni marché ni ferme publiés ; opérateurs en nom propre. Aucune fiche.
+- **Pomarez** (1 642) : clause « les images présentes sur ce site ne peuvent être dupliquées » (règle 231) ; conserveries et primeurs
+  sous nom de personne ou sans site ; pas de marché publié. Aucune fiche.
+- **Bretagne-de-Marsan** (1 618) : clause ALPI (variante nommant aussi les photographies) ; une ferme de volailles en nom propre, un
+  maraîcher biologique sans site. Aucune fiche.
+- **Gamarde-les-Bains** (1 583) : clause générale, mais le seul producteur est inscrit en nom propre ; pas de marché. Aucune fiche.
+- **Saugnac-et-Cambran** (1 560) : clause ALPI ; une exploitation agricole sans site ni horaires, un élevage d'ânes hors sujet.
+  Aucune fiche.
+- **Linxe** (1 552) : page « Le Marché Traditionnel » sous clause ALPI ; aucun producteur avec site. Aucune fiche.
+- **Amou** (1 550) : marché dominical publié « le matin », sans heure (règle 192), clause ALPI ; le fournil paysan biologique de la
+  commune sert son site derrière un défi anti-robot qui répond 429 à tout agent, `robots.txt` compris (règles 237 et 256) ; deux
+  élevages sans site. Aucune fiche.
+- **Vielle-Saint-Girons** (1 518) : marchés communaux sous clause ALPI, office fermé au robot ; le magasin de producteurs de la commune
+  n'est ouvert que de mi-juin à mi-septembre et sert ses images par `static.wixstatic.com`, dont le `robots.txt` répond 403 (règle
+  256). Une seule candidate au plus. Aucune fiche.
+
+**Eure-et-Loir : les deux communes suivantes de la descente, aucune zone (règle 248).** Toutes deux dans la CC des Portes Euréliennes
+d'Île-de-France (200069953), dont le site ne répond pas.
+
+- **Auneau-Bleury-Saint-Symphorien** (6 419) : `auneau.fr` est un domaine à vendre (règle 56) ; le site de la commune est
+  `ville-ab2s.fr` (ouvert, clause sans image nommée). Marché du vendredi de 8h à 13h place du Marché, mais aucune source officielle
+  n'en donne les produits, la photographie de la commune montre un commerçant de face, et celle de l'office départemental est
+  créditée à une banque d'images (règle 70). Une boutique de produits locaux à enseigne formée d'un prénom et un apiculteur en nom
+  propre sont écartés (règle 259) ; au registre biologique, des transformateurs sans vente au détail et un supermarché. Aucune fiche.
+- **Épernon** (5 715) : le `robots.txt` de `ville-epernon.fr` interdit le site à CCBot et Bytespider et restreint `anthropic-ai` et
+  GPTBot (règle 145) : non consulté. L'office départemental ne donne que « mardi matin, place de la Mairie », sans heure, avec une
+  image créditée à une banque d'images. La brasserie biologique de la rue de la Billardière (société active) ne publie pas d'horaires
+  et crédite ses images à une banque d'images ; le magasin biologique de la rue Paul-Painlevé est fermé au registre. Aucune fiche.
+  Si une passe revient dans le 28, la descente reprend à **Lèves** (5 685), puis Cloyes-les-Trois-Rivières.
 
 ### Pistes non publiées dans les Landes et en Eure-et-Loir — quatrième passe sans publication
 
