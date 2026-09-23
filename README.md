@@ -3426,9 +3426,35 @@ prioritaires en cas de conflit.
      la règle 41.c est une garde sur la formule, et une reprise n'est pas une exception à la formule. Le contrôle de la source
      datée de l'antenne de Capbreton (règle 264) revient à la prochaine passe autorisée à viser la Nouvelle-Aquitaine.
 
+267. **Un département qui s'épuise en cours de passe cède le reste de sa borne au suivant du classement.** La passe du
+     23 septembre 2026 après Albi a pris l'Eure-et-Loir en tête (4,5164) et repris sa descente à Abondant ; six communes plus
+     loin, la suivante, Jouy, compte 1 988 habitants : le département est épuisé au sens de la règle 265 alors que la borne de
+     douze communes (règle 247) n'est qu'à moitié servie. La règle 265 dit qu'une passe « saute » un département épuisé et
+     « prend le suivant du classement », sans dire ce qu'il advient d'une borne entamée. **Tranché ainsi** : le suivant non
+     épuisé du classement, sous la réserve de la règle 41.c, reçoit le reste de la borne — douze moins les communes déjà
+     éprouvées dans la passe — et devient le premier département au sens de la règle 248, dont les deux communes vont ensuite
+     au département d'après. Le total d'une passe reste de quatorze communes au plus. Ici : six communes d'Eure-et-Loir, puis
+     la Haute-Savoie (3,9796, Auvergne-Rhône-Alpes, ouverte puisque la passe d'Albi visait l'Occitanie) avec six communes ;
+     Cluses, troisième, a fait la passe. Au passage, la section de la passe d'Albi annonçait que la commune venant après
+     Saint-Prest comptait moins de 2 000 habitants : Saint-Denis-Lanneray (2 086) et Bû (2 077) la suivaient encore, elles ont
+     été éprouvées.
+
+268. **Quand l'office de tourisme crédite une photographie au nom d'un photographe, la fiche cite l'office, jamais la
+     personne.** À Cluses, l'office Cluses Arve & montagnes autorise la reproduction électronique à condition de citer la source
+     et d'écrire « Droits réservés » (règle 239) ; trois des photographies retenues portent, sur sa page ou dans leurs
+     métadonnées, le nom d'un photographe indépendant. La règle 239 demande de citer « la source » ; la règle du 12 septembre
+     2026 interdit de nommer une personne privée, nulle part. **Tranché ainsi** : la source d'une image est l'éditeur qui la
+     diffuse et pose la condition — ici l'office, avec son domaine —, et c'est lui que la description nomme (« Photo : Cluses
+     Arve & montagnes Tourisme (cluses-montagnes-tourisme.com), droits réservés ») ; quand l'office attribue la photographie à
+     une collectivité ou à un commerce, celui-ci peut être nommé avec lui. Le nom d'une personne n'apparaît ni dans la fiche, ni
+     dans le nom du fichier, ni dans les métadonnées, retirées (règle 235).
+
 ## Marchands à confirmer
 
-647 fiches sur 719 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+650 fiches sur 724 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du lundi de Cluses, place des Allobroges** (Cluses) (catégorie et piliers des marchés municipaux. **Faits** : page « Marché hebdomadaire » de la Ville (janvier 2025), lundi de 7h à 13h ; l'office Cluses Arve & montagnes écrit 8h-14h, variante citée, la Ville organise et fait foi (règle 176). **Produits** : l'office classe ce marché « alimentaire et manufacturé » quand il détaille le marché du jeudi ; `produits` porte cette seule nature (règles 92 et 221). **Point** : place des Allobroges à la Base Adresse Nationale (0,962), à 30 m du marqueur de l'office. **Photo** : Ville de Cluses, diffusée par l'office, prise un lundi matin de juillet 2015 (règle 140), recadrée au-dessus des passants, métadonnées retirées (règle 235).)
+- **Chèvrerie des Oulettes** (Mont-Saxonnex) (catégorie `ferme`, pas d'`environnement` : aucune inscription au registre de l'Agence Bio (règle 15). **Faits** : fiche 2026 de l'office seule, vente du lundi au samedi de 17h à 18h ; entreprise individuelle active au registre à la même adresse, dont le nom n'est pas repris (règle 259) ; le seul téléphone publié est un portable, non inscrit (règle 143). BAN 0,951 au numéro. 7,7 km du centre de Cluses, même communauté de communes (règle 96).)
+- **Ferme de Chamonix-Mottet (GAEC Chamonix)** (Magland) (catégorie `ferme`, pas d'`environnement` (règle 15). **Faits** : fiche 2026 de l'office seule, vente du lundi au samedi de 8h à 9h et de 17h à 19h ; GAEC actif au registre au lieu-dit Chamonix Mottet, nom de lieu que la Base Adresse Nationale connaît comme voie. **Point** : celui de l'office, contrôlé par inversion à 5 m du 649 route de Chamonix Mottet (règles 63 et 67) ; le numéro n'est pas publié, faute de source. Portable non inscrit (règle 143). 4,5 km du centre de Cluses.)
 - **Marchés de la place Fernand Pelloutier** (Albi) (catégorie et piliers des marchés municipaux, pilier `environnement` au titre du marché biologique du mardi, que la description nomme (règle 42). **Faits** : page « Marchés albigeois » de la Ville (14 octobre 2025) et fiche d'équipement de la Ville, samedi 7h-13h et mardi 16h-20h ; l'office Vallée du Tarn donne le même créneau du mardi. Deux séances sur la même place : une seule fiche (règle 42). **Point** : place Fernand Pelloutier à la Base Adresse Nationale (0,97), à 14 m du marqueur de la Ville. **Photo, règles 1 et 203** : la seule photographie que l'office attache au marché du mardi fait 515 px, sous le plancher de la règle 59 ; la fiche porte une photographie thématique d'Albi, une rue du centre un jour de marché prise dans la fiche du marché des bouquinistes de l'office, recadrée au-dessus des passants et sans l'enseigne d'une boutique, ce que la description dit. D'où `a_confirmer`. À 1,7 km du centre d'Albi)
 - **Marché de la Madeleine** (Albi) (catégorie et piliers des marchés municipaux. **Faits** : Ville seule, samedi 7h-13h, boulevard de Strasbourg (page des marchés et fiche d'équipement). **Point** : boulevard de Strasbourg à la Base Adresse Nationale (0,97, centre de voie), à 20 m du marqueur de la Ville. **Photo, règle 1** : aucune photographie du marché n'est publiée par une source ouverte ; la fiche porte le Pont-Vieux et la cathédrale vus de la rive droite, quartier de la Madeleine, pris dans la fiche du petit train touristique de l'office Vallée du Tarn, 1280 px, sans personne reconnaissable. D'où `a_confirmer`. À 1,3 km du centre d'Albi)
 - **Les Agriculteurs Réunis** (Bergerac) (catégorie `producteur`, règle 105 : épicerie de producteurs ouverte six jours sur sept. **Registre, règle 6** : SARL active, établissement ouvert au 81 avenue Paul Doumer (47.21Z) ; un ancien établissement de la route de Sainte-Alvère est fermé. Pas de pilier `environnement` : aucune inscription au registre de l'Agence Bio, l'office écrit « agriculture raisonnée ou bio ». **Horaires** : office de tourisme du Pays de Bergerac seul ; le site du magasin est une page « en construction » qui ne les donne pas, d'où `a_confirmer` et un champ `site_web` vide (règle 33). **Téléphone non inscrit** : un portable que seul l'office publie. **Point** : numéro à la Base Adresse Nationale (0,97), à 23 m du marqueur de l'office. **Photo, règle 239** : façade publiée par l'office, 787 × 436, enseigne lisible, personne dans le cadre ; mentions de l'office : reproduction permise avec indication de la source. À 1,8 km du centre de Bergerac)
@@ -4125,7 +4151,7 @@ prioritaires en cas de conflit.
 - **Marché de Malo-les-Bains** (Dunkerque) (mêmes catégorie, piliers, sources et photographie que les deux autres. Mardi 8h-13h, les deux autorités concordent. Point de la Base Adresse Nationale place Turenne, score 0,972, à trois rues de la digue. Mêmes réserves sur les produits et sur la photographie)
 - **Les Halles des Sœurs Blanches** (Dunkerque) (marché couvert municipal, catégorie `marche` au titre de la règle 8 : une quarantaine d'étals loués à une vingtaine de commerçants et d'artisans de bouche, la Ville en assure l'exploitation et instruit les candidatures. Inauguré le 21 mai 2025, 1 100 m² dont 400 m² de vente — chiffres concordants de la Ville, de l'office et de la presse économique régionale. **Horaires** : mardi-samedi 8h-19h, dimanche 9h-15h, fermé le lundi, identiques chez les deux autorités, la Ville ajoutant que les jours fériés peuvent varier. **Point, règle 10, dernier recours** : la Base Adresse Nationale ne porte aucun numéro pour les Halles, l'équipement ne publie pas ses coordonnées et, étant municipal, ne répond pas au registre des entreprises ; c'est donc l'axe du cours François Bart, et la fiche le dit. Contrôle : une base architecturale tierce place le bâtiment à l'angle de la rue des Sœurs Blanches, à environ 80 m au sud du point retenu, sur la même voie. **Produits** : les métiers que la Ville énumère dans sa foire aux questions, repris par catégorie — les quinze enseignes qu'elle nomme, dont plusieurs portent un patronyme, ne le sont pas. **Photo** : la photographie de façade publiée par la Ville, recadrée à 415 × 285 au-dessus de la ligne des passants, qui garde l'enseigne, la verrière et la toiture ; la seule vue plus large disponible, celle de l'office, est une image de synthèse d'avant construction et ne montre donc pas le bâtiment tel qu'il est)
 
-Les 719 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
+Les 724 marchands ont chacun une vraie photo (trouvée sur leur site officiel, celui de l'office de tourisme, ou une photo thématique soigneusement choisie), stockée dans `public/images/marchands/`.
 
 Sur la carte, les icônes se transforment en vignettes photo circulaires quand on zoome suffisamment (à partir du niveau de zoom "rue"). Un champ de recherche permet de chercher par produit (« huile d'olive », « miel », « poisson »…) autant que par nom de marchand, et un filtre par catégorie permet d'afficher uniquement fermes, marchés, magasins bio, AMAP, producteurs ou poissonneries.
 
@@ -10460,6 +10486,82 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Cluses (Haute-Savoie) — cinq fiches publiées, Eure-et-Loir épuisé
+
+Passe du 23 septembre 2026, après celle d'Albi. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel. **Classement,
+règle 41**, sur 719 fiches, dénominateur de la règle 224, outre-mer écarté par la règle 177 : Landes (40) 4,5210 (épuisées, règle
+265), Eure-et-Loir (28) 4,5164, **Haute-Savoie (74) 3,9796**, Aude 3,9587, Essonne 3,9569. La passe précédente visait l'Occitanie :
+l'Aude est fermée (règle 41.c), le Centre-Val de Loire et Auvergne-Rhône-Alpes restent ouverts. `origin/main` n'avait pas bougé
+au moment de publier (règle 241). **Après la passe**, sur 724 fiches : Landes 4,5524 (épuisées), Eure-et-Loir 4,5478 (épuisé, voir
+ci-dessous), Essonne 4,0540, Aude 3,9863, Deux-Sèvres 3,9399 ; Haute-Savoie −0,9579. La passe suivante ne peut pas viser
+Auvergne-Rhône-Alpes (règle 41.c) ; l'Essonne, premier département non épuisé, est ouverte.
+
+**Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte à cette passe. Le site de la Ville de Capbreton
+refuse de nouveau toute connexion (port 443 fermé, `capbreton.fr` comme `www.capbreton.fr`, règle 237) : la source datée de
+l'antenne de Capbreton reste introuvable, le groupe de Labenne reste à quatre points.
+
+**Eure-et-Loir : six communes, aucune zone, département épuisé (règles 127, 247, 265 et 267).** Contrôle en deux requêtes fait
+avant toute lecture pour chaque site.
+
+- **Abondant** (2 434) : `abondant.fr` redirige vers un site commercial sans rapport ; aucune autre publication de la commune
+  (règle 237). Aucune fiche.
+- **Tremblay-les-Villages** (2 206) : site de la commune ouvert, aucune page de marché ; le marché de producteurs biologiques et
+  locaux ne se tient que cinq samedis par an, dans une ferme dont l'appellation est un nom de personne (règle 259). Aucune fiche.
+- **Arcisses** (2 197) : le **petit marché de Margon**, le vendredi de 15h30 à 19h sous la halle (page de la commune, recoupée par
+  la fiche CDT 28 reprise par le Parc du Perche), a des faits complets, mais la commune interdit la reproduction des « photos » de
+  son site (règle 231), les fiches du CDT 28 et du Parc n'ont pas d'image, et `tourisme28.com` nomme les images dans son
+  interdiction. Une ferme maraîchère de Margon publie ses horaires sur la plateforme des commerçants de la communauté de communes,
+  qui ne donne que son logo ; son propre site oppose un défi anti-robot (règle 212). Aucune fiche entière.
+- **Saint-Prest** (2 115) : aucun marché publié, et le `robots.txt` du site exclut ses dossiers d'images. Aucune fiche.
+- **Saint-Denis-Lanneray** (2 086) : site de la commune sans réponse (règle 237). Aucune fiche.
+- **Bû** (2 077) : aucune page de marché sur le site de la commune ; seul un annuaire tiers annonce un marché le jeudi soir
+  (règle 196). Aucune fiche.
+
+La commune suivante, **Jouy**, compte 1 988 habitants : **l'Eure-et-Loir est épuisé** (règle 265). Il reste publié dans le
+calcul, aucune passe ne le vise plus. Brou et Anet gardent leurs fiches entières en pistes (section de la passe d'Albi) ; le
+petit marché de Margon s'y ajoute, faits complets, **déblocage** : une photographie permise de la halle de Margon.
+
+**Haute-Savoie, suivante du classement : six communes au plus (règle 267, nouvelle) ; Cluses, troisième, fait la passe.**
+
+- **Thonon-les-Bains** (37 928, commune calculée) : le site de la Ville répond 418 à tout agent automatique (règle 237), et
+  l'office Destination Léman (`thononlesbains.com`, `destination-leman.com`) répond 200 à l'agent par défaut et 403 à l'agent nommé
+  (règle 257) : les marchés ne sont documentés par aucune source lisible. Le magasin biologique de l'avenue d'Évian n'a d'horaires
+  que dans des annuaires (règle 192) ; la boulangerie certifiée de l'avenue Jules-Ferry est une boulangerie-pâtisserie qui ne nomme
+  pas de producteurs, écartée comme celle d'Annecy (règle 86). Aucune fiche entière. Dans Thonon Agglomération, un petit magasin de
+  producteurs biologiques à Allinges publie ses horaires : piste pour une passe de rattrapage.
+- **Annemasse** (37 628) : la Ville publie ses marchés (mardi et vendredi place de la Libération, mercredi places du Jumelage et
+  Jean-Jaurès, de 8h à 12h30) mais réserve la reproduction à l'usage privé (règle 246) ; Annemasse Agglo aussi, photographies
+  nommées (règle 253) ; l'office Monts de Genève refuse l'agent nommé (règle 257). Aucune fiche entière. **Piste** : le magasin de
+  producteurs Le Chemin des Fermes, 20 cours Gisèle-Halimi à Ambilly (horaires sur son propre site, mercredi-vendredi 9h-13h et
+  14h30-19h, samedi 9h-16h), dont les images n'ont pas été instruites.
+- **Cluses** (17 795) : **deux fiches entières** — le marché du lundi, place des Allobroges, et le marché du jeudi, rue du Marcelly
+  (parvis des Esserts) — sur les faits de la Ville (page mise à jour en janvier 2025, dont les mentions ne portent qu'un « tous
+  droits réservés » sans image nommée, règle 231 ; sa seule image de marché est une photographie de banque, règle 70), et les
+  photographies de l'office **Cluses Arve & montagnes Tourisme**, dont les mentions autorisent la reproduction électronique en
+  citant la source et « Droits réservés » (règle 239 ; seule la reproduction papier exclut l'iconographie). Réseau d'images Iris et
+  Apidae, qui n'exclut personne (règle 238). Les deux photographies sont datées d'un lundi et d'un jeudi (règle 140). Complément
+  dans la communauté de communes Cluses-Arve et Montagnes (règles 96 et 127), toutes les fiches à moins de 8 km du centre :
+  le **magasin de la Coopérative fruitière en Val d'Arly**, avenue de Châtillon à Cluses (horaires du site de la coopérative, qui
+  ferme ses propres images dans ses conditions générales ; la photographie de l'intérieur qu'elle a fournie à l'office prend le
+  relais, règles 230 et 254), la **Chèvrerie des Oulettes** à Mont-Saxonnex (7,7 km) et la **ferme de Chamonix-Mottet** à Magland
+  (4,5 km). Trois fiches dans la commune, deux dans l'intercommunalité.
+
+**Pistes non publiées à Cluses et dans Cluses-Arve et Montagnes.**
+
+- **Biocoop de Scionzier** (55 avenue du Stade) : faits complets sur son propre site (lundi 14h-19h, mardi-samedi 9h30-19h ;
+  l'office écrit « fermé le lundi », variante), société active ; ses conditions générales nomment les photographies (règle 245) et
+  la seule image de l'office est un étal sans rapport visible avec le magasin, sans crédit ni métadonnées, qui a tout d'une image de
+  banque (règle 70). Elle a cédé la cinquième place à une ferme, catégorie absente du groupe (règle 167). **Déblocage** : une
+  photographie du magasin publiée par une source permise.
+- **So.bio de Scionzier** (ZAC du Val d'Arve) : horaires de l'office seulement, photographies d'enseigne avec visages en gros
+  plan (règle 70). Écarté.
+- **Marché de Scionzier** (dimanche 7h30-12h30, place du 18-Août-1944) : la page de la commune a disparu (redirection vers
+  l'accueil) ; il ne reste que l'office (règle 196). **Déblocage** : la republication de la page par la commune.
+- **Marché de Marnaz** (mercredi matin « à partir de 8h », place de la Mairie) : ni heure de fin ni composition (règles 192 et 197).
+- **Fermes des fiches de l'office** : plusieurs sont publiées sous un nom de famille (« famille … ») ou celui d'un exploitant, et
+  ne se rouvrent pas (règle 259) ; celles du Reposoir et d'Arâches-la-Frasse ont des horaires sans heures ou saisonniers, à
+  reprendre par une passe de rattrapage.
 
 ### Passe d'Albi (Tarn) — cinq marchés publiés, douze communes d'Eure-et-Loir éprouvées sans zone
 

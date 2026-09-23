@@ -19141,5 +19141,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Boulevard%20de%20Strasbourg%2C%2081000%20Albi",
     "image_url": "/images/marchands/marche-de-la-madeleine-albi.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-lundi-place-des-allobroges-cluses",
+    "nom": "Marché du lundi de Cluses, place des Allobroges",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.057816,
+    "lon": 6.580617,
+    "adresse": "Place des Allobroges, 74300 Cluses",
+    "horaires": "Le lundi de 7h à 13h, toute l'année, d'après la page « Marché hebdomadaire » de la Ville de Cluses (mise à jour en janvier 2025). L'office de tourisme Cluses Arve & montagnes annonce 8h-14h ; c'est la Ville, qui organise le marché, qui fait foi.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits manufacturés"
+    ],
+    "description": "Grand marché hebdomadaire du centre de Cluses, installé le lundi matin sur la place des Allobroges, au pied de l'hôtel de ville, avec stationnement gratuit en ville ce jour-là. L'office de tourisme le décrit comme un marché de produits alimentaires et manufacturés ; la composition des étals n'est pas publiée plus en détail. Photo : Ville de Cluses, diffusée par Cluses Arve & montagnes Tourisme (cluses-montagnes-tourisme.com), recadrée au-dessus des passants, droits réservés.",
+    "site_web": "https://www.cluses.fr/vie-pratique/vie-a-cluses/marche-hebdomadaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20Allobroges%2C%2074300%20Cluses",
+    "image_url": "/images/marchands/marche-du-lundi-place-des-allobroges-cluses.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-jeudi-parvis-des-esserts-cluses",
+    "nom": "Marché du jeudi de Cluses, parvis des Esserts",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.072916,
+    "lon": 6.558429,
+    "adresse": "Rue du Marcelly (parvis des Esserts), 74300 Cluses",
+    "horaires": "Le jeudi de 12h à 19h30, toute l'année (Ville de Cluses et office de tourisme concordants). Les changements des jours fériés et les annulations exceptionnelles sont annoncés par la Ville sur son site et sa page Facebook.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Fromages",
+      "Charcuterie",
+      "Épicerie fine",
+      "Vêtements"
+    ],
+    "description": "Marché de mi-journée du quartier des Esserts, que la Ville situe rue du Marcelly et l'office de tourisme sur le parvis des Esserts, ouvert du déjeuner jusqu'au soir, ce qui le rend accessible après le travail. On y trouve des fruits et légumes frais, du fromage, de la charcuterie et de l'épicerie fine, à côté d'étals de vêtements. Parking gratuit. Photo : Cluses Arve & montagnes Tourisme (cluses-montagnes-tourisme.com), droits réservés.",
+    "site_web": "https://www.cluses.fr/vie-pratique/vie-a-cluses/marche-hebdomadaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20du%20Marcelly%2C%2074300%20Cluses",
+    "image_url": "/images/marchands/marche-du-jeudi-parvis-des-esserts-cluses.jpg"
+  },
+  {
+    "slug": "magasin-cooperative-val-d-arly-cluses",
+    "nom": "Magasin de la Coopérative fruitière en Val d'Arly - Cluses",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.068206,
+    "lon": 6.582522,
+    "adresse": "14 Avenue de Châtillon, 74300 Cluses",
+    "horaires": "Du lundi au samedi de 8h30 à 13h et de 15h à 19h, fermé le dimanche (site de la coopérative). L'office de tourisme publie une amplitude différente (8h30-19h30 tous les jours), que la coopérative ne reprend pas.",
+    "produits": [
+      "Reblochon AOP et Beaufort AOP de la coopérative",
+      "Tommes et fromages fermiers de Savoie",
+      "Viande de veau, bœuf, porc et agneau de l'abattoir du Pays du Mont-Blanc",
+      "Salaisons de Haute-Savoie",
+      "Vins, bières et liqueurs de Savoie",
+      "Confitures et jus de fruits",
+      "Épicerie savoyarde (crozets, polenta, champignons)"
+    ],
+    "description": "Boutique ouverte en 2016 par la coopérative laitière de Flumet après l'arrivée d'une dizaine d'agriculteurs du territoire de Cluses parmi ses adhérents : on y vend les fromages fabriqués à la coopérative avec le lait de ses producteurs, et des produits d'autres fermes et ateliers savoyards, pour la plupart à moins de 30 km. Photo : Coopérative fruitière en Val d'Arly, diffusée par Cluses Arve & montagnes Tourisme (cluses-montagnes-tourisme.com), droits réservés.",
+    "telephone": "04 50 53 91 63",
+    "site_web": "https://coopvaldarly.com/content/20-cluses",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=14%20Avenue%20de%20Ch%C3%A2tillon%2C%2074300%20Cluses",
+    "image_url": "/images/marchands/magasin-cooperative-val-d-arly-cluses.jpg"
+  },
+  {
+    "slug": "chevrerie-des-oulettes-mont-saxonnex",
+    "nom": "Chèvrerie des Oulettes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.047094,
+    "lon": 6.479818,
+    "adresse": "333 Rue du Pont d'En Haut, 74130 Mont-Saxonnex",
+    "horaires": "Vente à la ferme du lundi au samedi de 17h à 18h, fermé le dimanche (fiche 2026 de l'office de tourisme Cluses Arve & montagnes). Sonner à la porte et faire le tour du bâtiment par la droite.",
+    "produits": [
+      "Fromages de chèvre fermiers",
+      "Crottins frais, affinés, cendrés ou aux épices",
+      "Tomme et tommette de chèvre",
+      "Raclette de chèvre",
+      "Sérac"
+    ],
+    "description": "Chèvrerie de Mont-Saxonnex qui fabrique et vend sur place ses fromages de chèvre ; pendant l'heure de vente, on peut visiter la chèvrerie. À 7,7 km du centre de Cluses, dans la même communauté de communes. Photo : la vitrine du magasin, Chèvrerie des Oulettes, diffusée par Cluses Arve & montagnes Tourisme (cluses-montagnes-tourisme.com), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=333%20Rue%20du%20Pont%20d'En%20Haut%2C%2074130%20Mont-Saxonnex",
+    "image_url": "/images/marchands/chevrerie-des-oulettes-mont-saxonnex.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-chamonix-mottet-magland",
+    "nom": "Ferme de Chamonix-Mottet (GAEC Chamonix)",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.029216,
+    "lon": 6.610828,
+    "adresse": "Route de Chamonix Mottet, Les Prés du Verney, 74300 Magland",
+    "horaires": "Vente à la ferme du lundi au samedi de 8h à 9h et de 17h à 19h (fiche 2026 de l'office de tourisme Cluses Arve & montagnes).",
+    "produits": [
+      "Reblochon AOP",
+      "Tomme fermière",
+      "Yaourts de la ferme",
+      "Lait"
+    ],
+    "description": "Exploitation laitière d'environ 90 vaches et 100 génisses, qui pâturent autour de la ferme l'été et montent dans trois alpages ; la boutique vend les yaourts, le lait, la tomme et le reblochon de la ferme, ainsi que le reblochon de la coopérative du Val d'Arly. À 4,5 km du centre de Cluses, dans la même communauté de communes. Photo : Ferme de Chamonix-Mottet, diffusée par Cluses Arve & montagnes Tourisme (cluses-montagnes-tourisme.com), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20de%20Chamonix%20Mottet%2C%2074300%20Magland",
+    "image_url": "/images/marchands/ferme-de-chamonix-mottet-magland.jpg",
+    "a_confirmer": true
   }
 ]
