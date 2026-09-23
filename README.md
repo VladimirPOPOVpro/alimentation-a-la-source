@@ -10664,6 +10664,105 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans le Val-d'Oise et dans les Vosges — neuvième passe sans publication
+
+Passe du 23 septembre 2026 (soir), après la huitième passe sans publication. Aucune demande de visiteur (nouvelle ou en cours),
+aucun courriel. **Reprise d'abord (règles 264 à 266)** : `www.capbreton.fr` n'ouvre toujours aucune connexion, à l'agent par défaut
+comme à l'agent nommé (règle 237) : le groupe de Labenne reste à quatre points. **Classement, règle 41**, recalculé sur 753 fiches :
+Oise 5,0629, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, **Vosges (88) 3,9013**, Charente
+3,8515 — inchangé (règle 260). `origin/main` n'a pas bougé pendant la passe (règle 241). **Douze communes du Val-d'Oise** (règle 247),
+reprises à Méry-sur-Oise, puis **deux des Vosges** (règle 248), reprises à Gérardmer : aucune ne rend deux fiches entières, image
+comprise (règle 127). Rien n'est publié.
+
+**Val-d'Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Méry-sur-Oise** (9 983) — **Faits entiers sans image** : le marché du samedi 8h-13h, parvis de la mairie, 14 avenue Marcel
+   Perrin (BAN 0,97 ; page de la Ville recoupée par l'office de L'Isle-Adam), maraîcher, fromager, poissonnier, boucher, volailler.
+   Mentions légales de la Ville nommant les « images » (règle 231), office de L'Isle-Adam interdisant la reproduction de ses
+   photographies, office départemental fermé à l'agent nommé (règle 257). Une champignonnière (entreprise individuelle au nom de
+   l'exploitant, horaires contradictoires) et une vente à la ferme à raison sociale patronymique sont écartées. **Zéro.**
+2. **Ézanville** (9 858, Plaine Vallée) — Site de la Ville lu sous l'agent nommé (règle 284) ; ses mentions nomment les « images »
+   et limitent l'usage au privé (règles 231 et 246). Le marché de la place de la Gare n'est publié que par des annuaires (règle 196).
+   Le chantier d'insertion **Plaine de Vie** (maraîchage bio certifié, association active) a une photographie permise sur son propre
+   site, mais son seul horaire publié vise le 42 rue du Chemin Vert, établissement fermé au registre le 1er juin 2024 : aucun horaire
+   pour le siège actif du chemin du Mesnil-Aubry (règle 192). **Zéro.** Déblocage : un jour et une heure de vente publiés par
+   l'association pour son adresse actuelle.
+3. **Beauchamp** (9 849) — Marché du jeudi et du dimanche matin, place du Marché, attesté à deux endroits du site de la Ville
+   (règle 178) mais sans heure, et sans office consultable (règle 9) ; mentions réservant les « représentations photographiques »
+   (règle 246). L'association de paniers de l'avenue Pierre Loti n'a pas d'horaire daté et son site refuse l'agent nommé. **Zéro.**
+4. **Bessancourt** (8 869) — **Faits entiers sans image** : le marché du mercredi 8h-13h devant la mairie, place du 30-Août (page de
+   la Ville du 30 avril 2026 ; un agenda de novembre 2025 donne 9h-14h « sous la halle », écart consigné ici au titre de la règle 5).
+   Les seules images sont des affiches de 255 px (règles 59 et 272). Le mobile que la page imprime sous le nom d'un agent n'est pas
+   repris (règle 269). **Zéro.**
+5. **Le Plessis-Bouchard** (8 518) — **Faits entiers sans image** : le marché couvert du 66 chaussée Jules-César (BAN 0,97),
+   mercredi et samedi 8h30-14h selon la page du marché (une page de mars 2025 donne le mercredi 8h-13h). Aucune photographie, ni de
+   la Ville ni du concessionnaire. La ferme de la rue Gustave-Eiffel n'a d'horaires que sur des annuaires fermés. **Zéro.**
+6. **Groslay** (8 453, Plaine Vallée) — Mentions de la Ville nommant les « images » (règle 231). **Faits entiers sans image** : un
+   verger de la rue de la Station (société active, enseigne neutre ; samedi 14h-18h, pommes, poires, jus, confitures, d'après
+   l'annuaire des commerces de la Ville), sans site propre. Le marché du dimanche matin, rue Claude-Warocquier, est confirmé par le
+   bulletin municipal de septembre 2026, mais son heure ne se lit que sur une page de 2021. L'AMAP n'a pas de source datée et son seul
+   contact est un mobile nominatif (règles 195 et 269). **Zéro.**
+7. **Saint-Prix** (7 612, Plaine Vallée) — La Ville ne publie ni marché ni AMAP, et ses pages portent du spam injecté (règle 101).
+   L'AMAP n'a pour source qu'un annuaire de 2020 (règle 195). **Zéro.**
+8. **Courdimanche** (7 311) — Mentions de la Ville fermant « toute image prélevée sur le site » (règle 231). **Faits presque
+   entiers sans image** : l'épicerie coopérative **CoopOise**, au foyer rural, le jeudi soir ; l'association et la Ville ne donnent ni
+   la même adresse (impasse Jacques-Dauvergne ou rue des Écoles, à 400 m) ni la même heure (règle 5), et ses conditions d'utilisation
+   limitent l'usage au privé (règle 246). **Zéro.**
+9. **Écouen** (7 202) — Pas de marché régulier (« Écouen fait son marché » est ponctuel) ; l'épicerie bio du registre a laissé place
+   à une boutique de cosmétiques (actualité de la Ville du 28 août 2025) ; mentions réservant les représentations photographiques.
+   **Zéro.**
+10. **Auvers-sur-Oise** (6 863) — `robots.txt` de la Ville interdisant `/images/`, mentions nommant les photographies. Le marché
+    (jeudi et dimanche 8h-13h selon l'office, page du 19 novembre 2025) n'a ni lieu géocodable ni produits publiés. La **Ferme des
+    Tournelles** (société active, horaires concordants de la Ville et de l'office) ne publie que « fruits et légumes », sous le
+    plancher de trois produits (règle 92), et son site ne répond pas. Une ferme a annoncé elle-même sa fermeture au 22 décembre 2023
+    (règle 150). **Zéro.**
+11. **Bouffémont** (6 593, Plaine Vallée) — Site de la Ville sans mentions légales ni exclusion. Le **marché de la place Vauban**,
+    « chaque samedi matin » (page « Économie locale » du 11 septembre 2026 : boucher, maraîcher, fromager, poissonnier, pâtissier),
+    a une photographie permise de la Ville (2 560 px, recadrable sur un étal de fruits sans visage) mais **aucune heure** : l'office
+    refuse l'agent nommé (règle 9 incomplète) et le seul annuaire donne un autre jour et une autre voie (règle 16). Même complétée,
+    elle resterait seule dans la commune (règle 127). **Zéro.** Déblocage : une heure publiée par la Ville ou par Plaine Vallée
+    (règle 222).
+12. **Menucourt** (6 184) — `robots.txt` de la Ville interdisant `/` à `Amazonbot` (règle 233) : non consulté. Au registre, une
+    grande surface, un lieu de réception et des exploitations à nom de personne. **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Marly-la-Ville** (6 022). Plaine Vallée compte toujours trois marchés entiers
+dans trois communes différentes (Enghien-les-Bains, Deuil-la-Barre, Soisy-sous-Montmorency) ; Ézanville, Groslay, Saint-Prix et
+Bouffémont, éprouvées ici, n'y ajoutent aucune fiche entière.
+
+**Vosges — deux communes (règle 248)** :
+
+1. **Gérardmer** (7 581, CC Gérardmer Hautes Vosges) — Office de tourisme fermé à l'agent nommé (règle 257), intercommunalité
+   nommant les « images » (règle 231). **Une fiche entière** : la **Ferme du Bien-Être**, GAEC certifié bio, 698 route d'Épinal
+   (BAN 0,97), du mardi au samedi 10h-12h et 14h-18h hors vacances (site de la ferme, actualités de mai 2026), tisanes, sirops,
+   vinaigres, aromates, sel aux herbes ; photographie de la boutique, 940 px, sans personne, site sans clause d'image. **Faits entiers
+   sans image** : la **Cave au Géromé**, affineur, 77 rue Charles-de-Gaulle (mentions nommant les photographies, usage privé). Le
+   marché du jeudi et du samedi n'a pas de produits publiés ; un magasin bio a une clause d'image fermée et pas de liste de producteurs
+   locaux (règle 86). **Une.**
+2. **Remiremont** (7 388, CC de la Porte des Vosges Méridionales) — Ville et office fermés comme sources d'image (règles 231 et 246).
+   **Une fiche entière** : **À Cœur Bio**, magasin bio indépendant certifié, 27 esplanade de la Filature (BAN 0,96), du mardi au
+   samedi, qui nomme ses propres fournisseurs vosgiens (règle 86) ; photographies de vitrine et d'étal publiées sur son site, sans
+   clause ni exclusion. **Faits entiers sans image** : les halles Le Volontaire, 2 bis rue de la Xavée (page de la Ville du 25 juillet
+   2025). Le magasin de producteurs associatif de la rue de la Joncherie a perdu son domaine (règle 56). **Une.**
+
+La passe qui reviendra dans les Vosges reprend à **Neufchâteau** (6 732). **Déblocages** : Gérardmer et Remiremont ont chacune une
+fiche entière, désignée pour la reprise (règle 258) ; chacune ne sera publiée qu'avec une seconde fiche entière dans sa commune.
+
+**Après la passe**, sur 753 fiches, rien n'a changé : **Val-d'Oise 3,9963**, **Vosges 3,9013**, Charente 3,8515. La passe suivante
+reprend le Val-d'Oise en tête (règle 260), puis les Vosges.
+
+**Constat, sans nouvelle règle** : neuf passes de suite sans publication. Dans cette passe, onze communes sur quatorze avaient au
+moins un point de vente aux faits entiers ou presque ; ce qui manquait, dans l'ordre, c'est une image que l'éditeur permet de reprendre,
+puis une heure publiée par une autorité. Deux questions de lecture soulevées pendant le criblage (une clause de Ville réservant
+« tout élément » à l'usage privé sans nommer les images, à Bessancourt et au Plessis-Bouchard ; une image d'office servie par un
+réseau de diffusion dont le `robots.txt` exclut d'autres agents d'IA, à Auvers) n'ont pas été tranchées : elles ne changeaient le
+résultat d'aucune commune.
+
+**Données personnelles écartées** : une champignonnière de Méry-sur-Oise et une vente à la ferme de la même commune, un maraîcher de
+Saint-Prix, une boucherie d'Ézanville, des exploitations de Bessancourt, du Plessis-Bouchard, de Groslay et de Menucourt, une épicerie
+fine et un fabricant de sauces d'Auvers-sur-Oise, un fumoir de Bouffémont et une ferme fromagère de Gérardmer, tous inscrits ou
+présentés sous le nom de leur exploitant ; les mobiles nominatifs de Bessancourt, de Groslay et de Courdimanche, et les noms de
+référents d'une épicerie coopérative. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
 ### Pistes non publiées dans le Val-d'Oise et dans les Vosges — huitième passe sans publication
 
 Passe du 23 septembre 2026 (nuit), après la septième passe sans publication. Aucune demande de visiteur (nouvelle ou en cours),
