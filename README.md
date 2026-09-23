@@ -3542,6 +3542,26 @@ prioritaires en cas de conflit.
      contrôle comme tout marqueur (règle 67) : son retournement doit tomber sur la voie de l'adresse publiée. Ici, le 14 rue de la
      Tour, à 26 m ; le point du registre, dans une autre commune, est écarté.
 
+279. **Un `robots.txt` qui range nommément `ClaudeBot` parmi les robots qu'il autorise l'emporte sur l'exclusion d'autres agents
+     d'IA : la règle 149 ne joue que quand l'éditeur ne dit rien de ce robot-ci.** Le `robots.txt` de l'office Grenoble Alpes
+     Tourisme (`grenoble-tourisme.com`) interdit `/` à `CCBot` et à `Bytespider`, et range sous l'intertitre « Bots explicitement
+     autorisés (SEO et IA) » `ClaudeBot`, `anthropic-ai`, `GPTBot` et `Google-Extended`, chacun suivi de `Allow: /`. La règle 149
+     lit l'exclusion de `CCBot` comme l'intention d'écarter les agents d'IA ; ici l'éditeur écrit le contraire pour ce robot-là.
+     **Tranché ainsi** : la règle 77 suit la décision éditoriale sur le robot par lequel la carte travaille, et quand elle est écrite
+     nommément elle prime sur ce qu'on induirait d'une autre ligne ; le site se lit. Ses images restent soumises à sa clause (règles
+     230, 231 et 245) : les mentions légales de l'office rangent les « images » parmi les éléments dont elles interdisent la
+     reproduction, donc aucune photographie de l'office n'est reprise. Conséquence à reprendre : les photographies de l'office
+     retenues par les passes de Grenoble et de Saint-Martin-d'Hères, antérieures à la règle 231, se revérifient au prochain passage
+     sur ces communes. La décision est prise le 23 septembre 2026, sans effet sur cette passe (voir la section de pistes du jour).
+
+280. **Un serveur qui répond « 429 Too Many Requests » aux seuls agents d'IA refuse le robot par son nom (règle 257).** Le site de
+     la Ville de Fontaine (`mairie-fontaine.fr`) a d'abord servi quelques pages à l'agent nommé, puis répond 429 à `ClaudeBot` et à
+     `GPTBot` pendant que `curl`, un robot au nom inconnu et `Googlebot` reçoivent 200 sur la même page à la même minute. Un 429
+     annonce une limite de débit ; servi selon le nom de l'agent, c'est un filtrage. **Tranché ainsi** : c'est la règle 257 — le site
+     n'est pas consulté, ce qui en avait été lu (plan du site, mentions légales) n'a nourri aucune fiche, et l'on ne repasse pas
+     sous un autre en-tête. Un 429 servi à tous les agents reste une limite de débit : on ralentit et l'on réessaie. Un site qui ne
+     répond plus à aucun agent relève de la règle 237. **Déblocage** : la même réponse pour tous les agents.
+
 ## Marchands à confirmer
 
 675 fiches sur 749 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10604,6 +10624,95 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées dans l'Isère et dans l'Oise — passe sans publication
+
+Passe du 23 septembre 2026, après celle de Limoges. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel. **Classement,
+règle 41**, sur 749 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) : Landes 4,7096 et Eure-et-Loir 4,7049
+(épuisés, règle 265), **Isère (38) 4,1103**, **Oise (60) 4,0148**, Val-d'Oise 3,9219. La passe précédente visait la
+Nouvelle-Aquitaine : l'Auvergne-Rhône-Alpes et les Hauts-de-France étaient ouverts (règle 41.c). Rien n'étant publié, le classement
+ne change pas et aucune région n'est « visée » (règle 247). **Douze communes de l'Isère** (règle 247), puis **deux de l'Oise** (règle
+248), aucune ne rend deux fiches entières, image comprise (règle 127). La passe s'arrête sans publier.
+
+**Le trait commun** : les faits abondent, les images manquent. Presque toutes les Villes criblées rangent nommément les photographies
+parmi ce qu'elles interdisent de reproduire, ou ne les permettent qu'à l'usage privé (règles 231 et 246) : Échirolles, Vienne,
+Bourgoin-Jallieu, Villefontaine, Meylan, L'Isle-d'Abeau, Seyssinet-Pariset, Sassenage, Compiègne. Grenoble Alpes Métropole et
+l'office de la CAPI (`monweekendalacapi.fr`) aussi (usage personnel et privé). Les offices de Vienne Condrieu
+(`vienne-condrieu.com`) et de Compiègne (`compiegne-tourisme.fr`), le site régional `auvergnerhonealpes-tourisme.com` et le magasin
+de producteurs de Bourgoin-Jallieu refusent l'agent nommé et servent les autres (règle 257) ; `voiron.fr` exclut `ClaudeBot` dans
+son `robots.txt` (règle 77) ; `ville-pontdeclaix.fr` renvoie 403 à l'agent nommé ; `mairie-fontaine.fr` renvoie 429 aux seuls
+agents d'IA (règle 280, nouvelle) ; l'office du Pays Voironnais a cessé de répondre à tout agent (règle 237). L'office Grenoble
+Alpes Tourisme, écarté d'abord au titre de la règle 149, autorise nommément `ClaudeBot` (règle 279, nouvelle), mais ses mentions
+légales interdisent la reproduction des images : rien n'en est repris.
+
+**Isère — la descente, dans l'ordre (règle 41.d)** :
+
+1. **Échirolles** (37 491) — la Ville publie quatre marchés avec jours, heures et lieux (La Ponatière le dimanche, centre-ville le
+   jeudi, La Butte le vendredi, Vieux-Village le samedi, 7h-14h ; artisans et producteurs au Vieux-Village), sans image permise. Le
+   magasin de producteurs **Le Comboire Paysan** (13 rue des Montagnes de Lans, Espace Comboire ; mardi-vendredi 9h30-19h,
+   samedi 9h30-18h, horaires recoupés par la page « Magasins de producteurs » de la Métropole ; SIREN actif) a des faits entiers,
+   mais son site réserve ses photographies à l'usage personnel (règle 246) et soumet les liens à autorisation (règle 274). Le
+   magasin Satoriz de l'Espace Comboire n'a qu'une photographie de 640 px (règle 59) et aucune liste de producteurs locaux (règle 273).
+   L'AMAP de quartier n'a pas de source datée de moins de douze mois (règle 195). **Zéro fiche entière.**
+2. **Vienne** (31 778) — Ville fermée aux images, office exclu. La Biocoop du cours Romestang publie ses horaires mais la liste du
+   réseau (règle 273), et ses conditions d'utilisation nomment les photographies ; le magasin d'apiculture de la route du Tonkin
+   interdit la reproduction des images et vend surtout du matériel. L'AMAP du Pays Viennois (jeudi, espace Saint-Germain et centre
+   social de Malissol ; calendrier 2026 publié, article de la Ville du 31 août 2026) n'a pas d'image utilisable. **Zéro.**
+3. **Bourgoin-Jallieu** (30 151) — **une fiche entière, désignée pour la reprise (règles 249 et 258)** : la **Ferme du Marais des
+   Mûres**, 41 route de l'Isle-d'Abeau, maraîchage biologique (certificat engagé depuis 2011 au registre bio), vente à la ferme le
+   mardi de 16h30 à 18h30 et le samedi de 10h à 12h30, paiement en espèces ou chèque ; établissement actif au registre sous cette
+   enseigne ; BAN au numéro (score 0,97 ; 45,608003, 5,250362) ; site sans aucune clause sur les images, vue aérienne des
+   parcelles et des serres de 2 560 px, sans personne (`2022-06-14-Marais-des-Mures-37-scaled.jpg`). Le seul numéro publié est un
+   mobile : il ne sera pas inscrit. Le magasin de producteurs de la rue Édouard-Marion est fiché par l'office de la CAPI (faits),
+   sans image permise. Les marchés : Ville fermée aux images.
+4. **Fontaine** (22 020) — site de la Ville exclu (règle 280) ; Biocoop sous la règle 273. **Zéro.**
+5. **Voiron** (21 847) — Ville exclue (règle 77), office muet (règle 237). **Zéro.**
+6. **Villefontaine** (19 445) — la Ville publie deux marchés (mercredi place de la République, samedi rue du Midi) sans heures et
+   ferme ses images ; la ferme florale et maraîchère qui vend au marché du samedi est servie par Wix, dont l'hébergeur d'images ne
+   se lit pas (règle 256), et ses pages nomment l'équipe. **Zéro.**
+7. **Meylan** (18 770) — Ville fermée ; le GAEC maraîcher et apicole renvoyé ici par la passe de Saint-Martin-d'Hères n'a que des
+   images de moins de 700 px et ne publie pas d'horaires de vente. **Zéro.**
+8. **Saint-Égrève** (17 986) — la clause de la Ville est générale (règles 231 et 253), mais sa seule photographie de marché sert
+   toute la rubrique, ne désigne aucun des trois marchés et montre des passants reconnaissables ; seuls le jour et l'heure du marché
+   du parc Marius-Camet (jeudi 16h-19h) sont publiés. L'épicerie de la rue de Prédieu ne nomme pas ses producteurs (règle 86).
+   **Zéro.**
+9. **L'Isle-d'Abeau** (17 515) — marché du Bourg (samedi 8h-12h30, place Gabriel-Péri, producteurs bio et locaux) et de
+   Saint-Hubert (dimanche, place des Alpes) documentés, Ville fermée aux images. **Zéro.**
+10. **Seyssinet-Pariset** (11 739) — Ville fermée ; aucun commerce hors chaîne avec enseigne. **Zéro.**
+11. **Sassenage** (11 646) — **une fiche entière, désignée pour la reprise** : **Les Terres du Héron**, 60 chemin des Moironds,
+    maraîchage certifié bio, vente à la ferme de début juin à fin octobre le vendredi de 16h à 19h (règle 261 : saison écrite en
+    tête des horaires), légumes aussi livrés à deux AMAP et à une épicerie grenobloise ; établissement actif sous cette enseigne ;
+    BAN au numéro (0,96 ; 45,226938, 5,655754) ; site sans clause, photographies de 1 024 px (la ferme sous la neige, une serre
+    d'hiver, des courges) — écarter celles où l'exploitant figure. Un second maraîchage est inscrit au registre bio à la même
+    adresse ; ses seules sources (fiche d'office de 2021, contacts nominatifs) ne permettent ni de dater sa vente ni de le nommer :
+    la fiche reste au seul nom des Terres du Héron tant que la règle 7 ne peut pas s'appliquer sur une source récente. Le mobile
+    publié ne sera pas inscrit. Le marché de producteurs bio du Bourg (dimanche 8h-13h30, 60 rue François-Gérin) et celui des
+    Glériates (vendredi 7h-13h, place de l'Europe) sont documentés par la Ville, qui ferme ses images ; l'AMAP de la commune est sur
+    Jimdo, qui refuse l'agent nommé (règle 257) ; l'épicerie locale de la commune annonce deux adresses et un local dans l'habitation
+    de l'exploitant (règle 243).
+12. **Le Pont-de-Claix** (10 956) — Ville exclue (règle 257), aucun commerce bio au registre. **Zéro.**
+
+La passe qui reviendra dans l'Isère reprend la descente à **Charvieu-Chavagneux** (10 547), et prend d'abord les deux fiches
+entières ci-dessus si leur commune rend un second point (règle 258). Bourgoin-Jallieu et L'Isle-d'Abeau sont à 4 km dans la même
+intercommunalité (CAPI), mais aucune des deux n'a sa seconde fiche entière.
+
+**Oise — deux communes (règle 248)** :
+
+1. **Compiègne** (40 761) — Ville fermée aux images, office exclu (règle 257), Biocoop sous la règle 273 ; l'AMAP trouvée distribue à
+   Margny-lès-Compiègne. **Zéro.**
+2. **Creil** (36 301) — la clause de la Ville est générale (« les contenus », « les œuvres », sans nommer d'image dans la section,
+   règles 231 et 253). **Une fiche entière, désignée pour la reprise** : le **marché de la place Carnot**, mercredi et samedi matin,
+   7h45-13h d'avril à septembre et 7h45-12h30 d'octobre à mars (page « Marchés et foires » de la Ville) ; photographie de la galerie
+   de la Ville `images/2022/Marches/DSC00396.JPG` (5 152 px), prise un mercredi (23 mars 2022, règles 109 et 140), qui ne peut donc
+   montrer que la place Carnot — étal de légumes, à recadrer sous les personnes du fond (règle 99). Le point de la place se retourne
+   au lieu-dit (BAN 0,95, type `locality`), à vérifier par la règle 26. Le marché du Champ-de-Mars (jeudi) et le marché éco-citoyen
+   du parvis de la Faïencerie (premier jeudi du mois, 17h30-20h) n'ont pas de photographie attribuable ; Graine d'AMAP (jeudi
+   18h-19h30) est sur WordPress.com, qui refuse l'agent nommé (règle 257). La descente de l'Oise reprend à **Nogent-sur-Oise**.
+
+**Données personnelles écartées** : les noms des directeurs de publication, élus et agents lus dans les mentions légales ; les noms
+et mobiles des exploitants que publient les sites des fermes de Bourgoin-Jallieu, de Villefontaine, de Meylan et de Sassenage ; le
+nom de l'auteur d'une page de la Ville d'Échirolles ; les patronymes sous lesquels le registre bio inscrit plusieurs exploitations.
+Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
 
 ### Passe de Limoges (Haute-Vienne) — cinq fiches publiées, commune calculée
 
