@@ -19530,5 +19530,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop+Tourne+Sol+275+boulevard+Denis+Papin+Carcassonne",
     "image_url": "/images/marchands/biocoop-tourne-sol-carcassonne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-niort",
+    "nom": "Les Halles de Niort",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.325352,
+    "lon": -0.463259,
+    "adresse": "Place des Halles (rue Brisson), 79000 Niort",
+    "horaires": "Du mardi au dimanche, jours fériés compris ; fermé le lundi. Ouverture à 5h le mardi et le jeudi, 6h le mercredi et le vendredi, 4h le samedi, 7h le dimanche. Fermeture à 13h30 du mardi au samedi et à 13h le dimanche selon la Ville ; le site des Halles écrit 13h tous les jours. Grands marchés extérieurs le jeudi, le samedi et le dimanche matin.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Poissonnerie et fruits de mer",
+      "Crèmerie et fromagerie",
+      "Boulangerie",
+      "Miel, épices et condiments"
+    ],
+    "description": "Marché couvert du centre-ville, géré par une société d'économie mixte : une soixantaine de commerçants sous la halle, rejoints par cinquante à soixante autres à l'extérieur les jours de grand marché (Ville de Niort). Élu « plus beau marché de France » en 2024 au concours télévisé, selon la Ville et le site des Halles. Photo : site des Halles de Niort (halles-de-niort.fr), un étal de primeur, recadré.",
+    "telephone": "05 49 24 29 66",
+    "site_web": "https://www.halles-de-niort.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+de+Niort+Place+des+Halles+79000+Niort",
+    "image_url": "/images/marchands/halles-de-niort.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "potager-de-chantemerle-niort",
+    "nom": "Potager de Chantemerle",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.355911,
+    "lon": -0.471862,
+    "adresse": "58 rue Angélina Faity, 79000 Niort",
+    "horaires": "Autocueillette et vente au potager le mercredi de 14h à 18h, le vendredi de 14h à 18h et le samedi de 9h à 12h (affiche « nouveaux horaires à partir d'octobre 2024 » du campus ; la boutique en ligne annonce, sans date, 9h-12h et 14h-18h ces trois jours). Paniers commandés en ligne du samedi midi au mercredi soir, retirés le vendredi après-midi au lycée horticole, route de Coulonges.",
+    "produits": [
+      "Légumes biologiques",
+      "Fraises et petits fruits",
+      "Fruits du verger",
+      "Plants potagers",
+      "Semences biologiques"
+    ],
+    "description": "Exploitation du lycée horticole de Niort (campus Terres et Paysages), conduite en agriculture biologique et certifiée par Ecocert au registre de l'Agence Bio : maraîchage et verger en agroforesterie sur le site de Chantemerle, complétés depuis 2023 par une parcelle de 2,5 ha mise à disposition par la Ville et ouverte à l'autocueillette. Photo : campus Terres et Paysages (terres-et-paysages.fr), l'étal de légumes.",
+    "site_web": "https://terres-et-paysages.fr/vente-directe/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=58+rue+Ang%C3%A9lina+Faity+79000+Niort",
+    "image_url": "/images/marchands/potager-de-chantemerle-niort.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amaptite-soucheenne-niort",
+    "nom": "AMAP'tite Souchéenne",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 46.325321,
+    "lon": -0.428894,
+    "adresse": "Centre socioculturel de Souché, 3 rue de l'Aérodrome, 79000 Niort",
+    "horaires": "Distribution le jeudi de 18h à 19h, pour les adhérents sous contrat (site de l'AMAP, contenu des paniers publié chaque semaine jusqu'au 24 septembre 2026).",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Œufs",
+      "Volailles",
+      "Fromages de chèvre",
+      "Tisanes"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne du quartier de Souché, qui privilégie des producteurs locaux en agriculture biologique ou « au naturel » ; ses fournisseurs sont pour la plupart dans les Deux-Sèvres, et la composition des paniers est publiée chaque semaine avec les prix. Photo thématique : étal de légumes au Petit marché de Souché, Ville de Niort (vivre-a-niort.com) ; elle ne montre pas l'AMAP.",
+    "site_web": "https://amapsouche.s2.yapla.com/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3+rue+de+l%27A%C3%A9rodrome+79000+Niort",
+    "image_url": "/images/marchands/amaptite-soucheenne-niort.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "plaisirs-fermiers-sainte-pezenne-niort",
+    "nom": "Plaisirs Fermiers Sainte-Pezenne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.352222,
+    "lon": -0.478876,
+    "adresse": "256 bis route de Coulonges, 79000 Niort",
+    "horaires": "Du mardi au jeudi de 10h à 13h et de 16h à 19h, le vendredi de 10h à 13h et de 15h à 19h, le samedi de 9h30 à 13h ; fermé le dimanche et le lundi (site du magasin).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes, dont viandes bio",
+      "Volailles et canards gras",
+      "Fromages et produits laitiers",
+      "Œufs",
+      "Vins, bières et jus de fruits régionaux"
+    ],
+    "description": "Magasin de producteurs ouvert en 2012 dans le quartier de Sainte-Pezenne par des agriculteurs associés, second magasin niortais de l'enseigne : huit exploitations associées, plus de 90 producteurs et artisans apporteurs, et un laboratoire de découpe sur place. Photo thématique : Jardins de la Brèche, Ville de Niort (vivre-a-niort.com) ; elle ne montre pas le magasin.",
+    "telephone": "05 49 75 19 77",
+    "site_web": "https://plaisirs-fermiers.fr/nos-magasins/niort-sainte-pezenne2/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Plaisirs+Fermiers+256+bis+route+de+Coulonges+Niort",
+    "image_url": "/images/marchands/plaisirs-fermiers-sainte-pezenne-niort.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "nature-solidaire-magne",
+    "nom": "Nature Solidaire, maraîchage bio",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social"
+    ],
+    "lat": 46.319175,
+    "lon": -0.558875,
+    "adresse": "109 rue du Moulin, 79460 Magné",
+    "horaires": "Point de vente ouvert le mercredi de 10h30 à 12h30 et de 13h30 à 16h30 (fiche de l'association sur le site de la commune de Magné).",
+    "produits": [
+      "Légumes biologiques de saison"
+    ],
+    "description": "Atelier et chantier d'insertion de l'économie sociale et solidaire, qui accompagne vers l'emploi des personnes éloignées du travail par des chantiers environnementaux et un maraîchage biologique, à 7,5 km du centre de Niort ; ses cultures sont certifiées par Ecocert au registre de l'Agence Bio. La commune et le Parc du Marais poitevin ne citent à la vente que ses légumes bio, avec du bois de chauffage issu des chantiers. Photo thématique : jardin des Plantes de Niort, Ville de Niort (vivre-a-niort.com) ; elle ne montre pas l'exploitation.",
+    "telephone": "05 49 35 88 12",
+    "site_web": "https://www.ville-magne.fr/card/nature-solidaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nature+Solidaire+109+rue+du+Moulin+79460+Magn%C3%A9",
+    "image_url": "/images/marchands/nature-solidaire-magne.jpg",
+    "a_confirmer": true
   }
 ]

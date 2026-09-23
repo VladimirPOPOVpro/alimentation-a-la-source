@@ -3486,9 +3486,37 @@ prioritaires en cas de conflit.
      plutôt qu'un jour de marché, la grille atteste l'équipement et l'heure vient de l'office au titre de la règle 204.
 
 
+272. **Une commune qui a rendu ses deux fiches entières (règle 127) peut compléter sa zone par des fiches illustrées d'une
+     photographie thématique de sa propre Ville, chacune d'un fichier différent.** À Niort, les halles et le potager du lycée
+     horticole ont leur propre photographie ; le magasin de producteurs de Sainte-Pezenne, lui, a des faits complets mais un site
+     dont les mentions légales nomment les « images » et en interdisent la reproduction (règles 231 et 245), et l'AMAP de Souché
+     ne publie que des tableaux de prix, pas des photographies. La règle 228 ne parlait que de la cinquième fiche d'un groupe
+     complété au titre de la règle 52. **Tranché ainsi** : une fois la règle 127 remplie dans la commune, toute autre fiche de la
+     zone dont les faits sont entiers mais qui n'a aucune image permise prend une photographie thématique de l'autorité de la
+     commune calculée, aux conditions des règles 203, 228 et 234 — équipement public non marchand ou marché non publié de la même
+     commune, jamais une fiche publiée, un fichier par fiche, aucun visage identifiable, la description dit d'où vient l'image et
+     qu'elle ne montre pas le lieu, `a_confirmer`. Deux fichiers différents d'un même jardin public peuvent servir deux fiches. Une
+     image faite de texte (tableau de prix, affiche d'horaires) n'est pas une photographie du lieu et n'ouvre pas cette voie à elle
+     seule.
+
+273. **La page « Paysans associés » d'un magasin de réseau ne remplit pas la règle 86 : c'est la liste du réseau, pas celle du
+     magasin.** Le magasin Biocoop de Niort est actif, certifié (Ecocert, 2007), ses horaires sont publiés ; mais la seule liste
+     de producteurs de son site est la rubrique nationale des coopératives associées au réseau (Bretagne, Centre-Val de Loire,
+     Vendée, Charente-Maritime…), identique d'un magasin à l'autre. La règle 86 veut « le nom des producteurs dont elle vend les
+     produits » et qu'ils soient de la région, et elle visait nommément « le prochain magasin de réseau ». **Tranché ainsi** : une
+     liste que le réseau publie pour tous ses magasins ne dit pas ce que ce magasin-là achète près de chez lui ; le magasin entre
+     quand il publie ses propres fournisseurs locaux (comme Tourne Sol à Carcassonne, avec leur distance), pas avant. La fiche est
+     prête et attend en pistes. **Déblocage** : une page du magasin, ou de son annuaire départemental, qui nomme ses producteurs
+     de la région.
+
 ## Marchands à confirmer
 
-660 fiches sur 734 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+665 fiches sur 739 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Halles de Niort** (Niort) (catégorie et piliers des marchés couverts municipaux, comme les halles de Carcassonne ; pas d'`environnement`, aucune source ne classe les halles. **Registre, règle 6** : la société d'économie mixte de gestion des halles, active, place des Halles. **Horaires, règle 55** : la page « Les marchés niortais » de la Ville donne une fermeture à 13h30 du mardi au samedi et 13h le dimanche ; la page « Plan et infos » du site des Halles écrit 13h tous les jours ; aucune des deux n'est datée, les deux valeurs sont publiées. Les ouvertures (4h à 7h selon le jour) concordent. **Téléphone, règles 189 et 269** : le fixe de la SEM des Halles, que la Ville et le site publient ; le mobile que la Ville imprime aussi n'est pas repris. **Point, règle 26** : la place des Halles à la Base Adresse Nationale (0,966). **Photo** : l'étal d'un primeur sous la halle, versé par le site des Halles (2 016 px, 2021), recadré à gauche du commerçant (1 000 × 1 132) ; le site n'a ni mentions légales ni clause sur les images, son `robots.txt` n'exclut personne ; métadonnées retirées (règle 235).)
+- **Potager de Chantemerle** (Niort) (catégorie `producteur`, comme le domaine du lycée agricole de Carcassonne. **Registre, règle 6** : l'EPLEFPA Terres et Paysages Sud Deux-Sèvres, actif (huit établissements). **Pilier `environnement`, règle 210** : certificat Ecocert engagé le 1er décembre 2021 sur l'exploitation de Niort, productions déclarées (légumes, fraises, petits fruits, plants potagers). **Horaires, règle 58** : l'affiche « Nouveaux horaires à partir d'octobre 2024 » du campus (mercredi et vendredi 14h-18h, samedi 9h-12h) l'emporte sur la boutique en ligne, non datée, qui écrit 9h-12h et 14h-18h les trois jours ; la seconde est citée. **Point** : 58 rue Angélina-Faity à la Base Adresse Nationale (0,972). **Photo** : l'étal de légumes du potager, versé par le campus (1 920 px, ramené à 1 280), sans personne ; les mentions légales du campus ne contiennent qu'un texte de remplissage, aucune clause (règle 231).)
+- **AMAP'tite Souchéenne** (Niort) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : la page « Paniers » de l'AMAP publie la composition des paniers semaine après semaine, jusqu'à celle du 21 au 26 septembre 2026 ; jeudi 18h-19h au centre socioculturel de Souché, équipement public (règle 243 non concernée). **Produits** : les cartes « producteurs » de l'AMAP (légumes, fruits, œufs, volailles, fromages de chèvre, tisanes) ; une carte porte le nom d'une personne, elle n'est pas reprise. **Pas de téléphone, règle 269** : le seul numéro est un mobile imprimé sous le nom de la directrice de publication. **Photo, règle 272** : les images de l'AMAP sont des tableaux de prix ; retenu : l'étal de légumes d'un exposant du Petit marché de Souché (Ville de Niort, 2022), marché de trois dimanches par an non publié (règle 203), recadré à droite des clients (720 × 470) ; la description dit qu'il ne montre pas l'AMAP.)
+- **Plaisirs Fermiers Sainte-Pezenne** (Niort) (catégorie `producteur`, règle 105 : magasin de producteurs permanent. **Registre, règle 6** : la société Délices du Terroir, active, enseigne « Plaisirs Fermiers » au 256 B route de Coulonges. Pas d'`environnement` : le certificat Bureau Veritas de la société couvre une partie des rayons, le magasin n'est pas bio en entier (règle 60). **Faits** : page du magasin (horaires, téléphone, huit exploitations associées, plus de 90 apporteurs) ; les noms d'exploitations qu'elle cite ne sont pas repris, l'un est formé d'un patronyme. **Point** : 256 bis route de Coulonges à la Base Adresse Nationale (0,812, type « numéro »). **Photo, règles 245 et 272** : les mentions légales du site nomment les « images » et en interdisent la reproduction ; retenu : une allée des Jardins de la Brèche (Ville de Niort), recadrée pour écarter une passante (810 × 1 065), sans visage identifiable.)
+- **Nature Solidaire, maraîchage bio** (Magné) (catégorie `producteur` ; piliers `alimentation`, `environnement` (certificat Ecocert engagé le 19 novembre 2012) et `social` (atelier et chantier d'insertion). **Élargissement, règles 96 et 127** : Magné est dans la communauté d'agglomération du Niortais, à 7,5 km du centre de Niort ; quatre fiches sont dans la commune. **Registre, règle 6** : l'association, active, au 109 rue du Moulin. **Horaires** : fiche de l'association sur le site de la commune de Magné (mercredi 10h30-12h30 et 13h30-16h30). **Produits, règles 31 et 92** : la commune et la fiche du Parc naturel régional du Marais poitevin ne citent à la vente que les légumes bio et du bois de chauffage ; les fraises, framboises et aromates du registre de l'Agence Bio sont des cultures déclarées, pas une vente constatée, et ne sont pas listés. **Point** : 109 rue du Moulin à la Base Adresse Nationale (0,958). **Photo, règles 228 et 234** : la seule image de l'association fait 267 px (règle 59) ; retenu : une allée du jardin des Plantes de Niort (Ville de Niort, 1 200 × 800), trois cyclistes vus de dos ; le crédit nomme la Ville, jamais le photographe (règle 268).)
 - **Halles Prosper-Montagné** (Carcassonne) (catégorie et piliers des marchés municipaux, comme les halles de Nîmes ou de Pau ; pas d'`environnement`, aucune source ne classe les halles. **Existence, règle 271** : la Ville tarife les « Halles couvertes » dans sa grille 2026 et loue la salle des halles ; elle ne publie pas d'horaires. **Horaires, règle 204** : ceux de la fiche de l'office de tourisme (mardi-samedi 7h-13h), aucune autre source ne les contredit. **Produits** : la liste de métiers que donne l'office (bouchers, charcutiers, poissonniers, primeurs, volaillers). **Point, règles 63 et 67** : la Base Adresse Nationale ignore la place Eggenfelden (elle rend une autre place de la ville) ; le marqueur de l'office est repris, et son contrôle inverse rend le 23 rue Albert-Tomey à 21 m, l'une des voies qui bordent la halle, à 60 m du milieu de la rue de Verdun. **Photo, règle 231** : la façade à arcades, sans personne, attachée par l'office à la fiche des halles (1 200 × 675) ; le site de l'office n'a qu'une page de crédits, sans clause sur les images ; métadonnées retirées (règle 235).)
 - **Marché de la place Carnot** (Carcassonne) (catégorie et piliers des marchés municipaux ; pas d'`environnement`, règle 68 : l'office écrit « producteurs locaux et bio » le samedi sans classification. **Faits, règles 16 et 271** : la Ville reconnaît le marché dans sa grille tarifaire 2026 ; l'office de tourisme et l'annuaire Jours-de-Marché s'accordent sur mardi, jeudi et samedi matin, place Carnot ; heures 7h-13h attribuées à Jours-de-Marché, l'office n'écrivant que « matins ». **Point** : place Carnot à la Base Adresse Nationale (0,968). **Voisinage, règle 12** : les halles sont à 140 m ; chacune garde son point. **Photo** : la place et sa fontaine, publiée par l'office sur sa page des marchés (1 600 px, ramenée à 1 280) ; une seule personne, de dos, près de la fontaine ; ce n'est pas un jour de marché, la description le dit. Les trois photographies de marché de la même page montrent des clients et des marchands de face et portent la signature d'un photographe en filigrane (règle 75) : aucune n'est reprise. Le crédit nomme l'office, jamais le photographe (règle 268).)
 - **La Borieta, boutique paysanne** (Carcassonne) (catégorie `producteur`, règle 105 : point de vente collectif permanent tenu par ses producteurs. **Registre, règle 6** : l'association Nous Paysans, active, un établissement au 385 boulevard Denis-Papin. **Pilier `environnement`, règle 210** : certificat Qualisud engagé le 9 février 2026, activité « magasin de producteurs », productions déclarées (œufs, fromages, produits laitiers, fruits et légumes). **Adresse, règle 87** : la page « Contacts » du site écrit « 374 boulevard Denis Papin », numéro que la Base Adresse Nationale ignore ; le registre des entreprises, celui de l'Agence Bio et l'office de tourisme donnent le 385, dont le point (0,972) tombe à 30 m du marqueur de l'office : le 385 est retenu. **Horaires, règle 87** : la page d'accueil et la page « Contacts » du même site ne s'accordent pas sur le lundi (15h ou 14h) ni sur le samedi (12h30 ou 13h) ; faute de seconde autorité (l'office ne publie pas d'heures), la fenêtre la plus étroite est publiée et l'autre citée. **Téléphone** : aucun ; le fixe n'est publié que par l'office et le mobile du registre de l'Agence Bio est inscrit sous le nom d'une personne (règle 269). **Photo** : la façade publiée par la boutique sur sa page d'accueil (1 200 px) montre, sous l'enseigne, un groupe d'une trentaine de personnes de face ; recadrée au-dessus des têtes (1 200 × 425), métadonnées retirées ; le site n'a ni `robots.txt` ni clause sur les images.)
@@ -10533,6 +10561,53 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Niort (Deux-Sèvres) — cinq fiches publiées, commune calculée
+
+Passe du 23 septembre 2026, après celle de Carcassonne. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel.
+**Classement, règle 41**, sur 734 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) : Landes 4,6153 et
+Eure-et-Loir 4,6106 (épuisés, règle 265), **Deux-Sèvres (79) 3,9943**, Haute-Vienne 3,9723, Maine-et-Loire 3,8755. La passe
+précédente visait l'Occitanie : la Nouvelle-Aquitaine est ouverte (règle 41.c). Les Deux-Sèvres n'avaient jamais été visées.
+`origin/main` n'avait pas bougé au moment de publier (règle 241). **Après la passe**, sur 739 fiches : Landes 4,6468 et
+Eure-et-Loir 4,6420 (épuisés), Haute-Vienne 3,9994, Maine-et-Loire 3,9360, Isère 3,9219 ; Deux-Sèvres −0,9785. La passe suivante
+ne peut pas viser la Nouvelle-Aquitaine : la Haute-Vienne est sautée et le Maine-et-Loire (Pays de la Loire) arrive en tête.
+
+**Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte. Le site de la Ville de Capbreton n'ouvre aucune
+connexion (`capbreton.fr` comme `www.capbreton.fr`, aux deux agents, règle 237) : pas de source datée pour l'antenne de Capbreton,
+le groupe de Labenne reste à quatre points.
+
+**Niort** (59 854, commune calculée) : **cinq fiches**, quatre dans la commune et une dans la communauté d'agglomération du Niortais.
+
+- Contrôle en deux requêtes (règle 257) : l'office Niort-Marais poitevin (`niortmaraispoitevin.com`) et l'agence départementale
+  (`tourisme-deux-sevres.com`) répondent 403 à l'agent nommé et 200 aux autres ; exclusion, ni l'un ni l'autre n'est lu. Le site de
+  l'AMAP Les Paniers de la Sèvre fait de même. `niort.fr` redirige vers `vivre-a-niort.com`, site de la Ville, qui n'exclut personne
+  et dont les mentions légales ne disent rien des images (règle 231) ; son `robots.txt` ferme `/uploads/`, `/fileadmin/CAN/` et
+  `/fileadmin/sev/`, et aucune image retenue n'en vient.
+- **Deux fiches entières dans la commune (règle 127)** : les Halles (photographie du site des Halles) et le Potager de Chantemerle
+  (photographie du campus). **Deux autres dans la commune** : l'AMAP'tite Souchéenne et le magasin Plaisirs Fermiers de
+  Sainte-Pezenne, faits entiers, photographie thématique de la Ville (règle 272, nouvelle). **Cinquième** : Nature Solidaire à
+  Magné, 7,5 km (règle 96). Toutes les fiches sont `a_confirmer` ; le détail des sources est dans « Marchands à confirmer ».
+- **Règle 167** : Niort a rendu six fiches aux faits entiers ; la catégorie `magasin-bio` manquait, mais le seul candidat, le
+  magasin Biocoop, ne remplit pas la règle 86 (règle 273, nouvelle) ; la cinquième place est allée au seul maraîchage d'insertion
+  de l'agglomération plutôt qu'au second magasin de la même enseigne de producteurs.
+
+### Pistes non publiées à Niort
+
+Passe du 23 septembre 2026 (Deux-Sèvres). La passe qui reviendra dans le 79 reprend d'abord les fiches nommément désignées ici,
+puis la descente à **Bressuire** (19 970), deuxième commune ; Niort est éprouvée.
+
+- **Biocoop Le Baquet Vert** (30 rue Gutenberg) — **désignée pour la reprise** : fiche prête — société active, certificat Ecocert
+  engagé en 2007, horaires du lundi au samedi de 10h à 19h et fixe sur le site du magasin, point au numéro à la Base Adresse
+  Nationale (0,969), photographie thématique prévue (Jardins de la Brèche, Ville de Niort, 740 × 520, déjà recadrée ; les
+  conditions d'utilisation du site nomment les « photographies », règle 245). Bloquée par la règle 273. **Déblocage** : une liste
+  de fournisseurs locaux publiée par le magasin.
+- **Plaisirs Fermiers, magasin de Mendès-France** (premier magasin de l'enseigne à Niort) : même site, même clause sur les images ;
+  non instruit plus avant, la zone étant complète (règle 167).
+- **AMAP Les Paniers du Square** (distribution le mardi, avenue de la Venise-Verte) : dernière page modifiée en août 2024, aucune
+  source de moins de douze mois (règle 195), images de banque d'images. **Déblocage** : une source datée.
+- **AMAP Les Paniers de la Sèvre** (quartier des Brizeaux) : site fermé à l'agent nommé (règle 257).
+- **Marché bio des Brizeaux** et **Petit marché de Souché** : la Ville les tient trois fois par an chacun, dates à l'agenda ;
+  pas une fiche permanente.
 
 ### Passe de Carcassonne (Aude) — cinq fiches publiées dans la commune, deuxième de la descente
 
