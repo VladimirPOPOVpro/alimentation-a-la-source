@@ -10656,6 +10656,113 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans l'Oise et dans le Val-d'Oise — troisième passe sans publication
+
+Passe du 23 septembre 2026, après la seconde passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
+(nouvelle ou en cours), aucun courriel. **Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte ; le site de
+la Ville de Capbreton n'ouvre toujours aucune connexion (`capbreton.fr` comme `www.capbreton.fr`, aux deux agents, règle 237) : le
+groupe de Labenne reste à quatre points. **Classement, règle 41**, sur 753 fiches, dénominateur de la règle 224, outre-mer écarté
+(règle 177) : **Oise (60) 5,0629**, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, Vosges
+3,9013 — identique à la passe précédente, rien n'ayant été publié (règle 260). La dernière région visée reste l'Auvergne-Rhône-Alpes :
+les Hauts-de-France et l'Île-de-France étaient ouverts (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241).
+**Douze communes de l'Oise** (règle 247), reprises à Breteuil comme la section précédente le prescrit, puis **deux du Val-d'Oise**
+(règle 248) : aucune ne rend deux fiches entières, image comprise (règle 127). Aucune zone n'est publiée et aucune région n'est
+« visée ».
+
+**Le trait commun ne change pas** : les faits existent, les images manquent. Breteuil, Cires-lès-Mello (même gabarit de site
+communal, « usage personnel et privé »), Le Plessis-Belleville, Verberie, Ribécourt-Dreslincourt, Estrées-Saint-Denis,
+Orry-la-Ville et Sainte-Geneviève rangent nommément les photographies ou les images parmi ce qu'elles interdisent (règles 231, 246
+et 253), comme Pontoise dans le Val-d'Oise. L'office de tourisme de Cergy-Pontoise sert l'agent par défaut et répond 403 à l'agent
+nommé : il n'a pas été consulté (règle 257). L'annuaire « Saveurs des Vallées de l'Oise » reste écarté (règles 145 et 149). **Trois
+sites de Ville sans clause fermante** ont été trouvés — Bresles, Coye-la-Forêt, Crèvecœur-le-Grand — et Herblay-sur-Seine permet la
+réutilisation non commerciale en citant l'origine et la date (règle 253) ; mais aucun des quatre ne photographie ses marchés.
+Deux domaines qui portent le nom d'une commune ne sont pas son site : `leplessisbelleville.fr` sert un blog de contenu sans
+rapport (le site de la Ville est `leplessisbelleville.com`, selon l'Annuaire de l'administration), et `verberie.fr` une installation
+WordPress vierge (le site de la Ville est `ville-verberie.org`) — même piège que la règle 159, rien n'en a été repris.
+
+**Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Breteuil** (4 222) — la Ville publie le marché du mercredi après-midi (parvis de l'hôtel de ville, sans heure, fruits et
+   légumes mêlés aux vêtements) et les **Samedis du terroir**, marché de producteurs du premier samedi du mois, 8h30-12h, place de
+   l'Hôtel-de-Ville, avec une liste de produits (fruits et légumes, œufs, miel, pommes bio, cidre, fromages de chèvre, bières,
+   volailles, beurre et crème) ; ses images sont fermées. Au registre bio, des supermarchés seulement. **Zéro** ; les Samedis du
+   terroir attendent une image. La page nomme les exploitants présents, avec un portable : rien n'en est repris.
+2. **Neuilly-en-Thelle** (4 127) — la Ville ne publie aucun marché ; son annuaire ne compte qu'une boucherie et un supermarché.
+   **Zéro.**
+3. **Bresles** (4 029) — Ville sans clause sur les images. Le **Marché des saveurs** (dernier vendredi du mois, sous la halle de
+   plein vent de la place du Linciau, 16h30-19h30 sur la page, 16h30-19h sur l'affiche de septembre 2026) n'a pour toute composition
+   que « des produits du terroir » d'« artisans locaux » (règle 197) ; son calendrier en ligne est celui de 2025 ; la seule image est
+   l'affiche dessinée de la Ville (règle 182), qui ne rend pas la fiche entière faute de produits. Le cressiculteur de l'annuaire
+   communal est inscrit au registre sous le nom de son exploitant (règle 259). **Zéro.**
+4. **Le Plessis-Belleville** (4 009) — Ville fermée aux images (« usage personnel et privé »,
+   photographies nommées). L'**AMAP La main aux paniers** a des faits entiers et datés (mercredi 19h30-20h30, 14 place de l'Église ;
+   page de la Ville modifiée le 22 juillet 2026, site propre vivant avec une actualité de mai 2026) mais son site réserve lui aussi
+   ses images à l'usage privé. Le marché du premier dimanche du mois (parc de la mairie, 9h-13h) n'a pas de source de 2026 ni de
+   composition. **Zéro** ; l'AMAP attend une image permise.
+5. **Cires-lès-Mello** (3 978) — Ville fermée, aucun marché publié. **Zéro.**
+6. **Coye-la-Forêt** (3 915) — la Ville n'a **aucune clause sur les images**, et elle documente deux fiches presque entières :
+   le **marché** de la rue d'Hérivaux, mercredi et samedi de 8h à 13h (règlement du marché annexé à la délibération du
+   17 décembre 2010, guide annuel 2026 de la Ville ; séances de fin décembre 2025 à 8h-13h dans son agenda), dont l'agenda de
+   septembre 2024 nomme le boucher et les fromages parmi « les produits du marché » ; et l'**AMAP de Coye-la-Forêt**, jeudi de
+   18h30 à 19h30 sous la halle du marché, légumes, œufs, pain, céréales, pommes, jus, porc et bœuf, fromage (guide annuel 2026 de la
+   Ville, source datée de moins de douze mois, règle 195 ; un annuaire tiers ancien la donne le mardi place de la Mairie, c'est la
+   Ville datée qui vaut). **Aucune des deux n'a d'image à elle** : la médiathèque de la Ville ne contient aucune vue du marché ni de
+   l'AMAP, le guide n'illustre la page du marché que d'un logo de 239 px, et l'AMAP n'a qu'une page de réseau social. **Zéro fiche
+   entière**, deux fiches aux faits entiers qui n'attendent qu'une photographie du lieu (règle 127). Les photographies thématiques
+   de la Ville (jardins familiaux, étangs) ne leur servent pas tant que la règle 127 n'est pas remplie dans la commune (règle 272) ;
+   plusieurs portent d'ailleurs le nom d'un photographe dans leur fichier, et ne seraient reprises qu'avec un crédit à la Ville
+   (règle 268) et sous un autre nom de fichier.
+7. **Verberie** (3 898) — Ville fermée (« textes, images » nommés) ; au registre bio, des boulangeries et un supermarché.
+   **Zéro.**
+8. **Ribécourt-Dreslincourt** (3 871) — Ville fermée. Le lycée horticole déclare une vente aux particuliers au registre bio, mais
+   son propre site ne publie ni jour ni heure de vente, et la seule page qui en donne est celle de l'annuaire écarté (règles 149 et
+   192). Une exploitation du registre porte un patronyme (règle 259). **Zéro.**
+9. **Estrées-Saint-Denis** (3 664) — Ville fermée (« images animées ou fixes » sous la même section que l'interdiction, règle
+   253) ; au registre bio, des sélectionneurs et un grossiste. Une fête annuelle des producteurs n'est pas un point de vente.
+   **Zéro.**
+10. **Orry-la-Ville** (3 583) — Ville fermée (« toutes les images […] utilisation non autorisée expressément interdite »). Le
+    marché du jeudi matin (esplanade Anne-Lorraine) n'a ni heure ni composition. La micro-ferme **Les Légumes du Plat d'Eau**
+    (maraîchage certifié bio, vente le samedi matin devant la boulangerie de la place de l'Abbé-Clin selon la Ville) n'a pour toute
+    présence propre que des réseaux sociaux. **Zéro.**
+11. **Sainte-Geneviève** (3 505) — Ville fermée ; une boulangerie bio et une épicerie de vrac sans site propre, la seconde sans
+    liste de producteurs (règle 86). **Zéro.**
+12. **Crèvecœur-le-Grand** (3 462) — Ville sans clause sur les images, qui annonce deux marchés (jeudi après-midi, mixte ;
+    dimanche matin, « marché de producteurs locaux ») sans lieu ni heure ; la fiche d'annuaire du marché de producteurs ne donne
+    que les coordonnées personnelles d'un responsable dans une autre commune, qui ne sont pas reprises. **Zéro.**
+
+La passe qui reviendra dans l'Oise reprend la descente à **Choisy-au-Bac** (3 449). **Quatre fiches restent désignées pour la
+reprise**, chacune seule dans sa commune (voir la section précédente) : le marché de la place Carnot à Creil, la Ferme de l'Arbre
+à Poule à Villers-Saint-Paul, La Ferme de la Nonette à Chantilly (sous sa réserve de registre) et l'AMAP de Margny-lès-Compiègne.
+Coye-la-Forêt, Chantilly et Orry-la-Ville sont toutes trois dans l'Aire Cantilienne, à moins de 5 km les unes des autres : une
+photographie permise du marché ou de l'AMAP de Coye rendrait à cette commune ses deux fiches entières, et avec La Ferme de la
+Nonette l'intercommunalité aurait sa troisième (règles 96 et 127).
+
+**Val-d'Oise — deux communes (règle 248)**, reprises à Pontoise :
+
+1. **Pontoise** (31 970) — Ville fermée (« représentations iconographiques et photographiques » interdites), office de Cergy-Pontoise
+   exclu (règle 257). Au registre bio, une exploitation apicole de la commune déclare la vente aux particuliers, mais son site ne
+   publie ni lieu ni heure de vente et l'adresse qu'il donne est vraisemblablement un domicile (règle 243) : la piste se note sans
+   adresse et ne se rouvre pas. **Zéro.**
+2. **Herblay-sur-Seine** (31 779) — la clause de la Ville est générale et permet la réutilisation non commerciale en citant
+   l'origine et la date (règle 253). Le **marché municipal** se tient le mardi, le vendredi et le dimanche matin sous la halle de la
+   place de la Halle (page « Des commerces et restaurants de qualité ») ; la Ville nomme parmi ses commerçants une poissonnerie, une
+   boucherie, un traiteur et une rôtisserie, mais ne publie aucune heure de vente hors des matinées d'animation (9h-13h), et ne
+   l'illustre que d'affiches d'événements. Les autres commerces alimentaires de l'annuaire communal sont des épiceries et des
+   primeurs généralistes ; la Biocoop reste sous les règles 149 et 273. **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Goussainville** (31 301).
+
+**Après la passe**, sur 753 fiches, rien n'a changé : **Oise 5,0629** (Hauts-de-France), Landes 4,7348 et Eure-et-Loir 4,7300
+(épuisés), Val-d'Oise 3,9963, Vosges 3,9013. Rien n'ayant été publié, la passe suivante peut viser les Hauts-de-France.
+
+**Données personnelles écartées** : les noms des maires, directeurs de publication, concepteurs de sites et responsables
+d'association lus dans les mentions légales et les pages des Villes, avec leurs portables et leurs adresses électroniques ; les noms
+et portables des exploitants que la page des Samedis du terroir de Breteuil présente ; le nom sous lequel la presse et les
+annuaires désignent l'exploitante de la micro-ferme d'Orry-la-Ville et celui de l'apicultrice de Pontoise ; le patronyme du
+cressiculteur de Bresles ; les noms des photographes inscrits dans les fichiers de la médiathèque de Coye-la-Forêt ; les
+coordonnées du responsable du marché de producteurs de Crèvecœur-le-Grand. Aucun n'apparaît ici, dans un commit ni dans un nom de
+fichier.
+
 ### Pistes non publiées dans l'Oise et dans le Val-d'Oise — seconde passe sans publication
 
 Passe du 23 septembre 2026, après la première passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
