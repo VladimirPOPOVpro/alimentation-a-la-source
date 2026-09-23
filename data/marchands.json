@@ -19935,5 +19935,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Petite+Ferme+Le+Bas+Faur%C3%A9+87110+Le+Vigen",
     "image_url": "/images/marchands/la-petite-ferme-le-vigen.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-la-plaine-varces",
+    "nom": "La Ferme de la Plaine",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.086961,
+    "lon": 5.701848,
+    "adresse": "60 route de Fontagneux, 38760 Varces-Allières-et-Risset",
+    "horaires": "Magasin à la ferme ouvert le vendredi de 16h30 à 19h, toute l'année (site de la ferme). Visites de l'exploitation sur rendez-vous.",
+    "produits": [
+      "Légumes et fruits de saison bio, aussi en paniers",
+      "Plants de légumes bio",
+      "Œufs de poules élevées en plein air",
+      "Miel",
+      "Confitures bio",
+      "Tisanes, hydrolats et sels aromatisés bio",
+      "Fleurs comestibles bio"
+    ],
+    "description": "Maraîchage biologique sur la plaine de Reymure, au sud de Grenoble, certifié chez Ecocert depuis 2009, avec un magasin ouvert à la ferme chaque vendredi et un accueil de classes en ferme pédagogique. Photo : site de la ferme.",
+    "site_web": "https://lafermedelaplaine.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+de+la+Plaine+60+route+de+Fontagneux+38760+Varces-Alli%C3%A8res-et-Risset",
+    "image_url": "/images/marchands/ferme-de-la-plaine-varces.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "les-jardins-de-malissoles-varces",
+    "nom": "Les Jardins de Malissoles",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.083417,
+    "lon": 5.70591,
+    "adresse": "110 chemin de Malissoles, 38760 Varces-Allières-et-Risset",
+    "horaires": "Légumes : le mercredi de 14h30 à 19h. Plants de légumes et de fleurs : du 2 avril au 30 juin, du lundi au samedi de 9h à 12h et de 14h à 18h (la description de la même fiche d'office écrit 19h et ajoute une vente du 15 octobre au 1er novembre). Source : fiche de l'Office de Tourisme Grenoble Alpes reprise par le Parc du Vercors, mise à jour le 9 avril 2026.",
+    "produits": [
+      "Légumes bio de saison (50 espèces, 150 variétés anciennes et récentes)",
+      "Plants de légumes bio produits depuis la graine",
+      "Plants de fleurs"
+    ],
+    "description": "Maraîchage et horticulture certifiés bio depuis 2005 : quatre hectares de légumes, un demi-hectare de serres froides et une grande serre en verre, avec vente sur place et journées collectives à la ferme. Photo : Parc naturel régional du Vercors (image de l'exploitation), recadrée.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Jardins+de+Malissoles+chemin+de+Malissoles+38760+Varces-Alli%C3%A8res-et-Risset",
+    "image_url": "/images/marchands/les-jardins-de-malissoles-varces.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chevres-du-griffey-claix",
+    "nom": "Les Chèvres du Griffey",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.107859,
+    "lon": 5.643327,
+    "adresse": "40 chemin de Savoyères, 38640 Claix",
+    "horaires": "Vente à la ferme du 1er mars au 31 décembre, tous les jours de 9h à 10h et de 17h à 19h (la description de la même fiche d'office indique aussi « tous les jours de 10h à 12h »). Source : Office de Tourisme Grenoble Alpes, fiche mise à jour le 9 avril 2026.",
+    "produits": [
+      "Fromages blancs de chèvre au lait cru",
+      "Fromages de chèvre frais",
+      "Fromages de chèvre affinés"
+    ],
+    "description": "Élevage d'une soixantaine de chèvres installé depuis 2012 à 900 m d'altitude sur le plateau de Savoyères, au pied du Pic Saint-Michel, qui transforme son lait cru en fromages à la ferme. Photo : Parc naturel régional du Vercors (image de l'exploitation), 640 px.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Ch%C3%A8vres+du+Griffey+40+chemin+de+Savoy%C3%A8res+38640+Claix",
+    "image_url": "/images/marchands/chevres-du-griffey-claix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-des-cuves-sassenage",
+    "nom": "Brasserie des Cuves",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 45.206261,
+    "lon": 5.681381,
+    "adresse": "5 rue de la Maladière, 38360 Sassenage",
+    "horaires": "Du lundi au vendredi de 9h30 à 12h30 et de 14h à 18h, le samedi de 9h30 à 12h30, fermé le dimanche ; horaires élargis en décembre (site de la brasserie).",
+    "produits": [
+      "Bières blonde, blanche, rousse et noire",
+      "Bières de la gamme spéciale (IPA, lager)",
+      "Bière bleue Sacrebleu!",
+      "Limonades sans alcool Sacrébulle (citron, orange, cola)"
+    ],
+    "description": "Brasserie artisanale ouverte en 2015 aux portes de Grenoble, qui tire son nom des cuves de brassage et de la grotte des Cuves de Sassenage ; vente directe au public dans la fabrique. Photo : Parc naturel régional du Vercors (image de la brasserie).",
+    "telephone": "04 57 93 60 27",
+    "site_web": "https://www.brasseriedescuves.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie+des+Cuves+5+rue+de+la+Maladi%C3%A8re+38360+Sassenage",
+    "image_url": "/images/marchands/brasserie-des-cuves-sassenage.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "la-furieuse-sassenage",
+    "nom": "La Furieuse",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.206911,
+    "lon": 5.680575,
+    "adresse": "7 rue de la Maladière, 38360 Sassenage",
+    "horaires": "Boutique ouverte du lundi au vendredi de 9h à 18h (site de la brasserie et Office de Tourisme Grenoble Alpes).",
+    "produits": [
+      "Bière blonde La Furie",
+      "Ambrée, blanche et IPA de la gamme permanente",
+      "Bière sans alcool Fugazi",
+      "Bières de saison et éphémères",
+      "Ginger beer et boissons bio"
+    ],
+    "description": "Micro-brasserie de Sassenage certifiée bio depuis 2020, dont la boutique vend la gamme permanente, les bières de saison et des boissons sans alcool à la sortie de la fabrique. Photo : Parc naturel régional du Vercors (image de la brasserie).",
+    "site_web": "https://lafurieuse.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Furieuse+7+rue+de+la+Maladi%C3%A8re+38360+Sassenage",
+    "image_url": "/images/marchands/la-furieuse-sassenage.jpg",
+    "a_confirmer": false
   }
 ]

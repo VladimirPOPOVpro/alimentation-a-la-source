@@ -3562,9 +3562,31 @@ prioritaires en cas de conflit.
      sous un autre en-tête. Un 429 servi à tous les agents reste une limite de débit : on ralentit et l'on réessaie. Un site qui ne
      répond plus à aucun agent relève de la règle 237. **Déblocage** : la même réponse pour tous les agents.
 
+281. **Une fiche d'office qui donne deux horaires, l'un dans son champ « Ouverture », l'autre dans sa description : c'est le
+     champ fait pour porter l'horaire qui l'emporte.** La fiche des Chèvres du Griffey, à Claix, mise à jour le 9 avril 2026 par
+     l'Office de Tourisme Grenoble Alpes et reprise par le Parc du Vercors, écrit dans sa description « vente à la ferme tous les
+     jours de 10h à 12h », et dans son bloc « Ouverture » « du 01/03 au 31/12 tous les jours de 9h à 10h et de 17h à 19h ». Les deux
+     fenêtres ne se recouvrent pas : la lecture « la plus étroite » de la règle 87 ne protège ici aucun visiteur, et aucune seconde
+     autorité ne publie d'horaire (la Ville de Claix et l'annuaire de l'OPT n'en donnent pas). **Tranché ainsi** : c'est la règle 80
+     appliquée à l'intérieur d'une page — le champ structuré, fait pour porter l'horaire et daté par la mise à jour de la fiche,
+     l'emporte sur la prose ; la valeur écartée est écrite entre parenthèses dans `horaires` et la fiche passe en `a_confirmer`.
+     Même lecture aux Jardins de Malissoles, où le champ « Ouverture » ferme à 18h et la description à 19h.
+
+282. **Un `robots.txt` qui écrit `Disallow: /` sous `User-agent: *` et n'ouvre le site qu'à des robots nommés ferme le site au
+     robot par lequel cette carte travaille.** Le blog de la Ferme du Mas des Buissons, à Saint-Paul-de-Varces
+     (`lafermedumasdesbuissons.blogspot.com`), porte `User-agent: *` suivi de `Disallow: /`, et ne rouvre l'accès qu'à
+     `Mediapartners-Google` et à `googlebot`. La règle 77 exclut de son champ un `Disallow` qui vise un chemin sous `User-agent: *` ;
+     elle ne dit rien d'un `Disallow` qui vise la racine. **Tranché ainsi** : un `Disallow: /` sous `User-agent: *` n'est pas un
+     chemin, c'est le site entier, et il vise tout robot qui n'est pas nommément réadmis ; c'est la règle 77, le site n'est pas une
+     source, et ce qui en a été lu avant la lecture du `robots.txt` n'a nourri aucune fiche (règle 280). Les faits de la ferme qui
+     restent — l'horaire de la fiche d'office — ne disent pas ce qu'elle vend : elle attend en pistes. **Déblocage** : un
+     `robots.txt` qui ne ferme plus la racine, ou la liste de ses produits publiée par une autre source.
+
 ## Marchands à confirmer
 
-675 fiches sur 749 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+677 fiches sur 754 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Jardins de Malissoles** (Varces-Allières-et-Risset) (catégorie `ferme`. **Registre, règle 6** : EARL active, établissement unique au lieu-dit de Malissoles. **Agence Bio** : certificat engagé depuis novembre 2005, vente aux particuliers déclarée ; le pilier `environnement` suit le certificat. **Point** : la fiche d'office ne donne que « chemin de Malissoles » ; le numéro 110 vient de la déclaration de l'opérateur au registre bio, la Base Adresse Nationale le rend au numéro (0,955) et le marqueur de la fiche du Parc tombe à 73 m ; le point du registre des entreprises, au lieu-dit, est à 340 m et n'est pas retenu. **Horaires, règle 281** : le champ « Ouverture » l'emporte sur la description (18h contre 19h), la vente d'automne des plants, écrite dans la seule description, est citée entre parenthèses. **Produits** : ceux de la fiche d'office seulement ; les pommes et les aromatiques du registre bio sont des cultures déclarées, pas une vente attestée (règle 31). Le téléphone de la fiche d'office n'est pas repris. Photo : la serre de la fiche du Parc du Vercors, dont le site n'a aucune clause sur les images (règles 231 et 254) ; le filigrane nominatif du bas de l'image est retiré par recadrage (règle 75), 1 200 × 740)
+- **Les Chèvres du Griffey** (Claix) (catégorie `ferme`, fromagerie à la ferme. **Registre, règle 6** : GAEC actif sous cette dénomination, créé en 2019, au 40 chemin de Savoyères, point à 11 m de celui de la Base Adresse Nationale (0,959). **Horaires, règle 281** : champ « Ouverture » retenu, description citée entre parenthèses. **Téléphone non inscrit** : l'office et l'annuaire de la Ville de Claix donnent deux numéros différents, et l'exploitation ne publie aucun site. Pas de pilier `environnement` : l'exploitation n'est pas au registre bio. Photo : chèvres au pâturage, fiche du Parc du Vercors, 640 px — sous le seuil de 700 px mais au-dessus du plancher de la règle 59, faute de photographie thématique permise de Claix, dont la Ville réserve ses images à l'usage privé)
 - **Saveurs Fermières — Mas Loubier** (Limoges) (catégorie `producteur`, règle 105 : magasin permanent d'une coopérative de producteurs. **Registre, règle 6** : la société coopérative agricole Saveurs Fermières, active, deux établissements ouverts, au 10 rue de la Céramique (siège) et au 38 rue de la Mauvendière. Pas d'`environnement` : aucun certificat de la coopérative au registre de l'Agence Bio. **Règle 86** : la coopérative vend la production de ses fermes adhérentes et écrit ne pas faire d'achat-revente ; sa carte de producteurs lui est propre (règle 276), les noms n'en sont pas repris. **Horaires et téléphone** : pages « Nos magasins » et « Horaires » du site, identiques ; la fiche de Destination Limoges (article du 25 juin 2026, modifié le 2 juillet) donne les mêmes adresses et numéros. **Point** : 10 rue de la Céramique à la Base Adresse Nationale (0,970, type « numéro »), à 25 m du point du registre. **Photo, règles 230, 239 et 268** : les mentions légales du site nomment les photographies et en interdisent la reprise ; retenue : des bouteilles d'huile de tournesol devant l'enseigne du magasin, publiée par l'office dans son article (1 600 × 2 133, ramenée à 1 280), sans personne ; l'office crédite la coopérative et une photographe, la fiche ne cite que l'office. Deux autres images de l'article sont écartées : des portraits de producteurs, et une tartine dont l'étiquette de fromage porte le nom de personnes.)
 - **Saveurs Fermières — La Mauvendière** (Limoges) (même coopérative, second magasin, fiche à part comme les magasins d'un même réseau à Sèvremoine et Cholet. **Registre** : établissement ouvert au 38 rue de la Mauvendière. **Horaires et téléphone** : site du magasin. **Point** : 38 rue de la Mauvendière à la Base Adresse Nationale (0,800, type « numéro »), confondu avec le point du registre ; la BAN donne le code postal 87000, le site 87100 : c'est la BAN qui est reprise. **Photo, règles 272 et 277** : aucune autre image permise ; retenue : les bords de Vienne et le pont Saint-Étienne, publiée par Destination Limoges sur sa fiche « Bords de Vienne » (1 600 px, ramenée à 1 280), sans personne.)
 - **L'Atelier Les Fayes — Maison du Fromage Blanc** (Limoges) (catégorie `producteur`, règle 73 : la laiterie transforme et vend elle-même, sur son site de production. **Registre, règle 6** : la société Laiterie Les Fayes, active, au 147 avenue Raymond-Poulidor ; son ancien établissement d'Isle est fermé. Pas d'`environnement`, règle 39 : un certificat Certipaq est engagé au registre de l'Agence Bio, mais la boutique vend une gamme dont rien ne dit quelle part est biologique. **Horaires** : page « Infos pratiques » du site (modifiée le 24 mars 2026) et fiche de Destination Limoges (horaires 2026), identiques. **Téléphone** : celui que le site donne pour la boutique. **Point** : 147 avenue Raymond-Poulidor à la Base Adresse Nationale (0,964, type « numéro »), à 10 m du point du registre. **Photo, règles 230 et 239** : les mentions légales du site nomment les images ; retenue : la façade de la boutique (1 023 × 682), sans personne, publiée par l'office sur sa fiche et créditée par lui à L'Atelier Les Fayes. Le prénom d'une vendeuse que cite le site n'est pas repris.)
@@ -10624,6 +10646,73 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Varces-Allières-et-Risset (Isère) — cinq fiches publiées dans Grenoble-Alpes-Métropole
+
+Passe du 23 septembre 2026, après la passe sans publication de l'Isère et de l'Oise. Aucune demande de visiteur (nouvelle ou en
+cours), aucun courriel. **Classement, règle 41**, sur 749 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) :
+Landes 4,7096 et Eure-et-Loir 4,7049 (épuisés, règle 265), **Isère (38) 4,1103**, Oise 4,0148, Val-d'Oise 3,9219 — inchangé,
+puisque la passe précédente n'a rien publié. La dernière région visée est la Nouvelle-Aquitaine (Limoges) : l'Auvergne-Rhône-Alpes
+est ouverte (règles 41.c et 247). La descente reprend à Charvieu-Chavagneux, comme la section précédente le prescrit ; les deux
+fiches entières désignées pour la reprise (Bourgoin-Jallieu, Sassenage) sont hors de portée de la zone trouvée — la seconde est à
+15,4 km du centre de Varces, au-delà de la borne de la règle 262. `origin/main` n'avait pas bougé au moment de publier (règle
+241). **Après la passe**, sur 754 fiches : Landes 4,7411 et Eure-et-Loir 4,7363 (épuisés), **Oise 4,0749** (Hauts-de-France),
+Val-d'Oise 4,0149, Vosges 3,9065 ; Isère −0,7956. La passe suivante ne peut pas viser l'Auvergne-Rhône-Alpes.
+
+**La descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Charvieu-Chavagneux** (10 547) — la Ville publie son marché alimentaire (samedi 8h-13h, place du Marché, rue Maurice-Boutin)
+   sans aucune liste d'étals (règle 92), et l'illustre de deux photographies de banque d'images (règle 70). Aucun producteur au
+   registre bio. **Zéro.**
+2. **Eybens** (10 493) — la Ville et la Métropole soumettent leurs photographies à autorisation (règle 231) ; le producteur de
+   champignons inscrit au registre bio vend en direct à Saint-Martin-d'Hères, pas ici ; le seul maraîchage vendeur porte un prénom
+   pour enseigne (règle 259). **Zéro.**
+3. **Voreppe** (9 922) — le guide pratique 2024 de la Ville documente deux marchés : le vendredi matin place Armand-Pugnot et Grande
+   rue, et le mercredi à partir de 14h dans la Grande rue. La clause de la Ville est générale (règle 231), mais la Ville ne publie
+   aucune photographie de ses marchés ; celle de Chartreuse Tourisme, créditée à la mairie, est fermée par les conditions
+   générales de l'office, qui nomment les images (règle 245) ; l'office du Pays Voironnais ne répond toujours pas (règle 237).
+   **Zéro** ; les deux marchés attendent une image.
+4. **Crolles** (8 609) — Ville fermée aux images (règle 246) ; le magasin Biocoop ne publie aucune liste de producteurs (règle 273).
+   **Zéro.**
+5. **Roussillon** (8 595) — la Ville refuse l'agent nommé et sert les autres (règle 257) ; aucun candidat hors grande surface au
+   registre bio. **Zéro.**
+6. **Varces-Allières-et-Risset** (8 542) — la Ville refuse l'agent nommé (règle 257), mais deux fermes certifiées bio ont leurs
+   faits et leurs images ailleurs : **La Ferme de la Plaine** (site de la ferme, sans clause, photographies servies par son propre
+   domaine) et **Les Jardins de Malissoles** (fiche de l'Office de Tourisme Grenoble Alpes reprise par le Parc naturel régional du
+   Vercors, dont le site Rando Vercors n'a aucune clause sur les images). La règle 127 est remplie ; Grenoble-Alpes-Métropole
+   complète le groupe (règles 96 et 262, centre de la commune selon `geo.api.gouv.fr`) : **Les Chèvres du Griffey** à Claix
+   (3,0 km), la **Brasserie des Cuves** (13,1 km) et **La Furieuse** (13,2 km) à Sassenage. Les deux fiches varçoises sont à
+   2,5 et 2,9 km.
+
+**La source des images : le Parc du Vercors.** L'office Grenoble Alpes autorise nommément l'agent (règle 279) mais interdit la
+reproduction de ses images ; ses fiches de producteurs sont reprises par l'API Geotrek du Parc (`geo.pnr-vercors.fr`), qui sert les
+mêmes photographies, créditées aux exploitations, sans `robots.txt` et sans aucune clause dans les mentions légales de
+`rando.parc-du-vercors.fr`. C'est la règle 254 : l'éditeur qui diffuse l'image s'exprime sur sa reprise. Chaque fiche cite le Parc,
+jamais le photographe (règle 268). Le site de la Brasserie des Cuves réserve ses photographies ; celle de la fiche vient du Parc,
+pas de son site (règle 263 retournée).
+
+**Candidats de la Métropole écartés pour compléter le groupe** :
+
+- **Un bout de campagne**, magasin de producteurs de Claix (16 rue de l'Industrie, ZA Les Bauches ; mercredi-vendredi 9h-19h,
+  samedi 9h-18h, horaires recoupés par la page de la Métropole) : faits entiers, mais ses mentions légales réservent « les
+  représentations photographiques » (règle 231), et la Ville de Claix n'autorise que l'usage privé (règle 246). En pistes.
+- **Ferme du Mas des Buissons** (Saint-Paul-de-Varces) : son blog ferme sa racine à tout robot non nommé (règle 282, nouvelle) ; la
+  fiche d'office donne l'horaire mais pas les produits. En pistes.
+- **Ferme des Pérouses** (Varces) : horaire récent (mardi et jeudi 16h30-19h, fiche du 7 janvier 2026) mais aucune liste de
+  produits, et un certificat bio arrêté en juillet 2026. **Ferme des Gaberts** (Varces) : fiche d'office de 2018.
+- La **boutique laitière du Vercors** à Seyssins refuse l'agent nommé (règle 257) ; les AMAP de Fontaine et de Seyssinet-Pariset
+  n'ont que des fiches d'office de 2022 et de 2025, dont le lien renvoie à une AMAP grenobloise (règle 195).
+- **Les Terres du Héron** et le maraîchage voisin de Sassenage : 15,4 km du centre de Varces, hors de la borne de la règle 262.
+- La **Ferme Aromatique** (Varces) vend surtout des plants, pas de la nourriture ; la ferme pédagogique de Saint-Paul-de-Varces ne
+  vend pas d'aliments.
+
+La passe qui reviendra dans l'Isère reprend la descente à **Vif** (8 530) ; elle garde en tête les deux marchés de Voreppe et le
+magasin Un bout de campagne, entiers sauf l'image.
+
+**Données personnelles écartées** : les noms et prénoms des exploitants que citent les fiches d'office, l'annuaire de la Ville de
+Claix et le registre bio ; le nom du photographe inscrit en filigrane sur la photographie des Jardins de Malissoles, recadré ; les
+mobiles publiés par les fermes ; les noms lus dans les mentions légales. Aucun n'apparaît ici, dans un commit ni dans un nom de
+fichier.
 
 ### Pistes non publiées dans l'Isère et dans l'Oise — passe sans publication
 
