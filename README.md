@@ -10664,6 +10664,89 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans le Val-d'Oise et dans les Vosges — huitième passe sans publication
+
+Passe du 23 septembre 2026 (nuit), après la septième passe sans publication. Aucune demande de visiteur (nouvelle ou en cours),
+aucun courriel. **Reprise d'abord (règles 264 à 266)** : `www.capbreton.fr` n'ouvre toujours aucune connexion, à l'agent par défaut
+comme à l'agent nommé (règle 237) : le groupe de Labenne reste à quatre points. **Classement, règle 41**, recalculé sur 753 fiches :
+Oise 5,0629, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, **Vosges (88) 3,9013**, Charente
+3,8515 — inchangé (règle 260). `origin/main` n'a pas bougé pendant la passe (règle 241). **Douze communes du Val-d'Oise** (règle 247),
+reprises à Vauréal, puis **deux des Vosges** (règle 248), reprises à Golbey : aucune ne rend deux fiches entières, image comprise
+(règle 127). Rien n'est publié.
+
+**Val-d'Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Vauréal** (16 079) — Le magasin naturéO de la commune est fermé au registre (société cessée fin 2024) et absent du localisateur
+   de l'enseigne ; l'annuaire non daté de la Ville le donne encore ouvert. Le commerce bio immatriculé depuis à la même adresse n'a
+   ni enseigne, ni horaires, ni site. Pas de marché hebdomadaire ni d'AMAP ; le « Marché des Saisons » est un événement ponctuel.
+   **Zéro.**
+2. **Domont** (16 065) — **Faits presque entiers sans image** : le marché, 62 avenue Jean Jaurès, jeudi et dimanche 8h-13h (page de
+   la Ville non datée ; produits dans une actualité de février 2024) ; mentions légales de la Ville nommant les « images » (règle 231).
+   La **Fabrique à Saumon**, fumoir rue de Paris, a des faits entiers, mais son site ne publie qu'un mobile et ses images sont servies
+   par un hébergeur dont le `robots.txt` répond 403 (règle 256). **Zéro.**
+3. **Montmagny** (15 105) — Ni marché hebdomadaire ni AMAP sur le site de la Ville ; le registre bio n'y rend que des ateliers et des
+   grossistes sans vente au public. **Zéro.**
+4. **Saint-Brice-sous-Forêt** (15 063) — Le site de la Ville refuse toute connexion (règle 237). **Faits entiers sans image** :
+   naturéO Saint-Brice (règle 230 : les mentions légales de l'enseigne nomment les photographies et limitent l'usage au privé). Les
+   offices Plaine Vallée et Val-d'Oise refusent l'agent nommé (règle 257). **Zéro.**
+5. **Arnouville** (15 023) — **Faits entiers sans image** : le marché couvert, avenue Denis Papin, jeudi et dimanche 8h-12h30,
+   vendredi 12h30-19h30 (page de la Ville du 25 juin 2026) ; mentions légales limitant la reproduction à l'usage privé (règle 246),
+   office Grand Roissy fermé à l'agent nommé. **Zéro.** Déblocage : une photographie permise du marché.
+6. **Persan** (14 359) — Page du marché d'avril 2024, sans produit, « place du Marché » introuvable à la BAN (0,50) ; le commerce bio
+   du registre est une enseigne de chaîne à certificat arrêté. **Zéro.**
+7. **Louvres** (12 560) — Le site de la Ville répond 444 à l'agent nommé et 200 aux autres (règle 257) : non consulté. Aucun point
+   de vente au registre bio. **Zéro.**
+8. **L'Isle-Adam** (12 493) — Marché des halles, mardi, vendredi et dimanche 8h-13h (pages de la Ville de juillet 2026), mais la
+   « place de Verdun » est introuvable à la BAN pour la commune (0,55) et les mentions légales interdisent la reproduction des
+   « images » (règle 231). L'opérateur bio du registre est une association sans point de vente publié. **Zéro.**
+9. **Enghien-les-Bains** (11 432) — **Une fiche entière** : le **marché d'Enghien**, place de Verdun (BAN 0,96), mardi, jeudi et
+   samedi 8h-13h (page du marché et fiche d'équipement de la Ville, concordantes ; pages non datées, `lastmod` de masse de
+   septembre 2025 au sitemap), fromages, boucherie, charcuterie, primeurs, poisson ; photographie d'un étal de légumes publiée par la
+   Ville, sans personne, 1 620 px, sous un simple crédit « © Ville d'Enghien-les-Bains » (clause générale, règle 231). Les autres
+   commerces alimentaires sont des chaînes, une boulangerie, une fromagerie dont le site oppose un défi à l'agent nommé (règle 212),
+   ou une enseigne patronymique. **Une.**
+10. **Fosses** (10 570) — Deux séances de marché (mercredi 15h-19h place de la Liberté, samedi 9h-13h halle place du 19-Mars-1962),
+    page de la Ville de juin 2024 sans aucun produit. Exploitations du registre à enseigne patronymique. **Zéro.**
+11. **Beaumont-sur-Oise** (10 232) — Marché du samedi 8h-13h sous la halle place du Château (page de la Ville de juillet 2026), sans
+    produit concret ; registre bio fait de grossistes et d'une grande surface. **Zéro.**
+12. **Pierrelaye** (10 130) — Le marché est suspendu depuis février selon la Ville. **Faits entiers sans image** : naturéO du
+    266 boulevard du Havre (l'enseigne le nomme « naturéO Herblay », la BAN le place à Pierrelaye) — même clause de l'enseigne
+    (règle 230), office départemental fermé à l'agent nommé ; la seule photographie alimentaire de la Ville montre une plaque
+    d'immatriculation lisible. Une requête de recherche a été envoyée par erreur sur un chemin que le `robots.txt` de la
+    Ville exclut : elle a rendu une page d'erreur, rien n'en a été retenu. **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Méry-sur-Oise** (9 983). **Déblocages** : Enghien-les-Bains a une fiche
+entière (son marché) ; elle ne sera publiée qu'avec une seconde fiche entière dans la commune (règles 96 et 127). Avec Deuil-la-Barre
+et Soisy-sous-Montmorency (septième passe), Plaine Vallée compte désormais trois marchés entiers dans trois communes différentes —
+toujours pas une zone (règle 52). Domont et Arnouville attendent une photographie permise de leur marché.
+
+**Vosges — deux communes (règle 248)** :
+
+1. **Golbey** (8 832) — **Faits entiers sans image** : **Uni'Vers Bio**, coopérative bio indépendante, 1 rue des Tisserands (BAN
+   0,95), du lundi après-midi au samedi, plus de quarante producteurs locaux annoncés ; ses mentions légales nomment les « images »
+   (règle 231). La médiathèque de la Ville ne rend aucune photographie thématique utilisable (image de banque, étals nommés, photo
+   d'événement avec des personnes). Le marché dominical n'a pas d'horaire publié par la Ville. **Zéro.**
+2. **Thaon-les-Vosges** (8 547) — **Faits entiers sans image** : le magasin des **Jardins de Cocagne**, chantier d'insertion en
+   maraîchage bio, Prairie Claudel (BAN 0,96), du mardi au samedi ; ses mentions légales réservent la reproduction des
+   « représentations photographiques » (règle 246), celles de la Ville nomment les « images » (règle 231), l'office d'Épinal aussi.
+   La page du marché hebdomadaire de la Ville redirige vers l'accueil. **Zéro.**
+
+La passe qui reviendra dans les Vosges reprend à **Gérardmer** (7 581). Dans la Communauté d'agglomération d'Épinal, cinq fiches ont
+désormais leurs faits entiers ou presque — A la Revoyotte, La Petite Failloux, L'Escale Campagnarde (septième passe), Uni'Vers Bio et
+les Jardins de Cocagne — mais aucune commune n'en porte deux illustrables (règle 127).
+
+**Après la passe**, sur 753 fiches, rien n'a changé : Oise 5,0629, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés), **Val-d'Oise
+3,9963**, **Vosges 3,9013**, Charente 3,8515. La passe suivante reprend le Val-d'Oise en tête (règle 260), puis les Vosges.
+
+**Constat, sans nouvelle règle** : huit passes de suite sans publication, et dans douze des quatorze communes de celle-ci le seul
+manque est une image que la source permet de reprendre. Ce n'est pas une question de fait que la passe peut trancher : les règles
+230, 231 et 246 protègent le droit des auteurs, et la règle 248 interdit de se rattraper en baissant une exigence.
+
+**Données personnelles écartées** : les exploitations de Fosses, de L'Isle-Adam et d'Enghien-les-Bains inscrites sous le nom de leur
+exploitant, deux fermes de l'agglomération Roissy Pays de France et un maraîcher de Plaine Vallée dont la raison sociale porte un nom
+de particulier, le mobile de la Fabrique à Saumon, des horticulteurs de Golbey à enseigne patronymique et une enseigne thaonnaise
+patronymique. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
 ### Pistes non publiées dans le Val-d'Oise et dans les Vosges — septième passe sans publication
 
 Passe du 23 septembre 2026 (soir), après la sixième passe sans publication. Aucune demande de visiteur (nouvelle ou en cours),
