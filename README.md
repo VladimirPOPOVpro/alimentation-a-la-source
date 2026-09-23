@@ -3615,9 +3615,24 @@ prioritaires en cas de conflit.
      La photographie de la Ville passe avant celles de l'office. Ici : le lavoir de la Ville pour Saison Paysanne, la place
      Jeanne-d'Arc et le ruisseau de l'Abreuvoir, fichés par l'office, pour les deux autres.
 
+286. **La photographie qu'un producteur publie de son propre étal sur un marché nommé est une photographie de ce marché.**
+     À Angoulême, la Ville, GrandAngoulême et Charentes Tourisme ferment leurs images (règles 231 et 246) et l'office de tourisme
+     refuse l'agent nommé (règle 257) : les Halles et le marché Victor-Hugo n'ont aucune photographie d'autorité reprenable. Le
+     chantier d'insertion en maraîchage bio de la Régie urbaine, qui vend sur ces deux marchés et sur celui de Saint-Cybard, publie
+     sur son propre site, sans mention légale, une photographie datée de son étal sur chacun d'eux. Aucune règle ne visait ce cas.
+     **Tranché ainsi**, dans l'esprit de la règle 122 : la photographie qu'un exposant publie lui-même de son étal, prise sur le
+     marché que la fiche décrit (lieu reconnaissable ou date de prise concordant avec le jour du marché), illustre ce marché, aux
+     conditions ordinaires — source sans clause fermante ni filtrage, aucun visage (recadrage permis, règle 46), un fichier
+     différent par fiche, et la description dit que l'image montre l'étal d'un exposant nommé par son enseigne. La fiche de
+     l'exposant lui-même prend une troisième photographie, d'un autre marché. Ce que la règle débloque : les marchés couverts
+     d'une ville qui ferme toutes ses images, dès qu'un de leurs exposants publie son étal.
+
 ## Marchands à confirmer
 
-679 fiches sur 758 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+682 fiches sur 763 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Victor-Hugo** (Angoulême) (catégorie `marche`. **Horaires, règle 5** : 8h30-13h pour la Ville (fiche du lieu), 7h-13h pour le site du marché (page de décembre 2023) ; les deux sont publiés. La Ville ne le publie qu'à un endroit ; le site de l'organisateur et celui de la Régie urbaine (juillet 2026) le confirment. **Point** : Base Adresse Nationale, niveau rue (0,964). Le site `marche-victor-hugo.fr`, avec tirets, est un homonyme toulousain (règle 56). **Photo, règle 286** : l'étal de la Régie urbaine sur ce marché, recadré sans visage ; les images du site du marché sont fermées par sa clause.)
+- **La Débauche** (Angoulême) (catégorie `producteur`, brasserie artisanale (règle 4). **Registre, règle 6** : société active au 13 rue des Lignes, activité de fabrication de bière. **Piliers, règles 14, 15 et 39** : le certificat Ecocert ne couvre que les boissons sans alcool, dont la vente à la taproom n'est pas vérifiée : `economie` seul. La brasserie a aussi une activité de négoce de boissons. **Photo** : barriques, site de la brasserie (826 px), clause générale sans mention d'image (règle 231).)
+- **Boutique du Domaine de l'Oisellerie** (La Couronne) (catégorie `producteur`, exploitation d'un lycée agricole public, à 4,9 km de l'hôtel de ville d'Angoulême dans GrandAngoulême (règle 96). **Registre** : établissement public actif à cette adresse. **Agence Bio** : Ecocert depuis 2009, vins et jus de raisin. **Point** : adresse du lycée au numéro (0,956) ; l'emplacement exact de la boutique sur le domaine n'est pas publié, et le veau n'est vendu que « régulièrement ». **Photo** : intérieur de la boutique, site du domaine, sans mention légale.)
 - **Saison Paysanne** (Neufchâteau) (catégorie `producteur`, magasin collectif de producteurs comme ceux de Niort et de Limoges. **Registre, règle 6** : société active, établissement unique au 200 route de Langres. **Point** : Base Adresse Nationale au numéro (0,956). **Horaires** : page d'accueil du site, à jour (semaine anniversaire du 23 au 26 septembre 2026) ; la page de la commune voisine de Certilleux donne les mêmes, mais date d'avril 2024. **Téléphone** : le fixe du magasin, publié sur son site. **Photo, règles 272 et 285** : les mentions légales du site réservent « les représentations photographiques » et limitent la copie à l'usage privé (règle 246) ; retenue : le lavoir du ruisseau de l'Abreuvoir, publié par la Ville sur ccov.fr (5 818 px, ramené à 1 280), sans personne.)
 - **Les Jardins de Pleuvezain — vente chez Emmaüs Neufchâteau** (Neufchâteau) (catégorie `producteur`, chantier d'insertion en maraîchage biologique. **Registre** : l'association gestionnaire est active ; l'établissement d'Emmaüs au 80 rue des Riaux (zone des Torrières) aussi. **Point** : Base Adresse Nationale au numéro (0,957). **Horaires, règle 5** : le site de la ferme (actualités jusqu'au 13 août 2026, dont une annulation de la vente du mercredi chez Emmaüs en juin) dit 14h-17h, sa boutique en ligne 13h-17h ; la fiche publie l'horaire du site et cite l'autre. **Produits** : ceux de la boutique en ligne en septembre 2026. **Photo, règles 272 et 285** : le bandeau du site montre l'étal de la ferme à Pleuvezain, à 17 km, pas le point de vente ; retenue : la place Jeanne-d'Arc, fiche de l'Office de Tourisme de l'Ouest des Vosges (800 px), sans visage.)
 - **La Coussoyote** (Coussey) (catégorie `ferme`, à 5,7 km du centre de Neufchâteau dans la Communauté de communes de l'Ouest Vosgien (règle 96). **Registre, règle 6** : exploitation active à Coussey, élevage de volailles ; son nom d'immatriculation n'est pas repris, seule l'enseigne l'est. **Horaires** : fiche de l'office (modifiée le 31 décembre 2025) ; la page du marché couvert de la Ville la compte parmi ses exposants. **Point** : 1b place Jeanne-d'Arc, au numéro (0,718, la BAN écrivant « 1b »). Le site propre ne répond plus et n'est pas inscrit ; les téléphones de la fiche d'office ne sont pas repris. **Photo, règles 272 et 285** : la photographie de poules de la fiche d'office n'est créditée à personne et a l'allure d'une image de banque ; retenue : des canards sur le ruisseau de l'Abreuvoir, fiche de l'office (800 px).)
@@ -10681,6 +10696,87 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe d'Angoulême (Charente) — cinq fiches publiées, commune calculée ; douze communes du Val-d'Oise éprouvées sans zone
+
+Passe du 23 septembre 2026 (fin de soirée), après la passe de Neufchâteau. Aucune demande de visiteur (nouvelle ou en cours),
+aucun courriel. **Reprise d'abord (règles 264 à 266)** : `www.capbreton.fr` n'ouvre toujours aucune connexion, à l'agent par défaut
+comme à l'agent nommé : le groupe de Labenne reste à quatre points. **Classement, règle 41**, recalculé sur 758 fiches : Oise 5,1231,
+Landes 4,7662 et Eure-et-Loir 4,7614 (épuisés, règle 265), **Val-d'Oise (95) 4,0892**, **Charente (16) 3,8770**. Les Vosges, visées
+à la passe précédente, sont en Grand Est ; ni l'Île-de-France ni la Nouvelle-Aquitaine ne sont exclues (règle 41.c).
+
+**Val-d'Oise — douze communes (règles 247 et 127), reprises à Presles** : aucune ne rend même une fiche entière. Au registre bio,
+les douze communes ne comptent que des supermarchés, des grossistes, des certifications arrêtées ou des exploitations à nom de
+personne ; le réseau AMAP d'Île-de-France n'y a qu'un lieu de partage.
+
+1. **Presles** (4 017) — Ville fermée aux images (règles 231 et 246). Le marché du vendredi soir, parvis de la gare, ne réunit que de
+   la restauration. L'AMAP (samedi matin, salle Jeanne-d'Arc) n'a que l'annuaire du réseau (règle 195), son site répond 404. **Zéro.**
+2. **Puiseux-en-France** (3 765) — Pas de marché ; dernière mention de l'AMAP par la Ville en février 2023 (règle 195). **Zéro.**
+3. **Marines** (3 594) — Ville fermée (usage personnel, règle 246). Marché du dimanche sans heure publiée, trois étals alimentaires
+   seulement. **Zéro.**
+4. **Chaumontel** (3 332) — Ni marché ni AMAP ; le magasin bio de la RN16 a sa certification arrêtée. **Zéro.**
+5. **Frépillon** (3 317) — La Ville coupe la connexion (444) à l'agent nommé seul : non consultée (règle 257) ; aucun producteur
+   ailleurs. **Zéro.**
+6. **Asnières-sur-Oise** (3 127) — Clause générale (« tout élément », règle 231). Le marché du dimanche, place de l'Église, est cité
+   par la Ville en avril 2026 sans heure ; les heures ne se lisent que dans un agenda de 2025. L'élevage de Baillon vend sur commande
+   et une fois par mois, sans jour fixe. **Zéro.** Déblocage : une page datée de la Ville donnant les heures du marché.
+7. **Vémars** (3 124) — Ni marché ni producteur. **Zéro.**
+8. **Montlignon** (3 038) — Ni marché ni producteur. **Zéro.**
+9. **Margency** (3 012) — Deux camions de restauration, rien d'autre. **Zéro.**
+10. **Andilly** (2 742) — Un primeur de chaîne, ni marché ni AMAP. **Zéro.**
+11. **Saint-Witz** (2 724) — Un rendez-vous commerçant du vendredi (page de la Ville de mai 2026) sans heure de fin ni produit.
+    **Zéro.**
+12. **Saint-Martin-du-Tertre** (2 689) — Commerce ambulant limité à la restauration ; une ferme n'est citée que par un annuaire qui
+    refuse l'agent nommé (règle 257), avec un homonyme dans l'Yonne. Le site de la Ville porte en pied de page des liens de spam
+    sans rapport (règle 101), qui n'ont pas été ouverts. **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Bernes-sur-Oise** (2 684). Il reste dix communes de plus de 2 000 habitants
+avant l'épuisement (règle 265), la dernière étant Chars (2 006).
+
+**Charente — Angoulême fait la passe (règles 127, 96 et 286)**. Angoulême (41 908), commune calculée, n'avait aucune fiche, ni la
+Charente. Presque toutes les sources d'image sont fermées : la Ville et GrandAngoulême réservent leurs « représentations
+iconographiques et photographiques », Charentes Tourisme et le site de la Chambre d'agriculture nomment les images, l'office de
+tourisme et la Chambre refusent l'agent nommé (règle 257), Bienvenue à la Ferme et un annuaire de marchés refusent tout agent
+(règle 237). Les photographies viennent donc des commerces eux-mêmes. Quatre fiches entières dans la commune :
+
+- l'**Association Régie Urbaine — maraîchage bio**, chantier d'insertion certifié bio (Ecocert, 2009), qui vend son étal le mardi au
+  marché Victor-Hugo, le mercredi aux Halles et le samedi à Saint-Cybard (site de l'association, juillet 2026) ; point sur la place
+  du marché de Saint-Cybard. Les mobiles des encadrants ne sont pas repris, seulement le fixe de l'association ; les photographies
+  de la ferme créditées à une photographe ne sont pas utilisées ;
+- les **Halles d'Angoulême**, du mardi au dimanche de 7h à 13h (Ville, deux pages, et site des commerçants, concordants), illustrées
+  par l'étal de la Régie urbaine devant le soubassement de briques des Halles (règle 286). La photographie de façade du site des
+  commerçants a l'allure d'une image reprise de Wikimedia Commons et n'est pas utilisée. Aucun fixe publié : pas de téléphone ;
+- le **marché Victor-Hugo**, illustré de la même manière (règle 286), `a_confirmer` pour ses horaires (ci-dessous) ;
+- **La Débauche**, brasserie artisanale du 13 rue des Lignes (société active), photographie de ses barriques, `economie` seul
+  (règles 14, 15 et 39).
+
+La zone est complétée par la **Boutique du Domaine de l'Oisellerie**, exploitation du lycée agricole public de La Couronne, à 4,9 km,
+dans GrandAngoulême (règle 96), photographie de la boutique publiée par le domaine. Toutes les fiches sont à moins de 5 km de
+l'hôtel de ville. Cognac, seconde commune possible (règle 248), n'a pas été éprouvée : la première a fait la passe.
+
+**Contradiction consignée (règle 5)** : les horaires du marché Victor-Hugo, 8h30-13h pour la Ville, 7h-13h pour le site du marché
+(2023) ; la fiche publie les deux, `a_confirmer`. Écart mineur à Saint-Cybard : l'étal de la Régie urbaine annonce 8h-12h30, la Ville
+donne 8h30-13h pour le marché ; la fiche publie l'horaire de l'étal et cite celui de la Ville.
+
+**Pistes non publiées à Angoulême** : le magasin de producteurs de la zone de Ma Campagne et sa seconde boutique de Gond-Pontouvre
+(faits entiers, association active aux deux adresses, mais mentions limitant les images à la consultation privée, règle 246) ; le
+marché de producteurs de L'Houmeau (mardi 16h-19h, place Saint-Jacques, publié à deux endroits par la Ville, sans image permise) ;
+les marchés de Saint-Cybard et du vendredi de L'Houmeau (une page de la Ville chacun, sans image) ; les AMAP de GrandAngoulême
+(sources de 2005 à 2007, règle 195) ; une ferme maraîchère bio de Marsac (site muet, règle 237). Écartés : les magasins de réseau
+d'Angoulême, de Soyaux et de Gond-Pontouvre (règles 86 et 273), une plateforme de restauration collective, une ferme aquaponique
+déménagée, une herboristerie (hors alimentation). **Déblocage** pour le magasin de producteurs : une photographie permise.
+
+**Après la passe**, sur 763 fiches : **Val-d'Oise 4,1822** (premier non épuisé), Seine-Maritime 3,9532, Nord 3,9434. La Charente passe
+à −1,0974. La passe suivante ne peut pas viser la Nouvelle-Aquitaine (règle 41.c).
+
+**Données personnelles écartées** : à Angoulême, une boulangerie bio et un primeur des Halles dont l'enseigne porte un prénom, un
+primeur à nom patronymique, les exposants nommés des Halles, les producteurs nommés du magasin de Ma Campagne, les noms et mobiles des
+responsables d'associations et des encadrants de la Régie urbaine, une agente municipale citée en témoignage, le crédit d'une
+photographe ; des exploitations de Dirac, Garat, Torsac, Vouzan, Marsac et Mouthiers-sur-Boëme inscrites sous le nom de leur
+exploitant ; les contacts de l'annuaire AMAP. Dans le Val-d'Oise : le contact de l'AMAP de Presles et les mobiles des annuaires de
+la Ville, les commerçants et l'éleveur nommés à Asnières-sur-Oise (dont une ferme à prénom), une fromagerie à prénom à Chaumontel,
+des exploitations à nom de personne à Puiseux-en-France, Marines, Margency, Andilly et Saint-Martin-du-Tertre. Aucun n'apparaît ici,
+dans un commit ni dans un nom de fichier.
 
 ### Passe de Neufchâteau (Vosges) — cinq fiches publiées, commune calculée, douze communes du Val-d'Oise éprouvées sans zone
 

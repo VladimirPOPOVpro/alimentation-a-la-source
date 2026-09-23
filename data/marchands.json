@@ -20168,5 +20168,145 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Coussoyote+1+bis+place+Jeanne+d'Arc+88630+Coussey",
     "image_url": "/images/marchands/la-coussoyote-coussey.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "regie-urbaine-maraichage-bio-angouleme",
+    "nom": "Association Régie Urbaine — maraîchage bio",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.657334,
+    "lon": 0.148439,
+    "adresse": "Place Auguste Mulac, 16000 Angoulême",
+    "horaires": "Étal de légumes bio de 8h à 12h30 : le mardi au marché Victor-Hugo, le mercredi aux Halles, le samedi au marché de Saint-Cybard, place Auguste-Mulac (site de l'association, juillet 2026 ; la Ville donne 8h30-13h pour le marché du samedi). Cabas de saison à commander et à retirer au marché.",
+    "produits": [
+      "Légumes bio de saison",
+      "Tomates, aubergines et poivrons",
+      "Courgettes",
+      "Choux et chou kale",
+      "Poireaux et oignons",
+      "Aillet",
+      "Pois mangetout",
+      "Plantes aromatiques"
+    ],
+    "description": "Chantier d'insertion angoumoisin qui cultive 1,3 hectare de légumes certifiés bio (Ecocert) à Trois-Palis et les vend lui-même sur trois marchés de la ville, en vrac ou en cabas de saison. Photo : l'étal de l'association au marché de Saint-Cybard, publiée par l'association (aru-angouleme.fr), recadrée.",
+    "telephone": "05 45 91 05 73",
+    "site_web": "https://aru-angouleme.fr/maraichage-biologique/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+de+Saint-Cybard+Place+Auguste+Mulac+16000+Angoul%C3%AAme",
+    "image_url": "/images/marchands/regie-urbaine-maraichage-bio-angouleme.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "halles-angouleme",
+    "nom": "Halles d'Angoulême",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.64953,
+    "lon": 0.157309,
+    "adresse": "5 Place des Halles, 16000 Angoulême",
+    "horaires": "Du mardi au dimanche de 7h à 13h, toute l'année (Ville d'Angoulême et site des commerçants des Halles, concordants, septembre 2026) ; journée continue jusqu'à 17h certains jours de fin décembre. Le mercredi et le samedi, un marché de primeurs et de fleuristes s'installe sur la place voisine.",
+    "produits": [
+      "Fruits et légumes",
+      "Légumes bio (Régie urbaine, le mercredi)",
+      "Fromages",
+      "Boucherie et charcuterie",
+      "Poissons et fruits de mer",
+      "Pain et pâtisserie",
+      "Vins et spiritueux",
+      "Épicerie fine"
+    ],
+    "description": "Marché couvert municipal du centre ancien, sous une halle de fonte et de verre, où une vingtaine de commerçants et d'artisans des métiers de bouche vendent chaque matin sauf le lundi. Photo : l'étal de maraîchage bio de la Régie urbaine devant les Halles, publiée par l'association (aru-angouleme.fr), recadrée.",
+    "site_web": "https://marche-halles.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+d'Angoul%C3%AAme+5+Place+des+Halles+16000+Angoul%C3%AAme",
+    "image_url": "/images/marchands/halles-angouleme.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "marche-victor-hugo-angouleme",
+    "nom": "Marché Victor-Hugo",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.648768,
+    "lon": 0.174479,
+    "adresse": "Place Victor Hugo, 16000 Angoulême",
+    "horaires": "Du mardi au dimanche, de 8h30 à 13h selon la Ville d'Angoulême ; le site du marché (2023) annonce 7h-13h. Fermé le lundi.",
+    "produits": [
+      "Fruits et légumes",
+      "Légumes bio (Régie urbaine, le mardi)",
+      "Viandes de boucherie",
+      "Fromages",
+      "Pain",
+      "Poissons et huîtres",
+      "Rôtisserie et plats cuisinés",
+      "Vins"
+    ],
+    "description": "Marché couvert prolongé d'un marché de plein air, où plus de quatre-vingts commerçants, artisans et producteurs vendent chaque matin sauf le lundi. Photo : l'étal de la Régie urbaine au marché Victor-Hugo, publiée par l'association (aru-angouleme.fr), recadrée.",
+    "site_web": "https://marche-victorhugo.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+Victor+Hugo+Place+Victor+Hugo+16000+Angoul%C3%AAme",
+    "image_url": "/images/marchands/marche-victor-hugo-angouleme.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-debauche-angouleme",
+    "nom": "La Débauche",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 45.658449,
+    "lon": 0.168305,
+    "adresse": "13 Rue des Lignes, 16000 Angoulême",
+    "horaires": "Boutique et bar : mardi et mercredi de 17h à 22h ; jeudi et vendredi de 16h à 22h ; samedi de 14h à 22h (site de la brasserie). Fermé le dimanche et le lundi.",
+    "produits": [
+      "Bières de la gamme permanente",
+      "Bières éphémères en édition limitée",
+      "Bières élevées en barriques de la région de Cognac",
+      "Bières sans alcool"
+    ],
+    "description": "Brasserie artisanale fondée en 2013 à Angoulême, qui brasse sur place et élève une partie de ses bières en barriques ; vente à emporter à la taproom. Seule sa gamme de boissons sans alcool est certifiée bio (Ecocert), pas ses bières. Photo : les barriques de la brasserie, publiée par La Débauche (brasserie-ladebauche.com).",
+    "telephone": "05 86 07 70 65",
+    "site_web": "https://www.brasserie-ladebauche.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+D%C3%A9bauche+13+Rue+des+Lignes+16000+Angoul%C3%AAme",
+    "image_url": "/images/marchands/la-debauche-angouleme.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "boutique-domaine-oisellerie-la-couronne",
+    "nom": "Boutique du Domaine de l'Oisellerie",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.623647,
+    "lon": 0.104167,
+    "adresse": "40 Allée de l'Oisellerie, 16400 La Couronne",
+    "horaires": "Mardi de 10h à 12h30 et de 13h30 à 17h ; vendredi de 10h à 12h30 et de 13h30 à 16h30 (site du domaine et site du lycée agricole, concordants).",
+    "produits": [
+      "Jus de raisin plat et pétillant",
+      "Vins de pays charentais bio, rouge et rosé",
+      "Pineau des Charentes blanc et rosé",
+      "Cognacs VS, VSOP, Napoléon et XO",
+      "Viande de veau de l'exploitation"
+    ],
+    "description": "Boutique de l'exploitation du lycée agricole de l'Oisellerie, à 5 km d'Angoulême, qui vend en direct les vins, pineaux, cognacs et jus de raisin élaborés sur place ; une partie du vignoble est conduite en bio depuis 2009 (Ecocert). Photo : l'intérieur de la boutique, publiée par le domaine (domaine-oisellerie.fr).",
+    "telephone": "05 45 67 36 90",
+    "site_web": "https://domaine-oisellerie.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+de+l'Oisellerie+40+All%C3%A9e+de+l'Oisellerie+16400+La+Couronne",
+    "image_url": "/images/marchands/boutique-domaine-oisellerie-la-couronne.jpg",
+    "a_confirmer": true
   }
 ]
