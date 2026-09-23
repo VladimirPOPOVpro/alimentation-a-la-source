@@ -3508,10 +3508,29 @@ prioritaires en cas de conflit.
      quand il publie ses propres fournisseurs locaux (comme Tourne Sol à Carcassonne, avec leur distance), pas avant. La fiche est
      prête et attend en pistes. **Déblocage** : une page du magasin, ou de son annuaire départemental, qui nomme ses producteurs
      de la région.
+274. **Des mentions légales qui soumettent « tout lien hypertexte visant ce site » à autorisation préalable ne ferment ni les faits
+     ni les images, mais le site n'est pas mis en lien.** Les sites des Vergers du Pontonnet, des Vergers de la Chenillère et des
+     Artisans du Potager (même prestataire) portent une clause générale sur le contenu, sans nommer les images (règles 245 et
+     246), et cette clause de lien. **Tranché ainsi** : la fiche ne met pas le site dans `site_web` ; elle y met la fiche de l'office
+     de tourisme quand il en publie une et n'exclut personne, sinon rien. Les faits et la photographie restent utilisables.
+275. **Un crédit en filigrane qui ne se lit pas comme le nom d'une personne n'est pas un visage (règle 75), mais il n'est pas
+     gommé.** Toutes les photographies du site des Vergers de la Chenillère portent « crédits photos » suivi d'une marque qu'aucun
+     registre ne rattache à une société. Le doute porte sur l'auteur, pas sur une personne à protéger : la photographie n'est pas
+     prise sur le site de l'exploitation, et le filigrane n'est jamais recadré pour le faire disparaître. Retenue à la place : une
+     vue du verger que l'office de tourisme publie sous « © » de l'exploitation, citée comme l'office (règles 239 et 268).
+276. **La carte de producteurs qu'un magasin de réseau publie pour lui seul remplit la règle 86.** La Ferme de Chez Nous a
+     plusieurs magasins ; celui de Saint-Macaire-en-Mauges a son propre site et sa propre carte, 59 producteurs « tous situés dans
+     un rayon maximum de 100 km du magasin de Saint-Macaire-en-Mauges ». Ce n'est pas la liste commune d'un réseau (règle 273) :
+     elle dit ce que ce magasin-là vend. Les noms de la carte ne sont pas repris, certains sont formés d'un patronyme.
 
 ## Marchands à confirmer
 
-665 fiches sur 739 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+670 fiches sur 744 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **La Ferme de Chez Nous — Saint-Macaire-en-Mauges** (Sèvremoine) (catégorie `producteur`, règle 105 : magasin permanent de cinq fermes associées. **Registre, règle 6** : la société qui exploite le magasin, active, enseigne « La Ferme de Chez Nous » à Saint-Macaire-en-Mauges. Pas d'`environnement` : aucun certificat au registre de l'Agence Bio. **Règle 86**, par la règle 276 : carte propre au magasin, 59 producteurs à moins de 100 km. **Horaires et téléphone** : site du magasin. **Point** : 33 rue Denis-Papin à la Base Adresse Nationale (0,63, type « numéro »). **Photo** : un panier de légumes du bandeau d'accueil (1 000 px), sans personne ; les mentions légales réservent le contenu sans nommer les images (règle 246).)
+- **Les Vergers du Pontonnet** (Sèvremoine) (catégorie `ferme`, règle 29 : production de pommes et de poires, et revente d'autres produits, que la description dit. **Registre, règle 6** : SARL du Pontonnet, active, au lieu-dit. **Pilier `environnement`, règle 210** : certificat engagé, productions déclarées (pommes de table, légumes, commerce de détail de fruits et légumes), mixité déclarée, dite dans la description. **Horaires et téléphone** : page « Le magasin » du site, téléphone confirmé par l'Agence Bio. **Lien, règle 274** : pas de `site_web`. **Point** : le lieu-dit Le Pontonnet à la Base Adresse Nationale (type « voie »). **Photo** : l'intérieur du magasin (1 800 px, ramené à 1 280), sans personne.)
+- **Les Vergers de la Chenillère** (Sèvremoine) (catégorie `ferme`. **Registre, règle 6** : la société, active, à la Croix de la Chenillère. **Pilier `environnement`, règle 210** : certificat Ecocert engagé depuis 2009 (pommes de table, autres fruits à pépins, jus), mixité déclarée ; le site écrit « une partie de nos pommes » en bio, la description le dit. **Horaires** : site de l'exploitation et fiche d'Ôsez Mauges, identiques. **Lien, règle 274** : `site_web` est la fiche de l'office. **Point** : 3 La Chenillère (Saint-Macaire-en-Mauges) à la Base Adresse Nationale ; la même adresse existe à Saint-Germain-sur-Moine, écartée. **Photo, règles 239, 268 et 275** : une allée du verger en fleurs publiée par Ôsez Mauges (1 024 px), créditée par l'office à l'exploitation.)
+- **La Ferme des Caprices d'Anglos** (Sèvremoine) (catégorie `ferme`. **Registre, règle 6** : la société, active, à La Raimbaudière (Montfaucon-Montigné). **Pilier `environnement`, règle 210** : certificat engagé, fromages, yaourts, lait de chèvre et de vache déclarés en AB. **Faits** : fiche d'Ôsez Mauges (horaires du magasin, produits) ; les prénoms des exploitants qu'elle cite ne sont pas repris. **Pas de téléphone, règle 269** : les seuls numéros sont des mobiles. **Point** : 1 La Raimbaudière à la Base Adresse Nationale (0,96, type « numéro »). **Photo, règles 239 et 268** : la chèvrerie publiée par Ôsez Mauges (768 × 1 024), sans personne ; les mentions de l'office permettent la reproduction électronique en citant la source avec « Droits réservés ».)
+- **AMAP des 2 Étangs** (Sèvremoine) (catégorie et piliers des AMAP, sans `environnement` : l'AMAP ne classe pas ses producteurs. **Registre** : l'association, active, à Saint-Macaire-en-Mauges. **Distribution en cours, règle 195** : articles du site datés du 11 février et du 14 mars 2026 (nouveaux contrats, sondage). **Lieu, règle 87** : l'article « L'Amap déménage » (21 juillet 2025) annonce la Maison des Arts à partir du 3 septembre 2025, la page d'informations pratiques cite encore le Pôle social ; l'article, daté et précis, est retenu, l'écart est écrit dans les horaires. **Produits** : pages « Les producteurs » du site. **Point** : rue du Tamarin à la Base Adresse Nationale (type « voie »). **Photo, règles 46 et 232** : un cadre de ruche tenu par l'apiculteur de l'AMAP (1 280 × 919), recadré à droite du visage voilé (760 px) ; le même apiculteur figure en portrait sur le site, ce n'est pas une banque d'images.)
 - **Les Halles de Niort** (Niort) (catégorie et piliers des marchés couverts municipaux, comme les halles de Carcassonne ; pas d'`environnement`, aucune source ne classe les halles. **Registre, règle 6** : la société d'économie mixte de gestion des halles, active, place des Halles. **Horaires, règle 55** : la page « Les marchés niortais » de la Ville donne une fermeture à 13h30 du mardi au samedi et 13h le dimanche ; la page « Plan et infos » du site des Halles écrit 13h tous les jours ; aucune des deux n'est datée, les deux valeurs sont publiées. Les ouvertures (4h à 7h selon le jour) concordent. **Téléphone, règles 189 et 269** : le fixe de la SEM des Halles, que la Ville et le site publient ; le mobile que la Ville imprime aussi n'est pas repris. **Point, règle 26** : la place des Halles à la Base Adresse Nationale (0,966). **Photo** : l'étal d'un primeur sous la halle, versé par le site des Halles (2 016 px, 2021), recadré à gauche du commerçant (1 000 × 1 132) ; le site n'a ni mentions légales ni clause sur les images, son `robots.txt` n'exclut personne ; métadonnées retirées (règle 235).)
 - **Potager de Chantemerle** (Niort) (catégorie `producteur`, comme le domaine du lycée agricole de Carcassonne. **Registre, règle 6** : l'EPLEFPA Terres et Paysages Sud Deux-Sèvres, actif (huit établissements). **Pilier `environnement`, règle 210** : certificat Ecocert engagé le 1er décembre 2021 sur l'exploitation de Niort, productions déclarées (légumes, fraises, petits fruits, plants potagers). **Horaires, règle 58** : l'affiche « Nouveaux horaires à partir d'octobre 2024 » du campus (mercredi et vendredi 14h-18h, samedi 9h-12h) l'emporte sur la boutique en ligne, non datée, qui écrit 9h-12h et 14h-18h les trois jours ; la seconde est citée. **Point** : 58 rue Angélina-Faity à la Base Adresse Nationale (0,972). **Photo** : l'étal de légumes du potager, versé par le campus (1 920 px, ramené à 1 280), sans personne ; les mentions légales du campus ne contiennent qu'un texte de remplissage, aucune clause (règle 231).)
 - **AMAP'tite Souchéenne** (Niort) (catégorie et piliers des AMAP. **Distribution en cours, règle 195** : la page « Paniers » de l'AMAP publie la composition des paniers semaine après semaine, jusqu'à celle du 21 au 26 septembre 2026 ; jeudi 18h-19h au centre socioculturel de Souché, équipement public (règle 243 non concernée). **Produits** : les cartes « producteurs » de l'AMAP (légumes, fruits, œufs, volailles, fromages de chèvre, tisanes) ; une carte porte le nom d'une personne, elle n'est pas reprise. **Pas de téléphone, règle 269** : le seul numéro est un mobile imprimé sous le nom de la directrice de publication. **Photo, règle 272** : les images de l'AMAP sont des tableaux de prix ; retenu : l'étal de légumes d'un exposant du Petit marché de Souché (Ville de Niort, 2022), marché de trois dimanches par an non publié (règle 203), recadré à droite des clients (720 × 470) ; la description dit qu'il ne montre pas l'AMAP.)
@@ -10561,6 +10580,60 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Sèvremoine (Maine-et-Loire) — cinq fiches publiées dans la commune, troisième de la descente
+
+Passe du 23 septembre 2026, après celle de Niort. Aucune demande de visiteur (nouvelle ou en cours), aucun courriel. **Classement,
+règle 41**, sur 739 fiches, dénominateur de la règle 224, outre-mer écarté (règle 177) : Landes 4,6468 et Eure-et-Loir 4,6420
+(épuisés, règle 265), Haute-Vienne 3,9994 (Nouvelle-Aquitaine, sautée par la règle 41.c après Niort), **Maine-et-Loire (49)
+3,9360**, Isère 3,9219. `origin/main` n'avait pas bougé au moment de publier (règle 241). **Après la passe**, sur 744 fiches :
+Landes 4,6782 et Eure-et-Loir 4,6734 (épuisés), Haute-Vienne 4,0265, Isère 4,0161, Oise 3,9546 ; Maine-et-Loire −1,0036. La passe
+suivante ne peut pas viser les Pays de la Loire ; la Nouvelle-Aquitaine est de nouveau ouverte (Haute-Vienne).
+
+**Descente du Maine-et-Loire (règles 41.d et 127)**, communes sans fiche par population ; contrôle en deux requêtes avant toute
+lecture (règle 257).
+
+- **Cholet** (54 404, commune calculée) : **quatre points, pas cinq** (règles 258 et 264). Deux fiches entières dans la commune (le
+  magasin des Artisans du Potager et l'AMAP Le Panier de la Moine) et deux dans Cholet Agglomération (le magasin de Saint-Léger-
+  sous-Cholet et une chèvrerie du May-sur-Èvre, 12 km) ; aucune cinquième. Le site de la Ville nomme les photographies et en
+  réserve l'usage, comme l'office de tourisme (règle 253), Anjou Tourisme et le site des halles ; les images du magasin Biocoop
+  sont nommées par ses conditions d'utilisation (règle 245) ; un magasin de vrac est sur Wix (règle 256). Détail dans les pistes.
+- **Saumur** (26 241) : **une seule fiche entière** (le caveau d'un domaine à Dampierre). L'office de tourisme répond 403 à l'agent
+  nommé (règle 257) ; la Ville nomme ses photographies ; un domaine est fermé à l'agent nommé ; un autre porte un nom formé de deux
+  prénoms (règle 259).
+- **Sèvremoine** (25 797) : **cinq fiches**, toutes dans la commune nouvelle (Mauges Communauté), de 3,3 à 9,7 km du centre que
+  donne `geo.api.gouv.fr` — le magasin de producteurs La Ferme de Chez Nous et les Vergers de la Chenillère (Saint-Macaire-en-
+  Mauges), les Vergers du Pontonnet (Tillières), la Ferme des Caprices d'Anglos (Montfaucon-Montigné), l'AMAP des 2 Étangs
+  (Saint-Macaire-en-Mauges). Le site de la Ville nomme ses photographies ; l'office Ôsez Mauges (`osezmauges.fr`) n'exclut aucun
+  agent et permet la reproduction électronique en citant la source avec « Droits réservés » (règle 239) : deux fiches en portent
+  la photographie. Règles 274 à 276 (nouvelles). Toutes les fiches sont `a_confirmer` ; le détail est dans « Marchands à confirmer ».
+- **Criblage des communes suivantes, non éprouvées** : Beaupréau-en-Mauges (la Ville nomme ses photographies ; le magasin de
+  producteurs et le magasin Biocoop n'ont pas de site propre), Chemillé-en-Anjou (la Ville répond 444 à l'agent nommé ; une ferme
+  ne vend que lors de retraits ponctuels), Mauges-sur-Loire, Segré-en-Anjou Bleu et Trélazé (photographies de la Ville nommées),
+  Loire-Authion et Avrillé (444 à l'agent nommé), Orée d'Anjou et Montrevault-sur-Èvre (aucune clause trouvée).
+
+### Pistes non publiées à Cholet, Saumur et Sèvremoine
+
+Passe du 23 septembre 2026 (Maine-et-Loire). La passe qui reviendra dans le 49 reprend d'abord Cholet (quatre fiches prêtes,
+nommément désignées ici) si une cinquième se présente, puis la descente à **Saumur**.
+
+- **Les Artisans du Potager, magasin de Cholet** (La Petite Châtaigneraie) — **désigné pour la reprise** : établissement ouvert,
+  horaires du site (mardi, jeudi, vendredi 9h-12h et 14h-19h, samedi 9h-12h30 ; le guide de l'Agglomération du 7 mai 2025 donne une
+  variante), point de l'Agglomération, photographie du magasin sans personne (1 200 × 675) ; lien non mis (règle 274).
+- **AMAP Le Panier de la Moine** (Centre social du Verger, mercredi 18h30-19h30) — **désignée pour la reprise** : affiche de portes
+  ouvertes du 16 septembre 2026 publiée le 2 septembre (règle 218), photographie des bouteilles d'un fournisseur (règle 232).
+- **La Ferme de Chez Nous, magasin de Saint-Léger-sous-Cholet** (47 rue de la Vendée) — **désignée pour la reprise** : société
+  active, horaires du site, photographie de l'intérieur du magasin (1 203 × 631).
+- **Chèvrerie du May-sur-Èvre** (12 km de Cholet, même agglomération) — **désignée pour la reprise** : horaires du vendredi
+  (15h30-19h sur son site, 19h30 dans un guide : le site l'emporte), photographie de chèvres au pré ; les mobiles publiés sous des
+  prénoms ne sont pas repris.
+- **Cholet, cinquième point manquant** : une ferme dont les photographies sont créditées à un photographe, une autre qui ne vend que
+  sur commande, un site qui boucle en redirection (règle 237), une épicerie sans image. **Déblocage** : une cinquième fiche entière
+  dans la commune ou l'agglomération.
+- **Château du Hureau** (Dampierre-sur-Loire, Saumur) : une fiche entière, seule dans sa commune ; horaires du lundi au vendredi.
+- **Saumur, un domaine viticole** : nom formé de prénoms (règle 259) ; rien n'est publié.
+- **Vergers de la Chenillère, photographies du site** : filigrane de crédit (règle 275), non utilisées ; un portrait y montre un
+  visage.
 
 ### Passe de Niort (Deux-Sèvres) — cinq fiches publiées, commune calculée
 

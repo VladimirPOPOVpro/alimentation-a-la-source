@@ -19663,5 +19663,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Nature+Solidaire+109+rue+du+Moulin+79460+Magn%C3%A9",
     "image_url": "/images/marchands/nature-solidaire-magne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-chez-nous-saint-macaire-en-mauges",
+    "nom": "La Ferme de Chez Nous — Saint-Macaire-en-Mauges",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.11435,
+    "lon": -0.986845,
+    "adresse": "33 rue Denis Papin, Saint-Macaire-en-Mauges, 49450 Sèvremoine",
+    "horaires": "Mardi, mercredi et jeudi de 9h à 13h et de 15h à 19h ; vendredi de 9h à 19h et samedi de 9h à 18h en journée continue ; fermé le dimanche et le lundi (site du magasin).",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Fromages et produits frais",
+      "Œufs",
+      "Épicerie",
+      "Boissons"
+    ],
+    "description": "Magasin de producteurs ouvert le 29 octobre 2021 par cinq fermes associées, qui y vendent leur production et celle d'apporteurs locaux ; le magasin publie sa propre carte de 59 producteurs, tous à moins de 100 km. Il appartient au réseau La Ferme de Chez Nous, qui compte d'autres magasins dans le Choletais. Photo : site du magasin, un panier de légumes.",
+    "telephone": "09 77 49 99 40",
+    "site_web": "https://www.saint-macaire-en-mauges.lafermedecheznous.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Ferme+de+Chez+Nous+33+rue+Denis+Papin+49450+S%C3%A8vremoine",
+    "image_url": "/images/marchands/ferme-de-chez-nous-saint-macaire-en-mauges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vergers-du-pontonnet-sevremoine",
+    "nom": "Les Vergers du Pontonnet",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.144047,
+    "lon": -1.134456,
+    "adresse": "Le Pontonnet, Tillières, 49230 Sèvremoine",
+    "horaires": "Lundi de 14h30 à 18h30 ; du mardi au vendredi de 9h30 à 12h30 et de 14h30 à 18h30 ; samedi de 9h à 13h ; fermé le dimanche (site des Vergers).",
+    "produits": [
+      "Pommes et poires du verger",
+      "Fruits et légumes",
+      "Viande",
+      "Crèmerie",
+      "Épicerie en vrac",
+      "Miel et confitures",
+      "Bière"
+    ],
+    "description": "Magasin à la ferme ouvert depuis près de trente ans pour vendre les pommes et les poires du verger familial ; il propose aujourd'hui aussi des produits d'autres fournisseurs (viande, crèmerie, vrac, miel, bière). L'exploitation est engagée en agriculture biologique au registre de l'Agence Bio (production mixte : tout n'est pas certifié). Photo : site des Vergers du Pontonnet, l'intérieur du magasin.",
+    "telephone": "02 41 30 17 91",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vergers+du+Pontonnet+Tilli%C3%A8res+49230+S%C3%A8vremoine",
+    "image_url": "/images/marchands/vergers-du-pontonnet-sevremoine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vergers-de-la-chenillere-sevremoine",
+    "nom": "Les Vergers de la Chenillère",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.129382,
+    "lon": -0.984422,
+    "adresse": "3 La Chenillère, Saint-Macaire-en-Mauges, 49450 Sèvremoine",
+    "horaires": "Vente directe au verger du lundi au vendredi de 9h à 12h et de 13h30 à 18h30 (site des Vergers et Ôsez Mauges). Présents aussi le samedi matin au marché de Cholet.",
+    "produits": [
+      "Pommes",
+      "Poires",
+      "Kiwis",
+      "Jus de pomme"
+    ],
+    "description": "Verger familial planté à partir de 1962, sur 18 hectares, qui vend en direct ses pommes, ses poires, ses kiwis et ses jus. Une partie des pommes est cultivée en agriculture biologique (certificat Ecocert au registre de l'Agence Bio, production mixte), le reste en démarche écoresponsable selon l'exploitation. Photo : Ôsez Mauges (osezmauges.fr), droits réservés.",
+    "telephone": "02 41 55 13 67",
+    "site_web": "https://www.osezmauges.fr/degustation/les-vergers-de-la-chenillere/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Vergers+de+la+Chenill%C3%A8re+Saint-Macaire-en-Mauges+49450+S%C3%A8vremoine",
+    "image_url": "/images/marchands/vergers-de-la-chenillere-sevremoine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-caprices-d-anglos-sevremoine",
+    "nom": "La Ferme des Caprices d'Anglos",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.08284,
+    "lon": -1.139315,
+    "adresse": "1 La Raimbaudière, Montfaucon-Montigné, 49230 Sèvremoine",
+    "horaires": "Magasin à la ferme ouvert le mercredi et le vendredi de 17h à 19h, le samedi de 10h à 12h30 (Ôsez Mauges).",
+    "produits": [
+      "Fromages de chèvre",
+      "Fromages de vache",
+      "Yaourts",
+      "Crèmes desserts",
+      "Fromages blancs"
+    ],
+    "description": "Élevage installé en 2018 : une cinquantaine de chèvres anglo-nubiennes et deux vaches laitières, en agriculture biologique (registre de l'Agence Bio). Le lait est transformé sur place en crottins, bûches, pyramides, yaourts et crèmes, vendus au magasin de la ferme. Photo : Ôsez Mauges (osezmauges.fr), droits réservés.",
+    "site_web": "https://www.osezmauges.fr/degustation/la-ferme-des-caprices-danglos/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Raimbaudi%C3%A8re+Montfaucon-Montign%C3%A9+49230+S%C3%A8vremoine",
+    "image_url": "/images/marchands/ferme-des-caprices-d-anglos-sevremoine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-des-2-etangs-sevremoine",
+    "nom": "AMAP des 2 Étangs",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.122711,
+    "lon": -0.99336,
+    "adresse": "Salle Barbara, Maison des Arts, rue du Tamarin, Saint-Macaire-en-Mauges, 49450 Sèvremoine",
+    "horaires": "Distribution le mercredi de 18h30 à 19h15, pour les adhérents sous contrat ; contrats signés en septembre (octobre-mars) et en mars (avril-septembre). Distributions à la Maison des Arts depuis le 3 septembre 2025 selon l'article « L'Amap déménage » ; la page d'informations pratiques cite encore le Pôle social.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Œufs et volailles",
+      "Pain",
+      "Fromages de chèvre et de brebis",
+      "Viandes de bœuf et de porc",
+      "Miel",
+      "Poisson"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne de Saint-Macaire-en-Mauges, qui passe des contrats semestriels avec ses producteurs ; de nouveaux contrats et produits étaient en préparation au printemps 2026 selon son site. Photo : site de l'AMAP, un cadre de ruche de son apiculteur, recadré.",
+    "site_web": "https://www.amapdes2etangs.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Arts+rue+du+Tamarin+49450+S%C3%A8vremoine",
+    "image_url": "/images/marchands/amap-des-2-etangs-sevremoine.jpg",
+    "a_confirmer": true
   }
 ]
