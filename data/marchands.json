@@ -20028,5 +20028,145 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Furieuse+7+rue+de+la+Maladi%C3%A8re+38360+Sassenage",
     "image_url": "/images/marchands/la-furieuse-sassenage.jpg",
     "a_confirmer": false
+  },
+  {
+    "slug": "marche-couvert-neufchateau",
+    "nom": "Marché couvert de Neufchâteau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.355118,
+    "lon": 5.691242,
+    "adresse": "Avenue du Président Kennedy, 88300 Neufchâteau",
+    "horaires": "Samedi de 8h30 à 12h30, toute l'année (Office de Tourisme de l'Ouest des Vosges ; la Ville annonce « chaque samedi matin dès 8h30 »). Marché du terroir élargi le premier samedi du mois, de mars à octobre.",
+    "produits": [
+      "Fruits et légumes",
+      "Pains au levain",
+      "Viande et volailles fermières",
+      "Fromages et yaourts fermiers",
+      "Fromages de chèvre et de brebis",
+      "Tisanes et plantes aromatiques",
+      "Miel",
+      "Glaces fermières"
+    ],
+    "description": "Halles municipales où une dizaine de producteurs et artisans du territoire vendent chaque samedi matin, doublées d'un marché extérieur rue Kennedy ; la Ville et la Communauté de communes de l'Ouest Vosgien le présentent comme leur marché du « manger local ». Photo : Office de Tourisme de l'Ouest des Vosges (tourisme-ouest-vosges.fr).",
+    "site_web": "https://ccov.fr/contenu/marche-couvert-et-marche-du-terroir/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+couvert+Avenue+du+Pr%C3%A9sident+Kennedy+88300+Neufch%C3%A2teau",
+    "image_url": "/images/marchands/marche-couvert-neufchateau.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "naturellement-glacee-neufchateau",
+    "nom": "Natur'ellement Glacée",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.354633,
+    "lon": 5.693663,
+    "adresse": "4 Rue Saint-Christophe, 88300 Neufchâteau",
+    "horaires": "Du mercredi au vendredi de 10h30 à 12h30 et de 14h30 à 18h30 ; samedi de 9h à 12h30 et de 13h30 à 18h (site du glacier et Office de Tourisme de l'Ouest des Vosges, concordants).",
+    "produits": [
+      "Glaces fermières au lait entier bio",
+      "Glaces au yaourt",
+      "Sorbets (cerise, mirabelle, melon)",
+      "Glace au bourgeon de sapin",
+      "Pâtisseries glacées",
+      "Bûches glacées"
+    ],
+    "description": "Glacier artisanal ouvert en 2020, qui fabrique ses glaces fermières sans colorant ni arôme avec le lait entier bio d'une ferme de Landaville, à une douzaine de kilomètres ; on le retrouve aussi le samedi au marché couvert. Photo : Office de Tourisme de l'Ouest des Vosges (tourisme-ouest-vosges.fr), recadrée sur la vitrine.",
+    "site_web": "https://naturellementglacee.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Natur'ellement+Glac%C3%A9e+4+rue+Saint-Christophe+88300+Neufch%C3%A2teau",
+    "image_url": "/images/marchands/naturellement-glacee-neufchateau.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "saison-paysanne-neufchateau",
+    "nom": "Saison Paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.341696,
+    "lon": 5.689744,
+    "adresse": "200 Route de Langres, 88300 Neufchâteau",
+    "horaires": "Mercredi et vendredi de 9h30 à 13h et de 14h à 19h ; jeudi et samedi de 9h30 à 13h (site du magasin, septembre 2026).",
+    "produits": [
+      "Légumes et fruits frais",
+      "Viandes de bœuf, porc, agneau, lapin et volaille",
+      "Produits laitiers de vache, brebis et chèvre",
+      "Œufs",
+      "Pains, pâtes et farines",
+      "Légumineuses",
+      "Miel",
+      "Vins, bières et jus"
+    ],
+    "description": "Magasin collectif tenu par ses producteurs, qui accueillent eux-mêmes la clientèle, à l'entrée sud de Neufchâteau. Photo thématique : le lavoir du ruisseau de l'Abreuvoir, dans le quartier de Rouceux, publiée par la Communauté de communes de l'Ouest Vosgien (ccov.fr) ; elle ne montre pas le magasin.",
+    "telephone": "03 72 99 00 50",
+    "site_web": "https://saisonpaysanne.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Saison+Paysanne+200+route+de+Langres+88300+Neufch%C3%A2teau",
+    "image_url": "/images/marchands/saison-paysanne-neufchateau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "jardins-de-pleuvezain-emmaus-neufchateau",
+    "nom": "Les Jardins de Pleuvezain — vente chez Emmaüs Neufchâteau",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social"
+    ],
+    "lat": 48.363577,
+    "lon": 5.677808,
+    "adresse": "80 Rue des Riaux, 88300 Neufchâteau",
+    "horaires": "Mercredi après-midi, de 14h à 17h selon le site de la ferme (sa boutique en ligne indique 13h-17h), dans la zone des Torrières. Commandes en ligne à retirer pendant la vente.",
+    "produits": [
+      "Légumes bio de saison",
+      "Carottes",
+      "Tomates",
+      "Aubergines et poivrons",
+      "Céleri",
+      "Pommes de terre",
+      "Coulis de tomate"
+    ],
+    "description": "Point de vente hebdomadaire d'un chantier d'insertion en maraîchage biologique, repris en 2025 par une association néocastrienne avec le soutien de la Communauté de communes ; la vente directe a aussi lieu à la ferme, à Pleuvezain, le vendredi de 16h à 18h. Photo thématique : la place Jeanne-d'Arc de Neufchâteau, Office de Tourisme de l'Ouest des Vosges (tourisme-ouest-vosges.fr) ; elle ne montre pas le point de vente.",
+    "site_web": "https://site.ouvretaferme.org/jardins-pleuvezain/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Emma%C3%BCs+80+rue+des+Riaux+88300+Neufch%C3%A2teau",
+    "image_url": "/images/marchands/jardins-de-pleuvezain-emmaus-neufchateau.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-coussoyote-coussey",
+    "nom": "La Coussoyote",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.407688,
+    "lon": 5.682156,
+    "adresse": "1b Place Jeanne d'Arc, 88630 Coussey",
+    "horaires": "Vente à la ferme le mercredi, le vendredi et le samedi de 14h à 19h30 (Office de Tourisme de l'Ouest des Vosges) ; présente aussi le samedi matin au marché couvert de Neufchâteau.",
+    "produits": [
+      "Légumes",
+      "Œufs",
+      "Miel",
+      "Volailles élevées en plein air",
+      "Viande"
+    ],
+    "description": "Ferme de Coussey, à 6 km au nord de Neufchâteau, qui vend ses légumes, ses œufs et ses volailles de plein air sur place et au marché couvert. Photo thématique : le ruisseau de l'Abreuvoir à Neufchâteau, Office de Tourisme de l'Ouest des Vosges (tourisme-ouest-vosges.fr) ; elle ne montre pas la ferme.",
+    "site_web": "https://www.tourisme-ouest-vosges.fr/offres/produits-de-le-ferme-la-coussoyote-coussey-fr-3017414/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Coussoyote+1+bis+place+Jeanne+d'Arc+88630+Coussey",
+    "image_url": "/images/marchands/la-coussoyote-coussey.jpg",
+    "a_confirmer": true
   }
 ]

@@ -3600,9 +3600,27 @@ prioritaires en cas de conflit.
      changer d'en-tête (règle 252), et la limite de débit qu'il annonce (429 au-delà de dix requêtes en dix secondes) se respecte.
      Le cas inverse — défi ou refus pour l'agent nommé seul — reste sous les règles 212 et 257.
 
+285. **Quand la Ville de la commune calculée ne publie pas assez de photographies thématiques permises pour les fiches de la
+     règle 272, l'office de tourisme intercommunal complète, aux conditions de la règle 277.** À Neufchâteau, la règle 127 est
+     remplie (le marché couvert et le glacier de la rue Saint-Christophe, chacun avec sa propre photographie), et trois fiches de
+     la zone ont des faits entiers sans image permise. La Ville, dont les pages sont servies par la Communauté de communes de
+     l'Ouest Vosgien, ne ferme pas ses images — ses mentions légales n'en parlent pas, seul un « Tous droits réservés » général
+     figure en pied de page (règle 231) —, mais elle n'en publie qu'une seule qui convienne : le lavoir du ruisseau de
+     l'Abreuvoir. Ses autres fichiers sont des logos, des affiches, des arbres repris de Wikimedia Commons ou des agents
+     reconnaissables. La règle 277 ne donnait l'office qu'à défaut d'une Ville qui refuse tout agent ; ici la Ville répond, mais
+     se tait. **Tranché ainsi** : le silence vaut le refus — une fois épuisées les photographies permises de la Ville, l'office
+     intercommunal qui fiche les lieux publics non marchands de la commune calculée en fournit, aux conditions des règles 272 et
+     277 : clause lisible et permissive (l'Office de Tourisme de l'Ouest des Vosges n'en a aucune sur la reproduction), un
+     fichier par fiche, aucun visage, crédit à l'office, description qui dit que l'image ne montre pas le lieu, `a_confirmer`.
+     La photographie de la Ville passe avant celles de l'office. Ici : le lavoir de la Ville pour Saison Paysanne, la place
+     Jeanne-d'Arc et le ruisseau de l'Abreuvoir, fichés par l'office, pour les deux autres.
+
 ## Marchands à confirmer
 
-676 fiches sur 753 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+679 fiches sur 758 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Saison Paysanne** (Neufchâteau) (catégorie `producteur`, magasin collectif de producteurs comme ceux de Niort et de Limoges. **Registre, règle 6** : société active, établissement unique au 200 route de Langres. **Point** : Base Adresse Nationale au numéro (0,956). **Horaires** : page d'accueil du site, à jour (semaine anniversaire du 23 au 26 septembre 2026) ; la page de la commune voisine de Certilleux donne les mêmes, mais date d'avril 2024. **Téléphone** : le fixe du magasin, publié sur son site. **Photo, règles 272 et 285** : les mentions légales du site réservent « les représentations photographiques » et limitent la copie à l'usage privé (règle 246) ; retenue : le lavoir du ruisseau de l'Abreuvoir, publié par la Ville sur ccov.fr (5 818 px, ramené à 1 280), sans personne.)
+- **Les Jardins de Pleuvezain — vente chez Emmaüs Neufchâteau** (Neufchâteau) (catégorie `producteur`, chantier d'insertion en maraîchage biologique. **Registre** : l'association gestionnaire est active ; l'établissement d'Emmaüs au 80 rue des Riaux (zone des Torrières) aussi. **Point** : Base Adresse Nationale au numéro (0,957). **Horaires, règle 5** : le site de la ferme (actualités jusqu'au 13 août 2026, dont une annulation de la vente du mercredi chez Emmaüs en juin) dit 14h-17h, sa boutique en ligne 13h-17h ; la fiche publie l'horaire du site et cite l'autre. **Produits** : ceux de la boutique en ligne en septembre 2026. **Photo, règles 272 et 285** : le bandeau du site montre l'étal de la ferme à Pleuvezain, à 17 km, pas le point de vente ; retenue : la place Jeanne-d'Arc, fiche de l'Office de Tourisme de l'Ouest des Vosges (800 px), sans visage.)
+- **La Coussoyote** (Coussey) (catégorie `ferme`, à 5,7 km du centre de Neufchâteau dans la Communauté de communes de l'Ouest Vosgien (règle 96). **Registre, règle 6** : exploitation active à Coussey, élevage de volailles ; son nom d'immatriculation n'est pas repris, seule l'enseigne l'est. **Horaires** : fiche de l'office (modifiée le 31 décembre 2025) ; la page du marché couvert de la Ville la compte parmi ses exposants. **Point** : 1b place Jeanne-d'Arc, au numéro (0,718, la BAN écrivant « 1b »). Le site propre ne répond plus et n'est pas inscrit ; les téléphones de la fiche d'office ne sont pas repris. **Photo, règles 272 et 285** : la photographie de poules de la fiche d'office n'est créditée à personne et a l'allure d'une image de banque ; retenue : des canards sur le ruisseau de l'Abreuvoir, fiche de l'office (800 px).)
 - **Les Jardins de Malissoles** (Varces-Allières-et-Risset) (catégorie `ferme`. **Registre, règle 6** : EARL active, établissement unique au lieu-dit de Malissoles. **Agence Bio** : certificat engagé depuis novembre 2005, vente aux particuliers déclarée ; le pilier `environnement` suit le certificat. **Point** : la fiche d'office ne donne que « chemin de Malissoles » ; le numéro 110 vient de la déclaration de l'opérateur au registre bio, la Base Adresse Nationale le rend au numéro (0,955) et le marqueur de la fiche du Parc tombe à 73 m ; le point du registre des entreprises, au lieu-dit, est à 340 m et n'est pas retenu. **Horaires, règle 281** : le champ « Ouverture » l'emporte sur la description (18h contre 19h), la vente d'automne des plants, écrite dans la seule description, est citée entre parenthèses. **Produits** : ceux de la fiche d'office seulement ; les pommes et les aromatiques du registre bio sont des cultures déclarées, pas une vente attestée (règle 31). Le téléphone de la fiche d'office n'est pas repris. Photo : la serre de la fiche du Parc du Vercors, dont le site n'a aucune clause sur les images (règles 231 et 254) ; le filigrane nominatif du bas de l'image est retiré par recadrage (règle 75), 1 200 × 740)
 - **Les Chèvres du Griffey** (Claix) (catégorie `ferme`, fromagerie à la ferme. **Registre, règle 6** : GAEC actif sous cette dénomination, créé en 2019, au 40 chemin de Savoyères, point à 11 m de celui de la Base Adresse Nationale (0,959). **Horaires, règle 281** : champ « Ouverture » retenu, description citée entre parenthèses. **Téléphone non inscrit** : l'office et l'annuaire de la Ville de Claix donnent deux numéros différents, et l'exploitation ne publie aucun site. Pas de pilier `environnement` : l'exploitation n'est pas au registre bio. Photo : chèvres au pâturage, fiche du Parc du Vercors, 640 px — sous le seuil de 700 px mais au-dessus du plancher de la règle 59, faute de photographie thématique permise de Claix, dont la Ville réserve ses images à l'usage privé)
 - **Saveurs Fermières — Mas Loubier** (Limoges) (catégorie `producteur`, règle 105 : magasin permanent d'une coopérative de producteurs. **Registre, règle 6** : la société coopérative agricole Saveurs Fermières, active, deux établissements ouverts, au 10 rue de la Céramique (siège) et au 38 rue de la Mauvendière. Pas d'`environnement` : aucun certificat de la coopérative au registre de l'Agence Bio. **Règle 86** : la coopérative vend la production de ses fermes adhérentes et écrit ne pas faire d'achat-revente ; sa carte de producteurs lui est propre (règle 276), les noms n'en sont pas repris. **Horaires et téléphone** : pages « Nos magasins » et « Horaires » du site, identiques ; la fiche de Destination Limoges (article du 25 juin 2026, modifié le 2 juillet) donne les mêmes adresses et numéros. **Point** : 10 rue de la Céramique à la Base Adresse Nationale (0,970, type « numéro »), à 25 m du point du registre. **Photo, règles 230, 239 et 268** : les mentions légales du site nomment les photographies et en interdisent la reprise ; retenue : des bouteilles d'huile de tournesol devant l'enseigne du magasin, publiée par l'office dans son article (1 600 × 2 133, ramenée à 1 280), sans personne ; l'office crédite la coopérative et une photographe, la fiche ne cite que l'office. Deux autres images de l'article sont écartées : des portraits de producteurs, et une tartine dont l'étiquette de fromage porte le nom de personnes.)
@@ -10663,6 +10681,73 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Neufchâteau (Vosges) — cinq fiches publiées, commune calculée, douze communes du Val-d'Oise éprouvées sans zone
+
+Passe du 23 septembre 2026 (nuit), après neuf passes sans publication. Aucune demande de visiteur (nouvelle ou en cours), aucun
+courriel. **Reprise d'abord (règles 264 à 266)** : `www.capbreton.fr` n'ouvre toujours aucune connexion, à l'agent par défaut comme
+à l'agent nommé : le groupe de Labenne reste à quatre points. **Classement, règle 41**, recalculé sur 753 fiches : Oise 5,0629,
+Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés, règle 265), **Val-d'Oise (95) 3,9963**, **Vosges (88) 3,9013** — inchangé.
+
+**Val-d'Oise — douze communes (règles 247 et 127), reprises à Marly-la-Ville** : aucune ne rend deux fiches entières.
+
+1. **Marly-la-Ville** (6 022) — Pas de marché régulier publié par la Ville ; une ferme n'est connue que d'un annuaire. **Zéro.**
+2. **Magny-en-Vexin** (5 779) — Marché du samedi place de la Halle : horaires sur une fiche départementale de 2024 seulement, aucun
+   produit publié, mentions de la Ville réservant les « représentations photographiques » (règle 246). Le magasin bio de la zone de
+   la Demi-Lune a perdu son domaine propre et n'a aucune photographie. Une exploitation viticole est écartée pour son intitulé. **Zéro.**
+3. **Parmain** (5 655) — Marché du samedi 8h-13h, place Georges-Clemenceau : seule page datée d'octobre 2022 (règle 195 par
+   analogie), l'office donnant deux horaires contradictoires sur une fiche de 2021. **Zéro.** Déblocage : une page de la Ville ou de
+   l'office de moins de douze mois.
+4. **Viarmes** (5 558) — Marché du mercredi et du samedi 8h30-13h : page du 8 août 2025, juste au-delà de douze mois, et
+   déplacement place Pierre-Salvi depuis septembre 2025 que la page n'a pas repris ; les seules images ont l'allure de banques
+   d'images. **Zéro.**
+5. **Mériel** (5 347) — Ni marché ni point de vente publié ; le registre bio n'y compte qu'un supermarché. **Zéro.**
+6. **Champagne-sur-Oise** (5 036) — **Une fiche entière** : l'AMAP de l'association Unis Vers Écolo, jeudi 18h30-19h30 au
+   46 rue Jules-Picard (BAN 0,964 ; page de la Ville de mars 2026 et page de l'association concordantes), photographie de cagettes
+   sur son site, sans clause. Trois fermes et une épicerie fine sont écartées pour leur nom. **Une** — seule dans la commune.
+7. **Luzarches** (5 008) — Marché sous la halle (mercredi, vendredi, dimanche) sans heure publiée par une autorité, et la page
+   patrimoniale de la Ville n'en garde qu'un. Une ferme maraîchère n'a d'horaires que sur un blog de 2015. **Zéro.**
+8. **Bruyères-sur-Oise** (4 921) — Marché de producteurs du deuxième et du quatrième mardi : seule source de juin 2023. **Zéro.**
+9. **La Frette-sur-Seine** (4 570) — Pas de marché ; un commerce de marché écarté pour son nom. **Zéro.**
+10. **Le Thillay** (4 560) — Le maraîchage bio de la route de Roissy est fermé au registre ; ses sociétés sœurs portent un nom de
+    famille. **Zéro.**
+11. **Survilliers** (4 091) — Un marché du jeudi n'est attesté par aucune source d'autorité ; aucun opérateur bio. **Zéro.**
+12. **Montsoult** (4 023) — Marché du vendredi et du dimanche 8h-13h, page de la Ville du 19 août 2025 (au-delà de douze mois),
+    aucun produit à jour, image de 683 px faite d'une affiche et mentions nommant les photographies. **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Presles** (4 017). L'AMAP de Champagne-sur-Oise est désignée pour la reprise
+(règle 258), comme les trois marchés entiers de Plaine Vallée.
+
+**Vosges — Neufchâteau fait la passe (règles 127, 96 et 272)**. Neufchâteau (6 732), commune calculée, rend deux fiches entières,
+image comprise :
+
+- le **marché couvert**, samedi 8h30-12h30 (Office de Tourisme de l'Ouest des Vosges, fiche de janvier 2026 ; la Ville écrit
+  « dès 8h30 »), avec la photographie de sa façade publiée par l'office (800 px, deux passants de dos) ;
+- **Natur'ellement Glacée**, glacier fermier au lait bio d'une ferme voisine, dont les horaires concordent entre son site et l'office.
+  Sa seule photographie montre une personne reconnaissable derrière la vitrine : elle est **recadrée sur la vitrine** (règle 46) à
+  600 × 330, au plancher de la règle 59, sans agrandissement ; le reflet d'un tablier reste, aucun visage. L'agent de criblage l'avait
+  écartée pour ses 600 px ; c'est la règle 59 qui la retient. Le numéro que publie le site est un mobile : il n'est pas repris, par
+  prudence (règle 269).
+
+La zone est complétée par trois fiches aux faits entiers, illustrées au titre des règles 272 et 285 : **Saison Paysanne** (magasin de
+producteurs, 1,7 km), le **point de vente des Jardins de Pleuvezain chez Emmaüs** (1,3 km) et **La Coussoyote** à Coussey (5,7 km,
+même intercommunalité, règle 96). Écartés : les halles de la Grande-Fontaine (une boucherie, hors du circuit court), le magasin
+d'usine d'un groupe laitier (industriel), l'AMAP (sources limitées à un réseau social et à des annuaires, horaires contradictoires).
+**Raon-l'Étape** (5 886), seconde commune de la descente, avait aussi été criblée avant la décision : son marché du samedi n'a ni
+produits ni photographie publiés ; elle n'est pas comptée comme éprouvée, puisque la première commune a fait la passe.
+
+**Contradiction consignée (règle 5)** : l'heure d'ouverture de la vente des Jardins de Pleuvezain chez Emmaüs, 14h sur le site de la
+ferme, 13h sur sa boutique en ligne ; la fiche publie 14h-17h et cite l'autre heure, `a_confirmer`.
+
+**Après la passe**, sur 758 fiches : **Val-d'Oise 4,0892** (premier non épuisé), Charente 3,8770, Seine-Maritime 3,8618. Les Vosges
+passent à −1,0728. La passe suivante ne peut pas viser le Grand Est (règle 41.c) ; le Val-d'Oise, en Île-de-France, reste possible.
+Les fiches entières de Gérardmer et de Remiremont (règle 258) restent désignées pour une reprise dans les Vosges.
+
+**Données personnelles écartées** : des exploitations de Champagne-sur-Oise, de Magny-en-Vexin, de Parmain, du Thillay, de
+Luzarches, de La Frette-sur-Seine, de Neufchâteau (un rucher) et de Coussey (un maraîcher), inscrites ou présentées sous le nom de
+leur exploitant ; des légendes de photographies du marché de Parmain et la liste nominative des exposants du marché couvert de
+Neufchâteau, dont la fiche ne reprend que les produits ; le mobile nominatif de l'AMAP de Champagne-sur-Oise. Aucun n'apparaît ici,
+dans un commit ni dans un nom de fichier.
 
 ### Pistes non publiées dans le Val-d'Oise et dans les Vosges — neuvième passe sans publication
 
