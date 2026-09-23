@@ -3638,6 +3638,32 @@ prioritaires en cas de conflit.
      le dit, et la fiche passe en `a_confirmer`. Ce point doit rester cohérent avec les sources : ici, il tombe à 250 m de
      l'entrée de la ferme pédagogique géocodée au numéro par la BAN, dans le même parc de 28 hectares. Un point de collectivité posé sur une voie ou sur le centre de la commune ne suffit pas.
 
+288. **Une commune écartée au seul titre de la règle 237 parce que le site de sa Ville affiche une page de maintenance se
+     réépreuve en tête de la prochaine descente dans son département.** Dans la nuit du 24 septembre 2026, six Villes du Nord
+     — Wattrelos, Douai, Lambersart, Armentières, Hazebrouck et Mons-en-Barœul — répondaient 503 à tout agent, avec la même
+     page « Le service est actuellement en maintenance », servie par un même hébergeur ; elle n'avait pas changé deux heures
+     plus tard. La règle 237 traite une commune muette comme une commune qui ne publie rien, et la règle 247 ne rouvre pas une
+     commune éprouvée sans déblocage nommé. Mais une maintenance annoncée n'est pas un silence : c'est une panne datée, qui
+     retirerait de la descente, pour une nuit, six des douze premières communes d'un département. **Tranché ainsi** : la
+     commune compte dans la borne de douze de la passe qui l'a trouvée en maintenance (la règle 237 s'applique), et ses
+     candidats indépendants de la Ville sont instruits comme d'habitude ; mais la page de maintenance vaut déblocage nommé au
+     sens de la règle 247 — la prochaine passe qui vise le département réessaie ces communes d'abord, dans l'ordre de
+     population, en une requête chacune, et n'instruit que celles dont le site est revenu, avant de reprendre la descente là
+     où elle s'est arrêtée. Une commune de nouveau en maintenance à ce second passage sort de la descente comme une commune
+     muette ordinaire. Le critère est la page elle-même (code 503 et texte de maintenance) ; un délai dépassé ou un refus de
+     connexion reste sous la règle 237 seule.
+
+289. **Le site propre d'un équipement municipal, sur un domaine distinct et sans aucune clause, se lit pour lui-même, même
+     quand le site de la Ville ferme ses images.** La Halle gourmande de Maubeuge a son propre site, que la Ville annonce sur sa
+     page des marchés et qui ne porte ni mentions légales ni conditions d'utilisation ; son `robots.txt` n'exclut personne. Les
+     mentions légales de la Ville, elles, rangent les « images » parmi les contenus « présents sur ce site » dont elles
+     interdisent la reproduction (règles 231 et 246). **Tranché ainsi** : une clause se lit sur le site qu'elle désigne — « ce
+     site » est le domaine de la Ville, pas celui de la halle ; un site sans clause relève de la lecture ordinaire de la règle
+     231, et l'image que ce site publie pour montrer l'équipement sert la fiche de cet équipement, et seulement elle (règle 66),
+     citée comme « Photo : site de la Halle gourmande de Maubeuge », la fiche en `a_confirmer`. Une page du même équipement
+     hébergée sous le domaine de la Ville reste sous la clause de la Ville. Ici : une vue aérienne des toits de la halle, sans
+     personne, 1 000 px ; la fiche est entière, mais seule dans sa commune (règle 127), et elle attend en pistes.
+
 ## Marchands à confirmer
 
 686 fiches sur 768 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10711,6 +10737,91 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (nuit, après Saint-Étienne-du-Rouvray) : Nord et Seine-Saint-Denis, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 768 fiches, sans
+changement depuis la passe précédente : Oise 5,2434, Landes 4,8291, Eure-et-Loir 4,8242 et Val-d'Oise 4,2751 (épuisés, règle 265),
+**Nord (59) 4,1330**, **Seine-Saint-Denis (93) 3,9827**. La passe précédente visait la Normandie : ni les Hauts-de-France ni
+l'Île-de-France ne sont exclus (règle 41.c). La vérification du groupe de Labenne revient toujours à la prochaine passe autorisée en
+Nouvelle-Aquitaine (règle 266).
+
+**Nord : douze communes (règles 247 et 127), à partir de Wattrelos, commune la plus peuplée sans fiche.** Aucune ne rend deux fiches
+entières. Au registre bio, ces communes comptent surtout des supermarchés, des grossistes, des boulangeries et des établissements
+fermés.
+
+1. **Wattrelos** (40 847) — Le site de la Ville affiche une page de maintenance (503) à tout agent. `wattrelos.fr` est un annuaire
+   commercial, pas la Ville. L'ESAT de la commune refuse l'agent nommé (règle 257). **Zéro.** Réessai prévu (règle 288).
+2. **Douai** (40 250) — Même page de maintenance sur `douai.fr`. Le `robots.txt` de l'office de tourisme exclut `CCBot` sans
+   nommer notre robot (règle 149) : site non consulté. Une épicerie vrac n'a pour sources que des annuaires, qui lui donnent deux
+   adresses différentes, et un numéro mobile. **Zéro.** Réessai prévu (règle 288).
+3. **Marcq-en-Barœul** (40 184) — La Ville refuse `curl` et l'agent nommé mais sert un robot au nom inconnu (règle 257). Le
+   magasin bio du boulevard Clemenceau n'a pas de site joignable ; un potager est écarté pour son nom au registre. **Zéro.**
+4. **Cambrai** (31 134) — Le `robots.txt` de la Ville nomme et exclut `ClaudeBot` (règle 77) ; l'office du Cambrésis et le
+   chantier d'insertion maraîcher refusent l'agent nommé (règle 257) ; le magasin Biocoop relève de la règle 149. **Zéro.**
+5. **Maubeuge** (28 767) — La page « Marchés et halles » de la Ville (modifiée le 11 mai 2026) publie trois marchés, mais sans
+   heure (« mercredi matin », « lundis », « samedis ») ; ses mentions légales interdisent la reproduction des « images » ;
+   l'office de l'Avesnois refuse l'agent nommé (règle 257) ; l'annuaire de la Chambre d'agriculture aussi (voir plus bas). La
+   **Halle gourmande**, place de Wattignies, est en revanche **une fiche entière** (règle 289). **Une seule, zéro zone.**
+6. **Lambersart** (27 090) — Page de maintenance (règle 288). Au registre bio, des boulangeries et un restaurant fermé. **Zéro.**
+7. **Armentières** (26 998) — Page de maintenance (règle 288). Le seul magasin bio indépendant du registre bio est fermé au
+   registre des entreprises. **Zéro.**
+8. **Loos** (22 567) — Le marché dominical de la place Winston-Churchill est entier sur les faits (dimanche 8h-13h, page de la
+   Ville), mais la Ville interdit toute reproduction de ses photographies et n'en publie aucune du marché. Le maraîchage de
+   l'entreprise à but d'emploi du quartier des Oliveaux publie « 09:00 - 12:00 » sans jours, et aucune photographie : son site
+   n'en sert que par un hébergeur dont le `robots.txt` ne se lit pas (règle 256). **Zéro.**
+9. **Hazebrouck** (21 912) — Page de maintenance (règle 288) : le marché du lundi, que seul l'office Cœur de Flandre fiche, relève
+   de la règle 196. Le magasin Bioambiance (réseau Biocoop, société active, 6 avenue de la Haute Loge) remplit la règle 86 par sa
+   propre page de producteurs locaux, mais ses conditions générales nomment les photographies et en interdisent la
+   représentation (règle 245), et l'office n'en a pas de fiche. Plusieurs établissements bio de la commune sont fermés au
+   registre ; une herboristerie est une activité de personne et publie surtout des cosmétiques. **Zéro.**
+10. **La Madeleine** (21 790) — La Ville dit seulement « 120 exposants le vendredi et 60 le lundi […] de 8 à 13h », sans lieu, et
+    réserve ses visuels à la consultation privée (règle 246). **Zéro.**
+11. **Mons-en-Barœul** (21 105) — Page de maintenance (règle 288) ; rien au registre bio en vente au détail. **Zéro.**
+12. **Coudekerque-Branche** (20 787) — Le marché du vendredi, place de la Convention, n'a pas d'heure publiée (article du
+    29 avril 2025) ; la Ville nomme les images et en interdit la représentation. Le magasin Biocoop de la route de Bergues relève
+    de la règle 149, et l'épicerie Un Autre Chemin reste seule. **Zéro.**
+
+**Seine-Saint-Denis : deux communes (règle 248).**
+
+1. **Aulnay-sous-Bois** (87 599) — La Ville ne publie ni le jour ni l'heure de ses marchés forains, seulement leur délégataire.
+   Ses mentions légales rangent les photographies dans le même paragraphe que l'interdiction de reproduire le site (règle 246).
+   Au registre bio : des supermarchés, un magasin de réseau et un primeur sans site. **Zéro.**
+2. **Noisy-le-Grand** (72 978) — La Ville publie trois marchés, dont un seul avec des heures (Pavé-Neuf, lundi et vendredi de 15h
+   à 20h), et réserve la reproduction à l'usage privé (règle 246). **Zéro.**
+
+**Résultat : la passe ne publie rien (règle 248).** La Halle gourmande de Maubeuge est la seule fiche entière rencontrée, et une
+fiche isolée n'est pas une zone (règle 52).
+
+**Un annuaire perdu : `ouacheterlocal.fr`.** L'annuaire de la Chambre d'agriculture des Hauts-de-France avait débloqué la passe de
+Tourcoing (horaires de la Ferme Castel). Il sert maintenant `curl` (200) mais refuse l'agent nommé (403) : c'est la règle 257, il
+n'est plus consulté. Les fiches déjà publiées à partir de cet annuaire ne sont pas retirées. Comme pour les fiches Biocoop après la
+règle 149, elles se revérifient par une autre source au prochain passage sur leur commune.
+
+**Pistes non publiées dans le Nord** :
+
+- **Halle gourmande, place de Wattignies, Maubeuge** — Équipement municipal ouvert du mardi au samedi de 8h à 19h, fermé le
+  dimanche, avec une fermeture estivale en août (site de la halle, mis à jour le 9 septembre 2026 ; page de la Ville du 11 mai
+  2026). Elle réunit des commerçants de bouche et trois producteurs de l'Avesnois : une ferme laitière, un maraîcher et un verger.
+  Photographie permise au titre de la règle 289. **Fiche entière désignée pour la reprise** (règle 249), dans la limite de Maubeuge
+  Val de Sambre et de quinze kilomètres (règle 96). Le nom de personne que porte la halle n'est pas repris, et les enseignes des
+  étals non plus : certaines sont formées de prénoms ;
+- **marché dominical de Loos** — entier sauf l'image. Déblocage : une photographie permise, par exemple une clause de la Ville qui
+  ne vise plus les photographies ;
+- **magasin Bioambiance, Hazebrouck** — entier sauf l'image. Déblocage : une fiche de l'office Cœur de Flandre avec photographie, ou
+  des conditions d'utilisation qui ne nomment plus les photographies ;
+- **marchés de Maubeuge, de Coudekerque-Branche et de La Madeleine** — déblocage : des heures (et un lieu, à La Madeleine) publiés
+  par la Ville, et une image permise.
+
+**Reprise** : la prochaine passe qui vise le Nord réessaie d'abord Wattrelos, Douai, Lambersart, Armentières, Hazebrouck et
+Mons-en-Barœul (règle 288), puis reprend la descente à **Wasquehal** (20 726). En Seine-Saint-Denis, la descente reprend à
+**Drancy** (72 390). Le classement ne change pas, puisque rien n'est publié : le Nord reste premier non épuisé.
+
+**Données personnelles écartées** : des exploitations et commerces inscrits sous le nom de leur exploitant au registre bio, à
+Douai, Marcq-en-Barœul, Maubeuge, Hazebrouck, Coudekerque-Branche et Aulnay-sous-Bois ; le nom de personne donné à la halle de
+Maubeuge ; les prénoms d'étals de la halle ; les noms de producteurs listés par le magasin d'Hazebrouck ; les responsables nommés
+dans les mentions légales des Villes et du magasin ; un numéro mobile d'épicerie à Douai. Aucun n'apparaît ici, dans un commit ni
+dans un nom de fichier.
 
 ### Passe de Saint-Étienne-du-Rouvray (Seine-Maritime) : cinq fiches publiées, Val-d'Oise épuisé
 
