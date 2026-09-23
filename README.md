@@ -10656,6 +10656,81 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Pistes non publiées dans l'Oise et dans le Val-d'Oise — sixième passe sans publication, Oise épuisée
+
+Passe du 23 septembre 2026, après la cinquième passe sans publication. Aucune demande de visiteur (nouvelle ou en cours), aucun
+courriel. **Reprise d'abord (règles 264 à 266)** : la Nouvelle-Aquitaine était ouverte ; le site de la Ville de Capbreton a servi
+sa page d'accueil une fois, puis n'a plus répondu, `robots.txt` compris (règle 237) : le groupe de Labenne reste à quatre points.
+**Classement, règle 41**, recalculé sur 753 fiches : **Oise (60) 5,0629**, Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés),
+**Val-d'Oise (95) 3,9963**, Vosges 3,9013 — inchangé (règle 260). `origin/main` n'a pas bougé pendant la passe (règle 241).
+**Douze communes de l'Oise** (règle 247), reprises au Meux, puis **deux du Val-d'Oise** (règle 248), reprises à Taverny : aucune
+ne rend deux fiches entières, image comprise (règle 127). Rien n'est publié.
+
+**Oise — la descente, dans l'ordre (règles 41.d et 127)** :
+
+1. **Le Meux** (2 327) — La page « Commerces et services » de la Ville ne cite ni marché, ni ferme, ni AMAP ; rien au registre
+   bio. **Zéro.**
+2. **Villers-sous-Saint-Leu** (2 284) — La page « Vie économique » de la Ville ne cite que des supermarchés ; un marché nocturne
+   d'été ponctuel (2023). **Zéro.**
+3. **Jaux** (2 243) — Aucun marché hebdomadaire sur le site de la Ville (seulement un marché de Noël et un marché artisanal).
+   **Une piste aux faits presque entiers** : **Terres d'épona**, maraîchage bio diversifié, 482 rue de la République ; point de
+   vente à la ferme le mercredi 16h-19h et le dimanche 10h-12h selon son propre site (paniers et légumes au détail). Le seul
+   téléphone publié est un mobile (règle 229) ; image non éprouvée, la commune ne pouvant de toute façon rendre qu'une fiche. La
+   « Ferme du Relais » que certains annuaires placent à Jaux est à Jaulzy, commune différente. **Une au plus.**
+4. **Clairoix** (2 208) — Le marché alimentaire du troisième dimanche (sauf juillet et août), place du centre-bourg, n'a ni
+   heure (« le matin ») ni produits sur la page de la Ville. L'**AMAP de Clairoix** a ses faits sur la fiche d'annuaire de la Ville
+   (distribution le vendredi 18h30-19h15, salle du jeu d'arc, 9 rue du Marais ; légumes, pain, fromages de chèvre, œufs, volailles)
+   mais aucune photographie — un logo et un tract de texte (règle 272) — et une page qui nomme ses membres et ses producteurs :
+   aucun de ces noms n'est repris. **Zéro fiche entière.**
+5. **Monchy-Saint-Éloi** (2 155) — Aucune page de commerces ni de marché sur le site de la Ville ; rien au registre bio.
+   **Zéro.**
+6. **Boran-sur-Oise** (2 135) — La page « Artisans et entreprises » de la Ville range sous « Agriculture » une vente de produits de
+   la ferme désignée par le nom d'une personne : écartée pour doute sur une personne. Deux boulangeries (hors catégories) et un
+   « marché créations et saveurs » ponctuel (vendredi soir, place du Carouge) sans régularité publiée. Le site de l'association de
+   commerçants ne répond pas (règle 237). **Zéro.**
+7. **Brenouille** (2 105) — Aucun marché ni producteur publié ; au registre bio, un préparateur qui ne vend qu'aux professionnels.
+   **Zéro.**
+8. **Formerie** (2 097) — Le site de la Ville n'a aucune page de marché (seuls des annuaires tiers annoncent le mercredi matin,
+   règle 196) ; sa liste d'entreprises ne cite que des supermarchés et une épicerie généraliste. **Zéro.**
+9. **Trosly-Breuil** (2 077) — Les jardins maraîchers bio de l'ESAT de l'Arche ont une boutique, mais son jour et ses heures ne
+   se lisent que sur `saveursdenosvallees60.fr`, exclu (règle 149) ; le site de l'ESAT n'en donne pas. **Zéro.**
+10. **Lagny-le-Sec** (2 043) — Le site de la Ville répond « You're a bad bot. Go away. » (444) à l'agent nommé et 200 aux autres :
+    règle 257, son marché du vendredi n'a pas d'autre source municipale (règle 196). La **Ferme de la Folle Emprise** (société
+    d'économie mixte, bio, vente le samedi matin et distributeur) reste seule. **Zéro fiche entière.**
+11. **Cuise-la-Motte** (2 042) — Le marché du dimanche n'est décrit par la Ville que dans deux actualités de 2022 et un arrêté de
+    2022 (règle 195) ; pas de producteur publiable à côté (deux stands du marché portent un prénom ou un patronyme). **Zéro.**
+12. **Chevrières** (2 036) — Aucun marché sur le site de la Ville. La **Ferme des Quatre Saisons**, 597 rue de Beauvais, est
+    active au registre, mais **son nom de domaine `ferme-des-4saisons.fr` a été racheté** par un blog de recettes et de jardinage
+    sans rapport avec la ferme (même piège que la note Santa Lucia) ; ses horaires ne se lisent plus que chez Bienvenue à la Ferme
+    (`robots.txt` en 403 à l'agent nommé), `oise.fr` (403) et `saveursdenosvallees60.fr` (exclu). **Zéro.**
+
+**L'Oise est épuisée au sens de la règle 265** : la commune suivante de sa descente, Ully-Saint-Georges, compte 1 941 habitants.
+Elle reste dans le calcul des parts et son déficit continue d'être publié, mais aucune passe ne la vise plus. **Déblocages** : les
+huit fiches entières désignées par les passes précédentes (Creil, Villers-Saint-Paul, Chantilly, Margny-lès-Compiègne,
+Précy-sur-Oise, Grandvilliers, Bailleul-sur-Thérain, et Noailles en attente d'image) restent en pistes ; l'une d'elles ne sera
+publiée que si une seconde fiche entière apparaît dans sa commune (règle 127).
+
+**Val-d'Oise — deux communes (règle 248)**, reprises à Taverny :
+
+1. **Taverny** (27 593) — **Faits entiers sans image** : le **marché de la halle**, halle couverte de 1 600 m² du centre-ville,
+   mardi, vendredi et dimanche 8h-13h (page de la Ville ; bouchers, poissonniers, maraîchers, fromagers, traiteurs). Les mentions
+   légales de la Ville nomment les photographies et en soumettent toute diffusion à autorisation préalable (règles 231 et 246).
+   Au registre bio, des supermarchés et des distributeurs. **Zéro fiche entière.** Déblocage : une photographie permise de la halle.
+2. **Cormeilles-en-Parisis** (27 292) — Le site de la Ville répond « You're a bad bot. Go away. » à l'agent nommé (règle 257) :
+   son marché du mercredi et du samedi n'a pas d'autre source municipale. Au registre bio, supermarchés, boulangeries et
+   préparateurs. **Zéro.**
+
+La passe qui reviendra dans le Val-d'Oise reprend à **Sannois** (26 924).
+
+**Après la passe**, sur 753 fiches, rien n'a changé : Oise 5,0629 (épuisée), Landes 4,7348 et Eure-et-Loir 4,7300 (épuisés),
+**Val-d'Oise 3,9963**, Vosges 3,9013. La passe suivante prend le Val-d'Oise en tête (Île-de-France, ouverte), puis les Vosges au
+titre de la règle 248.
+
+**Données personnelles écartées** : les noms des membres et des producteurs de l'AMAP de Clairoix, le nom sous lequel la Ville de
+Boran-sur-Oise range une vente à la ferme, le nom d'exploitant individuel d'un maraîcher bio de Jaux et d'un producteur de
+Chevrières lus au registre, deux stands du marché de Cuise-la-Motte formés sur un prénom ou un patronyme, et les mobiles publiés
+pour la ferme de Jaux et celle de Chevrières. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
 ### Pistes non publiées dans l'Oise et dans le Val-d'Oise — cinquième passe sans publication
 
 Passe du 23 septembre 2026, après la quatrième passe sans publication dans l'Oise et le Val-d'Oise. Aucune demande de visiteur
