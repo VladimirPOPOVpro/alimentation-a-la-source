@@ -10346,35 +10346,6 @@
     "a_confirmer": true
   },
   {
-    "slug": "la-maison-delamarre-auteuil",
-    "nom": "La Maison Delamarre",
-    "categorie": "ferme",
-    "piliers": [
-      "alimentation",
-      "environnement",
-      "economie"
-    ],
-    "lat": 49.324461,
-    "lon": 2.069194,
-    "adresse": "9 rue de Valdampierre, hameau de Malassise, 60390 Auteuil",
-    "horaires": "Colis de viande uniquement sur réservation, à retirer à la ferme. Farines, lentilles et huiles en vente libre lors des journées d'ouverture annoncées sur le site de la ferme, quelques vendredis en fin d'après-midi ; au 11 septembre 2026 la ferme annonçait encore une trêve estivale sans avoir publié ses dates de reprise.",
-    "produits": [
-      "Colis de bœuf et de veau",
-      "Poulet fermier bio",
-      "Farine de blé « La Triple »",
-      "Farines de blé ancien, de sarrasin et de petit-épeautre",
-      "Lentilles vertes",
-      "Huile de cameline",
-      "Huile de tournesol",
-      "Jus et confitures de pomme"
-    ],
-    "description": "Ferme certifiée en agriculture biologique depuis plus de trente-cinq ans, à un quart d'heure au sud de Beauvais. Les Charolaises et Blondes d'Aquitaine y sont nourries d'aliments bio produits sur l'exploitation, et la viande est vendue en colis de 3 à 16 kilos, sous vide et étiquetés.",
-    "site_web": "https://lamaisondelamarre.fr",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20rue%20de%20Valdampierre%2C%20hameau%20de%20Malassise%2C%2060390%20Auteuil",
-    "image_url": "/images/marchands/la-maison-delamarre-auteuil.jpg",
-    "a_confirmer": true
-  },
-  {
     "slug": "marche-du-centre-ville-merignac",
     "nom": "Marché du centre-ville de Mérignac",
     "categorie": "marche",
