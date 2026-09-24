@@ -3715,9 +3715,31 @@ prioritaires en cas de conflit.
      l'image), puis le Vieux-Lille (« premier à reprendre » à Lille). Les deux dernières prennent chacune une photographie
      thématique différente de la Ville de Seclin (règle 272), celles du marché de la Collégiale, qui n'est pas publié.
 
+296. **Une permission de copie réservée à l'usage privé ferme les images, même quand la clause qui la porte ne nomme aucune
+     image.** Les mentions légales de la Ville de Livry-Gargan interdisent de reproduire « tout élément provenant de ce site »
+     sans nommer les photographies, puis n'autorisent la reproduction qu'avec accord préalable ou pour un usage privé. La règle
+     231 laisse ouverte une clause générale ; la règle 246 lit une permission limitée à l'usage privé comme une exclusion de la
+     publication. **Tranché ainsi** : c'est la permission qui dit ce qu'on peut faire, pas la liste de ce qu'elle protège — une
+     clause qui ne permet que l'usage privé exclut la publication sur cette carte, qu'elle nomme les images ou non. C'est la
+     lecture déjà suivie à Croix, à Noisy-le-Grand et à Bondy. Ici : le marché Jacob de Livry-Gargan perd sa photographie et la
+     commune ne rend aucune fiche entière.
+
+297. **Une Ville qui sert une page puis refuse toute connexion pendant le reste de la passe est muette pour cette passe, et se
+     réessaie en tête de la prochaine descente dans son département.** Le site de la Ville de Villenave-d'Ornon a servi sa page
+     des marchés aux deux agents, puis a refusé toute connexion, `robots.txt` compris, pendant plus d'une demi-heure. Ce n'est
+     ni un filtrage par nom (règle 257), puisque les deux agents ont été servis puis refusés de la même façon, ni une
+     maintenance annoncée (règle 288). **Tranché ainsi** : la commune relève de la règle 237 pour la passe — ce qui n'a pas pu
+     être relu ne nourrit aucune fiche, et l'on ne passe pas par un autre chemin — mais, comme à la règle 288, la prochaine
+     passe qui vise le département la réessaie d'abord, en une requête, sans entamer la borne de douze communes (règle 290).
+
 ## Marchands à confirmer
 
-690 fiches sur 773 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+695 fiches sur 778 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP Populaire de Bagnolet** (Bagnolet) (catégorie `amap`. Jour, heures et lieu : liste des AMAP du comité départemental du tourisme de la Seine-Saint-Denis, mise à jour le 11 mai 2026 ; la fréquence (« tous les 15 jours ») et les produits ne viennent que d'une fiche d'annuaire de 2025. **Image** : site des Petites Cantines de Bagnolet.)
+- **AMAP Les Amis de la ferme de Bagnolet — jardin tant désiré** (Bagnolet) (catégorie `amap`. Jour, heures et lieu : même liste du comité départemental ; produits d'un annuaire associatif non daté. **Image** : blog du jardin, mai 2020, hors distribution.)
+- **Marché des Sentes** (Les Lilas) (catégorie `marche`. Samedi 8h-13h selon la Ville (17 juin 2026) ; point posé au 56 boulevard du Général-Leclerc, adresse du centre commercial, faute de numéro publié pour le parvis.)
+- **AMAP Le Cri du Radis** (Montreuil) (catégorie `amap`. **Image** : photographie thématique du parc Montreau, Ville de Montreuil ; ne montre pas le lieu.)
+- **Marché des Trois-Communes** (Romainville) (catégorie `marche`. Ouvert le 12 septembre 2026 ; point au 190 rue Jean-Jaurès, la place nouvelle n'étant pas dans la BAN. **Image** : photographie thématique du parc Simone-Veil, Ville de Romainville ; ne montre pas le marché.)
 - **Marché du lundi de Seclin** (Seclin) (catégorie `marche`. Heures et lieu : page « Marchés hebdomadaires » de la Ville (non datée) et article de la Ville d'août 2023 ; un article d'octobre 2025 atteste qu'il se tient toujours place Stalingrad. **Produits** : « bouchers, primeurs, fleuristes » (page de la Ville), « fruits, légumes, viande, poulet rôti » (article de 2023). **Image** : photographie de la Ville (781 px, la plus grande taille que la page sert, règle 255), recadrée sous les visages des exposants ; sans EXIF, la règle 140 ne peut pas être vérifiée, et elle vient d'un article sur le déplacement du marché : elle peut montrer l'emplacement de repli, la fiche le dit.)
 - **Marché de Wattignies** (Wattignies) (catégorie `marche`. Page « Nos marchés » de la Ville : mardi et vendredi 8h30-12h30, déplacé avenue des Arts depuis le 2 juin 2026 pour deux ans (règle 157) ; le point est celui de la rue dans la BAN. **Image** : photographie de la Ville prise le vendredi 25 mars 2022 à 10h26 (règle 140), place Alain-Pluss, donc avant le déplacement ; recadrée sur l'étal d'un primeur, sans passant et sans l'enseigne d'un fromager formée d'un nom de famille. Les commerçants que la Ville nomme ne sont pas repris.)
 - **Marché dominical de Loos** (Loos) (catégorie `marche`. Page « Le marché dominical » de la Ville : dimanche 8h-13h, place Winston-Churchill ; la page ne porte pas de date. **Image** : la Ville de Loos ferme ses photographies ; photographie thématique de la Ville de Seclin (règles 272 et 295), l'étal d'un poissonnier du marché de la Collégiale, recadrée sous le visage du commerçant ; elle ne montre pas le marché de Loos.)
@@ -10792,6 +10814,104 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Bagnolet (Seine-Saint-Denis) : cinq fiches publiées dans Est Ensemble
+
+Passe du 24 septembre 2026 (quatrième de la nuit, après Seclin). Aucune demande de visiteur (ni nouvelle, ni en cours), aucun
+courriel. **Classement, règle 41**, recalculé sur 773 fiches : La Réunion en tête mais hors classement (règle 177), Oise 5,3036
+(épuisée, et en Hauts-de-France, région de la passe de Seclin : règle 41.c), Landes 4,8606, Eure-et-Loir 4,8556 et Val-d'Oise
+4,3680 (épuisés, règle 265), **Seine-Saint-Denis (93) 4,1063**, **Gironde (33) 3,9513**. L'Île-de-France est ouverte.
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266, la Nouvelle-Aquitaine étant ouverte) : `www.capbreton.fr` n'ouvre
+aucune connexion, à l'agent par défaut comme à l'agent nommé (règle 237) ; pas de source datée pour l'antenne de Capbreton, le
+groupe reste à quatre points.
+
+**Seine-Saint-Denis : descente reprise à Épinay-sur-Seine (règles 247 et 127).** Les huit communes de Gagny à Neuilly-sur-Marne
+ont été éprouvées en parallèle ; seules les huit premières comptent pour la passe, les constats des quatre autres sont gardés
+pour la reprise.
+
+1. **Épinay-sur-Seine** (52 833) — La Ville nomme les « photos » dans son interdiction, l'office de Plaine Commune écrit que ses
+   photos ne sont pas libres de droit. Le marché couvert de la Briche (samedi 7h30-12h30, page de la Ville du 3 décembre 2025,
+   produits écrits) et l'AMAP qui y distribue le jeudi de 19h à 20h (annuaire de la Ville, janvier 2026) ont leurs faits, sans
+   image permise. **Zéro.**
+2. **Sevran** (52 535) — La Ville refuse toute page à tout agent (règle 237). **Une seule** : la microferme bio d'une association
+   d'agriculture urbaine, avenue Henri-Barbusse, vente le mercredi de 17h à 19h, certifiée, photographie de ses parcelles sur son
+   propre site sans clause.
+3. **Bondy** (50 595) — Reproduction réservée à l'usage privé (règle 246) ; trois marchés sans produits écrits ; l'AMAP de la
+   Ferme Caillard n'a de source datée que de 2022 et son site refuse l'agent nommé (règle 257). **Zéro.**
+4. **Livry-Gargan** (47 228) — Le marché Jacob (halle, mercredi et samedi 7h-13h, produits écrits par la Ville en mai 2026) a
+   une photographie de la Ville, mais la clause ne permet que l'usage privé (règle 296, nouvelle). **Zéro.**
+5. **Rosny-sous-Bois** (47 180) — La Ville réserve ses « représentations iconographiques et photographiques » ; son ancien
+   domaine refuse l'agent nommé, le nouveau le sert (règle 145, site par site). Marchés de la Gare et du Centre-ville, et AMAP
+   de la ferme pédagogique : faits seuls. **Zéro.**
+6. **La Courneuve** (47 167) — Images réservées à l'usage privé ; marché des Quatre-Routes à faits seuls. **Zéro.**
+7. **Noisy-le-Sec** (45 510) — Images réservées ; le marché de la place des Découvertes n'a qu'une phrase générique (règle
+   197) ; l'AMAP a trois lieux différents selon les sources. **Zéro.**
+8. **Bagnolet** (43 086) — **Deux fiches entières, la commune fait la passe** (voir ci-dessous).
+
+**Bagnolet : la zone (règles 127, 96, 249 et 295).** La Ville ferme ses « éléments visuels » et ne publie pas l'heure de ses
+marchés. Deux points d'AMAP ont leur jour, leur heure et leur lieu dans la liste du comité départemental du tourisme, mise à jour
+le 11 mai 2026 (règle 195), et une photographie permise du lieu :
+- l'**AMAP Populaire de Bagnolet**, aux Petites Cantines, 93 rue Sadi-Carnot (lundi 18h-19h45) — photographie de l'intérieur de
+  la cantine sur son propre site, sans clause qui nomme les images ; recadrée pour sortir une plaque d'immatriculation ;
+- l'**AMAP Les Amis de la ferme de Bagnolet**, au jardin partagé du 3 rue Désiré-Viénot (lundi 18h30-19h45) — photographie du
+  jardin sur le blog du jardin, sans clause. Le site de l'AMAP elle-même refuse l'agent nommé en http (règle 257) : il n'a pas
+  été lu et n'est pas mis en lien.
+Le complément vient d'Est Ensemble, le territoire de Bagnolet dans la Métropole du Grand Paris (règle 249), à moins de quinze
+kilomètres du centre de Bagnolet (règle 96) :
+- le **marché des Sentes**, aux Lilas (1,6 km) — page des marchés de la Ville du 17 juin 2026, produits écrits dans l'article du
+  2 décembre 2025 sur son retour ; photographie de la Ville prise un samedi de marché (février 2026), clause qui permet la
+  reprise en citant la source ; recadrée pour sortir le visage d'un commerçant et le numéro mobile d'un exposant ;
+- l'**AMAP Le Cri du Radis**, à Montreuil (2,0 km) — déjà en pistes à Montreuil faute d'image, attestée par son site vivant et
+  par la page « Mieux consommer » de la Ville d'août 2026 ; photographie thématique du parc Montreau publiée par la Ville de
+  Montreuil (règle 1, même commune ; règle 234, équipement public non marchand), qui ne montre pas le lieu ;
+- le **marché des Trois-Communes**, à Romainville (2,0 km) — page des marchés et article de la Ville du 3 août 2026, qui écrit
+  ce qui s'y vend ; ouvert le 12 septembre 2026. Photographie thématique du parc Simone-Veil publiée par la Ville de Romainville,
+  dont la clause générale ne nomme aucune image (règle 231). La Ville soumet les liens vers son site à autorisation : la fiche
+  n'a pas de `site_web` (règle 274).
+
+**Contradictions et choix** :
+- **Marché des Sentes** : la Ville dit samedi, le comité départemental ajoute le jeudi ; seul le samedi est publié. La Ville
+  place le marché « sur le parvis du centre commercial » sans numéro : le point est celui du 56 boulevard du Général-Leclerc,
+  adresse du centre commercial au registre des entreprises, et la fiche est `a_confirmer`.
+- **Marché des Trois-Communes** : la BAN ne connaît pas la nouvelle place ; le point est celui du 190 rue Jean-Jaurès, dernier
+  numéro avant le carrefour avec la route de Montreuil, à une quarantaine de mètres des premiers numéros de celle-ci.
+- **AMAP Populaire** : la liste du comité départemental ne donne que le lundi ; une fiche d'annuaire de 2025 écrit « tous les
+  15 jours » et donne seule les produits. Les deux sont attribués dans la fiche.
+- **AMAP des Amis de la ferme** : le second point de distribution, la Plage arrière (55 rue Louise-Michel, lundi 18h45-20h), est
+  cité dans les horaires ; il n'a pas de fiche propre faute d'image permise (le blog de ce jardin refuse l'agent nommé).
+
+**Écartée pour doute sur une personne ou une donnée personnelle** : une AMAP des Lilas, dont le lieu de distribution est donné
+à deux numéros différents d'une même rue et pourrait se trouver dans un immeuble d'habitation (règle 243). Elle ne se rouvre pas.
+
+**Gironde** : éprouvée en parallèle, sans effet sur la passe. **Villenave-d'Ornon** (42 545) : la Ville a servi une page puis
+refusé toute connexion (règle 297, nouvelle) ; une AMAP du stade Brossolette a ses faits (billet d'octobre 2025) sans image.
+**Saint-Médard-en-Jalles** (32 910) : la Ville nomme les photographies dans son interdiction ; le marché du samedi, place de la
+République, et l'AMAP du pôle Simone-Veil ont leurs faits, sans image permise.
+
+**Pistes non publiées en Seine-Saint-Denis et en Gironde** :
+- **microferme de l'avenue Henri-Barbusse, Sevran** — entière ; attend une seconde fiche entière dans la commune ;
+- **marché du Centre et marché de l'Avenir, Stains** — tous deux à faits et photographies de la Ville sans crédit (la Ville n'a
+  pas de mentions légales), mais la page des marchés date de 2019 et le point du marché de l'Avenir est faible (0,75) : à
+  réépreuver en premier à la reprise de la descente ;
+- **marché de la Briche et son AMAP, Épinay-sur-Seine** ; **marchés de Rosny-sous-Bois** ; **marché Jacob, Livry-Gargan** —
+  déblocage : une image permise ;
+- **marché des Amandiers, Gagny** (jeudi et samedi 8h-13h, produits écrits) — déblocage : une image permise ;
+- **petit marché Saint-Baudile, Neuilly-sur-Marne** (dimanche 8h-13h) — déblocage : une image permise (la photothèque de la
+  Ville exige un accord préalable) ;
+- **AMAP du stade Brossolette, Villenave-d'Ornon**, **marché municipal et AMAP des Jalles, Saint-Médard-en-Jalles** —
+  déblocage : une image permise.
+
+**Reprise** : en Seine-Saint-Denis, la descente reprend à **Gagny** (42 313), puis Villepinte, Stains et Neuilly-sur-Marne, dont
+les constats ci-dessus peuvent être repris. En Gironde, la prochaine passe réessaie d'abord Villenave-d'Ornon (règle 297), puis
+reprend la descente à **Bègles** (31 831). **Après la passe**, sur 778 fiches : Gironde 4,0739, premier département non épuisé ;
+la Seine-Saint-Denis tombe à −0,77. La prochaine passe ne peut pas viser l'Île-de-France (règle 41.c).
+
+**Données personnelles écartées** : les noms de personnes inscrites comme exploitants au registre bio dans les communes éprouvées ;
+le nom de la maraîchère partenaire du Cri du Radis ; les prénoms, courriels et numéros mobiles d'adhérents publiés sur le site
+d'une AMAP des Lilas ; le numéro mobile d'un exposant et le nom d'un photographe dans les métadonnées d'une photographie des
+Lilas, retirés ; un mobile placé sous un nom de personne sur la page de l'AMAP d'Épinay-sur-Seine ; une enseigne formée d'un
+prénom à Villenave-d'Ornon et à Saint-Médard-en-Jalles. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
 
 ### Passe de Seclin (Nord) : cinq fiches publiées dans la Métropole Européenne de Lille
 

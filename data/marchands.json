@@ -20581,5 +20581,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Concert+59800+Lille",
     "image_url": "/images/marchands/marche-du-vieux-lille.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "amap-populaire-bagnolet",
+    "nom": "AMAP Populaire de Bagnolet",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.870877,
+    "lon": 2.420606,
+    "adresse": "Les Petites Cantines, 93 rue Sadi Carnot, 93170 Bagnolet",
+    "horaires": "Distribution le lundi de 18h à 19h45, aux Petites Cantines (comité départemental du tourisme de la Seine-Saint-Denis, liste mise à jour le 11 mai 2026) ; une fiche d'annuaire de 2025 précise « tous les 15 jours ».",
+    "produits": [
+      "Paniers de légumes non traités",
+      "Œufs"
+    ],
+    "description": "L'AMAP qui distribue ses paniers dans la cantine associative de quartier du 93 rue Sadi-Carnot, lieu de cuisine participative à prix libre. Le contenu des paniers vient d'une fiche d'annuaire de 2025 et reste à confirmer. Photo : site des Petites Cantines de Bagnolet, l'intérieur de la cantine.",
+    "site_web": "https://www.tourisme93.com/les-amap-en-seine-saint-denis.html",
+    "image_url": "/images/marchands/amap-populaire-bagnolet.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=93%20rue%20Sadi%20Carnot%2C%2093170%20Bagnolet"
+  },
+  {
+    "slug": "amap-amis-de-la-ferme-jardin-tant-desire-bagnolet",
+    "nom": "AMAP Les Amis de la ferme de Bagnolet — jardin tant désiré",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.862489,
+    "lon": 2.419904,
+    "adresse": "Jardin partagé « Le jardin tant désiré », 3 rue Désiré Viénot, 93170 Bagnolet",
+    "horaires": "Distribution le lundi de 18h30 à 19h45 (comité départemental du tourisme de la Seine-Saint-Denis, liste mise à jour le 11 mai 2026). La même AMAP a un second point le lundi de 18h45 à 20h au jardin partagé de la Plage arrière, 55 rue Louise-Michel.",
+    "produits": [
+      "Légumes",
+      "Pain",
+      "Produits laitiers",
+      "Œufs",
+      "Viande",
+      "Huile d'olive"
+    ],
+    "description": "L'AMAP bagnoletaise qui partage ses paniers dans un jardin partagé tenu par une association sur un espace vert de la commune ; l'annuaire de la Ville la présente comme liée à une dizaine de producteurs bio. La liste des produits vient d'un annuaire associatif non daté. Photo : blog du jardin tant désiré, prise en mai 2020, un jour sans distribution.",
+    "site_web": "https://www.tourisme93.com/les-amap-en-seine-saint-denis.html",
+    "image_url": "/images/marchands/amap-amis-de-la-ferme-jardin-tant-desire-bagnolet.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3%20rue%20D%C3%A9sir%C3%A9%20Vi%C3%A9not%2C%2093170%20Bagnolet"
+  },
+  {
+    "slug": "marche-des-sentes-les-lilas",
+    "nom": "Marché des Sentes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.880958,
+    "lon": 2.426117,
+    "adresse": "Parvis du centre commercial, 56 boulevard du Général Leclerc, 93260 Les Lilas",
+    "horaires": "Le samedi de 8h à 13h, sur le parvis du centre commercial, selon la Ville des Lilas (page des marchés mise à jour le 17 juin 2026).",
+    "produits": [
+      "Fromages",
+      "Poisson",
+      "Fruits et légumes",
+      "Fruits et légumes bio",
+      "Traiteur"
+    ],
+    "description": "Le petit marché du samedi matin du quartier des Sentes, revenu en décembre 2025 sur le parvis réaménagé près de la station de métro, avec un fromager, un poissonnier, un primeur et un marchand de fruits et légumes bio. Photo : Ville des Lilas (ville-leslilas.fr), droits réservés — l'étal d'un traiteur du marché, en février 2026.",
+    "telephone": "01 48 97 97 37",
+    "site_web": "https://www.ville-leslilas.fr/vivre-et-habiter/commerces-et-vie-economique/marches-et-circuits-courts/",
+    "image_url": "/images/marchands/marche-des-sentes-les-lilas.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=56%20boulevard%20du%20G%C3%A9n%C3%A9ral%20Leclerc%2C%2093260%20Les%20Lilas"
+  },
+  {
+    "slug": "amap-le-cri-du-radis-montreuil",
+    "nom": "AMAP Le Cri du Radis",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.852975,
+    "lon": 2.442906,
+    "adresse": "Centre Pierre-Mendès-France, 59 rue de la Solidarité, 93100 Montreuil",
+    "horaires": "Partage de la récolte le jeudi de 19h à 20h, au centre Pierre-Mendès-France (site de l'AMAP et page « Mieux consommer » de la Ville de Montreuil, août 2026).",
+    "produits": [
+      "Légumes bio",
+      "Œufs",
+      "Pains",
+      "Fromages"
+    ],
+    "description": "L'AMAP du quartier Solidarité-Carnot, qui partage chaque semaine la récolte d'une ferme maraîchère bio de l'Oise. Photo thématique : le parc Montreau, publiée par la Ville de Montreuil (montreuil.fr), droits réservés ; elle ne montre pas le lieu de distribution.",
+    "site_web": "https://amap-lecriduradis.fr/",
+    "image_url": "/images/marchands/amap-le-cri-du-radis-montreuil.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=59%20rue%20de%20la%20Solidarit%C3%A9%2C%2093100%20Montreuil"
+  },
+  {
+    "slug": "marche-des-trois-communes-romainville",
+    "nom": "Marché des Trois-Communes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.877023,
+    "lon": 2.448503,
+    "adresse": "Place piétonne, angle rue Jean-Jaurès et route de Montreuil, 93230 Romainville",
+    "horaires": "Le mercredi et le samedi de 8h à 14h, jours fériés compris, depuis le 12 septembre 2026, selon la Ville de Romainville (article du 3 août 2026 et page des marchés).",
+    "produits": [
+      "Poisson",
+      "Fromages",
+      "Boucherie-charcuterie",
+      "Fruits et légumes",
+      "Épices, olives et condiments",
+      "Traiteurs"
+    ],
+    "description": "Le marché de quartier des Trois-Communes, anciennement marché du Chemin-Vert, installé en septembre 2026 sur une nouvelle place piétonne : une quinzaine de commerçants, dont plus de la moitié en alimentation. Photo thématique : le parc Simone-Veil, publiée par la Ville de Romainville ; elle ne montre pas le marché.",
+    "image_url": "/images/marchands/marche-des-trois-communes-romainville.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=angle%20rue%20Jean-Jaur%C3%A8s%20et%20route%20de%20Montreuil%2C%2093230%20Romainville"
   }
 ]
