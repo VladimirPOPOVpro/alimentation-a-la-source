@@ -3732,9 +3732,33 @@ prioritaires en cas de conflit.
      être relu ne nourrit aucune fiche, et l'on ne passe pas par un autre chemin — mais, comme à la règle 288, la prochaine
      passe qui vise le département la réessaie d'abord, en une requête, sans entamer la borne de douze communes (règle 290).
 
+298. **Une Ville qui refuse l'agent par son nom (règle 257) se traite, pour la photographie thématique, comme une Ville qui
+     refuse tout agent (règle 277).** Le site de la Ville de Bègles sert un agent quelconque et coupe la connexion à `ClaudeBot`
+     comme à `GPTBot` : il n'est pas consulté. Bègles rend pourtant deux fiches entières par leurs propres sites (règle 127),
+     et deux fiches de sa zone ont des faits entiers sans image permise. Les règles 277 et 285 donnent la photographie
+     thématique à l'office intercommunal quand la Ville refuse tout agent ou se tait ; elles ne disaient rien d'un refus par
+     le nom. **Tranché ainsi** : un site qu'on n'a pas le droit de lire ne fournit pas plus d'image qu'un site muet ; l'office
+     qui fiche les équipements publics non marchands de la commune calculée en tient lieu, aux conditions des règles 272 et
+     277 — clause lisible qui n'interdit pas la reprise, un fichier par fiche, aucun visage, image créditée à l'office et à
+     personne d'autre, description qui dit qu'elle ne montre pas le lieu, `a_confirmer`. Ici : deux vues de Bègles Plage que
+     l'Office de Tourisme et des Congrès de Bordeaux Métropole publie sans crédit, et dont les mentions légales ne disent rien
+     de la reproduction.
+
+299. **Un équipement public dont le nom pourrait être celui d'une personne se désigne par sa fonction.** La Ville de Bouliac
+     place son marché sous une halle qui porte un nom propre, sans dire de qui il s'agit. La règle du 12 septembre 2026 écarte
+     tout nom qui pourrait être celui d'une personne privée ; les odonymes de personnalités publiques (avenue du Président
+     François Mitterrand) restent ce qu'ils sont, une adresse. **Tranché ainsi** : un nom d'équipement dont on ne peut pas
+     établir qu'il honore une personnalité publique ne figure ni dans la fiche, ni dans le nom du fichier image, ni dans le
+     README ; l'équipement s'écrit par sa fonction et sa rue (« halle du marché, rue du Bourg »), ce qui suffit au visiteur.
+
 ## Marchands à confirmer
 
-695 fiches sur 778 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+700 fiches sur 783 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP de Bègles** (Bègles) (catégorie `amap`, sans `environnement` : aucune certification vérifiée pour l'ensemble des contrats. **Distribution en cours, règle 195** : le site vivant de l'AMAP donne le mardi de 18h30 à 19h30, salle Saint-Maurice, et un billet du 2 novembre 2025 renvoie à la distribution du mardi précédent ; le jeu `de_pat_p` de Bordeaux Métropole concorde. **Point** : celui que la Métropole donne à l'AMAP, la Base Adresse Nationale ne connaissant pas le 105 (voisins 99 et 109 à 84 m, règle 161 inapplicable) ; contrôle inverse à 42 m du 109 avenue Alexis-Capelle. **Image** : les pains d'une distribution sur la page « Pains » du site de l'AMAP, octobre 2021, sans visage ; les chevalets portent des noms de pains.)
+- **La Collective** (Bègles) (boulangerie au levain, `producteur` au titre de la règle 73. **Registre, règle 6** : SCOP active, établissement du 112 avenue Alexis-Capelle ouvert le 2 mai 2026, celui de Latresne fermé ; certificat Qualisud engagé au registre de l'Agence Bio, d'où le pilier `environnement`. `a_confirmer` : les horaires sont ceux que le site annonce « à partir de septembre 2026 ». Numéro mobile du site non repris.)
+- **Les Jardins Garonnais** (Floirac) (**Élargissement, règles 96 et 295** : Bordeaux Métropole, à 5,6 km du centre de Bègles. Vente à la ferme selon le site, avril 2026 ; le jeu de la Métropole ne donne que le samedi. Certificat Ecocert engagé. **Point, règles 35 et 63** : le marqueur que la ferme publie (lien d'itinéraire libellé « 3 chemin de Bories » alors que le texte dit 5) ; la BAN ne connaît que le 1 chemin des Bories, à 218 m. **Image** : les mentions légales de la ferme nomment les images (règle 245) ; photographie thématique de Bègles Plage fichée par l'office de Bordeaux Métropole (règle 298).)
+- **Marché de Bouliac** (Bouliac) (**Élargissement, règles 96 et 295**, à 3,8 km. Vendredi 8h-13h et sept commerçants selon la Ville et le jeu de la Métropole (octobre 2025), qui concordent. **Point** : celui de la Métropole, à 23 m du 12 rue du Bourg. **Image** : photographie de la Ville (clause générale sur les « contenus », règle 246), recadrée sur l'étal du myciculteur hors de tout visage et hors du bandeau d'un exploitant. Nom propre de la halle non repris (règle 299).)
+- **Marché du Castel** (Floirac) (**Élargissement, règles 96 et 295**, à 3,4 km. Dimanche 8h-13h au parc du Castel : page des marchés de la Ville (août 2024) et article du 31 août 2026, jeu de la Métropole concordant. **Point** : 3 avenue du Président-François-Mitterrand, adresse que la Ville donne au parc, au numéro. **Téléphone, règle 189** : le service que la Ville indique pour les marchés. **Image** : la Ville de Floirac interdit nommément la reproduction de ses photographies ; photographie thématique de Bègles Plage fichée par l'office (règle 298), fichier différent de celui des Jardins Garonnais.)
 - **AMAP Populaire de Bagnolet** (Bagnolet) (catégorie `amap`. Jour, heures et lieu : liste des AMAP du comité départemental du tourisme de la Seine-Saint-Denis, mise à jour le 11 mai 2026 ; la fréquence (« tous les 15 jours ») et les produits ne viennent que d'une fiche d'annuaire de 2025. **Image** : site des Petites Cantines de Bagnolet.)
 - **AMAP Les Amis de la ferme de Bagnolet — jardin tant désiré** (Bagnolet) (catégorie `amap`. Jour, heures et lieu : même liste du comité départemental ; produits d'un annuaire associatif non daté. **Image** : blog du jardin, mai 2020, hors distribution.)
 - **Marché des Sentes** (Les Lilas) (catégorie `marche`. Samedi 8h-13h selon la Ville (17 juin 2026) ; point posé au 56 boulevard du Général-Leclerc, adresse du centre commercial, faute de numéro publié pour le parvis.)
@@ -10814,6 +10838,83 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Bègles (Gironde) : cinq fiches publiées dans Bordeaux Métropole
+
+Passe du 24 septembre 2026 (cinquième de la nuit, après Bagnolet). Aucune demande de visiteur (ni nouvelle, ni en cours), aucun
+courriel. **Classement, règle 41**, recalculé sur 778 fiches : La Réunion, la Guadeloupe et la Martinique hors classement (règle
+177), Oise 5,3638, Landes 4,8920, Eure-et-Loir 4,8870 et Val-d'Oise 4,4610 (épuisés, règle 265 ; le Val-d'Oise est de plus en
+Île-de-France, région de la passe de Bagnolet), **Gironde (33) 4,0739**, premier département non épuisé, en Nouvelle-Aquitaine ;
+Hérault (34) 3,8814 en second. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266, la Nouvelle-Aquitaine étant ouverte) : `www.capbreton.fr` n'ouvre
+aucune connexion (règle 237) ; pas de source datée pour l'antenne de Capbreton, le groupe reste à quatre points.
+Villenave-d'Ornon (règle 297) : le domaine que l'annuaire de l'administration donne à la Ville refuse toujours la connexion
+sur le port 443 ; comme à la règle 288, une commune muette au second passage sort de la descente, sans entamer la borne.
+
+**Gironde : descente reprise à Bègles (règles 247 et 127).** Bègles (31 831 habitants) rend **deux fiches entières dès la première
+commune**. Le site de la Ville sert un agent quelconque et coupe la connexion à `ClaudeBot` comme à `GPTBot` (règle 257) : il n'est
+pas lu, et ses marchés — le mercredi cours Victor-Hugo, le samedi place du 14-Juillet — n'ont d'heures que dans le jeu de données
+de la Métropole et de description que la phrase générale de l'office ; ils attendent (règles 196 et 197). Les deux fiches viennent
+des commerces eux-mêmes :
+- l'**AMAP de Bègles**, salle Saint-Maurice, le mardi soir — site vivant, billet daté de novembre 2025, photographie de pains
+  d'une distribution publiée par l'AMAP (pied de page « Tous droits réservés » sans nommer d'image, règle 231) ;
+- **La Collective**, boulangerie coopérative bio installée au 112 avenue Alexis-Capelle — registre, certificat et photographie
+  de ses pains sur son propre site, sans mentions légales.
+Le complément vient de Bordeaux Métropole (champ `epci` de `geo.api.gouv.fr`, règle 219), à moins de six kilomètres du centre
+de Bègles (règle 96) : les **Jardins Garonnais** à Floirac (5,6 km), le **marché de Bouliac** (3,8 km) et le **marché du Castel**
+à Floirac (3,4 km). Floirac et Bouliac n'ont aucune fiche ; la règle 295 ne serait de toute façon pas un obstacle.
+
+**Départage du cinquième point (règles 167, 168 et 187).** Cinq candidats entiers sur les faits pour trois places : les Jardins
+Garonnais, le marché de Bouliac, le marché du Castel, **Coop Paysanne** à Cenon (magasin de producteurs, 57 avenue Jean-Jaurès)
+et le marché du mercredi de la place Hilaire-Saura à Floirac. Bouliac est le seul à avoir sa
+propre photographie permise. Entre le Castel et Coop Paysanne, qui prennent tous deux une photographie thématique, la règle 168
+tranche : le marché du dimanche ne recoupe pas celui du vendredi de Bouliac, alors que Coop Paysanne, ouverte du mardi au
+dimanche, répète La Collective dans la même catégorie aux mêmes heures. Coop Paysanne attend en pistes, entière sauf l'image.
+
+**Contradictions et choix** :
+- **Jardins Garonnais** : le site écrit « 5 chemin de Bories » et publie un lien d'itinéraire libellé « 3 Chem. de Bories » ; la
+  BAN écrit « chemin des Bories » et ne connaît que le numéro 1. Le point est celui du lien (règles 35 et 63), l'adresse garde le
+  5 du texte et l'orthographe de la BAN. Le registre de l'Agence Bio place la vente à Floirac à 1,8 km de là : écarté. Le jeu de
+  la Métropole ne donne que le samedi ; le site, modifié en avril 2026, donne aussi le mardi et le vendredi : c'est lui qui est
+  publié.
+- **Marché de Bouliac** : la Ville et la Métropole concordent (vendredi 8h-13h, sept commerçants) ; la page de la Ville n'est pas
+  datée, la fiche est `a_confirmer`. La photographie d'ensemble de la halle montre un commerçant de face et le bandeau d'un
+  exploitant qui porte un nom de personne : c'est la vue de l'étal de champignons, recadrée, qui est retenue.
+- **Marché du Castel** : la page des marchés (août 2024) et l'article du 31 août 2026 concordent sur le dimanche 8h-13h. La
+  photographie de la page des marchés, prise un dimanche matin de 2019, n'est pas reprise : les mentions légales de Floirac
+  interdisent la reproduction des photographies.
+- **AMAP de Bègles** : le site écrit « 105 avenue Alexis Capelle », le jeu de la Métropole « 105 rue Alexis Capelle » ; c'est bien
+  une avenue à la BAN. Point de la Métropole (voir la liste des fiches à confirmer).
+- **La Collective** : une page du site écrit « 112 rue Alexis Capelle », une autre « avenue » ; le registre et la BAN disent avenue.
+
+**Pistes non publiées en Gironde** :
+- **Coop Paysanne, Cenon** (57 avenue Jean-Jaurès, magasin de producteurs, du mardi au samedi 9h-13h30 et 15h-19h30, le dimanche
+  9h-12h30, téléphone fixe du magasin sur son site) — entière sauf l'image : ses mentions légales nomment les photos et en
+  interdisent la reproduction. **Déblocage** : une photographie permise, ou une place de photographie thématique dans une zone qui
+  la comprend (règle 272) ;
+- **marché de la place Hilaire-Saura, Floirac** (mercredi 8h-13h, boucher-charcutier, primeur, poissonnier, page de la Ville) —
+  entier sauf l'image (Ville fermée aux photographies) ;
+- **marchés de Bègles** (mercredi cours Victor-Hugo, samedi place du 14-Juillet) — déblocage : une source lisible autre que le
+  jeu de données pour les heures, et une famille de produits propre à chaque marché ;
+- **marché de la Benauge, Bordeaux** — toujours contradictoire : vendredi au parc Pinçon selon l'association (février 2026),
+  mercredi devant l'espace Miriam-Makeba selon la Métropole (avril 2026) et selon La Collective (août 2026), toujours sans date
+  de référence pour la cadence de quinze jours ; les mentions légales de l'association nomment les photographies ;
+- **AMAP distribuée dans un restaurant d'insertion rue Robert-Schuman, Bègles** — le site de son fournisseur ne décrit pas ce
+  point (règle 202) ;
+- **marchés de Talence, Saint-Genès et Thouars** — la page de la Ville (2018) ne dit pas ce qui s'y vend (règle 197).
+
+**Reprise** : la prochaine passe qui vise la Gironde reprend la descente à **La Teste-de-Buch** (27 566), Villenave-d'Ornon étant
+sortie. **Après la passe**, sur 783 fiches : la Gironde tombe à −0,80 ; l'Hérault (3,9706, Occitanie) est le premier département
+non épuisé, hors outre-mer. La prochaine passe ne peut pas viser la Nouvelle-Aquitaine (règle 41.c).
+
+**Données personnelles écartées** : les noms des producteurs partenaires sur les pages de l'AMAP de Bègles, et le prénom d'une
+amapienne dans un titre de recette ; le prénom de maraîcher qui sert d'enseigne à une ferme fournissant le marché de la Benauge ;
+les prénoms de l'équipe dans le nom d'une photographie de La Collective, qui n'est pas reprise ; les noms du concepteur du site
+et des photographes dans les mentions légales des Jardins Garonnais ; les photographes crédités sous la photographie de Bouliac ;
+le nom de personne porté par le bandeau d'un exploitant et le nom propre de la halle de Bouliac (règle 299) ; les exploitants
+inscrits sous leur nom au registre bio à Bègles et à Floirac ; les producteurs que Coop Paysanne présente par leur nom ; les
+numéros mobiles de La Collective et des Jardins Garonnais. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
 
 ### Passe de Bagnolet (Seine-Saint-Denis) : cinq fiches publiées dans Est Ensemble
 

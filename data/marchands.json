@@ -20709,5 +20709,141 @@
     "image_url": "/images/marchands/marche-des-trois-communes-romainville.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=angle%20rue%20Jean-Jaur%C3%A8s%20et%20route%20de%20Montreuil%2C%2093230%20Romainville"
+  },
+  {
+    "slug": "amap-de-begles",
+    "nom": "AMAP de Bègles",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.816406,
+    "lon": -0.547957,
+    "adresse": "Salle Saint-Maurice, 105 avenue Alexis Capelle, 33130 Bègles",
+    "horaires": "Distribution le mardi de 18h30 à 19h30, salle Saint-Maurice, pour les adhérents sous contrat (site de l'AMAP ; un billet du 2 novembre 2025 renvoie à la distribution du mardi précédent). Légumes, œufs et pain chaque semaine, les autres contrats selon leur propre calendrier ; pas de pain en juillet ni en août.",
+    "produits": [
+      "Paniers de légumes",
+      "Œufs",
+      "Pain au levain",
+      "Produits laitiers",
+      "Farines, graines et huiles",
+      "Poulets",
+      "Pommes et jus",
+      "Bœuf et veau"
+    ],
+    "description": "Association d'environ quatre-vingts foyers qui signe des contrats annuels avec ses producteurs partenaires, girondins pour la plupart, et assure elle-même ses distributions du mardi soir. Photo : site de l'AMAP de Bègles, des pains alignés pour une distribution (octobre 2021).",
+    "site_web": "https://www.amapbegles33.fr/",
+    "image_url": "/images/marchands/amap-de-begles.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=105%20avenue%20Alexis%20Capelle%2C%2033130%20B%C3%A8gles"
+  },
+  {
+    "slug": "la-collective-begles",
+    "nom": "La Collective",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.816334,
+    "lon": -0.548644,
+    "adresse": "112 avenue Alexis Capelle, 33130 Bègles",
+    "horaires": "Le lundi de 16h à 19h, du mardi au vendredi de 11h à 19h, depuis septembre 2026 (site de la boulangerie). Commandes en ligne possibles, idéalement trois jours à l'avance.",
+    "produits": [
+      "Pains au levain naturel (campagne, complet, petit épeautre)",
+      "Pains aux graines et aux noix",
+      "Brioches",
+      "Biscuits"
+    ],
+    "description": "Boulangerie coopérative (SCOP) certifiée bio qui cuit des pains au levain naturel, en bonne partie avec des farines de l'agriculture paysanne ; installée à Bègles en 2026 après deux ans à Latresne, elle livre aussi des AMAP et des marchés de la métropole. Photo : site de La Collective, ses pains.",
+    "site_web": "https://lacollectivepains.fr/",
+    "image_url": "/images/marchands/la-collective-begles.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=112%20avenue%20Alexis%20Capelle%2C%2033130%20B%C3%A8gles"
+  },
+  {
+    "slug": "les-jardins-garonnais-floirac",
+    "nom": "Les Jardins Garonnais",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.838971,
+    "lon": -0.497813,
+    "adresse": "5 chemin des Bories, 33270 Floirac",
+    "horaires": "Vente directe à la ferme le mardi et le vendredi de 16h30 à 18h30, le samedi de 9h à 12h (site de la ferme, avril 2026).",
+    "produits": [
+      "Légumes de saison bio",
+      "Fruits du verger-maraîcher",
+      "Œufs",
+      "Paniers de légumes, avec ou sans abonnement"
+    ],
+    "description": "Ferme maraîchère collective certifiée en agriculture biologique, qui cultive légumes et fruits en bord de Garonne et sur les coteaux de la rive droite ; l'étal de la vente à la ferme complète sa récolte par des produits d'agriculteurs voisins. Photo thématique : Bègles Plage, publiée par l'Office de Tourisme et des Congrès de Bordeaux Métropole (bordeaux-tourisme.com) ; elle ne montre pas la ferme.",
+    "site_web": "https://lesjardinsgaronnais.fr/",
+    "image_url": "/images/marchands/les-jardins-garonnais-floirac.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5%20chemin%20des%20Bories%2C%2033270%20Floirac"
+  },
+  {
+    "slug": "marche-de-bouliac",
+    "nom": "Marché de Bouliac",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.815712,
+    "lon": -0.503751,
+    "adresse": "Halle du marché, rue du Bourg, 33270 Bouliac",
+    "horaires": "Le vendredi de 8h à 13h, sous la halle de la rue du Bourg (Ville de Bouliac ; jeu de données des points de vente locaux de Bordeaux Métropole, octobre 2025).",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poisson",
+      "Huîtres",
+      "Champignons",
+      "Traiteur"
+    ],
+    "description": "Petit marché couvert du vendredi matin au cœur du bourg, où la Ville compte sept commerçants : un primeur, un fromager, un poissonnier, un ostréiculteur, un myciculteur, un traiteur et un fleuriste. Photo : Ville de Bouliac (ville-bouliac.fr), droits réservés — l'étal du myciculteur sous la halle.",
+    "telephone": "05 57 97 18 18",
+    "site_web": "https://www.ville-bouliac.fr/marche-municipal",
+    "image_url": "/images/marchands/marche-de-bouliac.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=rue%20du%20Bourg%2C%2033270%20Bouliac"
+  },
+  {
+    "slug": "marche-du-parc-du-castel-floirac",
+    "nom": "Marché du Castel",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.830252,
+    "lon": -0.526955,
+    "adresse": "Parc du Castel, 3 avenue du Président François Mitterrand, 33270 Floirac",
+    "horaires": "Le dimanche de 8h à 13h, au parc du Castel (Ville de Floirac, page des marchés et article du 31 août 2026).",
+    "produits": [
+      "Charcuterie",
+      "Volailles de producteur",
+      "Fruits et légumes",
+      "Huîtres",
+      "Fromages",
+      "Vin de producteur",
+      "Rôtisserie et plats cuisinés"
+    ],
+    "description": "Le marché dominical de Floirac, dans le parc municipal du Castel sur les coteaux : un charcutier, un producteur de volailles, un primeur, un ostréiculteur, un fromager, un vigneron et quelques traiteurs selon la Ville. Photo thématique : Bègles Plage, publiée par l'Office de Tourisme et des Congrès de Bordeaux Métropole (bordeaux-tourisme.com) ; elle ne montre pas le marché.",
+    "telephone": "05 57 80 87 30",
+    "site_web": "https://www.floirac.fr/mes-sorties/marches/",
+    "image_url": "/images/marchands/marche-du-parc-du-castel-floirac.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3%20avenue%20du%20Pr%C3%A9sident%20Fran%C3%A7ois%20Mitterrand%2C%2033270%20Floirac"
   }
 ]
