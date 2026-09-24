@@ -3913,9 +3913,37 @@ prioritaires en cas de conflit.
      par `oasis.bio` seul. Le même raisonnement ne rouvre pas un site dont la clause vise toutes les « publications » de
      l'exploitant, quel qu'en soit le support.
 
+314. **Des conditions d'utilisation qui s'opposent en toutes lettres à la fouille de textes et de données, notamment pour
+     l'intelligence artificielle, valent exclusion du robot : le site n'est plus une source, et les faits se prennent chez une
+     autre autorité.** Le site du domaine viticole de la Ville de Colmar sert ses pages à l'agent nommé et son `robots.txt`
+     n'exclut personne ; mais ses conditions générales d'utilisation déclarent que la société propriétaire « s'oppose à toutes
+     opérations de moissonnage et/ou de fouilles de données », « y compris l'entraînement, le développement ou l'exploitation de
+     modèles d'intelligence artificielle », au titre de l'article L. 122-5-3 du Code de la propriété intellectuelle. La règle 77
+     visait le `robots.txt`, la règle 257 le filtrage par nom ; toutes deux disent que ce qui compte est la décision de l'éditeur.
+     **Tranché ainsi** : une opposition expresse à la fouille de données, où qu'elle soit écrite (conditions d'utilisation,
+     mentions légales, pied de page), ferme le site comme le ferait un `robots.txt` qui exclut le robot ; on ne s'en sert ni
+     pour les faits, ni pour l'image, ni pour vérifier un horaire, et la fiche ne se publie que si une autre autorité — office de
+     tourisme, commune, registre — porte les mêmes faits. Le lien `site_web` n'est pas inscrit, puisqu'il n'a pas pu être vérifié
+     au sens d'`AGENT.md`. Ici : horaires et produits de l'Office de tourisme de Colmar, certification au registre de l'Agence Bio,
+     établissement actif au registre des entreprises ; les pages du domaine lues avant que la clause soit trouvée ne sont pas
+     reprises.
+
+315. **Quand l'appel national de `geo.api.gouv.fr` ne répond pas, la population se somme département par département, et
+     l'écart de dénominateur s'écrit.** Le 24 septembre 2026, l'appel `communes?fields=nom,code,population,departement` a
+     rendu six fois de suite une erreur 504 ou 502. La règle 41 donne cet appel comme moyen, pas comme condition. **Tranché
+     ainsi** : on interroge `departements/<code>/communes` pour chacun des 101 départements et l'on somme ; ce découpage a
+     rendu 34 875 communes et 68 350 798 habitants, un peu moins que l'appel complet des passes précédentes, et le classement
+     qu'il donne s'accorde, rang pour rang, avec celui que la passe précédente avait publié pour après elle (Oise, Val-d'Oise,
+     Landes, Eure-et-Loir épuisés, puis Haut-Rhin). Si les deux lectures donnaient un vainqueur différent, la passe le dirait et
+     suivrait l'appel complet dès qu'il répondrait de nouveau.
+
 ## Marchands à confirmer
 
-730 fiches sur 818 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+734 fiches sur 823 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Brasserie du Grillen** (Colmar) (commune calculée du Haut-Rhin ; `producteur`, piliers `environnement` et `economie` (règle 14 : boisson alcoolisée), comme la Brasserie de la Loire. **Registre** : société active, 11.05Z, au 31 rue des Jardins ; engagement Ecocert du 14 août 2019, vente aux particuliers déclarée. **Horaires, règle 2** : ceux que le site donne pour le « Bar & Boutique », qui ne distingue pas la boutique du bar ; la fiche le dit. **Point** : BAN au numéro (0,970), confondu avec le point de l'Agence Bio. **Photo** : bouteilles et verre de la brasserie, publiés sur son site, qui n'a aucune mention légale ni clause (fichier pris sur le domaine de la brasserie, pas sur le relais d'images) ; aucune personne.)
+- **Marché couvert de Colmar** (Colmar) (catégorie et piliers des halles déjà publiées. **Existence, règle 106** : la page « Les marchés à Colmar » de la Ville le décrit et renvoie au site de l'association des commerçants. **Horaires** : site de l'association, mis à jour le 4 mars 2026 ; le marché de plein air du jeudi autour de la halle est porté dans le même champ (règle 42), heures de la Ville (8h-13h) et de l'office (8h-12h) citées (règle 5). **Produits** : liste des métiers publiée par l'association ; aucun commerçant n'est nommé. **Point** : BAN au numéro (0,967). **Photo, règle 312** : la Ville, l'office et l'association nomment les photographies dans leur interdiction (règles 231 et 246) ; pains et kougelhopfs publiés sans clause par Cœur Paysan Colmar, fichier distinct de celui de sa fiche.)
+- **Les Chants de la Terre — vente à la ferme** (Colmar) (`ferme`. **Registre** : SAS de commercialisation active (47.81Z) et SCEA de production active (01.11Z), toutes deux au 114 Lauch-Werb ; engagements Ecocert de 2006 et de 1995. **Horaires** : page « Vente à la ferme » du site. **Point** : BAN au numéro « 114 Lauch-Werb » (0,971), à 30 m du point du registre ; la BAN ne connaît pas la graphie « Lauchwerb » du site. **Photo, règle 312** : les mentions légales de la ferme interdisent de « copier et d'utiliser des photos » ; légumes d'Alsace d'un rayon de Cœur Paysan Colmar, recadrés sur les cageots pour écarter l'ardoise à l'enseigne du magasin. Les exploitants et les fermes partenaires nommés par le site ne sont pas repris.)
+- **Domaine viticole de la Ville de Colmar** (Colmar) (`producteur`, piliers `environnement` et `economie` comme les domaines viticoles déjà publiés. **Règle 314, nouvelle** : les conditions d'utilisation du site s'opposent à la fouille de données par l'IA ; faits pris à l'Office de tourisme de Colmar (horaires 2026 du caveau et de la boutique, « viticulteur récoltant », liste des vins), pas de `site_web`. **Registre** : société active, 01.21Z, au 2 rue du Stauffen ; engagement Ecocert au registre de l'Agence Bio, vente aux particuliers déclarée. **Point** : BAN au numéro (0,973). **Photo, règle 312** : l'office réserve ses photographies à l'usage privé (règle 246) ; rayon de jus, de vins et de confitures de Cœur Paysan Colmar, recadré en bandeau (1 000 × 285) au-dessous de deux affiches où figurent des visages.)
 - **Marché du dimanche de Saint-Marcellin-en-Forez** (Saint-Marcellin-en-Forez) (quatrième fiche du groupe de Saint-Romain-le-Puy, **règles 96 et 127**, à 7,2 km du centre de la commune, dans Loire Forez Agglomération. **Registre, règle 106** : marché municipal. **Horaires et produits** : page « Le marché » de la Ville (dimanche 7h30-13h, place Sainte-Catherine, étals alimentaires nommés) ; Loire Tourisme concordant sur la place, sans heure. **Point** : BAN au niveau de la place (0,952). **Photo, règles 1 et 59** : la seule photographie du marché que publie la Ville fait 300 px, sous le plancher de 600 px ; les mentions légales de la Ville interdisent la reproduction « des pages, des données et de tout autre élément » sans nommer les photographies (règle 231) ; photographie thématique du canal du Forez publiée par la Ville (1 200 px, aucune personne), la description dit qu'elle ne montre pas le marché.)
 - **Brasserie de la Loire** (Saint-Just-Saint-Rambert) (cinquième fiche du groupe, à 9,6 km du centre de Saint-Romain-le-Puy ; `producteur`, piliers `environnement` et `economie` (règle 14 : boisson alcoolisée ; l'épicerie de terroir revend d'autres producteurs et n'ouvre pas `alimentation`). **Registre** : société active (11.05Z) ; certificat Ecocert engagé depuis février 2009. **Horaires** : page « Où nous trouver » de la brasserie (voix de l'intéressé) ; la fin de semaine (dimanche, lundi) n'y figure pas et la fiche le dit fermé. **Point** : BAN au numéro (0,957), à 100 m du point de l'Agence Bio. **Photo, règle 312** : le site de la brasserie est servi par Wix (règle 256) et ses mentions nomment les « images » ; photographie thématique d'un étal de légumes publiée sans clause par Oasis Jardin de Cocagne, dans la même commune, fichier distinct de celui de la fiche du marché bio.)
 - **La Coop des 2 B** (Beaucaire) (commune calculée du Gard, première des quatre fiches entières de la règle 127. **Registre** : coopérative active, 10.41A ; certificat biologique Qualisud engagé en 2013 pour l'huile d'olive. **Horaires** : page contact de la coopérative, site de Beaucaire (celui de Bezouce, boutique et confiserie, n'est pas publié). **Point** : BAN au numéro (0,966). **Photo** : bidon d'huile AOP photographié en plein air, publié par la coopérative, dont les mentions légales ne portent aucune clause de reproduction ; aucune personne.)
@@ -11031,6 +11059,38 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 24 septembre 2026 (vingtième de la nuit) : Colmar (Haut-Rhin), cinq fiches dans la commune
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 818 fiches, population
+sommée département par département (**règle 315, nouvelle** : l'appel national a répondu 504 six fois), outre-mer écarté
+(règle 177) : Oise 5,9320, Val-d'Oise 5,3384, Landes 5,1888 et Eure-et-Loir 5,1835 (épuisés, règle 265), **Haut-Rhin (68)
+4,2239**, Ardèche 4,0000. La dernière passe publiée visait Auvergne-Rhône-Alpes (Saint-Romain-le-Puy) : le Grand Est est ouvert
+(règle 41.c). **Commune** : Mulhouse a ses cinq fiches depuis la passe qui a ouvert le département ; **Colmar**, 66 970 habitants,
+est la plus peuplée sans fiche. Contrôle en deux requêtes (règle 257) : la Ville, Colmar Agglomération, l'office de tourisme, le
+site du marché couvert et ceux des commerces servent l'agent nommé ; Visit Alsace le refuse (403) et n'a pas été consulté, pas
+plus que `biocoop.fr`, qui le refuse aussi.
+
+**La commune fait la passe à elle seule, sans élargissement.** Cinq fiches, toutes dans Colmar : **Cœur Paysan Colmar** (fiche
+entière, photographie du lieu), la **Brasserie du Grillen** (fiche entière, photographie du lieu), le **marché couvert**, la
+**vente à la ferme des Chants de la Terre** et le **domaine viticole de la Ville de Colmar** (faits entiers, photographie
+thématique au titre de la règle 312). La Ville, l'agglomération et l'office nomment tous les photographies dans leur
+interdiction ou en réservent la reprise à l'usage privé (règles 231 et 246) ; c'est le site de Cœur Paysan, sans aucune clause,
+qui fournit les trois photographies thématiques, trois fichiers distincts de celui de sa propre fiche (règles 191 et 203), et
+chaque description dit qu'elle ne montre pas le lieu. **Règle 314, nouvelle** : les conditions d'utilisation du site du domaine
+viticole s'opposent à la fouille de données par l'IA ; ses faits viennent de l'office.
+
+**Après la passe**, sur 823 fiches : Oise 5,9927, Val-d'Oise 5,4322, Landes 5,2205 et Eure-et-Loir 5,2152 (épuisés), **Ardèche
+(07) 4,0244**, Lot-et-Garonne 4,0168, Bas-Rhin 4,0132 ; le Haut-Rhin tombe à −0,7197. La passe suivante ne peut pas viser le
+Grand Est (règle 41.c) ; l'Ardèche (Auvergne-Rhône-Alpes) est ouverte : elle prend sa commune la plus peuplée sans fiche.
+
+**Fiches écartées pour doute sur une personne** : à Colmar, un producteur de champignons et un maraîcher inscrits au registre
+bio en entreprise individuelle sous leur nom, un éleveur de poules pondeuses dans le même cas, une boulangerie dont la
+raison sociale est formée de deux noms propres ; dans l'agglomération, des domaines viticoles et des vergers dont l'enseigne
+est bâtie sur un nom de famille (Colmar, Wettolsheim, Wintzenheim, Turckheim, Wickerschwihr, Porte du Ried). **Données
+personnelles écartées** : noms d'exploitants, de gérants, de commerçants, de directeurs de publication et de photographes lus
+sur les sites, aux registres et dans les mentions légales, portables et courriels ; les images ont été réenregistrées sans
+métadonnées (règle 235) ; rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
+
 ### Passe du 24 septembre 2026 (dix-neuvième de la nuit) : Saint-Romain-le-Puy (Loire), cinq fiches dans Loire Forez Agglomération
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 813 fiches, dénominateur de
@@ -16959,6 +17019,39 @@ horaire, écarté comme relais non daté.
   Rouen et à ses communes limitrophes, la moitié sont des supérettes de réseau et des entrepôts du
   marché d'intérêt national, que `MODERATION.md` écarte comme commerces généralistes ou négoce de
   gros. Le registre reste utile, mais il ne se lit pas comme un annuaire de vente directe.
+
+### Pistes non publiées à Colmar
+
+Département visé : le **Haut-Rhin (68)**, déficit **4,2239** (règle 41, population sommée par département, règle 315) ; cinq
+fiches publiées dans Colmar même (voir la section de la passe du 24 septembre 2026, vingtième de la nuit). Ce qui reste :
+
+**Marchés de quartier de la Ville** — marché Ouest (avenue de l'Europe, mercredi 8h30-13h selon la Ville, 9h-13h selon
+l'office), marché de la place Saint-Joseph (samedi 8h30-13h selon la Ville, 8h-13h selon l'office), marché du jeudi de la place
+des Dominicains et de la place de la Cathédrale (11h-18h30). **Règle 197** : la Ville n'écrit pour eux que la phrase générique
+commune à tous ses marchés (« fruits et légumes de saison, produits du terroir, fleurs, vêtements ») et, pour Saint-Joseph,
+« marché de produits locaux » ; l'office répète pour chacun « mélange de terroir, de textile et d'accessoires ». Aucune source
+ne nomme une famille de produits propre à l'un d'eux, et aucune image n'est permise. Déblocage : une page de la Ville propre
+à l'un de ces marchés, ou une liste d'étals.
+
+**Jardins du Pflixbourg** (Wintzenheim, exploitation horticole et maraîchère bio d'un lycée agricole public, magasin au 2 lieu-dit
+Saint-Gilles) — faits entiers : établissement public actif, engagement au registre de l'Agence Bio, horaires 2026 du magasin
+publiés par l'établissement (du lundi au vendredi 9h-12h et 14h-18h, samedi 9h-12h). Les mentions légales de l'établissement
+nomment les « documents iconographiques et photographiques » (règle 231), celles de la Ville de Wintzenheim les
+« représentations iconographiques et photographiques » ; la règle 312 ne prête une photographie qu'à une fiche de la même
+commune. Déblocage : une photographie permise de Wintzenheim, ou une passe qui complète un groupe dans Colmar Agglomération (le
+magasin est à environ 10 km du centre de Colmar).
+
+**Marché du samedi de Horbourg-Wihr** (place du 1er-Février, 8h-12h, métiers nommés par la commune) — faits entiers ; les
+mentions légales de la commune nomment les « images ». Même déblocage.
+
+**Biocoop de la route de Rouffach** — société active, certificat engagé ; `biocoop.fr` refuse l'agent nommé (règle 257) et le
+magasin n'a pas de site propre : la liste de producteurs locaux qu'exige la règle 86 ne peut pas être lue. Déblocage : une
+liste publiée par le magasin sur un site qui ne l'exclut pas.
+
+**Écartés par `MODERATION.md` ou par le registre** : supermarchés et hypermarchés certifiés, grossistes, négociants et
+fournisseurs de semences inscrits au registre de l'Agence Bio à une adresse colmarienne ; une boulangerie de la place
+Saint-Joseph, qui vend quelques pains bio parmi une gamme conventionnelle et ne nomme aucun fournisseur : ce n'est pas un circuit court au sens du site. Les personnes écartées sont décrites dans la
+section de la passe.
 
 ## Comment ajouter ou modifier un marchand
 

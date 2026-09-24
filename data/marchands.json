@@ -21751,5 +21751,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=29%20Chemin%20du%20B%C3%A9chet%2C%2042170%20Saint-Just-Saint-Rambert",
     "image_url": "/images/marchands/brasserie-de-la-loire-saint-just-saint-rambert.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "coeur-paysan-colmar",
+    "nom": "Cœur Paysan Colmar",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.079701,
+    "lon": 7.372398,
+    "adresse": "82-84 Route de Neuf-Brisach, 68000 Colmar",
+    "horaires": "Du mardi au vendredi de 9h à 19h sans interruption, le samedi de 8h à 14h. Fermé le dimanche et le lundi (site du magasin).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes et charcuteries",
+      "Fromages et produits laitiers",
+      "Pain frais",
+      "Œufs",
+      "Miel et confitures",
+      "Vins et bières d'Alsace",
+      "Épicerie : farines, pâtes, épices, thés"
+    ],
+    "description": "Magasin de producteurs d'environ 300 m² sur la route de Neuf-Brisach, où quelque 75 fermes alsaciennes vendent elles-mêmes leurs produits, en grande partie en vrac ; des producteurs sont présents au magasin. Drive et livraison à Colmar. Photo : façade du magasin, publiée par Cœur Paysan Colmar.",
+    "telephone": "09 67 83 57 31",
+    "site_web": "https://colmar.coeur-paysan.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C5%93ur%20Paysan%2C%2084%20Route%20de%20Neuf-Brisach%2C%2068000%20Colmar",
+    "image_url": "/images/marchands/coeur-paysan-colmar.jpg"
+  },
+  {
+    "slug": "brasserie-du-grillen-colmar",
+    "nom": "Brasserie du Grillen",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.075693,
+    "lon": 7.372415,
+    "adresse": "31 Rue des Jardins, 68000 Colmar",
+    "horaires": "Bar et boutique : lundi, mardi et mercredi de 17h à 22h, jeudi de 17h à 23h, vendredi et samedi de 10h à 23h (site de la brasserie). Fermé le dimanche.",
+    "produits": [
+      "Bières bio non filtrées brassées sur place",
+      "Bière pression à emporter",
+      "Softs et ginger beer",
+      "Coffrets de bières"
+    ],
+    "description": "Micro-brasserie ouverte en 2019 dans un bâtiment de l'ancienne filature du quartier du Grillen, engagée en agriculture biologique (Ecocert) depuis août 2019 ; la boutique du brewpub vend les bouteilles et la bière pression à emporter. Photo : bières de la brasserie, publiée par la Brasserie du Grillen.",
+    "telephone": "03 68 61 03 80",
+    "site_web": "https://brasseriedugrillen.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20du%20Grillen%2C%2031%20Rue%20des%20Jardins%2C%2068000%20Colmar",
+    "image_url": "/images/marchands/brasserie-du-grillen-colmar.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-colmar",
+    "nom": "Marché couvert de Colmar",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.07446,
+    "lon": 7.35954,
+    "adresse": "13 Rue des Écoles, 68000 Colmar",
+    "horaires": "Du mardi au jeudi de 8h à 18h, le vendredi de 8h à 19h, le samedi de 8h à 17h, le dimanche de 10h à 14h ; fermé le lundi (site de l'association des commerçants, mis à jour le 4 mars 2026). Le jeudi, un marché de plein air se tient autour de la halle, rue des Tanneurs et rue de la Montagne-Verte, de 8h à 13h selon la Ville de Colmar (8h-12h selon l'office de tourisme).",
+    "produits": [
+      "Fruits et légumes, dont ceux d'un maraîcher bio de Colmar",
+      "Produits de la ferme",
+      "Boucherie et produits fumés",
+      "Fromagerie",
+      "Boulangerie",
+      "Poissonnerie",
+      "Épices et café",
+      "Vins et eaux-de-vie"
+    ],
+    "description": "Halle de brique, de fer et de fonte inaugurée en 1865 au bord de la Lauch, dans la Petite Venise ; restaurée en 2010, elle accueille de nouveau un marché permanent de commerçants et de producteurs. Photo thématique : pains et kougelhopfs d'un magasin de producteurs de Colmar ; elle ne montre pas le marché couvert.",
+    "telephone": "03 89 41 51 85",
+    "site_web": "https://www.marche-couvert-colmar.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20couvert%2C%2013%20Rue%20des%20%C3%89coles%2C%2068000%20Colmar",
+    "image_url": "/images/marchands/marche-couvert-colmar.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chants-de-la-terre-colmar",
+    "nom": "Les Chants de la Terre — vente à la ferme",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.051163,
+    "lon": 7.356118,
+    "adresse": "114 Lauch-Werb, 68000 Colmar",
+    "horaires": "Vente à la ferme le vendredi de 9h à 19h et le samedi de 9h à 13h ; fermé les jours fériés (site de la ferme). Les légumes de la ferme sont aussi vendus au marché couvert de Colmar.",
+    "produits": [
+      "Légumes bio de saison",
+      "Fruits",
+      "Jus de fruits et de légumes frais",
+      "Pain",
+      "Miel",
+      "Œufs",
+      "Viandes de fermes partenaires",
+      "Paniers de légumes sur abonnement"
+    ],
+    "description": "Maraîchage biologique et biodynamique conduit depuis plus de trente ans au sud de Colmar, certifié par Ecocert depuis 1995 ; la vente à la ferme, dans un parc avec un coin lecture, propose aussi les produits de fermes voisines. Photo thématique : légumes d'Alsace dans un magasin de producteurs de Colmar ; elle ne montre pas la ferme.",
+    "telephone": "03 89 41 90 63",
+    "site_web": "https://www.chantsdelaterre.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chants%20de%20la%20Terre%2C%20114%20Lauch-Werb%2C%2068000%20Colmar",
+    "image_url": "/images/marchands/chants-de-la-terre-colmar.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-viticole-ville-de-colmar",
+    "nom": "Domaine viticole de la Ville de Colmar",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.08704,
+    "lon": 7.343435,
+    "adresse": "2 Rue du Stauffen, 68000 Colmar",
+    "horaires": "Caveau : du mardi au vendredi de 9h30 à 12h30 et de 14h à 18h, le samedi de 9h à 12h30 ; fermé le dimanche et le lundi (Office de tourisme de Colmar). Boutique du centre-ville, 27 Grand'Rue : du mardi au samedi de 10h30 à 13h et de 14h30 à 18h30.",
+    "produits": [
+      "Vins d'Alsace AOC",
+      "Grands crus d'Alsace",
+      "Crémants d'Alsace",
+      "Vendanges tardives et sélections de grains nobles",
+      "Eaux-de-vie"
+    ],
+    "description": "Domaine récoltant installé au milieu de ses vignes, à l'ouest de Colmar, qui vend sa production au caveau et dans une boutique de la Grand'Rue ; vignoble certifié en agriculture biologique depuis le millésime 2023 (engagement Ecocert au registre de l'Agence Bio). Photo thématique : rayon de jus, de vins et de confitures d'un magasin de producteurs de Colmar ; elle ne montre pas le domaine.",
+    "telephone": "03 89 79 11 87",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20viticole%20de%20la%20Ville%20de%20Colmar%2C%202%20Rue%20du%20Stauffen%2C%2068000%20Colmar",
+    "image_url": "/images/marchands/domaine-viticole-ville-de-colmar.jpg",
+    "a_confirmer": true
   }
 ]
