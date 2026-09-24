@@ -10914,6 +10914,89 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 24 septembre 2026 (douzième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177), identique à celui de la passe précédente (règle 260) : Oise 5,6045,
+Landes 5,0178, Eure-et-Loir 5,0126 et Val-d'Oise 4,8327 (épuisés, règle 265), **Bouches-du-Rhône (13) 4,1607**, puis
+**Hauts-de-Seine (92) 4,1502**. La dernière passe qui a publié visait la Bretagne (Lorient) : les deux régions sont ouvertes
+(règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241). Rien n'étant publié, aucune région n'est « visée »
+(règle 247). La règle 302 ne joue pas dans les Bouches-du-Rhône : deux fiches entières seulement y sont désignées pour la
+reprise (Aubagne, Pélissanne), il en faut quatre.
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266, la Nouvelle-Aquitaine étant ouverte) : `www.capbreton.fr` a
+répondu 200 aux deux agents à la première requête, puis n'a plus répondu, `robots.txt` compris (règle 237) ; pas de source
+datée pour l'antenne de Capbreton, le groupe reste à quatre points. Courbevoie (règle 297) : `www.ville-courbevoie.fr`
+refuse toujours toute connexion, `robots.txt` compris, aux deux agents ; muette au second passage, elle sort de la descente
+sans entamer la borne (règles 288 et 290). Ce qu'elle avait rendu à la passe précédente reste écrit dans la section de cette
+passe ; la commune se rouvre au retour de son site (déblocage de la règle 237).
+
+**Bouches-du-Rhône : douze communes (règles 247 et 127), de Cabriès à Sausset-les-Pins.** Contrôle en deux requêtes
+(règle 257) avant chaque commune. Ferment leurs images en les nommant (règle 231) les Villes de Cabriès, Lambesc, Lançon-Provence,
+Velaux, Éguilles, Venelles et Sausset-les-Pins ; la Ville de Saint-Chamas et l'office des Alpilles refusent l'agent nommé (403,
+règle 257). Les Villes de La Fare-les-Oliviers et de Port-Saint-Louis-du-Rhône ont une clause générale sans image nommée,
+la seconde permettant la réutilisation non commerciale (lecture d'Aubagne).
+
+1. **Cabriès** (10 240) — Aucun marché publié. L'annuaire des commerces de la Ville cite deux maraîchages et un primeur à la
+   ferme sans horaires ; les deux maraîchages sont des entreprises individuelles sans site propre, que seules des pages de
+   réseau social présentent. **Zéro.**
+2. **Lambesc** (10 024) — La Ville publie le marché du vendredi matin et le marché de producteurs du mardi après-midi, place
+   des États-Généraux, sans heure. **Une fiche entière** : le **domaine Les Béates** (837 route de Caireval ; boutique du lundi
+   au samedi de 10h à 18h sur sa page « Contact » ; vins biologiques AOP Coteaux d'Aix-en-Provence ; société active ; BAN au
+   numéro 0,966, 43.663059 / 5.27789 ; mentions légales sans clause de reproduction ; bandeau des vignes et des coquelicots,
+   1 440 px, sans personne). La cave coopérative du Roy René sert sa page d'accueil à l'agent nommé mais lui refuse ses
+   mentions légales (403, règle 257) ; le Domaine Beauchamp et le moulin du Petit Janet refusent l'agent nommé ; le
+   Domaine des Oullières (horaires publiés) et une ferme de petits fruits ferment leurs photographies ; le site du Château de
+   Calavon ne répond pas (règle 237) ; le magasin Biomonde est sous gabarit de réseau (règle 273). **Une seule.**
+3. **Lançon-Provence** (9 915) — La Ville publie le marché du mardi (8h-12h30) et le petit marché de producteurs du samedi
+   (9h-12h), place du Champ-de-Mars, mais ferme ses images. Les deux domaines qui publient leurs horaires, La Cadenière et
+   Virant, ferment leurs « images » et leurs éléments « visuels » (règles 231 et 245). **Zéro.**
+4. **Saint-Rémy-de-Provence** (9 599) — La Ville n'a pas de page des marchés ; l'office des Alpilles refuse l'agent nommé.
+   Château Romanin et le domaine des Terres Blanches n'autorisent la copie qu'à usage privé (règle 296), le Moulin du Calanquet
+   et la boulangerie Terre et Blé ferment leurs photographies ; les autres producteurs certifiés sont en nom propre ou désignés
+   par un nom de famille (règle 259). **Zéro.**
+5. **La Fare-les-Oliviers** (9 039) — Marché du samedi, 8h-13h, cours Charles-Galland, sur la page de la Ville ; sa seule
+   photographie fait 370 px (règle 59) et le bandeau est une image de banque (règle 70). Le moulin oléicole du domaine de
+   Calabrun ne publie pas d'horaires de boutique (règle 136). **Zéro.**
+6. **Velaux** (8 941) — Ville fermée pour les images ; producteurs en nom propre ou désignés par un prénom. **Zéro.**
+7. **Roquevaire** (8 915) — Marché du vendredi, 8h-12h30, cours Négrel-Féraud, sans aucune famille de produits (règle 197) ;
+   les producteurs certifiés sont désignés par un prénom ou un nom. **Zéro.**
+8. **Saint-Chamas** (8 676) — La Ville refuse l'agent nommé (règle 257). **Zéro.**
+9. **Port-Saint-Louis-du-Rhône** (8 573) — La page « Marchés » de la Ville (mise à jour le 15 décembre 2025) décrit le marché
+   provençal du mercredi matin, avenue du Port, et le petit marché du samedi matin au Faubourg Hardon, **sans heure**, et
+   aucune autre page communale ni l'office de tourisme ne les cite (règles 9 et 178) ; ses deux photographies de marché
+   (2 500 px, © Ville) se recadreraient sans visage. Les conchyliculteurs de Carteau : un site ne répond pas, un autre a un
+   certificat invalide (règle 237), le troisième fait surtout du négoce et ne publie pas d'horaires. **Zéro.**
+10. **Éguilles** (8 479) — Ville fermée ; la ferme maraîchère et le miellier certifiés ne publient pas d'horaires de vente.
+    **Zéro.**
+11. **Venelles** (8 418) — Un seul marché (samedi, sans heure ni lieu sur sa page), Ville fermée. **Zéro.**
+12. **Sausset-les-Pins** (7 574) — Ville fermée ; le seul producteur à site propre a un domaine qui ne répond pas. **Zéro.**
+
+**Reprise dans les Bouches-du-Rhône** : la descente reprend à **Eyguières** (7 119). Fiches entières désignées pour la reprise
+(règle 258) : la Ferme des Roselières (Aubagne), le Moulin des Costes (Pélissanne) et le **domaine Les Béates** (Lambesc).
+Pélissanne et Lambesc sont à une dizaine de kilomètres l’une de l’autre, dans la Métropole d'Aix-Marseille-Provence ; une quatrième fiche
+entière dans la même intercommunalité ouvrirait la règle 302. **Déblocage** nommé pour Port-Saint-Louis-du-Rhône : une heure
+publiée pour l'un de ses marchés par la Ville ou par l'office.
+
+**Hauts-de-Seine : deux communes (règle 248), Courbevoie étant sortie (règle 297).**
+
+1. **Levallois-Perret** (68 092) — Le site de la Ville oppose à tout agent, `robots.txt` compris, une redirection qui exige
+   JavaScript et cookies (règle 212) : il n'est pas lu (règle 237). L'AMAP n'a que des annuaires associatifs (règle 195).
+   **Zéro.**
+2. **Clichy** (64 410) — La page « Halles et marchés » de la Ville donne trois marchés municipaux avec jour, heures et adresse
+   (marché du Centre, 1 place du Marché, mercredi, samedi et dimanche 8h-13h ; marché des Berges de Seine, place des
+   Frères-Lumière, jeudi 12h-20h ; marché Villeneuve, 55 rue Villeneuve, vendredi 12h-20h), mais ses mentions légales rangent
+   les « images animées ou non » parmi ce qu'elles interdisent de reproduire (règle 231), et la plateforme des exposants vers
+   laquelle elle renvoie ne sert qu'une application JavaScript vide de contenu. **Zéro.**
+
+**Reprise dans les Hauts-de-Seine** : la descente reprend à **Antony** (64 263). Courbevoie se rouvre au retour de son site.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; avant instruction, des pistes à Cabriès, Lambesc,
+Saint-Rémy-de-Provence, Velaux et Roquevaire (exploitations désignées par un nom de famille ou un prénom). **Données
+personnelles écartées** : les noms, courriels et portables d'exploitants, de référents d'AMAP et de photographes lus sur les
+sites des domaines, des Villes, des annuaires et au registre de l'Agence Bio ; rien n'en figure ici, dans une fiche ou dans un
+commit.
+
 ### Passe du 24 septembre 2026 (onzième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
