@@ -20444,5 +20444,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+de+Verdun+76300+Sotteville-l%C3%A8s-Rouen",
     "image_url": "/images/marchands/marche-de-verdun-sotteville-les-rouen.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-stalingrad-seclin",
+    "nom": "Marché du lundi de Seclin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.552209,
+    "lon": 3.030075,
+    "adresse": "Place Stalingrad, 59113 Seclin",
+    "horaires": "Le lundi de 8h30 à 12h, place Stalingrad, en centre-ville, selon la Ville de Seclin. Quand la fête foraine occupe la place, le marché est déplacé rue Marx-Dormoy.",
+    "produits": [
+      "Fruits et légumes",
+      "Viande",
+      "Poulet rôti",
+      "Fleurs"
+    ],
+    "description": "Le marché hebdomadaire du centre de Seclin, où la Ville recense bouchers, primeurs et fleuristes à côté des stands de vêtements, et propose des animations avec les commerçants aux fêtes de fin d'année et au printemps. La photographie, publiée par la Ville, montre un étal de légumes du marché du lundi, peut-être sur son emplacement de repli.",
+    "site_web": "https://www.ville-seclin.fr/la-ville/marche-hebdomadaire",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Stalingrad+59113+Seclin",
+    "image_url": "/images/marchands/marche-place-stalingrad-seclin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-ferme-du-paradis-seclin",
+    "nom": "Cueillette de la Ferme du Paradis",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "transport"
+    ],
+    "lat": 50.536081,
+    "lon": 3.016507,
+    "adresse": "200 Rue Roger Bouvry, 59113 Seclin",
+    "horaires": "À partir du 13 mai, 7 jours sur 7 : le lundi de 14h à 19h30, du mardi au vendredi de 9h30 à 12h et de 14h à 19h30, le samedi, le dimanche et les jours fériés de 9h30 à 19h30. À partir du 15 novembre : du mardi au vendredi de 9h30 à 12h et de 14h à 19h, le samedi de 9h30 à 19h (site de la cueillette).",
+    "produits": [
+      "Fruits à cueillir",
+      "Légumes de saison",
+      "Fleurs de saison",
+      "Volailles",
+      "Charcuterie",
+      "Fromages",
+      "Jus de fruits"
+    ],
+    "description": "Cueillette en libre-service du réseau Chapeau de Paille au sud de Seclin, près de la sortie 19 de l'A1, avec une boutique fermière qui complète la récolte par des produits de fermes de la région. La photographie, publiée par la cueillette, montre l'intérieur de sa boutique.",
+    "telephone": "03 20 90 37 76",
+    "site_web": "https://www.cueillettedelafermeduparadis.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=200+Rue+Roger+Bouvry+59113+Seclin",
+    "image_url": "/images/marchands/cueillette-ferme-du-paradis-seclin.jpg"
+  },
+  {
+    "slug": "marche-avenue-des-arts-wattignies",
+    "nom": "Marché de Wattignies",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.58359,
+    "lon": 3.043045,
+    "adresse": "Avenue des Arts, 59139 Wattignies",
+    "horaires": "Le mardi et le vendredi de 8h30 à 12h30. Habituellement place Alain-Pluss, au centre village ; depuis le 2 juin 2026 et pour deux ans, la Ville l'a déplacé avenue des Arts.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Viandes",
+      "Charcuterie italienne",
+      "Volailles",
+      "Fromages",
+      "Pâtisseries",
+      "Fleurs"
+    ],
+    "description": "Le marché alimentaire de plein air de Wattignies, deux matinées par semaine, que la Ville présente comme le reflet du terroir et des traditions culinaires de la région. La photographie, publiée par la Ville et prise un vendredi de marché de 2022 sur la place Alain-Pluss, montre un étal de primeur ; elle est antérieure au déplacement avenue des Arts.",
+    "site_web": "https://www.mairie-wattignies.com/vivre-a-wattignies/wattignies-attractive/developpement-economique/nos-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue+des+Arts+59139+Wattignies",
+    "image_url": "/images/marchands/marche-avenue-des-arts-wattignies.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-dominical-loos",
+    "nom": "Marché dominical de Loos",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.613195,
+    "lon": 3.017143,
+    "adresse": "Place Winston Churchill, 59120 Loos",
+    "horaires": "Le dimanche de 8h à 13h, place Winston-Churchill, face à la gare SNCF, selon la Ville de Loos.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poisson",
+      "Rôtisserie",
+      "Pain",
+      "Charcuterie",
+      "Fleurs"
+    ],
+    "description": "Le marché du dimanche matin de Loos, plus de trente commerçants et artisans devant la gare, où la Ville recense primeurs, fromagers, poissonnier, rôtisseur, boulanger et charcutiers, et offre chaque semaine un emplacement à une association loossoise. Photo thématique : l'étal d'un poissonnier du marché de la Collégiale, publiée par la Ville de Seclin ; elle ne montre pas le marché de Loos.",
+    "site_web": "https://www.loos.fr/fr/economie-et-emploi/commerces/le-marche-dominical",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Winston+Churchill+59120+Loos",
+    "image_url": "/images/marchands/marche-dominical-loos.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-vieux-lille",
+    "nom": "Marché du Vieux-Lille",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.642412,
+    "lon": 3.061217,
+    "adresse": "Place du Concert, 59800 Lille",
+    "horaires": "Le mercredi, le vendredi et le dimanche de 7h à 14h, place du Concert, selon la Ville de Lille.",
+    "produits": [
+      "Produits bio et régionaux",
+      "Fruits et légumes",
+      "Fromages",
+      "Boucherie",
+      "Volailles",
+      "Produits orientaux et asiatiques"
+    ],
+    "description": "Le marché de la place du Concert, trois fois par semaine dans le Vieux-Lille, où la Ville signale des produits bio et régionaux à côté des primeurs, fromagers, bouchers et volaillers, ainsi que des stands de textile et de confiserie. Photo thématique : le comptoir d'un marchand de vrac du marché de la Collégiale, publiée par la Ville de Seclin ; elle ne montre pas le marché du Vieux-Lille.",
+    "site_web": "https://www.lille.fr/Nos-equipements/Marche-du-Vieux-Lille",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Concert+59800+Lille",
+    "image_url": "/images/marchands/marche-du-vieux-lille.jpg",
+    "a_confirmer": true
   }
 ]

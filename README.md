@@ -3689,9 +3689,39 @@ prioritaires en cas de conflit.
      marché vend, et la liste des déblocages de la règle 197 ne nomme que du texte (page propre, liste d'exposants, panneau
      lisible). Les deux marchés attendent en pistes, photographies retenues.
 
+293. **Wikimedia Commons reste fermé comme source d'image, même pour un fichier versé au domaine public (CC0).** À
+     Saint-Ouen-sur-Seine, la seule photographie permise du marché du Landy est un fichier CC0 de Commons, pris un samedi de
+     marché et sans personne. `AGENT.md` écarte Commons parce que le CC BY-SA impose une attribution que le site ne gère pas ; un
+     fichier CC0 n'en impose pas. **Tranché ainsi** : la consigne de la passe écarte Commons sans distinguer les licences, et une
+     licence se lit fichier par fichier, avec des erreurs de versement qu'aucune passe ne peut contrôler ; Commons n'est donc
+     consulté ni pour les faits d'image ni pour l'illustration, quelle que soit la licence affichée. Le marché du Landy attend en
+     pistes avec ses faits.
+
+294. **Un `robots.txt` qui nomme les agents d'IA pour ne leur interdire qu'un chemin ferme ce chemin, pas le site.** À Raismes,
+     le `robots.txt` de la Ville énumère `ClaudeBot`, `anthropic-ai`, `GPTBot` et d'autres, puis ne leur interdit que
+     `/fileadmin/`, le dossier qui porte toutes les photographies et tous les documents de la Ville. Les règles 77 et 149
+     traitaient une exclusion de tout le site. **Tranché ainsi** : l'exclusion nommée vaut pour ce qu'elle désigne ; les pages
+     restent lisibles pour les faits, et tout ce qui est servi sous le chemin interdit est fermé comme source d'image, sans
+     recours à une copie servie ailleurs. Ici la règle ne change rien au résultat : Raismes n'a aucune image permise.
+
+295. **Une commune qui a déjà des fiches peut compléter le groupe d'une autre commune dans les limites de la règle 96.** Seclin
+     rend deux fiches entières (règle 127) ; son intercommunalité, la Métropole Européenne de Lille, en rend trois autres à moins
+     de quinze kilomètres : le marché de Wattignies (4,3 km), le marché dominical de Loos (7,6 km) et le marché du Vieux-Lille
+     (11 km). Lille a déjà cinq fiches. La règle 41.d choisit la commune calculée parmi les communes sans fiche, mais la règle 96
+     ne demande rien de tel aux fiches qui la complètent. **Tranché ainsi** : le critère « sans fiche » vaut pour la commune
+     calculée seule ; une fiche complémentaire peut se trouver dans une commune déjà couverte, pourvu qu'elle soit un lieu nouveau
+     et qu'elle respecte la distance, l'intercommunalité et l'image. Parmi les pistes déjà instruites, la passe prend d'abord
+     celles que les sections désignent comme entières ou « premières à reprendre » : Wattignies (entier), puis Loos (entier sauf
+     l'image), puis le Vieux-Lille (« premier à reprendre » à Lille). Les deux dernières prennent chacune une photographie
+     thématique différente de la Ville de Seclin (règle 272), celles du marché de la Collégiale, qui n'est pas publié.
+
 ## Marchands à confirmer
 
-686 fiches sur 768 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+690 fiches sur 773 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du lundi de Seclin** (Seclin) (catégorie `marche`. Heures et lieu : page « Marchés hebdomadaires » de la Ville (non datée) et article de la Ville d'août 2023 ; un article d'octobre 2025 atteste qu'il se tient toujours place Stalingrad. **Produits** : « bouchers, primeurs, fleuristes » (page de la Ville), « fruits, légumes, viande, poulet rôti » (article de 2023). **Image** : photographie de la Ville (781 px, la plus grande taille que la page sert, règle 255), recadrée sous les visages des exposants ; sans EXIF, la règle 140 ne peut pas être vérifiée, et elle vient d'un article sur le déplacement du marché : elle peut montrer l'emplacement de repli, la fiche le dit.)
+- **Marché de Wattignies** (Wattignies) (catégorie `marche`. Page « Nos marchés » de la Ville : mardi et vendredi 8h30-12h30, déplacé avenue des Arts depuis le 2 juin 2026 pour deux ans (règle 157) ; le point est celui de la rue dans la BAN. **Image** : photographie de la Ville prise le vendredi 25 mars 2022 à 10h26 (règle 140), place Alain-Pluss, donc avant le déplacement ; recadrée sur l'étal d'un primeur, sans passant et sans l'enseigne d'un fromager formée d'un nom de famille. Les commerçants que la Ville nomme ne sont pas repris.)
+- **Marché dominical de Loos** (Loos) (catégorie `marche`. Page « Le marché dominical » de la Ville : dimanche 8h-13h, place Winston-Churchill ; la page ne porte pas de date. **Image** : la Ville de Loos ferme ses photographies ; photographie thématique de la Ville de Seclin (règles 272 et 295), l'étal d'un poissonnier du marché de la Collégiale, recadrée sous le visage du commerçant ; elle ne montre pas le marché de Loos.)
+- **Marché du Vieux-Lille** (Lille) (catégorie `marche`. Page d'équipement et liste « Les marchés lillois » de la Ville de Lille, non datées : mercredi, vendredi et dimanche 7h-14h. **Image** : `lille.fr` interdit la reproduction de ses images ; photographie thématique de la Ville de Seclin (règles 272 et 295), le comptoir d'un marchand de vrac du marché de la Collégiale, recadrée sous le visage du commerçant ; elle ne montre pas le marché lillois.)
 - **Le Producteur Local — Champ des Bruyères** (Saint-Étienne-du-Rouvray) (catégorie `producteur`, boutique coopérative (règle 105), précédent de Beauvais. **Registre, règle 6** : établissement actif au 5 allée du Champ de Course, ouvert en août 2023, rattaché à la société coopérative de Belbeuf, ce qui explique le numéro commun aux deux boutiques. **Horaires, règle 5** : du lundi au samedi pour la coopérative (2026), du mardi au samedi pour la Métropole (2023) ; la version du commerçant, plus récente, est publiée et l'autre citée. **Point** : la BAN ne connaît pas l'allée du Champ de Course et le registre ne géocode pas l'établissement ; le point est celui que l'annuaire Mon Panier 76 du Département donne à la Maison du Parc (règle 287). **Photo, règles 1, 228 et 239** : le site de la coopérative réserve ses « représentations photographiques » ; la fiche porte la vue d'ensemble du parc publiée par la Métropole, qui autorise la reproduction électronique en citant la source avec la mention « Droits réservés ». Elle ne montre pas la boutique.)
 - **Ferme pédagogique du Champ des Bruyères — mercredis de Triticum** (Saint-Étienne-du-Rouvray) (catégorie `ferme`. **Association** : le registre ne s'applique pas (règle 6) ; l'association est active à son siège rouennais, et le registre de l'Agence Bio inscrit la ferme des Bruyères parmi ses lieux d'activité (céréales et légumes, certification en cours). **Source datée** : la page de la ferme annonce le programme du parc de juillet à décembre 2026. **Point** : la BAN au numéro 7 de la rue du Madrillet (0,972), en face de l'entrée ; le point de l'Agence Bio est à 50 m. **Piliers** : pas `economie`, la vente n'étant qu'un volet d'une ferme d'animation. **Photo** : une parcelle de blés en moisson publiée par l'association, dont les mentions légales ne disent rien des images, recadrée sur les épis pour écarter trois personnes au travail. La photographie du moulin publiée par l'association montre un autre lieu, sous son logo : elle n'est pas utilisée.)
 - **Marchés de la place Voltaire** (Sotteville-lès-Rouen) (catégorie `marche`. Heures du mardi : page des marchés de la Ville, modifiée en juillet 2026. **Produits** : aucune source ne publie les étals du mardi ; les trois produits cités sont ceux que la Ville annonce pour ses marchés de fin de journée sur la même place (règle 103). **Photo** : un étal du marché de fin de journée d'avril 2025, publiée par la Ville ; le paragraphe « Propriété intellectuelle » ne parle que de « contenus » (règle 231). Recadrée sous la ligne des visages.)
@@ -10762,6 +10792,99 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Seclin (Nord) : cinq fiches publiées dans la Métropole Européenne de Lille
+
+Passe du 24 septembre 2026 (nuit, troisième après Saint-Étienne-du-Rouvray). Aucune demande de visiteur (ni nouvelle, ni en
+cours), aucun courriel. **Classement, règle 41**, recalculé sur 768 fiches, sans changement : Oise 5,2434, Landes 4,8291,
+Eure-et-Loir 4,8242 et Val-d'Oise 4,2751 (épuisés, règle 265), **Nord (59) 4,1330**, **Seine-Saint-Denis (93) 3,9827**. La
+dernière passe qui a publié visait la Normandie : ni les Hauts-de-France ni l'Île-de-France ne sont exclus (règle 41.c).
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266) : `www.capbreton.fr` ne répond pas (règle 237), pas de source datée
+pour l'antenne de Capbreton, le groupe reste à quatre points. Nord (règle 288) : Ronchin et Saint-Amand-les-Eaux servent toujours
+la page « Le service est actuellement en maintenance » (503) ; elles sortent de la descente sans entamer la borne (règle 290).
+
+**Nord : descente reprise à Bailleul (règles 247 et 127).** Roncq et Anzin ont déjà une fiche et ne sont pas des communes calculées.
+
+1. **Bailleul** (14 732) — La Ville sert la page de maintenance (503) : réessai à la prochaine passe dans le Nord (règle 288). Le
+   magasin de producteurs **Au Rond Point Fermier** (avenue de l'Europe) est entier : horaires, produits, téléphone fixe et
+   photographie de la boutique sur son propre site, sans clause. Le magasin bio voisin sert ses images par un redimensionneur au
+   `robots.txt` illisible (règle 256) et ne publie pas ses producteurs (règle 86) ; les deux marchés n'ont pas de famille de
+   produits écrite hors de la page de la Ville, en panne (règle 197). **Une seule.**
+2. **Hautmont** (14 152) — La Ville ferme ses « représentations iconographiques et photographiques » ; son marché n'a pas
+   d'heures publiées ; l'office de l'Avesnois refuse l'agent nommé (règle 257). **Zéro.**
+3. **Lys-lez-Lannoy** (14 050) — Photographies réservées à l'usage privé (règle 246) ; le marché partagé avec Lannoy n'a
+   qu'une illustration vectorielle. **Zéro.**
+4. **Caudry** (13 833) — La Ville, l'agglomération et les offices du Cambrésis refusent l'agent nommé (règle 257). **Zéro.**
+5. **Mouvaux** (13 369) — Le marché du jeudi est documenté par la Ville (modifiée le 3 septembre 2026), mais la seule
+   photographie montre des visages identifiables et son recadrage net fait 585 px, sous le plancher de la règle 59 ; le lieu
+   diffère aussi entre deux pages. Le magasin bio de la rue Franklin-Roosevelt a des conditions qui nomment les photographies
+   (règle 245). **Zéro.**
+6. **Seclin** (13 261) — **Deux fiches entières, la commune fait la passe** (voir plus bas).
+
+**Seclin : la zone (règles 127, 96, 272 et 295).** Dans la commune : le **marché du lundi**, place Stalingrad (8h30-12h), et la
+**Cueillette de la Ferme du Paradis**, rue Roger-Bouvry, cueillette et boutique fermière du réseau Chapeau de Paille. La Ville de
+Seclin et le site de la cueillette sont ouverts à l'agent nommé, sans clause qui nomme les photographies. La Métropole Européenne
+de Lille complète le groupe avec trois pistes déjà instruites, revérifiées sur les pages des Villes le 24 septembre 2026 :
+le **marché de Wattignies** (entier, page « Nos marchés » de `mairie-wattignies.com`), le **marché dominical de Loos**
+(entier sauf l'image) et le **marché du Vieux-Lille** (« premier à reprendre » dans les pistes de Lille). Distances depuis le
+centre de Seclin donné par `geo.api.gouv.fr` : Wattignies 4,3 km, Loos 7,6 km, Vieux-Lille 11 km, toutes sous les quinze
+kilomètres de la règle 96. Loos et Lille ferment leurs photographies : chacune prend une photographie thématique différente de la
+Ville de Seclin, prise au marché de la Collégiale, qui n'est pas publié (règle 272), et la fiche dit qu'elle ne montre pas le lieu.
+Les six communes suivantes de la borne (Saint-André-lez-Lille, Comines, Marquette-lez-Lille, Raismes, Marly, Somain) avaient été
+éprouvées en parallèle ; elles ne comptent pas pour la reprise, mais leurs constats sont consignés ci-dessous pour la prochaine
+passe.
+
+**Contradictions et choix** :
+- **Seclin, marché de la Collégiale** : la page de la Ville dit encore mardi de 16h à 19h, un article de juin 2024 annonce un
+  vendredi de 16h à 20h. Contradiction non tranchée par une source récente : rien n'est publié, mais ses photographies servent de
+  thématiques (règle 272).
+- **Seclin, marché du lundi** : sa photographie vient d'un article sur le déplacement du marché ; la fiche dit qu'elle peut
+  montrer l'emplacement de repli, rue Marx-Dormoy.
+- **Wattignies** : la photographie date de 2022, place Alain-Pluss, avant le déplacement avenue des Arts ; la fiche le dit. Le
+  point est celui de l'avenue dans la BAN, faute d'emplacement plus précis publié.
+- **Cueillette** : l'établissement actif au registre est inscrit sous le nom de son exploitant ; seule l'enseigne, un nom de lieu,
+  est publiée (règle 259). Les fermes partenaires que nomme la boutique ne sont pas reprises.
+
+**Constats hors zone, pour la prochaine passe dans le Nord** :
+- **Saint-André-lez-Lille** (13 233) — le marché du mardi, place du Général-De-Gaulle, est entier (produits écrits par la Ville
+  pour une animation d'octobre 2026, photographie de la Ville sans clause) ; le marché du samedi n'a pour produits que « uniquement
+  marché alimentaire » et une liste commune aux deux marchés (règle 197). **Une seule.**
+- **Comines** — la Ville refuse l'agent nommé (règle 257). **Zéro.**
+- **Marquette-lez-Lille** — aucune page de marché en vigueur sur le site de la Ville. **Zéro.**
+- **Raismes** — `robots.txt` qui nomme les agents d'IA et leur ferme le dossier des images (règle 294) ; le chantier d'insertion
+  maraîcher et le verger en cueillette refusent l'agent nommé ou filtrent les robots. **Zéro.**
+- **Marly** — site de la Ville indisponible (503, sans page de maintenance : règle 237). **Zéro.**
+- **Somain** — marché du jeudi entier sur les faits, photographie de la Ville prise un jeudi ; mais « alimentation (dont des
+  produits bio) » est une famille mince, et le magasin bio relève de la règle 86. **Une seule.**
+
+**Seine-Saint-Denis** : éprouvée en parallèle, sans publication. **Bobigny** : photographies sous « © » sans permission (règle
+291) et réservées à l'usage privé (règle 246) ; marchés sans heures ni produits propres ; l'AMAP distribue dans un immeuble
+d'habitation (règle 243). **Saint-Ouen-sur-Seine** : la Ville nomme les images dans son interdiction (règle 231) ; le marché du
+Landy est entier sur les faits (8h-13h pour la Ville, 8h-14h pour l'office, règle 5) mais sa seule image permise est sur Commons
+(règle 293).
+
+**Pistes non publiées dans le Nord et en Seine-Saint-Denis** :
+- **Au Rond Point Fermier, Bailleul** — fiche entière désignée pour la reprise (règle 249), dans la limite de la Flandre
+  Intérieure et de quinze kilomètres ;
+- **marché du mardi de Saint-André-lez-Lille** — entier ; attend une seconde fiche entière dans la commune ;
+- **marché du jeudi de Somain** — entier sur les faits ; attend une seconde fiche entière dans la commune ;
+- **marché du jeudi de Mouvaux** — déblocage : une photographie sans visage identifiable d'au moins 600 px, et un lieu unique ;
+- **marchés de Bailleul** — déblocage : le retour de la page de la Ville ;
+- **marché du Landy, Saint-Ouen-sur-Seine** — entier sauf l'image ; déblocage : une photographie permise hors Commons.
+
+**Reprise** : la prochaine passe qui vise le Nord réessaie d'abord Bailleul (règle 288), puis reprend la descente à
+**Saint-André-lez-Lille**, dont les constats ci-dessus peuvent être repris sans refaire les recherches, et descend ensuite
+jusqu'à Somain puis Bruay-sur-l'Escaut. En Seine-Saint-Denis, la descente reprend à **Épinay-sur-Seine**
+(52 833). Après publication, le classement se recalcule sur 773 fiches ; la prochaine passe ne peut pas viser les
+Hauts-de-France (règle 41.c).
+
+**Données personnelles écartées** : des exploitations et commerces inscrits sous le nom de leur exploitant au registre bio à
+Bailleul, Comines, Mouvaux, Seclin, Bobigny et Saint-Ouen-sur-Seine ; les commerçants que la Ville de Wattignies nomme sur sa page
+des marchés, dont l'enseigne d'un fromager formée d'un nom de famille, sortie du recadrage ; les fermes partenaires nommées par la
+cueillette et par le magasin de Bailleul ; un numéro mobile de ce magasin ; les visages des commerçants sur les photographies de
+Seclin et de Wattignies, sortis du cadre ; les noms cités dans les mentions légales des Villes. Aucun n'apparaît ici, dans un
+commit ni dans un nom de fichier.
 
 ### Passe du 24 septembre 2026 (seconde de la nuit) : Nord et Seine-Saint-Denis, aucune publication
 
