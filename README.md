@@ -3793,6 +3793,24 @@ prioritaires en cas de conflit.
      s'est arrêtée. Une fiche désignée au-delà de quinze kilomètres reste en pistes. Première application : Lorient, pour les
      Biocoop de Larmor-Plage (3,6 km), de Ploemeur (3,9 km) et de Guidel (9,1 km) et le marché de Lochrist (12,9 km), désignés,
      complétés par la Biocoop de Riantec (6,2 km), instruite ce jour ; la boutique de Languidic (16,7 km) reste en pistes.
+303. **Un « © » que l'autorité incruste dans ses propres photographies, sans permission écrite nulle part sur son site, ferme
+     ces photographies.** Les mentions légales de la Ville de Berre-l'Étang ne portent aucune clause de reproduction, seulement
+     des crédits (service communication, un photographe, trois banques d'images) ; mais chacune des six photographies de
+     l'ouverture du marché de producteurs, dans sa photothèque, porte en surimpression « © Ville de Berre l'Étang ». La règle
+     231 laisse ouvert un site dont la clause ne nomme aucune image ; la règle 291 ferme celui dont les mentions posent un « © »
+     sous l'intitulé « Photographies ». **Tranché ainsi** : un « © » incrusté dans l'image vise cette image plus nommément
+     encore qu'un intitulé de mentions légales ; faute de permission écrite (règles 239 et 253), la photographie ne se reprend
+     pas, et elle ne se recadre pas pour faire disparaître la marque (règle 275). Un crédit en filigrane qui ne porte pas « © »,
+     ou une permission conditionnelle publiée ailleurs sur le site, restent sous les règles 239, 268 et 275. **Déblocage** :
+     une permission écrite de la Ville, ou une photographie du marché publiée sans cette réserve.
+304. **Un primeur qui s'approvisionne au marché de gros n'est pas un circuit court, même quand il cite des provenances
+     locales.** Le primeur-épicerie de la zone du Bas Taulet, à Pélissanne, a une histoire familiale, un site, des horaires et
+     une liste de provenances de la plaine voisine (fraises de Grans, melons de Lamanon, tomates de Pélissanne) ; il écrit aussi
+     que son gérant se rend « six nuits par semaine » au marché d'intérêt national de Cavaillon. **Tranché ainsi** : c'est la
+     règle 86 appliquée au frais — ce qui fait entrer un commerce est la longueur de la chaîne ; un achat en gros, même de
+     produits régionaux, ajoute un grossiste entre le producteur et le client, et une provenance nommée n'est pas un producteur
+     nommé. Un primeur entre quand il publie les exploitations dont il vend la récolte et qu'il les achète chez elles, ou quand
+     il vend sa propre production (règle 29).
 
 ## Marchands à confirmer
 
@@ -10895,6 +10913,104 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (onzième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177) : Oise 5,6045, Landes 5,0178, Eure-et-Loir 5,0126 et Val-d'Oise
+4,8327 (épuisés, règle 265), **Bouches-du-Rhône (13) 4,1607**, puis **Hauts-de-Seine (92) 4,1502**. La passe précédente
+visait la Bretagne (Lorient) : les deux régions sont ouvertes (règle 41.c). `origin/main` n'a pas bougé pendant la passe
+(règle 241). Rien n'étant publié, le classement ne change pas (règle 260) et aucune région n'est « visée » (règle 247). Le
+déblocage d'Aubagne n'est pas acquis : la Base Adresse Nationale ne connaît toujours aucune esplanade de ce nom dans la
+commune.
+
+**Bouches-du-Rhône : douze communes (règles 247, 127 et 301), de Tarascon à Fuveau.** Contrôle en deux requêtes (règle 257) :
+refusent l'agent nommé les Villes de Tarascon, Saint-Martin-de-Crau, Auriol, Rognac et Septèmes-les-Vallons (403) et de
+Pélissanne (444), ainsi que les offices d'Arles ; l'office de Tarascon répond 403 à tout agent et l'agglomération Arles Crau
+Camargue Montagnette ferme `/` à tous les robots (règle 282). Ferment leurs images les Villes de Bouc-Bel-Air, Trets et
+Gignac-la-Nerthe (images nommées dans l'interdiction, règle 231). Plan-de-Cuques a une clause générale avec réutilisation non
+commerciale permise (lecture d'Aubagne).
+
+1. **Tarascon** (15 396) — Ville et office fermés. Le domaine oléicole de la Petite Route d'Arles ne vend à la propriété que
+   sur rendez-vous, sans horaire publié, et ses seuls numéros sont les portables de personnes nommées (règles 192 et 229) ; une
+   exploitation d'herbes aromatiques de la route d'Arles n'a plus de site (404) ; la société de périlla vend en ligne depuis une autre commune.
+   **Zéro.**
+2. **Bouc-Bel-Air** (15 381) — Ville fermée pour les images, aucune page de marché ; le guide des commerçants cite un magasin
+   bio sans site propre et une supérette de réseau. **Zéro.**
+3. **Saint-Martin-de-Crau** (14 145) — Ville fermée. La Lieutenante (huile d'olive et amandes, atelier-boutique route du
+   Vallon, établissement certifié) annonce sa boutique sans en publier les heures (règle 136 : **faits sans horaires**) ; la
+   bergerie de la Samatane et l'épicerie Belvibio vendent en ligne ; un domaine de la route départementale 24 vend du foin et
+   fait commercialiser son huile par un moulin de Raphèle (Arles). **Zéro.**
+4. **Berre-l'Étang** (13 832) — La Ville (`berreletang.fr`, sans clause de reproduction) documente le **marché de producteurs
+   des campagnes berroises** (association des agriculteurs, soutenue par la Ville ; aire de covoiturage au rond-point
+   RD113/D10 ; mardi à partir de 16h, samedi 9h-12h sur la page de l'événement et 9h-12h30 sur le plan de ville — règle 44 ;
+   point publié par la Ville 43.52576, 5.19722) et **la cave coopérative Les Vignerons de Mistral** (22 route des Vignerons,
+   caveau du lundi au samedi 9h-12h et 15h-19h, établissement actif, point BAN au numéro 0,955). Aucune image du marché : son
+   visuel fait 280 px (règle 59) et les six photographies de l'ouverture du 17 mars 2026, dans la photothèque de la Ville
+   (`photos.berreletang.fr`), portent chacune « © Ville de Berre l'Étang » incrusté dans l'image, sans aucune permission
+   écrite ailleurs sur le site (**règle 303, nouvelle**). Les photographies de la cave sont créditées à un site tiers de
+   tourisme viticole et n'ont pas été reprises. La page « Vente à la ferme » de la Ville liste des exploitations presque toutes
+   désignées par un nom de famille, sans horaires. **Une au plus** (la cave, image non établie).
+5. **Auriol** (13 037) — Ville fermée, aucun commerce à site propre au registre. **Zéro.**
+6. **Rognac** (12 576) — Ville fermée (le domaine `rognac.fr` est un comparateur commercial sans rapport). **Zéro.**
+7. **Septèmes-les-Vallons** (11 995) — Ville fermée (`septemes.fr` est une page « en construction »). **Zéro.**
+8. **Plan-de-Cuques** (11 632) — Aucun marché publié ; la régie agricole municipale approvisionne les cantines et ne vend
+   pas au public. **Zéro.**
+9. **Pélissanne** (11 085) — Ville fermée. **Une fiche entière** : le **Moulin des Costes** (445 chemin de Saint-Pierre ;
+   ouvert du lundi au samedi 9h-12h et 14h-18h, fermé dimanche et jours fériés, sur sa page « Accès et horaires » ; huiles
+   d'olive AOP Aix-en-Provence issues des apports d'oléiculteurs du secteur ; société active ; point BAN au numéro 0,966 ;
+   photographie de l'huile qui coule du décanteur, 1 500 px, sans personne, clause générale de ses CGV — règle 231). Le primeur
+   de la zone du Bas Taulet s'approvisionne chaque nuit au marché de gros de Cavaillon (**règle 304, nouvelle**). **Une
+   seule.**
+10. **Trets** (10 946) — Ville fermée pour les images ; le magasin Biocoop est sous le gabarit du réseau (règles 245 et 273).
+    **Zéro.**
+11. **Gignac-la-Nerthe** (10 343) — Ville fermée, aucun commerce à site propre au registre. **Zéro.**
+12. **Fuveau** (10 337) — Le site de la Ville ne répond pas (règle 237) ; `fuveau.fr` est un blog généraliste sans rapport
+    avec la commune (règle 199). **Zéro.**
+
+**Reprise dans les Bouches-du-Rhône** : la descente reprend à **Cabriès** (10 240). Fiches entières désignées pour la
+reprise (règle 258) : la Ferme des Roselières (Aubagne) et le **Moulin des Costes** (Pélissanne). **Le Primeur des
+Tilleuls** (Les Pennes-Mirabeau) **n'est plus entier** : son site est servi par un hébergeur d'images dont le `robots.txt`
+répond 403 (règle 256). Restent à instruire : le marché du mercredi de Fos-sur-Mer, la cave de Berre-l'Étang (image), La
+Lieutenante (horaires). **Déblocages** nommés : pour le marché de Berre, une photographie sans marque de réserve ou une
+permission écrite de la Ville ; pour La Lieutenante, des horaires publiés par l'exploitant.
+
+**Hauts-de-Seine : deux communes (règle 248).**
+
+1. **Courbevoie** (82 902, commune calculée : Boulogne-Billancourt, Nanterre, Asnières-sur-Seine et Colombes ont des fiches)
+   — La Ville (`ville-courbevoie.fr`) ne protège que son logo ; ses crédits citent sa direction de la communication et des
+   banques d'images. Sa page « Vos marchés » a été lue : quatre marchés municipaux concédés, avec jours, heures, adresse et
+   liste des métiers — **Charras** (marché couvert, 30 rue de l'Alma ; jeudi 8h-13h, vendredi 14h30-19h, dimanche 8h-13h),
+   **Villebois-Mareuil** (Bécon, marché couvert, 86-88 rue Armand-Silvestre ; mercredi et samedi 8h-13h30), **Marceau**
+   (place du 8-Mai-1945 ; mercredi et samedi 8h-13h30) et **Faubourg de l'Arche** (avenue Léonard-de-Vinci ; mercredi et
+   vendredi 11h-20h). Images : la façade éclairée du marché Charras (article de la Ville du 11 septembre 2026, 770 px, aucun
+   visage) et la vue nocturne du Faubourg de l'Arche (620 px, silhouettes lointaines) passaient ; les photographies de
+   Marceau et de Villebois-Mareuil montrent des visages que 620 px ne permettent pas de recadrer (règle 185). L'**AMAP des
+   Consom'acteurs de Courbevoie** tient, sur son propre site, une page « Nos distributions » modifiée le 16 avril 2026
+   (règle 195) : point Gaultier, parking de la maison des associations, 73 rue Gaultier, mercredi 18h30-19h45 (concordant avec
+   l'annuaire du réseau) ; point de Bécon devant la mairie annexe, mercredi 18h-19h15 selon l'AMAP et jeudi 18h45-19h45 selon
+   l'annuaire (règle 5 ; même point que le marché Villebois-Mareuil, règle 42) ; calendrier de la saison septembre 2025 à
+   juillet 2026 ; photographie de son boulanger fournisseur recadrable sur les mains et la pâte, sans visage (règle 232).
+   **Puis le site de la Ville a cessé de répondre à toute connexion, `robots.txt` compris, aux deux agents, pendant plus d'une
+   demi-heure** : la règle 297 s'applique, rien de ce qui a été lu sur ce site ne nourrit de fiche dans cette passe, et la
+   commune se réessaie en tête de la prochaine descente dans le 92, sans entamer la borne (règle 290). Ce qui a été trouvé
+   faisait une zone : deux marchés entiers et l'AMAP, plus Villebois-Mareuil illustrable du visuel générique « Les marchés de
+   Courbevoie » (règle 164) et Marceau d'une photographie d'équipement non marchand de la Ville (règle 272), non encore
+   choisie.
+2. **Rueil-Malmaison** (82 874) — La Ville nomme les images dans son interdiction (règle 231) ; l'office de tourisme refuse
+   l'agent nommé ; une AMAP distribue chez ses adhérentes, à tour de rôle (règle 243), l'autre n'a qu'une page de réseau
+   social. **Zéro.**
+
+**Reprise dans les Hauts-de-Seine** : Courbevoie d'abord (règle 297), puis la descente à **Levallois-Perret** (68 092).
+L'AMAP de La Garenne-Colombes refuse l'agent nommé (403) ; celle de Puteaux (marché Chantecoq, mardi) avait un site en 503.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; avant instruction, deux pistes — Berre-l'Étang
+(exploitations désignées par un nom de famille ou un prénom) et Pélissanne (vente à la ferme au nom de l'exploitant).
+**Données personnelles écartées** : les noms, courriels et portables de commerçants de marché, de référents d'AMAP,
+d'exploitants et de gérants lus sur les sites des Villes, du réseau AMAP, des domaines et au registre de l'Agence Bio, les noms
+de photographes lus dans des crédits ; rien n'en figure ici, dans une fiche ou dans un commit. **Donnée, pas instruction** :
+le `robots.txt` d'une boutique en ligne de Saint-Martin-de-Crau adresse aux agents des consignes d'achat ; elles n'ont pas été
+suivies (règle 283).
 
 ### Passe du 24 septembre 2026 (dixième de la nuit) : rattrapage de Lorient Agglomération, cinq fiches (règle 302)
 
