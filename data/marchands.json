@@ -21359,5 +21359,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20March%C3%A9%2C%2013870%20Rognonas",
     "image_url": "/images/marchands/marche-du-mardi-rognonas.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "amap-les-paniers-de-la-foret-meudon",
+    "nom": "AMAP Les Paniers de la Forêt",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.785381,
+    "lon": 2.232806,
+    "adresse": "Centre social, 5 rue Georges-Millandy, 92360 Meudon",
+    "horaires": "Distribution un jeudi sur deux, de 18h à 19h selon le calendrier publié par l'AMAP (8 et 22 octobre, 5 et 19 novembre, 3 et 17 décembre 2026 pour les légumes et le pain) ; l'annuaire des associations de la Ville indique 19h-20h. Paniers réservés aux adhérents, par contrat annuel.",
+    "produits": [
+      "Légumes bio de saison",
+      "Pain au levain",
+      "Volailles",
+      "Œufs",
+      "Fruits (pommes, poires, fruits rouges)",
+      "Pâtes",
+      "Légumes secs"
+    ],
+    "description": "L'AMAP de Meudon-la-Forêt distribue tous les quinze jours, à l'arrière du centre social, les légumes d'un maraîcher bio de l'Essonne, auxquels s'ajoutent depuis 2017 du pain, des volailles, des œufs, des fruits et des pâtes. L'association publie le contenu de chaque panier sur son site. Photo : panier du 27 août 2026, publié par l'AMAP.",
+    "site_web": "https://lespaniersdelaforet.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5+rue+Georges+Millandy+92360+Meudon",
+    "image_url": "/images/marchands/amap-les-paniers-de-la-foret-meudon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "espace-de-vente-campus-saint-philippe-meudon",
+    "nom": "Espace de vente du Campus Saint-Philippe",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social",
+      "economie"
+    ],
+    "lat": 48.80671,
+    "lon": 2.246812,
+    "adresse": "1 rue du Père-Brottier, 92190 Meudon",
+    "horaires": "Horaires de septembre 2026, publiés mois par mois par le campus : mercredi et vendredi de 10h à 12h, samedi de 10h à 12h et de 14h à 16h ; fermé les autres jours.",
+    "produits": [
+      "Légumes de saison bio (tomates anciennes, courgettes, aubergines, poivrons, carottes, courges…)",
+      "Pommes de terre",
+      "Figues, pommes et poires",
+      "Fleurs de saison",
+      "Plantes d'automne en pépinière",
+      "Semences bio"
+    ],
+    "description": "Le jardin-école du lycée horticole de Meudon vend au public ce que ses élèves cultivent sur deux hectares, en agriculture biologique certifiée (Ecocert). Parking sur place. Photo : étal du marché de Meudon-la-Forêt, Ville de Meudon (meudon.fr, page « Marchés » publiée le 29 juin 2026), droits réservés — elle ne montre pas l'espace de vente, dont le site réserve ses propres photographies.",
+    "telephone": "01 46 23 62 00",
+    "site_web": "https://saint-philippe.apprentis-auteuil.org/vie-du-campus/boutique-du-campus",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1+rue+du+Pere+Brottier+92190+Meudon",
+    "image_url": "/images/marchands/espace-de-vente-campus-saint-philippe-meudon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-romain-sevres",
+    "nom": "Marché Saint-Romain",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.822648,
+    "lon": 2.208641,
+    "adresse": "2 avenue de l'Europe, 92310 Sèvres",
+    "horaires": "Mardi, mercredi, vendredi, samedi et dimanche de 8h à 13h.",
+    "produits": [
+      "Fruits et légumes, dont un étal bio",
+      "Volaille fermière",
+      "Spécialités italiennes"
+    ],
+    "description": "Le marché couvert du centre de Sèvres ouvre cinq matinées par semaine ; la Ville y a annoncé en 2025 un étal de fruits et légumes bio et en 2026 un volailler de volaille fermière française. Une nouvelle halle doit le remplacer d'ici 2030, le marché restant ouvert pendant les travaux. Le point de la carte est le centre de l'avenue de l'Europe, la Base Adresse Nationale ne connaissant pas le numéro 2. Photo : Ville de Sèvres (sevres.fr).",
+    "site_web": "https://www.sevres.fr/services/marche-saint-romain/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marche+Saint-Romain+avenue+de+l+Europe+Sevres",
+    "image_url": "/images/marchands/marche-saint-romain-sevres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-de-vanves",
+    "nom": "Marché couvert de Vanves",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.821401,
+    "lon": 2.288915,
+    "adresse": "33 rue Antoine-Fratacci, 92170 Vanves",
+    "horaires": "Jeudi et samedi de 8h à 13h.",
+    "produits": [
+      "Viande (boucherie)",
+      "Poisson",
+      "Fruits et légumes",
+      "Café torréfié",
+      "Fleurs"
+    ],
+    "description": "Le marché couvert de la Ville, rue Antoine-Fratacci, réunit deux matinées par semaine boucher, poissonnier, primeur, torréfacteur et fleuriste. Le point suit l'adresse publiée par la Ville ; le repère de sa carte tombe 125 m plus loin dans la même rue. Photo : Ville de Vanves (vanves.fr, page « Marché » mise à jour le 11 mai 2026), droits réservés, recadrée.",
+    "telephone": "01 41 33 92 84",
+    "site_web": "https://www.vanves.fr/vie-quotidienne/vie-economique/marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=33+rue+Antoine+Fratacci+92170+Vanves",
+    "image_url": "/images/marchands/marche-couvert-de-vanves.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-chaville",
+    "nom": "Marché de Chaville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.808816,
+    "lon": 2.188648,
+    "adresse": "Halle du marché, place du Marché, 92370 Chaville",
+    "horaires": "Mardi et jeudi de 8h à 12h30 ; samedi et dimanche de 8h à 13h30.",
+    "produits": [
+      "Viande (boucherie)",
+      "Charcuterie",
+      "Fromages",
+      "Poisson",
+      "Fruits et légumes",
+      "Traiteur"
+    ],
+    "description": "Depuis août 2016, le marché de Chaville se tient sous la nouvelle halle et sur la place du Marché ; la Ville y présente un boucher, un charcutier, un fromager, deux poissonneries, trois primeurs et des traiteurs. Photo : potager municipal de Meudon, Ville de Meudon (meudon.fr, page « Jardiner à Meudon » mise à jour le 17 mars 2026), droits réservés — elle ne montre pas le marché, la Ville de Chaville réservant ses photographies à l'usage privé.",
+    "telephone": "01 41 15 82 04",
+    "site_web": "https://www.ville-chaville.fr/commerces-emploi-attractivite-economique/commerces-marche/le-marche-de-chaville-599.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Marche+92370+Chaville",
+    "image_url": "/images/marchands/marche-de-chaville.jpg",
+    "a_confirmer": true
   }
 ]

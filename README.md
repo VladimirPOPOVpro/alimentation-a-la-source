@@ -3851,9 +3851,30 @@ prioritaires en cas de conflit.
      ainsi** : la fiche part, `horaires` donne la demi-journée en disant qu'aucune heure n'est publiée, le lieu est attribué à
      l'office, et la fiche est `a_confirmer`. Un marché dont la commune ne dit pas même le jour reste sous la règle 196.
 
+309. **Les mentions légales du gabarit municipal qui autorisent la « réutilisation non commerciale » en citant l'origine et la date
+     ouvrent aussi les photographies légendées « © <photographe>/Ville » ; la fiche cite la Ville et la date, jamais le
+     photographe.** Meudon et Vanves servent le même gabarit de site : leur section « Propriété intellectuelle » dit que toute
+     reproduction est « en principe conditionnée à l'accord » de la Ville, puis que « la réutilisation non commerciale est
+     autorisée à la condition de respecter l'intégrité des informations » et « d'en préciser l'origine et la date de
+     publication » ; leurs crédits nomment un photographe, et chaque photographie de marché porte une légende « © » à son nom.
+     Les règles 303 et 305 ferment une photographie marquée « © » *faute de permission écrite ailleurs sur le site* ; la règle
+     253 a déjà lu cette même permission, à Oullins-Pierre-Bénite, comme une permission conditionnelle remplie dans la fiche.
+     **Tranché ainsi** : la permission est écrite, dans la section qui fonde la réserve, et la légende « © » ne fait que dire à
+     qui appartient l'image (règle 306) ; la photographie se reprend à la condition de la règle 239 — la description se termine
+     par « Photo : Ville de <commune> (<domaine>, page « <titre> » publiée ou mise à jour le <date>), droits réservés » —, sans
+     autre retouche qu'un recadrage qui retire les visages (règle 46), un redimensionnement et le retrait des métadonnées
+     (règle 235). La source citée est l'éditeur qui pose la condition (règle 268) : le nom du photographe n'apparaît ni dans la
+     fiche, ni dans le fichier, ni dans ce README. Une Ville dont la permission est réservée à l'usage privé reste fermée
+     (règle 296) : c'est le cas de Chaville, dans la même passe.
+
 ## Marchands à confirmer
 
-718 fiches sur 803 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+723 fiches sur 808 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP Les Paniers de la Forêt** (Meudon) (commune calculée, première des deux fiches entières de la règle 127. **Existence, règle 195** : site propre vivant, calendrier des distributions jusqu'en décembre 2026 et compositions de paniers publiées jusqu'au 27 août 2026 ; association déclarée (RNA au site). **Lieu, règles 243 et 299** : distribution au centre social de la rue Georges-Millandy, équipement public, désigné par sa fonction ; BAN au numéro (0,965). **Horaires, règle 5** : 18h-19h au calendrier de l'AMAP, 19h-20h dans l'annuaire de la Ville (notice de septembre 2025) ; les deux sont publiés. **Photo** : panier du 27 août 2026 publié par l'AMAP, dont les mentions légales ne portent aucune clause de reproduction ; aucune personne. Les noms des producteurs partenaires, le nom du président et les portables de l'annuaire municipal ne sont pas repris.)
+- **Espace de vente du Campus Saint-Philippe** (Meudon) (seconde fiche entière de la commune ; `producteur` (règle 4 : le jardin-école vend sa propre production), piliers `alimentation`, `environnement` (engagement Ecocert au registre de l'Agence Bio, production AB 2026), `social` et `economie`. **Registre** : fondation active, établissement du 1 rue du Père-Brottier ouvert. **Horaires** : ceux de septembre 2026 publiés par le campus, qui les renouvelle chaque mois. **Téléphone** : le standard « service au public » ; le numéro portable de l'espace de vente est laissé de côté. **Photo, règles 1, 203 et 309** : le site du campus interdit en toutes lettres la copie de ses photographies (règle 231) ; la fiche prend un étal de légumes du marché de Meudon-la-Forêt — marché non publié (règle 197) — recadré sous la ligne des visages (2 161 px de large avant réduction), avec la mention de la Ville et de la date ; la description dit qu'elle ne montre pas l'espace de vente.)
+- **Marché Saint-Romain** (Sèvres) (**Élargissement, règle 96**, Grand Paris Seine Ouest, à 2,5 km de l'hôtel de ville de Meudon (règle 249 pour le champ `epci`). **Faits** : adresse et horaires de la page « Marché Saint-Romain » de la Ville ; **produits, règle 197** : les articles de la Ville annonçant un étal de fruits et légumes bio (avril 2025) et un volailler de volaille fermière (avril 2026), ainsi qu'un traiteur italien (juin 2025). **Point, règle 10** : la BAN ne connaît pas le numéro 2 et les numéros voisins ne suivent pas une numérotation métrique (règle 37) : centre de la voie, que la fiche dit. **Photo** : façade « Marché St Romain » publiée par la Ville (828 px), dont les mentions légales ne portent aucune clause de reproduction ; une silhouette de profil, lointaine. Les commerçants nommés par les articles ne sont pas repris.)
+- **Marché couvert de Vanves** (Vanves) (**Élargissement, règle 96**, à 3,8 km. **Faits** : page « Marché » de la Ville, mise à jour le 11 mai 2026 — jeudi et samedi 8h-13h, métiers nommés. **Point, règle 67** : BAN au n°33 de l'adresse publiée (0,966) ; le repère de la carte de la Ville se retourne sur le 20-22 de la même rue, à 125 m : les deux sont dits, la fiche suit l'adresse. **Photo, règle 309, nouvelle** : comptoir de fromages vu de dos, recadré pour retirer les visages des commerçants à l'arrière-plan. Les noms d'élus, du concessionnaire et des membres de la commission du marché, publiés sur la page, ne sont pas repris.)
+- **Marché de Chaville** (Chaville) (**Élargissement, règle 96**, à 3,7 km. **Faits** : page de la Ville — halle et place du Marché depuis août 2016, jours et heures, liste des métiers. **Point** : place du Marché à la BAN (0,961), sans numéro. **Photo, règles 272, 234 et 296** : la Ville de Chaville réserve la reproduction de son site à l'usage privé ; la fiche prend une vue des potagers municipaux de Meudon (équipement public non marchand), publiée par la Ville de Meudon sur sa page « Jardiner à Meudon », sous la permission de la règle 309 ; la description dit qu'elle ne montre pas le marché. Les étals photographiés par la Ville portent les noms de leurs commerçants : aucun n'est repris.)
 - **Marché du vendredi de Graveson** (Graveson) (commune calculée, première des deux fiches entières de la règle 127 ; catégorie et piliers des marchés municipaux. **Faits** : vendredi 8h-13h, cours National, identiques sur la page des marchés de la Ville et sur la fiche de l'office de tourisme Terre de Provence. **Photo, règles 1, 46 et 239** : la seule photographie du marché que publie la Ville montre, attablés en terrasse, des passants reconnaissables ; la Ville autorise la reproduction « sans modifier » et avec la mention du copyright, ce qui exclut le recadrage de la règle 46 ; la fiche prend donc une vue des toits et du clocher publiée par la Ville, redimensionnée et sans métadonnées, qui ne montre pas le marché. `a_confirmer` pour cette réserve.)
 - **Bio Aubarède** (Graveson) (seconde fiche entière de la commune ; `producteur`, piliers `alimentation`, `environnement` (certificat Certis engagé le 28 février 2021 au SIRET de la SCEA) et `economie`. **Registre** : SCEA active, enseigne BIO AUBAREDE, siège au 12 chemin du Mas de la Musique. **Point** : BAN au n°12 (0,955), à 110 m du point du registre ; le site de l'exploitation écrit « 100, chemin du Mas de la Musique » pour le retrait, numéro que la BAN ne connaît pas (règle 67). **Horaires** : ceux du site, retrait mardi et jeudi 10h-17h et samedi 8h30-12h, vente sans commande le samedi matin. **Téléphone** : le seul numéro publié est un portable, laissé de côté. **Photo** : les mentions légales de l'exploitation nomment les images dans leur interdiction (règle 231) ; vue panoramique du village et de sa plaine publiée par la Ville de Graveson, sous la même permission que la fiche précédente, distincte de celle-ci.)
 - **Marché du vendredi d'Eyragues** (Eyragues) (**Élargissement, règle 96**, Terre de Provence Agglomération (champ `epci` 200035087, règle 219), à 5,5 km du cours National. **Lieu, règle 176** : la Ville place le marché sous les halles couvertes de la place Saint-Paul et ne publie pas d'heures ; l'office donne 7h-13h, sauf le 1er mai, place de la Libération, à 120 m ; la fiche suit la Ville et cite l'office. **Photo** : le kiosque du village, pris dans la page « Photos libres de droits » de la Ville ; la photographie de la place de la Libération a été écartée parce qu'une plaque d'immatriculation y est lisible, et les photographies du marché font toutes moins de 600 px (règle 59).)
@@ -10956,6 +10977,50 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (seizième de la nuit) : Meudon et Grand Paris Seine Ouest (Hauts-de-Seine), cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 803 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177) : Oise 5,6647, Landes 5,0492, Eure-et-Loir 5,0441 et Val-d'Oise
+4,9256 (épuisés, règle 265), **Hauts-de-Seine (92) 4,2702**, puis Loire (42) 4,0153. Les cinq fiches de Graveson ont fait sortir
+les Bouches-du-Rhône de la tête ; la dernière passe publiée visait Provence-Alpes-Côte d'Azur, les Hauts-de-Seine sont en
+Île-de-France (règle 41.c). Groupe de Labenne (règles 264 et 265) : `www.capbreton.fr` n'ouvre toujours aucune connexion, aux
+deux agents. Règle 302 : aucune intercommunalité du 92 ne compte quatre fiches désignées, elle ne joue pas.
+
+**Hauts-de-Seine : descente reprise à Meudon (règles 247 et 127), zone trouvée à la première commune.** Contrôle en deux
+requêtes (règle 257) : la Ville de Meudon, l'AMAP, le campus, les Villes de Sèvres, Chaville, Vanves et Marnes-la-Coquette
+servent les deux agents ; celle de Ville-d'Avray n'ouvre aucune connexion (règle 237).
+
+1. **Meudon** (46 334) — **Deux fiches entières** (règle 127) : l'**AMAP Les Paniers de la Forêt** (site vivant, calendrier de
+   la saison, photographie de panier) et l'**espace de vente du Campus Saint-Philippe** (jardin-école certifié bio, horaires de
+   septembre 2026 publiés, photographie thématique d'un étal meudonnais, règles 1 et 203). Les **trois halles municipales**
+   (Maison Rouge, Bellevue, Meudon-la-Forêt) ont jours, heures et entrées publiés par la Ville, mais aucune source ne dit ce
+   qu'on y vend (règle 197) : en pistes. **L'intercommunalité complète** (règle 96 ; Grand Paris Seine Ouest, bornée par la
+   distance au titre de la règle 249) : le **marché Saint-Romain** de Sèvres (2,5 km), le **marché de Chaville** (3,7 km) et le
+   **marché couvert de Vanves** (3,8 km), tous trois documentés par leur Ville, métiers compris.
+
+**Contradictions tranchées.** À l'AMAP, 18h-19h au calendrier de l'association contre 19h-20h dans l'annuaire municipal : les
+deux sont publiés (règle 5). À Vanves, adresse publiée et repère de carte de la Ville à 125 m l'un de l'autre dans la même rue
+(règle 67) : la fiche suit l'adresse et le dit. À Sèvres, la BAN ne connaît pas le numéro : centre de la voie, dit dans la
+fiche.
+
+**Écartés en cours de route.** Les trois halles de Meudon (règle 197 ; **déblocage** : une page de la Ville qui nomme les
+métiers ou les étals). Deux autres AMAP meudonnaises, qui distribuent le lundi soir sous la halle de Bellevue : leurs seules
+sources ont plus de douze mois ou sont des annuaires tiers (règle 195). Une troisième, qui distribue sous la halle Maison
+Rouge : sa notice municipale date de décembre 2025, mais son site a été piraté et ne montre plus rien de l'association — ni
+publiée, ni son site inscrit, **déblocage** : un site ou une page datée de l'association. La ferme pédagogique inscrite au
+registre bio à Meudon exploite en réalité à Versailles, hors de l'intercommunalité. Le magasin Biocoop de Chaville ne publie
+aucune liste de producteurs (règle 273). Les photographies des halles de Meudon-la-Forêt, de Bellevue et de Maison Rouge
+montrent des visages ; seule une partie de l'une a servi (fiche du campus).
+
+**Reprise dans les Hauts-de-Seine** : la descente reprendra à **Montrouge** (46 324), après Meudon. **Loire** : non éprouvée, la
+zone ayant été trouvée dans le premier département ; la descente y commencera à **Saint-Chamond**. **Bouches-du-Rhône** : reprise
+à Rognes, inchangée.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite. Écartés avant publication : les noms et portables des
+référents d'AMAP publiés par l'annuaire municipal, les noms des producteurs partenaires de l'AMAP, le portable de l'espace de
+vente du campus, les noms de commerçants des marchés de Sèvres et de Chaville, les noms d'élus et de gestionnaires de la page
+du marché de Vanves, et les noms de photographes des légendes « © » de Meudon et de Vanves (règle 309).
 
 ### Passe du 24 septembre 2026 (quinzième de la nuit) : Graveson et Terre de Provence (Bouches-du-Rhône), cinq fiches
 
