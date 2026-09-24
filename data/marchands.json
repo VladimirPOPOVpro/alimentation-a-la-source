@@ -21890,5 +21890,111 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20viticole%20de%20la%20Ville%20de%20Colmar%2C%202%20Rue%20du%20Stauffen%2C%2068000%20Colmar",
     "image_url": "/images/marchands/domaine-viticole-ville-de-colmar.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-main-paysanne-annonay",
+    "nom": "La Main Paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.234444,
+    "lon": 4.672804,
+    "adresse": "11 Route du 4e Spahis, 07100 Annonay",
+    "horaires": "Le mercredi, le jeudi et le vendredi de 8h à 19h, le samedi de 8h à 18h ; fermé du dimanche au mardi (site du magasin et Office de tourisme Ardèche Grand Air).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes de bœuf, d'agneau et volailles",
+      "Charcuterie sans sels nitrités",
+      "Fromages et produits laitiers",
+      "Pain et farine",
+      "Œufs",
+      "Miel et confitures",
+      "Vins et bières"
+    ],
+    "description": "Magasin de producteurs du rond-point du Foulon, tenu depuis 1995 par une trentaine de fermes situées à moins de 100 km, qui fixent leurs prix et assurent elles-mêmes la vente : un producteur est toujours au comptoir, et rien n'est acheté à l'extérieur pour être revendu. Photo : rayon de légumes du magasin, publiée par La Main Paysanne.",
+    "telephone": "04 75 32 14 00",
+    "site_web": "https://www.lamainpaysanne.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Main%20Paysanne%2C%2011%20Route%20du%204e%20Spahis%2C%2007100%20Annonay",
+    "image_url": "/images/marchands/la-main-paysanne-annonay.jpg"
+  },
+  {
+    "slug": "compagnons-du-houblon-annonay",
+    "nom": "Les Compagnons du Houblon",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 45.238215,
+    "lon": 4.669754,
+    "adresse": "5 Rue Eugène Meyzonnier, 07100 Annonay",
+    "horaires": "Magasin : du mercredi au vendredi de 14h à 18h selon le site de la brasserie ; l'Office de tourisme Ardèche Grand Air annonce pour 2026 du mercredi au vendredi de 16h à 22h. Fermé du samedi au mardi. Vérifier sur le site de la brasserie avant de passer.",
+    "produits": [
+      "Bière blonde",
+      "Bière blanche",
+      "Bière ambrée",
+      "Triple au miel de châtaignier",
+      "Bières personnalisées pour événements"
+    ],
+    "description": "Brasserie artisanale du centre d'Annonay, dont les cuvées portent des noms tirés de légendes médiévales ; la bière se vend à emporter à la boutique, et un bar de dégustation est en travaux. La brasserie revendique des ingrédients biologiques et un miel ardéchois, sans certification au registre de l'Agence Bio. Photo : devanture de la brasserie, publiée par Les Compagnons du Houblon.",
+    "site_web": "https://les-compagnons-du-houblon.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Compagnons%20du%20Houblon%2C%205%20Rue%20Eug%C3%A8ne%20Meyzonnier%2C%2007100%20Annonay",
+    "image_url": "/images/marchands/compagnons-du-houblon-annonay.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fruits-du-plateau-annoneen-annonay",
+    "nom": "Fruits du Plateau Annonéen",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.235682,
+    "lon": 4.685294,
+    "adresse": "51 Rue Victor Hugo, 07100 Annonay",
+    "horaires": "Vente à la ferme du lundi au samedi : en été de 9h à 12h et de 15h à 19h ; en hiver le mercredi et le vendredi de 15h à 18h. Fermé le dimanche (Office de tourisme Ardèche Grand Air, 2026).",
+    "produits": [
+      "Pommes et poires",
+      "Cerises",
+      "Pêches et abricots",
+      "Prunes et raisins",
+      "Melons",
+      "Pommes de terre",
+      "Jus de pomme"
+    ],
+    "description": "Exploitation fruitière du quartier de Vissenty, à l'est d'Annonay, qui vend à la ferme ses fruits et légumes de saison et son jus de pomme. Photo thématique : rayon de jus et de conserves d'un magasin de producteurs d'Annonay ; elle ne montre pas la ferme.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruits%20du%20Plateau%20Annon%C3%A9en%2C%2051%20Rue%20Victor%20Hugo%2C%2007100%20Annonay",
+    "image_url": "/images/marchands/fruits-du-plateau-annoneen-annonay.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-annonay",
+    "nom": "Marché d'Annonay",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.239743,
+    "lon": 4.670965,
+    "adresse": "Place de la Liberté, 07100 Annonay",
+    "horaires": "Mercredi de 8h à 12h, place de la Liberté (alimentaire uniquement) ; samedi de 8h à 13h15, place de la Liberté et rue Montgolfier (tous commerces), d'après la Ville d'Annonay. L'office de tourisme annonce 6h-13h les deux jours.",
+    "produits": [
+      "Fruits et légumes de la vallée du Rhône",
+      "Fromages",
+      "Charcuterie",
+      "Œufs",
+      "Miel",
+      "Jus de fruits et compotes"
+    ],
+    "description": "Marché du centre historique, qui accueille des producteurs du nord de l'Ardèche et du Pilat ; le mercredi est un marché alimentaire et de producteurs, le samedi il s'étend dans la rue Montgolfier, piétonne pour l'occasion. Photo thématique : légumes d'un magasin de producteurs d'Annonay ; elle ne montre pas le marché.",
+    "site_web": "https://www.annonay.fr/vivre-annonay/economie-et-innovation/commerce/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Libert%C3%A9%2C%2007100%20Annonay",
+    "image_url": "/images/marchands/marche-annonay.jpg",
+    "a_confirmer": true
   }
 ]

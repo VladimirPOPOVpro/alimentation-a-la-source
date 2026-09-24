@@ -3937,9 +3937,29 @@ prioritaires en cas de conflit.
      Landes, Eure-et-Loir épuisés, puis Haut-Rhin). Si les deux lectures donnaient un vainqueur différent, la passe le dirait et
      suivrait l'appel complet dès qu'il répondrait de nouveau.
 
+316. **Quand la commune calculée rend quatre fiches entières et que la règle 52 ne trouve aucun cinquième point illustrable
+     dans l'intercommunalité à moins de cinq kilomètres de leur barycentre, la passe publie les quatre.** Annonay, commune la
+     plus peuplée de l'Ardèche, rend quatre fiches entières : deux avec une photographie du lieu (le magasin de producteurs La
+     Main Paysanne, la brasserie Les Compagnons du Houblon) et deux avec une photographie thématique de la même commune au titre
+     de la règle 312 (le marché de la place de la Liberté, une vente à la ferme de fruits). La règle 52 fait chercher le
+     cinquième chez un voisin immédiat de la même intercommunalité ; à moins de cinq kilomètres, Davézieux,
+     Saint-Marcel-lès-Annonay, Boulieu-lès-Annonay et Roiffieux n'offrent que des marchés sans famille de produits écrite (règle
+     197) ou des producteurs dont les seules images sont sur un réseau social, et au-delà, dans Annonay Rhône Agglo, les sites
+     des producteurs ferment leurs images (règles 231 et 246) ou opposent un point de contrôle anti-robot à tout agent (règle
+     237) ; la règle 312 ne prête pas une photographie d'Annonay à une autre commune. La règle 28 appelait « mauvaises réponses »
+     la publication de quatre fiches comme l'ajout d'une cinquième faible ; la règle 197 a depuis admis qu'une passe rende quatre
+     fiches plutôt que d'en compléter une au jugé. **Tranché ainsi** : quatre fiches entières dans une seule commune forment une
+     zone utilisable (règle 52 : c'est en dessous de quatre qu'une commune n'en est pas une) ; la passe les publie, dit dans son
+     compte rendu qu'elle en rend quatre et pourquoi, et désigne dans les pistes les candidats qui compléteraient le groupe avec
+     leur déblocage. La descente de la règle 41.d ne reprend pas pour chercher une zone de cinq, et la passe ne baisse aucune
+     exigence pour atteindre le chiffre.
+
 ## Marchands à confirmer
 
-734 fiches sur 823 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+737 fiches sur 827 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Compagnons du Houblon** (Annonay) (commune calculée de l'Ardèche ; `producteur`, pilier `economie` seul (règles 14 et 15) : la brasserie revendique malt et miel biologiques, mais n'a aucun engagement au registre de l'Agence Bio. **Registre** : société active, 11.05Z, au 5 rue Eugène-Meyzonnier depuis juin 2024 (l'ancien établissement de la montée du Savel est fermé). **Horaires, règle 104** : le site de la brasserie écrit « Mercredi - Vendredi : 14h - 18h » pour le magasin, la fiche 2026 de l'Office de tourisme Ardèche Grand Air 16h-22h ; les deux sont cités et la fiche renvoie au site ; le seul numéro publié est un portable, non repris. Le site porte encore des textes de gabarit non remplis ; il a été ouvert et répond au nom de la brasserie. **Point** : BAN au numéro (0,961), à 2 m du point du registre. **Photo** : devanture publiée par la brasserie, aucune personne ; site sans mentions légales ni clause, `robots.txt` qui n'exclut personne ; 1 920 px réduits à 1 280, métadonnées retirées.)
+- **Fruits du Plateau Annonéen** (Annonay) (`ferme`. **Registre** : entreprise individuelle active, 01.24Z, enseigne « Fruits du Plateau Annonéen », siège au 51 rue Victor-Hugo ; **règle 311** examinée : le siège est le lieu de vente, mais l'office publie des horaires d'ouverture libres (été et hiver), donc la règle ordinaire s'applique ; le nom de l'exploitant n'est repris nulle part, et le seul numéro, un portable, ne l'est pas non plus. **Faits** : fiche 2026 de l'Office de tourisme Ardèche Grand Air (produits, horaires) ; l'exploitation n'a pas de site, sa page de réseau social n'a pas été lue. **Point** : BAN au numéro (0,965), confondu avec le point du registre ; la rue de Vissenty que cite l'office est à 250 m. **Photo, règle 312** : rayon de jus et de conserves de La Main Paysanne, fichier distinct de celui de sa fiche.)
+- **Marché d'Annonay** (Annonay) (`marche`, piliers des marchés déjà publiés. **Existence et horaires** : page « Les marchés » de la Ville (mercredi 8h-12h, alimentaire uniquement ; samedi 8h-13h15) ; l'office écrit 6h-13h et M ton Marché 7h30-12h30 le mercredi (règle 5 : les heures de la Ville font foi, l'écart est cité). **Règle 197** : la Ville et l'office n'écrivent que « produits locaux » et « marché alimentaire et de producteurs » ; c'est l'annuaire M ton Marché qui nomme les familles (fruits et légumes de la vallée du Rhône, fromages, charcuterie, œufs, miel, jus et compotes), comme à Vénissieux. **Point** : BAN sur la place de la Liberté (0,960). **Photo, règle 312** : la Ville nomme les photographies dans son interdiction, l'office réserve les siennes à l'usage privé (règle 246) ; légumes de La Main Paysanne, fichier distinct.)
 - **Brasserie du Grillen** (Colmar) (commune calculée du Haut-Rhin ; `producteur`, piliers `environnement` et `economie` (règle 14 : boisson alcoolisée), comme la Brasserie de la Loire. **Registre** : société active, 11.05Z, au 31 rue des Jardins ; engagement Ecocert du 14 août 2019, vente aux particuliers déclarée. **Horaires, règle 2** : ceux que le site donne pour le « Bar & Boutique », qui ne distingue pas la boutique du bar ; la fiche le dit. **Point** : BAN au numéro (0,970), confondu avec le point de l'Agence Bio. **Photo** : bouteilles et verre de la brasserie, publiés sur son site, qui n'a aucune mention légale ni clause (fichier pris sur le domaine de la brasserie, pas sur le relais d'images) ; aucune personne.)
 - **Marché couvert de Colmar** (Colmar) (catégorie et piliers des halles déjà publiées. **Existence, règle 106** : la page « Les marchés à Colmar » de la Ville le décrit et renvoie au site de l'association des commerçants. **Horaires** : site de l'association, mis à jour le 4 mars 2026 ; le marché de plein air du jeudi autour de la halle est porté dans le même champ (règle 42), heures de la Ville (8h-13h) et de l'office (8h-12h) citées (règle 5). **Produits** : liste des métiers publiée par l'association ; aucun commerçant n'est nommé. **Point** : BAN au numéro (0,967). **Photo, règle 312** : la Ville, l'office et l'association nomment les photographies dans leur interdiction (règles 231 et 246) ; pains et kougelhopfs publiés sans clause par Cœur Paysan Colmar, fichier distinct de celui de sa fiche.)
 - **Les Chants de la Terre — vente à la ferme** (Colmar) (`ferme`. **Registre** : SAS de commercialisation active (47.81Z) et SCEA de production active (01.11Z), toutes deux au 114 Lauch-Werb ; engagements Ecocert de 2006 et de 1995. **Horaires** : page « Vente à la ferme » du site. **Point** : BAN au numéro « 114 Lauch-Werb » (0,971), à 30 m du point du registre ; la BAN ne connaît pas la graphie « Lauchwerb » du site. **Photo, règle 312** : les mentions légales de la ferme interdisent de « copier et d'utiliser des photos » ; légumes d'Alsace d'un rayon de Cœur Paysan Colmar, recadrés sur les cageots pour écarter l'ardoise à l'enseigne du magasin. Les exploitants et les fermes partenaires nommés par le site ne sont pas repris.)
@@ -11059,6 +11079,46 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 24 septembre 2026 (vingt et unième de la nuit) : Annonay (Ardèche), quatre fiches dans la commune
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 823 fiches, appel national
+de `geo.api.gouv.fr` revenu (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté (règle 177) : Oise 5,9054,
+Val-d'Oise 5,2974, Landes 5,1750 et Eure-et-Loir 5,1697 (épuisés, règle 265), **Ardèche (07) 3,9893**, Lot-et-Garonne 3,9818,
+Allier 3,9781. Le Grand Est, visé par la passe précédente (Colmar), est fermé ; l'Ardèche (Auvergne-Rhône-Alpes) est ouverte
+(règle 41.c) et le vainqueur est celui que la passe précédente avait annoncé. Groupe de Labenne (règle 265) : le site de la Ville
+de Capbreton ne répond toujours pas, rien n'est débloqué. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Commune** : l'Ardèche n'avait aucune fiche ; **Annonay**, 17 274 habitants, est la plus peuplée. Contrôle en deux requêtes
+(règle 257) : la Ville, Annonay Rhône Agglo, l'Office de tourisme Ardèche Grand Air, l'annuaire départemental Ardèche le goût,
+M ton Marché et les sites des commerces retenus servent l'agent nommé ; le site d'un transformateur bio de la commune le refuse
+(403) et n'a pas été consulté, pas plus que `biocoop.fr`. **Images** : la Ville nomme les photographies dans son interdiction
+(règle 231), l'office réserve les siennes à l'usage privé (règle 246) ; c'est le site du magasin de producteurs La Main Paysanne,
+sans aucune clause, qui fournit la photographie de sa propre fiche et deux photographies thématiques (règle 312), trois fichiers
+distincts.
+
+**Quatre fiches, toutes dans Annonay** : **La Main Paysanne** (fiche entière, photographie du lieu), **Les Compagnons du
+Houblon** (fiche entière, photographie du lieu), **Fruits du Plateau Annonéen** et le **Marché d'Annonay** (faits entiers,
+photographie thématique). **Règle 316, nouvelle** : aucun cinquième point illustrable n'existe à moins de cinq kilomètres dans
+Annonay Rhône Agglo (règle 52) ; la passe publie quatre fiches plutôt que d'en compléter une au jugé, et les candidats qui
+compléteraient le groupe sont désignés dans les pistes.
+
+**Contradictions tranchées** : horaires de la brasserie (site 14h-18h, office 16h-22h : les deux cités, règle 104) ; horaires
+du marché (Ville 8h-12h et 8h-13h15, office 6h-13h, M ton Marché 7h30-12h30 : la Ville fait foi, règle 5). **Laissé de côté** :
+le Biocoop de la commune (règle 273), une fromagerie-crèmerie qui revend des fromages de toute provenance (règle 304), l'espace
+de produits locaux d'un supermarché (`MODERATION.md`).
+
+**Après la passe**, sur 827 fiches : Oise 5,9535, Val-d'Oise 5,3717, Landes 5,2001 et Eure-et-Loir 5,1948 (épuisés),
+**Lot-et-Garonne (47) 4,0011**, Allier 3,9975, Yonne 3,9851 ; l'Ardèche tombe à 0,0087. La passe suivante ne peut pas viser
+Auvergne-Rhône-Alpes (règle 41.c) ; le Lot-et-Garonne (Nouvelle-Aquitaine) est ouvert : il prend sa commune la plus peuplée sans
+fiche.
+
+**Fiches écartées pour doute sur une personne** : à Annonay et dans l'agglomération, des producteurs inscrits au registre bio en
+entreprise individuelle sous leur nom (maraîchage, élevage, transformation), des enseignes bâties sur un prénom ou un nom de
+famille (un safran, un vin pétillant, une ferme de Vernosc, des graines de Quintenas, une charcuterie de Saint-Cyr) ; aucun nom
+n'est repris. **Données personnelles écartées** : noms d'exploitants, de gérants et de producteurs lus sur les sites, aux
+registres et dans les mentions légales, portables et courriels ; les images ont été réenregistrées sans métadonnées (règle 235) ;
+rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
+
 ### Passe du 24 septembre 2026 (vingtième de la nuit) : Colmar (Haut-Rhin), cinq fiches dans la commune
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 818 fiches, population
@@ -17052,6 +17112,37 @@ liste publiée par le magasin sur un site qui ne l'exclut pas.
 fournisseurs de semences inscrits au registre de l'Agence Bio à une adresse colmarienne ; une boulangerie de la place
 Saint-Joseph, qui vend quelques pains bio parmi une gamme conventionnelle et ne nomme aucun fournisseur : ce n'est pas un circuit court au sens du site. Les personnes écartées sont décrites dans la
 section de la passe.
+
+### Pistes non publiées à Annonay
+
+Département visé : l'**Ardèche (07)**, déficit **3,9893** (règle 41) ; quatre fiches publiées dans Annonay même (voir la section
+de la passe du 24 septembre 2026, vingt et unième de la nuit, et la règle 316). Candidats qui compléteraient le groupe :
+
+**Biocoop Bionacelle** (55 avenue de l'Europe) — société active, certificat au registre de l'Agence Bio, horaires publiés par
+son site ; mais la page « Paysans associés » est la liste des coopératives du réseau (règle 273), la fiche d'Ardèche le goût ne
+nomme aucun fournisseur et donne une ancienne adresse, et les conditions d'utilisation du site nomment les photographies.
+Déblocage : une liste de producteurs de la région publiée par le magasin.
+
+**Magasins de producteurs de Davézieux (Ferme de Tartavel) et de Peaugres (A 2 pas des champs)** — faits entiers à l'office
+(produits, horaires) et, pour Peaugres, sur la page des commerçants de la commune ; seules images sur un réseau social, non
+lu. Déblocage : un site propre ou une photographie permise de la commune. Tartavel est à moins de cinq kilomètres du
+barycentre des quatre fiches : avec une image, il ferait le cinquième point de la règle 52.
+
+**Ferme de Sarameille (Peaugres) et Les Terres de Vert (Vernosc-lès-Annonay)** — faits entiers (office, site, registre) ; la
+première réserve ses images à l'usage personnel et privé (règle 246), la seconde interdit toute reproduction des « images »
+(règle 231) ; la règle 312 ne prête pas une photographie d'Annonay à une autre commune.
+
+**Le Verger des Minières (Talencieux) et la Ferme de l'Étoile Noire (Félines)** — faits à l'office ; leurs sites opposent un
+point de contrôle anti-robot à tout agent (réponse 429, règle 237), non franchi. Déblocage : le retrait du contrôle.
+
+**Marchés de Davézieux (vendredi), de Saint-Marcel-lès-Annonay (vendredi) et de Boulieu-lès-Annonay (dimanche, sous la halle)**
+— jour et lieu à l'office ; aucune source ne nomme une famille de produits propre à l'un d'eux (règle 197), aucune image
+permise. **Marchés de producteurs bio à la ferme** (Peaugres le mardi et le jeudi, Vernosc et Quintenas le vendredi) — produits
+à l'office ; images sur des réseaux sociaux seulement, ou sur des sites fermés.
+
+**Écartés par `MODERATION.md` ou par le registre** : supermarchés et hypermarchés certifiés, grossistes, abattoir, un restaurant
+et son épicerie attenante, une fabrique de diffuseurs de parfum ; une brasserie de Talencieux qui ne reçoit que sur rendez-vous.
+Les personnes écartées sont décrites dans la section de la passe.
 
 ## Comment ajouter ou modifier un marchand
 
