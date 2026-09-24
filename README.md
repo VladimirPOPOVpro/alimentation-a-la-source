@@ -3774,9 +3774,34 @@ prioritaires en cas de conflit.
      pistes (règle 258). Le dépassement ne se reproduit pas : une passe s'en tient désormais aux deux communes de la règle 248,
      et ce qui a été fait ici ne devient pas un précédent pour élargir la borne.
 
+302. **Les fiches entières qu'un département a laissées en pistes pour la reprise se groupent autour d'une commune déjà
+     couverte de leur intercommunalité : ses fiches publiées tiennent lieu des deux fiches entières de la règle 127.** Deux
+     passes de suite, le 24 septembre 2026, ont éprouvé vingt-quatre communes du Morbihan sans publier : chacune des
+     communes de Lorient Agglomération rendait une fiche entière et une seule (Biocoop Les 7 Épis de Ploemeur, de Guidel et de
+     Larmor-Plage, marché de Lochrist, boutique du jardin de thé de Languidic), et la règle 127 ne permet pas d'additionner deux
+     communes. Or Lorient, centre de cette intercommunalité, porte déjà cinq fiches publiées depuis la passe qui a ouvert le
+     département. La règle 11 dit qu'une passe est consacrée aux pistes déjà instruites dès qu'elles atteignent cinq et qu'elle
+     « ne prend pas de commune nouvelle » ; la règle 258 dit que la passe qui revient dans le département prend les fiches
+     désignées pour la reprise « avant tout candidat neuf » ; la règle 295 admet déjà qu'une commune couverte participe au
+     groupe d'une autre. Aucune ne disait qu'une commune couverte peut servir de centre. **Tranché ainsi** : quand le
+     département de tête compte au moins quatre fiches entières désignées pour la reprise dans une même intercommunalité (champ
+     `epci`, règle 219), toutes à moins de quinze kilomètres du centre d'une commune de cette intercommunalité qui porte déjà au
+     moins deux fiches publiées, la passe les publie au titre de la règle 11, en instruisant au besoin la cinquième dans la même
+     intercommunalité et sous la même distance, comme la règle 52 le fait à quatre points, sans rouvrir la descente, chacune revérifiée
+     entièrement (registre, source, point, site, image, personne) ; le centre retenu est la commune couverte la plus peuplée qui
+     remplit la distance pour toutes. La descente de la règle 41.d n'avance pas : elle reprendra là où la dernière passe
+     s'est arrêtée. Une fiche désignée au-delà de quinze kilomètres reste en pistes. Première application : Lorient, pour les
+     Biocoop de Larmor-Plage (3,6 km), de Ploemeur (3,9 km) et de Guidel (9,1 km) et le marché de Lochrist (12,9 km), désignés,
+     complétés par la Biocoop de Riantec (6,2 km), instruite ce jour ; la boutique de Languidic (16,7 km) reste en pistes.
+
 ## Marchands à confirmer
 
-709 fiches sur 793 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+714 fiches sur 798 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Biocoop Les 7 Épis - Ploemeur** (Ploemeur) (**Règle 302**, Lorient Agglomération, à 3,9 km du centre de Lorient. Établissement actif au registre ; certificat Ecocert engagé pour le 14 rue de Kervam au registre de l'Agence Bio. **Point** : celui du registre, retourné sur la rue de Kervam (51 m du 16) ; la BAN ne connaît pas le 14. **Image** : rayon chips et huiles du site de la coopérative, dont les mentions légales ne contiennent aucune clause, recadré sur ses 880 px de gauche pour écarter le seul visage.)
+- **Biocoop Les 7 Épis - Guidel** (Guidel) (**Règle 302**, à 9,1 km. Établissement actif ; zone des Cinq Chemins déclarée au certificat Ecocert engagé de la coopérative. **Point, règle 24** : le point du registre se retourne sur l'impasse de Kerdudo, 780 m au nord ; c'est le marqueur de la carte que la coopérative publie pour ce magasin qui est retenu, retourné sur les Cinq Chemins. **Image** : mur de vrac du site de la coopérative, 1 920 px, sans personne.)
+- **Biocoop Les 7 Épis - Larmor-Plage** (Larmor-Plage) (**Règle 302**, à 3,6 km. Établissement actif ; engagement Ecocert « arrêté » en juillet 2026 au registre de l'Agence Bio, d'où l'absence d'`environnement`. **Point** : BAN au numéro, à 40 m du point du registre. **Image** : façade du site de la coopérative, recadrée au-dessus du parking pour écarter les plaques d'immatriculation.)
+- **Biocoop Les 7 Épis - Riantec** (Riantec) (**Règle 302**, à 6,2 km. Établissement actif ; adresse absente du registre de l'Agence Bio, d'où l'absence d'`environnement`. **Point** : BAN au numéro, à 23 m du marqueur de la coopérative. **Image** : enseigne de la façade, recadrée en bandeau de 1 280 × 315 au-dessus des deux personnes qui se tiennent à l'entrée (précédent du bandeau de 1 280 × 320 de Guidel).)
+- **Marché des producteurs de Lochrist** (Inzinzac-Lochrist) (**Règle 302**, à 12,9 km. Samedi 9h-12h30, page des marchés et agenda de la Ville, qui le gère. **Point** : place François-Mitterrand à la BAN (0,947). **Image** : photographie de la Ville (mentions légales générales, aucune image nommée, règle 231), prise à l'époque des masques, recadrée à 816 × 656 sur l'étal de légumes sans aucun visage ; produits lus sur la photographie entière (règle 91).)
 - **Marché Convention** (Paris 15e) (catégorie et piliers des marchés de plein air parisiens. **Première piste nommée** par la passe « du 16e au 11e », débloquée par la **règle 138** : mardi et jeudi 7h-13h30 concordants sur les trois publications de la Ville ; troisième jour contesté, samedi sur la page « Les marchés de Paris », dimanche sur la fiche du lieu et dans le jeu de données ouvert, toujours le 24 septembre 2026. **Point** : celui du jeu de données, à 12 m du 215 rue de la Convention au contrôle inverse. **Photo** : vue d'étal entier de la série de juin, recadrée sur ses 760 px de gauche pour écarter le marchand ; les étiquettes de cagettes, illisibles mais susceptibles de porter un nom, sont floutées.)
 - **Marché Maison-Blanche** (Paris 13e) (catégorie et piliers des marchés de plein air parisiens. Jeudi 7h-13h30 et dimanche 7h-14h30, concordants. **Adresse** : la fiche du lieu dit « entre les rues du Tage et du Moulin de la Pointe », le jeu de données « entre les rues du Docteur Laurent et la Porte d'Italie » ; la première est contenue dans la seconde, c'est elle qui est publiée (règle 98). **Point** : jeu de données, à quelques mètres du 152 avenue d'Italie. **Photo, règle 300** : gros plan de prunes et de pêches plates de la série de juin, recadré sous le buste d'un marchand vu sans visage.)
 - **Marché Jeanne d'Arc** (Paris 13e) (catégorie et piliers des marchés de plein air parisiens. Jeudi 7h-13h30 et dimanche 7h-14h30, concordants. **Point** : jeu de données, sur la place Jeanne-d'Arc au contrôle inverse. **Photo** : vue d'étal de la série de juin, recadrée sur sa moitié basse (1 200 × 400) pour écarter le visage du marchand et deux passants ; il reste une cliente sans visage.)
@@ -10870,6 +10895,41 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (dixième de la nuit) : rattrapage de Lorient Agglomération, cinq fiches (règle 302)
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 793 fiches,
+identique à celui des deux passes précédentes : Oise, Landes, Eure-et-Loir et Val-d'Oise épuisés (règle 265), Hauts-de-Seine
+écartés (Île-de-France, région de la dernière passe publiée : règle 41.c), **Morbihan (56) 4,0095**. Le groupe de Labenne n'a
+pas de cinquième point nouveau (règle 265).
+
+**Ce qui a fait la passe.** Les deux passes précédentes avaient laissé dans Lorient Agglomération cinq fiches désignées pour la
+reprise, chacune seule dans sa commune, dont quatre à moins de quinze kilomètres de Lorient. La règle 302, nouvelle, les
+groupe autour de Lorient, qui porte déjà cinq fiches, et fait instruire la cinquième ; la
+descente du Morbihan n'avance pas et reprendra à **Plescop**. Toutes ont été revérifiées ce jour : les deux sources (site de la
+coopérative Les 7 Épis, site de la Ville d'Inzinzac-Lochrist) servent la même page à l'agent par défaut et à l'agent nommé
+(règle 257) ; les quatre établissements de la coopérative sont actifs au registre des entreprises ; `geo.api.gouv.fr` rattache
+les cinq communes à la CA Lorient Agglomération (200042174). Le **marché de Merville**, que la section de Lorient désignait « à
+prendre au prochain passage », n'a pas été repris : il se tient devant les halles provisoires, dont la fiche publiée le
+mentionne déjà, et la règle 42 en fait une seule fiche.
+
+**Fiches publiées** (distances au centre de Lorient) : Biocoop Les 7 Épis de Larmor-Plage (3,6 km), de Ploemeur (3,9 km), de
+Riantec (6,2 km) et de Guidel (9,1 km), marché des producteurs de Lochrist (12,9 km). Riantec n'était pas encore instruite : elle
+remplace la boutique du jardin de thé de Languidic, à 16,7 km, au-delà de la borne de la règle 96. **Contradiction
+tranchée** : à Guidel, le point du registre et celui de la coopérative sont à 780 m l'un de l'autre ; le contrôle inverse rattache le
+premier à une autre voie (règle 24), c'est le second qui est publié. **Piliers** : `environnement` seulement pour Ploemeur et
+Guidel, dont l'adresse figure sur un certificat engagé ; Larmor-Plage porte un engagement arrêté en juillet 2026 et Riantec
+n'est pas déclarée (règles 14 et 15).
+
+**Restent en pistes** : la boutique du jardin de thé de Languidic (distance) et la microferme de Bézidel à Séné (Golfe du
+Morbihan Vannes Agglomération, autre intercommunalité) ; la Biocoop de Pont-Scorff (38 rue du Général Langle de Cary,
+établissement actif, à 9,7 km de Lorient), repérée et non instruite. **Après la passe**, sur 798 fiches : Morbihan −0,93 ;
+premier département non épuisé et hors de la région de cette passe, les **Bouches-du-Rhône (13) 4,1607**, dont la descente
+reprend à Tarascon, fiches désignées d'abord (Ferme des Roselières, Primeur des Tilleuls).
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle. **Données personnelles écartées** : les noms lus dans les
+mentions légales des deux sites (direction de la publication, concepteur du site et son numéro mobile) ; rien n'en figure ici,
+dans une fiche ou dans un commit.
 
 ### Passe du 24 septembre 2026 (neuvième de la nuit) : Morbihan et Bouches-du-Rhône, aucune publication
 
