@@ -3900,9 +3900,24 @@ prioritaires en cas de conflit.
      (règle 1). Ici : une photographie de vignes en couvert végétal publiée par la cave coopérative de Beaucaire, distincte de
      celle qui illustre la fiche de son propre caveau.
 
+313. **Quand une association publie ses photographies sur son propre site sans aucune clause, la clause de gabarit d'une
+     plateforme de réseau qui lui sert de boutique en ligne ne ferme que les éléments de cette plateforme.** Le marché bio d'Oasis
+     Jardin de Cocagne, à Saint-Just-Saint-Rambert, a deux adresses : le site de l'association (`oasis.bio`), dont les mentions
+     légales ne parlent que des données personnelles, et la boutique de paniers hébergée par la plateforme du réseau Cocagne
+     (`oasis.cocagnebio.fr`), dont le gabarit range nommément les « photographies » parmi ce qu'il interdit de reproduire et
+     proscrit les requêtes automatisées. La section de la passe qui a désigné cette fiche ne citait que le premier. La règle 145
+     traitait deux sites qui diffusent les mêmes fiches et dont un seul exclut le robot ; aucune ne disait ce que vaut une clause
+     d'image portée par un seul des deux sites d'un même exploitant. **Tranché ainsi** : une clause protège les éléments du site qui
+     la porte ; la photographie se prend sur le site sans clause, à condition que le même fichier ne soit pas servi par le site
+     fermé, et la plateforme n'est pas consultée au-delà de la page qui porte sa clause. Ici : l'étal du 21 juillet 2023, publié
+     par `oasis.bio` seul. Le même raisonnement ne rouvre pas un site dont la clause vise toutes les « publications » de
+     l'exploitant, quel qu'en soit le support.
+
 ## Marchands à confirmer
 
-728 fiches sur 813 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+730 fiches sur 818 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du dimanche de Saint-Marcellin-en-Forez** (Saint-Marcellin-en-Forez) (quatrième fiche du groupe de Saint-Romain-le-Puy, **règles 96 et 127**, à 7,2 km du centre de la commune, dans Loire Forez Agglomération. **Registre, règle 106** : marché municipal. **Horaires et produits** : page « Le marché » de la Ville (dimanche 7h30-13h, place Sainte-Catherine, étals alimentaires nommés) ; Loire Tourisme concordant sur la place, sans heure. **Point** : BAN au niveau de la place (0,952). **Photo, règles 1 et 59** : la seule photographie du marché que publie la Ville fait 300 px, sous le plancher de 600 px ; les mentions légales de la Ville interdisent la reproduction « des pages, des données et de tout autre élément » sans nommer les photographies (règle 231) ; photographie thématique du canal du Forez publiée par la Ville (1 200 px, aucune personne), la description dit qu'elle ne montre pas le marché.)
+- **Brasserie de la Loire** (Saint-Just-Saint-Rambert) (cinquième fiche du groupe, à 9,6 km du centre de Saint-Romain-le-Puy ; `producteur`, piliers `environnement` et `economie` (règle 14 : boisson alcoolisée ; l'épicerie de terroir revend d'autres producteurs et n'ouvre pas `alimentation`). **Registre** : société active (11.05Z) ; certificat Ecocert engagé depuis février 2009. **Horaires** : page « Où nous trouver » de la brasserie (voix de l'intéressé) ; la fin de semaine (dimanche, lundi) n'y figure pas et la fiche le dit fermé. **Point** : BAN au numéro (0,957), à 100 m du point de l'Agence Bio. **Photo, règle 312** : le site de la brasserie est servi par Wix (règle 256) et ses mentions nomment les « images » ; photographie thématique d'un étal de légumes publiée sans clause par Oasis Jardin de Cocagne, dans la même commune, fichier distinct de celui de la fiche du marché bio.)
 - **La Coop des 2 B** (Beaucaire) (commune calculée du Gard, première des quatre fiches entières de la règle 127. **Registre** : coopérative active, 10.41A ; certificat biologique Qualisud engagé en 2013 pour l'huile d'olive. **Horaires** : page contact de la coopérative, site de Beaucaire (celui de Bezouce, boutique et confiserie, n'est pas publié). **Point** : BAN au numéro (0,966). **Photo** : bidon d'huile AOP photographié en plein air, publié par la coopérative, dont les mentions légales ne portent aucune clause de reproduction ; aucune personne.)
 - **La Belle Pierre — caveau des Vignerons Beaucairois** (Beaucaire) (seconde fiche entière. **Registre** : société du caveau active (47.25Z) ; cave coopérative active, certificat biologique engagé en 2012. La certification environnementale affichée par le site n'a pas été vérifiée et n'est pas reprise. **Horaires** : page contact du caveau. **Point** : BAN au numéro (0,967). **Photo** : vignes en couvert de féverole publiées par la cave, dont les conditions de vente ne nomment pas les images ; aucune personne.)
 - **Mas des Tourelles** (Beaucaire) (troisième fiche entière, à 4,9 km de la mairie. **Registre** : société active (47.25Z) ; siège déclaré à un mas voisin, point du registre au Mas des Tourelles. **Horaires** : grille de septembre-octobre 2026 et grille saisonnière publiées par le domaine. **Produits** : vins d'après le domaine, huile d'olive d'après l'office de tourisme. **Point** : BAN au numéro (0,970). **Photo** : grappes sur cep publiées par le domaine, dont les conditions de vente disent seulement que les photos ne sont pas contractuelles ; les photographies créditées à un photographe ont été évitées.)
@@ -11015,6 +11030,78 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (dix-neuvième de la nuit) : Saint-Romain-le-Puy (Loire), cinq fiches dans Loire Forez Agglomération
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 813 fiches, dénominateur de
+la règle 224, outre-mer écarté (règle 177) : Oise 5,7850, Landes 5,1121, Val-d'Oise 5,1115 et Eure-et-Loir 5,1069 (épuisés, règle
+265), **Loire (42) 4,1275**, Haut-Rhin 4,0875. La dernière passe publiée visait l'Occitanie (Beaucaire) : Auvergne-Rhône-Alpes est
+ouverte (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Reprises d'abord.** Groupe de Labenne : `www.capbreton.fr` n'a répondu à aucun des deux agents (règle 237) ; le groupe reste à
+quatre points. Règle 302 : la Loire compte trois fiches désignées, dans deux intercommunalités ; elle ne joue pas.
+
+**Loire : descente reprise à Montrond-les-Bains (règles 247 et 127), onze communes, la onzième fait la passe.** Contrôle en deux
+requêtes (règle 257) avant chaque source. Loire Tourisme (et son gabarit « Loire Story ») reste fermé pour l'image ; l'office du
+Pilat, Rendez-vous en Forez, Auvergne-Rhône-Alpes Tourisme et une ferme de Saint-Paul-en-Jarez refusent l'agent nommé ; l'annuaire
+départemental des produits fermiers refuse tout agent (règle 237).
+
+1. **Montrond-les-Bains** (5 652) — La Ville publie le marché du jeudi (8h-12h, place de la République, produits nommés) mais
+   interdit la reproduction des photographies ; aucun opérateur biologique au registre ; l'annuaire des producteurs de la Ville est
+   un module Apidae alimenté par Loire Tourisme. **Zéro.**
+2. **Chazelles-sur-Lyon** (5 543) — La Ville réserve ses photographies à l'usage privé et ne publie pas l'heure de ses marchés du
+   mardi et du vendredi. Une ferme laitière en GAEC a une page sans clause chez sa fromagerie coopérative, mais l'horaire de sa vente
+   à la ferme ne se lit que sur des sites qui refusent l'agent nommé (règle 192). **Zéro.**
+3. **Villerest** (5 172) — La Ville ne publie qu'un marché annuel d'artisans ; le marché du samedi n'est publié que par des
+   annuaires (règle 196). **Zéro.**
+4. **Saint-Marcellin-en-Forez** (5 116) — La Ville ne nomme pas les photographies dans son interdiction (règle 231) et publie deux
+   marchés : le **marché du dimanche** (7h30-13h, place Sainte-Catherine, produits nommés), dont la seule photographie fait 300 px, et
+   le **marché des producteurs** des jeudis de semaine paire, « à partir de 16h », sans heure de fin (règle 192), illustré par deux
+   affiches de la Ville. Le distillateur de liqueurs de la rue de l'Étang ne publie pas d'horaires de boutique. **Zéro fiche
+   entière** ; le marché du dimanche a des faits entiers.
+5. **Lorette** (4 983) — La Ville publie le marché de producteurs du jeudi (16h-19h, place du 3e-Millénaire, produits nommés), mais
+   ses photographies font au plus 420 px (règle 59). **Zéro**, faits en pistes.
+6. **La Grand-Croix** (4 947) — La Ville ne publie pas son marché du dimanche (règle 196). **Zéro.**
+7. **L'Horme** (4 806) — La Ville publie le marché du mercredi (8h-13h, place Lanet) mais réserve ses photographies à l'usage privé.
+   **Zéro.**
+8. **Saint-Paul-en-Jarez** (4 699) — La Ville publie deux marchés (place Lisfranc mercredi et dimanche 8h-12h ; marché de
+   producteurs du mercredi 16h-19h30, parking des Pins) mais interdit l'utilisation de ses visuels ; la ferme laitière en GAEC de la
+   commune refuse l'agent nommé (règle 257). **Zéro.**
+9. **La Fouillouse** (4 630) — La Ville publie le marché du vendredi (8h-12h) sans dire ce qu'on y vend (règle 197). **Zéro.**
+10. **Bonson** (4 557) — La Biocoop ne publie que la liste des fournisseurs du réseau (règle 273) ; le producteur de plantes à
+    liqueur n'a de fiche que chez Loire Tourisme. **Zéro.**
+11. **Saint-Romain-le-Puy** (4 142) — **Deux fiches entières (règle 127)** : la **Ferme au Cœur du Forez**, désignée par la passe
+    précédente et revérifiée (GAEC actif, 01.41Z ; certificat Bureau Alpes Contrôles engagé depuis 2017 ; vente le vendredi
+    16h-18h30 d'après le site de la ferme ; BAN au numéro, 0,951, 2,3 km du centre ; mentions légales sans clause d'image ;
+    photographie de moulage de fromage blanc, mains seules, 700 px), et la micro-ferme **Au Puy de Légumes** (GAEC actif, 01.13Z ;
+    certificat Ecocert engagé depuis 2016 ; point de vente le mercredi 17h-19h, retrait du vendredi 16h-19h et paniers du jeudi,
+    page « Vente à la ferme » ; BAN au numéro, 0,960, 1,3 km du centre ; conditions d'utilisation laissées en texte factice, qui ne
+    nomment rien (règle 310 ne mord pas), pied de page « tous droits réservés » (règle 231) ; photographie des planches de culture
+    recadrée pour écarter une bouteille dont l'étiquette porte un nom, 760 px, règle 75). La règle 311 ne mord pas : l'exploitation
+    est un GAEC qui ouvre un point de vente à heures fixes. La Ville réserve ses photographies. **La commune fait la passe.**
+
+**Groupe complété dans Loire Forez Agglomération (règles 96, 127 et 262)**, distances au centre de Saint-Romain-le-Puy donné par
+`geo.api.gouv.fr` : le **marché bio d'Oasis Jardin de Cocagne** (Saint-Just-Saint-Rambert, 11,2 km), désigné par la passe du
+seizième passage et revérifié — association active, certificat Bureau Veritas engagé depuis 2002, vendredi 15h-19h, lettre de la
+semaine 39 de 2026 en ligne, photographie prise sur `oasis.bio` au titre de la **règle 313, nouvelle** ; le **marché du dimanche de
+Saint-Marcellin-en-Forez** (7,2 km), photographie thématique de la Ville (règles 1 et 59) ; la **Brasserie de la Loire**
+(Saint-Just-Saint-Rambert, 9,6 km), photographie thématique d'un autre commerce de la commune (règle 312). Le marché de Sury-le-Comtal
+(3,9 km) n'a toujours aucune image permise ; le magasin de producteurs de Montbrison refuse l'agent nommé.
+
+**Reprise dans la Loire** : la Loire tombe à −0,8163 après la passe ; la descente, si le département revient en tête, reprendra à
+**Fraisses** (3 872). La vente à la ferme de Terre Nouvelle (Mably) reste désignée ; les faits vérifiés du marché de producteurs de
+Lorette et du marché des producteurs de Saint-Marcellin-en-Forez (heure de fin) attendent.
+
+**Après la passe**, sur 818 fiches : Oise 5,8452, Val-d'Oise 5,2045, Landes 5,1435 et Eure-et-Loir 5,1383 (épuisés), **Haut-Rhin
+(68) 4,1434**, Ardèche 3,9650 ; la Loire tombe à −0,8163. La passe suivante ne peut pas viser Auvergne-Rhône-Alpes (règle 41.c) :
+elle prend le Haut-Rhin, à Colmar, commune la plus peuplée sans fiche.
+
+**Fiches écartées pour doute sur une personne** : une épicerie de La Fouillouse dont l'enseigne porte un prénom ; avant
+instruction, des exploitants individuels inscrits sous leur nom au registre bio à Chazelles-sur-Lyon, Saint-Marcellin-en-Forez,
+La Grand-Croix, Saint-Paul-en-Jarez et Saint-Romain-le-Puy. **Données personnelles écartées** : prénoms et noms d'exploitants,
+d'associés, d'élus et de photographes lus sur les sites, aux registres et dans les noms de fichiers d'images, portables et
+courriels ; les images publiées ont été renommées et réenregistrées sans métadonnées (règle 235) ; rien n'en figure ici, dans une
+fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 24 septembre 2026 (dix-huitième de la nuit) : Beaucaire (Gard), cinq fiches, après douze communes de la Loire
 

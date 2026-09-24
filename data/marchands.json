@@ -21618,5 +21618,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Mourgues+du+Gres+Beaucaire",
     "image_url": "/images/marchands/chateau-mourgues-du-gres-beaucaire.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "ferme-au-coeur-du-forez-saint-romain-le-puy",
+    "nom": "Ferme au Cœur du Forez",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.577062,
+    "lon": 4.12631,
+    "adresse": "1 Chemin des Tourettes Basses, 42610 Saint-Romain-le-Puy",
+    "horaires": "Vente à la ferme le vendredi de 16h à 18h30.",
+    "produits": [
+      "Fromages de vache et de chèvre au lait cru, frais, secs et affinés",
+      "Fromage blanc et caillés doux",
+      "Sarrassons assaisonnés",
+      "Lait cru",
+      "Beurre",
+      "Yaourts et crèmes dessert",
+      "Steaks hachés surgelés de la ferme"
+    ],
+    "description": "Ferme laitière biologique de la plaine du Forez, avec un troupeau de vaches et un de chèvres, dont la fromagerie transforme chaque jour le lait de la ferme ; certifiée en agriculture biologique depuis 2017. Photo : Ferme au Cœur du Forez (ferme-aucoeurduforez.fr), travail du caillé à la fromagerie.",
+    "telephone": "04 77 76 62 44",
+    "site_web": "https://www.ferme-aucoeurduforez.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20Chemin%20des%20Tourettes%20Basses%2C%2042610%20Saint-Romain-le-Puy",
+    "image_url": "/images/marchands/ferme-au-coeur-du-forez-saint-romain-le-puy.jpg"
+  },
+  {
+    "slug": "au-puy-de-legumes-saint-romain-le-puy",
+    "nom": "Au Puy de Légumes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.556799,
+    "lon": 4.114778,
+    "adresse": "53 Rue du 8 mai 1945, 42610 Saint-Romain-le-Puy",
+    "horaires": "Point de vente à la ferme le mercredi de 17h à 19h ; retrait des commandes en ligne le vendredi de 16h à 19h ; paniers sous contrat le jeudi. Ventes hebdomadaires de mai à décembre, puis en semaine paire seulement de janvier à avril ; pause hivernale du 20 décembre 2026 au 9 janvier 2027.",
+    "produits": [
+      "Légumes de saison bio, de plein champ et sous tunnel",
+      "Commandes en ligne à retirer à la ferme",
+      "Paniers de légumes sous contrat",
+      "Contrats de viande et d'œufs de producteurs partenaires"
+    ],
+    "description": "Micro-ferme maraîchère bio-intensive de 7 000 m², en plein champ et sous tunnel, installée sur une ferme périurbaine préservée par la Fondation Terre de Liens ; certifiée en agriculture biologique depuis 2016. Photo : Au Puy de Légumes (aupuydelegumes.fr), planches de culture de la ferme.",
+    "site_web": "https://aupuydelegumes.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=53%20Rue%20du%208%20mai%201945%2C%2042610%20Saint-Romain-le-Puy",
+    "image_url": "/images/marchands/au-puy-de-legumes-saint-romain-le-puy.jpg"
+  },
+  {
+    "slug": "marche-bio-oasis-saint-just-saint-rambert",
+    "nom": "Marché bio d'Oasis Jardin de Cocagne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 45.494617,
+    "lon": 4.244816,
+    "adresse": "19 Chemin des Muats, 42170 Saint-Just-Saint-Rambert",
+    "horaires": "Tous les vendredis de 15h à 19h.",
+    "produits": [
+      "Légumes bio du jardin",
+      "Pain",
+      "Fromage",
+      "Viande",
+      "Poulets fermiers et œufs",
+      "Épicerie",
+      "Plants bio au printemps"
+    ],
+    "description": "Marché bio tenu chaque vendredi au jardin d'insertion Oasis, certifié en agriculture biologique depuis 2002 : ses légumes y côtoient des producteurs bio et locaux invités, annoncés chaque semaine dans sa lettre. Une cotisation annuelle de 5 euros est demandée aux non-adhérents. Photo : Oasis Jardin de Cocagne (oasis.bio), étal du marché.",
+    "telephone": "04 77 52 13 98",
+    "site_web": "https://oasis.bio/index.php/reseau-des-adherents-2/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=19%20Chemin%20des%20Muats%2C%2042170%20Saint-Just-Saint-Rambert",
+    "image_url": "/images/marchands/marche-bio-oasis-saint-just-saint-rambert.jpg"
+  },
+  {
+    "slug": "marche-du-dimanche-saint-marcellin-en-forez",
+    "nom": "Marché du dimanche de Saint-Marcellin-en-Forez",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.496847,
+    "lon": 4.166645,
+    "adresse": "Place Sainte-Catherine, 42680 Saint-Marcellin-en-Forez",
+    "horaires": "Chaque dimanche de 7h30 à 13h, selon la météo et la saison.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Viandes",
+      "Pain",
+      "Miel",
+      "Fleurs coupées"
+    ],
+    "description": "Marché hebdomadaire du dimanche matin sur la place Sainte-Catherine, organisé par la commune, où les étals alimentaires côtoient quelques stands de vêtements. Photo thématique : le canal du Forez, publiée par la Ville de Saint-Marcellin-en-Forez ; elle ne montre pas le marché.",
+    "telephone": "04 77 36 10 90",
+    "site_web": "https://www.saintmarcellinenforez.com/vie-pratique/le-marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Sainte-Catherine%2C%2042680%20Saint-Marcellin-en-Forez",
+    "image_url": "/images/marchands/marche-du-dimanche-saint-marcellin-en-forez.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-de-la-loire-saint-just-saint-rambert",
+    "nom": "Brasserie de la Loire",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.510094,
+    "lon": 4.236792,
+    "adresse": "29 Chemin du Béchet, 42170 Saint-Just-Saint-Rambert",
+    "horaires": "Mardi et jeudi de 10h à 12h et de 15h à 18h ; mercredi et vendredi de 10h à 12h et de 15h à 19h ; samedi de 15h à 19h. Fermé le dimanche et le lundi.",
+    "produits": [
+      "Bières bio blanches, blondes, ambrées et brunes",
+      "Éditions spéciales et saisonnières",
+      "Coffrets et cartons de bières"
+    ],
+    "description": "Brasserie artisanale fondée en 2003, dont toutes les bières sont certifiées en agriculture biologique (Ecocert, depuis 2009) ; elle vend sa production à la boutique de la brasserie, qui tient aussi un coin d'épicerie de producteurs du terroir. Photo thématique : étal de légumes publié par Oasis Jardin de Cocagne, dans la même commune ; elle ne montre pas la brasserie.",
+    "telephone": "04 77 52 17 45",
+    "site_web": "https://www.brasseriedelaloire.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=29%20Chemin%20du%20B%C3%A9chet%2C%2042170%20Saint-Just-Saint-Rambert",
+    "image_url": "/images/marchands/brasserie-de-la-loire-saint-just-saint-rambert.jpg",
+    "a_confirmer": true
   }
 ]
