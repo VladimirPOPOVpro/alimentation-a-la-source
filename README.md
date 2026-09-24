@@ -3867,6 +3867,15 @@ prioritaires en cas de conflit.
      fiche, ni dans le fichier, ni dans ce README. Une Ville dont la permission est réservée à l'usage privé reste fermée
      (règle 296) : c'est le cas de Chaville, dans la même passe.
 
+310. **Des mentions légales de gabarit laissées à moitié remplies ferment les images quand elles les nomment.** Le site de
+     l'AMAP du Creux, à Saint-Chamond, est servi par le gabarit du réseau AMAP Auvergne-Rhône-Alpes ; ses mentions légales
+     rangent les « graphismes, images, textes » parmi ce qui appartient à « [Compléter ici] » et interdisent toute reproduction
+     « sans l'accord exprès par écrit de [Compléter ici] ». On pouvait y lire un texte sans titulaire, donc sans effet. **Tranché
+     ainsi** : une clause se lit pour ce qu'elle interdit, pas pour la qualité de sa rédaction ; l'éditeur a publié une
+     interdiction qui nomme les images, et un champ vide ne vaut pas permission (règles 231 et 245). Le site reste lisible pour les
+     faits. **Déblocage** : des mentions complétées qui ne ferment pas les images, ou une photographie du point de distribution
+     publiée par une source qui ne l'interdit pas.
+
 ## Marchands à confirmer
 
 723 fiches sur 808 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10977,6 +10986,98 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (dix-septième de la nuit) : Loire et Gard, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 808 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177) : Oise 5,7249, Landes 5,0806, Eure-et-Loir 5,0755 et Val-d'Oise
+5,0186 (épuisés, règle 265), **Loire (42) 4,0714**, puis **Gard (30) 4,0340**. La dernière passe publiée visait l'Île-de-France
+(Meudon) : Auvergne-Rhône-Alpes et l'Occitanie sont ouvertes (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle
+241). Rien n'étant publié, aucune région n'est « visée » (règle 247).
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266, la Nouvelle-Aquitaine étant ouverte) : `www.capbreton.fr` a servi sa
+page d'accueil aux deux agents, puis n'a plus répondu, `robots.txt` compris (règle 237) ; pas de source datée pour l'antenne de
+Capbreton, le groupe reste à quatre points. Règle 302 : aucune fiche entière n'était désignée dans la Loire, elle ne joue pas.
+
+**Sources départementales de la Loire, toutes fermées pour l'image.** Loire Tourisme (`loiretourisme.com`) sert désormais ses
+fiches en clair, mais ses mentions légales interdisent la reproduction des « photographies, images » (règle 231) ; ses fiches
+restent lisibles pour les faits. L'office Saint-Étienne Hors-Cadre, celui du Roannais et Rendez-vous en Forez répondent 403 à
+l'agent nommé et 200 à l'agent par défaut (règle 257), comme Bienvenue à la Ferme. Loire Forez Agglomération nomme les images
+dans son interdiction.
+
+**Loire : douze communes (règles 247 et 127), de Saint-Chamond à Unieux.** Contrôle en deux requêtes (règle 257) avant chaque
+commune.
+
+1. **Saint-Chamond** (35 646) — La Ville publie huit séances de marché avec lieu, heures et familles de produits, mais nomme les
+   « images » et les représentations « photographiques » dans son interdiction (règle 231). L'**AMAP du Creux** (jeudi 18h30-19h30,
+   salle municipale de la place Louis-Comte ; actualités datées du 16 septembre 2026, règle 195) a des faits entiers, mais son site
+   ferme les images sous des mentions de gabarit non remplies (règle 310, nouvelle). Le magasin de producteurs **Saveurs de nos
+   Fermes** (23 avenue Jules-Ferry ; société active ; mercredi et vendredi 8h30-12h30 et 14h30-19h, jeudi 8h30-12h30, samedi
+   8h30-13h30, présentation rédigée par le magasin sur l'annuaire de l'union commerciale, règle 236) n'a plus de site (le domaine ne
+   résout pas) et aucune image au-dessus de 370 px. Le **marché de producteurs de Chavanne** (vendredi 16h-19h, 95 route de
+   Chavanne ; Ville et Loire Tourisme concordants, métiers nommés par Loire Tourisme) n'a aucune image permise. **Zéro**, faits en
+   pistes.
+2. **Roanne** (35 409) — Le site de la Ville (servi par Roannais Agglomération) ne permet que l'usage privé (règle 296) ; l'AMAP de
+   Roanne est hébergée par un centre social qui coupe la connexion à l'agent nommé et par un blog qui lui répond 429 (règles 257
+   et 280). Le miel inscrit au registre bio à Roanne porte un prénom dans son enseigne (règle 259). **Zéro.**
+3. **Firminy** (17 060) — La Ville réserve ses photographies à l'usage privé ; la **Biocoop Les Artisons** (32 rue Dorian ; lundi
+   14h-19h, mardi-vendredi 9h-19h, samedi 9h-18h) nomme les images dans son interdiction et ne nomme pas ses producteurs (règles 86
+   et 273). **Zéro.**
+4. **Montbrison** (16 123) — La Ville réserve les « documents photographiques » et ne publie pas l'heure du marché du samedi ; le
+   magasin de producteurs **La Grange des Paysans** refuse l'agent nommé (règle 257). **Zéro.**
+5. **Saint-Just-Saint-Rambert** (15 764) — **Une fiche entière** : le **marché bio du Jardin de Cocagne Oasis** (19 chemin des
+   Muats ; vendredi 15h-19h ; légumes du jardin, pain, fromage, viande, épicerie selon les semaines ; association active au
+   registre, 01.13Z ; certificat Bureau Veritas engagé depuis décembre 2002 ; lettre hebdomadaire de septembre 2026 en ligne ;
+   BAN au numéro, 0,96, à 5 m du point de l'Agence Bio ; mentions légales sans clause sur les images ; photographie d'un étal de
+   tomates, courgettes, aubergines et pommes de terre prise le vendredi 21 juillet 2023, jour de marché, sans personne, 2 560 px).
+   Le site de la Ville n'ouvre aucune connexion (règle 237) ; la **Brasserie de la Loire** (boutique mercredi, vendredi et samedi
+   15h-19h, bières certifiées) sert ses images par Wix (règle 256). **Une seule fiche** ; la règle 127 en demande deux.
+6. **Rive-de-Gier** (15 242) — La Ville réserve ses photographies à l'usage privé ; la **Biocoop Au p'tit Bionheur** publie la liste
+   de ses propres producteurs (règle 276), mais ses conditions d'utilisation, celles du gabarit du réseau, nomment les photographies
+   (règle 245). **Zéro.**
+7. **Le Chambon-Feugerolles** (12 314) — La Ville ne publie aucun marché ; aucun point de vente de producteur. **Zéro.**
+8. **Riorges** (11 139) — La Ville autorise la reprise à des fins d'information, sans modification et avec la mention du copyright
+   (règle 239), et publie le marché du mercredi (8h-13h, place de la République, fruits et légumes, fromages, charcuterie, viande).
+   Mais sa seule photographie fait 800 × 370 et montre des clients et des commerçants reconnaissables ; aucun recadrage sans visage
+   ne tient au-dessus de 600 px (règles 59, 70 et 185), et aucune autre photographie permise de la commune n'existe. **Zéro**,
+   faits en pistes.
+9. **Andrézieux-Bouthéon** (10 425) — La Ville nomme les images dans son interdiction et ne dit pas ce que vendent ses trois
+   marchés (règle 197) ; le site de l'épicerie de producteurs de Bouthéon ne répond pas. **Zéro.**
+10. **Roche-la-Molière** (9 843) — La Ville publie son marché (mercredi et samedi 8h-12h30, place Jean-Jaurès) mais réserve ses
+    « documents photographiques » ; la **Miellerie des Gorges de la Loire** (22 route de Saint-Victor-sur-Loire ; mardi-vendredi
+    10h-12h et 14h-18h30, samedi 9h-12h et 14h-18h30) nomme les images dans ses mentions légales. **Zéro.**
+11. **Veauche** (8 975) — La Ville refuse l'agent nommé (règle 257) ; le magasin de producteurs **L'Escale Paysanne** n'a pas de
+    site, et ses fiches d'office sont fermées. **Zéro.**
+12. **Unieux** (8 514) — La Ville refuse l'agent nommé ; le magasin de producteurs **Au Moulin de nos Fermes** n'a pas de site.
+    **Zéro.**
+
+**Reprise dans la Loire** : la descente reprend à **Feurs** (8 367). Fiche entière désignée pour la reprise (règle 258) : le
+**marché bio du Jardin de Cocagne Oasis** (Saint-Just-Saint-Rambert, Loire Forez Agglomération). **Déblocage** nommé : une
+seconde fiche entière à Saint-Just-Saint-Rambert (par exemple le retour du site de la Ville, ou des images de la brasserie
+servies par un hébergeur lisible), puis trois points illustrables à moins de 15 km dans Loire Forez. Les faits vérifiés de
+l'AMAP du Creux, de Saveurs de nos Fermes, du marché de Chavanne et du marché de Riorges attendent une image permise (règle 231).
+
+**Gard : deux communes (règle 248).** Gard Tourisme nomme les photographies dans son interdiction ; le réseau des Boutiques
+Paysannes écrit `Disallow: /` pour tout agent (règle 282) ; le site de l'esprit Parc national des Cévennes refuse l'agent nommé.
+
+1. **Alès** (46 125) — La Ville nomme les images dans son interdiction. Le magasin de producteurs **La Ferme du Coin** (1 bis
+   avenue Marcel-Cachin ; mardi-samedi 9h-13h et 15h-19h, fermé le jeudi après-midi) n'a qu'une page de réseau social et des fiches
+   fermées ; la ferme de spiruline inscrite à Alès a déménagé à Saint-Christol-lès-Alès et ne publie qu'un portable. **Zéro.**
+2. **Bagnols-sur-Cèze** (18 112) — La Ville nomme les « photos » dans son interdiction ; la **Biocoop Mère Nature** sert le gabarit
+   du réseau, dont les conditions nomment les photographies (règle 245). **Zéro.**
+
+**Reprise dans le Gard** : la descente reprend à **Beaucaire** (15 692).
+
+**Après la passe**, sur 808 fiches, rien n'a changé : Oise 5,7249, Landes 5,0806, Eure-et-Loir 5,0755 et Val-d'Oise 5,0186
+(épuisés), **Loire 4,0714**, Gard 4,0340. Rien n'ayant été publié, la passe suivante peut viser n'importe quelle région hors
+Île-de-France (dernière passe publiée, règle 41.c).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; avant instruction, une piste à Roanne (miel sous une
+enseigne faite d'un prénom, règle 259) et les exploitants individuels du registre bio de Saint-Chamond, Rive-de-Gier, Veauche et
+Roche-la-Molière, inscrits sous leur nom. **Données personnelles écartées** : les prénoms des producteurs présentés sur la page du
+marché d'Oasis, les portables de l'AMAP du Creux, de l'AMAP de Roanne et de la ferme de spiruline, les courriels de messagerie
+grand public des commerces, et les noms d'associés, de directeurs de publication, de webmestres et de photographes lus sur les
+sites et aux registres ; rien n'en figure ici, dans une fiche ou dans un commit.
 
 ### Passe du 24 septembre 2026 (seizième de la nuit) : Meudon et Grand Paris Seine Ouest (Hauts-de-Seine), cinq fiches
 
