@@ -3664,6 +3664,31 @@ prioritaires en cas de conflit.
      hébergée sous le domaine de la Ville reste sous la clause de la Ville. Ici : une vue aérienne des toits de la halle, sans
      personne, 1 000 px ; la fiche est entière, mais seule dans sa commune (règle 127), et elle attend en pistes.
 
+290. **Le second passage de la règle 288 ne s'impute pas sur la borne de douze communes.** La règle 288 fait réessayer
+     d'abord, « en une requête chacune », les communes trouvées en maintenance, puis reprendre la descente ; elle ne dit pas si
+     ces requêtes comptent dans la borne de la règle 247. Le 24 septembre 2026, les six Villes du Nord réessayées servaient
+     encore la même page de maintenance (503). **Tranché ainsi** : une commune qui n'est pas revenue n'a pas été éprouvée, elle a
+     seulement été constatée absente ; elle sort de la descente (règle 288) sans consommer la borne, et la passe éprouve ensuite
+     douze communes nouvelles. Une commune revenue, elle, est instruite et compte dans la borne comme les autres.
+
+291. **Un « © » posé sous l'intitulé « Photographies » des mentions légales, sans aucune permission, ferme le site comme source
+     d'image.** Les mentions légales de la Ville de Drancy ne portent aucune clause de reproduction : seulement, sous
+     « Photographies », « © service communication, sauf mention contraire ». La règle 231 laisse ouvert un site dont la clause
+     ne nomme aucune image ; la règle 246 lit « droits réservés » posé sur les photographies comme une réserve, pas comme une
+     licence. **Tranché ainsi** : un « © » qui vise nommément les photographies dit la même chose que « droits réservés » ; faute
+     de permission écrite ailleurs sur le site, les photographies ne se reprennent pas. Un « tous droits réservés » de pied de
+     page qui ne nomme aucune image reste une clause générale (règles 231 et 263), et un crédit qui accompagne une permission
+     conditionnelle reste sous les règles 239 et 268.
+
+292. **Une photographie documentaire ne remplit pas à elle seule la règle 197.** À Faches-Thumesnil, chacun des deux marchés a
+     sa propre photographie de la Ville, prise un jour de ce marché (règle 140 : le jeudi 3 février 2022 à 15h22 pour Thumesnil
+     en Nord, le mercredi 26 février 2025 à 11h02 pour Sainte-Marguerite) ; mais ni la Ville ni aucune autre source n'écrit ce
+     qui s'y vend. La règle 91 permet à `produits` de lire une photographie attachée à une seule fiche ; la règle 197 exige
+     qu'une source écrive « en toutes lettres » au moins une famille. **Tranché ainsi** : la photographie complète une famille
+     écrite, elle ne la remplace pas — un étal photographié un jour dit ce qu'un exposant vendait ce jour-là, pas ce que le
+     marché vend, et la liste des déblocages de la règle 197 ne nomme que du texte (page propre, liste d'exposants, panneau
+     lisible). Les deux marchés attendent en pistes, photographies retenues.
+
 ## Marchands à confirmer
 
 686 fiches sur 768 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10737,6 +10762,91 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (seconde de la nuit) : Nord et Seine-Saint-Denis, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 768 fiches, sans
+changement : Oise 5,2434, Landes 4,8291, Eure-et-Loir 4,8242 et Val-d'Oise 4,2751 (épuisés, règle 265), **Nord (59) 4,1330**,
+**Seine-Saint-Denis (93) 3,9827**, Gironde 3,8288. La dernière passe qui a publié visait la Normandie : ni les Hauts-de-France ni
+l'Île-de-France ne sont exclus (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266, la Nouvelle-Aquitaine étant ouverte) : `www.capbreton.fr` a servi sa
+page d'accueil aux deux agents, puis n'a plus répondu, `robots.txt` compris (règle 237) ; pas de source datée pour l'antenne de
+Capbreton, le groupe reste à quatre points. Nord (règle 288) : Wattrelos, Douai, Lambersart, Armentières, Hazebrouck et
+Mons-en-Barœul servent toujours la page de maintenance (503) ; elles sortent de la descente, sans entamer la borne (règle 290,
+nouvelle).
+
+**Nord : douze communes (règles 247 et 127), à partir de Wasquehal.** Aucune ne rend deux fiches entières. Au registre bio, ces
+communes comptent surtout des supermarchés, des grossistes, des boulangeries et des certifications arrêtées.
+
+1. **Wasquehal** (20 726) — Marché du mercredi et du samedi, 8h-13h, à côté de l'Hôtel de Ville (page de la Ville du 30 juillet
+   2026, fruits, légumes, fromages, viandes) ; mais les mentions légales interdisent toute reproduction des photos. Une épicerie
+   vrac active au registre n'a pas de site (règle 86 invérifiable). La ferme municipale porte un nom de famille : écartée.
+   **Zéro.**
+2. **Halluin** (20 715) — La Ville sert `curl` et refuse l'agent nommé (403, règle 257) ; rien au registre bio en vente au
+   détail. **Zéro.**
+3. **Denain** (20 665) — Marché du jeudi de 7h30 à 14h, place du Marché, quatre-vingt-dix étals (page de la Ville, clause
+   générale) ; aucune source ne dit ce qui s'y vend (règle 197), et l'office de la Porte du Hainaut refuse l'agent nommé (règle
+   257). **Zéro.**
+4. **Croix** (20 566) — Cinq séances sur deux places, 8h30-12h45, mais reproduction réservée à l'usage privé (règle 246). La
+   ferme du chemin de la Vacquerie est déjà publiée à son point de vente de Villeneuve-d'Ascq. **Zéro.**
+5. **Grande-Synthe** (20 239) — Les « Crédits » de la Ville interdisent l'usage des images (règle 246) ; la coopérative de
+   transition écologique héberge des entrepreneurs individuels. **Zéro.**
+6. **Ronchin** (19 787) — Page de maintenance (503) : réessai à la prochaine passe (règle 288). Le site d'un maraîchage bio
+   répond 404 (règle 62) et aucune autre source ne publie d'horaire. **Zéro.**
+7. **Faches-Thumesnil** (18 619) — Clause générale de la Ville, réutilisation non commerciale permise (règle 231). Deux marchés
+   (Thumesnil en Nord le jeudi de 13h30 à 19h selon sa fiche, la navette du CCAS annonçant 18h ou 16h30 ; Sainte-Marguerite le mercredi de 9h à 13h)
+   illustrés chacun d'une photographie de la Ville prise un jour de marché, mais sans famille de produits écrite (règle 292,
+   nouvelle). Le maraîchage bio de la commune n'a pas d'horaire publié, sa boutique en ligne refuse tout agent (règle 237).
+   **Zéro.**
+8. **Hem** (18 582) — La Ville nomme les images dans son interdiction (règle 246). La brasserie de la ferme n'a que des images
+   servies par Wix (règle 256) et des horaires de bar ; la ferme maraîchère est derrière un filtrage Cloudflare ; l'autre
+   maraîchage ne vend pas sur place (déjà noté à Tourcoing). **Zéro.**
+9. **Sin-le-Noble** (16 076) — Le `robots.txt` de la Ville nomme `ClaudeBot` parmi les robots exclus (règle 77) ; le chantier
+   d'insertion maraîcher de la commune n'a aucune page propre. **Zéro.**
+10. **Saint-Amand-les-Eaux** (15 974) — Page de maintenance (règle 288) ; le magasin bio indépendant de la rue d'Orchies n'a ni
+    site ni horaires. **Zéro.**
+11. **Wattignies** (15 525) — **Une fiche entière** : le marché municipal du mardi et du vendredi, 8h30-12h30, place Alain-Pluss,
+    **déplacé avenue des Arts depuis le 2 juin 2026 pour deux ans** (règle 157). La Ville écrit « fruits et légumes frais,
+    viandes, charcuteries italiennes, volailles, fromages… mais aussi fleurs et pâtisseries » ; sa clause permet la
+    réutilisation non commerciale en citant l'origine et la date ; sa photographie du marché date du vendredi 25 mars 2022 à
+    10h33 (règle 140) et montre la place Alain-Pluss, recadrage à faire sur les exposants. Le magasin Biocoop de l'avenue de
+    l'Europe publie sa propre page de producteurs locaux (règle 86 remplie), mais ses CGU nomment les photographies (règle 245) et
+    la Ville ne le photographie pas. **Une seule, zéro zone.**
+12. **Haubourdin** (15 074) — La Ville nomme les photographies dans son interdiction ; un maraîchage bio porte le prénom de son
+    exploitant (règle 259) ; le magasin bio voisin n'a pas de SIRET au registre bio ni d'entité active. **Zéro.**
+
+**Seine-Saint-Denis : deux communes (règle 248), reprises à Drancy.**
+
+1. **Drancy** (72 390) — Le marché couvert des 4 Routes (halle ouverte le 28 novembre 2025, mardi et vendredi 8h-12h30, dimanche
+   8h-13h) n'a pour description que « saveurs gourmandes, produits artisanaux, vêtements », et les photographies de la Ville
+   portent un « © » sans permission (règle 291, nouvelle) ; le site des marchés renvoie à une plateforme de vente. L'AMAP de la
+   commune (retrait le lundi, Maison de l'énergie et de l'environnement) n'a qu'une page de la Ville de mars 2024 (règle 195) et
+   un site hébergé qui refuse l'agent nommé (règle 257). **Zéro.**
+2. **Le Blanc-Mesnil** (62 376) — La Ville réserve ses visuels à la consultation privée et nomme ses photographies (règles 246
+   et 253) ; au registre bio, des supermarchés et des grossistes. **Zéro.**
+
+**Résultat : la passe ne publie rien (règle 248).**
+
+**Pistes non publiées dans le Nord** :
+
+- **marché de Wattignies** — entier ; attend une seconde fiche entière dans la commune (règle 127). Déblocage : une image permise
+  du magasin Biocoop, ou un autre point de vente illustrable à Wattignies ;
+- **marchés de Faches-Thumesnil** — entiers sauf la famille de produits (règle 292). Déblocage : une page de la Ville ou une liste
+  d'exposants qui dise ce qui s'y vend ;
+- **marché de Denain** — déblocage : une famille de produits écrite ;
+- **marché de Wasquehal** — entier sauf l'image. Déblocage : une photographie permise.
+
+**Reprise** : la prochaine passe qui vise le Nord réessaie d'abord Ronchin et Saint-Amand-les-Eaux (règle 288), puis reprend la
+descente à **Bailleul** (14 732). En Seine-Saint-Denis, la descente reprend à **Bobigny** (56 927). Rien n'étant publié, le
+classement ne change pas.
+
+**Données personnelles écartées** : des exploitations inscrites sous le nom de leur exploitant au registre bio à Hem, Ronchin,
+Halluin, Haubourdin, Grande-Synthe et Drancy ; le prénom d'un exploitant dans une enseigne à Haubourdin ; le nom de la
+ferme municipale de Wasquehal ; le nom du gérant du magasin Biocoop de Wattignies et les noms des commerçants du marché de
+Wattignies ; les noms, le mobile et les prénoms de bénévoles de l'AMAP de Drancy et le nom des maraîchers qui la fournissent ;
+les noms cités dans les mentions légales des Villes ; le courriel d'une chargée de mission à Denain ; un mobile peint sur un
+camion d'une photographie de Faches-Thumesnil. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
 
 ### Passe du 24 septembre 2026 (nuit, après Saint-Étienne-du-Rouvray) : Nord et Seine-Saint-Denis, aucune publication
 
