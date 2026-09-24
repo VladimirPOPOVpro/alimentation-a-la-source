@@ -3764,6 +3764,16 @@ prioritaires en cas de conflit.
      la prenne pour une vue du lieu, et la fiche reste `a_confirmer`. La série du 19 et du 25 août 2026, homogène, reste une
      illustration. La phrase « vues larges » de la règle 223 se lit avec cette précision.
 
+301. **Un criblage mené au-delà des deux communes que la règle 248 accorde au second département compte quand même : ses
+     communes sont éprouvées, et la descente reprendra après la dernière.** La passe du 24 septembre 2026 (huitième de la
+     nuit) a éprouvé douze communes des Bouches-du-Rhône, d'Aubagne à Châteaurenard, alors que la règle 248 n'en accordait que
+     deux au second département. La règle 248 borne l'effort d'une passe ; elle ne dit pas ce que vaut un constat fait au-delà.
+     **Tranché ainsi** : un constat vérifié ne s'efface pas parce qu'il a été fait trop tôt — les douze communes sont écrites
+     une à une dans la section de la passe, elles comptent comme éprouvées au sens de la règle 247, et la prochaine passe qui
+     visera les Bouches-du-Rhône reprend la descente après Châteaurenard, en prenant d'abord les fiches entières laissées en
+     pistes (règle 258). Le dépassement ne se reproduit pas : une passe s'en tient désormais aux deux communes de la règle 248,
+     et ce qui a été fait ici ne devient pas un précédent pour élargir la borne.
+
 ## Marchands à confirmer
 
 709 fiches sur 793 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -10860,6 +10870,130 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (huitième de la nuit, après Paris) : Morbihan et Bouches-du-Rhône, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 793 fiches :
+outre-mer hors classement (règle 177), Oise 5,5443, Landes 4,9863, Eure-et-Loir 4,9812 et Val-d'Oise 4,7398 (épuisés, règle
+265), Hauts-de-Seine 4,0302 (Île-de-France, région de la passe de Paris : règle 41.c), **Morbihan (56) 4,0095**, puis
+**Bouches-du-Rhône (13) 4,0093**. `origin/main` n'a pas bougé pendant la passe (règle 241). Rien n'étant publié, le classement
+ne change pas (règle 260) et aucune région n'est « visée » (règle 247) : la prochaine passe retrouve le Morbihan en tête.
+
+**Ce qui a fermé la Bretagne sud, pour mémoire.** Toutes les autorités consultées ferment leurs photographies : la Ville de
+Vannes (« représentations iconographiques et photographiques »), l'office Golfe du Morbihan Vannes Tourisme (textes, images,
+photographies), Morbihan Tourisme (`morbihan.com`), Lorient Bretagne Sud Tourisme (usage privé seulement), les Villes de
+Lanester (usage privé), Ploemeur (usage privé), Hennebont, Ploërmel, Séné et Quéven (règles 231, 246, 253 et 296) ; les sites
+de Pontivy (403 à tout agent) et d'Auray (503) ne répondent pas (règle 237), ceux de Saint-Avé et de Sarzeau refusent l'agent
+nommé (règle 257), comme `tourismebretagne.com`. L'office de Vannes répond par à-coups (403 de débit à tout agent, puis 200 aux
+deux) : ce n'est pas un filtrage par nom. Les magasins Biocoop sous le gabarit du réseau (`biogolfe-biocoop.fr`,
+`seveploermel.biocoop.net`) nomment les photographies dans leurs CGU (règle 245), et `biocoop.fr` exclut `CCBot` et
+`Bytespider` (règle 149). La photographie ne pouvait donc venir que des commerces eux-mêmes.
+
+**Morbihan : douze communes (règles 247 et 127), de Vannes à Quéven.**
+
+1. **Vannes** (55 790, commune calculée) — La Ville documente trois marchés de plein air (centre-ville place des Lices, mercredi
+   et samedi 8h-13h30 ; Conleau-Cliscouët, place Fareham, dimanche 8h-13h ; Ménimur, parking du centre commercial, mardi et
+   vendredi 8h-13h30), les halles des Lices (4 place des Lices, mardi-dimanche 8h-14h, trente et un commerçants dont la liste
+   par métier est publiée) et la halle aux poissons (2 place de la Poissonnerie, mardi, mercredi, vendredi et samedi 8h-13h) ;
+   aucune image permise. La Biocoop Bio Golfe Vannes Centre (6 rue Joseph Le Brix, lundi-samedi 9h-19h30) a des faits entiers
+   et une liste de producteurs propre au groupe (règle 276), mais ses CGU ferment les photographies. Le magasin de producteurs
+   de l'allée du Dolmen est actif au registre, ses deux sites sont morts (règle 62). L'AMAP du centre n'a qu'un annuaire
+   associatif et une page de réseau social (règle 195). **Zéro.**
+2. **Lanester** (23 263) — Un marché le mardi, place Jean Maurice, 8h30-12h30 (Ville, usage privé) ; la Biocoop Les 7 Épis
+   (20 rue Jean-Marie Tjibaou, lundi-samedi 9h30-19h) n'a qu'une photographie d'équipe pleine de visages, sans zone
+   recadrable au-dessus de 600 px (règles 46 et 185). **Zéro.**
+3. **Ploemeur** (18 872) — **Une fiche entière** : Biocoop Les 7 Épis Ploemeur, 14 rue de Kervam (lundi 14h30-19h, mardi-jeudi
+   9h30-12h30 et 14h30-19h, vendredi-samedi 9h30-13h et 14h30-19h), photographie de rayon du site de la coopérative (sans
+   clause d'image), recadrable à 880 px sans le seul visage. La ferme collective bio de la commune a un site sans image ni
+   horaire de vente ; la biscuiterie du Fort-Bloqué réserve ses « représentations iconographiques et photographiques ».
+   **Une seule.**
+4. **Hennebont** (15 910) — Ville fermée ; le maraîchage bio de la rue du Bouettiez n'a pas de site propre (la page qui le
+   décrit publie les noms et le portable de ses exploitants : rien n'en est repris). **Zéro.**
+5. **Pontivy** (14 640) — La Ville répond 403 à tout agent (règle 237) ; au registre, une légumerie et un lycée agricole sans
+   point de vente publié. **Zéro.**
+6. **Auray** (14 207) — La Ville répond 503 (règle 237, sans page de maintenance : pas de réessai au titre de la règle 288) ;
+   la coopérative Alré Bio (8 rue d'Irlande) interdit la reproduction de ses images ; la microbrasserie de la rue Alain
+   Gerbault ne publie pas d'horaire de vente (règle 192). **Zéro.**
+7. **Saint-Avé** (12 470) — La Ville coupe la connexion à l'agent nommé (444, règle 257) ; la ferme maraîchère bio de la rue de
+   la Briqueterie n'a qu'une page de réseau social. **Zéro.**
+8. **Guidel** (12 338) — **Une fiche entière** : Biocoop Les 7 Épis Guidel, les Cinq Chemins (lundi-samedi 9h30-19h),
+   photographie du comptoir boucherie de la coopérative, recadrable sur les enseignes (1 280 × 320) sans aucun des quatre
+   employés. La Ville n'a aucune clause d'image ; elle publie le marché du dimanche, place de l'Église, 7h-13h (« plus de 80
+   commerçants alimentaires, textiles, produits artisanaux et locaux, producteurs bio »), et un marché des producteurs à
+   Guidel-Plages, du 8 juillet au 26 août 2026 de 17h à 19h30, dont la seule photographie montre la foule. Les Jardins de
+   Brangoulo (marché à la ferme le samedi 9h30-12h de juin à octobre, Ecocert) interdisent la reproduction de leurs images.
+   **Une seule.**
+9. **Ploërmel** (10 163) — Ville fermée ; le blog de la ferme de Gourhert répond 410 ; la Biocoop Sève est sous les CGU du
+   réseau. **Zéro.**
+10. **Séné** (9 554) — La Ville range les images dans la section qui interdit la reproduction (règle 253). La microferme de
+    Bézidel (8 chemin de Bezidel : paniers le mercredi 16h30-19h, drive fermier le vendredi 12h-19h, marché d'été le jeudi de
+    fin juin à mi-septembre) a un site sans clause d'image ; ses photographies n'ont pas été examinées une à une, et elle est
+    seule dans la commune. La ferme de Cano est « fermée temporairement ». **Une au plus.**
+11. **Sarzeau** (9 212) — La Ville refuse l'agent nommé (444) ; la pépinière de Quintin ne vend pas d'alimentaire et suspend sa
+    saison ; la ferme fromagère de Suscinio interdit la reproduction de ses images. **Zéro.**
+12. **Quéven** (8 991) — La Ville range les photographies dans son interdiction ; un seul marché. **Zéro.**
+
+**Reprise dans le Morbihan** : la descente reprend à **Theix-Noyalo** (8 500). Fiches entières isolées, nommément désignées
+pour la reprise (règle 258) : les Biocoop Les 7 Épis de **Ploemeur** et de **Guidel**, et la microferme de **Bézidel** à Séné
+sous réserve de ses images. Aucune n'a de seconde fiche entière dans sa commune ; Guidel et Ploemeur sont deux communes de
+Lorient Agglomération à 9 km l'une de l'autre, ce que la règle 127 ne permet pas d'additionner.
+
+**Bouches-du-Rhône : douze communes, d'Aubagne à Châteaurenard (règle 301, nouvelle, sur le dépassement de la règle 248).**
+
+1. **Aubagne** (47 529, commune calculée) — La Ville ne ferme pas ses images : clause générale sur « les contenus » et
+   réutilisation non commerciale permise en citant l'origine et la date (lecture des règles 239, 253 et 291 in fine) ; l'office
+   du Pays d'Aubagne refuse l'agent nommé (règle 257). **La Ferme des Roselières** (1650 route des Aubes, vente à la ferme le
+   jeudi 16h30-18h30, maraîchage et petits fruits Ecocert, établissement actif, point de la BAN au numéro à 0,972, photographie
+   de tomates du site sans personne ni clause) est **entière**. Le **marché provençal** (esplanade de Gaulle, mardi, jeudi,
+   samedi et dimanche 8h-13h, avec le carré des producteurs du CETA le samedi et le dimanche ; photographie de la Ville de
+   1 920 px) ne se place pas : la Base Adresse Nationale ne connaît aucune esplanade de ce nom dans la commune, la fiche « lieu »
+   de la Ville répond 404 et son enregistrement ne porte aucune coordonnée, le registre des entreprises n'y domicilie personne
+   (règles 166 et 186). La Coopérative bio du Garlaban (539 chemin de Ceinture, Ecocert depuis 2006, 600 m² selon la Ville)
+   n'a d'horaires que dans des annuaires tiers, son blog répondant 429 aux seuls agents d'IA (règles 136 et 280) ; Satoriz ferme
+   ses images et ne sert son texte que par script. **Une seule.**
+2. **Istres** (44 292) — Office et Ville ferment leurs photographies ; la photothèque « libre de droit » de la Ville
+   n'offrirait que des vues thématiques (règle 272) ; le moulin cité par l'office est à Saint-Martin-de-Crau et son enseigne
+   est un patronyme (règle 259). **Zéro.**
+3. **Salon-de-Provence** (44 194) — La Ville refuse l'agent nommé ; la boulangerie bio de la rue Pontis aussi ; le seul autre
+   site est celui d'un expéditeur de fruits et légumes sans point de vente. **Zéro.**
+4. **La Ciotat** (38 477) — La Ville refuse l'agent nommé ; au registre, aucun commerce de détail avec un site lisible (les deux
+   sites présents portent le nom d'une personne). **Zéro.**
+5. **Vitrolles** (36 758) — Même clause permissive qu'Aubagne, mais la page « Marchés forains » de la Ville est vide ; la Biocoop
+   est sous les CGU du réseau. **Zéro.**
+6. **Marignane** (33 692) — Mentions légales introuvables (404), aucun commerce de détail à site au registre. **Zéro.**
+7. **Miramas** (26 203) — Ville en usage privé ; un seul domaine à site propre, seul dans la commune. **Zéro.**
+8. **Les Pennes-Mirabeau** (22 537) — La Ville coupe la connexion à l'agent nommé ; **Le Primeur des Tilleuls** (1200 avenue du
+   Plan de Campagne, mardi-samedi 9h-19h, vente de sa propre production maraîchère et de celle de producteurs voisins,
+   établissement actif) est une piste solide, images non examinées ; la ferme de spiruline n'a pas de point de vente horaire.
+   **Une au plus.**
+9. **Gardanne** (21 597) — Ville fermée ; un site de miel mort, un chantier d'insertion maraîcher qui refuse l'agent nommé, une
+   boutique en ligne de boissons. **Zéro.**
+10. **Allauch** (21 443) — Ville en usage privé ; le domaine viticole est « en construction », la ferme porcine refuse tout
+    agent. **Zéro.**
+11. **Châteauneuf-les-Martigues** (18 455) — La Ville ne répond pas ; les deux sites de producteurs portent le nom d'une
+    personne. **Zéro.**
+12. **Châteaurenard** (16 545) — La Ville refuse l'agent nommé ; producteurs en vente en ligne seulement. **Zéro.**
+
+**Travail d'Aubagne à ne pas refaire** (règle 241) : dans la Métropole Aix-Marseille-Provence, à 8 km, la Ville de Cassis
+documente deux marchés à faits entiers — le **marché hebdomadaire**, mercredi et vendredi, place Baragnon, rue Gervais, place
+Clémenceau et rue de l'Arène, « 40 commerçants et producteurs (fruits, légumes, condiments, charcuterie, crémerie,
+poissonnerie, boulangerie, fleurs, produits de la ferme…) », 8h-13h30 selon la page, l'arrêté n° 1398.2025 fixant les étals en
+place à 7h l'été et 8h l'hiver et le remballage à partir de 13h (règle 225 : 8h-13h) ; et le **marché paysan** de l'ADEAR 13,
+chaque samedi 8h-13h30, place Clémenceau côté rue Michel Blanc — et le **Domaine du Paternel** (11 route Pierre Imbert, caveau
+tous les jours 9h30-12h30 et 14h-18h, vins et huile d'olive du domaine, établissement actif ; le point du registre se retourne
+sur une autre voie, règle 24). Tous trois ferment leurs images ; ils ne pourraient partir qu'illustrés de photographies
+thématiques d'Aubagne, une fois deux fiches entières trouvées dans la commune (règle 272). Trois vues sans personne ont été
+repérées sur `aubagne.fr` : la source de l'Huveaune et la source du Chien au Garlaban (pages publiées le 27 mai 2024), un champ
+de coquelicots face au Garlaban (article du 11 juin 2025). **Déblocage d'Aubagne** : un point publié pour l'esplanade de Gaulle
+par la Ville, ou l'apparition de la voie dans la Base Adresse Nationale.
+
+**Reprise dans les Bouches-du-Rhône** : après Châteaurenard ; fiches d'abord, la Ferme des Roselières et Le Primeur des Tilleuls.
+
+**Fiches écartées pour doute sur une personne** : quatre pistes, toutes avant instruction — Châteauneuf-les-Martigues
+(biscuiterie et plantes médicinales, libellés faits d'un prénom), La Ciotat (brasserie, même motif) et un moulin à huile de
+Saint-Martin-de-Crau (enseigne patronymique). **Données personnelles écartées** : les noms et numéros d'exploitants lus sur
+les sites de fermes, dans les mentions légales et au registre de l'Agence Bio, les noms de photographes des crédits et des noms
+de fichiers ; rien n'en figure ici, dans un commit ou dans un nom de fichier.
 
 ### Passe de Paris (12e, 13e, 15e, 11e) : cinq marchés publiés au titre de la règle 82
 
