@@ -21996,5 +21996,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Libert%C3%A9%2C%2007100%20Annonay",
     "image_url": "/images/marchands/marche-annonay.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-joigny",
+    "nom": "Marché de Joigny (halles)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.980969,
+    "lon": 3.396807,
+    "adresse": "Place du Premier-Régiment-des-Volontaires-de-l'Yonne (place du 1er RVY), 89300 Joigny",
+    "horaires": "Mercredi et samedi de 8h à 13h, sous la halle et sur la place du 1er RVY (guide 2026 des producteurs locaux des intercommunalités du Nord de l'Yonne) ; la Ville de Joigny écrit « les mercredis et samedis matin ».",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Poissonnerie",
+      "Fromages",
+      "Pain",
+      "Confiserie"
+    ],
+    "description": "Marché couvert sous une halle métallique de type Baltard de 1882 : quatre-vingts places sous la halle, dont une trentaine de cases de bouchers, charcutiers, volaillers, poissonniers, boulangers et fromagers, et une soixantaine d'étals à l'extérieur, où se vendent aussi vêtements et articles divers. Photo : charpente de la halle, recadrée, Ville de Joigny (ville-joigny.fr, page « Le marché »).",
+    "site_web": "https://www.ville-joigny.fr/le-marche",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20du%20march%C3%A9%20couvert%2C%20Place%20du%201er%20RVY%2C%2089300%20Joigny",
+    "image_url": "/images/marchands/marche-couvert-joigny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-croix-saint-jacques-joigny",
+    "nom": "Domaine de la Croix Saint-Jacques",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 47.984166,
+    "lon": 3.387515,
+    "adresse": "8 Rue Marcel Aymé, 89300 Joigny",
+    "horaires": "Caveau ouvert sans rendez-vous le vendredi de 9h à 12h, les autres jours sur rendez-vous (site du domaine). Le guide 2026 des producteurs du Nord de l'Yonne indique du lundi au jeudi de 9h à 12h et de 13h à 17h, le vendredi de 8h à 12h : appeler avant de passer.",
+    "produits": [
+      "Bourgogne blanc (chardonnay)",
+      "Bourgogne rouge (pinot noir)",
+      "Crémant de Bourgogne blanc de blancs",
+      "Cuvée Le Calvaire (pinot noir)"
+    ],
+    "description": "Domaine viticole des coteaux de Joigny, repris par trois associés, qui vend au caveau ses vins de Bourgogne et son crémant, avec dégustation. Aucune certification en cours au registre de l'Agence Bio. Photo : vignes du domaine au-dessus de Joigny, publiée par le Domaine Croix Saint-Jacques.",
+    "telephone": "03 10 45 02 64",
+    "site_web": "https://croixstjacques.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20Croix%20Saint-Jacques%2C%208%20Rue%20Marcel%20Aym%C3%A9%2C%2089300%20Joigny",
+    "image_url": "/images/marchands/domaine-croix-saint-jacques-joigny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "jardins-du-coteau-joigny",
+    "nom": "Les Jardins du Coteau",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.984108,
+    "lon": 3.413132,
+    "adresse": "Chemin de Chauffour, 89300 Joigny",
+    "horaires": "Vente sur place le mardi de 10h à 13h (guide 2026 des producteurs locaux du Nord de l'Yonne) ; l'annuaire « J'veux du local » de la Chambre d'agriculture de l'Yonne indique le mardi de 8h à 12h30.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Paniers de légumes"
+    ],
+    "description": "Atelier chantier d'insertion en maraîchage, créé en 2021 avec le soutien de la Ville de Joigny : 2,4 hectares et 1 100 m² de serres au pied des coteaux, cultivés par des salariés en parcours d'insertion, qui vendent leurs légumes sur place chaque mardi. La certification biologique de l'ancienne structure a pris fin en 2024 et aucune n'est inscrite au registre pour l'association actuelle. Photo thématique : vignes de la Côte Saint-Jacques au-dessus de Joigny, Ville de Joigny (page « Belvédère de la Côte Saint-Jacques ») ; elle ne montre pas les jardins.",
+    "site_web": "https://groupevitaminet.com/structures-insertion/les-jardins-du-coteau/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Jardins%20du%20Coteau%2C%20Chemin%20de%20Chauffour%2C%2089300%20Joigny",
+    "image_url": "/images/marchands/jardins-du-coteau-joigny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amapp-des-maillotins-joigny",
+    "nom": "AMAPP des Maillotins",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.985165,
+    "lon": 3.39606,
+    "adresse": "1 Avenue de la Forêt d'Othe, 89300 Joigny",
+    "horaires": "Distribution le vendredi de 17h30 à 19h (site de l'AMAPP et guide 2026 des producteurs locaux du Nord de l'Yonne), sur contrat souscrit à l'avance.",
+    "produits": [
+      "Légumes",
+      "Pain et viennoiseries",
+      "Œufs frais",
+      "Pâtes fraîches et biscuits",
+      "Volailles, bœuf et porc à dates régulières",
+      "Truite",
+      "Fromages de chèvre et miel",
+      "Farine et huiles"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne de proximité qui réunit chaque vendredi une douzaine de producteurs situés à moins de 50 km de Joigny et une centaine d'adhérents, sur contrats payés d'avance. Photo : betteraves d'un producteur de l'AMAPP, publiée par l'AMAPP des Maillotins ; elle ne montre pas le lieu de distribution.",
+    "site_web": "https://www.amappdesmaillotins.org/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAPP%20des%20Maillotins%2C%201%20Avenue%20de%20la%20For%C3%AAt%20d%27Othe%2C%2089300%20Joigny",
+    "image_url": "/images/marchands/amapp-des-maillotins-joigny.jpg",
+    "a_confirmer": true
   }
 ]

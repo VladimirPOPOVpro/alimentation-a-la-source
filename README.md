@@ -3974,9 +3974,46 @@ prioritaires en cas de conflit.
      qu'il faudrait recadrer pour retirer un visage reste fermée, et la fiche cherche une autre image. Ne sont pas des
      modifications le changement de format de fichier et la réduction de taille, qui ne changent rien de ce que montre l'image.
 
+319. **Un guide des producteurs que des intercommunalités publient dans le cadre d'un projet alimentaire territorial vaut la
+     page intercommunale de la règle 222 pour les heures d'un marché, et la source datée de la règle 195 pour une AMAP ; les
+     fiches de producteurs qu'il contient ne lèvent aucune réserve sur les personnes.** À Joigny, la Ville décrit son marché
+     couvert (halle de 1882, familles d'étals) mais n'écrit que « les mercredis et samedis matin » ; le *Guide des producteurs
+     locaux 2026 du Nord de l'Yonne*, réalisé par quatre communautés de communes dont celle du Jovinien et relayé par la Ville,
+     donne « mercredi et samedi : de 8h à 13h », le lieu, et le jour, l'heure et le lieu de distribution de l'AMAPP des
+     Maillotins. **Tranché ainsi** : c'est une publication de collectivités, datée de l'année, et non un relais touristique ;
+     elle donne l'heure d'un marché que la commune atteste (règle 222) et elle suffit, avec le site vivant de l'association, à
+     établir qu'une AMAP distribue encore (règle 195). Quand le guide et le site d'un producteur se contredisent sur des horaires,
+     les deux sont cités et la fiche reste `a_confirmer` (règle 5). En revanche, le guide présente chaque exploitation par le nom
+     de ceux qui la tiennent : une enseigne faite d'un patronyme ou d'un prénom reste écartée (règle 259), et la présence d'un
+     tel producteur sur un marché n'en documente pas les étals (règle 122).
+
 ## Marchands à confirmer
 
-737 fiches sur 827 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+741 fiches sur 831 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Joigny (halles)** (Joigny) (commune calculée de l'Yonne, première des quatre fiches de la règle 316 ; `marche`,
+  piliers des marchés déjà publiés. **Existence** : page « Le marché » de la Ville (halle Baltard de 1882, 80 places sous la
+  halle, 60 à l'extérieur, familles d'étals nommées), et guide 2026 des intercommunalités du Nord de l'Yonne. **Horaires, règle
+  319** : 8h-13h selon le guide, « matin » selon la Ville. **Point** : la Base Adresse Nationale connaît la place sous le libellé
+  abrégé « Pl Premier Rgt Volontaires Yonne » (voie, score 0,53) ; c'est son point qui est retenu. **Photo** : photographie de la
+  Ville, sans aucune clause sur son site (mentions légales sans réserve, `robots.txt` absent), recadrée sur la charpente pour
+  retirer tous les visages. Le marché du mardi de La Madeleine n'a pas de famille de produits écrite (règle 197).)
+- **Domaine de la Croix Saint-Jacques** (Joigny) (`producteur`, pilier `economie` seul (règles 14 et 15) : certificat biologique
+  arrêté en 2020. **Registre** : société civile active au 8 rue Marcel-Aymé, 01.21Z. **Horaires, contradiction consignée (règle
+  5)** : le site du domaine ouvre le caveau sans rendez-vous le vendredi de 9h à 12h ; le guide 2026 donne du lundi au jeudi 9h-12h
+  et 13h-17h, le vendredi 8h-12h ; les deux sont cités. Site sur Shopify, `robots.txt` sans exclusion d'agent d'IA, mentions sans
+  clause sur les images ; photographie des vignes publiée par le domaine. Téléphone fixe publié par le domaine.)
+- **Les Jardins du Coteau** (Joigny) (`ferme`, piliers `alimentation`, `economie`, `social` : chantier d'insertion. **Registre** :
+  association active (établissement du chemin de Chauffour) ; l'établissement de la structure précédente est fermé, et son
+  certificat biologique arrêté en 2024 : la fiche ne revendique pas le bio. **Horaires** : mardi 10h-13h selon le guide 2026,
+  8h-12h30 selon l'annuaire de la Chambre d'agriculture ; les deux sont cités (règle 5). Page du groupe qui porte l'association
+  mise à jour le 22 septembre 2026. **Photo thématique, règle 272** : vue des vignes de la Côte Saint-Jacques publiée par la Ville
+  sur la page d'un belvédère public, un fichier qu'aucune autre fiche ne porte. Le portable de la structure est celui d'une
+  personne nommée : non inscrit.)
+- **AMAPP des Maillotins** (Joigny) (`amap`, piliers des AMAP déjà publiées. **Règle 195** : distribution du vendredi 17h30-19h
+  publiée par le site vivant de l'association et par le guide 2026 (règle 319) ; siège de l'association à la mairie. **Photo,
+  règle 232** : betteraves d'un fournisseur publiées par l'AMAPP, sans clause ; les vues de distribution montrent toutes des
+  visages et deux images d'illustration du site ont l'allure de photographies de banque (règle 70), écartées. Portables des
+  contacts non inscrits.)
 - **Les Compagnons du Houblon** (Annonay) (commune calculée de l'Ardèche ; `producteur`, pilier `economie` seul (règles 14 et 15) : la brasserie revendique malt et miel biologiques, mais n'a aucun engagement au registre de l'Agence Bio. **Registre** : société active, 11.05Z, au 5 rue Eugène-Meyzonnier depuis juin 2024 (l'ancien établissement de la montée du Savel est fermé). **Horaires, règle 104** : le site de la brasserie écrit « Mercredi - Vendredi : 14h - 18h » pour le magasin, la fiche 2026 de l'Office de tourisme Ardèche Grand Air 16h-22h ; les deux sont cités et la fiche renvoie au site ; le seul numéro publié est un portable, non repris. Le site porte encore des textes de gabarit non remplis ; il a été ouvert et répond au nom de la brasserie. **Point** : BAN au numéro (0,961), à 2 m du point du registre. **Photo** : devanture publiée par la brasserie, aucune personne ; site sans mentions légales ni clause, `robots.txt` qui n'exclut personne ; 1 920 px réduits à 1 280, métadonnées retirées.)
 - **Fruits du Plateau Annonéen** (Annonay) (`ferme`. **Registre** : entreprise individuelle active, 01.24Z, enseigne « Fruits du Plateau Annonéen », siège au 51 rue Victor-Hugo ; **règle 311** examinée : le siège est le lieu de vente, mais l'office publie des horaires d'ouverture libres (été et hiver), donc la règle ordinaire s'applique ; le nom de l'exploitant n'est repris nulle part, et le seul numéro, un portable, ne l'est pas non plus. **Faits** : fiche 2026 de l'Office de tourisme Ardèche Grand Air (produits, horaires) ; l'exploitation n'a pas de site, sa page de réseau social n'a pas été lue. **Point** : BAN au numéro (0,965), confondu avec le point du registre ; la rue de Vissenty que cite l'office est à 250 m. **Photo, règle 312** : rayon de jus et de conserves de La Main Paysanne, fichier distinct de celui de sa fiche.)
 - **Marché d'Annonay** (Annonay) (`marche`, piliers des marchés déjà publiés. **Existence et horaires** : page « Les marchés » de la Ville (mercredi 8h-12h, alimentaire uniquement ; samedi 8h-13h15) ; l'office écrit 6h-13h et M ton Marché 7h30-12h30 le mercredi (règle 5 : les heures de la Ville font foi, l'écart est cité). **Règle 197** : la Ville et l'office n'écrivent que « produits locaux » et « marché alimentaire et de producteurs » ; c'est l'annuaire M ton Marché qui nomme les familles (fruits et légumes de la vallée du Rhône, fromages, charcuterie, œufs, miel, jus et compotes), comme à Vénissieux. **Point** : BAN sur la place de la Liberté (0,960). **Photo, règle 312** : la Ville nomme les photographies dans son interdiction, l'office réserve les siennes à l'usage privé (règle 246) ; légumes de La Main Paysanne, fichier distinct.)
@@ -11098,6 +11135,79 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-troisième de la nuit) : Joigny (Yonne), quatre fiches dans la commune, après douze communes du Lot-et-Garonne
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 827 fiches, appel national
+de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté (règle 177) : Oise 5,9535,
+Val-d'Oise 5,3717, Landes 5,2001 et Eure-et-Loir 5,1948 (épuisés, règle 265), **Lot-et-Garonne (47) 4,0011**, Allier 3,9975
+(Auvergne-Rhône-Alpes, fermé par la règle 41.c après Annonay), **Yonne (89) 3,9851**. Groupe de Labenne : la Ville de Capbreton
+n'ouvre toujours aucune connexion. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Lot-et-Garonne : Agen réessayée, puis douze communes, aucune zone.** Le site de la Ville d'Agen n'ouvre aucune connexion : elle
+reste muette et ne consomme pas la borne (règles 290 et 297). La source départementale Tourisme Lot-et-Garonne sert l'agent, mais
+réserve textes et photographies à l'usage privé (règle 246) ; l'office de la vallée du Lot écrit que ses photos « ne sont pas
+libres de droit ».
+
+- **Pont-du-Casse** (4 191) : aucun marché hebdomadaire ; un magasin de fruits et légumes de producteurs au centre commercial
+  (société active) n'a d'horaires que dans un article municipal d'ouverture de 2021 (règle 192).
+- **Layrac** (4 010) : la Ville réserve ses documents à l'usage privé (règle 296) et ne publie pas son marché ; la cave coopérative
+  des Vignerons du Brulhois, à Goulens, a des faits entiers mais des mentions qui nomment les images (règle 231).
+- **Aiguillon** (3 968) : le site de la Ville oppose un défi anti-robot à tout agent (règles 212 et 237) ; ses marchés ne reposent
+  plus que sur l'office (règle 196). **Une fiche entière, désignée pour la reprise (règle 258)** : la **Ferme des Aigrettes**
+  (8 rue d'Argenteau ; GAEC actif, 01.13Z ; certificat Ecocert engagé ; légumes et fruits biologiques, œufs ; boutique le lundi
+  10h-12h, le mercredi 10h-12h et 16h30-18h30, le vendredi 17h-19h, le samedi 10h-13h selon son site ; photographies de légumes
+  servies par `assets.zyrosite.com`, dont le `robots.txt` n'existe pas, en 768 px, taille la plus grande que la page demande,
+  règle 255). Une ferme bovine de la commune est proposée à la reprise par un réseau de transmission : écartée.
+- **Pujols** (3 769) : la Ville ne publie aucun marché hebdomadaire ; la ferme biologique de la commune n'a plus de site qui
+  réponde, l'annuaire commercial de l'agglomération qui la décrit est infecté de liens de casino et date du confinement (règle
+  101), et l'office ferme ses images.
+- **Sainte-Bazeille** (3 171) : la page « Marché » de la Ville est « en création » ; la ferme fruitière du lieu-dit la Bergerie
+  (sociétés actives) n'a ni site ni image permise.
+- **Colayrac-Saint-Cirq** (3 095) : le marché du dimanche lancé en juin 2026 n'est attesté que par une affiche sans famille de
+  produits (règles 178 et 197) ; la brasserie de la commune porte un nom dérivé d'un prénom (règle 259).
+- **Miramont-de-Guyenne** (3 081) : marché du lundi 8h30-12h « dans toute la bastide », sans famille de produits (règle 197) ; la
+  Ville réserve ses éléments à l'usage privé.
+- **Bias** (2 977), **Montayral** (2 654) et **Clairac** (2 606) : aucune page de marché communale ; les exploitations du registre
+  bio n'ont pas de point de vente publié, et la société de Clairac vend sur un marché de Gironde et en livraison.
+- **Penne-d'Agenais** (2 496) : la Ville publie une liste de producteurs en vente directe mais nomme les photographies dans son
+  interdiction. La ferme du Lacay (société active, pruneaux biologiques) n'a pas d'horaires de boutique publiés et ses seules
+  photographies du lieu font moins de 600 px (règle 59) ; la boutique de pruneaux de la route de Tournon est tenue par une société
+  de commerce sans immatriculation agricole, pour le compte d'un producteur dont la raison sociale est un patronyme (règles 29 et
+  259) ; la ferme de Béqui n'a qu'une page de réseau social.
+- **Estillac** (2 463) : page de maintenance (503) ; **à réessayer en tête de la prochaine descente, en une requête, sans
+  entamer la borne (règles 288 et 290)**.
+- **Saint-Sylvestre-sur-Lot** (2 397) : marchés du mercredi et du samedi matin décrits par « produits frais », sans famille (règle
+  197) ; images de la Ville fermées.
+
+Point d'arrêt : **Saint-Sylvestre-sur-Lot** ; la prochaine passe dans le 47 réessaie d'abord Agen et Estillac, puis reprend à
+**Casseneuil** (2 348), en prenant d'abord les fiches désignées (Villeneuve-sur-Lot, Marmande, Nérac, Aiguillon).
+
+**Yonne : Joigny, commune calculée (règle 248), fait la passe.** La Ville publie son marché sans clause sur les images ; le *Guide
+des producteurs locaux 2026 du Nord de l'Yonne*, publié par les intercommunalités, donne les heures (**règle 319, nouvelle**).
+Deux fiches entières avec leur propre image (le marché des halles, le Domaine de la Croix Saint-Jacques), deux autres entières
+avec une image de la Ville ou de l'association (les Jardins du Coteau, l'AMAPP des Maillotins) : **quatre fiches, toutes dans
+Joigny, à moins de 3,3 km du centre**. **Règle 316** : aucun cinquième point illustrable dans la Communauté de communes du
+Jovinien à moins de 5 km de leur barycentre — les autres producteurs du guide proches de Joigny ne reçoivent que sur rendez-vous,
+ou portent une enseigne faite d'un nom de famille ou d'initiales ; le marché du mardi de La Madeleine n'a pas de famille de
+produits écrite (règle 197). Candidat qui compléterait le groupe : une ferme avicole biologique de Sépeaux-Saint-Romain (œufs en
+libre-service), à 15 km, au-delà de la distance de la règle 52. La prochaine passe dans l'Yonne reprend à **Migennes** (6 688).
+
+**Contradictions tranchées** : horaires du caveau (site du domaine contre guide 2026) et de la vente des Jardins du Coteau (guide
+2026 contre annuaire de la Chambre d'agriculture) : les deux versions citées, `a_confirmer` (règle 5).
+
+**Après la passe**, sur 831 fiches : Oise 6,0017, Val-d'Oise 5,4461, Landes 5,2253 et Eure-et-Loir 5,2199 (épuisés),
+**Bas-Rhin (67) 4,0259**, Lot-et-Garonne 4,0205, Allier 4,0168 ; l'Yonne tombe à 0,0044. La passe suivante ne peut pas viser la
+Bourgogne-Franche-Comté (règle 41.c) ; le Bas-Rhin (Grand Est) est ouvert.
+
+**Fiches écartées pour doute sur une personne** : dans le Lot-et-Garonne, des producteurs inscrits au registre bio en entreprise
+individuelle sous leur nom (Aiguillon, Bias, Clairac, Colayrac-Saint-Cirq, Penne-d'Agenais, Pujols, Montayral), une brasserie de
+Colayrac-Saint-Cirq et une boutique de pruneaux de Penne-d'Agenais ; dans l'Yonne, des vignerons, apiculteurs, maraîchers et
+producteurs de boissons de Joigny, Champlay, Paroy-sur-Tholon et Saint-Aubin-sur-Yonne dont l'enseigne est un nom de famille,
+un prénom ou des initiales. **Données personnelles écartées** : noms d'exploitants, de responsables, de photographes (y compris
+dans les noms de fichiers de la Ville de Joigny) et de directeurs de publication, portables et courriels lus sur les sites, dans
+le guide et aux registres ; les images ont été réencodées sans métadonnées (règle 235) ; rien n'en figure ici, dans une fiche,
+dans un nom de fichier ou dans un commit.
 
 ### Passe du 24 septembre 2026 (vingt-deuxième de la nuit) : Lot-et-Garonne et Yonne, aucune publication
 
