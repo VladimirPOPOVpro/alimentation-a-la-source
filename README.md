@@ -3954,6 +3954,26 @@ prioritaires en cas de conflit.
      leur déblocage. La descente de la règle 41.d ne reprend pas pour chercher une zone de cinq, et la passe ne baisse aucune
      exigence pour atteindre le chiffre.
 
+317. **Une ligne « Droits d'auteur pour les images » suivie de noms de photographes, sans aucune permission, ferme les images
+     comme le « © » de la règle 291.** Le site du réseau des Fermes de Garonne, édité par Val de Garonne Agglomération, ne porte
+     aucune clause de reproduction ; ses mentions légales écrivent seulement « Droits d'auteur pour les images : » suivi de deux
+     photographes et de leurs sites. La règle 306 laisse ouverte une ligne de crédits qui dit à qui appartiennent les
+     photographies ; la règle 291 ferme un « © » qui vise nommément les photographies faute de permission écrite. **Tranché
+     ainsi** : « droits d'auteur » posé sur les images est une réserve, pas un crédit — c'est le « © » écrit en toutes lettres ;
+     faute de permission ailleurs sur le site, les images ne se reprennent pas. Les faits du site restent lisibles, et une fiche
+     entière par ailleurs prend, si la règle 127 est remplie dans sa commune, une photographie thématique de la Ville (règle 272).
+     Un intitulé « Crédits » ou « Photos : » suivi de noms, sans le mot « droits » ni « © », reste sous la règle 306.
+
+318. **Une permission de reproduire « sans modifier » n'autorise que le redimensionnement : une photographie qui ne se publie
+     qu'après un recadrage ne se reprend pas sous cette permission.** Les mentions légales de la Ville de Nérac autorisent à
+     télécharger et reproduire « l'ensemble des informations » à des fins d'information, non commerciales, « sous réserve de ne
+     pas modifier ces informations ». La règle 239 a déjà lu une permission conditionnelle comme excluant toute retouche autre que
+     le redimensionnement et le retrait des métadonnées ; la règle 46 (recadrer plutôt que renoncer) supposait une source sans
+     condition d'intégrité. **Tranché ainsi** : sous une permission qui interdit de modifier, une photographie se reprend entière,
+     redimensionnée et nettoyée de ses métadonnées, et seulement si elle ne montre aucun visage identifiable ; une photographie
+     qu'il faudrait recadrer pour retirer un visage reste fermée, et la fiche cherche une autre image. Ne sont pas des
+     modifications le changement de format de fichier et la réduction de taille, qui ne changent rien de ce que montre l'image.
+
 ## Marchands à confirmer
 
 737 fiches sur 827 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11078,6 +11098,116 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (vingt-deuxième de la nuit) : Lot-et-Garonne et Yonne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 827 fiches, appel national
+de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté (règle 177) : Oise 5,9535,
+Val-d'Oise 5,3717, Landes 5,2001 et Eure-et-Loir 5,1948 (épuisés, règle 265), **Lot-et-Garonne (47) 4,0011**, Allier 3,9975
+(Auvergne-Rhône-Alpes, fermé par la règle 41.c après Annonay), **Yonne (89) 3,9851**. Groupe de Labenne (règle 265) : le site de
+la Ville de Capbreton n'ouvre toujours aucune connexion, rien n'est débloqué. `origin/main` n'a pas bougé pendant la passe
+(règle 241). Le Lot-et-Garonne n'avait aucune fiche : sa descente part de sa commune la plus peuplée.
+
+**Sources départementales.** Registre de l'Agence Bio du 47 lu en entier (2 064 opérateurs) : à Agen, surtout des grossistes du
+marché d'intérêt national, des ateliers de l'Agropole et des supermarchés ; ailleurs, une majorité d'entreprises individuelles
+inscrites sous le nom de l'exploitant. Bienvenue à la Ferme répond 403 à tout agent (règle 237) ; les offices de tourisme de Val de
+Garonne et de l'Albret, Val de Garonne Agglomération et son site « territoire » refusent l'agent nommé (403 à lui seul, règle 257)
+et n'ont pas été consultés, pas plus que les annuaires commerciaux qui le refusent.
+
+**Lot-et-Garonne : douze communes éprouvées, aucune zone de cinq (règles 41.d, 96, 127, 247).**
+
+- **Agen** (32 801) : le site de la Ville a servi sa page d'accueil aux deux agents, puis a refusé toute connexion pour le reste de
+  la passe (règle 297) ; ses quatre marchés (Gravier, place du Pin, marché couvert) ne reposent donc que sur l'office Destination
+  Agen, qui ne suffit pas seul (règle 196). L'office nomme les « images » dans son interdiction (règle 231). La microbrasserie de
+  l'avenue du Général-de-Gaulle a des faits entiers, mais ses mentions légales de gabarit nomment les images (règle 310) ; le
+  magasin de producteurs de Boé (lac de Passeligne) réserve ses photographies à l'usage privé (règle 246) ; la boutique d'une marque
+  coopérative de pruneaux vend aussi des fruits secs importés (règles 86 et 304). **À réessayer en tête de la prochaine descente
+  du 47, en une requête, sans entamer la borne (règles 290 et 297).**
+- **Villeneuve-sur-Lot** (22 350) : la Ville ferme ses images (texte, « images », autorisation préalable). **Une fiche entière,
+  désignée pour la reprise (règle 258)** : le **marché biologique** du mercredi (8h-13h, halle de la place d'Aquitaine), le plus
+  ancien marché bio de France selon l'association qui le tient ; jour, lieu et heure concordent entre la page « Foires et
+  marchés » de la Ville et le site de l'association, qui publie la liste de ses exposants par famille de produits ; ce site n'a
+  ni mentions légales ni clause, et une photographie d'étal de légumes sous la halle y devient publiable après un recadrage qui
+  retire toute personne (règle 99). Le marché traditionnel de la place Lafayette (mardi et samedi, fruits et légumes selon la Ville)
+  n'a aucune image permise. Le magasin de producteurs bio annoncé au centre-ville a pour seul établissement au registre un siège
+  ouvert en 2026 dans une autre commune, à l'adresse d'une exploitation : contradiction sur le lieu (règle 5), non publié.
+- **Marmande** (17 328) : **deux fiches entières, désignées pour la reprise (règle 258)**. Les mentions légales de la Ville sont
+  celles du gabarit de Meudon (règle 309) : réutilisation non commerciale permise en citant l'origine et la date. Les **Halles de
+  Marmande** (place du Marché, du mardi au samedi de 7h à 13h ; fruits et légumes, volaille, poisson, boucherie, boulangerie,
+  produits locaux), publiées sur la page « Marchés et Halles » et dans l'annuaire de la Ville (règle 178), photographie de la
+  façade sans personne ; le **marché de plein vent du mardi** (esplanade de Maré, au kiosque, 17h-20h ; fruits et légumes,
+  fromages, yaourts, pains, plats cuisinés, vins, volailles, plantes), publié sur la page des marchés et sur sa page d'événement
+  (mise à jour le 9 septembre 2026) et cité par le journal municipal de septembre 2026, photographie de la Ville où les personnes
+  sont lointaines et dans l'ombre. Deux autres points tiennent : la **boutique des producteurs des Fermes de Garonne** (29 place
+  Henri-Birac ; association active au registre ; grille 2025 du réseau : du mardi au samedi, 9h-19h ; faits entiers, images
+  fermées par la **règle 317, nouvelle**, photographie thématique de la Ville possible au titre de la règle 272) et, dans Val de
+  Garonne Agglomération à 8,4 km du centre, la **Chèvrerie des Sources 47** à Castelnau-sur-Gupie (EARL active ; fromages de
+  chèvre ; vente du jeudi au samedi de 17h à 18h30 et le dimanche de 11h à 12h30 selon la fiche du réseau de septembre 2024 ;
+  site hébergé par Wix, images fermées par la règle 256). **Quatre points, il en faut cinq (règles 96 et 258).** Écartés pour le
+  cinquième : le marché du samedi place du Marché et celui du vendredi à la Gravette (aucune famille de produits écrite, règle 197 ;
+  leurs photographies de la Ville restent disponibles comme photographies thématiques) ; le point de vente d'une couveuse
+  agricole biologique route de Patras (aucune source datée de moins de douze mois, règle 195 par analogie) ; une exploitation
+  maraîchère de Fauillet (seule source : une fiche de 2021, site mort) ; un domaine viticole de Meilhan-sur-Garonne (aucune
+  entité exploitante active au registre, règle 6) ; une ferme fruitière et un maraîchage de Marmande (horaires publiés par des
+  annuaires qui refusent l'agent, ou par le producteur sur un site qui le refuse, règle 257) ; une ferme de fruits secs de
+  Gontaud-de-Nogaret (site qui refuse l'agent nommé). Le marché des producteurs de pays de la plaine de la Filhole est estival
+  (jeudis du 9 juillet au 27 août 2026). **Déblocage** : un cinquième point à moins de 15 km du centre de Marmande dans Val de
+  Garonne Agglomération, par exemple une source datée pour le point de vente de la couveuse ou pour l'exploitation de Fauillet.
+- **Tonneins** (9 459) : la Ville nomme les photographies dans son interdiction ; aucun commerce illustrable.
+- **Le Passage** (9 326) : la Ville réserve textes et photographies à l'usage privé (règle 246) et ne publie pas ses marchés ;
+  l'office seul ne suffit pas (règle 196).
+- **Nérac** (6 992) : **une fiche entière, désignée pour la reprise** : le **marché du samedi matin** (place du Général-de-Gaulle
+  et allées du Centre), publié par la Ville sur sa page des marchés et sur sa page du patrimoine gastronomique, qui nomme fruits,
+  légumes, melons, fraises et pruneaux ; l'heure n'est écrite nulle part (« matin », règle 222). Les mentions de la Ville
+  autorisent la reproduction non commerciale « sans modifier » (**règle 318, nouvelle**) ; la seule photographie du marché fait
+  600 px, au plancher de la règle 59. Le petit marché du vendredi n'a pas de famille de produits écrite (règle 197). Une
+  distillerie de gin sert ses images depuis Wix (règle 256) et n'a pas d'horaires de boutique.
+- **Sainte-Livrade-sur-Lot** (6 541), **Bon-Encontre** (6 530), **Casteljaloux** (4 755) et **Fumel** (4 690) : les quatre Villes
+  nomment les photographies dans leur interdiction ou les réservent à l'usage privé ; aucun commerce de ces communes n'a d'image
+  permise et de faits entiers (à Casteljaloux, un magasin vrac dont la liste de fournisseurs est une liste de marques, règle 86).
+- **Boé** (5 846) et **Foulayronnes** (5 476) : les sites des deux Villes refusent l'agent nommé (403 et 444 à lui seul, règle
+  257) ; leurs candidats (le magasin de producteurs du lac de Passeligne, une brasserie, une ferme bio) n'ont que des images
+  fermées.
+
+Point d'arrêt : **Fumel** ; la prochaine passe dans le 47 réessaie d'abord Agen (règle 297), puis reprend à **Pont-du-Casse**
+(4 191), Layrac (4 010) et Aiguillon (3 968), en prenant d'abord les fiches désignées ci-dessus.
+
+**Yonne : deux communes (règle 248), aucune zone.**
+
+- **Auxerre** (35 097) : la Ville nomme les images dans son interdiction ; ses six marchés n'ont pas de famille de produits
+  écrite (le samedi est dit « marché de producteurs locaux », ce qui ne dit pas ce qu'on y achète, règle 197) ; l'office légende
+  ses photographies d'un « © » ; le drive fermier de la rue Guynemer ferme ses photographies et interdit les requêtes
+  automatisées.
+- **Sens** (27 106) : la Ville ne pose qu'une clause générale sur « le contenu du site » (règle 231) et crédite ses photographes
+  sans réserve (règle 306) ; l'office Sens Intense autorise la reproduction électronique en citant la source avec la mention
+  « Droits réservés » (règle 239) ; la photothèque municipale, hébergée par Piwigo, refuse l'agent nommé (règle 257). **Trois
+  fiches entières, désignées pour la reprise** : le **marché couvert** (halles, place de la République ; lundi, mercredi, vendredi
+  et samedi de 8h à 13h selon la page de la Ville mise à jour le 17 août 2026 ; l'office arrête le mercredi et le samedi à 12h,
+  version citée, règle 176 ; fruits et légumes, boucherie, charcuterie, poissonnerie, fromagerie, boulangerie, miel ;
+  photographie intérieure de la Ville, personnes lointaines) ; les **Jardins de la Croisière** (5 chemin de la Croisière ;
+  association d'insertion du réseau Cocagne, active et certifiée au registre ; légumes biologiques ; boutique du lundi au samedi,
+  9h-12h et 13h30-17h30 selon son site, dont les mentions nomment les images ; vue aérienne des tunnels publiée par l'office) ; et,
+  à 4,1 km du barycentre dans le Grand Sénonais, l'**AMAP des Sénons** à Gron (distribution le jeudi de 18h à 19h, salle
+  Tournesol, 28 rue des Courois ; site vivant, articles de juillet 2026, règle 195 ; aucune mention légale, photographie de la
+  façade de la salle). Le **marché des Champs-Plaisants** (mercredi et dimanche, 8h-13h ; fruits, légumes) a des faits entiers,
+  mais la Base Adresse Nationale ne connaît pas la place, que la Ville réaménage, et personne ne publie de point (règle 166).
+  **Trois points plus un, il en faut cinq.** Écartés : un domaine viticole de Paron sans horaires de vente publiés (règle 192) ;
+  une fromagerie de Saligny et une brasserie de la rue Bellocier dont l'enseigne est un nom de famille (règle 259) ; un élevage
+  de volailles de Malay-le-Grand, vente sur commande et enseigne faite d'un prénom ; une épicerie fine de terrines de marques
+  (règle 86) ; le magasin du réseau Biocoop, faute de liste propre de ses producteurs (règle 273) ; une ferme pédagogique d'Évry,
+  hors du Grand Sénonais ; une huilerie de Dixmont à 15,6 km. **Déblocage** : un point pour le marché des Champs-Plaisants, ou des
+  horaires publiés par le domaine de Paron. La prochaine passe dans l'Yonne reprend à **Joigny** (9 016).
+
+**Après la passe**, rien n'étant publié, le classement ne change pas : Lot-et-Garonne 4,0011, Allier 3,9975, Yonne 3,9851. La
+dernière passe publiée visait Auvergne-Rhône-Alpes (Annonay) : la suivante peut viser de nouveau la Nouvelle-Aquitaine.
+
+**Fiches écartées pour doute sur une personne** : dans le Lot-et-Garonne, des producteurs inscrits au registre bio en entreprise
+individuelle sous leur nom (Villeneuve-sur-Lot, Marmande, Nérac, Sainte-Livrade-sur-Lot, Bon-Encontre, Le Passage), un domaine
+viticole de Marmande en entreprise individuelle qui ne reçoit que sur rendez-vous (règle 311), un verger de Sainte-Bazeille dont
+l'enseigne est un prénom ; dans l'Yonne, une fromagerie de Saligny, une brasserie de Sens, un élevage de Malay-le-Grand et une
+ferme d'Évry dont l'enseigne est bâtie sur un nom ou un prénom. **Données personnelles écartées** : noms d'exploitants, de
+gérants, de placiers, de photographes et de directeurs de publication lus sur les sites, aux registres et dans les mentions
+légales, portables et courriels ; aucune image n'a été déposée ; rien n'en figure ici, dans une fiche ou dans un commit.
 
 ### Passe du 24 septembre 2026 (vingt et unième de la nuit) : Annonay (Ardèche), quatre fiches dans la commune
 
