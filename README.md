@@ -10914,6 +10914,118 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 24 septembre 2026 (treizième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177), identique à celui des deux passes précédentes (règle 260) : Oise
+5,6045, Landes 5,0178, Eure-et-Loir 5,0126 et Val-d'Oise 4,8327 (épuisés, règle 265), **Bouches-du-Rhône (13) 4,1607**, puis
+**Hauts-de-Seine (92) 4,1502**. La dernière passe qui a publié visait la Bretagne (Lorient) : les deux régions sont ouvertes
+(règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241). Rien n'étant publié, aucune région n'est « visée »
+(règle 247).
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266) : `www.capbreton.fr` n'ouvre aucune connexion, `robots.txt`
+compris, aux deux agents (règle 237) ; le groupe reste à quatre points. **La Ferme des Roselières (Aubagne) n'est plus
+entière** : son site est un site Wix dont les photographies sont servies par `static.wixstatic.com`, dont le `robots.txt`
+répond 403 aux deux agents (règle 256) — la passe qui l'avait désignée ne l'avait pas vu ; c'est le cas du Primeur des
+Tilleuls, et la reprise le fait apparaître comme la règle 264 le demande. Ses faits restent vrais (vente à la ferme le jeudi
+16h30-18h30, 1650 route des Aubes). Le Moulin des Costes (Pélissanne) et le domaine Les Béates (Lambesc) ne se groupent avec
+aucune fiche entière nouvelle : la règle 302 ne s'ouvre pas (voir plus bas).
+
+**Bouches-du-Rhône : douze communes (règles 247 et 127), d'Eyguières à Mallemort.** Contrôle en deux requêtes (règle 257)
+avant chaque commune. Refusent l'agent nommé les Villes de Meyreuil (403) et de Cuges-les-Pins (403, quand l'agent par défaut
+reçoit 200), ainsi que les Vignerons du Garlaban (429 aux seuls agents d'IA, règle 280). La Ville de Gémenos répond 403 à tout
+agent (règle 237). Ferment leurs images en les nommant (règle 231) les Villes d'Eyguières, de Saint-Mitre-les-Remparts et de
+Mallemort, le Parc naturel régional des Alpilles (copie « réservée à l'usage exclusivement privé », règle 296) et l'office de
+tourisme de Cassis (« © » posé sur chaque photographie, règles 291 et 303). Le domaine `carnoux.fr` est le site d'une troupe de
+théâtre sans rapport avec la commune (règle 199) ; la Ville est `carnoux-en-provence.com`.
+
+1. **Eyguières** (7 119) — La Ville publie ses marchés (mardi matin place Thiers, samedi matin) mais ferme ses images. Les
+   producteurs de l'annuaire du Parc sont désignés par un nom de famille ou n'ont que des numéros de portable sous un nom de
+   personne (règles 229 et 259) ; le moulin à huile de la commune ne reçoit que sur rendez-vous. **Zéro.**
+2. **Sénas** (6 925) — Les mentions légales de la Ville portent « Contenu à venir » : aucune clause, les images sont ouvertes
+   (lecture ordinaire de la règle 231). Le règlement du marché de producteurs, en ligne sur `senas.fr`, le place **place
+   Auguste-Jaubert, lundi, mardi, mercredi, vendredi et samedi de 6h30 à 13h** (article 3), réservé aux exposants qui vendent
+   leur production (article 1) ; la page « Les Marchés » et la page « Grand marché des producteurs » en décrivent le samedi
+   (fleur de courgette, nèfles, petits violets, fèves, fenouil, olives) et situent le marché forain du **jeudi matin** sur la
+   même place (fruits et légumes, poissons, boucherie, charcuterie). Deux séances sur une place que la BAN connaît seule
+   (0,958, 43.746338 / 5.07583) font **une seule fiche** au titre de la règle 42 : **les marchés de la place Auguste-Jaubert**,
+   entière, illustrée par la photographie que la Ville attache à sa page des marchés (étal de légumes et sac « Consommez Sénas
+   — achetez local », 800 px, une main sans visage). La photographie du jeudi porte l'enseigne d'un étal de vêtements formée
+   d'un prénom (règle 75). Le **Cellier Saint-Augustin** (cave coopérative, avenue André-Aune, lundi-samedi 8h-12h et
+   14h15-18h ; société active) ferme ses « éléments visuels » dans ses CGV (règle 245) ; le domaine **Sinaca Villa** (747
+   chemin de Beauvezet, vendredi 17h30-19h et samedi 10h30-12h, retrait sur place ; société active, certification Qualisud
+   engagée le 27 mai 2025 sur le raisin de cuve ; BAN au numéro 0,956, 43.731641 / 5.070572) nomme les « images » dans son
+   interdiction. **Une seule** fiche entière ; deux autres aux faits entiers sans image permise.
+3. **Carnoux-en-Provence** (6 873) — La Ville publie le marché de l'esplanade Lyautey, jeudi et samedi 8h30-12h30, mais ne
+   nomme que des « produits alimentaires » et « régionaux » (règle 197) et n'en publie aucune photographie. La boulangerie au
+   levain de l'avenue Gay-Lussac n'a qu'un site en application JavaScript vide de contenu. **Zéro.**
+4. **Meyreuil** (6 747) — Ville fermée à l'agent nommé. **Zéro.**
+5. **Saint-Victoret** (6 730) — Aucun site de la Ville trouvé ; la ferme maraîchère de la Barbière n'a qu'une page de réseau
+   social (règle 33). **Zéro.**
+6. **Cassis** (6 661) — Les marchés et le Domaine du Paternel, instruits à la passe d'Aubagne, restent sans image permise.
+   **Deux fiches entières** : le **Château de Fontcreuse** (13 route Pierre-Imbert ; caveau du lundi au vendredi 8h30-12h et
+   14h-18h, fermé une semaine aux fêtes, sur sa page « Contact » ; AOP Cassis ; exploitation viticole active au registre,
+   certifiée Ecocert depuis le 20 février 2013 avec « Château de Fontcreuse 13 rue Pierre Imbert » pour lieu d'activité ; la
+   BAN ne connaît que la voie, le point du registre bio, 43.219337 / 5.560962, se retourne sur la route Pierre-Imbert à 94 m ;
+   mentions légales sans clause de reproduction ; vue du vignoble vers le cap Canaille, 1 889 px, sans personne, publiée dans
+   la médiathèque du domaine) et le **Domaine de la Ferme Blanche** (RD 559 ; lundi 9h-12h et 14h-18h, mardi-samedi 9h-12h et
+   14h-19h, dimanche 9h30-12h30 sauf le dernier du mois et les jours fériés ; AOP Cassis ; société active identifiée par ses
+   CGV, certifiée Bureau Veritas depuis le 13 mars 2013, « lieu de vente » RD 559 ; clause générale sur « le contenu », sans
+   image nommée ; photographie d'une bouteille du domaine au bord de la baie, 1 024 px, sans personne). **Point à trancher à la
+   reprise** pour la Ferme Blanche : le domaine écrit « angle avenue Albizzi », mais la BAN ne connaît pas la RD 559 et le point
+   du registre bio (43.24088 / 5.563208) se retourne sur le 1718 route de la Bédoule à 31 m, à 1,3 km du centre de l'avenue des
+   Albizzi (règles 10 et 24). Le Domaine du Bagnol (lundi-vendredi) ferme ses « images » ; le Clos Sainte-Magdeleine nomme
+   `ClaudeBot` dans son `robots.txt`. **Le groupe ne se complète pas** (règles 96 et 258) : à moins de 15 km du centre de Cassis
+   dans la Métropole, la Ferme des Roselières n'est plus entière, la Ferme en Herbe (Aubagne) nomme `ClaudeBot` dans son
+   `robots.txt`, les Vignerons de Roquefort-la-Bédoule servent leurs images par Wix (règle 256), la Ville de Roquefort-la-Bédoule
+   refuse l'agent nommé, les Vignerons du Garlaban aussi, la Ville de Ceyreste est un site Wix, et la coopérative de thés de
+   Gémenos ne publie aucun horaire de boutique. Aucune photographie thématique ne vient à leur place : la Ville et l'office de
+   Cassis ferment les leurs (règles 272 et 285). **Deux fiches entières, désignées pour la reprise.**
+7. **La Penne-sur-Huveaune** (6 605) — La Ville ne publie pas son marché du jeudi, que seul l'office recense (règle 196) ; le
+   marché nocturne n'a lieu qu'en juillet. **Zéro.**
+8. **Gémenos** (6 579) — Ville muette (403 à tout agent) ; aucun commerce indépendant de la Ville avec horaires publiés. **Zéro.**
+9. **La Bouilladisse** (6 547) — La Ville publie un « marché alimentaire » le jeudi 8h-12h place de la Mairie, sans aucune
+   famille de produits (règle 197) ni photographie. **Zéro.**
+10. **Cuges-les-Pins** (6 236) — Ville fermée à l'agent nommé ; l'élevage caprin de la RN 8 ne publie pas d'horaires, le site de
+    safran est servi par Jimdo (règle 238). **Zéro.**
+11. **Saint-Mitre-les-Remparts** (6 175) — Le marché provençal du mercredi matin, esplanade Vaillant, est décrit par la Ville,
+    qui ferme ses « documents photographiques » ; la pépinière du chemin des Étangs ne publie pas d'horaires. **Zéro.**
+12. **Mallemort** (6 166) — La Ville publie le marché du vendredi (8h-12h30, rue Coustet et cours Victor-Hugo) et le marché de
+    producteurs du mercredi (17h-19h, parvis de la Poste), mais ferme ses photographies ; le magasin de la ferme de Pont-Royal a
+    un site de gabarit sans horaires. **Zéro.**
+
+**Règle 302** : les fiches entières désignées des Bouches-du-Rhône sont le Moulin des Costes (Pélissanne), le domaine Les
+Béates (Lambesc), les deux domaines de Cassis et les marchés de Sénas. Aucune commune couverte de la Métropole n'en réunit
+quatre à moins de 15 km de son centre : Aix-en-Provence est à 16,7 km de Lambesc et 21,8 km de Pélissanne, Marseille à
+15,4 et 16,1 km des deux domaines de Cassis. La règle ne joue pas.
+
+**Reprise dans les Bouches-du-Rhône** : la descente reprend à **Saint-Cannat** (6 097). Fiches entières désignées pour la
+reprise (règle 258) : le Moulin des Costes (Pélissanne), le domaine Les Béates (Lambesc), le **Château de Fontcreuse** et le
+**Domaine de la Ferme Blanche** (Cassis, point de la seconde à trancher), les **marchés de la place Auguste-Jaubert**
+(Sénas). **Déblocages** nommés : pour Cassis, un troisième point illustrable à moins de 15 km dans la Métropole, ou une
+photographie thématique permise de la Ville ou de l'office ; pour la Ferme des Roselières, ses images servies par un domaine
+dont le `robots.txt` se lit ; pour Sénas, une seconde fiche entière dans la commune (le Cellier Saint-Augustin ou Sinaca Villa
+avec une image permise).
+
+**Hauts-de-Seine : deux communes (règle 248).**
+
+1. **Antony** (64 263) — Le site de la Ville sert l'agent nommé (et refuse l'agent par défaut, règle 284). Il décrit le marché
+   du centre-ville, place Patrick-Devedjian, mardi, jeudi et dimanche 7h30-13h30, et le marché fermier du quartier
+   Saint-Saturnin, place de l'Église, le dernier samedi du mois 9h-12h ; mais ses mentions légales réservent « les
+   représentations […] photographiques » et en interdisent la reproduction (règle 231). Les commerces bio de la commune au
+   registre sont des magasins de réseau ou des boulangeries sans liste de producteurs (règles 86 et 273). **Zéro.**
+2. **Neuilly-sur-Seine** (59 538) — La Ville refuse l'agent nommé (403, quand l'agent par défaut reçoit 200 : règle 257). Le
+   seul candidat indépendant est un primeur de réseau parisien. **Zéro.**
+
+**Reprise dans les Hauts-de-Seine** : la descente reprend à **Clamart** (58 576).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; avant instruction, des pistes à Eyguières, Sénas,
+Saint-Mitre-les-Remparts et Cuges-les-Pins (exploitations désignées par un nom de famille ou un prénom). **Données
+personnelles écartées** : les noms, courriels et portables d'exploitants, de gérants, de photographes et de créateurs de sites
+lus sur les sites des domaines, des Villes, de l'annuaire du Parc, au registre des entreprises et au registre de l'Agence Bio ;
+rien n'en figure ici, dans une fiche ou dans un commit. Les numéros de portable que publie un domaine de Sénas ne sont pas
+repris.
+
 ### Passe du 24 septembre 2026 (douzième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
