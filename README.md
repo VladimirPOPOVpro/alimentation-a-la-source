@@ -10871,6 +10871,100 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 24 septembre 2026 (neuvième de la nuit) : Morbihan et Bouches-du-Rhône, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 793 fiches,
+inchangé : outre-mer hors classement (règle 177), Oise 5,5443, Landes 4,9863, Eure-et-Loir 4,9812 et Val-d'Oise 4,7398
+(épuisés, règle 265), Hauts-de-Seine 4,0302 (Île-de-France, région de la dernière passe publiée, celle de Paris : règle
+41.c), **Morbihan (56) 4,0095**, puis **Bouches-du-Rhône (13) 4,0093**. `origin/main` n'a pas bougé pendant la passe (règle
+241). Rien n'étant publié, le classement ne change pas (règle 260) et aucune région n'est « visée » (règle 247).
+
+**Morbihan : douze communes (règles 247, 127 et 260), de Theix-Noyalo à Baud.** Contrôle en deux requêtes (règle 257) :
+refusent l'agent nommé les Villes de Larmor-Plage (444), Pluvigner (444), Caudan (444), Kervignac (403) et Ploeren (403) ;
+ferment leurs photographies celles de Theix-Noyalo et de Questembert (usage privé, photos nommées), de Brec'h, d'Elven et de
+Baud (règles 231, 246 et 296) ; le site de Languidic est une déclinaison de celui de Lorient Agglomération, dont les mentions
+ne permettent que l'usage personnel et privé. Seule la Ville d'Inzinzac-Lochrist a une clause générale qui ne nomme aucune
+image (règle 231). Côté offices : Baie de Quiberon (« les photos sur le site ne sont pas libres de droits »), Rochefort-en-Terre
+Tourisme (refus de l'agent nommé), Lorient Bretagne Sud Tourisme (usage privé), `morbihan.com` (refus de l'agent nommé).
+
+1. **Theix-Noyalo** (8 500) — Marché du dimanche matin près de la place de la Mairie, sans heure (Ville fermée) ; le maraîcher
+   bio du Clérigo, dont la boutique était documentée, est en liquidation depuis le 28 février 2025 ; la boulangerie bio de la
+   route du Pont n'a pas de site ; la Biocoop Bio Golfe d'Atlantheix est sous les CGU du réseau (règle 245). **Zéro.**
+2. **Larmor-Plage** (8 418) — **Une fiche entière** : la Biocoop Les 7 Épis de Larmor-Plage, 3 rue du Minio (lundi-samedi
+   9h30-19h, boucherie fermée de 13h15 à 15h15 le lundi et le samedi), photographie de façade du site de la coopérative, sans
+   personne, clause générale (même source que Keryado, Ploemeur et Guidel). L'AMAP de Larmor-Plage n'a que deux sources, qui
+   refusent toutes deux l'agent nommé (403, et 429 servi au seul agent nommé : règle 280). **Une seule.**
+3. **Questembert** (8 133) — Le magasin de producteurs bio de la zone de Lenruit a un site qui n'ouvre aucune connexion
+   (règle 237) ; le marché des producteurs du mercredi sous les halles n'a pas de site propre, et la Ville comme l'office
+   ferment leurs images. **Zéro.**
+4. **Languidic** (8 042) — **Une fiche entière** : la boutique éphémère du jardin de thé Filleule des Fées, à Trébihan (thé
+   breton bio cultivé sur place ; saison 2026 du 22 juillet au 4 septembre, du lundi au vendredi de 14h à 18h, publiée par
+   l'exploitant : règle 261), photographie des rangs de théiers du site de l'exploitant, sans personne, clause générale.
+   Point : ni le marqueur du commerce (retourné sur une autre voie à 151 m), ni celui de l'office (retourné sur une autre voie à
+   14 m) ne se valident (règles 24 et 34) ; resterait le point du lieu-dit Trébihan à la Base Adresse Nationale (score 0,955),
+   à 250 m des deux marqueurs, à dire dans la fiche. La boutique associative des Lang'ducteurs (1 place du Général-de-Gaulle,
+   association active, horaires publiés jour par jour, produits de producteurs de Languidic, Kervignac et Bubry nommés par
+   origine) a des faits entiers mais aucune image : le site ne porte qu'un bandeau dessiné, et les photographies de son drive
+   sont servies par un hébergeur dont le `robots.txt` ferme `/` (règle 238). Le marché du vendredi, place de l'Église, n'a ni
+   heure ni produit publiés (règle 197). **Une seule.**
+5. **Pluvigner** (7 682) — La Biocoop est sous les CGU du réseau ; la chèvrerie bio de Kerbarvec (vente à la ferme le mardi et
+   le vendredi de 17h à 19h d'avril à septembre selon l'office, sur demande en hiver selon son site) n'a pour contact que la
+   ligne mobile d'une personne nommée (règle 229), et l'office ferme ses photographies. **Zéro.**
+6. **Caudan** (7 206) — La boutique de légumes bio de l'ESAT de la route de Caudan ne publie aucun horaire (règle 192) ; le
+   marché à la ferme de Kerhet n'est attesté que par un article de mai 2025, qu'aucune page actuelle de l'association ne
+   reprend (règle 195 par analogie). **Zéro.**
+7. **Kervignac** (7 204) — Ty Producteurs, éleveurs de porcs en vente directe (magasins du Braigno et de Kernours, horaires
+   publiés), interdit nommément la reproduction de ses images, et l'office est en usage privé : faits entiers, aucune image.
+   Les Paniers de Locmaria publient deux horaires différents sur la même page et aucune entité du registre ne peut leur être
+   rattachée sans passer par des noms de personnes (règle 6). **Zéro.**
+8. **Brec'h** (7 052) — La champignonnière bio référencée à Brec'h vend sur les marchés et en magasins, pas à la ferme, et son
+   site la situe dans une autre commune. **Zéro.**
+9. **Ploeren** (6 790) — La ferme maraîchère bio de Kerverec a un site dont la dernière actualité date de 2021 et qui ne publie
+   aucun horaire de vente à la ferme ; le magasin bio de la rue Cadoudal est un réseau sans liste de producteurs (règle 86).
+   **Zéro.**
+10. **Inzinzac-Lochrist** (6 691) — **Une fiche entière** : le marché des producteurs de Lochrist, géré par la Ville, chaque
+    samedi de 9h à 12h30, place François-Mitterrand (page « Les marchés » et fiche d'agenda : règle 178 ; point de la place à
+    la Base Adresse Nationale, 0,947), photographie propre à cette fiche, recadrable sans visage à 798 × 706 (étal de légumes,
+    caisses de poivrons) ; produits lus sur la même photographie (règle 91) : camion de charcuterie, légumes. Lorient
+    Agglomération place ce marché « cour de l'école publique La Forgerine, derrière la Poste » : c'est la Ville, qui le gère,
+    qui fait foi (règle 22). Le marché de Penquesten (lundi 17h-19h, place de l'église, géré par une association ; photographie
+    de la Ville recadrable à 1 300 × 560 sans visage, ardoise « Abricot France BIO » lisible) **ne se place pas** : la Base
+    Adresse Nationale ne connaît ni la place ni le village sous ce nom, et ni la Ville ni un office ne publient de point
+    (règle 166). **Une seule.**
+11. **Elven** (6 651) — Ville fermée ; le site de la ferme bio de Lescastel n'ouvre aucune connexion ; le glacier bio du Guern
+    n'a qu'une page de réseau social. **Zéro.**
+12. **Baud** (6 367) — Ville fermée ; la Biocoop Callune est sous les CGU du réseau. **Zéro.**
+
+**Reprise dans le Morbihan** : la descente reprend à **Plescop** (6 362). Fiches entières isolées, nommément désignées pour la
+reprise (règle 258), à ajouter à celles de Ploemeur, de Guidel et de Séné : la **Biocoop Les 7 Épis de Larmor-Plage**, la
+**boutique du jardin de thé Filleule des Fées** (Languidic) et le **marché de Lochrist** (Inzinzac-Lochrist). Les deux
+dernières sont dans Lorient Agglomération à 3,8 km l'une de l'autre, et les Lang'ducteurs, faits entiers, à 7,0 km du marché de
+Lochrist : si une passe trouve une seconde fiche entière à Inzinzac-Lochrist (le marché de Penquesten dès qu'un point est
+publié, règle 166) ou à Languidic, la zone se complète au titre des règles 127 et 272, la Ville d'Inzinzac-Lochrist pouvant
+fournir les photographies thématiques. **Déblocage** nommé pour Penquesten : un point publié par la Ville ou par un office, ou
+l'apparition de la place dans la Base Adresse Nationale.
+
+**Bouches-du-Rhône : deux communes (règles 248 et 301), après Châteaurenard.**
+
+1. **Fos-sur-Mer** (15 862, commune calculée de la reprise) — Clause générale sur « les contenus » (règle 231), aucune image
+   nommée. L'arrêté municipal n° 2020-79 fixe quatre marchés de 8h à 13h — mercredi place de la République, jeudi avenue
+   René-Cassin (parking seniors), vendredi parking du Champ de foire (quartier des Carabins), samedi place du Marché neuf — pour
+   « denrées alimentaires et produits divers », formule commune aux quatre (règle 197). Seul le marché du mercredi, dit « du
+   Centre ancien », est décrit par la Ville à l'occasion de ses éditions festives mensuelles (maraîchers, poissonnerie) : il
+   pourrait être une fiche, mais il est seul. **Une au plus.**
+2. **Port-de-Bouc** (15 802) — La Ville limite la reproduction à l'usage strictement privé et nomme ses photographies ; aucun
+   commerce en circuit court à site propre. **Zéro.**
+
+**Reprise dans les Bouches-du-Rhône** : à **Tarascon** (15 396) ; fiches d'abord, la Ferme des Roselières (Aubagne) et Le
+Primeur des Tilleuls (Les Pennes-Mirabeau), puis le marché du mercredi de Fos-sur-Mer à instruire (point de la place de la
+République, photographie).
+
+**Fiches écartées pour doute sur une personne** : deux pistes, avant instruction — Ploeren (maison d'affinage, enseigne
+patronymique) et Inzinzac-Lochrist (panier bio, enseigne faite d'un prénom). **Données personnelles écartées** : les noms,
+prénoms et numéros mobiles d'exploitants lus sur les sites de fermes, au registre de l'Agence Bio et au registre des
+entreprises, les noms de photographes lus dans des noms de fichiers ou des crédits ; rien n'en figure ici, dans un commit ou
+dans un nom de fichier.
+
 ### Passe du 24 septembre 2026 (huitième de la nuit, après Paris) : Morbihan et Bouches-du-Rhône, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 793 fiches :
