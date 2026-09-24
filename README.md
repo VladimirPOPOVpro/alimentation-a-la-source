@@ -3987,9 +3987,49 @@ prioritaires en cas de conflit.
      de ceux qui la tiennent : une enseigne faite d'un patronyme ou d'un prénom reste écartée (règle 259), et la présence d'un
      tel producteur sur un marché n'en documente pas les étals (règle 122).
 
+320. **Un groupe bâti sur deux fiches entières (règle 127) qui n'atteint que quatre points dans les limites de la règle 96 se
+     publie à quatre.** À Obernai, la commune rend deux fiches entières avec leur image (le magasin bio La Source, le magasin du
+     verger expérimental) et une troisième dont seule l'image est thématique (le marché bio du samedi) ; la Communauté de
+     communes du Pays de Sainte-Odile ajoute une brasserie artisanale d'Innenheim, à 8,4 km du centre. Aucun cinquième point
+     illustrable : la Ville, l'office de tourisme et le camping municipal réservent leurs photographies à l'usage personnel, la
+     choucrouterie de Meistratzheim n'a plus de domaine à elle, le marché du jeudi n'a aucune image permise. La règle 258 dit que
+     trois points ne font pas une zone « puisque la règle 52 ne s'ouvre qu'à quatre » ; la règle 316 publie quatre fiches entières
+     d'une seule commune. **Tranché ainsi** : quatre points, dont au moins deux fiches entières dans la commune calculée et tous
+     dans la distance et l'intercommunalité de la règle 96, forment la zone que la règle 52 reconnaît ; la passe les publie, dit
+     pourquoi le cinquième manque et nomme son déblocage. En dessous de quatre, la règle 258 reste entière.
+
+321. **Une photographie qu'un commerce attribue à son propre lieu peut, découpée en deux vues de sujets différents, illustrer
+     comme photographie thématique deux autres fiches de la même commune.** La règle 66 n'autorise le découpage d'une même image
+     entre deux fiches que si la source ne l'attribue à aucune des deux ; la règle 312 permet qu'un commerce prête une
+     photographie à une autre fiche de sa commune. Le magasin La Source publie, sous un nom de fichier qui désigne son magasin
+     d'Obernai, une vue de son entrée : plantes aromatiques en sachets en haut, cagette de radis en bas. **Tranché ainsi** : la
+     source attribue l'image à un troisième lieu, pas à l'une des deux fiches qui l'empruntent ; chacune reçoit un découpage
+     franchement différent, sur un sujet différent, sans visage et d'au moins 700 px ; la description de chacune dit d'où vient
+     l'image et qu'elle ne montre pas le lieu ; les deux fiches sont `a_confirmer`. Le fichier retenu pour la fiche du commerce
+     lui-même n'est jamais celui qu'on découpe (règles 191 et 312). Ici : les aromatiques pour le marché bio du samedi, les radis
+     pour le magasin du verger expérimental.
+
 ## Marchands à confirmer
 
-741 fiches sur 831 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+744 fiches sur 835 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Magasin du Verger expérimental d'Alsace (Verexal)** (Obernai) (`ferme` au titre de la règle 29 : immatriculation agricole
+  active (association, 01.61Z) à l'adresse, fruits des vergers d'essai vendus sur place, et la description dit ce qui est revendu ;
+  piliers `alimentation`, `economie`, aucune certification au registre de l'Agence Bio. **Faits** : page « Notre magasin » du site
+  de l'association (horaires, fruits par saison, produits revendus). **Point** : numéro de la Base Adresse Nationale. **Image,
+  règles 256 et 321** : les photographies du site sont servies par un hébergeur dont le `robots.txt` répond « Access Denied » ;
+  photographie thématique de radis publiée par La Source d'Obernai, découpée, qui ne montre pas le verger)
+- **Marché bio du samedi d'Obernai** (Obernai) (`marche`, piliers des marchés et `environnement` au titre de la règle 132 : la Ville
+  tient deux marchés et intitule l'un d'eux « Marché bio », « dédié aux produits bio ». **Faits** : page « Les marchés d'Obernai »
+  de la Ville et sa fiche d'agenda, qui donnent le jour, l'heure, les exceptions et vingt-huit familles de produits. **Lieu, règle
+  299** : la halle porte un nom propre dont rien n'établit qu'il honore une personnalité publique ; elle s'écrit « halle du parking
+  des Remparts ». **Point** : celui que la Ville publie pour sa fiche d'agenda, à 82 m du 21a rue de Sélestat au contrôle inverse.
+  **Image, règles 312 et 321** : Ville, office de tourisme et camping municipal réservent leurs photographies à l'usage personnel ;
+  photographie thématique de plantes aromatiques biologiques publiée par La Source, découpée, qui ne montre pas le marché)
+- **Brasserie Ellipsys** (Innenheim) (`producteur` au titre de la règle 73, pilier `economie` seul (règles 14 et 15), aucune
+  certification au registre de l'Agence Bio. **Registre, règle 6** : société active, un établissement ouvert. **Faits** : site de la
+  brasserie (horaires, gamme, houblons alsaciens), lu dans le navigateur intégré, le contenu étant rendu côté client ; le site n'a
+  ni mentions légales ni `robots.txt`. **Téléphone** : le seul numéro publié est un portable ; il n'est pas repris. **Distance,
+  règle 96** : 8,4 km du centre d'Obernai, même intercommunalité)
 - **Marché de Joigny (halles)** (Joigny) (commune calculée de l'Yonne, première des quatre fiches de la règle 316 ; `marche`,
   piliers des marchés déjà publiés. **Existence** : page « Le marché » de la Ville (halle Baltard de 1882, 80 places sous la
   halle, 60 à l'extérieur, familles d'étals nommées), et guide 2026 des intercommunalités du Nord de l'Yonne. **Horaires, règle
@@ -11135,6 +11175,76 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-quatrième de la nuit) : Obernai (Bas-Rhin), quatre fiches dans le Pays de Sainte-Odile, septième commune de la descente
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 831 fiches, appel national
+de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté (règle 177) : Oise 6,0017, Val-d'Oise
+5,4461, Landes 5,2253 et Eure-et-Loir 5,2199 (épuisés, règle 265), **Bas-Rhin (67) 4,0259** — Grand Est, ouvert puisque la passe
+précédente visait la Bourgogne-Franche-Comté (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241). Groupe de
+Labenne : non revérifié, la Nouvelle-Aquitaine n'étant pas visée.
+
+**Sources refusées ou fermées dans le département.** Le portail open data de Strasbourg interdit `/api/` à tous les robots dans son
+`robots.txt` : ses jeux « vente à la ferme » et « marchés », qui avaient nourri la passe de Strasbourg, ne sont plus lus (règle
+214). `biocoop.fr` répond 403 à l'agent nommé (règle 257). Les Villes de Schiltigheim, d'Illkirch-Graffenstaden, d'Ostwald et
+d'Obernai, l'office de Sélestat Haut-Koenigsbourg, celui d'Obernai et le camping municipal d'Obernai réservent leurs
+photographies à l'usage personnel ou à une autorisation préalable (règles 231, 246 et 296).
+
+**Descente de la règle 41.d, Strasbourg et Haguenau étant pourvues :**
+
+- **Schiltigheim** (34 708) : le marché du jeudi (place de l'Hôtel de Ville) n'a aucune famille de produits écrite par la Ville
+  (règle 197) ; une boulangerie présente sur ce marché le documente pour le pain seul (règles 92 et 122). Les Halles du Scilt
+  n'ont que trois commerçants permanents — un restaurant, une épicerie fine qui ne nomme aucun producteur, une épicerie japonaise
+  (règle 86). Le magasin Biocoop de la route de Bischwiller n'a pas de source lisible (règle 257). **Une fiche entière, désignée
+  pour la reprise (règle 258)** : la boulangerie **Pain noir – Pain blanc** (SCOP SAS active, 17 rue de Lauterbourg ; pains au
+  levain de farines paysannes biologiques, meunerie du nord de l'Alsace ; boutique du mardi au vendredi 15h30-19h et le samedi
+  7h30-12h30 selon son site ; mentions sans clause sur les images, crédits photos sans « © » ni « droits » (règle 306) ; vues du
+  fournil et des étagères de pains, 3 000 px, sans visage).
+- **Illkirch-Graffenstaden** (27 872) : marchés du mercredi et du samedi (Cours de l'Illiade, place Quintenz) documentés par la
+  Ville, qui ferme nommément ses photographies ; le magasin Côté Nature ne publie que la liste de producteurs commune aux neuf
+  magasins de son réseau (règle 273). Zéro.
+- **Lingolsheim** (20 826) : marché du vendredi documenté par la Ville, sans aucune photographie ; la seule exploitation
+  biologique de la commune est fermée au registre depuis octobre 2023 (règle 6). Zéro.
+- **Sélestat** (19 589) : le site de la Ville répond 403 à l'agent nommé et 200 à un agent quelconque (règle 257) ; ses marchés ne
+  reposent plus que sur l'office (règle 196). Le magasin de producteurs **Le P'tit Marché Paysan** (24 route de Colmar, société
+  active, horaires publiés, aucune clause) a des faits entiers, mais ses vues du magasin font 500 px, sous le plancher de la règle
+  59, et les plus grandes montrent des visages : **désigné pour la reprise**, déblocage une vue du magasin d'au moins 600 px sans
+  visage. Le magasin Saint-Bio'z refuse l'agent nommé ; l'épicerie fine de la rue des Chevaliers est une société commerciale
+  distincte de la ferme qui la fournit (règle 29) et son site a cessé de répondre en cours de passe (règle 297) ; le maraîcher
+  biologique du carrefour Maison Rouge ne vend qu'en grande surface (règle 152). Zéro fiche entière.
+- **Bischheim** (18 558) : le marché du vendredi (place de la République) est documenté par la Ville, dont les mentions autorisent
+  la réutilisation non commerciale citée (règle 309) ; une photographie de la ferme urbaine municipale peut l'illustrer (règle 272).
+  **Une fiche entière, désignée pour la reprise.** Aucun autre point de vente vérifiable ; le magasin bio proche d'Hœnheim ne
+  répond pas.
+- **Ostwald** (13 946) : marchés du mercredi (rue de l'Île des Pêcheurs) et du vendredi (Wihrel) documentés par la Ville, dont les
+  mentions ferment nommément les photographies ; les deux fermes qu'elle cite (la Wickenau, la Colonie) n'ont pas de site. Zéro.
+- **Obernai** (12 587) **fait la passe** : **La Source Obernai** (magasin bio, sa propre photographie), le **magasin du Verger
+  expérimental d'Alsace** (Verexal) et le **marché bio du samedi** (photographies thématiques de La Source, **règle 321**,
+  nouvelle), plus la **Brasserie Ellipsys** à Innenheim, dans la Communauté de communes du Pays de Sainte-Odile, à 8,4 km du
+  centre. Distances au centre d'Obernai : 0,7 km (marché), 1,5 km (La Source), 2,4 km (Verexal), 8,4 km (brasserie). **Règle 320**
+  (nouvelle) : quatre points et pas cinq. Candidats qui compléteraient le groupe : le marché du jeudi d'Obernai (faits entiers,
+  aucune image permise) et la choucrouterie de Meistratzheim (vente directe en semaine selon les offices ; son ancien domaine
+  redirige vers un site sans rapport, règle 199). Déblocage : une photographie permise de l'un ou de l'autre.
+
+Point d'arrêt : **Obernai**, septième commune ; la prochaine passe dans le 67 reprend à **Bischwiller** (12 242), en prenant d'abord
+les fiches désignées (Schiltigheim, Sélestat, Bischheim).
+
+**Contradictions** : aucune sur les fiches publiées. À Schiltigheim, une AMAP est placée au 8 rue de la Glacière (18h-19h30) par
+l'annuaire du réseau et sur la place de la Liberté (17h30-19h) par son maraîcher ; elle n'est pas publiée, pour la raison dite
+ci-dessous.
+
+**Fiches écartées pour doute sur une personne** : à Schiltigheim, une ferme dont l'enseigne est un patronyme, une AMAP et son
+maraîcher dont l'enseigne est faite d'un prénom ; à Lingolsheim, une exploitation immatriculée sous un nom de personne ; à
+Ostwald, une ferme que les annuaires présentent par le prénom de son exploitant et un numéro de portable ; à Obernai et
+alentour, des vignerons, une distillerie, une boulangerie et une ferme dont l'enseigne est un nom de famille. La halle du marché
+bio d'Obernai s'écrit par sa fonction (règle 299). **Données personnelles écartées** : noms et prénoms de fondateurs, de gérants
+et de directeurs de publication lus sur les sites des commerces et des Villes, noms de photographes des crédits, portables des
+exploitations ; les images ont été réencodées sans métadonnées (règle 235). Rien n'en figure ici, dans une fiche, dans un nom de
+fichier ou dans un commit.
+
+**Après la passe**, sur 835 fiches : Oise 6,0498, Val-d'Oise 5,5204, Landes 5,2504 et Eure-et-Loir 5,2451 (épuisés),
+**Lot-et-Garonne (47) 4,0398**, Allier 4,0361, Loir-et-Cher 3,9786 ; le Bas-Rhin tombe à 0,0934. La passe suivante ne peut pas
+viser le Grand Est (règle 41.c) ; le Lot-et-Garonne (Nouvelle-Aquitaine) est ouvert, avec Agen et Estillac à réessayer d'abord.
 
 ### Passe du 25 septembre 2026 (vingt-troisième de la nuit) : Joigny (Yonne), quatre fiches dans la commune, après douze communes du Lot-et-Garonne
 

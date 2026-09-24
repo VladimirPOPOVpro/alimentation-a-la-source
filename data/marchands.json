@@ -22101,5 +22101,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAPP%20des%20Maillotins%2C%201%20Avenue%20de%20la%20For%C3%AAt%20d%27Othe%2C%2089300%20Joigny",
     "image_url": "/images/marchands/amapp-des-maillotins-joigny.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-source-obernai",
+    "nom": "La Source Obernai",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.467289,
+    "lon": 7.490423,
+    "adresse": "1 Rue de Pully, 67210 Obernai",
+    "horaires": "Du lundi au jeudi de 9h à 12h30 et de 14h à 19h, le vendredi de 8h30 à 19h, le samedi de 8h30 à 18h (site du magasin). Fermé le dimanche ; horaires des jours fériés affichés en magasin.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Pains frais",
+      "Produits frais et laitages",
+      "Vins d'Alsace, dont une cave en vrac",
+      "Bières artisanales alsaciennes",
+      "Épicerie en vrac : céréales, fruits secs, farines",
+      "Miel, confitures et sirops"
+    ],
+    "description": "Magasin bio indépendant de 300 m² ouvert en 2016 dans la zone du Galion, second magasin d'une petite enseigne née à Barr ; il publie la liste de ses partenaires locaux — maraîchers, arboriculteurs, fromagers, brasseurs, vignerons et moulins alsaciens — à côté des marques nationales. Certification biologique en cours (engagement de décembre 2024) au registre de l'Agence Bio. Photo : étal de fruits et légumes du magasin d'Obernai, publiée par La Source.",
+    "telephone": "03 75 13 00 10",
+    "site_web": "https://www.lasourcebio.com/nouvelle-page-1",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Source%2C%201%20Rue%20de%20Pully%2C%2067210%20Obernai",
+    "image_url": "/images/marchands/la-source-obernai.jpg"
+  },
+  {
+    "slug": "verexal-obernai",
+    "nom": "Magasin du Verger expérimental d'Alsace (Verexal)",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.469473,
+    "lon": 7.504744,
+    "adresse": "4 Rue Adolphe Mohler, 67210 Obernai",
+    "horaires": "Lundi de 14h à 17h30, du mardi au jeudi de 10h à 12h et de 14h à 17h30, vendredi de 10h à 17h30 ; fermé samedi et dimanche (site de Verexal). Fruits du verger selon la saison.",
+    "produits": [
+      "Pommes et poires toute l'année",
+      "Cerises, abricots, pêches et nectarines en été",
+      "Mirabelles et quetsches en automne",
+      "Légumes frais de saison",
+      "Fromages, farines et œufs de producteurs alsaciens",
+      "Confitures et bocaux"
+    ],
+    "description": "Magasin de la station d'expérimentation arboricole créée à Obernai en 1980 : il vend les fruits de ses vergers d'essai, au fil des saisons, et revend des légumes et produits transformés de producteurs alsaciens. Aucune certification biologique au registre de l'Agence Bio. Photo thématique : radis au magasin bio La Source d'Obernai, publiée par La Source ; elle ne montre pas le verger ni son magasin.",
+    "telephone": "03 88 95 21 02",
+    "site_web": "https://www.verexal.net/notre-magasin622799d8",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Verexal%2C%204%20Rue%20Adolphe%20Mohler%2C%2067210%20Obernai",
+    "image_url": "/images/marchands/verexal-obernai.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-obernai",
+    "nom": "Marché bio du samedi d'Obernai",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.460198,
+    "lon": 7.485245,
+    "adresse": "Halle du parking des Remparts, 67210 Obernai",
+    "horaires": "Chaque samedi de 8h à 12h30, y compris les samedis fériés sauf le 25 décembre, le 1er janvier et le 14 juillet (Ville d'Obernai). Lors d'une manifestation sur le parking des Remparts, il se tient sur le Rempart Foch, au-dessus de la porte Swal ; pas de marché le week-end du salon Biobernai en septembre.",
+    "produits": [
+      "Fruits, légumes et salades",
+      "Fromages et produits laitiers de vache et de chèvre",
+      "Miel, pollen et pain d'épices",
+      "Pain, viennoiseries et farines",
+      "Viandes, charcuterie, volailles et œufs",
+      "Vins d'Alsace et jus de fruits",
+      "Plantes aromatiques et médicinales",
+      "Choucroute et plats cuisinés"
+    ],
+    "description": "Marché complémentaire créé par la Ville en 2020, « dédié aux produits bio », qui réunit plus d'une vingtaine de producteurs locaux sous la halle du parking des Remparts ; c'est l'un des deux marchés hebdomadaires de la commune, à côté du grand marché du jeudi. La Ville ne publie ni liste d'exposants ni obligation de certificat : la fiche ne promet pas que chaque étal soit certifié. Photo thématique : plantes aromatiques biologiques au magasin La Source d'Obernai, publiée par La Source ; elle ne montre pas le marché.",
+    "site_web": "https://www.obernai.fr/Fr/Economie/Commerce-artisanat/Marches-Obernai.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parking%20des%20Remparts%2C%2067210%20Obernai",
+    "image_url": "/images/marchands/marche-bio-obernai.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-ellipsys-innenheim",
+    "nom": "Brasserie Ellipsys",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 48.495072,
+    "lon": 7.578497,
+    "adresse": "2a Rue du Stade, 67880 Innenheim",
+    "horaires": "Bar et boutique le jeudi de 18h à 20h et le vendredi de 18h à 20h ; de mars à fin septembre, le vendredi jusqu'à 22h avec un food-truck (site de la brasserie). Visites sur demande.",
+    "produits": [
+      "Blonde légère",
+      "Ambrée",
+      "Blanche de type hefeweizen",
+      "White IPA",
+      "Bières éphémères de saison, dont une bière au moût de gewurztraminer",
+      "Jus et limonades locaux"
+    ],
+    "description": "Micro-brasserie artisanale ouverte en 2021 entre Strasbourg et Obernai, qui brasse sur place avec des houblons alsaciens et vend ses bières au bar et à la boutique de la brasserie. Aucune certification biologique au registre de l'Agence Bio. Photo : salle de brassage, publiée par la Brasserie Ellipsys.",
+    "site_web": "https://brasserieellipsys.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Ellipsys%2C%202a%20Rue%20du%20Stade%2C%2067880%20Innenheim",
+    "image_url": "/images/marchands/brasserie-ellipsys-innenheim.jpg",
+    "a_confirmer": true
   }
 ]
