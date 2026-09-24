@@ -20845,5 +20845,142 @@
     "image_url": "/images/marchands/marche-du-parc-du-castel-floirac.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3%20avenue%20du%20Pr%C3%A9sident%20Fran%C3%A7ois%20Mitterrand%2C%2033270%20Floirac"
+  },
+  {
+    "slug": "halles-de-sete",
+    "nom": "Les Halles de Sète",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.402143,
+    "lon": 3.694844,
+    "adresse": "Rue Gambetta, 34200 Sète",
+    "horaires": "Tous les jours de 7h à 14h (jusqu'à 15h pour les bars et la restauration) ; fermé le 1er janvier. Horaires publiés par la Ville de Sète et repris à l'identique par l'office de tourisme de l'Archipel de Thau.",
+    "produits": [
+      "Poissons et coquillages de l'étang de Thau",
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Fromages",
+      "Pain et pâtisserie",
+      "Tielles sétoises",
+      "Pâtes fraîches"
+    ],
+    "description": "Marché couvert municipal du centre-ville, inauguré en 1890 dans le style Baltard, reconstruit dans les années 1970 et réhabilité à partir de 2011 ; plus de soixante-quinze commerçants, avec un côté mer consacré aux poissons et aux coquillages de l'étang de Thau. Le mercredi, le grand marché de plein air l'entoure. L'origine des marchandises n'est pas publiée étal par étal. Photo : Ville de Sète (sete.fr), façade des Halles.",
+    "telephone": "04 99 04 74 00",
+    "site_web": "https://halles-sete.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles%20de%20S%C3%A8te%20rue%20Gambetta%2034200%20S%C3%A8te",
+    "image_url": "/images/marchands/halles-de-sete.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "marche-du-mercredi-sete",
+    "nom": "Marché du mercredi de Sète",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.402757,
+    "lon": 3.695468,
+    "adresse": "Rue Gambetta et rue Alsace-Lorraine, 34200 Sète",
+    "horaires": "Mercredi de 7h30 à 13h, jusqu'à 14h en été, toute l'année (Ville de Sète, page des marchés mise à jour en juillet 2026). L'office de tourisme écrit 7h-13h dans son texte et 7h30-13h dans son calendrier.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Produits du terroir",
+      "Plats locaux à emporter",
+      "Fleurs et plantes"
+    ],
+    "description": "Le grand marché de plein air de la semaine, autour des Halles : partie alimentaire rues Gambetta et Alsace-Lorraine, marché aux fleurs place Léon-Blum, textile rue de la Savonnerie et quai d'Alger. En été, des navettes fluviales gratuites y mènent depuis le parking du Mas-Coulet. Photo : Ville de Sète (sete.fr), étals du marché du mercredi.",
+    "telephone": "04 99 04 74 00",
+    "site_web": "https://www.sete.fr/vie-quotidienne/infos-pratiques/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Alsace%20Lorraine%2034200%20S%C3%A8te",
+    "image_url": "/images/marchands/marche-du-mercredi-sete.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-frontignan",
+    "nom": "Halles municipales de Frontignan",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.445437,
+    "lon": 3.756145,
+    "adresse": "Place du Château, 34110 Frontignan",
+    "horaires": "Du mardi au dimanche de 6h à 15h ; fermé le lundi (Ville de Frontignan et office de tourisme de l'Archipel de Thau, qui concordent).",
+    "produits": [
+      "Poissonnerie et écaillerie",
+      "Primeur",
+      "Charcuterie",
+      "Fromagerie",
+      "Pâtes fraîches artisanales",
+      "Tielles et traiteur"
+    ],
+    "description": "Halles de type Baltard ouvertes en 1897 à côté de l'hôtel de ville, entièrement rénovées en 2016-2017 et ajourées autour de leur structure d'origine. Les jeudis et samedis matin, le marché traditionnel et le marché des producteurs de pays s'installent autour. Photo thématique : massif des Pierres Blanches à Sète, Ville de Sète (sete.fr) ; elle ne montre pas les halles.",
+    "site_web": "https://www.frontignan.fr/mon-quotidien/commerce-et-artisanat/halles-municipales/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles%20de%20Frontignan%20place%20du%20Ch%C3%A2teau%2034110%20Frontignan",
+    "image_url": "/images/marchands/halles-de-frontignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "etals-de-proximite-la-peyrade-frontignan",
+    "nom": "Les Étals de proximité de La Peyrade",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.426474,
+    "lon": 3.727031,
+    "adresse": "Place Gabriel-Péri, quartier de La Peyrade, 34110 Frontignan",
+    "horaires": "Dimanche de 8h à 13h, toute l'année (Ville de Frontignan, confirmé par le calendrier de l'office de tourisme).",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et coquillages",
+      "Olives",
+      "Plats cuisinés",
+      "Fleurs"
+    ],
+    "description": "Petit marché alimentaire du dimanche matin dans le quartier de La Peyrade, à côté du marché aux puces qui occupe la même place. L'office de tourisme y recense primeurs, poissonnier, écailler, olives et plats cuisinés. Photo thématique : port des Quilles à Sète, Ville de Sète (sete.fr) ; elle ne montre pas le marché.",
+    "site_web": "https://www.frontignan.fr/mon-quotidien/commerce-et-artisanat/marches-animation-commerciales/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Gabriel%20P%C3%A9ri%20La%20Peyrade%2034110%20Frontignan",
+    "image_url": "/images/marchands/etals-de-proximite-la-peyrade-frontignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-etang-de-thau-balaruc-le-vieux",
+    "nom": "Biocoop de l'Étang de Thau",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.46505,
+    "lon": 3.691628,
+    "adresse": "Avenue de la Barrière, ZAE La Barrière, 34540 Balaruc-le-Vieux",
+    "horaires": "Du lundi au samedi de 9h à 19h30 ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes de saison bio",
+      "Pain frais local",
+      "Œufs",
+      "Fromage et charcuterie à la coupe",
+      "Vrac (plus de 150 références)",
+      "Vins et bières"
+    ],
+    "description": "Magasin bio du réseau Biocoop ouvert en 2005 dans la zone de La Barrière, avec rayons à la coupe et espace vrac ; il publie ses producteurs locaux, dont des domaines viticoles biologiques de Villeveyrac, Abeilhan et Montagnac. Certifié par Ecocert depuis 2006 au registre de l'Agence Bio. Photo thématique : promenade de la Corniche à Sète, Ville de Sète (sete.fr) ; elle ne montre pas le magasin.",
+    "telephone": "04 67 53 92 06",
+    "site_web": "https://www.biocoopbalaruc.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Etang%20de%20Thau%20avenue%20de%20la%20Barri%C3%A8re%2034540%20Balaruc-le-Vieux",
+    "image_url": "/images/marchands/biocoop-etang-de-thau-balaruc-le-vieux.jpg",
+    "a_confirmer": true
   }
 ]

@@ -3753,7 +3753,11 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-700 fiches sur 783 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+704 fiches sur 788 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du mercredi de Sète** (Sète) (commune calculée, première des deux fiches entières de la règle 127. **Heures, règle 176** : 7h30-13h, 14h en été, selon la page des marchés de la Ville (modifiée le 9 juillet 2026) ; l'office de l'Archipel de Thau écrit 7h-13h dans sa description et 7h30-13h dans son calendrier : c'est la Ville qui est publiée. **Point** : celui de l'office, retourné par la BAN au 13 rue Gambetta (4 m), à 73 m de celui des Halles, qui restent une fiche distincte (règle 171 : la Ville distingue le marché couvert et le marché de plein air). **Image** : bandeau que la Ville a versé sur sa page des marchés (1 500 px), recadré à droite pour écarter un passant de profil ; les deux clientes restantes sont vues de dos. Mentions légales de la Ville sans clause qui nomme les photographies (règle 231).)
+- **Halles municipales de Frontignan** (Frontignan) (**Élargissement, règles 96 et 295** : Sète Agglopôle Méditerranée, à 11,3 km du centre de Sète. Mardi-dimanche 6h-15h selon la Ville (page des marchés, avril 2025 ; page des halles, juin 2026) et l'office, qui concordent. **Point** : celui de l'office, à 15 m de la place du Château de la BAN. **Image, règle 272** : la Ville de Frontignan interdit la reproduction des « représentations iconographiques et photographiques », l'office de l'Archipel de Thau celle de « ces photographies » : photographie thématique du massif des Pierres Blanches, Ville de Sète, sans personne. Le numéro que l'office imprime n'est pas repris (règle 201).)
+- **Les Étals de proximité de La Peyrade** (Frontignan) (**Élargissement, règles 96 et 295**, à 8,2 km. Dimanche 8h-13h selon la Ville et le calendrier de l'office ; la description de l'office écrit « de 6h à 13h », heure du marché aux puces voisin : la Ville est publiée (règle 176). **Produits** : liste de l'office (plats cuisinés, fruits et légumes, olives, coquillages, poissons, fleurs), la Ville ne disant que « produits alimentaires et fleurs ». **Point, règle 24** : l'office pointe l'avenue Célestin-Arnaud, à 230 m ; la BAN connaît la place Gabriel-Péri sous deux entrées distantes de 100 m, c'est celle de la voie, voisine du numéro 2, qui est publiée. **Image, règle 272** : port des Quilles, Ville de Sète, lieu d'un marché saisonnier non publié.)
+- **Biocoop de l'Étang de Thau** (Balaruc-le-Vieux) (**Élargissement, règles 96 et 295**, à 9,7 km. Registre : société active, un établissement ouvert ZAE La Barrière. Certificat Ecocert engagé depuis 2006, vente aux particuliers déclarée. **Règle 276** : la page « Nos producteurs locaux » que le magasin publie pour lui seul. **Point, règle 67** : JSON-LD du site, retourné par la BAN au 50 avenue de la Barrière (34 m), à 60 m du point du registre. **Image, règles 245 et 272** : les conditions générales du site nomment « les photographies » parmi ce qui ne se reproduit pas ; photographie thématique de la promenade de la Corniche, Ville de Sète, passants de dos.)
 - **AMAP de Bègles** (Bègles) (catégorie `amap`, sans `environnement` : aucune certification vérifiée pour l'ensemble des contrats. **Distribution en cours, règle 195** : le site vivant de l'AMAP donne le mardi de 18h30 à 19h30, salle Saint-Maurice, et un billet du 2 novembre 2025 renvoie à la distribution du mardi précédent ; le jeu `de_pat_p` de Bordeaux Métropole concorde. **Point** : celui que la Métropole donne à l'AMAP, la Base Adresse Nationale ne connaissant pas le 105 (voisins 99 et 109 à 84 m, règle 161 inapplicable) ; contrôle inverse à 42 m du 109 avenue Alexis-Capelle. **Image** : les pains d'une distribution sur la page « Pains » du site de l'AMAP, octobre 2021, sans visage ; les chevalets portent des noms de pains.)
 - **La Collective** (Bègles) (boulangerie au levain, `producteur` au titre de la règle 73. **Registre, règle 6** : SCOP active, établissement du 112 avenue Alexis-Capelle ouvert le 2 mai 2026, celui de Latresne fermé ; certificat Qualisud engagé au registre de l'Agence Bio, d'où le pilier `environnement`. `a_confirmer` : les horaires sont ceux que le site annonce « à partir de septembre 2026 ». Numéro mobile du site non repris.)
 - **Les Jardins Garonnais** (Floirac) (**Élargissement, règles 96 et 295** : Bordeaux Métropole, à 5,6 km du centre de Bègles. Vente à la ferme selon le site, avril 2026 ; le jeu de la Métropole ne donne que le samedi. Certificat Ecocert engagé. **Point, règles 35 et 63** : le marqueur que la ferme publie (lien d'itinéraire libellé « 3 chemin de Bories » alors que le texte dit 5) ; la BAN ne connaît que le 1 chemin des Bories, à 218 m. **Image** : les mentions légales de la ferme nomment les images (règle 245) ; photographie thématique de Bègles Plage fichée par l'office de Bordeaux Métropole (règle 298).)
@@ -10838,6 +10842,77 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Sète (Hérault) : cinq fiches publiées dans Sète Agglopôle Méditerranée
+
+Passe du 24 septembre 2026 (sixième de la nuit, après Bègles). Aucune demande de visiteur (ni nouvelle, ni en cours), aucun
+courriel. **Classement, règle 41**, recalculé sur 783 fiches : outre-mer hors classement (règle 177), Oise 5,4240, Landes 4,9234,
+Eure-et-Loir 4,9184 et Val-d'Oise 4,5539 (épuisés, règle 265), **Hérault (34) 3,9706**, premier département non épuisé, en
+Occitanie ; la passe de Bègles visait la Nouvelle-Aquitaine, la réserve de la règle 41.c ne joue pas. Le groupe de Labenne n'est
+pas vérifié : la Nouvelle-Aquitaine sort d'une passe (règle 266). `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Commune calculée : Sète** (45 337 habitants), la plus peuplée de l'Hérault sans fiche après Montpellier et Béziers. Première
+commune de la descente, elle rend **deux fiches entières** (règle 127). Les sources et ce qu'elles permettent :
+- **Ville de Sète** (`sete.fr`) : servie à l'agent nommé comme à l'agent par défaut, `robots.txt` sans exclusion ; mentions
+  légales qui protègent le « site » et son « contenu » sans nommer les photographies (règle 231). Page des marchés modifiée le
+  9 juillet 2026, page des Halles le 3 février 2026. C'est la seule source d'images ouverte de la zone.
+- **Office de tourisme de l'Archipel de Thau** (`archipel-thau.com`, où redirige l'ancien domaine de l'office de Sète) : lisible,
+  fiches datées de 2026, mais ses mentions légales écrivent que « la reproduction de ces photographies et illustrations est
+  interdite » ; ses images passent en outre par `api.cloudly.space`, qui répond 403 à `ClaudeBot` et à `GPTBot` et 200 à un
+  agent quelconque (règles 238 et 257). Il sert pour les faits, jamais pour les images.
+- **Site des Halles** (`halles-sete.fr`, lien donné par la Ville) : vivant (plan des Halles de novembre 2025), sans mentions
+  légales ; sa photographie de 800 px montre des passants de face, celle de la Ville est préférée.
+- Villes de **Frontignan** et de **Mèze** : leurs mentions légales nomment les photographies ou les images (règle 231) ; leurs
+  fiches prennent une photographie thématique de la Ville de Sète (règle 272), une par fiche, aucune d'un lieu publié.
+- Registre de l'Agence Bio, 3 277 opérateurs de l'Hérault : à Sète, rien de publiable seul — supermarchés, négoce portuaire,
+  certificats arrêtés, ou opérateurs inscrits sous un nom de personne.
+
+**Les cinq fiches** : les **Halles de Sète** et le **marché du mercredi** (Sète), puis, dans Sète Agglopôle Méditerranée
+(champ `epci` 200066355, règle 219), les **Halles municipales de Frontignan** (11,3 km du centre de Sète), les **Étals de
+proximité de La Peyrade** (Frontignan, 8,2 km) et la **Biocoop de l'Étang de Thau** (Balaruc-le-Vieux, 9,7 km). Frontignan et
+Balaruc-le-Vieux n'avaient aucune fiche. Les Halles de Sète sont publiées sans `a_confirmer` : Ville et office donnent les mêmes
+heures, et la photographie est celle de la Ville.
+
+**Départage (règles 92, 167, 168 et 197)**. Le **marché du vendredi**, avenue Victor-Hugo à Sète, avait jour, lieu et heures
+(Ville et office), mais une seule famille de produits écrite en toutes lettres — « fruits et légumes », le reste étant des
+« produits frais » et du textile ; le plancher de trois produits ne se comble pas en découpant une catégorie (règle 92), et sa
+photographie de la Ville montre une passante de face. Les Étals de La Peyrade ont une liste d'étals publiée par l'office et une
+séance le dimanche, que la zone n'avait pas. Le vendredi attend en pistes.
+
+**Images et visages** : la façade des Halles (Ville, 2 560 px) est recadrée au-dessus des terrasses, où l'on voyait des
+clients attablés ; le bandeau du marché du mercredi est recadré à droite pour écarter un passant de profil. Les noms de
+photographes que portent les noms de fichiers de la Ville et de l'office ne sont repris nulle part ; les métadonnées sont
+retirées (règle 235).
+
+**Pistes non publiées dans l'Hérault** :
+- **marché du vendredi, avenue Victor-Hugo, Sète** (vendredi 7h30-13h, 14h en été, selon la Ville ; 7h-13h selon l'office) —
+  entier sauf les produits (règle 92) et l'image. **Déblocage** : une source qui nomme au moins deux autres familles alimentaires,
+  et une photographie sans visage ou une place de photographie thématique ;
+- **marchés du lundi (Île de Thau, déplacé rue des Rouges-Gorges pendant un chantier), du jeudi (la Corniche, place
+  Édouard-Herriot) et du dimanche (le Barrou, place Bir-Hakeim), Sète** — la Ville donne jour, lieu et heures (7h30-13h), aucune
+  source ne dit ce qui s'y vend (règle 197). L'autorisation municipale mensuelle du marché du Barrou ne décrit pas les étals et
+  nomme des personnes : elle n'est pas reprise ;
+- **marché traditionnel de Frontignan** (jeudi et samedi 8h-13h, cœur de ville, Ville et office concordants) et **marché des
+  producteurs de pays** (jeudi, autour des halles, sans heure) — le premier ne décrit que des « produits frais et du terroir » et
+  des « producteurs de pays », le second n'a pas d'horaire (règle 192) ;
+- **Halles de Mèze** (mardi-dimanche 7h-13h selon l'office) et **marché de plein air de Mèze** (jeudi et dimanche) — non
+  instruits jusqu'au bout, la zone étant complète ; la Ville de Mèze ferme ses images ;
+- **boulangerie biologique au levain de Sète** — vend surtout sur commande et en dépôt ; l'opérateur certifié est inscrit sous
+  un nom de personne : écartée au titre du 12 septembre 2026, ne se rouvre pas ;
+- **magasin bio d'un réseau national à la Corniche, Sète** — certifié, mais le registre déclare qu'il ne vend pas aux
+  particuliers (règle 40) ; non instruit plus avant, la zone étant complète.
+
+**Reprise** : la prochaine passe qui vise l'Hérault reprend la descente à **Agde** (29 939). **Après la passe**, sur 788 fiches :
+l'Hérault tombe à −0,94 ; Oise 5,4842, Landes 4,9549, Eure-et-Loir 4,9498 et Val-d'Oise 4,6468 restent épuisés ; **Paris
+(4,0422)** arrive ensuite, sous la règle 82, puis le Morbihan (3,9526). La prochaine passe ne peut pas viser l'Occitanie
+(règle 41.c).
+
+**Données personnelles écartées** : les noms des commerçants que l'office cite dans ses fiches des halles de Frontignan et de
+Mèze ; les noms de photographes des fichiers de l'office, de la Ville et du site des Halles ; le nom de la responsable du magasin
+Biocoop et ceux des vignerons sur sa page de producteurs ; la présidente d'association et le signataire nommés dans l'autorisation
+du marché du Barrou ; le nom de la directrice de la publication de la Ville ; les patronymes sous lesquels le registre bio inscrit
+plusieurs opérateurs sétois, et le nom de personne porté par l'enseigne d'une boucherie des Halles et par une crèmerie dépositaire.
+Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
 
 ### Passe de Bègles (Gironde) : cinq fiches publiées dans Bordeaux Métropole
 
