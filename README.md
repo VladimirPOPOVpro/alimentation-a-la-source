@@ -3811,6 +3811,25 @@ prioritaires en cas de conflit.
      produits régionaux, ajoute un grossiste entre le producteur et le client, et une provenance nommée n'est pas un producteur
      nommé. Un primeur entre quand il publie les exploitations dont il vend la récolte et qu'il les achète chez elles, ou quand
      il vend sa propre production (règle 29).
+305. **Un « © » que l'autorité pose en légende sous chacune de ses photographies vaut le « © » incrusté de la règle 303.**
+     Les mentions légales de la Ville du Puy-Sainte-Réparade ne ferment rien de nommé : elles interdisent la reproduction de
+     « la conception, le graphisme, le contenu », clause générale au sens de la règle 231. Mais sa page « La route du terroir »
+     accompagne chaque photographie d'une légende « © Photo Mairie du Puy Sainte Réparade » (ou du nom du domaine qui l'a
+     fournie). La règle 291 ferme le « © » posé sur les photographies dans les mentions légales, la règle 303 celui qui est
+     incrusté dans l'image ; aucune ne visait la légende. **Tranché ainsi** : une légende « © » attachée à une photographie
+     précise vise cette photographie aussi nommément qu'une incrustation ; faute de permission écrite ailleurs sur le site, elle
+     ne se reprend pas. Une ligne « Crédits photos » qui énumère des sources sans « © » ni réserve reste sous les règles 231 et
+     306. **Déblocage** : une permission écrite de la Ville, ou la même photographie publiée par le domaine sur un site qui ne la
+     ferme pas.
+306. **Une ligne « Crédits photos » qui dit seulement à qui appartiennent les photographies n'est pas une interdiction.** Les
+     mentions légales de la coopérative des Vignerons du Mont Sainte-Victoire (Puyloubier) réservent le seul « contenu
+     rédactionnel » et se terminent par « Crédits photos : toutes les photos et illustrations sont la propriété » de la
+     coopérative, à l'exception de six images de banque nommées. La règle 231 ferme un site dont la clause *interdit* en nommant
+     les images ; la règle 291 assimile le « © » à « droits réservés » ; ici il n'y a ni interdiction, ni « © », ni réserve sur
+     les photographies. **Tranché ainsi** : dire qui possède une photographie, c'est la créditer, pas la fermer ; la
+     photographie se reprend sous la règle 231, nettoyée de ses métadonnées (règle 235), et la fiche cite la coopérative. Les
+     fichiers qui portent un « © » dans leur nom ou leur légende, et les images de banque exceptées, restent fermés (règles 70
+     et 303).
 
 ## Marchands à confirmer
 
@@ -10913,6 +10932,96 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (quatorzième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177), identique à celui des trois passes précédentes (règle 260) : Oise
+5,6045, Landes 5,0178, Eure-et-Loir 5,0126 et Val-d'Oise 4,8327 (épuisés, règle 265), **Bouches-du-Rhône (13) 4,1607**, puis
+**Hauts-de-Seine (92) 4,1502**. La dernière passe qui a publié visait la Bretagne (Lorient) : les deux régions sont ouvertes
+(règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241). Rien n'étant publié, aucune région n'est « visée »
+(règle 247).
+
+**Reprises d'abord.** Groupe de Labenne (règles 264 à 266) : `www.capbreton.fr` n'ouvre toujours aucune connexion, `robots.txt`
+compris, aux deux agents (règle 237) ; le groupe reste à quatre points. Aucune fiche désignée des Bouches-du-Rhône ne se groupe
+autour d'une commune couverte : la règle 302 ne s'ouvre pas (voir plus bas).
+
+**Bouches-du-Rhône : douze communes (règles 247 et 127), de Saint-Cannat à Rousset.** Contrôle en deux requêtes (règle 257)
+avant chaque commune. Refusent l'agent nommé la Ville de Roquefort-la-Bédoule, la Commanderie de la Bargemone et la cave
+coopérative de Saint-Cannat, deux domaines du Puy-Sainte-Réparade, le Domaine des Diables (Puyloubier), la Ville de Puyloubier,
+un domaine de Trets, et désormais le comité régional du tourisme (`provence-alpes-cotedazur.com`, 403 à l'agent nommé quand
+l'agent par défaut reçoit 200). L'office de tourisme d'Aix ne permet que « l'utilisation à titre exclusivement privé » (règle
+296) ; celui de Gardanne nomme les images dans son interdiction ; celui de La Roque-d'Anthéron réserve « les documents
+photographiques ». Le `robots.txt` du Château Montaurone adresse des consignes d'achat aux agents automatiques : c'est une donnée
+(règle 283), rien n'en a été suivi.
+
+1. **Saint-Cannat** (6 097) — La Ville nomme les images dans son interdiction. Le **Château Montaurone** (2430 route d'Éguilles ;
+   boutique du lundi au samedi 9h-12h et 14h-18h ; vignoble et oliveraie bio) a des faits entiers, mais ses mentions légales et
+   ses conditions générales nomment les images. **Zéro** ; Montaurone en pistes, faits vérifiés, sans image permise.
+2. **Noves** (6 080) — Clause générale, mais la Ville ne publie aucun marché ; le marché de producteurs du mardi soir, saisonnier
+   (avril-août), n'est recensé que par l'office et par des agrégateurs (règle 196). **Zéro.**
+3. **Le Puy-Sainte-Réparade** (5 935) — La page « La route du terroir » de la Ville décrit cinq domaines et quatre producteurs,
+   mais chaque photographie y porte une légende « © » (règle 305, nouvelle). le grand domaine d'art et de vin de la route de la Cride (caveau tous les jours 9h-19h30)
+   range « les photographies » parmi ce qu'il protège et n'autorise que l'usage privé ; un troisième domaine refuse tout agent ; le
+   domaine du maraîcher bio de la route du terroir a été racheté et sert des liens de référencement (règle 79) ; la
+   safranière n'ouvre que sur appel (règle 136). **Zéro.**
+4. **Ventabren** (5 839) — La Ville nomme les images ; la boucherie bio immatriculée dans la commune n'y a pas de boutique. **Zéro.**
+5. **Roquefort-la-Bédoule** (5 798) — Ville fermée à l'agent nommé ; les vignerons servent leurs images par Wix (règle 256). **Zéro.**
+6. **Simiane-Collongue** (5 780) — Clause générale, mais aucun marché ni producteur publié par la Ville ; le seul magasin bio est
+   un magasin de réseau (règle 273), la maison de thés assemble des thés importés. **Zéro.**
+7. **Peypin** (5 771) — La Ville n'autorise que l'usage privé ; aucun point de vente de producteur dans la commune. **Zéro.**
+8. **Ensuès-la-Redonne** (5 757) — La Ville nomme les photographies ; aucun producteur publié. **Zéro.**
+9. **Carry-le-Rouet** (5 702) — La Ville autorise la reprise sous conditions (règle 239), mais ne publie pas ses marchés
+   hebdomadaires, seulement des foires du port. **Zéro.**
+10. **Grans** (5 489) — La Ville autorise la reproduction électronique avec la source et « droits réservés » (règle 239) et tient
+    un annuaire des commerces ; mais les producteurs y sont désignés par un nom de famille ou un prénom (règle 259), la ferme du
+    quartier Bel Air ne publie ni horaires ni site, et le moulin à blé sert son site par Wix (règle 256). **Zéro.**
+11. **La Roque-d'Anthéron** (5 459) — La Ville réserve les « représentations photographiques » ; elle décrit le marché du jeudi
+    (cours Foch) et celui des producteurs du samedi. La ferme caprine de la Jacourelle (route de Sainte-Anne, vente du lundi au
+    samedi 9h-12h, fermée de janvier à mars) n'a qu'un site personnel éteint et une fiche d'office fermée. **Zéro.**
+12. **Rousset** (5 425) — La Ville publie son marché (mercredi 7h30-12h30, place Paul-Borde) et la liste de ses exploitations,
+    mais ferme ses photographies. **Deux fiches entières** : le **Moulin Les Cengles** (moulin à huile d'olive du domaine Terre de
+    Mistral, chemin du Pavillon, route de Peynier ; saison 2026-2027 annoncée par le moulin à partir du 6 octobre, du lundi au
+    samedi 10h-18h, règle 261 ; société active, certificat bio engagé ; marqueur du site, 43.470699 / 5.628032, à 30 m du point
+    du registre, la BAN ne connaissant pas le chemin, règles 63 et 67 ; mentions sans clause ; photographie de l'huile coulant
+    au moulin, 1 500 px, sans personne) et la **Cave de Rousset** (coopérative vinicole, quartier Saint-Joseph ; du lundi au
+    samedi 9h-12h30 et 14h30-19h, fermeture à 18h de janvier à mars ; société active, point du registre 43.482480 / 5.624208 à
+    110 m de la traverse Saint-Joseph que la BAN connaît seule ; aucune mention légale ; photographie des casiers de la
+    boutique, 1 920 px, sans personne). **Le groupe ne se complète pas** (règles 96 et 258) : dans la Métropole, à moins de
+    15 km du centre de Rousset, seule la coopérative des **Vignerons du Mont Sainte-Victoire** (63 avenue d'Aix, Puyloubier,
+    5,9 km ; juin-septembre 9h-12h30 et 13h30-18h, octobre-mai 9h-12h et 14h-18h, fermée dimanche et fériés ; société active ;
+    photographie de vignes au pied de la Sainte-Victoire, 1 200 px, reprise possible au titre de la règle 306, nouvelle) est
+    entière. Le domaine Terre de Mistral (boutique lundi 14h-19h, mardi-samedi 9h30-12h30 et 14h-19h) sert ses images par un
+    hébergeur dont le `robots.txt` répond 403 (règle 256) ; le Domaine de Saint-Ser, deux autres domaines du pied de la Sainte-Victoire et le
+    Mas de Cadenet nomment les images dans leur interdiction ; la Ville de Peynier n'autorise que l'usage privé et ses
+    producteurs sont désignés par des noms de personne ; un château du Tholonet porte un prénom et un nom dans son enseigne
+    (règle 259) ; Gardanne, Trets et Fuveau restent fermées ou muettes. **Trois points ne font pas une zone** (règle 258).
+
+**Règle 302** : les fiches entières désignées des Bouches-du-Rhône sont désormais le Moulin des Costes (Pélissanne), le domaine
+Les Béates (Lambesc), les deux domaines de Cassis, les marchés de Sénas, le Moulin Les Cengles et la Cave de Rousset. Aucune
+commune couverte de la Métropole n'en réunit quatre à moins de 15 km de son centre : Aix-en-Provence est à 20,0 et 20,7 km des
+deux fiches de Rousset. La règle ne joue pas.
+
+**Reprise dans les Bouches-du-Rhône** : la descente reprend au **Rove** (5 246). Fiches entières désignées pour la reprise (règle
+258), en plus de celles des passes précédentes : le **Moulin Les Cengles** et la **Cave de Rousset**, avec la coopérative des
+Vignerons du Mont Sainte-Victoire comme troisième point. **Déblocage** nommé : deux autres points illustrables à moins de 15 km du
+centre de Rousset dans la Métropole (par exemple les images de Terre de Mistral servies par un domaine lisible, ou une photographie
+permise d'une Ville voisine).
+
+**Hauts-de-Seine : deux communes (règle 248).**
+
+1. **Clamart** (58 576) — Le site de la Ville sert l'agent nommé, mais ses mentions légales interdisent le téléchargement des
+   images « à des fins autres que personnelles ». Les opérateurs bio de la commune sont des préparateurs, un supermarché ou des
+   boulangeries sans liste de producteurs (règle 86). **Zéro.**
+2. **Suresnes** (48 956) — Le site de la Ville n'ouvre aucune connexion (règle 237) ; le seul opérateur bio vendant aux
+   particuliers est une jardinerie de réseau. **Zéro.**
+
+**Reprise dans les Hauts-de-Seine** : la descente reprend à **Meudon** (46 334).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; avant instruction, des pistes à Grans, au
+Puy-Sainte-Réparade, à Peynier et au Tholonet (exploitations ou enseignes désignées par un nom de famille ou un prénom).
+**Données personnelles écartées** : les noms, courriels et portables d'exploitants, de gérants, de directeurs de publication et
+de webmestres lus sur les sites des domaines, des Villes et aux registres ; rien n'en figure ici, dans une fiche ou dans un commit.
 
 ### Passe du 24 septembre 2026 (treizième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
 
