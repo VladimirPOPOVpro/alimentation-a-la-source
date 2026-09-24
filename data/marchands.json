@@ -20982,5 +20982,120 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Etang%20de%20Thau%20avenue%20de%20la%20Barri%C3%A8re%2034540%20Balaruc-le-Vieux",
     "image_url": "/images/marchands/biocoop-etang-de-thau-balaruc-le-vieux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-convention",
+    "nom": "Marché Convention",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.836265,
+    "lon": 2.299759,
+    "adresse": "Rue de la Convention, trottoirs pair et impair, entre la rue Alain-Chartier et la rue de l'Abbé-Groult, 75015 Paris",
+    "horaires": "Mardi et jeudi de 7h à 13h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent. Troisième jour contesté, de 7h à 14h30 : samedi selon la page « Les marchés de Paris », dimanche selon la fiche du lieu et le jeu de données ouvert.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits et légumes : pêches et nectarines, abricots, cerises, pommes de terre grenaille, courgettes, poivrons, tomates, haricots verts (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 736 mètres de linéaire, sur les deux trottoirs de la rue de la Convention, près du métro Boucicaut. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient de la seule photographie qu'elle attache à ce marché, recadrée pour écarter le marchand.",
+    "site_web": "https://www.paris.fr/lieux/marche-convention-5501",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Convention+rue+de+la+Convention+Paris",
+    "image_url": "/images/marchands/marche-convention.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-maison-blanche",
+    "nom": "Marché Maison-Blanche",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.822326,
+    "lon": 2.358301,
+    "adresse": "Avenue d'Italie, côté pair, entre la rue du Tage et la rue du Moulin-de-la-Pointe, 75013 Paris",
+    "horaires": "Jeudi de 7h à 13h30, dimanche de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits : prunes noires, prunes jaunes, pêches plates (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 526 mètres de linéaire, sur une seule ligne d'étals le long du trottoir pair de l'avenue d'Italie, entre les métros Tolbiac et Maison Blanche. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient du gros plan qu'elle attache à ce seul marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-maison-blanche-5491",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Maison-Blanche+avenue+d'Italie+Paris",
+    "image_url": "/images/marchands/marche-maison-blanche.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-jeanne-d-arc",
+    "nom": "Marché Jeanne d'Arc",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.829885,
+    "lon": 2.368255,
+    "adresse": "Place Jeanne d'Arc, 75013 Paris",
+    "horaires": "Jeudi de 7h à 13h30, dimanche de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Légumes : choux rouges, carottes et poireaux en bottes, céleri branche, pommes de terre, oignons nouveaux (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 390 mètres de linéaire, installé sur les deux plateaux de la place Jeanne d'Arc, sous les arbres, près des Olympiades. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient de la seule photographie qu'elle attache à ce marché, recadrée pour écarter le marchand et les passants.",
+    "site_web": "https://www.paris.fr/lieux/marche-jeanne-d-arc-5494",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Jeanne+d'Arc+place+Jeanne+d'Arc+Paris",
+    "image_url": "/images/marchands/marche-jeanne-d-arc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-cours-de-vincennes",
+    "nom": "Marché Cours de Vincennes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.847588,
+    "lon": 2.402683,
+    "adresse": "Terre-plein du cours de Vincennes, côté pair, entre le boulevard de Picpus et la rue du Docteur-Arnold-Netter, 75012 Paris",
+    "horaires": "Mercredi de 7h à 13h30, samedi de 7h à 14h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Légumes : tomates en grappe, courgettes, radis, artichauts, salades (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 950 mètres de linéaire, l'un des plus longs de la liste de la Ville, sur le terre-plein du cours de Vincennes près de la porte de Vincennes. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient du gros plan qu'elle attache à ce seul marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-cours-de-vincennes-5482",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Cours+de+Vincennes+Paris",
+    "image_url": "/images/marchands/marche-cours-de-vincennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-belleville",
+    "nom": "Marché Belleville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.869492,
+    "lon": 2.379955,
+    "adresse": "Terre-pleins du boulevard de Belleville, 75011 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30, d'après la page des marchés, la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Légumes : carottes en bottes, choux-fleurs (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 1 068 mètres de linéaire, le troisième plus long de la liste de la Ville, sur les terre-pleins du boulevard de Belleville entre les métros Belleville et Couronnes. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient du gros plan qu'elle attache à ce seul marché.",
+    "site_web": "https://www.paris.fr/lieux/marche-belleville-5475",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Belleville+boulevard+de+Belleville+Paris",
+    "image_url": "/images/marchands/marche-belleville.jpg",
+    "a_confirmer": true
   }
 ]

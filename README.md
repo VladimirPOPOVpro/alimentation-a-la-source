@@ -2928,7 +2928,7 @@ prioritaires en cas de conflit.
      et un marché que la règle 138 débloque, mais dont un jour reste contesté, ne sert pas à compléter tant
      qu'il reste un candidat à jours concordants — il garde son tour de piste nommée pour la passe suivante.
      Ensuite, la photographie : les fichiers que la Ville a déposés le 1er, le 2 et le 3 juin 2026 sur ses
-     fiches de marchés sont des vues larges prises sur place — alignement d'étals sous les arbres, fontaine de
+     fiches de marchés sont des vues larges prises sur place (en partie seulement : voir la règle 300) — alignement d'étals sous les arbres, fontaine de
      la place Monge, auvents et chaussée —, quand ceux du 19 et du 25 août sont des gros plans serrés de
      produits. La photographie de la place Baudoyer, tirée de la série de juin, ne montre qu'un étal entier
      sous l'auvent aux couleurs de la Ville, sans façade ni arbre. **Critère** : le test « aucun élément du
@@ -3751,9 +3751,27 @@ prioritaires en cas de conflit.
      établir qu'il honore une personnalité publique ne figure ni dans la fiche, ni dans le nom du fichier image, ni dans le
      README ; l'équipement s'écrit par sa fonction et sa rue (« halle du marché, rue du Bourg »), ce qui suffit au visiteur.
 
+300. **Un gros plan de produits versé dans une série qui n'est pas homogène garde la présomption de la règle 91 ; la fiche dit
+     que c'est un gros plan.** La règle 223, écrite à la quatrième passe parisienne, décrivait les fichiers que la Ville a déposés les 1er,
+     2 et 3 juin 2026 sur ses fiches de marchés comme des « vues larges prises sur place ». Relus un à un le 24 septembre 2026,
+     ils ne le sont pas tous : Convention, Jeanne d'Arc, Baudoyer ou Monge montrent l'étal entier, les arbres, l'auvent ou la
+     place, mais Maison-Blanche, Cours de Vincennes, Belleville, Place des Fêtes et Barbès sont des gros plans de fruits, de
+     légumes ou de fleurs. La règle 139 ne fait retomber un gros plan sous la règle 1 qu'à deux conditions réunies : aucun
+     élément du lieu, **et** une série homogène de gros plans déposée le même jour sur plusieurs fiches ; la série de juin
+     mêle les deux sortes de vues. **Tranché ainsi** : la lettre de la règle 139 s'applique — dans une série mêlée, chaque
+     fichier attaché à une seule fiche, d'empreinte distincte (règle 88), reste un document au sens de la règle 91, et
+     `produits` peut y lire ce que l'étal montre ; mais la description dit que l'image est un gros plan, pour que personne ne
+     la prenne pour une vue du lieu, et la fiche reste `a_confirmer`. La série du 19 et du 25 août 2026, homogène, reste une
+     illustration. La phrase « vues larges » de la règle 223 se lit avec cette précision.
+
 ## Marchands à confirmer
 
-704 fiches sur 788 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+709 fiches sur 793 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Convention** (Paris 15e) (catégorie et piliers des marchés de plein air parisiens. **Première piste nommée** par la passe « du 16e au 11e », débloquée par la **règle 138** : mardi et jeudi 7h-13h30 concordants sur les trois publications de la Ville ; troisième jour contesté, samedi sur la page « Les marchés de Paris », dimanche sur la fiche du lieu et dans le jeu de données ouvert, toujours le 24 septembre 2026. **Point** : celui du jeu de données, à 12 m du 215 rue de la Convention au contrôle inverse. **Photo** : vue d'étal entier de la série de juin, recadrée sur ses 760 px de gauche pour écarter le marchand ; les étiquettes de cagettes, illisibles mais susceptibles de porter un nom, sont floutées.)
+- **Marché Maison-Blanche** (Paris 13e) (catégorie et piliers des marchés de plein air parisiens. Jeudi 7h-13h30 et dimanche 7h-14h30, concordants. **Adresse** : la fiche du lieu dit « entre les rues du Tage et du Moulin de la Pointe », le jeu de données « entre les rues du Docteur Laurent et la Porte d'Italie » ; la première est contenue dans la seconde, c'est elle qui est publiée (règle 98). **Point** : jeu de données, à quelques mètres du 152 avenue d'Italie. **Photo, règle 300** : gros plan de prunes et de pêches plates de la série de juin, recadré sous le buste d'un marchand vu sans visage.)
+- **Marché Jeanne d'Arc** (Paris 13e) (catégorie et piliers des marchés de plein air parisiens. Jeudi 7h-13h30 et dimanche 7h-14h30, concordants. **Point** : jeu de données, sur la place Jeanne-d'Arc au contrôle inverse. **Photo** : vue d'étal de la série de juin, recadrée sur sa moitié basse (1 200 × 400) pour écarter le visage du marchand et deux passants ; il reste une cliente sans visage.)
+- **Marché Cours de Vincennes** (Paris 12e) (catégorie et piliers des marchés de plein air parisiens. Mercredi 7h-13h30 et samedi 7h-14h30, concordants. **Point** : jeu de données, à 21 m du 42 cours de Vincennes. **Photo, règle 300** : gros plan de tomates de la série de juin, sans personne ; l'étiquette d'origine à demi visible n'est pas lue.)
+- **Marché Belleville** (Paris 11e) (catégorie et piliers des marchés de plein air parisiens. Mardi et vendredi 7h-13h30, concordants. **Point** : jeu de données, à 19 m du 45 boulevard de Belleville. **Photo, règle 300** : gros plan de carottes et de choux-fleurs de la série de juin, recadré pour écarter une silhouette lointaine.)
 - **Marché du mercredi de Sète** (Sète) (commune calculée, première des deux fiches entières de la règle 127. **Heures, règle 176** : 7h30-13h, 14h en été, selon la page des marchés de la Ville (modifiée le 9 juillet 2026) ; l'office de l'Archipel de Thau écrit 7h-13h dans sa description et 7h30-13h dans son calendrier : c'est la Ville qui est publiée. **Point** : celui de l'office, retourné par la BAN au 13 rue Gambetta (4 m), à 73 m de celui des Halles, qui restent une fiche distincte (règle 171 : la Ville distingue le marché couvert et le marché de plein air). **Image** : bandeau que la Ville a versé sur sa page des marchés (1 500 px), recadré à droite pour écarter un passant de profil ; les deux clientes restantes sont vues de dos. Mentions légales de la Ville sans clause qui nomme les photographies (règle 231).)
 - **Halles municipales de Frontignan** (Frontignan) (**Élargissement, règles 96 et 295** : Sète Agglopôle Méditerranée, à 11,3 km du centre de Sète. Mardi-dimanche 6h-15h selon la Ville (page des marchés, avril 2025 ; page des halles, juin 2026) et l'office, qui concordent. **Point** : celui de l'office, à 15 m de la place du Château de la BAN. **Image, règle 272** : la Ville de Frontignan interdit la reproduction des « représentations iconographiques et photographiques », l'office de l'Archipel de Thau celle de « ces photographies » : photographie thématique du massif des Pierres Blanches, Ville de Sète, sans personne. Le numéro que l'office imprime n'est pas repris (règle 201).)
 - **Les Étals de proximité de La Peyrade** (Frontignan) (**Élargissement, règles 96 et 295**, à 8,2 km. Dimanche 8h-13h selon la Ville et le calendrier de l'office ; la description de l'office écrit « de 6h à 13h », heure du marché aux puces voisin : la Ville est publiée (règle 176). **Produits** : liste de l'office (plats cuisinés, fruits et légumes, olives, coquillages, poissons, fleurs), la Ville ne disant que « produits alimentaires et fleurs ». **Point, règle 24** : l'office pointe l'avenue Célestin-Arnaud, à 230 m ; la BAN connaît la place Gabriel-Péri sous deux entrées distantes de 100 m, c'est celle de la voie, voisine du numéro 2, qui est publiée. **Image, règle 272** : port des Quilles, Ville de Sète, lieu d'un marché saisonnier non publié.)
@@ -10842,6 +10860,51 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe de Paris (12e, 13e, 15e, 11e) : cinq marchés publiés au titre de la règle 82
+
+Passe du 24 septembre 2026 (septième de la nuit, après Sète). Aucune demande de visiteur (ni nouvelle, ni en cours), aucun
+courriel. **Classement, règle 41**, recalculé sur 788 fiches : outre-mer hors classement (règle 177), Oise 5,4842, Landes
+4,9549, Eure-et-Loir 4,9498 et Val-d'Oise 4,6468 (épuisés, règle 265), **Paris (75) 4,0422**, premier département non épuisé,
+en Île-de-France ; la passe de Sète visait l'Occitanie, la réserve de la règle 41.c ne joue pas. Paris n'a qu'une commune,
+déjà pourvue : c'est la **règle 82** qui fait la passe, par les pistes de la section « Paris — du 16e au 11e ». `origin/main`
+n'a pas bougé pendant la passe (règle 241). Le groupe de Labenne n'est pas vérifié : la passe ne vise pas la Nouvelle-Aquitaine.
+
+**Sources** : la page « Les marchés parisiens » de `paris.fr`, les fiches « lieu » retrouvées par `lieux.xml.gz`, le jeu de
+données « Marchés découverts » (80 marchés), lu cette fois par `parisdata.opendatasoft.com`, le domaine `opendata.paris.fr` ne
+se résolvant pas depuis cet environnement, et la Base Adresse Nationale. Équipements municipaux : pas de test du registre
+(règle 106). Les fiches du lieu donnent comme contact les concessionnaires des marchés, sociétés dont le nom est un patronyme :
+ni leur nom ni leur numéro ne sont repris.
+
+**Choix des cinq (règles 139 et 223)** : d'abord la piste nommée, **Convention**, dont le troisième jour reste contesté
+(règle 138) ; puis, pas à pas, le candidat à photographie de la série de juin et à jours concordants le plus proche de l'une
+des fiches retenues : **Maison-Blanche** (4,6 km de Convention), **Jeanne d'Arc** (1,1 km de Maison-Blanche), **Cours de
+Vincennes** (3,2 km de Jeanne d'Arc) et **Belleville** (3,0 km de Cours de Vincennes). Les marchés Saint-Charles et
+Saxe-Breteuil, plus proches de Convention, n'ont que des gros plans de la série homogène d'août (règle 139) et ne complètent
+pas ; Grenelle n'a toujours pas de fiche du lieu (404). **Règle 300** née ici : la série de juin n'est pas faite que de vues
+larges, et trois des cinq photographies sont des gros plans, dits comme tels dans leur fiche.
+
+**Après la passe**, sur 793 fiches : Paris tombe à −0,81 ; Oise 5,5443, Landes 4,9863, Eure-et-Loir 4,9812 et Val-d'Oise
+4,7398 restent épuisés ; les **Hauts-de-Seine** (4,0302) suivent, mais en Île-de-France, que la réserve de la règle 41.c ferme
+à la prochaine passe ; viennent ensuite le **Morbihan** (4,0095) et les Bouches-du-Rhône (4,0093).
+
+**Restent à instruire à Paris, pour une passe suivante :**
+
+- **Marché Place des Fêtes** (19e) : mardi, vendredi 7h-13h30 et dimanche 7h-14h30, concordants ; gros plan de pastèques et
+  de bananes de la série de juin (règle 300). Premier à reprendre : 1,3 km de Belleville.
+- **Marché Barbès** (18e) : mercredi 7h-13h30 et samedi 7h-14h30, concordants ; gros plan de fleurs coupées de la série de
+  juin — l'étal photographié ne nourrit qu'une ligne de fleurs, le reste vient du classement de la Ville.
+- **Marchés Saint-Charles** (15e) et **Saxe-Breteuil** (7e) : inchangés ; jours concordants le 24 septembre 2026 sur la page
+  générale, la fiche du lieu et le jeu de données (Saxe-Breteuil : samedi jusqu'à 13h30 sur la page générale, 14h30 ailleurs,
+  règle 80) ; gros plans d'août seulement.
+- **Marché Grenelle** (15e), **Alésia** et **Salpêtrière** (13e), **Daumesnil** (12e) : leur fiche du lieu répond 404 ; pas
+  de photographie de la Ville.
+- **Le reste de la réserve** (une cinquantaine de marchés découverts) : jours concordants pour la plupart, mais seulement des
+  gros plans de la série d'août.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms des concessionnaires
+qui figurent sur les fiches du lieu et dans le jeu de données, et les étiquettes de cagettes de la photographie du marché
+Convention, floutées. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
 
 ### Passe de Sète (Hérault) : cinq fiches publiées dans Sète Agglopôle Méditerranée
 
