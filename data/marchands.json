@@ -21229,5 +21229,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Fran%C3%A7ois%20Mitterrand%2C%20Lochrist%2C%2056650%20Inzinzac-Lochrist",
     "image_url": "/images/marchands/marche-de-lochrist-inzinzac-lochrist.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-vendredi-graveson",
+    "nom": "Marché du vendredi de Graveson",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.851104,
+    "lon": 4.772733,
+    "adresse": "Cours National, 13690 Graveson",
+    "horaires": "Le vendredi de 8h à 13h, toute l'année, d'après la page des marchés de la Ville et la fiche de l'office de tourisme Terre de Provence, qui concordent.",
+    "produits": [
+      "Fruits et légumes de saison (étal photographié par la Ville)",
+      "Produits du terroir local",
+      "Produits frais de proximité"
+    ],
+    "description": "Marché hebdomadaire du vendredi matin, tenu le long du cours National ; la Ville le présente comme un marché qui encourage l'agriculture en circuit court et la diversité du terroir local. La seule photographie du marché publiée par la Ville montre des passants reconnaissables : l'image est une vue générale du village, qui ne montre pas le marché. Photo : Ville de Graveson (graveson.fr), droits réservés.",
+    "telephone": "04 90 95 71 05",
+    "site_web": "https://www.graveson.fr/decouvrir-graveson/gastronomie/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cours%20National%2C%2013690%20Graveson",
+    "image_url": "/images/marchands/marche-du-vendredi-graveson.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "bio-aubarede-graveson",
+    "nom": "Bio Aubarède",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.843874,
+    "lon": 4.762123,
+    "adresse": "12 Chemin du Mas de la Musique, 13690 Graveson",
+    "horaires": "Retrait des commandes le mardi et le jeudi de 10h à 17h et le samedi de 8h30 à 12h ; le samedi matin, vente sur place sans commande, selon les disponibilités du jour. Paiement par chèque ou en espèces.",
+    "produits": [
+      "Salades, fenouil et céleri",
+      "Choux-fleurs et chou kale",
+      "Tomates anciennes et tomates cocktail",
+      "Aubergines, courgettes et poivrons",
+      "Concombres",
+      "Framboises"
+    ],
+    "description": "Exploitation maraîchère certifiée bio (Certis, engagement de février 2021) qui vend aux particuliers ses fruits et légumes, y compris hors calibre à petit prix contre le gaspillage ; elle écrit que tout est produit sur place et récolté à la main. Son site place le retrait au n°100 du chemin, le registre des entreprises au n°12, où est le point. Ses mentions légales interdisent la reprise de ses images : la photo est une vue du village et de sa plaine, qui ne montre pas l'exploitation. Photo : Ville de Graveson (graveson.fr), droits réservés.",
+    "site_web": "https://bio-aubarede.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=12%20Chemin%20du%20Mas%20de%20la%20Musique%2C%2013690%20Graveson",
+    "image_url": "/images/marchands/bio-aubarede-graveson.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-cailloux-en-provence-rognonas",
+    "nom": "Les Cailloux en Provence",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.887771,
+    "lon": 4.812688,
+    "adresse": "1184 Route des Lonnes, 13870 Rognonas",
+    "horaires": "Vente à la ferme du lundi au vendredi de 7h à 12h et de 14h à 19h, le samedi de 7h à 12h, d'après l'exploitation et l'office de tourisme Terre de Provence (la page des commerces de la Ville donne encore 8h-12h et 14h-18h).",
+    "produits": [
+      "Tomates anciennes : cœur de bœuf, marmande, noire de Crimée, green zebra, cœur d'ananas",
+      "Concombres",
+      "Courges butternut",
+      "Salades",
+      "Légumes de saison"
+    ],
+    "description": "Exploitation maraîchère familiale née en 1960, spécialisée dans les tomates anciennes cultivées en pleine terre, qui a ouvert une vente à la ferme. Le registre de l'Agence Bio porte, au SIRET de l'exploitation, un engagement Bureau Veritas depuis 2009 pour des légumes sous abris et de plein champ. Photo : l'exploitation (cailloux-provence.com).",
+    "telephone": "04 90 94 98 34",
+    "site_web": "https://www.cailloux-provence.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1184%20Route%20des%20Lonnes%2C%2013870%20Rognonas",
+    "image_url": "/images/marchands/les-cailloux-en-provence-rognonas.jpg"
+  },
+  {
+    "slug": "marche-du-vendredi-eyragues",
+    "nom": "Marché du vendredi d'Eyragues",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.841211,
+    "lon": 4.840192,
+    "adresse": "Place Saint-Paul, 13630 Eyragues",
+    "horaires": "Le vendredi matin, toute l'année, sous les halles couvertes de la place Saint-Paul, d'après la page du marché de la Ville, qui ne publie pas d'heures. L'office de tourisme Terre de Provence donne 7h-13h, sauf le 1er mai, et le situe place de la Libération, voisine.",
+    "produits": [
+      "Fruits et légumes",
+      "Olives et épices",
+      "Poissons, fruits de mer et crustacés",
+      "Boucherie et volaille",
+      "Œufs frais",
+      "Rôtisserie"
+    ],
+    "description": "Marché hebdomadaire du vendredi matin sous les halles couvertes de la place Saint-Paul ; la Ville y recense primeurs, olives et épices, poissonnier, boucherie, volailles et œufs frais, à côté d'étals non alimentaires. Photo : Ville d'Eyragues, page « Photos libres de droits » — le kiosque du village, qui ne montre pas le marché.",
+    "site_web": "https://www.eyragues.org/marche.php",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Paul%2C%2013630%20Eyragues",
+    "image_url": "/images/marchands/marche-du-vendredi-eyragues.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mardi-rognonas",
+    "nom": "Marché du mardi de Rognonas",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.8987,
+    "lon": 4.804151,
+    "adresse": "Place du Marché, 13870 Rognonas",
+    "horaires": "Le mardi matin, toute l'année. La Ville écrit « marché hebdomadaire : mardi matin », l'office de tourisme Terre de Provence le situe place du Marché ; aucune heure n'est publiée.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et produits de la mer",
+      "Fleurs et plantes"
+    ],
+    "description": "Marché d'une dizaine d'étals sur la place du Marché, au centre du village, selon l'office de tourisme Terre de Provence ; la Ville le compte parmi ses rendez-vous de l'année. Photo : Ville de Rognonas — la façade de la mairie, place Jeanne-d'Arc, qui ne montre pas le marché.",
+    "telephone": "04 90 90 33 00",
+    "site_web": "https://www.rognonas.fr/F%C3%AAtes-et-traditions",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20March%C3%A9%2C%2013870%20Rognonas",
+    "image_url": "/images/marchands/marche-du-mardi-rognonas.jpg",
+    "a_confirmer": true
   }
 ]

@@ -3831,9 +3831,33 @@ prioritaires en cas de conflit.
      fichiers qui portent un « © » dans leur nom ou leur légende, et les images de banque exceptées, restent fermés (règles 70
      et 303).
 
+307. **Une permission de reproduire dont la condition est un lien hypertexte vers la page d'origine ne se remplit pas dans une
+     fiche : les images restent fermées, les faits restent lisibles.** L'annuaire de l'office de tourisme Terre de Provence
+     (`myterredeprovence.fr`) protège « textes, images, vidéos » puis n'autorise la reproduction qu'assortie de la mention
+     « article paru sur le site www.myterredeprovence.fr », qui doit pointer « grâce à un lien hypertexte directement sur le
+     contenu », et de « droits réservés ». La règle 239 accepte une permission conditionnelle quand la condition « est remplie
+     dans la fiche même » ; or le champ `description` est du texte simple et le champ `site_web` appartient au commerce : aucun
+     lien vers la page de l'office ne peut y figurer sans toucher au code. **Tranché ainsi** : une condition qu'une fiche ne
+     peut pas remplir vaut interdiction pour les images de ce site ; ses faits (jours, heures, lieux) se citent comme ceux de
+     tout office relais (règle 176). **Déblocage** : une permission sans lien obligatoire, ou la même photographie publiée par
+     le commerce ou la commune sur un site qui ne la ferme pas.
+308. **Un marché que la commune atteste avec son jour, sans lieu, et que l'office intercommunal situe sur la place qui porte
+     le nom du marché, se publie au titre de la règle 9, le lieu attribué à l'office.** La Ville de Rognonas écrit, dans sa
+     liste des rendez-vous de l'année, « Marché hebdomadaire : mardi matin », sans lieu ni heure ; l'office de tourisme Terre
+     de Provence le place « tous les mardis » sur la place du Marché, au centre du village, avec une dizaine d'étals. La règle
+     9 demande le jour et le lieu confirmés par deux sources officielles ; la règle 196 écarte le marché que seul l'office
+     recense. Ici le jour est confirmé deux fois, l'existence par la commune, et seul le lieu vient de l'office — un lieu que
+     la Ville emploie elle-même comme adresse dans ses pages (la « place du Marché de Rognonas » de son agenda). **Tranché
+     ainsi** : la fiche part, `horaires` donne la demi-journée en disant qu'aucune heure n'est publiée, le lieu est attribué à
+     l'office, et la fiche est `a_confirmer`. Un marché dont la commune ne dit pas même le jour reste sous la règle 196.
+
 ## Marchands à confirmer
 
-714 fiches sur 798 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+718 fiches sur 803 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du vendredi de Graveson** (Graveson) (commune calculée, première des deux fiches entières de la règle 127 ; catégorie et piliers des marchés municipaux. **Faits** : vendredi 8h-13h, cours National, identiques sur la page des marchés de la Ville et sur la fiche de l'office de tourisme Terre de Provence. **Photo, règles 1, 46 et 239** : la seule photographie du marché que publie la Ville montre, attablés en terrasse, des passants reconnaissables ; la Ville autorise la reproduction « sans modifier » et avec la mention du copyright, ce qui exclut le recadrage de la règle 46 ; la fiche prend donc une vue des toits et du clocher publiée par la Ville, redimensionnée et sans métadonnées, qui ne montre pas le marché. `a_confirmer` pour cette réserve.)
+- **Bio Aubarède** (Graveson) (seconde fiche entière de la commune ; `producteur`, piliers `alimentation`, `environnement` (certificat Certis engagé le 28 février 2021 au SIRET de la SCEA) et `economie`. **Registre** : SCEA active, enseigne BIO AUBAREDE, siège au 12 chemin du Mas de la Musique. **Point** : BAN au n°12 (0,955), à 110 m du point du registre ; le site de l'exploitation écrit « 100, chemin du Mas de la Musique » pour le retrait, numéro que la BAN ne connaît pas (règle 67). **Horaires** : ceux du site, retrait mardi et jeudi 10h-17h et samedi 8h30-12h, vente sans commande le samedi matin. **Téléphone** : le seul numéro publié est un portable, laissé de côté. **Photo** : les mentions légales de l'exploitation nomment les images dans leur interdiction (règle 231) ; vue panoramique du village et de sa plaine publiée par la Ville de Graveson, sous la même permission que la fiche précédente, distincte de celle-ci.)
+- **Marché du vendredi d'Eyragues** (Eyragues) (**Élargissement, règle 96**, Terre de Provence Agglomération (champ `epci` 200035087, règle 219), à 5,5 km du cours National. **Lieu, règle 176** : la Ville place le marché sous les halles couvertes de la place Saint-Paul et ne publie pas d'heures ; l'office donne 7h-13h, sauf le 1er mai, place de la Libération, à 120 m ; la fiche suit la Ville et cite l'office. **Photo** : le kiosque du village, pris dans la page « Photos libres de droits » de la Ville ; la photographie de la place de la Libération a été écartée parce qu'une plaque d'immatriculation y est lisible, et les photographies du marché font toutes moins de 600 px (règle 59).)
+- **Marché du mardi de Rognonas** (Rognonas) (**Élargissement, règle 96**, à 5,8 km. **Faits, règle 308, nouvelle** : jour par la Ville et par l'office, lieu par l'office seul, aucune heure. **Photo** : la façade de la mairie, publiée par la Ville, dont les mentions légales ne portent aucune clause de reproduction (règle 231) ; les fichiers sont servis par `le-cdn.website-editor.net`, dont le `robots.txt` répond 404, c'est-à-dire n'exclut personne (règle 238). Elle ne montre pas le marché.)
 - **Biocoop Les 7 Épis - Ploemeur** (Ploemeur) (**Règle 302**, Lorient Agglomération, à 3,9 km du centre de Lorient. Établissement actif au registre ; certificat Ecocert engagé pour le 14 rue de Kervam au registre de l'Agence Bio. **Point** : celui du registre, retourné sur la rue de Kervam (51 m du 16) ; la BAN ne connaît pas le 14. **Image** : rayon chips et huiles du site de la coopérative, dont les mentions légales ne contiennent aucune clause, recadré sur ses 880 px de gauche pour écarter le seul visage.)
 - **Biocoop Les 7 Épis - Guidel** (Guidel) (**Règle 302**, à 9,1 km. Établissement actif ; zone des Cinq Chemins déclarée au certificat Ecocert engagé de la coopérative. **Point, règle 24** : le point du registre se retourne sur l'impasse de Kerdudo, 780 m au nord ; c'est le marqueur de la carte que la coopérative publie pour ce magasin qui est retenu, retourné sur les Cinq Chemins. **Image** : mur de vrac du site de la coopérative, 1 920 px, sans personne.)
 - **Biocoop Les 7 Épis - Larmor-Plage** (Larmor-Plage) (**Règle 302**, à 3,6 km. Établissement actif ; engagement Ecocert « arrêté » en juillet 2026 au registre de l'Agence Bio, d'où l'absence d'`environnement`. **Point** : BAN au numéro, à 40 m du point du registre. **Image** : façade du site de la coopérative, recadrée au-dessus du parking pour écarter les plaques d'immatriculation.)
@@ -10932,6 +10956,61 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (quinzième de la nuit) : Graveson et Terre de Provence (Bouches-du-Rhône), cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, recalculé sur 798 fiches,
+dénominateur de la règle 224, outre-mer écarté (règle 177), identique à celui des quatre passes précédentes : Oise 5,6045,
+Landes 5,0178, Eure-et-Loir 5,0126 et Val-d'Oise 4,8327 (épuisés, règle 265), **Bouches-du-Rhône (13) 4,1607**, puis
+Hauts-de-Seine (92) 4,1502. La dernière passe qui a publié visait la Bretagne (Lorient) : la région Provence-Alpes-Côte d'Azur
+est ouverte (règle 41.c). Groupe de Labenne (règles 264 et 265) : `www.capbreton.fr` n'ouvre toujours aucune connexion, aux deux
+agents ; le groupe reste à quatre points. Règle 302 : les fiches désignées du département n'ont pas changé depuis la passe
+précédente, elle ne joue pas.
+
+**Bouches-du-Rhône : descente reprise au Rove (règles 247 et 127), zone trouvée à la troisième commune.** Contrôle en deux
+requêtes (règle 257) avant chaque commune.
+
+1. **Le Rove** (5 246) — Les mentions légales de la Ville interdisent la reproduction des « photographies et illustrations » ;
+   aucun marché publié, aucun opérateur bio vendant aux particuliers dans la commune. **Zéro.**
+2. **Ceyreste** (4 863) — La Ville publie un marché provençal le vendredi 8h-12h et un marché de producteurs le mardi 16h-19h,
+   sans lieu, sur un site servi par Wix (règle 256) dont les mentions nomment les photos dans leur interdiction ; aucune autre
+   image permise de la commune. **Zéro**, faits en pistes.
+3. **Graveson** (4 698) — **Deux fiches entières** (règle 127) : le marché du vendredi (Ville et office concordants) et
+   l'exploitation maraîchère bio de Bio Aubarède (société active, certificat Certis, horaires publiés par l'exploitation). La
+   Ville autorise la reproduction de ses contenus à des fins d'information, non commerciales, sans modification et avec la
+   mention du copyright (règle 239) : les deux fiches prennent chacune une vue différente du village, faute d'image propre
+   utilisable (voir « Marchands à confirmer »). **L'intercommunalité complète** (règle 96), Terre de Provence Agglomération,
+   toutes les fiches à moins de 6 km du cours National : la vente à la ferme des **Cailloux en Provence** à Rognonas (5,2 km ;
+   exploitation active au registre depuis 1985, engagement Bureau Veritas au registre de l'Agence Bio depuis 2009, horaires
+   publiés par l'exploitation et repris à l'identique par l'office ; photographie d'une cagette de tomates green zebra marquée
+   au nom de l'exploitation, sans personne, sur un site dont les mentions ne protègent que marques, enseignes et bases de
+   données), le **marché du vendredi d'Eyragues** (5,5 km) et le **marché du mardi de Rognonas** (5,8 km, règle 308, nouvelle).
+
+**Contradictions tranchées.** Aux Cailloux, la page des commerces de la Ville de Rognonas donne 8h-12h et 14h-18h et un autre
+numéro fixe : l'exploitation et l'office écrivent 7h-12h et 14h-19h, et ce sont eux qui sont publiés (règle 176, le commerce
+primant sur une page communale de commerces). À Eyragues, la place du marché diffère entre Ville et office (règle 176). À
+Graveson, le numéro de voie de Bio Aubarède diffère entre son site et le registre (règle 67).
+
+**Écartés en cours de route.** L'annuaire des producteurs de l'office Terre de Provence ferme ses images sous une condition
+qu'une fiche ne peut pas remplir (règle 307, nouvelle). Le magasin de vente directe d'une exploitation d'Eyragues répond 403 à
+l'agent nommé et 200 à l'agent par défaut (règle 257) : rien n'en est repris. Le domaine oléicole de l'ancien chemin d'Arles, à
+Graveson, ne reçoit que sur rendez-vous (règle 136) et nomme les photographies dans son interdiction. La ferme de spiruline de
+Barbentane ne publie elle-même aucun horaire de vente (règle 136). Le magasin bio indépendant de la route d'Avignon, à
+Châteaurenard, ne nomme pas ses producteurs (règles 86 et 273). Le marché de Maillane (samedi, place Frédéric-Mistral) n'a
+qu'un arrêté numérisé et une annonce de 2024 côté Ville, et la Ville nomme les images dans son interdiction. Le marché du MIN
+de Châteaurenard n'est pas publié par son organisateur (règle 196). Le moulin à huile de Barbentane sert un site qui refuse
+tout agent (règle 237).
+
+**Reprise dans les Bouches-du-Rhône** : la descente reprendra à **Rognes** (4 693), après Graveson. Les fiches entières
+désignées par les passes précédentes (Pélissanne, Lambesc, Cassis, Sénas, Rousset, Puyloubier) restent en pistes.
+**Hauts-de-Seine** : non éprouvés, la zone ayant été trouvée dans le premier département ; la descente y reprendra à **Meudon**.
+
+**Fiches écartées pour doute sur une personne** : deux, à Graveson — un producteur de figues immatriculé au nom d'une personne,
+sans enseigne au registre (règles 6 et 259), et une ferme fromagère que la Ville présente sous le nom de son exploitante, avec
+vente sur rendez-vous seulement ; et une à Barbentane, un moulin dont l'enseigne au registre porte un nom de famille.
+**Données personnelles écartées** : les noms, portables et courriels d'exploitants, de délégués à la protection des données et
+de photographes lus sur les sites des exploitations, des Villes et aux registres, et le portable publié par Bio Aubarède ; rien
+n'en figure ici, dans une fiche ou dans un commit. Les images déposées sont réencodées sans métadonnées (règle 235).
 
 ### Passe du 24 septembre 2026 (quatorzième de la nuit) : Bouches-du-Rhône et Hauts-de-Seine, aucune publication
 
