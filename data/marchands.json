@@ -21495,5 +21495,128 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Marche+92370+Chaville",
     "image_url": "/images/marchands/marche-de-chaville.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-coop-des-2b-beaucaire",
+    "nom": "La Coop des 2 B",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.812391,
+    "lon": 4.642698,
+    "adresse": "48 rue de la Redoute, 30300 Beaucaire",
+    "horaires": "Du lundi au vendredi de 9h à 12h et de 14h à 18h, samedi de 9h à 12h30 ; fermé le dimanche.",
+    "produits": [
+      "Huile d'olive AOP Huile d'olive de Nîmes",
+      "Huiles d'olive de la coopérative",
+      "Olives"
+    ],
+    "description": "Huilerie coopérative du centre de Beaucaire, qui presse les olives de ses adhérents et vend au moulin l'huile d'olive AOP de Nîmes ; la coopérative est certifiée en agriculture biologique pour une partie de son huile. Photo : La Coop des 2 B (lacoopdes2b.fr).",
+    "telephone": "04 66 59 28 00",
+    "site_web": "https://lacoopdes2b.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48+rue+de+la+Redoute+30300+Beaucaire",
+    "image_url": "/images/marchands/la-coop-des-2b-beaucaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-belle-pierre-beaucaire",
+    "nom": "La Belle Pierre — caveau des Vignerons Beaucairois",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.798583,
+    "lon": 4.630991,
+    "adresse": "590 route de Fourques, 30300 Beaucaire",
+    "horaires": "Du lundi au vendredi de 9h à 12h et de 14h à 18h, samedi de 9h à 12h ; fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Vins AOP Costières de Nîmes",
+      "Vins IGP (Pays d'Oc, Gard, Coteaux du Pont du Gard, Méditerranée)",
+      "Produits régionaux"
+    ],
+    "description": "Caveau de vente de la cave coopérative de Beaucaire, sur la route de Fourques : les vins des vignerons coopérateurs de la commune, en Costières de Nîmes et en IGP, avec un rayon de produits régionaux. Photo : La Belle Pierre (la-belle-pierre.com), vignes en couvert de féverole.",
+    "telephone": "04 66 59 82 75",
+    "site_web": "https://la-belle-pierre.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=590+route+de+Fourques+30300+Beaucaire",
+    "image_url": "/images/marchands/la-belle-pierre-beaucaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "mas-des-tourelles-beaucaire",
+    "nom": "Mas des Tourelles",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.793694,
+    "lon": 4.585167,
+    "adresse": "4294 route de Saint-Gilles, 30300 Beaucaire",
+    "horaires": "En septembre et octobre : du lundi au samedi de 9h à 12h et de 14h à 18h, fermé le dimanche. Horaires saisonniers publiés par le domaine (juillet-août 10h-13h et 14h-19h ; novembre-mars fermeture à 17h30).",
+    "produits": [
+      "Vins AOP Costières de Nîmes",
+      "Vins IGP Pays d'Oc",
+      "Huile d'olive du domaine"
+    ],
+    "description": "Domaine viticole à la sortie de Beaucaire sur la route de Saint-Gilles, avec caveau de vente et de dégustation ouvert toute l'année. Photo : Mas des Tourelles (tourelles.com).",
+    "telephone": "04 66 59 19 72",
+    "site_web": "https://tourelles.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4294+route+de+Saint-Gilles+30300+Beaucaire",
+    "image_url": "/images/marchands/mas-des-tourelles-beaucaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-tavernel-beaucaire",
+    "nom": "Domaine de Tavernel",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.746503,
+    "lon": 4.594296,
+    "adresse": "1479 chemin de Tavernel, 30300 Beaucaire",
+    "horaires": "Caveau : du lundi au vendredi de 9h à 12h et de 14h à 18h, samedi de 9h à 12h ; fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Vins biologiques IGP Gard",
+      "Vins biologiques IGP Bouches-du-Rhône"
+    ],
+    "description": "Domaine en agriculture biologique depuis 1995, au sud de la commune vers Fourques, qui vend ses vins au caveau de dégustation. Photo : Domaine de Tavernel (domaine-tavernel.com), le caveau.",
+    "telephone": "04 66 58 57 01",
+    "site_web": "https://www.domaine-tavernel.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1479+chemin+de+Tavernel+30300+Beaucaire",
+    "image_url": "/images/marchands/domaine-de-tavernel-beaucaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-mourgues-du-gres-beaucaire",
+    "nom": "Château Mourgues du Grès",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.793451,
+    "lon": 4.565391,
+    "adresse": "1055 chemin des Mourgues du Grès, 30300 Beaucaire",
+    "horaires": "Selon la page contact du domaine : du lundi au vendredi de 9h à 12h et de 13h30 à 18h30 (18h d'octobre à avril), samedi de 10h à 12h30 et de 13h30 à 18h (17h30 d'octobre à avril) ; jours fériés sur rendez-vous. L'office de tourisme publie pour 2026 du lundi au samedi 9h-12h30 et 13h30-18h.",
+    "produits": [
+      "Vins biologiques en Costières de Nîmes (blanc, rosé, rouge)",
+      "Huile d'olive",
+      "Cartagène",
+      "Vins en bag-in-box"
+    ],
+    "description": "Domaine en agriculture biologique et biodynamie dans le piémont des Costières, qui accueille à la vente et à la dégustation toute l'année. Le point de la carte est le repère de l'office de tourisme, la Base Adresse Nationale ne connaissant pas le numéro. Photo thématique : vignes de Beaucaire en couvert végétal, publiée par la cave coopérative La Belle Pierre (la-belle-pierre.com) ; elle ne montre pas le domaine.",
+    "telephone": "04 66 59 46 10",
+    "site_web": "https://www.mourguesdugres.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+Mourgues+du+Gres+Beaucaire",
+    "image_url": "/images/marchands/chateau-mourgues-du-gres-beaucaire.jpg",
+    "a_confirmer": true
   }
 ]

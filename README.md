@@ -3876,9 +3876,38 @@ prioritaires en cas de conflit.
      faits. **Déblocage** : des mentions complétées qui ne ferment pas les images, ou une photographie du point de distribution
      publiée par une source qui ne l'interdit pas.
 
+311. **Une entreprise individuelle dont le siège est le lieu de vente et qui ne reçoit que sur rendez-vous se présume domicile :
+     la fiche ne se publie pas.** À Jonquières-Saint-Vincent, dans la communauté de communes Beaucaire Terre d'Argence, une ferme
+     de spiruline remplissait tout le reste — enseigne neutre, établissement ouvert au registre, produits et image publiés par
+     l'exploitation, mentions légales sans clause sur les images. Mais c'est une entreprise individuelle dont le siège est
+     l'adresse même de la ferme, la vente ne se fait que sur rendez-vous et le seul numéro est un portable. La règle 243 ferme le
+     jardin d'un particulier ; la règle 40 admet le régime « sur rendez-vous » sans dire ce qu'il révèle de l'adresse. **Tranché
+     ainsi** : le siège d'une entreprise individuelle est, par défaut, l'adresse de l'exploitant ; quand il coïncide avec le lieu
+     de vente et qu'aucun horaire d'ouverture libre n'est publié, le doute porte sur un domicile, donc sur une personne, et la
+     fiche ne se publie pas (`MODERATION.md`), sans version partielle et sans réouverture. Même sort, à Beaucaire, pour une
+     brasserie artisanale et une safranière. Une exploitation individuelle qui tient un caveau, une boutique ou un étal à heures
+     fixes, ou dont le siège est ailleurs que le lieu de vente, reste sous les règles ordinaires.
+
+312. **Une photographie qu'un commerce publie sans restriction peut illustrer, comme photographie thématique, une autre fiche de
+     la même commune dont toutes les sources ferment les images.** Le Château Mourgues du Grès, à Beaucaire, avait des faits
+     entiers — horaires publiés par le domaine, certification biologique au registre, fixe publié —, mais ses conditions
+     générales interdisent toute reproduction des images, et la Ville comme l'office de tourisme nomment les photographies dans
+     leur interdiction. La règle 231 fait attendre une fiche fermée « sans qu'aucune photographie thématique permise de la
+     commune n'existe » ; la règle 203 rend disponible comme photographie thématique un fichier d'office écarté d'une fiche. Aucune
+     ne disait si le site d'un autre commerce de la commune peut fournir cette photographie. **Tranché ainsi** : oui, à trois
+     conditions — la page qui la publie ne porte aucune clause sur les images et son `robots.txt` n'exclut personne ; le fichier
+     n'est pas celui d'une autre fiche publiée (règle 191) ; la description dit d'où vient l'image et qu'elle ne montre pas le lieu
+     (règle 1). Ici : une photographie de vignes en couvert végétal publiée par la cave coopérative de Beaucaire, distincte de
+     celle qui illustre la fiche de son propre caveau.
+
 ## Marchands à confirmer
 
-723 fiches sur 808 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+728 fiches sur 813 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **La Coop des 2 B** (Beaucaire) (commune calculée du Gard, première des quatre fiches entières de la règle 127. **Registre** : coopérative active, 10.41A ; certificat biologique Qualisud engagé en 2013 pour l'huile d'olive. **Horaires** : page contact de la coopérative, site de Beaucaire (celui de Bezouce, boutique et confiserie, n'est pas publié). **Point** : BAN au numéro (0,966). **Photo** : bidon d'huile AOP photographié en plein air, publié par la coopérative, dont les mentions légales ne portent aucune clause de reproduction ; aucune personne.)
+- **La Belle Pierre — caveau des Vignerons Beaucairois** (Beaucaire) (seconde fiche entière. **Registre** : société du caveau active (47.25Z) ; cave coopérative active, certificat biologique engagé en 2012. La certification environnementale affichée par le site n'a pas été vérifiée et n'est pas reprise. **Horaires** : page contact du caveau. **Point** : BAN au numéro (0,967). **Photo** : vignes en couvert de féverole publiées par la cave, dont les conditions de vente ne nomment pas les images ; aucune personne.)
+- **Mas des Tourelles** (Beaucaire) (troisième fiche entière, à 4,9 km de la mairie. **Registre** : société active (47.25Z) ; siège déclaré à un mas voisin, point du registre au Mas des Tourelles. **Horaires** : grille de septembre-octobre 2026 et grille saisonnière publiées par le domaine. **Produits** : vins d'après le domaine, huile d'olive d'après l'office de tourisme. **Point** : BAN au numéro (0,970). **Photo** : grappes sur cep publiées par le domaine, dont les conditions de vente disent seulement que les photos ne sont pas contractuelles ; les photographies créditées à un photographe ont été évitées.)
+- **Domaine de Tavernel** (Beaucaire) (quatrième fiche entière, à 7,8 km. **Registre** : exploitation active (01.21Z) ; certificat Ecocert engagé depuis 1995. **Horaires** : page contacts du domaine. **Produits** : les seuls vins nommés par le domaine ; les olives du certificat, dont la vente n'est écrite nulle part, ne sont pas reprises. **Point** : BAN au numéro (0,953). **Photo** : caveau de dégustation publié par le domaine ; aucune personne. L'enseigne publiée est le seul nom du domaine.)
+- **Château Mourgues du Grès** (Beaucaire) (cinquième fiche, **règle 127** : les quatre précédentes dans la commune, celle-ci à 6,5 km de la mairie. **Registre** : exploitation active (01.21Z) ; certificat Ecocert engagé en 2011. **Horaires, règle 5** : la page contact du domaine, sa page « dégustations » (fin d'après-midi à 18h et 17h30) et l'office (lundi-samedi 9h-12h30 et 13h30-18h) ne concordent pas ; la fiche publie la page contact, la plus détaillée, et la version de l'office. **Point, règles 10 et 24** : la BAN ne connaît que la voie (0,71) ; le point du registre se retourne sur une autre voie et est écarté ; le repère de l'office est retenu, cohérent à 200 m près avec la carte du domaine. **Photo, règle 312, nouvelle** : les conditions du domaine interdisent toute reproduction des images ; photographie thématique de vignes publiée par la cave coopérative de Beaucaire, que la description attribue.)
 - **AMAP Les Paniers de la Forêt** (Meudon) (commune calculée, première des deux fiches entières de la règle 127. **Existence, règle 195** : site propre vivant, calendrier des distributions jusqu'en décembre 2026 et compositions de paniers publiées jusqu'au 27 août 2026 ; association déclarée (RNA au site). **Lieu, règles 243 et 299** : distribution au centre social de la rue Georges-Millandy, équipement public, désigné par sa fonction ; BAN au numéro (0,965). **Horaires, règle 5** : 18h-19h au calendrier de l'AMAP, 19h-20h dans l'annuaire de la Ville (notice de septembre 2025) ; les deux sont publiés. **Photo** : panier du 27 août 2026 publié par l'AMAP, dont les mentions légales ne portent aucune clause de reproduction ; aucune personne. Les noms des producteurs partenaires, le nom du président et les portables de l'annuaire municipal ne sont pas repris.)
 - **Espace de vente du Campus Saint-Philippe** (Meudon) (seconde fiche entière de la commune ; `producteur` (règle 4 : le jardin-école vend sa propre production), piliers `alimentation`, `environnement` (engagement Ecocert au registre de l'Agence Bio, production AB 2026), `social` et `economie`. **Registre** : fondation active, établissement du 1 rue du Père-Brottier ouvert. **Horaires** : ceux de septembre 2026 publiés par le campus, qui les renouvelle chaque mois. **Téléphone** : le standard « service au public » ; le numéro portable de l'espace de vente est laissé de côté. **Photo, règles 1, 203 et 309** : le site du campus interdit en toutes lettres la copie de ses photographies (règle 231) ; la fiche prend un étal de légumes du marché de Meudon-la-Forêt — marché non publié (règle 197) — recadré sous la ligne des visages (2 161 px de large avant réduction), avec la mention de la Ville et de la date ; la description dit qu'elle ne montre pas l'espace de vente.)
 - **Marché Saint-Romain** (Sèvres) (**Élargissement, règle 96**, Grand Paris Seine Ouest, à 2,5 km de l'hôtel de ville de Meudon (règle 249 pour le champ `epci`). **Faits** : adresse et horaires de la page « Marché Saint-Romain » de la Ville ; **produits, règle 197** : les articles de la Ville annonçant un étal de fruits et légumes bio (avril 2025) et un volailler de volaille fermière (avril 2026), ainsi qu'un traiteur italien (juin 2025). **Point, règle 10** : la BAN ne connaît pas le numéro 2 et les numéros voisins ne suivent pas une numérotation métrique (règle 37) : centre de la voie, que la fiche dit. **Photo** : façade « Marché St Romain » publiée par la Ville (828 px), dont les mentions légales ne portent aucune clause de reproduction ; une silhouette de profil, lointaine. Les commerçants nommés par les articles ne sont pas repris.)
@@ -10986,6 +11015,89 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 24 septembre 2026 (dix-huitième de la nuit) : Beaucaire (Gard), cinq fiches, après douze communes de la Loire
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 808 fiches, dénominateur de
+la règle 224, outre-mer écarté (règle 177) : Oise 5,7249, Landes 5,0806, Eure-et-Loir 5,0755 et Val-d'Oise 5,0186 (épuisés, règle
+265), **Loire (42) 4,0714**, puis **Gard (30) 4,0340**. La dernière passe publiée visait l'Île-de-France : Auvergne-Rhône-Alpes et
+l'Occitanie sont ouvertes (règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Reprises d'abord.** Groupe de Labenne : `www.capbreton.fr` n'a répondu à aucun des deux agents (règle 237) ; le groupe reste à
+quatre points. Règle 302 : la Loire ne compte qu'une fiche désignée au début de la passe, elle ne joue pas.
+
+**Loire : douze communes (règles 247 et 127), de Feurs à Saint-Galmier.** Contrôle en deux requêtes (règle 257) avant chaque
+source. Les sources départementales restent fermées pour l'image (Loire Tourisme, Saint-Étienne Métropole) ou refusent l'agent
+nommé (Saint-Étienne Hors-Cadre, Rendez-vous en Forez, Auvergne-Rhône-Alpes Tourisme).
+
+1. **Feurs** (8 367) — La Ville et Forez-Est nomment les images dans leur interdiction ; l'office et le site de l'AMAP refusent
+   l'agent nommé ; les marchés du mardi et du samedi n'ont ni heure ni produit publiés. Le point de vente collectif **La Ferme des
+   Trois Monts** (7 rue du Capitole, société active) n'a pas de site ; l'épicerie bio de la rue du 8-Mai et le magasin de réseau ne
+   nomment pas leurs producteurs (règles 86 et 273). **Zéro.**
+2. **Sorbiers** (8 116) — La Ville réserve ses images à l'usage privé (règle 296) et ne publie aucun marché ; la Biocoop publie la
+   liste nationale du réseau (règle 273), et sa seule photo sans clause fait 500 px (règle 59) ; le site du magasin de produits
+   fermiers refuse l'agent nommé. **Zéro.**
+3. **La Ricamarie** (8 039) — La Ville nomme les images ; son marché (mercredi et samedi 8h-12h, place Raspail) n'a aucun produit
+   publié (règle 197) ; le magasin **Le Coin des Producteurs** (51 rue Sadi-Carnot, société active) n'a qu'une image de 370 px.
+   **Zéro.**
+4. **Villars** (7 664) — La Ville nomme les images ; le marché du jeudi n'a pas de produits publiés ; le site de l'AMAP refuse
+   l'agent nommé. **Zéro.**
+5. **Mably** (7 233) — **Une fiche entière** : la **vente à la ferme de Terre Nouvelle** (1300 route du Merlin ; lundi 16h-19h,
+   légumes bio et produits de producteurs invités, d'après la page « Marchés » de la Ville et le blog de la ferme ; exploitation
+   active, certificat biologique engagé ; BAN au numéro, 0,952 ; photographie de cagettes de tomates publiée par la ferme sur un
+   blog sans clause de reproduction, sans personne, 2 048 px). La Ville réserve ses images à l'usage privé ; la **Biocoop Le Petit
+   Vert** publie ses propres producteurs (règle 276) mais ses conditions nomment les photographies (règle 245) ; le marché du
+   vendredi n'a pas d'heure de fin. **Une seule fiche.**
+6. **La Talaudière** (7 133) — La Ville nomme les images et ne publie pas les heures du marché ; le blog de l'AMAP répond 429 au
+   seul agent nommé (règle 280). **Zéro.**
+7. **Le Coteau** (6 845) — La Ville réserve ses données à l'usage privé ; le marché du mercredi n'a ni heure ni produit ; le point
+   de vente collectif de l'avenue de la Libération n'a pas d'image hors réseau social ; le magasin de réseau ne nomme pas ses
+   producteurs. **Zéro.**
+8. **Sury-le-Comtal** (6 621) — La Ville nomme les photographies ; le marché du mercredi (7h30-12h30, message municipal du 2 juin
+   2026) n'a aucune image permise. Hors de la commune, dans Loire Forez, la **Ferme au Cœur du Forez** (Saint-Romain-le-Puy, 1
+   chemin des Tourettes-Basses ; vente à la ferme le vendredi 16h-18h30 ; fromages de vache et de chèvre, lait cru, yaourts,
+   beurre ; exploitation active, certificat biologique engagé ; BAN au numéro, 0,95 ; photographie de moulage de fromage blanc,
+   mains seules, 700 px, publiée par la ferme sans clause de reproduction) est entière. **Zéro dans la commune.**
+9. **Saint-Jean-Bonnefonds** (6 563) — Le `robots.txt` de la Ville exclut le dossier de ses images ; le marché paysan du jeudi
+   (17h-19h, place Saint-Charles, produits nommés par la Ville) n'a aucune image permise. **Zéro.**
+10. **Saint-Priest-en-Jarez** (6 471) — La Ville nomme les photographies ; l'**AMAP Les Paniers de Saint-Priest-en-Jarez** (jeudi
+    18h-19h, actualités municipales des 18 mai et 31 août 2026) n'a pour image qu'une affiche montée sur une photographie de
+    banque d'images (règle 70). **Zéro**, faits en pistes.
+11. **Saint-Genest-Lerpt** (6 181) — Le site de la Ville répond 503 à tous les agents (règle 237). **Zéro.**
+12. **Saint-Galmier** (5 829) — La Ville refuse l'agent nommé (règle 257) ; l'**AMAP de la Coise** (mercredi 18h-19h, hippodrome,
+    distribution annoncée pour le 21 septembre 2026) nomme les images dans ses mentions légales. **Zéro**, faits en pistes.
+
+**Reprise dans la Loire** : la descente reprend à **Montrond-les-Bains** (5 652). Fiches entières désignées pour la reprise (règle
+258) : le **marché bio du Jardin de Cocagne Oasis** (Saint-Just-Saint-Rambert) et la **Ferme au Cœur du Forez**
+(Saint-Romain-le-Puy), toutes deux dans Loire Forez Agglomération, à 13,4 km l'une de l'autre ; la **vente à la ferme de Terre
+Nouvelle** (Mably, Roannais Agglomération). Loire Forez en compte deux ; la règle 302 en demande quatre autour d'une commune
+couverte. Les faits vérifiés de La Ferme des Trois Monts, du Coin des Producteurs, du marché paysan de Saint-Jean-Bonnefonds et
+des AMAP de Saint-Priest-en-Jarez et de la Coise attendent une image permise (règle 231).
+
+**Gard : Beaucaire, première commune de la reprise, fait la zone.** La Ville et l'office Beaucaire Terre d'Argence nomment les
+photographies dans leur interdiction ; `ot-beaucaire.fr` est un domaine racheté qui sert de la publicité — à ne jamais utiliser.
+La commune rend **quatre fiches entières** (règle 127), toutes de producteurs dont le site ne ferme pas les images : l'huilerie
+coopérative **La Coop des 2 B** (0,6 km de la mairie), le caveau **La Belle Pierre** de la cave coopérative (1,4 km), le **Mas des
+Tourelles** (4,9 km) et le **Domaine de Tavernel** (7,8 km). La cinquième est aussi dans la commune : le **Château Mourgues du
+Grès** (6,5 km), faits entiers, photographie thématique au titre de la **règle 312, nouvelle**. La ferme de spiruline de
+Jonquières-Saint-Vincent, qui aurait complété le groupe dans l'intercommunalité, est écartée au titre de la **règle 311,
+nouvelle** (entreprise individuelle, siège au lieu de vente, vente sur rendez-vous seulement). Saint-Gilles n'a pas été éprouvée.
+Les marchés du jeudi et du dimanche n'ont pas d'heure publiée par la Ville ; d'autres domaines de la commune et de
+l'intercommunalité ferment leurs images ou refusent l'agent nommé ; le magasin bio de l'avenue Jean-Monnet ne nomme pas ses
+producteurs (règle 86).
+
+**Après la passe**, sur 813 fiches : Oise 5,7850, Landes 5,1121, Val-d'Oise 5,1115 et Eure-et-Loir 5,1069 (épuisés), **Loire
+4,1275**, Haut-Rhin 4,0875 ; le Gard tombe à −0,9101. La passe suivante ne peut pas viser l'Occitanie (règle 41.c) : elle reprend
+la Loire à Montrond-les-Bains.
+
+**Fiches écartées pour doute sur une personne** : trois, toutes dans la communauté de communes Beaucaire Terre d'Argence — une
+ferme de spiruline à Jonquières-Saint-Vincent, une brasserie artisanale et une safranière à Beaucaire (entreprises individuelles,
+domicile présumé, règle 311). Avant instruction, dans la Loire : des exploitants individuels inscrits sous leur nom au registre bio
+à Feurs, Sorbiers, La Ricamarie, Villars, Mably, Le Coteau, Sury-le-Comtal et Saint-Galmier, une ferme ovine de Saint-Galmier
+inscrite sous un nom, et des enseignes formées d'un nom de personne à Feurs, La Ricamarie, Mably, Saint-Galmier et Beaucaire.
+**Données personnelles écartées** : noms d'exploitants, d'associés, d'élus, de directeurs de publication et de photographes lus sur
+les sites, aux registres et dans les noms de fichiers d'images, portables et courriels ; rien n'en figure ici, dans une fiche,
+dans un nom de fichier ou dans un commit.
 
 ### Passe du 24 septembre 2026 (dix-septième de la nuit) : Loire et Gard, aucune publication
 
