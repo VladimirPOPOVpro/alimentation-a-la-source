@@ -22319,5 +22319,116 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18+Chemin+de+Vignole+03300+Cusset",
     "image_url": "/images/marchands/au-coeur-du-bon-cusset.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-cheval-toul",
+    "nom": "Brasserie Cheval",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.680141,
+    "lon": 5.88771,
+    "adresse": "146 Rue Pierre Aimé Bouge, 54200 Toul",
+    "horaires": "Vente directe à la brasserie le mardi de 17h à 20h et le vendredi de 16h à 22h (site de la brasserie ; même régime à l'office de tourisme pour la période du 1er septembre au 31 décembre 2026). Bar fermé en janvier et en août.",
+    "produits": [
+      "Pumpernickel, blonde au seigle (5 %)",
+      "Palomino, blonde légère (4,8 %)",
+      "Le Mulet, imperial saison (9 %)",
+      "Trait du nord, amber ale (5 %)",
+      "Old English Black, oatmeal stout (7,5 %)",
+      "Bières éphémères de saison",
+      "Limonade artisanale citron et citron vert",
+      "Location de fûts et de tireuses"
+    ],
+    "description": "Microbrasserie coopérative (SCIC) fondée en 2015, installée à « L'Atelier, espace de création », derrière la salle de l'Arsenal ; ses bières sont certifiées en agriculture biologique par Certipaq Bio d'après le registre de l'Agence Bio. Le registre des entreprises ne lui connaît plus d'établissement ouvert qu'à Chaudeney-sur-Moselle : c'est l'adresse de vente publiée par la brasserie et par l'office de tourisme qui figure ici.",
+    "telephone": "06 95 03 15 29",
+    "site_web": "https://www.brasseriecheval.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=146%20rue%20Pierre%20Aim%C3%A9%20Bouge%2C%2054200%20Toul",
+    "image_url": "/images/marchands/brasserie-cheval-toul.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-l-ambroisie-toul",
+    "nom": "Domaine de l'Ambroisie",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.67752,
+    "lon": 5.882055,
+    "adresse": "45 Impasse Victor Hugo, 54200 Toul",
+    "horaires": "Du lundi au vendredi de 14h à 18h, le samedi de 9h à 12h et de 14h à 18h, toute l'année. Dégustation gratuite.",
+    "produits": [
+      "Gris de Toul et vins AOC Côtes de Toul",
+      "Méthodes traditionnelles IGP",
+      "Apéritifs pétillants à la mirabelle",
+      "Eaux-de-vie de fruits",
+      "Jus de fruits",
+      "Confitures"
+    ],
+    "description": "Domaine installé à Toul qui vend à sa cave les vins des Côtes de Toul et des spécialités à la mirabelle. Le registre de l'Agence Bio le certifie en agriculture biologique auprès d'Ecocert depuis 2013 pour ses fruits, ses jus et ses eaux-de-vie ; les vins ne figurent pas dans les productions certifiées.",
+    "telephone": "03 83 63 80 53",
+    "site_web": "https://domaine-ambroisie.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45%20impasse%20Victor%20Hugo%2C%2054200%20Toul",
+    "image_url": "/images/marchands/domaine-de-l-ambroisie-toul.jpg"
+  },
+  {
+    "slug": "vergers-des-moncels-lagney",
+    "nom": "Vergers des Moncels",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.73086,
+    "lon": 5.840678,
+    "adresse": "9 Rue des Moncels, 54200 Lagney",
+    "horaires": "Magasin : du lundi au vendredi de 14h à 18h30, le samedi de 10h à 12h et de 14h à 18h30 (site du verger). Pour novembre et décembre 2026, l'office de tourisme ne donne plus le lundi : du mardi au vendredi de 14h à 18h30.",
+    "produits": [
+      "Mirabelles de Lorraine",
+      "Pommes",
+      "Fraises et cerises en saison",
+      "Légumes de saison",
+      "Jus de fruits et nectars",
+      "Confitures et compotes",
+      "Fromages, œufs et pain de producteurs voisins"
+    ],
+    "description": "Verger familial des côtes de Toul, classé Haute Valeur Environnementale d'après le verger et l'office de tourisme, qui vend sa production au magasin de la ferme. Le même magasin tient un « marché des producteurs » où des fermes du secteur déposent légumes, fromages, volailles, pain et œufs.",
+    "telephone": "03 83 63 87 24",
+    "site_web": "https://vergersdesmoncels.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20rue%20des%20Moncels%2C%2054200%20Lagney",
+    "image_url": "/images/marchands/vergers-des-moncels-lagney.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vergers-du-coteau-lagney",
+    "nom": "Vergers du Coteau",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.733497,
+    "lon": 5.830862,
+    "adresse": "38 Rue du Rosoir, 54200 Lagney",
+    "horaires": "D'après l'office de tourisme : du 16 août au 31 octobre 2026, du lundi au vendredi de 14h à 19h et le samedi de 10h à 19h ; du 2 au 10 novembre et du 26 au 31 décembre 2026, du lundi au vendredi de 14h à 19h. Horaires non publiés pour le reste de novembre et décembre : téléphoner avant de venir.",
+    "produits": [
+      "Fruits du verger",
+      "Légumes de saison",
+      "Terrines, compotes et coulis de la ferme",
+      "Jus de fruits",
+      "Confitures, chocolats, bières et vins de producteurs voisins",
+      "Pain et œufs"
+    ],
+    "description": "Exploitation fruitière et maraîchère du nord de Toul, avec une boutique où elle vend ses fruits, ses légumes et ce qu'elle en transforme, à côté de produits d'autres producteurs et artisans du secteur. Photo thématique : betteraves publiées par un verger voisin de Lagney ; elle ne montre pas cette ferme.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38%20rue%20du%20Rosoir%2C%2054200%20Lagney",
+    "image_url": "/images/marchands/vergers-du-coteau-lagney.jpg",
+    "a_confirmer": true
   }
 ]

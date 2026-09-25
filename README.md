@@ -4093,9 +4093,21 @@ prioritaires en cas de conflit.
      d'exposants, ou une source relais consultable qui décrit ce marché-là (ici l'office Sud Val de Loire et l'agence
      départementale `val-de-loire-41.com` refusent l'agent nommé, règle 257).
 
+330. **Un point de vente que le commerce et l'office de tourisme publient tous deux, avec des heures datées de l'année, se
+     publie à cette adresse même quand le registre des entreprises n'y connaît aucun établissement ouvert, si la société est
+     active ailleurs dans l'intercommunalité.** La Brasserie Cheval, à Toul, vend au comptoir de « L'Atelier, espace de
+     création », 146 rue Pierre-Aimé Bouge, le mardi et le vendredi soir : son site le dit, et la fiche de l'office de tourisme
+     Terres Touloises le répète pour la période du 1er septembre au 31 décembre 2026. Le registre des entreprises ne lui connaît
+     qu'un établissement ouvert, à Chaudeney-sur-Moselle (3 km, même intercommunalité), et un ancien établissement toulois
+     fermé, avenue du Cardinal-Tisserant. La consigne du mandat (« nombre_etablissements_ouverts == 0 => ne publie pas ») ne mord
+     pas, puisque la société a un établissement ouvert ; la règle 117 juge une fermeture sur le lieu. **Tranché ainsi** : le
+     lieu de vente est un fait du commerce, que deux sources indépendantes et datées portent ensemble ; la fiche le publie, dit
+     dans sa description ce que dit le registre, et part avec `a_confirmer`. Une seule source pour le lieu, ou une source non
+     datée, et la fiche attendrait (règle 192) ; une société sans aucun établissement ouvert reste écartée sans discussion.
+
 ## Marchands à confirmer
 
-744 fiches sur 835 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+750 fiches sur 843 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 - **Magasin du Verger expérimental d'Alsace (Verexal)** (Obernai) (`ferme` au titre de la règle 29 : immatriculation agricole
   active (association, 01.61Z) à l'adresse, fruits des vergers d'essai vendus sur place, et la description dit ce qui est revendu ;
   piliers `alimentation`, `economie`, aucune certification au registre de l'Agence Bio. **Faits** : page « Notre magasin » du site
@@ -11259,6 +11271,119 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-neuvième de la nuit) : Toul (Meurthe-et-Moselle), quatre fiches dans Terres Touloises
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images
+déposées.** **Classement, règle 41**, sur 839 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants,
+règle 224), outre-mer écarté (règle 177) : Oise 6,0980, Val-d'Oise 5,5948, Landes 5,2756, Eure-et-Loir 5,2702 et Lot-et-Garonne
+4,0592 (épuisés, règle 265), **Loir-et-Cher (41) 3,9976**, **Meurthe-et-Moselle (54) 3,9096**. La dernière passe publiée visait
+l'Auvergne-Rhône-Alpes : Centre-Val de Loire et Grand Est sont ouverts (règle 41.c).
+
+**Contrôle de tête.** Seignosse : le site de la Ville n'ouvre toujours aucune connexion (deux requêtes) ; le groupe de Labenne
+reste à trois points (règle 322).
+
+**Loir-et-Cher : douze communes (règle 247), aucune zone.**
+
+- **Saint-Gervais-la-Forêt** (3 180) : le magasin biologique coopératif de la rue des Perrières a des **faits entiers** sur son
+  propre site (du lundi après-midi au samedi, fixe publié, société active au registre, inscrite au registre de l'Agence Bio),
+  mais les conditions d'utilisation du réseau nomment « les photographies, les images » (règle 245) ; la Ville réserve la
+  reproduction des « images » à son autorisation écrite (règle 231) et ne publie aucun marché. **Zéro fiche entière.**
+- **Saint-Ouen** (3 041) : un magasin biologique indépendant de l'allée de Dietrich publie ses heures sur un site hébergé par un
+  service dont les images viennent d'un domaine au `robots.txt` illisible (400, règle 256) ; la Ville cite un marché sans jour
+  ni heure (règle 9). **Zéro.**
+- **Cour-Cheverny** (2 831) : **une fiche entière**, le **Domaine des Huards** (30 voie des Huards ; boutique du lundi au samedi,
+  9h30-12h et 14h-18h30 de mars à novembre, 18h l'hiver ; fixe publié ; vins de Cheverny et de Cour-Cheverny en biodynamie ;
+  société active au registre, inscrite au registre de l'Agence Bio ; mentions légales sans clause ; photographies du chai et
+  des vignes sans personne). Le marché du vendredi (8h-13h, place de la République) n'a aucune famille de produits écrite
+  (règle 197). Aucun second point : voir les pistes. **Une seule fiche** ; la règle 127 en demande deux.
+- **Saint-Aignan** (2 789) : le `robots.txt` de la Ville interdit `/mentions-legales` (règle 270) ; son marché du samedi matin,
+  place Wilson (familles écrites), n'a pas d'heure hors de l'office Sud Val de Loire, qui refuse l'agent nommé (règle 192). **Zéro.**
+- **Chailles** (2 726) et **Cellettes** (2 715) : ni marché ni vente à la ferme dans les annuaires communaux ; les exploitations
+  du registre biologique y sont en nom propre. **Zéro.**
+- **Saint-Georges-sur-Cher** (2 710) : marché du dimanche aux familles écrites mais sans heure ni lieu ; mentions légales qui
+  limitent l'usage à la sphère privée (règle 296). **Zéro.**
+- **Villefranche-sur-Cher** (2 678) : annuaire communal sans marché ni producteur ; commerces sous patronyme. **Zéro.**
+- **Noyers-sur-Cher** (2 631) : le site de la Ville répond 200 avec une page de maintenance (hors règle 288, qui suppose un 503) ;
+  les candidats du registre biologique sont des domaines en nom propre ou une entreprise de jus industriels. **Zéro.**
+- **Villebarou** (2 584) : **marché de producteurs du samedi matin**, place de la Mairie, familles écrites par la Ville (boucherie
+  et charcuterie, poissonnier, fromages de chèvre, légumes, miel), mais aucune heure publiée (règle 192). **Zéro.**
+- **Naveil** (2 442) : marché du jeudi 7h30-12h30 et magasin de producteurs biologiques de la rue de Montrieux, que la Ville
+  cite ; la Ville soumet la reprise de ses photographies à l'accord de l'auteur (règle 231), le magasin ne publie aucune heure
+  et sert ses images par un CDN dont le `robots.txt` exclut tout robot (règle 238). **Zéro.**
+- **Valloire-sur-Cisse** (2 385) : aucun marché hebdomadaire, aucun producteur à heures publiées. **Zéro.**
+
+Point d'arrêt : **Valloire-sur-Cisse** ; la prochaine passe dans le 41 reprend à **Valencisse** (2 324). Cinq communes de 2 000
+habitants ou plus restent avant Savigny-sur-Braye (1 962). Le Domaine des Huards reste en pistes, seul dans sa commune ;
+**déblocage** : un second point entier à Cour-Cheverny (règle 127).
+
+**Meurthe-et-Moselle : Toul, première commune de la règle 248, fait la passe.** Le site de la Ville (`toul.fr`) répond 403 à
+l'agent par défaut comme à l'agent nommé (règle 237) : il n'est pas consulté. La Maison du tourisme Terres Touloises sert ses
+fiches aux deux agents, `robots.txt` ouvert ; ses photographies portent un « © » en légende (règle 305) et ne sont pas reprises.
+
+- **Brasserie Cheval** (146 rue Pierre-Aimé Bouge, Toul) : vente directe le mardi 17h-20h et le vendredi 16h-22h, selon le site de
+  la brasserie et la fiche de l'office (période du 1er septembre au 31 décembre 2026) ; gamme lue sur le site ; certificat
+  Certipaq Bio engagé au registre de l'Agence Bio, bière comprise. **Registre : règle 330 (nouvelle)**, un seul établissement
+  ouvert, à Chaudeney-sur-Moselle. BAN au numéro, 0,95. Numéro publié par la brasserie pour sa clientèle. **Image** : la gamme
+  posée sur une table, publiée par la brasserie (site sans mentions légales ni clause, `robots.txt` ouvert), recadrée sous les
+  silhouettes floues du fond (1 280 × 460). `a_confirmer`.
+- **Domaine de l'Ambroisie** (45 impasse Victor-Hugo, Toul) : heures identiques sur le site du domaine et à l'office ; fixe publié ;
+  société active au registre à l'adresse. Certificat Ecocert engagé depuis 2013 pour les fruits, les jus et les eaux-de-vie, pas
+  pour le vin : pilier `environnement` au titre de ce qui est certifié, et la description le dit (règle 39) ; `alimentation` au
+  titre des jus et confitures (règle 14). BAN au numéro, 0,96. **Image** : bouteilles de pétillant à la mirabelle publiées par le
+  domaine (pied de page « tous droits réservés » sans image nommée, règle 291 ; mentions légales vides), recadrées en paysage
+  (1 280 × 800). **Fiche entière.**
+- **Vergers des Moncels** (9 rue des Moncels, Lagney, 7,2 km du centre de Toul, Terres Touloises) : heures du site du verger, que
+  l'office confirme à la saison près (l'office retire le lundi en novembre et décembre : les deux versions sont écrites, règle
+  5) ; classement HVE revendiqué par le verger et repris par l'office (règle 21) ; fixe publié. Au registre, entreprise
+  individuelle active sous l'enseigne « Les Vergers de Moncels », au 10 de la même rue (règle 27) : le nom de l'exploitant n'est
+  repris nulle part. Boutique à heures fixes : hors règle 311. Mentions légales à clause générale sur « tout ou partie de ce
+  site », sans image nommée (règle 231). **Image** : oignons jaunes du verger, 1 200 × 900, non agrandie. `a_confirmer`.
+- **Vergers du Coteau** (38 rue du Rosoir, Lagney, 7,8 km) : les mentions légales du site interdisent « toutes requêtes
+  automatisées ou semi automatisées des données publiées » et nomment les photographies : le site n'est plus une source (règle
+  314), ni `site_web` ni heures n'en sont repris. **Faits de l'office** : heures par périodes pour 2026, produits de la ferme et
+  produits revendus ; société active au registre à l'adresse. Le téléphone de l'office n'est pas repris (il ne se vérifie qu'au
+  site fermé). BAN au numéro, 0,95. **Image thématique** (règle 312) : betteraves publiées par les Vergers des Moncels, fichier
+  distinct de celui de leur propre fiche ; la description le dit. `a_confirmer`.
+
+Quatre points, dont deux entiers dans la commune (règles 127 et 320), tous dans la communauté de communes Terres Touloises à
+moins de 8 km du centre de Toul (règle 96). **Pas de cinquième point publiable** :
+
+- les marchés de Toul (mercredi et vendredi matin, place des Trois-Évêchés et rue Jeanne-d'Arc ; marché fermier du samedi matin,
+  rue Gambetta) ne sont décrits que par l'office, sans heure pour le second, et la seule photographie est sous « © » (règle 305) ;
+  la page de la Ville est fermée. Déblocage : une page consultable de la Ville ou une photographie permise.
+- l'épicerie de producteurs lorrains de la zone Marie-Marvingt refuse l'agent nommé sur son site (règle 257) ; ses faits sont
+  à l'office, pas son image.
+- le magasin biologique de la rue Paul-Keller appartient à un réseau et ne publie aucune liste de producteurs (règle 86) ;
+  l'épicerie en vrac de la rue Thiers n'a qu'une page de réseau social (règle 33).
+
+**Après la passe**, sur 843 fiches : Oise 6,1461, Val-d'Oise 5,6691, Landes 5,3007, Eure-et-Loir 5,2953 et Lot-et-Garonne 4,0785
+(épuisés), **Loir-et-Cher 4,0167**, Alpes-Maritimes 3,7957, Aube 3,7954 ; Meurthe-et-Moselle −0,0479. La dernière passe publiée
+vise le Grand Est : la suivante ne peut pas y revenir (l'Aube est donc fermée à la prochaine passe). Le Loir-et-Cher reprend à
+Valencisse.
+
+**Contradictions** : Vergers des Moncels, lundi ouvert selon le verger, fermé en novembre et décembre selon l'office (les deux
+écrites, `a_confirmer`) ; Brasserie Cheval, lieu de vente absent du registre (règle 330).
+
+**Pistes non publiées (Toul et Loir-et-Cher)** — lignes anonymes :
+
+- Cour-Cheverny, domaine viticole : site présenté sous les noms de ses exploitants, sous « All Rights Reserved », sans heure
+  publiée ; écarté pour doute sur des personnes.
+- Cour-Cheverny, deux domaines viticoles que les annuaires rattachent au nom de leurs exploitants ; écartés pour doute sur des
+  personnes.
+- Cour-Cheverny (Fougères-sur-Bièvre), domaine viticole biologique : défi anti-robot opposé à l'agent nommé (règle 257).
+- Bruley, domaine viticole dont l'enseigne est un prénom ; écarté pour doute sur une personne.
+- Bruley, domaine viticole à heures non précisées (« tous les jours »), joignable seulement par un portable, chambres d'hôtes à la
+  même adresse ; écarté pour doute sur une donnée personnelle (domicile).
+- Domgermain, rucher : aucune heure, portable seul, adresse présumée domicile (règle 311) ; écarté.
+- Ménil-la-Tour, brasserie biologique : site non mis à jour depuis 2018, vente sur rendez-vous, contact au nom d'une personne ;
+  écartée.
+- Bruley, restaurant d'un éleveur avec vente de viande : restaurant, et fiche de l'office qui nomme son exploitant ; non retenu.
+
+**Fiches écartées pour doute sur une personne** : cinq (trois domaines viticoles à Cour-Cheverny, deux à Bruley), plus deux pour
+présomption de domicile (Domgermain, Ménil-la-Tour). **Données personnelles écartées** : noms d'exploitants et de gérants lus
+sur les sites, à l'office et aux registres ; portables personnels. Rien n'en figure ici, dans une fiche, dans un nom de fichier
+ou dans un commit.
 
 ### Passe du 25 septembre 2026 (vingt-huitième de la nuit) : Loir-et-Cher et Meurthe-et-Moselle, aucune publication
 
