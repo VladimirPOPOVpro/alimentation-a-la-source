@@ -11541,6 +11541,107 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 25 septembre 2026 (quarante-quatrième de la nuit) : Mayenne épuisée, Cher et Loiret, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise 6,4109, Val-d'Oise 6,0781, Landes 5,4390, Eure-et-Loir 5,4335,
+Lot-et-Garonne 4,1850, Loir-et-Cher 4,1215, Calvados 3,8998, Aube 3,8945 (épuisés, règle 265) ; **Mayenne (53) 3,8320** ;
+**Cher (18) 3,7466** ; **Loiret (45) 3,6718**. La dernière passe publiée visait la Nouvelle-Aquitaine : Pays de la Loire et
+Centre-Val de Loire ouverts. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 266 et 335).** `www.seignosse.fr` répond 200 aux deux agents. La dernière
+passe publiée visant toujours la Nouvelle-Aquitaine, rien n'est publié ; la relecture du marché de Seignosse reste due à la
+prochaine passe autorisée dans cette région.
+
+**Mayenne : reprise de Craon inchangée (une fiche entière, aucun second point nouveau), puis onze communes, de
+Villaines-la-Juhel (17e) à Quelaines-Saint-Gault (27e), aucune zone ; département épuisé (règles 247, 265 et 267).**
+
+1. **Villaines-la-Juhel** (2 671) — aucun marché ni commerce admissible publié par la Ville ; au registre bio, aucun point de
+   vente actif hors grossiste. **Zéro.**
+2. **Ambrières-les-Vallées** (2 619) — marché du samedi 8h-12h30, place du Marché, familles écrites (poissonnerie, fruits et
+   légumes), mais mentions légales qui nomment les « images » et interdisent toute reproduction sans accord écrit (règle 231) ;
+   au registre, un grossiste en boisson et une exploitation inscrite sous des noms de personnes. **Zéro.**
+3. **Renazé** (2 504) — ni marché hebdomadaire ni producteur publiés ; registre sans vente aux particuliers active. **Zéro.**
+4. **Gorron** (2 440) — marché du mercredi 7h30-13h, rue Magenta, familles écrites (fruits et légumes, miel, fromages), sans
+   aucune photographie ; seul second candidat au registre, une boulangerie au certificat suspendu. **Zéro.**
+5. **Andouillé** (2 321) — aucun marché publié ; au registre, un éleveur inscrit sous son nom. **Zéro.**
+6. **Saint-Pierre-la-Cour** (2 320) — Ville fermée à l'agent nommé (444 contre 200, règle 257) ; au registre, une supérette de
+   réseau. **Zéro.**
+7. **Entrammes** (2 294) — la page des commerces de la Ville ne cite qu'une épicerie-boucherie et des camions de restauration ;
+   au registre, des grossistes. **Zéro.**
+8. **Pré-en-Pail-Saint-Samson** (2 273) — Ville fermée à l'agent nommé (444 contre 200, règle 257) ; une épicerie inscrite sans
+   vente aux particuliers et une ferme au seul réseau social, inscrite sous un nom de personne. **Zéro.**
+9. **Lassay-les-Châteaux** (2 247) — marché du mercredi 7h-13h, place de la Mairie, et marché bio mensuel d'une AMAP le premier
+   vendredi, 16h-20h ; mais la Ville ne permet que l'usage personnel (règle 296) et aucune autre source n'illustre ces marchés ;
+   au registre, une EARL sans site, une cidrerie et un maraîchage dont l'enseigne porte un nom de personne. **Zéro.**
+10. **Le Genest-Saint-Isle** (2 166) — aucun marché publié ; au registre, une exploitation inscrite sous un nom de personne.
+    **Zéro.**
+11. **Quelaines-Saint-Gault** (2 152) — la Ville ne publie que des camions de restauration ; registre sans vente aux
+    particuliers. **Zéro.**
+
+La commune suivante, La Baconnière, compte 1 965 habitants : **la Mayenne est épuisée** (règle 265). La fiche entière de Craon
+reste désignée. Le reste de la borne (une commune) passe au Cher, qui devient le premier département de la passe (règle 267).
+
+**Cher : reprises de Bourges et de Vierzon, puis une commune.** La Ville de Bourges, Bourges Berry Tourisme, Berry Province
+refusent toujours l'agent nommé (403 contre 200, règle 257) ; le site de Bourges Plus répond 403 à tout agent (règle 237) ;
+l'annuaire Bienvenue à la Ferme aussi.
+
+0. **Bourges, reprise** — les trois fiches entières restent à trois points. Quatrième point cherché dans Bourges Plus
+   (dix-sept communes au référentiel, règle 219), sans succès :
+   - **Mehun-sur-Yèvre** appartient à Bourges Plus ; son site répond 403 à `curl` sans en-tête et 200 à l'agent nommé (ce n'est
+     pas un refus du robot, note du 25 septembre). Marché de producteurs le premier samedi du mois, 8h30-12h30, place du
+     14-Juillet, mais à 15,5 km du centre de Bourges, au-delà de la règle 96 ; le marché du mercredi n'a pas de famille écrite
+     (« produits alimentaires et vestimentaires », règle 197).
+   - **Saint-Germain-du-Puy** : marché du jeudi matin sans famille écrite (règle 197) ; **Marmagne**, **La Chapelle-Saint-Ursin**,
+     **Trouy** : aucun point de vente alimentaire admissible publié ; **Berry-Bouy** refuse l'agent nommé (règle 257).
+   - Au registre bio : à Saint-Just (12,5 km), une boulangerie coopérative dont le site annonce encore une ouverture « à
+     l'automne 2025 » sans horaires ; à Plaimpied-Givaudins, une truffière vendue par parrainage d'arbres, sans point de
+     vente ; à Morthomiers (11,9 km), un maraîchage dont le site répond 403 à tout agent (règle 237) ; à Bourges, une
+     association d'insertion dont le site refuse l'agent nommé et l'interdit dans son `robots.txt` (règle 257), et une
+     fabrique de pâtes qui nomme chacun de ses produits du prénom d'une personne : **écartée pour doute sur une personne**.
+   **Toujours trois points (règle 258).**
+1. **Vierzon, reprise** — aucune source nouvelle ; toujours deux points.
+2. **Saint-Amand-Montrond** (9 899) — la Ville décrit le marché des mercredis et samedis matin sous la halle, sans heures ni
+   famille écrite (règle 197), et ne permet que la consultation privée (règle 296) ; l'office Cœur de France refuse l'agent
+   nommé (règle 257) ; aucun opérateur bio vendant aux particuliers dans la commune. **Zéro.** La borne de douze communes
+   est servie.
+
+**Loiret, second département (règle 248)** — Orléans porte déjà cinq fiches ; la descente prend les deux communes suivantes.
+L'office de tourisme Orléans Val de Loire, source de la passe d'Orléans, refuse désormais l'agent nommé (403 contre 200) : il
+n'est plus consulté (règle 257), ce qui ferme aussi, pour l'instant, les déblocages des marchés orléanais qui en dépendaient.
+
+1. **Olivet** (23 507) — marché du vendredi 14h-19h, place Louis-Sallé, sans famille écrite (règle 197) ; la Ville ne permet
+   que l'usage privé (règle 296) ; au registre, un maraîchage et une miellerie inscrits sous des noms de personnes, sièges au
+   lieu de production (règle 311). **Zéro.**
+2. **Saint-Jean-de-Braye** (23 147) — marché du dimanche sans heures ni famille écrite ; la Ville n'autorise que la copie
+   privée en nommant les photos ; une AMAP citée par la Ville sans site ni jour de distribution ; au registre, un maraîchage
+   au seul réseau social, inscrit sous un nom de personne. **Zéro.**
+
+**Aucune zone dans les trois départements éprouvés : la passe ne publie rien (règles 248 et 267).**
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : dans la Mayenne, six exploitations inscrites sous un nom de personne ou dont
+l'enseigne en porte un (Ambrières-les-Vallées, Andouillé, Pré-en-Pail-Saint-Samson, Lassay-les-Châteaux deux fois, Le
+Genest-Saint-Isle) ; dans le Cher, une fabrique de pâtes à Bourges ; dans le
+Loiret, deux exploitations à Olivet et une à Saint-Jean-de-Braye. Aucun nom n'est écrit.
+
+**Points d'arrêt** : la **Mayenne** est épuisée ; la fiche de Craon reste désignée. Dans le **Cher**, la descente reprend à
+**Saint-Doulchard** (9 647, Ville fermée à l'agent nommé à la passe précédente) ; les trois fiches de Bourges et les deux de
+Vierzon passent avant tout candidat neuf. Dans le **Loiret**, la descente reprend à **Fleury-les-Aubrais** (21 804).
+
+**Pistes non publiées (Mayenne, Cher et Loiret)** — lignes anonymes :
+
+- Gorron, marché du mercredi : faits entiers, aucune image.
+- Lassay-les-Châteaux, marché du mercredi et marché bio mensuel : faits entiers, images réservées à l'usage personnel.
+- Ambrières-les-Vallées, marché du samedi : faits entiers, images interdites.
+- Mehun-sur-Yèvre, marché mensuel de producteurs : faits entiers, hors distance de Bourges (15,5 km) ; se reprend le jour où le
+  calcul vise Mehun-sur-Yèvre elle-même.
+- Saint-Just (Cher), boulangerie coopérative bio : ouverture et horaires non publiés. **Déblocage** : une page du commerce qui
+  donne ses heures.
+- Orléans, office de tourisme : refuse l'agent nommé depuis cette passe. **Déblocage** : le retrait du filtrage.
+
 ### Passe du 25 septembre 2026 (quarante-troisième de la nuit) : Calvados, Mayenne et Cher, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
