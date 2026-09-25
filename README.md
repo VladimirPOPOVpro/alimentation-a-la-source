@@ -4245,9 +4245,48 @@ prioritaires en cas de conflit.
      protocole, n'exclut personne ; un 401 ou un 403 dit qu'un fichier peut exister et qu'on ne peut pas le lire, et relève de la
      règle 256. L'image est téléchargée pendant la passe : son adresse signée expire (règle 235 pour le réencodage).
 
+344. **Quand la Base Adresse Nationale ignore le nom actuel d'une voie mais connaît le numéro sous l'ancien nom que le commerce
+     publie lui-même, c'est ce numéro qui fait le point.** Les Jardins du Refuge, à Anglet, écrivent leur adresse « 102 avenue
+     de l'Abbé Cestac (anciennement av. Montbrun) ». La Base ne connaît pas l'avenue de l'Abbé-Cestac, seulement une allée
+     Édouard-Cestac, dont le centroïde tombe à 608 m du point de l'office de tourisme ; ce point de l'office, lui, ne retombe qu'à
+     149 m de l'adresse la plus proche, et la règle 64 le refuse. Mais la Base connaît « 102 Avenue de Montbrun » au numéro
+     (score 0,98), à 260 m du point de l'office, sur un domaine agricole d'une vingtaine d'hectares. **Tranché ainsi** : l'ancien
+     nom que le commerce donne lui-même n'est pas une estimation, c'est la même adresse sous son libellé cadastral ; son numéro
+     passe avant le centroïde d'une voie homonyme (règle 10) et avant un point d'office qui échoue au contrôle de la règle 64.
+     L'adresse de la fiche porte les deux noms, et la fiche reste `a_confirmer`.
+
 ## Marchands à confirmer
 
-763 fiches sur 861 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+767 fiches sur 865 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Jardins du Refuge** (Anglet) (première fiche entière de la règle 127 ; `producteur`, piliers des producteurs certifiés
+  avec `social` pour le travail en établissement d'aide par le travail. **Registre** : congrégation active, cinq établissements
+  ouverts ; certificat biologique engagé depuis 2012 au registre de l'Agence Bio. **Horaires** : fiche de l'office de tourisme
+  d'Anglet, « Opening 2026 » ; les pages du site du domaine datent de 2021 et ne sont pas retenues pour les heures. **Point,
+  règle 344 (nouvelle)** : numéro de l'ancien nom de voie, à 260 m du point de l'office. **Image** : caisses de courges et de
+  courgettes publiées par le domaine, sans personne ni crédit ; pas de mentions légales (404), `robots.txt` en 404 (règle 343) ;
+  2 000 px ramenés à 1 280.)
+- **Marché de Quintaou** (Anglet) (seconde fiche entière ; `marche`, piliers des marchés. **Faits** : page « Marché de Quintaou »
+  de l'office de tourisme (jeudi et dimanche 8h-13h, familles de produits nommées) et occurrence d'agenda du 27 septembre 2026,
+  « organisé par Ville d'Anglet ». **Point, règle 64** : la Base ne connaît pas l'esplanade (« allée de Quintaou », 0,6) ; point de
+  l'office, contrôle inverse à 21 m du 14 avenue Eugène-Bernain. **Image** : e-magazine de la Ville (`a.anglet.fr`, clause
+  générale sans image nommée, règle 231 ; `robots.txt` ouvert), étal de melons et de fraises recadré sous et hors de la seule
+  cliente visible, 1 400 px ramenés à 1 280. Le site principal de la Ville exclut `/fileadmin/` et l'office crédite ses
+  photographies à des photographes : ni l'un ni l'autre n'est repris.)
+- **Halles des 5 Cantons** (Anglet) (troisième point, à 1,8 km de la mairie ; `marche`, comme les halles de Béziers exploitées
+  par la même société. **Horaires, règle 180** : ligne « horaires marché » du site de l'exploitant, pas celle de la restauration.
+  **Registre** : société d'exploitation active ; le site écrit 11 rue Paul-Courbin, le registre 13 (numéro de la Base : 11, 0,96).
+  **Produits** : liste des commerçants publiée par l'exploitant (éleveur de canards, primeur, poissonnerie, deux crémeries,
+  boucherie, charcuterie, boulangerie) ; aucun nom n'est repris. **Image, règle 312** : les photographies du site sont servies par
+  un hébergeur dont le `robots.txt` répond 403 (règle 256) ; photographie thématique de piments d'Anglet publiée par les Jardins du
+  Refuge, fichier distinct de celui de leur fiche (règle 191).)
+- **Marché des producteurs locaux du samedi** (Bayonne) (quatrième point, à 3,4 km de la mairie d'Anglet, Communauté
+  d'agglomération Pays Basque, règle 96 ; `marche`. **Faits** : page des marchés de la Ville (« samedi matin », légumes, fruits,
+  œufs, fromage, charcuterie, boulangerie-pâtisserie, bio) et office de commerce (8h-13h, page modifiée le 6 mai 2026). **Point** :
+  centroïde du quai Dominique-Roquebert (0,54), le carreau des Halles n'ayant pas d'adresse à la Base ; à confirmer pendant les
+  travaux des Halles. **Image, règles 312, 332 et 59** : la Ville exclut les photographies de sa clause de reprise, l'office de
+  Bayonne et le comité départemental excluent l'agent par son nom ; étal de légumes publié par un magasin biologique de Bayonne
+  (mentions de gabarit sans image nommée, `robots.txt` ouvert), recadré sous l'enseigne et la caisse marquée, 633 px, sous le
+  seuil de 700 mais sans photographie thématique plus nette dans la commune.)
 - **Marché de la Gravière** (Sainte-Foy-lès-Lyon) (seconde fiche entière de la règle 127 ; `marche`, piliers des marchés.
   **Horaires, règle 5** : vendredi 15h-20h à la page des marchés forains de la Ville (mise à jour le 3 avril 2025), 16h-19h à
   la fiche de l'office de la Métropole (2018) ; la valeur la plus récente est publiée, l'autre est citée. **Produits, règle 197** :
@@ -11482,6 +11521,89 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (quarantième de la nuit) : Anglet (Pyrénées-Atlantiques), quatre fiches ; Calvados sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, sur 861 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,3628, Val-d'Oise 6,0037, Landes 5,4139, Eure-et-Loir 5,4084, Lot-et-Garonne 4,1656,
+Loir-et-Cher 4,1024 et Aube 3,8765 (épuisés, règle 265) ; **Calvados (14) 3,8586**, **Pyrénées-Atlantiques (64) 3,8227**,
+Mayenne 3,8143. La dernière passe publiée visait l'Auvergne-Rhône-Alpes : Normandie et Nouvelle-Aquitaine ouvertes. Après la
+passe, sur 865 fiches : Oise 6,4109, Val-d'Oise 6,0781, Landes 5,4390, Eure-et-Loir 5,4335, Lot-et-Garonne 4,1850,
+Loir-et-Cher 4,1215, **Calvados 3,8998**, Aube 3,8945, Mayenne 3,8320, Cher 3,7466 ; les Pyrénées-Atlantiques tombent à
+**−0,1363**. La prochaine passe ne peut pas viser la Nouvelle-Aquitaine (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne (règles 297, 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent aucune
+connexion (délai dépassé). Le groupe reste à trois points relus ; **déblocage** inchangé.
+
+**Calvados : reprises, puis douze communes, d'Isigny-sur-Mer (38e) à Bourguébus (49e), aucune zone (règles 127, 247 et 258).**
+- **Souleuvre en Bocage** : toujours trois points. Le domaine de la brasserie biologique de Valdallière n'est qu'un gabarit vide ;
+  une chèvrerie n'a d'heures que sur un annuaire national qui refuse l'agent par son nom (règle 257) ; le domaine d'un GAEC
+  maraîcher ne résout plus.
+- **Noues de Sienne** : toujours trois points. Un centre de conditionnement d'œufs de Sept-Frères vend sous marque nationale, pas
+  en circuit court ; à Vire, le magasin associatif de producteurs n'a toujours ni domaine ni image permise.
+- **Touques** : toujours une seule fiche entière ; Deauville, dans la même intercommunalité, ne rend rien (ci-dessous).
+
+1. **Isigny-sur-Mer** (3 543) — marché du mercredi et du samedi aux faits entiers (page de la commune, tarifs 2026) ; le seul
+   bandeau porte en surimpression le nom d'une photographe (règle 339), l'office réserve l'iconographie (règle 246). Une EARL
+   encore au registre bio est fermée au registre des entreprises. **Zéro.**
+2. **Deauville** (3 539) — le site de la Ville refuse l'agent par son nom (règle 257) ; l'office limite la reproduction à l'usage
+   privé ; au registre bio, des boulangeries et un supermarché. **Zéro.**
+3. **Moult-Chicheboville** (3 441) — aucun marché publié. **Zéro.**
+4. **Troarn** (3 439) — marché du vendredi aux faits entiers ; mentions de la Ville qui nomment les photographies. **Zéro.**
+5. **Carpiquet** (3 428) — seulement un marché de Noël. **Zéro.**
+6. **Hermanville-sur-Mer** (3 323) — marché du dimanche connu des seuls agrégateurs (règle 340). **Zéro.**
+7. **Luc-sur-Mer** (3 275) — photographies réservées par la Ville et par l'office. **Zéro.**
+8. **Le Molay-Littry** (3 124) — marché sans heures ni produits ; mentions qui nomment les images. **Zéro.**
+9. **Villers-Bocage** (3 088) — photographie du marché de 1 494 px, mais les mentions nomment les images. **Zéro.**
+10. **Démouville** (3 035) — site de la commune derrière un point de contrôle anti-robot (règle 237) ; une ferme d'asperges aux
+    heures publiées sur un annuaire injoignable et absente du registre. **Zéro.**
+11. **Fontaine-Étoupefour** (2 810) — ni marché ni producteur publié. **Zéro.**
+12. **Bourguébus** (2 613) — commerces non alimentaires ou vente en gros. **Zéro.**
+
+**Pyrénées-Atlantiques, second département (règle 248)** :
+
+1. **Bayonne** (54 306) — faits abondants, images fermées : la Ville exclut les photographies de sa clause de reprise (règles 231
+   et 246), l'office et le comité départemental excluent l'agent par son nom, le site de la destination Pays basque a répondu
+   une fois puis plus (règle 237), l'office de commerce crédite des images de banque. Le marché du Séqué et l'AMAP qui distribue
+   au même lieu ont des mentions qui nomment les images ; les trois magasins du réseau Biocoop de l'agglomération ne nomment aucun
+   producteur (règle 86) ; un supermarché coopératif réservé aux membres est écarté ; les AMAP de quartier n'ont plus de site ou
+   n'ont qu'un réseau social. **Une seule fiche possible** (le marché des producteurs du samedi, image thématique) : pas de zone.
+2. **Anglet** (43 271) — **fait la passe, à quatre points (règle 320).** Deux fiches entières dans la commune, avec une vraie
+   photographie de leur lieu ou de leur production : les **Jardins du Refuge** et le **marché de Quintaou** ; troisième point dans
+   la commune, les **Halles des 5 Cantons** (photographie thématique, règle 312) ; quatrième point dans la Communauté
+   d'agglomération Pays Basque, le **marché des producteurs locaux du samedi** de Bayonne, à 3,4 km (règle 96). Détail sous
+   « Marchands à confirmer ». **Le cinquième manque** : le marché du Séqué n'a aucune image permise et une photographie d'Anglet
+   n'illustre pas Bayonne (règle 312) ; les halles de Biarritz sont inaccessibles ; un magasin bio de Lahonce ne nomme aucun
+   producteur ; une pépinière de Saint-Pée-sur-Nivelle vend des plants et son hébergeur exclut les agents. **Déblocage** : une
+   image permise pour le marché du Séqué ou pour un second marché de Bayonne.
+
+**Contradictions** : halle provisoire de Bayonne ouverte le 1er (office de commerce) ou le 4 septembre 2026 (Ville), non publiée ;
+marché du Séqué, fermeture à 21h (association, mars 2026) ou 20h (office de commerce, mai 2026), non publié ; Halles des 5
+Cantons, 11 (site et Base) ou 13 rue Paul-Courbin (registre), le 11 retenu ; Jardins du Refuge, avenue de l'Abbé-Cestac ou
+ancienne avenue de Montbrun (règle 344) ; deux magasins bio d'Anglet étiquetés Bayonne ou Biarritz par le site de leur réseau.
+
+**Domaines morts, à ne pas inscrire** : le blog d'une AMAP de Bayonne (410), deux domaines d'une épicerie bio de Bayonne, le
+domaine d'un GAEC maraîcher de Souleuvre en Bocage. Aucun domaine racheté vu.
+
+**Fiches écartées pour doute sur une personne** : quatre dans le Calvados (un maraîchage à Moult-Chicheboville, un maraîcher à
+Hermanville-sur-Mer, un producteur de vinaigre de cidre à Luc-sur-Mer, une ferme de Noues de Sienne déjà écartée) ; sept dans
+les Pyrénées-Atlantiques (deux à Bayonne, cinq entreprises individuelles à Anglet). Une photographie de rucher dont l'étiquette
+porte un nom n'a pas été reprise. Aucun nom n'est écrit.
+
+**Points d'arrêt** : la prochaine passe dans le **Calvados** reprend d'abord les groupes de Souleuvre et de Noues de Sienne et
+la fiche entière de Touques, puis la descente à **Louvigny** (2 612). Dans les **Pyrénées-Atlantiques**, Anglet a ses fiches ; la
+descente reprendrait à **Biarritz** (26 206).
+
+**Pistes non publiées (Calvados et Pyrénées-Atlantiques)** — lignes anonymes :
+
+- Isigny-sur-Mer, marché du mercredi et du samedi : faits entiers, aucune image permise.
+- Troarn, marché du vendredi : faits entiers, images réservées par la Ville.
+- Villers-Bocage, marché : image réservée par les mentions de la Ville.
+- Bayonne, marchés des Gascons, du Polo-Beyris et du Marquisat, pêcherie des allées Marines : faits de la Ville, images fermées.
+- Bayonne, marché du Séqué et AMAP du même lieu : faits entiers, images nommées dans les mentions ; désigné comme cinquième point
+  du groupe d'Anglet dès qu'une image permise existe.
+- Bayonne, halle provisoire des Halles : aucune famille de produits publiée (règle 197), aucune image.
 
 ### Passe du 25 septembre 2026 (trente-neuvième de la nuit) : Sainte-Foy-lès-Lyon (Rhône), quatre fiches ; Calvados sans zone
 

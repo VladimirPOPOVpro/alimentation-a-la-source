@@ -22910,5 +22910,116 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20de%20Brignais%2C%2069540%20Irigny",
     "image_url": "/images/marchands/paniers-d-irigny.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "jardins-du-refuge-anglet",
+    "nom": "Les Jardins du Refuge",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.501816,
+    "lon": -1.521188,
+    "adresse": "102 avenue de l'Abbé-Cestac (anciennement avenue de Montbrun), 64600 Anglet",
+    "horaires": "Mardi, jeudi et vendredi de 9h30 à 12h30 et de 15h30 à 18h ; mercredi de 9h30 à 12h30 ; samedi de 9h30 à 12h15 ; fermé le lundi, le dimanche et les jours fériés, d'après la fiche de l'office de tourisme d'Anglet (horaires 2026).",
+    "produits": [
+      "Légumes de saison bio",
+      "Piments d'Anglet",
+      "Melons et pastèques",
+      "Œufs de plein air",
+      "Poulets",
+      "Conserves maison (piperade, coulis, confitures)"
+    ],
+    "description": "Exploitation maraîchère certifiée bio d'une vingtaine d'hectares, cultivée depuis 1839 par une congrégation religieuse et, depuis 2008, avec les travailleurs d'un établissement d'aide par le travail ; la boutique est sur le domaine. Photo : site des Jardins du Refuge.",
+    "telephone": "05 59 52 81 32",
+    "site_web": "https://lesjardinsdurefuge.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=102%20avenue%20de%20Montbrun%2C%2064600%20Anglet",
+    "image_url": "/images/marchands/jardins-du-refuge-anglet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-quintaou-anglet",
+    "nom": "Marché de Quintaou",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.4837,
+    "lon": -1.51137,
+    "adresse": "Esplanade de Quintaou, allée de Quintaou, 64600 Anglet",
+    "horaires": "Le jeudi et le dimanche de 8h à 13h, d'après l'office de tourisme d'Anglet (agenda de septembre 2026, marché organisé par la Ville).",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Œufs",
+      "Poissons et fruits de mer",
+      "Viandes et volailles",
+      "Huîtres",
+      "Pain"
+    ],
+    "description": "Grand marché de plein air du centre d'Anglet, avec plus de 160 exposants, producteurs locaux et de Nouvelle-Aquitaine comme revendeurs, et une partie non alimentaire. Photo : e-magazine de la Ville d'Anglet, un étal du marché, recadrée.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All%C3%A9e%20de%20Quintaou%2C%2064600%20Anglet",
+    "image_url": "/images/marchands/marche-de-quintaou-anglet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-des-5-cantons-anglet",
+    "nom": "Halles des 5 Cantons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.49426,
+    "lon": -1.528984,
+    "adresse": "11 rue Paul Courbin, 64600 Anglet",
+    "horaires": "Marché du mardi au dimanche de 8h à 14h, et le vendredi aussi de 16h à 19h ; fermé le lundi, d'après le site de l'exploitant des halles (septembre 2026). Les comptoirs de restauration ont leurs propres horaires, plus larges.",
+    "produits": [
+      "Canard (étal d'un éleveur)",
+      "Fruits et légumes",
+      "Poisson",
+      "Fromages et crèmerie",
+      "Boucherie et charcuterie",
+      "Pain et pâtisserie"
+    ],
+    "description": "Halle couverte du quartier des Cinq Cantons, exploitée par une société de halles, qui réunit des commerces de bouche, dont l'étal d'un éleveur de canards, et des comptoirs de restauration. La photo, des piments d'Anglet publiés par les Jardins du Refuge, ne montre pas la halle.",
+    "telephone": "05 59 29 97 43",
+    "site_web": "https://biltoki.com/halles/halles-des-5-cantons",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11%20rue%20Paul%20Courbin%2C%2064600%20Anglet",
+    "image_url": "/images/marchands/halles-des-5-cantons-anglet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-du-samedi-bayonne",
+    "nom": "Marché des producteurs locaux du samedi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.490658,
+    "lon": -1.474892,
+    "adresse": "Carreau des Halles, quai Dominique-Roquebert, 64100 Bayonne",
+    "horaires": "Le samedi de 8h à 13h, d'après l'office de commerce de Bayonne (page mise à jour en mai 2026) ; la Ville écrit « le samedi matin ». Les halles étant en travaux depuis septembre 2026, l'emplacement exact est à vérifier.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Œufs",
+      "Fromages",
+      "Charcuterie",
+      "Pain et pâtisserie"
+    ],
+    "description": "Marché hebdomadaire d'une soixantaine de producteurs sur le carreau des Halles, les quais et les ponts Pannecau et Marengo, avec des étals en bio. La photo, un étal de légumes d'un magasin bio de Bayonne, ne montre pas le marché.",
+    "site_web": "https://www.bayonne.fr/cest-a-bayonne/shopping/les-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quai%20Dominique%20Roquebert%2C%2064100%20Bayonne",
+    "image_url": "/images/marchands/marche-des-producteurs-du-samedi-bayonne.jpg",
+    "a_confirmer": true
   }
 ]
