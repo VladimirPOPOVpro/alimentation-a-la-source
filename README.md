@@ -4255,6 +4255,25 @@ prioritaires en cas de conflit.
      passe avant le centroïde d'une voie homonyme (règle 10) et avant un point d'office qui échoue au contrôle de la règle 64.
      L'adresse de la fiche porte les deux noms, et la fiche reste `a_confirmer`.
 
+345. **Une image que la page d'un site sert depuis un réseau de diffusion dont le `robots.txt` interdit le chemin est fermée,
+     même quand un autre hôte de la même plateforme livre le même fichier sans interdiction.** À Bourges, le site de commande
+     d'une association d'insertion, hébergé par une plateforme de paniers, affiche ses photographies depuis `cdn.socleo.org`,
+     dont le `robots.txt` écrit `Disallow: /` sauf pour les icônes ; le sous-domaine propre au site, dont le `robots.txt` ne
+     nomme pas `/media/`, rend le même fichier au même chemin. La règle 324 prend sur le domaine propre de la commune une image
+     que son sous-domaine mort ne sert plus ; ici c'est l'inverse : l'hôte que la page désigne est vivant et refuse. **Tranché
+     ainsi** : c'est l'hôte que la page désigne pour l'image qui dit si on peut la prendre ; aller la chercher ailleurs pour
+     échapper à son `robots.txt` revient à franchir un filtrage (règle 257). La fiche prend alors une photographie thématique de
+     la commune (règle 312). Les faits du site restent lisibles.
+
+346. **Le millésime d'un pied de page (« ©2026 ») ne date pas le contenu d'un site d'AMAP.** Le site de l'AMAP des Marais, à
+     Bourges, donne le lieu et l'heure de la distribution du vendredi, le nombre d'adhérents et de producteurs, et se termine par
+     « ©2026 » ; aucune page ne porte de saison, de contrat ni d'événement daté, l'espace des contrats exige une connexion et le
+     serveur ne publie aucune date de modification. La règle 195 veut une source de moins de douze mois ; la règle 338 refuse une
+     date que l'éditeur régénère sans relecture. **Tranché ainsi** : un millésime de pied de page se met à jour tout seul le
+     1er janvier et ne dit rien de la distribution ; il ne vaut ni la page d'actualité de la règle 195 ni l'affiche de la règle
+     218. La fiche attend en pistes, faits relus. **Déblocage** : une saison, un contrat ou un événement daté publiés par l'AMAP
+     elle-même, ou une publication municipale de l'année qui la cite.
+
 ## Marchands à confirmer
 
 767 fiches sur 865 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11521,6 +11540,150 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (quarante-troisième de la nuit) : Calvados, Mayenne et Cher, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise 6,4109, Val-d'Oise 6,0781, Landes 5,4390, Eure-et-Loir 5,4335,
+Lot-et-Garonne 4,1850, Loir-et-Cher 4,1215 (épuisés, règle 265) ; **Calvados (14) 3,8998** ; Aube 3,8945 (épuisée) ; **Mayenne
+(53) 3,8320** ; **Cher (18) 3,7466**. La dernière passe publiée visait la Nouvelle-Aquitaine : Normandie, Pays de la Loire et
+Centre-Val de Loire ouverts. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 266, 322 et 335).** `seignosse.fr` et `www.seignosse.fr` répondent de nouveau
+(200, trois essais), et la page d'accueil est bien celle de la commune. Le déblocage nommé par la règle 335 est donc constaté ;
+mais la dernière passe publiée visait la Nouvelle-Aquitaine, et la règle 266 interdit d'y publier dans cette passe. **La
+prochaine passe autorisée à viser la Nouvelle-Aquitaine relit d'abord le marché de Seignosse (heures et photographie) puis
+publie le groupe au titre de la règle 320 si les quatre points tiennent.**
+
+**Calvados : reprises inchangées, puis six communes, de Ranville (74e) à Frénouville (79e), aucune zone ; département épuisé
+(règles 127, 247, 265 et 267).**
+- **Potigny** : le jardin d'insertion de la commune n'a d'heures de vente que sur des annuaires tiers (son domaine ne résout
+  plus, son association n'a plus d'établissement ouvert dans la commune) ; son enseigne porte en outre un prénom : **écarté
+  pour doute sur une personne**, il ne se rouvre pas. Le marché du mercredi reste seul.
+- **Noues de Sienne** : le magasin associatif de producteurs de Vire Normandie n'a toujours qu'un réseau social ; le portail
+  régional des producteurs répond 403 à tout agent. Toujours trois points.
+- **Souleuvre en Bocage** et **Touques** : aucune source nouvelle.
+
+1. **Ranville** (2 074) — mentions de la Ville qui réservent les « représentations iconographiques et photographiques » (règle
+   246) ; marché du dimanche connu des seuls annuaires tiers ; au registre bio, un grossiste. **Zéro.**
+2. **Cagny** (2 066) — une cueillette au site propre et ouvert, horaires publiés ; mais sa seule photographie de plus de 700 px
+   a toutes les marques d'une image de banque (format de téléchargement standard, aucune donnée d'appareil, retouchée le jour
+   de la création du site : règle 70), les autres font au plus 300 px, et la Ville, l'office et Val ès Dunes interdisent toute
+   reproduction. Le seul opérateur bio hors franchise est une supérette de réseau. **Zéro.**
+3. **Cairon** (2 066) — site de la Ville sans clause, mais aucun commerce admissible ni marché. **Zéro.**
+4. **Évrecy** (2 066) — Ville fermée (accord écrit) ; marché du mercredi sans heures, page de 2017 ; un distributeur d'œufs à
+   un seul produit. **Zéro.**
+5. **Fontenay-le-Marmion** (2 055) — seul opérateur bio vendant aux particuliers cessé au registre ; Ville fermée. **Zéro.**
+6. **Frénouville** (2 050) — Ville fermée (même prestataire que Cagny), aucun marché ; deux producteurs en nom propre qui
+   vendent en gros. **Zéro.**
+
+La commune suivante, Bénouville, compte 1 987 habitants : **le Calvados est épuisé** (règle 265). Ses reprises (Souleuvre,
+Noues de Sienne, Touques, Potigny) restent désignées.
+
+**Mayenne, reste de la borne (six communes, règle 267)** :
+
+0. **Craon, reprise** — la cidrerie Ferme du Pressoir se relit entière (horaires identiques sur son site et sur la page de la
+   Ville ; fixe publié ; bouteilles et bocaux sur une table, 1 500 px ; pied de page « tous droits réservés » sans clause qui
+   nomme les images, règle 231). Sa politique de confidentialité désigne une personne physique comme responsable du
+   traitement : ce n'est pas un doute qui écarte la fiche, puisque l'enseigne n'est pas un nom et que le point de vente ouvre
+   à heures fixes (règle 311), et ce nom n'est écrit nulle part. Aucun second point entier : le magasin du réseau Biocoop du
+   boulevard d'Okehampton a des faits entiers mais des images réservées (vignette de la Ville de 240 px), la cidrerie ne peut
+   pas lui prêter une photographie de ses propres bouteilles (règle 332), le magasin de producteurs voisin est fermé au
+   registre, l'épicerie bio est réservée aux adhérents. **Toujours une seule fiche.**
+1. **Louverné** (4 344) — marché du vendredi 9h-13h avec étals nommés par la Ville, mais « en plein centre-ville » sans lieu et
+   photographies soumises à autorisation. **Zéro.**
+2. **Montsûrs** (3 192) — marché de producteurs du jeudi 16h30-19h30 aux familles écrites (Ville et site du marché), mais les
+   deux sites interdisent la reproduction de « tout ou partie du site » sans autorisation. **Zéro.**
+3. **Cossé-le-Vivien** (3 174) — Ville fermée (autorisation écrite) ; un maraîcher en paniers au seul portable, sans image ;
+   le collectif de commande bio sert ses images depuis un réseau dont le `robots.txt` interdit tout. **Zéro.**
+4. **Argentré** (2 906) — reproduction réservée à l'usage privé (règle 296) ; marché bio du vendredi sans famille écrite
+   (règle 197). **Zéro.**
+5. **Meslay-du-Maine** (2 779) — usage personnel seulement, iconographie exclue ; aucun producteur au site propre. **Zéro.**
+6. **Loiron-Ruillé** (2 758) — reproduction interdite sauf autorisation écrite ; le marché du samedi (8h30-12h30, place de
+   Chantepie, fromages) n'a aucune image permise. **Zéro.**
+
+**Cher, second département (règle 248)** — département sans fiche. Le site de la Ville de Bourges, l'office de Bourges Berry
+Tourisme, Berry Province et le site de Bourges Plus répondent 403 à l'agent nommé et 200 à un agent quelconque : **ils ne sont
+pas consultés** (règle 257), ni pour les images ni pour les heures des marchés. L'office Berry Sologne Tourisme répond 429 à
+l'agent nommé à chaque essai et 200 à un autre : même traitement.
+
+1. **Bourges** (64 186) — **trois fiches entières, désignées pour la reprise** :
+   - **Ferme des Beaux Regards** (10 rue Marguerite-Audoux, BAN 0,964, 1,5 km du centre) — `ferme` ; vente à la ferme tous
+     les jeudis de l'année de 16h à 19h (site de la ferme) ; légumes, fruits, œufs, miel, plantes aromatiques ; entreprise
+     individuelle active, 01.13Z, dont le siège est le lieu de vente mais qui ouvre à heures fixes (règle 311 : règles
+     ordinaires) ; seul numéro publié un portable, non retenu. Image : planches de poireaux, tunnels et filets, sans personne,
+     900 px ; le site ne porte qu'une ligne « Photos : » suivie d'un nom et un « © » de pied de page (règles 306 et 317),
+     pas de `robots.txt`.
+   - **Biocoop Au Bourgeon Vert** (121 boulevard de l'Avenir ; la BAN ne connaît pas le numéro, point à la voie, 0,78) —
+     `magasin-bio` ; lundi-samedi 9h30-19h30, fermé le dimanche (page de présentation du magasin, actualités de septembre
+     2026) ; société coopérative active, 47.11D ; fixe publié. Images du magasin réservées par ses conditions ; photographie
+     thématique possible de la ferme ci-dessus (règle 312) : poireaux à droite de la vue du tracteur, recadrés sans la
+     personne, 1 090 px.
+   - **Maraîchage de l'Entraide Berruyère** (261 route de Saint-Michel, BAN 0,976, 3,5 km) — `producteur`, légumes
+     biodynamiques d'une association d'insertion ; « de la mi-mai à novembre ou décembre, du mardi au vendredi de 10h à 13h »
+     (page du kiosque de l'association, non datée) ; association active, établissement ouvert à l'adresse ; fixe publié.
+     Son site interdit la reproduction ; les photographies de son site de commande sont servies depuis un réseau qui les
+     interdit (**règle 345, nouvelle**) ; photographie thématique possible : le haut de la vue des melons sous ombrière publiée
+     par la ferme, sans la personne (règle 321, découpage distinct de celui de l'AMAP).
+   - L'**AMAP des Marais** (Espace Tivoli, 3 rue du Moulon, vendredi 17h30-19h) n'a qu'un millésime de pied de page pour date
+     (**règle 346, nouvelle**) : elle attend. Les marchés du Val d'Auron, des Gibjoncs, de Saint-Bonnet, de la Chancellerie, des
+     Marronniers, de la Halle au Blé, d'Asnières et de l'Aéroport ne sont décrits que par la Ville et l'office, non consultés.
+   - Dans Bourges Plus, à moins de quinze kilomètres, aucun quatrième point : la boutique de la ferme du lycée agricole du
+     Subdray a des faits entiers mais des images interdites par le lycée et la commune ; l'AMAP de Plaimpied-Givaudins
+     n'illustre son site que de photographies de banque ; le magasin bio indépendant de Saint-Doulchard est fermé au registre ;
+     celui du réseau Biomonde à Saint-Germain-du-Puy est absent de la carte du réseau et inscrit en commerce de gros ; le site
+     de la Ville de Saint-Doulchard refuse l'agent nommé ; le marché mensuel de producteurs de Mehun-sur-Yèvre est à 15,5 km.
+     **Trois points ne font pas une zone (règle 258).**
+2. **Vierzon** (25 068) — **deux fiches entières, désignées pour la reprise** :
+   - **Le Chant du Levain** — `producteur`, paysan-boulanger biologique (EARL active, 01.11Z, fournil rue Pierre-et-Jean-Serpaud) ;
+     vente au marché du samedi 8h-12h, place Jacques-Brel (page « Où nous trouver » modifiée le 15 septembre 2026 ; la Ville
+     donne le marché de 8h à 13h, règle 5) ; pains de blé, d'épeautre, d'engrain, méteil, brioche, pain d'épices ; étal de
+     pains sur le marché, 900 px, site sans clause ; seul numéro un portable, non retenu.
+   - **La Vie Claire Vierzon** (chemin de l'Ardillat, centre commercial de l'Orée de Sologne, point à la voie, 0,955) —
+     `magasin-bio` ; lundi-samedi 9h30-19h, dimanche 9h-12h30 (page du magasin sur le site de l'enseigne) ; société active,
+     47.19B ; fixe publié ; images de l'enseigne protégées, photographie thématique possible d'un pain en moule publiée par le
+     paysan-boulanger (règle 312), 1 472 px.
+   - Troisième point au mieux dans Vierzon-Sologne-Berry : la chèvrerie Ferme des Places (Saint-Laurent, 9,5 km), entière sauf
+     les horaires — son site dit « tous les jours » et cite encore un magasin radié en mars 2025, une page de 2026 du
+     paysan-boulanger dit « le vendredi » (règle 5). Les marchés de Vierzon n'ont aucune famille écrite par une source
+     lisible (règle 197) ; la Ville écrit « droits réservés » sous ses crédits, l'intercommunalité réserve ses images à l'usage
+     personnel. **Deux points, pas de zone.**
+
+**Aucune zone dans les trois départements éprouvés : la passe ne publie rien (règles 248 et 267).**
+
+**Contradictions** : horaires de la chèvrerie de Saint-Laurent (son site contre une page datée d'un autre producteur) ; heure
+de fin du marché du samedi de Vierzon (12h pour le paysan-boulanger, 13h pour la Ville). Rien n'est publié.
+
+**Domaines morts, à ne pas inscrire** : l'ancien domaine de l'Entraide Berruyère (racheté, renvoie vers une clinique à
+l'étranger), le domaine de l'association du jardin de Potigny, un maraîcher et un drive fermier de Bourges, le site de
+Bourges Plus sur `bourgesplus.fr` (page par défaut), un domaine de ferme de Vierzon qui redirige vers un site sans rapport, un
+écopôle maraîcher dont le site n'est plus qu'une copie d'archive, un maraîchage de Vouzeron.
+
+**Fiches écartées pour doute sur une personne** : dans le Calvados, le jardin d'insertion de Potigny, un producteur à Cairon, deux
+à Frénouville ; dans la Mayenne, une quinzaine d'exploitations inscrites sous leur patronyme ou dont l'enseigne porte un prénom
+(Craon et Pays de Craon, Louverné, Montsûrs, Cossé-le-Vivien, Argentré, Meslay-du-Maine, Loiron-Ruillé) ; dans le Cher, un
+élevage de volailles à Arçay, un maraîchage à Saint-Michel-de-Volangis, une brasserie à Bourges, une fromagerie à Massay. Aucun
+nom n'est écrit.
+
+**Points d'arrêt** : le **Calvados** est épuisé ; ses reprises restent désignées. Dans la **Mayenne**, la descente reprend à
+**Villaines-la-Juhel** (2 671) ; la fiche entière de Craon passe avant tout candidat neuf. Dans le **Cher**, la passe qui y
+reviendra prend d'abord les trois fiches entières de Bourges et les deux de Vierzon, puis la descente à **Saint-Amand-Montrond**
+(9 899).
+
+**Pistes non publiées (Calvados, Mayenne et Cher)** — lignes anonymes :
+
+- Bourges, Ferme des Beaux Regards, Biocoop Au Bourgeon Vert et maraîchage de l'Entraide Berruyère : trois fiches entières ;
+  désignées pour la reprise. **Déblocage** : un quatrième point entier dans Bourges Plus à moins de quinze kilomètres (une
+  source datée pour l'AMAP des Marais, ou une image permise pour la boutique du lycée agricole du Subdray), ou le retrait du
+  filtrage de la Ville et de l'office, qui rendrait lisibles les marchés.
+- Bourges, AMAP des Marais : faits relus, aucune date de contenu (règle 346).
+- Bourges, marchés du Val d'Auron, des Gibjoncs et de Saint-Bonnet : sources refusant l'agent nommé (règle 257).
+- Vierzon, Le Chant du Levain et La Vie Claire : deux fiches entières ; désignées pour la reprise. **Déblocage** : les horaires
+  confirmés de la chèvrerie de Saint-Laurent et un quatrième point dans Vierzon-Sologne-Berry.
+- Cagny, cueillette : faits entiers, seule image probablement de banque.
+- Montsûrs, marché de producteurs du jeudi : faits entiers, images réservées.
+- Loiron-Ruillé, marché du samedi : faits entiers, aucune image permise.
 
 ### Passe du 25 septembre 2026 (quarante-deuxième de la nuit) : Calvados et Mayenne, aucune publication
 
