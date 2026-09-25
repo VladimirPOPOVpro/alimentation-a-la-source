@@ -11522,6 +11522,95 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 25 septembre 2026 (quarante-deuxième de la nuit) : Calvados et Mayenne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé depuis la passe précédente — Oise 6,4109, Val-d'Oise 6,0781, Landes 5,4390,
+Eure-et-Loir 5,4335, Lot-et-Garonne 4,1850, Loir-et-Cher 4,1215 (épuisés, règle 265) ; **Calvados (14) 3,8998** ; Aube 3,8945
+(épuisée) ; **Mayenne (53) 3,8320** ; Cher 3,7466. La dernière passe publiée visait la Nouvelle-Aquitaine : Normandie et Pays
+de la Loire ouverts. `origin/main` n'a pas bougé entre le calcul et la publication (règle 241). Classement inchangé après la
+passe (règle 260).
+
+**Contrôle de tête : le groupe de Labenne (règles 266, 297, 322 et 335).** `seignosse.fr` n'ouvre aucune connexion ;
+`www.seignosse.fr` n'en ouvre aucune à l'agent par défaut et a rendu une seule page à l'agent nommé : au sens de la règle 297, le
+site reste muet pour la passe. Le groupe reste à trois points relus ; la passe précédente publiée ayant visé la
+Nouvelle-Aquitaine, il ne pouvait de toute façon pas être publié ici (règle 266).
+
+**Calvados : reprises inchangées, puis douze communes, de Caumont-sur-Aure (62e) à Potigny (73e), aucune zone (règles 127, 247
+et 258).** Les groupes de Souleuvre en Bocage et de Noues de Sienne et la fiche entière de Touques restent dans l'état écrit par
+la passe précédente, quelques heures plus tôt : aucune source nouvelle pour leurs déblocages nommés. Registre de l'Agence Bio
+relu (1 364 opérateurs) ; sites des Villes pris dans l'annuaire de l'administration (règle 327), code postal contrôlé.
+
+1. **Caumont-sur-Aure** (2 431) — la ligne « Crédits photos » de la Ville ne dit qu'à qui appartiennent les photographies (règle
+   306), mais la Ville ne publie aucun marché, et son annuaire des commerces ne donne aucune heure de vente. Un élevage de
+   volailles et une ferme d'élevage n'ont d'heures que sur deux annuaires qui répondent 403 à tout agent (règle 237) ou sur un
+   site qui ne résout plus. **Zéro.**
+2. **Mathieu** (2 331) — gabarit « représentations iconographiques et photographiques » (règle 246) ; au registre bio, une ferme
+   florale (hors sujet). **Zéro.**
+3. **Cuverville** (2 267) — même gabarit (règle 246) ; au registre, un grossiste. **Zéro.**
+4. **Creully sur Seulles** (2 261) — aucun marché publié ; crédits photographiques nominatifs. Au registre bio, des ventes en gros
+   et une coopérative. **Zéro.**
+5. **Soliers** (2 260) — « images animées ou non » réservées par la Ville (règle 231) ; au registre, des grossistes et une
+   supérette. **Zéro.**
+6. **Dozulé** (2 244) — le site de la Ville n'a que quatre pages, sans marché ; l'AMAP de la commune n'a plus qu'un site mort
+   (404) et un réseau social, et la notice du réseau AMAP ne vaut pas source datée (règle 195). **Zéro.**
+7. **Merville-Franceville-Plage** (2 231) — marchés du jeudi et du dimanche matin sans heures ni composition (règle 197),
+   photographies « reproduction interdite ». **Zéro.**
+8. **Saint-Manvieu-Norrey** (2 160) — « images animées ou fixes » réservées (règle 231). **Zéro.**
+9. **Laize-Clinchamps** (2 155) — le site de la Ville répond 403 à l'agent nommé et 200 à un agent quelconque (règle 257) ; au
+   registre bio, un producteur de plantes aromatiques en nom propre. **Zéro.**
+10. **Saint-Aubin-sur-Mer** (2 101) — gabarit de la règle 246 ; un primeur qui vend aussi des fruits exotiques (règle 304). **Zéro.**
+11. **Épron** (2 093) — reproduction réservée à l'usage privé (règle 296) ; au registre, une épicerie au certificat arrêté et
+    une boulangerie. **Zéro.**
+12. **Potigny** (2 089) — **une fiche entière, désignée pour la reprise** : le **marché du mercredi**, 8h30-12h30, à l'angle de la
+    rue Louis-Lefèvre et de la rue du Général-Leclerc ; la Ville nomme poissonnier, primeur et fleuriste parmi les « commerçants
+    et producteurs ». Ses mentions ne réservent que le « contenu rédactionnel » (lecture de Saint-Sever), `robots.txt` ouvert ;
+    six photographies propres au marché (1 168-1 170 px), dont un étal de légumes recadrable sans la personne qui s'y tient (705
+    px, au-dessus du plancher de la règle 59). Le jardin d'insertion biologique de la commune, qui vend ses légumes sur place,
+    n'a plus de domaine (le nom ne résout plus) : ni heures ni image. **Une seule fiche, règle 127.**
+
+**Mayenne, second département (règle 248)** :
+
+1. **L'Huisserie** (4 672) — le site de la Ville coupe la connexion à l'agent nommé (444) et répond à un agent quelconque (règle
+   257), il n'est pas consulté. Un GAEC laitier biologique vend à la ferme le vendredi 16h30-18h30 (faits de l'office de Laval
+   Agglomération et de la presse agricole), mais l'office déclare ses photographies « pas libres de droit » et la ferme n'a qu'un
+   réseau social. **Zéro.**
+2. **Craon** (4 431) — **une fiche entière, désignée pour la reprise** : la cidrerie **Ferme du Pressoir** (16 chemin du
+   Pressoir), vente directe du lundi au samedi 9h-12h et 15h-19h, sauf jours fériés (page « Produits du terroir » de la Ville et
+   site de la ferme, modifié en 2025) ; cidre doux et brut, poiré, pommeau, jus de pomme, eaux-de-vie, vinaigre de cidre. Règle
+   6 : l'exploitation de spiruline de la même ferme, société active au registre, est domiciliée au même lieu-dit ; l'entité de la
+   cidrerie elle-même n'a pas été retrouvée sous l'enseigne. Site sans clause sur les images, `robots.txt` ouvert, photographies
+   de produits sans personne (1 500-1 619 px). Le marché du lundi matin, place du Maréchal-Leclerc, n'a ni heures ni composition
+   (règle 197) ; un GAEC laitier livre sa coopérative ; la spiruline est au même point que la cidrerie (règle 7). **Une seule
+   fiche, règle 127.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune.
+
+**Domaines morts, à ne pas inscrire** : le domaine du jardin d'insertion de Potigny (ne résout plus), le site de l'AMAP de Dozulé
+(404), le site d'une ferme d'élevage de Caumont-sur-Aure (aucune connexion). Aucun domaine racheté vu.
+
+**Fiches écartées pour doute sur une personne** : dans le Calvados, un élevage de volailles et une production d'endives à
+Caumont-sur-Aure, un producteur de plantes aromatiques à Laize-Clinchamps, un maraîcher à Saint-Aubin-sur-Mer ; dans la Mayenne,
+un apiculteur et une fromagerie fermière à Craon. Les annuaires de commerces de Caumont-sur-Aure, de Mathieu et de Potigny et la
+page « Produits du terroir » de Craon nomment des exploitants : aucun nom n'est repris. Aucun nom n'est écrit.
+
+**Points d'arrêt** : la prochaine passe dans le **Calvados** reprend d'abord les groupes de Souleuvre et de Noues de Sienne, la
+fiche entière de Touques et celle de Potigny, puis la descente à **Ranville** (2 074) ; le département sera épuisé au sens de la
+règle 265 après Frénouville (2 050, 79e). Dans la **Mayenne**, la descente reprend à **Louverné** (4 344), puis Montsûrs ; la
+fiche entière de Craon passe avant tout candidat neuf.
+
+**Pistes non publiées (Calvados et Mayenne)** — lignes anonymes :
+
+- Potigny, marché du mercredi : fiche entière, seule dans sa commune ; désignée pour la reprise. **Déblocage** : un second point
+  entier dans la commune (les heures de vente du jardin d'insertion), puis le complément dans la Communauté de communes du Pays de Falaise (règle 96).
+- Craon, cidrerie Ferme du Pressoir : fiche entière, seule dans sa commune ; désignée pour la reprise. **Déblocage** : un second
+  point entier à Craon, puis le complément dans le Pays de Craon (règle 96).
+- L'Huisserie, GAEC laitier du vendredi : faits entiers, aucune image permise.
+- Merville-Franceville-Plage, marchés du jeudi et du dimanche : ni heures, ni composition, ni image permise.
+
 ### Passe du 25 septembre 2026 (quarante et unième de la nuit) : Calvados et Mayenne, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
