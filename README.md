@@ -4214,6 +4214,19 @@ prioritaires en cas de conflit.
      La liste peut servir de piste pour chercher une source d'autorité, jamais de source. **Déblocage** : la même composition
      publiée par la commune, par l'organisateur, ou par la plateforme elle-même avec son origine et sa date.
 
+341. **Un « ® » posé sur les photographies, suivi du nom d'un photographe, ferme le site comme source d'image, comme le « © » de
+     la règle 291.** Les mentions légales de la commune de Valdallière ne portent aucune clause de reproduction ; elles écrivent
+     seulement, sous « Crédits photographiques », un « ® » suivi du nom d'un photographe. La brasserie biologique de la commune,
+     dont les faits sont entiers (fiche de l'office du Pays de Vire modifiée le 26 août 2026 : bar-boutique le vendredi de 16h à
+     19h30 ; SARL active ; certificat engagé au registre de l'Agence Bio), n'avait pas d'autre image que celles de la page que la
+     commune lui consacre. Le « ® » est le signe d'une marque, pas d'un droit d'auteur, et la règle 306 lit un simple crédit
+     comme une attribution et non comme une interdiction. **Tranché ainsi** : un signe de réserve apposé sous l'intitulé des
+     photographies et rattaché à un auteur distinct de l'éditeur dit la même chose que le « © » de la règle 291 et que le crédit
+     de fichier de la règle 339 — l'image appartient à un tiers qui ne l'a cédée qu'au site ; faute de permission écrite, les
+     photographies ne se reprennent pas, et le nom de l'auteur n'est écrit nulle part. Un crédit sans signe, qui nomme
+     l'éditeur lui-même, reste sous la règle 306. **Déblocage** : une permission écrite sur le site, ou la même photographie
+     publiée sans réserve par le commerce lui-même.
+
 ## Marchands à confirmer
 
 760 fiches sur 857 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11431,6 +11444,104 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente-huitième de la nuit) : Landes (reprise), Calvados et Rhône, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 857 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,3146, Val-d'Oise 5,9294, Landes 5,3887, Eure-et-Loir 5,3833, Lot-et-Garonne 4,1463,
+Loir-et-Cher 4,0834 et Aube 3,8585 (épuisés, règle 265), **Calvados (14) 3,8175**, **Rhône (69) 3,7969**, Mayenne 3,7966 —
+inchangé depuis la passe précédente (règle 260). La dernière passe publiée visait les Pays de la Loire : Normandie,
+Auvergne-Rhône-Alpes et Nouvelle-Aquitaine ouvertes (règles 41.c et 266). `origin/main` n'a pas bougé pendant la passe.
+
+**Contrôle de tête : le groupe de Labenne (règles 297, 322 et 335).** Pour la première fois depuis plusieurs passes,
+`seignosse.fr` — le domaine même que les passes précédentes nomment — a servi sa page d'accueil aux deux agents (200, 180 ko, pages
+de démarches de la Ville). Puis plus rien : la page des marchés, la fiche « marché traditionnel » de l'agenda et le `robots.txt`
+n'ont ouvert aucune connexion, quatorze essais sur vingt minutes, en tête et en fin de passe, aux deux agents ; le navigateur
+intégré n'a pas pu l'ouvrir non plus. C'est la règle 297 : la page d'accueil ne porte ni les heures du marché ni sa photographie,
+le point n'est pas relu (règle 322), et les trois autres points ne se republient pas sans lui. Le groupe reste à trois points
+relus ; **déblocage** inchangé : la page des marchés de `seignosse.fr` servie pendant une passe autorisée à viser la
+Nouvelle-Aquitaine.
+
+**Calvados : reprise de Souleuvre en Bocage, puis douze communes, de Honfleur (14e) à Giberville (25e), aucune zone (règles 127
+et 247).** Registre de l'Agence Bio relu (1 364 opérateurs). Sites des Villes pris dans l'annuaire de l'administration (règle
+327). Même constat que la passe précédente : presque toutes les Villes ferment leurs photographies, et les producteurs qui
+vendent à la ferme publient leurs heures sur un annuaire national qui répond 403 à tout agent ou sur un réseau social.
+
+- **Reprise de Souleuvre (règle 258)** : cherché un quatrième point à moins de quinze kilomètres dans l'Intercom de la Vire au
+  Noireau. La brasserie biologique de Valdallière (13 km du centre de Souleuvre) a des faits entiers — voir la **règle 341
+  (nouvelle)** —, mais aucune image permise : la commune pose un « ® » d'auteur sur ses photographies, l'office du Pays de Vire
+  ferme les siennes, la page que lui consacre un magasin du réseau Biocoop relève de conditions générales qui nomment les
+  photographies (règle 245), et son propre domaine n'est qu'un gabarit vide. La ferme maraîchère biologique de la même commune
+  (16 km, au-delà de la borne) ne vend qu'aux marchés de Caen, et toutes ses photographies montrent des personnes. Les autres
+  opérateurs de Valdallière vendent en gros ou sont inscrits en nom propre (règle 259). **Souleuvre reste à trois points** ;
+  rien n'est publié. Les trois fiches restent désignées pour la reprise, déblocage inchangé.
+
+1. **Honfleur** (6 640) — la Ville (`ville-honfleur.com`, annuaire de l'administration ; `ville-honfleur.fr` ne répond pas)
+   publie ses marchés (samedi 8h30-13h Cours des Fossés et place Sainte-Catherine, marché bio du mercredi 8h30-13h, marché aux
+   poissons du jeudi au dimanche matin, marché du Plateau le vendredi 16h-19h), mais ses crédits photographiques portent
+   « reproduction interdite » (règle 231) ; l'office refuse l'agent nommé (règle 257) et le comité régional du tourisme l'exclut
+   dans son `robots.txt` (règle 77). Le magasin du réseau Biocoop, ouvert en 2026, a un site propre ouvert, des horaires complets et
+   un fixe, mais sa rubrique « producteurs locaux » est vide et ses « paysans associés » sont des coopératives nationales :
+   règle 86. **Zéro.**
+2. **Livarot-Pays-d'Auge** (6 207) — la commune nomme les images dans sa clause de contrefaçon (règle 246). Une cidrerie
+   biologique a un site ouvert, mais n'y publie que les heures de son standard, pas de vente (règle 192) ; une chèvrerie
+   biologique n'a d'heures que sur l'annuaire national (403) et sur l'office intercommunal, et aucune image hors réseau social.
+   Les autres producteurs sont inscrits en nom propre ou n'ont ni site ni heures. **Zéro.**
+3. **Thue et Mue** (6 182) — photographies fermées (règle 231) ; aucun producteur à site propre avec heures de vente. **Zéro.**
+4. **Blainville-sur-Orne** (6 106) — mentions sans clause sur les images, mais la page du marché (vendredi 8h30-12h, place de
+   l'Église) ne dit rien de ce qu'on y vend (règle 197) et ne porte aucune photographie ; un champignonniste inscrit en nom
+   propre. **Zéro.**
+5. **Condé-en-Normandie** (5 985) — clause qui nomme les images (règle 231) ; un maraîcher biologique sans site ni heures.
+   **Zéro.**
+6. **Fleury-sur-Orne** (5 941) — site sans clause fermante, mais aucune page de marché hebdomadaire (le plan du site n'en compte
+   aucun), une AMAP connue seulement par une actualité de 2022 (règle 195). **Zéro.**
+7. **Valdallière** (5 696) — voir la reprise de Souleuvre : la brasserie est la seule fiche aux faits entiers, sans image
+   (règle 341). **Zéro.**
+8. **Cormelles-le-Royal** (5 377) — photographies nommées dans l'interdiction ; au registre biologique, un hypermarché seulement.
+   **Zéro.**
+9. **Pont-l'Évêque** (5 145) — clause qui nomme les images ; aucun opérateur biologique vendant au particulier. **Zéro.**
+10. **Douvres-la-Délivrande** (5 143) — images protégées par la clause de la Ville ; un magasin coopératif biologique dont
+    l'enseigne est formée d'un prénom (règle 259, non rouvert) ; un maraîchage inscrit en nom propre. **Zéro.**
+11. **Dives-sur-Mer** (5 122) — clause qui nomme les images ; le magasin du réseau Biocoop relève des mêmes conditions générales
+    que ci-dessus ; un verger en EARL sans site ni heures. **Zéro.**
+12. **Giberville** (5 077) — « représentations iconographiques et photographiques » réservées (règle 246). **Zéro.**
+
+**Rhône, second département (règle 248)**, descente reprise à Rillieux-la-Pape :
+
+1. **Rillieux-la-Pape** (31 389) — quatre marchés publiés par la Ville (Alagniers mercredi et dimanche, Semailles vendredi, la
+   Roue et Crépieux samedi, 7h30-13h), deux décrits seulement comme « mixtes » et deux « à dominante alimentaire » (règle 197) ;
+   crédits photographiques sous « © » (règle 291). Le point de retrait de la coopérative de paniers déjà publiée à Villeurbanne
+   et à Vénissieux aurait pu faire une troisième fiche de l'enseigne (règles 175 et 334), mais le `robots.txt` de la coopérative
+   exclut désormais `/wp-content/`, où sont toutes ses photographies (règle 238), et la Ville ferme les siennes. Une AMAP tient
+   un blog qui répond 429 à l'agent nommé (règle 237). **Zéro.**
+2. **Décines-Charpieu** (29 877) — marchés publiés par la Ville (grand marché du mardi aux Halles, marché des producteurs du jeudi
+   15h30-19h, vendredi, samedi et dimanche matin), sans famille de produits (règle 197) ; « Photos : […] droits réservés »
+   (règle 246). Au registre biologique, un grossiste en fruits et légumes et des maraîchers inscrits en nom propre. **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).** **Points d'arrêt** : la prochaine passe
+dans le **Calvados** reprend à **Les Monts d'Aunay** (4 777), après la reprise de Souleuvre ; la prochaine passe dans le **Rhône**
+reprend à **Tassin-la-Demi-Lune** (23 200), puis Sainte-Foy-lès-Lyon.
+
+**Contradictions** : aucune nouvelle. À Valdallière, les heures de la brasserie ne viennent que de l'office (vendredi 16h-19h30,
+fiche de 2026) ; un annuaire tiers les donne sans date, et n'a pas été retenu.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche neuve ; à Douvres-la-Délivrande, une enseigne à prénom déjà
+écartée par la règle 259.
+
+**Pistes non publiées (Calvados et Rhône)** — lignes anonymes :
+
+- Honfleur, marchés du samedi, du mercredi (bio), aux poissons et du Plateau : faits de la Ville, images interdites.
+- Honfleur, magasin du réseau Biocoop : aucune liste de producteurs régionaux (règle 86).
+- Livarot-Pays-d'Auge, cidrerie biologique : pas d'heures de vente publiées (règle 192).
+- Livarot-Pays-d'Auge, chèvrerie biologique : heures sur un annuaire fermé et sur l'office seulement, aucune image permise.
+- Valdallière, brasserie biologique : faits entiers, aucune image permise (règle 341) ; désignée comme quatrième point du
+  groupe de Souleuvre dès qu'une image permise existe.
+- Valdallière, ferme maraîchère biologique : pas de vente à la ferme, photographies avec personnes.
+- Blainville-sur-Orne, marché du vendredi : composition non publiée (règle 197), aucune image.
+- Rillieux-la-Pape, quatre marchés : composition non publiée marché par marché, images sous « © ».
+- Rillieux-la-Pape, point de retrait de la coopérative de paniers : images exclues par son `robots.txt` (règle 238).
+- Décines-Charpieu, marché des producteurs du jeudi et marchés de quartier : composition non publiée, images réservées.
 
 ### Passe du 25 septembre 2026 (trente-septième de la nuit) : Calvados et Rhône, aucune publication
 
