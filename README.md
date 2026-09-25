@@ -4299,6 +4299,14 @@ prioritaires en cas de conflit.
      la différence de traitement selon le nom qui fait le filtrage. **Tranché ainsi** : même traitement que la règle 257, site
      non consulté, pas de nouvel essai sous un autre en-tête. **Déblocage** : la même réponse aux deux agents.
 
+350. **Un 429 servi à l'agent nommé dès la première requête, quand l'agent par défaut reçoit 200 sur la même adresse, est un
+     refus par le nom (règles 257 et 349), pas une limite de débit.** Le site d'un verger de Vertou (44) répond « 429 Too Many
+     Requests » à l'agent nommé à la première requête, `robots.txt` compris, et encore après vingt secondes de pause, alors que
+     l'agent par défaut reçoit 200 entre deux essais. La règle 284 fait respecter une limite de débit annoncée ; une limite qui
+     ne frappe qu'un nom, sans aucune requête préalable, n'en est pas une. **Tranché ainsi** : même traitement que les règles
+     257 et 349 — site non consulté, pas de nouvel essai sous un autre en-tête. **Déblocage** : la même réponse aux deux agents
+     sur une première requête.
+
 ## Marchands à confirmer
 
 767 fiches sur 865 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11565,6 +11573,93 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (quarante-septième) : Loiret et Loire-Atlantique, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube, Mayenne et Cher épuisés (règle 265) ; **Loiret (45) 3,6718** ; **Loire-Atlantique (44) 3,6612**. La dernière passe
+publiée visait la Nouvelle-Aquitaine : Centre-Val de Loire et Pays de la Loire ouverts. `origin/main` n'a pas bougé pendant la
+passe (règle 241). Groupe de Labenne : aucune passe autorisée en Nouvelle-Aquitaine, relecture toujours due (règle 266).
+
+**Loiret : reprise, puis douze communes, de Saint-Jean-le-Blanc à Sully-sur-Loire.** Sources : site de chaque Ville, fiches
+de marchés et de producteurs de Tourisme Loiret (ADRT, plan de site de 7 856 adresses), registre de l'Agence Bio (730
+opérateurs du département), registre des entreprises.
+
+0. **Châlette-sur-Loing, reprise** — toujours deux points. La ferme maraîchère de la rue Jean-Lamy, active au registre, ne
+   publie toujours aucune heure d'ouverture (fiche de l'ADRT sans horaires, illustrée de photographies de réseau social) :
+   déblocage non atteint.
+1. **Saint-Jean-le-Blanc** (9 562) — la Ville écrit deux marchés avec leurs heures (samedi 8h30-12h30 place de l'Église,
+   dimanche 8h-13h rue de l'Île-de-Corse) sans famille ni photographie ; l'ADRT ne les fiche pas ; la seule exploitation en
+   vente directe au registre bio est fermée au registre des entreprises. **Zéro.**
+2. **Chécy** (9 083) — Ville fermée à l'agent nommé (444 contre 200) ; marché du samedi 8h-12h30, place Jeanne-d'Arc, fiché par
+   l'ADRT sans famille pour le marché ordinaire et illustré d'une image Pixabay ; le maraîcher bio de l'avenue Nationale est
+   une entreprise individuelle sans enseigne déclarée et sa seule photographie fait 441 px ; la Biocoop de la commune n'a
+   d'horaires que sur `biocoop.fr` (403). Une ferme maraîchère présente au marché porte dans son enseigne le patronyme d'un
+   associé : écartée pour doute sur une personne. **Zéro.**
+3. **Pithiviers** (8 856) — Ville fermée à l'agent nommé (444 contre 200) ; marché du vendredi fiché par l'ADRT sans famille
+   écrite (« l'essentiel alimentaire »). **Zéro.**
+4. **Châteauneuf-sur-Loire** (8 546) — **une fiche entière** : **La Source Bio**, magasin de producteurs bio, 2 boulevard de la
+   République, vendredi 9h-13h et 16h-19h, samedi 9h-13h (horaires datés 2026 par l'ADRT), photographies du magasin publiées
+   pour sa fiche. La Ville ne publie aucune page de marché hebdomadaire et réserve ses œuvres à l'usage privé ; aucun second
+   point. **Zéro zone.**
+5. **Beaugency** (8 024) — trois marchés (mardi, mercredi, samedi) écrits par la Ville et l'office intercommunal sans famille ;
+   la Ville interdit la reproduction des photographies, l'office aussi (« images animées ou non »), l'ADRT illustre le mardi
+   d'une image Pexels. **Zéro.**
+6. **Le Malesherbois** (8 016) — deux exploitations fichées par l'ADRT, sans heures de vente, inscrites sous des noms de
+   personnes ou joignables seulement par une adresse personnelle. **Zéro.**
+7. **Saint-Denis-en-Val** (7 766) — marché du dimanche fiché sans famille, image Pixabay ; producteurs du registre inscrits sous
+   des noms de personnes. **Zéro.**
+8. **La Ferté-Saint-Aubin** (7 284) — marché du jeudi aux familles écrites, mais illustré d'une image Pixabay ; une épicerie bio
+   de réseau, seule. **Zéro.**
+9. **Villemandeur** (7 078) — marché mensuel attesté seulement par des billets de 2022 (règle 195) ; aucun commerce en vente
+   directe au registre bio hors supérette de grande enseigne. **Zéro.**
+10. **Meung-sur-Loire** (6 670) — marché du dimanche 8h-13h, familles écrites par l'ADRT, mais sa photographie vient de l'office
+    intercommunal qui interdit la reprise de ses images ; aucun second point. **Zéro.**
+11. **Saint-Pryvé-Saint-Mesmin** (6 256) — marché du samedi 8h-12h fiché sans aucune famille écrite ; maraîchers du registre
+    inscrits sous des noms de personnes. **Zéro.**
+12. **Sully-sur-Loire** (5 124) — marché du lundi 9h-13h (Ville) daté jusqu'à décembre 2026 par l'ADRT, qui privilégie « les
+    producteurs locaux » sans écrire de famille ; la cueillette de la route d'Orléans n'a plus de site (domaine inexistant) ni
+    d'heures publiées. **Zéro.** La borne de douze communes est servie ; la descente reprendra à **Neuville-aux-Bois** (4 987).
+
+**Loire-Atlantique, second département (règle 248)** — reprise de Rezé, puis Orvault et Vertou.
+
+0. **Rezé, reprise** — toujours deux points (les deux magasins Chlorophylle) ; ni Orvault ni Vertou n'apportent de point
+   illustrable (ci-dessous). Déblocage non atteint.
+1. **Orvault** (28 534) — la Ville écrit trois marchés (bourg : six étals, fromages, huîtres, poissons, fruits et légumes,
+   épicerie fine, charcuterie ; Bout-des-Pavés : une quinzaine de commerçants surtout alimentaires ; Petit-Chantilly, vendredi)
+   et quatre AMAP avec jours et heures (Petit-Chantilly le mercredi 17h30-19h, bourg le jeudi 18h15-19h30…), mais ses mentions
+   légales interdisent toute reproduction « du contenu du site (logo, photos, images, textes) » (règle 231), et les AMAP n'ont
+   pour visuels que leurs pages CAMAP (règle 348 : rien n'en est reproduit). Le magasin L'Eau Vive de la route de Vannes est
+   fermé au registre depuis décembre 2023 (son adresse sur le site de l'enseigne finit d'ailleurs par « orvault-ferme ») ; la
+   Biocoop n'a de page que sur `biocoop.fr` (403). **Zéro.**
+2. **Vertou** (26 227) — Ville fermée à l'agent nommé (403 contre 200) ; le verger de la Foresterie sert un 429 à l'agent nommé
+   dès la première requête et 200 à l'agent par défaut (**règle 350, nouvelle**) ; l'établissement bio de la place
+   Pierre-Défossés est fermé au registre ; le magasin de l'ESAT vend surtout des plants d'horticulture ; le reste du registre
+   est inscrit sous des noms de personnes. **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règles 248 et 267).**
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : dans le Loiret, une ferme maraîchère et un maraîcher à Chécy, deux
+exploitations au Malesherbois, des producteurs à Saint-Denis-en-Val et à Saint-Pryvé-Saint-Mesmin ; en Loire-Atlantique, des
+producteurs à Vertou. Aucun nom n'est écrit.
+
+**Points d'arrêt** : dans le **Loiret**, la reprise prend d'abord les deux marchés de Châlette-sur-Loing, puis la descente à
+**Neuville-aux-Bois** (4 987). En **Loire-Atlantique**, la reprise prend d'abord les deux magasins de Rezé, puis la descente à
+**Couëron** (24 103).
+
+**Pistes non publiées (Loiret et Loire-Atlantique)** — lignes anonymes :
+
+- Châteauneuf-sur-Loire, magasin de producteurs bio : une fiche entière, seule. **Déblocage** : un second point illustrable
+  dans la commune (marché hebdomadaire écrit par la Ville ou l'ADRT avec une photographie permise).
+- Meung-sur-Loire, marché du dimanche : faits entiers, image de l'office intercommunal interdite. **Déblocage** : une
+  photographie du marché publiée sous le crédit de la Ville ou de l'ADRT.
+- Orvault, trois marchés et quatre AMAP : faits entiers, aucune image permise. **Déblocage** : une photographie d'un marché ou
+  d'une distribution publiée par une source qui n'en interdit pas la reprise ; deux points ainsi débloqués compléteraient
+  aussi le groupe de Rezé (moins de quinze kilomètres, même métropole).
 
 ### Passe du 25 septembre 2026 (quarante-sixième de la nuit) : Cher épuisé, Loiret et Loire-Atlantique, aucune publication
 
