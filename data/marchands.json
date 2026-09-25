@@ -22430,5 +22430,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=38%20rue%20du%20Rosoir%2C%2054200%20Lagney",
     "image_url": "/images/marchands/vergers-du-coteau-lagney.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-forville-cannes",
+    "nom": "Marché Forville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.552182,
+    "lon": 7.012205,
+    "adresse": "Rue du Marché Forville et halle provisoire des allées de la Liberté (face au kiosque à musique), 06400 Cannes",
+    "horaires": "Du 16 septembre au 14 juin : du mardi au vendredi de 8h à 12h30, samedi et dimanche de 8h à 13h30 ; du 15 juin au 15 septembre : tous les jours de 8h à 13h30. Mêmes horaires sur les deux sites (page du marché, Ville de Cannes). Le lundi, le lieu accueille une brocante.",
+    "produits": [
+      "Fruits et légumes des maraîchers du bassin cannois",
+      "Poissons de la pêche locale",
+      "Fromages",
+      "Œufs",
+      "Produits de producteurs locaux",
+      "Traiteurs, boucherie et spécialités (stands à vitrine)"
+    ],
+    "description": "Le grand marché couvert de Cannes, au pied du Suquet, où maraîchers et patrons-pêcheurs de la baie vendent leur production. Pendant la rénovation du bâtiment engagée par la Ville, les producteurs sont installés sous la halle provisoire des allées de la Liberté, et les pêcheurs ont retrouvé le carreau du marché depuis le 31 mars 2026. Photo thématique : publiée sans restriction par une épicerie primeur de la rue Macé, à Cannes ; elle ne montre pas ce lieu.",
+    "site_web": "https://www.cannes.com/fr/mairie/annuaire-pratique/equipements-municipaux/marche-provencal-forville.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Forville%2C%2006400%20Cannes",
+    "image_url": "/images/marchands/marche-forville-cannes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-gambetta-cannes",
+    "nom": "Marché Gambetta",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.553254,
+    "lon": 7.022971,
+    "adresse": "Place Gambetta, 06400 Cannes",
+    "horaires": "Marché alimentaire du 16 septembre au 14 juin : du mardi au vendredi de 8h à 12h30, samedi et dimanche de 8h à 13h30 ; du 15 juin au 15 septembre : tous les jours de 8h à 13h30 (Ville de Cannes). Marché aux vêtements du mardi au dimanche matin.",
+    "produits": [
+      "Fruits et légumes",
+      "Fleurs",
+      "Poissons de la pêche locale",
+      "Produits divers"
+    ],
+    "description": "Marché couvert du centre-ville, entre la rue d'Antibes et la gare, qui réunit maraîchers, fleuristes et étals de pêche locale selon la Ville ; des stands de vêtements et de produits divers s'y ajoutent. Photo thématique : publiée sans restriction par une épicerie primeur de la rue Macé, à Cannes ; elle ne montre pas ce lieu.",
+    "site_web": "https://www.cannes.com/fr/mairie/annuaire-pratique/equipements-municipaux/marche-provencal-gambetta.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Gambetta%2C%2006400%20Cannes",
+    "image_url": "/images/marchands/marche-gambetta-cannes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-provencal-la-bocca-cannes",
+    "nom": "Marché provençal de La Bocca",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.550815,
+    "lon": 6.977235,
+    "adresse": "Halle de la place Paul Roubaud, La Bocca, 06150 Cannes",
+    "horaires": "Étals alimentaires du 16 septembre au 14 juin : du mardi au vendredi de 8h à 12h30, samedi et dimanche de 8h à 13h30 ; du 15 juin au 15 septembre : du mardi au dimanche de 8h à 13h30 (Ville de Cannes). Marché non alimentaire le mercredi et le samedi matin.",
+    "produits": [
+      "Fruits et légumes des maraîchers",
+      "Fleurs",
+      "Poissons de la pêche locale",
+      "Produits divers"
+    ],
+    "description": "Le marché du quartier de La Bocca, installé depuis la mi-septembre 2026 sous la nouvelle halle de la place Paul-Roubaud, dans le bâtiment municipal qui accueille aussi le bureau de poste ; la Ville y annonce maraîchers, fleurs et pêche locale. Photo thématique : publiée sans restriction par une épicerie primeur de la rue Macé, à Cannes ; elle ne montre pas ce lieu.",
+    "site_web": "https://www.cannes.com/fr/mairie/annuaire-pratique/equipements-municipaux/marche-provencal-de-la-bocca.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Paul%20Roubaud%2C%2006150%20Cannes",
+    "image_url": "/images/marchands/marche-provencal-la-bocca-cannes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "boutique-caveau-abbaye-de-lerins-cannes",
+    "nom": "Boutique-caveau de l'Abbaye de Lérins",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.506743,
+    "lon": 7.047531,
+    "adresse": "Abbaye de Lérins, île Saint-Honorat, 06150 Cannes",
+    "horaires": "Ouverte de 11h30 à 17h depuis sa réouverture du 18 avril 2026, selon la boutique en ligne de l'abbaye ; les jours d'ouverture et la date de fermeture de fin de saison ne sont pas publiés.",
+    "produits": [
+      "Vins rouges de l'île Saint-Honorat",
+      "Le Silence Rosé",
+      "Le Silence Blanc",
+      "Liqueur Lérina Verte",
+      "Lérincello et liqueurs de plantes",
+      "Huile d'olive, en quantité limitée selon les récoltes"
+    ],
+    "description": "Le caveau des moines cisterciens de l'île Saint-Honorat, près du restaurant La Tonnelle, vend les vins d'un vignoble de 8 hectares, les liqueurs et l'huile d'olive de l'abbaye ; vins et huile d'olive sont certifiés en agriculture biologique par Ecocert depuis 2019 d'après le registre de l'Agence Bio, les liqueurs ne le sont pas. Le point est celui que le registre des entreprises donne à l'abbaye. Photo thématique : publiée sans restriction par une épicerie primeur de la rue Macé, à Cannes ; elle ne montre pas ce lieu.",
+    "telephone": "04 92 99 54 32",
+    "site_web": "https://excellencedelerins.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Abbaye%20de%20L%C3%A9rins%2C%20%C3%AEle%20Saint-Honorat%2C%20Cannes",
+    "image_url": "/images/marchands/boutique-caveau-abbaye-de-lerins-cannes.jpg",
+    "a_confirmer": true
   }
 ]

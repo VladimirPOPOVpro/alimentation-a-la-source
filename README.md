@@ -4105,9 +4105,50 @@ prioritaires en cas de conflit.
      dans sa description ce que dit le registre, et part avec `a_confirmer`. Une seule source pour le lieu, ou une source non
      datée, et la fiche attendrait (règle 192) ; une société sans aucun établissement ouvert reste écartée sans discussion.
 
+331. **Un `venteParticuliers` à faux que l'opérateur contredit lui-même sur son propre site ne ferme pas la fiche, même quand
+     sa seule activité déclarée est la production.** Les Jardins de Castelnau, à Saint-Jean-de-Marsacq, portent au registre de
+     l'Agence Bio un bloc `venteAnnuaire` où seul le gros est à vrai ; leur activité certifiée est la production maraîchère et
+     fruitière. La réserve de la règle 40, que la règle 154 laisse « entière pour un opérateur dont la seule activité déclarée
+     est la production », ferait donc du drapeau un motif d'écarter, puisque la commune publie des heures d'ouverture libres.
+     Mais la règle 40 arbitrait entre le registre et un office de tourisme, deux tiers ; ici le producteur écrit lui-même, sur son
+     site vivant, qu'on peut « acheter des produits sur place », qu'il tient un distributeur sept jours sur sept à la ferme et
+     des étals aux halles de Capbreton. **Tranché ainsi** : le drapeau est une case cochée d'un formulaire de certification, le
+     site est la déclaration courante de l'opérateur au public ; quand l'opérateur annonce lui-même une vente au particulier, sa
+     déclaration l'emporte, le drapeau se consigne et la fiche garde `a_confirmer`. Sans déclaration de l'opérateur, la réserve
+     de la règle 40 reste entière. Les passes landaises précédentes avaient compté cette fiche entière sans relever le drapeau :
+     la règle le fait maintenant explicitement.
+
+332. **Une photographie thématique prise chez un autre commerce ne doit montrer ni l'enseigne ni les produits de marque d'un
+     tiers quand elle illustre un producteur.** À Cannes, l'épicerie qui a fourni les photographies thématiques de la passe
+     (règle 312) publie aussi un linéaire de vins et de champagnes aux étiquettes lisibles. Placé sur la fiche du caveau de
+     l'Abbaye de Lérins, il aurait montré les bouteilles d'autres domaines sur la fiche d'un domaine qui vend les siennes : la
+     description aurait beau dire que l'image ne montre pas le lieu, l'image elle-même aurait affirmé le contraire. **Tranché
+     ainsi** : pour la fiche d'un producteur, la photographie thématique montre une matière première ou un paysage, jamais un
+     rayon, une étiquette ou une marque ; pour un marché, un étal de fruits ou de légumes sans marque suffit. Ici le caveau
+     reçoit des figues, et le linéaire de vins n'est repris nulle part.
+
 ## Marchands à confirmer
 
-750 fiches sur 843 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+754 fiches sur 847 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Forville** (Cannes) (commune calculée des Alpes-Maritimes, première des quatre fiches de la règle 316 ; `marche`,
+  piliers des marchés déjà publiés. **Faits** : fiche « Marché provençal Forville » de la Ville (horaires par saison, deux sites
+  pendant les travaux) et page « Marchés provençaux et brocantes » (maraîchers, patrons-pêcheurs, fromages, œufs) ; actualité
+  de la Ville du 13 avril 2026 pour le retour des pêcheurs sur le carreau. **Point** : la Base connaît la voie « Marché
+  Forville » (0,71) ; les allées de la Liberté, où se tient la halle provisoire, ne rendent rien (règle 10). **Image, règle
+  312** : tomates publiées par l'épicerie La Corbeille, rue Macé, site sans mentions ni clause, `robots.txt` ouvert.)
+- **Marché Gambetta** (Cannes) (`marche`. **Faits** : fiche de la Ville (horaires par saison ; fruits et légumes, fleurs, pêche
+  locale). **Point** : place Gambetta, 0,965. **Image, règle 312** : courgettes jaunes de La Corbeille, fichier distinct.)
+- **Marché provençal de La Bocca** (Cannes) (`marche`. **Faits** : fiche de la Ville (horaires alimentaires et non alimentaires)
+  et *Cannes Soleil* n° 273, septembre 2026, pour l'ouverture de la nouvelle halle à la mi-septembre. **Point** : place Paul
+  Roubaud, 0,724 ; la Base écrit 06400 là où la Ville écrit 06150, c'est le code de la Ville qui figure. **Image, règle 312** :
+  poireaux de La Corbeille, fichier distinct.)
+- **Boutique-caveau de l'Abbaye de Lérins** (Cannes, île Saint-Honorat) (`producteur`, piliers `alimentation` (huile d'olive,
+  règle 14), `environnement` (Ecocert depuis 2019 pour vins et huile, pas pour les liqueurs, règle 39), `economie`. **Registre,
+  règle 6** : société active, un établissement ouvert à l'abbaye. **Faits** : article « La boutique le caveau de l'abbaye de
+  Lérins » du 19 avril 2026 sur `excellencedelerins.com`, boutique de l'abbaye, `robots.txt` ouvert ; `abbayedelerins.com`
+  exclut GPTBot et CCBot et n'a pas été consulté (règles 145 et 149). Jours d'ouverture et fin de saison non publiés. **Point,
+  règle 10** : la Base ne connaît pas l'île ; coordonnées que le registre des entreprises donne à l'établissement. **Image** :
+  les mentions légales de la boutique nomment les photographies (règle 231) ; figues de La Corbeille (règles 312 et 332).)
 - **Magasin du Verger expérimental d'Alsace (Verexal)** (Obernai) (`ferme` au titre de la règle 29 : immatriculation agricole
   active (association, 01.61Z) à l'adresse, fruits des vergers d'essai vendus sur place, et la description dit ce qui est revendu ;
   piliers `alimentation`, `economie`, aucune certification au registre de l'Agence Bio. **Faits** : page « Notre magasin » du site
@@ -11271,6 +11312,94 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trentième de la nuit) : Cannes (Alpes-Maritimes), quatre fiches dans la commune
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images
+déposées.** **Classement, règle 41**, sur 843 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, règle 224),
+outre-mer écarté (règle 177) : Oise 6,1461, Val-d'Oise 5,6691, Landes 5,3007, Eure-et-Loir 5,2953 et Lot-et-Garonne 4,0785
+(épuisés, règle 265), **Loir-et-Cher (41) 4,0167**, **Alpes-Maritimes (06) 3,7957**, Aube 3,7954. La dernière passe publiée
+visait le Grand Est : l'Aube est fermée, Centre-Val de Loire, Provence-Alpes-Côte d'Azur et Nouvelle-Aquitaine sont ouvertes
+(règle 41.c). `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règle 322).** Le site de la Ville de Seignosse a servi sa page d'accueil et son
+`robots.txt` aux deux agents, puis n'a plus ouvert aucune connexion de toute la passe (une quinzaine de requêtes sur une heure, les deux
+agents ; le navigateur intégré n'a pas pu l'ouvrir non plus) : règle 297, le marché de Seignosse n'est pas relu. Trois points
+se relisent entièrement : le **marché de terroir de Labenne** (page « Marchés » de la Ville du 7 juillet 2026, inchangée), l'**AMAP
+de Labenne** (association active au registre ; distribution du jeudi 18h-19h sur son site ; images de 2019 et 2022 retenues) et
+**Les Jardins de Castelnau** (SARL active, Ecocert depuis 1999 ; heures du magasin sur la page de la commune ; l'image de l'abri
+du distributeur est servie par `saintjeandemarsacq.fr/images/…`, le préfixe `/SJDMNEW/` du sous-domaine mort n'existant plus sur
+le domaine de la commune, règle 324). **Règle 331 (nouvelle)** : le `venteParticuliers` à faux de ce producteur est contredit
+par son propre site. Quatrième point cherché dans Maremne Adour Côte Sud à moins de 15 km du centre de Labenne : un domaine
+viticole de Capbreton sert l'agent par défaut et coupe la connexion à l'agent nommé (règle 257) ; la brasserie biologique de
+Labenne n'a pas de site joignable ; le site de la Ville de Capbreton n'ouvre toujours aucune connexion ; les magasins et
+préparateurs du registre biologique sont des supermarchés, des grossistes ou des entreprises inscrites sous un nom de personne.
+**Trois points, pas quatre** : le groupe ne se publie pas (règles 258 et 322). **Déblocage** inchangé : le retour durable du
+site de Seignosse.
+
+**Loir-et-Cher : cinq communes, épuisé (règle 265).** Descente reprise à Valencisse :
+
+- **Valencisse** (2 324) : annuaire communal des commerces sans marché ni vente à la ferme ; au registre biologique, une
+  exploitation d'herbes aromatiques sans site ni heures. **Zéro.**
+- **Huisseau-sur-Cosson** (2 290) : un marché du mercredi après-midi place des commerces, trois étals nommés, sur une page qui
+  évoque encore des restrictions sanitaires (aucune date) ; pas d'image ; pas de second point. **Zéro.**
+- **Nouan-le-Fuzelier** (2 272) : la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) ; non consultée.
+  **Zéro.**
+- **Gièvres** (2 268) : annuaire de la Ville sans marché ; les producteurs n'y sont présentés que sous des noms de personnes.
+  **Zéro.**
+- **Pruniers-en-Sologne** (2 245) : page « Marché » vide ; au registre biologique, un supermarché et des exploitations sans
+  site ni heures. **Zéro.**
+
+La commune suivante, **Savigny-sur-Braye**, compte 1 962 habitants : **le Loir-et-Cher est épuisé** et cède le reste de la
+borne, sept communes, aux Alpes-Maritimes (règle 267). Le Domaine des Huards (Cour-Cheverny) et les cinq marchés aux faits
+entiers de la passe précédente restent en pistes.
+
+**Alpes-Maritimes : Cannes, première commune, fait la passe.** Commune la plus peuplée du 06 sans fiche (74 350 habitants,
+Communauté d'agglomération Cannes Pays de Lérins). La Ville (`cannes.com`) sert ses pages aux deux agents, `robots.txt` sans
+exclusion ; ses mentions légales rangent les « photographies » dans le contenu dont toute reproduction est interdite sauf
+autorisation (règle 231). L'office de tourisme (`cannes-france.com`) répond 403 à l'agent nommé (règle 257) : non consulté.
+Faits des marchés : fiches « Équipements municipaux » de la Ville, qui donnent adresse et horaires par saison, et page
+« Marchés provençaux et brocantes », qui nomme les familles de chaque marché. **Images, règle 312** : l'épicerie primeur La
+Corbeille (17 rue Macé ; société active au registre) publie sur son propre domaine des photographies de fruits et légumes, sans
+mentions légales ni clause, `robots.txt` ouvert ; quatre fichiers distincts, sans personne, recadrés et réencodés sans
+métadonnées (règle 235). **Règle 332 (nouvelle)** pour le choix de l'image du caveau.
+
+- **Marché Forville**, **Marché Gambetta**, **Marché provençal de La Bocca** : faits de la Ville, entiers (voir la liste « à
+  confirmer »).
+- **Boutique-caveau de l'Abbaye de Lérins** : faits de la boutique de l'abbaye (article daté du 19 avril 2026), registre et
+  certification vérifiés, point du registre des entreprises (règle 10).
+
+Quatre fiches entières dans la commune. **Pas de cinquième point** (règles 52 et 316, barycentre 43,5407 / 7,0150) :
+
+- le **marché de la place Saint-Jin-Jin** (mardi et vendredi matin, maraîchers, selon la Ville) : la Base ne connaît que la rue
+  Saint-Jin-Jin, ni la Ville ni un office ouvert ne publient de point pour la place (règle 166). **Déblocage** : un point publié
+  par la Ville, ou la place dans la Base.
+- un magasin de producteurs de Mandelieu-la-Napoule (vente de fruits et légumes de l'exploitation, heures publiées) : enseigne
+  faite d'un nom de famille ; écarté pour doute sur une personne (règle 259).
+- un service de paniers du Cannet : livraison et points relais, aucun point de vente ouvert au public.
+- le site `marcheforville.com` n'est ni celui de la Ville ni celui d'un commerce identifié, sans mentions légales, et ses heures
+  contredisent celles de la Ville : il n'a servi à rien (règle 56).
+
+**Après la passe**, sur 847 fiches : Oise 6,1943, Val-d'Oise 5,7435, Landes 5,3259, Eure-et-Loir 5,3204, Lot-et-Garonne 4,0979
+et Loir-et-Cher 4,0357 (épuisés), Aube 3,8135, Ille-et-Vilaine 3,7660, Vendée 3,7658 ; Alpes-Maritimes −0,1388. La dernière
+passe publiée vise Provence-Alpes-Côte d'Azur : la suivante peut prendre l'Aube.
+
+**Contradictions** : aucune nouvelle sur une fiche publiée. La Base écrit 06400 pour la place Paul-Roubaud, la Ville 06150 ;
+c'est la Ville qui figure.
+
+**Pistes non publiées (Cannes et groupe de Labenne)** — lignes anonymes :
+
+- Cannes, marché de la place Saint-Jin-Jin : point introuvable (règle 166).
+- Mandelieu-la-Napoule, magasin de producteurs : enseigne patronymique ; écarté pour doute sur une personne, ne se rouvre pas.
+- Labenne, brasserie biologique : site injoignable ; enseigne qui pourrait être un prénom, à écarter pour doute sur une personne
+  si elle revient.
+- Capbreton, domaine viticole : refus de l'agent nommé (règle 257).
+
+**Fiches écartées pour doute sur une personne** : une à Mandelieu-la-Napoule ; une piste à Labenne ; dans le Loir-et-Cher, des
+producteurs présentés sous des noms de personnes (Gièvres, Valencisse, Huisseau-sur-Cosson). **Données personnelles
+écartées** : noms de directeurs de publication et de photographes lus dans les mentions de la Ville de Cannes, prénom d'un
+exploitant lu sur le site d'un producteur landais, noms d'exploitants de la page « Producteurs » de Saint-Jean-de-Marsacq,
+portables. Rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (vingt-neuvième de la nuit) : Toul (Meurthe-et-Moselle), quatre fiches dans Terres Touloises
 
