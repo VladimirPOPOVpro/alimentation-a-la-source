@@ -4050,6 +4050,21 @@ prioritaires en cas de conflit.
      libre contre la déclaration de l'exploitant (règles 104 et 126). La fiche ne se publie pas, ne se rouvre pas, et le groupe
      de Marmande redescend à trois points.
 
+326. **Un site boutique qu'exploite une société dont le propre domaine interdit le robot par son nom tombe sous la même
+     exclusion, même quand son `robots.txt` à lui n'en dit rien.** À Lapalisse, la boutique d'une huilerie tient un site distinct
+     (horaires, gammes, photographies) dont le `robots.txt` n'exclut personne ; la société qui l'exploite — la boutique n'a pas
+     d'immatriculation propre, le registre ne connaît que l'huilerie — interdit `ClaudeBot`, `GPTBot` et `CCBot` sur son domaine
+     principal. La règle 77 parle d'un éditeur qui nomme le robot et fait s'abstenir « du site entier ». **Tranché ainsi** :
+     l'exclusion suit l'éditeur, pas le nom de domaine ; quand le registre montre que les deux sites relèvent de la même
+     société, aucun des deux n'est une source. La boutique n'est pas instruite, et la commune ne rend pas de second point par
+     elle. **Déblocage** : le retrait de l'exclusion, ou les mêmes faits publiés par une autre autorité.
+
+327. **Un domaine de commune se vérifie au département avant d'être lu.** Pour Vineuil (41), `vineuil.fr` répond, porte le
+     titre d'un site de mairie et une page « Commerces et artisans » ; ses mentions légales donnent un siège au code postal
+     36110 : c'est Vineuil, dans l'Indre. Le site de la commune du Loir-et-Cher est `vineuil41.fr`. **Tranché ainsi** : avant
+     toute lecture, le code postal des mentions légales ou du pied de page doit être celui de la commune calculée ; un homonyme
+     ne compte ni comme source ni comme commune muette.
+
 ## Marchands à confirmer
 
 744 fiches sur 835 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11216,6 +11231,87 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-sixième de la nuit) : Allier et Loir-et-Cher, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée, aucune image
+déposée.** **Classement, règle 41**, sur 835 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants,
+règle 224), outre-mer écarté (règle 177) : Oise 6,0498, Val-d'Oise 5,5204, Landes 5,2504, Eure-et-Loir 5,2451 et Lot-et-Garonne
+4,0398 (épuisés, règle 265), **Allier (03) 4,0361**, **Loir-et-Cher (41) 3,9786**. La dernière passe publiée visait le Grand
+Est : Auvergne-Rhône-Alpes et Centre-Val de Loire sont ouvertes (règle 41.c) ; la Meurthe-et-Moselle (3,8672) ne l'est pas.
+
+**Contrôles de tête.** Le site de la Ville de Seignosse n'ouvre toujours aucune connexion (deux requêtes, les deux agents) : le
+groupe de Labenne reste à trois points (règle 322). Moulins, à réessayer en tête : `moulins.fr` répond 436 à l'agent par défaut et
+403 à l'agent nommé — refus de tout agent automatique, commune muette (règle 237), hors borne (règle 290). Les fiches désignées
+de Vichy (Grand Marché couvert, Supérette Paysanne) restent en pistes : aucune commune de Vichy Communauté n'a rempli la règle 127
+dans cette passe, et Vichy ne se rouvre pas (règle 258).
+
+**Allier : douze communes (règle 247), aucune zone.**
+
+- **Domérat** (8 622) : aucune page de marché ; au registre biologique, des supermarchés, un grossiste et une exploitation inscrite
+  sous le nom de son exploitant. Aucune fiche.
+- **Commentry** (6 017) : marché hebdomadaire du vendredi attesté par des arrêtés, mais la rubrique « Le marché hebdomadaire » de
+  la Ville est vide et le règlement est un scan sans heure ni famille de produits (règle 197). Aucune fiche.
+- **Gannat** (5 610) : la Ville publie le marché du mercredi (place Pasteur, 8h-12h) et celui du samedi (marché couvert, 8h-12h),
+  sous une seule phrase générique pour les deux (règle 197) et sans aucune photographie ; l'office du Val de Sioule et le comité
+  départemental (`allier-auvergne-tourisme.com`) répondent 403 à l'agent nommé et 200 aux autres (règle 257), non consultés.
+  Aucune fiche.
+- **Saint-Pourçain-sur-Sioule** (4 884) : **faits entiers, images fermées** pour le **marché du samedi** (7h-13h, place
+  Georges-Clemenceau, rue de Metz, rue d'Alsace-Lorraine, place Maréchal-Foch ; fruits, légumes, poissons, boucherie,
+  rôtisserie, vins ; Halle Gourmande rénovée de 2023 à 2025 ; page mise à jour le 2 avril 2026) — mais les mentions légales de
+  la Ville écrivent que ses photographies « ne peuvent faire l'objet d'une quelconque reproduction ». La cave de l'Union des
+  Vignerons (3 rue de la Ronde) a ses horaires sur le site de la Communauté de communes Saint-Pourçain Sioule Limagne ; son propre
+  site range les « photographies, images » dans son interdiction, et l'intercommunalité subordonne toute reproduction de ses
+  photographies à son accord. Un maraîcher bio de la route de Briailles ne publie qu'un portable et une messagerie personnelle
+  sous le nom de l'exploitant (règles 311 et 325). **Zéro fiche entière.**
+- **Désertines** (4 259) : `desertines.fr` encadre `mairie-desertines.fr`, qui n'ouvre aucune connexion ; commune muette, hors
+  borne (règles 237 et 290), à réessayer en tête.
+- **Avermes** (4 074) : **une fiche possible**, le **marché du samedi** sous la halle du parc de la mairie (9h-13h ; boucherie
+  charcuterie, fromages de chèvre et de vache, œufs, confitures, plats préparés, primeur, miel et pain d'épices, légumes et
+  plants, selon la liste d'étals de la Ville, qui nomme chaque commerçant : aucun nom n'est repris). Les mentions légales créditent
+  un photographe et une banque d'images sans dire lesquelles sont lesquelles (règles 70 et 306) : l'image reste à établir. Aucun
+  second point dans la commune. Pas de zone.
+- **Saint-Germain-des-Fossés** (3 579 ; site `ville-saint-germain.com`) : aucune page de marché ni de producteur. Aucune fiche.
+- **Varennes-sur-Allier** (3 549) : marché couvert et marchés de producteurs de pays mentionnés dans des décisions, sans page de
+  marché hebdomadaire. Aucune fiche.
+- **Creuzier-le-Vieux** (3 205 ; site `creuzier-le-vieux.com`) : les marchés de producteurs de la place des Guinards ne sont
+  annoncés que pour 2017 et 2018 (règle 195). Aucune fiche.
+- **Lapalisse** (3 138) : **une fiche possible**, le **marché du jeudi** (7h-13h, place Général-Leclerc, « alimentation,
+  vêtements, horticulture », une cinquantaine d'exposants, selon la Ville ; image non éprouvée). La boutique de l'huilerie,
+  seul second candidat, n'est pas instruite (**règle 326, nouvelle**). Pas de zone.
+- **Dompierre-sur-Besbre** (2 959) : les fiches de l'annuaire communal sont vides ; aucune page de marché. Le magasin de
+  l'abbaye de Sept-Fons (registre biologique) serait au mieux une fiche seule. Aucune zone.
+- **Abrest** (2 915) : trois commerces à fiche vide dans l'annuaire communal ; l'un est une supérette de franchise, un autre une
+  pépinière de plantes vivaces (hors sujet), le troisième une serre sans aucune information. Aucune fiche.
+- **Saint-Yorre** (2 641 ; douzième, Désertines ne comptant pas) : `ville-saint-yorre.fr` répond 200 à l'agent par défaut et 403 à
+  l'agent nommé (règle 257), non consulté.
+
+Point d'arrêt : **Saint-Yorre** ; la prochaine passe dans le 03 réessaie Moulins et Désertines, reprend à **Prémilhat** (2 540).
+Après Cosne-d'Allier (2 006), la commune suivante, Le Vernet, compte 1 919 habitants : il reste sept communes avant que l'Allier
+ne soit épuisé (règle 265).
+
+**Loir-et-Cher : les deux communes de la règle 248, aucune zone.**
+
+- **Vendôme** (15 758 ; site `vendome.eu`, `vendome.fr` étant une boutique sans rapport) : la Ville n'a aucune page de marché
+  dans ses 8 716 adresses et interdit la reproduction de ses « images » ; l'office de tourisme répond 403 à l'agent nommé (règle
+  257). Au registre biologique, un magasin Biocoop (rue Albert-Thomas, horaires sur `vendome.biocoop.net`) : une fiche au mieux.
+  Aucune zone.
+- **Vineuil** (8 064 ; site `vineuil41.fr`, **règle 327, nouvelle** — `vineuil.fr` est la commune homonyme de l'Indre) : l'AMAP
+  Les Paniers Vinoliens distribue le mercredi de 18h à 19h salle Tri'Postale selon son site, qui ne porte aucune date, et la page
+  communale (31 mars 2025) ne donne ni jour ni heure (règle 195). Aucune fiche entière.
+
+La prochaine passe dans le 41 reprend à **Le Controis-en-Sologne** (6 860).
+
+**Après la passe**, rien n'étant publié, le classement ne change pas : Allier 4,0361, Loir-et-Cher 3,9786. La dernière passe
+publiée visait le Grand Est.
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : un maraîcher de Saint-Pourçain-sur-Sioule (règles 311 et 325) ; au registre
+biologique, des exploitations inscrites sous le nom de leur exploitant (Domérat, Commentry, Gannat, Lapalisse, Abrest, Vendôme,
+Vineuil). **Données personnelles écartées** : noms de commerçants de la liste d'étals d'Avermes, d'élus, de directeurs de
+publication, d'un photographe crédité et d'un responsable d'association ; portables et messageries personnelles. Rien n'en figure
+ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (vingt-cinquième de la nuit) : Landes, Lot-et-Garonne, Allier et Loir-et-Cher, aucune publication
 
