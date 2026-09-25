@@ -22535,5 +22535,142 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Abbaye%20de%20L%C3%A9rins%2C%20%C3%AEle%20Saint-Honorat%2C%20Cannes",
     "image_url": "/images/marchands/boutique-caveau-abbaye-de-lerins-cannes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-scarabee-bruz",
+    "nom": "Biocoop Scarabée Bruz",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.030247,
+    "lon": -1.758979,
+    "adresse": "5-7 rue de Gavrinis, ZAC du Vert Buisson, 35170 Bruz",
+    "horaires": "Du lundi au vendredi de 9h30 à 19h30, le samedi de 9h30 à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes de saison de fermes locales",
+      "Fromages locaux",
+      "Charcuterie et volaille bio",
+      "Épicerie sucrée et salée",
+      "Produits frais",
+      "Hygiène et entretien"
+    ],
+    "description": "Magasin de la coopérative rennaise Scarabée, société coopérative d'intérêt collectif, dans la ZAC du Vert Buisson, desservi par l'arrêt Bruz Gare. La coopérative publie la liste de ses producteurs locaux et reprend bouteilles et bocaux consignés. Le registre de l'Agence Bio inscrit ce magasin en agriculture biologique auprès de Bureau Veritas depuis juillet 2016.",
+    "telephone": "02 57 87 15 32",
+    "site_web": "https://scarabee-biocoop.coop/magasin-bio/biocoop-scarabee-bruz/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Scarab%C3%A9e%20Bruz%20rue%20de%20Gavrinis",
+    "image_url": "/images/marchands/biocoop-scarabee-bruz.jpg"
+  },
+  {
+    "slug": "marche-du-vendredi-bruz",
+    "nom": "Marché du vendredi de Bruz",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.024178,
+    "lon": -1.745168,
+    "adresse": "Halle Pagnol, place Marcel Pagnol, 35170 Bruz",
+    "horaires": "Le vendredi de 8h à 13h. Pendant les travaux de l'hôtel de ville, le marché s'étend aussi avenue du Général-de-Gaulle, entre l'esplanade du Grand Logis et la pharmacie du centre-ville.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Fruits de mer",
+      "Fromages",
+      "Pains et pâtisseries",
+      "Légumes bio d'une ferme de Bruz"
+    ],
+    "description": "Le grand marché hebdomadaire de Bruz, tenu depuis 1960 dans le centre-ville et sous la halle Pagnol : environ 130 commerçants permanents, alimentaires pour l'essentiel, auxquels s'ajoutent vêtements, fleurs et mercerie. Une ferme maraîchère biologique de la commune y tient son étal. Le point est celui de la place Marcel-Pagnol dans la Base Adresse Nationale. Photo : l'étal de cette ferme sous la halle, publiée par elle.",
+    "site_web": "https://www.ville-bruz.fr/mon-quotidien/vie-economique/les-marches-a-bruz/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Marcel%20Pagnol%2C%2035170%20Bruz",
+    "image_url": "/images/marchands/marche-du-vendredi-bruz.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-gamins-du-marais-bruz",
+    "nom": "Les Gamins du Marais",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.012545,
+    "lon": -1.725302,
+    "adresse": "124 la Vigne, 35170 Bruz",
+    "horaires": "Vente à la ferme le mercredi de 16h à 19h ; retrait des paniers commandés le vendredi de 17h à 19h. Aussi au marché de Bruz le vendredi de 8h à 12h30. Espèces et chèques uniquement.",
+    "produits": [
+      "Tomates",
+      "Aubergines",
+      "Courgettes",
+      "Carottes",
+      "Poivrons",
+      "Pommes de terre",
+      "Ail et oignons",
+      "Fenouil"
+    ],
+    "description": "Ferme maraîchère créée en mai 2025 au lieu-dit la Vigne, qui vend ses légumes de saison à la ferme, au marché du vendredi de Bruz et en paniers. Le registre de l'Agence Bio l'inscrit en agriculture biologique auprès de Bureau Veritas depuis mai 2025. Photo : une serre de la ferme, publiée par elle.",
+    "site_web": "https://lesgaminsdumarais.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=124%20la%20Vigne%2C%2035170%20Bruz",
+    "image_url": "/images/marchands/les-gamins-du-marais-bruz.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-scarabee-vern-sur-seiche",
+    "nom": "Biocoop Scarabée Vern-sur-Seiche",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.063132,
+    "lon": -1.626559,
+    "adresse": "6 rue de la Blanche Hermine, centre commercial du Val d'Orson, 35770 Vern-sur-Seiche",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30. Boucherie : lundi 9h30-13h30 et 15h30-19h30, mardi et mercredi 9h30-13h30, jeudi à samedi 9h30-19h30.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromage à la coupe",
+      "Boucherie bio",
+      "Vrac",
+      "Épicerie",
+      "Hygiène et entretien"
+    ],
+    "description": "Magasin de 550 m² de la coopérative rennaise Scarabée, dans la zone commerciale du Val d'Orson, avec une priorité donnée aux produits locaux et au vrac, et une boucherie. La coopérative publie la liste de ses producteurs locaux. Le registre de l'Agence Bio inscrit ce magasin en agriculture biologique auprès de Bureau Veritas depuis juillet 2018.",
+    "telephone": "02 99 86 02 93",
+    "site_web": "https://scarabee-biocoop.coop/magasin-bio/biocoop-scarabee-vern-sur-seiche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Scarab%C3%A9e%20Vern-sur-Seiche",
+    "image_url": "/images/marchands/biocoop-scarabee-vern-sur-seiche.jpg"
+  },
+  {
+    "slug": "biocoop-scarabee-rennes-cleunay",
+    "nom": "Biocoop Scarabée Rennes Cleunay",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.102233,
+    "lon": -1.713248,
+    "adresse": "132 rue Eugène Pottier, 35000 Rennes",
+    "horaires": "Du lundi au vendredi de 9h30 à 19h30, le samedi de 9h30 à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes locaux",
+      "Boucherie bio",
+      "Fromages affinés",
+      "Pain paysan",
+      "Vrac",
+      "Cave de vins bio"
+    ],
+    "description": "Magasin de 600 m² de la coopérative rennaise Scarabée, ouvert en 2008 près de la clinique de la Sagesse et à deux pas du métro Cleunay, avec boucherie, rayon vrac et cave. La coopérative publie la liste de ses producteurs locaux. Le registre de l'Agence Bio inscrit ce magasin en agriculture biologique auprès de Bureau Veritas depuis juillet 2009.",
+    "telephone": "02 99 67 38 63",
+    "site_web": "https://scarabee-biocoop.coop/magasin-bio/biocoop-scarabee-rennes-cleunay/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Scarab%C3%A9e%20Cleunay%20132%20rue%20Eug%C3%A8ne%20Pottier%20Rennes",
+    "image_url": "/images/marchands/biocoop-scarabee-rennes-cleunay.jpg"
   }
 ]

@@ -4127,9 +4127,43 @@ prioritaires en cas de conflit.
      rayon, une étiquette ou une marque ; pour un marché, un étal de fruits ou de légumes sans marque suffit. Ici le caveau
      reçoit des figues, et le linéaire de vins n'est repris nulle part.
 
+333. **La clause de la plateforme de drives fermiers qui interdit « toutes requêtes automatisées ou semi automatisées des
+     données publiées » vaut opposition à la fouille de données (règle 314).** Dans l'Aube, le même prestataire héberge le
+     magasin de producteurs de Saint-Parres-aux-Tertres, le drive fermier départemental, la plateforme « Manger local » du
+     Département et le site de paniers d'un jardin d'insertion de Romilly-sur-Seine ; leurs mentions légales, identiques,
+     rangent les photographies dans ce qui est protégé puis interdisent en toutes lettres les requêtes automatisées. La règle
+     314 visait une opposition à la fouille « notamment pour l'intelligence artificielle » ; celle-ci ne nomme pas l'IA, mais
+     elle vise exactement ce que fait une passe. **Tranché ainsi** : le site n'est une source ni pour les faits, ni pour
+     l'image, ni pour vérifier un horaire, et `site_web` n'est pas inscrit ; la fiche ne se publie que si une autre autorité
+     porte les mêmes faits. Un site servi par la même plateforme dont les mentions légales sont **vides ou autres** se lit pour
+     lui-même : c'est la clause qui ferme, pas le prestataire. À Troyes, le magasin de producteurs du boulevard
+     Georges-Pompidou, sur la même plateforme, n'a pas cette clause mais réserve ses photographies à l'usage privé (règle 246).
+
+334. **Une même enseigne ne prend pas plus de trois des cinq fiches d'une passe.** La passe de Rennes avait gardé les cinq
+     magasins de la coopérative Scarabée « pour un passage ultérieur, un ou deux à la fois », pour ne pas donner de la ville
+     une image de chaîne. À Bruz, le groupe de la règle 96 compte deux fiches entières dans la commune (le magasin Scarabée,
+     la ferme des Gamins du Marais), le marché du vendredi, et deux autres magasins de la coopérative dans Rennes Métropole ;
+     aucun autre point illustrable n'existe à moins de quinze kilomètres (magasins de producteurs sans site propre, fermes
+     sans heures de vente publiées, marchés de Bruz sans image permise). **Tranché ainsi** : une enseigne peut compléter une
+     zone jusqu'à trois fiches sur cinq, jamais au-delà, et au plus deux de ses magasins rennais par passe, comme la passe de Rennes
+     l'avait voulu ; si la règle empêche d'atteindre quatre points, la règle 258 s'applique. Ici : Scarabée Bruz, Scarabée
+     Vern-sur-Seiche et Scarabée Rennes Cleunay ; Jacques-Cartier, Papu, Paris-Metz et Vasselot attendent toujours leur tour.
+
 ## Marchands à confirmer
 
-754 fiches sur 847 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+756 fiches sur 852 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du vendredi de Bruz** (Bruz) (commune de la règle 248 en Ille-et-Vilaine ; `marche`, piliers des marchés déjà
+  publiés. **Faits** : page « Les marchés à Bruz » de la Ville, modifiée le 21 septembre 2026 (vendredi 8h-13h, centre-ville et
+  halle Pagnol ; fruits et légumes, viandes, fruits de mer, fromages, pains, pâtisseries ; extension avenue du Général-de-Gaulle
+  pendant les travaux de l'hôtel de ville, règle 157). **Point** : la Base ne connaît pas la halle ; place Marcel-Pagnol
+  (0,50, voie), à 600 m du point de l'avenue, d'où `a_confirmer`. **Image, règle 286** : étal de la ferme des Gamins du Marais
+  sous la halle, publié par la ferme (site sans mentions légales, `robots.txt` ouvert), recadré sous les visages.)
+- **Les Gamins du Marais** (Bruz) (`ferme`. **Faits** : site de la ferme (vente le mercredi 16h-19h, paniers le vendredi
+  17h-19h, marché du vendredi 8h-12h30, liste de légumes). **Règle 6** : GAEC actif, siège à la Vigne, créé en mai 2025.
+  **Pilier `environnement`** : Bureau Veritas, `ENGAGEE` depuis le 31 mai 2025. Pas de téléphone publié. **Point** : 124 la
+  Vigne à la Base (0,958), à 110 m du point de l'Agence Bio. **Image, règle 59** : l'autre photographie de la ferme est
+  recadrée sur la serre pour écarter deux personnes ; elle fait **600 px**, le plancher — la vue de l'étal va au marché
+  (règle 191), et aucune photographie thématique permise de Bruz ne la remplace.)
 - **Marché Forville** (Cannes) (commune calculée des Alpes-Maritimes, première des quatre fiches de la règle 316 ; `marche`,
   piliers des marchés déjà publiés. **Faits** : fiche « Marché provençal Forville » de la Ville (horaires par saison, deux sites
   pendant les travaux) et page « Marchés provençaux et brocantes » (maraîchers, patrons-pêcheurs, fromages, œufs) ; actualité
@@ -11312,6 +11346,105 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente et unième de la nuit) : Bruz (Ille-et-Vilaine), cinq fiches dans Rennes Métropole, après douze communes de l'Aube
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images
+déposées.** **Classement, règle 41**, sur 847 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, règle 224), outre-mer
+écarté (règle 177) : Oise 6,1943, Val-d'Oise 5,7435, Landes 5,3259, Eure-et-Loir 5,3204, Lot-et-Garonne 4,0979 et Loir-et-Cher
+4,0357 (épuisés, règle 265), **Aube (10) 3,8135**, **Ille-et-Vilaine (35) 3,7660**, Vendée 3,7658. La dernière passe publiée
+visait Provence-Alpes-Côte d'Azur : Grand Est et Bretagne sont ouverts (règle 41.c). `origin/main` n'a pas bougé (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règle 322).** Le site de la Ville de Seignosse n'a ouvert aucune connexion, à
+l'agent par défaut comme à l'agent nommé, au début puis à la fin de la passe (règle 297). Le groupe reste à trois points ; il
+ne se publie pas. **Déblocage** inchangé.
+
+**Aube : douze communes, aucune zone (règle 247).** Toutes dans Troyes Champagne Métropole sauf Romilly-sur-Seine,
+Nogent-sur-Seine et Bar-sur-Aube. Sources communes : l'office de tourisme `troyeslachampagne.com` (ouvert aux deux agents, mais
+ses mentions légales nomment les images puis interdisent la reproduction du site, règle 246 : faits seulement), l'agence
+départementale `aube-champagne.com` (copie réservée à la préparation d'un séjour, règle 246), la plateforme « Manger local »
+du Département (règle 333), le registre de l'Agence Bio (661 opérateurs, dont une majorité de supermarchés et de grossistes).
+
+1. **Troyes** (62 088) — La Ville publie ses marchés (Halles, Chartreux, Marots, Jules-Guesde/Jean-Macé) mais interdit la
+   reproduction des « représentations iconographiques et photographiques » (règle 231). **Faits entiers sans image** : le
+   **marché central des Halles** (Ville et office, heures jour par jour, familles de commerces) et le **magasin de producteurs
+   du boulevard Georges-Pompidou** (quatorze producteurs associés ; heures et produits sur son site, dont les mentions légales
+   réservent les photographies à l'usage privé). Les marchés des Chartreux, des Marots et de Jules-Guesde n'ont aucune famille
+   de produits écrite (règle 197). L'AMAP de la ville répond 429 au seul agent nommé (règle 280) ; le réseau Biocoop national
+   le refuse (règle 257) ; un caviste-distillateur de la place Saint-Pierre et une chocolaterie des Halles ferment leurs images.
+   **Zéro.**
+2. **Romilly-sur-Seine** (14 959) — Ville fermée aux images ; marchés sans heures ni familles propres. Le jardin d'insertion
+   maraîcher donne le jeudi sur sa plateforme de paniers (règle 333) et le vendredi sur le site de l'association : contradiction
+   (règle 5), images fermées. **Zéro.**
+3. **Saint-André-les-Vergers** (12 806) — Site de la Ville sans page de commerce. **Faits entiers sans image** : la **ferme
+   maraîchère biologique de l'avenue du Président-Wilson** (heures 2026 à l'office, coopérative active au registre, certifiée) ;
+   aucun site propre, seulement des réseaux sociaux. **Zéro.**
+4. **La Chapelle-Saint-Luc** (12 648) — Ville fermée aux images ; marché du mercredi « avec un seul maraîcher », marché chapelain
+   sans famille écrite. **Zéro.**
+5. **Sainte-Savine** (10 289) — Ville fermée (usage privé). **Faits entiers sans image** : le **marché de la place
+   Reichenbach** (mardi et vendredi 8h-13h à l'office ; fruits et légumes, volailles fermières, fromages, poisson à la Ville) ;
+   le site de la fromagerie de la commune ne répond pas. **Zéro.**
+6. **Saint-Julien-les-Villas** (6 760) — Ville fermée (usage privé), aucun point de vente publié hors grandes surfaces. **Zéro.**
+7. **Nogent-sur-Seine** (5 537) — La Ville répond 403 à l'agent nommé (règle 257) ; au registre bio, des malteries et des
+   supermarchés. **Zéro.**
+8. **Pont-Sainte-Marie** (5 249) — Ville ouverte à la reproduction avec crédit, mais aucun marché ni point de vente publié ; au
+   registre, des grossistes. **Zéro.**
+9. **Rosières-près-Troyes** (4 840) — Aucun commerce publié par la Ville. **Zéro.**
+10. **Bar-sur-Aube** (4 665) — La Ville et la communauté de communes répondent 403 à l'agent nommé (règle 257). **Zéro.**
+11. **La Rivière-de-Corps** (3 692) — Ville fermée, aucun point de vente publié. **Zéro.**
+12. **Les Noës-près-Troyes** (3 261) — Ville fermée, aucun point de vente publié. **Zéro.**
+
+**Point d'arrêt** : Les Noës-près-Troyes ; la prochaine passe dans l'Aube reprend à **Aix-Villemaur-Pâlis** (3 236). **Une fiche
+entière, désignée pour la reprise** : la **Cueillette de Troyes L'Espérance**, route départementale 960 à Villechétif (947
+habitants, Troyes Champagne Métropole, 8,5 km du centre de Troyes) — cueillette et magasin ouverts tous les jours de mai à
+novembre (heures sur son site), établissement de vente actif au registre côté Villechétif, photographie des serres sans
+personne (807 px) sur un site dont les mentions légales sont un gabarit vide. Elle complétera le groupe d'une commune de la
+métropole qui rendra deux fiches entières. Son site écrit « Mesnil-Sellières » pour l'adresse : la ferme est à cheval sur les
+deux communes (règle 17), c'est l'établissement de vente de Villechétif qui compte.
+
+**Ille-et-Vilaine : deux communes (règle 248).** Rennes et Saint-Malo ont déjà leurs fiches.
+
+- **Fougères** (20 307) — Ville fermée aux images (« aucun élément », copie privée), office de tourisme qui refuse l'agent nommé
+  (règle 257). **Faits entiers sans image** : la Biocoop du boulevard de Groslay (heures, carte de ses producteurs locaux, règle
+  276), dont les conditions d'utilisation nomment les photographies (règle 245). **Zéro.**
+- **Bruz** (19 683, Rennes Métropole) — **fait la passe.** La Ville publie ses trois marchés (page modifiée le 21 septembre 2026)
+  mais soumet ses photographies à son accord. Deux fiches entières dans la commune : le **magasin Scarabée** de la rue de
+  Gavrinis (façade publiée par la coopérative, dont les mentions légales ne nomment aucune image, règle 231) et la **ferme des
+  Gamins du Marais** (site sans mentions légales). Le **marché du vendredi** prend la photographie de l'étal de la ferme sous
+  la halle (règle 286). La métropole complète avec **Scarabée Vern-sur-Seiche** (9,95 km du centre de Bruz) et **Scarabée
+  Rennes Cleunay** (9,05 km), sous la réserve de la règle 334 (nouvelle). Registre des entreprises : la coopérative est active,
+  ses onze établissements aussi ; les trois magasins sont `ENGAGEE` chez Bureau Veritas.
+
+**Après la passe**, sur 852 fiches : Oise 6,2544, Val-d'Oise 5,8364, Landes 5,3573, Eure-et-Loir 5,3519, Lot-et-Garonne 4,1221
+et Loir-et-Cher 4,0596 (épuisés), **Aube 3,8360**, Vendée 3,8175, Mayenne 3,7744 ; Ille-et-Vilaine −1,1528. L'Aube, quittée sans
+publication, n'est pas « visée » (règle 247) : la prochaine passe peut la reprendre ; la Bretagne est fermée à la suivante.
+
+**Contradictions** : Scarabée Jacques-Cartier écrit « 11 place Thérèse-Pierre », le registre des entreprises « 7 » (non publié
+cette fois, règle 334) ; les heures de vente du jardin d'insertion de Romilly (jeudi ou vendredi, règle 5) ; l'adresse de la
+cueillette (Villechétif ou Mesnil-Sellières, règle 17).
+
+**Pistes non publiées (Aube et Ille-et-Vilaine)** — lignes anonymes :
+
+- Troyes, marché central des Halles : faits entiers, aucune image permise dans la commune (règle 231).
+- Troyes, magasin de producteurs du boulevard Georges-Pompidou : faits entiers, images réservées à l'usage privé (règle 246).
+- Troyes, marchés des Chartreux, des Marots et de Jules-Guesde : aucune famille de produits écrite (règle 197).
+- Troyes, AMAP : refus de l'agent nommé (règle 280).
+- Troyes, caviste-distillateur de la place Saint-Pierre : images fermées, exploitant à identifier au registre.
+- Saint-André-les-Vergers, ferme maraîchère biologique : faits entiers, aucune image permise.
+- Saint-Parres-aux-Tertres, magasin de producteurs : site fermé (règle 333) ; faits à l'office seulement, aucune image.
+- Sainte-Savine, marché de la place Reichenbach : faits entiers, aucune image permise.
+- Romilly-sur-Seine, jardin d'insertion maraîcher : heures contradictoires, images fermées.
+- Verrières, microbrasserie : retrait sur rendez-vous seulement, domicile présumé (règle 311).
+- Fougères, Biocoop : faits entiers, images fermées (règle 245).
+- Rennes, crèmerie-laiterie de la rue de Châteaugiron : aucun site propre joignable, faits seulement dans des annuaires tiers.
+- Rennes, ferme coopérative de la Prévalaye : aucune heure de vente publiée.
+
+**Fiches écartées pour doute sur une personne** : à Troyes, une fromagerie et une charcuterie des Halles dont l'enseigne est
+un nom de famille ; dans la métropole troyenne, des producteurs inscrits au registre bio sous un nom de personne (Saint-Germain,
+Saint-Lye, Sainte-Savine, Saint-Julien-les-Villas) ; à Bruz et à Rennes, des maraîchers inscrits sous le nom de leurs
+exploitants. **Données personnelles écartées** : noms de dirigeants et de directeurs de publication lus dans les mentions
+légales (Troyes, Saint-Parres-aux-Tertres, Fougères, drive fermier), prénoms d'associés et de salariés lus sur les sites de la
+ferme de Bruz et de la coopérative, portables. Rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (trentième de la nuit) : Cannes (Alpes-Maritimes), quatre fiches dans la commune
 
