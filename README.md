@@ -4282,6 +4282,23 @@ prioritaires en cas de conflit.
      autre en-tête pour en tirer une permission, et le site n'est pas consulté. **Déblocage** : un `robots.txt` servi à l'agent
      nommé qui ne l'exclut pas.
 
+348. **Le calendrier public qu'une AMAP tient sur la plateforme CAMAP est une source datée de l'AMAP elle-même, pour les faits
+     seulement.** À Rezé, deux AMAP publient sur `camap.amap44.org/group/<n>` — seul chemin que le `robots.txt` de la plateforme
+     ouvre — leurs prochaines distributions datées une à une (lundis et mercredis de l'automne 2026) et des contrats nommés
+     « 2026 » ou « mai-octobre 2026 ». La règle 346 attend « une saison, un contrat ou un événement daté publiés par l'AMAP
+     elle-même » ; les conditions d'utilisation de CAMAP soumettent toute **reproduction** à autorisation, sans viser la lecture
+     ni les requêtes automatisées (ce n'est pas la clause de la règle 333). **Tranché ainsi** : la page de groupe, rédigée par
+     les administrateurs de l'AMAP, date ses faits (jour, heure, lieu, produits des contrats) ; rien n'en est reproduit, ni
+     photographie ni logo, et `site_web` renvoie à la fiche du réseau AMAP départemental plutôt qu'à la plateforme. Les
+     téléphones et adresses des coordinateurs qu'elle affiche ne sont jamais repris. Une AMAP qui n'a qu'un logo pour image
+     reste en pistes (règle 231) : la date règle le fait, pas l'illustration.
+
+349. **Un serveur qui répond 404 à l'agent nommé sur les pages qu'il sert à l'agent par défaut (200) le refuse par son nom
+     (règle 257).** Le site de la Ville de Saint-Jean-de-la-Ruelle (45) rend sa page d'accueil et son plan de site à l'agent par
+     défaut et un 404 à l'agent nommé, pour les mêmes adresses. La règle 257 cite le 403 et le 444 ; le code importe peu, c'est
+     la différence de traitement selon le nom qui fait le filtrage. **Tranché ainsi** : même traitement que la règle 257, site
+     non consulté, pas de nouvel essai sous un autre en-tête. **Déblocage** : la même réponse aux deux agents.
+
 ## Marchands à confirmer
 
 767 fiches sur 865 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11548,6 +11565,119 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (quarante-sixième de la nuit) : Cher épuisé, Loiret et Loire-Atlantique, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube et Mayenne épuisés (règle 265) ; **Cher (18) 3,7466** ; **Loiret (45) 3,6718** ; **Loire-Atlantique (44) 3,6612**. La
+dernière passe publiée visait la Nouvelle-Aquitaine : Centre-Val de Loire et Pays de la Loire ouverts. `origin/main` n'a pas
+bougé pendant la passe (règle 241). Groupe de Labenne : relecture toujours due à la prochaine passe autorisée en
+Nouvelle-Aquitaine (règle 266).
+
+**Cher : reprises, puis les cinq dernières communes, de Saint-Martin-d'Auxigny à Argent-sur-Sauldre ; département épuisé.**
+La Ville de Bourges et Bourges Berry Tourisme refusent toujours l'agent nommé (403 contre 200).
+
+0. **Bourges, reprise** — toujours trois points. L'AMAP de Plaimpied-Givaudins (Bourges Plus, mardi 18h-19h, Grange des dîmes,
+   annuaire de la Ville) n'a toujours que des photographies de banque sur son site ; la Ville interdit la reproduction des
+   siennes, et son bulletin de septembre 2026 ne cite pas l'AMAP. **Vierzon, reprise** — aucun déblocage nommé ; deux points.
+1. **Saint-Martin-d'Auxigny** (2 546, Terres du Haut Berry) — marché du dimanche 8h-13h, place de la Mairie, familles écrites
+   (fruits et légumes, fromages et produits laitiers fermiers, viandes et charcuteries), mais la Ville interdit toute
+   reprise de ses photographies sans autorisation écrite (règle 231) ; le maraîchage bio de la commune est une entreprise
+   individuelle inscrite sous un nom de personne. **Zéro.**
+2. **Plaimpied-Givaudins** (2 101) — voir la reprise de Bourges ; marché du samedi matin sans heures ; producteurs de
+   l'annuaire communal inscrits sous des noms de personnes. **Zéro.**
+3. **Foëcy** (2 046) — marché du vendredi matin, familles écrites, sans heures ; la page nomme chaque commerçant. **Zéro.**
+4. **Vignoux-sur-Barangeon** (2 026) — aucun marché lisible ; au registre, exploitations inscrites sous des noms de personnes
+   ou sans vente aux particuliers. **Zéro.**
+5. **Argent-sur-Sauldre** (2 023) — marché du mardi 8h-12h30, place du Marché, sans famille écrite par la Ville ; la fromagerie
+   fermière qui y vend a un site qui refuse l'agent nommé (403 contre 200) et des horaires de magasin non publiés ailleurs.
+   **Zéro.**
+
+Marmagne, suivante, compte 1 963 habitants : **le Cher est épuisé** (règle 265). Bourges (trois fiches) et Vierzon (deux)
+restent désignées. Sept communes de la borne passent au Loiret, premier département (règle 267).
+
+**Loiret : sept communes, de Saint-Jean-de-la-Ruelle à Ingré.** Source nouvelle : le site départemental **Tourisme Loiret**
+(`tourismeloiret.com`, ADRT du Loiret) sert les deux agents, n'exclut personne et autorise la reprise « avec l'indication de la
+source » (règle 239). Il fiche vingt-quatre marchés du département, mais les illustre surtout d'images Pixabay (règles 70 et
+254) ; seules quelques photographies y sont créditées à une Ville.
+
+1. **Saint-Jean-de-la-Ruelle** (16 768) — Ville : 200 à l'agent par défaut, 404 à l'agent nommé (**règle 349, nouvelle**) ;
+   marchés du lundi et du mercredi fichés par l'ADRT sans heures ni famille, image de banque. **Zéro.**
+2. **Montargis** (14 825) — Ville fermée à l'agent nommé (403 contre 200) ; marché du samedi 8h-12h30, place de la République,
+   familles écrites par l'ADRT (poissonnerie, maraîchers, fromagers, bouchers, volaillers), mais illustré d'une image Pixabay ;
+   marché du mercredi sans famille ; le magasin La Vie Claire est fermé au registre et absent du site de l'enseigne. **Zéro.**
+3. **Amilly** (13 582) — marché du dimanche sans famille écrite, image de banque ; la Ville interdit la reproduction des images ;
+   une boulangerie bio inscrite sous un nom de personne. **Zéro.**
+4. **Gien** (13 459) — la Ville publie un guide daté 2026 des marchés (mercredi 8h-13h places Jaurès et Leclerc, samedi 8h-13h
+   place de la Victoire) ; l'ADRT écrit les familles du mercredi (fruits et légumes, viande, fromage, poisson). Mais la seule
+   image de marché de la Ville est une photographie Adobe Stock, son affiche 2026 une illustration dessinée, et l'ADRT n'a
+   que des images Pixabay ; la Biocoop de la commune n'a d'horaires que sur `biocoop.fr`, qui refuse l'agent nommé ; la
+   chèvrerie fichée ne vend qu'aux marchés. **Zéro.**
+5. **Châlette-sur-Loing** (12 677) — **deux fiches entières, désignées pour la reprise** (règle 258) :
+   - **marché de Vésines**, vendredi 8h-13h, place Lavoisier (poissonnier, fruits et légumes, rôtisseries, spécialités
+     d'Europe, du Maghreb et du Moyen-Orient) ; photographie créditée « Ville de Chalette-sur-Loing » sur la fiche de l'ADRT
+     (règle 254), 3 264 px, à recadrer sur l'étal pour écarter le vendeur et les clientes ;
+   - **marché du mardi**, 8h-13h, place Jean-Jaurès (boucher, producteur de fruits et légumes) ; photographie créditée à la
+     Ville, 1 440 px, silhouettes lointaines, une plaque d'immatriculation à recadrer.
+   La Base Adresse Nationale ne connaît ni la place Lavoisier ni la place Jean-Jaurès (règle 323 à appliquer à la reprise).
+   L'agglomération montargoise ne complète pas le groupe : la ferme maraîchère bio de la rue Jean-Lamy ne publie ses heures
+   d'ouverture nulle part en texte (dernier billet en 2024) ; Montargis et Amilly n'ont aucune image permise ; la
+   chocolaterie de Pannes n'a que son logo. **Deux points, pas de zone.**
+6. **La Chapelle-Saint-Mesmin** (11 017) — marché du samedi sans famille écrite ; Ville interdisant la reproduction des images,
+   ADRT en Pixabay. **Zéro.**
+7. **Ingré** (10 062) — marché des mardis et vendredis 14h30-19h30, place Lucien-Feuillâtre, familles écrites par la Ville
+   (fruits et légumes, fromages et viandes, miel, huîtres), photographie créditée à la Ville sur la fiche de l'ADRT (règle
+   254) : **une fiche entière**. La Ville réserve ses propres images à l'usage privé (règle 296) ; aucun second point. **Zéro
+   zone.** La borne de douze communes est servie.
+
+**Loire-Atlantique, second département (règle 248)** — Nantes, Saint-Nazaire et Saint-Herblain portent chacune cinq fiches ; la
+descente prend Rezé puis Saint-Sébastien-sur-Loire.
+
+1. **Rezé** (43 556) — **deux fiches entières, désignées pour la reprise** :
+   - **Chlorophylle Rezé Océane**, 147 route des Sorinières (BAN 0,968) — `magasin-bio` ; lundi-samedi 9h-19h30, fermé dimanche
+     et jours fériés (page du magasin) ; EURL active, 47.29Z ; fixe publié ; façade publiée par la coopérative, 642 px, sans
+     visage (règle 59 : aucune photographie thématique plus nette de la commune).
+   - **Chlorophylle Rezé Atout Sud**, 18 rue Ordronneau (BAN 0,967) — mêmes horaires ; EURL active, 47.11D ; fixe publié ;
+     façade 654 px, sans visage.
+   - **AMAP Rezé St Paul** (mercredi 18h-19h, parking de l'AEPR, 19 bis rue Pierre-Brossolette ; légumes, pain, fromages de
+     chèvre et de vache, miel, champignons, œufs, bœuf et veau, pommes) et **AMAP Qui Ramène Sa Fraise** (lundi 18h-19h, salle
+     du 40 rue Jean-Jaurès ; légumes, pain, poulets et œufs, champignons, poisson, agneau et produits de brebis) ont des faits
+     datés par leur calendrier CAMAP (**règle 348, nouvelle**), mais aucune image : leurs seuls visuels sont des logos, la Ville
+     réserve les siennes à l'usage privé, et les photographies de la coopérative montrent sa marque ou des visages (règle 332).
+   - Écartés : le supermarché coopératif de Rezé (réservé à ses coopérateurs), la ferme participative qui le fournit (aucune
+     vente au public), la champignonnière urbaine (à Nantes, sur rendez-vous), les marchés de la Ville (familles non écrites
+     sauf « produits biologiques » à Trentemoult, images réservées). Troisième point possible dans Nantes Métropole : le
+     magasin Chlorophylle de Basse-Goulaine (règle 334 : trois au plus pour une enseigne). **Deux points entiers, pas de zone.**
+2. **Saint-Sébastien-sur-Loire** (28 596) — la Ville nomme les images dans son interdiction et puise dans Adobe Stock ; la Biocoop
+   Nantes Sud n'a ni site propre ni page lisible (`biocoop.fr` refuse l'agent nommé) ; aucun magasin La Vie Claire dans la
+   commune (page de recherche seulement) ; deux exploitations inscrites sous des noms de personnes. **Zéro.**
+
+**Aucune zone dans les trois départements éprouvés : la passe ne publie rien (règles 248 et 267).**
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : dans le Cher, un maraîchage à Saint-Martin-d'Auxigny, des producteurs à
+Plaimpied-Givaudins, deux exploitations à Vignoux-sur-Barangeon ; dans le Loiret, une boulangerie à Amilly ; en
+Loire-Atlantique, deux exploitations à Saint-Sébastien-sur-Loire. Aucun nom n'est écrit.
+
+**Points d'arrêt** : le **Cher** est épuisé ; Bourges et Vierzon restent désignées. Dans le **Loiret**, la reprise prend d'abord
+les deux marchés de Châlette-sur-Loing, puis la descente à **Saint-Jean-le-Blanc** (9 562). En **Loire-Atlantique**, la reprise
+prend d'abord les deux magasins de Rezé, puis la descente à **Orvault** (28 534).
+
+**Pistes non publiées (Cher, Loiret et Loire-Atlantique)** — lignes anonymes :
+
+- Saint-Martin-d'Auxigny, marché du dimanche : faits entiers, images interdites par la Ville.
+- Châlette-sur-Loing, marchés du vendredi et du mardi : deux fiches entières ; désignées pour la reprise. **Déblocage** : trois
+  points illustrables dans l'agglomération montargoise (heures publiées de la ferme maraîchère de la rue Jean-Lamy, ou une
+  photographie permise des marchés de Montargis ou d'Amilly).
+- Gien, marché du mercredi : faits entiers et datés, aucune image hors banque. **Déblocage** : une photographie du marché
+  publiée par la Ville ou l'ADRT sous son propre crédit.
+- Ingré, marché des mardis et vendredis : une fiche entière, seule.
+- Rezé, Chlorophylle Océane et Atout Sud : deux fiches entières ; désignées pour la reprise. **Déblocage** : une image permise
+  pour les AMAP Rezé St Paul et Qui Ramène Sa Fraise, ou deux autres points illustrables de Nantes Métropole à moins de quinze
+  kilomètres.
 
 ### Passe du 25 septembre 2026 (quarante-cinquième de la nuit) : Cher et Loiret, aucune publication
 
