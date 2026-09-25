@@ -4274,6 +4274,14 @@ prioritaires en cas de conflit.
      218. La fiche attend en pistes, faits relus. **Déblocage** : une saison, un contrat ou un événement daté publiés par l'AMAP
      elle-même, ou une publication municipale de l'année qui la cite.
 
+347. **Un serveur qui rend ses pages à l'agent nommé mais lui refuse le seul `robots.txt` (403 contre 200 à l'agent par défaut)
+     refuse le robot par son nom (règle 257).** Le site de la Ville de Saint-Doulchard répond désormais 200 à l'agent nommé sur
+     ses pages, mais 403 sur son `robots.txt`, que l'agent par défaut lit sans difficulté. La règle 256 ne lit pas un `robots.txt`
+     illisible comme une permission ; la règle 257 range à part tout filtrage qui distingue le robot par son nom. **Tranché
+     ainsi** : c'est le même filtrage, posé sur le fichier qui dit la volonté de l'éditeur ; on ne lit pas ce fichier sous un
+     autre en-tête pour en tirer une permission, et le site n'est pas consulté. **Déblocage** : un `robots.txt` servi à l'agent
+     nommé qui ne l'exclut pas.
+
 ## Marchands à confirmer
 
 767 fiches sur 865 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11540,6 +11548,78 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (quarante-cinquième de la nuit) : Cher et Loiret, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube et Mayenne épuisés (règle 265) ; **Cher (18) 3,7466** premier ; **Loiret (45) 3,6718** second. La dernière passe publiée
+visait la Nouvelle-Aquitaine : Centre-Val de Loire ouvert. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règle 266).** La dernière passe publiée visant toujours la Nouvelle-Aquitaine, rien
+n'est publié ; la relecture reste due à la prochaine passe autorisée dans cette région.
+
+**Cher : reprises, puis douze communes, de Saint-Doulchard à Méreau, aucune zone.** La Ville de Bourges refuse toujours l'agent
+nommé (403 contre 200) ; Berry Province aussi ; l'office de Bourges n'ouvre aucune connexion.
+
+0. **Bourges, reprise** — le site de l'AMAP des Marais ne porte toujours que le millésime de pied de page (règle 346) ; aucun
+   quatrième point nouveau. **Trois points (règle 258).** **Vierzon, reprise** — aucune source lisible nouvelle pour les horaires
+   de la chèvrerie de Saint-Laurent (l'office Berry Sologne n'est pas consulté, les annuaires tiers ne sont pas des sources).
+   **Deux points.**
+1. **Saint-Doulchard** (9 647) — pages de la Ville servies à l'agent nommé, mais `robots.txt` refusé à lui seul (403 contre
+   200) : site non consulté (**règle 347, nouvelle**) ; au registre bio, un maraîchage inscrit sous un nom de personne. **Zéro.**
+2. **Saint-Florent-sur-Cher** (6 463) — aucune page de marché lisible ; mentions légales qui interdisent toute reproduction,
+   photographies nommées (règle 231) ; au registre, deux supermarchés. **Zéro.**
+3. **Mehun-sur-Yèvre** (6 380) — marché du mercredi matin place du Général-Leclerc sans famille écrite (règle 197) ; marché de
+   producteurs le premier samedi du mois, 8h30-12h30, place du 14-Juillet (prochaine date publiée : 3 octobre 2026), mais
+   reproduction du site interdite, photographies nommées (règle 231), et aucune autre source d'image ; au registre, un
+   supermarché et un groupement foncier. **Zéro.**
+4. **Aubigny-sur-Nère** (5 451) — marché du samedi matin avec familles écrites (maraîchers, poissonnier, bouchers-charcutiers,
+   fromagers), mais sans heures ni lieu précis, et Ville réservant la copie à l'usage privé (règle 296) ; office Sauldre et
+   Sologne fermé à l'agent nommé (403 contre 200, règle 257) ; au registre, une association d'insertion sans site et des
+   exploitations sans site. **Zéro.**
+5. **Saint-Germain-du-Puy** (4 779) — marché du jeudi matin sans heures ni famille écrite ; reproduction interdite sans accord
+   écrit ; au registre, un supermarché, un maraîchage inscrit sous un nom de personne, une confiserie sans point de vente.
+   **Zéro.**
+6. **Trouy** (4 055) et 7. **La Chapelle-Saint-Ursin** (3 681) — aucun point de vente alimentaire admissible publié. **Zéro.**
+8. **Dun-sur-Auron** (3 524) — aucun marché lisible sur le site de la Ville ; au registre, un supermarché, une truffière vendue
+   par parrainage sans point de vente, un domaine dont l'enseigne porte un nom de personne. **Zéro.**
+9. **La Guerche-sur-l'Aubois** (3 151) — Ville fermée à l'agent nommé (403 contre 200, règle 257) ; au registre, une
+   distillerie d'huiles essentielles (hors sujet) et une exploitation sans site. **Zéro.**
+10. **Sancoins** (2 951) — aucun marché décrit ; le seul maraîchage de l'annuaire communal est une entreprise individuelle
+    au lieu de production, sans horaires, au seul portable (règle 311). **Zéro.**
+11. **Avord** (2 909) — aucun commerce alimentaire admissible. **Zéro.**
+12. **Méreau** (2 632) — un maraîcher biologique ambulant le jeudi 15h-18h30, sans enseigne ni lieu écrits. **Zéro.** La borne
+    de douze communes est servie.
+
+**Loiret, second département (règle 248)** — reprise de la descente.
+
+1. **Fleury-les-Aubrais** (21 804) — marché du dimanche 8h-13h, boulevard de Lamballe, sans famille écrite (règle 197) ; copie
+   réservée à l'usage privé (règle 296) ; aucun opérateur bio vendant aux particuliers. **Zéro.**
+2. **Saran** (17 316) — marchés du mercredi et du samedi, 7h30-13h, rue du Docteur-Payen pendant les travaux du Bourg, avec
+   primeur, fromager, poissonnerie et boucherie écrits ; aucune photographie du marché publiée ; au registre, un maraîchage au
+   seul réseau social et deux exploitations inscrites sous des noms de personnes. **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : dans le Cher, un maraîchage à Saint-Doulchard, un à Saint-Germain-du-Puy, un
+domaine à Dun-sur-Auron, un maraîchage à Sancoins ; dans le Loiret, deux exploitations à Saran. Aucun nom n'est écrit.
+
+**Points d'arrêt** : dans le **Cher**, la descente reprend à **Saint-Martin-d'Auxigny** (2 546) ; après Argent-sur-Sauldre
+(2 023), la commune suivante compte moins de 2 000 habitants et le département sera épuisé (règle 265). Les trois fiches de
+Bourges et les deux de Vierzon restent désignées. Dans le **Loiret**, la descente reprend à **Saint-Jean-de-la-Ruelle**
+(16 768).
+
+**Pistes non publiées (Cher et Loiret)** — lignes anonymes :
+
+- Mehun-sur-Yèvre, marché mensuel de producteurs : faits entiers, images interdites par la Ville. **Déblocage** : une
+  photographie permise du marché.
+- Aubigny-sur-Nère, marché du samedi : familles écrites, heures et lieu non publiés, images réservées.
+- Saran, marchés du mercredi et du samedi : faits entiers, aucune image.
+- Saint-Doulchard, Ville : `robots.txt` refusé à l'agent nommé (règle 347).
 
 ### Passe du 25 septembre 2026 (quarante-quatrième de la nuit) : Mayenne épuisée, Cher et Loiret, aucune publication
 
