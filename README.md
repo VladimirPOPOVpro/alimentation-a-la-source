@@ -4009,6 +4009,47 @@ prioritaires en cas de conflit.
      lui-même n'est jamais celui qu'on découpe (règles 191 et 312). Ici : les aromatiques pour le marché bio du samedi, les radis
      pour le magasin du verger expérimental.
 
+322. **Un point que la règle 320 compte doit avoir été relu dans la passe qui publie : une source muette pour la passe (règle
+     297) retire son point du groupe, même quand une passe récente l'avait vérifié.** La règle 320, nouvelle à la passe
+     d'Obernai, débloque à quatre points le groupe de Labenne — marché de terroir et AMAP de Labenne, marché traditionnel de
+     Seignosse, Jardins de Castelnau à Saint-Jean-de-Marsacq —, que les passes landaises avaient laissé à quatre faute de
+     cinquième. Le 25 septembre 2026, trois points se relisent entièrement ; le site de la Ville de Seignosse, lui, n'ouvre
+     aucune connexion pendant toute la passe (dix essais sur huit minutes, à l'agent nommé comme à un agent quelconque), et
+     c'est lui qui porte à la fois les heures du marché et sa seule photographie permise. **Tranché ainsi** : la règle 264
+     fait réépreuver une reprise au moment de publier ; un point dont la source ne répond pas n'a pas été réépreuvé, et une
+     photographie qu'on ne peut pas télécharger n'illustre rien. Le groupe reste à trois points relus, il ne se publie pas, et
+     il n'est pas complété au jugé. **Déblocage** : le retour du site de Seignosse ; la prochaine passe autorisée à viser la
+     Nouvelle-Aquitaine le relit d'abord, en deux requêtes, puis publie les quatre au titre de la règle 320 si tout tient.
+
+323. **Quand la Base Adresse Nationale ne connaît pas une place, le point que l'annuaire de l'administration
+     (`api-lannuaire.service-public.fr`) publie pour la mairie située sur cette place vaut point de l'autorité, à condition
+     que le géocodage inverse de la Base le confirme.** Le marché de terroir et l'AMAP de Labenne se tiennent « place de la
+     République », face à l'église, sous l'auvent du foyer municipal ; la Base ne connaît pas la place (meilleure réponse : une
+     rue de la commune à 0,53) et la Ville ne publie aucun point. La règle 166 fermerait la fiche. Mais l'annuaire de
+     l'administration place la mairie — « Place de la République, 40530 Labenne » — en 43.594898 / -1.425870, et le géocodage
+     inverse de la Base rend, à moins de deux cents mètres, la rue des Écoles et la rue du Presbytère, c'est-à-dire le cœur de
+     bourg que la description annonce. **Tranché ainsi** : c'est la règle 64 étendue à une autorité d'État — un point publié
+     pour le lieu lui-même, contrôlé par un second instrument ; le centre géométrique de la commune (à un kilomètre) n'est
+     jamais un point de marché. Sans concordance du géocodage inverse, la règle 166 reste entière.
+
+324. **Une image qu'une commune référence depuis un sous-domaine mort, mais que son propre domaine sert à l'identique au même
+     chemin, se lit sous le régime du site de la commune.** La page que Saint-Jean-de-Marsacq consacre aux Jardins de Castelnau
+     (règle 263) appelle ses quatre photographies sur `saintjeandemarsacq.digitalmax.fr`, nom qui n'existe plus ; le même
+     chemin sur `saintjeandemarsacq.fr`, dont le `robots.txt` n'exclut personne, rend les fichiers (700 × 440). **Tranché
+     ainsi** : l'éditeur est le même, la page est la sienne, le fichier aussi ; la règle 263 s'applique sans changement, et la
+     description cite la commune, pas l'hébergeur.
+
+325. **Un producteur en société dont le seul point de vente est au bourg, dont les seuls contacts publiés sont un portable et
+     une messagerie personnelle, et dont le propre site renvoie à une prise de contact préalable, se présume domicile comme
+     l'entreprise individuelle de la règle 311.** Dans Val de Garonne Agglomération, une chèvrerie de Castelnau-sur-Gupie
+     (EARL active au registre) a des heures de vente fixes sur la page du réseau des Fermes de Garonne, datée de septembre 2024 ;
+     son propre site invite à prendre contact par courriel ou par téléphone avant toute visite à la ferme, le réseau présente
+     l'exploitation par le nom de la personne qui la tient, et aucun numéro fixe ni adresse de boutique distincte n'existe. La
+     règle 311 ne parlait que de l'entreprise individuelle. **Tranché ainsi** : la forme sociale ne lève pas le doute quand
+     tout le reste désigne un domicile ; les heures d'un annuaire de plus de douze mois ne suffisent pas à établir un accueil
+     libre contre la déclaration de l'exploitant (règles 104 et 126). La fiche ne se publie pas, ne se rouvre pas, et le groupe
+     de Marmande redescend à trois points.
+
 ## Marchands à confirmer
 
 744 fiches sur 835 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11175,6 +11216,110 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-cinquième de la nuit) : Landes, Lot-et-Garonne, Allier et Loir-et-Cher, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée, aucune image
+déposée.** **Classement, règle 41**, sur 835 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants,
+règle 224), outre-mer écarté (règle 177) : Oise 6,0498, Val-d'Oise 5,5204, Landes 5,2504 et Eure-et-Loir 5,2451 (épuisés, règle
+265), **Lot-et-Garonne (47) 4,0398**, **Allier (03) 4,0361**, **Loir-et-Cher (41) 3,9786**. La dernière passe publiée visait le
+Grand Est : Nouvelle-Aquitaine, Auvergne-Rhône-Alpes et Centre-Val de Loire sont ouvertes (règle 41.c). `origin/main` n'a pas
+bougé pendant la passe (règle 241).
+
+**Reprise d'abord : le groupe de Labenne (règles 264 à 266), débloqué en principe par la règle 320.** Trois points relus ce jour :
+
+- **Marché de terroir de Labenne** : page « Marchés » de la Ville, publiée le 7 juillet 2026 — le jeudi de 16h30 à 19h hors
+  saison, de 16h30 à 22h en juillet et août, « producteurs locaux et bio », place de la République ; l'AMAP, qui s'en dit
+  gestionnaire depuis novembre 2018, écrit 16h30 à 19h30 (contradiction déjà consignée, la commune fait foi). **Point : règle
+  323 (nouvelle)**, mairie de la place selon l'annuaire de l'administration, confirmée par le géocodage inverse de la Base.
+  **Image** : une vue de 2019 du marché publiée par l'AMAP (`amap-labenne.com`, `robots.txt` ouvert, dépôt antérieur à
+  l'injection de spam, règle 101), recadrée au-dessus des têtes et à gauche d'une plaque d'immatriculation, 1 200 × 772.
+- **AMAP de Labenne** : association active au registre, siège à la mairie ; distribution le jeudi de 18h à 19h sous l'auvent du
+  foyer municipal (site de l'AMAP), activité attestée en 2026 par la page de la Ville qui renvoie à l'AMAP pour le marché.
+  **Image** : un champ de choux-raves publié par l'AMAP en 2022, 2 560 × 1 920, sans personne.
+- **Les Jardins de Castelnau** (Saint-Jean-de-Marsacq, 13,8 km du centre de Labenne) : SARL active, certificat Ecocert engagé
+  au registre de l'Agence Bio ; heures du magasin (lundi et jeudi 17h-19h, samedi 9h-12h) publiées par la seule commune ; le site
+  du producteur réserve toujours le distributeur au retrait des commandes (règle 5, version du producteur). **Image : règle 324
+  (nouvelle)**, l'abri du distributeur servi par le domaine de la commune (700 × 440).
+- **Marché traditionnel de Seignosse** : le site de la Ville n'a ouvert **aucune connexion** de toute la passe (dix essais sur
+  huit minutes, les deux agents) ; il porte à lui seul les heures du marché et sa photographie. **Règle 322 (nouvelle)** : le
+  point n'est pas relu, le groupe reste à trois, rien n'est publié. Le site de la Ville de Capbreton a servi une page, puis a
+  refusé toute connexion (règle 297) : l'antenne de Capbreton n'est pas débloquée.
+
+**Lot-et-Garonne : reprises, puis fin de la descente.** Agen refuse toujours la connexion ; `ville-estillac.fr` est toujours en
+maintenance (503) — ni l'une ni l'autre ne consomme la borne (règles 290 et 297). **Marmande**, reprise au titre de la règle
+320 : la page « Marchés et Halles de Marmande » (mise à jour le 9 septembre 2026) et la page d'agenda du marché de plein vent (même
+date) tiennent, et le journal municipal de septembre 2026 écrit que le marché de l'esplanade du Maré « donne entière satisfaction ».
+Les deux fiches entières restent entières (façade des Halles sans personne ; marché du mardi recadré sur le kiosque et les
+parasols, sans visage). La boutique des Fermes de Garonne a des faits datés de janvier 2025 et une photographie thématique de la
+Ville possible (règle 272). Mais la chèvrerie de Castelnau-sur-Gupie sort du groupe par la **règle 325 (nouvelle)** : **trois
+points, pas quatre**. Cinquième ou quatrième point cherché dans Val de Garonne Agglomération à moins de 15 km, sans succès : les
+membres du réseau des Fermes de Garonne ne reçoivent que sur rendez-vous, n'ont que des heures de 2021 à 2023, ou tiennent des
+sites qui refusent l'agent nommé (règle 257) ; le groupement d'exploitation céréalière de Puymiclan aussi ; le site d'un domaine
+de Meilhan-sur-Garonne ne répond pas. **Déblocage** : un point daté de moins de douze mois dans Val de Garonne Agglomération.
+
+Descente reprise après Saint-Sylvestre-sur-Lot (règle 247) :
+
+- **Castelculier** (2 382) : un « marché gourmand » d'été au complexe sportif, soirées festives datées ; aucun marché hebdomadaire.
+  Aucune fiche.
+- **Casseneuil** (2 348) : pas de site communal ; l'élevage biologique de la commune vend sur des foires et en expédition, sans
+  heures d'accueil à la ferme (règle 192). Aucune fiche.
+- **Monflanquin** (2 342) : marché du jeudi matin sous les arcades, décrit comme patrimoine, sans heure ni famille de produits
+  (règles 197 et 222). Aucune fiche.
+- **Lavardac** (2 307), **Brax** (2 098), **Roquefort** (2 078) : aucune page de marché ni de producteur. Aucune fiche.
+- **Monsempron-Libos** (2 122) : grand marché du jeudi matin, sans heure ni famille de produits écrite. Aucune fiche.
+
+La commune suivante, **Astaffort**, compte 1 972 habitants : **le Lot-et-Garonne est épuisé** (règle 265) après sept communes, et
+cède le reste de la borne à l'Allier (règle 267). Ses fiches désignées (Villeneuve-sur-Lot, Marmande, Nérac, Aiguillon) restent
+en pistes : le département reste dans le calcul, mais aucune passe ne le vise plus.
+
+**Allier : cinq communes (règle 267), aucune zone.**
+
+- **Montluçon** (33 147) : la Ville ne publie aucune page de marché et nomme les photographies dans son interdiction (usage
+  privé, règle 246) ; le domaine `montlucontourisme.com` sert des articles sans rapport (« marchés flottants ») : domaine perdu,
+  non consulté (règle 199). Au registre biologique, des supermarchés et un magasin sans site. Aucune fiche.
+- **Vichy** (25 115) : la Ville ferme ses images (« logo, photos, images », usage privé). **Une fiche entière, désignée pour la
+  reprise (règle 258)** : le **Grand Marché couvert** (place Pierre-Victor-Léger ; du mardi au dimanche de 7h à 13h, marché de
+  producteurs en mezzanine le samedi, selon la Ville et le site du marché ; boucherie, charcuterie, volaille, boulangerie,
+  fromagerie, fruits et légumes, poissonnerie, cave, épicerie bio selon les rubriques du site ; site sans mentions légales ni
+  clause, `robots.txt` ouvert, photographies de 2025 et 2026). **Faits entiers, image manquante** : la **Supérette Paysanne**
+  (magasin collectif de producteurs, 4 route de Creuzier ; du mardi au jeudi 9h30-12h30 et 15h-18h30, le vendredi 9h30-19h, le
+  samedi 9h-18h ; viandes, œufs, fromages, légumes et fruits, pains, vins, bières et miel) selon le *Carnet des producteurs
+  locaux 2026* de Vichy Communauté (règle 319) ; la société est active au registre ; ses seules images sont sur un réseau social.
+  Elle pourrait recevoir une photographie thématique du Grand Marché (règle 312) une fois la règle 127 remplie. Le marché de la
+  place de l'Hôtel-de-Ville et les autres marchés de quartier n'ont pas de famille de produits écrite (règle 197).
+- **Moulins** (19 206) : le site de la Ville n'ouvre aucune connexion ; commune muette, hors borne (règle 290), à réessayer en tête.
+- **Cusset** (13 316) : marchés du samedi matin et du mardi soir (cours Lafayette) décrits sans famille de produits, textile
+  compris (règle 197) ; l'AMAP du Pays de Vichy tient un site vérolé de liens de casino (règle 101), sous licence CC BY-SA
+  (attribution que le site ne gère pas), et place sa distribution sous la galerie des Arcades quand le carnet 2026 la place au 2
+  place de la République (règle 5) ; le magasin à la ferme « Au cœur du bon » (horaires du carnet 2026)
+  n'a pas d'image hors réseau social. Aucune fiche entière.
+- **Yzeure** (12 897) : le site de la Ville répond 403 à l'agent nommé et 200 aux autres (règle 257) ; non consulté.
+- **Bellerive-sur-Allier** (8 943) : marchés du Pré Salé (mardi et samedi matin) sans famille de produits ; la Ville interdit
+  la reproduction des « représentations iconographiques et photographiques ». Aucune fiche.
+
+Point d'arrêt : **Bellerive-sur-Allier** ; la prochaine passe dans le 03 réessaie Moulins, prend le Grand Marché de Vichy et la
+Supérette Paysanne avant tout candidat neuf, puis reprend à **Domérat** (8 622).
+
+**Loir-et-Cher : les deux communes de la règle 248, aucune zone.** **Blois** (47 219) : le `robots.txt` de `blois.fr` interdit
+tout le site à `ClaudeBot` (règle 77) ; la Ville n'est pas une source et aucune fiche n'a été instruite. **Romorantin-Lanthenay**
+(18 373) : marchés alimentaires du mercredi et du samedi matin à la Halle, sans heure ni famille de produits (règles 197 et 222) ;
+photographies du site légendées « © » (règle 291). Aucune fiche. La prochaine passe dans le 41 reprend à **Vendôme** (15 758).
+
+**Après la passe**, rien n'étant publié, le classement ne change pas : Lot-et-Garonne 4,0398 (désormais épuisé), **Allier
+4,0361**, Loir-et-Cher 3,9786. La dernière passe publiée visait le Grand Est : la suivante peut viser l'Auvergne-Rhône-Alpes, et
+doit d'abord relire Seignosse (règle 322) si elle vise la Nouvelle-Aquitaine.
+
+**Contradictions** : aucune nouvelle sur une fiche publiable ; celles du groupe de Labenne (heure de fin du marché, usage du
+distributeur) restent consignées, et celle du lieu de distribution de l'AMAP de Cusset est écrite ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : une chèvrerie de Castelnau-sur-Gupie (règle 325) ; dans l'Allier, des
+exploitations inscrites au registre bio sous le nom de leur exploitant (Montluçon, Prémilhat, Yzeure, Cusset, Abrest) ; un
+point de vente de la couveuse agricole de Marmande inscrit sous un nom de personne. **Données personnelles écartées** : noms
+d'exploitants, de responsables d'associations, de gérants, de fondateurs et de directeurs de publication lus dans le carnet de
+Vichy Communauté, sur les pages du réseau des Fermes de Garonne, sur les sites des Villes et aux registres ; portables et
+messageries personnelles ; une plaque d'immatriculation visible sur une photographie de l'AMAP de Labenne. Rien n'en figure ici,
+dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (vingt-quatrième de la nuit) : Obernai (Bas-Rhin), quatre fiches dans le Pays de Sainte-Odile, septième commune de la descente
 
