@@ -11390,6 +11390,78 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 25 septembre 2026 (trente-quatrième de la nuit) : Vendée et Mayenne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 852 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,2544, Val-d'Oise 5,8364, Landes 5,3573, Eure-et-Loir 5,3519, Lot-et-Garonne 4,1221,
+Loir-et-Cher 4,0596 et Aube 3,8360 (épuisés, règle 265), **Vendée (85) 3,8175**, **Mayenne (53) 3,7744**, Calvados 3,7660. La
+dernière passe publiée visait la Bretagne : Pays de la Loire et Nouvelle-Aquitaine sont ouverts (règle 41.c). `origin/main` n'a
+pas bougé entre le calcul et la publication (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 322 et 297).** `seignosse.fr` a répondu une fois à l'agent nommé et
+`www.seignosse.fr` une fois aux deux agents (200, `robots.txt` sans exclusion), puis plus aucune connexion n'a abouti de toute la
+passe (dix essais, les deux agents, au début, au milieu et à la fin). C'est le cas de la règle 297 : la Ville est muette pour
+la passe, le marché de Seignosse n'est pas relu, le groupe reste à trois points et ne se publie pas. **Déblocage** inchangé : le
+retour **durable** de `seignosse.fr`, relu dans la passe qui publie.
+
+**Vendée : douze communes, de la 14e à la 25e, aucune zone (règles 127 et 247).** Registre de l'Agence Bio relu (1 967
+opérateurs dans le 85). Six Villes refusent l'agent nommé (règle 257) : **Saint-Gilles-Croix-de-Vie**, **Aubigny-Les
+Clouzeaux**, **Chanverrie** et **La Ferrière** (444), **Bellevigny** et **Pouzauges** (403) ; leurs marchés ne se publient donc
+pas (règle 196). **La Garnache** n'ouvre aucune connexion (règle 237). Les cinq Villes ouvertes ferment leurs images :
+**Essarts-en-Bocage**, **Sèvremont** et **Les Achards** (même gabarit : « représentations iconographiques et photographiques »,
+autorisation écrite, règle 246), **Mortagne-sur-Sèvre** (même clause, avec le crédit d'un photographe), **Cugand-la-Bernardière**
+(« textes, images » nommés dans l'interdiction, règle 231).
+
+1. **Saint-Gilles-Croix-de-Vie** (8 333) — Ville refusée. Une micro-brasserie biologique du Bégaudpôle a un site ouvert aux deux
+   agents (bar-boutique, heures publiées) ; elle serait seule : le magasin de fruits et légumes du boulevard Georges-Pompidou n'a
+   pas de site, la miellerie est inscrite au registre sous le nom de son exploitante. **Zéro.**
+2. **Aubigny-Les Clouzeaux** (7 191) — Ville refusée. Un atelier de soupes biologiques a un site ouvert, sans lieu de vente au
+   public publié ; une chèvrerie n'a qu'une page de réseau social. **Zéro.**
+3. **Essarts-en-Bocage** (6 851) — Images fermées. Au registre, un supermarché, un primeur et un confiseur sans site. **Zéro.**
+4. **Sèvremont** (6 385) — Images fermées. Au registre, des fermes vendant aux particuliers, toutes sans site. **Zéro.**
+5. **Bellevigny** (6 240) — Ville refusée ; aucun candidat hors exploitations inscrites sous un nom de personne. **Zéro.**
+6. **Mortagne-sur-Sèvre** (6 057) — Images fermées ; le marché de la place Hullin n'a pas d'autre source. **Zéro.**
+7. **Cugand-la-Bernardière** (5 711) — Images fermées ; aucune page de marché ; un moulin de la place de l'Église sans site.
+   **Zéro.**
+8. **Pouzauges** (5 668) — Ville refusée ; un jardin d'insertion n'a que des pages de réseau social. **Zéro.**
+9. **Chanverrie** (5 653) — Ville refusée ; les fermes ont des pages de réseau social ou un site au nom d'une personne. **Zéro.**
+10. **Les Achards** (5 518) — Images fermées ; marché des halles et marché du vendredi publiés par la seule Ville ; une brasserie
+    biologique n'a que des réseaux sociaux. **Zéro.**
+11. **La Garnache** (5 515) — Ville muette (règle 237). **Zéro.**
+12. **La Ferrière** (5 454) — Ville refusée ; le site d'un verger ne répond pas, celui d'une ferme renvoie à un camping.
+    **Zéro.**
+
+**Point d'arrêt** : La Ferrière. La prochaine passe dans la Vendée reprend à **Bretignolles-sur-Mer** (5 344), puis
+Mouilleron-le-Captif (5 273). Aucune fiche désignée pour la reprise.
+
+**Mayenne : deux communes (règle 248).**
+
+- **Mayenne** (12 883) — La Ville sert les deux agents ; ses mentions légales réservent l'usage des documents « à titre
+  personnel » (règle 296) : images fermées. Aucune page de marché trouvée sur son site (plan du site et recherche). Au registre,
+  un supermarché, une supérette non certifiée et une entreprise de chanvre (hors sujet). **Zéro.**
+- **Évron** (8 252) — La Ville sert les deux agents et nomme les photographies dans son interdiction (règle 231) ; au registre,
+  deux opérateurs inscrits sous le nom de leurs exploitants et un fabricant d'aliments pour animaux. **Zéro.**
+
+La prochaine passe dans la Mayenne reprend à **Saint-Berthevin** (7 479), puis Changé.
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).** Classement inchangé (règle 260) :
+Vendée en tête, Mayenne en second, Calvados ensuite.
+
+**Contradictions** : aucune.
+
+**Pistes non publiées (Vendée)** — lignes anonymes :
+
+- Saint-Gilles-Croix-de-Vie, micro-brasserie biologique du Bégaudpôle : site ouvert, seule fiche possible de la commune.
+- Les Achards, marché des halles et marché du vendredi : faits de la seule Ville, images fermées (règle 246).
+
+**Fiches écartées pour doute sur une personne** : dans les douze communes vendéennes et à Évron, des producteurs inscrits au
+registre bio sous le nom de leurs exploitants, un site de ferme dont le domaine porte le nom d'une personne (Chanverrie), une
+miellerie (Saint-Gilles-Croix-de-Vie). **Données personnelles écartées** : prénoms d'exploitants lus sur le site d'une brasserie,
+noms de gérants du registre bio, nom d'un photographe dans les mentions de Mortagne-sur-Sèvre, noms lus dans les adresses de
+publications d'état civil du plan du site d'Essarts-en-Bocage. Rien n'en figure ici, dans une fiche, dans un nom de fichier ou
+dans un commit.
+
 ### Passe du 25 septembre 2026 (trente-troisième de la nuit) : Aube épuisée, Vendée et Mayenne, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
