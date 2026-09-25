@@ -4149,6 +4149,16 @@ prioritaires en cas de conflit.
      l'avait voulu ; si la règle empêche d'atteindre quatre points, la règle 258 s'applique. Ici : Scarabée Bruz, Scarabée
      Vern-sur-Seiche et Scarabée Rennes Cleunay ; Jacques-Cartier, Papu, Paris-Metz et Vasselot attendent toujours leur tour.
 
+335. **Un domaine qui porte le nom de la commune et répond de nouveau n'est « le retour du site » de la règle 322 qu'après
+     lecture de son contenu.** Le 25 septembre 2026, trente-deuxième passe, `ville-seignosse.fr` répond 200 aux deux agents,
+     alors que `seignosse.fr` refuse toujours toute connexion. Sa page d'accueil, titrée comme une page touristique de la
+     commune, ne renvoie qu'à des articles sans rapport (billets d'avion, immobilier, placements, bijoux) : c'est une ferme de
+     contenus sur un nom de domaine qui imite celui d'une Ville, le cas des règles 56, 159 et 327. **Tranché ainsi** : le
+     déblocage d'une source muette n'est constaté que sur le domaine même que la passe précédente a nommé, ou sur un domaine
+     dont le contenu propre se présente comme celui de l'autorité (pages de démarches, mentions légales qui la désignent comme
+     éditeur) ; un domaine homonyme qui répond ne relit aucun point. Le groupe de Labenne reste à trois points ; son
+     **déblocage** reste le retour de `seignosse.fr`.
+
 ## Marchands à confirmer
 
 756 fiches sur 852 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11346,6 +11356,106 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente-deuxième de la nuit) : Aube et Vendée, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 852 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, règle 224), outre-mer écarté
+(règle 177) : Oise 6,2544, Val-d'Oise 5,8364, Landes 5,3573, Eure-et-Loir 5,3519, Lot-et-Garonne 4,1221 et Loir-et-Cher 4,0596
+(épuisés, règle 265), **Aube (10) 3,8360**, **Vendée (85) 3,8175**, Mayenne 3,7744. La dernière passe publiée visait la
+Bretagne : Grand Est et Pays de la Loire sont ouverts (règle 41.c). `origin/main` n'a pas bougé (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 322 et 266, Nouvelle-Aquitaine ouverte).** `seignosse.fr` n'ouvre toujours
+aucune connexion (deux requêtes, les deux agents). `ville-seignosse.fr`, lui, répond 200 aux deux agents, mais c'est une ferme
+de contenus sur un domaine homonyme : **règle 335 (nouvelle)**, aucun point n'est relu. Le groupe reste à trois points ; il ne
+se publie pas.
+
+**Aube : douze communes, de la 13e à la 24e, aucune zone (règles 127 et 247).** Descente reprise à Aix-Villemaur-Pâlis.
+Sources communes : l'office de tourisme Othe-Armance (`tourisme-chaource-othe-armance.com`), ouvert aux deux agents et dont les
+mentions légales ne disent rien des images ; l'office de la Côte des Bar (`tourisme-cotedesbar.com`), ouvert, mais qui nomme
+les photographies puis réserve la copie à la préparation d'un séjour (règle 246 : faits seulement) ; l'office des Grands Lacs
+de Champagne et le Parc naturel régional de la Forêt d'Orient ; `aube-champagne.com` (faits seulement, règle 246) ; le
+registre de l'Agence Bio (661 opérateurs).
+
+1. **Aix-Villemaur-Pâlis** (3 236, CC du Pays d'Othe) — La communauté de communes répond 403 à l'agent nommé (règle 257). La
+   Ville atteste le **marché d'Aix-en-Othe** par deux arrêtés de 2026 (mercredi et samedi matin, sous la halle et place de
+   l'Hôtel de Ville) et par sa page touristique ; l'office donne 7h30-12h30 les deux jours. Mais aucune source n'écrit ce
+   qui s'y vend — « tous les produits de pays », « commerçants alimentaires » — (règle 197), et les photographies de l'office
+   (servies par `medias.tourism-system.com`, sans `robots.txt`) ne remplacent pas le texte (règle 292). Écartés : une ferme
+   biologique sans adresse, sur rendez-vous, au seul numéro mobile (règle 311). **Zéro.**
+2. **Saint-Parres-aux-Tertres** (3 223) — Magasin de producteurs fermé par la règle 333 (passe précédente) ; la Ville ne
+   publie ni marché ni commerce ; au registre, un hypermarché et un céréalier. **Zéro.**
+3. **Bréviandes** (3 219) — Ville sans page de commerce ni de marché ; au registre, un grossiste. **Zéro.**
+4. **Saint-Lyé** (2 956) — Ville sans page de commerce ni de marché ; au registre, un supermarché, un grossiste, une
+   chanvrière sans vente au détail. **Zéro.**
+5. **Bar-sur-Seine** (2 858) — `bar-sur-seine.fr` répond 503 aux deux agents avec la page « Ce site est en maintenance » :
+   **règle 288**, la commune compte dans la borne et se réessaie en tête de la prochaine descente dans l'Aube. Candidats
+   indépendants de la Ville : le marché du vendredi dépend d'elle (règle 196) ; presque toutes les maisons de champagne de la
+   commune portent un nom de famille ; un domaine viticole à l'enseigne neutre, chemin de la Ferme de la Folie, a un site
+   ouvert aux deux agents mais n'a pas été instruit à fond, faute d'un second point possible dans la commune. **Zéro.**
+6. **Arcis-sur-Aube** (2 785) — Ville ouverte, mais elle nomme les images dans son interdiction (règle 231) et ne publie pas
+   son marché ; au registre, des supermarchés et une coopérative de collecte. **Zéro.**
+7. **Brienne-le-Château** (2 672) — La Ville publie « marché tous les jeudis matins, place de la Halle », sans heure ni
+   famille de produits (règle 197), et nomme les photographies dans son interdiction (règle 231). Le magasin La Vie Claire
+   de la commune ferait au mieux une fiche. **Zéro.**
+8. **Villenauxe-la-Grande** (2 605) — La Ville ne publie ni marché ni commerce. Une brasserie biologique de la place
+   Georges-Clemenceau ferait au mieux une fiche (certificat arrêté en 2022). **Zéro.**
+9. **Saint-Germain** (2 437) — Ville sans page de commerce ; bulletin de septembre 2026 relu sans mention de marché. **Zéro.**
+10. **Lusigny-sur-Barse** (2 267) — La Ville sert l'agent nommé (403 au seul `curl` sans en-tête, ce n'est pas un refus du
+    robot) et publie le **marché hebdomadaire** : place de l'Europe, le samedi de 8h à 13h, « fruits, légumes, miel,
+    rôtisserie, volailles et pigeons, poisson, fromage, jardinerie, brasseur » ; le Parc de la Forêt d'Orient donne la même
+    chose pour 2026. **Faits entiers sans image** : la Ville nomme les images dans son interdiction (règle 231) et la page du
+    Parc n'en porte aucune du marché. Aucun autre point de vente dans la commune (la liste communale des entreprises agricoles
+    ne compte que des céréaliers). **Zéro.**
+11. **Vendeuvre-sur-Barse** (2 225) — La Ville publie le marché du mercredi matin, place du 8-Mai (fruits et légumes, fromage,
+    poisson, rôtisserie) ; l'office des Grands Lacs donne 8h-13h (règle 204). **Faits entiers sans image** : les deux
+    illustrations de l'office sont des photographies de banque d'images (règle 70), la Ville n'en publie pas. Un maraîcher
+    certifié de la commune n'a pas de site. **Zéro.**
+12. **Buchères** (2 055) — Aucun marché ni point de vente publié ; au registre, un supermarché et un grossiste. **Zéro.**
+
+**Point d'arrêt** : Buchères. La prochaine passe dans l'Aube réessaie d'abord **Bar-sur-Seine** (règle 288), puis reprend à
+**Mailly-le-Camp** (2 015) et **Creney-près-Troyes** (2 013) ; la suivante, Verrières, compte 1 923 habitants : l'Aube sera
+alors épuisée au sens de la règle 265. Aucune fiche entière n'est désignée pour la reprise ; la cueillette de Villechétif
+(passe précédente) le reste.
+
+**Vendée : deux communes (règle 248).** La Roche-sur-Yon a déjà ses fiches.
+
+- **Les Sables-d'Olonne** (49 603) — La Ville et l'office de tourisme répondent 200 à l'agent par défaut et 403 à l'agent nommé
+  (règle 257) ; Vendée Tourisme refuse tout agent (règle 237). Les marchés ne se publient donc pas (règle 196). **Faits
+  entiers sans image** : un GAEC de maraîchage biologique de la route de l'Aubraie (vente le mercredi 16h-19h et le samedi
+  10h-12h30 sur son site), dont les mentions légales nomment les photographies dans l'interdiction (règle 231). Les deux
+  magasins d'un réseau de primeurs n'ont pas de site joignable ; la Biocoop relève du réseau qui refuse le robot. **Zéro.**
+- **Challans** (22 943) — La Ville sert les deux agents et publie commerces et marchés, mais réserve ses photographies à son
+  accord (règle 231). **Faits sans image** : le jardin d'insertion biologique de la rue de la Poctière (paniers le mardi et le
+  vendredi, sur commande), dont les mentions légales nomment les images dans l'interdiction. **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien (règle 248).** Classement inchangé (règle 260) : l'Aube
+reste en tête, la Vendée seconde ; la prochaine passe reprend comme dit ci-dessus, et la Vendée à **Montaigu-Vendée**
+(21 134).
+
+**Contradictions** : aucune nouvelle. Les heures du marché d'Aix-en-Othe diffèrent entre l'office (7h30-12h30) et un annuaire
+tiers (8h-13h) ; c'est l'office, relais de la commune, qui serait retenu (règle 204), la fiche n'étant de toute façon pas
+publiable.
+
+**Pistes non publiées (Aube et Vendée)** — lignes anonymes :
+
+- Aix-Villemaur-Pâlis, marché d'Aix-en-Othe : jours, lieu et heures vérifiés, aucune famille de produits écrite (règle 197).
+- Bar-sur-Seine, domaine viticole de la Ferme de la Folie : non instruit, Ville en maintenance (règle 288).
+- Brienne-le-Château, magasin La Vie Claire : non instruit, seul point possible de la commune.
+- Villenauxe-la-Grande, brasserie biologique : non instruite, seul point possible de la commune.
+- Lusigny-sur-Barse, marché du samedi : faits entiers, aucune image permise (règle 231).
+- Vendeuvre-sur-Barse, marché du mercredi : faits entiers, images de banque d'images seulement (règle 70).
+- Les Sables-d'Olonne, maraîchage biologique de la route de l'Aubraie : faits entiers, images fermées (règle 231).
+- Challans, jardin d'insertion biologique : faits vérifiés, images fermées (règle 231).
+
+**Fiches écartées pour doute sur une personne** : à Aix-Villemaur-Pâlis, une brasserie et une cidrerie dont l'enseigne est un
+nom de famille, et une ferme reçue sur rendez-vous au seul numéro mobile (règle 311) ; à Saint-Germain, un potager dont
+l'enseigne peut porter un prénom ; à Bar-sur-Seine, les maisons de champagne sous nom de famille ; à Challans, une ferme dont
+l'enseigne porte le diminutif d'un prénom ; aux Sables-d'Olonne, à Lusigny-sur-Barse et dans l'Aube, des producteurs inscrits
+au registre sous le nom de leurs exploitants. **Données personnelles écartées** : noms de dirigeants et de directeurs de
+publication lus dans les mentions légales (Lusigny-sur-Barse, Les Sables-d'Olonne), noms d'exploitants et portables de la liste
+communale des entreprises de Lusigny-sur-Barse, nom d'un photographe dans le nom d'un fichier de l'office Othe-Armance. Rien n'en
+figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (trente et unième de la nuit) : Bruz (Ille-et-Vilaine), cinq fiches dans Rennes Métropole, après douze communes de l'Aube
 
