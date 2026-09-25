@@ -4065,6 +4065,22 @@ prioritaires en cas de conflit.
      toute lecture, le code postal des mentions légales ou du pied de page doit être celui de la commune calculée ; un homonyme
      ne compte ni comme source ni comme commune muette.
 
+328. **Une fiche désignée pour la reprise qui n'attend qu'une image se complète par la règle 312 dès la passe qui reprend, et
+     un point d'une commune déjà éprouvée peut compléter le groupe dans l'intercommunalité quand sa seule pièce manquante,
+     l'image, est trouvée.** La passe du 25 septembre 2026 avait laissé à Vichy le Grand Marché couvert (entier) et la
+     Supérette Paysanne (faits entiers, « elle pourrait recevoir une photographie thématique du Grand Marché une fois la règle
+     127 remplie ») ; elle avait aussi écrit que le magasin à la ferme « Au cœur du bon », à Cusset, n'avait « pas d'image hors
+     réseau social ». La règle 247 ne rouvre une commune éprouvée « qu'avec un déblocage nommé » ; pour une fiche dont seule
+     l'image manque, le déblocage est une image permise (règle 231). **Tranché ainsi** : la règle 312 s'applique à la fiche
+     désignée sans condition préalable — c'est elle qui fait la seconde fiche entière de la règle 127, pas l'inverse ; et une
+     fiche d'une commune voisine déjà éprouvée entre au groupe au titre des règles 96 et 320 quand une photographie permise de
+     sa propre commune (règle 312) lève sa seule réserve. La commune voisine ne redevient pas pour autant candidate de la
+     descente de la règle 41.d, et ses autres points ne se rouvrent pas. Ici : la Supérette Paysanne reçoit une photographie
+     de légumes du marché de producteurs publiée par le Grand Marché (site sans clause, `robots.txt` ouvert) ; Croc'Bio et
+     Au cœur du bon, à Cusset, reçoivent deux photographies distinctes d'une conserverie biologique de Cusset dont le site ne
+     porte aucune clause ni mention légale et dont le `robots.txt` n'exclut personne. Quatre points, publiés au titre de la
+     règle 320.
+
 ## Marchands à confirmer
 
 744 fiches sur 835 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11231,6 +11247,64 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-septième de la nuit) : Vichy (Allier), quatre fiches dans Vichy Communauté
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images
+déposées.** **Classement, règle 41**, sur 835 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants,
+règle 224), outre-mer écarté (règle 177) : Oise 6,0498, Val-d'Oise 5,5204, Landes 5,2504, Eure-et-Loir 5,2451 et Lot-et-Garonne
+4,0398 (épuisés, règle 265), **Allier (03) 4,0361**, Loir-et-Cher 3,9786. La dernière passe publiée visait le Grand Est :
+l'Auvergne-Rhône-Alpes est ouverte (règle 41.c).
+
+**Contrôles de tête.** Seignosse : le site de la Ville n'ouvre toujours aucune connexion (deux requêtes, les deux agents) ; le
+groupe de Labenne reste à trois points (règle 322). Moulins : 436 à l'agent par défaut, 403 à l'agent nommé (règle 237) ;
+Désertines : `mairie-desertines.fr` n'ouvre aucune connexion. Ni l'une ni l'autre ne consomme la borne (règle 290).
+
+**Reprise d'abord : les fiches désignées de Vichy (règle 258), complétées par la règle 328 (nouvelle).**
+
+- **Grand Marché de Vichy** (place Pierre-Victor-Léger) : site du Grand Marché relu ce jour — du mardi au dimanche de 7h à 13h,
+  marché de producteurs locaux et bio sur la mezzanine le samedi de 7h à 13h, rubriques d'étals (fruits et légumes, boulangerie,
+  boucherie, volaille, poissonnerie, fromagerie, caves, épicerie bio), agenda daté de septembre 2026. Site sans mentions légales
+  ni clause, `robots.txt` ouvert, les deux agents servis. **Image** : la façade publiée par le Grand Marché, recadrée au-dessus
+  de deux passantes (1 280 × 504).
+- **La Supérette Paysanne** (4 rue de Creuzier, Vichy) : heures, produits et principe de vente collective selon le *Carnet des
+  producteurs locaux 2026* de Vichy Communauté (règle 319) ; société active au registre, établissement de la rue de Creuzier
+  ouvert, inscrite au registre de l'Agence Bio. Le seul numéro publié est un portable : non repris. **Image thématique**
+  (règles 312 et 328) : légumes du marché de producteurs, publiés par le Grand Marché, recadrés sous le bandeau d'horaires
+  (1 280 × 450). `a_confirmer`.
+- **Croc'Bio** (32 rue de Romainville, Cusset, 1,5 km du Grand Marché) : heures selon le carnet 2026 ; société active au registre
+  depuis 1996, enseigne inscrite au registre de l'Agence Bio ; fixe publié. Le domaine `crocbio.fr` cité par les annuaires
+  n'ouvre aucune connexion : pas de site sur la fiche. **Image thématique** : bocaux de haricots d'une conserverie biologique de
+  Cusset, publiés par celle-ci (1 280 × 803). `a_confirmer`.
+- **Au cœur du bon** (Domaine de Bandinière, 18 chemin de Vignole, Cusset, 5,7 km du Grand Marché) : magasin de la ferme à heures
+  fixes (mercredi, jeudi, vendredi, samedi) selon le carnet 2026 ; société agricole active au registre au domaine. Boutique à
+  heures fixes : hors des règles 311 et 325. Le seul numéro publié est un portable : non repris. **Image thématique** : bocaux en
+  préparation dans la même conserverie, fichier distinct (1 000 × 750, non agrandi). `a_confirmer`.
+
+Quatre points, dont deux entiers dans la commune (règles 127 et 320), tous dans Vichy Communauté à moins de 15 km du centre
+(règle 96). **Pas de cinquième point illustrable** :
+
+- **Biocoop La Belle Rive** (Bellerive-sur-Allier) : **faits entiers** (du lundi au samedi de 9h à 19h, site du magasin et carnet
+  2026 ; société active au registre), mais les conditions d'utilisation du site nomment « les photographies, les images » parmi
+  ce qu'elles protègent (règle 246), la Ville ferme ses images, et le seul autre commerce illustré de Bellerive, une safranière,
+  ne publie que des images de 600 px au plus (règle 59). **Désignée pour la reprise** ; déblocage : une photographie permise de
+  Bellerive-sur-Allier.
+- **AMAP d'Abrest** : le site de l'association répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) : non consulté,
+  et le carnet seul ne suffit pas (règle 319). Déblocage : le retrait du filtrage.
+- Un commerce du registre biologique de Bellerive vend des compléments alimentaires : hors sujet.
+- Le Jardin de Cocagne d'Arronnes est à plus de 15 km du centre (règle 96).
+
+**Après la passe**, sur 839 fiches : Oise 6,0980, Val-d'Oise 5,5948, Landes 5,2756, Eure-et-Loir 5,2702 et Lot-et-Garonne
+4,0592 (épuisés), **Loir-et-Cher 3,9976**, Meurthe-et-Moselle 3,9096 ; Allier 0,0555. La dernière passe publiée vise
+l'Auvergne-Rhône-Alpes : la suivante ne peut pas y revenir. Le Loir-et-Cher reprend à Le Controis-en-Sologne (6 860).
+
+**Contradictions** : aucune nouvelle sur une fiche publiée. Les annuaires rattachent Croc'Bio tantôt au réseau Biocoop, tantôt
+le disent indépendant (carnet 2026) : la fiche suit le carnet, publication de la collectivité.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle. **Données personnelles écartées** : noms d'exploitants, de
+gérants et de responsables d'associations lus dans le carnet de Vichy Communauté, aux registres et sur les étiquettes de la
+conserverie (une photographie de bocal portant le nom d'un producteur n'a pas été retenue) ; portables et messageries
+personnelles. Rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (vingt-sixième de la nuit) : Allier et Loir-et-Cher, aucune publication
 

@@ -22211,5 +22211,113 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Ellipsys%2C%202a%20Rue%20du%20Stade%2C%2067880%20Innenheim",
     "image_url": "/images/marchands/brasserie-ellipsys-innenheim.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "grand-marche-vichy",
+    "nom": "Grand Marché de Vichy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.12973,
+    "lon": 3.423838,
+    "adresse": "Place Pierre-Victor-Léger, 03200 Vichy",
+    "horaires": "Du mardi au dimanche de 7h à 13h ; marché des producteurs locaux et bio sur la mezzanine le samedi de 7h à 13h (site du Grand Marché).",
+    "produits": [
+      "Fruits, légumes et plants",
+      "Boucherie, charcuterie et traiteur",
+      "Volaille",
+      "Poissonnerie",
+      "Fromagerie",
+      "Boulangerie et pâtisserie",
+      "Vins",
+      "Épicerie bio"
+    ],
+    "description": "Halle couverte du centre-ville qui réunit plus d'une centaine de commerçants, artisans et producteurs, ouverte six matins par semaine. Le samedi, la mezzanine qui surplombe la halle accueille un marché de producteurs locaux et bio. Photo : la façade de la halle, publiée par le Grand Marché.",
+    "telephone": "04 70 30 55 75",
+    "site_web": "https://www.legrandmarche-vichy.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+March%C3%A9+de+Vichy",
+    "image_url": "/images/marchands/grand-marche-vichy.jpg"
+  },
+  {
+    "slug": "superette-paysanne-vichy",
+    "nom": "La Supérette Paysanne",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.137101,
+    "lon": 3.423273,
+    "adresse": "4 Rue de Creuzier, 03200 Vichy",
+    "horaires": "Du mardi au jeudi de 9h30 à 12h30 et de 15h à 18h30 ; le vendredi de 9h30 à 19h ; le samedi de 9h à 18h (Carnet des producteurs locaux 2026 de Vichy Communauté).",
+    "produits": [
+      "Viandes (bœuf, porc, agneau, volailles)",
+      "Œufs",
+      "Fromages de vache, de chèvre et de brebis",
+      "Yaourts, crème et beurre",
+      "Légumes et fruits",
+      "Pain",
+      "Vins, bières et miel"
+    ],
+    "description": "Magasin collectif où des producteurs des environs vendent en direct et à tour de rôle les produits de fermes situées à moins de 90 km, selon le carnet des producteurs de Vichy Communauté. Photo thématique : légumes du marché de producteurs du Grand Marché de Vichy, publiée par le Grand Marché ; elle ne montre pas le magasin.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4+Rue+de+Creuzier+03200+Vichy",
+    "image_url": "/images/marchands/superette-paysanne-vichy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "croc-bio-cusset",
+    "nom": "Croc'Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.142598,
+    "lon": 3.429792,
+    "adresse": "32 Rue de Romainville, 03300 Cusset",
+    "horaires": "Du mardi au jeudi de 9h30 à 13h et de 15h à 19h ; le vendredi et le samedi de 9h30 à 19h (Carnet des producteurs locaux 2026 de Vichy Communauté).",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Produits frais",
+      "Épicerie sèche et vrac",
+      "Boissons",
+      "Produits d'hygiène et cosmétiques"
+    ],
+    "description": "Magasin biologique indépendant ouvert depuis environ vingt-cinq ans, qui met en avant les produits locaux et propose un service de préparation de commandes. Plusieurs producteurs du carnet de Vichy Communauté y déposent leurs produits ; le registre de l'Agence Bio inscrit l'exploitant en agriculture biologique. Photo thématique : bocaux de haricots d'une conserverie bio de Cusset, publiée par celle-ci ; elle ne montre pas le magasin.",
+    "telephone": "04 70 97 04 69",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Croc%27Bio+Cusset",
+    "image_url": "/images/marchands/croc-bio-cusset.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-coeur-du-bon-cusset",
+    "nom": "Au cœur du bon",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.160266,
+    "lon": 3.482978,
+    "adresse": "Domaine de Bandinière, 18 Chemin de Vignole, 03300 Cusset",
+    "horaires": "Mercredi et vendredi de 9h à 12h et de 15h à 19h ; jeudi de 9h à 12h ; samedi de 9h à 13h (Carnet des producteurs locaux 2026 de Vichy Communauté).",
+    "produits": [
+      "Œufs plein air",
+      "Agneau en caissette ou au détail",
+      "Bœuf et veau en colis ou au détail",
+      "Fromages, yaourts et lait",
+      "Lentilles et farines",
+      "Escargots et saucissons de producteurs voisins"
+    ],
+    "description": "Magasin de la ferme d'un élevage de Cusset, qui vend la viande d'animaux nés et élevés sur l'exploitation et, en dépôt-vente, des produits d'autres producteurs locaux. Photo thématique : bocaux en préparation dans une conserverie bio de Cusset, publiée par celle-ci ; elle ne montre pas la ferme.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18+Chemin+de+Vignole+03300+Cusset",
+    "image_url": "/images/marchands/au-coeur-du-bon-cusset.jpg",
+    "a_confirmer": true
   }
 ]
