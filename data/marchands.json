@@ -22805,5 +22805,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Relais%20des%20Producteurs%2C%201%20Rue%20de%20la%20Mairie%2C%2085620%20Rocheservi%C3%A8re",
     "image_url": "/images/marchands/le-relais-des-producteurs-rocheserviere.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "au-garde-manger-sainte-foy-les-lyon",
+    "nom": "Au Garde Manger",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.741075,
+    "lon": 4.795116,
+    "adresse": "28 avenue du Général-de-Gaulle, 69110 Sainte-Foy-lès-Lyon",
+    "horaires": "Du mercredi au vendredi de 9h à 19h, le samedi de 9h à 18h ; fermé le dimanche, le lundi et le mardi, d'après le site du magasin (septembre 2026) et la vitrine.",
+    "produits": [
+      "Bœuf et veau",
+      "Volaille",
+      "Porc et charcuterie",
+      "Légumes et fruits",
+      "Œufs bio",
+      "Fromages de vache, de chèvre et de brebis",
+      "Pain et viennoiseries"
+    ],
+    "description": "Magasin de produits fermiers qui présente sur son site, ferme par ferme, les exploitations dont il vend la production : viandes, légumes, fruits, œufs et fromages. Photo : site du magasin.",
+    "telephone": "04 78 95 19 67",
+    "site_web": "https://www.augardemanger.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28%20avenue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2069110%20Sainte-Foy-l%C3%A8s-Lyon",
+    "image_url": "/images/marchands/au-garde-manger-sainte-foy-les-lyon.jpg"
+  },
+  {
+    "slug": "marche-de-la-graviere-sainte-foy-les-lyon",
+    "nom": "Marché de la Gravière",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.731602,
+    "lon": 4.781913,
+    "adresse": "Esplanade de Limburg, rue de Cuzieu, 69110 Sainte-Foy-lès-Lyon",
+    "horaires": "Le vendredi de 15h à 20h, d'après la page des marchés forains de la Ville (mise à jour le 3 avril 2025). L'office de tourisme de la Métropole, dans une fiche de 2018, indique encore 16h-19h.",
+    "produits": [
+      "Fruits de producteurs locaux",
+      "Légumes de producteurs locaux"
+    ],
+    "description": "Marché de fin d'après-midi que la Ville présente comme « exclusivement de producteurs locaux », rattaché à la charte des marchés de producteurs fermiers de Rhône-Alpes. L'office de tourisme le décrit comme un marché alimentaire de fruits et légumes. Photo : Ville de Sainte-Foy-lès-Lyon, recadrée.",
+    "telephone": "04 72 32 59 00",
+    "site_web": "https://saintefoyleslyon.fr/decouvrir-sainte-foy/vie-economique/marches-forains/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20Cuzieu%2C%2069110%20Sainte-Foy-l%C3%A8s-Lyon",
+    "image_url": "/images/marchands/marche-de-la-graviere-sainte-foy-les-lyon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "paniers-verts-francheville",
+    "nom": "Paniers verts du centre social de Francheville",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.738845,
+    "lon": 4.777172,
+    "adresse": "Centre social, 1 rue du Temps des Cerises, 69340 Francheville",
+    "horaires": "Distribution le jeudi de 16h45 à 18h15, hors vacances scolaires, d'après le centre social. Inscription à l'année, avec adhésion.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison"
+    ],
+    "description": "Paniers hebdomadaires de fruits et légumes de saison d'un producteur des monts du Lyonnais en agriculture raisonnée, remis chaque jeudi par des bénévoles au centre social. Le fonctionnement est proche d'une AMAP, catégorie retenue faute de mieux. Photo : centre social, un panier distribué.",
+    "telephone": "04 72 16 09 11",
+    "site_web": "https://csfrancheville.centres-sociaux.fr/paniers-verts/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20rue%20du%20Temps%20des%20Cerises%2C%2069340%20Francheville",
+    "image_url": "/images/marchands/paniers-verts-francheville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "paniers-d-irigny",
+    "nom": "Paniers d'Irigny",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.673118,
+    "lon": 4.812151,
+    "adresse": "Hangar des Bertières, route de Brignais, 69540 Irigny",
+    "horaires": "Distribution presque tous les mercredis de 19h30 à 20h30, d'après le site de l'AMAP (2026) et le réseau des AMAP d'Auvergne-Rhône-Alpes. Paniers réservés aux adhérents, par contrat.",
+    "produits": [
+      "Légumes bio",
+      "Fruits",
+      "Pain et farine bio",
+      "Fromages, œufs et charcuterie bio",
+      "Agrumes bio",
+      "Poisson",
+      "Volaille",
+      "Châtaignes (commandes groupées)"
+    ],
+    "description": "AMAP qui distribue au hangar des Bertières les produits de ses paysans sous contrat, et organise en plus des commandes groupées ponctuelles (viande, miel, vin, châtaignes). Le point de la carte est celui de la route de Brignais ; le hangar se trouve au lieu-dit, à quelques centaines de mètres. Photo : site de l'AMAP, châtaignes d'une commande groupée.",
+    "site_web": "https://paniersirigny.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Route%20de%20Brignais%2C%2069540%20Irigny",
+    "image_url": "/images/marchands/paniers-d-irigny.jpg",
+    "a_confirmer": true
   }
 ]

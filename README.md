@@ -4227,9 +4227,47 @@ prioritaires en cas de conflit.
      l'éditeur lui-même, reste sous la règle 306. **Déblocage** : une permission écrite sur le site, ou la même photographie
      publiée sans réserve par le commerce lui-même.
 
+342. **Un équipement public qui porte le nom d'une personne s'écrit sans ce nom.** Les paniers de Francheville sont remis au
+     centre social de la commune, dont l'intitulé officiel est formé du prénom et du nom d'une personne ; la page du centre
+     social nomme aussi, en toutes lettres, le producteur en entreprise individuelle qui fournit les paniers. La règle 259
+     n'exempte que les noms de lieu, de saint ou de rue et la marque d'une maison historique ; un équipement de quartier baptisé
+     d'après une personne n'en fait pas partie, et le doute joue contre la publication. **Tranché ainsi** : la fiche désigne
+     l'équipement par sa fonction et son adresse (« Centre social, 1 rue du Temps des Cerises ») et le producteur par sa
+     situation (« un producteur des monts du Lyonnais ») ; le reste de la fiche part. Aucun des deux noms n'est écrit, ni dans
+     la fiche ni ici.
+
+343. **Un hébergeur d'images dont le `robots.txt` répond 404 n'exclut personne ; seul le 403 le rend illisible (règle 256).**
+     La photographie de vitrine du magasin de producteurs de Sainte-Foy-lès-Lyon est servie par le réseau de diffusion de son
+     éditeur de site (`le-cdn.website-editor.net`) ; l'adresse `/robots.txt` de ce domaine rend le code 404, avec le corps
+     « AccessDenied » d'un stockage en nuage. La règle 256 refuse l'image quand la volonté de l'hébergeur ne se lit pas (403) ;
+     la passe de Cluses avait déjà lu un 404 d'hébergeur comme l'absence de toute exclusion. **Tranché ainsi** : c'est le code de
+     réponse qui compte, pas le corps. Un 404 dit qu'il n'existe pas de fichier d'exclusion, ce qui, par la convention du
+     protocole, n'exclut personne ; un 401 ou un 403 dit qu'un fichier peut exister et qu'on ne peut pas le lire, et relève de la
+     règle 256. L'image est téléchargée pendant la passe : son adresse signée expire (règle 235 pour le réencodage).
+
 ## Marchands à confirmer
 
-760 fiches sur 857 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+763 fiches sur 861 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la Gravière** (Sainte-Foy-lès-Lyon) (seconde fiche entière de la règle 127 ; `marche`, piliers des marchés.
+  **Horaires, règle 5** : vendredi 15h-20h à la page des marchés forains de la Ville (mise à jour le 3 avril 2025), 16h-19h à
+  la fiche de l'office de la Métropole (2018) ; la valeur la plus récente est publiée, l'autre est citée. **Produits, règle 197** :
+  la fiche propre de l'office nomme « fruits, légumes » pour ce marché ; la Ville le dit « exclusivement de producteurs
+  locaux ». Aucune autre famille n'est publiée, même si une bannière d'étal en montre une. **Point** : la Base ne connaît pas
+  l'esplanade de Limburg ; le point est celui de la rue de Cuzieu (0,96), adresse de l'office. **Image** : photographie de la
+  Ville (mentions générales sur « les contenus », sans image nommée, règle 231 ; crédit « Photographies : Ville » sans « © »,
+  règle 291 ; `robots.txt` ouvert), recadrée sous les têtes des deux vendeurs et hors d'une bannière qui porte un portable, 925 px)
+- **Paniers verts du centre social de Francheville** (Francheville) (troisième point, à 1,3 km du centre de Sainte-Foy,
+  Métropole de Lyon, règle 96 ; `amap` au titre de la règle 4. **Faits** : page du centre social (modifiée en août 2025) et
+  fiche de mission de la mairie de Francheville (2023) ; le guide bio-local de 2024 donne un autre jour et un autre lieu,
+  antérieurs, non retenus. **Produits** : « fruits et légumes de saison », sans détail écrit. **Personnes, règle 342** : ni
+  le nom de l'équipement ni celui du producteur ne sont écrits. **Image** : panier photographié par le centre social, site
+  sans mentions légales, `robots.txt` ouvert aux agents d'IA, 810 px)
+- **Paniers d'Irigny** (Irigny) (quatrième point, à 7,2 km du centre de Sainte-Foy, Métropole de Lyon ; `amap`. **Faits** :
+  site de l'AMAP (accueil, « récupérer », contact, 2026) et données du réseau des AMAP d'Auvergne-Rhône-Alpes, même créneau.
+  **Point** : la Base ne rend le lieu-dit du hangar qu'à 0,55 ; le point est celui de la route de Brignais (0,96), à environ
+  250 m de l'épingle du réseau, d'où `a_confirmer`. **Image** : châtaignes et bocaux publiés par l'AMAP sur la page d'une
+  commande groupée, sans crédit ni personne ; pied de page « All rights reserved » qui ne nomme aucune image (règle 231),
+  `robots.txt` ouvert. Les autres fichiers du site sont crédités, viennent d'une banque d'images ou montrent des visages)
 - **À la ferme du Pay** (Montréverd) (commune calculée de la Vendée ; `ferme`. **Faits** : page « Vente directe » du site de la
   ferme (vendredi 9h-19h, samedi 9h-12h30, libre-service œufs et pommes de terre 8h30-18h30) ; le guide 2025 des producteurs de
   Terres de Montaigu écrit 19h30 le vendredi (règle 5, les deux valeurs publiées, d'où `a_confirmer`). **Règle 6** : GAEC actif
@@ -11444,6 +11482,115 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente-neuvième de la nuit) : Sainte-Foy-lès-Lyon (Rhône), quatre fiches ; Calvados sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, sur 857 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé depuis la passe précédente (Oise 6,3146, Val-d'Oise 5,9294, Landes 5,3887,
+Eure-et-Loir 5,3833, Lot-et-Garonne 4,1463, Loir-et-Cher 4,0834 et Aube 3,8585, épuisés, règle 265 ; **Calvados (14) 3,8175**,
+**Rhône (69) 3,7969**). La dernière passe publiée visait les Pays de la Loire : Normandie et Auvergne-Rhône-Alpes ouvertes.
+Après la passe, sur 861 fiches : Oise 6,3628, Val-d'Oise 6,0037, Landes 5,4139, Eure-et-Loir 5,4084, Lot-et-Garonne 4,1656,
+Loir-et-Cher 4,1024, Aube 3,8765, **Calvados 3,8586**, Pyrénées-Atlantiques 3,8227, Mayenne 3,8143 ; le Rhône tombe à
+**−0,0920**. La prochaine passe ne peut pas viser l'Auvergne-Rhône-Alpes (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne (règles 297, 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent aucune
+connexion (délai dépassé). Le groupe reste à trois points relus ; **déblocage** inchangé.
+
+**Calvados : douze communes, des Monts d'Aunay (24e) à Thury-Harcourt-le-Hom (35e), aucune zone (règles 127 et 247).** Même
+constat que les deux passes précédentes : les Villes et les offices ferment leurs photographies, et les producteurs qui vendent
+à la ferme sont souvent inscrits en nom propre.
+
+1. **Les Monts d'Aunay** (4 777) — marché du samedi, heures publiées par une application seulement (règle 340) ; la Ville
+   réserve les « images animées ou non ». **Zéro.**
+2. **Trouville-sur-Mer** (4 619) — halle aux poissons, marché du mercredi et du dimanche, marché des pêcheurs du samedi : faits
+   entiers, mais l'office crédite ses photographies à un photographe ou « © DR » et la Ville réserve « photos et visuels ».
+   Trois poissonneries : enseignes formées d'un prénom ou d'un patronyme, ou sans site. **Zéro.**
+3. **Saint-Martin-de-May** (4 529) — commune nouvelle de 2025 ; deux marchés cités par la communauté de communes seule, sans
+   produits ni image. **Zéro.**
+4. **Bretteville-sur-Odon** (4 494) — un magasin de producteurs actif, heures publiées, mais ses mentions réservent les
+   « images animées ou non » ; aucun marché. **Zéro.**
+5. **Courseulles-sur-Mer** (4 268) — marché aux poissons documenté par l'office Cœur de Nacre ; la Ville et l'office nomment les
+   images dans leur interdiction ; ostréiculteurs et poissonniers inscrits sous un patronyme. **Zéro.**
+6. **Noues de Sienne** (4 207) — **deux fiches entières, trois points : voir ci-dessous.**
+7. **Verson** (4 059) — marché du jeudi sans composition (règle 197). **Zéro.**
+8. **Argences** (3 959) — marché du jeudi sans lieu ni composition. **Zéro.**
+9. **Touques** (3 913) — **une fiche entière** : le magasin du réseau Biocoop « Le 21 » (société active, horaires jour par jour,
+   cinquante-trois producteurs locaux nommés sur son site, façade de 760 px sans clause ni exclusion ; la Base ne connaît pas
+   sa rue, le point serait celui du registre, règle 64). Le marché de la place Lemercier (jeudi et samedi 9h-13h, métiers
+   nommés) n'a aucune image permise : l'office Indeauville limite la reproduction à l'usage privé, la Ville pose « © » sous ses
+   crédits photographiques, le comité régional exclut les agents d'IA. **Une seule fiche, règle 127.**
+10. **Biéville-Beuville** (3 840) — une ferme-magasin aux mentions qui nomment les images ; une association d'éco-domaine dont le
+    domaine a été racheté par un site de casino (règle 56 : ne jamais l'inscrire). **Zéro.**
+11. **Cabourg** (3 725) — halles et marché publiés sans heures (« le matin »), produits génériques, photographies créditées à
+    une agence. **Zéro.**
+12. **Thury-Harcourt-le-Hom** (3 600) — marché du mardi sans heures ; fromagerie à raison sociale patronymique ; AMAP arrêtée
+    en 2022. **Zéro.**
+
+**Noues de Sienne : trois points, pas quatre (règles 127, 258 et 320).** Deux fiches entières dans la commune :
+- **Marché de Saint-Sever-Calvados** — `marche` ; samedi 8h-12h30, fruits, légumes, volailles, poisson (page de la commune
+  modifiée le 21 septembre 2024) ; place de la Mairie (0,95) ; photographie de la place de 4 032 px, sans crédit, mentions qui ne
+  réservent que le contenu rédactionnel, `robots.txt` ouvert ; passants lointains, à réduire.
+- **ESAT Le Bellaie** (Mesnil-Clinchamps) — `producteur`, maraîchage biologique d'un établissement d'aide par le travail ;
+  lundi-vendredi 9h-12h et 13h-16h (page des tarifs 2026 du pôle ; l'annuaire de la Ville donne 8h45-12h et 13h-16h30 sans date,
+  règle 5) ; établissement actif d'une association ; serres de 4 624 px sans personne, site sans clause sur les images.
+Troisième point : l'**EARL des 4 saisons** (La Graverie, Souleuvre en Bocage), déjà désignée, à 13,4 km du centre de Noues de
+Sienne. La Bergerie de la Souleuvre (17,1 km) et le GAEC de Montchauvet (24,9 km) sont au-delà de la borne de la règle 96 ;
+à l'inverse, les deux fiches de Noues de Sienne sont à 16,7 et 19,6 km du centre de Souleuvre et ne complètent pas son groupe.
+À Vire Normandie, le magasin associatif de producteurs et une laiterie fermière n'ont aucune image permise (office qui interdit
+la reproduction ; annuaire départemental qui exclut l'iconographie). **Désignés pour la reprise** : marché de Saint-Sever et
+ESAT Le Bellaie (entiers), avec l'EARL des 4 saisons. **Déblocage** : un quatrième point entier à moins de quinze kilomètres
+du centre de Noues de Sienne dans l'Intercom de la Vire au Noireau — une image permise pour l'un des points de Vire Normandie.
+
+**Rhône, second département (règle 248)** :
+
+1. **Tassin-la-Demi-Lune** (23 200) — trois marchés publiés par la Ville, dont celui d'Alaï avec ses produits (guide bio-local
+   2024), mais les mentions légales nomment les « images » (règle 231) et l'office n'a pas de photographie ; le magasin du réseau
+   Biocoop est tenu par une société à raison sociale patronymique et ses conditions nomment les photographies ; l'autre magasin
+   bio ne publie aucun producteur (règle 86) ; aucune AMAP au réseau régional. **Zéro.**
+2. **Sainte-Foy-lès-Lyon** (21 692) — **fait la passe, à quatre points (règle 320).** Deux fiches entières dans la commune :
+   - **Au Garde Manger** — magasin de produits fermiers, `producteur` comme les magasins de producteurs déjà publiés ; société
+     active à son adresse (règle 6) ; horaires et fixe du site et de la vitrine ; producteurs présentés un par un (aucun nom
+     repris) ; photographie de vitrine sans personne, site sans clause, hébergeur au `robots.txt` en 404 (**règle 343,
+     nouvelle**). Le guide bio-local de 2024 donne d'autres heures, plus anciennes : le site fait foi.
+   - **Marché de la Gravière** — voir « Marchands à confirmer ».
+   Complément dans la Métropole de Lyon (règle 96) : les **Paniers verts** du centre social de Francheville (1,3 km ; **règle
+   342, nouvelle**) et l'AMAP **Paniers d'Irigny** (7,2 km). **Le cinquième manque** : le marché du Centre de Sainte-Foy n'a que
+   des photographies avec des visages, le marché des Provinces aucune composition publiée ; Craponne, Écully, La Mulatière,
+   Francheville et Saint-Genis-Laval ferment les photographies de leurs marchés ; un magasin de producteurs de Lyon 7e a des
+   mentions qui nomment les photos ; les AMAP hébergées par le réseau régional partagent un gabarit dont les mentions nomment les
+   images ; l'AMAP d'Oullins est déjà publiée. **Déblocage** : une photographie permise du marché des Provinces ou du marché du
+   Centre avec sa composition publiée par la Ville.
+
+**Contradictions** : Gravière, 15h-20h (Ville, 2025) contre 16h-19h (office, 2018), la plus récente publiée (règle 5) ; Paniers
+verts, jour et lieu du guide de 2024 écartés au profit du centre social ; ESAT Le Bellaie, deux horaires (non publié) ; Trouville,
+marché du mercredi et du dimanche à 8h (office) ou 8h30 (affiche de la Ville), non publié ; à Vire, 2 ou 28 rue de la Monderie
+pour le magasin associatif (non publié).
+
+**Domaines rachetés, à ne jamais inscrire (règle 56)** : celui de l'association d'éco-domaine de Biéville-Beuville (casino en
+ligne) et celui d'une chèvrerie de la côte (contenu sans rapport sur Cabourg).
+
+**Fiches écartées pour doute sur une personne** : dans le Calvados, trois poissonneries de Trouville-sur-Mer, deux
+ostréiculteurs et des poissonniers de Courseulles-sur-Mer, une ferme et une cidrerie de Noues de Sienne, une ferme de Varaville,
+une fromagerie et un élevage de Thury-Harcourt-le-Hom ; dans le Rhône, le magasin bio de Tassin et celui de Craponne (société à
+raison sociale patronymique), une ferme de Tassin. Aucun nom n'est écrit.
+
+**Points d'arrêt** : la prochaine passe dans le **Calvados** reprend d'abord les groupes de Souleuvre et de Noues de Sienne et
+la fiche entière de Touques, puis la descente à **Isigny-sur-Mer** (3 543). Dans le **Rhône**, Sainte-Foy-lès-Lyon a ses fiches ;
+la descente reprendrait à **Givors** (21 379).
+
+**Pistes non publiées (Calvados et Rhône)** — lignes anonymes :
+
+- Trouville-sur-Mer, halle aux poissons et deux marchés : faits entiers, images réservées par l'office et la Ville.
+- Courseulles-sur-Mer, marché aux poissons : faits entiers, images interdites par la Ville et l'office.
+- Bretteville-sur-Odon, magasin de producteurs : faits entiers, images réservées par ses mentions.
+- Touques, magasin du réseau Biocoop « Le 21 » : fiche entière, seule dans sa commune (règle 127) ; désignée pour la reprise.
+- Touques, marché de la place Lemercier : faits entiers, aucune image permise.
+- Noues de Sienne, marché de Saint-Sever et ESAT Le Bellaie : entiers, désignés pour la reprise.
+- Vire Normandie, magasin associatif de producteurs et laiterie fermière : faits entiers ou presque, aucune image permise.
+- Tassin-la-Demi-Lune, marché d'Alaï : faits entiers, images interdites par la Ville.
+- Sainte-Foy-lès-Lyon, marché des Provinces : composition non publiée (règle 197) ; marché du Centre : photographies avec
+  visages.
 
 ### Passe du 25 septembre 2026 (trente-huitième de la nuit) : Landes (reprise), Calvados et Rhône, aucune publication
 
