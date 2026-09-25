@@ -4159,6 +4159,39 @@ prioritaires en cas de conflit.
      éditeur) ; un domaine homonyme qui répond ne relit aucun point. Le groupe de Labenne reste à trois points ; son
      **déblocage** reste le retour de `seignosse.fr`.
 
+336. **Une permission de reprise réservée au cas où « un bouton partage » l'autorise n'ouvre pas les photographies d'une
+     page qui n'offre que le partage de son lien.** Les mentions légales de la Ville de Laval disent que ses photographies « ne
+     peuvent être reproduites qu'avec l'autorisation écrite de la Direction Communication de Laval sauf si un bouton "partage"
+     en autorise la rediffusion ou l'intégration ». Les pages des marchés portent des boutons de partage vers des réseaux
+     sociaux et le courriel : ils diffusent l'adresse de la page, aucun ne propose l'image elle-même ni une licence. **Tranché
+     ainsi** : c'est la règle 231 — la clause nomme les photographies et les soumet à autorisation ; l'exception ne joue que
+     pour un bouton attaché à l'image (téléchargement, intégration, licence affichée), jamais pour le partage d'une page. Les
+     marchés de Laval gardent leurs faits entiers et attendent une image. **Déblocage** : une photographie de ces marchés
+     publiée par une source sans clause fermante, ou par un exposant au sens de la règle 286.
+
+337. **Dans un annuaire associatif qui illustre certaines de ses fiches par des images de banque, une photographie qui ne se
+     retrouve ni chez le commerce ni chez l'annuaire comme œuvre propre n'est pas une photographie reprenable.** L'annuaire
+     des produits bio du Civam Bio 53 n'a aucune clause sur les images et son `robots.txt` n'exclut que les robots d'images de
+     Google ; il illustre la fiche du marché de Laval d'une photographie qui ne montre pas ce marché et a tout d'une image de
+     banque (paniers d'osier de radis sur nappe orange, sans aucun repère lavallois), et les fiches des magasins Biocoop de Laval de vues de façade en 1600 × 900 qui ne figurent pas parmi les
+     photographies professionnelles que la coopérative publie de ses propres magasins, et qui ont le cadrage et la compression
+     des photographies versées par des particuliers sur les services de cartographie. La règle 254 fait lire une photographie
+     sous le régime de l'éditeur qui la diffuse quand l'intéressé la lui a **fournie** ; la règle 250 ferme celles qui
+     appartiennent à un service de cartographie ; la règle 70 ferme les images de banque. **Tranché ainsi** : une image
+     d'annuaire tiers n'est reprenable que si l'on peut la rattacher à l'annuaire (crédit, reportage signé, série homogène) ou
+     au commerce (même fichier ou même prise de vue sur son site) ; quand l'annuaire se sert ailleurs de banques d'images et
+     que rien ne rattache la photographie, ou quand il illustre un lieu d'une image qui ne le montre pas, le doute sur
+     son origine la ferme, comme le doute sur une personne ferme une fiche.
+     L'annuaire reste une bonne source pour trouver les points et lire leurs produits.
+
+338. **Une date de modification que l'éditeur régénère chaque nuit n'est pas une date de contenu.** Toutes les fiches de
+     l'annuaire du Civam Bio 53 portent un `dateModified` de la veille ou de l'avant-veille, à 23 h 01 min 2x s : c'est la
+     synchronisation automatique de la base, pas une relecture. La règle 195 demande, pour une AMAP, une source de moins de
+     douze mois qui atteste la distribution. **Tranché ainsi** : un horodatage identique à la seconde près sur toutes les
+     fiches d'un annuaire, ou reproduit chaque nuit, ne date rien ; seule vaut une date que le texte porte (saison, année,
+     événement à venir, règle 218) ou que l'intéressé publie lui-même. Les AMAP de Laval et l'AMAPotée de Château-Gontier
+     restent donc sans source datée, leurs blogs refusant l'agent nommé (règle 280).
+
 ## Marchands à confirmer
 
 756 fiches sur 852 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11356,6 +11389,118 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente-troisième de la nuit) : Aube épuisée, Vendée et Mayenne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 852 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,2544, Val-d'Oise 5,8364, Landes 5,3573, Eure-et-Loir 5,3519, Lot-et-Garonne 4,1221
+et Loir-et-Cher 4,0596 (épuisés, règle 265), **Aube (10) 3,8360**, **Vendée (85) 3,8175**, **Mayenne (53) 3,7744**, Calvados
+3,7660. La dernière passe publiée visait la Bretagne : Grand Est et Pays de la Loire sont ouverts (règle 41.c). `origin/main`
+n'a pas bougé entre le calcul et la publication (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent toujours
+aucune connexion, aux deux agents. Le groupe reste à trois points ; il ne se publie pas.
+
+**Aube : deux communes, puis épuisée (règles 288, 265 et 267).** Bar-sur-Seine, réessayée en une requête, sert de nouveau la
+page « Ce site est en maintenance » (503, les deux agents) : elle sort de la descente sans entamer la borne (règles 288 et 290).
+
+1. **Mailly-le-Camp** (2 015) — `maillylecamp.fr` ouvert aux deux agents ; son plan du site ne compte ni marché hebdomadaire
+   ni page de commerce (seulement un marché nocturne et un marché de Noël, événements) ; aucun opérateur au registre de
+   l'Agence Bio. **Zéro.**
+2. **Creney-près-Troyes** (2 013) — `creney.fr` ouvert, sans page de commerce ni de marché ; au registre bio, un supermarché
+   et un restaurant. **Zéro.**
+
+La commune suivante, Verrières, compte 1 923 habitants : **l'Aube est épuisée** au sens de la règle 265. Elle reste dans le
+calcul des parts. Le reste de la borne (dix communes) va à la Vendée (règle 267), et les deux communes de la règle 248 à la
+Mayenne.
+
+**Vendée : dix communes, de la 4e à la 13e, aucune zone (règles 127 et 247).** Vendée Tourisme refuse tout agent (passe
+précédente) ; l'office Vendée Bocage (`vendeebocage.fr`) répond 403 à l'agent nommé (règle 257).
+
+1. **Montaigu-Vendée** (21 134) — La Ville (`montaigu-vendee.com`, éditée pour Terres de Montaigu) publie ses marchés avec
+   jours, heures et familles d'étals : **faits entiers** pour le marché du samedi place de l'Hôtel-de-Ville (8h-12h30) et
+   celui du vendredi place Centrale de Saint-Hilaire-de-Loulay (8h30-12h30). Mais la Ville et l'agglomération nomment les
+   images dans leur interdiction (règle 231). Les deux magasins Biocoop de la commune ont un site vivant (heures, adresses),
+   dont les conditions d'utilisation nomment les photographies (règle 245) : faits seulement. Écartés : une pépinière de
+   plants et de semences (hors du sujet alimentaire), une boucherie dont la seule page est un annuaire professionnel sans
+   heures. **Zéro.**
+2. **Les Herbiers** (16 521) — La Ville publie le **marché couvert Saint-Pierre** (mercredi et samedi 7h45-12h30, fruits et
+   légumes, poisson, fromages, boulangerie, rôtisserie) mais nomme les photographies dans son interdiction. Une ferme
+   maraîchère (vente à la ferme mardi et vendredi 16h30-19h) n'illustre son site que d'images de banque, dont une prise dans
+   une ferme étrangère (règle 70). Une ferme-glacerie ne publie pas de vente à la ferme. **Zéro.**
+3. **Fontenay-le-Comte** (14 059) — La Ville répond 403 à l'agent nommé (règle 257) ; les maraîchers certifiés n'ont pas de
+   site. **Zéro.**
+4. **Saint-Hilaire-de-Riez** (13 074) — La Ville coupe la connexion à l'agent nommé (444, règle 257). **Une fiche entière**,
+   la **ferme maraîchère biologique de l'avenue des Sauges** : magasin dans la grange le mardi 17h-19h et le samedi 10h-12h (site
+   vivant, sans clause sur les images), certification engagée, photographie de l'étal recadrable sous le visage (1 024 px).
+   Aucune seconde fiche dans la commune (un fournil qui vend sur commande seulement). **Zéro zone.**
+5. **Aizenay** (10 365) — La Ville publie le **marché du dimanche** (8h30-13h, places de l'Église et de l'aire Buron, étals
+   nommés) mais ferme ses images. La boutique du jardin d'insertion biologique, aux Ercies (lundi 14h-17h, mercredi et
+   vendredi 10h-18h30), n'est pas instruite plus loin, faute de seconde fiche possible. **Zéro.**
+6. **Luçon** (9 417) — La Ville coupe la connexion à l'agent nommé (444, règle 257). **Zéro.**
+7. **Saint-Jean-de-Monts** (8 868) — La Ville publie ses marchés, sans famille d'étals pour le marché couvert (règle 197), et
+   réserve ses « ressources photographiques » à sa demande préalable ; l'office intercommunal répond 403 à l'agent nommé.
+   **Zéro.**
+8. **Le Poiré-sur-Vie** (8 649) — La Ville ferme ses images ; son marché du jeudi n'est décrit que par une liste d'étals
+   nominatifs. Une ferme biologique vend à la ferme, sur commande, le mardi et le vendredi 16h30-19h : seule candidate de la
+   commune. **Zéro.**
+9. **Chantonnay** (8 557) — La Ville coupe la connexion à l'agent nommé (444). La ferme productrice d'huiles de la commune
+   est écartée pour doute sur une personne (voir plus bas). **Zéro.**
+10. **Talmont-Saint-Hilaire** (8 492) — La Ville publie son **marché couvert** (mardi, jeudi et samedi 8h-13h30, place du
+    Payré ; fromager, boucher-éleveur, boulanger, poissonnier, biscuitier, primeur, apiculteur, ostréiculteur, caviste) mais
+    nomme les images dans son interdiction et réserve la copie à l'usage privé. Le site d'un maraîcher biologique coupe la
+    connexion à l'agent nommé. **Zéro.**
+
+**Point d'arrêt** : Talmont-Saint-Hilaire. La prochaine passe dans la Vendée reprend à **Saint-Gilles-Croix-de-Vie** (8 333).
+Aucune fiche n'est désignée pour la reprise : la ferme de l'avenue des Sauges est entière mais seule dans sa commune.
+
+**Mayenne : deux communes (règle 248).**
+
+- **Laval** (49 400) — La Ville publie cinq pages de marchés, toutes lisibles aux deux agents : **faits entiers** pour le
+  marché central (mardi et samedi 8h-13h30 ; le mardi, esplanade du Château-Neuf, marché alimentaire décrit étal par étal),
+  le marché de la Gare (vendredi 16h-19h), celui du Bourny (mercredi 16h-19h) et celui de Murat (vendredi 8h-13h). Ses
+  mentions légales soumettent les photographies à autorisation écrite, sauf « bouton partage » : **règle 336 (nouvelle)**,
+  les images restent fermées. L'office de tourisme de Laval Agglomération écrit que ses photos « ne sont pas libres de droit »
+  et interdit la représentation du site ; Destination Mayenne répond 403 à l'agent nommé. Les deux Biocoop de la ville ont
+  des faits entiers (site de la coopérative, annuaire du Civam Bio 53), mais la coopérative nomme les photographies dans ses
+  conditions d'utilisation (règle 245), et les vues de façade de l'annuaire du Civam ne se rattachent à personne : **règle 337
+  (nouvelle)**. Les deux AMAP de la ville n'ont pas de source datée : **règle 338 (nouvelle)**. Une ferme d'ânesses vend des
+  cosmétiques et de la laine, hors du sujet. **Zéro.**
+- **Château-Gontier-sur-Mayenne** (16 584) — La Ville (`chateaugontier.fr`, redirigée vers `paysdechateaugontier.fr`) répond
+  403 à l'agent nommé (règle 257) : le marché du jeudi ne se publie pas (règle 196). La **boutique paysanne associative du
+  Potager, à Azé**, a un site ouvert, mais elle serait seule : la Biocoop d'Azé relève des règles 245 et 337, le site du
+  maraîcher qui l'accueille et le blog de l'AMAP de la ville répondent 429 au seul agent nommé (règle 280). **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).** Classement inchangé (règle 260).
+L'Aube étant épuisée, la prochaine passe prend la **Vendée** en tête (3,8175, reprise à Saint-Gilles-Croix-de-Vie) et la
+**Mayenne** en second (3,7744, reprise à Mayenne, 12 883 habitants, puis Évron).
+
+**Contradictions** : aucune. **Au passage** : le site d'un hebdomadaire départemental, ouvert en cherchant l'historique d'une
+AMAP, nomme `ClaudeBot` dans son `robots.txt` ; la page (un article de 2017) a été servie avant que le fichier ne soit lu,
+et rien n'en est repris (règle 77).
+
+**Pistes non publiées (Vendée et Mayenne)** — lignes anonymes :
+
+- Montaigu-Vendée, marchés du samedi (Montaigu) et du vendredi (Saint-Hilaire-de-Loulay) : faits entiers, images fermées (règle 231).
+- Montaigu-Vendée, deux magasins Biocoop : faits entiers, images fermées (règle 245).
+- Les Herbiers, marché couvert Saint-Pierre : faits entiers, images fermées (règle 231).
+- Les Herbiers, ferme maraîchère de la Basse Martinière : faits entiers, images de banque seulement (règle 70).
+- Saint-Hilaire-de-Riez, ferme maraîchère biologique de l'avenue des Sauges : fiche entière, seule dans sa commune.
+- Aizenay, marché du dimanche : faits entiers, images fermées ; boutique du jardin d'insertion des Ercies : non instruite à fond.
+- Le Poiré-sur-Vie, ferme biologique de Bellenoue : faits vérifiés, image non instruite, seule candidate.
+- Talmont-Saint-Hilaire, marché couvert de la place du Payré : faits entiers, images fermées (règle 231).
+- Laval, marché central, marchés de la Gare, du Bourny et de Murat : faits entiers, images fermées (règle 336).
+- Laval, Biocoop Laval Est et Laval Ouest : faits entiers, images fermées (règles 245 et 337).
+- Laval, deux AMAP : aucune source datée (règle 338).
+- Château-Gontier-sur-Mayenne, boutique paysanne du Potager (Azé) : site ouvert, seule fiche possible de la commune.
+
+**Fiches écartées pour doute sur une personne** : à Chantonnay, une ferme dont l'enseigne peut être un prénom ; dans les dix
+communes vendéennes et à Laval, des producteurs inscrits au registre bio sous le nom de leurs exploitants. **Données
+personnelles écartées** : noms de dirigeants et de directeurs de publication lus dans les mentions légales (Laval, Talmont,
+Saint-Jean-de-Monts, office de Laval), prénoms et portables d'associés lus sur les sites de fermes (Saint-Hilaire-de-Riez, Les
+Herbiers, Azé), noms d'exposants des halles de Laval et du marché du Poiré-sur-Vie, nom d'un gérant dans un annuaire de
+bouchers. Rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (trente-deuxième de la nuit) : Aube et Vendée, aucune publication
 
