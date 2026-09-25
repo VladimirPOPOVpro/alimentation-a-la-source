@@ -11522,6 +11522,89 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 25 septembre 2026 (quarante et unième de la nuit) : Calvados et Mayenne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,4109, Val-d'Oise 6,0781, Landes 5,4390, Eure-et-Loir 5,4335, Lot-et-Garonne 4,1850,
+Loir-et-Cher 4,1215 (épuisés, règle 265) ; **Calvados (14) 3,8998** ; Aube 3,8945 (épuisée) ; **Mayenne (53) 3,8320** ; Cher
+3,7466. La dernière passe publiée visait la Nouvelle-Aquitaine : Normandie et Pays de la Loire ouverts. `origin/main` n'a pas
+bougé entre le calcul et la publication (règle 241). Classement inchangé après la passe (règle 260).
+
+**Contrôle de tête : le groupe de Labenne (règles 266, 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent aucune
+connexion. Le groupe reste à trois points ; de toute façon, la passe précédente ayant visé la Nouvelle-Aquitaine, il ne pouvait
+pas être publié ici (règle 266).
+
+**Calvados : reprises, puis douze communes, de Louvigny (50e) à Bernières-sur-Mer (61e), aucune zone (règles 127, 247 et 258).**
+Les groupes de Souleuvre en Bocage et de Noues de Sienne et la fiche entière de Touques restent en l'état de la passe
+précédente, relue dans la même nuit : leurs déblocages nommés (une image permise à Vire Normandie, un second point entier à
+Touques) dépendent de sources qui les fermaient quelques heures plus tôt, et aucune source nouvelle n'a été trouvée. Registre
+de l'Agence Bio relu (1 364 opérateurs) ; sites des Villes pris dans l'annuaire de l'administration (règle 327), tous
+joignables par l'agent nommé.
+
+1. **Louvigny** (2 612) — marché du samedi 8h-13h, place du Marché, cinq étals nommés par la Ville (primeur, poissonnier,
+   fromager, crèmerie, vrac) ; la Ville réserve les « images animées ou non » et interdit toute reproduction électronique. Au
+   registre bio, des boulangeries et une jardinerie au certificat arrêté. **Zéro.**
+2. **Colleville-Montgomery** (2 586) — gabarit « représentations iconographiques et photographiques » (règle 246), aucun marché
+   publié. **Zéro.**
+3. **Rots** (2 544) — la cidrerie de la ferme de Billy est active au registre et engagée au registre bio, avec boutique ; mais
+   ses deux sites (ferme et boutique en ligne) interdisent la reproduction des « photographies », et la Ville sert le gabarit de
+   la règle 246. **Zéro.**
+4. **La Rivière-Saint-Sauveur** (2 527) — marché du jeudi annoncé par la Ville, dont les mentions réservent le site à l'usage
+   personnel (règle 296). **Zéro.**
+5. **Val d'Arry** (2 496) — la Ville réserve la reproduction à l'usage privé ; un maraîcher en nom propre et un paysan-boulanger
+   de passage le lundi, sans image. **Zéro.**
+6. **Lion-sur-Mer** (2 486) — photographies réservées à l'usage privé du copiste ; le seul maraîcher cité a une enseigne
+   patronymique. **Zéro.**
+7. **Saint-Germain-la-Blanche-Herbe** (2 482) — défi anti-robot pour un agent générique, pages servies à l'agent nommé (règle
+   284) ; le site ne publie ni marché ni commerce. **Zéro.**
+8. **Saint-Contest** (2 465) — droits réservés « y compris [pour] les représentations iconographiques et photographiques » ; la
+   page du marché ne donne qu'une adresse de messagerie personnelle. **Zéro.**
+9. **Saint-Vigor-le-Grand** (2 443) — mentions qui nomment les images ; le magasin du réseau Biocoop dépend de `biocoop.fr`, qui
+   refuse l'agent nommé (403 contre 200, règle 257) ; un maraîcher en nom propre. **Zéro.**
+10. **Villers-sur-Mer** (2 440) — marchés du mardi et du vendredi et marché bio et local du dimanche, sans heures ; la seule
+    photographie porte le crédit d'un photographe et les mentions nomment les images. **Zéro.**
+11. **Valorbiquet** (2 439) — images de la Ville réservées ; distillerie dont l'enseigne est un nom de personne, producteurs en
+    nom propre. **Zéro.**
+12. **Bernières-sur-Mer** (2 437) — mentions qui nomment les images ; annuaire des commerces sans producteur. **Zéro.**
+
+**Mayenne, second département (règle 248)** :
+
+1. **Bonchamp-lès-Laval** (6 302) — faits abondants, aucune image permise. La Ville publie le marché du jeudi (15h30-19h, place
+   de Diedorf : fruits et légumes, poissonnier local, fromager, volailles et lait, vrac) et celui du dimanche matin, mais ses
+   mentions nomment les images. Le marché de producteurs de l'association **Le Court Circuit**, le vendredi soir à la ferme des
+   Épiés (chemin du Préfet), a des faits entiers sur le site de l'association, sans clause sur les images ; ses photographies
+   sont servies par le réseau de diffusion du prestataire, dont le `robots.txt` interdit tout sauf des icônes (règle 238). La
+   fromagerie de la ferme, au même point (règle 7), n'a qu'un site ancien aux images de 500 px (règle 59). **Zéro.**
+2. **Ernée** (5 499) — les mentions de la Ville ne nomment pas les images (règle 231), mais la page du marché du mardi (9h-12h30)
+   date sa composition de 2018 et mêle habillement et alimentation ; le magasin du réseau Biocoop dépend de `biocoop.fr` (règle
+   257) et ne publie aucune liste de producteurs (règle 86). **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : marché du Court Circuit, 17h-19h (site de l'association, planning de septembre 2026) ou 17h30-19h30 (Ville
+et site de la ferme) ; non publié.
+
+**Domaines morts ou rachetés** : aucun vu.
+
+**Fiches écartées pour doute sur une personne** : dans le Calvados, un maraîcher à Lion-sur-Mer, un maraîcher à Val d'Arry, un à
+Saint-Vigor-le-Grand, une distillerie et deux producteurs à Valorbiquet ; dans la Mayenne, une arboricultrice à Ernée. Les pages
+de marché de Louvigny, d'Ernée et de l'association de Bonchamp nomment leurs exposants : aucun nom n'est repris. Aucun nom n'est
+écrit.
+
+**Points d'arrêt** : la prochaine passe dans le **Calvados** reprend d'abord les groupes de Souleuvre et de Noues de Sienne et
+la fiche entière de Touques, puis la descente à **Caumont-sur-Aure** (2 431) ; le département sera épuisé au sens de la règle 265
+après Frénouville (2 050, 79e). Dans la **Mayenne**, la descente reprend à **L'Huisserie** (4 672), puis Craon.
+
+**Pistes non publiées (Calvados et Mayenne)** — lignes anonymes :
+
+- Louvigny, marché du samedi : faits entiers, images réservées par la Ville.
+- Rots, cidrerie à la ferme : faits entiers, photographies interdites par ses sites.
+- Villers-sur-Mer, marché bio et local du dimanche : ni heures ni image permise.
+- Bonchamp-lès-Laval, marché du jeudi : faits entiers, images nommées dans les mentions de la Ville.
+- Bonchamp-lès-Laval, marché de producteurs du vendredi à la ferme des Épiés : faits entiers ; **déblocage** : une photographie
+  servie hors du réseau de diffusion fermé, ou publiée par une source sans clause fermante.
+
 ### Passe du 25 septembre 2026 (quarantième de la nuit) : Anglet (Pyrénées-Atlantiques), quatre fiches ; Calvados sans zone
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
