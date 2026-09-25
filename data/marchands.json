@@ -23021,5 +23021,143 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quai%20Dominique%20Roquebert%2C%2064100%20Bayonne",
     "image_url": "/images/marchands/marche-des-producteurs-du-samedi-bayonne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chlorophylle-reze-oceane",
+    "nom": "Chlorophylle Rezé Océane",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.154958,
+    "lon": -1.536944,
+    "adresse": "147 Route des Sorinières, 44400 Rezé",
+    "horaires": "Du lundi au samedi de 9h à 19h30, fermé le dimanche et les jours fériés, selon la page du magasin.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Fromages",
+      "Œufs",
+      "Viande de porc et charcuterie",
+      "Épicerie bio"
+    ],
+    "description": "Premier magasin ouvert au sud de la Loire, en 2009, par la coopérative bio nantaise Chlorophylle, dans la zone Océane à la limite des Sorinières (arrêt Retas du Chronobus C4). Engagé chez Bureau Veritas depuis juillet 2011 au registre de l'Agence Bio, à cette adresse. Photo : façade publiée par la coopérative, recadrée.",
+    "telephone": "02 40 76 76 00",
+    "site_web": "https://www.chlorophylle-coop.com/nos-magasins/reze-oceane",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=147+Route+des+Sorini%C3%A8res+44400+Rez%C3%A9",
+    "image_url": "/images/marchands/chlorophylle-reze-oceane.jpg"
+  },
+  {
+    "slug": "chlorophylle-reze-atout-sud",
+    "nom": "Chlorophylle Rezé Atout Sud",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.191706,
+    "lon": -1.582506,
+    "adresse": "18 Rue Ordronneau, 44400 Rezé",
+    "horaires": "Du lundi au samedi de 9h à 19h30, fermé le dimanche et les jours fériés, selon la page du magasin.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Fromages",
+      "Œufs",
+      "Viande de porc et charcuterie",
+      "Épicerie bio"
+    ],
+    "description": "Second magasin de la coopérative bio Chlorophylle à Rezé, ouvert en 2010 près de Trentemoult et de la route de Pornic, à dix minutes à pied de Nantes Pirmil le long de la Loire. Engagé chez Bureau Veritas depuis juillet 2011 au registre de l'Agence Bio ; la coopérative écrit « rue Ordonneau », le registre et la Base Adresse Nationale « rue Ordronneau ». Photo : façade publiée par la coopérative, recadrée.",
+    "telephone": "02 51 82 00 82",
+    "site_web": "https://www.chlorophylle-coop.com/nos-magasins/reze-atout-sud",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=18+Rue+Ordronneau+44400+Rez%C3%A9",
+    "image_url": "/images/marchands/chlorophylle-reze-atout-sud.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "oser-foret-vivante-jardin-reze",
+    "nom": "Le Jardin d'Oser Forêt Vivante",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.173535,
+    "lon": -1.531647,
+    "adresse": "Rue de la Bernardière, 44400 Rezé",
+    "horaires": "Paniers de légumes sur contrat de saison, à retirer au jardin le mercredi de 16h30 à 18h30 et le jeudi de 8h30 à 12h30 (saison d'automne-hiver du 30 septembre 2026 au 18 mars 2027, d'après le mémo de septembre 2026 de l'association). Pas de distribution du 24 décembre 2026 à midi au 3 janvier 2027. Adhésion préalable : écrire au jardin avant de venir.",
+    "produits": [
+      "Paniers de légumes bio (moyen de 5 à 6 variétés, grand de 7 à 8)",
+      "Légumes de saison : choux, poireaux, carottes, courges, radis, salades",
+      "Œufs bio d'une ferme partenaire, en option",
+      "Conserves du jardin, les jours de distribution",
+      "Volaille, bœuf et champignons de fermes partenaires, sur commande"
+    ],
+    "description": "Jardin maraîcher d'un chantier d'insertion de l'association Oser Forêt Vivante : 7 000 m² dont 2 000 m² de tunnels à Rezé, certifiés bio depuis 2012 selon l'association (engagement Bureau Veritas de juin 2010 au registre de l'Agence Bio). Après les canicules de l'été 2026, l'association annonce compléter les paniers d'automne par des légumes bio achetés ailleurs. Photo : site de l'association, un panier d'hiver.",
+    "telephone": "02 40 13 24 08",
+    "site_web": "https://www.oser-foret-vivante.com/l-accompagnement-professionnel/jardin/paniers-de-legumes-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+de+la+Bernardi%C3%A8re+44400+Rez%C3%A9",
+    "image_url": "/images/marchands/oser-foret-vivante-jardin-reze.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chlorophylle-basse-goulaine-pole-sud",
+    "nom": "Chlorophylle Basse-Goulaine Pôle Sud",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.187116,
+    "lon": -1.462336,
+    "adresse": "5 Rue de l'Atlantique, 44115 Basse-Goulaine",
+    "horaires": "Du lundi au samedi de 9h à 19h30, fermé le dimanche et les jours fériés, selon la page du magasin.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Fromages",
+      "Œufs",
+      "Pain frais",
+      "Charcuterie",
+      "Épicerie bio"
+    ],
+    "description": "Cinquième magasin de la coopérative bio Chlorophylle, ouvert en 2014 dans la zone Pôle Sud, à une minute de la route de Clisson. Engagé chez Bureau Veritas depuis septembre 2014 au registre de l'Agence Bio, à cette adresse. Photo : façade publiée par la coopérative.",
+    "telephone": "02 52 20 02 00",
+    "site_web": "https://www.chlorophylle-coop.com/nos-magasins/basse-goulaine-pole-sud",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5+Rue+de+l%27Atlantique+44115+Basse-Goulaine",
+    "image_url": "/images/marchands/chlorophylle-basse-goulaine-pole-sud.jpg"
+  },
+  {
+    "slug": "la-maison-de-la-pomme-vertou",
+    "nom": "La Maison de la Pomme",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.178926,
+    "lon": -1.462014,
+    "adresse": "La Foresterie, 44120 Vertou",
+    "horaires": "Magasin de la Foresterie ouvert le vendredi de 9h30 à 12h30 et de 15h à 18h30, d'après la page des points de vente et l'annonce de réouverture du 14 août 2026 ; l'encadré des horaires du même site dit encore le magasin fermé pour l'été. Pas de cueillette au verger en 2026.",
+    "produits": [
+      "Pommes et poires",
+      "Prunes, cerises et kiwis, en saison",
+      "Jus de pomme, dont une cuvée bio",
+      "Jus de pomme-framboise et pétillant de pomme",
+      "Confitures maison"
+    ],
+    "description": "Exploitation fruitière familiale de Vertou depuis 1967 : les fruits viennent du verger de la Bauche Malo, conduit en agriculture raisonnée et biologique, et se vendent au magasin de la Foresterie et sur les marchés de Talensac, de Rezé et de Vertou. Engagée en agriculture biologique depuis janvier 2009 au registre de l'Agence Bio (production mixte : tout n'est pas certifié). Photo : site de la Maison de la Pomme, jus et bocaux de l'exploitation.",
+    "telephone": "06 83 17 08 17",
+    "site_web": "https://www.lamaisondelapomme.fr/nos-points-de-vente/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47.178926,-1.462014",
+    "image_url": "/images/marchands/la-maison-de-la-pomme-vertou.jpg",
+    "a_confirmer": true
   }
 ]

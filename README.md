@@ -4307,9 +4307,46 @@ prioritaires en cas de conflit.
      257 et 349 — site non consulté, pas de nouvel essai sous un autre en-tête. **Déblocage** : la même réponse aux deux agents
      sur une première requête.
 
+351. **Une photographie qu'un office de tourisme a fournie au site départemental reste fermée quand cet office refuse l'agent
+     nommé ou réserve ses visuels à l'usage privé, même si le site départemental autorise la reprise.** Tourisme Loiret
+     autorise la reprise « avec l'indication de la source » (règle 239) et diffuse, sur ses fiches de marchés et de
+     producteurs, des photographies créditées à deux offices intercommunaux : l'office de Briare répond 403 à l'agent nommé et
+     200 à l'agent par défaut (règle 257) ; celui de Châteauneuf-sur-Loire et de Fay-aux-Loges écrit dans ses mentions légales
+     que toute utilisation de ses visuels « autre que la consultation individuelle et privée » est interdite, et ses fichiers
+     portent son sigle dans leur nom. La passe précédente avait déjà écarté, à Meung-sur-Loire, une image d'office diffusée
+     par le site départemental. **Tranché ainsi** : c'est la règle 254 lue dans l'autre sens — le site qui diffuse ne
+     s'exprime que sur ce qu'il a lui-même le droit de céder ; quand la photographie porte le crédit ou le sigle d'un office
+     qui la ferme, par sa clause ou par un refus de l'agent nommé, elle ne se reprend pas. Les photographies que le même site
+     crédite au commerce lui-même, à une Ville ou à l'agence qu'il a mandatée restent sous le régime du site départemental.
+     **Déblocage** : la même photographie publiée par la Ville ou par le commerce sous une clause qui permet la reprise.
+
 ## Marchands à confirmer
 
-767 fiches sur 865 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+770 fiches sur 870 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Chlorophylle Rezé Atout Sud** (Rezé) (fiche désignée pour la reprise par la passe du 25 septembre 2026 ; `magasin-bio`,
+  règle 3. **Registre, règle 6** : EURL active au 18 rue Ordronneau (47.11D) ; engagement Bureau Veritas de juillet 2011 au
+  registre de l'Agence Bio, à cette adresse. **Horaires** : page du magasin. **Point** : Base Adresse Nationale au numéro
+  (0,967). **À confirmer** : la coopérative écrit « rue Ordonneau », le registre et la Base « rue Ordronneau ». **Image** :
+  façade publiée par la coopérative (654 px, aucune photographie plus nette de la commune, règle 59), recadrée à 260 px de
+  haut pour sortir les plaques d'immatriculation ; clause générale sans mention d'image (règle 231).)
+- **Le Jardin d'Oser Forêt Vivante** (Rezé) (troisième fiche entière de Rezé ; `ferme` et piliers des jardins d'insertion déjà
+  publiés, `social` compris. **Registre** : association active (88.10C), siège au 4 boulevard Paul-Henri-Spaak ; engagement
+  Bureau Veritas de juin 2010 au registre de l'Agence Bio, adresse déclarée rue de la Bernardière. **Faits datés** : mémo de
+  septembre 2026 et contrat de la saison d'automne-hiver 2026-2027 publiés sur le site de l'association (retrait le mercredi
+  16h30-18h30 et le jeudi 8h30-12h30, du 30 septembre 2026 au 18 mars 2027). **Point, règle 64** : le jeu de données des
+  producteurs de Nantes Métropole place le jardin rue de la Bernardière, à 115 m du point que la Base donne à la voie, sans
+  numéro. **À confirmer** : adresse sans numéro, et paniers complétés cet automne par des légumes bio achetés ailleurs.
+  **Image** : panier de légumes publié par l'association, 854 px, sans personne ; site sans clause sur les images, `robots.txt`
+  ouvert à tous.)
+- **La Maison de la Pomme** (Vertou) (cinquième point du groupe de Rezé, à 7,2 km, dans Nantes Métropole, règle 96 ; `ferme`.
+  **Registre, règle 6** : EARL active à la Foresterie (01.24Z) ; engagement de janvier 2009 au registre de l'Agence Bio,
+  production mixte. **Règle 350, déblocage atteint** : le site répond désormais 200 à l'agent par défaut comme à l'agent
+  nommé, trois fois de suite, `robots.txt` compris. **Point** : la Base ne connaît pas le lieu-dit ; coordonnées que le
+  registre des entreprises donne à l'établissement, à 55 m du point du jeu de données de Nantes Métropole. **Contradiction,
+  règle 5** : l'encadré des horaires du site dit le magasin « fermé pour l'été, réouverture début septembre », la page des
+  points de vente et l'annonce datée du 14 août 2026 le disent ouvert le vendredi 9h30-12h30 et 15h-18h30 ; la version datée
+  la plus récente est retenue et l'autre est écrite dans la fiche. **Image** : jus et bocaux de l'exploitation publiés sur
+  son site, sans personne ni crédit ; mentions légales sans clause, `robots.txt` ouvert ; 2 560 px ramenés à 1 280.)
 - **Les Jardins du Refuge** (Anglet) (première fiche entière de la règle 127 ; `producteur`, piliers des producteurs certifiés
   avec `social` pour le travail en établissement d'aide par le travail. **Registre** : congrégation active, cinq établissements
   ouverts ; certificat biologique engagé depuis 2012 au registre de l'Agence Bio. **Horaires** : fiche de l'office de tourisme
@@ -11573,6 +11610,101 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (quarante-huitième) : Rezé et Nantes Métropole, cinq fiches publiées
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, sur 865 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube, Mayenne et Cher épuisés (règle 265) ; **Loiret (45) 3,6718** ; **Loire-Atlantique (44) 3,6612**. La dernière passe
+publiée visait la Nouvelle-Aquitaine : Centre-Val de Loire et Pays de la Loire ouverts. `origin/main` n'a pas bougé pendant la
+passe (règle 241). Groupe de Labenne : aucune passe autorisée en Nouvelle-Aquitaine, relecture toujours due (règle 266).
+**Après la passe**, sur 870 fiches : Loiret 3,7219, Loire-Atlantique −1,2309 ; en tête des départements non épuisés, les
+Yvelines (78) 3,7378 puis le Loiret. La prochaine passe ne peut pas viser les Pays de la Loire (règle 41.c).
+
+**Loiret : reprise, puis douze communes, de Neuville-aux-Bois à Cléry-Saint-André.** Sources : site de chaque Ville, fiches de
+Tourisme Loiret, registre de l'Agence Bio (730 opérateurs), registre des entreprises. Saint-Cyr-en-Val, qui porte déjà une
+fiche, est sautée.
+
+0. **Châlette-sur-Loing, reprise** — toujours deux points : la ferme maraîchère de la rue Jean-Lamy n'a toujours aucune heure
+   d'ouverture sur sa fiche départementale. Déblocage non atteint.
+1. **Neuville-aux-Bois** (4 987) — marché du lundi jusqu'à 13h, familles écrites par la Ville (primeurs, boucher-volailler,
+   fromager, rôtisseur), mais la Ville réserve son site à l'usage personnel et interdit la reproduction des illustrations ;
+   Tourisme Loiret l'illustre d'une image Pixabay. La chocolaterie porte un nom de personne ; la brasserie n'a ni heures ni
+   image hors banque. **Zéro.**
+2. **Briare** (4 911) — marché du vendredi, familles écrites par Tourisme Loiret, mais la Ville interdit la reproduction de ses
+   images et la seule photographie du marché vient de l'office intercommunal, qui refuse l'agent nommé (403 contre 200) :
+   **règle 351, nouvelle**. La chocolaterie du pont-canal n'a que des photographies du même office. **Zéro.**
+3. **Jargeau** (4 610) — marché du mercredi sous la halle, sans autre famille que « produits alimentaires » (règle 197), Ville
+   réservée à l'usage privé ; une ferme maraîchère en vente directe, entière avec ses heures datées 2026 et une photographie
+   créditée à la ferme, mais seule. **Zéro zone.**
+4. **Ormes** (4 376) — marché du dimanche aux familles écrites (primeurs, fromagers), mais la seule image de la Ville est une
+   illustration dessinée, et Tourisme Loiret une image Pixabay ; un magasin bio de réseau, seul. **Zéro.**
+5. **Sandillon** (4 300) — Ville fermée à l'agent nommé (444 contre 200) ; rien chez Tourisme Loiret ; le registre bio ne rend
+   que des grossistes et une exploitation inscrite sous un nom de personne. **Zéro.**
+6. **Chaingy** (4 116) — la Ville interdit la reproduction de ses images ; son marché du dimanche ne compte que deux étals ;
+   l'huilerie à la ferme publie ses heures (samedi et lundi soir), photographies de l'agence mandatée par Tourisme Loiret, mais
+   seule : les deux brasseries n'ont pas d'heures (fermeture hivernale, site injoignable). **Zéro zone.**
+7. **Fay-aux-Loges** (3 916) — marché du mercredi 8h-13h, place Simone-Veil, familles écrites par Tourisme Loiret, mais la Ville
+   interdit toute reproduction et les photographies du marché viennent de l'office intercommunal qui réserve ses visuels à la
+   consultation privée (règle 351) ; une chèvrerie bio entière (heures datées 2026, photographies fournies par l'exploitation),
+   seule : l'élevage laitier n'a que des photographies au nom d'un photographe (règle 339), Bienvenue à la Ferme répond 403 à
+   tous. Avec la ferme de Jargeau et le magasin de producteurs de Châteauneuf-sur-Loire, la communauté de communes des Loges
+   réunit trois fiches entières, mais dans trois communes différentes (règle 127 : deux dans la même). **Zéro zone.**
+8. **Ferrières-en-Gâtinais** (3 839) — marché du vendredi illustré de photographies créditées à la Ville (règle 254), mais
+   aucune famille écrite et Ville fermée à l'agent nommé (444). **Zéro.**
+9. **Courtenay** (3 772) — deux marchés « de producteurs fermiers et artisanaux » sans aucune famille écrite (règle 197), image
+   Pixabay. **Zéro.**
+10. **Saint-Ay** (3 766) — aucun marché publié, rien chez Tourisme Loiret. **Zéro.**
+11. **Pannes** (3 740) — deux marchés illustrés d'images Pixabay, sans famille ; la chocolaterie n'a que son logo. **Zéro.**
+12. **Cléry-Saint-André** (3 596) — trois exploitations fichées, toutes illustrées d'images Getty ou sans heures, leurs sites
+    fermés à l'agent nommé (403). **Zéro.** La borne est servie ; la descente reprendra à **Traînou** (3 402).
+
+**Loire-Atlantique, second département (règle 248) : la reprise de Rezé fait la passe.** Sources nouvelles : le jeu de
+données des producteurs en circuit court de Nantes Métropole (69 producteurs, dont une cinquantaine à moins de 15 km de Rezé)
+et les sites des producteurs eux-mêmes.
+
+- **Chlorophylle Rezé Océane** et **Chlorophylle Rezé Atout Sud** — les deux fiches entières désignées par la passe du
+  25 septembre 2026, revérifiées : pages des magasins, EURL actives, engagements Bureau Veritas de 2011 ; façades de la
+  coopérative recadrées pour sortir les plaques d'immatriculation (642 × 330 et 654 × 260 px, règle 59).
+- **Le Jardin d'Oser Forêt Vivante** (Rezé, 1,9 km du centre) — troisième fiche entière dans la commune : mémo daté de
+  septembre 2026, retrait des paniers le mercredi et le jeudi, association active, engagement bio de 2010, photographie d'un
+  panier publiée par l'association sur un site sans clause.
+- **Chlorophylle Basse-Goulaine Pôle Sud** (7,3 km) — le troisième magasin de l'enseigne que la passe du 25 septembre avait
+  nommé ; règle 334 : trois fiches de la même enseigne au plus, c'est le plafond.
+- **La Maison de la Pomme** (Vertou, 7,2 km) — le verger que la passe précédente avait trouvé fermé à l'agent nommé (429) sert
+  désormais les deux agents : déblocage de la règle 350 atteint. Magasin de la Foresterie le vendredi, EARL active, engagement
+  bio de 2009 en production mixte, photographie de ses jus et bocaux.
+
+Les cinq points sont dans Nantes Métropole, à moins de 8 km du centre de Rezé, trois dans la commune elle-même (règles 96 et
+127). Barycentre : 47.1772 / −1.5151.
+
+**Écartés dans le même rayon** : le magasin paysan de la Ranjonnière, à Bouguenais (faits complets — mardi, mercredi et
+vendredi 10h-19h, samedi 10h-12h30 — mais ses mentions légales nomment les « visuels » et en interdisent la reproduction,
+règle 231) ; la ferme maraîchère voisine de Bouguenais (site fermé à l'agent nommé, 403) ; les autres producteurs du jeu de
+données n'ont pas été instruits, la zone étant faite.
+
+**Contradictions** : une, tranchée par la règle 5 — l'encadré des horaires de la Maison de la Pomme la dit fermée pour l'été,
+ses pages datées d'août 2026 la disent ouverte le vendredi ; la version datée est publiée, l'autre est écrite dans la fiche.
+
+**Fiches écartées pour doute sur une personne** : dans le Loiret, une chocolaterie à Neuville-aux-Bois, une chocolaterie à
+Jargeau, une exploitation à Sandillon, une miellerie à Fay-aux-Loges et une exploitation à Cléry-Saint-André. Aucun nom
+n'est écrit.
+
+**Points d'arrêt** : dans le **Loiret**, la reprise prend d'abord les deux marchés de Châlette-sur-Loing, puis la descente à
+**Traînou** (3 402). La **Loire-Atlantique** passe en excédent ; sa descente, quand elle reviendra, reprend à **Couëron**
+(24 103).
+
+**Pistes non publiées (Loiret et Loire-Atlantique)** — lignes anonymes :
+
+- Jargeau, ferme maraîchère en vente directe : une fiche entière, seule.
+- Fay-aux-Loges, chèvrerie bio : une fiche entière, seule. **Déblocage** (avec la précédente et le magasin de producteurs de
+  Châteauneuf-sur-Loire) : une seconde fiche entière dans l'une des trois communes de la communauté de communes des Loges.
+- Chaingy, huilerie à la ferme : une fiche entière, seule.
+- Neuville-aux-Bois, Fay-aux-Loges, Briare et Ormes, marchés hebdomadaires : faits entiers, aucune image permise.
+  **Déblocage** : une photographie du marché publiée par la Ville ou par Tourisme Loiret sous son propre crédit.
+- Bouguenais, magasin paysan de la Ranjonnière : faits entiers, visuels interdits. **Déblocage** : une photographie publiée
+  par une source qui en permet la reprise.
 
 ### Passe du 26 septembre 2026 (quarante-septième) : Loiret et Loire-Atlantique, aucune publication
 
