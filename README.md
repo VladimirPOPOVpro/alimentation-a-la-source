@@ -4081,6 +4081,18 @@ prioritaires en cas de conflit.
      porte aucune clause ni mention légale et dont le `robots.txt` n'exclut personne. Quatre points, publiés au titre de la
      règle 320.
 
+329. **Une liste de familles de produits que la commune publie une seule fois pour tous ses marchés est la phrase générique de
+     la règle 197, même quand elle nomme des familles précises.** La Ville du Controis-en-Sologne tient une page « Marché » qui
+     donne le marché de Contres (vendredi, 8h-12h, place du 8 Mai) et celui de Fougères-sur-Bièvre (mercredi, 9h-12h, devant le
+     château), puis une seule rubrique « Types de produits et exposants » pour les deux : fruits et légumes, produits bio et
+     locaux, fromages, charcuteries, poissonnerie, boucherie, textile. La règle 197 écarte « la phrase générique qui couvre tous
+     les marchés d'une commune » ; celle-ci n'est pas vague, elle nomme des familles. **Tranché ainsi** : ce qui compte est
+     l'objet de la liste, pas sa précision — une liste posée sous plusieurs marchés sans dire lequel vend quoi ne dit rien de
+     celui qu'on publie, comme à Gannat (passe du 25 septembre 2026, vingt-sixième de la nuit). Une liste qui ne suit qu'un
+     seul marché, sur la même page, vaut pour lui. **Déblocage** : une page ou une rubrique propre à l'un des marchés, une liste
+     d'exposants, ou une source relais consultable qui décrit ce marché-là (ici l'office Sud Val de Loire et l'agence
+     départementale `val-de-loire-41.com` refusent l'agent nommé, règle 257).
+
 ## Marchands à confirmer
 
 744 fiches sur 835 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11247,6 +11259,93 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (vingt-huitième de la nuit) : Loir-et-Cher et Meurthe-et-Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée, aucune image
+déposée.** **Classement, règle 41**, sur 839 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants,
+règle 224), outre-mer écarté (règle 177) : Oise 6,0980, Val-d'Oise 5,5948, Landes 5,2756, Eure-et-Loir 5,2702 et Lot-et-Garonne
+4,0592 (épuisés, règle 265), **Loir-et-Cher (41) 3,9976**, **Meurthe-et-Moselle (54) 3,9096**. La dernière passe publiée visait
+l'Auvergne-Rhône-Alpes : Centre-Val de Loire et Grand Est sont ouverts (règle 41.c). `origin/main` n'a pas bougé pendant la
+passe (règle 241). Aucune fiche désignée pour la reprise dans l'un ou l'autre département ; le Loir-et-Cher n'avait aucune
+commune à réessayer en tête.
+
+**Loir-et-Cher : douze communes (règle 247), aucune zone.** Constat d'ensemble : les Villes du département servent presque
+toutes le même type de mentions légales, qui nomment les photographies ou réservent la reproduction à l'usage privé (règles 231,
+246 et 296), et l'agence départementale (`val-de-loire-41.com`) comme l'office Sud Val de Loire répondent 200 à l'agent par
+défaut et 403 à l'agent nommé (règle 257) : aucune n'a été consultée.
+
+- **Le Controis-en-Sologne** (6 860 ; `controis-en-sologne.fr`, département 41 dans les mentions légales, règle 327 ;
+  `le-controis-en-sologne.fr` refuse tout agent) : page « Marché » de la Ville, sans clause sur les images, `robots.txt` ouvert —
+  marché de Contres le vendredi de 8h à 12h place du 8 Mai, marché de Fougères-sur-Bièvre le mercredi de 9h à 12h devant le
+  château ; une seule liste de familles pour les deux (**règle 329, nouvelle**). La photographie de la page (étal de légumes,
+  sans EXIF, 1 280 × 1 920) n'est attribuée à aucun des deux marchés. Un domaine viticole de Fougères a un site qui oppose un
+  défi anti-robot à l'agent nommé (règle 212) ; un autre ne se présente que sous un patronyme. **Zéro fiche entière.**
+- **Mer** (6 250) : la Ville décrit le marché aux légumes du lundi (8h-13h, place de l'Église, un seul primeur), le marché du
+  jeudi (13h-19h, parking de la Halle, sans famille écrite) et le marché du terroir et des produits bio du troisième dimanche
+  (liste de familles, mais aucune heure, règle 9 sans office consultable) ; ses mentions légales réservent la copie à l'usage
+  privé et soumettent les photographies à accord (règle 296). **Zéro.**
+- **Salbris** (4 809) : **faits entiers** pour le **marché du jeudi et du samedi** (7h30-13h, autour et sous la Grande Halle ;
+  fruits et légumes, fromages, viandes et gibiers) ; mentions légales limitées à l'usage privé (règle 296), aucun autre commerce
+  illustrable dans la commune. **Zéro fiche entière.**
+- **Lamotte-Beuvron** (4 504) : marché du vendredi matin autour de l'église et place du Maréchal-Leclerc, sans heure ni famille
+  écrite (règles 9 et 197) ; l'annuaire communal ne recense aucun commerce alimentaire en circuit court. **Zéro.**
+- **La Chaussée-Saint-Victor** (4 471) : marché alimentaire du vendredi (15h-19h, parking du Carroir) sans famille écrite,
+  illustré d'une image de banque d'images (règle 70). **Zéro.**
+- **Saint-Laurent-Nouan** (4 236) : **faits entiers** pour le **marché du vendredi** (9h-12h30, place du Soleil-d'Or ; fruits et
+  légumes, fromagerie, volailles, charcuterie) ; image de banque d'images, mentions légales limitées à l'usage privé (règle 296).
+  L'épicerie en vrac inscrite au registre biologique n'a pas de site joignable (règle 86 non vérifiable). **Zéro fiche entière.**
+- **Selles-sur-Cher** (4 184) : **faits entiers** pour le **marché du jeudi** (8h-13h selon l'article de la Ville de 2024,
+  place Charles-de-Gaulle ; pains, fromages, volailles, fruits et légumes, produits de la mer) ; la reproduction des
+  « photos » est soumise à demande préalable (règle 231), l'album de la Ville est hébergé par un service tiers dont la licence
+  impose une attribution. **Zéro fiche entière.**
+- **Montoire-sur-le-Loir** (3 646) : **faits entiers** pour le **marché du mercredi et du samedi** (8h-13h, place Clemenceau ;
+  fruits et légumes, viandes, charcuteries, vins, fromages, miel) ; mentions légales qui nomment les « images animées ou non »
+  (règle 231). **Zéro fiche entière.**
+- **Montrichard Val de Cher** (3 611) : **faits entiers** pour le **grand marché du vendredi** (8h-12h30, places du
+  Général-de-Gaulle et de Verdun, rue Carnot ; liste d'exposants par famille publiée par la Ville) ; reproduction limitée à
+  l'usage personnel (règle 296). La liste nomme des commerçants par leur patronyme : rien n'en est repris. **Zéro fiche entière.**
+- **Mont-près-Chambord** (3 386) : le marché mensuel est annoncé à partir du samedi 3 octobre 2026 (règle 57) ; un verger
+  biologique a une boutique à heures fixes (vendredi et samedi) mais ses mentions légales nomment les photographies ; un second
+  verger a un site qui refuse toute requête (403). **Zéro.**
+- **Beauce la Romaine** (3 341) : marché d'Ouzouer-le-Marché le vendredi matin place de l'Église (familles écrites), l'ancienne
+  page qui donnait l'heure répond 404 ; mentions de gabarit limitées à l'usage personnel et privé (règle 296). **Zéro.**
+- **Veuzain-sur-Loire** (3 333) : marché du jeudi à Onzain (13h-19h, place de l'Église ; fruits et légumes, produits du
+  terroir, vêtements), dix photographies de la Ville, mais des mentions légales qui nomment les « images » (règle 231). **Zéro.**
+
+Point d'arrêt : **Veuzain-sur-Loire** ; la prochaine passe dans le 41 reprend à **Saint-Gervais-la-Forêt** (3 180), où le
+registre biologique place un magasin biologique coopératif. Dix-sept communes de 2 000 habitants ou plus restent avant
+Savigny-sur-Braye (1 962) : le Loir-et-Cher n'est pas épuisé (règle 265). Les cinq marchés aux faits entiers (Salbris,
+Saint-Laurent-Nouan, Selles-sur-Cher, Montoire-sur-le-Loir, Montrichard Val de Cher) restent en pistes, chacun seul dans sa
+commune ; **déblocage** commun : une photographie permise de la commune (règles 312 et 328) et un second point entier dans la
+même commune (règle 127).
+
+**Meurthe-et-Moselle : les deux communes de la règle 248, aucune zone.**
+
+- **Vandœuvre-lès-Nancy** (29 942) : la Ville publie son marché du dimanche et le marché bio du vendredi après-midi sous la
+  halle, mais ses crédits soumettent toute reproduction des « photographies » à son accord (règle 231), et l'office de la
+  métropole reste fermé à l'agent nommé (règle 77, déjà écrit à Nancy). Un magasin fermier de la rue de Roberval a des **faits
+  entiers** sur le site de l'exploitation qui le tient (du lundi au samedi de 9h à 19h ; fruits et légumes, viandes,
+  charcuteries, produits laitiers, miels, jus de plus de vingt-cinq producteurs lorrains) ; mais son `robots.txt` interdit la
+  page des mentions légales (**règle 270**) : ses images ne se reprennent pas. Cette page a été ouverte avant que l'exclusion
+  soit lue ; rien de ce qu'elle porte n'est repris (règle 214). Un second magasin de producteurs de la même zone n'a pas de site
+  propre. **Zéro fiche entière.**
+- **Lunéville** (18 262) : la Ville ne publie du marché de la place Léopold qu'une affiche d'horaires (samedi 8h-14h, mardi
+  8h-13h, jeudi 8h-12h), sans famille de produits écrite (règles 197 et 292) ; au registre biologique, un supermarché, deux
+  commerces sans certificat en vigueur et une structure d'insertion. **Zéro.**
+
+La prochaine passe dans le 54 reprend à **Toul** (15 768).
+
+**Après la passe**, rien n'étant publié, le classement ne change pas (règle 260) : Loir-et-Cher 3,9976, Meurthe-et-Moselle
+3,9096. La dernière passe publiée vise toujours l'Auvergne-Rhône-Alpes.
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : un domaine viticole de Fougères-sur-Bièvre présenté sous le nom de son
+exploitant ; au registre biologique, des exploitations du Controis-en-Sologne et de Mont-près-Chambord inscrites sous le nom de
+leurs exploitants. **Données personnelles écartées** : noms de maires et de directeurs de publication lus dans les mentions
+légales, patronymes des commerçants de la liste de Montrichard, portables de placiers, noms d'exploitants lus sur les sites de
+producteurs et au registre. Rien n'en figure ici, dans une fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (vingt-septième de la nuit) : Vichy (Allier), quatre fiches dans Vichy Communauté
 
