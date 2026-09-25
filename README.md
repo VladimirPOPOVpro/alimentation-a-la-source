@@ -4202,6 +4202,18 @@ prioritaires en cas de conflit.
      sans crédit, pris par l'exploitation, restent sous le régime du site. Ici : l'étal de légumes du magasin et une corbeille de
      pommes de terre, sans crédit, ont été retenus ; les vues de troupeau créditées ont été écartées.
 
+340. **Une application d'agrégation qui liste la composition d'un marché sans dire d'où elle la tient ne remplit pas la règle 197.**
+     À Bayeux, la Ville publie ses deux marchés hebdomadaires avec leurs jours, leurs lieux et leurs heures, et sa page ne dit
+     d'eux que « commerçants et producteurs locaux » ; le règlement municipal (arrêté de 2011, scanné) ne classe pas les étals ;
+     l'office de tourisme donne les jours et rien d'autre. Seule une application de recherche de marchés, qui revendique plus de
+     dix mille marchés et un partenariat avec une fédération de commerçants non sédentaires, énumère les métiers du marché du
+     samedi, sans date, sans auteur et sans dire si la liste vient de la Ville, du placier ou d'un utilisateur. La règle 103
+     écarte un annuaire participatif ; la règle 97 n'accepte la liste d'un annuaire que rattachée à un producteur nommé. **Tranché
+     ainsi** : une plateforme nationale qui ne publie ni l'origine ni la date de sa composition de marché est un annuaire tiers au
+     sens des règles 103 et 196 ; elle ne renseigne pas `produits`, même quand son jour et ses heures s'accordent avec la commune.
+     La liste peut servir de piste pour chercher une source d'autorité, jamais de source. **Déblocage** : la même composition
+     publiée par la commune, par l'organisateur, ou par la plateforme elle-même avec son origine et sa date.
+
 ## Marchands à confirmer
 
 760 fiches sur 857 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11419,6 +11431,130 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente-septième de la nuit) : Calvados et Rhône, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 857 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,3146, Val-d'Oise 5,9294, Landes 5,3887, Eure-et-Loir 5,3833, Lot-et-Garonne 4,1463,
+Loir-et-Cher 4,0834 et Aube 3,8585 (épuisés, règle 265), **Calvados (14) 3,8175**, **Rhône (69) 3,7969**, Mayenne 3,7966 (Pays
+de la Loire, fermés par la règle 41.c après Montréverd). La dernière passe publiée visait les Pays de la Loire : Normandie et
+Auvergne-Rhône-Alpes ouvertes. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent toujours aucune
+connexion (délai dépassé, aux deux agents). Le groupe reste à trois points ; **déblocage** inchangé.
+
+**Calvados : douze communes, de la 2e à la 13e, aucune zone (règles 127 et 247).** Caen a ses cinq fiches depuis la passe de
+Caen. Registre de l'Agence Bio relu (1 363 opérateurs). Sites des Villes pris dans l'annuaire de l'administration (règle 327).
+Constat d'ensemble : les Villes du Calvados publient correctement leurs marchés, mais presque toutes ferment leurs photographies ;
+l'office Caen la mer nomme « droits réservés » dans le nom de ses fichiers (règles 246 et 339), l'office du Pays de Vire écrit
+« Tous droits réservés – reproduction interdite » sous « Crédits photographiques », les offices de Lisieux Normandie et de
+Bayeux Bessin n'ont rien d'utilisable (le premier renvoie à une agglomération qui ferme ses photos, `lisieux-tourisme.com` est
+un domaine parqué, règle 56 ; le second exclut `/upload/*` dans son `robots.txt`, règle 238), et l'annuaire régional des
+producteurs refuse l'agent nommé (règle 257).
+
+1. **Hérouville-Saint-Clair** (23 470) — deux marchés (mercredi parking Haute Folie, samedi place du Café des images, 8h30-13h30)
+   que la Ville décrit d'une seule phrase commune, « produits alimentaires et de prêt-à-porter » (règle 197) ; images de la
+   Ville ouvertes (clause générale, « Crédits photos » sans réserve, règles 263 et 306). Le registre bio n'y compte que des
+   supermarchés, des grossistes et des certificats arrêtés. **Zéro.**
+2. **Lisieux** (19 645) — marché de producteurs du samedi (place de la République 8h-13h, rue Pont-Mortain) et marché du jeudi
+   à Hauteville, publiés par la Ville sans famille de produits (règle 197), images fermées par la Ville et par l'agglomération
+   (règle 231). Un magasin de réseau bio sans liste de producteurs régionaux (règle 86), une enseigne de compléments
+   alimentaires hors sujet, une épicerie bio sans site. **Zéro.**
+3. **Vire Normandie** (17 457) — faits abondants (marché du vendredi 9h-12h45, magasin associatif de producteurs, fermes
+   laitières et fromagère des communes déléguées, fiches de l'office), mais **aucune image permise dans la commune** : la Ville
+   nomme les photographies dans son interdiction, l'office aussi, et aucun producteur n'a de site propre ouvert. Deux
+   fabricants d'andouille portent un nom de personne (règle 259). **Zéro.**
+4. **Bayeux** (12 659) — marchés Saint-Jean (mercredi) et Saint-Patrice (samedi) publiés par la Ville, dont les mentions
+   légales ne ferment pas les photographies (règle 306) ; mais aucune autorité n'écrit ce qu'on y vend : la seule composition
+   vient d'une application d'agrégation sans origine (règle 340). Les deux producteurs bio vendant au particulier portent un nom
+   de personne (règle 259). **Zéro.** Contradiction consignée : le règlement de 2011 donne Saint-Jean 7h30-14h et Saint-Patrice
+   6h30-14h30, la page de la Ville 7h30-13h30 et 7h30-14h ; la page, plus récente, ferait foi (règle 58).
+5. **Ifs** (11 937) — deux marchés (mercredi place Debussy, vendredi place des Jonquilles) ; images de la Ville fermées, aucune
+   autre source d'image, enseignes locales à nom de personne. **Zéro.**
+6. **Mondeville** (10 331) — marché du jeudi en centre-ville, 8h-13h, composition publiée par la Ville ; images
+   fermées (« représentations iconographiques et photographiques », règle 246), rien d'autre d'illustrable. **Zéro.**
+7. **Mézidon Vallée d'Auge** (9 766) — une ferme maraîchère bio et la cave d'un château : les deux sites refusent l'agent nommé
+   et servent un agent quelconque (règle 257). **Zéro.**
+8. **Ouistreham** (9 212) — marchés du bourg, de Riva-Bella et marché aux poissons publiés par la Ville, photographies fermées
+   par la Ville et par l'office. **Zéro.**
+9. **Souleuvre en Bocage** (8 629) — **trois points, pas quatre** : voir ci-dessous.
+10. **Falaise** (7 680) — marché du samedi sous les halles (9h-13h depuis le 1er mars) et du mercredi à Guibray, sans famille de
+    produits ; images fermées (règle 246). **Zéro.**
+11. **Colombelles** (7 243) — marché du mercredi place François-Mitterrand, « produits variés » (règle 197), aucune image ;
+    enseignes du registre bio à prénom (règle 259). **Zéro.**
+12. **Saint-Pierre-en-Auge** (7 100) — le marché du lundi autour des halles est décrit par la Ville (crème, œufs, fromages, miel)
+    mais sans heures, et la Ville ferme ses photos ; la vente directe du lycée agricole (vendredi 14h30-16h30, produits
+    cidricoles) a des faits entiers et un site qui ferme ses images ; une ferme d'élevage et une cidrerie ne sont décrites que
+    par un annuaire qui refuse l'agent nommé. **Zéro.**
+
+**Souleuvre en Bocage : trois points relus, le quatrième manque (règles 127, 258 et 320).** Deux fiches entières dans la
+commune au sens de la règle 127 :
+
+- **Bergerie de la Souleuvre** (Carville) — `ferme`, élevage de brebis laitières et fromagerie. **Faits** : page « Vente à la
+  ferme » du site de la bergerie (vendredi 17h30-19h à la fromagerie) et fiche de l'office du Pays de Vire (même créneau,
+  15 route de l'Hôtel Vallée ; yaourts, crèmes dessert, glaces, fromages frais, tommes, feta, bleu de brebis). **Règle 6** :
+  entité active sous l'enseigne. Registre bio : `ENGAGEE`. **Image** : site sans mention légale fermante, `robots.txt` ouvert,
+  photographies prises par la ferme.
+- **EARL des 4 saisons** (La Graverie) — `ferme`, légumes, fruits, mouton, œufs, conserves. **Faits** : office du Pays de Vire
+  (vendredi 17h-19h, samedi 9h30-13h, 3 La Blanquière). **Règle 6** : EARL active ; registre bio `ENGAGEE`. Son domaine ne
+  résout plus (règle 56), `site_web` resterait vide ; l'image de l'office est une photographie de banque (règle 70). **Image,
+  règle 312** : une photographie de la Bergerie de la Souleuvre, autre fichier que celui de sa fiche.
+
+Et un troisième point dans la commune : **GAEC Pomme d'Apizz** (Montchauvet), miel biologique. **Faits** : l'office donne la
+vente à la ferme le mercredi 16h30-18h et le dimanche 10h30-12h, 2 impasse de la Remondière ; le site du GAEC écrit le mercredi
+16h30-19h (règle 5, les deux valeurs, `a_confirmer`) ; le texte de l'office situe la ferme à Valdallière alors que son adresse et
+le registre la placent à Montchauvet, commune déléguée de Souleuvre (règle 44 : l'adresse et le registre font foi). GAEC actif,
+registre bio `ENGAGEE`. Image : une photographie du site du GAEC servie à 1 200 px par son redimensionneur (règle 255).
+
+Aucun quatrième point : les quatre marchés de la commune (Le Bény-Bocage jeudi, La Graverie et Saint-Martin-des-Besaces samedi,
+Le Tourneur mardi soir) n'ont que « produits frais » (règle 197) et la Ville ferme ses images ; une chèvrerie et un glacier
+fermier n'ont ni heures ni adresse de vente publiées (règle 192) ; une ferme d'élevage n'a pas de créneau publié ; dans
+l'intercommunalité, les points de Vire Normandie (à une douzaine de kilomètres) n'ont aucune image permise de leur commune
+(règle 328). Trois points ne font pas une zone (règle 258) : **rien n'est publié**.
+
+**Aucune zone dans le Calvados.** **Rhône, second département (règle 248)**, descente reprise à Meyzieu (section d'Oullins) :
+
+1. **Meyzieu** (36 687) — la Ville répond 502 « Website not available » à l'agent nommé et 200 à un agent quelconque : refus
+   par le nom (règle 257), site non consulté. Un GAEC céréalier et brasseur bio n'a ni site ni créneau publié. **Zéro.**
+2. **Villefranche-sur-Saône** (36 172) — marché couvert (lundi, mercredi, vendredi, samedi, dimanche 7h-12h30, métiers publiés)
+   et marché bio du samedi (une quinzaine de stands, sans heures) décrits par la Ville ; photographies fermées par la Ville et
+   par l'office du Beaujolais (« strictement interdite sans autorisation »). **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).** Classement inchangé (règle 260).
+**Points d'arrêt** : la prochaine passe dans le **Calvados** reprend à **Honfleur** (6 640), et reprend d'abord le groupe de
+Souleuvre ; la prochaine passe dans le **Rhône** reprend à **Rillieux-la-Pape** (31 389), puis Décines-Charpieu.
+
+**Désignés pour la reprise (Souleuvre en Bocage)** : Bergerie de la Souleuvre (entière), EARL des 4 saisons (entière par la règle
+312), GAEC Pomme d'Apizz (entier, horaires à deux valeurs). **Déblocage** : un quatrième point dans la commune ou à moins de
+quinze kilomètres dans l'intercommunalité — les heures de vente publiées de la chèvrerie ou du glacier fermier, la composition
+d'un des marchés de la commune par une autorité, ou une image permise à Vire Normandie pour l'un de ses points déjà instruits.
+
+**Contradictions** : deux horaires pour le GAEC Pomme d'Apizz (règle 5) ; commune du GAEC dans le texte de l'office (règle 44) ;
+à Vire, le magasin associatif de producteurs est au 28 rue de la Monderie selon l'office et au 2 selon le registre, et ouvert du
+mardi au samedi 12h-19h selon l'office, du mercredi au samedi 14h-19h selon un annuaire qui refuse l'agent nommé — le registre
+trancherait l'adresse (règle 104), l'office les heures ; horaires des marchés de Bayeux (ci-dessus).
+
+**Pistes non publiées (Calvados et Rhône)** — lignes anonymes :
+
+- Hérouville-Saint-Clair, deux marchés de quartier : composition non publiée marché par marché (règle 197).
+- Lisieux, marché de producteurs du samedi et marché du jeudi : composition non publiée, images fermées.
+- Lisieux, magasin de réseau bio : pas de liste de producteurs régionaux (règle 86).
+- Vire Normandie, marché du vendredi : « produits locaux » seulement, images fermées.
+- Vire Normandie, magasin associatif de producteurs : faits de l'office, adresse et heures contradictoires, aucune image permise.
+- Vire Normandie, deux fermes laitière et fromagère bio des communes déléguées : faits de l'office, aucune image permise.
+- Vire Normandie, deux fabricants d'andouille : enseignes à nom de personne, non rouvertes.
+- Bayeux, deux marchés hebdomadaires : composition seulement dans une application sans origine (règle 340).
+- Bayeux, un cidrier et un pépiniériste bio : enseignes à nom de personne, non rouvertes.
+- Ifs, deux marchés : images fermées ; une coopérative bio et deux boulangeries : enseignes à nom de personne.
+- Mondeville, marché du jeudi : faits entiers, images fermées ; une ferme maraîchère à prénom, non rouverte.
+- Mézidon Vallée d'Auge, ferme maraîchère bio et cave de château : sites refusant l'agent nommé (règle 257).
+- Ouistreham, marchés et marché aux poissons : images fermées.
+- Falaise, marchés du samedi et du mercredi : composition non publiée, images fermées.
+- Colombelles, marché du mercredi : composition non publiée ; deux enseignes à prénom, non rouvertes.
+- Saint-Pierre-en-Auge, marché du lundi : sans heures, images fermées ; vente du lycée agricole : faits entiers, images fermées.
+- Meyzieu, GAEC céréalier et brasseur : ni site ni créneau publié.
+- Villefranche-sur-Saône, marché couvert et marché bio du samedi : images fermées par la Ville et l'office.
 
 ### Passe du 25 septembre 2026 (trente-sixième de la nuit) : Montréverd (Vendée), cinq fiches dans Terres de Montaigu
 
