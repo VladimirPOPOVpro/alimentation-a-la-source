@@ -4192,9 +4192,39 @@ prioritaires en cas de conflit.
      événement à venir, règle 218) ou que l'intéressé publie lui-même. Les AMAP de Laval et l'AMAPotée de Château-Gontier
      restent donc sans source datée, leurs blogs refusant l'agent nommé (règle 280).
 
+339. **Un fichier dont le nom porte le crédit d'un photographe n'est pas repris, même sur un site sans clause ; les autres fichiers
+     du même site restent utilisables.** Le site de la ferme du Pay, à Montréverd, n'a aucune mention légale fermante et son
+     `robots.txt` n'exclut personne ; une partie de ses photographies porte pourtant dans son nom de fichier un « © » suivi du nom
+     d'une photographe, la même que crédite le guide des producteurs de l'agglomération. La règle 246 lit « droits réservés » posé
+     sur les photographies comme une réserve ; la règle 337 ferme une image dont l'origine est douteuse. **Tranché ainsi** : un
+     crédit inscrit sur le fichier lui-même dit que l'image appartient à un auteur distinct du commerce, qui ne l'a peut-être
+     cédée que pour ce site ; ce fichier n'est pas repris, et le nom de l'auteur n'est écrit nulle part. Les fichiers du même site
+     sans crédit, pris par l'exploitation, restent sous le régime du site. Ici : l'étal de légumes du magasin et une corbeille de
+     pommes de terre, sans crédit, ont été retenus ; les vues de troupeau créditées ont été écartées.
+
 ## Marchands à confirmer
 
-756 fiches sur 852 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+760 fiches sur 857 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **À la ferme du Pay** (Montréverd) (commune calculée de la Vendée ; `ferme`. **Faits** : page « Vente directe » du site de la
+  ferme (vendredi 9h-19h, samedi 9h-12h30, libre-service œufs et pommes de terre 8h30-18h30) ; le guide 2025 des producteurs de
+  Terres de Montaigu écrit 19h30 le vendredi (règle 5, les deux valeurs publiées, d'où `a_confirmer`). **Règle 6** : GAEC actif
+  au Pay. **Pilier `environnement`** : Ecocert, `ENGAGEE` depuis mai 2000, œufs, viandes et pommes de terre déclarés. **Image** :
+  l'étal de légumes du magasin (917 px), fichier sans crédit ; les fichiers du site qui portent dans leur nom le crédit d'une
+  photographe ne sont pas repris (règle 339).)
+- **Les Jardins du Prémongis** (Montréverd) (`ferme`, seconde fiche entière de la règle 127 au titre des règles 312 et 328.
+  **Faits** : guide 2025 de Terres de Montaigu (vendredi 16h-19h, samedi 9h30-12h, sur commande par cagette.net) corroboré par le
+  site de la ferme Les Jonquilles, qui y vend son pain. **Règle 6** : EARL active. **Pilier `environnement`** : Certipaq,
+  `ENGAGEE` depuis août 2022. **Téléphone** : le seul numéro est un portable relayé par le guide et le registre, non inscrit
+  (règle 143). **Image, règle 312** : pommes de terre publiées par la ferme du Pay, autre fichier que celui de sa fiche.)
+- **La Ferme des Coquelicots** (Rocheservière) (complément de la règle 96 dans Terres de Montaigu, 5,5 km. **Horaires, règle
+  5** : le guide 2025 et le site de la ferme divergent ; les deux sont publiés. **Règle 6** : SCEA active. **Pilier
+  `environnement`** : Certis, `ENGAGEE` depuis mai 2015, porcins et bovins déclarés. **Image** : les porcs au pré, publiée par la
+  ferme, pied de page « tous droits réservés » sans clause sur les images (règle 231).)
+- **Le Relais des Producteurs** (Rocheservière) (complément, 7,7 km ; `magasin-bio` au titre de la règle 4, revendeur de la
+  production d'autrui, sans `environnement` : certification arrêtée en février 2025. **Faits** : guide 2025 de Terres de Montaigu
+  (heures, produits, fermes fournisseuses) et fiche d'établissement de l'agglomération (adresse, fixe). **Règle 6** : société
+  active depuis juillet 2022. `relaisdesproducteurs.fr` est une plateforme de commerce en ligne sans rapport (règle 56),
+  `site_web` reste vide. **Image, règle 312** : colis de viande publiés par la Ferme des Coquelicots, de la même commune.)
 - **Marché du vendredi de Bruz** (Bruz) (commune de la règle 248 en Ille-et-Vilaine ; `marche`, piliers des marchés déjà
   publiés. **Faits** : page « Les marchés à Bruz » de la Ville, modifiée le 21 septembre 2026 (vendredi 8h-13h, centre-ville et
   halle Pagnol ; fruits et légumes, viandes, fruits de mer, fromages, pains, pâtisseries ; extension avenue du Général-de-Gaulle
@@ -11389,6 +11419,63 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 25 septembre 2026 (trente-sixième de la nuit) : Montréverd (Vendée), cinq fiches dans Terres de Montaigu
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Classement, règle 41**, sur 852 fiches, appel national
+de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté (règle 177) : Oise 6,2544, Val-d'Oise
+5,8364, Landes 5,3573, Eure-et-Loir 5,3519, Lot-et-Garonne 4,1221, Loir-et-Cher 4,0596 et Aube 3,8360 (épuisés, règle 265),
+**Vendée (85) 3,8175**, Mayenne 3,7744 — inchangé (règle 260). La dernière passe publiée visait la Bretagne : Pays de la Loire
+ouvert (règle 41.c). `origin/main` n'a pas bougé entre le calcul et la publication (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent toujours aucune
+connexion, aux deux agents. Le groupe reste à trois points ; **déblocage** inchangé.
+
+**Vendée : descente reprise à La Bruffière (règle 247).** Les seize sites de Villes lus (Vendée et Mayenne) servent les deux
+agents et aucun `robots.txt` ne nomme le robot ; mais toutes les mentions légales lues nomment les images dans leur
+interdiction ou réservent la copie à l'usage privé (règles 231, 246 et 296). La source qui a fait la passe est le **guide des
+producteurs en vente directe de Terres de Montaigu** (édition 2025, publié par l'agglomération dans le cadre de son projet
+alimentaire territorial, producteurs d'accord pour y figurer) : heures, produits et sites de vingt-cinq points de vente à la
+ferme. Ses photographies sont créditées à des photographes et à une banque d'images : faits seulement.
+
+1. **La Bruffière** (3 987) — deux élevages en vente à la ferme le vendredi (guide) : le site de l'un ne résout plus, l'autre n'a
+   qu'un réseau social. Aucune image permise. **Zéro.**
+2. **La Chaize-le-Vicomte** (3 948, La Roche-sur-Yon Agglomération) — marché du samedi 9h-12h30 place Saint-Jean (Ville, images
+   fermées) ; la ferme laitière biologique de la commune ne publie sur son propre site ni vente à la ferme ni heures (seuls des
+   annuaires tiers les donnent) et son site de yaourterie ne résout plus. **Zéro.**
+3. **Montréverd** (3 857, Terres de Montaigu) — **fait la passe.** Deux fiches entières dans la commune (règle 127) : **À la
+   ferme du Pay** (site sans clause, heures publiées, image propre) et **Les Jardins du Prémongis** (faits du guide corroborés
+   par le site d'un autre producteur, image thématique de la ferme du Pay, règles 312 et 328). L'agglomération complète dans la
+   limite de la règle 96, depuis la mairie de Montréverd : **Ferme Les Jonquilles** à L'Herbergement (5,0 km, point publié par
+   la ferme en coordonnées), **La Ferme des Coquelicots** (5,5 km) et **Le Relais des Producteurs** (7,7 km) à Rocheservière.
+   Montaigu-Vendée, déjà éprouvée, n'a pas été rouverte.
+
+**Mayenne** : non éprouvée, la zone ayant été trouvée dans le premier département (règle 248). La prochaine passe dans la Mayenne
+reprend toujours à **Bonchamp-lès-Laval** (6 302), puis Ernée. **Point d'arrêt Vendée** : Montréverd ; la prochaine passe dans
+la Vendée reprend à **Commequiers** (3 735). Rocheservière et L'Herbergement ont désormais des fiches et sortent de la descente.
+
+**Après la passe**, sur 857 fiches : Oise 6,3146, Val-d'Oise 5,9294, Landes 5,3887, Eure-et-Loir 5,3833, Lot-et-Garonne 4,1463 ;
+Vendée **−1,1307**. La prochaine passe ne peut pas viser les Pays de la Loire (règle 41.c).
+
+**Contradictions** : la Ferme des Coquelicots publie sur son site le seul vendredi, le guide 2025 trois jours (règle 5, les deux
+publiées) ; la ferme du Pay ferme à 19h le vendredi selon son site, à 19h30 selon le guide (idem).
+
+**Pistes non publiées (Vendée)** — lignes anonymes :
+
+- La Bruffière, élevage ovin et volailles à boutique le vendredi : site du guide éteint, aucune image permise.
+- La Bruffière, élevage porcin et bovin à boutique le vendredi : réseau social seul.
+- La Chaize-le-Vicomte, marché du samedi : faits de la Ville, images fermées.
+- La Chaize-le-Vicomte, ferme laitière biologique : pas de vente à la ferme publiée par elle-même.
+- Saint-Philbert-de-Bouaine (Terres de Montaigu), élevage à boutique : faits entiers, le site réserve ses photographies. Non
+  retenu, le groupe étant complet.
+- Commequiers, Chavagnes-en-Paillers, Les Lucs-sur-Boulogne, Sallertaine, Saint-Laurent-sur-Sèvre : repérés en chemin, non
+  instruits (communes suivantes de la descente).
+
+**Fiches écartées pour doute sur une personne** : deux exploitations de Chavagnes-en-Paillers et de Sallertaine dont l'enseigne
+ou le site est fait des noms de leurs exploitants, et des producteurs inscrits au registre bio sous leur nom dans les communes
+criblées. **Données personnelles écartées** : prénoms d'exploitants lus sur les sites de deux fermes publiées, noms d'élus et de
+photographes lus dans les mentions légales et dans le guide, portables relayés par des annuaires. Rien n'en figure ici, dans une
+fiche, dans un nom de fichier ou dans un commit.
 
 ### Passe du 25 septembre 2026 (trente-cinquième de la nuit) : Vendée et Mayenne, aucune publication
 

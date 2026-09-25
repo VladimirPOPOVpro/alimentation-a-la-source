@@ -22672,5 +22672,138 @@
     "site_web": "https://scarabee-biocoop.coop/magasin-bio/biocoop-scarabee-rennes-cleunay/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Scarab%C3%A9e%20Cleunay%20132%20rue%20Eug%C3%A8ne%20Pottier%20Rennes",
     "image_url": "/images/marchands/biocoop-scarabee-rennes-cleunay.jpg"
+  },
+  {
+    "slug": "a-la-ferme-du-pay-montreverd",
+    "nom": "À la ferme du Pay",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.924872,
+    "lon": -1.412013,
+    "adresse": "4 Le Pay, Saint-André-Treize-Voies, 85260 Montréverd",
+    "horaires": "Magasin à la ferme le vendredi de 9h à 19h et le samedi de 9h à 12h30, d'après le site de la ferme (le guide 2025 des producteurs de Terres de Montaigu indique une fermeture à 19h30 le vendredi). Œufs et pommes de terre en libre-service tous les jours de 8h30 à 18h30.",
+    "produits": [
+      "Œufs",
+      "Viande de bœuf et de veau",
+      "Agneau",
+      "Volailles",
+      "Pommes de terre",
+      "Légumes, fruits et produits laitiers bio de fermes partenaires",
+      "Épicerie bio"
+    ],
+    "description": "Élevage en polyculture au lieu-dit le Pay, avec un troupeau de moutons de race vendéenne, qui vend sa viande, ses œufs et ses pommes de terre dans son magasin à la ferme, à côté de produits bio d'autres producteurs ; commande en ligne et drive le vendredi. Le registre de l'Agence Bio l'inscrit en agriculture biologique auprès d'Ecocert depuis mai 2000. Photo : l'étal de légumes du magasin, publiée par la ferme.",
+    "telephone": "02 51 42 89 59",
+    "site_web": "https://www.alafermedupay.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%80%20la%20ferme%20du%20Pay%2C%20Le%20Pay%2C%2085260%20Montr%C3%A9verd",
+    "image_url": "/images/marchands/a-la-ferme-du-pay-montreverd.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-jardins-du-premongis-montreverd",
+    "nom": "Les Jardins du Prémongis",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.937333,
+    "lon": -1.385471,
+    "adresse": "4 Le Prémongis, Saint-André-Treize-Voies, 85260 Montréverd",
+    "horaires": "Vente à la ferme le vendredi de 16h à 19h et le samedi de 9h30 à 12h, d'après le guide 2025 des producteurs de Terres de Montaigu, qui précise que la vente se fait sur commande par cagette.net ; la ferme Les Jonquilles, qui y vend son pain, confirme le vendredi soir et le samedi matin, et un retrait des commandes le mardi soir.",
+    "produits": [
+      "Légumes de saison",
+      "Petits fruits",
+      "Pain au levain de la ferme Les Jonquilles"
+    ],
+    "description": "Maraîchage biologique au lieu-dit le Prémongis, qui vend ses légumes et petits fruits sur commande, à retirer à la ferme. Le registre de l'Agence Bio l'inscrit en agriculture biologique auprès de Certipaq depuis août 2022. Photo : pommes de terre publiées par la ferme du Pay, voisine dans la commune ; elle ne montre pas ce lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Jardins%20du%20Pr%C3%A9mongis%2C%20Le%20Pr%C3%A9mongis%2C%2085260%20Montr%C3%A9verd",
+    "image_url": "/images/marchands/les-jardins-du-premongis-montreverd.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-les-jonquilles-lherbergement",
+    "nom": "Ferme Les Jonquilles",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.892806,
+    "lon": -1.386972,
+    "adresse": "La Mitonnière Nord, 85260 L'Herbergement",
+    "horaires": "Vente à la ferme le mardi et le vendredi de 16h à 19h, d'après le site de la ferme et le guide 2025 des producteurs de Terres de Montaigu ; réservation en ligne conseillée pour le pain. Ventes de colis de bœuf à dates annoncées sur le site.",
+    "produits": [
+      "Pain au levain",
+      "Farine moulue à la meule de pierre",
+      "Colis de bœuf et de veau",
+      "Pommes de terre"
+    ],
+    "description": "Ferme laitière et céréalière au bord de la quatre-voies Montaigu – La Roche-sur-Yon, qui fait son pain au levain avec le blé de la ferme moulu sur un moulin à meule de pierre ; casiers en libre accès pour les commandes. Le registre de l'Agence Bio l'inscrit en agriculture biologique auprès de Certipaq depuis 2010, pain frais et viande bovine compris. Photo : un champ de la ferme, publiée par elle.",
+    "telephone": "06 68 38 67 75",
+    "site_web": "https://www.fermelesjonquilles.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20Les%20Jonquilles%2C%20La%20Mitonni%C3%A8re%20Nord%2C%2085260%20L%27Herbergement",
+    "image_url": "/images/marchands/ferme-les-jonquilles-lherbergement.jpg"
+  },
+  {
+    "slug": "la-ferme-des-coquelicots-rocheserviere",
+    "nom": "La Ferme des Coquelicots",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.937186,
+    "lon": -1.483462,
+    "adresse": "La Maison Neuve, 85620 Rocheservière",
+    "horaires": "Deux versions publiées : le guide 2025 des producteurs de Terres de Montaigu donne le mercredi de 15h à 19h, le jeudi et le vendredi de 9h à 12h30 et de 14h30 à 19h, le samedi sur rendez-vous ; le site de la ferme donne le vendredi de 9h à 12h30 et de 15h à 19h, ou sur rendez-vous. Le vendredi est commun aux deux.",
+    "produits": [
+      "Viande de porc",
+      "Charcuterie",
+      "Produits fumés et secs",
+      "Plats cuisinés",
+      "Viande de bœuf",
+      "Colis de viande"
+    ],
+    "description": "Élevage de porcs en plein air nourris avec les céréales de la ferme, qui transforme sur place sa viande en charcuterie et en plats cuisinés et la vend au magasin de la ferme et en colis. Le registre de l'Agence Bio l'inscrit en agriculture biologique auprès de Certis depuis mai 2015. Photo : les porcs dans le pré, publiée par la ferme.",
+    "telephone": "06 03 27 40 78",
+    "site_web": "https://lafermedescoquelicots.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20des%20Coquelicots%2C%20La%20Maison%20Neuve%2C%2085620%20Rocheservi%C3%A8re",
+    "image_url": "/images/marchands/la-ferme-des-coquelicots-rocheserviere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-relais-des-producteurs-rocheserviere",
+    "nom": "Le Relais des Producteurs",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.936168,
+    "lon": -1.512468,
+    "adresse": "1 Rue de la Mairie, 85620 Rocheservière",
+    "horaires": "Du mardi au samedi de 9h30 à 12h30, et du lundi au vendredi de 15h30 à 19h, d'après le guide 2025 des producteurs de Terres de Montaigu.",
+    "produits": [
+      "Fruits et légumes",
+      "Viande",
+      "Produits laitiers",
+      "Boissons",
+      "Épicerie sucrée et salée",
+      "Vrac",
+      "Paniers gourmands"
+    ],
+    "description": "Épicerie du centre-bourg qui vend les produits de fermes de Terres de Montaigu — viande, fromages de brebis, semences, spiruline — à côté d'une épicerie en vrac. Sa certification biologique est arrêtée depuis février 2025 au registre de l'Agence Bio. Photo : colis de viande publiés par la Ferme des Coquelicots, de la même commune ; elle ne montre pas ce lieu.",
+    "telephone": "02 51 07 04 48",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Relais%20des%20Producteurs%2C%201%20Rue%20de%20la%20Mairie%2C%2085620%20Rocheservi%C3%A8re",
+    "image_url": "/images/marchands/le-relais-des-producteurs-rocheserviere.jpg",
+    "a_confirmer": true
   }
 ]
