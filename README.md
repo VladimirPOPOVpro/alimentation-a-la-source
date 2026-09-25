@@ -11390,6 +11390,79 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 25 septembre 2026 (trente-cinquième de la nuit) : Vendée et Mayenne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 852 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise 6,2544, Val-d'Oise 5,8364, Landes 5,3573, Eure-et-Loir 5,3519, Lot-et-Garonne 4,1221,
+Loir-et-Cher 4,0596 et Aube 3,8360 (épuisés, règle 265), **Vendée (85) 3,8175**, **Mayenne (53) 3,7744**, Calvados 3,7660 —
+inchangé (règle 260). La dernière passe publiée visait la Bretagne : Pays de la Loire ouvert (règle 41.c). `origin/main` n'a
+pas bougé entre le calcul et la publication (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 322 et 335).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent aucune
+connexion, aux deux agents. Le groupe reste à trois points ; **déblocage** inchangé.
+
+**Vendée : douze communes, de la 26e à la 37e, aucune zone (règles 127 et 247).** Registre de l'Agence Bio relu (1 967
+opérateurs). Sites des Villes pris dans l'annuaire de l'administration (règle 327). Cinq Villes refusent l'agent nommé (444,
+règle 257) : **Bretignolles-sur-Mer**, **Venansault**, **Noirmoutier-en-l'Île**, **Rives de l'Yon**, **Saint-Fulgent**. Les
+sept Villes ouvertes ferment toutes leurs images : **Mouilleron-le-Captif**, **Soullans** et **Beauvoir-sur-Mer** (gabarit
+« représentations iconographiques et photographiques », règle 246), **Le Fenouiller**, **L'Île-d'Yeu** et **Dompierre-sur-Yon**
+(photographies ou images nommées dans l'interdiction, règle 231), **Benet** (« photographiques, iconographiques » réservés).
+`vendee-tourisme.com` répond désormais 403 aux deux agents, `robots.txt` compris : muet pour la passe (règle 237), il ne
+fournit plus d'image comme à la passe de La Roche-sur-Yon. L'office de l'Île d'Yeu refuse de même.
+
+1. **Bretignolles-sur-Mer** (5 344) — Ville refusée ; au registre, un supermarché et des grossistes. **Zéro.**
+2. **Mouilleron-le-Captif** (5 273) — un marché mensuel (troisième mercredi), images de la Ville fermées ; un chai inscrit sous
+   des noms de famille. **Zéro.**
+3. **Le Fenouiller** (4 978) — une boulangerie et un grossiste. **Zéro.**
+4. **L'Île-d'Yeu** (4 883) — marchés de plein air publiés par la Ville, images fermées, office refusé ; une conserverie (poisson
+   transformé, approvisionnement non établi) et une ferme à boutique trouvée par annuaire tiers seulement. Au plus deux points, et
+   la commune est seule dans son intercommunalité (règle 258). **Zéro.**
+5. **Venansault** (4 757) — Ville refusée ; un maraîchage biologique à site ouvert, seul. **Zéro.**
+6. **Soullans** (4 654) — le site de la seule ferme à site propre ne résout plus ; les autres fermes n'ont ni site ni heures
+   publiées par elles-mêmes. **Zéro.**
+7. **Dompierre-sur-Yon** (4 625) — le site d'un verger ne résout plus ; une AMAP n'existe que dans un annuaire mis à jour en 2020,
+   sans heures de distribution. **Zéro.**
+8. **Noirmoutier-en-l'Île** (4 505) — Ville refusée ; au registre, un chocolatier de chaîne (hors sujet). **Zéro.**
+9. **Rives de l'Yon** (4 335) — Ville refusée ; une brasserie biologique à site ouvert, seule (une ferme dont l'enseigne porte un
+   prénom est écartée). **Zéro.**
+10. **Benet** (4 089) — une ferme à site ouvert, seule ; le supermarché certifié est écarté. **Zéro.**
+11. **Beauvoir-sur-Mer** (4 035) — marché hebdomadaire publié par la Ville, images fermées ; un maraîchage refuse l'agent nommé
+    (403 contre 200, règle 257) ; une saline est une entreprise individuelle qui ne reçoit que sur réservation à son siège, au seul
+    portable (règle 311) ; un second saunier vend dans la boutique d'une ferme pédagogique voisine. Une seule fiche possible.
+    **Zéro.**
+12. **Saint-Fulgent** (3 994) — Ville refusée ; un grossiste. **Zéro.**
+
+**Point d'arrêt** : Saint-Fulgent. La prochaine passe dans la Vendée reprend à **La Bruffière** (3 987), puis La
+Chaize-le-Vicomte (3 948). Aucune fiche désignée pour la reprise.
+
+**Mayenne : deux communes (règle 248).**
+
+- **Saint-Berthevin** (7 479) — La Ville sert les deux agents ; ses conditions réservent les documents « à titre personnel »
+  (règle 296). Marché du mercredi matin place de l'Europe, sans composition stable publiée. Au registre, un grossiste en chanvre
+  (hors sujet). **Zéro.**
+- **Changé** (6 502) — Même clause d'usage personnel (règle 296). Marché du mercredi matin, esplanade du centre, où un primeur et
+  un food-truck côtoient les producteurs (règle 304) ; au registre, une coopérative d'activité. **Zéro.**
+
+La prochaine passe dans la Mayenne reprend à **Bonchamp-lès-Laval** (6 302), puis Ernée.
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).** Classement inchangé (règle 260).
+
+**Contradictions** : aucune.
+
+**Pistes non publiées (Vendée)** — lignes anonymes :
+
+- Venansault, maraîchage biologique : site ouvert, seule fiche possible de la commune.
+- Rives de l'Yon, brasserie biologique : site ouvert, seule fiche possible de la commune.
+- Benet, ferme du marais : site ouvert, seule fiche possible de la commune.
+- Beauvoir-sur-Mer, sel marin vendu en boutique de ferme pédagogique : seule fiche possible de la commune.
+
+**Fiches écartées pour doute sur une personne** : une saline à Beauvoir-sur-Mer (règle 311), un chai à Mouilleron-le-Captif et
+une ferme à Rives de l'Yon (enseignes faites de noms ou de prénoms), des producteurs inscrits au registre bio sous le nom de leurs
+exploitants dans les douze communes. **Données personnelles écartées** : noms de dirigeants au registre, prénoms d'exploitants
+dans le titre d'un site, noms d'élus et d'un photographe lus dans des mentions légales. Rien n'en figure ici, dans une fiche,
+dans un nom de fichier ou dans un commit.
+
 ### Passe du 25 septembre 2026 (trente-quatrième de la nuit) : Vendée et Mayenne, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
