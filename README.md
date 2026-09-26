@@ -11691,6 +11691,104 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (cinquante-huitième) : Seine-et-Marne et Ain, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 879 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher,
+Calvados, Aube, Mayenne, Loiret et Cher épuisés (règle 265) ; **Seine-et-Marne (77) 3,7152**, premier département non épuisé ;
+**Ain (01) 3,6602**, second (règle 248). `origin/main` n'a pas bougé. La dernière région visée reste l'Occitanie.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base Adresse Nationale : le foyer municipal n'y est
+pas (meilleure réponse : un foyer municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53).
+Trois points.
+
+**Reprises désignées de la Seine-et-Marne** : la brasserie de Pontault-Combault publie toujours son seul horaire d'hiver (page
+modifiée en janvier 2026, événements datés qui ne concordent qu'avec 2025) et l'office garde le vendredi 15h-19h (règle 5) ;
+la ferme maraîchère de Moret-Loing-et-Orvanne garde sa date de saison qui ne concorde qu'avec 2025 (règle 356). Aucun déblocage.
+
+**Seine-et-Marne : douze communes (règle 247), d'Esbly à La Ferté-Gaucher.** Sources : sites des Villes (domaines lus à
+l'annuaire de l'administration, code postal contrôlé, règle 327 ; deux requêtes chacun, règle 257) ; registre de l'Agence Bio
+(925 opérateurs du 77) ; recherche du réseau AMAP d'Île-de-France ; registre des entreprises ; Base Adresse Nationale.
+Saint-Pierre-lès-Nemours, qui a déjà une fiche, est sautée.
+
+1. **Esbly** (6 072) — la Ville publie son marché (jeudi 8h30-12h30, parking de la mairie) avec ses familles écrites pour lui
+   (fruits et légumes, charcuterie, boucherie, volailles, poissonnerie, fromagerie ; page du 5 septembre 2025), mais ses mentions
+   ne permettent qu'une copie « réservée à l'usage exclusivement privé » du contenu, photos nommées (règle 296) ; ses deux
+   illustrations sont d'ailleurs des images de banque. Aucune AMAP, rien au registre hors grande surface. **Zéro.**
+2. **Fontenay-Trésigny** (5 994) — aucun marché hebdomadaire ; le seul « marché des producteurs » est un événement de deux jours
+   (octobre) de producteurs d'une autre région. Les exploitations de la route de Chaubuisson n'ont ni vente ni horaires publiés,
+   et l'une est inscrite sous le nom de son exploitant. **Zéro.**
+3. **Mouroux** (5 810) — aucun marché régulier ; mentions réservant la copie à l'usage privé (règle 296). L'AMAP (association
+   active) a un blog vivant en 2026 qui ne donne ni jour ni heure ; la notice du réseau (vendredi 18h30-19h30, salle de l'Agora)
+   n'est pas datée et la page de la Ville (2021) dit 18h-20h (règle 195). **Zéro.**
+4. **Quincy-Voisins** (5 547) — la Ville coupe la connexion (444) à l'agent nommé, `robots.txt` compris, et répond 200 à l'agent
+   par défaut (règle 257). Les deux opérateurs bio ont leur certificat arrêté. **Zéro.**
+5. **Crégy-lès-Meaux** (5 446) — seul un marché de Noël ; au registre, un supermarché. **Zéro.**
+6. **Mormant** (5 282) — aucun marché publié. Le domaine de Malassise est certifié pour ses fruits et légumes, mais son site ne
+   parle que de réceptions : aucune vente au public ni horaire publié. L'élevage de poules du registre ne vend qu'en gros ; un
+   apiculteur est inscrit sous le nom de son exploitant. **Zéro.**
+7. **Brou-sur-Chantereine** (5 196) — marché du samedi 8h30-12h30 (angle de l'avenue de la République et de la rue du Marché),
+   dont les familles ne sont écrites que dans une affiche pleine de visages ; mentions interdisant toute reproduction des
+   éléments du site sans accord écrit. Le primeur de la rue Lazare-Carnot est un revendeur (règle 304). **Zéro.**
+8. **Trilport** (5 146) — deux marchés annuels seulement ; photographies de la Ville toutes avec visages, et
+   « représentations photographiques » réservées. L'AMAP (lundi 19h-20h, salle des associations, rue des Vignes) n'a pour
+   source que la notice non datée du réseau ; la Ville annonce ses dix ans le 26 septembre 2026 sans jour de distribution
+   (règle 195). L'épicerie de terroir est **fermée** au registre et son site refuse l'agent nommé. **Zéro.**
+9. **Villenoy** (5 127) — marché du mercredi 8h30-12h, place des Tilleuls (boucher, primeur, fromager ; page de janvier 2023),
+   place que la Base ignore ; images de banque et reproduction interdite. L'association maraîchère d'insertion a son certificat
+   arrêté et ne publie aucune vente. **Zéro.**
+10. **Crécy-la-Chapelle** (4 973) — trois marchés cités sans heures ni familles (règle 197) ; réserve expresse sur les
+    « représentations iconographiques et photographiques ». L'épicerie en vrac du registre bio est **fermée** depuis juillet
+    2026 ; les deux maraîchers de la liste municipale portent un nom de personne. **Zéro.**
+11. **Souppes-sur-Loing** (4 952) — la Ville suit le gabarit de la règle 309, mais son marché du dimanche (9h-12h, « place de
+    l'Église ») ne porte aucune famille de produits (règle 197), la place n'est pas dans la Base, et la seule photographie montre
+    des passants reconnaissables devant des étals de textile. **Zéro.**
+12. **La Ferté-Gaucher** (4 743) — marché du jeudi 8h-12h30 sans lieu ni familles (règle 197), images de 252 à 340 px (règle 59) ;
+    les exploitations du registre bio ne vendent pas aux particuliers ou sont au nom de leur exploitant. **Zéro.**
+
+**Ain, second département (règle 248)** — Meximieux puis Lagnieu.
+
+1. **Meximieux** (8 247) — **trois lieux aux faits entiers, aucun illustrable** : le marché du mercredi (8h-13h, place du
+   Lieutenant-Giraud, familles écrites pour lui ; page d'août 2026), mais la Ville interdit toute reproduction et sa seule image
+   est achetée à une banque ; le magasin Biocoop de la rue des Granges (société active, horaires publiés, **carte de ses propres
+   producteurs locaux**, règle 276), dont les conditions d'utilisation interdisent de reprendre les photographies ; l'AMAP
+   (mardi 18h30-19h30, préau de la mairie, site vivant daté de 2026), dont le site n'a aucune photographie et des mentions de
+   gabarit laissées à moitié remplies (règle 310). **Zéro**, faute d'image.
+2. **Lagnieu** (7 411) — deux marchés entiers dans leurs faits (lundi 8h-12h, parking de l'Industrie ; vendredi 8h-12h, place de
+   la Liberté, alimentaire seulement), familles écrites pour chacun ; mais la Ville soumet « les images » à autorisation (règle
+   231) et ses photographies sont servies par un hébergeur qui exclut plusieurs agents d'IA. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** (consignées, aucune tranchée faute de fiche publiable) : adresse du Biocoop de Meximieux (rue des Granges sur son
+site, rue de la Tréfilerie dans l'annuaire de la Ville — le site que tient le commerce l'emporte) ; heure de l'AMAP de Mouroux
+(18h30-19h30 au réseau, 18h-20h à la Ville en 2021) ; lieu du marché de Souppes-sur-Loing (« place de l'Église » à la Ville, un
+panneau « place de la République » sur sa photographie) ; adresse des casiers de Souppes (avenue du Maréchal-Leclerc à la Ville,
+un hameau voisin au registre).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. À Fontenay-Trésigny, Crécy-la-Chapelle, Mormant,
+Trilport, Souppes-sur-Loing, La Ferté-Gaucher, Meximieux et Lagnieu, des exploitations inscrites sous le nom de leur
+exploitant. Les notices d'AMAP, l'annuaire de Meximieux et les pages de commerces de Brou et de Crécy publient des noms et des
+portables : rien n'est repris.
+
+**Écarts de méthode signalés** : pendant le criblage, une requête a touché un chemin de recherche que le `robots.txt` de
+Souppes-sur-Loing interdit à tous (`*?s=`) ; sa réponse n'a pas été exploitée. La liste des AMAP du 77 a été obtenue par le
+formulaire de recherche public du réseau régional (aucune donnée saisie hors le département).
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprendra à **Guignes** (4 448), puis Jouarre. L'**Ain** reprend à
+**Viriat** (7 102).
+
+**Pistes non publiées (Seine-et-Marne et Ain)** — lignes anonymes :
+
+- Meximieux, marché du mercredi, magasin Biocoop de la rue des Granges et AMAP du préau de la mairie : faits entiers, aucune
+  image permise. **Déblocage** : une photographie thématique permise de la commune (règle 312), qui ferait deux fiches entières.
+- Lagnieu, marchés du lundi et du vendredi : faits entiers, images fermées (règle 231). **Déblocage** : une photographie du lieu
+  publiée par un éditeur qui en permet la reprise.
+- Esbly, marché du jeudi : faits entiers, images réservées à l'usage privé (règle 296). **Déblocage** : idem.
+- Trilport et Mouroux, AMAP : sorties par la règle 195. **Déblocage** : une source datée de l'association donnant jour, heure et
+  lieu.
+
 ### Passe du 26 septembre 2026 (cinquante-septième) : Seine-et-Marne et Ain, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
