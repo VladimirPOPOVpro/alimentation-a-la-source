@@ -4416,6 +4416,27 @@ prioritaires en cas de conflit.
      photographie permise du lieu ou de la commune (règles 231 et 312), en plus des deux points voisins que la règle 258
      demandait déjà.
 
+359. **Un `robots.txt` qui, sous `User-agent: *`, écrit à la fois `Disallow: /` et `Allow: /` n'exclut personne : à
+     longueur égale, c'est la permission qui s'applique.** Le `robots.txt` de la Ville de Béthune porte, sous un seul groupe
+     `User-agent: *`, un bloc commenté « à retirer après la mise en ligne » (`Allow: /index.html`, `Disallow: /`) resté en
+     place, suivi d'un bloc « à décommenter après la mise en ligne » qui écrit `Allow: /`. La règle 282 ferme un site dont la
+     racine est interdite à tout robot non nommé ; elle suppose une interdiction que rien ne contredit. **Tranché ainsi** : c'est
+     la convention du protocole (RFC 9309) — entre deux règles de même longueur, l'une qui permet et l'autre qui interdit, la
+     permission l'emporte —, et les deux agents reçoivent d'ailleurs la même réponse ; le site se lit, sous ses propres clauses
+     (ici, reproduction réservée à l'usage privé, règle 296). Un `Disallow: /` que rien ne contredit reste sous la règle 282.
+
+360. **Sur le site d'un commerce, une photographie qui porte les marques d'une image de banque ne se reprend pas, même quand
+     le site n'a aucune clause.** La Ferme de la Chesnaie, à Bâgé-Dommartin, publie sans mentions légales ni réserve sur les
+     images ; mais ses grands bandeaux sont des photographies culinaires de studio (cuisses confites sur ardoise, romarin,
+     verre de vin) et un paysage vallonné de maïs irrigué au canon qui n'a rien du relief de la Bresse, assombris d'un même
+     calque, quand les seules vues manifestement prises à la ferme (canetons dans la paille) font 501 px. La règle 337 ferme une
+     image d'annuaire dont l'origine est douteuse ; la règle 70 ferme l'image de banque ; aucune ne visait le site du commerce
+     lui-même, premier recours d'`AGENT.md`. **Tranché ainsi** : le premier recours vaut pour les photographies du commerce,
+     pas pour tout fichier servi par son site ; une image dont le cadrage, le stylisme ou le paysage contredit le lieu se traite
+     comme une image de banque, et le doute sur son origine la ferme. Les photographies propres sous le plancher de 600 px
+     restent sous la règle 59, et la fiche cherche une photographie thématique permise de sa commune (règles 312 et 352).
+     **Déblocage** : une vue de la ferme ou de son point de vente, d'au moins 600 px, publiée sans réserve.
+
 ## Marchands à confirmer
 
 781 fiches sur 884 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11728,6 +11749,107 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (soixante et unième) : Ain et Pas-de-Calais, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher,
+Calvados, Aube, Mayenne, Loiret et Cher épuisés (règle 265) ; **Ain (01) 3,7094**, premier département non épuisé ;
+**Pas-de-Calais (62) 3,6908**, second (règle 248). La dernière région visée reste l'Île-de-France. `origin/main` n'a pas bougé
+entre le calcul et la fin de la passe (règle 241). Rien n'étant publié, le classement reste le même.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Reprise désignée de l'Ain : Villars-les-Dombes.** Aucune des douze communes de la descente n'appartient à la communauté de
+communes de la Dombes ; aucun point nouveau à moins de quinze kilomètres n'a donc été trouvé en chemin, et la passe n'a pas
+rouvert le criblage de la Dombes fait la veille (règle 247). Les deux fiches restent désignées, avec le même déblocage.
+
+**Ain : descente reprise à Saint-Maurice-de-Beynost (règle 247), douze communes.** Sources : sites des Villes (domaines lus à
+l'annuaire de l'administration, code postal contrôlé, règle 327 ; deux requêtes chacun, règle 257 — tous répondent de même aux
+deux agents) ; registre de l'Agence Bio (01) ; office du Pays de Bâgé et de Pont-de-Vaux ; registre des entreprises ; Base
+Adresse Nationale.
+
+1. **Saint-Maurice-de-Beynost** (4 332) — un « marché hebdomadaire » du samedi 7h-13h place Charles-de-Gaulle n'est connu que
+   par une entrée d'agenda datée d'un seul samedi d'avril 2026, sans aucune famille, et son affiche n'est plus servie (404) ;
+   la page « Alimentation » de la Ville ne cite qu'une boucherie, une boulangerie et un supermarché. **Zéro.**
+2. **Bâgé-Dommartin** (4 050) — **faits entiers, aucune image permise.** La Ville publie, dans sa page des commerces, une liste
+   de ventes à la ferme ; quatre se vérifient entièrement par leur propre site et par le registre : **Les Jardins d'Aestiv**
+   (EARL certifiée bio, point de vente route de la Terrasse le vendredi 16h-19h, 15h30-18h30 du 15 novembre au 15 février ;
+   farines, huiles, lentilles, pois chiches, viande bovine), **L'Atelier de Niermont** (EARL, vente libre le vendredi
+   14h30-18h30 ; farines, huiles, pâtes, lentilles, pois chiches ; HVE revendiquée), **la Ferme Désiris** (GAEC « La Ferme des
+   Iris », vente libre le mercredi 11h-12h et 14h-17h ; yaourts et desserts lactés fermiers) et **la Ferme de la Chesnaie**
+   (EARL, vente à la ferme du mercredi au vendredi 9h-12h, tous les jours du 16 au 31 décembre ; foie gras, viandes et plats de
+   canard). Mais la Ville nomme les photos dans son interdiction (règle 231) ; l'office de tourisme du Pays de Bâgé et de
+   Pont-de-Vaux soumet « textes, images » à autorisation écrite (règle 231) ; les sites d'Aestiv (« © » posé sur les
+   illustrations, règle 291), de Niermont et de Désiris (même gabarit : interdiction et illustrations sous le même intertitre,
+   règle 253) ferment leurs images ; le site de la Chesnaie n'a aucune clause, mais ses bandeaux portent les marques d'images de
+   banque et ses propres vues font 501 px (**règle 360**, nouvelle). Aucune autre photographie permise de la commune : les
+   autres fermes n'ont qu'un réseau social. Un marché de producteurs du samedi 8h30-12h30, route des Sables, n'est décrit que
+   par l'office (familles « fruits et légumes ») et par la liste de la Ville sans jour ni heure, à deux numéros différents de la
+   même route (850 et 1010) : il relève des règles 5 et 196. **Zéro zone.**
+3. **Replonges** (3 956) — aucun marché ni producteur publié par la Ville (sitemap et recherche lus). **Zéro.**
+4. **Villieu-Loyes-Mollon** (3 849) — page des activités économiques : exploitations présentées sous le nom de leurs
+   exploitants, aucun marché. **Zéro.**
+5. **Montmerle-sur-Saône** (3 799) — marché du jeudi et du dimanche, 7h-12h, place du Marché, avec la liste des étals tenue par
+   la Ville (fruits et légumes, fromages, volailles et miel, œufs, rôtisserie, yaourts fermiers, boucherie-charcuterie, pain,
+   poisson ; mise à jour de mai 2024) : **faits entiers**. Le site n'a pas de mentions légales, mais sa seule photographie de
+   marché montre une foule reconnaissable sur le quai et des étals non alimentaires (règles 46 et 185 : aucun recadrage
+   exploitable), et ses vignettes de produits sont des images de banque (règle 70). Aucune seconde fiche dans la commune.
+   **Zéro.**
+6. **Montréal-la-Cluse** (3 568), 7. **Arbent** (3 555), 8. **Loyettes** (3 554) — aucun marché hebdomadaire sur les sites des
+   Villes (recherche interne) ; à Arbent, un magasin bio indépendant du registre, seul, sans liste de producteurs. **Zéro.**
+9. **Béligneux** (3 535) — l'annuaire de la Ville (gabarit de la communauté de communes) a un filtre « Marché » sans aucun
+   marché décrit. **Zéro.**
+10. **Bellignat** (3 525) — aucun marché ni producteur publié. **Zéro.**
+11. **Culoz-Béon** (3 453) — aucun marché publié ; une brasserie certifiée sans site ; un domaine viticole qui reçoit sur
+    rendez-vous du lundi au samedi, mais dont la société exploitante porte un prénom : **écarté pour doute sur une personne**,
+    il ne se rouvre pas. **Zéro.**
+12. **La Boisse** (3 449) — page des commerces vide, aucun marché. **Zéro.**
+
+**Pas-de-Calais, second département (règle 248)** — Hénin-Beaumont puis Béthune.
+
+1. **Hénin-Beaumont** (25 688) — la Ville ne publie aucune page de ses marchés : un avis sanitaire de 2021 cite les marchés du
+   mardi et du vendredi sans lieu ni heure, les autres pages sont des appels à candidatures. Le magasin bio de réseau de la
+   zone du Bord-des-Eaux ne publie que la liste nationale des paysans associés du réseau (règle 273) ; le jardin d'insertion
+   de la rue Jules-Ferry a un certificat arrêté et un site qui ne répond pas (règle 237). **Zéro.**
+2. **Béthune** (25 224) — `robots.txt` lu au titre de la **règle 359** (nouvelle). La page « Les marchés et brocantes » de la
+   Ville donne six séances avec jour, heure, lieu et famille : lundi 6h-13h (alimentation, fruits et légumes, vêtements ;
+   place Lamartine, place Yitzhak-Rabin, rue du Tribunal, rue Sadi-Carnot, Grand'Place), mardi 15h-18h (produits frais et
+   locaux, parking de l'église Saint-Christophe), jeudi 16h-19h (produits frais et locaux, parvis de la gare), vendredi 6h-13h
+   (alimentation, fruits et légumes, places Lamartine et Rabin), et deux séances au Mont-Liébaut. Mais la Ville réserve la
+   reproduction de ses données à l'usage privé et pose « © » sur ses photographies (règles 291 et 296), et l'office de tourisme
+   de Béthune-Bruay interdit l'usage de ses images sans autorisation (règle 231). **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** (consignées, aucune tranchée faute de fiche publiée) : marché de producteurs de Bâgé-Dommartin (850 route
+des Sables pour la Ville, 1010 pour l'office) ; grand marché du lundi de Béthune (6h-13h pour la Ville, 6h-14h pour l'office —
+la Ville l'emporterait, règle 176).
+
+**Fiches écartées pour doute sur une personne** : une à Culoz-Béon (domaine viticole). Ailleurs, à Bâgé-Dommartin, une chèvrerie
+dont l'enseigne porte un prénom et deux exploitations désignées par un patronyme ; à Villieu-Loyes-Mollon et sur la liste des
+exposants de Montmerle-sur-Saône, des exploitants nommés : rien n'est repris. Les portables que publient la Ville de
+Bâgé-Dommartin et les sites de trois fermes sous le nom de leurs exploitants ne sont reproduits nulle part (règle 269).
+
+**Points d'arrêt** : l'**Ain** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra reprend d'abord les
+deux fiches désignées de Villars-les-Dombes, puis descend à **Nantua** (3 416). Le **Pas-de-Calais** reprend à
+**Bruay-la-Buissière** (21 424).
+
+**Pistes non publiées (Ain et Pas-de-Calais)** — lignes anonymes :
+
+- Bâgé-Dommartin, magasins à la ferme des Jardins d'Aestiv, de L'Atelier de Niermont, de la Ferme Désiris et de la Ferme de la
+  Chesnaie : quatre fiches aux faits entiers, aucune image permise. **Déblocage** : une photographie permise d'un de ces lieux
+  ou de la commune (règles 312 et 360) ; deux fiches entières feraient alors la règle 127, les deux autres complétant la zone
+  dans la communauté de communes Bresse et Saône (règle 320).
+- Montmerle-sur-Saône, marché du jeudi et du dimanche : faits entiers, aucune image utilisable. **Déblocage** : une
+  photographie du marché sans visage ou thématique permise de la commune, et une seconde fiche entière dans la commune.
+- Béthune, marchés du lundi et du vendredi (un seul point, règle 42), du mardi, du jeudi et du Mont-Liébaut : faits entiers,
+  images fermées. **Déblocage** : une photographie permise d'un marché (exposant, règle 286) ou d'un commerce de la commune
+  (règle 312).
+- Bâgé-Dommartin, marché de producteurs de la route des Sables : lieu contesté, heures publiées par l'office seul.
+  **Déblocage** : jour, heure et numéro publiés par la Ville ou par l'organisateur.
 
 ### Passe du 26 septembre 2026 (soixantième) : Ain et Pas-de-Calais, aucune publication
 
