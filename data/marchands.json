@@ -23159,5 +23159,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47.178926,-1.462014",
     "image_url": "/images/marchands/la-maison-de-la-pomme-vertou.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-rambouillet",
+    "nom": "Marché de Rambouillet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.645138,
+    "lon": 1.819797,
+    "adresse": "Place de la Libération, 78120 Rambouillet",
+    "horaires": "Mercredi de 8h à 13h, place de la Libération (une vingtaine d'exposants) ; samedi de 8h à 13h, place de la Libération, place Félix-Faure et rue de Gaulle (environ quatre-vingts exposants), d'après la page « Marchés forains » de la Ville mise à jour le 8 septembre 2026. Le samedi 3 octobre 2026, le marché est exceptionnellement déplacé rue G.-Lenotre pour la fête de la Saint-Lubin.",
+    "produits": [
+      "Poisson",
+      "Boucherie",
+      "Produits de producteurs",
+      "Plats de traiteur",
+      "Fruits et légumes"
+    ],
+    "description": "Les deux marchés forains du centre-ville se tiennent sur la même place : celui du mercredi est un marché de proximité surtout de commerces de bouche (poissonniers, bouchers, producteurs, traiteurs) ; celui du samedi, bien plus grand, déborde sur la place Félix-Faure et ajoute l'équipement de la maison et de la personne. Photo : Ville de Rambouillet (rambouillet.fr, page « Marchés forains » mise à jour le 8 septembre 2026), droits réservés, recadrée sur les étals.",
+    "site_web": "https://rambouillet.fr/vie-pratique/commerces/marches-forains/",
+    "image_url": "/images/marchands/marche-de-rambouillet.jpg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.645138,1.819797"
+  },
+  {
+    "slug": "amap-le-clos-fleuri-rambouillet",
+    "nom": "AMAP Le Clos Fleuri",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.636889,
+    "lon": 1.830428,
+    "adresse": "4 rue Chateaubriand, 78120 Rambouillet",
+    "horaires": "Distribution chaque vendredi de 18h30 à 19h15 dans le quartier Saint-Hubert, d'après le site de l'AMAP ; l'annuaire du réseau des AMAP d'Île-de-France donne le 4 rue Chateaubriand et le vendredi de 19h à 20h. Paniers réservés aux adhérents, par contrat.",
+    "produits": [
+      "Panier de légumes de saison (6 à 8 produits)",
+      "Pommes et poires, d'octobre à février",
+      "Agrumes, huile et fruits d'Andalousie",
+      "Pâtes locales",
+      "Tisanes",
+      "Miel, farines, cidre et jus de pomme, sur commande"
+    ],
+    "description": "AMAP qui se présente comme « tout en bio », active entre Bonnelles et Rambouillet : un contrat annuel de légumes avec un maraîcher de Bonnelles et des contrats ponctuels avec des fermes voisines. Le point est l'adresse de l'annuaire du réseau, à 110 m de l'école Saint-Hubert. Photo : site de l'AMAP, rangs de salades sous la serre de son maraîcher.",
+    "site_web": "http://le-clos-fleuri.amap-rambouillet.org/",
+    "image_url": "/images/marchands/amap-le-clos-fleuri-rambouillet.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.636889,1.830428"
+  },
+  {
+    "slug": "amap-les-caramboles-rambouillet",
+    "nom": "AMAP Les Caramboles",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.646518,
+    "lon": 1.826821,
+    "adresse": "1 ter rue Dubuc, 78120 Rambouillet",
+    "horaires": "Distribution chaque jeudi de 19h à 19h45, 1 ter rue Dubuc, à côté de la MJC, d'après le site de l'AMAP (mis à jour le 13 septembre 2026). Adhésion de 10 € par an, commandes et contrats gérés en ligne.",
+    "produits": [
+      "Légumes",
+      "Fromages de chèvre",
+      "Œufs",
+      "Pain",
+      "Fruits"
+    ],
+    "description": "AMAP de Rambouillet, inscrite à l'annuaire des associations de la Ville, qui passe des contrats avec des fermes des environs : légumes d'une ferme près de Chartres, fromages de chèvre et pain de La Celle-les-Bordes, œufs et fruits des Alluets-le-Roi. La photo, un étal du marché de Rambouillet publié par la Ville, ne montre pas l'AMAP.",
+    "site_web": "http://les-caramboles.amap-rambouillet.org/",
+    "image_url": "/images/marchands/amap-les-caramboles-rambouillet.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.646518,1.826821"
+  },
+  {
+    "slug": "boutique-de-la-bergerie-nationale-rambouillet",
+    "nom": "Boutique de la Bergerie nationale",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.646714,
+    "lon": 1.800126,
+    "adresse": "Bergerie Nationale, 78120 Rambouillet",
+    "horaires": "Du mercredi au dimanche, les jours fériés et tous les jours des vacances scolaires de la zone C, de 11h à 18h30, d'après le site de la Bergerie nationale ; la fiche du comité départemental du tourisme donne de 14h à 18h. Fermée le 1er janvier et le 25 décembre.",
+    "produits": [
+      "Produits laitiers bio de la ferme (yaourts, fromages)",
+      "Viande et terrines de mouton Mérinos",
+      "Farines de la ferme",
+      "Conserves",
+      "Produits de partenaires locaux"
+    ],
+    "description": "Boutique de l'exploitation de la Bergerie nationale, ferme modèle créée en 1783, aujourd'hui établissement du ministère de l'Agriculture, et célèbre pour son troupeau de Mérinos, convertie à l'agriculture biologique (certification obtenue en 2015 selon la Ville ; engagement Bureau Veritas au registre de l'Agence Bio) ; elle vend les produits transformés sur place, à côté du Mérinos café. Photo : Ville de Rambouillet (rambouillet.fr, page « Bergerie nationale » mise à jour le 17 décembre 2025), droits réservés, recadrée.",
+    "telephone": "01 61 08 69 09",
+    "site_web": "https://www.bergerie-nationale.fr/animations-bergerie/boutique-merinos-cafe/",
+    "image_url": "/images/marchands/boutique-de-la-bergerie-nationale-rambouillet.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.646714,1.800126"
+  },
+  {
+    "slug": "ferme-de-la-villeneuve-rambouillet",
+    "nom": "Ferme de la Villeneuve",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.643538,
+    "lon": 1.856805,
+    "adresse": "60 rue du Champ de Courses, 78120 Rambouillet",
+    "horaires": "Boutique ouverte le mercredi et le dimanche de 10h30 à 12h30, le vendredi et le samedi de 10h30 à 12h30 et de 17h30 à 19h, d'après le site de la ferme et le comité départemental du tourisme. Fermeture annoncée cet été du 28 juillet au 27 août.",
+    "produits": [
+      "Lait cru de vache et crème fraîche",
+      "Fromage de campagne",
+      "Viande de porc, veau, bœuf, agneau et chevreau",
+      "Pâtés et rillettes de la ferme",
+      "Fruits et légumes de saison français"
+    ],
+    "description": "Élevage de Rambouillet qui vend à sa boutique le lait, la crème et le fromage qu'il produit chaque jour, la viande de ses animaux et ses conserves, avec des fruits et légumes de saison d'origine française. La photo, des carottes publiées par l'AMAP Le Clos Fleuri, ne montre pas la ferme.",
+    "site_web": "https://lafermedelavilleneuve.fr/",
+    "image_url": "/images/marchands/ferme-de-la-villeneuve-rambouillet.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.643538,1.856805"
   }
 ]

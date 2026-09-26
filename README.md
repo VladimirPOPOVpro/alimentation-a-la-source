@@ -4320,9 +4320,38 @@ prioritaires en cas de conflit.
      crédite au commerce lui-même, à une Ville ou à l'agence qu'il a mandatée restent sous le régime du site départemental.
      **Déblocage** : la même photographie publiée par la Ville ou par le commerce sous une clause qui permet la reprise.
 
+352. **Une photographie de marché que la Ville ouvre par la règle 309 peut, prise dans un autre fichier que celui de la fiche
+     du marché, illustrer comme photographie thématique une AMAP de la même commune qui n'a aucune image utilisable.** À
+     Rambouillet, l'AMAP Les Caramboles a des faits entiers et datés (site mis à jour le 13 septembre 2026, annuaire des
+     associations de la Ville), mais son site ne porte qu'un bandeau barré de texte de 240 px de haut et une vignette de
+     320 px ; il ne ferme pas ses images, il n'en a pas. La règle 312 ne joue que pour une fiche « dont toutes les sources
+     ferment les images » ; la règle 1 admet pourtant une photographie thématique honnête de la même commune, et la règle 66
+     n'interdit que de servir deux fiches avec **le même** fichier. **Tranché ainsi** : la galerie « Photos du marché de
+     Rambouillet » compte plusieurs fichiers ; celui qui illustre la fiche du marché lui reste propre (règle 191), un autre de
+     la même galerie peut illustrer l'AMAP, recadré sur un étal de légumes sans marque ni visage (règle 332), avec la même
+     citation que la règle 309 exige et une description qui dit que l'image ne montre pas l'AMAP. Une AMAP dont la seule
+     source ferme ses images reste sous la règle 312.
+353. **Un site départemental qui cesse de répondre en cours de passe ne compte, pour la règle 312, ni comme source ouverte ni
+     comme source relue.** Le comité départemental du tourisme des Yvelines a servi ses fiches aux deux agents, puis n'a plus
+     ouvert aucune connexion de la passe (règle 297), avant qu'on ait pu lire ses mentions légales. La Ferme de la Villeneuve
+     avait ses faits entiers sur son propre site, confirmés à l'heure près par la fiche du comité lue avant la coupure, mais
+     ses mentions légales nomment les images (règle 231). La règle 230 aurait fait descendre à la photographie du comité,
+     dont on ne pouvait plus lire ni le fichier ni la clause. **Tranché ainsi** : une photographie qu'on ne peut ni télécharger
+     ni rattacher à une clause lue n'illustre rien (règle 322) ; la fiche est traitée comme une fiche dont toutes les sources
+     ferment les images, et la règle 312 s'applique — photographie thématique publiée sans clause par un autre commerce de la
+     commune, matière première et non rayon (règle 332), description qui dit d'où elle vient. Les faits lus avant la coupure
+     restent lus. **Déblocage** : à la prochaine passe dans les Yvelines, si le comité répond et que sa clause permet la
+     reprise, sa photographie du lieu remplace la photographie thématique.
+
 ## Marchands à confirmer
 
-770 fiches sur 870 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+774 fiches sur 875 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP Le Clos Fleuri** (Rambouillet) (passe du 26 septembre 2026 ; heures du site de l'AMAP, 18h30-19h15, contre
+  19h-20h à l'annuaire du réseau ; point à l'adresse de l'annuaire, à 110 m de l'école Saint-Hubert, quartier que nomme le site).
+- **AMAP Les Caramboles** (Rambouillet) (photographie thématique de la Ville, règle 352).
+- **Boutique de la Bergerie nationale** (Rambouillet) (11h-18h30 sur le site de la Bergerie, page de mars 2024, contre 14h-18h
+  au comité départemental ; règle 5, version de l'établissement publiée ; point au lieu-dit de la Base Adresse Nationale).
+- **Ferme de la Villeneuve** (Rambouillet) (photographie thématique, règle 353 ; téléphone non repris, faute de fixe publié).
 - **Chlorophylle Rezé Atout Sud** (Rezé) (fiche désignée pour la reprise par la passe du 25 septembre 2026 ; `magasin-bio`,
   règle 3. **Registre, règle 6** : EURL active au 18 rue Ordronneau (47.11D) ; engagement Bureau Veritas de juillet 2011 au
   registre de l'Agence Bio, à cette adresse. **Horaires** : page du magasin. **Point** : Base Adresse Nationale au numéro
@@ -11610,6 +11639,76 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (quarante-neuvième) : Rambouillet (Yvelines), cinq fiches publiées, quatrième commune de la descente
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, sur 870 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube, Mayenne et Cher épuisés (règle 265) ; **Yvelines (78) 3,7378** ; Loiret 3,7219. La dernière passe publiée visait les Pays
+de la Loire : Île-de-France et Nouvelle-Aquitaine ouvertes. `origin/main` n'a pas bougé pendant la passe (règle 241).
+**Après la passe**, sur 875 fiches : Yvelines −1,1545 ; en tête des départements non épuisés, le **Loiret** (3,7721). La
+prochaine passe ne peut pas viser l'Île-de-France (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne (règles 266 et 322, Nouvelle-Aquitaine ouverte).** `seignosse.fr` et
+`www.seignosse.fr` ont répondu 200 aux deux agents à la première requête, puis n'ont plus ouvert aucune connexion (une vingtaine d'essais
+sur treize minutes, les deux agents) : règle 297, le marché de Seignosse n'est pas relu. Trois points relus ce jour : la page
+« Marchés » de Labenne (7 juillet 2026, inchangée), le site de l'AMAP (distribution du jeudi 18h-19h, toujours vérolé, règle
+101) et la page « Producteurs » de Saint-Jean-de-Marsacq (heures des Jardins de Castelnau inchangées). **Trois points** : le
+groupe ne se publie pas. **Déblocage** inchangé : le retour durable de `seignosse.fr`.
+
+**Yvelines : descente reprise après Plaisir, quatre communes, Rambouillet fait la passe (règle 127).** Sources : site de chaque
+Ville ; fiches du comité départemental `destination-yvelines.fr` (lues au début de la passe, puis site muet, règles 297 et 353) ;
+annuaire du réseau AMAP d'Île-de-France (recherche du 78) ; registre de l'Agence Bio (820 opérateurs) ; registre des
+entreprises ; Base Adresse Nationale. Les communes déjà éprouvées par la passe de Plaisir ne sont pas rouvertes (règle 247).
+
+1. **Le Chesnay-Rocquencourt** (30 689) — marché des mercredi et samedi rue des Deux-Frères, familles écrites par la Ville,
+   mais **aucune heure publiée** ; la page nomme les commerçants et leurs portables (rien n'en est repris) ; l'AMAP n'a que
+   l'annuaire du réseau (règle 195) ; le registre bio ne rend rien en vente au détail. **Zéro.**
+2. **Chatou** (30 598) — la Ville nomme « photos, images » dans son interdiction (règle 231) et ne publie pas son marché ; au
+   registre et au comité, seulement une pâtisserie et une chocolaterie. **Zéro.**
+3. **Guyancourt** (29 778) — **une fiche entière** : La COOP Villaroise, magasin bio coopératif (SCOP active, Biomonde,
+   engagement bio au registre), 3 place Charlotte-Perriand, lundi-vendredi 10h-20h et samedi 9h-20h, annonce datée de septembre
+   2026, photographie de son rayon de kiwis des Alluets-le-Roi sur un site sans clause. L'AMAP de l'Assos'Régal a des faits datés
+   (tract de janvier 2026 : mardi 18h30-19h45, dans une maison de quartier de la commune) mais aucune image utilisable (le tract
+   nomme une personne, l'autre image fait 505 px) ; deux autres AMAP sont sur `wordpress.com`, qui refuse l'agent nommé (règle
+   257) ; le marché de la place du Marché n'a aucune famille écrite (règle 197) et la Ville réserve ses photographies à l'usage
+   privé. Dans Saint-Quentin-en-Yvelines, l'AMAP des Hameaux refuse l'agent nommé et le hangar de l'AMAP de Villepreux n'a de
+   point qu'au nom d'un exploitant. **Une fiche, pas deux : zéro zone.**
+4. **Rambouillet** (27 724) — **cinq fiches entières dans la commune**, toutes à moins de 2,3 km de leur barycentre
+   (48.6438 / 1.8268) :
+   - **Marché de Rambouillet** — page « Marchés forains » de la Ville mise à jour le 8 septembre 2026 : mercredi 8h-13h
+     (poissonniers, bouchers, producteurs, traiteurs) et samedi 8h-13h, tous deux place de la Libération, le samedi débordant
+     sur la place Félix-Faure : une seule fiche, deux régimes (règle 42). Photographie de la galerie de la Ville, gabarit de la
+     règle 309, recadrée sous les passants (règle 46).
+   - **AMAP Le Clos Fleuri** — distribution du vendredi, site vivant (dépôts de janvier 2026) ; photographie de la serre de son
+     maraîcher, sans personne, publiée sur un site sans clause. Contradiction d'heure consignée (règle 5).
+   - **AMAP Les Caramboles** — site mis à jour le 13 septembre 2026, fiche de l'annuaire des associations de la Ville (juin
+     2026) ; **règle 352 (nouvelle)** pour l'image.
+   - **Boutique de la Bergerie nationale** — site de la Bergerie (heures et gamme), page « Bergerie nationale, 10 ans de bio » de
+     la Ville (novembre 2025) ; l'établissement ferme ses photographies, la Ville ouvre les siennes (règle 309) : la cour de la
+     Bergerie, recadrée pour sortir deux visiteurs lointains. Contradiction d'heure avec le comité consignée (règle 5).
+   - **Ferme de la Villeneuve** — SCEA active ; heures identiques sur son site et au comité ; **règle 353 (nouvelle)** pour
+     l'image (carottes publiées par l'AMAP Le Clos Fleuri, un autre fichier que celui de sa fiche).
+
+**Non instruits à Rambouillet**, la zone étant faite : l'épicerie de vrac et la fromagerie fichées par le comité ; les
+grandes surfaces sont écartées d'office.
+
+**Contradictions** : deux, tranchées par la règle 5 et écrites dans les fiches (Clos Fleuri, Bergerie).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière ; au Chesnay-Rocquencourt, la liste des commerçants
+du marché et, à Villepreux, le point du hangar, inscrits sous des noms de personnes, ne sont pas repris. Aucun nom n'est écrit.
+
+**Points d'arrêt** : dans les **Yvelines**, la descente reprendra à **Élancourt** (26 365) — dont la Ville refuse l'agent
+nommé (règle 257). Le **Loiret** reprend, à la prochaine passe, par les deux marchés de Châlette-sur-Loing puis Traînou.
+
+**Pistes non publiées (Yvelines)** — lignes anonymes :
+
+- Guyancourt, magasin bio coopératif : une fiche entière, seule. **Déblocage** : une seconde fiche entière dans la commune.
+- Guyancourt, AMAP de l'Assos'Régal : faits datés, aucune image utilisable. **Déblocage** : une photographie sans nom de
+  personne publiée par l'association.
+- Le Chesnay-Rocquencourt, marché de la rue des Deux-Frères : familles écrites, heures absentes. **Déblocage** : des heures
+  publiées par la Ville.
 
 ### Passe du 26 septembre 2026 (quarante-huitième) : Rezé et Nantes Métropole, cinq fiches publiées
 
