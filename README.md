@@ -11763,6 +11763,93 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 27 septembre 2026 (soixante-dixième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 884 fiches) : inchangé — départements épuisés sautés
+(règle 265), **Pas-de-Calais (62)** premier département non épuisé (déficit 3,69), **Charente-Maritime (17)** second (3,62,
+règle 248). La dernière région visée reste l'Île-de-France. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais**, descente reprise à Brebières. Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle
+327), registre de l'Agence Bio (62), registre des entreprises.
+
+1. **Brebières** (5 283) — la Ville publie un marché mensuel (troisième dimanche) sans lieu ni heure, et aucun autre commerce en
+   circuit court ; au registre bio, une grande surface et des industriels. **Zéro.**
+2. **Marquise** (5 217) — **faits entiers pour le marché du jeudi** (8h-13h, place de la Mairie ; familles écrites par la Ville :
+   fruits et légumes, produits du terroir), mais la clause de propriété intellectuelle nomme les images dans son interdiction
+   (règle 231). La page « Producteurs » de l'office de tourisme de la Terre des 2 Caps ne sert aucune fiche, même au navigateur
+   (règle 237) ; le magasin bio de réseau n'a pas de liste de producteurs propre (règle 273). Une seule fiche possible. **Zéro.**
+3. **Loison-sous-Lens** (5 169) — l'annuaire des commerces de la Ville ne compte aucun commerce alimentaire en circuit court, et
+   aucune page de marché ; au registre bio, un grossiste et deux grandes surfaces. **Zéro.**
+4. **Cucq** (5 129) — la Ville liste ses marchés (Cucq et Stella-Plage, dimanche et mercredi selon la saison) sans heure ni famille
+   (règle 197), et sa clause nomme les images (règle 231). **Zéro.**
+5. **Billy-Berclau** (5 093) — mentions légales sans clause sur les images. La ferme de la rue Pasteur a une enseigne neutre,
+   des horaires et des produits publiés par la Ville, mais le registre des entreprises ne la retrouve pas sous son enseigne ;
+   le marché du dimanche (8h-13h, parking de l'école maternelle) n'est documenté que par des annonces de 2023. Au mieux une
+   fiche. **Zéro.**
+6. **Haillicourt** (5 064) — aucune page de marché ni de commerce alimentaire ; au registre bio, une grande surface. **Zéro.**
+7. **Laventie** (5 044) — marché du mercredi après-midi décrit par une page de 2021, sans famille ; les mentions légales nomment
+   les images (règle 231). Les fermes que la Ville liste sont écartées pour doute sur une personne (voir plus bas). **Zéro.**
+8. **Saint-Étienne-au-Mont** (5 029) — la Ville sert l'agent par défaut (200) et refuse l'agent nommé, `robots.txt` compris
+   (403) : règle 257. Au registre bio, un atelier arrêté, une exploitation qui ne vend qu'en gros et une grande surface. **Zéro.**
+9. **Lestrem** (5 009) — la Ville coupe la connexion à l'agent nommé (444) : règle 257. Au registre bio, une association
+   maraîchère qui vend aux particuliers et une coopérative au certificat arrêté ; une fiche au mieux. **Zéro.**
+10. **Blendecques** (4 859) — le site de la Ville est une application qui ne sert aucun contenu sans script (règle 237) ; au
+    registre bio, des industriels. **Zéro.**
+11. **Vitry-en-Artois** (4 849) — la page des commerces ambulants est vide ; les mentions légales nomment les photographies puis
+    interdisent la reproduction (règle 246). Au registre bio, des grandes surfaces, des industriels et une exploitation qui ne
+    vend qu'en gros. **Zéro.**
+12. **Desvres** (4 829) — marché du mardi matin « au cœur de la ville », sans heure ni lieu précis, familles générales ; les
+    photographies sont nommées dans l'interdiction (règle 231). **Zéro.**
+
+**Charente-Maritime, second département (règle 248).**
+
+- **Saujon**, réessai de la règle 297 (une requête, hors borne) : le site de la Ville répond de nouveau aux deux agents. Instruite.
+  Les mentions légales ne parlent que de « contenus » (clause générale, règle 231), mais la seule photographie du marché couvert
+  fait 452 px, sous le plancher de la règle 59. La page des commerces donne deux régimes pour le marché couvert (« activité
+  principale le samedi, et le deuxième lundi de chaque mois, de 8h à 12h30 » ; plus bas « le mercredi et le samedi, jour de
+  principale activité ») : contradiction consignée, sans effet puisque la fiche ne se publie pas. Le site des commerçants refuse
+  l'agent nommé (règle 257) ; les exploitations écartées à la passe précédente ne se rouvrent pas. **Zéro.**
+
+1. **Surgères** (6 897) — la Ville refuse l'agent nommé (403, règle 257) : son site n'a pas été lu. **Faits entiers pour la
+   boutique du campus de l'alimentation** (1 rue des Babigeots ; mercredi 10h-12h, vendredi 9h30-12h30 et 14h-16h30 ; beurre,
+   fromages, yaourts biologiques, poissons fumés, biscuits, chocolats fabriqués par l'école ; certification biologique en cours
+   au registre), mais ses mentions légales nomment les images dans leur interdiction (règle 231) et aucune photographie
+   thématique permise de la commune n'existe. Le magasin bio de réseau relève de la règle 257 (site du réseau). **Zéro.**
+2. **Saint-Jean-d'Angély** (6 784) — marchés du mercredi et du samedi sous les halles (8h-12h30 l'hiver, 8h-13h l'été), mais
+   décrits seulement par « produits frais » (règle 197) ; la clause de la Ville nomme les photographies (règle 231). Au registre
+   bio, des grandes surfaces, des grossistes et une exploitation écartée pour doute sur une personne. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : une, à Saujon (jours du marché couvert), consignée ci-dessus ; la fiche n'étant pas publiée, rien n'est
+tranché. Si elle se débloque, elle porte les deux versions de la Ville, toutes deux plausibles, et passe en `a_confirmer`
+(règle 5).
+
+**Fiches écartées pour doute sur une personne** : cinq — à Laventie, quatre fermes que la page municipale présente par le nom de
+leurs exploitants (deux enseignes sont ce nom même ; une troisième n'a d'autre source que ce portrait nominatif et pas
+d'horaires ; la quatrième est une entreprise individuelle dont les seuls contacts sont un courriel et un portable personnels, sans
+horaires hors la saison) ; à Saint-Jean-d'Angély, une exploitation apicole dont l'enseigne est un patronyme. Aucun nom n'est
+repris.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint sa borne ; une passe qui y reviendra descend à **Vermelles** (4 729). La
+**Charente-Maritime** reprend à **Puilboreau** (6 765).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Marquise, marché du jeudi (8h-13h, place de la Mairie) : faits entiers, images de la Ville fermées. **Déblocage** : une
+  photographie permise du lieu ou de la commune (règle 312), et une seconde fiche entière dans la commune (règle 127).
+- Billy-Berclau, ferme à la vente directe de la rue Pasteur : horaires et produits publiés par la Ville, établissement non
+  retrouvé au registre sous son enseigne. **Déblocage** : l'enseigne au registre avec un établissement ouvert, une image sans
+  visage, et une seconde fiche entière dans la commune.
+- Saujon, marché couvert (samedi 8h-12h30, familles écrites) : faits entiers sauf les jours contradictoires, photographie de la
+  Ville sous 600 px. **Déblocage** : une photographie permise d'au moins 600 px et une seconde fiche entière.
+- Surgères, boutique du campus de l'alimentation : faits entiers, images fermées. **Déblocage** : une photographie thématique
+  permise de la commune (règle 312) et une seconde fiche entière.
+
 ### Passe du 27 septembre 2026 (soixante-neuvième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
