@@ -11763,6 +11763,80 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixante-troisième) : Ain et Pas-de-Calais, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — départements épuisés sautés (règle 265) ; **Ain (01) 3,7094**, premier
+département non épuisé ; **Pas-de-Calais (62) 3,6908**, second (règle 248). La dernière région visée reste l'Île-de-France.
+`origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,47). Trois points.
+
+**Reprise désignée de l'Ain : Villars-les-Dombes.** Aucune des douze communes de la descente n'appartient à la communauté de
+communes de la Dombes ; aucun point nouveau à moins de quinze kilomètres. Les deux fiches restent désignées, même déblocage.
+
+**Ain : descente reprise à Pont-d'Ain (règle 247), douze communes.** Sources : sites des Villes (domaines lus à l'annuaire de
+l'administration, règle 327 ; deux requêtes chacun, règle 257) ; registre de l'Agence Bio (01, 990 opérateurs) ; registre des
+entreprises ; Base Adresse Nationale.
+
+1. **Pont-d'Ain** (2 843) — le marché du samedi sous la Halle (7h30-13h, « en toutes saisons ») a ses familles écrites par la
+   Ville, étal par étal (fruits et légumes, volailles, poisson, pain, fromages, miel), mais les mentions légales n'autorisent
+   que l'usage privé (règle 296) ; aucun second point entier dans la commune. **Zéro.**
+2. **Ambronay** (2 841) — le site de la Ville coupe la connexion (444) à l'agent nommé seul, `robots.txt` compris (règle 257) ;
+   la seule ferme en vente directe au registre bio porte des noms de personnes dans sa raison sociale. **Zéro.**
+3. **Montrevel-en-Bresse** (2 743) — marchés du mardi (8h-13h, « alimentaire, vêtements et produits divers ») et du samedi
+   publiés par la Ville, qui nomme les images dans son interdiction (règle 231) ; le maraîcher biologique déjà vu à
+   Bâgé-Dommartin n'a pas d'image permise. **Zéro.**
+4. **Polliat** (2 741) — `robots.txt` de la Ville : `Disallow: /` sous `User-agent: *`, sans permission : site fermé à tout robot (règle 77). **Zéro.**
+5. **Saint-Étienne-du-Bois** (2 584) — le magasin de producteurs de la zone d'activité répond 403 à l'agent nommé et 200 à
+   l'agent par défaut (règle 257) ; la page « Économie » de la Ville n'est qu'un localisateur vide. **Zéro.**
+6. **Frans** (2 582) — le site de la Ville n'ouvre aucune connexion (règle 237). **Zéro.**
+7. **Chalamont** (2 533) — page « Le marché » de la Ville sans texte lisible ; mentions légales nommant les photographies
+   (règle 231) ; le maraîcher biologique n'a que des réseaux sociaux. **Zéro.**
+8. **Fareins** (2 533) — aucun marché publié ; une ferme-auberge (règle 2) et un commerce sous nom de personne ; images
+   réservées à l'usage privé (règle 296). **Zéro.**
+9. **Val-Revermont** (2 488) — page « Marché » de la Ville vide ; la ferme en vente directe au registre bio a pour raison
+   sociale un nom de personne. **Zéro.**
+10. **Château-Gaillard** (2 443) — site de la Ville sur application municipale, aucun marché ni producteur publié. **Zéro.**
+11. **Neyron** (2 421) — aucun marché alimentaire publié (plan du site lu : seuls des marchés de la création) ; l'épicerie en
+    vrac du registre bio est arrêtée. **Zéro.**
+12. **Crozet** (2 416) — aucun marché ni producteur publié (plan du site lu). **Zéro.**
+
+**Pas-de-Calais, second département (règle 248)** — Avion puis Saint-Omer (la commune suivante sans fiche ; la mention « route
+de Saint-Omer » d'une fiche calaisienne n'est pas une fiche audomaroise).
+
+1. **Avion** (17 435) — la Ville nomme les images dans son interdiction (règle 231) et ne publie pas de page de marché ; le
+   jardin d'insertion du registre bio n'a aucun établissement ouvert dans la commune et son site ne répond pas. **Zéro.**
+2. **Saint-Omer** (14 382) — la Ville nomme les images dans son interdiction et ne publie ses marchés qu'en événements ;
+   l'annuaire des producteurs du Parc naturel régional soumet toute reproduction à autorisation. L'exploitation biologique du
+   campus agricole du Doulac a son site, sans clause lue, mais ses dernières dates de vente aux serres sont d'avril 2025
+   (règle 192) ; le maraîcher biologique de la route de Clairmarais ne vend qu'au marché, par un portable (règles 152 et 325) ;
+   le magasin de producteurs voisin est à Saint-Martin-lez-Tatinghem. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune rencontrée.
+
+**Fiches écartées pour doute sur une personne** : à Ambronay, Val-Revermont et Montrevel-en-Bresse, des exploitations dont la
+raison sociale porte un nom de personne ; à Fareins, un commerce sous nom de personne ; à Saint-Omer, un maraîcher en nom
+propre. Rien n'est repris ; la page du marché de Pont-d'Ain nomme ses exposants, aucun nom n'est reproduit.
+
+**Sites devenus inaccessibles à l'agent nommé** (règle 257) : `ambronay.fr` (444), `arc-en-fermes.fr` (403) ; `frans.fr` ne
+répond pas (règle 237).
+
+**Points d'arrêt** : l'**Ain** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra reprend d'abord les
+deux fiches désignées de Villars-les-Dombes, puis descend à **Collonges** (2 398) ; le seuil de la règle 265 approche. Le
+**Pas-de-Calais** reprend à **Outreau** (13 138).
+
+**Pistes non publiées (Ain et Pas-de-Calais)** — lignes anonymes :
+
+- Pont-d'Ain, marché du samedi sous la Halle : faits entiers, images réservées à l'usage privé. **Déblocage** : une
+  photographie permise de la commune (règle 312) et une seconde fiche entière dans la commune.
+- Saint-Omer, exploitation biologique du campus agricole du Doulac : image propre, ventes non datées depuis avril 2025.
+  **Déblocage** : des dates ou des heures de vente de 2026 publiées par le campus.
+
 ### Passe du 26 septembre 2026 (soixante-deuxième) : Ain et Pas-de-Calais, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
