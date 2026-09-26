@@ -11763,6 +11763,106 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixante-sixième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — départements épuisés sautés (règle 265), l'Ain compris depuis la passe
+précédente ; **Pas-de-Calais (62) 3,6908**, premier département non épuisé ; **Charente-Maritime (17) 3,6188**, second (règle
+248). La dernière région visée reste l'Île-de-France : ni les Hauts-de-France ni la Nouvelle-Aquitaine ne sont fermées par la
+règle 41.c. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (la commune
+elle-même, 0,39), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Pas-de-Calais : descente reprise à Méricourt (règle 247), douze communes.** Saint-Martin-Boulogne, qui porte déjà une fiche,
+est sautée (règle 41.d). Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle 327 ; deux requêtes
+chacun, règle 257) ; registre de l'Agence Bio (62, 1 098 opérateurs) ; offices de tourisme ; registre des entreprises ; Base
+Adresse Nationale.
+
+1. **Méricourt** (11 619) — la Ville n'écrit de son marché hebdomadaire que « le samedi matin » et « commerces de bouche »,
+   sans lieu ni heures (règle 197). Le maraîchage municipal certifié biologique, inscrit au registre avec une vente aux
+   consommateurs, ne publie aucune vente au public : son affiche de portes ouvertes du 19 septembre 2026 parle de visites et
+   d'ateliers, pas d'un point de vente (règle 152). **Zéro.**
+2. **Nœux-les-Mines** (11 590) — la Ville ne publie aucun marché alimentaire. L'association d'insertion qui cultive des
+   légumes vend sur commande, par la ligne d'un salarié nommé, avec une grille de 2023 (règles 192 et 269). **Zéro.**
+3. **Étaples** (10 710) — **faits entiers pour un seul lieu** : la vente directe des pêcheurs sur le quai du port, que la Ville
+   atteste le 2 octobre 2025 (« les pêcheurs étaplois sont au rendez-vous sur le port pour mettre en vente le fruit de leur
+   travail ») et que l'office de tourisme décrit du mardi au dimanche, de 8h30 à 12h, sauf météo, avec les espèces (seiches,
+   rougets, sardines, soles, maquereaux, bars, raies, coquilles Saint-Jacques…). La Ville nomme les images dans son
+   interdiction (règle 231) ; l'office a la clause IRIS de la règle 239 (reproduction électronique permise avec « Droits
+   réservés ») et une photographie d'étal de 1 920 px qui se recadre sous les visages (règle 99). Aucune seconde fiche entière :
+   la poissonnerie de la coopérative maritime n'a d'horaires que chez une plateforme de commande, qui se contredit d'une ligne
+   à l'autre (« tous les jours » puis « lundi fermé », règle 5) ; l'un des deux magasins biologiques est fermé au registre,
+   l'autre n'a plus de site (son domaine porte désormais un annuaire sans rapport, règle 159) et ses seuls horaires datent de
+   2016 ; le marché du mardi et du vendredi, place du Général-de-Gaulle, n'a pas de familles écrites (règle 197). **Zéro.**
+4. **Longuenesse** (10 548) — aucun marché hebdomadaire publié par la Ville ; le magasin biologique du réseau n'a d'autre
+   source que `biocoop.fr` (règle 149), les deux autres ont un certificat arrêté, le fournil biologique ne publie ni horaires ni
+   lieu de vente. **Zéro.**
+5. **Marck** (10 467) — la page des commerçants de la Ville ne compte ni marché ni producteur ; les mentions légales ferment
+   toute reproduction. **Zéro.**
+6. **Oignies** (10 323) — marché du mardi, 8h-12h, place de la IVe République et rue Ferrer, sans aucune famille écrite
+   (règle 197) ; aucun commerce de bouche indépendant dans la page des commerces. **Zéro.**
+7. **Lillers** (10 193) — marché du samedi, 8h-13h, place Roger-Salengro (page de la Ville mise à jour le 7 juillet 2025),
+   décrit par « produits frais » et « vêtements et accessoires » : pas une famille (règle 197). Les exploitations du registre
+   sont inscrites sous des noms de personnes. **Zéro.**
+8. **Courrières** (10 176) — le `robots.txt` de la Ville nomme `ClaudeBot` parmi les agents d'IA pour ne lui interdire que
+   `/fileadmin/`, qui sert toutes ses images (règle 294) ; aucune page de marché trouvée. **Zéro.**
+9. **Auchel** (10 051) — la Ville ne documente son marché que par un arrêté de stationnement de 2018 ; ses mentions légales
+   nomment les photographies dans l'interdiction. **Zéro.**
+10. **Montigny-en-Gohelle** (9 743) — le site de la Ville affiche « en cours de construction » aux deux agents (règle 288) :
+    il sera réessayé en tête de la prochaine descente, hors borne (règle 290). **Zéro.**
+11. **Aire-sur-la-Lys** (9 598) — la Ville ne publie que des marchés événementiels (terroir, nocturne, Noël) et réserve toute
+    reproduction à l'usage privé (règle 296). **Zéro.**
+12. **Arques** (9 431) — aucun marché ; l'annuaire des commerces de la Ville ne compte que des enseignes de grande
+    distribution pour l'alimentation. **Zéro.**
+
+**Charente-Maritime, second département (règle 248)** — Saintes puis Rochefort, premières communes de sa descente (La Rochelle
+porte cinq fiches).
+
+1. **Saintes** (25 363) — **trois lieux aux faits lus, aucune image permise** : le magasin de vente directe des serres du
+   lycée horticole de Chadignac (légumes biologiques de 14 500 m² de maraîchage, plants et plantes ; mercredi et vendredi
+   8h30-12h, jeudi 8h30-12h et 13h30-17h ; lieu-dit Le Petit Chadignac), le magasin Biocoop de la rue de Gatérat (du lundi au
+   samedi 9h30-19h, page de producteurs locaux à lui, règle 276) et le jardin d'insertion biologique de la ZA de l'Ormeau de
+   Pied, dont deux pages donnent deux horaires différents (règle 5). Les trois sites nomment les images ou les photographies
+   dans leur interdiction (règles 231 et 245) ; la Ville (« photos ») et l'office de tourisme de Saintes et de la Saintonge
+   (« images ») aussi. Aucune photographie thématique permise dans la commune (règle 312). **Zéro.**
+2. **Rochefort** (23 460) — **faits entiers pour un seul lieu** : le marché de l'avenue Charles-de-Gaulle et des halles,
+   mardi, jeudi et samedi de 7h à 12h30, familles écrites par la Ville (marché des quatre saisons, poissons, crustacés et
+   coquillages, huîtres, charcuterie). Mais la Ville nomme les images dans son interdiction, les photographies Apidae de sa page
+   viennent de l'office Rochefort Océan, qui réserve ses visuels à l'usage privé et interdit leur téléchargement (règle 296), et
+   le magasin So.bio de l'avenue William-Ponty nomme les photographies dans ses conditions d'utilisation (règle 245). Le
+   magasin Colibri n'a plus de domaine qui réponde. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : Étaples, poissonnerie de la coopérative maritime — la plateforme de commande écrit « tous les jours du lundi
+au dimanche » puis « lundi : fermé », et aucune source du commerce ne publie d'horaires ; Saintes, jardin d'insertion — deux pages
+du même site, deux horaires (8h30-12h30 et 14h-17h30 contre 10h30-13h et 15h-18h à la boutique). Rien n'est publié sur ces
+horaires (règle 5).
+
+**Fiches écartées pour doute sur une personne** : à Nœux-les-Mines, une vente de légumes dont le seul contact est la ligne d'un
+salarié nommé ; à Étaples, Lillers et Aire-sur-la-Lys, des exploitations inscrites au registre sous des noms de personnes. Rien
+n'est repris ; les noms lus dans les articles des Villes et sur la plateforme de commande d'Étaples non plus.
+
+**Sites qui ferment l'accès ou les images à l'agent nommé** : `courrieres.fr` (`/fileadmin/` interdit aux agents d'IA, règle
+294) ; `mairie-montigny.fr` en construction (règle 288). Le site de l'office Rochefort Océan porte, dans ses mentions légales, une
+consigne adressée aux modèles d'IA : c'est une donnée (règle 283), qui ne change rien ici puisque ses images sont déjà fermées
+par la réserve d'usage privé.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra réessaie
+d'abord Montigny-en-Gohelle (règle 288), puis descend à **Sallaumines** (9 414). La **Charente-Maritime** reprend à **Royan**
+(19 425).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Étaples, vente directe des pêcheurs sur le quai du port (mardi-dimanche, 8h30-12h, selon la météo) : fiche entière seule,
+  photographie de l'office recadrable. **Déblocage** : une seconde fiche entière dans la commune (règle 127).
+- Saintes, magasin des serres du lycée horticole et magasin Biocoop de la rue de Gatérat : faits entiers, images fermées.
+  **Déblocage** : une photographie permise du lieu ou de la commune (règles 231 et 312).
+- Rochefort, marché de l'avenue Charles-de-Gaulle et des halles : faits entiers, images fermées. **Déblocage** : une
+  photographie permise du lieu ou de la commune (règles 231 et 312) et une seconde fiche entière dans la commune.
+
 ### Passe du 26 septembre 2026 (soixante-cinquième) : Ain épuisé, Pas-de-Calais, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
