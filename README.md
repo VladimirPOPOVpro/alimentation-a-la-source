@@ -11763,6 +11763,96 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 27 septembre 2026 (soixante-neuvième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 884 fiches) : inchangé — départements épuisés sautés
+(règle 265), **Pas-de-Calais (62)** premier département non épuisé (déficit 3,69), **Charente-Maritime (17)** second (3,62,
+règle 248). La dernière région visée reste l'Île-de-France. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Source retirée** : l'annuaire « Où acheter local » de la Chambre d'agriculture sert désormais sa page d'accueil à l'agent par
+défaut (200) et la refuse à l'agent nommé, `robots.txt` compris (403) : c'est la règle 257, il n'a pas été consulté.
+
+**Pas-de-Calais**, descente reprise à Noyelles-Godault. Sources : sites des Villes (domaines lus à l'annuaire de
+l'administration, règle 327), registre de l'Agence Bio (62, 1 098 opérateurs), registre des entreprises.
+
+1. **Noyelles-Godault** (5 994) — marché du jeudi matin sur la place de l'Hôtel-de-Ville, familles écrites par la Ville
+   (boucherie-charcuterie, primeur, produits frais un jeudi sur deux) mais aucune heure ; le `robots.txt` de la Ville nomme les
+   agents d'IA et leur interdit `/fileadmin/`, où sont toutes ses images (règle 294). Au registre bio, un magasin de
+   hard-discount. **Zéro.**
+2. **Sains-en-Gohelle** (5 948) — aucune page de marché alimentaire (seulement des marchés aux puces) ; au registre bio, un
+   grossiste. **Zéro.**
+3. **Douvrin** (5 867) — marché du vendredi sur la place de la mairie, étals écrits (poissonnier, fromager, produits de la
+   ruche), « jusqu'à 12h » sans heure de début ; les mentions légales nomment photos et images dans leur interdiction (règle
+   231). La ferme du registre bio a un certificat arrêté en 2022 et ne vendait qu'en gros. **Zéro.**
+4. **Saint-Martin-lez-Tatinghem** (5 843) — le site de la Ville ne publie ni marché ni commerces ; au registre bio, un
+   hypermarché, une brasserie qui ne vend qu'aux professionnels et un grossiste. Le magasin de producteurs que la passe de
+   Saint-Omer situait ici n'a été retrouvé ni au registre ni sur le site de la Ville. **Zéro.**
+5. **Annezin** (5 825) — le site de la Ville est une application qui ne sert aucun contenu sans script : commune muette (règle
+   237). La ferme maraîchère du registre bio a un certificat arrêté en 2023, sans site ni horaires publiés. **Zéro.**
+6. **Oye-Plage** (5 780) — la Ville sert l'agent par défaut (200) et refuse l'agent nommé (403) : règle 257. Au registre bio,
+   une supérette et un industriel. **Zéro.**
+7. **Dainville** (5 683) — le maraîchage biologique avec magasin reste écarté pour doute sur une personne (passe d'Arras) et
+   ne se rouvre pas ; les deux boucheries de l'annuaire de la Ville ne sont pas des circuits courts ; au registre bio, un
+   hypermarché. **Zéro.**
+8. **Beaurains** (5 559) — la cueillette laissée en pistes par la passe d'Arras n'a toujours aucune source à jour hors
+   réseau social ; au registre bio, un supermarché. **Zéro.**
+9. **Guînes** (5 479) — **faits entiers pour le marché du vendredi** (8h-12h, place Foch, familles écrites par la Ville :
+   boucheries, poissonnerie, crémerie, fromages, primeurs), mais les mentions légales nomment les images dans leur
+   interdiction (règle 231), et aucune autre fiche entière dans la commune (règle 127). **Zéro.**
+10. **Coulogne** (5 438) — le site de la Ville ne répondait pas au début de la passe, puis est revenu : instruite (règle 290).
+    **Faits entiers pour le marché du lundi** (8h-12h30 d'avril à septembre, 8h30-12h30 l'hiver, parvis de l'église ;
+    familles écrites : fruits et légumes, viande et charcuterie, poissons, fromage et crémerie), mais les mentions légales
+    rangent les photographies parmi ce qu'elles interdisent de reproduire (règles 246 et 253). Seule fiche possible. **Zéro.**
+11. **Marles-les-Mines** (5 411) — aucune page de marché ni de commerces ; au registre bio, un supermarché. **Zéro.**
+12. **Calonne-Ricouart** (5 369) — marché du jeudi « à partir de 8h30 » sur la place de la mairie, sans heure de fin ni famille
+    écrite (la seule légende, un étal de primeur, ne fait pas une liste, règle 292) ; images sous `/fileadmin/` fermé aux
+    agents d'IA (règle 294). Les quatre fermes que la Ville présente sont écartées pour doute sur une personne (voir plus bas).
+    **Zéro.**
+
+Au-delà de la borne, la page du marché d'**Audruicq** (5 309) a été lue pendant le repérage des domaines : faits entiers
+(mercredi 6h-13h, place du Général-de-Gaulle, familles écrites), images nommées dans l'interdiction des mentions légales (règle
+231), et le marché estival du vendredi n'a pas de famille écrite (règle 197). Au titre de la règle 301, ce constat compte :
+Audruicq est éprouvée. Le dépassement n'est pas un précédent.
+
+**Charente-Maritime, second département (règle 248)** — Lagord puis Saujon.
+
+1. **Lagord** (7 802) — marché du vendredi matin entre le square et le centre commercial du quartier des Oiseaux de Mer, décrit
+   par « l'ensemble des produits de bouche » (phrase générique, règle 197) et sans heure ; les mentions légales nomment les
+   photos dans leur interdiction (règle 231). Le magasin bio de réseau de l'avenue de Lagord-Vendôme est actif au registre et
+   certifié, mais le site du réseau exclut `CCBot` (règle 149) et aucune liste de producteurs propre au magasin n'a été trouvée
+   (règle 273). **Zéro.**
+2. **Saujon** (7 440) — le site de la Ville a servi sa page d'accueil, puis a répondu 503 « maintenance downtime or capacity
+   problems » aux deux agents pendant le reste de la passe (règle 297) : muette pour la passe, à réessayer d'abord. Hors de la
+   Ville, le registre bio ne rend qu'un atelier de transformation de viande sans vente déclarée, des grandes surfaces et deux
+   exploitations écartées pour doute sur une personne. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : six — à Calonne-Ricouart, quatre fermes que la page municipale présente par le
+nom de famille de leurs exploitants (trois enseignes sont ce nom même ; la quatrième, à l'enseigne neutre, n'a d'autre source
+que ce portrait nominatif, pas d'horaires, et son siège est son lieu de vente, règle 311) ; à Saujon, deux exploitations
+individuelles, l'une dont l'enseigne peut dériver de prénoms, l'autre sans horaires dont le siège est le lieu de vente (règle
+311). Aucun nom n'est repris.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint sa borne ; une passe qui y reviendra descend à **Brebières** (5 283). La
+**Charente-Maritime** réessaie d'abord **Saujon** (règle 297, une requête, hors borne), puis reprend à **Surgères** (6 897).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Guînes, marché du vendredi (8h-12h, place Foch) : faits entiers, images de la Ville fermées. **Déblocage** : une photographie
+  permise du lieu ou de la commune (règle 312), et une seconde fiche entière dans la commune (règle 127).
+- Coulogne, marché du lundi (parvis de l'église) : faits entiers, images de la Ville fermées. **Déblocage** : idem.
+- Audruicq, marché du mercredi (6h-13h, place du Général-de-Gaulle) : faits entiers, images de la Ville fermées.
+  **Déblocage** : idem.
+- Douvrin, marché du vendredi : étals écrits, heure de début absente, images fermées. **Déblocage** : l'heure d'ouverture
+  publiée par une autorité, une photographie permise et une seconde fiche entière.
+
 ### Passe du 26 septembre 2026 (soixante-huitième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
