@@ -4379,6 +4379,17 @@ prioritaires en cas de conflit.
      déblocage-ci. **Déblocage** : une seconde fiche entière à Labenne, avec un point propre (une adresse que la Base connaît,
      ou un point publié par une autorité), ou une adresse propre pour le foyer municipal qui sépare les deux lieux.
 
+356. **Une date d'ouverture que le commerce publie avec son jour de semaine date le texte de l'année où ce jour tombe, quel que
+     soit le millésime affiché en tête de page.** La page d'accueil d'une exploitation maraîchère biologique de Moret-Loing-et-Orvanne
+     souhaite « une belle saison 2026 », puis annonce la vente à la ferme « tous les samedis de l'été de 15h à 18h, à partir du
+     28 juin ». Le 28 juin 2026 est un dimanche ; le 28 juin 2025 était un samedi. La règle 346 dit déjà qu'un millésime de pied de
+     page ne date pas un contenu ; ici le millésime est dans le corps de la page, mais la phrase des horaires se contredit avec lui.
+     **Tranché ainsi** : l'accord entre la date et le jour de semaine l'emporte sur le millésime voisin — le texte des horaires est
+     celui de l'année où les deux concordent (ici 2025). La saison (samedis d'été, 15h-18h) reste l'horaire publié par
+     l'exploitant au sens de la règle 261 et la fiche peut être entière, mais `horaires` ne reprend pas la date de départ, dit
+     « l'été » et la fiche est `a_confirmer`. Si aucune année récente ne fait concorder la date et le jour, l'horaire est un
+     fait contesté (règle 5) et la fiche attend. **Déblocage** : une date de saison qui concorde avec l'année en cours.
+
 ## Marchands à confirmer
 
 776 fiches sur 879 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11679,6 +11690,90 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (cinquante-sixième) : Seine-et-Marne et Ain, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 879 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados, Aube,
+Mayenne, Loiret et Cher épuisés (règle 265) ; **Seine-et-Marne (77) 3,7152**, premier département non épuisé, ouvert puisque la
+dernière passe publiée (Cazères) visait l'Occitanie ; **Ain (01) 3,6602**, second (règle 248). `origin/main` n'a pas bougé.
+Rien n'étant publié, le classement est inchangé pour la passe suivante, et la dernière région visée reste l'Occitanie.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base Adresse Nationale : le foyer municipal n'y est
+pas (meilleure réponse : la commune, 0,39), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Seine-et-Marne : reprises désignées, puis douze communes (règle 247), de Moret-Loing-et-Orvanne à Gretz-Armainvilliers.**
+Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle 327) ; registre de l'Agence Bio (925 opérateurs
+du 77) ; office Paris - Vallée de la Marne (`tourisme-pvm.fr`) ; office Moret Seine & Loing (`msl-tourisme.fr`) ; registre des
+entreprises ; Base Adresse Nationale. Le site départemental `tourisme-seine-et-marne.fr` répond 200 à l'agent par défaut et 403
+à l'agent nommé (règle 257) : il n'est pas lu.
+
+0. **Reprise de Paris - Vallée de la Marne** (lot de Roissy-en-Brie, passe du 21 septembre). L'AMAP de Pontault-Combault n'a
+   plus de source datée : son site répond 404 sur toutes ses pages, la notice du réseau régional renvoie à l'accueil, et les
+   annuaires se contredisent sur le jour et le lieu (lundi rue des Prés-Saint-Martin, jeudi avenue du Général-de-Gaulle, jeudi
+   à une troisième adresse) : elle sort (règles 195 et 264). La brasserie L'Instant (société active, 11.05Z) publie sur son site un seul
+   horaire, « période hivernale », jeudi 17h-22h30, sous une page d'événements de 2025 ; l'office donne le vendredi 15h-19h toute
+   l'année (règle 5). Sans l'AMAP, Pontault-Combault n'a plus deux fiches entières : le lot ne se rouvre pas. Melun,
+   Saint-Fargeau-Ponthierry, Claye-Souilly et Avon : aucun déblocage nommé depuis leur passe, une fiche chacune.
+1. **Moret-Loing-et-Orvanne** (12 810) — la Ville publie trois marchés (mardi et vendredi 8h-12h à Moret-sur-Loing, samedi
+   8h-12h à Veneux-les-Sablons) sous une seule liste de familles pour les trois (règle 329) et une seule image de 330 px (règle
+   59) ; ses deux AMAP n'ont que des annonces municipales de 2022 et 2023 (règle 195) ; l'office Moret Seine & Loing pose
+   « © » et le nom d'un photographe sur ses photographies (règles 291 et 341). **Une fiche entière, seule** : une exploitation
+   maraîchère biologique (EARL active, certificat Ecocert engagé depuis 2020), vente à la ferme le samedi d'été 15h-18h, site
+   propre sans clause sur les images — sous la règle 356, née ici. **Zéro zone.**
+2. **Dammartin-en-Goële** (11 907) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257). **Zéro.**
+3. **Provins** (11 632) — la Ville ne publie pas ses marchés (règle 196) ; au registre, des grandes surfaces, une biscuiterie
+   de spécialités et une exploitation inscrite sous le nom de son exploitant. **Zéro.**
+4. **Vaux-le-Pénil** (11 474) — aucun marché publié par la Ville ; l'association maraîchère biologique range ses mentions
+   légales sous un `Disallow` (règle 270) et réserve ses paniers à ses adhérents ; le site de l'AMAP ne répond plus (règle 195).
+   **Zéro.**
+5. **Cesson** (11 222) — la Ville ne publie pas son marché (règle 196) ; au registre, des grandes surfaces. **Zéro.**
+6. **Thorigny-sur-Marne** (10 440) — la Ville interdit « toute utilisation des visuels » hors consultation privée (règle 296) ;
+   aucun marché publié. **Zéro.**
+7. **Serris** (10 326) — reproduction réservée à l'usage privé (règle 296) ; au registre, des grossistes et un magasin de chaîne
+   au certificat arrêté. **Zéro.**
+8. **La Ferté-sous-Jouarre** (10 254) — mêmes mentions que Thorigny (règle 296) ; au registre, des grandes surfaces. **Zéro.**
+9. **Vert-Saint-Denis** (9 291) — marché du vendredi 8h-13h place de l'Église, familles écrites pour lui seul, mais aucune image ;
+   l'autre exploitation du registre porte le nom de son exploitant. **Zéro.**
+10. **Magny-le-Hongre** (9 060) — marché du samedi sous la halle, six photographies de 2018, mais les mentions nomment les
+    « images » dans l'interdiction (règle 231). **Zéro.**
+11. **Nangis** (8 867) — reproduction réservée à l'usage personnel et privé (règle 296). **Zéro.**
+12. **Gretz-Armainvilliers** (8 825) — la Ville ne publie pas son marché (règle 196) ; au registre, des grandes surfaces et un
+    grossiste. **Zéro.**
+
+**Ain, second département (règle 248)** — Divonne-les-Bains puis Miribel.
+
+1. **Divonne-les-Bains** (10 464) — la Ville publie ses deux marchés et leurs arrêtés de 2021 : vendredi 7h-13h, « exclusivement
+   réservé à la vente de produits alimentaires », place Perdtemps ; dimanche 8h-14h, alimentaire et non alimentaire, les stands
+   bio et producteurs sous la halle Perdtemps. Les deux se rattachent au même point (règle 42) et aucune source ne nomme une
+   famille de produits (règle 197) ; la seule photographie est pleine de passants et les crédits de la Ville mêlent des banques
+   d'images. Au registre, un caviste-grossiste et des exploitations sous le nom de leur exploitant. **Zéro.**
+2. **Miribel** (10 395) — marché du jeudi 7h30-12h30 place du Marché, sans famille écrite ; reproduction réservée à l'usage
+   privé (règle 296). **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** (consignées, aucune tranchée faute de fiche publiable) : horaires de la brasserie de Pontault-Combault (jeudi
+d'hiver sur son site, vendredi toute l'année chez l'office) ; jour et lieu de l'AMAP de Pontault-Combault (trois versions) ; date
+de saison de la ferme de Moret, qui ne concorde qu'avec 2025 (règle 356).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. À Moret-Loing-et-Orvanne, un torréfacteur présenté sous
+un nom de personne ; à Provins, Vert-Saint-Denis et Divonne-les-Bains, des exploitations inscrites sous le nom de leur exploitant.
+Les sites et les annonces lus nomment des exploitants et des contacts d'AMAP, avec des portables : rien n'est repris.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprendra à **Tournan-en-Brie** (8 274), où le registre porte trois
+exploitations biologiques d'une même ferme, puis Chessy. L'**Ain** reprend à **Belley** (9 388).
+
+**Pistes non publiées (Seine-et-Marne)** — lignes anonymes :
+
+- Moret-Loing-et-Orvanne, exploitation maraîchère biologique de la rue de Madame : une fiche entière, seule (horaires d'été,
+  règle 356). **Déblocage** : une seconde fiche entière dans la commune.
+- Pontault-Combault, brasserie du parc d'activités du Pontillault : faits entiers sauf les horaires (règle 5). **Déblocage** :
+  une grille d'horaires datée de 2026 sur le site de la brasserie, ou concordante avec l'office.
+- Pontault-Combault, AMAP : sortie par la règle 195. **Déblocage** : un site de nouveau joignable ou une source datée de
+  l'association.
+- Vert-Saint-Denis, marché du vendredi : faits entiers, sans image. **Déblocage** : une photographie de la Ville.
 
 ### Passe du 26 septembre 2026 (cinquante-cinquième) : Cazères (Haute-Garonne), quatre fiches dans Cœur de Garonne, douzième commune de la descente
 
