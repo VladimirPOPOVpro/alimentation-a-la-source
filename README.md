@@ -11676,6 +11676,86 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (cinquante-troisième) : Haute-Garonne et Ain, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 875 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Loiret (45) 3,7721, épuisé à la passe précédente (règle 265) ; **Haute-Garonne
+(31) 3,6727**, premier département non épuisé ; Seine-et-Marne (3,6300) écartée par la règle 41.c (dernière passe publiée :
+Rambouillet, Île-de-France) ; **Ain (01) 3,6207**, second (règle 248).
+
+**Contrôle de tête : le groupe de Labenne.** Déblocage de la règle 355 éprouvé en deux requêtes à la Base Adresse Nationale : ni
+le foyer municipal ni la place de la République de Labenne n'y sont connus (meilleures réponses : une allée à 0,42 et une rue à
+0,53). Aucune seconde fiche entière n'est apparue dans la commune. Le groupe reste à trois points.
+
+**Haute-Garonne : reprise de Saint-Gaudens, puis douze communes (règle 247), de Castelginest à Grenade ; aucune zone.**
+
+0. **Reprise de Saint-Gaudens.** Les deux fiches entières restent seules : le complément cherché la veille dans Cœur et Coteaux
+   du Comminges n'a pas changé (règles 249 et 258). Deux points, pas de zone.
+1. **Castelginest** (11 271) — marché du samedi 8h-13h, grand'Place du Général-de-Gaulle, page de la Ville ; mais la seule
+   description est « produits locaux de qualité » (règle 197) et aucune vente directe n'est au registre bio. **Zéro.**
+2. **Villeneuve-Tolosane** (11 044) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) ; au registre
+   bio, seulement des enseignes de grande distribution. **Zéro.**
+3. **Seysses** (10 539) — marché du vendredi 8h-12h30, place de la Libération, familles écrites par la Ville (faits entiers),
+   mais la Ville ne permet que l'usage privé de ses œuvres et soumet ses photographies à autorisation (règle 296) ; l'épicerie
+   paysanne d'une ferme maraîchère biologique (mercredi 10h-13h, vendredi 17h-19h) a des faits entiers et des mentions légales
+   qui nomment les photographies dans leur interdiction (règle 231) ; le magasin de réseau n'a pas de site propre joignable
+   (règle 273). Aucune fiche entière avec sa propre image. **Zéro.**
+4. **Auterive** (10 456) — la Ville coupe la connexion à l'agent nommé (444, règle 257). **Une fiche entière** : le magasin
+   Biocoop Bioterive, 10 route de Toulouse (SCOP active au registre ; horaires publiés par le magasin ; liste de 28 producteurs
+   locaux propre au magasin, qui remplit la règle 273 ; façade sans personne identifiable, 600 px, plancher de la règle 59 ;
+   site sans clause ni exclusion). Les marchés du vendredi (esplanade de la Madeleine) et du dimanche n'ont, chez l'office
+   intercommunal, que la phrase commune à tous les marchés du territoire (règle 329). Une seule fiche. **Zéro zone.**
+5. **Léguevin** (9 945) — marché du dimanche matin, sans heures ni familles (règles 192 et 197). **Zéro.**
+6. **Saint-Lys** (9 892) — marché du mardi 8h-13h sous la halle et places voisines, familles écrites par la Ville (faits
+   entiers), mais la seule image est une photographie de banque d'images (règle 70) ; aucune vente directe au registre avec un
+   site. **Zéro.**
+7. **Frouzins** (9 805) — site de la Ville servi par Wix (règle 256) ; les deux producteurs en vente directe au registre n'ont ni
+   site ni heures. **Zéro.**
+8. **Portet-sur-Garonne** (9 782) — **une fiche entière** : la ferme maraîchère biologique Midi Cueillette, chemin des Sables
+   (exploitation active au registre depuis 1996, certifiée ; libre cueillette, coin primeur et paniers ; heures publiées par la
+   ferme, mercredi, vendredi et samedi ; photographie de l'allée de la ferme sans personne, 1 280 px, site sans clause ni
+   exclusion). Le marché semi-nocturne du vendredi 16h-20h, promenade du Baron-Ritay, a ses familles écrites par la Ville, mais
+   la Ville réserve ses œuvres à l'usage privé (règle 296) ; le magasin biologique du boulevard de l'Europe n'a que des
+   annuaires ; le primeur de réseau est un commerce généraliste. Une seule fiche entière. **Zéro zone.**
+9. **Revel** (9 762) — marché du samedi (vente de 7h à 12h30, règlement du marché de la Ville ; familles écrites par la Ville),
+   faits entiers ; mais la Ville écrit « tous droits réservés » sur ses textes et images (règle 246), le nom du fichier de sa
+   photographie porte un crédit de photographe (règle 339), et l'office de tourisme comme le site du Lauragais refusent l'agent
+   nommé (règle 257). Le primeur de la commune revend surtout le marché de gros. **Zéro.**
+10. **Aucamville** (9 623) — la Ville répond 403 à l'agent nommé (règle 257) ; le site du magasin de réseau ne répond pas
+    (règle 237). **Zéro.**
+11. **Launaguet** (9 173) — aucun marché publié ; un maraîcher en vente directe sans site ni heures. **Zéro.**
+12. **Grenade** (9 062) — marché du samedi, place Jean-Moulin, familles écrites par la Ville, mais « dès 6 h » sans heure de fin
+    (règle 192) ; le primeur de la commune appartient à une chaîne de onze magasins (commerce généraliste). **Zéro.**
+
+Point d'arrêt : **Grenade** ; la prochaine passe dans le 31 prend d'abord les fiches désignées (Saint-Gaudens), puis reprend à
+**Cornebarrieu** (8 978).
+
+**Ain, second département (règle 248)** — Ambérieu-en-Bugey puis Saint-Genis-Pouilly.
+
+1. **Ambérieu-en-Bugey** (15 934) — la page « Marchés forains » de la Ville ne donne ni jour ni heures, seulement un avis
+   d'août, et ses images sont des photographies de banque d'images ; le magasin Biocoop ne publie que la page « Paysans
+   associés » du réseau (règle 273) ; l'autre magasin est une chaîne sans liste locale. **Zéro.**
+2. **Saint-Genis-Pouilly** (14 432) — aucune page de marché sur le site de la Ville ; au registre bio, des enseignes de chaîne et
+   des jardineries. **Zéro.** La descente reprendra à **Gex** (13 627).
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règles 248 et 258).**
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière ; à Seysses (liste d'exposants de la Ville), Auterive,
+Launaguet et Ambérieu-en-Bugey, des étals ou des exploitations portant des prénoms ou des noms de personnes ne sont pas repris.
+Aucun nom n'est écrit.
+
+**Pistes non publiées (Haute-Garonne, Ain)** — lignes anonymes :
+
+- Auterive, magasin biologique de la route de Toulouse : une fiche entière, seule.
+- Portet-sur-Garonne, ferme maraîchère en cueillette du chemin des Sables : une fiche entière, seule. Le marché semi-nocturne de
+  la commune pourrait être illustré par une photographie de la ferme au titre de la règle 312, mais ne compterait pas comme fiche
+  entière (règle 320).
+- Seysses, Revel et Saint-Lys, marchés : faits entiers, images fermées. **Déblocage** : une photographie du lieu publiée par une
+  source qui en permet la reprise.
+
 ### Passe du 26 septembre 2026 (cinquante-deuxième) : Loiret épuisé, Haute-Garonne et Ain, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
