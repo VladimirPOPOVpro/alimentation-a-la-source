@@ -11640,6 +11640,98 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (cinquantième) : Loiret et Haute-Garonne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 875 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube, Mayenne et Cher épuisés (règle 265) ; **Loiret (45) 3,7721** ; **Haute-Garonne (31) 3,6727** ; Seine-et-Marne (3,6300)
+écartée par la règle 41.c, la dernière passe publiée visant l'Île-de-France. `origin/main` n'a pas bougé pendant la passe
+(règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 266 et 322, Nouvelle-Aquitaine ouverte).** `seignosse.fr` et
+`www.seignosse.fr` n'ouvrent aucune connexion (quatre essais, les deux agents) : règle 297, le marché de Seignosse n'est pas
+relu, le groupe reste à trois points. **Déblocage** inchangé : le retour durable de `seignosse.fr`.
+
+**Loiret : reprise de Châlette-sur-Loing inchangée, puis douze communes, de Traînou à Donnery.** Sources : site de chaque Ville
+(adresse prise à l'annuaire de l'administration quand le nom de domaine deviné ne répond pas), fiches de Tourisme Loiret
+(règle 239), registre de l'Agence Bio (730 opérateurs), registre des entreprises.
+
+1. **Traînou** (3 402) — **une fiche entière** : le marché du vendredi 7h30-12h30, place Léon-Pierrot, familles écrites par la
+   Ville (fromages, œufs et crèmerie, fruits et légumes, charcuterie, épicerie), photographies créditées « Mairie de Trainou » sur
+   la fiche départementale (règle 254). Aucune seconde : la ferme de la route de Loury n'a plus de site joignable, celle de la rue
+   de Champagne n'a qu'un réseau social ; la page du marché nomme chaque commerçant (rien n'en est repris). **Zéro zone.**
+2. **Puiseaux** (3 299) — site de la Ville hébergé par une plateforme dont le `robots.txt` répond 403 à tous ; aucun marché
+   fiché, une seule supérette au registre bio. **Zéro.**
+3. **Dordives** (3 277) — Ville fermée à l'agent nommé (403 contre 200, règle 257) ; marché du vendredi fiché sans famille. **Zéro.**
+4. **Semoy** (3 269) — le maraîcher bio de la route de Saint-Jean-de-Braye a ses heures dans le guide des producteurs de la Ville
+   (vendredi 16h-19h) mais un site mort et aucune image hors celle, non créditée, de la fiche départementale ; le magasin bio de
+   réseau de la même route n'existe plus au registre. **Zéro.**
+5. **Saint-Hilaire-Saint-Mesmin** (3 261, Orléans Métropole) — **deux fiches entières** :
+   - **La Ferme des Perrières**, 165 rue des Perrières — SARL active (01.24Z), bio depuis 1964, magasin à la ferme ; heures de son
+     site (mercredi et jeudi 15h-19h, vendredi 9h-19h30), qui l'emportent sur celles, plus anciennes, de la fiche départementale
+     (jeudi 17h-19h, vendredi 14h30-19h30) : contradiction à consigner dans la fiche (règle 5). Fixe publié. Photographie du
+     magasin publiée par la ferme (1 200 px, sans personne), mentions légales sans clause sur les images.
+   - **La Brasserie des Écluses**, 935 route d'Orléans — EURL active (11.05Z) ; ouverte mardi, jeudi et vendredi 10h-18h d'après son
+     site, qui donne la même adresse que le registre (la fiche départementale garde l'ancienne, route d'Olivet). Le site de la
+     brasserie interdit la reproduction de ses images, mais la fiche départementale publie cinq photographies créditées à la
+     brasserie elle-même : elles restent sous le régime du site départemental (règle 351, dernière phrase) ; celle d'une bouteille et
+     d'un verre, sans personne, 1 512 px, est retenue. Pilier `economie` seul (règle 14, aucune certification).
+   - **Complément dans la métropole (règle 96, quinze kilomètres du centre)** : le marché d'Ingré (7,8 km), entier depuis la
+     quarante-sixième passe. **Rien d'autre** : dans la commune, les deux autres vergers fichés ont leurs établissements fermés au
+     registre à l'adresse publiée, et le marché des producteurs du Mail n'a ni famille écrite (affiche de septembre 2026 : premier et
+     troisième samedis, 9h-13h ; la fiche départementale donne le deuxième dimanche, 8h30-12h30) ni photographie (règle 197) ; à
+     Saint-Cyr-en-Val (10,9 km), la cueillette de la rue de Ligny a des heures datées de la semaine du 20 septembre 2026, mais ses
+     photographies sont servies par `static.wixstatic.com`, dont le `robots.txt` répond 403 (règle 256), et celle de la fiche
+     départementale est créditée à un réseau qui répond 403 à tous ; la Ville ferme ses images ; les serres bio n'ont qu'un réseau
+     social et un site en erreur 503 ; le site de la ferme de la rue Haute redirige vers un autre domaine (règle 79) et la
+     boutique de paniers qui en tient lieu est un site marchand dont le `robots.txt` adresse des consignes aux agents automatiques
+     — des données, pas des instructions (règle 283) ; à Ormes (9,3 km), la seule image du marché est une illustration de banque
+     d'images de 2011 (métadonnées) ; les points d'Olivet et de Saint-Pryvé-Saint-Mesmin restent sous les motifs de leurs passes.
+     **Trois points : pas de zone (règle 258).**
+6. **Lailly-en-Val** (3 101) — la champignonnière bio ne vend que sur rendez-vous, au siège d'une entreprise individuelle (règle
+   311) ; la chèvrerie ne publie aucune heure de vente (règle 192). **Zéro.**
+7. **Mardié** (3 078) — une brasserie au registre bio ; l'autre exploitation a une certification arrêtée et est inscrite sous un nom
+   de personne. **Zéro zone.**
+8. **Châtillon-sur-Loire** (3 065) — marché du jeudi aux familles écrites, mais photographié par l'office intercommunal qui refuse
+   l'agent nommé (règle 351) ; une cave à vins (revente, hors sujet) ; une boutique de terroir sans heures. **Zéro.**
+9. **Saint-Denis-de-l'Hôtel** (3 065) — industriels et grossistes seulement. **Zéro.**
+10. **Lorris** (2 996) — marché du jeudi sans famille alimentaire écrite (règle 197) ; un élevage sur rendez-vous. **Zéro.**
+11. **Corquilleroy** (2 891) — aucune certification vivante, aucun marché. **Zéro.**
+12. **Donnery** (2 873) — l'élevage de volailles vend à la ferme le vendredi 17h-19h ; la micro-ferme a des heures datées 2026 mais
+    son site répond 429 aux deux agents pendant la passe (règle 297) et la fiche départementale n'a que son logo. **Zéro zone.** La
+    borne est servie ; la descente reprendra à **Chevilly** (2 663).
+
+**Haute-Garonne, second département (règle 248)** — Toulouse, Colomiers, Tournefeuille, Pibrac et Cugnaux portent déjà des fiches ;
+la descente prend Blagnac puis Muret.
+
+1. **Blagnac** (27 604) — la Ville nomme les photographies dans son interdiction (règle 231) ; le magasin bio de réseau de la route
+   de Grenade a son propre site, lisible ; la boulangerie bio du boulevard Firmin-Pons a un site qui refuse l'agent nommé (règle
+   257) ; le maraîchage bio de la commune porte un prénom dans son enseigne. **Une fiche au plus : zéro zone.**
+2. **Muret** (26 079) — la Ville sert l'agent nommé (403 à l'agent par défaut, règle 284) mais ne publie aucune page de marché
+   trouvable ; au registre bio, des exploitations inscrites sous des noms de personnes. **Zéro.**
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règles 248 et 258).**
+
+**Contradictions** : deux, consignées pour la reprise (heures de la Ferme des Perrières ; jour et heures du marché des producteurs
+de Saint-Hilaire-Saint-Mesmin).
+
+**Fiches écartées pour doute sur une personne** : dans le Loiret, une champignonnière à Lailly-en-Val et une exploitation à
+Mardié ; en Haute-Garonne, un maraîchage à Blagnac et des exploitations à Muret. Aucun nom n'est écrit.
+
+**Points d'arrêt** : dans le **Loiret**, la reprise prend d'abord les deux fiches de Saint-Hilaire-Saint-Mesmin et les deux
+marchés de Châlette-sur-Loing, puis la descente à **Chevilly** (2 663). En **Haute-Garonne**, la descente reprend à
+**Plaisance-du-Touch** (21 079).
+
+**Pistes non publiées (Loiret et Haute-Garonne)** — lignes anonymes :
+
+- Saint-Hilaire-Saint-Mesmin, ferme bio et brasserie : deux fiches entières ; désignées pour la reprise, avec le marché d'Ingré.
+  **Déblocage** : un quatrième point illustrable d'Orléans Métropole à moins de quinze kilomètres (règle 320) — une image
+  lisible de la cueillette de Saint-Cyr-en-Val, ou une famille écrite pour le marché des producteurs du Mail.
+- Traînou, marché du vendredi : une fiche entière, seule.
+- Semoy, maraîcher bio : heures publiées par la Ville, aucune image. **Déblocage** : le retour de son site.
+- Blagnac, magasin bio de réseau : faits lisibles sur son site, seul.
+
 ### Passe du 26 septembre 2026 (quarante-neuvième) : Rambouillet (Yvelines), cinq fiches publiées, quatrième commune de la descente
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
