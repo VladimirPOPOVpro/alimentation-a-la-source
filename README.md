@@ -4403,6 +4403,19 @@ prioritaires en cas de conflit.
      distance et l'intercommunalité de la règle 96 ; la ligne de pistes de la commune éprouvée n'est pas réécrite. Ici : cinq
      fiches, dont deux à Jouarre, les trois autres à 8,2, 10,5 et 12,1 km du centre de Jouarre.
 
+358. **Une reprise désignée se relit jusqu'à l'hébergeur de son image : une photographie servie par un domaine dont le
+     `robots.txt` ne se lit pas retire la fiche des fiches entières, même quand la passe qui l'a désignée l'avait comptée.** La
+     cinquante-neuvième passe avait désigné pour la reprise deux fiches de Trévoux (règle 258), le marché du samedi et une ferme
+     maraîchère biologique de la route de Saint-Bernard, illustrées l'une et l'autre par des photographies de la ferme servies
+     par `static.wixstatic.com`. Relu le 26 septembre 2026, le `robots.txt` de ce domaine répond 403 aux deux agents : c'est le
+     cas de la règle 256, que les passes appliquent partout ailleurs. La Ville et l'office Ars-Trévoux ferment leurs images
+     (règles 231 et 296) et aucune autre photographie permise de la commune n'a été trouvée. **Tranché ainsi** : la règle 264
+     fait réépreuver une reprise au moment de la reprendre, et cela vaut pour l'image comme pour la source datée ; les deux
+     lieux de Trévoux redeviennent des pistes aux faits entiers sans image, la ligne de pistes de la cinquante-neuvième passe
+     est corrigée avec une mention datée, et la descente reprend comme si aucune fiche n'était désignée. **Déblocage** : une
+     photographie permise du lieu ou de la commune (règles 231 et 312), en plus des deux points voisins que la règle 258
+     demandait déjà.
+
 ## Marchands à confirmer
 
 781 fiches sur 884 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11716,6 +11729,115 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixantième) : Ain et Pas-de-Calais, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : départements épuisés sautés (règle 265) ; **Ain (01) 3,7094**, premier département non
+épuisé ; **Pas-de-Calais (62) 3,6908**, second (règle 248). La dernière région visée était l'Île-de-France : ni l'un ni l'autre
+n'y est. `origin/main` n'avait pas bougé. Rien n'étant publié, le classement reste le même et la dernière région visée reste
+l'Île-de-France.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Reprise désignée de l'Ain : Trévoux, rétrogradée (règle 358).** Les deux fiches désignées par la passe précédente étaient
+illustrées par des fichiers servis par un hébergeur dont le `robots.txt` répond 403 aux deux agents (règle 256). La Ville
+(copie réservée à l'usage privé, photographies soumises à accord) et l'office Ars-Trévoux (photographies et images nommées
+dans l'interdiction) ferment leurs images ; le site de la communauté de communes répond 403 aux deux agents (règle 237). Le
+reste de Dombes Saône Vallée ne rend aucun point entier : le magasin de producteurs de Civrieux (8,2 km) a des faits entiers
+mais ses mentions nomment les images dans l'interdiction ; celui de Parcieux reste sans image ; le marché de Massieux n'a
+qu'un primeur hebdomadaire écrit par la Ville ; celui de Sainte-Euphémie a pris fin en 2022 selon la Ville (l'office le liste
+encore) ; celui de Fareins n'est publié que par des annuaires (règle 196) ; les sites des Villes d'Ars-sur-Formans, Villeneuve
+et Ambérieux-en-Dombes répondent 403 aux deux agents ; aucune AMAP.
+
+**Ain : descente reprise à Montluel (règle 247), douze communes.** Sources : sites des Villes (code postal contrôlé, règle 327 ;
+deux requêtes chacun, règle 257) ; registre de l'Agence Bio (01) ; offices de tourisme ; registre des entreprises ; Base
+Adresse Nationale.
+
+1. **Montluel** (6 895) — **une fiche entière, seule** : le marché du vendredi 8h-12h, place des Tilleuls (poissonnerie,
+   primeurs, fromagers écrits par la Ville ; photographie de la Ville recadrable sans visage, mentions sans clause). L'AMAP de
+   la Côtière (vendredi 18h30-19h30, site vivant daté de septembre 2026) a des mentions de gabarit qui nomment les images
+   (règle 310). La communauté de communes ne complète pas : marché mensuel illustré d'une seule affiche, marché de Dagneux sans
+   famille de produits, un domaine de ferme racheté par un site sans rapport, une ferme au nom de son exploitant. **Zéro zone.**
+2. **Thoiry** (6 569) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) ; le magasin bio de réseau
+   ne publie pas ses producteurs (règle 273). **Zéro.**
+3. **Péronnas** (6 444) — la Ville soumet « les images » à autorisation (règle 231) et ne publie aucun marché ; le magasin
+   Biocoop a sa propre carte de producteurs locaux (règle 276) mais ses conditions nomment les photographies dans
+   l'interdiction. **Zéro.**
+4. **Jassans-Riottier** (6 247) — reproduction réservée à l'usage privé (règle 296) ; deux marchés sans lieu ni familles
+   (règle 197). **Zéro.**
+5. **Cessy** (5 832) — aucun marché hebdomadaire ; photographies nommées dans l'interdiction. **Zéro.**
+6. **Reyrieux** (5 358) — marché du dimanche 8h-13h connu par un appel à exposants sans aucun produit, l'office n'écrivant que
+   « produits locaux » (règle 197). **Zéro.**
+7. **Châtillon-sur-Chalaronne** (5 250) — marché du samedi (7h30-13h) et marché bio du mercredi (8h-12h15), tous deux sous les
+   Halles : un seul point (règle 42), faits entiers, mais la Ville réserve ses photographies à l'usage privé (règle 296), celles
+   de l'office portent chacune une légende « © » (règle 305) et le site de l'association du marché bio répond 403 à l'agent
+   nommé. **Zéro.**
+8. **Beynost** (5 198) — trois marchés sur un même point qui déménage le 2 octobre 2026 ; photographies de la Ville réservées à
+   l'usage privé, celles du magasin bio fermées par ses conditions. **Zéro.**
+9. **Villars-les-Dombes** (5 163) — **deux fiches entières dans la commune (règle 127)** : le magasin de producteurs de
+   l'avenue Charles-de-Gaulle (société active, horaires publiés par le magasin et par l'office, image de son propre site sans
+   clause ni exclusion) et le jardin de maraîchage biologique en chantier d'insertion d'un lieu-dit de la commune (établissement actif,
+   certifié), illustré au titre de la règle 312 par une autre photographie du même magasin. Mais la communauté de communes de
+   la Dombes ne rend aucun troisième point illustrable à moins de quinze kilomètres : magasin d'une abbaye au Plantay et ferme
+   d'un ESAT à Saint-Paul-de-Varax dont les sites interdisent la reproduction des photographies, magasin d'usine de poisson à
+   Saint-André-de-Corcy réservé à l'usage privé, ferme de Romans à 15,05 km, photographies de l'office toutes légendées « © ».
+   Le marché du mardi (8h-12h, place du Marché, familles écrites par l'office) n'a qu'une image de banque. Règle 258 : ces deux
+   fiches sont **désignées pour la reprise**. **Zéro zone.**
+10. **Ornex** (5 082) — aucun marché publié ; reproduction des photographies interdite. **Zéro.**
+11. **Plateau d'Hauteville** (4 857) — page des marchés de 2020 sans lieu ni heures ; producteurs sans site. **Zéro.**
+12. **Dagneux** (4 778) — marché du samedi sous la halle sans famille de produits, bandeau d'image de banque. **Zéro.**
+
+**Pas-de-Calais, second département (règle 248)** — Lens puis Liévin.
+
+1. **Lens** (32 920) — le site de la Ville répond aux deux agents et sa clause est générale (règle 231), mais la Ville ne
+   publie aucun marché hebdomadaire (plan du site, recherche interne, actes 2025-2026 et deux magazines municipaux lus) : ses
+   trois marchés ne sont connus que par l'office (règle 196), sans heures ni produits. Le magasin bio de réseau du centre a son
+   certificat arrêté depuis 2022 et ne nomme aucun producteur ; la ferme urbaine annoncée par la Ville n'ouvrira qu'en 2027.
+   **Zéro.**
+2. **Liévin** (30 063) — le marché couvert de la rue Faidherbe a des faits entiers (horaires jour par jour, familles écrites
+   par la Ville, fixe publié par la Ville), mais la Ville nomme les images dans son interdiction (règle 231), l'office de
+   tourisme de Lens-Liévin écrit que ses photos « ne sont pas libres de droit » et la communauté d'agglomération ne permet que
+   l'usage privé (règle 296). Le marché du mercredi n'a ni heures ni familles (règle 197). **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** (consignées, aucune tranchée faute de fiche publiée) : horaires du magasin de producteurs de
+Villars-les-Dombes (ouverture à 8h30 sur l'accueil du site, 9h sur sa page de contact et à l'office — la page de contact,
+plus précise, l'emporterait) ; horaires du jardin de maraîchage (9h-13h sur le site de l'association, 9h-12h à l'office
+2026) ; heures de la ferme maraîchère de Trévoux (16h-19h et 16h-20h sur la même page) ; marché de Sainte-Euphémie (fini en
+2022 selon la Ville, listé par l'office) ; horaires du magasin de l'abbaye du Plantay (site contre office).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. À Montluel, Saint-Didier-de-Formans et
+Ars-sur-Formans, des exploitations dont le nom est ou dérive d'un nom de personne ; à Trévoux, une exploitation de spiruline
+dont la raison sociale porte un nom de personne ; dans la CA de Lens-Liévin, plusieurs fermes listées par l'office sous le nom
+de leur exploitant. Rien n'est repris ; les portables publiés par une ferme de Trévoux et par un torréfacteur de Lens non plus.
+
+**Sites devenus inaccessibles à l'agent nommé** (règle 257, à consigner pour les passes suivantes) : l'annuaire de la Chambre
+d'agriculture `ouacheterlocal.fr` (403 à l'agent nommé, 200 à l'agent par défaut ; la passe d'Arras s'en était servie) ;
+l'office `bourgenbressedestinations.fr` (403 à l'agent nommé) ; `bienvenue-a-la-ferme.com` répond 403 aux deux agents (règle
+237). Les fiches existantes qui les citent n'ont pas été touchées.
+
+**Écart de méthode signalé** : le sitemap de l'agglomération du Pays de Gex a été téléchargé dans la même commande que son
+`robots.txt`, qui exclut l'agent nommé ; son contenu n'a pas été exploité (règle 77).
+
+**Points d'arrêt** : l'**Ain** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra reprend d'abord les
+deux fiches désignées de Villars-les-Dombes, puis descend à **Saint-Maurice-de-Beynost** (4 332). Le **Pas-de-Calais** reprend
+à **Hénin-Beaumont** (25 688).
+
+**Pistes non publiées (Ain et Pas-de-Calais)** — lignes anonymes :
+
+- Villars-les-Dombes, magasin de producteurs de l'avenue Charles-de-Gaulle et jardin de maraîchage biologique d'un lieu-dit de la
+  commune : deux fiches entières, désignées (règle 258). **Déblocage** : trois points entiers dans la communauté de communes de
+  la Dombes à moins de 15 km (ou deux, avec un cinquième au titre de la règle 52).
+- Montluel, marché du vendredi : fiche entière seule. **Déblocage** : une seconde fiche entière dans la commune.
+- Trévoux, marché du samedi et ferme maraîchère de la route de Saint-Bernard ; Civrieux, magasin de producteurs ;
+  Châtillon-sur-Chalaronne, halles ; Péronnas, magasin Biocoop ; Liévin, marché couvert : faits entiers, images fermées.
+  **Déblocage** : une photographie permise du lieu ou de la commune (règles 231 et 312).
+- Lens, marchés du mardi, du vendredi et du samedi : connus par l'office seul (règle 196). **Déblocage** : une page de la
+  Ville qui publie jours, heures et produits.
+
 ### Passe du 26 septembre 2026 (cinquante-neuvième) : Jouarre (Seine-et-Marne), cinq fiches dans Coulommiers Pays de Brie
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images.**
@@ -11794,6 +11916,8 @@ les communes criblées ci-dessus. L'**Ain** reprend d'abord les deux fiches de T
 - La Ferté-sous-Jouarre, AMAP du Pays Fertois : faits entiers, aucune image permise. **Déblocage** : une photographie permise de
   la commune (règle 312) ; elle compléterait le groupe de Jouarre en sixième point.
 - Trévoux, marché du samedi et ferme maraîchère de la route de Saint-Bernard : deux fiches entières, désignées (règle 258).
+  *Correction du 26 septembre 2026 (soixantième passe, règle 358)* : les deux images étaient servies par un hébergeur dont le
+  `robots.txt` répond 403 (règle 256) ; les deux lieux sont des faits entiers sans image, et ne sont plus désignés.
   **Déblocage** : deux points entiers dans Dombes Saône Vallée à moins de 15 km.
 - Viriat, magasin bio de la rue du Fort ; Parcieux, magasin de producteurs ; Saint-Germain-sur-Morin, marché de la gare ;
   Le Châtelet-en-Brie, fraiseraie : faits entiers, images fermées. **Déblocage** : une photographie permise du lieu ou de la
