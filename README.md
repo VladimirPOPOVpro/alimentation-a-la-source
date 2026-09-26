@@ -11763,6 +11763,88 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixante-septième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches : inchangé depuis la passe précédente (aucune fiche publiée entre-temps) —
+départements épuisés sautés (règle 265), **Pas-de-Calais (62)** premier département non épuisé, **Charente-Maritime (17)**
+second (règle 248). La dernière région visée reste l'Île-de-France. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : « foyer municipal Labenne » rend un foyer
+municipal de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais.** Montigny-en-Gohelle, réessayée d'abord (règle 288) : le site de la Ville affiche toujours « en construction » ;
+elle sort de la descente sans consommer la borne (règle 290). Descente reprise à Sallaumines, douze communes. Sources : sites
+des Villes (domaines lus à l'annuaire de l'administration, règle 327) ; registre de l'Agence Bio (62, 1 098 opérateurs) ; office
+de tourisme de Béthune-Bruay ; annuaire « Où acheter local » de la Chambre d'agriculture ; registre des entreprises.
+
+1. **Sallaumines** (9 414) — le site de la Ville (hébergé sur `jimdosite.com`) répond 403 : commune muette (règle 237). Le registre
+   bio n'y compte qu'un magasin de hard-discount. **Zéro.**
+2. **Beuvry** (9 189) — **un seul lieu aux faits presque entiers** : le magasin d'une ferme maraîchère biologique (légumes de plein
+   champ et de serre, œufs de poules pondeuses, pommes d'un verger haute tige), route d'Armentières, active au registre, avec site,
+   fixe publié et photographies sans clause sur le site du commerce. Mais ses horaires se contredisent (voir plus bas, règle 5), et
+   le marché du mercredi (8h-13h, place des Frères-Robert) n'a aucune famille écrite (règle 197) ; la Ville nomme les images dans
+   son interdiction (règle 231), l'office aussi. Aucune seconde fiche entière (règle 127). **Zéro.**
+3. **Le Portel** (8 768) — marchés de la place de l'Église (mardi et vendredi « matins ») et d'Henriville (dimanche matin), familles
+   écrites par la Ville (fruits, légumes, charcuterie, boucherie, poissons), mais aucune heure publiée. Le registre bio n'y compte
+   que des mareyeurs et grossistes du port de Boulogne. **Zéro.**
+4. **Wingles** (8 720) — aucune page de marché sur le site de la Ville, dont les mentions légales nomment les images. **Zéro.**
+5. **Isbergues** (8 650) — annuaire des commerces sans marché ni producteur ; registre bio : un supermarché. **Zéro.**
+6. **Rouvroy** (8 552) — annuaire et magazine des commerçants, aucun marché hebdomadaire publié ; registre bio : un supermarché.
+   **Zéro.**
+7. **Vendin-le-Vieil** (8 536) — la page « Commerces et artisans » de la Ville est vide ; le magasin du réseau Biocoop inscrit au
+   registre ne rendrait au mieux qu'une fiche isolée, non instruit plus loin. **Zéro.**
+8. **Mazingarbe** (8 217) — aucune page de marché ni de commerce alimentaire trouvée. **Zéro.**
+9. **Libercourt** (7 973) — le « marché solidaire » est une aide alimentaire réservée, pas un point de vente ouvert ; le registre
+   bio n'y compte que des industriels et un hypermarché. **Zéro.**
+10. **Billy-Montigny** (7 937) — seul un marché de Noël est publié. **Zéro.**
+11. **Achicourt** (7 873) — aucun marché publié ; l'exploitation maraîchère du registre est inscrite sous un nom de personne.
+    **Zéro.**
+12. **Courcelles-lès-Lens** (7 830) — **un seul lieu aux faits lus** : un marché dominical inauguré le 13 septembre 2026, place
+    Jean-Jaurès, de 8h à 13h, dont la Ville écrit les étals (fromages, miel, fruits et légumes, maraîcher biologique, charcuterie).
+    Marché ouvert depuis deux semaines, aucune seconde fiche dans la commune. **Zéro.**
+
+**Charente-Maritime, second département (règle 248)** — Royan puis Aytré.
+
+1. **Royan** (19 425) — trois marchés publiés par la Ville (marché central, marché du Parc, marché des producteurs de Pontaillac),
+   mais aucune famille de produits écrite pour aucun d'eux (règle 197), et les horaires du marché central se contredisent (voir
+   plus bas). Le site de la Ville a répondu « You got banned permanently from this server » dès la troisième requête (après la
+   lecture de son `sitemap.xml`) : la page des marchés n'a été relue qu'une fois, par le second agent, et le site ne peut plus
+   servir d'image (règle 237). L'office Royan Atlantique interdit toute reproduction électronique et exclut l'iconographie de sa
+   permission papier (règle 296). Magasins : le Biocoop n'a d'autre source que le réseau (règle 149), les autres magasins bio sont
+   des enseignes de réseau ou des épiceries sans liste de producteurs (règle 361). **Zéro.**
+2. **Aytré** (9 746) — **faits entiers pour un seul lieu** : le marché du vendredi, place des Grands-Prés, de 7h à 13h, familles
+   écrites par la Ville (pommes de terre de l'île de Ré, melon charentais, salicorne, fromages). Mais les mentions légales de la
+   Ville portent « Photographies © Ville d'Aytré » (règle 291). L'entreprise apicole du registre fait de la vente par
+   correspondance, pas un point de vente. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : Beuvry, magasin de la ferme biologique — l'annuaire de la Chambre d'agriculture (mis à jour le 8 décembre
+2023) donne du mardi au samedi 14h30-19h, les annuaires commerciaux ajoutent des matinées (9h30-12h) et ferment à 18h le samedi ;
+le site du commerce et l'office ne publient aucun horaire. Royan, marché central — la Ville écrit du mardi au dimanche, 7h-13h,
+tous les jours l'été ; l'office, du mardi au vendredi et le dimanche hors saison. Rien n'est publié sur ces horaires (règle 5).
+
+**Fiches écartées pour doute sur une personne** : à Achicourt, une exploitation maraîchère inscrite au registre sous un nom de
+personne. Les noms de personnes lus sur la fiche d'office de Beuvry, dans les mentions légales de Royan Atlantique et d'Aytré
+ne sont pas repris.
+
+**Sites qui ferment l'accès à l'agent** : `ville-royan.fr` (bannissement déclaré après trois requêtes) ;
+`ville-de-sallaumines.jimdosite.com` (403) ; `mairie-montigny.fr` toujours en construction (second passage, règle 288).
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra descend à
+**Barlin** (7 331). La **Charente-Maritime** reprend à **Périgny** (8 877).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Beuvry, magasin d'une ferme maraîchère biologique, route d'Armentières : faits lus sauf les horaires, contradictoires.
+  **Déblocage** : des horaires publiés par le commerce ou une source datée de l'année qui départage (règle 5), et une seconde
+  fiche entière dans la commune (règle 127).
+- Courcelles-lès-Lens, marché dominical de la place Jean-Jaurès (8h-13h) : faits lus, image non instruite, fiche seule.
+  **Déblocage** : une seconde fiche entière dans la commune.
+- Aytré, marché du vendredi de la place des Grands-Prés (7h-13h) : faits entiers, photographies de la Ville sous « © ».
+  **Déblocage** : une photographie permise du lieu ou de la commune (règles 291 et 312) et une seconde fiche entière.
+
 ### Passe du 26 septembre 2026 (soixante-sixième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
