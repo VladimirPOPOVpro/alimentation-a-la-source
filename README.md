@@ -11763,6 +11763,101 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixante-cinquième) : Ain épuisé, Pas-de-Calais, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — départements épuisés sautés (règle 265) ; **Ain (01) 3,7094**, premier
+département non épuisé ; **Pas-de-Calais (62) 3,6908**, second (règle 248). La dernière région visée reste l'Île-de-France.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Reprise désignée de l'Ain : Villars-les-Dombes.** Aucune commune de la descente n'appartient à la communauté de communes de
+la Dombes (Civrieux et Misérieux relèvent de Dombes Saône Vallée) ; aucun point nouveau. Les deux fiches restent en pistes,
+même déblocage.
+
+**Ain : descente reprise à Saint-Rambert-en-Bugey (règle 247), onze communes, puis département épuisé (règle 265).**
+Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle 327 ; deux requêtes chacun, règle 257) ;
+registre de l'Agence Bio (01, 990 opérateurs) ; registre des entreprises ; Base Adresse Nationale.
+
+1. **Saint-Rambert-en-Bugey** (2 190) — **faits entiers pour un seul lieu** : le marché du vendredi, 15h30-18h30, place de
+   l'École, en face de la gare, relancé en mai 2025 et fêté pour son premier anniversaire en juin 2026, familles écrites par la
+   Ville (fromages, fruits et légumes, miel, pain, tisanes, épicerie fine). Mais les mentions légales de la Ville nomment les
+   images dans le paragraphe qui interdit la reproduction (règle 231). La fromagerie de la rue du Docteur-Temporal, qui fabrique
+   le ramequin du Bugey, n'a plus de site (le domaine ne se résout pas) et l'office régional des Montagnes du Jura n'a répondu à
+   aucun des deux agents (règle 297) : pas d'horaires lus. Les autres points de la page des commerces sont un supermarché, un
+   primeur ou une épicerie désignés par des noms de personnes. **Zéro.**
+2. **Montagnat** (2 186) — aucun marché ; un primeur de la zone artisanale qui vend « en direct de nos producteurs » sans en
+   nommer aucun (règle 361). **Zéro.**
+3. **Versonnex** (2 182) — le marché de producteurs du vendredi (15h30-19h30, parking de la Grange à Pont) n'a pas de familles
+   écrites (l'affiche de la Ville est illustrée, sans texte de produits, règle 197), et la Ville réserve ses contenus à l'usage
+   privé (règle 296). La ferme aquaponique de la rue du Stade a des faits lus sur son site (truites, légumes de saison), mais ses
+   photographies sont servies par `static.wixstatic.com`, dont le `robots.txt` répond toujours 403 aux deux agents (règle 358).
+   **Zéro.**
+4. **Mézériat** (2 172) — un seul point : la place du Marché, qui porte le marché du vendredi matin (sans heures) et le marché
+   mensuel des producteurs (troisième dimanche, 8h-12h, familles écrites par la Ville) ; une seule fiche possible (règle 42),
+   aucune seconde dans la commune (les producteurs du registre bio sont inscrits sous des noms de personnes). **Zéro.**
+5. **Saint-Jean-de-Gonville** (2 096) — le site de la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé (règle
+   257). **Zéro.**
+6. **Dortan** (2 074) — la page des commerces a une rubrique « Marché » vide ; une charcuterie désignée par un nom de famille.
+   **Zéro.**
+7. **Foissiat** (2 034) — aucun marché publié ; au registre bio, une beurrerie coopérative et un moulin qui ne vendent pas aux
+   particuliers, une ferme inscrite sous des noms de personnes. **Zéro.**
+8. **Saint-Martin-du-Mont** (2 023) — aucun marché ; les ventes directes certifiées sont inscrites sous des noms de personnes.
+   **Zéro.**
+9. **Manziat** (2 018) — le site de la Ville répond 403 à l'agent par défaut et 503 à l'agent nommé (règle 237) ; au registre
+   bio, des industriels. **Zéro.**
+10. **Civrieux** (2 016) — le magasin de producteurs déjà en pistes (images fermées) ; la page des commerces de la Ville répond
+    404 ; la ferme du registre porte un prénom dans son nom. **Zéro.**
+11. **Misérieux** (2 008) — le lycée agricole de Cibeins ne tient pas de point de vente permanent (ventes ponctuelles d'élèves
+    sur commande) ; aucun marché. **Zéro.**
+
+La commune suivante, **Saint-Trivier-sur-Moignans**, compte 1 963 habitants : **l'Ain est épuisé** (règle 265). Il reste dans
+le calcul des parts et son déficit reste publié ; aucune passe ne le vise plus. Les deux fiches désignées de
+Villars-les-Dombes et les pistes aux faits entiers de l'Ain restent en pistes avec leur déblocage.
+
+**Pas-de-Calais, second département (règle 248)** — Harnes puis Bully-les-Mines.
+
+1. **Harnes** (12 247) — **faits entiers pour un seul lieu** : le marché du jeudi, 9h-12h, sur la Grand'Place, familles écrites
+   par la Ville (fruits et légumes, viandes et charcuteries), photographie de la Ville de 660 px, mentions légales sans
+   interdiction de reproduction. Mais au registre bio la commune ne compte que des supérettes de réseau et des entrepôts, et
+   aucune seconde fiche n'existe (règle 127). **Zéro.**
+2. **Bully-les-Mines** (12 146) — deux marchés gérés par la Ville, avec heures et familles (jeudi 8h30-12h30 place Victor-Hugo ;
+   samedi 8h30-12h boulevard Alfred-François ; primeurs, producteurs fermiers, poissonniers, bouchers, fromagers), mais les
+   mentions légales nomment les images dans l'interdiction (règle 231). La ferme maraîchère biologique de la commune est
+   présentée sous le nom de son exploitant. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune rencontrée.
+
+**Fiches écartées pour doute sur une personne** : à Saint-Rambert-en-Bugey, deux élevages dont la raison sociale ou la
+dénomination porte un nom de personne ; à Mézériat, Foissiat et Saint-Martin-du-Mont, des exploitations inscrites sous des
+noms de personnes ; à Civrieux, une ferme dont le nom porte un prénom ; à Bully-les-Mines, une ferme maraîchère présentée
+sous le nom de son exploitant. Rien n'est repris ; les noms et portables lus sur les pages de commerces et de marchés des
+Villes non plus.
+
+**Sites devenus inaccessibles à l'agent nommé** (règle 257) : `saint-jean-de-gonville.fr` (403). `manziat.fr` refuse les deux
+agents (règle 237) ; `montagnes-du-jura.fr` ne répond pas (règle 297).
+
+**Points d'arrêt** : l'**Ain** est épuisé. Le **Pas-de-Calais** devient le premier département non épuisé du classement et
+reprend à **Méricourt** (11 619) ; le suivant non épuisé est la **Charente-Maritime** (17, 3,6188), dont la région n'a pas été
+visée à la passe précédente.
+
+**Pistes non publiées (Ain et Pas-de-Calais)** — lignes anonymes :
+
+- Saint-Rambert-en-Bugey, marché du vendredi (15h30-18h30, place de l'École) : faits entiers, images fermées. **Déblocage** :
+  une photographie permise du lieu ou de la commune (règles 231 et 312) et une seconde fiche entière dans la commune.
+- Versonnex, ferme aquaponique de la rue du Stade : faits lus, images servies par un hébergeur fermé. **Déblocage** : une
+  photographie permise hors de cet hébergeur (règle 358).
+- Mézériat, marché mensuel des producteurs (troisième dimanche, 8h-12h, place du Marché) : faits entiers, image non éprouvée
+  faute de seconde fiche. **Déblocage** : une seconde fiche entière dans la commune.
+- Harnes, marché du jeudi (9h-12h, Grand'Place) : fiche entière seule. **Déblocage** : une seconde fiche entière dans la
+  commune.
+- Bully-les-Mines, marchés du jeudi et du samedi : faits entiers, images fermées. **Déblocage** : une photographie permise du
+  lieu ou de la commune (règles 231 et 312).
+
 ### Passe du 26 septembre 2026 (soixante-quatrième) : Ain et Pas-de-Calais, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
