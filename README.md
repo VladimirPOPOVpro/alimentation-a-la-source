@@ -4390,13 +4390,38 @@ prioritaires en cas de conflit.
      « l'été » et la fiche est `a_confirmer`. Si aucune année récente ne fait concorder la date et le jour, l'horaire est un
      fait contesté (règle 5) et la fiche attend. **Déblocage** : une date de saison qui concorde avec l'année en cours.
 
+357. **Une commune déjà éprouvée dans la descente peut fournir un point d'intercommunalité à la zone d'une autre commune, à
+     condition d'être entièrement relue dans la passe qui publie.** Le 26 septembre 2026, Jouarre, deuxième commune de la
+     descente seine-et-marnaise, rend deux fiches entières (règle 127) ; la communauté d'agglomération Coulommiers Pays de Brie
+     ajoute les vergers d'Ussy-sur-Marne, la boutique de la ferme du lycée agricole de Chailly-en-Brie et une ferme de Mouroux.
+     Or Mouroux avait été éprouvée la veille, troisième commune de la même descente, et comptée pour zéro : le criblage
+     n'avait regardé que la Ville, l'AMAP et le registre bio, pas l'office intercommunal qui fiche la ferme. La règle 247 dit
+     que les communes éprouvées « ne se rouvrent qu'avec un déblocage nommé ». **Tranché ainsi** : la règle 247 interdit de
+     refaire d'une commune éprouvée le centre d'une zone, pour ne pas recommencer un criblage ; elle ne retire pas ses commerces
+     à l'intercommunalité d'une commune neuve qui, elle, fait la passe. Le point de Mouroux compte donc au titre de la règle
+     96, pourvu qu'il soit relu entièrement dans la passe (registre, source, géocodage, image, règle 322) et qu'il reste dans la
+     distance et l'intercommunalité de la règle 96 ; la ligne de pistes de la commune éprouvée n'est pas réécrite. Ici : cinq
+     fiches, dont deux à Jouarre, les trois autres à 8,2, 10,5 et 12,1 km du centre de Jouarre.
+
 ## Marchands à confirmer
 
-776 fiches sur 879 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+781 fiches sur 884 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 - **Les Casiers de l'Entrechamps** (Cazères) (passe du 26 septembre 2026 ; point au marqueur de l'office Cœur de Garonne,
   la Base Adresse Nationale ne connaissant pas le numéro ; contrôle inverse sur le 130 chemin des Vignes à 52 m, règle 27).
 - **Marché du Fousseret** (Le Fousseret) (heures de l'office Cœur de Garonne seulement, fiche modifiée le 24 avril 2026 ; la
   Ville ne donne que le mercredi matin, règle 204).
+- **Chèvrerie du Marteroy** (Jouarre) (passe du 26 septembre 2026 ; deux grilles d'horaires, Ville de janvier 2026 contre
+  office de mars 2023, publiées toutes deux, règle 5 ; point aux coordonnées du registre, la Base ne connaissant que la rue,
+  règle 10 ; photographie de l'office montrant les fromages, pas la boutique).
+- **Cueillette de Nolongues** (Jouarre) (saison « de mi-mai à mi-novembre » sans dates de l'année ; la Base ne rend que le
+  lieu-dit, à 620 m du carrefour D402-D19 que décrit la cueillette elle-même et où l'office pose son marqueur, retenu, règle 10).
+- **Les Vergers de Molien** (Ussy-sur-Marne) (boutique fermée d'avril à août selon le site, ouverte en juin et juillet selon
+  l'office en février 2025, règle 5).
+- **Ferme de la Bretonnière — boutique Breto Saveurs** (Chailly-en-Brie) (le lundi matin n'est publié que par l'office,
+  règle 5 ; l'office écrit « 1 hameau La Bretonnière », le registre et la Base le 67 rue du Séquoia, retenu au numéro).
+- **Ferme des Parrichets — Le Chalet Goût'Oeufs** (Mouroux) (jeudi-samedi selon l'office en septembre 2026 et les pages
+  intérieures du site, mardi-vendredi selon l'accueil du site signé 2018 ; le marqueur de l'office est à 3 km, écarté au
+  profit du numéro que la Base et le registre donnent ensemble).
 - **AMAP Le Clos Fleuri** (Rambouillet) (passe du 26 septembre 2026 ; heures du site de l'AMAP, 18h30-19h15, contre
   19h-20h à l'annuaire du réseau ; point à l'adresse de l'annuaire, à 110 m de l'école Saint-Hubert, quartier que nomme le site).
 - **AMAP Les Caramboles** (Rambouillet) (photographie thématique de la Ville, règle 352).
@@ -11690,6 +11715,89 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (cinquante-neuvième) : Jouarre (Seine-et-Marne), cinq fiches dans Coulommiers Pays de Brie
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images.**
+**Classement, règle 41**, sur 879 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — départements épuisés sautés (règle 265) ; **Seine-et-Marne (77) 3,7152**,
+premier département non épuisé ; **Ain (01) 3,6602**, second (règle 248). Dernière région visée : l'Occitanie. `origin/main`
+n'avait pas bougé. **Après la passe**, sur 884 fiches : Seine-et-Marne −1,1784 ; l'Ain (3,7094) est premier des départements
+non épuisés, puis le Pas-de-Calais (3,6908). La prochaine passe ne peut pas viser l'Île-de-France (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Seine-et-Marne : descente reprise à Guignes (règle 247).** Sources : sites des Villes (code postal contrôlé, règle 327 ; deux
+requêtes chacun, règle 257) ; registre de l'Agence Bio (925 opérateurs du 77) ; office de tourisme Coulommiers Pays de Brie
+(`coulommierspaysdebrie-tourisme.fr`, 200 aux deux agents, `robots.txt` sans exclusion nommée, mentions légales sans clause sur
+les images) ; registre des entreprises ; Base Adresse Nationale. L'office départemental, celui de Marne et Gondoire et celui de
+Melun Val de Seine répondent 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) : non consultés.
+
+1. **Guignes** (4 448) — **une fiche entière** : le marché du samedi 8h-13h, sur une place du bourg (familles écrites par la
+   Ville pour ce marché, photographie d'étal sans visage, mentions sans clause sur les images). Le magasin bio de réseau de la
+   rue Saint-Abdon a ses faits mais seulement une photographie générique de la chaîne ; la ferme de la route de Fouju ne publie
+   ses horaires que sur un réseau social. Une fiche ne fait pas de seconde : on descend.
+2. **Jouarre** (4 221) — **deux fiches entières, la zone (règle 127)** : la Chèvrerie du Marteroy et la Cueillette de Nolongues.
+   La fromagerie d'affinage de la commune avait des faits et une image complets, mais son nom commercial est un patronyme :
+   **écartée pour doute sur une personne** (règle 259), elle ne se rouvre pas. Le marché campagnard n'a ni heures ni familles
+   (règle 197) ; deux élevages ferment leurs images par leurs mentions légales et l'un vend sur rendez-vous ; une grange de vente
+   est active au registre mais fermée selon d'autres sources (règle 5, non publiée). **Compléments, règle 96**, dans la
+   communauté d'agglomération Coulommiers Pays de Brie : les Vergers de Molien (Ussy-sur-Marne, 8,2 km), la boutique de la
+   ferme du lycée agricole de la Bretonnière (Chailly-en-Brie, 10,5 km), la Ferme des Parrichets (Mouroux, 12,1 km, règle 357).
+   L'AMAP du Pays Fertois (La Ferté-sous-Jouarre, 4,6 km) a des faits entiers et datés de 2026, mais aucune image permise
+   (Ville réservée à l'usage privé, règle 296 ; hébergeur d'images de l'AMAP qui refuse tout agent) : elle reste en pistes. Le
+   marché de La Ferté-sous-Jouarre n'a qu'une phrase générique (règle 197).
+
+La zone s'étant faite à la deuxième commune, la descente du 77 s'arrête là. Pour mémoire, les autres communes de la liste ont
+été criblées dans la même passe, avant que la zone ne soit connue, et ne rendent **aucune fiche entière** : Pomponne (aucun
+marché, la miellerie n'ouvre que certains samedis annoncés), Le Châtelet-en-Brie (marché du jeudi connu par une page de 2023
+seulement ; fraiseraie aux faits entiers dont l'office ferme les images), Chevry-Cossigny (horaires du magasin de la ferme
+publiés seulement par des sources qui refusent l'agent nommé), Montry, Boissise-le-Roi, Ferrières-en-Brie (magasin bio de
+réseau sans image permise ni produits écrits), La Rochette (Ville qui refuse l'agent nommé), Saint-Germain-sur-Morin (marché de
+la gare aux faits entiers, images interdites par la Ville), Pringy, Saint-Mard.
+
+**Ain, second département** (règle 248), éprouvé en parallèle : **Viriat** (7 102) ne rend aucune fiche entière (magasin bio aux
+faits entiers dont le site interdit les photographies ; fermes connues seulement par des sources qui refusent l'agent nommé) ;
+**Trévoux** (7 013) rend **deux fiches entières** — le marché du samedi 7h30-12h place de la Terrasse (familles écrites par la
+Ville, page du 27 avril 2026 ; image thématique de la commune publiée sans clause par une ferme, règle 312) et une ferme
+maraîchère biologique de la route de Saint-Bernard (vente le vendredi 16h-19h, et le mercredi sur le bas-port) —, mais la
+communauté de communes Dombes Saône Vallée ne complète pas (magasin de producteurs de Parcieux sans image permise, marchés
+voisins sans familles ou sans producteur). Règle 258 : ces deux fiches sont **désignées pour la reprise**, avant tout candidat
+neuf, quand une passe reviendra dans l'Ain.
+
+**Contradictions** (tranchées dans les fiches, règle 5) : horaires de la chèvrerie (Ville 2026 contre office 2023, les deux
+publiés) ; saison des vergers (fermés d'avril à août selon le site, ouverts en juin-juillet selon l'office) ; lundi de la
+Bretonnière (office seul) ; jours de la Ferme des Parrichets (jeudi-samedi à l'office et sur les pages intérieures du site,
+mardi-vendredi sur l'accueil daté de 2018, la version récente retenue) ; point de la cueillette (lieu-dit de la Base à 620 m du
+carrefour que décrit la cueillette, carrefour retenu) ; adresse de la Bretonnière (« 1 hameau » à l'office, 67 rue du Séquoia au
+registre et à la Base, numéro retenu) ; lieu du marché de Guignes (une place du bourg pour la Ville, la mairie pour la
+communauté de communes) ; heures d'une ferme maraîchère de Trévoux (16h-19h et 16h-20h sur la même page, 16h-19h confirmé par
+un article du 24 septembre 2026).
+
+**Fiches écartées pour doute sur une personne** : une à Jouarre (fromagerie au nom commercial patronymique). Ailleurs, des
+exploitations inscrites sous le nom de leur exploitant, à Chevry-Cossigny, Montry, Saint-Mard et Jouarre : rien n'est repris.
+Les fiches de l'office et la page des commerces de Jouarre publient des noms et des portables : aucun n'est repris, et les
+fiches ne portent que des fixes publiés par les commerces.
+
+**Écart de méthode signalé** : pendant le criblage de Jouarre, une requête a été faite sous un en-tête de navigateur vers
+l'hébergeur d'images de l'AMAP du Pays Fertois, qui refuse les deux agents ; le fichier a été supprimé et rien ne s'appuie sur
+elle (règle 257). À noter aussi : l'office de Marne et Gondoire, cité comme source par les fiches existantes de
+Chanteloup-en-Brie et de Montévrain, refuse désormais l'agent nommé ; ces fiches n'ont pas été touchées.
+
+**Points d'arrêt** : en **Seine-et-Marne**, une zone est faite ; une descente future reprendrait à **Pomponne**, sans rouvrir
+les communes criblées ci-dessus. L'**Ain** reprend d'abord les deux fiches de Trévoux, puis descend à **Montluel** (6 895).
+
+**Pistes non publiées (Seine-et-Marne et Ain)** — lignes anonymes :
+
+- Guignes, marché du samedi : fiche entière seule. **Déblocage** : une seconde fiche entière dans la commune.
+- La Ferté-sous-Jouarre, AMAP du Pays Fertois : faits entiers, aucune image permise. **Déblocage** : une photographie permise de
+  la commune (règle 312) ; elle compléterait le groupe de Jouarre en sixième point.
+- Trévoux, marché du samedi et ferme maraîchère de la route de Saint-Bernard : deux fiches entières, désignées (règle 258).
+  **Déblocage** : deux points entiers dans Dombes Saône Vallée à moins de 15 km.
+- Viriat, magasin bio de la rue du Fort ; Parcieux, magasin de producteurs ; Saint-Germain-sur-Morin, marché de la gare ;
+  Le Châtelet-en-Brie, fraiseraie : faits entiers, images fermées. **Déblocage** : une photographie permise du lieu ou de la
+  commune.
 
 ### Passe du 26 septembre 2026 (cinquante-huitième) : Seine-et-Marne et Ain, aucune publication
 

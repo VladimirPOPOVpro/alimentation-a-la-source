@@ -23395,5 +23395,142 @@
     "image_url": "/images/marchands/marche-du-fousseret.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.28152,1.066299"
+  },
+  {
+    "slug": "chevrerie-du-marteroy-jouarre",
+    "nom": "Chèvrerie du Marteroy",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.926754,
+    "lon": 3.137155,
+    "adresse": "Rue du Marteroy, 77640 Jouarre",
+    "horaires": "Deux versions publiées. D’après la Ville (page des commerces, janvier 2026) : boutique ouverte de mars à décembre, le mercredi de 14h à 17h et le samedi de 10h à 12h et de 14h à 17h. D’après l’office de tourisme Coulommiers Pays de Brie (fiche de mars 2023) : du 18 mars au 31 octobre, le mercredi de 15h à 17h et le samedi de 10h à 12h et de 15h à 17h. Les créneaux communs aux deux sont sûrs ; le reste est à confirmer.",
+    "produits": [
+      "Crottins de chèvre frais, affinés ou secs",
+      "Crottins aromatisés",
+      "Pyramide cendrée",
+      "Bûche de chèvre",
+      "Tomme de chèvre"
+    ],
+    "description": "Petite chèvrerie créée en 2016 qui fabrique ses fromages de chèvre et les vend à la boutique de la ferme, à l’angle de la rue du Marteroy et du chemin de Vanry. Point placé aux coordonnées que le registre des entreprises donne à l’établissement, la Base Adresse Nationale ne connaissant que la rue. Photo : fiche de l’office de tourisme Coulommiers Pays de Brie ; elle montre les fromages de la ferme, pas la boutique.",
+    "image_url": "/images/marchands/chevrerie-du-marteroy-jouarre.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.926754,3.137155"
+  },
+  {
+    "slug": "cueillette-de-nolongues-jouarre",
+    "nom": "Cueillette de Nolongues",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.868937,
+    "lon": 3.092132,
+    "adresse": "Nolongue, carrefour de la D402 et de la D19, 77640 Jouarre",
+    "horaires": "De mi-mai à mi-novembre : en semaine de 14h30 à 18h ; le samedi et le dimanche de 10h30 à 12h et de 14h30 à 18h, d’après le site de la cueillette et l’office de tourisme. Les dates exactes de la saison changent chaque année avec la maturité des fruits.",
+    "produits": [
+      "Pommes et poires",
+      "Tomates",
+      "Courgettes",
+      "Aubergines et poivrons",
+      "Haricots verts",
+      "Potimarrons et courges",
+      "Pommes de terre"
+    ],
+    "description": "Cueillette en libre-service sur une dizaine d’hectares, au carrefour de la D402 et de la D19 entre Jouarre et Coulommiers : on y ramasse soi-même une vingtaine de fruits et légumes de saison, et deux week-ends de septembre sont consacrés au glanage de pommes de terre. Point placé au carrefour que décrit le site de la cueillette, là où l’office de tourisme pose son marqueur. Photo : site de la Cueillette de Nolongues.",
+    "site_web": "https://cueillette-de-nolongues.com/",
+    "image_url": "/images/marchands/cueillette-de-nolongues-jouarre.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.868937,3.092132"
+  },
+  {
+    "slug": "vergers-de-molien-ussy-sur-marne",
+    "nom": "Les Vergers de Molien",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.976544,
+    "lon": 3.086385,
+    "adresse": "24 Rue Samuel Beckett, 77260 Ussy-sur-Marne",
+    "horaires": "Du lundi au samedi de 8h à 12h et de 13h30 à 17h30, du 1er septembre au 1er avril environ, selon le stock, d’après le site des vergers, qui annonce la boutique fermée d’avril à août. L’office de tourisme (février 2025) la dit aussi ouverte en juin et juillet : à confirmer avant de s’y rendre hors saison.",
+    "produits": [
+      "Pommes",
+      "Poires",
+      "Cerises",
+      "Jus de pomme",
+      "Jus de pomme-poire"
+    ],
+    "description": "Arboriculteurs du hameau de Molien qui vendent leurs pommes et leurs poires à la boutique de l’exploitation, variété par variété, avec le jus pressé de leurs fruits. À 8 km du centre de Jouarre, dans la communauté d’agglomération Coulommiers Pays de Brie. Photo : site des Vergers de Molien, l’intérieur de la boutique.",
+    "telephone": "01 60 22 13 07",
+    "site_web": "https://www.vergersdemolien.fr/",
+    "image_url": "/images/marchands/vergers-de-molien-ussy-sur-marne.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.976544,3.086385"
+  },
+  {
+    "slug": "ferme-de-la-bretonniere-chailly-en-brie",
+    "nom": "Ferme de la Bretonnière — boutique Breto Saveurs",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.813417,
+    "lon": 3.150372,
+    "adresse": "67 Rue du Séquoia, 77120 Chailly-en-Brie",
+    "horaires": "Deux versions publiées. D’après le site de la ferme : le vendredi de 9h à 12h30 et de 13h15 à 18h, le samedi de 9h à 12h. D’après l’office de tourisme Coulommiers Pays de Brie (fiche du 14 septembre 2026) : toute l’année le lundi de 9h à 12h30, le vendredi de 9h à 12h30 et de 13h à 18h, le samedi de 9h à 12h30. Le vendredi et le samedi matin sont sûrs ; le lundi est à confirmer.",
+    "produits": [
+      "Poulets et pintades fermiers",
+      "Volailles de fêtes",
+      "Agneau en caissette ou au détail",
+      "Œufs bio",
+      "Jus de pomme bio",
+      "Miel",
+      "Légumes de saison"
+    ],
+    "description": "Boutique de l’exploitation du lycée agricole de la Bretonnière, qui vend les volailles, l’agneau, les œufs et le jus de pomme produits sur la ferme de l’établissement. À 10,5 km du centre de Jouarre, dans la communauté d’agglomération Coulommiers Pays de Brie. Photo : fiche de l’office de tourisme Coulommiers Pays de Brie, le panneau de la boutique dans la cour de la ferme, recadrée pour écarter les personnes.",
+    "telephone": "01 64 75 87 50",
+    "site_web": "https://www.labretonniere.fr/magasin-de-vente-breto-saveurs/",
+    "image_url": "/images/marchands/ferme-de-la-bretonniere-chailly-en-brie.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.813417,3.150372"
+  },
+  {
+    "slug": "ferme-des-parrichets-mouroux",
+    "nom": "Ferme des Parrichets — Le Chalet Goût’Oeufs",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.802513,
+    "lon": 3.063139,
+    "adresse": "105 Rue de la Croix Saint-Claude, 77120 Mouroux",
+    "horaires": "Le jeudi et le vendredi de 16h à 19h, le samedi de 9h à 12h et de 14h30 à 18h30, d’après l’office de tourisme Coulommiers Pays de Brie (fiche du 14 septembre 2026). La page d’accueil du site de la ferme, plus ancienne, annonce encore du mardi au vendredi de 16h à 18h30 : à confirmer.",
+    "produits": [
+      "Œufs de poules élevées en plein air",
+      "Pâtés de poule",
+      "Rillettes de poule",
+      "Fricassée et poule au pot en bocaux",
+      "Produits d’autres fermes du secteur"
+    ],
+    "description": "Ferme céréalière qui élève aussi des poules pondeuses en plein air et vend ses œufs et ses conserves de poule dans sa boutique, le Chalet Goût’Oeufs, avec des produits d’autres fermes voisines. À 12 km du centre de Jouarre, dans la communauté d’agglomération Coulommiers Pays de Brie. Photo : fiche de l’office de tourisme Coulommiers Pays de Brie, le site de la ferme interdisant la reprise de ses images.",
+    "site_web": "https://www.ferme-des-parrichets.fr/",
+    "image_url": "/images/marchands/ferme-des-parrichets-mouroux.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.802513,3.063139"
   }
 ]
