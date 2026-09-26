@@ -11763,6 +11763,89 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixante-huitième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches : inchangé (aucune fiche publiée depuis la passe précédente) — **Pas-de-Calais (62)**
+premier département non épuisé, **Charente-Maritime (17)** second (règle 248). La dernière région visée reste l'Île-de-France.
+`origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend un foyer municipal de l'Aude (0,55),
+« place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais**, descente reprise à Barlin, douze communes. Sources : sites des Villes, carte des marchés de l'agglomération de
+Béthune-Bruay, offices de Béthune-Bruay et de Lens-Liévin, registre de l'Agence Bio (62), annuaire « Où acheter local » de la
+Chambre d'agriculture, registre des entreprises.
+
+1. **Barlin** (7 331) — marché du mercredi place Roger-Salengro, familles écrites par la carte de l'agglomération (maraîcher,
+   boucherie-charcuterie, volailles et œufs, fromages), mais 8h-12h30 à l'agglomération contre 8h-12h aux annuaires, rien à la
+   Ville, aucune image. Le distributeur fermier de la rue d'Hersin n'est plus listé par le réseau lui-même. **Zéro.**
+2. **Leforest** (7 060) — marché du mercredi sans heures ni famille publiées par une autorité ; la minoterie ne vend qu'aux
+   boulangers ; la ferme bio du registre est inscrite sous un nom de personne. **Zéro.**
+3. **Houdain** (6 945) — aucun marché publié ; les deux producteurs trouvés sont inscrits sous un nom de personne. **Zéro.**
+4. **Noyelles-sous-Lens** (6 854) — marché connu des seuls annuaires tiers, jours contradictoires. **Zéro.**
+5. **Loos-en-Gohelle** (6 799) — marché du jeudi place de la République (8h-12h, Ville et office concordants) sans famille
+   écrite pour lui seul ; point de retrait des paniers d'un jardin d'insertion biologique, faits lus, mais ses deux sites et
+   celui de la Ville nomment les photographies ou les images dans leur interdiction (règle 231). **Zéro.**
+6. **Divion** (6 766) — **un seul lieu presque entier** : un élevage d'escargots avec vente à la ferme et légumes biologiques,
+   rue de la République, actif au registre et au registre bio, site ouvert, photographie des parcs sans personne et sans clause
+   sur les images. Mais ses horaires (mercredi et samedi 15h-19h) sont publiés sous un avis de fin d'année déjà en ligne en
+   juin 2025 : non datés de l'année (règle 5). Le marché du mercredi, place des Martyrs, a ses familles écrites par la Ville
+   mais trois horaires différents (voir plus bas) et aucune image propre. **Zéro.**
+7. **Grenay** (6 644) — marché du mardi aux lieux et heures contradictoires, sans famille ; seule image, un bandeau
+   1920 × 300. **Zéro.**
+8. **Saint-Laurent-Blangy** (6 459) — marché du vendredi place de la Mairie, étals écrits par la Ville (primeur, apiculteur,
+   fromagerie, boucherie-charcuterie) mais « vendredi matin » sans heure, aucune image ; le marché de producteurs d'Hervin est
+   ponctuel (deux dates dans l'année), pas un point permanent. **Zéro.**
+9. **Wimereux** (6 256) — marché du mardi et du vendredi, heures publiées par la Ville ; la seule composition vient d'un site
+   immobilier tiers citant une ancienne page ; images toujours d'origine invérifiable. **Zéro.**
+10. **Dourges** (6 139) — la Ville et l'office donnent des jours et des places différents ; le magasin bio du registre est
+    fermé. **Zéro.**
+11. **Fouquières-lès-Lens** (6 087) — aucun marché, le « panier local » de juin annulé. **Zéro.**
+12. **Hersin-Coupigny** (6 082) — distributeur fermier de la place Roger-Salengro aux faits lus (24 h/24, producteurs et
+    communes publiés par le réseau, actif au registre), mais l'office nomme les images dans son interdiction, et les deux seuls
+    grands visuels du site du réseau portent du texte incrusté, l'un d'allure de banque d'images (règle 360). Primeur sans site
+    ni producteur nommé (règle 361) ; marché du samedi sans famille, heures contradictoires. **Zéro.**
+
+**Charente-Maritime, second département (règle 248)** — Périgny puis Tonnay-Charente.
+
+1. **Périgny** (8 877) — **faits entiers pour le marché de la Pommeraie** (vendredi 14h-19h30, stands écrits un par un par la
+   Ville : aromatiques et safran, légumes et fruits biologiques, lait cru, fromages, poissons et coquillages) et **presque entiers
+   pour une ferme maraîchère biologique** de la rue de Villeneuve (samedi 10h-12h, saison rouverte le 25 avril 2026). Mais les
+   mentions légales de la Ville nomment les images, celles de la ferme les photographies, et la photographie de l'office porte
+   « © » suivi d'un nom (règle 291). La Super Ferme n'a plus de paniers cette année. **Zéro.**
+2. **Tonnay-Charente** (8 289) — marché du dimanche (8h-13h, « horaires non garantis » à l'office, fiche de février 2022) sans
+   famille écrite par une autorité ; magasin de producteurs de la zone de la Varenne actif au registre mais sans site ni
+   producteur nommé (règle 361) ; maraîchage biologique du Chêne Vert aux horaires contradictoires, photographies de
+   l'agglomération fermées (règle 231). **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : Divion, marché du mercredi — la page de la Ville donne 8h-13h, son dépliant de 2023 8h-12h30, la carte de
+l'agglomération 8h-12h. Barlin, marché du mercredi — 8h-12h30 à l'agglomération, 8h-12h aux annuaires. Tonnay-Charente,
+maraîchage du Chêne Vert — vendredi 16h-19h à l'agglomération, mercredi et vendredi à une fiche tierce. Périgny, marché de la
+Pommeraie — la même page de la Ville donne 14h-19h30 et, pour l'animation mensuelle, 15h-20h. Rien n'est publié sur ces horaires
+(règle 5).
+
+**Fiches écartées pour doute sur une personne** : quatre — à Leforest, une ferme biologique, et à Houdain, deux producteurs,
+inscrits sous un nom de personne ; à Tonnay-Charente, une distribution de paniers dont l'enseigne est un nom de personne. Les noms de personnes lus dans les mentions légales des sites consultés ne sont pas repris.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra descend à
+**Noyelles-Godault** (5 994). La **Charente-Maritime** reprend à **Lagord** (7 802).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Divion, élevage d'escargots avec vente à la ferme, rue de la République : faits et image lus, horaires sous un avis non daté.
+  **Déblocage** : des horaires datés de 2026 publiés par le commerce, et une seconde fiche entière dans la commune (règle 127).
+- Périgny, marché de la Pommeraie (vendredi 14h-19h30) : faits entiers, images de la Ville fermées. **Déblocage** : une
+  photographie permise du lieu ou de la commune (règle 312).
+- Périgny, ferme maraîchère biologique de la rue de Villeneuve : faits lus, photographies fermées par ses mentions légales.
+  **Déblocage** : idem.
+- Loos-en-Gohelle, point de retrait de paniers d'un jardin d'insertion biologique, place de la République : faits lus, images
+  fermées sur les trois sites. **Déblocage** : une photographie permise et une seconde fiche entière.
+- Hersin-Coupigny, distributeur fermier de la place Roger-Salengro : faits lus, aucune image permise. **Déblocage** : une
+  photographie du lieu sans texte incrusté sur le site du réseau, ou une clause d'office qui s'ouvre.
+
 ### Passe du 26 septembre 2026 (soixante-septième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
