@@ -4362,6 +4362,23 @@ prioritaires en cas de conflit.
      l'est pour son point, et le nom ne sera pas écrit même si le point apparaît. **Déblocage** : un point publié par la Ville ou
      le site départemental pour l'un ou l'autre marché, ou l'apparition du Mail dans la Base.
 
+355. **Le point que la règle 323 emprunte à la mairie est un seul point : deux commerces qui s'y rattachent l'un et l'autre
+     font une seule fiche (règle 42), et le groupe de Labenne n'a donc qu'une fiche entière dans sa commune.** Le 26 septembre
+     2026, le site de la Ville de Seignosse a de nouveau répondu à un premier essai (200 aux deux agents), puis s'est tu pendant
+     toute la relecture (règle 322). Avant de l'attendre, la passe a relu la construction du groupe. Le marché de terroir se
+     tient « place de la République » (page « Marchés » de la Ville, 7 juillet 2026) ; la distribution de l'AMAP, le même
+     jeudi, « sur la place de la république (face à l'église) », sous l'auvent du foyer municipal (site de l'AMAP), et l'AMAP
+     se dit gestionnaire du marché. La Base ne connaît ni la place ni le foyer (meilleure réponse : une rue à 0,46), la Ville ne
+     publie aucun point ni adresse pour ses salles, et les deux fiches recevaient le même point, celui de l'annuaire de
+     l'administration pour la mairie (43.594898 / -1.425870). C'est le cas de la règle 42 : deux commerces qu'aucune source ne
+     sait séparer, qui se cacheraient l'un l'autre sur la carte. Les passes landaises les avaient comptés pour deux sans relire
+     la règle 42. **Tranché ainsi** : le marché de terroir et la distribution de l'AMAP font **une** fiche, dont le champ
+     `horaires` porte les deux régimes ; Labenne n'a plus qu'une fiche entière, la règle 320 (deux fiches entières dans la
+     commune) ne s'ouvre pas, et le groupe — une fiche à Labenne, le marché de Seignosse, les Jardins de Castelnau — reste à
+     trois points et ne se publie pas, même si Seignosse répond. Le contrôle de tête de la règle 265 continue, mais sur ce
+     déblocage-ci. **Déblocage** : une seconde fiche entière à Labenne, avec un point propre (une adresse que la Base connaît,
+     ou un point publié par une autorité), ou une adresse propre pour le foyer municipal qui sépare les deux lieux.
+
 ## Marchands à confirmer
 
 774 fiches sur 875 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11658,6 +11675,103 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (cinquante-deuxième) : Loiret épuisé, Haute-Garonne et Ain, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 875 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — **Loiret (45) 3,7721**, **Haute-Garonne (31) 3,6727**, Seine-et-Marne (3,6300)
+écartée par la règle 41.c (dernière passe publiée : Rambouillet, Île-de-France), **Ain (01) 3,6207**. `origin/main` n'a pas bougé
+pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne.** Le site de la Ville de Seignosse a répondu 200 aux deux agents à un premier essai,
+puis n'a plus ouvert aucune connexion pendant toute la passe (une vingtaine d'essais, les deux agents, règle 322). Mais la relecture
+du groupe a trouvé plus décisif : le marché de terroir et la distribution de l'AMAP de Labenne n'ont qu'un seul point, celui de la
+mairie, et font donc une seule fiche (**règle 355, nouvelle**). Labenne n'a plus qu'une fiche entière ; le groupe reste à trois
+points et ne se publie pas, Seignosse ou non. Relus ce jour et toujours valables : la page « Marchés » de la Ville (7 juillet
+2026), la page Labenne de l'AMAP (jeudi, distribution 18h-19h), l'association active au registre, la SARL des Jardins de Castelnau
+active, les deux photographies de l'AMAP (dépôts de 2019 et 2022). Le domaine de la commune de Saint-Jean-de-Marsacq répond.
+
+**Loiret : reprises, puis six communes, de Marcilly-en-Villette à Vienne-en-Val ; département épuisé.**
+
+0. **Reprises.** Saint-Hilaire-Saint-Mesmin : le Mail reste inconnu de la Base et sans coordonnées chez la Ville comme sur la fiche
+   départementale, le marché d'Ingré aussi (règle 354) ; deux points, pas de zone. Châlette-sur-Loing : la page « Horaires et
+   accès » de la ferme de la rue Jean-Lamy ne donne toujours aucune heure en texte, et le site est servi par Wix (règle 256).
+1. **Marcilly-en-Villette** (2 180) — une épicerie-primeur d'alimentation générale, sans produits locaux écrits ni image hors réseau
+   social ; un rucher qui vend « sur la place » le premier samedi, sans heures (règle 192) ; des exploitations sous noms de
+   personnes. **Zéro.**
+2. **Château-Renard** (2 112) — marché du mercredi dont seules des annuaires donnent les heures, discordantes ; un verger en vente
+   directe sans site, heures d'annuaires discordantes, sans image. **Zéro.**
+3. **Chilleurs-aux-Bois** (2 084) — marché du jeudi 7h30-13h, familles écrites par la Ville, mais l'image départementale vient
+   d'une banque d'images et celle de la Ville montre des passants ; vendeurs directs sous noms de personnes. **Zéro.**
+4. **Gidy** (2 084) — **une fiche entière au plus** : la Ferme de la Volière (EARL active, 181 rue des Malvoviers ; heures publiées
+   par la Ville et par la ferme ; photographie de la ferme sans personne, 1 536 px, site sans clause ni `robots.txt`). Le site de
+   la ferme date de 2019-2020 et son nouveau domaine répond 403 à tout agent : à réépreuver avant toute publication. Aucun marché,
+   aucun second point. **Zéro zone.**
+5. **Vennecy** (2 047) — le magasin de producteurs de la rue de l'Étoile du Nord coupe la connexion à l'agent nommé et sert l'agent
+   par défaut (règle 257) ; la boulangerie biologique n'a que des annuaires. **Zéro.**
+6. **Vienne-en-Val** (2 004) — ni marché ni vente directe alimentaire. **Zéro.**
+
+La commune suivante, **Artenay**, compte 1 997 habitants : **le Loiret est épuisé** (règle 265) après six communes et cède le reste
+de la borne à la Haute-Garonne (règle 267). Ses fiches désignées (Saint-Hilaire-Saint-Mesmin, Châlette-sur-Loing, Ouzouer-sur-Loire,
+Poilly-lez-Gien, Gidy) restent en pistes.
+
+**Haute-Garonne : six communes (règle 267), de Castanet-Tolosan à Saint-Gaudens, aucune zone.**
+
+1. **Castanet-Tolosan** (15 317) — marchés de la halle (mardi et vendredi) et du samedi, faits entiers, mais la Ville réserve la
+   reproduction à l'usage privé (règle 296) ; ni le Sicoval ni les annuaires n'ont de photographie ; une ferme en paniers sans site ;
+   un marché du jeudi soir sans heure de fin. **Zéro.**
+2. **Ramonville-Saint-Agne** (15 158) — marché de l'avenue d'Occitanie documenté par la Ville, dont les photographies sont de banque
+   d'images et la reproduction soumise à accord ; carré des producteurs sans familles écrites ; deux AMAP sans image du lieu ou sans
+   heure datée (règle 195). **Zéro.**
+3. **Saint-Orens-de-Gameville** (14 646) — mentions de la Ville nommant les images (règle 231) ; l'AMAP distribue dans un lieu au nom
+   de famille. **Zéro.**
+4. **Fonsorbes** (12 954) — « droits de reproduction réservés, y compris pour les documents photographiques » (règle 246) ; aucune
+   vente directe. **Zéro.**
+5. **L'Union** (12 638) — reproduction réservée à l'usage privé (règle 296). **Zéro.**
+6. **Saint-Gaudens** (12 139) — **deux fiches entières, désignées pour la reprise (règles 258 et 249)** : les **marchés du
+   centre-ville**, place Jean-Jaurès (jeudi 7h-12h30 ; samedi, marché de producteurs, 7h30-13h ; page « Les marchés de plein vent »
+   de la Ville, mise à jour le 20 mai 2025 ; familles écrites par la Ville pour le samedi ; photographies de la Ville à recadrer
+   au-dessus des passants) et la **Halle Gourmande** (du mardi au dimanche 8h-14h, vendredi et samedi jusqu'à 19h ; fromages,
+   boucherie-charcuterie, pains du Comminges, poissonnerie ; façade sans personne, 1 181 px). Le site de la Ville sert page et
+   fichiers aux deux agents, `robots.txt` sans exclusion, clause générale sans image nommée (règle 231). Complément cherché dans
+   Cœur et Coteaux du Comminges à moins de 15 km, sans succès : Montréjeau nomme les images dans son interdiction, la ferme
+   maraîchère de Saman ne reçoit que sur rendez-vous, le site départemental refuse l'agent nommé (règle 257). **Deux points, pas
+   de zone** (règle 258). Les heures de la Ville datent de mai 2025 : la reprise les relira. Au passage, la halle réunit des
+   artisans de bouche plus que des producteurs ; elle ne passerait qu'en `marche`, comme les halles déjà publiées.
+
+Point d'arrêt : **Saint-Gaudens** ; la prochaine passe dans le 31 prend d'abord les deux fiches de Saint-Gaudens, puis reprend à
+**Castelginest** (11 271).
+
+**Ain, second département (règle 248)** — Oyonnax puis Valserhône.
+
+1. **Oyonnax** (22 480) — marchés du parc Jeantet (lundi et samedi 7h-13h) et du cours de Verdun (jeudi 7h-13h), heures de la Ville,
+   familles écrites par l'annuaire de la fédération des marchés : faits entiers, mais la Ville nomme les photos dans son
+   interdiction et n'en a qu'une de 570 px, l'office de tourisme réserve ses photographies (règle 246). Le magasin collectif de
+   producteurs d'Arbent est derrière un filtrage qui refuse les deux agents (règle 237). **Zéro.**
+2. **Valserhône** (16 712) — marché de Bellegarde « le matin » sans heures, sur une place que la Base ignore ; marché de Châtillon
+   (mercredi 9h-13h, point publié par la Ville) sans familles écrites (règle 197) ; le domaine du magasin de producteurs de
+   Bellegarde sert aujourd'hui un site sans rapport (règle 199) ; le magasin de réseau ne publie que la liste nationale (règle 273).
+   **Zéro.** La descente reprendra à **Ambérieu-en-Bugey** (15 934).
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règles 248 et 258).**
+
+**Contradictions** : aucune sur une fiche publiable. Heures du marché de Château-Renard et du verger de la même commune divergentes
+entre annuaires ; marché des producteurs de Saint-Hilaire-Saint-Mesmin (9h-12h dans le texte, 8h30-12h30 dans le tableau de la
+fiche départementale), consignée pour la reprise (règle 5).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière ; à Marcilly-en-Villette, Château-Renard, Chilleurs-aux-Bois,
+Saint-Orens-de-Gameville et dans l'Ain, des exploitations ou des lieux portant des noms de personnes ne sont pas repris. Aucun nom
+n'est écrit.
+
+**Pistes non publiées (Loiret, Haute-Garonne, Ain)** — lignes anonymes :
+
+- Gidy, ferme en vente directe : une fiche entière, seule ; site ancien, à réépreuver.
+- Saint-Gaudens, marchés du centre-ville et halle gourmande : deux fiches entières, reprise en premier dans le 31. **Déblocage** :
+  deux points entiers dans Cœur et Coteaux du Comminges à moins de 15 km.
+- Castanet-Tolosan et Oyonnax, marchés : faits entiers, images fermées (règles 296 et 246). **Déblocage** : une photographie du lieu
+  publiée par une source qui en permet la reprise.
+- Labenne, marché de terroir et AMAP : une seule fiche (règle 355).
 
 ### Passe du 26 septembre 2026 (cinquante et unième) : Loiret et Haute-Garonne, aucune publication
 
