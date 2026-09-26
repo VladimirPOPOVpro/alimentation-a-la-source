@@ -11763,6 +11763,85 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (soixante-quatrième) : Ain et Pas-de-Calais, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — départements épuisés sautés (règle 265) ; **Ain (01) 3,7094**, premier
+département non épuisé ; **Pas-de-Calais (62) 3,6908**, second (règle 248). La dernière région visée reste l'Île-de-France.
+`origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Reprise désignée de l'Ain : Villars-les-Dombes.** Mionnay, seule commune de la descente dans la communauté de communes de la
+Dombes (environ 14,6 km du centre de Villars), ne rend aucun point entier (ci-dessous). Les deux fiches restent désignées, même
+déblocage.
+
+**Ain : descente reprise à Collonges (règle 247), douze communes.** Sources : sites des Villes (domaines lus à l'annuaire de
+l'administration, règle 327 ; deux requêtes chacun, règle 257) ; registre de l'Agence Bio (01, 990 opérateurs) ; registre des
+entreprises ; Base Adresse Nationale.
+
+1. **Collonges** (2 398) — la Ville ne publie aucun marché ; sa page des commerces ne cite, pour l'alimentation, qu'une épicerie
+   générale, une boulangerie, une herboristerie (dont le site ne répond pas) et une vente de fruits et légumes désignée par les
+   noms de ses exploitants. **Zéro.**
+2. **Bresse Vallons** (2 388) — aucun marché publié ; mentions légales nommant « les images » dans la réserve (règle 231) ; les
+   deux ventes directes du registre bio sont inscrites sous un nom de personne. **Zéro.**
+3. **Chevry** (2 372) — annuaire des commerces de la Ville : quatre entrées, aucune en circuit court ; aucun marché. **Zéro.**
+4. **Échenevex** (2 328) — le site de la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé, `robots.txt` compris
+   (règle 257). **Zéro.**
+5. **Izernore** (2 299) — aucun marché ni commerce publié (plan du site lu) ; la seule ferme certifiée a pour raison sociale un
+   nom de personne. **Zéro.**
+6. **Mionnay** (2 294) — le marché du mardi n'est connu que par une annonce de 2020 (règle 192) ; mentions légales réservant la
+   reproduction à l'usage privé (règle 296) ; la ferme du registre bio porte un nom qui est aussi un patronyme. **Zéro.**
+7. **Sergy** (2 288) — aucun marché ; licence d'usage « personnel et privé » (règle 296) ; l'EARL maraîchère certifiée n'a pas
+   de site. **Zéro.**
+8. **Marboz** (2 264) — marché du dimanche matin une semaine sur deux (8h30-12h, Grande Rue et rue Saint-Martin) sans aucune
+   famille de produits (règle 197), images nommées dans la réserve (règle 231) ; les ventes à la ferme certifiées sont soit sans
+   site, soit inscrites sous des noms de personnes. **Zéro.**
+9. **Jujurieux** (2 260) — **faits entiers pour un seul lieu** : le potager biologique de la rue du Moulin (SAS active,
+   certificat publié), qui vend le samedi de 9h à 12h à la salle des fêtes ; mais son site réserve les représentations
+   photographiques, et la Ville ne permet que l'usage personnel (règle 296). Les deux domaines viticoles certifiés n'ont pas de
+   site à eux (réseaux sociaux et cavistes seulement) ; la ferme-brasserie est inscrite sous un nom de personne. **Zéro.**
+10. **Saint-Denis-en-Bugey** (2 246) — aucun marché publié ; commerces sans circuit court identifiable. **Zéro.**
+11. **Pont-de-Vaux** (2 204) — la page « Le marché » de la Ville est vide (« À venir prochainement ») ; la reproduction « des
+    pages, des données et de tout autre élément » est interdite ; l'office soumet ses images à autorisation (passe
+    soixante-deuxième). Le site de la Ville répond 403 à l'agent par défaut et 200 à l'agent nommé : ce n'est pas un refus de
+    l'agent nommé (règle 257). **Zéro.**
+12. **Saint-Didier-de-Formans** (2 203) — aucun marché ni page de commerces ; la maraîchère certifiée porte des noms de
+    personnes dans sa dénomination. **Zéro.**
+
+**Pas-de-Calais, second département (règle 248)** — Outreau puis Berck.
+
+1. **Outreau** (13 138) — la Ville ne publie aucun marché hebdomadaire (recherche interne : annonces de 2020 et marchés de
+   Noël) ; au registre bio, des grandes surfaces, un grossiste et un magasin de réseau sans liste de producteurs (règle 273).
+   **Zéro.**
+2. **Berck** (12 951) — la Ville publie cinq marchés (mardi, vendredi et dimanche sur la place de l'hôtel de ville ; mercredi et samedi au
+   marché couvert de la rue des Halles), « le matin », sans heures ni familles de produits (règle 197), et nomme les
+   photographies dans sa réserve ; le magasin bio de la zone de la Vigogne relève de la règle 273. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune rencontrée.
+
+**Fiches écartées pour doute sur une personne** : à Collonges, Bresse Vallons, Izernore, Mionnay, Marboz, Jujurieux et
+Saint-Didier-de-Formans, des exploitations dont la raison sociale ou la dénomination porte un nom de personne. Rien n'est
+repris ; les noms et portables lus sur les pages de commerces des Villes non plus.
+
+**Sites devenus inaccessibles à l'agent nommé** (règle 257) : `echenevex.fr` (403). `obopoqodo.fr` ne répond pas (règle 237).
+
+**Points d'arrêt** : l'**Ain** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra reprend d'abord les
+deux fiches désignées de Villars-les-Dombes, puis descend à **Saint-Rambert-en-Bugey** (2 190) ; le seuil de la règle 265
+n'est plus qu'à quelques communes. Le **Pas-de-Calais** reprend à **Harnes** (12 247).
+
+**Pistes non publiées (Ain et Pas-de-Calais)** — lignes anonymes :
+
+- Jujurieux, potager biologique de la rue du Moulin (vente du samedi 9h-12h à la salle des fêtes) : faits entiers, images
+  réservées. **Déblocage** : une photographie permise du lieu ou de la commune (règles 231 et 312) et une seconde fiche entière
+  dans la commune.
+- Berck, cinq marchés de la Ville : jours et lieux publiés, ni heures ni produits. **Déblocage** : une page de la Ville ou du
+  gestionnaire qui publie heures et familles de produits (règle 197), et une photographie permise.
+
 ### Passe du 26 septembre 2026 (soixante-troisième) : Ain et Pas-de-Calais, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
