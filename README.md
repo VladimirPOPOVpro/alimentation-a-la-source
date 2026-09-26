@@ -4437,6 +4437,19 @@ prioritaires en cas de conflit.
      restent sous la règle 59, et la fiche cherche une photographie thématique permise de sa commune (règles 312 et 352).
      **Déblocage** : une vue de la ferme ou de son point de vente, d'au moins 600 px, publiée sans réserve.
 
+361. **Une épicerie de produits locaux qui ne publie ni site, ni liste de producteurs, ni image à elle ne compte pas parmi les
+     deux fiches entières de la règle 127 ; et l'étiquette d'un autre commerce ne l'illustre pas.** À Nantua, une épicerie fine
+     de la rue de l'Hôtel-de-Ville a des faits lus : société active au registre à son adresse, horaires jour par jour et familles
+     de produits à l'office intercommunal (fruits et légumes, produits laitiers, céréales, huiles, bières, vins). Mais elle n'a
+     pas de site, ne publie aucun nom de producteur, et l'office ferme ses photographies (règle 231). La seule photographie
+     permise de la commune est celle d'une brasserie biologique voisine : une bouteille à l'étiquette de la brasserie. La règle
+     86 veut qu'un commerce qui revend montre la longueur de sa chaîne par la liste de ses producteurs ; la règle 332 interdit
+     qu'une photographie thématique affiche la marque d'un tiers ; la règle 191 interdit de donner à deux fiches le fichier que
+     l'une porte déjà. **Tranché ainsi** : un point de vente qui revend n'est entier que s'il publie lui-même, ou qu'une autorité
+     publie pour lui, au moins un producteur de la région dont il vend les produits ; et sa photographie thématique montre une
+     matière première sans étiquette. L'épicerie reste en pistes, faits lus compris. **Déblocage** : une liste de producteurs
+     publiée, et une photographie permise du lieu ou d'une matière première de la commune.
+
 ## Marchands à confirmer
 
 781 fiches sur 884 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11749,6 +11762,94 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (soixante-deuxième) : Ain et Pas-de-Calais, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 884 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — départements épuisés sautés (règle 265) ; **Ain (01) 3,7094**, premier
+département non épuisé ; **Pas-de-Calais (62) 3,6908**, second (règle 248). La dernière région visée reste l'Île-de-France.
+`origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points.
+
+**Reprise désignée de l'Ain : Villars-les-Dombes.** Saint-André-de-Corcy, seule commune de la descente dans la communauté de
+communes de la Dombes (9,7 km du centre de Villars), ne rend aucun point entier. Les deux fiches restent désignées, avec le
+même déblocage.
+
+**Ain : descente reprise à Nantua (règle 247), douze communes.** Sources : sites des Villes (domaines lus à l'annuaire de
+l'administration, code postal contrôlé, règle 327 ; deux requêtes chacun, règle 257) ; registre de l'Agence Bio (01) ; offices
+de tourisme ; registre des entreprises ; Base Adresse Nationale.
+
+1. **Nantua** (3 416) — **une fiche entière, seule** : la brasserie biologique de la route de Genève (société active, engagée
+   au registre bio ; mercredi et vendredi 16h-19h sur son site et à l'office ; photographie de son propre site sans clause
+   d'image). L'épicerie fine de la rue de l'Hôtel-de-Ville a ses faits à l'office, mais ni site, ni producteurs publiés, ni
+   image à elle (**règle 361**, nouvelle). La Ville ne publie pas le marché du samedi (règle 196) ; l'office Haut-Bugey ferme
+   ses photographies (règle 231). Haut-Bugey Agglomération aurait complété — fromageries coopératives de la Combe du Val
+   (Saint-Martin-du-Frêne, 4,9 km) et de Brénod (9,7 km), entières ; ferme collective du Champ du Puits à Peyriat (7,6 km),
+   sans image — mais la commune n'a pas ses deux fiches. **Zéro zone.**
+2. **Feillens** (3 411) — le site de la Ville oppose un défi anti-robot aux deux agents, non contourné (règle 237) ; le marché
+   n'est connu que par l'office (règle 196) ; aucun producteur à source propre. **Zéro.**
+3. **Attignat** (3 409) — aucun marché ni producteur publié ; `robots.txt` de la Ville fermant son dossier d'images ; office
+   de Bourg-en-Bresse refusé à l'agent nommé (règle 257). **Zéro.**
+4. **Saint-André-de-Corcy** (3 370) — marché du dimanche connu par un billet de 2020 sans heures ni produits (règle 197) ;
+   la yaourterie a fermé son établissement de la commune ; le magasin de réseau ferme ses images. **Zéro.**
+5. **Ceyzériat** (3 328) — aucun marché publié ; le magasin de produits fermiers n'a ni site ni horaires hors annuaires ;
+   images de la Ville nommées dans l'interdiction. **Zéro.**
+6. **Vonnas** (3 255) — marché du jeudi 8h-12h publié par la Ville avec la seule mention « commerces alimentaires » (règle
+   197) ; images de la Ville fermées et créditées à des banques d'images ; le domaine de l'ancien office a été vendu. **Zéro.**
+7. **Balan** (3 077) — la Ville ne publie rien ; les domaines du magasin de producteurs et d'une ferme ont été rachetés par des
+   sites sans rapport (note Santa Lucia) ; marché mensuel connu par l'office seul. **Zéro.**
+8. **Ségny** (2 941) — aucun marché publié ; le magasin de réseau n'a qu'une page nationale refusée à l'agent nommé. **Zéro.**
+9. **Saint-Didier-sur-Chalaronne** (2 934) — marché du vendredi 7h-13h place des Halles, publié par la Ville et par un arrêté
+   du 21 septembre 2026, mais sans famille de produits ailleurs que dans les clauses de propreté de l'arrêté (règle 197) ; image
+   de banque, illustrations nommées dans l'interdiction. **Zéro.**
+10. **Péron** (2 916) — aucun marché publié ; images de la Ville soumises à autorisation écrite ; l'AMAP n'est située que par un
+    annuaire. **Zéro.**
+11. **Saint-Maurice-de-Gourdans** (2 903) — aucun marché publié par la Ville ; l'office de la Plaine de l'Ain et le site
+    départemental refusent l'agent nommé (règle 257). **Zéro.**
+12. **Massieux** (2 843) — marché du dimanche réduit à un primeur et un traiteur une semaine sur deux ; seule photographie à
+    531 px, avec des visages (règle 59). **Zéro.**
+
+**Pas-de-Calais, second département (règle 248)** — Bruay-la-Buissière puis Carvin.
+
+1. **Bruay-la-Buissière** (21 424) — le marché du dimanche (8h-13h en été, 8h30-12h30 en hiver) a jour, heures et familles
+   publiés par la Ville, mais sa place n'est pas dans la Base (règle 166) et la Ville réserve « les représentations
+   iconographiques et photographiques » (règle 231) ; le marché du vendredi n'a aucune famille ; deux commerces bio sont cessés
+   au registre ; le magasin de réseau n'a qu'une page nationale refusée à l'agent nommé. **Zéro.**
+2. **Carvin** (17 909) — le site de la Ville répond 403 à l'agent nommé seulement (règle 257) : site non lu ; la brasserie de la
+   commune a des faits entiers mais ses mentions nomment les images ; l'épicerie en vrac est cessée. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** (consignées, aucune tranchée faute de fiche publiée) : heures d'été du marché de Massieux (8h30-12h30 sur la
+page « Marché », 9h-12h30 dans les avis de septembre 2026 — l'avis daté l'emporterait, règle 78) ; jour du marché de
+Saint-André-de-Corcy (samedi pour un annuaire, dimanche pour la commune) ; heures du marché de Vonnas (8h-12h pour la Ville,
+8h-13h pour l'ancien office — la Ville l'emporterait, règle 176).
+
+**Fiches écartées pour doute sur une personne** : une à Balan (ferme dont l'établissement de vente porte un nom de famille,
+alors que son image était permise) ; ailleurs, à Nantua, Feillens, Attignat, Vonnas, Ségny, Saint-Didier-sur-Chalaronne et
+Carvin, des exploitations dont l'enseigne ou la raison sociale porte un nom de personne : rien n'est repris. Aucun portable
+n'est reproduit.
+
+**Sites devenus inaccessibles à l'agent nommé** (règle 257) : `carvin.fr`, `biocoop.fr`, l'office de la Plaine de l'Ain, le
+site départemental du tourisme de l'Ain ; `feillens.fr` oppose un défi anti-robot aux deux agents (règle 237).
+
+**Points d'arrêt** : l'**Ain** a atteint la borne de douze communes (règle 247) ; une passe qui y reviendra reprend d'abord les
+deux fiches désignées de Villars-les-Dombes, puis descend à **Pont-d'Ain** (2 843). Le **Pas-de-Calais** reprend à
+**Avion** (17 435).
+
+**Pistes non publiées (Ain et Pas-de-Calais)** — lignes anonymes :
+
+- Nantua, brasserie biologique de la route de Genève : fiche entière seule. **Déblocage** : une seconde fiche entière dans la
+  commune ; les fromageries de la Combe du Val et de Brénod complèteraient alors la zone (règles 96 et 320).
+- Nantua, épicerie fine de la rue de l'Hôtel-de-Ville : faits lus, règle 361. **Déblocage** : producteurs publiés et image
+  permise.
+- Peyriat, ferme collective du Champ du Puits : faits entiers, aucune image permise. **Déblocage** : une photographie permise.
+- Bruay-la-Buissière, marché du dimanche : faits entiers, lieu absent de la Base, images fermées. **Déblocage** : un point
+  publié par la Ville et une photographie permise.
+- Saint-Didier-sur-Chalaronne, marché du vendredi : familles non écrites. **Déblocage** : une page de la Ville qui les nomme.
 
 ### Passe du 26 septembre 2026 (soixante et unième) : Ain et Pas-de-Calais, aucune publication
 
