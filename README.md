@@ -11691,6 +11691,97 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (cinquante-septième) : Seine-et-Marne et Ain, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 879 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé depuis la passe précédente — Oise, Val-d'Oise, Landes, Eure-et-Loir,
+Lot-et-Garonne, Loir-et-Cher, Calvados, Aube, Mayenne, Loiret et Cher épuisés (règle 265) ; **Seine-et-Marne (77) 3,7152**,
+premier département non épuisé, ouvert puisque la dernière passe publiée (Cazères) visait l'Occitanie ; **Ain (01) 3,6602**,
+second (règle 248). Rien n'étant publié, le classement reste le même pour la passe suivante et la dernière région visée reste
+l'Occitanie.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base Adresse Nationale : le foyer municipal n'y est
+pas (meilleure réponse : un foyer municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53).
+Trois points.
+
+**Reprises désignées de la Seine-et-Marne** : aucun déblocage nommé n'est survenu depuis la passe précédente (Moret-Loing-et-Orvanne
+reste à une fiche, Pontault-Combault n'a pas de nouvelle source, Vert-Saint-Denis pas de photographie).
+
+**Seine-et-Marne : douze communes (règle 247), de Tournan-en-Brie à Bois-le-Roi.** Sources : sites des Villes (domaines lus à
+l'annuaire de l'administration, règle 327, chacun contrôlé en deux requêtes, règle 257) ; registre de l'Agence Bio (925
+opérateurs du 77) ; registre des entreprises ; Base Adresse Nationale. Saint-Thibault-des-Vignes, qui a déjà des fiches, est
+sautée ; Bois-le-Roi et Esbly ont la même population (6 072) et Bois-le-Roi, premier dans l'ordre de l'appel, a été pris.
+
+1. **Tournan-en-Brie** (8 274) — la Ville publie son marché (mercredi et samedi 8h-13h, place du Marché) avec la liste de ses
+   étals — poissonniers, maraîcher, boucher, primeurs, fromager, volailler — écrite pour lui seul ; mais ses mentions légales
+   nomment les « images » dans l'interdiction (règle 231). La ferme collective du hameau de Combreux porte plusieurs
+   exploitations biologiques au registre, sans boutique ni horaires publiés : la page que lui consacrait l'incubateur agricole
+   régional répond 404, et les sources restantes présentent les activités sous le nom de leurs exploitants. **Une fiche
+   entière, seule** : la boutique de la ferme laitière du hameau de Courcelles (SARL active, 01.50Z), horaires publiés sur son
+   site, images servies par son propre domaine, sans clause sur les photographies, dont une de 1 200 px sans personne.
+   L'intercommunalité (Les Portes Briardes) ne complète pas : Ozoir-la-Ferrière et Gretz-Armainvilliers sont éprouvées,
+   Lésigny ne rend rien (ci-dessous). **Zéro zone.**
+2. **Chessy** (7 771) — aucun marché hebdomadaire publié par la Ville (seulement le marché de Noël) ; le magasin de producteurs
+   de la commune est **fermé** au registre (aucun établissement ouvert). **Zéro.**
+3. **Émerainville** (7 690) — la Ville coupe la connexion (444) à l'agent nommé et répond 200 à l'agent par défaut (règle 257).
+   **Zéro.**
+4. **Courtry** (7 330) — aucun marché ; la page des commerces ne porte, pour l'alimentaire, que des supermarchés, des
+   boulangeries et une boucherie dont l'enseigne pourrait être un nom de famille. **Zéro.**
+5. **Nanteuil-lès-Meaux** (7 308) — 444 à l'agent nommé (règle 257). **Zéro.**
+6. **Bailly-Romainvilliers** (6 980) — le marché des terroirs est annuel (avril) ; mentions légales nommant les « images »
+   (règle 231) ; au registre, des magasins de chaîne. **Zéro.**
+7. **Lésigny** (6 923) — le `robots.txt` de la Ville interdit `/` à `Amazonbot` (règle 233) ; au registre, un supermarché.
+   **Zéro.**
+8. **Othis** (6 717) — aucun marché publié ; au registre, une supérette de chaîne. **Zéro.**
+9. **Champagne-sur-Seine** (6 497) — 403 à l'agent nommé (règle 257). **Zéro.**
+10. **Saint-Pathus** (6 479) — seul un marché de Noël est publié ; rien au registre. **Zéro.**
+11. **Nandy** (6 350) — aucun marché publié ; au registre, un supermarché et un opérateur sous le nom de son exploitant.
+    **Zéro.**
+12. **Bois-le-Roi** (6 072) — le marché du dimanche matin n'existe sur le site de la Ville qu'à travers la gratuité du parking,
+    sans heures ni familles (règle 197) ; les mentions ne permettent la reproduction que pour un usage privé (règle 296). La
+    notice municipale de l'AMAP ne donne ni jour ni lieu de distribution (règle 195) et porte les coordonnées personnelles
+    d'une responsable ; l'épicerie en vrac relève de la règle 86. **Zéro.**
+
+**Ain, second département (règle 248)** — Belley puis Prévessin-Moëns.
+
+1. **Belley** (9 388) — la Ville publie son marché du samedi (7h30-12h30, Grande Rue, place des Terreaux, boulevard de Verdun),
+   « environ 90 forains », sans une famille de produits (règle 197), et range les « images » dans sa clause (règle 246). Le
+   magasin de producteurs de la ZA de l'Ousson (association active) publie ses horaires sur son site, mais ses mentions
+   interdisent de copier ses images ou de les utiliser sur d'autres sites ; l'office Bugey Sud Grand Colombier, l'agence
+   départementale `ain-tourisme.com` et le site régional `auvergnerhonealpes-tourisme.com` répondent 403 à l'agent nommé
+   (règle 257) : aucune photographie permise. Le magasin biologique de la même zone appartient à un réseau régional et ne nomme
+   aucun producteur (règle 273). **Zéro.**
+2. **Prévessin-Moëns** (9 153) — **une fiche entière, seule** : le marché du dimanche (8h-12h, parvis de la mairie), dont la
+   page de la Ville nomme les étals (primeurs, volailler, fromager, poissonnier, apiculteur) ; ses mentions sont celles du gabarit
+   de la règle 309 (réutilisation non commerciale en citant l'origine et la date), et sa bannière de 1 920 px se recadre sans
+   visage sur les tentes et le clocher. Le maraîcher biologique de la route de Vésegnin n'a pour source que des annuaires. Les
+   autres communes de l'agglomération du Pays de Gex déjà éprouvées ne se rouvrent pas (règle 247). **Zéro zone.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : les horaires du magasin de producteurs de Belley diffèrent entre son site (mardi-jeudi 9h-12h30 et 14h-19h,
+vendredi et samedi 9h-19h) et un annuaire (mardi après-midi seulement) ; le site que le commerce tient lui-même
+l'emporte sur l'annuaire, sans effet puisque la fiche attend.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. À Tournan-en-Brie, les exploitations de la ferme
+collective ; à Courtry, une boucherie ; à Bois-le-Roi, l'AMAP (coordonnées personnelles) et une exploitation inscrite sous le nom
+de son exploitant ; à Belley et à Prévessin-Moëns, des exploitations au nom de leur exploitant. Rien n'est repris. Le site de la
+ferme de Courcelles nomme ses gérants et publie un portable : ni les noms ni le numéro ne seraient repris.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprendra à **Esbly** (6 072), puis Fontenay-Trésigny. L'**Ain** reprend
+à **Meximieux** (8 247).
+
+**Pistes non publiées (Seine-et-Marne et Ain)** — lignes anonymes :
+
+- Tournan-en-Brie, boutique de la ferme laitière du hameau de Courcelles : une fiche entière, seule. **Déblocage** : une seconde
+  fiche entière dans la commune.
+- Tournan-en-Brie, marché du centre-ville : faits entiers, sans image permise. **Déblocage** : une photographie de la Ville
+  sans clause fermée, ou une photographie thématique permise de la commune (règle 312).
+- Belley, magasin de producteurs de la ZA de l'Ousson : faits entiers, sans image permise. **Déblocage** : une photographie
+  publiée par un éditeur qui en permet la reprise.
+- Prévessin-Moëns, marché du dimanche : une fiche entière, seule. **Déblocage** : une seconde fiche entière dans la commune.
+
 ### Passe du 26 septembre 2026 (cinquante-sixième) : Seine-et-Marne et Ain, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
