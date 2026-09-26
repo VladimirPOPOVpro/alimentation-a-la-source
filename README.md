@@ -4381,7 +4381,11 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-774 fiches sur 875 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+776 fiches sur 879 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Casiers de l'Entrechamps** (Cazères) (passe du 26 septembre 2026 ; point au marqueur de l'office Cœur de Garonne,
+  la Base Adresse Nationale ne connaissant pas le numéro ; contrôle inverse sur le 130 chemin des Vignes à 52 m, règle 27).
+- **Marché du Fousseret** (Le Fousseret) (heures de l'office Cœur de Garonne seulement, fiche modifiée le 24 avril 2026 ; la
+  Ville ne donne que le mercredi matin, règle 204).
 - **AMAP Le Clos Fleuri** (Rambouillet) (passe du 26 septembre 2026 ; heures du site de l'AMAP, 18h30-19h15, contre
   19h-20h à l'annuaire du réseau ; point à l'adresse de l'annuaire, à 110 m de l'école Saint-Hubert, quartier que nomme le site).
 - **AMAP Les Caramboles** (Rambouillet) (photographie thématique de la Ville, règle 352).
@@ -11675,6 +11679,105 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 26 septembre 2026 (cinquante-cinquième) : Cazères (Haute-Garonne), quatre fiches dans Cœur de Garonne, douzième commune de la descente
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, sur 875 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Loiret (45) 3,7721, épuisé (règle 265) ; **Haute-Garonne (31) 3,6727**, premier
+département non épuisé ; Seine-et-Marne (3,6300) écartée par la règle 41.c (dernière passe publiée : Rambouillet, Île-de-France) ;
+Ain (01) 3,6207, second (règle 248), non éprouvé puisque la zone s'est faite dans le premier. `origin/main` n'a pas bougé.
+**Après la passe**, sur 879 fiches : Haute-Garonne −0,2420 ; Seine-et-Marne 3,7152 et Ain 3,6602 en tête des départements non
+épuisés. La prochaine passe ne peut pas viser l'Occitanie (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne.** Deux requêtes à la Base Adresse Nationale : le foyer municipal de Labenne n'y est pas
+(meilleure réponse dans l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Le groupe reste à trois points.
+
+**Haute-Garonne : reprise de Saint-Gaudens, puis douze communes (règle 247), de Villemur-sur-Tarn à Cazères, qui fait la passe
+(règle 127).** Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle 327) ; registre de l'Agence Bio
+(2 824 opérateurs du 31) ; office de tourisme intercommunal Cœur de Garonne (`tourismecoeurdegaronne.com`, édité par la
+communauté de communes, `robots.txt` ouvert, mentions légales sans clause sur les images, seulement des crédits : règle 306) ;
+registre des entreprises ; Base Adresse Nationale.
+
+0. **Reprise de Saint-Gaudens.** Non rouverte : aucun déblocage nommé depuis la passe précédente. Deux points, pas de zone.
+1. **Villemur-sur-Tarn** (6 345) — trois marchés aux faits entiers (vendredi 17h-20h au hameau de Magnanac ; samedi et dimanche
+   7h30-13h place Charles-Ourgaut), mais le paragraphe des droits d'auteur de la Ville nomme les images sous « Tous droits
+   réservés » (règle 246) et ses crédits mêlent des banques d'images ; au registre bio, des exploitations sans site ni vente
+   publiée. **Zéro.**
+2. **Bruguières** (6 202) — la Ville réserve ses œuvres à l'usage personnel (règle 296) ; au registre, un primeur de chaîne et
+   des exploitations sous le nom de leur exploitant. **Zéro.**
+3. **Quint-Fonsegrives** (6 133) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) ; le magasin de
+   réseau n'a pas de site propre (règle 149). **Zéro.**
+4. **Mondonville** (6 060) — la Ville interdit « les représentations iconographiques et photographiques » (règle 231) ; une ferme
+   exclut nommément les agents d'IA dans son `robots.txt` (règle 77) ; le maraîcher du lieu-dit livre ses paniers à Colomiers,
+   déjà couverte, pas dans la commune. **Zéro.**
+5. **Fontenilles** (5 906) — mentions de la Ville fermées (« images », règle 231) ; la bergerie laitière répond 403 à l'agent
+   nommé (règle 257). **Zéro.**
+6. **Fenouillet** (5 784) — la Ville réserve ses œuvres à l'usage privé (règle 296) ; le magasin de réseau publie ses
+   producteurs, mais ses conditions d'utilisation nomment « les photographies » dans l'interdiction (règle 231). **Zéro.**
+7. **Carbonne** (5 563) — la Ville répond 403 à l'agent nommé (règle 257) ; l'office du Volvestre publie les deux marchés
+   (jeudi et samedi 8h-12h30) mais interdit l'usage de ses photographies (règle 231) ; le magasin bio de chaîne ne nomme pas ses
+   producteurs (règles 86 et 273). **Une fiche entière, seule** : un maraîchage biologique de la route de Rieux, vente à la ferme
+   mercredi et vendredi 16h-19h, vue aérienne sans personne servie par un hébergeur dont le `robots.txt` répond 404 (règle 343).
+   **Zéro zone.**
+8. **Roques** (5 436) — la Ville réserve ses œuvres à l'usage privé (règle 296) ; au registre, une grande surface et un
+   négociant en vins. **Zéro.**
+9. **Villefranche-de-Lauragais** (5 072) — la Ville répond 403 à l'agent nommé (règle 257) ; le magasin de réseau publie sa
+   propre liste de producteurs du Lauragais (règle 86), mais ses conditions d'utilisation nomment les photographies (règle 231).
+   **Zéro.**
+10. **Pechbonnieu** (4 922) — la Ville ne publie aucun marché ; au registre, une brasserie et des exploitations sans vente
+    publiée. **Zéro.**
+11. **Gratentour** (4 906) — marché du samedi 8h-13h place de la Mairie, familles écrites, page de mentions vide : une fiche
+    entière au plus, aucune seconde dans la commune. **Zéro zone.**
+12. **Cazères** (4 854) — **deux fiches entières dans la commune, deux points dans Cœur de Garonne : quatre points, publiés au
+    titre de la règle 320**, tous à moins de 6 km de leur barycentre (43.2287 / 1.0615) :
+    - **Marché de Cazères** — page « Marchés » de la Ville mise à jour le 30 juin 2026 : samedi 8h30-12h30 sous la halle et
+      boulevard Jean-Jaurès, familles écrites. Le pied de page « Tous droits réservés » ne nomme aucune image et les mentions
+      légales n'ont pas de clause (règle 291) ; photographie de la Ville, un samedi d'octobre, recadrée au-dessus des passants
+      (règle 46). Point : le boulevard Jean-Jaurès à la Base (0,96).
+    - **Les Casiers de l'Entrechamps** — distributeur 7 j/7 et 24 h/24 de la boutique fermière de l'Entrechamps (SAS active
+      au registre, 47.11B), fiche de l'office. La Base ne connaît ni le 198 ni le 308 du chemin des Vignes ; le marqueur de
+      l'office se retourne sur le 130 à 52 m, 68 numéros d'écart, sous le seuil de la règle 27 : il est retenu, et la fiche reste
+      `a_confirmer`. Photographie des casiers, sans personne, fichier Tourinsoft sans « © » dans son nom ni sa légende sur la
+      page de l'office ; le `robots.txt` de l'hébergeur ne porte que des commentaires, aucune directive.
+    - **La Bulle en Vrac** (Martres-Tolosane, 5,95 km, règles 96 et 320) — SAS active ; horaires publiés par le magasin ; la page
+      d'accueil nomme ses fournisseurs de la région (règle 86). Ses mentions légales nomment les images dans l'interdiction :
+      photographie de la fiche de l'office (règle 230), rayon d'épices en bocaux, 750 px.
+    - **Marché du Fousseret** (8,52 km) — la Ville établit le jour, le lieu et les familles (mercredi matin sous la halle) ;
+      l'office donne 8h30-13h (fiche du marché modifiée le 24 avril 2026, règle 204), d'où `a_confirmer`. La seule image de la
+      page du marché est une affiche illustrée ; la photothèque de la Ville (mentions sans clause, « Photos : la Municipalité »)
+      montre la halle un jour de marché avec un groupe posé : recadrée sur la charpente, au-dessus de toute personne (règle 46).
+
+    **Pourquoi pas de cinquième point** : la boulangerie paysanne de l'avenue de Saint-Julien a ses faits entiers (vente à la
+    ferme mardi et vendredi 17h-18h30, GAEC actif), mais sa photographie porte une légende « © » au nom de l'exploitation sur la
+    fiche du comité régional (règle 306) ; la boutique fermière de l'Entrechamps n'a d'horaires que dans des annuaires
+    commerciaux (règle 192) ; le magasin de réseau de Martres-Tolosane ne publie pas sa liste de producteurs (règle 273) ; le
+    marché du mardi de Martres-Tolosane n'a ni familles écrites ni image. **Déblocage** : l'une de ces pièces.
+
+**Contradictions** (consignées, tranchées par les règles existantes) : marché de Cazères, 8h30-12h30 (Ville) contre 8h-13h
+(office), la commune fait foi (règle 22) ; lieu du même marché, halle et boulevard Jean-Jaurès (Ville) contre « place du commerce
+et centre ville » (office), la Ville retenue.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. À Cazères, un maraîcher en entreprise individuelle, présent
+seulement comme étal du marché et présenté sous le nom de son exploitant, et une ferme dont le domaine renvoie l'agent nommé vers
+un fichier sans rapport (règle 257) ne sont pas repris ; à Bruguières et Villemur-sur-Tarn, des exploitations inscrites sous des
+noms de personnes sont laissées de côté. Le site de la boutique fermière est au nom d'une famille : il n'est pas repris en
+`site_web`, la fiche renvoie à l'office. Aucun nom n'est écrit.
+
+**Points d'arrêt** : en **Haute-Garonne**, la descente reprendra à **Auzeville-Tolosane** (4 665), après les fiches désignées de
+Saint-Gaudens. L'**Ain**, non éprouvé cette passe, reprend à **Divonne-les-Bains** (10 464).
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+
+- Carbonne, maraîchage biologique de la route de Rieux : une fiche entière, seule. **Déblocage** : une seconde fiche entière dans
+  la commune (les marchés du jeudi et du samedi n'ont aucune image permise).
+- Gratentour, marché du samedi : faits entiers et image de la Ville, seul. **Déblocage** : une seconde fiche entière dans la
+  commune.
+- Cazères, boulangerie paysanne de l'avenue de Saint-Julien : faits entiers, image sous « © » (règle 306). **Déblocage** : une
+  photographie sans réserve publiée par l'exploitation ou l'office.
+- Cazères, boutique fermière du chemin des Vignes : faits entiers sauf les horaires. **Déblocage** : des horaires publiés par la
+  boutique ou l'office.
+- Villefranche-de-Lauragais et Fenouillet, magasins de réseau : faits entiers, images fermées par leurs conditions d'utilisation.
 
 ### Passe du 26 septembre 2026 (cinquante-quatrième) : Haute-Garonne et Ain, aucune publication
 

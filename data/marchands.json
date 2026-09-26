@@ -23289,5 +23289,111 @@
     "image_url": "/images/marchands/ferme-de-la-villeneuve-rambouillet.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.643538,1.856805"
+  },
+  {
+    "slug": "marche-de-cazeres",
+    "nom": "Marché de Cazères",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.206058,
+    "lon": 1.08472,
+    "adresse": "Boulevard Jean Jaurès, 31220 Cazères",
+    "horaires": "Samedi de 8h30 à 12h30, sous la halle et sur le boulevard Jean-Jaurès, d'après la page « Marchés » de la Ville mise à jour le 30 juin 2026 (l'office de tourisme Cœur de Garonne écrit 8h-13h ; la commune fait foi). En juillet et août, un marché de producteurs et créateurs locaux s'ajoute le mercredi de 18h à 22h.",
+    "produits": [
+      "Fruits et légumes, dont bio",
+      "Charcuterie et volailles",
+      "Boucherie et rôtisserie",
+      "Fromages",
+      "Poissonnerie",
+      "Plats cuisinés",
+      "Plants"
+    ],
+    "description": "Le grand marché hebdomadaire du Volvestre commingeois : près de cent exposants, producteurs locaux et artisans mêlés, sous la halle et le long du boulevard Jean-Jaurès, où une partie des étals s'est installée depuis septembre 2025. Photo : Ville de Cazères (mairie-cazeres.fr, page « Marchés »), prise un samedi d'octobre, recadrée sur les tentes et le magnolia pour écarter les passants.",
+    "site_web": "https://www.mairie-cazeres.fr/contenu/marches/",
+    "image_url": "/images/marchands/marche-de-cazeres.jpg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.206058,1.08472"
+  },
+  {
+    "slug": "casiers-de-l-entrechamps-cazeres",
+    "nom": "Les Casiers de l'Entrechamps",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.227735,
+    "lon": 1.083226,
+    "adresse": "198 Chemin des Vignes, 31220 Cazères",
+    "horaires": "Distributeur automatique en libre-service, 7 jours sur 7 et 24 heures sur 24, d'après la fiche de l'office de tourisme Cœur de Garonne.",
+    "produits": [
+      "Bœuf, veau et porc",
+      "Volailles",
+      "Charcuterie",
+      "Fromages",
+      "Yaourts",
+      "Jus de pomme"
+    ],
+    "description": "Casiers réfrigérés en libre-service tenus par la boutique fermière de l'Entrechamps, à la sortie nord de Cazères : les viandes de l'élevage dont elle dépend et des produits laitiers de producteurs locaux et régionaux, accessibles à toute heure. Le point est celui de l'office de tourisme, la Base Adresse Nationale ne connaissant pas ce numéro. Photo : fiche de l'office de tourisme Cœur de Garonne.",
+    "site_web": "https://tourismecoeurdegaronne.com/commerce/les-casiers-de-lentrechamps/",
+    "image_url": "/images/marchands/casiers-de-l-entrechamps-cazeres.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.227735,1.083226"
+  },
+  {
+    "slug": "la-bulle-en-vrac-martres-tolosane",
+    "nom": "La Bulle en Vrac",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.19951,
+    "lon": 1.011842,
+    "adresse": "1 Boulevard du Nord, 31220 Martres-Tolosane",
+    "horaires": "Du mardi au jeudi de 9h30 à 19h30 ; vendredi et samedi de 10h à 21h30 ; dimanche de 9h30 à 13h ; fermé le lundi, d'après le site du magasin.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages et produits laitiers",
+      "Épices, céréales et légumineuses en vrac",
+      "Pain",
+      "Miel et confitures",
+      "Préparations en bocaux"
+    ],
+    "description": "Café-épicerie en vrac au bord de la vieille ville, qui nomme ses fournisseurs : un maraîchage biologique à la sortie de Martres-Tolosane, des produits de sapin de Saint-Girons, des eaux florales de Sentein et d'autres fermes de la région ; on peut aussi y manger des plateaux de produits locaux. À 6 km du centre de Cazères, dans Cœur de Garonne. Photo : fiche de l'office de tourisme Cœur de Garonne, le site du magasin interdisant la reprise de ses images.",
+    "telephone": "05 62 01 95 54",
+    "site_web": "https://labulleenvrac.fr/",
+    "image_url": "/images/marchands/la-bulle-en-vrac-martres-tolosane.jpg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.19951,1.011842"
+  },
+  {
+    "slug": "marche-du-fousseret",
+    "nom": "Marché du Fousseret",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.28152,
+    "lon": 1.066299,
+    "adresse": "Place de la Halle, 31430 Le Fousseret",
+    "horaires": "Mercredi de 8h30 à 13h sous la halle, jour et lieu d'après la Ville, heures d'après l'office de tourisme Cœur de Garonne. Le premier dimanche de chaque mois, de 8h30 à 13h, un marché gourmand de producteurs locaux se tient au même endroit.",
+    "produits": [
+      "Légumes de saison",
+      "Légumes bio",
+      "Plants",
+      "Fromage de chèvre",
+      "Plats cuisinés"
+    ],
+    "description": "Petit marché de commerçants locaux sous la halle métallique du bourg, le mercredi matin, que la commune complète chaque premier dimanche du mois par un marché gourmand. À 8,5 km du centre de Cazères, dans Cœur de Garonne. Photo : Ville du Fousseret (mairie-lefousseret.fr, photothèque), la charpente de la halle un jour de marché, recadrée au-dessus des personnes.",
+    "site_web": "https://mairie-lefousseret.fr/fr/les-services/informations-le-fousseret/les-marches.html",
+    "image_url": "/images/marchands/marche-du-fousseret.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.28152,1.066299"
   }
 ]
