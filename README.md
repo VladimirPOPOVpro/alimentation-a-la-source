@@ -11676,6 +11676,98 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (cinquante-quatrième) : Haute-Garonne et Ain, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 875 fiches, `data/marchands.json` inchangé depuis la passe précédente : inchangé — Loiret (45)
+épuisé (règle 265) ; **Haute-Garonne (31) 3,6727**, premier département non épuisé ; Seine-et-Marne (3,6300) écartée par la règle
+41.c (dernière passe publiée : Rambouillet, Île-de-France) ; **Ain (01) 3,6207**, second (règle 248). `origin/main` n'a pas bougé.
+
+**Contrôle de tête : le groupe de Labenne.** Deux requêtes à la Base Adresse Nationale : le foyer municipal de Labenne n'y est pas
+(meilleure réponse dans l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Le groupe reste à trois points.
+
+**Haute-Garonne : reprise de Saint-Gaudens, puis douze communes (règle 247), de Cornebarrieu à Saint-Alban ; aucune zone.**
+Pibrac (8 977), qui a déjà une fiche, n'est pas une commune calculée (règle 41.d). Sources communes : sites des Villes (domaines
+vérifiés à l'annuaire de l'administration, règle 327), registre de l'Agence Bio (2 824 opérateurs du 31), jeu `monpanier31` du
+Département (1 034 lignes), registre des entreprises.
+
+0. **Reprise de Saint-Gaudens.** Non rouverte : le complément avait été cherché dans Cœur et Coteaux du Comminges par les deux
+   passes précédentes du même jour, sans déblocage nommé depuis. Deux points, pas de zone.
+1. **Cornebarrieu** (8 978) — marché du dimanche 9h-13h, place du Boiret, familles écrites par la Ville (faits entiers), mais la
+   seule image est une photographie de banque d'images (règle 70) et la Ville réserve ses œuvres à l'usage privé (règle 296) ; le
+   magasin de réseau n'a pas de site propre (`biocoop.fr` non consulté, règle 149) ; la boulangerie biologique est servie par Wix
+   (règle 256) ; le point de vente paysan et une exploitation maraîchère ont cessé (registre, certificat arrêté en 2022) ; la
+   cueillette de nashis reste sans source de l'exploitation. **Zéro.**
+2. **Beauzelle** (8 713) — la Ville coupe la connexion à l'agent nommé (444) et sert l'agent par défaut (règle 257) ; au registre
+   bio, un drive de vrac et une exploitation sous le nom de son exploitant. **Zéro.**
+3. **Saint-Jory** (8 662) — marché du dimanche 8h-13h, place du Foyer-Rural, familles écrites par la Ville (faits entiers) ; mais
+   les seules photographies sont des portraits de commerçants dont le nom de fichier porte un crédit de photographe (règle 339),
+   et la page nomme les exposants par leur prénom (non repris). **Zéro.**
+4. **La Salvetat-Saint-Gilles** (8 511) — marché du vendredi 7h-12h30, place Jean-Ferrat, familles écrites (faits entiers), mais la
+   photographie de la page vient d'Unsplash (règle 70). **Zéro.**
+5. **Aussonne** (7 997) — marché du vendredi 8h-12h, rue de l'Église (la Ville ; `monpanier31` écrit 8h-13h, la commune fait foi,
+   règle 22), mais la Ville interdit « les représentations iconographiques et photographiques » (règle 231) et nomme les étals par
+   des noms de personnes ; la ferme maraîchère du chemin de Carbounel n'a ni site ni image. **Zéro.**
+6. **Castelnau-d'Estrétefonds** (7 003) — page « Marché de plein vent » sans jour ni heure en texte, et la Ville réserve ses œuvres
+   à l'usage privé (règle 296) ; au registre bio, des grandes surfaces et des exploitations sans vente directe. **Zéro.**
+7. **Escalquens** (6 924) — mentions de la Ville fermées (« graphismes, images », règle 231) ; le primeur du Cours des Halles
+   appartient à une chaîne de magasins (commerce généraliste). **Zéro.**
+8. **Merville** (6 760) — marché du mercredi matin sous la halle, sans heure (règle 192), et la Ville réserve ses œuvres à l'usage
+   personnel (règle 296). **Zéro.**
+9. **Fronton** (6 671) — les deux marchés ont des faits entiers chez la Ville (jeudi 7h-12h30, esplanades Marcorelle et
+   Pierre-Campech, allées Jean-Ferran ; halle gourmande de producteurs le dimanche 8h-13h), mais la Ville réserve ses œuvres à
+   l'usage privé (règle 296). Le magasin Biocoop Vivez Nature (25 chemin du Buguet) a des faits entiers — horaires publiés par le
+   magasin, lundi-samedi 9h30-19h30, liste de producteurs locaux propre au magasin qui remplit la règle 86, société active au
+   registre — mais ses conditions d'utilisation rangent « les photographies » parmi les éléments dont elles interdisent la
+   représentation (règle 231). Le Domaine Le Roc réserve son contenu à l'usage privé (règle 296) ; Château Bellevue la Forêt nomme
+   les photographies dans sa clause (règle 231) ; la ferme maraîchère Adden Bio (sur rendez-vous seulement, règle 192) a une
+   clause de gabarit qui nomme les images ; le site du vignoble interprofessionnel porte des crédits de photographe dans ses noms de
+   fichiers (règle 339). **Zéro fiche entière.**
+10. **Labarthe-sur-Lèze** (6 585) — **une fiche entière au plus** : l'association **Les Paniers de la Lèze** (née en 2013, siège
+    en mairie), livraisons des commandes le mercredi 18h-18h30 sous la halle de la place Macary (page d'accueil de l'association
+    et page de la Ville ; sa page « Fonctionnement » écrit « sous la médiathèque » : la halle, que donnent deux sources dont la
+    commune, est retenue) ; familles de produits écrites par l'association ; site sans clause ni exclusion ; photographie de mai
+    2026, 3 072 px, qui montre un producteur reconnaissable et ne serait publiable que recadrée sous lui, sur les cagettes. Le
+    marché de plein vent (mercredi, place Macary) a deux heures d'ouverture sur la même page de la Ville (8h et 8h30) et la Ville
+    interdit la reproduction de ses images ; le petit marché bio du mardi, parking de la communauté Emmaüs, 600 chemin des Agriès,
+    est à 13h30-17h30 chez l'association qui le tient et à 14h30-17h30 chez la Ville (l'intéressé l'emporte, règle 104), mais sa
+    seule photographie, 695 px, est pleine de personnes. Une seule fiche entière. **Zéro zone.**
+11. **Eaunes** (6 539) — mentions de la Ville fermées (« images », règle 231) ; la ferme céréalière du registre vend surtout aux
+    professionnels et son site, servi par Wix, interdit toute reproduction. **Zéro.**
+12. **Saint-Alban** (6 534) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257). **Zéro.**
+
+Point d'arrêt : **Saint-Alban** ; la prochaine passe dans le 31 prend d'abord les fiches désignées (Saint-Gaudens), puis reprend à
+**Villemur-sur-Tarn** (6 345).
+
+**Ain, second département (règle 248)** — Gex puis Ferney-Voltaire.
+
+1. **Gex** (13 627) — la Ville ne publie pas de marché alimentaire hebdomadaire, seulement un marché mensuel de créateurs ; au
+   registre bio, des grandes surfaces, un caviste et des préparateurs. **Zéro.**
+2. **Ferney-Voltaire** (12 094) — la Ville soumet « les textes, les images » à autorisation (règle 231) ; au registre bio, des
+   grandes surfaces et des chaînes de magasins biologiques. **Zéro.** La descente reprendra à **Divonne-les-Bains** (10 464).
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règles 248 et 258).**
+
+**Contradictions** (consignées, tranchées par les règles existantes) : marché d'Aussonne, 8h-12h (Ville) contre 8h-13h
+(`monpanier31`), la Ville fait foi (règle 22) ; petit marché bio de Labarthe-sur-Lèze, 13h30 (association) contre 14h30 (Ville),
+l'intéressé l'emporte (règle 104) ; lieu de livraison des Paniers de la Lèze, halle de la place Macary (deux sources) contre
+médiathèque (une page de l'association) ; marché de plein vent de Labarthe-sur-Lèze, 8h ou 8h30 sur la même page : non tranché,
+aucune fiche n'en dépend.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière. À Saint-Jory, Aussonne et Fronton, des étals, des
+exploitations et des enseignes construites sur des prénoms ou des noms de personnes ne sont pas repris ; à Beauzelle et Gex, deux
+exploitations dont le nom pourrait être celui d'une personne sont laissées de côté. Aucun nom n'est écrit.
+
+**Pistes non publiées (Haute-Garonne, Ain)** — lignes anonymes :
+
+- Labarthe-sur-Lèze, association de paniers de producteurs de la place Macary : une fiche entière, seule (image à recadrer sous la
+  personne visible). Le petit marché bio du mardi de la commune pourrait en recevoir une photographie thématique (règle 312) sans
+  compter comme fiche entière (règle 320).
+- Fronton, magasin biologique du chemin du Buguet : faits entiers, image fermée par ses conditions d'utilisation. **Déblocage** :
+  une vue du magasin publiée par une source qui en permet la reprise.
+- Cornebarrieu, Saint-Jory, La Salvetat-Saint-Gilles, Fronton (jeudi et dimanche), marchés : faits entiers, images fermées ou
+  interdites. **Déblocage** : une photographie du lieu publiée par une source qui en permet la reprise.
+
 ### Passe du 26 septembre 2026 (cinquante-troisième) : Haute-Garonne et Ain, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
