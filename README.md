@@ -4343,6 +4343,25 @@ prioritaires en cas de conflit.
      restent lus. **Déblocage** : à la prochaine passe dans les Yvelines, si le comité répond et que sa clause permet la
      reprise, sa photographie du lieu remplace la photographie thématique.
 
+354. **Un nom de place que la Base Adresse Nationale ignore, et que le registre des entreprises porte comme le nom d'un
+     particulier, ne s'écrit plus ; et un lieu de marché qu'aucune autorité ne situe ferme la fiche même quand ses familles
+     sont enfin écrites.** À la reprise du groupe de Saint-Hilaire-Saint-Mesmin, deux marchés entiers sur le fond ont buté sur
+     leur point. Le marché d'Ingré se tient sur une place qui porte un prénom et un nom : la Base ne la connaît sous aucun
+     libellé, ni la Ville, ni le site départemental, ni la plateforme du gestionnaire ne publient de coordonnées, et le registre
+     des entreprises rend, sous ce même prénom et ce même nom, une entreprise individuelle de la commune, fermée depuis 1991.
+     La règle 259 exempte les noms de rue parce qu'ils sont des adresses ; une désignation que la Base ne tient pas n'est pas
+     une adresse, et rien n'établit qu'elle honore une personnalité publique (règle 299). Le marché des producteurs de
+     Saint-Hilaire-Saint-Mesmin, lui, a désormais ses familles écrites : l'affiche que la Ville publie en septembre 2026 porte,
+     typographiés sous son logo, fruits et légumes, produits laitiers, miel et confitures, viandes et charcuteries, pains et
+     viennoiseries (règle 74), et vaudrait illustration au titre de la règle 182. Mais il se tient « sur le Mail », que la
+     Base ne connaît pas, que la Ville range dans son agenda comme un lieu distinct de sa place du Marché (seule connue de la
+     Base), sans point ni repère nommé (règle 26), et la mairie n'est pas sur ce mail (règle 323). **Tranché ainsi** : le nom de
+     place douteux sort de ce README comme de toute fiche — la section de la quarante-sixième passe est corrigée — et le lieu
+     s'écrit « une place du centre-bourg » ; les deux marchés restent sous la règle 166, faits entiers compris. Le groupe de
+     Saint-Hilaire-Saint-Mesmin retombe à deux points, et le marché d'Ingré n'est pas écarté pour doute sur une personne : il
+     l'est pour son point, et le nom ne sera pas écrit même si le point apparaît. **Déblocage** : un point publié par la Ville ou
+     le site départemental pour l'un ou l'autre marché, ou l'apparition du Mail dans la Base.
+
 ## Marchands à confirmer
 
 774 fiches sur 875 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11640,6 +11659,95 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 26 septembre 2026 (cinquante et unième) : Loiret et Haute-Garonne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, sur 875 fiches, appel national de `geo.api.gouv.fr` (34 969 communes, 68 952 941 habitants, règle
+224), outre-mer écarté (règle 177) : inchangé — Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne, Loir-et-Cher, Calvados,
+Aube, Mayenne et Cher épuisés (règle 265) ; **Loiret (45) 3,7721** ; **Haute-Garonne (31) 3,6727** ; Seine-et-Marne (3,6300)
+toujours écartée par la règle 41.c, la dernière passe publiée visant l'Île-de-France. `origin/main` n'a pas bougé pendant la
+passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne (règles 266 et 322).** `seignosse.fr` et `www.seignosse.fr` n'ouvrent toujours aucune
+connexion, aux deux agents : le groupe reste à trois points.
+
+**Loiret : reprises, puis douze communes, de Chevilly à Vitry-aux-Loges.** Sources : site de chaque Ville (adresse prise à
+l'annuaire de l'administration), fiches de Tourisme Loiret, registre de l'Agence Bio (730 opérateurs), registre des entreprises,
+Base Adresse Nationale.
+
+0. **Reprises.**
+   - **Saint-Hilaire-Saint-Mesmin** — les deux fiches entières tiennent : **La Ferme des Perrières** (SARL active ; certificat
+     Ecocert engagé ; heures du site : mercredi et jeudi 15h-19h, vendredi 9h-19h30 ; photographie du magasin sans personne,
+     1 200 px) et **La Brasserie des Écluses** (EURL active au 935 route d'Orléans ; mardi, jeudi et vendredi 10h-18h d'après
+     son site ; photographie d'une bouteille et d'un verre créditée à la brasserie sur la fiche de Tourisme Loiret, 1 512 px,
+     `robots.txt` du serveur d'images sans consigne ; seuls des portables sont publiés, aucun numéro ne serait repris). Le
+     **marché des producteurs du Mail** a désormais ses familles écrites (affiche de la Ville, septembre 2026 : premier et
+     troisième samedis, 9h-13h), mais **aucun point** : le Mail est inconnu de la Base et sans coordonnées nulle part. Le
+     **marché d'Ingré** n'a pas davantage de point, et le nom de sa place sort de ce README. **Règle 354, nouvelle.** Deux
+     points : pas de zone (règle 258).
+   - **Châlette-sur-Loing** — toujours deux points : la ferme maraîchère de la rue Jean-Lamy ne publie toujours aucune heure en
+     texte (sa page « Horaires et accès » ne donne que les accès) et ses images sont servies par `static.wixstatic.com` (règle
+     256).
+   - **Donnery** — second essai de la micro-ferme (règle 297) : son site répond encore 429 aux deux agents ; elle sort de la
+     descente comme un site muet.
+1. **Chevilly** (2 663) — marché du vendredi « à partir de 14h30 », sans heure de fin (règle 192), un primeur et un camion de
+   restauration ; la place porte un nom de personne ; aucune image. **Zéro.**
+2. **Loury** (2 616) — aucune page de marché ; au registre bio, une grande surface arrêtée et des exploitations inscrites sous des
+   noms de personnes. **Zéro.**
+3. **Nogent-sur-Vernisson** (2 559) — marché du jeudi et marché des producteurs de pays (deuxièmes dimanches, avril à octobre) sans
+   famille écrite (règle 197) ; le guide des producteurs locaux n'est publié que sur une liseuse en ligne. **Zéro.**
+4. **Ouzouer-sur-Loire** (2 543) — **une fiche entière au plus** : le marché dominical, place de l'Église, familles écrites par la
+   Ville (fruits et légumes, plants, fromages de chèvre, miel ; huîtres et asperges en saison), affiche datée du 3 mai 2026
+   (7h-13h ; la page d'agenda dit 8h-13h « place du marché »). L'élevage bio de la commune vend dans sa boutique de
+   Sully-sur-Loire, commune déjà éprouvée. **Zéro zone.**
+5. **Tigy** (2 484) — l'annuaire des commerces ne donne ni le jour ni l'heure du marché ; l'annuaire des circuits courts renvoie à
+   un document de la communauté de communes ; aucune ferme en vente directe avec des heures. **Zéro.**
+6. **Poilly-lez-Gien** (2 465) — **une fiche entière** : le marché du vendredi 8h-12h, place de l'Église, familles écrites sur
+   l'affiche 2026 de la Ville (primeur, boucher-traiteur, rôtisserie, fromager, poissonnier), affiche utilisable au titre de la
+   règle 182 ; aucun second point (le moulin certifié ne vend pas aux particuliers). **Zéro zone.**
+7. **Patay** (2 384) — marché du mardi « à partir de 13h30 » et du samedi matin, sans heure de fin ; seule photographie à 300 px
+   (règle 59). **Zéro.**
+8. **Dadonville** (2 354) — site de la Ville en erreur 502 aux deux agents (règle 237) ; une seule ferme en vente directe au
+   registre. **Zéro.**
+9. **Cepoy** (2 332, agglomération montargoise) — marché de producteurs du premier vendredi, 16h30-19h30, parking de la Girafe,
+   sans famille écrite (affiche d'octobre 2026, règle 197). Ne complète pas Châlette-sur-Loing. **Zéro.**
+10. **Coullons** (2 231) — Ville fermée à l'agent nommé (403 contre 200, règle 257) ; une fromagerie seule. **Zéro.**
+11. **Boigny-sur-Bionne** (2 194, Orléans Métropole) — marché du samedi matin sans heure ni lieu. **Zéro.**
+12. **Vitry-aux-Loges** (2 183) — Ville fermée à l'agent nommé (444 contre 200, règle 257) ; au registre bio, des exploitations
+    inscrites sous des noms de personnes. **Zéro.** La borne est servie ; la descente reprendra à **Marcilly-en-Villette** (2 180).
+    Six communes du Loiret restent au-dessus de 2 000 habitants (jusqu'à Vienne-en-Val, 2 004) : le département sera épuisé au
+    sens de la règle 265 au plus tard à la passe suivante.
+
+**Haute-Garonne, second département (règle 248)** — Plaisance-du-Touch puis Balma.
+
+1. **Plaisance-du-Touch** (21 079, CC Le Grand Ouest Toulousain) — marché des jeudis et samedis 8h-12h45, sans
+   famille écrite (règle 197) ; le magasin de réseau de l'avenue des Pyrénées ne publie que la liste nationale du réseau (règle
+   273), l'autre magasin bio de la commune n'a pas de site ; la brasserie bio a son siège à Toulouse. **Zéro.**
+2. **Balma** (17 772) — Ville fermée à l'agent nommé (444 contre 200, règle 257). **Zéro.** Cugnaux, qui porte déjà des fiches,
+   est sautée ; la descente reprendra à **Castanet-Tolosan** (15 317).
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règles 248 et 258).**
+
+**Contradictions** : marché dominical d'Ouzouer-sur-Loire (7h-13h place de l'Église sur l'affiche datée et la page de la Ville,
+8h-13h « place du marché » sur l'agenda) ; La Ferme des Perrières (heures de son site contre celles, plus anciennes, de la fiche
+départementale) ; marché des producteurs de Saint-Hilaire-Saint-Mesmin (premier et troisième samedis sur l'affiche de la Ville,
+deuxième dimanche sur la fiche départementale). Toutes consignées pour la reprise (règles 5 et 58).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche entière ; à Chevilly, Loury et Vitry-aux-Loges, des lieux ou des
+exploitations portant des noms de personnes ne sont pas repris. Aucun nom n'est écrit.
+
+**Points d'arrêt** : dans le **Loiret**, la reprise prend d'abord les deux fiches de Saint-Hilaire-Saint-Mesmin et les deux
+marchés de Châlette-sur-Loing, puis la descente à **Marcilly-en-Villette** (2 180). En **Haute-Garonne**, la descente reprend à
+**Castanet-Tolosan** (15 317).
+
+**Pistes non publiées (Loiret et Haute-Garonne)** — lignes anonymes :
+
+- Saint-Hilaire-Saint-Mesmin, marché des producteurs : familles et heures écrites par la Ville, aucun point. **Déblocage** : un
+  point publié par la Ville ou le site départemental, ou le Mail dans la Base (règle 354).
+- Ingré, marché des mardis et vendredis : une fiche entière sur le fond, aucun point. Même déblocage.
+- Ouzouer-sur-Loire, marché dominical : une fiche entière, seule.
+- Poilly-lez-Gien, marché du vendredi : une fiche entière, seule.
+
 ### Passe du 26 septembre 2026 (cinquantième) : Loiret et Haute-Garonne, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
@@ -12045,7 +12153,7 @@ source » (règle 239). Il fiche vingt-quatre marchés du département, mais les
    chocolaterie de Pannes n'a que son logo. **Deux points, pas de zone.**
 6. **La Chapelle-Saint-Mesmin** (11 017) — marché du samedi sans famille écrite ; Ville interdisant la reproduction des images,
    ADRT en Pixabay. **Zéro.**
-7. **Ingré** (10 062) — marché des mardis et vendredis 14h30-19h30, place Lucien-Feuillâtre, familles écrites par la Ville
+7. **Ingré** (10 062) — marché des mardis et vendredis 14h30-19h30, sur une place du centre-bourg (nom retiré, règle 354), familles écrites par la Ville
    (fruits et légumes, fromages et viandes, miel, huîtres), photographie créditée à la Ville sur la fiche de l'ADRT (règle
    254) : **une fiche entière**. La Ville réserve ses propres images à l'usage privé (règle 296) ; aucun second point. **Zéro
    zone.** La borne de douze communes est servie.
