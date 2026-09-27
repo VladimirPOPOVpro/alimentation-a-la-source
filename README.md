@@ -4450,6 +4450,16 @@ prioritaires en cas de conflit.
      matière première sans étiquette. L'épicerie reste en pistes, faits lus compris. **Déblocage** : une liste de producteurs
      publiée, et une photographie permise du lieu ou d'une matière première de la commune.
 
+362. **Un fichier sans légende qui appartient à la même prise de vue que des photographies qu'une page légende « © » au nom d'un
+     tiers partage leur réserve.** À Châtelaillon-Plage, la page « Les marchés » de la Ville légende « © » au nom d'une agence de
+     communication les trois photographies du marché couvert, et la règle 305 les ferme. Le bandeau de la même page n'a aucune
+     légende, mais son fichier porte le même préfixe d'appareil et la même numérotation que les trois autres : c'est la même
+     séance, du même auteur. La règle 305 ne visait que la photographie légendée ; la règle 339 dit déjà qu'un crédit attaché au
+     fichier désigne un auteur distinct de l'éditeur, qui n'a peut-être cédé l'image qu'à ce site. **Tranché ainsi** : un fichier
+     dont le nom le rattache à une série que la même page légende « © » pour un tiers est fermé comme elle ; seuls restent sous
+     les règles 231 et 306 les fichiers d'une autre série. Le nom de l'auteur n'est écrit nulle part. **Déblocage** : une
+     permission écrite sur le site, ou la même vue publiée sans réserve par une autre source.
+
 ## Marchands à confirmer
 
 781 fiches sur 884 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11762,6 +11772,87 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (soixante et onzième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 884 fiches) : inchangé — départements épuisés sautés
+(règle 265), **Pas-de-Calais (62)** premier département non épuisé (déficit 3,69), **Charente-Maritime (17)** second (3,62,
+règle 248). La dernière région visée reste l'Île-de-France.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais**, descente reprise à Vermelles. Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle
+327, contrôle à deux agents de la règle 257), registre de l'Agence Bio (62, 1 098 opérateurs), registre des entreprises. L'office
+de tourisme des 7 Vallées et le site départemental du tourisme refusent l'agent nommé (403, règle 257) ; l'annuaire Bienvenue à la
+Ferme refuse tout agent (403, règle 237).
+
+1. **Vermelles** (4 729) — la Ville refuse l'agent nommé, `robots.txt` compris (403) : règle 257. Au registre bio, deux
+   exploitations qui ne vendent qu'en gros. **Zéro.**
+2. **Samer** (4 704) — la Ville écrit seulement « son marché hebdomadaire du lundi », sans heure, sans lieu ni famille (règle 197) ;
+   aucune autre page de commerce alimentaire. Au registre bio, deux exploitations en gros. **Zéro.**
+3. **Saint-Pol-sur-Ternoise** (4 677) — la Ville refuse l'agent nommé (403) : règle 257. Au registre bio, des grandes surfaces, un
+   grossiste, un industriel et une boulangerie. **Zéro.**
+4. **Sangatte** (4 668) — l'annuaire des commerçants de la Ville ne compte aucun commerce alimentaire en circuit court, aucune page
+   de marché ; au registre bio, une supérette de réseau. **Zéro.**
+5. **Angres** (4 641) — la page « vie économique » ne liste qu'une supérette et des services ; au registre bio, une grande
+   surface, un point de vente de réseau et une boulangerie. **Zéro.**
+6. **Évin-Malmaison** (4 628) — la page des commerces est vide et les mentions légales nomment les images (règle 231) ; aucun
+   opérateur au registre bio. **Zéro.**
+7. **Auchy-les-Mines** (4 625) — **faits entiers pour le marché du samedi** (8h-12h, place Jean-Jaurès ; familles écrites par la
+   Ville : fromages, viandes, fruits et légumes), mais la clause de la Ville nomme les images dans son interdiction (règle 231).
+   Au registre bio, une exploitation créée en 2026 qui vend aux particuliers, sans site ni horaires publiés : pas entière. Au mieux
+   une fiche sans image. **Zéro.**
+8. **Annay** (4 571) — un seul point de vente en circuit court, un distributeur automatique de ferme, écarté pour doute sur une
+   personne (voir plus bas) ; aucun opérateur au registre bio. **Zéro.**
+9. **Biache-Saint-Vaast** (4 568) — la liste des commerces ne compte qu'un hypermarché, une boulangerie et de la restauration ;
+   aucun opérateur au registre bio. **Zéro.**
+10. **Saint-Nicolas** (4 494) — l'annuaire de la Ville range deux fermes sous « Agriculture », sans produits ni horaires, et toutes
+    deux sous une enseigne patronymique (voir plus bas) ; au registre bio, une grande surface. **Zéro.**
+11. **Hesdin-la-Forêt** (4 480) — le marché du jeudi matin a ses familles écrites par la Ville (fruits, légumes, viandes,
+    poissons), mais elle ne publie que les heures d'installation et de remballage des exposants, pas celles de la vente, et sa
+    clause nomme les images (règle 231) ; l'office des 7 Vallées relève de la règle 257. Aucun opérateur au registre bio. **Zéro.**
+12. **Haisnes** (4 396) — aucun site de Ville à l'annuaire de l'administration ; au registre bio, des exploitations qui ne vendent
+    qu'en gros et une vente à distance arrêtée. **Zéro.**
+
+**Charente-Maritime, second département (règle 248).** Registre de l'Agence Bio paginé (1 404 opérateurs).
+
+1. **Puilboreau** (6 765) — le site de la Ville (plan du site lu) n'a aucune page de marché ni de commerce alimentaire, seulement
+   la zone commerciale de Beaulieu. Au registre bio, un magasin bio dont le site inscrit ne répond pas, un magasin de réseau sans
+   liste de producteurs propre (règle 273), des grandes surfaces et des exploitations en gros. **Zéro.**
+2. **Châtelaillon-Plage** (6 653) — la page « Les marchés » de la Ville donne des **faits entiers pour deux lieux** : le marché
+   couvert (d'avril à septembre tous les jours, d'octobre à mars du mardi au dimanche, de 8h à 13h ; poissons et fruits de mer,
+   fruits et légumes, volailles fermières, charcuterie, fromages) et le marché forain (mardi et vendredi toute l'année, 8h-13h, le
+   long du boulevard de Lattre-de-Tassigny, de la Libération et de la rue du Marché ; pineau, miel, fruits frais, plats préparés).
+   Le marché des Boucholeurs est saisonnier (dimanche, du 15 juin au 14 septembre) : non instruit. **Images** : les trois
+   photographies du marché couvert portent une légende « © » au nom d'une agence (règle 305) ; le bandeau de la page est de la
+   même série (règle 362, née ici) ; le marché forain n'a aucune photographie. L'office de tourisme communautaire nomme les images
+   dans son interdiction (règle 231) ; le site départemental de Charentes Tourisme aussi, et pose un « © » sur chaque visuel. Aucun
+   commerce de la commune n'a été trouvé qui publie une photographie sans réserve (règle 312). Deux fiches aux faits entiers,
+   aucune illustrable : la règle 127 ne s'ouvre pas. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : trois — à Annay, un distributeur de ferme dont le seul contact publié est un
+courriel personnel qui porte un patronyme et un portable ; à Saint-Nicolas, deux fermes dont l'enseigne est un patronyme. Aucun nom
+n'est repris.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint sa borne ; une passe qui y reviendra descend à **Ardres** (4 389). La
+**Charente-Maritime** reprend à **Saint-Pierre-d'Oléron** (6 633).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Auchy-les-Mines, marché du samedi (8h-12h, place Jean-Jaurès, familles écrites) : faits entiers, images de la Ville fermées.
+  **Déblocage** : une photographie permise du lieu ou de la commune (règle 312), et une seconde fiche entière dans la commune.
+- Hesdin-la-Forêt, marché du jeudi matin (familles écrites) : heures de vente non publiées, images fermées. **Déblocage** : les
+  heures de vente publiées par une autorité, une photographie permise, et une seconde fiche entière.
+- Châtelaillon-Plage, marché couvert et marché forain : faits entiers, aucune image permise. **Déblocage** : une photographie de
+  chacun des deux lieux, ou thématique de la commune, publiée sans réserve (règles 312 et 362) ; la zone se compléterait alors
+  dans la communauté d'agglomération de La Rochelle, à moins de quinze kilomètres (règle 96), par exemple avec le marché de la
+  place de Verdun déjà débloqué sur les faits dans les pistes de La Rochelle.
 
 ### Passe du 27 septembre 2026 (soixante-dixième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
