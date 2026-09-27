@@ -4480,6 +4480,16 @@ prioritaires en cas de conflit.
      classement, quelle que soit sa région, sous la seule réserve de la région visée par la passe précédente. Si la passe publie
      dans l'un ou l'autre, la suivante ne peut pas viser cette région.
 
+365. **Les actualités qu'un magasin de réseau publie lui-même sur sa page de magasin, et qui situent un fournisseur local par sa
+     commune, remplissent la règle 86 ; la règle 273 ne vise que la liste commune à tout le réseau.** Le 27 septembre 2026, à
+     Fourmies, le magasin Biomonde de la commune n'a pas de site à lui : sa page dans l'annuaire des magasins du réseau porte ses
+     horaires et, sous « Nos actualités », des billets datés qu'il signe, qui présentent un éleveur de Marbaix et un maraîcher
+     « local » dont il vend les produits. Ce n'est pas la rubrique nationale que la règle 273 écarte : le texte est propre au
+     magasin et nomme la commune d'origine. **Tranché ainsi** : ces billets valent la liste de la règle 86 pour le magasin qui les
+     signe, à condition d'être datés de moins d'un an ; les noms de personnes et les enseignes formées d'un prénom qu'ils citent ne
+     sont repris nulle part (règle 342 et section « Personnes »), la fiche dit seulement « des producteurs de l'Avesnois ». La
+     règle 231 continue de s'appliquer aux images de la même page.
+
 ## Marchands à confirmer
 
 785 fiches sur 889 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11799,6 +11809,79 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (soixante-seizième) : Pas-de-Calais et Nord, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 889 fiches : départements épuisés sautés (règle 265 : Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne,
+Loir-et-Cher, Calvados, Aube, Mayenne, Loiret, Cher) ; **Pas-de-Calais (62) 3,797**, premier non épuisé ; l'Ain (3,759)
+épuisé ; **Nord (59) 3,723**, second (règles 248 et 364). La passe précédente n'ayant rien publié, les Hauts-de-France restent
+ouverts (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règles 265 et 266) : inchangé à trois points, et rien ne l'a débloqué depuis la
+passe précédente ; non réinstruit.
+
+**Pas-de-Calais**, descente reprise à Fruges, douze communes (règle 247). Contrôle à deux agents (règle 257) : les douze sites
+de Ville répondent 200 aux deux agents, aucun `robots.txt` ne nomme notre robot. Au registre bio, sur ces douze communes :
+grandes surfaces, grossistes, abattoirs, exploitations en entreprise individuelle, un établissement médico-social.
+
+1. **Fruges** (2 362) — la Ville publie le marché du samedi (8h-13h, place du Général-de-Gaulle) sans aucune famille de
+   produits (règle 197). **Zéro.**
+2. **Saint-Folquin** (2 349) — la page « Producteurs » de la Ville présente une seule ferme, sur commande, par le nom de ses
+   exploitants et un portable (règle 311). **Zéro.**
+3. **Locon** (2 324) — la page « Marchés » de la Ville est celle des marchés publics ; au registre bio, des exploitations sous
+   patronyme ou sous une enseigne formée d'un prénom. **Zéro.**
+4. **Noyelles-lès-Vermelles** (2 273) — la Ville ne fiche qu'un marchand ambulant de fruits et légumes, sans point fixe. **Zéro.**
+5. **Corbehem** (2 258) — un marché de producteurs annuel (un dimanche de juin, passé), pas de point de vente régulier. **Zéro.**
+6. **Racquinghem** (2 257) — aucun marché ni point de vente en circuit court ; une supérette au registre. **Zéro.**
+7. **Ecques** (2 181) — un marché du terroir annuel (deux jours de novembre), événement et non point de vente. **Zéro.**
+8. **Annequin** (2 133) — la page Commerces de la Ville ne compte aucun commerce alimentaire en circuit court. **Zéro.**
+9. **Givenchy-en-Gohelle** (2 072) — page « Commerçants et artisans » sans point de vente en circuit court. **Zéro.**
+10. **Les Attaques** (2 064) — **marché hebdomadaire du vendredi** (« dès 17h », place Sainte-Ide, face à l'école) : l'affiche de
+    rentrée de la Ville, typographiée et signée de son logo, écrit fromagerie, poissonnerie, fruits et légumes, moules (règle
+    74), et ses dates (28 août, 4 septembre) tombent un vendredi en 2026 (règle 356). Pas d'heure de fin publiée. Le reste de
+    l'annuaire agricole de la Ville est entièrement sous patronyme. **Une seule**, et aucune photographie du marché.
+11. **Ambleteuse** (2 033) — aucun marché dans la commune : la Ville organise un transport vers celui de Marquise. **Zéro.**
+12. **Rety** (2 032) — marché de Noël et foire annuelle seulement. **Zéro.**
+
+**Nord, second département (règles 248, 288 et 290)** — Marly réessayée d'abord (page « Site temporairement indisponible »,
+503 aux deux agents : toujours absente, ne compte pas dans la borne), puis Bruay-sur-l'Escaut et Fourmies. Les constats du
+24 septembre (Comines, Marquette-lez-Lille, Raismes, Somain) sont repris sans refaire les recherches.
+
+1. **Bruay-sur-l'Escaut** (11 644) — la Ville publie le marché du centre (jeudi 8h-12h) et le marché de Thiers (dimanche
+   8h-12h), sans aucune famille de produits (règle 197) ; son `robots.txt` nomme notre robot parmi les agents d'IA et leur ferme
+   `/fileadmin/`, où sont ses photographies (règle 294). **Zéro.**
+2. **Fourmies** (11 449) — le **magasin Biomonde** a des faits entiers : horaires du lundi après-midi au samedi sur sa page de
+   magasin du réseau, société ouverte au registre depuis 2020, certification bio engagée, fournisseurs de l'Avesnois nommés
+   dans ses propres billets datés de septembre 2026 (règle 365, nouvelle). Mais les mentions légales du réseau nomment les
+   photographies dans leur interdiction (règle 231), et l'office de tourisme de l'Avesnois refuse l'agent nommé (403 contre
+   200, règle 257). La Ville ne publie aucune page de marché : jour, lieu et produits du marché du samedi ne viennent que
+   d'agrégateurs (règle 196) ; la ferme d'insertion voisine est à Féron. **Une seule.**
+
+**Changement de sources** : l'office de tourisme de l'Avesnois refuse l'agent nommé ; la Ville de Bruay-sur-l'Escaut ferme ses
+images aux agents d'IA. Les passes futures ne les consultent plus pour les images (règles 257 et 294).
+
+**Contradictions** : aucune rencontrée sur un fait publiable.
+
+**Fiches écartées pour doute sur une personne** : cinq, sans nom repris — à Saint-Folquin, la ferme présentée par ses
+exploitants ; à Locon, deux exploitations (une sous patronyme, une sous une enseigne formée d'un prénom) ; aux Attaques,
+l'élevage d'escargots et les exploitations de l'annuaire agricole, tous sous patronyme (comptés pour une). Les noms de
+l'équipe et des fournisseurs que cite la page du magasin de Fourmies ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Pas-de-Calais**, la descente reprend à **Beaurainville** (2 014), dernière commune de plus de
+2 000 habitants ; après elle, le département sera épuisé (règle 265). Dans le **Nord**, elle reprend à **Gravelines**
+(11 430) ; Marly se réessaie d'abord (règle 288). Rien n'étant publié, la passe suivante peut viser les Hauts-de-France.
+
+**Pistes non publiées (Pas-de-Calais et Nord)** — lignes anonymes :
+
+- Les Attaques, marché du vendredi : faits entiers sauf l'heure de fin. **Déblocage** : une seconde fiche entière dans la
+  commune ou un groupe dans le Grand Calais Terres et Mers dans les limites de la règle 96, et une photographie permise.
+- Fourmies, magasin Biomonde : faits entiers, **désigné pour la reprise** (règles 249 et 258). **Déblocage** : une
+  photographie thématique permise de la commune (règle 312), puis un groupe dans la communauté de communes du Sud-Avesnois.
+- Fourmies, marché du samedi : **Déblocage** : jour, heures et produits publiés par la Ville.
+- Bruay-sur-l'Escaut, marchés du jeudi et du dimanche : **Déblocage** : une famille de produits écrite par la Ville et une
+  photographie permise hors `/fileadmin/`.
 
 ### Passe du 27 septembre 2026 (soixante-quinzième) : Pas-de-Calais et Nord, aucune publication
 
