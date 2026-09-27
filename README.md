@@ -4511,6 +4511,16 @@ prioritaires en cas de conflit.
      Même passe, même commune : une liste de producteurs que la Ville publie, et qui écrit qu'un producteur vend ses légumes,
      son miel et ses œufs « sur le marché » de la commune tel jour, nomme une famille de produits de ce marché au sens de la
      règle 197 — c'est la commune qui l'écrit, pour ce marché-là, et non la phrase générique commune à tous ses marchés.
+368. **Une clause de l'arrêté des marchés qui tolère une vente précise nomme une famille de produits de ce marché au sens de la
+     règle 197.** Le 27 septembre 2026, à Sarreguemines, la page « Foires, fêtes foraines et marchés » de la Ville donne les
+     jours, les heures et les rues des marchés bi-hebdomadaires, sans dire ce qu'on y vend ; l'arrêté municipal qui les
+     réglemente (avis de la commission du 27 mars 2025) les réserve « en priorité aux denrées alimentaires » — phrase générique —,
+     mais tolère, pendant les chaleurs, « la vente de poisson, crustacés et fruits de mer » une heure avant l'ouverture. **Tranché
+     ainsi** : c'est la commune qui l'écrit, pour ce marché-là, et elle ne réglemente que ce qui s'y vend ; la clause vaut famille
+     de produits (poisson, crustacés, fruits de mer), comme la liste communale de la règle 367. La réservation générale « aux
+     denrées alimentaires » reste la phrase générique de la règle 329 et ne compte pas. Le reste des exigences est entier : la
+     fiche attend une image permise (règle 127), et la seule photographie de la page montre des enfants devant un étal de jouets
+     (règle 70).
 
 ## Marchands à confirmer
 
@@ -11836,6 +11846,92 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (quatre-vingt-unième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 894 fiches : départements épuisés sautés (règle 265) ; **Nord (59) 3,913**, premier non épuisé ; **Moselle
+(57) 3,631**, second (règle 248). La dernière passe publiée visait l'Occitanie : les Hauts-de-France et le Grand Est restent
+ouverts (règle 41.c). Rien n'étant publié, le classement ne change pas (règle 260).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Cuincy, douze communes (règle 247). Contrôle à deux agents (règle 257) : la Ville de
+Roost-Warendin répond 200 à l'agent par défaut et 444 à l'agent nommé ; Trith-Saint-Léger n'a aucun site que l'annuaire de
+l'administration connaisse (règle 237) ; les dix autres Villes répondent 200 aux deux. Cuincy, Lallaing et Pecquencourt
+servent le `robots.txt` qui ferme `/fileadmin/` aux agents d'IA, où sont toutes leurs images (règle 294). Source nouvelle pour
+le Douaisis : l'office **Douaisis Agglo Tourisme** (200 aux deux agents, `robots.txt` sans exclusion, images servies par un
+redimensionneur dont le `robots.txt` n'exclut personne ; ses mentions légales n'ont qu'une ligne « Crédits photos », règle 306)
+fiche une trentaine de fermes et une dizaine de marchés de l'agglomération ; la plupart des fermes y sont désignées sous
+patronyme.
+
+1. **Cuincy** (6 467) — **aucune fiche entière** : la **Brasserie La Gaillette** (176 rue Suzanne-Lannoy ; bières brassées
+   sur place, taproom et boutique ; horaires et photographie de l'office, créditée à l'agglomération) est introuvable au
+   registre des entreprises sous son enseigne à Cuincy — seuls des homonymes d'autres départements répondent (règles 6 et 94). Le **marché du deuxième
+   dimanche** (8h-13h, place Dordain ; fruits, légumes, volailles, huîtres, miel, pain d'épices, ail, jus de pomme ; page de la
+   Ville du 6 septembre 2026) a ses faits entiers, mais sa seule image est sous `/fileadmin/` (règle 294) ; le marché du jeudi
+   après-midi n'a pas d'heures (règle 192). Une ferme légumière de la commune, fichée par l'office, se présente sur son propre
+   site sous une marque patronymique : écartée (règle 259). **Zéro.**
+2. **Louvroil** (6 294) — marché du jeudi matin, place De Gaulle, sans heures ni produits ; au registre bio, une association
+   d'insertion sans point de vente publié. **Zéro.**
+3. **Lallaing** (6 287) — la Ville ne publie aucun marché ; l'office fiche un marché du lundi (8h-13h, place Jean-Jaurès) que
+   lui seul recense (règle 196), illustré d'une image au nom de fichier de banque d'images (règle 70). **Zéro.**
+4. **Ostricourt** (6 097) — aucune page de marché ; au registre, une grande surface. **Zéro.**
+5. **Pecquencourt** (6 092) — marché du mardi (7h-13h, place De Gaulle) décrit « tous produits » (règle 197). **Zéro.**
+6. **Trith-Saint-Léger** (6 019) — aucun site de Ville (règle 237) ; au registre, une grande surface. **Zéro.**
+7. **Roost-Warendin** (5 956) — la Ville refuse l'agent nommé (règle 257). La **Ferme des Vanneaux** (326 rue Jean-Jaurès,
+   maraîchage d'un établissement médico-social, boutique à la ferme) a ses faits et une photographie chez l'office, mais le site
+   de son association refuse tout agent (règle 237) et aucune seconde fiche n'existe dans la commune. **Une seule, non entière
+   au sens de la règle 127 faute de second point.**
+8. **Loon-Plage** (5 952) — aucun marché hebdomadaire publié ; au registre, grandes surfaces et logisticiens portuaires.
+   **Zéro.**
+9. **Quiévrechain** (5 949) — marché du jeudi place Roger-Salengro « aux horaires habituels », jamais écrits (règle 192).
+   **Zéro.**
+10. **Flines-lez-Raches** (5 745) — aucune page de marché ; les fermes de l'office sont désignées sous patronyme ; l'association
+    du registre bio n'a plus d'établissement ouvert. **Zéro.**
+11. **Santes** (5 652) — **marché du mercredi** (15h30-19h, parking de la mairie, 8 avenue Albert-Bernard : poisson, fruits et
+    légumes, fromage) aux faits entiers, sans aucune image. **Zéro.**
+12. **Sainghin-en-Weppes** (5 638) — **marché du samedi** (8h-13h, place de la mairie : boucherie chevaline, fruits et légumes,
+    fromager, rôtisserie, poissonnier) aux faits entiers ; ses images sont des portraits d'exposants dont les fichiers portent
+    les noms (règles 70 et 339). **Zéro.**
+
+**Moselle, second département (règle 248)** — contrôle à deux agents : Villes de Sarreguemines et de Yutz, 200 aux deux ;
+l'office de tourisme de Sarreguemines refuse l'agent nommé (règle 257).
+
+1. **Sarreguemines** (20 143), commune calculée — **marchés bi-hebdomadaires** du mardi et du vendredi (7h30-12h30, rue de
+   l'Église, passage, rue et place du Marché), faits entiers au titre de la règle 368, née ici ; seule image : des enfants
+   devant un étal de jouets (règle 70). Au registre : grandes surfaces, un magasin de réseau, un abattoir, des sociétés sous
+   patronyme. **Zéro.**
+2. **Yutz** (17 391) — la Ville ne publie que des marchés ponctuels (terroir, gourmand) ; au registre, un maraîcher bio dont
+   l'enseigne est faite d'un prénom (écarté), une exploitation sous sigle sans point de vente publié, des grandes surfaces.
+   **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : pour la Ferme des Vanneaux, deux fiches de l'office et un annuaire tiers donnent trois grilles (semaine
+en journée, ou après-midi du mardi au samedi) ; l'annuaire tiers refuse l'agent nommé et ne compte pas (règle 257). Si la
+fiche part un jour, c'est la fiche de l'office la plus récente qui donne l'horaire (règle 172). Aucune autre.
+
+**Fiches écartées pour doute sur une personne** : à Cuincy, une ferme légumière (marque patronymique) et un élevage de volailles
+(enseigne patronymique) ; à Flines-lez-Raches, trois fermes de l'office et une exploitation du registre ; à Yutz, un maraîcher
+(prénom) ; à Sarreguemines, deux sociétés du registre. Non instruites, elles ne se rouvrent pas. Les noms d'exploitants,
+d'exposants et d'élus que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Wallers** (5 633). Dans la **Moselle**, à **Hayange** (15 806).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Cuincy, brasserie artisanale : horaires et image de l'office. **Déblocage** : l'établissement retrouvé au registre sous son
+  enseigne ou sa société, puis une seconde fiche entière dans la commune (règle 127), par exemple une photographie permise du
+  marché du deuxième dimanche (faits entiers).
+- Roost-Warendin, ferme maraîchère d'insertion : faits et image de l'office. **Déblocage** : une seconde fiche entière dans la
+  commune.
+- Santes (marché du mercredi), Sainghin-en-Weppes (marché du samedi), Sarreguemines (marchés du mardi et du vendredi) : faits
+  entiers. **Déblocage** : une photographie permise, sans visage.
+- Louvroil, Pecquencourt, Quiévrechain (marchés) : **Déblocage** : des heures et une famille de produits écrites par la Ville.
 
 ### Passe du 27 septembre 2026 (quatre-vingtième) : Nord et Moselle, aucune publication
 
