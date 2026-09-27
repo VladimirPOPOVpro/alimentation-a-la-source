@@ -11810,6 +11810,65 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 27 septembre 2026 (soixante-dix-septième) : Pas-de-Calais épuisé, Nord, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 889 fiches : inchangé — départements épuisés sautés (règle 265) ; **Pas-de-Calais (62) 3,797**, premier non
+épuisé ; l'Ain (3,759) épuisé ; **Nord (59) 3,723**, second (règles 248 et 364). La passe précédente n'ayant rien publié, les
+Hauts-de-France restent ouverts (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points ; non réinstruit.
+
+**Pas-de-Calais**, descente reprise à Beaurainville, dernière commune de plus de 2 000 habitants. Contrôle à deux agents
+(règle 257) : 200 aux deux, `robots.txt` sans exclusion.
+
+1. **Beaurainville** (2 014) — la Ville publie le marché hebdomadaire (mercredi matin, place de la Liberté) sans heures ni
+   aucune famille de produits (règle 197), et ses mentions légales interdisent toute reproduction des photographies (règle
+   231). Au registre bio : un supermarché ; une exploitation en entreprise individuelle ; l'atelier d'une brasserie-fermenterie
+   dont le seul établissement ouvert au registre est le siège d'Attin et qui ne reçoit que sur message préalable (pas
+   d'horaires, règle 311) ; une boulangerie bio dont le domaine ne se résout plus. **Zéro.**
+
+La commune suivante compte moins de 2 000 habitants : **le Pas-de-Calais est épuisé** (règle 265). Il reste dans le calcul
+des parts et son déficit continue d'être publié.
+
+**Nord, second département (règles 248, 288 et 290)** — Marly réessayée d'abord : même page « Site temporairement
+indisponible », 503 aux deux agents, second passage : elle **sort de la descente** comme une commune muette (règle 288), sans
+consommer la borne (règle 290). Puis Gravelines et Wambrechies.
+
+1. **Gravelines** (11 430) — la Ville ne publie aucune page de marché hebdomadaire (seul le marché de Noël figure au plan du
+   site), et ses mentions légales interdisent toute reproduction des images (règle 231). Au registre bio : une boulangerie
+   coopérative dont le site répond 403 à l'agent par défaut (règle 237), un industriel du cacao, une écloserie sans vente aux
+   particuliers, un pâtissier. **Zéro.**
+2. **Wambrechies** (11 012) — la Ville publie le marché de plein vent du vendredi sur le port de plaisance (15h-20h d'avril à
+   octobre, 15h-19h de novembre à mars) sans aucune famille de produits (règle 197), et ses mentions légales interdisent toute
+   reproduction. La ferme bio de la rue d'Ypres ne publie ni point ni horaires de vente, seulement un portable, et ses
+   photographies sont servies par `static.wixstatic.com` (règle 358). La société de la rue de Bondues est un commerce de gros
+   (code 46.17B, pas de vente aux particuliers au registre bio). Le reste : des brasseries, des ateliers de transformation, une
+   supérette de réseau, des exploitations sous patronyme. **Zéro.**
+
+**Changement de sources** : la Ville de Marly sort de la descente (maintenance au second passage) ; le site de la boulangerie
+coopérative de Gravelines refuse tout agent automatique (règle 237).
+
+**Contradictions** : aucune rencontrée sur un fait publiable.
+
+**Fiches écartées pour doute sur une personne** : trois, sans nom repris — à Beaurainville, une exploitation en entreprise
+individuelle ; à Wambrechies, deux exploitations sous patronyme (celles du chemin de la Marotte, comptées pour une, et celle
+du chemin d'Espaing). Les noms des exploitants que cite le site de la ferme de la rue d'Ypres ne sont repris nulle part.
+
+**Points d'arrêt** : le **Pas-de-Calais** est épuisé. Le **Nord** devient le premier département non épuisé du classement et
+reprend à **Saint-Saulve** (10 947) ; le suivant non épuisé est l'**Aveyron** (12, 3,605), en Occitanie, qui recevra les deux
+communes de la règle 248. Rien n'étant publié, la passe suivante peut viser les Hauts-de-France.
+
+**Pistes non publiées (Pas-de-Calais et Nord)** — lignes anonymes :
+
+- Beaurainville, marché du mercredi : **Déblocage** : heures et famille de produits écrites par la Ville, et une photographie
+  permise.
+- Wambrechies, marché de plein vent du vendredi : faits entiers sauf les produits. **Déblocage** : une famille de produits
+  écrite par la Ville ou par une liste d'exposants, et une photographie permise ; puis une seconde fiche entière dans la
+  commune (règle 127).
+
 ### Passe du 27 septembre 2026 (soixante-seizième) : Pas-de-Calais et Nord, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
