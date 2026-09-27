@@ -4500,6 +4500,17 @@ prioritaires en cas de conflit.
      sources indépendantes l'une de l'autre s'accordent, contre un centroïde de voie que rien ne corrobore. On publie le point
      du commerce, l'adresse garde le nom de la voie sans numéro, la fiche est `a_confirmer` et l'écart s'écrit dans la passe.
      Au-delà de 150 m entre la carte du commerce et le registre, la fiche attend (règle 10).
+367. **Un site trouvé par le nom d'une enseigne se rattache à l'adresse avant d'être lu : une enseigne répandue a des homonymes,
+     et le site d'un homonyme n'est ni une source de faits ni une source d'image pour la fiche.** Le 27 septembre 2026, à
+     Quesnoy-sur-Deûle, une ferme en vente directe que la Ville cite dans sa liste des producteurs porte une enseigne courante ;
+     le premier site qui répond à ce nom vend des paniers « à la ferme », mais ses pages de contact et ses mentions légales le
+     situent dans les Bouches-du-Rhône. Rien, sur la page d'accueil, ne le distinguait de la ferme du Nord. **Tranché ainsi** :
+     avant d'inscrire un site ou d'en tirer un horaire ou une image, on lit la page qui donne l'adresse du commerce (contact,
+     mentions légales, pied de page) et l'on vérifie qu'elle tombe dans la commune de la fiche ; sinon le site est écarté et la
+     fiche s'instruit sans lui. C'est le pendant, pour un homonyme vivant, de la note sur les domaines expirés et rachetés.
+     Même passe, même commune : une liste de producteurs que la Ville publie, et qui écrit qu'un producteur vend ses légumes,
+     son miel et ses œufs « sur le marché » de la commune tel jour, nomme une famille de produits de ce marché au sens de la
+     règle 197 — c'est la commune qui l'écrit, pour ce marché-là, et non la phrase générique commune à tous ses marchés.
 
 ## Marchands à confirmer
 
@@ -11825,6 +11836,89 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (quatre-vingtième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 894 fiches : départements épuisés sautés (règle 265) ; **Nord (59) 3,913**, premier non épuisé ; **Moselle
+(57) 3,631**, second (règle 248). La dernière passe publiée visait l'Occitanie : les Hauts-de-France et le Grand Est sont
+ouverts (règle 41.c). Rien n'étant publié, le classement ne change pas.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Fresnes-sur-Escaut, douze communes (règle 247). Contrôle à deux agents (règle 257) : Le
+Cateau-Cambrésis répond 200 à l'agent par défaut et 403 à l'agent nommé ; les onze autres Villes répondent 200 aux deux.
+Fresnes-sur-Escaut, Waziers, Aulnoy-lez-Valenciennes et Beuvrages servent le `robots.txt` qui ferme `/fileadmin/` aux agents
+d'IA, dont le nôtre (règle 294). Au registre bio, sur ces douze communes : grandes surfaces, grossistes, industriels,
+traiteurs, magasins de réseau et exploitations sous patronyme.
+
+1. **Fresnes-sur-Escaut** (7 354) — marché du mardi matin, place Paul-Vaillant-Couturier, sans heure de fin ni produits
+   (règles 192 et 197). **Zéro.**
+2. **Waziers** (7 266) — la page du marché énumère ses étals mais ne donne ni jour ni heures ; le magasin de réseau n'a pas de
+   liste de producteurs à lui (règle 273). **Zéro.**
+3. **Templeuve-en-Pévèle** (7 202) — marché du dimanche revenu le 3 mai 2026 (8h-13h, place du Général-de-Gaulle, page de la
+   Ville du 28 avril 2026) sans famille de produits (règle 197) ; les maraîchers du registre ne publient que sur un réseau
+   social, sans horaires. **Zéro.**
+4. **Auby** (7 083) — marché du mercredi (8h30-12h, place de la République) sans famille de produits. **Zéro.**
+5. **Aulnoy-lez-Valenciennes** (7 080) — aucun marché publié ; au registre, une grande surface, un grossiste et un atelier de
+   transformation sans vente déclarée. **Zéro.**
+6. **Bourbourg** (6 931) — marché du mardi (8h-13h, place du Marché-aux-Chevaux, page mise à jour le 27 août 2026) décrit
+   par la seule phrase « produits frais » (règle 197). Le site de la ferme paysanne de la commune refuse l'agent nommé (règle
+   257) ; le magasin bio installé à la même adresse ne publie ni site ni horaires (règle 192). **Zéro.**
+7. **Quesnoy-sur-Deûle** (6 805) — **une fiche entière, seule** : l'**AMAP du Cœur Joyeux** (légumes biologiques de la ferme du
+   chemin du Cœur-Joyeux ; distribution à la ferme, horaires sur son propre site, photographie à elle, sans personne, site sans
+   clause). Le **marché du dimanche** (8h-13h, place du Général-de-Gaulle) a ses faits entiers — la liste des producteurs de la
+   Ville écrit qu'une ferme y vend légumes, miel et œufs (règle 367, née ici) — mais les mentions légales de la Ville nomment
+   « images, photographies » dans leur interdiction (règle 231), et les autres fichiers du site de l'AMAP sont des fiches
+   recettes, des visages ou des images qui portent les marques d'une banque (règle 360). La ferme qui tient le marché n'a pas
+   de site à elle : le premier site à son enseigne est celui d'un homonyme des Bouches-du-Rhône (règle 367). Les autres
+   producteurs de la liste communale sont désignés sous patronyme ou vendent au point de vente collectif d'une commune
+   voisine. **Une seule.**
+8. **Beuvrages** (6 796) — aucune page de marché ; rien au registre. **Zéro.**
+9. **Le Cateau-Cambrésis** (6 764) — la Ville refuse l'agent nommé (règle 257). **Zéro.**
+10. **Feignies** (6 703) — aucun marché hebdomadaire publié ; au registre, grandes surfaces, industriels et une exploitation
+    sous patronyme. **Zéro.**
+11. **La Bassée** (6 650) — **marché du jeudi** (8h-12h, place du Général-de-Gaulle : maraîcher, boucher, charcutier, rôtisseur,
+    poissonnier, fromager, boulanger) aux faits entiers ; aucun second candidat dans la commune (un moulin grossiste au
+    registre). **Zéro.**
+12. **Estaires** (6 525) — marché du jeudi (8h-12h, place Foch) sans famille de produits ; le maraîcher bio du registre ne
+    publie ni site ni horaires. **Zéro.**
+
+**Moselle, second département (règle 248)** — Metz et Thionville ont leurs fiches. Contrôle à deux agents : Villes de
+Montigny-lès-Metz et de Forbach, 200 aux deux.
+
+1. **Montigny-lès-Metz** (21 718), commune calculée — la Ville ne publie aucun marché hebdomadaire, et ses mentions légales
+   interdisent la reproduction des « photos » sans autorisation écrite. Au registre : une supérette de réseau, un
+   supermarché, un caviste, un grossiste, deux exploitations en entreprise individuelle sans point de vente publié. **Zéro.**
+2. **Forbach** (20 493) — marché du mardi et du vendredi « matin » (place Aristide-Briand, familles de produits écrites) sans
+   heures (règle 192) ; mentions légales fermées aux photographies (règle 231). Le magasin de vrac de la rue Nationale ne
+   publie pas de fournisseurs locaux (règle 86). **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : pour l'AMAP du Cœur Joyeux, la liste de la Ville donne deux distributions (mercredi et vendredi,
+17h30-19h30), la page de l'AMAP pour la saison 2025-2026 une seule (mercredi, 17h30-19h) ; si la fiche part un jour, c'est la
+version de l'AMAP, plus récente et tenue par l'organisateur (règle 5). Aucune autre.
+
+**Fiches écartées pour doute sur une personne** : à Quesnoy-sur-Deûle, les exploitations de la liste communale désignées
+sous patronyme ou sous un prénom (comptées pour une) ; à Templeuve-en-Pévèle, à Feignies et à Estaires, une exploitation
+chacune au registre sous le nom de son exploitant. Non instruites, elles ne se rouvrent pas. Les noms d'exploitants,
+d'éditeurs et de maraîchers que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Cuincy** (6 467). Dans la **Moselle**, à **Sarreguemines**
+(20 143).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Quesnoy-sur-Deûle, AMAP du chemin du Cœur-Joyeux : faits et image entiers. **Déblocage** : une seconde fiche entière dans la
+  commune (règle 127), par exemple une photographie permise du marché du dimanche.
+- Quesnoy-sur-Deûle (marché du dimanche), La Bassée (marché du jeudi) : faits entiers. **Déblocage** : une photographie
+  permise.
+- Templeuve-en-Pévèle, Auby, Estaires, Bourbourg (marchés) : **Déblocage** : une famille de produits écrite par la Ville.
+- Fresnes-sur-Escaut, Forbach (marchés) : **Déblocage** : des heures publiées par la Ville.
 
 ### Passe du 27 septembre 2026 (soixante-dix-neuvième) : Rodez (Aveyron), cinq fiches dans Rodez Agglomération ; Nord sans zone
 
