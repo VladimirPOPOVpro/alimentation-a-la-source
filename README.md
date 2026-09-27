@@ -4471,6 +4471,15 @@ prioritaires en cas de conflit.
      de la fiche, et la description l'écrit « de la mairie de <commune> ». Les passes antérieures, qui écrivaient « du centre de
      <commune> », ne se recalculent pas.
 
+364. **Le second département de la règle 248 peut appartenir à la même région que le premier.** La règle 41.c interdit à deux
+     passes de suite de viser la même région ; la règle 248 donne deux communes au second département du classement sans rien
+     dire de sa région. Le 27 septembre 2026, après la passe de Saint-Xandre (Nouvelle-Aquitaine), la Charente-Maritime est
+     tombée à −1,33 : le Pas-de-Calais reste premier non épuisé (3,797 sur 889 fiches), l'Ain (3,759) est épuisé, et le suivant
+     est le **Nord** (3,723), dans les Hauts-de-France comme le Pas-de-Calais. **Tranché ainsi** : la règle 41.c est une garde
+     entre deux passes, pas entre les deux départements d'une même passe ; le second département est le suivant non épuisé du
+     classement, quelle que soit sa région, sous la seule réserve de la région visée par la passe précédente. Si la passe publie
+     dans l'un ou l'autre, la suivante ne peut pas viser cette région.
+
 ## Marchands à confirmer
 
 785 fiches sur 889 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11790,6 +11799,91 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (soixante-quinzième) : Pas-de-Calais et Nord, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 889 fiches : départements épuisés sautés (règle 265) ; **Pas-de-Calais (62) 3,797**, premier département non
+épuisé ; l'Ain (3,759) épuisé ; **Nord (59) 3,723**, second (règles 248 et 364, nouvelle). La Charente-Maritime tombe à −1,33
+et la dernière région visée est la Nouvelle-Aquitaine, fermée à cette passe (règle 41.c). `origin/main` n'a pas bougé pendant
+la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points ; et la
+Nouvelle-Aquitaine est de toute façon fermée à cette passe (règle 266).
+
+**Reprise désignée du Pas-de-Calais** : la pisciculture d'Anzin-Saint-Aubin attend une seconde fiche entière dans sa commune
+ou un groupe dans la communauté urbaine d'Arras ; Marœuil, seule commune de la descente dans cette intercommunalité, ne rend
+aucun point (ci-dessous). Même déblocage.
+
+**Pas-de-Calais**, descente reprise à Cauchy-à-la-Tour, douze communes (règle 247). Contrôle à deux agents (règle 257) sur
+chaque site. Au registre bio, sur ces douze communes, seulement des grandes surfaces, des grossistes, des exploitations en
+entreprise individuelle et trois enseignes, instruites ci-dessous.
+
+1. **Cauchy-à-la-Tour** (2 593) — aucun marché ; l'atelier de pâtes biologiques de la rue d'Auchel est une entreprise
+   individuelle au siège, sans horaires de vente, dont le seul contact publié est un portable (règle 311), et ses mentions
+   légales nomment les photographies dans leur interdiction. **Zéro.**
+2. **La Couture** (2 590) — aucun marché, aucun point de vente en circuit court à la page Commerces de la Ville. **Zéro.**
+3. **Camiers** (2 582) — la page « Les marchés » de la Ville est vide (mise à jour de 2013) ; l'office Camiers – Sainte-Cécile
+   n'annonce qu'un marché d'été à Sainte-Cécile, sans heures ni produits. **Zéro.**
+4. **Verton** (2 571) — le seul producteur trouvé vend sur les marchés d'autres communes ; au registre bio, une grande surface
+   et une laiterie industrielle. **Zéro.**
+5. **Auxi-le-Château** (2 547) — marché du samedi (8h-13h, place de l'Hôtel de Ville, page Commerces de la Ville) sans aucune
+   famille de produits écrite (règle 197) ; aucun autre point. **Zéro.**
+6. **Gonnehem** (2 525) — la Ville (dont le `robots.txt` ferme `/fileadmin/` aux agents d'IA, règle 294) et l'office de
+   Béthune-Bruay fichent un maraîchage de Busnettes, avec heures du samedi ; mais ses seuls contacts sont un portable et une
+   messagerie personnelle, et la présentation renvoie à la page d'une personne (règle 325). Le distributeur de serres de la
+   commune porte un nom qui peut être un prénom. **Zéro.**
+7. **Sailly-Labourse** (2 493) — un seul maraîcher à l'annuaire de la Ville, sous patronyme. **Zéro.**
+8. **Hinges** (2 485) — une seule ferme en vente directe, sous patronyme. **Zéro.**
+9. **Condette** (2 443) — la Ville ne publie pour son marché que des événements passés, ni jours ni produits ; l'agrégateur
+   qui les donne refuse l'agent nommé (ci-dessous) ; la société de la rue des Buissons est une supérette, siège transféré dans
+   une autre commune. **Zéro.**
+10. **Marœuil** (2 422) — la page Commerces de la Ville ne compte aucun point de vente en circuit court ; la ferme que les
+    annuaires placent à « Mareuil » est dans l'Oise. **Zéro.**
+11. **Bouvigny-Boyeffles** (2 398) — aucune page de marché ni de commerce en circuit court ; rien au registre bio. **Zéro.**
+12. **Vendin-lès-Béthune** (2 374) — la Ville refuse l'agent nommé (règle 257) ; au registre bio, une grande surface et un
+    grossiste. **Zéro.**
+
+**Nord, second département (règles 248, 288 et 290)** — Bailleul, dont le site est revenu, puis Saint-André-lez-Lille.
+
+1. **Bailleul** (14 732) — le site de la Ville répond de nouveau (200 aux deux agents), après la page de maintenance du
+   24 septembre (règle 288) : la commune est instruite et compte dans la borne (règle 290). La page « Marchés et commerces »
+   annonce le marché du mardi (8h-12h30, place Achille-Liénart) et le marché de producteurs du jeudi (16h-20h de mars à
+   septembre, 16h-19h d'octobre à février, parvis de la gare), sans aucune famille de produits (« circuits courts », « bio »
+   ne sont pas des familles, règle 197) ; les mentions légales de la Ville nomment les images dans leur interdiction (règle
+   231), et les photographies du marché de la gare publiées par le CAUE du Nord sont créditées « © » à un photographe (règle
+   305). **Une seule** fiche entière, la reprise désignée **Au Rond Point Fermier**, qui reste désignée.
+2. **Saint-André-lez-Lille** (13 233) — le marché du mardi, entier au constat du 24 septembre, reste la seule fiche entière :
+   la **Biocoop du chemin de Messines** a des faits entiers (horaires du lundi au samedi, 9h30-19h30, sur son site ; SARL
+   ouverte au registre ; certification bio ; liste de producteurs locaux propre au magasin, règle 276), mais ses conditions
+   générales d'utilisation nomment les photographies parmi ce dont elles interdisent la représentation (règle 245), et
+   aucune photographie thématique permise de la commune n'est disponible hors celle du marché (règle 312). **Une seule.**
+
+**Changement de sources** : l'agrégateur `ouacheterlocal.fr` refuse l'agent nommé (403 contre 200) ; la Ville de
+Vendin-lès-Béthune aussi. Les passes futures ne les consultent plus (règle 257).
+
+**Contradictions** : aucune rencontrée sur un fait publiable.
+
+**Fiches écartées pour doute sur une personne** : six, sans nom repris — à Cauchy-à-la-Tour, l'atelier de pâtes (règle
+311) ; à Gonnehem, le maraîchage de Busnettes (règle 325) et le distributeur des serres (nom qui peut être un prénom) ; à
+La Couture, Sailly-Labourse et Hinges, une exploitation sous patronyme chacune.
+
+**Points d'arrêt** : dans le **Pas-de-Calais**, la descente reprend à **Fruges** (2 362). Dans le **Nord**, elle reprend à
+**Comines** (12 731) ; les constats du 24 septembre (Comines, Marquette-lez-Lille, Raismes, Marly, Somain) se reprennent sans
+refaire les recherches, puis vient Bruay-sur-l'Escaut (11 644) ; Bailleul et Saint-André-lez-Lille sont éprouvées. Rien n'étant publié, la passe suivante peut viser les Hauts-de-France.
+
+**Pistes non publiées (Pas-de-Calais et Nord)** — lignes anonymes :
+
+- Saint-André-lez-Lille, Biocoop du chemin de Messines : faits entiers, **désignée pour la reprise** avec le marché du mardi
+  (règles 249 et 258). **Déblocage** : une photographie thématique permise de la commune (règle 312), puis un groupe dans la
+  Métropole Européenne de Lille dans les limites de la règle 96.
+- Bailleul, marchés du mardi et du jeudi : **Déblocage** : une famille de produits écrite par une source propre au marché, et
+  une photographie permise.
+- Auxi-le-Château, marché du samedi : **Déblocage** : une famille de produits écrite et une photographie permise.
+- Condette, marché de la place du Choquel : **Déblocage** : les jours, heures et produits publiés par la Ville ou par un
+  office qui ne refuse pas l'agent nommé.
 
 ### Passe du 27 septembre 2026 (soixante-quatorzième) : Saint-Xandre (Charente-Maritime), cinq fiches dans l'agglomération de La Rochelle
 
