@@ -11773,6 +11773,84 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 27 septembre 2026 (soixante-treizième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 884 fiches) : inchangé — départements épuisés sautés
+(règle 265), **Pas-de-Calais (62)** premier département non épuisé, **Charente-Maritime (17)** second (règle 248). La dernière
+région visée reste l'Île-de-France. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais**, descente reprise à Lumbres. Sources : sites des Villes (annuaire de l'administration, contrôle à deux agents
+de la règle 257), registre de l'Agence Bio (62, 1 098 opérateurs, paginé en entier), registre des entreprises, offices de
+tourisme. Exclus pour tout le lot au titre de la règle 257 ou de la règle 237 : la plateforme de vente locale de la Chambre
+d'agriculture et l'annuaire Bienvenue à la Ferme (403 à l'agent nommé), les offices du Ternois, des 7 Vallées et de Saint-Omer
+(403), le fournisseur des listes de l'office du Pays de Lumbres (`Disallow: /`), la communauté de communes Flandre Lys (défi
+anti-robot).
+
+1. **Lumbres** (3 579) — clause de la Ville qui nomme les photographies (règle 231) ; les bandeaux de l'office sont des images de
+   banque à texte incrusté. Le marché place Jean-Jaurès a ses familles écrites (légumes, volailles, fromages, pain) mais des heures
+   de 2023 qu'un annuaire contredit ; une boulangerie au feu de bois a des faits entiers mais aucune image permise. **Zéro.**
+2. **Lapugnoy** (3 481) — aucune page de marché ; un élevage de lapins en vente directe n'a que des heures de 2022 « non
+   garanties » et une image « © » sous une clause d'office fermée. **Zéro.**
+3. **Sainte-Catherine** (3 471) — la page « Marché du dimanche » de la Ville est vide ; une cueillette fichée par l'office d'Arras
+   n'a ni heures ni image, et son adresse ne concorde pas avec le registre. **Zéro.**
+4. **Verquin** (3 445) — site de la Ville servi par une application dont le contenu n'est lisible qu'avec un identifiant : non
+   instruit ; une exploitation maraîchère fichée par l'office de Béthune-Bruay n'a aucune heure publiée. **Zéro.**
+5. **Hulluch** (3 371) — Ville fermée aux images (règle 231), aucun commerce alimentaire en circuit court ; une épicerie de vrac
+   mensuelle dont la période publiée est échue. **Zéro.**
+6. **Saint-Léonard** (3 353) — Ville fermée aux images, marchés seulement ponctuels ; la brasserie fichée par le Parc a fermé son
+   établissement de la commune en décembre 2025. **Zéro.**
+7. **Merlimont** (3 342) — la Ville refuse l'agent nommé (403) : règle 257. Le magasin bio du registre est fermé, un second n'a
+   qu'un siège sans site ; le marché n'a ni heures ni familles à l'office, et son lieu d'hiver y diffère de celui de la Ville.
+   **Zéro.**
+8. **Wizernes** (3 321) — Ville fermée aux images, marché cité seulement dans les tarifs communaux. **Zéro.**
+9. **Frévent** (3 259) — Ville fermée aux images ; le marché du mardi n'a ni heure ni famille publiées par la Ville. **Zéro.**
+10. **Pont-à-Vendin** (3 062) — Ville fermée aux images, annonce du marché non datée d'un site arrêté fin 2022, sans famille.
+    **Zéro.**
+11. **Saint-Venant** (2 999) — aucune page de marché ; la carte des marchés de l'agglomération (juin 2025) n'en compte aucun dans
+    la commune ; les maraîchers ne sont décrits que par des agrégateurs. **Zéro.**
+12. **Rinxent** (2 987) — le marché d'Hydrequent a ses heures (samedi 8h-13h, office de la Terre des Deux Caps, janvier 2026) et
+    ses familles écrites par la Ville, mais la Base ne connaît pas sa place et aucune autorité ne publie de point (règle 166), et
+    la clause de la Ville réserve les « représentations iconographiques et photographiques ». **Zéro.**
+
+**Charente-Maritime, second département (règle 248).** Registre de l'Agence Bio paginé (1 404 opérateurs).
+
+1. **Marennes-Hiers-Brouage** (6 163) — clause de la Ville qui nomme les photos (règle 231), office fermé. Le **marché de la place
+   des Halles** a des faits entiers (mardi, jeudi et samedi 8h-13h à l'office, validité 2026 ; fruits et légumes, huîtres,
+   boucherie, boulangerie écrits par la Ville ; Base 0,95) mais aucune image permise ; un point de vente ostréicole de Brouage a
+   ses heures et produits, mais sa rue est inconnue de la Base ; l'AMAP n'a plus de site et un seul contact personnel. **Zéro.**
+2. **Nieul-sur-Mer** (5 811) — Ville fermée aux images ; le marché du dimanche n'a ni heures ni familles publiées par la Ville ;
+   l'épicerie primeur a perdu son domaine ; l'épicerie bio a été remplacée par un restaurant. **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : une, sans effet de publication — le lieu d'hiver du marché de Merlimont diffère entre l'office et un extrait
+de la Ville ; la Ville étant exclue (règle 257), rien n'est tranché ni publié.
+
+**Fiches écartées pour doute sur une personne** : onze — à Lumbres, deux distributeurs de légumes (enseigne patronymique, ou
+seuls contacts personnels) ; à Merlimont, une boucherie sous un patronyme ; à Wizernes, un producteur bio et une ferme sous un
+patronyme ; à Verquin, une vente de légumes et fraises sous un patronyme ; à Saint-Venant, un magasin à la ferme sous un nom de
+famille ; à Rinxent, une maraîchère bio en entreprise individuelle ; à Marennes-Hiers-Brouage, un producteur de safran (seuls
+contacts personnels) ; à Nieul-sur-Mer, les exploitations conchylicoles de Lauzières en entreprise individuelle (comptées pour
+une). Aucun nom n'est repris.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint sa borne ; une passe qui y reviendra descend à **Fleurbaix** (2 947). La
+**Charente-Maritime** reprend à **Saint-Xandre** (5 677).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Marennes-Hiers-Brouage, marché de la place des Halles : faits entiers, images fermées. **Déblocage** : une photographie
+  permise du lieu ou thématique de la commune (règle 312), et une seconde fiche entière dans la commune.
+- Rinxent, marché d'Hydrequent : heures et familles réunies. **Déblocage** : un point publié par une autorité pour la place, et
+  une photographie permise.
+- Lumbres, marché de la place Jean-Jaurès : familles écrites. **Déblocage** : des heures datées de moins d'un an par la Ville
+  ou l'office, et une photographie permise.
+- Saint-Xandre, ferme biologique qui vend au Fief de l'Enfourneau (siège au registre à Nieul-sur-Mer, horaires publiés par
+  l'exploitation) : à instruire en tête de la prochaine passe charentaise, commune suivante de la descente.
+
 ### Passe du 27 septembre 2026 (soixante-douzième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
