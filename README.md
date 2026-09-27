@@ -11773,6 +11773,98 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 27 septembre 2026 (soixante-douzième) : Pas-de-Calais et Charente-Maritime, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 884 fiches) : inchangé — départements épuisés sautés
+(règle 265), **Pas-de-Calais (62)** premier département non épuisé (déficit 3,69), **Charente-Maritime (17)** second (3,62,
+règle 248). La dernière région visée reste l'Île-de-France.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais**, descente reprise à Ardres. Sources : sites des Villes (domaines lus à l'annuaire de l'administration, règle
+327, contrôle à deux agents de la règle 257), registre de l'Agence Bio (62, 1 098 opérateurs), registre des entreprises, office de
+tourisme du Touquet.
+
+1. **Ardres** (4 389) — aucune page de marché ni de commerce alimentaire ; les mentions légales nomment les photographies (règle
+   231). Au registre bio, une grande surface. **Zéro.**
+2. **Rang-du-Fliers** (4 297) — la Ville refuse l'agent nommé (403 sur les pages, 200 à l'agent par défaut) : règle 257. **Zéro.**
+3. **Vimy** (4 270) — l'annuaire des commerçants de la Ville range des maraîchers et une vente de produits fermiers, sans heures
+   ni produits, l'une sous un patronyme (voir plus bas) ; la clause de la Ville nomme les photos (règle 231). **Zéro.**
+4. **Le Touquet-Paris-Plage** (4 224) — le marché couvert (jeudi et samedi matin, rue Jean-Monnet) n'a d'heures publiées que pour
+   les lundis d'été et aucune famille écrite hors de la partie poissonnerie (règle 197) ; l'office exclut « l'iconographie » de
+   toute reproduction (règle 231), et la Ville renvoie à l'office pour ses marchés. Les fromageries et poissonneries fichées par
+   l'office revendent sans liste de producteurs (règle 361). **Zéro.**
+5. **Neufchâtel-Hardelot** (4 115) — marché du mercredi place René-Cassin sans heure de fin ni famille, dimanches gourmands
+   saisonniers ; la clause de la Ville nomme les photographies (règle 231). **Zéro.**
+6. **Sailly-sur-la-Lys** (3 981) — le panier bio inscrit au registre a un certificat arrêté en 2024 (règle 71) ; la seule ferme
+   bio qui vend aux particuliers est écartée pour doute sur une personne (voir plus bas). **Zéro.**
+7. **Aix-Noulette** (3 902) — la Ville réserve « les représentations iconographiques et photographiques » (règle 231) ; au
+   registre bio, des grandes surfaces et un élevage de pondeuses sans point de vente publié. **Zéro.**
+8. **Wimille** (3 866) — la Ville coupe la connexion à l'agent nommé (444) et répond à l'agent par défaut : règle 257. **Zéro.**
+9. **Violaines** (3 839) — la page des commerces cite deux fermes sans heures ni produits, l'une sous un patronyme. **Zéro.**
+10. **Bapaume** (3 779) — aucune page de marché ; au registre bio, une grande surface, un grossiste, et un jardin de la
+    communauté de communes qui ne vend pas aux particuliers. **Zéro.**
+11. **Éperlecques** (3 737) — aucune page de commerce ni de marché ; au registre bio, une grande surface. **Zéro.**
+12. **Meurchin** (3 691) — l'annuaire des commerçants ne compte aucun commerce alimentaire en circuit court ; aucun opérateur
+    au registre bio. **Zéro.**
+
+**Charente-Maritime, second département (règle 248).** Registre de l'Agence Bio paginé (1 404 opérateurs).
+
+1. **Saint-Pierre-d'Oléron** (6 633) — la Ville publie ses marchés et sa photothèque sous une clause générale qui ne nomme pas les
+   images (« les données, la présentation ou l'organisation du site ») et une ligne de crédits à son service de communication
+   (règles 231 et 306) : **ses photographies sont utilisables**. L'office de l'île d'Oléron et du bassin de Marennes nomme les
+   images dans son interdiction (règle 231) mais donne des heures datées de 2026. **Deux fiches entières** :
+   - le **marché de La Cotinière** (rue du Port ; tous les jours d'avril à septembre de 9h à 12h30, puis les week-ends et jours
+     fériés jusqu'à la Toussaint, à l'office ; poissons, coquillages et produits transformés écrits par la Ville ; image
+     thématique permise : le port de La Cotinière, photothèque de la Ville) ;
+   - le **marché de la Victorine** (boulevard du Capitaine-Leclerc, sur le port de pêche ; poissons, huîtres et crustacés de
+     producteurs locaux, sole, bar, lotte, seiche, maigre et langoustines à l'office ; 9h30-12h30 et 16h-18h30 d'avril à la
+     Toussaint, le matin du mardi au dimanche en hiver, à l'office ; « à partir de 15h30 » à la Ville, texte de 2018 : règle 5 ;
+     image thématique permise : bateaux de pêche au port, page « Le port de pêche » de la Ville).
+   Les deux points sont distincts à la Base Adresse Nationale (400 m). Mais **aucun troisième point illustrable** dans la
+   communauté de communes de l'île d'Oléron à moins de quinze kilomètres : le **marché couvert** de la place de l'Europe a ses
+   heures (8h-13h30 au règlement municipal, 8h-13h à l'office) et une vraie photographie de la Ville en 4 608 px recadrable sans
+   visage, mais aucune source n'écrit une famille de produits (« produits alimentaires », « le terroir » : règle 197) ; la **cave
+   des Vignerons d'Oléron** (avenue de Bonnemie, coopérative active au registre, règle 8) a ses heures datées, mais son site et
+   l'office nomment les images dans leur interdiction et la Ville ne publie aucune vue de vigne ; les autres vignobles de la
+   commune sont sous un patronyme. Dans l'île : Le Château-d'Oléron, Dolus-d'Oléron, Saint-Denis-d'Oléron, Saint-Trojan-les-Bains
+   et Le Grand-Village-Plage nomment les images dans leur interdiction (règle 231) ; à Saint-Georges-d'Oléron, le marché de Chéray
+   a ses heures mais aucune famille écrite (règle 197) ; le marché de La Brée-les-Bains a ses familles à l'office mais aucune heure
+   publiée ; la communauté de communes refuse l'agent nommé (403, règle 257). Deux points : la règle 258 s'applique. **Zéro.**
+2. **Dompierre-sur-Mer** (6 315) — la Ville refuse l'agent nommé sur ses pages (403, 200 à l'agent par défaut) : règle 257. Au
+   registre bio, des céréaliers qui vendent en gros, une maison de cognac sous un patronyme et deux élevages sans site ni heures.
+   **Zéro.**
+
+**Aucune zone dans les départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : une, consignée et tranchée par la règle 5 pour la reprise — les heures de la Victorine (« à partir de 15h30 »
+tous les jours à la Ville, texte de 2018 ; 9h30-12h30 et 16h-18h30 à l'office, fiche de 2026). La fiche publierait les deux, en
+retenant l'office comme plus récent, avec `a_confirmer`.
+
+**Fiches écartées pour doute sur une personne** : quatre — à Vimy et à Violaines, une vente de produits fermiers sous un
+patronyme ; à Sailly-sur-la-Lys, une ferme en entreprise individuelle dont les seuls contacts publiés sont un portable et un
+courriel personnel ; à Saint-Pierre-d'Oléron, un chai en vente directe dont le seul contact publié est un portable et qu'aucune
+société ne porte au registre sous son enseigne (règles 311 et 325). Aucun nom n'est repris.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint sa borne ; une passe qui y reviendra descend à **Lumbres** (3 579). La
+**Charente-Maritime** reprend à **Marennes-Hiers-Brouage** (6 163).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Saint-Pierre-d'Oléron, marché de La Cotinière et marché de la Victorine : **deux fiches entières, image comprise, désignées pour
+  la reprise** (règles 127 et 258). **Déblocage** : deux autres points illustrables dans la communauté de communes de l'île
+  d'Oléron à moins de quinze kilomètres (règle 320), par exemple ceux des deux lignes suivantes.
+- Saint-Pierre-d'Oléron, marché couvert de la place de l'Europe : heures et photographie de la Ville réunies. **Déblocage** : une
+  famille de produits écrite par une autorité pour ce marché.
+- Saint-Pierre-d'Oléron, cave coopérative de l'avenue de Bonnemie : faits entiers, images fermées. **Déblocage** : une
+  photographie permise de la cave ou d'une vigne de la commune (règle 312).
+- Le Touquet-Paris-Plage, marché couvert : jours publiés, heures seulement pour l'été, images de l'office exclues. **Déblocage** :
+  heures toute l'année et familles écrites par une autorité, et une photographie permise.
+- La Brée-les-Bains, marché : familles écrites à l'office, aucune heure publiée. **Déblocage** : les heures publiées par la Ville
+  ou l'office ; la Ville n'a aucune clause sur les images.
+
 ### Passe du 27 septembre 2026 (soixante et onzième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
