@@ -23532,5 +23532,135 @@
     "image_url": "/images/marchands/ferme-des-parrichets-mouroux.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.802513,3.063139"
+  },
+  {
+    "slug": "les-enfourneaux-saint-xandre",
+    "nom": "Les Enfourneaux",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.205356,
+    "lon": -1.13368,
+    "adresse": "14 Fief de l’Enfourneau, 17138 Saint-Xandre",
+    "horaires": "Le lundi, le mardi et le jeudi de 9h à 13h ; le mercredi et le vendredi de 9h à 13h et de 16h30 à 19h, d’après le site de la ferme. Même grille sur la carte des producteurs du Département (manger17).",
+    "produits": [
+      "Légumes bio de saison (tomates, courgettes, poireaux, courges)",
+      "Pommes de terre",
+      "Betteraves, dont la crapaudine",
+      "Persil et herbes aromatiques",
+      "Lentilles, pois chiches et haricots d’une coopérative bio régionale"
+    ],
+    "description": "Maraîchage certifié bio du lieu-dit du Fief de l’Enfourneau, qui vend ses légumes et ses aromatiques dans la boutique de l’exploitation, avec des légumineuses d’une coopérative bio de la région. À 2 km de la mairie de Saint-Xandre, dans la communauté d’agglomération de La Rochelle. Photo : site des Enfourneaux, un panier de légumes de la ferme.",
+    "site_web": "https://www.lesenfourneaux.com/",
+    "image_url": "/images/marchands/les-enfourneaux-saint-xandre.jpg",
+    "a_confirmer": false,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46.205356,-1.13368"
+  },
+  {
+    "slug": "ferme-de-cande-saint-xandre",
+    "nom": "La Ferme de Candé",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.214019,
+    "lon": -1.049789,
+    "adresse": "14 Allée de Candé, 17138 Saint-Xandre",
+    "horaires": "Le mercredi de 10h à 13h, le vendredi de 14h à 19h et le samedi de 10h à 13h, d’après la carte des producteurs du Département (manger17, fiche du 10 février 2026). La fiche touristique départementale donne les mêmes demi-journées.",
+    "produits": [
+      "Yaourts bio",
+      "Fromages frais et affinés au lait de vache",
+      "Viande de bœuf et de veau",
+      "Légumes du jardin (tomates, courgettes, courges)",
+      "Pommes de terre et oignons"
+    ],
+    "description": "Élevage laitier en agriculture biologique qui transforme son lait en yaourts et en fromages et vend aussi sa viande et ses légumes à la ferme. À 4 km de la mairie de Saint-Xandre, dans la communauté d’agglomération de La Rochelle. Certaines sources écrivent « 14 Fief de Candé » ; le registre et la Base Adresse Nationale disent allée de Candé. Photo thématique : betteraves crapaudines publiées par une autre ferme de Saint-Xandre, Les Enfourneaux ; elle ne montre pas la Ferme de Candé.",
+    "image_url": "/images/marchands/ferme-de-cande-saint-xandre.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46.214019,-1.049789"
+  },
+  {
+    "slug": "marche-salles-sur-mer",
+    "nom": "Marché de Salles-sur-Mer",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.104686,
+    "lon": -1.052722,
+    "adresse": "Avenue de Verdun, 17220 Salles-sur-Mer",
+    "horaires": "Le jeudi de 16h à 19h30, avenue de Verdun, sur le parking de la salle du Parc, d’après la Ville (page mise à jour le 7 août 2026). La Ville annonce aussi un marché le dimanche matin au même endroit, sans en donner l’heure : à confirmer.",
+    "produits": [
+      "Huîtres",
+      "Poissons et crustacés",
+      "Pains",
+      "Pâtisseries",
+      "Épicerie en vrac",
+      "Fromages"
+    ],
+    "description": "Marché de producteurs de fin d’après-midi, créé en 2021 par la commune ; la Ville n’en écrit que les huîtres, le reste de la liste est lu sur la photographie qu’elle publie pour ce marché. À 12 km de la mairie de Saint-Xandre, dans la communauté d’agglomération de La Rochelle. Photo : site de la Ville, montage d’étals du marché, recadré.",
+    "site_web": "https://www.salles-sur-mer.fr/commerces-et-services/le-marche/",
+    "image_url": "/images/marchands/marche-salles-sur-mer.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46.104686,-1.052722"
+  },
+  {
+    "slug": "marche-couvert-chatelaillon-plage",
+    "nom": "Marché couvert de Châtelaillon-Plage",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.072467,
+    "lon": -1.091214,
+    "adresse": "Rue du Marché, 17340 Châtelaillon-Plage",
+    "horaires": "D’avril à septembre, tous les jours de 8h à 13h ; d’octobre à mars, du mardi au dimanche de 8h à 13h, d’après la Ville.",
+    "produits": [
+      "Poissons et fruits de mer de la côte",
+      "Fruits et légumes",
+      "Volailles fermières",
+      "Charcuterie",
+      "Fromages affinés"
+    ],
+    "description": "Halles des années 1930 au cœur de la ville, où dix-sept commerçants tiennent leurs étals toute l’année sous la verrière. À 15 km de la mairie de Saint-Xandre, dans la communauté d’agglomération de La Rochelle. Photo thématique : plateau de fruits de mer publié par un restaurant de Châtelaillon-Plage ; elle ne montre pas le marché.",
+    "site_web": "https://www.chatelaillonplage.fr/les-marches",
+    "image_url": "/images/marchands/marche-couvert-chatelaillon-plage.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46.072467,-1.091214"
+  },
+  {
+    "slug": "marche-forain-chatelaillon-plage",
+    "nom": "Marché forain de Châtelaillon-Plage",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.073453,
+    "lon": -1.089848,
+    "adresse": "Boulevard de la Libération, 17340 Châtelaillon-Plage",
+    "horaires": "Le mardi et le vendredi, toute l’année, de 8h à 13h, le long des boulevards de Lattre-de-Tassigny et de la Libération et de la rue du Marché, d’après la Ville.",
+    "produits": [
+      "Fruits frais",
+      "Miel",
+      "Pineau",
+      "Pâtisseries",
+      "Plats préparés"
+    ],
+    "description": "Grand marché de plein air du centre-ville, avec plus de quatre-vingts commerçants hors saison et jusqu’à cent quatre-vingts l’été, où les étals alimentaires côtoient des créateurs. À 15 km de la mairie de Saint-Xandre, dans la communauté d’agglomération de La Rochelle. Photo thématique : salade publiée par un restaurant de Châtelaillon-Plage ; elle ne montre pas le marché.",
+    "site_web": "https://www.chatelaillonplage.fr/les-marches",
+    "image_url": "/images/marchands/marche-forain-chatelaillon-plage.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46.073453,-1.089848"
   }
 ]

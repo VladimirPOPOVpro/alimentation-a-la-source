@@ -4460,9 +4460,27 @@ prioritaires en cas de conflit.
      les règles 231 et 306 les fichiers d'une autre série. Le nom de l'auteur n'est écrit nulle part. **Déblocage** : une
      permission écrite sur le site, ou la même vue publiée sans réserve par une autre source.
 
+363. **Les quinze kilomètres de la règle 96 se mesurent depuis la mairie de la commune calculée, au point que publie l'annuaire
+     de l'administration.** La règle 96 dit « du centre », sans dire lequel. À Saint-Xandre, les deux marchés de
+     Châtelaillon-Plage, dans la même communauté d'agglomération de La Rochelle, sont à 14,9 et 14,8 km de la mairie (rue de
+     l'Océan, point de l'annuaire `api-lannuaire.service-public.fr`), mais à 15,6 et 15,5 km du centroïde que
+     `geo.api.gouv.fr` donne pour la commune. **Tranché ainsi** : le centre est celui du bourg, où vivent les habitants, et la
+     mairie en est le point d'autorité — c'est déjà elle que la règle 323 retient quand la Base ignore une place, et c'est un
+     lieu de ville, comme la place du Ralliement de la règle 96, alors que le centroïde tombe où la forme de la commune le met
+     (la règle 323 rappelle qu'il n'est jamais un point de marché). La distance se calcule à vol d'oiseau, de ce point au point
+     de la fiche, et la description l'écrit « de la mairie de <commune> ». Les passes antérieures, qui écrivaient « du centre de
+     <commune> », ne se recalculent pas.
+
 ## Marchands à confirmer
 
-781 fiches sur 884 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+785 fiches sur 889 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **La Ferme de Candé** (Saint-Xandre) (passe du 27 septembre 2026 ; « 14 Fief de Candé » sur deux fiches départementales,
+  « 14 allée de Candé » au registre, à la Base et dans le texte de manger17, retenu ; photographie thématique d'une autre ferme
+  de la commune, règle 312).
+- **Marché de Salles-sur-Mer** (Salles-sur-Mer) (le marché du dimanche matin est annoncé par la Ville sans heure ; produits lus
+  sur la photographie que la Ville attache à la seule page du marché, règle 91).
+- **Marché couvert de Châtelaillon-Plage** et **Marché forain de Châtelaillon-Plage** (Châtelaillon-Plage) (photographies
+  thématiques d'un restaurant de la commune, règle 312 ; les images de la Ville sont créditées à une agence, règle 362).
 - **Les Casiers de l'Entrechamps** (Cazères) (passe du 26 septembre 2026 ; point au marqueur de l'office Cœur de Garonne,
   la Base Adresse Nationale ne connaissant pas le numéro ; contrôle inverse sur le 130 chemin des Vignes à 52 m, règle 27).
 - **Marché du Fousseret** (Le Fousseret) (heures de l'office Cœur de Garonne seulement, fiche modifiée le 24 avril 2026 ; la
@@ -11772,6 +11790,106 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (soixante-quatorzième) : Saint-Xandre (Charente-Maritime), cinq fiches dans l'agglomération de La Rochelle
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 884 fiches avant la passe) : inchangé —
+départements épuisés sautés (règle 265), **Pas-de-Calais (62)** premier département non épuisé (déficit 3,691),
+**Charente-Maritime (17)** second (3,619, règle 248). La dernière région visée était l'Île-de-France. Après la passe, la
+Charente-Maritime tombe à −1,332 ; la prochaine passe ne peut pas viser la Nouvelle-Aquitaine (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République 40530 Labenne » une autre rue de Labenne (0,53). Trois points.
+
+**Pas-de-Calais**, descente reprise à Fleurbaix, douze communes (règle 247). Contrôle à deux agents (règle 257) sur chaque site.
+
+1. **Fleurbaix** (2 947) — la Ville refuse l'agent nommé (règle 257) ; au registre bio, des grandes surfaces et une vente de
+   bière à distance dont le site refuse aussi l'agent nommé. **Zéro.**
+2. **Drocourt** (2 939) — la Ville ne publie aucun marché alimentaire ; un agrégateur en annonce un que la Ville ignore. **Zéro.**
+3. **Labourse** (2 858) — l'annuaire des commerces de la Ville ne compte aucun point de vente en circuit court. **Zéro.**
+4. **Burbure** (2 834) — seuls des commerces ambulants désignés par des noms de personnes. **Zéro.**
+5. **Anzin-Saint-Aubin** (2 833) — **une fiche entière, seule** : la pisciculture de la rue Louis-Blondel (horaires du site,
+   page du 17 juin 2026, et de l'office Arras Pays d'Artois ; truite, omble chevalier, saumon de fontaine, fumaisons ; SARL
+   active ; photographie de filets sur glace publiée sans clause). La Ruche du village n'est pas lisible (403 aux deux agents).
+6. **Allouagne** (2 823) — trois pistes à enseigne sans horaires ni produits publiés ; une EARL citée par la Ville est fermée au
+   registre. **Zéro.**
+7. **Éleu-dit-Leauwette** (2 805) — aucun commerce en circuit court à la page Commerce de la Ville. **Zéro.**
+8. **Chocques** (2 785) — la Ville refuse l'agent nommé. **Zéro.**
+9. **Richebourg** (2 687) — site de la Ville illisible hors application ; deux producteurs bio sans vente ni horaires publiés.
+   **Zéro.**
+10. **Souchez** (2 663) — la Ville refuse l'agent nommé ; le magasin d'une ferme biologique de la rue Carnot a produits, registre
+    et images, mais aucun horaire publié. **Zéro.**
+11. **Coquelles** (2 638) — marché du dimanche (9h-14h, page de la Ville du 29 mai 2026) sans trois familles écrites et sans
+    image permise ; le magasin vrac de réseau ne nomme aucun producteur (règle 86). **Zéro.**
+12. **Équihen-Plage** (2 619) — l'office du Boulonnais refuse l'agent nommé ; le distributeur fermier de la rue de la Courtille
+    a produits et registre, mais des horaires non datés et aucune image. **Zéro.**
+
+**Charente-Maritime, second département (règle 248)** — Saint-Xandre puis Saint-Georges-de-Didonne.
+
+1. **Saint-Xandre** (5 677) — **deux fiches entières** (règle 127) : **Les Enfourneaux**, maraîchage bio du Fief de
+   l'Enfourneau (horaires de son site, page postérieure à novembre 2025, et de manger17 ; SCEA et SARL actives ; photographie
+   de son propre site, sans clause), et **La Ferme de Candé**, élevage laitier bio (horaires de manger17, 10 février 2026 ;
+   établissement actif, siège hors du lieu de vente, donc hors règle 311 ; son site refuse l'agent nommé, les sites
+   départementaux ferment leurs images, photographie thématique des Enfourneaux au titre de la règle 312). La Ville ferme ses
+   images ; son marché du mardi n'a pas d'heure de fin. La piste du Fief de l'Enfourneau laissée par la passe précédente est
+   ainsi instruite : le siège n'est pas à Nieul-sur-Mer mais à Saint-Xandre.
+   **Élargissement, règles 96 et 127, dans la communauté d'agglomération de La Rochelle** : Marsilly, Villedoux, Sainte-Soulle,
+   Esnandes, L'Houmeau, Saint-Médard-d'Aunis, Bourgneuf, Montroy, Clavette, Saint-Rogatien, Vérines, La Jarrie, Croix-Chapeau et
+   Salles-sur-Mer criblées ; une seule fiche entière, le **marché du jeudi de Salles-sur-Mer** (page de la Ville du 7 août
+   2026 ; produits lus sur la photographie attachée à cette seule page, règle 91 ; montage recadré pour écarter des sachets
+   étiquetés). Reprise des pistes de l'agglomération : le **marché couvert** et le **marché forain de Châtelaillon-Plage**
+   (faits relus sur la page « Les marchés » de la Ville, contenu daté de 2026) attendaient une photographie permise de la
+   commune (règles 312 et 362) ; un restaurant de la commune publie les siennes sous une clause qui énumère « articles et
+   textes, graphismes, icônes, sons, logiciels » sans nommer ni photographies ni images — clause générale au sens de la règle
+   231, donc ouverte — et deux fichiers distincts illustrent les deux marchés. Un second restaurant, dont l'enseigne inscrite
+   au registre peut être un nom de famille, n'a pas servi de source. Les deux marchés sont à 14,9 et 14,8 km de la mairie de
+   Saint-Xandre (règle 363, née ici). **Cinq points, zone publiée** : deux à Saint-Xandre (2,2 et 4,3 km de la mairie),
+   Salles-sur-Mer (12,0 km), Châtelaillon-Plage (14,9 et 14,8 km).
+   Laissés : le marché de la place de Verdun à La Rochelle, dont les faits n'ont pas pu être relus — le site de la Ville a
+   refusé toute connexion aux deux agents pendant toute la passe (règle 353) et l'office `nous-larochelle.fr` refuse désormais
+   l'agent nommé (règle 257) ; les marchés de Périgny et d'Aytré, pour lesquels aucun commerce de la commune ne publie de
+   photographie sans réserve.
+2. **Saint-Georges-de-Didonne** (5 092) — le site de la Ville n'a pas répondu (délai dépassé aux deux agents), l'office Royan
+   Atlantique refuse l'agent nommé, la fiche départementale du marché couvert rend 404 ; le magasin bio est fermé au registre.
+   **Zéro** (la brasserie artisanale de la commune est écartée plus bas).
+
+**Changement de sources** : l'office de La Rochelle (`nous-larochelle.fr`) et celui de Royan Atlantique refusent désormais
+l'agent nommé (403 contre 200) ; les passes futures ne les consultent plus (règle 257).
+
+**Contradictions** : Ferme de Candé, adresse (« 14 Fief de Candé » contre « 14 allée de Candé », retenue avec le registre et
+la Base) ; Salles-sur-Mer, jours (un billet de 2021 cite un mercredi matin, la page de 2026 un dimanche matin, publié à
+confirmer) ; Coquelles, heures (dépliant 8h-12h contre page 9h-14h, sans publication) ; Anzin-Saint-Aubin, code d'activité de
+la pisciculture au registre (culture de légumes) ; Allouagne, une EARL citée par la Ville et fermée au registre ; Richebourg,
+numéro de rue d'un producteur bio (registre contre Agence Bio) ; Vérines, horaires de la fromagerie (site contre route des
+fromages). Rien n'est publié sur ces points hors ce qui est dit dans les fiches (règle 5).
+
+**Fiches écartées pour doute sur une personne** : vingt-cinq environ, sans nom repris — à Fleurbaix, une ferme maraîchère
+patronymique ; à Burbure, les commerces ambulants et une ferme sous des noms de personnes ; à Allouagne, trois exploitations
+patronymiques et un stand au nom d'une personne ; à Chocques, Richebourg (quatre) et Équihen-Plage, des producteurs en
+entreprise individuelle sous patronyme ; à Saint-Xandre, trois exploitations en entreprise individuelle, et la spiruline de
+la Pointe du Payaud (un seul produit, une heure de vente par semaine, seul contact un portable) ; à Saint-Georges-de-Didonne,
+cinq exploitations sous patronyme ou prénom, et la brasserie artisanale de la rue Ampère, dont l'enseigne est un prénom ; dans
+l'agglomération, des conchyliculteurs, maraîchers et éleveurs patronymiques à Marsilly, Esnandes, Villedoux et
+Saint-Médard-d'Aunis.
+
+**Points d'arrêt** : le **Pas-de-Calais** a atteint sa borne ; une passe qui y reviendra descend à **Cauchy-à-la-Tour**
+(2 593). La **Charente-Maritime** reprend, si elle revient en tête, à **Sainte-Soulle** pour la descente (Saint-Georges-de-Didonne
+éprouvée).
+
+**Pistes non publiées (Pas-de-Calais et Charente-Maritime)** — lignes anonymes :
+
+- Anzin-Saint-Aubin, pisciculture de la rue Louis-Blondel : fiche entière, **désignée pour la reprise** (règles 249 et 258).
+  **Déblocage** : une seconde fiche entière dans la commune, ou un groupe dans la communauté urbaine d'Arras.
+- Souchez, magasin d'une ferme biologique de la rue Carnot : **Déblocage** : des horaires publiés par le commerce.
+- Équihen-Plage, distributeur fermier de la rue de la Courtille : **Déblocage** : des horaires datés et une photographie permise.
+- Coquelles, marché du dimanche : **Déblocage** : trois familles écrites par la Ville et une photographie permise.
+- La Rochelle, marché de la place de Verdun : **Déblocage** : relire les faits sur le site de la Ville quand il répond.
+- Périgny (marché de la Pommeraie) et Aytré (marché des Grands-Prés) : faits entiers. **Déblocage** : une photographie permise de
+  la commune (règle 312) ; les sites de commerces alimentaires essayés ferment tous leurs images ou refusent l'agent nommé.
+- Vérines, fromagerie de chèvre du Fief du Guigne Chèvre : **Déblocage** : des horaires datés de moins d'un an et une image
+  hors de l'hébergeur Wix (règle 256).
+- Saint-Xandre, maraîchage de la rue Cavelier-de-la-Salle : **Déblocage** : des horaires datés de l'année.
 
 ### Passe du 27 septembre 2026 (soixante-treizième) : Pas-de-Calais et Charente-Maritime, aucune publication
 
