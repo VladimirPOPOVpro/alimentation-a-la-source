@@ -7882,10 +7882,9 @@ de 670 × 670, jamais une photographie — l'annuaire donne des faits, pas des i
   Saveurs et Saisons de Villeneuve-d'Ascq et au Label Vie de Marcq-en-Barœul, et sa page ne publie
   aucun horaire de vente. Le seul numéro affiché est un portable. Pas de point de vente, pas de
   fiche.
-- **Les Jardins de Blandine**, chemin des Grands Obeaux à Bondues, maraîchage bio en permaculture,
-  vente directe aux jardins et sur le marché de Bondues. Le registre de l'Agence Bio ne connaît
-  d'elle qu'un `site_web` Facebook, aucun horaire n'est publié nulle part, et le nom sous lequel
-  elle est immatriculée est un patronyme. **Critère de déblocage** : des heures de vente publiées.
+- **Une exploitation maraîchère de Bondues** (chemin des Grands Obeaux), maraîchage bio en permaculture : enseigne
+  formée d'un prénom, immatriculée sous un patronyme — écartée pour doute sur une personne, elle ne se rouvre pas
+  (ligne anonymisée le 27 septembre 2026).
 - **Wattrelos**, 40 847 habitants, limitrophe de Tourcoing et dans la même métropole, publie
   quatre marchés avec leur jour et leur place mais **ni horaires ni photographies**. À noter pour
   la prochaine passe : la formulation de la Ville pour le marché du centre-ville contient un sigle
@@ -11809,6 +11808,108 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (soixante-dix-huitième) : Nord et Aveyron, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 889 fiches : départements épuisés sautés (règle 265 : Oise, Val-d'Oise, Landes, Eure-et-Loir, Lot-et-Garonne,
+Loir-et-Cher, Calvados, Aube, Mayenne, Loiret, Cher, Pas-de-Calais, Ain) ; **Nord (59) 3,723**, premier non épuisé ;
+**Aveyron (12) 3,605**, second (règle 248). La passe précédente n'ayant rien publié, les Hauts-de-France restent ouverts
+(règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Deux requêtes à la Base : le foyer municipal n'y est pas (un foyer
+municipal de l'Aude, 0,55), la place de la République non plus (une rue de Labenne, 0,53). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Saint-Saulve, douze communes (règle 247). Contrôle à deux agents (règle 257) : onze Villes
+répondent 200 aux deux agents ; **Jeumont** répond 200 à l'agent par défaut et 403 à l'agent nommé. Au registre bio, sur ces
+douze communes : grandes surfaces, grossistes, industriels, boulangeries sans vente déclarée, exploitations sous patronyme.
+
+1. **Saint-Saulve** (10 947) — la Ville ne publie du marché hebdomadaire que son jour (mardi matin, navette des aînés) : ni
+   lieu, ni heures, ni produits. Le guide intercommunal des producteurs (édition 2025) le place à la halle du centre, sans
+   heures ni produits (règles 192 et 197). **Zéro.**
+2. **Annœullin** (10 847) — **marché du mardi** (8h30-13h, place du Marché : maraîcher, poissonnerie, rôtisserie, boucherie,
+   primeur, fromager) aux faits entiers ; mais les mentions légales de la Ville nomment les images dans leur interdiction
+   (règle 231). Le seul producteur de l'annuaire communal ne publie ni horaires ni enseigne au registre. **Une seule, sans
+   image.**
+3. **Vieux-Condé** (10 617) — la Ville publie deux marchés avec heures (lundi 7h30-13h place de la République ; jeudi
+   14h-17h d'avril à octobre) sans aucune famille de produits (règle 197). **Zéro.**
+4. **Jeumont** (10 160) — la Ville refuse l'agent nommé (règle 257). **Zéro.**
+5. **Douchy-les-Mines** (10 109) — la Ville ne publie aucune page de marché ; le guide intercommunal donne le samedi
+   8h-12h30 place Paul-Éluard sans produits (règles 196 et 197). **Zéro.**
+6. **Neuville-en-Ferrain** (10 002) — aucun marché alimentaire hebdomadaire publié (marchés aux puces et marché de
+   créateurs seulement). **Zéro.**
+7. **Aniche** (9 963) — la page « Le marché » de la Ville décrit les étals sans jour ni heure, et son `robots.txt` ferme
+   `/fileadmin/` aux agents d'IA, dont le nôtre (règle 294). **Zéro.**
+8. **Merville** (9 808) — la Ville publie le marché du mercredi (place de la Libération) et le « marché du mieux vivre » du
+   samedi (produits bio, autour du kiosque) avec leurs produits mais sans heures (« matin » seulement ; le règlement lié
+   répond par une page HTML), et ses mentions légales nomment photos et images. **Zéro.**
+9. **Bondues** (9 747) — la Ville ne publie que des « marchés animés » ponctuels ; jours et étals du marché hebdomadaire ne
+   viennent que d'un agrégateur (règle 196). **Zéro.**
+10. **Lesquin** (9 600) — **p'tit marché du samedi** (8h-12h30, place Haine-Saint-Pierre : légumes de saison, poulets rôtis,
+    olives, fromagerie et crémerie) aux faits entiers ; celui du jeudi (16h-19h30, place Hoche) sans produits. Les mentions
+    légales interdisent la reproduction des photographies. **Une seule, sans image.**
+11. **Leers** (9 521) — **marché du samedi** (7h-13h, parking de l'esplanade du centre : rôtisserie, fruits et légumes)
+    aux faits entiers ; mentions légales fermées aux images (règle 231). **Une seule, sans image.**
+12. **Condé-sur-l'Escaut** (9 253) — la Ville ne publie aucune page de marché ; jour, lieu et produits ne viennent que
+    d'agrégateurs et du guide intercommunal, sans produits (règles 196 et 197). **Zéro.**
+
+**Aveyron, second département (règle 248)** — Rodez, commune calculée (23 981), puis Millau. Contrôle à deux agents : les
+Villes de Rodez et de Millau, l'office de Rodez Agglomération et celui de Millau Grands Causses répondent 200 aux deux ; le
+site de l'AMAP du Ruthénois répond 403 à l'agent nommé (règle 257).
+
+1. **Rodez** — la Ville publie le **marché du mercredi** (8h-12h30, place du Bourg, une soixantaine d'étals) et le
+   **marché du samedi** (7h-12h30, places de la Cité, Eugène-Raynaldy, Emma-Calvé et du Bourg, 150 à 160 étals), chacun
+   avec sa propre liste de produits ; ses mentions légales autorisent la reprise « avec l'indication de la source » sans
+   nommer les images (règles 231 et 239). Deux photographies de la Ville conviennent : une vue aérienne du marché de la place
+   du Bourg, sans personne identifiable, et celle du marché du faubourg, reprenable comme photographie thématique (règles
+   203 et 352). **Les Halles de Rodez** (26 place Eugène-Raynaldy, marché couvert ouvert en octobre 2025) publient leurs
+   horaires (mardi-vendredi 8h30-13h30 et 17h-20h30, samedi 8h30-13h30 et 16h-20h30, dimanche 9h30-13h30) et leurs métiers
+   (boucherie, boulangerie, poissonnerie, primeur, fromagerie, épicerie fine, chocolaterie), mais leurs mentions légales
+   nomment les images ; la photographie du marché gourmand de la Ville, recadrée au-dessus des visages, peut l'illustrer
+   comme image thématique. Au-delà, rien d'entier : le magasin de producteurs de la rue des Moutiers n'écrit que « du mardi au
+   samedi », sans heures (règle 192), et aucune entité à son enseigne n'apparaît au registre (règle 6) ; le Biocoop ne publie
+   pas de fournisseurs locaux (règle 273) ; le marché du vendredi n'est plus sur la page de la Ville (règle 196) ; l'office
+   écrit que ses photographies « ne sont pas libres de droit ». Dans Rodez Agglomération (règle 96), **Les Halles de
+   l'Aveyron** (boulevard des Balquières, Onet-le-Château ; magasin de la coopérative, lundi-samedi 9h-12h30 et 14h-19h) ont
+   des faits entiers mais des images fermées, et aucune photographie thématique permise d'Onet-le-Château n'a été trouvée ; le
+   marché de Luc-la-Primaube n'a ni heures ni produits, la boutique de l'Agricampus n'a pas d'horaires. **Trois fiches
+   illustrables dans la commune, une quatrième sans image dans l'intercommunalité : pas de zone** (règles 52, 96 et 258).
+2. **Millau** (22 044) — la Ville publie ses marchés de plein vent (mercredi et vendredi matin) et ses halles (« du mercredi
+   au samedi en matinée ») avec leurs produits, mais **sans aucune heure** (règle 192) ; l'office écrit que ses photographies
+   « ne sont pas libres de droit ». **Zéro.**
+
+**Changement de sources** : la Ville de Jeumont et le site de l'AMAP du Ruthénois refusent l'agent nommé ; la Ville d'Aniche
+ferme `/fileadmin/` aux agents d'IA ; les offices de Rodez Agglomération et de Millau Grands Causses ferment leurs
+photographies. Les passes futures ne les consultent plus pour les images (règles 257 et 294).
+
+**Contradictions** : aucune rencontrée sur un fait publiable.
+
+**Fiches écartées pour doute sur une personne** : quatre, sans nom repris — à Annœullin, le producteur de fruits de
+l'annuaire communal (aucune enseigne au registre) ; à Bondues, deux exploitations (une sous patronyme, une sous une enseigne
+formée d'un prénom) ; à Vieux-Condé et Condé-sur-l'Escaut, les exploitations du registre bio, toutes sous patronyme
+(comptées pour une). Les noms d'exploitants, d'étaliers et de photographes que citent le guide intercommunal, le site des
+Halles de Rodez et les pages des offices ne sont repris nulle part. Au passage, une ancienne ligne de piste de Bondues qui
+portait une enseigne formée d'un prénom a été anonymisée.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Escaudain** (9 039). Dans l'**Aveyron**, Rodez et Millau sont
+éprouvées ; la descente reprendra à **Onet-le-Château** (12 080), et les fiches de Rodez ci-dessous sont **désignées pour la
+reprise** (règles 249 et 258). Rien n'étant publié, la passe suivante peut viser les Hauts-de-France.
+
+**Pistes non publiées (Nord et Aveyron)** — lignes anonymes :
+
+- Rodez, marché du mercredi et marché du samedi : faits entiers, images de la Ville permises sous citation, **désignés pour
+  la reprise**. **Déblocage** : deux autres points entiers dans Rodez Agglomération à moins de quinze kilomètres de la
+  mairie (règle 96), ou un quatrième point entier dans Rodez (règle 52).
+- Rodez, Les Halles de Rodez : faits entiers, image thématique de la Ville recadrée, **désignées pour la reprise**.
+- Rodez, magasin de producteurs de la rue des Moutiers : **Déblocage** : des heures publiées par le magasin et une entité
+  active à son adresse au registre.
+- Onet-le-Château, Les Halles de l'Aveyron : faits entiers. **Déblocage** : une photographie permise du magasin ou
+  thématique de la commune.
+- Annœullin (marché du mardi), Lesquin (marché du samedi), Leers (marché du samedi) : faits entiers. **Déblocage** : une
+  photographie permise, puis une seconde fiche entière dans la commune (règle 127).
+- Merville, marchés du mercredi et du samedi : **Déblocage** : des heures publiées par la Ville et une photographie permise.
+- Millau, marchés de plein vent et halles : **Déblocage** : des heures publiées par la Ville et une photographie permise.
 
 ### Passe du 27 septembre 2026 (soixante-dix-septième) : Pas-de-Calais épuisé, Nord, aucune publication
 
