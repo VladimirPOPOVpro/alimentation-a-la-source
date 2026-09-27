@@ -4490,9 +4490,26 @@ prioritaires en cas de conflit.
      sont repris nulle part (règle 342 et section « Personnes »), la fiche dit seulement « des producteurs de l'Avesnois ». La
      règle 231 continue de s'appliquer aux images de la même page.
 
+366. **Quand la Base Adresse Nationale ne connaît qu'une voie et que le point du registre tombe hors de cette voie, le point
+     que le commerce publie lui-même sur sa propre carte fait foi, s'il est à moins de 150 m de celui du registre.** Le 27
+     septembre 2026, à Onet-le-Château, Les Halles de l'Aveyron donnent pour adresse « boulevard des Balquières », sans numéro :
+     la Base ne rend que le centroïde de la voie, et le registre place l'établissement à 1,2 km de là, à 114 m d'une adresse de
+     la route de la Calade. Les deux points ne se recoupent pas ; la règle 64 prend le point d'un office pour une place que la
+     Base ignore, le repli sur le registre suppose qu'il retombe sur l'adresse publiée. **Tranché ainsi** : la carte intégrée
+     que le magasin publie sur sa propre page de magasin (vue au 44,371441 / 2,589219) tombe à 90 m du point du registre ; deux
+     sources indépendantes l'une de l'autre s'accordent, contre un centroïde de voie que rien ne corrobore. On publie le point
+     du commerce, l'adresse garde le nom de la voie sans numéro, la fiche est `a_confirmer` et l'écart s'écrit dans la passe.
+     Au-delà de 150 m entre la carte du commerce et le registre, la fiche attend (règle 10).
+
 ## Marchands à confirmer
 
-785 fiches sur 889 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+789 fiches sur 894 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du samedi de Rodez** et **Les Halles de Rodez** (Rodez) (passe du 27 septembre 2026 ; photographies thématiques
+  de la Ville, marché du faubourg et place du Bourg un soir d'été, recadrées au-dessus des visages, règles 203 et 239).
+- **Les Halles de l'Aveyron** (Onet-le-Château) (point de la carte du magasin, à 90 m du registre, la Base ne connaissant que
+  la voie, règle 366 ; photographie thématique du rucher municipal de la Ville, règles 234 et 309).
+- **Les Fables de la Terre** (Sébazac-Concourès) (chemin de la Fontaine inconnu de la Base ; point de l'établissement au
+  registre, contrôle inverse à 18 m du 8 route de Rodez à Concourès ; le point du registre bio est à 170 m).
 - **La Ferme de Candé** (Saint-Xandre) (passe du 27 septembre 2026 ; « 14 Fief de Candé » sur deux fiches départementales,
   « 14 allée de Candé » au registre, à la Base et dans le texte de manger17, retenu ; photographie thématique d'une autre ferme
   de la commune, règle 312).
@@ -11808,6 +11825,116 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 27 septembre 2026 (soixante-dix-neuvième) : Rodez (Aveyron), cinq fiches dans Rodez Agglomération ; Nord sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 889 fiches avant la passe) :
+inchangé — départements épuisés sautés (règle 265), **Nord (59) 3,723** premier, **Aveyron (12) 3,605** second (règle 248).
+La passe précédente n'ayant rien publié, aucune région n'était réservée. Après la passe, l'Aveyron tombe à −1,375 ; la
+prochaine passe ne peut pas viser l'Occitanie (règle 41.c). Tête du classement après la passe : Nord 3,913, Moselle 3,631,
+Puy-de-Dôme 3,615, Orne 3,568.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Escaudain, douze communes (règle 247). Contrôle à deux agents (règle 257) : La Chapelle-
+d'Armentières et Pérenchies répondent 200 à l'agent par défaut et 444 à l'agent nommé ; les dix autres Villes répondent 200
+aux deux. Le site des producteurs du parc naturel régional Scarpe-Escaut oppose un défi anti-robot aux deux agents (règle 237).
+
+1. **Escaudain** (9 039) — le marché du lundi n'apparaît que dans des arrêtés de circulation, sans famille (règle 197). **Zéro.**
+2. **La Chapelle-d'Armentières** (8 754) — la Ville refuse l'agent nommé ; au registre bio, grossistes, chaînes et une
+   exploitation sous patronyme. **Zéro.**
+3. **Aulnoye-Aymeries** (8 612) — aucun marché hebdomadaire publié ; l'épicerie vrac du registre est cessée. **Zéro.**
+4. **Onnaing** (8 479) — la Ville ne publie que l'interdiction de stationner sous la halle le lundi matin ; le marché du terroir
+   est occasionnel. **Zéro.**
+5. **Pérenchies** (8 455) — la Ville refuse l'agent nommé ; le maraîchage bio de la commune n'a ni site ni horaires qu'il
+   publierait lui-même. **Zéro.**
+6. **Orchies** (8 396) — marchés du vendredi et du dimanche (8h-12h, page de la Ville du 30 septembre 2025) sans famille
+   (règle 197). **Une fiche entière, seule** : la ferme cueillette de la route de Marchiennes (horaires de son propre site,
+   EARL active, photographie de champs et de tunnels sans personne, site sans mentions). Le magasin de produits locaux de la
+   zone de l'Europe ne publie pas d'horaires (règle 192). **Une seule.**
+7. **Téteghem-Coudekerque-Village** (8 247) — aucun marché publié ; l'ESAT maraîcher ne publie que les heures de
+   l'établissement. **Zéro.**
+8. **Linselles** (8 161) — marché du vendredi (8h-12h30, parvis de l'église) dont les produits ne sont que des logos, sans
+   texte (règle 197). **Zéro.**
+9. **Houplines** (7 921) — la Ville ne publie plus de page de marché. **Zéro.**
+10. **Cappelle-la-Grande** (7 839) — **marché du samedi** (8h-13h, parking d’une école pendant les travaux de la place : boucherie,
+    fruits et légumes, agriculteurs, rôtisserie) aux faits entiers ; mentions légales fermées aux images (règle 231). **Zéro.**
+11. **Nieppe** (7 764) — marché du samedi (8h-13h, place du Général-de-Gaulle) sans famille ; le verger bio n'a ni site ni
+    horaires. **Zéro.**
+12. **Wavrin** (7 758) — **marché du vendredi** (9h-12h, place de l'église : maraîcher, poissonnerie, rôtisserie, boucherie,
+    primeur, fromager) et **ferme d'insertion de la rue Anatole-France** (magasin lundi-vendredi 8h-12h et 13h30-17h30,
+    samedi 9h-12h : légumes, fruits, œufs) aux faits entiers ; la Ville soumet toute reprise de photo à accord préalable,
+    l'association nomme les images dans ses conditions et sert ses photographies depuis un domaine dont le `robots.txt` exclut
+    tout le monde (règles 231 et 345). Le magasin de réseau accolé ne nomme que les coopératives nationales (règle 273). **Zéro.**
+
+**Aveyron, second département (règle 248)** — reprise des fiches de Rodez désignées par la passe précédente (règles 249 et
+258), puis Onet-le-Château, commune calculée, et Villefranche-de-Rouergue. Contrôle à deux agents : Villes de Rodez,
+d'Onet-le-Château, d'Olemps, de Sébazac-Concourès, du Monastère, de Luc-la-Primaube et de Villefranche-de-Rouergue, site des
+Halles de Rodez, des Halles de l'Aveyron et des deux producteurs consultés : 200 aux deux. La Chambre d'agriculture de
+l'Aveyron répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) ; l'annuaire Bienvenue à la Ferme répond 403 aux
+deux (règle 237).
+
+1. **Rodez** — reprise, faits relus le jour même. La page « Marchés et foires » de la Ville (mise à jour le 16 septembre 2026)
+   publie le **marché du mercredi** (8h-12h30, place du Bourg) et le **marché du samedi** (7h-12h30, places de la Cité,
+   Eugène-Raynaldy, Emma-Calvé et du Bourg), chacun avec ses produits ; les mentions légales (3 juin 2026) permettent la
+   reprise avec l'indication de la source (règle 239). **Les Halles de Rodez** publient leurs horaires sur leur propre site
+   (page du 4 août 2026) et, en toutes lettres, boucherie, primeurs et épicerie ; la Ville les range sous ses marchés et en
+   tient le contact (règle 6 hors de cause). Leur propre site interdit la reproduction de ses images : l'illustration est la
+   photographie « marché gourmand » de la Ville, recadrée au ras des toits, sans visage ni enseigne. Le marché du samedi porte
+   la photographie du marché du faubourg, recadrée au-dessus des étals, sans aucune personne dans le cadre ; le marché du
+   mercredi, la vue aérienne de la place du Bourg. Trois fichiers distincts (règle 203). **Trois fiches entières.**
+2. **Onet-le-Château** (12 080), commune calculée, à 2,7 km de la mairie de Rodez — la Ville ne publie aucun marché
+   hebdomadaire. **Les Halles de l'Aveyron**, magasin de la coopérative agricole, publient leurs horaires, leurs rayons et un
+   numéro fixe sur leur page de magasin ; SAS active au registre. Leurs mentions légales et celles du site départemental de
+   tourisme ferment les images. La Ville d'Onet-le-Château sert le gabarit dont la section « Propriété intellectuelle »
+   autorise la réutilisation non commerciale en citant l'origine et la date (règle 309) ; ses crédits nomment aussi deux
+   banques d'images. Sa photographie du verger communal porte dans ses métadonnées le titre, les mots-clés et le copyright
+   d'un studio de photographie de banque : écartée (règle 360). Celles du rucher municipal, prises par la Ville (métadonnées
+   d'appareil, aucune marque de banque), montrent des ruches sans personne : l'une illustre la fiche comme photographie
+   thématique d'un équipement public non marchand (règle 234). Point de la carte du magasin (règle 366, née ici). **Une fiche
+   entière.** La transformation de graines de la même commune ne vend que sur les marchés de Rodez et en magasin : pas de
+   point de vente propre, pas de fiche.
+3. **Sébazac-Concourès**, dans Rodez Agglomération, à 12,1 km de la mairie de Rodez — **Les Fables de la Terre**, élevage de
+   brebis laitières certifié bio depuis 2008 (Ecocert) : vente à la ferme tous les jours de 9h à 19h, produits et photographie
+   (un fromage, sans personne ni texte) sur son propre site, dont la page d'accueil est modifiée le 10 août 2026, sans clause
+   sur les images. Entreprise individuelle active dont le siège est le lieu de vente, mais la vente se fait à heures fixes tous
+   les jours : règles ordinaires, pas la présomption de domicile de la règle 311. Le seul numéro publié est un portable,
+   accolé à des noms de personnes : il n'est pas repris (règle 143). **Une fiche entière.**
+4. **Villefranche-de-Rouergue** (11 271) — la Ville décrit le marché du jeudi sans heure de fin et ses mentions légales
+   interdisent les « représentations iconographiques et photographiques ». Éprouvée pour mémoire : la zone était déjà faite.
+   **Zéro.**
+
+**Zone publiée, règles 96 et 127** : trois fiches à Rodez (0,1 à 0,2 km de la mairie), une à Onet-le-Château (2,7 km), une à
+Sébazac-Concourès (12,1 km), toutes dans Rodez Agglomération. Les pistes de Rodez désignées pour la reprise sont ainsi levées.
+
+**Changement de sources** : la Ville de La Chapelle-d'Armentières et celle de Pérenchies refusent l'agent nommé (444) ; la
+Chambre d'agriculture de l'Aveyron aussi (403) ; l'annuaire Bienvenue à la Ferme refuse tout agent ; le site départemental de
+tourisme de l'Aveyron interdit la reproduction de ses illustrations. Les passes futures ne les consultent plus pour les images.
+
+**Contradictions** : le point de l'établissement des Halles de l'Aveyron au registre et le centroïde de la voie à la Base sont
+à 1,2 km l'un de l'autre ; tranché par la carte du magasin (règle 366). Pour Les Fables de la Terre, le registre des
+entreprises et le registre bio placent la ferme à 170 m l'un de l'autre, dans Concourès ; le premier est retenu, la fiche est
+`a_confirmer`. Aucune autre contradiction sur un fait publié.
+
+**Fiches écartées pour doute sur une personne** : trois, sans nom repris — à Linselles, les agriculteurs de l'annuaire de la
+Ville, tous sous patronyme (comptés pour un) ; à Escaudain et à Onnaing, une exploitation sous patronyme chacune. À
+Sébazac-Concourès et dans Rodez Agglomération, deux autres exploitations en vente directe sont désignées au registre bio par
+un surnom (thé, miel) : non instruites, ne se rouvrent pas. Les noms d'élus, d'exploitants, d'étaliers et de photographes que
+citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Fresnes-sur-Escaut** (7 354). L'**Aveyron** a sa zone ; la
+descente reprendrait à **Saint-Affrique** (7 941).
+
+**Pistes non publiées (Nord et Aveyron)** — lignes anonymes :
+
+- Orchies, ferme cueillette de la route de Marchiennes : faits et image entiers. **Déblocage** : une seconde fiche entière
+  dans la commune (règle 127), par exemple des horaires publiés par le magasin de produits locaux de la zone de l'Europe.
+- Cappelle-la-Grande (marché du samedi), Wavrin (marché du vendredi, ferme d'insertion) : faits entiers. **Déblocage** : une
+  photographie permise.
+- Linselles, Nieppe, Orchies (marchés) : **Déblocage** : une famille de produits écrite par la Ville.
+- Onet-le-Château, transformation de graines : **Déblocage** : un point de vente propre, à heures publiées.
 
 ### Passe du 27 septembre 2026 (soixante-dix-huitième) : Nord et Aveyron, aucune publication
 

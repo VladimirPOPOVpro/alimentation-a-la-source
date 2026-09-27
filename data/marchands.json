@@ -23662,5 +23662,145 @@
     "image_url": "/images/marchands/marche-forain-chatelaillon-plage.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=46.073453,-1.089848"
+  },
+  {
+    "slug": "marche-du-mercredi-rodez",
+    "nom": "Marché du mercredi de Rodez",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.34874,
+    "lon": 2.575765,
+    "adresse": "Place du Bourg, 12000 Rodez",
+    "horaires": "Le mercredi de 8h à 12h30, place du Bourg, d’après la Ville.",
+    "produits": [
+      "Fruits et légumes",
+      "Charcuterie",
+      "Crèmerie",
+      "Poissonnerie",
+      "Boulangerie",
+      "Volailles",
+      "Produits bio et de la ferme"
+    ],
+    "description": "Marché municipal de milieu de semaine, une soixantaine de commerçants et de producteurs sur la place du Bourg, au cœur de la vieille ville. Photo : Ville de Rodez (ville-rodez.fr, page « Marchés et foires » mise à jour le 16 septembre 2026), droits réservés.",
+    "telephone": "05 65 77 88 00",
+    "site_web": "https://www.ville-rodez.fr/quotidien/cadre-vie/marches-foires/",
+    "image_url": "/images/marchands/marche-du-mercredi-rodez.jpg",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.34874,2.575765"
+  },
+  {
+    "slug": "marche-du-samedi-rodez",
+    "nom": "Marché du samedi de Rodez",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.350865,
+    "lon": 2.57588,
+    "adresse": "Place de la Cité, 12000 Rodez",
+    "horaires": "Le samedi de 7h à 12h30, places de la Cité, Eugène-Raynaldy, Emma-Calvé et du Bourg, d’après la Ville.",
+    "produits": [
+      "Fruits et légumes",
+      "Charcuterie",
+      "Crèmerie",
+      "Poissonnerie",
+      "Boulangerie",
+      "Volailles",
+      "Vins",
+      "Produits bio et de la ferme"
+    ],
+    "description": "Le grand marché de la semaine : 150 à 160 commerçants et producteurs répartis sur quatre places du centre historique, autour de la cathédrale. Photo thématique : marché du faubourg, recadré ; elle ne montre pas le marché du samedi. Photo : Ville de Rodez (ville-rodez.fr, page « Marchés et foires » mise à jour le 16 septembre 2026), droits réservés.",
+    "telephone": "05 65 77 88 00",
+    "site_web": "https://www.ville-rodez.fr/quotidien/cadre-vie/marches-foires/",
+    "image_url": "/images/marchands/marche-du-samedi-rodez.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.350865,2.57588"
+  },
+  {
+    "slug": "halles-de-rodez",
+    "nom": "Les Halles de Rodez",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.349395,
+    "lon": 2.576803,
+    "adresse": "26 Place Eugène Raynaldy, 12000 Rodez",
+    "horaires": "Du mardi au vendredi de 8h30 à 13h30 et de 17h à 20h30 (primeurs et épicerie jusqu’à 19h), le samedi de 8h30 à 13h30 et de 16h à 20h30, le dimanche de 9h30 à 13h30.",
+    "produits": [
+      "Boucherie",
+      "Fruits et légumes",
+      "Épicerie"
+    ],
+    "description": "Marché couvert ouvert en 2025 face à l’hôtel de ville, quatorze stands de commerces de bouche ouverts six jours sur sept, avec un brunch le dimanche matin. Photo thématique : place du Bourg un soir d’été, recadrée ; elle ne montre pas les halles. Photo : Ville de Rodez (ville-rodez.fr, page « Marchés et foires » mise à jour le 16 septembre 2026), droits réservés.",
+    "telephone": "05 65 77 88 00",
+    "site_web": "https://leshallesrodez.fr/",
+    "image_url": "/images/marchands/halles-de-rodez.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.349395,2.576803"
+  },
+  {
+    "slug": "halles-de-l-aveyron-onet-le-chateau",
+    "nom": "Les Halles de l'Aveyron",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "transport"
+    ],
+    "lat": 44.371441,
+    "lon": 2.589219,
+    "adresse": "Boulevard des Balquières, 12850 Onet-le-Château",
+    "horaires": "Du lundi au samedi de 9h à 12h30 et de 14h à 19h.",
+    "produits": [
+      "Viandes",
+      "Volailles",
+      "Foies gras",
+      "Charcuteries",
+      "Crèmerie et fromages",
+      "Boulangerie",
+      "Vins",
+      "Épicerie"
+    ],
+    "description": "Magasin de la coopérative agricole aveyronnaise, un marché couvert de plus de 700 m² dont l’essentiel des références vient d’éleveurs et de producteurs du département. À 2,7 km de la mairie de Rodez, dans Rodez Agglomération. Photo thématique : rucher municipal d’Onet-le-Château ; elle ne montre pas le magasin. Photo : Ville d’Onet-le-Château (onet-le-chateau.fr, page « Rucher municipal » mise à jour le 17 février 2022), droits réservés.",
+    "telephone": "05 65 67 88 50",
+    "site_web": "https://leshallesdelaveyron.com/magasins/le-magasin-de-rodez/",
+    "image_url": "/images/marchands/halles-de-l-aveyron-onet-le-chateau.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.371441,2.589219"
+  },
+  {
+    "slug": "les-fables-de-la-terre-concoures",
+    "nom": "Les Fables de la Terre",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.445483,
+    "lon": 2.646781,
+    "adresse": "Chemin de la Fontaine, Concourès, 12740 Sébazac-Concourès",
+    "horaires": "Vente à la ferme tous les jours de 9h à 19h ; également au marché de Marcillac-Vallon le dimanche matin.",
+    "produits": [
+      "Yaourts au lait de brebis",
+      "Fromages de brebis",
+      "Faisselles",
+      "Fromage blanc",
+      "Lait pasteurisé",
+      "Savons au lait de brebis"
+    ],
+    "description": "Élevage de brebis laitières certifié bio sur le causse Comtal, qui transforme tout son lait à la ferme en yaourts, fromages et savons. À 12 km de la mairie de Rodez, dans Rodez Agglomération. Photo : Les Fables de la Terre.",
+    "site_web": "https://lesfablesdelaterre.fr/",
+    "image_url": "/images/marchands/les-fables-de-la-terre-concoures.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.445483,2.646781"
   }
 ]
