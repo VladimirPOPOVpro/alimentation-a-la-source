@@ -4532,6 +4532,16 @@ prioritaires en cas de conflit.
      qui le reprend ne le remplace pas (règles 90 et 196). **Déblocage** : la page servie en clair à l'un des deux agents, ou le
      même fait publié ailleurs par la Ville.
 
+370. **Une liste de « catégories prioritaires » que le règlement d'un marché ne fait jouer qu'en cas de demandes excédentaires ne
+     nomme pas une famille de produits de ce marché au sens de la règle 197.** Le 28 septembre 2026, à Hondschoote, la Ville
+     publie le marché du vendredi (place du Général-de-Gaulle) à deux endroits, mais ne le décrit que « tous produits » ; son
+     règlement du 21 mars 2025 (article 4) dit que, si les demandes excèdent les places, la commune « se réserve le droit de
+     décider de catégories prioritaires » — métiers de bouche, alimentaires, fruits et légumes, habillement, beauté, artisanat.
+     **Tranché ainsi** : la clause de la règle 368 constatait une vente réelle, tolérée pour ce marché-là ; celle-ci énumère
+     une règle d'arbitrage hypothétique, qui range l'habillement au même titre que les fruits et légumes et ne dit pas ce qui
+     s'y vend. Elle reste la phrase générique de la règle 329. **Déblocage** : une famille de produits écrite par la Ville
+     comme constat (page, arrêté de tolérance, liste d'exposants).
+
 ## Marchands à confirmer
 
 789 fiches sur 894 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11856,6 +11866,93 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-cinquième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41** : rien n'a été publié depuis le dernier calcul (894 fiches) ; le classement ne change pas (règle 260) :
+**Nord (59)** premier non épuisé, **Moselle (57)** second (règle 248). La dernière passe publiée visait l'Occitanie : la règle
+41.c ne joue pas.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Leffrinckoucke, douze communes (règle 247). Contrôle à deux agents (règle 257) : la Ville de
+Rousies et l'office de tourisme de l'Avesnois répondent 200 à l'agent par défaut et 403 à l'agent nommé ; Rœulx ne sert qu'une
+page de maintenance. Neuville-Saint-Rémy, Raimbeaucourt et Avesnes-sur-Helpe servent le `robots.txt` qui ferme
+`/fileadmin/` aux agents d'IA (règle 294). Au registre bio, sur ces douze communes : grandes surfaces, grossistes,
+exploitations sous patronyme, un magasin biologique cessé (Avesnes-sur-Helpe), une ferme biologique d'insertion.
+
+1. **Leffrinckoucke** (4 078) — le jardin maraîcher d'insertion de la route de Furnes (légumes biologiques, vente au jardin en
+   semaine, paniers) a ses **faits entiers**, mais ses mentions légales et celles de son association nomment les
+   photographies (règle 231) ; la Ville les ferme aussi, et l'office de Dunkerque pose un « © » sous chacune (règle 305). Le
+   marché du vendredi midi, place de la Gare, n'a ni heures ni produits écrits par la Ville. **Zéro.**
+2. **Avesnes-sur-Helpe** (4 012) — le marché du vendredi (8h30-12h30) n'est situé qu'« en centre-ville » ; le magasin
+   biologique de réseau de la rue Prisse-d'Avesnes a ses **faits entiers**, mais ses mentions nomment les photographies ;
+   celles de la Ville aussi, sous `/fileadmin/` ; l'office refuse l'agent nommé. L'autre magasin biologique du registre est
+   cessé. **Zéro.**
+3. **Neuville-Saint-Rémy** (4 012) — marché connu d'une brève de 2020 seulement. **Zéro.**
+4. **Raimbeaucourt** (4 000) — deux fermes de l'office intercommunal ont leurs **faits entiers** (horaires servis en clair,
+   hors du chemin que le `robots.txt` réserve). L'une n'a qu'une photographie dont le nom de fichier porte un nom propre dont
+   on ne sait s'il est celui d'un photographe ou d'un exploitant (règle 339), et une seconde au nom de fichier de banque
+   d'images (règle 70) ; l'autre est écartée pour doute sur une personne (ci-dessous). Les commerçants ambulants de la place
+   Clemenceau (samedi : fruits et légumes, fromager ; vendredi : poissonnerie) ne sont pas publiés comme marché, et la Ville
+   ferme ses images. **Une fiche au mieux, zéro entière.**
+5. **Masny** (3 999) — mentions légales fermant les images ; marché mensuel décrit seulement en 2021. **Zéro.**
+6. **Rousies** (3 980) — la Ville refuse l'agent nommé ; l'épicerie biologique et locale de la rue de la Mairie a ses **faits
+   entiers**, mais sa seule vue du magasin montre un visage en gros plan (règle 70) et l'agglomération ferme ses images.
+   **Zéro.**
+7. **Hondschoote** (3 957) — une ferme de brebis à enseigne de lieu-dit (glaces et yaourts fermiers, boutique du vendredi de
+   mars à septembre) est **entière** : faits et photographie de son site, sans clause. Le marché du vendredi, publié deux fois
+   par la Ville avec une photographie permise, n'a pas de famille de produits (règle 370, née ici). **Une fiche entière, pas
+   deux (règle 127).**
+8. **Toufflers** (3 957) — aucun marché hebdomadaire ; la ferme en vente directe est sous patronyme. **Zéro.**
+9. **Maing** (3 954) — aucun marché ; l'ancienne ferme biologique est cessée au registre. **Zéro.**
+10. **Hasnon** (3 849) — marché du jeudi (8h30-12h30, place Clément-Larivière) décrit par une phrase générique (règle 197).
+    **Zéro.**
+11. **Rœulx** (3 743) — site de la Ville en maintenance (règle 237). **Zéro.**
+12. **Lourches** (3 734) — marché cité dans le seul titre d'un arrêté de 2020. **Zéro.**
+
+**Moselle, second département (règle 248)** — contrôle à deux agents : Villes de Sarrebourg et de Florange, 200 aux deux ;
+l'office de Sarrebourg refuse l'agent nommé ; le site intercommunal du Val de Fensch exclut tout agent.
+
+1. **Sarrebourg** (12 170), commune calculée — les Halles (mardi, mercredi, vendredi, samedi, dimanche 7h30-12h15, nocturnes le
+   mercredi et le vendredi) et le magasin de producteurs de la rue Dessirier (faits entiers à la base touristique régionale)
+   ont leurs faits ; les mentions légales de la Ville nomment les photographies, la base régionale crédite un photographe
+   sous « copyright ». Le marché bi-hebdomadaire n'a aucune famille de produits. **Zéro.**
+2. **Florange** (12 035) — marché du jeudi matin sans heures ni produits ; « © » posé sur les photographies de la Ville
+   (règle 291) ; les autres candidats sont une chaîne de cavistes et une boulangerie de réseau. **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : à Hondschoote, la Ville écrit 7h sur sa page de services et 8h dans son règlement de 2025 ; si la fiche
+part un jour, le règlement, plus récent, fait foi, avec `a_confirmer` (règle 5). À Sarrebourg, une distribution de paniers
+de producteurs aux Halles est donnée chaque jeudi par la Ville (2019) et un jeudi sur deux par un annuaire régional ; aucune
+trace d'activité récente. Aucune autre.
+
+**Fiches écartées pour doute sur une personne** : à Raimbeaucourt, une ferme maraîchère présentée par l'office sous un nom de
+famille et illustrée d'un portrait, et d'autres fermes de l'office et du registre sous patronyme ; à Toufflers, Maing, Rœulx et
+Hasnon, des exploitations sous patronyme ; à Masny, un élevage de poules présenté par la presse à travers des personnes ; à
+Avesnes-sur-Helpe, une boulangerie sous patronyme ; à Florange, des producteurs sous patronyme. Non instruites, elles ne se
+rouvrent pas. Les noms d'exploitants, de dirigeants et de photographes que citent les pages consultées ne sont repris nulle
+part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Templemars** (3 669). Dans la **Moselle**, à
+**Maizières-lès-Metz** (11 580).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Leffrinckoucke (jardin maraîcher d'insertion), Avesnes-sur-Helpe (magasin biologique de réseau), Sarrebourg (Halles et
+  magasin de producteurs) : faits entiers. **Déblocage** : une photographie du lieu, ou thématique de la commune, publiée sans
+  interdiction de reprise, et une seconde fiche entière dans la commune.
+- Rousies, épicerie biologique et locale : faits entiers. **Déblocage** : une vue du magasin sans visage, et une seconde fiche.
+- Raimbeaucourt, ferme d'asperges et de fruits : faits entiers. **Déblocage** : une photographie dont le fichier ne porte aucun
+  nom propre, et une seconde fiche entière dans la commune.
+- Hondschoote, ferme de brebis : **entière**. **Déblocage** : une seconde fiche entière dans la commune, par exemple le marché
+  du vendredi si la Ville écrit ce qu'on y vend.
+- Hasnon (marché du jeudi), Florange (marché du jeudi), Sarrebourg (marché bi-hebdomadaire) : **Déblocage** : une famille de
+  produits propre au marché, écrite par la Ville.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-quatrième) : Nord et Moselle, aucune publication
 
