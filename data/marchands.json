@@ -24068,5 +24068,106 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20de%20Lyon%2063430%20Pont-du-Ch%C3%A2teau",
     "image_url": "/images/marchands/marche-du-samedi-pont-du-chateau.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-jeudi-sarralbe",
+    "nom": "Marché du jeudi de Sarralbe",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.999848,
+    "lon": 7.030079,
+    "adresse": "Place de la République et rue Poincaré, 57430 Sarralbe",
+    "horaires": "Le jeudi de 8h à 12h, place de la République et rue Poincaré, sauf jours fériés et situations exceptionnelles (page « Marché hebdomadaire » de la Ville).",
+    "produits": [
+      "Viande (boucher)",
+      "Charcuterie",
+      "Fromages",
+      "Fruits et légumes (primeur)"
+    ],
+    "description": "Petit marché hebdomadaire du centre de Sarralbe, devant la mairie ; la Ville y annonce un boucher, un fromager, un charcutier et un primeur, avec une offre qui change selon les saisons. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "site_web": "https://www.sarralbe.fr/marches-hebdomadaires",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2057430%20Sarralbe",
+    "image_url": "/images/marchands/marche-du-jeudi-sarralbe.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "petit-veganne-sarralbe",
+    "nom": "Petit Veganne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.9848,
+    "lon": 7.02614,
+    "adresse": "3 Rue du Colonel Blondel, 57430 Sarralbe",
+    "horaires": "Point de vente à l'atelier : du lundi au vendredi de 8h à 16h, le samedi de 8h à 14h (FAQ du site). Réservation conseillée, en ligne (retrait « chez Petit Veganne ») ou par courriel.",
+    "produits": [
+      "Alternatives végétales au fromage affinées",
+      "Spécialités végétales fraîches",
+      "Spécialités végétales à tartiner",
+      "Noix de cajou bio"
+    ],
+    "description": "Atelier artisanal de Sarralbe qui fabrique sur place, depuis 2017, des spécialités végétales bio à base de noix de cajou fermentées et affinées, vendues au comptoir de l'atelier, en face du drive du supermarché ; la noix de cajou n'est pas locale, la transformation l'est. Engagé en agriculture biologique chez Bureau Veritas depuis mars 2018 au registre de l'Agence Bio. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas l'atelier.",
+    "telephone": "03 87 97 00 62",
+    "site_web": "https://petit-veganne.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3%20Rue%20du%20Colonel%20Blondel%2057430%20Sarralbe",
+    "image_url": "/images/marchands/petit-veganne-sarralbe.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bi-hebdomadaire-sarreguemines",
+    "nom": "Marché bi-hebdomadaire de Sarreguemines",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.111374,
+    "lon": 7.065144,
+    "adresse": "Place du Marché, 57200 Sarreguemines",
+    "horaires": "Le mardi et le vendredi de 7h30 à 12h30, rue de l'Église, passage du Marché, rue et place du Marché (page « Foires, fêtes foraines et marchés » de la Ville, 2026). Avancé au jeudi quand le vendredi est férié.",
+    "produits": [
+      "Poisson",
+      "Crustacés et fruits de mer",
+      "Viandes",
+      "Volailles et gibier"
+    ],
+    "description": "Marché des mardis et vendredis matin de la vieille ville de Sarreguemines, à 12,7 km de la mairie de Sarralbe ; le règlement municipal des marchés le réserve en priorité aux denrées alimentaires et y encadre la vente du poisson, des crustacés, des viandes et des volailles. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "site_web": "https://www.sarreguemines.fr/page/167-foires-fetes-foraines-et-marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20March%C3%A9%2057200%20Sarreguemines",
+    "image_url": "/images/marchands/marche-bi-hebdomadaire-sarreguemines.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "l-art-du-pain-puttelange-aux-lacs",
+    "nom": "L'Art du Pain",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.051763,
+    "lon": 6.930416,
+    "adresse": "43 Rue Wilson, 57510 Puttelange-aux-Lacs",
+    "horaires": "Du mardi au vendredi de 5h30 à 18h30, le samedi de 6h30 à 13h, le dimanche de 7h à 12h. Fermé le lundi (site de la boulangerie).",
+    "produits": [
+      "Pain au levain",
+      "Baguette",
+      "Croissants et pains au chocolat",
+      "Éclairs et mille-feuilles"
+    ],
+    "description": "Boulangerie artisanale de Puttelange-aux-Lacs, à 9,3 km de la mairie de Sarralbe, qui fait tout sur place et met le pain au levain en avant ; son site décrit une farine Label Rouge de blés du Loiret et de l'Yonne. Engagée en agriculture biologique pour le pain frais depuis juillet 2026 au registre de l'Agence Bio. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la boulangerie.",
+    "telephone": "03 87 09 05 22",
+    "site_web": "https://www.boulangerielartdupain.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43%20Rue%20Wilson%2057510%20Puttelange-aux-Lacs",
+    "image_url": "/images/marchands/l-art-du-pain-puttelange-aux-lacs.jpg",
+    "a_confirmer": true
   }
 ]

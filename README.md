@@ -4562,9 +4562,25 @@ prioritaires en cas de conflit.
      elles ferment une source, elles ne ferment plus la fiche. Premier usage : la passe du 28 septembre 2026
      (quatre-vingt-septième), qui publie la zone de Saint-André-lez-Lille.
 
+372. **Un `robots.txt` qui écrit deux groupes `User-agent: *` se lit comme un seul groupe : un `Disallow: /` dans l'un ferme
+     le site, même quand l'autre n'interdit qu'un répertoire.** Le 28 septembre 2026, l'office de tourisme de l'Alsace Bossue
+     sert la fiche d'un charcutier-traiteur qui se dit présent au marché du jeudi de Sarralbe et tient un distributeur à
+     Willerwald ; son `robots.txt` ouvre par `User-agent: *` / `Disallow: /admin/`, ouvre ensuite le site aux seuls robots de
+     Google, puis finit par `User-agent: *` / `Disallow: /`. La norme des `robots.txt` (RFC 9309) fusionne les groupes qui
+     visent le même agent. **Tranché ainsi** : le site est fermé au robot par lequel cette carte travaille, comme sous la règle
+     282 ; sa fiche ne documente ni le marché de Sarralbe (règle 122) ni le distributeur de Willerwald, qui n'a pas d'autre
+     source que la page non datée de sa commune et pas d'établissement au registre à cette adresse (règle 6). **Déblocage** :
+     la même information publiée par une autorité lisible, ou le retrait de la seconde interdiction.
+
 ## Marchands à confirmer
 
-798 fiches sur 904 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+802 fiches sur 908 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du jeudi de Sarralbe**, **Petit Veganne** (Sarralbe), **Marché bi-hebdomadaire de Sarreguemines** et **L'Art du
+  Pain** (Puttelange-aux-Lacs) (passe du 28 septembre 2026, quatre-vingt-dixième) : photographies thématiques CC0 pour les
+  quatre (règle 371) ; marché de Sarralbe publié sur la seule page de la Ville (règle 178) ; téléphone de Petit Veganne
+  contesté (03 87 97 00 62 sur son site, 03 87 97 28 61 sur l'annuaire de la Ville, le site du commerce retenu, règle 104) ;
+  pour L'Art du Pain, certificat bio engagé en juillet 2026 alors que le site décrit une farine Label Rouge, d'où l'absence
+  du pilier `environnement` (règle 39).
 - **Marchés du vendredi et du samedi de Cournon-d'Auvergne**, **marché du mardi de Lempdes**, **marché du vendredi de
   Pérignat-lès-Sarliève** et **marché du samedi de Pont-du-Château** (passe du 28 septembre 2026, quatre-vingt-huitième) :
   photographies thématiques CC0 pour les cinq (règle 371) ; dimanche du marché de producteurs de Cournon contesté (2e selon la
@@ -11896,6 +11912,100 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-dixième) : Sarralbe (Moselle), quatre fiches dans Sarreguemines Confluences ; Val-de-Marne sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 904 fiches avant la passe),
+outre-mer écarté (règle 177), départements épuisés sautés (règle 265) : **Moselle (57) 3,7831** premier non épuisé,
+**Val-de-Marne (94) 3,7076** second (règle 248). La dernière passe publiée visait l'Auvergne-Rhône-Alpes : aucun des deux
+n'est touché par la règle 41.c. `origin/main` n'avait pas bougé au moment de publier (règle 241). **Après la passe**, sur 908
+fiches : Moselle −0,16 ; en tête, Val-de-Marne 3,7904, Orne 3,6240, Ardennes 3,5014, Tarn-et-Garonne 3,5004. La prochaine passe
+ne peut pas viser le Grand Est (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). Non réinstruit : aucun des deux déblocages nommés n'a paru ; trois
+points.
+
+**Moselle, reprise d'abord (règle 247)** : les déblocages nommés de Marly, Behren-lès-Forbach et Bitche ne sont pas atteints.
+**Descente reprise à Ars-sur-Moselle.** Contrôle à deux agents (règle 257) : les Villes répondent 200 aux deux, sauf celle de
+Longeville-lès-Saint-Avold, qui ne répond pas (règle 237).
+
+1. **Ars-sur-Moselle** (4 616) — marché du vendredi « matin », pour des « produits frais », sans heures (règles 9 et 197). **Zéro.**
+2. **Sainte-Marie-aux-Chênes** (4 519) — aucun marché ni producteur dans l'annuaire des commerces de la Ville. **Zéro.**
+3. **Sarralbe** (4 364) — **deux fiches entières** : le marché du jeudi (8h-12h, place de la République et rue Poincaré ;
+   boucher, fromager, charcutier et primeur écrits par la page « Marché hebdomadaire » de la Ville) et **Petit Veganne**,
+   atelier de spécialités végétales bio qui fabrique et vend sur place (règle 73 ; société active à cette adresse, code
+   10.39B ; certificat Bureau Veritas engagé depuis mars 2018 ; heures du point de vente publiées dans la FAQ de son site).
+   Les deux sites ferment leurs images — conditions générales de Petit Veganne, mentions de la boulangerie ci-dessous (règle
+   231) — et la Ville n'en publie aucune pour le marché : photographies thématiques CC0 (règle 371). Sarreguemines
+   Confluences complète le groupe (règles 96, 127 et 363 ; distances à vol d'oiseau depuis la mairie de Sarralbe, 1 place de
+   la République, point de l'annuaire de l'administration) :
+
+   1. **Marché du jeudi de Sarralbe** (0,0 km). Photographie : https://www.flickr.com/photos/9561097@N08/20054931561 (CC0).
+   2. **Petit Veganne** (1,7 km). Photographie : https://www.flickr.com/photos/155753322@N06/43712542021 (CC0), recadrée
+      pour retirer l'adresse de site incrustée en pied d'image.
+   3. **Marché bi-hebdomadaire de Sarreguemines** (12,7 km) — faits entiers au titre de la règle 368, relus en entier dans la
+      passe (règle 357) : page « Foires, fêtes foraines et marchés » de la Ville (2026) pour les jours, heures et rues ;
+      règlement des marchés du 7 avril 2025, lu par reconnaissance de caractères, pour le poisson, les crustacés et fruits de
+      mer (article sur l'ouverture) et les viandes, volailles et gibier (article sur la propreté). Photographie :
+      https://www.flickr.com/photos/92947007@N03/26610480551 (CC0).
+   4. **L'Art du Pain**, Puttelange-aux-Lacs (9,3 km) — boulangerie qui fabrique et vend sur place (règle 73) ; société active
+      au 43 rue Wilson, code 10.71C ; heures et téléphone publiés par son propre site et ses mentions légales ; certificat
+      Certipaq engagé le 8 juillet 2026 pour le pain frais. Photographie : https://www.flickr.com/photos/93936679@N05/36682456853
+      (CC0).
+
+   **Aucun cinquième point** : la Ville et la base touristique de la Moselle (`mosl.fr`, dont le `robots.txt` exclut
+   nommément `Bytespider`, règle 149) sont les seules sources des heures de la fromagerie fermière de Wiesviller ; le site de
+   l'AMAP de Sarreguemines et Saint-Avold ne répond plus et l'annuaire national ne la date pas (règle 195) ; le magasin de
+   réseau de Sarreguemines ne nomme aucun producteur local (règle 86) ; le distributeur automatique d'un charcutier à
+   Willerwald n'a ni établissement au registre à cette adresse ni source lisible (règle 372) ; le magasin de la ferme de
+   Sarreguemines vers lequel pointent les annuaires sert une page d'hébergeur vide ; le grand marché des producteurs de
+   l'agglomération est annuel (règle 52). **Quatre points : la passe publie à quatre (règle 320).** Sarralbe fait la passe.
+
+**Criblage mené au-delà de Sarralbe.** Le quatrième point n'est apparu qu'après que la descente a été poursuivie ; les
+communes suivantes ont été éprouvées et comptent comme telles (règle 301, appliquée par analogie) :
+
+4. **Nilvange** (4 341) — aucun marché publié par la Ville. **Zéro.**
+5. **Serémange-Erzange** (4 251) — seuls des marchés de fête (Saint-Nicolas). **Zéro.**
+6. **Longeville-lès-Metz** (4 102) — marché du premier dimanche du mois, sans heures, sans lieu, sans produits. **Zéro.**
+7. **Folschviller** (3 916) — aucun marché publié ; au registre bio, des exploitations en entreprise individuelle. **Zéro.**
+8. **Clouange** (3 824) — aucun marché publié. **Zéro.**
+9. **Bouzonville** (3 721) — le marché hebdomadaire n'est décrit que par des annuaires et l'office de tourisme, pas par la
+   Ville (règle 196). **Zéro.**
+10. **Créhange** (3 691) — aucun marché publié ; le maraîchage bio de la zone artisanale a un certificat arrêté et aucun
+    horaire. **Zéro.**
+11. **Longeville-lès-Saint-Avold** (3 572) — site de la Ville muet (règle 237). **Zéro.**
+12. **Saint-Julien-lès-Metz** (3 554) — page des commerces vide. **Zéro.**
+
+**Val-de-Marne, deux communes (règle 248)**, éprouvées avant que le groupe de Sarralbe n'atteigne quatre points :
+
+1. **Charenton-le-Pont** (28 830) — le marché du centre a ses **faits entiers** (mercredi et samedi 8h-13h, halle couverte et
+   abords de la place du centre, étals décrits par la Ville). Pas de seconde fiche : l'AMAP de la commune n'a aucune source datée (son
+   site ne date rien après 2021, son annuaire tiers non plus, sa plateforme d'adhésion refuse tout agent ; règle 195) ; la
+   boulangerie bio de la rue de Paris ne publie aucun horaire (règle 192) ; l'épicerie de vrac et le magasin de réseau ne
+   nomment aucun producteur (règle 86). **Une fiche entière, seule.**
+2. **Sucy-en-Brie** (27 764) — la Ville publie les jours du marché couvert (mercredi et samedi, rue des Fontaines), sans heure
+   ni composition sur les pages lisibles. **Zéro.**
+
+**Contradictions** : téléphone de Petit Veganne (règle 104, voir « Marchands à confirmer ») ; adresse de la fromagerie de
+Wiesviller (4 rue Principale au registre, 8 à l'annuaire de la Ville), non publiée. Aucune autre sur une fiche publiée.
+
+**Fiches écartées pour doute sur une personne** : à Rouhling, un verger bio immatriculé sous le patronyme de son exploitant ;
+à Woustviller, un rucher présenté sous le nom de son apiculteur ; au Val-de-Guéblange, une exploitation de baies présentée
+par la presse sous le nom de son exploitant ; à Sarreguemines, une boulangerie en nom propre ; à Folschviller, deux
+exploitations en entreprise individuelle. Non instruites, elles ne se rouvrent pas. Les noms d'exploitants, d'élus, de
+bénévoles et de producteurs d'AMAP que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans la **Moselle**, la descente reprend à **Cocheren** (3 358). Dans le **Val-de-Marne**, à
+**Limeil-Brévannes** (27 406).
+
+**Pistes non publiées (Moselle et Val-de-Marne)** — lignes anonymes :
+
+- Groupe de Sarralbe : **Déblocage** d'un cinquième point — des heures de vente publiées par la ferme fromagère de Wiesviller
+  ou par une source lisible, ou une source datée pour l'AMAP de Sarreguemines.
+- Charenton-le-Pont, marché du centre : faits entiers. **Déblocage** : une seconde fiche entière dans la commune (par exemple
+  une page datée de l'AMAP, ou des horaires publiés par la boulangerie bio).
+- Sucy-en-Brie, marché couvert : **Déblocage** : des heures et une composition écrites par la Ville.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-neuvième) : Moselle et Val-de-Marne, aucune publication
 
