@@ -11913,6 +11913,93 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-onzième) : Val-de-Marne et Orne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 908 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Val-de-Marne (94) 3,7904** premier non épuisé, **Orne (61) 3,6240**
+second (règle 248), Ardennes 3,5014 et Tarn-et-Garonne 3,5004 ensuite. La passe précédente a publié en Moselle : le Grand Est est
+réservé (règle 41.c), ce qui ne touche aucun des deux départements. Rien n'étant publié, le classement ne bouge pas (règle 260)
+et la réserve reste celle du Grand Est pour la passe suivante.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Val-de-Marne, reprise d'abord (règle 247)** : les déblocages nommés de Charenton-le-Pont, Sucy-en-Brie et Fresnes ne sont pas
+atteints. **Descente reprise à Limeil-Brévannes**, douze communes. Contrôle à deux agents (règle 257) sur chaque site de Ville.
+
+1. **Limeil-Brévannes** (27 406) — marché du mercredi et du samedi (8h-14h, place du Marché, rue Louis-Sallé) et grand marché
+   mensuel, publiés par la Ville (page mise à jour en août 2026) sans une seule famille de produits (règle 197). Au registre bio,
+   un grossiste et deux sièges sans vente aux particuliers. **Zéro.**
+2. **Orly** (24 658) — la Ville répond 200 à l'agent par défaut et coupe la connexion (444) à l'agent nommé : exclue (règle 257).
+   Le registre bio n'y compte que des grossistes et un hypermarché. **Zéro.**
+3. **Le Kremlin-Bicêtre** (24 110) — la Ville publie le marché forain (mardi, jeudi et dimanche 8h-14h, avenue Eugène-Thomas,
+   pôle alimentaire côté impair) ; la seule phrase de composition (« produits issus du terroir ou de l'agriculture biologique »)
+   ne nomme aucune famille (règle 197), et le règlement de 6,2 Mo n'a pas été relu. Le magasin de réseau de l'avenue de
+   Fontainebleau n'a pas été instruit faute de marché entier à ses côtés. **Zéro.**
+4. **Arcueil** (22 200) — aucune page de marché dans le plan du site de la Ville ; les jours ne sont publiés que par des
+   annuaires tiers (règle 196). Au registre bio, des enseignes de réseau et un hypermarché. **Zéro.**
+5. **Le Plessis-Trévise** (21 112) — le marché a ses **faits entiers** (mercredi et samedi 8h-12h30, halle couverte et esplanade
+   du 7-Juillet-1899 ; poissonniers, fromagers, boucher, volailler, charcutier, fruits et légumes, boulangères écrits par la
+   Ville). Aucun opérateur bio au registre, aucune AMAP ni producteur publié. **Une fiche entière, seule.**
+6. **Saint-Mandé** (21 071) — le site de la Ville n'ouvre aucune connexion, à l'un comme à l'autre agent (règle 237). **Zéro.**
+7. **Villeneuve-le-Roi** (21 000) — le marché de la Faisanderie a ses **faits entiers** (mardi, vendredi et dimanche 8h-13h,
+   halle provisoire du 55 rue du Général-de-Gaulle ; primeurs, rôtisseur, boulanger, volaillers, fromager écrits par la Ville,
+   page mise à jour en octobre 2024). Aucun opérateur bio au registre. **Une fiche entière, seule.**
+8. **Gentilly** (19 963) — la Ville répond 403 aux deux agents (règle 237). **Zéro.**
+9. **Chevilly-Larue** (19 826) — marché du mercredi et du samedi (11h-19h30, place Nelson-Mandela) publié comme « marché
+   alimentaire » sans aucune famille (règle 197) ; au registre bio, les grossistes du marché international. **Zéro.**
+10. **Chennevières-sur-Marne** (18 710) — aucune page de marché trouvée sur le site de la Ville. **Zéro.**
+11. **Bry-sur-Marne** (18 503) — marché du mercredi et du dimanche (8h-13h, parvis de l'Hôtel de Ville) sans composition
+    (règle 197). **Zéro.**
+12. **Bonneuil-sur-Marne** (18 270) — marché du mercredi (12h-18h) et du dimanche (7h-13h) sans lieu ni composition sur la page
+    de la Ville. **Zéro.**
+
+**Orne, deux communes (règle 248)** :
+
+1. **Alençon** (25 490) — la Ville (`alencon.fr`) et la Communauté urbaine (`cu-alencon.fr`) répondent 200 à l'agent par défaut
+   et 403 à l'agent nommé : exclues (règle 257), avec la carte des producteurs locaux de la Communauté urbaine. Les trois marchés
+   (Perseigne, centre-ville, Courteille) ne sont plus publiés que par l'office de tourisme (règle 196). **Biocoop Alençon Sud**
+   (171 avenue du Général-Leclerc) a ses **faits entiers** : société active à cette adresse, certificat Bureau Veritas engagé
+   depuis janvier 2018, horaires jour par jour et liste de quarante-quatre producteurs locaux publiés par le magasin lui-même
+   (règles 86 et 273), images fermées par ses conditions générales (photographie thématique CC0 possible, règle 371). Pas de
+   seconde fiche : l'épicerie biologique indépendante de la rue André-Mazeline ne nomme aucun producteur (règle 361) ; la
+   boulangerie biologique de la rue du Collège n'a d'horaires que sur deux annuaires qui se contredisent et ne parlent pas à sa
+   place (règle 236) ; la boucherie biologique de la rue Cazault n'a d'horaires que sur des annuaires ; le brewpub de la rue du
+   Bercail vend sa bière à la pression, à consommer sur place (hors sujet). **Une fiche entière, seule.**
+2. **Flers** (14 432) — le site commun de la Ville et de Flers Agglo publie les marchés (mercredi et samedi 7h-13h, place
+   Saint-Germain et marché couvert ; vendredi 7h-13h, place Saint-Jean) sans composition ; l'office Montagnes de Normandie
+   n'en donne qu'une phrase commune à tous les marchés du territoire (règles 197 et 329). **La Source Verte** (Biocoop, 108 rue
+   des Méletières) a ses **faits entiers** : certificat engagé depuis mars 2006, horaires et producteurs locaux publiés par le
+   magasin. L'AMAP de la ville publie son créneau (vendredi 17h-20h) sans lieu ni date, et sa plateforme de commande est un
+   formulaire de connexion (règles 195 et 369). **Une fiche entière, seule.**
+
+**Contradictions** : horaires de la boulangerie biologique d'Alençon (7h-19h30 sur un annuaire, 6h45-19h45 sur un autre), non
+publiés ; horaires du brewpub d'Alençon, qui diffèrent d'une page à l'autre de son propre site, non retenus (hors sujet).
+
+**Fiches écartées pour doute sur une personne** : à Alençon, un drive fermier dont le point de retrait n'est rattaché à aucune
+entreprise ni à aucun équipement public (doute sur un domicile) et dont la page publie le prénom et le portable de son
+animateur ; à Saint-Céneri-le-Gérei, une chèvrerie présentée par l'office sous le prénom de son exploitante. Non instruites,
+elles ne se rouvrent pas. Les noms de gérants, d'élus, de présidents d'unions commerciales et de producteurs que citent les
+pages consultées (magasins de réseau, office, Ville de Flers) ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Val-de-Marne**, la descente reprend à **Boissy-Saint-Léger** (17 325). Dans l'**Orne**, à
+**Argentan** (13 527).
+
+**Pistes non publiées (Val-de-Marne et Orne)** — lignes anonymes :
+
+- Le Plessis-Trévise, marché de la halle : faits entiers. **Déblocage** : une seconde fiche entière dans la commune.
+- Villeneuve-le-Roi, marché de la Faisanderie : faits entiers (halle provisoire, page d'octobre 2024 à relire au moment de
+  publier). **Déblocage** : une seconde fiche entière dans la commune.
+- Le Kremlin-Bicêtre, marché forain : **Déblocage** : une famille de produits écrite par la Ville ou par son règlement (règle 368).
+- Alençon, magasin biologique de réseau de l'avenue du Général-Leclerc : faits entiers. **Déblocage** : une seconde fiche
+  entière dans la commune (par exemple le retrait du filtrage de la Ville, qui rouvrirait ses marchés, ou des horaires publiés
+  par la boulangerie biologique elle-même). Son magasin jumeau de Condé-sur-Sarthe et le marché de producteurs du vendredi soir
+  que l'office signale à Condé-sur-Sarthe compléteraient alors le groupe au titre de la règle 96, après relecture entière.
+- Flers, magasin biologique de réseau de la rue des Méletières : faits entiers. **Déblocage** : une seconde fiche entière dans
+  la commune (une composition propre à l'un des marchés, ou un lieu et une source datée pour l'AMAP). Le magasin de producteurs
+  de Saint-Georges-des-Groseillers, fiché par l'office, serait alors le premier complément à instruire.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-dixième) : Sarralbe (Moselle), quatre fiches dans Sarreguemines Confluences ; Val-de-Marne sans zone
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
