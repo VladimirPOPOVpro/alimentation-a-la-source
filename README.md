@@ -4623,6 +4623,17 @@ prioritaires en cas de conflit.
      et le téléphone fixe que le commerce publie pour sa clientèle, sans `site_web`. Un nom qui n'apparaît que sur une page
      intérieure (historique, équipe) ne retire pas le lien. **Déblocage** : une page d'accueil qui ne nomme personne.
 
+377. **La règle 376 vaut pour toute personne nommée sur la page d'accueil, pas seulement pour l'exploitant.** Le 28 septembre
+     2026, trois commerces instruits portent sur leur page d'accueil des noms qui ne sont pas ceux de leur exploitant : une
+     épicerie d'Abbeville y affiche des avis de clients signés d'un prénom et d'une initiale, une brasserie du Grand Dole y
+     crédite nommément ses photographes, un fournil du même territoire y nomme les paysans qui lui fournissent sa farine. La
+     règle 376 parlait de l'exploitant ; son motif — le visiteur envoyé par la carte lit un nom sans rien faire — vaut pour
+     n'importe quelle personne. **Tranché ainsi** : un nom de personne lu sur la page d'accueil, quelle que soit la personne,
+     retire le `site_web` de la fiche ; l'enseigne, l'adresse, les horaires et le fixe publiés pour la clientèle restent, et la
+     fiche n'est pas écartée pour autant (ce n'est pas un doute sur une personne de la fiche, qui n'en nomme aucune). Un nom lu
+     seulement sur une page intérieure (mentions légales, historique) ne retire pas le lien, comme à la règle 376.
+     **Déblocage** : une page d'accueil qui ne nomme personne.
+
 ## Marchands à confirmer
 
 818 fiches sur 924 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -11987,6 +11998,116 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-seizième) : Somme et Jura, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 924 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Somme (80) 3,5768** premier non épuisé, **Jura (39) 3,4570** second
+(règle 248), Indre-et-Loire 3,2997 ensuite. La dernière passe publiée visait l'Occitanie (Tarn-et-Garonne) : les
+Hauts-de-France et la Bourgogne-Franche-Comté ne sont pas réservés (règle 41.c). Rien n'étant publié, le classement ne bouge pas
+et la réserve reste celle de l'Occitanie pour la passe suivante.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Somme, douze communes (règle 247)**, d'Abbeville, commune calculée, à Friville-Escarbotin. Contrôle à deux agents (règle 257)
+sur chaque site. Hors des Villes : l'office de tourisme de la Baie de Somme répond 503 à l'agent nommé et 200 à l'agent par
+défaut, `somme-tourisme.com`, `biocoop.fr` et l'annuaire de la Chambre d'agriculture `ouacheterlocal.fr` 403 contre 200, l'office
+de Péronne Haute-Somme 403 contre 200 : exclus (règle 257) ; le site de la Communauté d'agglomération de la Baie de Somme n'ouvre
+son `robots.txt` qu'aux moteurs de recherche (`User-agent: *` suivi de `Disallow: /`, règle 77) ; `abbeville-tourisme.com` est
+une page d'attente. Registre de l'Agence Bio parcouru en entier sur la Somme (592 opérateurs).
+
+1. **Abbeville** (22 395) — **deux fiches entières, désignées pour la reprise (règle 258)**. Le **marché alimentaire de la halle
+   municipale** : jeudi et samedi 7h30-13h30, place Jacques-Becq, sur la page « Marché municipal » de la Ville (modifiée le 17
+   septembre 2026), qui écrit aussi les métiers (poissonnier, rucher, maraîcher, boucherie, fromages, charcuterie, huîtres à la
+   buvette du marché) ; second endroit du site (règle 178) : l'article de la Ville du 19 septembre 2026 sur un boucher de la
+   halle, qui décrit le samedi matin « dès 7 heures » — ce n'est pas une heure d'ouverture, la page du marché fait foi. Point :
+   la place du Marché Jacques-Becq à la Base (0,683, `[1.834002, 50.104481]`), à relire au moment de publier (règle 166). Le
+   marché de plein air non alimentaire du jeudi, même place, n'est pas une fiche. L'épicerie fine **Au Temps des Mets**, 18
+   parvis Saint-Vulfran : société active à cette adresse, horaires publiés sur son propre site (lundi 14h-19h, mardi au samedi
+   9h30-12h15 et 14h-19h), fixe publié, produits de brasseries de Picardie et de la baie de Somme nommés par leur enseigne
+   (règle 361 remplie) ; photographies fermées par ses mentions légales (image thématique CC0, règle 371) ; pas de `site_web`,
+   sa page d'accueil publiant des avis signés de clients (règle 377, nouvelle) ; point au numéro (0,962, `[1.831388,
+   50.105271]`). **L'agglomération ne complète pas** : toutes les sources intercommunales sont fermées (voir plus haut), le
+   marché de producteurs du vendredi de Longpré-les-Corps-Saints (14 km) n'est publié ni par sa commune ni par une source
+   ouverte, et le seul magasin biologique de réseau d'Abbeville ne publie aucun producteur local (règle 86).
+2. **Albert** (9 521) — la Ville ne publie qu'un « marché hebdomadaire » sur l'espace Leturcq, sans heures ni composition
+   (règle 197) ; le magasin de réseau de la rue de Birmingham ne nomme aucun producteur local (règle 86). **Zéro.**
+3. **Péronne** (7 090) — la Ville sert l'agent nommé (200) et renvoie 403 à l'agent par défaut, ce qui n'est pas un refus du
+   robot (règle 257 non ouverte) : son marché du samedi (7h-13h, une vingtaine de producteurs place André-Audinot : fromage,
+   volaille, poisson, viande, charcuterie) n'est publié qu'à un seul endroit du site, et l'office qui le recense aussi refuse
+   l'agent nommé (règle 178 non remplie). **Zéro.**
+4. **Corbie** (5 982) — la Ville publie le marché du vendredi et le marché des producteurs du mercredi, place de la République,
+   sans heures ni produits ; l'office du Val de Somme non plus (règle 197). La brasserie artisanale de la rue Jules-Lardière
+   (société active, horaires à l'office) serait un point, seule. **Zéro.**
+5. **Montdidier** (5 935) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé : exclue (règle 257) ; la
+   Communauté de communes du Grand Roye ne donne que « le jeudi ». **Zéro.**
+6. **Roye** (5 833) — marché du vendredi matin, place Jacques-Fleury, sans heures ; le magasin bio de la rue Saint-Pierre est
+   fermé au registre. **Zéro.**
+7. **Doullens** (5 751) — aucune page de marché sur le site de la Ville. **Zéro.**
+8. **Longueau** (5 680) — l'annuaire des commerces de la Ville ne porte aucun commerce en circuit court. **Zéro.**
+9. **Villers-Bretonneux** (4 647) — marché du mercredi matin, place du Général-de-Gaulle, sans heures ni composition. **Zéro.**
+10. **Ham** (4 378) — le marché n'est publié que par un visuel de 2020. **Zéro.**
+11. **Camon** (4 359) — la page « Producteurs locaux » de la Ville donne trois pistes, aucune entière (voir plus bas). **Zéro.**
+12. **Friville-Escarbotin** (4 306) — marché du vendredi 15h-19h, place de la Mairie, sans composition (règle 197). **Zéro.**
+
+**Jura, deux communes (règle 248)** :
+
+1. **Dole** (23 840) — la Ville (`doledujura.fr`) ne publie aucune page de marché. Les halles et le marché extérieur de la place
+   Nationale (halles mardi et jeudi 8h-13h, vendredi 14h-19h, samedi 8h-13h30 ; extérieur jeudi et samedi 8h-13h) ne sont
+   publiés que par l'office de commerce du Grand Dole et par le comité régional du tourisme, deux relais (règle 196) ; ils font
+   une seule fiche (règle 42). Le marché bio du jeudi soir, cours Saint-Mauris, est tenu par une association qui ne publie
+   elle-même que sur un réseau social (règle 196). **Biocoop Réponse Nature**, 65 avenue Eisenhower, a ses **faits entiers** :
+   société active, horaires (lundi au samedi 9h-19h) et trente producteurs locaux publiés sur le site du magasin
+   (`reponsenature.biocoop.net`, 200 aux deux agents ; règles 86 et 145). Dans le Grand Dole, la brasserie du Mont-Roland à
+   Jouhe (société active) n'a d'horaires qu'au comité régional, pour une saison close le 30 septembre 2026. **Une fiche
+   entière, seule.**
+2. **Lons-le-Saunier** (16 618) — la Ville publie quatre marchés (jeudi matin place de Verdun, mercredi 16h-19h place du
+   11-Novembre, samedi 8h-13h cours Sully), sans une famille de produits (règle 197). **Biocoop En Vie Bio**, 22 avenue
+   Camille-Prost, a ses **faits entiers** : société active, horaires et producteurs locaux publiés sur `enviebio.biocoop.net`.
+   Le magasin de produits fermiers de la place du Maréchal-Juin (horaires sur son site neuf du 22 septembre 2026 et à l'annuaire
+   de la Chambre d'agriculture du Jura, qui divergent) ne nomme aucun producteur (règle 361) ; la coopérative de la rue du
+   Pont-Neuf est réservée à ses membres (hors sujet, comme au Havre). **Une fiche entière, seule.**
+
+**Contradictions** : Abbeville, la page du marché (ouverture 7h30) et l'article du 19 septembre (clients « dès 7 heures »),
+tranché pour la page ; Lons-le-Saunier, les horaires du magasin de produits fermiers (lundi au samedi 9h-19h30 et dimanche matin
+sur son site, mardi au samedi 9h-19h à la Chambre d'agriculture), non publiés faute de fiche ; Abbeville, le magasin de réseau
+de la rue de Menchecourt au 18 sur sa page et au 16 au registre, non publié (règle 86).
+
+**Fiches écartées pour doute sur une personne** : quatre pistes, non instruites, qui ne se rouvrent pas — à Camon, une vente à
+la ferme présentée sous le nom de son exploitant et un primeur dont l'enseigne est formée sur des initiales ; dans le Grand Dole,
+un fournil installé au domicile de son boulanger, joignable par un seul portable ; à Péronne, une fromagerie dont l'enseigne est
+formée sur un prénom. Les noms de dirigeants, de commerçants, de producteurs, de photographes et d'élus que citent les pages
+consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans la **Somme**, la descente reprend à **Salouël** (4 179) ; la passe qui y revient prend d'abord les deux
+fiches désignées d'Abbeville (règle 258). Dans le **Jura**, à **Saint-Claude** (8 386).
+
+**Pistes non publiées (Somme et Jura)** — lignes anonymes :
+
+- Abbeville, marché de la halle et épicerie fine du parvis : faits entiers, **désignés pour la reprise**. **Déblocage** : deux
+  points de plus dans la Communauté d'agglomération de la Baie de Somme, à moins de quinze kilomètres (règle 96), par une source
+  ouverte.
+- Abbeville, magasin biologique de réseau de la rue de Menchecourt : **Déblocage** : des producteurs locaux publiés sur sa page
+  (règle 86).
+- Abbeville, épicerie de vrac du boulevard de la République : pas de site, pas d'heures publiées. **Déblocage** : une page du
+  magasin avec ses heures et ses producteurs.
+- Abbeville, AMAP du jeudi soir : annuaires seulement, liste régionale de 2023. **Déblocage** : une source datée de moins de
+  douze mois (règle 195).
+- Longpré-les-Corps-Saints, marché de producteurs du vendredi : **Déblocage** : une page de la commune.
+- Péronne, marché du samedi : faits lus. **Déblocage** : un second endroit du site de la Ville, ou une publication extérieure
+  lisible (règle 178).
+- Corbie, marché des producteurs du mercredi et brasserie de la rue Jules-Lardière : **Déblocage** : heures et produits du
+  marché publiés par la Ville.
+- Montdidier, marché du jeudi : **Déblocage** : le retrait du filtrage de la Ville (règle 257).
+- Camon, maraîchage des hortillonnages : aucune adresse de vente publiée, un seul portable. **Déblocage** : un point de vente
+  avec adresse et un fixe.
+- Dole, halles de la place Nationale : **Déblocage** : une page de la Ville (règle 196). Biocoop Réponse Nature : faits entiers,
+  **Déblocage** : une seconde fiche entière dans la commune.
+- Jouhe, brasserie du Mont-Roland : **Déblocage** : des horaires publiés par la brasserie pour la saison 2027.
+- Lons-le-Saunier, Biocoop En Vie Bio : faits entiers. **Déblocage** : une seconde fiche entière dans la commune. Magasin de
+  produits fermiers de la place du Maréchal-Juin : **Déblocage** : des producteurs nommés (règle 361).
 
 ### Passe du 28 septembre 2026 (quatre-vingt-quinzième) : quatre fiches à Montauban et dans le Grand Montauban (Tarn-et-Garonne)
 
