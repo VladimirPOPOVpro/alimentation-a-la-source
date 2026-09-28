@@ -11999,6 +11999,86 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-dix-septième) : Somme et Jura, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 924 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : inchangé, **Somme (80) 3,5768** premier non épuisé, **Jura (39) 3,4570** second
+(règle 248), Indre-et-Loire 3,2997 ensuite. La dernière passe publiée visait l'Occitanie : les Hauts-de-France et la
+Bourgogne-Franche-Comté restent ouverts (règle 41.c), et la réserve reste celle de l'Occitanie.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Reprise d'Abbeville** (règle 258). Le déblocage des deux fiches désignées n'est pas rempli : le site de l'agglomération de la
+Baie de Somme sert toujours un `robots.txt` à `User-Agent: *` suivi de `Disallow: /` (règle 77), l'annuaire de la Chambre
+d'agriculture et `somme-tourisme.com` répondent toujours 403 à l'agent nommé et 200 à l'agent par défaut (règle 257). Les deux
+fiches restent désignées.
+
+**Somme, douze communes (règle 247)**, de Salouël à Pont-de-Metz ; aucune commune sautée entre Friville-Escarbotin et Salouël
+(règle 375). Contrôle à deux agents (règle 257) sur chaque site communal, adresses lues à l'annuaire de l'administration.
+Registre de l'Agence Bio relu en entier sur la Somme (592 opérateurs), filtré sur les douze communes.
+
+1. **Salouël** (4 179) — la page « Commerces » de la Ville ne porte aucun commerce en circuit court ; le « marché d'automne »
+   est une fête annuelle du comité des fêtes. **Zéro.**
+2. **Moreuil** (3 936) — la Ville ne publie de son marché que le mardi 8h30-12h, sans lieu ni famille de produits (règle 197).
+   **Zéro.**
+3. **Rivery** (3 636) — **une fiche entière, seule** : le **marché alimentaire et de produits naturels du mardi**, créé par
+   délibération du 29 juin 2026, tenu depuis le 1er septembre 2026 sur le parvis de la mairie de 16h à 19h. Deux endroits du
+   site de la Ville (règle 178) : la page « Marché hebdomadaire » et l'actualité du 15 août 2026, qui nomme une famille de
+   produits (fromages et plats traiteur d'une fromagerie, productions de producteurs locaux ; règle 197 remplie). Point : la
+   Base ne connaît pas le parvis, le point de la mairie à l'annuaire de l'administration (`[2.3223035, 49.9010351]`, règle 323)
+   servirait. Aucune autre fiche entière dans la commune : le maraîcher bio des hortillonnages n'a qu'un réseau social
+   (règle 196), les autres opérateurs du registre sont des grandes surfaces ou des grossistes.
+4. **Boves** (3 234) — le marché de plein air du dimanche matin (9h-12h30, parking du Palais des Enfants, rue Eugène-Després)
+   n'est publié que par un appel à candidatures qui dit ce qui y manque, pas ce qui s'y vend (règle 197) ; le magasin
+   biologique de réseau de l'avenue Philéas-Fogg (société active, même exploitant que la Biocoop de Dury) n'a de page que sur
+   `biocoop.fr`, qui refuse l'agent nommé ; l'épicerie de vrac de la rue Victor-Hugo répond 429 à l'agent nommé et 200 à
+   l'agent par défaut (règle 350). **Zéro.**
+5. **Flixecourt** (3 221) — le marché n'est décrit que par deux articles de 2019 et de 2023, aucune page de l'année (règle 195
+   par analogie : rien n'atteste qu'il se tient encore à ces heures). **Zéro.**
+6. **Ailly-sur-Somme** (3 003) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé : exclue (règle 257). **Zéro.**
+7. **Rue** (2 987) — marché de plein air du samedi 7h-13h, place de Verdun, publié par la Ville sans famille de produits ; son
+   règlement de 2021 est un PDF numérisé sans texte. **Zéro.**
+8. **Rosières-en-Santerre** (2 894) — 200 contre 403 : exclue (règle 257). **Zéro.**
+9. **Saleux** (2 739) — aucune page de marché ni de commerce en circuit court. **Zéro.**
+10. **Ailly-sur-Noye** (2 648) — la page de l'AMAP sur le site de la Ville donne la distribution (jeudi 19h15-19h45, local
+    communal de la place François-Mitterrand) mais sans date et sans produit nommé ; le site de l'AMAP refuse toute connexion
+    (règle 237). **Zéro.**
+11. **Mers-les-Bains** (2 540) — la Ville ne publie qu'un marché fermier d'été (dimanches de juillet et d'août), saison close,
+    et aucun marché hebdomadaire ; le magasin biologique de réseau n'a pas de page lisible. **Zéro.**
+12. **Pont-de-Metz** (2 425) — seuls un marché artisanal annuel et des marches caritatives. **Zéro.**
+
+**Jura, deux communes (règle 248)** :
+
+1. **Saint-Claude** (8 386) — la Ville (403 à l'agent par défaut, 200 à l'agent nommé : pas un refus du robot) ne publie aucune
+   page de marché ; le magasin biologique de réseau de la route de Lyon n'a aucune page lisible. **Zéro.**
+2. **Champagnole** (8 036) — la Ville publie son marché du samedi 8h-13h, sous la Halle et rue de la Poste, sans une famille
+   de produits (règle 197). Aucune seconde fiche possible dans la commune. **Zéro.**
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : trois pistes, non instruites, qui ne se rouvrent pas — à Ailly-sur-Noye, un
+élevage caprin et une exploitation inscrits au registre de l'Agence Bio sous le nom de leurs exploitants ; à Salouël, une
+production maraîchère déclarée sous le nom de son exploitante. Les noms que citent les pages communales consultées (élus,
+présidente d'association, commerçants, producteurs d'un marché) ne sont repris nulle part.
+
+**Points d'arrêt** : dans la **Somme**, la descente reprend à **Feuquières-en-Vimeu** (2 414) ; le département sera épuisé
+(règle 265) après Fressenneville (2 045), la commune suivante, Chaulnes, comptant 1 969 habitants. Dans le **Jura**, à
+**Hauts de Bienne** (5 032).
+
+**Pistes non publiées (Somme et Jura)** — lignes anonymes :
+
+- Rivery, marché du mardi soir sur le parvis de la mairie : faits entiers. **Déblocage** : une seconde fiche entière dans la
+  commune (règle 127), ou trois autres fiches désignées dans Amiens Métropole à moins de quinze kilomètres de la mairie
+  d'Amiens (règle 302).
+- Boves, marché du dimanche matin : **Déblocage** : une page de la Ville qui nomme ce qui s'y vend.
+- Rue, marché du samedi : **Déblocage** : une famille de produits publiée par la Ville.
+- Ailly-sur-Noye, AMAP du jeudi soir : **Déblocage** : une source datée de moins de douze mois qui nomme ses produits
+  (règle 195).
+- Mers-les-Bains, marché fermier d'été : **Déblocage** : le programme 2027 de la Ville, avec ses produits.
+- Champagnole, marché du samedi : **Déblocage** : une famille de produits publiée par la Ville.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-seizième) : Somme et Jura, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
