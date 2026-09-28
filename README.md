@@ -11857,6 +11857,84 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-troisième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41** : rien n'a été publié depuis le dernier calcul (894 fiches, appel national de 34 969 communes, outre-mer
+écarté, départements épuisés sautés) ; le classement ne change donc pas (règle 260) : **Nord (59) 3,913**, premier non épuisé ;
+**Moselle (57) 3,631**, second (règle 248). La dernière passe publiée visait l'Occitanie : la règle 41.c ne joue pas.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Environnement** : le disque de la machine n'avait plus qu'environ 1,8 Go libres ; aucune écriture n'a échoué.
+
+**Nord**, descente reprise à Bousbecque, douze communes (règle 247). Contrôle à deux agents (règle 257) : la Ville
+d'Auberchicourt répond 200 à l'agent par défaut et 403 à l'agent nommé ; Grand-Fort-Philippe n'a aucun site que l'annuaire de
+l'administration connaisse et ne publie que sur un réseau social (règle 237) ; les dix autres répondent 200 aux deux.
+Lambres-lez-Douai et Crespin servent le `robots.txt` qui ferme `/fileadmin/` aux agents d'IA, où sont leurs images (règle 294).
+L'office de tourisme de l'Avesnois refuse l'agent nommé (403, règle 257). Au registre bio, sur ces douze communes : grandes
+surfaces, grossistes, boulangeries sans vente déclarée, exploitations sous patronyme.
+
+1. **Bousbecque** (4 978) — aucun marché publié ; les producteurs de l'annuaire communal sont tous désignés sous patronyme.
+   **Zéro.**
+2. **Grand-Fort-Philippe** (4 887) — marché connu d'un réseau social et d'annuaires tiers seulement (règles 196 et 237).
+   **Zéro.**
+3. **Lambres-lez-Douai** (4 883) — marché du mercredi « matin », sans heures (règle 192), familles de produits écrites par la
+   Ville, image sous `/fileadmin/` (règle 294). Le magasin biologique de la route du Raquet serait une fiche, seule. **Zéro.**
+4. **Le Quesnoy** (4 878) — marché du vendredi (9h-12h30, place Leclerc) sans aucune famille de produits (règle 197) ; le
+   pressoir biologique du registre travaille sur rendez-vous (règle 134). **Zéro.**
+5. **Cysoing** (4 839) — marché du mardi et du dimanche : la Ville écrit 8h-13h place de la République, l'office de Pévèle
+   Carembault 7h-13h rue Briand et parking de la salle des fêtes, et aucun des deux ne nomme une famille de produits (règles 5
+   et 197). **Zéro.**
+6. **Hallennes-lez-Haubourdin** (4 683) — marché du jeudi (8h-12h30, parking des Lucioles) décrit par la seule phrase
+   générique « produits frais, locaux et de saison » (règle 197). **Zéro.**
+7. **Sequedin** (4 675) — aucun marché ni point de vente alimentaire en circuit court publié. **Zéro.**
+8. **Guesnain** (4 635) — aucun marché publié par la Ville. **Zéro.**
+9. **Auberchicourt** (4 626) — la Ville refuse l'agent nommé (règle 257). **Zéro.**
+10. **Crespin** (4 532) — marchés « des saisons » ponctuels, images sous `/fileadmin/` (règle 294). **Zéro.**
+11. **Marchiennes** (4 507) — **une fiche entière, seule** : le micro-fournil biologique de la rue de Saint-Amand (pain au
+    levain de farines paysannes ; vente au fournil le mardi 17h30-19h et le vendredi 16h30-19h selon son propre site ; SARL
+    active au registre, établissement ouvert à cette adresse ; photographies de pains sur son site, sans visage). Le marché du
+    samedi (7h30-13h30, place Charles-de-Gaulle, repli place Gambetta ; pain, fruits et légumes, volailles rôties, fromages)
+    a ses faits entiers, mais les mentions légales de la Ville interdisent la reproduction des photographies (règle 231), et
+    l'unique image de la page est une vue d'étal générique. **Une fiche : pas de zone** (règle 127).
+12. **Montigny-en-Ostrevent** (4 495) — aucun marché ni producteur dans l'annuaire communal. **Zéro.**
+
+**Moselle, second département (règle 248)** — contrôle à deux agents : Villes de Fameck et de Saint-Avold, 200 aux deux.
+
+1. **Fameck** (14 788), commune calculée — marché du samedi « matin », sans heures (règle 192), décrit comme généraliste. Au
+   registre : grandes surfaces, une boulangerie sans vente déclarée. **Zéro.**
+2. **Saint-Avold** (14 755) — la Ville ne publie aucune page de marché (règle 196) ; au registre, grandes surfaces et un
+   magasin biologique qui ferait une fiche, seule. **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : à Cysoing, la Ville et l'office donnent pour le même marché des heures et un emplacement différents ; si la
+fiche part un jour, la version de la Ville est retenue et l'autre publiée avec `a_confirmer` (règle 5). À Marchiennes, le siège
+du fournil au registre est place Gambetta, le point de vente rue de Saint-Amand, établissement ouvert lui aussi : c'est le
+point de vente qui donne le point (règles 10 et 24). Aucune autre.
+
+**Fiches écartées pour doute sur une personne** : à Bousbecque, les producteurs de l'annuaire communal, tous sous patronyme ;
+au Quesnoy, deux exploitations du registre sous patronyme ; à Cysoing, une exploitation fruitière en entreprise individuelle et
+un maraîcher sous patronyme ; à Crespin et à Auberchicourt, des exploitations du registre sous patronyme. Non instruites, elles
+ne se rouvrent pas. Les noms d'exploitants et de dirigeants que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Hergnies** (4 479). Dans la **Moselle**, à
+**Freyming-Merlebach** (13 266).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Marchiennes, micro-fournil biologique : faits et image entiers. **Déblocage** : une seconde fiche entière dans la commune.
+- Marchiennes (marché du samedi) : faits entiers. **Déblocage** : une photographie permise, sans visage.
+- Lambres-lez-Douai, magasin biologique de réseau : à instruire si la commune rend une seconde fiche ; marché du mercredi :
+  **Déblocage** : des heures publiées par la Ville.
+- Le Quesnoy (marché du vendredi), Hallennes-lez-Haubourdin (marché du jeudi), Cysoing (marché du mardi et du dimanche) :
+  **Déblocage** : une famille de produits écrite par la Ville ou l'office.
+- Fameck (marché du samedi) : **Déblocage** : des heures publiées par la Ville.
+- Saint-Avold, magasin biologique : à instruire si la commune rend une seconde fiche.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-deuxième) : Nord et Moselle, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
