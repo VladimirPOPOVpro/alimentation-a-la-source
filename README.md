@@ -4564,7 +4564,12 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-793 fiches sur 899 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+798 fiches sur 904 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marchés du vendredi et du samedi de Cournon-d'Auvergne**, **marché du mardi de Lempdes**, **marché du vendredi de
+  Pérignat-lès-Sarliève** et **marché du samedi de Pont-du-Château** (passe du 28 septembre 2026, quatre-vingt-huitième) :
+  photographies thématiques CC0 pour les cinq (règle 371) ; dimanche du marché de producteurs de Cournon contesté (2e selon la
+  page « Marchés » de 2026, 3e selon une fiche d'annuaire de 2025) ; point de Pérignat pris sur l'avenue de la République, la
+  place de l'Église étant inconnue de la Base.
 - **Marché du mardi de Saint-André-lez-Lille**, **Biocoop Saint-André** (Saint-André-lez-Lille), **Marché du dimanche de
   Quesnoy-sur-Deûle** et **P'tit marché du samedi de Lesquin** (passe du 28 septembre 2026, quatre-vingt-septième) :
   heures du mardi contestées (Ville 8h-12h30, plateforme régionale 8h-13h) ; Biocoop au point du registre, la Base ne
@@ -11891,6 +11896,109 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-huitième) : Cournon-d'Auvergne (Puy-de-Dôme), cinq fiches dans Clermont Auvergne Métropole ; Moselle sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 899 fiches avant la passe),
+outre-mer écarté (règle 177), départements épuisés sautés (règle 265). La passe précédente a publié dans le Nord : les
+Hauts-de-France sont réservés (règle 41.c). **Moselle (57) 3,7068** premier non épuisé, **Puy-de-Dôme (63) 3,6631** second
+(règle 248). Après la passe, le Puy-de-Dôme tombe à environ −1,3 ; la prochaine passe ne peut pas viser
+l'Auvergne-Rhône-Alpes. Tête du classement après la passe : Moselle 3,7831, Val-de-Marne 3,7076, Orne 3,6080.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Moselle, reprise des fiches déjà entières (règles 247 et 371).** La règle 371 levant la condition d'image, les communes
+déjà éprouvées ont été relues par ordre de population pour y chercher deux fiches entières. Sarreguemines n'en a qu'une (les
+marchés bi-hebdomadaires) : le magasin bio de réseau de la zone commerciale ne publie aucun producteur local (règle 86).
+Hayange n'en a qu'une (ses deux marchés tombent sur les mêmes rues, règle 42). **Sarrebourg**, qui en comptait deux, n'en a
+plus : la base touristique régionale qui portait les faits des Halles et du magasin de producteurs de la rue Dessirier
+répond désormais 200 à l'agent par défaut et 403 à l'agent nommé, comme l'office de Sarrebourg (règle 257) ; la page de la
+Ville ne donne aux Halles que leurs heures, sans famille de produits (règle 197) ; le site propre du magasin ne sert plus
+qu'un répertoire vide ; la fiche du réseau touristique lunévillois, ouverte, décrit ses produits sans aucun horaire. **Zéro.**
+
+**Moselle, descente reprise à Amnéville**, douze communes (règle 247). Contrôle à deux agents : toutes les Villes répondent
+200 aux deux ; la base touristique régionale et l'annuaire des AMAP lorraines refusent l'agent nommé (règle 257) ; le site
+d'information régional ferme tout son domaine à l'un des robots d'IA de la règle 149 ; le guide des marchés de la chambre de
+commerce refuse tout agent (règle 237).
+
+1. **Amnéville** (10 875) — marchés du mercredi et du samedi « matin », sans heures ni produits (règles 192 et 197) ; le
+   magasin bio est fermé au registre depuis janvier 2025. **Zéro.**
+2. **Marly** (10 286) — marché du mardi (9h-12h, place de Gaulle) dont la liste de produits est commune aux deux marchés de
+   la Ville (règle 329) ; le magasin bio de réseau de la rue des Nénuphars est fermé au registre ; la brasserie n'a pas de
+   boutique dans la commune ; la ferme de légumes transformés ne vend qu'aux professionnels. **Une fiche entière, seule** :
+   le maraîchage biologique d'un établissement d'aide par le travail, rue du Général-Vansantberghe (vente le vendredi matin
+   de mai à décembre, fin à 12h ou 11h30 selon deux pages du même site). **Pas deux (règle 127).**
+3. **Rombas** (9 371) — marché du jeudi (8h30-12h, place de l'Hôtel-de-Ville) sans famille de produits ; l'opérateur bio est
+   une entreprise individuelle. **Zéro.**
+4. **Hagondange** (9 278) — marché du vendredi « matin », sans heures ; la poissonnerie de la rue Voltaire ne publie aucun
+   horaire. **Zéro.**
+5. **Talange** (8 120) — aucun marché publié par la Ville ; aucun producteur dans l'annuaire intercommunal. **Zéro.**
+6. **Guénange** (8 083) — aucun marché publié par la Ville. **Zéro.**
+7. **Hettange-Grande** (7 772) — marché du mercredi (8h-12h, place Robert-Schuman) décrit par « produits locaux » seulement
+   (règle 197). **Zéro.**
+8. **Audun-le-Tiche** (7 356) — marché du samedi (14h-17h, place du Château, page de l'intercommunalité) sans aucun produit ;
+   la brasserie est cessée. **Zéro.**
+9. **Moyeuvre-Grande** (7 311) — marchés du mercredi et du samedi connus des seuls bulletins municipaux de 2021-2022, sans
+   produits ; l'épicerie de terroir est cessée. **Zéro.**
+10. **Uckange** (7 021) — la Ville ne publie ni jour, ni heures, ni produits de son marché. **Zéro.**
+11. **Marange-Silvange** (6 539) — aucun marché hebdomadaire ; l'épicerie en vrac est cessée. **Zéro.**
+12. **Petite-Rosselle** (6 171) — marché du jeudi « matin », sans heures (produits écrits). **Zéro.**
+
+**Puy-de-Dôme, second département (règle 248).** Contrôle à deux agents : Villes de Cournon-d'Auvergne, Lempdes,
+Pérignat-lès-Sarliève et Pont-du-Château, 200 aux deux, sans exclusion dans leur `robots.txt` ; le site de la métropole, celui
+de l'office de tourisme de Riom, celui d'un réseau national de magasins bio et plusieurs sites d'AMAP refusent l'agent nommé
+(règle 257).
+
+**Cournon-d'Auvergne** (19 951), commune calculée, rend **deux fiches entières** : ses marchés du vendredi (place des Dômes)
+et du samedi (place de la République), jours, heures et familles de produits écrits pour chacun par la page « Marchés » de la
+Ville (26 juin 2026). Les mentions légales de la Ville réservent ses photographies : les deux fiches prennent une
+photographie thématique CC0 (règle 371). Clermont Auvergne Métropole complète le groupe (règles 96 et 363, distances à vol
+d'oiseau depuis la mairie de Cournon, place de la Mairie) :
+
+1. **Marché du vendredi de Cournon-d'Auvergne** (1,4 km) — vendredi 7h-12h30. Photographie :
+   https://www.flickr.com/photos/184594136@N08/53897577933 (CC0).
+2. **Marché du samedi de Cournon-d'Auvergne** (0,3 km) — samedi 7h-12h30 ; le marché mensuel de producteurs fermiers se tient
+   sur la même place et entre dans la même fiche (règle 42). Photographie :
+   https://www.flickr.com/photos/28826830@N00/2873112895 (CC0).
+3. **Marché du mardi de Lempdes** (3,1 km) — mardi 8h-12h, place du Poids de Ville, page « Les marchés » de la Ville
+   (juillet 2024). Photographie : https://www.flickr.com/photos/136375272@N05/32321896827 (CC0).
+4. **Marché du vendredi de Pérignat-lès-Sarliève** (4,5 km) — vendredi 8h-12h, place de l'Église ; la Commune décrit ses
+   quatre étals (boucherie, fromagerie, fruits et légumes, pain au levain), sans qu'aucun nom d'exploitant ne soit repris.
+   Photographie : https://www.flickr.com/photos/93936679@N05/51328789171 (CC0).
+5. **Marché du samedi de Pont-du-Château** (7,4 km) — samedi 8h30-12h, avenue de Lyon, liste des étals écrite par la Ville
+   (page du 23 septembre 2026). Photographie : https://www.flickr.com/photos/184594136@N08/52232636485 (CC0).
+
+Riom (18 820), suivante de la descente, n'a pas été instruite : la zone était trouvée.
+
+**Contradictions** : marché de producteurs de Cournon, 2e dimanche (page « Marchés », 2026) contre 3e dimanche (fiche
+d'annuaire de la Ville, 2025) — les deux versions sont écrites, la plus récente en premier (règle 5). Marly (non publié) :
+deux pages du même site donnent 12h et 11h30 pour la fin de la vente. À Moyeuvre-Grande, des annuaires tiers placent le
+marché ailleurs que les bulletins municipaux. Aucune autre sur une fiche publiée.
+
+**Fiches écartées pour doute sur une personne** : en Moselle, une exploitation de Rombas, des producteurs d'Amnéville, un
+magasin d'Hagondange dont l'enseigne est un prénom, trois domaines viticoles de Marange-Silvange, des brasseries de Guénange et
+d'Hettange-Grande, un rucher d'Hettange-Grande, des fermes, un rucher et une ferme-épicerie d'Audun-le-Tiche, une épicerie de
+Talange ; dans le Puy-de-Dôme, un magasin bio de Lempdes présenté par ses exploitants, des fermes et des vignobles de la
+métropole, l'AMAP de Romagnat (producteurs désignés par leurs noms), une ferme du marché du camping de Ceyrat. Non instruites,
+elles ne se rouvrent pas. Aucun nom cité par les pages consultées n'est repris nulle part.
+
+**Laissé de côté** : les autres marchés entiers de la métropole (Pont-du-Château le jeudi, marché mensuel de Lempdes), et, dans
+Riom Limagne et Volcans, le marché du dimanche de Châtel-Guyon et le marché bio du vendredi de Volvic, qui attendent une
+passe sur Riom (deux fiches entières dans la commune elle-même, règle 127).
+
+**Points d'arrêt** : dans la **Moselle**, la descente reprend à **Behren-lès-Forbach** (6 166). Dans le **Puy-de-Dôme**, à
+**Riom** (18 820).
+
+**Pistes non publiées (Moselle)** — lignes anonymes :
+
+- Marly, maraîchage biologique d'un établissement d'aide par le travail : faits entiers. **Déblocage** : une seconde fiche
+  entière dans la commune (par exemple le marché du mardi, si la Ville écrit ce qu'on y vend à part de l'autre marché).
+- Sarrebourg, Halles et magasin de producteurs : **Déblocage** : les horaires du magasin et une famille de produits des Halles
+  publiés par une source que l'agent nommé peut lire.
+- Hettange-Grande, Audun-le-Tiche, Rombas (marchés) : **Déblocage** : une famille de produits propre au marché, écrite par la
+  Ville ou l'intercommunalité. Petite-Rosselle, Amnéville, Hagondange : les heures du marché.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-septième) : Saint-André-lez-Lille (Nord), cinq fiches dans la Métropole européenne de Lille
 

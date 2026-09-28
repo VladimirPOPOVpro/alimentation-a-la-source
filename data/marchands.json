@@ -23934,5 +23934,139 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Haine-Saint-Pierre%2059810%20Lesquin",
     "image_url": "/images/marchands/p-tit-marche-du-samedi-lesquin.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-vendredi-cournon-d-auvergne",
+    "nom": "Marché du vendredi de Cournon-d'Auvergne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.73083,
+    "lon": 3.191988,
+    "adresse": "Place des Dômes, 63800 Cournon-d'Auvergne",
+    "horaires": "Le vendredi de 7h à 12h30, place des Dômes (heures publiées par la Ville).",
+    "produits": [
+      "Primeurs",
+      "Fromages",
+      "Viandes",
+      "Salaisons et charcuterie",
+      "Boulangerie"
+    ],
+    "description": "Le plus grand des marchés hebdomadaires de Cournon-d'Auvergne, une cinquantaine d'exposants selon la Ville, qui mêle commerces de bouche et étals non alimentaires ; il se tient à 1,4 km de la mairie. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "telephone": "04 73 77 00 40",
+    "site_web": "https://www.cournon-auvergne.fr/vivre/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20des%20D%C3%B4mes%2063800%20Cournon-d'Auvergne",
+    "image_url": "/images/marchands/marche-du-vendredi-cournon-d-auvergne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-cournon-d-auvergne",
+    "nom": "Marché du samedi de Cournon-d'Auvergne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.739461,
+    "lon": 3.196702,
+    "adresse": "Place de la République, 63800 Cournon-d'Auvergne",
+    "horaires": "Le samedi de 7h à 12h30, place de la République (heures publiées par la Ville). La même place accueille un marché de producteurs fermiers le 2e dimanche du mois selon la page « Marchés » de la Ville (2026) ; une fiche d'annuaire de la Ville datée de 2025 indiquait le 3e dimanche, de 8h à 12h30.",
+    "produits": [
+      "Primeurs",
+      "Fromages",
+      "Viande et volailles",
+      "Œufs",
+      "Pain",
+      "Miel",
+      "Produits laitiers"
+    ],
+    "description": "Marché du samedi matin du centre-ville, une trentaine d'exposants selon la Ville, à 300 m de la mairie ; la place reçoit aussi chaque mois un marché réservé à des producteurs installés en Auvergne, qui vendent ce qu'ils cultivent, élèvent et transforment eux-mêmes. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "telephone": "04 73 77 00 40",
+    "site_web": "https://www.cournon-auvergne.fr/vivre/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2063800%20Cournon-d'Auvergne",
+    "image_url": "/images/marchands/marche-du-samedi-cournon-d-auvergne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mardi-lempdes",
+    "nom": "Marché du mardi de Lempdes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.77009,
+    "lon": 3.197225,
+    "adresse": "Place du Poids de Ville, 63370 Lempdes",
+    "horaires": "Le mardi de 8h à 12h, place du Poids de Ville (heures publiées par la Ville). Le marché du samedi sous la halle est suspendu ; un marché de producteurs locaux se tient le 4e dimanche du mois, de 8h à 12h, place Charles-de-Gaulle.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Huîtres en saison",
+      "Traiteur asiatique"
+    ],
+    "description": "Petit marché hebdomadaire du centre de Lempdes, dans Clermont Auvergne Métropole, à 3,1 km de la mairie de Cournon-d'Auvergne. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "site_web": "https://www.ville-lempdes.fr/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Poids%20de%20Ville%2063370%20Lempdes",
+    "image_url": "/images/marchands/marche-du-mardi-lempdes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-vendredi-perignat-les-sarlieve",
+    "nom": "Marché du vendredi de Pérignat-lès-Sarliève",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.733503,
+    "lon": 3.142707,
+    "adresse": "Avenue de la République, 63170 Pérignat-lès-Sarliève",
+    "horaires": "Le vendredi de 8h à 12h, place de l'Église, avenue de la République (heures publiées par la Commune).",
+    "produits": [
+      "Viande de boucherie",
+      "Fromages",
+      "Fruits et légumes",
+      "Pain au levain"
+    ],
+    "description": "Marché de village de quatre étals alimentaires, que la Commune présente un par un, à 4,5 km de la mairie de Cournon-d'Auvergne ; le point de la carte est celui de l'avenue de la République, la place de l'Église n'étant pas connue de la Base Adresse Nationale. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "site_web": "https://www.perignat-les-sarlieve.fr/marche-perignat-63",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20de%20la%20R%C3%A9publique%2063170%20P%C3%A9rignat-l%C3%A8s-Sarli%C3%A8ve",
+    "image_url": "/images/marchands/marche-du-vendredi-perignat-les-sarlieve.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-pont-du-chateau",
+    "nom": "Marché du samedi de Pont-du-Château",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.790491,
+    "lon": 3.263888,
+    "adresse": "Avenue de Lyon, 63430 Pont-du-Château",
+    "horaires": "Le samedi de 8h30 à 12h, avenue de Lyon (heures publiées par la Ville). Un autre marché se tient le jeudi de 8h30 à 12h place de l'Hôtel-de-Ville, et un marché de producteurs locaux et bio le 1er vendredi du mois en soirée.",
+    "produits": [
+      "Viande",
+      "Fromages",
+      "Fruits et légumes de maraîchers",
+      "Poissons",
+      "Confitures",
+      "Miel",
+      "Œufs"
+    ],
+    "description": "Marché du samedi matin de Pont-du-Château, sur l'avenue de Lyon, à 7,4 km de la mairie de Cournon-d'Auvergne ; la Ville en publie la liste des étals, maraîchers et rôtisseur compris. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "site_web": "https://www.pontduchateau.fr/vie-quotidienne/commerces-et-vie-economique/marches-hebdomadaires/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20de%20Lyon%2063430%20Pont-du-Ch%C3%A2teau",
+    "image_url": "/images/marchands/marche-du-samedi-pont-du-chateau.jpg",
+    "a_confirmer": true
   }
 ]
