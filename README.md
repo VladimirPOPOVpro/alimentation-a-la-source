@@ -4612,9 +4612,27 @@ prioritaires en cas de conflit.
      règle 247. Première application le 28 septembre 2026 (quatre-vingt-quatorzième passe) : La Ferté-en-Ouche éprouvée avant
      Rives d'Andaine ; son site communal refuse l'agent nommé (règle 257), elle ne rend rien.
 
+376. **Quand la page d'accueil d'un commerce nomme son exploitant dans son texte, le lien n'est pas publié non plus, même si le
+     titre et l'en-tête n'en portent aucun.** Le 28 septembre 2026, la brasserie artisanale de Bressols remplit tout : société
+     active à son adresse, horaires et téléphone fixe publiés sur son propre site, point GPS de sa page d'accès à 3 m du numéro
+     de la Base Adresse Nationale. Son site ne porte aucun nom de personne dans son titre ni dans son en-tête (règle 374), mais
+     le premier paragraphe de sa page d'accueil nomme deux fois le brasseur, et sa page « Histoire » nomme aussi son
+     prédécesseur. La règle 374 a placé la limite au titre et à l'en-tête ; elle ne disait rien d'un nom lu dès l'arrivée, sans
+     cliquer. **Tranché ainsi** : c'est la même situation qu'un titre — le visiteur envoyé par la carte lit le nom sans rien
+     faire — et le mandat veut qu'au doute on retienne plutôt que de publier. La fiche garde l'enseigne, l'adresse, les horaires
+     et le téléphone fixe que le commerce publie pour sa clientèle, sans `site_web`. Un nom qui n'apparaît que sur une page
+     intérieure (historique, équipe) ne retire pas le lien. **Déblocage** : une page d'accueil qui ne nomme personne.
+
 ## Marchands à confirmer
 
-814 fiches sur 920 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+818 fiches sur 924 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du samedi des allées de l'Empereur**, **Marché du mercredi de la place Lalaque**, **Marché de producteurs du jeudi
+  à la Mémo** (Montauban) et **Brasserie Oc'Ale** (Bressols) (passe du 28 septembre 2026, quatre-vingt-quinzième, règles 127
+  et 320) : photographies thématiques du domaine public pour les quatre (règle 371) ; heures des deux grands marchés tenues de
+  la page des marchés de la Ville (juillet 2026), l'annuaire des équipements, plus ancien, écrivant 8h-12h (règle 220) ;
+  marché de la Mémo saisonnier, saison 2026 close le 30 septembre, dates de 2027 non publiées, point de la rue Isadora Duncan
+  (règle 169 faute de point publié pour le parking) ; brasserie sans lien vers son site (règle 376), horaires « de préférence
+  sur rendez-vous ».
 - **Marché hebdomadaire d'Écouché**, **Ferme des Hameaux** (Écouché-les-Vallées), **Nature Andaines** (Argentan) et **Ferme
   de la Noë** (Tanques) (passe du 28 septembre 2026, quatre-vingt-quatorzième, règles 127 et 320) : photographies thématiques CC0
   pour les quatre (règle 371) ; page des marchés de la Ville d'Écouché non datée ; horaires de la ferme maraîchère lus sur son
@@ -11969,6 +11987,92 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-quinzième) : quatre fiches à Montauban et dans le Grand Montauban (Tarn-et-Garonne)
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 920 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Tarn-et-Garonne (82) 3,5466** premier non épuisé, **Somme (80) 3,5440**
+second (règle 248), Jura 3,4420 ensuite. La dernière passe publiée visait la Normandie (Orne) : l'Occitanie n'est pas réservée
+(règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Montauban** (62 945), commune calculée, première commune éprouvée du département. Contrôle à deux agents (règle 257) : la
+Ville (`montauban.com`, éditée avec le Grand Montauban) répond 200 aux deux, `robots.txt` sans exclusion nommée ; l'office de
+tourisme de Montauban, l'agence départementale `tourisme-tarnetgaronne.fr`, `biocoop.fr`, le blog de l'AMAP (hébergé chez
+WordPress.com) et l'annuaire Bienvenue à la Ferme refusent l'agent nommé ou tout agent : aucun n'a été lu. Registre de l'Agence
+Bio parcouru en entier (1 545 opérateurs, filtre sur les douze communes du Grand Montauban).
+
+- **Marché du samedi, allées de l'Empereur et de Mortarieu** — 0,3 km de la mairie. Page des marchés de la Ville (dernière
+  modification au plan du site : 29 juillet 2026) : samedi 7h-13h, près de 190 maraîchers, viticulteurs, fromagers et
+  producteurs locaux ; second endroit du site (règle 178) : la fiche « Marché des allées » de l'annuaire des équipements (mars
+  2022), qui écrit 8h-12h, et la page de l'été 2026 du Grand Montauban. La page des marchés donne l'horaire, l'annuaire est cité
+  (règle 220). Point : l'allée de l'Empereur à la Base (0,809), nom collectif gardé dans l'adresse (règle 83).
+- **Marché du mercredi, place Lalaque** — 0,7 km. Même page : mercredi 7h-13h, près de 160 exposants, fruits et légumes,
+  viandes, poissons, produits du terroir, et des étals non alimentaires sans décompte publié (règle 119 non ouverte) ; fiche
+  « Marché place Lalaque » de l'annuaire (8h-12h, citée) et avis de la Ville du 20 décembre 2024 sur ses séances des fêtes.
+  Point : la place à la Base (0,968).
+- **Marché de producteurs du jeudi, Mémo** — 1,9 km. Même page et annonce de la Ville du 24 mars 2026 : jeudi 8h-13h, du 19
+  mars au 30 septembre 2026, une dizaine de maraîchers, fruitiers et fromagers (règle 197 remplie par l'annonce, propre à ce
+  marché). Point : la rue Isadora Duncan (0,961), le parking qui porte ce nom n'ayant aucun point publié (règle 169). La saison
+  2026 se clôt deux jours après cette passe ; la fiche le dit, et ne promet aucune date pour 2027.
+
+**Pas d'autre fiche entière dans la commune** : la Biocoop de l'avenue de Fonneuve (société active) n'a d'horaires que sur
+`biocoop.fr`, qui refuse l'agent nommé, et sur des annuaires (règles 257 et 340) ; le magasin bio de l'avenue de l'Europe publie
+un site dont la seule adresse, zone de Sapiac, est fermée au registre (règle 5, fait contesté) ; l'enseigne de réseau de
+l'avenue de Toulouse est fermée au registre ; le magasin de producteurs de la route de Saint-Nauphary n'est décrit que par des
+annuaires et par l'agence départementale, qui refuse l'agent nommé ; le marché couvert de la place Nationale n'est cité qu'une
+fois, sans heures, par la page de l'été (règle 178) ; l'association « Le 82 dans son assiette » approvisionne la restauration
+collective et ne vend pas aux particuliers (hors sujet).
+
+**Quatrième point, règle 320** : la **Brasserie Oc'Ale**, à Bressols (Grand Montauban au champ `epci`, règle 219), 8,8 km de
+la mairie de Montauban. Société active au 547 chemin du Château-d'Eau (11.05Z) ; horaires, téléphone fixe et point GPS publiés
+sur son propre site (200 aux deux agents, `robots.txt` ouvert), dont le fil d'actualités date d'une semaine ; aucun engagement
+au registre de l'Agence Bio (pilier `economie` seul, comme les brasseries déjà publiées). Point : le numéro à la Base (0,960),
+à 3 m du point GPS de la brasserie. Pas de lien vers le site (règle 376, nouvelle). **Pas de cinquième point** : le marché du
+dimanche de Bressols n'est publié ni par la Ville de Bressols (sa page « Commerces & entreprises » ne le cite pas) ni avec des
+heures par le Grand Montauban ; les autres pistes du Grand Montauban sont écartées pour doute sur une personne (voir plus bas).
+La passe publie quatre fiches (règle 320). La Somme n'a pas été éprouvée.
+
+**Images, règle 371** (Openverse, source Flickr, licence lue dans la réponse de l'annuaire : marque du domaine public pour
+trois, CC0 pour le houblon ; métadonnées retirées, règle 235) : samedi — pommes en cagettes, recadrées de 40 px en haut pour ôter
+un panneau, `flickr.com/photos/41284017@N08/16065180554` ; mercredi — poivrons en barquettes,
+`flickr.com/photos/41284017@N08/16500105620` ; Mémo — haricots verts et chou-rave en paniers, recadrés sous les étiquettes de
+prix manuscrites, `flickr.com/photos/41284017@N08/7154331521` ; brasserie — cônes de houblon,
+`flickr.com/photos/125167502@N02/30838256377`. Aucune n'avait servi. Les photographies de la Ville n'ont pas été reprises : ses
+mentions légales, du gabarit de la règle 309, créditent aussi deux banques d'images sans dire lesquelles de ses photographies en
+viennent (règle 70).
+
+**Contradictions** : Ville contre Ville sur les heures des deux grands marchés (7h-13h sur la page des marchés de juillet 2026,
+8h-12h sur l'annuaire des équipements de 2022) — tranché par la règle 220, les deux versions écrites dans `horaires`.
+
+**Fiches écartées pour doute sur une personne** : deux pistes à Montauban, non instruites, qui ne se rouvrent pas — une ferme
+caprine dont l'enseigne est formée sur le prénom de son exploitante, et le marché de producteurs du vendredi qu'elle tient à la
+ferme. Les exploitants nommés par le registre de l'Agence Bio (entreprises individuelles), les dirigeants lus sur les
+annuaires et les producteurs nommés par le site d'un magasin ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Tarn-et-Garonne**, la descente reprend à **Castelsarrasin** (14 343), puis Moissac (13 419) ;
+Montauban est éprouvée. Dans la **Somme**, la commune calculée est **Abbeville** (22 395), Amiens et Dury étant pourvues.
+
+**Après la passe**, sur 924 fiches : Tarn-et-Garonne −0,44 ; **Somme 3,5768** premier non épuisé, puis Jura 3,4570 et Indre-et-Loire 3,2997. La prochaine passe ne peut
+pas viser l'Occitanie (règle 41.c).
+
+**Pistes non publiées (Montauban et Grand Montauban)** — lignes anonymes :
+
+- Montauban, magasin biologique de réseau de l'avenue de Fonneuve : faits vus sur des annuaires seulement. **Déblocage** : des
+  horaires publiés par une source lisible autre que le site national du réseau.
+- Montauban, magasin biologique indépendant de l'avenue de l'Europe : **Déblocage** : un site du magasin à jour de son adresse
+  actuelle.
+- Montauban, magasin de producteurs de la route de Saint-Nauphary : **Déblocage** : un site du groupement ou une page communale
+  lisible avec ses horaires.
+- Montauban, marché couvert de la place Nationale : **Déblocage** : une page de la Ville qui donne ses jours et ses heures.
+- Montauban, AMAP du jeudi soir au Carreyrat : fiche d'annuaire communal de 2021, blog fermé à l'agent nommé. **Déblocage** :
+  une source datée de moins de douze mois (règle 195).
+- Bressols, marché du dimanche matin : attesté par le fil d'un exposant (20 septembre 2026) et par la page de l'été du Grand
+  Montauban. **Déblocage** : ses heures et une famille de produits publiées par la Ville de Bressols ou le Grand Montauban ; il
+  ferait le cinquième point de la zone.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-quatorzième) : quatre fiches autour d'Écouché-les-Vallées (Orne)
 

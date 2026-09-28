@@ -24492,5 +24492,104 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.691841,-0.082744",
     "image_url": "/images/marchands/ferme-de-la-noe-tanques.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-allees-montauban",
+    "nom": "Marché du samedi des allées de l'Empereur",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.016731,
+    "lon": 1.356691,
+    "adresse": "Allées de l'Empereur et de Mortarieu, 82000 Montauban",
+    "horaires": "Le samedi de 7h à 13h, allées de l'Empereur et de Mortarieu, d'après la page des marchés de la Ville (mise à jour en juillet 2026) ; l'annuaire des équipements de la Ville, plus ancien, indique encore 8h-12h. Navette marché le samedi matin depuis le parking d'Eurythmie.",
+    "produits": [
+      "Légumes de maraîchers",
+      "Vins de viticulteurs",
+      "Fromages",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Le grand marché hebdomadaire de Montauban, à 300 m de la mairie : la Ville y annonce près de 190 exposants, maraîchers, viticulteurs, fromagers et producteurs locaux, le long des allées rénovées du centre-ville. La photographie est une illustration thématique versée au domaine public, qui ne montre pas ce marché.",
+    "site_web": "https://montauban.com/au-quotidien/vie-des-quartiers/les-marches-de-plein-vent",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.016731,1.356691",
+    "image_url": "/images/marchands/marche-du-samedi-allees-montauban.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mercredi-place-lalaque-montauban",
+    "nom": "Marché du mercredi de la place Lalaque",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.016015,
+    "lon": 1.34447,
+    "adresse": "Place Lalaque, 82000 Montauban",
+    "horaires": "Le mercredi de 7h à 13h, place Lalaque, d'après la page des marchés de la Ville (mise à jour en juillet 2026) ; l'annuaire des équipements de la Ville, plus ancien, indique encore 8h-12h.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Poissons",
+      "Produits du terroir tarn-et-garonnais"
+    ],
+    "description": "Marché de la rive gauche du Tarn, à 700 m de la mairie en passant le Pont-Vieux : la Ville y compte près de 160 exposants, producteurs locaux, commerçants de bouche et quelques étals non alimentaires. La photographie est une illustration thématique versée au domaine public, qui ne montre pas ce marché.",
+    "site_web": "https://montauban.com/au-quotidien/vie-des-quartiers/les-marches-de-plein-vent",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.016015,1.34447",
+    "image_url": "/images/marchands/marche-du-mercredi-place-lalaque-montauban.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-jeudi-memo-montauban",
+    "nom": "Marché de producteurs du jeudi à la Mémo",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.010379,
+    "lon": 1.374886,
+    "adresse": "Parking Isadora Duncan (quartier de la Médiathèque Mémo), rue Isadora Duncan, 82000 Montauban",
+    "horaires": "Le jeudi de 8h à 13h, du printemps à l'automne : en 2026, du 19 mars au 30 septembre, d'après la page des marchés et l'annonce de la Ville du 24 mars 2026. Pas de marché en hiver ; les dates de la saison suivante ne sont pas encore publiées.",
+    "produits": [
+      "Légumes de maraîchers",
+      "Fruits",
+      "Fromages"
+    ],
+    "description": "Petit marché saisonnier d'une dizaine de producteurs du Tarn-et-Garonne (maraîchers, fruitiers, fromagers), installé sur le parking voisin de la médiathèque, à 1,9 km de la mairie. Le point est celui de la rue Isadora Duncan. La photographie est une illustration thématique versée au domaine public, qui ne montre pas ce marché.",
+    "site_web": "https://montauban.com/au-quotidien/vie-des-quartiers/les-marches-de-plein-vent",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.010379,1.374886",
+    "image_url": "/images/marchands/marche-du-jeudi-memo-montauban.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-oc-ale-bressols",
+    "nom": "Brasserie Oc'Ale",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.943428,
+    "lon": 1.309914,
+    "adresse": "547 Chemin du Château d'Eau, 82710 Bressols",
+    "horaires": "Du lundi au vendredi de 10h à 18h, de préférence sur rendez-vous (appeler avant de venir), d'après le site de la brasserie. Fermetures pour congés annoncées sur ce même site.",
+    "produits": [
+      "Bière blanche",
+      "Bière blonde",
+      "Bière ambrée",
+      "Bière noire (stout)",
+      "IPA",
+      "Bières de saison (printemps, Noël)"
+    ],
+    "description": "Brasserie artisanale fondée en 1998 dans le Tarn-et-Garonne et installée à Bressols depuis 2019, à 8,8 km de la mairie de Montauban ; ses bières non filtrées sont refermentées en bouteille, et sa blanche de printemps est brassée avec un verger du département. Aucune certification biologique. La photographie est une illustration thématique versée au domaine public (cônes de houblon) et ne montre pas la brasserie.",
+    "telephone": "09 50 33 54 90",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.943428,1.309914",
+    "image_url": "/images/marchands/brasserie-oc-ale-bressols.jpg",
+    "a_confirmer": true
   }
 ]
