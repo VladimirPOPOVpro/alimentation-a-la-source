@@ -11857,6 +11857,102 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-quatrième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41** : rien n'a été publié depuis le dernier calcul (894 fiches) ; le classement ne change donc pas (règle
+260) : **Nord (59)** premier non épuisé, **Moselle (57)** second (règle 248). La dernière passe publiée visait l'Occitanie : la
+règle 41.c ne joue pas.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Hergnies, douze communes (règle 247). Contrôle à deux agents (règle 257) : les Villes d'Hérin,
+d'Escautpont et d'Abscon répondent 200 à l'agent par défaut et 403 à l'agent nommé, comme l'office de tourisme de la Porte du
+Hainaut ; les neuf autres Villes répondent 200 aux deux. Hergnies sert le `robots.txt` qui ferme `/fileadmin/` aux agents d'IA
+(règle 294). Gondecourt : l'annuaire de l'administration renvoie vers une application tierce, le site propre de la Ville répond
+200 aux deux agents. Au registre bio, sur ces douze communes : grandes surfaces, grossistes, brasseries sans vente déclarée,
+exploitations sous patronyme, une association cessée.
+
+1. **Hergnies** (4 479) — aucun marché régulier publié, seulement des marchés ponctuels ; la seule ferme en vente directe de
+   l'annuaire communal est désignée sous patronyme. **Zéro.**
+2. **Provin** (4 428) — marché du dimanche (8h30-12h30, place Jean-Jaurès ; fromagerie, primeur, rôtisserie, poissonnerie
+   les 1er et 3e dimanches), publié à deux endroits de la Ville : **faits entiers**. Les mentions légales de la Ville nomment
+   les images et les photographies (règle 231), et la seule image de la page est une illustration, pas le lieu. **Zéro.**
+3. **Steenvoorde** (4 332) — marché du samedi (8h-13h, halle marchande de la rue de Poperinghe ; fruits et légumes,
+   fromages, boucherie, rôtisserie, poissonnerie), confirmé par l'office de Cœur de Flandre : **faits entiers**. Les
+   photographies de la Ville sont fermées par les mentions légales de l'agglomération auxquelles elle renvoie, qui nomment les
+   images (règle 231) ; celle de l'office porte un « © » (règle 305). La ferme maraîchère biologique du registre est cessée
+   depuis septembre 2024 ; la brasserie, grossiste, a fermé son établissement local. **Zéro.**
+4. **Escautpont** (4 202) — la Ville refuse l'agent nommé (règle 257). Une ferme à enseigne de la rue du Vieux-Cimetière
+   (viandes, volailles, fruits et légumes, œufs, miel ; société active) a ses horaires publiés par la plateforme des parcs
+   naturels régionaux, mais son `robots.txt` interdit à tous les agents la page de ses mentions légales : ses images ne se
+   lisent pas avec leurs conditions (règle 214). **Zéro.**
+5. **Bray-Dunes** (4 189) — la Ville publie trois séances de marché dans une image (jeudi 8h-13h, dimanche 8h-13h, jeudi
+   d'été 14h-18h), mais aucune famille de produits propre au marché (règle 197) : le formulaire d'inscription des exposants
+   n'en tient pas lieu. Photographies de la Ville sans clause ni « © », dont une vue des étaux sans visage proche : l'image
+   est là, les faits non. **Zéro.**
+6. **Thumeries** (4 170) — le marché du samedi (8h-13h, place du Général-de-Gaulle) ne se lit que dans un arrêté de 2020 ;
+   les produits ne viennent que d'une plateforme tierce (règle 196) ; mentions légales de la Ville fermant les images.
+   **Zéro.**
+7. **Hérin** (4 169) — la Ville refuse l'agent nommé (règle 257) ; aucun producteur installé dans le guide de Valenciennes
+   Métropole. **Zéro.**
+8. **Gondecourt** (4 148) — aucun marché ; l'association de permaculture du registre est cessée depuis janvier 2026 et son
+   ancien domaine sert aujourd'hui un centre de formation sans rapport (piège Santa Lucia) ; l'exploitation maraîchère voisine
+   ne publie ni horaires ni site ; la brasserie n'a aucun établissement dans la commune. **Zéro.**
+9. **Solesmes** (4 142) — marché de producteurs du troisième jeudi (16h-19h30, marché couvert, place du Maréchal-Foch,
+   jusqu'au 17 décembre 2026) décrit par la seule phrase « produits locaux, frais et de saison » (règle 197), à un seul endroit
+   du site ; mentions légales de la Ville fermant les photographies. **Zéro.**
+10. **Ghyvelde** (4 133) — marché d'été du vendredi connu d'une seule affiche de 2025, sans famille de produits ni saison
+    2026 confirmée ; mentions légales fermant les photographies. **Zéro.**
+11. **Bouchain** (4 113) — marché du dimanche (8h30-12h30, esplanade Charles-de-Gaulle ; volailles, miel, fruits et légumes,
+    fromages) publié par deux affiches de la Ville : **faits entiers** ; le distributeur de produits fermiers de la rue
+    Léon-Piérard (ouvert 24h/24 selon la Ville ; société active, siège dans une commune voisine) : **faits entiers**. Aucune
+    photographie du lieu ni de l'un ni de l'autre : la Ville ne publie que des affiches illustrées, et l'office de la Porte du
+    Hainaut refuse l'agent nommé. **Zéro fiche entière.**
+12. **Abscon** (4 108) — la Ville refuse l'agent nommé (règle 257). **Zéro.**
+
+**Moselle, second département (règle 248)** — contrôle à deux agents : Villes de Freyming-Merlebach et de Creutzwald, 200 aux
+deux.
+
+1. **Freyming-Merlebach** (13 266), commune calculée — marché du jeudi (8h-12h, rue Foch) sans aucune famille de produits
+   (règle 197). Le fabricant de pâtes biologique du registre n'a ni boutique ni horaires ; la jeune société de boulangerie du
+   registre vend dans le Loiret. **Zéro.**
+2. **Creutzwald** (12 254) — marché du jeudi (8h-12h, place du Marché) décrit par une phrase générique (règle 197) ; marché
+   biologique des mercredis « actuellement suspendu » selon la Ville ; le grossiste biologique ne vend qu'en ligne. Le magasin
+   biologique indépendant de la rue de la Houve a ses **faits entiers** (horaires sur son site, société active), mais ses
+   mentions légales nomment les photographies (règle 231), comme celles de la Ville. **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : à Steenvoorde, l'office ouvre le marché à 7h dans ses horaires structurés et à 8h dans sa description ; la
+Ville écrit 8h, c'est elle qui fait foi (règle 22). À Bray-Dunes, la Ville et l'office de Dunkerque divergent sur les heures du
+jeudi et sur l'existence du marché du dimanche : si la fiche part un jour, la version de la Ville est retenue et l'écart signalé
+avec `a_confirmer` (règle 5). À Freyming-Merlebach, l'office donne 7h30-12h30 place du Kiosque, pour une période close au 31 mai ;
+la Ville, 8h-12h rue Foch. Aucune autre.
+
+**Fiches écartées pour doute sur une personne** : à Hergnies, une ferme de l'annuaire communal désignée sous patronyme ; à
+Provin, un maraîcher du registre sous patronyme ; à Abscon et à Bouchain, des exploitations du registre sous patronyme ; à
+Freyming-Merlebach, une boulangerie dont l'enseigne est un patronyme ; à Bray-Dunes, un point de vente fermier sans site, connu
+d'un réseau social seulement. Non instruites, elles ne se rouvrent pas. Les noms d'exploitants et de dirigeants que citent les
+pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Leffrinckoucke** (4 078). Dans la **Moselle**, à
+**Sarrebourg** (12 170).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Provin (marché du dimanche), Steenvoorde (marché du samedi), Bouchain (marché du dimanche et distributeur fermier) : faits
+  entiers. **Déblocage** : une photographie du lieu, ou thématique de la commune, publiée sans interdiction de reprise.
+- Escautpont, ferme à enseigne : faits entiers. **Déblocage** : des mentions légales lisibles par tous les agents.
+- Bray-Dunes (marché) : image permise. **Déblocage** : une famille de produits écrite par la Ville ou l'office.
+- Solesmes (marché de producteurs), Freyming-Merlebach et Creutzwald (marchés du jeudi) : **Déblocage** : une famille de
+  produits propre au marché, écrite par la Ville ou l'office.
+- Thumeries (marché du samedi) : **Déblocage** : jour, heures et produits publiés par la Ville depuis 2020.
+- Creutzwald, magasin biologique indépendant : faits entiers. **Déblocage** : une photographie permise, et une seconde fiche
+  entière dans la commune.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-troisième) : Nord et Moselle, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
