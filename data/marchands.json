@@ -23802,5 +23802,137 @@
     "image_url": "/images/marchands/les-fables-de-la-terre-concoures.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44.445483,2.646781"
+  },
+  {
+    "slug": "marche-du-mardi-saint-andre-lez-lille",
+    "nom": "Marché du mardi de Saint-André-lez-Lille",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.662442,
+    "lon": 3.05163,
+    "adresse": "Place du Général-De-Gaulle, 59350 Saint-André-lez-Lille",
+    "horaires": "Le mardi de 8h à 12h30, place du Général-De-Gaulle et rue de l'Église (heures publiées par la Ville de Saint-André ; la plateforme régionale ouacheterlocal.fr annonce 8h-13h).",
+    "produits": [
+      "Fruits et légumes",
+      "Pommes et poires de vergers voisins",
+      "Jus de fruits",
+      "Étals non alimentaires"
+    ],
+    "description": "Le plus grand et le plus ancien marché de la commune, tenu depuis 1959 au pied de l'église, avec une quarantaine d'exposants selon la Ville. La plateforme régionale des circuits courts y recense des arboriculteurs et maraîchers des communes voisines ; un conteneur de collecte des biodéchets y est installé chaque mardi.",
+    "telephone": "03 20 63 07 50",
+    "site_web": "https://www.villesaintandre.fr/10392-marches.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral-De-Gaulle%2059350%20Saint-Andr%C3%A9-lez-Lille",
+    "image_url": "/images/marchands/marche-du-mardi-saint-andre-lez-lille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-saint-andre-lez-lille",
+    "nom": "Biocoop Saint-André",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.666916,
+    "lon": 3.030852,
+    "adresse": "Chemin de Messines, 59350 Saint-André-lez-Lille",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30, fermé le dimanche (horaires publiés par le magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Fruits et légumes d'une ferme bio de Wambrechies",
+      "Fromages fermiers du Boulonnais",
+      "Bières paysannes de l'Artois",
+      "Boulangerie",
+      "Charcuterie"
+    ],
+    "description": "Magasin du réseau Biocoop ouvert en 2018 près de la sortie 8 de la rocade nord-ouest, avec rayons boulangerie, fromagerie et charcuterie. Sa page de producteurs locaux cite des fermes et brasseries du Nord et du Pas-de-Calais. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le magasin.",
+    "telephone": "03 28 52 80 99",
+    "site_web": "https://www.biocoop-saint-andre.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Chemin%20de%20Messines%2059350%20Saint-Andr%C3%A9-lez-Lille",
+    "image_url": "/images/marchands/biocoop-saint-andre-lez-lille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-du-coeur-joyeux-quesnoy-sur-deule",
+    "nom": "AMAP du Cœur Joyeux",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.70077,
+    "lon": 2.99816,
+    "adresse": "518 Chemin du Cœur Joyeux, 59890 Quesnoy-sur-Deûle",
+    "horaires": "Distribution le mercredi de 17h30 à 19h à la ferme du Cœur Joyeux, sur abonnement annuel (44 distributions par saison).",
+    "produits": [
+      "Paniers de légumes bio de saison",
+      "Œufs bio",
+      "Pommes, poires et jus de fruits",
+      "Viande bio (porc, bœuf, veau, agneau)",
+      "Pain de blés anciens",
+      "Fleurs de saison"
+    ],
+    "description": "AMAP adossée à une ferme maraîchère certifiée bio depuis 2015, qui cultive une cinquantaine de légumes en 250 variétés sur deux hectares et demi ; les paniers de 4 à 6 légumes sont distribués à la ferme par les adhérents, à tour de rôle. D'autres producteurs des Hauts-de-France y livrent fruits, viande, pain et fleurs.",
+    "site_web": "https://www.amap-coeurjoyeux.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=518%20Chemin%20du%20C%C5%93ur%20Joyeux%2059890%20Quesnoy-sur-De%C3%BBle",
+    "image_url": "/images/marchands/amap-du-coeur-joyeux-quesnoy-sur-deule.jpg"
+  },
+  {
+    "slug": "marche-du-dimanche-quesnoy-sur-deule",
+    "nom": "Marché du dimanche de Quesnoy-sur-Deûle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.712152,
+    "lon": 3.000738,
+    "adresse": "Place du Général-de-Gaulle, 59890 Quesnoy-sur-Deûle",
+    "horaires": "Le dimanche de 8h à 13h, place du Général-de-Gaulle (heures publiées par la Ville).",
+    "produits": [
+      "Légumes de saison",
+      "Pommes de terre",
+      "Miel",
+      "Œufs"
+    ],
+    "description": "Marché dominical du centre-bourg, où la Ville propose régulièrement des animations ; sa liste des producteurs locaux et la plateforme régionale des circuits courts y signalent des maraîchers des communes voisines. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas ce marché.",
+    "telephone": "03 20 63 16 66",
+    "site_web": "https://www.quesnoysurdeule.fr/en/rb/1466493/marches-et-vide-greniers",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2059890%20Quesnoy-sur-De%C3%BBle",
+    "image_url": "/images/marchands/marche-du-dimanche-quesnoy-sur-deule.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "p-tit-marche-du-samedi-lesquin",
+    "nom": "P'tit marché du samedi de Lesquin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.590903,
+    "lon": 3.115693,
+    "adresse": "Place Haine-Saint-Pierre, 59810 Lesquin",
+    "horaires": "Le samedi de 8h à 12h30, place Haine-Saint-Pierre (heures publiées par la Ville). Un second « p'tit marché » se tient le jeudi de 16h à 19h30, place Hoche.",
+    "produits": [
+      "Légumes de saison",
+      "Poulets rôtis",
+      "Olives",
+      "Fromagerie et crèmerie"
+    ],
+    "description": "Petit marché alimentaire du samedi matin que la Ville de Lesquin présente sous le nom « Mon p'tit marché », avec la liste de ses étals. Le point de la carte est celui de la rue Haine-Saint-Pierre, que la Base Adresse Nationale connaît, la place elle-même n'y figurant pas ; la photographie est une illustration thématique libre de droits (CC0).",
+    "site_web": "https://www.ville-lesquin.fr/lesquin/mon-ptit-marche",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Haine-Saint-Pierre%2059810%20Lesquin",
+    "image_url": "/images/marchands/p-tit-marche-du-samedi-lesquin.jpg",
+    "a_confirmer": true
   }
 ]

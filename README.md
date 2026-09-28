@@ -4542,9 +4542,34 @@ prioritaires en cas de conflit.
      s'y vend. Elle reste la phrase générique de la règle 329. **Déblocage** : une famille de produits écrite par la Ville
      comme constat (page, arrêté de tolérance, liste d'exposants).
 
+371. **Une photographie thématique versée au domaine public (CC0 ou marque du domaine public), prise sur Flickr par
+     l'annuaire Openverse, remplit la règle 1 sans condition de commune ; la règle 231 ne fait plus attendre une fiche entière
+     pour une question d'image.** Huit passes de suite (soixante-dix-neuvième à quatre-vingt-sixième) n'ont rien publié, et
+     chacune a consigné des fiches aux faits entiers — marchés de Templemars, Bergues, Quesnoy-sur-Deûle, Lesquin, Leers,
+     Biocoop de Saint-André-lez-Lille — retenues par la seule absence d'une image « permise de la commune ». Cette condition
+     n'est ni dans `AGENT.md`, qui place « une photo thématique honnête » en troisième recours sans lui demander d'origine, ni
+     dans l'esprit de la règle 1 (« une fiche exacte ne se reporte pas pour une question d'illustration ») ; la règle 231 l'a
+     ajoutée au motif qu'une image prise ailleurs « prétendrait montrer ce qu'elle ne montre pas », ce que la règle 1 interdit
+     déjà par la mention dans la description. **Tranché ainsi** : quand ni le lieu, ni l'office, ni la commune n'offrent une
+     image reprenable, la fiche prend une photographie thématique de l'annuaire Openverse (`api.openverse.org`, filtres
+     `license=cc0` et `source=flickr` ; Wikimedia Commons reste exclu, règle 293), à six conditions : licence CC0 ou marque du
+     domaine public lue dans la réponse de l'annuaire ; au moins 700 px de large (règle 59) ; aucun visage, aucune silhouette
+     reconnaissable, aucune signature ni nom de personne incrusté (recadrer, sinon écarter) ; aucune enseigne ni marque ; un
+     sujet cohérent avec la catégorie (produits frais, étal) ; un fichier par fiche (règle 191). La description dit que la
+     photographie est une illustration thématique libre de droits (CC0) qui ne montre pas le lieu, la fiche passe en
+     `a_confirmer`, et la passe note ici l'adresse Flickr du fichier. Une vraie photographie du lieu, dès qu'elle est
+     permise, la remplace. Les autres exigences de la règle 231 (clause nommant les images d'une source) restent entières :
+     elles ferment une source, elles ne ferment plus la fiche. Premier usage : la passe du 28 septembre 2026
+     (quatre-vingt-septième), qui publie la zone de Saint-André-lez-Lille.
+
 ## Marchands à confirmer
 
-789 fiches sur 894 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+793 fiches sur 899 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du mardi de Saint-André-lez-Lille**, **Biocoop Saint-André** (Saint-André-lez-Lille), **Marché du dimanche de
+  Quesnoy-sur-Deûle** et **P'tit marché du samedi de Lesquin** (passe du 28 septembre 2026, quatre-vingt-septième) :
+  heures du mardi contestées (Ville 8h-12h30, plateforme régionale 8h-13h) ; Biocoop au point du registre, la Base ne
+  connaissant que la voie ; place Haine-Saint-Pierre inconnue de la Base, point de la rue du même nom ; photographies
+  thématiques CC0 pour les trois dernières (règle 371).
 - **Marché du samedi de Rodez** et **Les Halles de Rodez** (Rodez) (passe du 27 septembre 2026 ; photographies thématiques
   de la Ville, marché du faubourg et place du Bourg un soir d'été, recadrées au-dessus des visages, règles 203 et 239).
 - **Les Halles de l'Aveyron** (Onet-le-Château) (point de la carte du magasin, à 90 m du registre, la Base ne connaissant que
@@ -11866,6 +11891,47 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-septième) : Saint-André-lez-Lille (Nord), cinq fiches dans la Métropole européenne de Lille
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41** : 894 fiches au départ, rien de publié depuis le dernier calcul ; **Nord (59)** reste premier
+(30 fiches pour une cible d'environ 35). La dernière passe publiée visait l'Occitanie : la règle 41.c ne joue pas.
+
+**Pourquoi cette zone** : la règle 371, née ici, lève la condition d'une image « permise de la commune ». Relue sous cette
+règle, la descente du Nord trouve sa première zone à **Saint-André-lez-Lille** (13 233), déjà éprouvée par la
+soixante-quinzième passe : le marché du mardi y était entier et la Biocoop n'attendait qu'une image. Aucune commune du Nord
+plus peuplée et sans fiche n'avait été consignée avec deux fiches aux faits entiers (relecture des passes consignées) ; la
+passe ne saute donc aucun échelon (règle 127). Le groupe est complété dans la même intercommunalité (règle 96) :
+
+1. **Marché du mardi de Saint-André-lez-Lille** — page « Les marchés de plein air » de la Ville (mardi 8h-12h30, place du
+   Général-De-Gaulle et rue de l'Église, une quarantaine d'exposants, depuis 1959) ; produits lus sur la plateforme régionale
+   ouacheterlocal.fr (fruits du verger, jus) ; photographie de la Ville (mentions légales sans clause sur les images,
+   `robots.txt` ouvert), recadrée au-dessus de toute personne.
+2. **Biocoop Saint-André**, chemin de Messines (1,1 km de la mairie) — horaires et fixe sur le site du magasin, société
+   active au registre (un établissement ouvert), liste de producteurs locaux propre au magasin ; point du registre, la Base
+   ne rendant que la voie (65 m). Photographie : https://www.flickr.com/photos/29155878@N03/18249418531 (CC0).
+3. **AMAP du Cœur Joyeux**, Quesnoy-sur-Deûle (5,4 km) — distribution le mercredi 17h30-19h au 518 chemin du Cœur Joyeux
+   (numéro connu de la Base), selon le site de l'AMAP pour la saison 2025-2026 ; photographie de ses paniers, publiée par
+   l'AMAP sans clause.
+4. **Marché du dimanche de Quesnoy-sur-Deûle** (6,4 km) — dimanche 8h-13h, place du Général-de-Gaulle, page « Marchés et
+   vide-greniers » de la Ville ; légumes et pommes de terre (plateforme régionale), miel et œufs (liste communale, règle 367).
+   Photographie : https://www.flickr.com/photos/29507259@N02/8538399590 (CC0).
+5. **P'tit marché du samedi de Lesquin** (9,4 km) — samedi 8h-12h30, place Haine-Saint-Pierre, familles écrites par la Ville
+   (légumes de saison, poulets rôtis, olives, fromagerie et crèmerie). Photographie :
+   https://www.flickr.com/photos/29507259@N02/8538378880 (CC0), recadrée pour ôter une silhouette lointaine.
+
+**Contradictions** : marché du mardi, 8h-12h30 (Ville) contre 8h-13h (plateforme régionale) — les deux versions sont
+écrites, la Ville en premier (règle 5). AMAP : l'annuaire régional donne le 484 chemin du Cœur Joyeux, le site de l'AMAP le
+518 ; on retient l'AMAP, plus récente et source directe.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle. Les pages consultées nomment des producteurs et des
+responsables ; aucun de ces noms n'est repris, ni dans les fiches, ni ici.
+
+**Laissé de côté** : le marché du samedi de Saint-André (familles de produits non écrites, règle 197) ; les autres pistes du
+Nord aux faits entiers retenues par l'image (Templemars, Bergues, Coutiches, Leers, Annœullin, La Bassée, Marchiennes)
+deviennent publiables sous la règle 371 dès qu'elles réunissent la seconde fiche de leur commune ; elles sont la dette de
+la prochaine passe dans la région (règle 11), qui ne peut être la suivante (règle 41.c).
 
 ### Passe du 28 septembre 2026 (quatre-vingt-sixième) : Nord et Moselle, aucune publication
 
