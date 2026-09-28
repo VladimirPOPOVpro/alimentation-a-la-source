@@ -4521,6 +4521,16 @@ prioritaires en cas de conflit.
      denrées alimentaires » reste la phrase générique de la règle 329 et ne compte pas. Le reste des exigences est entier : la
      fiche attend une image permise (règle 127), et la seule photographie de la page montre des enfants devant un étal de jouets
      (règle 70).
+369. **Une page de Ville qui renvoie vers un formulaire de connexion, ou que le serveur refuse aux deux agents (403 à l'agent par
+     défaut comme à l'agent nommé), n'est pas une source : le fait qu'elle seule porterait n'est pas publié.** Le 28 septembre
+     2026, dans le Nord, la page « Marchés » de la Ville de Fenain renvoie, pour l'un et l'autre agent, vers la page de
+     connexion de son gestionnaire de contenu ; à Wormhout, l'article « Marché hebdomadaire » que référencent les moteurs de
+     recherche répond 403 aux deux agents, alors que le reste du site répond 200. Les jours et heures que des annuaires tiers
+     disent tirer de ces pages ne se vérifient donc nulle part. **Tranché ainsi** : ce n'est ni le refus nominatif de la règle
+     257 (le serveur ne distingue pas l'agent), ni le site muet de la règle 237 (le reste du site répond) — c'est une page
+     retirée ou réservée, qui ne documente plus rien. La commune se traite comme ne publiant pas ce fait ; l'annuaire tiers
+     qui le reprend ne le remplace pas (règles 90 et 196). **Déblocage** : la page servie en clair à l'un des deux agents, ou le
+     même fait publié ailleurs par la Ville.
 
 ## Marchands à confirmer
 
@@ -11846,6 +11856,88 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-deuxième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, règle 224), outre-mer écarté
+(règle 177), sur 894 fiches : départements épuisés sautés (règle 265) ; **Nord (59) 3,913**, premier non épuisé ; **Moselle
+(57) 3,631**, second (règle 248). La dernière passe publiée visait l'Occitanie : les Hauts-de-France et le Grand Est restent
+ouverts (règle 41.c). Rien n'étant publié, le classement ne change pas (règle 260).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Environnement** : le disque de la machine qui fait tourner la passe n'avait plus que quelques centaines de mégaoctets libres,
+et plusieurs écritures ont échoué en cours de passe (« no space left on device »). La passe n'a rien supprimé hors du dépôt ;
+elle a travaillé sans téléchargement d'image.
+
+**Nord**, descente reprise à Wallers, douze communes (règle 247). Contrôle à deux agents (règle 257) : la Ville de
+Ferrière-la-Grande répond 200 à l'agent par défaut et 403 à l'agent nommé ; les onze autres répondent 200 aux deux. Wallers,
+Flers-en-Escrebieux, Dechy et Petite-Forêt servent le `robots.txt` qui ferme `/fileadmin/` aux agents d'IA, où sont leurs
+images (règle 294). La plateforme régionale de points de vente des producteurs refuse l'agent nommé (403, règle 257). Au
+registre bio, sur ces douze communes : grandes surfaces, grossistes, boulangeries sans vente déclarée et exploitations sous
+patronyme.
+
+1. **Wallers** (5 633) — marché du dimanche transféré sur le parking d'une école (page de la Ville du 12 septembre 2025), sans
+   heures ni produits (règles 192 et 197), image sous `/fileadmin/` (règle 294). Une ferme bio de l'annuaire communal est une
+   entreprise individuelle dont le siège est le point de vente et dont le seul contact est un portable (règles 311 et 325).
+   **Zéro.**
+2. **La Gorgue** (5 616) — la Ville ne publie aucun marché lisible ; au registre, une grande surface, un grossiste, des
+   exploitations sous patronyme. **Zéro.**
+3. **Wormhout** (5 584) — l'article de la Ville sur le marché du mercredi répond 403 aux deux agents (règle 369, née ici) ;
+   l'annuaire communal fiche une chèvrerie qui, sur son propre site, ne tient plus d'ouverture régulière et vend sur commande
+   (règle 192), une brasserie qui ne publie que sur un réseau social, et une ferme sous patronyme. **Zéro.**
+4. **Baisieux** (5 545) — aucun marché publié ; les trois fermes de l'annuaire communal sont désignées sous patronyme.
+   **Zéro.**
+5. **Fenain** (5 441) — la page « Marchés » de la Ville renvoie vers une page de connexion (règle 369). **Zéro.**
+6. **Wervicq-Sud** (5 426) — aucun marché ni point de vente alimentaire en circuit court dans l'annuaire communal. **Zéro.**
+7. **Flers-en-Escrebieux** (5 424) — la Ville ne publie aucune page de marché : le marché du vendredi n'est recensé que par des
+   annuaires tiers (règle 196). **Zéro.**
+8. **Erquinghem-Lys** (5 341) — un verger en vente directe (pommes, poires, jus) : l'ancienne page de l'annuaire communal
+   n'existe plus (404 après refonte du site), les horaires ne paraissent que sur un réseau social et des annuaires tiers
+   (règle 192). Aucun marché publié. **Zéro.**
+9. **Dechy** (5 338) — l'annuaire communal ne liste aucun producteur ni marché. **Zéro.**
+10. **Bauvin** (5 249) — la Ville ne publie aucune page de marché ; le marché du vendredi n'est connu que d'annuaires tiers
+    (règle 196). **Zéro.**
+11. **Ferrière-la-Grande** (5 131) — la Ville refuse l'agent nommé (règle 257). Une micro-ferme maraîchère en entreprise
+    individuelle ne vend que sur commande, contact par portable (règles 134 et 311). **Zéro.**
+12. **Petite-Forêt** (5 054) — le magasin bio du registre est fermé au registre des entreprises (zéro établissement ouvert) ;
+    la Ville n'annonce qu'un marché ponctuel d'automne. **Zéro.**
+
+**Moselle, second département (règle 248)** — contrôle à deux agents : Villes de Hayange et de Woippy, 200 aux deux.
+
+1. **Hayange** (15 806), commune calculée — **marchés du jeudi et du samedi** (8h-12h, rues Jean-Moulin, du Général-de-Gaulle
+   et, le jeudi, du Maréchal-Foch ; fruits et légumes, viande, avec du non-alimentaire) aux faits entiers ; mais les mentions
+   légales de la Ville soumettent toute reproduction des photographies à une autorisation écrite (règle 231). Au registre :
+   grandes surfaces, boulangeries sans vente déclarée, un caviste, une exploitation sous patronyme. **Zéro.**
+2. **Woippy** (14 967) — marché du vendredi (8h-12h, place du Chapitre) sur une page de la Ville datée de la crise sanitaire,
+   sans famille de produits (règle 197). Au registre : grandes surfaces, un grossiste, une épicerie absente du registre des
+   entreprises sous son nom (règle 6). **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : pour le verger d'Erquinghem-Lys, trois adresses — le registre des entreprises ferme l'établissement que
+les annuaires tiers donnent, garde ouvert le siège à un autre numéro de la même rue, et le registre bio le place dans une
+autre rue. Si la fiche part un jour, c'est l'établissement ouvert du registre qui donne le point, après confirmation par la
+voix du commerce (règles 10 et 24). Aucune autre.
+
+**Fiches écartées pour doute sur une personne** : à Wallers, une ferme bio (entreprise individuelle, siège au point de vente,
+portable seul) ; à Baisieux, trois fermes sous patronyme ; à Wormhout, une ferme sous patronyme ; à Ferrière-la-Grande, une
+micro-ferme en entreprise individuelle ; à Hayange, une exploitation du registre. Non instruites, elles ne se rouvrent pas.
+Les noms d'exploitants et de dirigeants que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Bousbecque** (4 978). Dans la **Moselle**, à **Fameck**
+(14 788).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Hayange (marchés du jeudi et du samedi) : faits entiers. **Déblocage** : une photographie permise, sans visage.
+- Erquinghem-Lys, verger en vente directe : **Déblocage** : des horaires publiés par le commerce ou la Ville, et l'adresse
+  tranchée.
+- Wormhout (marché du mercredi), Fenain (marché du samedi) : **Déblocage** : la page de la Ville servie en clair (règle 369).
+- Woippy (marché du vendredi) : **Déblocage** : une famille de produits écrite par la Ville.
 
 ### Passe du 27 septembre 2026 (quatre-vingt-unième) : Nord et Moselle, aucune publication
 
