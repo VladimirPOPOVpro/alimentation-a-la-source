@@ -11999,6 +11999,87 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-dix-huitième) : fin de la descente de la Somme et Jura, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 924 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : inchangé, **Somme (80) 3,5768** premier non épuisé, **Jura (39) 3,4570** second
+(règle 248), Indre-et-Loire 3,2997 ensuite. La dernière passe publiée visait l'Occitanie : la réserve reste la sienne.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Reprise d'Abbeville** (règle 258). Déblocage toujours non rempli : le `robots.txt` de `baiedesomme.fr` écrit toujours
+`User-Agent: *` / `Disallow: /` (règle 282), `somme-tourisme.com` et `ouacheterlocal.fr` répondent 403 à l'agent nommé et
+200 ou 301 à l'agent par défaut (règle 257), `abbeville-tourisme.com` reste une page d'attente. Les deux fiches restent désignées.
+
+**Somme, neuf communes (règles 247 et 265)**, de Feuquières-en-Vimeu à Fressenneville, les dernières de plus de 2 000
+habitants ; aucune commune sautée depuis Pont-de-Metz (règle 375). Contrôle à deux agents sur chaque site communal, adresses
+lues à l'annuaire de l'administration. Registre de l'Agence Bio relu en entier sur la Somme (592 opérateurs), filtré sur les
+neuf communes : des grandes surfaces, des grossistes, des jardineries, et des exploitations inscrites sous le nom de leurs
+exploitants.
+
+1. **Feuquières-en-Vimeu** (2 414) — aucune page de marché ; la page « Commerces » de la Ville ne porte aucun commerce en
+   circuit court. **Zéro.**
+2. **Gamaches** (2 397) — la page « Jour de marché » de la Ville donne le samedi matin, place du Maréchal-Leclerc, sans heures
+   ni famille de produits (« des produits frais », phrase générique, règle 197). **Zéro.**
+3. **Cayeux-sur-Mer** (2 316) — aucune page de marché hebdomadaire (seuls marché de Noël et marches sportives). **Zéro.**
+4. **Saint-Valery-sur-Somme** (2 306) — la page « Les marchés » de la Ville donne le mercredi « à partir de 8h30 » (quai de
+   l'Amiral-Courbet) et le dimanche « à partir de 7h » (place des Pilotes, quai du Romerel), sans heure de fin ni famille de
+   produits ; seul le marché du Quai, estival et clos, dit ce qu'il vend. L'AMAP de la baie n'est connue que d'un annuaire
+   associatif et d'un réseau social (règle 195). **Zéro.**
+5. **Nesle** (2 284) — aucune page de marché (seuls des marchés de Noël). **Zéro.**
+6. **Poix-de-Picardie** (2 282) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé : exclue (règle 257) ; au
+   registre bio, rien que des grandes surfaces et une coopérative agricole. **Zéro.**
+7. **Vignacourt** (2 263) — aucune page de marché hebdomadaire. **Zéro.**
+8. **Airaines** (2 204) — aucune page de marché ; la page « Commerces » de la Ville cite un primeur-fromager-épicerie fine qui
+   n'a qu'un réseau social et un portable, sans liste de producteurs (règles 196 et 361) ; l'AMAP n'est connue que d'un annuaire
+   associatif et d'un réseau social (règle 195). **Zéro.**
+9. **Fressenneville** (2 045) — aucune page de marché ; la seule actualité commerciale est une supérette généraliste. **Zéro.**
+
+**La Somme est épuisée** (règle 265) : la commune suivante, Chaulnes, compte 1 969 habitants. Aucune fiche entière n'a été
+laissée par cette passe ; les fiches désignées du département (deux à Abbeville, dans la Communauté d'agglomération de la Baie
+de Somme, une à Rivery, dans Amiens Métropole) n'atteignent quatre dans aucune intercommunalité : la règle 302, appliquée
+sur-le-champ par la règle 373, ne s'ouvre pas.
+
+**Jura, deux communes (règle 248)** :
+
+1. **Hauts de Bienne** (5 032) — la Ville (200 aux deux agents) publie le marché du samedi matin sur le parvis de la mairie de
+   Morez, sans heures ni famille de produits (règle 197) ; au registre bio, une seule grande surface. **Zéro.**
+2. **Poligny** (3 976) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé : exclue (règle 257) ; l'office
+   départemental (`jura-tourism.com`, 200 aux deux agents) ferme ses photographies en toutes lettres (règle 231), l'office du
+   Cœur du Jura et le site du crémier-affineur de la place des Déportés refusent l'agent nommé (règle 257). **Une fiche aux
+   faits lus, seule** : la **fruitière à Comté coopérative** de la zone de Grimont Sud (société coopérative active à cette
+   adresse, horaires jour par jour à l'office départemental). Rien d'autre d'entier : le marché du lundi et du vendredi (8h-12h,
+   place des Déportés) n'est publié que par l'office, sans famille de produits (règles 196 et 197) ; le rucher et la
+   boulangerie biologique de la commune n'ont que des annuaires tiers ; le magasin biologique de la rue Jean-Eschbach a
+   changé d'exploitant, désormais inscrit sous son nom. **Zéro.**
+
+**Contradictions** : une, sur la fruitière de Poligny — l'office écrit qu'elle ouvre « tous les jours, sauf le dimanche
+après-midi », mais son tableau d'horaires ne porte ni le mercredi ni le dimanche. Rien n'étant publié, elle se consigne ici
+(règle 5) : la fiche, quand elle partira, écrira le tableau et sera `a_confirmer`.
+
+**Fiches écartées pour doute sur une personne** : cinq pistes, non instruites, qui ne se rouvrent pas — à Nesle, une
+exploitation inscrite au registre de l'Agence Bio sous le nom de son exploitant ; à Gamaches et à Airaines, une exploitation
+chacune dans le même cas ; à Poligny, un domaine viticole dont l'enseigne est patronymique, et le magasin biologique de la rue
+Jean-Eschbach, repris par une entreprise individuelle. Les noms que citent les pages consultées (élus, agents, commerçants,
+dirigeants au registre) ne sont repris nulle part.
+
+**Points d'arrêt** : la **Somme** est épuisée. Dans le **Jura**, la descente reprend à **Tavaux** (3 888).
+
+**Pistes non publiées (Somme et Jura)** — lignes anonymes :
+
+- Gamaches, marché du samedi matin : **Déblocage** : des heures et une famille de produits publiées par la Ville.
+- Saint-Valery-sur-Somme, marchés du mercredi et du dimanche : **Déblocage** : une heure de fin et une famille de produits
+  publiées par la Ville.
+- Saint-Valery-sur-Somme et Airaines, AMAP : **Déblocage** : une source datée de moins de douze mois qui nomme jour, heure,
+  lieu et produits (règle 195).
+- Hauts de Bienne, marché du samedi à Morez : **Déblocage** : des heures et une famille de produits publiées par la Ville.
+- Poligny, fruitière coopérative de Grimont Sud : faits lus, point et image non instruits. **Déblocage** : une seconde fiche
+  entière dans la commune (règle 127).
+- Poligny, marché du lundi et du vendredi : **Déblocage** : la Ville servie à l'agent nommé, ou une autre autorité qui publie
+  le marché avec ce qui s'y vend.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-dix-septième) : Somme et Jura, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
