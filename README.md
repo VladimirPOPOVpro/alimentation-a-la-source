@@ -11897,6 +11897,73 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-neuvième) : Moselle et Val-de-Marne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 904 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Moselle (57) 3,7831** premier non épuisé, **Val-de-Marne (94) 3,7076**
+second (règle 248), Orne 3,6080 ensuite. La passe précédente a publié dans le Puy-de-Dôme : l'Auvergne-Rhône-Alpes est réservée
+(règle 41.c), ce qui ne touche aucun des deux départements. Rien n'étant publié, le classement ne bouge pas (règle 260) et la
+réserve reste celle de l'Auvergne-Rhône-Alpes pour la passe suivante.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Moselle, reprise d'abord (règle 247)** : le déblocage nommé de Marly n'est pas atteint — la Ville ne publie toujours qu'une
+liste de produits commune à ses deux marchés (règle 329). **Descente reprise à Behren-lès-Forbach**, douze communes. Contrôle à
+deux agents (règle 257) : les douze Villes répondent 200 à l'agent nommé ; celle de L'Hôpital répond 403 à l'agent par défaut et
+200 à l'agent nommé, ce qui n'exclut pas notre robot. L'office de tourisme du Pays de Bitche répond 200 à l'agent par défaut et
+403 à l'agent nommé : non consulté (règle 257).
+
+1. **Behren-lès-Forbach** (6 166) — le marché du samedi a ses **faits entiers** (7h-12h, place du Marché, rue Stanislas ;
+   fruits, légumes, boucherie écrits par la Ville). La régie de quartier, certifiée bio depuis mai 2025 en légumes et fruits,
+   `venteParticuliers` à vrai, ne publie aucun jour ni heure de vente (règle 192). **Une fiche entière, seule. Pas deux (règle 127).**
+2. **Hombourg-Haut** (5 976) — aucun marché publié par la Ville ; les deux producteurs de sa page « produits du terroir » sont à
+   Cappel et à Guenviller. **Zéro.**
+3. **Algrange** (5 802) — marché du vendredi (7h-12h30) connu des seules pages d'agenda de 2021 (règle 195). **Zéro.**
+4. **Mondelange** (5 699) — aucun marché publié ; au registre bio, un rayon de supermarché et une chaîne de cavistes. **Zéro.**
+5. **Boulay-Moselle** (5 434) — aucun marché hebdomadaire publié ; registre bio : supermarchés, vente aux seuls professionnels. **Zéro.**
+6. **Moulins-lès-Metz** (5 265) — aucun marché ni commerce de producteur publié par la Ville (la « ferme Bradin » est une page de
+   patrimoine) ; registre bio : une boulangerie et un entrepôt. **Zéro.**
+7. **Farébersviller** (5 224) — un marché place de Lorraine n'apparaît que dans des avis d'annulation, sans heures ni produits. **Zéro.**
+8. **L'Hôpital** (5 183) — marché du samedi (8h-13h, place du Marché) sans aucune famille de produits (règle 197). **Zéro.**
+9. **Faulquemont** (5 109) — marché du jeudi (7h-12h, place du Marché) classé « marché générique », sans produits (règle 197). **Zéro.**
+10. **Bitche** (4 966) — le marché du mercredi a ses **faits entiers** (8h-12h, place Maurice-Schuman ; fromages fermiers, fruits
+    et légumes, poissonnier, rôtisserie, écrits par la Ville). Le marché couvert du samedi (rue Stuhl, une vingtaine de
+    producteurs, familles écrites par la Ville) n'a qu'une heure de début, « dès 8h », à la Ville comme dans la presse locale
+    de 2020 ; l'office qui donnerait la fin refuse l'agent nommé. Sans heure de fin, pas de fiche entière (règle 192, comme à
+    Grenade et à Chevilly). **Une fiche entière, seule. Pas deux (règle 127).**
+11. **Phalsbourg** (4 688) — marché du vendredi « matin », place d'Armes, sans heures, source unique (règle 9) ; le magasin bio
+    de la route de Trois-Maisons ne publie aucun producteur local (règle 86). **Zéro.**
+12. **Le Ban-Saint-Martin** (4 684) — aucun marché ni commerce de producteur publié par la Ville. **Zéro.**
+
+**Val-de-Marne, deux communes (règle 248)**, descente reprise après Nogent-sur-Marne :
+
+1. **L'Haÿ-les-Roses** (31 188) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) ; aucune autre
+   autorité ne publie ses marchés ; les deux magasins bio du registre n'ont ni site ni liste de producteurs (règle 86). **Zéro.**
+2. **Fresnes** (29 528) — la page « Marchés » de la Ville ne détaille que le marché Nord (samedi 8h-13h30, rue Hélène-Boucher) ;
+   la seule phrase de composition (« maraîchers, poissonniers, fleuristes ») couvre les deux marchés de la ville (règle 197) ;
+   aucune AMAP ni producteur publié. **Zéro.**
+
+**Contradictions** : aucune sur un fait retenu.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle. Les pages consultées (association de Behren, registre bio de
+Phalsbourg et de Fresnes) nomment des dirigeants et des exploitants en entreprise individuelle ; aucun nom n'est repris.
+
+**Points d'arrêt** : dans la **Moselle**, la descente reprend à **Ars-sur-Moselle** (4 616). Dans le **Val-de-Marne**, à
+**Charenton-le-Pont** (28 830), dont le marché du centre était déjà noté entier hors image (passe de Nogent) : la règle 371
+lève désormais la condition d'image, c'est la première commune à relire.
+
+**Pistes non publiées (Moselle et Val-de-Marne)** — lignes anonymes :
+
+- Behren-lès-Forbach, marché du samedi : faits entiers. **Déblocage** : une seconde fiche entière dans la commune (par exemple
+  des jours et heures de vente publiés pour le maraîchage bio de la régie de quartier).
+- Bitche, marché du mercredi : faits entiers. Marché couvert du samedi : **Déblocage** : une heure de fin publiée par une source
+  que l'agent nommé peut lire. Les deux ensemble ouvriraient la règle 127, sous réserve d'un complément dans la communauté de
+  communes du Pays de Bitche (règle 96).
+- L'Hôpital, Faulquemont : **Déblocage** : une famille de produits propre au marché, écrite par la Ville.
+- Fresnes, marché Nord : **Déblocage** : une composition propre à ce marché, et le second marché publié.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-huitième) : Cournon-d'Auvergne (Puy-de-Dôme), cinq fiches dans Clermont Auvergne Métropole ; Moselle sans zone
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée, cinq images.**
