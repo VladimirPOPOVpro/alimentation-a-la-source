@@ -4602,9 +4602,24 @@ prioritaires en cas de conflit.
      elle-même patronymique reste écartée entière, comme avant. **Déblocage** : un site ou une page du commerce qui ne porte
      pas de nom de personne.
 
+375. **Une commune que la descente a sautée s'éprouve à son rang dès la passe suivante, avant le point d'arrêt écrit.** La
+     passe du 28 septembre 2026 (quatre-vingt-treizième) a descendu l'Orne de La Ferté-Macé à Tourouvre au Perche (2 955) et
+     écrit son point d'arrêt à Rives d'Andaine (2 844). Entre les deux, **La Ferté-en-Ouche** (2 938) n'avait jamais été
+     éprouvée : elle n'apparaît dans aucune section de pistes. La règle 127 dit qu'« on ne saute jamais une commune qui
+     remplirait la règle », et la règle 247 fait reprendre la descente au point d'arrêt écrit. **Tranché ainsi** : le point
+     d'arrêt se relit contre la liste des communes du département triée par population (appel national de la règle 41) ; une
+     commune sautée s'éprouve d'abord, à son rang, puis la descente reprend au point écrit. Elle compte parmi les douze de la
+     règle 247. Première application le 28 septembre 2026 (quatre-vingt-quatorzième passe) : La Ferté-en-Ouche éprouvée avant
+     Rives d'Andaine ; son site communal refuse l'agent nommé (règle 257), elle ne rend rien.
+
 ## Marchands à confirmer
 
-810 fiches sur 916 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+814 fiches sur 920 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché hebdomadaire d'Écouché**, **Ferme des Hameaux** (Écouché-les-Vallées), **Nature Andaines** (Argentan) et **Ferme
+  de la Noë** (Tanques) (passe du 28 septembre 2026, quatre-vingt-quatorzième, règles 127 et 320) : photographies thématiques CC0
+  pour les quatre (règle 371) ; page des marchés de la Ville d'Écouché non datée ; horaires de la ferme maraîchère lus sur son
+  site et sur l'office (pages de 2024) ; horaires de la ferme laitière tenus de l'office seul (page de septembre 2025), son
+  propre site refusant l'agent nommé (règle 257).
 - **Marché des producteurs de pays — place Ducale**, **Marché des producteurs de pays — place de l'Hôtel-de-Ville**, **Biocoop
   Le Pissenlit** et **Le Péché Mignon** (Charleville-Mézières) (passe du 28 septembre 2026, quatre-vingt-treizième, règles 42 et
   320) : photographies thématiques CC0 pour les quatre (règle 371) ; marché des producteurs publié par la seule Ville (dates
@@ -11954,6 +11969,99 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-quatorzième) : quatre fiches autour d'Écouché-les-Vallées (Orne)
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 916 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Orne (61) 3,6559** premier non épuisé, **Tarn-et-Garonne (82) 3,5312**
+second (règle 248), Somme 3,5112 ensuite. La dernière passe publiée visait le Grand Est (Ardennes) : la Normandie n'est pas
+réservée (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Orne, reprise d'abord (règle 247)** : aucun déblocage nommé des pistes ornaises n'est atteint. **Descente reprise**, avec la
+commune que la passe précédente avait sautée (règle 375). Contrôle à deux agents (règle 257) sur chaque site.
+
+1. **La Ferté-en-Ouche** (2 938) — le site de la commune répond 200 à l'agent par défaut et 403 à l'agent nommé : exclu (règle
+   257), avec Orne Tourisme (même filtrage). Les opérateurs du registre bio de la commune sont des éleveurs sans vente au détail
+   ou des entreprises inscrites sous le nom de leur exploitant (voir plus bas). **Zéro.**
+2. **Rives d'Andaine** (2 844) — l'ancienne page des marchés de la Ville répond 404, et son plan de site n'en contient plus aucune ;
+   le marché du vendredi n'est plus décrit que par des annuaires (règle 196). **Zéro.**
+3. **Longny les Villages** (2 811) — l'annuaire de l'administration ne donne aucun site à la commune, et aucun domaine plausible
+   ne répond ; le marché du mercredi n'est décrit que par des annuaires. **Zéro.**
+4. **Bagnoles de l'Orne Normandie** (2 699) — la Ville (200 aux deux agents) publie le **marché du samedi matin, place des Halles**
+   (8h30-12h30 ; fruits et légumes, fromages, viandes, poissons, miel, cidre, poiré), fiche du 28 septembre 2026 issue de la base
+   touristique régionale : faits entiers. Le marché du mercredi et du vendredi, allée des Anciens-Combattants, n'a que « quelques
+   producteurs fermiers et artisans » (règle 197). L'épicerie fine de l'avenue du Maréchal-de-Tessé est une franchise d'épicerie
+   fine ouverte en avril 2026, sans producteurs nommés (règle 86). **Une fiche entière, seule.**
+5. **Condé-sur-Sarthe** (2 494) — le site de la commune refuse l'agent nommé (règle 257) ; le magasin de réseau de la rue
+   d'Alençon n'a d'horaires que sur le site du magasin, qui ne répond pas, et sur le site national du réseau, qui refuse l'agent
+   nommé. **Zéro.**
+6. **Damigny** (2 446) — le site de la commune refuse l'agent nommé (règle 257) ; le registre bio n'y porte que des grossistes.
+   **Zéro.**
+7. **Écouché-les-Vallées** (2 193) — la Ville (200 aux deux agents, `robots.txt` fermé sur `/upload/` seulement) et l'office de
+   tourisme Terres d'Argentan (200 aux deux agents, `robots.txt` ouvert) répondent. **Deux fiches entières dans la commune, et
+   quatre points** dans la CC Terres d'Argentan Interco (règles 127 et 320 ; distances à vol d'oiseau depuis la mairie, 35 rue
+   Pierre-Trévin, point de l'annuaire de l'administration) :
+
+   - **Marché hebdomadaire d'Écouché** — 0,1 km. Vendredi 9h-13h, place du Général-Warabiot ; charcuterie, poissonnerie,
+     rôtisserie, fromages aux trois laits, écrits par la Ville sur sa page des marchés (non datée). Les noms des commerçants que
+     cette page publie ne sont pas repris. Point : la place à la Base Adresse Nationale (0,948).
+   - **Ferme des Hameaux** — 3,4 km. Groupement agricole actif à cette adresse depuis mai 2025, certificat engagé ; vente à la
+     ferme le samedi 9h30-12h30 sur son propre site et sur la fiche de l'office (pages de 2024), qui concordent. Le site de la
+     ferme ne porte aucun nom de personne dans son titre ni son en-tête (règle 374) ; la fiche de l'office en nomme un dans son
+     texte, qui n'est pas repris. Pas de téléphone : le seul publié est un portable. Point : n° 1 route des Hameaux (0,729),
+     confirmé par le point du registre à 20 m.
+   - **Nature Andaines** — 6,3 km, à Argentan. Reprise de la piste de la quatre-vingt-douzième passe, relue entière (règle 322) :
+     société active sous cette enseigne à la Gravelle, certificat engagé depuis 2018, horaires jour par jour et producteurs de
+     l'Orne nommés sur son propre site (règle 86). Point : celui du registre (la Base ne connaît que le lieu-dit, 0,68, règle 366).
+   - **Ferme de la Noë** — 4,2 km, à Tanques. Groupement agricole actif à cette adresse ; libre-service 7 jours sur 7, 24 heures
+     sur 24, et gamme de produits laitiers écrits par l'office (page de septembre 2025). Son propre site refuse l'agent nommé
+     (règle 257) : il n'est ni lu ni lié, et l'office, autre autorité, porte les faits (déblocage de la règle 257). Le nom de
+     l'ancien exploitant, qui sert aussi de nom de produit, n'est pas repris. Point : celui du registre, sur la route de la Noé
+     que la Base connaît (0,661).
+
+   **Pas de cinquième point** : la ferme bovine et cidricole de Fontenai-sur-Orne n'a d'horaires nulle part et son domaine ne
+   répond pas ; le magasin de producteurs d'Argentan n'est décrit que par l'annuaire de son réseau, qui refuse tout agent
+   (règle 237) ; le marché des producteurs d'Écouché est une série estivale close le 7 août 2026 ; la chèvrerie de Rânes et les
+   autres producteurs fichés par l'office sont écartés pour doute sur une personne (voir plus bas). La passe publie quatre fiches
+   (règle 320). Le Tarn-et-Garonne n'a pas été éprouvé : la zone a été trouvée dans le premier département.
+
+**Images, règle 371** (Openverse, licence CC0 lue dans la réponse de l'annuaire, source Flickr ; métadonnées retirées, règle
+235) : marché — oignons en panier de marché, `flickr.com/photos/184594136@N08/55341303558` ; ferme maraîchère — panier de légumes,
+`flickr.com/photos/132795455@N08/22359554139` ; magasin — cagettes de pommes, recadrées pour ôter un carton imprimé,
+`flickr.com/photos/93936679@N05/37861466135` ; ferme laitière — pichet de lait, `flickr.com/photos/151415985@N06/36597464041`.
+Aucune n'a encore servi une fiche. Trois autres candidates ont été écartées parce qu'elles montrent une marque (rayons de
+supermarché, étiquettes d'une chaîne) et une parce qu'elle montre des personnes.
+
+**Contradictions** : aucune entre sources sur les faits publiés. Le registre porte encore, fermée, l'entreprise individuelle qui
+exploitait la ferme maraîchère avant le groupement de 2025 ; le groupement actif a été retenu.
+
+**Fiches écartées pour doute sur une personne** : sept pistes dans six communes, non instruites, qui ne se rouvrent pas — à Rânes,
+une chèvrerie inscrite sous le nom de son exploitant, que l'office présente par ce nom en tête de fiche ; à Écouché-les-Vallées,
+une cidrerie dont le site nomme la famille et publie des portables et une messagerie personnels ; à La Ferté-en-Ouche, une
+boulangerie à la ferme inscrite sous le nom de son exploitant ; à Rives d'Andaine, une boulangerie dont l'enseigne est faite de
+deux prénoms ; à Gouffern en Auge, une maison cidricole à enseigne patronymique ; à Boischampré et à Argentan, un élevage à nom
+patronymique et un rucher tenu au domicile de son producteur. Les noms d'exploitants, de commerçants du marché et de
+producteurs lus sur les pages de l'office, de la Ville et du magasin ne sont repris nulle part.
+
+**Points d'arrêt** : dans l'**Orne**, la descente reprend à **Juvigny Val d'Andaine** (2 094), puis Putanges-le-Lac (2 093) ;
+la commune suivante, Sablons sur Huisne (1 976), passe sous le seuil de la règle 265. Dans le **Tarn-et-Garonne**, la commune
+calculée est **Montauban**.
+
+**Après la passe**, sur 920 fiches : Orne −0,33 ; **Tarn-et-Garonne 3,5466** premier non épuisé, puis Somme 3,5440 et Jura
+3,4420. La prochaine passe ne peut pas viser la Normandie (règle 41.c).
+
+**Pistes non publiées (Orne)** — lignes anonymes :
+
+- Bagnoles de l'Orne Normandie, marché du samedi place des Halles : faits entiers. **Déblocage** : une seconde fiche entière dans
+  la commune (une famille de produits écrite pour le marché de l'allée des Anciens-Combattants).
+- Écouché-les-Vallées, ferme bovine et cidricole de Fontenai-sur-Orne : **Déblocage** : des horaires de vente publiés par la
+  ferme (son domaine rétabli) ou par l'office ; elle ferait le cinquième point de la zone.
+- Argentan, magasin de producteurs du réseau des chambres d'agriculture : **Déblocage** : des horaires et une adresse publiés par
+  une source lisible ; il ferait le cinquième point de la zone.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-treizième) : quatre fiches à Charleville-Mézières (Ardennes), Orne sans zone
 

@@ -24387,5 +24387,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49%20Avenue%20de%20Saint-Julien%2008000%20Charleville-M%C3%A9zi%C3%A8res",
     "image_url": "/images/marchands/le-peche-mignon-charleville-mezieres.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-hebdomadaire-ecouche-les-vallees",
+    "nom": "Marché hebdomadaire d'Écouché",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.718063,
+    "lon": -0.123964,
+    "adresse": "Place du Général Warabiot, 61150 Écouché-les-Vallées",
+    "horaires": "Le vendredi de 9h à 13h, place du Général-Warabiot, d'après la page des marchés de la Ville.",
+    "produits": [
+      "Charcuterie",
+      "Poisson",
+      "Rôtisserie",
+      "Fromages de chèvre, de vache et de brebis"
+    ],
+    "description": "Marché hebdomadaire du bourg d'Écouché, petite cité de caractère de la vallée de l'Orne, tenu sur la place centrale à 100 m de la mairie ; la Ville y annonce un charcutier, un poissonnier, un rôtisseur et un fromager aux trois laits. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://www.ecouchelesvallees.fr/marches.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.718063,-0.123964",
+    "image_url": "/images/marchands/marche-hebdomadaire-ecouche-les-vallees.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-hameaux-ecouche-les-vallees",
+    "nom": "Ferme des Hameaux",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.722818,
+    "lon": -0.168595,
+    "adresse": "1 Route des Hameaux, Batilly, 61150 Écouché-les-Vallées",
+    "horaires": "Vente à la ferme le samedi de 9h30 à 12h30, d'après le site de la ferme et l'office de tourisme Terres d'Argentan (pages de 2024). Commandes en ligne à retirer à la ferme le samedi matin.",
+    "produits": [
+      "Légumes de saison bio (une quarantaine de variétés)",
+      "Paniers de légumes",
+      "Œufs bio d'une ferme voisine",
+      "Fromages de producteurs locaux",
+      "Champignons de l'Orne"
+    ],
+    "description": "Ferme maraîchère en agriculture biologique depuis 2013 au hameau de Batilly, à 3,4 km de la mairie d'Écouché ; elle vend ses légumes à la ferme avec les produits de quelques producteurs bio voisins, et aussi aux marchés de Briouze et de Caen. Horaires lus sur des pages de 2024, à vérifier avant de se déplacer. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la ferme.",
+    "site_web": "https://www.fermedeshameaux.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.722818,-0.168595",
+    "image_url": "/images/marchands/ferme-des-hameaux-ecouche-les-vallees.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "nature-andaines-argentan",
+    "nom": "Nature Andaines",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.732572,
+    "lon": -0.038886,
+    "adresse": "Zone commerciale La Gravelle, 61200 Argentan",
+    "horaires": "Du lundi au vendredi de 9h30 à 13h et de 14h30 à 19h ; le samedi de 9h30 à 19h sans interruption ; fermé le dimanche (horaires publiés par le magasin).",
+    "produits": [
+      "Fruits et légumes bio, dont ceux de maraîchers de l'Orne",
+      "Produits laitiers fermiers",
+      "Pain de boulangeries bio",
+      "Œufs bio de l'Orne",
+      "Viande bio locale",
+      "Cidre et jus de pomme",
+      "Vrac certifié bio"
+    ],
+    "description": "Magasin bio indépendant de 350 m² dans la zone de la Gravelle, à l'est d'Argentan, à 6,3 km de la mairie d'Écouché ; il annonce une centaine de producteurs partenaires et nomme sur son site ses fournisseurs de l'Orne et des départements voisins (légumes, lait, œufs, viande, cidre, farine). La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le magasin.",
+    "telephone": "02 33 16 58 09",
+    "site_web": "http://www.natureandaines.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.732572,-0.038886",
+    "image_url": "/images/marchands/nature-andaines-argentan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-la-noe-tanques",
+    "nom": "Ferme de la Noë",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.691841,
+    "lon": -0.082744,
+    "adresse": "La Noë, 61150 Tanques",
+    "horaires": "Libre-service à la ferme 7 jours sur 7, 24 heures sur 24 (paiement par chèque, espèces ou carte), d'après l'office de tourisme Terres d'Argentan (page de septembre 2025).",
+    "produits": [
+      "Crème crue",
+      "Beurre cru de baratte",
+      "Yaourts fermiers",
+      "Desserts lactés",
+      "Skyr"
+    ],
+    "description": "Élevage laitier qui transforme son lait à la ferme et le vend dans une vitrine en libre-service ouverte jour et nuit, à 4,2 km de la mairie d'Écouché ; ses produits sont aussi vendus dans les commerces d'Argentan et des environs. Le site de la ferme n'a pas pu être consulté : horaires tenus de l'office de tourisme, à vérifier. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la ferme.",
+    "telephone": "02 33 67 05 51",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=48.691841,-0.082744",
+    "image_url": "/images/marchands/ferme-de-la-noe-tanques.jpg",
+    "a_confirmer": true
   }
 ]
