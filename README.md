@@ -4633,6 +4633,22 @@ prioritaires en cas de conflit.
      fiche n'est pas écartée pour autant (ce n'est pas un doute sur une personne de la fiche, qui n'en nomme aucune). Un nom lu
      seulement sur une page intérieure (mentions légales, historique) ne retire pas le lien, comme à la règle 376.
      **Déblocage** : une page d'accueil qui ne nomme personne.
+378. **Quand le département de tête s'épuise dans la passe, le suivant du classement devient département de tête pour la
+     règle 302 dans la même passe ; et un 502 servi aux seuls agents d'IA nommés est un refus par le nom (règle 257).** Le
+     28 septembre 2026 (quatre-vingt-dix-neuvième passe), la descente du Jura a éprouvé ses douze dernières communes et le
+     département s'est épuisé (règle 265). L'Indre-et-Loire, second de la passe (règle 248), portait des fiches désignées dans
+     Tours Métropole Val de Loire — marchés Heurteloup et Saint-Paul « prêts » depuis la passe de Tours, deux autres marchés
+     illustrés par la Ville, et le marché Mailloux de Saint-Cyr-sur-Loire, entier ce jour — autour de Tours, qui porte quatre
+     fiches. La règle 302 ne parle que du « département de tête ». **Tranché ainsi, première partie** : un département épuisé
+     n'est plus visé par aucune passe (règle 265) ; dès qu'il s'épuise, le suivant non épuisé du classement est le département
+     de tête, et la règle 302 s'y examine dans la même passe, comme la règle 373 l'applique sur-le-champ. **Seconde partie** : le
+     site de la Ville de Tours répond 502 (« Host unavailable », page de pare-feu applicatif) à `ClaudeBot` et à `GPTBot`, trois
+     essais sur une minute, `robots.txt` compris, et 200 à l'agent par défaut comme à un robot au nom inconnu. C'est le cas de la
+     règle 280 (un 429 selon le nom) avec un autre code : le site n'est pas consulté, on ne repasse pas sous un autre en-tête, et
+     les pistes qu'il fondait seul — les marchés de Tours, dont les faits, les points et les photographies venaient tous de
+     `tours.fr` — ne se relisent pas (règle 322) : la reprise ne se forme pas, le marché Mailloux reste seul et désigné.
+     **Déblocage** : la même réponse de `tours.fr` à tous les agents ; la première passe qui vise l'Indre-et-Loire la contrôle
+     d'abord, en deux requêtes, puis examine la règle 302 autour de Tours.
 
 ## Marchands à confirmer
 
@@ -11998,6 +12014,117 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-dix-neuvième) : fin de la descente du Jura et Indre-et-Loire, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 924 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : inchangé, la Somme étant épuisée, **Jura (39) 3,4570** premier non
+épuisé, **Indre-et-Loire (37) 3,2997** second (règle 248). La dernière passe publiée visait l'Occitanie : la
+Bourgogne-Franche-Comté et le Centre-Val de Loire restent ouverts (règle 41.c), et la réserve reste celle de l'Occitanie.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Jura, douze communes (règles 247 et 265)**, de Tavaux à Moirans-en-Montagne, les dernières de plus de 2 000 habitants ;
+aucune commune sautée depuis Poligny (règle 375). Contrôle à deux agents sur chaque site communal, adresses et sites lus à
+l'annuaire de l'administration. Registre de l'Agence Bio relu en entier sur le Jura (1 018 opérateurs), filtré sur les douze
+communes : des grandes surfaces, des magasins de réseau, des domaines et des exploitations inscrits sous le nom de leurs
+exploitants, quelques coopératives fromagères sans site.
+
+1. **Tavaux** (3 888) — la Ville (en `http`, 200 aux deux agents) ne publie aucune page de marché ; sa liste des activités
+   commerciales ne porte que des grandes surfaces et un négociant. **Zéro.**
+2. **Les Rousses** (3 740) — la Ville (200 aux deux agents) réserve ses photographies à l'usage privé (règle 246) ; l'office
+   de la Station des Rousses a une clause générale (règle 231) et sert ses images depuis un réseau de diffusion dont le
+   `robots.txt` ne porte que le préambule des « content signals ». **Une fiche aux faits et à l'image lus** : le **magasin de
+   la fromagerie** de la rue Pasteur (horaires de l'annuaire de la Ville, société active qui porte l'enseigne avec un
+   établissement ouvert dans la commune, façade de l'office 630 × 860 sans personne) ; point non instruit. La **pisciculture**
+   des Rivières a ses faits (horaires de la Ville, vente toute l'année à l'office, société active) mais aucune image : son site
+   refuse l'agent nommé (règle 257), l'office ne publie que son logo et une photographie de 504 px (règle 59). La brasserie de la
+   commune nomme `ClaudeBot` dans son `robots.txt` (règle 77) et l'office ne publie d'elle que des fichiers au nom d'un
+   photographe (règle 339) ; l'affineur du fort refuse l'agent nommé. **Zéro.**
+3. **Montmorot** (3 261) — la Ville ne publie aucun marché ni commerce en circuit court ; au registre bio, des exploitations
+   inscrites sous le nom de leurs exploitants (voir plus bas). **Zéro.**
+4. **Arbois** (3 114) — la Ville (200 aux deux agents) crédite ses photographies « tous droits réservés » (règle 246). Le
+   **marché mensuel de producteurs bio** (deuxième vendredi, parvis de l'église Saint-Just) paraît à deux endroits du site
+   communal, l'agenda et l'arrêté du 29 janvier 2026 (règle 178), mais aucune source ne dit ce qu'on y achète (règle 197) ; le
+   site de l'association organisatrice ne répond pas. Le **caveau du centre-ville d'un domaine viticole** a ses faits entiers
+   (société active, horaires publiés par le domaine) mais ses mentions légales nomment les images dans leur interdiction
+   (règle 231), et sa page d'accueil nomme une personne (règle 377). La cave coopérative ne sert qu'une erreur 526 ; l'office
+   départemental ferme ses photographies (règle 231). **Zéro.**
+5. **Damparis** (2 587) — la Ville répond 403 aux deux agents (règle 237). **Zéro.**
+6. **Morbier** (2 456) — la Ville (200 aux deux agents ; son `robots.txt` ne vise que des robots de moteurs nommés) publie le
+   **marché du mercredi** (8h30-12h, place du Crétet ; poissonnier, primeur, fromager, boucher) sur une seule page, et
+   réserve ses photographies à l'usage privé (règle 246) ; l'office du Haut-Jura ne répond pas. La fromagerie de la route
+   Royale n'a ni horaires publiés ni entité rattachable à son adresse. **Zéro.**
+7. **Salins-les-Bains** (2 390) — marché du jeudi et du samedi (8h-12h, place des Salines) sans famille de produits, ni sur la
+   page ni dans le règlement de 2019 (règle 197) ; la fruitière à Comté et l'épicerie de la commune ne sont présentées par la
+   Ville qu'en vidéo, sans horaires écrits ni site propre. **Zéro.**
+8. **Lavans-lès-Saint-Claude** (2 351) — 200 à l'agent par défaut, 403 à l'agent nommé : exclue (règle 257). **Zéro.**
+9. **Saint-Amour** (2 349) — aucune page de marché ; les pages « Créateurs & Producteurs » et « Métiers de bouche » ne
+   portent qu'un artisan confiseur, sous le nom de la personne qui le tient. **Zéro.**
+10. **Foucherans** (2 284) — aucun marché hebdomadaire (des marchés d'été en soirée, sans programme) ; la coopérative
+    fromagère n'a ni site ni horaires. **Zéro.**
+11. **Coteaux du Lizon** (2 130) — la Ville répond 403 aux deux agents (règle 237). **Zéro.**
+12. **Moirans-en-Montagne** (2 107) — la Ville publie un marché du vendredi (8h-12h) sans lieu ni famille de produits
+    (règle 197). **Zéro.**
+
+**Le Jura est épuisé** (règle 265) : la commune suivante, Saint-Aubin, compte 1 871 habitants. Les fiches entières du
+département (Biocoop de Dole, Biocoop de Lons-le-Saunier, magasin de la fromagerie des Rousses) sont désignées au titre de la
+règle 373, mais aucune intercommunalité jurassienne ne porte de commune couverte : la règle 302 ne s'ouvre pas.
+
+**Indre-et-Loire, deux communes (règle 248)** ; Tours et Joué-lès-Tours sont couvertes, la descente commence donc à la
+troisième commune du département.
+
+1. **Saint-Cyr-sur-Loire** (17 029) — la Ville répond 403 à l'agent par défaut et 200 à l'agent nommé (pas un refus du
+   robot) ; ses mentions légales sont une clause générale qui ne nomme aucune image (règle 231). **Une fiche entière,
+   désignée pour la reprise** : le **marché Mailloux**, mardi et vendredi 8h30-12h30, place du Lieutenant-Colonel-Mailloux
+   (page « Place au marché ! » et fiche d'annuaire de la Ville, règle 178 ; le mardi exclusivement alimentaire, fruits et
+   légumes, viandes, poissons, fromages). Point : la Base ne connaît que la rue du Lieutenant-Colonel-Mailloux (0,79) ; la
+   fiche d'annuaire de la Ville publie 47.407859 / 0.673798, distinct de ses autres fiches (règle 146), que le géocodage
+   inverse confirme à 5 m de cette rue (règle 64). Photo : le plan large que la Ville attache à la page, 873 × 655, aucun
+   visage reconnaissable. Le **magasin de producteurs de la rue du Mûrier** (quatorze fermes associées) a ses faits entiers —
+   société active sous cette enseigne, horaires jour par jour sur son site — mais sa clause nomme les photographies dans le
+   paragraphe qui interdit la copie (règle 246), aucune photographie thématique permise de la commune n'a été trouvée
+   (règle 231), et sa page d'accueil nomme des personnes (règle 377). Rien d'autre d'entier. **Zéro zone.**
+2. **Saint-Pierre-des-Corps** (15 898) — la Ville publie deux marchés (mardi et vendredi boulevard des Déportés, mercredi et
+   samedi place Maurice-Thorez, 7h-12h30) sous une seule phrase de produits commune aux deux (règle 197), et interdit la
+   reproduction des images (règle 231). **Zéro.**
+
+**Reprise autour de Tours** (règle 302, lue par la règle 378) : le Jura épuisé, l'Indre-et-Loire devient département de tête ;
+Tours porte quatre fiches, et Tours Métropole des fiches désignées. Mais `tours.fr` répond 502 à l'agent nommé et à `GPTBot`,
+200 à l'agent par défaut et à un robot au nom inconnu (règle 257) : les marchés de Tours ne se relisent pas (règle 322). Le
+marché Mailloux reste seul. Aucune publication.
+
+**Contradictions** : deux, rien n'étant publié elles se consignent ici (règle 5). À Arbois, l'agenda de la Ville donne le marché
+bio de 18h à 20h (21h30 les soirs « festifs ») et l'arrêté du 29 janvier 2026 autorise l'occupation du parvis de 17h à 21h — le
+second vise l'installation, la fiche, si elle part, écrira l'agenda. Aux Rousses, l'adresse de la pisciculture porte le code
+postal 39220 à l'office et au registre, 39400 à l'annuaire de la Ville et 39200 sur le logo — la fiche écrira 39220.
+
+**Fiches écartées pour doute sur une personne** : six pistes, non instruites, qui ne se rouvrent pas — à Montmorot, quatre
+exploitations maraîchères, fruitières ou de plantes inscrites au registre de l'Agence Bio sous le nom de leurs exploitants,
+dont une auto-cueillette ; à Arbois, une chèvrerie dans le même cas ; à Saint-Cyr-sur-Loire, un magasin biologique de réseau
+dont l'enseigne est formée d'un prénom (règle 259). Les noms que citent les pages consultées (élus, responsables inscrits aux
+annuaires communaux, commerçants, fondateurs, dirigeants au registre) ne sont repris nulle part.
+
+**Points d'arrêt** : le **Jura** est épuisé. Dans l'**Indre-et-Loire**, la descente reprend à **Saint-Avertin** (14 999).
+
+**Pistes non publiées (Jura et Indre-et-Loire)** — lignes anonymes :
+
+- Les Rousses, magasin de la fromagerie : faits et image lus, point non instruit. **Déblocage** : une seconde fiche entière dans
+  la commune (règle 127) — la commune est éprouvée, la ligne ne sert qu'à une reprise.
+- Les Rousses, pisciculture : faits entiers. **Déblocage** : une photographie d'au moins 600 px publiée par une source qui
+  n'en interdit pas la reprise.
+- Arbois, marché mensuel de producteurs bio : **Déblocage** : une famille de produits publiée par la Ville ou l'association.
+- Arbois, caveau d'un domaine viticole : faits entiers, sans lien. **Déblocage** : une photographie permise.
+- Morbier, marché du mercredi : **Déblocage** : une seconde source (seconde page de la Ville ou autorité extérieure) et une
+  photographie permise.
+- Salins-les-Bains, marché du jeudi et du samedi : **Déblocage** : une famille de produits publiée par la Ville.
+- Saint-Cyr-sur-Loire, marché Mailloux : **entier, désigné pour la reprise** (règles 258 et 302). **Déblocage** : `tours.fr`
+  servi à tous les agents (règle 378), ou trois autres fiches désignées dans Tours Métropole relues dans la passe.
+- Saint-Cyr-sur-Loire, magasin de producteurs de la rue du Mûrier : faits entiers, sans lien. **Déblocage** : une photographie
+  du lieu ou thématique de la commune publiée par une source qui n'en interdit pas la reprise.
+- Saint-Pierre-des-Corps, marchés : **Déblocage** : une page par marché qui dise ce qui s'y vend, et une image permise.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-dix-huitième) : fin de la descente de la Somme et Jura, aucune publication
 
