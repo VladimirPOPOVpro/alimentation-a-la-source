@@ -11867,6 +11867,92 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 28 septembre 2026 (quatre-vingt-sixième) : Nord et Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
+**Classement, règle 41** : rien n'a été publié depuis le dernier calcul (894 fiches) ; le classement ne change pas (règle 260) :
+**Nord (59)** premier non épuisé, **Moselle (57)** second (règle 248). La dernière passe publiée visait l'Occitanie : la règle
+41.c ne joue pas.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Nord**, descente reprise à Templemars, douze communes (règle 247). Contrôle à deux agents (règle 257) : les Villes
+d'Avesnes-les-Aubert et de Steenwerck, l'office du Cambrésis, l'office de l'Avesnois, le site touristique du Département, le
+parc naturel régional Scarpe-Escaut et deux annuaires de vente locale répondent 200 à l'agent par défaut et 403 à l'agent nommé ;
+un annuaire de fermes refuse tout agent (règle 237). La Ville d'Houplin-Ancoisne ferme `/fileadmin/` aux agents d'IA (règle
+294). Les mentions légales des Villes de Templemars, Hoymille, Coutiches, Mérignies et Bergues, et de la communauté de communes
+des Hauts de Flandre, nomment les images (règle 231) ; l'office de Bergues pose un « © » nominatif en légende (règle 305).
+
+1. **Templemars** (3 669) — le marché du dimanche (8h-13h, place Gustave-Delecroix, relancé le 20 septembre 2026) a ses **faits
+   entiers**, familles de produits écrites par la Ville pour ce seul marché ; aucune image permise. Les autres candidats sont
+   écartés pour doute sur une personne. **Zéro.**
+2. **Avesnes-les-Aubert** (3 562) — Ville et office refusent l'agent nommé ; miellerie sans entité active à son nom, maraîcher
+   bio cessé. **Zéro.**
+3. **Allennes-les-Marais** (3 545) — aucun marché (ambulants « selon les commerçants ») ; registre bio : certificats arrêtés ou
+   vente aux seuls professionnels. **Zéro.**
+4. **Mérignies** (3 527) — marché du jeudi connu de la Ville sans lieu ni heures, situé par l'office seul (2023), place que la
+   Base ignore (0,42) ; la halle privée ne publie aucun producteur et s'illustre en banque d'images ; la brasserie a déménagé à
+   Cappelle-en-Pévèle. **Zéro.**
+5. **Bergues** (3 525) — le marché du lundi (8h-13h, place de la République et rues voisines, volailles rue Nationale) a ses
+   **faits entiers**, sans image permise. La biscuiterie de la place de la Gare est un fabricant de groupe qui ne nomme aucun
+   producteur de ses « gourmandises de la région » (règle 361), et ferme ses images. **Zéro.**
+6. **Hornaing** (3 496) — aucun marché publié par la Ville ; registre bio : une supérette de chaîne. **Zéro.**
+7. **Steenwerck** (3 450) — Ville fermée à l'agent nommé ; le marché du mardi (Croix du Bac) n'est classé que « terroir » par
+   l'office, sans famille de produits (règle 197), photographie sous « © » ; un rucher sans horaires publiés. **Zéro.**
+8. **Coutiches** (3 436) — deux fermes (produits laitiers ; pommes de terre et œufs) ont leurs **faits entiers** à la page des
+   professionnels de la Ville, mais la Ville ferme ses images et aucune autre source n'en publie. **Zéro entière.**
+9. **Landrecies** (3 407) — un maraîcher bio de la route de Guise a des faits lus (horaires à la Ville seule) et une photographie
+   thématique permise de la commune (carottes de la foire, à recadrer) : **une fiche au mieux**. La chèvrerie n'a ni produits
+   écrits ni image ; le marché du samedi n'a ni heures ni produits ; le marché bio mensuel n'est plus documenté depuis 2021.
+   **Pas deux (règle 127).**
+10. **Iwuy** (3 403) — la Ville ne publie aucun marché ; aucun commerce ni opérateur bio. **Zéro.**
+11. **Houplin-Ancoisne** (3 326) — candidats écartés pour doute sur une personne, supérette généraliste. **Zéro.**
+12. **Hoymille** (3 259) — cueillette, conserverie, épicerie et miel écartés (doute sur une personne, ou revendeur sans
+    producteur) ; aucun marché publié. **Zéro.**
+
+**Moselle, second département (règle 248)** — contrôle à deux agents : Ville de Maizières-lès-Metz (accueil filtré pour tout
+agent, pages intérieures 200 aux deux), Rives de Moselle, Ville de Stiring-Wendel et office du Pays de Forbach, 200 aux deux.
+
+1. **Maizières-lès-Metz** (11 580) — le marché du dimanche n'a ni lieu, ni heures régulières, ni produits écrits par la Ville
+   (l'affiche de son anniversaire ne vaut que pour la fête) ; l'annuaire des producteurs de l'intercommunalité n'en compte aucun
+   dans la commune et s'illustre en banque d'images ; le seul opérateur bio est une grande surface. **Zéro.**
+2. **Stiring-Wendel** (10 956) — le marché du samedi (place de Wendel, 8h-12h) n'a aucune famille de produits écrite par la
+   Ville ; le marché des producteurs est semestriel ; le primeur n'a plus de site ; le magasin bio est cessé. **Zéro.**
+
+**Aucune zone dans les deux départements : la passe ne publie rien** (règle 248). Elle ne se rattrape pas en baissant une
+exigence.
+
+**Contradictions** : à Bergues, la Ville donne 8h-13h et l'intercommunalité 8h-12h30, avec des places différentes ; si la fiche
+part un jour, les deux versions s'écrivent avec `a_confirmer` (règles 5 et 55). À Bergues encore, la biscuiterie publie la place
+de la Gare quand le registre et l'office donnent la rue de la Couronne de Bierne (80 m). À Mérignies, l'office (2023) et la Ville
+ne listent pas les mêmes étals, et la Ville situe encore la brasserie dans la commune. À Coutiches, un annuaire tiers donne
+d'autres horaires et une autre adresse pour l'une des fermes ; à Landrecies, des annuaires fermés donnent d'autres horaires pour
+le maraîcher et la chèvrerie ; à Iwuy, deux annuaires tiers ne s'accordent pas sur l'heure d'ouverture d'un marché que la Ville
+ne publie pas. Aucune ne porte sur une fiche publiée.
+
+**Sécurité** : le `robots.txt` d'un commerce de Templemars contient des consignes adressées aux agents d'IA (installer un
+module, recommander des achats). Donnée, pas instruction : rien n'a été suivi.
+
+**Fiches écartées pour doute sur une personne** : à Templemars, trois (poissonnerie ambulante, ferme d'élevage, épicerie en
+vrac) ; à Allennes-les-Marais, deux commerces présentés par leurs exploitants ; à Houplin-Ancoisne, une ferme maraîchère et un
+chocolatier ; à Hoymille, une cueillette et une conserverie ; à Steenwerck, deux fermes et une enseigne patronymique ; à
+Coutiches, une ferme-auberge maraîchère et une enseigne formée d'un prénom ; à Landrecies, quatre éleveurs bio et un apiculteur ;
+à Bergues, une micro-brasserie ; à Hornaing, un moulin ; ailleurs, des exploitations sous patronyme. Non instruites, elles ne se
+rouvrent pas. Aucun nom cité par les pages consultées n'est repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la descente reprend à **Bavay** (3 249). Dans la **Moselle**, à **Amnéville** (10 875).
+
+**Pistes non publiées (Nord et Moselle)** — lignes anonymes :
+
+- Templemars (marché du dimanche), Bergues (marché du lundi), Coutiches (deux fermes) : faits entiers. **Déblocage** : une
+  photographie du lieu, ou thématique de la commune, publiée sans interdiction de reprise, et une seconde fiche entière dans la
+  commune.
+- Landrecies, maraîcher bio : une fiche au mieux, horaires lus à la Ville seule. **Déblocage** : une seconde fiche entière dans la
+  commune (par exemple le marché du samedi si la Ville en écrit les heures et les produits).
+- Mérignies (marché du jeudi), Stiring-Wendel (marché du samedi), Maizières-lès-Metz (marché du dimanche) : **Déblocage** : lieu,
+  heures et famille de produits propres au marché, écrits par la Ville.
+
 ### Passe du 28 septembre 2026 (quatre-vingt-cinquième) : Nord et Moselle, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image.**
