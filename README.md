@@ -4572,9 +4572,34 @@ prioritaires en cas de conflit.
      source que la page non datée de sa commune et pas d'établissement au registre à cette adresse (règle 6). **Déblocage** :
      la même information publiée par une autorité lisible, ou le retrait de la seconde interdiction.
 
+373. **Quand la descente d'un département arrive à sa dernière commune sans avoir trouvé de zone, les fiches entières que
+     la même passe y laisse comptent aussitôt parmi les fiches désignées pour la reprise de la règle 302.** Le 28 septembre 2026,
+     la descente du Val-de-Marne a éprouvé ses douze dernières communes, de Boissy-Saint-Léger à Périgny : il n'en reste plus
+     aucune à éprouver. Trois d'entre elles rendent chacune une fiche entière et une seule (les marchés de Boissy-Saint-Léger,
+     de Villecresnes et de Rungis), comme Le Plessis-Trévise, Villeneuve-le-Roi et Charenton-le-Pont aux passes précédentes.
+     La règle 302 groupe autour d'une commune déjà couverte les fiches « désignées pour la reprise », sans dire si celles
+     qu'une passe vient d'instruire le sont déjà. Les laisser attendre la passe suivante ne changerait rien, sinon qu'elles
+     seraient relues par une passe qui n'aurait plus aucune commune à éprouver. **Tranché ainsi** : quand la descente d'un
+     département est terminée, les fiches entières que la passe y écrit en pistes sont désignées pour la reprise dans la même
+     passe, et la règle 302 s'applique sur-le-champ, avec toutes ses conditions : même intercommunalité (ici la Métropole du
+     Grand Paris, bornée par la distance, règle 249), moins de quinze kilomètres de la mairie d'une commune qui porte déjà au
+     moins deux fiches (règle 363), chaque point relu dans la passe (règle 322), un point sûr pour chacun (règles 146 et 166).
+     Première application : quatre marchés autour de Créteil, qui porte cinq fiches — Villeneuve-le-Roi (5,3 km),
+     Boissy-Saint-Léger (5,5 km), Charenton-le-Pont (5,7 km) et Rungis (8,4 km). Villecresnes et Le Plessis-Trévise, entiers
+     sur les faits, restent en pistes faute de point : la Base Adresse Nationale ne connaît ni la place du Marché de
+     Villecresnes ni l'esplanade du Plessis-Trévise, le registre ne met qu'un établissement fermé sur la première, et la Ville du
+     Plessis-Trévise publie deux points à 900 m l'un de l'autre sous la même adresse d'esplanade.
+
 ## Marchands à confirmer
 
-802 fiches sur 908 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+806 fiches sur 912 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la Ferme** (Boissy-Saint-Léger), **Marché du Centre de Charenton** (Charenton-le-Pont), **Petit marché de
+  Rungis** et **Marché de la Faisanderie** (Villeneuve-le-Roi) (passe du 28 septembre 2026, quatre-vingt-douzième, règles
+  302 et 373) : photographies thématiques CC0 pour les quatre (règle 371) — les Villes n'offrent aucune image reprenable
+  (Boissy réserve ses photographies à l'usage privé, Villeneuve-le-Roi ne publie qu'une photographie de groupe des
+  commerçants, Rungis aucune, Charenton une vignette de 250 px) ; marché de Villeneuve-le-Roi dans sa halle provisoire, la
+  halle historique étant toujours en chantier (page de la Ville du 8 octobre 2024, constructeur annonçant une livraison en
+  2026) : lieu et jours à relire à la réouverture.
 - **Marché du jeudi de Sarralbe**, **Petit Veganne** (Sarralbe), **Marché bi-hebdomadaire de Sarreguemines** et **L'Art du
   Pain** (Puttelange-aux-Lacs) (passe du 28 septembre 2026, quatre-vingt-dixième) : photographies thématiques CC0 pour les
   quatre (règle 371) ; marché de Sarralbe publié sur la seule page de la Ville (règle 178) ; téléphone de Petit Veganne
@@ -11912,6 +11937,112 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-douzième) : quatre marchés autour de Créteil (Val-de-Marne), Orne sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 908 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Val-de-Marne (94) 3,7904** premier non épuisé, **Orne (61) 3,6240**
+second (règle 248), identique au calcul de la passe précédente, qui n'avait rien publié. La dernière passe publiée visait la
+Moselle : le Grand Est est réservé (règle 41.c), ce qui ne touche aucun des deux départements.
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Val-de-Marne, descente reprise à Boissy-Saint-Léger** (Saint-Maurice, qui porte déjà une fiche, sautée), douze communes, soit
+les **douze dernières du département** : la descente du 94 est terminée. Contrôle à deux agents (règle 257) sur chaque site.
+
+1. **Boissy-Saint-Léger** (17 325) — le **marché de la Ferme** a ses faits entiers (6 rue de Sucy ; mardi, vendredi et dimanche
+   8h-13h ; commerçants listés par métier, page de la Ville du 24 avril 2025). L'AMAP de la commune n'a plus de source datée :
+   la page de la Ville date de 2021 et son propre domaine ne résout plus (règle 195). **Une fiche entière, seule.**
+2. **Valenton** (14 406) — marché de la halle (mardi, jeudi, dimanche 8h-14h) publié sans aucune famille de produits (règle
+   197) ; l'épicerie biologique de la rue Sacco-et-Vanzetti n'a ni site ni liste de producteurs (règle 361). **Zéro.**
+3. **La Queue-en-Brie** (12 241) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé : exclue (règle 257). **Zéro.**
+4. **Villecresnes** (11 647) — le marché (jeudi et dimanche 8h-13h ; légumes, viandes, poissons, sur la page propre à ce seul
+   marché) a ses faits entiers, mais la place du Marché n'a aucun point (voir la règle 373). **Zéro fiche publiable.**
+5. **Ormesson-sur-Marne** (10 977) — le marché du Centre (mercredi et samedi matin, familles écrites par la Ville) n'a ni heure
+   ni adresse sur la page de la Ville (mise à jour en mai 2024) ; le tarif des droits de place est un scan illisible. **Zéro.**
+6. **Ablon-sur-Seine** (5 988) — aucun marché ; le seul commerce biologique ne vend qu'aux professionnels. **Zéro.**
+7. **Rungis** (5 611) — le **petit marché** du mercredi (16h-19h, 20h de mai à septembre, halle de la place Louis-XIII ;
+   poissonnier, fromager, primeur) a ses faits entiers ; le reste de la commune n'est que du commerce de gros. **Une fiche
+   entière, seule.**
+8. **Mandres-les-Roses** (4 922) — la Ville écrit qu'« aucun marché n'est organisé sur la commune pour le moment » ; la ferme
+   biologique de la commune n'est décrite que par son propre site, qui répond 403 à l'agent nommé et 200 à l'agent par défaut
+   (règle 257), et par des annuaires. **Zéro.**
+9. **Marolles-en-Brie** (4 781) — aucune page de marché ni commerce alimentaire lisible sur le site de la Ville. **Zéro.**
+10. **Noiseau** (4 628) — aucune page de marché sur le site de la Ville. **Zéro.**
+11. **Santeny** (3 913) — aucun marché ; la page de la Ville consacrée à une ferme sert une image à la place du texte. **Zéro.**
+12. **Périgny** (2 724) — la ferme maraîchère du domaine Saint-Leu vend par des AMAP et des plateformes, sans heures de vente
+    à son adresse (règle 152). **Zéro.**
+
+**Zone, règles 302 et 373.** Créteil porte cinq fiches ; la mairie (point de l'annuaire de l'administration,
+48,777789 / 2,453163) sert de centre (règle 363). Quatre fiches entières du Val-de-Marne ont un point sûr et
+tiennent dans les quinze kilomètres ; chacune a été relue dans la passe :
+
+- **Marché de la Ferme**, Boissy-Saint-Léger — 5,5 km. Point : n° 6 rue de Sucy à la Base Adresse Nationale (0,968).
+- **Marché de la Faisanderie**, Villeneuve-le-Roi — 5,3 km. Désigné par la passe précédente ; page de la Ville relue (8 octobre
+  2024, halle provisoire) ; l'ancienne page de la Ville répond 404 ; le constructeur de la nouvelle halle la donne encore en
+  chantier pour 2026. Point : n° 55 rue du Général-de-Gaulle (0,969), l'entrée que la Ville nomme.
+- **Marché du Centre de Charenton**, Charenton-le-Pont — 5,7 km. Désigné par la passe du Val-de-Marne précédente ; page de la
+  Ville relue (mercredi et samedi 8h-13h, composition par métier). Point : place Aristide-Briand (0,956), que la Ville nomme
+  comme limite du marché. La halle porte le nom d'une personne : la fiche ne le reprend pas (règle 342).
+- **Petit marché de Rungis** — 8,4 km. Point : place Louis-XIII (0,959).
+
+Pas de cinquième point : Villecresnes et Le Plessis-Trévise, entiers sur les faits, n'ont pas de point sûr (règle 373), et
+aucune autre fiche entière n'est désignée dans le département. La passe publie quatre fiches, comme le permet la règle 302
+(« au besoin » pour la cinquième) et comme la règle 320 le fait pour un groupe de quatre.
+
+**Images, règle 371** (Openverse, licence CC0 lue dans la réponse de l'annuaire, source Flickr ; métadonnées retirées, règle
+235) : Boissy — étal de légumes aux ardoises en français, recadré en haut pour ôter une silhouette,
+`flickr.com/photos/137643065@N06/23958160949` ; Charenton — tomates cœur-de-bœuf et melons sur un marché français, recadré à
+gauche pour ôter une main, `flickr.com/photos/87805257@N00/14615423199` ; Rungis — étal de poissons,
+`flickr.com/photos/92947007@N03/26676166195` ; Villeneuve-le-Roi — fromage de chèvre cendré,
+`flickr.com/photos/35034347371@N01/19701285141`. Aucune n'a encore servi une fiche. Deux autres candidates ont été écartées
+parce qu'elles montrent le nom d'une ferme sur une étiquette (règle 371, aucune enseigne).
+
+**Orne, deux communes (règle 248)** :
+
+1. **Argentan** (13 527) — la Ville publie trois marchés (mardi, vendredi et dimanche 8h30-13h, places Saint-Germain, du Marché
+   et rue voisine ; page du 18 août 2026) avec pour seule composition « alimentaire », et l'office de tourisme n'y ajoute rien
+   (règle 197). Le **magasin biologique indépendant de la zone de la Gravelle** a ses faits entiers : société active à cette
+   adresse sous l'enseigne du magasin depuis novembre 2018, certificat engagé, horaires jour par jour sur son propre site
+   (annonce de fermeture du samedi 15 août, datée 2026 par la règle 356), producteurs locaux nommés par le magasin (règle 86) ;
+   ses mentions légales réservent les images (photographie CC0 possible, règle 371). Les producteurs que fiche l'office sont
+   à Rânes, Ri, Saint-Brice-sous-Rânes et La Cochère, hors de la commune. **Une fiche entière, seule.**
+2. **L'Aigle** (7 663) — la Ville (page du 1er juin 2026) publie deux marchés. Le **marché du dimanche** a ses faits entiers
+   (place de la Halle, 6h-12h30 ; maraîchers, bouchers, boulangers, poissonniers, fromagers). Le marché du mardi (9h-12h30,
+   sept places et rues du centre) n'a que la liste commune aux deux marchés (règle 329) ; l'office de tourisme ne répond pas
+   en HTTPS (règle 237). Le magasin de réseau de l'avenue du Mont-Saint-Michel a son site de magasin lisible, horaires compris,
+   mais n'y nomme aucun producteur local, seulement les plateformes régionales du réseau (règle 273) ; le site national du
+   réseau refuse l'agent nommé. La boulangerie biologique de la rue du Général-de-Gaulle n'a d'horaires que sur des annuaires
+   (règle 236). **Une fiche entière, seule.**
+
+**Contradictions** : la nouvelle halle de Villeneuve-le-Roi était annoncée pour 2025 par la presse locale de 2023, le
+constructeur la date de 2025-2026 et la donne en chantier ; la Ville ne publie rien de plus récent qu'octobre 2024. Tranché par
+la règle 157 : le marché se publie là où il se tient, la halle provisoire, et la fiche le dit. Au Plessis-Trévise, deux points
+de la Ville sous la même adresse d'esplanade (règle 146).
+
+**Fiches écartées pour doute sur une personne** : aucune. Les noms et portables de commerçants que la Ville de Boissy publie
+dans sa liste du marché, les noms de producteurs du magasin d'Argentan, et les noms d'élus, de gérants et d'exploitants lus
+sur les autres pages ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Val-de-Marne**, la descente est terminée ; une passe qui y reviendrait ne reprend que les
+pistes ci-dessous. Dans l'**Orne**, la descente reprend à **La Ferté-Macé** (5 071).
+
+**Après la passe**, sur 912 fiches : Val-de-Marne −0,13 ; Orne 3,6399 premier non épuisé, puis Ardennes 3,5168 et
+Tarn-et-Garonne 3,5158. La prochaine passe ne peut pas viser l'Île-de-France (règle 41.c) ; le Grand Est n'est plus réservé.
+
+**Pistes non publiées (Val-de-Marne et Orne)** — lignes anonymes :
+
+- Villecresnes, marché de la place du Marché : faits entiers. **Déblocage** : un point publié par la Ville, ou la place dans
+  la Base Adresse Nationale.
+- Le Plessis-Trévise, marché de la halle : faits entiers. **Déblocage** : un point unique publié par la Ville pour la halle ou
+  l'esplanade.
+- Ormesson-sur-Marne, marché du Centre : **Déblocage** : une heure et une adresse écrites par la Ville.
+- Argentan, magasin biologique indépendant de la zone de la Gravelle : faits entiers. **Déblocage** : une seconde fiche entière
+  dans la commune (une composition propre à l'un des marchés).
+- L'Aigle, marché du dimanche : faits entiers. **Déblocage** : une seconde fiche entière dans la commune (une composition propre
+  au marché du mardi, ou une liste de producteurs locaux publiée par le magasin de réseau).
 
 ### Passe du 28 septembre 2026 (quatre-vingt-onzième) : Val-de-Marne et Orne, aucune publication
 

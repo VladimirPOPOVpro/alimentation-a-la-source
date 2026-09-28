@@ -24169,5 +24169,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43%20Rue%20Wilson%2057510%20Puttelange-aux-Lacs",
     "image_url": "/images/marchands/l-art-du-pain-puttelange-aux-lacs.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-ferme-boissy-saint-leger",
+    "nom": "Marché de la Ferme",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.749104,
+    "lon": 2.513598,
+    "adresse": "6 rue de Sucy, 94470 Boissy-Saint-Léger",
+    "horaires": "Mardi, vendredi et dimanche de 8h à 13h, d'après la Ville (page mise à jour le 24 avril 2025).",
+    "produits": [
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Poissonnerie",
+      "Fruits et légumes, maraîcher et primeurs",
+      "Fruits et légumes bio (étal ponctuel)",
+      "Fromages",
+      "Boulangerie",
+      "Épicerie fine, produits italiens et orientaux"
+    ],
+    "description": "Marché municipal du centre de Boissy-Saint-Léger, trois matinées par semaine, dont la Ville publie la liste des commerçants par métier : bouchers, charcutier, volailler de Seine-et-Marne, poissonniers, maraîcher et primeurs, fromagers, boulanger, avec des étals ponctuels de fruits et légumes bio, de vins et de confitures. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://ville-boissy.fr/vivre-a-boissy/commerces-economie-emploi/votre-marche-de-la-ferme/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6+rue+de+Sucy+94470+Boissy-Saint-L%C3%A9ger",
+    "image_url": "/images/marchands/marche-de-la-ferme-boissy-saint-leger.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-charenton-le-pont",
+    "nom": "Marché du Centre de Charenton",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.822451,
+    "lon": 2.413654,
+    "adresse": "Place Aristide-Briand, 94220 Charenton-le-Pont",
+    "horaires": "Mercredi et samedi de 8h à 13h, d'après la Ville.",
+    "produits": [
+      "Boucherie, charcuterie et triperie",
+      "Fruits et légumes",
+      "Champignons",
+      "Volailles",
+      "Poissonnerie",
+      "Huîtres (ostréiculteurs)",
+      "Produits biologiques",
+      "Produits régionaux et du monde (grecs, italiens, réunionnais, portugais)"
+    ],
+    "description": "Grand marché couvert du centre-ville, entre l'avenue Anatole-France, l'avenue Jean-Jaurès et la place Aristide-Briand : plus de soixante exposants selon la Ville, les commerces de bouche sous la halle de 3 000 m² et les produits manufacturés à l'extérieur, avec une buvette sous la halle. La gestion est confiée par la Ville à un délégataire. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://www.charenton.fr/economie_emploi/commerces-artisanat_marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+du+Centre+Charenton-le-Pont",
+    "image_url": "/images/marchands/marche-du-centre-charenton-le-pont.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "petit-marche-de-rungis",
+    "nom": "Petit marché de Rungis",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.750831,
+    "lon": 2.345851,
+    "adresse": "Place Louis-XIII, 94150 Rungis",
+    "horaires": "Mercredi de 16h à 19h sous la halle de la place Louis-XIII ; de mai à fin septembre, jusqu'à 20h, d'après la Ville.",
+    "produits": [
+      "Poissonnerie",
+      "Fromages",
+      "Fruits et légumes (primeur)"
+    ],
+    "description": "Petit marché hebdomadaire de fin d'après-midi créé en décembre 2021 sous la halle de la place Louis-XIII, au centre du village de Rungis, à ne pas confondre avec le marché international de gros, réservé aux professionnels. La Ville y annonce un poissonnier, un fromager, un primeur et d'autres commerçants chaque mercredi. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://rungis.fr/petit-marche-de-rungis",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Louis+XIII+94150+Rungis",
+    "image_url": "/images/marchands/petit-marche-de-rungis.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-faisanderie-villeneuve-le-roi",
+    "nom": "Marché de la Faisanderie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.735085,
+    "lon": 2.421614,
+    "adresse": "55 rue du Général-de-Gaulle, 94290 Villeneuve-le-Roi",
+    "horaires": "Mardi, vendredi et dimanche de 8h à 13h, dans la halle provisoire, d'après la Ville (page mise à jour le 8 octobre 2024). La halle historique, juste en face, est en reconstruction ; le marché y retournera à sa réouverture.",
+    "produits": [
+      "Fruits et légumes (primeurs)",
+      "Rôtisserie",
+      "Boulangerie et pâtisserie",
+      "Volailles",
+      "Fromages",
+      "Traiteurs portugais, italien et libanais",
+      "Fleurs"
+    ],
+    "description": "Marché municipal du centre de Villeneuve-le-Roi, installé depuis l'été 2024 dans une halle provisoire le temps de la reconstruction de la halle historique voisine ; on y entre par le 55 rue du Général-de-Gaulle, la rue du Docteur-Ageorges ou la rue Alice. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://www.villeneuve-le-roi.fr/cadre-de-vie/commerce-et-entreprises/marche-de-la-faisanderie/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=55+rue+du+G%C3%A9n%C3%A9ral+de+Gaulle+94290+Villeneuve-le-Roi",
+    "image_url": "/images/marchands/marche-de-la-faisanderie-villeneuve-le-roi.jpg",
+    "a_confirmer": true
   }
 ]
