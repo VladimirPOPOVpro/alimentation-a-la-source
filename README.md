@@ -4590,9 +4590,26 @@ prioritaires en cas de conflit.
      Villecresnes ni l'esplanade du Plessis-Trévise, le registre ne met qu'un établissement fermé sur la première, et la Ville du
      Plessis-Trévise publie deux points à 900 m l'un de l'autre sous la même adresse d'esplanade.
 
+374. **Quand le site d'un commerce porte dans son titre le nom de son exploitant, la fiche garde l'enseigne et le téléphone
+     publié pour la clientèle, mais ne reprend pas le lien vers ce site.** Le 28 septembre 2026, la boulangerie biologique du
+     quartier Saint-Julien, à Charleville-Mézières, remplit tout le reste : entreprise active à son adresse, enseigne qui n'est pas
+     un nom de personne, certificat engagé pour le pain frais, horaires jour par jour sur son propre site. Mais ce site s'intitule
+     de l'enseigne suivie du prénom et du nom de l'artisan, et son dépliant nomme le couple qui la tient. La règle des personnes
+     interdit de nommer un exploitant sur une fiche ; elle ne dit rien d'un lien qui mènerait le visiteur, en un clic, à ce nom.
+     `AGENT.md` rend `site_web` facultatif (« seulement s'ils sont vérifiés »). **Tranché ainsi** : la carte ne publie pas de lien
+     dont la page d'arrivée affiche, dans son titre ou son en-tête, le nom d'une personne privée ; la fiche garde l'enseigne,
+     l'adresse, les horaires lus sur ce site et le téléphone fixe que le commerce y publie pour sa clientèle. Une enseigne
+     elle-même patronymique reste écartée entière, comme avant. **Déblocage** : un site ou une page du commerce qui ne porte
+     pas de nom de personne.
+
 ## Marchands à confirmer
 
-806 fiches sur 912 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+810 fiches sur 916 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché des producteurs de pays — place Ducale**, **Marché des producteurs de pays — place de l'Hôtel-de-Ville**, **Biocoop
+  Le Pissenlit** et **Le Péché Mignon** (Charleville-Mézières) (passe du 28 septembre 2026, quatre-vingt-treizième, règles 42 et
+  320) : photographies thématiques CC0 pour les quatre (règle 371) ; marché des producteurs publié par la seule Ville (dates
+  d'octobre à décembre 2026 lues sur sa page du 21 septembre 2026), à relire en début de saison suivante ; boulangerie sans lien
+  vers son site (règle 374), horaires lus sur un site dont la dernière actualité date des fêtes de 2025.
 - **Marché de la Ferme** (Boissy-Saint-Léger), **Marché du Centre de Charenton** (Charenton-le-Pont), **Petit marché de
   Rungis** et **Marché de la Faisanderie** (Villeneuve-le-Roi) (passe du 28 septembre 2026, quatre-vingt-douzième, règles
   302 et 373) : photographies thématiques CC0 pour les quatre (règle 371) — les Villes n'offrent aucune image reprenable
@@ -11937,6 +11954,128 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 28 septembre 2026 (quatre-vingt-treizième) : quatre fiches à Charleville-Mézières (Ardennes), Orne sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée, quatre images.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 912 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Orne (61) 3,6399** premier non épuisé, **Ardennes (08) 3,5168** second
+(règle 248), Tarn-et-Garonne 3,5158 ensuite. La dernière passe publiée visait l'Île-de-France (Val-de-Marne) : ni la Normandie ni
+le Grand Est ne sont réservés (règle 41.c).
+
+**Contrôle de tête : le groupe de Labenne** (règle 355). « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55) ; « place de la République Labenne » une autre rue de Labenne (0,47). Trois points ; non réinstruit.
+
+**Orne, reprise d'abord (règle 247)** : aucun déblocage nommé d'Alençon, Flers, Argentan ou L'Aigle n'est atteint, et leurs
+quatre fiches entières sont dans quatre intercommunalités différentes (règle 302 fermée). **Descente reprise à La Ferté-Macé**,
+douze communes. Contrôle à deux agents (règle 257) sur chaque site.
+
+1. **La Ferté-Macé** (5 071) — le **magasin biologique indépendant de la rue des Tisserands** (coopérative) a ses faits entiers :
+   société active à cette adresse, certificat engagé, horaires jour par jour et liste de ses producteurs locaux sur son propre
+   site (règle 86), images réservées par ses mentions légales (photographie CC0 possible, règle 371). Le marché du jeudi est
+   publié par la Ville (place du Général-Leclerc, place de la République et marché couvert) sans heure ni composition, l'office
+   Montagnes de Normandie ne lui donne que la liste commune à tous ses marchés (règles 197 et 329) ; l'ancien blog de l'office
+   refuse l'agent nommé et s'interdit par son `robots.txt` (règles 77 et 257). **Une fiche entière, seule.**
+2. **Tinchebray-Bocage** (4 813) — le marché du samedi matin, place Saint-Rémy (rôtisseur, fromager, primeur bio ou local écrits
+   par la Ville, samedi confirmé par l'office Domfront-Bagnoles), a ses faits entiers au titre de la règle 9, sans heure publiée.
+   Aucun autre point de vente instruit (une ferme bio inscrite sous le nom de son exploitante, voir plus bas). **Une fiche
+   entière, seule.**
+3. **Athis-Val de Rouvre** (4 201) — l'office fiche une dizaine de producteurs ; le marché du mardi (8h30-13h, place Saint-Vigor)
+   et le marché mensuel de La Carneille n'ont que la liste commune de l'office (règle 329), la Ville ne publie aucune page de
+   marché. La ferme laitière et cidricole bio n'a pas d'heures de vente, et son blog refuse l'agent nommé (règle 257) ; les
+   autres fermes n'ont pas d'heures à leur adresse (règle 152). **Zéro.**
+4. **Sées** (4 168) — la Ville (office de tourisme compris) et Orne Tourisme répondent 200 à l'agent par défaut et 403 à l'agent
+   nommé : exclues (règle 257). La boutique de la ferme du lycée agricole a des faits publiés par son campus, mais aucune
+   seconde fiche n'est possible. **Zéro.**
+5. **Domfront en Poiraie** (4 113) — le **marché du vendredi** a ses faits entiers (9h-12h30, place du Général-de-Gaulle ;
+   fruits et légumes, viandes, poissons, œufs, fromages, pain, écrits par la Ville, page du 5 juin 2026 ; le « marché de
+   producteurs » de l'agenda commercial de la Ville est le même marché, au même lieu, règle 42). L'épicerie de la rue
+   Saint-Julien ne publie ni site ni producteurs (règle 361). **Une fiche entière, seule.**
+6. **Mortagne-au-Perche** (3 898) — la Ville publie le marché du samedi matin (place Notre-Dame et marché couvert) sans heure ni
+   composition ; le Parc naturel régional du Perche n'y signale en 2024 qu'un marché du vendredi après-midi. Le **magasin
+   biologique de réseau de la zone de Préfontaine** a ses horaires sur le site commun aux trois magasins de son exploitant, avec
+   la liste de producteurs locaux de ce site (voir les pistes). **Zéro zone.**
+7. **Saint-Germain-du-Corbéis** (3 636) — la Ville n'annonce qu'un marché de producteurs ponctuel (6 octobre 2026), sans
+   composition. **Zéro.**
+8. **Gouffern en Auge** (3 636) — aucun marché ; la seule cidrerie avec boutique vend sous un nom patronymique (voir plus bas).
+   **Zéro.**
+9. **Val-au-Perche** (3 336) — le **marché du mercredi** au Theil a ses faits entiers (8h-13h, place des Tilleuls ; maraîchers,
+   primeurs, fromages de chèvre, pommes et poires, poissonnerie, boucherie, miel, crémier-fromager écrits par la Ville, page du
+   27 mars 2026). La cidrerie bio de Tronas n'a d'horaires que sur Orne Tourisme (règle 257), le site intercommunal (`robots.txt`
+   fermé) et un annuaire ; son propre domaine ne répond plus. **Une fiche entière, seule.**
+10. **Saint-Georges-des-Groseillers** (3 173) — le magasin de producteurs de la ZA des Essarts (société active, fiché par
+    l'office) n'a d'horaires que sur deux annuaires qui se contredisent (ouverture du dimanche, coupure du vendredi), sans
+    texte de sa main (règle 236). **Zéro.**
+11. **Vimoutiers** (2 978) — la Ville annonce un marché du vendredi (7h-14h) sans lieu ni famille de produits. **Zéro.**
+12. **Tourouvre au Perche** (2 955) — aucune page de marché trouvée ; la coopérative agricole de la commune accompagne des
+    porteurs de projet et ne vend pas. **Zéro.**
+
+**Ardennes, commune calculée (règle 248) : Charleville-Mézières** (45 560). Le site de la Ville répond 200 aux deux agents et
+son `robots.txt` autorise tout ; l'office de tourisme ne répond pas (règle 237). **Deux fiches entières dans la commune, et
+quatre points** (règles 127 et 320 ; distances à vol d'oiseau depuis la mairie, place du Théâtre, point de l'annuaire de
+l'administration) :
+
+- **Marché des producteurs de pays — place Ducale** — 0,1 km. Le 2e vendredi du mois, 15h-19h ; produits laitiers, viande,
+  œufs, fruits et légumes, miel, jus, charcuterie ardennaise, écrits par la Ville (page des marchés et article du 21 septembre
+  2026, dates d'octobre à décembre 2026). Point : place Ducale à la Base Adresse Nationale (0,970).
+- **Marché des producteurs de pays — place de l'Hôtel-de-Ville** — 1,4 km. Le 3e vendredi du mois, mêmes heures et même
+  composition. Deux places, deux jours, deux points que la Base connaît chacun en propre : deux fiches (règle 42). Point :
+  place de l'Hôtel-de-Ville (0,960).
+- **Biocoop Le Pissenlit** — 4,0 km. Coopérative active à cette adresse sous cette enseigne, certificat Ecocert engagé ;
+  horaires et liste de ses producteurs locaux (vergers, produits laitiers, brasseries des Ardennes) publiés par le magasin
+  lui-même (règles 86 et 273). Point : n° 2 rue André-Joseph (0,962).
+- **Le Péché Mignon** — 1,6 km. Boulangerie-pâtisserie qui fabrique et vend sur place (règle 73), entreprise active à cette
+  adresse, certificat engagé pour le pain frais ; horaires et téléphone sur son propre site, sans lien vers ce site (règle 374).
+  Point : n° 49 avenue de Saint-Julien (0,972).
+
+**Pas de cinquième point** : les quatre marchés hebdomadaires de la Ville (marché couvert de la rue du Daga, place Bauchart,
+place de l'Hôtel-de-Ville le mercredi, place de Mohon) ne sont décrits que comme « alimentaires » (règle 197) ; le magasin bio
+indépendant du cours Aristide-Briand ne nomme que des « fournisseurs certifiés » (règle 86) ; le second magasin de réseau n'a au
+registre bio qu'un lieu-dit sans adresse ; l'AMAP de la ville n'a pas de source datée (règle 195) ; une productrice de plantes
+de la ville et la ferme fruitière de Damouzy sont inscrites sous le nom de leur exploitant (voir plus bas). La passe publie quatre fiches (règle 320). Sedan, seconde commune possible,
+n'a pas été éprouvée : la passe a trouvé sa zone dans la commune calculée.
+
+**Images, règle 371** (Openverse, licence CC0 lue dans la réponse de l'annuaire, source Flickr ; métadonnées retirées, règle
+235) : place Ducale — pot de miel et cuillère, `flickr.com/photos/184594136@N08/51330849013` ; place de l'Hôtel-de-Ville — boîte
+d'œufs, `flickr.com/photos/37996646802@N01/2543297739` ; Biocoop — bassine de pommes, `flickr.com/photos/93936679@N05/23884044367` ;
+boulangerie — pain au levain sur grille, `flickr.com/photos/93936679@N05/23500577878`. Aucune n'a encore servi une fiche. Trois
+autres candidates ont été écartées parce qu'elles montrent une marque (bocal embossé, étiquettes d'une chaîne de magasins).
+
+**Contradictions** : à Saint-Georges-des-Groseillers, deux annuaires donnent deux grilles d'horaires au magasin de producteurs
+(non publiées). À Charleville-Mézières, la page des marchés de la Ville dit « de février à décembre » pour le marché des
+producteurs, les fiches d'agenda « jusqu'à décembre » : les fiches donnent les dates 2026 que la Ville annonce et la période
+de la page des marchés.
+
+**Fiches écartées pour doute sur une personne** : douze pistes dans huit communes, non instruites, qui ne se rouvrent pas —
+à Athis-Val de Rouvre,
+quatre producteurs (herboristerie, distillation de plantes, confitures, petits fruits) que l'office présente par le prénom de
+leur exploitant, vendant chez eux ; à La Ferté-Macé, deux fermes (cidre, élevage) dont la fiche de l'office porte le nom de
+l'exploitant dans son titre ; à Domfront en Poiraie, un moulin à la ferme dont le seul contact est le nom d'un couple, une
+adresse de messagerie et un portable personnels ; à Gouffern en Auge, une cidrerie sous nom patronymique ; à Tourouvre au
+Perche et à Tinchebray-Bocage, une ferme chacune inscrite sous le nom de son exploitante ; à Charleville-Mézières, une
+productrice de plantes, et à Damouzy une ferme fruitière, inscrites sous le nom de leur exploitant. Les noms d'élus, de commerçants du marché de Val-au-Perche, de
+gérants et d'artisans lus sur les autres pages ne sont repris nulle part.
+
+**Points d'arrêt** : dans l'**Orne**, la descente reprend à **Rives d'Andaine** (2 844). Dans les **Ardennes**, la commune
+suivante est **Sedan**.
+
+**Après la passe**, sur 916 fiches : Ardennes −0,47 ; Orne 3,6559 premier non épuisé, puis Tarn-et-Garonne 3,5312 et Somme
+3,5112. La prochaine passe ne peut pas viser le Grand Est (règle 41.c).
+
+**Pistes non publiées (Orne)** — lignes anonymes :
+
+- La Ferté-Macé, magasin biologique indépendant de la rue des Tisserands : faits entiers. **Déblocage** : une seconde fiche
+  entière dans la commune (une composition et une heure écrites par la Ville pour le marché du jeudi).
+- Tinchebray-Bocage, marché du samedi : faits entiers (règle 9). **Déblocage** : une seconde fiche entière dans la commune.
+- Domfront en Poiraie, marché du vendredi : faits entiers. **Déblocage** : une seconde fiche entière dans la commune (une liste
+  de producteurs publiée par l'épicerie de la rue Saint-Julien).
+- Val-au-Perche, marché du mercredi au Theil : faits entiers. **Déblocage** : des horaires de la cidrerie de Tronas publiés par
+  une source lisible (son domaine rétabli, ou la Ville).
+- Mortagne-au-Perche, magasin biologique de réseau de la zone de Préfontaine : horaires publiés ; la liste de producteurs est
+  celle du site commun à trois magasins d'un même exploitant, à lire sous la règle 273. **Déblocage** : une composition écrite
+  par la Ville pour le marché du samedi, qui ferait la seconde fiche.
+- Saint-Georges-des-Groseillers, magasin de producteurs de la ZA des Essarts : **Déblocage** : des horaires écrits par le
+  magasin lui-même.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-douzième) : quatre marchés autour de Créteil (Val-de-Marne), Orne sans zone
 

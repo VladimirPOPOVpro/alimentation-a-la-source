@@ -24279,5 +24279,113 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=55+rue+du+G%C3%A9n%C3%A9ral+de+Gaulle+94290+Villeneuve-le-Roi",
     "image_url": "/images/marchands/marche-de-la-faisanderie-villeneuve-le-roi.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-de-pays-place-ducale",
+    "nom": "Marché des producteurs de pays — place Ducale",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.773566,
+    "lon": 4.721034,
+    "adresse": "Place Ducale, 08000 Charleville-Mézières",
+    "horaires": "Le 2e vendredi de chaque mois, de 15h à 19h, de février à décembre, d'après la Ville (prochaines dates annoncées : 9 octobre, 13 novembre et 11 décembre 2026). Le 3e vendredi, le marché se tient place de l'Hôtel-de-Ville de Mézières.",
+    "produits": [
+      "Produits laitiers",
+      "Viande",
+      "Œufs",
+      "Légumes et fruits de saison",
+      "Miel",
+      "Jus",
+      "Charcuterie ardennaise"
+    ],
+    "description": "Marché mensuel réservé aux producteurs locaux, organisé par la Ville sur la place Ducale, au cœur de Charleville, en fin d'après-midi ; il alterne chaque mois avec la place de l'Hôtel-de-Ville de Mézières, qui a sa propre fiche. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://www.charleville-mezieres.fr/les-marches-brocantes-et-braderies",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Ducale%2008000%20Charleville-M%C3%A9zi%C3%A8res",
+    "image_url": "/images/marchands/marche-des-producteurs-de-pays-place-ducale.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-producteurs-de-pays-hotel-de-ville-mezieres",
+    "nom": "Marché des producteurs de pays — place de l'Hôtel-de-Ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.760054,
+    "lon": 4.719352,
+    "adresse": "Place de l'Hôtel de Ville, 08000 Charleville-Mézières",
+    "horaires": "Le 3e vendredi de chaque mois, de 15h à 19h, de février à décembre, d'après la Ville (prochaines dates annoncées : 16 octobre, 20 novembre et 18 décembre 2026). Le 2e vendredi, le marché se tient place Ducale.",
+    "produits": [
+      "Produits laitiers",
+      "Viande",
+      "Œufs",
+      "Légumes et fruits de saison",
+      "Miel",
+      "Jus",
+      "Charcuterie ardennaise"
+    ],
+    "description": "Marché mensuel des producteurs locaux sur la place de l'Hôtel-de-Ville, dans le quartier de Mézières, à 1,4 km de la mairie de Charleville-Mézières ; le même marché se tient le 2e vendredi du mois place Ducale, qui a sa propre fiche. La photographie est une illustration thématique libre de droits (CC0) qui ne montre pas ce marché : la Ville ne publie aucune image de lui que ce site puisse reprendre.",
+    "site_web": "https://www.charleville-mezieres.fr/les-marches-brocantes-et-braderies",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27H%C3%B4tel%20de%20Ville%2008000%20Charleville-M%C3%A9zi%C3%A8res",
+    "image_url": "/images/marchands/marche-des-producteurs-de-pays-hotel-de-ville-mezieres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-le-pissenlit-charleville-mezieres",
+    "nom": "Biocoop Le Pissenlit",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.738067,
+    "lon": 4.709213,
+    "adresse": "2 Rue André Joseph, 08000 Charleville-Mézières",
+    "horaires": "Lundi de 14h à 19h ; du mardi au samedi de 10h à 19h ; fermé le dimanche (horaires publiés par le magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Pommes et jus de pomme d'un verger ardennais",
+      "Produits laitiers frais bio des Ardennes",
+      "Bière bio brassée à Sedan",
+      "Vrac (plus de 300 références)",
+      "Fromages et charcuteries"
+    ],
+    "description": "Magasin coopératif du réseau Biocoop, entièrement bio, au sud de Charleville-Mézières, à 4 km de la mairie. Il annonce plus de 70 producteurs partenaires de la région et publie leur liste, dont un verger, un producteur de produits laitiers et des brasseries des Ardennes. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le magasin.",
+    "telephone": "03 24 42 34 20",
+    "site_web": "https://charlevillemezieres.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Rue%20Andr%C3%A9%20Joseph%2008000%20Charleville-M%C3%A9zi%C3%A8res",
+    "image_url": "/images/marchands/biocoop-le-pissenlit-charleville-mezieres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-peche-mignon-charleville-mezieres",
+    "nom": "Le Péché Mignon",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.761633,
+    "lon": 4.706954,
+    "adresse": "49 Avenue de Saint-Julien, 08000 Charleville-Mézières",
+    "horaires": "Du mercredi au samedi de 6h45 à 19h, le dimanche de 6h45 à 18h ; fermé le lundi et le mardi (site de la boulangerie).",
+    "produits": [
+      "Pain frais (certifié bio)",
+      "Pâtisseries",
+      "Chocolats",
+      "Glaces"
+    ],
+    "description": "Boulangerie-pâtisserie artisanale du quartier Saint-Julien, à 1,6 km de la mairie de Charleville-Mézières, qui fabrique et vend sur place. Engagée en agriculture biologique pour le pain frais depuis 1998 au registre de l'Agence Bio. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la boulangerie.",
+    "telephone": "03 24 57 43 71",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=49%20Avenue%20de%20Saint-Julien%2008000%20Charleville-M%C3%A9zi%C3%A8res",
+    "image_url": "/images/marchands/le-peche-mignon-charleville-mezieres.jpg",
+    "a_confirmer": true
   }
 ]
