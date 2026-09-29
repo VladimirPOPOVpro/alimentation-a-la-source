@@ -4775,10 +4775,27 @@ prioritaires en cas de conflit.
      couverte complète un groupe. Chaque lieu neuf est instruit entièrement, et la descente de la règle 41.d n'avance pas : elle
      reprendra à Donzenac. Première application : deux brasseries brivistes et une ferme de Saint-Viance complètent les deux
      marchés, cinq points à 0,3, 0,3, 0,4, 5,0 et 7,6 km de la mairie de Brive.
+389. **Un drive fermier tenu par une association de producteurs se publie en `producteur`, à son point de retrait, sur la foi
+     de son propre site vivant.** Le 29 septembre 2026 (cent onzième passe), Tarbes rend un drive fermier piéton : on commande
+     en ligne du mardi au samedi, on retire son panier le mardi de 17h à 19h au siège de la Chambre d'agriculture, place du
+     Foirail, des mains des producteurs qui assurent la distribution à tour de rôle. Aucune règle ne disait dans quelle
+     catégorie le ranger, ni ce qui établit qu'il fonctionne encore : ce n'est ni une AMAP (aucun contrat de saison, commande
+     libre chaque semaine), ni un commerce au sens de la règle 6, puisque l'éditeur est une association. **Tranché ainsi** :
+     la catégorie est `producteur`, comme un magasin de producteurs (règle 105), parce que ce sont les producteurs eux-mêmes qui
+     vendent et remettent ; l'existence se lit comme pour une association (règle 195) — un site propre vivant, dont la boutique
+     et les créneaux se servent à la date de la passe, avec l'éditeur désigné dans ses mentions légales et inscrit comme
+     association active au registre à l'adresse du retrait ; le champ `horaires` donne le créneau de retrait et la fenêtre de
+     commande, et la fiche passe en `a_confirmer`. Des articles de presse anciens ne suffisent pas seuls, un site éteint ou une
+     association radiée ferme la fiche.
 
 ## Marchands à confirmer
 
-867 fiches sur 978 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+871 fiches sur 982 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Marcadieu**, **Halle du centre-ville et carreau des producteurs**, **Biocoop Le Grand Pic** et **Les Emplettes
+  Fermières** (Tarbes) (passe du 29 septembre 2026, cent onzième, règles 248, 316, 371 et 389) : photographies thématiques CC0
+  ou du domaine public (règle 371) ; à la halle du centre-ville, heures contradictoires entre la Ville et l'office (règle 5), les
+  deux versions publiées ; aux deux marchés, aucune liste d'étals nominative ; au drive fermier, existence établie par son
+  seul site vivant et le registre de l'association (règle 389).
 - **Marché Charras**, **Marché Villebois-Mareuil (Bécon)**, **Marché Marceau**, **Marché du Faubourg de l'Arche** et **AMAP des
   Consom'acteurs de Courbevoie** (Courbevoie) (passe du 29 septembre 2026, cent dixième, règles 237, 297 et 371) : horaires et
   métiers lus sur la seule page « Vos marchés » de la Ville, confirmée pour chaque marché par une seconde page communale (règle
@@ -12197,6 +12214,72 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent onzième) : Haute-Saône sans zone, puis Tarbes (Hautes-Pyrénées), quatre fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 978 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Haute-Saône (70) 3,3074**, premier département ouvert, en
+Bourgogne-Franche-Comté ; la passe de Courbevoie visait l'Île-de-France (règle 41.c). Aucun département n'y porte de fiches
+désignées : la règle 302 ne joue pas. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Haute-Saône : douze communes éprouvées, aucune zone (règles 127 et 247).** Premier passage dans le département. Sources : la
+page « Marchés hebdomadaires » de la Ville de Vesoul, l'annuaire « J'veux du local » de la Chambre d'agriculture de Haute-Saône
+(`jveuxdulocal70.fr`, 200 aux deux agents), le registre bio (632 opérateurs dans le 70) et les sites des communes. Le site de
+l'agence départementale du tourisme et celui de la Chambre d'agriculture refusent l'agent nommé (règle 257), celui de la Ville
+d'Échenoz-la-Méline aussi (429 aux seuls agents d'IA, règle 280) ; l'office de tourisme de Vesoul ne publie plus de page de
+marché. Vesoul rend **deux fiches entières**, désignées pour la reprise (règle 258) ; son agglomération ne complète pas. Les
+onze communes suivantes rendent au plus une fiche chacune. Détail dans « Pistes non publiées en Haute-Saône ». Point d'arrêt :
+**Vaivre-et-Montoille** ; la descente reprendra à **Rioz** (2 398), puis Arc-lès-Gray (2 393) ; la commune d'après,
+Noidans-lès-Vesoul, compte 1 973 habitants : le 70 sera épuisé à ce rang (règle 265).
+
+**Second département (règle 248) : Hautes-Pyrénées (65) 3,2814**, en Occitanie (règle 364), jamais visé jusqu'ici. Commune
+calculée : **Tarbes** (44 399). Contrôle à deux agents : `tarbes.fr`, `tarbes-tourisme.fr`, `legrandpic.biocoop.net`,
+`les-emplettes-fermieres-65.fr`, `tourisme-hautes-pyrenees.com` et `haricot-tarbais.com` répondent 200 aux deux agents ; le
+site de la Chambre d'agriculture des Hautes-Pyrénées refuse l'agent nommé (403). Tarbes rend **quatre fiches entières** dans la
+commune elle-même ; la règle 52 ne trouve pas de cinquième point sûr à moins de cinq kilomètres de leur barycentre, dans
+l'agglomération Tarbes-Lourdes-Pyrénées (pistes ci-dessous) : **la passe publie les quatre (règle 316)**.
+
+1. **Marché Marcadieu** (0,5 km de la mairie) — page « Les halles et marchés » de la Ville (jeudi 7h-13h, « le plus grand
+   marché des Hautes-Pyrénées », primeurs, poissons, viandes, plats préparés, gâteaux) et page « Nos marchés » de l'office
+   (jeudi 7h-13h, y compris l'Ascension ; fromages de pays, porc noir, haricots tarbais, mouton de Barèges). Le marché du Foirail
+   voisin (volailles, plants, matériel agricole, brocante) reste dans la description, pas en fiche (règle 42). Point : « Place
+   Marcadieu » à la Base (0,97), 43,231234 / 0,083781.
+2. **Halle du centre-ville et carreau des producteurs** (0,3 km) — halle couverte de la place du Marché Brauhauban ; son
+   nom est celui d'une personne, la fiche la désigne par sa fonction (règle 342). Même page de la Ville (étals tous les matins 8h-12h30, mail
+   8h-19h30, carreau des producteurs ouvert tous les matins, temps forts le week-end) et page de l'office. **Contradiction** :
+   l'office donne les étals du mardi au dimanche 7h-13h30 et le carreau le samedi et le dimanche 7h-13h30 ; deux autorités
+   également plausibles, les deux versions sont publiées (règle 5). Le carreau est une partie de la halle : une seule fiche
+   (règle 42). Point : « Place du Marché Brauhauban » à la Base (0,96).
+3. **Biocoop Le Grand Pic** (3,1 km) — société active au registre à son adresse sous l'enseigne Biocoop (47.29Z) ; horaires du
+   site du magasin (lundi-samedi 9h30-19h30, fermetures exceptionnelles datées de novembre 2026 à janvier 2027) ; le magasin
+   publie sa propre liste de quinze producteurs locaux, dont onze dans les Hautes-Pyrénées (règle 273 remplie). Sa page
+   d'accueil nomme des producteurs : pas de `site_web` (règle 377). Point : le 17 route de Pau à la Base (0,97).
+4. **Les Emplettes Fermières** (0,6 km) — drive fermier piéton ; commande du mardi au samedi, retrait le mardi 17h-19h au
+   20 place du Foirail (page « Comment ça marche ? ») ; éditeur : une association active au registre à la même adresse, créée
+   en novembre 2020. Première application de la **règle 389**. Page d'accueil sans nom de personne : `site_web` publié. Point :
+   le 20 place du Foirail à la Base (0,97), à 110 m de celui de la place Marcadieu, deux lieux distincts (règle 12).
+
+**Images** : quatre photographies thématiques Openverse (règle 371), sans visage ni enseigne, réencodées sans métadonnées
+(règle 235) : radis, navets et betteraves en bottes `https://www.flickr.com/photos/41284017@N08/8425079365` (marque du domaine
+public, Marcadieu) ; poireaux `https://www.flickr.com/photos/40632439@N00/20790020220` (CC0, halle du centre-ville, recadrée au-dessus
+d'une signature incrustée) ; épices et agrumes séchés `https://www.flickr.com/photos/145039335@N03/34101275150` (CC0, Biocoop) ;
+panier de légumes du jardin `https://www.flickr.com/photos/23408922@N07/9315096869` (marque du domaine public, drive fermier).
+Écartées : un étal devant une banderole commerciale avec un numéro de téléphone, une épicerie en vrac d'une autre enseigne, un
+tracteur conduit par une personne, des grains d'avoine dans des mains. Les photographies de la Ville et de l'office portent
+des crédits de photographes : non reprises.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms des producteurs que
+publient la page d'accueil de la Biocoop, le site du magasin de producteurs de Vesoul et l'annuaire de la Chambre
+d'agriculture ; les patronymes sous lesquels plusieurs exploitations haut-saônoises et une ferme d'Aureilhan sont inscrites au
+registre ; des enseignes formées d'un prénom ou d'un nom de personne (distributeurs d'œufs, maraîcher, apicultrice, boutique à
+la ferme) ; le nom du directeur de publication du drive fermier ; les prénoms d'un couple de boulangers et d'une épicerie en
+ligne ; les portables des AMAP. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 982 fiches : Hautes-Pyrénées −0,71 ; la prochaine passe ne peut pas viser l'Occitanie ; premier ouvert
+ensuite, sous réserve de la relecture de la règle 265 : **Haute-Saône (70) 3,3209**, où la passe reprend d'abord les deux fiches
+désignées de Vesoul (règle 258), puis la descente à Rioz. Dans les Hautes-Pyrénées, la descente reprendra à **Lourdes**
+(13 266) ; les candidats du cinquième point tarbais attendent en pistes.
 
 ### Passe du 29 septembre 2026 (cent dixième) : Courbevoie (Hauts-de-Seine), cinq fiches
 
@@ -26150,6 +26233,67 @@ Viry-Châtillon, Draveil et Yerres (zéro chacune, détail dans la section de la
   instruite plus avant (règle 127).
 - **Brétigny-sur-Orge** — le site de la Ville répond 403 à l'agent nommé (règle 257) ; un magasin de producteurs coopératif et
   un magasin bio de réseau y figurent au registre bio. Commune non encore éprouvée : elle le sera à son rang.
+
+### Pistes non publiées en Haute-Saône
+
+Passe du 29 septembre 2026 (cent onzième). Premier passage dans le département : douze communes éprouvées de Vesoul à
+Vaivre-et-Montoille, aucune zone ; la prochaine passe reprend les deux fiches désignées de Vesoul, puis la descente à **Rioz**.
+Le criblage des communes 2 à 12 s'est fait sur l'annuaire de la Chambre d'agriculture, le registre bio et les sites des Villes
+qui répondent.
+
+- **Vesoul** (15 078) — **deux fiches entières, désignées pour la reprise (règle 258)** :
+  - **Marché de Vesoul** (halles, place de la République et place Pierre-Rénet) : jeudi et samedi matin selon la page
+    « Marchés hebdomadaires » de la Ville (bouchers, charcutiers, poissonniers, fromagers, boulangers, maraîchers, produits du
+    terroir ; jusqu'à 250 exposants l'été), 8h-13h selon l'annuaire de la Chambre d'agriculture ; l'implantation du jeudi
+    autour des halles est confirmée par une actualité communale de mai 2020 (règle 178). Point : le 16 place de la République,
+    marqueur de l'annuaire 47,622578 / 6,160105, à contrôler à la Base à la reprise. Photographies de la Ville : diaporama à
+    vérifier (visages) ; à défaut, règle 371.
+  - **Esprit Paysan Vesoul** (10 rue André-Maginot) : magasin de producteurs ouvert en décembre 2018 par des exploitations
+    haut-saônoises (soixante-dix apporteurs, page du magasin), société active au registre à l'adresse (47.19B).
+    **Contradiction** : la page du magasin (modifiée en mars 2025) et l'annuaire de la Chambre donnent lundi-vendredi 9h-19h,
+    samedi 9h-18h ; le pied de page et la page de contact du même site (modifiée en 2019) donnent lundi-jeudi 9h30-12h30 et
+    14h30-18h30, vendredi 9h30-18h30, samedi 9h30-18h. La version corroborée aux deux bouts par une seconde source l'emporte
+    (règle 44). Les pages du site nomment des producteurs : pas de `site_web` (règle 383). Photographie : règle 371.
+  L'agglomération de Vesoul ne complète pas : **un distributeur automatique d'œufs et de miel bio** à Échenoz-la-Méline
+  (enseigne au registre, annuaire de la Chambre seul, fiche entière possible) ; **l'AMAP d'Échenoz-la-Méline** (mardi
+  18h30-19h30, place d'Armes, selon le réseau AMAP et la Chambre), sans source datée de l'année et dont la Ville refuse les
+  agents d'IA (règles 195 et 280) ; **le marché solidaire du mardi après-midi d'une épicerie solidaire** de la rue Didon, que
+  seuls la Chambre et des articles anciens décrivent, sans publication de l'organisateur (règle 196) ; **une fromagerie
+  fermière bio de Colombe-lès-Vesoul**, deux sites aux heures différentes, dont l'un au contenu générique qui décrit des
+  troupeaux et des fromages que l'autre ne mentionne pas, et deux adresses différentes à la Chambre et au registre bio
+  (règles 30 et 44) ; **le marché de producteurs de Frotey-lès-Vesoul**, trois dimanches datés de 2024 seulement ; le Biocoop
+  de Vesoul, dont le site refuse tout agent (règle 237). **Déblocage** : trois points de l'agglomération à moins de quinze
+  kilomètres de la mairie de Vesoul, ou une seconde source des faits du distributeur et une source datée de l'AMAP.
+- **Héricourt** (10 621) — marché de la place Brossolette aux heures contradictoires (annuaires) ; le domaine du maraîcher
+  bio de la commune est devenu une ferme de contenus touristiques (règles 56 et 327) ; distributeurs d'œufs à l'enseigne
+  formée d'un nom de personne (règle 36). **Zéro.**
+- **Lure** (7 877) — un marché du mardi que seule la Chambre décrit ; aucun commerce en circuit court avec des heures. **Zéro.**
+- **Luxeuil-les-Bains** (6 663) — le site de la Ville est une page en construction ; le marché du samedi est placé place de la
+  République par la Chambre et place Saint-Pierre par d'autres annuaires (règle 5) ; l'AMAP n'a pas de source datée (règle
+  195). Le magasin de producteurs de Froideconche (même intercommunalité) reste une piste pour la commune voisine. **Zéro.**
+- **Gray** (5 365) — la page des marchés de la Ville répond 404 ; une chèvrerie voisine a son établissement fermé au registre ;
+  un distributeur de légumes bio sans entité au registre sous son nom. **Zéro.**
+- **Fougerolles-Saint-Valbert**, **Champagney**, **Échenoz-la-Méline**, **Port-sur-Saône**, **Saint-Loup-sur-Semouse**,
+  **Ronchamp**, **Vaivre-et-Montoille** — au plus une fiche par commune : ventes à la ferme sans heures, enseignes formées d'un
+  prénom ou d'un nom de personne, marchés décrits par la seule Chambre. Le magasin de producteurs de Champagney (vendredi et
+  samedi, Chambre) et celui de Bouligney restent des pistes pour la reprise de leur commune. **Zéro.**
+
+### Pistes non publiées à Tarbes et dans les Hautes-Pyrénées
+
+Passe du 29 septembre 2026 (cent onzième). Tarbes a fait la passe à quatre points (règle 316) ; candidats du cinquième :
+
+- **Boutique de la coopérative du Haricot tarbais** (chemin de Bastillac, Tarbes) — coopérative active, soixante producteurs,
+  boutique annoncée par son site, mais aucune source consultable ne publie ses heures (règle 192). **Déblocage** : des heures
+  publiées par la coopérative ou l'office.
+- **Une ferme ovine d'Aureilhan** (avenue du Bois) — fiche de l'agence départementale du tourisme, vente d'agneaux sur commande,
+  heures masquées derrière un script, portable seul (règles 143 et 192). **Déblocage** : jours et heures publiés.
+- **Une ferme-boulangerie bio de Laloubère** et **une boulangerie bio au levain du cours de Reffye** — certifiées, sans heures
+  de vente publiées par elles ni par une autorité. **Déblocage** : idem.
+- **Un magasin bio de réseau de l'impasse du Perthuis** — la page du magasin répond « page non trouvée ». **Déblocage** : une page
+  du magasin qui nomme ses producteurs locaux (règle 273).
+- **La ferme bio d'insertion d'une association tarbaise** — la ferme est à Maubourguet, à plus de vingt kilomètres : hors zone.
+- **Une épicerie en ligne de produits haut-pyrénéens** — pas de point de vente ni d'heures publiés. Hors sujet en l'état.
+- **Lourdes** (13 266) — non éprouvée ; la descente du 65 y reprendra.
 
 ## Comment ajouter ou modifier un marchand
 

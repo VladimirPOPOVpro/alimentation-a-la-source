@@ -25974,5 +25974,114 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=73%20rue%20Gaultier%20Courbevoie",
     "image_url": "/images/marchands/amap-des-consom-acteurs-de-courbevoie.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-marcadieu-tarbes",
+    "nom": "Marché Marcadieu",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.231234,
+    "lon": 0.083781,
+    "adresse": "Place Marcadieu, 65000 Tarbes",
+    "horaires": "Jeudi de 7h à 13h, sous la halle Marcadieu et sur la place (horaires publiés par la Ville de Tarbes et par l'office de tourisme, y compris le jeudi de l'Ascension selon l'office).",
+    "produits": [
+      "Fruits et légumes de maraîchers locaux",
+      "Viandes et volailles",
+      "Poissons",
+      "Fromages de pays",
+      "Haricots tarbais",
+      "Gâteaux et biscuits",
+      "Plats préparés"
+    ],
+    "description": "Le grand marché hebdomadaire de Tarbes, présenté par la Ville comme le plus important des Hautes-Pyrénées, sous une halle de type Baltard de 1883 ; l'office de tourisme y signale des producteurs descendus des vallées pyrénéennes. Le même jeudi, la place du Foirail voisine accueille volailles, plants et brocante. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20Marcadieu%2C%20Place%20Marcadieu%2C%2065000%20Tarbes",
+    "image_url": "/images/marchands/marche-marcadieu-tarbes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halle-centre-tarbes",
+    "nom": "Halle du centre-ville et carreau des producteurs",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.231391,
+    "lon": 0.074698,
+    "adresse": "Place du Marché Brauhauban, 65000 Tarbes",
+    "horaires": "Étals de la halle tous les matins de 8h à 12h30, certains fermés le lundi ; mail central de 8h à 19h30 ; carreau des producteurs ouvert tous les matins, surtout le samedi et le dimanche (Ville de Tarbes). L'office de tourisme donne d'autres heures : étals du mardi au dimanche de 7h à 13h30, producteurs sur le carreau le samedi et le dimanche de 7h à 13h30 : se renseigner avant de venir.",
+    "produits": [
+      "Boucherie et charcuterie",
+      "Crèmerie et fromages",
+      "Volailles",
+      "Boulangerie et pâtisserie",
+      "Fruits et légumes",
+      "Produits frais des petits producteurs du carreau",
+      "Vins"
+    ],
+    "description": "Marché couvert quotidien du centre de Tarbes, rénové, avec à l'est un carreau ouvert aux producteurs locaux, surtout fréquenté le week-end ; à 300 m de la mairie. La halle porte le nom d'une personne : la fiche la désigne par sa fonction. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la halle.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20March%C3%A9%20Brauhauban%2C%2065000%20Tarbes",
+    "image_url": "/images/marchands/halle-centre-tarbes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-le-grand-pic-tarbes",
+    "nom": "Biocoop Le Grand Pic",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.23802,
+    "lon": 0.040895,
+    "adresse": "17 Route de Pau, 65000 Tarbes",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30 ; fermé le dimanche et les jours fériés annoncés par le magasin (horaires publiés par le magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Fromages et crèmerie",
+      "Boucherie et charcuterie bio",
+      "Œufs bio",
+      "Pains de boulangeries paysannes des Hautes-Pyrénées",
+      "Bières d'une brasserie des Hautes-Pyrénées",
+      "Pâtes et farines de producteurs de la région"
+    ],
+    "description": "Magasin du réseau Biocoop sur la route de Pau, à l'ouest de la ville, qui publie sa propre liste d'une quinzaine de producteurs locaux, la plupart des Hautes-Pyrénées (boulangeries, brasserie, pâtes, farines, maraîchage). À 3,1 km de la mairie. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le magasin.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%2C%2017%20Route%20de%20Pau%2C%2065000%20Tarbes",
+    "image_url": "/images/marchands/biocoop-le-grand-pic-tarbes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "emplettes-fermieres-tarbes",
+    "nom": "Les Emplettes Fermières",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.23033,
+    "lon": 0.084401,
+    "adresse": "20 Place du Foirail, 65000 Tarbes",
+    "horaires": "Drive fermier sur commande : commandes en ligne du mardi matin au samedi minuit ; retrait et paiement le mardi de 17h à 19h à la Chambre d'agriculture (horaires publiés par le drive).",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Viandes, volailles et œufs",
+      "Charcuteries",
+      "Pains",
+      "Miel et confitures",
+      "Conserves et plats cuisinés"
+    ],
+    "description": "Drive fermier piéton tenu par une association de producteurs des Hautes-Pyrénées, la plupart du réseau Bienvenue à la ferme, accompagnés par la Chambre d'agriculture : on commande en ligne et l'on retire son panier des mains des producteurs, qui assurent la distribution à tour de rôle. À 600 m de la mairie. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "site_web": "https://www.les-emplettes-fermieres-65.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=20%20Place%20du%20Foirail%2C%2065000%20Tarbes",
+    "image_url": "/images/marchands/emplettes-fermieres-tarbes.jpg",
+    "a_confirmer": true
   }
 ]
