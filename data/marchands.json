@@ -20600,7 +20600,6 @@
       "Œufs"
     ],
     "description": "L'AMAP qui distribue ses paniers dans la cantine associative de quartier du 93 rue Sadi-Carnot, lieu de cuisine participative à prix libre. Le contenu des paniers vient d'une fiche d'annuaire de 2025 et reste à confirmer. Photo : site des Petites Cantines de Bagnolet, l'intérieur de la cantine.",
-    "site_web": "https://www.tourisme93.com/les-amap-en-seine-saint-denis.html",
     "image_url": "/images/marchands/amap-populaire-bagnolet.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=93%20rue%20Sadi%20Carnot%2C%2093170%20Bagnolet"
@@ -20627,7 +20626,6 @@
       "Huile d'olive"
     ],
     "description": "L'AMAP bagnoletaise qui partage ses paniers dans un jardin partagé tenu par une association sur un espace vert de la commune ; l'annuaire de la Ville la présente comme liée à une dizaine de producteurs bio. La liste des produits vient d'un annuaire associatif non daté. Photo : blog du jardin tant désiré, prise en mai 2020, un jour sans distribution.",
-    "site_web": "https://www.tourisme93.com/les-amap-en-seine-saint-denis.html",
     "image_url": "/images/marchands/amap-amis-de-la-ferme-jardin-tant-desire-bagnolet.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=3%20rue%20D%C3%A9sir%C3%A9%20Vi%C3%A9not%2C%2093170%20Bagnolet"
@@ -25094,6 +25092,126 @@
     "site_web": "https://www.trets.fr/marche-hebdomadaire/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Mirabeau%2013530%20Trets",
     "image_url": "/images/marchands/marche-du-mercredi-trets.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-ottino-saint-ouen",
+    "nom": "Marché Ottino",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.904501,
+    "lon": 2.332615,
+    "adresse": "6-8 rue Alfred Ottino, 93400 Saint-Ouen-sur-Seine",
+    "horaires": "Mardi et vendredi de 8h à 13h, dimanche de 8h à 14h, selon la Ville de Saint-Ouen-sur-Seine (page « Marchés communaux », mars 2026) ; l'office de tourisme de Plaine Commune et le comité départemental du tourisme donnent 8h-14h les trois jours.",
+    "produits": [
+      "Produits laitiers frais",
+      "Fruits et légumes",
+      "Viande",
+      "Poissons",
+      "Herbes fines"
+    ],
+    "description": "Marché couvert du centre de Saint-Ouen, près du métro Garibaldi : l'alimentaire se tient sous la halle, le textile à l'extérieur, et le dimanche le marché s'étend, piéton, sur l'avenue Gabriel-Péri. Le projet de rénovation de la halle présenté par la Ville en 2025 prévoit des travaux les seuls jours sans marché. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.saint-ouen.fr/vie-quotidienne/commerce-et-artisanat/marches-communaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6-8%20rue%20Alfred%20Ottino%2C%2093400%20Saint-Ouen-sur-Seine",
+    "image_url": "/images/marchands/marche-ottino-saint-ouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-debain-saint-ouen",
+    "nom": "Marché Debain",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.902685,
+    "lon": 2.3489,
+    "adresse": "Place Debain (angle de la rue Debain et de la rue du Docteur-Bauer), 93400 Saint-Ouen-sur-Seine",
+    "horaires": "Le samedi de 8h à 13h, en plein air (Ville de Saint-Ouen-sur-Seine, page « Marchés communaux », mars 2026 ; même horaire au comité départemental du tourisme).",
+    "produits": [
+      "Poisson",
+      "Fruits et légumes frais",
+      "Fruits secs",
+      "Olives"
+    ],
+    "description": "Petit marché alimentaire de plein air ouvert en mai 2023 sur la place Debain, réaménagée en 2025 au carrefour de la rue du Docteur-Bauer. Les produits viennent de l'annonce de la Ville à l'ouverture et restent à confirmer ; le point est placé au carrefour, la place n'étant pas connue de la Base Adresse Nationale. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.saint-ouen.fr/vie-quotidienne/commerce-et-artisanat/marches-communaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20Debain%2C%2093400%20Saint-Ouen-sur-Seine",
+    "image_url": "/images/marchands/marche-debain-saint-ouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amapoule-saint-ouen",
+    "nom": "Amapoule",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.910218,
+    "lon": 2.338137,
+    "adresse": "Salle municipale des Marronniers, 1 avenue des Marronniers, 93400 Saint-Ouen-sur-Seine",
+    "horaires": "Distribution le mercredi de 19h30 à 20h30 (comité départemental du tourisme de la Seine-Saint-Denis, liste mise à jour le 11 mai 2026 ; même créneau à l'annuaire avenir-bio).",
+    "produits": [
+      "Légumes de saison",
+      "Œufs",
+      "Pommes"
+    ],
+    "description": "AMAP qui distribue ses paniers dans une salle municipale du quartier des Marronniers ; un annuaire des alternatives locales la présente comme très diversifiée, avec une soixantaine de variétés de légumes sur l'année. Les produits viennent d'un annuaire de 2022 et restent à confirmer. La photographie est une illustration thématique du domaine public et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20avenue%20des%20Marronniers%2C%2093400%20Saint-Ouen-sur-Seine",
+    "image_url": "/images/marchands/amapoule-saint-ouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-paz-solidaire-saint-ouen",
+    "nom": "AMAP PAZ Solidaire",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.90298,
+    "lon": 2.327458,
+    "adresse": "Maison de quartier Pasteur, 6 rue Pasteur, 93400 Saint-Ouen-sur-Seine",
+    "horaires": "Distribution le jeudi : de 17h30 à 19h45 selon le comité départemental du tourisme de la Seine-Saint-Denis (liste mise à jour le 11 mai 2026), de 18h30 à 20h selon l'annuaire avenir-bio (fiche du 29 mars 2026).",
+    "produits": [
+      "Légumes",
+      "Œufs",
+      "Pain"
+    ],
+    "description": "AMAP du quartier Pasteur-Arago-Zola qui propose, en plus des paniers ordinaires, des paniers à prix réduit pour les foyers modestes, selon l'annuaire des associations de la Ville. La photographie est une illustration thématique du domaine public et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=6%20rue%20Pasteur%2C%2093400%20Saint-Ouen-sur-Seine",
+    "image_url": "/images/marchands/amap-paz-solidaire-saint-ouen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amapuces-saint-ouen",
+    "nom": "AMAPuces",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.905234,
+    "lon": 2.339083,
+    "adresse": "Mains d'Œuvres, 1 rue Charles Garnier, 93400 Saint-Ouen-sur-Seine",
+    "horaires": "Distribution le mardi de 19h à 20h30 (comité départemental du tourisme de la Seine-Saint-Denis, liste mise à jour le 11 mai 2026 ; même créneau à l'annuaire avenir-bio).",
+    "produits": [
+      "Légumes bio",
+      "Pain",
+      "Œufs bio"
+    ],
+    "description": "AMAP du quartier des Puces qui distribue ses paniers au lieu culturel Mains d'Œuvres. Les produits viennent d'un annuaire de 2023 et restent à confirmer. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20rue%20Charles%20Garnier%2C%2093400%20Saint-Ouen-sur-Seine",
+    "image_url": "/images/marchands/amapuces-saint-ouen.jpg",
     "a_confirmer": true
   }
 ]

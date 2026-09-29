@@ -4693,9 +4693,35 @@ prioritaires en cas de conflit.
      restent entières, et chaque point se relit dans la passe qui publie (règle 322). Première application : la passe du
      29 septembre 2026 (cent troisième), qui publie la zone de Rousset.
 
+382. **Une place que la Base Adresse Nationale ignore, mais que la commune situe elle-même au carrefour de deux voies que la
+     Base connaît, se pointe au numéro de la Base qui fait l'angle de ce carrefour.** Le marché Debain, à Saint-Ouen-sur-Seine,
+     se tient « place Debain » selon la Ville et le comité départemental du tourisme ; la Base ne connaît pas la place (meilleure
+     réponse : la rue Debain, 0,75). La règle 166 fermerait la fiche. Mais la page de la Ville qui annonce l'inauguration de la
+     place réaménagée, en octobre 2025, la décrit par l'élargissement des trottoirs au nord de la rue du Docteur-Bauer et la
+     rénovation du carrefour : la place est ce carrefour, et la Base y connaît le 2 rue Debain et le 173 rue du Docteur-Bauer, à
+     13 m l'un de l'autre. C'est la lecture déjà suivie pour le marché des Trois-Communes de Romainville (dernier numéro avant le
+     carrefour). **Tranché ainsi** : quand l'autorité situe le lieu par deux voies qui se croisent, et que la Base connaît un
+     numéro à l'angle, ce numéro est le point de la fiche ; l'adresse écrit la place et le carrefour, la description dit comment
+     le point a été posé, et la fiche est `a_confirmer`. Sans description du carrefour par l'autorité, la règle 166 reste entière.
+
+383. **Une page de liste qui affiche le nom d'une personne privée — y compris dans une adresse électronique — ne sert pas de
+     `site_web`, même quand la ligne de la fiche concernée n'en porte aucun.** La liste des AMAP du comité départemental du
+     tourisme de la Seine-Saint-Denis reste une source datée et solide (règle 195), mais elle publie, pour une AMAP de
+     Saint-Ouen-sur-Seine, deux adresses de contact formées du prénom et du nom de particuliers. Les règles 374, 376 et 377 ne
+     visaient que la page d'un commerce ; leur motif — le visiteur envoyé par la carte lit un nom sans rien faire — vaut pour
+     toute page d'arrivée. **Tranché ainsi** : la carte ne met pas en lien une page, de commerce ou d'annuaire, dont le texte
+     visible nomme une personne privée ; la source reste citée dans `horaires` ou dans ce README. Les fiches déjà publiées qui
+     pointaient vers cette liste (les deux AMAP de Bagnolet) perdent leur `site_web` dans la même passe ; rien d'autre ne change
+     sur elles. **Déblocage** : une liste qui ne nomme personne.
+
 ## Marchands à confirmer
 
-835 fiches sur 944 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+840 fiches sur 949 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Ottino**, **Marché Debain**, **Amapoule**, **AMAP PAZ Solidaire** et **AMAPuces** (Saint-Ouen-sur-Seine, passe du
+  29 septembre 2026, cent quatrième, règles 381 et 382) : photographies thématiques CC0 ou du domaine public (règle 371) ; au
+  marché Ottino, la Ville donne 8h-13h le mardi et le vendredi, l'office et le comité départemental 8h-14h ; le point du marché
+  Debain est posé au carrefour (règle 382) ; les produits des trois AMAP viennent d'annuaires de 2022, 2023 et 2026, et les
+  heures de l'AMAP PAZ divergent (17h30-19h45 contre 18h30-20h).
 - **Marché du mercredi de Rousset** et **Marché du mercredi de Trets** (passe du 29 septembre 2026, cent troisième, règles
   96, 127 et 381) : photographies thématiques du domaine public (règle 371) ; à Rousset, 7h30-12h30 selon la Ville contre
   8h-13h selon le site départemental MyProvence (règle 176, les deux versions écrites) ; à Trets, source unique de la Ville,
@@ -12035,7 +12061,7 @@ n'a pas.
 
 ### Pistes non publiées à Lorgues
 
-- **Lei Cabrettes Lorguaises / Chèvrerie Tissot** (3176 chemin des Pailles) : la fiche
+- **Lei Cabrettes Lorguaises** (3176 chemin des Pailles) : la fiche
   Bienvenue à la Ferme est en ligne et détaillée, mais la seule entité du registre des
   entreprises à cette adresse est cessée (0 établissement ouvert, état « C ») et aucune
   autre exploitation caprine active n'apparaît à Lorgues. Contradiction non tranchée :
@@ -12077,6 +12103,80 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent quatrième) : Saint-Ouen-sur-Seine, cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 944 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Seine-Saint-Denis (93) 3,3329** premier non épuisé, en Île-de-France ;
+la passe précédente visait Provence-Alpes-Côte d'Azur, la réserve de la règle 41.c ne joue pas. Règle 302 : une seule fiche
+désignée entière dans le département (la microferme de Sevran) ; elle ne joue pas. Le groupe de Labenne n'est pas contrôlé : la
+passe ne vise pas la Nouvelle-Aquitaine.
+
+**Descente** : la passe de Bagnolet avait écrit la reprise à Gagny. Relue à travers les règles 371 et 381, la liste triée du
+département rouvre d'abord, à son rang (dixième), **Saint-Ouen-sur-Seine** (53 615), dont le marché du Landy n'attendait
+qu'une image. Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Le Blanc-Mesnil et Bobigny, avant elle, avaient été écartées pour des
+motifs d'une autre nature (heures, famille de produits, source datée, domicile) et ne se rouvrent pas. Saint-Ouen fait la passe
+à elle seule : cinq fiches dans la commune, sans élargissement. Épinay-sur-Seine (marché de la Briche et son AMAP, bloqués par
+la seule image) n'est pas éprouvée : elle se rouvre à son rang à la prochaine passe dans le 93, avant Gagny.
+
+**Contrôle à deux agents** (règle 257) : la Ville de Saint-Ouen-sur-Seine, la Ville d'Épinay-sur-Seine, l'agence
+d'attractivité de Plaine Commune (`pop-plainecommune.com`, qui remplace l'ancien office), le comité départemental du tourisme
+(`tourisme93.com`), l'annuaire `avenir-bio.fr`, `capoupascap.info`, `cacaoapp.fr` et `jds.fr` répondent 200 à l'agent par
+défaut comme à l'agent nommé ; aucun `robots.txt` ne nomme d'agent d'IA. Les sites propres de deux AMAP (hébergés chez Jimdo et
+WordPress) répondent 200 à l'agent par défaut et **403 à l'agent nommé** : ils ne sont pas consultés. Le site de la troisième
+n'ouvre aucune connexion. La recherche de l'annuaire du réseau des AMAP d'Île-de-France ne rend rien sans script : non utilisée.
+
+1. **Marché Ottino** — page « Marchés communaux » de la Ville (modifiée le 17 mars 2026 : mardi et vendredi 8h-13h, dimanche
+   8h-14h, 6 à 8 rue Alfred-Ottino) ; fiche de l'agence de Plaine Commune (5 janvier 2026 : 8h-14h les trois jours, composition
+   de la halle) ; liste du comité départemental. La Ville prime (règle 176), l'autre version est citée. Point de la Base au
+   8 rue Alfred-Ottino (0,96), à 30 m du point de l'agence.
+2. **Marché Debain** — même page de la Ville (samedi 8h-13h), article de la Ville de mai 2023 pour la composition (poisson,
+   fruits et légumes, fruits secs, olives), comité départemental concordant. Point : règle 382 (nouvelle), au 2 rue Debain.
+3. **Amapoule** — liste des AMAP du comité départemental (mise à jour le 11 mai 2026, règle 195 : mercredi 19h30-20h30, salle
+   municipale des Marronniers) ; produits à l'annuaire avenir-bio (fiche de 2022) et chez `capoupascap.info` (légumes). Point
+   au numéro (0,97).
+4. **AMAP PAZ Solidaire** — même liste du comité (jeudi 17h30-19h45) et fiche avenir-bio du 29 mars 2026 (jeudi 18h30-20h,
+   légumes, œufs, pain) ; les deux heures sont écrites (règle 5). Maison de quartier municipale, annuaire des associations de la
+   Ville pour les paniers à prix réduit. Point au numéro (0,97).
+5. **AMAPuces** — même liste du comité (mardi 19h-20h30, lieu culturel Mains d'Œuvres) ; produits à l'annuaire avenir-bio
+   (fiche de 2023). Point au numéro (0,97).
+
+Les trois AMAP n'ont pas de `site_web` : leurs sites propres ne sont pas consultés, et la liste du comité départemental nomme
+des particuliers (règle 383, nouvelle ; les deux AMAP de Bagnolet perdent ce lien). Aucune fiche n'a de téléphone : le seul
+numéro public des marchés est celui du service municipal du commerce, destiné aux commerçants.
+
+**Images** : la Ville de Saint-Ouen-sur-Seine interdit toute reproduction de ses images sans autorisation écrite, l'agence de
+Plaine Commune se réserve la propriété de ses images (règle 231). Cinq photographies thématiques Openverse (règle 371), sans
+visage, sans enseigne ni étiquette de prix, réencodées sans métadonnées (règle 235) : tomates
+`https://www.flickr.com/photos/29155878@N03/18248192205` (CC0, Ottino), poissons sur glace
+`https://www.flickr.com/photos/88123769@N02/15490845981` (CC0, Debain), navets et betteraves
+`https://www.flickr.com/photos/41284017@N08/7414362638` (marque du domaine public, recadrée à gauche pour sortir un bord
+d'étiquette, Amapoule), patates douces en panier `https://www.flickr.com/photos/41284017@N08/38068332301` (marque du domaine
+public, AMAP PAZ), pommes de terre en panier `https://www.flickr.com/photos/198109102@N06/53759473058` (CC0, AMAPuces). Écartées : un étal
+où une cliente est reconnaissable, des cartons d'œufs et des courges portant des marques, un fromager sous enseigne, un étal de
+pains à prix affichés.
+
+**Contradictions**, publiées avec leurs versions : heures du marché Ottino (Ville contre agence et comité), heures de l'AMAP PAZ
+(comité contre annuaire).
+
+**Pistes non publiées à Saint-Ouen-sur-Seine** :
+- **marché du Landy** (mercredi et samedi, 1 à 5 rue du Landy) — faits, point et image désormais possibles, mais aucune source
+  lisible n'écrit ce qui se vend sous la halle (« alimentaire », règle 197). Déblocage : une famille de produits écrite ;
+- **marché nocturne de la place Payret** (vendredi 15h-20h, ouvert le 29 mai 2026 selon le comité départemental) — ni
+  composition ni point. Non instruit plus avant ;
+- **une AMAP du quartier des Docks** — la seule source qui décrit son lieu le place dans un local d'immeuble d'habitation
+  (règle 243) : écartée pour doute sur une donnée personnelle, elle ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : une, à Saint-Ouen-sur-Seine (ci-dessus). **Données personnelles écartées** :
+les noms, portables et adresses de contact que l'annuaire des associations de la Ville, le comité départemental et l'annuaire
+avenir-bio publient pour les AMAP ; les noms de producteurs cités par un site de quartier ; les noms de commerçants d'une
+ancienne liste de livraison de la Ville. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier. Au passage, un nom de
+famille accolé à l'enseigne d'une chèvrerie de Lorgues dans une ancienne section de pistes a été retiré.
+
+**Après la passe**, sur 949 fiches : Seine-Saint-Denis −1,54 ; premiers non épuisés ensuite, sous réserve de la relecture de la
+règle 265 par la passe suivante : **Essonne (91) 3,4216**, Corrèze (19) 3,3145. La prochaine passe ne peut pas viser
+l'Île-de-France : elle prendra la Corrèze. **Reprise en Seine-Saint-Denis** : Épinay-sur-Seine d'abord (règle 381), puis Gagny.
 
 ### Passe du 29 septembre 2026 (cent troisième) : Rousset et la Métropole Aix-Marseille-Provence, cinq fiches
 
