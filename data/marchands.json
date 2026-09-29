@@ -26083,5 +26083,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=20%20Place%20du%20Foirail%2C%2065000%20Tarbes",
     "image_url": "/images/marchands/emplettes-fermieres-tarbes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-douarnenez",
+    "nom": "Marché des Halles de Douarnenez",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.09399,
+    "lon": -4.326899,
+    "adresse": "Place des Halles, 29100 Douarnenez",
+    "horaires": "Du lundi au samedi de 8h à 13h dans les halles, et le lundi, le vendredi et le samedi de 8h à 13h aux abords des halles, toute l'année (carte des marchés de Douarnenez Communauté, 2025). L'office de tourisme donne les halles du mardi au samedi le matin : se renseigner pour le lundi.",
+    "produits": [
+      "Poissons",
+      "Légumes de maraîchers du pays de Douarnenez",
+      "Pommes et kiwis",
+      "Œufs",
+      "Pain paysan au levain",
+      "Plants de légumes et d'aromates",
+      "Champignons"
+    ],
+    "description": "Marché couvert du centre de Douarnenez, ouvert tous les matins de la semaine, avec une poissonnerie et, selon les jours, les étals de maraîchers et de paysans-boulangers du pays de Douarnenez recensés par le catalogue des producteurs de l'intercommunalité ; un marché de plein air se tient autour des halles trois matins par semaine. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas les halles.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halles%2C%20Place%20des%20Halles%2C%2029100%20Douarnenez",
+    "image_url": "/images/marchands/halles-douarnenez.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-treboul-douarnenez",
+    "nom": "Marché de Tréboul",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.096576,
+    "lon": -4.339942,
+    "adresse": "Port de Tréboul, 29100 Douarnenez",
+    "horaires": "Mercredi et samedi de 8h à 13h, toute l'année (carte des marchés de Douarnenez Communauté, 2025, et office de tourisme, qui ajoute un petit marché de produits frais les autres matins du lundi au samedi).",
+    "produits": [
+      "Légumes de plein champ et sous abri",
+      "Champignons frais et séchés",
+      "Œufs bio de plein air",
+      "Farine de froment et de blé noir",
+      "Jus de pommes et de poires",
+      "Miel de bord de mer (de juin à octobre)",
+      "Plantes aromatiques (en été)"
+    ],
+    "description": "Grand marché du mercredi et du samedi sur le port de plaisance de Tréboul, où le catalogue des producteurs de Douarnenez Communauté situe plusieurs maraîchers, un champignonniste, une éleveuse de poules pondeuses bio et un apiculteur du pays. Le point est celui du port à la Base Adresse Nationale. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Port%20de%20plaisance%20de%20Tr%C3%A9boul%2C%2029100%20Douarnenez",
+    "image_url": "/images/marchands/marche-treboul-douarnenez.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "epicerie-locale-douarnenez",
+    "nom": "L'Épicerie Locale et Responsable",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.092748,
+    "lon": -4.329937,
+    "adresse": "14bis Rue Duguay Trouin, 29100 Douarnenez",
+    "horaires": "Du mardi au vendredi de 9h30 à 13h et de 15h à 19h ; samedi de 9h30 à 13h et de 16h à 19h ; fermé le dimanche et le lundi (site de l'épicerie et office de tourisme, concordants).",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Viande en direct des éleveurs",
+      "Produits laitiers bio bretons",
+      "Miels et confitures",
+      "Conserves et produits aux algues",
+      "Cidre, bière et jus de pommes",
+      "Produits en vrac",
+      "Paniers à commander en ligne"
+    ],
+    "description": "Épicerie de centre-ville qui ne travaille qu'avec des producteurs bretons, dont elle publie la liste, et que plusieurs fermes du catalogue de Douarnenez Communauté citent comme point de vente ; paniers de fruits et légumes à commander en ligne et à retirer au magasin. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas l'épicerie.",
+    "telephone": "09 88 46 29 00",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L'%C3%89picerie%20Locale%2C%2014%20bis%20rue%20Duguay%20Trouin%2C%2029100%20Douarnenez",
+    "image_url": "/images/marchands/epicerie-locale-douarnenez.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-allee-couverte-poullan-sur-mer",
+    "nom": "Ferme de l'Allée Couverte",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.090609,
+    "lon": -4.379909,
+    "adresse": "Leskonil, 29100 Poullan-sur-Mer",
+    "horaires": "Vente à la ferme le vendredi de 16h à 19h, et un second soir en semaine : le mardi selon la fiche de la ferme au catalogue de Douarnenez Communauté (2025), le mercredi selon la fiche d'une productrice voisine qui y vend ses produits. Se renseigner avant de venir.",
+    "produits": [
+      "Légumes diversifiés de saison bio",
+      "Œufs extra-frais",
+      "Aromates",
+      "Légumes et fruits d'une ferme voisine"
+    ],
+    "description": "Maraîchage bio diversifié sur près de deux hectares, au hameau de Leskonil, à une centaine de mètres sous l'allée couverte qui lui donne son nom ; la vente se fait surtout en direct à la ferme, avec les produits d'une exploitation voisine. Certification biologique en cours au registre de l'Agence Bio. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la ferme.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20de%20l'All%C3%A9e%20Couverte%2C%20Leskonil%2C%2029100%20Poullan-sur-Mer",
+    "image_url": "/images/marchands/ferme-allee-couverte-poullan-sur-mer.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-petricore-pouldergat",
+    "nom": "Ferme du Pétricore",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.042467,
+    "lon": -4.326009,
+    "adresse": "11 Rue Ar Briec, 29100 Pouldergat",
+    "horaires": "Vente à la ferme le mardi et le vendredi de 16h à 19h (catalogue des producteurs de Douarnenez Communauté, 2025) ; aussi au marché des Halles de Douarnenez le samedi.",
+    "produits": [
+      "Pain au levain cuit à la ferme",
+      "Farines de blé, de seigle et de sarrasin",
+      "Céréales bio"
+    ],
+    "description": "Paysans meuniers boulangers qui cultivent leurs céréales sur une quarantaine d'hectares et font farine et pain à la ferme depuis janvier 2024, du grain au pain ; exploitation certifiée en agriculture biologique au registre de l'Agence Bio. La Base Adresse Nationale ne connaît pas l'adresse : le point est celui du registre des entreprises. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la ferme.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20P%C3%A9tricore%2C%2011%20rue%20Ar%20Briec%2C%2029100%20Pouldergat",
+    "image_url": "/images/marchands/ferme-du-petricore-pouldergat.jpg",
+    "a_confirmer": true
   }
 ]

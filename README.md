@@ -4788,9 +4788,32 @@ prioritaires en cas de conflit.
      commande, et la fiche passe en `a_confirmer`. Des articles de presse anciens ne suffisent pas seuls, un site éteint ou une
      association radiée ferme la fiche.
 
+390. **Quand le site de la Ville refuse l'agent nommé, la carte des marchés que publie l'intercommunalité est l'« autre autorité »
+     de la règle 257 : avec l'office de tourisme, elle fait les deux sources de la règle 196.** Le 29 septembre 2026
+     (cent douzième passe), le site de la Ville de Douarnenez coupe la connexion à `ClaudeBot` (444) et répond à l'agent par
+     défaut : il n'est pas consulté (règle 257). L'office de tourisme publie les marchés de la commune, mais la règle 196 ne
+     publie pas un marché sur la seule foi de l'office. Or Douarnenez Communauté, établissement public dont la commune est
+     membre, publie sur son propre site (200 aux deux agents, `robots.txt` sans exclusion) un catalogue des producteurs en
+     circuit court, mis à jour en juin 2025 dans le cadre de son projet alimentaire territorial, avec une carte « Où faire son
+     marché ? » qui donne jour, lieu et heures de chaque marché, et des fiches de producteurs qui disent sur quel marché et quel
+     jour chacun vend. **Tranché ainsi** : une intercommunalité qui publie la carte des marchés de ses communes est une
+     autorité au sens de la règle 257 ; sa carte et l'office font les deux sources de la règle 196, et ses fiches de
+     producteurs remplissent la règle 197 pour les marchés qu'elles nomment. Quand les deux se contredisent sur les jours, les
+     deux versions partent (règle 5) et la fiche passe en `a_confirmer`. La même carte ne remplace pas la voix d'un commerce
+     sur ses propres heures : une ferme qui n'a que sa fiche au catalogue part avec ces heures, datées de leur source, et
+     `a_confirmer`. Première application : le marché des Halles et le marché de Tréboul, à Douarnenez ; le marché de Ploaré,
+     dont aucune des deux sources ne nomme une famille de produits, reste en pistes (règle 197).
+
 ## Marchands à confirmer
 
-871 fiches sur 982 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+876 fiches sur 987 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché des Halles de Douarnenez**, **Marché de Tréboul**, **L'Épicerie Locale et Responsable** (Douarnenez), **Ferme de
+  l'Allée Couverte** (Poullan-sur-Mer) et **Ferme du Pétricore** (Pouldergat) (passe du 29 septembre 2026, cent douzième,
+  règles 267, 96 et 390) : photographies thématiques CC0 ou du domaine public (règle 371) ; aux Halles, le lundi est donné par
+  l'intercommunalité et pas par l'office (règle 5) ; à Tréboul, point du port à la Base (0,63), la place exacte n'étant
+  publiée par aucune source consultable ; aux deux fermes, heures lues sur le seul catalogue de l'intercommunalité (juin
+  2025), qui donne pour l'Allée Couverte le mardi sur une fiche et le mercredi sur une autre (règles 5 et 44) ; au Pétricore,
+  la Base ne connaît pas la rue Ar Briec : point du registre des entreprises (règle 10).
 - **Marché Marcadieu**, **Halle du centre-ville et carreau des producteurs**, **Biocoop Le Grand Pic** et **Les Emplettes
   Fermières** (Tarbes) (passe du 29 septembre 2026, cent onzième, règles 248, 316, 371 et 389) : photographies thématiques CC0
   ou du domaine public (règle 371) ; à la halle du centre-ville, heures contradictoires entre la Ville et l'office (règle 5), les
@@ -12214,6 +12237,77 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent douzième) : Haute-Saône épuisée, puis Douarnenez (Finistère), cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 982 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : **Haute-Saône (70) 3,3209**, premier département ouvert, en Bourgogne-Franche-Comté ;
+la passe de Tarbes visait l'Occitanie (règle 41.c). Aucune intercommunalité ne porte quatre fiches désignées : la règle 302 ne
+joue pas. Relecture de la règle 375 : aucune commune du 70 n'a été sautée entre Vesoul et Vaivre-et-Montoille.
+
+**Haute-Saône : reprise de Vesoul, puis Rioz et Arc-lès-Gray, aucune zone ; le département est épuisé (règles 258, 247 et
+265).** Les deux fiches désignées de Vesoul restent entières, mais l'agglomération ne complète toujours pas (déblocage non
+rempli) : l'annuaire de la Chambre d'agriculture (`jveuxdulocal70.fr`, 200 aux deux agents) ne rend dans la Communauté
+d'agglomération de Vesoul qu'un maraîcher qui vend seulement en magasins, un élevage qui vend sur rendez-vous et une miellerie
+sans jours de vente, avec des portables pour seules coordonnées ; le registre bio n'y ajoute que des grandes surfaces, un
+grossiste et un attelage de chevaux. Le réseau AMAP régional refuse l'agent nommé (403, règle 257). **Rioz** (2 398) rend une
+seule fiche entière — un verger qui vend 7 jours sur 7 de 6h à 22h par le distributeur de son parking, dont le site nomme les
+exploitants (pas de `site_web`, règle 377) — et le site de la commune ne publie aucun marché. **Arc-lès-Gray** (2 393) ne rend
+rien : l'AMAP inscrite à l'annuaire distribue à Dampierre-sur-Salon, et le maraîcher de la commune vend sous un prénom (règle
+259). La commune suivante, Noidans-lès-Vesoul, compte 1 973 habitants : **la Haute-Saône est épuisée (règle 265)** ; les deux
+fiches de Vesoul et le verger de Rioz restent en pistes, avec leur déblocage.
+
+**Reste de la borne au suivant du classement (règle 267) : Finistère (29) 3,2939**, en Bretagne. La descente reprend à
+**Douarnenez** (14 068), point écrit par la passe de Morlaix ; relecture de la règle 375 : aucune commune sautée. Le site de la
+Ville refuse l'agent nommé (444, règle 257) ; l'office de tourisme (`douarnenez-tourisme.com`) et Douarnenez Communauté
+(`douarnenez-communaute.fr`) répondent 200 aux deux agents, sans exclusion dans leur `robots.txt`. **Douarnenez fait la passe**
+: trois fiches entières dans la commune, deux dans l'intercommunalité à moins de six kilomètres (règle 96).
+
+1. **Marché des Halles de Douarnenez** (place des Halles) — carte des marchés du catalogue de Douarnenez Communauté (juin 2025) :
+   halles du lundi au samedi 8h-13h, abords des halles lundi, vendredi et samedi 8h-13h ; office : halles du mardi au samedi le
+   matin (contradiction sur le lundi, deux versions, règle 5). Produits : fiches de producteurs du même catalogue (maraîchers,
+   pommes et kiwis, œufs, pain au levain, plants, champignons) et légende de l'office sur sa photographie de la poissonnerie
+   (règle 69). Une seule fiche pour les halles et leurs abords (règle 42). Point : place des Halles à la Base (0,96). Règle 390.
+2. **Marché de Tréboul** (1,0 km) — carte de l'intercommunalité (mercredi et samedi 8h-13h) et office (grand marché mercredi et
+   samedi matin, petit marché de produits frais les autres matins) ; produits des fiches de producteurs qui y vendent (légumes,
+   champignons, œufs bio, farines, jus, miel, aromates). Point : « Port de Tréboul » à la Base (0,63), aucune source ne
+   donnant la place exacte (règle 10). Règle 390.
+3. **L'Épicerie Locale et Responsable** (0,3 km) — entreprise active au registre à l'adresse sous cette enseigne (47.19B,
+   créée en 2020) ; horaires concordants du site de l'épicerie et de l'office ; le site publie la liste de ses producteurs,
+   tous bretons (règle 86 remplie), et le catalogue de l'intercommunalité la cite comme point de vente de plusieurs fermes. Le
+   site nomme des personnes : pas de `site_web` (règle 377) ; le fixe publié par l'épicerie pour sa clientèle est repris, pas
+   le portable. Point : le 14 bis de la rue à la Base (0,82).
+4. **Ferme de l'Allée Couverte** (Poullan-sur-Mer, 4,0 km) — GAEC actif au registre (créé en août 2024), certification Ecocert
+   engagée au registre de l'Agence Bio, vente aux particuliers ; fiche du catalogue de l'intercommunalité (vente à la ferme
+   mardi et vendredi 16h-19h) et fiche d'une ferme voisine qui y vend (mercredi et vendredi 16h-19h) : le vendredi est sûr, le
+   second soir contradictoire, les deux versions publiées (règles 5 et 44) ; l'office annonce une visite de la ferme le 27
+   octobre 2026 et y confirme la vente directe de légumes bio. La Base ne connaît que le hameau : point du registre des
+   entreprises, à 140 m du point de la voie (règle 10). Aucun site propre, portables non repris.
+5. **Ferme du Pétricore** (Pouldergat, 5,7 km) — exploitation active au registre sous ce nom commercial, certification Ecocert
+   engagée (céréales, farines, pain frais) ; fiche du catalogue de l'intercommunalité : vente à la ferme mardi et vendredi
+   16h-19h, marché des Halles le samedi. Enseigne neutre ; le registre porte le nom de l'exploitant, qui n'est repris nulle
+   part (règle 259). La Base ne connaît pas la rue Ar Briec (elle propose un « chemin ar Brieg » à 250 m) : point du registre
+   des entreprises (règle 10).
+
+**Images** : cinq photographies thématiques Openverse (règle 371), sans visage ni enseigne, réencodées sans métadonnées (règle
+235) : choux et brocolis en étal `https://www.flickr.com/photos/41284017@N08/7414368326` (marque du domaine public, Halles,
+recadrée pour ôter une étiquette de prix) ; bottes de radis `https://www.flickr.com/photos/28826830@N00/43057706671` (CC0,
+Tréboul) ; pot de miel `https://www.flickr.com/photos/184594136@N08/51330638681` (CC0, épicerie) ; radis en botte
+`https://www.flickr.com/photos/93936679@N05/14886966886` (CC0, Allée Couverte) ; champ de blé
+`https://www.flickr.com/photos/132795455@N08/24026544123` (CC0, Pétricore). Les photographies de l'office portent des crédits de
+photographes : non reprises. Écartées : des mains qui récoltent de la salade, des rayons de supermarché aux étiquettes de
+marque, deux photographies de pain déjà utilisées sur une autre fiche (règle 191).
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms, prénoms, portables et
+adresses électroniques des producteurs que publie le catalogue de l'intercommunalité ; les noms que portent le site du verger
+de Rioz et celui de l'épicerie ; les patronymes sous lesquels le registre bio inscrit des exploitations de Douarnenez
+Communauté et de Haute-Saône ; des enseignes formées d'un prénom (maraîcher d'Arc-lès-Gray, verger de Kerlaz). Aucun
+n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 987 fiches : Finistère −1,64 ; la prochaine passe ne peut pas viser la Bretagne ; la Haute-Saône
+reste dans le calcul mais n'est plus visée (règle 265). Dans le Finistère, la descente reprendra à **Plouzané** (13 567), puis
+Plougastel-Daoulas et Quimperlé.
 
 ### Passe du 29 septembre 2026 (cent onzième) : Haute-Saône sans zone, puis Tarbes (Hautes-Pyrénées), quatre fiches
 
@@ -26236,6 +26330,12 @@ Viry-Châtillon, Draveil et Yerres (zéro chacune, détail dans la section de la
 
 ### Pistes non publiées en Haute-Saône
 
+Passe du 29 septembre 2026 (cent douzième). Reprise des deux fiches désignées de Vesoul : l'agglomération ne complète pas
+(voir la section de la passe) ; **Rioz** (2 398) rend une fiche entière — **un verger de la route des Fontenis** dont le
+distributeur fermier du parking est ouvert 7 jours sur 7 de 6h à 22h, selon son site et l'annuaire de la Chambre — et rien
+d'autre ; **Arc-lès-Gray** (2 393) zéro. **Département épuisé (règle 265)** : la prochaine commune compte 1 973 habitants.
+Déblocage du groupe de Vesoul inchangé ; celui du verger de Rioz : une seconde fiche entière dans la commune.
+
 Passe du 29 septembre 2026 (cent onzième). Premier passage dans le département : douze communes éprouvées de Vesoul à
 Vaivre-et-Montoille, aucune zone ; la prochaine passe reprend les deux fiches désignées de Vesoul, puis la descente à **Rioz**.
 Le criblage des communes 2 à 12 s'est fait sur l'annuaire de la Chambre d'agriculture, le registre bio et les sites des Villes
@@ -26277,6 +26377,27 @@ qui répondent.
   **Ronchamp**, **Vaivre-et-Montoille** — au plus une fiche par commune : ventes à la ferme sans heures, enseignes formées d'un
   prénom ou d'un nom de personne, marchés décrits par la seule Chambre. Le magasin de producteurs de Champagney (vendredi et
   samedi, Chambre) et celui de Bouligney restent des pistes pour la reprise de leur commune. **Zéro.**
+
+### Pistes non publiées à Douarnenez et dans Douarnenez Communauté
+
+Passe du 29 septembre 2026 (cent douzième). Douarnenez a fait la passe (voir la section de la passe) ; restent :
+
+- **Marché de Ploaré** (place du Père-Maunoir, mardi 9h-13h selon l'office et l'intercommunalité) — aucune source ne nomme une
+  famille de produits (« producteurs locaux », règle 197). **Déblocage** : une fiche de producteur ou une page qui dise ce
+  qu'on y vend.
+- **Un magasin bio indépendant de l'avenue de la Gare** (Tréboul) — société active, horaires publiés par l'office, cité comme
+  point de vente par deux fermes du catalogue ; ne publie pas lui-même ses producteurs et n'est pas au registre bio (règle
+  86). **Déblocage** : une liste de ses producteurs publiée par le magasin.
+- **Le magasin Biocoop de la rue Gabriel-Le-Signe** et **un magasin bio de la rue Pen-ar-Menez** (Ploaré) — actifs et certifiés ;
+  le catalogue de l'intercommunalité nomme des fermes qui les livrent, mais aucun ne publie sa propre liste (règle 273), et le
+  site du réseau refuse l'agent nommé (403). **Déblocage** : une page du magasin qui nomme ses producteurs de la région.
+- **Une AMAP qui distribue le jeudi aux Halles** — citée par le catalogue de juin 2025 seulement (règle 195). **Déblocage** : une
+  source datée de moins de douze mois.
+- **Un distributeur de lait cru de Kerlaz** (place des Résistants, 24 h sur 24) — aucune entité au registre sous son enseigne
+  (règle 6). **Déblocage** : l'entité active qui l'exploite, à l'adresse ou sous l'enseigne.
+- **Une brasserie de Douarnenez** — pas d'heures de vente publiées (règle 192). Un verger de Kerlaz vend sous un prénom (règle
+  259) : écarté.
+- **Plouzané** (13 567) — non éprouvée ; la descente du 29 y reprendra.
 
 ### Pistes non publiées à Tarbes et dans les Hautes-Pyrénées
 
