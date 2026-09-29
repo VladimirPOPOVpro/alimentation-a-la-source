@@ -25580,5 +25580,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=57%20Avenue%20Jean%20Jaur%C3%A8s%2C%2033150%20Cenon",
     "image_url": "/images/marchands/coop-paysanne-cenon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-estacade-grenoble",
+    "nom": "Marché de l'Estacade",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.185062,
+    "lon": 5.717382,
+    "adresse": "2 Rue Joseph Rey, angle avenue de Vizille, 38000 Grenoble",
+    "horaires": "Du mardi au vendredi de 7h à 13h, le samedi et le dimanche de 7h à 13h30 ; fermé le lundi (Ville de Grenoble et office de tourisme, concordants).",
+    "produits": [
+      "Produits alimentaires de commerçants",
+      "Produits de producteurs locaux",
+      "Fleurs"
+    ],
+    "description": "L'un des grands marchés quotidiens de Grenoble, installé sous l'estacade de l'avenue de Vizille : la Ville le décrit par ses produits alimentaires traditionnels et de producteurs locaux, l'office de tourisme y ajoute les fleuristes. Aucune des deux sources ne publie la liste des étals ; à 1,5 km de la mairie. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.grenoble.fr/lieu/188/137-marche-de-l-estacade.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Rue%20Joseph%20Rey%2C%2038000%20Grenoble",
+    "image_url": "/images/marchands/marche-estacade-grenoble.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-hoche-grenoble",
+    "nom": "Marché Hoche",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.18575,
+    "lon": 5.728798,
+    "adresse": "1 Place André Malraux, 38000 Grenoble",
+    "horaires": "Le samedi de 7h à 13h30, toute l'année (Ville de Grenoble et office de tourisme, concordants).",
+    "produits": [
+      "Produits alimentaires traditionnels",
+      "Produits biologiques de producteurs",
+      "Artisanat"
+    ],
+    "description": "Le marché du samedi matin du quartier Hoche, place André Malraux : la Ville le décrit par ses produits alimentaires traditionnels et bio et par un peu d'artisanat, l'office de tourisme l'appelle marché de producteurs bio et locaux. Aucune liste d'étals n'est publiée ; à 600 m de la mairie, tram A et C à l'arrêt Chavant. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.grenoble.fr/lieu/194/137-marche-hoche.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20Place%20Andr%C3%A9%20Malraux%2C%2038000%20Grenoble",
+    "image_url": "/images/marchands/marche-hoche-grenoble.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-comboire-paysan-echirolles",
+    "nom": "Le Comboire Paysan",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.151884,
+    "lon": 5.696342,
+    "adresse": "13 Rue des Montagnes de Lans, Espace Comboire, 38130 Échirolles",
+    "horaires": "Du mardi au vendredi de 9h30 à 19h, le samedi de 9h30 à 18h (site du magasin et page de Grenoble-Alpes Métropole) ; l'office de tourisme écrit 19h le samedi.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Viande de porc et charcuterie",
+      "Viande de bœuf et volaille",
+      "Pain",
+      "Fromages et produits laitiers de vache, de chèvre et de brebis",
+      "Miel",
+      "Épicerie de fermes locales"
+    ],
+    "description": "Magasin de producteurs fermiers de la zone commerciale de Comboire, tenu par sept producteurs qui y vendent eux-mêmes leur production, complétée par des fruits et de l'épicerie d'autres fermes de l'Isère qu'il nomme sur son site. À 5 km de la mairie de Grenoble. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "telephone": "04 76 48 68 67",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=13%20Rue%20des%20Montagnes%20de%20Lans%2C%2038130%20%C3%89chirolles",
+    "image_url": "/images/marchands/le-comboire-paysan-echirolles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "un-bout-de-campagne-claix",
+    "nom": "Un bout de campagne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.11218,
+    "lon": 5.68152,
+    "adresse": "16 Rue de l'Industrie, ZA Les Bauches, 38640 Claix",
+    "horaires": "Du mercredi au vendredi de 9h à 19h, le samedi de 9h à 18h sans interruption ; fermé le dimanche, le lundi et le mardi (site du magasin, office de tourisme et Grenoble-Alpes Métropole, concordants).",
+    "produits": [
+      "Légumes",
+      "Viandes",
+      "Fromages",
+      "Miel",
+      "Œufs",
+      "Pain",
+      "Épicerie"
+    ],
+    "description": "Magasin de producteurs associés du Trièves, du Vercors et du Grésivaudan, au sud de Grenoble : douze associés y vendent leurs produits transformés dans leurs propres ateliers, avec une cinquantaine d'autres producteurs en dépôt-vente, que le magasin situe sur une carte. À 9,3 km de la mairie de Grenoble. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "telephone": "04 76 40 98 48",
+    "site_web": "https://unboutdecampagne.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=16%20Rue%20de%20l%27Industrie%2C%2038640%20Claix",
+    "image_url": "/images/marchands/un-bout-de-campagne-claix.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-terres-du-heron-sassenage",
+    "nom": "Les Terres du Héron",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.226938,
+    "lon": 5.655754,
+    "adresse": "60 Chemin des Moironds, 38360 Sassenage",
+    "horaires": "Vente à la ferme de début juin à fin octobre, le vendredi de 16h à 19h (site de la ferme et office de tourisme, concordants). Hors saison, légumes en AMAP à Fontaine et à Sassenage.",
+    "produits": [
+      "Légumes de saison certifiés bio",
+      "Tomates, poivrons et aubergines en été",
+      "Potimarrons et courges",
+      "Choux et blettes",
+      "Carottes et radis",
+      "Salades"
+    ],
+    "description": "Ferme maraîchère certifiée en agriculture biologique au pied du Vercors, qui cultive une cinquantaine de variétés de légumes choisies pour leur goût et les vend en circuits ultra-locaux : à la ferme le vendredi en saison, en AMAP et dans une épicerie grenobloise. À 7,7 km de la mairie de Grenoble. Photographie publiée par la ferme sur son site.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=60%20Chemin%20des%20Moironds%2C%2038360%20Sassenage",
+    "image_url": "/images/marchands/les-terres-du-heron-sassenage.jpg"
   }
 ]

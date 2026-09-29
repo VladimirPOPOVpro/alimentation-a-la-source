@@ -4763,7 +4763,11 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-853 fiches sur 963 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+857 fiches sur 968 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de l'Estacade**, **Marché Hoche** (Grenoble), **Le Comboire Paysan** (Échirolles) et **Un bout de campagne**
+  (Claix) (passe du 29 septembre 2026, cent huitième, règles 302, 381 et 387) : photographies thématiques du domaine public
+  (règle 371) ; aux marchés, aucune liste d'étals publiée ; au Comboire Paysan, le samedi finit à 18h selon le site et la
+  Métropole, à 19h selon l'office (règle 5).
 - **Marchés de Pessac-centre**, **Marché Bourrec**, **Marché de Cap de Bos**, **Le Fils des Artisans** (Pessac) et **Coop
   Paysanne Cenon** (Cenon) (passe du 29 septembre 2026, cent septième, règles 302, 381 et 387) : photographies thématiques CC0
   ou du domaine public (règle 371) ; aux marchés, heures de l'arrêté du 6 janvier 2023 et de la page des marchés de la Ville,
@@ -12168,6 +12172,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent huitième) : Grenoble et Grenoble-Alpes-Métropole, cinq fiches reprises (règle 302)
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 963 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Isère (38) 3,1418**, premier département ouvert, en
+Auvergne-Rhône-Alpes ; la passe de Pessac visait la Nouvelle-Aquitaine, ce qui fermait la Corrèze (3,3634) (règle 41.c).
+`origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Règle 302 d'abord, la descente n'avance pas.** Grenoble-Alpes-Métropole (champ `epci` 200040715) porte les fiches désignées
+pour la reprise par trois passes : à Grenoble, les marchés de l'Estacade et Hoche (« prêts », passe de Grenoble) ; à
+Saint-Martin-d'Hères, deux magasins bio d'une même enseigne et un maraîchage de la rue des Taillées ; à Échirolles, le magasin
+de producteurs Le Comboire Paysan, et à Claix Un bout de campagne, entiers sauf l'image ; à Sassenage, Les Terres du Héron,
+désignée. La règle 381 lit les réserves d'image comme remplies par la règle 371. Relues ce jour (règle 322), les désignées de
+Saint-Martin-d'Hères ne tiennent plus : les deux magasins sont des Satoriz, sans liste de producteurs propre au magasin sur le
+site de l'enseigne (règle 273, même constat qu'à Échirolles) ; le maraîchage ne vend sur place que des fleurs en cueillette, ses
+légumes se vendent à une autre adresse et en AMAP (règle 152), sa page n'est pas datée et son `robots.txt` répond 403 (règle
+343). Grenoble devient ainsi la commune qui porte le plus de désignées (règle 387) : ses deux marchés d'abord, puis les
+catégories absentes, la plus proche d'abord — `producteur` (Échirolles, 5,0 km ; Claix, 9,3 km), `ferme` (Sassenage, 7,7 km).
+Centre : mairie de Grenoble, 11 boulevard Jean-Pain, au point de l'annuaire de l'administration (45.18663, 5.73631).
+
+**Contrôle à deux agents** (règle 257) : `grenoble.fr`, `grenoblealpesmetropole.fr`, `grenoble-tourisme.com` (qui autorise
+nommément l'agent, règle 279), `comboirepaysan.fr`, `unboutdecampagne.com` et `terresduheron.fr` répondent 200 à l'agent par
+défaut et à l'agent nommé ; aucun `robots.txt` n'y exclut l'agent. L'office interdit toujours la reproduction de ses images ; la
+Ville ne publie aucune photographie sur ses pages de marchés.
+
+1. **Marché de l'Estacade** (1,5 km) — page « lieu » de la Ville : mardi-vendredi 7h-13h, samedi et dimanche jusqu'à 13h30,
+   « produits alimentaires (traditionnels et producteurs locaux) » ; l'office concorde et ajoute les fleuristes. Point : le
+   2 rue Joseph Rey à la Base (0,97), à 120 m du marqueur de l'office. Téléphone de l'office non repris (règle 201).
+2. **Marché Hoche** (0,6 km) — même page de la Ville : samedi 7h-13h30, « produits alimentaires (traditionnels et bios) et
+   artisanat » ; l'office l'appelle marché de producteurs bio et locaux. Pas de pilier `environnement`, comme Europole (règle
+   68). Point : le 1 place André Malraux à la Base (0,97), à 70 m du marqueur de l'office.
+3. **Le Comboire Paysan** (Échirolles, 5,0 km) — société active à son adresse (47.29Z, SIREN des mentions légales du site) ;
+   magasin tenu par sept producteurs, qui nomme ses fermes partenaires sur sa page d'accueil. **Contradiction, règle 5** : le
+   samedi à 18h selon le site et la Métropole, 19h selon l'office ; les deux sont écrits. Fixe publié pour la clientèle. Pas
+   de `site_web` : la page d'accueil affiche des avis de clients signés (règle 377), et ses mentions légales soumettent les liens
+   à autorisation (règle 274). Point : le 13 rue des Montagnes de Lans à la Base (0,96), à 40 m du point du registre.
+4. **Un bout de campagne** (Claix, 9,3 km) — SAS active à son adresse ; horaires identiques sur le site, à l'office et à la
+   Métropole ; douze producteurs associés et une cinquantaine en dépôt-vente, situés par le magasin sur une carte. Page
+   d'accueil sans nom de personne : `site_web` publié. Point : le 16 rue de l'Industrie à la Base (0,96), à 5 m du registre.
+5. **Les Terres du Héron** (Sassenage, 7,7 km) — établissement actif sous cette enseigne, certificat Ecocert engagé au
+   registre de l'Agence Bio (pilier `environnement`) ; vente à la ferme le vendredi 16h-19h de juin à fin octobre, site et
+   office concordants. Ni `site_web` (la page d'accueil nomme l'exploitant dans une légende, règle 377) ni téléphone (seul un
+   portable est publié). Point : le 60 chemin des Moironds à la Base (0,96), à 20 m du registre. Le second maraîchage inscrit
+   à la même adresse au registre bio n'est pas repris (règle 7), et la photographie qui porte son nom n'est pas utilisée.
+
+**Restent en pistes dans la Métropole** : les deux magasins Satoriz de Saint-Martin-d'Hères (règle 273 ; **déblocage** : une
+page du magasin qui nomme ses producteurs de la région) ; le maraîchage de la rue des Taillées (**déblocage** : une source datée
+qui décrive une vente de légumes à la ferme, et un `robots.txt` lisible). La descente iséroise reprendra à **Vif** (8 530).
+
+**Images** : quatre photographies thématiques Openverse (règle 371), sans visage, sans texte ni enseigne, réencodées sans
+métadonnées (règle 235) : choux-fleurs et romanesco sur une nappe `https://www.flickr.com/photos/41284017@N08/8426177004`
+(marque du domaine public, Estacade) ; brocolis `https://www.flickr.com/photos/41284017@N08/8425082435` (marque du domaine
+public, Hoche) ; boîte d'œufs `https://www.flickr.com/photos/27144732@N04/51780744370` (marque du domaine public, Comboire
+Paysan) ; feuilles de chou au champ `https://www.flickr.com/photos/41284017@N08/34818010482` (marque du domaine public, Un bout de
+campagne). Aux Terres du Héron, poivrons sous serre publiés par la ferme sur son site, qui ne porte aucune clause sur ses
+images, ramenés de 2 560 à 1 280 px. Écartées : un étal coréen à étiquettes manuscrites, des courges gravées de mots qui
+pouvaient contenir un prénom, des étals avec des personnes de face, des banderoles de marque.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms des représentants légaux
+et l'adresse électronique lus dans les mentions légales du Comboire Paysan, les noms signant les avis de sa page d'accueil et
+le nom d'un de ses fournisseurs ; les prénoms et le portable du maraîchage de la rue des Taillées et le pseudonyme de son
+photographe ; le nom de l'exploitant et le portable des Terres du Héron ; les patronymes sous lesquels le registre bio inscrit
+plusieurs exploitations de la Métropole. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 968 fiches : Isère −1,76 ; la prochaine passe ne peut pas viser l'Auvergne-Rhône-Alpes ; premiers
+ouverts ensuite, sous réserve de la relecture de la règle 265 : Corrèze (19) 3,3809 (Nouvelle-Aquitaine, rouverte),
+Hauts-de-Seine (92) 3,2298, Finistère (29) 3,1044.
 
 ### Passe du 29 septembre 2026 (cent septième) : Pessac et Bordeaux Métropole, cinq fiches reprises (règle 302)
 
