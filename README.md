@@ -4714,9 +4714,26 @@ prioritaires en cas de conflit.
      pointaient vers cette liste (les deux AMAP de Bagnolet) perdent leur `site_web` dans la même passe ; rien d'autre ne change
      sur elles. **Déblocage** : une liste qui ne nomme personne.
 
+384. **Une boutique à la ferme dont l'office de tourisme publie, dans une fiche datée de l'année, les jours d'ouverture sans
+     heures se publie avec ses jours ; la règle 192 ne ferme que la fiche qui n'a ni jour ni heure.** À Val-de-Reuil et au
+     Mesnil-Jourdain, dans l'Agglomération Seine-Eure, l'office publie pour deux exploitations des périodes d'ouverture de 2026
+     jour par jour (mercredi et samedi toute l'année, plus le vendredi de mai à octobre ; du lundi au samedi, boutique fermée du
+     15 juillet au 20 août), sans une heure. La règle 192 écartait une ferme dont « aucune source ne publie de jour ni d'heure » ;
+     la règle 9 publie déjà un marché à la demi-journée ; le Domaine du Baguier était parti avec ses seuls jours. **Tranché
+     ainsi** : des jours publiés par une source datée de l'année suffisent à faire le déplacement le bon jour ; le champ
+     `horaires` les recopie, écrit qu'aucune heure n'est publiée et invite à se renseigner, et la fiche passe en `a_confirmer`.
+     Des jours sans date, ou des heures sans jour, ne suffisent pas : la règle 192 reste entière. **Déblocage** des heures :
+     une publication de l'exploitant ou de l'office qui les donne.
+
 ## Marchands à confirmer
 
-840 fiches sur 949 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+844 fiches sur 953 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Louviers**, **Biocoop Louviers**, **Les Maraîchers Bio des Hauts Prés** (Val-de-Reuil) et **Ferme fruitière du
+  Mesnil-Jourdain** (passe du 29 septembre 2026, cent cinquième, règles 248, 320 et 384) : photographies thématiques CC0 ou du
+  domaine public (règle 371) ; au marché, les heures viennent d'une page municipale non datée (l'office confirme les deux
+  matinées sans heures) ; les deux fermes n'ont que des jours d'ouverture, publiés par l'office pour 2026 (règle 384) ; le
+  point des Hauts Prés est le numéro de voie du registre de l'Agence Bio, le point du registre des entreprises tombant à
+  420 m, sur une autre voie du parc d'activités (règle 24).
 - **Marché Ottino**, **Marché Debain**, **Amapoule**, **AMAP PAZ Solidaire** et **AMAPuces** (Saint-Ouen-sur-Seine, passe du
   29 septembre 2026, cent quatrième, règles 381 et 382) : photographies thématiques CC0 ou du domaine public (règle 371) ; au
   marché Ottino, la Ville donne 8h-13h le mardi et le vendredi, l'office et le comité départemental 8h-14h ; le point du marché
@@ -12103,6 +12120,85 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent cinquième) : Louviers et l'Agglomération Seine-Eure, quatre fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 949 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Essonne (91) 3,4216**, en Île-de-France, fermée par la règle 41.c (la
+passe de Saint-Ouen visait l'Île-de-France) ; **Corrèze (19) 3,3145** premier département ouvert, en Nouvelle-Aquitaine ;
+**Eure (27) 3,2952** suivant, en Normandie. Contrôle de tête du groupe de Labenne (règle 355), puisque la passe vise la
+Nouvelle-Aquitaine : « foyer municipal Labenne » rend toujours le foyer municipal d'une commune de l'Aude (0,55), « place de la
+République Labenne » la rue de la Rose (0,47) ; trois points, non réinstruit. Règle 302 : aucune fiche désignée dans l'un ou
+l'autre département ; elle ne joue pas. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Corrèze : douze communes éprouvées, aucune zone (règles 127, 247 et 258).** Brive-la-Gaillarde rend deux fiches entières,
+que l'Agglomération du Bassin de Brive ne complète pas (détail dans « Pistes non publiées en Corrèze ») ; Tulle, Ussel,
+Malemort, Saint-Pantaléon-de-Larche, Égletons, Ussac, Allassac, Objat, Cosnac, Argentat-sur-Dordogne et Uzerche n'en rendent pas
+deux. Point d'arrêt : **Uzerche** ; la prochaine passe dans le département reprend à **Donzenac** (2 733 habitants), après avoir
+repris les deux fiches désignées de Brive.
+
+**Eure : deux communes (règle 248).** **Vernon** (25 290), commune la plus peuplée sans fiche, ne se consulte pas : la Ville
+(`vernon27.fr`) et l'office Nouvelle Normandie répondent 200 à l'agent par défaut et **403 à l'agent nommé** (règle 257) ;
+l'Agglomération Seine Normandie ne publie qu'un guide des producteurs de 2021, et le registre bio de la commune ne rend qu'un
+magasin de réseau sans liste de producteurs à lui (règle 273). **Louviers** (18 705), suivante, fait la passe : deux fiches
+entières dans la commune, deux autres dans l'Agglomération Seine-Eure à moins de quinze kilomètres de la mairie (règle 96),
+quatre points en tout (règle 320).
+
+**Contrôle à deux agents** (règle 257) : la Ville de Louviers, l'office de tourisme Seine-Eure (`tourisme-seine-eure.com`), le
+site du magasin Biocoop et celui de sa coopérative répondent 200 aux deux agents ; aucun `robots.txt` ne nomme d'agent d'IA. Le
+blog de la ferme fruitière (hébergé chez Canalblog) répond 200 à l'agent par défaut et **429 à l'agent nommé** (règle 280) : il
+n'est pas consulté et n'est pas mis en lien.
+
+1. **Marché de Louviers** (0,32 km de la mairie) — page « Foires et marchés » de la Ville (non datée, modifiée en décembre
+   2020) : marché des Saveurs le mercredi, une dizaine de commerçants, et grand marché du samedi, 8h-13h30 les deux jours, avec
+   la composition de chaque séance ; page « Marchés » de l'office Seine-Eure (juin 2022) : mercredi matin (15 exposants) et
+   samedi matin (160 exposants). Même place les deux jours : une fiche, deux régimes (règle 42). La Base ne connaît pas « place
+   de la Halle », mais la « place de la Halle aux Drapiers », nom que la Ville emploie elle-même pour la halle, à 0,87 ; dix
+   établissements du registre y sont domiciliés à moins de 50 m du point.
+2. **Biocoop Louviers** (1,6 km) — établissement actif de la coopérative Nymphéa au registre (enseigne Biocoop, rue de la
+   Mécanique, à 50 m du point), certificat bio engagé au registre de l'Agence Bio ; horaires jour par jour et adresse publiés par
+   le magasin, qui tient sa propre page de seize producteurs locaux (règle 276). Point de la Base au 45B avenue Winston
+   Churchill (0,97). La page d'accueil du magasin affiche le nom d'un apiculteur dans ses liens : pas de `site_web` (règles 376
+   et 377).
+3. **Les Maraîchers Bio des Hauts Prés** (Val-de-Reuil, 5,7 km) — association active au registre, certificat bio engagé ;
+   fiche de l'office (modifiée le 8 septembre 2026) : maraîchage bio sur le périmètre du captage d'eau potable, vente directe
+   sur place, jours d'ouverture 2026 sans heures (règle 384, nouvelle). Point : le 1 voie des Vendaises (0,95), adresse du pôle
+   d'agriculture biologique au registre de l'Agence Bio ; le point du registre des entreprises se retourne sur une autre voie du
+   parc d'activités, à 420 m (règle 24). La fiche de l'office nomme les membres de l'association : rien n'en est repris.
+4. **Ferme fruitière du Mesnil-Jourdain** (6,0 km) — fiche de l'office (modifiée le 17 septembre 2026) : arboriculture sur
+   une dizaine d'hectares, cueillette, jus, confitures et produits du rucher, ouverture 2026 du lundi au samedi sans heures
+   (règle 384). Au registre, l'EARL Les Vergers, active dans la commune, porte le nom du blog de la ferme ; son siège est au
+   hameau de Cavoville, à un kilomètre : c'est le siège, le point reste l'adresse de visite (règle 30), le 22 rue de l'Église,
+   que la Base connaît au numéro (0,94) et que l'office pointe au mètre près. La fiche de l'office nomme la famille exploitante :
+   rien n'en est repris, et aucun téléphone n'est inscrit.
+
+**Pourquoi quatre et pas cinq** : la brasserie biologique du même pôle des Hauts Prés partage le numéro de voie des maraîchers
+(règles 12 et 42) ; le marché de Val-de-Reuil n'a, sur le site de la Ville, que des arrêtés de déplacement, sans heures ni
+composition, et celui de Pont-de-l'Arche que des délibérations sur sa délégation de service public (règle 197) ; la ferme de Criquebeuf-sur-Seine et la boutique maraîchère de Martot n'ont ni jours ni heures publiés (règle 192) ;
+les autres fiches de l'office sont hors des quinze kilomètres ou hors de l'intercommunalité. **Déblocage** du cinquième point :
+une page de la Ville de Val-de-Reuil qui donne l'heure et la composition de l'un de ses marchés, ou des jours d'ouverture datés
+pour l'une des deux fermes.
+
+**Images** : la Ville de Louviers et l'office Seine-Eure créditent leurs photographies à une agence ; aucune n'est reprise.
+Quatre photographies thématiques Openverse (règle 371), sans visage, sans enseigne ni étiquette de prix, réencodées sans
+métadonnées (règle 235) : saucissons en paniers à l'étal, étiquettes de parfum seulement
+`https://www.flickr.com/photos/110273693@N04/28306250919` (CC0, marché) ; cagettes de betteraves, radis et céleris, recadrée pour
+sortir les étiquettes de prix `https://www.flickr.com/photos/41284017@N08/13065001355` (marque du domaine public, Biocoop) ;
+cagette de légumes au potager, deux mains sans visage `https://www.flickr.com/photos/66143513@N03/54870023130` (marque du domaine
+public, Hauts Prés) ; pommes tombées dans l'herbe `https://www.flickr.com/photos/194923002@N08/54033758032` (CC0, ferme
+fruitière). Écartées : des sculptures en osier prises pour des fruits, une scène de vente où des personnes sont reconnaissables.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms de membres et de famille
+exploitante que publient les fiches de l'office, le nom d'un apiculteur sur le site du magasin bio, les portables relayés par
+l'office pour deux fermes, le nom d'un exploitant d'épicerie à Turenne lu au registre. Aucun n'apparaît ici, dans un commit ni
+dans un nom de fichier.
+
+**Après la passe**, sur 953 fiches : Eure −0,67 ; premiers non épuisés ensuite, sous réserve de la relecture de la règle 265 par
+la passe suivante : **Essonne (91) 3,4992**, Gironde (33) 3,3643, Corrèze (19) 3,3285. La prochaine passe ne peut pas viser la
+Normandie ; l'Île-de-France est de nouveau ouverte. **Reprise en Corrèze** : les deux fiches désignées de Brive, puis Donzenac.
+**Reprise dans l'Eure** : Val-de-Reuil (13 245), troisième commune du département ; Vernon se rouvre avec le déblocage de la
+règle 257.
 
 ### Passe du 29 septembre 2026 (cent quatrième) : Saint-Ouen-sur-Seine, cinq fiches
 
@@ -25532,6 +25628,72 @@ permise. **Marchés de producteurs bio à la ferme** (Peaugres le mardi et le je
 **Écartés par `MODERATION.md` ou par le registre** : supermarchés et hypermarchés certifiés, grossistes, abattoir, un restaurant
 et son épicerie attenante, une fabrique de diffuseurs de parfum ; une brasserie de Talencieux qui ne reçoit que sur rendez-vous.
 Les personnes écartées sont décrites dans la section de la passe.
+
+### Pistes non publiées en Corrèze
+
+Passe du 29 septembre 2026 (cent cinquième). Premier passage dans le département : douze communes éprouvées de Brive-la-Gaillarde
+à Uzerche, aucune zone ; la prochaine passe reprend les deux fiches désignées de Brive, puis la descente à **Donzenac**.
+
+- **Brive-la-Gaillarde** (47 095) — **deux fiches entières, désignées pour la reprise (règles 258 et 302)** :
+  - **Marché de la place du Quatorze-Juillet et de sa halle** (la place de la Guierle) : mardi, jeudi et samedi selon la page
+    « Marchés » de la Ville (plans d'emplacement de juin 2026) et l'office de tourisme (« à partir de 7h30 … jusqu'à 13h
+    environ », pages de janvier 2026 et de la visite du marché) ; producteurs de la région et des départements limitrophes,
+    champignons en automne, fruits rouges en été, volailles grasses et truffes en hiver ; le marché contrôlé aux truffes (de
+    novembre à février) et les foires grasses se tiennent sous le préau de la même halle, et entrent dans la même fiche (règle
+    42). La halle porte le nom d'une personne : la fiche la désigne par sa place (règle 342). Point : « Place du Quatorze
+    Juillet » à la Base (0,96), 45,162423 / 1,534013.
+  - **Halle Gaillarde et marché de la place Thiers** : la halle, ouverte fin 2019 place du Maréchal-de-Lattre-de-Tassigny, du
+    mardi au jeudi 7h30-14h, vendredi et samedi 7h30-19h, dimanche 9h-16h (page de la Ville) ; quatorze commerçants selon la
+    Ville, dont un producteur de pommes anciennes d'Objat et une ferme biologique brivise que l'office et l'annuaire régional
+    des produits de Nouvelle-Aquitaine placent à la halle ; le marché de plein air de la même place, mardi et samedi matin,
+    fromager et primeurs selon l'office : une fiche, deux régimes (règle 42). Point : la place à la Base (0,70),
+    45,156428 / 1,533658.
+  L'Agglomération du Bassin de Brive ne complète pas : le site de la Ville de Malemort répond 403 à l'agent nommé (règle 257),
+  son marché du dimanche n'est décrit que par l'office (règle 196) et son magasin Biocoop ne publie que la liste du réseau
+  (règle 273) ; à Turenne (12,3 km), le marché de producteurs du jeudi (16h30-19h, légumes, viande, fromage, pain, pâtisseries,
+  page de la Ville du 26 mai 2026) se tient place du Belvédère, que la Base ne connaît pas et qu'aucune autorité ne pointe
+  (règle 166) ; le marché d'Allassac n'a pas de composition propre (règle 197) ; le site du verger bio d'Allassac et celui de
+  la ferme du Puy Lenty refusent l'agent nommé, et le site d'Objat aussi. **Déblocage** : deux autres points illustrables à
+  moins de quinze kilomètres de la mairie de Brive, dans l'agglomération.
+  Autres pistes brivistes : **le marché de Tujac** (vendredi matin, place Jacques-Cartier, Ville) sans composition (règle
+  197) ; **le magasin de producteurs de l'impasse de la Sarretie** (société active, une trentaine de producteurs de Corrèze, de
+  Dordogne et du Lot) dont les heures ne se lisent qu'à des annuaires commerciaux et dans un article associatif de 2018, son
+  domaine étant mort (règles 90, 104 et 192) ; **la ferme bio du Puy Lenty** (vente à la ferme « le samedi », sans heure,
+  office et annuaire régional ; son site refuse l'agent nommé) ; **l'AMAP** qui distribue le jeudi soir sous la halle du
+  Quatorze-Juillet, dont la dernière page datée est de juillet 2025 (règle 195) ; un magasin bio de réseau à l'enseigne formée
+  d'un prénom (règle 365) ; une boutique fermière de l'avenue Ribot dont le site est en maintenance et qui ne publie ni heures
+  ni producteurs (règle 361).
+- **Tulle** (13 401) — la Ville situe ses deux marchés « près de la cathédrale » et « près de la gare », avec une seule liste de
+  produits pour les deux (règles 184 et 329) ; l'office refuse l'agent nommé ; le magasin bio de la commune ne nomme aucun
+  producteur (règle 86). **Zéro.**
+- **Ussel** (9 187) — la Ville ne publie aucune page de marché. **Zéro.**
+- **Malemort** (8 239) — Ville fermée à l'agent nommé (règle 257). **Zéro.**
+- **Saint-Pantaléon-de-Larche** (5 091) — « marché tous les dimanches matins », sans lieu ni composition (règle 197). **Zéro.**
+- **Égletons** (4 341) — **une fiche entière** : le marché du dimanche 8h-13h, place Henri-Chapoulie et le long de la
+  départementale 1089 (primeurs, boucherie, poissonnerie, fromagerie, boulangerie, miel, plantes, « une majorité de
+  producteurs », page de la Ville), la foire du vendredi sur la même place (règle 188). Aucune seconde fiche dans la commune :
+  la Communauté de communes Ventadour-Égletons-Monédières n'est pas éprouvée (règle 127).
+- **Ussac**, **Cosnac**, **Uzerche** — aucune page de marché ni commerce en circuit court sur les sites des Villes. **Zéro.**
+- **Allassac** (4 081) — marchés des premier et troisième vendredis, place de la République et place Allègre, sans
+  composition propre. **Zéro.**
+- **Objat** (3 721) — la Ville refuse l'agent nommé ; le marché du dimanche n'est décrit que par l'office (règle 196). **Zéro.**
+- **Argentat-sur-Dordogne** (2 881) — marchés du jeudi (place Joseph-Faure) et du samedi (place Maïa), sans composition ni heure.
+  **Zéro.**
+
+### Pistes non publiées à Louviers et dans l'Agglomération Seine-Eure
+
+Passe du 29 septembre 2026 (cent cinquième). La commune a fait la passe à quatre points (voir la section de la passe) ; restent :
+
+- **Vernon** (25 290), commune calculée — Ville et office refusent l'agent nommé (règle 257). **Déblocage** : la même réponse
+  aux deux agents.
+- **Marché de Val-de-Reuil** (mercredi après-midi et vendredi après-midi selon l'office) — la Ville ne publie que des arrêtés
+  de déplacement, sans heure ni composition. **Déblocage** : une page municipale du marché.
+- **Brasserie biologique du pôle des Hauts Prés** — même numéro de voie que les maraîchers (règles 12 et 42) ; le registre bio
+  ne lui déclare pas de vente aux particuliers. **Déblocage** : un point de vente propre, avec ses jours.
+- **Ferme de Criquebeuf-sur-Seine** et **boutique maraîchère de Martot** — fiches d'office sans jour ni heure (règle 192).
+- **Marché de Pont-de-l'Arche** (dimanche matin, 56 exposants selon l'office, 9,9 km) — la Ville ne publie que des
+  délibérations sur la délégation de service public du marché dominical, sans heure ni composition, et l'office ne donne que
+  le nombre d'exposants (règle 197). **Déblocage** : une page du marché ou de son délégataire.
 
 ## Comment ajouter ou modifier un marchand
 

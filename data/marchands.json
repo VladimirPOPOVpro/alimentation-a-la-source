@@ -25213,5 +25213,113 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20rue%20Charles%20Garnier%2C%2093400%20Saint-Ouen-sur-Seine",
     "image_url": "/images/marchands/amapuces-saint-ouen.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-louviers",
+    "nom": "Marché de Louviers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.211335,
+    "lon": 1.169599,
+    "adresse": "Place de la Halle aux Drapiers (et rue du Général-de-Gaulle le samedi), 27400 Louviers",
+    "horaires": "Mercredi de 8h à 13h30 (« marché des Saveurs », une dizaine de commerçants) et samedi de 8h à 13h30 (grand marché), selon la page « Foires et marchés » de la Ville de Louviers ; l'office de tourisme Seine-Eure confirme les deux matinées sans donner d'heures.",
+    "produits": [
+      "Fruits et légumes du terroir",
+      "Poisson de la criée du jour",
+      "Viande d'éleveurs de la région",
+      "Fromages",
+      "Charcuterie et saucissons",
+      "Pain",
+      "Pommes"
+    ],
+    "description": "Marché en gestion directe par la Ville, sur la place de la Halle et, le samedi, dans la rue du Général-de-Gaulle : l'office de tourisme y compte environ 160 exposants le samedi, l'un des plus grands de l'Eure, et une quinzaine le mercredi. Les horaires viennent d'une page municipale non datée et restent à confirmer. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.ville-louviers.fr/ma-ville/louviers-municipalite/decouvrir-louviers/foires-et-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Halle%20aux%20Drapiers",
+    "image_url": "/images/marchands/marche-de-louviers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-louviers",
+    "nom": "Biocoop Louviers",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.228667,
+    "lon": 1.168802,
+    "adresse": "45B Avenue Winston Churchill, 27400 Louviers",
+    "horaires": "Lundi de 14h30 à 19h ; du mardi au jeudi de 10h à 13h et de 14h30 à 19h ; vendredi et samedi de 9h30 à 19h ; fermé le dimanche et les jours fériés (horaires publiés par le magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Céréales d'une coopérative bio de l'Eure",
+      "Bières bio brassées à Val-de-Reuil",
+      "Produits d'une chèvrerie de l'Eure",
+      "Pommes, poires et viande d'une ferme de l'Eure",
+      "Vrac (environ 200 références)"
+    ],
+    "description": "Magasin coopératif entièrement bio d'environ 290 m², rattaché à la coopérative de consommateurs Nymphéa (Évreux, Louviers, Saint-Marcel), à 1,6 km de la mairie. Il publie sa propre liste de seize producteurs locaux, dont plusieurs dans l'Eure. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le magasin.",
+    "telephone": "02 32 25 32 95",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45B%20Avenue%20Winston%20Churchill%2C%2027400%20Louviers",
+    "image_url": "/images/marchands/biocoop-louviers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maraichers-bio-des-hauts-pres-val-de-reuil",
+    "nom": "Les Maraîchers Bio des Hauts Prés",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.244489,
+    "lon": 1.232503,
+    "adresse": "Pôle d'agriculture biologique des Hauts Prés, 1 voie des Vendaises, parc d'activités du Vauvray, 27100 Val-de-Reuil",
+    "horaires": "Vente sur place le mercredi et le samedi toute l'année, et aussi le vendredi de mai à octobre, selon l'office de tourisme Seine-Eure (fiche 2026) ; aucune heure n'est publiée, se renseigner avant de se déplacer.",
+    "produits": [
+      "Légumes bio de saison",
+      "Tomates",
+      "Courgettes",
+      "Salades",
+      "Choux",
+      "Potimarrons",
+      "Carottes"
+    ],
+    "description": "Association de maraîchers certifiés bio installée sur le périmètre de protection du captage d'eau potable de Val-de-Reuil, à 5,7 km de la mairie de Louviers, qui vend sa production directement sur place. Le point est celui du numéro de la voie publié au registre de l'Agence Bio. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%B4le%20d%27agriculture%20biologique%20des%20Hauts%20Pr%C3%A9s%2C%201%20voie%20des%20Vendaises%2C%20parc%20d%27activit%C3%A9s%20du%20Vauvray%2C%2027100%20Val-de-Reuil",
+    "image_url": "/images/marchands/maraichers-bio-des-hauts-pres-val-de-reuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-fruitiere-du-mesnil-jourdain",
+    "nom": "Ferme fruitière du Mesnil-Jourdain",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.177171,
+    "lon": 1.107793,
+    "adresse": "22 Rue de l'Église, 27400 Le Mesnil-Jourdain",
+    "horaires": "Toute l'année du lundi au samedi, fermé le dimanche ; boutique fermée du 15 juillet au 20 août (office de tourisme Seine-Eure, fiche 2026). Aucune heure n'est publiée : se renseigner avant de se déplacer.",
+    "produits": [
+      "Pommes (une vingtaine de variétés)",
+      "Poires",
+      "Cassis",
+      "Groseilles",
+      "Jus de fruits",
+      "Confitures",
+      "Miel"
+    ],
+    "description": "Exploitation arboricole d'une dizaine d'hectares au cœur du village, à 6 km de la mairie de Louviers, avec boutique à la ferme et cueillette selon la saison. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%20Rue%20de%20l%27%C3%89glise%2C%2027400%20Le%20Mesnil-Jourdain",
+    "image_url": "/images/marchands/ferme-fruitiere-du-mesnil-jourdain.jpg",
+    "a_confirmer": true
   }
 ]
