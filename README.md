@@ -5,7 +5,7 @@
 > `noindex`, `robots.txt`) est désactivé : `PROTOTYPE = false` dans
 > `lib/prototype.ts`. Le fichier est conservé pour pouvoir revenir en arrière.
 
-Site web de découverte des marchands locaux et points de vente à la ferme dans le Var, avec l'Hôpital Bonnet comme point de départ par défaut sur la carte. Initiative du comité développement durable — Responsabilité Sociétale et Environnementale — de l'Hôpital Bonnet (CHI Fréjus Saint-Raphaël), validée le 13 septembre 2026.
+Site web de découverte des marchands locaux et points de vente à la ferme partout en France, avec l'Hôpital Bonnet comme point de départ par défaut sur la carte. La carte est partie du Var et s'étend au fil des passes de l'agent autonome, qui choisit ses secteurs au prorata de la population (voir `AGENT.md`) : le Var reste le département le mieux couvert, mais il ne représente plus qu'une fiche sur quatre. Initiative du comité développement durable — Responsabilité Sociétale et Environnementale — de l'Hôpital Bonnet (CHI Fréjus Saint-Raphaël), validée le 13 septembre 2026.
 
 Le site affiche une carte interactive (OpenStreetMap) centrée sur l'hôpital, avec une liste de marchands triée par distance et une fiche détaillée pour chacun.
 

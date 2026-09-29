@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     template: PROTOTYPE ? `%s (${SIGNATURE_COURTE})` : "%s",
   },
   description:
-    "Carte des marchands locaux, fermes en vente directe et marchés de producteurs autour de Fréjus et Saint-Raphaël." +
+    "Carte des marchands locaux, fermes en vente directe et marchés de producteurs partout en France, avec l'Hôpital Bonnet comme point de départ par défaut." +
     (PROTOTYPE
       ? ` Site prototype, présenté pour proposition au comité développement durable (RSE) de l'Hôpital Bonnet : il n'émane pas du Centre Hospitalier Intercommunal Fréjus Saint-Raphaël.`
       : ""),

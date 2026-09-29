@@ -194,10 +194,12 @@ passe**, pas davantage. Mieux vaut 5 fiches solides que 15 approximatives.
 
 ### Choisir le secteur
 
-La carte a été construite dans le Var et n'en est jamais sortie : au moment où
-cette règle est écrite, **les 243 fiches sont toutes dans le 83**. L'objectif
-n'est plus la densité locale, c'est une France progressivement couverte, en
-suivant la population. Le secteur d'une passe ne se choisit donc plus par
+La carte a été construite dans le Var. Quand cette règle a été écrite, les 243
+fiches d'alors étaient toutes dans le 83 ; la formule ci-dessous a fait son
+travail depuis — la base couvre maintenant une large majorité des départements
+métropolitains, de Perpignan à Dunkerque et de Brest à Haguenau, le Var ne
+pesant plus qu'un quart du total. L'objectif n'est pas la densité locale, c'est
+une France progressivement couverte, en suivant la population. Le secteur d'une passe ne se choisit donc plus par
 proximité, il se **calcule**.
 
 **Le critère, en trois pas.**
@@ -220,8 +222,8 @@ proximité, il se **calcule**.
    même région*. Sans cette garde l'Île-de-France, qui pèse 19 % de la
    population, prendrait quatre des dix premières passes d'affilée.
 
-Le Var sort de lui-même de ce calcul : il pèse 1,6 % de la population, sa cible
-est de moins de cinq fiches, il en a 243. Son déficit restera négatif tant que
+Le Var sort de lui-même de ce calcul : il pèse 1,6 % de la population et sa
+cible reste très inférieure à ce qu'il compte déjà. Son déficit restera négatif tant que
 la base n'aura pas dépassé les quinze mille fiches. Il n'y a donc aucune
 exception à écrire — **la formule suffit, et il ne faut pas la contourner** pour
 revenir dans le Var.

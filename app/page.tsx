@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { ArrowRight, FileDown, FlaskConical, Leaf, MapPin } from "lucide-react";
 import HeroReveal from "@/components/HeroReveal";
-import { getAllMerchants } from "@/lib/merchants";
+import { getCouverture } from "@/lib/merchants";
 import { PROTOTYPE, SIGNATURE } from "@/lib/prototype";
 
 export default function Home() {
-  const merchantCount = getAllMerchants().length;
+  const couverture = getCouverture();
 
   return (
     <div className="flex flex-1 flex-col">
@@ -44,8 +44,9 @@ export default function Home() {
           <HeroReveal delay={0.3}>
             <p className="max-w-xl text-base text-foreground/60">
               Consommer local, c&apos;est préserver sa santé, sa région et sa
-              planète. Découvrez {merchantCount} marchands, fermes et marchés
-              dans le Var, autour de Fréjus et Saint-Raphaël.
+              planète. Découvrez {couverture.total} marchands, fermes et
+              marchés dans {couverture.departements} départements, dont{" "}
+              {couverture.var} dans le Var.
             </p>
           </HeroReveal>
 
