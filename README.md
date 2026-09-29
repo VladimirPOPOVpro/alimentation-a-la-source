@@ -4665,9 +4665,29 @@ prioritaires en cas de conflit.
      ferme pour un autre motif (personne, source muette, famille de produits) restent entiers. Première application : la
      passe du 29 septembre 2026 (centième), qui publie la zone de Saint-Cyr-sur-Loire.
 
+380. **Une piste nommée une à une dont le déblocage écrit était « publiable avec cette image comme illustration » passe
+     avant les candidats de complément de la règle 223 ; l'exigence d'une photographie-document ne vaut que pour le
+     complément.** La passe parisienne du 21 septembre 2026 a nommé les marchés Saint-Charles (15e) et Saxe-Breteuil (7e),
+     jours concordants, « publiables avec cette image comme illustration, sans `produits` lus » ; celle du 24 septembre les a
+     écartés au motif qu'ils « ne complètent pas », faute de photographie-document (règle 223). Mais la règle 139 range les
+     pistes en deux temps : d'abord celles qu'une passe a nommées une à une, puis, pour compléter, les plus proches à
+     photographie-document. La condition d'image n'appartient qu'au second temps. **Tranché ainsi** : une piste nommée dont
+     la seule réserve est une image d'illustration (règle 1, série homogène de la règle 139) se publie à son rang de piste
+     nommée, `produits` réduit à ce que la Ville écrit du marché (règle 92), la description disant que la photographie ne
+     montre pas le lieu, fiche `a_confirmer`. Le complément garde toutes les conditions de la règle 223. Et un fichier seul de
+     sa date sur les fiches de marchés de la Ville (ici un gros plan de 2023 attaché au seul marché Saint-Éloi) n'appartient à
+     aucune série homogène : il reste un document au sens des règles 91 et 300, dit comme gros plan. Première application :
+     la passe du 29 septembre 2026 (cent unième), qui publie Place des Fêtes, Barbès, Saint-Charles, Saxe-Breteuil et, en
+     complément, Saint-Éloi.
+
 ## Marchands à confirmer
 
-823 fiches sur 929 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+828 fiches sur 934 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Place des Fêtes** (Paris 19e), **Marché Barbès** (Paris 18e), **Marché Saint-Charles** (Paris 15e), **Marché
+  Saxe-Breteuil** (Paris 7e) et **Marché Saint-Éloi** (Paris 12e) (passe du 29 septembre 2026, cent unième, règles 82, 139 et
+  380) : la Ville ne publie pas la composition des étals ; gros plans de la Ville pour Place des Fêtes, Barbès et Saint-Éloi
+  (règle 300), illustrations de la série d'août pour Saint-Charles et Saxe-Breteuil (règle 1) ; fermeture du samedi
+  (Saxe-Breteuil) et du dimanche (Saint-Éloi) à 13h30 sur la page générale, 14h30 ailleurs (règle 80).
 - **Marché Mailloux**, **La Ferme du Mûrier** (Saint-Cyr-sur-Loire), **Mon Marché Bio** (Chambray-lès-Tours), **Les
   Maraîchers de Cangé** (Saint-Avertin) et **Les Bio de l'Isle** (Saint-Genouph) (passe du 29 septembre 2026, centième, règles
   127, 96 et 379) : photographies thématiques du domaine public pour les quatre dernières (règle 371) ; heure du marché à la
@@ -12034,6 +12054,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent unième) : Paris, cinq marchés au titre de la règle 82
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 929 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Paris (75) 3,3441**, premier non épuisé, en Île-de-France ; la passe
+précédente visait le Centre-Val de Loire, la réserve de la règle 41.c ne joue pas. Paris n'a qu'une commune, déjà pourvue :
+c'est la **règle 82** qui fait la passe, par les pistes de la passe « Paris (12e, 13e, 15e, 11e) ». Le groupe de Labenne n'est
+pas contrôlé : la passe ne vise pas la Nouvelle-Aquitaine.
+
+**Sources** : la page « Les marchés parisiens » de `paris.fr` (mise à jour le 23 septembre 2026), les fiches « lieu » trouvées
+par `lieux.xml.gz` (plan du site servi par `cdn.paris.fr`), le jeu de données « Marchés découverts » (80 marchés) lu par
+`parisdata.opendatasoft.com`, la Base Adresse Nationale. Contrôle à deux agents : `paris.fr`, son `robots.txt` (qui n'interdit
+rien) et l'open data répondent 200 à l'agent par défaut comme à l'agent nommé. Équipements municipaux : pas de test du registre
+(règle 106). Les fiches du lieu et le jeu de données nomment les concessionnaires, sociétés au nom patronymique : ni leur nom
+ni leur numéro ne sont repris.
+
+**Choix des cinq (règles 139, 223 et 380)** : les pistes nommées d'abord, dans l'ordre de la passe précédente, puis le
+complément.
+
+1. **Marché Place des Fêtes** (19e) — mardi et vendredi 7h-13h30, dimanche 7h-14h30, concordants sur les trois
+   publications. Point du jeu de données, à 22 m du 2 rue Augustin-Thierry au contrôle inverse. Le jeu de données écrit « rue
+   Henri Rivière », la fiche du lieu « rue H. Ribière » ; la Base ne connaît que la rue Henri-Ribière (0,97), que la fiche
+   écrit. La fiche du lieu désigne le square central par un nom de personne : la fiche dit « le square de la place » (règle
+   342). Photo : gros plan de pastèques, bananes et melons de la série de juin, 1 200 × 800 (règle 300).
+2. **Marché Barbès** (18e) — mercredi 7h-13h30, samedi 7h-14h30, concordants. Point du jeu de données, à 23 m du 41
+   boulevard de la Chapelle, numéro que la Base range dans le 10e : le terre-plein borde les deux arrondissements, la Ville
+   le classe dans le 18e, la fiche aussi. Photo : gros plan de fleurs coupées de la série de juin, recadré de 50 px à gauche
+   pour écarter un vêtement flou en bord d'image (1 150 × 800) ; aucun visage.
+3. **Marché Saint-Charles** (15e) — mardi et vendredi 7h-13h30, concordants. Point à 17 m du 143 rue Saint-Charles.
+   Illustration de la série d'août (fruits rouges), recadrée sur ses 950 px de gauche pour écarter une marque de barquettes ;
+   `produits` réduit au classement de la Ville (règles 92 et 380).
+4. **Marché Saxe-Breteuil** (7e) — jeudi 7h-13h30 concordant ; samedi jusqu'à 13h30 sur la page générale, 14h30 sur la fiche
+   du lieu et le jeu de données : la fiche écrit 13h30 et cite l'autre heure (règle 80). Le terre-plein commence au n° 17
+   selon le jeu de données, au n° 19 selon la fiche du lieu : l'adresse dit seulement « jusqu'à la place de Breteuil ». Point
+   à 21 m du 44 avenue de Saxe. Illustration de la série d'août (olives).
+5. **Marché Saint-Éloi** (12e), complément (règle 223) — le seul marché de la réserve dont la photographie n'appartient pas à
+   la série d'août : un gros plan de tomates déposé en 2023, seul de sa date (règle 380). Jeudi 7h-13h30 concordant, dimanche
+   13h30 sur la page générale et 14h30 ailleurs (règle 80). Point à 27 m du 36 rue de Reuilly ; la Base rend ce numéro à 0,98.
+   Distances : 3,4 km de Place des Fêtes, 4,9 km de Barbès — le plus proche d'une fiche retenue parmi les candidats à
+   photographie-document.
+
+Le groupe tient en deux noyaux, 18e-19e (3,1 km) et 7e-15e (2,1 km), reliés par Saint-Éloi ; c'est l'ordre des pistes nommées
+qui le veut (règle 139). Les images ont été réenregistrées sans métadonnées.
+
+**Contradictions** : les heures de fermeture de Saxe-Breteuil et de Saint-Éloi (règle 80, dites dans les fiches) ; le nom de
+la rue Henri-Ribière (erreur du jeu de données, tranchée par la Base et la fiche du lieu) ; le numéro de départ du terre-plein
+de l'avenue de Saxe (non publié).
+
+**Entretien** : les fiches du lieu des marchés Grenelle, Alésia, Salpêtrière et Daumesnil, en 404 le 24 septembre, répondent de
+nouveau 200, avec des gros plans de la série d'août ; dix autres répondent 404 ce jour,
+parmi lesquels Ledru-Rollin, Madeleine, Ornano, Saint-Honoré et Villette.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms des concessionnaires,
+leurs numéros, et le nom de personne que porte le square de la place des Fêtes. Aucun n'apparaît ici, dans un commit ni dans
+un nom de fichier.
+
+**Après la passe**, sur 934 fiches : Paris tombe à −1,50 ; premiers non épuisés ensuite, sous réserve de la relecture de la
+règle 265 par la passe suivante : **Côtes-d'Armor (22) 3,2879**, Bouches-du-Rhône (13) 3,2783, Corrèze (19) 3,2621. La
+prochaine passe ne peut pas viser l'Île-de-France.
+
+**Restent à instruire à Paris, pour une passe suivante :**
+
+- **Marchés Grenelle** (15e), **Alésia** et **Salpêtrière** (13e), **Daumesnil** (12e) : fiches du lieu revenues, gros plans
+  d'août seulement. Leur déblocage écrit était « une photographie du lieu » ; ils ne sont pas nommés au sens de la règle 380 et
+  ne complètent pas (règle 223).
+- **Le reste de la réserve** (une quarantaine de marchés découverts) : gros plans de la série d'août seulement ; aucun
+  candidat de complément à photographie-document ne reste.
 
 ### Passe du 29 septembre 2026 (centième) : Saint-Cyr-sur-Loire et Tours Métropole, cinq fiches
 

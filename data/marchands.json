@@ -24730,5 +24730,118 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47.37464%2C0.575237",
     "image_url": "/images/marchands/les-bio-de-l-isle-saint-genouph.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-des-fetes",
+    "nom": "Marché Place des Fêtes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.876391,
+    "lon": 2.394488,
+    "adresse": "Place des Fêtes, trottoirs de la rue Augustin-Thierry et de la rue Henri-Ribière, 75019 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30, dimanche de 7h à 14h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026), la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fruits : pastèques, bananes, melons (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 761 mètres de linéaire, autour du square de la place des Fêtes, au pied du métro Place des Fêtes. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient du gros plan qu'elle attache à ce seul marché, qui ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-place-des-fetes-5527",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Place+des+Fêtes+Paris",
+    "image_url": "/images/marchands/marche-place-des-fetes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-barbes",
+    "nom": "Marché Barbès",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.884007,
+    "lon": 2.353311,
+    "adresse": "Terre-plein du boulevard de la Chapelle, entre la rue de Maubeuge et la rue Guy-Patin, 75018 Paris",
+    "horaires": "Mercredi de 7h à 13h30, samedi de 7h à 14h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026), la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Fleurs coupées : roses, chrysanthèmes (étal photographié par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 637 mètres de linéaire, sur le terre-plein du boulevard de la Chapelle, entre les métros Barbès-Rochechouart et Gare du Nord. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient du gros plan d'un étal de fleurs qu'elle attache à ce seul marché, qui ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-barbes-5519",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Barbès+boulevard+de+la+Chapelle+Paris",
+    "image_url": "/images/marchands/marche-barbes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-charles",
+    "nom": "Marché Saint-Charles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.843369,
+    "lon": 2.28269,
+    "adresse": "Rue Saint-Charles, trottoirs pair et impair, entre la rue de Javel et le rond-point Saint-Charles, 75015 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026), la fiche du lieu et le jeu de données ouvert de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 582 mètres de linéaire, sur les deux trottoirs de la rue Saint-Charles près du métro Javel. La Ville ne publie pas la composition des étals ; la photographie est une illustration (gros plan de fruits rouges tiré d'une série versée le même jour sur plusieurs fiches de marchés) et ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-saint-charles-5505",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Charles+rue+Saint-Charles+Paris",
+    "image_url": "/images/marchands/marche-saint-charles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saxe-breteuil",
+    "nom": "Marché Saxe-Breteuil",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.848359,
+    "lon": 2.309943,
+    "adresse": "Terre-plein de l'avenue de Saxe, jusqu'à la place de Breteuil, 75007 Paris",
+    "horaires": "Jeudi de 7h à 13h30, samedi de 7h à 13h30 d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) — la fiche du lieu et le jeu de données ouvert de la Ville le prolongent jusqu'à 14h30 le samedi. Les jours concordent sur les trois publications.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)"
+    ],
+    "description": "Marché alimentaire de plein air de 976 mètres de linéaire, sur le terre-plein de l'avenue de Saxe près du métro Ségur. La Ville ne publie pas la composition des étals ; la photographie est une illustration (gros plan d'olives tiré d'une série versée le même jour sur plusieurs fiches de marchés) et ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-saxe-breteuil-5468",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saxe-Breteuil+avenue+de+Saxe+Paris",
+    "image_url": "/images/marchands/marche-saxe-breteuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-eloi",
+    "nom": "Marché Saint-Éloi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.845892,
+    "lon": 2.387944,
+    "adresse": "36-38 rue de Reuilly, 75012 Paris",
+    "horaires": "Jeudi de 7h à 13h30, dimanche de 7h à 13h30 d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) — la fiche du lieu et le jeu de données ouvert de la Ville le prolongent jusqu'à 14h30 le dimanche. Les jours concordent sur les trois publications.",
+    "produits": [
+      "Produits alimentaires (classement du marché par la Ville)",
+      "Légumes : tomates de plusieurs variétés (gros plan attaché par la Ville à ce seul marché)"
+    ],
+    "description": "Petit marché alimentaire de 162 mètres de linéaire, au 36-38 rue de Reuilly, entre les métros Reuilly-Diderot et Montgallet. La Ville ne publie pas la composition des étals ; la seconde ligne des produits vient du gros plan de tomates qu'elle attache à ce seul marché, qui ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-saint-eloi-5487",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Éloi+36+rue+de+Reuilly+Paris",
+    "image_url": "/images/marchands/marche-saint-eloi.jpg",
+    "a_confirmer": true
   }
 ]
