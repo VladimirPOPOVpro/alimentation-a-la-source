@@ -24591,5 +24591,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.943428,1.309914",
     "image_url": "/images/marchands/brasserie-oc-ale-bressols.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-mailloux-saint-cyr-sur-loire",
+    "nom": "Marché Mailloux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.407859,
+    "lon": 0.673798,
+    "adresse": "Place du Lieutenant-Colonel Mailloux, 37540 Saint-Cyr-sur-Loire",
+    "horaires": "Mardi et vendredi de 8h30 à 12h30, d'après la page « Place au marché ! » et la fiche d'annuaire de la Ville.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Poissons",
+      "Fromages",
+      "Fleurs (le vendredi)"
+    ],
+    "description": "Marché de plein air créé il y a plus de cinquante ans au cœur de Saint-Cyr-sur-Loire, à 1 km de la mairie. Le mardi est exclusivement alimentaire ; le vendredi, près de quarante commerçants y ajoutent quelques étals de fleurs et de vêtements. La Base Adresse Nationale ne connaît que la rue du même nom : le point est celui que la Ville publie pour le marché.",
+    "site_web": "https://www.saint-cyr-sur-loire.com/Decouvrir-Saint-Cyr/Place-au-marche",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20place%20du%20Lieutenant-Colonel%20Mailloux%2037540%20Saint-Cyr-sur-Loire",
+    "image_url": "/images/marchands/marche-mailloux-saint-cyr-sur-loire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-du-murier-saint-cyr-sur-loire",
+    "nom": "La Ferme du Mûrier",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.42713,
+    "lon": 0.660945,
+    "adresse": "61 Rue du Mûrier, 37540 Saint-Cyr-sur-Loire",
+    "horaires": "Du mardi au jeudi de 9h30 à 13h et de 15h à 19h ; vendredi et samedi de 9h30 à 19h sans interruption ; fermé le dimanche et le lundi (horaires publiés par le magasin).",
+    "produits": [
+      "Boucherie et volailles",
+      "Charcuterie",
+      "Fruits et légumes de saison",
+      "Fromages",
+      "Produits laitiers et œufs",
+      "Épicerie",
+      "Vins et jus locaux",
+      "Plats traiteur"
+    ],
+    "description": "Magasin de producteurs ouvert fin 2021 dans la zone d'activités Equatop, au nord de Saint-Cyr-sur-Loire, par quatorze fermes associées de Touraine qui y vendent leurs produits et ceux de producteurs voisins. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "telephone": "02 42 06 09 30",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20du%20M%C3%BBrier%2061%20rue%20du%20M%C3%BBrier%2037540%20Saint-Cyr-sur-Loire",
+    "image_url": "/images/marchands/la-ferme-du-murier-saint-cyr-sur-loire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "mon-marche-bio-chambray-les-tours",
+    "nom": "Mon Marché Bio — ferme de la Brissonnière",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.330953,
+    "lon": 0.721897,
+    "adresse": "7 Chemin de la Brissonnière, 37170 Chambray-lès-Tours",
+    "horaires": "Marché à la ferme le vendredi après-midi, de 16h à 19h selon l'annuaire Touraine Bio (un autre annuaire annonce 15h à 20h) ; la ferme vend aussi aux Halles de Tours le samedi matin.",
+    "produits": [
+      "Légumes bio de la ferme",
+      "Céréales bio",
+      "Pommes",
+      "Œufs",
+      "Fromages de chèvre",
+      "Pain",
+      "Miel et confitures",
+      "Vins de Touraine"
+    ],
+    "description": "Ferme céréalière et maraîchère conduite en agriculture biologique depuis 1985, à 8,8 km de la mairie de Saint-Cyr-sur-Loire ; son marché à la ferme réunit ses légumes et les produits d'autres fermes bio de Touraine. Heure exacte à vérifier avant de se déplacer. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "telephone": "02 47 27 12 56",
+    "site_web": "https://monmarche-bio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mon%20March%C3%A9%20Bio%207%20chemin%20de%20la%20Brissonni%C3%A8re%2037170%20Chambray-l%C3%A8s-Tours",
+    "image_url": "/images/marchands/mon-marche-bio-chambray-les-tours.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-maraichers-de-cange-saint-avertin",
+    "nom": "Les Maraîchers de Cangé",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.3700345,
+    "lon": 0.7563435,
+    "adresse": "144 Rue de Larçay, 37550 Saint-Avertin",
+    "horaires": "Vente à la ferme le samedi de 10h30 à 12h, d'après le site de la ferme (septembre 2026), avec précommande possible en ligne jusqu'au jeudi. Des annonces plus anciennes de la presse locale indiquaient une vente le mercredi et le vendredi en fin de journée.",
+    "produits": [
+      "Légumes bio de saison",
+      "Petits fruits",
+      "Tomates anciennes",
+      "Courges",
+      "Pommes de terre",
+      "Herbes aromatiques",
+      "Paniers AMAP"
+    ],
+    "description": "Ferme maraîchère biologique installée en 2023 sur deux hectares de terres publiques à Saint-Avertin, à 7,6 km de la mairie de Saint-Cyr-sur-Loire, avec le soutien du projet alimentaire territorial de Tours Métropole. Le point est celui que la ferme publie elle-même, la Base Adresse Nationale ne connaissant que la rue. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "site_web": "https://www.lesmaraichersdecange.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47.3700345%2C0.7563435",
+    "image_url": "/images/marchands/les-maraichers-de-cange-saint-avertin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-bio-de-l-isle-saint-genouph",
+    "nom": "Les Bio de l'Isle",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.37464,
+    "lon": 0.575237,
+    "adresse": "2A Rue du Bec de l'Isle, 37510 Saint-Genouph",
+    "horaires": "Vente au détail à la ferme le mardi de 16h30 à 18h30, d'après le site de la ferme ; une partie de ce site n'est plus tenue à jour, horaire à vérifier avant de se déplacer.",
+    "produits": [
+      "Légumes biologiques de saison",
+      "Paniers de légumes",
+      "Pain de partenaires",
+      "Œufs",
+      "Cresson",
+      "Fruits de producteurs voisins"
+    ],
+    "description": "Jardins maraîchers biologiques en bord de Cher à Saint-Genouph, à 7,4 km de la mairie de Saint-Cyr-sur-Loire ; la vente du mardi à la ferme réunit leurs légumes et ceux de producteurs partenaires, et la ferme livre aussi deux AMAP de l'agglomération. Le point est celui de l'annuaire Touraine Bio, à 18 m du début de la rue. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47.37464%2C0.575237",
+    "image_url": "/images/marchands/les-bio-de-l-isle-saint-genouph.jpg",
+    "a_confirmer": true
   }
 ]

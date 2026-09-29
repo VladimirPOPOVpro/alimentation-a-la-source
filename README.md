@@ -4649,10 +4649,30 @@ prioritaires en cas de conflit.
      `tours.fr` — ne se relisent pas (règle 322) : la reprise ne se forme pas, le marché Mailloux reste seul et désigné.
      **Déblocage** : la même réponse de `tours.fr` à tous les agents ; la première passe qui vise l'Indre-et-Loire la contrôle
      d'abord, en deux requêtes, puis examine la règle 302 autour de Tours.
+379. **Un déblocage écrit en pistes après la règle 371 se lit à travers elle : une fiche qui n'attendait qu'une image
+     « de la commune » est débloquée par une photographie thématique du domaine public, et sa commune se ré-éprouve pour la
+     règle 127 dans la même passe.** La passe du 28 septembre 2026 (quatre-vingt-dix-neuvième) a laissé en pistes, à
+     Saint-Cyr-sur-Loire, un magasin de producteurs aux faits entiers — société active sous son enseigne, horaires sur son
+     site, fixe publié pour la clientèle — avec pour seul déblocage « une photographie du lieu ou thématique de la commune »,
+     la formule de la règle 231. Or la règle 371, antérieure à cette passe, dit précisément que la règle 231 « ne ferme plus
+     la fiche » et qu'une photographie thématique CC0 ou du domaine public prise sur Flickr par Openverse suffit quand ni le
+     lieu, ni l'office, ni la commune n'offrent d'image reprenable. La commune avait donc deux fiches entières (avec le marché
+     Mailloux) et remplissait la règle 127 ; elle a été comptée « zéro zone » par une lecture qui ignorait la règle 371.
+     **Tranché ainsi** : c'est une erreur d'application, pas un doute ; le déblocage nommé est rempli par la règle 371, la
+     commune est rouverte au titre de la règle 247 (« avec un déblocage nommé dans les pistes »), et comme elle précède le
+     point d'arrêt de la descente, elle est éprouvée à son rang (règle 375) avant Saint-Avertin. Les autres déblocages de
+     pistes rédigés sur la formule de la règle 231 depuis le 28 septembre se lisent de la même façon ; ceux qu'une clause
+     ferme pour un autre motif (personne, source muette, famille de produits) restent entiers. Première application : la
+     passe du 29 septembre 2026 (centième), qui publie la zone de Saint-Cyr-sur-Loire.
 
 ## Marchands à confirmer
 
-818 fiches sur 924 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+823 fiches sur 929 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Mailloux**, **La Ferme du Mûrier** (Saint-Cyr-sur-Loire), **Mon Marché Bio** (Chambray-lès-Tours), **Les
+  Maraîchers de Cangé** (Saint-Avertin) et **Les Bio de l'Isle** (Saint-Genouph) (passe du 29 septembre 2026, centième, règles
+  127, 96 et 379) : photographies thématiques du domaine public pour les quatre dernières (règle 371) ; heure du marché à la
+  ferme de Chambray discordante entre annuaires ; jours de vente de Cangé changés depuis d'anciennes annonces ; site des Bio de l'Isle en
+  partie ancien ; marché Mailloux publié sur la seule source communale (règle 178).
 - **Marché du samedi des allées de l'Empereur**, **Marché du mercredi de la place Lalaque**, **Marché de producteurs du jeudi
   à la Mémo** (Montauban) et **Brasserie Oc'Ale** (Bressols) (passe du 28 septembre 2026, quatre-vingt-quinzième, règles 127
   et 320) : photographies thématiques du domaine public pour les quatre (règle 371) ; heures des deux grands marchés tenues de
@@ -12014,6 +12034,68 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (centième) : Saint-Cyr-sur-Loire et Tours Métropole, cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 924 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : inchangé depuis la passe précédente — Somme et Jura épuisés,
+**Indre-et-Loire (37) 3,2997** département de tête (règle 378), **Corrèze (19) 3,2272** second. La dernière passe publiée visait
+l'Occitanie : le Centre-Val de Loire est ouvert (règle 41.c).
+
+**Contrôles de tête.** Groupe de Labenne (règle 355) : « foyer municipal Labenne » rend toujours le foyer municipal d'une
+commune de l'Aude (0,55), « place de la République Labenne » une autre rue (0,47) ; trois points, non réinstruit.
+`tours.fr` (règle 378) : 200 à l'agent par défaut, **502 à `ClaudeBot` et à `GPTBot`** ; la reprise autour de Tours ne se
+forme toujours pas.
+
+**Saint-Cyr-sur-Loire rouverte (règle 379).** Le magasin de producteurs de la rue du Mûrier n'attendait qu'une image ; la
+règle 371 la fournit. La commune rend donc deux fiches entières (règle 127), et Tours Métropole Val de Loire (champ `epci`
+243700754, règle 219) complète le groupe dans les quinze kilomètres de la mairie (Parc de la Perraudière, point de l'annuaire
+de l'administration, règle 363). Contrôle à deux agents : la Ville de Saint-Cyr-sur-Loire répond 200 à l'agent par défaut
+comme à l'agent nommé ce jour ; les quatre sites de commerces aussi ; Touraine Bio (annuaire du groupement des agriculteurs
+biologiques du département) répond 200 aux deux et son `robots.txt` autorise tout.
+
+1. **Marché Mailloux** (Saint-Cyr-sur-Loire, 1,05 km) — relu entier : page « Place au marché ! » et fiche d'annuaire de la
+   Ville (règle 178), mardi et vendredi 8h30-12h30, le mardi exclusivement alimentaire ; point de la fiche d'annuaire
+   47.407859 / 0.673798 ; photographie de la Ville (873 × 655, plan large, aucun visage reconnaissable).
+2. **La Ferme du Mûrier** (Saint-Cyr-sur-Loire, 3,03 km) — société active qui porte l'enseigne, un établissement ouvert à
+   l'adresse ; présente à l'annuaire des commerces de la Ville et à la page d'annonce de la direction régionale de
+   l'agriculture ; horaires et fixe publiés par le magasin ; point au numéro (0,96). **Sans lien** : la page d'accueil nomme
+   des personnes (règle 377). Image thématique du domaine public (règle 371) :
+   `https://www.flickr.com/photos/87805257@N00/35269242684` (CC0).
+3. **Mon Marché Bio — ferme de la Brissonnière** (Chambray-lès-Tours, 8,76 km) — société active au 7 chemin de la
+   Brissonnière ; son site (qui ne nomme personne) dit le marché à la ferme du vendredi après-midi, Touraine Bio en donne
+   l'heure et le fixe ; point au numéro (0,96), à 35 m du point de Touraine Bio. Le site n'offre que son logo. Image :
+   `https://www.flickr.com/photos/134476822@N04/40927303013` (marque du domaine public).
+4. **Les Maraîchers de Cangé** (Saint-Avertin, 7,58 km) — exploitation active ; site de la ferme mis à jour en septembre 2026
+   (vente à la ferme le samedi 10h30-12h, boutique de précommande pour le samedi 3 octobre) ; article de la presse locale
+   (février 2025) sur son installation. La Base Adresse Nationale ne connaît que la rue de Larçay (0,79) : le point est celui
+   que la ferme publie sur son propre site, contrôlé à 130 m du 146 de la même rue (règle 146). Les images du site sont des
+   filets décoratifs et une fleur. Image : `https://www.flickr.com/photos/11234074@N05/8697385433` (CC0).
+5. **Les Bio de l'Isle** (Saint-Genouph, 7,40 km) — exploitation active ; Touraine Bio et le registre de l'Agence Bio la
+   recensent ; vente du mardi 16h30-18h30 lue sur son site, dont une partie n'est plus tenue à jour (fiche `a_confirmer`).
+   **Sans lien** (la page d'accueil nomme des personnes, règle 377) et **sans téléphone** (le seul numéro publié est un
+   portable). Les albums du site ne gèrent pas le droit à l'image (conditions d'utilisation) : image thématique
+   `https://www.flickr.com/photos/37996646802@N01/262448020` (CC0). Point de Touraine Bio, à 18 m du 1 rue du Bec de l'Isle.
+
+Les quatre images thématiques ont été choisies sans visage, sans silhouette reconnaissable et sans enseigne ; une première
+série (rayons d'un supermarché américain, étiquettes en dollars) et une vue de village portant une enseigne peinte ont été
+écartées. Les métadonnées EXIF ont été retirées des fichiers (l'une portait le pseudonyme de son auteur).
+
+**Contradictions**, publiées avec leurs deux versions (règle 5) : l'heure du marché à la ferme de Chambray-lès-Tours
+(16h-19h à Touraine Bio, 15h-20h dans un autre annuaire ; la fiche écrit la première et cite la seconde) ; les jours de vente
+des Maraîchers de Cangé (samedi matin sur le site en septembre 2026, mercredi et vendredi en fin de journée dans des annonces plus anciennes ; le
+site, plus récent, l'emporte et la fiche mentionne l'ancien créneau).
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle. Au registre de l'Agence Bio, les opérateurs de Tours
+Métropole inscrits sous le nom de leurs exploitants n'ont pas été instruits. Les noms que citent les pages consultées
+(exploitants, administrateur de site, auteurs de photographies, élus) ne sont repris nulle part.
+
+**Laissé de côté** : la descente de l'Indre-et-Loire n'avance pas (point d'arrêt toujours **Saint-Avertin**, dont seule la
+ferme ci-dessus a été instruite, en complément) ; les marchés de Tours désignés restent bloqués par `tours.fr`.
+
+**Après la passe**, sur 929 fiches : Indre-et-Loire −1,68 ; premier non épuisé **Paris (75) 3,3441** (Île-de-France), puis
+Corrèze 3,2446 et Côtes-d'Armor 3,2435. La prochaine passe ne peut pas viser le Centre-Val de Loire.
 
 ### Passe du 28 septembre 2026 (quatre-vingt-dix-neuvième) : fin de la descente du Jura et Indre-et-Loire, aucune publication
 
