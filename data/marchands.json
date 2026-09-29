@@ -24843,5 +24843,129 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Saint-Éloi+36+rue+de+Reuilly+Paris",
     "image_url": "/images/marchands/marche-saint-eloi.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-jeudi-lannion",
+    "nom": "Grand marché du jeudi de Lannion",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.732143,
+    "lon": -3.458615,
+    "adresse": "Place du Général Leclerc, 22300 Lannion",
+    "horaires": "Jeudi matin : la partie alimentaire s'installe dès 8h et quitte le marché vers midi, d'après la page « Vie commerciale » de la Ville ; les commerces non alimentaires restent jusqu'en début d'après-midi. Le site départemental de tourisme annonce 8h30-17h pour l'ensemble du marché. Un jeudi férié, le marché se tient la veille, sauf de mai à septembre (règlement municipal de 2022).",
+    "produits": [
+      "Produits frais de producteurs locaux (partie alimentaire, d'après la Ville et le site départemental de tourisme)"
+    ],
+    "description": "Le grand marché hebdomadaire de Lannion, plus de 200 commerçants selon la Ville : la partie alimentaire occupe la place du Général Leclerc, devant la mairie, et les rues Jean-Savidan, des Chapeliers et Saint-Malo, le reste descend vers les quais. La photographie est une illustration thématique versée au domaine public et ne montre pas le lieu.",
+    "site_web": "https://www.lannion.bzh/vie-commerciale/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral%20Leclerc%2022300%20Lannion",
+    "image_url": "/images/marchands/marche-du-jeudi-lannion.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-dimanche-lannion",
+    "nom": "Marché du dimanche de Lannion",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.729255,
+    "lon": -3.459798,
+    "adresse": "Parking de Caërphilly, 22300 Lannion",
+    "horaires": "Dimanche de 7h à 14h, d'après le règlement municipal du marché et l'appel à candidatures de la Ville (février 2026). Le site départemental de tourisme annonce 8h-13h.",
+    "produits": [
+      "Légumes de maraîchage",
+      "Volailles",
+      "Crêpes",
+      "Spiritueux"
+    ],
+    "description": "Marché exclusivement alimentaire de dix-huit emplacements, sur le parking de Caërphilly, au bord du ruisseau du Min Ran et près de la gare ; la Ville y compte une vingtaine de producteurs et commerçants de produits frais. Les produits sont ceux que cite le site départemental de tourisme. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.lannion.bzh/vie-commerciale/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parking%20de%20Ca%C3%ABrphilly%2022300%20Lannion",
+    "image_url": "/images/marchands/marche-du-dimanche-lannion.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-kerampont-lannion",
+    "nom": "Brasserie Kerampont",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.72819,
+    "lon": -3.465464,
+    "adresse": "2 Hent Koz Montroulez, 22300 Lannion",
+    "horaires": "Vente directe le vendredi de 17h à 19h ; ouverte aussi en bar, avec vente directe, le mardi de 18h à 22h et le jeudi de 19h à 22h, d'après le site de la brasserie (le site départemental de tourisme donne 18h le jeudi).",
+    "produits": [
+      "Bière blonde",
+      "Bière rousse au sarrasin",
+      "IPA",
+      "Bière blanche au seigle",
+      "Bière brune au sarrasin",
+      "Eau-de-vie de bière au houblon"
+    ],
+    "description": "Brasserie artisanale biologique installée au cœur de Lannion depuis 2015, à 700 m de la mairie ; orges et houblons sont bretons, le houblon venant d'une houblonnière à moins de 30 km, et les bières sont consignées. Certifiée bio (registre de l'Agence Bio). Le vendredi soir, elle sert aussi de dépôt à un groupement de paysans du Trégor qui distribue des paniers en circuit court. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas la brasserie.",
+    "site_web": "https://kerampont.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Hent%20Koz%20Montroulez%2022300%20Lannion",
+    "image_url": "/images/marchands/brasserie-kerampont-lannion.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-pleumeur-bodou",
+    "nom": "Marché du samedi de Pleumeur-Bodou",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.772425,
+    "lon": -3.517593,
+    "adresse": "Centre commercial Les Chardons, rue des Chardons, 22560 Pleumeur-Bodou",
+    "horaires": "Samedi matin, de 7h30 à 13h d'après le site départemental de tourisme (horaires 2026) ; la Ville annonce le marché le samedi matin sans heure.",
+    "produits": [
+      "Poissons",
+      "Fruits et légumes",
+      "Galettes et crêpes",
+      "Fromages"
+    ],
+    "description": "Marché du bourg de Pleumeur-Bodou, autour du centre commercial Les Chardons réaménagé en 2020, à 6,3 km de la mairie de Lannion ; la circulation y est modifiée le samedi matin au profit des piétons. Poissons, fruits et légumes, galettes et crêpes d'après la Ville, fromage d'après le site départemental. La photographie est une illustration thématique versée au domaine public et ne montre pas le lieu.",
+    "site_web": "https://www.pleumeurbodou.com/Les-marches-locaux",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20commercial%20Les%20Chardons%20Pleumeur-Bodou",
+    "image_url": "/images/marchands/marche-pleumeur-bodou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-tregastel",
+    "nom": "Marché du lundi de Trégastel",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.826743,
+    "lon": -3.511154,
+    "adresse": "Place Sainte-Anne, 22730 Trégastel",
+    "horaires": "Lundi matin, de 7h30 à 13h d'après le site départemental de tourisme (horaires 2026) ; la page des marchés de Perros-Guirec donne 8h-13h, et la Ville de Trégastel annonce le marché le lundi matin sans heure.",
+    "produits": [
+      "Poissons et crustacés",
+      "Charcuterie",
+      "Fromages",
+      "Miel"
+    ],
+    "description": "Marché hebdomadaire du parking Sainte-Anne, à 11,2 km de la mairie de Lannion : une cinquantaine de commerçants l'hiver, plus de cent l'été selon la Ville, qui le rend piéton en juillet et août. Des étals d'artisanat et de vêtements marins s'ajoutent aux produits alimentaires. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.tregastel.fr/Marche-5",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Sainte-Anne%2022730%20Tr%C3%A9gastel",
+    "image_url": "/images/marchands/marche-tregastel.jpg",
+    "a_confirmer": true
   }
 ]

@@ -4682,7 +4682,13 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-828 fiches sur 934 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+833 fiches sur 939 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Grand marché du jeudi** et **Marché du dimanche** (Lannion), **Brasserie Kerampont** (Lannion), **Marché du samedi de
+  Pleumeur-Bodou** et **Marché du lundi de Trégastel** (passe du 29 septembre 2026, cent deuxième, règles 41, 127 et 96) :
+  photographies thématiques libres de droits pour les cinq (règle 371) ; heures des marchés discordantes entre la Ville et le
+  site départemental de tourisme (règle 176, les deux versions écrites) ; heures de Pleumeur-Bodou et de Trégastel tenues du
+  seul site départemental, les Villes ne donnant que « le matin » (règle 204) ; composition du marché du jeudi réduite à ce
+  qu'écrivent les sources (règle 92).
 - **Marché Place des Fêtes** (Paris 19e), **Marché Barbès** (Paris 18e), **Marché Saint-Charles** (Paris 15e), **Marché
   Saxe-Breteuil** (Paris 7e) et **Marché Saint-Éloi** (Paris 12e) (passe du 29 septembre 2026, cent unième, règles 82, 139 et
   380) : la Ville ne publie pas la composition des étals ; gros plans de la Ville pour Place des Fêtes, Barbès et Saint-Éloi
@@ -12054,6 +12060,68 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent deuxième) : Lannion et Lannion-Trégor Communauté, cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 934 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Côtes-d'Armor (22) 3,2879** premier non épuisé, en Bretagne ; la
+passe précédente visait l'Île-de-France, la réserve de la règle 41.c ne joue pas. Saint-Brieuc porte déjà cinq fiches : la
+descente commence à **Lannion** (20 315 habitants), deuxième commune du département, jamais éprouvée. Le groupe de Labenne n'est
+pas contrôlé : la passe ne vise pas la Nouvelle-Aquitaine. Aucune reprise de la règle 302 ne se forme dans le département (une
+seule fiche désignée, à Saint-Brieuc).
+
+**Contrôle à deux agents** (règle 257) : la Ville de Lannion, Lannion-Trégor Communauté, les Villes de Pleumeur-Bodou, de
+Trégastel et de Perros-Guirec, le site départemental de tourisme `cotesdarmor.com` et le site de la brasserie répondent 200 à
+l'agent par défaut comme à l'agent nommé ; aucun `robots.txt` ne nomme d'agent d'IA. **L'office de tourisme de la Côte de
+Granit Rose** répond 200 à l'agent par défaut et **403 à l'agent nommé** : il n'est pas consulté. `biocoop.fr` répond 403 à
+l'agent nommé dès son `robots.txt`.
+
+**Lannion rend trois fiches entières (règle 127)**, l'intercommunalité (champ `epci` 200065928, règle 219) complète dans les
+quinze kilomètres de la mairie (1 place du Général-Leclerc, point de l'annuaire de l'administration, règle 363).
+
+1. **Grand marché du jeudi** (Lannion, 0,05 km) — page « Vie commerciale » de la Ville et règlement municipal du 5 mai 2022
+   (deux endroits du site communal, règle 178), fiche du site départemental. La Ville : partie alimentaire dès 8h, départ
+   vers midi ; le département : 8h30-17h pour l'ensemble. La fiche écrit la Ville et cite le département (règle 176). Point
+   de la Base sur la place du Général-Leclerc (0,96). Composition : « produits frais » des producteurs locaux, rien de plus
+   (règle 92).
+2. **Marché du dimanche** (Lannion, 0,32 km) — règlement municipal (7h-14h, dix-huit emplacements, denrées alimentaires
+   seulement) et appel à candidatures de février 2026 (7h-14h) ; le département donne 8h-13h et la composition (maraîchage,
+   volailles, crêpes, spiritueux). La Base connaît le lieu-dit « Parking Caerphilly » (0,77).
+3. **Brasserie Kerampont** (Lannion, 0,68 km) — société active qui porte l'enseigne, un établissement ouvert à l'adresse ;
+   certificat bio engagé au registre de l'Agence Bio ; horaires et gamme lus sur son site, dont la page d'accueil ne nomme
+   personne (règle 377) ; point au numéro (0,80). **Sans téléphone** : le seul numéro publié est un portable, présenté sur la
+   page contact comme la ligne de personnes nommées (règle 229).
+4. **Marché du samedi de Pleumeur-Bodou** (6,27 km) — page « Les marchés locaux » de la Ville (samedi matin, produits) et
+   fiche départementale datée 2026 (7h30-13h, règle 204). La Base ne connaît que la rue des Chardons (0,73) ; le registre
+   domicile au « centre commercial Les Chardons » plusieurs établissements actifs dont les points tombent à moins de 25 m de
+   ce point (règle 186).
+5. **Marché du lundi de Trégastel** (11,24 km) — page « Marché hebdomadaire » de la Ville (lundi matin, parking
+   Sainte-Anne, composition) et fiche départementale datée 2026 (7h30-13h) ; la page des marchés de Perros-Guirec donne
+   8h-13h (règle 215, les deux écrites). Point de la Base sur la place Sainte-Anne (0,96).
+
+**Images** : la Ville de Lannion range les images parmi ce que sa clause de propriété intellectuelle interdit de reproduire
+(règle 231) ; le site départemental place ses mentions légales sous un `Disallow` (règle 270) ; Pleumeur-Bodou et Trégastel ne
+publient que des vignettes de moins de 700 px (règle 59) ; les images du site de la brasserie sont des étiquettes de marque.
+Cinq photographies thématiques Openverse (règle 371), sans visage, sans enseigne ni étiquette de prix, réenregistrées sans
+métadonnées : fraises en barquettes `https://www.flickr.com/photos/41284017@N08/7414202672` (marque du domaine public, jeudi),
+radis `https://www.flickr.com/photos/47121680@N00/30488576838` (CC0, dimanche), houblon
+`https://www.flickr.com/photos/62518311@N00/14621230486` (CC0, brasserie), courgettes
+`https://www.flickr.com/photos/41284017@N08/10463108304` (marque du domaine public, Pleumeur-Bodou), poissons sur glace
+`https://www.flickr.com/photos/88123769@N02/9618414457` (CC0, Trégastel). Écartées : un étal où une cliente est reconnaissable,
+un rayon de supermarché et un étal de maïs portant des prix en dollars.
+
+**Contradictions**, publiées avec leurs versions (règles 176 et 215) : heures du jeudi (Ville contre département), du
+dimanche (7h-14h contre 8h-13h), du lundi à Trégastel (7h30 contre 8h), de l'ouverture du jeudi soir à la brasserie (19h sur
+son site, 18h au département).
+
+**Fiches écartées pour doute sur une personne** : une, à Lannion (voir les pistes). **Données personnelles écartées** : les
+prénoms et le portable de la page contact de la brasserie, le nom du photographe crédité sur les images de Perros-Guirec, les
+noms d'exploitants du registre de l'Agence Bio. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 939 fiches : Côtes-d'Armor −1,67 ; premiers non épuisés ensuite, sous réserve de la relecture de la
+règle 265 par la passe suivante : **Bouches-du-Rhône (13) 3,4297**, Corrèze (19) 3,2796, Seine-Saint-Denis (93) 3,2093. La
+prochaine passe ne peut pas viser la Bretagne.
 
 ### Passe du 29 septembre 2026 (cent unième) : Paris, cinq marchés au titre de la règle 82
 
@@ -25078,6 +25146,24 @@ rend sept points vérifiables, deux de plus que le plafond de cinq.
 - **Une contradiction consignée, non remontée** : le siège social de l'AMAP est une adresse
   particulière du registre des entreprises, distincte du lieu de distribution. Seul le lieu de
   distribution est publié ; l'adresse de siège n'est écrite nulle part.
+
+### Pistes non publiées à Lannion
+
+Passe du 29 septembre 2026 (cent deuxième). La commune a fait la passe (voir la section de la passe) ; restent :
+
+- **Les Halles de Lannion** (place du Miroir) — la Ville les décrit (fruits et légumes, poissons, viandes, fromages, crêpes)
+  « du mardi au samedi matin », sans heure ; l'heure n'est publiée que par l'office de la Côte de Granit Rose, qui refuse
+  l'agent nommé (règle 257), et par des annuaires sans voix de l'intéressé. Fiche à qui il ne manque que l'heure (règle 192).
+  **Déblocage** : une heure publiée par la Ville, le département ou l'exploitant des halles.
+- **Magasin Biocoop du rond-point Saint-Marc** — société active, certificat engagé ; `biocoop.fr` refuse l'agent nommé et les
+  horaires ne se lisent que dans des annuaires tiers, qui donnent en outre deux adresses différentes (rond-point Saint-Marc et
+  rue Jean-Paul-Sartre). **Déblocage** : une page du magasin hors du site du réseau.
+- **Épicerie bio de la rue Crec'h an Devet** — inscrite au registre de l'Agence Bio sous le nom de la personne qui
+  l'exploite. Doute sur une personne : rien n'est publié, et la piste ne se rouvre pas.
+- **Marché du vendredi de Perros-Guirec** (place du Marché, 7h-14h, 9,4 km) — la Ville donne jour, heures et lieu, mais aucune
+  source ne dit ce qu'on y achète (règle 197). **Déblocage** : une composition publiée.
+- **Marché du mardi de Trébeurden** (place des Îles, 9,7 km) — seulement la fiche départementale ; le site de la Ville ne
+  publie qu'un formulaire d'inscription des commerçants (règle 196). **Déblocage** : une page de la Ville.
 
 ### Pistes non publiées à Saint-Brieuc
 
