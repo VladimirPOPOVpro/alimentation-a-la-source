@@ -25711,5 +25711,133 @@
     "description": "Ferme maraîchère certifiée en agriculture biologique au pied du Vercors, qui cultive une cinquantaine de variétés de légumes choisies pour leur goût et les vend en circuits ultra-locaux : à la ferme le vendredi en saison, en AMAP et dans une épicerie grenobloise. À 7,7 km de la mairie de Grenoble. Photographie publiée par la ferme sur son site.",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=60%20Chemin%20des%20Moironds%2C%2038360%20Sassenage",
     "image_url": "/images/marchands/les-terres-du-heron-sassenage.jpg"
+  },
+  {
+    "slug": "marche-place-du-quatorze-juillet-brive",
+    "nom": "Marché de la place du Quatorze-Juillet et de sa halle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.162423,
+    "lon": 1.534013,
+    "adresse": "Place du Quatorze Juillet (place de la Guierle), 19100 Brive-la-Gaillarde",
+    "horaires": "Mardi, jeudi et samedi matin, de 7h30 à 13h environ (Ville de Brive et office de tourisme, calendrier 2026). Marché contrôlé aux truffes sous le préau de la halle de novembre à février ; foires grasses en hiver.",
+    "produits": [
+      "Fruits et légumes de producteurs de la région",
+      "Champignons en automne",
+      "Fruits rouges en été",
+      "Volailles grasses et foie gras en hiver",
+      "Truffes fraîches (marché contrôlé, de novembre à février)",
+      "Noix et châtaignes"
+    ],
+    "description": "Le grand marché de Brive, sur la place de la Guierle et sous sa halle, où viennent des producteurs de la région et des départements limitrophes ; la Ville y tient aussi le marché contrôlé aux truffes et les foires grasses d'hiver. À 0,3 km de la mairie de Brive. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "telephone": "05 55 74 96 21",
+    "image_url": "/images/marchands/marche-place-du-quatorze-juillet-brive.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Quatorze%20Juillet%20%28place%20de%20la%20Guierle%29%2C%2019100%20Brive-la-Gaillarde"
+  },
+  {
+    "slug": "halle-gaillarde-place-thiers-brive",
+    "nom": "Halle Gaillarde et marché de la place Thiers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.156428,
+    "lon": 1.533658,
+    "adresse": "Place du Maréchal de Lattre de Tassigny (place Thiers), 19100 Brive-la-Gaillarde",
+    "horaires": "Halle : du mardi au jeudi de 7h30 à 14h, vendredi et samedi de 7h30 à 19h, dimanche de 9h à 16h ; fermée le lundi (Ville de Brive). Marché de plein air devant la halle le mardi et le samedi matin.",
+    "produits": [
+      "Boucherie et charcuterie",
+      "Fromages",
+      "Pommes anciennes, cidres et jus d'un producteur d'Objat",
+      "Fruits et légumes du potager",
+      "Pain",
+      "Noix, fraises et framboises en saison",
+      "Épicerie fine"
+    ],
+    "description": "Halle alimentaire municipale ouverte fin 2019, qui réunit quatorze commerçants de bouche dont un producteur de pommes anciennes ; le mardi et le samedi, un marché de plein air (fromager, primeurs) s'installe devant elle. À 0,3 km de la mairie de Brive. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "image_url": "/images/marchands/halle-gaillarde-place-thiers-brive.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Mar%C3%A9chal%20de%20Lattre%20de%20Tassigny%20%28place%20Thiers%29%2C%2019100%20Brive-la-Gaillarde"
+  },
+  {
+    "slug": "la-banou-brive",
+    "nom": "La Banou – microbrasserie",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 45.162665,
+    "lon": 1.536518,
+    "adresse": "37 Avenue du Maréchal Foch, 19100 Brive-la-Gaillarde",
+    "horaires": "Du mardi au jeudi de 17h à 23h, vendredi et samedi de 10h à 23h (site de la brasserie ; l'office de tourisme donne les mêmes heures).",
+    "produits": [
+      "Bière blonde (pale ale)",
+      "Bière blanche",
+      "IPA",
+      "Bière rousse",
+      "Bières éphémères",
+      "Vente de bières à emporter et de fûts"
+    ],
+    "description": "Microbrasserie du centre de Brive qui brasse sur place et sert ses bières dans son bar ; vente à emporter et de fûts pour les événements. La brasserie ne répond pas au téléphone : contact par courriel ou réseaux sociaux, selon son site. À 0,4 km de la mairie de Brive. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.labanou.com/",
+    "image_url": "/images/marchands/la-banou-brive.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=37%20Avenue%20du%20Mar%C3%A9chal%20Foch%2C%2019100%20Brive-la-Gaillarde"
+  },
+  {
+    "slug": "brasserie-tnt-brive",
+    "nom": "Brasserie TNT",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 45.146623,
+    "lon": 1.472511,
+    "adresse": "5 Rue Robert Margerit, Zone Ouest, 19100 Brive-la-Gaillarde",
+    "horaires": "Boutique et bar ouverts du mercredi au samedi selon la fiche 2026 de l'office de tourisme, qui ne publie pas d'heures ; fermé le lundi, le mardi et le dimanche. Un article de l'office de juin 2025 donnait d'autres horaires (du lundi au samedi) : se renseigner avant de venir. Visite guidée sur rendez-vous.",
+    "produits": [
+      "Bières artisanales brassées sur place",
+      "Gamme traditionnelle « Gaillarde »",
+      "Gamme craft",
+      "Bière pression au bar de la brasserie",
+      "Vente à emporter"
+    ],
+    "description": "Brasserie artisanale de la zone ouest de Brive, qui a succédé à la Brasserie Gaillarde et propose deux gammes, l'une traditionnelle, l'autre plus créative ; bar de dégustation à la brasserie. Elle vend aussi au marché de Noailles le mercredi soir. À 5,0 km de la mairie de Brive. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "telephone": "05 87 49 55 48",
+    "image_url": "/images/marchands/brasserie-tnt-brive.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5%20Rue%20Robert%20Margerit%2C%20Zone%20Ouest%2C%2019100%20Brive-la-Gaillarde"
+  },
+  {
+    "slug": "les-jardins-de-lagarde-saint-viance",
+    "nom": "Les Jardins de Lagarde",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.211016,
+    "lon": 1.470847,
+    "adresse": "15 Route de la Garde, 19240 Saint-Viance",
+    "horaires": "Épicerie de la ferme ouverte le vendredi de 9h à 13h et de 15h à 19h, et le lundi de 9h à 12h ; horaires aménagés en été (office de tourisme). Présente aussi au marché de la place de la Guierle à Brive, les mardis, jeudis et samedis.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Agrumes de Sicile",
+      "Huiles d'olive",
+      "Pâtes et céréales",
+      "Confitures"
+    ],
+    "description": "Exploitation maraîchère de Saint-Viance qui vend ses légumes et fruits de saison dans une épicerie à la ferme, complétée d'une gamme de produits de Sicile venus de producteurs de l'île ; livraison à domicile le vendredi. À 7,6 km de la mairie de Brive. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "image_url": "/images/marchands/les-jardins-de-lagarde-saint-viance.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15%20Route%20de%20la%20Garde%2C%2019240%20Saint-Viance"
   }
 ]

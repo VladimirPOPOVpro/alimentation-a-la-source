@@ -4761,9 +4761,29 @@ prioritaires en cas de conflit.
      avec leur déblocage. Première application : les quatre fiches pessacaises, complétées par le magasin de producteurs de
      Cenon, catégorie `producteur` qu'aucun marché ne remplace ; distances écrites depuis la mairie de Bordeaux.
 
+388. **Le déblocage « deux autres points dans l'agglomération » d'une commune à deux fiches désignées se remplit aussi par des
+     lieux neufs de cette commune ; ses pistes déjà écartées, elles, ne se rouvrent que par leur propre déblocage.** Le
+     29 septembre 2026 (cent neuvième passe), la Corrèze revient en tête (3,3809). Brive porte deux fiches désignées pour la
+     reprise (règle 258) — le marché de la place du Quatorze-Juillet et la Halle Gaillarde —, avec pour déblocage « deux autres
+     points illustrables à moins de quinze kilomètres de la mairie de Brive, dans l'agglomération » ; la règle 302 ne s'applique
+     pas, faute de quatre désignées. La règle 258 dit aussi que la passe qui revient les prend « sans rouvrir le reste de la
+     commune ». Or deux candidats brivistes n'avaient jamais été instruits : une microbrasserie du centre et une brasserie de la
+     zone ouest. **Tranché ainsi** : « sans rouvrir » interdit de refaire le criblage de la commune et de reprendre au jugé les
+     pistes qu'une passe a écartées (ici le marché de Tujac, le magasin de l'impasse de la Sarretie, la ferme du Puy Lenty,
+     l'AMAP, le magasin de réseau à l'enseigne formée d'un prénom, la boutique de l'avenue Ribot) ; il n'interdit pas un lieu
+     neuf de la même commune, puisque le déblocage vise « l'agglomération » et que la règle 295 admet déjà qu'une commune
+     couverte complète un groupe. Chaque lieu neuf est instruit entièrement, et la descente de la règle 41.d n'avance pas : elle
+     reprendra à Donzenac. Première application : deux brasseries brivistes et une ferme de Saint-Viance complètent les deux
+     marchés, cinq points à 0,3, 0,3, 0,4, 5,0 et 7,6 km de la mairie de Brive.
+
 ## Marchands à confirmer
 
-857 fiches sur 968 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+862 fiches sur 973 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la place du Quatorze-Juillet et de sa halle**, **Halle Gaillarde et marché de la place Thiers**, **La Banou**,
+  **Brasserie TNT** (Brive-la-Gaillarde) et **Les Jardins de Lagarde** (Saint-Viance) (passe du 29 septembre 2026, cent
+  neuvième, règles 258, 381 et 388) : photographies thématiques CC0 ou du domaine public (règle 371) ; aux marchés, aucune
+  liste d'étals publiée ; à la Brasserie TNT, jours d'ouverture 2026 sans heures (règle 384) et horaires contradictoires de
+  2025 ; aux Jardins de Lagarde, horaires lus dans la description non datée de l'office, aménagés l'été.
 - **Marché de l'Estacade**, **Marché Hoche** (Grenoble), **Le Comboire Paysan** (Échirolles) et **Un bout de campagne**
   (Claix) (passe du 29 septembre 2026, cent huitième, règles 302, 381 et 387) : photographies thématiques du domaine public
   (règle 371) ; aux marchés, aucune liste d'étals publiée ; au Comboire Paysan, le samedi finit à 18h selon le site et la
@@ -12172,6 +12192,71 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent neuvième) : Brive-la-Gaillarde et l'Agglomération du Bassin de Brive, cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (968 fiches), outre-mer écarté (règle 177), départements épuisés sautés
+(règle 265) : **Corrèze (19) 3,3809**, premier département ouvert, en Nouvelle-Aquitaine ; la passe de Grenoble visait
+l'Auvergne-Rhône-Alpes. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Reprise d'abord (règles 258 et 388), la descente n'avance pas.** Les deux fiches désignées de Brive se relisent entières ce
+jour : page « Marchés » de la Ville (place de la Guierle et halle, mardi, jeudi et samedi ; place Thiers, mardi et samedi matin)
+et calendrier 2026 de l'office (7h30-13h) ; page « Halle Gaillarde » de la Ville (mardi-jeudi 7h30-14h, vendredi-samedi
+7h30-19h, dimanche 9h-16h, quatorze commerçants). Le déblocage demandait deux autres points de l'agglomération à moins de
+quinze kilomètres de la mairie de Brive (7 place Jean-Charbonnel, point de l'annuaire de l'administration 45.159563 /
+1.533822) ; trois lieux neufs le remplissent :
+
+1. **La Banou** (0,4 km) — SAS active à son adresse (56.30Z, enseigne au registre) ; microbrasserie qui brasse sur place, bar et
+   vente à emporter ; horaires du site (mardi-jeudi 17h-23h, vendredi-samedi 10h-23h), repris à l'identique par un article
+   de l'office. **Contradiction** : l'article de l'office donne un numéro, le site écrit que la brasserie n'a pas de téléphone ;
+   la voix du commerce l'emporte (règle 5), aucun numéro publié. Page d'accueil sans nom de personne : `site_web` publié.
+   Point : le 37 avenue du Maréchal-Foch à la Base (0,75), à 10 m du registre. Pas de certificat bio : pilier `economie`
+   seul (règle 14).
+2. **Brasserie TNT** (5,0 km) — société active à son adresse, enseigne au registre (11.05Z), qui a succédé à la Brasserie
+   Gaillarde. **Contradiction** : l'office donne, dans un article de juin 2025, un horaire du lundi au samedi, et dans sa fiche
+   datée 2026 « fermé le lundi, mardi, dimanche », sans heure ; la fiche datée l'emporte (règle 172), les jours seuls sont
+   publiés (règle 384) et l'ancien horaire est signalé. Pas de site propre (réseaux sociaux seulement). Fixe publié par l'office
+   pour la brasserie. Point : le 5 rue Robert-Margerit à la Base (0,96), à 20 m du registre ; le magasin de réseau domicilié au
+   même numéro n'est pas publié, les deux points ne se superposent donc pas (règle 12).
+3. **Les Jardins de Lagarde** (Saint-Viance, 7,6 km) — exploitation maraîchère active et société de vente au détail active à
+   la même adresse, enseigne tirée du lieu-dit ; épicerie à la ferme le vendredi 9h-13h et 15h-19h et le lundi 9h-12h, légumes
+   et fruits de saison et une gamme de produits siciliens, selon la fiche de l'office (non datée, horaires « aménagés » l'été :
+   `a_confirmer`). Portable seul publié : pas de téléphone (règle 143). Point : le 15 route de la Garde à la Base (0,94), à 30 m
+   du registre.
+
+**Contrôle à deux agents** (règle 257) : `brive.fr`, `brive-tourisme.com`, `labanou.com`, `turenne.fr`, `varetz.com`,
+`saintviance.fr`, `ussac.fr`, `cosnac.fr`, `larche-correze.fr` et les deux sites de Donzenac et de Saint-Pantaléon répondent 200
+aux deux agents ; `biocoop.fr` refuse l'agent nommé (403) ; `intramuros.org`, qui porte le site de Noailles, refuse les deux (403,
+règle 237). L'office interdit toute reproduction de ses images (mentions légales) ; les pages de la Ville portent des crédits de
+photographes et des noms de personnes dans leurs encarts : ni `site_web` ni image n'en sont repris pour les marchés.
+
+**Écartés ou laissés en pistes dans l'agglomération** : le marché de Noailles (mercredi à partir de 17h, composition à
+l'office), que seul l'office publie (règle 196) ; le marché de Turenne, décrit par la Ville le 26 mai 2026 « place du Belvédère
+(devant l'épicerie Vival) », sans point : la Base ne connaît pas la place, et l'épicerie n'est au registre que sous des
+entreprises individuelles (règles 166 et 354) ; le Biocoop de Malemort, dont le site ne publie que la liste du réseau et « plus de
+60 producteurs locaux » sans en nommer un (règles 273 et 361) ; le Biocoop de Brive, sans page consultable (règle 257) ; une
+halle de produits locaux de Saint-Pantaléon-de-Larche, sans liste de producteurs (règle 361) ; une boutique de conserverie
+artisanale du centre de Brive, surtout épicerie fine et coffrets, sans circuit court établi ; une boulangerie biologique
+certifiée du centre de Brive, sans source publiant ses heures ; une noyeraie de Larche, sans jour ni heure (règle 192).
+
+**Images** : cinq photographies thématiques Openverse (règle 371), sans visage, sans texte ni enseigne, réencodées sans
+métadonnées (règle 235) : cèpes en sous-bois `https://www.flickr.com/photos/88123769@N02/34887800260` (CC0, marché de la
+place du Quatorze-Juillet) ; panier de noix `https://www.flickr.com/photos/137424368@N06/45224765625` (marque du domaine public,
+Halle Gaillarde) ; verre de bière ambrée `https://www.flickr.com/photos/132795455@N08/22305696820` (CC0, La Banou) ; trou
+d'homme d'une cuve de brasserie `https://www.flickr.com/photos/37996646802@N01/37209231064` (CC0, Brasserie TNT) ; citrons
+`https://www.flickr.com/photos/40632439@N00/24579753002` (CC0, Les Jardins de Lagarde). Écartée : une photographie de houblon
+tenu dans une main.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : le nom du brasseur et ceux des
+fondateurs cités par l'office, le nom de la directrice de publication du site de La Banou, les prénoms et patronymes des
+commerçants de la Halle cités par l'office, le patronyme sous lequel une exploitation de Saint-Viance est inscrite au registre et
+la mention familiale de sa fiche d'office, les noms des exploitants de Larche et de Turenne lus dans les annuaires communaux et
+au registre. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 973 fiches : Corrèze −1,60 ; la prochaine passe ne peut pas viser la Nouvelle-Aquitaine ; premier ouvert
+ensuite, sous réserve de la relecture de la règle 265 : Hauts-de-Seine (92) 3,3498 ; la descente corrézienne reprendra à
+**Donzenac** (2 733).
 
 ### Passe du 29 septembre 2026 (cent huitième) : Grenoble et Grenoble-Alpes-Métropole, cinq fiches reprises (règle 302)
 
@@ -25918,6 +26003,10 @@ Les personnes écartées sont décrites dans la section de la passe.
 
 Passe du 29 septembre 2026 (cent cinquième). Premier passage dans le département : douze communes éprouvées de Brive-la-Gaillarde
 à Uzerche, aucune zone ; la prochaine passe reprend les deux fiches désignées de Brive, puis la descente à **Donzenac**.
+
+Passe du 29 septembre 2026 (cent neuvième) : les deux fiches désignées de Brive sont publiées avec trois points neufs de
+l'agglomération (règle 388, voir la section de la passe) ; les autres pistes brivistes ci-dessous restent écartées avec leurs
+déblocages. La descente reprendra à **Donzenac**.
 
 - **Brive-la-Gaillarde** (47 095) — **deux fiches entières, désignées pour la reprise (règles 258 et 302)** :
   - **Marché de la place du Quatorze-Juillet et de sa halle** (la place de la Guierle) : mardi, jeudi et samedi selon la page
