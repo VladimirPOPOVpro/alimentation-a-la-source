@@ -4778,7 +4778,12 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-862 fiches sur 973 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+867 fiches sur 978 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Charras**, **Marché Villebois-Mareuil (Bécon)**, **Marché Marceau**, **Marché du Faubourg de l'Arche** et **AMAP des
+  Consom'acteurs de Courbevoie** (Courbevoie) (passe du 29 septembre 2026, cent dixième, règles 237, 297 et 371) : horaires et
+  métiers lus sur la seule page « Vos marchés » de la Ville, confirmée pour chaque marché par une seconde page communale (règle
+  178) ; au Faubourg de l'Arche, photographie de la séance d'essai de 2022 ; à Villebois-Mareuil, à Marceau et à l'AMAP,
+  photographies thématiques CC0 ou du domaine public (règle 371) ; à l'AMAP, créneau du point de Bécon contradictoire (règle 5).
 - **Marché de la place du Quatorze-Juillet et de sa halle**, **Halle Gaillarde et marché de la place Thiers**, **La Banou**,
   **Brasserie TNT** (Brive-la-Gaillarde) et **Les Jardins de Lagarde** (Saint-Viance) (passe du 29 septembre 2026, cent
   neuvième, règles 258, 381 et 388) : photographies thématiques CC0 ou du domaine public (règle 371) ; aux marchés, aucune
@@ -12192,6 +12197,65 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent dixième) : Courbevoie (Hauts-de-Seine), cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (973 fiches), outre-mer écarté (règle 177), départements épuisés sautés
+(règle 265) : **Hauts-de-Seine (92) 3,3498**, premier département ouvert, en Île-de-France ; la passe de Brive visait la
+Nouvelle-Aquitaine (règle 41.c). Règle 302 : aucune intercommunalité du 92 ne compte quatre fiches désignées, elle ne joue pas.
+`origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Courbevoie d'abord (règles 297 et 237), la descente n'avance pas.** La commune calculée du 92 reste Courbevoie (82 902
+habitants, aucune fiche). Sortie de la descente le 24 septembre parce que `www.ville-courbevoie.fr` refusait toute connexion,
+elle se rouvrait « au retour de son site ». Contrôle en deux requêtes (règle 257) : le site, `robots.txt` compris, répond 200 à
+l'agent par défaut comme à l'agent nommé ; son `robots.txt` n'exclut que des chemins techniques. Déblocage rempli : la commune
+est éprouvée de nouveau, et elle rend une zone à elle seule, sans élargissement (règle 96 non sollicitée).
+
+1. **Marché Charras** (30 rue de l'Alma) — page « Vos marchés » de la Ville (jeudi 8h-13h, vendredi 14h30-19h, dimanche 8h-13h,
+   quinze familles d'étals dont « fruits et légumes bio ») et fiche d'annuaire communale (adresse, marqueur) ; actualité du
+   11 septembre 2026 sur la restauration du dimanche. La Base ne connaît pas le 30 de la rue : le marqueur de la fiche
+   d'annuaire (48.896296 / 2.253577) retombe dans l'îlot du marché, à 27 m du 40 rue Baudin (règle 10). Photographie : la
+   façade du marché publiée par la Ville avec cette actualité (770 px), recadrée au-dessus des passants.
+2. **Marché Villebois-Mareuil (Bécon)** (86-88 rue Armand-Silvestre) — page « Vos marchés » (mercredi et samedi 8h-13h30) et
+   fiche d'annuaire ; point du 86 à la Base. La seule photographie de la Ville fait 620 px et montre des visages (règle 185).
+3. **Marché Marceau** (place du 8-Mai-1945) — page « Vos marchés » (mercredi et samedi 8h-13h30, fromagers, bouchers,
+   poissonniers, primeurs, traiteurs) et actualité communale datée qui déplace deux de ses séances ; point de la place à la
+   Base. Photographies de la Ville écartées : 620 px avec visages, et un étal de fruits dont rien ne dit qu'il n'est pas tiré
+   des banques d'images que la page des crédits cite (règle 360). Pas de fiche d'annuaire : pas de `site_web`.
+4. **Marché du Faubourg de l'Arche** (avenue Léonard-de-Vinci) — page « Vos marchés » et fiche d'annuaire, concordantes
+   (mercredi et vendredi 11h-20h) ; la Base ne connaît que l'axe de l'avenue, le marqueur de la fiche d'annuaire est retenu
+   (règle 10). Photographie : un étal de tomates et de salades du diaporama que la Ville a publié pour la séance d'essai de
+   2022, sans personne.
+5. **AMAP des Consom'acteurs de Courbevoie** (73 rue Gaultier) — page « Nos distributions » de l'association, modifiée le
+   16 avril 2026 (règle 195) : mercredi 18h30-19h45 au parking de la maison des associations, et mercredi 18h-19h15 devant la
+   mairie annexe de Bécon, second point porté dans le champ `horaires` plutôt qu'en fiche à part. **Contradiction** : l'annuaire
+   du réseau donnait pour Bécon le jeudi 18h45-19h45 ; la voix de l'AMAP, plus récente, l'emporte (règle 5). Produits bio
+   déclarés par l'association pour les légumes, le pain, les œufs et le porc : pilier `environnement`, comme à Boulogne.
+   Ses pages nomment ses producteurs et les membres de son bureau : pas de `site_web` (règles 376, 377 et 383) ; sa seule
+   photographie sans visage montre une étiquette de fromagerie formée d'un prénom (règle 259) : écartée.
+
+**Écarté** : les pages « Vos marchés » et l'actualité de 2022 du Faubourg de l'Arche nomment les commerçants et publient leurs
+adresses électroniques : aucune n'est mise en lien (règle 383), seules les fiches d'annuaire communales, qui ne nomment
+personne, le sont. Les photographies d'intérieur des marchés Charras, Villebois-Mareuil et Marceau (620 px, visages) et un
+étal de crèmerie du diaporama de 2022 (enseigne formée d'un prénom). Aucun numéro : le standard de la Ville et celui du
+concessionnaire ne sont pas propres aux marchés, et le numéro de la fiche du Faubourg n'est rattaché à rien (règle 201).
+
+**Images** : Charras et Faubourg de l'Arche, photographies de la Ville de Courbevoie (crédits : direction de la communication ;
+mentions légales qui ne protègent que le logo). Trois photographies thématiques Openverse (règle 371), sans visage ni enseigne,
+réencodées sans métadonnées (règle 235) : étal de fromages `https://www.flickr.com/photos/9561097@N08/19567343222` (CC0,
+Villebois-Mareuil) ; étal de poissons `https://www.flickr.com/photos/11234074@N05/39987635960` (CC0, Marceau) ; haricots et
+choux-raves en paniers `https://www.flickr.com/photos/41284017@N08/7339544518` (marque du domaine public, AMAP).
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms et adresses
+électroniques des commerçants des quatre marchés, les prénoms des membres du bureau de l'AMAP et les noms de ses producteurs,
+le nom du directeur de publication du site de la Ville et le nom de fromagerie lu sur une étiquette. Aucun n'apparaît ici,
+dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 978 fiches : Hauts-de-Seine −1,53 ; la prochaine passe ne peut pas viser l'Île-de-France ; premier
+ouvert ensuite, sous réserve de la relecture de la règle 265 : Haute-Saône (70) 3,31. Dans les Hauts-de-Seine, la descente
+reprendra à **Montrouge** (46 324), inchangée.
+
 
 ### Passe du 29 septembre 2026 (cent neuvième) : Brive-la-Gaillarde et l'Agglomération du Bassin de Brive, cinq fiches
 
@@ -20707,6 +20771,8 @@ permission écrite de la Ville ; pour La Lieutenante, des horaires publiés par 
    social. **Zéro.**
 
 **Reprise dans les Hauts-de-Seine** : Courbevoie d'abord (règle 297), puis la descente à **Levallois-Perret** (68 092).
+Passe du 29 septembre 2026 (cent dixième) : le site de la Ville répond de nouveau, Courbevoie est reprise et publiée (quatre
+marchés et l'AMAP, voir la section de la passe).
 L'AMAP de La Garenne-Colombes refuse l'agent nommé (403) ; celle de Puteaux (marché Chantecoq, mardi) avait un site en 503.
 
 **Fiches écartées pour doute sur une personne** : aucune fiche instruite ; avant instruction, deux pistes — Berre-l'Étang

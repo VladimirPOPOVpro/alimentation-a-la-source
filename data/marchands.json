@@ -25839,5 +25839,140 @@
     "image_url": "/images/marchands/les-jardins-de-lagarde-saint-viance.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=15%20Route%20de%20la%20Garde%2C%2019240%20Saint-Viance"
+  },
+  {
+    "slug": "marche-charras-courbevoie",
+    "nom": "Marché Charras",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.896296,
+    "lon": 2.253577,
+    "adresse": "30 rue de l'Alma, 92400 Courbevoie",
+    "horaires": "Jeudi de 8h à 13h ; vendredi de 14h30 à 19h ; dimanche de 8h à 13h (horaires publiés par la Ville de Courbevoie)",
+    "produits": [
+      "Fruits et légumes, dont un étal bio",
+      "Fromages et crèmerie",
+      "Poissons et huîtres",
+      "Boucherie, charcuterie et volailles",
+      "Boulangerie et pâtisserie",
+      "Olives et épices",
+      "Plats de traiteur"
+    ],
+    "description": "Le marché couvert du centre de Courbevoie, trois séances par semaine. La Ville y annonce crèmerie, poissonnerie, ostréiculteur, volailler, boucherie, fruits et légumes dont un étal bio, olives et épices, boulangerie ; depuis le 13 septembre 2026, les commerçants servent aussi le dimanche des plats faits maison avec leurs produits, à déguster sur place à l'annexe près de la buvette. Photo : façade du marché, Ville de Courbevoie.",
+    "site_web": "https://www.ville-courbevoie.fr/88-12461/votre-mairie/informations-pratiques-mairie/annuaire-des-services/ficheAnnu/marche-charras.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Charras%2030%20rue%20de%20l'Alma%20Courbevoie",
+    "image_url": "/images/marchands/marche-charras-courbevoie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-villebois-mareuil-courbevoie",
+    "nom": "Marché Villebois-Mareuil (Bécon)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.901932,
+    "lon": 2.267355,
+    "adresse": "86-88 rue Armand-Silvestre, 92400 Courbevoie",
+    "horaires": "Mercredi et samedi de 8h à 13h30 (horaires publiés par la Ville de Courbevoie)",
+    "produits": [
+      "Fruits et légumes, dont un étal bio",
+      "Fromages et crèmerie",
+      "Poissons et huîtres",
+      "Boucherie, charcuterie et volailles",
+      "Boulangerie et pâtisserie",
+      "Olives et épices"
+    ],
+    "description": "Le marché couvert du quartier de Bécon, deux matinées par semaine. La Ville y annonce crèmerie, poissonnerie, ostréiculteur, boucherie, charcuterie, triperie, volailles, fruits et légumes, olives et épices, boulangerie et pâtisserie ; sa liste des commerçants compte plusieurs primeurs, dont un étal bio. La photographie est une illustration thématique libre de droits (CC0) d'un étal de fromages : elle ne montre pas ce marché.",
+    "site_web": "https://www.ville-courbevoie.fr/88-12460/votre-mairie/informations-pratiques-mairie/annuaire-des-services/ficheAnnu/marche-villebois-mareuil.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Villebois-Mareuil%2086%20rue%20Armand%20Silvestre%20Courbevoie",
+    "image_url": "/images/marchands/marche-villebois-mareuil-courbevoie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-marceau-courbevoie",
+    "nom": "Marché Marceau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.901001,
+    "lon": 2.244497,
+    "adresse": "Place du 8-Mai-1945, 92400 Courbevoie",
+    "horaires": "Mercredi et samedi de 8h à 13h30 (horaires publiés par la Ville de Courbevoie)",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Boucherie et charcuterie",
+      "Poissons",
+      "Plats de traiteur"
+    ],
+    "description": "Un marché traditionnel en plein air, sur la place du 8-Mai-1945 dans le quartier Marceau, deux matinées par semaine. La Ville y recense des fromagers, des bouchers-charcutiers, des poissonniers, des primeurs et des traiteurs. La photographie est une illustration thématique libre de droits (CC0) d'un étal de poissons : elle ne montre pas ce marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%208%20Mai%201945%20Courbevoie",
+    "image_url": "/images/marchands/marche-marceau-courbevoie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-faubourg-de-l-arche-courbevoie",
+    "nom": "Marché du Faubourg de l'Arche",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.897029,
+    "lon": 2.23781,
+    "adresse": "Avenue Léonard-de-Vinci, 92400 Courbevoie",
+    "horaires": "Mercredi et vendredi de 11h à 20h (horaires publiés par la Ville de Courbevoie)",
+    "produits": [
+      "Fruits et légumes, dont un étal bio",
+      "Fromages",
+      "Boucherie et volailles",
+      "Poissons",
+      "Plats de traiteur",
+      "Fleurs"
+    ],
+    "description": "Un marché de plein vent en journée continue, de 11h à 20h, dans le quartier neuf du Faubourg de l'Arche, au pied de La Défense : pratique pour faire ses courses en sortant du bureau. La Ville y recense fromager, boucher, poissonniers, primeurs dont un étal bio, traiteurs et fleuriste. Photo : Ville de Courbevoie, prise lors de la séance d'essai de 2022.",
+    "site_web": "https://www.ville-courbevoie.fr/88-12843/votre-mairie/informations-pratiques-mairie/annuaire-des-services/ficheAnnu/marche-du-faubourg-de-l-arche.htm",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Faubourg%20de%20l'Arche%20avenue%20L%C3%A9onard%20de%20Vinci%20Courbevoie",
+    "image_url": "/images/marchands/marche-du-faubourg-de-l-arche-courbevoie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-des-consom-acteurs-de-courbevoie",
+    "nom": "AMAP des Consom'acteurs de Courbevoie",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.89953,
+    "lon": 2.245258,
+    "adresse": "Parking de la maison des associations, 73 rue Gaultier, 92400 Courbevoie",
+    "horaires": "Distribution le mercredi de 18h30 à 19h45 au 73 rue Gaultier ; second point le mercredi de 18h à 19h15 devant la mairie annexe de Bécon. Paniers réservés aux adhérents, par contrat semestriel.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Pain bio",
+      "Œufs bio",
+      "Porc bio",
+      "Beurre, crème et fromages de Normandie",
+      "Cidre et poiré",
+      "Huile d'olive"
+    ],
+    "description": "Une association pour le maintien d'une agriculture paysanne qui distribue chaque mercredi soir des paniers de légumes labellisés bio d'une ferme de l'Oise, avec du pain bio pétri en Seine-Saint-Denis, des œufs bio de l'Orne et du porc bio de l'Oise ; une fois par mois, un groupement de producteurs bio normands livre aussi viande, produits laitiers et fruits. La photographie est une illustration thématique du domaine public : elle ne montre pas cette AMAP.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=73%20rue%20Gaultier%20Courbevoie",
+    "image_url": "/images/marchands/amap-des-consom-acteurs-de-courbevoie.jpg",
+    "a_confirmer": true
   }
 ]
