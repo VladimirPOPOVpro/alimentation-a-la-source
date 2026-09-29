@@ -4748,9 +4748,28 @@ prioritaires en cas de conflit.
      marché ; les heures restent celles de la commune (règle 176), celles de l'exposant sont citées comme les siennes. Un
      exposant qui ne dit que « sur les marchés de la région », sans jour ni lieu, ne compte pas.
 
+387. **Quand la règle 302 trouve plus de cinq fiches désignées dans une intercommunalité, elle prend d'abord celles d'une même
+     commune, puis complète par la catégorie qui manque.** Le 29 septembre 2026 (cent septième passe), la Gironde arrive en tête
+     et Bordeaux Métropole porte bien plus de cinq fiches désignées pour la reprise dont la seule réserve était une image, que
+     la règle 381 lit comme remplie : quatre à Pessac (les marchés de Pessac-centre, Bourrec et Cap de Bos, une boulangerie bio),
+     un magasin de producteurs à Cenon, un marché à Floirac, les AMAP recensées à Mérignac. La règle 302 dit que la passe « les
+     publie », sans dire lesquelles quand le plafond de cinq mord. **Tranché ainsi** : on prend d'abord toutes les fiches
+     désignées de la commune qui en porte le plus, parce que c'est elle qui rend une zone utilisable (le groupement de la règle
+     41) ; on complète avec la désignée qui apporte une catégorie absente du groupe (règle 167), à vérification égale (règle
+     168), puis la plus proche. La distance de la règle 302 se mesure toujours depuis la mairie de la commune couverte la plus
+     peuplée qui la remplit pour toutes (règle 363), et la description l'écrit. Les désignées non prises restent en pistes,
+     avec leur déblocage. Première application : les quatre fiches pessacaises, complétées par le magasin de producteurs de
+     Cenon, catégorie `producteur` qu'aucun marché ne remplace ; distances écrites depuis la mairie de Bordeaux.
+
 ## Marchands à confirmer
 
-848 fiches sur 958 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+853 fiches sur 963 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marchés de Pessac-centre**, **Marché Bourrec**, **Marché de Cap de Bos**, **Le Fils des Artisans** (Pessac) et **Coop
+  Paysanne Cenon** (Cenon) (passe du 29 septembre 2026, cent septième, règles 302, 381 et 387) : photographies thématiques CC0
+  ou du domaine public (règle 371) ; aux marchés, heures de l'arrêté du 6 janvier 2023 et de la page des marchés de la Ville,
+  non datée, qui écrit aussi « 8 h – 14 h » pour le mardi ; à Cap de Bos, le jeudi n'est que dans l'arrêté (règle 138), et le
+  point est celui de la rue de Belfort, que la page nomme, à 90 m de la voie du centre commercial ; à la boulangerie, horaires
+  de l'annuaire économique de la Ville, non daté.
 - **Marché du centre-ville d'Étampes**, **Marché Saint-Gilles** (Étampes), **La ferme des Hirondelles** et **Jardins de la
   Marette** (Guillerval) (passe du 29 septembre 2026, cent sixième, règles 96, 127, 385 et 386) : photographies thématiques CC0
   ou du domaine public (règle 371) ; aux deux marchés, les heures viennent d'une seule page municipale (décembre 2025) et les
@@ -12149,6 +12168,85 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent septième) : Pessac et Bordeaux Métropole, cinq fiches reprises (règle 302)
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 958 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Gironde (33) 3,4869**, premier département ouvert, en
+Nouvelle-Aquitaine ; la passe d'Étampes visait l'Île-de-France (règle 41.c). Contrôle de tête du groupe de Labenne (règle 355) :
+« foyer municipal Labenne » rend toujours le foyer municipal d'une commune de l'Aude (0,55), « place de la République Labenne »
+la rue de la Rose (0,47) ; non réinstruit. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Règle 302 d'abord, la descente n'avance pas.** Bordeaux Métropole (champ `epci` 243300316) porte de nombreuses fiches
+désignées pour la reprise dont la seule réserve était l'image : à Pessac, depuis le 21 septembre, les marchés de Pessac-centre,
+Bourrec et Cap de Bos, Biocoop Pessac et la boulangerie Le Fils des Artisans ; à Cenon et Floirac, depuis le 24 septembre, Coop
+Paysanne et le marché de la place Hilaire-Saura ; à Mérignac, les AMAP que recense la Ville. La règle 381 lit ces déblocages
+comme remplis par la règle 371. La règle 387 (nouvelle) choisit parmi elles : les désignées de Pessac, qui porte déjà trois
+fiches, puis le magasin de producteurs de Cenon. Centre de la règle 302 : Bordeaux, commune couverte la plus peuplée, mairie
+place Pey-Berland au point de l'annuaire de l'administration (44.83802, -0.579635) ; les cinq points sont entre 4,0 et 9,5 km.
+
+**Contrôle à deux agents** (règle 257) : `pessac.fr`, `eco.pessac.fr` et `cooppaysanne.fr` répondent 200 à l'agent par défaut et
+à l'agent nommé ; leurs `robots.txt` ne nomment aucun agent d'IA. Le site de Biocoop Pessac ne s'ouvre pas (certificat qui ne
+correspond pas au domaine, puis boucle de redirection) ; celui de la boulangerie est toujours une page d'hébergeur « en
+construction ».
+
+1. **Marchés de Pessac-centre** (5,4 km de la mairie de Bordeaux) — une fiche à deux régimes (règle 42), place de la Ve
+   République : l'arrêté portant règlement des marchés (6 janvier 2023, qui abroge celui de janvier 2020) et la page « Marchés »
+   de la Ville concordent sur le mardi 8h-13h30, « marché biologique des producteurs », et le samedi 8h-13h30 ; la page écrit
+   aussi « 8 h – 14 h » dans son paragraphe sur le mardi, cité dans `horaires` (règles 78 et 87). Pilier `environnement` au
+   titre des règles 45 et 114 : l'arrêté classe la séance du mardi comme biologique et exige des commerçants bio leurs pièces
+   justificatives ; `horaires` dit que le samedi ne l'est pas. Produits : ceux que la page écrit pour chaque séance. Point :
+   « Place de la Cinquième République » à la Base (0,68 ; seul libellé proposé), à 40 m du point de la mairie à l'annuaire.
+2. **Marché Bourrec** (5,9 km) — dimanche 8h-14h, avenues Pierre Wiehn et Roger Chaumet, arrêté et page concordants ; environ
+   150 commerçants, alimentaires et non alimentaires, sans décompte par activité (la règle 119 ne s'applique pas) ; la page nomme
+   les produits du terroir (vin, miel, foie gras, fraises, asperges) et les cuisines représentées. Point : l'avenue Pierre Wiehn
+   à la Base (0,97). La photographie de l'office rejetée par la règle 216 n'est pas reprise. « Bourrec » est un toponyme du quartier (la Base
+   connaît le « passage Bourrec » à Pessac), pas le nom d'une personne.
+3. **Marché de Cap de Bos** (9,5 km) — samedi 8h-13h30 selon les deux textes ; le jeudi 8h-13h30 n'est que dans l'arrêté, absent
+   de la page : il est écrit comme contesté (règle 138). L'arrêté situe le marché dans un espace municipal qui porte le nom d'une
+   personne : la fiche le désigne par sa fonction (règles 299 et 342), comme la page, « intégré dans un espace commercial », côté
+   rue de Belfort. Produits : fruits et légumes, poulets rôtis, miel, vin, huîtres, selon la page. Point : la rue de Belfort à la
+   Base (0,97), à 90 m de la « voie Centre Commercial Cap de Bos » qu'elle connaît aussi, et à 30 m des établissements du centre
+   commercial au registre.
+4. **Le Fils des Artisans** (4,7 km) — société active à son adresse depuis 2018 (10.71C, enseigne au registre), certificat
+   Ecocert engagé au registre de l'Agence Bio (pain frais, pâtisseries et viennoiseries, plats préparés) ; horaires jour par jour
+   et fixe publiés dans la fiche que le commerce tient à l'annuaire économique de la Ville (règle 236). Pas de `site_web` : son
+   domaine est une page « en construction » (règle 62). L'image de l'annuaire est un visuel de 200 px, sous la règle 59. Point :
+   le 22 avenue Jean Cordier à la Base (0,98), à 20 m du point du registre.
+5. **Coop Paysanne Cenon** (4,0 km) — société active à son adresse (47.21Z), magasin collectif de plus d'une centaine de
+   producteurs, en majorité girondins, qui publie sa propre liste de producteurs (règle 86 remplie ; catégorie `producteur`,
+   règle 105) ; horaires et fixe du magasin sur sa page « Le magasin Coop Paysanne de Cenon », que l'actualité de septembre 2026
+   du même site date comme vivant. Pas de `site_web` : la page d'accueil affiche des titres d'actualité qui nomment des personnes
+   (règle 377). Les mentions légales qui fermaient ses photographies ne ferment plus la fiche (règle 371). Point : le 57 avenue
+   Jean Jaurès à la Base (0,97).
+
+**Restent en pistes dans Bordeaux Métropole** : **Biocoop Pessac** — société active au 14 avenue Jean Jaurès, certificat Ecocert
+engagé, horaires à l'annuaire de la Ville, mais aucune liste de producteurs à elle (règle 273) : son site ne s'ouvre pas, et la
+page de réseau est exclue (règle 149). **Déblocage** : une liste de producteurs de la région publiée par le magasin. Le **marché
+de Monbalon** (cinq commerçants « alimentation », sans famille de produits : règle 197). Le **marché de la place Hilaire-Saura**
+à Floirac et les **AMAP de Mérignac**, désignées, non prises par la règle 387 ; les AMAP devront de plus montrer une source de
+moins de douze mois (règles 195 et 264). La descente girondine reprendra à **La Teste-de-Buch** (27 566).
+
+**Images** : cinq photographies thématiques Openverse (règle 371), sans visage ni enseigne, réencodées sans métadonnées
+(règle 235) : betteraves, radis et carottes sur un étal, recadrés pour retirer une étiquette de prix et des vitrines
+`https://www.flickr.com/photos/152628868@N03/35334701803` (marque du domaine public, Pessac-centre) ; fraises
+`https://www.flickr.com/photos/13631562@N00/9283113642` (marque du domaine public, Bourrec) ; pommes en cagettes, recadrées pour
+retirer une marque de verger, un logo et des silhouettes au loin `https://www.flickr.com/photos/41284017@N08/16065178054` (marque
+du domaine public, Cap de Bos) ; pain au levain `https://www.flickr.com/photos/93936679@N05/51327616502` (CC0, Le Fils des
+Artisans) ; plateau de fromages, pain et vin `https://www.flickr.com/photos/63234672@N04/19757310168` (CC0, Coop Paysanne).
+Écartées : un étal de maïs à panneau de prix illustré de personnes, des poireaux signés d'un nom de photographe (règle 75), des
+bocaux de miel à étiquette manuscrite.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : le nom de l'agente municipale que
+la page des marchés de Pessac donne pour contact (la page n'est donc pas mise en lien, règle 383), le nom de l'élu signataire de
+l'arrêté, le nom de personne que porte l'espace municipal de Cap de Bos, les prénoms des titres d'actualité de Coop Paysanne et
+les noms de sa page « Nos producteurs », l'adresse électronique nominative de direction de Biocoop Pessac, le portable publié sur
+le site de Coop Paysanne. Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 963 fiches : Gironde −1,39 ; la prochaine passe ne peut pas viser la Nouvelle-Aquitaine, ce qui ferme la
+Corrèze (3,3634) ; premiers ouverts ensuite, sous réserve de la relecture de la règle 265 : Isère (38) 3,1418, Hauts-de-Seine (92)
+3,1098 (Île-de-France, ouverte), Finistère (29) 3,0367.
 
 ### Passe du 29 septembre 2026 (cent sixième) : Étampes et l'Agglomération de l'Étampois Sud-Essonne, cinq fiches
 

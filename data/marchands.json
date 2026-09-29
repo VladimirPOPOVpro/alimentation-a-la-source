@@ -25447,5 +25447,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sente%20de%20Saint-Gervais%2C%2091690%20Guillerval",
     "image_url": "/images/marchands/jardins-de-la-marette-guillerval.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marches-de-pessac-centre",
+    "nom": "Marchés de Pessac-centre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 44.805739,
+    "lon": -0.631007,
+    "adresse": "Place de la Cinquième République, 33600 Pessac",
+    "horaires": "Le mardi de 8h à 13h30, marché biologique des producteurs (arrêté municipal du 6 janvier 2023 ; la page des marchés de la Ville écrit aussi « 8 h – 14 h » dans son paragraphe) ; le samedi de 8h à 13h30, marché alimentaire, qui n'est pas classé biologique. Place de la Ve République, face à l'hôtel de ville.",
+    "produits": [
+      "Fruits et légumes bio (mardi)",
+      "Pain bio (mardi)",
+      "Poissons et crustacés",
+      "Saumon et vin (mardi)",
+      "Champignons et soupes (mardi)",
+      "Fromages",
+      "Boucherie et charcuterie",
+      "Olives et condiments"
+    ],
+    "description": "Deux marchés sur la place de l'hôtel de ville : le mardi, un marché biologique des producteurs d'une quinzaine d'étals, dont la Ville exige les certificats bio ; le samedi, une quinzaine de commerçants exclusivement alimentaires. À 5,4 km de la mairie de Bordeaux. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Cinqui%C3%A8me%20R%C3%A9publique%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/marches-de-pessac-centre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bourrec-pessac",
+    "nom": "Marché Bourrec",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.799895,
+    "lon": -0.631108,
+    "adresse": "Avenue Pierre Wiehn, 33600 Pessac",
+    "horaires": "Le dimanche de 8h à 14h, avenues Pierre Wiehn et Roger Chaumet (arrêté municipal du 6 janvier 2023 et page des marchés de la Ville).",
+    "produits": [
+      "Produits alimentaires de commerçants",
+      "Vin de producteurs",
+      "Miel",
+      "Foie gras",
+      "Fraises et asperges de saison",
+      "Cuisine des Caraïbes et d'Asie du Sud-Est",
+      "Épicerie italienne"
+    ],
+    "description": "Le grand marché dominical de Pessac, environ 150 commerçants venus de Gironde et des départements voisins ; la Ville y signale de nombreux producteurs du terroir, à côté d'étals non alimentaires (vêtements, artisanat). Parking souterrain à 200 m, à 5,9 km de la mairie de Bordeaux. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Pierre%20Wiehn%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/marche-bourrec-pessac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-cap-de-bos-pessac",
+    "nom": "Marché de Cap de Bos",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.792782,
+    "lon": -0.68241,
+    "adresse": "Centre commercial de Cap de Bos, rue de Belfort, 33600 Pessac",
+    "horaires": "Le samedi de 8h à 13h30, dans l'espace commercial du quartier, côté rue de Belfort (page des marchés de la Ville et arrêté du 6 janvier 2023). Second jour contesté : le jeudi de 8h à 13h30 selon l'arrêté, absent de la page des marchés.",
+    "produits": [
+      "Fruits et légumes",
+      "Poulets rôtis",
+      "Miel",
+      "Vin",
+      "Huîtres"
+    ],
+    "description": "Petit marché de proximité intégré au centre commercial du quartier de Cap de Bos, cinq à six commerçants alimentaires selon la Ville, et un fleuriste. À 9,5 km de la mairie de Bordeaux. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20Belfort%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/marche-de-cap-de-bos-pessac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-fils-des-artisans-pessac",
+    "nom": "Le Fils des Artisans",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.811144,
+    "lon": -0.624867,
+    "adresse": "22 Avenue Jean Cordier, 33600 Pessac",
+    "horaires": "Le mardi et le vendredi de 7h à 14h30 et de 15h30 à 19h30, le mercredi de 7h à 19h30, le samedi de 8h à 19h, le dimanche de 8h à 13h ; fermé le lundi et le jeudi (annuaire économique de la Ville de Pessac).",
+    "produits": [
+      "Pains au levain naturel",
+      "Viennoiseries",
+      "Pâtisseries",
+      "Plats préparés"
+    ],
+    "description": "Boulangerie artisanale entièrement bio installée à Pessac depuis 2018, certifiée par Ecocert pour son pain frais, ses pâtisseries et ses plats préparés, qui travaille ses pains au levain naturel. À 4,7 km de la mairie de Bordeaux. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "telephone": "05 57 65 10 69",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%20Avenue%20Jean%20Cordier%2C%2033600%20Pessac",
+    "image_url": "/images/marchands/le-fils-des-artisans-pessac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "coop-paysanne-cenon",
+    "nom": "Coop Paysanne Cenon",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.855373,
+    "lon": -0.534807,
+    "adresse": "57 Avenue Jean Jaurès, 33150 Cenon",
+    "horaires": "Du mardi au samedi de 9h à 13h30 et de 15h à 19h30, le dimanche de 9h à 12h30 (site de Coop Paysanne). Tram A, arrêt Cenon Gare.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes et charcuteries d'éleveurs",
+      "Fromages et produits laitiers fermiers",
+      "Conserves artisanales",
+      "Vins, bières et jus de Nouvelle-Aquitaine",
+      "Farines et légumineuses"
+    ],
+    "description": "Magasin collectif de producteurs, agréé entreprise solidaire d'utilité sociale, où plus d'une centaine d'agriculteurs et d'artisans, en majorité girondins, vendent en circuit court ; un second magasin est à Camblanes-et-Meynac. À 4 km de la mairie de Bordeaux. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "telephone": "05 56 86 85 39",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=57%20Avenue%20Jean%20Jaur%C3%A8s%2C%2033150%20Cenon",
+    "image_url": "/images/marchands/coop-paysanne-cenon.jpg",
+    "a_confirmer": true
   }
 ]
