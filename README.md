@@ -12325,6 +12325,73 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 30 septembre 2026 (cent dix-huitième) : Sarthe et Marne, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée** (règle 248).
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 000 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : la passe de Mont-Saint-Aignan visait la Normandie, fermée (règle 41.c) ;
+**Sarthe (72) 3,2191**, premier département ouvert, en Pays de la Loire ; puis **Marne (51) 3,1661**, en Grand Est (règle
+364). Aucune intercommunalité de ces deux départements ne porte quatre fiches désignées : la règle 302 ne joue pas. Contrôle
+de tête de Labenne : `labenne.fr` ne répond toujours à aucun agent ; rien de neuf pour ce groupe. `git fetch` refait avant
+l'écriture : `origin/main` n'a pas bougé (règle 241). Aucune fiche publiée : le classement reste le même pour la passe
+suivante, et la dernière région visée reste la Normandie.
+
+**Sarthe : douze communes éprouvées après Sablé-sur-Sarthe, aucune zone (règles 127, 247 et 258).** Dans l'ordre de
+population :
+
+1. **Allonnes** (10 739) — la Ville publie son marché du mardi matin, place du Mail, avec ses familles de produits (page
+   modifiée le 14 mai 2025), et l'office de tourisme du Mans lui donne 7h-13h : faits entiers. Mais les mentions légales de la
+   Ville nomment les « images » dans leur interdiction (règle 231), ses deux photographies font 516 px et l'une montre la
+   permanence des élus ; l'office n'a aucune photographie propre à ce marché, et celle de la commune porte le nom d'un
+   photographe dans son nom de fichier (règle 339). Au registre bio, un GAEC maraîcher vend à la ferme, mais ses heures ne se
+   lisent que dans un guide de 2023 et sur des annuaires privés (règle 195). Rien d'entier.
+2. **La Ferté-Bernard** (8 740) — la Ville nomme les éléments « photographiques, iconographiques » dans son interdiction.
+   Le magasin Biocoop Les Iris édite son propre site (règle 395) : faits lisibles, mais ses conditions d'utilisation, communes
+   au gabarit de Grand-Quevilly, ferment les photographies. Un maraîcher bio de la commune n'est présenté, sur toutes les
+   sources trouvées, que sous le nom de son exploitante (voir les pistes). Rien d'entier.
+3. **Coulaines** (8 121) — la Ville coupe la connexion (444) à l'agent nommé et sert l'agent par défaut (règle 257). **Zéro.**
+4. **Changé** (6 911) — même refus par le nom (444) sur `ville-change.fr`. **Zéro.**
+5. **Montval-sur-Loir** (5 641) — la Ville nomme « photos, images » dans son interdiction. Un magasin bio de réseau de
+   Château-du-Loir a été repéré par recherche, non instruit : il serait seul dans la commune. **Zéro.**
+6. **Arnage** (5 445) — la Ville ne dit rien des images (sa page « Crédits » ne nomme que son prestataire), mais son marché du
+   samedi n'a aucune famille de produits écrite (« des producteurs locaux » et « des étals de différents commerces », règle
+   197) et le magasin bio de la rue des Collèges est fermé au registre (aucun établissement ouvert). **Zéro.**
+7. **Parigné-l'Évêque** (5 358) — la Ville publie son marché du vendredi, place des Trois-Puits, 15h30-20h, illustré de deux
+   photographies propres de 2026 ; mais leur texte de remplacement annonce un marché du jeudi matin, 8h-12h (règle 5), aucune
+   famille de produits n'est écrite, et les mentions légales de la Ville nomment les « images animées ou non » (règle 231).
+   Rien d'entier.
+8. **Mulsanne** (5 244) — la Ville nomme les éléments « photographiques » ; au registre, un supermarché et un éleveur inscrit
+   sous son nom. **Zéro.**
+9. **Mamers** (4 996) — la Ville nomme « les images, les photographies ». Une huilerie biologique à la ferme publie son site,
+   mais sa page d'accueil nomme son exploitant (règle 376) et aucune heure de vente à la ferme. **Zéro.**
+10. **Écommoy** (4 868) — la Ville nomme « images » ; la ferme laitière de la commune, qui vend à la ferme, n'a plus de site :
+    son domaine sert désormais un blog d'articles sans rapport (formation, licences de débit de boissons), le piège de la note
+    Santa Lucia, et l'office de la Sarthe refuse l'agent nommé. **Zéro.**
+11. **La Suze-sur-Sarthe** (4 693) — la Ville nomme les éléments « photographiques » ; au registre, des supermarchés. **Zéro.**
+12. **Laigné-Saint-Gervais** (4 252) — la Ville annonce le 11 septembre 2026 un nouveau marché du samedi matin, mais nomme les
+    éléments « photographiques » dans son interdiction ; aucun commerce bio au registre. **Zéro.**
+
+Point d'arrêt : **Laigné-Saint-Gervais** ; la commune suivante de la Sarthe est Yvré-l'Évêque (4 181 habitants, le département
+n'est pas épuisé, règle 265). Aucune commune sautée entre Sablé-sur-Sarthe et Laigné-Saint-Gervais (règle 375).
+
+**Marne, second département (règle 248) : Châlons-en-Champagne et Épernay, aucune zone.**
+
+- **Châlons-en-Champagne** (42 971) — la clause de la Ville est générale (« le contenu de ce site », sans nommer les images,
+  règle 231), mais ses crédits photographiques mêlent des photographes nommés et trois banques d'images, et sa page du marché
+  (Place Godart et Halles du Marché, mercredi, samedi et dimanche matin) n'a ni heures ni famille de produits ; l'office de
+  tourisme refuse l'agent nommé (403, règle 257). L'annuaire touristique départemental donne des heures datées de 2026
+  (mercredi et samedi 7h-13h, dimanche 7h-12h30), mais son texte ajoute un « vendredi matin » que ses propres heures ferment
+  (règle 5), ne nomme aucune famille (« halle aux comestibles ») et crédite ses deux photographies à un photographe nommé et à
+  l'office. Au registre bio, une boulangerie et une maison de champagne sous nom de famille. Rien d'entier.
+- **Épernay** (22 174) — la Ville nomme les « représentations iconographiques et photographiques » dans son interdiction et ne
+  publie aucune page de marché (seulement la fiche d'une association d'usagers du marché) ; les opérateurs bio qui vendent aux
+  particuliers sont presque tous des maisons de champagne sous nom de famille ou sous un prénom (voir les pistes). **Zéro.**
+
+Point d'arrêt : **Épernay** ; la commune suivante de la Marne est Vitry-le-François (10 996 habitants).
+
+**Écartées pour doute sur une personne** (non rouvrables, une ligne anonyme chacune dans les pistes) : deux groupes, à
+La Ferté-Bernard et à Épernay.
+
 ### Passe du 29 septembre 2026 (cent dix-septième) : Mont-Saint-Aignan et Métropole Rouen Normandie (Seine-Maritime), quatre fiches ; règles 394 et 395
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
@@ -26930,7 +26997,7 @@ Passe du 29 septembre 2026 (cent quinzième), premier département. Faits vérif
 
 Point d'arrêt : **Morières-lès-Avignon** ; la commune suivante du Vaucluse est Entraigues-sur-la-Sorgue (règle 247).
 
-### Pistes non publiées dans la Sarthe (La Flèche, Sablé-sur-Sarthe)
+### Pistes non publiées dans la Sarthe (La Flèche, Sablé-sur-Sarthe, Allonnes à Laigné-Saint-Gervais)
 
 Passe du 29 septembre 2026 (cent quinzième), second département (règle 248) :
 
@@ -26943,6 +27010,36 @@ Passe du 29 septembre 2026 (cent quinzième), second département (règle 248) :
   seul, jamais repris.
 
 Point d'arrêt : **Sablé-sur-Sarthe** ; la commune suivante de la Sarthe est Allonnes (règle 247).
+
+Passe du 30 septembre 2026 (cent dix-huitième), département de tête :
+
+- **Marché d'Allonnes** (place du Mail, mardi matin, 7h-13h selon l'office ; fruits, légumes, viandes, poissons, fromages,
+  produits bio selon la Ville) — faits entiers. **Déblocage** : une photographie permise du marché ou de la commune ; la Ville
+  nomme les images dans son interdiction, et l'office n'en publie aucune qui soit propre au marché sans nom de photographe.
+- **GAEC maraîcher bio de Champfaillis** (Allonnes) — vente à la ferme le samedi matin selon un guide de 2023. **Déblocage** :
+  des heures publiées dans l'année par la ferme ou par une autorité (règle 195).
+- **Biocoop Les Iris** (La Ferté-Bernard) — faits lisibles sur le site du magasin (règle 395), photographies fermées par ses
+  conditions d'utilisation. **Déblocage** : une image permise de la commune, qui n'en a aucune (Ville fermée).
+- **Marché du vendredi de Parigné-l'Évêque** (place des Trois-Puits) — la page de la Ville et le texte de ses photographies se
+  contredisent (vendredi 15h30-20h ou jeudi 8h-12h). **Déblocage** : une seconde source qui tranche, une famille de produits
+  écrite (règle 197) et une image permise.
+- **La Ferté-Bernard, maraîcher bio** : toutes les sources le présentent sous le nom de son exploitante. Écarté pour doute
+  sur une personne, non rouvrable.
+
+Point d'arrêt : **Laigné-Saint-Gervais** ; la commune suivante de la Sarthe est Yvré-l'Évêque (règle 247).
+
+### Pistes non publiées dans la Marne (Châlons-en-Champagne, Épernay)
+
+Passe du 30 septembre 2026 (cent dix-huitième), second département (règle 248) :
+
+- **Marché de Châlons-en-Champagne** (Place Godart et Halles du Marché, mercredi et samedi 7h-13h, dimanche 7h-12h30 selon
+  l'annuaire touristique départemental de 2026) — jours concordants avec la Ville. **Déblocage** : une famille de produits
+  écrite par une source lisible (règle 197), le « vendredi matin » tranché (règle 5), et une photographie sans nom de
+  photographe ni origine de banque d'images.
+- **Épernay, maisons de champagne certifiées bio** : enseignes faites d'un nom de famille ou d'un prénom. Écartées pour doute
+  sur une personne, non rouvrables.
+
+Point d'arrêt : **Épernay** ; la commune suivante de la Marne est Vitry-le-François (règle 247).
 
 ### Pistes non publiées dans le Vaucluse (Entraigues-sur-la-Sorgue, Le Thor, Courthézon)
 
