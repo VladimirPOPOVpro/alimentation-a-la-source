@@ -26443,5 +26443,118 @@
     "image_url": "/images/marchands/clos-du-mont-olivet-chateauneuf-du-pape.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos%20du%20Mont-Olivet%2C%203%20Chemin%20du%20Bois%20de%20la%20Ville%2C%2084230%20Ch%C3%A2teauneuf-du-Pape"
+  },
+  {
+    "slug": "ferme-saint-aignan-mont-saint-aignan",
+    "nom": "Ferme Saint Aignan",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.479774,
+    "lon": 1.099341,
+    "adresse": "3 chemin des Bouillons, 76130 Mont-Saint-Aignan",
+    "horaires": "Marché à la ferme le mercredi de 15h à 18h30 et le samedi de 8h30 à 12h30 ; distributeur automatique à l'entrée de la ferme ouvert tous les jours, 24h/24 (site de la ferme).",
+    "produits": [
+      "Légumes bio de la ferme",
+      "Salades",
+      "Œufs de poules plein air",
+      "Jus de pomme",
+      "Cidre et farine de producteurs normands",
+      "Fruits, champignons et fromages de producteurs partenaires"
+    ],
+    "description": "Ferme maraîchère et pédagogique aux portes de Rouen, qui vend toute sa production sur place depuis 2017 ; légumes certifiés en agriculture biologique depuis 2018 (Bureau Veritas, au registre de l'Agence Bio), 250 poules pondeuses et une vingtaine de producteurs normands partenaires. Le point est celui que la ferme publie elle-même sur son site, la Base Adresse Nationale ne connaissant pas le chemin des Bouillons. À 2,6 km de la mairie de Mont-Saint-Aignan. Photo : site de la ferme (fermesaintaignan.fr), vue aérienne des serres et des parcelles.",
+    "site_web": "https://www.fermesaintaignan.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20Saint%20Aignan%2C%203%20chemin%20des%20Bouillons%2C%2076130%20Mont-Saint-Aignan",
+    "image_url": "/images/marchands/ferme-saint-aignan-mont-saint-aignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-producteur-local-mont-saint-aignan",
+    "nom": "Le Producteur Local — Mont-Saint-Aignan",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.46779,
+    "lon": 1.068207,
+    "adresse": "51 rue de la Croix Vaubois, 76130 Mont-Saint-Aignan",
+    "horaires": "Du mardi au samedi de 9h30 à 19h sans interruption (page contact du site du magasin). Retrait des commandes du drive au magasin.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes et charcuteries",
+      "Volailles et œufs",
+      "Produits laitiers",
+      "Épicerie salée et sucrée",
+      "Boissons avec et sans alcool",
+      "Produits bio"
+    ],
+    "description": "Magasin de la coopérative Le Producteur Local, société coopérative d'intérêt collectif qui ne prend aucune marge : les producteurs associés fixent leurs prix et en touchent l'intégralité, et les produits frais viennent de moins de 80 km. À 1,2 km de la mairie de Mont-Saint-Aignan. Photo : semis de salades publiés par la Ferme Saint Aignan, de la même commune — elle ne montre pas le magasin, dont le site interdit la reprise des photographies.",
+    "telephone": "09 73 48 91 02",
+    "site_web": "https://montsaintaignan.leproducteurlocal.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Producteur%20Local%2C%2051%20rue%20de%20la%20Croix%20Vaubois%2C%2076130%20Mont-Saint-Aignan",
+    "image_url": "/images/marchands/le-producteur-local-mont-saint-aignan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-planete-bio-bois-guillaume",
+    "nom": "Biocoop Planète Bio Bois-Guillaume",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.474124,
+    "lon": 1.10978,
+    "adresse": "45 rue Georges de Buffon, 76230 Bois-Guillaume",
+    "horaires": "Du lundi au samedi de 9h30 à 19h, fermé le dimanche (site du magasin). L'annuaire des commerces de la Ville de Bois-Guillaume donne d'autres heures (lundi 14h-19h, du mardi au jeudi 10h-13h et 14h-19h, vendredi et samedi 10h-19h30, dimanche 10h-13h) : se renseigner avant de venir.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Vrac",
+      "Boulangerie",
+      "Fromagerie",
+      "Charcuterie",
+      "Produits de fermes normandes"
+    ],
+    "description": "Magasin bio de réseau ouvert en 2005 sur les hauteurs de Rouen, avenue de l'Europe, qui publie sur son propre site la liste de ses producteurs normands (maraîchage, vergers, champignons). Certificat Ecocert en cours au registre de l'Agence Bio (engagement du 18 janvier 2006). À 2,7 km de la mairie de Mont-Saint-Aignan. Photo thématique : la mare du parcours pédagogique « de mares en verger », publiée par la Ville de Bois-Guillaume (ville-bois-guillaume.fr) — elle ne montre pas le magasin, dont le site interdit la reprise des photographies.",
+    "telephone": "02 32 80 35 12",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Plan%C3%A8te%20Bio%2C%2045%20rue%20Georges%20de%20Buffon%2C%2076230%20Bois-Guillaume",
+    "image_url": "/images/marchands/biocoop-planete-bio-bois-guillaume.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-grand-quevilly",
+    "nom": "Biocoop Grand-Quevilly",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.418694,
+    "lon": 1.044472,
+    "adresse": "6 rue Antoine Laurent de Lavoisier, 76120 Le Grand-Quevilly",
+    "horaires": "Du lundi au jeudi de 9h30 à 19h, vendredi et samedi de 9h30 à 19h30, fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Vrac",
+      "Boulangerie",
+      "Fromagerie",
+      "Charcuterie",
+      "Bières et cidres normands",
+      "Miel"
+    ],
+    "description": "Magasin bio ouvert en novembre 2018 dans la zone commerciale du Bois Cany, sur la rive gauche de Rouen ; la société, inscrite dans l'économie sociale et solidaire, publie sur son site la liste de ses producteurs locaux (brasseries et cidrerie de Seine-Maritime, fermes du pays de Caux et du pays de Bray). Certificat Ecocert en cours au registre de l'Agence Bio (engagement du 16 octobre 2018). Le point est celui de la Base Adresse Nationale, le registre des entreprises le plaçant dans une rue voisine. À 5,3 km de la mairie de Mont-Saint-Aignan. Photo thématique : arbres taillés d'un espace vert de la commune, publiés par la Ville de Grand Quevilly (grandquevilly.fr, page « La charte de l'arbre prend racine ! ») — elle ne montre pas le magasin, dont le site interdit la reprise des photographies.",
+    "telephone": "02 78 77 57 10",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Grand-Quevilly%2C%206%20rue%20Antoine%20Lavoisier%2C%2076120%20Le%20Grand-Quevilly",
+    "image_url": "/images/marchands/biocoop-grand-quevilly.jpg",
+    "a_confirmer": true
   }
 ]

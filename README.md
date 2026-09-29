@@ -4850,9 +4850,37 @@ prioritaires en cas de conflit.
      application : les foudres du chai de Beaurenard et les grappes prêtées au Clos du Mont-Olivet (règle 312), deux fichiers sans
      aucun champ de ce type ; un fichier de la même photothèque portant un « Copyright » au nom d'un photographe a été écarté.
 
+394. **Une permission de la règle 309 qui exige la date de publication ne se remplit pas quand le site ne date pas ses pages :
+     ses photographies restent fermées.** Le 29 septembre 2026 (cent dix-septième passe), la Ville de Petit-Quevilly sert le
+     gabarit de Meudon et de Vanves : toute reproduction est « en principe conditionnée à l'accord » de la Ville, puis la
+     réutilisation non commerciale est autorisée à condition « d'en préciser l'origine et la date de publication ». Aucune de ses
+     pages ne porte de date, et son plan du site donne à toutes le même `lastmod`, à la même seconde — une date régénérée, non une
+     date de contenu (règle 338). **Tranché ainsi** : la citation que la règle 309 écrit dans la fiche comprend la date de la page ;
+     sans date lisible, la condition ne se remplit pas honnêtement, et une date de consultation ne la remplace pas. Les
+     photographies de la Ville restent fermées tant que la page qui les porte n'a pas de date à elle ; les faits, eux, restent
+     publiables. Première application : le marché de la place du 8-Mai, faits entiers (page de la Ville et arrêté des marchés),
+     attend en pistes. **Déblocage** : une page datée de la Ville, ou une autre image permise de la commune.
+
+395. **Le site d'un magasin de réseau que la société locale édite elle-même se lit pour lui-même, hors de la règle 326 ; ses
+     conditions d'utilisation, qui nomment les photographies, les ferment.** Les magasins Biocoop de Grand-Quevilly, de
+     Bois-Guillaume et de la rue Jeanne-d'Arc à Rouen ont chacun leur domaine, servi par un même prestataire. Leurs mentions
+     légales désignent pour éditeur la société locale, « entité juridique distincte » de la coopérative dont le domaine est fermé
+     (règle 149), et leur `robots.txt` ne nomme aucun agent d'IA. La règle 326 ferme un site boutique qu'exploite une société dont
+     le propre domaine interdit le robot : ce n'est pas le cas. **Tranché ainsi** : ces sites sont des sources pour les horaires, le
+     téléphone et la liste de producteurs locaux que le magasin publie pour lui seul (règle 276) ; leurs conditions générales
+     d'utilisation, communes au gabarit, rangent nommément « les photographies, les images fixes ou animées » parmi ce dont elles
+     interdisent la reproduction (règle 245), et l'image vient donc d'ailleurs (règles 1 et 312). Aucun lien n'est publié : la
+     page de présentation nomme le responsable du magasin, et la page d'accueil affiche en vignettes des producteurs locaux dont
+     certains sont désignés par un nom de personne (règles 376 et 377) ; les faits se citent comme venant du « site du magasin ».
+
 ## Marchands à confirmer
 
-884 fiches sur 996 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+888 fiches sur 1000 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Ferme Saint Aignan** et **Le Producteur Local — Mont-Saint-Aignan** (Mont-Saint-Aignan), **Biocoop Planète Bio
+  Bois-Guillaume** (Bois-Guillaume) et **Biocoop Grand-Quevilly** (Le Grand-Quevilly) (passe du 29 septembre 2026, cent
+  dix-septième, règles 312, 320 et 395) : le point de la ferme est celui qu'elle publie elle-même, la Base Adresse Nationale ne
+  connaissant pas le chemin des Bouillons ; les heures du magasin de Bois-Guillaume divergent entre son site et l'annuaire de la
+  Ville (règle 5) ; trois des quatre fiches portent une photographie thématique qui ne montre pas le lieu.
 - **Domaine de la Janasse** et **FATCH Brasserie Artisanale** (Courthézon), **Domaine de Beaurenard** et **Clos du
   Mont-Olivet** (Châteauneuf-du-Pape) (passe du 29 septembre 2026, cent seizième, règles 312, 320 et 393) : les heures de la
   brasserie ne viennent que de l'agence départementale ; celles de Beaurenard divergent entre le domaine et l'agence (règle 5) ;
@@ -12296,6 +12324,67 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent dix-septième) : Mont-Saint-Aignan et Métropole Rouen Normandie (Seine-Maritime), quatre fiches ; règles 394 et 395
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 996 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : la passe de Courthézon visait la Provence-Alpes-Côte d'Azur, fermée (règle
+41.c) ; **Seine-Maritime (76) 3,2142**, premier département ouvert, en Normandie ; puis Sarthe 3,1863. Aucune intercommunalité du
+76 ne porte quatre fiches désignées : la règle 302 ne joue pas. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé
+(règle 241). **Après la passe**, sur 1 000 fiches : Seine-Maritime −0,7127 ; la prochaine passe ne peut pas viser la Normandie.
+
+**Descente de la Seine-Maritime (règles 41.d et 127)**, communes sans fiche par population :
+
+1. **Dieppe** (28 496) — le site de la Ville a servi une page, puis refusé toute connexion pendant la passe (règle 297) ; l'office
+   de tourisme refuse l'agent nommé (403, règle 257) et le domaine annoncé de l'agglomération est un domaine parqué. Une seule
+   fiche possible, la boulangerie bio de la place Louis-Vitet (voir les pistes) : pas de zone (règle 127).
+2. **Le Grand-Quevilly** (25 789) — la Ville publie ses trois marchés sans heures ni familles (règle 197) ; l'AMAP n'a pas de
+   source datée (règle 195). Une fiche entière, le magasin Biocoop (règle 395, photographie thématique de la Ville, dont les
+   mentions ne portent qu'une ligne de crédits, règle 306) : pas de zone.
+3. **Le Petit-Quevilly** (22 208) — le marché de la place du 8-Mai a ses faits entiers, mais la condition de reprise des images
+   de la Ville ne se remplit pas (règle 394). Rien d'entier.
+4. **Mont-Saint-Aignan** (20 165) — le site de la Ville n'ouvre aucune connexion (règle 237) ; **deux fiches entières** (règle
+   127) : la **Ferme Saint Aignan** (vente à la ferme le mercredi et le samedi, distributeur 24h/24, légumes certifiés bio,
+   photographie aérienne publiée par la ferme, dont le site n'a ni clause ni `robots.txt`) et **Le Producteur Local**, magasin
+   coopératif de la rue de la Croix-Vaubois (heures et fixe publiés par le magasin, société active ; mentions légales qui ferment
+   les « représentations photographiques », d'où des semis de salades publiés par la Ferme Saint Aignan, fichier distinct, règles
+   312 et 332). Le complément dans la Métropole a d'abord échoué : les marchés de Déville-lès-Rouen et de Maromme, ceux de l'île
+   Lacroix et des Saveurs à Rouen et le Biocoop de la rue Jeanne-d'Arc ont leurs faits, mais leurs Villes ou leur site ferment les
+   images, et les photographies de la Métropole portent le nom du photographe dans leur nom de fichier (règle 339) ou une réserve
+   dans leurs métadonnées (règle 393). La descente a donc continué :
+5. **Fécamp** (17 313) — le marché du samedi a ses faits (Ville et agglomération), mais la seule image de la page de la Ville est
+   une image de banque où se lisent des marques étrangères (règle 360) ; l'office refuse l'agent nommé. Rien d'entier.
+6. **Montivilliers** (15 478) — marché du jeudi aux faits entiers ; les mentions légales nomment les images. Rien d'entier.
+7. **Elbeuf** (15 474) — la page des commerçants ne donne pas les heures des deux marchés ; images fermées. Rien d'entier.
+8. **Bois-Guillaume** (14 539) — ses marchés n'ont ni heures ni familles propres (règle 329), mais ses mentions légales ne disent
+   rien des images (règle 231) : le **Biocoop Planète Bio** (règle 395) y prend une photographie thématique de la Ville, la mare du
+   parcours pédagogique « de mares en verger ».
+
+**Zone publiée (règles 96, 127, 295 et 320)** : Mont-Saint-Aignan fait la passe avec ses deux fiches entières, complétées dans
+Métropole Rouen Normandie (même EPCI au référentiel, règle 219) par les deux magasins Biocoop trouvés dans la descente. Distances
+depuis la mairie de Mont-Saint-Aignan, 59 rue Louis-Pasteur (point de l'annuaire de l'administration, règle 363) : Le Producteur
+Local 1,2 km, Ferme Saint Aignan 2,6 km, Biocoop de Bois-Guillaume 2,7 km, Biocoop de Grand-Quevilly 5,3 km. **Quatre points**,
+publiés au titre de la règle 320 ; deux fiches Biocoop sur quatre (règle 334). Le cinquième manque : le marché de la place du
+8-Mai à Petit-Quevilly (règle 394) et les compléments cités au point 4 n'ont aucune image permise. **Déblocage** : une image
+permise pour l'un d'eux, ou un autre point illustrable de la Métropole à moins de quinze kilomètres de la mairie de
+Mont-Saint-Aignan.
+
+**Points et adresses.** Ferme Saint Aignan : la Base Adresse Nationale ne connaît que l'impasse des Bouillons ; le point est celui
+que la ferme publie sur son propre site (règle 63), à 25 m de celui du registre. Le Producteur Local : numéro connu de la Base.
+Biocoop de Bois-Guillaume : le magasin publie le 45 rue Georges-de-Buffon, que la Base connaît au numéro ; le registre donne le 45
+passage de Buffon, à 95 m (règle 98). Biocoop de Grand-Quevilly : point de la Base au numéro, le point du registre retombant rue
+Paul-Vaillant-Couturier (règle 24).
+
+**Contradictions.** Biocoop de Bois-Guillaume : du lundi au samedi 9h30-19h selon le site du magasin, d'autres heures (dont un
+dimanche matin) selon l'annuaire des commerces de la Ville ; les deux sont écrites, celles du magasin en tête (règle 5). Fécamp
+(non publié) : fin du marché à 13h pour la Ville, à 14h pour l'agglomération.
+
+**Images.** Toutes réencodées depuis leurs seuls pixels (règle 235), aucune au-delà de 1 280 px, aucune agrandie ; aucune ne porte
+de visage ni d'enseigne (le massif de Grand-Quevilly est recadré hors des façades commerçantes).
+
+**Écartées pour doute sur une personne** (non rouvrables, une ligne anonyme chacune dans les pistes) : deux, à Bois-Guillaume et à
+Montivilliers.
 
 ### Passe du 29 septembre 2026 (cent seizième) : Courthézon et Châteauneuf-du-Pape (Vaucluse), quatre fiches ; règle 393
 
@@ -26955,6 +27044,51 @@ doublait l'exploration libre, alourdissait le panneau, et sur téléphone son
 champ d'adresse arrivait en premier sous la carte, si bien que les visiteurs y
 tapaient un produit et n'obtenaient que des rues d'autres départements. L'API
 `?lat&lon&radius` reste en place, elle n'est simplement plus appelée par la page.
+
+### Pistes non publiées en Seine-Maritime (de Dieppe à Bois-Guillaume)
+
+Passe du 29 septembre 2026 (cent dix-septième), première descente du 76 depuis celle de Saint-Étienne-du-Rouvray :
+
+- **Dieppe, boulangerie bio Aux Pains Populaires** (21-23 place Louis-Vitet) — société active, pains au levain bio, ouverte du
+  mercredi au vendredi de 10h à 18h30 et le samedi de 8h30 à 13h selon son site. Le lien ne se publie pas (sa page d'accueil nomme
+  une personne, règle 377). Seule fiche possible à Dieppe. **Déblocage** : une seconde fiche entière dans la commune ; le site de
+  la Ville, muet pour cette passe, se réessaie en tête de la prochaine descente du 76 (règle 297).
+- **Dieppe, magasin de producteurs du centre** — établissement fermé au registre des entreprises : ne se publie pas.
+- **Le Grand-Quevilly, marchés** (mardi et vendredi matin place du Québec, samedi matin place Eugène-Delacroix) — ni heures ni
+  familles publiées (règle 197). **AMAP** (hall de l'ancienne école du Bourg, un mardi sur deux) : aucune source datée (règle 195).
+- **Le Petit-Quevilly, marché de la place du 8-Mai** (jeudi et dimanche, 8h-13h ; alimentaire, fruits et légumes, bazar et
+  textile) — page de la Ville et arrêté des marchés de 2016. **Déblocage** : règle 394. La photographie d'en-tête de la page des
+  marchés n'est pas retenue : la Ville crédite aussi une banque d'images, et rien ne la rattache à ce marché.
+- **Mont-Saint-Aignan, marchés** — seule la Ville les publie, et son site n'ouvre aucune connexion (règle 237).
+- **Déville-lès-Rouen, marché du dimanche** (7h-12h, devant le gymnase Guynemer ; agriculteurs, poissonnier, fromager, boucher) et
+  **Maromme, marché du mercredi** (8h-14h, parking du parc Signa ; poissonnier, primeur, fromager) — faits entiers, images fermées
+  par les mentions légales des deux Villes. **Déblocage** : une image permise ; points recevables pour le groupe de
+  Mont-Saint-Aignan.
+- **Rouen, marché de l'île Lacroix** (mercredi et samedi, 8h-12h30, avenue Jacques-Chastellain ; fruits, légumes, fleurs) et
+  **marché des Saveurs** (samedi 9h-18h, rue Eugène-Boudin ; fromagerie, boulangerie, charcuterie, pommes) — faits de la Ville,
+  dont les conditions d'utilisation nomment les images. Les autres marchés rouennais non publiés (Boulingrin, Châtelet,
+  Saint-Clément, Lelieur, Emmurées, Grand-Mare) n'ont que « toutes catégories » ou « alimentaire » (règles 197 et 329).
+- **Rouen, Biocoop de la rue Jeanne-d'Arc** — faits entiers sur son site (règle 395), images fermées. **Déblocage** : une
+  photographie thématique permise de Rouen (règle 312).
+- **Isneauville, magasin de producteurs de la route de Neufchâtel** — cité par la Métropole comme le seul magasin de producteurs
+  du territoire, mais ses heures ne se lisent que dans des annuaires tiers ; l'annuaire régional des produits normands refuse tout
+  agent (403). **Déblocage** : des heures publiées par le magasin ou une autorité.
+- **Déville-lès-Rouen, champignonnière bio** — aucun point de vente à heures publiées.
+- **Fécamp, marché du samedi** (place Bellet ; 8h30-14h pour l'agglomération, « jusqu'à 13 heures » pour la Ville ; fruits et
+  légumes, volailles rôties, charcuterie, poissonnerie, fromages de ferme) — seule image : une image de banque (règle 360).
+  **Déblocage** : une photographie permise du marché ou de la commune.
+- **Montivilliers, marché du jeudi** (8h30-12h30, place François-Mitterrand et rues voisines) — images fermées. La coopérative
+  maraîchère de la route de la Fontaine-Mallet ne publie toujours aucune vente au particulier.
+- **Elbeuf, marchés** — pas d'heures sur la page de la Ville ; images fermées.
+- **Bois-Guillaume, marchés** (vendredi Cœur de ville, dimanche Portes de la Forêt) — ni heures ni familles propres (règle 329).
+  **AMAP** à la ferme du Clos Herbeux : dernière saison publiée d'octobre 2024 à janvier 2025 (règle 195).
+- Bois-Guillaume, ferme en vente par casiers : enseigne qui peut être un nom de famille — doute sur une personne, non publiée, ne
+  se rouvre pas.
+- Montivilliers, épicerie de vrac : enseigne bâtie sur ce qui ressemble à un prénom — doute sur une personne, non publiée, ne se
+  rouvre pas.
+
+Point d'arrêt : **Elbeuf**. La prochaine descente du 76 réessaie d'abord Dieppe (règle 297), puis reprend à **Canteleu** (14 402
+habitants), Bois-Guillaume ayant désormais une fiche.
 
 ### Le point important : la taille de la base n'entre pas dans l'équation
 
