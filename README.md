@@ -4725,9 +4725,38 @@ prioritaires en cas de conflit.
      Des jours sans date, ou des heures sans jour, ne suffisent pas : la règle 192 reste entière. **Déblocage** des heures :
      une publication de l'exploitant ou de l'office qui les donne.
 
+385. **Quand le point que l'annuaire de l'administration donne à une mairie contredit sa propre adresse, les quinze kilomètres
+     de la règle 363 se mesurent depuis cette adresse, géocodée par la Base Adresse Nationale.** À Étampes, l'annuaire
+     `api-lannuaire.service-public.fr` publie pour la mairie l'adresse du 12 carrefour des Religieuses, mais des coordonnées
+     (48,5527 / 2,1628) qui tombent à plus de treize kilomètres au nord, hors de la commune ; la Base connaît ce numéro à
+     0,96, en centre-ville. La règle 363 retient « le point que publie l'annuaire » parce qu'il est un lieu de ville et un
+     point d'autorité ; un point qui sort de la commune n'est ni l'un ni l'autre. **Tranché ainsi** : l'adresse de l'annuaire
+     fait foi, la Base la situe, et c'est de ce point que partent les distances ; le README écrit l'écart. Si la Base ne
+     connaît pas non plus l'adresse, on retombe sur le siège de la commune au registre des entreprises. Première application :
+     la passe d'Étampes, où l'écart ne change rien (les fermes de Guillerval sont à 8,0 et 8,5 km de ce point, à 8,7 et 9,2 km
+     de l'hôtel de ville, siège de la commune au registre).
+
+386. **Un exposant qui annonce lui-même, sur son propre site, sa présence à un marché nommé remplit la règle 197 pour ce
+     marché, dans les conditions de la règle 97.** La Ville d'Étampes publie ses deux marchés avec jour, lieu et heures, puis
+     une seule liste de familles pour les deux (« produits alimentaires, fleurs, habillement… ») : la règle 329 l'écarte. Mais
+     deux producteurs bio, un chantier d'insertion maraîcher d'Étampes et une ferme céréalière de Guillerval, écrivent sur leur
+     page d'accueil qu'ils vendent au marché Saint-Gilles le mardi et place Notre-Dame le samedi, et la Ville elle-même signale
+     le premier au marché Saint-Gilles. La règle 97 admet déjà la liste de produits d'un annuaire de chambre d'agriculture à
+     condition de nommer le producteur ; la source de l'exposant lui-même est plus proche du fait. **Tranché ainsi** : la
+     famille de produits que publie un exposant nommé par son enseigne, pour un marché qu'il désigne par son jour et son lieu,
+     entre dans `produits` avec le nom de l'exposant entre parenthèses, et la description dit que ce n'est pas l'inventaire du
+     marché ; les heures restent celles de la commune (règle 176), celles de l'exposant sont citées comme les siennes. Un
+     exposant qui ne dit que « sur les marchés de la région », sans jour ni lieu, ne compte pas.
+
 ## Marchands à confirmer
 
-844 fiches sur 953 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+848 fiches sur 958 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville d'Étampes**, **Marché Saint-Gilles** (Étampes), **La ferme des Hirondelles** et **Jardins de la
+  Marette** (Guillerval) (passe du 29 septembre 2026, cent sixième, règles 96, 127, 385 et 386) : photographies thématiques CC0
+  ou du domaine public (règle 371) ; aux deux marchés, les heures viennent d'une seule page municipale (décembre 2025) et les
+  produits de deux exposants qui annoncent leur présence, avec leurs propres heures (7h30-13h le samedi, 8h-12h30 le mardi) ;
+  aux Jardins de la Marette, la sente de Saint-Gervais est inconnue de la Base : le point est le marqueur que publie la ferme,
+  à 90 m du 43 place de l'Église et à 240 m de la mairie, que sa page contact dit « en face ».
 - **Marché de Louviers**, **Biocoop Louviers**, **Les Maraîchers Bio des Hauts Prés** (Val-de-Reuil) et **Ferme fruitière du
   Mesnil-Jourdain** (passe du 29 septembre 2026, cent cinquième, règles 248, 320 et 384) : photographies thématiques CC0 ou du
   domaine public (règle 371) ; au marché, les heures viennent d'une page municipale non datée (l'office confirme les deux
@@ -12120,6 +12149,92 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent sixième) : Étampes et l'Agglomération de l'Étampois Sud-Essonne, cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 953 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Essonne (91) 3,4992**, premier département ouvert, en Île-de-France ;
+la passe précédente visait la Normandie (règle 41.c). Règle 302 : aucune fiche désignée pour la reprise dans l'Essonne ; elle ne
+joue pas. `origin/main` n'a pas bougé pendant la passe (règle 241).
+
+**Communes rouvertes d'abord (règles 375 et 381).** La passe d'Athis-Mons (23 septembre) avait laissé Massy et Palaiseau avec
+des déblocages d'image, que la règle 371 remplit désormais. **Massy** : `massy.fr` n'est pas le site de la Ville mais un
+annuaire privé (règle 327) ; `ville-massy.fr` coupe toujours la connexion pour l'agent nommé (règle 257), les quatre marchés
+restent sous la règle 196 ; l'AMAP Massy Manger Bio est vivante (liste des contrats d'avril 2026, recettes de septembre 2026)
+mais ses deux lieux de distribution ne se pointent pas, et le site de l'agglomération qui la fiche refuse l'agent nommé ; les
+deux magasins de réseau n'ont pas de liste de producteurs à eux (règle 273). **Palaiseau** : la page des marchés de la Ville
+ne donne qu'une « offre mixte » pour les deux marchés, et le règlement des marchés de juin 2026 (document numérisé, relu par
+reconnaissance de caractères) ne distingue que l'alimentaire du non-alimentaire (règle 197). **Savigny-sur-Orge** : 444 à
+l'agent nommé, toujours (règle 257). Aucune fiche entière.
+
+**Descente reprise après Athis-Mons (règles 41.d et 127)**, contrôle à deux agents avant toute lecture :
+
+- **Sainte-Geneviève-des-Bois** (35 438) — marché de la Gare (samedi 8h-12h30) et du Donjon (vendredi 14h-19h, dimanche
+  8h-13h) sans aucune composition (règle 197) ; le registre bio n'y rend qu'un service de paniers livrés, sans point de vente.
+  **Zéro.**
+- **Vigneux-sur-Seine** (31 466) — le marché de la Patte d'Oie est transféré place du 14-Juillet (délibération de novembre
+  2025), sans jour, heure ni composition publiés. **Zéro.**
+- **Ris-Orangis** (31 189) — `mairie-ris-orangis.fr` sert l'agent nommé ; aucune page de marché ni commerce en circuit court
+  (la ferme de la commune reste sous le déblocage écrit à Corbeil-Essonnes). **Zéro.**
+- **Viry-Châtillon** (30 838) — la page du marché donne la composition mais aucun jour, et nomme ses exposants un à un
+  (règle 383 : elle ne serait pas mise en lien). **Zéro.**
+- **Draveil** (30 098) — aucune page de marché sur le site de la Ville ; une ferme maraîchère bio isolée ne fait pas deux
+  fiches. **Zéro.**
+- **Yerres** (27 906) — deux marchés avec jours et heures, sans composition (règle 197). **Zéro.**
+- **Étampes** (26 857), septième de la descente, fait la passe : **trois fiches entières dans la commune** et deux dans
+  l'Agglomération de l'Étampois Sud-Essonne (champ `epci` 200017846 pour les deux communes), à moins de quinze kilomètres de la
+  mairie (règles 96 et 385).
+
+**Contrôle à deux agents** (règle 257) : `mairie-etampes.fr`, `lpdt91.fr`, `lafermedeshirondelles.fr` et
+`jardinsdelamarette.com` répondent 200 aux deux agents, aucun `robots.txt` n'y nomme d'agent d'IA. Le site de l'AMAP d'Étampes
+répond 200 à l'agent par défaut et coupe la connexion à `ClaudeBot`, à `GPTBot` et à un robot au nom inconnu : il n'est pas
+consulté. Le CDN qui sert les images de la ferme des Hirondelles écrit `Disallow: /` pour tous (règle 238).
+
+1. **Marché du centre-ville d'Étampes** (0,96 km de la mairie) — page « Les commerces et artisans » de la Ville (modifiée le
+   3 décembre 2025) : samedi 8h30-18h, place Notre-Dame, place de l'Hôtel-de-Ville, place de l'Ancienne-Comédie et rue
+   Sainte-Croix ; rappel du 19 août 2026 sur le stationnement place Notre-Dame pour l'installation du marché du samedi (deux
+   endroits du site, règle 178). La liste de familles de la page vaut pour les deux marchés (règle 329) : les produits viennent
+   de deux exposants qui annoncent leur présence (règle 386, nouvelle). Point : « Place Notre Dame » à la Base (0,97).
+2. **Marché Saint-Gilles** (0,21 km) — même page : mardi 8h-13h, place Saint-Gilles, où la Ville signale le chantier
+   d'insertion ; produits de la même façon (règle 386). Point : la place à la Base (0,97).
+3. **Les Potagers du Télégraphe** (1,6 km) — association active au registre (activité 01.13Z), certificat bio engagé au
+   registre de l'Agence Bio, vente aux particuliers déclarée ; son site donne la vente sur place le mercredi 9h-16h45, les
+   marchés d'Étampes, le fixe et l'adresse du Pôle Économie Solidaire, que la Ville cite aussi. Point : le 10 chemin du Larris
+   à la Base (0,97), à 40 m des coordonnées GPS que publie l'association. Photographie : l'étal de l'association, publiée sur son
+   site (dont les mentions légales ne contiennent aucune clause), sans personne, ramenée de 2 560 à 1 280 px.
+4. **La ferme des Hirondelles** (Guillerval, 8,0 km) — EARL active au registre à son adresse, certificat bio engagé (pain frais,
+   farines, huiles au registre de l'Agence Bio) ; boutique et marchés publiés sur la page d'accueil de la ferme, qui ne nomme
+   personne. Point : le 387 rue de l'Orme à la Base (0,94), à 30 m du point du registre. Pas de téléphone publié.
+5. **Jardins de la Marette** (Guillerval, 8,5 km) — entreprise individuelle non diffusible, rattachée par le SIRET du registre
+   de l'Agence Bio (règle 19), certificat Ecocert engagé ; vente le jeudi 16h45-19h sur la page contact et dans les annonces
+   hebdomadaires de septembre 2026 que la page d'accueil reprend. Le seul numéro publié est un portable : il n'est pas inscrit.
+   La page d'accueil affiche le nom d'un gymnase qui porte celui d'une personne : pas de `site_web` (règle 377). Point :
+   marqueur de la carte de la page contact (règle 10), faute de sente de Saint-Gervais à la Base. Les mentions légales créditent
+   les photographies du site à une banque d'images et à l'exploitant sans dire lesquelles : aucune n'est reprise.
+
+**Pourquoi ces deux-là en complément** : dans l'agglomération, la liste de producteurs de la Ville cite aussi une ferme de
+volailles de Puiselet-le-Marais, **fermée au registre**, et un jardin de Villesauvage dont l'EARL est fermée ; les autres
+producteurs de la page sont à plus de quinze kilomètres, ne vendent que sur rendez-vous ou ne publient qu'un portable ou une
+adresse électronique nominative ; les vendeurs aux particuliers que le registre bio
+recense dans le territoire (maraîchers, pépinière, élevages) n'ont pas été instruits : le groupe était complet à cinq.
+
+**Images** : la Ville d'Étampes ne publie pas de photographie de ses marchés ; quatre photographies thématiques Openverse
+(règle 371), sans visage, réencodées sans métadonnées (règle 235) : poivrons en vrac
+`https://www.flickr.com/photos/61013352@N07/15195494079` (marque du domaine public, marché du centre-ville) ; tomates en
+cagettes, une main sans visage `https://www.flickr.com/photos/41284017@N08/8426183676` (marque du domaine public, Saint-Gilles) ;
+deux pains au levain `https://www.flickr.com/photos/93936679@N05/52502517135` (CC0, Hirondelles) ; cressonnière
+`https://www.flickr.com/photos/62295966@N07/8229554051` (CC0, Marette). Écartées : un étal où un client est reconnaissable, un
+panneau publicitaire de maïs, un fichier déjà publié (règle 191).
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms d'exploitants lus au
+registre bio et dans des mentions légales, les adresses électroniques nominatives et les portables que publie la page
+municipale des producteurs, le portable des Jardins de la Marette, les noms d'exposants de la page du marché de Viry-Châtillon.
+Aucun n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 958 fiches : Essonne −1,40 ; premiers non épuisés ensuite, sous réserve de la relecture de la règle 265
+par la passe suivante : **Gironde (33) 3,4869**, Corrèze (19) 3,3459. La prochaine passe ne peut pas viser l'Île-de-France.
+**Reprise dans l'Essonne** : Grigny (26 842), huitième commune sans fiche, puis Brétigny-sur-Orge.
 
 ### Passe du 29 septembre 2026 (cent cinquième) : Louviers et l'Agglomération Seine-Eure, quatre fiches
 
@@ -25694,6 +25809,22 @@ Passe du 29 septembre 2026 (cent cinquième). La commune a fait la passe à quat
 - **Marché de Pont-de-l'Arche** (dimanche matin, 56 exposants selon l'office, 9,9 km) — la Ville ne publie que des
   délibérations sur la délégation de service public du marché dominical, sans heure ni composition, et l'office ne donne que
   le nombre d'exposants (règle 197). **Déblocage** : une page du marché ou de son délégataire.
+
+### Pistes non publiées à Étampes et dans l'Essonne
+
+Passe du 29 septembre 2026 (cent sixième). La descente a éprouvé Sainte-Geneviève-des-Bois, Vigneux-sur-Seine, Ris-Orangis,
+Viry-Châtillon, Draveil et Yerres (zéro chacune, détail dans la section de la passe) avant Étampes. Restent :
+
+- **AMAP d'Étampes** (distribution le jeudi 18h30-20h à la Maison des associations, place du Jeu-de-Paume, selon la Ville) —
+  son site refuse les agents automatiques (règle 257) et la page municipale n'est pas une source datée de la distribution
+  (règle 195). **Déblocage** : une publication de l'année qui atteste la distribution.
+- **AMAP Massy Manger Bio** (Massy) — vivante, mais distribuée en deux lieux, la halle des Graviers et le marché du
+  centre-ville, qu'aucune source consultable ne pointe (règle 166). **Déblocage** : une adresse de distribution que la Base
+  connaisse, publiée par l'AMAP.
+- **Une ferme maraîchère bio de Draveil** — vente aux particuliers au registre bio, seule candidate de sa commune ; non
+  instruite plus avant (règle 127).
+- **Brétigny-sur-Orge** — le site de la Ville répond 403 à l'agent nommé (règle 257) ; un magasin de producteurs coopératif et
+  un magasin bio de réseau y figurent au registre bio. Commune non encore éprouvée : elle le sera à son rang.
 
 ## Comment ajouter ou modifier un marchand
 

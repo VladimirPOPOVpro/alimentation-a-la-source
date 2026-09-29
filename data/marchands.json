@@ -25321,5 +25321,131 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=22%20Rue%20de%20l%27%C3%89glise%2C%2027400%20Le%20Mesnil-Jourdain",
     "image_url": "/images/marchands/ferme-fruitiere-du-mesnil-jourdain.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-etampes",
+    "nom": "Marché du centre-ville d'Étampes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.434421,
+    "lon": 2.163486,
+    "adresse": "Place Notre-Dame (et places de l'Hôtel-de-Ville et de l'Ancienne-Comédie, rue Sainte-Croix), 91150 Étampes",
+    "horaires": "Samedi de 8h30 à 18h selon la page « Les commerces et artisans » de la Ville d'Étampes (mise à jour en décembre 2025), qui rappelle en août 2026 l'interdiction de stationner place Notre-Dame dès le vendredi soir pour l'installation du marché. Un exposant, la ferme des Hirondelles, annonce sa propre présence de 7h30 à 13h.",
+    "produits": [
+      "Légumes, fruits et aromates bio (Les Potagers du Télégraphe)",
+      "Pain bio cuit au four à bois (La ferme des Hirondelles)",
+      "Farines et huiles bio de la ferme (La ferme des Hirondelles)"
+    ],
+    "description": "Grand marché hebdomadaire du samedi, étalé sur trois places et une rue du centre historique, avec une navette municipale le matin depuis le parking du PSR. Les produits cités sont ceux de deux exposants qui annoncent eux-mêmes leur présence, pas l'inventaire du marché. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Notre-Dame%20%28et%20places%20de%20l%27H%C3%B4tel-de-Ville%20et%20de%20l%27Ancienne-Com%C3%A9die%2C%20rue%20Sainte-Croix%29%2C%2091150%20%C3%89tampes",
+    "image_url": "/images/marchands/marche-du-centre-ville-etampes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-gilles-etampes",
+    "nom": "Marché Saint-Gilles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.431968,
+    "lon": 2.153793,
+    "adresse": "Place Saint-Gilles, 91150 Étampes",
+    "horaires": "Mardi de 8h à 13h selon la page « Les commerces et artisans » de la Ville d'Étampes (mise à jour en décembre 2025). Un exposant, la ferme des Hirondelles, annonce sa propre présence de 8h à 12h30.",
+    "produits": [
+      "Légumes, fruits et aromates bio (Les Potagers du Télégraphe)",
+      "Pain bio cuit au four à bois (La ferme des Hirondelles)",
+      "Farines et huiles bio de la ferme (La ferme des Hirondelles)"
+    ],
+    "description": "Marché du mardi matin du quartier Saint-Gilles, dans le centre d'Étampes ; la Ville y signale la présence du chantier d'insertion maraîcher de la commune. Les produits cités sont ceux de deux exposants qui annoncent eux-mêmes leur présence, pas l'inventaire du marché. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Gilles%2C%2091150%20%C3%89tampes",
+    "image_url": "/images/marchands/marche-saint-gilles-etampes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-potagers-du-telegraphe-etampes",
+    "nom": "Les Potagers du Télégraphe",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.445271,
+    "lon": 2.146933,
+    "adresse": "Pôle Économie Solidaire, 10 Chemin du Larris, 91150 Étampes",
+    "horaires": "Vente directe sur place le mercredi de 9h à 16h45 (site de l'association) ; l'association vend aussi aux marchés d'Étampes le mardi (place Saint-Gilles) et le samedi (place Notre-Dame), et propose des paniers de saison aux adhérents.",
+    "produits": [
+      "Tomates",
+      "Aubergines et poivrons",
+      "Courgettes et concombres",
+      "Carottes",
+      "Pommes de terre",
+      "Salades",
+      "Aromates",
+      "Œufs de plein air"
+    ],
+    "description": "Chantier d'insertion en maraîchage biologique créé en 2002, qui emploie et forme des personnes éloignées de l'emploi et vend sa production certifiée bio en direct, à 1,6 km de la mairie d'Étampes. La photographie, publiée par l'association, montre son étal.",
+    "telephone": "01 69 16 11 16",
+    "site_web": "https://www.lpdt91.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%B4le%20%C3%89conomie%20Solidaire%2C%2010%20Chemin%20du%20Larris%2C%2091150%20%C3%89tampes",
+    "image_url": "/images/marchands/les-potagers-du-telegraphe-etampes.jpg",
+    "a_confirmer": false
+  },
+  {
+    "slug": "ferme-des-hirondelles-guillerval",
+    "nom": "La ferme des Hirondelles",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.36544,
+    "lon": 2.107184,
+    "adresse": "387 Rue de l'Orme, 91690 Guillerval",
+    "horaires": "Boutique à la ferme le lundi, mardi, jeudi et vendredi de 10h à 12h30 et de 16h à 19h, le samedi de 10h à 12h30 ; fermée le mercredi et le dimanche (site de la ferme). Commandes en ligne à retirer 48 heures plus tard. Présente aussi aux marchés d'Étampes le mardi et le samedi.",
+    "produits": [
+      "Pain cuit au four à bois",
+      "Farines de blé tendre, petit épeautre, seigle et sarrasin",
+      "Huiles de colza, de tournesol et de cameline",
+      "Brioches et biscuits"
+    ],
+    "description": "Ferme céréalière du sud de l'Essonne, en agriculture biologique depuis 2018, qui transforme elle-même ses grains en farines, huiles et pains cuits dans un four à bois construit sur place, à 8 km de la mairie d'Étampes. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.lafermedeshirondelles.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=387%20Rue%20de%20l%27Orme%2C%2091690%20Guillerval",
+    "image_url": "/images/marchands/ferme-des-hirondelles-guillerval.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "jardins-de-la-marette-guillerval",
+    "nom": "Jardins de la Marette",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.362985,
+    "lon": 2.099369,
+    "adresse": "Sente de Saint-Gervais, 91690 Guillerval",
+    "horaires": "Vente au détail à la ferme le jeudi de 16h45 à 19h (site de la ferme, annonces hebdomadaires de septembre 2026) ; distribution des paniers d'AMAP le jeudi de 18h à 19h.",
+    "produits": [
+      "Légumes de saison (tomates anciennes, courges, aubergines, haricots verts)",
+      "Cresson de fontaine (de septembre à avril)",
+      "Œufs de poules Marans",
+      "Plants potagers bio (au printemps)"
+    ],
+    "description": "Petite ferme maraîchère bio sur sol vivant, cultivée sans mécanisation sur moins d'un hectare, avec une cressonnière alimentée par une source, à 8,5 km de la mairie d'Étampes. La Base Adresse Nationale ne connaît pas la sente : le point est le marqueur que publie la ferme, près de la place de l'Église. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sente%20de%20Saint-Gervais%2C%2091690%20Guillerval",
+    "image_url": "/images/marchands/jardins-de-la-marette-guillerval.jpg",
+    "a_confirmer": true
   }
 ]
