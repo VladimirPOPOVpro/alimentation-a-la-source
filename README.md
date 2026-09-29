@@ -4836,10 +4836,28 @@ prioritaires en cas de conflit.
      produits) et sur sa page des marchés, avec les heures de l'annuaire départemental De nos fermes 63 et une photographie de
      la place du Plot publiée par la Communauté d'agglomération, dont les mentions légales ne nomment pas les images (règle 231).
      Les plans nomment chaque étal par le patronyme de son exploitant : la fiche n'en reprend que les familles de produits.
+393. **Une photographie dont les métadonnées portent une réserve au nom d'un tiers est fermée, même sur un site dont la clause
+     ne ferme pas les images ; les fichiers du même site sans aucune mention restent sous le régime du site.** Le 29 septembre
+     2026 (cent seizième passe), la photothèque d'un domaine de Châteauneuf-du-Pape, dont les mentions légales ne parlent que de
+     « toute ou partie du Site » sans nommer d'image (règle 231), sert une quarantaine de fichiers : une partie porte dans ses
+     champs XMP un auteur, un « © » et, pour certains, la mention « REPRODUCTION INTERDITE SANS ACCORD ECRIT » ; d'autres portent
+     seulement un nom d'auteur ou un « Copyright » dans leur EXIF ; d'autres enfin n'en portent aucun. La règle 339 fermait le
+     fichier dont le nom crédite un photographe, la règle 303 le « © » incrusté dans l'image, la règle 341 le signe de réserve des
+     mentions légales. **Tranché ainsi** : les métadonnées sont écrites dans le fichier lui-même, comme un filigrane ; un champ
+     d'auteur, de droits ou de conditions d'usage qui désigne un tiers ferme ce fichier, et seul ce fichier. Un fichier sans aucun
+     de ces champs reste sous la clause du site (règle 339). Les métadonnées sont retirées à l'enregistrement (règle 235) et aucun
+     nom lu dans ces champs n'est écrit nulle part. Le contrôle se fait sur chaque fichier retenu, avant enregistrement. Première
+     application : les foudres du chai de Beaurenard et les grappes prêtées au Clos du Mont-Olivet (règle 312), deux fichiers sans
+     aucun champ de ce type ; un fichier de la même photothèque portant un « Copyright » au nom d'un photographe a été écarté.
 
 ## Marchands à confirmer
 
-880 fiches sur 992 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+884 fiches sur 996 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Domaine de la Janasse** et **FATCH Brasserie Artisanale** (Courthézon), **Domaine de Beaurenard** et **Clos du
+  Mont-Olivet** (Châteauneuf-du-Pape) (passe du 29 septembre 2026, cent seizième, règles 312, 320 et 393) : les heures de la
+  brasserie ne viennent que de l'agence départementale ; celles de Beaurenard divergent entre le domaine et l'agence (règle 5) ;
+  les points de Beaurenard et du Clos viennent de l'agence et du registre, la Base Adresse Nationale ne connaissant pas leurs
+  numéros ; la brasserie et le Clos portent une photographie thématique d'un autre domaine de leur commune.
 - **AMAP'onote** (Le Puy-en-Velay), **Marché du samedi du Puy-en-Velay**, **Marché du vendredi de Brives-Charensac** et
   **Marché du mercredi de Saint-Germain-Laprade** (passe du 29 septembre 2026, cent quatorzième, règles 258, 388 et 392) :
   l'AMAP est placée sur la route du Couderc, la Base ne connaissant pas l'assemblée d'Ours (règle 10), et sa photographie est
@@ -12278,6 +12296,72 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent seizième) : Courthézon et Châteauneuf-du-Pape (Vaucluse), quatre fiches ; règle 393
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 992 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Vaucluse (84) 3,2300**, premier département ouvert, en
+Provence-Alpes-Côte d'Azur. La passe précédente n'a rien publié : la dernière région visée reste l'Auvergne-Rhône-Alpes (Le Puy),
+qui est fermée (règles 41.c et 247). Aucune intercommunalité du 84 ne porte quatre fiches désignées : la règle 302 ne joue pas.
+`git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 996 fiches : Vaucluse
+−0,7369 ; la prochaine passe ne peut pas viser la Provence-Alpes-Côte d'Azur.
+
+**Déblocages de tête relus (règles 375 et 379).** *Carpentras* — le déblocage écrit était « une image permise pour AGORA ». La
+règle 312 a été examinée, ce que la cent treizième passe n'avait pas fait : le site du lycée agricole ne porte aucune clause sur
+les images et son `robots.txt` n'exclut personne (délai de trente secondes respecté), mais hors la photographie de la boutique,
+réservée à sa propre fiche (règle 191), il ne publie que des vues avec élèves ou agents reconnaissables, un montage d'images de
+banque (règle 360) et une vue de la ferme de 635 px, sous les 700 px d'une photographie thématique (règles 321 et 371). Le
+déblocage n'est pas rempli ; Carpentras ne se rouvre pas. Au passage, les conditions générales de vente de la cave de Saint-Marc
+Canteperdrix (Mazan), que la cent treizième passe lisait ouvertes, nomment en leur article 16 les « photographies » contenues sur le
+site et en interdisent « toute reproduction » : la cave est fermée comme source d'image (règles 231 et 245) ; la section de pistes
+est corrigée. La plateforme municipale de vente en ligne des commerces de Carpentras interdit dans ses conditions d'utilisation
+« l'exploration de données, des robots » : elle n'est pas une source (règle 333), et l'adresse qu'elle donne à la brasserie (rue de
+la Chapellerie) est celle d'un établissement fermé au registre ; seule celle du registre et de l'agence départementale tient.
+
+**Descente du Vaucluse, reprise après Morières-lès-Avignon (règle 247) : trois communes, la troisième fait la zone.**
+
+1. **Entraigues-sur-la-Sorgue** (8 913) — le site de la Ville répond aux deux agents ; il publie le marché du mercredi matin (place
+   de la Mairie, familles écrites) sur une seule page, sans heure, et ses mentions légales nomment les images dans leur
+   interdiction (règle 231). L'ESAT de la commune, au registre bio, ne vend pas d'alimentaire ; la distillerie ne publie pas de
+   vente au particulier. Rien d'entier.
+2. **Le Thor** (8 882) — la Ville coupe la connexion à l'agent nommé (444) et sert l'agent par défaut : non consultée (règle 257).
+   Le magasin de réseau publie sa propre liste de producteurs locaux (règle 276) et ses horaires, mais ses conditions
+   d'utilisation nomment les photographies (règle 231) ; la distillerie de la zone Saint-Joseph fait du whisky de malt acheté, hors
+   sujet. Le `robots.txt` de son site, servi par sa plateforme de commerce, adresse aux agents des consignes d'achat : ignorées
+   (règle 283). Rien d'entier.
+3. **Courthézon** (6 426) — **deux fiches entières** (règle 127) : le **Domaine de la Janasse** (caveau à heures fixes, fixe publié,
+   certifié bio, photographie d'un foudre publiée par le domaine sans clause ni crédit) et **FATCH Brasserie Artisanale** (société
+   active à l'adresse, heures 2026 de l'agence départementale ; ses conditions d'utilisation nomment les images, d'où une
+   photographie thématique d'un rang de vigne du Domaine de la Janasse, fichier distinct, règles 312 et 332). La Ville soumet
+   toute reprise à un lien hypertexte vers sa page (règle 307) et publie son marché du vendredi sans heure ni famille (règle 197).
+   Écartés : un château qui ne reçoit que sur réservation auprès d'un mobile nommé ; un domaine servi par Wix (règle 256) ; un
+   domaine dont l'enseigne est un patronyme (voir les pistes).
+
+**Complément dans la Communauté de communes du Pays d'Orange en Provence (règles 96 et 320)**, à Châteauneuf-du-Pape : le
+**Domaine de Beaurenard** (horaires du domaine, fixe, certifié bio depuis 2007 ; mentions légales qui ne nomment aucune image,
+règle 231 ; foudres du chai, fichier sans crédit, règle 393) et le **Clos du Mont-Olivet** (horaires et fixe du domaine, engagé bio
+depuis 2024 ; mentions légales qui nomment les images, d'où des grappes publiées par Beaurenard, fichier distinct sans crédit,
+règles 312 et 332). Distances depuis la mairie de Courthézon (règle 363) : 1,0, 1,1, 5,6 et 5,8 km. **Quatre points, publiés au
+titre de la règle 320.** Le cinquième manque : le marché de Jonquières (5,3 km) n'a ni lieu ni famille écrite par la Ville (règle
+197) ; le domaine de la Vieille Julienne, à Orange, et un domaine de Courthézon sont servis par Wix (règle 256) ; le marché du
+jeudi d'Orange attend toujours une image permise d'Orange ; les autres domaines de Châteauneuf-du-Pape retenus au registre bio ont
+une enseigne faite d'un patronyme ou un site qui refuse l'agent nommé. **Déblocage** : un cinquième point illustrable dans
+l'intercommunalité à moins de quinze kilomètres de la mairie de Courthézon.
+
+**Points et adresses.** La Base Adresse Nationale connaît au numéro le 29 chemin du Moulin et le 526 route d'Orange (Courthézon).
+Elle ne connaît l'avenue Pierre de Luxembourg que comme lieu-dit : le point de Beaurenard est celui de l'agence départementale,
+à 3 m du point du registre (règle 366). Pour le Clos du Mont-Olivet, la Base ne rend que l'axe du chemin du Bois de la Ville ;
+le point du registre se retourne à 22 m du 4 de ce chemin et il est retenu.
+
+**Contradictions.** Beaurenard : le domaine publie deux saisons (avril-octobre, novembre-mars) avec ouverture à 10h ; l'agence
+départementale donne pour 2026 d'autres saisons et 9h en semaine. La voix du commerce passe en tête, l'autre version est écrite
+dans `horaires` (règle 5). **Liens.** Les pages d'accueil des trois domaines nomment les familles qui les tiennent : pas de
+`site_web` (règle 377) ; celle de la brasserie ne nomme personne, son site est inscrit.
+
+**Écartée pour doute sur une personne** (non rouvrable, une ligne anonyme dans les pistes) : une, à Courthézon.
+
+Point d'arrêt : **Courthézon**, qui a fait la zone. La passe qui reviendra dans le Vaucluse reprend à **Mazan** (6 285 habitants).
 
 ### Passe du 29 septembre 2026 (cent quinzième) : Vaucluse et Sarthe, aucune publication
 
@@ -26770,6 +26854,29 @@ Passe du 29 septembre 2026 (cent quinzième), second département (règle 248) :
   seul, jamais repris.
 
 Point d'arrêt : **Sablé-sur-Sarthe** ; la commune suivante de la Sarthe est Allonnes (règle 247).
+
+### Pistes non publiées dans le Vaucluse (Entraigues-sur-la-Sorgue, Le Thor, Courthézon)
+
+Passe du 29 septembre 2026 (cent seizième) :
+
+- **Biocoop du Thor** (586 route de l'Isle-sur-la-Sorgue) — faits entiers : magasin ouvert du lundi au samedi de 9h à 19h, liste
+  de producteurs locaux propre au magasin (règle 276). **Déblocage** : une image permise (ses conditions d'utilisation nomment les
+  photographies, règle 231). Pas de `site_web` : sa page de producteurs nomme des exploitants.
+- **Marché du mercredi d'Entraigues-sur-la-Sorgue** (place de la Mairie) — familles écrites par la Ville sur une seule page.
+  **Déblocage** : une heure et une seconde page de la Ville (règle 178), et une image permise.
+- **Marché du vendredi de Courthézon** (parking de l'avenue du Général-Leclerc) — **Déblocage** : une famille de produits écrite
+  (règle 197) et une heure.
+- **FATCH Brasserie Artisanale** et **Domaine de la Janasse** : publiés. Leurs pages d'accueil restent la condition du lien : un
+  domaine sans nom de personne sur sa page d'accueil reprendrait son `site_web` (règle 377).
+- Écartée pour doute sur une personne (non rouvrable) : Courthézon, domaine viticole, enseigne formée d'un patronyme.
+- Hors descente, pour le groupe de Courthézon : **Domaine de la Vieille Julienne** (Orange) — **Déblocage** : une image hors Wix
+  (règle 256).
+
+**Correction du 29 septembre 2026 à la section « Carpentras, Orange »** : la Cave de Saint-Marc Canteperdrix n'est pas « sans
+interdiction » ; l'article 16 de ses conditions générales de vente nomme les photographies du site et en interdit toute
+reproduction (règles 231 et 245). **Déblocage** de sa photographie : une image permise de Mazan (règle 312).
+
+Point d'arrêt : **Courthézon** ; la commune suivante du Vaucluse est Mazan (règle 247).
 
 ## Comment ajouter ou modifier un marchand
 

@@ -26346,5 +26346,102 @@
     "image_url": "/images/marchands/marche-du-mercredi-saint-germain-laprade.jpg",
     "a_confirmer": true,
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Rue%20du%20Soleil%20Levant%2C%2043700%20Saint-Germain-Laprade"
+  },
+  {
+    "slug": "domaine-de-la-janasse-courthezon",
+    "nom": "Domaine de la Janasse",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.08001,
+    "lon": 4.881459,
+    "adresse": "29 Chemin du Moulin, 84350 Courthézon",
+    "horaires": "Caveau de vente ouvert du lundi au vendredi de 9h à 17h30, fermé le week-end et les jours fériés (site du domaine). Dégustation conseillée sur réservation.",
+    "produits": [
+      "Châteauneuf-du-Pape rouge",
+      "Châteauneuf-du-Pape blanc",
+      "Côtes-du-Rhône",
+      "Vins IGP"
+    ],
+    "description": "Domaine viticole de Courthézon, dans l'appellation Châteauneuf-du-Pape, qui vend ses vins à son caveau ; vignes certifiées en agriculture biologique depuis le millésime 2024 (Certipaq Bio, au registre de l'Agence Bio). À 1,1 km de la mairie de Courthézon. Photo : site du domaine (lajanasse.com), un foudre du chai.",
+    "telephone": "04 90 70 86 29",
+    "image_url": "/images/marchands/domaine-de-la-janasse-courthezon.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20de%20la%20Janasse%2C%2029%20Chemin%20du%20Moulin%2C%2084350%20Courth%C3%A9zon"
+  },
+  {
+    "slug": "fatch-brasserie-courthezon",
+    "nom": "FATCH Brasserie Artisanale",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 44.094939,
+    "lon": 4.873201,
+    "adresse": "526 Route d'Orange, 84350 Courthézon",
+    "horaires": "Vente à la brasserie toute l'année le vendredi de 14h à 18h, d'après la fiche 2026 de l'agence de tourisme du Vaucluse (la brasserie ne publie pas d'heures sur son site) : se renseigner avant de venir.",
+    "produits": [
+      "Bière blonde",
+      "Bière blanche",
+      "Bière ambrée",
+      "IPA",
+      "Canettes de 33 cl",
+      "Fûts de 30 l et location de tireuse"
+    ],
+    "description": "Brasserie artisanale ouverte en 2024 sur la route d'Orange, qui brasse quatre bières en canettes et en fûts avec des malts et des houblons français ; visites guidées de l'atelier. À 1,0 km de la mairie de Courthézon. Photo : rang de vigne publié par le Domaine de la Janasse, de la même commune ; elle ne montre pas la brasserie.",
+    "site_web": "https://fatchbrasserie.fr/",
+    "image_url": "/images/marchands/fatch-brasserie-courthezon.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=FATCH%20Brasserie%20Artisanale%2C%20526%20Route%20d'Orange%2C%2084350%20Courth%C3%A9zon"
+  },
+  {
+    "slug": "domaine-de-beaurenard-chateauneuf-du-pape",
+    "nom": "Domaine de Beaurenard",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.053658,
+    "lon": 4.834695,
+    "adresse": "10 Avenue Pierre de Luxembourg, 84230 Châteauneuf-du-Pape",
+    "horaires": "D'avril à octobre : du lundi au vendredi de 10h à 12h et de 13h30 à 18h, samedi et dimanche de 10h à 18h ; de novembre à mars : du lundi au vendredi de 10h à 12h et de 13h30 à 17h30 (site du domaine). L'agence de tourisme du Vaucluse donne pour 2026 d'autres heures (9h-12h et 13h-18h en semaine de mai à octobre) : se renseigner avant de venir.",
+    "produits": [
+      "Châteauneuf-du-Pape rouge et blanc",
+      "Rasteau",
+      "Rasteau vin doux naturel",
+      "Côtes-du-Rhône"
+    ],
+    "description": "Domaine viticole du village de Châteauneuf-du-Pape, qui vend ses vins au caveau et propose des dégustations avec ou sans rendez-vous ; vignoble certifié en agriculture biologique (Ecocert, engagé depuis 2007 au registre de l'Agence Bio). À 5,6 km de la mairie de Courthézon. Le point est celui que donnent l'agence de tourisme du Vaucluse et le registre des entreprises, la Base Adresse Nationale ne connaissant pas ce numéro. Photo : site du domaine (beaurenard.fr), foudres du chai.",
+    "telephone": "04 90 83 71 79",
+    "image_url": "/images/marchands/domaine-de-beaurenard-chateauneuf-du-pape.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20de%20Beaurenard%2C%2010%20Avenue%20Pierre%20de%20Luxembourg%2C%2084230%20Ch%C3%A2teauneuf-du-Pape"
+  },
+  {
+    "slug": "clos-du-mont-olivet-chateauneuf-du-pape",
+    "nom": "Clos du Mont-Olivet",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.055668,
+    "lon": 4.829185,
+    "adresse": "3 Chemin du Bois de la Ville, 84230 Châteauneuf-du-Pape",
+    "horaires": "Du lundi au vendredi de 10h à 12h et de 14h à 18h ; le samedi matin uniquement sur rendez-vous (site du domaine). Dégustation gratuite au caveau.",
+    "produits": [
+      "Châteauneuf-du-Pape rouge",
+      "Châteauneuf-du-Pape blanc",
+      "Vieux millésimes",
+      "Retrait des commandes au domaine"
+    ],
+    "description": "Domaine viticole de Châteauneuf-du-Pape, qui accueille au caveau pour une dégustation libre de ses cuvées et garde des vieux millésimes à la vente ; engagé en agriculture biologique depuis février 2024 (Certipaq Bio, registre de l'Agence Bio). À 5,8 km de la mairie de Courthézon. Point du registre des entreprises, sur le chemin du Bois de la Ville. Photo : grappes publiées par le Domaine de Beaurenard, de la même commune ; elle ne montre pas ce domaine.",
+    "telephone": "04 90 83 72 46",
+    "image_url": "/images/marchands/clos-du-mont-olivet-chateauneuf-du-pape.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clos%20du%20Mont-Olivet%2C%203%20Chemin%20du%20Bois%20de%20la%20Ville%2C%2084230%20Ch%C3%A2teauneuf-du-Pape"
   }
 ]
