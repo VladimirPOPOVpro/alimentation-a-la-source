@@ -4804,6 +4804,25 @@ prioritaires en cas de conflit.
      `a_confirmer`. Première application : le marché des Halles et le marché de Tréboul, à Douarnenez ; le marché de Ploaré,
      dont aucune des deux sources ne nomme une famille de produits, reste en pistes (règle 197).
 
+391. **L'annuaire Openverse interdit à tous les robots le chemin par lequel la règle 371 lit ses licences : une photographie
+     thématique ne se prend plus par `api.openverse.org`.** Le 29 septembre 2026 (cent treizième passe), la relecture des
+     `robots.txt` avant d'enregistrer cinq images a montré que celui de `api.openverse.org` écrit, sous `User-agent: *`,
+     `Disallow: /v1/images/` (commentaire : « Block API endpoints ») ; celui du site `openverse.org` interdit `/search` dans
+     toutes ses langues, et celui de `flickr.com` finit par `User-agent: *` / `Disallow: /`, qui vaut pour l'agent nommé. La
+     règle 371 lisait la licence « dans la réponse de l'annuaire », c'est-à-dire sur un chemin interdit ; les règles 77, 149 et
+     233 font respecter tout chemin interdit, et `live.staticflickr.com`, qui sert les fichiers et n'exclut personne, ne dit
+     rien des licences. **Tranché ainsi** : la voie d'Openverse est fermée — ni l'API, ni la recherche du site, ni les pages
+     Flickr ne se consultent plus, et une licence qu'on ne peut lire que là ne se tient pas pour lue. La règle 371 reste valable
+     pour ce qu'elle dit de la règle 231 (une clause qui ferme une source ne ferme pas la fiche si une image permise existe
+     ailleurs), mais sa source est suspendue : la photographie d'une fiche revient à l'ordre d'`AGENT.md` (site officiel, office,
+     photographie thématique permise de la même commune, règles 1, 230, 231 et 312), et une fiche sans image permise attend,
+     faits compris, comme avant la règle 371. Les images déjà publiées par cette voie ne se retirent pas : leur licence a été lue
+     de bonne foi et un fichier CC0 le reste ; elles ne servent plus de modèle. Les requêtes faites par cette passe avant la
+     relecture (quatorze recherches) n'ont servi à rien de publié : aucune des images qu'elles ont trouvées n'est entrée dans le
+     dépôt. **Déblocage** : un `robots.txt` d'Openverse qui ouvre ce chemin, ou une autre banque d'images libres dont le
+     `robots.txt` ouvre à la fois la recherche et la page de licence (Unsplash et Pexels restent exclus, Wikimedia Commons
+     aussi, règle 293).
+
 ## Marchands à confirmer
 
 876 fiches sur 987 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -12237,6 +12256,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent treizième) : Haute-Loire et Vaucluse, aucune publication ; règle 391 (Openverse)
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée** (règle 248).
+**Classement, règle 41**, recalculé sur l'appel national (987 fiches), outre-mer écarté (règle 177), départements épuisés
+sautés (règle 265) : **Haute-Loire (43) 3,2730**, premier département ouvert, en Auvergne-Rhône-Alpes (la passe de Douarnenez
+visait la Bretagne, règle 41.c) ; puis **Vaucluse (84) 3,1885**, en Provence-Alpes-Côte d'Azur, avec ses cinq fiches toutes à
+Avignon. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241).
+
+**Haute-Loire : douze communes éprouvées, aucune zone (règles 127, 258 et 247).** Dans l'ordre de population :
+
+1. **Le Puy-en-Velay** (18 540) — le site de la Ville sert une page vide (200, zéro octet, trois essais) à l'agent nommé et la
+   page entière à l'agent par défaut : refus par le nom (règle 349), site non consulté. Trois points seulement : deux fiches
+   entières dans la commune (une boulangerie biologique, une AMAP à la distribution datée) et le marché du vendredi de
+   Brives-Charensac dans l'agglomération. Trois points ne font pas une zone (règle 258) : les deux fiches du Puy sont
+   **désignées pour la reprise**.
+2. **Monistrol-sur-Loire** (8 823) — Ville et office de tourisme intercommunal refusent l'agent nommé (403) ; le jardin
+   d'insertion ne publie que sur une plateforme fermée. Rien.
+3. **Yssingeaux** (7 415) — au plus une fiche : la boutique de producteurs du centre n'a aucun établissement ouvert au registre à
+   son adresse de vente (règle 6).
+4. **Brioude** (6 527) — une fiche : le marché du samedi (Ville, office et une association qui nomme les familles). Le magasin bio
+   de réseau ne nomme aucun producteur (règle 273).
+5. **Aurec-sur-Loire** (6 164) — rien : aucune source ne nomme une famille de produits sur le marché (règle 197).
+6. **Sainte-Sigolène** (6 097) — une fiche : le marché de producteurs du samedi, place Latour-Maubourg (page communale 7h-12h,
+   tract communal de 2026 8h-12h : le tract daté passe en tête, règle 172). Le marché du mardi n'a pas de familles.
+7. **Bas-en-Basset** (4 638) — **deux fiches entières** (le marché du mercredi et du dimanche matin, boulevard de la Sablière,
+   dont la commune écrit les familles ; une ferme bio en GAEC qui vend le mercredi et au marché du dimanche) ; l'intercommunalité
+   Marches du Velay-Rochebaron n'ajoute que le marché de Sainte-Sigolène (11,9 km de la mairie). Trois points : **les deux
+   fiches de Bas-en-Basset sont désignées pour la reprise** (règle 258). Écartés en complément : l'annuaire de Beauzac (fiches
+   sans heures, règle 192 ; une boulangerie et une boucherie sans producteur nommé), la liste de vente directe de
+   Saint-Pal-de-Chalencon (sans heures), un rucher dont le site ne répond plus (règle 160) ; l'office intercommunal
+   (`tourisme-marchesduvelayrochebaron.fr`) et `gorgesdelaloire.fr` refusent l'agent nommé (403).
+8. **Brives-Charensac** (4 244) — une fiche (le marché du vendredi, déjà compté au Puy) : la boulangerie bio de l'avenue
+   Charles-Dupuy n'a plus de site (domaine sans réponse, règle 160) et l'épicerie bio voisine ne nomme aucun producteur.
+9. **Saint-Just-Malmont** (4 239) — le marché du dimanche (7h30-12h, centre-bourg) n'a aucune famille écrite (règle 197).
+10. **Espaly-Saint-Marcel** (3 585) — le site de la Ville refuse l'agent nommé (403).
+11. **Saint-Didier-en-Velay** (3 523) — deux marchés (mercredi et dimanche matin) sous une seule liste de familles : c'est la
+    phrase générique de la règle 329 ; l'annuaire agricole communal ne donne aucune heure de vente.
+12. **Langeac** (3 499) — marché du mardi et du jeudi, 8h-12h, sans aucune famille écrite (règle 197).
+
+Point d'arrêt : **Langeac**. La passe qui reviendra reprend à la treizième commune, après les deux paires désignées.
+
+**Vaucluse, second département (règle 248) : Carpentras et Orange, aucune zone.**
+
+- **Carpentras** (31 619) — la Ville, l'office Ventoux Provence et la communauté d'agglomération (CoVe) refusent l'agent nommé
+  (403) ; l'ancien domaine de l'office de Carpentras sert aujourd'hui un site de jeux d'argent (non consulté au-delà de la
+  redirection). L'agence départementale (`provenceguide.com`, 200 aux deux agents) est lisible mais interdit toute
+  reproduction de ses photographies. **Une seule fiche entière** : la boutique de l'exploitation du lycée agricole de Carpentras
+  (310 chemin de l'Hermitage), établissement public actif au registre avec un établissement « exploitation agricole » ouvert,
+  engagé au registre bio ; horaires, fixe et familles de produits publiés par le lycée lui-même, avec une photographie de la
+  boutique sans clause (mentions légales du site muettes sur les images). La seconde, une brasserie biologique de la ZAE du
+  Marché-Gare (société active, certificat engagé, heures 2026 à l'agence départementale), n'a aucune image permise : son site
+  refuse l'agent nommé et l'agence ferme ses photographies (règle 231) ; elle n'est donc pas entière. Les compléments de la CoVe
+  étaient prêts, faits vérifiés — la cave coopérative Clauvallis à Saint-Didier (5,8 km), la cave coopérative de Saint-Marc
+  Canteperdrix à Mazan (6,4 km), la Ferme du Rouret à Mazan (5,4 km) — mais sans deux fiches entières dans la commune calculée,
+  la règle 127 ne s'ouvre pas.
+- **Orange** (29 706) — la Ville publie le marché du jeudi (8h-12h30, centre-ville, fruits et légumes de la région) et le Petit
+  Marché du dimanche (place Bruey, dès 9h, familles écrites), chacun à deux endroits de son site (règle 178). Mais ses mentions
+  légales interdisent la reproduction de ses « images », l'office de tourisme d'Orange est un compte suspendu chez son hébergeur,
+  et l'agence départementale ferme ses photographies : aucune image permise de la commune (règle 231).
+
+**Règle 391, nouvelle** : en relisant les `robots.txt` avant d'enregistrer les images, la passe a trouvé que l'API d'Openverse
+interdit à tous les robots le chemin qui sert les licences. Elle n'a enregistré aucune des images trouvées par ce chemin, et la
+règle 371 est suspendue. C'est ce qui prive la brasserie de Carpentras et les marchés d'Orange de leur image.
+
+**Écarts consignés** : deux pages que le `robots.txt` de leur site interdit ont été téléchargées par mégarde en début de passe
+(le plan du site de la Ville du Puy, une route `/api` d'un magasin bio du Puy) ; aucun fait n'en a été tiré, et le site de la
+Ville du Puy est de toute façon écarté par la règle 349.
 
 ### Passe du 29 septembre 2026 (cent douzième) : Haute-Saône épuisée, puis Douarnenez (Finistère), cinq fiches
 
@@ -26415,6 +26502,84 @@ Passe du 29 septembre 2026 (cent onzième). Tarbes a fait la passe à quatre poi
 - **La ferme bio d'insertion d'une association tarbaise** — la ferme est à Maubourguet, à plus de vingt kilomètres : hors zone.
 - **Une épicerie en ligne de produits haut-pyrénéens** — pas de point de vente ni d'heures publiés. Hors sujet en l'état.
 - **Lourdes** (13 266) — non éprouvée ; la descente du 65 y reprendra.
+
+### Pistes non publiées en Haute-Loire
+
+Passe du 29 septembre 2026 (cent treizième). Douze communes éprouvées, du Puy-en-Velay à Langeac (voir la section de la passe) ;
+aucune zone. **Désignées pour la reprise (règle 258)**, faits vérifiés — leur image, choisie sous la règle 371, est à rétablir
+sous la règle 391 :
+
+- **Boulangerie Flor** (Le Puy-en-Velay) — boulangerie biologique, horaires et engagements publiés sur son propre site.
+- **AMAP'onote** (Le Puy-en-Velay) — distribution publiée par l'AMAP, datée de moins de douze mois (règle 195).
+- **Marché de Bas-en-Basset** (boulevard de la Sablière, mercredi et dimanche matin) — jours, lieu et familles (viande, yaourts,
+  fromages) écrits par la commune.
+- **La Ferme d'Ancette** (Bas-en-Basset) — GAEC certifié bio ; retrait des commandes le mercredi de 15h à 18h30, étal au marché
+  du dimanche.
+
+**Autres pistes** :
+
+- **Marché du vendredi de Brives-Charensac** — entier ; il complète le Puy dans l'agglomération (troisième point).
+- **Marché de producteurs du samedi de Sainte-Sigolène** (place Latour-Maubourg) — entier ; 8h-12h au tract communal de 2026,
+  7h-12h sur la page communale (règle 172). Il complète Bas-en-Basset (troisième point, 11,9 km).
+- **Marché du samedi de Brioude** — entier ; la commune n'en a pas d'autre (règle 127). Une brasserie de Brioude est notée sans
+  instruction complète.
+- **Marché hebdomadaire de Saint-Christophe-sur-Dolaizon** (sous la halle, vendredi après-midi) — aucun point sûr : la commune ne
+  donne pas l'emplacement exact et l'hébergeur de ses images (`i0.wp.com`) ferme son `robots.txt`. **Déblocage** : une adresse
+  ou un plan de la halle.
+- **Marché de Chadrac** — une seule publication communale (règle 178). **Déblocage** : une seconde page de la commune ou une
+  autre autorité.
+- **Une ferme du plateau du Puy** — sans heures de vente (règle 192). **Déblocage** : des heures publiées.
+- **Une épicerie bio de Brives-Charensac**, **un magasin bio de réseau du Puy**, **une boucherie bio du Puy** — aucun producteur
+  nommé (règles 86 et 273), ou pas de voix propre. **Déblocage** : une liste de producteurs de la région.
+- **Une boulangerie bio de Brives-Charensac** — son domaine ne répond plus (règle 160). **Déblocage** : un site ou une autorité
+  qui publie ses heures.
+- **Un élevage à Beauzac qui vend des fromages blancs**, **deux élevages de Saint-Pal-de-Chalencon** (viande, lentilles) — listés
+  par leur commune avec un fixe, sans aucune heure (règle 192). **Déblocage** : des heures publiées.
+- **Marchés de Saint-Just-Malmont, Langeac, Aurec-sur-Loire, du mardi de Sainte-Sigolène** — aucune famille écrite (règle 197) ;
+  **marchés de Saint-Didier-en-Velay** — une liste commune aux deux (règle 329). **Déblocage** : une page propre à un marché.
+- Écartés pour doute sur une personne, non nommés et **non rouvrables** : les producteurs du tract de Sainte-Sigolène, désignés
+  sous le nom de leur exploitant ; plusieurs exploitations de Beauzac, de Saint-Didier-en-Velay et de Saint-Pal-de-Chalencon
+  listées sous un patronyme ; des exploitations en entreprise individuelle sans point de vente à heures fixes (règle 311).
+
+Point d'arrêt : **Langeac** ; la treizième commune de la descente est la suivante (règle 247).
+
+### Pistes non publiées dans le Vaucluse (Carpentras, Orange)
+
+Passe du 29 septembre 2026 (cent treizième), second département (règle 248). Faits vérifiés, en attente d'image :
+
+- **Boutique du lycée agricole de Carpentras** (310 chemin de l'Hermitage) — **entière** : boutique de l'exploitation du lycée agricole
+  (établissement public actif, établissement « exploitation agricole » ouvert, engagé au registre bio) ; mardi et vendredi
+  8h-12h30 et 15h-17h30, mercredi, jeudi et samedi 9h-12h30, fermée dimanche et lundi ; fixe publié par le lycée ; produits de
+  l'exploitation (pommes en agriculture biologique, cerises, raisin de table, vin AOC Ventoux) et de producteurs locaux
+  (charcuterie, fromage, huiles, miel) ; photographie de la boutique publiée par le lycée, 765 px, sans clause ; son enseigne porte le nom du patron du lycée, et la
+  fiche prendra le libellé « Boutique du lycée agricole de Carpentras » (règle 259). Point : le numéro à la Base (0,97).
+  **Désignée pour la reprise.**
+- **AGORA Brasseurs** (67 rue du Château-Durbesson, ZAE du Marché-Gare, Carpentras) — bières biologiques brassées sur place ;
+  société active à l'adresse (11.05Z), certificat Ecocert engagé ; ouverte tous les jours 10h-12h30 et 14h-18h30 selon l'agence
+  départementale (2026) ; portable seul (non repris) ; le point de l'agence est à 550 m de celui de la Base (0,96), qui l'emporte.
+  **Déblocage** : une image permise (son site refuse l'agent nommé).
+- **Cave Clauvallis** (1030 route de la Courtoise, Saint-Didier, 5,8 km) — cave coopérative active, engagée au registre bio pour
+  ses vins ; caveau du lundi au samedi 9h-12h et 14h-18h30, dimanche et fêtes 9h-13h (page communale ; ouverture à 9h confirmée
+  par la cave en janvier 2026) ; la commune écrit « 976 route de la Cave », la cave et le registre « 1030 route de la
+  Courtoise », que la Base connaît. Ses mentions légales interdisent toute reproduction électronique de ses images (règle 230).
+- **Cave de Saint-Marc Canteperdrix** (890 La Venue de Caromb, Mazan, 6,4 km) — coopérative active à l'adresse, engagée au
+  registre bio ; boutique du mardi au samedi 9h-12h et 14h30-18h30 selon la cave, du mercredi au samedi selon l'agence
+  départementale (règle 5) ; fixe de la boutique. Sa page d'accueil affiche des avis signés : pas de `site_web` (règle 377). Ses
+  conditions de vente disent ses photographies sa propriété sans en interdire la reprise (règle 230 non déclenchée).
+- **Ferme du Rouret** (679 chemin du Rouret, Mazan, 5,4 km) — société civile active, bio depuis 2009 ; magasin d'avril à octobre
+  le mercredi, jeudi et vendredi 17h-19h et le samedi 10h-12h et 16h-19h, de novembre à mars le samedi 10h-12h et 14h-18h
+  (agence départementale) ; jus, vin, farine, petit épeautre, confitures. Son site refuse l'agent nommé.
+- **Marché du jeudi d'Orange** (centre-ville, 8h-12h30) et **Petit Marché du dimanche** (place Bruey, dès 9h) — jours, lieux et
+  familles écrits par la Ville à deux endroits (règle 178). La Ville interdit la reproduction de ses images, l'office est
+  suspendu. **Déblocage** : une photographie permise d'Orange.
+- Écartés : un épicier en paniers bio de Saint-Didier qui ne nomme aucun producteur (règle 361) ; une huilerie de Carpentras dont
+  la raison sociale est faite de prénoms (règle 259) ; un domaine viticole de Saint-Didier dont la seule société à l'adresse
+  est une société civile immobilière ; les autres communes de la CoVe (Mazan, Aubignan, Sarrians, Caromb, Loriol-du-Comtat,
+  Beaumes-de-Venise, Vacqueyras, Venasque), dont les sites municipaux refusent l'agent nommé.
+
+**Déblocage commun** : une image permise pour AGORA fait de Carpentras une commune à deux fiches entières, et la zone est alors
+prête à cinq points (boutique du lycée agricole, AGORA, Clauvallis, Canteperdrix, Rouret), sous réserve d'une image pour chacun des trois
+derniers. Point d'arrêt : **Orange** ; la commune suivante du Vaucluse est Cavaillon (règle 247).
 
 ## Comment ajouter ou modifier un marchand
 
