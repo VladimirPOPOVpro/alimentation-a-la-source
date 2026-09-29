@@ -24967,5 +24967,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Sainte-Anne%2022730%20Tr%C3%A9gastel",
     "image_url": "/images/marchands/marche-tregastel.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mercredi-rousset",
+    "nom": "Marché du mercredi de Rousset",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.480697,
+    "lon": 5.622616,
+    "adresse": "Place Paul Borde, 13790 Rousset",
+    "horaires": "Mercredi matin, de 7h30 à 12h30 d'après la Ville de Rousset ; le site départemental de tourisme MyProvence donne 8h-13h, toute l'année.",
+    "produits": [
+      "Fruits et légumes des maraîchers",
+      "Produits de producteurs locaux",
+      "Miel",
+      "Poissons",
+      "Viandes et charcuterie",
+      "Olives",
+      "Volailles rôties"
+    ],
+    "description": "Marché hebdomadaire de la place de la mairie, au pied de la Sainte-Victoire : la Ville y annonce maraîchers, producteurs locaux, apiculteur, poissonnier et boucher, à côté de quelques étals de vêtements et de bijoux. La photographie est une illustration thématique du domaine public et ne montre pas le lieu.",
+    "site_web": "https://ville-rousset13.fr/economie/marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Paul%20Borde%2013790%20Rousset",
+    "image_url": "/images/marchands/marche-du-mercredi-rousset.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-les-cengles-rousset",
+    "nom": "Moulin Les Cengles",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.470699,
+    "lon": 5.628032,
+    "adresse": "Chemin du Pavillon, route de Peynier, 13790 Rousset",
+    "horaires": "Saison 2026-2027 : ouverture du moulin à partir du 6 octobre 2026, du lundi au samedi de 10h à 18h (annonce du moulin). Hors saison, vente en ligne avec retrait sur place.",
+    "produits": [
+      "Huile d'olive bio AOP",
+      "Huile d'olive fruité vert",
+      "Huile d'olive maturée",
+      "Huile d'olive Sainte-Victoire"
+    ],
+    "description": "Moulin à huile du domaine oléicole de Terre de Mistral, trente hectares d'oliviers au pied de la Sainte-Victoire, qui presse ses olives à froid dans la tradition provençale. Huile certifiée en agriculture biologique (engagement Ecocert au registre de l'Agence Bio).",
+    "site_web": "https://moulinlescengles.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin%20Les%20Cengles%20Chemin%20du%20Pavillon%2013790%20Rousset",
+    "image_url": "/images/marchands/moulin-les-cengles-rousset.jpg"
+  },
+  {
+    "slug": "cave-de-rousset",
+    "nom": "Cave de Rousset",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.48248,
+    "lon": 5.624208,
+    "adresse": "Quartier Saint-Joseph, 13790 Rousset",
+    "horaires": "Du lundi au samedi de 9h à 12h30 et de 14h30 à 19h ; de janvier à mars, fermeture à 18h. Fermé les jours fériés.",
+    "produits": [
+      "Côtes de Provence Sainte-Victoire",
+      "Vins rosés",
+      "Vins rouges",
+      "Vins blancs"
+    ],
+    "description": "Cave coopérative fondée il y a plus d'un siècle, qui réunit plus de quatre-vingts vignerons entre la barre du Cengle et les bords de l'Arc ; sa boutique vend les vins des adhérents et quelques produits locaux. La coopérative est engagée en agriculture biologique auprès d'Ecocert pour une partie de ses vins, d'après le registre de l'Agence Bio.",
+    "telephone": "04 42 29 00 09",
+    "site_web": "https://www.cavederousset.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cave%20de%20Rousset%20Quartier%20Saint-Joseph%2013790%20Rousset",
+    "image_url": "/images/marchands/cave-de-rousset.jpg"
+  },
+  {
+    "slug": "vignerons-du-mont-sainte-victoire-puyloubier",
+    "nom": "Les Vignerons du Mont Sainte-Victoire",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 43.524796,
+    "lon": 5.672178,
+    "adresse": "63 Avenue d'Aix, 13114 Puyloubier",
+    "horaires": "De juin à septembre, du lundi au samedi de 9h à 12h30 et de 13h30 à 18h ; d'octobre à mai, de 9h à 12h et de 14h à 18h. Fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Côtes de Provence Cru Sainte-Victoire",
+      "Côtes de Provence Sainte-Victoire",
+      "Vins rosés",
+      "Vins rouges",
+      "Vins blancs"
+    ],
+    "description": "Cave coopérative créée en 1924 à Puyloubier, à 6,4 km de la mairie de Rousset : quatre-vingts vignerons et sept cents hectares sur les contreforts sud de la Sainte-Victoire. La coopérative annonce la conversion de toutes ses exploitations à la certification Haute Valeur Environnementale, sans certification bio au registre.",
+    "telephone": "04 42 66 38 43",
+    "site_web": "https://vigneronssaintevictoire.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=63%20Avenue%20d%27Aix%2013114%20Puyloubier",
+    "image_url": "/images/marchands/vignerons-du-mont-sainte-victoire-puyloubier.jpg"
+  },
+  {
+    "slug": "marche-du-mercredi-trets",
+    "nom": "Marché du mercredi de Trets",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.448103,
+    "lon": 5.680981,
+    "adresse": "Avenue Mirabeau, 13530 Trets",
+    "horaires": "Mercredi matin toute l'année, étals ouverts de 8h à 12h30 (Ville de Trets).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Miels",
+      "Épices",
+      "Olives",
+      "Fromages",
+      "Viandes",
+      "Poissons"
+    ],
+    "description": "Grand marché du centre-ville, à 6 km de la mairie de Rousset : environ quatre-vingts exposants sur un demi-kilomètre, par l'avenue Mirabeau, le boulevard de la République et l'avenue Jean-Jaurès, plus d'une centaine l'été, avec aussi des fleurs et des vêtements. La photographie est une illustration thématique libre de droits (CC0) et ne montre pas le lieu.",
+    "site_web": "https://www.trets.fr/marche-hebdomadaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20Mirabeau%2013530%20Trets",
+    "image_url": "/images/marchands/marche-du-mercredi-trets.jpg",
+    "a_confirmer": true
   }
 ]

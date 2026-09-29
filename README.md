@@ -4680,9 +4680,26 @@ prioritaires en cas de conflit.
      la passe du 29 septembre 2026 (cent unième), qui publie Place des Fêtes, Barbès, Saint-Charles, Saxe-Breteuil et, en
      complément, Saint-Éloi.
 
+381. **Un déblocage qui demandait des points « illustrables » se lit à travers la règle 371, quelle que soit la date où il a été
+     écrit.** La passe du 24 septembre 2026 a laissé Rousset (13) à trois points — le Moulin Les Cengles et la Cave de Rousset,
+     entiers, et la coopérative des Vignerons du Mont Sainte-Victoire à Puyloubier — avec pour déblocage « deux autres points
+     illustrables à moins de 15 km du centre de Rousset dans la Métropole ». Le marché du mercredi de Rousset et celui de Trets
+     avaient leurs faits entiers ce jour-là ; seules leurs Villes fermaient les images. La règle 379 ne vise que les déblocages
+     rédigés « depuis le 28 septembre », alors que la règle 371 dit pour tous les cas que la règle 231 « ne ferme plus la
+     fiche ». **Tranché ainsi** : la borne de date de la règle 379 ne décrit que les cas qu'elle avait sous les yeux ; tout
+     déblocage écrit avant la règle 371 dont la seule réserve restante est une image se lit comme rempli par une photographie
+     thématique du domaine public (règle 371), et la commune se rouvre à son rang dans la descente (règles 247 et 375), avant
+     toute commune sautée qui la suit. Les réserves d'une autre nature (personne, source muette, famille de produits, point)
+     restent entières, et chaque point se relit dans la passe qui publie (règle 322). Première application : la passe du
+     29 septembre 2026 (cent troisième), qui publie la zone de Rousset.
+
 ## Marchands à confirmer
 
-833 fiches sur 939 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+835 fiches sur 944 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du mercredi de Rousset** et **Marché du mercredi de Trets** (passe du 29 septembre 2026, cent troisième, règles
+  96, 127 et 381) : photographies thématiques du domaine public (règle 371) ; à Rousset, 7h30-12h30 selon la Ville contre
+  8h-13h selon le site départemental MyProvence (règle 176, les deux versions écrites) ; à Trets, source unique de la Ville,
+  publiée à deux endroits de son site (règle 178).
 - **Grand marché du jeudi** et **Marché du dimanche** (Lannion), **Brasserie Kerampont** (Lannion), **Marché du samedi de
   Pleumeur-Bodou** et **Marché du lundi de Trégastel** (passe du 29 septembre 2026, cent deuxième, règles 41, 127 et 96) :
   photographies thématiques libres de droits pour les cinq (règle 371) ; heures des marchés discordantes entre la Ville et le
@@ -12060,6 +12077,67 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent troisième) : Rousset et la Métropole Aix-Marseille-Provence, cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 939 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Bouches-du-Rhône (13) 3,4297** premier non épuisé, en
+Provence-Alpes-Côte d'Azur ; la passe précédente visait la Bretagne, la réserve de la règle 41.c ne joue pas. Règle 302 : les
+fiches désignées du département (Pélissanne, Lambesc, Cassis, Sénas, Rousset) ne se groupent à quatre autour d'aucune commune
+couverte, Aix-en-Provence étant à 20 km de Rousset ; elle ne joue pas. Le groupe de Labenne n'est pas contrôlé : la passe ne
+vise pas la Nouvelle-Aquitaine.
+
+**Descente** : la passe du 24 septembre avait écrit la reprise à Rognes. Relue contre la liste triée du département (règle
+375), elle a sauté **Peyrolles-en-Provence** (5 409, entre Rousset et Le Rove, citée nulle part). Avant elle, au rang 66,
+**Rousset** portait un déblocage nommé que la règle 371 remplit (règle 381, nouvelle) : Rousset se rouvre à son rang et fait la
+passe. Peyrolles-en-Provence n'est donc pas éprouvée : la prochaine passe dans le 13 l'éprouve d'abord, puis reprend à Rognes.
+
+**Contrôle à deux agents** (règle 257) : la Ville de Rousset, la Ville de Trets, le site du Moulin Les Cengles, celui de la
+Cave de Rousset, celui des Vignerons du Mont Sainte-Victoire et MyProvence répondent 200 à l'agent par défaut comme à l'agent
+nommé ; aucun `robots.txt` ne nomme d'agent d'IA. Mairie de Rousset au point de l'annuaire de l'administration (place
+Paul-Borde, règle 363).
+
+**Rousset rend trois fiches entières (règle 127)**, la Métropole (champ `epci` 200054807, règle 219) complète à moins de 15 km.
+
+1. **Marché du mercredi** (Rousset, 0,07 km) — page « Marché » de la Ville (7h30-12h30, place Paul-Borde, composition) et fiche
+   MyProvence (mercredi 8h-13h toute l'année, olives, charcutier, primeur). La fiche écrit la Ville et cite le département
+   (règle 176). Point de la Base sur la place (0,95). Équipement municipal (règle 106).
+2. **Moulin Les Cengles** (Rousset, 1,19 km) — SARL active à l'adresse ; certificat Ecocert engagé depuis 2010 au registre de
+   l'Agence Bio (huile d'olive) ; saison 2026-2027 annoncée par le moulin à partir du 6 octobre, du lundi au samedi 10h-18h
+   (règle 261) ; marqueur relu sur sa page contact, 43.470699 / 5.628032, à 30 m du point du registre, la Base ne connaissant
+   pas le chemin du Pavillon (règles 63 et 67). La page d'accueil ne nomme personne (règle 377). **Sans téléphone** : le seul
+   numéro publié est un portable qu'un réseau social rattache à une famille nommée ; il n'est pas repris.
+3. **Cave de Rousset** (Rousset, 0,30 km) — coopérative active, un établissement ouvert ; engagement Ecocert au registre de
+   l'Agence Bio (vins) ; horaires et fixe lus sur sa page contact ; point du registre, la Base ne connaissant que la traverse
+   Saint-Joseph. Pas de pilier `alimentation` (règle 14).
+4. **Les Vignerons du Mont Sainte-Victoire** (Puyloubier, 6,39 km) — coopérative active ; horaires saisonniers et fixe lus sur
+   sa page contact ; point du registre, à 37 m du 35 avenue d'Aix, la Base ne connaissant pas le n° 63 (règle 24). HVE annoncée
+   comme conversion en cours, aucun certificat bio : pilier `economie` seul (règles 14 et 15).
+5. **Marché du mercredi de Trets** (5,97 km) — pages « Marché hebdomadaire » et « Notre marché provençal hebdomadaire » de la
+   Ville (règle 178 ; étals 8h-12h30, avenue Mirabeau, boulevard de la République, avenue Jean-Jaurès, composition). Point de
+   la Base sur l'avenue Mirabeau (0,97). Trets, éprouvée le 24 septembre, est relue entière dans la passe (règle 357).
+
+**Images** : la Ville de Rousset n'autorise la reproduction qu'à usage personnel, celle de Trets interdit toute reproduction de
+ses images, l'office du Pays d'Aix se réserve l'usage privé. Photographies des commerces, sur des sites sans clause fermant
+les images : l'huile coulant au moulin (1 000 × 1 500 ; les autres vues du site portent les marques d'une banque d'images,
+règle 360), les cuves de la cave (768 px), le vignoble au pied de la Sainte-Victoire (1 000 px ; ligne « Crédits photos » sans
+interdiction, règle 306 ; le fichier dont le nom porte un nom de photographe est écarté, règle 339). Deux photographies
+thématiques Openverse (règle 371), sans visage, sans enseigne ni étiquette de prix : patates douces
+`https://www.flickr.com/photos/41284017@N08/8425080523` (marque du domaine public, Rousset), poivrons verts
+`https://www.flickr.com/photos/47121680@N00/30484701358` (CC0, Trets). Écartés : un étal portant des prix en écriture
+étrangère, un étal de salades sous l'enseigne d'un tiers. Toutes réencodées sans métadonnées (règle 235).
+
+**Contradictions**, publiées avec leurs versions : heures du marché de Rousset (Ville contre département, règle 176).
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : le portable du moulin, le nom
+et le portable d'un agent de la régie des marchés de Trets, les noms d'exploitants du registre de l'Agence Bio. Aucun
+n'apparaît ici, dans un commit ni dans un nom de fichier.
+
+**Après la passe**, sur 944 fiches : Bouches-du-Rhône −1,42 ; premiers non épuisés ensuite, sous réserve de la relecture de la
+règle 265 par la passe suivante : **Seine-Saint-Denis (93) 3,3329**, Essonne (91) 3,3245, Corrèze (19) 3,2970. La prochaine
+passe ne peut pas viser Provence-Alpes-Côte d'Azur. **Reprise dans les Bouches-du-Rhône** : Peyrolles-en-Provence d'abord
+(règle 375), puis Rognes.
 
 ### Passe du 29 septembre 2026 (cent deuxième) : Lannion et Lannion-Trégor Communauté, cinq fiches
 
