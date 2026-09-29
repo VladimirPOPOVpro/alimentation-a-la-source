@@ -26213,5 +26213,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20P%C3%A9tricore%2C%2011%20rue%20Ar%20Briec%2C%2029100%20Pouldergat",
     "image_url": "/images/marchands/ferme-du-petricore-pouldergat.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "flor-boulangerie-le-puy-en-velay",
+    "nom": "Flør – boulangerie engagée",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 45.045529,
+    "lon": 3.88235,
+    "adresse": "7 Rue des Farges, 43000 Le Puy-en-Velay",
+    "horaires": "Du mercredi au vendredi de 10h à 13h30 et de 15h30 à 18h30, le samedi de 9h à 13h30 (site de la boulangerie) ; fermée du dimanche au mardi.",
+    "produits": [
+      "Pains au levain naturel",
+      "Pains aux farines bio moulues sur meule de pierre",
+      "Pains aux farines de semences paysannes",
+      "Gamme sans gluten",
+      "Fougasses et brioches",
+      "Salé à emporter"
+    ],
+    "description": "Boulangerie certifiée bio au pied de la cathédrale, qui façonne ses pains sur levain naturel, en longue fermentation, avec des farines biologiques moulues sur meule de pierre ; elle propose aussi une gamme sans gluten. À 0,3 km de la mairie du Puy-en-Velay. Photo : Velay Attractivité, droits réservés.",
+    "image_url": "/images/marchands/flor-boulangerie-le-puy-en-velay.jpg",
+    "a_confirmer": false,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7%20Rue%20des%20Farges%2C%2043000%20Le%20Puy-en-Velay"
+  },
+  {
+    "slug": "amaponote-le-puy-en-velay",
+    "nom": "AMAP'onote",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.034383,
+    "lon": 3.902792,
+    "adresse": "Assemblée d'Ours, Route du Couderc, 43000 Le Puy-en-Velay",
+    "horaires": "Distribution le mardi de 18h30 à 19h30, toute l'année sauf entre Noël et le jour de l'An (site de l'AMAP). Paniers réservés aux adhérents sous contrat.",
+    "produits": [
+      "Légumes",
+      "Champignons",
+      "Pain",
+      "Farine de blé",
+      "Fromages de chèvre et de brebis",
+      "Viande bovine",
+      "Œufs",
+      "Miel"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne née en 2009, qui relie ses adhérents à une vingtaine de producteurs de Haute-Loire ; les paniers se retirent chaque mardi soir à l'assemblée du village d'Ours. Le point est placé sur la route du Couderc, la Base Adresse Nationale ne connaissant pas le bâtiment. À 1,8 km de la mairie du Puy-en-Velay.",
+    "image_url": "/images/marchands/amaponote-le-puy-en-velay.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Assembl%C3%A9e%20d%27Ours%2C%20Route%20du%20Couderc%2C%2043000%20Le%20Puy-en-Velay"
+  },
+  {
+    "slug": "marche-du-samedi-le-puy-en-velay",
+    "nom": "Marché du samedi du Puy-en-Velay",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.043334,
+    "lon": 3.882565,
+    "adresse": "Place du Plot, 43000 Le Puy-en-Velay",
+    "horaires": "Samedi matin, de 8h à 12h (annuaire départemental De nos fermes 63, septembre 2026). Les étals alimentaires occupent la place du Plot, la place du Marché-Couvert et la rue Grenouillit, la place de la Halle et la rue Saint-Pierre, les places du Martouret et du Clauzel et la place Cadelade (plans de la Ville du Puy-en-Velay).",
+    "produits": [
+      "Fromages fermiers, dont la tomme aux artisous",
+      "Fruits et légumes",
+      "Miel",
+      "Pain",
+      "Charcuterie et viandes",
+      "Œufs et volailles",
+      "Champignons et fruits rouges en saison",
+      "Truite de pisciculture"
+    ],
+    "description": "Le grand marché hebdomadaire du centre ancien, où les producteurs du Velay vendent en direct ; la place du Plot réunit surtout les fromagers, et le marché suit les saisons. À 0,1 km de la mairie du Puy-en-Velay. Photographie de la place du Plot un jour de marché, publiée par la Communauté d'agglomération du Puy-en-Velay.",
+    "image_url": "/images/marchands/marche-du-samedi-le-puy-en-velay.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Plot%2C%2043000%20Le%20Puy-en-Velay"
+  },
+  {
+    "slug": "marche-du-vendredi-brives-charensac",
+    "nom": "Marché du vendredi de Brives-Charensac",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.046295,
+    "lon": 3.926377,
+    "adresse": "Place de l'Église, 43700 Brives-Charensac",
+    "horaires": "Vendredi de 8h à 12h (Ville de Brives-Charensac).",
+    "produits": [
+      "Boucherie et charcuterie",
+      "Légumes de maraîcher",
+      "Fromages de chèvre et de vache",
+      "Crémerie",
+      "Fruits de saison (d'avril à novembre)",
+      "Miel (semaines impaires)",
+      "Poisson de pisciculture (semaines paires)"
+    ],
+    "description": "Marché de producteurs locaux du vendredi matin, devant l'église ; l'apiculteur et le pisciculteur y viennent en alternance, une semaine sur deux. À 3,4 km de la mairie du Puy-en-Velay.",
+    "telephone": "04 71 02 12 55",
+    "image_url": "/images/marchands/marche-du-vendredi-brives-charensac.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27%C3%89glise%2C%2043700%20Brives-Charensac"
+  },
+  {
+    "slug": "marche-du-mercredi-saint-germain-laprade",
+    "nom": "Marché du mercredi de Saint-Germain-Laprade",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.037111,
+    "lon": 3.967903,
+    "adresse": "2 Rue du Soleil Levant, 43700 Saint-Germain-Laprade",
+    "horaires": "Mercredi de 8h à 12h (Ville de Saint-Germain-Laprade). La commune maintient un transport vers le marché pour les personnes sans moyen de locomotion (magazine municipal 2026).",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Viandes"
+    ],
+    "description": "Marché hebdomadaire de produits frais du mercredi matin, dans le bourg ; le CCAS y conduit les habitants qui n'ont pas de moyen de transport. À 6,7 km de la mairie du Puy-en-Velay.",
+    "image_url": "/images/marchands/marche-du-mercredi-saint-germain-laprade.jpg",
+    "a_confirmer": true,
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Rue%20du%20Soleil%20Levant%2C%2043700%20Saint-Germain-Laprade"
   }
 ]

@@ -4823,9 +4823,31 @@ prioritaires en cas de conflit.
      `robots.txt` ouvre à la fois la recherche et la page de licence (Unsplash et Pexels restent exclus, Wikimedia Commons
      aussi, règle 293).
 
+392. **Un site écarté par la règle 349 qui sert de nouveau à l'agent nommé la page qu'il sert à l'agent par défaut se lit
+     de nouveau pour ses faits ; ses images restent fermées tant que ses mentions légales sont sous un `Disallow` (règle 270).**
+     Le 29 septembre 2026 (cent treizième passe), le site de la Ville du Puy-en-Velay servait une page vide à l'agent nommé ; à la
+     cent quatorzième passe, le même jour, il sert à l'agent nommé les mêmes pages qu'à l'agent par défaut (200, tailles
+     identiques, à dix secondes d'intervalle comme le demande son `Crawl-delay`). La règle 349 disait « refus par le nom » ; son
+     déblocage, comme celui de la règle 257, est le retrait du filtrage. **Tranché ainsi** : le retrait se constate par les deux
+     mêmes requêtes que le refus ; il rouvre le site pour les faits (jours, lieux, plans d'emplacements), sans rouvrir les pistes
+     de la commune que la passe précédente a écartées pour d'autres motifs. Ses images, elles, suivent leur propre règle : le
+     `robots.txt` de la Ville interdit `/mentions_legales.php`, la clause ne se lit donc pas et la règle 270 ferme le site comme
+     source d'image. Première application : le marché du samedi du Puy, publié sur les plans d'emplacements de la Ville (familles de
+     produits) et sur sa page des marchés, avec les heures de l'annuaire départemental De nos fermes 63 et une photographie de
+     la place du Plot publiée par la Communauté d'agglomération, dont les mentions légales ne nomment pas les images (règle 231).
+     Les plans nomment chaque étal par le patronyme de son exploitant : la fiche n'en reprend que les familles de produits.
+
 ## Marchands à confirmer
 
-876 fiches sur 987 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+880 fiches sur 992 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP'onote** (Le Puy-en-Velay), **Marché du samedi du Puy-en-Velay**, **Marché du vendredi de Brives-Charensac** et
+  **Marché du mercredi de Saint-Germain-Laprade** (passe du 29 septembre 2026, cent quatorzième, règles 258, 388 et 392) :
+  l'AMAP est placée sur la route du Couderc, la Base ne connaissant pas l'assemblée d'Ours (règle 10), et sa photographie est
+  recadrée sous les visages et sans la plaque d'un véhicule ; au Puy, 8h-12h selon l'annuaire départemental de septembre 2026,
+  alors que des agendas touristiques donnent 7h30-12h30 (non consultables, règle 257) ; à Brives, la page communale date de
+  2021 ; à Saint-Germain-Laprade, l'adresse est l'épingle que la commune pose sous son paragraphe du marché, et la photographie
+  de la commune est recadrée sous les visages et sous des affiches électorales. **Flør** (Le Puy-en-Velay) n'est pas marquée :
+  heures du site de la boulangerie, établissement actif, certificat bio engagé.
 - **Marché des Halles de Douarnenez**, **Marché de Tréboul**, **L'Épicerie Locale et Responsable** (Douarnenez), **Ferme de
   l'Allée Couverte** (Poullan-sur-Mer) et **Ferme du Pétricore** (Pouldergat) (passe du 29 septembre 2026, cent douzième,
   règles 267, 96 et 390) : photographies thématiques CC0 ou du domaine public (règle 371) ; aux Halles, le lundi est donné par
@@ -12256,6 +12278,39 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 29 septembre 2026 (cent quatorzième) : Le Puy-en-Velay et son agglomération (Haute-Loire), cinq fiches ; règle 392
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 987 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : **Haute-Loire (43) 3,2730**, premier département ouvert, puis Vaucluse
+3,1885. La passe précédente n'a rien publié : la dernière région visée reste la Bretagne (Douarnenez), et l'Auvergne-Rhône-Alpes
+est ouverte (règles 41.c et 247). Aucune intercommunalité du 43 ne porte quatre fiches désignées : la règle 302 ne joue pas.
+
+**Reprise des fiches désignées du Puy (règles 258 et 388).** Les deux fiches désignées par la cent treizième passe avaient
+perdu leur image avec la règle 391 ; elles en retrouvent une permise : la boulangerie Flør par un article de l'agence
+d'attractivité de l'agglomération (`velay-attractivite.fr`, reproduction électronique permise en citant la source avec
+« droits réservés », règle 239 ; photographie de pains, sans personne), l'AMAP par une photographie de distribution de son propre
+site, recadrée sous les visages. Le marché du vendredi de Brives-Charensac, troisième point déjà instruit, a une photographie
+de la commune (mentions légales générales, règle 231). Le déblocage « deux autres points dans l'agglomération » est rempli par
+un lieu neuf de la commune (règle 388) — le marché du samedi, rendu lisible par le retour du site de la Ville (règle 392) — et
+par le marché du mercredi de Saint-Germain-Laprade, treizième commune de la descente, publié par la commune à deux endroits
+(page des commerces, magazine municipal 2026, règle 178). Cinq points dans la Communauté d'agglomération du Puy-en-Velay (règle
+96, vérifiée au référentiel, règle 219) : 0,1, 0,3 et 1,8 km de la mairie du Puy, puis 3,4 km (Brives-Charensac) et 6,7 km
+(Saint-Germain-Laprade). La descente de la règle 41.d n'avance pas au-delà : elle reprendra à Vals-près-le-Puy.
+
+**Écartés en chemin** : le magasin de réseau d'Aiguilhe publie sa propre liste de producteurs (règle 276), mais ses conditions
+d'utilisation nomment les photographies et en interdisent la reproduction (règles 230 et 231) ; la microbrasserie de la route de
+Coubon (Brives-Charensac) sert ses pages à l'agent nommé mais lui refuse ses images (403, contre 200 à l'agent par défaut, règle
+257) ; le magasin de producteurs de la zone de Corsac (Brives-Charensac), actif au registre, n'a ni site ni autorité lisible qui
+publie ses heures (l'hebdomadaire agricole départemental répond 403, règle 192) ; le marché du mercredi de Polignac n'a que la
+phrase générique de l'agglomération (règle 329) ; le site de Vals-près-le-Puy ne répond pas. Le domaine
+`saint-germain-laprade.fr` sert aujourd'hui un blog sans rapport avec la commune : le site communal est
+`saintgermainlaprade.fr` (même piège que la note Santa Lucia).
+
+**Vérification de personne** : la fiche de la boulangerie ne reprend ni le lien de son site ni son portable, parce que la page
+d'accueil signe des prénoms des exploitants (règles 376 et 377) ; même chose pour l'AMAP, dont la page d'accueil liste ses
+producteurs sous leur nom. L'enseigne « Flør » n'est le nom d'aucune des personnes que ces pages nomment ; elle est gardée.
 
 ### Passe du 29 septembre 2026 (cent treizième) : Haute-Loire et Vaucluse, aucune publication ; règle 391 (Openverse)
 
@@ -26542,6 +26597,25 @@ sous la règle 391 :
   listées sous un patronyme ; des exploitations en entreprise individuelle sans point de vente à heures fixes (règle 311).
 
 Point d'arrêt : **Langeac** ; la treizième commune de la descente est la suivante (règle 247).
+
+**Reprise du 29 septembre 2026 (cent quatorzième passe).** Flør et AMAP'onote sont publiées, avec le marché du vendredi de
+Brives-Charensac, le marché du samedi du Puy et le marché du mercredi de Saint-Germain-Laprade (voir la section de la passe).
+Restent désignées : le marché de Bas-en-Basset et la ferme bio en GAEC de la même commune, que Sainte-Sigolène complète toujours
+à trois points seulement. Pistes ajoutées par la reprise, dans l'agglomération du Puy :
+
+- **Un magasin de réseau d'Aiguilhe** — liste de producteurs propre au magasin, mais photographies interdites par ses conditions
+  d'utilisation (règle 231). **Déblocage** : une photographie permise d'Aiguilhe.
+- **Une microbrasserie de Brives-Charensac** — bar et boutique le jeudi et le vendredi selon son site ; images refusées à l'agent
+  nommé (règle 257) et page d'accueil qui nomme son créateur (pas de `site_web`, règle 376). **Déblocage** : une image permise.
+- **Un magasin de producteurs de la zone de Corsac** (Brives-Charensac) — actif au registre ; aucune source lisible pour ses
+  heures (règle 192). **Déblocage** : des heures publiées par le magasin ou une autorité.
+- **Marché du mercredi de Polignac** — phrase générique (règle 329). **Déblocage** : une page de la commune.
+- **Marché du dimanche de Vals-près-le-Puy** — site communal sans réponse. **Déblocage** : une publication de la commune.
+- Écartée pour doute sur une personne, non nommée et **non rouvrable** : une ferme d'Arsac-en-Velay qui vend farines et pâtes
+  sous le patronyme de son exploitant (règle 259).
+
+Point d'arrêt de la descente : toujours **Langeac** ; Saint-Germain-Laprade, treizième commune, est couverte par cette passe, et
+la suivante est Vals-près-le-Puy.
 
 ### Pistes non publiées dans le Vaucluse (Carpentras, Orange)
 
