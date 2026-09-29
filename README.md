@@ -12279,6 +12279,79 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 29 septembre 2026 (cent quinzième) : Vaucluse et Sarthe, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée** (règle 248).
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 992 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : la passe du Puy visait l'Auvergne-Rhône-Alpes, qui est fermée (règle
+41.c) ; **Vaucluse (84) 3,2300**, premier département ouvert, en Provence-Alpes-Côte d'Azur, avec ses cinq fiches toutes à
+Avignon ; puis **Sarthe (72) 3,1534**, en Pays de la Loire, avec ses cinq fiches toutes au Mans. Aucune intercommunalité de ces
+deux départements ne porte quatre fiches désignées : la règle 302 ne joue pas. Contrôle de tête de Labenne : `labenne.fr` ne
+répond toujours pas, `seignosse.fr` répond 200 aux deux agents ; rien de neuf pour le déblocage de ce groupe. `git fetch` refait
+avant l'écriture : `origin/main` n'a pas bougé (règle 241).
+
+**Vaucluse : douze communes éprouvées après Orange, aucune zone (règles 127, 247 et 258).** Dans l'ordre de population :
+
+1. **Cavaillon** (25 636) — la Ville refuse l'agent nommé (403) et l'intercommunalité Luberon Monts de Vaucluse ne publie pas de
+   carte des marchés : les marchés attendent (règle 196). Deux commerces ont des faits entiers — le magasin bio de réseau, avec sa
+   propre liste de producteurs locaux (règle 276), et un maraîcher de plateau à la saison publiée — mais les conditions
+   d'utilisation du magasin nomment les photographies et en interdisent la reproduction (règles 230 et 231), les images du
+   maraîcher sont servies par un hébergeur Wix que le `robots.txt` ferme (règle 256), et l'office Destination Luberon ferme les
+   siennes. Aucune fiche entière. Une brasserie est écartée pour doute sur une personne (voir les pistes).
+2. **L'Isle-sur-la-Sorgue** (20 244) — la Ville publie le marché du jeudi et le grand marché du dimanche, familles écrites, et
+   une brasserie a des faits entiers ; mais les mentions légales de la Ville placent ses photographies sous « © » (règle 291),
+   l'office de tourisme légende chacune des siennes d'un « @ » suivi du crédit, qui vaut le « © » (règle 305), et aucun commerce
+   de la commune ne publie d'image sans clause fermante. Le marché agricole de Petit-Palais n'a pas de jour publié par la Ville
+   (règle 16). Un magasin de producteurs est écarté pour doute sur une personne (voir les pistes). Aucune fiche entière.
+3. **Pertuis** (19 548) — le site de la Ville (`ville-pertuis.fr`) refuse l'agent nommé ; `pertuis.fr` est un site commercial
+   privé, non une source (même piège que la note Santa Lucia). **Une fiche entière** : les paniers de légumes bio d'une
+   exploitation de la commune (entreprise active, un établissement ouvert, 01.13Z ; certificat au registre bio), avec une
+   photographie de ses serres publiée sur son propre site, dont les mentions légales ne parlent pas des images. Le magasin de
+   producteurs associatif du boulevard de la Sainte-Barbe n'a ni site propre lisible ni source datée : ses faits ne sont pas
+   entiers. Une seule fiche ne fait pas de zone (règle 127).
+4. **Sorgues** (19 006) — la page d'accueil de la Ville refuse l'agent nommé (403) : site non consulté (règle 257).
+5. **Le Pontet** (18 386) — le site de la Ville (`ville-lepontet.com` ; `lepontet.fr` est un site privé) n'a aucune page de
+   marché ; le seul magasin bio est une succursale de réseau sans liste de producteurs (règle 273). Rien.
+6. **Bollène** (14 024) — le site de la Ville est `ville-bollene.fr` (`bollene.fr` ne répond pas) ; il ne décrit aucun marché
+   hebdomadaire par ses familles : le marché Pasteur n'est annoncé qu'à des dates ponctuelles (règle 197). Rien.
+7. **Monteux** (13 301) — le marché de producteurs du mercredi et du samedi, place du Marché, a ses faits entiers (Ville pour le
+   lieu, les jours et les familles ; agence départementale pour les heures, 8h-12h, règle 178) ; mais la Ville nomme les
+   photographies dans son interdiction, l'office Porte du Ventoux et l'agence départementale ferment les leurs, et aucun
+   commerce de la commune ne publie une image permise. Aucune fiche entière.
+8. **Vedène** (11 974) — le site de la Ville sert une page vide à l'agent nommé : refus par le nom (règle 349).
+9. **Pernes-les-Fontaines** (10 504) — le site de la Ville est lisible mais ne publie aucune page de marché ; l'office (le même
+   que Monteux) ferme ses images. Une pépinière est écartée pour doute sur une personne (voir les pistes). Rien d'entier.
+10. **Apt** (10 143) — la clause de la Ville excepte les images « destinées explicitement à être téléchargées » ; sa photothèque
+    n'offre qu'un bouton de partage, pas de téléchargement, et reste donc sous la clause fermante (règle 336). Aucun commerce de
+    la commune n'a de faits entiers avec une image permise. Rien.
+11. **Valréas** (9 224) — le site de la Ville (`valreas.net`) ne publie aucune photographie reprenable de ses marchés, et aucun
+    commerce de la commune n'a ses faits entiers avec une image permise. Rien.
+12. **Morières-lès-Avignon** (9 019) — le site de la Ville (`ville-moriereslesavignon.fr` ; `morieres-les-avignon.fr` n'est pas
+    celui de la commune) publie son marché sans aucune famille de produits (règle 197). Rien.
+
+Point d'arrêt : **Morières-lès-Avignon**. La passe qui reviendra reprend à **Entraigues-sur-la-Sorgue** (8 913 habitants, le
+département n'est pas épuisé, règle 265).
+
+**Sarthe, second département (règle 248) : La Flèche et Sablé-sur-Sarthe, aucune zone.**
+
+- **La Flèche** (14 947) — le site de la Ville est `ville-lafleche.fr` (`lafleche.fr` est un site privé) ; ses mentions légales
+  ferment ses photographies, l'office de tourisme de la Vallée du Loir refuse l'agent nommé (403, contre 200 à l'agent par
+  défaut, règle 257), et les marchés que la Ville nomme n'ont pas d'heures. Aucun commerce de vente directe n'a ses faits
+  entiers avec une image permise. Rien.
+- **Sablé-sur-Sarthe** (12 326) — la Ville publie ses trois marchés avec jours, heures et lieux (place de la République le
+  lundi 7h-12h30 et le samedi 7h-13h, alimentaire et divers ; place de la Mairie le vendredi 7h-13h, alimentaire uniquement),
+  et ses mentions légales ne parlent pas des images (règle 285). Mais la page des marchés n'est illustrée que par deux images de
+  banque — une illustration dessinée et un étal étranger avec visages —, qui ne montrent pas ces marchés ; aucune famille de
+  produits n'est écrite pour l'un ou l'autre (règle 197). L'office de tourisme de la Vallée de la Sarthe et Sarthe Tourisme
+  refusent l'agent nommé (403), Bienvenue à la Ferme refuse tout agent (403, règle 237), le magasin bio de réseau n'a que
+  `biocoop.fr`, écarté (règle 149), et une ferme laitière de la commune ne publie, sur une plateforme de commandes groupées,
+  aucune heure de vente à la ferme. Rien d'entier.
+
+Point d'arrêt : **Sablé-sur-Sarthe** ; la commune suivante de la Sarthe est Allonnes (10 739 habitants).
+
+**Écartées pour doute sur une personne** (non rouvrables, une ligne anonyme chacune dans les pistes) : trois, à Cavaillon,
+L'Isle-sur-la-Sorgue et Pernes-les-Fontaines.
+
 ### Passe du 29 septembre 2026 (cent quatorzième) : Le Puy-en-Velay et son agglomération (Haute-Loire), cinq fiches ; règle 392
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
@@ -26654,6 +26727,49 @@ Passe du 29 septembre 2026 (cent treizième), second département (règle 248). 
 **Déblocage commun** : une image permise pour AGORA fait de Carpentras une commune à deux fiches entières, et la zone est alors
 prête à cinq points (boutique du lycée agricole, AGORA, Clauvallis, Canteperdrix, Rouret), sous réserve d'une image pour chacun des trois
 derniers. Point d'arrêt : **Orange** ; la commune suivante du Vaucluse est Cavaillon (règle 247).
+
+### Pistes non publiées dans le Vaucluse (de Cavaillon à Morières-lès-Avignon)
+
+Passe du 29 septembre 2026 (cent quinzième), premier département. Faits vérifiés, en attente d'image ou d'une seconde fiche :
+
+- **Effusion de légumes** (Pertuis) — **entière** : paniers de légumes bio cultivés à Pertuis, retirés chaque semaine à Pertuis
+  et au Puy-Sainte-Réparade ; entreprise active, un établissement ouvert (01.13Z), inscrite au registre bio ; photographie des
+  serres publiée par l'exploitation, 1 600 px, sans personne, mentions légales sans clause sur les images (règle 231). La fiche
+  pointera le lieu de retrait publié, jamais le siège (règle 311), et portera l'enseigne, non la raison sociale, faite d'un nom
+  de personne. **Désignée pour la reprise.** **Déblocage** : une seconde fiche entière à Pertuis.
+- **Magasin de producteurs Millepertuis** (boulevard de la Sainte-Barbe, Pertuis) — **Déblocage** : une source datée ou un site
+  propre lisible qui publie ses heures.
+- **Biocoop de Cavaillon** — faits entiers, liste de producteurs locaux propre au magasin. **Déblocage** : une image permise
+  (ses conditions d'utilisation ferment les photographies). Pas de `site_web` : la page d'accueil nomme une boucherie par un
+  patronyme (règle 377).
+- **Plateau Ratatouille** (Cavaillon) — maraîcher en vente directe, saison publiée (fermeture annuelle, réouverture en mars
+  2027). **Déblocage** : une image permise (Wix fermé, règle 256). Pas de `site_web` : l'adresse de courriel de la page d'accueil
+  est formée du nom de l'exploitant (règle 377).
+- **Marché du jeudi et grand marché du dimanche de L'Isle-sur-la-Sorgue**, **Brasserie de l'Isle** — faits entiers.
+  **Déblocage** : une image permise de la commune.
+- **Marché de producteurs de Monteux** (place du Marché, mercredi et samedi 8h-12h) — faits entiers. **Déblocage** : une image
+  permise de la commune.
+- Écartés pour doute sur une personne (non rouvrables) : Cavaillon, brasserie, enseigne tirée du surnom d'une personne ;
+  L'Isle-sur-la-Sorgue, magasin de producteurs, siège déclaré au domicile de particuliers et adresse de vente introuvable ;
+  Pernes-les-Fontaines, pépinière, enseigne formée de prénoms.
+- Hors de la descente, dans la Métropole voisine : une fromagerie de chèvre de Rognes (13 km de Pertuis) reste en doute au titre
+  de la règle 6, avec des images servies par Wix (règle 256).
+
+Point d'arrêt : **Morières-lès-Avignon** ; la commune suivante du Vaucluse est Entraigues-sur-la-Sorgue (règle 247).
+
+### Pistes non publiées dans la Sarthe (La Flèche, Sablé-sur-Sarthe)
+
+Passe du 29 septembre 2026 (cent quinzième), second département (règle 248) :
+
+- **Marchés de Sablé-sur-Sarthe** (place de la République lundi 7h-12h30 et samedi 7h-13h ; place de la Mairie vendredi 7h-13h,
+  alimentaire uniquement) — lieux, jours et heures publiés par la Ville. **Déblocage** : les familles de produits écrites par
+  une source (règle 197) et une photographie propre du marché ; la Ville n'illustre sa page que d'images de banque.
+- **Ferme de l'Aiguillonnière** (Sablé-sur-Sarthe) — ferme laitière en vente directe, labellisée HVE depuis 2023, présentée sur
+  une plateforme de commandes groupées. **Déblocage** : des heures de vente à la ferme publiées par
+  une source lisible (Bienvenue à la Ferme refuse tout agent, l'office et Sarthe Tourisme l'agent nommé). Téléphone : portable
+  seul, jamais repris.
+
+Point d'arrêt : **Sablé-sur-Sarthe** ; la commune suivante de la Sarthe est Allonnes (règle 247).
 
 ## Comment ajouter ou modifier un marchand
 
