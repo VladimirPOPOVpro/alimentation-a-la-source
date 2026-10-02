@@ -26556,5 +26556,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Grand-Quevilly%2C%206%20rue%20Antoine%20Lavoisier%2C%2076120%20Le%20Grand-Quevilly",
     "image_url": "/images/marchands/biocoop-grand-quevilly.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "fenouil-biocoop-sarge",
+    "nom": "Le Fenouil Biocoop Sargé",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.02517,
+    "lon": 0.238049,
+    "adresse": "2 Rue des Noisetiers, 72190 Sargé-lès-le-Mans",
+    "horaires": "Du lundi au samedi de 9h à 19h, fermé les jours fériés (site du magasin). Poissonnerie : mercredi et jeudi 9h-13h et 15h-18h30, vendredi et samedi 9h-13h30 et 15h-18h30. Boucherie : du mardi au jeudi 9h-13h et 14h30-19h, vendredi et samedi 9h-19h.",
+    "produits": [
+      "Fruits et légumes frais de saison, en priorité sarthois",
+      "Plus de 500 produits en vrac",
+      "Boucherie bio tenue par un groupement d'éleveurs",
+      "Poissonnerie bio",
+      "Fromages et produits frais",
+      "Pain frais local"
+    ],
+    "description": "Magasin de la coopérative mancelle Le Fenouil, réseau Biocoop, de 800 m² dans la zone de la Pointe, bâtiment à ossature bois isolé en chanvre, installé en 2008 et réaménagé en 2020 avec davantage de vrac et une salle coopérative. Son adresse figure parmi les lieux d'activité de l'opérateur au registre de l'Agence Bio (Ecocert, engagé en 2005). À 0,9 km de la mairie de Sargé-lès-le-Mans. Photo : façade du magasin, site de la coopérative.",
+    "telephone": "02 43 81 87 71",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fenouil%20Biocoop%2C%202%20rue%20des%20Noisetiers%2C%2072190%20Sarg%C3%A9-l%C3%A8s-le-Mans",
+    "image_url": "/images/marchands/fenouil-biocoop-sarge.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-mare-sarge-les-le-mans",
+    "nom": "Domaine de la Mare",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.038902,
+    "lon": 0.233641,
+    "adresse": "439 Route de la Mare, 72190 Sargé-lès-le-Mans",
+    "horaires": "Cidrerie ouverte le mercredi de 17h à 19h ; les autres jours, appeler avant de venir (site du domaine, consulté le 2 octobre 2026). À l'automne, cueillette de pommes bio au verger jusqu'au 10 octobre : mercredi de 15h à 19h, vendredi et samedi de 9h à 13h.",
+    "produits": [
+      "Cidres bio demi-secs",
+      "Jus de pomme bio",
+      "Cuvées spéciales en édition limitée",
+      "Pommes bio en cueillette à l'automne"
+    ],
+    "description": "Cidrerie et verger familial de dix hectares de pommiers, certifiés en agriculture biologique depuis 2012 ; les pommes sont pressées, mises en bouteille et le cidre élaboré sur place, à cinq minutes du Mans. La coopérative Le Fenouil, qui le compte parmi ses producteurs locaux, confirme l'activité. À 0,9 km de la mairie de Sargé-lès-le-Mans. Photo : le verger, publiée par Le Fenouil Biocoop sur sa page consacrée au domaine (le site du domaine interdit la reprise de ses images).",
+    "site_web": "https://www.domainedelamare.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20de%20la%20Mare%2C%20439%20route%20de%20la%20Mare%2C%2072190%20Sarg%C3%A9-l%C3%A8s-le-Mans",
+    "image_url": "/images/marchands/domaine-de-la-mare-sarge-les-le-mans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fenouil-biocoop-universite-le-mans",
+    "nom": "Le Fenouil Biocoop Université",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.017597,
+    "lon": 0.14926,
+    "adresse": "22 Boulevard Louis Leprince-Ringuet, 72000 Le Mans",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30, fermé les jours fériés (site du magasin). Retrait des commandes en ligne aux mêmes heures.",
+    "produits": [
+      "Fruits et légumes frais de saison, en priorité sarthois",
+      "Plus de 200 produits en vrac",
+      "Pain frais local livré chaque jour",
+      "Plus de 50 fromages de vache, chèvre et brebis",
+      "Produits frais et surgelés"
+    ],
+    "description": "Magasin bio de quartier de la coopérative Le Fenouil, réseau Biocoop, ouvert en 2012 au terminus de la ligne T1 du tramway, près de l'université ; charpente et ossature en bois. L'adresse est le siège de l'opérateur au registre de l'Agence Bio (Ecocert). À 7,0 km de la mairie de Sargé-lès-le-Mans. Photo : façade du magasin, site de la coopérative.",
+    "telephone": "02 43 88 36 70",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fenouil%20Biocoop%20Universit%C3%A9%2C%2022%20boulevard%20Louis%20Leprince-Ringuet%2C%2072000%20Le%20Mans",
+    "image_url": "/images/marchands/fenouil-biocoop-universite-le-mans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fenouil-biocoop-atlantides-le-mans",
+    "nom": "Le Fenouil Biocoop Atlantides",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.985948,
+    "lon": 0.223978,
+    "adresse": "4 Avenue d'Haouza, 72100 Le Mans",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30, fermé les jours fériés (site du magasin). Retrait des commandes en ligne aux mêmes heures.",
+    "produits": [
+      "Fruits et légumes frais de saison, en priorité sarthois",
+      "Plus de 300 produits en vrac",
+      "Pain frais local livré chaque jour",
+      "Plus de 50 fromages à la coupe",
+      "Produits frais et surgelés"
+    ],
+    "description": "Magasin bio de la coopérative Le Fenouil, réseau Biocoop, ouvert en février 2018 à la lisière d'un quartier populaire du sud du Mans, dans l'ancien local d'une enseigne de hard discount ; la coopérative le présente comme l'affirmation de ses valeurs sociales. Le registre des entreprises le place au 4 avenue d'Haouza, le registre de l'Agence Bio au 6. À 5,3 km de la mairie de Sargé-lès-le-Mans. Photo : façade du magasin, site de la coopérative.",
+    "telephone": "02 85 29 29 69",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fenouil%20Biocoop%20Atlantides%2C%204%20avenue%20d%27Haouza%2C%2072100%20Le%20Mans",
+    "image_url": "/images/marchands/fenouil-biocoop-atlantides-le-mans.jpg",
+    "a_confirmer": true
   }
 ]

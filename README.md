@@ -4873,9 +4873,30 @@ prioritaires en cas de conflit.
      page de présentation nomme le responsable du magasin, et la page d'accueil affiche en vignettes des producteurs locaux dont
      certains sont désignés par un nom de personne (règles 376 et 377) ; les faits se citent comme venant du « site du magasin ».
 
+396. **Une photographie qu'un magasin publie sur sa propre page consacrée à un producteur se lit sous le régime du site du
+     magasin, même quand le site du producteur ferme ses images.** Le 2 octobre 2026 (cent dix-neuvième passe), à
+     Sargé-lès-le-Mans, la cidrerie du Domaine de la Mare a ses faits entiers sur son propre site (heures d'ouverture, cueillette
+     d'automne, certification), mais ses mentions légales nomment les « images » dans leur interdiction (règle 231). La
+     coopérative Le Fenouil, dont le site ne porte qu'une clause générale sur « l'ensemble des éléments » sans nommer d'image et dont
+     le `robots.txt` n'exclut personne, consacre au domaine une page datée de janvier 2021, illustrée de sept fichiers à son propre
+     nom de domaine, dont une vue du verger sans personne. La règle 263 lit sous le régime du site de la Ville la photographie
+     qu'une commune publie sur sa page consacrée à un producteur ; la règle 312 prête la photographie d'un commerce à une autre
+     fiche de la commune. Aucune ne visait la page qu'un magasin consacre à son fournisseur. **Tranché ainsi** : comme à la règle
+     263, le fichier se lit sous la clause du site qui le publie, pas sous celle du producteur qu'il montre, à quatre conditions :
+     la page est consacrée au producteur nommé par la fiche ; le nom du fichier ne crédite aucun photographe (règle 339) et ses
+     métadonnées ne portent aucune réserve (règle 393) ; l'image ne montre ni personne ni étiquette d'un tiers (règle 332) ; la
+     description dit d'où vient la photographie et que le site du producteur en interdit la reprise. Une étiquette du producteur
+     lui-même n'est pas une marque de tiers, mais une vue du lieu passe avant un rayon de bouteilles. Première application : le
+     verger du Domaine de la Mare, fichier sans champ d'auteur ni de droits, 2 560 px ramenés à 1 280.
+
 ## Marchands à confirmer
 
-888 fiches sur 1000 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+892 fiches sur 1004 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Le Fenouil Biocoop Sargé** et **Domaine de la Mare** (Sargé-lès-le-Mans), **Le Fenouil Biocoop Université** et **Le
+  Fenouil Biocoop Atlantides** (Le Mans) (passe du 2 octobre 2026, cent dix-neuvième, règles 312, 320, 334 et 396) : la
+  cueillette d'automne du domaine est annoncée « jusqu'au 10 octobre » sans année ; l'adresse du magasin Atlantides diffère d'un
+  numéro entre le registre des entreprises (4) et celui de l'Agence Bio (6, règle 98) ; aucune des quatre fiches ne porte de lien
+  vers le site de la coopérative, dont la page d'accueil nomme des producteurs (règle 377).
 - **Ferme Saint Aignan** et **Le Producteur Local — Mont-Saint-Aignan** (Mont-Saint-Aignan), **Biocoop Planète Bio
   Bois-Guillaume** (Bois-Guillaume) et **Biocoop Grand-Quevilly** (Le Grand-Quevilly) (passe du 29 septembre 2026, cent
   dix-septième, règles 312, 320 et 395) : le point de la ferme est celui qu'elle publie elle-même, la Base Adresse Nationale ne
@@ -12324,6 +12345,67 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 2 octobre 2026 (cent dix-neuvième) : Sargé-lès-le-Mans et Le Mans Métropole (Sarthe), quatre fiches ; règle 396
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 000 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : identique à la passe précédente, qui n'a rien publié (règle 260) ; la
+dernière région visée reste la Normandie (passe de Mont-Saint-Aignan), fermée (règle 41.c) ; **Sarthe (72) 3,2191**, premier
+département ouvert, en Pays de la Loire. Aucune intercommunalité de la Sarthe ne porte quatre fiches désignées : la règle 302 ne
+joue pas. Contrôle de tête de Labenne : `labenne.fr` n'ouvre toujours aucune connexion, aux deux agents. `git fetch` refait avant
+l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 004 fiches : Sarthe −0,7480 ; la prochaine passe
+ne peut pas viser les Pays de la Loire.
+
+**Descente de la Sarthe, reprise à Yvré-l'Évêque (règles 41.d, 127 et 247)** ; aucune commune sautée depuis Laigné-Saint-Gervais
+(règle 375) :
+
+1. **Yvré-l'Évêque** (4 181) — la Ville publie deux marchés : un marché bio le mercredi de 16h à 19h, esplanade Nelson-Mandela, et
+   un marché le vendredi de 8h à 12h30, place de la Mairie (fruits, légumes, fromages, produits de saison) ; l'office de tourisme
+   du Mans ne connaît que le second, rue de Touraine, de 7h à 13h (règles 5 et 176). Les mentions légales de la Ville nomment les
+   « images » dans leur interdiction, celles de l'office les « images, photos » (règle 231). Rien d'entier.
+2. **Savigné-l'Évêque** (4 031) — la Ville coupe la connexion à l'agent nommé (444) et sert l'agent par défaut (règle 257). La
+   ferme maraîchère bio de Belle Garde ne publie ses heures que sur une plateforme dont le `robots.txt` range `GPTBot` parmi les
+   agents exclus (règles 77 et 233). **Zéro.**
+3. **Le Lude** (3 983) — la Ville publie le marché du jeudi (6h-14h, place et rue du Champ-de-Foire ; primeurs, traiteur,
+   boucherie, fruits et légumes, boulanger, poissonnerie), mais ses mentions légales nomment les « représentations
+   iconographiques et photographiques », et sa page n'a pour image qu'une photographie de banque. La ferme laitière bio du Frêne
+   n'est décrite que par l'office de la Vallée du Loir, qui refuse l'agent nommé (403), et par des plateformes fermées. Rien
+   d'entier.
+4. **Sargé-lès-le-Mans** (3 851) — la Ville nomme les « photographies » dans son interdiction et ne tient pas de marché, mais la
+   commune rend **deux fiches entières** (règle 127) : le **magasin Le Fenouil Biocoop de la rue des Noisetiers** (heures et fixe
+   publiés par la coopérative, établissement actif au registre sous l'enseigne, lieu d'activité de l'opérateur certifié au registre
+   de l'Agence Bio ; clause générale du site sans nom d'image, règle 231 ; façade sans personne) et la **cidrerie du Domaine de la
+   Mare** (société active à son adresse, certificat bio engagé, heures sur son propre site, dont la page d'accueil ne nomme
+   personne ; photographie du verger prise sur la page que Le Fenouil consacre au domaine, règle 396).
+
+**Zone publiée (règles 96, 127, 295, 320 et 334)** : Sargé-lès-le-Mans fait la passe avec ses deux fiches entières, complétées dans
+Le Mans Métropole (même EPCI au référentiel, règle 219) par deux autres magasins de la même coopérative, au Mans. Distances depuis
+la mairie de Sargé-lès-le-Mans, 34 rue Principale (point de l'annuaire de l'administration, règle 363) : Le Fenouil Sargé 0,9 km,
+Domaine de la Mare 0,9 km, Le Fenouil Atlantides 5,3 km, Le Fenouil Université 7,0 km. **Quatre points**, publiés au titre de la
+règle 320 ; trois fiches de la même enseigne sur quatre, le plafond de la règle 334. Le cinquième manque : les marchés manceaux
+désignés depuis la passe du Mans (Pâtis Saint-Lazare, Boussinière, Maillets, Gare-Sud, Washington, Gazonfier, Cité des Pins) ne se
+relisent pas — `lemans.fr` ne sert plus qu'une coquille rendue par le navigateur, puis n'a ouvert aucune connexion, `robots.txt`
+compris, aux deux agents pendant la passe (règles 297 et 322) — et les photographies de l'office du Mans sont désormais fermées
+(« images, photos ») ; les marchés d'Yvré-l'Évêque n'ont aucune image permise ; un quatrième magasin de la coopérative dépasserait
+la règle 334 ; le magasin bio de Spay et la ferme de Changé sont hors de l'intercommunalité. **Déblocage** : le retour de
+`lemans.fr` avec une image permise pour l'un des marchés, ou un autre point illustrable de Le Mans Métropole à moins de quinze
+kilomètres de la mairie de Sargé-lès-le-Mans.
+
+**Points et adresses.** Les quatre adresses sont connues de la Base Adresse Nationale au numéro (scores 0,95 à 0,97). Le Fenouil
+Atlantides : 4 avenue d'Haouza au registre des entreprises, 6 au registre de l'Agence Bio ; le point est celui du registre des
+entreprises (règle 98).
+
+**Contradictions.** Marché du vendredi d'Yvré-l'Évêque (non publié) : place de la Mairie et 8h-12h30 pour la Ville, rue de Touraine
+et 7h-13h pour l'office. Domaine de la Mare : la cueillette est annoncée « jusqu'au 10 octobre » sans année ; la fiche le dit et
+reste `a_confirmer`.
+
+**Images.** Toutes réencodées depuis leurs seuls pixels (règle 235), aucune au-delà de 1 280 px, aucune agrandie ; métadonnées
+contrôlées avant enregistrement (règle 393 : seul un logiciel de retouche y est nommé) ; aucun visage. Aucun lien `site_web` vers
+la coopérative : sa page d'accueil nomme des producteurs locaux (règle 377), et la page du magasin Atlantides nomme son responsable.
+
+**Écartées pour doute sur une personne** : aucune dans cette passe. Plusieurs opérateurs du registre bio des communes éprouvées ne
+sont inscrits que sous un nom de personne ; ils n'ont pas été instruits et ne sont pas nommés.
 
 ### Passe du 30 septembre 2026 (cent dix-huitième) : Sarthe et Marne, aucune publication
 
@@ -27027,6 +27109,22 @@ Passe du 30 septembre 2026 (cent dix-huitième), département de tête :
   sur une personne, non rouvrable.
 
 Point d'arrêt : **Laigné-Saint-Gervais** ; la commune suivante de la Sarthe est Yvré-l'Évêque (règle 247).
+
+Passe du 2 octobre 2026 (cent dix-neuvième), qui a trouvé sa zone à Sargé-lès-le-Mans :
+
+- **Marchés d'Yvré-l'Évêque** — marché bio du mercredi (16h-19h, esplanade Nelson-Mandela) et marché du vendredi (8h-12h30 place
+  de la Mairie selon la Ville, 7h-13h rue de Touraine selon l'office ; fruits, légumes, fromages). **Déblocage** : une image permise ;
+  pour le mercredi, une seconde page de la Ville (règle 178) ; pour le vendredi, le lieu tranché (règle 5).
+- **Marché du jeudi du Lude** (6h-14h, place et rue du Champ-de-Foire) — faits entiers sur la page de la Ville. **Déblocage** : une
+  image permise de la commune.
+- **Ferme du Frêne** (Le Lude, ferme laitière bio, vente à la ferme le vendredi soir selon des annuaires tiers) et **ferme
+  maraîchère de Belle Garde** (Savigné-l'Évêque) — **Déblocage** : des heures publiées par une source lisible (l'office de la Vallée
+  du Loir refuse l'agent nommé, les plateformes de vente directe excluent les agents d'IA).
+- **Marchés désignés du Mans** — inchangés, non relus (`lemans.fr` muet, règle 297) ; ils complètent en priorité le groupe de
+  Sargé-lès-le-Mans dès que la Ville répond et qu'une image permise existe.
+
+Point d'arrêt : **Sargé-lès-le-Mans**, qui a fait la passe ; la commune suivante de la Sarthe est La Bazoge (3 796 habitants,
+règle 247).
 
 ### Pistes non publiées dans la Marne (Châlons-en-Champagne, Épernay)
 
