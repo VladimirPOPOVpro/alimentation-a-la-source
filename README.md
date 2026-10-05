@@ -4953,6 +4953,21 @@ prioritaires en cas de conflit.
      `a_confirmer` parce qu'elle n'a qu'une source pour son horaire. Le contrôle des mentions légales se fait désormais avant
      toute lecture d'une page de contenu.
 
+403. **Un site qui refuse l'agent par défaut et sert l'agent nommé se lit sous l'agent nommé.** Le 5 octobre 2026, le site d'une
+     ferme d'insertion de l'Avesnois et celui de la criée du Grau d'Agde ont répondu 403 à l'agent par défaut et 200 à l'agent
+     qui se présente par son nom. La règle 257 ferme le site qui refuse le robot nommé, la règle 237 celui qui refuse tout
+     agent automatique ; aucune ne dit quoi faire du cas inverse. **Tranché ainsi** : le filtrage écarte ici l'anonyme, pas le
+     robot de cette carte ; se présenter sous son nom n'est pas un déguisement (règles 212 et 252), le site est une source,
+     et il se lit **uniquement** sous l'agent nommé. Le `robots.txt` et les mentions légales se contrôlent comme partout
+     ailleurs (règles 77, 231 et 402).
+
+404. **La commune d'une fiche, pour la règle 127, est celle où tombe son point, pas celle de son adresse postale.** Un domaine
+     viticole qui écrit « 34400 Lunel » dans son adresse a son mas, d'après les coordonnées qu'il publie lui-même et le
+     référentiel `geo.api.gouv.fr`, sur la commune de Saturargues ; le registre des entreprises place d'ailleurs son siège à
+     Saturargues sous le même code postal. **Tranché ainsi** : le libellé postal s'écrit dans `adresse` tel que le commerce le
+     publie, mais la fiche compte pour la commune du référentiel — ici elle ne peut être que l'un des points
+     d'intercommunalité de la règle 96, jamais l'une des deux fiches entières de Lunel.
+
 ## Marchands à confirmer
 
 900 fiches sur 1018 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -12427,6 +12442,101 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-quatrième) : Nord et Hérault, aucune publication ; règles 403 et 404
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 018 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : la dernière région visée est le Grand Est (passe d'Erstein), fermée (règle 41.c) ;
+**Nord (59) 3,6164**, premier département ouvert, en Hauts-de-France ; la Haute-Saône (3,4427) est épuisée ; **Hérault (34)
+3,1636**, en Occitanie, second (règles 248 et 364). Aucune intercommunalité du Nord ni de l'Hérault ne porte quatre fiches
+entières désignées : la règle 302 ne joue pas. Contrôle de tête de Labenne : `labenne.fr` n'ouvre toujours aucune connexion,
+aux deux agents. Lezennes, réessayée hors borne (règles 290 et 400) : toujours la page « Site en maintenance ». `git fetch`
+refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, le classement est inchangé (règle 260) :
+Nord 3,6164, Hérault 3,1636, Saône-et-Loire 3,1246 ; rien n'ayant été publié, la prochaine passe peut viser les
+Hauts-de-France comme l'Occitanie, pas le Grand Est.
+
+**Descente du Nord, reprise à Trélon (règles 41.d, 127 et 247)**, douze communes, contrôle à deux agents (règle 257) :
+
+1. **Trélon** (2 604) — la page des commerces de la Ville donne une ferme de vente de viande (samedi 10h-16h) jointe par un
+   seul numéro de portable (règle 143) et inscrite au registre bio sous un nom de personne, certificat arrêté, et un rucher
+   désigné par deux prénoms ; aucun marché. La ferme d'insertion que le registre bio rattache à la commune vend à Féron, pas
+   à Trélon (son site ne répond qu'à l'agent nommé : règle 403). **Zéro.**
+2. **Morbecque** (2 573) — aucun site à l'annuaire de l'administration, et l'adresse usuelle de la Ville répond 500 aux deux
+   agents ; au registre bio, un grossiste en viandes et une ferme maraîchère dont la dénomination porte un nom de personne.
+   **Zéro.**
+3. **Watten** (2 564) — l'annuaire des commerçants ne porte, sous « Alimentation générale, marché », que deux supérettes ; les
+   mentions légales nomment les « photos, images » (règle 231). **Zéro.**
+4. **Avelin** (2 561) — l'annuaire des entreprises de la Ville ne nomme ni marché ni producteur ; au registre bio, les sièges
+   d'un groupe de boulangeries et d'un magasin de vrac sans site ; les mentions légales nomment les « images » (règle 231).
+   **Zéro.**
+5. **Camphin-en-Pévèle** (2 518) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) : non
+   consultée. **Zéro.**
+6. **Landas** (2 518) — la Ville tient une page « Monde agricole ». Deux exploitations y ont une enseigne qui n'est pas un nom
+   de personne et sont actives au registre : **Au palais du foie gras** (200 rue de la Multerie ; vendredi 9h-12h et 14h-19h,
+   samedi 9h-12h et 14h-18h ; volailles et foie gras) a ses **faits entiers, sans image** ; **Au panier nature** (520 rue
+   Miron-Zlatin ; œufs, volailles, légumes, produits laitiers, fruits) n'a ni jour ni heure (règle 192). Aucune des deux n'a de
+   site ; l'office de tourisme Pévèle Carembault, consulté pour la première fois, ne fiche aucun producteur et ses mentions
+   légales nomment les « images » (règle 231). Les autres lignes de la page sont des noms de personnes. **Zéro fiche
+   entière.** Déblocage : une image permise d'au moins 600 px, et des heures pour la seconde.
+7. **Saultain** (2 499) — le `robots.txt` de la Ville ne ferme aux agents d'IA que `/fileadmin/` (règle 294) ; aucun marché ;
+   une **brasserie artisanale** de l'avenue Henri-Barbusse a son site, ouvert aux deux agents, et sa société active, son
+   certificat bio étant arrêté : un seul point possible, non instruit. **Pas deux.**
+8. **Famars** (2 474) — même `robots.txt` ; la rubrique des commerces ne nomme ni marché ni producteur ; au registre bio, une
+   supérette de réseau. **Zéro.**
+9. **Leval** (2 474) — la Ville répond 503 à l'agent nommé et 200 à l'agent par défaut, deux fois de suite (règles 257 et
+   399) : non consultée. **Zéro.**
+10. **Busigny** (2 435) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) : non consultée.
+    **Zéro.**
+11. **Ennevelin** (2 416) — le **marché du samedi matin** (place de la mairie ; fruits et légumes, boucherie-charcuterie) est
+    écrit par la Ville sans heures, sur une page qui nomme ses exposants ; la page « Vente directe » donne une **ferme en
+    AMAP** de la route Nationale, dont le site, ouvert, annonce l'accueil du samedi de 10h30 à 12h30 mais date de 2019 et
+    nomme son producteur en page d'accueil (règles 376 et 383) ; les mentions légales de la Ville nomment les « images »
+    (règle 231). Un fournil et un maraîcher désignés par un prénom ou un nom. **Zéro fiche entière.** Déblocage : une page
+    datée de la ferme et une image permise.
+12. **Pont-sur-Sambre** (2 371) — la liste des commerçants de la Ville nomme une personne à chaque ligne (règle 383) ; au
+    registre bio, un maraîcher inscrit sous son nom. **Zéro.**
+
+**Monchecourt** (2 516) sert une « Page de maintenance » (503 aux deux agents, règles 288 et 400) : constatée absente, hors
+borne (règle 290), à réessayer en tête de la prochaine descente avec Lezennes.
+
+**Point d'arrêt du Nord : Pont-sur-Sambre** ; la commune suivante est **Lewarde** (2 353). Aucune zone : la passe prend le second
+département (règle 248).
+
+**Hérault, reprise à Agde (règles 247 et 248)**, deux communes :
+
+1. **Agde** (29 939) — la Ville répond aux deux agents et écrit trois marchés de plein vent (jeudi, la Promenade, 6h30-13h,
+   « alimentaire » ; jeudi et dimanche, place des Mûriers au Grau d'Agde, 6h30-13h, « traditionnel ») sans autre famille de
+   produits (règle 197), et ses mentions légales nomment les « photographies, images » (règle 231). L'office de tourisme répond
+   403 à tout agent (règle 237). La cave coopérative qui tient un caveau boulevard du Soleil publie ses heures mais réserve
+   ses « représentations iconographiques et photographiques » ; la criée du Grau d'Agde (lue sous l'agent nommé, règle 403)
+   vend aux professionnels et ferme ses « images » ; l'agence départementale du tourisme, ouverte aux deux agents, ne fiche
+   dans la commune que ce caveau et un domaine joint par un seul portable (règle 143), et interdit la reproduction de ses
+   « textes, sons ou images ». Le magasin du réseau coopératif bio n'a de page que sur le site national, fermé à l'agent
+   nommé (règle 257). **Zéro fiche entière.**
+2. **Lunel** (26 623) — la Ville répond 403 à l'agent nommé (règle 257) : non consultée. L'office de tourisme de
+   l'agglomération répond aux deux agents ; ses mentions légales ne portent qu'une ligne de crédits (règle 306). Dans la
+   commune, deux points ont leurs **faits entiers** : le **Domaine des Aires** (67 rue des Aires ; société active ; caveau
+   ouvert toute l'année, 8h-18h l'hiver, 7h30-19h30 l'été, d'après son site) et le **magasin bio coopératif du chemin de la
+   Vidourlenque** (société coopérative active, engagée au registre bio ; du lundi au samedi 9h-19h30, d'après son site édité
+   localement, règle 395). Mais aucun n'a d'image : les photographies de l'office font 500 px au plus et celles de la galerie
+   du domaine 475 px, sous le plancher de 600 px (règle 59) ; les conditions d'utilisation du magasin nomment les
+   « photographies » (règle 231). Les **halles couvertes** ont la seule image permise de 600 px (office), mais l'office n'en
+   écrit que « tous les matins sauf le lundi » et « toute la gamme des produits du terroir » : ni heure ni famille (règle
+   197). **Zéro fiche entière** au sens de la règle 127 : la commune ne fait pas la passe, et la règle 320 ne s'ouvre pas.
+
+Lunel Agglo aurait complété le groupe : la cave coopérative du Muscat de Lunel et celle des Coteaux de Saint-Christol, à
+Entre-Vignes, publient chacune leurs heures de caveau, et un domaine de Saturargues les siennes (règle 404) ; toutes trois
+sont actives au registre, toutes trois sans image d'au moins 600 px permise. Le détail est en pistes.
+
+**Point d'arrêt de l'Hérault : Lunel** ; la commune suivante est **Castelnau-le-Lez** (26 058).
+
+**Aucune zone dans les deux départements : la passe ne publie rien (règle 248).**
+
+**Écartées pour doute sur une personne** : à Trélon, un rucher et une ferme ; à Morbecque, une ferme ; à Landas, les lignes
+nominatives de la page agricole et une ferme fruitière dont la page porte une adresse personnelle ; à Ennevelin, un fournil et
+un maraîcher ; à Pont-sur-Sambre, les commerces de bouche et un maraîcher ; à Agde et à Lunel, des exploitations du registre
+bio et des producteurs fichés par l'office sous un nom de personne. Non instruits, non nommés, non rouvrables.
 
 ### Passe du 5 octobre 2026 (cent vingt-troisième) : Erstein et le Canton d'Erstein (Bas-Rhin), cinq fiches ; règles 401 et 402
 
@@ -27674,6 +27784,58 @@ Passe du 5 octobre 2026 (cent vingt-deuxième), deux communes (règle 248) :
 
 Point d'arrêt : **Hœnheim** ; la commune suivante du Bas-Rhin est **Saverne** (11 460), les fiches désignées de Schiltigheim,
 de Sélestat et de Bischheim étant à prendre d'abord (règle 258).
+
+### Pistes non publiées dans le Nord (de Trélon à Pont-sur-Sambre)
+
+Passe du 5 octobre 2026 (cent vingt-quatrième), douze communes (règle 247) :
+
+- **Landas, Au palais du foie gras** (200 rue de la Multerie ; vendredi 9h-12h et 14h-19h, samedi 9h-12h et 14h-18h ;
+  volailles, foie gras) : société active, faits entiers à la Ville, page nominative (aucun lien, règle 383). **Déblocage** :
+  une image permise d'au moins 600 px. **Au panier nature** (520 rue Miron-Zlatin ; œufs, volailles, légumes, produits
+  laitiers, fruits) : société active, ni jour ni heure. **Déblocage** : des heures de vente publiées, et une image.
+- **Ennevelin, marché du samedi matin** (place de la mairie ; fruits et légumes, boucherie-charcuterie) : jour, lieu et
+  familles à la Ville, sans heures. **Déblocage** : une heure, et une image hors du site de la Ville (règle 231). **Ferme en
+  AMAP de la route Nationale** : enseigne déclarée au registre, accueil du samedi 10h30-12h30 sur un site daté de 2019.
+  **Déblocage** : une page datée, et une image d'au moins 600 px.
+- **Saultain, brasserie artisanale de l'avenue Henri-Barbusse** : société active, site ouvert, non instruite.
+  **Déblocage** : une seconde fiche entière dans la commune.
+- **Monchecourt** : site de la Ville en maintenance (règle 400). **Déblocage** : le retour du site ; à réessayer en tête de la
+  prochaine descente, avec Lezennes, hors borne (règles 288 et 290).
+- **Camphin-en-Pévèle, Leval, Busigny** : Villes fermées à l'agent nommé (règle 257). **Déblocage** : la même réponse aux
+  deux agents.
+- Trélon, Morbecque, Landas, Ennevelin, Pont-sur-Sambre : écartés pour doute sur une personne, non rouvrables.
+
+Point d'arrêt : **Pont-sur-Sambre** ; la commune suivante du Nord est **Lewarde** (2 353).
+
+### Pistes non publiées dans l'Hérault (Agde, Lunel)
+
+Passe du 5 octobre 2026 (cent vingt-quatrième), deux communes (règle 248) :
+
+- **Agde, marchés de la Promenade** (jeudi, 6h30-13h) **et de la place des Mûriers au Grau d'Agde** (jeudi et dimanche,
+  6h30-13h) : jours, lieux et heures à la Ville. **Déblocage** : une famille de produits écrite (règle 197) et une image
+  hors du site de la Ville (règle 231). **Caveau de la cave coopérative, 2 boulevard du Soleil** : heures au site de la
+  coopérative, non relevées en entier. **Déblocage** : une image permise.
+- **Lunel, Domaine des Aires** (67 rue des Aires ; caveau ouvert toute l'année sauf le 25 décembre et le 1er janvier, sans
+  interruption, 8h-18h l'hiver et 7h30-19h30 l'été ; Muscat de Lunel, muscat sec, vins de pays ; téléphone fixe publié) :
+  société active, faits entiers ; la page d'accueil du site nomme le vigneron (aucun lien, règles 376 et 383).
+  **Déblocage** : une image permise d'au moins 600 px.
+- **Lunel, magasin bio coopératif, 268 chemin de la Vidourlenque** (du lundi au samedi 9h-19h30 ; fruits et légumes de
+  producteurs locaux, vrac, fromage et charcuterie à la coupe, pain) : société coopérative active, engagée au registre bio,
+  faits entiers sur son site édité localement. **Déblocage** : une image hors de son site (règle 231).
+- **Lunel, halles couvertes** : image de l'office (600 × 417). **Déblocage** : des heures et une famille de produits écrites
+  par une source ouverte (règle 197) — la Ville est fermée à l'agent nommé.
+- **Entre-Vignes, cave coopérative du Muscat de Lunel** (route de Lunel-Viel, Vérargues ; caveau du lundi au vendredi 9h-12h
+  et 14h-18h, et le samedi d'avril à décembre) **et cave coopérative Les Coteaux de Saint-Christol** (avenue de la Cave
+  Coopérative ; caveau du lundi au samedi 9h-12h et 14h-19h) : sociétés actives, heures sur leurs sites, qui nomment les
+  « images » (règle 231) ; photographies de l'office à 500 px. **Déblocage** : une image permise d'au moins 600 px.
+- **Saturargues, domaine viticole du mas de Bellevue** (adresse postale à Lunel, règle 404 ; du lundi au samedi 9h-12h30 et
+  15h-19h) : société active ; son site nomme les « photos » et sa page de contact une personne. **Déblocage** : une image
+  permise d'au moins 600 px.
+- Agde, Lunel et Lunel Agglo : des producteurs écartés pour doute sur une personne, non rouvrables.
+
+Aucune de ces fiches n'est « entière » au sens de la règle 127 : aucune n'est désignée pour la reprise (règle 258).
+
+Point d'arrêt : **Lunel** ; la commune suivante de l'Hérault est **Castelnau-le-Lez** (26 058).
 
 ## Comment ajouter ou modifier un marchand
 
