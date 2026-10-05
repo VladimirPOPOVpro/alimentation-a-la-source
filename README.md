@@ -5032,9 +5032,22 @@ prioritaires en cas de conflit.
      Le récit de la passe écrit les départements sautés avant lui, avec leur déficit et leur état, pour que la passe
      suivante n'hérite pas d'une liste tronquée. Les passes déjà faites ne sont pas défaites : leurs fiches comptent.
 
+411. **Une page qui écrit que ses photographies sont « fournies par le service » et « peuvent être utilisées pour illustrer »
+     est une source d'image permise, pour le lieu qu'elle décrit et comme photographie thématique de la commune.** Le 5 octobre
+     2026 (cent vingt-neuvième passe), la page « Foires et marchés » du Grand Pontarlier porte cette mention au-dessus des
+     photographies du marché, alors que les mentions légales du même site interdisent en termes généraux « toute reproduction »
+     sans nommer d'image, et que celles de la Ville ferment nommément les siennes. **Tranché ainsi** : la permission écrite sur
+     la page l'emporte sur la clause générale du site (règle 231) et vaut l'autorisation de la règle 407, la source étant citée
+     dans la description ; elle ne s'étend ni aux autres pages du site ni au site de la Ville. Le reste ne change pas : pas de
+     visage reconnaissable, métadonnées retirées (règle 235), un fichier distinct par fiche (règle 191), et un fichier dont le
+     nom porte celui d'une personne ne se reprend pas.
+
 ## Marchands à confirmer
 
-911 fiches sur 1036 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+912 fiches sur 1040 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- la **Fruitière à Comté de Pontarlier — Les Monts de Joux** (passe du 5 octobre 2026, cent vingt-neuvième, règles 1, 312,
+  402 et 411) : ses heures viennent de la seule fiche de l'office de tourisme, et elle n'a qu'une photographie thématique de la
+  commune, un étal du marché de Pontarlier.
 - **Un jardin qui chante** et la **boutique vigneronne de Vinescence** (Belleville-en-Beaujolais), la **Cave de Fleurie**
   (passe du 5 octobre 2026, cent vingt-huitième, règles 1, 5, 96, 312 et 410) : la ferme écrit route de la Thouaille et le
   registre bio route de Champanard, le point est celui de la rue ; la page de la cave Vinescence porte deux jeux d'heures pour
@@ -12529,6 +12542,78 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-neuvième) : Pontarlier et le Grand Pontarlier (Doubs), quatre fiches ; règle 411
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 040 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 036 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,26, Oise 8,47, Pas-de-Calais 6,90, Landes 6,51,
+Eure-et-Loir 6,51, Calvados 5,66, Loiret 5,39, Lot-et-Garonne 5,01, Loir-et-Cher 4,94, Aube 4,66, Mayenne 4,59, Somme 4,50,
+Cher 4,49, Jura 3,88 et Haute-Saône 3,50, tous épuisés (règle 265) ; Ain 5,21, épuisé et de surcroît en
+Auvergne-Rhône-Alpes, région de la passe précédente (Belleville-en-Beaujolais), fermée (règle 41.c) ; **Doubs (25) 3,2210**,
+premier département ouvert, en Bourgogne-Franche-Comté, cinq fiches toutes dans Grand Besançon Métropole, jamais descendu
+depuis la passe de Besançon. Second du classement (règle 248) : la Côte-d'Or (3,1149), **non ouverte** puisque le Doubs rend
+sa zone. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 040 fiches :
+Doubs −0,7473 (9 fiches) ; Haute-Garonne 3,1938, Côte-d'Or 3,1462, Alpes-Maritimes 3,0196. La prochaine passe ne peut pas
+viser la Bourgogne-Franche-Comté.
+
+**Descente du Doubs, ouverte à Montbéliard (règles 41.d, 96 et 127)**, contrôle à deux agents (règle 257). Le registre de
+l'Agence Bio du département (741 opérateurs) a été lu en entier et filtré par intercommunalité.
+
+1. **Montbéliard** (24 672) — la Ville, l'agglomération et l'office de tourisme servent les deux agents. La Ville écrit ses
+   trois marchés avec jour et heures, et ses mentions légales ne font que dire à qui appartiennent ses contenus (règle 306) ;
+   mais le marché du mardi n'a qu'une formule générique (règle 197), celui du mercredi n'a pas de lieu écrit (« centre-ville »),
+   et celui du samedi porte un nom de lieu que ni la Base Adresse Nationale ni le géocodeur de l'IGN ne placent (règle 409).
+   L'office ferme nommément ses photographies (règle 231). La fromagerie coopérative de la commune coupe la connexion au seul
+   agent nommé (règle 399) et l'office ne donne pour elle que des heures sans jours (règle 192) ; le magasin bio de réseau
+   relève d'un site fermé à l'agent nommé (règle 257), l'autre magasin bio n'a plus de site qui réponde. Le magasin de
+   producteurs de Sochaux est radié au registre des entreprises (aucun établissement ouvert). **Zéro fiche entière.**
+2. **Pontarlier** (18 067) — **fait la passe, à quatre points (règle 320).** La Ville ferme nommément ses images (règle 231) ;
+   le site du Grand Pontarlier, lui, n'a qu'une clause générale et écrit sur sa page « Foires et marchés » que ses
+   photographies sont « fournies par le service pouvant être utilisées pour illustrer » (règle 411). L'office de tourisme du
+   Haut-Doubs soumet ses photographies à une demande préalable : il ne sert que de source de faits (règle 402). Trois fiches
+   dans la commune, la quatrième à Doubs, même intercommunalité au référentiel (règle 219), à 3 km (règle 96).
+
+Les quatre fiches, toutes dans la Communauté de communes du Grand Pontarlier :
+
+1. **Marché de la halle couverte de Pontarlier** — fiche entière. Jeudi et samedi 7h-13h30, un seul lieu, une seule fiche
+   (règle 42). Le service écrit « denrées alimentaires » sans détailler les étals : les produits publiés sont ceux que montrent
+   ses propres photographies, et la description le dit. Point : la place, à la Base Adresse Nationale. Photographie du
+   service, un étal de légumes, sans personne.
+2. **La Ruch'Bio** (Pontarlier) — fiche entière. Société active au registre à l'adresse, inscrite au registre de l'Agence
+   Bio ; heures et fixe sur sa page « Contact », mentions légales sans clause sur les images, hébergeur d'images au
+   `robots.txt` en 404 (règle 343). Photographie de son rayon fruits et légumes, sans personne, recadrée.
+3. **Fruitière à Comté de Pontarlier — Les Monts de Joux** — `a_confirmer`. Coopérative active au registre, un établissement
+   ouvert dans la rue ; elle n'a pas de site propre retrouvé, les heures et le fixe viennent de la fiche de l'office (règle
+   402). Photographie thématique de la commune : un étal d'œufs du marché, photographie du service des foires et marchés,
+   fichier distinct de celui du marché (règles 1, 191 et 312).
+4. **Fromagerie de Doubs** (Doubs, 3 km) — fiche entière. Société coopérative active au registre à l'adresse ; heures des
+   sept jours et fixe sur sa page « Le magasin », qui ne nomme personne ; mentions légales sans clause sur les images.
+   Photographie de sa façade, sans personne. Une autre photographie du même site, qui montre une personne, n'est pas reprise.
+
+Toutes les images sont réencodées depuis leurs seuls pixels, après application de leur orientation (règle 235), aucune
+agrandie. **Le cinquième manque** : voir les pistes. Aucune contradiction de fait sur une fiche publiée.
+
+**Pistes non publiées (Montbéliard et Pontarlier)** — lignes anonymes :
+
+- Montbéliard, marché du samedi : jour, heures et étals écrits par la Ville. **Déblocage** : une adresse ou un point que la
+  Ville, la Base Adresse Nationale ou l'IGN donne pour son lieu.
+- Montbéliard, marché du mercredi : **Déblocage** : le lieu écrit par la Ville. Marché du mardi : **déblocage** : une source
+  qui dit ce qu'on y achète.
+- Montbéliard, fromagerie coopérative : **Déblocage** : ses jours d'ouverture par une source lisible, et une image permise.
+- Pays de Montbéliard Agglomération, non instruits faute de deux fiches dans la commune : une fromagerie artisanale et son
+  magasin (Vieux-Charmont et Étupes), une conserverie artisanale (Fesches-le-Châtel), une microbrasserie bio
+  (Dampierre-les-Bois), une fruitière à comté (Noirefontaine), un jardin maraîcher d'insertion (Bavans) ; leurs sites servent
+  les deux agents. À reprendre si une commune de l'agglomération rend deux fiches entières.
+- Chaffois, magasin de la même coopérative que la fruitière de Pontarlier : établissement actif au registre, heures connues
+  des seuls annuaires privés. **Déblocage** : ses heures par la coopérative, l'office ou la commune.
+- Pontarlier, boulangerie bio : son site est une application qui ne rend aucun texte sans script. **Déblocage** : adresse et
+  heures lisibles.
+- Écartées pour doute sur une personne, sans réouverture : à Pontarlier, une fromagerie et un point de vente de produits
+  fermiers dont l'enseigne est un nom ou un prénom ; à Granges-Narboz, un affineur dont l'enseigne est un nom de personne. Une
+  photographie du service des foires et marchés dont le nom de fichier porte un nom n'a pas été reprise.
+
+**Point d'arrêt du Doubs : Pontarlier.** Montbéliard est éprouvée. La commune suivante est **Audincourt** (14 071).
 
 ### Passe du 5 octobre 2026 (cent vingt-huitième) : Belleville-en-Beaujolais et la Communauté de communes Saône-Beaujolais (Rhône), quatre fiches ; règle 410
 

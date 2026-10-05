@@ -27481,5 +27481,103 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cave%20de%20Fleurie%2C%20213%20rue%20des%20Vendanges%2C%2069820%20Fleurie",
     "image_url": "/images/marchands/cave-de-fleurie.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-halle-couverte-pontarlier",
+    "nom": "Marché de la halle couverte de Pontarlier",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.905543,
+    "lon": 6.356541,
+    "adresse": "Halle couverte, place du Maréchal de Lattre de Tassigny, 25300 Pontarlier",
+    "horaires": "Le jeudi et le samedi de 7h à 13h30, toute l'année ; maintenu les jours fériés, sauf le 8 mai et le 11 novembre (page « Foires et marchés » du Grand Pontarlier, consultée le 5 octobre 2026).",
+    "produits": [
+      "Denrées alimentaires",
+      "Fruits et légumes",
+      "Œufs"
+    ],
+    "description": "Marché alimentaire de Pontarlier, sous la halle couverte de la place du Maréchal de Lattre de Tassigny. Le jeudi, les exposants non alimentaires s'installent à part, quai du Petit Cours ; le samedi, le marché ne propose que des denrées alimentaires. Le service des foires et marchés ne détaille pas les étals : les produits cités sont ceux que montrent ses propres photographies. Photo : un étal de légumes du marché — service Foires et marchés du Grand Pontarlier.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20couverte%2C%20place%20du%20Mar%C3%A9chal%20de%20Lattre%20de%20Tassigny%2C%2025300%20Pontarlier",
+    "image_url": "/images/marchands/marche-halle-couverte-pontarlier.jpg"
+  },
+  {
+    "slug": "la-ruch-bio-pontarlier",
+    "nom": "La Ruch'Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.9017,
+    "lon": 6.34865,
+    "adresse": "9 Rue Arthur Bourdin, 25300 Pontarlier",
+    "horaires": "Du lundi au vendredi de 8h30 à 19h30, le samedi de 8h30 à 19h. Fermé le dimanche (page « Contact » du magasin, consultée le 5 octobre 2026).",
+    "produits": [
+      "Fruits et légumes frais bio",
+      "Céréales complètes",
+      "Produits laitiers",
+      "Produits locaux",
+      "Cosmétiques naturels",
+      "Produits d'entretien écologiques"
+    ],
+    "description": "Magasin bio indépendant du centre de Pontarlier, qui met en avant ses produits locaux à côté de l'épicerie, des produits d'entretien et des cosmétiques ; l'enseigne tient un second magasin à Jougne. Société active au registre des entreprises à cette adresse et inscrite au registre de l'Agence Bio. Photo : le rayon fruits et légumes — site du magasin.",
+    "telephone": "03 81 39 30 55",
+    "site_web": "https://www.laruchbio.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ruch'Bio%2C%209%20rue%20Arthur%20Bourdin%2C%2025300%20Pontarlier",
+    "image_url": "/images/marchands/la-ruch-bio-pontarlier.jpg"
+  },
+  {
+    "slug": "fruitiere-a-comte-de-pontarlier-les-monts-de-joux",
+    "nom": "Fruitière à Comté de Pontarlier — Les Monts de Joux",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.898425,
+    "lon": 6.339326,
+    "adresse": "7 Rue Paul Edouard Dubied, 25300 Pontarlier",
+    "horaires": "Du mardi au vendredi de 10h à 12h30 et de 15h à 19h, le samedi de 9h à 12h30 et de 15h à 18h (fiche de l'office de tourisme du Haut-Doubs, consultée le 5 octobre 2026).",
+    "produits": [
+      "Comtés affinés sur place",
+      "Fromages du Haut-Doubs",
+      "Spécialités régionales"
+    ],
+    "description": "Magasin de la fruitière à comté que la coopérative des Monts de Joux a construite à Pontarlier en 2022 : on y trouve ses comtés, affinés sur place, et d'autres spécialités de la région. Coopérative active au registre des entreprises, avec un établissement ouvert dans cette rue. Les heures viennent de la seule fiche de l'office de tourisme — fiche à confirmer. Photo d'ambiance : un étal du marché de Pontarlier — service Foires et marchés du Grand Pontarlier ; elle ne montre pas la fruitière.",
+    "telephone": "03 39 58 00 65",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruiti%C3%A8re%20%C3%A0%20Comt%C3%A9%20de%20Pontarlier%2C%207%20rue%20Paul%20Edouard%20Dubied%2C%2025300%20Pontarlier",
+    "image_url": "/images/marchands/fruitiere-a-comte-de-pontarlier-les-monts-de-joux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fromagerie-de-doubs",
+    "nom": "Fromagerie de Doubs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.926646,
+    "lon": 6.342517,
+    "adresse": "1 Rue de la Fruitière, 25300 Doubs",
+    "horaires": "Du lundi au samedi de 9h à 12h et de 15h30 à 19h, le dimanche de 10h à 12h (page « Le magasin » de la fromagerie, consultée le 5 octobre 2026).",
+    "produits": [
+      "Comté",
+      "Mont d'Or",
+      "Morbier, tommes et fromage à raclette",
+      "Beurre et crème",
+      "Saucisse de Morteau et salaisons",
+      "Vins du Jura"
+    ],
+    "description": "Coopérative fruitière du village de Doubs, aux portes de Pontarlier, au bord de la RN 57 : l'atelier fabrique du comté et du mont d'or, vendus sur place dans un magasin de 90 m² avec d'autres fromages francs-comtois, des salaisons et une cave de vins du Jura. Société coopérative active au registre des entreprises à cette adresse. À 3 km au nord du centre de Pontarlier. Photo : la façade de la fromagerie — site de la fromagerie.",
+    "telephone": "03 81 39 05 21",
+    "site_web": "https://www.comte-montdor.fr/page/le-magasin.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie%20de%20Doubs%2C%201%20rue%20de%20la%20Fruiti%C3%A8re%2C%2025300%20Doubs",
+    "image_url": "/images/marchands/fromagerie-de-doubs.jpg"
   }
 ]
