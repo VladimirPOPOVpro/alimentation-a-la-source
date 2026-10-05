@@ -4889,9 +4889,31 @@ prioritaires en cas de conflit.
      lui-même n'est pas une marque de tiers, mais une vue du lieu passe avant un rayon de bouteilles. Première application : le
      verger du Domaine de la Mare, fichier sans champ d'auteur ni de droits, 2 560 px ramenés à 1 280.
 
+397. **Les deux fiches entières de la règle 127 peuvent être deux boutiques d'un même artisan, et un artisan à plusieurs boutiques
+     reste dans le périmètre de la règle 73 ; son certificat partiel ne donne pas le pilier `environnement`.** À Cormontreuil, les
+     deux seules fiches entières, image comprise, sont deux boutiques de la boulangerie-pâtisserie Case à Pain, qui en tient dix
+     dans le Grand Reims : chacune a son adresse connue de la Base Adresse Nationale au numéro, son établissement ouvert au
+     registre des entreprises, ses heures, son téléphone fixe et ses photographies sur le site de la boulangerie, dont les
+     mentions légales ne nomment aucune image. La règle 127 demande deux fiches, pas deux enseignes ; la règle 334 plafonne déjà
+     une enseigne à trois fiches sur cinq et dit donc qu'elle peut en porter deux. La règle 3 dit que la taille d'un réseau ne
+     disqualifie pas, la règle 73 qu'un artisan qui transforme et vend lui-même est dans le périmètre : la maison écrit que ses
+     pains sont « pétris, façonnés et cuits sur place » dans ses fournils du Grand Reims, et qu'un boulanger fabrique dans la
+     boutique de l'Open Park. **Tranché ainsi** : deux boutiques d'un même artisan dans la commune calculée remplissent la règle
+     127 quand chacune a son point, ses heures et sa propre photographie ; la catégorie est `producteur` (règle 4), et la
+     description dit le nombre de boutiques, pour que la fiche ne passe pas pour un fournil de quartier. Le certificat de la
+     société au registre de l'Agence Bio ne couvre que le pain frais : la gamme biologique s'écrit dans `produits` et dans la
+     description, et le pilier `environnement` n'est pas accordé (règle 39). Aucun lien `site_web` : la page d'accueil nomme une
+     personne (règles 376 et 377). Première application : la passe du 5 octobre 2026 (cent vingtième).
+
 ## Marchands à confirmer
 
-892 fiches sur 1004 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+894 fiches sur 1008 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **naturéO Cormontreuil** (Cormontreuil) et **Cueillette de Muizon et magasin Esprit Terroirs** (Muizon) (passe du 5 octobre
+  2026, cent vingtième, règles 10, 272, 320 et 397) : le magasin bio est illustré par une photographie de l'hôtel de ville
+  publiée par la Ville de Cormontreuil, qui ne montre pas le magasin (les conditions de l'enseigne nomment les photographies),
+  et son point est celui du registre des entreprises, l'enseigne ne publiant pas de numéro de voirie ; la cueillette annonce ses
+  heures « pendant la pleine saison » sans dater la fin de saison. Les deux boutiques **Case à Pain** de Cormontreuil, publiées
+  dans la même passe, ne sont pas « à confirmer ».
 - **Le Fenouil Biocoop Sargé** et **Domaine de la Mare** (Sargé-lès-le-Mans), **Le Fenouil Biocoop Université** et **Le
   Fenouil Biocoop Atlantides** (Le Mans) (passe du 2 octobre 2026, cent dix-neuvième, règles 312, 320, 334 et 396) : la
   cueillette d'automne du domaine est annoncée « jusqu'au 10 octobre » sans année ; l'adresse du magasin Atlantides diffère d'un
@@ -12345,6 +12367,76 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingtième) : Cormontreuil et le Grand Reims (Marne), quatre fiches ; règle 397
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 004 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : la dernière région visée est les Pays de la Loire (passe de
+Sargé-lès-le-Mans), fermée (règle 41.c) ; **Marne (51) 3,1988**, premier département ouvert, en Grand Est, avec ses cinq fiches
+toutes à Reims ; l'Indre (36) suit à 3,1461 et n'a pas été ouverte, la zone ayant été trouvée dans le département de tête. Aucune
+intercommunalité de la Marne ne porte quatre fiches désignées : la règle 302 ne joue pas. Contrôle de tête de Labenne :
+`labenne.fr` n'ouvre toujours aucune connexion, aux deux agents. `git fetch` refait avant l'écriture : `origin/main` n'a pas
+bougé (règle 241). **Après la passe**, sur 1 008 fiches : Marne −0,7686 ; en tête ensuite, parmi ceux que cette passe a
+recalculés, Nord 3,2371 et Indre 3,1586 ; la prochaine passe ne peut pas viser le Grand Est.
+
+**Descente de la Marne, reprise à Vitry-le-François (règles 41.d, 127 et 247)** ; aucune commune sautée depuis Épernay (règle
+375) :
+
+1. **Vitry-le-François** (10 996) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) ; au registre
+   bio, des grandes surfaces, une boulangerie et une épicerie de vrac qui ne publie que sur des réseaux sociaux (règle 86).
+   **Zéro.**
+2. **Tinqueux** (10 771) — la Ville publie son marché du mercredi matin, sous la halle couverte du centre-ville, mais sans heure,
+   sur une seule page qui est une liste de commerçants désignés par leur nom (règle 383), et ses mentions légales nomment les
+   « images » (règle 231). Au registre bio, une grande surface, des grossistes et un établissement d'aide par le travail sans
+   point de vente publié. Rien d'entier.
+3. **Bétheny** (6 975) — les mentions légales de la Ville écrivent que « les graphismes, photographies et ressources
+   multimédias ne peuvent être reproduits sans accord préalable » ; aucune page de marché trouvée ; au registre bio, des
+   exploitations de grande culture et des grossistes. **Zéro.**
+4. **Cormontreuil** (6 534) — la Ville ne tient pas de marché hebdomadaire ; ses mentions légales n'ont qu'une ligne de crédits
+   (« Adobe Stock, la Mairie de Cormontreuil, Unsplash »), qui n'interdit rien (règle 306). La commune rend **deux fiches
+   entières** (règle 127), les deux boutiques de la boulangerie-pâtisserie **Case à Pain** (règle 397), et un troisième point aux
+   faits entiers, le magasin **naturéO**, dont l'enseigne publie les heures, le fixe et six producteurs de la Marne avec leur
+   distance (règles 86 et 276) mais dont les conditions nomment désormais les photographies (règle 231).
+
+**Zone publiée (règles 96, 127, 219, 272, 320, 334 et 363)** : Cormontreuil fait la passe avec ses deux fiches entières et son
+magasin bio, illustré d'une photographie thématique de la Ville (règle 272 : l'hôtel de ville, équipement public non marchand,
+fichier de la médiathèque du site communal, sans personne ; ni image de banque ni affiche, règle 360). Le quatrième point est dans
+la Communauté urbaine du Grand Reims (même EPCI au référentiel, règle 219) : la **Cueillette de Muizon** et son magasin Esprit
+Terroirs, une seule fiche pour les deux (règles 7 et 42), comme à Chanteloup-en-Brie. Distances depuis la mairie de Cormontreuil,
+2 place de la République (point de l'annuaire de l'administration) : Case à Pain Blancs Monts 0,8 km, Case à Pain Open Park
+0,9 km, naturéO 1,0 km, Cueillette de Muizon 11,5 km. **Quatre points**, publiés au titre de la règle 320 ; deux fiches de la même
+enseigne sur quatre, sous le plafond de la règle 334. Le cinquième manque : le magasin bio indépendant du boulevard
+Saint-Marceaux, à Reims (3,4 km), a ses heures et son fixe sur l'annuaire de son réseau, mais aucune liste de producteurs nommés
+(règle 86), son ancien domaine est à vendre chez un courtier de noms (note Santa Lucia), et ses photographies sont servies par un
+hébergeur dont le `robots.txt` répond 403 (règle 256) ; le second magasin bio de réseau de Cormontreuil n'a ni liste de producteurs
+ni photographie du magasin (règle 273) ; une troisième boutique de la boulangerie n'aurait rien ajouté à la zone ; les marchés
+rémois désignés depuis la passe de Reims demandent `reims.fr`, qui ne se lit que dans un navigateur, et n'ont pas été relus
+(règle 322). **Déblocage** : une liste de producteurs locaux publiée par l'un des deux magasins, ou un marché rémois relu avec une
+image permise.
+
+**Points et adresses.** Les deux boutiques de la boulangerie et la cueillette sont connues de la Base Adresse Nationale au numéro
+(scores 0,95 à 0,96) ; le registre des entreprises place ses établissements à moins de cinquante mètres de ces points. naturéO
+écrit « rue des Blancs Monts » sans numéro, le registre de l'Agence Bio « 1 rue des Blancs Monts », qui est aussi l'adresse de la
+boulangerie voisine : le point publié est celui du registre des entreprises (règle 10), à 128 m de la boulangerie, et l'adresse
+reprend le libellé du registre. La cueillette écrit « RN31 » sur sa page d'accès et « route de la Gare » dans ses mentions
+légales ; le registre et la Base disent « 80 rue de la Gare » : la fiche porte les deux.
+
+**Contradictions.** Aucune sur un horaire. La cueillette donne ses heures « pendant la pleine saison » sans en dater la fin : la
+fiche le dit et reste `a_confirmer`. Le bloc `venteAnnuaire` du registre bio est à faux pour la boulangerie comme pour naturéO ;
+il décrit l'activité certifiée, pas le magasin (règle 154).
+
+**Images.** Toutes réencodées depuis leurs seuls pixels (règle 235), aucune au-delà de 1 280 px, aucune agrandie ; aucune
+métadonnée d'auteur dans les fichiers d'origine (règle 393) ; aucun visage. La façade de l'Open Park est recadrée (1 060 × 900)
+pour écarter des passants et l'enseigne d'un commerce voisin formée d'un patronyme. La photographie de la cueillette (807 × 400)
+montre l'entrée du magasin et les champs ; elle vient du site de la cueillette, dont les mentions légales ne disent rien des
+images, et non du site du magasin, qui nomme les « représentations iconographiques et photographiques ». Aucun lien `site_web`
+vers la boulangerie (sa page d'accueil nomme une personne, règles 376 et 377) ni vers naturéO (la page du magasin désigne un
+producteur par un nom de personne, règle 383) ; le lien de la cueillette est publié, sa page d'accueil ne nommant personne.
+
+**Écartées pour doute sur une personne** : une, à Cormontreuil — une biscuiterie dont l'enseigne est un patronyme (règle 259),
+non instruite, une ligne anonyme dans les pistes. Plusieurs opérateurs du registre bio des communes éprouvées ne sont inscrits
+que sous un nom de personne ; ils n'ont pas été instruits et ne sont pas nommés.
 
 ### Passe du 2 octobre 2026 (cent dix-neuvième) : Sargé-lès-le-Mans et Le Mans Métropole (Sarthe), quatre fiches ; règle 396
 
@@ -27138,6 +27230,22 @@ Passe du 30 septembre 2026 (cent dix-huitième), second département (règle 248
   sur une personne, non rouvrables.
 
 Point d'arrêt : **Épernay** ; la commune suivante de la Marne est Vitry-le-François (règle 247).
+
+Passe du 5 octobre 2026 (cent vingtième), qui a trouvé sa zone à Cormontreuil :
+
+- **Marché du mercredi de Tinqueux** (halle couverte du centre-ville, mercredi matin) — jour et lieu publiés par la Ville, familles
+  lisibles sur sa liste de commerçants (charcuterie pâtissière, viande bio, rôtisserie, miel). **Déblocage** : une heure, une
+  seconde page de la Ville (règle 178) et une image permise.
+- **Magasin bio indépendant du boulevard Saint-Marceaux** (Reims, réseau Biomonde) — lundi 10h-19h30, du mardi au vendredi
+  9h-19h30, samedi 9h30-19h selon l'annuaire du réseau ; certificat engagé au registre. **Déblocage** : une liste de producteurs
+  locaux nommés (règle 86) ; l'image viendrait alors de la Ville de Cormontreuil (règle 272) si la zone est reprise. Ne pas
+  inscrire l'ancien domaine du magasin, à vendre chez un courtier.
+- **Second magasin bio de réseau de Cormontreuil** (rue des Laps) — du lundi au jeudi 9h-19h, vendredi et samedi 9h-19h30.
+  **Déblocage** : une liste de producteurs propre au magasin (règle 273).
+- **Marché communal de Bezannes** — la Ville l'écrit « temporairement suspendu » ; rien à publier avant sa reprise.
+- Écartée pour doute sur une personne (non rouvrable) : Cormontreuil, biscuiterie, enseigne formée d'un patronyme.
+
+Point d'arrêt : **Cormontreuil**, qui a fait la passe ; la commune suivante de la Marne est Fismes (5 850 habitants, règle 247).
 
 ### Pistes non publiées dans le Vaucluse (Entraigues-sur-la-Sorgue, Le Thor, Courthézon)
 

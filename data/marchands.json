@@ -26661,5 +26661,112 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Fenouil%20Biocoop%20Atlantides%2C%204%20avenue%20d%27Haouza%2C%2072100%20Le%20Mans",
     "image_url": "/images/marchands/fenouil-biocoop-atlantides-le-mans.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "case-a-pain-open-park-cormontreuil",
+    "nom": "Case à Pain Open Park",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.216648,
+    "lon": 4.048832,
+    "adresse": "1 Boulevard d'Alsace-Lorraine, 51350 Cormontreuil",
+    "horaires": "Du lundi au samedi de 7h à 20h, dimanche de 7h à 18h (site de la boulangerie).",
+    "produits": [
+      "Baguette de tradition et baguette aux graines",
+      "Pain de campagne et pains spéciaux",
+      "Pains biologiques",
+      "Viennoiseries",
+      "Pâtisseries maison, dont le Baiser de Reims au biscuit rose",
+      "Sandwichs, salades et plats du jour"
+    ],
+    "description": "Boulangerie-pâtisserie artisanale rémoise née à Sillery en 2000, qui tient aujourd'hui dix boutiques dans le Grand Reims. Celle de l'Open Park, ouverte en 2025, a son boulanger sur place, qui fabrique et cuit pendant la journée ; la maison dit se fournir en farine auprès d'un moulin des Ardennes. Rattachée à la catégorie « producteur » comme les autres artisans qui fabriquent et vendent eux-mêmes. La société est engagée chez Ecocert pour son pain frais au registre de l'Agence Bio ; le reste de la gamme n'est pas certifié. À 0,9 km de la mairie de Cormontreuil. Photo : façade de la boutique, site de la boulangerie.",
+    "telephone": "03 26 79 74 63",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Case%20%C3%A0%20Pain%20Open%20Park%2C%201%20boulevard%20d'Alsace-Lorraine%2C%2051350%20Cormontreuil",
+    "image_url": "/images/marchands/case-a-pain-open-park-cormontreuil.jpg"
+  },
+  {
+    "slug": "case-a-pain-blancs-monts-cormontreuil",
+    "nom": "Case à Pain Blancs Monts",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.216716,
+    "lon": 4.058236,
+    "adresse": "1 Rue des Blancs Monts, 51350 Cormontreuil",
+    "horaires": "Du lundi au samedi de 7h30 à 19h30, fermé le dimanche (site de la boulangerie). Service au volant annoncé par la boutique.",
+    "produits": [
+      "Baguette de tradition et baguette aux graines",
+      "Pain de campagne et pains spéciaux",
+      "Pains biologiques",
+      "Viennoiseries et pâtisseries maison",
+      "Salades composées à la demande",
+      "Sandwichs et plats du jour"
+    ],
+    "description": "Troisième boutique de cette boulangerie-pâtisserie artisanale du Grand Reims, ouverte en 2010 dans la zone des Blancs Monts, avec un service au volant et, depuis 2025, un bar à salades composées au fil des saisons. La maison dit fabriquer ses pains dans ses propres fournils du Grand Reims, avec la farine d'un moulin des Ardennes. Rattachée à la catégorie « producteur » comme les autres artisans qui fabriquent et vendent eux-mêmes. Engagée chez Ecocert pour son pain frais au registre de l'Agence Bio, qui déclare cette adresse parmi ses lieux d'activité ; le reste de la gamme n'est pas certifié. À 0,8 km de la mairie de Cormontreuil. Photo : façade de la boutique, site de la boulangerie.",
+    "telephone": "03 10 73 00 68",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Case%20%C3%A0%20Pain%2C%201%20rue%20des%20Blancs%20Monts%2C%2051350%20Cormontreuil",
+    "image_url": "/images/marchands/case-a-pain-blancs-monts-cormontreuil.jpg"
+  },
+  {
+    "slug": "natureo-cormontreuil",
+    "nom": "naturéO Cormontreuil",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.215777,
+    "lon": 4.059866,
+    "adresse": "Rue des Blancs Monts, lotissement Les Monts Blancs, 51350 Cormontreuil",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30, dimanche de 9h30 à 12h30 (site de l'enseigne).",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Vrac",
+      "Boucherie traditionnelle, charcuterie et traiteur",
+      "Fromagerie",
+      "Boulangerie",
+      "Produits frais et surgelés",
+      "Épicerie, boissons et cave",
+      "Produits diététiques (vegan, sans gluten, sans lactose)"
+    ],
+    "description": "Magasin bio de réseau de la zone commerciale de Cormontreuil, aux portes de Reims, avec boucherie et fromagerie à la coupe et rayon vrac. L'enseigne y référence six producteurs de la Marne dont elle publie la distance, parmi lesquels un rucher bio à 6 km, un moulin à farine à 50 km et une brasserie artisanale à 97 km. Certificat Ecocert en cours au registre de l'Agence Bio (engagement de 2012). L'enseigne ne publie pas de numéro de voirie : le point est celui du registre des entreprises. À 1 km de la mairie de Cormontreuil. Photo : l'hôtel de ville de Cormontreuil, illustration publiée par la Ville, qui ne montre pas le magasin.",
+    "telephone": "03 26 50 03 60",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=natur%C3%A9O%20Cormontreuil%2C%20rue%20des%20Blancs%20Monts%2C%2051350%20Cormontreuil",
+    "image_url": "/images/marchands/natureo-cormontreuil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-de-muizon",
+    "nom": "Cueillette de Muizon et magasin Esprit Terroirs",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.27433,
+    "lon": 3.916073,
+    "adresse": "80 Rue de la Gare (RN 31), 51140 Muizon",
+    "horaires": "Cueillette, en pleine saison : lundi de 14h à 19h, du mardi au dimanche de 9h à 19h, d'après le site de la cueillette, qui ne date pas la fin de saison — appeler avant de venir en fin d'automne. Magasin Esprit Terroirs, ouvert toute l'année : lundi de 14h30 à 19h, du mardi au vendredi de 9h à 12h30 et de 14h30 à 19h, samedi de 9h à 19h, dimanche de 9h à 12h30 (site du magasin, 03 26 02 25 69).",
+    "produits": [
+      "Fruits, légumes et fleurs à cueillir (fraises, pommes, courges, carottes, courgettes, choux)",
+      "Produits transformés de la ferme",
+      "Viandes régionales et charcuterie",
+      "Fromages, crèmerie et œufs",
+      "Confitures, farines, sirops et jus de fruits de producteurs",
+      "Paniers de fruits et légumes de saison sur commande"
+    ],
+    "description": "Cueillette en libre-service du réseau Chapeau de Paille, sur vingt hectares de fruits et légumes au bord de la route de Reims à Soissons, qui annonce sa trente-sixième saison et accueille les scolaires. Le magasin Esprit Terroirs, bâtiment en bois ouvert sur les champs, vend la récolte et les produits transformés de la ferme, et ceux d'autres producteurs, en majorité de Champagne-Ardenne et de Picardie. La ferme dit protéger ses cultures par des insectes auxiliaires et des jachères fleuries ; elle n'est pas certifiée en agriculture biologique. À 11,5 km de la mairie de Cormontreuil. Photo : l'entrée du magasin et les champs, site de la cueillette.",
+    "telephone": "03 26 02 99 61",
+    "site_web": "https://www.cueillettedemuizon.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20Muizon%2C%2080%20rue%20de%20la%20Gare%2C%2051140%20Muizon",
+    "image_url": "/images/marchands/cueillette-de-muizon.jpg",
+    "a_confirmer": true
   }
 ]
