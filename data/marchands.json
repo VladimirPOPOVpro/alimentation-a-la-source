@@ -26768,5 +26768,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20Muizon%2C%2080%20rue%20de%20la%20Gare%2C%2051140%20Muizon",
     "image_url": "/images/marchands/cueillette-de-muizon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-chateauroux",
+    "nom": "Les Halles de Châteauroux",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.812301,
+    "lon": 1.690949,
+    "adresse": "Place Monestier, 36000 Châteauroux",
+    "horaires": "Mardi, mercredi, jeudi et samedi de 7h à 13h ; vendredi de 7h à 18h30 (Ville de Châteauroux, page mise à jour le 3 septembre 2026).",
+    "produits": [
+      "Volaille et boucherie",
+      "Charcuterie et épicerie",
+      "Poissonnerie",
+      "Crèmerie et fromages",
+      "Fruits et légumes",
+      "Pains et pâtisseries"
+    ],
+    "description": "Marché couvert du centre de Châteauroux, entre la place Monestier et la rue Grande : la Ville y recense douze commerçants sous le même toit, du mardi au samedi, et un marché de plein air se tient à sa porte les mêmes jours. Équipement municipal, à moins de 200 m de la mairie ; la Base Adresse Nationale ne connaît la place qu'à la voie. Photo : l'entrée des Halles, recadrée — Ville de Châteauroux (chateauroux-metropole.fr, page « Les marchés » mise à jour le 3 septembre 2026), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles%2C%20place%20Monestier%2C%2036000%20Ch%C3%A2teauroux",
+    "image_url": "/images/marchands/halles-chateauroux.jpg"
+  },
+  {
+    "slug": "marche-samedi-republique-chateauroux",
+    "nom": "Marché du samedi, places de la République et Monestier",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.811559,
+    "lon": 1.69182,
+    "adresse": "Place de la République, 36000 Châteauroux",
+    "horaires": "Samedi de 7h à 13h, maintenu les jours fériés ; les 24 et 31 décembre de 7h à 19h (Ville de Châteauroux, page mise à jour le 3 septembre 2026).",
+    "produits": [
+      "Légumes bio de saison d'un maraîcher de Saint-Maur",
+      "Pommes et poires",
+      "Fraises au printemps",
+      "Courges et légumes racines en automne"
+    ],
+    "description": "Le grand marché alimentaire de la semaine à Châteauroux, devant l'hôtel de ville et jusqu'à la place Monestier et la rue Wilson, au pied des Halles. La Ville le classe parmi ses marchés alimentaires sans en détailler les étals : les produits cités sont ceux d'un maraîcher bio de l'agglomération qui y annonce lui-même son étal du samedi matin ; le reste de la composition est à découvrir sur place. Photo : étal de légumes, illustration générale de la page des marchés de la Ville, qui ne dit pas de quel marché il s'agit. Photo : Ville de Châteauroux (chateauroux-metropole.fr, page « Les marchés » mise à jour le 3 septembre 2026), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2036000%20Ch%C3%A2teauroux",
+    "image_url": "/images/marchands/marche-samedi-republique-chateauroux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-grigne-bio-chateauroux",
+    "nom": "La Grigne Bio",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.810887,
+    "lon": 1.692415,
+    "adresse": "2 bis Rue de la Poste, 36000 Châteauroux",
+    "horaires": "Du mardi au samedi de 7h à 19h20 (site de la boulangerie).",
+    "produits": [
+      "Pains au levain naturel",
+      "Viennoiseries",
+      "Pâtisseries",
+      "Biscuits",
+      "Chocolats et confitures",
+      "Spécialités régionales",
+      "Snacking et espace traiteur",
+      "Produits sans gluten"
+    ],
+    "description": "Boulangerie-pâtisserie-chocolaterie artisanale du centre-ville, qui dit tout fabriquer sur place avec des ingrédients 100 % biologiques et façonner ses pains au levain naturel. Rattachée à la catégorie « producteur » comme les autres artisans qui fabriquent et vendent eux-mêmes. Certificat Bureau Veritas en cours au registre de l'Agence Bio. À deux pas de la mairie. Photo : l'intérieur de la boutique, site de la boulangerie.",
+    "telephone": "02 54 22 31 18",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Grigne%20Bio%2C%202%20bis%20rue%20de%20la%20Poste%2C%2036000%20Ch%C3%A2teauroux",
+    "image_url": "/images/marchands/la-grigne-bio-chateauroux.jpg"
+  },
+  {
+    "slug": "drive-fermier-36-chateauroux",
+    "nom": "Drive Fermier 36",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.807176,
+    "lon": 1.708393,
+    "adresse": "99 Avenue de La Châtre, 36000 Châteauroux",
+    "horaires": "Drive fermier sur commande : commandes en ligne du mercredi matin au lundi minuit ; retrait le jeudi de 16h30 à 19h au 99 avenue de La Châtre (horaires publiés par le drive). Un second retrait a lieu le jeudi de 16h30 à 17h à la Chambre d'agriculture, rue des Ingrains.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages de chèvre et de vache, yaourts",
+      "Viandes, volailles et œufs",
+      "Farines, légumes secs et huiles",
+      "Miel et confitures",
+      "Conserves et plats cuisinés",
+      "Jus de fruits, vins et bières"
+    ],
+    "description": "Drive fermier né en juin 2020 avec le soutien de la Chambre d'agriculture de l'Indre et tenu par une association de producteurs : on compose son panier en ligne parmi les produits de 35 producteurs et 3 artisans, tous de l'Indre, qui préparent les commandes et les remettent eux-mêmes chaque jeudi. Sans abonnement ni minimum de commande. À 1,3 km de la mairie. Photo thématique : le jardin public des Cordeliers, à Châteauroux ; elle ne montre pas le point de retrait. Photo : Ville de Châteauroux (chateauroux-metropole.fr, page « Jardins des Cordeliers » mise à jour le 20 mars 2026), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=99%20avenue%20de%20La%20Ch%C3%A2tre%2C%2036000%20Ch%C3%A2teauroux",
+    "image_url": "/images/marchands/drive-fermier-36-chateauroux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "natur-et-jardin-saint-maur",
+    "nom": "Natur'et Jardin",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.812612,
+    "lon": 1.651485,
+    "adresse": "47 Chemin des Jardiniers, 36250 Saint-Maur",
+    "horaires": "Vente à la ferme le jeudi de 16h à 19h et le dimanche de 10h à 12h ; étal le samedi matin au marché de la place de la République, à Châteauroux (site de l'exploitation).",
+    "produits": [
+      "Salades, radis, oignons frais et épinards au printemps",
+      "Tomates, poivrons, aubergines et courgettes en été",
+      "Courges, poireaux et légumes racines en automne",
+      "Choux, carottes et navets en hiver",
+      "Pommes et poires du verger",
+      "Fraises"
+    ],
+    "description": "Maraîcher bio installé depuis 2016 à Saint-Maur, aux portes de Châteauroux : légumes de pleine terre et de serres non chauffées, pommes, poires et fraises du verger, vendus sans intermédiaire à la ferme deux fois par semaine et sur le marché du samedi. Certificat Ecocert en cours au registre de l'Agence Bio (engagement de 2018). À 3,1 km de la mairie de Châteauroux, dans Châteauroux Métropole. Photo thématique : les jardins familiaux de Châteauroux ; elle ne montre pas l'exploitation, dont le site s'illustre d'images de banque. Photo : Ville de Châteauroux (chateauroux-metropole.fr, page « Parcs et jardins » mise à jour le 31 mars 2026), droits réservés.",
+    "site_web": "https://naturetjardin.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47%20chemin%20des%20Jardiniers%2C%2036250%20Saint-Maur",
+    "image_url": "/images/marchands/natur-et-jardin-saint-maur.jpg",
+    "a_confirmer": true
   }
 ]

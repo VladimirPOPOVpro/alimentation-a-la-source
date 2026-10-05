@@ -4905,9 +4905,37 @@ prioritaires en cas de conflit.
      description, et le pilier `environnement` n'est pas accordé (règle 39). Aucun lien `site_web` : la page d'accueil nomme une
      personne (règles 376 et 377). Première application : la passe du 5 octobre 2026 (cent vingtième).
 
+398. **Les dates que le site d'une Ville écrit dans les métadonnées de chaque page remplissent la condition de la règle 309,
+     quand elles diffèrent d'une page à l'autre.** Le 5 octobre 2026 (cent vingt et unième passe), le site commun à la Ville de
+     Châteauroux et à son agglomération porte le gabarit de Meudon : reproduction « en principe conditionnée à l'accord », puis
+     réutilisation non commerciale autorisée à condition « d'en préciser l'origine et la date de publication ». Ses pages
+     n'affichent aucune date dans leur texte, mais chacune en écrit deux dans son en-tête (publication, mise à jour), et ces dates
+     ne sont pas celles d'une régénération nocturne (règle 338) : la page des marchés est du 20 mars 2026, mise à jour le
+     3 septembre ; celle des parcs et jardins du 3 février, mise à jour le 31 mars ; celle des jardins des Cordeliers du
+     2 février, mise à jour le 20 mars. La règle 394 ferme les photographies d'un site « qui ne date pas ses pages ».
+     **Tranché ainsi** : une date propre à la page, écrite par l'éditeur dans la page elle-même, est une date lisible, qu'elle
+     soit dans le texte ou dans l'en-tête ; la citation de la règle 309 reprend la date de mise à jour. Des dates identiques à la
+     seconde sur toutes les pages restent sous la règle 394.
+
+399. **Une connexion coupée au seul agent nommé vaut un refus par le nom (règle 257).** Le site propre des halles de
+     Châteauroux, vers lequel la Ville renvoie, sert ses pages et son `robots.txt` à l'agent par défaut (200) et coupe la
+     connexion de l'agent nommé avant toute réponse (erreur de protocole, quatre essais sur une minute, `robots.txt` compris). Ce
+     n'est ni un 403, ni un 429, ni un 502, mais c'est le même tri. **Tranché ainsi** : le site n'est pas consulté, rien de ce
+     qu'il a servi pendant le contrôle ne nourrit la fiche (règle 252), aucun lien n'est publié, et la fiche des Halles repose sur
+     la seule page de la Ville, qui est l'autorité de cet équipement municipal (règles 106 et 111). **Déblocage** : la même
+     réponse aux deux agents.
+
 ## Marchands à confirmer
 
-894 fiches sur 1008 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+897 fiches sur 1013 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du samedi, places de la République et Monestier** (Châteauroux), **Drive Fermier 36** (Châteauroux) et **Natur'et
+  Jardin** (Saint-Maur) (passe du 5 octobre 2026, cent vingt et unième, règles 272, 386, 389, 398 et 399) : la Ville classe le
+  marché « alimentaire » sans en écrire les étals, les produits de la fiche sont ceux du seul exposant qui y annonce lui-même sa
+  présence, et sa photographie est l'illustration générale de la page des marchés ; le drive fermier, en `a_confirmer` comme tout
+  drive (règle 389), est illustré par le jardin public des Cordeliers, son hébergeur d'images étant fermé (règle 345) ; le
+  maraîcher est illustré par les jardins familiaux de Châteauroux, son site ne portant que des images de banque (règle 360).
+  **Les Halles de Châteauroux** et **La Grigne Bio**, publiées dans la même passe avec leur propre photographie, ne sont pas
+  « à confirmer ».
 - **naturéO Cormontreuil** (Cormontreuil) et **Cueillette de Muizon et magasin Esprit Terroirs** (Muizon) (passe du 5 octobre
   2026, cent vingtième, règles 10, 272, 320 et 397) : le magasin bio est illustré par une photographie de l'hôtel de ville
   publiée par la Ville de Cormontreuil, qui ne montre pas le magasin (les conditions de l'enseigne nomment les photographies),
@@ -12367,6 +12395,102 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt et unième) : Châteauroux et Châteauroux Métropole (Indre), cinq fiches ; règles 398 et 399
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 008 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : la dernière région visée est le Grand Est (passe de Cormontreuil), fermée
+(règle 41.c) ; **Nord (59) 3,2371**, premier département ouvert, en Hauts-de-France, puis **Indre (36) 3,1586**, en Centre-Val de
+Loire, second (règle 248), jamais ouverte et sans aucune fiche. Aucune intercommunalité du Nord ne porte quatre fiches entières
+désignées : les pistes de la Métropole européenne de Lille n'attendent toujours qu'une image, et la voie de la règle 371 est
+suspendue (règle 391) ; la règle 302 ne joue pas. Contrôle de tête de Labenne : `labenne.fr` n'ouvre toujours aucune connexion.
+`git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 013 fiches : Indre
+−1,8257 ; Nord 3,4268, toujours premier ouvert ; la prochaine passe ne peut pas viser le Centre-Val de Loire.
+
+**Descente du Nord, reprise à Bavay (règles 41.d, 127 et 247)**, douze communes, contrôle à deux agents (règle 257) :
+
+1. **Bavay** (3 249) — la Ville répond 403 à l'agent nommé, `robots.txt` compris, et 200 à l'agent par défaut. Aucun opérateur
+   au registre bio. **Zéro.**
+2. **Haveluy** (3 222) — la page d'accueil de la Ville ne sert qu'une redirection vide ; au registre bio, une supérette au
+   certificat arrêté. **Zéro.**
+3. **Fretin** (3 214) — le **marché communal du vendredi** (14h-19h, parking de la salle des sports, face à la mairie ;
+   poissonnerie, fromagerie, fruits et légumes, boucherie) a ses **faits entiers** sur une page propre de la Ville, dont les
+   mentions légales nomment les images et écrivent que ses photos « ne sauraient faire l'objet d'une quelconque reproduction »
+   (règle 231). Les fermes de la page des commerces sont désignées par un nom de personne ou n'ont qu'une page de réseau
+   social ; le registre bio ne rend que des logisticiens. Une fiche aux faits entiers, sans image. **Pas deux.**
+4. **Proville** (3 206) — la page des commerces ne nomme ni marché ni producteur ; registre bio : grandes surfaces. **Zéro.**
+5. **Salomé** (3 182) — aucun marché hebdomadaire publié (un marché de Noël) ; registre bio : un transporteur. **Zéro.**
+6. **Escaudœuvres** (3 171) — aucun marché publié ; registre bio : un grossiste en boissons. **Zéro.**
+7. **Berlaimont** (3 159) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut ; un seul opérateur bio, inscrit
+   sous un nom de personne, non instruit. **Zéro.**
+8. **Quarouble** (3 145) — le `robots.txt` de la Ville ne ferme aux agents d'IA que `/fileadmin/` (règle 294) ; aucun marché
+   publié ; un opérateur bio sous un nom de personne, non instruit. **Zéro.**
+9. **Arleux** (3 125) — la page des commerces alimentaires cite un marché du mardi sans lieu ni heures propres, et un primeur
+   présenté par les prénoms de ses exploitants ; les mentions légales de la Ville ferment ses photos (règle 231). La ferme bio
+   que le registre rattache à la commune vend en réalité le samedi dans une commune voisine, et sa page d'accueil nomme son
+   exploitant (règle 376). **Zéro.**
+10. **Boussois** (3 123) — la Ville répond 403 à l'agent nommé et 200 à l'agent par défaut ; aucun opérateur bio. **Zéro.**
+11. **La Sentinelle** (3 103) — même `robots.txt` qu'à Quarouble ; aucun marché ni producteur publié ; registre bio : des
+    grossistes et un commerce au certificat arrêté. **Zéro.**
+12. **Anor** (3 099) — la page d'accueil de la Ville ne publie ni marché ni commerce ; au registre bio, des élevages laitiers
+    sans point de vente publié, dont un groupement qui n'a qu'une page de réseau social. **Zéro.**
+
+**Point d'arrêt du Nord : Chéreng** (3 078). Aucune zone : la passe prend le second département (règle 248).
+
+**Indre, commune calculée : Châteauroux** (42 963), commune la plus peuplée d'un département sans aucune fiche. Contrôle à deux
+agents : le site commun à la Ville et à l'agglomération répond 200 aux deux, `robots.txt` ouvert ; l'office de tourisme répond
+403 à l'agent nommé (règle 257) ; le site propre des halles coupe la connexion de l'agent nommé (règle 399) ; le drive fermier,
+la boulangerie et le maraîcher répondent 200 aux deux, sans clause sur les images.
+
+**Zone publiée (règles 96, 127, 219, 272 et 363)** — distances depuis la mairie, place de la République (point de l'annuaire de
+l'administration) :
+
+1. **Les Halles de Châteauroux**, place Monestier (0,2 km) — fiche entière. La Ville écrit les jours, les heures et les métiers
+   des douze commerçants sur sa page « Les marchés », dans une rubrique propre aux Halles (règle 329) ; équipement municipal
+   (règle 106). Photographie de l'entrée publiée par la Ville sur cette page, ouverte par les règles 309 et 398, recadrée
+   (800 × 335) au-dessus d'une passante.
+2. **La Grigne Bio**, 2 bis rue de la Poste (à deux pas) — fiche entière. Société active au registre (un établissement ouvert,
+   boulangerie, à cette adresse, à 30 m du point de la Base), certificat Bureau Veritas engagé au registre bio ; heures et fixe
+   sur le site de la boulangerie, qui n'a ni mentions légales ni clause ; photographie de l'intérieur de la boutique, sans
+   personne. Catégorie `producteur` (règle 73). Aucun lien `site_web` : la page d'accueil nomme une personne (règles 376 et 377).
+3. **Marché du samedi, places de la République et Monestier** (0,1 km) — jour, heures et lieu à la Ville ; la famille de
+   produits vient d'un exposant qui annonce lui-même son étal sur ce marché (règle 386). Photographie : l'illustration générale
+   de la page des marchés, un étal de légumes sans personne ni marque ; la fiche dit qu'elle ne désigne aucun marché en
+   particulier. `a_confirmer`.
+4. **Drive Fermier 36**, 99 avenue de La Châtre (1,3 km) — association active au registre, siège à la Chambre d'agriculture ;
+   site vivant, boutique et créneaux servis ce jour, mentions légales sans la clause de la règle 333 ; catégorie `producteur`
+   (règle 389). Le point publié est le retrait principal, connu de la Base au numéro (0,98). Ses photographies sont servies par
+   un hébergeur dont le `robots.txt` interdit le chemin (règle 345) : photographie thématique de la Ville (règle 272), le jardin
+   public des Cordeliers. Aucun lien ni téléphone : la page d'accueil cite une enseigne partenaire qui se lit comme un nom de
+   personne (règle 377), et les seuls numéros sont des portables (règle 143). `a_confirmer`.
+5. **Natur'et Jardin**, 47 chemin des Jardiniers, Saint-Maur (3,1 km, même intercommunalité au référentiel) — exploitation
+   individuelle active au registre sous cette enseigne, qui n'est pas un nom de personne ; vente à heures fixes deux fois par
+   semaine, donc hors de la règle 311 ; certificat Ecocert engagé depuis 2018 au registre bio ; numéro connu de la Base (0,94).
+   Le site ne s'illustre que d'images de banque (règle 360) : photographie thématique de la Ville, les jardins familiaux
+   (règle 272). Lien publié, la page d'accueil ne nommant personne ; aucun téléphone publié par l'exploitation. `a_confirmer`.
+
+Deux fiches entières dans la commune (règle 127), trois autres points à moins de 3,2 km : **cinq points**, quatre dans
+Châteauroux. Issoudun, seconde commune que la règle 248 accordait, n'a pas été ouverte.
+
+**Points et adresses.** La Base Adresse Nationale ne connaît la place Monestier et la place de la République qu'à la voie
+(0,60 et 0,97) ; les deux points sont à 110 m l'un de l'autre et font deux fiches (règle 171). La Base nomme la place Monestier
+d'un prénom et d'un nom ; la fiche l'écrit comme la Ville, « place Monestier ».
+
+**Contradictions.** Marché du samedi : la Ville écrit 7h-13h, le maraîcher annonce son propre étal de 6h à 13h en tête de page
+et de 6h à 12h30 plus bas ; la fiche du marché garde les heures de la Ville, celle du maraîcher ne donne pas d'heure pour
+l'étal. Drive : la page d'accueil annonce « 38 producteurs » puis « 35 producteurs et 3 artisans » ; la fiche écrit la seconde
+formule, qui détaille la première. Boulangerie : le registre bio porte une seconde adresse place de la République, que ni le
+site ni le registre des entreprises ne confirment ; elle n'est pas publiée.
+
+**Images.** Cinq fichiers, tous réencodés depuis leurs seuls pixels (règle 235), aucun au-delà de 1 280 px, aucun agrandi ;
+aucun visage. Quatre viennent de la Ville, chacun d'un fichier différent (règles 191 et 272), avec la citation de la règle
+309 ; les fichiers de la Ville dont le nom porte un crédit de photographe n'ont pas été ouverts (règle 339). Une photographie du
+drive téléchargée avant la lecture du `robots.txt` de son hébergeur a été supprimée sans entrer dans le dépôt.
+
+**Écartées pour doute sur une personne** : à Fretin, deux fermes désignées par un nom de personne ; à Arleux, un primeur ; dans
+les communes du Nord et dans Châteauroux Métropole, plusieurs opérateurs du registre bio inscrits sous un nom de personne. Non
+instruits, non nommés, non rouvrables.
 
 ### Passe du 5 octobre 2026 (cent vingtième) : Cormontreuil et le Grand Reims (Marne), quatre fiches ; règle 397
 
@@ -27269,6 +27393,36 @@ interdiction » ; l'article 16 de ses conditions générales de vente nomme les 
 reproduction (règles 231 et 245). **Déblocage** de sa photographie : une image permise de Mazan (règle 312).
 
 Point d'arrêt : **Courthézon** ; la commune suivante du Vaucluse est Mazan (règle 247).
+
+### Pistes non publiées dans le Nord (de Bavay à Anor)
+
+Passe du 5 octobre 2026 (cent vingt et unième), douze communes (règle 247) :
+
+- **Fretin, marché communal du vendredi** (14h-19h, parking de la salle des sports, face à la mairie ; poissonnerie, fromagerie,
+  fruits et légumes, boucherie) : faits entiers à la Ville. **Déblocage** : une photographie du lieu, ou thématique de la
+  commune, publiée sans interdiction de reprise, et une seconde fiche entière dans la commune.
+- **Arleux, marché du mardi** : cité par la Ville sans lieu ni heures propres. **Déblocage** : une page de la Ville propre au
+  marché, et une image permise.
+- Fretin (deux fermes), Arleux (un primeur) : écartés pour doute sur une personne, non rouvrables.
+
+Point d'arrêt : **Anor** ; la commune suivante du Nord est **Chéreng** (3 078).
+
+### Pistes non publiées à Châteauroux et dans Châteauroux Métropole
+
+Passe du 5 octobre 2026 (cent vingt et unième), cinq fiches publiées ; restent, pour un prochain passage sur la commune :
+
+- **Marchés de plein air de la semaine** (place Monestier et rue Wilson du mardi au vendredi ; place Saint-Christophe le
+  jeudi ; Saint-Jacques le mercredi ; Saint-Jean le mardi ; Les Marins le vendredi ; rue Schwob le mercredi ; place Voltaire le
+  samedi, alimentaire et marchandises) : jours et heures à la Ville, aucune famille de produits propre à chacun (règles 197 et
+  329). **Déblocage** : une liste d'exposants, ou un exposant qui annonce lui-même sa présence (règle 386).
+- **Magasin bio indépendant de l'avenue de Verdun** : société active et certifiée, site ouvert aux deux agents, qui dit donner
+  « une place importante aux producteurs locaux » sans que la passe ait lu une liste nommée (règle 86) ; non instruit plus loin,
+  cinq fiches étant trouvées. **Déblocage** : la liste de ses producteurs de la région, et ses heures.
+- **AMAP de la rue de Strasbourg** : connue d'un seul annuaire tiers ; aucune source datée lue (règle 195). Non instruite.
+- **Ferme du lycée agricole, route de Velles** : certifiée au registre bio ; le site de l'établissement donne des heures de
+  bureau, pas de vente. **Déblocage** : des heures et des produits de vente au public.
+- **Site des halles** : fermé à l'agent nommé (règle 399). **Office de tourisme** : 403 à l'agent nommé (règle 257).
+- **Issoudun** : non ouverte. Si l'Indre revient en tête, la descente reprend à Issoudun (11 159).
 
 ## Comment ajouter ou modifier un marchand
 
