@@ -4925,6 +4925,16 @@ prioritaires en cas de conflit.
      la seule page de la Ville, qui est l'autorité de cet équipement municipal (règles 106 et 111). **Déblocage** : la même
      réponse aux deux agents.
 
+400. **Une page de maintenance que la Ville sert avec un code 200 vaut la page de maintenance de la règle 288.** Le
+     5 octobre 2026, le site de la Ville de Lezennes répond 200 aux deux agents et ne sert qu'une page intitulée « Site en
+     maintenance », qui écrit que le site « est momentanément indisponible » et ne garde que des liens datés du mois (agenda,
+     menus, ordre du jour). La règle 288 donnait pour critère « la page elle-même (code 503 et texte de maintenance) » ; ici le
+     texte y est, pas le code. **Tranché ainsi** : c'est l'annonce de la Ville qui fait la panne datée, pas le code que son
+     serveur choisit ; une page d'accueil qui se dit elle-même en maintenance, et dont le contenu daté montre qu'elle est
+     tenue à jour, ouvre le second passage de la règle 288 — la commune compte dans la borne de la passe (règle 237), et la
+     prochaine passe qui vise le département la réessaie d'abord, en une requête, hors borne (règle 290). Un site réduit à une
+     page vide ou à une redirection, sans le mot, reste sous la règle 237 seule.
+
 ## Marchands à confirmer
 
 897 fiches sur 1013 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -12395,6 +12405,82 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-deuxième) : Nord et Bas-Rhin, aucune publication ; règle 400
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 013 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : la dernière région visée est le Centre-Val de Loire (passe de
+Châteauroux), fermée (règle 41.c) ; **Nord (59) 3,4268**, premier département ouvert, en Hauts-de-France ; la Haute-Saône
+(3,4258) est épuisée ; **Bas-Rhin (67) 3,0977**, en Grand Est, second (règles 248 et 364). Aucune intercommunalité du Nord ni du
+Bas-Rhin ne porte quatre fiches entières désignées (deux seulement dans l'Eurométropole de Strasbourg) : la règle 302 ne joue
+pas. Contrôle de tête de Labenne : `labenne.fr` n'ouvre toujours aucune connexion, aux deux agents. `git fetch` refait avant
+l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, le classement est inchangé (règle 260) : Nord 3,4268,
+Bas-Rhin 3,0977 ; rien n'ayant été publié, la prochaine passe peut viser les Hauts-de-France comme le Grand Est, pas le
+Centre-Val de Loire.
+
+**Descente du Nord, reprise à Chéreng (règles 41.d, 127 et 247)**, douze communes, contrôle à deux agents (règle 257) ; toutes
+les Villes lues répondent 200 aux deux :
+
+1. **Chéreng** (3 078) — la page des commerçants de la Ville est une liste d'enseignes faites de patronymes (règle 383) ; aucun
+   marché hebdomadaire publié ; registre bio : une supérette. **Zéro.**
+2. **Lecelles** (3 046) — la page des commerces alimentaires de la Ville nomme des personnes à chaque ligne (règle 383) et ne
+   sert pas de source ; aucun marché publié ; au registre bio, une micro-brasserie engagée, sans site à elle, et des vergers
+   dont le certificat est arrêté. **Zéro.**
+3. **Emmerin** (3 026) — la page « Entreprise et commerce » désigne ses fermes par un nom de personne ; aucun marché publié ;
+   registre bio : deux grandes surfaces. **Zéro.**
+4. **Pont-à-Marcq** (3 016) — annuaire de commerces par catégories, sans producteur ni marché ; la recherche du site ne rend
+   aucun marché hebdomadaire ; registre bio : grandes surfaces, une boulangerie au certificat arrêté, deux exploitations
+   inscrites avec un nom de personne, non instruites. **Zéro.**
+5. **Lezennes** (2 978) — le site de la Ville ne sert qu'une page « Site en maintenance », avec un code 200 (**règle 400**,
+   nouvelle). La seule exploitation bio qui y a son siège cultive dans une autre commune de la métropole et écrit elle-même
+   qu'elle ne fait « pas de vente directe ni de paniers » (règle 152). **Zéro**, à réessayer en tête de la prochaine descente.
+6. **Willems** (2 941) — la page des commerces est vide ; le seul « marché fermier » du site est un événement de 2011 ; aucun
+   opérateur au registre bio. **Zéro.**
+7. **Thiant** (2 914) — le marché du vendredi n'est attesté que par une actualité d'avril 2020, sans lieu ni heures (règle
+   181) ; les mentions de la Ville soumettent ses photographies à autorisation écrite (règle 231) ; au registre bio, une
+   brasserie artisanale active au registre des entreprises, dont aucun domaine ne répond. **Zéro.**
+8. **Neuville-sur-Escaut** (2 901) — aucun site à l'annuaire de l'administration, aucun domaine au nom de la commune ne répond
+   (règle 237) ; aucun opérateur au registre bio. **Zéro.**
+9. **Beuvry-la-Forêt** (2 861) — le **marché du samedi matin** (halle couverte, rue Albert-Ricquier, place du Marché ;
+   charcuterie-boucherie, fruits et légumes, poissonnerie, fromagerie, poulets rôtis) a son jour, son lieu et ses familles sur
+   la page « Marchés » de la Ville, sans heure et sans photographie ; aucun second point : au registre bio, une champignonnière
+   inscrite avec un nom de personne et qui ne publie que sur un réseau social. Une fiche aux faits presque entiers, sans image.
+   **Pas deux.**
+10. **Courchelettes** (2 855) — le `robots.txt` de la Ville ne ferme aux agents d'IA que `/fileadmin/` (règle 294) ; la page
+    d'accueil ne cite qu'un marché de fin d'année ; registre bio : une supérette. **Zéro.**
+11. **Sainghin-en-Mélantois** (2 840) — la page des commerces compte trois « producteurs locaux », désignés par un nom de
+    personne ; aucun marché hebdomadaire au plan du site ; au registre bio, un jardin d'insertion engagé, dont le lieu
+    d'activité est une avenue du parc de la Haute Borne, sans point de vente lu. Un seul candidat possible. **Pas deux.**
+12. **Wignehies** (2 804) — aucun site à l'annuaire, aucun domaine ne répond (règle 237) ; au registre bio, des élevages
+    laitiers inscrits sous un nom de personne, sans point de vente publié. **Zéro.**
+
+**Point d'arrêt du Nord : Wignehies** ; la commune suivante est **Genech** (2 803). Aucune zone : la passe prend le second
+département (règle 248).
+
+**Bas-Rhin, reprise à Bischwiller (règles 247 et 248)**, deux communes :
+
+1. **Bischwiller** (12 242) — la Ville répond 403 à l'agent nommé, `robots.txt` compris, et 200 à l'agent par défaut (règle
+   257) : non consultée. Au registre bio : une grande surface, un groupement d'achat, une boulangerie au certificat arrêté, une
+   jardinerie d'établissement d'aide par le travail dont le magasin est dans la commune voisine et vend des plantes, et un
+   atelier de boissons et de légumes fermentés dont l'enseigne se lit comme un patronyme (règle 259), non instruit. **Zéro.**
+2. **Hœnheim** (11 742) — la Ville publie ses deux marchés (le mercredi, place des Marchés, rue des Vosges, 7h30-12h30 ; le
+   jeudi, place Albert-Schweitzer, avenue du Ried, 7h30-12h) sans aucune famille de produits (règle 197), et ses mentions
+   légales réservent nommément les « représentations iconographiques et photographiques » (règle 231) ; registre bio : une
+   grande surface. **Zéro fiche entière.**
+
+**Point d'arrêt du Bas-Rhin : Hœnheim** ; la commune suivante est **Saverne** (11 460). Les fiches désignées de Schiltigheim,
+de Sélestat et de Bischheim restent désignées, non relues dans cette passe. Aucune zone dans aucun des deux départements : **la
+passe ne publie rien** (règle 248).
+
+**Contradictions.** Aucune sur une fiche publiée. À Sainghin-en-Mélantois, le registre bio rattache le jardin d'insertion à la
+commune par une « avenue » que la Base Adresse Nationale ne connaît que chez la voisine, Sainghin n'ayant qu'une « rue » du
+même nom : non tranché, la fiche n'étant pas instruite.
+
+**Écartées pour doute sur une personne** : à Chéreng, à Lecelles, à Emmerin et à Sainghin-en-Mélantois, des fermes et des
+commerces que la Ville désigne par un nom de personne ; à Pont-à-Marcq, à Beuvry-la-Forêt et à Wignehies, des opérateurs du
+registre bio inscrits sous un nom de personne ; à Bischwiller, un atelier dont l'enseigne se lit comme un patronyme. Non
+instruits, non nommés, non rouvrables.
 
 ### Passe du 5 octobre 2026 (cent vingt et unième) : Châteauroux et Châteauroux Métropole (Indre), cinq fiches ; règles 398 et 399
 
@@ -27423,6 +27509,41 @@ Passe du 5 octobre 2026 (cent vingt et unième), cinq fiches publiées ; restent
   bureau, pas de vente. **Déblocage** : des heures et des produits de vente au public.
 - **Site des halles** : fermé à l'agent nommé (règle 399). **Office de tourisme** : 403 à l'agent nommé (règle 257).
 - **Issoudun** : non ouverte. Si l'Indre revient en tête, la descente reprend à Issoudun (11 159).
+
+### Pistes non publiées dans le Nord (de Chéreng à Wignehies)
+
+Passe du 5 octobre 2026 (cent vingt-deuxième), douze communes (règle 247) :
+
+- **Lezennes** : site de la Ville en maintenance (règle 400). **Déblocage** : le retour du site ; à réessayer en tête de la
+  prochaine descente du Nord, en une requête, hors borne (règles 288 et 290).
+- **Beuvry-la-Forêt, marché du samedi matin** (halle couverte, rue Albert-Ricquier, place du Marché ; charcuterie-boucherie,
+  fruits et légumes, poissonnerie, fromagerie, poulets rôtis) : jour, lieu et familles à la Ville, sur une seule page.
+  **Déblocage** : une heure ou une seconde page de la Ville (règle 178), une image permise, et une seconde fiche entière dans
+  la commune.
+- **Thiant, marché du vendredi** : attesté par une seule actualité de 2020. **Déblocage** : une page de la Ville propre au
+  marché, datée, avec lieu et heures ; une image hors du site de la Ville (règle 231). **Brasserie artisanale du parc
+  d'activités** : active et certifiée, aucun site lu. **Déblocage** : un site à elle qui publie des heures de vente.
+- **Sainghin-en-Mélantois, jardin d'insertion de la Haute Borne** : certifié au registre bio, non instruit. **Déblocage** : un
+  point et des heures de vente au public publiés par l'association, et une seconde fiche entière dans la commune.
+- **Lecelles, micro-brasserie de la rue Neuve** : certifiée au registre bio, connue de la seule page nominative de la Ville
+  (règle 383). **Déblocage** : un site à elle.
+- Chéreng, Lecelles, Emmerin, Sainghin-en-Mélantois, Pont-à-Marcq, Beuvry-la-Forêt, Wignehies : écartés pour doute sur une
+  personne, non rouvrables.
+
+Point d'arrêt : **Wignehies** ; la commune suivante du Nord est **Genech** (2 803).
+
+### Pistes non publiées dans le Bas-Rhin (Bischwiller, Hœnheim)
+
+Passe du 5 octobre 2026 (cent vingt-deuxième), deux communes (règle 248) :
+
+- **Bischwiller** : Ville fermée à l'agent nommé (règle 257). **Déblocage** : la même réponse aux deux agents.
+- **Hœnheim, marchés du mercredi** (place des Marchés, rue des Vosges, 7h30-12h30) **et du jeudi** (place Albert-Schweitzer,
+  avenue du Ried, 7h30-12h) : jours, lieux et heures à la Ville. **Déblocage** : une famille de produits écrite, ou un
+  exposant qui annonce lui-même sa présence (règles 197 et 386), et une image hors du site de la Ville (règle 231).
+- Bischwiller : un atelier écarté pour doute sur une personne, non rouvrable.
+
+Point d'arrêt : **Hœnheim** ; la commune suivante du Bas-Rhin est **Saverne** (11 460), les fiches désignées de Schiltigheim,
+de Sélestat et de Bischheim étant à prendre d'abord (règle 258).
 
 ## Comment ajouter ou modifier un marchand
 
