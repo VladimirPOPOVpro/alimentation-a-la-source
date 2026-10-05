@@ -5108,9 +5108,35 @@ prioritaires en cas de conflit.
      autorité ni site propre, reste sous la règle 192. **Déblocage** de la réserve : des heures publiées par le magasin ou
      par une autorité lisible.
 
+418. **Une commune déjà éprouvée dont la fiche de marché n'attendait que par une règle mal appliquée se rouvre à son rang, et
+     publie trois fiches entières quand la quatrième est attestée par une collectivité et retenue par une seule panne de
+     lecture.** Le 5 octobre 2026 (cent trente-sixième passe), l'Aisne est le premier département ouvert. Soissons, deuxième
+     commune du département, avait été éprouvée le 21 septembre et comptée pour une seule fiche : son marché du mercredi et du
+     samedi matin avait été retenu au titre de la règle 192, alors que la Ville et l'office de tourisme en confirment tous deux
+     le jour et la place — exactement le cas que la règle 9 publie à la demi-journée — et que la Ville le décrit à deux
+     endroits distincts de son site avec ses familles de produits (règles 178 et 197). C'est une erreur d'application au sens
+     de la règle 379, pas un doute : la commune est rouverte et éprouvée avant le point d'arrêt (règles 247 et 375). Elle rend
+     deux fiches entières dans la commune, dont une illustrée par son propre lieu (règles 127 et 412), et une troisième à
+     Venizel, dans la même intercommunalité, à cinq kilomètres (règles 96 et 219). La quatrième existe : un magasin de
+     producteurs du centre, actif au registre sous son enseigne, dont l'agglomération atteste l'adresse, le fixe et les
+     produits ; seul son propre site, qui porte ses heures, échoue à la négociation TLS depuis cet environnement (règle 237),
+     et l'annuaire régional qui les reprend refuse l'agent nommé (règle 257). **Tranché ainsi** : la règle 316 publie quatre
+     fiches quand aucun cinquième point n'existe ; ici trois fiches exactes dans la deuxième ville d'un département en déficit
+     valent mieux qu'une descente vers des communes de treize mille habitants qui laisserait Soissons vide, et la zone est
+     utilisable — un marché, un magasin, une ferme. La passe publie trois fiches à trois conditions : deux au moins dans la
+     commune calculée, dont une au lieu illustré ; un quatrième point nommé en pistes, attesté par une collectivité, avec un
+     déblocage qui ne dépend que d'une lecture ; et pas plus d'une commune de l'intercommunalité hors de la commune calculée.
+     À deux fiches, rien ne change : la commune ne fait pas la passe (règle 248). **Déblocage** du quatrième : le site du
+     magasin redevenu lisible, ou ses heures publiées par la Ville, l'agglomération ou l'office.
+
 ## Marchands à confirmer
 
-937 fiches sur 1067 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+940 fiches sur 1070 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Soissons**, **Biocoop Au Panier Naturel** (Soissons) et **La Ferme de Vénizel** (Venizel) (passe du 5 octobre
+  2026, cent trente-sixième, règles 5, 9, 143, 178, 210, 246, 371, 377, 413 et 418) : ni la Ville ni l'office ne publient
+  d'heure pour le marché, l'heure écrite est celle d'un annuaire de marchés ; le magasin bio et la ferme sont illustrés par
+  une photographie thématique du domaine public ; l'office de tourisme écrit deux heures d'ouverture différentes (13h30 et
+  14h) pour l'après-midi de la boutique de la ferme, dont aucun téléphone fixe n'est publié.
 - **Les Vergers de Maubec**, **Fraîcheur Paysanne**, **Biocoop Montélibio** et **MyBioShop Montélimar** (Montélimar) (passe
   du 5 octobre 2026, cent trente-cinquième, règles 1, 210, 231, 296, 312, 316, 377, 412, 416 et 417) : le stand du verger est
   saisonnier, ses heures changent avec les récoltes et il est fermé depuis le 1er octobre ; les heures du magasin de
@@ -12642,6 +12668,96 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trente-sixième) : Soissons (Aisne), trois fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Trois fiches ajoutées, aucune retirée** : 1 070 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 067 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,83, Oise 8,84, Pas-de-Calais 7,56, Landes 6,71,
+Eure-et-Loir 6,70, Calvados 5,98, Loiret 5,70, Ain 5,51, Lot-et-Garonne 5,16, Loir-et-Cher 5,08, Aube 4,80, Somme 4,75,
+Mayenne 4,73, Cher 4,62, Jura 3,99 et Haute-Saône 3,61, tous épuisés (règle 265, état repris du récit de la passe précédente) ;
+**Aisne (02) 3,0984**, premier département ouvert, en Hauts-de-France, cinq fiches, toutes dans l'agglomération de
+Château-Thierry. La passe précédente visait Auvergne-Rhône-Alpes : la réserve de la règle 41.c ne joue pas. `git fetch` refait
+avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 070 fiches : Aisne 0,1211 (8 fiches) ;
+Val-de-Marne 3,1428, Loire-Atlantique 3,0839, Yvelines 3,0453, Gers 2,9894, Maine-et-Loire 2,9384. La prochaine passe ne peut
+pas viser les Hauts-de-France : le Val-de-Marne est le premier département à lire.
+
+**Commune retenue : Soissons** (28 046, GrandSoissons Agglomération), deuxième commune du département, rouverte à son rang
+avant le point d'arrêt (règle 418) ; elle fait la passe à trois fiches. Contrôle à deux agents (règle 257) : la Ville
+(`www.soissons.fr`), l'agglomération et son site économique, l'office de tourisme du Soissonnais Valois, le site du magasin
+bio et l'annuaire Jours-de-Marché servent l'un et l'autre. **L'annuaire régional des points de vente de la chambre
+d'agriculture et le site d'une brasserie de Villeneuve-Saint-Germain répondent 403 à l'agent nommé et 200 à l'agent par
+défaut : non consultés.** Le site de la Ville de Saint-Quentin répond 403 aux deux agents (règle 237). Le registre de
+l'Agence Bio du département (582 opérateurs) a été lu en entier et filtré sur les vingt-sept communes de l'agglomération
+(24 opérateurs, dont sept grandes surfaces et plusieurs boulangeries, hors sujet).
+
+- **Faits.** La Ville décrit son marché dans deux articles distincts (mars et avril 2025) : mercredi et samedi matin, place
+  Fernand-Marquigny, auvents du marché couvert et halle aux poissons, 67 commerçants abonnés, avec la liste de leurs métiers ;
+  l'office écrit le même jour et la même place. Aucun des deux ne donne d'heure : la fiche écrit la demi-journée et attribue
+  « 8h-13h » à l'annuaire Jours-de-Marché (règle 9). L'article de la Ville nomme de nombreux commerçants : aucun nom n'est
+  repris, et l'article n'est pas mis en lien (règle 377, par prudence).
+- **Images.** Les mentions légales de la Ville n'ont aucune clause de reproduction ; elles créditent « GrandSoissons
+  Agglomération, Ville de Soissons » et une banque d'images (règles 306 et 413). Les cinq photographies de l'article du
+  marché montrent le marché lui-même, mais quatre portent des visages en gros plan ; la cinquième, l'intérieur du marché
+  couvert, est recadrée au-dessus des têtes : il reste la charpente et les portiques, 1 800 px ramenés à 1 280 × 448, sans
+  personne ni enseigne lisible. L'office de tourisme ne concède la reproduction que pour la consultation (règles 246 et
+  296) ; les conditions du site du magasin bio rangent « les photographies » dans la propriété exclusive de son réseau
+  (règle 246). Le magasin bio et la ferme reçoivent donc une photographie thématique du domaine public (règle 371), marque
+  du domaine public lue dans la réponse d'Openverse, 1 024 px, sans personne ni marque, un fichier par fiche :
+  `flickr.com/photos/41284017@N08/26291945419` (courges et jeunes plants) et `flickr.com/photos/194676499@N06/51831176673`
+  (rangs de salades). Toutes les images sont réencodées depuis leurs seuls pixels (règle 235) et relues après écriture.
+
+Les trois fiches, toutes `a_confirmer` :
+
+1. **Marché de Soissons** — marché communal (règle 6 sans objet) ; point de la Base Adresse Nationale sur la place (0,96).
+   Produits : les métiers que la Ville liste. Photographie du lieu : la charpente du marché couvert.
+2. **Biocoop Au Panier Naturel** — société active au registre à l'adresse, certification engagée depuis 2006 pour le commerce
+   de détail avec activités déclarées (règle 210 remplie) ; heures et fixe lus sur le site propre au magasin, dont le
+   `robots.txt` n'exclut aucun agent d'IA, dont les conditions n'interdisent pas la lecture automatique et qui n'est pas celui
+   du réseau (règles 149 et 414 sans objet). Sa page d'accueil porte des prénoms : pas de lien (règle 377). La Base Adresse
+   Nationale ne connaît que la rue (0,96) : le point est celui du registre de l'Agence Bio, à 60 m.
+3. **La Ferme de Vénizel** (Venizel, 5 km) — société active au registre à l'adresse (0,95), commerce de détail de fruits et
+   légumes ; boutique et distributeur automatique, heures de la fiche de l'office de tourisme. Elle revendique une
+   « agriculture raisonnée », sans certification : pas de pilier `environnement` (règle 15). Le seul téléphone publié est un
+   portable relayé par l'office : non inscrit (règle 143).
+
+**Pourquoi trois et pas cinq (règle 418).** Le quatrième point, un magasin de producteurs du centre, n'a pas d'heures
+lisibles ; aucun cinquième n'a de jour ni d'heure publiés par une source consultable.
+
+**Contradictions** : la fiche de l'office écrit pour la boutique de la ferme « de 13h30 à 19h » dans son texte et
+« 14h - 19h » dans son tableau ; la fiche publie le texte, rédigé à la première personne, et signale l'écart (règles 5 et 405). Le
+registre de l'Agence Bio situe le magasin bio « zone de Chevreux », le site du magasin « zone de l'Archer, ZAC de Chevreux » :
+même rue, les deux noms figurent dans la description. La passe du 21 septembre plaçait ce magasin avenue de Compiègne : c'est
+une ancienne adresse que des annuaires portent encore, le registre et le magasin écrivent rue Marcel-Paul.
+
+**Pistes non publiées (Soissons et GrandSoissons Agglomération)** — lignes anonymes pour tout ce qui touche une personne :
+
+- Soissons, **Les Fermes du Coin**, magasin de producteurs de la rue Saint-Martin : société active au registre sous son
+  enseigne ; adresse, fixe et produits dans un article du site économique de l'agglomération (juillet 2020), qui nomme ses
+  fondateurs — aucun nom repris. Son site échoue à la négociation TLS depuis cet environnement et ses heures ne sont lues
+  que dans le résumé d'un moteur de recherche (règles 237 et 415). **Déblocage** : le site redevenu lisible, ou ses heures
+  chez la Ville, l'agglomération ou l'office (règle 417).
+- Bernoy-le-Château, **La Ferme de Léchelle**, farines moulues à la ferme : fiche de l'office sans jour ni heure, site propre
+  sans heures, seul un portable publié (règles 192 et 143). **Déblocage** : des jours publiés par la ferme ou l'office.
+- Villeneuve-Saint-Germain, brasserie artisanale : son site refuse l'agent nommé (règle 257) ; l'office ne donne ni jour ni
+  heure et nomme le brasseur.
+- Soissons, micro-brasserie que l'office situe à Soissons : aucun établissement ouvert au registre. Ne pas la publier.
+- Soissons, AMAP : distribution du mercredi soir connue des seuls annuaires associatifs, dernière liste régionale datée de
+  2023 (règle 195). **Déblocage** : une source de moins de douze mois.
+- Pommiers, marché de producteurs du troisième dimanche d'avril à octobre : l'office seul (règle 196), saison finie.
+- Vauxrezis, exploitation maraîchère créée fin 2024, certifiée au registre bio avec vente aux particuliers déclarée : ni
+  site, ni heure, ni téléphone publié.
+- Pasly et Chavigny, élevages de poules pondeuses certifiés : aucune vente directe publiée.
+- Soissons, chocolatier certifié pour la revente de cacao : son enseigne porte un nom de personne, non instruit.
+- Boulangeries certifiées, grandes surfaces et drive du registre : hors sujet ou exclus par `MODERATION.md`.
+- Écartés pour doute sur une personne, sans réouverture : à Billy-sur-Aisne, une champignonnière dont l'enseigne est un nom
+  de famille ; à Villeneuve-Saint-Germain, un apiculteur que l'office présente sous son nom ; à Crouy, une ferme inscrite au
+  registre bio avec le nom de son exploitant. Aucun nom n'est repris.
+
+**Point d'arrêt de l'Aisne : Château-Thierry** (inchangé), Soissons ayant fait cette passe à son rang. À réessayer avant la
+descente (règle 406) : **Saint-Quentin** (52 813), dont le site de la Ville répond 403 à tout agent le 5 octobre 2026 ;
+Laon (24 220) reste fermée par la règle 77 et n'a pas été relue. La commune suivante est **Tergnier** (13 045), puis Chauny
+(11 596) et Villers-Cotterêts (10 489).
 
 ### Passe du 5 octobre 2026 (cent trente-cinquième) : Montélimar (Drôme), quatre fiches
 

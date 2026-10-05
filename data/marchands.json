@@ -28286,5 +28286,84 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=164%20route%20de%20Marseille%2C%2026200%20Mont%C3%A9limar",
     "image_url": "/images/marchands/mybioshop-montelimar.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-soissons",
+    "nom": "Marché de Soissons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.381109,
+    "lon": 3.327057,
+    "adresse": "Place Fernand Marquigny, 02200 Soissons",
+    "horaires": "Le mercredi matin et le samedi matin, toute l'année. Ni la Ville ni l'office de tourisme ne publient d'heure ; l'annuaire Jours-de-Marché indique 8h-13h, à confirmer sur place.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes, charcuteries et volailles",
+      "Poissons (halle aux poissons)",
+      "Fromages et produits laitiers",
+      "Pains, dont un boulanger bio",
+      "Miel",
+      "Pâtes fraîches",
+      "Champagne de vigneron"
+    ],
+    "description": "Marché du centre de Soissons, derrière la cathédrale : il occupe la place Fernand-Marquigny, les auvents du marché couvert inauguré en 1911 et la halle aux poissons. La Ville y compte 67 commerçants abonnés, dont des maraîchers, un producteur de produits laitiers et un apiculteur, à côté d'étals non alimentaires. Aucune heure n'est publiée par la Ville, d'où la mention à confirmer. Photo : la charpente du marché couvert, publiée par la Ville de Soissons (soissons.fr).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Fernand%20Marquigny%2C%2002200%20Soissons",
+    "image_url": "/images/marchands/marche-de-soissons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-au-panier-naturel-soissons",
+    "nom": "Biocoop Au Panier Naturel",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.367953,
+    "lon": 3.31595,
+    "adresse": "Rue Marcel Paul, 02200 Soissons",
+    "horaires": "Lundi de 14h à 19h ; mardi, mercredi et jeudi de 9h à 12h30 et de 14h à 19h ; vendredi et samedi de 9h à 19h sans interruption ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Fromagerie à la coupe",
+      "Épicerie et vrac",
+      "Pain et pâtisseries",
+      "Produits laitiers et œufs",
+      "Produits frais",
+      "Hygiène et écoproduits"
+    ],
+    "description": "Magasin bio coopératif de la zone de l'Archer (ZAC de Chevreux), au sud de Soissons, desservi par la ligne 4 des bus urbains : environ 5 200 références sur 400 m², avec un rayon fromagerie. Certification biologique engagée depuis 2006 au registre de l'Agence Bio pour le commerce de détail. La Base Adresse Nationale ne connaît que la rue : le point est celui du registre de l'Agence Bio. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas le magasin.",
+    "telephone": "03 23 59 69 00",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Marcel%20Paul%2C%2002200%20Soissons",
+    "image_url": "/images/marchands/biocoop-au-panier-naturel-soissons.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-venizel",
+    "nom": "La Ferme de Vénizel",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.366951,
+    "lon": 3.392134,
+    "adresse": "191 Rue Marcel Bignebat, 02200 Venizel",
+    "horaires": "Boutique : lundi, mercredi et vendredi de 13h30 à 19h, samedi de 9h à 12h. Distributeur automatique : du lundi au vendredi de 9h à 21h, samedi de 9h à 12h. Heures de la fiche de l'office de tourisme, qui écrit aussi 14h pour l'ouverture de l'après-midi.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Produits locaux d'autres producteurs",
+      "Distributeur automatique de fruits et légumes"
+    ],
+    "description": "Maraîcher installé à cinq kilomètres à l'est de Soissons, qui cultive fruits et légumes en plein champ et sous serre, en agriculture raisonnée, et les cueille chaque matin. La vente se fait à la boutique de la ferme et à un distributeur automatique ; paiement en espèces selon l'office de tourisme. L'office donne deux heures d'ouverture pour l'après-midi, d'où la mention à confirmer. La photographie est une illustration thématique libre de droits (domaine public) et ne montre pas la ferme.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=191%20Rue%20Marcel%20Bignebat%2C%2002200%20Venizel",
+    "image_url": "/images/marchands/la-ferme-de-venizel.jpg",
+    "a_confirmer": true
   }
 ]
