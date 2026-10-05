@@ -4935,9 +4935,31 @@ prioritaires en cas de conflit.
      prochaine passe qui vise le département la réessaie d'abord, en une requête, hors borne (règle 290). Un site réduit à une
      page vide ou à une redirection, sans le mot, reste sous la règle 237 seule.
 
+401. **Une photographie de devanture dont le panneau porte, sous le nom commercial, le nom d'une personne ne se reprend pas, même
+     recadrée quand le nom reste lisible ailleurs dans l'image.** Le 5 octobre 2026 (cent vingt-troisième passe), la seule vue
+     du magasin d'un glacier d'Erstein que publie l'office de tourisme montre sa vitrine : l'enseigne y est suivie d'une initiale
+     et d'un patronyme, répétés en petit sur le décor. Les règles 235 et 339 ferment les métadonnées et les noms de fichier qui
+     nomment quelqu'un ; aucune ne parlait d'un nom lisible dans l'image. **Tranché ainsi** : un nom de personne visible dans
+     les pixels vaut un nom écrit dans la fiche ; l'image descend d'un échelon (ici une photographie de produit prise sur le
+     site du commerce, sans personne ni nom), et l'enseigne, qui n'est pas ce nom, reste publiable. S'il n'existe aucune autre
+     image, la fiche attend comme sous la règle 231.
+402. **Quand le site d'un producteur porte la clause de la règle 333, la fiche peut reposer sur la seule fiche datée de l'office de
+     tourisme, sans lien et sans rien reprendre du site.** À Obenheim, les mentions légales d'une coopérative maraîchère
+     interdisent « toutes requêtes automatisées ou semi automatisées des données publiées » ; elles n'ont été lues qu'après la
+     page d'accueil. La règle 333 ferme le site ; la règle 257 nomme le déblocage : la même information publiée par une autre
+     autorité. **Tranché ainsi** : l'adresse, l'horaire, les produits et l'image viennent de la fiche de l'office (période
+     « du 01/01/2026 au 31/12/2026 »), l'existence du registre des entreprises et du registre bio ; rien de ce que le site a
+     servi pendant le contrôle ne nourrit la fiche (règle 252), aucun `site_web` n'est publié, et la fiche part en
+     `a_confirmer` parce qu'elle n'a qu'une source pour son horaire. Le contrôle des mentions légales se fait désormais avant
+     toute lecture d'une page de contenu.
+
 ## Marchands à confirmer
 
-897 fiches sur 1013 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+900 fiches sur 1018 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché hebdomadaire d'Erstein, place de l'Hôtel-de-Ville**, **Juste à côté — la boutique paysanne** (Erstein) et
+  **RiedOasis** (Obenheim) (passe du 5 octobre 2026, cent vingt-troisième, règles 5, 96, 318 et 402) : pour le marché du samedi,
+  la Ville écrit la place de l'Hôtel-de-Ville et l'office de tourisme la place des Fêtes ; la fiche de l'office pour la
+  boutique paysanne ne porte aucune période de validité ; l'horaire de la ferme d'Obenheim n'a que l'office pour source.
 - **Marché du samedi, places de la République et Monestier** (Châteauroux), **Drive Fermier 36** (Châteauroux) et **Natur'et
   Jardin** (Saint-Maur) (passe du 5 octobre 2026, cent vingt et unième, règles 272, 386, 389, 398 et 399) : la Ville classe le
   marché « alimentaire » sans en écrire les étals, les produits de la fiche sont ceux du seul exposant qui y annonce lui-même sa
@@ -12405,6 +12427,114 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-troisième) : Erstein et le Canton d'Erstein (Bas-Rhin), cinq fiches ; règles 401 et 402
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée.**
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 013 fiches), outre-mer écarté
+(règle 177), départements épuisés sautés (règle 265) : inchangé depuis la passe précédente, qui n'a rien publié — **Nord (59)
+3,4268**, premier département ouvert ; la Haute-Saône (3,4258) est épuisée ; **Bas-Rhin (67) 3,0977**, second (règles 248 et
+364). La dernière région visée reste le Centre-Val de Loire (Châteauroux), fermée (règle 41.c). Aucune intercommunalité du Nord
+ni du Bas-Rhin ne porte quatre fiches entières désignées : la règle 302 ne joue pas. Contrôle de tête de Labenne : `labenne.fr`
+n'ouvre toujours aucune connexion, aux deux agents. Lezennes, réessayée hors borne (règles 290 et 400) : toujours la page
+« Site en maintenance ». `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur
+1 018 fiches : Bas-Rhin −1,8179 ; Nord 3,6164, toujours premier ouvert ; Haute-Saône 3,4427 (épuisée) ; Hérault 3,1636 ;
+Saône-et-Loire 3,1246. La prochaine passe ne peut pas viser le Grand Est.
+
+**Descente du Nord, reprise à Genech (règles 41.d, 127 et 247)**, douze communes, contrôle à deux agents (règle 257) :
+
+1. **Genech** (2 803) — deux fiches aux **faits entiers, sans image** : le marché du mercredi (15h-20h, place face à la mairie ;
+   boucherie, poissonnerie, fromager, primeur, brasseur), écrit par la Ville avec ses métiers, et le magasin des producteurs du
+   lycée agricole (mercredi et jeudi 13h30-18h30, vendredi 10h-19h), écrit par la Ville et par l'établissement. Les mentions
+   légales de la Ville comme celles de l'établissement nomment les « images » et en interdisent la reproduction (règle 231). La
+   ferme de la page des commerces est désignée par un nom de personne. **Zéro fiche entière.** Déblocage : une image permise.
+2. **Sains-du-Nord** (2 755) — le `robots.txt` de la Ville ne ferme aux agents d'IA que `/fileadmin/` (règle 294) ; la page
+   des commerces ne nomme ni marché ni producteur ; au registre bio, la ferme d'un lycée agricole sans point de vente publié
+   et des exploitations inscrites sous un nom de personne. **Zéro.**
+3. **Capinghem** (2 728) — la page « Restaurants et commerces » décrit une galerie de commerces de bouche sans producteur ni
+   marché ; au registre bio, le siège d'un magasin de réseau, sans lieu de vente dans la commune. **Zéro.**
+4. **Masnières** (2 689) — la Ville répond 403 à l'agent par défaut et 200 à l'agent nommé ; sa page des commerces ne nomme ni
+   marché hebdomadaire ni producteur (un marché semi-nocturne à l'agenda) ; aucun opérateur au registre bio. **Zéro.**
+5. **Verlinghem** (2 682) — annuaire de professionnels par catégories ; un maraîcher y figure avec un seul numéro de portable
+   (règle 143), sans site ; au registre bio, une pépinière de plants. **Zéro.**
+6. **Râches** (2 672) — même `robots.txt` qu'à Sains-du-Nord ; la page des commerces de bouche désigne chaque ligne par un nom
+   de personne (règle 383). Une brasserie artisanale a son site, sa société active au registre et ses heures (vendredi et
+   samedi), mais ses mentions légales nomment les « images » (règle 231) et son certificat bio est arrêté ; le site d'un fournil
+   ne répond plus que par la page d'erreur de son hébergeur et aucune entité ne lui correspond au registre (règle 6). **Zéro.**
+7. **Marpent** (2 653) — la rubrique des commerces ne nomme aucun producteur ; le seul « marché » est une affiche d'événement ;
+   aucun opérateur au registre bio. **Zéro.**
+8. **Nomain** (2 651) — le `robots.txt` de la Ville écrit `Disallow: /` pour tous les agents : non consultée (règles 77 et 282), alors
+   qu'elle tient une page « Ventes à la ferme » ; au registre bio, des exploitations inscrites sous un nom de personne.
+   **Zéro.** Déblocage : l'ouverture du `robots.txt`.
+9. **Vieux-Berquin** (2 628) — le **petit marché du vendredi** (14h30-19h, Grand'Place ; rôtisserie, fromager, fruits et
+   légumes) a ses faits entiers sur la page des commerçants ambulants de la Ville, dont les mentions légales, du même gabarit
+   qu'à Genech, ferment les images (règle 231) ; les exploitations du registre bio sont inscrites sous un nom de personne.
+   Une fiche aux faits entiers, sans image. **Pas deux.**
+10. **Haspres** (2 626) — l'annuaire des commerces de la Ville est vide ; registre bio : une supérette au certificat arrêté.
+    **Zéro.**
+11. **Wahagnies** (2 613) — la page des commerces nomme une personne à chaque ligne (règle 383) ; aucun marché hebdomadaire
+    publié ; aucun opérateur au registre bio. **Zéro.**
+12. **Frelinghien** (2 609) — le `robots.txt` de la Ville écrit `Disallow: /` pour tous : non consultée (règles 77 et 282). Au registre
+    bio, un magasin de producteurs en coopérative, engagé, à la même adresse qu'un groupement agricole : un seul point
+    possible, non instruit. **Pas deux.**
+
+**Point d'arrêt du Nord : Frelinghien** ; la commune suivante est **Trélon** (2 604). Aucune zone : la passe prend le second
+département (règle 248).
+
+**Bas-Rhin, reprise à Saverne (règles 247 et 248)**, deux communes :
+
+1. **Saverne** (11 460) — la Ville publie quatre marchés avec jour, heures et lieu, sans aucune famille de produits (règle
+   197), et réserve ses photographies à l'usage personnel et privé (règle 296) ; l'office de tourisme et la seule boulangerie
+   bio qui ait un site répondent 403 à l'agent nommé et 200 à l'agent par défaut (règle 257) : non consultés. **Zéro.**
+2. **Erstein** (10 790) — **fait la passe.** Contrôle à deux agents : la Ville, l'office de tourisme du Grand Ried et le site
+   du glacier répondent 200 aux deux, `robots.txt` ouverts ; l'hôte des photographies de l'office n'a pas de `robots.txt`.
+
+**Zone publiée (règles 96, 127, 219 et 363)** — distances depuis la mairie, 1 place de l'Hôtel-de-Ville (point de l'annuaire de
+l'administration) ; les deux communes sont dans la communauté de communes du Canton d'Erstein au référentiel :
+
+1. **Marché hebdomadaire d'Erstein, place de l'Hôtel-de-Ville** (sur la place) — fiche entière. La Ville écrit, sur une page
+   mise à jour le 2 septembre 2026, le jour, les heures et le lieu du marché du jeudi et du marché des produits du terroir du
+   samedi, chacun avec sa propre liste d'étals et de métiers (règle 197 remplie pour chacun) ; équipement municipal (règle
+   106). Les deux marchés se tiennent au même point : une seule fiche (règles 7 et 171). La page nomme des exposants par leur
+   prénom et leur nom : la fiche n'écrit que les familles de produits, et aucun lien n'est publié (règle 383). Photographie :
+   le bandeau de la page, le marché devant l'hôtel de ville, sans visage identifiable ; les mentions de la Ville autorisent la
+   reproduction à des fins d'information, non commerciales, sans modification et avec la mention de l'origine (règles 239 et
+   318) : image reprise entière, seulement réduite (1 920 × 500 → 1 280 × 333). `a_confirmer` (voir Contradictions).
+2. **Juste à côté — la boutique paysanne**, 33c avenue de la Gare (0,95 km) — fiche entière. Association active au registre à
+   cette adresse ; adresse, heures et produits sur la fiche de l'office de tourisme, qui ne porte pas de période de validité ;
+   numéro 33 connu de la Base (0,97). Catégorie `producteur` (règle 8). Aucun site : la boutique n'a qu'une page de réseau
+   social. Photographie de l'intérieur, sans personne, fiche de l'office. `a_confirmer`.
+3. **Il était une fois le vrac**, 10 place de l'Hôtel-de-Ville (sur la place) — fiche entière. Société active au registre,
+   établissement ouvert à cette adresse ; fiche de l'office valable « du 01/01/2026 au 31/12/2026 » ; numéro connu de la Base
+   (0,96). Catégorie `magasin-bio`, comme les autres épiceries en vrac du fichier ; le magasin n'est pas au registre bio et la
+   fiche le dit. Photographie des bocaux, sans personne (une autre vue de l'office montre quelqu'un : écartée).
+4. **Glaces Oli**, 2 rue du Moulin (0,25 km) — fiche entière. Société active au registre à cette adresse, activité de
+   fabrication de glaces ; heures et téléphone fixe sur le site de l'artisan, dont la page d'accueil ne nomme personne (règles
+   376 et 377) : lien publié. Catégorie `producteur` (règle 73). L'enseigne n'est pas un nom de personne. Photographie : un
+   dessert glacé pris sur le site du glacier (1 280 × 963), la vitrine publiée par l'office étant fermée par la règle 401.
+5. **RiedOasis**, 15 rue de Daubensand, Obenheim (7,36 km) — société coopérative active au registre à cette adresse, certificat
+   engagé au registre bio, numéro connu de la Base (0,96). Fiche tenue de l'office seul (règle 402) : vente à la ferme le
+   vendredi de 17h à 20h, photographie du corps de ferme, sans personne. Aucun lien. Catégorie `ferme`. `a_confirmer`.
+
+Quatre fiches dans la commune (règle 127), une cinquième à 7,4 km : **cinq points**. Les autres producteurs que l'office fiche
+dans le canton (Nordhouse, Sand, Ichtratzheim, Benfeld, Gerstheim, Rhinau) n'ont pas été instruits : le plafond de cinq était
+atteint. **Point d'arrêt du Bas-Rhin : Erstein** ; la commune suivante est **Brumath** (10 499).
+
+**Contradictions.** Marché du samedi : la Ville écrit la place de l'Hôtel-de-Ville, de 8h à 12h ; l'office de tourisme écrit
+la place des Fêtes, de 8h à 12h dans sa période et « 7h à 12h » dans ses horaires d'accueil. La fiche retient le lieu et les
+heures de la Ville, qui organise le marché et dont la page est la plus récente (règle 5), le dit dans sa description et passe
+en `a_confirmer`. Glacier : son site donne un horaire unique, l'office annonce des horaires variables selon la saison ; la
+fiche publie l'horaire du site et signale la réserve.
+
+**Images.** Cinq fichiers, tous réencodés depuis leurs seuls pixels (règle 235), aucun au-delà de 1 280 px, aucun agrandi,
+aucun recadré ; aucun visage, aucun nom lisible. Les mentions de l'office de tourisme ne portent qu'une ligne de crédits, sans
+interdiction (règle 306). Les photographies anciennes du site du glacier (rues, personnes) et les vues de banque d'images de sa
+page de produits n'ont pas été reprises (règle 360).
+
+**Écartées pour doute sur une personne** : à Genech, une ferme désignée par un nom de personne ; à Râches, des commerces de
+bouche désignés par un nom de personne ; à Sains-du-Nord, à Nomain et à Vieux-Berquin, des opérateurs du registre bio inscrits
+sous un nom de personne ; à Erstein, des exploitations du registre bio et des exposants du marché nommés par la Ville. Non
+instruits, non nommés, non rouvrables.
 
 ### Passe du 5 octobre 2026 (cent vingt-deuxième) : Nord et Bas-Rhin, aucune publication ; règle 400
 

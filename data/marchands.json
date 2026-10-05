@@ -26899,5 +26899,134 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47%20chemin%20des%20Jardiniers%2C%2036250%20Saint-Maur",
     "image_url": "/images/marchands/natur-et-jardin-saint-maur.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marches-hotel-de-ville-erstein",
+    "nom": "Marché hebdomadaire d'Erstein, place de l'Hôtel-de-Ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.423014,
+    "lon": 7.663212,
+    "adresse": "Place de l'Hôtel de Ville, 67150 Erstein",
+    "horaires": "Jeudi de 8h à 12h (marché hebdomadaire) ; samedi de 8h à 12h (marché des produits du terroir, plus petit). Horaires de la Ville d'Erstein, page mise à jour le 2 septembre 2026.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie-charcuterie",
+      "Volailles fermières",
+      "Fromages",
+      "Poissonnerie",
+      "Miel",
+      "Pains, viennoiseries et bretzels",
+      "Plats traiteur"
+    ],
+    "description": "Le marché du centre d'Erstein, au pied de l'hôtel de ville : la Ville y recense le jeudi une trentaine d'étals, pour l'essentiel alimentaires, à côté de quelques marchands de vêtements et de bijoux, et le samedi matin un marché des produits du terroir d'une dizaine d'étals (boucherie-charcuterie, fruits et légumes, miel, bretzels). L'office de tourisme situe le marché du samedi place des Fêtes ; la fiche retient le lieu que publie la Ville, qui l'organise. La Base Adresse Nationale ne connaît la place qu'à la voie. Photo : le marché devant l'hôtel de ville — Ville d'Erstein (www.ville-erstein.fr, page « Foires et marchés » mise à jour le 2 septembre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27H%C3%B4tel%20de%20Ville%2C%2067150%20Erstein",
+    "image_url": "/images/marchands/marches-hotel-de-ville-erstein.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "juste-a-cote-erstein",
+    "nom": "Juste à côté — la boutique paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.420844,
+    "lon": 7.650831,
+    "adresse": "33c Avenue de la Gare, 67150 Erstein",
+    "horaires": "Jeudi et vendredi de 14h à 18h, samedi de 10h à 12h (office de tourisme du Grand Ried).",
+    "produits": [
+      "Fruits et légumes",
+      "Pain et farines",
+      "Œufs",
+      "Viande",
+      "Fromages et produits laitiers",
+      "Jus de fruits",
+      "Vins et bières",
+      "Thés et confitures"
+    ],
+    "description": "Magasin de producteurs tenu par une association, dans la cour intérieure du lycée agricole d'Erstein, à 900 m de la mairie : il réunit les produits de fermes des environs, en agriculture biologique ou raisonnée, de l'alimentation de base aux vins, bières et confitures. Rattaché à la catégorie « producteur » comme les autres points de vente collectifs. L'office de tourisme ne date pas sa fiche : horaires à vérifier avant de se déplacer. Parking sur place. Photo : l'intérieur de la boutique, fiche de l'office de tourisme du Grand Ried.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Juste%20%C3%A0%20c%C3%B4t%C3%A9%2C%2033c%20avenue%20de%20la%20Gare%2C%2067150%20Erstein",
+    "image_url": "/images/marchands/juste-a-cote-erstein.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "il-etait-une-fois-le-vrac-erstein",
+    "nom": "Il était une fois le vrac",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.422934,
+    "lon": 7.663165,
+    "adresse": "10 Place de l'Hôtel de Ville, 67150 Erstein",
+    "horaires": "Du mardi au vendredi de 9h à 13h et de 15h à 19h ; samedi de 9h à 17h (office de tourisme du Grand Ried, fiche valable pour 2026).",
+    "produits": [
+      "Épicerie sèche en vrac",
+      "Épices",
+      "Thés et infusions",
+      "Produits locaux et biologiques",
+      "Produits d'hygiène et d'entretien",
+      "Accessoires zéro déchet"
+    ],
+    "description": "Épicerie zéro déchet du centre-ville, sur la place du marché : des produits du quotidien vendus en vrac, choisis en priorité locaux et biologiques, ainsi que des produits d'hygiène pour le corps et la maison. Le magasin ne figure pas au registre de l'Agence Bio : la catégorie dit ce qu'on y trouve, pas une certification. Photo : les bocaux d'épices du magasin, fiche de l'office de tourisme du Grand Ried.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Il%20%C3%A9tait%20une%20fois%20le%20vrac%2C%2010%20place%20de%20l%27H%C3%B4tel%20de%20Ville%2C%2067150%20Erstein",
+    "image_url": "/images/marchands/il-etait-une-fois-le-vrac-erstein.jpg"
+  },
+  {
+    "slug": "glaces-oli-erstein",
+    "nom": "Glaces Oli",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.424888,
+    "lon": 7.661306,
+    "adresse": "2 Rue du Moulin, 67150 Erstein",
+    "horaires": "Du mardi au vendredi de 8h à 12h et de 14h à 18h ; samedi de 8h à 12h et de 14h à 17h ; dimanche de 10h à 12h et de 14h à 17h ; fermé le lundi (site du glacier). L'office de tourisme signale des horaires variables selon la saison.",
+    "produits": [
+      "Glaces et sorbets au litre",
+      "Coupes individuelles à emporter",
+      "Desserts glacés",
+      "Cornets en été",
+      "Pièces personnalisées sur commande"
+    ],
+    "description": "Artisan glacier installé à Erstein depuis trois générations : glaces et sorbets fabriqués sur place, avec du lait de ferme, des fraises et de la rhubarbe de producteurs locaux, et des matières premières d'origine plus lointaine quand elles ne poussent pas ici (citron de Sicile, noisette du Piémont, vanille de Madagascar). Plus de soixante-dix compositions en coupes individuelles au fil de l'année. Les commandes se prennent par téléphone ou au magasin. À 250 m de la mairie. Photo : un dessert glacé de la maison, site du glacier.",
+    "telephone": "03 88 98 07 35",
+    "site_web": "https://www.glaces-oli.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Glaces%20Oli%2C%202%20rue%20du%20Moulin%2C%2067150%20Erstein",
+    "image_url": "/images/marchands/glaces-oli-erstein.jpg"
+  },
+  {
+    "slug": "riedoasis-obenheim",
+    "nom": "RiedOasis",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.360226,
+    "lon": 7.694723,
+    "adresse": "15 Rue de Daubensand, 67230 Obenheim",
+    "horaires": "Vente directe à la ferme le vendredi de 17h à 20h (office de tourisme du Grand Ried, fiche valable pour 2026).",
+    "produits": [
+      "Légumes bio de saison",
+      "Fruits",
+      "Paniers de légumes et de fruits"
+    ],
+    "description": "Ferme maraîchère en agriculture biologique, constituée en société coopérative d'intérêt collectif, qui vend sa récolte en direct à la ferme chaque vendredi soir et livre des paniers dans plusieurs communes du Grand Ried. Certification en cours au registre de l'Agence Bio. À 7 km de la mairie d'Erstein, dans la communauté de communes du Canton d'Erstein. Horaire tenu de l'office de tourisme seul : à vérifier avant de se déplacer. Photo : le corps de ferme, fiche de l'office de tourisme du Grand Ried.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RiedOasis%2C%2015%20rue%20de%20Daubensand%2C%2067230%20Obenheim",
+    "image_url": "/images/marchands/riedoasis-obenheim.jpg",
+    "a_confirmer": true
   }
 ]
