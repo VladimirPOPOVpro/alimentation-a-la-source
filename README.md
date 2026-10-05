@@ -5054,9 +5054,34 @@ prioritaires en cas de conflit.
      316) — deux fiches thématiques adossées au même site ne font pas à elles seules une commune. Ici : la boutique de la ferme
      (ses farines) est la fiche au lieu illustré, le marché du vendredi et l'AMAP reçoivent le rucher et les miels de la ferme.
 
+413. **Quand les mentions légales d'une Ville disent que ses images viennent « en partie » de banques d'images, seules se
+     reprennent celles que leur sujet rattache à la commune et dont le nom de fichier ne porte la marque d'aucune banque.** Le
+     5 octobre 2026 (cent trente et unième passe), les mentions légales de la Ville de Beaune n'ont aucune clause de
+     reproduction : elles disent seulement que le site contient des photographies « issues en partie de bases de données de la
+     Ville » et de trois banques d'images qu'elles nomment. C'est un crédit, pas une interdiction (règle 306) ; mais une image
+     de banque n'est pas à la Ville (règle 70). **Tranché ainsi** : une photographie se reprend quand elle montre un lieu
+     reconnaissable de la commune (le marché au pied de l'Hôtel-Dieu, un parc nommé par la page qui la publie) et que ni son
+     nom de fichier ni son aspect ne la désignent comme image de banque ; les fichiers nommés d'après une banque, les
+     montages et les sujets sans lieu (animaux, mains, arbres symboliques) restent fermés. La description cite la Ville. Une
+     telle source peut servir de photographie thématique à plusieurs fiches de la commune, un fichier par fiche, dans les
+     limites de la règle 412.
+
+414. **Des mentions légales qui interdisent « tout robot » ou « tout procédé automatique pour accéder » au site ferment le site,
+     localisateur de magasins compris (règle 333).** Les mentions légales d'un réseau national de magasins bio interdisent
+     « d'utiliser tout robot […] et plus généralement tout procédé automatique pour accéder, aspirer et/ou extraire les
+     données » ; son `robots.txt` n'exclut pourtant personne et les deux agents sont servis. **Tranché ainsi** : c'est la
+     clause de la règle 333 en d'autres mots ; rien de ce que le site a servi pendant le contrôle ne nourrit une fiche (règle
+     252), et le magasin part en pistes. **Déblocage** : les heures du magasin publiées par une autre autorité lisible
+     (commune, office, site propre du magasin). Les mentions légales se lisent avant toute page de contenu (règle 402) : ici la
+     page du magasin avait été lue d'abord, et rien n'en est repris.
+
 ## Marchands à confirmer
 
-915 fiches sur 1044 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+918 fiches sur 1048 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- le **Caveau Nuiton-Beaunoy — Cave des Hautes-Côtes**, **Biocoop Les Maladières** et **L'Odyssée Bio** (Beaune) (passe du
+  5 octobre 2026, cent trente et unième, règles 1, 231, 246, 411 et 413) : faits entiers, mais chacune n'a qu'une photographie
+  thématique de la commune, prise sur le site de la Ville ; **déblocage** : une photographie du lieu publiée par une source qui
+  n'en interdit pas la reprise.
 - le **Marché de plein vent d'Auzeville-Tolosane**, la **Boutique de la Ferme de la Cité des Sciences Vertes** et l'**AMAP Les
   Bonzoms** (Auzeville-Tolosane) (passe du 5 octobre 2026, cent trentième, règles 1, 312, 409 et 412) : la page du marché date
   de 2021 et il n'a, comme l'AMAP, qu'une photographie thématique de la commune ; l'horaire de la boutique tient à la seule
@@ -12559,6 +12584,83 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trente et unième) : Beaune (Côte-d'Or), quatre fiches ; règles 413 et 414
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 048 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 044 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,41, Oise 8,57, Pas-de-Calais 7,07, Landes 6,56,
+Eure-et-Loir 6,56, Calvados 5,74, Loiret 5,47, Ain 5,29, Lot-et-Garonne 5,05, Loir-et-Cher 4,97, Aube 4,70, Mayenne 4,63,
+Somme 4,56, Cher 4,52, Jura 3,91 et Haute-Saône 3,53, tous épuisés (règle 265) ; **Côte-d'Or (21) 3,1775**, premier
+département ouvert, en Bourgogne-Franche-Comté, cinq fiches toutes à Dijon, jamais descendu depuis la passe de Dijon. La passe
+précédente visait l'Occitanie : la réserve de la règle 41.c ne joue pas. Second du classement (règle 248) : les
+Alpes-Maritimes (3,0851), **non ouvertes** puisque la Côte-d'Or rend sa zone. `git fetch` refait avant l'écriture :
+`origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 048 fiches : Côte-d'Or −0,7911 (9 fiches) ;
+Alpes-Maritimes 3,1506, Haute-Savoie 3,0885, Nièvre 3,0613, Drôme 2,9673. La prochaine passe ne peut pas viser la
+Bourgogne-Franche-Comté.
+
+**Descente de la Côte-d'Or, ouverte à Beaune (règles 41.d, 96 et 127)**, contrôle à deux agents (règle 257). Le registre de
+l'Agence Bio du département (1 873 opérateurs) a été lu en entier et filtré par commune (139 opérateurs à Beaune, pour
+l'essentiel des maisons de négoce, des domaines et des grandes surfaces) puis par intercommunalité.
+
+1. **Beaune** (20 352) — **fait la passe, à quatre points (règles 316 et 320).** La Ville sert les deux agents ; ses mentions
+   légales n'ont aucune clause de reproduction et créditent ses images à sa propre base et à trois banques (règle 413). Le site
+   de l'agglomération sert les deux agents et ne publie rien sur les marchés ni sur les producteurs. L'office de tourisme
+   répond 403 au seul agent nommé (règle 257) : non consulté. Quatre fiches, toutes dans la commune.
+
+Les quatre fiches :
+
+1. **Marché des Halles de Beaune** — fiche entière. Samedi jusqu'à 13h (la Ville n'écrit pas d'heure d'ouverture, la fiche
+   le dit), mercredi 7h-12h30 ; un seul lieu, une seule fiche (règle 42). Familles de produits écrites par la Ville. Point :
+   la place de la Halle, à la Base Adresse Nationale. Photographie de la Ville, recadrée sur l'étal de légumes, sous les
+   passants (règle 46) : 1 024 × 311.
+2. **Caveau Nuiton-Beaunoy — Cave des Hautes-Côtes** — `a_confirmer`. Société coopérative active au registre à l'adresse,
+   engagée au registre de l'Agence Bio ; heures sur sa page « Nous contacter ». Ses mentions légales rangent sous l'intitulé
+   « Crédits photographiques » l'interdiction de reproduire le site et son contenu (règle 246) : photographie thématique, une
+   cabotte de la forêt communale, Ville de Beaune.
+3. **Biocoop Les Maladières** — `a_confirmer`. Société active au registre à l'adresse, enseigne déclarée, certification
+   engagée ; heures, téléphone fixe et producteurs locaux sur le site propre du magasin (le site national du réseau, lui,
+   exclut des agents d'IA et refuse l'agent nommé : non consulté). Toutes les photographies du magasin portent un nom de
+   personne dans leur nom de fichier (règle 411) : photographie thématique, un plan d'eau d'une zone d'activités, Ville de
+   Beaune. Les noms de producteurs que publie le magasin ne sont repris nulle part.
+4. **L'Odyssée Bio** — `a_confirmer`. Société active au registre à l'adresse, certification engagée depuis février 2024
+   auprès d'un second organisme (la première, arrêtée en mars 2024, est celle de l'ancien organisme) ; heures et fixe sur son
+   site. Ses mentions légales nomment les images dans l'interdiction (règle 231) : photographie thématique, l'étang du parc de
+   la Bouzaize, Ville de Beaune.
+
+Toutes les images sont réencodées depuis leurs seuls pixels (règle 235), aucune agrandie. La commune rend une fiche illustrée
+par son propre lieu et trois fiches thématiques adossées à la Ville, un fichier par fiche (règles 191, 412 et 413). **Le
+cinquième manque** : voir les pistes. Aucune contradiction de fait sur une fiche publiée.
+
+**Pistes non publiées (Beaune et Beaune Côte et Sud)** — lignes anonymes :
+
+- Beaune, magasin bio d'un réseau national, place Madeleine : établissement actif au registre, certification engagée ; les
+  mentions légales du réseau interdisent tout accès automatique (règle 414). **Déblocage** : ses heures par une autre autorité
+  lisible. Ce serait le cinquième point.
+- Beaune, brasserie artisanale de la zone des Cerisières (et la marque de boissons sans alcool qu'elle héberge) : société
+  active, site ouvert aux deux agents, boutique en ligne ; aucune heure de vente sur place n'est publiée (règle 192).
+  **Déblocage** : des heures d'accueil du public écrites par la brasserie.
+- Beaune, boutique d'une fruitière à comté jurassienne, rue d'Alsace : coopérative active au registre à l'adresse ; son site
+  répond 403 au seul agent nommé (règle 257), heures connues des seuls annuaires privés. **Déblocage** : les mêmes faits par
+  une source lisible.
+- Beaune, domaine du lycée viticole : établissement public, engagé au registre bio ; son site répond 403 au seul agent nommé
+  (règle 257). **Déblocage** : la même réponse aux deux agents, et des heures de vente.
+- Beaune, comptoir de thés et cafés, rue d'Alsace : le site répond 429 au seul agent nommé ; revendeur, non instruit.
+- Meursault (7,5 km), château viticole avec dégustation sans réservation : domaine engagé au registre bio, heures de saison
+  sur sa page de contact (tous les jours 10h-18h30 de mai à septembre ; 10h-12h et 14h-18h d'octobre à avril ; fermé le
+  dimanche après-midi, le lundi et le mardi de la mi-novembre à la fin mars). Ses mentions légales ne permettent que l'usage
+  privé (règle 296) et aucune photographie permise de Meursault n'a été trouvée — le domaine au nom de la commune n'est pas
+  celui de la mairie. **Déblocage** : une photographie de la commune publiée par une source qui n'en interdit pas la reprise.
+  Fiche désignée pour la reprise.
+- Pommard (3,6 km), château viticole : ses conditions interdisent la reproduction des images et l'usage de robots ; non
+  instruit au-delà. Les sites des communes de Pommard et de Savigny-lès-Beaune ne répondent pas (règle 237).
+- Ruffey-lès-Beaune, jardin maraîcher inscrit au registre bio avec vente aux particuliers : aucun site, non instruit.
+- Écartées pour doute sur une personne, sans réouverture : à Beaune, une moutarderie, une fromagerie-épicerie fine et la
+  plupart des maisons de vin et domaines du registre bio, dont l'enseigne est un nom de personne ; un maraîchage et une
+  boulangerie inscrits sous un patronyme. Aucun nom n'est repris.
+
+**Point d'arrêt de la Côte-d'Or : Beaune**, qui a fait la passe. À reprendre d'abord : le château de Meursault (fiche
+désignée) et le magasin bio de la place Madeleine. La commune suivante est **Chenôve** (14 244), puis Talant (11 896).
 
 ### Passe du 5 octobre 2026 (cent trentième) : Auzeville-Tolosane et le Sicoval (Haute-Garonne), quatre fiches ; règle 412
 

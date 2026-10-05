@@ -27689,5 +27689,114 @@
     "site_web": "https://www.labege.fr/marche-de-plein-vent/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20l%27Autan%2C%2031670%20Lab%C3%A8ge",
     "image_url": "/images/marchands/marche-de-plein-vent-labege.jpg"
+  },
+  {
+    "slug": "marche-des-halles-beaune",
+    "nom": "Marché des Halles de Beaune",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.02275,
+    "lon": 4.836917,
+    "adresse": "Place de la Halle, 21200 Beaune",
+    "horaires": "Samedi matin jusqu'à 13h (la Ville écrit « tôt le matin », sans heure d'ouverture). Mercredi de 7h à 12h30, marché réservé à l'alimentaire et aux arts de la table (page « Faire son marché » de la Ville, mise à jour en mars 2025).",
+    "produits": [
+      "Fruits et légumes",
+      "Viande des bouchers des halles",
+      "Fromages",
+      "Volailles rôties",
+      "Épices",
+      "Produits bio et petites productions des fermes alentour"
+    ],
+    "description": "Le marché de Beaune, place de la Halle et sous les halles couvertes, au pied de l'Hôtel-Dieu. Le samedi, le grand marché s'étend aux places voisines, avec les bouchers installés dans les halles, les rôtisseurs de la place Fleury, du bio et de petites productions des fermes alentour ; le mercredi, vingt-cinq commerçants pour un marché alimentaire. Photo : un étal de choux et de choux-fleurs du marché, recadrée — Ville de Beaune (beaune.fr).",
+    "site_web": "https://www.beaune.fr/beaune-au-quotidien/faire-son-marche/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Halle%2C%2021200%20Beaune",
+    "image_url": "/images/marchands/marche-des-halles-beaune.jpg"
+  },
+  {
+    "slug": "caveau-nuiton-beaunoy-beaune",
+    "nom": "Caveau Nuiton-Beaunoy — Cave des Hautes-Côtes",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.013932,
+    "lon": 4.815727,
+    "adresse": "97 Route de Pommard, 21200 Beaune",
+    "horaires": "Tous les jours de 9h30 à 12h30 et de 13h30 à 18h30. Fermé le dimanche du 1er janvier au 31 mars, ainsi que le 1er janvier, le 1er mai et le 25 décembre ; fermeture à 16h30 les 24 et 31 décembre (page « Nous contacter » de la cave).",
+    "produits": [
+      "Hautes-Côtes de Beaune",
+      "Hautes-Côtes de Nuits",
+      "Crémant de Bourgogne",
+      "Bourgogne Aligoté",
+      "Pommard, Volnay, Meursault",
+      "Cuvées Cerço issues de raisins bio",
+      "Dégustation gratuite au caveau"
+    ],
+    "description": "Caveau de vente directe de la Cave des Hautes-Côtes, coopérative fondée en 1957 dont les vignerons associés cultivent la Côte de Beaune, la Côte de Nuits et les Hautes-Côtes ; dégustation gratuite face aux vignes, à la sortie de Beaune vers Pommard. Société coopérative active au registre des entreprises à cette adresse, engagée au registre de l'Agence Bio. Photo d'ambiance, qui ne montre pas le caveau : une cabotte, cabane en pierre sèche, dans la forêt communale de Beaune — Ville de Beaune (beaune.fr). Fiche à confirmer pour cette raison.",
+    "site_web": "https://nuiton-beaunoy.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=97%20Route%20de%20Pommard%2C%2021200%20Beaune",
+    "image_url": "/images/marchands/caveau-nuiton-beaunoy-beaune.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-les-maladieres-beaune",
+    "nom": "Biocoop Les Maladières",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.039176,
+    "lon": 4.847359,
+    "adresse": "2 Rue Gustave Eiffel, 21200 Beaune",
+    "horaires": "Lundi de 10h à 12h30 et de 14h30 à 19h ; mardi, mercredi et jeudi de 9h30 à 12h30 et de 14h30 à 19h ; vendredi de 9h30 à 13h30 et de 14h30 à 19h ; samedi de 9h à 19h. Fermé le dimanche (site du magasin, consulté le 5 octobre 2026).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages à la coupe",
+      "Farines de blé, de seigle et d'épeautre, aussi en vrac",
+      "Miels et tisanes de producteurs locaux",
+      "Huiles d'une huilerie artisanale",
+      "Terrines et caissettes de bœuf sur réservation"
+    ],
+    "description": "Magasin bio du réseau Biocoop, ouvert fin 2019 dans la zone commerciale des Maladières, au nord de Beaune ; son site présente un à un les producteurs locaux qu'il met en rayon — une ferme en polyculture-élevage, des apiculteurs, une huilerie, une cueilleuse de plantes. Société active au registre des entreprises à cette adresse, certification engagée au registre de l'Agence Bio. Photo d'ambiance, qui ne montre pas le magasin : un plan d'eau d'une zone d'activités de Beaune — Ville de Beaune (beaune.fr). Fiche à confirmer pour cette raison.",
+    "telephone": "03 80 24 95 65",
+    "site_web": "https://www.biocoopbeaune.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Les%20Maladi%C3%A8res%2C%202%20Rue%20Gustave%20Eiffel%2C%2021200%20Beaune",
+    "image_url": "/images/marchands/biocoop-les-maladieres-beaune.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "l-odyssee-bio-beaune",
+    "nom": "L'Odyssée Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.041264,
+    "lon": 4.842859,
+    "adresse": "6 Avenue du Bataillon de la Garde, 21200 Beaune",
+    "horaires": "Lundi de 14h à 19h ; du mardi au vendredi de 9h à 12h45 et de 14h30 à 19h30 ; samedi de 9h à 19h. Fermé le dimanche (site du magasin, consulté le 5 octobre 2026).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Produits frais",
+      "Vrac : fruits secs, pâtes, riz, graines",
+      "Farines, céréales et épicerie",
+      "Miel, confitures, thés et cafés",
+      "Jus de fruits, bières et boissons végétales"
+    ],
+    "description": "Magasin bio de 400 m² dans la zone des Maladières, au nord de Beaune : alimentation, vrac, produits frais, et un rayon de fruits et légumes que le magasin dit approvisionner chaque jour en privilégiant les producteurs locaux. Société active au registre des entreprises à cette adresse, certification engagée au registre de l'Agence Bio. Photo d'ambiance, qui ne montre pas le magasin : l'étang du parc de la Bouzaize, à Beaune — Ville de Beaune (beaune.fr). Fiche à confirmer pour cette raison.",
+    "telephone": "03 80 22 03 15",
+    "site_web": "https://lodysseebio.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L'Odyss%C3%A9e%20Bio%2C%206%20Avenue%20du%20Bataillon%20de%20la%20Garde%2C%2021200%20Beaune",
+    "image_url": "/images/marchands/l-odyssee-bio-beaune.jpg",
+    "a_confirmer": true
   }
 ]
