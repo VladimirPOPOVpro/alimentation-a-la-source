@@ -27271,5 +27271,108 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Vignerons%20du%20Chevalier%20Georges%2C%2021%20avenue%20de%20Montpellier%2C%2034680%20Saint-Georges-d'Orques",
     "image_url": "/images/marchands/vignerons-du-chevalier-georges-saint-georges-d-orques.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-abbe-ferret-charnay-les-macon",
+    "nom": "Marchés de la place de l'Abbé Ferret",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.308669,
+    "lon": 4.811711,
+    "adresse": "Place de l'Abbé Ferret, 71850 Charnay-lès-Mâcon",
+    "horaires": "Vendredi de 14h à 19h (marché à dominante alimentaire) et dimanche de 8h à 13h (Ville de Charnay-lès-Mâcon, page « Marchés hebdomadaires », consultée le 5 octobre 2026).",
+    "produits": [
+      "Fruits et légumes de producteurs locaux",
+      "Produits de la ferme (fromages, œufs)",
+      "Boucherie",
+      "Charcuterie",
+      "Traiteurs"
+    ],
+    "description": "Les deux marchés hebdomadaires de Charnay-lès-Mâcon, au cœur de la ville : la Ville y annonce une quarantaine d'exposants. Celui du vendredi après-midi est à dominante alimentaire, avec les fruits et légumes de producteurs locaux, des produits de la ferme, un boucher, un charcutier et des traiteurs ; le dimanche matin, les étals alimentaires se mêlent au textile et aux bijoux. La Base Adresse Nationale ne connaît pas la place : le point est celui du géocodeur de l'IGN, à côté de l'église du Sacré-Cœur. Photo : le marché — Ville de Charnay-lès-Mâcon.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l'Abb%C3%A9%20Ferret%2C%2071850%20Charnay-l%C3%A8s-M%C3%A2con",
+    "image_url": "/images/marchands/marche-place-abbe-ferret-charnay-les-macon.jpg"
+  },
+  {
+    "slug": "les-orfevres-du-vin-charnay-les-macon",
+    "nom": "Les Orfèvres du Vin — cave coopérative de Charnay-lès-Mâcon",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.299946,
+    "lon": 4.775505,
+    "adresse": "54 Chemin de la Cave, 71850 Charnay-lès-Mâcon",
+    "horaires": "Du lundi au samedi de 9h15 à 12h30 et de 14h à 18h, dimanche de 9h15 à 12h30 ; fermé les jours fériés et les dimanches de janvier (page « Nous contacter » de la cave, consultée le 5 octobre 2026).",
+    "produits": [
+      "Mâcon-Charnay blanc et rouge",
+      "Pouilly-Fuissé",
+      "Saint-Véran",
+      "Viré-Clessé",
+      "Crémant de Bourgogne",
+      "Bourgogne Aligoté"
+    ],
+    "description": "Caveau de vente directe de la cave coopérative de Charnay-lès-Mâcon, fondée en 1929 : elle dit réunir une soixantaine d'adhérents sur 120 hectares et une quinzaine d'appellations du Mâconnais. Société coopérative active au registre à cette adresse. L'annuaire de la Chambre d'agriculture, plus ancien, la donne encore sous son nom de cave coopérative et avec d'autres heures : ce sont celles du site de la cave qui sont publiées. Photo d'ambiance : le domaine de Champgrenon, à Charnay — Ville de Charnay-lès-Mâcon ; elle ne montre pas le caveau.",
+    "telephone": "03 85 34 54 24",
+    "site_web": "https://www.orfevresduvin.com/nous-contacter",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Orf%C3%A8vres%20du%20Vin%2C%2054%20chemin%20de%20la%20Cave%2C%2071850%20Charnay-l%C3%A8s-M%C3%A2con",
+    "image_url": "/images/marchands/les-orfevres-du-vin-charnay-les-macon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "terres-secretes-chai-de-prisse",
+    "nom": "Vignerons des Terres Secrètes — chai de Prissé",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.321999,
+    "lon": 4.753073,
+    "adresse": "158 Rue des Grandes Vignes, 71960 Prissé",
+    "horaires": "Tous les jours, samedi, dimanche et jours fériés compris, de 9h à 12h30 et de 14h à 18h30 ; fermé le 25 décembre, le 1er janvier et le 1er mai (page « Nous rencontrer » de la cave, consultée le 5 octobre 2026).",
+    "produits": [
+      "Mâcon-Villages",
+      "Mâcon Verzé",
+      "Mâcon Milly-Lamartine",
+      "Pouilly-Fuissé",
+      "Crémant de Bourgogne",
+      "Bourgogne Aligoté",
+      "Cuvée Cerço bio"
+    ],
+    "description": "Caveau de vente directe de la cave coopérative des Vignerons des Terres Secrètes, qui se présente comme la seule cave située dans le périmètre du Grand Site de Solutré-Pouilly-Vergisson. Société coopérative active au registre à cette adresse, engagée au registre de l'Agence Bio ; une cuvée biologique figure à sa gamme. À 4 km à l'ouest de Charnay-lès-Mâcon. Photo : la cave à fûts — site de la coopérative.",
+    "telephone": "03 85 37 64 89",
+    "site_web": "https://terres-secretes.com/nous-rencontrer/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vignerons%20des%20Terres%20Secr%C3%A8tes%2C%20158%20rue%20des%20Grandes%20Vignes%2C%2071960%20Priss%C3%A9",
+    "image_url": "/images/marchands/terres-secretes-chai-de-prisse.jpg"
+  },
+  {
+    "slug": "verizet-chai-de-sennece-macon",
+    "nom": "Vérizet, Cave de Viré — chai de Sennecé",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.357277,
+    "lon": 4.832947,
+    "adresse": "639 Rue Vrémontoise, 71000 Mâcon",
+    "horaires": "Du mardi au samedi de 9h à 12h30 et de 14h à 19h jusqu'au 31 octobre 2026, puis de 9h à 12h30 et de 14h à 18h30 en novembre ; fermé le dimanche et le lundi (page « Nos caveaux et horaires » de la cave, consultée le 5 octobre 2026). La cave publie ses heures par période : vérifier au-delà de novembre.",
+    "produits": [
+      "Viré-Clessé",
+      "Mâcon-Villages",
+      "Paniers gourmands et coffrets cadeaux",
+      "Dégustation gratuite de la gamme"
+    ],
+    "description": "Caveau de vente de la cave coopérative de Viré, fondée en 1928, à Sennecé-lès-Mâcon, au nord de Mâcon : dégustation gratuite, paniers gourmands et coffrets, accueil de groupes sur réservation. Établissement actif de la coopérative au registre, rue Vrémontoise. À 6 km au nord-est de Charnay-lès-Mâcon. Les heures changent selon la saison : fiche à confirmer. Photo d'ambiance : la tour de Sennecé-lès-Mâcon — Mâconnais Beaujolais Agglomération, 2025 ; elle ne montre pas le chai.",
+    "telephone": "03 85 36 06 99",
+    "site_web": "https://www.verizet.fr/caveaux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Chai%20de%20Sennec%C3%A9%2C%20639%20rue%20Vr%C3%A9montoise%2C%2071000%20M%C3%A2con",
+    "image_url": "/images/marchands/verizet-chai-de-sennece-macon.jpg",
+    "a_confirmer": true
   }
 ]

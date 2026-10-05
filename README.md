@@ -5002,9 +5002,31 @@ prioritaires en cas de conflit.
      du village comme photographie thématique (règle 1), `a_confirmer`, en disant ce que l'image montre. **Déblocage** de la
      réserve : une photographie du marché d'au moins 600 px publiée par la Ville.
 
+408. **Un commerce que son propre site annonce en vente, avec fermeture définitive faute de repreneur, ne se publie pas.** Le
+     5 octobre 2026 (cent vingt-septième passe), une épicerie de vrac du Creusot est vérifiée de bout en bout — société active au
+     registre, engagée au registre de l'Agence Bio, heures et téléphone sur son site — mais ses deux dernières actualités, d'août
+     2026, disent le magasin « en vente », son avenir « incertain » et, « en l'absence de reprise », une fermeture définitive. Le
+     registre ne le saura qu'après coup (règle 6). **Tranché ainsi** : l'annonce du commerce lui-même l'emporte sur le registre ;
+     la fiche attend en pistes. **Déblocage** : une actualité du site ou une ligne du registre qui atteste la reprise, ou un
+     nouvel exploitant à la même adresse.
+
+409. **Une place que ni la Base Adresse Nationale ni le registre des entreprises ne connaissent se place au géocodeur de l'IGN,
+     index des lieux, recoupé par un repère voisin.** La place de l'Abbé Ferret, où se tiennent les marchés de
+     Charnay-lès-Mâcon, n'existe pas dans la Base (elle rend la place de l'Europe, à 500 m, avec un score de 0,59) et aucun
+     établissement n'y est domicilié. `data.geopf.fr/geocodage/search?index=poi` rend « Place Abbé Antoine Ferret » dans la
+     commune, à trente mètres de l'église du Sacré-Cœur que la page d'histoire de la Ville rattache au même abbé. **Tranché
+     ainsi** : c'est un service de l'État, pas Nominatim ; son point se prend quand le toponyme et la commune concordent et
+     qu'un second repère le confirme, et la fiche dit d'où vient le point.
+
 ## Marchands à confirmer
 
-906 fiches sur 1028 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+908 fiches sur 1032 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Orfèvres du Vin** (Charnay-lès-Mâcon) et le **chai de Sennecé de la Cave de Viré** (Mâcon) (passe du 5 octobre 2026,
+  cent vingt-septième, règles 1, 96, 203 et 306) : la cave de Charnay n'a qu'une photographie thématique de la commune, et son
+  site porte encore un bandeau de maintenance ancien — ses heures sont celles de sa page de contact, que l'annuaire de la
+  Chambre d'agriculture, plus ancien, contredit ; le chai de Sennecé publie ses heures par période, jusqu'à fin novembre
+  seulement, et n'a qu'une photographie thématique du village. Les **marchés de la place de l'Abbé Ferret** (Charnay-lès-Mâcon)
+  et le **chai de Prissé des Vignerons des Terres Secrètes** partent sans réserve.
 - **Le Petit Mercredi** (Juvignac), le **marché paysan en circuits courts de Grabels** et le **caveau des Vignerons du
   Chevalier Georges** (Saint-Georges-d'Orques) (passe du 5 octobre 2026, cent vingt-sixième, règles 1, 96, 203 et 407) : la page
   de Juvignac n'est pas datée et le petit marché n'a qu'une photographie thématique de la commune ; le marché de Grabels est
@@ -12488,6 +12510,65 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-septième) : Charnay-lès-Mâcon et Mâconnais Beaujolais Agglomération (Saône-et-Loire), quatre fiches ; règles 408 et 409
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 032 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 028 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : la dernière région visée est l'Occitanie (passe de Juvignac), fermée (règle 41.c) ;
+la Haute-Saône (3,4765) est épuisée ; **Saône-et-Loire (71) 3,2044**, premier département ouvert, en Bourgogne-Franche-Comté,
+cinq fiches toutes dans le Grand Chalon ; Doubs 3,1575, second, **non ouvert** puisque la Saône-et-Loire rend sa zone (règle
+248). `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 032 fiches :
+Saône-et-Loire −0,7637 (9 fiches). La prochaine passe ne peut pas viser la Bourgogne-Franche-Comté.
+
+**Descente de la Saône-et-Loire, ouverte à Mâcon (règles 41.d, 96, 127 et 247)**, contrôle à deux agents (règle 257). L'office
+de tourisme de Mâcon, celui du Creusot et de Montceau, celui d'Autun, le comité départemental et le comité régional refusent
+l'agent nommé : non consultés. L'annuaire « J'veux du local » de la Chambre d'agriculture (ouvert aux deux agents, sans
+`robots.txt`, sans photographie) sert de source de faits ; son pied de page est daté de 2018.
+
+1. **Mâcon** (35 177) — la Ville écrit ses trois marchés, dont celui de l'esplanade avec ses heures et ses étals, mais ses
+   mentions légales réservent les « photographies » (règle 231). Trois points aux faits entiers ; la seule image permise de la
+   commune est celle d'un hameau, à l'agglomération. **Une fiche entière, pas deux.**
+2. **Le Creusot** (20 509) — les mentions légales de la Ville ne font que créditer ses photographies (règle 306). Trois fiches
+   entières (un marché, un magasin bio, une AMAP) ; une épicerie de vrac est écartée parce qu'elle s'annonce en vente (règle
+   408). Aucun quatrième point illustrable dans l'intercommunalité. **Trois, pas quatre** (règles 52 et 258) : désignées.
+3. **Montceau-les-Mines** (17 064) — trois marchés aux faits entiers ; mentions légales qui ferment les « photographies ».
+   **Zéro fiche entière.**
+4. **Autun** (13 172) — un magasin de producteurs aux faits entiers, dont le site crédite seulement ses photographies ; la
+   Ville donne les heures de ses marchés sans étals et ferme ses « photos ». **Une fiche entière, pas deux.**
+5. **Paray-le-Monial** (9 291) — Ville et office ouverts, sans clause sur les images ; deux marchés sans heures ni étals
+   (règles 192 et 197) ; au registre bio, un magasin de réseau. **Pas deux.**
+6. **Saint-Vallier** (8 508) — la Ville coupe la connexion à l'agent nommé (règle 399) : non consultée.
+7. **Charnay-lès-Mâcon** (8 227) — **fait la passe.** `robots.txt` ouvert ; les mentions légales interdisent de reproduire
+   « tout élément » du site sans nommer les photographies ni les images, et créditent les photos à la Ville (règles 231 et
+   306). La page « Marchés hebdomadaires » donne le lieu, les deux jours, les heures et les étals du vendredi. Deux fiches
+   entières dans la commune, deux dans l'intercommunalité à 5,8 km au plus de la mairie (règle 96).
+
+Les quatre fiches, toutes dans Mâconnais Beaujolais Agglomération :
+
+1. **Marchés de la place de l'Abbé Ferret** (Charnay-lès-Mâcon, 1,2 km) — fiche entière. Vendredi 14h-19h, dimanche 8h-13h,
+   un seul lieu, une seule fiche (règle 42). Point : géocodeur de l'IGN (règle 409). Photographie de la Ville (644 px, sous le
+   seuil de 700 : la seule autre image permise de la commune sert à la cave, règle 59) ; les passants y sont petits, de dos ou
+   masqués ; métadonnées retirées (règle 235).
+2. **Les Orfèvres du Vin, cave coopérative de Charnay-lès-Mâcon** (2,1 km) — `a_confirmer`. Société coopérative active au
+   registre à l'adresse, sous ce nom ; l'ancien domaine de la cave ne répond plus, le site actuel est ouvert aux deux agents,
+   sa page de contact ne nomme personne : lien et fixe publiés. **Contradiction** : l'annuaire de la Chambre d'agriculture
+   écrit « 9h-12h / 14h-18h » en semaine et un dimanche après-midi ouvert ; la page de la cave écrit « 9h15-12h30 / 14h-18h »
+   et le dimanche matin seul. La fiche publie la cave, source première (règle 5). Ses conditions d'utilisation nomment les
+   « photographies » : photographie thématique de la Ville, le domaine de Champgrenon, sans personne.
+3. **Vignerons des Terres Secrètes, chai de Prissé** (3,6 km) — fiche entière. Société coopérative active au registre à
+   l'adresse, engagée au registre de l'Agence Bio ; heures et fixe sur sa page « Nous rencontrer ». Ses mentions légales
+   interdisent de reproduire « le site ou son contenu » sans nommer d'image et créditent une agence (règles 231 et 306) :
+   photographie de la cave à fûts, sans personne, recadrée.
+4. **Vérizet, Cave de Viré — chai de Sennecé** (Mâcon, 5,8 km) — `a_confirmer`. Établissement actif de la coopérative au
+   registre, rue Vrémontoise ; l'ancien nom de domaine renvoie au site actuel, lu avant d'être inscrit. Sa page d'accueil
+   nomme des personnes : le lien pointe sur la page des caveaux, qui n'en nomme aucune (règle 383). Ses mentions légales
+   ferment les « œuvres photographiques » : photographie thématique de l'agglomération (mentions légales qui autorisent la
+   réutilisation non commerciale avec l'origine et la date, règle 407), la tour de Sennecé, sans personne, recadrée.
+
+Aucun cinquième point illustrable dans l'intercommunalité : la passe publie les quatre (règle 316).
+
+**Point d'arrêt de la Saône-et-Loire : Charnay-lès-Mâcon.** La commune suivante est **Digoin** (7 353).
 
 ### Passe du 5 octobre 2026 (cent vingt-sixième) : Juvignac et Montpellier Méditerranée Métropole (Hérault), cinq fiches ; règle 407
 
@@ -28120,6 +28201,45 @@ Passe du 5 octobre 2026 (cent vingt-sixième) :
 
 Point d'arrêt : **Juvignac**. À reprendre d'abord à son rang (règle 406) : Mauguio (16 522) ; la commune suivante de l'Hérault
 est **Mèze** (12 669).
+
+### Pistes non publiées en Saône-et-Loire (de Mâcon à Charnay-lès-Mâcon)
+
+Passe du 5 octobre 2026 (cent vingt-septième) :
+
+- **Mâcon, marché de l'esplanade** (samedi 7h30-13h ; 150 commerçants dont 90 alimentaires et 25 producteurs selon la Ville,
+  qui en écrit les métiers) : faits entiers. **Déblocage** : une image permise de la commune. **Marchés du mardi et du
+  jeudi** : la Ville et l'annuaire de la Chambre d'agriculture ne s'accordent pas sur les heures et aucun n'écrit d'étal
+  (règles 5, 192 et 197). **Magasin d'un jardin d'insertion en maraîchage biologique, chemin de l'Aérodrome** (mardi et
+  vendredi 11h-18h30, ouvert aux non-adhérents ; fixe publié) : association engagée au registre bio, faits entiers sur son
+  site, dont les mentions légales interdisent la reproduction des « images ». **Déblocage** : une image permise de la commune.
+  **Caveau de vignerons de l'avenue de Lattre-de-Tassigny** : coopérative active, aucun site joignable.
+- **Le Creusot — trois fiches entières, désignées pour la reprise** (règle 258) : **marché de la place Schneider** (samedi
+  matin selon la Ville, 8h-12h30 selon l'annuaire de la Chambre d'agriculture, qui y place une ferme en fromages et une ferme
+  en viande bovine et agneau) ; **magasin bio de réseau, rue des Abattoirs** (du mardi au samedi 9h30-12h30 et 14h-19h, société
+  active et engagée au registre bio) ; **AMAP, parking du supermarché face à la gare** (mercredi 11h-13h, paniers de légumes
+  biologiques, association active). Images : photographies de la Ville, dont une vue de marché à recadrer au-dessus des
+  passants et un étal d'huîtres à recadrer hors du vendeur et de son étiquette (règles 70 et 401). **Épicerie de vrac de la rue
+  Maréchal-Foch** : en vente, fermeture possible (règle 408). **Marchés du mardi et du jeudi** : heures à l'annuaire, aucun
+  étal écrit (règle 197). **Déblocage du groupe** : un quatrième point illustrable.
+- **Montceau-les-Mines, marchés du mardi, du jeudi et du samedi** (8h-12h30/13h ; fruits, légumes, poisson, fromage, traiteurs
+  le jeudi) : faits entiers à la Ville. **Déblocage** : une image permise de la commune.
+- **Autun — une fiche entière, désignée** : **magasin de producteurs de l'avenue du Commandant-de-Neuchèze** (mercredi, jeudi,
+  vendredi 9h-19h, samedi 9h-13h selon son site ; l'annuaire de la Chambre d'agriculture écrit une coupure à midi), avec une
+  photographie de 900 px d'un élevage associé. **Magasin bio de réseau, rue de la Croix-Blanche** (du lundi au vendredi
+  9h-19h, samedi non relevé) : conditions d'utilisation qui nomment les « photographies ». **Marchés des halles** (mercredi et
+  vendredi 7h-13h) : aucun étal écrit. **Déblocage** : une seconde image permise de la commune.
+- **Paray-le-Monial, marchés du vendredi et du samedi** : ni heures ni étals à la Ville. **Déblocage** : règles 192 et 197.
+- **Charnay-lès-Mâcon, magasin bio et vrac de la Grande rue de la Coupée** : son site l'y situe encore, le registre y ferme
+  l'établissement et le place à La Roche-Vineuse (règle 6). **Déblocage** : des heures écrites à la nouvelle adresse.
+- **Vinzelles, cave coopérative** : faits à l'annuaire, mentions légales qui ferment les « photographies ». **Solutré-Pouilly,
+  caveau collectif** : heures saisonnières non tenues à jour sur le site de l'union. **Hurigny, château viticole** : mentions
+  légales qui ferment les « images ».
+- Mâcon, Charnay-lès-Mâcon, Hurigny, Autun, Le Creusot et ses environs : des exploitations écartées pour doute sur une
+  personne, non rouvrables.
+
+Point d'arrêt : **Charnay-lès-Mâcon**. À reprendre d'abord (règle 258) : les trois fiches désignées du Creusot et celle
+d'Autun ; à réessayer à son rang (règle 406) : Saint-Vallier (8 508) ; la commune suivante de la Saône-et-Loire est
+**Digoin** (7 353).
 
 ## Comment ajouter ou modifier un marchand
 
