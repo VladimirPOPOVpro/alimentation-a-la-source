@@ -27579,5 +27579,115 @@
     "site_web": "https://www.comte-montdor.fr/page/le-magasin.html",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie%20de%20Doubs%2C%201%20rue%20de%20la%20Fruiti%C3%A8re%2C%2025300%20Doubs",
     "image_url": "/images/marchands/fromagerie-de-doubs.jpg"
+  },
+  {
+    "slug": "marche-de-plein-vent-auzeville-tolosane",
+    "nom": "Marché de plein vent d'Auzeville-Tolosane",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.529565,
+    "lon": 1.479121,
+    "adresse": "Place de la Mairie Vieille, 31320 Auzeville-Tolosane",
+    "horaires": "Vendredi de 16h à 20h (page « Marché de plein vent » de la Ville, consultée le 5 octobre 2026 ; le guide « Manger local 2024-2025 » du Sicoval donne le même créneau). La Ville écrit que le marché s'interrompt pendant la période estivale, sans en donner les dates.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromage",
+      "Volaille et œufs",
+      "Charcuterie",
+      "Poisson fumé",
+      "Vin",
+      "Pizzas"
+    ],
+    "description": "Petit marché de fin de journée, une dizaine de commerçants sur la place de la Mairie Vieille, au cœur du village ; un marché de Noël s'y tient le dernier vendredi de novembre. La page de la Ville n'a pas été mise à jour depuis 2021 : créneau à confirmer sur place. Photo thématique : le rucher de la ferme du lycée agricole de la commune (site de la ferme) ; elle ne montre pas le marché.",
+    "site_web": "https://www.auzeville.fr/marche-de-plein-vert/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Mairie%20Vieille%2C%2031320%20Auzeville-Tolosane",
+    "image_url": "/images/marchands/marche-de-plein-vent-auzeville-tolosane.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "boutique-ferme-cite-des-sciences-vertes-auzeville",
+    "nom": "Boutique de la Ferme de la Cité des Sciences Vertes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.53738,
+    "lon": 1.492268,
+    "adresse": "Lycée agricole, 2 route de Narbonne, en face de la résidence Bordegrande, 31320 Auzeville-Tolosane",
+    "horaires": "Vendredi de 14h à 17h30, hors vacances scolaires (page « Lycée et enseignement supérieur agricole » de la Ville, mise à jour en mars 2025). Commande en ligne sur le site de la ferme, avec retrait à la boutique.",
+    "produits": [
+      "Miels de printemps, d'acacia, de forêt, de châtaignier et de tournesol",
+      "Farines bio de blés anciens, d'épeautre, de lentilles et de pois chiches",
+      "Semoule de blé dur bio",
+      "Pâtes fabriquées à la ferme",
+      "Hydromel",
+      "Propolis"
+    ],
+    "description": "Point de vente de l'exploitation du lycée agricole d'Auzeville, dans une boucle du canal du Midi : une quarantaine d'hectares de céréales et de légumineuses, en partie en bio, et un rucher de 250 à 300 colonies, dont les récoltes sont transformées sur place par les salariés et les apprenants. Exploitation active au registre des entreprises et inscrite au registre de l'Agence Bio. L'accès se fait par le bas du site, en face de la résidence Bordegrande ; le point de la carte est celui que le géocodeur de l'IGN donne à cette résidence. Horaire tenu d'une seule source, à confirmer. Photo : farines de la ferme — site de la ferme.",
+    "site_web": "https://ferme.citesciencesvertes.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=43.53738%2C1.492268",
+    "image_url": "/images/marchands/boutique-ferme-cite-des-sciences-vertes-auzeville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-les-bonzoms-auzeville-tolosane",
+    "nom": "AMAP Les Bonzoms",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.529542,
+    "lon": 1.478763,
+    "adresse": "Préau de la Salle Orange, 11 place de la Mairie Vieille, 31320 Auzeville-Tolosane",
+    "horaires": "Distribution le jeudi de 18h15 à 19h15, d'après le site de l'AMAP, qui annonçait en mai 2026 sa saison 2026-2027 (le guide « Manger local 2024-2025 » du Sicoval écrivait 18h30-19h30). Réservé aux adhérents, par contrat.",
+    "produits": [
+      "Panier hebdomadaire de légumes bio d'un maraîcher de Haute-Garonne",
+      "Pain d'un fournil de Ramonville",
+      "Agneau, veau, porc gascon et bœuf sur commande",
+      "Pommes de variétés anciennes d'Ariège",
+      "Produits de châtaigne de l'Aveyron",
+      "Miel"
+    ],
+    "description": "Association loi 1901 d'Auzeville-Tolosane qui réunit un maraîcher et un groupe d'adhérents autour d'un panier de légumes hebdomadaire, complété par des commandes ponctuelles auprès d'autres producteurs de la région. Les producteurs sont dits bio par l'AMAP, sans vérification au registre ici, d'où l'absence du pilier environnement. Photo thématique : miels de la ferme du lycée agricole de la commune (site de la ferme) ; elle ne montre pas la distribution.",
+    "site_web": "https://lesbonzoms.alwaysdata.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=11%20place%20de%20la%20Mairie%20Vieille%2C%2031320%20Auzeville-Tolosane",
+    "image_url": "/images/marchands/amap-les-bonzoms-auzeville-tolosane.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-plein-vent-labege",
+    "nom": "Marché de plein vent de Labège",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.530446,
+    "lon": 1.534782,
+    "adresse": "Parking du centre commercial de l'Autan, rue de l'Autan, 31670 Labège",
+    "horaires": "Samedi de 8h à 13h (page « Marché de plein vent » de la Ville, mise à jour le 31 août 2026 ; le guide « Manger local 2024-2025 » du Sicoval écrivait 7h-13h, place de la Gare : la commune fait foi).",
+    "produits": [
+      "Légumes d'un maraîcher bio",
+      "Fruits et primeurs",
+      "Volailles",
+      "Fromages",
+      "Poisson",
+      "Boucherie et charcuterie",
+      "Pain et pâtisseries",
+      "Olives, épices et fruits secs"
+    ],
+    "description": "Le marché du samedi matin de Labège, sur le parking du centre commercial de l'Autan : la Ville y annonce la priorité aux circuits courts, avec un maraîcher bio, un volailler, un fromager, un poissonnier, des plants de légumes et de la bière, et des animations associatives régulières. À 4,5 km à l'est d'Auzeville-Tolosane. Photo : un étal de fruits et de tomates du marché, recadrée — Ville de Labège (labege.fr).",
+    "site_web": "https://www.labege.fr/marche-de-plein-vent/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20l%27Autan%2C%2031670%20Lab%C3%A8ge",
+    "image_url": "/images/marchands/marche-de-plein-vent-labege.jpg"
   }
 ]

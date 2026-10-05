@@ -5042,9 +5042,26 @@ prioritaires en cas de conflit.
      visage reconnaissable, métadonnées retirées (règle 235), un fichier distinct par fiche (règle 191), et un fichier dont le
      nom porte celui d'une personne ne se reprend pas.
 
+412. **Le site d'un seul commerce peut fournir la photographie thématique de plusieurs fiches de sa commune, un fichier
+     distinct par fiche, mais une seule de ces fiches thématiques compte parmi les deux fiches entières de la règle 127.** Le
+     5 octobre 2026 (cent trentième passe), la Ville d'Auzeville-Tolosane réserve ses photographies à l'usage privé (règles
+     246 et 296) et l'association qui tient l'AMAP de la commune ne publie qu'un logo ; le site de la ferme du lycée agricole,
+     dont les mentions légales n'ont aucune clause sur les images et dont le `robots.txt` n'exclut personne, publie une dizaine
+     de photographies sans personne. La règle 312 ouvre ce recours sans dire combien de fiches peuvent s'y adosser. **Tranché
+     ainsi** : chaque fiche reçoit un fichier différent (règle 191), sa description dit ce que l'image montre et qu'elle ne
+     montre pas le lieu, et elle part en `a_confirmer` (règle 1) ; pour la règle 127, la commune doit rendre au moins une fiche
+     illustrée par une photographie de son propre lieu ou de ses propres produits, la seconde pouvant être thématique (règle
+     316) — deux fiches thématiques adossées au même site ne font pas à elles seules une commune. Ici : la boutique de la ferme
+     (ses farines) est la fiche au lieu illustré, le marché du vendredi et l'AMAP reçoivent le rucher et les miels de la ferme.
+
 ## Marchands à confirmer
 
-912 fiches sur 1040 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+915 fiches sur 1044 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- le **Marché de plein vent d'Auzeville-Tolosane**, la **Boutique de la Ferme de la Cité des Sciences Vertes** et l'**AMAP Les
+  Bonzoms** (Auzeville-Tolosane) (passe du 5 octobre 2026, cent trentième, règles 1, 312, 409 et 412) : la page du marché date
+  de 2021 et il n'a, comme l'AMAP, qu'une photographie thématique de la commune ; l'horaire de la boutique tient à la seule
+  page de la Ville (mars 2025) et son point est celui que l'IGN donne à la résidence voisine. Le **Marché de plein vent de
+  Labège** part sans réserve.
 - la **Fruitière à Comté de Pontarlier — Les Monts de Joux** (passe du 5 octobre 2026, cent vingt-neuvième, règles 1, 312,
   402 et 411) : ses heures viennent de la seule fiche de l'office de tourisme, et elle n'a qu'une photographie thématique de la
   commune, un étal du marché de Pontarlier.
@@ -12542,6 +12559,83 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trentième) : Auzeville-Tolosane et le Sicoval (Haute-Garonne), quatre fiches ; règle 412
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 044 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 040 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,33, Oise 8,52, Pas-de-Calais 6,99, Landes 6,54,
+Eure-et-Loir 6,53, Calvados 5,70, Loiret 5,43, Ain 5,25, Lot-et-Garonne 5,03, Loir-et-Cher 4,96, Aube 4,68, Mayenne 4,61,
+Somme 4,53, Cher 4,50, Jura 3,89 et Haute-Saône 3,52, tous épuisés (règle 265), le Jura et la Haute-Saône étant de surcroît
+en Bourgogne-Franche-Comté, région de la passe précédente (Pontarlier), fermée (règle 41.c) ; **Haute-Garonne (31) 3,1938**,
+premier département ouvert, en Occitanie, dix-neuf fiches, descente arrêtée à Cazères le 26 septembre. Second du classement
+(règle 248) : la Côte-d'Or (3,1462), fermée par la région ; les Alpes-Maritimes (3,0196) n'ont pas été ouvertes puisque la
+Haute-Garonne rend sa zone. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**,
+sur 1 044 fiches : Haute-Garonne −0,7209 (23 fiches) ; Côte-d'Or 3,1775, Alpes-Maritimes 3,0851, Nièvre 3,0496,
+Haute-Savoie 3,0386. La prochaine passe ne peut pas viser l'Occitanie.
+
+**Descente de la Haute-Garonne, reprise à Auzeville-Tolosane (règles 41.d, 96, 127 et 247)**, contrôle à deux agents (règle
+257). Saint-Gaudens n'a pas été rouverte : aucun déblocage nommé. Le registre de l'Agence Bio du département (2 833
+opérateurs) a été lu en entier et filtré par commune ; le guide « Manger local 2024-2025 » du Sicoval (PDF de
+l'agglomération) a servi de contrôle des faits, jamais de source d'image.
+
+1. **Auzeville-Tolosane** (4 665) — **fait la passe, à quatre points (règles 320 et 412).** La Ville sert les deux agents ;
+   ses mentions légales protègent nommément les photographies et ne permettent que l'usage privé (règles 246 et 296) : elle
+   ne sert que de source de faits. Le site de la ferme du lycée agricole sert les deux agents, n'a aucune clause sur les
+   images et son hébergeur d'images a un `robots.txt` ouvert. Trois fiches dans la commune, la quatrième à Labège, même
+   intercommunalité au référentiel (CA du Sicoval, règle 219), à 4,5 km (règle 96).
+
+Les quatre fiches :
+
+1. **Boutique de la Ferme de la Cité des Sciences Vertes** (Auzeville-Tolosane) — `a_confirmer`. Exploitation de
+   l'établissement public d'enseignement agricole, active au registre des entreprises (établissement à l'enseigne de
+   l'exploitation), inscrite au registre de l'Agence Bio. Horaire : vendredi 14h-17h30 hors vacances scolaires, par la seule
+   page de la Ville (mars 2025). Point : ni la Base Adresse Nationale ni le registre ne placent la boutique ; la Ville et le
+   registre bio la disent « en face de la résidence Bordegrande », que le géocodeur de l'IGN place dans la commune (règle
+   409). Photographie de ses farines, sans personne. Le téléphone n'est pas publié : les mentions légales du site et les
+   étiquettes photographiées n'en donnent pas le même.
+2. **Marché de plein vent d'Auzeville-Tolosane** — `a_confirmer`. Vendredi 16h-20h, place de la Mairie Vieille, familles
+   écrites par la Ville ; même créneau au guide du Sicoval. Page de la Ville de 2021. Photographie thématique : le rucher de
+   la ferme (règles 312 et 412).
+3. **AMAP Les Bonzoms** (Auzeville-Tolosane) — `a_confirmer`. Site de l'association à jour (saison 2026-2027 annoncée en mai
+   2026, règle 195), présente au guide du Sicoval. Adresse numérotée à la Base, distincte de la voie du marché (règle 42).
+   Photographie thématique : les miels de la ferme (règles 312 et 412).
+4. **Marché de plein vent de Labège** (4,5 km) — fiche entière. Samedi 8h-13h, parking du centre commercial de l'Autan,
+   familles écrites, page de la Ville mise à jour le 31 août 2026. Les mentions légales de la Ville n'ont qu'une clause
+   générale et autorisent la réutilisation non commerciale avec mention de l'origine (règles 239 et 407) ; photographie de
+   la page du marché, recadrée sur l'étal, sous la personne floue de l'arrière-plan (règle 46), créditée à la Ville (règle
+   268).
+
+Toutes les images sont réencodées depuis leurs seuls pixels (règle 235), aucune agrandie ; deux font moins de 700 px et plus de
+600 (règle 59), faute d'autre photographie permise de la commune. **Le cinquième manque** : voir les pistes.
+
+**Contradictions** (consignées, tranchées par les règles existantes) : marché de Labège, samedi 8h-13h sur le parking de
+l'Autan (Ville, août 2026) contre 7h-13h place de la Gare (guide du Sicoval, 2024), la commune fait foi (règle 22) ; AMAP
+d'Auzeville, 18h15-19h15 (site de l'association, 2026) contre 18h30-19h30 (guide, 2024), la source la plus récente est
+publiée et l'autre citée dans `horaires`.
+
+**Pistes non publiées (Auzeville-Tolosane et Sicoval)** — lignes anonymes :
+
+- Belberaud, magasin de producteurs fermiers (7 km) : société active au registre, adresse numérotée à la Base, heures publiées
+  par le magasin (lundi 9h30-13h et 15h-19h, du mardi au samedi 9h30-19h ; le guide du Sicoval coupe aussi le mardi). Ses
+  mentions légales nomment les images dans l'interdiction (règle 231) et aucune photographie permise de Belberaud n'a été
+  trouvée. **Déblocage** : une photographie du lieu ou de la commune publiée par une source qui n'en interdit pas la reprise.
+  Fiche désignée pour la reprise : ce serait le cinquième point du groupe.
+- Labège, serres de vente d'un lycée horticole : heures publiées par l'établissement, vente d'octobre à juin, fermées jusqu'à
+  la mi-octobre ; l'offre est d'abord ornementale, et les mentions légales interdisent nommément les photographies (règle
+  231). **Déblocage** : la réouverture annoncée, et une source qui écrit la part alimentaire (légumes, plants potagers).
+- Castanet-Tolosan, espace agricole avec marché du mercredi : le `robots.txt` du site répond 403 (règle 256), non lu.
+  **Déblocage** : un `robots.txt` lisible, ou les mêmes faits par la Ville.
+- Castanet-Tolosan et Ramonville-Saint-Agne, marchés : inchangé depuis le 26 septembre, images fermées.
+- Écartées pour doute sur une personne, sans réouverture : à Labège, une cueillette de fruits rouges et un atelier de sels
+  aux plantes, tous deux en entreprise individuelle, joignables au seul portable de leur exploitant ; à Auzeville-Tolosane,
+  un artisan dont l'enseigne est un nom de personne et une pépinière inscrite sous un patronyme. Les prénoms de producteurs
+  que publie l'AMAP ne sont repris nulle part.
+
+**Point d'arrêt de la Haute-Garonne : Auzeville-Tolosane**, qui a fait la passe. À reprendre d'abord : le magasin de
+producteurs de Belberaud (fiche désignée) et les fiches désignées de Saint-Gaudens. La commune suivante est **Bouloc**
+(4 618) ; Labège (4 392) porte désormais une fiche. Relevé du contrôle à deux agents, pour la passe qui reviendra : la Ville
+de Montrabé répond 403 à l'agent nommé (règle 257) ; celle de Nailloux a un `robots.txt` en 403 (règle 256).
 
 ### Passe du 5 octobre 2026 (cent vingt-neuvième) : Pontarlier et le Grand Pontarlier (Doubs), quatre fiches ; règle 411
 
