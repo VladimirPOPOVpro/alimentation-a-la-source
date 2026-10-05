@@ -27147,5 +27147,129 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20des%20Vanneaux%2C%20326%20rue%20Jean%20Jaur%C3%A8s%2C%2059286%20Roost-Warendin",
     "image_url": "/images/marchands/ferme-des-vanneaux-roost-warendin.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-du-soleil-juvignac",
+    "nom": "Marché de la place du Soleil",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.617925,
+    "lon": 3.809904,
+    "adresse": "Place du Soleil, 34990 Juvignac",
+    "horaires": "Samedi de 7h à 13h (Ville de Juvignac, page « Les marchés alimentaires à Juvignac », consultée le 5 octobre 2026).",
+    "produits": [
+      "Fruits et légumes de maraîchers producteurs",
+      "Fromages et produits régionaux",
+      "Poisson",
+      "Huîtres et fruits de mer",
+      "Olives",
+      "Volailles rôties et plats traiteur"
+    ],
+    "description": "Le marché alimentaire du samedi matin à Juvignac, aux portes de Montpellier : la Ville y annonce des maraîchers producteurs de pays, un fromager, une poissonnerie, un ostréiculteur, un rôtisseur et des traiteurs. La Base Adresse Nationale ne connaît la place qu'à la voie. Photo : un étal d'olives du marché, recadrée — Ville de Juvignac.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Soleil%2C%2034990%20Juvignac",
+    "image_url": "/images/marchands/marche-place-du-soleil-juvignac.jpg"
+  },
+  {
+    "slug": "marche-place-de-la-lavande-juvignac",
+    "nom": "Le Petit Mercredi — marché de la place de la Lavande",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.615293,
+    "lon": 3.808101,
+    "adresse": "Place de la Lavande, 34990 Juvignac",
+    "horaires": "Mercredi de 7h30 à 13h (Ville de Juvignac, page « Les marchés alimentaires à Juvignac », non datée, consultée le 5 octobre 2026).",
+    "produits": [
+      "Viande de boucherie",
+      "Fruits et légumes"
+    ],
+    "description": "Petit marché de milieu de semaine : la Ville de Juvignac y annonce deux étals seulement, un boucher et un primeur, à 300 m de la mairie. Pour un marché plus fourni, voir celui de la place du Soleil le samedi matin. La page de la Ville n'est pas datée : fiche à confirmer. La Base Adresse Nationale ne connaît la place qu'à la voie. Photo : un étal de tomates d'un marché de Juvignac, recadrée — Ville de Juvignac ; elle ne prétend pas montrer la place de la Lavande.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Lavande%2C%2034990%20Juvignac",
+    "image_url": "/images/marchands/marche-place-de-la-lavande-juvignac.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-paysan-de-grabels",
+    "nom": "Marché paysan en circuits courts de Grabels",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.647551,
+    "lon": 3.801765,
+    "adresse": "Place Jean Jaurès, 34790 Grabels",
+    "horaires": "Samedi de 8h à 13h (Ville de Grabels, page « Marché circuits courts », consultée le 5 octobre 2026).",
+    "produits": [
+      "Produits locaux en vente directe",
+      "Produits locaux bio en vente directe",
+      "Volailles",
+      "Agneau bio",
+      "Bières artisanales",
+      "Cafés torréfiés"
+    ],
+    "description": "Marché créé par la Ville en 2008 autour des circuits courts : chaque exposant signe une charte et affiche l'origine de ses produits par un code couleur — vente directe, vente directe bio, un seul intermédiaire, ou produit non local —, le « local » étant défini dans un rayon de 250 km. C'est ici qu'est née, avec l'INRAE, la marque d'étiquetage Ici.C.Local. À 4 km au nord de Juvignac. La Base Adresse Nationale ne connaît la place qu'à la voie. Photo : vue générale de Grabels, et non du marché — Mairie de Grabels.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Jean%20Jaur%C3%A8s%2C%2034790%20Grabels",
+    "image_url": "/images/marchands/marche-paysan-de-grabels.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marches-place-de-l-ortet-saint-jean-de-vedas",
+    "nom": "Marchés de saison de la place de l'Ortet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.576782,
+    "lon": 3.830544,
+    "adresse": "Esplanade de l'Ortet, 34430 Saint-Jean-de-Védas",
+    "horaires": "Jeudi et samedi de 8h à 13h (Ville de Saint-Jean-de-Védas, page « Marchés de saison », consultée le 5 octobre 2026). L'été, le marché du samedi est nettement réduit pendant les congés des vendeurs.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poisson",
+      "Volailles",
+      "Charcuterie",
+      "Produits de producteurs"
+    ],
+    "description": "Les deux marchés hebdomadaires de Saint-Jean-de-Védas, sur l'esplanade de l'Ortet : la Ville y annonce primeurs, fromagers, poissonniers, volaillers, charcutiers et producteurs. À 5 km au sud de Juvignac. La Base Adresse Nationale ne connaît l'esplanade qu'à la voie. Photo : un étal d'olives du marché — Ville de Saint-Jean-de-Védas.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Esplanade%20de%20l'Ortet%2C%2034430%20Saint-Jean-de-V%C3%A9das",
+    "image_url": "/images/marchands/marches-place-de-l-ortet-saint-jean-de-vedas.jpg"
+  },
+  {
+    "slug": "vignerons-du-chevalier-georges-saint-georges-d-orques",
+    "nom": "Les Vignerons du Chevalier Georges — caveau de Saint-Georges-d'Orques",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.610286,
+    "lon": 3.786558,
+    "adresse": "21 Avenue de Montpellier, 34680 Saint-Georges-d'Orques",
+    "horaires": "Du lundi au samedi de 9h à 12h15 et de 14h30 à 18h30, fermé le dimanche (page « Contact » de la coopérative, consultée le 5 octobre 2026). Le pied de page du même site annonce « du lundi au vendredi, 9h-12h et 14h30-18h30 » : téléphoner avant de venir un samedi.",
+    "produits": [
+      "Vins rouges du terroir de Saint-Georges-d'Orques",
+      "Cuvée 1710 (syrah, grenache)",
+      "Ocre Rouge",
+      "Vins rosés (cuvée Les Murettes)"
+    ],
+    "description": "Caveau de vente directe de la cave coopérative de Saint-Georges-d'Orques, attenant à la cave de production : la coopérative dit regrouper environ 80 vignerons sur quelque 400 hectares, à 8 km de Montpellier. Société coopérative active au registre à cette adresse, engagée au registre de l'Agence Bio pour la vinification. Le marché communal du samedi matin se tient sur son parking. À 1,5 km à l'ouest de Juvignac. Les deux grilles d'horaires du site ne s'accordent pas sur le samedi : fiche à confirmer. Photo : la façade du caveau — site de la coopérative.",
+    "telephone": "04 67 75 11 16",
+    "site_web": "https://www.cavesaintgeorges.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Vignerons%20du%20Chevalier%20Georges%2C%2021%20avenue%20de%20Montpellier%2C%2034680%20Saint-Georges-d'Orques",
+    "image_url": "/images/marchands/vignerons-du-chevalier-georges-saint-georges-d-orques.jpg",
+    "a_confirmer": true
   }
 ]

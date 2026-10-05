@@ -4992,9 +4992,25 @@ prioritaires en cas de conflit.
      la plus peuplée d'abord (règle 127). Un criblage déjà fait plus bas dans la même passe n'est pas perdu : il s'écrit, et
      ses communes comptent comme éprouvées.
 
+407. **Une Ville dont les mentions légales autorisent en toutes lettres la reproduction sous réserve de citer la source est une
+     source d'image ouverte, à condition de la créditer ; l'image de banque qu'elle affiche en bandeau reste fermée.** Le
+     5 octobre 2026, les mentions légales de la Ville de Grabels écrivent que la reproduction de ses pages et de tout élément
+     du site « est autorisée sous réserve de mention de sa source ». C'est l'inverse des clauses des règles 231 et 291.
+     **Tranché ainsi** : les photographies que la Ville a prises elle-même se reprennent, la description de la fiche citant la
+     mairie ; le bandeau de sa page de marché, une image de banque reconnaissable (règle 70), n'est pas à elle et ne se reprend
+     pas ; la seule photographie du marché fait 250 px, sous le plancher de la règle 59, et la fiche part avec une vue générale
+     du village comme photographie thématique (règle 1), `a_confirmer`, en disant ce que l'image montre. **Déblocage** de la
+     réserve : une photographie du marché d'au moins 600 px publiée par la Ville.
+
 ## Marchands à confirmer
 
-903 fiches sur 1023 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+906 fiches sur 1028 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Le Petit Mercredi** (Juvignac), le **marché paysan en circuits courts de Grabels** et le **caveau des Vignerons du
+  Chevalier Georges** (Saint-Georges-d'Orques) (passe du 5 octobre 2026, cent vingt-sixième, règles 1, 96, 203 et 407) : la page
+  de Juvignac n'est pas datée et le petit marché n'a qu'une photographie thématique de la commune ; le marché de Grabels est
+  illustré d'une vue générale du village, la seule photographie du marché que publie la Ville faisant 250 px ; les deux grilles
+  d'horaires du site de la coopérative ne s'accordent pas sur le samedi. Le **marché de la place du Soleil** (Juvignac) et les
+  **marchés de la place de l'Ortet** (Saint-Jean-de-Védas), publiés dans la même passe, ne sont pas « à confirmer ».
 - **Le Jardin des Romarins** (Douai), **Cueillette de Férin** (Férin) et **Ferme des Vanneaux** (Roost-Warendin) (passe du
   5 octobre 2026, cent vingt-cinquième, règles 96, 383, 402 et 405) : les heures de la ferme de Douai n'ont que la fiche non
   datée de l'office pour source ; la cueillette publie des horaires de saison, relevés le jour de la passe ; pour la boutique
@@ -12472,6 +12488,58 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-sixième) : Juvignac et Montpellier Méditerranée Métropole (Hérault), cinq fiches ; règle 407
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 028 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 023 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : la dernière région visée est les Hauts-de-France (passe de Douai), fermée (règle
+41.c) ; **Hérault (34) 3,2528**, premier département ouvert, en Occitanie. `git fetch` refait avant l'écriture : `origin/main`
+n'a pas bougé (règle 241). La prochaine passe ne peut pas viser l'Occitanie.
+
+**Descente de l'Hérault, reprise à Castelnau-le-Lez (règles 41.d, 96, 127 et 247)**, contrôle à deux agents (règle 257).
+L'office de tourisme métropolitain, le site de la Métropole et celui de la Ville de Montpellier refusent l'agent nommé : non
+consultés.
+
+1. **Castelnau-le-Lez** (26 058) — la Ville n'écrit de ses marchés qu'une phrase (samedi matin dans le centre ancien, mardi
+   matin place de l'Europe), sans heures ni familles (règles 192 et 197), et ses mentions légales nomment les « images » (règle
+   231). Au registre bio : le siège d'un vignoble dont les vignes sont dans les Pyrénées-Orientales, un domaine adossé à un
+   hôtel dont le site refuse l'agent nommé, un magasin bio de réseau sans photographie propre, des grandes surfaces. **Pas deux.**
+2. **Lattes** (17 351) — la Ville ne publie de ses marchés que leur règlement, et ses mentions légales nomment les
+   « photographies » ; au registre bio, un magasin bio de réseau et des exploitations sans site. **Zéro fiche entière.**
+3. **Mauguio** (16 522) — la Ville tient une page « Les marchés », mais ses mentions légales ferment les photographies et
+   disent qu'une partie vient de banques d'images (règles 70 et 231) ; non instruite plus loin, Juvignac ayant fait la passe :
+   **à reprendre à son rang** (règle 375).
+4. **Juvignac** (14 055) — **fait la passe.** `robots.txt` sans exclusion, mentions légales générales qui ne nomment aucune
+   image (règle 231). La page « Les marchés alimentaires à Juvignac » donne, marché par marché, le jour, les heures, le lieu
+   et ses propres étals : ce n'est pas la liste commune de la règle 329. Elle nomme les commerçants : aucun lien (règle 383),
+   aucun nom repris. Quatre photographies de 600 × 393 : deux montrent une enseigne d'étal bâtie sur un prénom (règle 401),
+   non reprises ; les deux autres sont recadrées sous les visages. Deux fiches entières dans la commune, trois dans
+   l'intercommunalité à 4,6 km au plus de la mairie (règle 96).
+
+Les cinq fiches, toutes dans Montpellier Méditerranée Métropole :
+
+1. **Marché de la place du Soleil** (Juvignac, 0,6 km) — fiche entière. Samedi 7h-13h ; maraîchers producteurs, fromages,
+   poisson, huîtres, olives, rôtisserie et traiteurs. Photographie de la Ville, **recadrée sur les coupes d'olives**.
+2. **Le Petit Mercredi, place de la Lavande** (Juvignac, 0,3 km) — `a_confirmer`. Mercredi 7h30-13h, un boucher et un
+   primeur. Photographie thématique (règles 1 et 203) : un étal de tomates d'un marché de Juvignac, **recadrée** ; la fiche
+   dit qu'elle ne montre pas cette place.
+3. **Marché paysan en circuits courts de Grabels** (3,8 km) — `a_confirmer` (règle 407). Samedi 8h-13h, place Jean-Jaurès ;
+   charte et code couleur d'origine, familles lues au répertoire des exposants de la Ville, qui nomme des personnes : aucun
+   lien, aucun nom repris. Vue générale du village, créditée à la mairie.
+4. **Marchés de saison de la place de l'Ortet** (Saint-Jean-de-Védas, 4,6 km) — fiche entière. Jeudi et samedi 8h-13h, un
+   seul lieu, une seule fiche ; primeurs, fromagers, poissonniers, volaillers, charcutiers, producteurs. Les conditions
+   d'utilisation du site ne réservent que les marques et logos. Photographie de la Ville (1 024 px), un étal d'olives, sans
+   personne.
+5. **Les Vignerons du Chevalier Georges, caveau de Saint-Georges-d'Orques** (1,5 km) — `a_confirmer`. Société coopérative
+   active au registre à l'adresse, engagée au registre de l'Agence Bio ; site ouvert aux deux agents, sans mention légale ni
+   nom de personne en page d'accueil : lien et fixe publiés. **Contradiction** : la page « Contact » écrit « du lundi au
+   samedi, 9h-12h15 et 14h30-18h30 », le pied de page « du lundi au vendredi, 9h-12h et 14h30-18h30 » ; la fiche publie la
+   page de contact, la plus détaillée, signale l'écart et invite à téléphoner (règle 405, même source qui se contredit).
+   Photographie du site : la façade du caveau, sans personne.
+
+**Point d'arrêt de l'Hérault : Juvignac.** À reprendre d'abord à son rang (règle 406) : **Mauguio** (16 522) ; la commune
+suivante est **Mèze** (12 669), Saint-Jean-de-Védas ayant désormais une fiche.
 
 ### Passe du 5 octobre 2026 (cent vingt-cinquième) : Douai et Douaisis Agglo (Nord), cinq fiches ; règles 405 et 406
 
@@ -28020,6 +28088,38 @@ Passe du 5 octobre 2026 (cent vingt-cinquième), douze communes criblées avant 
 Point d'arrêt : **Méteren**. À contrôler d'abord (règle 406), par population : Lambersart, Armentières, Hazebrouck et
 Mons-en-Barœul (sites revenus le 5 octobre 2026), Lezennes (maintenance), Herlies (à son rang), Monchecourt (503) ; la
 commune suivante du Nord est **Bachant** (2 230).
+
+### Pistes non publiées dans l'Hérault (de Castelnau-le-Lez à Juvignac)
+
+Passe du 5 octobre 2026 (cent vingt-sixième) :
+
+- **Castelnau-le-Lez, marchés du samedi (centre ancien) et du mardi (place de l'Europe)** : **Déblocage** : des heures et
+  une famille de produits écrites (règles 192 et 197), et une image hors du site de la Ville (règle 231).
+- **Lattes, marchés** : **Déblocage** : une page de la Ville qui en donne le jour, l'heure et les étals, et une image permise.
+- **Mauguio, marchés** : non instruits ; **Déblocage** : une image hors du site de la Ville. À reprendre à son rang.
+- **Juvignac, domaine viticole de la route de Lavérune** : son site coupe la connexion à l'agent nommé (règle 399), non
+  consulté. **Magasin bio indépendant du centre commercial de la route de Saint-Georges-d'Orques** : société active, engagée
+  au registre bio, site injoignable. **Déblocage** : un site lisible avec des heures.
+- **Lavérune, château viticole de la route de Lavérune** (caveau du mardi au samedi 10h-13h et 15h-18h selon sa page
+  « Visites », du lundi au samedi selon sa page « Contact » ; fixe publié) : faits lisibles sur son site, dont les mentions
+  légales nomment les « images » ; la Ville refuse l'agent nommé. **Déblocage** : une image permise de la commune.
+- **Saint-Jean-de-Védas, magasin de producteurs du rond-point du Rieucoulon** (60 rue Pierre et Marie Curie ; fixe publié) :
+  son site ne publie aucune heure en texte et protège ses « photos ». **Déblocage** : des heures écrites et une image permise.
+- **Montpellier, boucherie de six éleveurs bio, 14 rue des Tilleuls** (du mardi au vendredi 7h-12h et 16h-19h, samedi
+  7h-12h30 ; fixe publié) : société active, engagée au registre bio, faits entiers sur son site, dont les mentions légales
+  nomment les « images ». **Déblocage** : une image permise de la commune. **Caveau de Celleneuve de la cave coopérative de
+  Saint-Georges-d'Orques, 10 rue de Gignac** (du lundi au samedi 9h-12h15 et 14h-18h) : faits et photographie lisibles sur le
+  site de la coopérative, deux numéros de téléphone différents selon la page ; **fiche entière, désignée pour la reprise**
+  (règle 258) au prochain passage sur Montpellier.
+- **Murviel-lès-Montpellier, marché dominical** : la Ville n'en écrit ni l'heure ni les étals. **Déblocage** : règles 192 et 197.
+- **Saint-Georges-d'Orques, marché du samedi** (8h-13h, parking de la cave coopérative ; produits frais souvent vendus par
+  le producteur, plats cuisinés, fleurs) : faits entiers à la Ville, dont les conditions d'utilisation nomment les
+  « photographies ». **Déblocage** : une image permise de la commune autre que celle du caveau (règle 191).
+- Castelnau-le-Lez, Lattes, Juvignac, Saint-Georges-d'Orques : des exploitations écartées pour doute sur une personne, non
+  rouvrables.
+
+Point d'arrêt : **Juvignac**. À reprendre d'abord à son rang (règle 406) : Mauguio (16 522) ; la commune suivante de l'Hérault
+est **Mèze** (12 669).
 
 ## Comment ajouter ou modifier un marchand
 
