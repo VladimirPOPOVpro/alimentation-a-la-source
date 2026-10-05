@@ -5088,7 +5088,13 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-928 fiches sur 1058 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+933 fiches sur 1063 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Le Potager d'ici**, le **Marché Carnot**, le **Marché de la place de la Résistance**, le **Marché de la Grande-Pâture**
+  et **Biocoop Nevers** (Nevers) (passe du 5 octobre 2026, cent trente-quatrième, règles 1, 5, 176, 231, 312, 377 et 412) :
+  la vente du maraîcher est annoncée semaine après semaine sur son site (mardi 15h-18h à la dernière lecture) ; la Ville
+  écrit 7h-13h pour la halle Carnot en semaine et 8h-13h30 pour la Grande-Pâture quand l'office écrit 7h-12h40 et
+  7h30-14h ; quatre des cinq photographies sont thématiques (légumes du maraîcher de la commune) et ne montrent pas le
+  lieu. **Déblocage** : une photographie permise de chaque lieu, et des heures concordantes entre la Ville et l'office.
 - Le **Marché du jeudi de Rumilly, place de l'Hôtel de Ville**, le **Marché de producteurs du samedi de Rumilly, sous la
   Grenette**, **Côté Champ** (Rumilly), la **Fruitière de l'Albanais** (Sales) et le **GAEC de l'Alambic**
   (Marcellaz-Albanais) (passe du 5 octobre 2026, cent trente-troisième, règles 5, 42, 96, 127, 143, 239 et 377) : la Ville
@@ -12609,6 +12615,82 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trente-quatrième) : Nevers (Nièvre), cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 063 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 058 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,67, Oise 8,73, Pas-de-Calais 7,37, Landes 6,65,
+Eure-et-Loir 6,65, Calvados 5,89, Loiret 5,61, Ain 5,42, Lot-et-Garonne 5,12, Loir-et-Cher 5,04, Aube 4,76, Mayenne 4,69,
+Somme 4,68, Cher 4,58, Jura 3,96 et Haute-Saône 3,58, tous épuisés (règle 265, état repris du récit de la passe précédente) ;
+**Nièvre (58) 3,0905**, premier département ouvert, en Bourgogne-Franche-Comté, aucune fiche. La passe précédente visait
+Auvergne-Rhône-Alpes : la réserve de la règle 41.c ne joue pas. `git fetch` refait avant l'écriture : `origin/main` n'a pas
+bougé (règle 241). **Après la passe**, sur 1 063 fiches : Nièvre −1,8949 (5 fiches) ; Drôme 3,0813, Aisne 3,0680, Gers
+2,9699. La prochaine passe ne peut pas viser la Bourgogne-Franche-Comté : la Drôme est le premier département à lire.
+
+**Commune calculée (règle 41.d) : Nevers** (33 085, Communauté d'agglomération de Nevers), la plus peuplée du département,
+sans aucune fiche ; elle fait la passe à elle seule, cinq fiches intra-muros. Contrôle à deux agents (règle 257) : la Ville,
+l'office de tourisme, l'agglomération, le maraîcher et le magasin bio servent l'un et l'autre, aucun `robots.txt` n'exclut
+d'agent d'IA. Le registre de l'Agence Bio du département (569 opérateurs) a été lu en entier et filtré sur les communes de
+l'agglomération.
+
+- **Faits.** La page « Les marchés de Nevers » de la Ville donne le lieu, le jour, les heures et la taille de trois marchés
+  de plein air et de deux marchés couverts ; la page « Les marchés » de l'office les recoupe, avec des heures un peu
+  différentes (règle 176 : la Ville fait foi, les deux versions sont écrites).
+- **Images.** Les mentions légales de la Ville rangent les « photos » dans l'œuvre dont elles interdisent la reproduction,
+  celles de l'office nomment les « photographies », et les conditions d'utilisation du site des magasins bio nomment
+  « les photographies, les images » (règle 231) : aucune des trois sources n'est une source d'image. Le site du maraîcher
+  de la rue de la Chaume n'a aucune clause sur les images, son `robots.txt` n'exclut personne, et il publie une quinzaine
+  de photographies de ses propres légumes, sans personne : c'est la photographie du lieu illustré pour sa fiche, et la
+  photographie thématique des quatre autres, un fichier distinct par fiche (règles 312 et 412). L'image d'en-tête du même
+  site est une image de banque : non reprise (règle 70). Toutes les images sont réduites à 1 280 px au plus, aucune
+  agrandie, puis réencodées depuis leurs seuls pixels (règle 235).
+
+Les cinq fiches, toutes `a_confirmer` :
+
+1. **Le Potager d'ici** — EARL active au registre à l'adresse, certification biologique engagée avec productions déclarées
+   (pilier `environnement`). Vente sur l'exploitation le mardi de 15h à 18h, annoncée chaque semaine sur son site (dernière
+   annonce lue : vente du 6 octobre 2026) ; aucun téléphone publié, aucun inscrit. Point : le numéro, à la Base Adresse
+   Nationale (0,96). Photographie : ses betteraves en bottes.
+2. **Marché Carnot** — une seule fiche pour la halle et le marché de plein air du samedi qui l'entoure (règle 42) : point au
+   10 avenue du Général-de-Gaulle (0,97), à cent vingt mètres de la place. Ville : 7h-13h du mardi au jeudi, 7h-13h et
+   15h-18h le vendredi, 8h-13h le samedi ; office : 7h-12h40 en semaine, 7h-13h le samedi. Photographie thématique.
+3. **Marché de la place de la Résistance** — vendredi 15h-19h chez la Ville comme chez l'office ; « producteurs bio et
+   locaux » sans liste d'exposants : pas de pilier `environnement` (règle 68). Photographie thématique.
+4. **Marché de la Grande-Pâture** — jeudi, 8h-13h30 chez la Ville, 7h30-14h chez l'office ; point sur l'axe de la rue
+   (0,97). Photographie thématique, 722 px de large.
+5. **Biocoop Nevers** — société active au registre à l'adresse depuis 2003, certification engagée pour le commerce de
+   détail (règle 210 remplie) ; heures et fixe lus sur le site propre aux deux magasins, qui n'est pas celui du réseau
+   (règle 149 sans objet), fixe recoupé par l'office. Sa page d'accueil signe des avis de clients : pas de lien (règle 377).
+   Cinquième place donnée à la catégorie qui manquait plutôt qu'à un quatrième marché (règle 167). La Base écrit « Boulevard
+   Grands Prés des Bordes », le magasin « du Grand Pré des Bordes » ; même numéro, même voie. Photographie thématique.
+
+**Contradictions** : les heures de la halle Carnot et de la Grande-Pâture entre la Ville et l'office ; écrites dans les
+fiches, la Ville fait foi.
+
+**Pistes non publiées (Nevers et agglomération de Nevers)** — lignes anonymes :
+
+- Nevers, marché couvert de la rue du Pont-Cizeau : la Ville l'ouvre « du mardi au samedi » et détaille ses étals
+  (maraîcher bio, vins, fromager, boulanger) avec des heures par commerce ; faits entiers, il a cédé la cinquième place
+  (règle 167). À reprendre au prochain passage (règle 11), avec une photographie thématique distincte.
+- Nevers, fournil biologique de la même rue : société active au registre, certification engagée pour le pain ; aucun site
+  propre trouvé, aucune heure publiée (règle 192).
+- Coulanges-lès-Nevers, second magasin bio de la même coopérative : société active, certification engagée ; son site donne
+  ses heures, l'office écrit seulement « du lundi après-midi au samedi ». Non instruit plus avant ; il lui faut une
+  photographie permise de sa commune.
+- Nevers, confiserie artisanale : atelier d'une seule personne, joignable sur un portable, site qui crédite nommément un
+  photographe ; écartée pour doute sur une personne, sans réouverture.
+- Varennes-Vauzelles, chèvrerie avec vente à la ferme : jours et heures sur son propre site, mais elle n'existe au
+  registre bio que sous un nom de personne ; écartée pour doute sur une personne, sans réouverture.
+- Agglomération de Nevers, marchés de Varennes-Vauzelles, Pougues-les-Eaux, Marzy, Coulanges-lès-Nevers, Fourchambault et
+  Challuy : seul l'office les recense (règle 196) ; les sites de ces communes n'ont pas été lus.
+- Agglomération de Nevers, producteurs fichés par l'office (viande, vin, bière, fromages de chèvre) : non instruits ;
+  l'office ferme ses images.
+- Écartés pour doute sur une personne, sans réouverture : les producteurs de Nevers et des communes voisines inscrits au
+  registre bio sous un nom de personne. Aucun nom n'est repris.
+
+**Point d'arrêt de la Nièvre : Nevers**, qui a fait la passe. La commune suivante est **Cosne-Cours-sur-Loire** (9 733),
+puis Varennes-Vauzelles (9 146).
 
 ### Passe du 5 octobre 2026 (cent trente-troisième) : Rumilly (Haute-Savoie), cinq fiches ; Sallanches sans zone
 

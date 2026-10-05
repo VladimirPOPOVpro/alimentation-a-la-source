@@ -28047,5 +28047,134 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45%20Chemin%20sous%20Rives%2C%2074150%20Marcellaz-Albanais",
     "image_url": "/images/marchands/gaec-de-l-alambic-marcellaz-albanais.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "le-potager-d-ici-nevers",
+    "nom": "Le Potager d'ici",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.982982,
+    "lon": 3.195852,
+    "adresse": "5 Rue de la Chaume, 58000 Nevers",
+    "horaires": "Vente sur l'exploitation le mardi de 15h à 18h, d'après les annonces hebdomadaires du maraîcher (dernière lue : vente du mardi 6 octobre 2026). Les commandes passées sur son site se retirent sur place le même jour ; il conseille de réserver.",
+    "produits": [
+      "Légumes de saison",
+      "Betteraves, carottes, radis",
+      "Courges et pommes de terre",
+      "Salades et aromatiques",
+      "Soupes et conserves",
+      "Plants de légumes"
+    ],
+    "description": "Maraîchage biologique installé dans le quartier de la Baratte, à l'est de Nevers : l'exploitation écrit ne vendre que les légumes de sa propre production, adaptée aux saisons de la Nièvre, et n'en acheter nulle part ailleurs. Certification biologique engagée au registre de l'Agence Bio. Le jour et l'heure de vente sont annoncés chaque semaine sur son site, d'où la mention à confirmer. Photo : betteraves en bottes, publiée par l'exploitation.",
+    "site_web": "https://lepotagerdici.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=5%20Rue%20de%20la%20Chaume%2C%2058000%20Nevers",
+    "image_url": "/images/marchands/le-potager-d-ici-nevers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-carnot-nevers",
+    "nom": "Marché Carnot",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.988637,
+    "lon": 3.155775,
+    "adresse": "10 Avenue du Général de Gaulle, 58000 Nevers",
+    "horaires": "Marché couvert : mardi, mercredi et jeudi de 7h à 13h, vendredi de 7h à 13h et de 15h à 18h, samedi de 8h à 13h ; fermé le dimanche et le lundi. Marché de plein air autour de la halle (place Carnot, rue Saint-Didier, rue Saint-Martin) : le samedi de 8h à 13h. Horaires de la Ville de Nevers ; l'office de tourisme écrit 7h-12h40 en semaine et 7h-13h le samedi.",
+    "produits": [
+      "Marché alimentaire couvert, jusqu'à 40 échoppes",
+      "Producteurs locaux le samedi",
+      "Charcuterie et fromages",
+      "Huîtres",
+      "Bazar et vêtements en plein air le samedi"
+    ],
+    "description": "Marché couvert du centre de Nevers, ouvert du mardi au samedi, que double le samedi matin un marché de plein air de jusqu'à 41 étals où la Ville signale de nombreux producteurs locaux. L'entrée de la halle se fait aussi par la rue Saint-Didier. Les heures de la Ville et celles de l'office de tourisme diffèrent légèrement, d'où la mention à confirmer. Photo : légumes du Potager d'ici, maraîcher bio de Nevers (lepotagerdici.fr) ; elle ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=10%20Avenue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2058000%20Nevers",
+    "image_url": "/images/marchands/marche-carnot-nevers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-place-de-la-resistance-nevers",
+    "nom": "Marché de la place de la Résistance",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.992114,
+    "lon": 3.160226,
+    "adresse": "Place de la Résistance, 58000 Nevers",
+    "horaires": "Le vendredi de 15h à 19h (Ville de Nevers, recoupé par l'office de tourisme).",
+    "produits": [
+      "Producteurs bio et locaux",
+      "Légumes",
+      "Fromages",
+      "Miel",
+      "Vins",
+      "Huîtres"
+    ],
+    "description": "Marché de fin d'après-midi tenu le vendredi devant la porte de Paris : la Ville y annonce la présence de producteurs bio et locaux, sur une quinzaine d'étals au plus, et l'office de tourisme y cite miel, vins, huîtres, légumes et fromages. Aucune liste d'exposants n'est publiée. Photo : légumes du Potager d'ici, maraîcher bio de Nevers (lepotagerdici.fr) ; elle ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9sistance%2C%2058000%20Nevers",
+    "image_url": "/images/marchands/marche-de-la-place-de-la-resistance-nevers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-grande-pature-nevers",
+    "nom": "Marché de la Grande-Pâture",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.993169,
+    "lon": 3.127763,
+    "adresse": "Rue du Maréchal Lyautey, 58000 Nevers",
+    "horaires": "Le jeudi de 8h à 13h30, d'après la Ville de Nevers, qui organise le marché ; l'office de tourisme écrit 7h30-14h.",
+    "produits": [
+      "Alimentation",
+      "Pâtisseries orientales",
+      "Bazar",
+      "Vêtements"
+    ],
+    "description": "Marché de plein air du quartier de la Grande-Pâture, à l'ouest de Nevers, le jeudi matin : jusqu'à 35 étals d'alimentation, de bazar et de vêtements selon la Ville. La composition des étals alimentaires n'est pas publiée plus en détail, et les heures de la Ville et de l'office de tourisme diffèrent. Photo : légumes du Potager d'ici, maraîcher bio de Nevers (lepotagerdici.fr) ; elle ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20du%20Mar%C3%A9chal%20Lyautey%2C%2058000%20Nevers",
+    "image_url": "/images/marchands/marche-de-la-grande-pature-nevers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-nevers",
+    "nom": "Biocoop Nevers",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.994886,
+    "lon": 3.122127,
+    "adresse": "47 Boulevard du Grand Pré des Bordes, 58000 Nevers",
+    "horaires": "Lundi de 10h à 19h, du mardi au samedi de 9h30 à 19h ; fermé le dimanche et les jours fériés (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Vrac",
+      "Fromage et charcuterie à la coupe",
+      "Pain",
+      "Épicerie bio",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Magasin bio coopératif ouvert en 2003 dans la zone commerciale des Grands Champs, à l'ouest de Nevers, avec des rayons vrac, fromagerie, charcuterie et boulangerie, et une sélection de producteurs de la Nièvre et des départements voisins. Certification biologique engagée au registre de l'Agence Bio pour le commerce de détail. Photo : légumes du Potager d'ici, maraîcher bio de Nevers (lepotagerdici.fr) ; elle ne montre pas le magasin.",
+    "telephone": "03 86 57 91 26",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47%20Boulevard%20du%20Grand%20Pr%C3%A9%20des%20Bordes%2C%2058000%20Nevers",
+    "image_url": "/images/marchands/biocoop-nevers.jpg",
+    "a_confirmer": true
   }
 ]
