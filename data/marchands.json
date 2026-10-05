@@ -27926,5 +27926,126 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Les%20Pois%20Bio%2C%2047%20Route%20de%20la%20Marigarde%2C%2006130%20Grasse",
     "image_url": "/images/marchands/biocoop-les-pois-bio-grasse.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-jeudi-place-de-l-hotel-de-ville-rumilly",
+    "nom": "Marché du jeudi de Rumilly, place de l'Hôtel de Ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.867197,
+    "lon": 5.942305,
+    "adresse": "Place de l'Hôtel de Ville, 74150 Rumilly",
+    "horaires": "Le jeudi de 8h à 12h30, toute l'année, d'après la page « Commerces et marchés » de la Ville de Rumilly. L'office de tourisme Rumilly-Albanais écrit 8h-12h, et 12h30 l'été seulement ; c'est la Ville, qui organise le marché, qui fait foi.",
+    "produits": [
+      "Produits alimentaires",
+      "Étals de producteurs locaux en vente directe",
+      "Textile et habillement"
+    ],
+    "description": "Marché hebdomadaire du centre de Rumilly : la Ville y compte plus de quarante commerçants et producteurs en vente directe, installés place de l'Hôtel de Ville et sous la halle de la Grenette voisine, pour un marché alimentaire et vestimentaire. La composition des étals n'est pas publiée plus en détail. Photo : Office de Tourisme Rumilly-Albanais (www.rumilly-tourisme.com), droits réservés, recadrée sur un étal.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27H%C3%B4tel%20de%20Ville%2C%2074150%20Rumilly",
+    "image_url": "/images/marchands/marche-du-jeudi-place-de-l-hotel-de-ville-rumilly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-producteurs-du-samedi-grenette-rumilly",
+    "nom": "Marché de producteurs du samedi de Rumilly, sous la Grenette",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.866558,
+    "lon": 5.943242,
+    "adresse": "Halle de la Grenette, Place de la Grenette, 74150 Rumilly",
+    "horaires": "Le samedi de 8h à 12h30, d'après la page « Commerces et marchés » de la Ville de Rumilly. L'office de tourisme Rumilly-Albanais écrit 8h-12h ; c'est la Ville, qui organise le marché, qui fait foi.",
+    "produits": [
+      "Produits de producteurs locaux en vente directe"
+    ],
+    "description": "Marché de producteurs que la Ville de Rumilly tient le samedi matin sous les arcades de la halle de la Grenette, au centre-ville ; l'office de tourisme le décrit comme le marché des producteurs locaux, sans détailler les étals. La photo montre la halle un jour de marché, sans dire lequel des deux. Photo : Office de Tourisme Rumilly-Albanais (www.rumilly-tourisme.com), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20de%20la%20Grenette%2C%20Place%20de%20la%20Grenette%2C%2074150%20Rumilly",
+    "image_url": "/images/marchands/marche-de-producteurs-du-samedi-grenette-rumilly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cote-champ-rumilly",
+    "nom": "Côté Champ",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.850835,
+    "lon": 5.952266,
+    "adresse": "60 Avenue René Cassin, 74150 Rumilly",
+    "horaires": "Du mardi au samedi de 9h à 19h, le dimanche de 9h à 12h, fermé le lundi (site du magasin, recoupé par l'office de tourisme Rumilly-Albanais). Distributeur automatique accessible en continu.",
+    "produits": [
+      "Fruits et légumes de saison, pour la plupart bio",
+      "Fromages et charcuteries",
+      "Viandes : bœuf, volaille, porc, agneau",
+      "Produits laitiers et glaces maison",
+      "Épicerie et vrac",
+      "Pain",
+      "Plats et snacks faits maison"
+    ],
+    "description": "Épicerie-traiteur de produits locaux au sud de Rumilly, qui dit travailler avec plus de cent trente producteurs et artisans de l'Albanais et de ses environs et compléter son choix par des produits français ; rattachée à la catégorie « producteur » faute de catégorie d'épicerie locale. Le magasin écrit « rue » René Cassin, le registre des entreprises et la Base Adresse Nationale « avenue ». Photo : Office de Tourisme Rumilly-Albanais (www.rumilly-tourisme.com), droits réservés.",
+    "telephone": "04 20 98 41 34",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=60%20Avenue%20Ren%C3%A9%20Cassin%2C%2074150%20Rumilly",
+    "image_url": "/images/marchands/cote-champ-rumilly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fruitiere-de-l-albanais-sales",
+    "nom": "Fruitière de l'Albanais",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.882113,
+    "lon": 5.952962,
+    "adresse": "230 Route d'Hauteville, 74150 Sales",
+    "horaires": "Magasin ouvert du lundi au samedi de 9h à 12h et de 15h à 19h, fermé le dimanche et certains jours fériés (site de la fromagerie, recoupé par l'office de tourisme Rumilly-Albanais).",
+    "produits": [
+      "Tommette de Savoie",
+      "Flocon de Savoie",
+      "Fromages de Savoie AOP et IGP",
+      "Charcuterie",
+      "Vins, bières et boissons de Savoie",
+      "Biscuits et confiseries"
+    ],
+    "description": "Fruitière de l'Albanais installée à Sales, à 2 km du centre de Rumilly et dans la même communauté de communes : on y fabrique des fromages au lait pasteurisé, dont le Flocon et la Tommette de Savoie, vendus au magasin avec d'autres fromages et produits savoyards. L'adresse est celle de la fromagerie et du registre des entreprises ; l'office de tourisme la situe ailleurs sur sa carte, d'où la mention à confirmer. Photo : Office de Tourisme Rumilly-Albanais (www.rumilly-tourisme.com), droits réservés.",
+    "telephone": "04 50 44 57 48",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=230%20Route%20d%27Hauteville%2C%2074150%20Sales",
+    "image_url": "/images/marchands/fruitiere-de-l-albanais-sales.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "gaec-de-l-alambic-marcellaz-albanais",
+    "nom": "GAEC de l'Alambic",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.858103,
+    "lon": 6.017182,
+    "adresse": "45 Chemin sous Rives, 74150 Marcellaz-Albanais",
+    "horaires": "Magasin à la ferme ouvert du lundi au samedi de 9h à 11h et de 17h à 19h, sauf le mardi après-midi ; fermé le dimanche (fiche 2026 de l'office de tourisme Rumilly-Albanais).",
+    "produits": [
+      "Fromages de chèvre de la ferme",
+      "Fromages de vache locaux",
+      "Viande de bœuf de la ferme",
+      "Viande de porc",
+      "Plateaux de fromages sur commande"
+    ],
+    "description": "Élevage de chèvres et de bovins allaitants de Marcellaz-Albanais, à 6 km de Rumilly et dans la même communauté de communes, avec un magasin à la ferme qui vend ses fromages de chèvre, sa viande et des produits d'autres fermes locales. Les horaires viennent de l'office de tourisme seul, d'où la mention à confirmer. Photo : Office de Tourisme Rumilly-Albanais (www.rumilly-tourisme.com), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45%20Chemin%20sous%20Rives%2C%2074150%20Marcellaz-Albanais",
+    "image_url": "/images/marchands/gaec-de-l-alambic-marcellaz-albanais.jpg",
+    "a_confirmer": true
   }
 ]

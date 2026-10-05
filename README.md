@@ -5088,7 +5088,14 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-923 fiches sur 1053 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+928 fiches sur 1058 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- Le **Marché du jeudi de Rumilly, place de l'Hôtel de Ville**, le **Marché de producteurs du samedi de Rumilly, sous la
+  Grenette**, **Côté Champ** (Rumilly), la **Fruitière de l'Albanais** (Sales) et le **GAEC de l'Alambic**
+  (Marcellaz-Albanais) (passe du 5 octobre 2026, cent trente-troisième, règles 5, 42, 96, 127, 143, 239 et 377) : la Ville
+  écrit 8h-12h30 pour ses deux marchés quand l'office écrit 8h-12h (12h30 le jeudi en été) ; l'épicerie écrit « rue » René
+  Cassin quand le registre et la Base Adresse Nationale écrivent « avenue », et son fixe diffère de celui de l'office ;
+  l'office place la fruitière ailleurs sur sa carte que l'adresse du registre et de la fromagerie ; les heures de la ferme
+  ne viennent que de l'office. **Déblocage** : une source datée qui tranche chacun de ces écarts.
 - **Paysans de nos collines**, le **Marché de la place aux Aires**, **Maison Duplanteur — manufacture de chocolat**,
   l'**Huilerie Sainte-Anne** et **Biocoop Les Pois Bio** (Grasse) (passe du 5 octobre 2026, cent trente-deuxième, règles 1,
   312, 377, 384, 412 et 415) : le magasin de producteurs ne publie que ses jours d'ouverture, sans heures, et le registre
@@ -12602,6 +12609,104 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trente-troisième) : Rumilly (Haute-Savoie), cinq fiches ; Sallanches sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 058 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 053 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,57, Oise 8,67, Pas-de-Calais 7,26, Landes 6,62,
+Eure-et-Loir 6,61, Calvados 5,83, Loiret 5,56, Ain 5,37, Lot-et-Garonne 5,09, Loir-et-Cher 5,02, Aube 4,74, Mayenne 4,66,
+Somme 4,63, Cher 4,56, Jura 3,94 et Haute-Saône 3,56, tous épuisés (règle 265, état repris du récit de la passe précédente) ;
+**Haute-Savoie (74) 3,1510**, premier département ouvert, en Auvergne-Rhône-Alpes, dix fiches à Annecy et autour de Cluses.
+La passe précédente visait Provence-Alpes-Côte d'Azur : la réserve de la règle 41.c ne joue pas. **Après la passe**, sur
+1 058 fiches : Haute-Savoie −1,7866 (15 fiches) ; Nièvre 3,0905, Drôme 3,0433, Aisne 3,0301, Gers 2,9559. La prochaine passe
+ne peut pas viser Auvergne-Rhône-Alpes : la Drôme est fermée, la Nièvre est le premier département à lire.
+
+**Descente de la Haute-Savoie, reprise après Cluses (règles 41.d, 96 et 127)**, contrôle à deux agents (règle 257). Le
+registre de l'Agence Bio du département (1 130 opérateurs) a été lu en entier et filtré par commune.
+
+1. **Sallanches** (17 319) — **une seule fiche entière, pas de zone.** Le domaine de la Ville redirige vers une nouvelle
+   adresse qui sert son `robots.txt` mais n'ouvre aucune page en soixante secondes, pour l'un et l'autre agent (règle 237) ;
+   l'ancien domaine de l'office redirige au même endroit. Les marchés ne sont donc documentés par aucune source lisible
+   (règle 196). Une épicerie de vrac biologique du centre-ville a des faits entiers et une photographie à elle ; les deux
+   magasins bio de réseaux nationaux ferment leurs images ou n'ont pas de page propre lisible, et le site de l'épicerie ne
+   publie qu'une seule photographie, qui ne peut pas servir deux fiches (règles 191 et 412). Voir les pistes plus bas.
+2. **Rumilly** (16 442, Communauté de communes Rumilly Terre de Savoie) — **fait la passe : trois fiches dans la commune,
+   deux dans l'intercommunalité.** La Ville sert les deux agents ; sa page « Commerces et marchés » donne le jour, les
+   heures et le lieu de ses deux marchés ; ses mentions légales réservent les « illustrations et photographies » (règle 231).
+   L'**Office de Tourisme Rumilly-Albanais** sert les deux agents, son `robots.txt` n'exclut personne, et ses mentions
+   autorisent la reproduction électronique en citant la source et « Droits réservés », pour un usage non commercial ; seule
+   la reproduction papier exclut l'iconographie (règle 239). Ses images sont servies par son propre domaine. Chaque
+   description porte donc « Photo : Office de Tourisme Rumilly-Albanais (www.rumilly-tourisme.com), droits réservés ».
+   Toutes les images ont été réencodées depuis leurs seuls pixels (règle 235), aucune agrandie ; aucun fichier ne portait
+   de date de prise de vue (règle 140 sans objet).
+
+Les cinq fiches :
+
+1. **Marché du jeudi de Rumilly, place de l'Hôtel de Ville** — `a_confirmer`. Jeudi 8h-12h30, « marché alimentaire et
+   vestimentaire », plus de quarante commerçants et producteurs, place de l'Hôtel de Ville et sous la Grenette (Ville) ;
+   l'office écrit 8h-12h, 12h30 en été : les deux versions sont dans la fiche, la Ville fait foi (règle 5). Point : la place,
+   à la Base Adresse Nationale. Photographie de l'office recadrée sur un étal, sous les visages (règle 46), 862 px de large.
+   Une autre image de la même fiche, sans rapport visible avec la commune, a tout d'une image de banque : non reprise
+   (règle 70).
+2. **Marché de producteurs du samedi de Rumilly, sous la Grenette** — `a_confirmer`. Samedi 8h-12h30, « marché de
+   producteurs », sous la Grenette (Ville) ; même écart d'heure avec l'office. La Base Adresse Nationale connaît la place de
+   la Grenette comme une voie distincte de la place de l'Hôtel de Ville, à une centaine de mètres : deux points, donc deux
+   fiches (règle 42). Photographie de l'office : les arcades de la halle un jour de marché, silhouettes à contre-jour,
+   aucun visage lisible ; la fiche dit qu'elle ne précise pas le jour.
+3. **Côté Champ** (Rumilly) — `a_confirmer`. Épicerie-traiteur de produits locaux, société active au registre à l'adresse ;
+   heures identiques sur son site et chez l'office ; fixe pris sur son propre site, celui de l'office étant différent
+   (règle 143 par analogie : la voix du commerce prime). « Rue » chez le magasin et l'office, « avenue » au registre et à la
+   Base : l'adresse publiée est celle de la Base, l'écart est dit. Sa page d'accueil signe des avis de clients : pas de lien
+   (règle 377). Catégorie `producteur` faute de mieux (règle 4). Photographie de la devanture, diffusée par l'office.
+4. **Fruitière de l'Albanais** (Sales, 1,9 km) — `a_confirmer`. Société active au registre au 230 route d'Hauteville,
+   adresse, heures du magasin et fixe publiés par la fromagerie, heures et fixe recoupés par l'office. L'office écrit une
+   autre adresse (un numéro sur la départementale) et un point à près de trois kilomètres : c'est l'adresse de l'exploitant
+   et du registre, géocodée à 0,96, qui est publiée, et la fiche le dit (règle 5). L'enseigne de la fiche est celle de la
+   fruitière ; la marque de l'exploitant, qui est un patronyme, n'est écrite ni dans la fiche ni ici, et son site n'est pas
+   lié. Certification biologique de la société engagée au registre de l'Agence Bio pour une partie de sa gamme : pas de
+   pilier `environnement` sans production déclarée (règle 210).
+5. **GAEC de l'Alambic** (Marcellaz-Albanais, 5,9 km) — `a_confirmer`. Groupement actif au registre à l'adresse, enseigne
+   déclarée. Son propre site sert l'agent par défaut et répond 403 à l'agent nommé : non consulté (règle 257). Heures,
+   produits et photographie (les chevreaux de la ferme) viennent de la fiche 2026 de l'office ; le seul numéro publié est
+   un portable relayé par l'office : non inscrit (règle 143). Cinquième place donnée à une ferme, catégorie absente du
+   groupe (règle 167).
+
+**Contradictions** : l'heure de fin des deux marchés, la voie et le fixe de l'épicerie, l'adresse de la fruitière ; toutes
+écrites dans les fiches ou ci-dessus.
+
+**Pistes non publiées (Sallanches)** — lignes anonymes :
+
+- Sallanches, épicerie de vrac biologique d'une coopérative, rue du centre-ville : heures et fixe sur son site (lundi
+  après-midi, du mardi au samedi matin et après-midi), certification engagée, une photographie du magasin sans visage ; la
+  page de mentions légales du site rend une erreur. Faits entiers, image comprise : **désignée pour la reprise** (règle 302).
+  Sa page d'accueil nomme l'auteur du site : pas de lien le jour venu (règle 377).
+- Sallanches, deux magasins bio de réseaux nationaux : l'un a une page propre dont les mentions réservent toutes les images
+  (règle 231), l'autre n'a pas été instruit. **Déblocage** : une photographie permise de la commune.
+- Sallanches, marchés : aucune source lisible tant que le site de la Ville n'ouvre pas (règles 196 et 237).
+- Écartés pour doute sur une personne, sans réouverture : les producteurs de Sallanches inscrits au registre bio sous un
+  nom de personne. Aucun nom n'est repris.
+
+**Pistes non publiées (Rumilly et Rumilly Terre de Savoie)** — lignes anonymes :
+
+- Vallières-sur-Fier, seconde fruitière du même exploitant, route du Val de Fier : faits entiers chez l'office (du lundi au
+  samedi, 9h-12h et 15h-19h), photographies permises ; elle a cédé la cinquième place à une ferme (règle 167). À reprendre
+  au prochain passage (règle 11).
+- Rumilly, magasin bio d'un réseau national, avenue René-Cassin : société active au registre, certification engagée ; il
+  n'a de page que sur le site du réseau, fermé aux agents d'IA (règle 149).
+- Marcellaz-Albanais, brasserie-distillerie biologique : fiche de l'office avec heures et images, mais l'enseigne est un
+  patronyme ; écartée pour doute sur une personne, sans réouverture.
+- Rumilly Terre de Savoie, apiculture biologique, producteur d'escargots, producteur de sapins : fiches de l'office tenues
+  sous un nom de personne, ou vente sur rendez-vous seulement (règle 192). Les deux premières sont écartées pour doute sur
+  une personne, sans réouverture.
+- Moye, marché de producteurs associatif du vendredi : la fiche de l'office nomme une personne et publie sa messagerie ;
+  horaire sans heure de fin. Non instruit.
+- Écartés pour doute sur une personne, sans réouverture : les producteurs de Rumilly et des communes voisines inscrits au
+  registre bio sous un nom de personne. Aucun nom n'est repris.
+
+**Point d'arrêt de la Haute-Savoie : Rumilly**, qui a fait la passe. Thonon-les-Bains et Annemasse restent éprouvées (passe
+de Cluses) ; Sallanches est éprouvée et garde une fiche désignée. La commune suivante est **Saint-Julien-en-Genevois**
+(16 222), puis Bonneville (13 335).
 
 ### Passe du 5 octobre 2026 (cent trente-deuxième) : Grasse (Alpes-Maritimes), cinq fiches ; Cagnes-sur-Mer sans zone ; règle 415
 
