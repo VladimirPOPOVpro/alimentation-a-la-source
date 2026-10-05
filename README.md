@@ -4968,9 +4968,39 @@ prioritaires en cas de conflit.
      publie, mais la fiche compte pour la commune du référentiel — ici elle ne peut être que l'un des points
      d'intercommunalité de la règle 96, jamais l'une des deux fiches entières de Lunel.
 
+405. **Quand la photographie qu'un office publie pour un commerce montre des heures que sa propre fiche contredit, la fiche
+     publie les heures écrites, signale l'écart et reste `a_confirmer`.** Le 5 octobre 2026, l'office de tourisme du Douaisis
+     tient deux fiches pour la boutique d'une ferme maraîchère associative de Roost-Warendin ; toutes deux écrivent « du lundi
+     au vendredi, 8h-12h30 et 13h15-16h30 », et la photographie qui les illustre, datée de juillet 2018 par son nom de fichier,
+     montre sur la porte « du mardi au samedi, 9h30-12h et 14h-18h30 ». Le site de l'association répond 403 à tout agent (règle
+     237). La règle 176 ne vaut que pour les marchés communaux, la règle 5 arbitre entre deux sources. **Tranché ainsi** : ici
+     il n'y a qu'une source, qui se contredit dans le temps ; le texte, que l'office tient à jour, l'emporte sur une image
+     plus ancienne, mais l'écart est un doute de fait : la fiche part avec les heures écrites, dit dans `horaires` qu'une
+     vitrine plus ancienne en annonçait d'autres et invite à téléphoner, et le numéro fixe de la boutique est publié.
+     Recadrer la photographie pour en écarter une personne n'autorise pas à taire ce qu'elle montrait. **Déblocage** de la
+     réserve : une source datée de l'année, ou le site de l'association rendu lisible.
+
+406. **Une commune à réessayer s'écrit dans la ligne du point d'arrêt, avec son rang, et pas seulement dans le récit de la
+     passe.** La nuit du 24 septembre 2026, six Villes du Nord servaient une page de maintenance (règle 288) et devaient être
+     réessayées « en tête de la prochaine descente ». Les passes qui ont visé le Nord depuis ont repris au point
+     d'arrêt écrit sans jamais les rouvrir : la consigne vivait dans une section que la ligne
+     « Point d'arrêt » ne citait pas. Le 5 octobre 2026, les six sites répondent 200 aux deux agents ; deux d'entre elles
+     comptent plus de quarante mille habitants, quand la descente éprouvait des communes de 2 300. **Tranché ainsi** : la ligne
+     « Point d'arrêt » d'un département nomme, avant la commune suivante, toutes les communes à réessayer (règles 288, 297 et
+     400) et celles à reprendre à leur rang (règle 375), par population ; la passe qui vise le département les contrôle
+     toutes en une requête à deux agents avant d'ouvrir la descente, et celles qui sont revenues s'éprouvent à leur rang,
+     la plus peuplée d'abord (règle 127). Un criblage déjà fait plus bas dans la même passe n'est pas perdu : il s'écrit, et
+     ses communes comptent comme éprouvées.
+
 ## Marchands à confirmer
 
-900 fiches sur 1018 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+903 fiches sur 1023 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Le Jardin des Romarins** (Douai), **Cueillette de Férin** (Férin) et **Ferme des Vanneaux** (Roost-Warendin) (passe du
+  5 octobre 2026, cent vingt-cinquième, règles 96, 383, 402 et 405) : les heures de la ferme de Douai n'ont que la fiche non
+  datée de l'office pour source ; la cueillette publie des horaires de saison, relevés le jour de la passe ; pour la boutique
+  de Roost-Warendin, la fiche de l'office et la vitrine que montre sa photographie de 2018 n'annoncent pas les mêmes heures.
+  Les **marchés de la place Saint-Amé et de la place du Barlet**, publiés dans la même passe sur l'accord de la Ville et de
+  l'office, ne sont pas « à confirmer ».
 - **Marché hebdomadaire d'Erstein, place de l'Hôtel-de-Ville**, **Juste à côté — la boutique paysanne** (Erstein) et
   **RiedOasis** (Obenheim) (passe du 5 octobre 2026, cent vingt-troisième, règles 5, 96, 318 et 402) : pour le marché du samedi,
   la Ville écrit la place de l'Hôtel-de-Ville et l'office de tourisme la place des Fêtes ; la fiche de l'office pour la
@@ -12442,6 +12472,97 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-cinquième) : Douai et Douaisis Agglo (Nord), cinq fiches ; règles 405 et 406
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 023 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 018 fiches), outre-mer écarté (règle 177),
+départements épuisés sautés (règle 265) : la dernière région visée reste le Grand Est (passe d'Erstein), la passe précédente
+n'ayant rien publié ; **Nord (59) 3,6164**, premier département ouvert ; Haute-Saône 3,4427 (épuisée) ; Hérault 3,1636, second,
+**non ouvert** puisque le Nord rend sa zone (règle 248). Lezennes, réessayée hors borne : toujours « Site en maintenance »
+(règle 400) ; Monchecourt : 503 aux deux agents. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241).
+**Après la passe**, sur 1 023 fiches : Nord −1,1939 (40 fiches) ; Haute-Saône 3,4596 (épuisée) ; **Hérault 3,2528**, premier
+ouvert ; Saône-et-Loire 3,1645. La prochaine passe ne peut pas viser les Hauts-de-France (règle 41.c).
+
+**Descente du Nord (règles 41.d, 127, 247, 288, 375 et 406).** La passe a d'abord repris au point d'arrêt écrit, à Lewarde,
+et criblé douze communes à deux agents (règle 257) ; c'est en cherchant l'intercommunalité de la cinquième, Faumont, qu'elle a
+constaté que **Douai**, laissée en maintenance le 24 septembre et jamais réessayée, répond de nouveau. Les six Villes de la
+règle 288 ont alors été contrôlées : toutes répondent 200 aux deux agents. Par rang de population :
+
+0a. **Wattrelos** (40 847) — site revenu. La Ville publie quatre marchés avec leur jour et leur lieu, **sans heures ni famille
+   de produits** (règles 192 et 197) ; ses mentions légales nomment les « images » (règle 231) ; le site de l'office communal
+   répond 526 aux deux agents ; au registre bio, un établissement d'aide par le travail en production, dont le site refusait
+   l'agent nommé le 24 septembre, deux enseignes de grande distribution et un grossiste. **Zéro fiche entière.**
+0b. **Douai** (40 250) — **fait la passe.** Site revenu, `robots.txt` sans exclusion (un délai de dix secondes entre
+   requêtes, respecté). La page « Les marchés » de la Ville donne une heure pour tous (8h-13h) puis, marché par marché, le
+   jour, le lieu, le nombre de commerçants et ses propres familles de produits : ce n'est pas la liste commune de la règle
+   329. Ses mentions légales nomment les « images » (règle 231) : aucune photographie de la Ville n'est reprise. L'office
+   **Douaisis Agglo Tourisme** (200 aux deux agents ; mentions légales réduites à une ligne « Crédits photos », règle 306)
+   tient une fiche par marché, aux mêmes heures, et une fiche par producteur ; les photographies de ses fiches sont servies
+   par un hébergeur ouvert aux deux agents. **L'hébergeur des images de ses pages de rubrique refuse l'agent nommé**
+   (« Your request was blocked », 200 à l'agent par défaut) : aucune de ces images n'est reprise (règles 257 et 345), ce qui
+   ferme la photographie générique des marchés. Plusieurs photographies de fiche sont des images de banque, reconnaissables à
+   leur nom de fichier (règles 70 et 360) : non reprises.
+
+Les cinq fiches, toutes dans Douaisis Agglo au référentiel, à 6,2 km au plus de la mairie de Douai (règle 96) :
+
+1. **Marché de la place Saint-Amé** (Douai, 0,4 km) — fiche entière. Samedi 8h-13h, une quarantaine de commerçants, fruits et
+   légumes, volailles, produits régionaux, fleurs : Ville et office d'accord. Point : la place, connue de la Base à la voie.
+   Photographie de la fiche de l'office (5 176 px), **recadrée sur les étals de fleurs et de plants** pour écarter les
+   passants reconnaissables du premier plan ; métadonnées retirées (règle 235).
+2. **Marché de la place du Barlet** (Douai, 0,4 km) — fiche entière. Samedi 8h-13h, 250 commerçants selon la Ville, qui n'en
+   écrit pas les familles ; l'office écrit « confection homme, femme, enfants, linge de maison, fruits et légumes » pour ce
+   marché-là (déblocage de la règle 329 par la source relais). La fiche dit que c'est d'abord un marché forain et renvoie
+   aux étals alimentaires de la place Saint-Amé, à 700 m le même matin : deux places, deux points (règle 42). Photographie
+   de la fiche de l'office : des écheveaux de fil, sans personne — elle montre ce que le marché est, la fiche le dit.
+3. **Le Jardin des Romarins** (Douai, Frais-Marais, 5,1 km) — fiche entière, `a_confirmer`. Entreprise active au registre à
+   l'adresse, **sous cette enseigne déclarée** (règle 6) ; certificat biologique engagé depuis mai 2000 au registre de
+   l'Agence Bio, à la même adresse (légumes de plein champ et sous abri, pommes, framboises, jus). Heures de l'office seul,
+   fiche non datée. La fiche de l'office nomme l'exploitant : **aucun lien** (règle 383), pas de téléphone (le fixe n'est
+   publié que par l'office, pour une entreprise individuelle). La photographie de l'office est un portrait, et son nom de
+   fichier un patronyme : **recadrée sur la serre, sans la personne**, renommée (règles 70 et 235).
+4. **Cueillette de Férin** (Férin, 4,2 km) — fiche entière, `a_confirmer`. Heures, adresse et téléphone sur le site de la
+   cueillette (200 aux deux agents, `robots.txt` sans exclusion, page d'accueil sans nom de personne : lien publié) ; société
+   agricole active au registre, route de Dechy. Le pied de page du site porte un « © » (règle 291) : ses images ne sont pas
+   reprises ; photographie de la fiche de l'office, **recadrée sur le panier de légumes**, les deux personnes écartées.
+   Horaires de saison relevés le jour même ; la Base ne connaît la route qu'à la voie (le point de l'office est à 50 m).
+5. **Ferme des Vanneaux** (Roost-Warendin, 6,2 km) — fiche entière, `a_confirmer` (règle 405). Établissement actif d'une
+   association, **sous cette enseigne déclarée** au registre, à l'adresse ; certificat biologique engagé au registre de
+   l'Agence Bio pour les légumes, les pommes et les poires. Fixe publié par l'office pour la boutique. La Ville de
+   Roost-Warendin refuse l'agent nommé (règle 257) : non consultée, et sans objet pour la fiche. Photographie de l'office :
+   la vitrine, **recadrée**, la personne qui posait devant écartée ; aucun nom de personne sur l'enseigne (règle 401).
+
+**Criblage fait avant le retour de Douai, de Lewarde à Méteren** — douze communes, comptées comme éprouvées (règle 406) :
+
+1. **Lewarde** (2 353) — deux marchés (jeudi et/ou samedi, 9h-12h, place Elsa-Triolet) aux étals écrits ; la seule image du
+   lieu est une image générée, les autres sont des vignettes d'étal ; la page publie les coordonnées personnelles des
+   exposants. Aucun second point. **Pas deux.**
+2. **Recquignies** (2 338) — aucun marché publié ; rien au registre bio. **Zéro.**
+3. **Bersée** (2 318) — aucune rubrique de marché ni de commerce ; au registre bio, des exploitations sous nom de personne et
+   une ferme maraîchère sans site. **Zéro.**
+4. **Haulchin** (2 281) — le `robots.txt` ne ferme aux agents d'IA que `/fileadmin/` (règle 294) ; « marché des saveurs » un
+   samedi sur deux, 8h-12h, à la halle, dont la page désigne les marchands par leur prénom ; les mentions légales interdisent
+   la reproduction des « photos ». **Zéro.**
+5. **Faumont** (2 278, Douaisis Agglo) — même `robots.txt` et même clause sur les photos. **Deux points lisibles**, non
+   instruits jusqu'au bout, Douai ayant fait la passe : voir les pistes.
+6. **Herlies** (2 267) — l'annuaire des commerces de la Ville n'a été lu qu'en liste (une brasserie artisanale) ; au registre
+   bio, une ferme maraîchère déclarée avec une enseigne. **Non éprouvée au sens de la règle 127 : à reprendre à son rang.**
+7. **Gommegnies** (2 264) — marché du vendredi à partir de 17h, place du Général-de-Gaulle, « commerçants en tout genre » :
+   aucune famille écrite (règle 197). **Zéro.**
+8. **Cappelle-en-Pévèle** (2 257) — les mentions légales nomment les « images » ; la rubrique agricole désigne ses fermes
+   par des noms de personnes. **Zéro.**
+9. **Attiches** (2 245) — aucun marché ; un point de retrait de commandes en ligne sans heures. **Zéro.**
+10. **Boeschepe** (2 244) — marché du mardi (15h30-19h, sur la place ; fruits et légumes, poissonnerie) aux faits entiers ;
+    deux maraîchers à enseigne avec des heures ; les mentions légales nomment les « images », aucune image permise lue.
+    **Zéro fiche entière** : voir les pistes.
+11. **Avesnelles** (2 232) — aucune rubrique de marché ; au registre bio, des certificats arrêtés et une grande surface.
+    **Zéro.**
+12. **Méteren** (2 231) — marché du mercredi « jusqu'à 18h », sans heure de début, sur une page qui porte encore une consigne
+    sanitaire de 2020 ; une ferme d'élevage à site ouvert, en retrait de commandes. **Pas deux** : voir les pistes.
+
+**Point d'arrêt du Nord : Méteren.** À contrôler d'abord (règle 406), par population : **Lambersart** (site revenu),
+**Armentières** (revenu), **Hazebrouck** (revenu), **Mons-en-Barœul** (revenu), **Lezennes** (maintenance), **Herlies** (à
+son rang), **Monchecourt** (503) ; puis la commune suivante, **Bachant** (2 230).
 
 ### Passe du 5 octobre 2026 (cent vingt-quatrième) : Nord et Hérault, aucune publication ; règles 403 et 404
 
@@ -27836,6 +27957,69 @@ Passe du 5 octobre 2026 (cent vingt-quatrième), deux communes (règle 248) :
 Aucune de ces fiches n'est « entière » au sens de la règle 127 : aucune n'est désignée pour la reprise (règle 258).
 
 Point d'arrêt : **Lunel** ; la commune suivante de l'Hérault est **Castelnau-le-Lez** (26 058).
+
+### Pistes non publiées à Douai et dans Douaisis Agglo
+
+Passe du 5 octobre 2026 (cent vingt-cinquième), cinq fiches publiées ; restent, pour un prochain passage sur l'agglomération :
+
+- **Douai, marché de la place Carnot** (mercredi 8h-13h ; dix commerçants, producteurs de fruits et légumes, boucher,
+  fromager) : faits entiers, Ville et office d'accord ; la photographie de l'office ne fait que 400 px (règle 59).
+  **Déblocage** : une image permise d'au moins 600 px. C'est le marché de producteurs de la ville : à prendre en premier.
+- **Douai, marché du faubourg de Béthune** (vendredi 8h-13h ; place de la Convivialité selon la Ville, avenue
+  Denis-Cordonnier selon l'office ; poulets, fruits et légumes) **et marché du pont d'Esquerchin** (dimanche 8h-13h, square
+  Saint-Maur-des-Fossés ; fruits et légumes, poulets cuits, fleurs, huîtres en saison) : faits entiers ; l'office les
+  illustre d'images de banque (règle 70). **Déblocage** : une image permise ; pour le premier, le lieu se lit chez la Ville
+  (règle 176).
+- **Douai, marché saisonnier de Frais-Marais** (place de Meaux, de mai à octobre) : ni jour ni heure (règle 192).
+- **Douai, brasserie du lycée agricole** (rue de la Motte-Julien) : vente directe selon l'office, sans heures ; le site de
+  l'établissement oppose un défi anti-robot (règle 212). **Déblocage** : des heures de vente publiées par une source lisible.
+- **Douai, brasserie artisanale biologique** : fiche de l'office sans adresse ni heures, qui désigne le brasseur par son
+  prénom. Non instruite.
+- **Dechy, La Petite Ferme** (3 rue de Saint-Venant ; du lundi au samedi 14h30-19h, dimanche 9h-12h30 ; œufs de plein air,
+  produits laitiers, distributeur automatique) : société agricole active à l'adresse, enseigne non déclarée au registre
+  (règle 6) ; la photographie de l'office se recadre sur les poules. Faits entiers, **sixième point laissé de côté par le
+  plafond de cinq** : à prendre au prochain passage.
+- **Faumont** : un **maraîcher et pépiniériste biologique de la rue de la Picterie** (certifié au registre sous son
+  enseigne ; retrait des commandes en ligne le lundi et le vendredi de 17h30 à 19h30 ; site ouvert aux deux agents, sans
+  clause ; sa page d'accueil nomme l'exploitant : aucun lien, règle 376) et la **Ferme de Lartois** (rue du Coquet ; vente le
+  vendredi 14h-19h et le samedi 9h30-12h, « week-end de vente » sans calendrier ; bœuf, veau, poulets ; joignable par des
+  numéros mobiles seulement, règle 143 ; fiche à l'office). À 11,4 km de la mairie de Douai, dans la même agglomération.
+  **Déblocage** : le registre pour la seconde, le calendrier de ses week-ends de vente, et le contrôle de sa photographie.
+- **Sin-le-Noble** (vendredi 7h-13h, rue Jules-Guesde), **Waziers** (mardi 8h-13h, place Bordeu), **Dechy** (mercredi
+  14h-18h, place Jean-Jaurès), marchés : jour, heures et lieu à l'office, aucune famille de produits (règle 197), images de
+  banque. **Déblocage** : la page de chaque Ville, et une image permise.
+- **Râches, brasserie artisanale du quai du canal** : fiche de l'office sans heures ; quatre de ses cinq photographies
+  portent un « © » dans leur nom de fichier (règle 306). **Waziers, micro-brasserie** (samedi 10h-12h) : photographies au
+  « © », mobile seul. **Flines-lez-Raches, maraîcher biologique à enseigne** (lundi et vendredi 16h-19h, samedi 9h-12h) :
+  aucune adresse à l'office. **Cuincy, ferme d'ail fumé** : son site porte un patronyme dans son nom de domaine. Non
+  instruits. **Sin-le-Noble, serres horticoles** : plantes d'ornement, hors sujet.
+- Cuincy, Sin-le-Noble, Dechy, Lallaing, Waziers, Raimbeaucourt, Flines-lez-Raches, Roucourt, Lécluse, Arleux,
+  Fressain : des fermes et un maraîcher que l'office désigne sous un patronyme, écartés pour doute sur une personne, non
+  rouvrables.
+
+### Pistes non publiées dans le Nord (de Lewarde à Méteren)
+
+Passe du 5 octobre 2026 (cent vingt-cinquième), douze communes criblées avant le retour de Douai (règle 406) :
+
+- **Boeschepe, marché du mardi** (15h30-19h, sur la place ; fruits et légumes, poissonnerie) : faits entiers à la Ville, sur
+  une page (règle 178). **Un jardin maraîcher du Petit Chemin de Poperinghe** (tous les jours 9h-17h, fixe publié par la
+  Ville, présent au marché) et **un potager biologique de la rue de Westoutre** (vendredi 16h30-17h30 au potager, puis
+  18h-19h dans un tiers-lieu de la rue de Poperinghe ; site ouvert aux deux agents, non lu) : registre non contrôlé.
+  **Déblocage** : une image permise — le site du potager est le premier endroit où la chercher (règle 312) —, et le registre.
+- **Méteren, marché du mercredi** (sur la place, « jusqu'à 18h » ; poisson, fromage, fruits et légumes, poulet) :
+  **Déblocage** : une heure de début sur une page à jour. **Ferme d'élevage de la commune** (porc sur paille ; retrait des
+  commandes le vendredi 17h-19h et le samedi 9h-11h, en semaines impaires ; site ouvert, sans clause lue) : **Déblocage** :
+  une seconde fiche entière dans la commune.
+- **Lewarde, marchés de la place Elsa-Triolet** : **Déblocage** : les jours écrits sans « et/ou », une photographie du lieu,
+  et une seconde fiche entière.
+- **Gommegnies, marché du vendredi soir** : **Déblocage** : une famille de produits écrite (règle 197).
+- **Haulchin, marché des saveurs** : **Déblocage** : une page qui ne désigne personne, et une image hors du site de la Ville.
+- Lewarde, Bersée, Haulchin, Herlies, Gommegnies, Cappelle-en-Pévèle, Boeschepe, Avesnelles, Méteren : des exploitations et
+  des exposants écartés pour doute sur une personne, non rouvrables.
+
+Point d'arrêt : **Méteren**. À contrôler d'abord (règle 406), par population : Lambersart, Armentières, Hazebrouck et
+Mons-en-Barœul (sites revenus le 5 octobre 2026), Lezennes (maintenance), Herlies (à son rang), Monchecourt (503) ; la
+commune suivante du Nord est **Bachant** (2 230).
 
 ## Comment ajouter ou modifier un marchand
 

@@ -27028,5 +27028,124 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RiedOasis%2C%2015%20rue%20de%20Daubensand%2C%2067230%20Obenheim",
     "image_url": "/images/marchands/riedoasis-obenheim.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-ame-douai",
+    "nom": "Marché de la place Saint-Amé",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.368829,
+    "lon": 3.075369,
+    "adresse": "Place Saint-Amé, 59500 Douai",
+    "horaires": "Samedi de 8h à 13h (Ville de Douai, page « Les marchés » ; l'office de tourisme du Douaisis publie les mêmes heures).",
+    "produits": [
+      "Fruits et légumes",
+      "Volailles",
+      "Produits régionaux",
+      "Fleurs"
+    ],
+    "description": "Le marché alimentaire du samedi matin dans le centre de Douai : la Ville y compte une quarantaine de commerçants, fruits et légumes, volailles, produits régionaux et fleurs. Il se tient en même temps que le grand marché de la place du Barlet, à 700 m. La Base Adresse Nationale ne connaît la place qu'à la voie. Photo : un étal de fleurs et de plants du marché, recadrée — fiche de l'office de tourisme du Douaisis.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Am%C3%A9%2C%2059500%20Douai",
+    "image_url": "/images/marchands/marche-saint-ame-douai.jpg"
+  },
+  {
+    "slug": "marche-barlet-douai",
+    "nom": "Marché de la place du Barlet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.365218,
+    "lon": 3.083584,
+    "adresse": "Place du Barlet, 59500 Douai",
+    "horaires": "Samedi de 8h à 13h (Ville de Douai, page « Les marchés » ; mêmes heures à l'office de tourisme du Douaisis). Pendant les fêtes de Gayant, le marché est déplacé sur le parking de Gayant Expo.",
+    "produits": [
+      "Fruits et légumes",
+      "Confection",
+      "Linge de maison"
+    ],
+    "description": "Le grand marché de Douai : la Ville y compte 250 commerçants le samedi matin. L'office de tourisme y relève la confection, le linge de maison et les fruits et légumes ; c'est d'abord un marché forain, et les étals de volailles et de produits régionaux sont décrits à 700 m, place Saint-Amé, le même matin. La Base Adresse Nationale ne connaît la place qu'à la voie. Photo : des écheveaux de fil sur un étal de mercerie du marché — fiche de l'office de tourisme du Douaisis.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20Barlet%2C%2059500%20Douai",
+    "image_url": "/images/marchands/marche-barlet-douai.jpg"
+  },
+  {
+    "slug": "jardin-des-romarins-douai",
+    "nom": "Le Jardin des Romarins",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.395319,
+    "lon": 3.137929,
+    "adresse": "555 Rue de Saint-Amand, 59500 Douai",
+    "horaires": "Du lundi au vendredi de 8h à 18h, samedi de 14h à 18h (office de tourisme du Douaisis, fiche non datée).",
+    "produits": [
+      "Légumes de saison, de plein champ et sous abri",
+      "Pommes",
+      "Framboises",
+      "Jus de fruits et de légumes"
+    ],
+    "description": "Ferme maraîchère de quatre hectares à Frais-Marais, au nord-est de Douai, à 5 km de la mairie : légumes de saison et variétés anciennes, vendus à la ferme et sur les marchés. L'exploitation est certifiée en agriculture biologique au registre de l'Agence Bio depuis 2000 ; l'office de tourisme la dit conduite en biodynamie. Horaires tenus de l'office seul : à vérifier avant de se déplacer. Photo : une serre de tomates de la ferme, recadrée — fiche de l'office de tourisme du Douaisis.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Jardin%20des%20Romarins%2C%20555%20rue%20de%20Saint-Amand%2C%2059500%20Douai",
+    "image_url": "/images/marchands/jardin-des-romarins-douai.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-de-ferin",
+    "nom": "Cueillette de Férin",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 50.330191,
+    "lon": 3.077154,
+    "adresse": "Route de Dechy (RD 25), 59169 Férin",
+    "horaires": "Lundi, mercredi et jeudi de 9h30 à 12h et de 14h à 18h ; mardi de 14h à 18h ; vendredi, samedi et dimanche de 9h30 à 18h sans interruption (site de la cueillette, relevé le 5 octobre 2026 ; horaires de saison).",
+    "produits": [
+      "Fruits à cueillir",
+      "Légumes à cueillir",
+      "Pommes (récolte ouverte fin septembre 2026)",
+      "Fleurs à couper"
+    ],
+    "description": "Cueillette en libre-service à l'entrée de Férin, à 4 km au sud de Douai : on prend une brouette et l'on récolte soi-même, au fil du calendrier que la ferme publie, parmi une soixantaine de variétés de légumes, de fruits et de fleurs selon l'office de tourisme. Membre du réseau de cueillettes Chapeau de Paille ; pas de certification biologique au registre. Les horaires changent avec la saison : consulter le site avant de venir. La Base Adresse Nationale ne connaît la route qu'à la voie. Photo : un panier de légumes de la cueillette, recadrée — fiche de l'office de tourisme du Douaisis.",
+    "telephone": "06 95 16 31 20",
+    "site_web": "https://www.cueillettedeferin.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20F%C3%A9rin%2C%20route%20de%20Dechy%2C%2059169%20F%C3%A9rin",
+    "image_url": "/images/marchands/cueillette-de-ferin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-vanneaux-roost-warendin",
+    "nom": "Ferme des Vanneaux",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.420519,
+    "lon": 3.109459,
+    "adresse": "326 Rue Jean Jaurès, 59286 Roost-Warendin",
+    "horaires": "Du lundi au vendredi de 8h à 12h30 et de 13h15 à 16h30 (office de tourisme du Douaisis, fiche non datée). La vitrine photographiée en 2018 annonçait d'autres heures, du mardi au samedi : téléphoner avant de se déplacer.",
+    "produits": [
+      "Fruits et légumes cultivés sur place",
+      "Jus de pommes bio",
+      "Plats traiteur à emporter"
+    ],
+    "description": "Boutique d'une ferme maraîchère tenue par une association d'action sociale — l'office de tourisme présente l'achat comme le soutien d'une démarche sociale : les fruits et légumes cultivés sur le site sont vendus dès la récolte, avec le jus des pommes du verger et les plats d'un atelier traiteur. Légumes, pommes et poires sont certifiés en agriculture biologique au registre de l'Agence Bio. À 6 km au nord de la mairie de Douai, dans Douaisis Agglo. Photo : la vitrine de la boutique, recadrée — fiche de l'office de tourisme du Douaisis.",
+    "telephone": "03 27 80 00 77",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20des%20Vanneaux%2C%20326%20rue%20Jean%20Jaur%C3%A8s%2C%2059286%20Roost-Warendin",
+    "image_url": "/images/marchands/ferme-des-vanneaux-roost-warendin.jpg",
+    "a_confirmer": true
   }
 ]
