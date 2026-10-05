@@ -28176,5 +28176,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=47%20Boulevard%20du%20Grand%20Pr%C3%A9%20des%20Bordes%2C%2058000%20Nevers",
     "image_url": "/images/marchands/biocoop-nevers.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "les-vergers-de-maubec-montelimar",
+    "nom": "Les Vergers de Maubec",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.551719,
+    "lon": 4.768689,
+    "adresse": "Rue Candy, 26200 Montélimar",
+    "horaires": "Stand saisonnier, d'avril à la fin de la saison des fruits (mi-septembre à début octobre) : en avril, lundi, mercredi et vendredi à partir de 10h30 jusqu'à épuisement ; en mai, du lundi au samedi de 9h30 à 12h30 et de 15h30 à 19h ; début juin, du lundi au samedi de 9h30 à 19h ; de fin juin à mi-septembre, du lundi au samedi de 8h30 à 19h ; jours fériés de 9h à 13h. Fermé le dimanche et hors saison : l'exploitation a annoncé la fermeture du stand pour 2026 le 1er octobre.",
+    "produits": [
+      "Fraises, cerises et abricots",
+      "Pêches et nectarines",
+      "Melons, pastèques et grenades",
+      "Légumes d'été (tomates, courgettes, aubergines, poivrons)",
+      "Nectars et jus de fruits",
+      "Confitures et coulis de tomate"
+    ],
+    "description": "Stand de vente directe d'une exploitation fruitière de 22 hectares du plateau de Bondonneaux, à l'est de Montélimar, installé rue Candy à côté du parking du supermarché de la route de Dieulefit : l'exploitation y vend ses fruits et légumes cueillis à maturité et ses nectars, jus et confitures. Certification biologique engagée au registre de l'Agence Bio pour les fruits, les légumes et les jus. Le stand n'ouvre qu'à la belle saison et ses heures changent au fil des récoltes, d'où la mention à confirmer : téléphoner avant de se déplacer. Photo : l'étal du stand, publiée par l'exploitation.",
+    "telephone": "04 75 01 47 90",
+    "site_web": "https://www.lesvergersdemaubec.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Candy%2C%2026200%20Mont%C3%A9limar",
+    "image_url": "/images/marchands/les-vergers-de-maubec-montelimar.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fraicheur-paysanne-montelimar",
+    "nom": "Fraîcheur Paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.531425,
+    "lon": 4.736705,
+    "adresse": "130 route de Châteauneuf, 26200 Montélimar",
+    "horaires": "Du mercredi au vendredi de 10h à 19h sans interruption, samedi de 10h à 18h, d'après l'annuaire national des magasins de producteurs ; ni l'agglomération ni le registre ne publient d'heures, téléphoner avant de se déplacer.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes de bœuf, veau, agneau et porc",
+      "Volailles et charcuterie",
+      "Fromages, yaourts et lait de vache frais",
+      "Vins et clairette",
+      "Miel, conserves de légumes et plats cuisinés"
+    ],
+    "description": "Premier magasin de producteurs de Montélimar, ouvert en décembre 2009 au sud de la ville : d'après Montélimar Agglomération, une cinquantaine d'agriculteurs locaux, en bio ou non, y déposent des produits issus de leurs fermes et transformés par leurs soins, et la vente est assurée par un agriculteur. Société active au registre des entreprises à cette adresse. Les heures ne viennent que d'un annuaire, d'où la mention à confirmer. Photo : nectarines des Vergers de Maubec, arboriculteur de Montélimar (lesvergersdemaubec.fr) ; elle ne montre pas le magasin.",
+    "telephone": "04 75 52 32 16",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=130%20route%20de%20Ch%C3%A2teauneuf%2C%2026200%20Mont%C3%A9limar",
+    "image_url": "/images/marchands/fraicheur-paysanne-montelimar.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-montelibio-montelimar",
+    "nom": "Biocoop Montélibio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.540052,
+    "lon": 4.769146,
+    "adresse": "72 chemin de Redondon, 26200 Montélimar",
+    "horaires": "Du lundi au jeudi de 9h à 12h30 et de 14h30 à 19h, vendredi et samedi de 9h à 19h sans interruption ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Vrac alimentaire (céréales, épices, huiles)",
+      "Pain et produits laitiers",
+      "Œufs",
+      "Cave à vins et bières artisanales",
+      "Épicerie bio"
+    ],
+    "description": "Magasin bio coopératif du centre commercial de Maubec, à l'est de Montélimar, avec un rayon vrac et une cave de vins et de bières artisanales. Certification biologique engagée depuis 2021 au registre de l'Agence Bio pour le commerce de détail. Photo : nectarines des Vergers de Maubec, arboriculteur bio de Montélimar (lesvergersdemaubec.fr) ; elle ne montre pas le magasin.",
+    "telephone": "04 75 49 71 55",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=72%20chemin%20de%20Redondon%2C%2026200%20Mont%C3%A9limar",
+    "image_url": "/images/marchands/biocoop-montelibio-montelimar.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "mybioshop-montelimar",
+    "nom": "MyBioShop Montélimar",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.53876,
+    "lon": 4.746172,
+    "adresse": "164 route de Marseille, 26200 Montélimar",
+    "horaires": "Du lundi au samedi de 9h à 19h sans interruption ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio",
+      "Pain et pâtisseries",
+      "Produits laitiers et œufs",
+      "Café, thé et épices",
+      "Confiseries",
+      "Épicerie bio"
+    ],
+    "description": "Magasin bio de la ZAC du Soleil Levant, sur la route de Marseille au sud de Montélimar, membre d'une enseigne d'une vingtaine de magasins bio qui dit privilégier les magasins de proximité et le lien avec les petits producteurs. Certification biologique engagée depuis 2024 au registre de l'Agence Bio pour le commerce de détail. Photo : abricotier en fleurs des Vergers de Maubec, arboriculteur bio de Montélimar (lesvergersdemaubec.fr) ; elle ne montre pas le magasin.",
+    "telephone": "04 75 49 84 06",
+    "site_web": "https://mybioshop.fr/montelimar",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=164%20route%20de%20Marseille%2C%2026200%20Mont%C3%A9limar",
+    "image_url": "/images/marchands/mybioshop-montelimar.jpg",
+    "a_confirmer": true
   }
 ]

@@ -5086,9 +5086,36 @@ prioritaires en cas de conflit.
      n'a pas pu ouvrir, n'est pas une heure lue : elle ne s'écrit pas. **Déblocage** de la réserve : des heures publiées par le
      magasin, ou par l'office redevenu lisible.
 
+416. **Des conditions d'utilisation qui interdisent d'« utiliser » les contenus du site « à une autre fin que celle de leur
+     lecture » ferment le site comme source, faits compris.** Le 5 octobre 2026 (cent trente-cinquième passe), les conditions
+     générales d'un réseau régional de magasins bio, qui a un magasin à Montélimar, font s'engager le visiteur à ne pas
+     « utiliser, reproduire ou représenter » les contenus, « protégés ou non », à une autre fin que leur lecture par un robot
+     ou un navigateur ; son `robots.txt` n'exclut personne et les deux agents sont servis. Ce n'est pas la clause contre les
+     requêtes automatisées des règles 333 et 414 — la lecture par un robot est admise en toutes lettres —, mais recopier un
+     horaire dans une fiche est bien un autre usage que la lecture. **Tranché ainsi** : le site n'est une source ni pour
+     les faits ni pour l'image, `site_web` n'est pas inscrit, et le magasin part en pistes tant qu'aucune autre autorité
+     lisible ne porte ses heures. **Déblocage** : les heures publiées par la commune, l'office ou un site propre au magasin.
+
+417. **Un magasin dont une collectivité atteste l'existence, l'adresse, le fixe et les produits, et dont seules les heures
+     viennent d'un annuaire spécialisé, se publie avec ces heures attribuées à l'annuaire.** Le même jour, le magasin de
+     producteurs de la route de Châteauneuf, à Montélimar, est actif au registre et décrit par un article de l'agglomération
+     (adresse, fixe, produits, fonctionnement) ; son propre site répond 403 à tout agent (règle 237), l'office refuse l'agent
+     nommé (règle 257), et ses jours et heures ne se lisent que dans l'annuaire national des magasins de producteurs, dont le
+     texte est rédigé à la première personne par le magasin. La règle 192 fait attendre la fiche dont « aucune source ne
+     publie de jour ni d'heure » ; la règle 9 laisse déjà reprendre l'heure d'un annuaire tiers en l'attribuant. **Tranché
+     ainsi** : la fiche part avec les heures de l'annuaire, nommé dans le champ `horaires`, l'invitation à téléphoner et le
+     fixe publié par la collectivité, en `a_confirmer`. Un commerce que seuls des annuaires généralistes connaissent, sans
+     autorité ni site propre, reste sous la règle 192. **Déblocage** de la réserve : des heures publiées par le magasin ou
+     par une autorité lisible.
+
 ## Marchands à confirmer
 
-933 fiches sur 1063 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+937 fiches sur 1067 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Vergers de Maubec**, **Fraîcheur Paysanne**, **Biocoop Montélibio** et **MyBioShop Montélimar** (Montélimar) (passe
+  du 5 octobre 2026, cent trente-cinquième, règles 1, 210, 231, 296, 312, 316, 377, 412, 416 et 417) : le stand du verger est
+  saisonnier, ses heures changent avec les récoltes et il est fermé depuis le 1er octobre ; les heures du magasin de
+  producteurs ne viennent que d'un annuaire ; les trois magasins portent une photographie thématique du verger, qui ne
+  montre pas leur lieu.
 - **Le Potager d'ici**, le **Marché Carnot**, le **Marché de la place de la Résistance**, le **Marché de la Grande-Pâture**
   et **Biocoop Nevers** (Nevers) (passe du 5 octobre 2026, cent trente-quatrième, règles 1, 5, 176, 231, 312, 377 et 412) :
   la vente du maraîcher est annoncée semaine après semaine sur son site (mardi 15h-18h à la dernière lecture) ; la Ville
@@ -12615,6 +12642,102 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trente-cinquième) : Montélimar (Drôme), quatre fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 067 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 063 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,76, Oise 8,79, Pas-de-Calais 7,48, Landes 6,68,
+Eure-et-Loir 6,68, Calvados 5,94, Loiret 5,66, Ain 5,47, Lot-et-Garonne 5,14, Loir-et-Cher 5,06, Aube 4,79, Somme 4,72,
+Mayenne 4,71, Cher 4,60, Jura 3,98 et Haute-Saône 3,59, tous épuisés (règle 265, état repris du récit de la passe précédente) ;
+**Drôme (26) 3,0813**, premier département ouvert, en Auvergne-Rhône-Alpes, cinq fiches, toutes à Valence. La passe précédente
+visait la Bourgogne-Franche-Comté : la réserve de la règle 41.c ne joue pas. `git fetch` refait avant l'écriture : `origin/main`
+n'a pas bougé (règle 241). **Après la passe**, sur 1 067 fiches : Drôme −0,8883 (9 fiches) ; Aisne 3,0984, Val-de-Marne 3,0808,
+Loire-Atlantique 3,0191, Gers 2,9811, Yvelines 2,9807. La prochaine passe ne peut pas viser Auvergne-Rhône-Alpes : l'Aisne est
+le premier département à lire.
+
+**Commune calculée (règle 41.d) : Montélimar** (40 595, Montélimar Agglomération), la plus peuplée du département sans aucune
+fiche ; elle fait la passe à elle seule, à quatre fiches (règle 316). Contrôle à deux agents (règle 257) : la Ville,
+l'agglomération, le verger, les deux magasins bio publiés et l'annuaire des magasins de producteurs servent l'un et l'autre ;
+**l'office de tourisme de Montélimar, l'agence touristique du Département et trois nougatiers répondent 403 à l'agent nommé
+et 200 à l'agent par défaut : non consultés**. Le registre de l'Agence Bio du département (3 265 opérateurs) a été lu en
+entier et filtré sur Montélimar (70 opérateurs) et sur les vingt-six autres communes de l'agglomération.
+
+- **Faits.** La page « Les marchés de Montélimar » de la Ville donne quatre jours et leurs places sans une heure ni un
+  produit ; la page « Les marchés dans l'Agglo » de l'agglomération ajoute la demi-journée, avec une seule phrase de
+  produits pour tous les marchés du territoire (règle 197) : aucun marché publié. La carte interactive des producteurs de
+  l'agglomération est une application cartographique qui ne s'est pas chargée pendant la passe : non lue (règle 237).
+- **Images.** Les mentions légales de la Ville interdisent la reproduction des « représentations iconographiques et
+  photographiques », celles de l'agglomération réservent les mêmes et ne permettent que la consultation privée (règles 231
+  et 296) ; l'enseigne de la route de Marseille n'accorde qu'un « usage privé » (règle 296) ; les conditions du réseau du
+  magasin coopératif rangent « les photographies, les images » dans sa propriété exclusive (règle 246, lue avec prudence).
+  Le site du verger n'a ni mentions légales ni clause sur les images — son pied de page porte un « © » général qui ne nomme
+  aucune image (règles 231 et 263) — et son `robots.txt` n'exclut personne : il fournit la photographie du lieu illustré
+  pour sa fiche et la photographie thématique des trois autres, un fichier distinct par fiche (règles 312 et 412). Une
+  photographie de salle de formation, qui montre une personne, n'est pas reprise. Toutes les images sont réduites à
+  1 280 px au plus, aucune agrandie, puis réencodées depuis leurs seuls pixels (règle 235) et relues après écriture.
+
+Les quatre fiches, toutes `a_confirmer` :
+
+1. **Les Vergers de Maubec** — société active au registre, certification biologique engagée depuis 2001 avec productions
+   déclarées (fruits, légumes, jus : pilier `environnement`). Stand de vente directe rue Candy, à côté du parking du
+   supermarché de la route de Dieulefit : la Base Adresse Nationale ne connaît que la rue (0,96), à 80 m du point que le
+   registre donne au supermarché. Heures par période lues sur la page « Heures et jours d'ouverture » du site ; fixe de
+   l'exploitation publié, le portable du stand n'est pas repris. Photographie : l'étal du stand.
+2. **Fraîcheur Paysanne** — société active au registre à l'adresse (0,97), enseigne déclarée ; adresse, fixe, produits et
+   fonctionnement dans un article de l'agglomération ; heures de l'annuaire national des magasins de producteurs seul
+   (règle 417). Aucun lien : son site répond 403 à tout agent. Photographie thématique : une caisse de nectarines.
+3. **Biocoop Montélibio** — société active au registre à l'adresse (0,97), enseigne déclarée, certification engagée depuis
+   2021 pour le commerce de détail (règle 210 remplie) ; heures et fixe lus sur le site propre au magasin, dont le
+   `robots.txt` n'exclut aucun agent d'IA et qui n'est pas celui du réseau (règle 149 sans objet). Sa page d'accueil affiche
+   des avis de clients : pas de lien (règle 377). Photographie thématique : un plateau de nectarines.
+4. **MyBioShop Montélimar** — société active au registre à l'adresse (0,97), certification engagée depuis 2024 pour le
+   commerce de détail (règle 210 remplie) ; heures, adresse et fixe sur la page du magasin, qui ne nomme personne : lien
+   publié. Photographie thématique : un abricotier en fleurs.
+
+**Pourquoi quatre et pas cinq (règle 316).** Montélimar ne rend aucun cinquième point aux faits entiers : les marchés
+relèvent de la règle 197, un troisième réseau de magasins bio de la règle 416, une boutique bio de la place du Marché de la
+règle 192, les nougatiers de la règle 257. Hors de la commune, il faudrait une image de la commune elle-même (la règle 312
+ne prête pas une photographie de Montélimar à une voisine) : au registre bio, aucun producteur d'Ancône, de
+Montboucher-sur-Jabron, de Savasse, d'Espeluche, d'Allan ni de Châteauneuf-du-Rhône n'a de site propre hors exploitations
+inscrites sous un nom de personne. **Déblocage** du cinquième : la carte des producteurs de l'agglomération redevenue
+lisible, ou une page de la Ville qui écrive les heures et les étals d'un marché.
+
+**Contradictions** : le site du verger écrit le même 1er octobre 2026 que son stand est « ouvert » (page de vente directe)
+et « maintenant fermé » (page d'actualités), les deux pages listant la saison comme finie ; la fiche écrit la fermeture
+(règles 5 et 405), sans date de réouverture, et renvoie au téléphone. L'annuaire des magasins de producteurs date
+l'ouverture du magasin de la route de Châteauneuf de décembre 2010, l'agglomération de décembre 2009 : la collectivité fait
+foi.
+
+**Pistes non publiées (Montélimar et Montélimar Agglomération)** — lignes anonymes :
+
+- Montélimar, marchés du mercredi et du samedi (place du Marché), du jeudi (place Saint-James), du vendredi (Pracomtal),
+  du samedi d'été (place des Clercs) : jours et places chez la Ville, demi-journée chez l'agglomération, qui ajoute la
+  place de l'Europe le samedi ; ni heure ni famille de produits propre à un marché (règles 192 et 197). **Déblocage** :
+  une page par marché, ou l'office redevenu lisible.
+- Montélimar, magasin d'un réseau régional de magasins bio, zone de Gournier : société active, certification engagée ;
+  conditions d'utilisation fermées (règle 416).
+- Montélimar, boutique bio indépendante de la place du Marché : société active au registre à l'adresse ; aucun site
+  propre, heures connues des seuls annuaires généralistes (règles 192 et 417).
+- Montélimar, second magasin de producteurs, route de Valence : cessé au registre, aucun établissement ouvert ; il figure
+  encore dans l'annuaire des magasins de producteurs. Ne pas le publier.
+- Montélimar, nougatiers et confiseurs : trois fabricants avec boutique refusent l'agent nommé (règle 257), un quatrième
+  n'a pas de site qui réponde (règle 237) ; les maisons qui portent un nom de famille n'ont pas été instruites.
+- Montélimar, primeur d'une chaîne régionale certifié pour la revente de fruits et légumes : commerce de détail sans lien
+  avec un producteur, hors sujet ; torréfacteur, boulangeries certifiées, grossistes et grandes surfaces du registre : hors
+  sujet ou exclus par `MODERATION.md`.
+- Saint-Gervais-sur-Roubion, caveau d'une cave coopérative : société active, heures par saison et fixe sur son site ;
+  photographies réservées par un « © » posé sous l'intitulé « Illustrations et photos » (règle 291), aucune image permise
+  de la commune. **Déblocage** : une photographie permise de Saint-Gervais-sur-Roubion.
+- Condillac, producteur de spiruline : `robots.txt` qui exclut nommément les agents d'IA (règle 77) ; non consulté.
+- Agglomération, marchés de Saulce-sur-Rhône, Cléon-d'Andran, Marsanne, La Coucourde, Saint-Gervais-sur-Roubion,
+  Saint-Marcel-lès-Sauzet, La Touche et Puy-Saint-Martin : cités par l'agglomération seule ; sites communaux non lus.
+- Écartés pour doute sur une personne, sans réouverture : à Montélimar, deux maraîchages et un domaine oléicole à site
+  propre, une ferme et une vente à la ferme dont l'enseigne porte un prénom, et les autres producteurs de Montélimar et de
+  l'agglomération inscrits au registre bio sous un nom de personne. Aucun nom n'est repris.
+
+**Point d'arrêt de la Drôme : Montélimar**, qui a fait la passe. La commune suivante est **Romans-sur-Isère** (33 464), puis
+Bourg-lès-Valence (19 992).
 
 ### Passe du 5 octobre 2026 (cent trente-quatrième) : Nevers (Nièvre), cinq fiches
 
