@@ -27798,5 +27798,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L'Odyss%C3%A9e%20Bio%2C%206%20Avenue%20du%20Bataillon%20de%20la%20Garde%2C%2021200%20Beaune",
     "image_url": "/images/marchands/l-odyssee-bio-beaune.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "paysans-de-nos-collines-grasse",
+    "nom": "Paysans de nos collines",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.638402,
+    "lon": 6.941215,
+    "adresse": "88 Boulevard Emmanuel Rouquier, Le Plan de Grasse, 06130 Grasse",
+    "horaires": "Du mardi au dimanche, selon le site du magasin, qui ne publie pas d'heures : se renseigner avant de se déplacer.",
+    "produits": [
+      "Légumes de saison de l'exploitation : tomates, mescluns, poivrons, aubergines, concombres, poireaux, oignons, choux",
+      "Fruits de saison",
+      "Produits d'agriculteurs locaux partenaires",
+      "Viandes en arrivage : agneau, porc, canard"
+    ],
+    "description": "Point de vente directe d'un maraîchage du Plan de Grasse, qui dit cultiver environ quatre-vingts variétés de légumes et de fruits sur quatre hectares à Grasse et à Cannes, en bio et en raisonné, et compléter son étal avec les produits d'agriculteurs locaux. Société active au registre des entreprises, qui l'inscrit au n° 84 du boulevard quand le magasin écrit 88 ; engagée au registre de l'Agence Bio. Photo : une cagette de légumes, publiée par le magasin sur son site. Fiche à confirmer faute d'heures publiées.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Paysans%20de%20nos%20collines%2C%2088%20Boulevard%20Emmanuel%20Rouquier%2C%2006130%20Grasse",
+    "image_url": "/images/marchands/paysans-de-nos-collines-grasse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-aux-aires-grasse",
+    "nom": "Marché de la place aux Aires",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.659624,
+    "lon": 6.923023,
+    "adresse": "Place aux Aires, 06130 Grasse",
+    "horaires": "Tous les samedis matin, de 8h à 13h (page « Foires et Marchés » de la Ville de Grasse, mise à jour en octobre 2025).",
+    "produits": [
+      "Stands alimentaires",
+      "Fruits et légumes de saison",
+      "Fromages",
+      "Épices",
+      "Produits du terroir",
+      "Fleurs"
+    ],
+    "description": "Le marché alimentaire du samedi, sur la place aux Aires, dans le centre ancien de Grasse ; la Ville le classe parmi ses marchés à « stands alimentaires » et décrit pour l'ensemble de ses marchés des producteurs locaux et des artisans. Le même matin, deux autres marchés se tiennent place Frédéric-Mistral et place aux Herbes. Photo d'ambiance, qui ne montre pas le marché : des carottes en botte, publiées par un magasin de producteurs du Plan de Grasse sur son site. Fiche à confirmer pour cette raison.",
+    "site_web": "https://www.ville-grasse.fr/foires-et-marches-grasse/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20aux%20Aires%2C%2006130%20Grasse",
+    "image_url": "/images/marchands/marche-place-aux-aires-grasse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maison-duplanteur-grasse",
+    "nom": "Maison Duplanteur — manufacture de chocolat",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.659017,
+    "lon": 6.924102,
+    "adresse": "22 Rue Marcel Journet, 06130 Grasse",
+    "horaires": "Du mardi au samedi, de 9h30 à 18h30 (site de la manufacture, consulté le 5 octobre 2026).",
+    "produits": [
+      "Tablettes de chocolat noir, au lait et blanc, de la fève à la tablette",
+      "Tablettes aux fleurs : rose centifolia, violette",
+      "Pâtes de fleurs de Grasse à la pulpe de cacao",
+      "Éclats de chocolat",
+      "Coffrets de petits chocolats",
+      "Infusion de cacao bio"
+    ],
+    "description": "Chocolaterie artisanale installée depuis 2015 dans le centre historique de Grasse, qui fabrique son chocolat sur place à partir de la fève et l'associe aux fleurs du pays grassois ; la manufacture se visite. Société active au registre des entreprises à cette adresse, engagée au registre de l'Agence Bio. Photo d'ambiance, qui ne montre ni la boutique ni ses produits : des tomates fraîchement cueillies, recadrées, publiées par un magasin de producteurs du Plan de Grasse sur son site. Fiche à confirmer pour cette raison.",
+    "telephone": "09 67 56 46 69",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Duplanteur%2C%2022%20Rue%20Marcel%20Journet%2C%2006130%20Grasse",
+    "image_url": "/images/marchands/maison-duplanteur-grasse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "huilerie-sainte-anne-grasse",
+    "nom": "Huilerie Sainte-Anne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.645409,
+    "lon": 6.902768,
+    "adresse": "138 Route de Draguignan, 06130 Grasse",
+    "horaires": "Moulin et boutique : du lundi au samedi, de 9h30 à 12h30 et de 13h30 à 18h. Visite guidée du moulin et dégustation sur rendez-vous, toute l'année (site de l'huilerie, consulté le 5 octobre 2026).",
+    "produits": [
+      "Huiles d'olive traditionnelles du moulin",
+      "Huiles d'olive infusées",
+      "Trituration des olives apportées par les particuliers, en saison",
+      "Épicerie salée et sucrée de produits locaux et artisanaux",
+      "Ustensiles en bois d'olivier"
+    ],
+    "description": "Moulin à huile de Grasse, en activité depuis 1706 selon l'huilerie, qui presse ses propres huiles d'olive — neuf traditionnelles et huit infusées — et triture, de l'automne à l'hiver, les olives que lui apportent les particuliers ; la boutique vend aussi une sélection de produits locaux. Société active au registre des entreprises à cette adresse, engagée au registre de l'Agence Bio. Photo d'ambiance, qui ne montre pas le moulin : une serre maraîchère, publiée par un magasin de producteurs du Plan de Grasse sur son site. Fiche à confirmer pour cette raison.",
+    "telephone": "04 93 70 21 42",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Huilerie%20Sainte-Anne%2C%20138%20Route%20de%20Draguignan%2C%2006130%20Grasse",
+    "image_url": "/images/marchands/huilerie-sainte-anne-grasse.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-les-pois-bio-grasse",
+    "nom": "Biocoop Les Pois Bio",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.654445,
+    "lon": 6.932746,
+    "adresse": "47 Route de la Marigarde, 06130 Grasse",
+    "horaires": "Lundi de 12h à 18h ; mardi de 9h à 13h et de 14h à 19h ; du mercredi au samedi de 9h à 19h. Fermé le dimanche et les jours fériés (horaires structurés du site du magasin, consulté le 5 octobre 2026 ; un encart du même site écrit le mardi sans coupure).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Produits en vrac",
+      "Produits d'une bergerie des environs",
+      "Pains et pâtisseries de boulangeries bio locales",
+      "Agrumes d'un producteur local",
+      "Bières d'une brasserie artisanale"
+    ],
+    "description": "Magasin bio du réseau Biocoop, route de la Marigarde, qui dit choisir ses fruits et légumes uniquement de saison et auprès de producteurs locaux aussi souvent que possible ; son site présente un à un ses fournisseurs des environs — une bergerie, deux boulangeries, une brasserie, un producteur d'agrumes. Société active au registre des entreprises à cette adresse ; la Base Adresse Nationale ignore le numéro, le point est celui que publie le magasin. Photo d'ambiance, qui ne montre pas le magasin : un rang de choux en plein champ, publié par un magasin de producteurs du Plan de Grasse sur son site. Fiche à confirmer pour cette raison.",
+    "telephone": "04 22 23 66 22",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Les%20Pois%20Bio%2C%2047%20Route%20de%20la%20Marigarde%2C%2006130%20Grasse",
+    "image_url": "/images/marchands/biocoop-les-pois-bio-grasse.jpg",
+    "a_confirmer": true
   }
 ]

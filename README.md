@@ -5075,9 +5075,27 @@ prioritaires en cas de conflit.
      (commune, office, site propre du magasin). Les mentions légales se lisent avant toute page de contenu (règle 402) : ici la
      page du magasin avait été lue d'abord, et rien n'en est repris.
 
+415. **Un commerce qui publie lui-même ses jours d'ouverture sans ses heures se publie avec ses jours, comme la boutique que
+     l'office fiche sans heures (règle 384).** Le 5 octobre 2026 (cent trente-deuxième passe), un magasin de producteurs de
+     Grasse écrit sur son propre site « du mardi au dimanche » et rien de plus ; l'office de tourisme, qui donnerait des heures,
+     n'ouvre aucune connexion pendant la passe (règle 297). La règle 192 fait attendre la fiche « à qui il ne manque que ses
+     horaires » ; la règle 384 a déjà dit qu'elle ne ferme que la fiche qui n'a ni jour ni heure, mais elle ne parlait que de
+     la fiche datée d'un office. **Tranché ainsi** : la voix de l'intéressé vaut au moins celle de l'office ; la fiche part
+     avec ses jours, son champ `horaires` dit que les heures ne sont pas publiées et invite à se renseigner avant de se
+     déplacer, et elle reste `a_confirmer`. Une heure lue dans le résumé d'un moteur de recherche, pour une page que la passe
+     n'a pas pu ouvrir, n'est pas une heure lue : elle ne s'écrit pas. **Déblocage** de la réserve : des heures publiées par le
+     magasin, ou par l'office redevenu lisible.
+
 ## Marchands à confirmer
 
-918 fiches sur 1048 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+923 fiches sur 1053 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Paysans de nos collines**, le **Marché de la place aux Aires**, **Maison Duplanteur — manufacture de chocolat**,
+  l'**Huilerie Sainte-Anne** et **Biocoop Les Pois Bio** (Grasse) (passe du 5 octobre 2026, cent trente-deuxième, règles 1,
+  312, 377, 384, 412 et 415) : le magasin de producteurs ne publie que ses jours d'ouverture, sans heures, et le registre
+  l'inscrit au n° 84 du boulevard quand il écrit 88 ; les quatre autres ont des faits entiers mais une photographie thématique
+  prise sur le site de ce magasin ; le mardi du magasin bio est écrit avec et sans coupure sur son propre site. **Déblocage** :
+  des heures publiées par le magasin de producteurs, et pour chacune des autres une photographie du lieu publiée par une source
+  qui n'en interdit pas la reprise.
 - le **Caveau Nuiton-Beaunoy — Cave des Hautes-Côtes**, **Biocoop Les Maladières** et **L'Odyssée Bio** (Beaune) (passe du
   5 octobre 2026, cent trente et unième, règles 1, 231, 246, 411 et 413) : faits entiers, mais chacune n'a qu'une photographie
   thématique de la commune, prise sur le site de la Ville ; **déblocage** : une photographie du lieu publiée par une source qui
@@ -12584,6 +12602,109 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent trente-deuxième) : Grasse (Alpes-Maritimes), cinq fiches ; Cagnes-sur-Mer sans zone ; règle 415
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 053 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 048 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,48, Oise 8,61, Pas-de-Calais 7,16, Landes 6,59,
+Eure-et-Loir 6,58, Calvados 5,78, Loiret 5,51, Ain 5,33, Lot-et-Garonne 5,07, Loir-et-Cher 4,99, Aube 4,72, Mayenne 4,64,
+Somme 4,59, Cher 4,54, Jura 3,92 et Haute-Saône 3,54, tous épuisés (règle 265) ; **Alpes-Maritimes (06) 3,1506**, premier
+département ouvert, en Provence-Alpes-Côte d'Azur, quatorze fiches à Nice, Antibes, Vallauris et Cannes. La passe précédente
+visait la Bourgogne-Franche-Comté : la réserve de la règle 41.c ne joue pas. `git fetch` refait avant l'écriture :
+`origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 053 fiches : Alpes-Maritimes −1,7676 (19 fiches) ;
+Haute-Savoie 3,1510, Nièvre 3,0759, Drôme 3,0053, Aisne 2,9921. La prochaine passe ne peut pas viser
+Provence-Alpes-Côte d'Azur.
+
+**Descente des Alpes-Maritimes, reprise après Cannes (règles 41.d, 96 et 127)**, contrôle à deux agents (règle 257). Le
+registre de l'Agence Bio du département (1 464 opérateurs) a été lu en entier et filtré par commune.
+
+1. **Cagnes-sur-Mer** (53 354, Métropole Nice Côte d'Azur) — **aucune fiche entière, image comprise.** La Ville sert les deux
+   agents ; ses mentions légales ouvrent ses textes (source à citer) et soumettent « les photos, images fixes et animées » à
+   une autorisation préalable (règle 231) ; ses images sont en outre servies par un réseau de diffusion qui répond 403 au seul
+   agent nommé (règles 345 et 347). Le site de tourisme est édité par la Ville, sous les mêmes mentions. Les mentions de la
+   Métropole ne permettent que l'usage privé (règle 296). Le comité régional illustre la halle aux poissons d'une
+   photographie créditée à la Ville, sur une fiche tenue par l'office métropolitain, lequel exclut le robot (règles 77 et
+   351). Le magasin bio de la commune a un site propre dont les conditions nomment les photographies (règle 395). Deux sites
+   de la commune — un chocolatier et une association du quartier du port — sont hébergés chez un éditeur dont le serveur
+   d'images répond 403 aux deux agents sur son `robots.txt` (règles 256 et 343) : fermés comme sources d'image. Le site d'une
+   association de pêche locale répond 403 au seul agent nommé (règle 257). **Trois fiches aux faits entiers restent en
+   pistes**, voir plus bas.
+2. **Grasse** (50 970, Communauté d'agglomération du Pays de Grasse) — **fait la passe, cinq fiches dans la commune.** La
+   Ville sert les deux agents (pas de `robots.txt`, règle 343) ; ses mentions légales réservent les « représentations
+   iconographiques et photographiques » (règle 231). L'agglomération refuse l'agent par défaut et sert l'agent nommé (règle
+   403) ; ses mentions nomment les photos et ne permettent que l'usage privé. L'office de tourisme a servi sa page d'accueil
+   puis n'a plus ouvert aucune connexion (règle 297) : non consulté. **Image, règles 312 et 412** : un magasin de producteurs
+   du Plan de Grasse publie sur son propre domaine des photographies de ses champs et de ses légumes, sans mentions légales,
+   avec un simple « Tous droits réservés » en pied de page qui ne nomme aucune image (règle 231), `robots.txt` sans
+   exclusion ; cinq fichiers distincts, sans personne, dont un recadré sous une silhouette (règle 46), réencodés depuis leurs
+   seuls pixels (règle 235), aucun agrandi. Un sixième fichier du même site porte un nom de personne dans son nom : non repris
+   (règle 339). L'habillage du gabarit n'est pas repris non plus (règle 360).
+
+Les cinq fiches :
+
+1. **Paysans de nos collines** — `a_confirmer`, fiche au lieu illustré (ses propres légumes). Société active au registre,
+   engagée au registre de l'Agence Bio ; le magasin écrit le n° 88 du boulevard, le registre le n° 84, à soixante mètres
+   (la fiche le dit). Jours d'ouverture sans heures : **règle 415 (nouvelle)**. La page d'accueil nomme l'exploitant : pas
+   de lien (règle 376) ; le site ne publie qu'un portable, et le résumé d'un moteur de recherche en prête un autre à
+   l'office : aucun n'est inscrit (règle 143).
+2. **Marché de la place aux Aires** — `a_confirmer` pour la seule image. Tous les samedis 8h-13h, « stands alimentaires »
+   (page « Foires et Marchés » de la Ville, modifiée le 21 octobre 2025 ; règle 221). Point : la place, à la Base Adresse
+   Nationale. Les autres marchés de la Ville (mercredi au cours, samedi place Frédéric-Mistral et place aux Herbes, mensuels
+   du Plan et de Saint-Jacques) ne sont pas fichés : une seule place sur cinq revient aux marchés (règle 167).
+3. **Maison Duplanteur — manufacture de chocolat** — `a_confirmer` pour la seule image. Artisan qui transforme et vend
+   (règle 73) ; société active au registre à l'adresse, engagée au registre de l'Agence Bio (sans production déclarée : pas de
+   pilier `environnement`, règle 210) ; heures et fixe sur son site. Ses mentions légales nomment les images (règle 231) ;
+   sa page d'accueil nomme un chef : pas de lien (règle 377).
+4. **Huilerie Sainte-Anne** — `a_confirmer` pour la seule image. Société active au registre à l'adresse, enseigne déclarée,
+   engagée au registre de l'Agence Bio ; heures du moulin et de la boutique, et fixe, sur son site, hébergé chez l'éditeur
+   dont le serveur d'images est illisible (règle 256). Sa page d'accueil signe des avis de clients : pas de lien (règle 377).
+5. **Biocoop Les Pois Bio** — `a_confirmer`. Société active au registre à l'adresse, enseigne déclarée, certification
+   engagée ; site propre du magasin (le domaine a été rattaché à l'adresse avant lecture, règle 367), `robots.txt` vide ;
+   ses conditions nomment les photographies (règle 395). Heures structurées de la page ; un encart du même site écrit le mardi
+   sans coupure : les données structurées sont publiées, l'écart est dit (règle 5). La Base ignore le n° 47 : point publié
+   par le magasin, à quatre-vingt-dix mètres de celui du registre (règle 63). La page d'accueil nomme un producteur par son
+   nom : pas de lien (règle 377). Les noms de producteurs ne sont repris nulle part.
+
+La commune rend une fiche illustrée par ses propres produits et quatre fiches thématiques adossées au même site, un fichier
+par fiche (règles 191 et 412). **Contradictions** : le numéro de voirie du magasin de producteurs (88 ou 84) et le mardi du
+magasin bio, toutes deux écrites dans les fiches.
+
+**Pistes non publiées (Cagnes-sur-Mer)** — lignes anonymes :
+
+- Cagnes-sur-Mer, halle marchande du centre-ville et marché des producteurs qui l'entoure, zone piétonne (du mardi au
+  dimanche, 7h-13h pour la halle, 8h-12h30 pour les producteurs ; bouchers, poissonniers, fromagers, primeurs, selon la
+  Ville) : faits entiers, une seule fiche (règle 42). **Déblocage** : une photographie permise du lieu ou de la commune.
+- Cagnes-sur-Mer, halle aux poissons du port abri du Cros-de-Cagnes (du mardi au dimanche, 8h30-13h, pêche des bateaux du
+  port, selon la Ville) : faits entiers ; le seul contact publié est la ligne d'une personne nommée, non reprise (règle 269).
+  **Déblocage** : le même.
+- Cagnes-sur-Mer, magasin bio d'un réseau national, avenue Auguste-Renoir : société active au registre, certification
+  engagée, site propre avec ses heures et ses producteurs locaux. **Déblocage** : le même. Ces trois
+  fiches sont désignées pour la reprise (règle 302).
+- Cagnes-sur-Mer, marchés du Cros-de-Cagnes (mardi et jeudi), du centre-ville (mercredi) et de l'Hippodrome (vendredi),
+  8h30-12h30 : aucune famille d'étals écrite, sinon « forain et de producteurs » pour le premier (règle 197).
+- Cagnes-sur-Mer, chocolatier de la place du centre-ville : heures connues des seuls annuaires ; site lisible, images
+  fermées ; non instruit au-delà.
+- Cagnes-sur-Mer, entreprise d'agriculture urbaine inscrite au registre bio : site arrêté en 2017, aucun point de vente à
+  heures publiées (règle 192). Exploitation de paniers de la route de Vence : site injoignable, certification arrêtée en 2024.
+- Écartées pour doute sur une personne, sans réouverture : à Cagnes-sur-Mer, un primeur dont l'enseigne porte un prénom, et
+  les maraîchers et le champignonniste inscrits au registre bio sous un nom de personne. Aucun nom n'est repris.
+
+**Pistes non publiées (Grasse)** — lignes anonymes :
+
+- Grasse, ferme maraîchère, apicole et oléicole du quartier Saint-Antoine, certifiée : son site (lu sous l'agent nommé,
+  règle 403) nomme partout les membres de la famille, ne publie qu'un portable et une messagerie personnelle, et crédite ses
+  images à une personne ; écartée pour doute sur une personne et sur un domicile (règle 325), sans réouverture.
+- Grasse, producteur de spiruline certifié : vente sur place sur appel seulement, aucune heure (règle 192). Atelier de
+  boissons fermentées : site d'une ligne, aucune heure. Boutique en ligne de matériel oléicole : pas un point de vente.
+- Grasse, domaine de plantes à parfum de Plascassier et exploitation en groupement de la route de Plascassier, tous deux
+  avec lieu de vente au registre bio : non instruits, la zone étant faite.
+- Écartés pour doute sur une personne, sans réouverture : les producteurs grassois inscrits au registre bio sous un nom de
+  personne. Aucun nom n'est repris.
+
+**Point d'arrêt des Alpes-Maritimes : Grasse**, qui a fait la passe. Cagnes-sur-Mer (rang 1 de cette reprise) est éprouvée
+et ne se rouvre que par son déblocage : une photographie permise de la commune, qui libère trois fiches désignées. La commune
+suivante est **Le Cannet** (41 938), puis Saint-Laurent-du-Var (32 172).
 
 ### Passe du 5 octobre 2026 (cent trente et unième) : Beaune (Côte-d'Or), quatre fiches ; règles 413 et 414
 
