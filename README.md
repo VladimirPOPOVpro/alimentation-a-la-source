@@ -5018,9 +5018,28 @@ prioritaires en cas de conflit.
      ainsi** : c'est un service de l'État, pas Nominatim ; son point se prend quand le toponyme et la commune concordent et
      qu'un second repère le confirme, et la fiche dit d'où vient le point.
 
+410. **Le classement de la règle 41 se relit depuis son premier rang à chaque passe : un département qui n'est écrit ni
+     épuisé (règle 265) ni fermé (règle 41.c) est ouvert, même si les passes précédentes ne le citaient plus.** Le 5 octobre
+     2026 (cent vingt-huitième passe), le calcul sur 1 032 fiches donne au **Rhône** un déficit de 4,6563 — 24 fiches pour
+     une cible de 28,66 — devant la Haute-Saône (3,49, épuisée) et tous les départements que les passes cent dix-huitième à
+     cent vingt-septième ont ouverts (Sarthe 3,22, Marne 3,17, Nord 3,62, Hérault 3,16, Saône-et-Loire 3,20). Le Rhône n'a
+     jamais été déclaré épuisé : sa descente s'était arrêtée à Givors (21 379 habitants) le 25 septembre, quand la passe de
+     Sainte-Foy-lès-Lyon l'avait fait tomber sous zéro ; la carte a ensuite grandi de deux cent trente fiches sans que
+     personne ne le recompte, et les récits ne citaient plus que le premier département « ouvert » de la passe d'avant.
+     **Tranché ainsi** : le classement se recalcule entier, les départements se lisent dans l'ordre du déficit, et chacun
+     reçoit l'un des trois états — épuisé, fermé par la région de la passe précédente, ou ouvert — sur la foi de ce que le
+     README écrit de lui (« est épuisé », ou un point d'arrêt avec sa commune suivante) ; le premier ouvert fait la passe.
+     Le récit de la passe écrit les départements sautés avant lui, avec leur déficit et leur état, pour que la passe
+     suivante n'hérite pas d'une liste tronquée. Les passes déjà faites ne sont pas défaites : leurs fiches comptent.
+
 ## Marchands à confirmer
 
-908 fiches sur 1032 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+911 fiches sur 1036 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Un jardin qui chante** et la **boutique vigneronne de Vinescence** (Belleville-en-Beaujolais), la **Cave de Fleurie**
+  (passe du 5 octobre 2026, cent vingt-huitième, règles 1, 5, 96, 312 et 410) : la ferme écrit route de la Thouaille et le
+  registre bio route de Champanard, le point est celui de la rue ; la page de la cave Vinescence porte deux jeux d'heures pour
+  la semaine et sa boutique n'a qu'une photographie thématique de la commune ; la Cave de Fleurie n'a qu'une photographie
+  thématique de Fleurie. Le **Domaine de la Madone** (Fleurie) part sans réserve.
 - **Les Orfèvres du Vin** (Charnay-lès-Mâcon) et le **chai de Sennecé de la Cave de Viré** (Mâcon) (passe du 5 octobre 2026,
   cent vingt-septième, règles 1, 96, 203 et 306) : la cave de Charnay n'a qu'une photographie thématique de la commune, et son
   site porte encore un bandeau de maintenance ancien — ses heures sont celles de sa page de contact, que l'annuaire de la
@@ -12510,6 +12529,70 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 5 octobre 2026 (cent vingt-huitième) : Belleville-en-Beaujolais et la Communauté de communes Saône-Beaujolais (Rhône), quatre fiches ; règle 410
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 036 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 032 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,18, Oise 8,42, Pas-de-Calais 6,82, Landes 6,49,
+Eure-et-Loir 6,48, Calvados 5,62, Loiret 5,35, Ain 5,17, Lot-et-Garonne 4,99 et Loir-et-Cher 4,92, tous épuisés (règle 265) ;
+**Rhône (69) 4,6563**, premier département ouvert, en Auvergne-Rhône-Alpes — la dernière région visée est la
+Bourgogne-Franche-Comté (passe de Charnay-lès-Mâcon). Second du classement (règle 248) : la Haute-Garonne (3,0231), **non
+ouverte** puisque le Rhône rend sa zone. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé (règle 241).
+**Après la passe**, sur 1 036 fiches : Rhône 0,7674 (28 fiches). La prochaine passe ne peut pas viser l'Auvergne-Rhône-Alpes.
+
+**Descente du Rhône, reprise à Givors (règles 41.d, 96, 127 et 247)**, contrôle à deux agents (règle 257). Aucune commune
+sautée entre Sainte-Foy-lès-Lyon et Givors (règle 375). Le registre de l'Agence Bio du département (2 435 opérateurs) a été
+lu en entier et filtré par commune.
+
+1. **Givors** (21 379) — la Ville refuse l'agent par défaut et sert l'agent nommé ; ses mentions légales interdisent la
+   reproduction « à usage collectif » sans nommer d'image. Quatre séances de marché sur deux lieux, jours et heures écrits,
+   mais la même formule pour toutes, « produits alimentaires et manufacturés » (règle 197) ; une seule photographie sur la
+   page, celle de la navette du marché. Le magasin bio de réseau du registre n'existe plus à l'annuaire de son enseigne
+   (règle 200). **Zéro fiche entière.**
+2. **Saint-Genis-Laval** (21 212) — trois marchés dont un marché bio du mercredi, jours, heures et lieux écrits ; le
+   paragraphe des mentions légales qui interdit la reproduction nomme les « photographies » (règle 246) et les vignettes de la
+   page sont des portraits. Au registre bio, des artisans et des exploitations sous un nom de personne. **Zéro fiche entière.**
+3. **Saint-Fons** (19 285) — marchés forains décrits par une formule générique ; mentions légales qui réservent nommément
+   les photographies. **Zéro.**
+4. **Écully** (17 944) — mentions légales qui limitent la reproduction à l'usage privé et posent un « © » sur les
+   photographies (règle 246) ; au registre bio, des exploitations sous un nom de personne et des artisans. Commune déjà
+   relevée comme fermée par la passe de Sainte-Foy-lès-Lyon ; ses marchés n'ont pas été relus. **Zéro.**
+   Francheville (15 604) porte déjà une fiche : elle n'est pas dans la descente.
+5. **Belleville-en-Beaujolais** (14 016) — **fait la passe, à quatre points (règle 320).** La Ville et l'office de tourisme
+   ferment nommément leurs photographies ; le site d'une ferme maraîchère de la commune publie une galerie de 96
+   photographies sans aucune clause, hébergeur au `robots.txt` en 404 (règles 312 et 343). Deux fiches entières dans la
+   commune, deux à Fleurie, même intercommunalité au référentiel (règle 219), à 8,9 et 9,8 km de la mairie (règle 96).
+
+Les quatre fiches, toutes dans la Communauté de communes Saône-Beaujolais :
+
+1. **Un jardin qui chante** (Belleville-en-Beaujolais, 1,5 km) — `a_confirmer`. Ferme maraîchère biologique, paniers sur
+   abonnement, retrait le mercredi et le vendredi de 12h à 19h. Société active au registre des entreprises, siège dans une
+   autre commune, et engagée au registre de l'Agence Bio à Belleville. **Contradiction** : route de la Thouaille sur son site,
+   route de Champanard au registre bio ; la fiche publie l'adresse de la ferme, au point de la rue (règles 5 et 10). Le
+   portable est celui que la ferme publie elle-même (règle 143). Sa page d'abonnement nomme des personnes : le lien pointe sur
+   la page d'accueil, qui n'en nomme aucune (règle 383). Photographie de ses buttes de culture, sans personne.
+2. **Vinescence — boutique vigneronne de Belleville-en-Beaujolais** (1,5 km) — `a_confirmer`. Société coopérative active au
+   registre à l'adresse, engagée au registre bio. **Contradiction** dans la page de la cave elle-même : l'encart principal
+   écrit « du lundi au samedi 9h30-12h30 / 14h-18h30 », un autre encart et la version anglaise des heures différentes ; la
+   fiche publie l'encart principal et le dit (règle 5). Ses mentions légales nomment les « photographies » et réservent
+   l'usage privé : photographie thématique de la commune, un paysage du jardin maraîcher, fichier distinct du précédent
+   (règles 191 et 312).
+3. **Domaine de la Madone** (Fleurie, 9,8 km) — fiche entière. Société active au registre à La Madone, engagée au registre
+   bio ; heures saisonnières et fixe sur son site, dont la clause ne protège que les marques et les logos. Sa page d'accueil
+   nomme une famille : aucun lien (règle 376). L'enseigne est celle du coteau et de sa chapelle. Photographie de ses vins,
+   sans personne, recadrée.
+4. **Cave de Fleurie — boutique-dégustation** (Fleurie, 8,9 km) — `a_confirmer`. Société coopérative active au registre à
+   l'adresse, engagée au registre bio ; heures saisonnières et fixe sur sa page « Retrouvez-nous ». Ses mentions légales
+   ferment « photos » et « images », et son pied de page nomme un photographe : ni image ni lien (règles 231 et 383).
+   Photographie thématique de la commune : les coteaux de Fleurie vus d'une terrasse du domaine voisin, sans personne,
+   recadrée (règle 312).
+
+Toutes les images sont réencodées depuis leurs seuls pixels (règle 235), aucune agrandie. **Le cinquième manque** : le
+magasin bio indépendant de Belleville a servi sa page d'accueil puis n'a plus ouvert aucune connexion, aux deux agents,
+jusqu'à la fin de la passe (règle 297) ; les marchés de la Ville n'ont ni lieu ni étal écrits ; voir les pistes.
+
+**Point d'arrêt du Rhône : Belleville-en-Beaujolais.** La commune suivante est **Mions** (13 843).
 
 ### Passe du 5 octobre 2026 (cent vingt-septième) : Charnay-lès-Mâcon et Mâconnais Beaujolais Agglomération (Saône-et-Loire), quatre fiches ; règles 408 et 409
 
@@ -28240,6 +28323,44 @@ Passe du 5 octobre 2026 (cent vingt-septième) :
 Point d'arrêt : **Charnay-lès-Mâcon**. À reprendre d'abord (règle 258) : les trois fiches désignées du Creusot et celle
 d'Autun ; à réessayer à son rang (règle 406) : Saint-Vallier (8 508) ; la commune suivante de la Saône-et-Loire est
 **Digoin** (7 353).
+
+### Pistes non publiées dans le Rhône (de Givors à Belleville-en-Beaujolais)
+
+Passe du 5 octobre 2026 (cent vingt-huitième) :
+
+- **Givors, marchés du centre-ville** (mercredi et vendredi 8h-12h30, dimanche 8h-13h, autour de la mairie) **et marché des
+  Vernes** (jeudi 8h-12h30, place du Général-de-Gaulle) : jours, heures et lieux à la Ville. **Déblocage** : une famille
+  d'étals écrite pour chacun (règle 197) et une seconde image permise ; la photographie de la navette du marché (1 536 px,
+  sans personne) est retenue pour le premier.
+- **Saint-Genis-Laval, marché bio de la place Jaboulay** (mercredi 8h-12h30, plus de vingt producteurs et commerçants
+  certifiés) **et marchés de la place des Collonges (mardi) et de la place Jaboulay (vendredi)** : faits à la Ville.
+  **Déblocage** : une image permise de la commune (règle 246).
+- **Saint-Fons, marchés forains** : **Déblocage** : règles 192 et 197, et une image permise.
+- **Belleville-en-Beaujolais, magasin bio indépendant de la rue du Parc Saint-Jean** (coopérative de magasins indépendants ;
+  société active au registre à l'adresse, engagée au registre bio, fixe publié, « du lundi au samedi » sans heures sur sa page
+  d'accueil) : site muet après une page (règle 297). **Déblocage** : sa page « Nos horaires » lue, et ses mentions légales ;
+  **à prendre en premier au prochain passage**, c'est le cinquième point de la zone.
+- **Belleville-en-Beaujolais, marchés du mardi et du samedi** (7h30-12h30 ; quarante exposants alimentaires le mardi, une
+  douzaine d'exposants le samedi) : la Ville n'en écrit ni le lieu ni un étal. **Déblocage** : le lieu et une famille de
+  produits écrits (règle 197) ; l'image thématique existe (galerie de la ferme maraîchère).
+- **Belleville-en-Beaujolais, boutique d'un château viticole du hameau de Pizay** (vins, miel, jus de raisin ; fixe publié) :
+  « accès libre aux horaires d'ouverture », sans les écrire (règle 192) ; mentions légales qui réservent l'usage privé.
+  **Lycée viticole de la route Henri-Fessy** : son ancien nom de domaine est à vendre, à ne jamais inscrire (règle 56).
+  **Magasin bio de réseau** du registre : absent de l'annuaire de son enseigne (règle 200).
+- **Saint-Lager** (4,3 km) : **caveau collectif des crus Brouilly, route des Brouilly** (ouvert tous les jours 10h-12h30 et
+  14h30-19h, plus de cinquante producteurs associés, fixe publié ; société coopérative active au registre) **et château
+  viticole de la route des Ravatys** (du lundi au vendredi 9h-12h30 et 13h30-17h30, mercredi 9h-12h15, samedi sur rendez-vous ;
+  société active, enseigne déclarée) : faits entiers, mentions et conditions de vente qui nomment les « images » ou les
+  « photographies ». **Déblocage** : une image permise de Saint-Lager.
+- **Saint-Étienne-des-Oullières, seconde boutique de la cave coopérative** (du mardi au samedi 9h30-12h30 et 14h-18h30,
+  dimanche matin) : intercommunalité non contrôlée, aucune image permise de la commune.
+- **Odenas, château viticole** : visites sur rendez-vous seulement. **Fleurie, marché hebdomadaire** : la page de la Ville
+  est un moteur de recherche, non lu. **Lantignié, domaine au site sans mentions légales** : aucune heure écrite.
+- Saint-Genis-Laval, Écully, Belleville-en-Beaujolais, Charentay, Lantignié, Juliénas : des exploitations et un commerce
+  écartés pour doute sur une personne, non rouvrables.
+
+Point d'arrêt : **Belleville-en-Beaujolais**, qui a fait la passe. À reprendre d'abord : le magasin bio indépendant de
+Belleville (règle 297) ; la commune suivante du Rhône est **Mions** (13 843).
 
 ## Comment ajouter ou modifier un marchand
 

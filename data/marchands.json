@@ -27374,5 +27374,112 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Chai%20de%20Sennec%C3%A9%2C%20639%20rue%20Vr%C3%A9montoise%2C%2071000%20M%C3%A2con",
     "image_url": "/images/marchands/verizet-chai-de-sennece-macon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "un-jardin-qui-chante-belleville-en-beaujolais",
+    "nom": "Un jardin qui chante",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.123724,
+    "lon": 4.71556,
+    "adresse": "Route de la Thouaille, 69220 Belleville-en-Beaujolais",
+    "horaires": "Retrait des paniers d'abonnés au jardin le mercredi et le vendredi de 12h à 19h, de mars à fin décembre (page « paniers » de la ferme, consultée le 5 octobre 2026). Pas de vente au détail sans abonnement ; visite du terrain sur rendez-vous.",
+    "produits": [
+      "Paniers de légumes bio à 12, 16 ou 20 €",
+      "Légumes de saison",
+      "Plantes aromatiques",
+      "Pain au levain bio (en option)",
+      "Œufs bio (en option)",
+      "Fruits bio (en option)"
+    ],
+    "description": "Petite ferme maraîchère en agriculture biologique d'un hectare, inspirée de la permaculture, qui vend ses légumes par abonnement à des paniers hebdomadaires ou bimensuels, à la manière d'une AMAP et sans engagement de durée ; le panier se retire en autonomie dans la chambre froide à l'entrée du terrain. Société engagée au registre de l'Agence Bio. La ferme écrit route de la Thouaille et le registre bio route de Champanard : le point publié est celui de la rue, l'entrée se trouve au rond-point, par la voie de service de la voie verte — fiche à confirmer. Photo : les buttes de culture — site de la ferme.",
+    "telephone": "06 65 14 83 28",
+    "site_web": "https://unjardinquichante.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Un%20jardin%20qui%20chante%2C%20route%20de%20la%20Thouaille%2C%2069220%20Belleville-en-Beaujolais",
+    "image_url": "/images/marchands/un-jardin-qui-chante-belleville-en-beaujolais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "vinescence-boutique-de-belleville-en-beaujolais",
+    "nom": "Vinescence — boutique vigneronne de Belleville-en-Beaujolais",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.115715,
+    "lon": 4.70984,
+    "adresse": "131 Route Henri Fessy, 69220 Belleville-en-Beaujolais",
+    "horaires": "Du lundi au samedi de 9h30 à 12h30 et de 14h à 18h30, dimanche et jours fériés de 9h30 à 12h30 et de 14h30 à 17h30 (page « Nos boutiques » de la cave, consultée le 5 octobre 2026). Un autre encart de la même page écrit des heures un peu différentes en semaine : téléphoner avant un déplacement tôt le matin.",
+    "produits": [
+      "Crus du Beaujolais (dégustation offerte, sans réservation)",
+      "Chiroubles",
+      "Beaujolais-Villages",
+      "Vins de Bourgogne",
+      "Crémants",
+      "Rosé"
+    ],
+    "description": "Boutique de vente directe de la cave coopérative Vinescence, à Saint-Jean-d'Ardières : la cave dit réunir 280 vignerons sur 1 070 hectares et l'ensemble des appellations du Beaujolais. Société coopérative active au registre à cette adresse, engagée au registre de l'Agence Bio. La page de la cave porte deux jeux d'heures pour la semaine : ce sont celles de son encart principal qui sont publiées — fiche à confirmer. Photo d'ambiance : un jardin maraîcher de Belleville-en-Beaujolais — site d'Un jardin qui chante ; elle ne montre pas la boutique.",
+    "telephone": "04 74 06 16 05",
+    "site_web": "https://www.vinescence.fr/boutiques-caves-beaujolais/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vinescence%2C%20131%20route%20Henri%20Fessy%2C%2069220%20Belleville-en-Beaujolais",
+    "image_url": "/images/marchands/vinescence-boutique-de-belleville-en-beaujolais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-de-la-madone-fleurie",
+    "nom": "Domaine de la Madone",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.197233,
+    "lon": 4.68508,
+    "adresse": "1230 Route de la Madone, 69820 Fleurie",
+    "horaires": "D'avril à novembre, tous les jours de 10h30 à 19h ; de décembre à mars, du mercredi au vendredi de 13h à 18h et le samedi de 10h30 à 18h (page « Cave & boutique » du domaine, consultée le 5 octobre 2026).",
+    "produits": [
+      "Fleurie vieilles vignes",
+      "Cuvées parcellaires de Fleurie",
+      "Viognier bio",
+      "Rosé de Gamay",
+      "Produits régionaux",
+      "Dégustation gratuite, sans réservation"
+    ],
+    "description": "Domaine viticole du coteau de la Madone, sous la chapelle qui domine Fleurie : la cave et sa boutique reçoivent toute l'année pour une dégustation gratuite de la gamme, et le domaine tient aussi une auberge ouverte d'avril à novembre. Société active au registre à La Madone, engagée au registre de l'Agence Bio ; le domaine se dit aussi certifié Haute Valeur Environnementale. À 9 km au nord-ouest de Belleville-en-Beaujolais. Photo : les vins du domaine — site du domaine.",
+    "telephone": "04 74 69 81 51",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20de%20la%20Madone%2C%201230%20route%20de%20la%20Madone%2C%2069820%20Fleurie",
+    "image_url": "/images/marchands/domaine-de-la-madone-fleurie.jpg"
+  },
+  {
+    "slug": "cave-de-fleurie",
+    "nom": "Cave de Fleurie — boutique-dégustation",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.190816,
+    "lon": 4.69625,
+    "adresse": "213 Rue des Vendanges, 69820 Fleurie",
+    "horaires": "Du 15 avril au 14 octobre, tous les jours, week-ends et jours fériés compris, de 10h à 12h30 et de 14h30 à 19h ; du 15 octobre au 14 avril, du lundi au samedi de 10h à 12h et de 14h à 18h, dimanche et jours fériés de 10h à 12h30 et de 14h à 18h (page « Retrouvez-nous » de la cave, consultée le 5 octobre 2026).",
+    "produits": [
+      "Fleurie",
+      "Morgon",
+      "Moulin-à-Vent",
+      "Chiroubles",
+      "Beaujolais-Villages",
+      "Beaujolais blanc et rosé",
+      "Crémant de Bourgogne"
+    ],
+    "description": "Boutique-dégustation de la cave coopérative de Fleurie, au cœur du village : les vignerons de Fleurie s'y sont regroupés en 1927, et la cave dit compter 280 adhérents ; visite des chais pour les groupes à partir de huit personnes. Société coopérative active au registre à cette adresse, engagée au registre de l'Agence Bio. À 9 km au nord-ouest de Belleville-en-Beaujolais. Photo d'ambiance : les coteaux de Fleurie vus d'une terrasse du Domaine de la Madone — site du domaine ; elle ne montre pas la cave, fiche à confirmer.",
+    "telephone": "04 74 04 11 70",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cave%20de%20Fleurie%2C%20213%20rue%20des%20Vendanges%2C%2069820%20Fleurie",
+    "image_url": "/images/marchands/cave-de-fleurie.jpg",
+    "a_confirmer": true
   }
 ]
