@@ -29176,5 +29176,120 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Roulotte%20Canale%2020600%20Furiani",
     "image_url": "/images/marchands/la-roulotte-furiani.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-cabane-penchee-saint-lo",
+    "nom": "La Cabane Penchée",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.095885,
+    "lon": -1.077462,
+    "adresse": "Ferme du Perriers, Route de Baudre, 50000 Saint-Lô",
+    "horaires": "Mardi et vendredi de 16h à 19h. Tous les producteurs ne viennent pas les deux jours : le maraîchage, le pain et les œufs sont là mardi et vendredi, les fromages de chèvre et les volailles le vendredi.",
+    "produits": [
+      "Légumes de saison biologiques",
+      "Produits laitiers fermiers au lait cru",
+      "Fromages de chèvre",
+      "Œufs",
+      "Volailles",
+      "Pain",
+      "Bière, cidre et jus de pomme",
+      "Farine et pâtes"
+    ],
+    "description": "Marché de producteurs biologiques tenu deux fins d'après-midi par semaine dans un hangar en bois de la Ferme du Perriers, à la sortie de Saint-Lô vers Baudre : chacun y vend lui-même sa production. La ferme qui l'accueille, laitière et engagée auprès d'Ecocert depuis 1998 d'après le registre de l'Agence Bio, y vend ses yaourts, sa crème crue, son beurre et ses tommes. Jours et heures concordants chez les producteurs, dans le guide de Saint-Lô Agglo et à l'office de tourisme. Le point est celui du registre de l'Agence Bio, la Base Adresse Nationale ne connaissant que le chemin. Photo : l'entrée de la Cabane un soir de marché, publiée par les producteurs.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Cabane%20Pench%C3%A9e%20Ferme%20du%20Perriers%20Route%20de%20Baudre%2050000%20Saint-L%C3%B4",
+    "image_url": "/images/marchands/la-cabane-penchee-saint-lo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-general-de-gaulle-saint-lo",
+    "nom": "Marché de la place Général de Gaulle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.115412,
+    "lon": -1.09129,
+    "adresse": "Place Général de Gaulle, 50000 Saint-Lô",
+    "horaires": "Vendredi et samedi matin, de 8h30 à 13h (heures d'ouverture au public fixées par l'arrêté municipal de 2023). Le samedi est le grand marché. En semaine, la Ville tient de petits marchés du mardi au jeudi, que sa page situe rue Docteur Leturc et son arrêté sur la place : seuls le vendredi et le samedi sont donnés ici.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Crème, beurre et fromages fermiers",
+      "Poisson",
+      "Viande et charcuterie",
+      "Confitures",
+      "Bière artisanale",
+      "Crêpes et grillades"
+    ],
+    "description": "Le marché du centre de Saint-Lô, devant l'hôtel de ville : un marché du vendredi et le grand marché du samedi, où l'alimentaire côtoie les produits manufacturés. Le guide des producteurs de Saint-Lô Agglo et l'office de tourisme y situent plusieurs fermes des environs, laitières notamment, présentes les deux matins ; les autres familles de produits sont celles que l'office décrit pour l'ensemble des marchés du territoire. Le point est celui que la Base Adresse Nationale donne à la place. La photo, prêtée par un marché de producteurs de la commune, montre un pain de paysan-boulanger et non la place.",
+    "site_web": "https://www.saint-lo.fr/votre-commune-au-quotidien/ciommerce-economie/marches",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2050000%20Saint-L%C3%B4",
+    "image_url": "/images/marchands/marche-place-general-de-gaulle-saint-lo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-saint-lo",
+    "nom": "Biocoop Saint-Lô",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.098935,
+    "lon": -1.084233,
+    "adresse": "253 Boulevard de Strasbourg, 50000 Saint-Lô",
+    "horaires": "Du lundi au samedi de 9h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Légumes et œufs de fermes de la Manche",
+      "Produits laitiers fermiers",
+      "Fromages et yaourts de brebis",
+      "Pommes et jus",
+      "Farines",
+      "Bières locales",
+      "Vrac"
+    ],
+    "description": "Magasin bio de 300 m² du réseau Biocoop, ouvert en 2015 au sud de Saint-Lô, avec rayons fromagerie et charcuterie. Il dit travailler avec plus de cinquante producteurs locaux et en présente une partie sur son site : maraîchers, vergers, fermes laitières, meunier et brasseur de la Manche. Engagé auprès d'Ecocert d'après le registre de l'Agence Bio, à cette adresse. La photo, prêtée par un marché de producteurs de la commune, montre un élevage de plein air et non le magasin.",
+    "telephone": "02 33 72 24 68",
+    "site_web": "https://www.biocoop-saint-lo.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20253%20Boulevard%20de%20Strasbourg%2050000%20Saint-L%C3%B4",
+    "image_url": "/images/marchands/biocoop-saint-lo.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-enfants-theribles-saint-lo",
+    "nom": "Les Enfants Thèribles – boutique de l'atelier technologique",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.101619,
+    "lon": -1.078527,
+    "adresse": "383 Rue Popielujko, 50000 Saint-Lô",
+    "horaires": "Du lundi au vendredi de 9h à 12h30 (catalogue 2026 de l'établissement). Les fabrications suivent les travaux pratiques : pendant les vacances scolaires, mieux vaut téléphoner avant de se déplacer.",
+    "produits": [
+      "Fromages à pâte pressée",
+      "Yaourts et fromage blanc",
+      "Lait, crème et beurre",
+      "Jus de pomme",
+      "Compotes et gelée de pommes",
+      "Soupes et plats cuisinés"
+    ],
+    "description": "Point de vente de l'atelier technologique de l'école de laiterie de Saint-Lô Thère, établissement public d'enseignement agricole : fromages, yaourts et crème y sont fabriqués par les élèves en travaux pratiques, avec le lait des vaches normandes de la ferme de l'école, à Pont-Hébert. La boutique vend aussi quelques produits d'autres lycées agricoles normands. La photo, prêtée par un marché de producteurs de la commune, montre une vache normande et non la boutique.",
+    "telephone": "02 33 05 88 88",
+    "site_web": "https://saint-lo-there.fr/atelier-technologique/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20technologique%20Saint-L%C3%B4%20Th%C3%A8re%20383%20Rue%20Popielujko%2050000%20Saint-L%C3%B4",
+    "image_url": "/images/marchands/les-enfants-theribles-saint-lo.jpg",
+    "a_confirmer": true
   }
 ]

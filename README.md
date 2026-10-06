@@ -5266,9 +5266,30 @@ prioritaires en cas de conflit.
      d'emprunt (règle 403) ne nourrit aucune fiche tant que l'agent par défaut n'y est pas servi. Première application :
      le magasin biologique de Furiani, troisième point du groupe de Bastia.
 
+426. **Un département dont la descente est passée sous 3 000 habitants ne reçoit plus que deux communes par passe, que la
+     passe précédente ait publié ou non ; le département suivant du classement reçoit la borne de douze.** La règle 424
+     donnait cette répartition après deux passes vides sur la même paire de départements et cessait « dès qu'une passe
+     publie dans l'un des deux ». Le 6 octobre 2026 (cent quarante-septième passe), la passe de Bastia ayant publié, la
+     lecture littérale rendait douze communes à la Seine-et-Marne, dont la descente reprend à 2 384 habitants, et deux
+     seulement à la Manche, dont la deuxième commune compte près de vingt mille habitants et n'avait jamais été éprouvée.
+     Le constat de la règle 424 ne dépend pas de ce qu'a fait la passe d'avant : sous trois mille habitants, une commune
+     n'a plus qu'un marché au mieux et aucun second point. **Tranché ainsi** : tant que la prochaine commune du premier
+     département ouvert compte moins de 3 000 habitants, il reçoit les deux communes de la règle 248 (ses fiches désignées
+     d'abord) et le suivant reçoit les douze de la règle 247 ; à 2 000 habitants la règle 265 le ferme. L'ordre du
+     classement ne change pas, aucune exigence de vérification ne baisse, la réserve de la règle 41.c reste entière.
+     Première application : Samoreau et Presles-en-Brie en Seine-et-Marne, puis Saint-Lô, première commune éprouvée de la
+     Manche, qui rend sa zone.
+
 ## Marchands à confirmer
 
-970 fiches sur 1102 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+974 fiches sur 1106 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **La Cabane Penchée**, **Marché de la place Général de Gaulle**, **Biocoop Saint-Lô** et **Les Enfants Thèribles –
+  boutique de l'atelier technologique**, à Saint-Lô (passe du 6 octobre 2026, cent quarante-septième, règles 1, 5, 6, 7,
+  149, 178, 197, 231, 312 et 426) : seule la Cabane est illustrée par son propre lieu, les trois autres portent une
+  photographie prêtée qui ne montre pas le lieu ; le point de la Cabane est celui du registre de l'Agence Bio ; les
+  familles de produits du marché, hors laitages, confitures et bière, sont celles que l'office décrit pour l'ensemble des
+  marchés du territoire ; la boutique de l'école dépend du calendrier des travaux pratiques. **Déblocage** : une
+  photographie permise de la place, du magasin et de la boutique ; une liste des étals publiée par la Ville.
 - **Pratali – magasin de Bastia**, **Marché de la place du Marché** (Bastia) et **La Roulotte – Furiani** (passe du
   6 octobre 2026, cent quarante-sixième, règles 1, 3, 5, 6, 96, 101, 178, 197, 312, 418 et 425) : ni la Ville ni la page
   courante de l'office n'écrivent d'heure pour le marché, publié à la demi-journée, et sa photographie est une
@@ -12847,6 +12868,86 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante-septième) : Saint-Lô (Manche), quatre fiches dans la commune ; règle 426
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 106 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 102 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), Val-de-Marne 3,81
+descente terminée ; **Seine-et-Marne (77) 3,46**, premier ouvert ; **Manche (50) 2,95**, second. La réserve de la règle 41.c
+était celle de la Corse. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé. **Après la passe**, sur 1 106
+fiches : Manche −1,02 (9 fiches) ; en tête des départements ouverts, Val-de-Marne 3,89 (descente terminée), Seine-et-Marne
+3,55, Ille-et-Vilaine 2,98, Pyrénées-Orientales 2,97, Meuse 2,89. La prochaine passe ne peut pas viser la Normandie.
+
+**Seine-et-Marne (règle 426, deux communes).** **Samoreau** (2 384) : le site communal ne connaît aucun marché
+hebdomadaire, seulement un marché de Noël et une épicerie de spécialités. Zéro. **Presles-en-Brie** (2 369) : aucun site
+communal n'ouvre de connexion (règle 237). Zéro. La fiche désignée de Saint-Mammès reste sans seconde fiche.
+
+**Manche : Saint-Lô** (19 471), commune la plus peuplée du département sans fiche, jamais éprouvée. Sources : la Ville
+(page des marchés, page « jours et lieux », arrêté portant règlement général des marchés de 2023), le guide des producteurs
+de Saint-Lô Agglo (édition 2023), l'office de tourisme de Saint-Lô Agglo (page des marchés, annuaire des producteurs
+locaux), le registre de l'Agence Bio du département (1 343 opérateurs), le registre des entreprises, les sites des
+commerces. Les quatre fiches :
+
+- **La Cabane Penchée** (`producteur`, règles 7 et 8) — marché de producteurs biologiques tenu sur une ferme laitière de
+  la route de Baudre ; mardi et vendredi 16h-19h pour les producteurs, l'agglomération et l'office ; la ferme d'accueil
+  est une société active au registre, engagée auprès d'Ecocert depuis 1998. Une seule fiche pour le marché et la ferme,
+  qui vendent au même point (règle 7). Point du registre de l'Agence Bio (« lieu de vente »), à moins de 100 m du chemin
+  que donne la Base Adresse Nationale. Photographie du lieu publiée par les producteurs, recadrée pour n'y laisser que
+  deux silhouettes de dos. `site_web` laissé vide : l'adresse du site des producteurs est bâtie sur un identifiant
+  d'allure personnelle. Le téléphone publié est un portable : non inscrit.
+- **Marché de la place Général de Gaulle** (`marche`, règles 178 et 197) — vendredi et samedi matin pour la Ville (deux
+  publications), l'agglomération et l'office ; 8h30-13h selon l'arrêté de 2023 ; l'annuaire de l'office y situe nommément
+  des laitages fermiers, des confitures et une bière.
+- **Biocoop Saint-Lô** (`magasin-bio`, règle 149) — le site national de l'enseigne n'a pas été ouvert ; le magasin a son
+  propre domaine, dont le `robots.txt` n'exclut aucun agent d'IA ; heures et fixe publiés par lui ; société active au
+  registre à cette adresse, engagement Ecocert au registre de l'Agence Bio. Ses conditions nomment les photographies
+  (règle 231).
+- **Les Enfants Thèribles – boutique de l'atelier technologique** (`producteur`) — point de vente d'un établissement
+  public d'enseignement agricole, établissement actif à cette adresse ; heures du catalogue 2026 de l'établissement,
+  les mêmes que dans le guide de l'agglomération ; numéro de la Base Adresse Nationale (0,96). Pas de pilier
+  `environnement` : le certificat biologique de l'établissement porte sur ses pommes, pas sur la laiterie (règle 15).
+
+**Images.** La Ville interdit la reproduction des images (règle 231), l'office conditionne toute reproduction à un accord,
+le `robots.txt` de l'école ferme son dossier de médias, le magasin bio nomme les photographies. Seul le site des
+producteurs de la Cabane ne porte aucune clause : trois de ses photographies sont prêtées (règle 312), un fichier par
+fiche (règle 191) — un pain sur son étal pour le marché, un élevage de plein air pour le magasin bio, une vache normande
+pour la boutique de l'école — et chaque description dit que l'image ne montre pas le lieu.
+
+**Quatre fiches et non cinq** : aucun cinquième point aux faits entiers. Les candidats restants sont en pistes.
+
+**Contradictions** : pour les petits marchés de semaine du centre, la page de la Ville écrit « rue Docteur Leturc » du
+mardi au jeudi, son arrêté de 2023 « place Général de Gaulle » du mardi au samedi et « rue Alsace-Lorraine » le mardi, le
+guide de l'agglomération « rue Alsace Lorraine » le mardi : seuls le vendredi et le samedi, sur lesquels toutes
+s'accordent, sont publiés, et la fiche le dit (règles 5 et 138). L'office écrit « Ferme de Périers » et situe la Cabane
+à Baudre ; les producteurs, l'agglomération et les deux registres écrivent « Perriers », à Saint-Lô : ce sont eux qui
+font foi.
+
+**Écart de méthode** : la fiche d'un comité régional de tourisme a été demandée dans la même commande que son
+`robots.txt`, qui nomme des agents d'IA (règle 77) ; rien n'en a été lu ni repris. Le site de la commune d'Agneaux refuse
+l'agent par défaut (403) : non lu (règle 425).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; à Saint-Lô et dans les communes voisines,
+plusieurs producteurs du registre bio connus sous le seul nom de leur exploitant, non instruits, non nommés.
+
+**Pistes non publiées (Saint-Lô et Saint-Lô Agglo)** — lignes anonymes :
+
+- Saint-Lô, marchés de quartier de la Dollée (mercredi matin) et de l'Aurore (jeudi matin) : jour et lieu concordants
+  entre la Ville et l'office, mais aucune source ne dit ce qu'on y achète (règle 197). **Déblocage** : une famille de
+  produits écrite par la Ville ou l'office.
+- Saint-Lô, marché de terroir des soirs d'été au pied des remparts : saisonnier, de fin juin à fin août, terminé
+  pour 2026. **Déblocage** : l'annonce de la saison 2027.
+- Saint-Lô, épicerie de la place du centre qui revend des producteurs locaux : attestée par le guide de l'agglomération,
+  mais ni heures publiées par elle ni établissement retrouvé au registre sous cette enseigne (règles 6 et 136).
+- Saint-Lô, herboristerie certifiée du centre : tisanes et épices, hors du champ alimentaire courant ; non instruite.
+- Agneaux, marché du lundi et du mercredi matin : l'agglomération et l'office seuls, site communal fermé à l'agent
+  (règles 196 et 425). **Déblocage** : le site de la commune servi à l'agent par défaut.
+- Saint-Gilles, maraîchers bio avec site propre : non instruits, la zone étant faite dans la commune calculée.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Bray-sur-Seine** (2 344), puis Rebais, Jouy-sur-Morin
+et Livry-sur-Seine (règle 426 : deux communes par passe) ; les communes fermées par la seule règle 257 se rouvrent à leur
+rang (règle 425). Dans la **Manche**, la descente reprendra à **Granville** (12 510), puis La Hague et
+Carentan-les-Marais. En **Haute-Corse**, inchangé : Ventiseri, puis Aléria, Cervione et Monticello.
 
 ### Passe du 6 octobre 2026 (cent quarante-sixième) : Bastia et Furiani (Haute-Corse), trois fiches ; règle 425
 
