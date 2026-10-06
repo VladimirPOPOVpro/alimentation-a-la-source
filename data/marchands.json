@@ -28728,5 +28728,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%2C%20place%20de%20l%27%C3%89glise%2C%2078430%20Louveciennes",
     "image_url": "/images/marchands/marche-de-louveciennes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "les-artisans-du-potager-cholet",
+    "nom": "Les Artisans du Potager — magasin de Cholet",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.042911,
+    "lon": -0.937694,
+    "adresse": "La Petite Châtaigneraie, 49300 Cholet",
+    "horaires": "Mardi, jeudi et vendredi de 9h à 12h et de 14h à 19h, samedi de 9h à 12h30, d'après le tableau d'horaires du site des maraîchers (« Jardins de Cholet »). Une autre page du même site ne cite que le jeudi, le vendredi et le samedi : l'ouverture du mardi reste à confirmer sur place.",
+    "produits": [
+      "Légumes de saison de l'exploitation",
+      "Fraises et framboises",
+      "Pommes de terre et endives",
+      "Fromages de chèvre",
+      "Œufs de plein air",
+      "Charcuterie",
+      "Fruits de producteurs partenaires"
+    ],
+    "description": "Magasin à la ferme de maraîchers installés depuis 2023 à la Petite Châtaigneraie, entre La Séguinière et Saint-Christophe-du-Bois : ils y vendent les légumes et petits fruits cultivés sur place en agriculture raisonnée, complétés par des produits de fermes voisines, et préparent des paniers commandés en ligne à retirer sur place le vendredi et le samedi. Le lieu-dit n'est pas connu de la Base Adresse Nationale : le point est celui de l'établissement au registre des entreprises. Photo : illustration thématique (poireaux) publiée par le magasin de producteurs de Saint-Léger-sous-Cholet ; elle ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Artisans%20du%20Potager%2C%20La%20Petite%20Ch%C3%A2taigneraie%2C%2049300%20Cholet",
+    "image_url": "/images/marchands/les-artisans-du-potager-cholet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-le-panier-de-la-moine-cholet",
+    "nom": "AMAP Le Panier de la Moine",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.053328,
+    "lon": -0.853198,
+    "adresse": "Centre socioculturel du Verger, rue du Bois Régnier, 49300 Cholet",
+    "horaires": "Distribution le mercredi de 18h30 à 19h30, pour les adhérents sous contrat. Contrats par semestre (octobre-mars et avril-septembre), inscriptions en septembre et en mars lors des permanences du mercredi, d'après le site de l'association.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Volailles et œufs",
+      "Pain",
+      "Yaourts",
+      "Viandes de bœuf, de mouton et de lapin",
+      "Miel",
+      "Huile"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne de Cholet, qui distribue chaque semaine au centre socioculturel du Verger les paniers de ses producteurs sous contrat ; ses portes ouvertes de rentrée se sont tenues le 16 septembre 2026. Le point est celui du centre socioculturel au registre des entreprises. Photo : illustration thématique (pommes en caisses) publiée par le magasin de producteurs de Saint-Léger-sous-Cholet ; elle ne montre ni le lieu ni les paniers de l'AMAP.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Centre%20socioculturel%20du%20Verger%2C%20rue%20du%20Bois%20R%C3%A9gnier%2C%2049300%20Cholet",
+    "image_url": "/images/marchands/amap-le-panier-de-la-moine-cholet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halles-de-cholet",
+    "nom": "Halles de Cholet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.057296,
+    "lon": -0.879104,
+    "adresse": "Place du 8 Mai 1945, 49300 Cholet",
+    "horaires": "Du mardi au jeudi de 6h à 13h, vendredi et samedi de 6h à 13h30, d'après l'association des commerçants des halles ; la Ville écrit 13h30 en semaine et 14h le vendredi et le samedi. Marché de plein air sur la place le samedi de 7h à 13h30 (Ville de Cholet).",
+    "produits": [
+      "Fruits et légumes de primeurs et de maraîchers",
+      "Boucherie et charcuterie",
+      "Poissonnerie",
+      "Fromages et crèmerie",
+      "Pain et pâtisserie",
+      "Vins"
+    ],
+    "description": "Marché couvert du centre de Cholet, où une trentaine d'artisans et de commerçants tiennent étal cinq matins par semaine ; le samedi, le marché de plein air de la place du 8 Mai 1945 s'installe autour des halles. Les métiers cités sont ceux de la liste que publie l'association des commerçants, ce n'est pas un inventaire. La Ville publie aussi les marchés de quartier du mardi (Les Roches, Clairefontaine) et du jeudi (Jean Monnet, Sacré-Cœur), de 7h à 12h30. Le point est celui des halles au registre des entreprises. Photo : illustration thématique (terrines) publiée par le magasin de producteurs de Saint-Léger-sous-Cholet ; elle ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Halles%2C%20place%20du%208%20Mai%201945%2C%2049300%20Cholet",
+    "image_url": "/images/marchands/halles-de-cholet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-de-chez-nous-saint-leger-sous-cholet",
+    "nom": "La Ferme de Chez Nous — Saint-Léger-sous-Cholet",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.087433,
+    "lon": -0.907702,
+    "adresse": "47 rue de la Vendée, 49280 Saint-Léger-sous-Cholet",
+    "horaires": "Du mardi au jeudi de 8h30 à 13h et de 15h30 à 19h ; vendredi de 8h30 à 13h et de 14h30 à 19h ; samedi de 8h30 à 13h ; fermé le dimanche et le lundi (site du magasin).",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie et charcuterie",
+      "Produits frais et fromages",
+      "Œufs",
+      "Épicerie",
+      "Boissons"
+    ],
+    "description": "Premier magasin du réseau de magasins de producteurs La Ferme de Chez Nous, né d'un projet lancé en 2011 par des producteurs locaux avec l'agglomération du Choletais ; il publie la carte de ses producteurs, tous situés à moins de 100 km. On y trouve notamment les fromages de la chèvrerie du May-sur-Èvre. Photo : la façade du magasin, publiée sur son site.",
+    "telephone": "02 85 45 99 02",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20de%20Chez%20Nous%2C%2047%20rue%20de%20la%20Vend%C3%A9e%2C%2049280%20Saint-L%C3%A9ger-sous-Cholet",
+    "image_url": "/images/marchands/la-ferme-de-chez-nous-saint-leger-sous-cholet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chevrerie-beauregard-le-may-sur-evre",
+    "nom": "La Chèvrerie Beauregard",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.145263,
+    "lon": -0.886636,
+    "adresse": "Beauregard, 49122 Le May-sur-Èvre",
+    "horaires": "Vente directe à la ferme le vendredi de 15h30 à 19h, d'après le site de la chèvrerie ; la chèvrerie reste en accès libre pendant la vente.",
+    "produits": [
+      "Palets de chèvre frais, affinés ou cendrés",
+      "Bûches de chèvre",
+      "Tomme de chèvre affinée",
+      "Fromage de chèvre à griller"
+    ],
+    "description": "Élevage de 135 chèvres alpines installé en 2021 à une douzaine de kilomètres de Cholet, en agriculture biologique (mention du registre des entreprises) : le troupeau pâture au moins 120 jours par an et le foin comme les céréales viennent de la ferme. Une partie du lait est transformée sur place en fromages lactiques au lait cru moulés à la louche et en tommes affinées de deux à quatre mois. Photo : le troupeau au pré, publiée sur le site de la chèvrerie.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ch%C3%A8vrerie%20Beauregard%2C%20Beauregard%2C%2049122%20Le%20May-sur-%C3%88vre",
+    "image_url": "/images/marchands/chevrerie-beauregard-le-may-sur-evre.jpg",
+    "a_confirmer": true
   }
 ]

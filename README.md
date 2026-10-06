@@ -5179,9 +5179,38 @@ prioritaires en cas de conflit.
      les arbres (règles 46 et 99). **Limite** : une liste jointe que l'office aurait retirée, ou une association muette
      depuis plus de douze mois (règle 195), ne suffisent plus.
 
+422. **Dans une zone formée au titre de la règle 96, le magasin de producteurs publié dans la même passe et la même
+     intercommunalité peut prêter ses photographies aux fiches de la commune calculée dont toutes les sources ferment les
+     images ; et l'exigence d'une fiche « au lieu illustré » (règle 412) se lit alors sur la zone, pas sur la seule commune.**
+     Le 6 octobre 2026 (cent quarantième passe), Cholet, laissée le 23 septembre avec quatre fiches désignées pour la reprise,
+     en rend cinq aux faits entiers. Mais les trois points de la commune n'ont plus d'image : les mentions légales des
+     maraîchers de la Petite Châtaigneraie réservent le contenu à l'usage privé (règle 296, postérieure à la désignation),
+     celles des halles nomment les images (règle 231), le site de l'AMAP ne publie que des affiches, une vignette de 533 px
+     (règle 59) et des visuels d'allure de banque d'images (règle 360) ; la Ville et l'office étaient déjà fermés (règle 253),
+     et la voie des photographies libres est suspendue (règle 391). Les deux autres points, à Saint-Léger-sous-Cholet (7 km)
+     et au May-sur-Èvre (12 km), ont chacun une photographie de leur propre lieu, et le magasin de Saint-Léger publie une
+     quinzaine de photographies de ses rayons sans clause nommant les images. La règle 312 ne prête qu'au sein d'une même
+     commune, la règle 412 veut une fiche au lieu illustré « dans la commune ». **Tranché ainsi** : le mandat place la
+     photographie thématique honnête en troisième recours sans lui demander d'origine communale, et la règle 96 fait de
+     l'agglomération l'unité de la passe ; quand cinq fiches aux faits entiers tiennent dans une même intercommunalité à moins
+     de quinze kilomètres du centre, qu'au moins deux d'entre elles portent une photographie de leur propre lieu, et que trois
+     au moins sont dans la commune calculée, un commerce publié dans la passe peut illustrer les autres — un fichier distinct
+     par fiche (règle 191), sans personne ni marque, la description disant d'où vient l'image et qu'elle ne montre pas le
+     lieu, la fiche en `a_confirmer`. **Limite** : jamais d'une intercommunalité à une autre, jamais pour une commune qui
+     ferait seule la passe (les règles 312 et 412 y restent entières), et pas plus de trois fiches ainsi illustrées par passe.
+     **Déblocage** de la réserve : une photographie permise du lieu, qui remplace l'illustration dès qu'elle existe.
+
 ## Marchands à confirmer
 
-952 fiches sur 1084 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+957 fiches sur 1089 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Les Artisans du Potager — magasin de Cholet**, **AMAP Le Panier de la Moine**, **Halles de Cholet** (Cholet), **La Ferme
+  de Chez Nous — Saint-Léger-sous-Cholet** (Saint-Léger-sous-Cholet) et **La Chèvrerie Beauregard** (Le May-sur-Èvre) (passe
+  du 6 octobre 2026, cent quarantième, règles 9, 96, 195, 215, 231, 274, 296, 312, 377, 391, 412 et 422) : le site des
+  maraîchers écrit quatre jours d'ouverture dans son tableau d'horaires et trois dans une autre page ; l'association des
+  commerçants et la Ville donnent pour les halles des heures de fermeture qui diffèrent d'une demi-heure ; les trois fiches
+  de Cholet portent une photographie thématique du magasin de producteurs de Saint-Léger-sous-Cholet, qui ne montre pas leur
+  lieu ; le point des maraîchers est celui du registre des entreprises, la Base ne connaissant pas le lieu-dit.
+  **Déblocage** : une photographie permise de chacun des trois lieux de Cholet.
 - **AMAP Marly**, **Marché de Marly-le-Roi**, **Les Comptoirs de la Bio Marly-le-Roi** (Marly-le-Roi) et **Marché de
   Louveciennes** (Louveciennes) (passe du 6 octobre 2026, cent trente-neuvième, règles 9, 63, 74, 96, 197, 233, 312, 320,
   377, 412 et 421) : le marché de Marly ne repose que sur l'office de tourisme intercommunal, dont la liste de commerçants
@@ -12731,6 +12760,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarantième) : Cholet (Maine-et-Loire), cinq fiches dont deux dans Cholet Agglomération ; règle 422
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 089 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 084 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : du Val-d'Oise (10,1) à la Haute-Saône (3,7), les seize départements
+écrits épuisés (règle 265) ; Val-de-Marne 3,4, descente terminée et, de toute façon, fermé par la région de la passe
+précédente (règle 41.c) ; **Maine-et-Loire (49) 3,11**, premier département ouvert, en Pays de la Loire — la passe précédente
+visait l'Île-de-France. **Après la passe**, sur 1 089 fiches : Maine-et-Loire −1,83 (15 fiches) ; en tête des départements
+ouverts, Val-de-Marne 3,54 (descente terminée), Paris 3,23, Seine-et-Marne 3,19, Haute-Corse 2,96. La prochaine passe ne peut
+pas viser les Pays de la Loire.
+
+**Reprise du Maine-et-Loire à Cholet** (54 404), deuxième commune du département, éprouvée le 23 septembre et laissée avec
+quatre fiches « désignées pour la reprise si une cinquième se présente » (règles 247 et 249). La cinquième existe : les halles
+et le marché du samedi, que la Ville publie avec leurs heures et dont l'association des commerçants publie les métiers
+(règles 178 et 197). Contrôle en deux requêtes et lecture des `robots.txt` avant toute page (règles 233 et 257) : la Ville,
+l'association des halles, les maraîchers, le réseau de magasins de producteurs, la chèvrerie et le blog de l'AMAP sont
+servis à l'identique aux deux agents et n'excluent personne. Registre de l'Agence Bio du département relu (2 000 opérateurs
+rendus) : à Cholet, hors grandes surfaces et boulangeries, rien de neuf.
+
+1. **Les Artisans du Potager — magasin de Cholet** — société active, établissement ouvert à la Petite Châtaigneraie sous
+   cette enseigne ; heures du tableau « Jardins de Cholet » du site ; lieu-dit inconnu de la Base (meilleur score 0,44) :
+   point de l'établissement au registre. Le seul téléphone publié est un portable, non repris. Pas de lien (règle 274).
+2. **AMAP Le Panier de la Moine** — site de l'association vivant (article du 2 septembre 2026, affiche des portes ouvertes
+   du mercredi 16 septembre, 18h30-19h30, au centre social du Verger : règle 195 remplie) ; point du centre socioculturel au
+   registre, que la Base confirme sur la voie (0,96). Pas de lien : le menu du site nomme des personnes (règle 377).
+3. **Halles de Cholet** — page « Halles et marchés » de la Ville, site de l'association des commerçants (active au
+   registre, place du 8 Mai 1945) ; seuls les métiers de sa liste sont lus, jamais les noms qu'elle porte. Pas de lien : la
+   liste nomme des personnes.
+4. **La Ferme de Chez Nous — Saint-Léger-sous-Cholet** — société active, 47 rue de la Vendée (Base 0,96) ; heures, fixe et
+   familles de produits du site du magasin. Pas de lien : la page d'accueil nomme une personne.
+5. **La Chèvrerie Beauregard** — groupement actif sous cette dénomination au registre, mention bio ; vente du vendredi et
+   produits lus sur son site ; point de l'établissement au registre, à 15 m de celui de la Base (lieu-dit, 0,67). Ni lien ni
+   téléphone : les seuls numéros publiés sont des portables sous des prénoms.
+
+**Images.** Deux photographies de lieu : la façade du magasin de Saint-Léger (1 203 px) et le troupeau de la chèvrerie
+(ramené à 1 280 px). Trois illustrations thématiques prêtées par le magasin de Saint-Léger au titre de la règle 422 —
+poireaux, pommes en caisses, terrines —, un fichier par fiche. Aucune personne, aucune marque ; une photographie d'équipe
+publiée par le magasin n'a pas été reprise. Fichiers réécrits depuis leurs seuls pixels (règle 235) et relus après écriture.
+
+**Contradictions** : les maraîchers écrivent « mardi, jeudi, vendredi, samedi » dans leur tableau d'horaires et « jeudi,
+vendredi et samedi » dans une page de présentation ; le tableau est publié, la réserve est dans `horaires`. Pour les halles,
+l'association écrit 13h et 13h30, la Ville 13h30 et 14h : l'heure la plus tôt est publiée, l'autre est citée (règle 215).
+L'affiche de l'AMAP écrit « rue du Bois Régner », la Base et le registre « rue du Bois Régnier ».
+
+**Écart signalé** : la passe a envoyé cinq requêtes à l'annuaire Openverse avant de relire la règle 391 ; elles n'ont rien
+rendu et rien n'en est entré dans le dépôt.
+
+**Fiches écartées pour doute sur une personne** : à Cholet, les exploitations et boulangeries inscrites au registre bio sous
+le seul nom de leur exploitant, non instruites, non nommées.
+
+**Pistes non publiées (Cholet et Cholet Agglomération)** :
+
+- Cholet, trois magasins bio coopératifs d'une même société (avenue de la Marne, avenue des Trois-Provinces, avenue
+  Edmond-Michelet) : actifs au registre, engagés au registre bio ; images nommées par les conditions du site (règle 245),
+  non instruits au-delà, la zone étant faite.
+- Cholet, marchés de quartier (Les Roches et Clairefontaine le mardi, Jean Monnet et Sacré-Cœur le jeudi, 7h-12h30) et du
+  Puy-Saint-Bonnet (mercredi 16h-18h30) : la Ville seule, aucune famille de produits (règle 197) ; cités dans la fiche des
+  halles. **Déblocage** : une liste d'étals.
+- Cholet Agglomération, marchés publiés par la Ville avec place et heures, sans famille de produits : La Séguinière, La
+  Tessoualle, Le May-sur-Èvre, Trémentines, La Romagne, Maulévrier, Saint-Léger-sous-Cholet, Vezins, Lys-Haut-Layon ; deux
+  marchés de producteurs (Mazières-en-Mauges, jeudi des semaines impaires 16h30-19h ; Maulévrier, vendredi 16h-18h30).
+  **Déblocage** : une seconde source et une liste d'étals.
+- Les trois fiches de Cholet publiées avec une illustration : **déblocage** de la réserve, une photographie permise du lieu.
+
+**Point d'arrêt du Maine-et-Loire : Cholet**, qui a fait la passe ; le département passe en excédent. Quand il reviendra,
+la descente reprend à **Saumur** (26 241, une fiche entière en pistes), puis Beaupréau-en-Mauges (23 989), Chemillé-en-Anjou
+(21 999), Mauges-sur-Loire (18 695), Segré-en-Anjou Bleu (17 667).
 
 ### Passe du 6 octobre 2026 (cent trente-neuvième) : Marly-le-Roi (Yvelines), quatre fiches dont une à Louveciennes ; règle 421
 
