@@ -28365,5 +28365,135 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=191%20Rue%20Marcel%20Bignebat%2C%2002200%20Venizel",
     "image_url": "/images/marchands/la-ferme-de-venizel.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-petite-ferme-carquefou",
+    "nom": "La Petite Ferme Carquefou",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.306723,
+    "lon": -1.470786,
+    "adresse": "1 Chemin de la Longère, rue de la Ménerais, 44470 Carquefou",
+    "horaires": "Magasin de la ferme : mardi de 16h30 à 19h, mercredi de 9h15 à 12h15 et de 16h30 à 19h, vendredi de 16h30 à 19h, samedi de 9h15 à 12h15, selon le site de la ferme et le panneau de son entrée.",
+    "produits": [
+      "Bœuf et veau limousins de l'élevage",
+      "Agneau fermier",
+      "Porc fermier",
+      "Volailles d'Ancenis",
+      "Œufs de plein air",
+      "Charcuterie et plateaux sur commande"
+    ],
+    "description": "Élevage de bovins limousins en plein air créé en 2008, avec une boucherie à la ferme qui vend au détail la viande du troupeau et celle d'éleveurs voisins, ainsi que des produits du terroir. Commandes par téléphone ; plateaux de charcuterie et de fromages sur réservation. La photographie, publiée par la ferme, montre ses vaches au pré.",
+    "telephone": "06 51 77 06 95",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1%20Chemin%20de%20la%20Long%C3%A8re%2C%20rue%20de%20la%20M%C3%A9nerais%2C%2044470%20Carquefou",
+    "image_url": "/images/marchands/la-petite-ferme-carquefou.jpg"
+  },
+  {
+    "slug": "la-ferme-gourmande-carquefou",
+    "nom": "La Ferme Gourmande",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.307638,
+    "lon": -1.510082,
+    "adresse": "La Dagonnière, 10 Route des Enfas, 44470 Carquefou",
+    "horaires": "Du mardi au vendredi de 9h à 19h, samedi de 9h à 18h, selon le site du magasin.",
+    "produits": [
+      "Légumes de l'exploitation",
+      "Fruits",
+      "Crémerie",
+      "Viandes et charcuterie",
+      "Épicerie de producteurs locaux",
+      "Boissons",
+      "Paniers gourmands"
+    ],
+    "description": "Magasin fermier d'une exploitation maraîchère de Carquefou, qui vend ses récoltes en direct, cultivées en agriculture raisonnée selon son site, et les complète par les produits d'autres fermes de la région. Le site situe le magasin au lieu-dit La Dagonnière ; le numéro de voirie est celui du registre des entreprises, d'où la mention à confirmer. La photographie est une illustration thématique publiée par un élevage de la commune : elle ne montre pas le magasin.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Dagonni%C3%A8re%2C%2010%20Route%20des%20Enfas%2C%2044470%20Carquefou",
+    "image_url": "/images/marchands/la-ferme-gourmande-carquefou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-a-cueillir-carquefou",
+    "nom": "La Ferme à Cueillir",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.307661,
+    "lon": -1.467418,
+    "adresse": "La Ménerais, 9 Route des Pellerines, 44470 Carquefou",
+    "horaires": "Retrait des paniers commandés : vendredi de 17h30 à 18h30 et samedi de 11h à 12h, selon le site de la ferme. Commande en ligne du lundi 16h au jeudi minuit. La cueillette libre est suspendue en hiver ; son planning de saison se lit sur le site.",
+    "produits": [
+      "Légumes bio de saison",
+      "Paniers de légumes à la carte",
+      "Petits fruits en cueillette",
+      "Poireaux, carottes, betteraves",
+      "Courges, salades et mâche"
+    ],
+    "description": "Maraîchers en agriculture biologique, certifiés depuis 2018 au registre de l'Agence Bio, qui ouvrent leurs parcelles à la cueillette à la belle saison et préparent le reste de l'année des paniers à la carte, sans abonnement, à retirer à la ferme ; ils fournissent aussi l'AMAP de la commune. Les heures de cueillette ne sont pas publiées hors saison, d'où la mention à confirmer. La photographie est une illustration thématique publiée par un élevage voisin du même hameau : elle ne montre pas la ferme.",
+    "site_web": "https://www.fermeacueillir.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20M%C3%A9nerais%2C%209%20Route%20des%20Pellerines%2C%2044470%20Carquefou",
+    "image_url": "/images/marchands/la-ferme-a-cueillir-carquefou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-carquefou",
+    "nom": "AMAP de Carquefou",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.30106,
+    "lon": -1.501984,
+    "adresse": "Espace Carquefood, 28 Boulevard Ampère, 44470 Carquefou",
+    "horaires": "Distribution le mardi de 18h à 19h, selon le calendrier que l'AMAP tient en ligne et la page de son maraîcher. Adhésion et contrats nécessaires.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Œufs",
+      "Pommes",
+      "Pains et farines",
+      "Viande d'agneau, de bœuf et de porc",
+      "Coquilles Saint-Jacques en saison"
+    ],
+    "description": "AMAP lancée en juin 2024, qui distribue chaque mardi soir les contrats d'une demi-douzaine de producteurs ; ses légumes et ses œufs viennent de deux fermes de Carquefou, dont un maraîcher certifié au registre de l'Agence Bio. La photographie est une illustration thématique publiée par un élevage de la commune : elle ne montre ni le lieu de distribution ni un fournisseur de l'AMAP.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Espace%20Carquefood%2C%2028%20Boulevard%20Amp%C3%A8re%2C%2044470%20Carquefou",
+    "image_url": "/images/marchands/amap-de-carquefou.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biotiful-jardin-la-chapelle-sur-erdre",
+    "nom": "Biotiful Jardin",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.286926,
+    "lon": -1.577603,
+    "adresse": "21 Rue de la Bitaudais, 44240 La Chapelle-sur-Erdre",
+    "horaires": "Magasin à la ferme : mercredi de 9h à 12h et de 14h30 à 18h30, jeudi de 9h à 12h, vendredi de 15h30 à 18h30, samedi de 9h à 12h et de 14h30 à 18h, selon le site de la ferme. Fermé du dimanche au mardi.",
+    "produits": [
+      "Légumes bio de saison",
+      "Œufs",
+      "Fruits de producteurs locaux",
+      "Soupes et confitures",
+      "Produits laitiers",
+      "Cidre et bière locaux"
+    ],
+    "description": "Ferme maraîchère cultivée en bio depuis 1998 sur cinq hectares de plein champ et 9 000 m² de tunnels, avec un poulailler de plein air ; son magasin vend la récolte et les produits de fermes partenaires. Elle tient aussi un étal aux halles de Carquefou, du mardi au samedi, et sur les marchés de La Chapelle-sur-Erdre le vendredi matin et de Sucé-sur-Erdre le mardi matin. La photographie, publiée par la ferme, est une vue aérienne de ses parcelles.",
+    "telephone": "02 28 01 21 40",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20Rue%20de%20la%20Bitaudais%2C%2044240%20La%20Chapelle-sur-Erdre",
+    "image_url": "/images/marchands/biotiful-jardin-la-chapelle-sur-erdre.jpg"
   }
 ]

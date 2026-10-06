@@ -5129,9 +5129,21 @@ prioritaires en cas de conflit.
      À deux fiches, rien ne change : la commune ne fait pas la passe (règle 248). **Déblocage** du quatrième : le site du
      magasin redevenu lisible, ou ses heures publiées par la Ville, l'agglomération ou l'office.
 
+419. **Un jeu de données ouvert dont le portail interdit à tous les robots la route qui le sert ne se lit pas, même sous
+     licence ouverte et même relayé par le portail national.** Le 6 octobre 2026 (cent trente-septième passe), la descente
+     de la Loire-Atlantique reprend à Couëron, dans Nantes Métropole. Le jeu « Producteurs ayant des lieux de vente en circuit
+     court à Nantes Métropole », que les passes de Saint-Herblain et de Rezé avaient lu, n'est servi que par
+     `data.nantesmetropole.fr/api/…` ; le `robots.txt` du portail écrit aujourd'hui `Disallow: /api/` sous `User-agent: *`
+     et n'ouvre ce chemin qu'à un moteur de recherche nommé. La fiche du jeu sur `data.gouv.fr` renvoie vers la même adresse.
+     La licence ouverte dit ce qu'on a le droit de faire des données, pas par quelle route un robot peut les prendre : c'est
+     la règle 214. **Tranché ainsi** : le jeu n'est plus une source ; une requête au catalogue faite avant la lecture du
+     `robots.txt` n'a servi à rien de publié ; les fiches déjà publiées sur sa foi restent, chacune ayant ses propres sources.
+     Les producteurs se cherchent par le registre de l'Agence Bio, le registre des entreprises et leurs propres sites.
+     **Déblocage** : un `robots.txt` qui rouvre `/api/`, ou le même jeu servi par une route ouverte.
+
 ## Marchands à confirmer
 
-940 fiches sur 1070 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+943 fiches sur 1075 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
 - **Marché de Soissons**, **Biocoop Au Panier Naturel** (Soissons) et **La Ferme de Vénizel** (Venizel) (passe du 5 octobre
   2026, cent trente-sixième, règles 5, 9, 143, 178, 210, 246, 371, 377, 413 et 418) : ni la Ville ni l'office ne publient
   d'heure pour le marché, l'heure écrite est celle d'un annuaire de marchés ; le magasin bio et la ferme sont illustrés par
@@ -12668,6 +12680,117 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent trente-septième) : Carquefou (Loire-Atlantique), cinq fiches ; Couëron sans zone ; règle 419
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 075 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 070 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 9,89, Oise 8,88, Pas-de-Calais 7,62, Landes 6,73,
+Eure-et-Loir 6,72, Calvados 6,01, Loiret 5,73, Ain 5,54, Lot-et-Garonne 5,18, Loir-et-Cher 5,10, Aube 4,82, Somme 4,77,
+Mayenne 4,74, Cher 4,63, Jura 4,00 et Haute-Saône 3,62, tous épuisés (règle 265, état repris du récit de la passe précédente ;
+l'Oise, le Pas-de-Calais et la Somme sont de plus fermés par la région de la passe de Soissons) ; **Val-de-Marne 3,14**, dont
+la descente est terminée depuis le 28 septembre et qui ne garde que trois pistes attendant une publication de leur Ville —
+non relues par cette passe ; **Loire-Atlantique (44) 3,0839**, premier département ouvert, en Pays de la Loire, vingt fiches.
+La passe précédente visait les Hauts-de-France : la réserve de la règle 41.c ne joue pas. `git fetch` refait avant
+l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 075 fiches : Loire-Atlantique −1,81
+(25 fiches) ; Val-de-Marne 3,25, Yvelines 3,15, Gers 3,00, Maine-et-Loire 3,00, Haute-Corse 2,92, Seine-et-Marne 2,89. La
+prochaine passe ne peut pas viser les Pays de la Loire.
+
+**Descente de la Loire-Atlantique, reprise au point d'arrêt écrit, Couëron (règles 41.d, 127 et 247).**
+
+1. **Couëron** (24 103, Nantes Métropole) — **trois fiches aux faits entiers, aucune illustrable : pas de zone.** La Ville
+   sert les deux agents ; sa page des marchés donne le jeudi matin place Charles-de-Gaulle et le samedi matin place des
+   Cités, 8h30-12h30, sans aucune famille de produits (règle 197 ; la grille des droits de place ne distingue
+   qu'« alimentaire » et « autre », règle 329) ; ses mentions légales réservent la reproduction à l'usage personnel et
+   nomment les photographies (règles 231 et 296). La fromagerie artisanale du Chef de l'Eau, l'espace maraîcher d'insertion
+   du Mortier des Noues et l'AMAP ont leurs faits (voir les pistes) et aucune image permise. Le drive fermier de la commune
+   coupe la connexion à l'agent nommé et sert les autres (règle 399) : non consulté au-delà de la page lue avant le
+   contrôle, dont rien n'est repris. Le jeu de données des producteurs de la métropole est fermé (règle 419).
+2. **Carquefou** (20 921, Nantes Métropole) — **fait la passe** : quatre fiches dans la commune, dont une illustrée par son
+   propre lieu (règles 127 et 412), et une cinquième à La Chapelle-sur-Erdre, même intercommunalité au référentiel, à 8,4 km
+   de la mairie (règles 96, 219 et 363).
+
+**Sources de Carquefou.** Le site de la Ville répond 444 à l'agent nommé et 200 à l'agent par défaut : non consulté (règle
+257) ; celui de La Chapelle-sur-Erdre répond 403 à l'agent nommé : non consulté. Les marchés des deux communes ne sont donc
+pas instruits. Servent l'un et l'autre agent, sans exclusion dans leur `robots.txt` (ou sans `robots.txt`, règle 343) : les
+sites des trois fermes de Carquefou, celui du maraîcher de La Chapelle-sur-Erdre, le site du réseau départemental des AMAP et
+sa plateforme CAMAP (chemin `/group/` ouvert). Registre de l'Agence Bio du département lu en entier (3 307 opérateurs),
+registre des entreprises, Base Adresse Nationale.
+
+- **Images.** Le site de La Petite Ferme n'a aucune clause et sert ses fichiers depuis son propre domaine aux deux agents
+  (règle 324 ; l'hébergeur de ses vignettes répond 400 à tout `robots.txt` et n'est pas utilisé) : quatre fichiers
+  différents, sans personne, sans enseigne ni marque — le troupeau au pré pour la fiche de la ferme, et trois autres vues de
+  ses bêtes comme photographies thématiques de la commune (règles 312, 332 et 412) pour les trois fiches dont aucune source
+  n'offre d'image : La Ferme Gourmande (mentions légales qui nomment les photographies, règle 231), La Ferme à Cueillir
+  (aucune photographie sur son site) et l'AMAP (aucune photographie à elle). Les marques d'oreille des bovins sont des
+  numéros d'élevage. Le site du maraîcher de La Chapelle-sur-Erdre n'a pas de clause sur les images ; son hébergeur d'images
+  répond 404 au `robots.txt` (règle 343) ; plusieurs de ses fichiers portent le nom d'une banque d'images et ne sont pas
+  repris (règle 360), ses autres photographies montrent des personnes : seule la vue aérienne des parcelles est retenue.
+  Toutes les images sont ramenées à 1 280 px, réencodées depuis leurs seuls pixels (règle 235) et relues après écriture.
+- **Liens.** Les pages d'accueil de La Petite Ferme, de La Ferme Gourmande et de Biotiful Jardin nomment une personne dans
+  leur texte, la page CAMAP de l'AMAP aussi : pas de `site_web` (règles 376, 377 et 383). Seule La Ferme à Cueillir garde
+  son lien.
+
+Les cinq fiches :
+
+1. **La Petite Ferme Carquefou** — société active au registre à l'adresse (Base Adresse Nationale 0,96) ; heures lues sur
+   le site et sur le panneau que la ferme photographie elle-même (règle 115), concordants ; le téléphone est celui que le
+   site et le panneau donnent pour les commandes. Pas de certification : pas de pilier `environnement` (règle 15).
+2. **La Ferme Gourmande** — `a_confirmer`. Société active au registre (commerce de détail de fruits et légumes) au 10 route
+   des Enfas (0,96) ; le site écrit seulement « La Dagonnière », lieu-dit dont l'avenue passe à 230 m : les deux figurent dans
+   l'adresse. Heures du site. « Culture raisonnée » revendiquée, sans certification : pas de pilier `environnement`.
+3. **La Ferme à Cueillir** — `a_confirmer`. Groupement actif au registre, certification engagée depuis novembre 2018 ; la
+   Base ne connaît que la voie (0,82), le point est celui du registre des entreprises, à 70 m de celui de l'Agence Bio
+   (règle 63). Heures de retrait des paniers lues sur le site ; la cueillette libre est suspendue l'hiver et son planning
+   n'affiche rien hors saison.
+4. **AMAP de Carquefou** — `a_confirmer`. Calendrier daté de l'AMAP sur CAMAP (distributions des 6, 13, 20 et 27 octobre
+   2026, 18h-19h, règle 348), adresse et heure confirmées par la page de son maraîcher (règle 213) et par la fiche du réseau.
+5. **Biotiful Jardin** (La Chapelle-sur-Erdre, 8,4 km) — société active sous cette enseigne (0,96), certifiée pour le
+   commerce de détail depuis 2025 ; le groupement qui cultive à la même adresse l'est depuis 1999. Heures et fixe du site.
+   La fiche signale son étal aux halles de Carquefou, que le site ouvre « du mardi au samedi » sans heure ni adresse : pas de
+   fiche propre à l'étal (règles 42 et 192).
+
+**Contradictions** : les annuaires donnent à La Ferme Gourmande une coupure de midi et à La Ferme à Cueillir quatre
+créneaux de vente ; les sites des deux fermes, seuls publiés, écrivent autre chose (règles 90 et 112). À Couëron, l'AMAP est
+située place des Cités par la fiche du réseau et « Mille Clubs » par son propre calendrier ; l'espace maraîcher ouvre le
+mercredi 14h-17h et le vendredi 13h30-16h30 selon son association, d'autres heures selon les annuaires. Rien de Couëron
+n'est publié.
+
+**Écart relevé, sans retrait** : les deux photographies thématiques de la passe de Soissons ont été prises par l'annuaire
+Openverse, que la règle 391 a fermé ; son `robots.txt`, relu ce jour, interdit toujours le chemin. Les fichiers restent
+(domaine public, règle 391, dernière phrase sur les images déjà publiées) ; la voie reste fermée et n'a pas servi ici.
+
+**Fiches écartées pour doute sur une personne** : à Couëron, un verger dont l'enseigne porte un prénom et qui ne reçoit que
+sur rendez-vous, une minoterie et une crémerie au nom de famille, et les exploitations inscrites au registre bio sous le nom
+de leur exploitant. Aucun nom n'est repris.
+
+**Pistes non publiées (Couëron, Carquefou et La Chapelle-sur-Erdre)** — lignes anonymes pour tout ce qui touche une personne :
+
+- Couëron, **La Tome de Couëron**, fromagerie artisanale du Chef de l'Eau : société active ; vente à l'atelier du lundi au
+  samedi 8h30-13h et fixe sur la fiche que la Ville lui consacre et sur son site. Ses mentions légales nomment les photos et
+  le site crédite un photographe (règles 231 et 317). **Déblocage** : une photographie permise de la commune (règle 312).
+- Couëron, espace maraîcher d'insertion du Mortier des Noues (régie de quartiers **OCEAN**) : association active, engagée
+  au registre bio depuis 2011 ; vente à la boutique le mercredi 14h-17h et le vendredi 13h30-16h30 selon son site. Images
+  servies par un hébergeur dont le `robots.txt` répond 403 (règle 256). **Déblocage** : le même.
+- Couëron, AMAP : calendrier CAMAP daté (mardi 18h-19h15) ; lieu à trancher entre deux sources de la même famille.
+  **Déblocage** : l'adresse écrite par l'AMAP ou par la Ville, et une image permise.
+- Couëron, marchés du jeudi et du samedi : jour, heure et place publiés par la Ville, aucune famille de produits.
+  **Déblocage** : une liste d'étals, ou un exposant qui annonce sa présence sur son propre site (règle 386).
+- Couëron, drive fermier associatif : site fermé à l'agent nommé. Ne pas l'instruire tant que le filtrage dure.
+- Couëron, centre socioculturel distribuant des paniers à tarif solidaire : réservé aux habitants inscrits, contacts
+  personnels seulement ; non instruit.
+- Carquefou, étal de Biotiful Jardin aux halles : **Déblocage** : ses heures et son adresse publiées par le maraîcher.
+- Carquefou et La Chapelle-sur-Erdre, marchés : Villes fermées à l'agent nommé. **Déblocage** : le retrait du filtrage, ou
+  une autre autorité lisible (règle 390).
+- La Chapelle-sur-Erdre, trois autres ventes à la ferme que seuls des annuaires décrivent : non instruites, la zone étant
+  faite.
+
+**Point d'arrêt de la Loire-Atlantique : Carquefou**, qui a fait la passe ; le département passe en excédent. Quand il
+reviendra, la descente reprend à **La Chapelle-sur-Erdre** (20 690, qui porte désormais une fiche et se saute si la règle
+82 ne joue pas), puis **Bouguenais** (20 530), **Pornic** (18 745), La Baule-Escoublac (16 912) et Guérande (16 804). Relevé
+utile à cette reprise : les Villes de Bouguenais, Pornic, La Baule-Escoublac et Guérande servent les deux agents, mais leurs
+mentions légales réservent toutes la reproduction à l'usage privé ou nomment les photographies (règles 231 et 296) — les
+images devront venir des commerces.
 
 ### Passe du 5 octobre 2026 (cent trente-sixième) : Soissons (Aisne), trois fiches
 
