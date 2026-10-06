@@ -5231,7 +5231,14 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-962 fiches sur 1094 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+967 fiches sur 1099 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Hostellerie des Vins de Rognes**, **Domaine Naïs**, **Domaine Val de Caire**, **Château Bonisson** et **Château
+  Barbebelle**, à Rognes (passe du 6 octobre 2026, cent quarante-deuxième, règles 10, 14, 127, 136, 231, 233, 312, 377 et
+  412) : trois photographies sont des illustrations thématiques prêtées par la cave coopérative, qui ne montrent pas les
+  domaines ; le point de Val de Caire (numéro de la Base, score 0,55) est à 1,1 km de celui du registre des entreprises ;
+  celui de Naïs est le numéro de la Base (score 0,51) ; ceux de la coopérative et de Barbebelle sont ceux du registre, la
+  Base ne connaissant ni le numéro ni le lieu-dit ; celui de Bonisson (Base, 0,96) est à 0,6 km de celui du registre.
+  **Déblocage** : une photographie permise de chacun des trois domaines, et un marqueur publié par Val de Caire.
 - **Marché Grenelle** (15e), **Marché Alésia**, **Marché Salpêtrière**, **Marché Auguste-Blanqui** (13e) et **Marché
   Daumesnil** (12e), à Paris (passe du 6 octobre 2026, cent quarante et unième, règles 1, 80, 82, 92, 106, 191, 223, 342,
   380, 419 et 423) : la Ville ne publie la composition d'aucun de ces marchés ; les cinq photographies sont des gros plans
@@ -12796,6 +12803,85 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante-deuxième) : Rognes (Bouches-du-Rhône), cinq caveaux dans la commune ; Peyrolles-en-Provence sans zone
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 099 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 094 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 10,33, Oise 9,17, Pas-de-Calais 8,13, Landes 6,88,
+Eure-et-Loir 6,87, Calvados 6,26, Loiret 5,97, Ain 5,78, Lot-et-Garonne 5,29, Loir-et-Cher 5,21, Somme 4,97, Aube 4,93,
+Mayenne 4,85, Cher 4,74, Jura 4,09 et Haute-Saône 3,70, les seize départements écrits épuisés (règle 265) ; Val-de-Marne
+3,64 et Seine-et-Marne 3,29, fermés par la région de la passe précédente (règle 41.c) ; **Bouches-du-Rhône (13) 3,12**,
+premier département ouvert, en Provence-Alpes-Côte d'Azur. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé
+(règle 241). **Après la passe**, sur 1 099 fiches : Bouches-du-Rhône −1,73 (35 fiches) ; en tête des départements ouverts,
+Val-de-Marne 3,74 (descente terminée), Seine-et-Marne 3,40, Haute-Corse 2,98, Manche 2,93, Pyrénées-Orientales 2,92,
+Meuse 2,87. La prochaine passe ne peut pas viser Provence-Alpes-Côte d'Azur.
+
+**Descente reprise comme la passe du 29 septembre l'avait écrit** (règles 247 et 375) : Peyrolles-en-Provence d'abord, puis
+Rognes. Registre de l'Agence Bio du département relu en entier (3 231 opérateurs). Contrôle en deux requêtes et lecture
+des `robots.txt` avant toute page (règles 233 et 257).
+
+1. **Peyrolles-en-Provence** (5 409) — Le site de la Ville répond aux deux agents ; il ne publie aucun marché (les deux
+   marchés que citent des annuaires tiers restent sous la règle 196), ses mentions nomment les photographies dans leur
+   interdiction (règle 231), et plusieurs de ses pages portent des liens et un texte de jeux d'argent sans rapport, signe
+   d'un site compromis. La brasserie bio de la commune ne reçoit que sur rendez-vous (règle 136). Aucune autre exploitation
+   du registre bio n'a d'enseigne et d'heures publiées. **Zéro.**
+2. **Rognes** (4 693) — Le `robots.txt` de la Ville exclut nommément `Amazonbot` (règle 233) : le site n'est pas lu, et les
+   deux marchés de la commune, que lui seul publie avec autorité, restent en pistes (règle 196). **Cinq caveaux entiers
+   dans la commune** (règles 127 et 412), chacun actif au registre des entreprises et engagé au registre de l'Agence Bio,
+   heures lues sur le site du producteur.
+
+Les cinq sites répondent à l'identique aux deux agents et aucun `robots.txt` n'exclut un agent d'IA.
+
+1. **Hostellerie des Vins de Rognes** — coopérative active, deux établissements ouverts ; heures, fixe et adresse de sa
+   page de contact ; Bureau Veritas depuis 2008. Point de la coopérative au registre, à 110 m de celui que la Base donne au
+   chemin (0,95, sans numéro). Photographie de son propre bâtiment (bandeau du site, ramené à 1 280 px).
+2. **Domaine Naïs** — société active ; heures saisonnières de sa page de contact ; Qualisud depuis 2023. Numéro de la
+   Base (0,51, libellé concordant). Sans téléphone : le seul numéro publié est un portable. Lien conservé, la page
+   d'accueil ne nomme personne.
+3. **Domaine Val de Caire** — société active ; heures d'hiver et d'été de sa page de contact ; Ecocert depuis 2011. Numéro
+   de la Base (0,55, libellé concordant), à 1,1 km du point du registre : dit dans la fiche (règle 10). Ni lien (la page
+   d'accueil nomme des personnes, règle 377) ni téléphone (portables seulement).
+4. **Château Bonisson** — sociétés actives à l'adresse ; heures et fixe de sa page de contact ; Ecocert. Numéro de la Base
+   (0,96).
+5. **Château Barbebelle** — sociétés actives ; heures et fixe de ses pages « Contact » et « Commander au domaine » ;
+   Qualisud depuis 2021. Lieu-dit inconnu de la Base : point du registre (règle 10). Pas de lien (règle 377).
+
+Aucune des cinq fiches ne porte le pilier `alimentation` (règle 14).
+
+**Images.** Les mentions des domaines Naïs, Val de Caire et Bonisson nomment les photographies ou les images dans leur
+interdiction (règle 231). Le site de la coopérative n'a aucune clause sur les images (ses mentions légales sont celles,
+par défaut, du logiciel de boutique) et son `robots.txt` n'interdit pas le dossier qui les sert ; celui de Barbebelle ne
+porte qu'un « © » de pied de page, clause générale (règle 291). Deux photographies de lieu : le bâtiment de la coopérative
+et la vue aérienne de Barbebelle (4 000 px ramenés à 1 280). Trois illustrations thématiques prêtées par la coopérative
+(règles 312 et 412), un fichier par fiche : pied de vigne, chai, bouteilles avant la mise. Écartés : un portrait publié
+par Barbebelle, un gros plan de bouteilles à la marque de la coopérative, et le fichier de son site dont le nom porte un
+nom de photographe (règle 339). Fichiers réécrits depuis leurs seuls pixels (règle 235) et relus après écriture ; aucune
+personne.
+
+**Contradictions** : un annuaire tiers donne à la coopérative une ouverture à 9h ; le site écrit 9h30, c'est lui qui est
+publié. Points de Val de Caire et de Bonisson : Base et registre divergent, la Base est publiée et l'écart est écrit
+(« Marchands à confirmer »).
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; à Peyrolles-en-Provence et à Rognes, les
+exploitations inscrites au registre bio sous le seul nom de leur exploitant, non instruites, non nommées. **Données
+personnelles écartées** : les portables de deux domaines, les noms lus sur deux pages d'accueil et dans des mentions
+légales, un nom de photographe dans un nom de fichier.
+
+**Pistes non publiées (Peyrolles-en-Provence et Rognes)** :
+
+- Rognes, marché du mercredi matin (cours Saint-Étienne) et marché paysan du samedi matin : la Ville seule, site non lu
+  (règle 233). **Déblocage** : le retrait de la ligne du `robots.txt`, ou une fiche de l'office intercommunal recoupée
+  dans les conditions de la règle 421.
+- Rognes, une exploitation d'asperges et d'œufs bio et une truffière, toutes deux sous enseigne au registre bio : aucun
+  site ni horaire de vente trouvé (règle 136). **Déblocage** : un créneau de vente publié par l'exploitant.
+- Peyrolles-en-Provence, marché du samedi matin et marché de producteurs du vendredi après-midi : annuaires tiers seuls
+  (règle 196). **Déblocage** : une page de la Ville. Brasserie bio : des heures d'ouverture publiées.
+- Les trois fiches de Rognes publiées avec une illustration : **déblocage** de la réserve, une photographie permise du lieu.
+
+**Point d'arrêt des Bouches-du-Rhône : Rognes**, qui a fait la passe. Quand le département reviendra, la descente reprend
+à **Cabannes** (4 595), puis Gréasque (4 554), Jouques (4 547), Barbentane (4 266), Mimet (4 241) ; Eyragues et Rognonas,
+déjà pourvues, se sautent. Les fiches entières désignées (Pélissanne, Lambesc, Cassis, Sénas) restent en pistes.
 
 ### Passe du 6 octobre 2026 (cent quarante et unième) : Paris, cinq marchés au titre des règles 82 et 423
 

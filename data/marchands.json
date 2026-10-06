@@ -28970,5 +28970,132 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Auguste-Blanqui+boulevard+Auguste-Blanqui+Paris",
     "image_url": "/images/marchands/marche-auguste-blanqui.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "hostellerie-des-vins-de-rognes",
+    "nom": "Hostellerie des Vins de Rognes",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.64943,
+    "lon": 5.371497,
+    "adresse": "Chemin de Brès, RD 15, 13840 Rognes",
+    "horaires": "Caveau de vente du mardi au samedi de 9h30 à 12h30 et de 14h30 à 19h. Fermé le dimanche et le lundi.",
+    "produits": [
+      "Coteaux d'Aix-en-Provence",
+      "IGP Méditerranée",
+      "Vins rosés",
+      "Vins rouges",
+      "Vins blancs",
+      "Vins biologiques",
+      "Bag-in-box"
+    ],
+    "description": "Cave coopérative de Rognes fondée en 1924, installée depuis 2012 dans une cave neuve dont le caveau de vente a ouvert en 2013 ; elle vinifie plus de 550 hectares et produit près de 15 % de l'appellation Coteaux d'Aix-en-Provence. Une partie de ses vins est certifiée en agriculture biologique (engagement auprès de Bureau Veritas depuis 2008, d'après le registre de l'Agence Bio). La Base Adresse Nationale ne numérote pas le chemin : le point est celui de la coopérative au registre des entreprises.",
+    "telephone": "04 42 50 92 73",
+    "site_web": "https://www.hostelleriedesvinsderognes.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hostellerie%20des%20Vins%20de%20Rognes%20Chemin%20de%20Br%C3%A8s%2013840%20Rognes",
+    "image_url": "/images/marchands/hostellerie-des-vins-de-rognes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-nais-rognes",
+    "nom": "Domaine Naïs",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.657685,
+    "lon": 5.357917,
+    "adresse": "161 route du Puy-Sainte-Réparade (CD 15), 13840 Rognes",
+    "horaires": "Caveau du lundi au samedi : du 1er octobre au 31 mai de 9h à 12h et de 14h30 à 18h30 ; du 1er juin au 30 septembre de 9h à 12h et de 15h à 19h. Fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Coteaux d'Aix-en-Provence",
+      "Vins rouges",
+      "Vins rosés",
+      "Vins blancs",
+      "Vin cuit"
+    ],
+    "description": "Domaine viticole de 51 hectares en appellation Coteaux d'Aix-en-Provence, qui ne vend à son caveau que les vins de sa propre récolte, à emporter ; engagé en agriculture biologique auprès de Qualisud depuis 2023, d'après le registre de l'Agence Bio. Le domaine ne publie qu'un numéro de portable, non repris ici. Photo : illustration thématique (pied de vigne) publiée par la cave coopérative de Rognes ; elle ne montre pas le domaine.",
+    "site_web": "https://domainenais.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20Na%C3%AFs%20161%20route%20du%20Puy-Sainte-R%C3%A9parade%2013840%20Rognes",
+    "image_url": "/images/marchands/domaine-nais-rognes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-val-de-caire-rognes",
+    "nom": "Domaine Val de Caire",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.677791,
+    "lon": 5.321365,
+    "adresse": "2850 route de Caireval (RD 66), 13840 Rognes",
+    "horaires": "Caveau de vente : du 16 octobre au 31 mars, lundi, mardi, jeudi et vendredi de 15h à 19h, samedi de 10h à 12h et de 15h à 18h ; du 1er avril au 15 octobre, lundi, mardi, jeudi et vendredi de 16h à 19h, samedi de 10h à 12h et de 16h à 18h. Fermé le mercredi, le dimanche et les jours fériés.",
+    "produits": [
+      "Coteaux d'Aix-en-Provence",
+      "Vins rouges",
+      "Vins rosés",
+      "Vins blancs",
+      "Vin de France"
+    ],
+    "description": "Domaine viticole de l'arrière-pays d'Aix, sur la route de Caireval, qui vend à son caveau des vins biologiques élevés en cuve, en fûts de chêne ou en amphore de terre cuite ; certifié par Ecocert depuis 2011, d'après le registre de l'Agence Bio. Le point est celui du numéro dans la Base Adresse Nationale ; le registre des entreprises place l'exploitation à un kilomètre à l'ouest, suivre le fléchage sur place. Le domaine ne publie que des numéros de portable, non repris ici. Photo : illustration thématique (chai) publiée par la cave coopérative de Rognes ; elle ne montre pas le domaine.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20Val%20de%20Caire%202850%20route%20de%20Caireval%2013840%20Rognes",
+    "image_url": "/images/marchands/domaine-val-de-caire-rognes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-bonisson-rognes",
+    "nom": "Château Bonisson",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.661497,
+    "lon": 5.345389,
+    "adresse": "177 route des Mauvares, 13840 Rognes",
+    "horaires": "Caveau de dégustation et de vente du mardi au dimanche de 13h30 à 18h30. Fermé le lundi.",
+    "produits": [
+      "Coteaux d'Aix-en-Provence",
+      "Vins rouges",
+      "Vins rosés",
+      "Vins blancs"
+    ],
+    "description": "Domaine viticole en appellation Coteaux d'Aix-en-Provence autour d'une bastide du XVIIIe siècle, qui abrite aussi un centre d'art contemporain ; des cinq caveaux de Rognes publiés ici, c'est le seul ouvert le dimanche. Engagé en agriculture biologique auprès d'Ecocert, d'après le registre de l'Agence Bio. Photo : illustration thématique (bouteilles avant la mise) publiée par la cave coopérative de Rognes ; elle ne montre pas le domaine.",
+    "telephone": "04 42 66 90 20",
+    "site_web": "https://www.bonisson.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Bonisson%20177%20route%20des%20Mauvares%2013840%20Rognes",
+    "image_url": "/images/marchands/chateau-bonisson-rognes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chateau-barbebelle-rognes",
+    "nom": "Château Barbebelle",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.634544,
+    "lon": 5.352291,
+    "adresse": "Château Barbebelle, RD 543, 13840 Rognes",
+    "horaires": "Cave de dégustation et de vente du lundi au samedi de 9h à 12h et de 14h à 18h. Fermé le dimanche.",
+    "produits": [
+      "Coteaux d'Aix-en-Provence",
+      "Vins rosés",
+      "Vins rouges",
+      "Vins blancs",
+      "Vins effervescents"
+    ],
+    "description": "Domaine qui se présente comme l'un des plus anciens du pays d'Aix : une bastide et 50 hectares de vignes au milieu de 300 hectares de bois et de garrigue, au sud du village. Engagé en agriculture biologique auprès de Qualisud depuis 2021, d'après le registre de l'Agence Bio. La Base Adresse Nationale ne connaît pas le lieu-dit : le point est celui du domaine au registre des entreprises. Photo : vue aérienne du domaine publiée par le château.",
+    "telephone": "04 42 50 22 12",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Barbebelle%2013840%20Rognes",
+    "image_url": "/images/marchands/chateau-barbebelle-rognes.jpg",
+    "a_confirmer": true
   }
 ]
