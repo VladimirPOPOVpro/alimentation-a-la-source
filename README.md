@@ -5141,9 +5141,37 @@ prioritaires en cas de conflit.
      Les producteurs se cherchent par le registre de l'Agence Bio, le registre des entreprises et leurs propres sites.
      **Déblocage** : un `robots.txt` qui rouvre `/api/`, ou le même jeu servi par une route ouverte.
 
+420. **Une ferme qui tient boutique dans une commune est un commerce de cette commune pour la règle 312, même quand ses
+     photographies ont été prises sur son exploitation, ailleurs dans le département ; et quand l'office de tourisme refuse
+     l'agent nommé, l'exposant qui annonce sa présence tient lieu de seconde source pour le jour et le lieu d'un marché.** Le
+     6 octobre 2026 (cent trente-huitième passe), Auch, première commune du Gers jamais visitée, rend les faits de six points
+     de vente et ferme presque toutes ses images : les mentions légales de la boutique des éleveurs et du magasin bio nomment
+     les images ou les photographies (règle 231), le chantier d'insertion maraîcher crédite une banque d'images (règles 70 et
+     360), le `robots.txt` de la Ville répond 403 à tous les agents (règle 256, étendue ici au site d'une commune : ses pages,
+     servies à l'identique aux deux agents, se lisent pour les faits, ses images ne se reprennent pas), et l'office de tourisme
+     comme le comité départemental répondent 403 au seul agent nommé (règle 257). Deux sites restent ouverts, sans clause sur
+     les images et sans exclusion : celui de la boulangerie bio de la place de la cathédrale, et celui d'une ferme d'élevage du
+     sud du département qui tient une boucherie avenue des Pyrénées et un étal au marché du samedi. **Tranché ainsi** : la
+     ferme vend à Auch sous sa propre enseigne, à une adresse que le registre des entreprises lui connaît ; son site est donc
+     celui d'un commerce de la commune, et ses photographies — troupeau, paysage — peuvent servir de photographies thématiques
+     aux fiches d'Auch dans les conditions des règles 312 et 412 (un fichier par fiche, description qui dit ce que l'image
+     montre et qu'elle ne montre pas le lieu). Pour le marché du samedi, la Ville donne le jour, la demi-journée et le lieu,
+     sans famille de produits ; la ferme écrit qu'elle y vend chaque samedi matin sous la Halle aux Herbes : la règle 386
+     remplit `produits`, et cette même phrase confirme le jour et le lieu à la place de l'office illisible (règle 9), la fiche
+     restant `a_confirmer`, sans heure. Les trois autres marchés de la Ville, que personne d'autre ne nomme, ne sont cités que
+     dans la description. **Limite** : la règle ne vaut que pour une boutique tenue en propre — pas pour un simple dépôt chez
+     un tiers ni pour une présence au seul marché. **Déblocage** des fiches restées en pistes : une image permise de plus.
+
 ## Marchands à confirmer
 
-943 fiches sur 1075 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+948 fiches sur 1080 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Boucherie de la Ferme d'Enjacquet**, **Aqui'chò ! – La Boucherie des Éleveurs**, **Biocoop Les Jardins d'Augusta**,
+  **L'Atelier de Naroques** et **Marché du samedi en haute ville** (Auch) (passe du 6 octobre 2026, cent trente-huitième,
+  règles 9, 90, 312, 386, 412 et 420) : la boucherie de la ferme écrit « 9h-13h, 7 jours sur 7 » sur son site quand
+  l'affichage de sa vitrine, lu sur sa propre photographie, semble annoncer aussi des après-midi en semaine ; la boulangerie
+  ne publie ses heures que dans les données structurées de sa page, sans les afficher ; le marché n'a d'heure chez aucune
+  source lue et un seul exposant pour toute famille de produits ; la boutique des éleveurs, le magasin bio et le marché
+  sont illustrés par une photographie thématique qui ne montre pas le lieu.
 - **Marché de Soissons**, **Biocoop Au Panier Naturel** (Soissons) et **La Ferme de Vénizel** (Venizel) (passe du 5 octobre
   2026, cent trente-sixième, règles 5, 9, 143, 178, 210, 246, 371, 377, 413 et 418) : ni la Ville ni l'office ne publient
   d'heure pour le marché, l'heure écrite est celle d'un annuaire de marchés ; le magasin bio et la ferme sont illustrés par
@@ -12680,6 +12708,97 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent trente-huitième) : Auch (Gers), cinq fiches ; Yvelines sans zone ; règle 420
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 080 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 075 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : du Val-d'Oise (9,98) à la Haute-Saône (3,64), les seize départements
+que le récit précédent écrit épuisés (règle 265) ; Val-de-Marne 3,25, descente terminée, ses trois pistes non relues par
+cette passe ; **Yvelines (78) 3,15**, premier département ouvert, en Île-de-France ; puis **Gers (32) 3,00**, jamais visité
+(le Maine-et-Loire, à égalité, est fermé par la région de la passe précédente, règle 41.c). **Après la passe**, sur 1 080
+fiches : Gers −1,98 (5 fiches) ; Val-de-Marne 3,35, Yvelines 3,26. La prochaine passe ne peut pas viser l'Occitanie.
+
+**Descente des Yvelines, reprise au point d'arrêt écrit, Élancourt — neuf communes, aucune zone.** Registre de l'Agence Bio du
+département lu (819 opérateurs rendus par l'interface). Partout les faits des marchés existent et les images sont fermées.
+
+1. **Élancourt** (26 365) — la Ville répond toujours 403 à l'agent nommé (règle 257) ; aucun producteur ni magasin
+   spécialisé au registre bio. Rien.
+2. **Maisons-Laffitte** (23 093) — la Ville donne le marché du mercredi et du samedi matin sous la halle, sans heure ni
+   famille de produits (règle 197), et réserve la copie à l'usage privé (règle 296). Deux magasins bio d'une enseigne
+   nationale au registre, non instruits. Pas de zone.
+3. **Vélizy-Villacoublay** (23 011) — trois marchés publiés avec place et heures (Mail, mercredi et samedi 8h-13h30 ; Mozart,
+   vendredi et dimanche 8h-13h30 ; Louvois, vendredi 15h-20h), aucune famille de produits ; les mentions légales nomment les
+   photographies (règle 231). Un magasin bio coopératif place Louvois, seul.
+4. **Mantes-la-Ville** (22 332) — une fiche aux faits entiers, le marché couvert de la place du Marché (jeudi 8h30-12h30,
+   dimanche 8h30-13h, familles écrites), sans image permise (copie privée, photographies nommées) ; rien d'autre.
+5. **Achères** (22 241) — le marché du mercredi et du samedi, 8h-13h, avec la liste de ses étals ; adresse du marché non
+   écrite sur la page, copie réservée à l'usage personnel (règle 296). Une fiche possible, seule.
+6. **Saint-Cyr-l'École** (21 268) — la Ville répond 403 à l'agent nommé. La grande ferme de la plaine de Versailles publie
+   les heures de son magasin (tous les jours 9h30-19h) et de sa cueillette (lundi 13h30-18h, du mardi au samedi 9h-18h,
+   dimanche 9h-17h) : deux fiches aux faits entiers, mais ses mentions légales n'autorisent que l'usage privé et soumettent
+   les liens à accord (règle 296). Aucune image permise dans la commune.
+7. **Carrières-sous-Poissy** (20 825) — marché du dimanche 8h30-14h place Simone-Veil, sans famille de produits ; visuels
+   réservés à la consultation privée.
+8. **Maurepas** (20 629) — la page du marché ne donne ni heure ni étal ; la Ville place ses contenus sous une licence qui
+   exige crédit et lien vers la licence, ce que la carte ne sait pas porter (même motif que pour Wikimedia Commons).
+9. **La Celle-Saint-Cloud** (20 460) — trois marchés avec place et heures, sans famille de produits ; visuels réservés à la
+   consultation privée.
+
+**Écart assumé à la règle 247** : la passe a quitté les Yvelines après neuf communes et non douze. Limay, Viroflay et
+Marly-le-Roi n'ont été que survolées (registre bio, page d'accueil ou page du marché) et ne comptent pas comme éprouvées.
+**Point d'arrêt des Yvelines : Limay** (17 885), puis Viroflay (17 237), Marly-le-Roi (16 756), Bois-d'Arcy (16 586). Relevé
+utile : à Marly-le-Roi la Ville publie le marché de la rue Fontenelle, mardi, vendredi et dimanche de 8h à 13h, sans famille
+de produits ; plus bas dans la descente, Magny-les-Hameaux (9 386) compte plusieurs producteurs bio dotés de leur propre site.
+
+**Gers, second département (règle 248) : Auch** (22 428), commune la plus peuplée, aucune fiche jusqu'ici — **fait la
+passe**, cinq fiches dans la commune. Sources : sites des commerces, tous servis aux deux agents sans exclusion ; page des
+marchés de la Ville ; registre de l'Agence Bio du département lu en entier (3 448 opérateurs), registre des entreprises,
+Base Adresse Nationale. Non consultés : l'office de tourisme d'Auch et le comité départemental du tourisme (403 à l'agent
+nommé). La recherche générale n'a servi qu'à trouver les adresses des sites.
+
+1. **Boucherie de la Ferme d'Enjacquet** — société active, établissement ouvert au 28 avenue des Pyrénées (Base 0,97) ;
+   heures et téléphone de la page « nous retrouver » de la ferme ; photographie de la devanture publiée sur cette page. Pas
+   de lien : la page d'accueil de la ferme nomme des personnes (règles 376 et 377).
+2. **Aqui'chò ! – La Boucherie des Éleveurs** — société active, deux établissements ouverts ; la fiche est celle de la
+   boutique de la route d'Agen (768, Base 0,97), heures et fixe du site, dont la page d'accueil ne nomme personne : lien
+   publié. La seconde boutique, rue Bazillac, est dite dans la description avec ses heures. Photographie thématique.
+3. **Biocoop Les Jardins d'Augusta** — société active au 52 rue du 8 Mai (0,97), engagée au registre bio ; heures et fixe
+   du site du magasin. Pas de lien : la page de présentation nomme une personne. Photographie thématique.
+4. **L'Atelier de Naroques** — société active, établissement ouvert place de la Cathédrale, fabrications certifiées ;
+   adresse du site (7 place de la République, 0,96). Heures lues dans les seules données structurées de la page ; le seul
+   téléphone publié est un portable, non repris ; la page nomme une personne, pas de lien. Photographie de la devanture.
+5. **Marché du samedi en haute ville** — règles 9, 386 et 420 ; point : la place de la République (Base, voie, 0,96).
+
+**Images.** Deux fichiers de la boulangerie (devanture ; viennoiserie, pour le magasin bio) et trois de la ferme (devanture
+de sa boucherie ; paysage, pour la boutique des éleveurs ; troupeau, pour le marché où elle expose). Aucune personne, aucune
+plaque lisible ; les reflets de la vitrine de la boulangerie ne laissent reconnaître personne. Les visuels génériques de la
+plateforme qui héberge la boulangerie (pain et épis sur fond noir) sont des images de banque : non repris (règle 360). Tous
+les fichiers font 1 067 à 1 280 px de large, réencodés depuis leurs seuls pixels (règle 235) et relus après écriture.
+
+**Contradictions** : la ferme écrit « du lundi au dimanche de 9h à 13h » pour sa boucherie, quand l'affichage de la vitrine
+sur sa photographie semble porter d'autres heures en semaine ; le texte du site est publié, la réserve est dans `horaires`.
+La boutique des éleveurs écrit « 9 rue Bazillac » pour son magasin du centre, le registre « 11 rue Bazillac » ; l'adresse du
+commerce est celle de la description. Le magasin bio écrit « rue 8 Mai », la Base « Rue du 8 Mai ».
+
+**Fiches écartées pour doute sur une personne** : à Auch, une vente de viande à la ferme dont le site s'ouvre sur le nom de
+l'éleveur, et les exploitations inscrites au registre bio sous le seul nom de leur exploitant. Aucun nom n'est repris.
+
+**Pistes non publiées (Auch)** :
+
+- Auch, seconde boutique d'**Aqui'chò !**, 9 rue Bazillac : faits entiers (du mardi au samedi 8h-13h et 16h-19h, fixe
+  publié). **Déblocage** : une photographie permise de plus dans la commune (règle 412).
+- Auch, jardin de l'Arçon de l'association **REGAR**, ZI Engachies : chantier d'insertion maraîcher certifié bio ; paniers
+  et mini-marché au jardin le mercredi 8h30-12h30 et le vendredi 8h30-15h45, de juin à février, selon son site. Images
+  créditées à une banque d'images. **Déblocage** : le même, et une adresse que la Base sache placer.
+- Auch, marchés du jeudi (basse ville), du mardi (place de la Fontaine) et du mercredi 16h30-19h (place Rosa-Parks) : la
+  Ville seule, aucune famille de produits. **Déblocage** : une liste d'étals ou un exposant qui s'y annonce (règle 386).
+- Auch, second magasin bio d'une enseigne nationale, chemin de Molas, et magasin bio du parc du Grand Chêne : au registre
+  bio, non instruits, la zone étant faite.
+- Pavie, magasin bio coopératif de la zone du Sousson, signalé par le site commun des deux magasins : non instruit.
+
+**Point d'arrêt du Gers : Auch**, qui a fait la passe ; le département passe en excédent. Quand il reviendra, la descente
+reprend à **L'Isle-Jourdain** (9 537), puis Condom (6 473) et Fleurance (6 247).
 
 ### Passe du 6 octobre 2026 (cent trente-septième) : Carquefou (Loire-Atlantique), cinq fiches ; Couëron sans zone ; règle 419
 

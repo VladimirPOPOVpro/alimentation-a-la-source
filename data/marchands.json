@@ -28495,5 +28495,132 @@
     "telephone": "02 28 01 21 40",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=21%20Rue%20de%20la%20Bitaudais%2C%2044240%20La%20Chapelle-sur-Erdre",
     "image_url": "/images/marchands/biotiful-jardin-la-chapelle-sur-erdre.jpg"
+  },
+  {
+    "slug": "boucherie-ferme-d-enjacquet-auch",
+    "nom": "Boucherie de la Ferme d'Enjacquet",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.637921,
+    "lon": 0.584007,
+    "adresse": "28 Avenue des Pyrénées, 32000 Auch",
+    "horaires": "Tous les jours, du lundi au dimanche, de 9h à 13h, selon le site de la ferme. L'affichage de la vitrine peut différer (ouverture l'après-midi en semaine) : à vérifier sur place ou par téléphone.",
+    "produits": [
+      "Bœuf Angus et Hereford nourri à l'herbe",
+      "Porc basque élevé en plein air",
+      "Canard et foie gras du Gers",
+      "Poulet fermier",
+      "Charcuterie artisanale",
+      "Conserves et plats cuisinés de la ferme"
+    ],
+    "description": "Boucherie-charcuterie que tient à Auch une ferme d'élevage du sud du Gers : la viande, la charcuterie et les conserves vendues viennent de ses propres élevages et sont transformées à la ferme. La ferme vend aussi le samedi matin au marché de la haute ville, sous la Halle aux Herbes. La photographie, publiée par la ferme, montre la devanture de la boutique.",
+    "telephone": "09 87 79 88 64",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=28%20Avenue%20des%20Pyr%C3%A9n%C3%A9es%2C%2032000%20Auch",
+    "image_url": "/images/marchands/boucherie-ferme-d-enjacquet-auch.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "aqui-cho-boucherie-des-eleveurs-auch",
+    "nom": "Aqui'chò ! – La Boucherie des Éleveurs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.668086,
+    "lon": 0.601808,
+    "adresse": "768 Route d'Agen, 32000 Auch",
+    "horaires": "Du mardi au samedi de 8h à 19h sans interruption, selon le site de la boutique. Fermé le dimanche et le lundi.",
+    "produits": [
+      "Veau rosé élevé sous la mère du Gers",
+      "Bœuf et porc du Gers",
+      "Charcuterie maison",
+      "Fromages et crèmerie",
+      "Épicerie et cave de producteurs gersois",
+      "Colis de viande sur commande"
+    ],
+    "description": "Boutique des éleveurs du Gers installée dans le pôle viandes de la route d'Agen, face à l'abattoir d'Auch : viandes des filières gersoises, charcuterie maison, crèmerie, épicerie et cave, avec un service de retrait des commandes. L'enseigne tient une seconde boutique en centre-ville, 9 rue Bazillac, ouverte du mardi au samedi de 8h à 13h et de 16h à 19h. Photo : paysage gersois publié par la Ferme d'Enjacquet, qui tient boutique à Auch (lafermedenjacquet.com) ; elle ne montre pas le magasin.",
+    "telephone": "05 62 60 13 14",
+    "site_web": "https://aquicho.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=768%20Route%20d%27Agen%2C%2032000%20Auch",
+    "image_url": "/images/marchands/aqui-cho-boucherie-des-eleveurs-auch.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-les-jardins-d-augusta-auch",
+    "nom": "Biocoop Les Jardins d'Augusta",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.657527,
+    "lon": 0.591371,
+    "adresse": "52 Rue du 8 Mai, 32000 Auch",
+    "horaires": "Du lundi au samedi de 9h à 19h ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Boucherie bio",
+      "Fromage et charcuterie à la coupe",
+      "Pain des boulangers de la région",
+      "Vrac",
+      "Épicerie et cave bio"
+    ],
+    "description": "Magasin bio coopératif ouvert en 2006, avec une boucherie traditionnelle bio, un rayon à la coupe, plus de deux cents références en vrac et une préférence affichée pour les producteurs du Gers. Certification biologique engagée au registre de l'Agence Bio pour le commerce de détail. Photo : viennoiserie de L'Atelier de Naroques, boulangerie bio d'Auch (naroques.eatbu.com) ; elle ne montre pas le magasin.",
+    "telephone": "05 62 05 91 72",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=52%20Rue%20du%208%20Mai%2C%2032000%20Auch",
+    "image_url": "/images/marchands/biocoop-les-jardins-d-augusta-auch.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "atelier-de-naroques-auch",
+    "nom": "L'Atelier de Naroques",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.646199,
+    "lon": 0.585,
+    "adresse": "7 Place de la République, 32000 Auch",
+    "horaires": "Du mardi au samedi de 7h15 à 18h45, selon les données d'ouverture que la boulangerie publie sur son site, qui n'affiche pas d'horaires en clair : à confirmer. Fermé le dimanche et le lundi.",
+    "produits": [
+      "Pains bio au levain",
+      "Viennoiseries",
+      "Farines de céréales du Gers",
+      "Fruits et légumes de saison",
+      "Miels, confitures et huiles de producteurs gersois",
+      "Vins, bières et fromages locaux"
+    ],
+    "description": "Boulangerie bio de la place de la cathédrale, née d'une exploitation céréalière du Gers : elle transforme en farine puis en pain des céréales cultivées dans le département, et vend en boutique les produits de producteurs gersois, bio ou locaux. Fabrications certifiées bio au registre de l'Agence Bio. La photographie, publiée par la boulangerie, montre sa devanture.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7%20Place%20de%20la%20R%C3%A9publique%2C%2032000%20Auch",
+    "image_url": "/images/marchands/atelier-de-naroques-auch.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-samedi-haute-ville-auch",
+    "nom": "Marché du samedi en haute ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.646439,
+    "lon": 0.585054,
+    "adresse": "Place de la République, 32000 Auch",
+    "horaires": "Samedi matin, autour de la cathédrale et de la Halle aux Herbes. Ni la Ville ni les exposants consultés ne publient d'heure de début ou de fin.",
+    "produits": [
+      "Viandes, charcuterie et conserves de la ferme (La Ferme d'Enjacquet, sous la Halle aux Herbes)"
+    ],
+    "description": "Marché traditionnel hebdomadaire de la haute ville d'Auch, que la Ville situe autour de la cathédrale et de la Halle aux Herbes. La Ville ne détaille pas les étals : le seul produit cité est celui d'un exposant qui annonce lui-même sa présence, ce n'est pas l'inventaire du marché. Auch tient trois autres marchés : le jeudi matin en basse ville, le mardi matin place de la Fontaine, et le mercredi de 16h30 à 19h place Rosa-Parks. Photo : troupeau de la Ferme d'Enjacquet, exposante du marché (lafermedenjacquet.com) ; elle ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2032000%20Auch",
+    "image_url": "/images/marchands/marche-du-samedi-haute-ville-auch.jpg",
+    "a_confirmer": true
   }
 ]
