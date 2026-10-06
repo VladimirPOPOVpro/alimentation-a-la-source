@@ -29443,5 +29443,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint%20Jacques%2066140%20Canet-en-Roussillon",
     "image_url": "/images/marchands/marche-du-village-canet-en-roussillon.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mercredi-bitche",
+    "nom": "Marché du mercredi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.051208,
+    "lon": 7.424045,
+    "adresse": "Place Schuman, 57230 Bitche",
+    "horaires": "Mercredi de 8h à 12h, d'après la page « Marché du mercredi » de la Ville (consultée le 6 octobre 2026).",
+    "produits": [
+      "Fromages fermiers",
+      "Fruits et légumes",
+      "Poisson",
+      "Rôtisserie",
+      "Spécialités asiatiques",
+      "Spécialités halal",
+      "Plants et horticulture"
+    ],
+    "description": "Marché hebdomadaire du centre de Bitche : une dizaine de commerçants itinérants selon la saison, d'après la Ville, avec quelques étals non alimentaires (vêtements, cannage de chaises). La Ville et l'office de tourisme ne donnent pas le même prénom à la place Schuman, et la Base Adresse Nationale ne la connaît pas : le point sur la carte est celui que publie l'office de tourisme du Pays de Bitche, à deux cents mètres de la mairie. Photo : Ville de Bitche, recadrée sur les tentes du marché.",
+    "site_web": "https://www.ville-bitche.fr/Bitche-quotidien/Marches/Marche-mercredi.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Schuman%2057230%20Bitche",
+    "image_url": "/images/marchands/marche-du-mercredi-bitche.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-bitche",
+    "nom": "Marché couvert de Bitche",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.054015,
+    "lon": 7.439787,
+    "adresse": "Rue du Général Stuhl, 57230 Bitche",
+    "horaires": "Samedi de 8h à 12h. La page du marché couvert écrit seulement « dès 8h » ; l'heure de fin vient de l'annuaire des commerces de la Ville et d'une actualité municipale de fin septembre 2026.",
+    "produits": [
+      "Viandes de la ferme",
+      "Fruits et légumes bio",
+      "Fromages fermiers",
+      "Œufs",
+      "Spécialités boulangères",
+      "Confitures et sirops",
+      "Vins et bières artisanales",
+      "Herbes aromatiques et épices bio"
+    ],
+    "description": "Marché de producteurs du samedi matin, sous une halle à charpente de bois, derrière la salle des Cuirassiers : près d'une vingtaine de producteurs locaux selon la saison, d'après la Ville, et quelques étals d'artisanat. Le point est celui de la rue du Général Stuhl dans la Base Adresse Nationale ; l'office de tourisme situe l'accès rue du 4e régiment de cuirassiers, voie que la Base ne connaît pas. Photo : Ville de Bitche, recadrée sur la charpente de la halle.",
+    "site_web": "https://www.ville-bitche.fr/Bitche-quotidien/Marches/Marche-couvert.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20du%20G%C3%A9n%C3%A9ral%20Stuhl%2057230%20Bitche",
+    "image_url": "/images/marchands/marche-couvert-bitche.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "boutique-du-moulin-d-eschviller-volmunster",
+    "nom": "Boutique du Moulin d'Eschviller",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.136241,
+    "lon": 7.365502,
+    "adresse": "Moulin d'Eschviller, 57720 Volmunster",
+    "horaires": "De 9h à 12h et de 13h à 17h, fermée le mardi : heures que le site du moulin affiche pour son ouverture 2026, avec ses visites guidées du 6 juillet au 15 octobre. L'office de tourisme écrit que la boutique vend toute l'année, sans donner d'heures : se renseigner avant de se déplacer après la mi-octobre.",
+    "produits": [
+      "Farines",
+      "Nouilles traditionnelles",
+      "Graines apéritives",
+      "Miels des apiculteurs du rucher",
+      "Schlaeggel préparé par les arboriculteurs",
+      "Produits labellisés Qualité MOSL"
+    ],
+    "description": "Boutique du site du Moulin d'Eschviller, qui se visite avec son moulin à grains, sa scierie et son rucher : on y trouve des produits locaux en lien avec le moulin, la scierie ou le rucher, et d'autres produits de producteurs et d'artisans mosellans, ainsi que des objets en bois. À 10,5 km de la mairie de Bitche, dans la même communauté de communes. Le point est celui du lieu-dit dans la Base Adresse Nationale. Photo : Office de tourisme du Pays de Bitche (www.tourisme-paysdebitche.fr), droits réservés.",
+    "telephone": "03 87 96 76 40",
+    "site_web": "http://www.moulindeschviller.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin%20d%27Eschviller%2057720%20Volmunster",
+    "image_url": "/images/marchands/boutique-du-moulin-d-eschviller-volmunster.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "le-potager-du-bitcherland-schweyen",
+    "nom": "Le Potager du Bitcherland",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.152005,
+    "lon": 7.401711,
+    "adresse": "Vallon du Baerenthal, D86C, 57720 Schweyen",
+    "horaires": "Paniers de légumes sur abonnement, à composer au potager le mardi de 14h30 à 19h, ou à retirer tout prêts dans des casiers le mercredi matin. Saison des paniers de début juin à fin décembre ; légumes au détail sur commande en hiver. D'après le site de l'exploitation, dont la dernière page datée est d'avril 2025 : à confirmer pour la saison en cours.",
+    "produits": [
+      "Paniers de légumes bio de saison",
+      "Fruits bio",
+      "Courges butternut",
+      "Choux",
+      "Poireaux",
+      "Pommes de terre"
+    ],
+    "description": "Maraîchage biologique établi en 2018 dans un vallon de Schweyen, qui vend sa récolte en paniers hebdomadaires à prix fixe : on s'engage pour la saison, après un essai possible, et l'on vient remplir son panier au potager. Plus de cinquante légumes différents sur l'année, tous issus de ses propres semis, d'après l'exploitation. Société active au registre des entreprises, engagée auprès d'Ecocert depuis 2017 au registre de l'Agence Bio. À 11,5 km de la mairie de Bitche, dans la même communauté de communes. Le point est celui que publie l'office de tourisme du Pays de Bitche, la Base Adresse Nationale ne connaissant pas le vallon. Photo : Office de tourisme du Pays de Bitche (www.tourisme-paysdebitche.fr), droits réservés.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vallon%20du%20Baerenthal%20D86C%2057720%20Schweyen",
+    "image_url": "/images/marchands/le-potager-du-bitcherland-schweyen.jpg",
+    "a_confirmer": true
   }
 ]

@@ -5308,9 +5308,35 @@ prioritaires en cas de conflit.
      mentions qui n'interdisent plus la reprise des images, ou une autorisation de citer la source que le site saurait
      porter.
 
+429. **Une clause de base de données qui déclare illicite « toute utilisation ou extraction d'éléments du site non autorisée »
+     ferme le site, faits compris, quand les mentions légales n'autorisent rien par ailleurs ; elle ne mord pas quand la
+     même page autorise la reproduction électronique en citant la source.** Le 6 octobre 2026 (cent cinquantième passe),
+     la règle 425 rouvre à leur rang deux communes de Moselle qu'une source servie à l'agent par défaut faisait attendre :
+     Sarrebourg et Bitche. Les deux offices de tourisme portent, sous l'intitulé de leur système d'information touristique,
+     la même phrase : les bases de données sont protégées et « toute utilisation ou extraction d'éléments du site non
+     autorisée » par l'office « est illicite ». À Sarrebourg, rien d'autre n'autorise quoi que ce soit, et le paragraphe de
+     propriété intellectuelle nomme les photographies avant d'interdire toute reproduction (règle 246). Dans le Pays de
+     Bitche, les mêmes mentions écrivent que « la reproduction de tout ou partie de ce site sur un support électronique est
+     autorisée » en citant la source et « Droits réservés », pour un usage non commercial : c'est le gabarit de la règle
+     239. **Tranché ainsi** : recopier un horaire dans une fiche est une utilisation d'un élément du site, comme à la règle
+     416 ; sans autorisation écrite, le site n'est une source ni pour les faits ni pour l'image, et ce que la passe y a lu
+     avant de trouver la clause ne nourrit aucune fiche (règle 252) ; quand la même page donne l'autorisation, l'usage
+     qu'elle décrit est autorisé, la clause ne vise que le reste, et la fiche cite la source comme le veut la règle 239.
+     Les mentions légales se lisent avant toute page de contenu (règle 402). **Déblocage** d'un site ainsi fermé : une
+     permission écrite, ou les mêmes faits publiés par la commune, par le commerce lui-même ou par une autre autorité
+     lisible.
+
 ## Marchands à confirmer
 
-980 fiches sur 1112 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+984 fiches sur 1116 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du mercredi** et **Marché couvert de Bitche** (Bitche), **Boutique du Moulin d'Eschviller** (Volmunster) et
+  **Le Potager du Bitcherland** (Schweyen) (passe du 6 octobre 2026, cent cinquantième, règles 9, 46, 99, 239, 287, 320, 331,
+  376, 407, 413 et 429) : le point du marché du mercredi et celui du potager sont ceux de l'office de tourisme, la Base
+  Adresse Nationale ne connaissant ni la place ni le vallon ; la Ville et l'office ne donnent pas le même prénom à la place
+  Schuman ; l'heure de fin du marché couvert ne figure pas sur sa page propre ; les heures de la boutique du moulin sont
+  celles de son ouverture 2026, qui s'arrête au 15 octobre ; les jours de retrait des paniers du potager viennent d'un site
+  dont la dernière page datée est d'avril 2025, et le registre de l'Agence Bio le déclare sans vente aux particuliers quand
+  son propre site ne vend qu'à eux.
 - **Château de Rey**, **Au Terroir Gourmand**, **Marché du centre plage** et **Marché du village**, à
   Canet-en-Roussillon (passe du 6 octobre 2026, cent quarante-neuvième, règles 1, 9, 92, 312, 412 et 428) : le point du
   domaine est celui du registre des entreprises, la Base Adresse Nationale ne connaissant pas son lieu-dit ; les heures du
@@ -12908,6 +12934,104 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent cinquantième) : Bitche (Moselle), quatre fiches dans le Pays de Bitche ; Sarrebourg sans zone ; règle 429
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 116 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 112 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du Val-d'Oise
+10,67 à la Haute-Saône 3,76 ; Val-de-Marne 4,01, descente terminée ; **Seine-et-Marne (77) 3,68**, premier ouvert, deux
+communes (règle 426) ; **Moselle (57) 2,95**, second, borne de douze. La réserve de la règle 41.c était celle de
+l'Occitanie : le Grand Est est permis. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé. **Après la passe**,
+sur 1 116 fiches, la Moselle compte 18 fiches pour une cible de 17,02. La prochaine passe ne peut pas viser le Grand Est.
+Suivent au classement : Rhône 2,99, Meuse 2,92 (Grand Est), Lot 2,86, Meurthe-et-Moselle 2,85 (Grand Est), Haute-Marne
+(Grand Est), Corse-du-Sud et Alpes-de-Haute-Provence 2,72.
+
+**Seine-et-Marne (règle 426, deux communes).** **Égreville** (2 186) : la Ville écrit un marché de produits locaux autour
+de la halle, sans jour ni heure (règle 9), et ses mentions nomment les photographies (règle 231). Zéro. **La
+Chapelle-la-Reine** (2 170) : marché du mardi matin place de la République, sans heures, décrit par une phrase générale
+(règle 197) ; photographies réservées à l'usage privé (règle 296) ; au registre bio, un supermarché. Zéro.
+
+**Moselle.** Avant la descente, les communes qu'une source fermée par la seule règle 257 faisait attendre se rouvrent à
+leur rang (règle 425) : Sarrebourg, puis Bitche. La descente avait d'abord été ouverte au point d'arrêt écrit ; ses trois
+communes comptent comme éprouvées (règles 301 et 406).
+
+1. **Sarrebourg** (12 170) — l'office de tourisme et la base régionale, servis à l'agent par défaut, portent des fiches
+   datées de 2026 pour le marché bi-hebdomadaire, un magasin de producteurs et la boutique d'un confiseur. Mais les
+   mentions de l'office ferment le site, faits compris (**règle 429**) ; celles de la base régionale, de la Ville et du
+   confiseur nomment les images (règles 231 et 246) ; le magasin de producteurs n'a plus de site à lui ; la Ville ne nomme
+   aucune famille de produits pour le marché ni pour les Halles (règle 197). Une fiche aux faits entiers par son propre
+   site, la boutique du confiseur, sans image permise ; aucune photographie d'un lieu de la commune (règle 412). **Zéro.**
+2. **Bitche** (4 966) — **fait la passe** (voir ci-dessous).
+3. **Cocheren** (3 358) — aucun marché hebdomadaire (des marchés de Noël), rien au registre bio. **Zéro.**
+4. **Grosbliederstroff** (3 346) — aucune page de marché ni de commerce ; au registre bio, des exploitations sans vente
+   publiée. **Zéro.**
+5. **Morhange** (3 308) — la page « Marché du dimanche » de la Ville ne contient qu'une image d'annonce, sans texte ; au
+   registre bio, des céréaliers et une coopérative de gros. **Zéro.**
+
+**Bitche.** Les deux fiches que la passe quatre-vingt-neuvième avait laissées à une heure de fin près sont entières : la
+Ville écrit désormais « de 8h à 12h » pour le marché couvert, dans son annuaire des commerces et dans une actualité de fin
+septembre 2026. Ses mentions légales autorisent la reproduction de ses photographies « à la condition d'en indiquer
+l'auteur et la source » (règles 407 et 413) ; celles de l'office de tourisme du Pays de Bitche autorisent la reproduction
+électronique en citant la source (règles 239 et 429). La communauté de communes du Pays de Bitche complète le groupe
+(règles 96, 127, 219 et 363 ; distances à vol d'oiseau depuis la mairie, 31 rue du Maréchal-Foch, point de l'annuaire de
+l'administration) :
+
+- **Marché du mercredi** (`marche`, 0,2 km) — mercredi 8h-12h, familles de produits écrites par la Ville et reprises par
+  l'office. La Ville écrit « place Maurice Schuman », l'office « place Robert Schuman » ; ni la Base Adresse Nationale ni
+  le géocodeur de l'IGN (règle 409) ne connaissent la place : point de l'office (règle 287), que le contrôle inverse
+  rend à trente-sept mètres d'un numéro de la rue voisine. Photographie de la Ville, recadrée au-dessus des passants
+  (règles 46 et 99).
+- **Marché couvert de Bitche** (`marche`, 1,1 km) — samedi 8h-12h, rue du Général Stuhl (Base, voie, 0,96) ; une vingtaine
+  de producteurs, familles écrites par la Ville. Photographie de la Ville, recadrée sur la charpente de la halle.
+- **Boutique du Moulin d'Eschviller**, Volmunster (`producteur`, 10,5 km) — point de vente du site du moulin (règles 8 et
+  105) ; heures de l'« ouverture 2026 » lues sur le site du moulin, fixe et produits concordants entre le site et
+  l'office ; association active au registre au lieu-dit. Les mentions du moulin créditent des photographes par leur nom
+  (règle 317) : photographie de l'office, non retouchée.
+- **Le Potager du Bitcherland**, Schweyen (`ferme`, 11,5 km) — société active au registre, engagée auprès d'Ecocert
+  depuis juillet 2017 ; paniers sur abonnement à retirer au potager, jours et heures de son propre site (règle 84).
+  La page d'accueil nomme l'exploitant et présente le portable comme le sien : ni `site_web` ni `telephone` (règles 229 et
+  376). Le registre bio le déclare sans vente aux particuliers, son site ne vend qu'à eux (règle 331). Ses images passent
+  par un réseau de diffusion dont le `robots.txt` exclut des agents d'IA (règles 238 et 345) : photographie de l'office.
+
+**Quatre fiches et non cinq** (règle 320) : aucun cinquième point n'a ses heures chez une source lisible (voir les pistes).
+
+**Contradictions** : le prénom de la place Schuman (ci-dessus) ; l'accès du marché couvert, rue du Général Stuhl pour la
+Ville et rue du 4e régiment de cuirassiers pour l'office, dont le point tombe à 350 m de celui de la Base ; la saison de la boutique
+du moulin, « toute l'année » pour l'office, affichée avec la saison de visites sur le site : la fiche le dit.
+
+**Fiches écartées pour doute sur une personne** : une dizaine dans le Pays de Bitche (fermes, mielleries, vergers,
+confitures, chocolaterie) et une dizaine autour de Sarrebourg (ruchers, maraîchage, vergers), que l'office ne désigne que
+par un nom de personne ; non instruites, elles ne se rouvrent pas. Aucun nom lu dans les annuaires, les registres et les
+mentions légales consultés n'est repris.
+
+**Pistes non publiées (Seine-et-Marne et Moselle)** — lignes anonymes :
+
+- Égreville, marché autour de la halle : **Déblocage** : un jour et des heures écrits par la Ville, et un second point.
+- La Chapelle-la-Reine, marché du mardi : **Déblocage** : des heures et une famille de produits propre au marché.
+- Sarrebourg, boutique d'un confiseur qui fabrique dans une commune voisine : faits entiers par son propre site.
+  **Déblocage** : une photographie permise, et une seconde fiche entière dans la commune.
+- Sarrebourg, magasin de producteurs de la rue Dessirier (association active au registre, certifiée) et marché
+  bi-hebdomadaire (mardi et vendredi 8h-12h15, place du Marché, d'après la Ville) : **Déblocage** : les heures du magasin
+  chez une source lisible (règle 429), une famille de produits du marché écrite par la Ville.
+- Autour de Sarrebourg, boutique de deux exploitations à Langatte, vente de fromages de brebis à Voyer, chèvrerie de
+  Niderviller, épicerie d'un maraîchage bio à Haut-Clocher, distillerie de Troisfontaines, pisciculture d'Abreschviller :
+  connus par l'office seul ou non instruits. À reprendre si Sarrebourg rend ses deux fiches.
+- Bitche, épicerie de légumes et de production locale de la rue du Maréchal-Foch : aucune heure (règle 192).
+- Petit-Réderching, marché du mardi (16h30-19h30, parking de la gare, d'après la commune) : aucune famille de produits
+  (règle 197). **Déblocage** : une liste d'étals, ou un exposant qui s'y annonce sur son site (règle 386) ; ce serait le
+  cinquième point du groupe de Bitche (8,9 km).
+- Petit-Réderching, brasserie artisanale (nom de domaine expiré), ferme avec site (403 à l'agent par défaut), élevage de
+  bisons (site derrière un défi) ; Hottviller, fromagerie fermière bio ; Rohrbach-lès-Bitche, épicerie bio et locale ;
+  Sturzelbronn, maraîchage bio : aucune heure chez une source lisible (règles 192 et 212).
+- Liederschiedt, maraîchage : mentions légales qui interdisent toute utilisation du site (règle 416). Volmunster, élevage
+  de juments laitières : même clause, et une gamme surtout cosmétique.
+- Achen (marché mensuel de producteurs) et Gros-Réderching (marché hebdomadaire) : au-delà de quinze kilomètres.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Varreddes** (2 167), puis Chailly-en-Bière (règle
+426). En **Moselle**, à **Carling** (3 291), puis Bousse, Knutange et Fontoy ; Sarrebourg ne se rouvre que par un
+déblocage nommé. Dans les **Pyrénées-Orientales**, en **Ille-et-Vilaine**, dans la **Manche** et en **Haute-Corse**,
+inchangé.
 
 ### Passe du 6 octobre 2026 (cent quarante-neuvième) : Canet-en-Roussillon (Pyrénées-Orientales), quatre fiches dans la commune ; règle 428
 
