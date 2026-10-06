@@ -5246,9 +5246,36 @@ prioritaires en cas de conflit.
      une fiche entière, pas de zone. **Limite** : la règle cesse dès qu'une passe publie dans l'un des deux départements,
      ou dès que le classement recalculé place un autre département devant eux.
 
+425. **Le contrôle « en deux requêtes » ne se fait plus sous un nom d'emprunt : l'agent de cette carte est l'agent par défaut
+     de son outil, le `robots.txt` et les mentions légales disent la volonté de l'éditeur, et un site qui refuse l'agent par
+     défaut ne se lit pas.** Les règles 257 et 403 faisaient présenter l'outil sous le nom d'un robot d'indexation connu.
+     Deux défauts, constatés le 6 octobre 2026 (cent quarante-sixième passe) après trois passes vides. D'abord ce nom n'est
+     pas celui de l'outil : les requêtes d'une passe ne partent pas des adresses que l'exploitant de ce robot publie, et
+     beaucoup de pare-feu répondent 403 à quiconque porte un nom de robot connu sans en venir — le refus mesure
+     l'usurpation, pas une décision éditoriale (ce jour-là, sept sites contrôlés refusaient le nom et servaient l'outil,
+     sans qu'aucun `robots.txt` ne nomme personne). Ensuite la règle 403 lisait sous ce nom des sites qui refusaient
+     l'agent par défaut : c'est franchir un filtrage en se présentant comme un autre, ce que les règles 212 et 252
+     interdisent déjà. **Tranché ainsi** : (a) une seule requête de contrôle, sous l'agent par défaut, sans en-tête
+     d'emprunt d'aucune sorte ; (b) un site qui la refuse (403, 429 persistant, défi, connexion coupée) n'est pas lu
+     (règles 212, 237 et 252) ; (c) le `robots.txt` reste lu avant toute page et ferme le site dès qu'il exclut tous les
+     robots ou nomme un agent d'IA (règles 77, 233 et 414), les mentions légales gardent tout leur effet sur les images
+     (règles 231, 291, 416) ; (d) les règles 257 et 403 cessent de s'appliquer. Aucune exigence de vérification ne baisse.
+     **Ce que la règle débloque** : une commune ou une source fermée par la seule règle 257 se rouvre à son rang quand une
+     passe revient dans son département, sans rouvrir le reste ; les départements écrits épuisés (règle 265) ne sont pas
+     reclassés d'office — la passe qui en relira un le dira. **Ce qu'elle ferme** : ce qui n'a été lu que sous le nom
+     d'emprunt (règle 403) ne nourrit aucune fiche tant que l'agent par défaut n'y est pas servi. Première application :
+     le magasin biologique de Furiani, troisième point du groupe de Bastia.
+
 ## Marchands à confirmer
 
-967 fiches sur 1099 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+970 fiches sur 1102 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Pratali – magasin de Bastia**, **Marché de la place du Marché** (Bastia) et **La Roulotte – Furiani** (passe du
+  6 octobre 2026, cent quarante-sixième, règles 1, 3, 5, 6, 96, 101, 178, 197, 312, 418 et 425) : ni la Ville ni la page
+  courante de l'office n'écrivent d'heure pour le marché, publié à la demi-journée, et sa photographie est une
+  illustration prêtée qui ne montre pas le lieu ; le magasin du maraîcher complète son étal de produits d'autres
+  provenances ; le point du magasin de Furiani est celui que publie l'enseigne, la Base Adresse Nationale ne connaissant
+  pas le lieu-dit, et son site, vérolé (règle 101), n'est pas inscrit. **Déblocage** : une heure écrite par la Ville ou
+  l'office, et une photographie permise de la place.
 - **Hostellerie des Vins de Rognes**, **Domaine Naïs**, **Domaine Val de Caire**, **Château Bonisson** et **Château
   Barbebelle**, à Rognes (passe du 6 octobre 2026, cent quarante-deuxième, règles 10, 14, 127, 136, 231, 233, 312, 377 et
   412) : trois photographies sont des illustrations thématiques prêtées par la cave coopérative, qui ne montrent pas les
@@ -12820,6 +12847,96 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante-sixième) : Bastia et Furiani (Haute-Corse), trois fiches ; règle 425
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Trois fiches ajoutées, aucune retirée** : 1 102 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 099 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : inchangé (règle 260) — les seize départements écrits épuisés (règle
+265), Val-de-Marne 3,74 descente terminée ; **Seine-et-Marne (77) 3,40**, premier ouvert ; **Haute-Corse (2B) 2,98**, second.
+La réserve de la règle 41.c était celle de Provence-Alpes-Côte d'Azur. Trois passes vides de suite sur cette paire et une
+descente seine-et-marnaise sous 3 000 habitants : la règle 424 donne deux communes à la Seine-et-Marne et douze à la
+Haute-Corse. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé. **Après la passe**, sur 1 102 fiches :
+Haute-Corse −0,01 (3 fiches) ; en tête des départements ouverts, Val-de-Marne 3,81 (descente terminée), Seine-et-Marne
+3,46, Manche 2,95, Pyrénées-Orientales 2,94, Meuse 2,88. La prochaine passe ne peut pas viser la Corse.
+
+**Écart de méthode, corrigé en cours de passe (règle 425).** La première moitié de la passe a suivi les règles 257 et 403 :
+contrôle sous un nom de robot d'emprunt, et lecture sous ce nom de quatre sites communaux qui refusaient l'agent par défaut
+(Ghisonaccia, Vescovato, L'Île-Rousse, Cervione — ce dernier contrôlé seulement). Rien de ce qui a été lu ainsi ne nourrit
+une fiche. Les trois fiches publiées reposent uniquement sur des pages servies à l'agent par défaut.
+
+**Seine-et-Marne (règle 424, deux communes).** La fiche désignée de Saint-Mammès n'a toujours pas de seconde fiche dans la
+commune (non réinstruite). **Samoreau** (2 384) : contrôle d'accès seulement, non instruite. Point d'arrêt inchangé.
+
+**Haute-Corse : descente, puis retour au groupe désigné de Bastia.** Registre de l'Agence Bio du département relu (738
+opérateurs).
+
+1. **Ghisonaccia** (4 405) — marché de producteurs saisonnier du mercredi matin au stade, dernières annonces de 2023 ; site
+   lu sous le nom d'emprunt seulement (règle 425) et mentions légales qui nomment les images (règle 231). Zéro.
+2. **Prunelli-di-Fiumorbo** (3 880) — **une fiche aux faits entiers** : la Ville décrit le marché de la halle de
+   Migliacciaru (samedi matin toute l'année à partir de 8h, mardi en saison ; boucherie, charcuterie, pêche locale, fruits
+   et légumes, fromage) sur sa page et dans plusieurs actualités (règles 178 et 197), avec ses photographies et sans clause
+   sur les images. Pas de seconde fiche : aucun producteur du registre bio n'y a de site. Désignée pour la reprise.
+3. **Penta-di-Casinca** (3 671) — **une fiche aux faits entiers** : le magasin à la ferme du maraîcher bio, à Folelli,
+   dont l'exploitation publie les heures d'été (du lundi au samedi de 8h à 12h30). Les autres producteurs de l'annuaire de
+   la Ville n'ont ni site ni heures (règle 136) et la Ville les inscrit sous des noms de personnes. Désignée pour la reprise.
+4. **Vescovato** (3 406) — annuaire des commerces sans marché ni vente directe ; lu sous le nom d'emprunt seulement. Zéro.
+5. **L'Île-Rousse** (3 231) — marché couvert des producteurs attesté par des arrêtés de 2022 à 2026 et par les appels à
+   emplacement ; lu sous le nom d'emprunt seulement (règle 425), jours et heures non lus, images nommées aux mentions
+   légales (règle 231). Zéro.
+6. **Ville-di-Pietrabugno** (3 215) — deux annonces de marché de producteurs, de 2017. Zéro.
+7. **San-Martino-di-Lota** (3 056) — un marché aux fleurs annuel. Zéro.
+8. **Calenzana** (2 684) — le premier domaine a un site en construction, sans heures (règle 136) ; le site du second
+   n'ouvre aucune connexion (règle 237). Zéro ; le groupe de Calvi Balagne ne se forme pas.
+
+**Bastia, groupe désigné (règles 258 et 418) : le troisième point existe.** Le magasin biologique de Furiani, dans la
+Communauté d'agglomération de Bastia, à 6 km de la place du Marché : heures et téléphone publiés par l'enseigne, attestation
+de l'interprofession bio corse (liste de ses rayons, photographie du magasin), société active au registre des entreprises
+avec un établissement ouvert sous l'enseigne à Furiani, engagement Ecocert depuis 2005 au registre de l'Agence Bio. Les
+passes précédentes ne l'avaient pas instruit : son site et celui de l'interprofession refusaient le nom d'emprunt et servent
+l'outil (règle 425). Les trois fiches, chacune revérifiée entièrement :
+
+- **Pratali – magasin de Bastia** (`ferme`) — heures jour par jour publiées par l'exploitation ; établissement actif à
+  cette adresse sous l'enseigne ; numéro de la Base Adresse Nationale (0,97) ; photographie de l'exploitation (bouteilles
+  d'huile, aucune personne). Ses conditions de vente réservent « le contenu » sans nommer d'image (règle 231).
+- **Marché de la place du Marché** (`marche`) — la Ville l'écrit dans sa démarche d'emplacement (formulaire 2026) et dans
+  une consultation de 2023 (règle 178) ; l'office de tourisme intercommunal nomme charcuterie, fromages et poissons (règle
+  197). Photographies de la Ville et de l'office fermées (règles 231 et 291) : illustration prêtée par l'exploitation
+  ci-dessus, fichier distinct (règles 191 et 312).
+- **La Roulotte – Furiani** (`magasin-bio`) — photographie du rayon publiée par l'interprofession (1 440 px, aucune
+  personne) ; `site_web` laissé vide, le site de l'enseigne portant des liens de paris injectés (règle 101).
+
+**Trois fiches et non cinq (règle 418)** : deux dans la commune calculée, dont une illustrée par son propre lieu ; une seule
+commune de l'intercommunalité hors de Bastia ; quatrième point nommé en pistes et attesté par l'office intercommunal (le
+marché de producteurs de Miomo).
+
+**Contradictions** : pour le marché de Bastia, l'office écrit « place de l'Hôtel de Ville », la Ville « place du marché » —
+c'est la même place, celle de la Ville fait foi ; une agence régionale écrit 8h-13h, la page courante de l'office aucune
+heure : publié à la demi-journée (règles 5 et 9). Pour le magasin de Bastia, un annuaire tiers donne des heures coupées à
+midi, l'exploitation des journées continues : c'est elle qui fait foi.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; à Prunelli-di-Fiumorbo, Penta-di-Casinca et
+Calenzana, des exploitations et des commerces connus sous le seul nom de leur exploitant, non instruits, non nommés.
+
+**Pistes non publiées (Haute-Corse)** — lignes anonymes :
+
+- Santa-Maria-di-Lota, marché de producteurs du vendredi matin à Miomo : l'office intercommunal seul, sur une fiche d'agenda
+  datée de 2024 (règle 196). **Déblocage** : une page de la commune servie à l'agent par défaut, ou la fiche de l'office
+  remise à l'année en cours.
+- Bastia, épicerie corse de la rue Napoléon : revendeur, aucune heure publiée par elle (règle 136). Distillerie du
+  boulevard : site qui limite les requêtes (429), non lu. Brasserie de Furiani : vente sur place non écrite.
+- Prunelli-di-Fiumorbo, marché de la halle de Migliacciaru : **fiche entière désignée** (règle 258). **Déblocage** : une
+  seconde fiche entière dans la commune.
+- Penta-di-Casinca, magasin à la ferme de Folelli : **fiche entière désignée**, heures d'hiver à relire. **Déblocage** :
+  une seconde fiche entière dans la commune.
+- Calvi, domaine viticole de la route de la forêt de Bonifato : reste désigné, sans seconde fiche.
+- Ghisonaccia et L'Île-Rousse, marchés de producteurs : **Déblocage** : le site de la Ville servi à l'agent par défaut,
+  et une photographie permise dans la commune (règle 312).
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Samoreau** (2 384), puis Presles-en-Brie,
+Bray-sur-Seine et Rebais ; les communes fermées par la seule règle 257 (Rozay-en-Brie, Évry-Grégy-sur-Yerre,
+Verneuil-l'Étang) se rouvrent à leur rang (règle 425). En **Haute-Corse**, la descente reprend à **Ventiseri** (2 629),
+puis Aléria, Cervione et Monticello.
 
 ### Passe du 6 octobre 2026 (cent quarante-cinquième) : Seine-et-Marne et Haute-Corse, aucune publication ; une fiche entière désignée à Calvi ; règle 424
 

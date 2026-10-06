@@ -29097,5 +29097,84 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20Barbebelle%2013840%20Rognes",
     "image_url": "/images/marchands/chateau-barbebelle-rognes.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "pratali-bastia",
+    "nom": "Pratali – magasin de Bastia",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 42.697933,
+    "lon": 9.449886,
+    "adresse": "10 Rue Napoléon, 20200 Bastia",
+    "horaires": "Lundi de 9h à 19h, du mardi au vendredi de 7h30 à 19h30, samedi de 7h30 à 19h, dimanche de 7h30 à 12h30.",
+    "produits": [
+      "Légumes biologiques de l'exploitation",
+      "Fruits biologiques",
+      "Huile d'olive AOP Oliu di Corsica",
+      "Sauce tomate maison",
+      "Épicerie"
+    ],
+    "description": "Point de vente en ville d'une exploitation maraîchère de Casinca, créée en 2012 à Folelli : six hectares de légumes en agriculture biologique et cinq hectares d'oliviers, vendus en direct toute l'année. L'étal est complété par des fruits et légumes d'autres provenances, que l'exploitation signale comme tels. Engagée auprès d'Ecocert depuis 2011 d'après le registre de l'Agence Bio. Horaires publiés par l'exploitation. Photo : bouteilles d'huile d'olive du domaine, publiée par l'exploitation.",
+    "site_web": "https://www.pratali.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pratali%2010%20Rue%20Napol%C3%A9on%2020200%20Bastia",
+    "image_url": "/images/marchands/pratali-bastia.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-du-marche-bastia",
+    "nom": "Marché de la place du Marché",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.697536,
+    "lon": 9.450335,
+    "adresse": "Place du Marché, 20200 Bastia",
+    "horaires": "Tous les samedis et dimanches matin. La Ville ne publie pas d'heures précises.",
+    "produits": [
+      "Charcuterie corse",
+      "Fromages",
+      "Poissons",
+      "Fruits et légumes",
+      "Produits corses"
+    ],
+    "description": "Marché alimentaire de la vieille ville, tenu chaque fin de semaine sur la place du Marché, derrière l'ancien hôtel de ville. La Ville en publie les jours et l'office de tourisme intercommunal y annonce charcuterie, fromages, poissons et autres produits corses. Photo d'illustration : une parcelle maraîchère de Casinca, publiée par un producteur qui tient boutique à Bastia ; elle ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20March%C3%A9%2020200%20Bastia",
+    "image_url": "/images/marchands/marche-place-du-marche-bastia.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-roulotte-furiani",
+    "nom": "La Roulotte – Furiani",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 42.646386,
+    "lon": 9.439806,
+    "adresse": "Canale, Route Nationale 193, 20600 Furiani",
+    "horaires": "Du lundi au samedi de 9h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Produits frais",
+      "Vrac",
+      "Boulangerie",
+      "Épicerie sucrée et salée",
+      "Boissons",
+      "Surgelés"
+    ],
+    "description": "Magasin biologique indépendant de l'entrée sud de Bastia, enseigne insulaire qui tient aussi boutique à Ajaccio et en Plaine orientale. Adhérent de l'interprofession bio corse, engagé auprès d'Ecocert depuis 2005 d'après le registre de l'Agence Bio. La Base Adresse Nationale ne connaît pas le lieu-dit : le point est celui que publie le magasin. Photo : le rayon fruits et légumes, publiée par l'interprofession.",
+    "telephone": "04 95 34 47 08",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Roulotte%20Canale%2020600%20Furiani",
+    "image_url": "/images/marchands/la-roulotte-furiani.jpg",
+    "a_confirmer": true
   }
 ]
