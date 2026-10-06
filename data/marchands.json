@@ -29342,5 +29342,106 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%89pi%20Condorcet%2010%20rue%20Fran%C3%A7ois%20Mitterrand%2035136%20Saint-Jacques-de-la-Lande",
     "image_url": "/images/marchands/amap-de-la-lande-saint-jacques-de-la-lande.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chateau-de-rey-canet-en-roussillon",
+    "nom": "Château de Rey",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 42.688179,
+    "lon": 2.996753,
+    "adresse": "Mas de Rey, route de Saint-Nazaire, 66140 Canet-en-Roussillon",
+    "horaires": "Caveau ouvert du lundi au vendredi de 10h à 12h et de 15h à 18h, le samedi de 10h à 12h ; fermé le dimanche. Horaires 2026 publiés par l'office de tourisme ; le domaine est hors du bourg, mieux vaut téléphoner avant de s'y rendre.",
+    "produits": [
+      "Vins rouges",
+      "Vins blancs",
+      "Vins rosés",
+      "Muscat de Rivesaltes",
+      "Vins doux naturels"
+    ],
+    "description": "Domaine viticole bâti en 1875 sur des terrasses de galets qui dominent la mer, engagé en agriculture biologique depuis 2019 d'après le registre de l'Agence Bio, qui vend ses vins au caveau. Le point sur la carte est celui que le registre des entreprises donne au domaine, la Base Adresse Nationale ne connaissant pas ce lieu-dit. La photographie, publiée sur la fiche du domaine à l'office de tourisme, montre des bouteilles au caveau.",
+    "telephone": "04 68 73 86 27",
+    "site_web": "https://chateauderey.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ch%C3%A2teau%20de%20Rey%2C%20Mas%20de%20Rey%2C%2066140%20Canet-en-Roussillon",
+    "image_url": "/images/marchands/chateau-de-rey-canet-en-roussillon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-terroir-gourmand-canet-en-roussillon",
+    "nom": "Au Terroir Gourmand",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.705909,
+    "lon": 3.008583,
+    "adresse": "8 Place Saint Jacques, 66140 Canet-en-Roussillon",
+    "horaires": "Du mardi au samedi de 9h à 13h et de 16h30 à 19h30, le dimanche de 9h à 13h ; fermé le lundi. Horaires 2026 publiés par l'office de tourisme.",
+    "produits": [
+      "Fruits et légumes bio de producteurs locaux",
+      "Fromages, beurre et crème",
+      "Huiles d'olive et tapenades",
+      "Jus et nectars de fruits locaux",
+      "Vins bio",
+      "Bière artisanale",
+      "Confitures",
+      "Pain"
+    ],
+    "description": "Épicerie-primeur de la place de la mairie, au village, dont les fruits et légumes bio viennent de producteurs de la plaine voisine (Saint-Cyprien, Elne, Alénya, Argelès, Palau-del-Vidre), avec des fromages, des huiles d'olive, des jus et des vins du département. Le magasin n'est pas lui-même certifié bio au registre de l'Agence Bio : il est classé ici comme les épiceries de producteurs locaux déjà publiées. La photographie, publiée sur sa fiche à l'office de tourisme, montre l'intérieur du magasin.",
+    "telephone": "04 11 81 91 65",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=8%20Place%20Saint%20Jacques%2066140%20Canet-en-Roussillon",
+    "image_url": "/images/marchands/au-terroir-gourmand-canet-en-roussillon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-plage-canet-en-roussillon",
+    "nom": "Marché du centre plage",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.695458,
+    "lon": 3.032218,
+    "adresse": "Avenue de la Méditerranée, 66140 Canet-en-Roussillon",
+    "horaires": "Mardi, jeudi, samedi et dimanche matin, toute l'année, de 8h à 12h30 (jusqu'à 13h en saison). Jours identiques sur la page de la Ville et sur celle de l'office de tourisme ; les heures sont celles de la Ville.",
+    "produits": [
+      "Produits frais",
+      "Plats cuisinés"
+    ],
+    "description": "Marché principal de Canet-Plage, alimentaire et non alimentaire, installé sur les ramblas de l'avenue de la Méditerranée : l'office de tourisme y compte une cinquantaine d'exposants en hiver, plus du double en été, dont des producteurs. Le point sur la carte est celui de l'avenue, sans numéro. La photo, prise dans une épicerie du village et reprise de sa fiche à l'office de tourisme, montre un panier de pastèques et non le marché.",
+    "site_web": "https://www.canetenroussillon.fr/mon-quotidien/marches-commerce/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Avenue%20de%20la%20M%C3%A9diterran%C3%A9e%2066140%20Canet-en-Roussillon",
+    "image_url": "/images/marchands/marche-du-centre-plage-canet-en-roussillon.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-village-canet-en-roussillon",
+    "nom": "Marché du village",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 42.705868,
+    "lon": 3.008621,
+    "adresse": "Place Saint Jacques, 66140 Canet-en-Roussillon",
+    "horaires": "Samedi matin place Saint-Jacques, devant l'hôtel de ville, et mercredi matin place Jordi Barre, face à la médiathèque ; de 8h à 12h30 (jusqu'à 13h en saison). Jours et places identiques sur la page de la Ville et sur celle de l'office de tourisme ; les heures sont celles de la Ville.",
+    "produits": [
+      "Produits du terroir",
+      "Étals de producteurs"
+    ],
+    "description": "Petit marché du cœur historique de Canet : une dizaine d'exposants alimentaires le mercredi, des producteurs le samedi, d'après l'office de tourisme, qui ne détaille pas davantage les étals. Le point sur la carte est celui de la place Saint-Jacques ; la place Jordi Barre, que la Base Adresse Nationale ne connaît pas, est dans le même centre ancien. La photo, prise dans une épicerie de la place et reprise de sa fiche à l'office de tourisme, montre des produits frais en caissettes et non le marché.",
+    "site_web": "https://www.canetenroussillon.fr/mon-quotidien/marches-commerce/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint%20Jacques%2066140%20Canet-en-Roussillon",
+    "image_url": "/images/marchands/marche-du-village-canet-en-roussillon.jpg",
+    "a_confirmer": true
   }
 ]

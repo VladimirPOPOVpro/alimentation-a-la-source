@@ -5291,9 +5291,32 @@ prioritaires en cas de conflit.
      en pistes. **Déblocage** : un calendrier de la commune qui montre au moins trois étals alimentaires tenus sans
      annulation sur un mois. Aucune autre exigence ne change.
 
+428. **Une photographie que l'office de tourisme publie mais dont le nom de fichier porte la marque de la Ville suit les
+     mentions légales de la Ville, pas celles de l'office ; et la médiathèque départementale où l'office range les
+     photographies des commerces se lit quand son `robots.txt` ne porte aucune directive.** Le 6 octobre 2026 (cent
+     quarante-neuvième passe), à Canet-en-Roussillon, les mentions légales de la Ville nomment « graphismes, images,
+     textes » dans leur interdiction (règle 231) ; celles de l'office de tourisme n'interdisent que la « représentation
+     totale ou partielle de ce site », sans nommer d'image, ce que la règle 231 ne tient pas pour une fermeture. Mais
+     les photographies de marchés que l'office affiche sont des fichiers nommés d'après la Ville. **Tranché ainsi** :
+     comme l'image de banque de la règle 70, une photographie n'appartient pas à qui l'affiche ; quand son nom désigne
+     un éditeur dont les mentions ferment les images, elle reste fermée où qu'elle soit publiée. Les photographies que
+     l'office range, fiche par fiche, sur la médiathèque touristique du département sont celles que chaque commerce lui
+     a remises pour sa fiche : elles se reprennent pour ce commerce (deuxième recours d'`AGENT.md`) et, dans les
+     conditions des règles 312 et 412, comme photographies thématiques de la commune ; le `robots.txt` de cette
+     médiathèque ne contient qu'un préambule en commentaires, sans directive ni agent nommé. **Limite** : un fichier où
+     l'on lit une marque ou un nom se recadre ou ne se reprend pas. **Déblocage** des photographies de la Ville : des
+     mentions qui n'interdisent plus la reprise des images, ou une autorisation de citer la source que le site saurait
+     porter.
+
 ## Marchands à confirmer
 
-976 fiches sur 1108 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+980 fiches sur 1112 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Château de Rey**, **Au Terroir Gourmand**, **Marché du centre plage** et **Marché du village**, à
+  Canet-en-Roussillon (passe du 6 octobre 2026, cent quarante-neuvième, règles 1, 9, 92, 312, 412 et 428) : le point du
+  domaine est celui du registre des entreprises, la Base Adresse Nationale ne connaissant pas son lieu-dit ; les heures du
+  domaine et de l'épicerie viennent de l'office de tourisme seul ; les deux marchés n'ont que des familles de produits
+  générales, leurs heures viennent de la Ville seule, et leurs photographies, prêtées par la fiche de l'épicerie à
+  l'office, ne montrent pas les marchés.
 - **Brasserie du Vieux Singe** et **AMAP de la Lande**, à Saint-Jacques-de-la-Lande (passe du 6 octobre 2026, cent
   quarante-huitième, règles 1, 5, 312, 412, 426 et 427) : le seul téléphone que publie la brasserie est un portable, non
   inscrit ; l'AMAP n'a pas de site, sa liste de produits vient d'un annuaire tiers, sa seconde distribution du vendredi
@@ -12885,6 +12908,85 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante-neuvième) : Canet-en-Roussillon (Pyrénées-Orientales), quatre fiches dans la commune ; règle 428
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 112 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 108 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du Val-d'Oise
+10,59 à la Haute-Saône 3,75 ; Val-de-Marne 3,93, descente terminée ; **Seine-et-Marne (77) 3,59**, premier ouvert, deux
+communes (règle 426) ; **Pyrénées-Orientales (66) 2,98**, second, borne de douze. La réserve de la règle 41.c était celle de la
+Bretagne : l'Occitanie est permise. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé. **Après la passe**,
+sur 1 112 fiches, les Pyrénées-Orientales comptent 9 fiches pour une cible de 8,01. La prochaine passe ne peut pas viser
+l'Occitanie. Suivent au classement : Meuse 2,90, Moselle 2,89, Lot 2,84 (Occitanie), Rhône et Meurthe-et-Moselle 2,77.
+
+**Seine-et-Marne (règle 426, deux communes).** **Jouy-sur-Morin** (2 230) : l'annuaire des commerces de la mairie ne
+porte aucun marché, et une seule ferme ; un point seul n'est pas une zone (règle 52). Zéro. **Livry-sur-Seine** (2 226) :
+la mairie écrit un marché ambulant le jeudi de 8h à 13h (boucher, crémier, primeur, poissonnier), sans lieu écrit pour
+ce marché, et aucun second point. Zéro.
+
+**Pyrénées-Orientales.** Perpignan a ses cinq fiches, Prades une. **Canet-en-Roussillon** (13 227), première commune de
+la descente sans fiche, **fait la passe** à la première épreuve.
+
+Sources : la Ville (page des marchés ; mentions légales qui nomment les images, règle 231 — lue pour les faits seuls),
+l'office de tourisme (page des marchés et fiches des commerces, horaires datés de 2026 ; mentions légales générales,
+`robots.txt` ouvert), le registre de l'Agence Bio du département (2 027 opérateurs), le registre des entreprises, le site
+du domaine. Les quatre fiches :
+
+- **Château de Rey** (`producteur`, piliers des domaines viticoles déjà publiés) — caveau du lundi au vendredi 10h-12h
+  et 15h-18h, samedi 10h-12h, d'après l'office ; exploitation active au registre des entreprises, engagée en
+  agriculture biologique depuis juillet 2019 et déclarant la vente aux particuliers au registre de l'Agence Bio ; gamme
+  lue sur le site du domaine, ouvert et lu avant inscription. Fixe publié par l'office. La Base Adresse Nationale ne
+  connaît pas le lieu-dit : point du registre des entreprises, cohérent avec la route que nomme l'office ; le registre
+  bio en donne un autre à sept cents mètres, d'où la réserve. Photographie du caveau reprise de la fiche de l'office,
+  sans personne ; les mentions du domaine ferment les images de son propre site, qui ne sont pas reprises.
+- **Au Terroir Gourmand** (`magasin-bio`, piliers des épiceries de producteurs locaux déjà publiées) — épicerie-primeur
+  de la place de la mairie ; société active au registre à cette adresse ; heures et fixe de l'office ; l'office écrit
+  les communes d'origine des fruits et légumes bio. Le magasin n'est pas au registre de l'Agence Bio, la fiche le dit.
+  Point de la Base Adresse Nationale au numéro (0,95). Photographie de l'intérieur reprise de sa fiche à l'office.
+- **Marché du centre plage** (`marche`) — mardi, jeudi, samedi et dimanche matin sur les ramblas de l'avenue de la
+  Méditerranée : jours concordants entre la Ville et l'office, heures de la Ville seule (8h-12h30, 13h en saison).
+  `produits` réduit à ce que l'office écrit de ce marché-là (règles 92 et 197). Point de la voie (0,96).
+- **Marché du village** (`marche`) — mercredi place Jordi Barre, samedi place Saint-Jacques : jours et places
+  concordants entre la Ville et l'office, qui écrit une dizaine d'exposants alimentaires le mercredi et des producteurs
+  le samedi. Point de la place Saint-Jacques (0,95) ; la Base ne connaît pas l'autre place, la fiche le dit.
+
+Les deux marchés reçoivent chacun un fichier distinct de la fiche de l'épicerie à l'office (règles 191, 312 et 412),
+recadré pour qu'on n'y lise pas l'enseigne ; leur description dit que l'image ne montre pas le marché. Métadonnées
+retirées des quatre fichiers (règle 235), relus après écriture.
+
+**Quatre fiches et non cinq** (règle 316) : le cinquième point attendu, le marché de Canet Sud, n'a ni famille de
+produits propre au-delà de « produits frais », ni point sûr, ni troisième photographie thématique sans marque lisible.
+
+**Contradictions** : aucune entre la Ville et l'office sur les jours et les places. Pour le domaine, deux points
+distants de sept cents mètres selon le registre (voir ci-dessus).
+
+**Fiches écartées pour doute sur une personne** : trois à Canet-en-Roussillon, non instruites au-delà du nom — deux
+domaines viticoles et la vente de poisson au retour de pêche sur le port, que les sources ne désignent que par des
+noms de personnes.
+
+**Pistes non publiées (Jouy-sur-Morin, Livry-sur-Seine, Canet-en-Roussillon)** — lignes anonymes :
+
+- Jouy-sur-Morin, ferme citée par l'annuaire de la mairie : point seul, non instruit.
+- Livry-sur-Seine, marché ambulant du jeudi matin : jour, heures et métiers écrits par la mairie, lieu non écrit, point
+  seul. **Déblocage** : le lieu écrit par la mairie et un second point dans la commune.
+- Canet-en-Roussillon, marché de Canet Sud (lundi et vendredi matin, place Charles Trenet) : jours et place concordants
+  entre la Ville et l'office ; la Base Adresse Nationale ne rend qu'une promenade du même nom ; « produits frais » pour
+  seule famille. **Déblocage** : une famille de produits écrite, et une photographie permise.
+- Canet-en-Roussillon, photographies des marchés affichées par l'office : fichiers au nom de la Ville (règle 428).
+- Canet-en-Roussillon, cave d'un domaine au village : adresse et fixe publiés par le domaine et l'office, aucune heure
+  nulle part, pas d'établissement retrouvé au registre sous l'enseigne (règles 136 et 192). **Déblocage** : des heures
+  publiées et l'établissement au registre.
+- Canet-en-Roussillon, magasin biologique d'un réseau national : au registre de l'Agence Bio ; le site du réseau est
+  fermé (règle 414) et l'office ne le fiche pas. **Déblocage** : ses heures publiées par une autorité lisible.
+- Canet-en-Roussillon, atelier de transformation d'un établissement d'aide par le travail, au registre bio : aucune
+  vente au public trouvée.
+- Torreilles, ferme de spiruline avec boutique, fichée par l'office de Canet avec ses heures : hors de la commune, non
+  instruite ; à reprendre si la descente y vient.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Égreville** (2 186), puis La Chapelle-la-Reine
+(règle 426). Dans les **Pyrénées-Orientales**, à **Saint-Cyprien** (12 068), puis Saint-Estève, Pia et Argelès-sur-Mer.
+En **Ille-et-Vilaine**, dans la **Manche** et en **Haute-Corse**, inchangé.
 
 ### Passe du 6 octobre 2026 (cent quarante-huitième) : Saint-Jacques-de-la-Lande (Ille-et-Vilaine), deux fiches dans la commune ; règle 427
 
