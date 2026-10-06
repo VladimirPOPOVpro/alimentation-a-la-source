@@ -12804,6 +12804,101 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 6 octobre 2026 (cent quarante-troisième) : Seine-et-Marne et Haute-Corse, aucune publication ; deux fiches entières désignées à Bastia
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image** : 1 099 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 099 fiches), outre-mer écarté (règle 177), relu
+depuis le premier rang (règle 410) : Val-d'Oise 10,43, Oise 9,23, Pas-de-Calais 8,24, Landes 6,91, Eure-et-Loir 6,90,
+Calvados 6,31, Loiret 6,02, Ain 5,83, Lot-et-Garonne 5,32, Loir-et-Cher 5,24, Somme 5,01, Aube 4,95, puis Mayenne, Cher, Jura
+et Haute-Saône, les seize départements écrits épuisés (règle 265) ; Val-de-Marne 3,74, descente terminée, ses trois pistes
+relues cette fois (voir plus bas) ; **Seine-et-Marne (77) 3,40**, premier département ouvert, en Île-de-France (la passe
+précédente a publié en Provence-Alpes-Côte d'Azur, règle 41.c) ; puis **Haute-Corse (2B) 2,98**, jamais visitée, second
+département au titre de la règle 248. Rien n'étant publié, le classement ne bouge pas (règle 260) et la réserve reste celle
+de Provence-Alpes-Côte d'Azur pour la passe suivante. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Val-de-Marne, contrôle des trois déblocages nommés.** La Base Adresse Nationale ne connaît toujours ni la place du Marché
+de Villecresnes (0,51, une autre rue), ni la halle du Plessis-Trévise (0,57, une autre voie), ni le marché du Centre
+d'Ormesson-sur-Marne (0,43). Aucun déblocage ; non réinstruit.
+
+**Seine-et-Marne : descente reprise après Saint-Mard — douze communes, aucune zone (règle 247).** Le récit du 26 septembre
+écrivait la reprise à Pomponne ; relu contre la liste triée du département (règle 375), les communes de Pomponne à
+Saint-Mard figurent toutes dans son criblage. La descente reprend donc à Chauconin-Neufmontiers. Registre de l'Agence Bio du
+département relu en entier (926 opérateurs). Contrôle en deux requêtes et lecture des `robots.txt` avant toute page (règles
+233 et 257).
+
+1. **Chauconin-Neufmontiers** (3 784) — site de la Ville lu : ni marché ni rubrique de commerces ; rien au registre bio. Zéro.
+2. **Varennes-sur-Seine** (3 748) — la Ville ne publie aucun marché. Le magasin bio coopératif du centre commercial est
+   au registre, mais le site de sa coopérative refuse l'agent nommé (règle 257) et `biocoop.fr` reste fermé. La ferme
+   maraîchère bio de la commune écrit qu'elle vend « à la ferme » sans un jour ni une heure (règle 136) et ne détaille que
+   ses trois marchés hors de la commune. Zéro.
+3. **Dampmart** (3 677) — l'annuaire des commerces de la Ville porte un libre-service de fruits, légumes et œufs en vente
+   directe, rue du Château, avec ses heures : une piste seule, non instruite au registre. Les trois primeurs du registre
+   bio sont inscrits sous le seul nom de leur exploitant.
+4. **Lizy-sur-Ourcq** (3 627) — site de la Ville lu : aucun marché publié ; registre bio fait de grossistes. Zéro.
+5. **Servon** (3 565) — la Ville annonce une AMAP, mais sa distribution se tient dans une autre commune ; aucun marché ; le
+   magasin bio de réseau de la zone commerciale n'a pas été instruit faute de seconde fiche possible. Zéro.
+6. **Saint-Soupplets** (3 542), 7. **Rubelles** (3 537), 8. **Chaumes-en-Brie** (3 503), 11. **Collégien** (3 354) — sites
+   des Villes lus par leur accueil et leur recherche interne seulement : aucun marché hebdomadaire, registre bio fait de
+   supermarchés, de boulangeries de réseau et de grossistes. Zéro, criblage léger, dit comme tel.
+9. **Annet-sur-Marne** (3 408) — la Ville publie son marché du mercredi matin, place de l'Église, à deux endroits de son
+   site (règle 178), avec ses familles de produits (règle 197) : une fiche aux faits entiers, seule, sans image instruite.
+10. **Thomery** (3 384) — le site de la Ville refuse l'agent nommé (règle 257) : non lu.
+12. **Boissy-le-Châtel** (3 346) — aucun site communal trouvé sous les noms de domaine usuels ; registre bio : un
+    supermarché et une boulangerie inscrite sous le nom de son exploitant. Zéro.
+
+**Écart de méthode signalé** : à Varennes-sur-Seine, la page du magasin sur le site de sa coopérative a été demandée dans
+la même commande que le contrôle des deux agents, donc avant que son refus de l'agent nommé soit connu. Rien ne s'appuie
+sur elle (règle 257).
+
+**Haute-Corse : Bastia, puis Borgo (règle 248) — pas de zone.** Registre de l'Agence Bio du département lu en entier (738
+opérateurs). Le garde-fou du `build` accepte la Corse (longitude jusqu'à 9,8).
+
+1. **Bastia** (46 867) — **deux fiches entières, pas de troisième** (règle 258) :
+   - **Magasin du maraîcher bio de la rue Napoléon** — l'exploitation publie elle-même l'adresse (numéro 10) et les heures
+     de son magasin de Bastia, jour par jour ; société active au registre des entreprises avec un établissement ouvert à
+     cette adresse sous son enseigne ; groupement agricole engagé auprès d'Ecocert depuis 2011 au registre de l'Agence
+     Bio (maraîchage, oliveraie, agrumes en Casinca) ; numéro de la Base Adresse Nationale (0,97). Son site n'a aucune
+     clause sur les images et son `robots.txt` n'exclut personne ; ses pages lues ne nomment personne.
+   - **Marché alimentaire de la place du Marché** — la Ville le publie à deux endroits (la démarche d'emplacement, avec
+     son formulaire 2026, et une consultation de 2023) : tous les samedis et dimanches matin. L'office de tourisme écrit
+     8h30-13h et nomme charcuteries, fromages, miel, beignets et poissons (règle 197). Les photographies de la Ville
+     portent un « © » nommé (règle 291) et l'office nomme les photographies dans son interdiction (règle 231) : l'image
+     serait une photographie thématique prêtée par le magasin ci-dessus (règle 312).
+   - Écartés : l'épicerie corse de la même rue (aucune heure publiée par elle, règle 136) ; l'épicerie-charcuterie de la
+     rue voisine et la distillerie historique (sites qui refusent l'agent nommé, règle 257) ; la brasserie de Furiani
+     (heures de visite publiées, vente sur place non écrite) ; le marché de producteurs du vendredi à Miomo, que seul
+     l'office recense (règle 196) ; une AMAP de la plaine, connue par des annuaires tiers seulement ; l'épicerie en ligne
+     de Furiani (pas de magasin).
+2. **Borgo** (10 311) — site de la Ville lu : aucun marché hebdomadaire publié (un annuaire tiers en cite un le mercredi,
+   règle 196) ; la cave coopérative n'a d'heures que dans des annuaires tiers et le site de son union refuse tout agent
+   (règle 237) ; le reste du registre bio est fait d'exploitations sans site ou inscrites sous le nom de leur exploitant.
+   Zéro.
+
+**Contradictions** : pour le marché de Bastia, l'office écrit « place du Marché » sur sa fiche et « place de l'Hôtel de
+Ville » dans sa liste (c'est la même place, la Ville écrit « place du marché ») ; une fiche ancienne de l'office porte
+« 6 h », la fiche courante 8h30-13h : à la reprise, l'heure de l'office se publie comme telle, avec `a_confirmer`
+(règle 5). Un annuaire tiers donne au magasin de la rue Napoléon des heures coupées à midi ; l'exploitant écrit des
+journées continues, c'est lui qui fera foi.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; à Dampmart, Servon, Boissy-le-Châtel, Bastia et
+Borgo, les exploitations inscrites au registre bio sous le seul nom de leur exploitant, non instruites, non nommées.
+
+**Pistes non publiées (Seine-et-Marne et Haute-Corse)** — lignes anonymes :
+
+- Bastia, magasin du maraîcher bio de la rue Napoléon et marché alimentaire de la place du Marché : **deux fiches
+  entières, désignées pour la reprise** (règle 258). **Déblocage** : un troisième point entier dans la Communauté
+  d'agglomération de Bastia — une page de Santa-Maria-di-Lota sur son marché de producteurs, des heures publiées par
+  l'épicerie de la rue Napoléon, ou une vente sur place écrite par la brasserie de Furiani.
+- Annet-sur-Marne, marché du mercredi : faits entiers, seule. **Déblocage** : une seconde fiche entière dans la commune.
+- Dampmart, libre-service de producteur de la rue du Château : **Déblocage** : une entité active au registre à cette
+  adresse et une seconde fiche entière dans la commune.
+- Varennes-sur-Seine, magasin bio coopératif : **Déblocage** : le retrait du filtrage. Ferme maraîchère : un créneau de
+  vente à la ferme publié par elle.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Mareuil-lès-Meaux** (3 345), puis
+Évry-Grégy-sur-Yerre, Moussy-le-Neuf, Verneuil-l'Étang. En **Haute-Corse**, la passe qui reviendra prend d'abord les deux
+fiches désignées de Bastia, puis descend à **Corte** (7 819), Biguglia, Lucciana et Furiani.
+
 ### Passe du 6 octobre 2026 (cent quarante-deuxième) : Rognes (Bouches-du-Rhône), cinq caveaux dans la commune ; Peyrolles-en-Provence sans zone
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 099 fiches.
