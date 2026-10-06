@@ -29553,5 +29553,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vallon%20du%20Baerenthal%20D86C%2057720%20Schweyen",
     "image_url": "/images/marchands/le-potager-du-bitcherland-schweyen.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "quai-des-champs-brignais",
+    "nom": "Quai des Champs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.675005,
+    "lon": 4.7647,
+    "adresse": "1 rue Simone Veil, 69530 Brignais",
+    "horaires": "Du mercredi au vendredi de 10h à 19h30, samedi de 9h à 13h. Fermé le lundi, le mardi et le dimanche. Heures concordantes entre le site du magasin et Rhône Tourisme.",
+    "produits": [
+      "Légumes et fruits de saison",
+      "Pains au levain",
+      "Bœuf et veau de race salers, porc plein air, agneau, volaille fermière",
+      "Charcuterie",
+      "Lait, yaourts et fromages de vache, de chèvre et de brebis",
+      "Œufs",
+      "Conserves de légumes, de fruits et de viandes",
+      "Bières, vins, jus et sirops"
+    ],
+    "description": "Magasin de producteurs de Brignais, tenu par un collectif de fermes : boulangerie, boucherie, légumes, crèmerie et fromages à la coupe, conserves et petite épicerie, avec des contenants consignés pour les produits laitiers. Le magasin annonce des fermes à moins de 100 km et des productions entièrement biologiques ; cette mention est la sienne, le registre de l'Agence Bio ne porte pas le magasin lui-même. Société active au registre des entreprises à cette adresse. Photo : intérieur du magasin, publiée par le magasin.",
+    "telephone": "04 27 82 01 62",
+    "site_web": "https://quaideschamps.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Quai%20des%20Champs%201%20rue%20Simone%20Veil%2069530%20Brignais",
+    "image_url": "/images/marchands/quai-des-champs-brignais.jpg"
+  },
+  {
+    "slug": "marche-fermier-de-la-jamayere-brignais",
+    "nom": "Marché fermier de la Jamayère",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.680931,
+    "lon": 4.752958,
+    "adresse": "31 allée des Chênes, 69530 Brignais",
+    "horaires": "Vendredi de 16h30 à 19h, d'après la Ville de Brignais et la Communauté de communes de la Vallée du Garon ; l'office de tourisme des Monts du Lyonnais écrit 16h.",
+    "produits": [
+      "Légumes de maraîchage bio",
+      "Fromages de chèvre et de vache",
+      "Volailles",
+      "Viande de bœuf, d'agneau et de porc bio élevé en plein air",
+      "Miel",
+      "Fruits",
+      "Plantes aromatiques et tisanes",
+      "Confitures"
+    ],
+    "description": "Marché de producteurs tenu chaque vendredi en fin d'après-midi à la ferme de la Jamayère, porté par une association active au registre des entreprises. La liste des produits est celle que publie la Communauté de communes. Le point est celui de l'allée des Chênes dans la Base Adresse Nationale, qui n'en connaît pas le numéro 31. Le site que les annuaires prêtent au marché ne répond plus : il n'est pas inscrit. Photo : illustration thématique (tomates et salades) publiée par le magasin de producteurs de Brignais ; elle ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31%20all%C3%A9e%20des%20Ch%C3%AAnes%2069530%20Brignais",
+    "image_url": "/images/marchands/marche-fermier-de-la-jamayere-brignais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-aux-fruits-vourles",
+    "nom": "Marché aux fruits de Vourles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.671835,
+    "lon": 4.780254,
+    "adresse": "Route d'Irigny (RD 127), 69390 Vourles",
+    "horaires": "De la mi-octobre ou de novembre à la fin avril : mercredi et samedi de 15h à 16h. De mai à la mi-octobre : de 18h30 à 19h30, le mercredi et le samedi d'après l'office de tourisme de Lyon, tous les jours d'après la Communauté de communes de la Vallée du Garon. Le marché dure moins d'une heure : se renseigner avant de se déplacer en dehors du mercredi et du samedi.",
+    "produits": [
+      "Fruits de saison",
+      "Fruits rouges",
+      "Produits frais ou transformés à la ferme"
+    ],
+    "description": "Marché de producteurs qui s'ouvre « au son de la cloche » et dure moins d'une heure : environ quatre-vingts producteurs de la région, d'après la Communauté de communes, n'y vendent que leur propre production, souvent au colis. Les deux sources ne s'accordent ni sur les jours d'été ni sur la date du passage à l'horaire d'hiver ; l'horaire d'hiver du mercredi et du samedi est concordant. Le point est celui que le géocodeur de l'IGN donne au marché, à 1,7 km de la mairie de Brignais, dans la même communauté de communes. Photo : illustration thématique (pommes de terre) publiée par le magasin de producteurs de Brignais ; elle ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20aux%20fruits%20Route%20d%27Irigny%2069390%20Vourles",
+    "image_url": "/images/marchands/marche-aux-fruits-vourles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-producteurs-locaux-chaponost",
+    "nom": "Marché de producteurs locaux de Chaponost",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.712022,
+    "lon": 4.744485,
+    "adresse": "Parking Bellevue, avenue Paul Doumer, 69630 Chaponost",
+    "horaires": "Mercredi de 16h à 19h, toute l'année. Heures concordantes entre la Communauté de communes de la Vallée du Garon et Rhône Tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Viande",
+      "Fromages de chèvre"
+    ],
+    "description": "Marché de producteurs du mercredi après-midi, sur le parking Bellevue, en haut du centre de Chaponost ; les familles de produits sont celles que nomme Rhône Tourisme. Le point est celui de l'avenue Paul Doumer dans la Base Adresse Nationale, qui ne connaît pas le parking. À 4,3 km de la mairie de Brignais, dans la même communauté de communes. Photo : illustration thématique (fromages de chèvre) publiée par le magasin de producteurs de Brignais ; elle ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parking%20Bellevue%20avenue%20Paul%20Doumer%2069630%20Chaponost",
+    "image_url": "/images/marchands/marche-de-producteurs-locaux-chaponost.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-dimanche-chaponost",
+    "nom": "Marché du dimanche de Chaponost",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.710225,
+    "lon": 4.744771,
+    "adresse": "Place Maréchal Foch, 69630 Chaponost",
+    "horaires": "Dimanche de 7h30 à 13h, toute l'année. Heures concordantes entre la Communauté de communes de la Vallée du Garon et Rhône Tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Charcuterie et rôtisserie",
+      "Œufs",
+      "Pain bio",
+      "Miel bio",
+      "Poisson",
+      "Vins"
+    ],
+    "description": "Marché dominical d'une trentaine de forains, d'après Rhône Tourisme, qui en nomme les étals. La Communauté de communes le situe place Maréchal Foch, Rhône Tourisme sur le parking Bellevue, à deux cents mètres : la fiche porte la place, au point de la Base Adresse Nationale. À 4,1 km de la mairie de Brignais, dans la même communauté de communes. Photo : illustration thématique (poivrons et courgettes) publiée par le magasin de producteurs de Brignais ; elle ne montre pas le lieu.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Mar%C3%A9chal%20Foch%2069630%20Chaponost",
+    "image_url": "/images/marchands/marche-du-dimanche-chaponost.jpg",
+    "a_confirmer": true
   }
 ]

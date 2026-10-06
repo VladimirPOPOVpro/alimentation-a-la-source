@@ -5328,7 +5328,12 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-984 fiches sur 1116 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+988 fiches sur 1121 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché fermier de la Jamayère** (Brignais), **Marché aux fruits de Vourles** (Vourles), **Marché de producteurs locaux
+  de Chaponost** et **Marché du dimanche de Chaponost** (Chaponost) (passe du 6 octobre 2026, cent cinquante et unième,
+  règles 5, 96, 127, 197, 312, 409, 412 et 429) : les quatre images sont des illustrations prêtées par le magasin de
+  producteurs de Brignais ; le marché fermier est au point de son allée, sans numéro ; les jours d'été du marché aux fruits
+  diffèrent entre les deux sources ; le marché du dimanche est situé à deux endroits distants de deux cents mètres.
 - **Marché du mercredi** et **Marché couvert de Bitche** (Bitche), **Boutique du Moulin d'Eschviller** (Volmunster) et
   **Le Potager du Bitcherland** (Schweyen) (passe du 6 octobre 2026, cent cinquantième, règles 9, 46, 99, 239, 287, 320, 331,
   376, 407, 413 et 429) : le point du marché du mercredi et celui du potager sont ceux de l'office de tourisme, la Base
@@ -12934,6 +12939,91 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent cinquante et unième) : Brignais et la Communauté de communes de la Vallée du Garon (Rhône), cinq fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 121 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 116 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du Val-d'Oise
+10,74 à la Haute-Saône 3,77 ; Val-de-Marne 4,09, descente terminée ; **Seine-et-Marne (77) 3,76**, premier ouvert, deux
+communes (règle 426) ; **Rhône (69) 2,99**, second, borne de douze, en Auvergne-Rhône-Alpes — la réserve de la règle 41.c
+était celle du Grand Est. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé. **Après la passe**, sur 1 121
+fiches, le Rhône compte 33 fiches pour une cible de 31,13. La prochaine passe ne peut pas viser l'Auvergne-Rhône-Alpes.
+Suivent au classement : Meuse 2,92, Lot 2,86, Meurthe-et-Moselle 2,85, Haute-Marne, Corse-du-Sud et
+Alpes-de-Haute-Provence 2,72.
+
+**Seine-et-Marne (règle 426, deux communes).** **Varreddes** (2 167) : le site de la commune répond 403 à l'agent par
+défaut, `robots.txt` compris (règle 425) ; au registre bio, une exploitation dont l'engagement est arrêté. Zéro.
+**Chailly-en-Bière** (2 162) : aucun marché hebdomadaire sur le site de la commune ; au registre bio, une exploitation
+sans vente publiée et un artisan à l'engagement arrêté. Zéro.
+
+**Rhône, reprise au point d'arrêt (règles 247 et 127).**
+
+1. **Belleville-en-Beaujolais, fiche désignée** — non relue cette passe : la zone s'est formée à Brignais avant que la
+   borne ne soit atteinte, et la fiche garde son déblocage écrit.
+2. **Mions** (13 843) — les mentions légales de la Ville nomment les photographies et réservent à l'usage personnel toute
+   extraction du site (règle 416) ; aucune page de marché ; au registre bio, un seul magasin de réseau. **Zéro.**
+3. **Genas** (13 421) — le site de la Ville coupe la connexion à l'agent par défaut (règle 425). Hors de lui, une brasserie
+   certifiée dont le lieu de vente est un débit de dégustation, et un chocolatier qui travaille pour les entreprises.
+   **Zéro.**
+4. **Brignais** (12 503) — **fait la passe** (voir ci-dessous).
+
+**Brignais.** La Ville publie ses points de vente locaux sur une page « Où consommer local » ; ses mentions nomment les
+images (règle 231), comme celles de la Communauté de communes de la Vallée du Garon, qui publie par ailleurs la liste
+des marchés de ses cinq communes avec leurs produits. Rhône Tourisme autorise la reproduction électronique en citant la
+source (gabarit de la règle 239). Le magasin de producteurs de la commune tient un site sans mentions légales, au
+`robots.txt` ouvert, avec une vingtaine de photographies de ses rayons (règles 312 et 412) : il fournit sa propre image
+et, un fichier distinct par fiche, les quatre illustrations des marchés, recadrées là où une ardoise portait un prénom.
+Distances à vol d'oiseau depuis la mairie de Brignais (point de l'annuaire de l'administration) ; même intercommunalité
+(règles 96 et 219).
+
+- **Quai des Champs** (`producteur`, 0,5 km) — heures concordantes entre son site et Rhône Tourisme, fixe publié,
+  société active au registre à l'adresse (Base, numéro, 0,96). Le magasin s'annonce entièrement biologique ; le registre
+  de l'Agence Bio ne le porte pas : pas de pilier `environnement` (règle 15), et la fiche dit de qui vient la mention.
+- **Marché fermier de la Jamayère** (`marche`, 0,8 km) — vendredi 16h30-19h pour la Ville et la Communauté de communes,
+  16h pour l'office de tourisme : la fiche publie les deux premières et le dit (règle 5). Association active au registre.
+  Le contact publié est un portable et une adresse personnelle : ni l'un ni l'autre dans la fiche. Le nom de domaine du
+  marché ne répond plus : non inscrit (règle 56). Point de la voie, sans numéro.
+- **Marché aux fruits de Vourles** (`marche`, 1,7 km) — horaire d'hiver concordant (mercredi et samedi 15h-16h) ; l'été,
+  18h30-19h30, « tous les jours » pour la Communauté de communes, mercredi et samedi pour l'office de tourisme de Lyon :
+  la fiche écrit les deux (règle 5). Les mentions de la commune soumettent toute utilisation à autorisation (règle 416) :
+  son site ne nourrit pas la fiche, les faits viennent des deux autres autorités (déblocage de la règle 429). Point du
+  géocodeur de l'IGN (règle 409).
+- **Marché de producteurs locaux de Chaponost** (`marche`, 4,3 km) — mercredi 16h-19h, parking Bellevue, concordant
+  entre la Communauté de communes et Rhône Tourisme, qui nomme les familles de produits. Les mentions de la Ville
+  réservent ses données à l'usage privé : son site ne nourrit pas la fiche.
+- **Marché du dimanche de Chaponost** (`marche`, 4,1 km) — dimanche 7h30-13h, concordant ; étals nommés par Rhône
+  Tourisme.
+
+**Contradictions** : l'heure de début du marché fermier ; les jours d'été et la date de bascule du marché aux fruits ;
+le lieu du marché du dimanche, place Maréchal Foch pour la Communauté de communes, parking Bellevue pour Rhône Tourisme,
+à deux cents mètres — la fiche porte la place et le dit.
+
+**Fiches écartées pour doute sur une personne** : aucune instruite. Les pages de producteurs de la Communauté de
+communes et de Rhône Tourisme désignent plusieurs exploitations par un nom de personne ; non instruites, elles ne se
+rouvrent pas. Aucun nom lu dans les annuaires, les registres et les pages consultés n'est repris.
+
+**Pistes non publiées (Seine-et-Marne et Rhône)** — lignes anonymes :
+
+- Varreddes : **Déblocage** : un site communal servi à l'agent par défaut. Chailly-en-Bière : un marché publié.
+- Mions, magasin bio de réseau de la route d'Heyrieux : non instruit, seul point de la commune.
+- Genas, brasserie artisanale certifiée de la rue Antoine-Pinay : **Déblocage** : une vente à emporter écrite, et un
+  second point dans la commune.
+- Brignais, grand marché du centre-ville (samedi 7h30-12h, place du 8 Mai 1945, quatre-vingts producteurs, marchands et
+  forains d'après la Ville, la Communauté de communes et Rhône Tourisme) : aucune famille de produits (règle 197).
+  **Déblocage** : une liste d'étals ou une famille écrite.
+- Brignais, distribution de paniers d'une association de producteurs : la Communauté de communes l'écrit le mardi sous un
+  préau de la commune, le site de l'association ne compte plus Brignais parmi ses lieux. Non publiée (règle 5).
+- Brignais, dépôt de paniers d'un jardin d'insertion au centre social (jeudi 15h30-18h d'après la Communauté de
+  communes) : non recoupé sur le site du jardin. Brignais, magasin bio de réseau : non instruit.
+- Millery (marché des jeudis et samedis matin) et Montagny (marchés du mardi et du vendredi) : connus par la seule
+  Communauté de communes, sans famille de produits ; Chaponost, association de paniers du mardi soir : non instruite.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Pontcarré** (2 136), puis Villevaudé (règle 426).
+Dans le **Rhône**, point d'arrêt **Brignais**, qui a fait la passe ; à reprendre d'abord : le magasin bio indépendant de
+Belleville-en-Beaujolais (règle 297) ; la commune suivante est **Craponne** (12 084) — Chaponost porte désormais des
+fiches et sort de la descente. En **Moselle**, dans les **Pyrénées-Orientales**, en **Ille-et-Vilaine**, dans la
+**Manche** et en **Haute-Corse**, inchangé.
 
 ### Passe du 6 octobre 2026 (cent cinquantième) : Bitche (Moselle), quatre fiches dans le Pays de Bitche ; Sarrebourg sans zone ; règle 429
 
