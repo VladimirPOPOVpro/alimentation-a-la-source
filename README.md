@@ -5350,9 +5350,38 @@ prioritaires en cas de conflit.
      est écartée et ne se rouvre pas. **Déblocage** pour une photographie légendée « © » : la même image publiée par le
      commerce sur un site à lui, sans réserve.
 
+431. **Quand la Ville, l'intercommunalité, l'office de tourisme et l'agence départementale ferment tous leurs images, une
+     seule fiche au lieu illustré suffit à la zone de la règle 422, qui se publie alors à quatre.** Le 7 octobre 2026 (cent
+     cinquante-troisième passe), première passe dans le Lot, Cahors rend trois fiches aux faits entiers — le marché des allées
+     Fénelon, la boutique Les Petits Producteurs, l'épicerie ToutenLocal — et Douelle, dans le Grand Cahors, une quatrième, le
+     Domaine Le Passelys, à 6,9 km de la mairie. Mais les mentions légales de la Ville et de l'agglomération interdisent de
+     reproduire les « représentations iconographiques et photographiques », celles de l'office Cahors – Vallée du Lot nomment
+     « photographies, images », celles de Lot Tourisme les « images animées ou non » (règles 231 et 246), et les deux
+     commerces cadurciens nomment les images dans leur propre clause. Seul le domaine de Douelle publie ses photographies sans
+     clause ni hébergeur illisible ; le second domaine instruit sert les siennes par un hébergeur dont le `robots.txt` répond
+     403 (règle 256). La règle 422 demande deux fiches au lieu illustré sur cinq : écrite à Cholet, où deux commerces de
+     l'agglomération avaient chacun leur image, elle ne prévoyait pas un département dont l'agence elle-même ferme les siennes
+     — aucun marché du Lot n'aura jamais de photographie permise. **Tranché ainsi** : quand chacune des quatre autorités
+     publiques a été lue dans la passe et ferme ses images par une clause, que la zone tient dans les limites des règles 96 et
+     320 (même intercommunalité, quinze kilomètres de la mairie), que trois fiches au moins sont dans la commune calculée et
+     que tous les faits sont entiers, une seule fiche portant la photographie de son propre lieu suffit ; le commerce qui la
+     porte prête aux autres un fichier distinct chacune, sans personne ni marque, montrant une matière première que la fiche
+     vend (règle 332) ; pas plus de trois fiches ainsi illustrées, chacune en `a_confirmer`, chaque description disant d'où
+     vient l'image et qu'elle ne montre pas le lieu. Aucune exigence de vérification ne baisse : registre, géocodage, heures
+     et familles de produits restent ceux des règles 6, 192 et 197, et la règle 248 n'est pas contournée — c'est la
+     composition des images qui change, pas la preuve des faits. **Limite** : jamais quand une seule des quatre autorités
+     laisse ses images ouvertes (les règles 272, 277 et 285 s'appliquent alors), jamais d'une intercommunalité à une autre,
+     jamais pour une commune sans aucune fiche au lieu illustré dans sa zone. **Déblocage** de la réserve : une photographie
+     permise du lieu, qui remplace l'illustration dès qu'elle existe. Première application : Cahors, quatre fiches.
+
 ## Marchands à confirmer
 
-992 fiches sur 1126 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+996 fiches sur 1130 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Cahors**, **Les Petits Producteurs** et **ToutenLocal** (Cahors), **Domaine Le Passelys** (Douelle) (passe du 7
+  octobre 2026, cent cinquante-troisième) : les trois fiches de Cahors portent une illustration prêtée par le domaine de
+  Douelle (règle 431), qui ne montre pas leur lieu ; le marché est déplacé aux allées Fénelon le temps des travaux de la place
+  Chapou ; l'office écrit deux fins d'ouverture pour le dimanche de la boutique ; l'office conseille de téléphoner au domaine
+  avant de venir.
 - **La Source de Popey – Boutique du lycée agricole** et **Marché couvert de Bar-le-Duc** (Bar-le-Duc), **Val d'Ornain – Glaces
   fermières** (Longeville-en-Barrois) et **Marché hebdomadaire de Ligny-en-Barrois** (Ligny-en-Barrois) (passe du 7 octobre
   2026, cent cinquante-deuxième, règles 5, 74, 92, 96, 115, 143, 176, 197, 287 et 430) : le mercredi de la boutique ne se lit
@@ -12969,6 +12998,100 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent cinquante-troisième) : Cahors et Douelle, dans le Grand Cahors (Lot), quatre fiches ; Réau et Samois-sur-Seine sans zone ; règle 431
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 130
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 126 fiches),
+outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du
+Val-d'Oise 10,93 à la Haute-Saône 3,81 ; Val-de-Marne 4,30, descente terminée ; **Seine-et-Marne (77) 3,97**, premier ouvert,
+deux communes (règle 426) ; Meurthe-et-Moselle 2,96, fermée par la réserve de la règle 41.c (la passe précédente visait le
+Grand Est) ; **Lot (46) 2,88**, second, borne de douze, aucune fiche et jamais éprouvé, en Occitanie. `git fetch` fait avant
+l'écriture : `origin/main` n'a pas bougé. **Après la passe**, sur 1 130 fiches, le Lot compte 4 fiches pour une cible de 2,89.
+La prochaine passe ne peut pas viser l'Occitanie. Suivent au classement : Seine-et-Marne 4,06, Meurthe-et-Moselle 3,00 (Grand
+Est, rouverte), Seine-Saint-Denis 2,93, Nord 2,86, Morbihan 2,84, Haute-Marne et Corse-du-Sud 2,76, Alpes-de-Haute-Provence
+2,75.
+
+**Seine-et-Marne (règle 426, deux communes).** **Réau** (2 127) : le site de la commune ne publie aucun marché, et le registre
+bio n'y porte que des cultures et du négoce de gros. Zéro. **Samois-sur-Seine** (2 126) : les mentions légales de la commune
+ne concèdent qu'un droit « d'accès et d'utilisation à titre privé » et interdisent « toute autre utilisation » (règles 296 et
+416) : le site n'est une source ni pour les faits ni pour les images, et aucune autre autorité n'a été trouvée pour le marché
+du jeudi après-midi ni pour l'AMAP qu'il annonce. Zéro.
+
+**Lot, descente ouverte (règles 247 et 127). Cahors** (20 050) — **fait la passe**. Le `robots.txt` de la Ville et de
+l'agglomération (même site) n'exclut personne ; la page « Les marchés » donne le jour, les heures et le lieu provisoire du
+marché, la page de la halle la liste des métiers ; les mentions légales interdisent de reproduire les « représentations
+iconographiques et photographiques » (règle 231). L'office de tourisme Cahors – Vallée du Lot fiche la boutique de producteurs
+et les domaines avec leurs heures de 2026 ; sa clause nomme les photographies. Lot Tourisme, agence du Département, fiche le
+marché avec ses étals ; sa clause nomme les images et ses conditions d'utilisation ne traitent que des données personnelles
+(pas de règle 416). Aucune des quatre autorités ne laisse une image : règle 431. Distances à vol d'oiseau depuis la mairie de
+Cahors (point de l'annuaire de l'administration, règle 363) ; même intercommunalité au référentiel (règle 219).
+
+- **Marché de Cahors** (`marche`, 0,2 km) — mercredi et samedi, 8h-13h, sur les allées Fénelon pendant les travaux de la place
+  Chapou : Ville et agence concordent sur le jour, l'heure et le lieu provisoire (règle 157). Étals nommés par l'agence, et
+  par les légendes des photographies de l'office (règle 69). Point de la Base Adresse Nationale (voie, 0,96). Illustration
+  prêtée : panier de raisins.
+- **Les Petits Producteurs** (`producteur`, 0,3 km) — heures de la fiche 2026 de l'office, dont le tableau et le texte
+  divergent sur la fin du dimanche (19h ou 15h) : la fiche écrit les deux (règles 5 et 281). Fixe publié par l'office, société
+  active au registre à l'adresse et sous l'enseigne (Base, numéro, 0,96). La boutique se dit association de producteurs et
+  publie leur liste (règles 86 et 105). Sa page d'accueil affiche des noms : pas de `site_web` (règle 377). Sa clause nomme
+  les images. Illustration prêtée : cep de vigne.
+- **ToutenLocal** (`magasin-bio`, 2,4 km) — heures publiées par l'épicerie sur son site (pied de page daté de 2026), société
+  active au registre à l'adresse, certificat Ecocert vivant pour la seule vente de fruits et légumes : pas de pilier
+  `environnement` (règles 39 et 95). Le site nomme ses fournisseurs produit par produit (règles 86 et 276). Le seul numéro
+  publié est un portable : non inscrit. Sa clause nomme les images. Illustration prêtée : raisins blancs sur pied, recadrés
+  pour écarter une personne (règle 46).
+- **Domaine Le Passelys** (`producteur`, Douelle, 6,9 km) — tous les jours 10h-18h30 d'après la fiche 2026 de l'office, « du
+  lundi au dimanche » d'après le domaine ; fixe publié par le domaine, groupement actif au registre à l'adresse (Base, numéro,
+  0,95), engagé chez Certis depuis 2019 : `environnement` et `economie`, sans `alimentation` (règle 14). Mentions légales sans
+  clause sur les images, `robots.txt` sans exclusion : c'est la fiche au lieu illustré, et le prêteur de la passe. Les
+  fichiers dont le nom porte un studio ou un nom de famille, et ceux qui montrent des personnes, ne sont pas repris (règles 70
+  et 339).
+
+**Pourquoi quatre et non cinq.** Le cinquième point instruit, un domaine en biodynamie de Trespoux-Rassiels (7,1 km), a ses
+faits entiers mais sert ses photographies par un hébergeur illisible (règle 256), et la règle 431 garde le plafond de trois
+illustrations prêtées. Il est désigné pour la reprise.
+
+**Contradictions** : la fin d'ouverture du dimanche à la boutique de producteurs ; les heures du domaine de Trespoux-Rassiels
+entre son site et l'office (non publié). Écrites dans la fiche ou ici (règle 5).
+
+**Fiches écartées pour doute sur une personne** : trois — à Cahors, un domaine viticole et une maison de conserves dont
+l'enseigne est un patronyme ; à Fontanes, une brasserie dont la marque est le nom de son fondateur, nommé sur sa page
+d'accueil. Non instruites au-delà, elles ne se rouvrent pas. Aucun nom lu dans les registres, les mentions légales, les listes
+d'étaliers et les pages consultés n'est repris.
+
+**Pistes non publiées (Seine-et-Marne et Lot)** — lignes anonymes :
+
+- Réau : **Déblocage** : un marché hebdomadaire publié par la commune. Samois-sur-Seine : marché du jeudi (deux étals
+  alimentaires d'après la commune, voir la règle 427), AMAP du mardi soir et maraîchage biologique en vente directe :
+  **Déblocage** : une autre autorité lisible que le site communal, et pour le marché un troisième étal alimentaire.
+- Cahors, halle municipale : métiers d'étal publiés par la Ville, aucune heure régulière nulle part (règle 192). **Déblocage**
+  : ses heures publiées. C'est la première fiche à reprendre dans la commune.
+- Trespoux-Rassiels, domaine viticole en biodynamie (heures sur son site et à l'office, fixe, exploitation active au registre,
+  Ecocert depuis 2003) : **désigné pour la reprise**. **Déblocage** : une photographie servie par un hébergeur lisible, ou une
+  seconde fiche au lieu illustré dans la zone, qui rend la règle 422 entière.
+- Cahors, magasin bio de réseau (trois établissements actifs) : pas de site propre, réseau fermé (règle 149), fournisseurs
+  locaux non publiés (règle 273). Cahors, domaine viticole de la route de Lamarchande : site injoignable, aucune entité
+  trouvée sous l'enseigne (règle 6). Cahors, espace de dégustation de l'interprofession : la vente à emporter n'est écrite
+  nulle part (règle 32).
+- Catus, ferme d'élevage de canards avec boutique (heures à l'office et sur son site, groupement actif, certifié) : sa clause
+  nomme les images et la ferme est à 16,1 km de la mairie de Cahors, hors des quinze kilomètres (règle 363).
+- Grand Cahors, domaines viticoles de Trespoux-Rassiels, Labastide-Marnhac, Caillac, Maxou et Bellefont-La Rauze : clauses
+  nommant les images ou réservant l'usage personnel, crédits de banque d'images, pages d'accueil nommant des personnes, ou
+  site refusant l'agent (règles 212, 231, 296, 360 et 377) ; non publiés.
+- Pradines, marché de plein vent du vendredi (jour, heures et lieu à l'agglomération) : la commune ne le décrit pas, aucune
+  famille de produits lue (règle 197) ; ses mentions autorisent la reproduction en citant la source (règle 239), à retenir.
+  Marchés de Catus, Espère, Lamagdelaine, Mercuès et Saint-Géry, publiés par l'agglomération : non instruits.
+- Figeac (9 793) — **criblage partiel, non comptée comme éprouvée** : la Ville publie le marché et la foire du samedi matin
+  (8h-12h30, places du centre) ; la Ville et la communauté de communes n'autorisent pas la reproduction « à usage collectif »
+  (règle 296), l'office nomme les photographies (règle 231), le vignoble coopératif de la commune aussi. Aucune image lue
+  comme permise.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Beautheil-Saints** (2 093), puis Villiers-sur-Morin (règle
+426). Dans le **Lot**, point d'arrêt **Cahors**, qui a fait la passe ; à reprendre d'abord : la halle de Cahors et le domaine
+désigné de Trespoux-Rassiels ; la commune suivante est **Figeac** (9 793), à éprouver entièrement, puis Gourdon (4 206). Dans
+la **Meuse**, le **Rhône**, en **Moselle**, dans les **Pyrénées-Orientales**, en **Ille-et-Vilaine**, dans la **Manche** et en
+**Haute-Corse**, inchangé.
 
 ### Passe du 7 octobre 2026 (cent cinquante-deuxième) : Bar-le-Duc et la Communauté d'agglomération Bar-le-Duc Sud Meuse (Meuse), cinq fiches ; Verdun sans zone ; règle 430
 

@@ -29806,5 +29806,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2055500%20Ligny-en-Barrois",
     "image_url": "/images/marchands/marche-hebdomadaire-ligny-en-barrois.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-cahors",
+    "nom": "Marché de Cahors",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.445003,
+    "lon": 1.440267,
+    "adresse": "Allées Fénelon, 46000 Cahors",
+    "horaires": "Mercredi et samedi matin, de 8h à 13h, toute l'année : heures concordantes entre la Ville de Cahors et Lot Tourisme. Le marché se tient sur les allées Fénelon le temps des travaux de la place Chapou.",
+    "produits": [
+      "Fruits et légumes des primeurs",
+      "Viandes et charcuteries",
+      "Foie gras",
+      "Fromage de chèvre Rocamadour",
+      "Agneau fermier du Quercy",
+      "Miel",
+      "Pastis du Quercy (gâteau aux pommes)"
+    ],
+    "description": "Marché de plein air du mercredi et du samedi matin, où des commerçants (bouchers, primeurs, charcutiers) côtoient des producteurs du Lot, d'après Lot Tourisme ; l'office de tourisme Cahors – Vallée du Lot y légende des étals de miel, de fromages de chèvre et de fruits. Il est déplacé de la place Chapou aux allées Fénelon pendant les travaux de la place : la Ville et l'agence départementale donnent le même lieu provisoire. Le point est celui de la Base Adresse Nationale pour les allées. Illustration : panier de raisins photographié par le Domaine Le Passelys, à Douelle (passelys.com) ; elle ne montre pas le marché, dont la Ville, l'office et l'agence réservent les photographies.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All%C3%A9es%20F%C3%A9nelon%2046000%20Cahors",
+    "image_url": "/images/marchands/marche-de-cahors.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-petits-producteurs-cahors",
+    "nom": "Les Petits Producteurs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.447441,
+    "lon": 1.443865,
+    "adresse": "4 Place Champollion, 46000 Cahors",
+    "horaires": "Du lundi au samedi de 9h30 à 19h ; le dimanche et les jours fériés de 9h30 à 15h. D'après l'office de tourisme Cahors – Vallée du Lot (fiche datée de février à décembre 2026), dont le tableau écrit 19h aussi le dimanche quand son texte écrit 15h : la fin du dimanche est à confirmer.",
+    "produits": [
+      "Foie gras de canard",
+      "Pâtés, terrines et rillettes",
+      "Vins de Cahors",
+      "Truffes",
+      "Miels et confitures",
+      "Plats cuisinés",
+      "Fromages"
+    ],
+    "description": "Boutique du centre de Cahors qui se présente comme une association de producteurs et vend les produits du Lot et du Sud-Ouest, avec une dégustation sur place ; sa page « Nos producteurs » les nomme. Société active au registre des entreprises à cette adresse, sous cette enseigne. Adresse géocodée au numéro par la Base Adresse Nationale. Illustration : cep de vigne photographié par le Domaine Le Passelys, à Douelle (passelys.com) ; elle ne montre pas la boutique, dont le site réserve les images.",
+    "telephone": "05 65 31 26 24",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Petits%20Producteurs%204%20Place%20Champollion%2046000%20Cahors",
+    "image_url": "/images/marchands/les-petits-producteurs-cahors.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "toutenlocal-cahors",
+    "nom": "ToutenLocal",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.429364,
+    "lon": 1.457724,
+    "adresse": "373 Rue Danielle Casanova, 46000 Cahors",
+    "horaires": "Du lundi au samedi, de 10h à 12h30 et de 14h à 19h, d'après le site de l'épicerie. Paniers de fruits et légumes à retirer le mardi après-midi et le mercredi.",
+    "produits": [
+      "Fruits et légumes, dont une partie en bio",
+      "Viandes (bœuf, veau, porc, agneau, canard, volailles)",
+      "Lait, beurre, œufs, fromages et yaourts",
+      "Pains",
+      "Miels et confitures",
+      "Conserves et plats cuisinés",
+      "Vins et bières"
+    ],
+    "description": "Épicerie de produits locaux avec retrait de commandes et paniers hebdomadaires, au sud de Cahors. Son site nomme, produit par produit, les fermes et les artisans de la région qui la fournissent. Société active au registre des entreprises à cette adresse ; elle est engagée auprès d'Ecocert depuis 2019 pour la vente au détail de fruits et légumes biologiques (registre de l'Agence Bio), certification qui ne couvre pas le reste de l'épicerie. Adresse géocodée au numéro par la Base Adresse Nationale. Illustration : raisins blancs sur pied photographiés par le Domaine Le Passelys, à Douelle (passelys.com) ; elle ne montre pas l'épicerie, dont le site réserve les images.",
+    "site_web": "https://toutenlocal.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ToutenLocal%20373%20Rue%20Danielle%20Casanova%2046000%20Cahors",
+    "image_url": "/images/marchands/toutenlocal-cahors.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-le-passelys-douelle",
+    "nom": "Domaine Le Passelys",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 44.463704,
+    "lon": 1.357406,
+    "adresse": "699 Rue de la Prade, 46140 Douelle",
+    "horaires": "Tous les jours de 10h à 18h30, toute l'année, d'après l'office de tourisme Cahors – Vallée du Lot (fiche 2026) ; le domaine écrit lui aussi « du lundi au dimanche ». L'office conseille de téléphoner pour s'assurer d'une présence.",
+    "produits": [
+      "Vins AOC Cahors biologiques",
+      "Vins de France issus de cépages résistants (cuvées Colibri)",
+      "Malbec blanc"
+    ],
+    "description": "Domaine viticole familial de Douelle, au bord du Lot, qui vend au caveau ses vins de Cahors et des vins de cépages résistants. Groupement agricole actif au registre des entreprises à cette adresse, engagé en agriculture biologique auprès de Certis depuis 2019 (registre de l'Agence Bio). À 6,9 km de la mairie de Cahors, dans la même communauté d'agglomération. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vignes du domaine, publiée par le Domaine Le Passelys (passelys.com).",
+    "telephone": "05 65 20 05 76",
+    "site_web": "https://passelys.com",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20Le%20Passelys%20699%20Rue%20de%20la%20Prade%2046140%20Douelle",
+    "image_url": "/images/marchands/domaine-le-passelys-douelle.jpg",
+    "a_confirmer": true
   }
 ]
