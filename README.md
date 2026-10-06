@@ -5229,6 +5229,23 @@ prioritaires en cas de conflit.
      où l'on lit une marque ou voit une personne se recadre ou se remplace. **Déblocage** des réserves : une photographie
      du lieu, qui remplace l'illustration, et pour le jeu de données un `robots.txt` qui rouvre `/api/`.
 
+424. **Après deux passes de suite sans publication sur la même paire de départements, la borne de douze communes passe au
+     second département quand la descente du premier est tombée sous 3 000 habitants.** Les passes cent quarante-troisième
+     et cent quarante-quatrième ont éprouvé vingt-quatre communes de Seine-et-Marne, de Chauconin-Neufmontiers à La
+     Grande-Paroisse, sans une zone, pendant que la Haute-Corse ne recevait chaque fois que les deux communes de la règle
+     248 ; la cent quarante-cinquième en a ajouté douze, de Saint-Germain-Laval à Oissery, pour le même résultat. Sous
+     trois mille habitants, les communes de la descente n'ont plus qu'un marché au mieux, presque jamais d'image
+     reprenable, et aucun second point : c'est le constat de la règle 265, fait mille habitants plus haut. La règle 265
+     ne ferme le département qu'à 2 000 habitants ; d'ici là, lue seule, la règle 248 condamne le second département —
+     dont les communes suivantes sont ici deux à trois fois plus peuplées et portent des domaines aux sites ouverts — à
+     deux communes par passe. **Tranché ainsi** : quand les deux passes précédentes n'ont rien publié sur la même paire
+     de départements et que la prochaine commune du premier compte moins de 3 000 habitants, le premier ne reçoit que les
+     deux communes de la règle 248 (ses fiches désignées d'abord) et le second reçoit les douze de la règle 247. L'ordre
+     du classement ne change pas, aucune exigence de vérification ne baisse, et la réserve de la règle 41.c reste
+     entière. Première application, partielle, le 6 octobre 2026 : Calvi éprouvée en troisième commune de Haute-Corse —
+     une fiche entière, pas de zone. **Limite** : la règle cesse dès qu'une passe publie dans l'un des deux départements,
+     ou dès que le classement recalculé place un autre département devant eux.
+
 ## Marchands à confirmer
 
 967 fiches sur 1099 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
@@ -12803,6 +12820,101 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante-cinquième) : Seine-et-Marne et Haute-Corse, aucune publication ; une fiche entière désignée à Calvi ; règle 424
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image** : 1 099 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 099 fiches), outre-mer écarté (règle 177), relu
+depuis le premier rang (règle 410) : inchangé (règle 260) — les seize départements écrits épuisés (règle 265), Val-de-Marne
+descente terminée, non réinstruit ; **Seine-et-Marne (77) 3,40**, premier département ouvert ; **Haute-Corse (2B) 2,98**,
+second (règle 248). La réserve de la règle 41.c reste celle de Provence-Alpes-Côte d'Azur pour la passe suivante.
+`git fetch` refait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Seine-et-Marne : douze communes, de Saint-Germain-Laval à Oissery, aucune zone (règle 247).** Domaines lus à l'annuaire
+de l'administration (règle 327), contrôle en deux requêtes et `robots.txt` avant toute page (règles 233 et 257), registre
+de l'Agence Bio du département relu en entier (926 opérateurs).
+
+1. **Saint-Germain-Laval** (2 888) — l'agenda de la Ville porte un « marché de producteurs et artisans locaux » mensuel dont
+   les dernières dates écrites sont de 2022 et de juin 2024 ; rien de daté depuis, aucun lieu, aucune famille. Zéro.
+2. **Rozay-en-Brie** (2 860) — la Ville répond 200 à l'agent par défaut et 403 à l'agent nommé (règle 257) : non lue.
+3. **Bourron-Marlotte** (2 774) — **un marché aux faits entiers, sans image.** La Ville l'écrit à deux endroits tenus
+   séparément (règle 178) : sa page « Commerces, marché et artisans » (« chaque samedi matin entre 8h et 13h, sur la place,
+   face au 59 rue du Général de Gaulle », avec ses métiers : boucherie-charcuterie, fromagerie, fromages d'Auvergne, fruits
+   et légumes, huîtres — règle 197) et sa grille des droits de place. Ses mentions légales réservent « l'ensemble des
+   visuels » (règle 231). Le magasin biologique de la rue Gambetta a une société active au registre, mais son certificat est
+   arrêté au registre bio et son nom de domaine ne répond plus : ses heures ne viennent que de l'annuaire de la Ville, et il
+   n'a pas d'image. La plateforme de commande citée par la Ville refuse tout agent (règle 237). L'office de tourisme et
+   l'agglomération du Pays de Fontainebleau refusent l'agent nommé (règle 257). Pas de seconde fiche entière : pas de zone.
+4. **Cannes-Écluse** (2 742) — annuaire des commerçants lu : aucun marché, aucun point de vente directe. Zéro.
+5. **Vulaines-sur-Seine** (2 730) — le `robots.txt` de la Ville exclut `Amazonbot` (règle 233) : non lue.
+6. **Donnemarie-Dontilly** (2 706) — accueil et pages pratiques lus : aucun marché écrit ; au registre, deux grandes
+   surfaces. Zéro, criblage léger, dit comme tel.
+7. **Guérard** (2 688) — page des commerces lue : aucun marché, aucun producteur ; le domaine viticole du registre bio a
+   un site qui refuse tout agent (règle 237). Zéro.
+8. **Montigny-sur-Loing** (2 669) — un appel à candidatures de la Ville (mis à jour en 2024) donne au marché hebdomadaire
+   « vendredi de 7h30 à 13h30 », à ce seul endroit (règle 178), sans lieu, et ses familles n'y sont qu'un objectif (règle
+   197) ; les mentions légales nomment photos et images (règle 231). Zéro.
+9. **Chartrettes** (2 633) — la Ville ne publie que des camions de restauration ; la microbrasserie du registre (certificat
+   arrêté) est une piste seule, non instruite. Zéro.
+10. **Vernou-la-Celle-sur-Seine** (2 630) — annuaire des commerces lu : aucun marché, aucun point de vente directe. Zéro.
+11. **Héricy** (2 507) — recherche interne lue : marchés de Noël et de l'art seulement ; la boulangerie du registre bio
+    n'a pas de site. Zéro, criblage léger.
+12. **Oissery** (2 496) — la page « Le marché » de la Ville existe mais son corps est vide ; au registre, deux grossistes.
+    Zéro.
+
+**Haute-Corse (règle 248) : contrôle du déblocage de Bastia, puis Lucciana et Furiani — pas de zone.** Registre de
+l'Agence Bio du département relu (738 opérateurs).
+
+0. **Bastia, déblocage nommé** — le site de Santa-Maria-di-Lota (lu sous l'agent nommé, règle 403) ne porte toujours aucune
+   page sur un marché de producteurs. Les deux fiches désignées restent en pistes.
+1. **Lucciana** (6 923) — site de la Ville lu, recherche interne comprise : deux marchés de Noël, aucun marché
+   hebdomadaire ; au registre bio, des exploitations sans site ou inscrites sous le nom de leur exploitant. Zéro.
+2. **Furiani** (6 585) — site de la Ville lu sous l'agent nommé (règle 403) : aucun marché, aucune page de commerces ; au
+   registre, des grossistes, un hypermarché, une brasserie classée grossiste. Zéro.
+3. **Calvi** (5 788), au titre de la règle 424 — **une fiche entière, pas de seconde dans la commune.** Le domaine
+   viticole de la route de la forêt de Bonifato publie lui-même les heures de son caveau (« pour la vente et dégustation,
+   le caveau est ouvert de 9h à 12h et de 14h à 18h », sans jours) ; il est engagé au registre de l'Agence Bio ; l'agence
+   régionale du tourisme le fiche à la même adresse ; son `robots.txt` n'exclut personne. Image et registre des entreprises
+   non instruits, faute de zone. Le marché de producteurs de la commune n'est écrit nulle part par la Ville (dont les
+   mentions légales nomment les images, règle 231) ; l'office intercommunal refuse l'agent nommé (règle 257), la chambre
+   d'agriculture aussi, le réseau national des marchés de producteurs refuse tout agent (règle 237) : il ne reste que des
+   annuaires tiers, qui se contredisent sur les jours (règle 196). Le second domaine de la commune n'a pas de site et
+   l'agence régionale ne lui donne aucune période d'ouverture (règle 136). Dans Calvi Balagne, trois domaines ont un site
+   ouvert — à Lumio, à Calenzana (dont le `robots.txt` autorise nommément les agents d'IA) et à Zilia — non instruits : ils
+   compléteraient le groupe (règle 96) dès qu'une seconde fiche entière existera à Calvi.
+
+**Écart de méthode signalé** : la règle 248 borne le second département à deux communes ; Calvi a été éprouvée en troisième
+au titre de la règle 424, écrite pendant cette passe. Rien n'est publié sur sa foi.
+
+**Piège relevé** : un ancien nom de domaine de la Ville de Calvi, encore cité par des annuaires, renvoie aujourd'hui vers
+un site sans rapport ; le domaine en vigueur est celui de l'annuaire de l'administration (règle 327).
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune tranchée, faute de fiche publiable. À relever pour la reprise : à Calvi, les annuaires tiers
+donnent au marché de producteurs tantôt le jeudi matin à l'entrée de la pinède, tantôt tous les matins près de l'office de
+tourisme (le lundi seulement de novembre à avril) ; aucune autorité lisible ne tranche.
+
+**Fiches écartées pour doute sur une personne** : une, à Bourron-Marlotte (un producteur dont l'enseigne est un nom de
+famille), non instruite, non nommée, et qui ne se rouvre pas. À Guérard, Vulaines-sur-Seine, Lucciana, Furiani et Calvi, des
+exploitations inscrites au registre bio sous le seul nom de leur exploitant, non instruites, non nommées.
+
+**Pistes non publiées (Seine-et-Marne et Haute-Corse)** — lignes anonymes :
+
+- Bourron-Marlotte, marché du samedi matin : faits entiers, images fermées, seule. **Déblocage** : une photographie
+  permise dans la commune (règle 312) et une seconde fiche entière.
+- Montigny-sur-Loing, marché du vendredi : **Déblocage** : un lieu, une seconde publication et des familles écrites par la
+  Ville.
+- Calvi, domaine viticole de la route de la forêt de Bonifato : **une fiche aux faits entiers, désignée pour la reprise**
+  (règle 258), image et registre des entreprises à instruire. **Déblocage** : une seconde fiche entière dans la commune —
+  le marché de producteurs publié par une autorité lisible, ou des heures publiées par le second domaine — puis les trois
+  domaines de Lumio, Calenzana et Zilia.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Samoreau** (2 384), puis Presles-en-Brie,
+Bray-sur-Seine et Rebais ; Rozay-en-Brie reste fermée par la règle 257 et Vulaines-sur-Seine par la règle 233. En
+**Haute-Corse**, la passe qui reviendra prend d'abord les fiches désignées de Bastia et de Calvi, puis descend à
+**Ghisonaccia** (4 405), Prunelli-di-Fiumorbo, Penta-di-Casinca, Vescovato et L'Île-Rousse — avec les douze communes de
+la règle 424 si la Seine-et-Marne et la Haute-Corse sont encore les deux premiers départements ouverts.
 
 ### Passe du 6 octobre 2026 (cent quarante-quatrième) : Seine-et-Marne et Haute-Corse, aucune publication ; une fiche entière désignée à Saint-Mammès
 
