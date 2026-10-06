@@ -5200,9 +5200,45 @@ prioritaires en cas de conflit.
      ferait seule la passe (les règles 312 et 412 y restent entières), et pas plus de trois fiches ainsi illustrées par passe.
      **Déblocage** de la réserve : une photographie permise du lieu, qui remplace l'illustration dès qu'elle existe.
 
+423. **Dans une commune revisitée au titre de la règle 82, quand la réserve ne compte plus aucun candidat à
+     photographie-document, les marchés aux jours concordants se publient avec un gros plan municipal comme illustration,
+     pistes nommées d'abord ; le département n'est pas sauté. Et le jeu de données parisien « Marchés découverts » n'est
+     plus une source (règle 419).** Le 6 octobre 2026 (cent quarante et unième passe), Paris est le premier département
+     ouvert (3,23). La passe parisienne du 29 septembre avait écrit qu'« aucun candidat de complément à
+     photographie-document ne reste » et que Grenelle, Alésia, Salpêtrière et Daumesnil, dont le déblocage écrit était
+     « une photographie du lieu », ne se publiaient pas ; relues ce jour, les quatre-vingt-quinze fiches du lieu n'ont reçu
+     aucune photographie nouvelle depuis août. Lue ainsi, la règle 82 fermait pour toujours une cinquantaine de marchés
+     dont la Ville publie le jour, l'heure et l'emplacement, dans la commune la plus peuplée du pays. Or la règle 1 dit
+     qu'une fiche exacte ne se reporte pas pour une question d'illustration, le mandat place la photographie thématique
+     honnête en troisième recours, et la règle 139 ne fait de la photographie-document qu'un critère de **choix** quand la
+     réserve dépasse cinq, pas une condition de publication. **Tranché ainsi** : tant qu'il reste un candidat à
+     photographie-document, l'ordre des règles 139, 223 et 380 ne change pas ; quand il n'en reste plus, la passe prend les
+     pistes nommées une à une dont les jours concordent, puis complète au plus proche (règle 223) parmi les marchés aux
+     jours concordants, chacun avec un gros plan de la Ville comme illustration, `produits` réduit au classement de la
+     Ville (règle 92), la description disant que l'image ne montre pas le lieu, fiche `a_confirmer`. **Un fichier par
+     fiche** (règle 191) : la Ville attache désormais le même fichier à plusieurs fiches du lieu (soixante-cinq fiches de
+     marchés se partagent quarante fichiers d'août, l'empreinte le montre) ; quand le fichier de la fiche du lieu est déjà
+     publié, ou retenu dans la même passe, la fiche reçoit le gros plan que la Ville attache à un autre marché du même
+     arrondissement, et sa description le dit. **Jeu de données** : le `robots.txt` de `parisdata.opendatasoft.com` et
+     celui d'`opendata.paris.fr` écrivent `Disallow: /api/` sous `User-agent: *` ; la règle 419 s'applique, le jeu ne se
+     lit plus, et les fiches déjà publiées sur sa foi restent. Sans lui, le point d'un marché se construit sur la Base
+     Adresse Nationale à partir de ce que la fiche du lieu écrit : le numéro qu'elle donne, sinon le milieu des deux
+     extrémités qu'elle nomme, sinon le point que la Base donne à la voie, dit comme tel dans la fiche ; les heures se
+     recoupent entre la page générale et la fiche du lieu (règle 80), et le linéaire ne s'écrit plus. **Limite** : un
+     marché dont un jour diffère entre les deux publications garde son tour de piste (règles 138 et 223) ; un gros plan
+     où l'on lit une marque ou voit une personne se recadre ou se remplace. **Déblocage** des réserves : une photographie
+     du lieu, qui remplace l'illustration, et pour le jeu de données un `robots.txt` qui rouvre `/api/`.
+
 ## Marchands à confirmer
 
-957 fiches sur 1089 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+962 fiches sur 1094 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Grenelle** (15e), **Marché Alésia**, **Marché Salpêtrière**, **Marché Auguste-Blanqui** (13e) et **Marché
+  Daumesnil** (12e), à Paris (passe du 6 octobre 2026, cent quarante et unième, règles 1, 80, 82, 92, 106, 191, 223, 342,
+  380, 419 et 423) : la Ville ne publie la composition d'aucun de ces marchés ; les cinq photographies sont des gros plans
+  d'illustration qui ne montrent pas le lieu, deux d'entre eux venant de la fiche d'un autre marché de l'arrondissement ;
+  Grenelle ferme le dimanche à 13h30 sur la page générale et à 14h30 sur la fiche du lieu ; les points de Grenelle et de
+  Daumesnil sont le milieu du tronçon décrit, celui d'Auguste-Blanqui le point de la voie dans la Base.
+  **Déblocage** : une photographie de chaque lieu, une liste d'étals, et pour Auguste-Blanqui les limites du marché.
 - **Les Artisans du Potager — magasin de Cholet**, **AMAP Le Panier de la Moine**, **Halles de Cholet** (Cholet), **La Ferme
   de Chez Nous — Saint-Léger-sous-Cholet** (Saint-Léger-sous-Cholet) et **La Chèvrerie Beauregard** (Le May-sur-Èvre) (passe
   du 6 octobre 2026, cent quarantième, règles 9, 96, 195, 215, 231, 274, 296, 312, 377, 391, 412 et 422) : le site des
@@ -12760,6 +12796,86 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante et unième) : Paris, cinq marchés au titre des règles 82 et 423
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 094 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 089 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise 10,24, Oise 9,11, Pas-de-Calais 8,03, Landes 6,85,
+Eure-et-Loir 6,84, Calvados 6,20, Loiret 5,92, Ain 5,73, Lot-et-Garonne 5,27, Loir-et-Cher 5,19, Somme 4,93, Aube 4,90,
+Mayenne 4,82, Cher 4,72, Jura 4,07 et Haute-Saône 3,68, les seize départements écrits épuisés (règle 265) ; Val-de-Marne
+3,54, descente terminée, ses trois pistes non relues par cette passe ; **Paris (75) 3,23**, premier département ouvert, en
+Île-de-France — la passe précédente visait les Pays de la Loire, la réserve de la règle 41.c ne joue pas. `git fetch` refait
+avant l'écriture : `origin/main` n'a pas bougé (règle 241). **Après la passe**, sur 1 094 fiches : Paris −1,62 (35 fiches) ;
+en tête des départements ouverts, Val-de-Marne 3,64 (descente terminée), Seine-et-Marne 3,29, Bouches-du-Rhône 3,12,
+Haute-Corse 2,97, Manche 2,89, Meuse 2,86. La prochaine passe ne peut pas viser l'Île-de-France.
+
+**Paris n'a qu'une commune, déjà pourvue : règle 82, par les pistes de la passe du 29 septembre.** Contrôle en deux requêtes
+(règles 233 et 257) : `paris.fr` et son `robots.txt`, qui n'interdit rien, répondent 200 aux deux agents. Les
+quatre-vingt-quinze fiches du lieu du plan du site (`lieux.xml.gz`) ont été relues : quatre-vingt-treize répondent, deux sont
+en 404 (Cervantes et la seconde fiche Saint-Didier) ; **aucune n'a reçu de photographie depuis août**, et la halle Beauvau
+est toujours « place d'Aligre » sans numéro. La réserve ne compte donc plus aucun candidat à photographie-document : c'est
+la **règle 423**, écrite dans cette passe, qui fait publier les pistes nommées avec une illustration.
+
+**Sources** : la page « Les marchés de Paris » (mise à jour le 23 septembre 2026), la fiche du lieu de chaque marché, la Base
+Adresse Nationale. **Le jeu de données « Marchés découverts » n'est plus lu** (règles 419 et 423) : ni linéaire ni point
+municipal dans ces fiches. Équipements municipaux : pas de test du registre (règle 106). Les fiches du lieu nomment les
+sociétés concessionnaires, au nom patronymique : ni leur nom ni leur numéro ne sont repris.
+
+1. **Marché Grenelle** (15e), piste nommée — mercredi 7h-13h30 concordant ; dimanche 13h30 sur la page générale, 14h30 sur
+   la fiche du lieu : la fiche écrit 13h30 et cite l'autre heure (règle 80). Point : milieu du 1 rue de Lourmel et du 1 rue
+   du Commerce, les deux extrémités que la Ville nomme (Base 0,98 chacune) ; le contrôle inverse rend le boulevard à 6 m.
+   Illustration : cerises et tomates, fichier de sa fiche du lieu.
+2. **Marché Alésia** (13e), piste nommée — mercredi 7h-13h30, samedi 7h-14h30, concordants. Point : 130 rue de la Glacière
+   (Base 0,98), dans le tronçon pair que la Ville décrit de la rue Boutin à la rue d'Alésia. Illustration : fraises et mûres,
+   fichier de sa fiche du lieu, recadré sur ses 560 px du bas pour écarter une silhouette floue à l'arrière-plan.
+3. **Marché Salpêtrière** (13e), piste nommée — mardi et vendredi 7h-13h30, concordants. Point : 36 boulevard de l'Hôpital,
+   que la Base rend à 0,97 côté 5e quand la Ville range le marché dans le 13e ; la fiche suit la Ville et le dit. Le square
+   que longe le marché porte un nom de personne : la fiche écrit « le square » (règle 342). Le fichier de sa fiche du lieu
+   est le gros plan d'olives déjà publié pour un autre marché : illustration prise sur la fiche du lieu d'un autre marché du
+   13e (salades), recadrée sur ses 555 px du bas pour écarter une étiquette de cagette (règles 191 et 423).
+4. **Marché Daumesnil** (12e), piste nommée — mardi et vendredi 7h-13h30, concordants. Point : milieu du 1 boulevard de
+   Reuilly et du 1 place Félix-Éboué (Base 0,98 et 0,97) ; contrôle inverse sur le boulevard, à 24 m. Sa fiche du lieu porte
+   le même fichier que celle de Grenelle : illustration prise sur la fiche du lieu d'un autre marché du 12e (nectarines).
+5. **Marché Auguste-Blanqui** (13e), complément (règles 223 et 423) — mardi et vendredi 7h-13h30, dimanche 7h-14h30,
+   concordants ; le plus proche d'une fiche retenue (0,5 km d'Alésia) parmi les marchés aux jours concordants. La Ville
+   n'écrit que « boulevard Auguste Blanqui, métro Corvisart » : le point est celui de la voie dans la Base (0,98), la fiche
+   le dit et demande de le préciser sur place. Illustration : groseilles, fichier de sa fiche du lieu.
+
+Le groupe tient en un noyau 12e-13e (3,9 km d'Alésia à Daumesnil), Grenelle à 4,2 km d'Alésia : c'est l'ordre des pistes
+nommées qui le veut (règle 139). Les cinq images, 1 200 px de large, ont été réécrites depuis leurs seuls pixels (règle 235)
+et relues après écriture ; aucune personne, aucune marque.
+
+**Contradictions** : l'heure de fermeture de Grenelle le dimanche (règle 80, dite dans la fiche) ; l'arrondissement du
+36 boulevard de l'Hôpital (Ville 13e, Base 5e, dit dans la fiche) ; la Ville écrit « Salpétrière » sur la fiche du lieu et
+« Salpêtrière » sur la page générale, la fiche prend la seconde graphie.
+
+**Écart signalé** : la passe a envoyé trois requêtes à `parisdata.opendatasoft.com/api/` dans la même commande que la
+lecture de son `robots.txt` ; le fichier obtenu a été supprimé sans être lu au-delà de son premier enregistrement, et rien
+n'en est entré dans le dépôt.
+
+**Constat d'entretien, sans action** : le fichier de 2023 que la règle 380 disait attaché au seul marché Saint-Éloi figure
+aussi, ce jour, sur la fiche de la halle Saint-Didier ; et les fichiers d'août ont été redistribués entre les fiches du lieu
+depuis le 29 septembre (la fiche Salpêtrière porte aujourd'hui, sous un autre fichier, la photographie d'olives publiée ce
+jour-là pour Saxe-Breteuil).
+Les fiches publiées gardent leur image.
+
+**Fiches écartées pour doute sur une personne** : aucune. **Données personnelles écartées** : les noms et numéros des
+concessionnaires, et le nom de personne que porte le square du boulevard de l'Hôpital.
+
+**Restent à instruire à Paris, pour une passe suivante (règle 423)** :
+
+- **Jours et heures concordants à la lecture automatique des deux publications, à relire un à un et à prendre au plus proche
+  des fiches publiées** : Bobillot, Vincent-Auriol et Paris-Rive-Gauche (13e) ;
+  Bercy et Ledru-Rollin (12e) ; Edgar-Quinet, Mouton-Duvernet, Jourdan, Brune et Villemain (14e) ; Lefebvre (15e) ; Auteuil,
+  Gros-la-Fontaine, Point-du-Jour et Porte Molitor (16e) ; Navier (17e) ; Ney et Ornano (18e) ; Crimée-Curial, Jean-Jaurès,
+  Porte Brunet, Rosa Parks et Villette (19e) ; Davout et Mortier (20e) ; Charonne, Popincourt et Ménilmontant (11e) ;
+  Alibert (10e) ; Anvers et Sainte-Cécile (9e) ; Bourse (2e) ; Les Halles (1er). Deux de leurs fichiers d'août servent déjà
+  d'illustration à Salpêtrière et à Daumesnil : Bobillot et Bercy recevront un autre gros plan de leur arrondissement.
+- **Un jour ou une heure qui diffère, à la lecture automatique, entre la page générale et la fiche du lieu ; non instruits** : Belgrand, Joinville,
+  Madeleine, Maubert, Ordener, Port-Royal, Porte Dorée, Pyrénées, Réunion, Saint-Honoré, Télégraphe.
+- **Marché couvert Beauvau** et **Saint-Didier** : inchangés. **Marché d'Aligre** : jours concordants, mais sur la même
+  place que la halle (règle 42), sans point qui les sépare.
 
 ### Passe du 6 octobre 2026 (cent quarantième) : Cholet (Maine-et-Loire), cinq fiches dont deux dans Cholet Agglomération ; règle 422
 

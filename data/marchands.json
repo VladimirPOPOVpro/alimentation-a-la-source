@@ -28860,5 +28860,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ch%C3%A8vrerie%20Beauregard%2C%20Beauregard%2C%2049122%20Le%20May-sur-%C3%88vre",
     "image_url": "/images/marchands/chevrerie-beauregard-le-may-sur-evre.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-grenelle",
+    "nom": "Marché Grenelle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.849644,
+    "lon": 2.295023,
+    "adresse": "Boulevard de Grenelle, entre la rue de Lourmel et la rue du Commerce, 75015 Paris",
+    "horaires": "Mercredi de 7h à 13h30, dimanche de 7h à 13h30 d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) — la fiche du lieu de la Ville le prolonge jusqu'à 14h30 le dimanche. Les jours concordent sur les deux publications.",
+    "produits": [
+      "Produits alimentaires (marché rangé par la Ville parmi ses marchés alimentaires)"
+    ],
+    "description": "Marché alimentaire de plein air du boulevard de Grenelle, entre la rue de Lourmel et la rue du Commerce, près des métros Dupleix et La Motte-Picquet-Grenelle. La Ville ne publie pas la composition des étals ; le point de la carte est le milieu du tronçon qu'elle décrit ; la photographie est une illustration (gros plan de cerises et de tomates d'une série que la Ville attache à plusieurs fiches de marchés) et ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-grenelle-5502",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Grenelle+boulevard+de+Grenelle+Paris",
+    "image_url": "/images/marchands/marche-grenelle.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-alesia",
+    "nom": "Marché Alésia",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.827432,
+    "lon": 2.342041,
+    "adresse": "Rue de la Glacière, côté pair, de la rue Boutin à la rue d'Alésia, et rue de la Santé, côté impair, du n° 137 à la rue d'Alésia, 75013 Paris",
+    "horaires": "Mercredi de 7h à 13h30, samedi de 7h à 14h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) et la fiche du lieu de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (marché rangé par la Ville parmi ses marchés alimentaires)"
+    ],
+    "description": "Marché alimentaire de plein air du sud du 13e arrondissement, sur le trottoir pair de la rue de la Glacière et le trottoir impair de la rue de la Santé, près du métro Glacière. La Ville ne publie pas la composition des étals ; le point de la carte est le 130 rue de la Glacière, dans le tronçon qu'elle décrit ; la photographie est une illustration (gros plan de fraises et de mûres d'une série que la Ville attache à plusieurs fiches de marchés) et ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-alesia-5488",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Alésia+rue+de+la+Glacière+Paris",
+    "image_url": "/images/marchands/marche-alesia.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-salpetriere",
+    "nom": "Marché Salpêtrière",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.84059,
+    "lon": 2.361932,
+    "adresse": "36 boulevard de l'Hôpital, le long du square, 75013 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) et la fiche du lieu de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (marché rangé par la Ville parmi ses marchés alimentaires)"
+    ],
+    "description": "Marché alimentaire de plein air du boulevard de l'Hôpital, le long du square qui borde l'hôpital, près des métros Saint-Marcel et Gare d'Austerlitz. La Ville ne publie pas la composition des étals et range le marché dans le 13e arrondissement, quand la Base Adresse Nationale place le n° 36 côté 5e. La photographie est une illustration : un gros plan de salades que la Ville attache à la fiche d'un autre marché de l'arrondissement ; elle ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-salpetriere-5492",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Salpêtrière+36+boulevard+de+l%27Hôpital+Paris",
+    "image_url": "/images/marchands/marche-salpetriere.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-daumesnil",
+    "nom": "Marché Daumesnil",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.839643,
+    "lon": 2.392085,
+    "adresse": "Boulevard de Reuilly, entre la rue de Charenton et la place Félix-Éboué, 75012 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) et la fiche du lieu de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (marché rangé par la Ville parmi ses marchés alimentaires)"
+    ],
+    "description": "Marché alimentaire de plein air du boulevard de Reuilly, entre la rue de Charenton et la place Félix-Éboué, près des métros Dugommier et Daumesnil. La Ville ne publie pas la composition des étals ; le point de la carte est le milieu du tronçon qu'elle décrit. La photographie est une illustration : un gros plan de nectarines que la Ville attache à la fiche d'un autre marché de l'arrondissement ; elle ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-daumesnil-5484",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Daumesnil+boulevard+de+Reuilly+Paris",
+    "image_url": "/images/marchands/marche-daumesnil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-auguste-blanqui",
+    "nom": "Marché Auguste-Blanqui",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.830548,
+    "lon": 2.3476,
+    "adresse": "Boulevard Auguste-Blanqui, métro Corvisart, 75013 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30, dimanche de 7h à 14h30, d'après la page « Les marchés de Paris » (mise à jour le 23 septembre 2026) et la fiche du lieu de la Ville, qui concordent.",
+    "produits": [
+      "Produits alimentaires (marché rangé par la Ville parmi ses marchés alimentaires)"
+    ],
+    "description": "Marché alimentaire de plein air du boulevard Auguste-Blanqui, que la Ville situe au métro Corvisart sans en publier les limites ni la composition des étals : le point de la carte est celui que la Base Adresse Nationale donne au boulevard, à préciser sur place. La photographie est une illustration (gros plan de groseilles d'une série que la Ville attache à plusieurs fiches de marchés) et ne montre pas le lieu.",
+    "site_web": "https://www.paris.fr/lieux/marche-auguste-blanqui-5489",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Auguste-Blanqui+boulevard+Auguste-Blanqui+Paris",
+    "image_url": "/images/marchands/marche-auguste-blanqui.jpg",
+    "a_confirmer": true
   }
 ]
