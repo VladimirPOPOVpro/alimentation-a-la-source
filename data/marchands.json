@@ -29291,5 +29291,56 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20technologique%20Saint-L%C3%B4%20Th%C3%A8re%20383%20Rue%20Popielujko%2050000%20Saint-L%C3%B4",
     "image_url": "/images/marchands/les-enfants-theribles-saint-lo.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-du-vieux-singe-saint-jacques-de-la-lande",
+    "nom": "Brasserie du Vieux Singe",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.066579,
+    "lon": -1.699346,
+    "adresse": "4 bis rue Janig Corlay, 35136 Saint-Jacques-de-la-Lande",
+    "horaires": "Vente à emporter au magasin de la brasserie le jeudi de 14h à 18h et le vendredi de 10h à 18h en continu. Fermé le week-end et les jours fériés ; la brasserie annonce sur son site ses fermetures d'été et ses horaires de décembre.",
+    "produits": [
+      "American Pale Ale",
+      "London Bitter",
+      "American Wheat",
+      "Stout à la vanille",
+      "Brassins uniques de saison",
+      "Prêt de tireuses et de fûts"
+    ],
+    "description": "Brasserie artisanale fondée en 2018 et devenue société coopérative en 2022, engagée en agriculture biologique auprès d'Ecocert depuis 2018 d'après le registre de l'Agence Bio. Elle brasse quatre bières permanentes et des brassins uniques, publie ses recettes et fait visiter l'atelier pendant les heures d'ouverture du magasin ; les commandes passées en ligne se retirent sur place aux mêmes heures.",
+    "site_web": "https://www.vieuxsinge.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20du%20Vieux%20Singe%204%20bis%20rue%20Janig%20Corlay%2035136%20Saint-Jacques-de-la-Lande",
+    "image_url": "/images/marchands/brasserie-du-vieux-singe-saint-jacques-de-la-lande.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-la-lande-saint-jacques-de-la-lande",
+    "nom": "AMAP de la Lande",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.080278,
+    "lon": -1.714032,
+    "adresse": "Épi Condorcet, 10 rue François Mitterrand, 35136 Saint-Jacques-de-la-Lande",
+    "horaires": "Distribution chaque jeudi de 17h à 19h à l'Épi Condorcet, sur contrat avec les producteurs. Une seconde distribution a lieu le vendredi en fin d'après-midi dans un autre quartier, à un lieu et une heure que les sources ne donnent pas de façon concordante : se renseigner auprès de l'association.",
+    "produits": [
+      "Paniers de légumes",
+      "Pain",
+      "Lait et fromages",
+      "Œufs",
+      "Volailles"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne qui réunit, d'après l'annuaire des associations de la Ville, cent vingt adhérents et sept producteurs en agriculture biologique autour de la vente directe sous contrat. La liste des produits vient d'un annuaire tiers et reste à confirmer auprès de l'association. La photo, prêtée par une brasserie de la commune, montre du pain et non le lieu de distribution.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%C3%89pi%20Condorcet%2010%20rue%20Fran%C3%A7ois%20Mitterrand%2035136%20Saint-Jacques-de-la-Lande",
+    "image_url": "/images/marchands/amap-de-la-lande-saint-jacques-de-la-lande.jpg",
+    "a_confirmer": true
   }
 ]

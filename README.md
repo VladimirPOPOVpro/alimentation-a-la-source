@@ -5280,9 +5280,26 @@ prioritaires en cas de conflit.
      Première application : Samoreau et Presles-en-Brie en Seine-et-Marne, puis Saint-Lô, première commune éprouvée de la
      Manche, qui rend sa zone.
 
+427. **Un marché dont la commune publie elle-même, semaine après semaine, la liste des étals présents, et qui n'en compte
+     qu'un ou deux avec des semaines annulées, ne se publie pas, même si ses jour, heure et lieu sont entiers.** Le
+     6 octobre 2026 (cent quarante-huitième passe), une commune voisine de Vitré publie pour son marché du soir sous halle
+     un jour, une heure, une adresse et un règlement, que l'office de tourisme confirme ; mais son calendrier de l'été
+     2026 n'annonce qu'un ou deux étals par vendredi, dont un seul alimentaire, et deux vendredis annulés. Les règles 178
+     et 197 demandent des faits entiers et une famille de produits ; aucune ne disait quoi faire quand la commune écrit
+     elle-même que l'étal peut manquer. **Tranché ainsi** : une fiche de marché promet qu'on y trouve de quoi faire ses
+     courses le jour dit ; quand la source officielle montre un seul étal alimentaire et des annulations, la fiche attend
+     en pistes. **Déblocage** : un calendrier de la commune qui montre au moins trois étals alimentaires tenus sans
+     annulation sur un mois. Aucune autre exigence ne change.
+
 ## Marchands à confirmer
 
-974 fiches sur 1106 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+976 fiches sur 1108 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Brasserie du Vieux Singe** et **AMAP de la Lande**, à Saint-Jacques-de-la-Lande (passe du 6 octobre 2026, cent
+  quarante-huitième, règles 1, 5, 312, 412, 426 et 427) : le seul téléphone que publie la brasserie est un portable, non
+  inscrit ; l'AMAP n'a pas de site, sa liste de produits vient d'un annuaire tiers, sa seconde distribution du vendredi
+  est située différemment par la Ville et par cet annuaire et n'est donc pas publiée, et sa photographie, prêtée par la
+  brasserie, montre du pain et non le lieu. **Déblocage** : une page de l'association qui écrive ses produits et son
+  second point ; un téléphone fixe de la brasserie.
 - **La Cabane Penchée**, **Marché de la place Général de Gaulle**, **Biocoop Saint-Lô** et **Les Enfants Thèribles –
   boutique de l'atelier technologique**, à Saint-Lô (passe du 6 octobre 2026, cent quarante-septième, règles 1, 5, 6, 7,
   149, 178, 197, 231, 312 et 426) : seule la Cabane est illustrée par son propre lieu, les trois autres portent une
@@ -12868,6 +12885,90 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent quarante-huitième) : Saint-Jacques-de-la-Lande (Ille-et-Vilaine), deux fiches dans la commune ; règle 427
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Deux fiches ajoutées, aucune retirée** : 1 108 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 106 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du Val-d'Oise
+10,56 à la Haute-Saône 3,74 ; Val-de-Marne 3,89, descente terminée ; **Seine-et-Marne (77) 3,55**, premier ouvert, deux
+communes (règle 426) ; **Ille-et-Vilaine (35) 2,98**, second, borne de douze. La réserve de la règle 41.c était celle de la
+Normandie : la Bretagne est permise. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé. **Après la passe**,
+sur 1 108 fiches, l'Ille-et-Vilaine compte 17 fiches pour une cible proche de 18. La prochaine passe ne peut pas viser la
+Bretagne.
+
+**Seine-et-Marne (règle 426, deux communes).** **Bray-sur-Seine** (2 344) : la Ville écrit un marché « tous les
+vendredis » sans lieu, sans heure et sans famille de produits (règles 178 et 197). Zéro. **Rebais** (2 294) : aucun site
+communal n'ouvre de connexion (règle 237). Zéro.
+
+**Ille-et-Vilaine.** Rennes, Saint-Malo et Bruz ont leurs fiches ; Fougères a été éprouvée le 25 septembre.
+
+1. **Vitré** (19 365) — **trois points aux faits entiers, aucune image.** La Ville écrit deux marchés alimentaires place de
+   la République, le lundi et le samedi matin ; l'office de tourisme donne 8h-12h et 8h-12h30. Le magasin biologique de la
+   rue des Artisans publie ses heures sur son propre domaine (du lundi au samedi, 9h-19h), société active au registre,
+   engagée au registre de l'Agence Bio. Une ferme caprine biologique de Saint-M'Hervé, à neuf kilomètres, publie sa
+   boutique (mercredi et vendredi 16h30-19h, samedi 10h-12h et 16h30-19h selon elle, le samedi matin seul selon l'office)
+   et un fixe. Mais la Ville, l'agglomération, le magasin et la ferme interdisent en toutes lettres la reprise de leurs
+   images (règle 231), l'office ne l'autorise que sous citation de la source, que le site ne sait pas porter, et aucun
+   site de la commune ne publie de photographie thématique sans clause. **Zéro**, les trois fiches désignées pour la
+   reprise.
+2. **Cesson-Sévigné** (18 761) — mentions de la Ville fermées (« représentations iconographiques et photographiques ») ;
+   non poursuivie dans cette passe, à réessayer à son rang (règle 406).
+3. **Saint-Jacques-de-la-Lande** (13 800) — **fait la passe**, voir ci-dessous.
+
+Betton et Pacé (images nommées dans les mentions de la Ville), Châteaugiron (403 à l'agent par défaut, règle 425), Dinard
+et Chantepie n'ont été lus qu'à leurs mentions légales et ne comptent pas parmi les communes éprouvées.
+
+**Saint-Jacques-de-la-Lande.** Sources : la Ville (page du marché, annuaire des associations ; mentions légales sans
+aucune clause sur les images, `robots.txt` ouvert), le registre de l'Agence Bio du département (2 499 opérateurs), le
+registre des entreprises, le site de la brasserie. Les deux fiches :
+
+- **Brasserie du Vieux Singe** (`producteur`, piliers des brasseries déjà publiées) — magasin de vente à emporter le
+  jeudi 14h-18h et le vendredi 10h-18h, publié par la brasserie sur deux pages ; société coopérative active au registre à
+  cette adresse ; engagée auprès d'Ecocert depuis janvier 2018. Point de la Base Adresse Nationale (0,82, numéro 4 bis),
+  identique à celui du registre de l'Agence Bio. Photographie du magasin publiée par la brasserie, sans personne ; son
+  site n'a ni mentions légales ni `robots.txt`. Téléphone portable : non inscrit.
+- **AMAP de la Lande** (`amap`, piliers des AMAP déjà publiées) — la Ville écrit cent vingt adhérents, sept producteurs
+  biologiques et une distribution le jeudi de 17h à 19h à l'Épi Condorcet ; association active au registre à cette
+  adresse. Produits d'un annuaire tiers, dits à confirmer. Photographie prêtée par la brasserie (du pain, règle 412), la
+  description le dit.
+
+**Deux fiches et non cinq** : la commune n'a pas d'autre point aux faits entiers et illustrable.
+
+**Contradictions** : la seconde distribution de l'AMAP est le vendredi 17h15-19h « à la mairie annexe » pour la Ville,
+17h30-19h30 dans une maison de quartier pour l'annuaire tiers : non publiée (règle 5). La page du réseau biologique
+régional que les moteurs citent encore pour cette AMAP répond 404. À Vitré, un annuaire donne au magasin biologique
+une coupure de midi que son propre site n'écrit pas : le site ferait foi.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite ; à Vitré et alentour, plusieurs exploitations
+du registre bio connues sous le seul nom de leur exploitant et une ferme maraîchère dont le site est construit autour
+de sa fondatrice, non instruites, non nommées.
+
+**Pistes non publiées (Vitré, Saint-Jacques-de-la-Lande)** — lignes anonymes :
+
+- Vitré, marché alimentaire de la place de la République (lundi et samedi matin) : faits entiers, images fermées.
+  **Déblocage** : une photographie de la place ou thématique de la commune, publiée sans clause.
+- Vitré, magasin biologique de la rue des Artisans : faits entiers, conditions qui nomment les photographies.
+  **Déblocage** : le même.
+- Saint-M'Hervé, ferme caprine biologique avec boutique : faits entiers hors l'après-midi du samedi, images interdites
+  par ses mentions. **Déblocage** : le même, et une heure du samedi concordante.
+- Pocé-les-Bois, marché du vendredi soir sous la halle : jour, heure, lieu et photographie de la halle disponibles (la
+  commune dit ses photographies siennes sans en interdire la reprise), mais un à deux étals et des vendredis annulés à
+  l'été 2026 (règle 427). **Déblocage** : celui de la règle 427.
+- Vitré, deux AMAP : connues par des annuaires tiers et un blog arrêté en 2016 ; le site du centre social qui les
+  héberge répond 503. **Déblocage** : une page de l'association ou du centre social.
+- Vitré, élevage laitier biologique en vente directe : vend surtout à la restauration, aucune heure d'accueil publiée.
+- Montreuil-sous-Pérouse, magasin d'éleveurs en vente directe : annuaires seuls, ni site ni établissement retrouvé au
+  registre sous cette enseigne dans le département (règles 6 et 136).
+- Saint-Jacques-de-la-Lande, marché du mercredi (8h-13h, cours Camille Claudel ; boucher-charcutier, primeur,
+  poissonnier, fromager, crêpes) : faits entiers publiés par la Ville, qui ne publie aucune photographie ; la seule
+  image permise de la commune montre des bières ou du pain, que ce marché ne vend pas. **Déblocage** : une photographie
+  du marché, ou thématique de ses étals, publiée sans clause.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Jouy-sur-Morin** (2 230), puis Livry-sur-Seine,
+Égreville et La Chapelle-la-Reine (règle 426). En **Ille-et-Vilaine**, la descente reprendra à **Cesson-Sévigné**
+(18 761, à réessayer, rang 2), puis Betton, Pacé et Châteaugiron. Dans la **Manche**, inchangé : Granville, puis La
+Hague et Carentan-les-Marais. En **Haute-Corse**, inchangé : Ventiseri, puis Aléria, Cervione et Monticello.
 
 ### Passe du 6 octobre 2026 (cent quarante-septième) : Saint-Lô (Manche), quatre fiches dans la commune ; règle 426
 
