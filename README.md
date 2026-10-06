@@ -12804,6 +12804,103 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 6 octobre 2026 (cent quarante-quatrième) : Seine-et-Marne et Haute-Corse, aucune publication ; une fiche entière désignée à Saint-Mammès
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image** : 1 099 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 099 fiches), outre-mer écarté (règle 177), relu
+depuis le premier rang (règle 410) : inchangé depuis la passe précédente (règle 260) — Val-d'Oise 10,43, Oise 9,23,
+Pas-de-Calais 8,24, Landes 6,91, Eure-et-Loir 6,90, Calvados 6,31, Loiret 6,02, Ain 5,83, Lot-et-Garonne 5,32, Loir-et-Cher
+5,24, Somme 5,01, Aube 4,95, Mayenne 4,87, Cher 4,76, Jura 4,11 et Haute-Saône 3,72, les seize départements écrits épuisés
+(règle 265) ; Val-de-Marne 3,74, descente terminée, non réinstruit cette fois ; **Seine-et-Marne (77) 3,40**, premier
+département ouvert ; **Haute-Corse (2B) 2,98**, second (règle 248). La réserve de la règle 41.c reste celle de
+Provence-Alpes-Côte d'Azur pour la passe suivante. `git fetch` refait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Seine-et-Marne : douze communes, de Mareuil-lès-Meaux à La Grande-Paroisse, aucune zone (règle 247).** Domaines lus à
+l'annuaire de l'administration (règle 327), contrôle en deux requêtes et `robots.txt` avant toute page (règles 233 et 257),
+registre de l'Agence Bio du département relu en entier (926 opérateurs).
+
+1. **Mareuil-lès-Meaux** (3 345) — site de la Ville lu : ni marché ni commerce de circuit court dans son annuaire ; au
+   registre bio, un hypermarché et une exploitation inscrite sous le nom de son exploitant. Zéro.
+2. **Évry-Grégy-sur-Yerre** (3 321) — la Ville répond 403 à l'agent nommé, 200 à l'agent par défaut (règle 257) : non lue.
+3. **Moussy-le-Neuf** (3 253) — la Ville tient une ferme maraîchère communale, engagée au registre de l'Agence Bio au nom de
+   la commune, et écrit sur sa page « Maraîchage » un distributeur de quatre-vingts casiers et une vente directe « le mardi
+   à partir de 17h00 » ; elle n'en écrit pas l'adresse, et toutes ses photographies sont servies par un hébergeur dont le
+   `robots.txt` répond 403 (règle 256). Une piste aux faits presque entiers, seule, sans image. Zéro zone.
+4. **Verneuil-l'Étang** (3 223) — 403 à l'agent nommé, 200 à l'agent par défaut (règle 257) : non lue.
+5. **Saint-Mammès** (3 162) — **une fiche entière, une seule** : le marché du dimanche matin, le long du quai de Seine. La
+   Ville le publie à deux endroits tenus séparément (sa page « Le marché » et sa page de présentation de la commune, qui
+   écrit « les produits locaux vendus sur le marché dominical » — règle 178), avec ses familles écrites pour lui (boucher,
+   fromager, apiculteur, maraîchers, primeurs — règle 197) ; aucune heure n'est publiée (règle 9). Sa photographie du marché
+   sur le quai (1 300 × 550, passants de dos ou lointains) est sur un site dont les mentions légales n'ont aucune clause sur
+   les images et dont le `robots.txt` n'exclut personne. Le mini-marché du mercredi matin, place de la Bosse (un maraîcher,
+   un boucher, un fromager, depuis le printemps 2024), ne paraît qu'à un seul endroit du site et n'a pas d'image ; l'office
+   Moret Seine & Loing ne fiche aucun des deux marchés dans ses pages lisibles, et le guide des producteurs de
+   l'intercommunalité tire ses marchés d'une interface dont le `robots.txt` renvoie à une page de connexion (règles 256 et
+   369) : non lue. L'exploitation apicole que cite l'annuaire de la Ville n'a plus de site (404) et paraît sous le nom de
+   ses exploitants. Pas de seconde fiche entière : pas de zone (règle 127).
+6. **Longperrier** (3 152) — site lu sous l'agent nommé (règle 403) : aucun marché hebdomadaire, des commerces de centre
+   commercial. Zéro.
+7. **Château-Landon** (3 149) — **deux points aux faits entiers, aucune image permise.** Le marché du jeudi, place du Marché :
+   la Ville l'écrit sur sa page « Les annuaires » (« le marché du jeudi matin à ciel ouvert », maraîcher, apiculteur,
+   fromager, poissonnier et rôtisseur) et l'office Gâtinais Val-de-Loing donne « toute l'année le jeudi de 7h30 à 13h »
+   (règles 9 et 197). La boutique de terroir que l'office tient dans son bureau de la rue Hetzel, du mardi au samedi de
+   9h30 à 12h30 et de 13h30 à 17h30, nomme ses producteurs (miels et safran de la commune, bière de Mondreville — règle 86).
+   Mais la Ville soumet ses photographies à une autorisation écrite (règle 231) et l'office réserve son contenu à l'usage
+   privé (règle 296) ; aucun commerce de la commune ne publie d'image reprenable (règle 312). L'épicerie biologique
+   coopérative de la rue Jean-Galland (société active, engagée au registre bio, citée par la Ville et par l'office) n'a
+   pour site qu'une page d'attente de mars 2021 et ne nomme aucun de ses producteurs (règles 86 et 361). Zéro zone.
+8. **Coupvray** (3 066) — la Ville publie à deux endroits son marché mensuel du dernier samedi du mois, à la Ferme du
+   Château, avec ses familles et ses dates jusqu'en décembre ; ses mentions légales nomment les photographies et ne laissent
+   qu'une copie privée (règles 246 et 296). Une fiche aux faits entiers, seule, sans image. Zéro zone.
+9. **Faremoutiers** (3 057) — page des commerces et accueil lus : aucun marché, aucun point de vente directe ; au registre,
+   deux grandes surfaces. Zéro, criblage léger, dit comme tel.
+10. **Pommeuse** (3 049) — l'accueil de la Ville annonce un petit marché « tous les vendredis de 16h à 19h30, place de
+    Tresmes », à ce seul endroit (règle 178) et sans famille de produits (règle 197). Zéro.
+11. **Grisy-Suisnes** (2 948) — page des commerces lue : aucun commerce alimentaire de circuit court, aucun marché ; au
+    registre, un domaine au certificat arrêté. Zéro, criblage léger.
+12. **La Grande-Paroisse** (2 893) — annuaire de la Ville lu : aucun marché hebdomadaire ; la ferme familiale du registre bio
+    reçoit sur réservation à ce qui paraît être un domicile (règle 311), non instruite. Zéro.
+
+**Haute-Corse (règle 248) : contrôle du déblocage de Bastia, puis Corte et Biguglia — pas de zone.** Registre de l'Agence
+Bio du département relu.
+
+0. **Bastia, déblocage nommé** — le site de Santa-Maria-di-Lota (lu sous l'agent nommé, règle 403) ne porte toujours aucune
+   page sur un marché de producteurs. Les deux fiches désignées restent en pistes, non réinstruites.
+1. **Corte** (7 819) — la Ville atteste son marché hebdomadaire de la place Padoue par sa page d'emplacements et son
+   règlement, sans en écrire le jour ni l'heure (règle 16), et réserve ses photographies à l'usage personnel (règle 296) ;
+   au registre bio, des exploitations dont les seules pages sont des réseaux sociaux ou un hébergement. Zéro.
+2. **Biguglia** (7 642) — site de la Ville lu : aucun marché hebdomadaire publié ; au registre bio, un drive de
+   grande surface et un glacier industriel. Zéro.
+
+**Aucune zone dans les deux départements éprouvés : la passe ne publie rien (règle 248).**
+
+**Contradictions** : aucune tranchée, faute de fiche publiable. À relever pour la reprise : à Château-Landon, un annuaire
+tiers ferme l'épicerie coopérative le dimanche quand l'office l'ouvre « les week-ends » (fiche de l'office modifiée en
+juin 2023) ; à Saint-Mammès, aucune source ne donne d'heure au marché du dimanche.
+
+**Fiches écartées pour doute sur une personne** : aucune fiche instruite. À Mareuil-lès-Meaux, Saint-Mammès, Château-Landon,
+La Grande-Paroisse et Corte, des exploitations inscrites ou présentées sous le seul nom de leur exploitant, non
+instruites, non nommées.
+
+**Pistes non publiées (Seine-et-Marne et Haute-Corse)** — lignes anonymes :
+
+- Saint-Mammès, marché du dimanche matin du quai de Seine : **une fiche entière, désignée pour la reprise** (règle 258),
+  image de la Ville comprise. **Déblocage** : une seconde fiche entière dans la commune — une seconde publication et une
+  image pour le mini-marché du mercredi — puis deux points dans Moret Seine et Loing à moins de quinze kilomètres (la
+  ferme maraîchère désignée de Moret-Loing-et-Orvanne en est un, sous sa réserve de la règle 356).
+- Château-Landon, marché du jeudi et boutique de terroir de l'office : faits entiers, images fermées. **Déblocage** : une
+  photographie permise dans la commune (règle 312), ou la levée d'une des deux clauses. Épicerie biologique coopérative :
+  une liste de ses producteurs publiée par elle.
+- Moussy-le-Neuf, ferme maraîchère communale : **Déblocage** : l'adresse du distributeur écrite par la Ville, une image
+  servie hors de l'hébergeur fermé, et une seconde fiche entière.
+- Coupvray, marché mensuel de la Ferme du Château : faits entiers, images fermées, seule. **Déblocage** : idem.
+- Pommeuse, marché du vendredi : **Déblocage** : une seconde publication et une famille de produits écrites par la Ville.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Saint-Germain-Laval** (2 888), puis Rozay-en-Brie,
+Bourron-Marlotte et Cannes-Écluse ; Évry-Grégy-sur-Yerre et Verneuil-l'Étang restent fermées par la règle 257. En
+**Haute-Corse**, la passe qui reviendra prend d'abord les deux fiches désignées de Bastia, puis descend à **Lucciana** et
+Furiani.
+
 ### Passe du 6 octobre 2026 (cent quarante-troisième) : Seine-et-Marne et Haute-Corse, aucune publication ; deux fiches entières désignées à Bastia
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée ni retirée, aucune image** : 1 099 fiches.
