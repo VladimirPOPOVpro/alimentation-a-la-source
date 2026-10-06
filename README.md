@@ -5162,9 +5162,32 @@ prioritaires en cas de conflit.
      dans la description. **Limite** : la règle ne vaut que pour une boutique tenue en propre — pas pour un simple dépôt chez
      un tiers ni pour une présence au seul marché. **Déblocage** des fiches restées en pistes : une image permise de plus.
 
+421. **Quand la Ville exclut un agent d'IA par son nom, la fiche d'un office de tourisme intercommunal qui joint la liste des
+     commerçants d'un marché, recoupée par une association locale qui nomme le même lieu sur son propre site, suffit à publier
+     ce marché ; et la photographie qu'une Ville voisine publie de son propre marché se lit pour ses panneaux.** Le 6 octobre
+     2026 (cent trente-neuvième passe), le site de la Ville de Marly-le-Roi exclut `Amazonbot` (règle 233) et ne se lit pas.
+     L'office de tourisme intercommunal fiche le marché de la rue de Fontenelle avec ses jours, ses heures et, en pièce
+     jointe, une liste des commerçants datée de 2020 ; l'AMAP de la commune écrit sur son site, mis à jour en septembre 2026,
+     qu'elle distribue « sur le parvis du marché, rue de Fontenelle ». La règle 196 refuse un marché que seul l'office
+     recense ; la règle 390 admet déjà l'intercommunalité comme « autre autorité » quand la Ville refuse l'agent.
+     **Tranché ainsi** : l'office intercommunal vaut ici l'autorité, l'association vaut seconde source pour le lieu (comme
+     l'exposant de la règle 420), et la liste jointe remplit la règle 197 — seuls ses métiers sont lus, jamais les noms
+     qu'elle porte ; la fiche dit la date de la liste et part en `a_confirmer`. À Louveciennes, la Ville ne publie de son
+     marché qu'une rubrique et une photographie : les banderoles qui s'y lisent (poissonnerie et fruits de mer, poulet
+     fermier, viande) et les caisses de légumes remplissent `produits` au titre de la règle 74, la fiche disant que ce n'est
+     pas un inventaire ; la photographie, pleine de passants dont des enfants, ne se publie que recadrée sur les barnums et
+     les arbres (règles 46 et 99). **Limite** : une liste jointe que l'office aurait retirée, ou une association muette
+     depuis plus de douze mois (règle 195), ne suffisent plus.
+
 ## Marchands à confirmer
 
-948 fiches sur 1080 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+952 fiches sur 1084 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **AMAP Marly**, **Marché de Marly-le-Roi**, **Les Comptoirs de la Bio Marly-le-Roi** (Marly-le-Roi) et **Marché de
+  Louveciennes** (Louveciennes) (passe du 6 octobre 2026, cent trente-neuvième, règles 9, 63, 74, 96, 197, 233, 312, 320,
+  377, 412 et 421) : le marché de Marly ne repose que sur l'office de tourisme intercommunal, dont la liste de commerçants
+  date de 2020, la Ville n'étant pas lue ; les heures du magasin bio sont celles que publie le centre commercial, pas
+  l'enseigne, et son point est celui du centre ; les produits du marché de Louveciennes sont lus sur une photographie de
+  la Ville ; le marché de Marly et le magasin bio sont illustrés par une photographie thématique qui ne montre pas le lieu.
 - **Boucherie de la Ferme d'Enjacquet**, **Aqui'chò ! – La Boucherie des Éleveurs**, **Biocoop Les Jardins d'Augusta**,
   **L'Atelier de Naroques** et **Marché du samedi en haute ville** (Auch) (passe du 6 octobre 2026, cent trente-huitième,
   règles 9, 90, 312, 386, 412 et 420) : la boucherie de la ferme écrit « 9h-13h, 7 jours sur 7 » sur son site quand
@@ -12708,6 +12731,92 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 6 octobre 2026 (cent trente-neuvième) : Marly-le-Roi (Yvelines), quatre fiches dont une à Louveciennes ; règle 421
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 084 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 080 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : du Val-d'Oise (10,07) à la Haute-Saône (3,65), les seize départements
+écrits épuisés (règle 265) ; Val-de-Marne 3,35, descente terminée ; **Yvelines (78) 3,26**, premier département ouvert, en
+Île-de-France — la passe précédente visait l'Occitanie, la réserve de la règle 41.c ne joue pas. **Après la passe**, sur 1 084
+fiches : Yvelines −0,65 (24 fiches) ; en tête des départements ouverts, Val-de-Marne 3,43 (descente terminée), Maine-et-Loire
+3,11, Seine-et-Marne 3,08, Paris 3,07. La prochaine passe ne peut pas viser l'Île-de-France.
+
+**Descente des Yvelines, reprise au point d'arrêt écrit, Limay — trois communes, la troisième fait la passe.** Registre de
+l'Agence Bio du département relu (819 opérateurs).
+
+1. **Limay** (17 885) — la Ville publie son marché en entier : vendredi de 8h à 13h sous la halle, entre la rue
+   Georges-Clemenceau et la rue de l'Église, fruits et légumes, poissons, viandes, viennoiseries. Ses mentions légales
+   réservent la copie à l'usage privé (règle 296). Rien d'autre : l'AMAP de la commune n'a que des annuaires (règle 195), le
+   registre bio n'y compte qu'un céréalier sans vente décrite et des grandes surfaces. Une fiche aux faits entiers, sans
+   image : pas de zone.
+2. **Viroflay** (17 237) — la Ville donne les jours et les lieux de ses deux marchés (halle de l'avenue du Général-Leclerc
+   mardi, jeudi, samedi ; place de Verdun mercredi, vendredi, dimanche), sans heure ni famille de produits sur la page — le
+   règlement et les plans joints n'ont pas été instruits — et ses mentions légales nomment les « représentations
+   photographiques » (règle 231). L'AMAP de la commune a un site vivant (articles d'octobre 2026), sans clause, avec des
+   photographies de ses serres, mais le lieu de distribution qu'elle publie est une adresse où le registre ne connaît que des
+   entrepreneurs individuels : doute sur un domicile (règle 243), fiche écartée. Aucune fiche au lieu illustré : pas de zone
+   (règle 412).
+3. **Marly-le-Roi** (16 756) — **fait la passe** : trois fiches dans la commune, dont une illustrée par ses propres produits,
+   et une quatrième à Louveciennes, limitrophe, même intercommunalité, à 1,5 km de la mairie de Marly (règles 96 et 363).
+
+**Les quatre fiches.**
+
+1. **AMAP Marly** — site de l'association (dernier article du 14 septembre 2026), servi aux deux agents, sans clause sur les
+   images : vendredi 18h45-19h45 sur le parvis du marché ; point publié par l'AMAP elle-même (règle 63), que la Base retourne
+   à 27 m d'un numéro de l'allée voisine. Familles de produits lues dans la rubrique « Les produits ». Pas de lien : le menu
+   du site, présent dès l'accueil, nomme des producteurs par leur nom (règle 377). Pas de pilier environnement, les
+   certificats des fermes n'ayant pas été vérifiés un à un.
+2. **Marché de Marly-le-Roi** — règle 421 : fiche de l'office de tourisme intercommunal (mardi, vendredi, dimanche
+   8h30-13h, rue de Fontenelle), liste des commerçants jointe ; point de la voie (Base, 0,96). Le numéro que porte la fiche
+   de l'office n'est pas repris (règle 201).
+3. **Les Comptoirs de la Bio Marly-le-Roi** — société active au registre des entreprises, enseigne déclarée, établissement
+   ouvert au centre commercial des Grandes Terres ; certificat engagé depuis octobre 2021 au registre bio ; heures et fixe
+   de la page que le centre commercial consacre au magasin, qui ne nomme personne : lien publié. Point : la voie « Centre
+   commercial des Grandes Terres » de la Base (0,70), à 280 m du point du registre.
+4. **Marché de Louveciennes** — fiche de l'office (mercredi et samedi 8h30-13h, place de l'Église), rubrique « Le marché »
+   de la Ville, dont le `robots.txt` répond 404 (règle 343) et dont les mentions légales protègent « le Site » sans nommer
+   d'image (règle 231) ; point de la place (Base, 0,95). Les contacts nominatifs de la fiche de l'office ne sont pas repris.
+
+**Images.** Trois fichiers du site de l'AMAP Marly, un par fiche (règle 412) : une caisse de choux pour l'AMAP, des courgettes
+pour le marché, un verger en fleurs pour le magasin bio — aucune personne, aucune marque. Pour Louveciennes, la photographie
+du marché que publie la Ville, recadrée sur les barnums et les arbres : la vue entière montre des passants reconnaissables,
+dont des enfants. Largeur 1 280 px, fichiers réécrits depuis leurs seuls pixels (règle 235) et relus après écriture.
+
+**Contradictions** : la passe précédente avait relevé sur le site de la Ville de Marly un marché de 8h à 13h ; l'office écrit
+8h30. La Ville n'étant plus lue (règle 233), c'est l'heure de l'office qui est publiée, l'écart est d'une demi-heure
+(règle 215). Le centre commercial écrit pour le magasin bio des fermetures à 19h25 quand les annuaires tiers arrondissent
+à 19h30 : la page du lieu est publiée telle quelle.
+
+**Fiches écartées pour doute sur une personne** : trois. À Viroflay, l'AMAP dont le lieu de distribution pourrait être un
+domicile. À Marly-le-Roi, deux exploitations céréalières inscrites au registre bio sous le seul nom de leur exploitant.
+Dans l'intercommunalité, la plupart des producteurs que fiche l'office de tourisme le sont sous un nom de personne : non
+instruits, non nommés.
+
+**Pistes non publiées (Limay, Viroflay, Marly-le-Roi et alentour)** :
+
+- Limay, marché du vendredi : faits entiers chez la Ville. **Déblocage** : une image permise dans la commune.
+- Viroflay, marchés de la halle et de la place de Verdun : jours et lieux chez la Ville ; heures et étals à lire dans le
+  règlement et les plans que la Ville joint. **Déblocage** : cette lecture, et une fiche de la commune illustrée par son
+  propre lieu (règle 412) — le site de l'AMAP peut fournir les photographies thématiques.
+- L'Étang-la-Ville, marché de la place du Val-d'Argent : l'office donne mercredi et samedi 7h-13h30 et huit familles de
+  produits ; la Ville exclut un agent d'IA (règle 233). **Déblocage** : une image permise de la commune.
+- Le Port-Marly, marché hebdomadaire : fiche d'agenda à l'office, Ville fermée de même ; non instruit.
+- Le Pecq, magasin bio d'enseigne nationale de l'avenue Charles-de-Gaulle : page de magasin ouverte, heures et fixe
+  publiés, certificat engagé ; la page n'a qu'un visuel par défaut et la Ville soumet ses photographies à autorisation
+  écrite. **Déblocage** : une image permise de la commune.
+- Le Vésinet, quatre marchés (place du Marché, place de la République, place des Charmettes, esplanade Princesse) : jours
+  chez la Ville, heures chez l'office ; la Ville crédite ses photographies pour partie à une banque d'images sans dire
+  lesquelles (règle 413). Non instruits au-delà.
+- Le Mesnil-le-Roi, vente à l'exploitation d'un maraîcher, vendredi et samedi selon la fiche 2026 de l'office : enseigne
+  publiée, mais registre non vérifié et photographie créditée à une personne. Non instruit.
+- Montesson : la Ville exclut un agent d'IA (règle 233) ; un magasin bio coopératif rue du Président-René-Coty et un
+  marché fiché par l'office restent à instruire par d'autres sources.
+
+**Point d'arrêt des Yvelines : Marly-le-Roi**, qui a fait la passe ; le département passe en excédent. Limay et Viroflay
+sont éprouvées. Quand le département reviendra, la descente reprend à **Bois-d'Arcy** (16 586), puis Verneuil-sur-Seine
+(16 280), Le Pecq (16 059), Le Vésinet (15 554) ; à réessayer à son rang (règles 297 et 406) : Fontenay-le-Fleury (13 680),
+dont le site n'a répondu à aucun agent pendant la passe.
 
 ### Passe du 6 octobre 2026 (cent trente-huitième) : Auch (Gers), cinq fiches ; Yvelines sans zone ; règle 420
 

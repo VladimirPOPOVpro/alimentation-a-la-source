@@ -28622,5 +28622,111 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2032000%20Auch",
     "image_url": "/images/marchands/marche-du-samedi-haute-ville-auch.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "amap-marly-le-roi",
+    "nom": "AMAP Marly",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.871675,
+    "lon": 2.099424,
+    "adresse": "Parvis du marché, rue de Fontenelle, 78160 Marly-le-Roi",
+    "horaires": "Partage des récoltes le vendredi de 18h45 à 19h45 sur le parvis du marché (installation des comptoirs dès 18h30), d'après le site de l'AMAP. Réservé aux adhérents, par contrats ; les visiteurs peuvent venir se renseigner pendant la distribution.",
+    "produits": [
+      "Légumes frais et légumineuses",
+      "Fruits frais et fruits secs",
+      "Pains, pâtes et céréales",
+      "Huiles",
+      "Œufs, laitages et fromages",
+      "Viandes",
+      "Cidre, jus et vins",
+      "Miel et plantes aromatiques"
+    ],
+    "description": "Association qui distribue chaque vendredi soir, sur le parvis de la halle du marché de Marly-le-Roi, les contrats d'une vingtaine de fermes — maraîchers et céréaliers du nord des Yvelines, arboriculteurs, éleveurs, apiculteurs. Son site publiait encore de nouveaux contrats en septembre 2026. Le point est celui que l'AMAP donne elle-même. Photo : une caisse de choux publiée par l'AMAP.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Marly-le-Roi%2C%20rue%20de%20Fontenelle%2C%2078160%20Marly-le-Roi",
+    "image_url": "/images/marchands/amap-marly-le-roi.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-marly-le-roi",
+    "nom": "Marché de Marly-le-Roi",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.872308,
+    "lon": 2.095947,
+    "adresse": "Rue de Fontenelle, 78160 Marly-le-Roi",
+    "horaires": "Mardi, vendredi et dimanche de 8h30 à 13h, toute l'année, d'après la fiche de l'office de tourisme intercommunal.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie, charcuterie et boucherie chevaline",
+      "Volailles",
+      "Poissonnerie",
+      "Boulangerie",
+      "Traiteurs",
+      "Olives",
+      "Fleurs"
+    ],
+    "description": "Marché couvert de Marly-le-Roi, sous la halle de la rue de Fontenelle, avec un parking à l'entrée. Les familles de produits viennent de la liste des commerçants jointe à la fiche de l'office de tourisme, qui date de 2020 : la composition a pu changer. Le point est celui de la rue, la halle n'ayant pas de numéro. Photo thématique : des courgettes publiées par l'AMAP Marly, qui distribue le vendredi soir sur le parvis — elle ne montre pas le marché.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Marly-le-Roi%2C%20rue%20de%20Fontenelle%2C%2078160%20Marly-le-Roi",
+    "image_url": "/images/marchands/marche-de-marly-le-roi.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-comptoirs-de-la-bio-marly-le-roi",
+    "nom": "Les Comptoirs de la Bio Marly-le-Roi",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.879515,
+    "lon": 2.099737,
+    "adresse": "Centre commercial des Grandes Terres, 740 avenue de l'Amiral Lemonnier, 78160 Marly-le-Roi",
+    "horaires": "Lundi de 9h à 19h15, du mardi au samedi de 8h30 à 19h25, dimanche de 9h à 12h25, d'après la page du magasin sur le site du centre commercial (semaine du 6 octobre 2026).",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Pain",
+      "Produits laitiers",
+      "Œufs",
+      "Épicerie biologique"
+    ],
+    "description": "Magasin bio de réseau installé dans le centre commercial des Grandes Terres, tenu par une société locale. Certificat Bureau Veritas en cours au registre de l'Agence Bio (engagement d'octobre 2021). Le point est celui du centre commercial, la Base Adresse Nationale ne connaissant pas le numéro. Photo thématique : un verger en fleurs publié par l'AMAP Marly — elle ne montre pas le magasin.",
+    "telephone": "01 34 51 04 00",
+    "site_web": "https://www.grandesterres-marlyleroi.fr/shop/les-comptoirs-de-la-bio/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Comptoirs%20de%20la%20Bio%2C%20centre%20commercial%20des%20Grandes%20Terres%2C%2078160%20Marly-le-Roi",
+    "image_url": "/images/marchands/les-comptoirs-de-la-bio-marly-le-roi.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-louveciennes",
+    "nom": "Marché de Louveciennes",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.861017,
+    "lon": 2.11382,
+    "adresse": "Place de l'Église, 78430 Louveciennes",
+    "horaires": "Mercredi et samedi de 8h30 à 13h, toute l'année, d'après la fiche de l'office de tourisme intercommunal.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissonnerie et plateaux de fruits de mer",
+      "Poulet fermier et viande"
+    ],
+    "description": "Marché de plein air du village de Louveciennes, sous des barnums blancs à l'ombre des arbres de la place de l'Église ; l'office de tourisme signale un vide-grenier chaque mois et des animations autour des produits de saison. Ni la Ville ni l'office ne publient la liste des étals : les produits cités sont ceux qui se lisent sur les banderoles et les caisses de la photographie que la Ville publie du marché, ce n'est pas un inventaire. Photo : les barnums du marché, détail de cette photographie.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%2C%20place%20de%20l%27%C3%89glise%2C%2078430%20Louveciennes",
+    "image_url": "/images/marchands/marche-de-louveciennes.jpg",
+    "a_confirmer": true
   }
 ]
