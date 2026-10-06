@@ -29684,5 +29684,127 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Mar%C3%A9chal%20Foch%2069630%20Chaponost",
     "image_url": "/images/marchands/marche-du-dimanche-chaponost.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-source-de-popey-bar-le-duc",
+    "nom": "La Source de Popey – Boutique du lycée agricole",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.76512,
+    "lon": 5.186537,
+    "adresse": "Allée de la Grande Terre, 55000 Bar-le-Duc",
+    "horaires": "Vendredi de 13h30 à 18h30, d'après Meuse Attractivité. Le panneau de la boutique, sur une photographie non datée, annonce « mercredi et vendredi, 13h30-18h30 » : le mercredi est à confirmer. Aucune des deux sources ne dit ce qu'il en est pendant les vacances scolaires.",
+    "produits": [
+      "Charcuteries (chipolatas, merguez, jambon, pâté, rillettes)",
+      "Pièces de viande",
+      "Terrines et plats cuisinés",
+      "Jus de fruits et vins",
+      "Produits laitiers",
+      "Confitures",
+      "Miel",
+      "Sauces et condiments"
+    ],
+    "description": "Boutique de l'établissement public d'enseignement agricole de la Meuse, sur le technopôle de la Grande Terre : on y vend ce que produisent les élèves du lycée et les produits d'autres lycées agricoles. La liste des produits est celle du panneau de la boutique. Établissement actif au registre des entreprises. Le point est celui que publie Meuse Attractivité, la Base Adresse Nationale ne connaissant que la voie. Photo : devanture de la boutique, publiée par Meuse Attractivité (lameuse.fr).",
+    "telephone": "03 29 79 98 58",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Source%20de%20Popey%20All%C3%A9e%20de%20la%20Grande%20Terre%2055000%20Bar-le-Duc",
+    "image_url": "/images/marchands/la-source-de-popey-bar-le-duc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-bar-le-duc",
+    "nom": "Marché couvert de Bar-le-Duc",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.77606,
+    "lon": 5.160555,
+    "adresse": "Rue du Four, 55000 Bar-le-Duc",
+    "horaires": "Mardi, jeudi et samedi matin, toute l'année. De 7h15 à 12h30 pour la Ville de Bar-le-Duc, de 8h à 13h pour l'office de tourisme Sud Meuse et Meuse Attractivité.",
+    "produits": [
+      "Produits frais (aucune source ne détaille les étals)"
+    ],
+    "description": "Halle municipale de la rue du Four, où se tiennent les produits frais du marché de Bar-le-Duc trois matins par semaine. Le mardi, un marché de plein air de vêtements et d'accessoires s'y ajoute dans les rues voisines, d'après Meuse Attractivité ; un arrêté municipal du 26 avril 2021 en règle le stationnement. La Ville et les deux organismes de tourisme ne donnent pas les mêmes heures : la fiche écrit les deux. Le point est celui que publie Meuse Attractivité, dans la rue du Four. Photo : fronton du marché couvert, Ville de Bar-le-Duc (barleduc.fr).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20couvert%20rue%20du%20Four%2055000%20Bar-le-Duc",
+    "image_url": "/images/marchands/marche-couvert-bar-le-duc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "val-d-ornain-longeville-en-barrois",
+    "nom": "Val d'Ornain – Glaces fermières",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.744719,
+    "lon": 5.224141,
+    "adresse": "5 chemin de la Canière, 55000 Longeville-en-Barrois",
+    "horaires": "Magasin de glaces à la ferme le vendredi de 16h à 19h. Marché fermier (glaces, fruits et légumes) le samedi de 9h à 12h au 28 rue Morteau, dans le village. D'après Meuse Attractivité, seule source lue.",
+    "produits": [
+      "Crèmes glacées",
+      "Sorbets",
+      "Légumes",
+      "Fruits"
+    ],
+    "description": "Ferme laitière de la vallée de l'Ornain qui fabrique sur place ses crèmes glacées et ses sorbets et cultive des fruits et des légumes. Deux rendez-vous : le magasin de la ferme le vendredi, et un marché fermier le samedi matin au village, à une autre adresse. Groupement agricole actif au registre des entreprises à l'adresse de la ferme. À 5,4 km de la mairie de Bar-le-Duc, dans la même communauté d'agglomération. Le point est celui que publie Meuse Attractivité, la Base Adresse Nationale ne connaissant pas le chemin. Photo : bacs de glaces de la ferme, publiée par Meuse Attractivité (lameuse.fr).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Val%20d%27Ornain%205%20chemin%20de%20la%20Cani%C3%A8re%2055000%20Longeville-en-Barrois",
+    "image_url": "/images/marchands/val-d-ornain-longeville-en-barrois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-terrines-du-barrois-rumont",
+    "nom": "Les Terrines du Barrois",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.836653,
+    "lon": 5.273771,
+    "adresse": "19 Voie Sacrée, 55000 Rumont",
+    "horaires": "Du lundi au vendredi de 8h à 12h et de 14h à 19h. Fermé le week-end. Heures concordantes entre le site de l'atelier et Meuse Attractivité.",
+    "produits": [
+      "Terrines et charcuterie lorraine en verrine",
+      "Rillettes",
+      "Plats cuisinés",
+      "Confitures",
+      "Mirabelles et fruits au sirop",
+      "Vins et bières de Lorraine"
+    ],
+    "description": "Atelier de charcuterie artisanale en verrine installé à Petit-Rumont, sur la Voie Sacrée entre Bar-le-Duc et Verdun, avec son magasin de vente. L'atelier dit travailler du porc lorrain et des produits de la région (mirabelle de Lorraine, vins des Côtes de Toul et de la Meuse) ; le magasin vend aussi les produits d'autres producteurs. Société active au registre des entreprises à cette adresse, sous cette enseigne. À 10,9 km de la mairie de Bar-le-Duc, dans la même communauté d'agglomération. Photo : façade du magasin, publiée par Meuse Attractivité (lameuse.fr).",
+    "telephone": "09 87 88 62 96",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Terrines%20du%20Barrois%2019%20Voie%20Sacr%C3%A9e%2055000%20Rumont",
+    "image_url": "/images/marchands/les-terrines-du-barrois-rumont.jpg"
+  },
+  {
+    "slug": "marche-hebdomadaire-ligny-en-barrois",
+    "nom": "Marché hebdomadaire de Ligny-en-Barrois",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.688515,
+    "lon": 5.323246,
+    "adresse": "Place de la République, 55500 Ligny-en-Barrois",
+    "horaires": "Vendredi matin, toute l'année. De 8h à 12h pour Meuse Attractivité, de 8h30 à 12h30 pour l'office de tourisme Sud Meuse.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poissons",
+      "Produits de la ferme",
+      "Plats à emporter"
+    ],
+    "description": "Marché du vendredi matin, place de la République et rue de Strasbourg. Meuse Attractivité en nomme les étals alimentaires, à côté de vêtements, de chaussures et d'objets pour la maison. Jour et lieu concordants entre l'agence départementale et l'office de tourisme Sud Meuse, qui diffèrent d'une demi-heure sur l'horaire ; le site de la commune ne décrit pas le marché. À 15 km de la mairie de Bar-le-Duc, dans la même communauté d'agglomération. Photo : la ville un jour de marché, recadrée, publiée par Meuse Attractivité (lameuse.fr).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2055500%20Ligny-en-Barrois",
+    "image_url": "/images/marchands/marche-hebdomadaire-ligny-en-barrois.jpg",
+    "a_confirmer": true
   }
 ]

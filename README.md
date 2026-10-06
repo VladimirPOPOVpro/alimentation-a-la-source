@@ -5326,9 +5326,39 @@ prioritaires en cas de conflit.
      permission écrite, ou les mêmes faits publiés par la commune, par le commerce lui-même ou par une autre autorité
      lisible.
 
+430. **Un marché que la commune ne décrit pas sur son site, mais que l'agence départementale et l'office de tourisme
+     intercommunal publient chacun avec le même jour et le même lieu, se publie sur ces deux autorités ; et l'agence
+     départementale dont la clause ne nomme aucune image fournit les photographies qu'elle légende sans « © ».** Le 7 octobre
+     2026 (cent cinquante-deuxième passe), première passe dans la Meuse, le site de la commune de Ligny-en-Barrois ne porte
+     aucune page sur son marché du vendredi. Meuse Attractivité, agence du Département, le fiche avec son jour, ses heures,
+     sa place et ses étals ; l'office de tourisme Sud Meuse, qui tient un bureau dans la commune, donne le même jour et le
+     même lieu, à une demi-heure près. La règle 196 refuse un marché « que seul l'office recense », parce qu'un relais unique
+     peut ne pas apprendre une suppression ; les règles 390 et 421 admettent déjà deux autorités quand la Ville refuse
+     l'agent. **Tranché ainsi** : deux autorités distinctes, tenues séparément, qui s'accordent sur le jour et la place,
+     valent les deux sources de la règle 196 même quand la commune se tait ; la fiche écrit les deux horaires (règle 5), dit
+     que la commune ne décrit pas le marché et part en `a_confirmer`. Une seule de ces autorités ne suffit pas : c'est le
+     cas du marché de producteurs de Tronville-en-Barrois, que seule l'agence publie. **Sur les images** : les mentions
+     légales de `lameuse.fr` interdisent « toute exploitation (représentation ou reproduction) de tout ou partie du site »,
+     clause générale au sens de la règle 231, et leur rubrique « Crédits » énumère des sources sans « © » ni réserve (règle
+     306) ; ce n'est pas la clause d'usage de la règle 416, les faits restent lisibles. Mais l'agence légende une partie de
+     ses photographies d'un « © » suivi d'un office, d'une Ville, d'un commerce ou d'un photographe : celles-là sont fermées
+     une à une (règle 305), et celles qu'elle crédite à un office qui ferme ses images le sont aussi (règle 351). Se
+     reprennent celles dont la légende ne porte que le nom du commerce ou de l'agence, sans « © » ; la fiche cite l'agence
+     et son domaine, jamais un photographe (règle 268). **Enfin, sur les personnes** : un commerce dont l'enseigne de
+     boutique est neutre mais dont la société, le titre du site et la marque portent le patronyme de personnes vivantes
+     nommées par ses propres mentions légales est un doute sur une personne, pas un cas de la règle 374 ; la fiche entière
+     est écartée et ne se rouvre pas. **Déblocage** pour une photographie légendée « © » : la même image publiée par le
+     commerce sur un site à lui, sans réserve.
+
 ## Marchands à confirmer
 
-988 fiches sur 1121 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+992 fiches sur 1126 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **La Source de Popey – Boutique du lycée agricole** et **Marché couvert de Bar-le-Duc** (Bar-le-Duc), **Val d'Ornain – Glaces
+  fermières** (Longeville-en-Barrois) et **Marché hebdomadaire de Ligny-en-Barrois** (Ligny-en-Barrois) (passe du 7 octobre
+  2026, cent cinquante-deuxième, règles 5, 74, 92, 96, 115, 143, 176, 197, 287 et 430) : le mercredi de la boutique ne se lit
+  que sur son panneau ; les heures du marché couvert diffèrent entre la Ville et les organismes de tourisme, et aucune source
+  n'en détaille les étals ; la ferme n'a qu'une source et son point est celui de l'agence départementale ; le marché de Ligny
+  repose sur deux autorités que la commune ne recoupe pas, à une demi-heure d'écart.
 - **Marché fermier de la Jamayère** (Brignais), **Marché aux fruits de Vourles** (Vourles), **Marché de producteurs locaux
   de Chaponost** et **Marché du dimanche de Chaponost** (Chaponost) (passe du 6 octobre 2026, cent cinquante et unième,
   règles 5, 96, 127, 197, 312, 409, 412 et 429) : les quatre images sont des illustrations prêtées par le magasin de
@@ -12939,6 +12969,98 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent cinquante-deuxième) : Bar-le-Duc et la Communauté d'agglomération Bar-le-Duc Sud Meuse (Meuse), cinq fiches ; Verdun sans zone ; règle 430
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 126 fiches.
+**Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 121 fiches), outre-mer écarté
+(règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du Val-d'Oise
+10,84 à la Haute-Saône 3,79 ; Val-de-Marne 4,20, descente terminée ; **Seine-et-Marne (77) 3,87**, premier ouvert, deux
+communes (règle 426) ; **Meuse (55) 2,93**, second, borne de douze, aucune fiche et jamais éprouvée, dans le Grand Est — la
+réserve de la règle 41.c était celle de l'Auvergne-Rhône-Alpes. `git fetch` fait avant l'écriture : `origin/main` n'a pas
+bougé. **Après la passe**, sur 1 126 fiches, la Meuse compte 5 fiches pour une cible de 2,94. La prochaine passe ne peut pas
+viser le Grand Est. Suivent au classement : Seine-et-Marne 3,97, Meurthe-et-Moselle 2,96 (Grand Est, fermée), Lot 2,88,
+Seine-Saint-Denis 2,83, Morbihan 2,79, Haute-Marne et Corse-du-Sud 2,75, Alpes-de-Haute-Provence 2,74.
+
+**Seine-et-Marne (règle 426, deux communes).** **Pontcarré** (2 136) : le site de la commune répond 403 à l'agent par défaut,
+`robots.txt` compris (règle 425) ; rien au registre bio. Zéro. **Villevaudé** (2 132) : aucun marché hebdomadaire sur le site
+de la commune, qui n'annonce qu'un marché de Noël ; rien au registre bio. Zéro.
+
+**Meuse, descente ouverte (règles 247 et 127).**
+
+1. **Verdun** (16 890) — le `robots.txt` de la Ville exclut nommément deux agents d'IA (règle 233) : non lu. L'office de
+   tourisme du Grand Verdun soumet à demande préalable toute utilisation de ses ressources, textes compris, et réserve ses
+   photographies (règles 231 et 416) : non lu au-delà de ses mentions. Meuse Attractivité (voir la règle 430) porte les
+   faits de plusieurs commerces, mais toutes leurs photographies y sont légendées « © » (règle 305) ; la plateforme
+   commerçante de l'agglomération réserve la reproduction à l'usage privé (règle 296) ; le confiseur pose un « © » sur ses
+   photographies sous une interdiction de reproduire (règles 253 et 291). Une épicerie fine publie une douzaine de
+   photographies sans clause, mais ne nomme aucun producteur de la région (règle 361). Aucune fiche n'a donc de photographie
+   de son propre lieu : la commune ne remplit pas la règle 412. **Zéro**, trois fiches aux faits entiers désignées pour la
+   reprise.
+2. **Bar-le-Duc** (14 607) — **fait la passe** (voir ci-dessous).
+
+**Bar-le-Duc.** Le site de la Ville n'a pas de `robots.txt` (404), ses mentions légales ne portent aucune clause et sa page
+« Crédits » énumère des sources sans « © » (règle 306) : il donne les jours et les heures du marché couvert, un arrêté du
+26 avril 2021 (lu par reconnaissance de caractères) et la photographie du fronton. L'office de tourisme Sud Meuse donne les
+marchés de quatre communes ; sa clause nomme les images (règle 231), il ne fournit que des faits. Meuse Attractivité fournit
+les faits et, selon la règle 430, quatre photographies légendées sans « © ». Distances à vol d'oiseau depuis la mairie de
+Bar-le-Duc (point de la Base Adresse Nationale) ; même intercommunalité au référentiel (règles 96 et 219).
+
+- **La Source de Popey – Boutique du lycée agricole** (`producteur`, 1,9 km) — vendredi 13h30-18h30 pour l'agence ; le
+  panneau de la boutique, lu sur une photographie non datée (règles 74 et 115), ajoute le mercredi et donne la liste des
+  produits et le fixe. Établissement public actif au registre (règle 106). Point de l'agence, la Base ne connaissant que
+  la voie (règle 287).
+- **Marché couvert de Bar-le-Duc** (`marche`, 0,5 km) — mardi, jeudi et samedi ; 7h15-12h30 pour la Ville, 8h-13h pour
+  l'office et l'agence : la fiche écrit les deux (règles 5 et 176). Une seule famille écrite, « produits frais », par
+  l'agence ; elle n'est pas découpée (règle 92). Le marché de plein air du mardi, vêtements et accessoires d'après
+  l'agence, n'a pas de fiche (règle 119).
+- **Val d'Ornain – Glaces fermières** (`ferme`, Longeville-en-Barrois, 5,4 km) — magasin à la ferme le vendredi 16h-19h,
+  marché fermier le samedi 9h-12h à une autre adresse du village ; une seule source, l'agence. Groupement actif au
+  registre à l'adresse de la ferme. Le seul contact publié est un portable relayé par l'annuaire : non inscrit (règle 143).
+  Point de l'agence, contrôlé dans la commune au référentiel (règle 287).
+- **Les Terrines du Barrois** (`producteur`, Rumont, 10,9 km) — heures concordantes entre le site de l'atelier et
+  l'agence, fixe publié par l'atelier, société active au registre à l'adresse et sous l'enseigne (Base, numéro, 0,94). La
+  page d'accueil affiche des avis signés : pas de `site_web` (règle 377). Les mentions du site sont sous un `Disallow`
+  (règle 270) : l'image vient de l'agence.
+- **Marché hebdomadaire de Ligny-en-Barrois** (`marche`, 15,0 km) — vendredi matin, place de la République et rue de
+  Strasbourg ; 8h-12h pour l'agence, 8h30-12h30 pour l'office ; étals nommés par l'agence (règle 430). Photographie recadrée
+  pour écarter les passants et un panneau de signalisation (règles 46 et 99).
+
+**Contradictions** : le mercredi de la boutique du lycée ; les heures du marché couvert ; l'horaire du marché de Ligny.
+Toutes écrites dans les fiches (règle 5).
+
+**Fiches écartées pour doute sur une personne** : deux, une à Verdun (biscuiterie, règle 430) et une à Bar-le-Duc
+(confiturier dont l'agence légende les photographies du nom d'une personne). Deux autres pages de l'agence à Bar-le-Duc
+désignent une activité par un prénom ou un nom : non instruites, elles ne se rouvrent pas. Aucun nom lu dans les registres,
+les mentions légales, les légendes et les pages consultés n'est repris.
+
+**Pistes non publiées (Seine-et-Marne et Meuse)** — lignes anonymes :
+
+- Pontcarré : **Déblocage** : un site communal servi à l'agent par défaut. Villevaudé : un marché hebdomadaire publié.
+- Verdun, magasin de producteurs associatif du quai (heures 2026 et produits à l'agence, fixe, association active au
+  registre à l'adresse) ; magasin d'usine du confiseur de dragées (heures concordantes entre son site et l'agence, fixe,
+  société active à l'adresse) ; chocolatier artisanal de la rue des Rouyers (heures à l'agence, société active sous son
+  enseigne) : **désignés pour la reprise**. **Déblocage** : une photographie du lieu ou des produits d'un seul des trois,
+  publiée sans « © » ni réserve ; les deux autres prennent alors une photographie thématique de l'épicerie (règle 412).
+- Verdun, marché du vendredi sous la halle (8h-13h d'après l'agence, seule autorité lisible) : règle 430, une autorité ne
+  suffit pas. Verdun, épicerie fine de la rue Chaussée : règle 361. Verdun, magasin bio de réseau et épicerie en vrac
+  certifiée : non instruits.
+- Belleray, maraîchage biologique en vente un vendredi sur deux : la semaine n'est écrite nulle part (règle 192).
+  Bras-sur-Meuse, producteur de petits fruits : aucune heure.
+- Bar-le-Duc, magasin de producteurs de la zone commerciale (heures, fixe et image à l'agence) : aucune entité active
+  trouvée au registre à l'adresse ni sous l'enseigne (règle 6). **Déblocage** : l'entité qui l'exploite. C'est la première
+  fiche à reprendre dans la commune.
+- Bar-le-Duc, brasserie artisanale vendant sur rendez-vous, portable seul ; magasin bio indépendant de la rue du Four
+  (certifié, société active), sans heures publiées ; épicerie itinérante coopérative : non publiés ou non instruits.
+- Tronville-en-Barrois, marché de producteurs du jeudi sous la halle (avril à octobre, 16h-19h30 d'après l'agence) : la
+  mairie n'écrit que la construction de la halle (règle 430). **Déblocage** : le marché publié par la mairie.
+- Robert-Espagne, brasserie fermière ouverte le vendredi après-midi : entité non trouvée au registre, portable seul.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la descente reprend à **Réau** (2 127), puis Samois-sur-Seine (règle 426).
+Dans la **Meuse**, point d'arrêt **Bar-le-Duc**, qui a fait la passe ; à reprendre d'abord : les trois fiches désignées de
+Verdun et le magasin de producteurs de Bar-le-Duc ; la commune suivante est **Commercy** (5 350) — Ligny-en-Barrois porte
+désormais une fiche et sort de la descente. Dans le **Rhône**, en **Moselle**, dans les **Pyrénées-Orientales**, en
+**Ille-et-Vilaine**, dans la **Manche** et en **Haute-Corse**, inchangé.
 
 ### Passe du 6 octobre 2026 (cent cinquante et unième) : Brignais et la Communauté de communes de la Vallée du Garon (Rhône), cinq fiches
 
