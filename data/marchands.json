@@ -31022,5 +31022,126 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Vergers%20de%20Charbonni%C3%A8re%2C%20259%20rue%20de%20Charbonni%C3%A8re%2C%2045800%20Saint-Jean-de-Braye",
     "image_url": "/images/marchands/les-vergers-de-charbonniere-saint-jean-de-braye.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-parc-jeantet-oyonnax",
+    "nom": "Marché du parc Jeantet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.258663,
+    "lon": 5.654896,
+    "adresse": "Parc Jeantet, 01100 Oyonnax",
+    "horaires": "Lundi et samedi de 7h à 13h, d'après la page « Foires et marchés » de la Ville d'Oyonnax, qui précise que les marchés sont maintenus les jours fériés.",
+    "produits": [
+      "Marché alimentaire le samedi",
+      "Marché mixte le lundi"
+    ],
+    "description": "Les deux marchés du centre-ville d'Oyonnax, sur le parc Jeantet, face à la gare. La Ville classe celui du samedi « marché alimentaire » et celui du lundi « marché mixte » ; l'office de tourisme du Haut-Bugey les confirme les lundis et samedis matins, sans heure. Aucune source ne publie la composition des étals : la fiche s'en tient à cette nature. Voie géocodée par la Base Adresse Nationale. Photo : vue aérienne du parc Jeantet, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20parc%20Jeantet%2C%20Parc%20Jeantet%2C%2001100%20Oyonnax",
+    "image_url": "/images/marchands/marche-du-parc-jeantet-oyonnax.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-plaine-oyonnax",
+    "nom": "Marché de la Plaine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.259468,
+    "lon": 5.646328,
+    "adresse": "94 cours de Verdun, 01100 Oyonnax",
+    "horaires": "Jeudi de 7h à 13h, d'après la page « Foires et marchés » de la Ville d'Oyonnax, qui précise que les marchés sont maintenus les jours fériés.",
+    "produits": [
+      "Marché mixte"
+    ],
+    "description": "Marché du jeudi matin du quartier de la Plaine, sur la place du marché du cours de Verdun, que la Ville situe du n° 94 au n° 116. La Ville le classe « marché mixte », à la différence du marché alimentaire du samedi au parc Jeantet ; l'office de tourisme du Haut-Bugey le confirme le jeudi matin, sans heure. Aucune source ne publie la composition des étals. Point géocodé au n° 94 par la Base Adresse Nationale. Photo : vue aérienne du cours de Verdun et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Plaine%2C%2094%20cours%20de%20Verdun%2C%2001100%20Oyonnax",
+    "image_url": "/images/marchands/marche-de-la-plaine-oyonnax.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brin-de-paille-arbent",
+    "nom": "Brin de Paille",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.282756,
+    "lon": 5.679387,
+    "adresse": "1080 avenue du Général Andréa, 01100 Arbent",
+    "horaires": "Jeudi et vendredi de 9h à 19h, samedi de 9h à 12h30, d'après l'office de tourisme du Haut-Bugey. Le site du magasin écrit seulement « ouvert du jeudi au samedi ».",
+    "produits": [
+      "Légumes et fruits",
+      "Viande",
+      "Fromages",
+      "Pain",
+      "Escargots",
+      "Miel et confitures",
+      "Vins et jus de fruits"
+    ],
+    "description": "Magasin de producteurs aux portes d'Oyonnax, tenu depuis 2005 par une association d'agriculteurs de l'Ain et du Jura qui vendent eux-mêmes, à tour de rôle, les produits de leurs fermes, dont une partie en agriculture biologique. L'office de tourisme y compte quinze producteurs, le site du magasin seize : les deux chiffres sont donnés tels quels. Association active au registre des entreprises à cette adresse. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de l'avenue du Général Andréa — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "04 74 73 07 86",
+    "site_web": "https://brin-de-paille.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brin%20de%20Paille%2C%201080%20avenue%20du%20G%C3%A9n%C3%A9ral%20Andr%C3%A9a%2C%2001100%20Arbent",
+    "image_url": "/images/marchands/brin-de-paille-arbent.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-glaces-du-truchet-dortan",
+    "nom": "Les Glaces du Truchet",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 46.302295,
+    "lon": 5.633631,
+    "adresse": "Bonaz, 01590 Dortan",
+    "horaires": "Vente à la ferme du lundi au vendredi de 8h à 12h et de 13h30 à 17h, fermé le week-end, d'après l'office de tourisme du Haut-Bugey. Le site de la ferme annonce la vente sur place sans en écrire les heures.",
+    "produits": [
+      "Glaces au lait de la ferme",
+      "Sorbets",
+      "Desserts glacés",
+      "Bûches glacées"
+    ],
+    "description": "Élevage laitier du hameau de Bonaz, à cinq kilomètres d'Oyonnax, qui fabrique depuis juillet 2022 des glaces avec le lait de son troupeau d'une soixantaine de vaches, en pots de 125 mL, 500 mL et 2,5 L. Groupement agricole actif au registre des entreprises à Bonaz. Les heures ne viennent que de la fiche de l'office, qui n'est pas datée. Hameau géocodé à la voie par la Base Adresse Nationale : le point marque Bonaz, pas la porte de la ferme. Photo : vue aérienne du hameau de Bonaz, qui montre les prés et non le point de vente — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "04 74 77 76 61",
+    "site_web": "https://glacesdutruchet.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Glaces%20du%20Truchet%2C%20Bonaz%2C%2001590%20Dortan",
+    "image_url": "/images/marchands/les-glaces-du-truchet-dortan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-l-etincelle-nantua",
+    "nom": "Brasserie l'Étincelle",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 46.14355,
+    "lon": 5.614731,
+    "adresse": "9002 route de Genève, zone du Pradon, 01130 Nantua",
+    "horaires": "Vente directe le mercredi et le vendredi de 16h à 19h, d'après le site de la brasserie et l'office de tourisme du Haut-Bugey, qui prévient que les heures peuvent varier selon les saisons.",
+    "produits": [
+      "Bières biologiques",
+      "Bières de saison",
+      "Boissons sans alcool"
+    ],
+    "description": "Brasserie artisanale créée en 2018 et installée dans la zone du Pradon, à la sortie de Nantua, dont toute la gamme est certifiée en agriculture biologique : une gamme permanente, complétée de bières éphémères au fil des saisons. Société active au registre des entreprises à cette adresse et engagée au registre de l'Agence Bio. La Base Adresse Nationale ne connaît pas le numéro : le point est celui de la zone du Pradon, à quarante mètres de celui du registre. Photo : vue aérienne de la zone du Pradon — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "04 74 77 01 07",
+    "site_web": "https://www.brasserie-letincelle.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20l'%C3%89tincelle%2C%209002%20route%20de%20Gen%C3%A8ve%2C%20zone%20du%20Pradon%2C%2001130%20Nantua",
+    "image_url": "/images/marchands/brasserie-l-etincelle-nantua.jpg",
+    "a_confirmer": true
   }
 ]

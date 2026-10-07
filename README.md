@@ -5527,7 +5527,15 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-1038 fiches sur 1172 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1043 fiches sur 1177 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du parc Jeantet** et **Marché de la Plaine** (Oyonnax), **Brin de Paille** (Arbent), **Les Glaces du
+  Truchet** (Dortan), **Brasserie l'Étincelle** (Nantua) (passe du 7 octobre 2026, cent soixante-cinquième, règles 221
+  et 432) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni magasin ; les produits des deux
+  marchés se bornent à la nature que la Ville leur donne (« alimentaire » ou « mixte »), la page communale datant de
+  mai 2022 ; les heures du magasin de producteurs et du glacier fermier ne viennent que de fiches non datées de
+  l'office de tourisme du Haut-Bugey ; le glacier est pointé au hameau, la brasserie à sa zone d'activité, la Base
+  Adresse Nationale n'ayant pas leur numéro. **Déblocage** : une photographie permise de chaque lieu, une source qui
+  écrive les étals des marchés, des heures publiées par les intéressés eux-mêmes.
 - **Marché du Bourg de Saran** et **Les Fruits de Montaran** (Saran), **Marché de Lamballe** et **GAEC Les Sapins**
   (Fleury-les-Aubrais), **Les Vergers de Charbonnière** (Saint-Jean-de-Braye) (passe du 7 octobre 2026, cent
   soixante-quatrième, règles 432, 442 et 443) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni
@@ -13211,6 +13219,73 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-cinquième) : Oyonnax, Arbent, Dortan et Nantua (Ain), cinq fiches dans Haut-Bugey Agglomération ; le département se rouvre par la règle 432
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 177
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 172 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Ain (01) 6,55**, cinq
+fiches (quatre à Bourg-en-Bresse, une à Saint-Denis-lès-Bourg), écrit épuisé le 26 septembre (règle 265) et rouvert à
+son rang par la règle 432 — c'est la première passe qui le relit ; puis Oise 6,11, Lot-et-Garonne 5,67, Somme 5,61,
+Loir-et-Cher 5,58. La passe précédente visait le Centre-Val de Loire : l'Auvergne-Rhône-Alpes est permise (règle
+41.c). `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Descente relue depuis la deuxième commune**, sous l'agent par défaut, `robots.txt` d'abord (règle 425) : ceux de la
+Ville d'Oyonnax (un délai de dix secondes entre deux requêtes, respecté), de l'office de tourisme du Haut-Bugey, de la
+Ville de Nantua, de la brasserie, du glacier fermier et du magasin de producteurs n'excluent personne.
+
+- **Oyonnax** (22 480) : **deux fiches aux faits entiers** dans la commune, que la seule image arrêtait le 25 septembre
+  — c'est elle qui centre la passe (règles 96, 127 et 432). Distances prises depuis la mairie d'Oyonnax.
+
+1. **Marché du parc Jeantet** (Oyonnax) — lundi et samedi 7h-13h : page « Foires et marchés » de la Ville (mai 2022),
+   qui classe le samedi « marché alimentaire » et le lundi « marché mixte » ; l'office confirme les deux matins, sans
+   heure. La nature écrite marché par marché vaut famille (règle 221) ; `produits` s'y borne. BAN à la voie (0,953).
+   À 0,1 km.
+2. **Marché de la Plaine** (Oyonnax) — jeudi 7h-13h, cours de Verdun : même page, « marché mixte » ; une actualité de
+   la Ville situe la place du n° 94 au n° 116 ; l'office confirme le jeudi matin. BAN au numéro 94 (0,972). À 0,7 km.
+3. **Brin de Paille** (Arbent) — magasin de producteurs, jeudi et vendredi 9h-19h, samedi 9h-12h30 : fiche de
+   l'office, qui écrit la gamme ; le site du magasin écrit « du jeudi au samedi » ; association active au registre à
+   l'adresse depuis 2004. Le 25 septembre son site refusait les deux agents : il répond aujourd'hui. BAN au numéro
+   (0,959). À 3,4 km.
+4. **Les Glaces du Truchet** (Dortan) — vente à la ferme du lundi au vendredi 8h-12h et 13h30-17h : fiche de
+   l'office ; le site de la ferme annonce la vente sur place et publie un fixe ; groupement agricole actif au registre
+   à Bonaz. BAN à la voie du hameau (0,952). À 5,3 km.
+5. **Brasserie l'Étincelle** (Nantua) — mercredi et vendredi 16h-19h : son site et l'office, aux mêmes heures ; société
+   active au registre, engagée au registre de l'Agence Bio. La BAN ignore le numéro : le point est celui du lieu-dit de
+   la zone du Pradon, à quarante mètres du point du registre. À 13,1 km.
+
+Les cinq points sont dans Haut-Bugey Agglomération, à moins de quatorze kilomètres de la mairie d'Oyonnax, deux dans la
+commune. La Ville nomme les photographies dans son interdiction et l'office réserve les siennes (règles 231 et 246) :
+les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni
+enseigne lisible ; celle de Dortan montre les prés du hameau, pas la ferme, et la fiche le dit. Toutes partent en
+`a_confirmer`. Trois téléphones fixes sont publiés, aucun portable, aucune adresse électronique ; les noms de
+personnes que portent les pages de l'office, du magasin et de la brasserie ne sont pas repris.
+
+**Autres points relus dans le secteur, non publiés** — avec le déblocage de chacun :
+
+- les marchés d'Arbent (vendredi après-midi), de Bellignat (mercredi matin) et de Nantua (samedi 8h-13h) : l'office
+  seul les décrit, sans heure pour les deux premiers ; les Villes ne sont pas relues, la zone étant faite (règle 196).
+  **Déblocage** : la page de la commune ;
+- un élevage d'escargots de Matafelon-Granges et un rucher de Béard-Géovreissiat : vente sur rendez-vous seulement
+  (règle 192) ;
+- la ferme collective biologique de Peyriat (vendredi 17h-19h, faits entiers) et la fromagerie coopérative de
+  Saint-Martin-du-Frêne : à 16,3 et 16,2 km de la mairie d'Oyonnax, au-delà de la quinzaine de kilomètres de la règle
+  96. **Déblocage** : une zone centrée sur Nantua (avec la brasserie, déjà publiée, comme voisine) ;
+- la fromagerie coopérative de Brénod (heures entières à l'office) : à vingt-deux kilomètres, même déblocage ;
+- le magasin bio de réseau d'Oyonnax et le magasin bio d'Arbent : non instruits, la zone étant faite.
+
+**Contradictions** (règle 5) : le nombre de producteurs du magasin d'Arbent (quinze selon l'office, seize selon son
+site, les deux écrits) ; les heures du marché de la Plaine et du parc Jeantet (7h-13h sur la page permanente de la
+Ville, 6h-13h30 dans une actualité de novembre 2020 — la page permanente, plus récente, est retenue). **Fiches
+écartées pour doute sur une personne ou une donnée personnelle** : aucune instruite ; les exploitations du registre
+bio inscrites sous des noms de personnes autour d'Oyonnax n'ont pas été ouvertes.
+
+**Points d'arrêt** : dans l'**Ain**, la descente relue par la règle 432 s'arrête à **Oyonnax** ; la commune suivante
+à relire est **Valserhône** (16 712), puis Ambérieu-en-Bugey, Saint-Genis-Pouilly et Gex ; les fiches désignées de
+Villars-les-Dombes, de Trévoux, de Saint-Rambert-en-Bugey et de Peyriat, et les pistes de Bourg-en-Bresse arrêtées par
+la seule image, restent à reprendre d'abord. Après la passe, sur 1 177 fiches : Oise 6,17, Lot-et-Garonne 5,69,
+Somme 5,65, Loir-et-Cher 5,61, Val-de-Marne 5,36 ; l'Ain retombe à 1,60. La région de cette passe est
+l'Auvergne-Rhône-Alpes (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante-quatrième) : Saran, Fleury-les-Aubrais et Saint-Jean-de-Braye (Loiret), cinq fiches dans Orléans Métropole ; le département se rouvre par la règle 432 ; règles 442 et 443
 
