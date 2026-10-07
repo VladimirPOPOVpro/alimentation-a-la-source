@@ -5449,9 +5449,29 @@ prioritaires en cas de conflit.
      de la règle 96. En dessous de cinq points, les règles 127, 258 et 320 restent entières. **Ce que la règle
      débloque** : la passe de Liévin, dans la même passe.
 
+438. **Quand la Ville exclut l'agent par son nom, l'office de tourisme intercommunal et l'agence départementale qui
+     publient le même jour et la même place valent les deux autorités de la règle 430.** Le 7 octobre 2026 (cent
+     soixante et unième passe), l'Eure-et-Loir, rouvert par la règle 432, mène le classement. Les `robots.txt` de la
+     Ville de Chartres et de Chartres Métropole nomment toujours l'agent : ni l'un ni l'autre n'est lu (règle 425). La
+     règle 430 admettait deux autorités « quand la commune se tait » ; les règles 390 et 421 les admettaient déjà quand
+     la Ville refuse l'agent, avec l'intercommunalité ou une association pour seconde voix. Ici l'office de tourisme de
+     Chartres Métropole et l'agence départementale, tous deux servis à l'agent par défaut et sans exclusion, donnent le
+     marché du samedi place Billard, et celui du dimanche à Morancez. **Tranché ainsi** : ces deux autorités suffisent,
+     la fiche écrit les deux versions de l'horaire (règle 5), dit que la Ville n'a pas été consultée et part en
+     `a_confirmer` ; la règle 197 reste entière — une famille de produits doit être écrite par l'une des deux. Une seule
+     autorité ne suffit pas (règle 196) : les marchés de Lucé, de Champhol, de Dammarie, de Fontenay-sur-Eure et de Jouy,
+     que seul l'office publie, attendent. **Ce que la règle débloque** : la passe de Chartres, dans la même passe.
+
 ## Marchands à confirmer
 
-1019 fiches sur 1153 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1024 fiches sur 1158 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la place Billard** (Chartres), **Cueillette de Seresville** (Mainvilliers), **La Ferme du Verger**
+  (Amilly), **Marché de Morancez** (Morancez) et **Brasserie de Chandres (L'Eurélienne)** (Sours) (passe du 7 octobre
+  2026, cent soixante et unième, règles 432, 437 et 438) : les cinq fiches portent une vue aérienne de l'IGN, qui ne
+  montre ni étal ni boutique ; les deux marchés reposent sur l'office de tourisme et l'agence départementale, la Ville
+  de Chartres n'étant pas lue et la commune de Morancez ne décrivant pas son marché ; à Morancez l'office écrit « place
+  du marché » et l'agence « rue de Chavannes » — la fiche retient la rue ; la cueillette de Mainvilliers ne publie
+  qu'un portable, non repris, et ses heures sont ses « horaires actuels », qui changent avec la saison.
 - **Marché couvert de Liévin** (Liévin), **Brasserie Saint-Germain (Page 24)** (Aix-Noulette), **Ferme du Bois Jacques**
   (Villers-au-Bois), **Ferme du Pré Molaine** (Ablain-Saint-Nazaire) et **Les Maraîchers** (Vimy) (passe du 7 octobre
   2026, cent soixantième, règles 432 et 437) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni
@@ -13106,6 +13126,74 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante et unième) : Chartres et Chartres Métropole (Eure-et-Loir), cinq fiches ; le département se rouvre par la règle 432 ; règle 438
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 158
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 153 fiches avant la passe), outre-mer
+écarté (règle 177), relu depuis le premier rang (règle 410) : **Eure-et-Loir (28) 7,55**, aucune fiche, écrit épuisé
+(règle 265) et rouvert à son rang par la règle 432 — c'est la première passe qui le relit ; puis Calvados 7,36,
+Val-d'Oise 7,33, Loiret 7,05, Ain 6,84. La passe précédente visait les Hauts-de-France : le Centre-Val de Loire est
+permis (règle 41.c). `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Chartres** (38 324), commune la plus peuplée du département sans fiche, relue sous l'agent par défaut (règle 425) :
+les `robots.txt` de la Ville et de Chartres Métropole nomment toujours l'agent et lui interdisent le site — ni l'un ni
+l'autre n'est lu. L'office de tourisme de Chartres Métropole, fermé le 22 septembre par la seule règle 257, est servi et
+son `robots.txt` n'exclut personne ; ses mentions interdisent toute reproduction hors usage privé : aucune image n'en
+est reprise et aucune fiche ne pointe vers lui. L'agence départementale est servie de même. Une fiche aux faits entiers
+dans la commune, quatre autres dans Chartres Métropole à moins de dix kilomètres (règle 437) :
+
+1. **Marché de la place Billard** (Chartres) — samedi 7h-13h et familles (bouchers, charcutiers, fromagers, volaillers,
+   producteurs de l'agglomération) chez l'office ; « tous les samedis matins, place Billard » chez l'agence
+   départementale (fiche de 2021) : deux autorités (**règle 438**, nouvelle). BAN à la place (0,97).
+2. **Cueillette de Seresville** (Mainvilliers) — heures jour par jour et gamme sur le site de la cueillette (actualités
+   des 25 septembre et 1er octobre 2026) ; société active au registre au 60 rue de l'Arsenal. BAN au numéro (0,96). À
+   3,9 km.
+3. **La Ferme du Verger** (Amilly, hameau d'Ouerray) — heures, gamme et fixe sur le site de la ferme, adresse et fixe
+   identiques chez l'office ; société active au registre. BAN au numéro (0,70). À 5,5 km.
+4. **Marché de Morancez** — dimanche 8h30-12h30 et familles chez l'office, « tous les dimanches matins » chez l'agence
+   (règle 438) ; la commune ne décrit pas le marché. BAN à la rue (0,96). À 4,5 km.
+5. **Brasserie de Chandres (L'Eurélienne)** (Sours) — heures de la boutique sur deux pages du site de la brasserie
+   (modifiées en février et mai 2026), fixe publié par la boutique ; société active au registre à l'adresse, certificat
+   engagé au registre de l'Agence Bio. BAN au numéro (0,95). À 8,8 km.
+
+Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une : ni personne, ni enseigne
+lisible. Celle de Mainvilliers montre le hameau autour du point, pas les parcelles ; la fiche le dit. Toutes partent en
+`a_confirmer`.
+
+**Laissé de côté, avec le déblocage de chacun** :
+
+- le marché du mercredi de Chartres, boulevard Chasles : « dès 7h » chez l'office, sans heure de fin (règle 192) ; il
+  est seulement mentionné dans la fiche du samedi. **Déblocage** : son heure de fin ;
+- le marché du jeudi de Mainvilliers (place du Marché) : la Ville, l'office et l'agence s'accordent sur le jour et la
+  place, mais aucun n'écrit une famille au-delà de « produits alimentaires et manufacturés » (règle 197) ; le marché
+  alimentaire du vendredi matin que la Ville annonce n'a pas d'heure (règle 192). **Déblocage** : une famille, une heure ;
+- le marché du dimanche de Luisant (boulevard d'Hochstadt) : l'agence seule, sans heure ni famille ; ceux de Lucé, de
+  Champhol, de Dammarie, de Fontenay-sur-Eure et de Jouy : l'office seul (règle 196). **Déblocage** : une seconde autorité ;
+- les trois AMAP de l'agglomération (Chartres, Lèves, Mainvilliers) : aucun site vivant ni source datée de moins de
+  douze mois avec jour, heure et lieu (règle 195). **Déblocage** : une telle source ;
+- le jardin d'insertion biologique de Lèves (association active, certificat engagé) : pas de site propre, aucune heure
+  de vente (règle 192). **Déblocage** : ses heures ;
+- l'épicerie en vrac franchisée du centre de Chartres (règle 273), une fromagerie du centre dont la fiche d'office
+  porte un crédit nominatif et qui revend, les deux autres cueillettes que l'office cite hors du rayon de dix
+  kilomètres (non instruites), le magasin bio de réseau du Gord, les supermarchés certifiés et les grossistes du
+  registre de l'Agence Bio (529 opérateurs lus dans le département, 85 dans les communes criblées de
+  l'agglomération).
+
+**Contradictions** (règle 5) : à Morancez, l'office écrit « place du marché » et l'agence « rue de Chavannes » ; la
+Base Adresse Nationale ne connaît pas de place de ce nom : la fiche retient la rue et écrit les deux. À Chartres et à
+Morancez, l'office donne des heures et l'agence « le matin » : la fiche écrit les deux. À Mainvilliers, le site de la
+cueillette donne un accès par la route départementale et le registre un numéro de rue : la fiche retient le numéro, que
+la Base connaît. **Fiches écartées pour doute sur une personne ou une donnée personnelle** : deux — dans l'agglomération, une
+brasserie dont l'enseigne porte un patronyme ; au Coudray, un moulin dont l'enseigne en porte un autre. Elles ne se
+rouvrent pas. Les opérateurs du registre de l'Agence Bio inscrits sous un patronyme dans l'agglomération n'ont pas été
+instruits, et aucun des noms qu'écrivent l'office et les sites des fermes n'est repris.
+
+**Points d'arrêt** : en **Eure-et-Loir**, la descente relue par la règle 432 s'arrête à **Chartres** ; la commune
+suivante à relire est **Dreux** (31 543), dont le site officiel était ouvert le 22 septembre et documentait le marché
+couvert, puis Lucé et Châteaudun, à contrôler sous l'agent par défaut (règle 425). Après la passe, sur 1 158 fiches :
+Val-d'Oise 7,43, Calvados 7,42, Loiret 7,10, Ain 6,89, Oise 6,52 ; l'Eure-et-Loir retombe à 2,58. La région de cette
+passe est le Centre-Val de Loire (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixantième) : Liévin et l'agglomération de Lens-Liévin (Pas-de-Calais), cinq fiches ; le département se rouvre par la règle 432 ; règle 437
 

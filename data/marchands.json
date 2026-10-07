@@ -30528,5 +30528,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Mara%C3%AEchers%201%20Route%20Nationale%2C%2062580%20Vimy",
     "image_url": "/images/marchands/les-maraichers-vimy.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-billard-chartres",
+    "nom": "Marché de la place Billard",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.446428,
+    "lon": 1.489355,
+    "adresse": "Place Billard, 28000 Chartres",
+    "horaires": "Le samedi de 7h à 13h d'après l'office de tourisme de Chartres Métropole ; « tous les samedis matins » d'après Eure-et-Loir Tourisme. Le mercredi, le marché se tient boulevard Chasles à partir de 7h, sans heure de fin publiée. Horaires non recoupés auprès de la Ville : à vérifier avant de se déplacer.",
+    "produits": [
+      "Boucherie",
+      "Charcuterie",
+      "Fromages",
+      "Volailles",
+      "Produits frais des producteurs de l'agglomération"
+    ],
+    "description": "Marché alimentaire du centre de Chartres, sous la halle de la place Billard, où l'office de tourisme annonce les producteurs de l'agglomération chartraine aux côtés des bouchers, charcutiers, fromagers et volaillers. Deux autorités le publient avec le même jour et la même place — l'office de tourisme de Chartres Métropole et l'agence départementale Eure-et-Loir Tourisme, dont la fiche date de 2021 ; le site de la Ville n'a pas été consulté, il n'est pas ouvert à l'outil de cette carte. Point de la Base Adresse Nationale sur la place. Photo : vue aérienne de la halle, hors marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Billard%2C%2028000%20Chartres",
+    "image_url": "/images/marchands/marche-place-billard-chartres.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-de-seresville-mainvilliers",
+    "nom": "Cueillette de Seresville",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.467523,
+    "lon": 1.445747,
+    "adresse": "60 rue de l'Arsenal, Seresville, 28300 Mainvilliers",
+    "horaires": "Lundi de 14h30 à 18h30 ; mardi, mercredi et jeudi de 9h30 à 12h et de 14h30 à 18h30 ; vendredi de 9h30 à 12h30 et de 14h30 à 18h30 ; samedi de 9h à 12h30 et de 14h à 18h, d'après le site de la cueillette (« horaires actuels » lus le 7 octobre 2026). La boutique est ouverte toute l'année, la cueillette en saison.",
+    "produits": [
+      "Fruits et légumes à cueillir",
+      "Fleurs à cueillir",
+      "Légumes de la ferme en boutique",
+      "Jus de fruits, confitures, soupes et sauces tomates maison",
+      "Charcuterie, volailles et produits laitiers de fermes d'Eure-et-Loir"
+    ],
+    "description": "Cueillette en libre-service de fruits, de légumes et de fleurs au hameau de Seresville, à quatre kilomètres du centre de Chartres, avec une boutique à la ferme qui vend les récoltes, leurs produits transformés et une sélection de producteurs du département. Société active au registre des entreprises à cette adresse ; le site écrit l'accès par la route départementale 105 entre Mainvilliers et Seresville. Le seul téléphone publié est un portable : il n'est pas repris. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne du hameau autour de ce point, qui ne montre pas les parcelles de cueillette — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.cueillettedeseresville.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20Seresville%2C%2060%20rue%20de%20l'Arsenal%2C%2028300%20Mainvilliers",
+    "image_url": "/images/marchands/cueillette-de-seresville-mainvilliers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-du-verger-amilly",
+    "nom": "La Ferme du Verger",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.431199,
+    "lon": 1.417766,
+    "adresse": "13 rue des Cinq Croix, Ouerray, 28300 Amilly",
+    "horaires": "Lundi de 14h à 19h ; du mardi au samedi de 8h45 à 12h15 et de 14h à 19h ; fermé le dimanche, le lundi matin et les jours fériés, d'après le site de la ferme. Boutique toute l'année, cueillette de la mi-mars à la mi-novembre.",
+    "produits": [
+      "Pommes, poires et pommes de terre de la ferme",
+      "Fruits et légumes à cueillir",
+      "Jus de pommes et compotes maison",
+      "Fromages, laitages et œufs",
+      "Volaille, charcuterie et viande bovine",
+      "Miel, soupes et confitures de producteurs locaux"
+    ],
+    "description": "Ferme du hameau d'Ouerray, à cinq kilomètres et demi de Chartres, qui tient un marché à la ferme toute l'année et ouvre son verger et son jardin à la cueillette en saison ; la boutique vend aussi les produits d'agriculteurs voisins, avec des arrivages de bœuf et de veau annoncés par dates. Société active au registre des entreprises à Ouerray ; adresse et téléphone identiques sur le site de la ferme et chez l'office de tourisme de Chartres Métropole. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 37 32 98 06",
+    "site_web": "https://www.fermeduverger.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Ferme%20du%20Verger%2C%2013%20rue%20des%20Cinq%20Croix%2C%2028300%20Amilly",
+    "image_url": "/images/marchands/la-ferme-du-verger-amilly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-morancez",
+    "nom": "Marché de Morancez",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.406374,
+    "lon": 1.495333,
+    "adresse": "Rue de Chavannes, 28630 Morancez",
+    "horaires": "Le dimanche de 8h30 à 12h30 d'après l'office de tourisme de Chartres Métropole ; « tous les dimanches matins » d'après Eure-et-Loir Tourisme. Horaires non recoupés auprès de la commune : à vérifier avant de se déplacer.",
+    "produits": [
+      "Fruits et légumes",
+      "Volailles et rôtisserie",
+      "Fromages",
+      "Poissons et huîtres",
+      "Fleurs",
+      "Vins et spiritueux locaux le premier dimanche du mois"
+    ],
+    "description": "Marché dominical de Morancez, au sud de Chartres, où l'office de tourisme annonce chaque premier dimanche du mois des vins et spiritueux produits dans les environs. Deux autorités le publient avec le même jour : l'office de tourisme de Chartres Métropole le situe « place du marché », l'agence départementale Eure-et-Loir Tourisme rue de Chavannes, où se trouve la mairie ; la Base Adresse Nationale ne connaît pas de place de ce nom et la fiche retient la rue. Le site de la commune ne décrit pas le marché. Photo : vue aérienne de la rue de Chavannes, hors marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20Chavannes%2C%2028630%20Morancez",
+    "image_url": "/images/marchands/marche-de-morancez.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-de-chandres-sours",
+    "nom": "Brasserie de Chandres (L'Eurélienne)",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.423214,
+    "lon": 1.603109,
+    "adresse": "3 rue Parmentier, lieu-dit Chandres, 28630 Sours",
+    "horaires": "Boutique ouverte du lundi au vendredi de 14h à 18h, le samedi de 10h à 12h et de 14h à 18h, d'après le site de la brasserie (page modifiée le 28 mai 2026). Les visites de la brasserie ne se font plus que sur demande, pour des groupes.",
+    "produits": [
+      "Bières artisanales L'Eurélienne",
+      "Limonade et boissons sans alcool de la brasserie",
+      "Épicerie de producteurs d'Eure-et-Loir",
+      "Paniers garnis de produits du terroir"
+    ],
+    "description": "Brasserie fermière installée au hameau de Chandres, à neuf kilomètres de Chartres, qui brasse sur place la bière L'Eurélienne et tient une boutique où elle vend sa gamme avec les produits d'une trentaine de producteurs du département. Société active au registre des entreprises à cette adresse, certificat biologique engagé au registre de l'Agence Bio pour la bière ; le fixe est celui que la boutique publie. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne de la ferme et de la brasserie — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 37 25 77 56",
+    "site_web": "https://leurelienne.fr/boutique-leurelienne/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20de%20Chandres%2C%203%20rue%20Parmentier%2C%2028630%20Sours",
+    "image_url": "/images/marchands/brasserie-de-chandres-sours.jpg",
+    "a_confirmer": true
   }
 ]
