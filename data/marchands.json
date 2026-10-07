@@ -30659,5 +30659,104 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20de%20Chandres%2C%203%20rue%20Parmentier%2C%2028630%20Sours",
     "image_url": "/images/marchands/brasserie-de-chandres-sours.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-enghien-les-bains",
+    "nom": "Marché d'Enghien-les-Bains",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.968378,
+    "lon": 2.310414,
+    "adresse": "Place de Verdun, 95880 Enghien-les-Bains",
+    "horaires": "Mardi, jeudi et samedi de 8h à 13h, d'après la Ville d'Enghien-les-Bains et l'agence départementale Val d'Oise Tourisme.",
+    "produits": [
+      "Fromages",
+      "Boucherie et charcuterie",
+      "Fruits et légumes",
+      "Fleurs"
+    ],
+    "description": "Marché couvert d'Enghien-les-Bains, place de Verdun, où les commerces de bouche côtoient des étals de vêtements, de chaussures et de bijoux ; la Ville écrit que ses produits frais viennent de Rungis ou de petits producteurs locaux. Elle compte plus de cinquante commerçants, l'agence départementale quatre-vingt-dix : les deux chiffres sont donnés tels quels. Jours et heures identiques sur la page du marché, la fiche d'équipement de la Ville et la fiche de Val d'Oise Tourisme. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la place de Verdun et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20Verdun%2C%2095880%20Enghien-les-Bains",
+    "image_url": "/images/marchands/marche-couvert-enghien-les-bains.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-soisy-sous-montmorency",
+    "nom": "Marché de Soisy-sous-Montmorency",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.987724,
+    "lon": 2.297231,
+    "adresse": "40 rue Carnot, 95230 Soisy-sous-Montmorency",
+    "horaires": "Mercredi, vendredi et dimanche de 8h à 13h, d'après la Ville de Soisy-sous-Montmorency (page mise à jour le 20 mai 2025).",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Poissons",
+      "Fromages",
+      "Pains",
+      "Produits bio",
+      "Spécialités régionales"
+    ],
+    "description": "Marché du centre de Soisy-sous-Montmorency, à l'angle de la rue Carnot et de la rue de la Fontaine Saint-Germain, près de la place de l'Église : plus de 1 000 m² à vocation essentiellement alimentaire et une trentaine de commerçants et d'artisans, d'après la Ville, qui signale un parking gratuit rue des Écoles. Jours, heures, adresse et familles de produits sont ceux que publie la Ville. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne du carrefour de la rue Carnot et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=40%20rue%20Carnot%2C%2095230%20Soisy-sous-Montmorency",
+    "image_url": "/images/marchands/marche-de-soisy-sous-montmorency.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-levanneur-montmorency",
+    "nom": "Marché Levanneur de Montmorency",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.988543,
+    "lon": 2.318953,
+    "adresse": "Place Roger-Levanneur, 95160 Montmorency",
+    "horaires": "Dimanche de 8h30 à 13h30, d'après la Ville de Montmorency. La Ville évoque aussi un marché le mercredi sur la même place, sans en publier les heures.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons",
+      "Fromages",
+      "Plats de traiteurs"
+    ],
+    "description": "Marché dominical du centre de Montmorency, sur la place Roger-Levanneur : primeurs, poissonnier, fromager et de nombreux traiteurs, d'après la Ville, avec quelques étals d'habillement. Deux parkings gratuits à proximité, rue du Marché et rue Théophile-Vacher ; le stationnement est interdit sur la place les veilles et jours de marché. Jour, heures, place et familles de produits sont ceux que publie la Ville, sur une page non datée. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la place, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Roger-Levanneur%2C%2095160%20Montmorency",
+    "image_url": "/images/marchands/marche-levanneur-montmorency.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-domont",
+    "nom": "Marché de Domont",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.031439,
+    "lon": 2.336031,
+    "adresse": "62 avenue Jean Jaurès, 95330 Domont",
+    "horaires": "Jeudi et dimanche de 8h à 13h, d'après la Ville de Domont.",
+    "produits": [
+      "Volailles",
+      "Poissons",
+      "Pain",
+      "Plats de traiteurs (couscous, paëlla, cuisines africaine et libanaise)"
+    ],
+    "description": "Marché de Domont, 62 avenue Jean Jaurès : près de cinquante commerçants le jeudi et le dimanche, d'après la Ville, qui en a confié la gestion à un délégataire depuis 2023. Les familles de produits citées ici sont celles qu'une actualité municipale de mars 2023 nomme parmi les nouveaux étals ; la page du marché, non datée, n'en dresse pas la liste complète. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne des abords du 62 avenue Jean Jaurès, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=62%20avenue%20Jean%20Jaur%C3%A8s%2C%2095330%20Domont",
+    "image_url": "/images/marchands/marche-de-domont.jpg",
+    "a_confirmer": true
   }
 ]

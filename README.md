@@ -5462,9 +5462,34 @@ prioritaires en cas de conflit.
      autorité ne suffit pas (règle 196) : les marchés de Lucé, de Champhol, de Dammarie, de Fontenay-sur-Eure et de Jouy,
      que seul l'office publie, attendent. **Ce que la règle débloque** : la passe de Chartres, dans la même passe.
 
+439. **Un groupe désigné pour la reprise qui perd un de ses points parce qu'une Ville refuse désormais l'agent se publie à
+     quatre, quand les quatre fiches restantes ont des faits entiers, tiennent dans la même intercommunalité et à moins de
+     dix kilomètres les unes des autres.** Le 7 octobre 2026 (cent soixante-deuxième passe), le Val-d'Oise mène le
+     classement et le point d'arrêt d'Ermont désigne, dans Plaine Vallée, les marchés d'Enghien-les-Bains, de
+     Deuil-la-Barre, de Soisy-sous-Montmorency et de Domont, « à compléter jusqu'à cinq ». Relu ce jour sous l'agent par
+     défaut (règle 425), le site de la Ville de Deuil-la-Barre oppose un défi de vérification dès son `robots.txt` : il
+     n'est pas lu, et son marché sort du groupe. Montmorency le remplace (faits entiers sur la page de la Ville), mais
+     aucun cinquième point n'existe : Bouffémont n'a toujours pas d'heure, le jardin d'insertion d'Ézanville n'a d'heure
+     que pour une adresse fermée au registre, le registre de l'Agence Bio ne rend dans l'intercommunalité que des chaînes,
+     des ateliers et des grossistes, et la règle 437 demande cinq points. La suivre aurait laissé attendre quatre marchés
+     vérifiés, distants de 1,6 à 7,3 km, dans la zone la plus peuplée du premier département du classement, pour une
+     raison qui ne tient à aucun d'eux. Le prompt veut cinq fiches « solides et voisines » parce qu'elles rendent une zone
+     utilisable ; quatre marchés contigus la rendent utilisable aussi, et les passes de Cahors, de Compiègne et de
+     Mont-de-Marsan ont déjà publié à quatre. **Tranché ainsi** : quatre fiches aux faits entiers, dans une même
+     intercommunalité, à moins de dix kilomètres les unes des autres, forment la zone quand le cinquième point a été
+     cherché dans la passe et que le récit dit où. Aucune exigence de vérification ne baisse. **Limite** : jamais à trois ;
+     jamais pour compléter par une fiche dont un fait manque ; le cinquième point se publie seul, à son rang, dès qu'il
+     existe. **Ce que la règle débloque** : la passe de Plaine Vallée, dans la même passe.
+
 ## Marchands à confirmer
 
-1024 fiches sur 1158 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1028 fiches sur 1162 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché d'Enghien-les-Bains**, **Marché de Soisy-sous-Montmorency**, **Marché Levanneur de Montmorency** et **Marché
+  de Domont** (passe du 7 octobre 2026, cent soixante-deuxième, règles 432 et 439) : les quatre fiches portent une vue
+  aérienne de l'IGN, qui ne montre pas le marché en activité. À Enghien-les-Bains, la Ville compte plus de cinquante
+  commerçants et l'agence départementale quatre-vingt-dix : les deux chiffres sont écrits. À Montmorency, la page de la
+  Ville n'est pas datée et évoque un marché du mercredi sans heure. À Domont, les familles de produits viennent d'une
+  actualité municipale de mars 2023, la page du marché n'en donnant pas ; à Soisy, la page date de mai 2025.
 - **Marché de la place Billard** (Chartres), **Cueillette de Seresville** (Mainvilliers), **La Ferme du Verger**
   (Amilly), **Marché de Morancez** (Morancez) et **Brasserie de Chandres (L'Eurélienne)** (Sours) (passe du 7 octobre
   2026, cent soixante et unième, règles 432, 437 et 438) : les cinq fiches portent une vue aérienne de l'IGN, qui ne
@@ -13126,6 +13151,72 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-deuxième) : Plaine Vallée (Val-d'Oise), quatre marchés à Enghien-les-Bains, Soisy-sous-Montmorency, Montmorency et Domont ; règle 439
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 162
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 158 fiches avant la passe), outre-mer
+écarté (règle 177), relu depuis le premier rang (règle 410) : **Val-d'Oise (95) 7,43**, quinze fiches (Argenteuil, Cergy,
+Ermont, Eaubonne, Taverny, Bessancourt), descente arrêtée à Ermont le matin même ; puis Calvados 7,42, Loiret 7,10,
+Ain 6,89, Oise 6,52. La passe précédente visait le Centre-Val de Loire : l'Île-de-France est permise (règle 41.c).
+`git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Reprise désignée par le point d'arrêt d'Ermont** : les marchés aux faits entiers de Plaine Vallée, arrêtés jusque-là
+par la seule image (règle 432). Chaque site est relu ce jour sous l'agent par défaut, `robots.txt` d'abord (règle 425).
+
+- **Deuil-la-Barre** : le site de la Ville répond par une page de vérification (« nous vérifions que vous n'êtes pas un
+  robot ») dès son `robots.txt`. Il n'est pas lu ; le marché des Mortefontaines sort du groupe. **Déblocage** : un site
+  servi à l'agent par défaut, ou le même marché publié par deux autres autorités (règle 438) — l'agence départementale
+  ne le recense pas aujourd'hui.
+
+1. **Marché d'Enghien-les-Bains** — place de Verdun, mardi, jeudi et samedi 8h-13h : page du marché et fiche
+   d'équipement de la Ville, fiche de l'agence départementale (« 5 place de Verdun », mêmes jours, mêmes heures) ;
+   familles écrites par la Ville (fromagers, bouchers, charcutiers, primeurs, fleuristes). BAN à la voie (0,96).
+2. **Marché de Soisy-sous-Montmorency** — 40 rue Carnot, mercredi, vendredi et dimanche 8h-13h ; page de la Ville mise à
+   jour le 20 mai 2025, familles écrites. BAN au numéro (0,96). À 2,4 km du premier.
+3. **Marché Levanneur de Montmorency** — place Roger-Levanneur, dimanche 8h30-13h30 ; page de la Ville, non datée,
+   familles écrites (primeurs, poissonnier, fromager, traiteurs). BAN à la voie (0,96). À 2,3 km.
+4. **Marché de Domont** — 62 avenue Jean Jaurès, jeudi et dimanche 8h-13h ; page de la Ville, non datée ; familles
+   tirées d'une actualité municipale du 22 mars 2023 (volailler, poissonnier, boulanger, traiteurs). BAN au numéro
+   (0,97). À 7,3 km d'Enghien-les-Bains, 4,9 km de Montmorency.
+
+Aucun `robots.txt` des quatre Villes n'exclut l'agent ni ne nomme un agent d'IA. Les mentions d'Enghien-les-Bains
+réservent les photographies à la Ville, celles de Soisy conditionnent toute reproduction à son accord : aucune image
+municipale n'est reprise et aucune fiche ne porte de `site_web`. Les quatre images sont des vues aériennes de l'IGN
+(1 280 × 800, règle 432), regardées une à une : ni personne, ni enseigne lisible. Toutes partent en `a_confirmer`.
+Quatre fiches et non cinq : **règle 439**, nouvelle.
+
+**Cinquième point cherché, non trouvé** — avec le déblocage de chacun :
+
+- le marché de la place Vauban, à Bouffémont : « chaque samedi matin », familles écrites, toujours aucune heure
+  (règle 192). **Déblocage** : une heure ;
+- le jardin d'insertion biologique d'Ézanville (association active, certificat engagé) : son site annonce la vente du
+  jeudi de 16h à 19h à une adresse dont l'établissement est fermé au registre depuis 2024 (règle 192). **Déblocage** :
+  l'heure de vente à l'adresse actuelle ;
+- l'AMAP et la distribution de producteurs que la Ville de Montmorency loge dans son ancienne halle : la page et la
+  fiche d'annuaire datent d'octobre 2019 (règles 195 et 434), et leurs seuls contacts sont des personnes nommées, qui
+  ne sont pas reprises. **Déblocage** : une source datée de moins de douze mois ;
+- le marché du samedi après-midi du quartier de la Chênée, à Montmorency : publié en 2021 et 2022 seulement, absent de
+  la page actuelle du marché. **Déblocage** : une page courante de la Ville ;
+- le marché du mercredi de Montmorency : évoqué sans heure (règle 192) ;
+- Saint-Gratien : le site de la Ville ne répond pas ; deux noms de domaine voisins sont l'un un annuaire privé, l'autre
+  un domaine à vendre — le piège de la note Santa Lucia, rien n'y est lu. Groslay : le site de la Ville ne répond pas ;
+- le registre de l'Agence Bio (373 opérateurs lus dans le département, une cinquantaine dans l'intercommunalité) : des
+  supermarchés, des magasins de réseau, des boulangeries, des ateliers et des grossistes ; aucun point de vente nouveau.
+  L'office de tourisme de Plaine Vallée, servi à l'agent par défaut, ne recense aucun marché ; l'agence départementale
+  n'a, dans l'intercommunalité, que celui d'Enghien-les-Bains.
+
+**Contradictions** (règle 5) : à Enghien-les-Bains, la Ville écrit « plus de cinquante commerçants » et l'agence
+« quatre-vingt-dix » : la fiche écrit les deux. **Fiches écartées pour doute sur une personne ou une donnée
+personnelle** : une — à Domont, un atelier de fumage dont la marque se présente sous le prénom de son fondateur, absent
+du registre sous son enseigne et joignable par un seul portable. Elle ne se rouvre pas. Les opérateurs du registre de
+l'Agence Bio inscrits sous un patronyme n'ont pas été instruits.
+
+**Points d'arrêt** : dans le **Val-d'Oise**, la reprise de Plaine Vallée est faite ; la commune suivante à relire reste
+**Gonesse** (27 707), puis Cormeilles-en-Parisis, à contrôler sous l'agent par défaut (règle 425) ; les marchés
+d'Arnouville et d'Osny restent à reprendre par la règle 432. Après la passe, sur 1 162 fiches : Calvados 7,46,
+Loiret 7,14, Ain 6,93, Oise 6,57, Val-de-Marne 6,06 ; le Val-d'Oise retombe à 3,51. La région de cette passe est
+l'Île-de-France (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante et unième) : Chartres et Chartres Métropole (Eure-et-Loir), cinq fiches ; le département se rouvre par la règle 432 ; règle 438
 
