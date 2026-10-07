@@ -5507,9 +5507,35 @@ prioritaires en cas de conflit.
      la passe de Vire Normandie, dans la même passe — la bergerie de Carville (11,1 km) et la ferme maraîchère de La
      Graverie (5,8 km) entrent, le groupement apicole de Montchauvet (16,6 km) reste désigné.
 
+442. **L'étal qu'un producteur déclare tenir à un marché nommé vaut famille de produits écrite pour ce marché, quand la
+     déclaration est portée par une autorité et que la Ville écrit le jour, l'heure et le lieu.** Le 7 octobre 2026 (cent
+     soixante-quatrième passe), le marché du dimanche de Fleury-les-Aubrais avait été arrêté le 25 septembre par la
+     règle 197 : la Ville n'écrit que « essentiellement alimentaires ». L'agence départementale y écrit des producteurs
+     locaux, des traiteurs et des fleuristes, et sa fiche d'une exploitation fruitière de la commune dit qu'elle y tient
+     un étal le dimanche matin, avec la liste de ce qu'elle vend. La règle 197 demande qu'une source écrive « au moins
+     une famille de ce qui s'y vend » pour ce marché-là : c'est le cas. **Tranché ainsi** : la fiche se publie en
+     `a_confirmer`, ses `produits` se bornent à ce que ces écrits nomment, et la description dit qu'aucune source ne
+     détaille davantage. **Limite** : la déclaration d'un producteur sur son propre site ne suffit pas sans l'autorité ;
+     la phrase générique d'une Ville reste sans effet.
+443. **Deux adresses dans deux voies différentes, toutes deux connues de la Base Adresse Nationale et distantes de moins
+     de cent mètres, ne sont pas une contradiction qui arrête : celle du registre se publie (règle 104), l'autre s'écrit.**
+     Le même jour, un groupement fruitier de Fleury-les-Aubrais est au 49 d'une avenue selon le registre des entreprises
+     et au 198 de la rue qui la croise selon l'agence départementale ; la Base place les deux numéros à soixante mètres
+     l'un de l'autre, de part et d'autre d'un angle. La règle 440 ne joue qu'à l'intérieur d'une voie. **Tranché ainsi** :
+     l'adresse du registre est publiée, la description donne l'autre et sa source, la fiche part en `a_confirmer`.
+     **Limite** : au-delà de cent mètres, la règle 5 s'applique et la fiche attend.
+
 ## Marchands à confirmer
 
-1033 fiches sur 1167 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1038 fiches sur 1172 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du Bourg de Saran** et **Les Fruits de Montaran** (Saran), **Marché de Lamballe** et **GAEC Les Sapins**
+  (Fleury-les-Aubrais), **Les Vergers de Charbonnière** (Saint-Jean-de-Braye) (passe du 7 octobre 2026, cent
+  soixante-quatrième, règles 432, 442 et 443) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni
+  étal ni magasin ; le marché de Saran est publié à son emplacement provisoire, pendant les travaux du Bourg ; les
+  heures des trois points de vente à la ferme ne viennent que de fiches non datées de l'agence départementale Tourisme
+  Loiret ; les produits du marché de Lamballe se bornent à ce que l'agence écrit ; le groupement fruitier est publié à
+  l'adresse du registre, l'agence en donnant une autre à soixante mètres. **Déblocage** : une photographie permise de
+  chaque lieu, des heures publiées par les intéressés eux-mêmes, et le retour du marché de Saran sur sa place.
 - **La Pause Paysanne**, **Les Ruchers du Bocage Virois** et **La Tallevendaise** (Vire Normandie), **Bergerie de la
   Souleuvre** et **EARL des 4 saisons** (Souleuvre en Bocage) (passe du 7 octobre 2026, cent soixante-troisième, règles
   432, 440 et 441) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni boutique ni étal, et celle des
@@ -13185,6 +13211,83 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-quatrième) : Saran, Fleury-les-Aubrais et Saint-Jean-de-Braye (Loiret), cinq fiches dans Orléans Métropole ; le département se rouvre par la règle 432 ; règles 442 et 443
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 172
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 167 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Loiret (45) 6,70**, cinq
+fiches (quatre à Orléans, une à Saint-Cyr-en-Val), écrit épuisé (règle 265) et rouvert à son rang par la règle 432 —
+c'est la première passe qui le relit ; puis Ain 6,50, Oise 6,05, Lot-et-Garonne 5,65, Somme 5,57. Les récits des
+passes précédentes écrivaient 7,19 pour le Loiret : ce chiffre ne se retrouve pas avec le dénominateur de la règle
+224, l'ordre des départements est le même. La passe précédente visait la Normandie : le Centre-Val de Loire est permis
+(règle 41.c). `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Descente relue depuis la deuxième commune**, sous l'agent par défaut, `robots.txt` d'abord (règle 425) : ceux des
+Villes d'Olivet, de Saint-Jean-de-Braye, de Fleury-les-Aubrais, de Saran, d'Ingré et de Saint-Jean-de-la-Ruelle, et
+celui de Tourisme Loiret, n'excluent personne ; la Ville d'Ormes oppose un défi de vérification dès son `robots.txt` et
+n'est pas lue.
+
+- **Olivet** (23 507) : la Ville n'écrit toujours que le jour, l'heure et la place de son marché du vendredi, sans
+  famille (règle 197) — arrêtée par ses faits, la règle 432 ne la rouvre pas.
+- **Saint-Jean-de-Braye** (23 147) : marché du dimanche toujours sans heure ni famille chez l'agence départementale ;
+  la commune n'a qu'un point de vente à la ferme entier (ci-dessous) : pas deux fiches dans ses limites (règle 127).
+- **Fleury-les-Aubrais** (21 804) : deux fiches entières par les règles 442 et 443, nouvelles ; elles entrent dans le
+  groupe de Saran, qui se forme dans la même intercommunalité.
+- **Saran** (17 316) : **deux fiches aux faits entiers** dans la commune, que la seule image arrêtait pour le marché —
+  c'est elle qui centre la passe (règles 96, 127 et 432). Distances prises depuis la mairie de Saran.
+
+1. **Marché du Bourg de Saran** — mercredi et samedi 7h30-13h : page « Marchés » de la Ville (5 février 2026), qui
+   écrit les métiers étal par étal (primeur, fromager, poissonnier, boucher) et le déplacement rue du Docteur Payen
+   pendant les travaux du Bourg ; l'agence départementale donne le mercredi aux mêmes heures, à l'emplacement habituel.
+   Les noms des étals ne sont pas repris. BAN à la voie (0,952). À 0,1 km.
+2. **Les Fruits de Montaran** (Saran) — magasin d'une exploitation fruitière, 1502 rue de Montaran : heures et gamme
+   écrites par l'agence départementale ; société active au registre à l'adresse, en culture de fruits ; adresse et fixe
+   confirmés par l'annuaire de la Ville. BAN au numéro (0,970). À 2,7 km.
+3. **Marché de Lamballe** (Fleury-les-Aubrais) — dimanche 8h-13h, boulevard de Lamballe et rue Beethoven : page de la
+   Ville et fiche de l'agence, aux mêmes heures ; familles par la **règle 442**. BAN à la voie (0,967). À 4,5 km.
+4. **GAEC Les Sapins** (Fleury-les-Aubrais) — vente sur l'exploitation du lundi au samedi 17h30-20h : fiche de
+   l'agence ; groupement actif au registre depuis 1977 ; adresse par la **règle 443**. BAN au numéro (0,969). À 3,7 km.
+5. **Les Vergers de Charbonnière** (Saint-Jean-de-Braye) — magasin de l'exploitation les mardi, mercredi et vendredi
+   14h-18h30 : fiche de l'agence ; deux sociétés agricoles actives au registre à l'adresse. BAN au numéro (0,974).
+   À 7,9 km.
+
+Les cinq points sont dans Orléans Métropole, à moins de huit kilomètres de la mairie de Saran, deux dans la commune.
+L'agence départementale illustre ces fiches d'images de banque, et les Villes réservent les leurs : les cinq images
+sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni enseigne lisible ;
+celle du marché de Lamballe montre le boulevard et le parc voisin. Toutes partent en `a_confirmer`. Trois téléphones
+fixes sont publiés, aucun portable, aucune adresse électronique.
+
+**Autres points relus dans le secteur, non publiés** — avec le déblocage de chacun :
+
+- une ferme maraîchère biologique de Saran, exploitation individuelle à l'enseigne déclarée et à l'adresse diffusée :
+  ni la Ville (fiche de 2018) ni l'agence ne publient de jour ou d'heure de vente (règle 192). **Déblocage** : ses
+  heures sur une page lisible ;
+- une brasserie artisanale de Saran, société active : son site ne publie aucune heure ; l'agence ne donne que celles
+  d'une buvette de plein air, pas d'une vente à emporter (règle 192). **Déblocage** : des heures de vente publiées par
+  la brasserie ;
+- un point de vente de fruits en bord de route à Ingré : aucune entité agricole active ne lui correspond au registre
+  (règle 6) ;
+- le marché d'Ingré : toujours sans point (règle 354) ; les marchés de Saint-Jean-de-la-Ruelle et de
+  La Chapelle-Saint-Mesmin : aucune famille écrite (règle 197) ; le marché d'Ormes : familles écrites par l'agence
+  seule, la Ville n'étant pas lue (règles 196 et 438). **Déblocage** : une seconde autorité pour Ormes, une famille
+  écrite pour les autres ;
+- un verger de Saint-Jean-de-Braye en vente saisonnière : l'entreprise individuelle de l'adresse est fermée au
+  registre (règle 6) ; une ferme biologique de la même commune : aucune heure, un portable seul (règle 192) ;
+- le magasin de réseau coopératif de Saran : non instruit, la zone étant faite.
+
+**Contradictions** (règle 5) : l'emplacement du marché de Saran (provisoire selon la Ville, habituel selon l'agence —
+la Ville, plus récente, est retenue et l'autre est écrite) ; le nombre de commerçants du marché de Lamballe (cinquante
+ou soixante-dix, les deux écrits) ; l'adresse du groupement fruitier (règle 443). **Fiches écartées pour doute sur une
+personne ou une donnée personnelle** : deux — une exploitation maraîchère à Semoy et une à Saran, inscrites sous des
+noms de personnes, non instruites. Elles ne se rouvrent pas.
+
+**Points d'arrêt** : dans le **Loiret**, la descente relue par la règle 432 s'arrête à **Saran** ; la commune
+suivante à relire est **Saint-Jean-de-la-Ruelle** (16 768), puis Montargis, Amilly et Gien, dont les marchés étaient
+arrêtés par l'image ; les fiches désignées de Saint-Hilaire-Saint-Mesmin, de Châlette-sur-Loing, de
+Châteauneuf-sur-Loire, de Jargeau, de Fay-aux-Loges, de Chaingy, d'Ouzouer-sur-Loire, de Poilly-lez-Gien et de Gidy
+restent à reprendre d'abord. Après la passe, sur 1 172 fiches : Ain 6,55, Oise 6,11, Lot-et-Garonne 5,67, Somme 5,61,
+Loir-et-Cher 5,58 ; le Loiret retombe à 1,75. La région de cette passe est le Centre-Val de Loire (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante-troisième) : Vire Normandie et Souleuvre en Bocage (Calvados), cinq fiches ; le département se rouvre par la règle 432 ; règles 440 et 441
 

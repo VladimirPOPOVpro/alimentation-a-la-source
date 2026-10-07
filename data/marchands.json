@@ -30890,5 +30890,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EARL%20des%204%20saisons%2C%203%20chemin%20la%20Grande%20Blanqui%C3%A8re%2C%2014350%20Souleuvre%20en%20Bocage",
     "image_url": "/images/marchands/earl-des-4-saisons-souleuvre-en-bocage.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-bourg-saran",
+    "nom": "Marché du Bourg de Saran",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.950674,
+    "lon": 1.874853,
+    "adresse": "Rue du Docteur Payen, 45770 Saran",
+    "horaires": "Mercredi et samedi de 7h30 à 13h, d'après la Ville de Saran (page mise à jour le 5 février 2026). L'agence départementale Tourisme Loiret donne les mêmes heures pour le mercredi.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poisson",
+      "Boucherie",
+      "Crêpes"
+    ],
+    "description": "Petit marché alimentaire du bourg de Saran. La Ville écrit, étal par étal, un primeur, un fromager, un poissonnier et un boucher le mercredi, et un primeur le samedi, rejoint un samedi sur deux par un fromager. Depuis le 24 septembre 2025 et pendant les travaux du Bourg, il se tient rue du Docteur Payen, sur le parking entre la salle des fêtes et l'école maternelle ; l'agence départementale le situe encore à son emplacement habituel, rue de la Fontaine, à deux cents mètres. Voie géocodée par la Base Adresse Nationale. Photo : vue aérienne de la salle des fêtes et du parking de la rue du Docteur Payen, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Bourg%20de%20Saran%2C%20Rue%20du%20Docteur%20Payen%2C%2045770%20Saran",
+    "image_url": "/images/marchands/marche-du-bourg-saran.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-fruits-de-montaran-saran",
+    "nom": "Les Fruits de Montaran",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.94612,
+    "lon": 1.909868,
+    "adresse": "1502 rue de Montaran, 45770 Saran",
+    "horaires": "Du lundi au vendredi de 9h30 à 12h30 et de 14h30 à 18h30, le samedi de 9h à 12h, toute l'année, d'après l'agence départementale Tourisme Loiret.",
+    "produits": [
+      "Pommes",
+      "Poires",
+      "Cerises",
+      "Fraises",
+      "Tomates",
+      "Jus de fruits",
+      "Fromages",
+      "Viandes"
+    ],
+    "description": "Magasin d'une exploitation fruitière installée à Saran depuis 1988 : elle y vend ses pommes, ses poires, ses cerises, ses fraises et ses jus, complétés par des fromages, des viandes, des conserves et des vins d'autres producteurs, surtout locaux, d'après l'agence départementale. Société active au registre des entreprises à cette adresse, en culture de fruits ; l'annuaire de la Ville de Saran donne la même adresse et le même téléphone. Les heures ne viennent que de la fiche de l'agence, qui n'est pas datée ; le magasin n'a pas de site propre. Photo : vue aérienne des abords du 1502 rue de Montaran — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 38 81 82 64",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Fruits%20de%20Montaran%2C%201502%20rue%20de%20Montaran%2C%2045770%20Saran",
+    "image_url": "/images/marchands/les-fruits-de-montaran-saran.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-lamballe-fleury-les-aubrais",
+    "nom": "Marché de Lamballe",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.925306,
+    "lon": 1.920149,
+    "adresse": "Boulevard de Lamballe, 45400 Fleury-les-Aubrais",
+    "horaires": "Dimanche de 8h à 13h, d'après la Ville de Fleury-les-Aubrais et l'agence départementale Tourisme Loiret.",
+    "produits": [
+      "Fruits de producteurs locaux",
+      "Jus de fruits",
+      "Confitures",
+      "Plats de traiteurs",
+      "Fleurs"
+    ],
+    "description": "Marché du dimanche matin, boulevard de Lamballe et rue Beethoven, au pied du tramway (ligne A, arrêt Lamballe). La Ville y compte une cinquantaine de commerçants, essentiellement alimentaires, l'agence départementale soixante-dix en moyenne : les deux chiffres sont donnés tels quels. L'agence y écrit des producteurs locaux, des traiteurs et des fleuristes, à côté d'étals de prêt-à-porter, et y signale l'étal d'une exploitation fruitière de la commune ; aucune source ne détaille davantage les étals. Voie géocodée par la Base Adresse Nationale. Photo : vue aérienne du boulevard de Lamballe et du parc voisin, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Lamballe%2C%20Boulevard%20de%20Lamballe%2C%2045400%20Fleury-les-Aubrais",
+    "image_url": "/images/marchands/marche-de-lamballe-fleury-les-aubrais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "gaec-les-sapins-fleury-les-aubrais",
+    "nom": "GAEC Les Sapins",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.933792,
+    "lon": 1.917686,
+    "adresse": "49 avenue d'Oradour-sur-Glane, 45400 Fleury-les-Aubrais",
+    "horaires": "Vente sur l'exploitation du lundi au samedi de 17h30 à 20h, toute l'année, d'après l'agence départementale Tourisme Loiret. L'exploitation tient aussi un étal au marché de Lamballe, le dimanche matin.",
+    "produits": [
+      "Pommes",
+      "Cerises",
+      "Fraises",
+      "Framboises",
+      "Jus de fruits",
+      "Confitures"
+    ],
+    "description": "Exploitation fruitière fondée en 1977 à Fleury-les-Aubrais, en pleine agglomération orléanaise, qui vend sur place ses pommes, ses cerises, ses fraises, ses framboises, ses jus et ses confitures. Groupement agricole actif au registre des entreprises au 49 avenue d'Oradour-sur-Glane ; l'agence départementale écrit le 198 rue Marcellin-Berthelot, à soixante mètres, à l'angle des deux voies : c'est l'adresse du registre qui est publiée. Les heures ne viennent que de la fiche de l'agence, qui n'est pas datée ; l'exploitation n'a pas de site. Photo : vue aérienne du carrefour de l'avenue d'Oradour-sur-Glane et de la rue Marcellin-Berthelot — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 38 61 46 74",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GAEC%20Les%20Sapins%2C%2049%20avenue%20d'Oradour-sur-Glane%2C%2045400%20Fleury-les-Aubrais",
+    "image_url": "/images/marchands/gaec-les-sapins-fleury-les-aubrais.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-vergers-de-charbonniere-saint-jean-de-braye",
+    "nom": "Les Vergers de Charbonnière",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.924934,
+    "lon": 1.973056,
+    "adresse": "259 rue de Charbonnière, 45800 Saint-Jean-de-Braye",
+    "horaires": "Magasin de l'exploitation ouvert le mardi, le mercredi et le vendredi de 14h à 18h30, toute l'année, d'après l'agence départementale Tourisme Loiret.",
+    "produits": [
+      "Pommes",
+      "Poires",
+      "Cerises",
+      "Pêches et abricots",
+      "Fraises et framboises",
+      "Jus de pommes",
+      "Tomates",
+      "Asperges"
+    ],
+    "description": "Verger et maraîchage de Saint-Jean-de-Braye, en bordure de la tangentielle d'Orléans, dont le magasin est au cœur de l'exploitation : fruits et légumes de saison en production raisonnée, d'après l'agence départementale, qui signale aussi ses étals sur des marchés d'Orléans et d'Olivet. Deux sociétés agricoles actives au registre des entreprises à cette adresse, en culture de fruits. Les heures ne viennent que de la fiche de l'agence, qui n'est pas datée. Photo : vue aérienne des serres et des bâtiments de l'exploitation — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 38 55 12 18",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Vergers%20de%20Charbonni%C3%A8re%2C%20259%20rue%20de%20Charbonni%C3%A8re%2C%2045800%20Saint-Jean-de-Braye",
+    "image_url": "/images/marchands/les-vergers-de-charbonniere-saint-jean-de-braye.jpg",
+    "a_confirmer": true
   }
 ]
