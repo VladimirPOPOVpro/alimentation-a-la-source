@@ -5601,9 +5601,28 @@ prioritaires en cas de conflit.
      Seine-et-Marne relues de Meaux à Lagny-sur-Marne — sans zone, trois fiches entières désignées — puis le
      département suivant du classement, l'Aube, où Troyes fait la passe.
 
+449. **Une page communale où un texte étranger a été injecté n'est pas une source, même pour les faits qu'elle écrit par
+     ailleurs.** Le 7 octobre 2026 (cent soixante-treizième passe), la page « Informations clients » du marché de la
+     Ville de Noisiel porte, à la suite des jours et des heures, un paragraphe publicitaire pour des jeux d'argent en
+     ligne, sans rapport avec la commune : quelqu'un d'autre que la Ville y a écrit. Le même jour, le nom de domaine que
+     l'office de tourisme attribue à un moulin de l'agglomération de Coulommiers répond par un refus géographique et
+     publie un plan de site fait d'adresses aléatoires — le piège de la note Santa Lucia. **Tranché ainsi** : une page
+     dont une partie n'est manifestement pas de son éditeur n'atteste rien, ni heure ni étal, tant que l'éditeur ne
+     l'a pas nettoyée ; ses faits se relisent ailleurs ou attendent. Un domaine détourné ne s'inscrit jamais en
+     `site_web`, mais il ne ferme pas la fiche quand le registre des entreprises et une autre source écrivent les
+     faits (règle 6). **Déblocage** : la page nettoyée. Ici : le marché de Noisiel attend ; le moulin est publié sans
+     site.
+
 ## Marchands à confirmer
 
-1075 fiches sur 1209 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1080 fiches sur 1214 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Coulommiers** et **Les Délices du Grand Champ** (Coulommiers), **Moulin de Chantemerle** (Aulnoy),
+  **Atelier du terroir de l'ESAT du Domaine Emmanuel** (Hautefeuille) et **Ferme de Moneuse** (Dagny) (passe du
+  7 octobre 2026, cent soixante-treizième, règles 96, 432, 448 et 449) : les cinq fiches portent une vue aérienne de
+  l'IGN, qui ne montre ni étal ni rayon ; les heures du moulin (fiche de 2024) et de l'atelier du terroir (fiche de
+  2025) ne sont écrites que par l'office de tourisme ; la composition des étals du marché n'est pas publiée ; la
+  ferme de Dagny est au numéro 2 de sa rue pour son site et pour le registre, au numéro 1 pour l'office, et ferme à
+  19h pour son site, à 18h l'hiver pour l'office.
 - **Marché central des Halles** et **Passion Paysanne** (Troyes), **Marché de Sainte-Savine**, **Les Maraîchers des
   Viennes** (Saint-André-les-Vergers) et **Cueillette de Troyes L'Espérance** (Villechétif) (passe du 7 octobre 2026,
   cent soixante-douzième, règles 96, 432 et 448) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni
@@ -13339,6 +13358,137 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées en Seine-et-Marne relue (d'Ozoir-la-Ferrière à Coulommiers)
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante-treizième), avec le déblocage de chacune.
+
+- **Meaux** et **Melun** (règle 406) : le site de la Ville de Meaux répond 418 à l'agent par défaut, celui de Melun
+  sert toujours sa page de vérification, `robots.txt` compris ; ils ne sont pas lus (règle 425.b). **Déblocage** : le
+  retour des sites.
+- **Ozoir-la-Ferrière, marché de la place Horizon** (mercredi et samedi matin) : la Ville l'écrit « alimentaire et
+  vestimentaire », « offre qualitative et diversifiée », sans une famille de produits (règle 197), et donne deux
+  heures d'ouverture sur la même page, 8h dans le texte et 9h dans l'encadré. Aucun producteur de la commune au
+  registre de l'Agence Bio hors un commerce généraliste. **Déblocage** : une famille écrite.
+- **Mitry-Mory, marché de Mitry-le-Neuf** (samedi de 8h30 à 13h, rue de la Commune-de-Paris, page de la Ville du
+  24 mars 2026) : « marché alimentaire », « produits frais » — seul marché de la liste, donc sans la nature triée
+  de la règle 221, et sans famille (règle 197). Aucun second point : ni AMAP ni ferme sur le site de la Ville.
+- **Le Mée-sur-Seine, marché de la Croix-Blanche** (mardi et vendredi de 10h à 18h, familles écrites) : la seule
+  page de la Ville est l'annonce d'un marché « provisoire » de septembre 2023 ; rien de daté depuis ne dit qu'il se
+  tient encore. **Déblocage** : une page de l'année.
+- **Brie-Comte-Robert, marché de la place du Marché** (mardi, vendredi et dimanche de 8h à 13h, Ville) : « plus de
+  80 commerçants », « grande variété de produits », aucune famille (règle 197). **Déblocage** : une famille écrite.
+- **Brie-Comte-Robert, épicerie de vrac de la place du Marché** : heures sur l'annuaire de la Ville, mais aucun
+  établissement ouvert au registre des entreprises (règle 6). **Magasin biologique de réseau** : non instruit
+  (règles 86 et 149). **Marché des producteurs** : une date unique, en mai 2025.
+- **Chevry-Cossigny, magasin biologique d'un verger** : société active au registre à l'adresse du verger, mais son
+  enseigne est celle d'un réseau dont le site ne se lit pas (règle 149) et aucune autre source n'écrit ses heures
+  (règle 192). **Déblocage** : une page du magasin ou de la commune avec ses heures. **Servon** et
+  **Varennes-Jarcy** : aucun point de vente sur les sites des communes.
+- **Moissy-Cramayel, ferme maraîchère municipale** : elle approvisionne la restauration scolaire, sans vente au
+  public. Aucune AMAP sur le site de la Ville.
+- **Noisiel, marché du Luzard** (mercredi et vendredi de 15h à 19h, dimanche de 8h à 13h) : la Ville le décrit
+  d'abord par ses étals non alimentaires, et sa page porte un paragraphe publicitaire étranger (règle 449).
+  **Déblocage** : la page nettoyée, et un décompte des étals (règle 119).
+- **Coulommiers, fromagerie de la place du Marché** (producteur de fromages, société active au registre) :
+  « tous les jours » à l'office de tourisme, sans une heure, et le nom de domaine à son enseigne est à vendre
+  (règle 192). **Déblocage** : des heures écrites. **Marché du jeudi à Vaux** (8h30 à 13h, place Île-de-France) :
+  « produits frais », aucune famille (règle 197). **Marchés nocturnes de la Halle aux Fromages** : saison close
+  (premiers vendredis de mai à septembre).
+- **Agglomération de Coulommiers, fiches de l'office de tourisme non retenues** : une brasserie de
+  Dammartin-sur-Tigeaux (« tous les jours », site en refonte, règle 192) ; un producteur de cidre et de jus de
+  Guérard et un domaine viticole de Beautheil-Saints, sur rendez-vous seulement ; un domaine viticole de Guérard,
+  ouvert « à partir de 8h » pour des visites payantes, sans heures de vente ; une ferme de légumes de
+  Dammartin-sur-Tigeaux et un élevage de Guérard sans heures ; une boulangerie de Mouroux aux heures
+  contradictoires dans la même fiche ; une chèvrerie de Pommeuse aux heures écrites en 2026 mais introuvable au
+  registre des entreprises sous son enseigne (règle 6). **Déblocage** : pour chacune, la pièce qui manque.
+- **Écartées pour doute sur une personne** : quatre fiches de l'office dont l'enseigne porte un nom de famille
+  (une fromagerie, un producteur de cidre et deux fermes) ; elles ne se rouvrent pas.
+
+### Passe du 7 octobre 2026 (cent soixante-treizième) : Coulommiers, Aulnoy, Hautefeuille et Dagny (Seine-et-Marne), cinq fiches dans Coulommiers Pays de Brie ; la relecture de la règle 448 rend sa zone à la sixième commune ; règle 449
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 214
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 209 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Seine-et-Marne (77) 5,74**,
+20 fiches, ouverte — la passe précédente a publié dans le Grand Est (règle 41.c) ; puis Pas-de-Calais 5,56, Mayenne
+5,36, Cher 5,24. `git fetch` fait avant le calcul et avant l'écriture : `origin/main` n'a pas bougé.
+
+**Contrôles d'abord (règle 406)** : Meaux et Melun refusent toujours l'agent par défaut ; ils ne sont pas lus. Les
+trois fiches désignées le matin même (l'AMAP de Dammarie-lès-Lys, la brasserie de Boissise-la-Bertrand, le marché de
+Roissy-en-Brie) restent désignées : rien ne les réunit encore en zone.
+
+**Relecture de la règle 448, reprise à Ozoir-la-Ferrière**, sous l'agent par défaut, `robots.txt` d'abord (règle 425),
+registre de l'Agence Bio relu en entier sur le département (926 opérateurs) :
+
+1. **Ozoir-la-Ferrière** (21 238) — un marché sans famille de produits. **Zéro.**
+2. **Mitry-Mory** (20 456) — un marché sans famille de produits. **Zéro.**
+3. **Le Mée-sur-Seine** (19 527) — un marché que rien de daté n'atteste depuis 2023. **Zéro.**
+4. **Brie-Comte-Robert** (19 003) — **deux fiches entières** : la boutique de la ferme du lycée agricole (jeudi et
+   vendredi de 14h à 19h, samedi de 10h à 13h et de 14h à 18h, sur la page du campus modifiée le 10 septembre 2026,
+   mêmes heures à la Ville ; légumes biologiques, bœuf, porc, miel ; établissement public actif au registre) et
+   l'AMAP du jeudi (retrait de 19h à 20h à la ferme de la rue du Général-Leclerc d'après son site, qui publie ses
+   contrats 2026-2027 ; annonce de la commune de Servon du 15 septembre 2026). L'Orée de la Brie ne complète pas :
+   ni Chevry-Cossigny, ni Servon, ni Varennes-Jarcy ne rendent un troisième point (pistes ci-dessus). Règle 258 :
+   les deux fiches sont **désignées pour la reprise**. **Deux.**
+5. **Moissy-Cramayel** (18 511) — **une fiche entière**, le marché de la place Simone-Veil (mercredi de 9h à 13h,
+   samedi de 9h à 14h, page de la Ville mise à jour le 1er octobre 2026 ; primeur, œufs biologiques, poissonnerie,
+   fromagers, traiteurs — dix étals alimentaires parmi les commerçants abonnés, les étals non alimentaires ne
+   venant que « selon les jours », règle 119) ; pas de second
+   point. **Désignée pour la reprise. Une.**
+6. **Coulommiers** (16 374) — **deux fiches entières, et l'agglomération complète le groupe (règles 96 et 127) :
+   elle fait la passe.**
+
+Noisiel (16 053), lue dans le même mouvement que Moissy-Cramayel et Coulommiers, compte comme éprouvée (règle 406) :
+**zéro**, par la règle 449.
+
+**Coulommiers fait la passe.** La commune n'avait aucune fiche ; son agglomération en comptait déjà cinq, publiées
+depuis Jouarre le 26 septembre (Jouarre, Ussy-sur-Marne, Chailly-en-Brie, Mouroux), dont aucune n'est reprise ici.
+Faits relus dans la passe (règle 446) : la Ville de Coulommiers, l'office de tourisme Coulommiers Pays de Brie (faits
+seulement), les sites de la boulangerie, de la ferme de Dagny et de l'association gestionnaire de l'ESAT, le registre
+des entreprises et celui de l'Agence Bio. Distances prises depuis la mairie de Coulommiers (annuaire de
+l'administration, règle 363) ; les quatre communes ont le même champ `epci`, CA Coulommiers Pays de Brie.
+
+1. **Marché de Coulommiers** — mercredi et dimanche de 8h à 13h, sous la Halle aux Fromages et sur la place du
+   Marché ; « producteurs locaux (fromages, légumes…) » sur la page de la Ville (règle 197) ; mêmes jours et heures à
+   l'office. BAN à la place (0,965). À 0,3 km.
+2. **Les Délices du Grand Champ** (Coulommiers) — boulangerie biologique d'une ferme céréalière et de son moulin ;
+   heures jour par jour sur son site (page modifiée en mars 2026) ; société active au registre à l'adresse depuis
+   2023, certificat engagé à l'Agence Bio. BAN au numéro (0,963). À 1,3 km.
+3. **Moulin de Chantemerle** (Aulnoy) — farines des céréales de la ferme, vente le vendredi et le samedi matin
+   d'après l'office (fiche de 2024, seul écrit) ; société de meunerie active au registre depuis 2004. Domaine
+   détourné, non inscrit (règle 449). BAN au lieu-dit (0,936). À 3,6 km.
+4. **Atelier du terroir de l'ESAT du Domaine Emmanuel** (Hautefeuille) — miel et jus de pommes, production écrite
+   par l'association gestionnaire, heures de vente à l'office (fiche de 2025, seul écrit) ; établissement actif au
+   registre. BAN au numéro (0,943). À 10,1 km.
+5. **Ferme de Moneuse** (Dagny) — porc fermier et charcuteries transformés sur place ; heures sur son site, tenu à
+   jour (annonce d'octobre 2026), fiche de l'office du 14 septembre 2026 ; société de vente active au registre ;
+   fixe publié par la ferme. BAN au numéro voisin (0,938). À 13,3 km.
+
+Aucune photographie n'a été reprise (règle 432 : la vue aérienne suffit à une fiche aux faits entiers ; l'office ne
+sert que pour les faits, règle 246). Les cinq images sont des vues aériennes de l'IGN (1 280 × 800), regardées une à
+une — ni personne reconnaissable, ni enseigne lisible ; on y voit la place du Marché, le bâtiment de la zone
+d'activités, la cour du moulin, l'entrée du domaine et les bâtiments de la ferme. Toutes partent en `a_confirmer`.
+`site_web` : la boulangerie, l'association gestionnaire de l'ESAT et la ferme, ouverts avant d'être inscrits. Les
+mobiles publiés ne sont pas inscrits.
+
+**Contradictions** (règle 5) : la ferme de Dagny est au numéro 2 de sa rue pour son site et le registre, au numéro 1
+pour l'office — la fiche écrit le 2 et le dit ; son site ferme à 19h toute l'année, l'office à 18h de novembre à
+mars — la fiche publie le site et cite l'office ; l'office et l'association donnent deux téléphones différents à
+l'ESAT — aucun n'est inscrit ; l'AMAP de Brie-Comte-Robert retire ses paniers de 19h à 20h pour son site, « entre
+18h30 et 19h30 » pour la commune voisine, de 18h30 à 20h pour la Ville (fiche de 2024) — à trancher par le site
+quand la fiche se publiera. **Fiches écartées pour doute sur une personne ou une donnée personnelle** : quatre,
+dans l'agglomération de Coulommiers (enseignes portant un nom de famille) ; les exploitations en nom propre des
+registres n'ont pas été instruites, et les noms d'exploitants, d'élus, de responsables d'association, de
+directeurs et les adresses électroniques que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la relecture de la règle 448 s'arrête à **Coulommiers** (Noisiel
+éprouvée) et reprend à **Saint-Fargeau-Ponthierry** (15 724), puis Fontainebleau ; à reprendre d'abord (règle 258) :
+les deux fiches de Brie-Comte-Robert, le marché de Moissy-Cramayel, l'AMAP de Dammarie-lès-Lys et la brasserie de
+Boissise-la-Bertrand (même agglomération), le marché de Roissy-en-Brie ; à contrôler d'abord (règle 406) : Meaux
+et Melun, sur le retour de leur site ; le point d'arrêt bas reste **Soignolles-en-Brie** (2 021). Après la passe, sur
+1 214 fiches : Pas-de-Calais 5,67, Mayenne 5,38, Cher 5,26, Seine-Saint-Denis 5,01, Gironde 4,76 ; la
+Seine-et-Marne retombe à 0,85. La région de cette passe est l'Île-de-France (règle 41.c) : la Seine-Saint-Denis est
+fermée à la prochaine passe, le Pas-de-Calais est ouvert.
 
 ### Pistes non publiées en Seine-et-Marne relue (de Meaux à Lagny-sur-Marne) et à Troyes
 

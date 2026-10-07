@@ -31970,5 +31970,128 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20Troyes%20L%27Esp%C3%A9rance%2C%20RD%20960%2C%2010410%20Villech%C3%A9tif",
     "image_url": "/images/marchands/cueillette-de-troyes-l-esperance-villechetif.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-coulommiers",
+    "nom": "Marché de Coulommiers",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.814555,
+    "lon": 3.084232,
+    "adresse": "Place du Marché, 77120 Coulommiers",
+    "horaires": "Mercredi et dimanche de 8h à 13h, d'après la Ville de Coulommiers ; l'office de tourisme Coulommiers Pays de Brie écrit les mêmes jours et les mêmes heures.",
+    "produits": [
+      "Fromages de producteurs locaux",
+      "Légumes de producteurs locaux"
+    ],
+    "description": "Marché du centre-ville, sous la Halle aux Fromages et sur la place du Marché, à 0,3 km de la mairie de Coulommiers : on y trouve les stands de producteurs locaux — fromages, légumes — et d'autres étals, d'après la Ville, qui l'organise et en écrit les jours et les heures. Le détail des étals n'est pas publié. Point : la place du Marché à la Base Adresse Nationale. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Coulommiers%2C%20Place%20du%20March%C3%A9%2C%2077120%20Coulommiers",
+    "image_url": "/images/marchands/marche-de-coulommiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-delices-du-grand-champ-coulommiers",
+    "nom": "Les Délices du Grand Champ",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.808238,
+    "lon": 3.101312,
+    "adresse": "7 Rue des Longs Sillons, 77120 Coulommiers",
+    "horaires": "Du mardi au vendredi de 7h30 à 19h, le samedi de 8h30 à 17h ; fermé le dimanche et le lundi, d'après le site de la boulangerie.",
+    "produits": [
+      "Pains biologiques au levain naturel",
+      "Farines de meule du moulin de la ferme",
+      "Viennoiseries",
+      "Pâtisseries",
+      "Produits de la ferme",
+      "Produits du terroir"
+    ],
+    "description": "Boulangerie biologique d'une ferme céréalière de Beautheil-Saints : le grain est cultivé sur l'exploitation, écrasé à la meule de pierre dans son moulin, puis panifié ici, dans la zone d'activités des Longs Sillons, à 1,3 km de la mairie de Coulommiers. Société active au registre des entreprises à cette adresse, certificat biologique engagé au registre de l'Agence Bio. Le moulin lui-même n'est pas ouvert au public. Le seul téléphone publié est un mobile : il n'est pas inscrit. Photo : vue aérienne de la zone d'activités, qui ne montre pas la boutique — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://delicesgrandchamp.fr/boulangerie-bio-coulommiers/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20D%C3%A9lices%20du%20Grand%20Champ%2C%207%20Rue%20des%20Longs%20Sillons%2C%2077120%20Coulommiers",
+    "image_url": "/images/marchands/les-delices-du-grand-champ-coulommiers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "moulin-de-chantemerle-aulnoy",
+    "nom": "Moulin de Chantemerle",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.840284,
+    "lon": 3.109027,
+    "adresse": "Chantemerle, 77120 Aulnoy",
+    "horaires": "Vente à la ferme le vendredi de 9h à 19h et le samedi de 9h à 13h, d'après l'office de tourisme Coulommiers Pays de Brie, seul à écrire ces heures (fiche du 21 juin 2024) : à confirmer avant de se déplacer.",
+    "produits": [
+      "Farine de grand épeautre",
+      "Farine de sarrasin",
+      "Farine de seigle",
+      "Farines de blé",
+      "Sablés"
+    ],
+    "description": "Moulin à meules de pierre installé dans une ferme céréalière du hameau de Chantemerle, à 3,6 km de la mairie de Coulommiers et dans la même communauté d'agglomération : il ne transforme que les céréales de l'exploitation et vend ses farines sur place, d'après l'office de tourisme. Société de meunerie active au registre des entreprises à cette adresse depuis 2004. Le nom de domaine que l'office lui attribue ne sert plus le site du moulin : il n'est pas inscrit, pas plus que le mobile publié. Point : le lieu-dit à la Base Adresse Nationale. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Moulin%20de%20Chantemerle%2C%20Chantemerle%2C%2077120%20Aulnoy",
+    "image_url": "/images/marchands/moulin-de-chantemerle-aulnoy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "atelier-du-terroir-du-domaine-emmanuel-hautefeuille",
+    "nom": "Atelier du terroir de l'ESAT du Domaine Emmanuel",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.763083,
+    "lon": 2.968907,
+    "adresse": "7 Route de Pézarches, 77515 Hautefeuille",
+    "horaires": "Vente sur place du lundi au jeudi de 8h30 à 12h et de 13h30 à 16h30, le vendredi de 8h30 à 12h, d'après l'office de tourisme Coulommiers Pays de Brie, seul à écrire ces heures (fiche du 7 février 2025).",
+    "produits": [
+      "Miel",
+      "Jus de pommes de la Brie"
+    ],
+    "description": "Établissement d'aide par le travail dont l'atelier du terroir produit du miel — cent vingt ruches — et du jus de pommes de la Brie, d'après le site de l'association qui le gère ; les travailleurs en situation de handicap y sont formés et accompagnés par des professionnels. À 10,1 km de la mairie de Coulommiers, dans la même communauté d'agglomération. Établissement actif au registre des entreprises à cette adresse. L'office et l'association publient deux numéros de téléphone différents : aucun n'est inscrit. Photo : vue aérienne de l'entrée du domaine — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.aede.fr/etablissement/esat-du-domaine-emmanuel",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20du%20terroir%20de%20l%27ESAT%20du%20Domaine%20Emmanuel%2C%207%20Route%20de%20P%C3%A9zarches%2C%2077515%20Hautefeuille",
+    "image_url": "/images/marchands/atelier-du-terroir-du-domaine-emmanuel-hautefeuille.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-moneuse-dagny",
+    "nom": "Ferme de Moneuse",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.712427,
+    "lon": 3.185109,
+    "adresse": "2 Rue des Prés de Moneuse, 77320 Dagny",
+    "horaires": "Magasin à la ferme du lundi au samedi de 9h à 12h30 et de 14h30 à 19h ; fermé le dimanche, d'après le site de la ferme. L'office de tourisme Coulommiers Pays de Brie (fiche du 14 septembre 2026) écrit une fermeture à 18h de novembre à mars.",
+    "produits": [
+      "Viande de porc fermier",
+      "Charcuteries fermières",
+      "Boudin noir",
+      "Andouillettes",
+      "Pâtés",
+      "Produits laitiers de fermes voisines"
+    ],
+    "description": "Ferme d'élevage de porcs nourris avec les céréales de l'exploitation, qui transforme sur place sa viande en charcuteries et les vend dans son magasin, avec les produits laitiers d'autres fermes. À 13,3 km de la mairie de Coulommiers, dans la même communauté d'agglomération. Société de vente active au registre des entreprises à cette adresse. Le site de la ferme et le registre écrivent le numéro 2 de la rue, l'office de tourisme le numéro 1, où tombe le point de la Base Adresse Nationale. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "01 64 04 61 26",
+    "site_web": "https://ferme-moneuse.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20de%20Moneuse%2C%202%20Rue%20des%20Pr%C3%A9s%20de%20Moneuse%2C%2077320%20Dagny",
+    "image_url": "/images/marchands/ferme-de-moneuse-dagny.jpg",
+    "a_confirmer": true
   }
 ]
