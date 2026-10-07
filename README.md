@@ -12999,6 +12999,109 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 7 octobre 2026 (cent cinquante-cinquième) : Seine-et-Marne et Meurthe-et-Moselle, aucune publication ; Jarny rend une fiche entière, image comprise
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée** : 1 130
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 130 fiches), outre-mer écarté (règle
+177), relu depuis le premier rang (règle 410) : il est celui de la passe précédente, rien n'ayant été publié (règle 260) —
+les seize départements écrits épuisés, du Val-d'Oise 11,00 à la Haute-Saône 3,82 ; Val-de-Marne 4,38, descente terminée ;
+**Seine-et-Marne (77) 4,06**, premier ouvert, deux communes (règle 426) ; **Meurthe-et-Moselle (54) 3,00**, second, borne de
+douze (règle 247), la réserve de la règle 41.c restant sur l'Occitanie. `git fetch` fait avant l'écriture : `origin/main`
+n'a pas bougé.
+
+**Seine-et-Marne (règle 426, deux communes).** **Perthes** (2 073) : la commune écrit un marché « tous les vendredis le
+matin sur le mail », sans heure ni famille de produits (règles 192 et 197). Zéro. **Couilly-Pont-aux-Dames** (2 064) : aucun
+marché publié ; un document de la commune annonce une vente de produits fermiers, seul point possible, non instruit puisque
+la commune n'en rend pas deux. Zéro.
+
+**Meurthe-et-Moselle, descente reprise après Essey-lès-Nancy (règles 247, 127 et 406) : douze communes, aucune zone.**
+Tomblaine, à contrôler d'abord, répond encore 403 à l'agent par défaut, `robots.txt` compris (règle 425) : non lue.
+
+- **Val de Briey** (8 130) : le site de la Ville ne publie aucun marché hebdomadaire ; l'office intercommunal n'en donne
+  qu'une affiche (samedi matin, avenue du Roi de Rome), sans heure ni famille (règles 192 et 197). Zéro.
+- **Jarny** (8 050) : **une fiche entière, image comprise — le marché fermier du mardi** (16h-19h, place Génot ; viandes,
+  produits laitiers, miel, fruits et légumes, pâtisseries, écrits par la Ville ; jour et heures recoupés par l'affiche de
+  l'office intercommunal). Les mentions légales de la Ville n'ont aucune clause de propriété intellectuelle, son `robots.txt`
+  n'exclut personne, et sa photographie du marché (5 798 px) se recadre sans personne reconnaissable. Le marché du samedi
+  (8h-12h, même place) n'a aucune famille alimentaire écrite (règle 197). L'AMAP de la commune (association active au
+  registre) a un site resté à 2019, et deux annuaires se contredisent sur son lieu de distribution — une salle municipale de
+  Jarny le vendredi soir pour l'un, une zone d'activités de Labry pour l'autre (règle 5) : rien n'en est publié. Un jardin
+  maraîcher de la commune, cité comme étal par la mairie voisine, ne publie aucune heure de vente (règle 192) ; la
+  boulangerie certifiée du registre biologique n'a pas de site. L'application d'annuaire de la Ville répond 403 (règle 425).
+  **Une seule fiche entière : la règle 127 n'est pas remplie.**
+- **Conflans-en-Jarnisy** (2 389, même intercommunalité, 2,8 km de Jarny), lue au titre de la règle 96 : **faits entiers
+  pour le marché des producteurs locaux du jeudi** (15h30-18h30, place de la Paix ; fruits et légumes de saison, produits
+  laitiers, viande et charcuterie, pâtes artisanales, huîtres en hiver, crêpes). Les mentions de la commune nomment les
+  « images animées ou non » (règles 231 et 246) : aucune image du lieu.
+- **Malzéville** (7 820) : **faits entiers pour le marché du mercredi** (16h-20h, place de la Rivière ; maraîcher local et
+  bio, rôtisseur, traiteurs, épicier, boulanger, caviste). Les mentions de la Ville nomment les photographies et ne
+  permettent qu'une copie privée (règles 231 et 296). Le jardin d'insertion biologique de la commune tient une boutique
+  ouverte à tous, mais ses mentions légales interdisent « toutes requêtes automatisées ou semi automatisées des données
+  publiées » et nomment les photographies (règles 333 et 414) : le site n'est une source ni pour les faits ni pour l'image, et
+  ce qui en a été lu avant la clause ne nourrit aucune fiche (règle 252). Le fournil biologique de la commune ne vend pas sur
+  place. Aucune image : zéro fiche entière.
+- **Saint-Nicolas-de-Port** (7 359) : les mentions de la Ville réservent tout usage du site à « l'usage personnel et privé »
+  (règles 296 et 416) : ni faits ni images. Zéro.
+- **Laneuveville-devant-Nancy** (6 630) : un marché des produits locaux les premier et troisième mercredis du mois ; les
+  mentions nomment les images (règle 231). Zéro fiche entière.
+- **Champigneulles** (6 551) : aucun marché publié ; la reproduction des photographies est réservée à l'usage privé (règle
+  246). Zéro.
+- **Neuves-Maisons** (6 524) : aucune clause sur les images. La Ville écrit un marché de producteurs locaux le premier
+  samedi du mois (8h-12h, sous le marché couvert) sans autre famille que des « produits de terroir » (règle 197), et ne
+  décrit pas son marché municipal hebdomadaire (règle 192). Zéro fiche entière.
+- **Frouard** (6 444) : **faits entiers pour le marché dominical** (dimanche 8h30-12h30, parking du 35 rue de Metz ; fruits,
+  légumes, fleurs, chocolats, poulets rôtis). Les mentions nomment les « images animées ou non » et interdisent tout lien
+  vers le site (règles 231 et 246). Aucune image : zéro fiche entière.
+- **Jœuf** (6 392) : le site de la Ville ne publie aucun marché hebdomadaire. Zéro.
+- **Homécourt** (6 254) : le site de la Ville ne publie aucun marché ; l'office intercommunal en donne une affiche (mercredi
+  16h-19h, parking de la gare), sans famille écrite (règle 197). Zéro.
+- **Ludres** (5 843) : la Ville décrit son marché du samedi (7h-13h, place Ferri de Ludre) étal par étal, mais ses mentions
+  écrivent que « toute réutilisation des contenus à d'autres fins n'est pas autorisée » (règle 416) : ni faits ni images.
+  Zéro.
+- **Liverdun** (5 580) : **faits entiers pour deux commerces** — la boutique de la biscuiterie de la place de la Gare
+  (ouverte tous les jours, 9h-12h et 14h-18h, heures publiées par la société) et la micro-ferme biologique de la route de
+  Frouard (société coopérative ; mercredi 15h-18h30, samedi 9h30-12h30 ; fruits et légumes bio, boutique de producteurs
+  locaux). Les mentions légales de l'une et de l'autre nomment les images et en interdisent la reproduction (règle 231) ;
+  la Ville ne permet qu'un usage personnel (règle 296). Aucune image : zéro fiche entière.
+
+**Pourquoi rien n'est publié.** Jarny est la seule commune des douze à rendre une fiche avec l'image de son propre lieu,
+et elle n'en rend qu'une : la règle 127 en demande deux dans la commune, la règle 431 trois, et les deux marchés de
+producteurs de Jarny et de Conflans-en-Jarnisy, à 2,8 km l'un de l'autre, ne font que deux points quand la zone commence à
+quatre (règles 52, 258 et 320). Les autres communes ont des faits et aucune image permise. Une passe qui ne trouve sa zone
+dans aucun de ses deux départements ne publie rien (règle 248). Le constat se répète d'une passe à l'autre dans ce
+département : neuf fiches aux faits entiers y attendent désormais, huit d'entre elles arrêtées par la seule image.
+
+**Contradictions** : une, sur le lieu de distribution de l'AMAP de Jarny (deux annuaires) ; tranchée par la règle 5, rien
+n'est publié de cette fiche tant qu'une source datée ne donne pas le lieu. **Fiches écartées pour doute sur une personne** :
+trois, à Jarny — trois exploitations du registre biologique immatriculées sous un patronyme, sans enseigne. Non instruites
+au-delà, elles ne se rouvrent pas. Aucun nom lu dans les registres, les mentions légales et les listes d'étals n'est repris.
+
+**Pistes non publiées (Meurthe-et-Moselle)** — lignes anonymes :
+
+- Jarny, marché fermier du mardi : **désigné pour la reprise**, faits et image entiers. **Déblocage** : une seconde fiche
+  entière à Jarny et une zone de quatre points dans son intercommunalité.
+- Conflans-en-Jarnisy, marché des producteurs du jeudi : **désigné pour la reprise**. **Déblocage** : la zone de Jarny,
+  dont la Ville peut alors prêter une photographie thématique (règle 272).
+- Jarny, marché du samedi : **Déblocage** : une famille alimentaire écrite par la Ville ou par l'office.
+- Jarny, AMAP : **Déblocage** : son lieu et son heure de distribution publiés par elle-même, par la Ville ou par le réseau
+  régional, avec une date.
+- Jarny, jardin maraîcher : **Déblocage** : ses heures de vente publiées par une autorité lisible.
+- Malzéville, marché du mercredi : **désigné pour la reprise**. **Déblocage** : une image permise, ou un commerce de la
+  métropole publié dans la même passe qui prête la sienne (règles 312 et 422).
+- Malzéville, boutique du jardin d'insertion : **Déblocage** : ses heures publiées par une autorité lisible, et une image.
+- Liverdun, boutique de la biscuiterie et micro-ferme biologique : **désignées pour la reprise**. **Déblocage** : une
+  autorisation écrite pour l'image, ou une photographie permise dans le Bassin de Pompey.
+- Frouard, marché dominical : **désigné pour la reprise**, même déblocage que Liverdun (même intercommunalité).
+- Neuves-Maisons, marché de producteurs du premier samedi : **Déblocage** : ses familles de produits écrites par la Ville.
+
+**Points d'arrêt** : en **Seine-et-Marne**, point d'arrêt **Couilly-Pont-aux-Dames** ; la commune suivante est
+**Ozouer-le-Voulgis** (2 050), puis Juilly (2 036) (règle 426) ; après Soignolles-en-Brie (2 021) et Croissy-Beaubourg
+(2 018), la règle 265 fermera le département. En **Meurthe-et-Moselle**, point d'arrêt **Liverdun**. À contrôler d'abord
+(règle 406) : Tomblaine (9 117) ; à reprendre d'abord : les fiches désignées de Jarny, de Conflans-en-Jarnisy, de Malzéville,
+de Maxéville, d'Essey-lès-Nancy, de Liverdun et de Frouard ; la commune suivante est **Heillecourt** (5 414), puis Seichamps
+(5 165). Dans le **Lot**, la **Meuse**, le **Rhône**, en **Moselle**, dans les **Pyrénées-Orientales**, en
+**Ille-et-Vilaine**, dans la **Manche** et en **Haute-Corse**, inchangé.
+
 ### Passe du 7 octobre 2026 (cent cinquante-quatrième) : Seine-et-Marne et Meurthe-et-Moselle, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée** : 1 130
