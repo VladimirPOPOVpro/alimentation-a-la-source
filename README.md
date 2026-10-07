@@ -12999,6 +12999,86 @@ immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
 
+### Passe du 7 octobre 2026 (cent cinquante-quatrième) : Seine-et-Marne et Meurthe-et-Moselle, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée** : 1 130
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 130 fiches),
+outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : les seize départements écrits épuisés (règle 265), du
+Val-d'Oise 11,00 à la Haute-Saône 3,82 (Oise 9,60, Pas-de-Calais 8,89, Landes 7,11, Eure-et-Loir 7,10, Calvados 6,63, Loiret
+6,33, Ain 6,13, Lot-et-Garonne 5,47, Loir-et-Cher 5,38, Somme 5,27, Aube 5,09, Mayenne 5,01, Cher 4,89, Jura 4,23) ;
+Val-de-Marne 4,38, descente terminée ; **Seine-et-Marne (77) 4,06**, premier ouvert, deux communes (règle 426) ;
+**Meurthe-et-Moselle (54) 3,00**, second, borne de douze (règle 247), en Grand Est, rouvert puisque la passe précédente
+visait l'Occitanie. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé. Rien n'étant publié, le classement ne
+change pas (règle 260) et la réserve de la règle 41.c reste sur l'Occitanie. Suivent : Seine-Saint-Denis 2,93, Nord 2,86,
+Morbihan 2,84, Haute-Marne et Corse-du-Sud 2,76, Alpes-de-Haute-Provence 2,75.
+
+**Seine-et-Marne (règle 426, deux communes).** **Beautheil-Saints** (2 093) : l'annuaire communal ne porte aucun marché ;
+la seule vente à la ferme qu'il cite se fait sur rendez-vous, par un numéro de portable. Zéro. **Villiers-sur-Morin**
+(2 083) : annuaire des commerces « en construction », aucun marché publié. Zéro.
+
+**Meurthe-et-Moselle, descente reprise après Toul (règles 247 et 127) : douze communes, aucune zone.** Le constat est le
+même d'un bout à l'autre : les faits existent parfois, aucune image n'est permise.
+
+- **Longwy** (15 679) : le domaine au nom de la ville n'est pas le site officiel (l'annuaire de l'administration donne
+  l'autre). La Ville ne décrit son marché du samedi matin (8h-14h, place du centre de Longwy-Bas) que dans une actualité, sans
+  famille de produits (règle 197) ; ses mentions nomment les photographies et créditent une banque d'images (règles 231 et
+  360). Le magasin de producteurs de Lexy (société active au registre, certifiée) n'a pas de site. Zéro.
+- **Laxou** (14 771) : le site de la Ville ne publie aucun marché. L'épicerie associative en vrac inscrite au registre
+  biologique crédite ses photographies à un photographe (règle 70). Zéro.
+- **Villers-lès-Nancy** (14 718) : la Ville publie trois marchés avec jour, heures et lieu (mercredi 15h-19h, bio et local ;
+  samedi 8h-13h30 ; mardi 16h-19h), sans famille de produits précise (règle 197), et ses mentions nomment les photographies
+  (règle 231). Zéro fiche entière.
+- **Pont-à-Mousson** (14 190) : les mentions de la Ville réservent tout usage du site à « l'usage personnel et privé »
+  (règles 296 et 416) : ni faits ni images ; le `robots.txt` de l'intercommunalité exclut tous les robots (règle 77) ;
+  aucun site d'office trouvé. Zéro.
+- **Villerupt** (10 102) : aucun marché dans le plan du site ni dans la liste des commerçants. Zéro.
+- **Maxéville** (10 090) : **faits entiers pour le marché de producteurs du jeudi** (16h-19h, halle du site des Brasseries,
+  étals nommés par la Ville avec leurs familles : viande et charcuterie, volailles et œufs, fromages de chèvre, miel, légumes
+  et fruits bio, vins des côtes de Toul, bières bio, pâtes, confitures). Les mentions de la Ville nomment les photographies
+  (règle 231). La brasserie artisanale de l'avenue de la Meurthe (boutique du lundi au vendredi, 10h-16h30, société active
+  au registre) interdit par ses conditions toute reprise de ses images comme tout lien vers son site, et crédite un
+  photographe (règles 70 et 231). Aucune image : zéro fiche entière.
+- **Saint-Max** (9 913) : aucun marché publié ; mentions nommant les images. Zéro.
+- **Dombasle-sur-Meurthe** (9 424) : aucun marché publié ; mentions nommant les images. Zéro.
+- **Mont-Saint-Martin** (9 361) : marché du dimanche (8h-12h, familles écrites, surtout non alimentaires) et marché de
+  producteurs mensuel, sans heure ni famille (règles 192 et 197) ; mentions légales non lues, la commune ne rendant pas deux fiches. Zéro.
+- **Jarville-la-Malgrange** (9 356) : aucun marché publié ; reproduction réservée à l'usage personnel (règle 296). Zéro.
+- **Tomblaine** (9 117) : le site de la Ville répond 403 à l'agent par défaut, `robots.txt` compris (règle 425) : non lu.
+- **Essey-lès-Nancy** (8 670) : **faits entiers pour deux marchés** — le marché municipal du samedi (7h30-12h30, place de la
+  République ; maraîcher, volailler, rôtisserie) et le marché bio et solidaire du vendredi (15h30-18h30, quartier de Mouzimpré ;
+  légumes, fruits, pains, œufs, farine), tenu par une association d'insertion de Malzéville. La reproduction est soumise
+  à l'accord de la Ville, qui crédite une banque d'images (règles 231 et 360). Aucune image : zéro fiche entière.
+
+**L'office de tourisme métropolitain** sert désormais l'agent par défaut (règle 425) et fiche les marchés de toute la
+métropole ; mais ses mentions réservent la reproduction à l'usage privé et déclarent illicite « toute utilisation ou
+extraction d'éléments du site non autorisée » (règles 296 et 429) : ce qui y a été lu avant la clause ne nourrit aucune
+fiche (règle 252).
+
+**Pourquoi rien n'est publié.** Aucune des douze communes n'a deux fiches entières, image comprise (règle 127), et la règle
+431 ne joue pas : elle demande une fiche au lieu illustré dans la zone, et aucun commerce lu ne laisse ses images. Une passe
+qui ne trouve sa zone dans aucun de ses deux départements ne publie rien (règle 248).
+
+**Contradictions** : aucune sur un fait publié. **Fiches écartées pour doute sur une personne** : deux — à Laxou et à
+Villers-lès-Nancy, deux exploitations du registre biologique immatriculées sous un patronyme. Non instruites au-delà, elles
+ne se rouvrent pas. Aucun nom lu dans les registres, les mentions légales et les listes d'étals n'est repris.
+
+**Pistes non publiées (Meurthe-et-Moselle)** — lignes anonymes :
+
+- Maxéville, marché de producteurs du jeudi : **désigné pour la reprise**. **Déblocage** : une photographie permise, ou un
+  commerce de la métropole publié dans la même passe qui prête la sienne (règles 312 et 422).
+- Essey-lès-Nancy, marché du samedi et marché bio du vendredi : **désignés pour la reprise**, même déblocage.
+- Villers-lès-Nancy, marché bio du mercredi : **Déblocage** : ses familles de produits publiées par la Ville ou par une
+  autorité lisible, et une image.
+- Maxéville, brasserie artisanale avec boutique : **Déblocage** : une autorisation écrite pour l'image.
+- Lexy, magasin de producteurs : **Déblocage** : ses heures publiées par une autorité lisible.
+
+**Points d'arrêt** : en **Seine-et-Marne**, point d'arrêt **Villiers-sur-Morin** ; la commune suivante est **Perthes**
+(2 073), puis Couilly-Pont-aux-Dames (2 064) (règle 426) ; après Juilly (2 036) et les communes jusqu'à 2 000 habitants, la
+règle 265 fermera le département. En **Meurthe-et-Moselle**, point d'arrêt **Essey-lès-Nancy**. À contrôler d'abord (règle
+406) : Tomblaine (9 117) ; à reprendre d'abord : les fiches désignées de Maxéville et d'Essey-lès-Nancy ; la commune
+suivante est **Val de Briey** (8 130), puis Jarny (8 050). Dans le **Lot**, la **Meuse**, le **Rhône**, en **Moselle**,
+dans les **Pyrénées-Orientales**, en **Ille-et-Vilaine**, dans la **Manche** et en **Haute-Corse**, inchangé.
+
 ### Passe du 7 octobre 2026 (cent cinquante-troisième) : Cahors et Douelle, dans le Grand Cahors (Lot), quatre fiches ; Réau et Samois-sur-Seine sans zone ; règle 431
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 130
