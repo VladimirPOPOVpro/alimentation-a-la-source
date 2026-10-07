@@ -5527,7 +5527,12 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-1043 fiches sur 1177 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1047 fiches sur 1181 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché éco-citoyen de Creil** et **Graine d'AMAP** (Creil), **Ferme de l'Arbre à Poule** (Villers-Saint-Paul),
+  **Magasin de la Ferme de Folemprise** (Saint-Vaast-lès-Mello) (passe du 7 octobre 2026, cent soixante-sixième, règles
+  5, 320 et 432) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni magasin ; le marché
+  n'a qu'un rendez-vous par mois et son lieu est celui de la Ville (parvis de la Faïencerie), l'AMAP écrivant encore la
+  place Saint-Médard ; les heures de la ferme et du magasin sont celles de leurs sites, l'office en donnant d'autres.
 - **Marché du parc Jeantet** et **Marché de la Plaine** (Oyonnax), **Brin de Paille** (Arbent), **Les Glaces du
   Truchet** (Dortan), **Brasserie l'Étincelle** (Nantua) (passe du 7 octobre 2026, cent soixante-cinquième, règles 221
   et 432) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni magasin ; les produits des deux
@@ -13219,6 +13224,80 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-sixième) : Creil, Villers-Saint-Paul et Saint-Vaast-lès-Mello (Oise), quatre fiches dans Creil Sud Oise
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 181
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 177 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Oise (60) 6,17**, huit
+fiches (quatre autour de Beauvais, quatre autour de Compiègne), rouverte par la règle 432 depuis la cent
+cinquante-huitième passe ; puis Lot-et-Garonne 5,69, Somme 5,65, Loir-et-Cher 5,61, Val-de-Marne 5,36. La passe
+précédente visait l'Auvergne-Rhône-Alpes : les Hauts-de-France sont permis (règle 41.c). `git fetch` fait avant
+l'écriture : `origin/main` n'a pas bougé.
+
+**Descente reprise à Creil** (36 301), commune suivante écrite par le point d'arrêt de Compiègne, sous l'agent par
+défaut, `robots.txt` d'abord (règle 425) : ceux de la Ville de Creil, de l'office de tourisme Creil Sud Oise, de
+l'AMAP, de la ferme de Villers-Saint-Paul et du magasin de Saint-Vaast-lès-Mello n'excluent personne. Le site de
+l'agglomération répond 403 et celui de la Ville de Nogent-sur-Oise présente un défi : ni l'un ni l'autre n'est lu.
+Deux fiches aux faits entiers dans la commune (règle 127), complétées dans Creil Sud Oise (règle 96). Distances prises
+depuis la mairie de Creil.
+
+1. **Marché éco-citoyen de Creil** — premier jeudi du mois, 17h30-20h, parvis de la Faïencerie : page « Marchés et
+   foires » de la Ville, qui écrit ses familles (productions locales, agriculture biologique, commerce équitable) ;
+   l'office donne les mêmes heures, allée Nelson, « local et bio ». BAN à la voie (0,958). À 0,2 km.
+2. **Graine d'AMAP** (Creil) — jeudi 18h-19h30, place du 8 Mai 1945 : site de l'association, vivant (bulletin
+   d'adhésion 2026), et page de la Ville, aux mêmes heures. Le 23 septembre son hébergeur refusait l'agent nommé de la
+   règle 257 : il sert l'agent par défaut. BAN à la voie (0,963). À 0,1 km.
+3. **Ferme de l'Arbre à Poule** (Villers-Saint-Paul) — fiche désignée pour la reprise depuis le 23 septembre, relue ce
+   jour : mardi et vendredi 16h30-19h, samedi 10h-12h sur le site de la ferme ; société maraîchère et association
+   actives au registre à l'adresse. BAN au numéro (0,962). À 2,9 km.
+4. **Magasin de la Ferme de Folemprise** (Saint-Vaast-lès-Mello) — magasin fermier d'une ferme maraîchère biologique
+   de Rousseloy : heures et adresse sur son site, adresse et description chez l'office (article du 9 décembre 2025) ;
+   société agricole active au registre à Rousseloy, engagée au registre de l'Agence Bio. BAN au numéro (0,955). À 5,4 km.
+
+Les photographies de la ferme que publie l'office montrent toutes des personnes, celles du site du magasin sont des
+images de produits sans lien avec le lieu (règle 70), et ni le marché ni l'AMAP n'ont de photographie attribuable :
+les quatre images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni
+enseigne lisible. Toutes partent en `a_confirmer`. Aucun téléphone n'est publié : la ferme et le magasin ne donnent
+que des portables. Les noms de personnes que portent les pages de l'office, de l'AMAP, de la ferme et du magasin ne
+sont pas repris. Quatre points forment la zone (règle 320). **Le cinquième manque** ; son déblocage est écrit
+ci-dessous.
+
+**Autres points relus dans le secteur, non publiés** — avec le déblocage de chacun :
+
+- les marchés de la **place Carnot** (mercredi et samedi) et du **Champ de Mars** (jeudi) à Creil, 7h45-13h d'avril à
+  septembre et 7h45-12h30 d'octobre à mars d'après la Ville, 8h-13h d'après l'office : jour, heure et lieu entiers,
+  mais ni la Ville ni l'office n'écrivent une seule famille de produits, et le règlement des marchés que la page met
+  en lien renvoie une erreur 404 (règle 197). La désignation du 23 septembre reposait sur une photographie d'étal, que
+  la règle 69 ne permet pas de lire comme un fait. **Déblocage** : une famille écrite par la Ville ou par l'office, ou
+  l'étal déclaré d'un producteur chez une autorité (règle 442) ;
+- le marché de **Montataire** (jeudi et dimanche 8h-13h, place Auguste-Génie, Ville et office d'accord) : la Ville n'y
+  écrit que « producteurs et artisans » et « produits du quotidien », sans famille (règle 197). **Déblocage** : le même ;
+- les marchés de **Saint-Leu-d'Esserent** (samedi 8h30-12h30) et de **Saint-Maximin** (vendredi 16h-20h), et les deux
+  marchés de **Nogent-sur-Oise** : l'office seul les décrit, les deux premières Villes ne les publient pas et la
+  troisième n'est pas lue (règles 196 et 212). **Déblocage** : la page de la commune ;
+- un distributeur de produits biologiques en casiers à Rousseloy, que l'office décrit (tous les jours 8h-21h) : aucune
+  entité ne lui correspond au registre sous son enseigne ni à son adresse (règle 6). **Déblocage** : son exploitant
+  identifié au registre ;
+- le magasin bio de réseau et le supermarché biologique de Saint-Maximin, non instruits (règles 273 et 414), les supermarchés
+  certifiés et les grossistes du registre de l'Agence Bio (trente-trois opérateurs lus dans l'agglomération) ;
+- une chocolaterie de Saint-Maximin que l'office dit ouverte « selon les disponibilités » : ni jour ni heure (règle 192).
+
+**Contradictions** (règle 5) : le lieu du marché éco-citoyen — parvis de la Faïencerie pour la Ville, allée Nelson
+« durant les travaux de la place Saint-Médard » pour l'office (c'est le même lieu), place Saint-Médard pour l'AMAP et
+pour la ligne que la Ville consacre à l'AMAP ; la fiche retient le lieu que la Ville donne au marché et écrit l'autre.
+Les heures de la ferme (16h30-19h sur son site, 17h-19h et un samedi soir en plus chez l'office) et celles du magasin
+(quatre jours détaillés sur son site, « du mardi au vendredi 15h-19h, samedi 9h-19h » chez l'office ; vendredi matin
+à 10h sur la page d'accueil, à 9h sur la page de contact) : la voix de l'intéressé est retenue, l'autre est écrite.
+**Fiches écartées pour doute sur une personne ou une donnée personnelle** : aucune instruite ; les exploitations du
+registre bio inscrites sous des noms de personnes à Creil, Nogent-sur-Oise, Rousseloy et Saint-Vaast-lès-Mello n'ont
+pas été ouvertes.
+
+**Points d'arrêt** : dans l'**Oise**, la descente relue par la règle 432 s'arrête à **Creil** ; la commune suivante à
+relire est **Nogent-sur-Oise** (21 907, Ville derrière un défi, règle 212), puis Senlis, Crépy-en-Valois et Méru ; la
+boutique de Chantilly désignée sous sa réserve de registre reste à reprendre d'abord. Après la passe, sur 1 181
+fiches : Lot-et-Garonne 5,71, Somme 5,68, Loir-et-Cher 5,63, Val-de-Marne 5,44, Aube 5,32 ; l'Oise retombe à 2,22. La
+région de cette passe est les Hauts-de-France (règle 41.c) : la prochaine ne peut pas viser la Somme.
 
 ### Passe du 7 octobre 2026 (cent soixante-cinquième) : Oyonnax, Arbent, Dortan et Nantua (Ain), cinq fiches dans Haut-Bugey Agglomération ; le département se rouvre par la règle 432
 

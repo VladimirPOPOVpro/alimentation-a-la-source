@@ -31143,5 +31143,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20l'%C3%89tincelle%2C%209002%20route%20de%20Gen%C3%A8ve%2C%20zone%20du%20Pradon%2C%2001130%20Nantua",
     "image_url": "/images/marchands/brasserie-l-etincelle-nantua.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-eco-citoyen-creil",
+    "nom": "Marché éco-citoyen de Creil",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.259351,
+    "lon": 2.473186,
+    "adresse": "Parvis de la Faïencerie, Allée Nelson, 60100 Creil",
+    "horaires": "Le premier jeudi de chaque mois, de 17h30 à 20h, sur le parvis de la Faïencerie, d'après la Ville de Creil ; l'office de tourisme Creil Sud Oise donne les mêmes heures, allée Nelson. Un seul rendez-vous par mois : vérifier la date avant de se déplacer.",
+    "produits": [
+      "Produits issus de productions locales",
+      "Produits de l'agriculture biologique",
+      "Produits du commerce équitable",
+      "Paniers de l'AMAP de Creil, distribués ce soir-là au sein du marché"
+    ],
+    "description": "Marché mensuel de fin de journée que la Ville de Creil réserve aux produits issus de productions locales, de l'agriculture biologique ou du commerce équitable ; l'office de tourisme le résume en « local et bio ». La composition des étals n'est pas publiée. L'office précise que le marché a été déplacé allée Nelson pendant les travaux de la place Saint-Médard, où l'AMAP de la ville le situe encore : le lieu retenu est celui que publie la Ville, à moins de trois cents mètres de la place. Voie géocodée par la Base Adresse Nationale. Photo : vue aérienne de la Faïencerie et de son parvis, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All%C3%A9e%20Nelson%2C%2060100%20Creil",
+    "image_url": "/images/marchands/marche-eco-citoyen-creil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "graine-d-amap-creil",
+    "nom": "Graine d'AMAP",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.260199,
+    "lon": 2.47451,
+    "adresse": "Place du 8 Mai 1945, 60100 Creil",
+    "horaires": "Distribution le jeudi de 18h à 19h30, place du 8 Mai 1945, sous un barnum prêté par la mairie, sur contrat et après adhésion, d'après le site de l'association et la Ville de Creil. Le premier jeudi du mois, la distribution se fait au sein du marché éco-citoyen.",
+    "produits": [
+      "Paniers de légumes",
+      "Pommes et poires",
+      "Fraises",
+      "Œufs",
+      "Pain",
+      "Produits laitiers",
+      "Miel",
+      "Jus de pomme et produits cidricoles"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne du bassin creillois, créée en 2006 et présentée par son site comme la première de l'Oise. Elle est administrée par un collectif, passe des contrats de six mois avec ses producteurs et ne propose que des produits certifiés biologiques ; son site dit devoir aller chercher une partie d'entre eux jusqu'au pays de Bray, faute de petits producteurs bio dans le sud de l'Oise. Le bulletin d'adhésion 2026 y est en ligne. Pour le premier jeudi du mois, le site écrit encore la place Saint-Médard, alors que la Ville situe le marché éco-citoyen sur le parvis de la Faïencerie. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne du quartier, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.grainedamap.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%208%20Mai%201945%2C%2060100%20Creil",
+    "image_url": "/images/marchands/graine-d-amap-creil.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-l-arbre-a-poule-villers-saint-paul",
+    "nom": "Ferme de l'Arbre à Poule",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.285846,
+    "lon": 2.483998,
+    "adresse": "28 Rue Mortefontaine, 60870 Villers-Saint-Paul",
+    "horaires": "Vente à la ferme le mardi et le vendredi de 16h30 à 19h, le samedi de 10h à 12h, d'après le site de la ferme. L'office de tourisme Creil Sud Oise écrit 17h-19h pour le mardi et le vendredi, et ajoute sur sa fiche le samedi de 17h à 19h, que la ferme n'annonce pas.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Volailles (poulets, dindes, canards, oies, pintades, cailles)",
+      "Coulis de légumes, confitures, sirops et tisanes",
+      "Plants de tomates et d'aromates",
+      "Produits de fermes partenaires"
+    ],
+    "description": "Écolieu conduit en permaculture au cœur de Villers-Saint-Paul, à trois kilomètres de Creil, qui vend sur place ses légumes, ses fruits et ses volailles, cultivés sans pesticides ni engrais chimiques d'après son site, ainsi que ce qu'il transforme dans son laboratoire. La ferme reçoit aussi des visites et des classes. Société maraîchère et association actives au registre des entreprises à cette adresse. Les heures retenues sont celles de la ferme ; celles de l'office sont données à côté. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de la rue Mortefontaine et des jardins — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.larbreapoule.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20de%20l%27Arbre%20%C3%A0%20Poule%2C%2028%20Rue%20Mortefontaine%2C%2060870%20Villers-Saint-Paul",
+    "image_url": "/images/marchands/ferme-de-l-arbre-a-poule-villers-saint-paul.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-de-folemprise-saint-vaast-les-mello",
+    "nom": "Magasin de la Ferme de Folemprise",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 49.265719,
+    "lon": 2.398752,
+    "adresse": "45 Rue de la Commune de Paris, 60660 Saint-Vaast-lès-Mello",
+    "horaires": "Mardi de 15h à 19h, mercredi de 10h à 12h30 et de 14h à 18h, vendredi de 10h à 12h30 et de 14h à 19h (9h sur la page de contact), samedi de 9h à 14h, d'après le site du magasin. L'office de tourisme Creil Sud Oise écrivait en décembre 2025 : du mardi au vendredi de 15h à 19h, samedi de 9h à 19h.",
+    "produits": [
+      "Légumes biologiques de la ferme",
+      "Paniers de légumes et de fruits",
+      "Fruits de saison",
+      "Œufs et pain",
+      "Produits laitiers et fromages",
+      "Viande et charcuterie",
+      "Bières, cidre et jus de fruits"
+    ],
+    "description": "Magasin fermier d'une ferme maraîchère de trois hectares située à Rousseloy, certifiée en agriculture biologique, dont les premiers légumes datent de 2019. Le magasin, à la sortie de Saint-Vaast-lès-Mello vers Montataire, vend les légumes de la ferme et les produits d'autres fermes ; les commandes passées en ligne s'y retirent aux mêmes heures. Société agricole active au registre des entreprises à Rousseloy et engagée au registre de l'Agence Bio ; l'adresse du magasin est écrite par son site et par l'office de tourisme. Les heures retenues sont celles du magasin, plus récentes ; celles de l'office sont données à côté. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de la rue de la Commune de Paris — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.fermedefolemprise.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45%20Rue%20de%20la%20Commune%20de%20Paris%2C%2060660%20Saint-Vaast-l%C3%A8s-Mello",
+    "image_url": "/images/marchands/ferme-de-folemprise-saint-vaast-les-mello.jpg",
+    "a_confirmer": true
   }
 ]
