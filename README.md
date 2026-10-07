@@ -5417,10 +5417,34 @@ prioritaires en cas de conflit.
      qui écrit et qui date, sur une salle qui lui appartient. **Tranché ainsi** : la fiche se publie en `a_confirmer`, sans
      `site_web`, en disant d'où viennent ses faits et de quand ils datent ; aucun des producteurs que la commune nomme
      n'est repris. **Limite** : au-delà de douze mois sans modification, la fiche attend.
+435. **Un horaire que sa seule source écrit de façon impossible n'est pas un horaire : la fiche attend (règle 192).** Le
+     7 octobre 2026 (cent cinquante-neuvième passe), une miellerie de Bougue remplit tout le reste — groupement agricole
+     actif au registre à son adresse, gamme décrite par l'office de tourisme et par son propre site —, mais l'office écrit
+     son ouverture « 19:00 - 17:30 » du lundi au vendredi, son site ne publie d'heures que pour les visites de groupes, la
+     commune ne donne qu'un téléphone et le comité départemental du tourisme refuse l'agent (règle 425). Lire « 9h » à la
+     place de « 19h » serait corriger la source au jugé. **Tranché ainsi** : la fiche part en pistes ; ni la règle 5
+     (aucune seconde version) ni `a_confirmer` ne couvrent un horaire reconstruit. **Déblocage** : les heures de la
+     boutique publiées par la miellerie, ou corrigées par l'office.
+436. **La boutique d'usine d'un groupe agroalimentaire n'est pas un point de vente en circuit court, même sous une enseigne
+     qui parle de producteurs.** La passe landaise du 22 septembre 2026 avait rangé un magasin de l'entrée de
+     Mont-de-Marsan parmi les magasins de producteurs, en attente de ses seuls horaires. Relu le 7 octobre 2026, son propre
+     site le décrit comme une boutique « à prix direct fabricant » qui vend les marques nationales d'un groupe — foie gras,
+     saumon fumé, jambon, charcuterie, épicerie fine — et des conditionnements pour la restauration. `MODERATION.md`
+     réserve la carte à la vente alimentaire en circuit court, et la règle 8 vise le comptoir d'un groupe de producteurs
+     qui y vendent leur production, pas le magasin d'usine d'un industriel. **Tranché ainsi** : écarté, hors sujet ; ses
+     horaires désormais publiés ne le rouvrent pas. L'office le place en outre à Mont-de-Marsan et son site à
+     Saint-Pierre-du-Mont, sous le même numéro de voie.
 
 ## Marchands à confirmer
 
-1010 fiches sur 1144 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1014 fiches sur 1148 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Saint-Roch**, **AMAP du Moun** et **Les Jardins de Nonères** (Mont-de-Marsan), **Spiruline de Campagne**
+  (Campagne) (passe du 7 octobre 2026, cent cinquante-neuvième, règles 320, 432, 435 et 436) : les quatre fiches portent
+  une vue aérienne de l'IGN, qui ne montre ni marché ni distribution, et celle de Campagne ne montre que l'accès ; la Ville
+  n'écrit pour le marché que « matin », ses heures viennent de l'office de tourisme ; les heures des Jardins de Nonères
+  sont celles de la période du 8 septembre au 27 décembre 2026 chez l'office, le site du Département refusant l'agent ;
+  la ferme de spiruline est placée sur son numéro de voie, à 330 m du repère de l'office. **Déblocage** : une
+  photographie permise de chaque lieu, les heures du marché écrites par la Ville, et les heures de 2027 des Jardins.
 - **Marché du centre-ville de Compiègne** et **Brasserie Saint-Médard** (Compiègne), **AMAP Au fil des saisons**
   (Margny-lès-Compiègne), **AMAP de Clairoix** (Clairoix) (passe du 7 octobre 2026, cent cinquante-huitième, règles 320,
   432, 433 et 434) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre ni marché ni distribution ; les
@@ -13062,6 +13086,73 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent cinquante-neuvième) : Mont-de-Marsan et son agglomération (Landes), quatre fiches ; le département se rouvre par la règle 432
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 148
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 144 fiches avant la passe), outre-mer
+écarté (règle 177), relu depuis le premier rang (règle 410) : Pas-de-Calais 10,21, **fermé** par la région de la passe
+précédente (Hauts-de-France, règle 41.c) ; **Landes (40) 7,50**, aucune fiche, écrites épuisées (règle 265) et rouvertes à
+leur rang par la règle 432 — c'est la première passe qui les relit ; puis Eure-et-Loir 7,49, Calvados 7,27, Val-d'Oise
+7,16. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Mont-de-Marsan** (commune la plus peuplée des Landes, sans fiche), relue sous l'agent par défaut (règle 425) : le site
+commun de la Ville et de l'agglomération, celui de l'office de tourisme (fermé le 22 septembre par la règle 257) et celui
+de l'AMAP sont servis, leurs `robots.txt` n'excluent personne. Les mentions de la Ville nomment les photos (règle 231) et
+n'admettent un lien que sous condition de forme : pas de `site_web` pour le marché. Celles de l'office admettent la
+reprise électronique avec la source, hors usage commercial ; son iconographie n'est pas reprise. Trois fiches aux faits
+entiers dans la commune (règle 127), une quatrième dans Mont de Marsan Agglomération (règle 96) :
+
+1. **Marché Saint-Roch** (Mont-de-Marsan) — marché couvert « exclusivement alimentaire », mardis et samedis matin (Ville,
+   page modifiée le 3 août 2026) ; 6h-13h et familles (légumes, pain, viandes, fromages) chez l'office. BAN à la voie
+   (0,97). À 0,5 km du centre.
+2. **AMAP du Moun** (Mont-de-Marsan) — fiche désignée pour la reprise depuis le 22 septembre, relue ce jour : mercredi
+   18h15-19h45, cour du collège, 1120 chemin de Thore ; site vivant (articles des 27 août, 21 et 28 septembre 2026),
+   association active au registre. BAN au numéro (0,97). À 1,6 km. Aucun des producteurs que le site nomme n'est repris.
+3. **Les Jardins de Nonères** (Mont-de-Marsan) — maraîchage biologique d'un établissement d'aide par le travail du
+   Département, 1276 avenue de Nonères : établissement actif au registre à cette adresse, certificat engagé au registre de
+   l'Agence Bio ; heures et téléphone fixe de la fiche de l'office (période du 8 septembre au 27 décembre 2026). C'était
+   l'absence d'heures lisibles qui l'arrêtait le 22 septembre ; le site du Département répond toujours 403, il n'est ni lu
+   ni mis en lien. BAN au numéro (0,97). À 1,4 km.
+4. **Spiruline de Campagne** (Campagne) — boutique à la ferme, 679 avenue du Marsan ; heures par saison publiées par la
+   ferme, recoupées par l'office ; exploitation individuelle active au registre, adresse diffusée (règle 433), enseigne
+   qui n'est pas un nom de personne. Le seul téléphone est un portable : il n'est pas publié, et la fiche ne porte que le
+   nom du produit et de la commune. BAN au numéro (0,95). À 10,9 km.
+
+Les quatre images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une : ni personne, ni
+enseigne lisible. Celle de Campagne ne montre que l'accès boisé, ce que la fiche dit. Quatre points forment la zone (règle
+320). **Le cinquième manque** ; son déblocage est écrit ci-dessous.
+
+**Laissé de côté, avec le déblocage de chacun** :
+
+- une miellerie de Bougue (groupement agricole actif, à 8,5 km) : heures écrites « 19:00 - 17:30 » par l'office, aucune
+  autre source lisible (**règle 435**, nouvelle). C'est le cinquième point désigné. **Déblocage** : ses heures de boutique ;
+- la boutique d'usine de l'entrée de Mont-de-Marsan : hors sujet (**règle 436**, nouvelle) ;
+- un fournil-meunerie biologique de Saint-Avit (société active, certificat engagé) : son site ne publie aucune vente au
+  fournil, seulement des dépôts en magasin et un étal au marché Saint-Roch (règle 192). **Déblocage** : un jour et une
+  heure de vente sur place ;
+- les marchés de l'agglomération que publie la page intercommunale (modifiée en février 2025) : Saint-Martin-d'Oney
+  (dimanche 8h-13h, place des Platanes) et Saint-Perdon (premier dimanche du mois, 9h-13h, place des Commerces), sans
+  famille de produits (règle 197) ; Bougue (vendredi matin), sans heure ni famille (règles 192 et 197). **Déblocage** : une
+  famille écrite par la commune ;
+- les magasins bio de réseau de Mont-de-Marsan et de Saint-Pierre-du-Mont (règles 273 et 414), les supermarchés certifiés
+  et les grossistes du registre de l'Agence Bio (1 129 opérateurs lus dans le département, une cinquantaine dans
+  l'agglomération) ; les cavistes que fiche l'office, qui revendent ;
+- une ferme pédagogique d'Uchacq-et-Parentis : visites, pas de vente.
+
+**Contradictions** (règle 5) : pour la ferme de spiruline, le repère de l'office tombe 330 m à l'ouest du numéro que rend
+la Base ; la fiche retient le numéro et le dit, et l'office n'écrit que l'horaire d'été quand la ferme en publie deux. Pour
+le marché, la Ville écrit « matin » et l'office 6h-13h : la fiche écrit les deux. **Fiches écartées pour doute sur une
+personne ou une donnée personnelle** : une, à Mont-de-Marsan — une maison de conserves dont l'enseigne est un patronyme ;
+elle ne se rouvre pas. Les opérateurs du registre de l'Agence Bio inscrits sous un patronyme, à Mont-de-Marsan,
+Saint-Pierre-du-Mont, Benquet, Campagne, Bougue, Saint-Perdon et Uchacq-et-Parentis, n'ont pas été instruits.
+
+**Points d'arrêt** : dans les **Landes**, la descente relue par la règle 432 s'arrête à **Mont-de-Marsan** ; la commune
+suivante à relire est **Dax**, où attendent les halles et les deux marchés aux faits entiers, puis Biscarrosse (l'AMAP
+désignée) et Saint-Paul-lès-Dax (deux fiches désignées), à contrôler sous l'agent par défaut (règle 425). Le groupe de
+Labenne n'a pas été relu. Après la passe, sur 1 148 fiches : Pas-de-Calais 10,30, Eure-et-Loir 7,51, Calvados 7,31,
+Val-d'Oise 7,24, Loiret 6,99 ; les Landes retombent à 3,52. La région de cette passe est la Nouvelle-Aquitaine (règle
+41.c).
 
 ### Passe du 7 octobre 2026 (cent cinquante-huitième) : Compiègne et son agglomération (Oise), quatre fiches
 

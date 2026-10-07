@@ -30283,5 +30283,114 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20Rue%20du%20Marais%2C%2060280%20Clairoix",
     "image_url": "/images/marchands/amap-de-clairoix.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-saint-roch-mont-de-marsan",
+    "nom": "Marché Saint-Roch",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.889025,
+    "lon": -0.499886,
+    "adresse": "Place Saint-Roch, 40000 Mont-de-Marsan",
+    "horaires": "Tous les mardis et samedis matin, d'après la Ville de Mont-de-Marsan ; de 6h à 13h d'après l'office de tourisme de l'agglomération.",
+    "produits": [
+      "Légumes",
+      "Pain",
+      "Viandes",
+      "Fromages",
+      "Produits du terroir landais"
+    ],
+    "description": "Marché couvert du centre-ville, exclusivement alimentaire, que la Ville présente comme classé parmi les cent plus beaux marchés de France et consacré aux produits du terroir landais. Les jours viennent de la Ville, les heures de l'office de tourisme, qui signale qu'il arrive au marché d'être déplacé en juillet. Point placé sur la place Saint-Roch (Base Adresse Nationale, à la voie). Photo : vue aérienne de la place, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Saint-Roch%2C%2040000%20Mont-de-Marsan",
+    "image_url": "/images/marchands/marche-saint-roch-mont-de-marsan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-du-moun-mont-de-marsan",
+    "nom": "AMAP du Moun",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.893832,
+    "lon": -0.520879,
+    "adresse": "Cour du collège Jean Cassaigne, 1120 Chemin de Thore, 40000 Mont-de-Marsan",
+    "horaires": "Livraisons tous les mercredis de 18h15 à 19h45 dans la cour du collège, sur contrat avec les producteurs et après adhésion, d'après le site de l'association.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Viande et volaille",
+      "Œufs",
+      "Poisson",
+      "Miel",
+      "Pain",
+      "Fromages et laitages"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne de l'agglomération montoise, qui annonce plus de deux cents adhérents : chacun s'engage par contrat, pour un à quatre mois, auprès de producteurs en agriculture biologique ou raisonnée, livrés chaque semaine sans intermédiaire. Association active au registre des entreprises ; son site est tenu à jour (articles d'août et de septembre 2026). Photo : vue aérienne des abords du collège, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://amapdumoun.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=1120%20Chemin%20de%20Thore%2C%2040000%20Mont-de-Marsan",
+    "image_url": "/images/marchands/amap-du-moun-mont-de-marsan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "jardins-de-noneres-mont-de-marsan",
+    "nom": "Les Jardins de Nonères",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 43.905203,
+    "lon": -0.496266,
+    "adresse": "1276 Avenue de Nonères, 40000 Mont-de-Marsan",
+    "horaires": "Du 8 septembre au 27 décembre 2026 : lundi de 9h à 12h30 et de 13h30 à 17h30, du mardi au vendredi de 9h à 12h30 et de 13h30 à 18h, samedi de 9h à 12h30, d'après l'office de tourisme de l'agglomération. Les heures changent selon la saison : téléphoner avant de se déplacer.",
+    "produits": [
+      "Légumes biologiques de saison",
+      "Paniers de légumes hebdomadaires sur commande",
+      "Asperges",
+      "Courges et pommes de terre",
+      "Cornichons en bocaux",
+      "Plants et végétaux de la jardinerie"
+    ],
+    "description": "Maraîchage biologique sur cinq hectares, tenu depuis 1995 par un établissement d'aide par le travail du Département des Landes, qui emploie des personnes en situation de handicap ; les légumes se vendent au magasin de la jardinerie, sur place, ou en paniers hebdomadaires. Établissement actif au registre des entreprises à cette adresse et engagé en agriculture biologique d'après le registre de l'Agence Bio. Photo : vue aérienne du site (serres et jardinerie) — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "05 58 06 73 04",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Jardins%20de%20Non%C3%A8res%2C%201276%20Avenue%20de%20Non%C3%A8res%2C%2040000%20Mont-de-Marsan",
+    "image_url": "/images/marchands/jardins-de-noneres-mont-de-marsan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "spiruline-de-campagne",
+    "nom": "Spiruline de Campagne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.864709,
+    "lon": -0.631141,
+    "adresse": "679 Avenue du Marsan, 40090 Campagne",
+    "horaires": "Boutique à la ferme : d'avril à octobre, le lundi et le jeudi de 14h à 16h ; du 1er novembre au 30 mars, le mercredi de 9h à 12h, d'après le site de la ferme. L'office de tourisme n'écrit que les lundis et jeudis de 14h à 16h. Visites sur rendez-vous.",
+    "produits": [
+      "Spiruline en paillettes",
+      "Spiruline en comprimés",
+      "Spiruline fraîche en saison de récolte",
+      "Sablés et gomasio à la spiruline",
+      "Savons à la spiruline"
+    ],
+    "description": "Ferme de spiruline installée à Campagne depuis 2015 : la micro-algue est cultivée en bassins sous serre, récoltée de mars à octobre, séchée à 40 °C et conditionnée sur place, puis vendue à la boutique de la ferme. Exploitation active au registre des entreprises. Point placé sur le numéro de l'avenue (Base Adresse Nationale), d'où part le chemin de la ferme ; l'office de tourisme place son repère 330 m plus à l'ouest. Photo : vue aérienne de l'accès, où la serre n'apparaît pas — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://spirulinedecampagne.fr/fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=679%20Avenue%20du%20Marsan%2C%2040090%20Campagne",
+    "image_url": "/images/marchands/spiruline-de-campagne.jpg",
+    "a_confirmer": true
   }
 ]
