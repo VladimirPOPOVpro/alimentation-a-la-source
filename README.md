@@ -5399,9 +5399,35 @@ prioritaires en cas de conflit.
      aucun fait (ni étal, ni jour, ni existence) ; un site fermé pour ses faits (règles 414, 416, 429) le reste ; une
      photographie permise du lieu remplace la vue aérienne dès qu'elle existe.
 
+433. **Un exploitant individuel dont le registre des entreprises masque l'adresse (« non diffusible ») n'est pas publié,
+     même quand son propre site donne cette adresse comme point de vente.** Le 7 octobre 2026 (cent cinquante-huitième
+     passe), un maraîcher de l'agglomération de Compiègne remplit tout le reste : enseigne qui n'est pas un nom de personne,
+     certificat engagé au registre de l'Agence Bio, jours et heures de vente publiés sur un site vivant. Mais l'entreprise
+     est individuelle, le registre déclare son adresse non diffusible — c'est le choix de l'exploitant de ne pas voir son
+     domicile diffusé —, le seul téléphone est un portable et le point de vente est à l'adresse du siège. **Tranché
+     ainsi** : c'est un doute sur une donnée personnelle, pas un doute de fait ; rien de la fiche n'est publié, la piste
+     se note en une ligne anonyme et ne se rouvre pas. La règle ne touche pas une société, ni un exploitant individuel
+     dont le registre diffuse l'adresse.
+
+434. **Pour une AMAP sans site, la date de dernière modification de la fiche que la commune lui consacre vaut la source
+     datée de la règle 195, quand elle a moins de douze mois et que la fiche écrit le jour, l'heure et le lieu.** Le
+     7 octobre 2026, l'AMAP de Clairoix n'a pas de site ; la commune lui consacre une fiche d'annuaire qui écrit la salle,
+     le jour, l'heure et les cinq métiers sous contrat, et dont l'interface publique du site donne la dernière modification
+     au 17 novembre 2025. La règle 195 écarte l'annuaire que les associations tiennent elles-mêmes ; ici c'est la commune
+     qui écrit et qui date, sur une salle qui lui appartient. **Tranché ainsi** : la fiche se publie en `a_confirmer`, sans
+     `site_web`, en disant d'où viennent ses faits et de quand ils datent ; aucun des producteurs que la commune nomme
+     n'est repris. **Limite** : au-delà de douze mois sans modification, la fiche attend.
+
 ## Marchands à confirmer
 
-1006 fiches sur 1140 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1010 fiches sur 1144 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville de Compiègne** et **Brasserie Saint-Médard** (Compiègne), **AMAP Au fil des saisons**
+  (Margny-lès-Compiègne), **AMAP de Clairoix** (Clairoix) (passe du 7 octobre 2026, cent cinquante-huitième, règles 320,
+  432, 433 et 434) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre ni marché ni distribution ; les
+  heures de la brasserie ne viennent que de la fiche de l'office de tourisme, son propre site refusant l'agent (règle
+  425) ; l'AMAP de Clairoix n'a pas de site et repose sur la fiche de la commune, modifiée en novembre 2025 ; l'AMAP de
+  Margny est placée à la mairie, dont le parc accueille la distribution. **Déblocage** : une photographie permise de
+  chaque lieu, et les heures de la brasserie publiées par elle sur une page lisible.
 - **RO-ZE** et **AMAP d'Ermont** (Ermont), **Marché du centre-ville d'Eaubonne** (Eaubonne), **Halle de marché de
   Taverny** (Taverny), **Marché du centre-ville de Bessancourt** (Bessancourt) (passe du 7 octobre 2026, cent
   cinquante-septième, règles 409 et 432) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni la boutique
@@ -13036,6 +13062,65 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent cinquante-huitième) : Compiègne et son agglomération (Oise), quatre fiches
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 144
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 140 fiches avant la passe) : **Oise
+(60) 10,30** (quatre fiches, toutes autour de Beauvais), Pas-de-Calais 10,12, Landes 7,47, Eure-et-Loir 7,46, Calvados 7,22.
+La passe précédente visait l'Île-de-France : les Hauts-de-France sont permis (règle 41.c). L'Oise était écrite épuisée
+(règle 265) ; la règle 432 la rouvre à son rang. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Compiègne** (40 761), commune la plus peuplée de l'Oise sans fiche, relue sous l'agent par défaut (règle 425) : le site
+commun de la Ville et de l'agglomération et celui de l'office de tourisme sont servis, leurs `robots.txt` n'excluent
+personne. Les mentions de la Ville nomment les images (règle 231) et n'admettent un lien que sous condition de forme : pas
+de `site_web` pour le marché. Celles de l'office ne portent aucune clause de propriété intellectuelle. Deux fiches aux
+faits entiers dans la commune (règle 127), complétées dans l'Agglomération de la Région de Compiègne (règle 96) :
+
+1. **Marché du centre-ville de Compiègne** — rue Saint-Corneille, mercredi et samedi 7h-13h (Ville et office, d'accord) ;
+   familles écrites par l'office (fruits, légumes, rôtisserie), label municipal « Producteur local » dans un rayon de
+   40 km écrit par la Ville. BAN à la voie (0,97).
+2. **Brasserie Saint-Médard** (Compiègne) — 66 rue Saint-Lazare, société active au registre à cette adresse ; heures,
+   fixe et description de la fiche 2026 de l'office. Le site de la brasserie répond 403 à l'agent par défaut (règle 425) :
+   il n'est ni lu ni mis en lien. BAN au numéro (0,97). À 1,0 km de la mairie.
+3. **AMAP Au fil des saisons** (Margny-lès-Compiègne) — fiche désignée pour la reprise depuis le 23 septembre, relue ce
+   jour : mardi 18h15-19h15 au Parc de la Mairie, site de l'association vivant (actualité du 20 juin 2026), `robots.txt`
+   absent. À 0,8 km.
+4. **AMAP de Clairoix** — vendredi 18h30-19h15, salle du jeu d'arc, 9 rue du Marais ; fiche de la commune modifiée le
+   17 novembre 2025 (règle 434). BAN au numéro (0,96). À 3,3 km.
+
+Les quatre images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une : ni personne, ni
+enseigne lisible. Quatre points forment la zone (règle 320). **Le cinquième manque** ; son déblocage est écrit ci-dessous.
+
+**Laissé de côté, avec le déblocage de chacun** :
+
+- les trois autres marchés de Compiègne — place Carnot (jeudi 8h-12h45), Le Clos des Roses, square Baudelaire (mercredi
+  8h-13h30), La Victoire, rue de Normandie (vendredi 8h-12h45) : jour, heure et lieu entiers chez la Ville et l'office,
+  mais aucune famille de produits écrite au-delà de « alimentaire » ou « mixte » (règle 197) ; la Ville annonçait en outre
+  l'annulation du marché de La Victoire le 2 octobre. **Déblocage** : une famille écrite par la Ville ou l'office ;
+- le marché du dimanche de Margny-lès-Compiègne (Parc de la Mairie, 8h30-13h) : page de la commune inchangée depuis mars
+  2023, toujours sans famille de produits (règle 197) ;
+- le marché mensuel de Clairoix (troisième dimanche, hors juillet et août) : « marché alimentaire », sans heure (règle 192) ;
+- une brasserie de Néry, aux faits entiers (jeudi et vendredi 17h-19h, samedi 10h-18h d'après son site, 9h-18h d'après
+  l'office) : à 15,4 km de la mairie de Compiègne, hors de la distance de la règle 96. **Déblocage** : une passe dont la
+  commune calculée serait dans la vallée de l'Automne ;
+- les deux magasins bio de réseau de Compiègne et de Margny-lès-Compiègne (règles 273 et 414), les supermarchés certifiés
+  et les grossistes du registre de l'Agence Bio (quarante-six opérateurs lus dans l'agglomération) ;
+- les fermes que l'office fiche à Jaulzy, Chevrières, Bailleul-le-Soc, Le Fayel ou Saint-Étienne-Roilaye : hors de
+  l'intercommunalité.
+
+**Contradictions** : l'AMAP de Margny publie 18h15-19h15, l'annuaire de la Ville 18h-19h30 ; la fiche écrit les deux et
+retient l'horaire de l'association (règles 5 et 179). **Fiches écartées pour doute sur une personne ou une donnée
+personnelle** : une, à Jaux — maraîcher en entreprise individuelle dont le registre masque l'adresse (règle 433) ; elle ne
+se rouvre pas. Les opérateurs du registre de l'Agence Bio inscrits sous un patronyme, à Venette, Vieux-Moulin, Jaux,
+Clairoix et Béthisy-Saint-Pierre, n'ont pas été instruits.
+
+**Points d'arrêt** : dans l'**Oise**, la descente relue par la règle 432 s'arrête à **Compiègne** ; la commune suivante à
+relire est **Creil** (36 301), où attendent le marché de la place Carnot et, dans Creil Sud Oise, la ferme de
+Villers-Saint-Paul désignée pour la reprise, puis Nogent-sur-Oise (à contrôler sous l'agent par défaut, règle 425). Après
+la passe, sur 1 144 fiches : Pas-de-Calais 10,21, Landes 7,50, Eure-et-Loir 7,49, Calvados 7,27, Val-d'Oise 7,16 ; l'Oise
+retombe à 6,35. La région de cette passe est les Hauts-de-France (règle 41.c) : la prochaine ne peut pas viser le
+Pas-de-Calais.
 
 ### Passe du 7 octobre 2026 (cent cinquante-septième) : Ermont et l'agglomération Val Parisis (Val-d'Oise), cinq fiches ; le département se rouvre par la règle 432
 

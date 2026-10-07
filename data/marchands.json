@@ -30179,5 +30179,109 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%2030%20Ao%C3%BBt%2C%2095550%20Bessancourt",
     "image_url": "/images/marchands/marche-du-centre-ville-bessancourt.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-compiegne",
+    "nom": "Marché du centre-ville de Compiègne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.417055,
+    "lon": 2.823832,
+    "adresse": "Rue Saint-Corneille, 60200 Compiègne",
+    "horaires": "Mercredi et samedi de 7h à 13h, rue Saint-Corneille, d'après la Ville de Compiègne et l'office de tourisme. La Ville publie chaque année la liste des jours fériés où le marché est maintenu.",
+    "produits": [
+      "Fruits et légumes",
+      "Rôtisserie",
+      "Étals de producteurs locaux (label municipal « Producteur local », rayon de 40 km)",
+      "Desserts faits maison"
+    ],
+    "description": "Marché alimentaire du centre de Compiègne, que la Ville dit fort de près de 80 commerçants. Les producteurs installés à moins de 40 km y affichent sur leur étal le label « Producteur local » créé par la Ville, ce qui permet de les repérer. Jours et heures sont ceux de la Ville, confirmés par l'office de tourisme, qui décrit les étals. Rue géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne du quartier, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Saint-Corneille%2C%2060200%20Compi%C3%A8gne",
+    "image_url": "/images/marchands/marche-du-centre-ville-compiegne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-saint-medard-compiegne",
+    "nom": "Brasserie Saint-Médard",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.410277,
+    "lon": 2.833528,
+    "adresse": "66 Rue Saint-Lazare, 60200 Compiègne",
+    "horaires": "Du mardi au dimanche de 10h à 12h et de 14h à 19h, fermé le lundi, d'après la fiche 2026 de l'office de tourisme de l'agglomération de Compiègne. Horaires non recoupés auprès de la brasserie : à vérifier avant de se déplacer.",
+    "produits": [
+      "Bières artisanales brassées à Compiègne",
+      "Bouteilles consignées de 33 cl et 75 cl",
+      "Caisses en bois consignées"
+    ],
+    "description": "Brasserie artisanale et solidaire : elle vend ses bières en bouteilles consignées, en circuit court sur l'agglomération de Compiègne, et emploie pour la livraison des personnes éloignées du marché du travail, d'après l'office de tourisme. Société active au registre des entreprises à cette adresse. Le site de la brasserie n'a pas pu être consulté pendant la vérification : il n'est pas indiqué ici. Photo : vue aérienne du quartier — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 44 85 60 14",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Saint-M%C3%A9dard%2066%20Rue%20Saint-Lazare%2C%2060200%20Compi%C3%A8gne",
+    "image_url": "/images/marchands/brasserie-saint-medard-compiegne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-au-fil-des-saisons-margny-les-compiegne",
+    "nom": "AMAP Au fil des saisons",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.424099,
+    "lon": 2.819124,
+    "adresse": "Parc de la Mairie, 117 Avenue Octave Butin, 60280 Margny-lès-Compiègne",
+    "horaires": "Permanence et livraison des paniers tous les mardis de 18h15 à 19h15 au Parc de la Mairie, sur contrat avec les producteurs et après adhésion, d'après le site de l'association. L'annuaire de la Ville, mis à jour en 2024, indiquait 18h-19h30 au club-house du parc.",
+    "produits": [
+      "Paniers de légumes",
+      "Œufs et pommes de terre",
+      "Pain",
+      "Fromages et glaces au lait de chèvre",
+      "Volailles",
+      "Miel",
+      "Bières",
+      "Farines, légumineuses et huiles"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne fondée après une année de fonctionnement en collectif : chaque adhérent passe contrat avec au moins un paysan ou artisan partenaire, de l'Oise et de la Somme, pour une part de production livrée chaque semaine à prix constant. Le site de l'association est tenu à jour (actualité de juin 2026). Point placé à la mairie, dont le parc accueille la distribution. Photo : vue aérienne du parc, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://au-fil-des-saisons-amap.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Parc%20de%20la%20Mairie%2C%20117%20Avenue%20Octave%20Butin%2C%2060280%20Margny-l%C3%A8s-Compi%C3%A8gne",
+    "image_url": "/images/marchands/amap-au-fil-des-saisons-margny-les-compiegne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-de-clairoix",
+    "nom": "AMAP de Clairoix",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 49.445652,
+    "lon": 2.839184,
+    "adresse": "Salle du jeu d'arc, 9 Rue du Marais, 60280 Clairoix",
+    "horaires": "Distribution le vendredi de 18h30 à 19h15 à la salle du jeu d'arc, chaque semaine pour les légumes et le pain, une semaine sur deux pour les autres produits, sur contrat et après adhésion, d'après la fiche de la commune de Clairoix (mise à jour en novembre 2025).",
+    "produits": [
+      "Légumes",
+      "Pain",
+      "Fromages de chèvre",
+      "Œufs",
+      "Poulets"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne créée en mai 2024, liée par contrats à cinq producteurs de l'Oise et de la Somme : un maraîcher, un boulanger du village, des éleveurs de chèvres, un producteur d'œufs et un éleveur de poulets. L'association n'a pas de site : jour, heure et lieu sont ceux que publie la commune dans son annuaire des associations. Photo : vue aérienne du quartier, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=9%20Rue%20du%20Marais%2C%2060280%20Clairoix",
+    "image_url": "/images/marchands/amap-de-clairoix.jpg",
+    "a_confirmer": true
   }
 ]
