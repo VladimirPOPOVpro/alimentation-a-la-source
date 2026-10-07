@@ -5481,9 +5481,43 @@ prioritaires en cas de conflit.
      jamais pour compléter par une fiche dont un fait manque ; le cinquième point se publie seul, à son rang, dès qu'il
      existe. **Ce que la règle débloque** : la passe de Plaine Vallée, dans la même passe.
 
+440. **Quand le registre des entreprises et l'office de tourisme donnent deux numéros dans la même rue, et que la Base
+     Adresse Nationale n'en connaît qu'un, c'est celui-là qui se publie.** Le 7 octobre 2026 (cent soixante-troisième
+     passe), la boutique d'une association de producteurs de Vire Normandie est au 2 de sa rue selon le registre et au 28
+     selon l'office de tourisme ; l'association n'a pas de site. La règle 104 fait trancher l'adresse par le registre
+     quand un annuaire contredit l'intéressé ; mais la Base Adresse Nationale ne connaît aucun numéro 2 dans cette rue
+     (réponse « à la voie ») et connaît le 28 (réponse « au numéro », 0,965). Un numéro qui n'existe pas n'envoie nulle
+     part. **Tranché ainsi** : entre deux numéros d'une même voie, celui que la Base Adresse Nationale connaît se
+     publie, la description écrit l'autre version et sa source, et la fiche part en `a_confirmer`. **Limite** : la
+     règle ne joue qu'à l'intérieur d'une même voie ; deux voies différentes restent à la règle 104, et deux numéros
+     que la base connaît tous les deux aussi.
+
+441. **Un groupe désigné pour la reprise qui rejoint la zone d'une autre commune se mesure depuis la mairie de la
+     commune calculée : ses points à moins de quinze kilomètres entrent, les autres restent désignés.** Le 7 octobre
+     2026, le Calvados, écrit épuisé et rouvert par la règle 432, mène le classement. Sa descente relue rend Vire
+     Normandie (17 457 habitants, troisième commune du département), dont trois points de vente aux faits entiers
+     n'attendaient qu'une image ; à Souleuvre en Bocage, dans la même intercommunalité, trois autres points étaient
+     désignés pour la reprise depuis le 25 septembre, faute d'un quatrième. Six points pour cinq places, et la règle
+     258 veut que les désignés passent « avant tout candidat neuf » — ce qui aurait écarté deux des trois points de la
+     commune calculée, alors que la règle 127 en demande deux dans ses limites. La règle 96 borne l'élargissement à
+     quinze kilomètres ; elle ne disait pas d'où l'on mesure quand le groupe désigné a son propre centre. **Tranché
+     ainsi** : la distance se prend depuis la mairie de la commune calculée ; les points de cette commune entrent
+     d'abord, puis les désignés du plus proche au plus lointain, jusqu'à cinq ; un désigné au-delà de quinze
+     kilomètres reste désigné et se publie à son rang, seul s'il le faut (règle 439). **Ce que la règle débloque** :
+     la passe de Vire Normandie, dans la même passe — la bergerie de Carville (11,1 km) et la ferme maraîchère de La
+     Graverie (5,8 km) entrent, le groupement apicole de Montchauvet (16,6 km) reste désigné.
+
 ## Marchands à confirmer
 
-1028 fiches sur 1162 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1033 fiches sur 1167 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **La Pause Paysanne**, **Les Ruchers du Bocage Virois** et **La Tallevendaise** (Vire Normandie), **Bergerie de la
+  Souleuvre** et **EARL des 4 saisons** (Souleuvre en Bocage) (passe du 7 octobre 2026, cent soixante-troisième, règles
+  432, 440 et 441) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni boutique ni étal, et celle des
+  ruchers ne montre que le carrefour du numéro de voie ; les heures de la boutique de producteurs, des ruchers, de la
+  ferme laitière et de la ferme maraîchère ne viennent que de l'office de tourisme du Pays de Vire ; la boutique de
+  producteurs est publiée au 28 de sa rue, que donne l'office, le registre écrivant le 2 ; la boutique, la ferme
+  laitière, la bergerie et la ferme maraîchère ne publient que des portables, non repris. **Déblocage** : une
+  photographie permise de chaque lieu, et des heures publiées par les intéressés eux-mêmes.
 - **Marché d'Enghien-les-Bains**, **Marché de Soisy-sous-Montmorency**, **Marché Levanneur de Montmorency** et **Marché
   de Domont** (passe du 7 octobre 2026, cent soixante-deuxième, règles 432 et 439) : les quatre fiches portent une vue
   aérienne de l'IGN, qui ne montre pas le marché en activité. À Enghien-les-Bains, la Ville compte plus de cinquante
@@ -13151,6 +13185,93 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-troisième) : Vire Normandie et Souleuvre en Bocage (Calvados), cinq fiches ; le département se rouvre par la règle 432 ; règles 440 et 441
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 167
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 162 fiches avant la passe), outre-mer
+écarté (règle 177), relu depuis le premier rang (règle 410) : **Calvados (14) 7,46**, cinq fiches, toutes à Caen, écrit
+épuisé (règle 265) et rouvert à son rang par la règle 432 — c'est la première passe qui le relit ; puis Loiret 7,14,
+Ain 6,93, Oise 6,57, Val-de-Marne 6,06. La passe précédente visait l'Île-de-France : la Normandie est permise
+(règle 41.c). `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Descente relue depuis la deuxième commune**, sous l'agent par défaut, `robots.txt` d'abord (règle 425) : ceux des
+Villes d'Hérouville-Saint-Clair, de Lisieux, de Vire Normandie et de Souleuvre en Bocage, et celui de l'office de
+tourisme du Pays de Vire, n'excluent personne ; l'office demande dix secondes entre deux requêtes, délai tenu.
+
+- **Hérouville-Saint-Clair** (23 470) et **Lisieux** (19 645) : arrêtées le 25 septembre par la règle 197 — aucune
+  famille de produits écrite marché par marché —, donc par leurs faits et non par l'image ; la règle 432 ne les rouvre
+  pas. Seules leurs pages d'accueil et leurs plans de site ont été relus ce jour : aucune page de marché nouvelle n'y
+  figure. **Déblocage** inchangé : la composition de chaque marché écrite par la Ville.
+- **Vire Normandie** (17 457) : **trois fiches aux faits entiers**, que la seule image arrêtait — c'est elle qui fait
+  la passe (règles 127 et 432).
+
+1. **La Pause Paysanne** (Vire) — boutique d'une association de producteurs, 28 rue de la Monderie, du mardi au samedi
+   12h-19h : fiche de l'office (mise à jour le 8 septembre 2026), qui écrit pain, fromages, viande, miel, légumes,
+   cidre, d'une trentaine de producteurs. Association active au registre, qui l'inscrit au 2 de la rue : **règle 440**,
+   nouvelle. BAN au numéro (0,965). À 0,9 km de la mairie.
+2. **Les Ruchers du Bocage Virois** (Saint-Germain-de-Tallevende) — boutique à la ferme le vendredi 16h-19h, 216 route
+   du Frêne : fiche de l'office (12 août 2026), fixe publié. Groupement agricole actif au registre, sous un nom de
+   lieu-dit de la même commune déléguée. BAN au numéro (0,96). À 6,3 km.
+3. **La Tallevendaise** (Saint-Germain-de-Tallevende) — vente à la ferme le vendredi 16h30-19h et le samedi 10h-12h30,
+   casiers en libre-service : fiche de l'office (7 octobre 2026). Société active au registre au lieu-dit, créée en
+   2024. BAN au numéro (0,959). À 3,6 km.
+
+**Groupe désigné de Souleuvre en Bocage, même intercommunalité** — relu ce jour, mesuré depuis la mairie de Vire
+(**règle 441**, nouvelle) :
+
+4. **Bergerie de la Souleuvre** (Carville) — vente à la fromagerie le vendredi 17h30-19h : page « Vente à la ferme »
+   du site de la bergerie et fiche de l'office (26 août 2026), à l'identique. Exploitation active au registre au
+   lieu-dit, adresse diffusée, certificat biologique engagé. Le site n'est servi qu'en `http` ; son contenu nomme
+   Carville (règle 56). BAN au numéro (0,957). À 11,1 km.
+5. **EARL des 4 saisons** (La Graverie) — vente à la ferme le vendredi 17h-19h et le samedi 9h30-13h : fiche de
+   l'office (30 septembre 2026). Société active au registre, certificat biologique engagé depuis 2005. Le site que
+   l'office indique ne résout pas : pas de `site_web`. BAN au numéro (0,954). À 5,8 km.
+
+Les mentions de l'office (« Tous droits réservés – reproduction interdite » sous ses crédits photographiques), celles
+de la Ville et le pied de page de la bergerie (« Tous droits réservés ») ferment leurs photographies : les cinq images
+sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni enseigne lisible ;
+celle des ruchers ne montre que le carrefour où tombe le numéro de voie. Toutes partent en `a_confirmer`. Aucun
+portable n'est repris ; un seul téléphone fixe est publié, celui des ruchers.
+
+**Resté désigné pour la reprise** : le groupement apicole biologique de Montchauvet (GAEC Pomme d'Apizz), à 16,6 km de
+la mairie de Vire. Faits relus ce jour : l'office écrit le mercredi 16h30-18h et le dimanche 10h30-12h, le site du
+groupement le mercredi 16h30-19h et le dimanche 10h30-12h (règle 5, les deux valeurs) ; groupement actif, certificat
+engagé. Il se publie seul, à son rang (règles 439 et 441).
+
+**Autres points relus à Vire Normandie et autour, non publiés** — avec le déblocage de chacun :
+
+- le marché du vendredi de Vire (9h-12h45, cent à cent soixante commerçants selon la saison, page de la Ville) : la
+  Ville n'écrit que « produits locaux » et « centre-ville », sans rue ni famille de produits ; l'office n'écrit que le
+  jour (règles 197 et 192 pour le lieu). **Déblocage** : les rues du marché et une famille de produits écrites par la
+  Ville ;
+- le marché du dimanche du parvis de la Porte Horloge : annoncé par la Ville « à titre expérimental pour six mois » à
+  partir du 5 avril 2026, familles écrites (huîtres, maraîchers, volailles), aucune heure, et la période d'essai est
+  échue. **Déblocage** : une page courante de la Ville avec ses heures ;
+- la page « producteurs locaux » de la Ville : une liste de livraisons sur rendez-vous faite de noms de personnes et
+  de leurs coordonnées — rien n'en est repris ;
+- une crémerie-fromagerie du centre : revente, aucune heure publiée (règle 192) ;
+- un magasin biologique indépendant et un magasin de réseau coopératif, tous deux actifs au registre et certifiés :
+  aucun site propre lisible ce jour (domaines qui ne résolvent pas, page de réseau en 404), donc aucune heure
+  (règle 192). **Déblocage** : leurs heures sur une page lisible ;
+- une chèvrerie biologique de Souleuvre en Bocage : « vente principalement à la ferme », sans jour ni heure
+  (règle 192) ; un producteur de céréales et légumineuses et un élevage bovin de l'intercommunalité : aucune heure, ou
+  vente sur rendez-vous seulement.
+
+**Contradictions** (règle 5) : le numéro de la boutique de producteurs (règle 440) ; pour la ferme maraîchère,
+« 3 La Blanquière » chez l'office et « 3 chemin la Grande Blanquière » au registre de l'Agence Bio, que connaît la Base
+Adresse Nationale — la fiche retient ce dernier et le dit ; les deux horaires du groupement apicole. **Fiches écartées
+pour doute sur une personne ou une donnée personnelle** : trois, toutes à Vire Normandie — une ferme fromagère
+biologique dont l'exploitant individuel a une adresse non diffusible au registre (règle 433), une micro-brasserie dont
+l'enseigne est un nom de famille (règle 259), et un producteur de champignons, exploitant individuel à l'adresse non
+diffusible (règle 433). Elles ne se rouvrent pas. Les opérateurs du registre de l'Agence Bio inscrits sous un
+patronyme n'ont pas été instruits.
+
+**Points d'arrêt** : dans le **Calvados**, la descente relue par la règle 432 s'arrête à **Vire Normandie** ; la
+commune suivante à relire est **Bayeux** (12 659), puis Ifs, Mondeville et Ouistreham, dont les marchés étaient arrêtés
+par l'image ou par la règle 197 ; le groupement apicole de Montchauvet et le groupe de Noues de Sienne restent à
+reprendre d'abord. Après la passe, sur 1 167 fiches : Loiret 7,19, Ain 6,98, Oise 6,64, Val-de-Marne 6,17, Nord 6,13 ;
+le Calvados retombe à 2,51. La région de cette passe est la Normandie (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante-deuxième) : Plaine Vallée (Val-d'Oise), quatre marchés à Enghien-les-Bains, Soisy-sous-Montmorency, Montmorency et Domont ; règle 439
 

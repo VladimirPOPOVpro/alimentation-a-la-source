@@ -30758,5 +30758,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=62%20avenue%20Jean%20Jaur%C3%A8s%2C%2095330%20Domont",
     "image_url": "/images/marchands/marche-de-domont.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-pause-paysanne-vire-normandie",
+    "nom": "La Pause Paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.831354,
+    "lon": -0.884984,
+    "adresse": "28 rue de la Monderie, 14500 Vire Normandie",
+    "horaires": "Du mardi au samedi de 12h à 19h, fermé le dimanche et le lundi, d'après l'office de tourisme du Pays de Vire (période 2026).",
+    "produits": [
+      "Pain frais",
+      "Fromages",
+      "Viande",
+      "Miel",
+      "Légumes",
+      "Cidre"
+    ],
+    "description": "Boutique d'une association de producteurs locaux, à moins d'un kilomètre de la mairie de Vire : elle ne vend que les produits d'une trentaine de producteurs de la région, d'après l'office de tourisme, et sert aussi un menu unique sur place ou à emporter. Association active au registre des entreprises, qui l'inscrit au 2 de la même rue ; la Base Adresse Nationale ne connaît pas ce numéro et connaît le 28, que donne l'office : c'est lui qui est publié. Faits tirés de la fiche de l'office, mise à jour le 8 septembre 2026 ; la boutique n'a pas de site propre. Photo : vue aérienne des abords du 28 rue de la Monderie — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Pause%20Paysanne%2C%2028%20rue%20de%20la%20Monderie%2C%2014500%20Vire%20Normandie",
+    "image_url": "/images/marchands/la-pause-paysanne-vire-normandie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ruchers-du-bocage-virois-vire-normandie",
+    "nom": "Les Ruchers du Bocage Virois",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.782549,
+    "lon": -0.877488,
+    "adresse": "216 route du Frêne, Saint-Germain-de-Tallevende, 14500 Vire Normandie",
+    "horaires": "Boutique à la ferme le vendredi de 16h à 19h, d'après l'office de tourisme du Pays de Vire. Les apiculteurs tiennent aussi un étal au marché de Vire, d'après l'office, qui n'en écrit pas le jour.",
+    "produits": [
+      "Miels (fleurs de Normandie, acacia, tilleul, forêt)",
+      "Pain d'épices",
+      "Nougat tendre",
+      "Bonbons au miel",
+      "Hydromel",
+      "Vinaigre de miel",
+      "Bougies en cire d'abeille"
+    ],
+    "description": "Apiculteurs récoltants et transhumants installés depuis 2007 à Saint-Germain-de-Tallevende, commune déléguée de Vire Normandie, avec environ cinq cents ruches ; ils vendent leurs miels et les produits qu'ils en tirent dans une boutique à la ferme. Groupement agricole actif au registre des entreprises dans la même commune déléguée, sous un nom de lieu-dit ; l'adresse au numéro et le fixe sont ceux que publie l'office de tourisme, dont la fiche date du 12 août 2026 et reste la seule source des heures. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne des abords du 216 route du Frêne — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 31 68 29 46",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Ruchers%20du%20Bocage%20Virois%2C%20216%20route%20du%20Fr%C3%AAne%2C%2014500%20Vire%20Normandie",
+    "image_url": "/images/marchands/ruchers-du-bocage-virois-vire-normandie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-tallevendaise-vire-normandie",
+    "nom": "La Tallevendaise",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.807403,
+    "lon": -0.899776,
+    "adresse": "231 impasse de la Criquetière, Saint-Germain-de-Tallevende, 14500 Vire Normandie",
+    "horaires": "Vente à la ferme le vendredi de 16h30 à 19h et le samedi de 10h à 12h30. Casiers en libre-service à la ferme, tous les jours et à toute heure. D'après l'office de tourisme du Pays de Vire.",
+    "produits": [
+      "Crème fraîche",
+      "Fromage blanc",
+      "Skyr",
+      "Fromage frais nature et aux herbes",
+      "Faisselle"
+    ],
+    "description": "Ferme laitière du bocage virois qui transforme sur place le lait de ses vaches en produits frais et les vend à la ferme deux fois par semaine, avec des casiers en libre-service le reste du temps. Société de fabrication de produits laitiers active au registre des entreprises au lieu-dit de la ferme, depuis 2024. À 3,6 km de la mairie de Vire. Faits tirés de la fiche de l'office de tourisme, mise à jour le 7 octobre 2026, seule source des heures. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne des abords du 231 impasse de la Criquetière — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Tallevendaise%2C%20231%20impasse%20de%20la%20Criqueti%C3%A8re%2C%2014500%20Vire%20Normandie",
+    "image_url": "/images/marchands/la-tallevendaise-vire-normandie.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "bergerie-de-la-souleuvre-souleuvre-en-bocage",
+    "nom": "Bergerie de la Souleuvre",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.936584,
+    "lon": -0.860795,
+    "adresse": "15 route de l'Hôtel Vallée, Carville, 14350 Souleuvre en Bocage",
+    "horaires": "Vente à la fromagerie le vendredi de 17h30 à 19h, d'après le site de la bergerie et l'office de tourisme du Pays de Vire. Visites de la ferme sur demande.",
+    "produits": [
+      "Yaourts de brebis",
+      "Crèmes dessert",
+      "Glaces",
+      "Fromages frais et faisselles",
+      "Tommes",
+      "Feta",
+      "Bleu de brebis"
+    ],
+    "description": "Élevage de brebis laitières en agriculture biologique dans la vallée de la Souleuvre, à une douzaine de kilomètres de Vire, qui transforme tout son lait dans sa propre fromagerie. La ferme vend aussi sur les marchés de Vire, de Villers-Bocage, de Saint-Lô et de Caen. Exploitation active au registre des entreprises au lieu-dit, certificat biologique engagé depuis 2019 au registre de l'Agence Bio ; le créneau du vendredi est écrit à l'identique par la ferme et par l'office. Point de la Base Adresse Nationale au numéro. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "http://bergeriedelasouleuvre.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bergerie%20de%20la%20Souleuvre%2C%2015%20route%20de%20l'H%C3%B4tel%20Vall%C3%A9e%2C%2014350%20Souleuvre%20en%20Bocage",
+    "image_url": "/images/marchands/bergerie-de-la-souleuvre-souleuvre-en-bocage.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "earl-des-4-saisons-souleuvre-en-bocage",
+    "nom": "EARL des 4 saisons",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.888524,
+    "lon": -0.864341,
+    "adresse": "3 chemin la Grande Blanquière, La Graverie, 14350 Souleuvre en Bocage",
+    "horaires": "Vente à la ferme le vendredi de 17h à 19h et le samedi de 9h30 à 13h, d'après l'office de tourisme du Pays de Vire. La ferme tient aussi un étal au marché de Vire, le vendredi matin.",
+    "produits": [
+      "Légumes de saison",
+      "Fruits de saison",
+      "Viande de mouton",
+      "Œufs",
+      "Confitures et gelées",
+      "Conserves de légumes"
+    ],
+    "description": "Ferme maraîchère en agriculture biologique de La Graverie, à moins de six kilomètres de Vire, qui vend ses légumes, ses fruits, sa viande de mouton et ses œufs, et transforme une partie de sa récolte en confitures et en conserves. Société agricole active au registre des entreprises au lieu-dit, certificat biologique engagé depuis 2005 au registre de l'Agence Bio. L'office de tourisme écrit « 3 La Blanquière », le registre de l'Agence Bio « 3 chemin la Grande Blanquière », que connaît la Base Adresse Nationale : c'est ce point qui est publié. Heures tirées de la fiche de l'office, mise à jour le 30 septembre 2026 ; le site que l'office indique ne répond plus et n'est pas repris. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=EARL%20des%204%20saisons%2C%203%20chemin%20la%20Grande%20Blanqui%C3%A8re%2C%2014350%20Souleuvre%20en%20Bocage",
+    "image_url": "/images/marchands/earl-des-4-saisons-souleuvre-en-bocage.jpg",
+    "a_confirmer": true
   }
 ]
