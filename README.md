@@ -5555,7 +5555,14 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-1055 fiches sur 1189 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1060 fiches sur 1194 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **L'Épi Vert** et **O'Pré des Paysans** (Blois), **Brasserie de Chambord** (Saint-Gervais-la-Forêt), **Domaine des
+  Huards** (Cour-Cheverny) et **Maison des vins de Cheverny** (Cheverny) (passe du 7 octobre 2026, cent
+  soixante-neuvième, règles 96 et 432) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni rayon ni
+  boutique ; les heures du magasin de producteurs viennent de son site (mai 2026), l'annuaire des intercommunalités
+  en donnant d'autres, plus anciennes ; les heures de la brasserie sont celles du bar et de la boutique réunis ; la
+  maison des vins n'est décrite que par l'office de tourisme, son site refusant la lecture, et aucune période n'est
+  publiée après le 11 novembre 2026.
 - **Marché alimentaire de la halle d'Abbeville**, **Au Temps des Mets** et **Locavrac** (Abbeville), **Marché bio de
   la Maison des Marais** (Longpré-les-Corps-Saints) (passe du 7 octobre 2026, cent soixante-huitième, règles 320, 432
   et 445) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni boutique ; l'office de
@@ -13263,6 +13270,109 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Blois et dans Agglopolys
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante-neuvième), avec le déblocage de chacune.
+
+- **Blois, marchés de plein air** (centre-ville, quartiers, marché du dimanche) : le `robots.txt` de la Ville nomme
+  les agents d'IA, son site n'est pas lu (règles 77 et 425) ; l'office de tourisme donne pour chaque marché deux
+  amplitudes différentes sur une même fiche et aucune famille de produits (règles 196 et 197) ; l'annuaire des
+  intercommunalités date de mars 2024 et n'écrit que « tous produits » ou « alimentaire ». **Déblocage** : une
+  publication datée d'une autorité autre que l'office qui écrit le jour, l'heure, le lieu et ce qu'on y achète.
+- **Blois, marché biologique du vendredi** : l'office le place sur un quai de la Loire (deux noms de quai sur la
+  même fiche, 16h-19h ou 16h-20h), l'annuaire des intercommunalités sur une place d'un autre quartier (règle 444).
+  **Déblocage** : une publication datée de l'organisateur qui écrit le lieu.
+- **Saint-Gervais-la-Forêt, magasin de producteurs** (point de vente collectif, société active au registre à son
+  adresse) : son nom de domaine ne répond plus, et ses seules heures sont celles de l'annuaire de mars 2024, qui
+  donne mot pour mot les mêmes à un autre magasin (règle 192). **Déblocage** : des heures publiées en 2026 par le
+  magasin, la commune ou la Chambre d'agriculture — ce serait un sixième point à 3,6 km de la mairie de Blois.
+- **Saint-Gervais-la-Forêt, magasin biologique coopératif** (société créée en mars 2026, active au registre, engagée
+  au registre de l'Agence Bio) : l'adresse que le registre bio lui donne renvoie désormais à la page du magasin de
+  Blois, et aucune page ne publie plus ses heures (règle 192). **Déblocage** : une page du magasin à ses heures.
+- **Blois, jardin maraîcher d'insertion biologique** (engagé au registre de l'Agence Bio) : pas de site joignable,
+  une page de réseau social seulement (règle 33). **Déblocage** : des jours et heures de vente publiés hors réseau
+  social.
+- **Blois, boutique de produits du terroir du centre-ville** : décrite par l'office comme boutique de souvenirs et de
+  cadeaux, sans producteur nommé (règle 361) ; non instruite.
+- **Vineuil et La Chaussée-Saint-Victor, conserverie de poissons de Loire** : le registre et l'office ne lui donnent
+  pas la même adresse, dans deux communes (règle 5), et son certificat biologique est arrêté. **Déblocage** : une
+  adresse de boutique concordante.
+- **Blois et Vineuil, deux AMAP** : heures à l'annuaire de mars 2024 et sur un site non daté (règle 195) ;
+  **Déblocage** inchangé.
+- **Marchés de Vineuil, Villebarou, La Chaussée-Saint-Victor, Saint-Gervais-la-Forêt, Cellettes, Chailles et
+  Cour-Cheverny** : l'annuaire de mars 2024 leur donne un jour et une heure mais aucune famille de produits, et les
+  communes déjà lues le 25 septembre n'en disent pas davantage (règle 197). **Déblocage** : une page communale qui
+  écrit ce qu'on y achète.
+- **Exploitations du registre biologique inscrites sous le nom de leur exploitant**, à Blois et dans une dizaine de
+  communes de l'agglomération : non instruites (règle des personnes) ; elles ne se rouvrent pas.
+
+### Passe du 7 octobre 2026 (cent soixante-neuvième) : Blois, Saint-Gervais-la-Forêt, Cour-Cheverny et Cheverny (Loir-et-Cher), cinq fiches dans Agglopolys ; le département se rouvre par la règle 432
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 194
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 189 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Loir-et-Cher (41) 5,67**,
+aucune fiche, écrit épuisé le 25 septembre (règle 265) et rouvert à son rang par la règle 432 — c'est la première
+passe qui le relit ; puis Val-de-Marne 5,61, Aube 5,35, Seine-et-Marne 5,32, Mayenne 5,27. La passe précédente visait
+les Hauts-de-France : le Centre-Val de Loire est permis (règle 41.c). `git fetch` fait avant l'écriture :
+`origin/main` n'a pas bougé.
+
+**Reprise à la commune calculée, Blois** (47 219), sous l'agent par défaut, `robots.txt` d'abord (règle 425). Celui
+de la Ville nomme toujours les agents d'IA : son site reste fermé (règle 77), et ses marchés avec lui. Ceux de
+l'agglomération, de l'office de tourisme de Blois-Chambord et de l'agence touristique du département n'excluent
+personne ; les deux derniers, fermés le 25 septembre par la seule règle 257, se rouvrent. La source qui manquait est
+l'annuaire « En direct de nos fermes », que l'agglomération et deux intercommunalités voisines tiennent avec la
+Chambre d'agriculture : il recense les points de vente collectifs du Blaisois. Registre de l'Agence Bio relu en
+entier sur le département (702 opérateurs), filtré sur l'agglomération : des grandes surfaces, des boulangeries, des
+exploitations en nom propre, et deux magasins coopératifs. Distances prises depuis la mairie de Blois (règle 441).
+
+1. **L'Épi Vert** (Blois) — magasin biologique coopératif, 51 avenue de Châteaudun : heures et fixe sur son site ;
+   société active au registre à l'adresse, engagement Ecocert en cours. Pas de `site_web` (règle 377 : la page
+   d'accueil publie des avis signés). BAN au numéro (0,975). À 1,4 km.
+2. **O'Pré des Paysans** (Blois) — magasin de producteurs, 128 avenue de Châteaudun : heures et fixe sur son site,
+   dont la page d'accueil date de mai 2026 ; société active au registre à l'adresse ; recensé comme point de vente
+   collectif par l'annuaire des intercommunalités. Pas de `site_web` (règle 377 : la page d'accueil nomme des
+   salariés et publie des avis signés). BAN au numéro (0,975). À 2,3 km.
+3. **Brasserie de Chambord** (Saint-Gervais-la-Forêt) — 125 route Nationale : heures du bar et de la boutique
+   identiques sur le site de la brasserie et à l'office, qui les publie pour l'année à venir ; société active au
+   registre, atelier et débit à la même adresse. Le seul numéro publié est un portable : il n'est pas repris.
+   BAN au numéro (0,964). À 3,8 km.
+4. **Domaine des Huards** (Cour-Cheverny) — désigné le 25 septembre, seul dans sa commune : heures et fixe sur son
+   site, société active au registre, engagement Ecocert en cours, recensé par l'agence du département. Pas de
+   `site_web` (règle 377 : la page d'accueil nomme une famille). BAN au numéro (0,949). À 10,9 km.
+5. **Maison des vins de Cheverny** (Cheverny) — point de vente du syndicat des producteurs des deux appellations,
+   1 avenue du Château : heures par périodes datées de 2026 à l'office ; syndicat actif au registre à l'adresse. Son
+   site répond 403 à l'agent par défaut : il n'est pas lu, ni téléphone ni `site_web` ne sont repris (règle 425).
+   BAN au numéro (0,951). À 13,6 km.
+
+Aucune photographie n'a été reprise : les conditions du réseau du magasin coopératif nomment les photographies
+(règle 245, écrit le 25 septembre), les pages d'accueil du magasin de producteurs et du domaine sont fermées par la
+règle 377, la maison des vins ne se lit pas, et les images de l'office n'ont pas été instruites (règle 432 : la
+vue aérienne suffit à une fiche aux faits entiers). Les cinq images sont des
+vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni enseigne lisible. Toutes
+partent en `a_confirmer`. Cinq points, dont deux dans la commune calculée, tous dans Agglopolys et à moins de quinze
+kilomètres de la mairie (règle 96). Aucune règle nouvelle : chaque cas était déjà tranché.
+
+**Autres points relus dans le secteur, non publiés** : ils sont écrits, avec le déblocage de chacun, dans la section
+« Pistes non publiées à Blois et dans Agglopolys » — les marchés de Blois, le marché biologique du vendredi, le
+magasin de producteurs et le magasin biologique coopératif de Saint-Gervais-la-Forêt, un jardin d'insertion, une
+conserverie, deux AMAP et les marchés des communes voisines.
+
+**Contradictions** (règle 5) : le magasin de producteurs de Blois, ouvert du mercredi au samedi avec coupure selon
+son site, sans coupure le vendredi selon l'annuaire de mars 2024 — la fiche retient le site, plus récent, écrit
+l'autre et renvoie au téléphone ; le marché biologique de Blois, situé à deux endroits par deux autorités — pas de
+fiche (règle 444) ; les marchés de Blois, deux amplitudes sur une même fiche de l'office — pas de fiche.
+**Fiches écartées pour doute sur une personne ou une donnée personnelle** : aucune fiche instruite puis écartée ;
+les exploitations en nom propre du registre bio n'ont pas été instruites, et les noms de producteurs, de salariés, de
+responsables et de clients que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Loir-et-Cher**, la descente relue par la règle 432 s'arrête à **Blois** ; la commune
+suivante à relire est **Romorantin-Lanthenay** (18 373), puis **Vendôme** (15 758 ; un magasin biologique aux heures
+publiées, office à relire sous la règle 425), Le Controis-en-Sologne et Mer ; les cinq marchés aux faits entiers du
+25 septembre (Salbris, Saint-Laurent-Nouan, Selles-sur-Cher, Montoire-sur-le-Loir, Montrichard Val de Cher) restent
+désignés, chacun dans sa commune. Après la passe, sur 1 194 fiches : Val-de-Marne 5,71, Seine-et-Marne 5,42, Aube
+5,38, Nord 5,29, Mayenne 5,29 ; le Loir-et-Cher retombe à 0,69. La région de cette passe est le Centre-Val de Loire
+(règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante-huitième) : Abbeville et Longpré-les-Corps-Saints (Somme), quatre fiches dans la Communauté d'agglomération de la Baie de Somme ; le département se rouvre par la règle 432 ; règle 445
 

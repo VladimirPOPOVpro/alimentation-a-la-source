@@ -31456,5 +31456,131 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20des%20Marais%2C%2080510%20Longpr%C3%A9-les-Corps-Saints",
     "image_url": "/images/marchands/marche-bio-maison-des-marais-longpre-les-corps-saints.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "l-epi-vert-blois",
+    "nom": "L'Épi Vert",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.60042,
+    "lon": 1.328432,
+    "adresse": "51 Avenue de Châteaudun, 41000 Blois",
+    "horaires": "Du lundi au jeudi de 9h à 19h ; vendredi et samedi de 9h à 19h30 ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Boucherie et charcuterie",
+      "Poissonnerie",
+      "Fromagerie",
+      "Pains et pâtisseries cuits sur place",
+      "Vrac",
+      "Vins et épicerie"
+    ],
+    "description": "Magasin bio coopératif du réseau Biocoop, créé en 1993 et installé depuis 2019 dans un bâtiment en bois et paille au nord du centre de Blois. Il tient des rayons traditionnels — boucherie, poissonnerie, fromagerie — et un fournil, et dit travailler avec plus de soixante-dix fournisseurs locaux. Société active au registre des entreprises à cette adresse, engagée auprès d'Ecocert d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de l'avenue de Châteaudun, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 54 78 13 32",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%27%C3%89pi%20Vert%2C%2051%20Avenue%20de%20Ch%C3%A2teaudun%2C%2041000%20Blois",
+    "image_url": "/images/marchands/l-epi-vert-blois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "o-pre-des-paysans-blois",
+    "nom": "O'Pré des Paysans",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.608374,
+    "lon": 1.327611,
+    "adresse": "128 Avenue de Châteaudun, 41000 Blois",
+    "horaires": "Du mercredi au vendredi de 9h30 à 12h30 et de 14h30 à 19h ; samedi de 9h30 à 12h30 et de 14h30 à 18h ; fermé du dimanche au mardi (site du magasin, mis à jour en mai 2026). L'annuaire « En direct de nos fermes » des intercommunalités, plus ancien, donne d'autres heures : mieux vaut téléphoner avant de se déplacer.",
+    "produits": [
+      "Viande de bœuf et d'agneau",
+      "Volailles et œufs fermiers",
+      "Légumes et salades",
+      "Fraises et fruits de saison",
+      "Yaourts fermiers",
+      "Miel",
+      "Noix",
+      "Pâtes fermières"
+    ],
+    "description": "Magasin de producteurs au nord de Blois : dix agriculteurs associés de la région y vendent les produits de leurs fermes, avec un rayon boucherie, et accueillent les produits d'autres fermes de la région. L'annuaire « En direct de nos fermes », tenu par Agglopolys et deux intercommunalités voisines avec la Chambre d'agriculture, le recense comme point de vente collectif. Société active au registre des entreprises à cette adresse. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de l'avenue de Châteaudun, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 54 74 01 56",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Pr%C3%A9%20des%20Paysans%2C%20128%20Avenue%20de%20Ch%C3%A2teaudun%2C%2041000%20Blois",
+    "image_url": "/images/marchands/o-pre-des-paysans-blois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-de-chambord-saint-gervais-la-foret",
+    "nom": "Brasserie de Chambord",
+    "categorie": "producteur",
+    "piliers": [
+      "economie"
+    ],
+    "lat": 47.563198,
+    "lon": 1.370068,
+    "adresse": "125 Route Nationale, 41350 Saint-Gervais-la-Forêt",
+    "horaires": "Bar et boutique du lundi au mercredi de 11h à 21h, du jeudi au samedi de 11h à 23h ; fermé le dimanche (site de la brasserie et office de tourisme de Blois-Chambord).",
+    "produits": [
+      "Bières blonde, blanche et ambrée",
+      "Bières de spécialité (triple, IPA, cerise, stout)",
+      "Bière blonde sans alcool",
+      "Limonade",
+      "Cola"
+    ],
+    "description": "Brasserie installée au sud de Blois, née d'un partenariat entre une coopérative agricole de la région et le Domaine national de Chambord : elle brasse sur place, avec des orges et des malts du Centre-Val de Loire, et vend ses bières dans une boutique ouverte sur l'atelier de production, à côté d'un bar où l'on peut aussi déjeuner. Les heures publiées sont celles de l'ensemble bar et boutique. Société active au registre des entreprises à cette adresse. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de la route Nationale, qui ne montre pas l'intérieur de la brasserie — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.brasseriedechambord.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20de%20Chambord%2C%20125%20Route%20Nationale%2C%2041350%20Saint-Gervais-la-For%C3%AAt",
+    "image_url": "/images/marchands/brasserie-de-chambord-saint-gervais-la-foret.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "domaine-des-huards-cour-cheverny",
+    "nom": "Domaine des Huards",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.530404,
+    "lon": 1.45236,
+    "adresse": "30 Voie des Huards, 41700 Cour-Cheverny",
+    "horaires": "Du lundi au samedi de 9h30 à 12h et de 14h à 18h30 de mars à novembre, jusqu'à 18h de novembre à mars ; fermé le dimanche et les jours fériés (site du domaine). Les visites et dégustations en groupe se réservent.",
+    "produits": [
+      "Vins blancs de Cour-Cheverny (cépage romorantin)",
+      "Vins de Cheverny blancs, rouges et rosés",
+      "Crémant de Loire"
+    ],
+    "description": "Domaine viticole entre Loire et Sologne, à une dizaine de kilomètres de Blois, conduit en agriculture biologique et en biodynamie : il ne vend que des vins issus de ses propres vignes, en appellations Cheverny et Cour-Cheverny, dont des cuvées de romorantin, cépage propre à cette dernière. Société active au registre des entreprises, engagée auprès d'Ecocert d'après le registre de l'Agence Bio ; l'agence touristique du département le recense aussi. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du domaine et de ses vignes — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 54 79 97 90",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20des%20Huards%2C%2030%20Voie%20des%20Huards%2C%2041700%20Cour-Cheverny",
+    "image_url": "/images/marchands/domaine-des-huards-cour-cheverny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "maison-des-vins-de-cheverny",
+    "nom": "Maison des vins de Cheverny",
+    "categorie": "producteur",
+    "piliers": [
+      "economie",
+      "social"
+    ],
+    "lat": 47.499423,
+    "lon": 1.459792,
+    "adresse": "1 Avenue du Château, 41700 Cheverny",
+    "horaires": "Tous les jours de 11h à 13h15 et de 14h15 à 18h jusqu'au 11 novembre 2026, d'après l'office de tourisme de Blois-Chambord, qui publie des heures par périodes (fermeture à 19h du printemps à la fin septembre, sans coupure en plein été). Aucune période n'est publiée après le 11 novembre.",
+    "produits": [
+      "Vins d'appellation Cheverny",
+      "Vins d'appellation Cour-Cheverny",
+      "Jus de raisin"
+    ],
+    "description": "Point de vente et de dégustation du syndicat des producteurs des appellations Cheverny et Cour-Cheverny, à l'entrée du château de Cheverny : une centaine de vins des vignerons des deux appellations y sont proposés à la dégustation et à la vente, dans une même boutique. Le syndicat est actif au registre des entreprises à cette adresse. Les faits viennent de l'office de tourisme, le site de la maison des vins n'ayant pas pu être consulté : ni son téléphone ni son site ne sont repris ici. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de l'avenue du Château — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20des%20vins%20de%20Cheverny%2C%201%20Avenue%20du%20Ch%C3%A2teau%2C%2041700%20Cheverny",
+    "image_url": "/images/marchands/maison-des-vins-de-cheverny.jpg",
+    "a_confirmer": true
   }
 ]
