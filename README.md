@@ -5613,9 +5613,33 @@ prioritaires en cas de conflit.
      faits (règle 6). **Déblocage** : la page nettoyée. Ici : le marché de Noisiel attend ; le moulin est publié sans
      site.
 
+450. **Le recensement des marchés qu'une intercommunalité publie après avoir interrogé ses communes vaut source d'autorité
+     pour un marché, même quand le site de la commune ne se lit pas.** Le 7 octobre 2026 (cent soixante-quatorzième
+     passe), Béthune rend deux marchés aux faits entiers, et les trois points qui complètent la zone sont des marchés de
+     communes voisines dont les sites sont des applications sans texte lisible (Annezin, Nœux-les-Mines) ou ne décrivent
+     pas leur marché (Vaudricourt). La communauté d'agglomération de Béthune-Bruay publie sur son site une carte des
+     marchés « établie au 1er juin 2025, sur interrogation des communes », servie par un jeu de données ouvert sans clé
+     (couche mise à jour le 23 janvier 2026), qui donne pour chaque marché le jour, les heures, le lieu, un point et la
+     composition des étals par métier. La règle 196 écarte le marché que seul l'office de tourisme recense, parce que
+     l'office est un relais ; une intercommunalité qui interroge les communes organisatrices et date son relevé n'est pas
+     un relais, c'est l'autorité qui porte le développement économique du territoire. **Tranché ainsi** : (a) ce
+     recensement suffit pour le jour, les heures, le lieu et les familles de produits (règle 197) quand il est daté de
+     moins de dix-huit mois ; (b) la fiche part en `a_confirmer` et dit que la source est unique quand ni la commune ni
+     l'office ne la recoupent ; (c) un marché que le recensement écrit « de saison » ne se publie que dans sa saison ;
+     (d) quand la Base Adresse Nationale ignore la place, le point du recensement fait foi ; (e) quand la commune
+     publie d'autres heures, la fiche écrit les deux (règle 5). Les règles 119 et 196 restent entières. **Ce que la
+     règle débloque** : la passe de Béthune, dans la même passe ; ensuite, les marchés des quarante-deux lignes de ce
+     recensement, à leur rang.
+
 ## Marchands à confirmer
 
-1080 fiches sur 1214 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1085 fiches sur 1219 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Béthune (place Lamartine)** et **Marché du Mont-Liébaut (Les Halles)** (Béthune), **Marché d'Annezin**,
+  **Marché de Nœux-les-Mines** et **Marché de Vaudricourt** (passe du 7 octobre 2026, cent soixante-quatorzième,
+  règles 96, 432 et 450) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; les marchés
+  d'Annezin et de Vaudricourt ne sont écrits que par le recensement de l'agglomération de Béthune-Bruay ; l'heure
+  d'ouverture du grand marché de Béthune diffère entre la Ville (6h), l'agglomération (8h le lundi, 7h le vendredi)
+  et l'office de tourisme (jusqu'à 14h) ; au Mont-Liébaut, deux familles alimentaires seulement sont écrites.
 - **Marché de Coulommiers** et **Les Délices du Grand Champ** (Coulommiers), **Moulin de Chantemerle** (Aulnoy),
   **Atelier du terroir de l'ESAT du Domaine Emmanuel** (Hautefeuille) et **Ferme de Moneuse** (Dagny) (passe du
   7 octobre 2026, cent soixante-treizième, règles 96, 432, 448 et 449) : les cinq fiches portent une vue aérienne de
@@ -13358,6 +13382,97 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Béthune et dans l'agglomération de Béthune-Bruay
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante-quatorzième), avec le déblocage de chacune.
+
+- **Lens** (règle 406) : le site de la Ville ne répond toujours pas à l'agent par défaut (connexion sans réponse) ;
+  il n'est pas lu (règle 425.b). **Déblocage** : le retour du site.
+- **Hénin-Beaumont, marchés du mardi et du vendredi** : la Ville ne les écrit toujours que dans un avis de 2021,
+  sans lieu ni heure (règle 192) ; ses autres pages sont des appels à candidatures. **Déblocage** : une page de la
+  Ville avec le lieu et les heures.
+- **Béthune, marchés du mardi (place Saint-Christophe) et du jeudi (parvis de la gare)** : l'agglomération les écrit
+  « de saison », d'avril à septembre ; la saison est close (règle 450.c). La Ville et l'agglomération donnent en
+  outre deux heures de fermeture différentes. **Déblocage** : avril 2027.
+- **Béthune, marché du mercredi au Mont-Liébaut** (place de la Communication, 9h à 13h d'après la Ville) : aucune
+  famille de produits écrite, et absent du recensement de l'agglomération (règle 197). **Déblocage** : une famille.
+- **Beuvry, magasin à la ferme de maraîchers biologiques** (société active au registre, certificat engagé, fixe
+  publié) : ni son site ni l'office de tourisme n'écrivent une heure d'ouverture (règle 192) ; la page « marché »
+  de la Ville répond 404. **Déblocage** : ses heures.
+- **Annezin, exploitation maraîchère biologique** : son site ne répond pas (règle 237), aucune heure à l'office.
+  **Vaudricourt, épicerie d'une ferme d'insertion** : aucune heure écrite, contact par portable seulement.
+  **Verquin, producteur de légumes** : aucune heure. **Déblocage** : pour chacun, des heures écrites.
+- **Marchés de Hinges, Gosnay, Lapugnoy, Mont-Bernanchon, Cuinchy et Richebourg** : faits écrits par le
+  recensement de l'agglomération (règle 450), non retenus parce que le groupe était complet ; ils se prennent à
+  leur rang. **Verquigneul et Locon** : aucune famille écrite (règle 197). **Essars et Fouquières-lès-Béthune** :
+  une rôtisserie seule, ce n'est pas un marché.
+- **Fromagerie et cave-épicerie fine du centre de Béthune** : commerces de revente, hors sujet (règle 3) ; la
+  brasserie artisanale que l'office rattache à Béthune écrit qu'elle n'a pas de boutique.
+- **Annuaire de la Chambre d'agriculture** : à Béthune, Locon et Beuvry, quatre lignes sans heures, dont une de
+  2021 (règle 192).
+- **Écartée pour doute sur une personne** : une, à Annezin — un producteur de miel dont le registre des entreprises
+  ne connaît que l'exploitant en nom propre ; elle ne se rouvre pas. Les fiches de l'office de tourisme dont
+  l'enseigne porte un nom de famille ou un prénom, et les exploitants en nom propre du registre de l'Agence Bio,
+  n'ont pas été instruits.
+
+### Passe du 7 octobre 2026 (cent soixante-quatorzième) : Béthune, Annezin, Nœux-les-Mines et Vaudricourt (Pas-de-Calais), cinq fiches dans l'agglomération de Béthune-Bruay ; règle 450
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 219
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 214 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Pas-de-Calais (62) 5,67**,
+20 fiches, ouvert — la passe précédente a publié en Île-de-France (règle 41.c) ; puis Mayenne 5,38, Cher 5,26,
+Seine-Saint-Denis 5,01. `git fetch` fait avant le calcul : `origin/main` n'a pas bougé.
+
+**Contrôles d'abord (règle 406)** : Lens ne répond toujours pas à l'agent par défaut ; elle n'est pas lue.
+
+**Descente reprise au point d'arrêt du 7 octobre (Liévin)**, sous l'agent par défaut, `robots.txt` d'abord
+(règle 425), registre de l'Agence Bio relu en entier sur le département (1 101 opérateurs, 90 à moins de dix
+kilomètres de Béthune) :
+
+1. **Hénin-Beaumont** (25 688) — la Ville ne publie toujours ni lieu ni heure pour ses marchés. **Zéro.**
+2. **Béthune** (25 224) — `robots.txt` lu selon la règle 359, délai de cinq secondes respecté. **Deux fiches
+   entières** dans la commune (règle 127), et l'agglomération complète le groupe (règle 96) : **elle fait la passe.**
+
+Sources lues : la page des marchés de la Ville de Béthune ; le recensement des marchés de la communauté
+d'agglomération de Béthune-Bruay (**règle 450**, nouvelle) ; l'office de tourisme de Béthune-Bruay (faits seulement,
+ses images sont réservées, règle 231) ; l'annuaire de la Chambre d'agriculture ; le registre des entreprises et celui
+de l'Agence Bio. Distances prises depuis la mairie de Béthune (annuaire de l'administration, règle 363) ; les quatre
+communes ont le même champ `epci`.
+
+1. **Marché de Béthune (place Lamartine)** — lundi et vendredi matin, un seul point (règle 42) ; familles écrites
+   par la Ville et détaillées par l'agglomération ; fixe du service commerce publié par la Ville. BAN à la place
+   (0,966), à 30 m du point de l'agglomération. À 0,5 km.
+2. **Marché du Mont-Liébaut (Les Halles)** — dimanche de 9h à 12h pour la Ville comme pour l'agglomération ;
+   fruits et légumes, boucherie-charcuterie. BAN au numéro (0,969). À 1,6 km.
+3. **Marché d'Annezin** — samedi de 7h30 à 13h, sept métiers alimentaires ; recensement de l'agglomération seul.
+   La BAN ignore la place : point du recensement (règle 450.d). À 1,4 km.
+4. **Marché de Nœux-les-Mines** — vendredi de 8h à 13h pour l'agglomération, « chaque vendredi matin » pour
+   l'office. BAN à la place (0,95), à 24 m du point de l'agglomération. À 5,7 km.
+5. **Marché de Vaudricourt** — mercredi de 15h45 à 19h, maraîcher, poissonnier, crémier ; recensement de
+   l'agglomération seul. BAN à l'adresse de la mairie (0,956). À 3,2 km.
+
+Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne
+reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`. Aucun `site_web` : aucun de ces
+marchés n'a de page propre lisible.
+
+**Contradictions** (règle 5) : le grand marché de Béthune ouvre à 6h pour la Ville, à 8h le lundi et 7h le vendredi
+pour l'agglomération, et ferme à 14h pour l'office (page restée à l'époque des consignes sanitaires) — la fiche
+écrit la Ville et l'agglomération, s'arrête à 13h et conseille de venir après 8h ; l'office place le marché du lundi
+sur la Grand'Place, la Ville et l'agglomération le font partir de la place Lamartine — la fiche suit ces deux-là.
+Le marché du jeudi ferme à 19h pour la Ville, à 20h pour l'agglomération, et celui du mardi à 18h ou à 19h : aucun
+n'est publié, la saison est close. **Fiches écartées pour doute sur une personne ou une donnée personnelle** : une,
+à Annezin ; les enseignes patronymiques de l'office et les exploitants en nom propre des registres n'ont pas été
+instruits, et aucun des noms, portables ou adresses électroniques que citent les pages consultées n'est repris.
+**Laissé de côté volontairement** : les autres marchés du recensement, le groupe étant complet ; une ferme ou un
+magasin de producteurs aurait mieux varié la zone, mais aucun point de vente à la ferme du Béthunois n'écrit ses
+heures (pistes ci-dessus).
+
+**Points d'arrêt** : dans le **Pas-de-Calais**, la descente s'arrête à **Béthune** et reprend à
+**Bruay-la-Buissière** (21 424), puis Carvin ; à contrôler d'abord (règle 406) : Lens, sur le retour de son site ;
+**Étaples** garde sa vente des pêcheurs désignée pour la reprise. Après la passe, sur 1 219 fiches : Mayenne 5,40,
+Cher 5,28, Seine-Saint-Denis 5,13, Gironde 4,89, Jura 4,56 ; le Pas-de-Calais retombe à 0,78. La région de cette
+passe est les Hauts-de-France (règle 41.c).
 
 ### Pistes non publiées en Seine-et-Marne relue (d'Ozoir-la-Ferrière à Coulommiers)
 

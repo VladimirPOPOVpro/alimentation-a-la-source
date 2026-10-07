@@ -32093,5 +32093,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20de%20Moneuse%2C%202%20Rue%20des%20Pr%C3%A9s%20de%20Moneuse%2C%2077320%20Dagny",
     "image_url": "/images/marchands/ferme-de-moneuse-dagny.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-bethune-place-lamartine",
+    "nom": "Marché de Béthune (place Lamartine)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.534573,
+    "lon": 2.638577,
+    "adresse": "Place Lamartine, 62400 Béthune",
+    "horaires": "Lundi et vendredi matin, jusqu'à 13h. La Ville de Béthune écrit une ouverture à 6h les deux jours ; le recensement des marchés de l'agglomération de Béthune-Bruay écrit 8h le lundi et 7h le vendredi. Le marché du lundi est avancé au dimanche matin quand le lundi est le Nouvel An, le 14 juillet, la Toussaint, le 11 novembre ou Noël, d'après la Ville.",
+    "produits": [
+      "Fruits et légumes (maraîchers et revendeurs)",
+      "Produits locaux",
+      "Boucherie et charcuterie",
+      "Volailles et œufs",
+      "Crèmerie et fromages",
+      "Poissonnerie (le vendredi)",
+      "Boulangerie et pâtisserie (le vendredi)",
+      "Produits biologiques"
+    ],
+    "description": "Le grand marché de Béthune : le vendredi sur les places Lamartine et Yitzhak-Rabin, à dominante alimentaire ; le lundi il s'étend à la rue du Tribunal, à la rue Sadi-Carnot et à la Grand'Place, avec en plus des vêtements, des chaussures et du bazar. La composition des étals est celle que publie l'agglomération de Béthune-Bruay (recensement fait auprès des communes, mis à jour en janvier 2026). Les heures d'ouverture diffèrent d'une source à l'autre : mieux vaut venir après 8h. Le téléphone est celui du service commerce de la Ville. Point placé sur la place Lamartine (Base Adresse Nationale). Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 21 63 00 00",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20B%C3%A9thune%20%28place%20Lamartine%29%20Place%20Lamartine%2C%2062400%20B%C3%A9thune",
+    "image_url": "/images/marchands/marche-de-bethune-place-lamartine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mont-liebaut-bethune",
+    "nom": "Marché du Mont-Liébaut (Les Halles)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.516803,
+    "lon": 2.63143,
+    "adresse": "121 Boulevard des États-Unis, 62400 Béthune",
+    "horaires": "Dimanche de 9h à 12h, d'après la Ville de Béthune et l'agglomération de Béthune-Bruay. Avancé au samedi matin certains jours fériés, d'après la Ville.",
+    "produits": [
+      "Fruits et légumes (maraîchers et revendeurs)",
+      "Boucherie et charcuterie"
+    ],
+    "description": "Marché de quartier du dimanche matin au Mont-Liébaut, au Forum-Les Halles, à 1,6 km de la mairie de Béthune. L'agglomération de Béthune-Bruay y recense des fruits et légumes et une boucherie-charcuterie, à côté d'étals de vêtements et de bazar ; aucune source n'en dit plus sur l'alimentaire. La Ville annonce aussi un marché le mercredi de 9h à 13h place de la Communication, dans le même quartier, sans dire ce qu'on y vend : il n'est pas repris ici. Le téléphone est celui du service commerce de la Ville. Point placé sur le numéro du boulevard (Base Adresse Nationale). Photo : vue aérienne du quartier, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 21 63 00 00",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Mont-Li%C3%A9baut%20%28Les%20Halles%29%20121%20Boulevard%20des%20%C3%89tats-Unis%2C%2062400%20B%C3%A9thune",
+    "image_url": "/images/marchands/marche-du-mont-liebaut-bethune.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-d-annezin",
+    "nom": "Marché d'Annezin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.533781,
+    "lon": 2.619472,
+    "adresse": "Place de l'Église, 62232 Annezin",
+    "horaires": "Samedi de 7h30 à 13h, d'après le recensement des marchés de l'agglomération de Béthune-Bruay (seule source lue).",
+    "produits": [
+      "Fruits et légumes (maraîchers et revendeurs)",
+      "Produits locaux",
+      "Boucherie et charcuterie",
+      "Poissonnerie",
+      "Volailles et œufs",
+      "Crèmerie et fromages",
+      "Rôtisserie"
+    ],
+    "description": "Marché hebdomadaire entièrement alimentaire, sur la place de l'Église d'Annezin, à 1,4 km de la mairie de Béthune et dans la même communauté d'agglomération. Jour, heures et composition des étals viennent du recensement que l'agglomération de Béthune-Bruay publie après avoir interrogé les communes (mis à jour en janvier 2026) ; le site de la commune n'a pas pu être lu, la fiche repose donc sur cette seule source. Point repris de ce recensement, la Base Adresse Nationale ne connaissant pas la place. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20d%27Annezin%20Place%20de%20l%27%C3%89glise%2C%2062232%20Annezin",
+    "image_url": "/images/marchands/marche-d-annezin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-noeux-les-mines",
+    "nom": "Marché de Nœux-les-Mines",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.48129,
+    "lon": 2.660173,
+    "adresse": "Place Jean Jaurès, 62290 Nœux-les-Mines",
+    "horaires": "Vendredi de 8h à 13h, d'après l'agglomération de Béthune-Bruay ; « chaque vendredi matin » d'après l'office de tourisme de Béthune-Bruay.",
+    "produits": [
+      "Fruits et légumes (maraîchers et revendeurs)",
+      "Produits locaux",
+      "Boucherie et charcuterie",
+      "Poissonnerie",
+      "Crèmerie et fromages",
+      "Rôtisserie"
+    ],
+    "description": "Marché du vendredi matin sur la place Jean-Jaurès, à 5,7 km de la mairie de Béthune et dans la même communauté d'agglomération. Les familles alimentaires sont celles que recense l'agglomération de Béthune-Bruay (mise à jour de janvier 2026), qui y note aussi des vêtements, des chaussures et du bazar ; l'office de tourisme confirme le jour et la place. Point placé sur la place (Base Adresse Nationale). Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20N%C5%93ux-les-Mines%20Place%20Jean%20Jaur%C3%A8s%2C%2062290%20N%C5%93ux-les-Mines",
+    "image_url": "/images/marchands/marche-de-noeux-les-mines.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-vaudricourt",
+    "nom": "Marché de Vaudricourt",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.502727,
+    "lon": 2.624947,
+    "adresse": "405 Rue de Béthune, 62131 Vaudricourt",
+    "horaires": "Mercredi de 15h45 à 19h, d'après le recensement des marchés de l'agglomération de Béthune-Bruay (seule source lue).",
+    "produits": [
+      "Fruits et légumes d'un maraîcher",
+      "Poissonnerie",
+      "Crèmerie et fromages"
+    ],
+    "description": "Petit marché de village du mercredi en fin d'après-midi, sur la place de la mairie de Vaudricourt, à 3,2 km de la mairie de Béthune et dans la même communauté d'agglomération : un maraîcher, un poissonnier et un crémier-fromager, parfois un étal de vêtements ou d'accessoires. Jour, heures et composition viennent du recensement que l'agglomération de Béthune-Bruay publie après avoir interrogé les communes (mis à jour en janvier 2026) ; le site de la commune ne décrit pas le marché, la fiche repose donc sur cette seule source. Point placé sur l'adresse de la mairie (Base Adresse Nationale). Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Vaudricourt%20405%20Rue%20de%20B%C3%A9thune%2C%2062131%20Vaudricourt",
+    "image_url": "/images/marchands/marche-de-vaudricourt.jpg",
+    "a_confirmer": true
   }
 ]
