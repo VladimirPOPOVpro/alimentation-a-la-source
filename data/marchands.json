@@ -31842,5 +31842,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4t%C3%A9%20Ferme%2C%2055%20rue%20de%20Berthen%2C%2059270%20Saint-Jans-Cappel",
     "image_url": "/images/marchands/cote-ferme-saint-jans-cappel.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-central-des-halles-troyes",
+    "nom": "Marché central des Halles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.298905,
+    "lon": 4.074512,
+    "adresse": "Rue Claude Huez, 10000 Troyes",
+    "horaires": "Lundi de 8h à 13h ; mardi, mercredi et jeudi de 8h à 13h et de 15h30 à 19h ; vendredi et samedi de 7h à 19h sans interruption ; dimanche de 9h à 13h, d'après la Ville de Troyes. Un marché extérieur s'installe autour des Halles le mercredi et le vendredi de 8h à 17h, et le samedi de 8h à 14h.",
+    "produits": [
+      "Boucherie et charcuterie",
+      "Primeurs",
+      "Poisson",
+      "Boulangerie et pâtisserie"
+    ],
+    "description": "Halle couverte du centre de Troyes, à 0,2 km de la mairie : environ trente-cinq commerces alimentaires de proximité, d'après l'office de tourisme Troyes La Champagne, qui publie pour 2026 les mêmes heures que la Ville, jour par jour. Un espace permet de manger sur place ce qu'on a acheté aux commerçants. La Ville, qui organise le marché, en écrit le lieu et les heures. Point : le marché des Halles à l'index des lieux de l'IGN. Photo : vue aérienne de la halle, qui ne montre pas l'intérieur du marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20central%20des%20Halles%2C%20rue%20Claude%20Huez%2C%2010000%20Troyes",
+    "image_url": "/images/marchands/marche-central-des-halles-troyes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "passion-paysanne-troyes",
+    "nom": "Passion Paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.288612,
+    "lon": 4.082942,
+    "adresse": "23 Boulevard Georges Pompidou, 10000 Troyes",
+    "horaires": "Du mercredi au vendredi de 9h à 13h et de 15h à 19h ; samedi de 9h à 13h et de 14h30 à 18h, d'après le site du magasin. Retrait des commandes passées en ligne le vendredi de 12h à 14h.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Viandes",
+      "Produits laitiers",
+      "Œufs",
+      "Pain",
+      "Miels et confitures",
+      "Farines"
+    ],
+    "description": "Magasin de producteurs à 1,2 km de la mairie de Troyes : quatorze producteurs de la région s'y sont associés pour vendre toute l'année leurs produits frais et de saison, d'après le site du magasin et l'office de tourisme Troyes La Champagne, qui l'écrivent dans les mêmes mots. Société active au registre des entreprises à cette adresse depuis 2021. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du boulevard, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 25 42 64 16",
+    "site_web": "https://passion-paysanne.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Passion%20Paysanne%2C%2023%20boulevard%20Georges%20Pompidou%2C%2010000%20Troyes",
+    "image_url": "/images/marchands/passion-paysanne-troyes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-sainte-savine",
+    "nom": "Marché de Sainte-Savine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.294139,
+    "lon": 4.053712,
+    "adresse": "Place Reichenbach, 10300 Sainte-Savine",
+    "horaires": "Mardi et vendredi de 8h à 13h, d'après l'office de tourisme Troyes La Champagne (fiche 2026). La Ville de Sainte-Savine, qui l'organise, écrit « chaque mardi et vendredi matin » sans donner d'heures.",
+    "produits": [
+      "Fruits et légumes frais",
+      "Poulets fermiers",
+      "Fromages",
+      "Poisson frais",
+      "Fleurs"
+    ],
+    "description": "Marché de plein air de la place Reichenbach, à 1,6 km de la mairie de Troyes. La Ville de Sainte-Savine en écrit les jours, le lieu et ce qu'on y trouve ; l'office de tourisme compte une dizaine de commerçants le mardi et une vingtaine d'exposants le vendredi, dont un fromager, un poissonnier et un maraîcher. Quelques étals ne sont pas alimentaires (fleurs, vêtements). Point : la place Reichenbach à l'index des lieux de l'IGN, la Base Adresse Nationale ne la connaissant pas. Photo : vue aérienne de la place, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Reichenbach%2C%2010300%20Sainte-Savine",
+    "image_url": "/images/marchands/marche-de-sainte-savine.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-maraichers-des-viennes-saint-andre-les-vergers",
+    "nom": "Les Maraîchers des Viennes",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.286278,
+    "lon": 4.054866,
+    "adresse": "119 Avenue du Président Wilson, 10120 Saint-André-les-Vergers",
+    "horaires": "Vente à la ferme le vendredi de 9h à 13h et de 14h30 à 18h30, et le samedi de 9h à 13h, toute l'année, d'après l'office de tourisme Troyes La Champagne (fiche 2026). La ferme n'a pas de site à elle : mieux vaut vérifier avant un long déplacement.",
+    "produits": [
+      "Légumes biologiques de la ferme",
+      "Plants de légumes biologiques",
+      "Produits biologiques d'autres producteurs locaux et régionaux"
+    ],
+    "description": "Ferme maraîchère en ville, à 1,9 km de la mairie de Troyes, qui vend sa production directement sur place aux particuliers, d'après l'office de tourisme Troyes La Champagne, seul écrit sur ses heures. Société coopérative active au registre des entreprises à cette adresse depuis 2024, engagée en agriculture biologique au registre de l'Agence Bio (légumes, plants potagers, plantes aromatiques). Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne des serres et des abords — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Mara%C3%AEchers%20des%20Viennes%2C%20119%20avenue%20du%20Pr%C3%A9sident%20Wilson%2C%2010120%20Saint-Andr%C3%A9-les-Vergers",
+    "image_url": "/images/marchands/les-maraichers-des-viennes-saint-andre-les-vergers.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cueillette-de-troyes-l-esperance-villechetif",
+    "nom": "Cueillette de Troyes L'Espérance",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.338403,
+    "lon": 4.17415,
+    "adresse": "Ferme de l'Espérance, RD 960, 10410 Villechétif",
+    "horaires": "En saison, de mai à novembre, cueillette et magasin ouverts tous les jours : lundi de 14h à 19h ; du mardi au vendredi de 9h à 12h30 et de 14h à 19h ; samedi de 9h à 19h ; dimanche de 9h à 18h, d'après le site de la cueillette. Distributeur automatique tous les jours de 5h à minuit.",
+    "produits": [
+      "Fruits de saison à cueillir",
+      "Légumes de saison à cueillir",
+      "Fleurs",
+      "Pommes",
+      "Fruits et légumes déjà cueillis au magasin"
+    ],
+    "description": "Cueillette en libre-service le long de la RD 960, à la sortie de Creney-près-Troyes et à 8,7 km de la mairie de Troyes : on y récolte soi-même, en plein champ, plus de soixante-dix variétés de fruits et de légumes de fin mai à mi-novembre, d'après l'office de tourisme Troyes La Champagne ; un magasin vend les produits déjà cueillis. Société active au registre des entreprises, son site est tenu à jour (actualités de fin septembre 2026). La ferme est à cheval sur deux communes : l'office et la Base Adresse Nationale la situent à Villechétif, son site écrit Mesnil-Sellières. Point : lieu-dit de la ferme à la Base Adresse Nationale. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.cueillettedetroyeslesperance.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cueillette%20de%20Troyes%20L%27Esp%C3%A9rance%2C%20RD%20960%2C%2010410%20Villech%C3%A9tif",
+    "image_url": "/images/marchands/cueillette-de-troyes-l-esperance-villechetif.jpg",
+    "a_confirmer": true
   }
 ]

@@ -5583,9 +5583,34 @@ prioritaires en cas de conflit.
      vide, la règle 192 s'applique et la fiche attend. **Ce que la règle débloque** : dans la même passe, les
      quatrième et cinquième points du groupe d'Hazebrouck.
 
+448. **Un département ouvert dont la descente est tombée sous 3 000 habitants se relit, lui aussi, depuis sa commune la
+     plus peuplée sans fiche, avant de recevoir les deux communes de la règle 426.** Le 7 octobre 2026 (cent
+     soixante-douzième passe), la Seine-et-Marne mène le classement à 5,63 avec vingt fiches. Sa descente en était à
+     Soignolles-en-Brie (2 021 habitants), dernière marche avant la fermeture de la règle 265 ; mais Meaux, Melun,
+     Pontault-Combault, Savigny-le-Temple et une trentaine d'autres communes de plus de dix mille habitants n'ont
+     toujours aucune fiche, et presque toutes avaient été quittées pour la seule image, avant la règle 432. La règle
+     432 rouvre les départements « écrits épuisés », la règle 446 ceux « à descente terminée » ; un département resté
+     ouvert, que sa descente a seulement emmené très bas, n'entrait dans aucune des deux, et la règle 426 l'aurait
+     fermé sur deux villages. **Tranché ainsi** : dès qu'un département ouvert a sa prochaine commune sous 3 000
+     habitants et garde des communes plus peuplées sans fiche, la passe qui le vise relit la descente depuis le haut,
+     dans l'ordre de la règle 41.d, sous les règles 425 et 432, avec la borne de douze de la règle 247 ; une commune ne
+     rend une zone que sur des faits relus dans la passe (règle 446) ; les fiches entières rencontrées sont désignées
+     pour la reprise (règle 258) ; la relecture reprend, à la passe suivante, à la commune qui suit la douzième. Le
+     point d'arrêt bas (ici Soignolles-en-Brie) reste écrit et ne se reprend qu'une fois la relecture arrivée à lui.
+     Aucune exigence de vérification ne baisse. **Ce que la règle débloque** : dans la même passe, douze communes de
+     Seine-et-Marne relues de Meaux à Lagny-sur-Marne — sans zone, trois fiches entières désignées — puis le
+     département suivant du classement, l'Aube, où Troyes fait la passe.
+
 ## Marchands à confirmer
 
-1070 fiches sur 1204 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1075 fiches sur 1209 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché central des Halles** et **Passion Paysanne** (Troyes), **Marché de Sainte-Savine**, **Les Maraîchers des
+  Viennes** (Saint-André-les-Vergers) et **Cueillette de Troyes L'Espérance** (Villechétif) (passe du 7 octobre 2026,
+  cent soixante-douzième, règles 96, 432 et 448) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni
+  étal ni rayon ; les heures du marché de Sainte-Savine et de la ferme maraîchère ne sont écrites que par l'office de
+  tourisme ; la cueillette est située à Villechétif par l'office et par la Base Adresse Nationale, à Mesnil-Sellières
+  par son propre site ; le point du marché de Sainte-Savine vient de l'index des lieux de l'IGN, la Base Adresse
+  Nationale ignorant la place.
 - **Au Panier Flamand**, **Marché d'Hazebrouck** et **Respect Naturel** (Hazebrouck), **Au Rond Point Fermier**
   (Bailleul) et **Côté Ferme** (Saint-Jans-Cappel) (passe du 7 octobre 2026, cent soixante et onzième, règles 96, 432
   et 447) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni rayon ; les heures des quatre
@@ -13314,6 +13339,142 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées en Seine-et-Marne relue (de Meaux à Lagny-sur-Marne) et à Troyes
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante-douzième), avec le déblocage de chacune.
+
+- **Meaux** : le site de la Ville ne répond toujours pas à l'agent par défaut (connexion sans réponse, règles 237 et
+  425) ; celui de l'agglomération sert une page de protection (418) et l'un des deux domaines de l'office répond 403.
+  Les deux marchés notés le 13 septembre ne sont donc pas relus (règle 446). **Déblocage** : le retour du site.
+- **Melun** : le site de la Ville sert une page de vérification à l'agent par défaut, `robots.txt` compris — il n'est
+  pas lu (règle 425.b) ; les trois marchés et l'AMAP du jeudi (annuaire du réseau régional, sans source datée, règle
+  195) attendent. Rucher du centre-ville à l'office de tourisme : « tous les jours » sans heure, mobile pour seul
+  contact ; déjà écarté pour doute sur une personne, il ne se rouvre pas.
+- **Pontault-Combault** : les deux marchés n'existent que comme points de la cartographie interactive de la Ville,
+  sans jour, heure ni famille de produits lisibles (règles 192 et 197). **Déblocage** : une page de texte.
+- **Savigny-le-Temple** et **Champs-sur-Marne** : aucune page de marché trouvée dans la navigation ni le plan du site
+  de la Ville ; l'annuaire des commerces de Champs ne compte que des supérettes et des supermarchés.
+- **Villeparisis** : un marché « mixte » du mercredi, du vendredi et du dimanche, lu dans une actualité de travaux,
+  sans heures ni famille de produits (règles 192 et 197).
+- **Dammarie-lès-Lys, marché de la halle** (place du Marché, jeudi et dimanche de 7h à 13h30 d'après la Ville) : la
+  Ville compte « plus de 7 commerces alimentaires et 4 de non alimentaire » sans écrire une famille de produits
+  (règle 197). **Déblocage** : une famille écrite. Un second marché, le vendredi de 11h à 18h place du 8 Mai 1945,
+  est annoncé à partir du 30 octobre.
+- **Dammarie-lès-Lys, jardin maraîcher d'insertion de la rue des Vives-Eaux** : la Ville écrit une vente le mardi de
+  15h à 18h et le vendredi de 15h à 19h, sous le nom d'une association dont le certificat biologique est arrêté
+  depuis juillet 2025, quand le registre de l'Agence Bio attache désormais la parcelle à une autre structure
+  d'insertion, dont le site ne dit rien du jardin ; seul contact, un mobile nominatif. **Déblocage** : une page datée
+  de l'exploitant actuel avec ses jours de vente.
+- **Dammarie-lès-Lys, magasin biologique de réseau** : non instruit (règles 86 et 149). **Arboriculteur inscrit sous
+  un nom de personne** : ne se rouvre pas.
+- **Vaux-le-Pénil, jardins maraîchers biologiques associatifs** : site vivant (article du 2 octobre 2026), mais
+  aucun créneau de retrait lisible (règle 192), comme le 21 septembre. **AMAP de Vaux-le-Pénil** et **AMAP de
+  Saint-Fargeau-Ponthierry** : annuaire du réseau seul (règle 195).
+- **Saint-Fargeau-Ponthierry, marché couvert de Ponthierry** (jeudi et dimanche de 8h à 13h, Ville) : aucune famille
+  de produits (règle 197). **Marché de la place Temploux** : poissonnier, fromager et primeur écrits par la Ville,
+  mais « mardi matin et vendredi soir » sans heures (règle 192).
+- **Agglomération de Melun, producteurs de l'office de tourisme** : deux vignes de confréries (pas de vente), une
+  ferme d'élevage et deux apiculteurs « tous les jours » sans heures, mobiles pour seuls contacts (règle 192) ; un
+  apiculteur dont la fiche nomme l'exploitant, écarté pour doute sur une personne.
+- **Combs-la-Ville** et **Torcy** : aucune page de marché trouvée sur le site de la Ville.
+- **Montereau-Fault-Yonne** : trois séances de marché avec jours, heures et lieux (Ville), aucune famille de
+  produits (règle 197).
+- **Lagny-sur-Marne, marché couvert** (mercredi, vendredi et dimanche de 8h à 12h30, Ville) : une cinquantaine de
+  commerces de bouche dans la halle, plus de soixante-dix étals non alimentaires dehors en saison haute — toujours
+  la règle 119. **AMAP de Lagny** : annuaire du réseau seul (règle 195).
+- **Troyes, marché des Marots et marché Jules-Guesde / Jean-Macé** (premier et troisième mercredis du mois, de 8h à
+  13h, calendrier 2026 de la Ville) : « petits producteurs aubois », « produits du terroir », aucune famille de
+  produits (règle 197). **Marché extérieur des Chartreux** (dimanche de 8h à 13h) : rien d'écrit sur ce qu'on y
+  vend. **Déblocage** : une famille écrite par la Ville ou par la Chambre d'agriculture, qui y participe.
+- **Saint-Parres-aux-Tertres, magasin de producteurs** : site toujours fermé par sa clause (règle 333), et l'office
+  de tourisme n'écrit plus d'heures (règle 192).
+- **Troyes, magasin biologique coopératif** et **AMAP**, **Saint-André-les-Vergers** et la métropole troyenne au-delà
+  des cinq fiches : non relus cette fois. Deux commerces des Halles dont l'enseigne est un nom de famille restent
+  écartés pour doute sur une personne et ne se rouvrent pas.
+
+### Passe du 7 octobre 2026 (cent soixante-douzième) : Troyes, Sainte-Savine, Saint-André-les-Vergers et Villechétif (Aube), cinq fiches dans Troyes Champagne Métropole ; la Seine-et-Marne relue sans zone ; règle 448
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 209
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 204 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Seine-et-Marne (77) 5,63**,
+20 fiches, ouverte et rouverte par l'Île-de-France permise (la passe précédente visait les Hauts-de-France) ;
+Pas-de-Calais 5,46, fermé par la région de la passe précédente (règle 41.c) ; **Aube (10) 5,42**, aucune fiche, écrite
+épuisée le 25 septembre et rouverte à son rang par la règle 432 ; puis Mayenne 5,33 et Cher 5,21. `git fetch` fait
+avant l'écriture : `origin/main` n'a pas bougé.
+
+**Seine-et-Marne, relue depuis le haut (règle 448, née ici), douze communes, aucune zone (règle 247)**, sous l'agent
+par défaut, `robots.txt` d'abord (règle 425), registre de l'Agence Bio relu en entier sur le département (926
+opérateurs), annuaire du réseau régional des AMAP interrogé sur le département :
+
+1. **Meaux** (56 905) — site de la Ville sans réponse. **Zéro.**
+2. **Melun** (45 995) — site de la Ville derrière une page de vérification. **Zéro.**
+3. **Pontault-Combault** (39 096) — marchés sans texte. **Zéro.**
+4. **Savigny-le-Temple** (31 148) — aucune page de marché trouvée. **Zéro.**
+5. **Champs-sur-Marne** (27 451) — aucun marché publié. **Zéro.**
+6. **Villeparisis** (26 946) — un marché sans heures ni famille. **Zéro.**
+7. **Dammarie-lès-Lys** (23 559) — **une fiche entière**, l'AMAP du jeudi (site tenu à jour, article du 4 septembre
+   2026 ; distribution le jeudi en début de soirée rue du Château-Gaillard d'après l'annuaire du réseau, association
+   active au registre) ; le marché et le jardin maraîcher n'atteignent pas la seconde (pistes ci-dessus). **Une.**
+8. **Combs-la-Ville** (23 350) — aucune page de marché trouvée. **Zéro.**
+9. **Roissy-en-Brie** (23 229) — **une fiche entière**, le marché du samedi (8h à 13h, place Charles-Pathé, fromager,
+   apiculteur, primeur, poissonnier, boucher d'après la Ville) ; pas de second point. **Une.**
+10. **Torcy** (22 810) — aucune page de marché trouvée. **Zéro.**
+11. **Montereau-Fault-Yonne** (22 279) — marchés sans famille de produits. **Zéro.**
+12. **Lagny-sur-Marne** (21 461) — marché écarté par la règle 119. **Zéro.**
+
+Dans l'agglomération de Melun, une troisième fiche entière a été rencontrée : la **brasserie artisanale de
+Boissise-la-Bertrand** (vendredi de 18h à 1h et samedi de 15h à 19h d'après l'office de tourisme, société active au
+registre à l'adresse depuis 2019). Trois points épars ne font pas une zone (règles 52 et 258) : l'AMAP de
+Dammarie-lès-Lys, la brasserie de Boissise-la-Bertrand et le marché de Roissy-en-Brie sont **désignés pour la reprise**.
+
+**Aube : Troyes fait la passe (règles 127 et 432).** Tous les faits ont été relus dans la passe (règle 446), sous
+l'agent par défaut : la Ville de Troyes, la Ville de Sainte-Savine, l'office de tourisme Troyes La Champagne (faits
+seulement, règle 246), les sites du magasin de producteurs et de la cueillette, le registre des entreprises et celui
+de l'Agence Bio. Distances prises depuis la mairie de Troyes (annuaire de l'administration, règle 363) ; les cinq
+communes ont le même champ `epci`, Troyes Champagne Métropole.
+
+1. **Marché central des Halles** (Troyes) — heures jour par jour sur la page de la Ville, identiques à la fiche 2026
+   de l'office ; boucherie-charcuterie, primeurs, poissonneries, boulangerie-pâtisserie à l'office (règles 176 et
+   197). Point : « Marché des Halles » à l'index des lieux de l'IGN. À 0,2 km.
+2. **Passion Paysanne** (Troyes) — magasin de quatorze producteurs associés ; heures et rayons sur son site, mêmes
+   mots à l'office ; société active au registre à l'adresse depuis 2021 ; fixe publié par le magasin. BAN au numéro
+   (0,969). À 1,2 km.
+3. **Marché de Sainte-Savine** — mardi et vendredi matin, place Reichenbach, fruits et légumes, poulets fermiers,
+   fromages, poisson sur la page de la Ville ; 8h à 13h à l'office (fiche 2026). La Base Adresse Nationale ignore la
+   place : point de l'index des lieux de l'IGN (0,718, toponyme et commune concordants). À 1,6 km.
+4. **Les Maraîchers des Viennes** (Saint-André-les-Vergers) — vente à la ferme le vendredi et le samedi, heures 2026
+   à l'office, seul écrit ; société coopérative active au registre à l'adresse depuis 2024, certificat biologique
+   engagé depuis janvier 2025. Le téléphone publié est un mobile : il n'est pas inscrit. BAN au numéro (0,969). À
+   1,9 km.
+5. **Cueillette de Troyes L'Espérance** (Villechétif) — désignée pour la reprise depuis le 25 septembre (règle 258) ;
+   heures de saison sur son site, tenu à jour (actualités du 30 septembre 2026) ; société active au registre. BAN au
+   lieu-dit (0,938). À 8,7 km.
+
+Aucune photographie n'a été reprise : la Ville de Troyes, l'office et le magasin réservent leurs images (règles 231 et
+246), celles de la cueillette n'ont pas été instruites (règle 432 : la vue aérienne suffit à une fiche aux faits
+entiers). Les cinq images sont des vues aériennes de l'IGN (1 280 × 800), regardées une à une — ni personne
+reconnaissable, ni enseigne lisible ; on y voit la halle, la place arborée de Sainte-Savine, les serres de la ferme
+maraîchère et les bâtiments de la cueillette. Toutes partent en `a_confirmer`. `site_web` : le magasin de producteurs
+et la cueillette, ouverts avant d'être inscrits.
+
+**Contradictions** (règle 5) : la cueillette est à Villechétif pour l'office et pour la Base Adresse Nationale, à
+Mesnil-Sellières pour son site et pour l'établissement de vente du registre — la fiche garde Villechétif, où tombe
+le lieu-dit, et écrit l'autre version (règle 17) ; pour Sainte-Savine, la Ville écrit « matin » et l'office « 8h à
+13h », la fiche dit d'où vient l'heure (règle 176). **Fiches écartées pour doute sur une personne ou une donnée
+personnelle** : trois — un apiculteur de l'agglomération de Melun dont la fiche nomme l'exploitant, le rucher du
+centre de Melun et un arboriculteur de Dammarie-lès-Lys, tous deux déjà écartés ; les exploitations en nom propre des
+registres n'ont pas été instruites, et les noms d'exploitants, d'élus, de responsables d'association et de
+directeurs de publication que citent les pages consultées ne sont repris nulle part, pas plus que les mobiles.
+
+**Points d'arrêt** : en **Seine-et-Marne**, la relecture de la règle 448 s'arrête à **Lagny-sur-Marne** et reprend à
+**Ozoir-la-Ferrière** (21 238) ; à reprendre d'abord (règle 258) : l'AMAP de Dammarie-lès-Lys et la brasserie de
+Boissise-la-Bertrand, même agglomération, puis le marché de Roissy-en-Brie ; à contrôler d'abord (règle 406) : Meaux
+et Melun, sur le retour de leur site ; le point d'arrêt bas reste **Soignolles-en-Brie** (2 021). Dans l'**Aube**,
+la relecture s'arrête à **Troyes** ; restent à relire, par population, Romilly-sur-Seine, La Chapelle-Saint-Luc,
+Saint-Julien-les-Villas et la suite de la liste du 25 septembre. Après la passe, sur 1 209 fiches : Seine-et-Marne
+5,74, Pas-de-Calais 5,56, Mayenne 5,36, Cher 5,24, Seine-Saint-Denis 4,88 ; l'Aube retombe à 0,44. La région de cette
+passe est le Grand Est (règle 41.c) : la Seine-et-Marne et le Pas-de-Calais sont ouverts à la prochaine passe.
 
 ### Pistes non publiées à Hazebrouck, dans Cœur de Flandre et à Lambersart
 
