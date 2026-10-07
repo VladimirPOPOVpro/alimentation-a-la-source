@@ -5631,9 +5631,28 @@ prioritaires en cas de conflit.
      règle débloque** : la passe de Béthune, dans la même passe ; ensuite, les marchés des quarante-deux lignes de ce
      recensement, à leur rang.
 
+451. **Quand la page d'ensemble des marchés d'une Ville et la page qu'elle consacre à un marché ne donnent pas le même
+     jour, la fiche suit la page propre au marché si une seconde source la recoupe, et dit l'écart.** Le 7 octobre
+     2026 (cent soixante-quinzième passe), la page d'ensemble de la Ville de Laval écrit un marché « le samedi matin en
+     bas du parvis de la gare » ; la page du marché de la Gare écrit « le vendredi de 16h à 19h », avec la liste de ses
+     étals, et le calendrier de l'office de tourisme de Laval Agglomération porte les mêmes vendredis de 16h à 19h
+     (son texte dit 15h). La règle 5 ne publie pas un fait contesté ; la règle 176 ne range que la commune contre
+     l'office, pas deux pages d'une même Ville. **Tranché ainsi** : (a) la page propre au marché, plus détaillée,
+     l'emporte sur une phrase de la page d'ensemble quand une source indépendante écrit le même jour et les mêmes
+     heures ; (b) sans ce recoupement, le jour reste contesté et la fiche attend (règle 5) ; (c) la description nomme
+     l'écart, la fiche part en `a_confirmer`. **Ce que la règle débloque** : dans la même passe, le marché de la Gare
+     de Laval.
+
 ## Marchands à confirmer
 
-1085 fiches sur 1219 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1090 fiches sur 1224 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché central de Laval**, **Marché de la Gare**, **Marché du Bourny** et **Marché Murat** (Laval) et **Ferme des
+  Épiés** (Bonchamp-lès-Laval) (passe du 7 octobre 2026, cent soixante-quinzième, règles 96, 432 et 451) : les cinq
+  fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; les heures des marchés du Bourny et de Murat
+  ne sont écrites que par la Ville ; le marché de la Gare est au vendredi pour sa page et pour l'office, au samedi
+  matin dans une phrase de la page d'ensemble de la Ville ; le point du marché central est celui du samedi, le
+  marché du mardi se tenant sur l'esplanade voisine, que la Base Adresse Nationale ignore ; la ferme est placée sur
+  son lieu-dit, et son site ne s'ouvre plus en connexion sécurisée.
 - **Marché de Béthune (place Lamartine)** et **Marché du Mont-Liébaut (Les Halles)** (Béthune), **Marché d'Annezin**,
   **Marché de Nœux-les-Mines** et **Marché de Vaudricourt** (passe du 7 octobre 2026, cent soixante-quatorzième,
   règles 96, 432 et 450) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; les marchés
@@ -13382,6 +13401,86 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Laval et dans Laval Agglomération
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante-quinzième), avec le déblocage de chacune.
+
+- **Laval, halles de la place du 11-Novembre** : la Ville y écrit surtout des traiteurs et un espace de
+  restauration, avec quelques commerces de bouche de revente ; ce n'est pas un point de vente en circuit court
+  (règle 3). Sa page nomme les commerçants : rien n'en est repris.
+- **Laval, deux magasins biologiques coopératifs** (boulevard de l'Industrie et rue Bir-Hakeim ; société
+  coopérative active au registre, certificat engagé) : le site national du réseau exclut un agent d'IA par son nom
+  et n'est pas lu (règles 149 et 233) ; aucune autre source relue dans la passe n'écrit leurs heures (règle 192).
+  **Déblocage** : des heures écrites par une source lisible.
+- **Laval, deux AMAP** : toujours sans source datée (règles 195 et 338). **Déblocage** : une date de distribution.
+- **Bonchamp-lès-Laval, marchés du jeudi et du dimanche** et **marché de producteurs associatif du vendredi**, au
+  même point que la ferme publiée (règle 42) : non relus dans la passe, le groupe étant complet (règle 446) ; ils
+  se prennent à leur rang.
+- **Changé, ferme laitière biologique** (vente de lait cru et dépôt de producteurs le vendredi de 15h à 19h,
+  d'après l'office) : son seul contact publié est un portable et sa fiche n'a pas d'adresse ; elle n'a pas été
+  instruite plus avant. **Déblocage** : une adresse et un contact professionnel.
+- **L'Huisserie, une ferme et un atelier de produits fermentés ; Laval Agglomération, onze autres marchés et une
+  douzaine de producteurs** que l'office de tourisme recense : non relus, le groupe étant complet ; à reprendre à
+  leur rang, les marchés sous la règle 196.
+- **Écartée pour doute sur une personne** : aucune fiche instruite puis écartée ; les producteurs que l'office ou le
+  registre de l'Agence Bio (1 000 opérateurs lus sur le département) ne connaissent que sous un nom de famille
+  n'ont pas été instruits.
+
+### Passe du 7 octobre 2026 (cent soixante-quinzième) : Laval et Bonchamp-lès-Laval (Mayenne), cinq fiches dans Laval Agglomération ; règle 451
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 224
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 219 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Mayenne (53) 5,40**, aucune
+fiche, écrite épuisée le 25 septembre et **rouverte à son rang par la règle 432** — la passe précédente a publié dans
+les Hauts-de-France, les Pays de la Loire sont ouverts (règle 41.c) ; puis Cher 5,28, Seine-Saint-Denis 5,13, Gironde
+4,89. `git fetch` fait avant le calcul : `origin/main` n'a pas bougé.
+
+**Descente reprise depuis la commune la plus peuplée sans fiche (règles 432 et 446)**, sous l'agent par défaut,
+`robots.txt` d'abord (règle 425) :
+
+1. **Laval** (49 400) — `robots.txt` de la Ville lu selon la règle 359 (même gabarit que celui de Béthune), délai de
+   cinq secondes respecté. Les quatre marchés que les passes du 25 septembre avaient laissés « faits entiers, images
+   fermées » (règle 336) sont relus aujourd'hui sur les pages de la Ville : **quatre fiches entières** dans la
+   commune (règle 127), et l'agglomération complète le groupe (règle 96) : **elle fait la passe.**
+
+Sources lues : les six pages des marchés de la Ville de Laval ; l'office de tourisme de Laval Agglomération (faits
+seulement, ses images ne sont pas libres de droits, règle 231) ; le site de la ferme ; le registre des entreprises et
+celui de l'Agence Bio. Distances prises depuis la mairie de Laval (annuaire de l'administration, règle 363) ; les deux
+communes ont le même champ `epci`.
+
+1. **Marché central de Laval** — mardi et samedi de 8h à 13h30 ; une seule fiche pour les deux jours (règle 42), le
+   mardi se tenant sur l'esplanade du Château-Neuf, que la BAN ignore. Familles écrites étal par étal pour le mardi.
+   BAN à la place de la Trémoille (0,967). À 1,0 km.
+2. **Marché de la Gare** — vendredi de 16h à 19h pour la page du marché et pour le calendrier de l'office
+   (**règle 451**, nouvelle). BAN à la place (0,965). À 0,7 km.
+3. **Marché du Bourny** — mercredi de 16h à 19h, sept étals dont trois périodiques. BAN à la place de la Commune
+   (0,967). À 2,5 km.
+4. **Marché Murat** — vendredi de 8h à 13h, quatre étals. BAN au numéro (0,964). À 2,1 km.
+5. **Ferme des Épiés** (Bonchamp-lès-Laval) — vente directe de fromages et marché à la ferme le vendredi de 17h30 à
+   19h30, écrit par la ferme et par l'office (fiche « toute l'année 2026 ») ; société agricole active au registre ;
+   fixe publié par les deux. BAN au lieu-dit (0,947). À 5,4 km.
+
+Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne
+reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`. Aucun `site_web` : les marchés
+n'ont pas de page propre hors du site de la Ville, et le site de la ferme ne répond plus qu'en connexion non
+sécurisée — il a été lu pour ses faits, il n'est pas inscrit.
+
+**Contradictions** (règle 5) : le marché de la Gare est « le samedi matin » dans une phrase de la page d'ensemble de
+la Ville, le vendredi de 16h à 19h sur sa page propre et au calendrier de l'office, dont le texte écrit 15h — la
+fiche suit la page propre et le calendrier, et dit l'écart (règle 451). La ferme écrit 63 hectares, l'office 66 : la
+fiche n'écrit pas de surface. **Fiches écartées pour doute sur une personne ou une donnée personnelle** : aucune ;
+les enseignes patronymiques n'ont pas été instruites, et aucun des noms, prénoms, portables ou adresses
+électroniques que citent les pages consultées (placier des marchés, commerçants des halles, exploitants) n'est
+repris. **Laissé de côté volontairement** : les deux magasins biologiques coopératifs de Laval, faute d'heures
+lisibles ; les marchés de Bonchamp-lès-Laval et le reste de l'agglomération, le groupe étant complet.
+
+**Points d'arrêt** : dans la **Mayenne**, rouverte, la descente s'arrête à **Laval** et reprend à
+**Château-Gontier-sur-Mayenne** (16 584), puis Mayenne et Évron ; Saint-Berthevin, Changé et les autres communes de
+Laval Agglomération se relisent à leur rang, Bonchamp-lès-Laval ayant désormais une fiche ; la fiche de Craon reste
+désignée pour la reprise. Après la passe, sur 1 224 fiches : Cher 5,30, Seine-Saint-Denis 5,25, Gironde 5,01, Jura
+4,58, Hauts-de-Seine 4,37 ; la Mayenne retombe à 0,42. La région de cette passe est les Pays de la Loire
+(règle 41.c).
 
 ### Pistes non publiées à Béthune et dans l'agglomération de Béthune-Bruay
 

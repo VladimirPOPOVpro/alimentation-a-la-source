@@ -32221,5 +32221,138 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20Vaudricourt%20405%20Rue%20de%20B%C3%A9thune%2C%2062131%20Vaudricourt",
     "image_url": "/images/marchands/marche-de-vaudricourt.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-central-de-laval",
+    "nom": "Marché central de Laval",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.068766,
+    "lon": -0.772103,
+    "adresse": "Place de la Trémoille, 53000 Laval",
+    "horaires": "Mardi et samedi de 8h à 13h30, d'après la Ville de Laval. Le mardi, le marché se tient sur l'esplanade du Château-Neuf, à quelques pas ; le samedi, sur les places de la Trémoille, des Acacias, Saint-Tugal et Hardy-de-Lévaré et dans les rues voisines.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Produits fermiers",
+      "Poissonnerie",
+      "Fromages",
+      "Pain",
+      "Miel",
+      "Volailles rôties",
+      "Crêpes et galettes"
+    ],
+    "description": "Le grand marché de Laval, dans le centre historique. Le samedi, la Ville y compte 150 commerçants non sédentaires dont 60 producteurs maraîchers, avec aussi des vêtements et des articles divers ; le mardi, sur l'esplanade du Château-Neuf, le marché est uniquement alimentaire — la Ville y écrit trois poissonniers, trois maraîchers, deux producteurs fermiers, un vendeur de pommes biologiques, un boulanger, un apiculteur, un fromager, un rôtisseur et un marchand de crêpes et de galettes. Une seule fiche pour les deux jours ; point placé sur la place de la Trémoille (Base Adresse Nationale), à 1,0 km de la mairie, la Base ne connaissant pas l'esplanade. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20central%20de%20Laval%20Place%20de%20la%20Tr%C3%A9moille%2C%2053000%20Laval",
+    "image_url": "/images/marchands/marche-central-de-laval.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-gare-laval",
+    "nom": "Marché de la Gare (Laval)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.075939,
+    "lon": -0.761183,
+    "adresse": "Place de la Gare, 53000 Laval",
+    "horaires": "Vendredi de 16h à 19h, d'après la page que la Ville de Laval consacre au marché et le calendrier de l'office de tourisme de Laval Agglomération.",
+    "produits": [
+      "Fruits et légumes de saison (deux maraîchers)",
+      "Boucherie",
+      "Volailles prêtes à cuire",
+      "Pain",
+      "Huîtres",
+      "Fromages",
+      "Miel (tous les quinze jours)",
+      "Crêpes et galettes"
+    ],
+    "description": "Marché de fin d'après-midi réservé aux commerçants alimentaires, en bas du parvis de la gare de Laval : deux maraîchers, trois bouchers, un volailler, un boulanger, un ostréiculteur, un fromager, un marchand de crêpes et de galettes et, une semaine sur deux, un apiculteur, d'après la Ville. La page d'ensemble des marchés de la Ville parle encore d'un marché « le samedi matin » à la gare, et le texte de l'office d'un début à 15h : la fiche suit la page propre au marché et le calendrier de l'office, qui s'accordent sur le vendredi de 16h à 19h. Point placé sur la place de la Gare (Base Adresse Nationale), à 0,7 km de la mairie. Photo : vue aérienne du parvis, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Gare%20%28Laval%29%20Place%20de%20la%20Gare%2C%2053000%20Laval",
+    "image_url": "/images/marchands/marche-de-la-gare-laval.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-bourny-laval",
+    "nom": "Marché du Bourny (Laval)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.061445,
+    "lon": -0.792925,
+    "adresse": "Place de la Commune, 53000 Laval",
+    "horaires": "Mercredi de 16h à 19h, d'après la Ville de Laval.",
+    "produits": [
+      "Fruits et légumes d'un maraîcher",
+      "Produits laitiers et volailles prêtes à cuire",
+      "Miel",
+      "Fromages (tous les quinze jours)",
+      "Farine et pâtes artisanales (une fois par mois)",
+      "Crêpes et galettes"
+    ],
+    "description": "Petit marché de quartier du mercredi en fin d'après-midi, sur la place de la Commune, au Bourny, dans l'ouest de Laval : un maraîcher, un apiculteur, un vendeur de produits laitiers et de volailles, un marchand de crêpes et de galettes, un horticulteur, un fromager une semaine sur deux et, une fois par mois, un vendeur de farine et de pâtes artisanales, d'après la Ville. Stationnement gratuit aux abords, d'après la même page. Point placé sur la place (Base Adresse Nationale), à 2,5 km de la mairie. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Bourny%20%28Laval%29%20Place%20de%20la%20Commune%2C%2053000%20Laval",
+    "image_url": "/images/marchands/marche-du-bourny-laval.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-murat-laval",
+    "nom": "Marché Murat (Laval)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.061777,
+    "lon": -0.754684,
+    "adresse": "13 Rue Oudinot, 53000 Laval",
+    "horaires": "Vendredi de 8h à 13h, d'après la Ville de Laval.",
+    "produits": [
+      "Fruits et légumes d'un maraîcher",
+      "Boucherie",
+      "Volailles prêtes à cuire",
+      "Crêpes et galettes"
+    ],
+    "description": "Marché du quartier Murat, le vendredi matin, à la hauteur du numéro 13 de la rue Oudinot, dans le sud de Laval : un maraîcher, un boucher, un étal de volailles prêtes à cuire et un artisan en crêpes et galettes, d'après la Ville. Quatre étals : mieux vaut ne pas y venir de loin. Stationnement gratuit aux abords, d'après la même page. Point placé au numéro 13 (Base Adresse Nationale), à 2,1 km de la mairie. Photo : vue aérienne du quartier, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Murat%20%28Laval%29%2013%20Rue%20Oudinot%2C%2053000%20Laval",
+    "image_url": "/images/marchands/marche-murat-laval.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-epies-bonchamp-les-laval",
+    "nom": "Ferme des Épiés",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 48.050931,
+    "lon": -0.709688,
+    "adresse": "Les Épiés, Chemin du Préfet, 53960 Bonchamp-lès-Laval",
+    "horaires": "Vente directe et marché à la ferme le vendredi de 17h30 à 19h30, d'après le site de la ferme et l'office de tourisme de Laval Agglomération (fiche ouverte « toute l'année 2026 »).",
+    "produits": [
+      "Fromages au lait cru de vache à pâte pressée",
+      "Fromage à pâte molle de type camembert",
+      "Fromage de type raclette",
+      "Fromages frais nature ou aromatisés",
+      "Fromage blanc",
+      "Beurre et crème",
+      "Lait cru"
+    ],
+    "description": "Ferme laitière familiale qui transforme son lait en fromages au lait cru et en produits laitiers frais, vendus sur place le vendredi en fin de journée, en même temps qu'un marché à la ferme ; adhérente du réseau Bienvenue à la Ferme. À 5,4 km de la mairie de Laval, dans la même communauté d'agglomération, et à 2,5 km du bourg de Bonchamp d'après la ferme. Société agricole active au registre des entreprises à cette adresse. Le site de la ferme, ancien, ne s'ouvre plus en connexion sécurisée : il n'est pas inscrit ici, le téléphone est celui que publient la ferme et l'office. Point placé sur le lieu-dit (Base Adresse Nationale). Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "02 43 90 30 15",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20des%20%C3%89pi%C3%A9s%20Les%20%C3%89pi%C3%A9s%2C%20Chemin%20du%20Pr%C3%A9fet%2C%2053960%20Bonchamp-l%C3%A8s-Laval",
+    "image_url": "/images/marchands/ferme-des-epies-bonchamp-les-laval.jpg",
+    "a_confirmer": true
   }
 ]
