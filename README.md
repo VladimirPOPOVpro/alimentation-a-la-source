@@ -5643,9 +5643,33 @@ prioritaires en cas de conflit.
      l'écart, la fiche part en `a_confirmer`. **Ce que la règle débloque** : dans la même passe, le marché de la Gare
      de Laval.
 
+452. **Quatre fiches aux faits entiers forment la zone quand trois sont dans la commune calculée et que la quatrième est
+     dans la même intercommunalité, à moins de dix kilomètres de sa mairie, même si deux d'entre elles sont à plus de dix
+     kilomètres l'une de l'autre.** Le 8 octobre 2026 (cent soixante-seizième passe), le Cher mène le classement à 5,30
+     sans aucune fiche. Bourges, relue sous les règles 425, 432 et 446, rend trois fiches aux faits entiers dans la
+     commune et une quatrième au Subdray, dans Bourges Plus, à 9,9 km de la mairie ; aucun cinquième point n'existe (le
+     récit de la passe dit où il a été cherché). La règle 316 ne publie à quatre que dans une seule commune ; la règle
+     439 demande que les quatre points soient à moins de dix kilomètres les uns des autres, or le kiosque du nord-est
+     de Bourges et le magasin du Subdray, au sud-ouest, sont à 13,1 km l'un de l'autre — chacun de part et d'autre de
+     la ville, les deux autres points au milieu. Les suivre à la lettre aurait laissé sans un point la préfecture du
+     premier département du classement, pour une distance que personne ne parcourt : on vient de Bourges vers l'un ou
+     vers l'autre. **Tranché ainsi** : (a) quand la commune calculée rend elle-même trois fiches entières, une
+     quatrième de la même intercommunalité complète la zone si elle est à moins de dix kilomètres de la mairie de la
+     commune calculée (règle 363) ; (b) le cinquième point doit avoir été cherché dans la passe, et le récit dit où ;
+     (c) les limites de la règle 439 restent : jamais à trois, jamais par une fiche dont un fait manque, et le
+     cinquième point se publie seul, à son rang, dès qu'il existe. Aucune exigence de vérification ne baisse. **Ce que
+     la règle débloque** : la passe de Bourges, dans la même passe.
+
 ## Marchands à confirmer
 
-1090 fiches sur 1224 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1094 fiches sur 1228 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Ferme des Beaux Regards**, **Biocoop Au Bourgeon Vert** et **Kiosque à légumes de l'Entraide Berruyère** (Bourges)
+  et **Magasin de vente directe du Campus du Haut-Berry** (Le Subdray) (passe du 8 octobre 2026, cent
+  soixante-seizième, règles 96, 432 et 452) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre
+  aucune vente ; le kiosque est saisonnier et sa fermeture d'automne n'a pas de date (« novembre ou décembre »), ses
+  heures n'étant écrites que par la fiche de l'association sur la plateforme publique de l'inclusion ; le point du
+  magasin biologique est celui du registre des entreprises, la Base Adresse Nationale ignorant son numéro ; le
+  magasin du campus est placé sur le lieu-dit et ses heures du jeudi sont celles de l'annonce de la semaine.
 - **Marché central de Laval**, **Marché de la Gare**, **Marché du Bourny** et **Marché Murat** (Laval) et **Ferme des
   Épiés** (Bonchamp-lès-Laval) (passe du 7 octobre 2026, cent soixante-quinzième, règles 96, 432 et 451) : les cinq
   fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; les heures des marchés du Bourny et de Murat
@@ -13401,6 +13425,84 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Bourges et dans Bourges Plus
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent soixante-seizième), avec le déblocage de chacune.
+
+- **Bourges, huit marchés de plein vent et de halle** : le `robots.txt` de la Ville exclut nommément trois agents
+  d'IA ; le site n'est pas lu (règle 233) et l'office de tourisme, seul, ne suffit pas (règle 196) — il n'écrit
+  d'ailleurs aucune famille de produits (règle 197). **Déblocage** : le retrait de ces lignes, ou une autre autorité.
+- **Saint-Germain-du-Puy, marché du jeudi matin** : la commune écrit le jour et le lieu, sans heure de fin ni
+  famille précise ; l'office écrit « à partir de 7h » (règles 192 et 197). **Saint-Doulchard (mardi) et Trouy
+  (mercredi)** : aucune page de marché sur les sites des communes, l'office seul. **Déblocage** : une page communale.
+- **Mehun-sur-Yèvre, marché mensuel de producteurs** (premier samedi, 8h30 à 12h30, d'après l'office) et **épicerie
+  d'un collectif de producteurs** : à 15,5 km de la mairie de Bourges (règle 96) ; à reprendre au rang de Mehun.
+- **Fussy, magasin de producteurs** (heures écrites par l'office) : autre intercommunalité (règle 219) ; à reprendre
+  quand la descente visera sa commune.
+- **Plaimpied-Givaudins, AMAP** : sa seule page publique est sur une plateforme dont le `robots.txt` exclut l'agent
+  (règle 425) ; toujours sans date de distribution (règles 195 et 338). **Bourges, AMAP** : toujours sans date.
+- **Bourges, épicerie en vrac d'un réseau national** : le `robots.txt` du réseau exclut un agent d'IA (règle 233).
+  **Morthomiers, maraîchage biologique en vente à la ferme** : son site refuse l'agent par défaut (règle 425.b).
+- **Bourges, jardin partagé des marais** : la production est donnée, il n'y a pas de point de vente.
+  **Bourges, atelier artisanal de produits du terroir** : fabrique vendue sur les marchés, sans boutique aux heures
+  écrites. **Saint-Just, boulangerie coopérative biologique** : son site annonce toujours une ouverture sans heures.
+- **Écartées pour doute sur une personne** : aucune fiche nouvelle ; les pistes déjà écartées pour ce motif à
+  Bourges, Arçay et Saint-Michel-de-Volangis n'ont pas été rouvertes, et les opérateurs que le registre de l'Agence
+  Bio (734 lus sur le département) ne connaît que sous un nom de personne n'ont pas été instruits.
+
+### Passe du 8 octobre 2026 (cent soixante-seizième) : Bourges et Le Subdray (Cher), quatre fiches dans Bourges Plus ; règle 452
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** :
+1 228 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 224
+fiches avant la passe), outre-mer écarté (règle 177) : **Cher (18) 5,30**, aucune fiche, écrit épuisé le 25 septembre
+et **rouvert à son rang par la règle 432** — la passe précédente a publié dans les Pays de la Loire, le
+Centre-Val de Loire est ouvert (règle 41.c) ; puis Seine-Saint-Denis 5,25, Gironde 5,01, Jura 4,58. `git fetch` fait
+avant le calcul et avant le commit : `origin/main` n'a pas bougé.
+
+**Descente reprise depuis la commune la plus peuplée sans fiche (règles 432 et 446)**, sous l'agent par défaut,
+`robots.txt` d'abord (règle 425) :
+
+1. **Bourges** (64 186) — le site de la Ville n'est pas lu (règle 233) ; l'office de tourisme, lui, sert l'agent par
+   défaut et ses mentions légales permettent la reprise des textes avec citation. Les trois fiches désignées le
+   25 septembre sont relues aujourd'hui à leurs sources : **trois fiches entières** dans la commune, une quatrième
+   dans l'agglomération, et le cinquième point cherché sans succès (pistes ci-dessus) : **elle fait la passe à
+   quatre (règle 452, nouvelle).**
+
+Sources lues : le site de la ferme et sa fiche à l'office de tourisme ; le site propre du magasin biologique ; la
+fiche de l'association sur la plateforme publique de l'inclusion ; les pages de vente du campus agricole ; le registre
+des entreprises et celui de l'Agence Bio. Distances prises depuis la mairie de Bourges (annuaire de l'administration,
+règle 363) ; les deux communes ont le même champ `epci`.
+
+1. **Ferme des Beaux Regards** — vente à la ferme tous les jeudis de l'année de 16h à 19h, écrit par la ferme et par
+   l'office. BAN au numéro (0,964). À 1,6 km. Le seul téléphone publié est un portable : non repris.
+2. **Biocoop Au Bourgeon Vert** — du lundi au samedi de 9h30 à 19h30 (site du magasin, dont le `robots.txt` ne nomme
+   aucun agent d'IA et dont les conditions ne ferment pas la lecture). La BAN ignore le numéro : point du registre des
+   entreprises. À 1,2 km.
+3. **Kiosque à légumes de l'Entraide Berruyère** — de la mi-mai à novembre ou décembre, du mardi au vendredi de 10h à
+   13h (plateforme publique de l'inclusion, fiche actualisée le 5 février 2026) ; publié dans sa saison
+   (règle 450.c, par analogie). BAN au numéro (0,976). À 3,3 km.
+4. **Magasin de vente directe du Campus du Haut-Berry** (Le Subdray) — légumes biologiques le jeudi de 16h30 à 18h
+   (page du campus mise à jour pour le 8 octobre 2026) ; viande sur commande, au même point : une seule fiche
+   (règle 42). BAN au lieu-dit (0,944). À 9,9 km.
+
+Les quatre images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne
+reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`.
+
+**Contradictions** (règle 5) : une source secondaire donne le kiosque « du mardi au jeudi » ; la fiche suit la
+plateforme publique, datée, qui écrit « du mardi au vendredi », et renvoie à une vérification en fin de saison. Le
+registre de l'Agence Bio porte deux lignes pour le magasin biologique, l'ancienne société arrêtée et la coopérative
+engagée : la fiche suit la coopérative, seule active au registre des entreprises. **Fiches écartées pour doute sur
+une personne ou une donnée personnelle** : aucune nouvelle ; aucun des noms, prénoms, portables ou adresses
+électroniques que citent les pages consultées n'est repris. **Laissé de côté volontairement** : tout ce que la
+section des pistes énumère, et le cinquième point, qui n'existe pas aujourd'hui dans Bourges Plus.
+
+**Points d'arrêt** : dans le **Cher**, rouvert, la descente s'arrête à **Bourges** et reprend à **Vierzon**
+(25 068), où deux fiches restent désignées, puis **Saint-Amand-Montrond** ; Saint-Doulchard, Mehun-sur-Yèvre,
+Saint-Germain-du-Puy et les autres communes de Bourges Plus se relisent à leur rang, Le Subdray ayant désormais une
+fiche ; le point d'arrêt bas (Saint-Martin-d'Auxigny) reste écrit. Après la passe, sur 1 228 fiches :
+Seine-Saint-Denis 5,35, Gironde 5,11, Jura 4,59, Hauts-de-Seine 4,47, Haute-Saône 4,15 ; le Cher retombe à 1,32. La
+région de cette passe est le Centre-Val de Loire (règle 41.c).
 
 ### Pistes non publiées à Laval et dans Laval Agglomération
 

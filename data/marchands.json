@@ -32354,5 +32354,110 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20des%20%C3%89pi%C3%A9s%20Les%20%C3%89pi%C3%A9s%2C%20Chemin%20du%20Pr%C3%A9fet%2C%2053960%20Bonchamp-l%C3%A8s-Laval",
     "image_url": "/images/marchands/ferme-des-epies-bonchamp-les-laval.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "ferme-des-beaux-regards-bourges",
+    "nom": "Ferme des Beaux Regards",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.078192,
+    "lon": 2.378879,
+    "adresse": "10 Rue Marguerite Audoux, 18000 Bourges",
+    "horaires": "Vente directe à la ferme tous les jeudis de l'année, de 16h à 19h, d'après le site de la ferme et l'office de tourisme de Bourges.",
+    "produits": [
+      "Légumes de saison biologiques",
+      "Pommes, poires et prunes du verger",
+      "Œufs",
+      "Miel",
+      "Plantes aromatiques",
+      "Récoltes d'autres producteurs"
+    ],
+    "description": "Ferme maraîchère urbaine installée depuis 2018 dans Bourges même : 1,5 hectare de légumes sous abri et en plein champ et 1 hectare de verger de variétés anciennes, certifiés en agriculture biologique (certificat engagé au registre de l'Agence Bio). Tout se vend sur place le jeudi en fin d'après-midi, avec les récoltes d'autres producteurs ; la ferme indique la ligne 13 du réseau de bus (arrêt Saint-Exupéry) et un stationnement. Exploitation active au registre des entreprises à cette adresse. Point placé au numéro (Base Adresse Nationale), à 1,6 km de la mairie de Bourges. Photo : vue aérienne des tunnels et des planches de culture, qui ne montre pas la vente — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "site_web": "https://fermedesbeauxregards.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20des%20Beaux%20Regards%2010%20Rue%20Marguerite%20Audoux%2C%2018000%20Bourges",
+    "image_url": "/images/marchands/ferme-des-beaux-regards-bourges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-au-bourgeon-vert-bourges",
+    "nom": "Biocoop Au Bourgeon Vert",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.076506,
+    "lon": 2.383951,
+    "adresse": "121 Boulevard de l'Avenir, 18000 Bourges",
+    "horaires": "Du lundi au samedi de 9h30 à 19h30, fermé le dimanche, d'après le site du magasin.",
+    "produits": [
+      "Fruits et légumes biologiques",
+      "Fromages à la coupe",
+      "Charcuterie",
+      "Pain",
+      "Épicerie biologique",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Magasin biologique coopératif de Bourges, créé en 2006 d'après son site et porté aujourd'hui par une société coopérative d'intérêt collectif, active au registre des entreprises à cette adresse (certificat engagé au registre de l'Agence Bio). Rayons fromagerie, charcuterie et boulangerie ; le magasin présente 78 producteurs locaux parmi ses fournisseurs. La Base Adresse Nationale ne connaît pas le numéro 121 : le point est celui de l'établissement au registre des entreprises, à 1,2 km de la mairie de Bourges. Photo : vue aérienne du magasin et de son parc de stationnement — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "02 48 21 19 01",
+    "site_web": "https://www.biocoopaubourgeonvert.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Au%20Bourgeon%20Vert%20121%20Boulevard%20de%20l%27Avenir%2C%2018000%20Bourges",
+    "image_url": "/images/marchands/biocoop-au-bourgeon-vert-bourges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "kiosque-maraicher-entraide-berruyere-bourges",
+    "nom": "Kiosque à légumes de l'Entraide Berruyère",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.104167,
+    "lon": 2.423917,
+    "adresse": "261 Route de Saint-Michel, 18000 Bourges",
+    "horaires": "En saison seulement : de la mi-mai à novembre ou décembre, du mardi au vendredi de 10h à 13h, d'après la fiche de l'association sur la plateforme publique de l'inclusion (actualisée le 5 février 2026). Fermé le reste de l'année.",
+    "produits": [
+      "Légumes de saison cultivés en biodynamie"
+    ],
+    "description": "Kiosque de vente des légumes de saison que cultive, en biodynamie, le chantier d'insertion maraîcher d'une association berruyère d'insertion par l'activité économique ; paiement en espèces, par chèque ou par carte, d'après la même fiche. L'association est active au registre des entreprises à cette adresse et son certificat est engagé au registre de l'Agence Bio. La date de fermeture de fin de saison n'est pas arrêtée (« novembre ou décembre ») : mieux vaut vérifier avant de venir à l'automne. Un ancien nom de domaine de l'association a été repris par un tiers et n'est pas inscrit ici. Point placé au numéro (Base Adresse Nationale), à 3,3 km de la mairie de Bourges. Photo : vue aérienne des abords, qui ne montre pas le kiosque en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "site_web": "https://www.lentraide18.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kiosque%20%C3%A0%20l%C3%A9gumes%20de%20l%27Entraide%20Berruy%C3%A8re%20261%20Route%20de%20Saint-Michel%2C%2018000%20Bourges",
+    "image_url": "/images/marchands/kiosque-maraicher-entraide-berruyere-bourges.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "magasin-campus-du-haut-berry-le-subdray",
+    "nom": "Magasin de vente directe du Campus du Haut-Berry",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.022231,
+    "lon": 2.299374,
+    "adresse": "Le Sollier, 18570 Le Subdray",
+    "horaires": "Vente de légumes biologiques tous les jeudis après-midi, de 16h30 à 18h, d'après la page du campus (vente annoncée pour le jeudi 8 octobre 2026). Viande : ventes ponctuelles, sur commande uniquement.",
+    "produits": [
+      "Légumes biologiques de saison (Les Jardins du Sollier)",
+      "Pommes de terre biologiques",
+      "Colis de bœuf charolais, sur commande",
+      "Agneau de race Romane, sur commande",
+      "Veau, selon la période"
+    ],
+    "description": "Magasin de l'exploitation agricole du lycée agricole de Bourges - Le Subdray : les légumes biologiques cultivés sur les terres de l'établissement s'y vendent le jeudi en fin d'après-midi, et la page du campus, mise à jour chaque semaine, donne les légumes disponibles et leurs prix. La viande des élevages de l'exploitation (bœuf charolais, agneau, veau) se vend ponctuellement, en quantités limitées et sur commande. À l'entrée de l'établissement, suivre les panneaux « Exploitation agricole » : le magasin est sur la droite après la barrière automatique, à côté de la grange. Établissement public actif au registre des entreprises, certificat engagé au registre de l'Agence Bio ; le téléphone est celui du standard du campus. Point placé sur le lieu-dit (Base Adresse Nationale), à 9,9 km de la mairie de Bourges, dans la même communauté d'agglomération. Photo : vue aérienne du campus, qui ne montre pas le magasin en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "02 48 69 74 60",
+    "site_web": "https://bourges.educagri.fr/vente-de-legumes-bio-les-jardins-du-sollier/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Magasin%20de%20vente%20directe%20du%20Campus%20du%20Haut-Berry%20Le%20Sollier%2C%2018570%20Le%20Subdray",
+    "image_url": "/images/marchands/magasin-campus-du-haut-berry-le-subdray.jpg",
+    "a_confirmer": true
   }
 ]
