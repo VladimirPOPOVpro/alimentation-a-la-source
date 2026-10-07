@@ -5534,10 +5534,34 @@ prioritaires en cas de conflit.
      et sa description dit ce que l'autre source lui ajoute ; la fiche municipale de plus de douze mois vaut pour le
      jour, l'heure et le lieu quand une fiche d'office de l'année les répète (règles 176 et 178). **Déblocage** : une
      publication datée de la Ville, ou de l'organisateur, qui écrit le lieu du marché biologique.
+445. **Un marché qui se tient dans un lieu que l'office de tourisme gère lui-même est publié par son hôte, pas par un
+     relais ; son point est celui du lieu nommé.** Le 7 octobre 2026 (cent soixante-huitième passe), le marché de
+     producteurs bio du vendredi de Longpré-les-Corps-Saints n'est écrit que par l'office de tourisme de la Baie de
+     Somme ; le site de la commune ne le décrit pas, et la piste attendait « une page de la commune » depuis le 28
+     septembre (règle 196). Mais ce marché se tient à la Maison des Marais, que le site de la commune présente comme un
+     pôle d'accueil de l'office, géré par la communauté d'agglomération : l'office l'écrit sur la page de son propre
+     lieu, dans son agenda (avec les vendredis sans marché et la date de reprise) et dans la fiche du maraîcher qui
+     l'anime. Le motif de la règle 196 — une séance déplacée ou supprimée sans que le relais l'apprenne — ne tient pas
+     pour qui ouvre la porte. **Tranché ainsi** : (a) quand l'autorité qui publie est celle qui gère le lieu, elle vaut
+     organisateur au sens de la règle 196, à condition que le rendez-vous paraisse à deux endroits de son site tenus à
+     jour séparément (règle 178) et qu'une famille de produits soit écrite (règle 197) ; (b) si elle écrit plusieurs
+     noms de rue pour ce lieu, ce n'est pas le cas de la règle 444, qui oppose deux autorités : le lieu nommé est un
+     seul, et son point se prend au géocodeur de l'IGN, index des lieux, quand le toponyme et la commune concordent et
+     que la vue aérienne montre un bâtiment d'accueil isolé conforme à sa description (règle 409) — la coordonnée que
+     l'office attache à sa fiche, qui tombe dans un lotissement du bourg, n'est pas reprise ; (c) la fiche part en
+     `a_confirmer` et dit d'où viennent le fait et le point. **Ce que la règle débloque** : dans la même passe, le
+     quatrième point du groupe d'Abbeville. **Limite** : un marché que l'office recense sur une place publique reste
+     sous la règle 196.
 
 ## Marchands à confirmer
 
-1051 fiches sur 1185 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1055 fiches sur 1189 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché alimentaire de la halle d'Abbeville**, **Au Temps des Mets** et **Locavrac** (Abbeville), **Marché bio de
+  la Maison des Marais** (Longpré-les-Corps-Saints) (passe du 7 octobre 2026, cent soixante-huitième, règles 320, 432
+  et 445) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni boutique ; l'office de
+  tourisme n'annonce le marché de la halle que le samedi, de 8h à 13h, quand la Ville écrit le jeudi et le samedi de
+  7h30 à 13h30 ; les heures de l'épicerie en vrac ne viennent que de l'annuaire de la Chambre d'agriculture, non daté ;
+  le marché de Longpré n'est publié que par l'office, qui gère le lieu, et son point vient du géocodeur de l'IGN.
 - **Marché-Couvert d'Agen**, **Marché fermier du Pin** et **Marché fermier de Jasmin** (Agen), **Cœur de Village**
   (Boé) (passe du 7 octobre 2026, cent soixante-septième, règles 320, 432 et 444) : les quatre fiches portent une vue
   aérienne de l'IGN, qui ne montre ni étal ni magasin ; les fiches municipales des trois marchés datent de janvier
@@ -13239,6 +13263,77 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-huitième) : Abbeville et Longpré-les-Corps-Saints (Somme), quatre fiches dans la Communauté d'agglomération de la Baie de Somme ; le département se rouvre par la règle 432 ; règle 445
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 189
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 185 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Somme (80) 5,72**, quatre
+fiches (Amiens et Dury), écrite épuisée le 28 septembre (règle 265) et rouverte à son rang par la règle 432 — c'est la
+première passe qui la relit ; puis Loir-et-Cher 5,65, Val-de-Marne 5,52, Aube 5,34, Mayenne 5,25. La passe précédente
+visait la Nouvelle-Aquitaine : les Hauts-de-France sont permis (règle 41.c). `git fetch` fait avant l'écriture :
+`origin/main` n'a pas bougé.
+
+**Reprise à la commune calculée, Abbeville** (22 395), sous l'agent par défaut, `robots.txt` d'abord (règle 425) :
+ceux de la Ville d'Abbeville, de l'office de tourisme de la Baie de Somme, de l'annuaire « Où acheter local » de la
+Chambre d'agriculture, du comité départemental du tourisme et de la commune de Longpré-les-Corps-Saints n'excluent
+personne ; l'office et l'annuaire, fermés le 28 septembre par la seule règle 257, se rouvrent donc. Registre de
+l'Agence Bio relu en entier sur la Somme (592 opérateurs), filtré sur les quarante-trois communes de
+l'intercommunalité : des grandes surfaces, des industriels, des exploitations en nom propre, et une épicerie en vrac.
+Les deux fiches désignées le 28 septembre sont reprises d'abord (règle 258), puis le groupe est complété (règle 96).
+Distances prises depuis la mairie d'Abbeville (règle 441).
+
+1. **Marché alimentaire de la halle** (Abbeville) — jeudi et samedi 7h30-13h30, place Jacques-Becq : page « Marché
+   municipal » de la Ville, modifiée le 17 septembre 2026, qui écrit les métiers ; l'office répète le samedi. BAN à
+   la voie (0,964). À 0,2 km.
+2. **Au Temps des Mets** (Abbeville) — épicerie fine, 18 parvis Saint-Vulfran : heures et fixe sur son site, répétés à
+   l'identique par l'office pour 2026 ; société active au registre, sous l'enseigne. Pas de `site_web` (règle 377 :
+   la page d'accueil publie toujours des avis signés). BAN au numéro (0,962). À 0,1 km.
+3. **Locavrac** (Abbeville) — épicerie en vrac, 10 boulevard de la République : société active depuis 2017,
+   engagement Ecocert en cours depuis 2018, et — ce qui manquait le 28 septembre — trois producteurs de la Somme
+   reliés à ce point de vente par l'annuaire de la Chambre d'agriculture, une autorité (règles 86 et 361). Heures à
+   ce seul annuaire, non daté : la fiche le dit et renvoie au téléphone. Son nom de domaine ne sert plus qu'une page
+   d'hébergeur : pas de `site_web`. BAN au numéro (0,973). À 0,7 km.
+4. **Marché bio de la Maison des Marais** (Longpré-les-Corps-Saints) — vendredi 16h30-18h30 : publié par l'office,
+   qui gère le lieu, à trois endroits de son site (**règle 445, nouvelle**) ; familles de produits et rythme de chaque
+   étal écrits. Point au géocodeur de l'IGN (0,73), regardé sur la vue aérienne. À 14,4 km.
+
+Aucune photographie n'est permise : la Ville interdit la reproduction des images de son site, l'office excepte
+l'iconographie de son autorisation de reprise, et l'épicerie fine réserve ses photographies. Les quatre images sont
+des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni enseigne lisible. Toutes
+partent en `a_confirmer`. Quatre points, dont trois dans la commune calculée, forment la zone (règle 320). **Le
+cinquième manque** ; son déblocage est écrit ci-dessous.
+
+**Autres points relus dans le secteur, non publiés** — avec le déblocage de chacun :
+
+- le **drive fermier** que l'annuaire de la Chambre d'agriculture situe chaussée de Rouvroy, à Abbeville : fiche de
+  décembre 2023, nom de domaine qui ne répond plus, ni jour ni heure de retrait. **Déblocage** : une page en service
+  de la Chambre d'agriculture avec le lieu et les heures de retrait — ce serait le cinquième point ;
+- le **marché du mercredi** de Longpré-les-Corps-Saints (rue de la République, 8h-13h à l'office) : aucune famille de
+  produits écrite, la commune ne le publie pas (règles 196 et 197). **Déblocage** : une page de la commune ;
+- le magasin biologique de réseau de la rue de Menchecourt et le primeur de la rue Jean-Jaurès (un seul producteur,
+  du Pas-de-Calais, à l'annuaire ; ni heures ni téléphone) : **Déblocage** inchangé, des producteurs de la région et
+  des heures publiés ;
+- la fromagerie, la brûlerie, les boulangeries et les boucheries que l'office range sous « produits du terroir » : des
+  commerces de détail, sans producteur nommé (règle 361) ; non instruits ;
+- les marchés et poissonneries de **Saint-Valery-sur-Somme** et de **Cayeux-sur-Mer** : à plus de quinze kilomètres
+  de la mairie d'Abbeville (règle 96) ; ils feront leur propre groupe ;
+- l'AMAP d'Abbeville : le réseau régional ne rend rien à ce nom. **Déblocage** inchangé (règle 195).
+
+**Contradictions** (règle 5) : le marché de la halle, jeudi et samedi 7h30-13h30 pour la Ville, samedi 8h-13h pour
+l'office — la fiche retient la Ville, plus récente et organisatrice, et écrit l'autre ; le marché de Longpré, 18h30
+dans l'agenda et sur la page du lieu, « 19h » dans le texte d'une troisième fiche de l'office — la fiche retient
+18h30 ; le lieu de ce marché, deux noms de rue à l'office, tranché par la règle 445. **Fiches écartées pour doute sur
+une personne ou une donnée personnelle** : une, à Drucat — un élevage en vente directe exploité en nom propre, à
+l'adresse d'un domicile, joignable par un seul portable ; elle ne se rouvre pas. Les exploitations en nom propre du
+registre bio n'ont pas été instruites, et les noms de producteurs, de commerçants et de clients que citent les pages
+consultées ne sont repris nulle part. La halle porte le nom d'une personnalité : la fiche écrit « la halle ».
+
+**Points d'arrêt** : dans la **Somme**, la descente relue par la règle 432 s'arrête à **Abbeville** ; la commune
+suivante à relire est **Albert** (9 521), puis **Péronne** (7 090 ; marché du samedi aux faits lus, à relire sous la
+règle 425), Corbie, Montdidier et Roye ; **Saint-Valery-sur-Somme** garde ses marchés à relire à l'office rouvert.
+Après la passe, sur 1 189 fiches : Loir-et-Cher 5,67, Val-de-Marne 5,61, Aube 5,35, Seine-et-Marne 5,32, Mayenne
+5,27 ; la Somme retombe à 1,75. La région de cette passe est les Hauts-de-France (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante-septième) : Agen et Boé (Lot-et-Garonne), quatre fiches dans l'Agglomération d'Agen ; le département se rouvre par la règle 432 ; règle 444
 

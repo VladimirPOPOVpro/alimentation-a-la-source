@@ -31347,5 +31347,114 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C5%93ur%20de%20Village%2C%201227%20Rue%20de%20la%20Birade%2C%2047550%20Bo%C3%A9",
     "image_url": "/images/marchands/coeur-de-village-boe.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-halle-abbeville",
+    "nom": "Marché alimentaire de la halle d'Abbeville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.104481,
+    "lon": 1.834002,
+    "adresse": "Place Jacques Becq, 80100 Abbeville",
+    "horaires": "Le jeudi et le samedi de 7h30 à 13h30, sous la halle municipale, d'après la page « Marché municipal » de la Ville d'Abbeville (mise à jour en septembre 2026). L'office de tourisme de la Baie de Somme n'annonce que le samedi, de 8h à 13h : la fiche retient les heures de la Ville.",
+    "produits": [
+      "Poisson",
+      "Légumes de maraîcher",
+      "Viande charolaise",
+      "Fromages",
+      "Charcuterie",
+      "Miel",
+      "Huîtres",
+      "Pain"
+    ],
+    "description": "Marché alimentaire couvert du centre d'Abbeville, deux matins par semaine sous la halle de la place. La Ville y présente un poissonnier, un rucher, un maraîcher, un éleveur de charolais, des étals de fromages et de charcuterie, et une buvette où déguster sur place ce qu'on vient d'acheter ; l'office de tourisme parle de producteurs locaux (légumes, viandes, pain, fleurs). Le jeudi, un marché de plein air non alimentaire occupe la même place : il n'est pas l'objet de cette fiche. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la place et de la halle, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20halle%2C%20Place%20Jacques%20Becq%2C%2080100%20Abbeville",
+    "image_url": "/images/marchands/marche-halle-abbeville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-temps-des-mets-abbeville",
+    "nom": "Au Temps des Mets",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 50.105271,
+    "lon": 1.831388,
+    "adresse": "18 Parvis Saint-Vulfran, 80100 Abbeville",
+    "horaires": "Le lundi de 14h à 19h, du mardi au samedi de 9h30 à 12h15 et de 14h à 19h ; fermé le dimanche, d'après le site de la boutique et l'office de tourisme de la Baie de Somme, qui donnent les mêmes heures.",
+    "produits": [
+      "Bières brassées dans les Hauts-de-France",
+      "Salicornes de la baie de Somme",
+      "Rillettes de poisson",
+      "Produits salés et sucrés d'artisans picards",
+      "Thés et cafés",
+      "Coffrets gourmands"
+    ],
+    "description": "Épicerie fine installée depuis 2002 face à la collégiale, qui vend des produits d'artisans de la baie de Somme et de Picardie — bières de brasseries régionales, salicornes, rillettes de poisson — à côté de spécialités venues d'ailleurs ; elle affiche la marque collective Terroirs Hauts-de-France. C'est un revendeur et non un producteur : la fiche est rangée dans la catégorie la plus proche, faute de catégorie « épicerie ». Société active au registre des entreprises à cette adresse, sous cette enseigne. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du parvis, qui ne montre pas la boutique — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 22 20 34 70",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Temps%20des%20Mets%2C%2018%20Parvis%20Saint-Vulfran%2C%2080100%20Abbeville",
+    "image_url": "/images/marchands/au-temps-des-mets-abbeville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "locavrac-abbeville",
+    "nom": "Locavrac",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.111036,
+    "lon": 1.838162,
+    "adresse": "10 Boulevard de la République, 80100 Abbeville",
+    "horaires": "Du lundi au samedi de 9h à 19h selon l'annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France, seule source de ces heures et non datée : le magasin n'a plus de site en ligne, mieux vaut téléphoner avant de se déplacer.",
+    "produits": [
+      "Épicerie en vrac",
+      "Fruits et légumes",
+      "Miel de la Somme",
+      "Escargots cuisinés de la baie de Somme",
+      "Huiles",
+      "Café, thé et épices"
+    ],
+    "description": "Épicerie en vrac du boulevard de la République, certifiée en agriculture biologique pour la distribution depuis 2018 (registre de l'Agence Bio, engagement en cours). L'annuaire de la Chambre d'agriculture la relie à trois producteurs de la Somme, dont un apiculteur de l'Amiénois et un élevage d'escargots voisin d'Abbeville : c'est ce qui la fait entrer ici, le vrac seul n'étant pas un circuit court. Société active au registre des entreprises à cette adresse depuis 2017. Le nom de domaine du magasin ne mène plus qu'à une page d'hébergeur : aucun site n'est inscrit. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du boulevard, qui ne montre pas le magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 22 28 34 08",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Locavrac%2C%2010%20Boulevard%20de%20la%20R%C3%A9publique%2C%2080100%20Abbeville",
+    "image_url": "/images/marchands/locavrac-abbeville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-maison-des-marais-longpre-les-corps-saints",
+    "nom": "Marché bio de la Maison des Marais",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 50.020864,
+    "lon": 1.985011,
+    "adresse": "Maison des Marais, Rue de l'Ancienne Gare, 80510 Longpré-les-Corps-Saints",
+    "horaires": "Le vendredi de 16h30 à 18h30, d'après l'office de tourisme de la Baie de Somme, qui gère le lieu. L'office signale les vendredis sans marché : il annonce celui du 9 octobre 2026, puis une reprise chaque vendredi à partir du 23 octobre. Tous les producteurs ne viennent pas chaque semaine.",
+    "produits": [
+      "Légumes bio (chaque semaine)",
+      "Pains au levain (chaque semaine)",
+      "Truite (une semaine sur deux)",
+      "Produits laitiers (une semaine sur deux)",
+      "Poulets de plein air et lapins (en alternance)",
+      "Produits secs bio en vrac",
+      "Miel (une fois par mois)"
+    ],
+    "description": "Petit marché de producteurs bio du vendredi soir, au bord des étangs de Longpré-les-Corps-Saints, à une quinzaine de kilomètres d'Abbeville. Les étals s'installent à la Maison des Marais, pôle d'accueil de l'office de tourisme de la Baie de Somme, qui publie le rendez-vous sur la page du lieu et dans son agenda, avec la liste des producteurs et le rythme de chacun. Le site de la commune ne décrit pas ce marché. L'office écrit deux noms de rue pour le lieu : le point est celui que le géocodeur de l'IGN donne à la « Maison des Marais », à l'écart du bourg, près de la voie ferrée. Photo : vue aérienne de la Maison des Marais et de son étang, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20des%20Marais%2C%2080510%20Longpr%C3%A9-les-Corps-Saints",
+    "image_url": "/images/marchands/marche-bio-maison-des-marais-longpre-les-corps-saints.jpg",
+    "a_confirmer": true
   }
 ]
