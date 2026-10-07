@@ -5659,10 +5659,30 @@ prioritaires en cas de conflit.
      (c) les limites de la règle 439 restent : jamais à trois, jamais par une fiche dont un fait manque, et le
      cinquième point se publie seul, à son rang, dès qu'il existe. Aucune exigence de vérification ne baisse. **Ce que
      la règle débloque** : la passe de Bourges, dans la même passe.
+453. **Quatre fiches aux faits entiers forment aussi la zone quand deux sont dans la commune calculée et deux dans la
+     même intercommunalité, toutes à moins de dix kilomètres de sa mairie et les unes des autres.** Le 8 octobre 2026
+     (cent soixante-dix-septième passe), la Seine-Saint-Denis mène le classement à 5,35. Sa descente, relue depuis le
+     haut (règles 446 et 448), rend à la neuvième commune, Livry-Gargan, deux marchés aux faits entiers — la règle 127
+     est remplie — et Grand Paris Grand Est en ajoute deux, à Gagny et à Neuilly-sur-Marne, à 5,0 et 7,0 km de la
+     mairie. Le cinquième point a été cherché dans les quatorze communes de l'intercommunalité et n'existe pas
+     aujourd'hui (le récit de la passe dit où). La règle 316 ne publie à quatre que dans une seule commune, la règle
+     439 que pour un groupe déjà désigné, la règle 452 qu'avec trois fiches dans la commune ; la règle 258 aurait
+     renvoyé les quatre marchés en pistes et la descente vers trois communes déjà lues sans une fiche entière.
+     **Tranché ainsi** : (a) deux fiches entières dans la commune calculée (règle 127) et deux de la même
+     intercommunalité forment la zone quand les quatre points sont à moins de dix kilomètres de la mairie (règle 363)
+     et les uns des autres ; (b) le cinquième point doit avoir été cherché dans la passe, et le récit dit où ; (c) les
+     limites de la règle 439 restent : jamais à trois, jamais par une fiche dont un fait manque, et le cinquième point
+     se publie seul, à son rang, dès qu'il existe. Aucune exigence de vérification ne baisse. **Ce que la règle
+     débloque** : la passe de Livry-Gargan, dans la même passe.
 
 ## Marchands à confirmer
 
-1094 fiches sur 1228 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1098 fiches sur 1232 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché Jacob** et **Marché Chanzy** (Livry-Gargan), **Marché des Amandiers** (Gagny) et **Petit marché
+  Saint-Baudile** (Neuilly-sur-Marne) (passe du 8 octobre 2026, cent soixante-dix-septième, règles 127, 432 et 453) :
+  les quatre fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; les quatre points sont placés à la
+  voie ou à la place (Base Adresse Nationale), le marché Chanzy s'étendant sur tout le boulevard ; les heures du
+  marché des Amandiers viennent d'une page de la Ville d'août 2025, qui porte encore une mention de mai.
 - **Ferme des Beaux Regards**, **Biocoop Au Bourgeon Vert** et **Kiosque à légumes de l'Entraide Berruyère** (Bourges)
   et **Magasin de vente directe du Campus du Haut-Berry** (Le Subdray) (passe du 8 octobre 2026, cent
   soixante-seizième, règles 96, 432 et 452) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre
@@ -13425,6 +13445,115 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Livry-Gargan, dans Grand Paris Grand Est et dans la descente de la Seine-Saint-Denis
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent soixante-dix-septième), avec le déblocage de chacune.
+
+- **Épinay-sur-Seine, marché couvert de la Briche** (samedi de 7h30 à 12h30, poissonnier, fromager, boucher
+  charcutier, primeurs, d'après la page de la Ville du 3 décembre 2025) **et l'AMAP qui y distribue le jeudi de 19h à
+  20h** (fiche d'annuaire de la Ville modifiée le 15 janvier 2026, règle 434) : faits entiers, un seul point (règle
+  42). L'agence de Plaine Commune écrit le mercredi et le samedi de 8h à 13h : la Ville prime (règle 176). **Fiche
+  entière désignée pour la reprise** (règle 258) ; déblocage : quatre autres points dans Plaine Commune (règle 437).
+- **Plaine Commune, ce qui n'a pas complété le groupe d'Épinay** : marchés du Centre et de l'Avenir à Stains (page de
+  la Ville de 2019, aucune famille de produits, règle 197) ; marché de La Courneuve (aucune page de la Ville, l'agence
+  seule, règle 196) ; marché du Landy à Saint-Ouen-sur-Seine (la Ville oppose un défi de vérification, règle 425.b,
+  et l'agence n'écrit que « alimentaire ») ; AMAP de L'Île-Saint-Denis (fiche communale de juin 2023, règle 434) ;
+  ferme urbaine de Stains (annoncée « fermée temporairement » par l'agence) ; fermes urbaines associatives de
+  Saint-Denis et d'Aubervilliers (ateliers, pépinière et semences, pas de vente alimentaire à heures écrites).
+- **Aulnay-sous-Bois, marchés forains** : la Ville ne publie toujours que le délégataire, ni jour ni heure (règle
+  192). **Noisy-le-Grand, trois marchés** : un seul avec ses heures, aucune famille de produits (règle 197).
+  **Drancy, marché couvert des Quatre-Routes** : jours et heures écrits, aucune famille ; le site des marchés ne
+  sert qu'une plateforme de fidélité. **Bobigny, deux marchés couverts** : des matinées sans heures. **Bondy, trois
+  marchés** : jours, heures et lieux, aucune famille. **Déblocage** : une famille de produits ou des heures écrites
+  par la Ville.
+- **Le Blanc-Mesnil, trois marchés et une AMAP** : les fiches d'annuaire de la Ville répondent 403 à l'agent par
+  défaut (règle 425.b). **Sevran** : le site de la Ville répond 403 ; la microferme désignée le 24 septembre reste
+  seule et n'a pas été relue. **Déblocage** : un site qui sert l'agent par défaut.
+- **Gagny, marché du Centre** (place du Général-de-Gaulle, familles écrites) : la page des marchés écrit « le
+  vendredi matin » sans heures et une fiche de stationnement de la même Ville réserve la place le mercredi, le
+  vendredi et le dimanche (règles 5 et 192). **Neuilly-sur-Marne, grand marché de la Patinoire** (mercredi et samedi
+  de 8h à 13h) : ni place ni famille écrites. **Déblocage** : des heures, une place et une famille écrites.
+- **Clichy-sous-Bois, marché de l'allée Anatole-France** (mercredi et samedi de 8h30 à 13h30) : la page de la Ville
+  date de juin 2019. **Les Pavillons-sous-Bois, marché de la Basoche** : des matinées sans heures. **Villemomble,
+  deux marchés** (heures et lieux écrits) et **Rosny-sous-Bois, trois marchés** (heures et lieux écrits) : aucune
+  famille de produits. **Villemomble, marché annuel de producteurs** : prochaine édition « à venir ». **Montfermeil** :
+  le site de la Ville oppose un défi de vérification. **Déblocage** : une page récente qui écrive ce qui s'y vend.
+- **Le Raincy, magasin biologique coopératif** (société active au registre, certificat engagé depuis 2010) : aucun
+  site propre lisible — le domaine que suggère sa dénomination au registre de l'Agence Bio est celui d'un magasin
+  homonyme de la Manche — et le site national du réseau n'est pas lu (règles 149 et 233) ; pas d'heures (règle 192).
+  **Livry-Gargan, magasin biologique d'une chaîne** : supermarché spécialisé, écarté par `MODERATION.md`.
+- **Écartées pour doute sur une personne** : deux, sans instruction plus avant — à Montfermeil, une exploitation
+  maraîchère certifiée que le registre des entreprises ne connaît que sous le nom de son exploitant ; à Saint-Denis,
+  une microferme installée au domicile d'une personne que sa fiche nomme. Elles ne se rouvrent pas. Les opérateurs
+  que le registre de l'Agence Bio (447 lus sur le département) ne connaît que sous un nom de personne, à Bondy, à
+  Villepinte et à Coubron, n'ont pas été instruits.
+
+### Passe du 8 octobre 2026 (cent soixante-dix-septième) : Livry-Gargan, Gagny et Neuilly-sur-Marne (Seine-Saint-Denis), quatre fiches dans Grand Paris Grand Est ; règle 453
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** :
+1 232 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 228
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Seine-Saint-Denis
+(93) 5,35**, vingt-cinq fiches, ouverte — sa dernière passe remonte au 29 septembre et sa descente n'a jamais été
+écrite épuisée ; la passe précédente a publié dans le Centre-Val de Loire, l'Île-de-France est ouverte (règle 41.c) ;
+puis Gironde 5,11, Jura 4,59, Hauts-de-Seine 4,47. `git fetch` fait avant le calcul et avant le commit : `origin/main`
+n'a pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche (règles 446 et 448)**, sous l'agent par défaut,
+`robots.txt` d'abord (règle 425) — aucun des sites communaux lus ne nomme d'agent d'IA :
+
+1. **Aulnay-sous-Bois** (87 599) — ni jour ni heure de marché sur le site de la Ville. **Zéro.**
+2. **Noisy-le-Grand** (72 978) — trois marchés, un seul avec ses heures, aucune famille. **Zéro.**
+3. **Drancy** (72 390) — un marché couvert sans famille de produits écrite. **Zéro.**
+4. **Le Blanc-Mesnil** (62 376) — les fiches de la Ville refusent l'agent par défaut. **Zéro.**
+5. **Bobigny** (56 927) — deux marchés couverts sans heures. **Zéro.**
+6. **Épinay-sur-Seine** (52 833) — **une fiche entière** (le marché de la Briche et son AMAP, un seul point) ;
+   Plaine Commune ne rend pas les quatre autres points de la règle 437. Désignée pour la reprise.
+7. **Sevran** (52 535) — le site de la Ville refuse l'agent par défaut. **Zéro.**
+8. **Bondy** (50 595) — trois marchés sans famille de produits écrite. **Zéro.**
+9. **Livry-Gargan** (47 228) — l'article de la Ville du 5 mai 2026 écrit, marché par marché, ce qui se vend sous la
+   halle Jacob et sur le boulevard Chanzy : **deux fiches entières** dans la commune (règle 127), et Grand Paris
+   Grand Est en ajoute deux : **elle fait la passe à quatre (règle 453, nouvelle).**
+
+Sources lues : la page des marchés communaux de la Ville de Livry-Gargan (modifiée le 15 juillet 2025) et son
+article du 5 mai 2026 ; la page des marchés de la Ville des Pavillons-sous-Bois ; la page des marchés de la Ville de
+Gagny (20 août 2025) ; la page des marchés de plein air de la Ville de Neuilly-sur-Marne (17 août 2026) ; la liste
+des communes sur le site de Grand Paris Grand Est. Distances prises depuis la mairie de Livry-Gargan (annuaire de
+l'administration, règle 363). Le champ `epci` de l'appel national ne porte que la Métropole du Grand Paris : c'est
+l'établissement public territorial qui vaut intercommunalité.
+
+1. **Marché Jacob** — mercredi et samedi de 7h à 13h ; halle refaite en 2023, commerces de bouche écrits un à un.
+   BAN à la place (0,956). À 0,8 km.
+2. **Marché Chanzy** — jeudi et dimanche de 7h à 13h, le mardi du seul côté des Pavillons-sous-Bois ; une seule
+   fiche pour le marché, qui tient sur une seule voie à cheval sur deux communes (règle 42). BAN à la voie (0,970).
+   À 1,7 km.
+3. **Marché des Amandiers** (Gagny) — jeudi et samedi de 8h à 13h, sous halle, familles écrites. BAN à la voie
+   (0,964) ; la halle se voit sur la vue aérienne, au bord de la rue. À 5,0 km.
+4. **Petit marché Saint-Baudile** (Neuilly-sur-Marne) — dimanche de 8h à 13h, cinq métiers écrits. BAN à la place
+   (0,964). À 7,0 km.
+
+Les quatre points sont à 7,7 km au plus les uns des autres. **Le cinquième point a été cherché** dans les quatorze
+communes de Grand Paris Grand Est : sur les sites des Villes de Gagny, Neuilly-sur-Marne, Clichy-sous-Bois, des
+Pavillons-sous-Bois, de Villemomble, de Rosny-sous-Bois et de Noisy-le-Grand (marchés et AMAP), au registre de
+l'Agence Bio (447 opérateurs du département) et au registre des entreprises ; les pistes ci-dessus disent pourquoi
+aucun n'entre. Les quatre images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni
+personne reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`.
+
+**Contradictions** (règle 5) : à Épinay-sur-Seine, la Ville et l'agence de Plaine Commune ne donnent pas les mêmes
+jours pour le marché de la Briche — non publié, la Ville primera (règle 176). À Gagny, deux pages de la Ville ne
+s'accordent pas sur les jours du marché du Centre : il attend. Pour le marché Chanzy, Livry-Gargan écrit « boulevard »
+et Les Pavillons-sous-Bois « avenue » de Chanzy : c'est la même voie de part et d'autre de la limite communale, et la
+fiche porte l'adresse de la commune calculée. **Fiches écartées pour doute sur une personne ou une donnée
+personnelle** : deux (Montfermeil et Saint-Denis), notées anonymement ci-dessus ; aucun des noms que citent l'article
+de Livry-Gargan, la fiche d'annuaire d'Épinay-sur-Seine ou les pages de l'agence n'est repris, ni aucun portable.
+**Laissé de côté volontairement** : tout ce que la section des pistes énumère.
+
+**Points d'arrêt** : en **Seine-Saint-Denis**, la relecture s'arrête à **Livry-Gargan**, neuvième commune, et reprend
+à **Rosny-sous-Bois** (47 180) — déjà lue aujourd'hui sans famille de produits, à compter à son rang —, puis
+**La Courneuve** et **Noisy-le-Sec** ; la fiche d'Épinay-sur-Seine se reprend d'abord (règle 258) ; Gagny et
+Neuilly-sur-Marne ont désormais une fiche. Après la passe, sur 1 232 fiches : Gironde 5,20, Jura 4,61,
+Hauts-de-Seine 4,57, Haute-Saône 4,17 ; la Seine-Saint-Denis retombe à 1,45. La région de cette passe est
+l'Île-de-France (règle 41.c).
 
 ### Pistes non publiées à Bourges et dans Bourges Plus
 

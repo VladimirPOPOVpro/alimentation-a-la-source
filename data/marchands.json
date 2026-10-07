@@ -32459,5 +32459,109 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Magasin%20de%20vente%20directe%20du%20Campus%20du%20Haut-Berry%20Le%20Sollier%2C%2018570%20Le%20Subdray",
     "image_url": "/images/marchands/magasin-campus-du-haut-berry-le-subdray.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-jacob-livry-gargan",
+    "nom": "Marché Jacob (Livry-Gargan)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.924848,
+    "lon": 2.544847,
+    "adresse": "Place Jacob, 93190 Livry-Gargan",
+    "horaires": "Mercredi et samedi de 7h à 13h, d'après la page des marchés communaux de la Ville de Livry-Gargan et son article du 5 mai 2026.",
+    "produits": [
+      "Fruits et légumes (primeur)",
+      "Boucherie",
+      "Poissonnerie",
+      "Fromagerie",
+      "Boulangerie",
+      "Traiteur",
+      "Fleurs, à l'extérieur de la halle"
+    ],
+    "description": "Marché couvert du quartier Jacob, dont la halle a été entièrement refaite en 2023 : elle accueille surtout des commerces de bouche — boucherie, poissonnerie, fromagerie, boulangerie, traiteur, primeur —, complétés à l'extérieur par des étals de fleurs et de vêtements, d'après la Ville, qui y signale aussi des tables et des chaises pour s'asseoir. Le plus petit des deux marchés de la commune, que la Ville décrit comme tourné vers les produits traditionnels et les traiteurs. Point placé sur la place Jacob (Base Adresse Nationale), à 0,8 km de la mairie de Livry-Gargan. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Jacob%20%28Livry-Gargan%29%20Place%20Jacob%2C%2093190%20Livry-Gargan",
+    "image_url": "/images/marchands/marche-jacob-livry-gargan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-chanzy-livry-gargan",
+    "nom": "Marché Chanzy (Livry-Gargan)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.91027,
+    "lon": 2.519679,
+    "adresse": "Boulevard Chanzy, 93190 Livry-Gargan",
+    "horaires": "Jeudi et dimanche de 7h à 13h, d'après la Ville de Livry-Gargan (page des marchés communaux et article du 5 mai 2026). Le mardi, le marché ne se tient que du côté des Pavillons-sous-Bois.",
+    "produits": [
+      "Fruits et légumes (primeurs)",
+      "Poissonnerie",
+      "Fromages",
+      "Olives",
+      "Pâtisseries",
+      "Vêtements et ustensiles de cuisine (hors alimentaire)"
+    ],
+    "description": "Marché de plein air installé le long du boulevard Chanzy, à cheval sur Livry-Gargan et Les Pavillons-sous-Bois, que les deux Villes présentent comme l'un des plus grands de Seine-Saint-Denis. La Ville de Livry-Gargan y écrit des étals de poissonnerie, de fromages, d'olives, de pâtisseries et de fruits, à côté de vêtements, de jeux et d'ustensiles de cuisine. La Ville des Pavillons-sous-Bois confirme les trois matinées (mardi, jeudi, dimanche) sans en donner les heures. Point placé sur le boulevard (Base Adresse Nationale), à 1,7 km de la mairie de Livry-Gargan : le marché s'étend sur toute la voie. Photo : vue aérienne du boulevard, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Chanzy%20%28Livry-Gargan%29%20Boulevard%20Chanzy%2C%2093190%20Livry-Gargan",
+    "image_url": "/images/marchands/marche-chanzy-livry-gargan.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-amandiers-gagny",
+    "nom": "Marché des Amandiers (Gagny)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.87549,
+    "lon": 2.552107,
+    "adresse": "Rue des Amandiers (angle des rues de la Mare et des Saules), 93220 Gagny",
+    "horaires": "Jeudi et samedi de 8h à 13h, d'après la page des marchés de la Ville de Gagny (mise à jour le 20 août 2025).",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages (fromagers affineurs)",
+      "Poissonnerie",
+      "Charcuterie et traiteur",
+      "Boucherie traditionnelle",
+      "Buvette"
+    ],
+    "description": "Marché sous halle du quartier du Chénay, à l'angle des rues des Amandiers, de la Mare et des Saules : la Ville de Gagny y écrit une buvette et des étals de fruits et légumes, de fromagers affineurs, de poissonniers, de charcutiers traiteurs et de bouchers traditionnels. Des places de stationnement longent la halle et la gare de Gagny-Chénay est voisine, d'après la même page. L'autre marché de la commune, place du Général-de-Gaulle, n'est pas fiché : la Ville n'en écrit pas les heures. Point placé sur la rue des Amandiers (Base Adresse Nationale), à 5,0 km de la mairie de Livry-Gargan, dans le même établissement public territorial, Grand Paris Grand Est. Photo : vue aérienne de la halle, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Amandiers%20%28Gagny%29%20Rue%20des%20Amandiers%20%28angle%20des%20rues%20de%20la%20Mare%20et%20des%20Saules%29%2C%2093220%20Gagny",
+    "image_url": "/images/marchands/marche-des-amandiers-gagny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "petit-marche-saint-baudile-neuilly-sur-marne",
+    "nom": "Petit marché Saint-Baudile (Neuilly-sur-Marne)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.856163,
+    "lon": 2.532387,
+    "adresse": "Place du Chanoine Héroux, 93330 Neuilly-sur-Marne",
+    "horaires": "Dimanche de 8h à 13h, d'après la page des marchés de plein air de la Ville de Neuilly-sur-Marne (mise à jour le 17 août 2026).",
+    "produits": [
+      "Fruits et légumes de saison (primeur)",
+      "Poisson",
+      "Fromages",
+      "Traiteur",
+      "Fleurs"
+    ],
+    "description": "Petit marché du dimanche matin au cœur du centre ancien de Neuilly-sur-Marne : la Ville y écrit des produits frais et de saison, avec un primeur, un poissonnier, un fromager, un traiteur et un fleuriste. Le grand marché de la Patinoire, que la même page annonce le mercredi et le samedi, n'est pas fiché : la Ville n'écrit ni sa place ni ce qui s'y vend. Point placé sur la place du Chanoine Héroux (Base Adresse Nationale), à 7,0 km de la mairie de Livry-Gargan, dans le même établissement public territorial, Grand Paris Grand Est. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Petit%20march%C3%A9%20Saint-Baudile%20%28Neuilly-sur-Marne%29%20Place%20du%20Chanoine%20H%C3%A9roux%2C%2093330%20Neuilly-sur-Marne",
+    "image_url": "/images/marchands/petit-marche-saint-baudile-neuilly-sur-marne.jpg",
+    "a_confirmer": true
   }
 ]
