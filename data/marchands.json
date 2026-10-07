@@ -31711,5 +31711,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20de%20La%20Varenne%2C%2026%20avenue%20du%20Bac%2C%2094210%20Saint-Maur-des-Foss%C3%A9s",
     "image_url": "/images/marchands/biocoop-de-la-varenne-saint-maur-des-fosses.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "au-panier-flamand-hazebrouck",
+    "nom": "Au Panier Flamand",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.721708,
+    "lon": 2.536774,
+    "adresse": "31 Place du Général de Gaulle, 59190 Hazebrouck",
+    "horaires": "Du mardi au vendredi de 8h45 à 12h30 et de 14h30 à 19h ; samedi de 8h45 à 12h30 et de 14h30 à 18h30 ; fermé le dimanche et le lundi (annuaire national des magasins de producteurs). L'annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France affiche les mêmes heures de début et de fin, sur une grille incomplète.",
+    "produits": [
+      "Légumes et fruits de saison",
+      "Volailles",
+      "Charcuteries",
+      "Produits laitiers",
+      "Œufs",
+      "Gaufres",
+      "Fromages régionaux"
+    ],
+    "description": "Magasin de producteurs installé sur la Grand'Place d'Hazebrouck, à deux pas de la mairie : une dizaine d'agriculteurs de Flandre et des environs y vendent eux-mêmes les produits de leurs fermes. Recensé par l'annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France et par l'annuaire national des magasins de producteurs. Groupement d'intérêt économique actif au registre des entreprises à cette adresse depuis 1987. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de la place du Général de Gaulle, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 28 40 78 04",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Panier%20Flamand%2C%2031%20place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2059190%20Hazebrouck",
+    "image_url": "/images/marchands/au-panier-flamand-hazebrouck.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-hazebrouck",
+    "nom": "Marché d'Hazebrouck",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.722366,
+    "lon": 2.536203,
+    "adresse": "Place du Général de Gaulle, 59190 Hazebrouck",
+    "horaires": "Dimanche et lundi de 8h à 12h, d'après la Ville d'Hazebrouck. En cas de manifestation sur la place, le marché est déplacé rue Biebuyck et rue Nationale.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Produits laitiers"
+    ],
+    "description": "Marché de plein air de la Grand'Place d'Hazebrouck, devant l'hôtel de ville : une vingtaine de commerçants abonnés le dimanche, une trentaine le lundi, plus les passagers, chaque jour sur une moitié de la place. La Ville, qui l'organise, en publie les jours, les heures et le lieu ; l'office de tourisme Destination Cœur de Flandre, dans sa fiche de 2026, y écrit fruits, légumes et produits laitiers. Point : centre de la place d'après la Base Adresse Nationale. Photo : vue aérienne de la place du Général de Gaulle, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2059190%20Hazebrouck",
+    "image_url": "/images/marchands/marche-hazebrouck.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "respect-naturel-hazebrouck",
+    "nom": "Respect Naturel",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 50.721887,
+    "lon": 2.537327,
+    "adresse": "5 Rue du Rivage, 59190 Hazebrouck",
+    "horaires": "Du mardi au vendredi de 9h30 à 12h et de 14h à 19h ; samedi de 9h30 à 12h et de 14h à 18h ; fermé le dimanche et le lundi (annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France).",
+    "produits": [
+      "Miel et produits de la ruche",
+      "Épicerie sucrée",
+      "Épicerie fine de produits locaux"
+    ],
+    "description": "Boutique d'épicerie fine de produits locaux, dans une rue qui donne sur la Grand'Place d'Hazebrouck, à cent mètres de la mairie : miel et produits de la ruche, épicerie sucrée et produits de producteurs de la région. Une seule source la décrit, l'annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France : mieux vaut vérifier les heures sur place. Société active au registre des entreprises à cette adresse depuis 2020. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de la rue du Rivage et de l'angle de la place, qui ne montre pas la boutique — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Respect%20Naturel%2C%205%20rue%20du%20Rivage%2C%2059190%20Hazebrouck",
+    "image_url": "/images/marchands/respect-naturel-hazebrouck.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "au-rond-point-fermier-bailleul",
+    "nom": "Au Rond Point Fermier",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.726277,
+    "lon": 2.738299,
+    "adresse": "50 Avenue de l'Europe, 59270 Bailleul",
+    "horaires": "Du mardi au vendredi de 9h30 à 19h ; samedi à partir de 9h30, jusqu'à 18h au moins. Les sources se séparent sur le lundi (ouvert de 9h30 à 19h pour l'annuaire de la Chambre d'agriculture, fermé pour la carte des circuits courts d'une association de consommateurs) et sur la fermeture du samedi (18h ou 19h) : mieux vaut téléphoner avant de se déplacer un lundi.",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Viandes",
+      "Poissons",
+      "Produits laitiers",
+      "Œufs",
+      "Pains",
+      "Épicerie et boissons"
+    ],
+    "description": "Magasin de producteurs à l'entrée de Bailleul, au rond-point de l'avenue de l'Europe, à 14,2 km de la mairie d'Hazebrouck : une trentaine de producteurs de Flandre et des environs y sont rattachés d'après l'annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France. Également recensé comme magasin de producteurs par la carte des circuits courts d'une association nationale de consommateurs, qui en détaille les rayons. Société active au registre des entreprises à cette adresse depuis 2016. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du rond-point et de la zone commerciale, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 28 50 43 99",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Au%20Rond%20Point%20Fermier%2C%2050%20avenue%20de%20l%27Europe%2C%2059270%20Bailleul",
+    "image_url": "/images/marchands/au-rond-point-fermier-bailleul.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cote-ferme-saint-jans-cappel",
+    "nom": "Côté Ferme",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.764115,
+    "lon": 2.720966,
+    "adresse": "55 Rue de Berthen, 59270 Saint-Jans-Cappel",
+    "horaires": "Mardi, mercredi et vendredi de 16h à 19h30 ; samedi de 9h à 12h30 ; dimanche de 10h à 12h30 (annuaire « Où acheter local » de la Chambre d'agriculture des Hauts-de-France). D'autres annuaires donnent des heures plus larges : mieux vaut téléphoner avant de se déplacer en dehors de ces créneaux.",
+    "produits": [
+      "Yaourts et crèmes desserts",
+      "Fromages de vache",
+      "Glaces et sorbets",
+      "Lait, beurre et crème",
+      "Œufs",
+      "Tartes et flamiches",
+      "Viandes",
+      "Légumes de saison et fruits du verger"
+    ],
+    "description": "Magasin de producteurs sur la place de Saint-Jans-Cappel, au pied du mont Noir, à 13,8 km de la mairie d'Hazebrouck : plus de quarante exploitations et artisans y proposent leurs produits, d'après l'office de tourisme Destination Cœur de Flandre. L'annuaire de la Chambre d'agriculture des Hauts-de-France (fiche mise à jour en avril 2026) y décrit une transformation laitière sur place, du yaourt au fromage, avec les glaces pour produit phare. Société active au registre des entreprises à cette adresse depuis 2016. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du centre du village, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 28 41 01 01",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C3%B4t%C3%A9%20Ferme%2C%2055%20rue%20de%20Berthen%2C%2059270%20Saint-Jans-Cappel",
+    "image_url": "/images/marchands/cote-ferme-saint-jans-cappel.jpg",
+    "a_confirmer": true
   }
 ]

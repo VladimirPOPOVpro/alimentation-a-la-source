@@ -5567,9 +5567,32 @@ prioritaires en cas de conflit.
      ancienne ; les fiches entières rencontrées en chemin sont désignées pour la reprise (règle 258). Aucune exigence
      de vérification ne baisse. **Ce que la règle débloque** : la passe de Vincennes, dans la même passe.
 
+447. **Quand deux annuaires donnent des heures différentes pour un même magasin et qu'aucune page du magasin ne se
+     lit, la fiche publie les créneaux que les deux écrivent et dit où ils se séparent ; un créneau qu'un seul
+     annuaire écrit n'est pas publié comme une heure d'ouverture.** Le 7 octobre 2026 (cent soixante et onzième
+     passe), le magasin de producteurs de Bailleul désigné pour la reprise depuis le 24 septembre n'a plus de site
+     joignable. L'annuaire de la Chambre d'agriculture l'ouvre du lundi au vendredi de 9h30 à 19h et le samedi
+     jusqu'à 18h ; la carte des circuits courts d'une association de consommateurs le ferme le lundi et l'ouvre le
+     samedi jusqu'à 19h. À Saint-Jans-Cappel, la Chambre écrit cinq créneaux courts, d'autres annuaires une semaine
+     entière. La règle 5 publie ce qui est solide ; la règle 192 n'ajourne que la fiche sans aucune heure ; la
+     règle 176 ne range que les sources d'un marché communal. **Tranché ainsi** : (a) le champ `horaires` porte
+     l'intersection des deux sources, jour par jour, et nomme en clair le jour ou l'heure disputés, avec le conseil
+     de téléphoner ; (b) quand l'une des deux sources est l'annuaire de la Chambre d'agriculture et que l'autre
+     n'est qu'un relais sans autorité, ce sont les heures de la Chambre qui se publient, et la fiche dit que
+     d'autres annuaires en écrivent de plus larges ; (c) la fiche part en `a_confirmer` ; (d) si l'intersection est
+     vide, la règle 192 s'applique et la fiche attend. **Ce que la règle débloque** : dans la même passe, les
+     quatrième et cinquième points du groupe d'Hazebrouck.
+
 ## Marchands à confirmer
 
-1065 fiches sur 1199 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1070 fiches sur 1204 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Au Panier Flamand**, **Marché d'Hazebrouck** et **Respect Naturel** (Hazebrouck), **Au Rond Point Fermier**
+  (Bailleul) et **Côté Ferme** (Saint-Jans-Cappel) (passe du 7 octobre 2026, cent soixante et onzième, règles 96, 432
+  et 447) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni rayon ; les heures des quatre
+  magasins viennent d'annuaires et non des magasins eux-mêmes, et deux annuaires se séparent sur le lundi et sur la
+  fermeture du samedi à Bailleul, sur l'amplitude de la semaine à Saint-Jans-Cappel ; l'épicerie fine
+  d'Hazebrouck n'est décrite que par un seul annuaire ; la composition du marché d'Hazebrouck n'est écrite que par l'office de
+  tourisme, à grands traits.
 - **Marché de la place Carnot** et **Biocoop Bio Rigollots** (Vincennes), **Marché de la Tourelle** et **Marché de
   l'Alouette** (Saint-Mandé) et **Biocoop de La Varenne** (Saint-Maur-des-Fossés) (passe du 7 octobre 2026, cent
   soixante-dixième, règles 96, 432 et 446) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal
@@ -13291,6 +13314,108 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Hazebrouck, dans Cœur de Flandre et à Lambersart
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante et onzième), avec le déblocage de chacune.
+
+- **Lambersart, trois marchés** (mardi, mercredi et samedi, de 8h à 13h, lieux écrits par la Ville) : aucune famille
+  de produits, ni sur la page de la Ville ni ailleurs (règle 197) ; le registre de l'Agence Bio n'y rend que des
+  enseignes de chaîne, des ateliers et des grossistes. **Déblocage** : une page de la Ville qui écrit ce qu'on
+  achète sur un marché donné.
+- **Armentières** : le site de la Ville ne répond pas à l'agent par défaut, `robots.txt` compris (connexion sans
+  réponse, règles 237 et 425). **Déblocage** : le retour du site.
+- **Hazebrouck, magasin biologique de réseau de l'avenue de la Haute-Loge** : société active, certificat engagé ;
+  ses heures et ses producteurs ne se lisent que sur le site du réseau, fermé par la règle 149, et il n'a pas de
+  site à lui. **Déblocage** : une page hors du réseau qui écrit ses heures et ses fournisseurs de la région.
+- **Hazebrouck, magasin à la ferme du sud-ouest de la commune** : faits entiers à l'annuaire de la Chambre
+  d'agriculture et société active au registre, mais l'enseigne est formée d'un mot qui peut être un prénom ;
+  écarté pour doute sur une personne après rédaction, il ne se rouvre pas.
+- **Hazebrouck, point de vente fermier de la rue de la Clé** (samedi matin, produits laitiers) : aucune entité
+  retrouvée au registre sous l'enseigne (règle 6). **Déblocage** : l'entité qui l'exploite.
+- **Hazebrouck, deux points de retrait d'un service de commande en circuit court** (gare et lycée agricole, mercredi
+  en fin d'après-midi) : retrait sur commande, sans vente sur place ; non instruits.
+- **Hazebrouck, commerce de fruits et légumes biologiques inscrit sous le nom de son exploitant** : non instruit
+  (règle des personnes) ; ne se rouvre pas.
+- **Borre, ferme d'élevage en vente directe et son AMAP** (vendredi et samedi d'après l'annuaire de la Chambre) :
+  le nom de domaine que l'annuaire lui attache a été racheté et sert un site de jeux en ligne — le piège de la note
+  Santa Lucia, il ne s'inscrit nulle part ; seul téléphone mobile ; l'AMAP n'a ni jour ni heure. **Déblocage** : un
+  second écrit à jour, et un jour de distribution pour l'AMAP.
+- **Bailleul, marché du mardi et marché de producteurs du jeudi** : jours, heures et lieux sur la page de la Ville
+  (revenue), mais « plus de soixante exposants » et « producteurs locaux, circuits courts, bio » ne sont pas une
+  famille de produits (règle 197) ; la Ville arrête le mardi à 12h30, l'office à 13h. **Déblocage** : une famille de
+  produits écrite par la Ville.
+- **Bailleul, brasserie artisanale avec boutique** : société active, engagée en bio ; ni son site ni la fiche de
+  l'office n'écrivent d'heures de boutique (règle 192).
+- **Bailleul, magasin d'une ferme de la route du Mont-Noir** : faits entiers à l'office (heures, produits), mais à
+  15,4 km de la mairie d'Hazebrouck, hors de la borne de la règle 96 ; registre non contrôlé. À instruire avec un
+  groupe centré sur Bailleul.
+- **Morbecque et Hondeghem, marchés de producteurs** : recensés par l'office et par l'annuaire de la Chambre, pas
+  par une page de commune lue (règle 196), et « producteurs locaux » sans famille de produits (règle 197).
+- **Sainte-Marie-Cappel, magasin à la ferme** et **Eecke, fromagerie** : l'enseigne de l'un peut être un nom de
+  famille, la fiche de l'office de l'autre nomme son exploitant ; écartés pour doute sur une personne, ils ne se
+  rouvrent pas.
+- **Saint-Jans-Cappel** : le numéro mobile que l'office attache au magasin publié n'est pas repris.
+
+### Passe du 7 octobre 2026 (cent soixante et onzième) : Hazebrouck, Bailleul et Saint-Jans-Cappel (Nord), cinq fiches dans Cœur de Flandre ; règle 447
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 204
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 199 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : Seine-et-Marne 5,53, fermée
+par la région de la passe précédente (règle 41.c) ; **Nord (59) 5,48**, 40 fiches, ouvert, point d'arrêt à Méteren ;
+puis Aube 5,40, Pas-de-Calais 5,35, Mayenne 5,31. `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Communes à contrôler d'abord, règle 406**, sous l'agent par défaut, `robots.txt` d'abord (règle 425), registre de
+l'Agence Bio relu en entier sur le département (1 793 opérateurs) :
+
+1. **Lambersart** (27 090) — trois marchés sans composition, rien au registre bio en vente de proximité. **Zéro.**
+2. **Armentières** (26 998) — site de la Ville sans réponse. **Zéro.**
+3. **Hazebrouck** (21 912) — **trois fiches entières dans la commune** : elle fait la passe (règle 127).
+   Mons-en-Barœul, Lezennes, Herlies et Monchecourt n'ont pas été éprouvées.
+
+Le groupe se complète dans la communauté d'agglomération Cœur de Flandre (champ `epci` commun aux trois communes),
+distances prises depuis la mairie d'Hazebrouck (annuaire de l'administration, règle 363), la commune d'abord, puis le
+point désigné, puis le plus proche (règles 96 et 441) :
+
+1. **Au Panier Flamand** (Hazebrouck) — magasin de producteurs de la Grand'Place ; heures entières à l'annuaire
+   national des magasins de producteurs, heures de début et de fin identiques à l'annuaire de la Chambre
+   d'agriculture ; groupement actif au registre à l'adresse depuis 1987 ; fixe publié par la Chambre. BAN au numéro
+   (0,968). À 0,1 km.
+2. **Marché d'Hazebrouck** — dimanche et lundi de 8h à 12h, place du Général de Gaulle, page de la Ville (revenue
+   depuis la maintenance du 24 septembre) ; « fruits, légumes, produits laitiers » dans la fiche 2026 de l'office de
+   tourisme, qui porte les mêmes jours (règles 176 et 197). BAN à la voie (0,968). Sur la place de la mairie.
+3. **Respect Naturel** (Hazebrouck) — épicerie fine de produits locaux, rue du Rivage ; heures et familles de
+   produits à l'annuaire de la Chambre d'agriculture, seul écrit ; société active au registre à l'adresse depuis
+   2020. Le téléphone publié est un mobile et le site que l'annuaire lui attache est celui d'un exploitant en nom
+   propre : ni l'un ni l'autre n'est inscrit. BAN au numéro (0,968). À 0,1 km.
+4. **Au Rond Point Fermier** (Bailleul) — désigné pour la reprise depuis le 24 septembre (règle 249) ; son site
+   d'alors ne se retrouve plus ; heures par la règle 447, rayons écrits par la carte des circuits courts d'une
+   association de consommateurs ; société active au registre à l'adresse depuis 2016. BAN au numéro (0,962). À 14,2 km.
+5. **Côté Ferme** (Saint-Jans-Cappel) — magasin de producteurs que l'office de tourisme et l'agence départementale
+   décrivent dans les mêmes mots ; heures et produits à l'annuaire de la Chambre (fiche d'avril 2026), règle 447 ;
+   société active au registre à l'adresse depuis 2016. BAN au numéro (0,958). À 13,8 km.
+
+Aucune photographie n'a été reprise : les images de l'annuaire de la Chambre sont des vignettes d'identité, celles de
+l'office n'ont pas été instruites (règle 432 : la vue aérienne suffit à une fiche aux faits entiers). Les cinq images
+sont des vues aériennes de l'IGN (1 280 × 800), regardées une à une — ni personne reconnaissable, ni enseigne
+lisible ; les trois vues d'Hazebrouck sont centrées sur trois points de la Grand'Place et de ses abords, à moins de
+cent mètres les uns des autres. Toutes partent en `a_confirmer`. Aucun `site_web` : les quatre magasins n'ont pour
+adresse en ligne qu'une page de réseau social ou le site d'un tiers.
+
+**Contradictions** (règle 5) : heures des magasins de Bailleul et de Saint-Jans-Cappel, tranchées par la règle 447 ;
+le registre code deux des magasins comme intermédiaires de commerce, sans effet sur les fiches. L'épicerie fine de
+la rue du Rivage n'a qu'un écrit, celui de la Chambre d'agriculture, source que `AGENT.md` nomme : elle se publie
+en `a_confirmer` et sa description le dit. **Fiches écartées pour doute sur une personne ou une donnée
+personnelle** : quatre — un commerce et un magasin à la ferme à Hazebrouck (ce dernier après rédaction, avant tout
+commit), un magasin à la ferme à Sainte-Marie-Cappel, une fromagerie à Eecke ; les
+exploitations en nom propre du registre bio n'ont pas été instruites, et les noms de producteurs, d'exploitants et de
+partenaires que citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Nord**, la reprise de la règle 406 s'arrête à **Hazebrouck** ; restent à contrôler
+d'abord, par population, Mons-en-Barœul, Lezennes, Herlies et Monchecourt, puis Lambersart et Armentières sur leur
+déblocage ; la descente reprend ensuite à **Bachant** (2 230). Après la passe, sur 1 204 fiches : Seine-et-Marne 5,63,
+Pas-de-Calais 5,46, Aube 5,42, Mayenne 5,33, Cher 5,21 ; le Nord retombe à 0,67. La région de cette passe est les
+Hauts-de-France (règle 41.c) : le Pas-de-Calais est fermé à la prochaine passe, la Seine-et-Marne se rouvre.
 
 ### Pistes non publiées à Vincennes, à Saint-Mandé et dans le Val-de-Marne relu
 
@@ -32481,8 +32606,9 @@ Passe du 5 octobre 2026 (cent vingt-cinquième), douze communes criblées avant 
 - Lewarde, Bersée, Haulchin, Herlies, Gommegnies, Cappelle-en-Pévèle, Boeschepe, Avesnelles, Méteren : des exploitations et
   des exposants écartés pour doute sur une personne, non rouvrables.
 
-Point d'arrêt : **Méteren**. À contrôler d'abord (règle 406), par population : Lambersart, Armentières, Hazebrouck et
-Mons-en-Barœul (sites revenus le 5 octobre 2026), Lezennes (maintenance), Herlies (à son rang), Monchecourt (503) ; la
+Point d'arrêt : **Méteren**. À contrôler d'abord (règle 406), par population : Mons-en-Barœul (site revenu le 5 octobre
+2026), Lezennes (maintenance), Herlies (à son rang), Monchecourt (503) ; Lambersart (zéro) et Armentières (site sans
+réponse) ont été éprouvées le 7 octobre 2026, et Hazebrouck a fait la passe ce jour-là (cent soixante et onzième) ; la
 commune suivante du Nord est **Bachant** (2 230).
 
 ### Pistes non publiées dans l'Hérault (de Castelnau-le-Lez à Juvignac)
