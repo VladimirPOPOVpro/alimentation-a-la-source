@@ -29911,5 +29911,137 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine%20Le%20Passelys%20699%20Rue%20de%20la%20Prade%2046140%20Douelle",
     "image_url": "/images/marchands/domaine-le-passelys-douelle.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-producteurs-maxeville",
+    "nom": "Marché de producteurs de Maxéville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.707086,
+    "lon": 6.164627,
+    "adresse": "Halle des quais, site des Brasseries, Rue des Brasseries, 54320 Maxéville",
+    "horaires": "Tous les jeudis de 16h à 19h, sous la Halle des quais du site des Brasseries, d'après la Ville de Maxéville. La Ville annonce à l'avance les jeudis de fermeture (trois en janvier 2026).",
+    "produits": [
+      "Viande et charcuterie",
+      "Volailles de chair et œufs",
+      "Fromages de chèvre et faisselle",
+      "Légumes et fruits bio",
+      "Miel",
+      "Vins des côtes de Toul",
+      "Bières bio",
+      "Pâtes artisanales, confitures, pâtés et tourtes"
+    ],
+    "description": "Marché hebdomadaire de producteurs et d'artisans de Meurthe-et-Moselle, tenu sous une halle de l'ancien site des brasseries ; la Ville de Maxéville publie la liste des étals avec la commune d'origine et la famille de produits de chacun. Point placé sur la rue des Brasseries (Base Adresse Nationale), la halle n'ayant pas de numéro. Photo : vue aérienne du lieu, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://maxeville.fr/index.php/mon-quotidien/marche-de-producteurs/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20des%20quais%2C%20site%20des%20Brasseries%2C%20Rue%20des%20Brasseries%2C%2054320%20Max%C3%A9ville",
+    "image_url": "/images/marchands/marche-de-producteurs-maxeville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "hoppy-road-maxeville",
+    "nom": "Hoppy Road",
+    "categorie": "producteur",
+    "piliers": [
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.709331,
+    "lon": 6.176425,
+    "adresse": "25 Avenue de la Meurthe, 54320 Maxéville",
+    "horaires": "Boutique de la brasserie ouverte du lundi au vendredi de 10h à 16h30, d'après la brasserie.",
+    "produits": [
+      "Bières artisanales brassées sur place",
+      "India pale ales (IPA, session IPA, NEIPA)",
+      "Bière blonde forte"
+    ],
+    "description": "Brasserie artisanale indépendante installée à Maxéville depuis 2016, qui vend ses bières dans sa boutique, à l'adresse de la brasserie. Société active au registre des entreprises à cette adresse ; engagée en agriculture biologique auprès d'Ecocert depuis février 2025 pour une partie de sa production, d'après le registre de l'Agence Bio. La brasserie demande qu'aucun lien ne soit fait vers son site sans son accord : il n'est donc pas indiqué ici. Photo : vue aérienne du quartier — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hoppy%20Road%2025%20Avenue%20de%20la%20Meurthe%2C%2054320%20Max%C3%A9ville",
+    "image_url": "/images/marchands/hoppy-road-maxeville.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-municipal-essey-les-nancy",
+    "nom": "Marché municipal d'Essey-lès-Nancy",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.705349,
+    "lon": 6.222061,
+    "adresse": "Place de la République, 54270 Essey-lès-Nancy",
+    "horaires": "Tous les samedis de 7h30 à 12h30, place de la République, d'après la Ville d'Essey-lès-Nancy.",
+    "produits": [
+      "Fruits et légumes de saison (primeur)",
+      "Volailles",
+      "Poulets rôtis",
+      "Œufs frais"
+    ],
+    "description": "Petit marché du samedi matin au centre d'Essey-lès-Nancy, devant la mairie. La Ville y annonce, à l'été 2025, le retour d'un primeur aux côtés d'un volailler-rôtisseur : c'est un marché de quelques étals, pas un grand marché de plein vent. Photo : vue aérienne du lieu, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.esseylesnancy.fr/commerces-et-professionnels",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2054270%20Essey-l%C3%A8s-Nancy",
+    "image_url": "/images/marchands/marche-municipal-essey-les-nancy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-et-solidaire-mouzimpre-essey-les-nancy",
+    "nom": "Marché bio et solidaire de Mouzimpré « Place à Vivres »",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "social"
+    ],
+    "lat": 48.698843,
+    "lon": 6.223935,
+    "adresse": "Allée Carl Fabergé, 54270 Essey-lès-Nancy",
+    "horaires": "Le vendredi après-midi, de 16h à 19h d'après la Ville d'Essey-lès-Nancy (article de juillet 2025) ; une autre publication relevée lors d'une passe précédente donnait 15h30-18h30. Venir entre 16h et 18h30 couvre les deux versions.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Œufs",
+      "Pains",
+      "Farine",
+      "Miel"
+    ],
+    "description": "Marché de quartier tenu par une association d'insertion par le maraîchage biologique de Malzéville, en partenariat avec la Ville et son centre communal d'action sociale : produits de l'agriculture locale et biologique, tarifs accessibles pour certains publics et ateliers pendant le marché. Point placé sur l'allée (Base Adresse Nationale), sans numéro. Photo : vue aérienne du quartier — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.esseylesnancy.fr/actualites/deux-marches-pour-tous-essey",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All%C3%A9e%20Carl%20Faberg%C3%A9%2C%2054270%20Essey-l%C3%A8s-Nancy",
+    "image_url": "/images/marchands/marche-bio-et-solidaire-mouzimpre-essey-les-nancy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-hebdomadaire-malzeville",
+    "nom": "Marché hebdomadaire de Malzéville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.70823,
+    "lon": 6.1828,
+    "adresse": "Place de la Rivière, Rue du Général de Gaulle, 54220 Malzéville",
+    "horaires": "Tous les mercredis de 16h à 20h, sauf jours fériés, place de la Rivière, d'après la Ville de Malzéville.",
+    "produits": [
+      "Légumes d'un maraîcher local et bio",
+      "Rôtisserie",
+      "Plats de traiteurs",
+      "Épicerie",
+      "Pain",
+      "Vins (caviste)"
+    ],
+    "description": "Marché de fin d'après-midi au pied de la mairie de Malzéville, avec des commerçants de bouche que la Ville dit sélectionnés ; le dernier mercredi du mois, un collectif y tient une zone de gratuité. La Base Adresse Nationale ne connaît pas la place : le point est placé sur le plan de l'IGN. Photo : vue aérienne du lieu, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.villedemalzeville.fr/mon-quotidien/vie-economique-emploi/marche-hebdomadaire/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Rivi%C3%A8re%2C%20Rue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2054220%20Malz%C3%A9ville",
+    "image_url": "/images/marchands/marche-hebdomadaire-malzeville.jpg",
+    "a_confirmer": true
   }
 ]

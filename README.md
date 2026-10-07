@@ -5374,9 +5374,41 @@ prioritaires en cas de conflit.
      jamais pour une commune sans aucune fiche au lieu illustré dans sa zone. **Déblocage** de la réserve : une photographie
      permise du lieu, qui remplace l'illustration dès qu'elle existe. Première application : Cahors, quatre fiches.
 
+432. **Quand aucune photographie permise du lieu n'existe, la vue aérienne de l'IGN (BD ORTHO, licence ouverte Etalab 2.0)
+     illustre la fiche, et une fiche aux faits entiers ne compte plus pour « non entière » faute d'image.** Le 7 octobre
+     2026 (cent cinquante-sixième passe), trois passes de suite n'avaient rien publié en Meurthe-et-Moselle alors que neuf
+     fiches aux faits entiers y attendaient, huit par la seule image ; seize départements étaient écrits épuisés, dont neuf
+     sans aucune fiche. Or la règle 1 dit qu'« une fiche exacte ne se reporte pas pour une question d'illustration », et
+     `AGENT.md`, qui prime sur ces règles, place la photo thématique honnête en troisième recours : les règles 127, 248, 422
+     et 431, en exigeant une image du lieu pour former la zone, avaient retourné l'ordre. Il manquait une source d'images
+     permise partout. Elle existe : l'orthophotographie nationale de l'IGN est diffusée sous licence ouverte Etalab 2.0, qui
+     autorise la reproduction à la seule condition de citer la source et la date ; le service `data.geopf.fr` est ouvert sans
+     clé, n'a pas de `robots.txt` (404, aucune directive) et est fait pour être appelé par des programmes. La règle 158
+     admettait déjà la vue aérienne publiée par une autorité. À vingt centimètres par pixel, personne n'y est reconnaissable
+     et aucune enseigne ne s'y lit. **Tranché ainsi** : (a) l'ordre d'`AGENT.md` reste — photographie du commerce, puis de
+     l'office, quand elles sont permises ; (b) à défaut, une vue aérienne centrée sur le point géocodé de la fiche, 1 280 px
+     de large, demi-largeur d'environ cent mètres, prise par une requête WMS sur la couche `ORTHOIMAGERY.ORTHOPHOTOS` ;
+     (c) la description cite « IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr) » avec la date du relevé et dit que
+     l'image ne montre pas le marché en activité ; la fiche part en `a_confirmer` ; (d) la passe regarde chaque image avant
+     de la déposer ; (e) une fiche ainsi illustrée est entière pour les règles 127, 248, 422 et 431, et le groupe de cinq
+     fiches du prompt se forme sur les faits, dans une même commune ou une même intercommunalité. Aucune exigence de
+     vérification des faits ne baisse (règles 5, 6, 192, 196 et 197), et la règle des personnes reste entière. **Ce que la
+     règle débloque** : dans la même passe, cinq fiches du Grand Nancy ; ensuite, à leur rang, les fiches « désignées pour la
+     reprise » arrêtées par la seule image, et les départements écrits épuisés (règle 265), qui se rouvrent dans l'ordre du
+     déficit quand le classement les présente — la passe qui en relit un le dit. **Limite** : la vue aérienne n'atteste
+     aucun fait (ni étal, ni jour, ni existence) ; un site fermé pour ses faits (règles 414, 416, 429) le reste ; une
+     photographie permise du lieu remplace la vue aérienne dès qu'elle existe.
+
 ## Marchands à confirmer
 
-996 fiches sur 1130 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1001 fiches sur 1135 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de producteurs de Maxéville** et **Hoppy Road** (Maxéville), **Marché municipal d'Essey-lès-Nancy** et **Marché
+  bio et solidaire de Mouzimpré « Place à Vivres »** (Essey-lès-Nancy), **Marché hebdomadaire de Malzéville** (Malzéville)
+  (passe du 7 octobre 2026, cent cinquante-sixième, règles 5, 6, 409 et 432) : les cinq fiches portent une vue aérienne de
+  l'IGN, qui montre le lieu hors jour de marché ; la halle de Maxéville et l'allée de Mouzimpré sont placées sur leur voie,
+  sans numéro ; la place de Malzéville, inconnue de la Base Adresse Nationale, est placée sur le plan de l'IGN ; deux
+  heures circulent pour le marché du vendredi d'Essey (16h-19h pour la Ville, 15h30-18h30 ailleurs), la fiche écrit les
+  deux ; la brasserie interdit les liens vers son site, la fiche n'en porte pas.
 - **Marché de Cahors**, **Les Petits Producteurs** et **ToutenLocal** (Cahors), **Domaine Le Passelys** (Douelle) (passe du 7
   octobre 2026, cent cinquante-troisième) : les trois fiches de Cahors portent une illustration prêtée par le domaine de
   Douelle (règle 431), qui ne montre pas leur lieu ; le marché est déplacé aux allées Fénelon le temps des travaux de la place
@@ -12998,6 +13030,58 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent cinquante-sixième) : Grand Nancy, cinq fiches (Maxéville, Essey-lès-Nancy, Malzéville) ; règle 432, la vue aérienne de l'IGN
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 135
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 130 fiches avant la passe), relu
+depuis le premier rang (règle 410) : inchangé depuis la passe précédente (règle 260) — les seize départements écrits
+épuisés, le Val-de-Marne à descente terminée, **Seine-et-Marne (77)** premier ouvert, deux communes (règle 426),
+**Meurthe-et-Moselle (54)** second, borne de douze (règle 247) ; la réserve de la règle 41.c reste sur l'Occitanie.
+`git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Seine-et-Marne (règle 426, deux communes).** **Ozouer-le-Voulgis** (2 050) : l'adresse du site communal n'est plus
+qu'un cadre vers un autre domaine, qui sert aujourd'hui des textes sans rapport avec la commune — le piège du domaine
+repris (note Santa Lucia) ; rien n'y est lu. Zéro. **Juilly** (2 036) : le site de la commune ne publie aucun marché. Zéro.
+
+**Meurthe-et-Moselle : la règle 432 et le Grand Nancy.** Tomblaine, à contrôler d'abord, répond encore 403 à l'agent par
+défaut, `robots.txt` compris (règle 425) : non lue. **Heillecourt** (5 414) et **Seichamps** (5 165), communes suivantes de
+la descente, toutes deux dans la métropole : aucun marché publié par l'une ni par l'autre. Zéro. Plutôt que de descendre
+dix communes de plus pour le même constat, la passe a tranché la cause : la règle 432 ouvre une source d'images permise
+partout, et les fiches désignées de la métropole, relues ce jour sur leurs sources, partent ensemble.
+
+1. **Marché de producteurs de Maxéville** — jeudi 16h-19h, Halle des quais du site des Brasseries ; jour, heures, lieu et
+   familles d'étals relus sur la page de la Ville (liste des étals avec commune d'origine ; aucun nom d'étal n'est repris).
+   BAN à la voie (score 0,96).
+2. **Hoppy Road** (Maxéville) — boutique de la brasserie, du lundi au vendredi 10h-16h30, heures et adresse publiées par
+   la société ; société active au registre à cette adresse (deux établissements ouverts) ; engagement Ecocert de février
+   2025 au registre de l'Agence Bio. BAN au numéro (0,96). Ses conditions interdisent tout lien vers son site : pas de
+   `site_web`. Catégorie `producteur`, comme la brasserie de Toul.
+3. **Marché municipal d'Essey-lès-Nancy** — samedi 7h30-12h30, place de la République ; deux pages de la Ville
+   concordent. BAN à la voie (0,96).
+4. **Marché bio et solidaire de Mouzimpré « Place à Vivres »** (Essey-lès-Nancy) — vendredi, allée Carl Fabergé ; tenu
+   par une association d'insertion de Malzéville, active au registre. BAN à la voie (0,95).
+5. **Marché hebdomadaire de Malzéville** — mercredi 16h-20h sauf jours fériés, place de la Rivière ; familles écrites par
+   la Ville. Place inconnue de la BAN et du géocodeur de l'IGN : point lu sur le plan de l'IGN (règle 409).
+
+Les cinq images sont des vues aériennes de l'IGN (1 280 × 800), regardées une à une : ni personne, ni enseigne lisible.
+
+**Contradictions** : une, sur les heures du marché du vendredi d'Essey — 16h-19h dans l'article de la Ville de juillet
+2025, 15h30-18h30 relevé par la cent cinquante-quatrième passe ; tranchée par la règle 5, la fiche écrit les deux.
+**Fiches écartées pour doute sur une personne** : aucune instruite ; les exploitations du registre biologique de la
+métropole immatriculées sous un patronyme n'ont pas été ouvertes. **Laissé de côté** : le marché des produits locaux de
+Laneuveville-devant-Nancy (premier et troisième mercredis), dont la page de la Ville n'écrit ni heure ni lieu (règle
+192) ; les marchés de Villers-lès-Nancy, sans famille de produits (règle 197) ; un traiteur de Houdemont inscrit au
+registre biologique, hors sujet (pas de vente au comptoir) ; la boutique du jardin d'insertion de Malzéville, dont le
+site reste fermé pour ses faits (règle 414).
+
+**Points d'arrêt** : en **Seine-et-Marne**, point d'arrêt **Juilly** ; la commune suivante est **Soignolles-en-Brie**
+(2 021), puis Croissy-Beaubourg (2 018), après quoi la règle 265 fermera le département. En **Meurthe-et-Moselle**, point
+d'arrêt **Seichamps**. À contrôler d'abord (règle 406) : Tomblaine (9 117) ; à reprendre d'abord, par la règle 432 : les
+fiches désignées de Jarny et de Conflans-en-Jarnisy (deux marchés, même intercommunalité), puis de Liverdun et de Frouard
+(deux commerces et un marché, Bassin de Pompey) — chaque groupe à compléter jusqu'à cinq dans son intercommunalité ; la
+commune suivante est **Longuyon** (5 134), puis Pulnoy (5 099). La région de cette passe est le Grand Est (règle 41.c). Ailleurs, inchangé ; les
+départements écrits épuisés se rouvrent à leur rang par la règle 432.
 
 ### Passe du 7 octobre 2026 (cent cinquante-cinquième) : Seine-et-Marne et Meurthe-et-Moselle, aucune publication ; Jarny rend une fiche entière, image comprise
 
