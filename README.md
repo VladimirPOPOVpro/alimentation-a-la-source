@@ -5401,7 +5401,13 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-1001 fiches sur 1135 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1006 fiches sur 1140 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **RO-ZE** et **AMAP d'Ermont** (Ermont), **Marché du centre-ville d'Eaubonne** (Eaubonne), **Halle de marché de
+  Taverny** (Taverny), **Marché du centre-ville de Bessancourt** (Bessancourt) (passe du 7 octobre 2026, cent
+  cinquante-septième, règles 409 et 432) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni la boutique
+  ni un marché en activité, celle de Taverny datant du chantier de la halle ; le pavillon de l'AMAP est placé sur sa rue,
+  sans numéro ; la halle de Taverny et la place de Bessancourt sont placées au géocodeur de l'IGN ; les heures de
+  l'épicerie changent pendant les vacances scolaires et les jours fériés.
 - **Marché de producteurs de Maxéville** et **Hoppy Road** (Maxéville), **Marché municipal d'Essey-lès-Nancy** et **Marché
   bio et solidaire de Mouzimpré « Place à Vivres »** (Essey-lès-Nancy), **Marché hebdomadaire de Malzéville** (Malzéville)
   (passe du 7 octobre 2026, cent cinquante-sixième, règles 5, 6, 409 et 432) : les cinq fiches portent une vue aérienne de
@@ -13030,6 +13036,68 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent cinquante-septième) : Ermont et l'agglomération Val Parisis (Val-d'Oise), cinq fiches ; le département se rouvre par la règle 432
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 140
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 135 fiches avant la passe), outre-mer
+écarté des parts comme des fiches (règle 177), relu depuis le premier rang (règle 410) : **Val-d'Oise (95) 11,99** (dix
+fiches, toutes à Argenteuil et à Cergy), Oise 10,24, Pas-de-Calais 10,01, Landes 7,44, Eure-et-Loir 7,43, Calvados 7,17.
+Les valeurs sont un peu plus hautes que celles des passes précédentes parce que les parts sont ici prises sur la seule
+population métropolitaine ; l'ordre est le même. Le Val-d'Oise était écrit épuisé (règle 265) : la règle 432 le rouvre à
+son rang, et la passe précédente visait le Grand Est, de sorte que l'Île-de-France est permise (règle 41.c). `git fetch`
+fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Val-d'Oise, relu depuis la commune la plus peuplée sans fiche (règles 41.d, 127 et 432).** Les communes déjà criblées
+ne sont rouvertes que sur ce que la règle 432 change : celles dont les faits étaient entiers ou n'avaient pas été lus.
+
+- **Sarcelles** (59 173) : aucune page de marché publiée par la Ville (constat du 23 septembre, inchangé par la règle
+  432). Zéro.
+- **Garges-lès-Gonesse** (41 791) : les pages des deux marchés répondent 403 à l'agent par défaut (règle 425) ; les
+  mentions légales, elles lisibles, réservent en outre textes et visuels à « la consultation individuelle et privée »
+  (règle 416). Zéro.
+- **Franconville** (37 754) : les conditions d'utilisation interdisent de « réutiliser […] tout ou partie des éléments »
+  du site (règle 416, lue comme à Ludres) : la page des trois marchés n'est pas une source. Zéro.
+- **Bezons, Pontoise, Herblay-sur-Seine, Goussainville, Villiers-le-Bel** : écartées le 23 septembre sur les faits (page
+  vide, pas d'heure, pas de famille de produits, heures contradictoires), non sur l'image ; la règle 432 n'y change rien.
+- **Ermont** (29 489) : **deux fiches aux faits entiers**, relues ce jour — c'est elle qui fait la passe (règle 127),
+  complétée dans la Communauté d'agglomération Val Parisis (règle 96).
+
+1. **RO-ZE** (Ermont) — épicerie vrac biologique, 8 rue de la République ; heures et produits publiés par la boutique,
+   société active au registre à cette adresse, certification engagée en juillet 2023 au registre de l'Agence Bio, fixe
+   publié par la boutique. BAN au numéro (0,97). Ses photographies sont créditées à un photographe et servies par un
+   hébergeur dont le `robots.txt` ne se lit pas (règle 256) : vue aérienne.
+2. **AMAP d'Ermont** — distribution le mercredi de 19h à 20h au pavillon Beaulieu, 4 rue Daniel ; lieu, jour et heure
+   publiés par l'association sur un site daté de septembre 2026, contrats de la rentrée 2026 (règle 195) ; association
+   active au registre. Le lieu est un équipement, nommé par l'association ; la BAN ne connaît pas le numéro, point à la rue
+   (0,80). Aucun des producteurs que le site nomme n'est repris.
+3. **Marché du centre-ville d'Eaubonne** — place du 11 Novembre, mardi et vendredi 8h-13h, dimanche 8h-13h30 ; familles
+   de produits écrites par la Ville. BAN à la voie (0,96). Les mentions de la Ville n'admettent un lien que sous
+   conditions de forme : pas de `site_web`. À 1,5 km de la mairie d'Ermont.
+4. **Halle de marché de Taverny** — place Charles de Gaulle, mardi, vendredi et dimanche 8h-13h ; familles écrites par la
+   Ville. La page ne nomme pas la place : point de la « Halle de Taverny » au géocodeur de l'IGN, que la BAN rend place
+   Charles de Gaulle à sept mètres (règle 409). À 4,8 km.
+5. **Marché du centre-ville de Bessancourt** — mercredi 8h-13h, devant la mairie, place du 30 Août ; page de la Ville
+   mise à jour le 30 avril 2026 (fruits et légumes de saison, fromages, produits artisanaux). Point de la mairie au
+   géocodeur de l'IGN, sur la place que la BAN connaît à la voie (0,95). À 6,2 km.
+
+Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une : ni personne, ni enseigne
+lisible. Celle de Taverny date du chantier de la halle, ce que la fiche dit.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune instruite. **Laissé de côté** : le
+marché Saint-Flaive d'Ermont (mercredi et samedi 7h30-13h, rue Saint-Flaive Prolongée), dont la page de la Ville n'écrit
+aucune famille de produits (règle 197) — **déblocage** : une famille écrite par la Ville ; les marchés de Sannois (pas de
+lieu), d'Herblay-sur-Seine (pas d'heure) et de Franconville (site fermé pour ses faits) ; le magasin de chaîne de
+Pierrelaye (règle 230). **Écart à signaler** : une requête de recherche a été envoyée par erreur sur un chemin que le
+`robots.txt` de la Ville de Taverny exclut ; sa réponse n'a pas été lue et rien n'en est retenu.
+
+**Points d'arrêt** : dans le **Val-d'Oise**, la descente relue par la règle 432 s'arrête à **Ermont** ; la commune
+suivante à relire est **Gonesse** (27 707), puis Cormeilles-en-Parisis (27 292, à contrôler sous l'agent par défaut,
+règle 425). À reprendre d'abord, par la règle 432 : dans Plaine Vallée, les marchés aux faits entiers d'Enghien-les-Bains,
+de Deuil-la-Barre, de Soisy-sous-Montmorency et de Domont, à compléter jusqu'à cinq dans l'intercommunalité ; puis les
+marchés d'Arnouville et d'Osny. Après la passe, sur 1 140 fiches : Oise 10,30, Pas-de-Calais 10,12, Landes 7,47,
+Eure-et-Loir 7,46, Calvados 7,22 ; le Val-d'Oise retombe à 7,0. La région de cette passe est l'Île-de-France (règle 41.c).
+Ailleurs, inchangé.
 
 ### Passe du 7 octobre 2026 (cent cinquante-sixième) : Grand Nancy, cinq fiches (Maxéville, Essey-lès-Nancy, Malzéville) ; règle 432, la vue aérienne de l'IGN
 

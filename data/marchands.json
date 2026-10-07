@@ -30043,5 +30043,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Rivi%C3%A8re%2C%20Rue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2054220%20Malz%C3%A9ville",
     "image_url": "/images/marchands/marche-hebdomadaire-malzeville.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "ro-ze-ermont",
+    "nom": "RO-ZE",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.988854,
+    "lon": 2.259178,
+    "adresse": "8 Rue de la République, 95120 Ermont",
+    "horaires": "Hors vacances scolaires : du mardi au vendredi de 9h30 à 12h30 et de 14h30 à 19h, le samedi de 10h à 13h30 et de 15h à 19h. Pendant les vacances scolaires : du mardi au vendredi de 10h à 12h30 et de 15h30 à 19h, le samedi de 10h à 13h30 et de 15h30 à 19h. Horaires publiés par la boutique, qui prévient qu'ils peuvent changer les jours fériés.",
+    "produits": [
+      "Pâtes, riz et céréales en vrac",
+      "Farines et sucres",
+      "Légumineuses",
+      "Fruits secs",
+      "Bières, jus de fruits et limonades de producteurs locaux",
+      "Miels"
+    ],
+    "description": "Épicerie indépendante du centre d'Ermont qui vend en vrac des produits issus de l'agriculture biologique, à emporter dans ses propres bocaux ou dans des bocaux consignés, avec un rayon de boissons et de miels locaux. Société active au registre des entreprises à cette adresse ; certification biologique engagée depuis juillet 2023 d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du quartier, qui ne montre pas la boutique — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "01 30 72 43 63",
+    "site_web": "https://www.ro-ze.fr",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=RO-ZE%208%20Rue%20de%20la%20R%C3%A9publique%2095120%20Ermont",
+    "image_url": "/images/marchands/ro-ze-ermont.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-d-ermont",
+    "nom": "AMAP d'Ermont",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 48.98675,
+    "lon": 2.261953,
+    "adresse": "Pavillon Beaulieu, 4 rue Daniel, 95120 Ermont",
+    "horaires": "Distribution le mercredi entre 19h et 20h au pavillon Beaulieu, sur contrat avec les producteurs et après adhésion à l'association, d'après son site (mis à jour en septembre 2026). Le calendrier des distributions est publié par l'association.",
+    "produits": [
+      "Paniers de légumes bio",
+      "Pain bio",
+      "Œufs bio",
+      "Volailles et viande de porc bio",
+      "Viande de bœuf et de veau",
+      "Produits laitiers et épicerie de fermes du Perche",
+      "Miel et produits de la ruche",
+      "Châtaignes, huile d'olive"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne constituée en 2021, qui retient ses producteurs sur trois critères : production locale, biologique, distribuée sans intermédiaire. Les légumes, le pain et les œufs se prennent sur contrat annuel, les autres produits sur commandes ponctuelles ; les paniers non retirés sont remis à l'épicerie sociale de la commune. Association active au registre des entreprises. La Base Adresse Nationale ne connaît pas le numéro : le point est placé sur la rue. Photo : vue aérienne du quartier, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://ermont-notre-amap.webnode.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pavillon%20Beaulieu%204%20rue%20Daniel%2095120%20Ermont",
+    "image_url": "/images/marchands/amap-d-ermont.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-eaubonne",
+    "nom": "Marché du centre-ville d'Eaubonne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.991757,
+    "lon": 2.277675,
+    "adresse": "Place du 11 Novembre, 95600 Eaubonne",
+    "horaires": "Mardi et vendredi de 8h à 13h, dimanche de 8h à 13h30, d'après la Ville d'Eaubonne.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie, charcuterie et volailles",
+      "Poissons et coquillages",
+      "Beurre, œufs et fromages",
+      "Pains et pâtisseries",
+      "Plats de traiteurs",
+      "Fleurs"
+    ],
+    "description": "Marché couvert du centre d'Eaubonne : une cinquantaine de commerces sous la halle, d'après la Ville, complétés par des étals volants à l'extérieur où se vendent aussi vêtements et linge de maison. Jours, heures et familles de produits sont ceux que publie la Ville (eaubonne.fr). Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la halle, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%2011%20Novembre%2C%2095600%20Eaubonne",
+    "image_url": "/images/marchands/marche-du-centre-ville-eaubonne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halle-de-marche-taverny",
+    "nom": "Halle de marché de Taverny",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.0267,
+    "lon": 2.225697,
+    "adresse": "Place Charles de Gaulle, 95150 Taverny",
+    "horaires": "Mardi, vendredi et dimanche de 8h à 13h, d'après la Ville de Taverny.",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Boucherie",
+      "Poissonnerie",
+      "Fromages",
+      "Plats de traiteurs",
+      "Fleurs"
+    ],
+    "description": "Marché du centre-ville de Taverny, installé sous une halle couverte neuve de 1 600 m² de style Baltard, où la Ville annonce des commerces de bouche et d'artisanat trois matins par semaine. Le point est celui de la halle au géocodeur de l'IGN, sur la place Charles de Gaulle d'après la Base Adresse Nationale. Photo : vue aérienne de la place, prise pendant le chantier de la halle et donc avant son ouverture — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.ville-taverny.fr/les-commercants-de-la-halle-de-marche",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Halle%20de%20march%C3%A9%2C%20Place%20Charles%20de%20Gaulle%2C%2095150%20Taverny",
+    "image_url": "/images/marchands/halle-de-marche-taverny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-bessancourt",
+    "nom": "Marché du centre-ville de Bessancourt",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.038656,
+    "lon": 2.217123,
+    "adresse": "Place du 30 Août, 95550 Bessancourt",
+    "horaires": "Tous les mercredis de 8h à 13h, devant la mairie, d'après la Ville de Bessancourt (page mise à jour le 30 avril 2026).",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages",
+      "Produits artisanaux"
+    ],
+    "description": "Marché hebdomadaire revenu sur la place de la mairie de Bessancourt, où la Ville annonce des producteurs et des commerçants locaux à côté d'étals de textile et d'ameublement. Une navette municipale y conduit les seniors certains mercredis. Le point est celui de la mairie au géocodeur de l'IGN, sur la place que la Base Adresse Nationale connaît à la voie. Photo : vue aérienne de la place, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.ville-bessancourt.fr/article/marche-du-centre-ville",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%2030%20Ao%C3%BBt%2C%2095550%20Bessancourt",
+    "image_url": "/images/marchands/marche-du-centre-ville-bessancourt.jpg",
+    "a_confirmer": true
   }
 ]
