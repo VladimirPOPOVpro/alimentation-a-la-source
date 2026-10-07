@@ -5553,9 +5553,30 @@ prioritaires en cas de conflit.
      quatrième point du groupe d'Abbeville. **Limite** : un marché que l'office recense sur une place publique reste
      sous la règle 196.
 
+446. **Un département « à descente terminée » se relit comme un département écrit épuisé : quand le classement le
+     présente en tête, la descente repart de sa commune la plus peuplée sans fiche, sous les règles 425 et 432.** Le
+     7 octobre 2026 (cent soixante-dixième passe), le Val-de-Marne mène le classement à 5,71. Sa descente avait été
+     écrite « terminée » le 28 septembre, avec trois pistes en attente d'un point ; mais vingt-huit de ses communes,
+     dont cinq de plus de cinquante mille habitants, n'ont toujours aucune fiche, et presque toutes avaient été
+     quittées pour la seule image (règles 231 et 246) ou sous le nom d'emprunt de la règle 257. La règle 432 rouvre
+     « les départements écrits épuisés » sans nommer celui dont la descente est allée au bout, et la règle 410 ne
+     connaît que trois états. Le laisser fermé aurait envoyé la passe dans l'Aube pendant que le département de tête
+     gardait Vincennes et Saint-Mandé sans un point. **Tranché ainsi** : « descente terminée » vaut « épuisé » pour la
+     règle 432 ; la relecture suit l'ordre de la règle 41.d, commune par commune, avec la borne de douze de la règle
+     247 ; une commune ne rend une zone que sur des faits relus dans la passe, jamais sur la note d'une passe
+     ancienne ; les fiches entières rencontrées en chemin sont désignées pour la reprise (règle 258). Aucune exigence
+     de vérification ne baisse. **Ce que la règle débloque** : la passe de Vincennes, dans la même passe.
+
 ## Marchands à confirmer
 
-1060 fiches sur 1194 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1065 fiches sur 1199 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de la place Carnot** et **Biocoop Bio Rigollots** (Vincennes), **Marché de la Tourelle** et **Marché de
+  l'Alouette** (Saint-Mandé) et **Biocoop de La Varenne** (Saint-Maur-des-Fossés) (passe du 7 octobre 2026, cent
+  soixante-dixième, règles 96, 432 et 446) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal
+  ni rayon ; le point du marché de la place Carnot est celui que l'IGN publie pour la place, la Base Adresse
+  Nationale ne connaissant que l'avenue ; celui du marché de la Tourelle est le centre de l'avenue Gallieni, faute de
+  « place Gallieni » dans la Base ; la Ville de Vincennes annonce une pause estivale du marché de la place Carnot sans
+  que ses dates aient pu être lues ; la composition du marché de la Tourelle n'est décrite qu'à grands traits.
 - **L'Épi Vert** et **O'Pré des Paysans** (Blois), **Brasserie de Chambord** (Saint-Gervais-la-Forêt), **Domaine des
   Huards** (Cour-Cheverny) et **Maison des vins de Cheverny** (Cheverny) (passe du 7 octobre 2026, cent
   soixante-neuvième, règles 96 et 432) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni rayon ni
@@ -13270,6 +13291,108 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Vincennes, à Saint-Mandé et dans le Val-de-Marne relu
+
+Lignes anonymes, écrites à la passe du 7 octobre 2026 (cent soixante-dixième), avec le déblocage de chacune.
+
+- **Champigny-sur-Marne, marchés** : le site de la Ville répond toujours 403 à l'agent par défaut, `robots.txt`
+  compris (règle 425) ; le registre de l'Agence Bio n'y rend que des grandes surfaces, des ateliers et des
+  exploitations en nom propre. **Déblocage** : le retour du site de la Ville.
+- **Saint-Maur-des-Fossés, huit marchés** : jours, heures et lieux sur la page de la Ville (juillet 2022) et sur ses
+  fiches d'équipement (2021), sans aucune famille de produits ; le délégataire des marchés, qui annonce la
+  réouverture des halles d'Adamville et de La Varenne en mai 2026, n'en écrit pas davantage (règle 197).
+  **Déblocage** : une page de la Ville ou du délégataire qui écrit ce qu'on achète sur un marché donné.
+- **Ivry-sur-Seine, marchés** : le `robots.txt` de la Ville nomme désormais des agents d'IA ; son site n'est plus lu,
+  et les faits consignés aux passes de Vitry ne nourrissent aucune fiche (règles 77 et 425). **Déblocage** : une
+  autre autorité qui publie jour, heure, lieu et composition.
+- **Villejuif, trois marchés** : jours, heures et lieux sur la page de la Ville, aucune composition (règle 197).
+- **Maisons-Alfort, deux marchés** : ni heure ni composition.
+- **Fontenay-sous-Bois** : le site de la Ville exige toujours JavaScript et cookies dès le `robots.txt` (règle 212).
+- **Vincennes, marchés de la rue de Fontenay et de la place Diderot** : la Ville écrit leurs heures (7h30-13h30) mais
+  ni leurs jours ni leurs étals ; la phrase sur les abonnés « alimentation – fleurs » vaut pour les trois marchés
+  (règle 197). **Déblocage** : les jours et une famille de produits écrits par la Ville.
+- **Vincennes, deux magasins biologiques de réseau** (rue de Fontenay) : non instruits, aucune liste de producteurs
+  locaux connue (règle 273).
+- **Choisy-le-Roi, quatre marchés** : jours, heures et lieux, aucune composition (règle 197).
+- **Villeneuve-Saint-Georges, marché du centre** : composition écrite (boucher, charcutier, poissonnier, fruits et
+  légumes), mais « mercredis matins, samedis matins et après-midi » sans heure (règle 192) ; le marché du vendredi
+  n'a que « produits frais », sans heure.
+- **Le Perreux-sur-Marne, marché du centre** : mercredi, vendredi et dimanche de 8h à 13h, à son adresse, « une
+  trentaine de professionnels » sans famille de produits (règle 197).
+- **Bry-sur-Marne, marché** : mercredi et dimanche de 8h à 13h, sans composition (règle 197).
+- **Villiers-sur-Marne, marché du Bois de Gaumont** — **fiche entière désignée pour la reprise** : samedi de 8h à
+  13h, place des Châtaigniers (Base Adresse Nationale, 0,961), « fruits, légumes, viande, poisson » sur la page de la
+  Ville mise à jour en mars 2026 ; à 9,2 km de la mairie de Vincennes, sixième point d'un groupe de cinq (règle
+  441). Le marché du centre-ville (jeudi et dimanche de 8h à 13h, halle) n'a que « commerces alimentaires » pour
+  composition (règle 197).
+- **Exploitations et ateliers du registre biologique inscrits sous le nom de leur exploitant**, dans les communes
+  relues : non instruits (règle des personnes) ; ils ne se rouvrent pas.
+
+### Passe du 7 octobre 2026 (cent soixante-dixième) : Vincennes, Saint-Mandé et Saint-Maur-des-Fossés (Val-de-Marne), cinq fiches dans Paris Est Marne & Bois ; le département se rouvre par les règles 432 et 446
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 199
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 194 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Val-de-Marne (94) 5,71**,
+19 fiches, descente écrite terminée le 28 septembre et rouverte à son rang (règle 446, née ici) ; puis
+Seine-et-Marne 5,42, Aube 5,38, Nord 5,29, Mayenne 5,29. La passe précédente visait le Centre-Val de Loire :
+l'Île-de-France est permise (règle 41.c). `git fetch` fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Descente relue, règle 41.d**, sous l'agent par défaut, `robots.txt` d'abord (règle 425), registre de l'Agence Bio
+relu en entier sur le département (885 opérateurs). Sept communes éprouvées :
+
+1. **Champigny-sur-Marne** (78 072) — site de la Ville refusé (403). **Zéro.**
+2. **Saint-Maur-des-Fossés** (76 572) — huit marchés sans composition ; le magasin biologique coopératif de l'avenue
+   du Bac a ses faits entiers. **Une fiche entière, seule** : désignée.
+3. **Ivry-sur-Seine** (65 064) — `robots.txt` qui nomme des agents d'IA : site fermé. **Zéro.**
+4. **Villejuif** (60 183) — trois marchés sans composition. **Zéro.**
+5. **Maisons-Alfort** (56 799) — deux marchés sans heure. **Zéro.**
+6. **Fontenay-sous-Bois** (53 757) — défi anti-robot. **Zéro.**
+7. **Vincennes** (48 193) — **deux fiches entières dans la commune** : elle fait la passe (règle 127).
+
+Le groupe se complète dans l'établissement public territorial Paris Est Marne & Bois, du plus proche au plus lointain
+(règles 96, 249 et 441), distances prises depuis la mairie de Vincennes (annuaire de l'administration, règle 363) :
+
+1. **Marché de la place Carnot** (Vincennes) — samedi de 7h30 à 13h30 ; boucher, poissonnier, fromager, marchand de
+   fruits et légumes et rôtisseur écrits par la Ville pour ce marché-là ; actualité de la Ville du 11 septembre 2026
+   qui l'annonce en activité. La Base ne connaît que l'avenue Carnot (0,956) ; le géocodeur de lieux de l'IGN publie
+   la place elle-même, au mètre près là où OpenStreetMap dessine le marché : c'est ce point qui est publié (règle
+   50). À 0,8 km.
+2. **Biocoop Bio Rigollots** (Vincennes) — heures et fixe sur son site ; société coopérative active au registre à
+   l'adresse, engagée au registre de l'Agence Bio ; fournisseurs locaux propres au magasin (règle 273). Pas de
+   `site_web` (règle 377 : la page d'accueil publie des avis signés). BAN au numéro, au point du registre. À 1,2 km.
+3. **Marché de la Tourelle** (Saint-Mandé) — jeudi et dimanche de 8h à 13h, page de la Ville mise à jour le
+   12 novembre 2025, qui y écrit les métiers de bouche, un maraîcher et des plats cuisinés. Pas de « place Gallieni »
+   à la Base : centre de l'avenue Gallieni (0,962), à moins de cent mètres de l'emprise du marché sur OpenStreetMap
+   et à treize mètres du point de l'IGN pour le parc de stationnement du même nom (règle 50). À 1,7 km.
+4. **Marché de l'Alouette** (Saint-Mandé) — mardi et vendredi de 8h à 13h, même page ; producteur, primeur, boucher,
+   volailler, charcutier, poissonnier, boulanger, fleuriste. Place de la Libération à la Base (0,953). À 2,0 km.
+5. **Biocoop de La Varenne** (Saint-Maur-des-Fossés) — désignée dans la même passe ; heures et fixe sur son site ;
+   société active au registre à l'adresse depuis 2018, engagée au registre de l'Agence Bio ; onze fournisseurs
+   locaux propres au magasin (règle 273). Pas de `site_web` (règle 377). BAN au numéro (0,978). À 7,5 km.
+
+Aucune photographie n'a été reprise : les conditions du réseau des deux magasins nomment les photographies (règle
+245), et les images des deux Villes n'ont pas été instruites (règle 432 : la vue aérienne suffit à une fiche aux
+faits entiers). Les cinq images sont des vues aériennes de l'IGN
+(1 280 × 800, règle 432), regardées une à une — ni personne, ni enseigne lisible. Toutes partent en `a_confirmer`.
+Aucun `site_web` sur les marchés : la page de Saint-Mandé nomme une personne, celle de Vincennes publie des numéros
+de portable.
+
+**Contradictions** (règle 5) : le magasin de Vincennes écrit « 140 rue Defrance », la Base et le registre « rue
+Angélique-Defrance » — même point, la fiche écrit les deux ; le magasin de Saint-Maur écrit « 26-30 bis avenue du
+Bac », la Base le n° 26 — la fiche écrit les deux ; OpenStreetMap donne aux marchés de Vincennes des heures plus
+courtes que la Ville — la fiche retient la Ville, seule autorité. **Fiches écartées pour doute sur une personne ou
+une donnée personnelle** : aucune fiche instruite puis écartée ; les exploitations en nom propre du registre bio
+n'ont pas été instruites, et les noms de commerçants, de producteurs, de gérants, de délégataires et de clients que
+citent les pages consultées ne sont repris nulle part.
+
+**Points d'arrêt** : dans le **Val-de-Marne**, la descente relue par la règle 446 s'arrête à **Vincennes** ; la
+commune suivante à relire est **Choisy-le-Roi** (45 946), puis Villeneuve-Saint-Georges, Le Perreux-sur-Marne,
+Villiers-sur-Marne (un marché entier désigné), Thiais et L'Haÿ-les-Roses ; Choisy, Villeneuve-Saint-Georges, Le
+Perreux, Bry et Villiers ont déjà été lues dans cette passe pour compléter le groupe, et leurs lignes sont dans les
+pistes ci-dessus. Après la passe, sur 1 199 fiches : Seine-et-Marne 5,53, Nord 5,48, Aube 5,40, Pas-de-Calais 5,35,
+Mayenne 5,31 ; le Val-de-Marne retombe à 0,81. La région de cette passe est l'Île-de-France (règle 41.c) : la
+Seine-et-Marne est fermée à la prochaine passe.
 
 ### Pistes non publiées à Blois et dans Agglopolys
 

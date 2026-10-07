@@ -31582,5 +31582,134 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20des%20vins%20de%20Cheverny%2C%201%20Avenue%20du%20Ch%C3%A2teau%2C%2041700%20Cheverny",
     "image_url": "/images/marchands/maison-des-vins-de-cheverny.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-carnot-vincennes",
+    "nom": "Marché de la place Carnot",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.842465,
+    "lon": 2.433568,
+    "adresse": "Place Carnot (avenue Carnot), 94300 Vincennes",
+    "horaires": "Samedi de 7h30 à 13h30, d'après la Ville de Vincennes. La Ville annonce une pause du marché en été : mieux vaut vérifier en juillet et en août.",
+    "produits": [
+      "Boucherie",
+      "Poissonnerie",
+      "Fromages",
+      "Fruits et légumes",
+      "Rôtisserie"
+    ],
+    "description": "Le plus petit des trois marchés de Vincennes, tenu le samedi matin sur la place Carnot, au sud de la ville, à quelques pas du château. La Ville y nomme un boucher, un poissonnier, un fromager, un marchand de fruits et légumes et un rôtisseur, et n'y admet que des commerçants abonnés d'alimentation et de fleurs. Une actualité de la Ville de septembre 2026 l'annonce en activité. La Base Adresse Nationale ne connaît que l'avenue Carnot : le point est celui que l'IGN publie pour la place elle-même, à une centaine de mètres du centre de l'avenue. Photo : vue aérienne de la place Carnot et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Carnot%2C%2094300%20Vincennes",
+    "image_url": "/images/marchands/marche-carnot-vincennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-bio-rigollots-vincennes",
+    "nom": "Biocoop Bio Rigollots",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.849328,
+    "lon": 2.456019,
+    "adresse": "140 Rue Angélique-Defrance, 94300 Vincennes",
+    "horaires": "Lundi de 15h à 20h ; du mardi au samedi de 10h à 20h ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio locaux et de saison",
+      "Pains de boulangeries bio de Montreuil, de Paris et d'Herblay",
+      "Fromages et rayon traiteur",
+      "Bières d'une microbrasserie de Montreuil",
+      "Vrac (miel, vin, huile d'olive)",
+      "Épicerie bio"
+    ],
+    "description": "Magasin bio coopératif du réseau Biocoop, à l'est de Vincennes, dans le quartier des Rigollots, à la limite de Fontenay-sous-Bois. Il se présente comme le premier magasin d'intérêt collectif d'Île-de-France, associant consommateurs, salariés et producteurs, et publie ses propres fournisseurs locaux : des boulangeries bio de Montreuil, de Paris et d'Herblay et une microbrasserie de Montreuil, dont il annonce les jours de livraison. Plus de cent trente produits y sont vendus en vrac. Société active au registre des entreprises à cette adresse, engagée en bio d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale, au même point que le registre ; le magasin écrit « 140 rue Defrance ». Photo : vue aérienne de la rue et du carrefour des Rigollots, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "01 58 64 36 03",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Bio%20Rigollots%2C%20140%20rue%20Defrance%2C%2094300%20Vincennes",
+    "image_url": "/images/marchands/biocoop-bio-rigollots-vincennes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-tourelle-saint-mande",
+    "nom": "Marché de la Tourelle",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.8465,
+    "lon": 2.416615,
+    "adresse": "Place Gallieni et avenue de Paris (côté des numéros impairs), à la sortie du métro Saint-Mandé, 94160 Saint-Mandé",
+    "horaires": "Jeudi et dimanche de 8h à 13h, d'après la Ville de Saint-Mandé, qui le dit très animé le dimanche et plus calme le jeudi.",
+    "produits": [
+      "Fruits et légumes (maraîchers)",
+      "Métiers de bouche",
+      "Plats cuisinés italiens, libanais et grecs"
+    ],
+    "description": "Le grand marché de Saint-Mandé, créé en 1859, que la Ville présente comme l'un des plus anciens et des plus importants du sud-est parisien, à 1,7 km de la mairie de Vincennes. Elle y décrit l'éventail complet des métiers de bouche, un maraîcher installé depuis plusieurs générations et de nombreux stands de produits cuisinés, à côté d'étals de vêtements et d'articles pour la maison ; elle ne détaille pas davantage la composition des étals. Le mercredi, le même emplacement accueille un marché de collectionneurs, sans alimentation. La Base Adresse Nationale ne connaît pas de « place Gallieni » : le point est le centre de l'avenue Gallieni, à moins de cent mètres de l'emprise du marché sur OpenStreetMap. Photo : vue aérienne du carrefour et de l'avenue de Paris, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Tourelle%2C%20avenue%20de%20Paris%2C%2094160%20Saint-Mand%C3%A9",
+    "image_url": "/images/marchands/marche-de-la-tourelle-saint-mande.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-l-alouette-saint-mande",
+    "nom": "Marché de l'Alouette",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.838217,
+    "lon": 2.416575,
+    "adresse": "Place de la Libération, 94160 Saint-Mandé",
+    "horaires": "Mardi et vendredi de 8h à 13h, d'après la Ville de Saint-Mandé.",
+    "produits": [
+      "Fruits et légumes (producteur et primeur)",
+      "Boucherie, volaille et charcuterie",
+      "Poissonnerie",
+      "Pain",
+      "Spécialités d'Italie et de Méditerranée",
+      "Olives et fruits secs",
+      "Fleurs"
+    ],
+    "description": "Marché de quartier du sud de Saint-Mandé, inauguré en 1897 et installé place de la Libération depuis 1934, à deux kilomètres de la mairie de Vincennes. Plus petit que le marché de la Tourelle, il réunit d'après la Ville un producteur, un primeur, un boucher, un volailler, un charcutier, un poissonnier, un boulanger et un fleuriste, des spécialités méditerranéennes et des traiteurs de cuisine du monde. Place géocodée par la Base Adresse Nationale. Photo : vue aérienne de la place et de ses arbres, où l'on devine les structures du marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20Lib%C3%A9ration%2C%2094160%20Saint-Mand%C3%A9",
+    "image_url": "/images/marchands/marche-de-l-alouette-saint-mande.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-de-la-varenne-saint-maur-des-fosses",
+    "nom": "Biocoop de La Varenne",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.796793,
+    "lon": 2.505419,
+    "adresse": "26 Avenue du Bac, 94210 Saint-Maur-des-Fossés",
+    "horaires": "Du lundi au samedi de 10h à 19h30 ; fermé le dimanche (site du magasin).",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Légumes d'une coopérative bio d'Île-de-France",
+      "Bières de brasseries artisanales franciliennes",
+      "Confitures et kombucha de producteurs franciliens",
+      "Vrac (plus de 300 produits)",
+      "Épicerie bio"
+    ],
+    "description": "Magasin bio coopératif du réseau Biocoop, ouvert en août 2018 avenue du Bac, dans le quartier de La Varenne-Saint-Hilaire, à 7,5 km de la mairie de Vincennes. Sur 300 m², il met en avant la saison, le vrac et les produits venus de moins de 150 km, et publie ses propres fournisseurs locaux : une coopérative de producteurs bio d'Île-de-France, des brasseries artisanales de la vallée de Chevreuse, de Paris et du Val-de-Marne, des confitures et des boissons fermentées franciliennes. Il livre à vélo cargo dans un rayon de quatre kilomètres. Société active au registre des entreprises à cette adresse, engagée en bio d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale ; le magasin écrit « 26-30 bis avenue du Bac ». Photo : vue aérienne de l'avenue du Bac, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "01 41 95 52 51",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20de%20La%20Varenne%2C%2026%20avenue%20du%20Bac%2C%2094210%20Saint-Maur-des-Foss%C3%A9s",
+    "image_url": "/images/marchands/biocoop-de-la-varenne-saint-maur-des-fosses.jpg",
+    "a_confirmer": true
   }
 ]
