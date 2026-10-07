@@ -5524,10 +5524,25 @@ prioritaires en cas de conflit.
      l'un de l'autre, de part et d'autre d'un angle. La règle 440 ne joue qu'à l'intérieur d'une voie. **Tranché ainsi** :
      l'adresse du registre est publiée, la description donne l'autre et sa source, la fiche part en `a_confirmer`.
      **Limite** : au-delà de cent mètres, la règle 5 s'applique et la fiche attend.
+444. **Un marché que sa Ville et l'office de tourisme situent à deux endroits distants de plus de cent mètres attend,
+     même quand le jour et l'heure concordent ; les autres marchés de la même liste se publient.** Le 7 octobre 2026
+     (cent soixante-septième passe), l'annuaire de la Ville d'Agen situe son marché fermier biologique du samedi sur
+     la partie piétonne du boulevard de la République (fiche de janvier 2025), et l'office de tourisme, dans une fiche
+     valable pour 2026, le place sur le parvis du Gravier, à cinq cents mètres, avec le marché fermier du même matin.
+     Rien ne dit lequel des deux écrits est périmé. La règle 443 ne couvre que cent mètres ; la règle 5 publie ce qui
+     est solide. **Tranché ainsi** : le marché au lieu disputé n'a pas de fiche ; celui dont le lieu concorde se publie
+     et sa description dit ce que l'autre source lui ajoute ; la fiche municipale de plus de douze mois vaut pour le
+     jour, l'heure et le lieu quand une fiche d'office de l'année les répète (règles 176 et 178). **Déblocage** : une
+     publication datée de la Ville, ou de l'organisateur, qui écrit le lieu du marché biologique.
 
 ## Marchands à confirmer
 
-1047 fiches sur 1181 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1051 fiches sur 1185 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché-Couvert d'Agen**, **Marché fermier du Pin** et **Marché fermier de Jasmin** (Agen), **Cœur de Village**
+  (Boé) (passe du 7 octobre 2026, cent soixante-septième, règles 320, 432 et 444) : les quatre fiches portent une vue
+  aérienne de l'IGN, qui ne montre ni étal ni magasin ; les fiches municipales des trois marchés datent de janvier
+  2025 et ne détaillent pas les étals, l'office de tourisme répétant jours et heures pour 2026 ; les heures du magasin
+  de producteurs sont celles que son site publie pour le retrait des commandes.
 - **Marché éco-citoyen de Creil** et **Graine d'AMAP** (Creil), **Ferme de l'Arbre à Poule** (Villers-Saint-Paul),
   **Magasin de la Ferme de Folemprise** (Saint-Vaast-lès-Mello) (passe du 7 octobre 2026, cent soixante-sixième, règles
   5, 320 et 432) : les quatre fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni magasin ; le marché
@@ -13224,6 +13239,72 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixante-septième) : Agen et Boé (Lot-et-Garonne), quatre fiches dans l'Agglomération d'Agen ; le département se rouvre par la règle 432 ; règle 444
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** : 1 185
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 181 fiches
+avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Lot-et-Garonne (47) 5,71**,
+aucune fiche, écrit épuisé le 25 septembre (règle 265) et rouvert à son rang par la règle 432 — c'est la première
+passe qui le relit ; puis Somme 5,68, Loir-et-Cher 5,63, Val-de-Marne 5,44, Aube 5,32. La passe précédente visait les
+Hauts-de-France : la Nouvelle-Aquitaine est permise (règle 41.c). `git fetch` fait avant l'écriture : `origin/main`
+n'a pas bougé.
+
+**Descente relue depuis la première commune**, sous l'agent par défaut, `robots.txt` d'abord (règle 425) : ceux de la
+Ville d'Agen, de l'office de tourisme Destination Agen, de la Ville de Foulayronnes et du magasin de Boé (un délai de
+dix secondes entre deux requêtes, respecté) n'excluent personne. **Agen** (32 801), muette les 24 et 25 septembre,
+répond : son plan de site n'a pas de page des marchés, mais son « annuaire générique » a une catégorie « Marchés » de
+quatre fiches, chacune avec son lieu, ses jours, ses heures et sa nature, datées du 14 janvier 2025 ; l'office répète
+jours et heures dans des fiches valables du 1er janvier au 31 décembre 2026. Trois fiches aux faits entiers dans la
+commune (règle 127), complétées dans l'Agglomération d'Agen (règle 96). Distances prises depuis la mairie d'Agen.
+
+1. **Marché-Couvert d'Agen** — du mardi au samedi 7h-13h et 16h-19h30, dimanche 7h-13h, place Jean-Baptiste-Durand :
+   Ville et office aux mêmes heures, « une vingtaine de commerçants et artisans des métiers de bouche » ; `produits`
+   s'y borne. BAN à la voie (0,967). À 0,2 km.
+2. **Marché fermier du Pin** — mercredi 7h-12h, dimanche 7h30-12h30, place du 14 Juillet (« place du Pin » pour
+   l'office) : la Ville écrit la nature jour par jour — fermier seul le dimanche, fermier et non sédentaires le
+   mercredi (règle 221). BAN à la voie (0,966). À 0,9 km.
+3. **Marché fermier de Jasmin** — samedi 7h30-12h30, péristyle du Gravier, au bas de la passerelle : « marché de
+   produits alimentaires » pour la Ville, « fermier, traditionnel et bio » pour l'office. BAN à la voie (0,965). À 0,4 km.
+4. **Cœur de Village** (Boé) — magasin de producteurs, 1227 rue de la Birade, au bord du lac de Passeligne : heures
+   (du mardi au vendredi 10h-19h, samedi 10h-18h), adresse et fixe sur son site, que le magasin publie pour le
+   retrait des commandes ; l'office le décrit comme un regroupement de quatre-vingts producteurs ; société active au
+   registre à l'adresse, sous l'enseigne, depuis 2017. BAN au numéro (0,96). À 3,7 km. Un nom de domaine voisin, sans
+   le « 47 », est à vendre chez un courtier : seul `coeurdevillage47.fr` est inscrit.
+
+Aucune photographie n'est permise : l'office nomme les images dans son interdiction (règle 231), la Ville place ses
+contenus sous une licence qui interdit la modification, donc le recadrage, et le magasin réserve ses droits. Les
+quatre images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne, ni
+enseigne lisible. Toutes partent en `a_confirmer`. Quatre points forment la zone (règle 320). **Le cinquième
+manque** ; son déblocage est écrit ci-dessous.
+
+**Autres points relus dans le secteur, non publiés** — avec le déblocage de chacun :
+
+- le **marché fermier biologique** d'Agen (samedi 7h30-12h30) : boulevard de la République pour la Ville, parvis du
+  Gravier pour l'office, à cinq cents mètres (**règle 444, nouvelle**). **Déblocage** : une publication datée de la
+  Ville ou de l'organisateur qui écrit le lieu ;
+- le marché du samedi matin de **Foulayronnes** : l'office écrit 8h-12h, « place du Marché », fruits, légumes,
+  fromage et fleurs ; la Ville l'atteste dans une actualité de juillet 2025 (un étal de fromages fermiers), sans
+  heure ni lieu ; ni la Base Adresse Nationale ni le géocodeur de l'IGN ne connaissent cette place et personne n'en
+  publie le point (règles 166 et 409). **Déblocage** : une adresse que la Base connaît, écrite par la Ville ;
+- les marchés de **Bon-Encontre** (dimanche 8h-13h) et du **Passage** (vendredi 15h-18h) : l'office seul lu cette
+  passe (règle 196). **Déblocage** : la page de chaque commune, à lire au prochain passage ;
+- le second point de vente que le magasin de Boé annonce « du mardi au samedi » : ni adresse ni heure (règle 192) ;
+- la microbrasserie d'Agen et les producteurs que l'office liste hors d'Agen (Laplume, Beauville, Layrac) : non
+  rouverts cette passe, le groupe étant formé ; la microbrasserie reste désignée.
+
+**Contradictions** (règle 5) : le lieu du marché biologique, ci-dessus ; le nom de la place du marché du Pin (place
+du 14 Juillet pour la Ville et la Base, place du Pin pour l'office — c'est la même), la fiche retient celui de la
+Ville et écrit l'autre. **Fiches écartées pour doute sur une personne ou une donnée personnelle** : aucune
+instruite ; le nom et le portable du producteur que cite l'actualité de Foulayronnes ne sont pas repris, pas plus
+que les producteurs de la liste de l'office dont l'enseigne porte un prénom ou un nom.
+
+**Points d'arrêt** : dans le **Lot-et-Garonne**, la descente relue par la règle 432 s'arrête à **Agen** ; la commune
+suivante à relire est **Villeneuve-sur-Lot** (22 350 ; marché biologique du mercredi désigné, marché de la place
+Lafayette à relire sans la réserve d'image), puis **Marmande** (17 328 ; deux fiches désignées et la boutique de
+producteurs), Tonneins et Le Passage ; Nérac et Aiguillon gardent leurs fiches désignées. Après la passe, sur 1 185
+fiches : Somme 5,72, Loir-et-Cher 5,65, Val-de-Marne 5,52, Aube 5,34, Mayenne 5,25 ; le Lot-et-Garonne retombe à
+1,73. La région de cette passe est la Nouvelle-Aquitaine (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent soixante-sixième) : Creil, Villers-Saint-Paul et Saint-Vaast-lès-Mello (Oise), quatre fiches dans Creil Sud Oise
 

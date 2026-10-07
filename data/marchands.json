@@ -31253,5 +31253,99 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=45%20Rue%20de%20la%20Commune%20de%20Paris%2C%2060660%20Saint-Vaast-l%C3%A8s-Mello",
     "image_url": "/images/marchands/ferme-de-folemprise-saint-vaast-les-mello.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-agen",
+    "nom": "Marché-Couvert d'Agen",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.204237,
+    "lon": 0.617854,
+    "adresse": "Place Jean-Baptiste Durand, 47000 Agen",
+    "horaires": "Du mardi au samedi de 7h à 13h et de 16h à 19h30, le dimanche de 7h à 13h ; fermé le lundi, d'après l'annuaire de la Ville d'Agen et l'office de tourisme Destination Agen, qui donnent les mêmes heures. Chaque étal peut avoir ses propres jours.",
+    "produits": [
+      "Étals de commerçants et d'artisans des métiers de bouche (une vingtaine)"
+    ],
+    "description": "Halle du centre d'Agen, sous un parking à étages, où la Ville compte une vingtaine de commerçants et d'artisans des métiers de bouche ; elle abrite aussi un petit supermarché, qui n'est pas l'objet de cette fiche. Ni la Ville ni l'office de tourisme ne détaillent les étals : la liste des produits s'en tient à ce qu'ils écrivent. La fiche municipale date de janvier 2025, celle de l'office vaut pour 2026. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la halle et de son parking en toiture — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9-Couvert%2C%20Place%20Jean-Baptiste%20Durand%2C%2047000%20Agen",
+    "image_url": "/images/marchands/marche-couvert-agen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-pin-agen",
+    "nom": "Marché fermier du Pin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.204559,
+    "lon": 0.626333,
+    "adresse": "Place du 14 Juillet, 47000 Agen",
+    "horaires": "Le mercredi de 7h à 12h et le dimanche de 7h30 à 12h30, toute l'année, d'après l'annuaire de la Ville d'Agen et l'office de tourisme Destination Agen, qui donnent les mêmes heures.",
+    "produits": [
+      "Marché fermier le mercredi et le dimanche",
+      "Commerçants non sédentaires alimentaires le mercredi",
+      "Étals non alimentaires le mercredi"
+    ],
+    "description": "Marché de la place du 14 Juillet, que les Agenais et l'office de tourisme appellent place du Pin. D'après la Ville, le dimanche est réservé au marché fermier, tandis que le mercredi y ajoute des commerçants non sédentaires, alimentaires ou non. La composition des étals n'est pas publiée. La fiche municipale date de janvier 2025, celle de l'office vaut pour 2026. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne du quartier, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%2014%20Juillet%2C%2047000%20Agen",
+    "image_url": "/images/marchands/marche-du-pin-agen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-fermier-de-jasmin-agen",
+    "nom": "Marché fermier de Jasmin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.202657,
+    "lon": 0.610448,
+    "adresse": "Péristyle du Gravier, 47000 Agen",
+    "horaires": "Le samedi de 7h30 à 12h30, toute l'année, d'après l'annuaire de la Ville d'Agen et l'office de tourisme Destination Agen, qui donnent les mêmes heures.",
+    "produits": [
+      "Produits alimentaires de marché fermier",
+      "Étals biologiques, d'après l'office de tourisme"
+    ],
+    "description": "Marché fermier du samedi matin, installé depuis janvier 2023 sur le parvis qui sépare l'esplanade du Gravier des parkings des cours, au bas de la passerelle piétonne. La Ville le décrit comme un marché de produits alimentaires ; l'office de tourisme le dit « fermier, traditionnel et bio ». La composition des étals n'est pas publiée. La Ville publie par ailleurs un marché fermier biologique le samedi aux mêmes heures, qu'elle situe boulevard de la République et que l'office place au Gravier : faute de lieu concordant, il n'a pas de fiche. Voie géocodée par la Base Adresse Nationale. Photo : vue aérienne du péristyle et de l'esplanade, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%A9ristyle%20du%20Gravier%2C%2047000%20Agen",
+    "image_url": "/images/marchands/marche-fermier-de-jasmin-agen.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "coeur-de-village-boe",
+    "nom": "Cœur de Village",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.171108,
+    "lon": 0.628341,
+    "adresse": "1227 Rue de la Birade, 47550 Boé",
+    "horaires": "Du mardi au vendredi de 10h à 19h, le samedi de 10h à 18h : ce sont les heures que le site du magasin publie pour le retrait des commandes sur place ; il ne publie pas d'autres heures pour la vente en rayon.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viande et charcuterie (boucherie du magasin)",
+      "Épicerie salée",
+      "Épicerie sucrée",
+      "Miels",
+      "Vins"
+    ],
+    "description": "Magasin de produits locaux au bord du lac de Passeligne, à moins de quatre kilomètres du centre d'Agen, que l'office de tourisme Destination Agen présente comme un regroupement de quatre-vingts producteurs du Lot-et-Garonne. Il tient sa propre boucherie et propose la commande en ligne avec retrait sur place. Société active au registre des entreprises à cette adresse depuis 2017, sous cette enseigne. Le site annonce un second point de vente sans en donner l'adresse : il n'est pas décrit ici. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne du magasin et des serres voisines — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "05 53 95 56 28",
+    "site_web": "https://coeurdevillage47.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=C%C5%93ur%20de%20Village%2C%201227%20Rue%20de%20la%20Birade%2C%2047550%20Bo%C3%A9",
+    "image_url": "/images/marchands/coeur-de-village-boe.jpg",
+    "a_confirmer": true
   }
 ]
