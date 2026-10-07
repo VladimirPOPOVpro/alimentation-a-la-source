@@ -30392,5 +30392,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=679%20Avenue%20du%20Marsan%2C%2040090%20Campagne",
     "image_url": "/images/marchands/spiruline-de-campagne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-de-lievin",
+    "nom": "Marché couvert de Liévin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.419643,
+    "lon": 2.776868,
+    "adresse": "17 Rue Faidherbe, 62800 Liévin",
+    "horaires": "Mardi, mercredi, jeudi et dimanche de 9h à 13h ; vendredi et samedi de 9h à 19h, d'après la Ville de Liévin. Fermé le lundi, d'après l'office de tourisme de Lens-Liévin.",
+    "produits": [
+      "Fruits et légumes",
+      "Boucherie",
+      "Poissonnerie",
+      "Boulangerie",
+      "Fromages",
+      "Produits locaux et du terroir"
+    ],
+    "description": "Halle municipale de 1 183 m² à l'angle des rues Faidherbe et Antoine-Dilly, où une quinzaine de commerçants vendent des produits frais d'après la Ville (plus de vingt étals d'après l'office de tourisme) ; l'office y signale l'étal d'une ferme du Bassin minier qui élève ses porcs sur paille. Le téléphone est celui du service commerce de la Ville. Point placé sur le numéro de la rue (Base Adresse Nationale). Photo : vue aérienne de la halle, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 21 44 89 94",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20couvert%2017%20Rue%20Faidherbe%2C%2062800%20Li%C3%A9vin",
+    "image_url": "/images/marchands/marche-couvert-de-lievin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "brasserie-saint-germain-aix-noulette",
+    "nom": "Brasserie Saint-Germain (Page 24)",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 50.425268,
+    "lon": 2.713521,
+    "adresse": "26 Route d'Arras, 62160 Aix-Noulette",
+    "horaires": "Magasin de la brasserie : mardi 9h-12h et 14h-17h ; mercredi et jeudi 9h-12h et 14h-19h ; vendredi 9h-12h et 14h-20h ; samedi 9h-18h. Fermé le lundi, le dimanche et les jours fériés, d'après le site de la brasserie. Visite guidée le samedi à 10h30 ou 16h, sur réservation.",
+    "produits": [
+      "Bières Page 24 brassées à Aix-Noulette",
+      "Bières Hildegarde blonde, ambrée, blanche et triple",
+      "Bières La Fière",
+      "Bières éphémères",
+      "Coffrets"
+    ],
+    "description": "Brasserie créée en 2003 à Aix-Noulette, qui écrit brasser en priorité avec des matières premières régionales et vend toute sa gamme au magasin attenant, à côté d'un bar de dégustation ; l'office de tourisme signale qu'elle a rejoint un groupement de brasseries en 2022. Société active au registre des entreprises à cette adresse. Point placé sur le numéro de la voie (Base Adresse Nationale, qui l'écrit « rue d'Arras »), à soixante mètres du repère de l'office. L'abus d'alcool est dangereux pour la santé. Photo : vue aérienne du site — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 21 72 24 24",
+    "site_web": "https://www.page24.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie%20Saint-Germain%2026%20Route%20d%27Arras%2C%2062160%20Aix-Noulette",
+    "image_url": "/images/marchands/brasserie-saint-germain-aix-noulette.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-bois-jacques-villers-au-bois",
+    "nom": "Ferme du Bois Jacques",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.374166,
+    "lon": 2.668153,
+    "adresse": "11 Rue du Bois Jacques, 62144 Villers-au-Bois",
+    "horaires": "Magasin à la ferme : vendredi et samedi de 9h à 12h et de 14h à 19h, d'après le site de la ferme et l'office de tourisme de Lens-Liévin. Le site annonce parfois des fermetures exceptionnelles : à vérifier avant de se déplacer.",
+    "produits": [
+      "Viande de porc au détail et en caissette",
+      "Charcuteries maison (saucisses, boudins, pâtés, andouillettes)",
+      "Spécialités de charcuterie polonaise sur commande",
+      "Volailles (poulets, pintades, canards)",
+      "Plateaux barbecue et plancha",
+      "Paniers garnis"
+    ],
+    "description": "Élevage porcin qui vend en direct depuis 2012 : les porcs sont nourris aux grains produits et broyés sur place, la viande est transformée sur l'exploitation et vendue au magasin de la ferme. Exploitation active au registre des entreprises, dans la commune. La ferme ne publie que des numéros de portable : aucun n'est repris ici. Point placé sur le numéro de la rue (Base Adresse Nationale). Photo : vue aérienne du hameau — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "site_web": "https://www.ferme-du-bois-jacques.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20Bois%20Jacques%2011%20Rue%20du%20Bois%20Jacques%2C%2062144%20Villers-au-Bois",
+    "image_url": "/images/marchands/ferme-du-bois-jacques-villers-au-bois.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-du-pre-molaine-ablain-saint-nazaire",
+    "nom": "Ferme du Pré Molaine",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.391714,
+    "lon": 2.727928,
+    "adresse": "9 Rue Marcel Lancino, 62153 Ablain-Saint-Nazaire",
+    "horaires": "Magasin à la ferme : vendredi de 8h à 18h30, samedi de 8h à 12h30 et de 14h à 18h, d'après l'office de tourisme de Lens-Liévin. Horaires non recoupés auprès de la ferme : à vérifier avant de se déplacer.",
+    "produits": [
+      "Viande de porc au détail",
+      "Charcuteries et terrines sans sel nitrité",
+      "Charcuteries sèches",
+      "Viande de génisse Blonde d'Aquitaine",
+      "Volailles",
+      "Pommes de terre et légumes du potager",
+      "Jus de pomme et cidre",
+      "Produits laitiers d'autres fermes du Pas-de-Calais"
+    ],
+    "description": "Au pied de la colline de Notre-Dame-de-Lorette, ferme d'élevage (porcs sur paille, volailles, génisses) et de cultures dont le magasin, au cœur de l'exploitation, vend la viande et les charcuteries maison avec les produits laitiers de fermes voisines ; un service de retrait en voiture existe, d'après l'office de tourisme. Société active au registre des entreprises à cette adresse. Point placé sur le numéro de la rue (Base Adresse Nationale). Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 21 45 20 01",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ferme%20du%20Pr%C3%A9%20Molaine%209%20Rue%20Marcel%20Lancino%2C%2062153%20Ablain-Saint-Nazaire",
+    "image_url": "/images/marchands/ferme-du-pre-molaine-ablain-saint-nazaire.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "les-maraichers-vimy",
+    "nom": "Les Maraîchers",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 50.385946,
+    "lon": 2.803834,
+    "adresse": "1 Route Nationale, lieu-dit La Chaudière, 62580 Vimy",
+    "horaires": "Du lundi au vendredi de 9h à 12h30 et de 14h à 18h30, le samedi de 9h à 12h30, d'après l'office de tourisme de Lens-Liévin. Horaires non recoupés auprès de la ferme : à vérifier avant de se déplacer.",
+    "produits": [
+      "Légumes de la ferme",
+      "Fruits",
+      "Œufs",
+      "Viande",
+      "Épicerie et traiteur"
+    ],
+    "description": "Ferme maraîchère de Vimy dont le magasin en libre-service vend au détail les légumes semés et récoltés sur place, avec des fruits, des œufs et de la viande. Exploitation active au registre des entreprises au 1 route Nationale, où tombe aussi le repère de l'office de tourisme ; l'office écrit pourtant « 1 avenue du Canada », 430 m plus au sud : la fiche retient l'adresse du registre. Point de la Base Adresse Nationale au lieu-dit La Chaudière. Photo : vue aérienne de la ferme — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 7 octobre 2026).",
+    "telephone": "03 21 73 74 05",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Mara%C3%AEchers%201%20Route%20Nationale%2C%2062580%20Vimy",
+    "image_url": "/images/marchands/les-maraichers-vimy.jpg",
+    "a_confirmer": true
   }
 ]

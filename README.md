@@ -5435,9 +5435,29 @@ prioritaires en cas de conflit.
      horaires désormais publiés ne le rouvrent pas. L'office le place en outre à Mont-de-Marsan et son site à
      Saint-Pierre-du-Mont, sous le même numéro de voie.
 
+437. **Quand la commune calculée ne rend qu'une fiche entière mais que son intercommunalité en rend quatre autres à moins
+     de dix kilomètres, la zone se forme à cinq.** Le 7 octobre 2026 (cent soixantième passe), le Pas-de-Calais, rouvert
+     par la règle 432, mène le classement depuis trois passes. Lens, sa commune la plus peuplée sans fiche, ne rend rien
+     (la Ville ne publie aucun marché et son site ne répond pas) ; Liévin, la suivante, rend son marché couvert aux faits
+     entiers et rien d'autre dans ses limites — le marché du mercredi n'a ni heure ni famille (règles 192 et 197). Les
+     règles 96 et 127 veulent deux fiches dans la commune elle-même, et les suivre aurait fait descendre la passe vers
+     Hénin-Beaumont ou Béthune pendant que quatre points de vente à la ferme aux faits entiers attendaient entre 4 et
+     9 km de la halle, dans la même agglomération. L'exigence des deux fiches intra-muros servait à garder le groupe
+     centré ; le prompt, lui, demande cinq fiches « sur une seule commune ou agglomération ». **Tranché ainsi** : une
+     fiche entière dans la commune calculée suffit quand (a) le groupe atteint cinq points, pas quatre ; (b) tous sont
+     dans la même intercommunalité ; (c) tous sont à moins de dix kilomètres du centre de la commune, au lieu des quinze
+     de la règle 96. En dessous de cinq points, les règles 127, 258 et 320 restent entières. **Ce que la règle
+     débloque** : la passe de Liévin, dans la même passe.
+
 ## Marchands à confirmer
 
-1014 fiches sur 1148 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1019 fiches sur 1153 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché couvert de Liévin** (Liévin), **Brasserie Saint-Germain (Page 24)** (Aix-Noulette), **Ferme du Bois Jacques**
+  (Villers-au-Bois), **Ferme du Pré Molaine** (Ablain-Saint-Nazaire) et **Les Maraîchers** (Vimy) (passe du 7 octobre
+  2026, cent soixantième, règles 432 et 437) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni
+  magasin ; les heures des fermes d'Ablain-Saint-Nazaire et de Vimy ne viennent que de l'office de tourisme ; à Vimy
+  l'office écrit une adresse et le registre une autre, 430 m plus loin, où tombe pourtant le repère de l'office — la
+  fiche retient le registre ; la ferme de Villers-au-Bois ne publie que des portables, non repris.
 - **Marché Saint-Roch**, **AMAP du Moun** et **Les Jardins de Nonères** (Mont-de-Marsan), **Spiruline de Campagne**
   (Campagne) (passe du 7 octobre 2026, cent cinquante-neuvième, règles 320, 432, 435 et 436) : les quatre fiches portent
   une vue aérienne de l'IGN, qui ne montre ni marché ni distribution, et celle de Campagne ne montre que l'accès ; la Ville
@@ -13086,6 +13106,79 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Passe du 7 octobre 2026 (cent soixantième) : Liévin et l'agglomération de Lens-Liévin (Pas-de-Calais), cinq fiches ; le département se rouvre par la règle 432 ; règle 437
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** : 1 153
+fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 1 148 fiches avant la passe), outre-mer
+écarté (règle 177), relu depuis le premier rang (règle 410) : **Pas-de-Calais (62) 10,30**, quinze fiches (Calais, Arras,
+Boulogne-sur-Mer, Saint-Martin-Boulogne), descente arrêtée le 26 septembre à la borne de douze communes et rouverte à son
+rang par la règle 432 — c'est la première passe qui le relit ; puis Eure-et-Loir 7,51, Calvados 7,31, Val-d'Oise 7,24,
+Loiret 6,99. La passe précédente visait la Nouvelle-Aquitaine : les Hauts-de-France sont permis (règle 41.c). `git fetch`
+fait avant l'écriture : `origin/main` n'a pas bougé.
+
+**Lens** (32 920), commune la plus peuplée du département sans fiche : le site de la Ville ne répond pas à l'agent par
+défaut (connexion sans réponse, règle 425) ; le 26 septembre il ne publiait aucun marché hebdomadaire. **Zéro.**
+**Liévin** (30 063), la suivante : le site de la Ville est servi, son `robots.txt` n'exclut personne (délai de dix
+secondes respecté). Une seule fiche aux faits entiers dans la commune ; l'agglomération de Lens-Liévin en rend quatre
+autres à moins de dix kilomètres (**règle 437**, nouvelle). L'office de tourisme de Lens-Liévin est servi, son
+`robots.txt` n'exclut personne ; ses mentions réservent ses photographies et soumettent tout lien à son accord : aucune
+image n'en est reprise et aucune fiche ne pointe vers lui.
+
+1. **Marché couvert de Liévin** — halle municipale à l'angle des rues Faidherbe et Antoine-Dilly ; heures jour par jour
+   et familles (fruits et légumes, boucherie, boulangerie, poissonnerie, produits locaux) écrites par la Ville, fixe du
+   service commerce publié par la Ville ; l'office ajoute le numéro 17 et la fermeture du lundi. BAN au numéro (0,97).
+2. **Brasserie Saint-Germain (Page 24)** (Aix-Noulette) — société active au registre au 26 route d'Arras ; heures du
+   magasin sur le site de la brasserie (page modifiée le 28 juillet 2026), fixe identique chez l'office. BAN au numéro
+   (0,74, « rue d'Arras »), à soixante mètres du repère de l'office. À 4,6 km de la halle.
+3. **Ferme du Bois Jacques** (Villers-au-Bois) — vente directe de porc et de charcuterie, vendredi et samedi ; heures
+   identiques sur le site de la ferme et chez l'office (fiche mise à jour le 6 octobre 2026) ; exploitation active au
+   registre dans la commune. Le site ne publie que des portables : aucun n'est repris. BAN au numéro (0,94). À 9,3 km.
+4. **Ferme du Pré Molaine** (Ablain-Saint-Nazaire) — magasin à la ferme, vendredi et samedi ; heures, produits et fixe
+   de la fiche de l'office ; société active au registre à cette adresse. BAN au numéro (0,96). À 4,7 km.
+5. **Les Maraîchers** (Vimy) — magasin de ferme en libre-service ; heures et fixe de la fiche de l'office ; exploitation
+   active au registre. BAN au numéro (0,54, lieu-dit). À 4,2 km.
+
+Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une : ni personne, ni enseigne
+lisible. Trois fiches sur cinq n'ont que l'office pour leurs heures ou leurs produits : toutes partent en `a_confirmer`.
+
+**Laissé de côté, avec le déblocage de chacun** :
+
+- le marché du mercredi de Liévin (place Gambetta et rues voisines, 250 commerçants d'après la Ville) : ni heure ni
+  famille de produits (règles 192 et 197). **Déblocage** : une heure et une famille écrites par la Ville ;
+- le magasin de producteurs biologiques de Souchez (société active, établissement ouvert au registre, certificat
+  engagé) : son site ne publie que l'adresse et un fixe, aucune heure (règle 192). **Déblocage** : ses heures ;
+- la cueillette biologique de Servins : son site l'écrit fermée pour l'hiver, sans date de réouverture (règle 192).
+  **Déblocage** : le calendrier de la saison 2027 ;
+- la microferme d'insertion de Loos-en-Gohelle (vente du mardi au vendredi d'après l'office) : le site de
+  l'association ne répond pas, une seule source (règle 196 par analogie). **Déblocage** : les heures publiées par
+  l'association ou par la commune ;
+- les marchés itinérants de producteurs de l'agglomération (de mai à octobre, une commune par date) : saison close ;
+- la ferme d'Aix-Noulette qui vend volailles, miel et légumes, et les deux distributeurs automatiques de
+  Givenchy-en-Gohelle et d'Acheville : aucune heure de vente pour la première, pas de point de vente tenu pour les
+  autres ; une ferme laitière de Bois-Bernard écrit « pas de vente sur place » ;
+- un maraîcher de Loison-sous-Lens (« ouvert le jeudi », sans heure) et une ferme de Méricourt (retrait de paniers) :
+  non instruits au-delà de la fiche de l'office ;
+- le magasin bio de réseau de Vendin-le-Vieil (règles 273 et 414), les supermarchés certifiés et les grossistes du
+  registre de l'Agence Bio (1 100 opérateurs lus dans le département, quatre-vingt-cinq dans l'agglomération) ; une
+  grande brasserie de Bénifontaine, dont l'enseigne est un patronyme.
+
+**Contradictions** (règle 5) : à Vimy, l'office écrit « 1 avenue du Canada » et le registre « 1 route Nationale »,
+430 m plus au nord, là où tombe le repère de l'office lui-même : la fiche retient le registre et le dit. À Liévin, la
+Ville compte quinze commerçants et l'office plus de vingt étals : la fiche écrit les deux. À Ablain-Saint-Nazaire, la
+société active à l'adresse est rangée par le registre dans l'hébergement, non dans l'élevage : la fiche s'en tient à
+« société active à cette adresse ». **Fiches écartées pour doute sur une personne ou une donnée personnelle** : quatre —
+à Aix-Noulette, une miellerie absente du registre sous son enseigne, qu'il aurait fallu chercher sous le nom de son
+exploitant ; à Souchez et à Sallaumines, deux points de vente dont l'enseigne porte un prénom ou un surnom ; à Acheville,
+une ferme dont l'enseigne peut être un patronyme. Elles ne se rouvrent pas. Les opérateurs du registre de l'Agence Bio
+inscrits sous un patronyme dans l'agglomération n'ont pas été instruits, et aucun des prénoms ou des noms qu'écrivent
+l'office et les sites des fermes n'est repris.
+
+**Points d'arrêt** : dans le **Pas-de-Calais**, la descente relue par la règle 432 s'arrête à **Liévin** ; les communes
+suivantes à relire sont **Hénin-Beaumont** puis **Béthune**, à contrôler sous l'agent par défaut (règle 425), et
+**Étaples** garde sa vente des pêcheurs sur le quai désignée pour la reprise. Lens se réessaie quand le site de la Ville
+répond. Après la passe, sur 1 153 fiches : Eure-et-Loir 7,55, Calvados 7,36, Val-d'Oise 7,33, Loiret 7,05, Ain 6,84 ; le
+Pas-de-Calais retombe à 5,41. La région de cette passe est les Hauts-de-France (règle 41.c).
 
 ### Passe du 7 octobre 2026 (cent cinquante-neuvième) : Mont-de-Marsan et son agglomération (Landes), quatre fiches ; le département se rouvre par la règle 432
 
