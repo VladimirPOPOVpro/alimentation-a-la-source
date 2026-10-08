@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (cent quatre-vingt-dix-neuvième) : Haute-Garonne, Ramonville-Saint-Agne éprouvée, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches. Le Nord (59), passe précédente, est exclu par la règle 41.c, avec toute la région Hauts-de-France. En tête ensuite : **Haute-Garonne (31), 5,2659** ; Seine-Maritime (76), 5,2223. La Haute-Garonne est retenue.
+
+**Commune : règle 248, reprise au point d'arrêt.** La descente du 31 reprend à **Ramonville-Saint-Agne** (15 158 habitants), point d'arrêt de la passe 197.
+
+**Ramonville-Saint-Agne, éprouvée à nouveau.** Trois sources se recoupent. Le site de la Ville (rubrique « Marchés », consultée cette passe) donne le marché de plein vent de l'avenue d'Occitanie le mercredi et le samedi, de 8h à 13h30, avec des maraîchers bio et des producteurs de fruits bio, et le carré des producteurs de Port Sud le jeudi, de 16h à 20h, sans liste de produits. Un annuaire d'AMAP donne l'AMAP des Milans (légumes bio, poulet) le jeudi de 18h30 à 20h, sans source de l'AMAP elle-même. Les photographies de la Ville restent soumises à accord de reproduction, et aucune image libre de droits du lieu n'a été trouvée : une fiche de marché sans image ne se publie pas (validateur : `image_url` obligatoire). Le carré des producteurs ne publie aucune famille de produits, donc pas de liste d'au moins une entrée. Le registre de l'Agence Bio, lu sur les trois premières pages (300 opérateurs) de la Haute-Garonne, ne donne qu'une seule adresse à Ramonville : une entreprise individuelle de maraîchage inscrite sous le patronyme de son exploitante, **écartée pour doute sur une personne**, sans réouverture. **Zéro.**
+
+**Pistes non publiées** : Ramonville-Saint-Agne, marché de plein vent de l'avenue d'Occitanie (horaires et produits solides, image libre à trouver ou photo du lieu accordée par la Ville) ; carré des producteurs de Port Sud (familles de produits à demander à la Ville ou aux Co-Pains du Port) ; AMAP des Milans (horaire et lieu à confirmer par l'AMAP elle-même) ; une seconde AMAP de la commune, dont l'annuaire associatif de la Ville donne un créneau du mercredi mais pas de lieu de distribution confirmé.
+
+**Points d'arrêt** : la descente du 31 reste à **Ramonville-Saint-Agne** ; la commune suivante par population est **Saint-Orens-de-Gameville** (14 646 habitants), puis Fonsorbes (12 954) et L'Union (12 638). La prochaine passe ne peut pas viser l'Occitanie (41.c, région 76). Hors Occitanie, la tête du classement est la Seine-Maritime (76, région 28) à 5,2223, puis les Bouches-du-Rhône (93) à 5,1025.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : une (Haute-Garonne, Ramonville-Saint-Agne, entreprise individuelle de maraîchage), sans réouverture.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-dix-huitième) : Nord, Wattrelos éprouvée à quatre marchés, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
