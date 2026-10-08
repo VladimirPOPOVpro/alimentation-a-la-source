@@ -5768,9 +5768,35 @@ prioritaires en cas de conflit.
      recopié, aucun lien n'est inscrit. Aucune exigence de vérification ne baisse. **Ce que la règle débloque** :
      dans la même passe, les cinq marchés de Pontoise, d'Osny et de Saint-Ouen-l'Aumône.
 
+459. **Une phrase de la Ville propre à un marché, qui le dit alimentaire et biologique, remplit la règle 197 ; « marché
+     alimentaire » seul ne la remplit pas ; et la page d'accueil d'un magasin qui affiche des avis signés d'un prénom
+     n'est pas mise en lien.** Le 8 octobre 2026 (cent quatre-vingt-quatrième passe), le Morbihan mène le classement
+     et sa descente, relue depuis le haut (règles 432 et 446), reprend à Vannes. La Ville y écrit les jours, les heures
+     et les lieux de trois marchés de plein air, mais ne dit ce qu'on y achète que par une phrase commune à tous
+     (« produits locaux entre terre et mer »), et qualifie celui de Ménimur de « marché alimentaire », sans plus.
+     L'office de tourisme intercommunal refuse l'agent par défaut (règle 425) et l'agence départementale réserve
+     toute « utilisation » de son contenu à l'usage privé (règles 416 et 454) : aucune seconde autorité lisible
+     n'écrit de famille de produits. À Séné, la Ville écrit du marché du vendredi, et de lui seul, qu'il est
+     alimentaire et qu'une vingtaine de commerçants y vendent des produits biologiques. **Tranché ainsi** : (a) la
+     phrase propre au marché qui le dit alimentaire **et** biologique nomme ce qui s'y vend au sens de la règle 197 —
+     elle dit quelque chose de celui-là, et c'est exactement ce que la carte cherche ; le champ `produits` n'écrit
+     alors que cela, sans étal ni métier inventé, et la fiche le dit ; (b) « marché alimentaire » sans autre mot ne
+     nomme aucune famille : le marché attend (règle 197) ; (c) la règle 383 vaut pour la page d'accueil d'un commerce
+     qui affiche des avis de clients signés d'un prénom et d'une initiale, et pour sa page de magasin qui nomme un
+     responsable : aucun `site_web` n'est inscrit, le site reste cité dans `horaires` ; (d) une halle municipale
+     consacrée aux produits de la mer se range en `poissonnerie` (règle 4), la halle généraliste voisine en `marche`.
+     Aucune exigence de vérification ne baisse. **Ce que la règle débloque** : dans la même passe, le quatrième point
+     du groupe de Vannes, publié à cinq dans son intercommunalité (règles 96 et 127).
+
 ## Marchands à confirmer
 
-1127 fiches sur 1261 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1132 fiches sur 1266 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Halles des Lices**, **Halle aux poissons de Vannes** et **Biocoop Bio Golfe Vannes Centre** (Vannes), **Marché de
+  Séné** et **Biocoop Bio Golfe Saint-Avé** (passe du 8 octobre 2026, cent quatre-vingt-quatrième, règles 432 et
+  459) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni intérieur ; les deux halles et
+  le marché de Séné n'ont que leur Ville pour source ; le marché de Séné n'a pour produits que ce que la Ville en
+  écrit (alimentaire, biologique pour une vingtaine d'étals) ; les heures des deux magasins viennent du seul site
+  de la coopérative, et leur liste de producteurs est commune aux quatre magasins du groupe.
 - **Marché du centre-ville de Pontoise**, **Marché des Cordeliers** et **Marché de la Gare** (Pontoise), **Marché
   dominical d'Osny** et **Marché de Saint-Ouen-l'Aumône** (passe du 8 octobre 2026, cent quatre-vingt-troisième,
   règles 432, 437 et 458) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; la page des
@@ -13608,6 +13634,94 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-uniè
   groupe étant complet. **Déblocage** : des heures de vente publiées par la brasserie.
 - **Verrières-le-Buisson et Igny, marchés** : sites des Villes servis à l'agent par défaut, pages des marchés non
   cherchées plus avant, le groupe étant complet ; à lire à la prochaine descente.
+
+### Pistes non publiées à Vannes et dans Golfe du Morbihan - Vannes Agglomération
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatrième), avec le déblocage de chacune.
+
+- **Vannes, marché de plein air du centre-ville** (mercredi et samedi 8h-13h30, place des Lices et alentours) et
+  **marché de Conleau-Cliscouët** (dimanche 8h-13h, place Fareham) : jours, heures et lieux écrits par la Ville ;
+  aucune famille de produits propre à l'un ou à l'autre (règle 197). **Déblocage** : une famille de produits écrite
+  par la Ville ou par une autre autorité lisible.
+- **Vannes, marché de Ménimur** (mardi et vendredi 8h-13h30, parking du centre commercial) : « marché alimentaire »,
+  sans plus (règle 459.b). **Déblocage** : le même.
+- **Vannes, magasin de producteurs** : société active au registre des entreprises et engagée au registre bio ; son
+  site n'ouvre aucune connexion, aucune heure n'est publiée (règle 192). **Déblocage** : des heures publiées par le
+  magasin ou par une autorité.
+- **Séné, micro-ferme maraîchère biologique** (désignée pour la reprise le 24 septembre) : le registre bio l'inscrit
+  comme entreprise individuelle au nom de son exploitant, à l'adresse de la ferme — écartée pour doute sur une
+  personne, ne se rouvre pas. Plusieurs autres exploitations de Séné et de Vannes sont dans le même cas au
+  registre : non instruites, même motif.
+- **Ploeren et Theix-Noyalo, deux autres magasins de la même coopérative biologique** : faits entiers sur le site de
+  la coopérative (lundi-samedi 9h-19h) ; non publiés, le groupe étant complet à cinq. **À instruire** à la prochaine
+  passe dans l'agglomération.
+- **Saint-Avé, deux marchés de plein air** (mardi après-midi et dimanche matin) : les mentions légales de la Ville
+  soumettent toute utilisation de ses contenus à son autorisation écrite (règle 416) ; la page des marchés n'est
+  pas lue. **Déblocage** : les mêmes faits publiés par une autre autorité lisible.
+- **Office de tourisme intercommunal** : refuse l'agent par défaut (403, règle 425), non lu. **Agence
+  départementale du tourisme** : toute utilisation hors usage privé soumise à autorisation écrite (règles 416 et
+  454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
+  fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
+
+### Passe du 8 octobre 2026 (cent quatre-vingt-quatrième) : Vannes, Séné et Saint-Avé (Morbihan), cinq fiches dans Golfe du Morbihan - Vannes Agglomération ; le département se relit depuis le haut ; règle 459
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
+1 266 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 261
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Morbihan (56)
+4,33**, dix fiches, toutes dans Lorient Agglomération ; sa descente s'était arrêtée à Plescop le 24 septembre après
+vingt-quatre communes quittées pour la seule image ou sous le nom d'emprunt : elle se relit depuis le haut (règles
+432 et 446). La passe précédente visait l'Île-de-France (règle 41.c) : la Bretagne est ouverte. Puis Loire 4,16,
+Gard 4,10, Haut-Rhin 4,10, Seine-Maritime 4,06. `git fetch` fait avant le calcul et avant l'écriture : `origin/main`
+n'avait pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règles 41.d et 446), sous l'agent par défaut,
+`robots.txt` et mentions légales lus avant les pages (règles 402 et 425).
+
+1. **Vannes** (55 790) — le `robots.txt` de la Ville n'exclut personne ; ses mentions légales interdisent la
+   reproduction du site, photographies et textes nommés (règles 231 et 246) : aucune image ni aucun texte n'est
+   repris, aucun lien inscrit (règle 458.d). Les pages « Halles » et « Marchés de plein air » écrivent deux halles
+   aux faits entiers, et la coopérative biologique du centre-ville en rend une troisième : **trois fiches dans la
+   commune** (règle 127). Golfe du Morbihan - Vannes Agglomération (`epci` 200067932) complète à cinq avec Séné et
+   Saint-Avé (règles 96 et 363), à 4,7 et 3,1 km de la mairie.
+
+Sources lues et retenues : les pages « Halles », « Marchés de plein air », « Halles et marchés » et la liste par
+métier des commerçants des halles de la Ville de Vannes ; la page « Les marchés » de la Ville de Séné (modifiée le
+3 septembre 2026) et sa page sur les activités de la terre et de la mer ; le site de la coopérative biologique
+(pages des magasins, liste des producteurs, conditions générales : les photographies y sont nommées, règle 245) ;
+le registre des entreprises ; le registre de l'Agence Bio (2 231 opérateurs du département, filtrés sur Vannes et
+Séné) ; la Base Adresse Nationale ; l'annuaire de l'administration pour le point de la mairie.
+
+1. **Halles des Lices** (Vannes) — mardi-dimanche 8h-14h, 4 place des Lices ; 31 commerçants, liste par métier
+   publiée par la Ville. Numéro à la Base (0,970). À 0,4 km de la mairie. La liste nomme des commerçants : aucun nom
+   n'est repris et la page n'est pas mise en lien (règle 383).
+2. **Halle aux poissons de Vannes** — mardi, mercredi, vendredi et samedi 8h-13h, 2 place de la Poissonnerie ;
+   23 commerçants, poissons et coquillages. Numéro à la Base (0,967). À 0,4 km. Rangée en `poissonnerie` (règle
+   459.d).
+3. **Biocoop Bio Golfe Vannes Centre** — lundi-samedi 9h-19h30, 6 rue Joseph Le Brix ; établissement actif au
+   registre, coopérative engagée en bio. Numéro à la Base (0,967), à 3 m du point du registre. À 0,2 km.
+4. **Marché de Séné** — vendredi 16h-19h, place de l'Église ; marché alimentaire, une vingtaine d'étals en bio
+   d'après la Ville (règle 459.a). Place à la Base (0,958). À 4,7 km.
+5. **Biocoop Bio Golfe Saint-Avé** — lundi-samedi 9h30-19h, 5 rue Marcel Dassault ; établissement actif au
+   registre. Numéro à la Base (0,963), à une cinquantaine de mètres du point du registre. À 3,1 km.
+
+Aucune des trois communes n'avait de fiche (aucun doublon). Les cinq points tiennent dans 6,9 km. Les cinq images
+sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne reconnaissable, ni
+enseigne lisible. Toutes les fiches partent en `a_confirmer`. Aucun `site_web` : les pages de la Ville et celles
+de la coopérative nomment des personnes (règles 383 et 459.c). Le téléphone des deux magasins est celui que la
+coopérative publie pour sa clientèle ; celui des halles est un numéro de service municipal, non repris.
+
+**Contradictions** (règle 5) : aucune entre les sources retenues. **Fiches écartées pour doute sur une personne ou
+une donnée personnelle** : une instruite et écartée à Séné (micro-ferme maraîchère), plusieurs autres exploitations de
+Séné et de Vannes laissées sans instruction pour le même motif ; aucun des noms que portent les pages et les
+registres lus n'est repris, ni ici, ni dans une fiche, ni dans un nom de fichier. **Laissé de côté
+volontairement** : tout ce que la section des pistes énumère, d'abord les trois marchés de plein air de Vannes,
+faute d'une famille de produits écrite.
+
+**Points d'arrêt** : dans le **Morbihan**, la relecture depuis le haut reprend à **Lanester** (23 263), puis
+**Hennebont**, **Pontivy** et **Auray**, chacune à contrôler d'abord sur sa note d'origine (règle 458.a) ; le point
+d'arrêt bas (Plescop) reste écrit. Dans l'agglomération de Vannes, les magasins de Ploeren et de Theix-Noyalo sont
+les premiers candidats. Après la passe, sur 1 266 fiches : Loire 4,21, Gard 4,15, Seine-Maritime 4,15, Haut-Rhin
+4,15, Haute-Garonne 4,02 ; le Morbihan retombe à −0,62. La région de cette passe est la Bretagne (règle 41.c).
 
 ### Pistes non publiées à Pontoise et dans l'agglomération de Cergy-Pontoise
 

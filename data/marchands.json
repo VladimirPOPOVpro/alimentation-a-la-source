@@ -33355,5 +33355,131 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Pierre%20Mend%C3%A8s%20France%2C%2095310%20Saint-Ouen-l%27Aum%C3%B4ne",
     "image_url": "/images/marchands/marche-de-saint-ouen-l-aumone.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "halles-des-lices-vannes",
+    "nom": "Halles des Lices",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.655824,
+    "lon": -2.756932,
+    "adresse": "4 Place des Lices, 56000 Vannes",
+    "horaires": "Du mardi au dimanche de 8h à 14h, toute l'année, d'après la Ville de Vannes, qui annonce aussi des ouvertures exceptionnelles certains jours fériés (en 2026 : 1er et 11 novembre, 25 décembre).",
+    "produits": [
+      "Pain et pâtisseries",
+      "Fromages et crémerie",
+      "Boucherie, charcuterie et volailles",
+      "Poissons, crustacés et coquillages",
+      "Fruits et légumes",
+      "Chocolat et café",
+      "Vins",
+      "Étals de producteurs locaux"
+    ],
+    "description": "Marché couvert du centre historique de Vannes : la Ville y compte 31 commerçants permanents et publie leur liste par métier — boulangers-pâtissiers, crémiers, bouchers-charcutiers-volaillers, poissonniers, primeurs, traiteurs, chocolatier, caviste — avec un « carré des producteurs locaux » et un espace de restauration. Faits lus sur le seul site de la Ville. Adresse géocodée au numéro par la Base Adresse Nationale, à 0,4 km de la mairie de Vannes. Photo : vue aérienne des halles et de la place, qui ne montre pas l'intérieur du marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=4%20Place%20des%20Lices%2C%2056000%20Vannes",
+    "image_url": "/images/marchands/halles-des-lices-vannes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "halle-aux-poissons-vannes",
+    "nom": "Halle aux poissons de Vannes",
+    "categorie": "poissonnerie",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.655178,
+    "lon": -2.758455,
+    "adresse": "2 Place de la Poissonnerie, 56000 Vannes",
+    "horaires": "Mardi, mercredi, vendredi et samedi de 8h à 13h, toute l'année, d'après la Ville de Vannes, qui annonce aussi des ouvertures exceptionnelles certains jours fériés.",
+    "produits": [
+      "Poissons",
+      "Coquillages"
+    ],
+    "description": "Halle municipale consacrée aux produits de la mer, place de la Poissonnerie, à 130 mètres des halles des Lices : la Ville y compte 23 commerçants permanents, poissonniers et vendeurs de coquillages. Le site ne référence pas de catégorie propre aux halles : la fiche est rangée en poissonnerie pour ce qu'on y achète. Faits lus sur le seul site de la Ville. Adresse géocodée au numéro par la Base Adresse Nationale, à 0,4 km de la mairie de Vannes. Photo : vue aérienne de la halle et de la place, qui ne montre pas l'intérieur — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Place%20de%20la%20Poissonnerie%2C%2056000%20Vannes",
+    "image_url": "/images/marchands/halle-aux-poissons-vannes.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-bio-golfe-vannes-centre",
+    "nom": "Biocoop Bio Golfe Vannes Centre",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.658926,
+    "lon": -2.75895,
+    "adresse": "6 Rue Joseph Le Brix, 56000 Vannes",
+    "horaires": "Du lundi au samedi de 9h à 19h30, fermé le dimanche, d'après le site de la coopérative.",
+    "produits": [
+      "Épicerie biologique",
+      "Pain (rayon boulangerie)",
+      "Produits en vrac",
+      "Restauration à emporter",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Magasin du centre-ville de la coopérative de consommateurs Bio Golfe, ouvert en 2020 d'après son site ; la coopérative, née à Theix en 1989, tient quatre magasins autour de Vannes et publie pour eux une liste de 143 producteurs locaux. Rayon boulangerie, restauration à emporter et collecte de contenants pour le réemploi. Coopérative active au registre des entreprises à cette adresse, engagée en bio d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale, au point de l'établissement au registre, à 0,2 km de la mairie de Vannes. Photo : vue aérienne de la rue, qui ne montre pas le magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "02 97 47 02 01",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Bio%20Golfe%20Vannes%20Centre%2C%206%20Rue%20Joseph%20Le%20Brix%2C%2056000%20Vannes",
+    "image_url": "/images/marchands/biocoop-bio-golfe-vannes-centre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-sene",
+    "nom": "Marché de Séné",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.619258,
+    "lon": -2.736594,
+    "adresse": "Place de l'Église, 56860 Séné",
+    "horaires": "Vendredi de 16h à 19h, toute l'année, d'après la Ville de Séné (page modifiée le 3 septembre 2026).",
+    "produits": [
+      "Produits alimentaires biologiques",
+      "Produits alimentaires non biologiques (quelques étals)"
+    ],
+    "description": "Marché alimentaire de fin de journée, dans le bourg de Séné : la Ville y compte une vingtaine de commerçants en produits biologiques, et quelques autres en produits non biologiques. Elle ne détaille pas les étals ; elle écrit par ailleurs que les maraîchers de la commune, tournés pour l'essentiel vers le bio, vendent sur les marchés de plein air de la région. Faits lus sur le seul site de la Ville. Place géocodée à la voie par la Base Adresse Nationale, à 4,7 km de la mairie de Vannes. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27%C3%89glise%2C%2056860%20S%C3%A9n%C3%A9",
+    "image_url": "/images/marchands/marche-de-sene.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-bio-golfe-saint-ave",
+    "nom": "Biocoop Bio Golfe Saint-Avé",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.681211,
+    "lon": -2.736548,
+    "adresse": "5 Rue Marcel Dassault, 56890 Saint-Avé",
+    "horaires": "Du lundi au samedi de 9h30 à 19h, fermé le dimanche, d'après le site de la coopérative, qui annonce parfois des fermetures anticipées.",
+    "produits": [
+      "Épicerie biologique",
+      "Fromages (rayon fromagerie)",
+      "Charcuterie",
+      "Pain (rayon boulangerie)",
+      "Produits en vrac",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Magasin de Saint-Avé de la coopérative de consommateurs Bio Golfe, ouvert en 2019 d'après son site ; la coopérative, née à Theix en 1989, tient quatre magasins autour de Vannes et publie pour eux une liste de 143 producteurs locaux. Rayons fromagerie, charcuterie et boulangerie, restauration à emporter, retrait de commandes passées en ligne. Coopérative active au registre des entreprises à cette adresse, engagée en bio d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale, à une cinquantaine de mètres du point de l'établissement au registre et à 3,1 km de la mairie de Vannes. Photo : vue aérienne du magasin et de son parc de stationnement — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "02 97 47 02 01",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Bio%20Golfe%20Saint-Av%C3%A9%2C%205%20Rue%20Marcel%20Dassault%2C%2056890%20Saint-Av%C3%A9",
+    "image_url": "/images/marchands/biocoop-bio-golfe-saint-ave.jpg",
+    "a_confirmer": true
   }
 ]
