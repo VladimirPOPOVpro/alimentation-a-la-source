@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-seizième) : Nord, Mons-en-Barœul non vérifiée, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants, règle 177). La Haute-Garonne (31), passe précédente, est exclue par la règle 41.c, avec toute l'Occitanie. En tête ensuite : **Nord (59), 5,2446**, puis Seine-Maritime (76), 5,2223. Le Nord est retenu.
+
+**Commune : règle 406 et point d'arrêt.** La descente du Nord s'était arrêtée à **Méteren**, avec pour contrôle d'abord, par population, Mons-en-Barœul, Lezennes, Herlies et Monchecourt. **Mons-en-Barœul** a été éprouvée : le site officiel de la commune est joignable, mais ses pages ne donnent ni jours ni horaires de marché ; le seul calendrier trouvé est un annuaire participatif (« 3 marchés enregistrés », horaires non vérifiés), qui renvoie lui-même vers la mairie. Un marché sans jour ni heure publiés par la commune ne peut pas être inscrit. **Zéro.** Lezennes, Herlies et Monchecourt restent à contrôler au prochain passage.
+
+**Pistes non publiées** : aucune nouvelle. Les déblocages consignés pour Méteren, Lewarde, Boeschepe et Gommegnies restent en attente de leur source.
+
+**Points d'arrêt** : la descente du Nord reste à **Méteren** ; la commune suivante est **Lezennes** puis Herlies, Monchecourt, puis Bachant (2 230 habitants).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-quinzième) : Haute-Garonne, Plaisance-du-Touch relue, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
