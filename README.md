@@ -5729,7 +5729,13 @@ prioritaires en cas de conflit.
 
 ## Marchands à confirmer
 
-1113 fiches sur 1247 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1118 fiches sur 1252 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Vilmorin**, **Marché de Villaine**, **Marché de Narbonne** et **Marché du Centre-Ville** (Massy),
+  **Marché de Chilly-Mazarin** (passe du 8 octobre 2026, cent quatre-vingt-unième, règles 96, 127 et 432) : les cinq
+  fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni halle en activité ; les marchés de Vilmorin et
+  de Villaine sont placés au point de leur voie à la Base, l'emplacement exact des étals restant à confirmer sur
+  place ; la Ville de Massy écrit « allée » puis « place » de Narbonne pour le même marché ; la liste des
+  commerçants de Chilly-Mazarin date de juillet 2024.
 - **Marché couvert et marché de la place Nationale**, **Biocoop Réponse Nature** et **Marché bio du cours
   Saint-Mauris** (Dole), **Fruitière de Chevigny** (magasins de Foucherans et de Chevigny) (passe du 8 octobre 2026,
   cent quatre-vingtième, règles 96, 127, 432 et 456) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre
@@ -13522,6 +13528,90 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Massy, à Chilly-Mazarin et dans Paris-Saclay
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-unième), avec le déblocage de chacune.
+
+- **Massy, AMAP** : vivante selon les passes précédentes ; son site interdit la reproduction de son contenu et ses
+  deux lieux de distribution ne se pointent pas (règle 166) ; non relue. **Déblocage** : une adresse de distribution
+  que la Base connaisse, publiée par l'association.
+- **Massy, deux magasins biologiques de réseau** : engagés au registre de l'Agence Bio ; aucune liste de producteurs
+  locaux à eux (règle 86). **Déblocage** : des producteurs locaux publiés sur leur page.
+- **Massy, primeur de détail engagé en bio** : entreprise individuelle inscrite sous le nom de son exploitant —
+  écartée pour doute sur une personne, ne se rouvre pas.
+- **Verrières-le-Buisson, maraîchage biologique d'un chantier d'insertion** : vente aux particuliers déclarée au
+  registre de l'Agence Bio ; aucun jour ni heure de vente trouvés. **Déblocage** : des heures publiées par
+  l'association.
+- **Saulx-les-Chartreux, ferme maraîchère biologique en société** : certificat engagé ; aucune heure de vente à la
+  ferme trouvée. **Déblocage** : des heures publiées par la ferme. Deux autres maraîchers de la commune sont des
+  entreprises individuelles inscrites sous le nom de leur exploitant — écartés pour doute sur une personne, ne se
+  rouvrent pas.
+- **Palaiseau, maraîchage et fleurs biologiques** : entreprise individuelle au nom de son exploitant — écartée pour
+  doute sur une personne, ne se rouvre pas. Les deux marchés de Palaiseau restent fermés par la clause d'usage
+  privé de la Ville (règle 246), non relue à cette passe.
+- **Villebon-sur-Yvette, brasserie** : société engagée en bio, vente aux particuliers déclarée ; non instruite, le
+  groupe étant complet. **Déblocage** : des heures de vente publiées par la brasserie.
+- **Verrières-le-Buisson et Igny, marchés** : sites des Villes servis à l'agent par défaut, pages des marchés non
+  cherchées plus avant, le groupe étant complet ; à lire à la prochaine descente.
+
+### Passe du 8 octobre 2026 (cent quatre-vingt-unième) : Massy et Chilly-Mazarin (Essonne), cinq fiches dans la Communauté Paris-Saclay
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
+1 252 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 247
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : Haute-Saône (70) 4,22,
+aucune fiche, fermée par la règle 41.c (la passe précédente a publié en Bourgogne-Franche-Comté) ; **Essonne (91)
+4,21**, vingt fiches, ouverte — c'est elle qui fait la passe ; puis Val-d'Oise 4,18, Morbihan 4,17. `git fetch` fait
+avant le calcul : `origin/main` n'avait pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règles 41.d, 446 et 448), sous l'agent par défaut,
+`robots.txt` et mentions légales lus avant les pages (règles 402 et 425).
+
+1. **Massy** (51 729) — le site de la Ville sert l'agent par défaut (son `robots.txt` répond 404, aucune directive) ;
+   la commune avait été quittée le 23 puis le 29 septembre sous le nom d'emprunt de la règle 257 et faute d'image,
+   deux motifs que les règles 425 et 432 ont levés. Les mentions légales interdisent la reproduction des textes,
+   photos et images : aucune image n'est reprise (règle 231), les faits — jours, heures, lieux, métiers — sont lus.
+   La page des commerces donne les quatre marchés avec jours et heures, le guide des marchés de la Ville (édition de
+   mars 2026) les confirme et donne la composition de chacun : **quatre fiches entières** dans la commune
+   (règle 127). La Communauté Paris-Saclay (champ `epci` 200056232) en ajoute une cinquième, à 4,8 km de la mairie :
+   **elle fait la passe à cinq (règle 96).**
+
+Sources lues et retenues : le site de la Ville de Massy (page des commerces, guide des marchés en PDF, actualité du
+marché de Vilmorin) ; la page du marché de la Ville de Chilly-Mazarin (modifiée le 8 septembre 2026 ; mentions
+légales qui autorisent la reproduction à des fins d'information en citant le site, ce que la fiche fait) ; le
+registre de l'Agence Bio relu sur l'Essonne (724 opérateurs servis) ; la Base Adresse Nationale ; le géocodage de
+l'IGN (points d'intérêt).
+
+1. **Marché de Vilmorin** (Massy) — mardi et vendredi 15h-20h, dimanche 8h-13h, place de l'Union Européenne. Point
+   de la place à la Base (0,967). À 1,1 km de la mairie.
+2. **Marché de Villaine** (Massy) — mercredi et samedi 8h-13h, rue Maurice Thorez. Point de la rue à la Base
+   (0,960) ; l'emplacement dans la rue reste à confirmer. À 0,8 km.
+3. **Marché de Narbonne** (Massy) — mardi et vendredi 8h-13h. Point de la place à la Base (0,957). À 1,5 km.
+4. **Marché du Centre-Ville** (Massy) — dimanche 8h-13h, rue de la Division Leclerc. Point de l'IGN pour le marché,
+   à 15 m du point de la rue à la Base (règle 10). À 0,2 km.
+5. **Marché de Chilly-Mazarin** — jeudi et dimanche 8h-13h, 31 avenue Pierre Brossolette. Point de l'IGN pour le
+   marché, à 30 m du numéro à la Base (0,967). À 4,8 km.
+
+Les cinq points sont à 5,5 km au plus les uns des autres ; ni Massy ni Chilly-Mazarin n'avaient de fiche (aucun
+doublon). Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni
+personne reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`. Les quatre fiches de Massy
+portent en `site_web` la page des commerces de la Ville, qui ne nomme personne ; le guide en PDF et la page du marché
+de Chilly-Mazarin nomment leurs commerçants, ils ne sont pas mis en lien (règle 383). Aucun téléphone : les seuls
+numéros lus sont des portables de commerçants. Les Papilles d'Or et les services de la Ville ne sont pas repris.
+
+**Contradictions** (règle 5) : la page de la Ville de Massy écrit « allée de Narbonne », son guide « place de
+Narbonne » — les deux voies sont à 40 m l'une de l'autre à la Base, la fiche prend la place, que nomme le guide daté,
+et le dit. La liste des commerçants de Chilly-Mazarin est datée de juillet 2024 sur une page
+modifiée en septembre 2026 : la fiche donne la composition en le disant. **Fiches écartées pour doute sur une
+personne ou une donnée personnelle** : quatre, une à Massy, deux à Saulx-les-Chartreux, une à Palaiseau ; aucun des
+noms que citent les pages lues (commerçants des marchés, élus, directeurs de publication) n'est repris, ni ici, ni
+dans une fiche, ni dans un nom de fichier. **Laissé de côté volontairement** : tout ce que la section des pistes
+énumère.
+
+**Points d'arrêt** : dans l'**Essonne**, la relecture depuis le haut reprend à **Savigny-sur-Orge** (37 601), puis
+**Palaiseau** et **Sainte-Geneviève-des-Bois**. Après la passe, sur 1 252 fiches : Val-d'Oise 4,27, Haute-Saône
+4,23, Morbihan 4,22, Loire 4,06 ; l'Essonne retombe à −0,70. La région de cette passe est l'Île-de-France (règle
+41.c) : le Val-d'Oise, même région, est fermé à la prochaine passe.
 
 ### Pistes non publiées à Dole et dans le Grand Dole
 

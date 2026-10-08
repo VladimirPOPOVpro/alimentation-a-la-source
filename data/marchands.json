@@ -32977,5 +32977,145 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruiti%C3%A8re%20de%20Chevigny%2C%201%20Rue%20de%20l%27%C3%89glise%2C%2039290%20Chevigny",
     "image_url": "/images/marchands/fruitiere-de-chevigny-magasin-de-chevigny.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-vilmorin-massy",
+    "nom": "Marché de Vilmorin (Massy)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.72703,
+    "lon": 2.257437,
+    "adresse": "Place de l'Union Européenne, 91300 Massy",
+    "horaires": "Mardi et vendredi de 15h à 20h, dimanche de 8h à 13h. D'après la page des commerces et le guide des marchés de la Ville de Massy (édition de mars 2026).",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Boucherie, charcuterie et volailles",
+      "Rôtisserie",
+      "Poisson",
+      "Traiteurs (asiatique, créole, italien, libanais, crêpes)",
+      "Miel et bières, ponctuellement"
+    ],
+    "description": "Marché du quartier Vilmorin, sur la place de l'Union Européenne, à quelques minutes de la gare de Massy-Palaiseau : le seul des quatre marchés de la ville à se tenir en fin d'après-midi, deux fois par semaine, en plus du dimanche matin. Le guide de la Ville y compte deux étals de fruits et légumes, une fromagerie, une boucherie-charcuterie, une rôtisserie, une poissonnerie et cinq traiteurs, avec ponctuellement du miel et des bières. Point : celui de la place à la Base Adresse Nationale, à 1,1 km de la mairie de Massy ; la place est vaste, l'emplacement exact des étals reste à confirmer. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27Union%20Europ%C3%A9enne%2C%2091300%20Massy",
+    "site_web": "https://www.ville-massy.fr/sortir/envie-de-commerces/",
+    "image_url": "/images/marchands/marche-de-vilmorin-massy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-villaine-massy",
+    "nom": "Marché de Villaine (Massy)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.734035,
+    "lon": 2.26186,
+    "adresse": "Rue Maurice Thorez, 91300 Massy",
+    "horaires": "Mercredi et samedi de 8h à 13h. D'après la page des commerces et le guide des marchés de la Ville de Massy (édition de mars 2026).",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Boucherie, charcuterie et volailles",
+      "Poisson",
+      "Fleurs"
+    ],
+    "description": "Petit marché de quartier de Villaine, rue Maurice Thorez, près de la gare de Massy-Verrières. Le guide de la Ville y compte deux étals de fruits et légumes, une fromagerie, une boucherie-charcuterie-volailles, une poissonnerie et un fleuriste, avec ponctuellement des plats cuisinés. Point : celui de la rue à la Base Adresse Nationale, à 0,8 km de la mairie de Massy ; la Base ne donne pas de numéro au marché, son emplacement exact dans la rue reste à confirmer. Photo : vue aérienne de la rue, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20Maurice%20Thorez%2C%2091300%20Massy",
+    "site_web": "https://www.ville-massy.fr/sortir/envie-de-commerces/",
+    "image_url": "/images/marchands/marche-de-villaine-massy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-narbonne-massy",
+    "nom": "Marché de Narbonne (Massy)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.735396,
+    "lon": 2.290942,
+    "adresse": "Place de Narbonne, 91300 Massy",
+    "horaires": "Mardi et vendredi de 8h à 13h. D'après la page des commerces et le guide des marchés de la Ville de Massy (édition de mars 2026).",
+    "produits": [
+      "Fruits et légumes",
+      "Légumes d'un maraîcher",
+      "Pommes de terre, ail et oignons",
+      "Boucherie et charcuterie",
+      "Rôtisserie",
+      "Poisson",
+      "Olives et fruits secs",
+      "Traiteurs et pâtisseries"
+    ],
+    "description": "Le plus fourni des quatre marchés de Massy, dans le quartier de Massy-Opéra, à dix minutes à pied de la gare des Baconnets. Le guide de la Ville y compte neuf étals de fruits et légumes, dont un maraîcher et un étal consacré aux pommes de terre, à l'ail et aux oignons, une boucherie, une charcuterie, deux rôtisseries, une poissonnerie, un étal d'olives et de fruits secs et plusieurs traiteurs ; des étals non alimentaires s'y ajoutent ponctuellement. La page de la Ville écrit « allée de Narbonne », son guide « place de Narbonne » : les deux voies se touchent, à 40 m l'une de l'autre à la Base Adresse Nationale. Point : celui de la place, à 1,5 km de la mairie de Massy. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20Narbonne%2C%2091300%20Massy",
+    "site_web": "https://www.ville-massy.fr/sortir/envie-de-commerces/",
+    "image_url": "/images/marchands/marche-de-narbonne-massy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-massy",
+    "nom": "Marché du Centre-Ville (Massy)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.729898,
+    "lon": 2.274174,
+    "adresse": "Rue de la Division Leclerc, 91300 Massy",
+    "horaires": "Dimanche de 8h à 13h. D'après la page des commerces et le guide des marchés de la Ville de Massy (édition de mars 2026).",
+    "produits": [
+      "Fruits et légumes",
+      "Fruits et légumes bio",
+      "Fromages",
+      "Charcuterie",
+      "Poisson",
+      "Huîtres d'un ostréiculteur",
+      "Pain et traiteurs",
+      "Fleurs"
+    ],
+    "description": "Marché du dimanche matin dans le centre ancien de Massy, à deux pas de la mairie. Le guide de la Ville y compte deux étals de fruits et légumes, dont un bio, un fromager, un charcutier, un poissonnier, un ostréiculteur, un boulanger-traiteur, deux autres traiteurs et un fleuriste. Point : celui que l'IGN donne au marché, à 15 m du point de la rue à la Base Adresse Nationale et à 0,2 km de la mairie. Photo : vue aérienne du centre-ville, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20la%20Division%20Leclerc%2C%2091300%20Massy",
+    "site_web": "https://www.ville-massy.fr/sortir/envie-de-commerces/",
+    "image_url": "/images/marchands/marche-du-centre-ville-massy.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-chilly-mazarin",
+    "nom": "Marché de Chilly-Mazarin",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.703357,
+    "lon": 2.320993,
+    "adresse": "31 Avenue Pierre Brossolette, 91380 Chilly-Mazarin",
+    "horaires": "Jeudi et dimanche de 8h à 13h. D'après la page du marché de la Ville de Chilly-Mazarin (www.ville-chilly-mazarin.fr, mise à jour en septembre 2026).",
+    "produits": [
+      "Fruits et légumes",
+      "Champignons et fruits exotiques",
+      "Fromages",
+      "Boucherie, charcuterie et volailles",
+      "Poisson",
+      "Huîtres d'un ostréiculteur",
+      "Fruits et légumes secs",
+      "Plats cuisinés"
+    ],
+    "description": "Marché de Chilly-Mazarin, sous sa halle de l'avenue Pierre Brossolette, à côté de la cité administrative. La Ville y annonce cinq étals de fruits et légumes, deux fromagers, un boucher, un charcutier, un volailler, un poissonnier, un ostréiculteur et plusieurs traiteurs, avec des étals non alimentaires ; sa liste des commerçants date de juillet 2024, la composition peut avoir changé. Point : celui que l'IGN donne au marché, à 30 m du numéro à la Base Adresse Nationale et à 4,8 km de la mairie de Massy, dans la même intercommunalité. Photo : vue aérienne de la halle, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31%20Avenue%20Pierre%20Brossolette%2C%2091380%20Chilly-Mazarin",
+    "image_url": "/images/marchands/marche-de-chilly-mazarin.jpg",
+    "a_confirmer": true
   }
 ]
