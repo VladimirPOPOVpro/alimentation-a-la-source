@@ -13663,6 +13663,20 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (deux centième) : Nord, Wattrelos reprise et Halluin lue, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41** (métropole seule, 66 165 815 habitants). En tête : **Haute-Garonne (31), 5,2659**, mais la passe précédente visait l'Occitanie : exclue par la règle 41.c. Ensuite **Nord (59), 5,2446** (45 fiches), retenu. Seine-Maritime (76), 5,2223. Le Var reste à −213,50.
+
+**Commune.** Dans le Nord, la plus peuplée sans fiche reste Wattrelos (40 847). Douai n'est pas sans fiche (trois fiches déjà publiées), elle n'entre pas dans la descente. Marcq-en-Barœul ne répond pas (code 000). Wattrelos : la page d'accueil du site de la Ville ne mentionne aucun marché ; les horaires des quatre marchés restent non publiés par la Ville (passe précédente, inchangé). Registre de l'Agence Bio, première page du Nord (100 opérateurs) : rien à Wattrelos.
+
+**Halluin (20 715), lue ce soir.** La page « Marchés et braderies » de la Ville donne deux marchés, le samedi de 8h30 à 13h30 sur la place du Général-de-Gaulle et le mercredi de 8h30 à 13h dans la halle. Ces faits sont solides, mais la Ville ne publie ni produits, ni photographie libre du lieu : la fiche ne peut pas passer le validateur (`image_url` obligatoire, `produits` au moins une entrée), et n'est pas publiée. Aucune autre source de commerce n'a été trouvée à Halluin dans cette passe.
+
+**Points d'arrêt** : le Nord reste premier non épuisé. La prochaine passe qui vise le Nord reprendra la descente à Halluin (une fois une photo libre et une liste de produits trouvées), puis Marcq-en-Barœul quand son site répondra.
+
+**Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
 ### Passe du 9 octobre 2026 (cent quatre-vingt-dix-neuvième) : Haute-Garonne, Ramonville-Saint-Agne éprouvée, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
