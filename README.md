@@ -13663,6 +13663,30 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-onzième) : Alès puis Bagnols-sur-Cèze (Gard), aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41**, outre-mer écarté (règle 177) : **Gard (30) 4,1547**, en tête des départements éligibles. La Loire, passe précédente, est exclue par la réserve de la règle 41.c ; Seine-Maritime (4,1517) et Haut-Rhin (4,1510) suivent de très près. Le Gard est donc visé de nouveau, sans passe intermédiaire dans la même région.
+
+**Commune.** Nîmes a déjà quatre fiches et Caissargues une cinquième : Nîmes n'est plus la commune « sans fiche ». La plus peuplée sans fiche est **Alès** (46 125 habitants). Elle ne rend qu'une fiche solide : **La Ferme du Coin**, magasin de producteurs, 1 bis avenue Marcel Cachin (téléphone et horaires confirmés par l'office de tourisme du Gard et par Que Choisir). Le registre de l'Agence Bio, lu par filtrage sur Alès, ne donne aucun vendeur aux particuliers exploitable ; les autres noms relèvent d'exploitants inscrits sous un nom de personne (écartés, règle 309). La So.bio de la rue André Malraux n'est pas retenue : son seul relevé d'horaires vient d'un blog qui affiche aussi les coordonnées d'un autre magasin, avec un téléphone sans rapport avec Alès. Les Halles de l'Abbaye existent (dossier d'appel à intérêt de la Ville), mais leurs jours et horaires de marché n'ont pas pu être établis.
+
+**Descente à Bagnols-sur-Cèze** (18 112 habitants, aucune fiche). Candidats relus :
+- **La Clef des Champs**, magasin de producteurs, 7 place Bertin Boissin, téléphone 04 66 39 17 54, mardi et mercredi 9h-12h30, vendredi 9h-12h30 et 15h30-19h (Que Choisir ; la carte n'a pas de date de mise à jour).
+- **MyBioShop**, magasin bio, 2 rue Ernest Euzeby, téléphone 04 66 79 81 25, lundi-vendredi 9h-19h30, samedi 9h-19h, dimanche 9h-13h (Que Choisir).
+- **Biocoop**, 88 route de Lyon, téléphone 04 66 39 81 20 (annuaire bible-marques.fr). Horaires introuvables : fiche possible seulement avec horaires laissés « à confirmer ».
+- **Marché hebdomadaire**, le mercredi de 8h à 13h, boulevard Lacombe et places Bertin-Boissin et Pierre-Boulot (office de tourisme et agenda 2025). Marché généraliste, pas un marché de producteurs.
+
+Écartés : Marcel & Fils, fermé à Bagnols en janvier 2024 (Objectif Gard) ; « Le Market », route de Nîmes, qui est un supermarché Carrefour Market ; le Mas des Agriculteurs, qui n'ouvrira qu'en 2027. Le marché de producteurs du samedi (place Auguste Mallet) n'a valu que pour l'été 2026, saison close.
+
+**Pourquoi rien n'est publié.** Ni Alès ni Bagnols ne rendent cinq commerces vérifiables : Alès en rend un, Bagnols trois ou quatre selon le statut de la Biocoop et la place accordée au marché généraliste. La zone ne se forme pas à cinq (règles 96 et 127), et l'on ne publie pas une zone partielle éparpillée.
+
+**Pistes non publiées** : Alès, La Ferme du Coin (fiche solide, à reprendre si Alès rend quatre autres points). Bagnols-sur-Cèze, Biocoop (horaires à confirmer), marché du mercredi (catégorie `marche`, à décider lors de la reprise).
+
+**Point d'arrêt.** Gard, la reprise devra compléter Bagnols ou revenir à Alès ; la passe suivante ne peut pas viser le Gard puisque celle-ci l'a visé (règle 41.c).
+
+**Contradictions** (règle 5) : Alès, So.bio (horaires et téléphone sans cohérence avec la ville), non publié.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-dixième) : Loire, Feurs éprouvée, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
