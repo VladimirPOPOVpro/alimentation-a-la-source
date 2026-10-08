@@ -13663,6 +13663,32 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-sixième) : Saint-Gilles (Gard), une fiche entière désignée pour la reprise, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée, une fiche désignée pour la reprise.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41**, outre-mer écarté (règle 177), sur 1 266 fiches : Gard (30) **4,1547**, Seine-Maritime 4,1517, Haut-Rhin 4,1510, Haute-Garonne 4,0167. La passe précédente visait l'Auvergne-Rhône-Alpes (Loire) ; le Gard est donc ouvert (règle 41.c). Commune retenue : **Saint-Gilles** (14 734 habitants), la plus peuplée du Gard sans aucune fiche. Alès et Bagnols-sur-Cèze, plus peuplées, ont déjà été éprouvées à zéro ; Beaucaire est pourvue depuis une passe antérieure.
+
+**Ce qui a été lu.** Le site du producteur (lesdelicesduscamandre.fr, en ligne, page d'accueil et « à propos ») : ferme biologique de petite Camargue, boutique sur l'exploitation, visites des taureaux sur réservation tous les matins, téléphone et adresse concordants. Office de tourisme du Gard et Tourisme Occitanie, fiche « Les délices du Scamandre » mise à jour le 14 novembre 2025 : ouverture toute l'année tous les jours de 9 h à 20 h, Mas de Madame, route des Iscles (D179), 30800 Saint-Gilles, Bienvenue à la ferme. Produits lus sur le site : riz de Camargue IGP bio, pois chiches bio, farine bio, viande de taureau, agneau, charcuterie, terrines, plats cuisinés. Les noms des membres de la famille, présents sur la fiche touristique, ne sont pas repris (règle 309). Le téléphone est celui que le commerce publie pour sa clientèle.
+
+**Désignée pour la reprise (règle 258)** : Les délices du Scamandre, Mas de Madame, Saint-Gilles. Elle ne s'utilise qu'avec ses quatre voisines entières à Saint-Gilles, sans quoi la zone n'est pas formée à cinq (règles 96 et 127). Photographie : l'image du site du producteur (og:image) à vérifier avant usage, pas de visage identifiable.
+
+**Pourquoi rien n'est publié.** Saint-Gilles n'a pour l'instant qu'une fiche entière.
+- **Ganaderia du Scamandre** : même exploitation, même adresse, fiche touristique distincte ; un doublon, pas une fiche de plus.
+- **Marché** : aucun jour ni horaire vérifié. Le site jours-de-marche ne donne qu'un jour sans précision, et les autres résultats concernent Saint-Gilles-Croix-de-Vie ou Bruxelles (règle 197).
+- **AMAP** : aucune trace de distribution à Saint-Gilles ; un maraîcher de la commune fournit une AMAP marseillaise, hors zone.
+- **Magasin bio** : aucun commerce indépendant trouvé à Saint-Gilles en recherche.
+- **Château La Baume** et **Château d'Or et de Gueules** : vente à la propriété, horaires lus sur la seule fiche touristique (règle 5 non recoupée) ; domaines viticoles, à ne pas compléter en masse.
+- **Château Guiot** : vente à la propriété sur rendez-vous, pas d'horaires publiés.
+- **Le Petit Cambon**, **Mas Neuf de la Motte** (ferme figurant à l'annuaire de l'Agence Bio) : aucune trace de vente directe trouvée en recherche ; non publiées.
+- **Registre bio** : plusieurs dizaines d'opérateurs à Saint-Gilles, surtout grossistes ou agriculteurs sans vente particulière ; plusieurs sont inscrits sous un nom de particulier ou comme exploitants individuels — doute sur une personne, non instruits, ne se rouvrent pas.
+
+**Pistes non publiées** : Saint-Gilles, exploitants individuels du registre bio inscrits sous leur nom — doute sur une personne, écartés. Saint-Gilles, Le Petit Cambon et Mas Neuf de la Motte — rien de vérifié.
+
+**Points d'arrêt** : Gard, la descente reprend à **Saint-Gilles** ; Vauvert (11 671 habitants) suit si Saint-Gilles ne rend pas cinq fiches entières.
+
+**Contradictions** (règle 5) : horaires de la boutique, « 9 h au soir » sur la fiche touristique et « 9 h à 20 h » sur la fiche de Tourisme Occitanie : retenus à 9 h - 20 h, source la plus récente.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-cinquième) : Saint-Chamond (Loire), une fiche entière désignée pour la reprise, aucune publication
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche publiée, une fiche désignée pour la reprise.**
