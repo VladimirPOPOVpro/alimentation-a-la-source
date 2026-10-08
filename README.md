@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-dixième) : Loire, Feurs éprouvée, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41**, outre-mer écarté (règle 177) : **Loire (42) 4,2134**, en tête ; Gard (30) 4,1547, exclu puisque c'est la passe précédente (règle 41.c) ; Seine-Maritime 4,1517 et Haut-Rhin 4,1510 derrière. La Loire est ouverte. Commune : la plus peuplée sans aucune fiche est Saint-Chamond, éprouvée les passes précédentes sans zone ; descente à **Feurs** (8 367), point de reprise consigné, puis Sorbiers.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, quatorze cents opérateurs de la Loire, filtrés sur les vendeurs aux particuliers des communes voisines de Feurs : pour Feurs même, aucun domaine de vente directe ; les autres noms relèvent d'exploitants inscrits sous un nom de personne (doute sur une personne, écartés, règle 309). Recherche web : annuaires de magasins de producteurs, office de tourisme (Loire Tourisme, Rendez-vous en Forez), jours de marché.
+
+**Pourquoi rien n'est publié.** Feurs ne rend qu'un point vérifiable : la **Ferme des Trois Monts**, magasin de producteurs en zone industrielle du Forum (horaires mercredi 14h30-19h, jeudi et vendredi 8h30-12h30 puis 14h30-19h, samedi 8h30-12h30, selon Rendez-vous en Forez et PagesJaunes ; Mappy l'affiche fermé à l'instant de la consultation, ce qui ne tranche rien). Son statut d'activité au registre n'a pas été relu : fiche non instruite jusqu'au bout. La zone ne se forme pas à cinq (règles 96 et 127).
+
+**Pistes non publiées** : Feurs, marché de la place de la Mairie : **contradiction** entre sources sur le jour (mardi chez Rendez-vous en Forez, Tuyo et Jours-de-Marché ; samedi chez Loire Tourisme), donc rien n'est publié (règle 5). Feurs, Pouilly-les-Feurs (la Ferme du Blaireau, vente directe déclarée au registre) : non instruite cette passe.
+
+**Points d'arrêt** : Loire, la descente reprend à **Sorbiers** (8 116) après Feurs. Gard, Saint-Gilles et Vauvert restent en attente, la passe suivante ne pouvant pas viser le Gard.
+
+**Contradictions** (règle 5) : Feurs, jour du marché (mardi contre samedi), non publié.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-neuvième) : Gard, Saint-Gilles reprise, Vauvert en piste, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
