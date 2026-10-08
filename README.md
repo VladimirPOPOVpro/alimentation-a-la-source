@@ -5748,9 +5748,35 @@ prioritaires en cas de conflit.
      de vérification ne baisse. **Ce que la règle débloque** : dans la même passe, les troisième et quatrième points
      du groupe de Vesoul, publié à quatre par la règle 453.
 
+458. **Le résumé qu'une passe fait d'une commune écartée ne vaut pas sa note d'origine : quand la relecture depuis le
+     haut passe au-dessus d'une commune « écartée sur les faits », elle relit la note, puis la page ; et un marché dont
+     la Ville écrit le jour, l'heure et le lieu est entier quand l'agence départementale écrit ses familles de
+     produits.** Le 8 octobre 2026 (cent quatre-vingt-troisième passe), le Val-d'Oise mène le classement et son point
+     d'arrêt désigne Gonesse. La passe du 7 octobre rangeait Pontoise (31 970 habitants, plus peuplée que Gonesse)
+     parmi les communes « écartées le 23 septembre sur les faits » ; la note du 23 septembre dit autre chose : Pontoise
+     avait été quittée parce que ses mentions légales ferment les photographies, ce que la règle 432 a levé depuis.
+     Relue ce jour, la page de la Ville porte trois marchés avec leur jour, leurs heures, leur place et leurs
+     produits. À Saint-Ouen-l'Aumône, la Ville écrit les deux séances et la place, mais ne nomme aucun produit
+     alimentaire ; la fiche de l'agence départementale, aux mêmes heures, écrit « fruits et légumes, viandes et
+     poissons ». **Tranché ainsi** : (a) dans une relecture des règles 446 et 448, une commune sans fiche placée
+     au-dessus du point d'arrêt et résumée « écartée sur les faits » se contrôle sur sa note d'origine ; si l'écart
+     était d'image, sa page est relue dans la passe et elle reprend son rang ; (b) la règle 197 demande qu'« une
+     source » écrive une famille de produits : l'agence départementale en est une quand ses jours et ses heures sont
+     ceux de la Ville, et la fiche dit de qui vient quoi ; (c) quand la Ville et l'agence s'écartent d'une
+     demi-heure, l'heure de la Ville, datée, se publie et l'autre se dit ; (d) les clauses de l'agence et de la Ville
+     qui interdisent la reproduction ferment leurs textes et leurs images, pas la lecture des faits : rien n'est
+     recopié, aucun lien n'est inscrit. Aucune exigence de vérification ne baisse. **Ce que la règle débloque** :
+     dans la même passe, les cinq marchés de Pontoise, d'Osny et de Saint-Ouen-l'Aumône.
+
 ## Marchands à confirmer
 
-1122 fiches sur 1256 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1127 fiches sur 1261 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché du centre-ville de Pontoise**, **Marché des Cordeliers** et **Marché de la Gare** (Pontoise), **Marché
+  dominical d'Osny** et **Marché de Saint-Ouen-l'Aumône** (passe du 8 octobre 2026, cent quatre-vingt-troisième,
+  règles 432, 437 et 458) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; la page des
+  marchés de Pontoise n'est datée que par son plan de site (21 août 2026) ; le marché d'Osny ouvre à 8h30 pour la
+  Ville et à 8h pour l'agence départementale ; les familles de produits du marché de Saint-Ouen-l'Aumône ne sont
+  écrites que par l'agence départementale, et la page de la Ville date de mars 2025.
 - **Marché de Vesoul** et **Esprit Paysan Vesoul** (Vesoul), **AMAP Île Verte** et **Distributeur Les Apicocottes**
   (Échenoz-la-Méline) (passe du 8 octobre 2026, cent quatre-vingt-deuxième, règles 432, 447, 453 et 457) : les quatre
   fiches portent une vue aérienne de l'IGN, qui ne montre ni étal, ni vitrine, ni distributeur ; les heures du marché
@@ -13582,6 +13608,96 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-uniè
   groupe étant complet. **Déblocage** : des heures de vente publiées par la brasserie.
 - **Verrières-le-Buisson et Igny, marchés** : sites des Villes servis à l'agent par défaut, pages des marchés non
   cherchées plus avant, le groupe étant complet ; à lire à la prochaine descente.
+
+### Pistes non publiées à Pontoise et dans l'agglomération de Cergy-Pontoise
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-troisième), avec le déblocage de chacune.
+
+- **Pontoise, marché du samedi du quartier des Louvrais** : l'agence départementale et l'office de tourisme le
+  fichent (samedi 7h-13h), la page des marchés de la Ville ne l'écrit pas (règle 196). **Déblocage** : le marché sur
+  la page de la Ville.
+- **Puiseux-Pontoise, cueillette à la ferme et sa boutique de produits locaux** : fichée par l'agence départementale
+  avec ses heures ; non instruite (registre, site, saison), le groupe étant complet. **À instruire** à la prochaine
+  passe dans l'agglomération : c'est le premier candidat.
+- **Éragny-sur-Oise, Jouy-le-Moutier, Courdimanche, marchés** : fichés par l'agence départementale et l'office de
+  tourisme ; pages des Villes non relues à cette passe, le groupe étant complet (le 23 septembre : ni heure ni
+  produit à Éragny). **Déblocage** : jour, heure, lieu et une famille de produits relus sur la page de la Ville.
+- **Menucourt, marché** : le `robots.txt` de la commune exclut nommément une liste de robots ; le site n'est pas lu
+  (règle 425). **Déblocage** : le marché publié par deux autres autorités (règle 438).
+- **Pontoise, exploitation apicole du registre bio** : inchangée — adresse vraisemblablement personnelle, écartée
+  pour doute sur une donnée personnelle le 23 septembre, ne se rouvre pas.
+- **Gonesse** : aucun marché publié par la Ville avec jour et heure (page des commerces et page du commerce non
+  sédentaire relues). **Cormeilles-en-Parisis** : toute utilisation des contenus soumise à l'autorisation écrite de la
+  mairie (règle 416). **Sannois** : interdiction de reproduire tout élément du site, textes compris, hors usage privé
+  (règles 416 et 454). **Bezons** : page du marché couvert toujours vide. **Déblocage** de chacune : les mêmes faits
+  publiés par une autre autorité lisible.
+- **Arnouville, marché couvert** : désigné pour la reprise par la règle 432, non relu à cette passe — Gonesse, sa
+  voisine, ne rendant rien, il reste isolé dans son intercommunalité. Il reste désigné.
+
+### Passe du 8 octobre 2026 (cent quatre-vingt-troisième) : Pontoise, Osny et Saint-Ouen-l'Aumône (Val-d'Oise), cinq marchés dans l'agglomération de Cergy-Pontoise ; règle 458
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
+1 261 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 256
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Val-d'Oise (95)
+4,35**, dix-neuf fiches, ouvert — la passe précédente visait la Bourgogne-Franche-Comté (règle 41.c) ; puis Morbihan
+4,27, Loire 4,10, Gard 4,04, Haut-Rhin 4,04. `git fetch` fait avant le calcul et avant l'écriture : `origin/main`
+n'avait pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règles 41.d, 446 et 458), sous l'agent par défaut,
+`robots.txt` et mentions légales lus avant les pages (règles 402 et 425).
+
+1. **Sarcelles, Garges-lès-Gonesse, Franconville** — fermées le 7 octobre (aucune page de marché ; 403 et clause
+   d'usage privé ; règle 416) : non relues, rien n'y a changé de règle.
+2. **Bezons** (36 434) — relue : la page « Le marché couvert » n'est toujours qu'un titre et une date. Zéro.
+3. **Pontoise** (31 970) — résumée à tort « écartée sur les faits » le 7 octobre ; la note du 23 septembre l'écartait
+   pour ses seules images (règle 458.a). Relue ce jour : le `robots.txt` n'exclut personne ; les mentions légales
+   interdisent la reproduction du site, photographies nommées (règles 231 et 246) — aucune image ni aucun texte
+   n'est repris, aucun lien inscrit. La page « Les marchés de Pontoise » (plan de site : 21 août 2026) écrit
+   **trois marchés aux faits entiers** : la commune fait la passe (règle 127).
+4. **Gonesse, Cormeilles-en-Parisis, Sannois** — relues aussi, puisque le point d'arrêt les désignait : rien (voir
+   les pistes).
+
+L'agglomération de Cergy-Pontoise complète à cinq avec Osny et Saint-Ouen-l'Aumône (règles 96 et 363).
+
+Sources lues et retenues : la page des marchés de la Ville de Pontoise ; la page « Le marché dominical » de la Ville
+d'Osny (mise à jour le 28 mai 2026) ; la page « Le marché de Saint-Ouen l'Aumône » de la Ville (mise à jour le
+10 mars 2025 ; réutilisation non commerciale admise avec la source et la date) ; les fiches de l'agence
+départementale du tourisme, lues pour recouper jours, heures et lieux et pour les familles de produits de
+Saint-Ouen-l'Aumône (règle 458.b et d) ; la Base Adresse Nationale. L'office de tourisme de Cergy-Pontoise sert
+l'agent par défaut, mais ses mentions réservent ses informations à l'usage personnel (règle 454) : seul son plan de
+site a été lu, aucune de ses fiches ne nourrit la passe.
+
+1. **Marché du centre-ville de Pontoise** — samedi 7h-13h, rue et place de l'Hôtel de Ville ; Ville et agence
+   identiques. Place à la Base (0,963).
+2. **Marché des Cordeliers** (Pontoise) — vendredi 7h30-13h, place Van Gogh ; Ville et agence identiques. Place à la
+   Base (0,958). À 1,0 km de l'hôtel de ville.
+3. **Marché de la Gare** (Pontoise) — mercredi 13h-20h, place du Général de Gaulle ; Ville et agence identiques.
+   Place à la Base (0,963). À 0,5 km.
+4. **Marché dominical d'Osny** — dimanche 8h30-13h, parvis de la MéMO, 2 place des Impressionnistes ; liste des étals
+   par métier publiée par la Ville. Numéro à la Base (0,957). À 3,0 km. La page nomme les commerçants : aucun nom
+   n'est repris et la page n'est pas mise en lien (règle 383).
+5. **Marché de Saint-Ouen-l'Aumône** — mercredi 9h-12h30 et dimanche 9h-13h, place Pierre Mendès France et marché
+   couvert ; heures identiques chez la Ville et l'agence, familles de produits écrites par l'agence seule. Place à
+   la Base (0,958). À 0,9 km.
+
+Aucune des trois communes n'avait de fiche (aucun doublon ; la fiche la plus proche, à Cergy, est à
+1,7 km). Les cinq points tiennent dans 3,8 km. Les cinq images sont des vues aériennes de l'IGN (1 280 × 800,
+règle 432), regardées une à une — ni personne reconnaissable, ni enseigne lisible. Toutes les fiches partent en
+`a_confirmer`, sans `site_web` ni téléphone : le seul numéro publié est celui d'un service municipal.
+
+**Contradictions** (règle 5) : à Osny, la Ville ouvre le marché à 8h30 et l'agence départementale à 8h, et leurs
+listes d'étals ne se recouvrent qu'en partie — la fiche publie l'heure et les métiers de la Ville, datés, et dit
+l'heure de l'agence (règle 458.c). **Fiches écartées pour doute sur une personne ou une donnée personnelle** :
+aucune instruite à cette passe ; aucun des noms que portent les pages lues (commerçants, agents) n'est repris, ni
+ici, ni dans une fiche, ni dans un nom de fichier. **Laissé de côté volontairement** : tout ce que la section des
+pistes énumère, d'abord la cueillette de Puiseux-Pontoise.
+
+**Points d'arrêt** : dans le **Val-d'Oise**, la relecture depuis le haut reprend à **Herblay-sur-Seine** (31 779),
+à contrôler d'abord sur sa note d'origine (règle 458.a), puis **Goussainville** et **Villiers-le-Bel**, de même ;
+Gonesse, Cormeilles-en-Parisis et Sannois sont faites. Dans l'agglomération de Cergy-Pontoise, la cueillette de
+Puiseux-Pontoise est le premier candidat. Après la passe, sur 1 261 fiches : Morbihan 4,33, Loire 4,16, Gard 4,10,
+Haut-Rhin 4,10, Seine-Maritime 4,06 ; le Val-d'Oise retombe à −0,56. La région de cette passe est l'Île-de-France
+(règle 41.c).
 
 ### Passe du 8 octobre 2026 (cent quatre-vingt-deuxième) : Vesoul et Échenoz-la-Méline (Haute-Saône), quatre fiches dans l'agglomération de Vesoul ; le département se rouvre par la règle 432 ; règle 457
 

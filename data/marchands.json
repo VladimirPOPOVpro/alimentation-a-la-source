@@ -33227,5 +33227,133 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32%20Avenue%20Pasteur%2C%2070000%20%C3%89chenoz-la-M%C3%A9line",
     "image_url": "/images/marchands/distributeur-les-apicocottes-echenoz-la-meline.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-centre-ville-pontoise",
+    "nom": "Marché du centre-ville de Pontoise",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.05048,
+    "lon": 2.100083,
+    "adresse": "Place de l'Hôtel de Ville, 95300 Pontoise",
+    "horaires": "Samedi de 7h à 13h, d'après la Ville de Pontoise et l'agence départementale Val d'Oise Tourisme.",
+    "produits": [
+      "Viandes",
+      "Fromages",
+      "Charcuterie",
+      "Huîtres et poissons",
+      "Légumes de saison",
+      "Champignons",
+      "Pains et brioches",
+      "Épices"
+    ],
+    "description": "Marché du samedi matin dans la rue et sur la place de l'Hôtel de Ville, au cœur de Pontoise : la Ville y annonce des viandes labellisées, des fromages de Savoie, des huîtres de l'île d'Oléron, des légumes de saison et des pains bio faits maison, à côté d'étals de vêtements et de bijoux. Elle compte soixante-dix artisans et commerçants sur l'ensemble de ses marchés. Jour, heures, lieu et produits sont ceux que publie la Ville, identiques sur la fiche de Val d'Oise Tourisme. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la place de l'Hôtel de Ville et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20l%27H%C3%B4tel%20de%20Ville%2C%2095300%20Pontoise",
+    "image_url": "/images/marchands/marche-du-centre-ville-pontoise.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-cordeliers-pontoise",
+    "nom": "Marché des Cordeliers (Pontoise)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.058909,
+    "lon": 2.09521,
+    "adresse": "Place Van Gogh, 95300 Pontoise",
+    "horaires": "Vendredi de 7h30 à 13h, d'après la Ville de Pontoise et l'agence départementale Val d'Oise Tourisme.",
+    "produits": [
+      "Viande bovine",
+      "Volailles",
+      "Boudin blanc",
+      "Moules de bouchot",
+      "Fruits et légumes",
+      "Fleurs"
+    ],
+    "description": "Marché de quartier du vendredi matin, place Van Gogh, dans le quartier des Cordeliers, à un kilomètre au nord de l'hôtel de ville de Pontoise : viande bovine, volailles, moules de bouchot, fruits et légumes et bouquets, d'après la Ville, avec de la restauration à emporter. Jour, heures, lieu et produits sont ceux que publie la Ville, identiques sur la fiche de Val d'Oise Tourisme. Place géocodée à la voie par la Base Adresse Nationale. Photo : vue aérienne de la place Van Gogh et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Van%20Gogh%2C%2095300%20Pontoise",
+    "image_url": "/images/marchands/marche-des-cordeliers-pontoise.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-la-gare-pontoise",
+    "nom": "Marché de la Gare (Pontoise)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.047586,
+    "lon": 2.095693,
+    "adresse": "Place du Général de Gaulle, 95300 Pontoise",
+    "horaires": "Mercredi de 13h à 20h, d'après la Ville de Pontoise et l'agence départementale Val d'Oise Tourisme.",
+    "produits": [
+      "Rôtisserie",
+      "Miel du Vexin",
+      "Fruits et légumes",
+      "Plats asiatiques à emporter"
+    ],
+    "description": "Marché d'après-midi et de début de soirée, le mercredi, sur la place du Général de Gaulle, devant la gare de Pontoise : rôtisserie, miel du Vexin, fruits et légumes et plats à emporter, d'après la Ville, à côté d'étals de vêtements, de chaussures et d'accessoires. C'est le seul des trois marchés que publie la Ville qui se tienne l'après-midi. Jour, heures, lieu et produits sont ceux que publie la Ville, identiques sur la fiche de Val d'Oise Tourisme. Place géocodée à la voie par la Base Adresse Nationale, à 500 m de l'hôtel de ville. Photo : vue aérienne de la place et de la gare routière, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2095300%20Pontoise",
+    "image_url": "/images/marchands/marche-de-la-gare-pontoise.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-dominical-osny",
+    "nom": "Marché dominical d'Osny",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.060325,
+    "lon": 2.061017,
+    "adresse": "2 Place des Impressionnistes, 95520 Osny",
+    "horaires": "Dimanche de 8h30 à 13h, d'après la Ville d'Osny (page mise à jour le 28 mai 2026) ; l'agence départementale Val d'Oise Tourisme l'écrit dès 8h.",
+    "produits": [
+      "Fromages",
+      "Poissons",
+      "Fruits et légumes",
+      "Légumes de maraîcher",
+      "Volailles rôties",
+      "Olives et fruits secs"
+    ],
+    "description": "Petit marché du dimanche matin sur le parvis de la MéMO, place des Impressionnistes, à Osny : neuf étals dont la Ville publie la liste — fromager, poissonnier-traiteur, primeur, maraîcher, rôtisseur, olives et fruits secs —, plusieurs venus d'Osny et des villages du Vexin, et des macarons et terrines deux dimanches par mois. L'heure d'ouverture diffère d'une demi-heure entre la Ville et l'agence départementale : c'est celle de la Ville, datée, qui est retenue. Adresse géocodée au numéro par la Base Adresse Nationale, à 3 km de l'hôtel de ville de Pontoise. Photo : vue aérienne du parvis et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Place%20des%20Impressionnistes%2C%2095520%20Osny",
+    "image_url": "/images/marchands/marche-dominical-osny.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-saint-ouen-l-aumone",
+    "nom": "Marché de Saint-Ouen-l'Aumône",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 49.044198,
+    "lon": 2.106862,
+    "adresse": "Place Pierre Mendès France, 95310 Saint-Ouen-l'Aumône",
+    "horaires": "Mercredi de 9h à 12h30 et dimanche de 9h à 13h, d'après la Ville de Saint-Ouen-l'Aumône (page mise à jour le 10 mars 2025) et l'agence départementale Val d'Oise Tourisme.",
+    "produits": [
+      "Fruits et légumes",
+      "Viandes",
+      "Poissons",
+      "Produits exotiques"
+    ],
+    "description": "Marché du centre-ville de Saint-Ouen-l'Aumône, sur la place Pierre Mendès France et sous le marché couvert, que la commune gère elle-même en régie : commerces de bouche et étals de vêtements, de chaussures et de maroquinerie. La Ville signale deux heures de stationnement gratuit le dimanche matin au parc relais de la rue de l'Oise. Jours, heures et lieu sont ceux que publie la Ville ; les familles de produits ne sont écrites que par l'agence départementale Val d'Oise Tourisme. Place géocodée à la voie par la Base Adresse Nationale, à moins d'un kilomètre de l'hôtel de ville de Pontoise, sur l'autre rive de l'Oise. Photo : vue aérienne de la place et de ses abords, hors jour de marché — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Pierre%20Mend%C3%A8s%20France%2C%2095310%20Saint-Ouen-l%27Aum%C3%B4ne",
+    "image_url": "/images/marchands/marche-de-saint-ouen-l-aumone.jpg",
+    "a_confirmer": true
   }
 ]
