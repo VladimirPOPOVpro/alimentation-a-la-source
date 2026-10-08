@@ -5689,10 +5689,35 @@ prioritaires en cas de conflit.
      **Ce que la règle débloque** : dans la même passe, le cinquième point du groupe de Saint-Médard-en-Jalles.
      **Déblocage** de la réserve : les heures du magasin publiées par la Ville, la Chambre d'agriculture ou un site
      sans cette clause.
+455. **Quand la Base Adresse Nationale ne connaît pas le numéro d'un marché et que le repère de carte d'un office tombe
+     loin des numéros voisins, le point est celui du numéro voisin à la Base, pourvu que la vue aérienne y montre la
+     place ; et un marché baptisé d'après un équipement qui porte le nom d'une personne se nomme par son quartier.** Le
+     8 octobre 2026 (cent soixante-dix-neuvième passe), à Rueil-Malmaison, la Ville et l'office de tourisme placent
+     un marché du dimanche « au 60 » d'une rue dont la Base ne connaît que le 58 et le 62, à quarante mètres l'un de
+     l'autre ; le repère de carte de l'office tombe à 430 m de là, au milieu de pavillons. La règle 10 fait retenir le
+     marqueur d'une autorité quand la Base n'a que l'axe d'une voie ; elle ne dit rien d'un marqueur que la Base
+     contredit. **Tranché ainsi** : (a) deux numéros voisins connus de la Base encadrent l'adresse écrite et valent
+     mieux qu'un marqueur isolé ; (b) la vue aérienne de l'IGN, regardée aux deux endroits, départage — ici une place
+     piétonne à fontaine au numéro 62, des jardins privés au marqueur ; (c) la fiche dit l'écart et le point retenu, et
+     part en `a_confirmer` ; (d) quand le marqueur de l'office et un point d'intérêt de l'IGN concordent à quelques
+     dizaines de mètres, la règle 10 joue comme avant (marché du samedi de la même commune). Pour le nom : le second
+     marché porte, dans les deux sources, le nom du stade où il se tient, lui-même formé du prénom et du nom d'une
+     personne ; la règle 342 s'étend du lieu de remise à l'intitulé du marché, que la fiche écrit par le nom du
+     quartier, comme l'office le fait en légende de ses images. Le nom d'une place ou d'une rue reste un nom de lieu
+     (règle 259). **Ce que la règle débloque** : dans la même passe, les deux fiches de Rueil-Malmaison qui ouvrent la
+     zone au titre de la règle 127.
 
 ## Marchands à confirmer
 
-1103 fiches sur 1237 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1108 fiches sur 1242 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Rueil-sur-Seine** et **Marché de la place Noutary** (Rueil-Malmaison), **Marché des Avelines**
+  (Saint-Cloud), **Marché des Bergères** et **Marché Chantecoq** (Puteaux) (passe du 8 octobre 2026, cent
+  soixante-dix-neuvième, règles 96, 127, 432 et 455) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre
+  aucun étal ; à Rueil-Malmaison, les listes d'étals datent du lancement du marché du samedi et de 2023 pour celui du
+  dimanche, la Ville ne les redonne pas ; le marché du samedi est placé au repère de l'office de tourisme, celui du
+  dimanche au numéro voisin de la Base Adresse Nationale, à 430 m du repère de l'office (règle 455) ; la page de la
+  Ville de Saint-Cloud n'est pas datée ; le marché des Bergères est placé au point que l'IGN lui donne, la Base ne
+  connaissant pas son numéro ; les deux marchés de Puteaux n'ont que leur Ville pour source des jours et des étals.
 - **Marché municipal de Saint-Médard-en-Jalles** et **AMAP des Jalles** (Saint-Médard-en-Jalles), **Marché de
   Migron** et **Casiers fermiers d'Eysines** (Eysines) et **Marché du bourg** (Le Taillan-Médoc) (passe du 8 octobre
   2026, cent soixante-dix-huitième, règles 96, 127, 432 et 454) : les cinq fiches portent une vue aérienne de l'IGN,
@@ -13469,6 +13494,105 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Rueil-Malmaison, à Saint-Cloud et dans l'ouest des Hauts-de-Seine
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent soixante-dix-neuvième), avec le déblocage de chacune.
+
+- **Rueil-Malmaison, marché bio du dimanche matin** (place de l'église, de 8h à 13h, Ville et office de tourisme
+  concordants) : aucune des deux sources n'écrit un métier ni une famille de produits au-delà de « produits bio »
+  (règle 197). **Déblocage** : une liste d'étals ou une page propre au marché. C'est la première fiche à rouvrir dans
+  la commune.
+- **Rueil-Malmaison, marché du centre-ville** (mardi et samedi de 8h à 13h) et **marché de Buzenval** (mardi et
+  vendredi de 8h à 13h) : jours, heures et places concordants, mais ni la Ville ni l'office ne nomment ce qu'on y
+  achète — « commerçants alimentaires et non alimentaires », « produits du terroir » (règle 197). **Déblocage** : le
+  même.
+- **Rueil-Malmaison, marché de l'écoquartier** (mercredi et dimanche de 8h à 13h) : la Ville écrit, dans un article
+  modifié le 22 avril 2026, qu'il a quitté son ancien site le 12 octobre 2025 pour la place centrale de l'écoquartier
+  et qu'il a changé de nom ; l'office de tourisme le publie encore sous l'ancien nom, à l'ancienne adresse (règle 5 :
+  la Ville, plus récente, l'emporte). Aucune famille de produits écrite (règle 197). **Déblocage** : une liste
+  d'étals à la nouvelle adresse.
+- **Rueil-Malmaison, halle gourmande de l'écoquartier** : dix-sept comptoirs de restauration et un bar, d'après
+  l'office de tourisme ; hors sujet, non instruite.
+- **Rueil-Malmaison, AMAP et registre de l'Agence Bio** : non relus, la zone s'étant formée sur les marchés ; les
+  deux AMAP notées le 24 septembre restent où cette note les a laissées (règle 243 pour l'une, aucune source datée
+  pour l'autre).
+- **Saint-Cloud, marché des Coteaux** (dimanche matin, rue Albert-Ier ; primeurs, poissonnerie, boulangerie,
+  rôtisseur, produits italiens, traiteur) et **marché du Centre** (vendredi matin, rue de l'Église ; poissonnerie,
+  primeurs, traiteur) : la Ville écrit le jour et les métiers, pas les heures (règle 192, lue strictement : « matin »
+  n'est pas une heure d'ouverture). **Déblocage** : des heures écrites par la Ville ; ils se publient alors à leur
+  rang, la zone existant déjà.
+- **Suresnes, Garches et Vaucresson** : leurs sites répondent à l'agent par défaut et leurs `robots.txt` ne ferment
+  rien d'utile ; aucune page de marché n'a été lue, le groupe étant complet. Suresnes, notée « aucune connexion » le
+  24 septembre, se rouvre donc à son rang.
+- **Écartées pour doute sur une personne** : aucune fiche instruite puis écartée.
+
+### Passe du 8 octobre 2026 (cent soixante-dix-neuvième) : Rueil-Malmaison, Saint-Cloud et Puteaux (Hauts-de-Seine), cinq fiches dans l'ouest de la Métropole du Grand Paris ; règle 455
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
+1 242 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 237
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Hauts-de-Seine (92)
+4,69**, vingt-cinq fiches, ouverts ; la passe précédente a publié en Nouvelle-Aquitaine, l'Île-de-France est ouverte
+(règle 41.c) ; puis Jura 4,63, Haute-Saône 4,18, Morbihan 4,05. `git fetch` fait avant le calcul et avant le commit :
+`origin/main` n'a pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règle 41.d). Le point d'arrêt écrit était Montrouge,
+mais sept communes plus peuplées — de Rueil-Malmaison à Suresnes — n'ont toujours aucune fiche, et les notes du
+24 septembre les montrent quittées pour la seule image (règles 231 et 246) ou sous le nom d'emprunt de la règle 257 :
+la règle 432 les rouvre à leur rang, comme les règles 446 et 448 l'ont fait ailleurs. Sous l'agent par défaut,
+`robots.txt` d'abord (règle 425) — aucun des sites lus ne nomme d'agent d'IA ; le délai de cinq secondes que demande
+celui de l'office de tourisme a été tenu.
+
+1. **Rueil-Malmaison** (82 874) — la Ville publie six marchés avec jour, heures et place (page modifiée le 21 avril
+   2026), l'office de tourisme tient une fiche par marché (calendrier 2026). Deux d'entre eux ont leurs métiers
+   écrits : **deux fiches entières** dans la commune (règle 127). Le territoire intercommunal (Paris Ouest La
+   Défense ; champ `epci` 200054781, celui de la Métropole, borné par la distance au titre de la règle 249) en ajoute
+   trois à moins de 4,3 km de la mairie : **elle fait la passe à cinq (règle 96).**
+
+Sources lues : la page des marchés forains de la Ville de Rueil-Malmaison, ses articles sur le marché du centre
+(31 mars 2026), sur l'écoquartier (22 avril 2026) et sur sa halle (27 avril 2026) ; les six fiches de marché et la
+fiche de la halle de l'office de tourisme ; les pages « Commerces et marchés » et « Le marché des Avelines » de la
+Ville de Saint-Cloud ; la page « Marchés forains » de la Ville de Puteaux (18 décembre 2025) ; les mentions légales
+des quatre sites, dont aucune ne réserve l'usage personnel (règle 454) ; la Base Adresse Nationale et le service de
+géocodage de l'IGN (points d'intérêt). Distances prises depuis la mairie de Rueil-Malmaison (point de la Base).
+
+1. **Marché de Rueil-sur-Seine** (Rueil-Malmaison) — samedi de 8h à 13h ; Ville et office concordent sur le jour, les
+   heures et l'adresse ; l'office écrit huit métiers, dont un maraîcher bio, dans un texte qui date du lancement.
+   Nommé par son quartier (règle 455). La Base ne connaît pas le numéro : repère de l'office, à 15 m du point que
+   l'IGN donne au gymnase du même site (règle 10). À 1,7 km.
+2. **Marché de la place Noutary** (Rueil-Malmaison) — dimanche de 8h à 13h ; mêmes deux sources ; sept étals écrits
+   par l'office pour 2023, dont un primeur bio. Point du numéro voisin à la Base, la place se voyant sur la vue
+   aérienne (règle 455, nouvelle). À 0,9 km.
+3. **Marché des Avelines** (Saint-Cloud) — mercredi de 8h à 13h, vendredi de 16h à 20h, samedi de 8h à 13h ; deux
+   pages de la Ville (règle 178), treize métiers écrits, « plusieurs stands de produits bio » ; l'IGN connaît le
+   marché à 70 m du numéro de la Base (0,975), retenu. À 4,3 km.
+4. **Marché des Bergères** (Puteaux) — mercredi et samedi de 8h à 13h ; la Ville publie la liste des étals par
+   métier, dont six sont dits de producteurs ; l'IGN connaît le marché, et c'est son point qui est retenu, la Base
+   n'ayant que l'axe de l'avenue (règle 10). À 3,3 km.
+5. **Marché Chantecoq** (Puteaux) — jeudi et dimanche de 8h à 13h ; même page, liste plus longue, sept étals de
+   producteurs dont un apiculteur ; Base au numéro (0,971), à 70 m du point de l'IGN. À 4,2 km.
+
+Les cinq points sont à 6,0 km au plus les uns des autres ; le plus proche d'une fiche déjà publiée en est à 1,1 km
+(aucun doublon). Les cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni
+personne reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`. Seules les deux fiches de
+Rueil-Malmaison portent un `site_web`, la page des marchés de la Ville, qui ne nomme personne ; les pages de
+Saint-Cloud et de Puteaux nomment des personnes et ne sont pas mises en lien (règle 383). Aucun téléphone : les seuls
+numéros publiés sont ceux des services municipaux (règle 201).
+
+**Contradictions** (règle 5) : le repère de carte de l'office de tourisme pour le marché du dimanche tombe à 430 m de
+l'adresse qu'il écrit — tranché par la règle 455 ; l'office publie encore le marché de l'écoquartier sous son ancien
+nom et à son ancienne adresse, la Ville écrit le déménagement d'octobre 2025 — la Ville l'emporte, et ce marché reste
+en piste faute de produits écrits. **Fiches écartées pour doute sur une personne ou une donnée personnelle** :
+aucune ; aucun des noms que citent les pages lues (commerçants des marchés de Puteaux, élus, responsables
+d'association, photographes) n'est repris, ni ici, ni dans une fiche, ni dans un nom de fichier. **Laissé de côté
+volontairement** : tout ce que la section des pistes énumère.
+
+**Points d'arrêt** : dans les **Hauts-de-Seine**, le marché bio de Rueil-Malmaison et les deux marchés de plein air
+de Saint-Cloud se reprennent d'abord, à leur déblocage ; la relecture depuis le haut reprend à **Levallois-Perret**
+(68 092), puis **Clichy** (trois marchés notés le 24 septembre, à relire), **Antony** et **Neuilly-sur-Seine** ; le
+point d'arrêt bas, **Montrouge**, reste écrit. Après la passe, sur 1 242 fiches : Jura 4,65, Haute-Saône 4,20,
+Morbihan 4,11, Essonne 4,11 ; les Hauts-de-Seine retombent à −0,19. La région de cette passe est l'Île-de-France
+(règle 41.c).
 
 ### Pistes non publiées à Saint-Médard-en-Jalles et dans le nord-ouest de Bordeaux Métropole
 

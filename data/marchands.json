@@ -32699,5 +32699,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44%20Rue%20du%2019%20Mars%201962%2C%2033320%20Eysines",
     "image_url": "/images/marchands/casiers-fermiers-eysines.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-rueil-sur-seine-rueil-malmaison",
+    "nom": "Marché de Rueil-sur-Seine",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.892172,
+    "lon": 2.171743,
+    "adresse": "2 Rue Guy de Maupassant, 92500 Rueil-Malmaison",
+    "horaires": "Samedi de 8h à 13h, d'après la page des marchés forains de la Ville de Rueil-Malmaison (modifiée le 21 avril 2026) et la fiche de l'office de tourisme (calendrier 2026).",
+    "produits": [
+      "Légumes d'un maraîcher bio",
+      "Fruits et légumes (primeur)",
+      "Poisson",
+      "Volailles et rôtisserie",
+      "Boucherie",
+      "Charcuterie",
+      "Pain"
+    ],
+    "description": "Marché alimentaire du samedi matin dans le quartier de Rueil-sur-Seine, sur le site du stade du quartier : à son lancement, l'office de tourisme y annonçait une quinzaine de commerçants, dont un maraîcher bio, un poissonnier, un volailler, un primeur, un rôtisseur, un charcutier, un boucher et un boulanger ; la Ville le compte parmi ses six marchés en avril 2026, sans redonner la liste des étals, qui reste donc à confirmer sur place. Point repris de la fiche de l'office de tourisme, la Base Adresse Nationale ne connaissant pas le numéro 2 de la rue ; à 1,7 km de la mairie. Photo : vue aérienne du site, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "site_web": "https://www.villederueil.fr/vos-services/commerces-et-entreprises/les-marches-forrains/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20Rue%20Guy%20de%20Maupassant%2C%2092500%20Rueil-Malmaison",
+    "image_url": "/images/marchands/marche-rueil-sur-seine-rueil-malmaison.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-place-noutary-rueil-malmaison",
+    "nom": "Marché de la place Noutary",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.886486,
+    "lon": 2.180254,
+    "adresse": "60 Rue d'Estienne d'Orves, 92500 Rueil-Malmaison",
+    "horaires": "Dimanche de 8h à 13h, d'après la page des marchés forains de la Ville de Rueil-Malmaison (modifiée le 21 avril 2026) et la fiche de l'office de tourisme (calendrier 2026).",
+    "produits": [
+      "Fruits et légumes d'un primeur bio",
+      "Poisson",
+      "Volailles",
+      "Fromages",
+      "Olives",
+      "Plats cuisinés de traiteurs"
+    ],
+    "description": "Marché de quartier du dimanche matin, sur une place piétonne à fontaine au nord du centre-ville : l'office de tourisme y écrit, parmi les étals arrivés en 2023, un primeur bio, un poissonnier, un volailler-fromager, un marchand d'olives et trois traiteurs ; la liste n'a pas été redonnée depuis et reste à confirmer sur place. La Ville dit travailler à la valorisation de l'offre de ce marché. Le repère de carte de l'office tombe à 430 m de là, dans un quartier pavillonnaire : le point retenu est celui du numéro 62 de la rue à la Base Adresse Nationale, au bord de la place que montre la vue aérienne ; à 0,9 km de la mairie. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "site_web": "https://www.villederueil.fr/vos-services/commerces-et-entreprises/les-marches-forrains/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=60%20Rue%20d%27Estienne%20d%27Orves%2C%2092500%20Rueil-Malmaison",
+    "image_url": "/images/marchands/marche-place-noutary-rueil-malmaison.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-avelines-saint-cloud",
+    "nom": "Marché des Avelines (Saint-Cloud)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.844349,
+    "lon": 2.209839,
+    "adresse": "44 Boulevard de la République, 92210 Saint-Cloud",
+    "horaires": "Mercredi de 8h à 13h, vendredi de 16h à 20h et samedi de 8h à 13h, d'après la page « Commerces et marchés » de la Ville de Saint-Cloud (lue le 8 octobre 2026).",
+    "produits": [
+      "Fruits et légumes (primeurs et maraîcher)",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Poisson",
+      "Fromages",
+      "Pain et pâtisseries",
+      "Olives et fruits secs",
+      "Fleurs"
+    ],
+    "description": "Marché couvert du quartier Pasteur-Magenta, rouvert en mai 2024 dans une halle neuve : la Ville y écrit boucher, charcutier, volailler, poissonnier, primeurs, maraîcher, fromager, pâtissier, boulanger, produits italiens et chinois, fruits secs et fleuriste, soit vingt-deux commerçants à la réouverture, dont plusieurs étals de produits bio, complétés par une dizaine de stands en plein air à l'arrière de la halle. La séance du vendredi se tient en fin de journée. Point de la Base Adresse Nationale au numéro, à 70 m du repère de l'IGN pour le marché et à 4,3 km de la mairie de Rueil-Malmaison, dans le même territoire intercommunal. Photo : vue aérienne de la halle et de son parvis, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44%20Boulevard%20de%20la%20R%C3%A9publique%2C%2092210%20Saint-Cloud",
+    "image_url": "/images/marchands/marche-des-avelines-saint-cloud.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-bergeres-puteaux",
+    "nom": "Marché des Bergères (Puteaux)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.884639,
+    "lon": 2.224877,
+    "adresse": "157 Avenue du Général de Gaulle, 92800 Puteaux",
+    "horaires": "Mercredi et samedi de 8h à 13h, d'après la page des marchés forains de la Ville de Puteaux (modifiée le 18 décembre 2025).",
+    "produits": [
+      "Fruits et légumes",
+      "Pommes et poires d'un producteur",
+      "Légumes et champignons de producteurs",
+      "Volailles de producteurs",
+      "Huîtres d'un ostréiculteur",
+      "Poisson",
+      "Boucherie et charcuterie",
+      "Fromages"
+    ],
+    "description": "Marché couvert et de plein vent du quartier des Bergères, avec un parking à proximité : la Ville de Puteaux en publie la liste des étals par métier, où figurent, à côté des primeurs, bouchers, charcutiers, fromagers et poissonniers, plusieurs producteurs — pommes et poires, légumes, champignons, volailles, huîtres — ainsi qu'une boulangère, une rôtisserie, des traiteurs et un fleuriste. La Base Adresse Nationale ne connaît pas le numéro 157 de l'avenue : le point est celui que l'IGN donne au marché ; à 3,3 km de la mairie de Rueil-Malmaison, dans le même territoire intercommunal. Photo : vue aérienne de la halle, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=157%20Avenue%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2092800%20Puteaux",
+    "image_url": "/images/marchands/marche-des-bergeres-puteaux.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-chantecoq-puteaux",
+    "nom": "Marché Chantecoq (Puteaux)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.881551,
+    "lon": 2.237633,
+    "adresse": "41 Rue Eugène Eichenberger, 92800 Puteaux",
+    "horaires": "Jeudi et dimanche de 8h à 13h, d'après la page des marchés forains de la Ville de Puteaux (modifiée le 18 décembre 2025).",
+    "produits": [
+      "Fruits et légumes de producteurs",
+      "Pommes et poires d'un producteur",
+      "Miel d'un apiculteur",
+      "Champignons d'un producteur",
+      "Huîtres d'un ostréiculteur",
+      "Poisson",
+      "Boucherie, charcuterie et volailles",
+      "Fromages"
+    ],
+    "description": "Marché couvert et extérieur du centre-ville de Puteaux, du 41 au 59 bis de la rue : la Ville en publie la liste des étals par métier, la plus fournie de ses deux marchés — une dizaine de primeurs, des producteurs de fruits et légumes, de pommes et de poires, de champignons, de miel et d'huîtres, des bouchers, charcutiers, volaillers, fromagers et poissonniers, deux boulangeries, une pâtisserie, des traiteurs et des fleuristes. Point de la Base Adresse Nationale au numéro 41, à 70 m du repère de l'IGN pour le marché et à 4,2 km de la mairie de Rueil-Malmaison, dans le même territoire intercommunal. Photo : vue aérienne du quartier de la halle, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=41%20Rue%20Eug%C3%A8ne%20Eichenberger%2C%2092800%20Puteaux",
+    "image_url": "/images/marchands/marche-chantecoq-puteaux.jpg",
+    "a_confirmer": true
   }
 ]
