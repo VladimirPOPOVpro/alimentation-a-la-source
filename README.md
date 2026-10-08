@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-huitième) : Saint-Chamond (Loire), aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41**, outre-mer écarté (règle 177), sur 1 266 fiches : Loire (42) **4,2100**, Gard 4,1547, Seine-Maritime 4,1517, Haut-Rhin 4,1510. La passe précédente visait la Normandie (Dieppe) : la Loire est ouverte (règle 41.c). Commune retenue : **Saint-Chamond**, reprise du point d'arrêt de la passe cent quatre-vingt-cinquième.
+
+**Ce qui a été lu.** Recherche sur les marchés de Saint-Chamond : trois marchés de producteurs listés par un agenda (Fonsala, Izieux, centre-ville), mais jours et heures contradictoires d'une page à l'autre, et un annuaire de marchés qui recommande lui-même de vérifier auprès de la mairie (règles 5 et 197). Magasin de producteurs **Saveurs de nos Fermes**, 23 avenue Jules Ferry : horaires concordants sur la fiche Que Choisir (mercredi et vendredi 8h30-12h30 et 14h30-19h, jeudi 8h30-12h30, samedi 8h30-13h30) ; **aucun téléphone de ce magasin trouvé** (celui qui apparaît appartient au magasin d'Albertville, écarté) ; pas de site propre vérifié pour Saint-Chamond. AMAP : une seule trace, une rencontre régionale de 2010 avec une AMAP de Fonsala, non actualisée ; aucune AMAP active trouvée.
+
+**Pourquoi rien n'est publié.** La zone se forme à cinq fiches entières (règles 96 et 127). Saint-Chamond n'en rend qu'une, Saveurs de nos Fermes, sans téléphone vérifié (règle 258, désignée pour la reprise), et l'autre piste de marché n'a pas de jour fixé par une source solide. Le point d'arrêt de la passe précédente, la Loire reprend à Saint-Chamond, reste donc en vigueur ; ni Saint-Chamond ni Roanne ne rendent cinq fiches cette passe.
+
+**Pistes non publiées** : Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires, rien de publié. Saint-Chamond, AMAP de Fonsala : trace de 2010 seulement, rien de publié.
+
+**Points d'arrêt** : Loire, la descente reprend à **Saint-Chamond** ; le téléphone de Saveurs de nos Fermes est la seule pièce manquante pour sa fiche. Roanne et Firminy suivent, sans fiche.
+
+**Contradictions** (règle 5) : jours des marchés de Saint-Chamond différents selon Unidivers et jours-de-marche.fr ; rien retenu.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-septième) : Dieppe (Seine-Maritime), aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
