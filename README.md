@@ -34461,6 +34461,26 @@ Passe du 5 octobre 2026 (cent vingt-huitième) :
 Point d'arrêt : **Belleville-en-Beaujolais**, qui a fait la passe. À reprendre d'abord : le magasin bio indépendant de
 Belleville (règle 297) ; la commune suivante du Rhône est **Mions** (13 843).
 
+### Pistes non publiées à Alès et à Bagnols-sur-Cèze (Gard) — passe sans publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41** : outre-mer écarté (règle 177) ; Loire (42) exclue par la réserve 41.c, la passe précédente y étant allée. **Gard (30), 4,1547**, est donc retenu, avec la descente prévue par le point d'arrêt de la passe précédente.
+
+**Commune.** Alès (46 125 habitants) reste la plus peuplée sans fiche publiée. Une seule fiche y est solide : un magasin de producteurs de l'avenue Marcel Cachin (téléphone et horaires croisés entre Que Choisir et l'office de tourisme). Le registre de l'Agence Bio, relu sur 400 entrées du département, ne donne aucun vendeur aux particuliers exploitable à Alès. Le marché hebdomadaire du dimanche matin (rue des Prés Saint-Jean, 7 h à 13 h) est généraliste et ne compte pas comme marché de producteurs. Les Halles de l'Abbaye n'ont pas de jours ni d'horaires établis.
+
+**Descente à Bagnols-sur-Cèze** (18 112 habitants, aucune fiche publiée). Deux magasins de producteurs ou bio apparaissent, tous deux seulement via Que Choisir : un magasin de producteurs (place Bertin-Boissin, horaires partiels) et un magasin bio (rue Ernest-Euzeby, horaires concordants). La Biocoop de la route de Lyon a un téléphone concordant mais pas d'horaires vérifiables. Le marché de producteurs de la place Jean-Jaurès date de 2022 et n'est pas attesté depuis.
+
+**Pourquoi rien n'est publié.** Ni Alès (une fiche) ni Bagnols (deux ou trois fiches, horaires partiels) ne rendent cinq commerces vérifiables dans une même commune. La zone ne se forme pas à cinq (règles 96 et 127) : on ne publie pas une zone partielle éparpillée.
+
+**Pistes non publiées** : Alès, un magasin de producteurs (fiche solide, à reprendre si Alès rend quatre autres points). Bagnols-sur-Cèze, deux magasins (horaires à confirmer sur place) et une Biocoop (horaires à établir).
+
+**Écartés** : une épicerie bio d'Alès dont le relevé d'horaires vient d'un blog qui affiche aussi les coordonnées d'un autre magasin ; un supermarché de Bagnols-sur-Cèze classé comme magasin de proximité ; un projet de magasin de producteurs prévu pour 2027.
+
+**Point d'arrêt.** Gard visé une fois de plus ; la passe suivante ne peut pas le viser (règle 41.c). La reprise devra soit compléter Bagnols-sur-Cèze jusqu'à cinq, soit trouver quatre autres points à Alès.
+
+**Contradictions** (règle 5) : deux sources d'horaires divergent pour l'épicerie bio d'Alès, non publiée.
+
 ## Comment ajouter ou modifier un marchand
 
 Toutes les données sont dans un seul fichier : **`data/marchands.json`**. Pas besoin de toucher au reste du code.
