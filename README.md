@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-neuvième) : Gard, Saint-Gilles reprise, Vauvert en piste, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41**, outre-mer écarté (règle 177) : la Loire (42), passe précédente, est fermée (règle 41.c) ; **Gard (30) 4,15**, Seine-Maritime 4,15, Haut-Rhin 4,15. Le Gard est ouvert. Commune : reprise de Saint-Gilles (point d'arrêt de la passe cent quatre-vingt-sixième), puis Vauvert, deuxième de la descente.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, six cents opérateurs du Gard lus, filtrés sur Saint-Gilles, Vauvert, Alès et Bagnols-sur-Cèze : les vendeurs aux particuliers y sont des domaines viticoles, des sociétés, et des exploitants inscrits sous un nom de personne (doute sur une personne, écartés, règle 309). Office de tourisme Cœur de Petite Camargue, page « marchés locaux » : Vauvert, mercredi et samedi matin. Gard Tourisme : marché hebdomadaire de Vauvert, mercredi et samedi à partir de 8h30. Les deux sources concordent sur les jours et l'heure.
+
+**Pourquoi rien n'est publié.** La zone se forme à cinq fiches entières (règles 96 et 127). Saint-Gilles n'en rend toujours qu'une, Les délices du Scamandre, désignée pour la reprise (règle 258). Vauvert rend un marché dont jours et heure sont recoupés, et rien d'autre de solide : l'épicerie fromagerie du Mas du Trident n'a qu'une source (un guide, non recoupée), les domaines (Château Roubaud, Azurs et Centenaires au Mas Neuf) ne se complètent pas en masse. Ni Saint-Gilles ni Vauvert ne rendent cinq fiches : rien ne se publie.
+
+**Pistes non publiées** : Vauvert, marché hebdomadaire du mercredi et du samedi matin, 8h30 : jours et heure concordants entre l'office et Gard Tourisme, fiche possible dès que la zone se forme. Vauvert, Mas du Trident : une source, non recoupée. Saint-Gilles, Auri Bio (registre, vente aux particuliers déclarée, aucune adresse de vente ni horaire trouvés) : non instruit. Les exploitants inscrits sous un nom de personne au registre : doute sur une personne, écartés, ne se rouvrent pas.
+
+**Points d'arrêt** : Gard, la descente reprend à **Saint-Gilles** (la fiche désignée attend ses voisines) ; Vauvert est la commune suivante, avec son marché déjà repéré.
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-huitième) : Saint-Chamond (Loire), aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
