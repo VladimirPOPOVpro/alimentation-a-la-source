@@ -13663,6 +13663,31 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-quatorzième) : Paris, cinq marchés découverts, règle 82
+
+Aucune demande de visiteur, aucun courriel. **Cinq fiches publiées, toutes à Paris (75)**, commune unique du département. Total : 1 271 fiches.
+
+**Classement, règle 41 (relu).** Le calcul de la passe précédente comptait les populations de l'outre-mer dans le dénominateur, alors que la règle 177 le réserve à la métropole : Gard (4,1547) y était un calcul faux. Refait sur la seule métropole (66 165 815 habitants, 1 266 fiches avant la passe) : **Paris (75), 5,2532**, en tête ; puis Haute-Garonne (5,1547, Occitanie, exclue par la réserve 41.c, la passe précédente visant le Gard), Seine-Maritime (5,1270), Nord (5,0469), Bouches-du-Rhône (4,9447). Le Var reste à −213,6.
+
+**Commune : règle 82.** Paris n'a qu'une commune, déjà pourvue de fiches ; la règle 82 renvoie à sa commune la plus peuplée quand une passe précédente a laissé des pistes remises à plus tard. La réserve de la passe des marchés couverts et de celle de l'ouest (une soixantaine de marchés découverts non instruits) remplit ce critère. Ce n'est pas la passe de Seine-Maritime, qui avait écarté Paris sans examiner la réserve : signalé ici, pas corrigé.
+
+**Choix dans la réserve.** Cinq marchés découverts de la liste de la Ville, sans fiche, dont les horaires sont lisibles sur la fiche « lieu » de paris.fr : Aligre (12e), Charonne (11e), Belgrand (20e), Edgar-Quinet (14e), Ornano (18e). Écartés de la réserve : Puces, marchés aux fleurs, timbres et création artistique (hors alimentation), et les marchés des 16e et 17e dont la seule photographie est la série du 25 août (règle 139).
+
+**Ce qui a été lu.** Fiches « lieu » de paris.fr lues directement (les horaires de la Ville, tableau « du 01/01/2020 au 01/01/2030», concordent avec le jeu de données ouvert « Marchés découverts » pour les cinq). Photographies : celles de la fiche « lieu » de chaque marché, lues une à une, sans visage reconnaissable. Produits : guides locaux (evous.fr, visitparisregion.com, whereisthemarket.com), la Ville ne publie pas la composition des étals ; les fiches sont donc à confirmer.
+
+**Coordonnées.** La Base Adresse Nationale ne rend que la rue (place, boulevard, rue entière) : les points sont les centroïdes des emprises publiées par la Ville dans le jeu de données ouvert, qui couvrent des linéaires de 100 à 800 m. Ils sont à 10 m (Aligre), 100 m (Ornano), 130 m (Belgrand), 160 m (Edgar-Quinet) et 320 m (Charonne) du point BAN de la rue.
+
+**Contradictions tranchées** (règle 5) :
+- Belgrand, mercredi : 13h30 pour la Ville, 14h30 pour un guide. La Ville fait foi.
+- Edgar-Quinet, mercredi et samedi : 13h30 et 14h30 pour la Ville, 14h30 et 15h pour deux guides. La Ville fait foi.
+- Ornano, vendredi : une recherche donnait 7h30, la fiche de la Ville lue directement donne 7h. La fiche fait foi.
+
+**Non publiés, par doute sur une personne** : aucun. Les gestionnaires des marchés sont des entreprises ou des patronymes ; aucun nom de gestionnaire n'est repris, et aucun téléphone de gestionnaire (ils sont à l'usage des commerçants, pas des visiteurs).
+
+**Pistes non publiées** : Paris, reste de la réserve de marchés découverts (une cinquantaine), dont Saint-Honoré, Bourse, Port-Royal, Aguesseau, Alibert, Ménilmontant, Popincourt, Bercy, Ledru-Rollin, Porte-Dorée, Bobillot, Vincent-Auriol, Villemain, Mouton-Duvernet, Cervantes, Lefebvre, Mortier, Pyrénées, Villette, Anvers. Les marchés des 16e et 17e restent bloqués par la règle 139.
+
+**Point d'arrêt.** Paris reste en tête du classement métropolitain (5,25 avant la passe) et ne possède toujours aucune commune libre : la prochaine passe le revisitera par la règle 82, à partir de la réserve listée ci-dessus. Le Paris-Occitanie ne joue pas, la passe étant en Île-de-France (région 11) ; la réserve 41.c vise uniquement la région de la passe précédente, ici l'Occitanie.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-treizième) : Loire, Roanne éprouvée, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.

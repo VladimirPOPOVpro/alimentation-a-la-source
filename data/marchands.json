@@ -33481,5 +33481,136 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Bio%20Golfe%20Saint-Av%C3%A9%2C%205%20Rue%20Marcel%20Dassault%2C%2056890%20Saint-Av%C3%A9",
     "image_url": "/images/marchands/biocoop-bio-golfe-saint-ave.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-aligre",
+    "nom": "Marché d'Aligre",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.848929,
+    "lon": 2.378055,
+    "adresse": "Place et rue d'Aligre, 75012 Paris",
+    "horaires": "Mardi à vendredi de 7h30 à 13h30 ; samedi et dimanche de 7h30 à 14h30 ; fermé le lundi (fiche de la Ville, valable du 01/01/2020 au 01/01/2030).",
+    "produits": [
+      "Fruits",
+      "Légumes",
+      "Herbes aromatiques",
+      "Fleurs coupées"
+    ],
+    "description": "Marché alimentaire de plein air sur la place et la rue d'Aligre, dans le 12e arrondissement. Les guides le décrivent comme un marché de primeurs ; la halle Beauvau voisine et la brocante ne font pas partie de cette fiche.",
+    "site_web": "https://www.paris.fr/lieux/marche-d-aligre-5481",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20d'Aligre%20Place%20et%20rue%20d'Aligre%2C%2075012%20Paris",
+    "image_url": "/images/marchands/marche-aligre.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-charonne",
+    "nom": "Marché Charonne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.856482,
+    "lon": 2.394018,
+    "adresse": "Boulevard de Charonne, terre-plein entre le n° 131 et la rue Alexandre-Dumas, 75011 Paris",
+    "horaires": "Mercredi de 7h à 13h30 ; samedi de 7h à 14h30 (fiche de la Ville, valable à partir du 01/01/2020). Un guide indique le même créneau.",
+    "produits": [
+      "Fruits et légumes",
+      "Poissons et fruits de mer de Normandie",
+      "Fromages",
+      "Volailles",
+      "Miel",
+      "Épices"
+    ],
+    "description": "Marché alimentaire de plein air de 783 mètres de linéaire selon la Ville, sur le terre-plein du boulevard de Charonne, dans le 11e. Un guide le décrit comme plus petit que d'autres marchés du quartier, mais fréquenté par les habitants pour la qualité de ses étals.",
+    "site_web": "https://www.paris.fr/lieux/marche-charonne-5476",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Charonne%20Boulevard%20de%20Charonne%2C%20terre-plein%20entre%20le%20n%C2%B0%20131%20et%20la%20rue%20Alexandre-Dumas%2C%2075011%20Paris",
+    "image_url": "/images/marchands/marche-charonne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-belgrand",
+    "nom": "Marché Belgrand",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.865116,
+    "lon": 2.402714,
+    "adresse": "Rue Belgrand, entre la rue de la Chine et la place Edith-Piaf, 75020 Paris",
+    "horaires": "Mercredi de 7h à 13h30 ; samedi de 7h à 14h30 (fiche de la Ville, valable du 01/01/2020 au 01/01/2030). Un guide donne 14h30 le mercredi : la Ville fait foi.",
+    "produits": [
+      "Fruits et légumes (dont deux stands bio)",
+      "Fromages",
+      "Poissons",
+      "Viandes et volailles",
+      "Produits régionaux français et étrangers",
+      "Pain"
+    ],
+    "description": "Marché alimentaire de plein air sur les trottoirs pair et impair de la rue Belgrand, dans le 20e, le long de l'hôpital Tenon. Un guide y compte une soixantaine de commerçants, dont des fruits et légumes, des fromagers, des poissonniers, des bouchers et une rôtisserie.",
+    "site_web": "https://www.paris.fr/lieux/marche-belgrand-5530",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Belgrand%20Rue%20Belgrand%2C%20entre%20la%20rue%20de%20la%20Chine%20et%20la%20place%20Edith-Piaf%2C%2075020%20Paris",
+    "image_url": "/images/marchands/marche-belgrand.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-edgar-quinet",
+    "nom": "Marché Edgar Quinet",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.841459,
+    "lon": 2.324095,
+    "adresse": "Boulevard Edgar-Quinet, terre-plein entre le n° 36 et la rue du Départ, 75014 Paris",
+    "horaires": "Mercredi de 7h à 13h30 ; samedi de 7h à 14h30 (fiche de la Ville, valable du 01/01/2020 au 01/01/2030). Deux guides donnent des fermetures plus tardives : la Ville fait foi.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Poissons",
+      "Miel",
+      "Volailles",
+      "Brandade de morue (traiteur portugais)"
+    ],
+    "description": "Marché alimentaire de plein air sur le terre-plein du boulevard Edgar-Quinet, dans le 14e, de 585 mètres de linéaire selon la Ville. Le dimanche, le marché de la création voisin vend de l'art et de l'artisanat, sans produits alimentaires.",
+    "site_web": "https://www.paris.fr/lieux/marche-edgar-quinet-5497",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Edgar%20Quinet%20Boulevard%20Edgar-Quinet%2C%20terre-plein%20entre%20le%20n%C2%B0%2036%20et%20la%20rue%20du%20D%C3%A9part%2C%2075014%20Paris",
+    "image_url": "/images/marchands/marche-edgar-quinet.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-ornano",
+    "nom": "Marché Ornano",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.893805,
+    "lon": 2.34777,
+    "adresse": "Boulevard Ornano, trottoirs pair et impair entre la rue du Mont-Cenis et la rue Boisnot, 75018 Paris",
+    "horaires": "Mardi et vendredi de 7h à 13h30 ; dimanche de 7h à 14h30 (fiche de la Ville, valable du 01/01/2020 au 01/01/2030).",
+    "produits": [
+      "Fruits et légumes exotiques et importés",
+      "Épices",
+      "Herbes fraîches",
+      "Agneau"
+    ],
+    "description": "Marché de plein air de 444 mètres de linéaire selon la Ville, sur le boulevard Ornano, dans le 18e. Un guide y compte une trentaine d'étals, dont plusieurs vendeurs originaires d'Afrique du Nord.",
+    "site_web": "https://www.paris.fr/lieux/marche-ornano-5518",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Ornano%20Boulevard%20Ornano%2C%20trottoirs%20pair%20et%20impair%20entre%20la%20rue%20du%20Mont-Cenis%20et%20la%20rue%20Boisnot%2C%2075018%20Paris",
+    "image_url": "/images/marchands/marche-ornano.jpg",
+    "a_confirmer": true
   }
 ]
