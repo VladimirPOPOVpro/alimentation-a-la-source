@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-dix-huitième) : Nord, Wattrelos éprouvée à quatre marchés, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches. La Haute-Garonne (31), passe précédente, est exclue par la règle 41.c, avec toute la région Occitanie. En tête ensuite : **Nord (59), 5,2446** (45 fiches) ; Seine-Maritime (76), 5,2223. Le Nord est retenu.
+
+**Commune : descente du Nord, règle 288.** La passe reprend par la commune la plus peuplée sans fiche, Wattrelos (40 847 habitants). Le site de la Ville répond de nouveau ; sa rubrique « Les marchés » donne quatre marchés hebdomadaires avec leur jour, mais aucune heure : Beaulieu (mercredi, après-midi), Basanos (jeudi), La Mousserie (vendredi) et Laboureur (dimanche). Les heures viennent d'annuaires de marchés, qui donnent 8 h à 13 h pour trois d'entre eux ; pour Basanos, un autre annuaire donne 8 h à 20 h, et aucune heure n'a été trouvée pour Beaulieu. Un marché sans heure publiée par la Ville ne se publie pas.
+
+**Le reste de Wattrelos ne rend pas de fiche.** Le magasin Biocoop rattaché à la commune a une adresse à Hem (hors commune). Les deux grandes surfaces et l'enseigne de proximité sont généralistes. L'ESAT se situe à Linselles. La ferme maraîchère annoncée à Wattrelos n'a pas d'adresse. Une herboristerie-diététique de la commune est écartée : son enseigne porte un nom de personne (règle sur les données personnelles, sans rouvrir la piste).
+
+**Pourquoi rien n'est publié.** Quatre marchés au mieux, aucun n'ayant d'heure publiée par la Ville : la zone ne se forme pas à cinq (règles 96 et 127). **Zéro.**
+
+**Pistes non publiées** : Wattrelos, quatre marchés hebdomadaires (jours publiés par la Ville, heures à établir auprès de la Ville ou sur place).
+
+**Points d'arrêt** : la prochaine passe ne peut pas viser le Nord (règle 41.c). La descente du Nord reprendra à Wattrelos, puis Douai (40 250), Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart et Armentières, en retentant ceux qui étaient en maintenance (règle 288), avant Mons-en-Barœul et Wasquehal. Ce passage n'a pas relu Douai, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart ni Armentières.
+
+**Contradictions** (règle 5) : horaires du marché de Basanos divergents entre deux annuaires, non publiés.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-dix-septième) : Haute-Garonne, Castanet-Tolosan éprouvée, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
