@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-quinzième) : Haute-Garonne, Plaisance-du-Touch relue, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants, règle 177), 1 271 fiches. Paris (75) est exclu par la règle 41.c : la passe précédente visait l’Île-de-France. En tête ensuite : **Haute-Garonne (31), 5,2663** ; Nord (59), 5,2452 ; Seine-Maritime (76), 5,2222. La Haute-Garonne n’est pas la région de la passe précédente, elle est ouverte.
+
+**Commune : règle 248.** Toulouse (5 fiches), Colomiers (4), Tournefeuille (3) et Cugnaux (2) portent déjà des fiches. La descente du 31 reprend à **Plaisance-du-Touch** (21 079 habitants), point d’arrêt de la passe précédente. Blagnac et Muret ont été éprouvées à zéro.
+
+**Plaisance-du-Touch, relecture.** Une recherche sur le marché et le magasin de producteurs n’a rien donné de daté : aucun marché ni magasin de producteurs à heures publiées. Le Biocoop de l’avenue des Pyrénées apparaît avec son adresse et un téléphone issus d’annuaires tiers, sans heures et sans page propre sur biocoop.fr : il reste à zéro (règle 273), comme à la passe précédente. L’annuaire des producteurs du 31830 ne référence que des points situés à 11 à 13 km, hors de la commune. **Zéro.**
+
+**Pistes non publiées** : Plaisance-du-Touch, Biocoop de l’avenue des Pyrénées (heures à lire sur son site ou par téléphone ; le registre et la carte de réseau ne suffisent pas).
+
+**Points d’arrêt** : la descente du 31 reste à **Plaisance-du-Touch**, puis Balma (zéro, Ville fermée à l’agent nommé, règle 257), puis **Castanet-Tolosan** (15 317 habitants).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-quatorzième) : Paris, cinq marchés découverts, règle 82
 
 Aucune demande de visiteur, aucun courriel. **Cinq fiches publiées, toutes à Paris (75)**, commune unique du département. Total : 1 271 fiches.
