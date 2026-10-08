@@ -13663,6 +13663,27 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-treizième) : Loire, Roanne éprouvée, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41** : Seine-Maritime, passe précédente, fermée (règle 41.c) ; Loire (42) ouverte, en tête. Commune : Saint-Chamond (35 646 habitants) n'a toujours aucune zone formée. **Descente à Roanne (35 409)**, la commune la plus peuplée après elle sans fiche. Le point d'arrêt de la passe cent quatre-vingt-huitième donnait Roanne à la suite de Saint-Chamond ; la passe cent quatre-vingt-dixième est allée à Feurs (8 367) sans l'éprouver, ce qui ne suit pas l'ordre par population : signalé ici, pas corrigé.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, quatorze cents opérateurs de la Loire, filtrés sur Roanne : une dizaine de vendeurs aux particuliers, pour l'essentiel des grandes surfaces, des grossistes, des boulangeries et des chocolateries. Recherche web : marchés (Roannais Tourisme, Guide du Roannais, Jours-de-Marche), boutiques bio (Roannais Tourisme, Justacote).
+
+**Pourquoi rien n'est publié.**
+- Marchés : quatre calendriers se contredisent sur les jours et les places (la place Georges-Clemenceau est un marché du dimanche ici, du mercredi là ; la place du Marché est mardi-vendredi ou seulement vendredi). Aucune page officielle de la Ville ou de l'agglomération n'a été lue : l'adresse de l'agglomération rendue par la recherche répond 404. Règle 5, rien n'est publié.
+- Épicerie vrac de la rue Anatole-France : adresse non confirmée par une source (aucune ne la rattache à la boutique) et horaires contradictoires entre deux versions de la fiche de Roannais Tourisme. Non publiée.
+- Miel de la boulevard Baron-du-Marais : l'enseigne reprend un prénom. Doute sur une personne, écartée, ne se rouvre pas (règle 309).
+- Une ferme de vente directe de la rue Brossard : le nom du registre est celui d'un exploitant, enseigne non retenue faute d'horaires et d'adresse vérifiée. Non instruite jusqu'au bout.
+- Bio-Cultura, rue de Bapaume : le site du réseau n'a pas pu être ouvert (erreur TLS), non recoupé.
+
+**Pistes non publiées** : Roanne, marchés (place du Marché, place Clemenceau, Champ de Foire) : contradictions de jours, à reprendre sur la page officielle de la Ville ou de l'agglomération. Roanne, épicerie vrac : adresse et horaires à confirmer. Roanne, Bio-Cultura : site à rouvrir.
+
+**Points d'arrêt** : Loire, Roanne reprise en premier (la zone ne se forme pas à cinq). Ensuite Firminy (17 060), puis Montbrison, qui suivent par population.
+
+**Contradictions** (règle 5) : jours des marchés de Roanne ; horaires de l'épicerie vrac. Rien retenu.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-douzième) : Seine-Maritime, Le Petit-Quevilly éprouvé, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
