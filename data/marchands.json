@@ -32838,5 +32838,144 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=41%20Rue%20Eug%C3%A8ne%20Eichenberger%2C%2092800%20Puteaux",
     "image_url": "/images/marchands/marche-chantecoq-puteaux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-place-nationale-dole",
+    "nom": "Marché couvert et marché de la place Nationale (Dole)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.091714,
+    "lon": 5.493621,
+    "adresse": "Place Nationale Charles de Gaulle, 39100 Dole",
+    "horaires": "Halles : mardi et jeudi de 8h à 13h, vendredi de 14h à 19h, samedi de 8h à 13h30. Marché extérieur sur la place : jeudi et samedi de 8h à 13h. D'après le site des marchés de Dole (pages des horaires et des commerçants, actualités d'octobre 2026).",
+    "produits": [
+      "Fruits et légumes de maraîchers",
+      "Fruits et légumes bio",
+      "Fromages et crèmerie",
+      "Boucherie et charcuterie",
+      "Volailles",
+      "Poisson et huîtres",
+      "Miel d'un producteur",
+      "Épicerie"
+    ],
+    "description": "Marché du centre ancien de Dole, sous une halle de type Baltard et sur la place voisine, au pied de la collégiale. Le site du marché annonce une vingtaine de commerçants sous les halles — maraîchers, primeurs dont un étal bio, fromagers, bouchers-charcutiers, volaillers, un poissonnier-ostréiculteur, un producteur de miel, une épicerie — et une quinzaine d'étals sur la place les jeudis et samedis, alimentaires ou non. Les halles et le marché de plein air partagent la même place et font une seule fiche. Point : celui que l'IGN donne au marché, sur la halle, à 90 m du point de la place à la Base Adresse Nationale et à 0,5 km de la mairie de Dole. Photo : vue aérienne de la halle, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Nationale%20Charles%20de%20Gaulle%2C%2039100%20Dole",
+    "image_url": "/images/marchands/marche-couvert-place-nationale-dole.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-reponse-nature-dole",
+    "nom": "Biocoop Réponse Nature",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.097192,
+    "lon": 5.502443,
+    "adresse": "65 Avenue du Général Eisenhower, 39100 Dole",
+    "horaires": "Du lundi au samedi de 9h à 19h, fermé le dimanche et les jours fériés, d'après le site du magasin.",
+    "produits": [
+      "Fruits et légumes bio de saison",
+      "Pain d'un fournil bio du Grand Dole",
+      "Fromages de fruitières jurassiennes",
+      "Bières de brasseries artisanales comtoises",
+      "Cidre et jus d'une cidrerie du Jura",
+      "Huiles d'une huilerie de Lons-le-Saunier",
+      "Vrac",
+      "Épicerie bio"
+    ],
+    "description": "Magasin bio de Dole né en 1986 sous forme associative et entré dans le réseau Biocoop en 2009, d'après son site. Il y publie trente producteurs locaux — fournil, fruitières, élevages, brasseries, cidrerie et huilerie du Jura, du Doubs, de la Haute-Saône et de la Côte-d'Or — et annonce des fruits et légumes de saison d'origine française. Société active au registre des entreprises à cette adresse, engagée en bio d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale, à 20 m du point que publie le magasin et à 1,4 km de la mairie de Dole. Photo : vue aérienne de l'avenue, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "03 84 82 11 29",
+    "site_web": "https://reponsenature.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20R%C3%A9ponse%20Nature%2C%2065%20Avenue%20du%20G%C3%A9n%C3%A9ral%20Eisenhower%2C%2039100%20Dole",
+    "image_url": "/images/marchands/biocoop-reponse-nature-dole.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-bio-du-cours-saint-mauris-dole",
+    "nom": "Marché bio du cours Saint-Mauris (Dole)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.094908,
+    "lon": 5.498256,
+    "adresse": "Cours Saint-Mauris, 39100 Dole",
+    "horaires": "Jeudi de 16h30 à 19h, toute l'année, d'après l'annonce de l'association organisatrice dans un agenda de presse régional et le site d'un maraîcher bio qui y tient un étal (saison 2026), qui concordent. De fin juin à début septembre, des barbecues paysans prolongent la soirée.",
+    "produits": [
+      "Légumes bio d'un maraîcher du Grand Dole",
+      "Plants potagers bio au printemps",
+      "Produits de producteurs locaux",
+      "Produits d'artisans locaux"
+    ],
+    "description": "Marché de producteurs et d'artisans locaux, bio pour la plupart, tenu le jeudi en fin d'après-midi sur la promenade arborée du cours Saint-Mauris par une association doloise, active au registre des entreprises. Aucune page communale ne le décrit : les heures viennent de l'organisateur et d'un exposant. La Base Adresse Nationale ne connaît pas le cours ; le point est celui que l'IGN donne au parc de stationnement du même nom, sous les arbres de la promenade, à 1,0 km de la mairie de Dole — l'emplacement exact des étals reste à confirmer. Photo : vue aérienne du cours, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cours%20Saint-Mauris%2C%2039100%20Dole",
+    "image_url": "/images/marchands/marche-bio-du-cours-saint-mauris-dole.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fruitiere-de-chevigny-magasin-de-foucherans",
+    "nom": "Fruitière de Chevigny — magasin de Foucherans",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.07616,
+    "lon": 5.45615,
+    "adresse": "46 Rue de Saint-Ylie, 39100 Foucherans",
+    "horaires": "Du mardi au jeudi de 9h à 12h et de 13h30 à 18h, vendredi de 9h à 12h30 et de 13h30 à 18h, samedi de 9h à 12h, d'après le site de la fruitière.",
+    "produits": [
+      "Comté",
+      "Comté bio",
+      "Morbier",
+      "Tomme et raclette",
+      "Beurre, crème et lait cru",
+      "Fromage blanc",
+      "Fromages et charcuteries de la région",
+      "Miels et vins régionaux"
+    ],
+    "description": "Second point de vente de la fruitière à comté de Chevigny, installé dans une ferme de Foucherans, à 2,8 km de la mairie de Dole. On y trouve les fromages que la coopérative fabrique avec le lait d'une quinzaine d'exploitations des environs de Dole, dont une partie en bio, et un choix de produits régionaux. Établissement ouvert au registre des entreprises à cette adresse, engagé en bio d'après le registre de l'Agence Bio. Adresse géocodée au numéro par la Base Adresse Nationale. Photo : vue aérienne de la ferme et de la rue, qui ne montre pas le magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "03 84 82 37 45",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruiti%C3%A8re%20de%20Chevigny%2C%2046%20Rue%20de%20Saint-Ylie%2C%2039100%20Foucherans",
+    "image_url": "/images/marchands/fruitiere-de-chevigny-magasin-de-foucherans.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "fruitiere-de-chevigny-magasin-de-chevigny",
+    "nom": "Fruitière de Chevigny — magasin de la fromagerie",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.175728,
+    "lon": 5.476357,
+    "adresse": "1 Rue de l'Église, 39290 Chevigny",
+    "horaires": "Du mardi au vendredi de 9h à 12h et de 14h30 à 18h30, samedi de 9h à 18h30, d'après le site de la fruitière. Ouvertures supplémentaires annoncées par la fruitière avant les fêtes.",
+    "produits": [
+      "Comté",
+      "Comté bio",
+      "Morbier",
+      "Tomme et raclette",
+      "Beurre, crème et lait cru",
+      "Fromage blanc",
+      "Fromages et charcuteries de la région",
+      "Miels et vins régionaux"
+    ],
+    "description": "Magasin de la fromagerie coopérative de Chevigny, au centre du village, à la limite nord de la zone du comté et à 9,7 km de la mairie de Dole, dans le Grand Dole. La fruitière y vend le comté, bio et traditionnel, et le morbier qu'elle fabrique sur place avec le lait d'une quinzaine d'exploitations — quatorze dont huit en bio d'après son site, quinze dont quatre en bio d'après la fiche du Département, les deux chiffres sont donnés —, avec des produits régionaux. Société active au registre des entreprises à cette adresse, engagée en bio d'après le registre de l'Agence Bio. La Base Adresse Nationale ne connaît pas le numéro : le point est celui de l'établissement au registre des entreprises, à 40 m du repère du Département. Photo : vue aérienne du centre du village, qui ne montre pas le magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "03 84 79 07 52",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fruiti%C3%A8re%20de%20Chevigny%2C%201%20Rue%20de%20l%27%C3%89glise%2C%2039290%20Chevigny",
+    "image_url": "/images/marchands/fruitiere-de-chevigny-magasin-de-chevigny.jpg",
+    "a_confirmer": true
   }
 ]

@@ -5707,9 +5707,37 @@ prioritaires en cas de conflit.
      (règle 259). **Ce que la règle débloque** : dans la même passe, les deux fiches de Rueil-Malmaison qui ouvrent la
      zone au titre de la règle 127.
 
+456. **Un marché associatif que sa commune ne décrit pas se publie quand son organisateur l'annonce lui-même, daté de
+     l'année, et qu'un exposant publie de son côté le même créneau ; et un site communal ou touristique qui ferme sa
+     reprise ne nourrit aucune fiche, même pour confirmer.** Le 8 octobre 2026 (cent quatre-vingtième passe), le Jura,
+     écrit épuisé le 28 septembre, mène le classement sans une fiche et se rouvre par la règle 432. À Dole, la Ville
+     réserve son site et son agenda à « un usage personnel et privé » et interdit toute réutilisation « à des fins
+     d'information » ; le comité départemental du tourisme interdit tout robot d'extraction (règle 414) ; l'office de
+     commerce interdit toute utilisation « à des fins quelconques » ; le comité régional n'ouvre son site que « pour
+     l'information personnelle ». Aucun de ces quatre sites n'est une source (règles 416, 429 et 454), et la passe du
+     28 septembre s'était arrêtée là. Mais le marché couvert a son propre site, sans clause, tenu à jour ce mois-ci,
+     qui écrit jours, heures et métiers à deux endroits (règle 178) ; et le marché bio du jeudi, tenu par une
+     association active au registre, est annoncé par elle dans un agenda de presse de la saison 2026, à l'heure même
+     qu'un maraîcher exposant publie sur son site. La règle 196 attendait que l'organisateur d'un marché privé « publie
+     lui-même jour, lieu et heures », sans dire où. **Tranché ainsi** : (a) l'annonce que l'organisateur dépose dans
+     un agenda de presse, datée de l'année, vaut sa publication, quand un exposant qui publie lui-même son créneau la
+     recoupe ; la fiche part en `a_confirmer` et dit d'où viennent les heures ; (b) ce qu'une passe lit sur un site
+     fermé à la reprise ne s'écrit dans aucune fiche, pas même comme source concordante (règle 252) ; (c) l'exposant
+     qui recoupe n'est pas publié pour autant et n'est nommé nulle part. Aucune exigence de vérification ne baisse.
+     **Ce que la règle débloque** : dans la même passe, la troisième fiche de Dole. **Déblocage** de la réserve : une
+     page de l'association, ou de la Ville sans sa clause, qui écrive le marché.
+
 ## Marchands à confirmer
 
-1108 fiches sur 1242 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1113 fiches sur 1247 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché couvert et marché de la place Nationale**, **Biocoop Réponse Nature** et **Marché bio du cours
+  Saint-Mauris** (Dole), **Fruitière de Chevigny** (magasins de Foucherans et de Chevigny) (passe du 8 octobre 2026,
+  cent quatre-vingtième, règles 96, 127, 432 et 456) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre
+  ni étal ni vitrine ; le marché couvert n'a pour source que son propre site, les sites de la Ville et des comités
+  du tourisme étant fermés à la reprise ; le marché bio du jeudi est placé au point que l'IGN donne au parc de
+  stationnement du cours, l'emplacement des étals et la tenue du marché en hiver restant à confirmer sur place ; la
+  fruitière et la fiche du Département ne donnent pas le même nombre d'exploitations, ni la même part en bio ; le
+  magasin de Chevigny est placé au point du registre des entreprises, la Base ne connaissant pas son numéro.
 - **Marché de Rueil-sur-Seine** et **Marché de la place Noutary** (Rueil-Malmaison), **Marché des Avelines**
   (Saint-Cloud), **Marché des Bergères** et **Marché Chantecoq** (Puteaux) (passe du 8 octobre 2026, cent
   soixante-dix-neuvième, règles 96, 127, 432 et 455) : les cinq fiches portent une vue aérienne de l'IGN, qui ne montre
@@ -13494,6 +13522,97 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Dole et dans le Grand Dole
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingtième), avec le déblocage de chacune.
+
+- **Amange, maraîchage biologique** : vente sur abonnement et sur commande seulement, entreprise individuelle dont
+  le seul numéro est un portable et dont le site nomme l'exploitant — écartée pour doute sur une donnée personnelle
+  (règle 433), ne se rouvre pas.
+- **Saint-Aubin, maraîchage biologique** : société dont l'enseigne est faite de deux prénoms — écartée pour doute
+  sur une personne, ne se rouvre pas.
+- **Falletans, fournil biologique** : heures de vente au fournil publiées par l'artisan, entreprise individuelle
+  inscrite sous le nom de son exploitant ; non instruite, le groupe étant complet. **Déblocage** : une enseigne
+  déclarée au registre et une adresse diffusée ; sinon elle ne se publie pas.
+- **Jouhe, brasserie** : société active ; aucune heure de vente relue sur une source ouverte. **Déblocage** : des
+  heures publiées par la brasserie.
+- **Dole, second magasin biologique, de réseau** : cité par un annuaire de consommateurs ; non
+  instruit. **Déblocage** : des producteurs locaux publiés sur sa page (règle 86).
+- **Dole, second point « marché » que l'IGN place dans la commune** : aucune source lue ne le décrit. **Déblocage** : une
+  page qui en donne le jour, l'heure et les produits.
+- **Tavaux, Damparis et Foucherans** : leurs sites n'ouvrent aucune connexion à l'agent par défaut pendant la
+  passe (règle 297) ; ils se réessaient en tête de la prochaine descente dans le département. Un point de vente
+  bimensuel de producteurs à Tavaux et un marché du samedi matin à Saint-Aubin, cités par un exposant, n'ont pas été
+  instruits. **Déblocage** : une page communale.
+- **Sources fermées à Dole** : la Ville et son agenda (usage privé, réutilisation d'information interdite), le
+  comité départemental du tourisme (robots d'extraction interdits), l'office de commerce du Grand Dole (toute
+  utilisation interdite), le comité régional du tourisme (information personnelle), l'office de tourisme (403 à
+  l'agent par défaut). **Déblocage** : le retrait de la clause ou du filtrage.
+
+### Passe du 8 octobre 2026 (cent quatre-vingtième) : Dole, Foucherans et Chevigny (Jura), cinq fiches dans le Grand Dole ; le département se rouvre par la règle 432 ; règle 456
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
+1 247 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 242
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Jura (39) 4,65**,
+aucune fiche, écrit épuisé le 28 septembre (règle 265) et rouvert à son rang par la règle 432 — c'est cette passe qui
+le relit ; la passe précédente a publié en Île-de-France, la Bourgogne-Franche-Comté est ouverte (règle 41.c) ; puis
+Haute-Saône 4,20, Morbihan 4,11, Essonne 4,11. `git fetch` fait avant le calcul et avant le commit : `origin/main`
+n'a pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règles 41.d et 446), sous l'agent par défaut,
+`robots.txt` et mentions légales lus pour chaque site (règles 402 et 425).
+
+1. **Dole** (23 840) — quatre sites d'autorité sont fermés à la reprise et un cinquième refuse l'agent (voir les
+   pistes) ; rien de ce qui y a été lu n'est écrit dans une fiche (règle 456.b). Le marché couvert a son propre site,
+   le magasin biologique coopératif le sien, le marché bio du jeudi son organisateur et un exposant : **trois fiches
+   entières** dans la commune (règle 127). Le Grand Dole (champ `epci` 200010650) en ajoute deux, à 2,8 et 9,7 km de
+   la mairie : **elle fait la passe à cinq (règle 96).**
+
+Sources lues et retenues : le site des marchés de Dole (pages des horaires, des commerçants des halles et de
+l'extérieur, actualités jusqu'au 1er octobre 2026 ; aucune mention légale restrictive) ; le site du magasin
+biologique (horaires structurés, page des trente producteurs locaux) ; l'annonce 2026 de l'association du marché du
+jeudi dans un agenda de presse régional, et le site d'un maraîcher exposant ; le site de la fruitière de Chevigny
+(page des magasins ; clause générale, règle 231) ; la fiche de la fruitière dans l'interface ouverte du Département
+(mise à jour le 7 octobre 2026) ; le registre des entreprises, le registre de l'Agence Bio relu en entier sur le Jura
+(1 021 opérateurs), la Base Adresse Nationale, le géocodage de l'IGN (points d'intérêt) et l'annuaire de
+l'administration pour la mairie.
+
+1. **Marché couvert et marché de la place Nationale** (Dole) — halles mardi et jeudi 8h-13h, vendredi 14h-19h,
+   samedi 8h-13h30 ; marché extérieur jeudi et samedi 8h-13h ; métiers écrits un à un sur le site du marché. Halles
+   et plein air sur la même place : une seule fiche (règle 42). Point de l'IGN sur la halle, à 90 m du point de la
+   place à la Base (règle 10). Aucun téléphone : le seul numéro lu vient d'une source fermée. À 0,5 km.
+2. **Biocoop Réponse Nature** (Dole) — lundi au samedi 9h-19h ; société active à l'adresse, engagée en bio ; trente
+   producteurs locaux publiés (règle 86). Base au numéro, à 20 m du point du magasin. À 1,4 km.
+3. **Marché bio du cours Saint-Mauris** (Dole) — jeudi 16h30-19h toute l'année ; association active au registre ;
+   règle 456, nouvelle. La Base ne connaît pas le cours : point de l'IGN pour le parc de stationnement du même nom,
+   sous les arbres de la promenade, regardé sur la vue aérienne (règle 10). À 1,0 km.
+4. **Fruitière de Chevigny, magasin de Foucherans** — mardi au jeudi 9h-12h et 13h30-18h, vendredi 9h-12h30 et
+   13h30-18h, samedi 9h-12h ; établissement ouvert au registre à l'adresse ; Base au numéro (0,956). À 2,8 km.
+5. **Fruitière de Chevigny, magasin de la fromagerie** (Chevigny) — mardi au vendredi 9h-12h et 14h30-18h30, samedi
+   9h-18h30 ; siège actif au registre ; la Base n'a que la rue, point du registre retenu, à 40 m du repère du
+   Département (règle 10). À 9,7 km. Deux magasins, deux adresses, deux fiches (règle 3).
+
+Les cinq points sont à 11,2 km au plus les uns des autres ; le département n'avait aucune fiche (aucun doublon). Les
+cinq images sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne
+reconnaissable, ni enseigne lisible. Toutes les fiches partent en `a_confirmer`. Seul le magasin biologique porte un
+`site_web` ; le site du marché couvert nomme ses commerçants et la page d'accueil de la fruitière cite des clients par
+leur nom, ils ne sont pas mis en lien (règle 383). Téléphones : les fixes que le magasin biologique et la fruitière
+publient pour leur clientèle.
+
+**Contradictions** (règle 5) : la fruitière écrit quatorze exploitations dont huit en bio, sa page d'accueil en dit
+aussi quinze, la fiche du Département quinze dont quatre en bio — la fiche écrit « une quinzaine » et donne les deux
+versions ; le résumé d'un moteur de recherche donnait au marché couvert un vendredi de 15h à 18h, qu'aucune page lue
+ne porte — non repris (règle 415). **Fiches écartées pour doute sur une personne ou une donnée personnelle** : deux,
+à Amange et à Saint-Aubin ; aucun des noms que citent les pages lues (commerçants du marché, clients, élus, membres
+d'un bureau, directeurs de publication) n'est repris, ni ici, ni dans une fiche, ni dans un nom de fichier. **Laissé
+de côté volontairement** : tout ce que la section des pistes énumère.
+
+**Points d'arrêt** : dans le **Jura**, la relecture depuis le haut reprend à **Lons-le-Saunier** (16 618 ; un magasin
+biologique coopératif aux faits lus le 28 septembre, à relire), puis **Saint-Claude** et **Champagnole** ; les sites
+de Tavaux, de Damparis et de Foucherans se réessaient d'abord (règle 297). Après la passe, sur 1 247 fiches :
+Haute-Saône 4,22, Essonne 4,21, Val-d'Oise 4,18, Morbihan 4,17 ; le Jura retombe à −0,33. La région de cette passe
+est la Bourgogne-Franche-Comté (règle 41.c) : la Haute-Saône, même région, est fermée à la prochaine passe.
 
 ### Pistes non publiées à Rueil-Malmaison, à Saint-Cloud et dans l'ouest des Hauts-de-Seine
 
