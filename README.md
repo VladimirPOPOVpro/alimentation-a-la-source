@@ -13663,6 +13663,26 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-douzième) : Seine-Maritime, Le Petit-Quevilly éprouvé, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41** (métropole seulement, outre-mer écarté par la règle 177, population des communes lue sur geo.api.gouv.fr) : **Paris (75)** en tête du déficit, mais sa seule commune est déjà pourvue en fiches, donc aucune commune « sans fiche » ne s'y trouve. **Haute-Garonne (31)** suit et est exclue par la réserve de la règle 41.c, la passe précédente ayant visé le Gard, même région (Occitanie). **Seine-Maritime (76)** est donc retenue, avec un déficit voisin de celui de Paris.
+
+**Commune.** La plus peuplée sans aucune fiche en Seine-Maritime est Dieppe (28 496 habitants), déjà éprouvée à la passe du 8 octobre (cent quatre-vingt-septième) et restée sans cinq fiches entières. La descente passe donc à **Le Petit-Quevilly** (22 208 habitants), comme le prévoyait le point d'arrêt de cette passe.
+
+**Ce que le registre de l'Agence Bio donne pour Le Petit-Quevilly** : une grande surface (écartée, règle 4 du README pour les généralistes), un point de vente dont l'exploitant est inscrit sous un nom de personne (écarté, règle 309), un autre dont le même cas se répète (écarté, règle 309), et une enseigne de la même commune au registre sans vente aux particuliers. Aucun producteur ou magasin spécialisé exploitable n'en sort.
+
+**Recherche ouverte** (deux requêtes, sources secondaires) : un magasin bio indépendant, Rouen Bio, présenté avec des horaires d'un profil daté de 2021 ; un marché du samedi matin annoncé sur le site de la Ville, sans date de mise à jour récente. Les deux informations **ne concordent pas** avec le marché de la place du 8-Mai (jeudi et dimanche) relevé dans le README : contradiction consignée (règle 5), non tranchée à partir d'un extrait de moteur de recherche. Un troisième commerce, un « point producteur » de la rue Jacquart, n'a aucun horaire trouvé : écarté.
+
+**Pourquoi rien n'est publié.** Le Petit-Quevilly n'a, à ce stade, qu'une fiche solide au mieux (le magasin bio, horaires datés) et un marché dont le jour est contesté ; la zone ne se forme pas à cinq (règles 96 et 127), et l'on ne publie pas une zone partielle éparpillée.
+
+**Pistes non publiées** : Le Petit-Quevilly, magasin bio indépendant (horaires à confirmer auprès du magasin, source de 2021 seulement) ; Le Petit-Quevilly, marché (jour et lieu contradictoires entre sources, règle 5).
+
+**Point d'arrêt.** Seine-Maritime : Dieppe reste à réessayer au prochain passage sur le 76 (site de la Ville), puis la descente se poursuit à Le Grand-Quevilly (règle 41.d). La passe suivante ne vise pas la Normandie (règle 41.c : pas deux passes de suite dans la même région).
+
+**Contradictions** (règle 5) : jour et lieu du marché de Petit-Quevilly (site de la Ville, place du 8-Mai au README contre boulevard Stanislas-Girardin, samedi, dans une page de 2021), non publié.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-onzième) : Alès puis Bagnols-sur-Cèze (Gard), aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
