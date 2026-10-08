@@ -13663,6 +13663,20 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-septième) : Dieppe (Seine-Maritime), aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
+
+**Classement, règle 41**, outre-mer écarté (règle 177). L'Occitanie, dernière région visée (Gard, passe précédente), est fermée (règle 41.c). Paris (75) est épuisé : sa seule commune porte déjà des fiches. La Seine-Maritime est le premier département ouvert. Communes sans fiche par population : **Dieppe** (28 496 habitants) en tête. Le Havre (5 fiches) et Rouen (8) sont pourvues.
+
+**Ce qui a été lu cette passe (reprise de la règle 297).** Le site de la Ville de Dieppe répond, mais sa page des marchés renvoie la même réponse que sa page d'accueil : rien d'exploitable. L'office de tourisme (dieppe-tourisme.com) est joignable, sans marché ni producteur lisible à la recherche. Le registre des entreprises ne donne aucun établissement de vente directe à Dieppe pour « magasin producteurs ». Bienvenue à la ferme ne répond pas.
+
+**Pourquoi rien n'est publié.** Dieppe n'a toujours qu'une fiche entière possible, la boulangerie bio déjà notée en pistes (règle 127) : pas de zone à cinq. Les pistes des passes précédentes restent telles quelles.
+
+**Point d'arrêt** : Dieppe, à réessayer au prochain passage sur le 76 (site de la Ville). Si Dieppe ne rend pas cinq fiches entières, la descente reprend à Le Grand-Quevilly (25 789 habitants).
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-sixième) : Saint-Gilles (Gard), une fiche entière désignée pour la reprise, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée, une fiche désignée pour la reprise.** Total inchangé : 1 266 fiches.
