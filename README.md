@@ -5674,10 +5674,34 @@ prioritaires en cas de conflit.
      limites de la règle 439 restent : jamais à trois, jamais par une fiche dont un fait manque, et le cinquième point
      se publie seul, à son rang, dès qu'il existe. Aucune exigence de vérification ne baisse. **Ce que la règle
      débloque** : la passe de Livry-Gargan, dans la même passe.
+454. **Un site qui réserve son utilisation « à un usage strictement personnel » et interdit de reproduire « tout ou
+     partie » de son contenu n'est pas une source d'heures, mais il n'éteint pas le point de vente qu'une collectivité
+     décrit à la même adresse.** Le 8 octobre 2026 (cent soixante-dix-huitième passe), la coopérative maraîchère
+     d'Eysines publie sur son propre site les heures de son magasin de détail ; ses mentions légales réservent
+     l'utilisation du site à l'usage personnel et interdisent toute reproduction. La règle 296 lit déjà une permission
+     limitée à l'usage privé comme une exclusion de la publication pour les images, et la règle 416 ferme, faits
+     compris, le site qui n'admet que la lecture. Mais la Ville d'Eysines décrit elle-même, à cette adresse, des
+     casiers fermiers en libre-service à toute heure, leurs produits et leur fonctionnement, et la plateforme qu'elle
+     met en lien montre leur contenu du jour. **Tranché ainsi** : (a) la clause d'usage personnel vaut la clause de la
+     règle 416 — ni heure, ni téléphone, ni `site_web` ne sont repris de ce site ; (b) le point de vente que la
+     collectivité décrit se publie sur ce qu'elle écrit, à l'adresse que le registre des entreprises confirme, en
+     `a_confirmer` ; (c) la fiche dit que le magasin existe et que ses heures ne sont pas reprises, sans les écrire.
+     **Ce que la règle débloque** : dans la même passe, le cinquième point du groupe de Saint-Médard-en-Jalles.
+     **Déblocage** de la réserve : les heures du magasin publiées par la Ville, la Chambre d'agriculture ou un site
+     sans cette clause.
 
 ## Marchands à confirmer
 
-1098 fiches sur 1232 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1103 fiches sur 1237 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché municipal de Saint-Médard-en-Jalles** et **AMAP des Jalles** (Saint-Médard-en-Jalles), **Marché de
+  Migron** et **Casiers fermiers d'Eysines** (Eysines) et **Marché du bourg** (Le Taillan-Médoc) (passe du 8 octobre
+  2026, cent soixante-dix-huitième, règles 96, 127, 432 et 454) : les cinq fiches portent une vue aérienne de l'IGN,
+  qui ne montre ni étal ni distribution ; les marchés sont placés à la place (Base Adresse Nationale, lieu-dit pour la
+  place Florale) ; la Ville de Saint-Médard-en-Jalles écrit 98 commerçants sur une page et 50 à 65 dans un article
+  plus récent ; le marché du bourg du Taillan-Médoc n'a que sa Ville pour source ; l'AMAP n'a pas de site, ses faits
+  datent de la fiche communale du 25 novembre 2025 ; les casiers fermiers reposent sur la page de la Ville d'Eysines
+  de septembre 2025 et sur leur contenu en ligne du jour, les heures du magasin de la coopérative voisine n'étant pas
+  reprises.
 - **Marché Jacob** et **Marché Chanzy** (Livry-Gargan), **Marché des Amandiers** (Gagny) et **Petit marché
   Saint-Baudile** (Neuilly-sur-Marne) (passe du 8 octobre 2026, cent soixante-dix-septième, règles 127, 432 et 453) :
   les quatre fiches portent une vue aérienne de l'IGN, qui ne montre aucun étal ; les quatre points sont placés à la
@@ -13445,6 +13469,98 @@ compte aucun établissement ouvert, alors que la fiche touristique la donne enco
 immatriculée sous le patronyme de son exploitant, sans enseigne déclarée : la règle des personnes
 interdit de la nommer ici comme sur une fiche. Une demande d'ajout reçue le 17 septembre 2026 a été
 refusée pour la même raison de fait — un établissement fermé au registre.
+
+### Pistes non publiées à Saint-Médard-en-Jalles et dans le nord-ouest de Bordeaux Métropole
+
+Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent soixante-dix-huitième), avec le déblocage de chacune.
+
+- **Le Taillan-Médoc, marché du mardi matin de la place Buffon** (quartier de La Boétie, de 8h30 à 12h30 ; primeur,
+  poissonnier, volailler, charcutier-traiteur, d'après la page de la Ville du 23 juillet 2026) : faits entiers,
+  sixième candidat d'une passe à cinq. **Fiche entière désignée pour la reprise** (règle 258) ; elle se publie à son
+  rang, la zone existant déjà.
+- **Eysines, magasin de détail de la coopérative maraîchère** : société active à son adresse, existence attestée par
+  la Ville ; ses heures ne se lisent que sur son propre site, que ses mentions légales réservent à l'usage personnel
+  (règle 454). **Déblocage** : des heures publiées par la Ville ou la Chambre d'agriculture.
+- **Eysines, deux AMAP** (distributions du mercredi soir dans deux salles) : la page de la Ville qui écrit jour,
+  heure et lieu date du 2 septembre 2025, plus de douze mois (règles 195 et 434) ; le site de l'une ne répond pas,
+  l'autre n'en a pas. **Déblocage** : une source datée de moins de douze mois.
+- **Eysines, Le Haillan, Le Taillan-Médoc et Blanquefort, maraîchers en vente directe que la Ville d'Eysines
+  énumère** : la page ne donne que des adresses et des portables, sans jour ni heure de vente (règles 143 et 192) ;
+  plusieurs ne sont connus que sous un nom de personne et n'ont pas été instruits. **Déblocage** : pour ceux qui
+  portent une enseigne, des heures de vente écrites par l'exploitation.
+- **Saint-Médard-en-Jalles, magasin biologique de vrac de l'avenue Montaigne** : heures à l'annuaire économique de
+  la Ville, certificat engagé au registre de l'Agence Bio, mais aucune liste de producteurs à lui (règles 86 et
+  273). **Saint-Médard-en-Jalles, exploitation maraîchère certifiée en société** : aucune source ne décrit de vente
+  à son adresse (règle 152). **Déblocage** : une liste de producteurs, une vente écrite.
+- **Villenave-d'Ornon** : le domaine de la Ville ne répond toujours pas (aucune connexion) ; la commune reste muette
+  et l'AMAP notée le 24 septembre n'a pas été relue (règles 237 et 446).
+- **Jeu de données des marchés de Bordeaux Métropole** : le `robots.txt` du portail écrit `Disallow: /api/` sous
+  `User-agent: *` ; il n'a pas été lu (règle 419). Les trois marchés publiés reposent sur les pages de leurs Villes.
+- **Écartées pour doute sur une personne** : aucune fiche instruite puis écartée. Les opérateurs que le registre de
+  l'Agence Bio (3 748 lus sur le département) ne connaît, dans ce secteur, que sous un nom de personne n'ont pas été
+  instruits.
+
+### Passe du 8 octobre 2026 (cent soixante-dix-huitième) : Saint-Médard-en-Jalles, Eysines et Le Taillan-Médoc (Gironde), cinq fiches dans Bordeaux Métropole ; règle 454
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
+1 237 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 232
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : **Gironde (33)
+5,20**, vingt-cinq fiches, ouverte ; la passe précédente a publié en Île-de-France, la Nouvelle-Aquitaine est ouverte
+(règle 41.c) ; puis Jura 4,61, Hauts-de-Seine 4,57, Haute-Saône 4,17. `git fetch` fait avant le commit :
+`origin/main` n'a pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règle 41.d ; les deux premières avaient été quittées
+le 24 septembre pour la seule image, ce que la règle 432 rouvre), sous l'agent par défaut, `robots.txt` d'abord
+(règle 425) — aucun des sites communaux lus ne nomme d'agent d'IA :
+
+1. **Villenave-d'Ornon** (42 545) — le domaine de la Ville n'ouvre aucune connexion. **Zéro.**
+2. **Saint-Médard-en-Jalles** (32 910) — le marché municipal et l'AMAP hébergée par la Ville : **deux fiches
+   entières** dans la commune (règle 127), et Bordeaux Métropole (champ `epci` 243300316, règle 219) en ajoute trois
+   à moins de 7,1 km de la mairie : **elle fait la passe à cinq (règle 96).**
+
+Le point d'arrêt écrit, La Teste-de-Buch, n'est pas entamé.
+
+Sources lues : la page du marché municipal de la Ville de Saint-Médard-en-Jalles (2 mai 2025), sa fiche de point
+d'intérêt (23 juillet 2025) et son article du 18 septembre 2026 ; sa fiche d'annuaire de l'AMAP (25 novembre 2025) ;
+les pages « Les marchés de plein air » (15 juillet 2025) et « Consommer local » (2 septembre 2025) de la Ville
+d'Eysines ; la plateforme des casiers fermiers qu'elle met en lien ; la page des marchés de plein air de la Ville du
+Taillan-Médoc (23 juillet 2026) et son article du 24 avril 2025 ; le registre des entreprises ; le registre de
+l'Agence Bio (3 748 opérateurs du département). Distances prises depuis la mairie de Saint-Médard-en-Jalles (annuaire
+de l'administration, règle 363).
+
+1. **Marché municipal de Saint-Médard-en-Jalles** — samedi de 8h à 13h, place de la République ; trois pages de la
+   Ville concordent sur le jour, les heures et la place (règle 178), l'article de septembre 2026 écrit les métiers
+   un à un. BAN à la place (0,968). À 0,3 km.
+2. **AMAP des Jalles** — jeudi de 19h à 19h45 dans un pôle municipal, rue Aurel Chazeau ; fiche communale de moins
+   de douze mois (règle 434), sept familles écrites. Le bâtiment porte le nom d'une personne : la fiche l'écrit par
+   sa fonction (règle 342). BAN au numéro (0,969). À 2,2 km.
+3. **Marché de Migron** (Eysines) — dimanche de 8h à 13h, place Florale ; deux pages de la Ville concordent, l'une
+   donne la liste des étals par métier. BAN au lieu-dit (0,953) ; le dessin de la place se voit sur la vue aérienne.
+   À 7,1 km.
+4. **Marché du bourg** (Le Taillan-Médoc) — mercredi et dimanche de 8h30 à 12h30, place du Général de Gaulle ; une
+   fiche à deux séances (règle 42), métiers écrits pour chacune ; le marché du mercredi paraît aussi dans un article
+   de la Ville (règle 178), la source reste unique. BAN à la place (0,956). À 4,0 km.
+5. **Casiers fermiers d'Eysines** — en libre-service à toute heure, au niveau de la coopérative maraîchère ;
+   catégorie `producteur` (règles 105 et 389) ; la Ville écrit les familles de produits, la plateforme en lien
+   montre des casiers garnis ce jour ; la coopérative est active à cette adresse au registre. BAN au numéro (0,958),
+   à 30 m du point du registre. À 6,2 km. Ni téléphone ni `site_web` (règle 454, nouvelle).
+
+Les cinq points sont à 9,1 km au plus les uns des autres. Les cinq images sont des vues aériennes de l'IGN
+(1 280 × 800, règle 432), regardées une à une — ni personne reconnaissable, ni enseigne lisible. Toutes les fiches
+partent en `a_confirmer`. Aucune des pages de marché n'est mise en lien : celles d'Eysines et du Taillan-Médoc
+affichent des noms et des portables de commerçants (règle 383).
+
+**Contradictions** (règle 5) : la Ville de Saint-Médard-en-Jalles compte 98 commerçants sur sa page permanente et 50
+à 65 dans son article de septembre 2026 — les deux chiffres sont écrits dans la fiche, aucun n'est un fait de
+visite. Le site de la coopérative donne les heures de son magasin, que ses mentions légales ferment : non reprises
+(règle 454). **Fiches écartées pour doute sur une personne ou une donnée personnelle** : aucune ; aucun des noms ni
+des portables que citent les pages des trois Villes n'est repris, ni les prénoms de l'article de
+Saint-Médard-en-Jalles. **Laissé de côté volontairement** : tout ce que la section des pistes énumère.
+
+**Points d'arrêt** : en **Gironde**, la fiche désignée du Taillan-Médoc se reprend d'abord (règle 258) ;
+**Villenave-d'Ornon** est à réessayer à son rang (règle 406) ; la descente reprend à **La Teste-de-Buch** (27 566),
+puis **Lormont** et **Le Bouscat**. Après la passe, sur 1 237 fiches : Hauts-de-Seine 4,69, Jura 4,63, Haute-Saône
+4,18, Morbihan 4,05 ; la Gironde retombe à 0,32. La région de cette passe est la Nouvelle-Aquitaine (règle 41.c).
 
 ### Pistes non publiées à Livry-Gargan, dans Grand Paris Grand Est et dans la descente de la Seine-Saint-Denis
 

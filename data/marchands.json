@@ -32563,5 +32563,141 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Petit%20march%C3%A9%20Saint-Baudile%20%28Neuilly-sur-Marne%29%20Place%20du%20Chanoine%20H%C3%A9roux%2C%2093330%20Neuilly-sur-Marne",
     "image_url": "/images/marchands/petit-marche-saint-baudile-neuilly-sur-marne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-municipal-saint-medard-en-jalles",
+    "nom": "Marché municipal de Saint-Médard-en-Jalles",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.893626,
+    "lon": -0.71508,
+    "adresse": "Place de la République, 33160 Saint-Médard-en-Jalles",
+    "horaires": "Samedi de 8h à 13h, d'après la page du marché municipal de la Ville de Saint-Médard-en-Jalles (modifiée le 2 mai 2025) et son article du 18 septembre 2026.",
+    "produits": [
+      "Fruits et légumes",
+      "Fromages",
+      "Boucherie, triperie, volailles et rôtisserie",
+      "Poissons et huîtres",
+      "Pain et pâtisseries",
+      "Vins régionaux, café et thé",
+      "Plats cuisinés de traiteurs",
+      "Fleurs et plantes"
+    ],
+    "description": "Marché de plein air du samedi matin au centre-ville, sur 590 mètres linéaires : la Ville y écrit fruits et légumes, fromages, bouchers, tripier, volaillers, poissonniers, ostréiculteurs, boulangers et producteurs, à côté de traiteurs, de vêtements et de fleurs, avec un espace de dégustation aux beaux jours ; on peut venir avec ses propres contenants. La page permanente de la Ville compte 98 commerçants, son article de septembre 2026 entre 50 et 65. Point placé sur la place de la République (Base Adresse Nationale), à 0,3 km de la mairie. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20de%20la%20R%C3%A9publique%2C%2033160%20Saint-M%C3%A9dard-en-Jalles",
+    "image_url": "/images/marchands/marche-municipal-saint-medard-en-jalles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-des-jalles-saint-medard-en-jalles",
+    "nom": "AMAP des Jalles",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.89891,
+    "lon": -0.744044,
+    "adresse": "Pôle municipal, 26 Rue Aurel Chazeau, 33160 Saint-Médard-en-Jalles",
+    "horaires": "Distribution le jeudi de 19h à 19h45 au pôle municipal de la rue Aurel Chazeau, sur contrat et après adhésion, d'après la fiche que la Ville de Saint-Médard-en-Jalles consacre à l'association (modifiée le 25 novembre 2025). Les contrats et les adhésions se souscrivent en fin d'année.",
+    "produits": [
+      "Paniers de légumes",
+      "Pain",
+      "Œufs",
+      "Fromage",
+      "Pommes et kiwis",
+      "Poulet",
+      "Poisson"
+    ],
+    "description": "Association pour le maintien de l'agriculture paysanne qui réunit chaque semaine des familles et des producteurs en agriculture biologique ou en conversion, avec des visites et des chantiers chez eux au fil de l'année. L'association n'a pas de site : les faits viennent de l'annuaire des associations de la Ville, qui met la salle à disposition, et la date de cette fiche vaut source datée. Point placé au 26 rue Aurel Chazeau (Base Adresse Nationale), à 2,1 km de la mairie. Photo : vue aérienne des abords du pôle municipal, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=P%C3%B4le%20municipal%2C%2026%20Rue%20Aurel%20Chazeau%2C%2033160%20Saint-M%C3%A9dard-en-Jalles",
+    "image_url": "/images/marchands/amap-des-jalles-saint-medard-en-jalles.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-migron-eysines",
+    "nom": "Marché de Migron (Eysines)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.868786,
+    "lon": -0.636154,
+    "adresse": "Place Florale, 33320 Eysines",
+    "horaires": "Dimanche de 8h à 13h, d'après la page des marchés de plein air de la Ville d'Eysines (modifiée le 15 juillet 2025).",
+    "produits": [
+      "Fruits et légumes, dont un étal bio",
+      "Asperges et champignons",
+      "Boucherie, charcuterie et volailles",
+      "Poisson et huîtres",
+      "Fromages",
+      "Pain",
+      "Miel",
+      "Vins"
+    ],
+    "description": "Marché de plein air du dimanche matin dans le quartier de Migron, au bord de la zone maraîchère d'Eysines : la Ville y annonce plus d'une soixantaine de commerçants et de producteurs et publie la liste de ses étals par métier — treize étals de fruits et légumes, six ostréiculteurs, bouchers, charcutiers, volaillers, fromagers, boulanger, miel, plats cuisinés et fleurs. Point placé sur la place Florale (Base Adresse Nationale, lieu-dit), à 7,1 km de la mairie de Saint-Médard-en-Jalles, dans Bordeaux Métropole. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20Florale%2C%2033320%20Eysines",
+    "image_url": "/images/marchands/marche-de-migron-eysines.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-bourg-le-taillan-medoc",
+    "nom": "Marché du bourg (Le Taillan-Médoc)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 44.905556,
+    "lon": -0.668408,
+    "adresse": "Place du Général de Gaulle, 33320 Le Taillan-Médoc",
+    "horaires": "Mercredi et dimanche de 8h30 à 12h30, d'après la page des marchés de plein air de la Ville du Taillan-Médoc (modifiée le 23 juillet 2026).",
+    "produits": [
+      "Fruits et légumes (primeur)",
+      "Poisson",
+      "Huîtres",
+      "Boucherie",
+      "Volailles rôties",
+      "Plats cuisinés",
+      "Fleurs"
+    ],
+    "description": "Petit marché de plein air du centre du Taillan-Médoc, deux matins par semaine : la Ville écrit pour le mercredi un primeur, un poissonnier, deux étals de plats cuisinés et un fleuriste, pour le dimanche un boucher, un ostréiculteur, un rôtisseur, un primeur et un fleuriste. Un troisième marché, le mardi matin place Buffon, dans le quartier de La Boétie, n'est pas sur cette fiche. Point placé sur la place du Général de Gaulle (Base Adresse Nationale), à 4,0 km de la mairie de Saint-Médard-en-Jalles, dans Bordeaux Métropole. Photo : vue aérienne de la place, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20du%20G%C3%A9n%C3%A9ral%20de%20Gaulle%2C%2033320%20Le%20Taillan-M%C3%A9doc",
+    "image_url": "/images/marchands/marche-du-bourg-le-taillan-medoc.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "casiers-fermiers-eysines",
+    "nom": "Casiers fermiers d'Eysines",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.87404,
+    "lon": -0.644966,
+    "adresse": "44 Rue du 19 Mars 1962, 33320 Eysines",
+    "horaires": "En libre-service 7 jours sur 7 et 24 heures sur 24, sans commande ni réservation, paiement sur place, d'après la Ville d'Eysines (page « Consommer local », modifiée le 2 septembre 2025).",
+    "produits": [
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Viande et volaille",
+      "Œufs",
+      "Confitures et miel",
+      "Jus de fruits",
+      "Chips fermières"
+    ],
+    "description": "Casiers réfrigérés ou ventilés que la Ville d'Eysines présente comme une initiative de la Chambre d'agriculture et de son réseau Bienvenue à la ferme : plus de 200 produits issus de fermes de la Gironde et des départements voisins, au niveau de la coopérative maraîchère, un groupement de producteurs du nord-ouest de la métropole qui propose aussi, selon la Ville, des paniers de légumes et le retrait d'un drive fermier ; les heures de son magasin ne sont pas reprises ici, son site réservant ses contenus à l'usage personnel. Le contenu des casiers se consulte en ligne avant de se déplacer ; il était garni le 8 octobre 2026. Coopérative active à cette adresse au registre des entreprises ; point de la Base Adresse Nationale, à 6,2 km de la mairie de Saint-Médard-en-Jalles, dans Bordeaux Métropole. Photo : vue aérienne du bâtiment de la coopérative, qui ne montre pas les casiers — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=44%20Rue%20du%2019%20Mars%201962%2C%2033320%20Eysines",
+    "image_url": "/images/marchands/casiers-fermiers-eysines.jpg",
+    "a_confirmer": true
   }
 ]
