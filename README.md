@@ -13663,6 +13663,38 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-cinquième) : Saint-Chamond (Loire), une fiche entière désignée pour la reprise, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Aucune fiche publiée, une fiche désignée pour la reprise.**
+Total inchangé : 1 266 fiches. **Classement, règle 41**, outre-mer écarté (règle 177), sur 1 266 fiches : **Loire (42) 4,21**, Gard 4,15,
+Seine-Maritime 4,15, Haut-Rhin 4,15, Haute-Garonne 4,02. La passe précédente visait la Bretagne ; la Loire (Auvergne-Rhône-Alpes) est
+ouverte (règle 41.c). Commune retenue : **Saint-Chamond** (35 646 habitants), la plus peuplée de la Loire sans aucune fiche : Saint-Étienne en
+porte cinq, dans la commune même.
+
+**Ce qui a été lu.** Le registre des entreprises : **Saveurs de Nos Fermes**, établissement siège actif, 23 avenue Jules Ferry, 42400 Saint-Chamond
+(SIREN 422700930, enseigne de société). La Base Adresse Nationale : numéro 23 reconnu, score 0,967, coordonnées 45,471947 / 4,517213. La fiche
+de magasin de producteurs de Que Choisir (carte des circuits courts) : mercredi et vendredi 8h30-12h30 et 14h30-19h, jeudi 8h30-12h30, samedi
+8h30-13h30, lundi et dimanche fermé. Aucun site ni téléphone vérifié pour ce magasin ; aucun site vérifié cette passe.
+
+**Pourquoi rien n'est publié.** Une zone se forme à cinq fiches entières (règles 96 et 127) : Saint-Chamond compte **une** fiche entière à ce
+stade (règle 258, désignée pour la reprise). Les deux autres pistes de la commune n'ont pas pu être recoupées cette passe :
+- **Marché de Saint-Chamond** : la page « Marchés forains » de la Ville est servie sans son contenu lisible dans cette passe ; l'annuaire
+  de marchés et les agendas tiers donnent des jours contradictoires (règle 5) et ne suffisent pas à fixer heures et familles (règle 197).
+- **AMAP du Creux** : aucune source indépendante retrouvée en recherche cette passe, aucune trace de son site cette passe.
+
+**Désignée pour la reprise (règle 258)** : Saveurs de Nos Fermes, 23 avenue Jules Ferry, Saint-Chamond — à compléter par son téléphone et ses
+heures de vendredi confirmées avant publication, photographie par vue aérienne IGN (règle 432). Avant toute publication, le même cinquième
+point doit venir de Saint-Chamond même, ou la zone passe à Saint-Étienne Métropole (règle 96, distance bornée par la règle 249).
+
+**Pistes non publiées** : Saint-Chamond, exploitants individuels du registre bio inscrits sous leur nom — doute sur une personne, non
+instruits, ne se rouvrent pas. Saint-Chamond, marché de producteurs de Chavanne : non instruit cette passe, pas de source lue.
+
+**Points d'arrêt** : Loire, la descente reprend à **Saint-Chamond** ; Roanne (35 409) et Firminy suivent, sans fiche. Une fiche désignée
+pour la reprise ici reste écrite et ne s'utilise qu'avec son cinquième point.
+
+**Contradictions** (règle 5) : entre les horaires de Saint-Chamond données par Que Choisir et ceux de l'annuaire de septembre, le vendredi
+est concordant ; aucune autre contradiction retenue.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-quatrième) : Vannes, Séné et Saint-Avé (Morbihan), cinq fiches dans Golfe du Morbihan - Vannes Agglomération ; le département se relit depuis le haut ; règle 459
 
 Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Cinq fiches ajoutées, aucune retirée** :
