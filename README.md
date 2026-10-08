@@ -5726,10 +5726,38 @@ prioritaires en cas de conflit.
      qui recoupe n'est pas publié pour autant et n'est nommé nulle part. Aucune exigence de vérification ne baisse.
      **Ce que la règle débloque** : dans la même passe, la troisième fiche de Dole. **Déblocage** de la réserve : une
      page de l'association, ou de la Ville sans sa clause, qui écrive le marché.
+457. **Un distributeur automatique que seul l'annuaire de la Chambre d'agriculture situe se publie quand son enseigne
+     est active au registre des entreprises et que la fiche de son exploitation, dans le même annuaire, porte une
+     trace datée de moins de douze mois ; et l'article daté qu'une commune reprend sur son propre site vaut, pour une
+     AMAP, la source datée de la règle 195.** Le 8 octobre 2026 (cent quatre-vingt-deuxième passe), la Haute-Saône,
+     écrite épuisée le 29 septembre, mène les départements ouverts sans une fiche et se rouvre par la règle 432.
+     Vesoul garde ses deux fiches désignées ; leur déblocage demandait « une seconde source des faits du
+     distributeur et une source datée de l'AMAP » d'Échenoz-la-Méline. La source datée de l'AMAP existe depuis le
+     6 octobre : la commune a repris sur son site un article de presse du 1er octobre 2026 qui écrit le jour,
+     l'heure, le lieu et les produits. Le distributeur, lui, n'aura jamais de seconde page — ni commune ni office ne
+     fichent un distributeur fermier — mais son enseigne est active au registre, son exploitation est certifiée au
+     registre de l'Agence Bio, et sa fiche d'exploitation à l'annuaire porte un avis de client de décembre 2025. La
+     règle 402 publie déjà sur la seule fiche datée d'un office. **Tranché ainsi** : (a) l'annuaire de la Chambre
+     d'agriculture, que le mandat range parmi les sources indépendantes, suffit pour l'emplacement et le
+     libre-service d'un distributeur quand le registre des entreprises porte l'enseigne active et qu'une trace de
+     moins de douze mois se lit sur la fiche de l'exploitation ; la fiche part en `a_confirmer` et dit qu'une seule
+     source écrit l'emplacement ; (b) la règle ne s'étend ni au distributeur dont le libellé est un nom de personne
+     (règle 259), ni à celui d'un exploitant à l'adresse masquée (règle 433), ni à un magasin, dont les heures
+     demandent davantage ; (c) pour une AMAP, la reprise datée d'un article par le site de la commune vaut la fiche
+     communale de la règle 434 ; la page qui nomme des personnes n'est pas mise en lien (règle 383). Aucune exigence
+     de vérification ne baisse. **Ce que la règle débloque** : dans la même passe, les troisième et quatrième points
+     du groupe de Vesoul, publié à quatre par la règle 453.
 
 ## Marchands à confirmer
 
-1118 fiches sur 1252 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+1122 fiches sur 1256 sont marquées "à confirmer" dans `data/marchands.json` (champ `a_confirmer: true`), car certaines informations (horaires exacts, adresse précise, téléphone) n'ont pas pu être vérifiées avec certitude via recherche web :
+- **Marché de Vesoul** et **Esprit Paysan Vesoul** (Vesoul), **AMAP Île Verte** et **Distributeur Les Apicocottes**
+  (Échenoz-la-Méline) (passe du 8 octobre 2026, cent quatre-vingt-deuxième, règles 432, 447, 453 et 457) : les quatre
+  fiches portent une vue aérienne de l'IGN, qui ne montre ni étal, ni vitrine, ni distributeur ; les heures du marché
+  ne viennent que de l'annuaire de la Chambre d'agriculture, la Ville écrivant « le matin » ; le magasin de
+  producteurs est ouvert le lundi pour la Chambre et fermé pour le comité départemental du tourisme, et ferme le
+  samedi à 18h pour l'une, à 19h pour l'autre ; l'AMAP distribue de 18h15 à 19h15 selon l'article daté, de 18h30 à
+  19h30 selon la Chambre ; l'emplacement du distributeur n'a qu'une source.
 - **Marché de Vilmorin**, **Marché de Villaine**, **Marché de Narbonne** et **Marché du Centre-Ville** (Massy),
   **Marché de Chilly-Mazarin** (passe du 8 octobre 2026, cent quatre-vingt-unième, règles 96, 127 et 432) : les cinq
   fiches portent une vue aérienne de l'IGN, qui ne montre ni étal ni halle en activité ; les marchés de Vilmorin et
@@ -13554,6 +13582,78 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-uniè
   groupe étant complet. **Déblocage** : des heures de vente publiées par la brasserie.
 - **Verrières-le-Buisson et Igny, marchés** : sites des Villes servis à l'agent par défaut, pages des marchés non
   cherchées plus avant, le groupe étant complet ; à lire à la prochaine descente.
+
+### Passe du 8 octobre 2026 (cent quatre-vingt-deuxième) : Vesoul et Échenoz-la-Méline (Haute-Saône), quatre fiches dans l'agglomération de Vesoul ; le département se rouvre par la règle 432 ; règle 457
+
+Aucune demande de visiteur (ni nouvelle, ni en cours), aucun courriel. **Quatre fiches ajoutées, aucune retirée** :
+1 256 fiches. **Classement, règle 41**, recalculé sur l'appel national (34 969 communes, 68 952 941 habitants, 1 252
+fiches avant la passe), outre-mer écarté (règle 177), relu depuis le premier rang (règle 410) : Val-d'Oise (95) 4,27,
+dix-neuf fiches, fermé par la règle 41.c (la passe précédente a publié en Île-de-France) ; **Haute-Saône (70) 4,23**,
+aucune fiche, écrite épuisée le 29 septembre (règle 265) et rouverte à son rang par la règle 432 — c'est cette passe
+qui la relit ; puis Morbihan 4,22, Loire 4,06. `git fetch` fait avant le calcul : `origin/main` n'avait pas bougé.
+
+**Descente relue depuis la commune la plus peuplée sans fiche** (règles 41.d et 446), sous l'agent par défaut,
+`robots.txt` et mentions légales lus avant les pages (règles 402 et 425).
+
+1. **Vesoul** (15 078) — le site de la Ville sert l'agent par défaut ; ses mentions légales admettent la reprise
+   numérique avec mention de la source et protègent les photographies : aucune image n'est reprise (règle 231), les
+   faits sont lus. Les deux fiches désignées le 29 septembre (règle 258) sont relues dans la passe et restent
+   entières : **deux fiches dans la commune** (règle 127). La Communauté d'agglomération de Vesoul (champ `epci`
+   247000011, vingt communes) en ajoute deux à Échenoz-la-Méline, à 1,1 et 2,4 km de la mairie : **elle fait la
+   passe à quatre (règle 453)**, les quatre points à 2,8 km au plus les uns des autres.
+
+Sources lues et retenues : la page « Marchés hebdomadaires » de la Ville de Vesoul (servie le 8 octobre 2026) ;
+l'annuaire « J'veux du local » de la Chambre d'agriculture de Haute-Saône (52 points de vente et 160 fiches de
+producteurs relus ; clause générale sur le contenu, qui ne nomme pas les images, règle 231) ; le site de la commune
+d'Échenoz-la-Méline, qui sert désormais l'agent par défaut (article repris le 6 octobre 2026) ; le site du comité
+départemental du tourisme (faits lus, images fermées par ses mentions légales) ; le registre de l'Agence Bio relu
+sur la Haute-Saône (632 opérateurs servis) ; le registre des entreprises ; la Base Adresse Nationale.
+
+1. **Marché de Vesoul** — jeudi et samedi matin (Ville), 8h-13h (Chambre) ; sous les halles, place de la République
+   et place Pierre-Rénet. Point : le 16 place de la République à la Base (0,960), à 60 m du marqueur de la Chambre. À
+   0,5 km de la mairie.
+2. **Esprit Paysan Vesoul** — magasin de producteurs, 10 rue André-Maginot ; société active au registre avec un
+   établissement dans la rue, adresse au registre de l'Agence Bio. Point : le numéro à la Base (0,961). À 0,8 km.
+   Le site du magasin répond 403 à l'agent par défaut : il n'est ni lu ni mis en lien (règle 425).
+3. **AMAP Île Verte** (Échenoz-la-Méline) — mardi 18h15-19h15, place d'Armes ; article du 1er octobre 2026 repris
+   par la commune (règles 195, 434 et 457.c) ; trois de ses fournisseurs certifiés au registre de l'Agence Bio
+   (règle 60). Point de la place à la Base (0,950), à 30 m du marqueur de la Chambre. À 2,4 km.
+4. **Distributeur Les Apicocottes** (Échenoz-la-Méline) — œufs bio et miels, libre-service à toute heure, à la
+   station de lavage du 32 avenue Pasteur (Chambre, règle 457) ; enseigne active au registre, exploitation
+   certifiée depuis 2022. Point : le numéro à la Base (0,964). À 1,1 km. Le nom d'immatriculation de l'exploitant
+   n'est repris nulle part.
+
+Aucune des deux communes n'avait de fiche (aucun doublon ; le département n'en comptait aucune). Les quatre images
+sont des vues aériennes de l'IGN (1 280 × 800, règle 432), regardées une à une — ni personne reconnaissable, ni
+enseigne lisible. Toutes les fiches partent en `a_confirmer`. Trois fiches portent en `site_web` leur page de
+l'annuaire de la Chambre, qui ne nomme personne ; l'AMAP n'a pas de lien, la page de la commune et la fiche de
+l'annuaire portant des noms ou des portables (règle 383). Un seul téléphone, le numéro non géographique du magasin
+de producteurs ; aucun portable.
+
+**Cinquième point cherché, non trouvé** (règle 453.b) : dans les vingt communes de l'agglomération, l'annuaire de la
+Chambre ne rend plus que des ventes à la ferme sur rendez-vous ou sans heures et des libellés faits d'un nom de
+personne ; le registre bio, des grandes surfaces, des boulangeries sans vente directe déclarée et des exploitations
+qui ne vendent qu'en gros ; le comité départemental du tourisme, aucun point de vente avec des heures ; les sites
+de Vaivre-et-Montoille, de Pusey et de Frotey-lès-Vesoul n'écrivent aucun marché, ceux de Noidans-lès-Vesoul (403)
+et de Navenne (503) ne servent pas l'agent. Les deux magasins biologiques de réseau de Vesoul sont nommés comme
+débouché par une dizaine de producteurs haut-saônois de l'annuaire, ce qui remplirait la règle 273, mais les sites
+des deux réseaux sont fermés (règles 149 et 414) et aucune autre autorité ne publie leurs heures (règle 192).
+
+**Contradictions** (règle 5) : le magasin de producteurs est ouvert du lundi au vendredi de 9h à 19h et le samedi
+jusqu'à 18h pour la Chambre, du mardi au samedi de 9h à 19h pour le comité du tourisme — la fiche publie
+l'intersection et nomme le lundi et l'heure du samedi comme disputés (règle 447.a), les deux sources ayant rang
+d'annuaire ; la Chambre écrit soixante-dix exploitations, le comité vingt-cinq associés et une trentaine d'autres, la
+fiche donne les deux. L'AMAP distribue à 18h15 selon l'article daté, à 18h30 selon la Chambre : la fiche retient la
+source datée et dit l'autre. **Fiches écartées pour doute sur une personne ou une donnée personnelle** : trois dans
+l'agglomération, une à Vesoul (distributeur d'œufs au libellé fait d'un nom), une à Villeparois et une à Montcey
+(exploitations sous un nom de personne) ; aucun des noms que citent les pages lues (producteurs, élus, agents,
+personnes citées par la presse) n'est repris, ni ici, ni dans une fiche, ni dans un nom de fichier. **Laissé de côté
+volontairement** : tout ce que la section des pistes énumère.
+
+**Points d'arrêt** : en **Haute-Saône**, la relecture depuis le haut reprend à **Héricourt** (10 621), puis **Lure**
+et **Luxeuil-les-Bains**. Après la passe, sur 1 256 fiches : Val-d'Oise 4,35, Morbihan 4,27, Loire 4,10, Gard 4,04,
+Haut-Rhin 4,04 ; la Haute-Saône retombe à 0,25. La région de cette passe est la Bourgogne-Franche-Comté (règle
+41.c) : le Val-d'Oise, en Île-de-France, est ouvert à la prochaine passe.
 
 ### Passe du 8 octobre 2026 (cent quatre-vingt-unième) : Massy et Chilly-Mazarin (Essonne), cinq fiches dans la Communauté Paris-Saclay
 
@@ -33323,6 +33423,27 @@ Viry-Châtillon, Draveil et Yerres (zéro chacune, détail dans la section de la
   un magasin bio de réseau y figurent au registre bio. Commune non encore éprouvée : elle le sera à son rang.
 
 ### Pistes non publiées en Haute-Saône
+
+Passe du 8 octobre 2026 (cent quatre-vingt-deuxième). Vesoul a fait la passe à quatre points avec Échenoz-la-Méline
+(voir la section de la passe) : les deux fiches désignées de Vesoul, l'AMAP et le distributeur d'Échenoz-la-Méline
+sont publiés et sortent des pistes ci-dessous. Restent, dans l'agglomération :
+
+- **Vesoul, deux magasins biologiques de réseau** (boulevard des Alliés et rue du Tallerot) : établissements
+  actifs, nommés comme débouché par une dizaine de producteurs haut-saônois de l'annuaire de la Chambre ; les sites
+  des deux réseaux sont fermés (règles 149 et 414). **Déblocage** : leurs heures publiées par une autorité lisible.
+  Le premier qui les obtient se publie seul, comme cinquième point (règle 453.c).
+- **Frotey-lès-Vesoul, marché de producteurs** : sa fiche à l'annuaire de la Chambre ne s'ouvre plus et le site de
+  la commune n'en écrit rien. **Déblocage** : une page datée de l'année.
+- **Vesoul, marché solidaire du mardi après-midi** : inchangé, sans publication de l'organisateur (règle 196).
+- **Vesoul, un apiculteur fiché par le comité du tourisme** : aucune heure de vente (règle 192) et une fiche qui
+  nomme l'exploitant ; non instruit.
+- **Vesoul, distributeur d'œufs au libellé fait d'un nom de personne ; Villeparois et Montcey, exploitations sous
+  un nom de personne** : écartés pour doute sur une personne, ne se rouvrent pas.
+- **Charmoille, miellerie ; Colombier, élevage** : vente à la ferme sans heures ou sur rendez-vous, portables
+  seuls (règle 192).
+- **Noidans-lès-Vesoul** (403) et **Navenne** (503) : sites qui ne servent pas l'agent pendant la passe ; ils se
+  réessaient en tête de la prochaine descente dans le département (règle 297).
+- **Point d'arrêt** : la relecture reprend à **Héricourt** (10 621).
 
 Passe du 29 septembre 2026 (cent douzième). Reprise des deux fiches désignées de Vesoul : l'agglomération ne complète pas
 (voir la section de la passe) ; **Rioz** (2 398) rend une fiche entière — **un verger de la route des Fontenis** dont le

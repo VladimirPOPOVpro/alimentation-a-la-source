@@ -33117,5 +33117,115 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=31%20Avenue%20Pierre%20Brossolette%2C%2091380%20Chilly-Mazarin",
     "image_url": "/images/marchands/marche-de-chilly-mazarin.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-vesoul",
+    "nom": "Marché de Vesoul",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.622199,
+    "lon": 6.159489,
+    "adresse": "16 Place de la République, 70000 Vesoul",
+    "horaires": "Jeudi et samedi matin, d'après la page des marchés hebdomadaires de la Ville de Vesoul ; de 8h à 13h d'après l'annuaire « J'veux du local » de la Chambre d'agriculture de Haute-Saône.",
+    "produits": [
+      "Légumes de maraîchers",
+      "Boucherie et charcuterie",
+      "Poisson",
+      "Fromages",
+      "Pain",
+      "Plats de traiteurs",
+      "Produits du terroir",
+      "Fleurs et horticulture"
+    ],
+    "description": "Marché du centre-ville de Vesoul, sous les halles, place de la République et place Pierre-Rénet, deux matins par semaine. La Ville y annonce jusqu'à 250 exposants en été — elle le présente comme le plus grand marché de Haute-Saône — avec bouchers, charcutiers, poissonniers, fromagers, boulangers, maraîchers et traiteurs sous les halles, et des étals non alimentaires à l'extérieur ; deux parcs de stationnement gratuits le bordent. Les heures ne viennent que de l'annuaire de la Chambre d'agriculture, la Ville écrivant seulement « le matin ». Point : le 16 place de la République à la Base Adresse Nationale, à 0,5 km de la mairie. Photo : vue aérienne de la place et des halles, qui ne montre pas le marché en activité — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "site_web": "https://jveuxdulocal70.fr/annuaire/commerce/marche-de-vesoul-13.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=16%20Place%20de%20la%20R%C3%A9publique%2C%2070000%20Vesoul",
+    "image_url": "/images/marchands/marche-de-vesoul.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "esprit-paysan-vesoul",
+    "nom": "Esprit Paysan Vesoul",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 47.62003,
+    "lon": 6.144185,
+    "adresse": "10 Rue André Maginot, 70000 Vesoul",
+    "horaires": "Du mardi au vendredi de 9h à 19h, samedi de 9h à 18h. Deux points disputés : le lundi (ouvert de 9h à 19h d'après l'annuaire de la Chambre d'agriculture de Haute-Saône, fermé d'après le comité départemental du tourisme) et la fermeture du samedi (18h pour la Chambre, 19h pour le comité) — téléphoner avant de se déplacer un lundi.",
+    "produits": [
+      "Bœuf, veau, porc et volailles",
+      "Charcuteries",
+      "Yaourts et fromages de vache et de chèvre",
+      "Cancoillotte",
+      "Légumes et pommes de terre",
+      "Œufs",
+      "Miel",
+      "Farines, légumes secs et vins de Franche-Comté"
+    ],
+    "description": "Magasin de producteurs ouvert en décembre 2018 dans la zone d'activités à l'ouest de Vesoul : soixante-dix exploitations agricoles de Haute-Saône y vendent leurs produits sans intermédiaire, d'après l'annuaire de la Chambre d'agriculture ; le comité départemental du tourisme parle de vingt-cinq producteurs associés rejoints par une trentaine d'autres, dans un magasin de 300 m². Les familles de produits sont celles que déclarent les vingt-huit producteurs de l'annuaire qui disent y vendre. Société de producteurs active au registre des entreprises, avec un établissement dans cette rue ; l'adresse figure aussi au registre de l'Agence Bio. Le site du magasin n'a pas pu être relu pendant la passe : les heures viennent des deux annuaires, qui ne s'accordent pas sur le lundi. Adresse géocodée au numéro par la Base Adresse Nationale, à 0,8 km de la mairie. Photo : vue aérienne de la zone, qui ne montre pas l'intérieur du magasin — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "telephone": "09 74 71 01 10",
+    "site_web": "https://jveuxdulocal70.fr/annuaire/commerce/esprit-paysan-vesoul-3.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Esprit%20Paysan%2C%2010%20Rue%20Andr%C3%A9%20Maginot%2C%2070000%20Vesoul",
+    "image_url": "/images/marchands/esprit-paysan-vesoul.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "amap-ile-verte-echenoz-la-meline",
+    "nom": "AMAP Île Verte (Échenoz-la-Méline)",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie",
+      "social"
+    ],
+    "lat": 47.602839,
+    "lon": 6.135467,
+    "adresse": "Place d'Armes, 70000 Échenoz-la-Méline",
+    "horaires": "Distribution le mardi de 18h15 à 19h15, place d'Armes, d'après un article du 1er octobre 2026 que la commune d'Échenoz-la-Méline a repris sur son site le 6 octobre ; l'annuaire de la Chambre d'agriculture de Haute-Saône écrit 18h30 à 19h30. Paniers sur abonnement, deux paniers d'essai sans engagement, ou commande en ligne sans contrat.",
+    "produits": [
+      "Paniers de légumes bio (deux tailles)",
+      "Pain au levain bio et produits sans gluten",
+      "Pommes et poires bio",
+      "Jus, compotes et vinaigre de cidre",
+      "Œufs",
+      "Tartes et préparations végétariennes",
+      "Bières artisanales bio"
+    ],
+    "description": "Association pour le maintien d'une agriculture paysanne qui distribue chaque mardi soir sur la place d'Armes d'Échenoz-la-Méline, à 2,4 km de la mairie de Vesoul. Les légumes viennent de deux fermes maraîchères de Haute-Saône ; un fournil paysan, un verger biologique, une artisane de tartes végétariennes et une brasserie du département complètent l'offre. Le maraîchage, le verger et le fournil sont certifiés au registre de l'Agence Bio. Les deux sources s'écartent d'un quart d'heure sur le créneau : la fiche retient la plus récente, datée. Point : celui de la place à la Base Adresse Nationale. Photo : vue aérienne de la place, hors distribution — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Place%20d%27Armes%2C%2070000%20%C3%89chenoz-la-M%C3%A9line",
+    "image_url": "/images/marchands/amap-ile-verte-echenoz-la-meline.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "distributeur-les-apicocottes-echenoz-la-meline",
+    "nom": "Distributeur Les Apicocottes (Échenoz-la-Méline)",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 47.611584,
+    "lon": 6.147598,
+    "adresse": "32 Avenue Pasteur, 70000 Échenoz-la-Méline",
+    "horaires": "Distributeur automatique en libre-service, 7 jours sur 7 et 24 heures sur 24, d'après l'annuaire « J'veux du local » de la Chambre d'agriculture de Haute-Saône.",
+    "produits": [
+      "Œufs bio",
+      "Miels"
+    ],
+    "description": "Distributeur automatique d'une exploitation de volailles et d'apiculture de Vellefrie, à une dizaine de kilomètres au nord-est de Vesoul, installé à la station de lavage de l'avenue Pasteur : œufs bio et miels de l'exploitation, à toute heure. L'enseigne est active au registre des entreprises (élevage de volailles) et l'exploitation est certifiée au registre de l'Agence Bio depuis 2022. L'emplacement et le libre-service ne sont écrits que par l'annuaire de la Chambre d'agriculture : à vérifier sur place avant de compter dessus. Adresse géocodée au numéro par la Base Adresse Nationale, à 1,1 km de la mairie de Vesoul. Photo : vue aérienne de l'avenue et de la station, qui ne montre pas le distributeur — IGN, BD ORTHO, licence ouverte Etalab 2.0 (data.geopf.fr, image relevée le 8 octobre 2026).",
+    "site_web": "https://jveuxdulocal70.fr/annuaire/commerce/distributeur-les-apicocottes-104.html",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=32%20Avenue%20Pasteur%2C%2070000%20%C3%89chenoz-la-M%C3%A9line",
+    "image_url": "/images/marchands/distributeur-les-apicocottes-echenoz-la-meline.jpg",
+    "a_confirmer": true
   }
 ]
