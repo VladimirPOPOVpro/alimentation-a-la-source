@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 8 octobre 2026 (cent quatre-vingt-dix-septième) : Haute-Garonne, Castanet-Tolosan éprouvée, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants, règle 177), 1 271 fiches. Le Nord (59), passe précédente, est exclu par la règle 41.c, avec toute la région Hauts-de-France. En tête ensuite : **Haute-Garonne (31), 5,2659** ; Seine-Maritime (76), 5,2223. La Haute-Garonne est retenue.
+
+**Commune : règle 248 et point d'arrêt.** La descente du 31 reprend à **Castanet-Tolosan** (15 317 habitants), point d'arrêt de la passe précédente, après Plaisance-du-Touch et Balma, déjà éprouvées à zéro. Toulouse, Colomiers, Tournefeuille et Cugnaux portent déjà des fiches.
+
+**Castanet-Tolosan, éprouvée.** Aucun marché de producteurs n'a d'horaires publiés par la Ville ou par une source datée : les annonces trouvées (marché du vendredi sous la Halle Lauragaise, marché du samedi place Argyroupoli) ne donnent ni heures ni familles de produits. Le Biocoop de l'avenue du Lauragais a un téléphone et une adresse concordants, mais aucun horaire vérifiable (une offre d'emploi donne « du lundi après-midi au dimanche matin », indication non publiable). La boutique de produits bio et de producteurs de 300 m² ouverte en 2023 n'a pas d'horaires trouvés. **Zéro.**
+
+**Pistes non publiées** : Castanet-Tolosan, Biocoop de l'avenue du Lauragais (horaires à lire sur son site ou par téléphone) ; boutique de producteurs bio (horaires à établir, enseigne à vérifier sur place).
+
+**Points d'arrêt** : la descente du 31 reste à **Castanet-Tolosan** ; la commune suivante par population est **Ramonville-Saint-Agne** (15 158 habitants), puis Saint-Orens-de-Gameville (14 646).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
 ### Passe du 8 octobre 2026 (cent quatre-vingt-seizième) : Nord, Mons-en-Barœul non vérifiée, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
