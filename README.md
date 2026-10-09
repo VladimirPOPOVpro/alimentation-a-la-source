@@ -35257,7 +35257,7 @@ Demande de visiteur : une demande en attente (n° 13, commune du Var), **en_cour
 - mercredi, Fonsala, place Île-de-France, 7 h – 12 h ;
 - vendredi, Izieux, place Nationale, 7 h – 12 h ;
 - samedi, centre-ville, place de la Liberté, 7 h – 12 h ;
-- Le Creux, place Louis-Comte, 7 h – 12 h (le jour n'est pas lisible dans le bloc de la Ville : `a_confirmer`).
+- Le Creux, sa place, 7 h – 12 h (le jour n'est pas lisible dans le bloc de la Ville : `a_confirmer`).
 
 Ce déblocage est partiel. La règle 9 exige **deux** sources officielles pour publier un marché (la commune et l'office de tourisme). L'office de tourisme de Saint-Étienne ne répond pas depuis cet environnement (`saint-etienne-tourisme.com`, erreur de connexion) : les marchés restent donc hors fiche. Quatre points de marché rendraient en outre la règle 52 applicable (complément sur une commune limitrophe de la même intercommunalité), et aucun producteur ou commerce entier n'a été trouvé à Saint-Chamond.
 
