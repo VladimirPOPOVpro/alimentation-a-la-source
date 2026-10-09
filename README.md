@@ -35170,3 +35170,25 @@ Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publi�
 **Pistes non publiées (Loire)** — lignes anonymes :
 - Saint-Chamond, Saveurs de Nos Fermes : téléphone à une seule source. **Déblocage** : second site ou page du magasin lisant le même numéro.
 - Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires. **Déblocage** : page officielle de la Ville lisible.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, neuvième) : Seine-Maritime, Dieppe reprise, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 177). Calcul refait sur 1 271 fiches : Seine-Maritime (76) **4,24** est éligible, la passe précédente visait la Loire (règle 41.c). Le Var reste très négatif.
+
+**Commune : règle 248.** Parmi les communes de 76 sans fiche, la plus peuplée est **Dieppe** (28 496 habitants). Le Havre, Rouen, Sotteville et Saint-Étienne-du-Rouvray portent déjà des fiches. Dieppe ne rend qu'une fiche possible, déjà désignée (passe du 29 septembre) : elle reste bloquée, sa page d'accueil nomme une personne (règle 377).
+
+**Ce qui a été lu.** Recherche générale sur les marchés d'Elbeuf (76500 : rien de pertinent, seul un homonyme de Belbeuf ressort, sans horaires exploitables) et de Montivilliers (76290 : marché hebdomadaire sans jours ni horaires dans la source touristique ; marchés nocturnes d'été sans année précise). Aucune fiche n'a pu être vérifiée avec une seconde source.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq fiches entières (règles 96 et 127). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Seine-Maritime si elle reste la région de tête (règle 41.c) ; elle reprendra au premier département éligible du classement. La zone 76 reste à reprendre à Elbeuf (15 474) puis Montivilliers (15 478) si une source officielle des marchés apparaît.
+
+**Pistes non publiées (Seine-Maritime)** — lignes anonymes :
+- Dieppe, fiche unique possible : page d'accueil nommant une personne (règle 377). **Déblocage** : une seconde fiche entière dans la commune.
+- Elbeuf, Montivilliers : aucune source datée des marchés. **Déblocage** : page officielle de la Ville lisible sur les marchés.
