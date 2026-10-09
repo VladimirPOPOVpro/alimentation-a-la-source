@@ -35302,3 +35302,29 @@ Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune ret
 - Saint-Gaudens, magasin de la ferme et épicerie fine : sources sans horaires ni site. **Déblocage** : site du commerce ou fiche de l'office de tourisme.
 
 **Points d'arrêt** : la passe suivante ne vise pas la Haute-Garonne si elle reste région de tête après un nouvel échec (règle 41.c). Pour Saint-Gaudens, le déblocage restant est la seconde source des marchés et deux commerces entiers vérifiés. Dans le Nord, Cambrai reste en cours ; en Loire, Saint-Chamond reste en cours.
+
+### Passe autonome du 9 octobre 2026 (treizième) : Loire, Roanne reprise, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule (règles 177 et 224). Tête éligible : Loire (42, 4,27). La passe précédente visait la Haute-Garonne (Occitanie) : la Loire (Auvergne-Rhône-Alpes) est donc éligible (règle 41.c).
+
+**Commune, règle 248.** Saint-Chamond reste bloquée (quatre passes sans fiche entière). La descente passe à **Roanne** (35 409 habitants), deuxième commune de la Loire sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 42 : dix opérateurs mentionnent Roanne. Écartés : négoce de gros et distributeurs de grande surface (règle 3) ; un producteur maraîcher dont l'enseigne est un patronyme : écarté pour doute sur une personne ; une boulangerie-pâtisserie bio à enseigne patronymique, dont le gérant est nommé au registre : écartée pour doute sur une personne. Un magasin bio en réseau (site du réseau non joignable depuis cet environnement) est inscrit au registre comme ouvert (une seule source ouverte, pas d'horaires ni de téléphone vérifiés).
+- Recherche web sur le marché de la Place du Marché : l'office de tourisme (roannais-tourisme.com) annonce un marché le mardi et surtout le vendredi matin ; jours-de-marche.fr (source participative) en recense huit. Pas de page officielle de la Ville lue : une seule source officielle au sens de la règle 9.
+- Pas de site officiel de la Ville lisible sur les marchés.
+
+**Pourquoi rien n'est publié.** Roanne ne rend aucune fiche entière et vérifiée au sens du site (règles 96 et 127). Le marché n'a pas ses deux sources officielles (règle 9). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : deux à Roanne (un maraîcher et une boulangerie-pâtisserie, enseignes patronymiques), toutes deux issues du registre de l'Agence Bio. Elles ne se rouvrent pas.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Loire si elle reste région de tête après un nouvel échec (règle 41.c). Pour Roanne, le déblocage est la page officielle de la Ville sur les marchés (second source), et deux commerces entiers avec site et téléphone vérifiés. Pour Saint-Chamond, le déblocage reste l'office de tourisme et deux commerces entiers.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Roanne, marché de la Place du Marché : une source officielle manquante (office de tourisme seul). **Déblocage** : page de la Ville sur les marchés.
+- Roanne, magasin bio en réseau : site et horaires non vérifiés depuis cet environnement. **Déblocage** : site du réseau ou page du magasin lisible.
+- Roanne, maraîcher bio et boulangerie-pâtisserie bio : enseignes patronymiques, doute sur une personne. **Déblocage** : aucun ; écartées.
