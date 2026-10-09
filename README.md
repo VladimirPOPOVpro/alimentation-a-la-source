@@ -34737,6 +34737,20 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inc
 
 **Contradictions** (règle 5) : deux sources d'horaires divergent pour l'épicerie bio d'Alès, non publiée.
 
+### Passe du 9 octobre 2026 (passe autonome planifiée) : Loire, Firminy et Montbrison éprouvées, aucune publication
+
+Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41** : outre-mer écarté (règle 177) ; Hauts-de-France exclue par la réserve 41.c, la passe précédente y étant allée. **Loire (42), déficit 4,27**, est retenue, en tête après exclusion. Saint-Étienne a déjà sept fiches et ne compte plus ; Saint-Chamond, Roanne et Feurs ont été éprouvées lors de passes précédentes sans publication. La descente reprend donc à **Firminy** (17 060 habitants).
+
+**Registre de l'Agence Bio, Loire (1 408 opérateurs, 400 relevés).** À Firminy, les opérateurs relevés sont une coopérative qui vend aux professionnels, une collectivité, une enseigne de grande distribution et un exploitant en nom propre sans vente au public. À Montbrison, les opérateurs relevés ne vendent pas au public. À Rive-de-Gier, Roche-la-Molière et Veauche, les opérateurs qui vendent aux particuliers sont des entreprises individuelles désignées par le nom patronymique de l'exploitant : **doute sur des personnes, non publiés, ces pistes ne se rouvrent pas.** Au Chambon-Feugerolles, une boulangerie bio vend au public, mais aucune source de commerce vérifiée n'a encore été relevée pour elle.
+
+**Pourquoi rien n'est publié.** Firminy et Montbrison ne rendent pas cinq commerces vérifiables. Le registre ne suffit pas à former une zone, et la relecture des sites communaux (Ville de Firminy, office de tourisme) n'a pas été menée dans cette passe.
+
+**Pistes non publiées** (anonymes) : Firminy, aucune piste hors registre à ce stade, à chercher sur le site de la Ville et l'office de tourisme. Le Chambon-Feugerolles, une boulangerie bio vendant au public (fait à vérifier, fiche non rédigée). Rive-de-Gier, Roche-la-Molière, Veauche : opérateurs vendant au public désignés par un patronyme (doute sur des personnes).
+
+**Point d'arrêt.** Loire visée ; la passe suivante ne peut pas la viser (règle 41.c). La reprise devra commencer par **Firminy** (site de la Ville et office de tourisme, puis enseignes non patronymiques), puis **Montbrison** (16 123 habitants), puis Rive-de-Gier si une enseigne non patronymique apparaît.
+
 ## Comment ajouter ou modifier un marchand
 
 Toutes les données sont dans un seul fichier : **`data/marchands.json`**. Pas besoin de toucher au reste du code.
