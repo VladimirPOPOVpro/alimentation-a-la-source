@@ -13663,6 +13663,25 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (deux cent troisième) : Haute-Garonne, L'Union relue, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches, appel national `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (Normandie) : la région est fermée pour cette passe (règle 41.c). En tête ensuite : **Haute-Garonne (31), déficit 5,27** ; Nord (59) 5,24 ; le Var reste à −213,50. La Haute-Garonne est retenue.
+
+**Commune.** La plus peuplée sans fiche reste celle du point d'arrêt : **L'Union** (12 638 habitants). Le registre de l'Agence Bio, première page du 31 (100 opérateurs), ne donne à L'Union qu'une entreprise de boissons déclarée en vente aux particuliers, sans heure ni adresse de vente lue sur une source ouverte. **Zone à zéro** : cinq commerces vérifiables ne sont pas réunis.
+
+**Descente.** Castelginest (11 271), que le point d'arrêt précédent désignait comme suivante, avait déjà été éprouvée à zéro le 26 septembre (règle 247 : marché sans produits ni vente directe au registre) ; elle n'a pas été relue cette passe. Villeneuve-Tolosane, à zéro le même jour, non relue non plus. Aucun groupe de cinq n'a été atteint.
+
+**Pistes non publiées** :
+- L'Union, entreprise de boissons (registre Agence Bio, vente aux particuliers déclarée) : aucune heure ni adresse de vente lue sur une source ouverte. **Déblocage** : une adresse de vente ou des heures publiées par l'entreprise.
+
+**Points d'arrêt** : Haute-Garonne reste ouverte. La prochaine passe qui vise le 31 reprend à L'Union (une fois le point de vente de l'entreprise de boissons lu), puis Castelginest et Villeneuve-Tolosane, dont les verdicts du 26 septembre sont à réexaminer. La passe suivante ne vise pas l'Occitanie si la Haute-Garonne reste en tête après celle-ci (règle 41.c).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
 ### Passe du 10 octobre 2026 (deux cent deuxième) : Seine-Maritime, Dieppe relue, Canteleu ouverte, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
