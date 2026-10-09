@@ -13663,6 +13663,38 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (deux cent sixième) : Nord, Wattrelos reprise, Cambrai ouverte, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches. En tête : **Haute-Garonne (31), 5,27**, exclue : la passe précédente visait l'Occitanie (règle 41.c). **Nord (59), 5,24** (45 fiches), retenu. Seine-Maritime (76), 5,22. Le Var reste à −213,50.
+
+**Commune : descente du Nord, règles 247 et 288.** Wattrelos (40 847) est reprise en premier, puisque c'est la plus peuplée du département sans fiche.
+
+- **Wattrelos.** Le registre de l'Agence Bio (1 793 opérateurs du 59, lus en totalité cette passe) ne donne qu'un grossiste, une enseigne de distribution généraliste et une entrée de vente aux particuliers qui porte un nom de personne (écartée sans nom, règle 309). La Ville n'a toujours publié aucune heure pour ses quatre marchés. **Zéro.**
+- **Marcq-en-Barœul** (40 184) : le site de la Ville ne répond pas (code 000). **Zéro.**
+- **Cambrai** (31 134), commune suivante. Le site de la Ville exclut le robot par son nom (règle 77) : **non consulté**. Les sources retenues sont des annuaires et des registres, sans le site de la Ville ni celui des commerces :
+  - un magasin Biocoop de la commune (enseigne Vitavie, rue Gauthier) : deux annuaires donnent l'adresse et un téléphone ; un seul donne des horaires (9 h–20 h, tous les jours). Pas encore de source officielle lue (le site du réseau relève de la règle 149). **Trop tôt pour publier.**
+  - un magasin bio indépendant (enseigne Bio C'Bon, place Aristide-Briand) : une seule source, des horaires du lundi au samedi (9 h 30–19 h). **Trop tôt pour publier.**
+  - un maraîcher en magasin de la ferme : deux sources qui ne donnent que le lundi et le mardi (14 h 30–19 h) ; le reste de la semaine est inconnu. **Non publié.**
+  - une cave à épices et un bio de gros issus du registre : grossistes, écartés.
+  - la coopérative agricole : généraliste, écartée.
+
+  **Cinq fiches vérifiables : non atteint. Cambrai ne rend donc aucune fiche cette passe.**
+- **Maubeuge** (28 767), non entamée à fond : le magasin Biocoop de la commune a deux horaires contradictoires selon les annuaires (l'un le lundi après-midi seulement, l'autre du mardi au samedi, 9 h 30–19 h), et une autre enseigne « bio » du même quartier ne correspond pas au même nom. Un producteur annoncé dans le registre n'a aucune source publique. **Non publié.**
+
+**Pistes non publiées** :
+- Cambrai, Biocoop (enseigne Vitavie) : horaires, adresse et téléphone issus d'annuaires seulement. **Déblocage** : une seconde source indépendante pour les horaires (page du réseau, Chambre d'agriculture, office du Cambrésis si son site accepte l'agent).
+- Cambrai, magasin bio indépendant (Bio C'Bon) : une source. **Déblocage** : une seconde source pour l'adresse et les horaires.
+- Cambrai, maraîcher en magasin de la ferme : horaires partiels. **Déblocage** : les horaires du mercredi au dimanche.
+- Maubeuge, Biocoop : horaires contradictoires entre annuaires. **Déblocage** : l'horaire lu sur une source du réseau ou sur place.
+
+**Points d'arrêt** : le Nord reste ouvert, avec Cambrai en cours (une seule commune a été instruite, zéro fiche). La prochaine passe qui vise le Nord reprend à Cambrai, puis Maubeuge, Lambersart et Armentières, en retentant Marcq-en-Barœul quand son site répondra. **La passe suivante ne vise pas les Hauts-de-France** (règle 41.c).
+
+**Contradictions** : Maubeuge, deux horaires différents pour le même magasin Biocoop, consignés ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre à Wattrelos, une à Cambrai (noms de personnes, sans nom). Non publiées, ne se rouvrent pas.
+
 ### Passe du 9 octobre 2026 (deux cent cinquième) : Haute-Garonne, Castelginest reprise, zone à zéro, aucune publication
 
 Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
