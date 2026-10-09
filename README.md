@@ -13663,6 +13663,29 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (deux cent quatrième) : Nord, Wattrelos relue, Halluin relue, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants). En tête : **Haute-Garonne (31), 5,27**, exclue : la passe précédente visait l'Occitanie (règle 41.c). Ensuite **Nord (59), 5,24** (45 fiches), retenu. Seine-Maritime (76), 5,22. Le Var reste à −213,50.
+
+**Commune.** Wattrelos (40 847) reste la plus peuplée du Nord sans fiche. La page d'accueil de la Ville répond et ne mentionne aucun marché ; ses quatre marchés restent sans horaires publiés (inchangé). Registre de l'Agence Bio : 1 100 opérateurs du 59 lus sur 1 793 (onze pages de cent). Une seule entrée à Wattrelos déclare la vente aux particuliers ; son enseigne est un nom de personne : écartée (règle 309), sans nom.
+
+**Halluin (20 715), relue.** La page « Marchés et braderies » de la Ville donne deux marchés : le samedi de 8h30 à 13h30 place du Général-de-Gaulle, et le mercredi de 8h30 à 13h à la halle Nkong Zem. Aucun produit publié. L'image de la page est celle d'une braderie du centre-ville, pas du marché : aucune photographie libre du lieu. Registre de l'Agence Bio : deux entrées à Halluin déclarent la vente aux particuliers, dont les enseignes peuvent désigner des personnes : écartées pour doute (règle 309), sans nom.
+
+**Marcq-en-Barœul.** Le site de la Ville ne répond toujours pas (code 000). **Zone à zéro** : aucun commerce du Nord ne réunit cinq fiches vérifiables cette passe.
+
+**Pistes non publiées** :
+- Halluin, marchés du samedi et du mercredi : horaires publiés par la Ville, aucun produit ni photo libre du lieu. **Déblocage** : une liste d'étals ou de produits et une image libre du lieu.
+- Wattrelos, une entrée du registre Agence Bio (vente aux particuliers) : enseigne qui est un nom de personne (règle 309). Non publiée, ne se rouvre pas.
+- Halluin, deux entrées du registre Agence Bio (vente aux particuliers) : doute sur une personne. Non publiées, ne se rouvrent pas.
+
+**Points d'arrêt** : le Nord reste ouvert. La prochaine passe qui vise le Nord reprend à Wattrelos (horaires des marchés ou produits d'un point de vente), puis Marcq-en-Barœul quand son site répondra, puis Halluin une fois une image libre et une liste de produits trouvées. La passe suivante ne vise pas les Hauts-de-France (règle 41.c).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : trois entrées du registre Agence Bio (deux à Halluin, une à Wattrelos) ; non publiées, ne se rouvrent pas.
+
 ### Passe du 9 octobre 2026 (deux cent troisième) : Haute-Garonne, L'Union relue, zone à zéro, aucune publication
 
 Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
