@@ -13663,6 +13663,25 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 10 octobre 2026 (deux cent deuxième) : Seine-Maritime, Dieppe relue, Canteleu ouverte, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches. La passe précédente visait la Haute-Garonne (Occitanie) : la région est fermée (règle 41.c). En tête ensuite : **Seine-Maritime (76)**, déficit d'environ 5,2 ; Bouches-du-Rhône (13) et Isère (38) suivent. La Seine-Maritime est retenue. Le Var reste à −213,5.
+
+**Commune.** Dieppe (28 496 habitants) est reprise en tête, comme le prévoyait le point d'arrêt (règle 297). Le site de la Ville répond, mais sa page des marchés ne renvoie aucun texte exploitable à ce client : rien ne se publie. Dieppe ne fournit toujours qu'une fiche possible. La descente passe donc à **Canteleu** (14 402 habitants), sans fiche.
+
+**Canteleu, lue ce soir.** Les pages de la Ville ne mentionnent aucun marché ni producteur (sites ville-canteleu.fr et canteleu.fr : agenda et annuaire d'animations seulement). Le registre de l'Agence Bio, première page du 76 (100 opérateurs), donne sept établissements à Canteleu : un seul est un producteur déclaré en vente aux particuliers, et les autres sont des distributeurs, des stockages ou des établissements sans vente, ou portent un nom de personne dans leur adresse et sont écartés (règle 309). **Ce n'est pas cinq commerces vérifiables : zone à zéro.**
+
+**Pistes non publiées** :
+- Canteleu, producteur de fruits et fleurs (registre Agence Bio, vente aux particuliers déclarée, bio) : aucun horaire, aucun site ni lieu de vente publiés à ce jour. **Déblocage** : une adresse de vente ou des heures publiées par le producteur.
+
+**Points d'arrêt** : Seine-Maritime, Canteleu reste ouverte. La prochaine passe qui vise le 76 reprend à Canteleu, puis à Bois-Guillaume (déjà une fiche, à ignorer) ; Dieppe se réessaie quand le site de la Ville répond avec son contenu. La passe suivante ne vise pas la Normandie (règle 41.c).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre Agence Bio à Canteleu, dont l'enseigne est un nom de personne (règle 309) ; non publiée, ne se rouvre pas.
+
 ### Passe du 9 octobre 2026 (deux cent unième) : Haute-Garonne, L'Union relevée, aucune publication
 
 Aucune demande de visiteur (backlog vide), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
