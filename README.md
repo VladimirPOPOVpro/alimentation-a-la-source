@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (deux cent cinquième) : Haute-Garonne, Castelginest reprise, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches, appel national `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la région est fermée pour cette passe (règle 41.c). En tête ensuite : **Haute-Garonne (31), déficit 5,27** ; Nord (59) 5,24, exclu ; Seine-Maritime (76) 5,22. Le Var reste à −213,50. La Haute-Garonne est retenue.
+
+**Commune : règle 248, reprise au point d'arrêt.** La descente du 31 reprend à **Castelginest** (11 271 habitants), point d'arrêt de la passe 203. Le marché du samedi (grand'Place) reste sans liste de produits ni vente directe au registre bio, comme au verdict du 26 septembre. Une recherche ouverte cette passe ne donne aucun producteur ni AMAP situé dans la commune : l'annuaire de producteurs jours-de-marche ne liste que des fermes à 7 km et plus (communes voisines), et l'AMAP la plus proche est en Tarn, hors périmètre. Le site de la Ville n'a pas pu être ouvert par le navigateur de la passe. **Zéro.**
+
+**Pistes non publiées** : aucune nouvelle. Les pistes de L'Union (AMAP du Grand Jardin, entreprise de boissons) restent en attente de leurs déblocages déjà notés.
+
+**Points d'arrêt** : la descente du 31 reste à **Castelginest** ; la commune suivante par population est **Villeneuve-Tolosane** (11 044 habitants), dont le verdict du 26 septembre est à réexaminer, puis Seysses (10 539). La passe suivante ne vise pas l'Occitanie (règle 41.c).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
 ### Passe du 9 octobre 2026 (deux cent quatrième) : Nord, Wattrelos relue, Halluin relue, aucune publication
 
 Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
