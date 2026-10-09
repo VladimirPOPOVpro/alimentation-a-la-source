@@ -13671,7 +13671,7 @@ Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courri
 
 **Commune.** Wattrelos (40 847) reste la plus peuplée du Nord sans fiche. La page d'accueil de la Ville répond et ne mentionne aucun marché ; ses quatre marchés restent sans horaires publiés (inchangé). Registre de l'Agence Bio : 1 100 opérateurs du 59 lus sur 1 793 (onze pages de cent). Une seule entrée à Wattrelos déclare la vente aux particuliers ; son enseigne est un nom de personne : écartée (règle 309), sans nom.
 
-**Halluin (20 715), relue.** La page « Marchés et braderies » de la Ville donne deux marchés : le samedi de 8h30 à 13h30 place du Général-de-Gaulle, et le mercredi de 8h30 à 13h à la halle Nkong Zem. Aucun produit publié. L'image de la page est celle d'une braderie du centre-ville, pas du marché : aucune photographie libre du lieu. Registre de l'Agence Bio : deux entrées à Halluin déclarent la vente aux particuliers, dont les enseignes peuvent désigner des personnes : écartées pour doute (règle 309), sans nom.
+**Halluin (20 715), relue.** La page « Marchés et braderies » de la Ville donne deux marchés : le samedi de 8h30 à 13h30 place du Général-de-Gaulle, et le mercredi de 8h30 à 13h à la halle. Aucun produit publié. L'image de la page est celle d'une braderie du centre-ville, pas du marché : aucune photographie libre du lieu. Registre de l'Agence Bio : deux entrées à Halluin déclarent la vente aux particuliers, dont les enseignes peuvent désigner des personnes : écartées pour doute (règle 309), sans nom.
 
 **Marcq-en-Barœul.** Le site de la Ville ne répond toujours pas (code 000). **Zone à zéro** : aucun commerce du Nord ne réunit cinq fiches vérifiables cette passe.
 
