@@ -35192,3 +35192,32 @@ Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publi�
 **Pistes non publiées (Seine-Maritime)** — lignes anonymes :
 - Dieppe, fiche unique possible : page d'accueil nommant une personne (règle 377). **Déblocage** : une seconde fiche entière dans la commune.
 - Elbeuf, Montivilliers : aucune source datée des marchés. **Déblocage** : page officielle de la Ville lisible sur les marchés.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, dixième) : Loire, Saint-Chamond reprise une troisième fois, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. Calcul refait sur 1 271 fiches : la Loire (42) **4,27** est en tête des départements éligibles. La passe précédente visait la Seine-Maritime (76), donc la garde « deux passes de suite » ne bloque pas la Loire. Les départements 987 et 988 en tête du calcul brut relèvent de l'outre-mer, écarté par la règle 177.
+
+**Commune, règle 248.** Parmi les communes de la Loire sans fiche, la plus peuplée est **Saint-Chamond** (35 646 habitants ; Roanne, 35 409, est plus petite mais n'a pas encore de fiche non plus). Saint-Chamond est repris pour la troisième fois.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, département 42, quatre cents opérateurs parcourus, trois mentionnent Saint-Chamond :
+- un grossiste de restauration, grandes surfaces généralistes et grossistes : écarté (négoce de gros, règle 3) ;
+- un distributeur à l'enseigne « généraliste », certification arrêtée, dernière mise à jour en 2019 : écarté (commerce généraliste, mise à jour trop ancienne) ;
+- un artisan boulanger-pâtissier bio dont l'enseigne est le nom d'une personne physique : écarté pour doute sur une personne (voir ci-dessous).
+
+Les marchés de Fonsala, d'Izieux et du centre-ville restent à jours contradictoires, et la fiche « Saveurs de Nos Fermes » reste à téléphone à source unique. Aucune fiche n'atteint la vérification complète.
+
+**Pourquoi rien n'est publié.** Saint-Chamond ne rend aucune fiche entière (règles 96 et 127). Rien ne se publie « en attendant » (MODERATION.md). Roanne, deuxième commune de la descente, n'a pas été instruite cette passe : la reprise de Saint-Chamond est prioritaire tant qu'elle n'est pas soldée.
+
+**Contradictions** : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : une (Saint-Chamond, boulangerie-pâtisserie bio, enseigne d'un nom de personne physique). Ne se rouvre pas, conformément à la règle.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Loire si elle reste région de tête après la passe du 9 octobre (règle 41.c), à moins que Saint-Chamond ne soit soldé. Pour Saint-Chamond, le déblocage est une page officielle de la Ville lisible sur les marchés, et deux fiches commerciales entières supplémentaires.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Saint-Chamond, boulangerie-pâtisserie bio : enseigne d'une personne physique, doute sur une personne. **Déblocage** : aucun ; écartée.
+- Saint-Chamond, grossiste et distributeur généraliste : hors périmètre (règle 3, mise à jour ancienne). **Déblocage** : aucun.
+- Saint-Chamond, Saveurs de Nos Fermes : téléphone à une seule source. **Déblocage** : second site ou page du magasin lisant le même numéro.
+- Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires. **Déblocage** : page officielle de la Ville lisible.
