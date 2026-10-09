@@ -35272,3 +35272,33 @@ Ce déblocage est partiel. La règle 9 exige **deux** sources officielles pour p
 **Pistes non publiées (Loire)** — lignes anonymes :
 - Saint-Chamond, quatre marchés (centre-ville mardi et samedi, Fonsala mercredi, Izieux vendredi, Le Creux) : source officielle unique (la Ville). **Déblocage** : confirmation par l'office de tourisme, ou page de l'intercommunalité.
 - Demande n° 13, commune du Var : enseigne au prénom d'une personne, contact privé. **Déblocage** : aucun ; reste en_cours.
+
+### Passe autonome du 9 octobre 2026 (douzième) : Haute-Garonne, Saint-Gaudens reprise, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule (règles 177 et 224). Tête : Haute-Garonne (31), déficit 5,26, puis Nord (59) 5,24 et Seine-Maritime (76) 5,22. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : la Haute-Garonne (Occitanie) est éligible (règle 41.c). Le Var reste très négatif (−213,5).
+
+**Commune, règle 248.** Blagnac (27 604) et Muret (26 079) restent éprouvées à zéro ; la descente reprend au point d'arrêt de la passe précédente, **Saint-Gaudens** (12 139 habitants).
+
+**Saint-Gaudens : ce qui est lisible.**
+- Site de la Ville (`stgo.fr`, page « Les marchés de plein vent », mise à jour le 20 mai 2025) : marché du jeudi matin dans le centre-ville, de 7 h à 12 h 30 jusqu'à la halle gourmande ; marché de producteurs locaux le samedi matin place Jean-Jaurès, de 7 h 30 à 13 h. Une seule source officielle : la règle 9 en exige deux pour publier un marché. **Non publié.**
+- Biocoop St Go : site du magasin lu (`biocomminges.biocoop.net`), vendredi 9 h 30 – 19 h, samedi 9 h 30 ouverture. Adresse à Estancarbon (ZA Paban, RD 817), commune voisine et non Saint-Gaudens ; la fiche ne rejoint donc pas la zone de Saint-Gaudens ni le décompte de cinq. **Non publié** pour cette passe.
+- Une fiche de pointage d'un collectif bio (retrait hebdomadaire le jeudi de 17 h à 19 h, avenue du Maréchal-Foch) : repérée par un moteur de recherche, page du collectif non trouvée à l'adresse attendue. Un point de retrait n'est pas un commerce. **Non publié.**
+- Un magasin de la ferme et une épicerie fine : présence seulement signalée par des fiches tierces, sans site ni horaires vérifiables. **Non publiés.**
+- Le registre de l'Agence Bio (Haute-Garonne, 200 premiers opérateurs lus) ne donne à Saint-Gaudens qu'un abattoir et un grossiste : écartés.
+- L'annuaire régional « Accents du Terroir » ne liste aucun point de vente à Saint-Gaudens.
+
+**Pourquoi rien n'est publié.** Saint-Gaudens ne rend aucune fiche entière et vérifiée au sens du site ; le décompte est très loin de cinq. Les marchés restent à deux sources officielles. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre de l'Agence Bio (un grossiste et un producteur en vente particulière, enseignes patronymiques). Non publiées, ne se rouvrent pas.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Saint-Gaudens, marchés (jeudi centre-ville, samedi producteurs) : source officielle unique (la Ville). **Déblocage** : second source officielle (office de tourisme ou intercommunalité) ; l'office de tourisme ne répond pas depuis cet environnement.
+- Saint-Gaudens, Biocoop St Go : fiche entière possible, mais située à Estancarbon, commune voisine. **Déblocage** : décision de zone (règle 52) quand cinq fiches existeront.
+- Saint-Gaudens, point de retrait d'un collectif bio : pas un commerce. **Déblocage** : aucun.
+- Saint-Gaudens, magasin de la ferme et épicerie fine : sources sans horaires ni site. **Déblocage** : site du commerce ou fiche de l'office de tourisme.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Haute-Garonne si elle reste région de tête après un nouvel échec (règle 41.c). Pour Saint-Gaudens, le déblocage restant est la seconde source des marchés et deux commerces entiers vérifiés. Dans le Nord, Cambrai reste en cours ; en Loire, Saint-Chamond reste en cours.
