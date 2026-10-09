@@ -35243,3 +35243,32 @@ Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publi�
 **Pistes non publiées (Seine-Maritime)** — lignes anonymes :
 - Elbeuf, marché du jeudi et marché du samedi : horaires divergents selon les annuaires ; aucune page officielle lisible. **Déblocage** : page de la Ville sur les marchés.
 - Fécamp, marché du samedi : fermeture 13h ou 14h selon la source. **Déblocage** : confirmation par la Ville ; fiche de marché publiable seule (règle 9).
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, onzième) : Loire, Saint-Chamond éprouvée à nouveau, zone non formée à cinq, aucune publication
+
+Demande de visiteur : une demande en attente (n° 13, commune du Var), **en_cours, aucune publication, aucune réponse envoyée**. L'enseigne reprend un prénom de personne et le contact est une adresse et un téléphone privés : doute sur une personne, la piste reste ouverte sans rien publier (règle MODERATION.md).
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule (règles 177 et 224). Tête : Loire (42, 4,27), puis Seine-Maritime (76, 4,24). La passe précédente visait la Seine-Maritime (région 28) : elle est exclue par la règle 41.c. La Loire (région 84) est éligible.
+
+**Commune, règle 248.** Saint-Chamond (35 646 habitants) reste la commune la plus peuplée de la Loire sans fiche. Reprise pour la quatrième fois.
+
+**Ce qui a changé depuis la dixième passe.** La page « Marchés forains » de la Ville de Saint-Chamond est désormais lisible (saint-chamond.fr/pratique/marches-forains/). Elle tranche les jours et les lieux qui étaient contradictoires :
+- mardi, centre-ville, place de la Liberté, 7 h – 12 h ;
+- mercredi, Fonsala, place Île-de-France, 7 h – 12 h ;
+- vendredi, Izieux, place Nationale, 7 h – 12 h ;
+- samedi, centre-ville, place de la Liberté, 7 h – 12 h ;
+- Le Creux, place Louis-Comte, 7 h – 12 h (le jour n'est pas lisible dans le bloc de la Ville : `a_confirmer`).
+
+Ce déblocage est partiel. La règle 9 exige **deux** sources officielles pour publier un marché (la commune et l'office de tourisme). L'office de tourisme de Saint-Étienne ne répond pas depuis cet environnement (`saint-etienne-tourisme.com`, erreur de connexion) : les marchés restent donc hors fiche. Quatre points de marché rendraient en outre la règle 52 applicable (complément sur une commune limitrophe de la même intercommunalité), et aucun producteur ou commerce entier n'a été trouvé à Saint-Chamond.
+
+**Pourquoi rien n'est publié.** Une commune ne rend pas cinq fiches entières (règles 96 et 127) ; une fiche isolée n'est pas une zone (règle 248) ; et deux sources officielles manquent pour les marchés (règle 9). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune nouvelle. Les jours de marché de Fonsala, d'Izieux et du centre-ville étaient jugés contradictoires ; la page de la Ville les tranche (voir ci-dessus).
+
+**Fiches écartées pour doute sur une personne** : deux cette passe, à Saint-Chamond, toutes deux déjà en pistes (une enseigne au nom d'une personne physique ; un producteur en vente directe dont l'enseigne est un patronyme). Elles ne se rouvrent pas.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Loire si elle reste région de tête après un nouvel échec (règle 41.c). Pour Saint-Chamond, le déblocage restant est l'office de tourisme (second source des marchés) et deux commerces entiers.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Saint-Chamond, quatre marchés (centre-ville mardi et samedi, Fonsala mercredi, Izieux vendredi, Le Creux) : source officielle unique (la Ville). **Déblocage** : confirmation par l'office de tourisme, ou page de l'intercommunalité.
+- Demande n° 13, commune du Var : enseigne au prénom d'une personne, contact privé. **Déblocage** : aucun ; reste en_cours.
