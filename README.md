@@ -35095,3 +35095,32 @@ Aucune demande de visiteur (backlog vide). **Aucune fiche publiée.** Total inch
 - Cambrai, Bio C'Bon : une seule source. **Déblocage** : une seconde source pour adresse et horaires.
 - Cambrai, maraîcher à vente à la ferme : horaires partiels. **Déblocage** : horaires du mercredi au dimanche.
 - Maubeuge, Biocoop : horaires contradictoires. **Déblocage** : horaire lu sur une source du réseau.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, sixième) : Loire, Saint-Chamond reprise, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide), aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, sur 1 271 fiches : Loire (42) **4,27**, en tête ; Seine-Maritime (76) 4,24, Gard (30) 4,21, Haut-Rhin (68) 4,21. La passe précédente visait le Nord (Hauts-de-France) : la Loire (Auvergne-Rhône-Alpes) est ouverte (règle 41.c). Le Var reste très négatif (−214).
+
+**Commune : reprise de Saint-Chamond** (35 646 habitants), la plus peuplée de la Loire sans fiche, comme à la passe du 8 octobre. Saint-Étienne en porte cinq, Roanne et Firminy suivent.
+
+**Ce qui a été lu.**
+- Saveurs de Nos Fermes, 23 avenue Jules Ferry : établissement actif au registre (passe précédente). Horaires concordants entre Que Choisir et la passe précédente : mercredi et vendredi 8 h 30–12 h 30 et 14 h 30–19 h, jeudi 8 h 30–12 h 30, samedi 8 h 30–13 h 30, fermé lundi, mardi et dimanche.
+- Téléphone : **une seule source**, la fiche Que Choisir (04 77 22 71 86). Une recherche sur ce numéro ne le retrouve nulle part ailleurs. La page de l'office régional du tourisme citée auparavant répond 404. Un téléphone unique et non recoupé ne se publie pas (règle 5 par analogie). Le site du magasin n'a pas été trouvé ; la page Facebook qu'indique Que Choisir n'a pas été ouverte.
+- Marchés de Saint-Chamond : toujours contradictoires. jours-de-marche.fr et les agendas Unidivers donnent des jours différents pour Fonsala, Izieux et le centre-ville ; le numéro de la Ville (standard de la mairie, agenda tiers) n'a pas permis de lire la page officielle des marchés forains. Rien retenu.
+- AMAP du Creux : aucune source indépendante lue cette passe.
+
+**Pourquoi rien n'est publié.** La zone se forme à cinq fiches entières (règles 96 et 127). Saint-Chamond n'en compte toujours qu'une, Saveurs de Nos Fermes, dont le téléphone n'est pas recoupé. Les marchés ne fixent ni jour ni heure par une source solide. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Désignée pour la reprise** : Saveurs de Nos Fermes, 23 avenue Jules Ferry, Saint-Chamond. Pour la publier il faut une seconde source sur son téléphone (le magasin lui-même, sa page Facebook ou un annuaire de producteurs), et une photo de vue aérienne ou du magasin permise.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Saint-Chamond, Saveurs de Nos Fermes : téléphone à une seule source. **Déblocage** : second site ou page du magasin lisant le même numéro.
+- Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires. **Déblocage** : page officielle de la Ville lisible.
+- Saint-Chamond, AMAP du Creux : non recoupée. **Déblocage** : site ou page d'AMAP datée de moins de douze mois.
+
+**Contradictions** (règle 5) : jours des marchés de Saint-Chamond selon jours-de-marche.fr et Unidivers ; rien retenu.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt** : Loire, la descente reprend à **Saint-Chamond** ; le second point à confirmer est le téléphone de Saveurs de Nos Fermes. La passe suivante ne vise pas la région Auvergne-Rhône-Alpes (règle 41.c) ; la Loire reprend à Saint-Chamond à la passe d'après, si elle reste en tête. Roanne et Firminy suivent, sans fiche.
