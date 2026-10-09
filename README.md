@@ -34751,6 +34751,20 @@ Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 f
 
 **Point d'arrêt.** Loire visée ; la passe suivante ne peut pas la viser (règle 41.c). La reprise devra commencer par **Firminy** (site de la Ville et office de tourisme, puis enseignes non patronymiques), puis **Montbrison** (16 123 habitants), puis Rive-de-Gier si une enseigne non patronymique apparaît.
 
+### Passe du 9 octobre 2026 (passe autonome planifiée, seconde) : Seine-Maritime visée, aucune publication
+
+Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes et 1 271 fiches. Loire (42) est exclue : elle a été visée à la passe précédente (règle 41.c). La Seine-Maritime (76), déficit 4,24, est en tête des départements éligibles ; la Normandie n'a pas été visée lors des deux passes précédentes.
+
+**Descente.** Les communes les plus peuplées de 76 sans fiche ont été relues dans les notes existantes plutôt que par une nouvelle recherche : Dieppe (une seule fiche possible, il en faut cinq), Le Petit-Quevilly (marché dont la photographie n'est pas permise), Déville-lès-Rouen et Maromme (images fermées par les mentions légales des villes). Aucune de ces communes ne rend cinq commerces vérifiables à ce jour.
+
+**Limite de cette passe.** Aucune nouvelle source n'a été ouverte : la passe s'est limitée au calcul de la règle 41 et à la relecture des pistes déjà consignées.
+
+**Pistes non publiées** : rien de nouveau à consigner au-delà de la section « Pistes non publiées en Seine-Maritime ».
+
+**Point d'arrêt.** La passe suivante ne peut pas viser la Seine-Maritime si la Normandie reste la région de tête (règle 41.c) ; elle reprendra au premier département éligible du classement, en commençant par une recherche neuve sur Dieppe ou Fécamp si la Seine-Maritime y reste la meilleure option.
+
 ## Comment ajouter ou modifier un marchand
 
 Toutes les données sont dans un seul fichier : **`data/marchands.json`**. Pas besoin de toucher au reste du code.
