@@ -35145,3 +35145,28 @@ Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publi�
 
 **Pistes non publiées (Haute-Garonne)** — lignes anonymes :
 - Saint-Gaudens, marchés du centre-ville et Halle Gourmande : deux fiches entières, pas de zone. **Déblocage** : horaires municipaux relus et trois fiches entières supplémentaires dans la commune.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, huitième) : Loire, Saint-Chamond reprise une deuxième fois, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 177). En tête : Loire (42, 4,27), Seine-Maritime (76, 4,24), Gard (30, 4,21), Haut-Rhin (68, 4,21). La passe précédente visait la Haute-Garonne (Occitanie) : la Loire (Auvergne-Rhône-Alpes) est ouverte (règle 41.c). Le Var reste très négatif.
+
+**Commune : Saint-Chamond, point d'arrêt de la passe précédente.** Saint-Étienne porte déjà cinq fiches (Marché Albert Thomas, De la Ferme au Quartier, Vrac en Vert, Cidrerie du Pilat, Maison Fouillat) : elle n'est pas éligible. Saint-Chamond n'a aucune fiche publiée et reste la commune la plus peuplée sans fiche retenue par la passe précédente.
+
+**Ce qui a été lu.**
+- Saveurs de Nos Fermes, 23 avenue Jules Ferry : établissement actif au registre (deux établissements ouverts sur trois, siège à cette adresse). Horaires concordants entre Que Choisir et les passes précédentes. Téléphone toujours à une seule source : la recherche de cette passe ne le retrouve ni sur Que Choisir (rubrique contact vide), ni dans les résultats d'annuaires.
+- Marchés de Saint-Chamond : jours-de-marche.fr recense sept marchés sans jours fiables ; l'agenda Unidivers donne une date d'ouverture du 2 octobre 2026 pour un marché du centre-ville sans fin cohérente. Pas de page officielle de la Ville lisible sur les marchés forains. Rien retenu.
+- Mairie : numéro de standard concordant, sans information sur les marchés. Rien retenu.
+
+**Pourquoi rien n'est publié.** La zone se forme à cinq fiches entières (règles 96 et 127). Saint-Chamond n'en compte toujours qu'une, dont le téléphone n'est pas recoupé. Les marchés ne fixent ni jour ni heure par une source solide. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : jours des marchés de Saint-Chamond selon jours-de-marche.fr et Unidivers ; rien retenu.
+
+**Points d'arrêt** : Loire, la descente reste à **Saint-Chamond** ; la prochaine passe qui vise la Loire cherche un second téléphone pour Saveurs de Nos Fermes (site ou page du magasin) et une source officielle sur les marchés. La passe suivante ne vise pas la région Auvergne-Rhône-Alpes (règle 41.c).
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Saint-Chamond, Saveurs de Nos Fermes : téléphone à une seule source. **Déblocage** : second site ou page du magasin lisant le même numéro.
+- Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires. **Déblocage** : page officielle de la Ville lisible.
