@@ -35328,3 +35328,23 @@ Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune ret
 - Roanne, marché de la Place du Marché : une source officielle manquante (office de tourisme seul). **Déblocage** : page de la Ville sur les marchés.
 - Roanne, magasin bio en réseau : site et horaires non vérifiés depuis cet environnement. **Déblocage** : site du réseau ou page du magasin lisible.
 - Roanne, maraîcher bio et boulangerie-pâtisserie bio : enseignes patronymiques, doute sur une personne. **Déblocage** : aucun ; écartées.
+
+### Passe autonome du 10 octobre 2026 (quatorzième) : Haute-Garonne, Saint-Orens-de-Gameville éprouvée à zéro, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouveau message). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes, métropole seule (règles 177 et 224). Tête : Haute-Garonne (31), déficit 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : seule cette région est exclue (règle 41.c). La Haute-Garonne est donc retenue.
+
+**Commune, règle 248.** Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne et Saint-Gaudens sont déjà éprouvées sans fiche entière. La descente passe à **Saint-Orens-de-Gameville** (14 646 habitants).
+
+**Ce qui a été lu.** Deux recherches web (marché, producteurs, horaires de la mairie) : aucune page de la commune sur ses marchés, aucun producteur en vente directe identifié à Saint-Orens. Les résultats sont de l'immobilier et des annuaires généraux. Le registre de l'Agence Bio (Haute-Garonne, 100 premiers opérateurs lus) ne donne aucun opérateur à Saint-Orens. Rien d'utilisable.
+
+**Pourquoi rien n'est publié.** Aucune source officielle ni opérateur vérifiable pour la commune ; une fiche isolée ne fait pas une zone (règle 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Constat de méthode.** Quatorze passes autonomes de suite descendent la liste commune par commune, sans fiche entière, depuis la même logique. Le point d'arrêt ne change rien à la méthode : la descente épuise les communes une à une. Le responsable du site a été alerté par une session dédiée (proposition de règle de sortie, non appliquée).
+
+**Points d'arrêt** : la passe suivante ne vise pas Auvergne-Rhône-Alpes si elle reste région de tête (règle 41.c). En Haute-Garonne, la reprise ouvre par Fonsorbes (12 954 habitants) puis Villeneuve-Tolosane (11 044).
