@@ -34792,6 +34792,20 @@ Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 f
 
 **Point d'arrêt.** La passe suivante ne peut pas viser la Seine-Maritime si la Normandie reste la région de tête (règle 41.c) ; elle reprendra au premier département éligible du classement, en commençant par une recherche neuve sur Dieppe ou Fécamp si la Seine-Maritime y reste la meilleure option.
 
+### Passe du 9 octobre 2026 (passe autonome planifiée, troisième) : Seine-Maritime reprise, Dieppe et Fécamp éprouvées, aucune publication
+
+Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes. La réserve 41.c est respectée : la Seine-Maritime (76) n'a pas été visée deux passes de suite (Loire, puis Var). **Écart de base à signaler** : sur une population métropolitaine seule, la Haute-Garonne (31) passe en tête (déficit 5,3 contre 5,2 pour la Seine-Maritime) ; les passes précédentes comptaient les départements d'outre-mer dans le total, où la Seine-Maritime reste en tête éligible (4,24). Le choix retient la Seine-Maritime, comme la note précédente, sans trancher la base : la question est consignée pour la prochaine passe.
+
+**Descente.** Les communes à reprendre sont Dieppe puis Fécamp, comme le prescrivait la note précédente. Le registre de l'Agence Bio, relevé sur les 1 004 opérateurs du département, ne donne à Fécamp que de la grande distribution et des grossistes. À Dieppe, le registre ne donne aucun vendeur direct de produits de producteurs ; seule une épicerie participative du centre-ville, relevée par un comparateur de circuits courts, a des horaires et un téléphone concordants. Elle n'est pas inscrite au registre de l'Agence Bio, et son registre des entreprises n'a pas été relu (règle 6) : fiche non publiée. Le marché de Fécamp (place du Général-de-Gaulle, le samedi) n'est attesté que par un seul annuaire de marchés ; la règle 9 demande la commune et l'office de tourisme. Les producteurs listés pour Fécamp sont à 6 km ou plus, hors commune.
+
+**Pourquoi rien n'est publié.** Dieppe et Fécamp ne rendent pas cinq commerces vérifiables dans une même commune, et la zone ne se forme pas à cinq (règles 96 et 127). Une fiche isolée ne vaut pas une zone.
+
+**Pistes non publiées** (anonymes) : Dieppe, une épicerie participative, horaires concordants, registre à relire. Fécamp, un marché du samedi, à confirmer auprès de la Ville et de l'office de tourisme (règle 9). Fécamp, deux producteurs situés à Épreville et à Saint-Vincent-Cramesnil, hors commune, non retenus.
+
+**Point d'arrêt.** La passe suivante ne peut pas viser la Seine-Maritime si elle reste la région de tête (règle 41.c). La reprise devra commencer par la **Ville de Fécamp** et l'**office de tourisme** pour le marché, puis par un **recensement neuf à Dieppe** (site de la Ville, office de tourisme, enseignes non patronymiques) ; à défaut, la descente passe à la commune suivante de la Seine-Maritime par population.
+
 ## Comment ajouter ou modifier un marchand
 
 Toutes les données sont dans un seul fichier : **`data/marchands.json`**. Pas besoin de toucher au reste du code.
