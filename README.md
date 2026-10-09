@@ -13663,6 +13663,26 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe du 9 octobre 2026 (deux cent unième) : Haute-Garonne, L'Union relevée, aucune publication
+
+Aucune demande de visiteur (backlog vide), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants), 1 271 fiches. Le Nord (59), passe précédente, est exclu par la règle 41.c. En tête ensuite : **Haute-Garonne (31)**, déficit d'environ 5,3 ; puis Seine-Maritime (76) et Bouches-du-Rhône (13). La Haute-Garonne est retenue.
+
+**Commune : règle 248, reprise au point d'arrêt.** Blagnac et Muret ont déjà été éprouvées à zéro ; Plaisance-du-Touch, Castanet-Tolosan et Ramonville-Saint-Agne aussi ; Saint-Orens-de-Gameville (la Ville nomme les images, règle 231) et Fonsorbes (droits réservés, règle 246) aussi. La descente prend **L'Union** (12 638 habitants).
+
+**L'Union, relevée.** Le site de l'AMAP du Grand Jardin (réseau d'AMAP biologiques, une AMAP par producteur) est lisible : distributions le jeudi de 18h30 à 19h30 sur le parking de la Bonne Auberge, rue de l'Autan Blanc, et une actualité de 2026 qui confirme l'activité. Ses familles de produits sont écrites (légumes, fruits, pain, volailles et œufs, fromage de chèvre, vin, porc, miel). Ce réseau d'AMAP est une seule fiche d'ensemble ; une fiche par AMAP exigerait leurs pages propres, non lues. La Ville, elle, ne porte qu'une page de projet datée de 2016. Le marché de plein vent du dimanche (8h-13h) n'apparaît que sur un annuaire tiers, sans source de la Ville. **Ce n'est pas cinq commerces vérifiables : zone à zéro.** Aucune image libre de droits n'a été trouvée pour ce lieu, et la zone n'atteint pas le seuil de cinq fiches.
+
+**Pistes non publiées** :
+- L'Union, AMAP du Grand Jardin (réseau biologique, distribution jeudi 18h30-19h30) : fiche d'ensemble possible, seule ; à compléter par les pages des AMAP par producteur et par une image.
+- L'Union, marché de plein vent du dimanche (8h-13h) : un annuaire tiers seul, pas de source de la Ville. **Déblocage** : la page de la Ville à jour.
+
+**Points d'arrêt** : la descente du 31 reste à **L'Union** ; la commune suivante par population est **Castelginest** (11 271 habitants), puis Villeneuve-Tolosane (11 044).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune.
+
 ### Passe du 9 octobre 2026 (deux centième) : Nord, Wattrelos reprise et Halluin lue, aucune publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
