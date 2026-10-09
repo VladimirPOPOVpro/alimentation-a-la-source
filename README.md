@@ -34736,6 +34736,14 @@ Passe du 5 octobre 2026 (cent vingt-huitième) :
 Point d'arrêt : **Belleville-en-Beaujolais**, qui a fait la passe. À reprendre d'abord : le magasin bio indépendant de
 Belleville (règle 297) ; la commune suivante du Rhône est **Mions** (13 843).
 
+### Passe sur demande visiteur (Var) — une demande en attente, aucune fiche publiée
+
+Une demande « ajout » reçue (une seule, identifiée dans le backlog). **Aucune fiche publiée.** Total inchangé.
+
+**Motif** : l'enseigne proposée est un prénom seul, et le contact joint à la demande est une adresse privée. Doute sur une personne : rien n'est publié, la demande reste `en_cours` dans le backlog, aucun courriel n'est envoyé. Mode 2 non lancé, puisqu'une demande était en attente.
+
+**Pistes non publiées** (anonymes) : une demande, commune du Var (83), catégorie producteur, motif doute sur une personne. Non rouvrable en l'état ; une précision de l'auteur sur l'enseigne réelle du commerce permettrait de la reprendre.
+
 ### Pistes non publiées à Alès et à Bagnols-sur-Cèze (Gard) — passe sans publication
 
 Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 266 fiches.
