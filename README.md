@@ -35067,3 +35067,31 @@ Le site est déployé sur Railway, avec deux services : l'application et une bas
 ---
 
 Initiative du comité développement durable (RSE) de l'Hôpital Bonnet, CHI Fréjus Saint-Raphaël.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, cinquième) : Nord, Cambrai reprise, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. En tête, la Haute-Garonne (31, 5,27), exclue : la passe précédente visait l'Occitanie (règle 41.c, réserve sur les régions). Le **Nord (59, 5,24)** est retenu, puisque les Hauts-de-France n'ont pas été visés la passe précédente. Le Var reste très négatif.
+
+**Commune : descente du Nord.** Wattrelos et Marcq-en-Barœul ont été éprouvées lors des passes précédentes, sans source nouvelle pour les heures des marchés ; Cambrai, reprise comme point d'arrêt.
+
+- **Cambrai, Biocoop (enseigne Vitavie, rue Gauthier).** Adresse et téléphone concordants dans trois annuaires. Les horaires se contredisent : 9 h 30–12 h 30 / 14 h 30–19 h selon un annuaire du réseau, 9 h 30–18 h selon un autre, 9 h–20 h tous les jours selon un troisième. Le site du réseau n'a pas été consulté. **Non publiée** : un horaire contesté ne se publie pas, et une fiche sans horaires ne passe pas le contrôle du build.
+- **Cambrai, Bio C'Bon (place Aristide-Briand).** Une seule source (annuaire) pour l'adresse et les horaires, 9 h 30–19 h du lundi au samedi. **Non publiée** : une seule source.
+- **Cambrai, maraîcher en magasin de la ferme.** Horaires partiels (lundi et mardi seulement). **Non publié.**
+- Registre de l'Agence Bio : grossistes, coopérative généraliste et entrées sans source publique, écartés.
+
+**Zone.** Cinq fiches vérifiables non atteintes : Cambrai ne rend aucune fiche cette passe. La descente d'échelle passe à **Maubeuge** (28 767) en point d'arrêt ; le Biocoop de Maubeuge présente le même type de contradiction d'horaires.
+
+**Contradictions** : horaires du Biocoop de Cambrai (trois annuaires, trois versions). Non tranchées : aucune source officielle lue.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre à Cambrai, dont l'enseigne est un nom de personne. Non publiée, ne se rouvre pas.
+
+**Points d'arrêt** : la prochaine passe qui vise le Nord reprend à Cambrai, en cherchant l'horaire du Biocoop sur la page du réseau et une seconde source pour Bio C'Bon, puis Maubeuge. La passe suivante ne vise pas les Hauts-de-France (règle 41.c).
+
+**Pistes non publiées (Nord)** — lignes anonymes :
+
+- Cambrai, Biocoop : horaires contradictoires entre annuaires. **Déblocage** : horaire lu sur la page du réseau ou confirmé par le magasin.
+- Cambrai, Bio C'Bon : une seule source. **Déblocage** : une seconde source pour adresse et horaires.
+- Cambrai, maraîcher à vente à la ferme : horaires partiels. **Déblocage** : horaires du mercredi au dimanche.
+- Maubeuge, Biocoop : horaires contradictoires. **Déblocage** : horaire lu sur une source du réseau.
