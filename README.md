@@ -35124,3 +35124,24 @@ Aucune demande de visiteur (backlog vide), aucun courriel. **Aucune fiche publi�
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt** : Loire, la descente reprend à **Saint-Chamond** ; le second point à confirmer est le téléphone de Saveurs de Nos Fermes. La passe suivante ne vise pas la région Auvergne-Rhône-Alpes (règle 41.c) ; la Loire reprend à Saint-Chamond à la passe d'après, si elle reste en tête. Roanne et Firminy suivent, sans fiche.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, septième) : Haute-Garonne, Saint-Gaudens en point d'arrêt, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 177). En tête : Haute-Garonne (31, 5,27), Nord (59, 5,24), Seine-Maritime (76, 5,22), Bouches-du-Rhône (13, 5,10). La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : la Haute-Garonne est ouverte (règle 41.c). Le Var reste très négatif. La Haute-Garonne compte 23 fiches.
+
+**Commune : règle 248.** Blagnac (27 604) et Muret (26 079), les deux plus peuplées sans fiche, sont déjà éprouvées à zéro. La descente passe par Plaisance-du-Touch, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes et L'Union, toutes éprouvées à zéro (notes des passes précédentes). Le point d'arrêt désigne **Saint-Gaudens** : deux fiches entières (marchés du centre-ville, Halle Gourmande), jamais publiées parce qu'elles ne forment pas une zone à cinq (règles 258 et 127).
+
+**Ce qui a été lu cette passe.** Registre de l'Agence Bio pour le 31 : 2 834 opérateurs au total, dont seule la première page de cent a été relue, sans nouveau candidat vérifiable. Population des communes : fichier geo.api.gouv.fr, relu. Aucune nouvelle source sur les communes de la descente n'a été ouverte cette passe.
+
+**Pourquoi rien n'est publié.** Saint-Gaudens ne rend que deux fiches, et ses horaires municipaux datent de mai 2025 : la zone à cinq n'est pas atteinte, et rien ne se publie « en attendant » (MODERATION.md). Aucune autre commune de la descente ne donne de fiche vérifiable.
+
+**Contradictions** : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt** : la prochaine passe dans le 31 reprend Saint-Gaudens (relecture des horaires de la Ville, recherche d'une troisième fiche entière), puis poursuit la descente de Grenade vers le bas du classement. Une fiche de Saint-Gaudens ne se publie qu'avec la zone à cinq.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Saint-Gaudens, marchés du centre-ville et Halle Gourmande : deux fiches entières, pas de zone. **Déblocage** : horaires municipaux relus et trois fiches entières supplémentaires dans la commune.
