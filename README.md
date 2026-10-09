@@ -35221,3 +35221,25 @@ Les marchés de Fonsala, d'Izieux et du centre-ville restent à jours contradict
 - Saint-Chamond, grossiste et distributeur généraliste : hors périmètre (règle 3, mise à jour ancienne). **Déblocage** : aucun.
 - Saint-Chamond, Saveurs de Nos Fermes : téléphone à une seule source. **Déblocage** : second site ou page du magasin lisant le même numéro.
 - Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires. **Déblocage** : page officielle de la Ville lisible.
+
+### Passe du 9 octobre 2026 (passe autonome planifiée, dixième) : Seine-Maritime reprise, zone non formée à cinq, aucune publication
+
+Aucune demande de visiteur (backlog vide, aucun courriel). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 177 ; dénominateur sur toutes les communes, règle 224). Le département en tête, la Loire (42, 4,27), est fermé : la passe précédente visait la Loire (règle 41.c). La Seine-Maritime (76, Normandie) est éligible avec un déficit de 4,24.
+
+**Commune : règle 248.** Parmi les communes de 76 sans fiche, la plus peuplée est Dieppe (28 496 habitants). Elle reste bloquée à une seule fiche possible, déjà désignée (règle 377).
+
+**Ce qui a été lu.** Recherche sur les marchés d'Elbeuf et de Fécamp. Elbeuf : marchés du jeudi (place Lécallier) et du samedi (rue de la République), à 9h-14h selon les annuaires, avec des horaires divergents selon les sources ; une seule source officielle non trouvée. Fécamp : marché du samedi place Bellet, fermeture à 13h selon la Ville, 14h selon l'agglomération (règle 5 : la version de la Ville est retenue, la divergence est consignée). Dans les deux cas, un marché fait une fiche, pas cinq ; les producteurs cités par les annuaires sont hors commune ou ne sont pas vérifiés.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq fiches entières (règles 96 et 127). Une fiche isolée ne fait pas une zone, et rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : horaires du marché de Fécamp (13h, Ville ; 14h, agglomération ; 8h-13h, annuaires), consignées ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Seine-Maritime si elle reste la région de tête (règle 41.c). La reprise de la zone 76 devra chercher des producteurs à Elbeuf et à Fécamp dans leur commune même, puis Canteleu ou Montivilliers ; à défaut, la descente passe au département suivant du classement.
+
+**Pistes non publiées (Seine-Maritime)** — lignes anonymes :
+- Elbeuf, marché du jeudi et marché du samedi : horaires divergents selon les annuaires ; aucune page officielle lisible. **Déblocage** : page de la Ville sur les marchés.
+- Fécamp, marché du samedi : fermeture 13h ou 14h selon la source. **Déblocage** : confirmation par la Ville ; fiche de marché publiable seule (règle 9).
