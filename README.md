@@ -13663,6 +13663,25 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 9 octobre 2026 (Loire, Firminy descendue) : aucune publication
+
+Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes, outre-mer écarté (règle 177). La passe précédente visait la Seine-Maritime (région 28) : seule la région de la passe immédiatement précédente est exclue (règle 41.c). **Loire (42), déficit 4,2695**, est donc en tête et retenue. Gard (4,2106) et Haut-Rhin (4,2069) suivent de près.
+
+**Descente.** Saint-Étienne compte déjà sept fiches. Firminy (17 060 habitants) est reprise comme prévu par le point d'arrêt de la passe précédente.
+
+**Firminy : une source de plus, pas une zone.**
+- Site de la Ville (`ville-firminy.fr`, page « Marchés et animations commerciales ») : trois marchés historiques, mardi, jeudi et samedi. Place du Marché, une quarantaine de commerçants alimentaires, sans liste de producteurs ; la fiche d'un marché ne compte que pour un. Place du Breuil, non alimentaire.
+- Biocoop Les Artisons, 32 rue Dorian, 42700 Firminy : enseigne coopérative, site officiel `biocooplesartisons.fr` ouvert (horaires lus sur le site ; PagesJaunes donne un autre jour de fermeture, daté de l'été 2026, et le site officiel fait foi). Le registre des entreprises n'a pas rendu de résultat exploitable à cette passe : **à confirmer avant publication**. Une fiche `magasin-bio` serait possible, mais elle ne rejoint pas les quatre autres.
+- Le registre de l'annuaire communal (320 entrées) donne surtout des boulangeries, boucheries et épiceries générales. Aucun producteur ni ferme en vente directe n'y apparaît. Plusieurs entrées sont des particuliers désignés par un patronyme : écartées pour doute sur une personne, et ne se rouvriront pas.
+
+**Pourquoi rien n'est publié.** Firminy ne rend qu'une fiche vérifiable au sens du site (Biocoop), loin des cinq requises pour une zone. La règle du point d'arrêt joue : on descend à la commune suivante par population.
+
+**Pistes non publiées** (anonymes) : Firminy, une épicerie biologique vérifiée, une seule ; le reste de l'annuaire communal ne relève pas du circuit court.
+
+**Point d'arrêt.** Loire visée ; la passe suivante ne peut pas la viser (règle 41.c). La reprise commence à **Montbrison** (16 123 habitants), en cherchant d'abord le marché de la Ville et l'office de tourisme Loire Forez, puis des producteurs et enseignes non patronymiques. Firminy reste à cinq fiches ou à rien : la Biocoop est la seule pièce acquise.
+
 ### Passe du 9 octobre 2026 (deux cent sixième) : Nord, Wattrelos reprise, Cambrai ouverte, zone à zéro, aucune publication
 
 Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
