@@ -34884,6 +34884,36 @@ champ d'adresse arrivait en premier sous la carte, si bien que les visiteurs y
 tapaient un produit et n'obtenaient que des rues d'autres départements. L'API
 `?lat&lon&radius` reste en place, elle n'est simplement plus appelée par la page.
 
+### Passe du 9 octobre 2026 (passe autonome planifiée, quatrième) : Haute-Garonne, Plaisance-du-Touch éprouvée, aucune publication
+
+Aucune demande de visiteur (ni nouvelle, ni en cours). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur les communes de France métropolitaine (outre-mer écarté, règle 177). Le déficit de tête est la Haute-Garonne (31, 5,3), devant le Nord (59, 5,2) et la Seine-Maritime (76, 5,2). La Seine-Maritime est exclue : c'est la région de la passe précédente (règle 41.c, Normandie). La Haute-Garonne est retenue ; la descente reprend là où la passe précédente l'avait laissée, à **Plaisance-du-Touch** (21 079), Blagnac et Muret étant déjà éprouvées à zéro (règle 248).
+
+**Plaisance-du-Touch, commune éprouvée (règles 127 et 248).** Sources : site de la Ville (page « Le marché de plein vent », lue en entier), site du magasin Biocoop (horaires du magasin, lecture directe), annuaires (pour les seuls points de contradiction), registre de l'Agence Bio (2 833 opérateurs du 31, filtrés sur la commune), Base Adresse Nationale non interrogée faute de fiche retenue.
+
+Candidats relevés :
+
+1. **Marché de plein vent, place Bombail** — la Ville donne ses jours et heures : jeudi et samedi, 8h à 12h45. Les annuaires donnent 6h–13h ou 6h30–12h30 : **contradiction tranchée en faveur de la source officielle**. Le marché accueille des commerçants titulaires, saisonniers et occasionnels ; aucune liste de produits n'est publiée, donc pas de fiche complète (règle 197).
+2. **Biocoop, avenue des Pyrénées** — horaires du magasin lus sur son site : lundi à samedi, 9h00–19h30. Téléphone et site du magasin publiés par lui-même. Photographie de la fiche du magasin (og:image) disponible. Une fiche entière.
+3. **NaturiBio, rue Bernadet (centre commercial)** — le site officiel du point de vente ne répond pas (connexion refusée pendant la passe, règle 297). Horaires seulement par annuaires, dont un annuaire donne une pause de midi qui contredit les autres. **Non publiée.**
+4. **Maraîchage bio à vente directe, Jardins de Ferraté** — vente à la ferme signalée par un annuaire (lundi et vendredi, 17h30–19h). Le site de la ferme n'a pas été ouvert pendant la passe : **non publiée**.
+5. **Exploitation maraîchère bio, enseigne sans nom de personne** — inscrite au registre sous le nom d'une personne physique. **Écartée pour doute sur une personne** (règle du prompt : rien n'est publié).
+
+**Pas de zone.** Une fiche entière et une fiche de marché à produits non publiés ne forment pas cinq fiches vérifiées dans une même commune : la commune ne rend pas cinq commerces, et la règle 127 interdit de publier une zone à moins de cinq. Rien n'est publié.
+
+**Contradictions** : horaires du marché de Plaisance-du-Touch (Ville contre annuaires), tranchées en faveur de la Ville ; horaires de NaturiBio (annuaires contre annuaires), non tranchées faute de source officielle.
+
+**Fiches écartées pour doute sur une personne** : une à Plaisance-du-Touch (maraîchage bio, registre au nom d'une personne). Aucun nom n'est écrit.
+
+**Point d'arrêt.** La reprise ouvre par le site de NaturiBio (ou son numéro publié) et le site des Jardins de Ferraté, puis par la question des produits du marché de la place Bombail auprès de la Ville (service commerce). Si la commune ne rend pas cinq fiches, la descente passe à **Castanet-Tolosan** (15 317), puis Ramonville-Saint-Agne (15 158) et Saint-Orens-de-Gameville (14 646).
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+
+- Plaisance-du-Touch, marché de plein vent : jours et heures officiels, produits à obtenir. **Déblocage** : une liste de produits publiée par la Ville ou confirmée par elle.
+- Plaisance-du-Touch, magasin bio de réseau (centre commercial) : site du point de vente à rouvrir. **Déblocage** : une réponse du site.
+- Plaisance-du-Touch, maraîchage à vente directe : site de la ferme à rouvrir.
+
 ### Pistes non publiées en Seine-Maritime (de Dieppe à Bois-Guillaume)
 
 Passe du 29 septembre 2026 (cent dix-septième), première descente du 76 depuis celle de Saint-Étienne-du-Rouvray :
