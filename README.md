@@ -35604,3 +35604,45 @@ Demande de visiteur : une demande en cours (#13, producteur, Villecroze, Var), i
 **Constat de méthode.** Vingt-cinq passes autonomes de suite sans fiche publiée. La règle de zone à cinq fiches entières reste le frein principal, et le jeu OpenData de Saint-Louis ne la lève pas. La proposition de règle de sortie reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
 
 **Points d'arrêt** : la passe suivante reprend le département suivant du classement (Seine-Maritime ou Gard) avec une recherche neuve sur sa commune la plus peuplée sans fiche, en commençant par son registre Agence Bio et son jeu OpenData s'il existe.
+
+### Passe autonome du 10 octobre 2026 (vingt-sixième) : Loire, Saint-Chamond et Roanne éprouvées, zone non formée, aucune publication
+
+Demande de visiteur : aucune en attente (backlog vide au début de la passe). Mode 2.
+
+**Classement, règle 41.** Les départements d'outre-mer (971 à 988) sortent en tête du calcul (Réunion, 974, déficit le plus élevé), mais le validateur de `lib/validateMerchants.ts` ne rend que la France métropolitaine : ils ne sont donc pas visés. Parmi les métropolitains : Loire (42) à 4,3, Seine-Maritime (76) et Gard (30) à 4,2, Haut-Rhin (68) à 4,2 et Haute-Garonne (31) à 4,1. Le Haut-Rhin, visé à la passe précédente, est écarté par la règle des deux passes de suite. **Retenu : Loire (42)**, déficit le plus élevé et non visé à la passe précédente.
+
+**Commune la plus peuplée sans fiche.** Saint-Étienne a déjà des fiches. Saint-Chamond (35 646 habitants) n'en a aucune : le registre Agence Bio n'y compte qu'une entrée, un grossiste de restauration collective, qui ne vend pas au public. Écartée.
+
+**Roanne (35 409 habitants), sans fiche.** Trois sources ont été croisées :
+- registre Agence Bio, lu puis recoupé avec `recherche-entreprises` ;
+- recherche web sur les marchés, magasins de producteurs, AMAP et Bienvenue à la Ferme ;
+- géocodage BAN des adresses candidates (toutes scorées à 0,96 ou plus, code postal 42300 cohérent).
+
+Résultat : une poignée de candidats crédibles, pas cinq.
+- **Marché de la Place du Marché** : source officielle de l'agglomération (mardi et vendredi, 8h à 12h30), mais la page n'est pas datée et ne nomme aucun producteur.
+- **Poissonnerie du Mayollet** : site officiel du commerce avec horaires et téléphone. Le site indique le code postal 42430 alors que la BAN et la commune donnent 42300 : doute de fait. Elle n'apparaît pas au registre sous son nom commercial, donc son activité n'est pas vérifiée.
+- **Point de vente collectif de producteurs bio** : association active au registre, adresse vérifiée, horaires non confirmés.
+- **Restauration rapide à produits locaux** : active au registre, mais catégorie hors des six retenues ; non retenue.
+- **Magasin bio de réseau** : le registre et l'annuaire donnent deux adresses différentes ; contradiction non tranchée, rien n'est publié.
+- **Magasin bio du centre-ville** : cessé au registre (état C) ; écarté.
+- **Poissonnerie à enseigne patronymique** : écartée pour doute sur une personne (règle de nom d'exploitant, MODERATION.md) ; rien n'est noté ici qui permette de la retrouver.
+
+Aucune commune de la Loire ne rend donc cinq fiches vérifiables à ce jour. Descendre à la suivante par population ne change rien : Firminy et Montbrison ont été éprouvées aux passes précédentes, et Saint-Chamond est à zéro.
+
+**Fiches publiées : aucune. Fiches retirées : aucune. Total inchangé : 1 271.**
+
+**Contradictions** : deux (adresse d'un magasin bio, code postal d'une poissonnerie), consignées ci-dessus, non tranchées.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Roanne, marché de centre-ville : source officielle, horaires, pas de producteurs nommés. **Déblocage** : quatre autres fiches vérifiées dans la même commune, puis une source sur les exposants.
+- Roanne, poissonnerie : site officiel, téléphone publié, activité non trouvée au registre. **Déblocage** : le registre sous le nom légal, et la confirmation du code postal.
+- Roanne, point de vente collectif bio : association active, horaires à confirmer. **Déblocage** : horaires publiés par le collectif.
+- Roanne, restauration à produits locaux : catégorie hors périmètre. **Déblocage** : aucun, sauf décision du responsable sur ce genre de commerce.
+- Roanne, magasin bio à adresse contradictoire : **Déblocage** : une adresse confirmée par le commerce lui-même.
+- Roanne, magasin bio du centre-ville : cessé. Aucune piste.
+- Roanne, poissonnerie à enseigne patronymique : écartée (doute sur une personne), ne se rouvre pas.
+- Saint-Chamond : un seul établissement au registre, non qualifiant. **Déblocage** : quatre commerces au public trouvés par une source officielle de la commune.
+
+**Constat de méthode.** Vingt-six passes autonomes de suite sans fiche publiée. Le même blocage revient : la règle « cinq fiches entières dans une seule commune » rencontre des communes de 35 000 habitants où le registre compte à peine un commerce au public. La proposition de règle de sortie figurant dans la passe précédente reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Loire (même région deux fois de suite). Elle prend Seine-Maritime (76, déficit 4,2), commune la plus peuplée sans fiche, en commençant par son registre Agence Bio, puis Gard (30) si la Seine-Maritime ne rend pas cinq commerces.
