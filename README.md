@@ -35698,3 +35698,36 @@ Aucune demande de visiteur (backlog vide), aucun courriel. **Aucune fiche publi�
 **Pistes non publiées** (anonymes) : Wattrelos, un marché hebdomadaire sans horaires publiés par la Ville ; Cambrai, une enseigne Biocoop et une association bio à instruire.
 
 **Points d'arrêt** : la prochaine passe ne peut pas viser le Nord (règle 41.c). Cambrai reprend à l'instruction de la Biocoop (site officiel, horaires, produits) puis de l'association ; Marcq-en-Barœul (40 184), sans fiche, reste la commune suivante par population si Cambrai ne rend pas cinq points.
+
+### Passe autonome du 10 octobre 2026 (vingt-neuvième) : Haute-Garonne reprise, Muret éprouvée à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide, une demande en cours inchangée). Mode 2. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, 66 165 815 habitants. Haute-Garonne (31) en tête, déficit 5,4, retenue : la passe précédente visait le Nord (Hauts-de-France), seule cette région est exclue (règle 41.c). Le Nord (59, 5,4) est donc hors jeu, la Haute-Garonne passe devant.
+
+**Commune.** Blagnac (27 604) reste la plus peuplée de la Haute-Garonne sans fiche, mais elle a échoué à la passe précédente. Descente à **Muret (26 079)**, annoncée dans le README.
+
+**Muret, registre Agence Bio.** 2 834 opérateurs du 31 relus en totalité, vingt-neuf pages de cent. Vingt-sept entrées à Muret, dont :
+- une dizaine de producteurs ou préparateurs vendant aux professionnels seulement : écartés ;
+- plusieurs entrées à vente aux particuliers désignées par un patronyme (entreprises individuelles) : écartées pour doute sur une personne, sans nom, et ne se rouvrent pas ;
+- une enseigne de distribution généraliste et un magasin de la même grande surface : hors périmètre (règle 3) ;
+- une cave à bières à vente aux particuliers : enseigne sans lien avéré avec un producteur, à qualifier.
+
+**Muret, sources web.**
+- Un annuaire des jours de marché recense trois marchés à Muret, sans les nommer ni donner d'horaires ; il renvoie à la mairie.
+- Une fiche de magasin bio (enseigne de réseau) et un petit commerce bio : horaires et existence seulement sur des annuaires participatifs, non vérifiés sur un site officiel. Non publiés.
+- Un guide touristique de l'agglomération mentionne des producteurs et artisans, mais les pages détaillées n'ont pas pu être lues.
+- Une exploitation à Antignac (truites bio, vente sur place) est hors de Muret : hors commune, non retenue.
+
+**Bilan Muret.** Aucune commune ne rend cinq fiches vérifiées : au mieux une ou deux sources par entrée, souvent sans site ni horaires officiels. Commune éprouvée à zéro.
+
+**Pistes non publiées (Haute-Garonne, Muret)** — lignes anonymes :
+- Muret, plusieurs entrées du registre à nom patronymique d'exploitant (entreprises individuelles) : écartées pour doute sur une personne, ne se rouvrent pas.
+- Muret, marché hebdomadaire : existence établie par un annuaire, horaires et organisateur à trouver auprès de la mairie. **Déblocage** : horaires publiés par la Ville.
+- Muret, magasin bio de quartier et enseigne de réseau bio : horaires à confirmer sur le site officiel. **Déblocage** : site ou fiche vérifiée de l'enseigne.
+- Muret, cave à bières à vente aux particuliers : catégorie non tranchée (pas un producteur ni un magasin bio avéré). **Déblocage** : site officiel montrant une offre de producteurs.
+- Muret, guide touristique de l'agglomération : pages producteurs à lire. **Déblocage** : fiches de producteurs nommés par l'office de tourisme.
+
+**Constat de méthode.** Vingt-neuf passes autonomes de suite sans fiche publiée. La règle « cinq fiches entières dans une seule commune » continue de bloquer les communes moyennes : le registre Agence Bio ne contient pas, à Muret comme à Blagnac, cinq vendeurs directs vérifiables. La question de la règle de sortie reste ouverte pour le responsable du site ; elle n'est pas appliquée ici.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle reste région de tête après un nouvel échec (règle 41.c). Si la Haute-Garonne reste en tête, reprise à la commune suivante par population sans fiche (Plaisance-du-Touch, 21 079), à recalculer. Cambrai (Nord) reste en piste pour la passe où le Nord redevient éligible.
