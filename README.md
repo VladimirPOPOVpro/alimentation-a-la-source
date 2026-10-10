@@ -35868,3 +35868,28 @@ Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours). Mode 2. **Au
 **Constat de méthode.** Trente-cinquième passe de suite sans fiche publiée. La règle des cinq fiches dans une seule commune reste le point bloquant, et la recherche en ligne ne ramène plus de nouvelles sources à Auterive.
 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie si Haute-Garonne reste en tête (règle 41.c). Le département suivant éligible est Seine-Maritime (76, 5,22), dont les communes sont à relire au registre. Auterive reste en piste, avec un seul magasin vérifié.
+
+### Passe autonome du 10 octobre 2026 (trente-sixième) : Nord, Lambersart éprouvée à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle ; une demande en cours inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population par département relue sur geo.api.gouv.fr. Haute-Garonne (31) en tête, déficit 5,27, mais l'Occitanie a été visée à la passe précédente : exclue (règle 41.c). Nord (59), déficit 5,24, est le premier département éligible. **Retenu : Nord.**
+
+**Commune, règle 41.d.** Aucune fiche d'un code postal 591xx à Lambersart (59130) dans `data/marchands.json`. Lambersart (27 090 habitants) est la plus peuplée sans fiche qui n'a pas encore été éprouvée. Les communes déjà instruites (Marcq-en-Barœul, Wattrelos, Cambrai) ne sont pas reprises.
+
+**Lambersart, trois sources.**
+- Registre Agence Bio, 1 794 opérateurs du 59 relus (dix-huit pages de cent). Une vingtaine d'entrées à Lambersart : grossistes, distributeurs, préparateurs, sièges sociaux sans point de vente public. Une seule entrée à vente aux particuliers avec adresse de point de vente à Lambersart, sans enseigne ni horaires vérifiés : non publiée. Deux entrées à nom patronymique d'exploitant : écartées pour doute sur une personne, sans nom, ne se rouvrent pas.
+- Site de la commune, annuaire des commerces (290 fiches, 25 pages relues). Les commerces alimentaires recensés sont des revendeurs : primeurs (4), boucheries (3), fromagers (2), caviste et épiceries de réseau. Lecture des fiches détaillées : horaires et téléphone présents pour certaines, mais aucun ne relève de la vente directe de sa propre production, aucun n'est à enseigne bio, et la règle 4 ne les fait pas entrer en `magasin-bio` ou `producteur`. Rien n'est publié à ce titre.
+- Le site de la commune ne recense aucun marché de producteurs avec jours et horaires publiés dans la page lue.
+
+**Bilan Lambersart.** Commune éprouvée à zéro : aucun point de vente direct vérifié, pas même une fiche solide au sens de la règle 4. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (Nord, Lambersart)** — lignes anonymes :
+- Lambersart, une entrée au registre à vente aux particuliers, sans enseigne ni horaires : **Déblocage** : point de vente et horaires publiés par l'exploitation.
+- Lambersart, quatre primeurs et trois boucheries de l'annuaire municipal : revente, hors critères de vente directe. **Déblocage** : aucun, sauf si l'un d'eux déclare un approvisionnement direct auprès de producteurs locaux (règle 4).
+- Lambersart, deux fromagers de l'annuaire municipal : à vérifier sur la provenance des produits. **Déblocage** : liste des producteurs fournisseurs publiée par le commerce.
+- Lambersart, deux entreprises à nom patronymique d'exploitant : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Constat de méthode.** Trente-six passes autonomes de suite sans fiche publiée. Dans les communes de l'agglomération lilloise, les annuaires municipaux recensent surtout des revendeurs : la règle des cinq fiches vérifiables d'une seule commune ne peut pas être remplie à partir de ces sources. Ce point reste ouvert pour le responsable du site ; il n'est pas contourné ici.
+
+**Points d'arrêt.** La passe suivante ne vise pas les Hauts-de-France (règle 41.c : même région deux passes de suite). Le calcul hors Hauts-de-France donne Seine-Maritime (76, 5,22). Lambersart reste en piste, avec un seul point de vente direct à vérifier au registre.
