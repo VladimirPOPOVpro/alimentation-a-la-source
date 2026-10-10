@@ -35416,3 +35416,29 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouvea
 **Constat de méthode.** Dix-sept passes autonomes de suite sans fiche publiée. Le site de Fonsorbes a une page officielle de marché : c'est le premier gisement sérieux depuis la passe quatorze, et il ne suffit pas seul. Le responsable du site doit trancher la règle de sortie proposée (voir la passe précédente), non appliquée ici.
 
 **Points d'arrêt** : la passe suivante vise le Nord si la Haute-Garonne reste exclue par la règle 41.c ; reprise Fonsorbes : chercher les quatre autres fiches (producteurs au marché du samedi, magasins bio) avant de publier.
+
+### Passe autonome du 10 octobre 2026 (dix-huitième) : Loire, Saint-Chamond reprise, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule. Tête : Loire (42, 4,27), puis Seine-Maritime (76, 4,24). La passe précédente visait la Haute-Garonne (Occitanie), exclue par la règle 41.c. La Loire est éligible.
+
+**Commune, règle 248.** Saint-Chamond (35 646 habitants) reste la commune la plus peuplée de la Loire sans fiche. Reprise pour la cinquième fois.
+
+**Registre Agence Bio, Loire.** Deux pages de cent opérateurs. Aucun vendeur direct entier à Saint-Chamond : un restaurant collectif seulement. À Roanne, une enseigne de magasin bio (vente aux particuliers) ; une boulangerie dont l'enseigne est un patronyme, écartée.
+
+**Recherche web.** Saint-Chamond : une seule piste, un magasin de producteurs listé par un annuaire grand public, sans site officiel ni horaires confirmés par le commerce. Aucun marché de producteurs trouvé hors page de la Ville déjà consignée. Roanne : un guide de producteurs de 2024 (projet alimentaire territorial), non exhaustif, qui cite une épicerie et un magasin à confirmer par adresse ; une liste de 2020 hors de la ville.
+
+**Pourquoi rien n'est publié.** Saint-Chamond n'a ni cinq commerces entiers, ni deuxième source officielle pour ses marchés (règle 9). Roanne n'a pas non plus cinq fiches entières vérifiées (règles 96 et 127). Une fiche isolée n'est pas une zone (règle 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Saint-Chamond, magasin de producteurs (avenue Jules-Ferry, annuaire grand public) : un commerce, horaires à confirmer auprès du commerce. **Déblocage** : site ou page du commerce, téléphone publié, et quatre autres commerces entiers.
+- Roanne, épicerie bio et magasin de producteurs cités par le guide 2024 : adresses non confirmées. **Déblocage** : vérification d'adresse sur une source officielle, et cinq fiches entières.
+
+**Constat de méthode.** Dix-huit passes autonomes de suite sans fiche publiée. La règle de zone (cinq fiches entières dans une seule commune) est le seul frein, et les communes ciblées n'ont pas les commerces qui la remplissent. Le responsable du site doit trancher si la règle de zone doit rester à cinq pour une commune de cette taille.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Loire si elle reste région de tête après un nouvel échec (règle 41.c). Reprise en Seine-Maritime.
