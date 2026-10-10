@@ -35530,3 +35530,25 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune f
 **Constat de méthode.** Vingt-deux passes autonomes de suite sans fiche publiée. Le blocage tient à la règle des cinq fiches entières par commune, et à l'absence de source horaire officielle dans les communes de cette taille. La proposition de règle de sortie, déjà consignée, reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
 
 **Points d'arrêt** : la passe suivante reprend le département suivant du classement (règle 41.c) avec une recherche neuve sur sa commune la plus peuplée sans fiche.
+
+### Passe autonome du 10 octobre 2026 (vingt-troisième) : Loire, Rive-de-Gier et Le Chambon-Feugerolles éprouvées, aucune publication
+
+Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul sur 1 271 fiches, départements métropolitains uniquement (les DROM sont hors du périmètre de la carte). Tête du déficit : Loire (42), Seine-Maritime (76), Gard (30), Haut-Rhin (68), Haute-Garonne (31). La Loire est retenue : le Nord, dernier département visé, n'est pas repris.
+
+**Commune, règle 41.d.** Saint-Étienne est la commune la plus peuplée du département, mais elle porte déjà sept fiches. Les communes suivantes sans fiche, Saint-Chamond et Roanne, ont été éprouvées lors des passes précédentes sans résultat. Cette passe descend à Rive-de-Gier (15 242 hab.) puis Le Chambon-Feugerolles (12 314 hab.).
+
+**Recherche.** Registre de l'Agence Bio, Loire, première page (100 opérateurs) : Rive-de-Gier n'y apparaît qu'avec une cuniculture et un organisme de formation ; Le Chambon-Feugerolles, qu'une boutique bio de vente aux particuliers, sans horaires ni site confirmés. Recherche web générale : aucun marché de producteurs ni magasin de producteurs identifié pour ces deux communes, les résultats renvoyant à d'autres villes ou à des annuaires de commerces sans rapport. Les jours de marché publiés par un guide participatif indiquent aucun marché pour Le Chambon-Feugerolles.
+
+**Pourquoi rien n'est publié.** Aucune de ces deux communes ne rend une source officielle ni cinq fiches entières vérifiables (règles 96, 127, 248). Une fiche isolée ne forme pas une zone. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées** : aucune nouvelle piste.
+
+**Constat de méthode.** Vingt-trois passes autonomes de suite sans fiche publiée. Le blocage reste la règle des cinq fiches entières par commune, combinée à l'absence de source horaire officielle dans les communes de cette taille. Il faudrait une source de terrain (mairie, office de tourisme de la vallée de l'Ondaine, Chambre d'agriculture de la Loire) qu'une recherche web ne remplace pas. La proposition de règle de sortie reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
+
+**Points d'arrêt** : la passe suivante reprend le département suivant du classement (Seine-Maritime, Gard ou Haut-Rhin) avec une recherche neuve sur sa commune la plus peuplée sans fiche.
