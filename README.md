@@ -35748,3 +35748,19 @@ Aucune demande de visiteur (backlog vide, une demande en cours inchangée). Mode
 - Le Chambon-Feugerolles, boulangerie bio vendant au public : catégorie non tranchée (pas un producteur ni un magasin bio avéré). **Déblocage** : site officiel montrant une offre de producteurs.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Loire si elle reste en tête après un nouvel échec (règle 41.c ne l'exclut pas encore : prochaine commune par population sans fiche, Feurs 8 367, à recalculer). La Seine-Maritime, deuxième, reste en piste (Dieppe et Fécamp, voir les passes précédentes).
+
+### Passe autonome du 10 octobre 2026 (trente et unième) : Haute-Garonne, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population par département relue sur geo.api.gouv.fr (34 969 communes, outre-mer écarté). Haute-Garonne (31) en tête, déficit 5,27 (23 fiches). La passe précédente visait Auvergne-Rhône-Alpes : seule cette région est exclue (règle 41.c). Haute-Garonne éligible, comme à la passe précédente de la Haute-Garonne (la règle ne bloque que la passe immédiatement précédente).
+
+**Commune, règle 248.** Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens et Villeneuve-Tolosane sont déjà éprouvées, sans fiche entière, dans les passes précédentes. Les communes de plus de 10 000 habitants du département ont donc toutes été lues sans aboutir à cinq fiches vérifiables.
+
+**Ce qui a été relu.** Le registre Agence Bio (Haute-Garonne) : 100 premiers opérateurs relus à cette passe, rien de nouveau par rapport aux pages déjà lues (2 834 opérateurs relus en totalité lors de la passe de Muret). Aucune commune de la liste n'a été reprise sans source nouvelle.
+
+**Constat de méthode.** Trente et une passes autonomes de suite sans fiche publiée. La règle « cinq fiches entières dans une seule commune » ne peut pas être remplie dans les communes moyennes du département avec les sources accessibles (registre, sites de mairie, offices de tourisme). La formule de la règle 41 désigne toujours la Haute-Garonne parce que sa population est forte et qu'elle compte peu de fiches, ce qui fait boucler la descente sur les mêmes communes. Cette question reste ouverte pour le responsable du site ; elle n'est pas contournée ici (ni exception, ni groupement élargi à l'agglomération sans décision).
+
+**Pistes non publiées (Haute-Garonne)** : lignes anonymes, aucune nouvelle. Les pistes déjà consignées dans les passes précédentes restent en l'état.
+
+**Points d'arrêt.** La passe suivante ne vise pas Occitanie si elle reste en tête après un nouvel échec (règle 41.c). Si la Haute-Garonne reste en tête, la descente reprend à la commune suivante par population sans fiche, à recalculer ; la décision de sortie de boucle relève du responsable du site.
