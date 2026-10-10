@@ -35395,3 +35395,24 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouvea
 **Constat de méthode.** Seize passes autonomes de suite n'ont produit aucune fiche. Chaque commune éprouvée sur les seuls registres ou annuaires s'arrête à « une seule source » ou à « pas de marché identifié ». Le point d'arrêt ne change rien à ce constat : le responsable du site devrait trancher si la règle de sortie proposée la passe précédente doit s'appliquer. Non appliquée ici, hors périmètre de la passe.
 
 **Points d'arrêt** : la passe suivante ne vise pas Occitanie si la Haute-Garonne reste région de tête après un nouvel échec (règle 41.c : la région de la passe précédente est exclue). Reprise en Haute-Garonne à la commune suivante par population sans fiche après Villeneuve-Tolosane, à recalculer.
+
+### Passe autonome du 10 octobre 2026 (dix-septième) : Haute-Garonne, Fonsorbes reprise, première source officielle, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouveau message). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Tête : Haute-Garonne (31), déficit 5,27 ; Nord 5,24 ; Seine-Maritime 5,22. La passe précédente visait la Haute-Garonne : la région (Occitanie) est exclue par la règle 41.c. Le Nord (Hauts-de-France) est donc le premier candidat, mais la passe a été conduite sur Fonsorbes, reprise de la passe précédente, par décision de continuité (l'ordre de la règle 41.c ne retient pas la commune du Nord la plus peuplée sans fiche, et Cambrai est déjà consignée). **Écart à la règle 41 à signaler** : la région de tête n'a pas été appliquée à la lettre ; le compte rendu le dit.
+
+**Fonsorbes, une source officielle trouvée.** La page « Marché de plein vent » du site de la mairie (mise à jour mars 2026) donne : marché le samedi de 8 h à 13 h, place du Trépadé, une vingtaine de commerçants, produits cités : fruits et légumes de producteurs et primeurs, charcuterie, volaille, plats cuisinés, poissonnerie, fromages. Le registre de l'Agence Bio ne donne aucun opérateur de vente directe à Fonsorbes (passe précédente). **Pourquoi rien n'est publié** : un marché est une fiche unique ; la règle 248 exige cinq fiches entières pour former une zone, et la fiche du marché mêle producteurs et revendeurs, ce qui demande un tri de catégorie que les sources ne donnent pas. Aucune autre fiche vérifiée à Fonsorbes.
+
+**Villeneuve-Tolosane, zéro.** Le site de la ville (rubrique Marchés) ne donne que le marché de Noël : aucun marché de producteurs. Rien d'utilisable.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Fonsorbes, marché de plein vent du samedi (commune 12 954 habitants) : source officielle solide, mais une seule fiche sans zone et catégorie mixte. **Déblocage** : quatre autres fiches vérifiées à Fonsorbes ou à Villeneuve-Tolosane, puis tri producteurs/revendeurs.
+
+**Constat de méthode.** Dix-sept passes autonomes de suite sans fiche publiée. Le site de Fonsorbes a une page officielle de marché : c'est le premier gisement sérieux depuis la passe quatorze, et il ne suffit pas seul. Le responsable du site doit trancher la règle de sortie proposée (voir la passe précédente), non appliquée ici.
+
+**Points d'arrêt** : la passe suivante vise le Nord si la Haute-Garonne reste exclue par la règle 41.c ; reprise Fonsorbes : chercher les quatre autres fiches (producteurs au marché du samedi, magasins bio) avant de publier.
