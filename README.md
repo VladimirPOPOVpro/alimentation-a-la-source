@@ -35791,3 +35791,26 @@ Aucune demande de visiteur (backlog vide : 0 nouvelle, une demande en cours inch
 **Constat de méthode.** Trente-deux passes autonomes de suite sans fiche publiée. Le registre ne contient pas, dans les communes de l'agglomération lilloise où la population est forte, de vendeurs directs vérifiables en nombre suffisant pour atteindre cinq fiches d'une même commune. La règle de groupement, maintenue, reste le point bloquant.
 
 **Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c : même région deux passes de suite). Elle reprend le calcul hors Hauts-de-France. Commune suivante par population sans fiche : Lambersart (27 090) ou Armentières (26 998), à éprouver au registre et aux sites de mairie avant toute publication. Villeneuve-d'Ascq n'est pas reprise (une fiche déjà publiée).
+
+### Passe autonome du 10 octobre 2026 (trente-troisième) : Haute-Garonne, Seysses éprouvée à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population par département relue sur geo.api.gouv.fr. Haute-Garonne (31) en tête, déficit 5,27 (23 fiches). La passe précédente visait le Nord : l'Occitanie n'est pas exclue (règle 41.c ne bloque que la passe immédiatement précédente). **Retenu : Haute-Garonne (31).**
+
+**Commune, règle 41.d.** Les communes de plus de 10 000 habitants du département déjà éprouvées dans les passes précédentes (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens, Villeneuve-Tolosane) n'ont pas été reprises. **Retenue : Seysses (10 539 habitants)**, la plus peuplée sans fiche qui n'a pas encore été éprouvée.
+
+**Seysses, trois sources.**
+- Registre Agence Bio, pages 0 à 900 du département 31 (1 000 opérateurs relus sur 2 834). Plusieurs entrées mentionnent Seysses ; la plupart sont des grossistes ou des entreprises vendant aux professionnels. Deux ou trois entrées à vente aux particuliers ne sont liées à aucun point de vente public vérifié. Rien n'est publié à partir du registre seul.
+- Recherche web sur les marchés et les producteurs : l'annuaire participatif Jours de marché recense huit marchés à Seysses, sans horaires exploitables. Un marché artisanal avec producteurs était annoncé le 11 septembre 2026 (date passée), et un marché de Noël le 29 novembre 2026, sans précision de commune dans la source. Aucun marché de producteurs permanent ou hebdomadaire vérifié.
+- Magasins bio et points de vente directs : aucun trouvé avec adresse, horaires et site vérifiés à Seysses.
+
+**Bilan Seysses.** Commune éprouvée à zéro : aucun point de vente direct vérifié. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (Haute-Garonne, Seysses)** — lignes anonymes :
+- Seysses, huit marchés recensés sans horaires : **Déblocage** : horaires publiés par la Ville ou par les organisateurs.
+- Seysses, deux ou trois entrées de vente directe au registre Agence Bio, sans adresse de point de vente ni site public : **Déblocage** : point de vente et horaires publiés par l'exploitation elle-même.
+
+**Constat de méthode.** Trente-troisième passe de suite sans fiche publiée. Dans le Haute-Garonne, toutes les communes de plus de 10 000 habitants ont été lues ; le registre Agence Bio pour ce département n'a été relu qu'en partie cette fois (mille opérateurs sur deux mille huit cent trente-quatre). La règle de groupement par commune reste le point bloquant.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c : même région deux passes de suite). Le calcul hors Occitanie donne Nord (59, 5,24) puis Seine-Maritime (76, 5,22) ; les communes de ces départements ont déjà été éprouvées, et la suite se décide à la passe.
