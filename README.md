@@ -35442,3 +35442,25 @@ Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune ret
 **Constat de méthode.** Dix-huit passes autonomes de suite sans fiche publiée. La règle de zone (cinq fiches entières dans une seule commune) est le seul frein, et les communes ciblées n'ont pas les commerces qui la remplissent. Le responsable du site doit trancher si la règle de zone doit rester à cinq pour une commune de cette taille.
 
 **Points d'arrêt** : la passe suivante ne vise pas la Loire si elle reste région de tête après un nouvel échec (règle 41.c). Reprise en Seine-Maritime.
+
+### Passe autonome du 10 octobre 2026 (dix-neuvième) : Seine-Maritime, Dieppe éprouvée une nouvelle fois, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule (Wallis-et-Futuna et Polynésie écartées, règle 177). La Loire, visée à la passe précédente, est fermée (règle 41.c). Tête suivante : Seine-Maritime (76), déficit d'environ 4,2, comme le prévoyait le point d'arrêt.
+
+**Commune, règle 248.** Dieppe (28 496 habitants) reste la commune la plus peuplée de Seine-Maritime sans fiche. Reprise pour la énième fois.
+
+**Registre Agence Bio, Seine-Maritime (1 004 opérateurs relus).** À Dieppe : une boulangerie qui vend en restauration seulement, un point de vente déclaré aux particuliers mais dont l'activité est de la préparation, et des distributeurs ou grossistes sans vente au public. Aucun producteur déclarant une vente directe au public dans la commune.
+
+**Pourquoi rien n'est publié.** Dieppe n'a pas cinq fiches entières (règles 96 et 127) ; un seul commerce y est vérifiable au mieux. Une fiche isolée n'est pas une zone (règle 248). Les pistes déjà consignées pour Dieppe (épicerie participative, boulangerie bio) restent telles quelles, sans nouvelle source.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre dont l'exploitant est une personne physique, écartée (règle 309) ; aucune fiche n'est nommée.
+
+**Pistes non publiées (Seine-Maritime)** : Dieppe, aucune nouvelle piste ; les pistes existantes ne sont pas réécrites.
+
+**Constat de méthode.** Dix-neuf passes autonomes de suite sans fiche publiée. Le registre national de la Seine-Maritime ne fournit pas, dans les communes les plus peuplées sans fiche, les cinq vendeurs directs nécessaires à une zone. Le blocage vient de la règle de zone à cinq et de la pauvreté du registre dans ce département, non d'un manque de recherche.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Seine-Maritime si elle reste région de tête après un nouvel échec (règle 41.c). Reprise au premier département éligible du classement, en commençant par une recherche neuve sur la commune la plus peuplée sans fiche de ce département.
