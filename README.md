@@ -35846,3 +35846,25 @@ Aucune demande de visiteur (backlog vide : 0 nouvelle, une demande en cours inch
 **Constat de méthode.** Trente-quatre passes autonomes de suite sans fiche publiée. La règle de groupement « cinq fiches entières dans une seule commune » reste le point bloquant : les communes de plus de 25 000 habitants du Nord éprouvées jusqu'ici n'ont pas rendu cinq fiches vérifiables. La question de la règle de sortie reste ouverte pour le responsable du site ; elle n'est pas contournée ici.
 
 **Points d'arrêt.** La passe suivante ne vise pas les Hauts-de-France si le Nord reste en tête (règle 41.c). Sinon, la descente reprend à Lambersart (27 090) ou Armentières (26 998), à éprouver au registre et aux sites de mairie. Cambrai reste en piste pour la passe où le Nord redevient éligible, avec la lecture des horaires du réseau Biocoop comme première tâche.
+
+### Passe autonome du 10 octobre 2026 (trente-cinquième) : Haute-Garonne, Auterive reprise, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population par département relue sur geo.api.gouv.fr. La passe précédente visait le Nord (Hauts-de-France) : la région est exclue (règle 41.c). Haute-Garonne (31) est en tête des départements éligibles, déficit 5,27 (23 fiches). **Retenue : Haute-Garonne.**
+
+**Commune, règle 41.d.** Les communes de plus de 10 000 habitants déjà éprouvées (dont Seysses) ne sont pas reprises. **Retenue : Auterive (10 456)**, déjà instruite une fois, sans fiche publiée à ce jour.
+
+**Auterive, reprise.**
+- Recherche web (une requête) : seul un marché artisanal (samedi 19 septembre 2026, pièces de créateurs, sans horaires ni producteurs alimentaires) ressort. Aucun marché de producteurs à jours vérifiés. Écarté.
+- La fiche déjà repérée (magasin Biocoop de la route de Toulouse, SCOP active au registre) reste la seule pièce vérifiée de la commune. Elle ne suffit pas au groupe de cinq et n'est donc pas publiée seule.
+
+**Bilan.** Commune éprouvée à zéro fiche publiable pour la zone. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (Haute-Garonne, Auterive)** — lignes anonymes :
+- Auterive, magasin biologique de la route de Toulouse : une fiche entière, seule. **Déblocage** : quatre fiches de producteurs ou de points de vente vérifiés dans la même commune.
+- Auterive, marché artisanal ponctuel : pas de producteurs alimentaires, hors périmètre.
+
+**Constat de méthode.** Trente-cinquième passe de suite sans fiche publiée. La règle des cinq fiches dans une seule commune reste le point bloquant, et la recherche en ligne ne ramène plus de nouvelles sources à Auterive.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie si Haute-Garonne reste en tête (règle 41.c). Le département suivant éligible est Seine-Maritime (76, 5,22), dont les communes sont à relire au registre. Auterive reste en piste, avec un seul magasin vérifié.
