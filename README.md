@@ -35348,3 +35348,26 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouvea
 **Constat de méthode.** Quatorze passes autonomes de suite descendent la liste commune par commune, sans fiche entière, depuis la même logique. Le point d'arrêt ne change rien à la méthode : la descente épuise les communes une à une. Le responsable du site a été alerté par une session dédiée (proposition de règle de sortie, non appliquée).
 
 **Points d'arrêt** : la passe suivante ne vise pas Auvergne-Rhône-Alpes si elle reste région de tête (règle 41.c). En Haute-Garonne, la reprise ouvre par Fonsorbes (12 954 habitants) puis Villeneuve-Tolosane (11 044).
+
+### Passe autonome du 10 octobre 2026 (quinzième) : Nord, Cambrai reprise, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouveau message). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes, métropole seule. Tête : Haute-Garonne (31), déficit 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue (règle 41.c). Le Nord est donc retenu.
+
+**Commune, règle 248.** Wattrelos, Douai, Marcq-en-Barœul, Lambersart et Armentières sont déjà éprouvées sans fiche entière. Cambrai reste le point d'arrêt : la descente reprend là.
+
+**Ce qui a été lu.** Registre des entreprises et registre de l'Agence Bio déjà lus lors des passes précédentes. Cette passe : le site de la Ville de Cambrai ne répond pas à l'agent (aucune réponse) ; la page réseau de Biocoop renvoie une redirection sans contenu exploitable. Aucune source nouvelle pour les horaires contradictoires du Biocoop.
+
+**Pourquoi rien n'est publié.** Cambrai ne rend aucune fiche entière et vérifiée au sens du site (horaires contradictoires, seconde source absente pour Bio C'Bon, horaires partiels du maraîcher). Une fiche isolée ne fait pas une zone (règle 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : horaires du Biocoop de Cambrai toujours contradictoires entre annuaires ; non tranchées, aucune source officielle lisible.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (Nord)** — lignes anonymes :
+- Cambrai, Biocoop : horaires contradictoires. **Déblocage** : horaire lu sur la page du réseau ou confirmé par le magasin.
+- Cambrai, Bio C'Bon : une seule source. **Déblocage** : une seconde source pour adresse et horaires.
+- Cambrai, maraîcher à vente à la ferme : horaires partiels. **Déblocage** : horaires du mercredi au dimanche.
+
+**Points d'arrêt** : la passe suivante ne vise pas les Hauts-de-France si le Nord reste région de tête (règle 41.c). Reprise : Cambrai d'abord, puis Maubeuge.
