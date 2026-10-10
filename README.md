@@ -35893,3 +35893,26 @@ Aucune demande de visiteur (backlog : 0 nouvelle ; une demande en cours inchang�
 **Constat de méthode.** Trente-six passes autonomes de suite sans fiche publiée. Dans les communes de l'agglomération lilloise, les annuaires municipaux recensent surtout des revendeurs : la règle des cinq fiches vérifiables d'une seule commune ne peut pas être remplie à partir de ces sources. Ce point reste ouvert pour le responsable du site ; il n'est pas contourné ici.
 
 **Points d'arrêt.** La passe suivante ne vise pas les Hauts-de-France (règle 41.c : même région deux passes de suite). Le calcul hors Hauts-de-France donne Seine-Maritime (76, 5,22). Lambersart reste en piste, avec un seul point de vente direct à vérifier au registre.
+
+### Passe autonome du 11 octobre 2026 (trente-septième) : Loire, Montbrison éprouvée, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population par département relue sur geo.api.gouv.fr. La passe précédente visait les Hauts-de-France : la région est exclue (règle 41.c). Loire (42), déficit 4,27, devance Seine-Maritime (76), 4,24, de peu. Le calcul de la passe précédente donnait Seine-Maritime en tête avec un déficit de 5,22 ; avec le décompte de cette passe, l'écart est presque nul. **Retenue : Loire**, la formule l'emporte à la lettre. Écart de méthode consigné ici, pas remonté.
+
+**Commune, règle 41.d.** Saint-Étienne (173 136) exclue : elle porte déjà des fiches. Les communes plus petites de la liste ont déjà été instruites lors des passes des 8 et 9 octobre. **Retenue : Montbrison (16 123)**, citée au README sans fiche publiée.
+
+**Montbrison, registre Agence Bio (département 42, mille opérateurs relus).** Deux entrées dans la commune ou ses voisines immédiates :
+- une boulangerie à enseigne bio, à vente aux particuliers : hors périmètre (boulangerie, pas un point de vente de production locale) ;
+- une entreprise à nom patronymique d'exploitant : écartée pour doute sur une personne, ne se rouvre pas.
+Aucun marché de producteurs ni magasin de producteurs trouvé à Montbrison dans les sources lues. Les recherches web de cette passe n'ont pas abouti : la requête de registre « magasin producteurs Rive-de-Gier » ne rend aucun résultat.
+
+**Bilan.** Commune éprouvée à zéro fiche publiable. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (Loire, Montbrison)** — lignes anonymes :
+- Montbrison, boulangerie bio à vente aux particuliers : hors critères de vente directe. **Déblocage** : aucun, sauf si elle déclare un approvisionnement direct auprès de producteurs (règle 4).
+- Montbrison, une entreprise à nom patronymique d'exploitant : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Constat de méthode.** Trente-septième passe de suite sans fiche publiée. Le registre Agence Bio ne livre dans la Loire, commune après commune, que des revendeurs, des distributeurs, des exploitations à nom patronymique et des entreprises sans vente au public. La règle des cinq fiches vérifiables d'une seule commune n'est pas remplie à partir de ces sources. Ce point reste ouvert pour le responsable du site ; il n'est pas contourné ici.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Loire ni les Hauts-de-France (règle 41.c). Le calcul donne ensuite Seine-Maritime (76) si la Loire reste en tête ; sinon le département suivant éligible. Montbrison reste en piste, sans fiche vérifiée.
