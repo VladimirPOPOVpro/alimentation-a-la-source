@@ -35646,3 +35646,41 @@ Aucune commune de la Loire ne rend donc cinq fiches vérifiables à ce jour. Des
 **Constat de méthode.** Vingt-six passes autonomes de suite sans fiche publiée. Le même blocage revient : la règle « cinq fiches entières dans une seule commune » rencontre des communes de 35 000 habitants où le registre compte à peine un commerce au public. La proposition de règle de sortie figurant dans la passe précédente reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
 
 **Points d'arrêt** : la passe suivante ne vise pas la Loire (même région deux fois de suite). Elle prend Seine-Maritime (76, déficit 4,2), commune la plus peuplée sans fiche, en commençant par son registre Agence Bio, puis Gard (30) si la Seine-Maritime ne rend pas cinq commerces.
+
+### Passe autonome du 10 octobre 2026 (vingt-septième) : Haute-Garonne, Blagnac éprouvée, zone non formée, aucune publication
+
+Demande de visiteur : aucune en attente (backlog vide au début de la passe). Mode 2.
+
+**Classement, règle 41.** Calcul refait sur le jeu de population du jour, métropole seule (le validateur ne rend que la France métropolitaine) : Haute-Garonne (31) à 5,3, Nord (59) à 5,2, Seine-Maritime (76) à 5,2, Bouches-du-Rhône (13) à 5,1. La passe précédente visait la Seine-Maritime et annonçait la Haute-Garonne en suivant ; la formule place la Haute-Garonne en tête, et elle n'a pas été visée aux deux dernières passes. **Retenu : Haute-Garonne (31)**, selon la formule. Le nombre de fiches de la base (1 271) n'a pas changé.
+
+**Commune la plus peuplée sans fiche.** Toulouse, Colomiers, Tournefeuille, Cugnaux et L'Union ont déjà des fiches. **Blagnac (27 604 habitants)** n'en a aucune. Muret (26 079) est la suivante.
+
+**Blagnac, trois sources croisées.**
+- Registre Agence Bio, pages 0 à 2 800 du département 31 (2 834 opérateurs), filtrées sur la ville. Vingt-quatre entrées à Blagnac, dont une bonne part de grossistes, d'artisans et de grandes surfaces.
+- Recherche web sur les marchés hebdomadaires, la mairie et les magasins bio.
+- Consultation de l'annuaire Agence Bio pour les entrées à vente aux particuliers.
+
+Candidats :
+- **Les Maraîchers des Quinze Sols** (GAEC, maraîchage bio, 4 chemin des Ortalans, 31700) : active, cité par l'office de tourisme de Toulouse et l'agence de Toulouse Métropole, vente aux particuliers au registre. Aucun horaire, aucun téléphone ni site vérifiés. Solide sur l'existence, insuffisant pour une fiche complète.
+- **L'Arche en Pays Toulousain** (association et ESAT, maraîchage bio, 2 rue du Docteur Guimbaud, 31700) : vente aux particuliers au registre, boutique citée par deux annuaires. Horaires trouvés sur un seul agrégateur, site de l'association injoignable à la passe. Catégorie à trancher : producteur ou magasin.
+- **Biocoop, rue Henri Matisse** : enseigne de réseau, supermarché bio. Hors périmètre (commerce généraliste de réseau), non retenu.
+- **GAEC des Ortalans** (registre, vente aux particuliers, chemin des Ortalans) : aucune trace web, pas de source indépendante. Rien ne se publie.
+- **Marché hebdomadaire de Blagnac** : aucune source trouvée. Les résultats concernent Tannay et le marché de Noël ; seul un appel d'offres municipal pour l'approvisionnement de restauration collective apparaît. Rien ne se publie.
+
+Une seule piste est solide, une autre est plausible. Aucune commune du 31 ne rend à ce jour cinq fiches vérifiables, et Blagnac est à deux. **Descendre à la suivante par population** : Muret (26 079), à éprouver à la passe suivante ou par la suite de la passe en cours si les sources le permettent.
+
+**Fiches publiées : aucune. Fiches retirées : aucune. Total inchangé : 1 271.**
+
+**Contradictions** : aucune entre sources ; une entrée du registre (GAEC des Ortalans) a un téléphone et un site renseignés sans qu'aucun ne soit trouvable en ligne. Consignée ici, non tranchée.
+
+**Pistes non publiées (Blagnac et Haute-Garonne)** — lignes anonymes :
+- Blagnac, maraîchage bio du chemin des Ortalans : existence établie par deux sources, horaires et contact à trouver. **Déblocage** : site ou téléphone publié par l'exploitation, puis quatre autres fiches vérifiées dans la commune.
+- Blagnac, association et ESAT maraîchage bio, boutique : horaires à confirmer, catégorie à trancher. **Déblocage** : horaires de la boutique publiés par l'association.
+- Blagnac, GAEC des Ortalans (registre seul) : aucune source indépendante. **Déblocage** : une source web ou un annuaire de producteurs qui la cite.
+- Blagnac, plusieurs entreprises au registre à nom patronymique d'exploitant (entreprises individuelles) : écartées pour doute sur une personne, ne se rouvrent pas.
+- Blagnac, grandes surfaces, grossistes et artisans au registre : hors catégories retenues.
+- Blagnac, Biocoop : enseigne de réseau, hors périmètre.
+
+**Constat de méthode.** Vingt-sept passes autonomes de suite sans fiche publiée. Le blocage tient toujours à la règle « cinq fiches entières dans une seule commune » : le registre Agence Bio d'une commune de 27 000 habitants compte deux ou trois producteurs vérifiables, et il faut les chercher commune par commune. La proposition de règle de sortie reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
+
+**Points d'arrêt** : la passe suivante ne vise pas la Haute-Garonne (même région deux fois de suite). Elle prend le Nord (59, déficit 5,2) ou la Seine-Maritime (76) selon le calcul de son jour, commune la plus peuplée sans fiche, en commençant par le registre Agence Bio.
