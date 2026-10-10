@@ -35731,3 +35731,20 @@ Aucune demande de visiteur (backlog vide, une demande en cours inchangée). Mode
 **Constat de méthode.** Vingt-neuf passes autonomes de suite sans fiche publiée. La règle « cinq fiches entières dans une seule commune » continue de bloquer les communes moyennes : le registre Agence Bio ne contient pas, à Muret comme à Blagnac, cinq vendeurs directs vérifiables. La question de la règle de sortie reste ouverte pour le responsable du site ; elle n'est pas appliquée ici.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle reste région de tête après un nouvel échec (règle 41.c). Si la Haute-Garonne reste en tête, reprise à la commune suivante par population sans fiche (Plaisance-du-Touch, 21 079), à recalculer. Cambrai (Nord) reste en piste pour la passe où le Nord redevient éligible.
+
+### Passe autonome du 10 octobre 2026 (trentième) : Loire reprise, Riorges et Andrézieux-Bouthéon éprouvées à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide, une demande en cours inchangée). Mode 2. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population par département relue sur geo.api.gouv.fr. Loire (42) en tête, déficit 4,27, devant la Seine-Maritime (76, 4,24) et le Haut-Rhin (68, 4,21). La passe précédente visait la Haute-Garonne : seule l'Occitanie est exclue (règle 41.c), la Loire est donc éligible.
+
+**Commune.** Saint-Chamond, Roanne, Firminy, Montbrison, Rive-de-Gier et Le Chambon-Feugerolles ont déjà été éprouvées lors des passes précédentes. Riorges (11 139) et Andrézieux-Bouthéon (10 425), reprises au registre Agence Bio (500 opérateurs relus sur 1 408) : aucun vendeur direct vérifiable. Riorges : une boulangerie vendant au public, une association d'insertion, une grande enseigne (hors périmètre). Andrézieux-Bouthéon : un abattoir de proximité, une grande enseigne, une société de distribution et deux entreprises individuelles à nom patronymique (écartées, sans nom, ne se rouvrent pas). Commune éprouvée à zéro.
+
+**Constat.** Trente passes autonomes de suite sans fiche publiée. Le registre Agence Bio de la Loire ne rend, commune par commune, ni cinq vendeurs directs vérifiables ni même une commune complète. La règle « cinq fiches entières dans une seule commune » reste le point bloquant, et la question de la règle de sortie reste ouverte pour le responsable du site ; elle n'est pas appliquée ici.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Riorges, marché de plein air : existence signalée par les sources de la passe précédente, horaires non vérifiés auprès de la Ville. **Déblocage** : horaires publiés par la Ville.
+- Andrézieux-Bouthéon, entreprises individuelles à nom patronymique au registre : écartées pour doute sur une personne, ne se rouvrent pas.
+- Le Chambon-Feugerolles, boulangerie bio vendant au public : catégorie non tranchée (pas un producteur ni un magasin bio avéré). **Déblocage** : site officiel montrant une offre de producteurs.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Loire si elle reste en tête après un nouvel échec (règle 41.c ne l'exclut pas encore : prochaine commune par population sans fiche, Feurs 8 367, à recalculer). La Seine-Maritime, deuxième, reste en piste (Dieppe et Fécamp, voir les passes précédentes).
