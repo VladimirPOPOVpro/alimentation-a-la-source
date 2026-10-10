@@ -35371,3 +35371,27 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouvea
 - Cambrai, maraîcher à vente à la ferme : horaires partiels. **Déblocage** : horaires du mercredi au dimanche.
 
 **Points d'arrêt** : la passe suivante ne vise pas les Hauts-de-France si le Nord reste région de tête (règle 41.c). Reprise : Cambrai d'abord, puis Maubeuge.
+
+### Passe autonome du 10 octobre 2026 (seizième) : Haute-Garonne, Fonsorbes et Villeneuve-Tolosane éprouvées à zéro, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours, sans nouveau message). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes, métropole seule. Tête : Haute-Garonne (31), déficit 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22. La passe précédente visait le Nord (Hauts-de-France) : seule cette région est exclue (règle 41.c). La Haute-Garonne est donc retenue à nouveau.
+
+**Commune, règle 248.** Saint-Orens-de-Gameville, Saint-Gaudens, Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan et Ramonville-Saint-Agne sont déjà éprouvées sans fiche entière. La descente reprend à Fonsorbes (12 954 habitants), puis Villeneuve-Tolosane (11 044).
+
+**Fonsorbes, zéro.**
+- Registre de l'Agence Bio (Haute-Garonne, 1 900 opérateurs lus en totalité) : six opérateurs à Fonsorbes. Une société de grande distribution (code NAF 47.11F, hypermarchés, registre des entreprises) : généraliste, écartée (règle 3). Un discounter : généraliste, écarté. Trois entrées sans vente aux particuliers, dont un grossiste et un laboratoire. Deux entrées sont des particuliers désignés par un patronyme : écartées pour doute sur une personne, sans nom, et ne se rouvrent pas.
+- Recherche web : le site de la Ville n'a pas été lu ; les résultats donnent une seule date de marché (jours-de-marche.fr, source participative) et un « marché gourmand » de juillet 2026, déjà passé. Aucun marché de producteurs régulier identifié. Une seule source, et non officielle : **règle 9 non remplie**.
+
+**Villeneuve-Tolosane, zéro.** Deux opérateurs au registre de l'Agence Bio, sans vente aux particuliers. Aucune source officielle de marché ni de commerce lue. Rien d'utilisable.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend une fiche entière et vérifiée au sens du site. Une fiche isolée ne fait pas une zone (règle 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : deux à Fonsorbes (entrées du registre à enseigne patronymique), aucune nom publié, ne se rouvrent pas.
+
+**Constat de méthode.** Seize passes autonomes de suite n'ont produit aucune fiche. Chaque commune éprouvée sur les seuls registres ou annuaires s'arrête à « une seule source » ou à « pas de marché identifié ». Le point d'arrêt ne change rien à ce constat : le responsable du site devrait trancher si la règle de sortie proposée la passe précédente doit s'appliquer. Non appliquée ici, hors périmètre de la passe.
+
+**Points d'arrêt** : la passe suivante ne vise pas Occitanie si la Haute-Garonne reste région de tête après un nouvel échec (règle 41.c : la région de la passe précédente est exclue). Reprise en Haute-Garonne à la commune suivante par population sans fiche après Villeneuve-Tolosane, à recalculer.
