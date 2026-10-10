@@ -35552,3 +35552,33 @@ Demande de visiteur : aucune (backlog vide). **Aucune fiche publiée, aucune ret
 **Constat de méthode.** Vingt-trois passes autonomes de suite sans fiche publiée. Le blocage reste la règle des cinq fiches entières par commune, combinée à l'absence de source horaire officielle dans les communes de cette taille. Il faudrait une source de terrain (mairie, office de tourisme de la vallée de l'Ondaine, Chambre d'agriculture de la Loire) qu'une recherche web ne remplace pas. La proposition de règle de sortie reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
 
 **Points d'arrêt** : la passe suivante reprend le département suivant du classement (Seine-Maritime, Gard ou Haut-Rhin) avec une recherche neuve sur sa commune la plus peuplée sans fiche.
+
+### Passe autonome du 10 octobre 2026 (vingt-quatrième) : Haut-Rhin, Saint-Louis et Wittenheim éprouvées, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Le point d'arrêt de la passe précédente proposait la Seine-Maritime, le Gard ou le Haut-Rhin. Le Haut-Rhin (68) a été retenu parmi ces trois. Le déficit complet n'a pas été recalculé cette passe : le choix suit le point d'arrêt, pas une nouvelle mesure.
+
+**Commune, règle 248.** Communes les plus peuplées du Haut-Rhin : Mulhouse et Colmar portent déjà des fiches. La commune sans fiche la plus peuplée est Saint-Louis (22 805 habitants), puis Wittenheim, Illzach, Rixheim et Kingersheim.
+
+**Registre Agence Bio, Haut-Rhin (première page de cent opérateurs relue).** À Saint-Louis : deux grossistes et une entreprise de vente en gros, aucun point de vente aux particuliers. Un fournil déclaré aux particuliers, sans source de vente de producteurs. À Illzach et Rixheim : des grossistes et un drive, rien de retail en circuit court. À Kingersheim : une association sans vente aux particuliers. Les entrées déclarées aux particuliers à Altkirch, Ribeauvillé, Munwiller ou Hirtzbach ne sont pas vérifiées ; les entrées dont l'exploitant est une personne physique sont écartées (règle 309), sans nom.
+
+**Recherche web.**
+- Saint-Louis : aucun marché de producteurs ni horaire trouvé. La brochure 2024 de Saint-Louis Agglomération sur les circuits courts indique une trentaine de producteurs en vente directe et renvoie à une carte interactive sur le portail OpenData de l'agglomération. Piste la plus prometteuse de la passe, non exploitée faute de temps.
+- Wittenheim : une épicerie bio, horaires lus sur des annuaires en ligne seulement, pas sur sa propre page ; une ferme qui fonctionne en AMAP, modalités de vente directe à confirmer auprès de la ferme.
+- Illzach et Kingersheim : aucune boutique de producteurs bio identifiée ; les résultats renvoient à des enseignes générales ou à des commerces à vendre.
+
+**Pourquoi rien n'est publié.** Une épicerie bio et une ferme en AMAP ne forment pas cinq fiches entières dans une même commune (règles 96, 127, 248). Les horaires de l'épicerie ne viennent pas d'une source officielle ; le doute porte sur un fait, donc il n'est pas publié. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : des entrées du registre dont l'exploitant est une personne physique, écartées (règle 309) ; aucune n'est nommée.
+
+**Pistes non publiées (Haut-Rhin)** — lignes anonymes :
+- Saint-Louis, une trentaine de producteurs en vente directe selon la brochure de l'agglomération : aucune fiche identifiée. **Déblocage** : extraction de la carte OpenData de l'agglomération, puis vérification de chaque producteur sur sa propre page.
+- Wittenheim, épicerie bio à enseigne : horaires à confirmer auprès du commerce. **Déblocage** : page du commerce ou téléphone publié, et quatre autres commerces entiers.
+- Wittenheim, ferme en AMAP : modalités de vente à confirmer. **Déblocage** : site de la ferme ou réponse publique sur les modalités.
+
+**Constat de méthode.** Vingt-quatre passes autonomes de suite sans fiche publiée. La règle de zone à cinq fiches entières reste le frein principal. La piste la plus utile est le portail OpenData de Saint-Louis Agglomération, à lire en premier à la passe suivante.
+
+**Points d'arrêt** : la passe suivante ne vise pas le Haut-Rhin si la zone reste non formée (règle 41.c) ; elle commence par la carte OpenData de Saint-Louis Agglomération, puis le département en tête du classement après le Haut-Rhin.
