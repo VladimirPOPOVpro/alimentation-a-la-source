@@ -35582,3 +35582,25 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune f
 **Constat de méthode.** Vingt-quatre passes autonomes de suite sans fiche publiée. La règle de zone à cinq fiches entières reste le frein principal. La piste la plus utile est le portail OpenData de Saint-Louis Agglomération, à lire en premier à la passe suivante.
 
 **Points d'arrêt** : la passe suivante ne vise pas le Haut-Rhin si la zone reste non formée (règle 41.c) ; elle commence par la carte OpenData de Saint-Louis Agglomération, puis le département en tête du classement après le Haut-Rhin.
+
+### Passe autonome du 10 octobre 2026 (vingt-cinquième) : Haut-Rhin, Saint-Louis reprise par le jeu OpenData, zone non formée, aucune publication
+
+Demande de visiteur : une demande en cours (#13, producteur, Villecroze, Var), inchangée. Elle reste `en_cours` : le nom de l'enseigne ressemble à un prénom et le contact transmis est une adresse personnelle, donc doute sur une personne (règle de MODERATION.md) ; rien n'est publié, aucun message n'est envoyé. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Le point d'arrêt de la passe précédente visait Saint-Louis (Haut-Rhin) en premier, à partir du portail OpenData de Saint-Louis Agglomération. Cette passe a repris cette piste.
+
+**Recherche.** Le portail OpenData de Saint-Louis Agglomération publie le jeu « producteurs agricoles du territoire en circuits courts », qui liste les exploitations de vente directe des quarante communes de l'agglomération. Exporté en entier : vingt-sept entrées. Répartition par commune : trois dans une commune, trois dans une autre, deux dans trois communes, une dans les autres. Aucune commune n'atteint cinq entrées ; les entrées sont des exploitations agricoles, dont certaines portent un nom de personne (écarté, sans nom). Les contacts ne se publient pas tels quels : chaque fiche supposerait une vérification complète (registre, source indépendante, géocodage, site ouvert).
+
+**Pourquoi rien n'est publié.** Saint-Louis ne rend pas cinq fiches entières (règles 96, 127, 248). Une commune à trois exploitations ne forme pas une zone. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : une entrée du jeu OpenData, exploitation sous un nom de personne, écartée (règle 309) ; aucune n'est nommée.
+
+**Pistes non publiées (Haut-Rhin)** — lignes anonymes :
+- Agglomération de Saint-Louis, jeu OpenData de vingt-sept exploitations : aucune commune à cinq. **Déblocage** : quatre autres commerces entiers dans une même commune, puis vérification de chacun.
+- Villecroze (Var), producteur, demande #13 : doute sur une personne. **Déblocage** : une enseigne vérifiée au registre, sans contact personnel.
+
+**Constat de méthode.** Vingt-cinq passes autonomes de suite sans fiche publiée. La règle de zone à cinq fiches entières reste le frein principal, et le jeu OpenData de Saint-Louis ne la lève pas. La proposition de règle de sortie reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
+
+**Points d'arrêt** : la passe suivante reprend le département suivant du classement (Seine-Maritime ou Gard) avec une recherche neuve sur sa commune la plus peuplée sans fiche, en commençant par son registre Agence Bio et son jeu OpenData s'il existe.
