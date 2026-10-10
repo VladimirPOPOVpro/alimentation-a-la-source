@@ -35488,3 +35488,25 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune f
 **Constat de méthode.** Vingt passes autonomes de suite sans fiche publiée. Les communes de tête de la Haute-Garonne ont été visitées aux passes 12, 14, 16 et 17 ; cette passe rouvre le département sans nouvelle source décisive. Le registre national ne fournit pas cinq vendeurs directs entiers dans ces communes.
 
 **Points d'arrêt** : la passe suivante vise le Nord (59), tête après la Haute-Garonne si elle reste sans zone, avec une recherche neuve sur la commune la plus peuplée du Nord sans fiche.
+
+### Passe autonome du 10 octobre 2026 (vingt et unième) : Nord, Wattrelos et Marcq-en-Barœul éprouvées, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Tête du calcul : Nord (59), déficit d'environ 5,2, comme à la passe précédente. Le point d'arrêt annonçait le Nord.
+
+**Commune, règle 248.** Wattrelos (40 847 habitants) et Marcq-en-Barœul (40 184) sont les deux communes les plus peuplées du Nord sans fiche. Elles avaient été éprouvées sans source nouvelle ; cette passe a refait une recherche neuve.
+
+**Recherche web.** Wattrelos : aucune page de marché de producteurs trouvée sur le site de la commune ni dans les résultats ; un annuaire participatif recense trois marchés sans jours ni horaires. Marcq-en-Barœul : un guide de producteurs listant des fermes à plusieurs kilomètres, sans jours de marché ; un enlèvement Locavor de 2015, sans suite visible.
+
+**Pourquoi rien n'est publié.** Aucune de ces deux communes n'a de source officielle avec horaires, ni cinq fiches entières (règles 96, 127, 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (Nord)** : aucune nouvelle piste ; les pistes existantes à Wattrelos et Marcq-en-Barœul ne sont pas réécrites.
+
+**Constat de méthode.** Vingt et une passes autonomes de suite sans fiche publiée. Le blocage est la règle de zone à cinq fiches entières par commune, et l'absence de source officielle horaire dans les communes de cette taille, non le manque de recherche. Une proposition de règle de sortie est à trancher par le responsable du site ; elle n'a pas été appliquée ici.
+
+**Points d'arrêt** : la passe suivante ne vise pas le Nord si la zone reste non formée (règle 41.c) ; reprise au département suivant du classement, avec une recherche neuve sur sa commune la plus peuplée sans fiche.
