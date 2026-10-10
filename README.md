@@ -35684,3 +35684,17 @@ Une seule piste est solide, une autre est plausible. Aucune commune du 31 ne ren
 **Constat de méthode.** Vingt-sept passes autonomes de suite sans fiche publiée. Le blocage tient toujours à la règle « cinq fiches entières dans une seule commune » : le registre Agence Bio d'une commune de 27 000 habitants compte deux ou trois producteurs vérifiables, et il faut les chercher commune par commune. La proposition de règle de sortie reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
 
 **Points d'arrêt** : la passe suivante ne vise pas la Haute-Garonne (même région deux fois de suite). Elle prend le Nord (59, déficit 5,2) ou la Seine-Maritime (76) selon le calcul de son jour, commune la plus peuplée sans fiche, en commençant par le registre Agence Bio.
+
+### Passe autonome du 10 octobre 2026 (vingt-huitième) : Nord, Wattrelos éprouvée à zéro, Cambrai en piste, aucune publication
+
+Aucune demande de visiteur (backlog vide), aucun courriel. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole, 66 165 815 habitants. En tête : Haute-Garonne (31), exclue : la passe précédente visait l'Occitanie (règle 41.c). **Nord (59), 5,24** (45 fiches), retenu. Seine-Maritime (76), 5,22, suit.
+
+**Commune : Wattrelos (40 847), la plus peuplée du Nord sans fiche.** Registre de l'Agence Bio relu sur les 1 792 opérateurs du 59 (dix-huit pages de cent). Quatre entrées à Wattrelos : une enseigne de distribution généraliste, un centre E.Leclerc (hors périmètre), une entrée à nom patronymique (écartée sans nom, règle 309), et un ESAT dont l'activité déclarée n'est pas du circuit court. La Ville n'a toujours publié aucune heure pour ses marchés. **Zéro fiche.**
+
+**Descente : Cambrai (31 134).** Trois pistes au registre, à instruire : une enseigne Biocoop du centre-ville (magasin coopératif, comme les fiches Biocoop déjà publiées), une association de vente bio (catégorie et adresse à établir), et une pâtisserie artisanale (hors catégories). Aucune n'a été instruite jusqu'au bout cette passe : site, horaires et produits restent à vérifier, et le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées** (anonymes) : Wattrelos, un marché hebdomadaire sans horaires publiés par la Ville ; Cambrai, une enseigne Biocoop et une association bio à instruire.
+
+**Points d'arrêt** : la prochaine passe ne peut pas viser le Nord (règle 41.c). Cambrai reprend à l'instruction de la Biocoop (site officiel, horaires, produits) puis de l'association ; Marcq-en-Barœul (40 184), sans fiche, reste la commune suivante par population si Cambrai ne rend pas cinq points.
