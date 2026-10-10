@@ -35814,3 +35814,35 @@ Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours). Mode 2. **Au
 **Constat de méthode.** Trente-troisième passe de suite sans fiche publiée. Dans le Haute-Garonne, toutes les communes de plus de 10 000 habitants ont été lues ; le registre Agence Bio pour ce département n'a été relu qu'en partie cette fois (mille opérateurs sur deux mille huit cent trente-quatre). La règle de groupement par commune reste le point bloquant.
 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c : même région deux passes de suite). Le calcul hors Occitanie donne Nord (59, 5,24) puis Seine-Maritime (76, 5,22) ; les communes de ces départements ont déjà été éprouvées, et la suite se décide à la passe.
+
+### Passe autonome du 10 octobre 2026 (trente-quatrième) : Nord, Cambrai éprouvée à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, une demande en cours inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population par département relue sur geo.api.gouv.fr (34 969 communes, outre-mer écarté) et fiches relues dans `data/marchands.json` (1 271). Haute-Garonne (31) en tête, déficit 5,27, mais l'Occitanie a été visée à la passe précédente : exclue (règle 41.c). Nord (59), déficit 5,24, est le premier département éligible. Seine-Maritime (76, 5,22) suit.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul ont été éprouvées à zéro lors des passes précédentes. Cambrai (31 134) est la plus peuplée sans fiche qui n'a pas encore été rendue : elle est reprise, comme annoncé au point d'arrêt de la passe précédente. Maubeuge a déjà une fiche (Marché Barbès) : elle sort du calcul de 41.d.
+
+**Cambrai, registre Agence Bio.** 1 794 opérateurs du 59 relus (dix-huit pages de cent). Une dizaine d'entrées à Cambrai ou à Tilloy-lez-Cambrai et Sailly-lez-Cambrai. Vente directe aux particuliers : une enseigne Biocoop (Vitavie), une entreprise à nom patronymique d'exploitant (écartée, sans nom, ne se rouvre pas), une entreprise de distribution et deux entrées de préparation ou de distribution sans lien public vérifié avec un point de vente. Le reste relève des grossistes, des préparateurs ou de la grande distribution : hors périmètre (règle 3).
+
+**Cambrai, sources.**
+- **Biocoop Cambrai (enseigne exploitée par la société Vitavie).** Registre des entreprises : société active, un établissement ouvert, rue Gauthier (centre commercial Martin Martine), téléphone concordant dans trois annuaires. Les horaires se contredisent : lundi à jeudi 9 h 30–12 h 30 et 14 h 30–19 h, vendredi et samedi 9 h 30–19 h, fermé le dimanche (annuaire du réseau relayé par Bible-Marques) ; 9 h 30–18 h le vendredi et le samedi (boulangerie-annuaire) ; 9 h–20 h tous les jours (annuaire généraliste). La page du réseau sur biocoop.fr n'a pas pu être lue (erreur 404 sur l'adresse testée). **Non publiée** : un horaire contesté ne se publie pas (règle 5), et une fiche sans horaires ne passe pas le contrôle du build.
+- **Bio C'Bon (place Aristide-Briand).** Une seule source (annuaire) pour l'adresse et les horaires. Non publiée.
+- **Côté Nature (zone commerciale Sud Cora).** Enseigne active au registre, code d'activité de jardinerie et d'animalerie (47.76Z) : catégorie magasin bio non établie. Non publiée.
+- **Maraîcher en magasin de la ferme (Cambrai).** Le nom est celui d'une personne, sous la forme d'un nom patronymique d'exploitant ; aucune entité de ce nom n'apparaît au registre sous cette forme. **Écarté pour doute sur une personne**, sans nom : ne se rouvre pas.
+- **Marché de Cambrai.** Un annuaire participatif recense un jour de marché sans précision ni horaires ; le site de la Ville est exclu aux robots (règle 77). Aucun marché de producteurs à jours publiés : non publié.
+- **Bio Cambrésis.** Entité active au registre, mais dont le code d'activité relève de l'action sociale (88.10C), non d'une vente directe avérée. Non publiée.
+- **Gamm Vert (coopérative), Carrefour, Lidl, La Vie Claire, Afro Market.** Généralistes ou hors critères (règle 3). Hors périmètre.
+
+**Zone.** Cinq fiches vérifiables non atteintes : Cambrai ne rend aucune fiche cette passe. Une seule enseigne est vérifiée (le Biocoop), et elle reste bloquée par une contradiction d'horaires.
+
+**Pistes non publiées (Nord, Cambrai)** — lignes anonymes :
+- Cambrai, Biocoop (enseigne Vitavie) : adresse et téléphone concordants, horaires contestés. **Déblocage** : horaires lus sur la page du réseau Biocoop ou confirmés par le magasin.
+- Cambrai, magasin bio indépendant (Bio C'Bon) : une seule source. **Déblocage** : une seconde source pour l'adresse et les horaires.
+- Cambrai, jardinerie-animalerie à enseigne bio (Côté Nature) : catégorie non tranchée. **Déblocage** : site officiel montrant une offre alimentaire de producteurs.
+- Cambrai, marché hebdomadaire : jour existant, horaires et organisateur à trouver auprès de la Ville. **Déblocage** : horaires publiés par la Ville.
+- Cambrai, entreprises à nom patronymique d'exploitant (registre, maraîchage en magasin de la ferme) : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Constat de méthode.** Trente-quatre passes autonomes de suite sans fiche publiée. La règle de groupement « cinq fiches entières dans une seule commune » reste le point bloquant : les communes de plus de 25 000 habitants du Nord éprouvées jusqu'ici n'ont pas rendu cinq fiches vérifiables. La question de la règle de sortie reste ouverte pour le responsable du site ; elle n'est pas contournée ici.
+
+**Points d'arrêt.** La passe suivante ne vise pas les Hauts-de-France si le Nord reste en tête (règle 41.c). Sinon, la descente reprend à Lambersart (27 090) ou Armentières (26 998), à éprouver au registre et aux sites de mairie. Cambrai reste en piste pour la passe où le Nord redevient éligible, avec la lecture des horaires du réseau Biocoop comme première tâche.
