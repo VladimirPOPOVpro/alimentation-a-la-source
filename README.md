@@ -35510,3 +35510,23 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune f
 **Constat de méthode.** Vingt et une passes autonomes de suite sans fiche publiée. Le blocage est la règle de zone à cinq fiches entières par commune, et l'absence de source officielle horaire dans les communes de cette taille, non le manque de recherche. Une proposition de règle de sortie est à trancher par le responsable du site ; elle n'a pas été appliquée ici.
 
 **Points d'arrêt** : la passe suivante ne vise pas le Nord si la zone reste non formée (règle 41.c) ; reprise au département suivant du classement, avec une recherche neuve sur sa commune la plus peuplée sans fiche.
+
+### Passe autonome du 10 octobre 2026 (vingt-deuxième) : Nord reprise, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul sur 1 271 fiches (métropole). Le point d'arrêt de la passe précédente désignait le Nord (59) ; le département reste en tête du déficit.
+
+**Commune, règle 248.** Recherche neuve sur les communes les plus peuplées du Nord sans fiche, hors Wattrelos et Marcq-en-Barœul déjà éprouvées : Armentières, Halluin, Hem, Mons-en-Barœul, Lambersart. Une recherche web générale n'a rendu aucune page de marché ni de producteur pour ces communes (résultats dans d'autres départements).
+
+**Pourquoi rien n'est publié.** Aucune source officielle avec jours ni horaires trouvée pour ces communes, et aucune ne rend cinq fiches entières (règles 96, 127, 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées** : aucune nouvelle piste.
+
+**Constat de méthode.** Vingt-deux passes autonomes de suite sans fiche publiée. Le blocage tient à la règle des cinq fiches entières par commune, et à l'absence de source horaire officielle dans les communes de cette taille. La proposition de règle de sortie, déjà consignée, reste à trancher par le responsable du site ; elle n'a pas été appliquée ici.
+
+**Points d'arrêt** : la passe suivante reprend le département suivant du classement (règle 41.c) avec une recherche neuve sur sa commune la plus peuplée sans fiche.
