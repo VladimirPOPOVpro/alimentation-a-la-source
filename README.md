@@ -35916,3 +35916,25 @@ Aucun marché de producteurs ni magasin de producteurs trouvé à Montbrison dan
 **Constat de méthode.** Trente-septième passe de suite sans fiche publiée. Le registre Agence Bio ne livre dans la Loire, commune après commune, que des revendeurs, des distributeurs, des exploitations à nom patronymique et des entreprises sans vente au public. La règle des cinq fiches vérifiables d'une seule commune n'est pas remplie à partir de ces sources. Ce point reste ouvert pour le responsable du site ; il n'est pas contourné ici.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Loire ni les Hauts-de-France (règle 41.c). Le calcul donne ensuite Seine-Maritime (76) si la Loire reste en tête ; sinon le département suivant éligible. Montbrison reste en piste, sans fiche vérifiée.
+
+### Passe autonome du 11 octobre 2026 (trente-huitième) : Seine-Maritime, Dieppe éprouvée, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : la région est exclue (règle 41.c). Le département le plus en déficit hors de cette région est la Seine-Maritime (76), déficit 4,24, en tête après la Loire.
+
+**Commune, règle 41.d.** Les communes les plus peuplées de 76 ont déjà des fiches (Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Le Grand-Quevilly). Retenue au rang suivant sans fiche : **Dieppe (28 496)**, puis Le Petit-Quevilly (22 208) en repli.
+
+**Dieppe, registres.** La recherche d'entreprises ne rend aucun magasin de producteurs à Dieppe. Le registre Agence Bio (département 76, mille quatre opérateurs relus) ne donne dans la commune qu'une boulangerie bio à vente aux particuliers, déjà consignée et non publiée (sa page d'accueil nomme une personne). Aucun marché, AMAP ni point de vente direct nouveau.
+
+**Le Petit-Quevilly, repli.** Le marché de la place du 8-Mai reste bloqué par la règle 394 (aucune image permise). Rien de nouveau dans les sources lues.
+
+**Autres communes de 76 relues au registre Agence Bio.** Elbeuf, Barentin, Yvetot, Montivilliers : seuls des grossistes, des distributeurs ou des structures sans vente au public. Rien ne se publie.
+
+**Bilan.** Commune éprouvée à zéro fiche publiable. Le groupe de cinq n'est pas atteint. Le constat de la passe précédente vaut toujours : les sources de registre livrent surtout des revendeurs, pas des points de vente en circuit court.
+
+**Pistes non publiées (Seine-Maritime)** — lignes anonymes :
+- Dieppe, boulangerie bio à vente aux particuliers : hors critères de vente directe ; une source nomme une personne, ne se publie pas.
+- Le Petit-Quevilly, marché de la place du 8-Mai : faits entiers, image bloquée. **Déblocage** : une image permise (règle 394).
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête après le décompte d'une passe de plus (règle 41.c : même région deux passes de suite n'est pas le cas ici, mais la commune reste sans groupe de cinq). Dieppe reste en piste, sans fiche vérifiée.
