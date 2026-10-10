@@ -35764,3 +35764,30 @@ Aucune demande de visiteur (backlog vide : 0 nouvelle, 0 en cours). Mode 2. **Au
 **Pistes non publiées (Haute-Garonne)** : lignes anonymes, aucune nouvelle. Les pistes déjà consignées dans les passes précédentes restent en l'état.
 
 **Points d'arrêt.** La passe suivante ne vise pas Occitanie si elle reste en tête après un nouvel échec (règle 41.c). Si la Haute-Garonne reste en tête, la descente reprend à la commune suivante par population sans fiche, à recalculer ; la décision de sortie de boucle relève du responsable du site.
+
+### Passe autonome du 10 octobre 2026 (trente-deuxième) : Nord, Marcq-en-Barœul éprouvée à zéro, aucune publication
+
+Aucune demande de visiteur (backlog vide : 0 nouvelle, une demande en cours inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population par département relue sur geo.api.gouv.fr (34 969 communes). Haute-Garonne (31) en tête, mais l'Occitanie a été visée à la passe précédente : elle est exclue (règle 41.c). Hors Occitanie, **Nord (59), déficit 5,24**, retenu. Seine-Maritime (76, 5,22) suit.
+
+**Commune, règle 41.d.** Lille, Tourcoing, Roubaix, Dunkerque, Valenciennes, Douai, Loos et Hazebrouck ont déjà des fiches. Villeneuve-d'Ascq (62 868) en a une seule : elle n'est pas « sans aucune fiche ». Wattrelos (40 847) a été éprouvée à zéro à la passe 28. **Retenue : Marcq-en-Barœul (40 184)**, sans fiche.
+
+**Marcq-en-Barœul, trois sources.**
+- Registre Agence Bio, 1 794 opérateurs du 59 relus (dix-huit pages de cent). Trente-cinq entrées mentionnent Marcq. La plupart sont des distributeurs, des préparateurs ou des grossistes vendant aux professionnels, des enseignes de grande distribution, ou des entreprises hors circuit court. Deux entrées à vente aux particuliers sont à Marcq (une entreprise à nom patronymique d'exploitant, écartée sans nom, règle 309 ; une entrée à vente aux particuliers sans lien vérifié avec un producteur).
+- Recherche web sur les marchés et les producteurs : aucun marché de producteurs à Marcq-en-Barœul dont les jours et horaires soient publiés. L'annuaire participatif Jours de marché recense trois marchés sans horaires exploitables, et renvoie à la mairie.
+- Magasins bio : deux magasins Biocoop et un Naturalia sont signalés dans la commune. Ce sont des enseignes de réseau ; les horaires et les produits n'ont pas été vérifiés sur leur site, et aucune fiche de ce type n'a été publiée à Marcq. Hors de la ligne retenue ce mois-ci.
+
+**Piste examinée et écartée pour doute de fait.** Une ferme maraîchère dite « Le potager de la Grande Ourse », présentée comme installée à Marcq-en-Barœul, est mentionnée avec une adresse postale à Comines et une vente hors site. Les deux sources ne concordent pas sur le lieu ; aucun horaire ni point de vente n'est publié. Rien n'est publié. La fiche relève aussi d'une personne physique à identifier : elle ne se publie pas en l'état.
+
+**Bilan Marcq-en-Barœul.** Commune éprouvée à zéro : aucun point de vente direct vérifié, pas même une fiche solide. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (Nord, Marcq-en-Barœul)** — lignes anonymes :
+- Marcq-en-Barœul, maraîchage en vente par panier ou sur marchés, à Comines sur l'adresse postale : lieu de l'exploitation contradictoire entre deux sources, aucun horaire. **Déblocage** : adresse de l'exploitation et point de vente publiés par l'exploitation elle-même.
+- Marcq-en-Barœul, trois marchés hebdomadaires recensés sans horaires : **Déblocage** : horaires publiés par la Ville.
+- Marcq-en-Barœul, deux Biocoop et un Naturalia : enseignes de réseau, hors périmètre de la passe.
+- Marcq-en-Barœul, entreprises à nom patronymique d'exploitant au registre : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Constat de méthode.** Trente-deux passes autonomes de suite sans fiche publiée. Le registre ne contient pas, dans les communes de l'agglomération lilloise où la population est forte, de vendeurs directs vérifiables en nombre suffisant pour atteindre cinq fiches d'une même commune. La règle de groupement, maintenue, reste le point bloquant.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c : même région deux passes de suite). Elle reprend le calcul hors Hauts-de-France. Commune suivante par population sans fiche : Lambersart (27 090) ou Armentières (26 998), à éprouver au registre et aux sites de mairie avant toute publication. Villeneuve-d'Ascq n'est pas reprise (une fiche déjà publiée).
