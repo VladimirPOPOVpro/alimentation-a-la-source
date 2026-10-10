@@ -35464,3 +35464,27 @@ Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune f
 **Constat de méthode.** Dix-neuf passes autonomes de suite sans fiche publiée. Le registre national de la Seine-Maritime ne fournit pas, dans les communes les plus peuplées sans fiche, les cinq vendeurs directs nécessaires à une zone. Le blocage vient de la règle de zone à cinq et de la pauvreté du registre dans ce département, non d'un manque de recherche.
 
 **Points d'arrêt** : la passe suivante ne vise pas la Seine-Maritime si elle reste région de tête après un nouvel échec (règle 41.c). Reprise au premier département éligible du classement, en commençant par une recherche neuve sur la commune la plus peuplée sans fiche de ce département.
+
+### Passe autonome du 10 octobre 2026 (vingtième) : Haute-Garonne reprise, zone non formée à cinq, aucune publication
+
+Demande de visiteur : aucune (backlog vide : 0 nouvelle, 1 en cours). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule. Tête : Haute-Garonne (31), déficit 5,27 ; Nord (59), 5,24 ; Seine-Maritime (76), 5,22. La passe précédente visait la Normandie : la Haute-Garonne n'est plus exclue par la règle 41.c, elle est donc de nouveau éligible.
+
+**Commune, règle 248.** Les communes les plus peuplées de la Haute-Garonne sans fiche : Colomiers (40 882 habitants), Tournefeuille, Blagnac, Muret, Plaisance-du-Touch, Cugnaux, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes. Colomiers est retenue comme commune la plus peuplée sans fiche.
+
+**Registre Agence Bio, Haute-Garonne (première page de cent opérateurs relue).** Pour les communes de la liste : quelques opérateurs seulement, la plupart sans vente aux particuliers. Deux déclarent une vente aux particuliers : une cave à Balma (négoce de vin, entreprise à enseigne) et une brasserie-cave à L'Union. Aucun opérateur de vente directe déclaré à Colomiers, Tournefeuille, Blagnac ou Muret dans cette page.
+
+**Pourquoi rien n'est publié.** Une cave de négoce et une brasserie ne forment pas des commerces de circuit court au sens du site sans vérification de la vente de producteurs. Aucune des deux n'a de source indépendante consultée cette passe, et aucune commune visée n'atteint cinq fiches entières (règles 96 et 127). Une fiche isolée n'est pas une zone (règle 248). Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre dont l'exploitant est une personne physique, écartée (règle 309) ; aucune fiche n'est nommée.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Balma, cave de négoce déclarée à la vente aux particuliers : entreprise à enseigne, pas encore vérifiée (site, horaires). **Déblocage** : site officiel ou page du commerce, puis quatre autres commerces entiers.
+- L'Union, brasserie-cave déclarée à la vente aux particuliers : vente de producteurs non établie. **Déblocage** : vérification de l'activité de vente directe.
+
+**Constat de méthode.** Vingt passes autonomes de suite sans fiche publiée. Les communes de tête de la Haute-Garonne ont été visitées aux passes 12, 14, 16 et 17 ; cette passe rouvre le département sans nouvelle source décisive. Le registre national ne fournit pas cinq vendeurs directs entiers dans ces communes.
+
+**Points d'arrêt** : la passe suivante vise le Nord (59), tête après la Haute-Garonne si elle reste sans zone, avec une recherche neuve sur la commune la plus peuplée du Nord sans fiche.
