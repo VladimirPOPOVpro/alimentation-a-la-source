@@ -36324,3 +36324,32 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c : une région ne peut pas être visée deux passes de suite — ici, la Haute-Garonne a été visée cette passe). Blagnac reste à compléter si le lien boutique de l'ESAT et la page de l'AMAP sont confirmés ; Muret reste à relire sur les pages de la mairie.
 
 **Constat de méthode.** Cinquante-quatrième passe sans fiche publiée. La formule désigne encore des communes densément peuplées qui ne rendent pas cinq commerces vérifiables ; le blocage tient toujours à la règle des cinq fiches dans une même commune. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante-cinquième) : Loire, Saint-Chamond éprouvée au registre complet et au web, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), déficit calculé sur les 1 271 fiches publiées. Têtes : Loire (42) 4,27, Seine-Maritime (76) 4,24, puis Gard (30) et Haut-Rhin (68) à 4,21. La passe précédente visait la Haute-Garonne (Occitanie) : la région est exclue par la réserve de la règle 41.c. Retenu : **Loire (42)**, déficit 4,27.
+
+**Commune, règle 41.d.** Saint-Étienne porte déjà des fiches. Saint-Chamond (35 646 hab.) est la plus peuplée sans fiche.
+
+**Registre Agence Bio, Loire complète cette passe** (1 408 opérateurs lus sur 15 pages de cent). Filtre Saint-Chamond : une entreprise de restauration collective (vente aux particuliers cochée, mais préparation de repas, pas un point de vente), un hypermarché (hors périmètre), et deux entreprises individuelles à nom patronymique (écartées, non nommées, ne se rouvrent pas). Un grossiste et une société de distribution, sans vente au public.
+
+**Web, marchés de Saint-Chamond 2026.** Trois annonces d'agenda (Fonsala, centre-ville, Izieux) : horaires 7 h à 12 h, mais jours contradictoires d'une annonce à l'autre (vendredi, samedi, mercredi), et les pages datent de 2023 pour l'agenda. Pas de confirmation par la Ville. **Contradiction consignée, non tranchée.** Un magasin de producteurs avenue Jules-Ferry apparaît dans un annuaire grand public, sans horaires confirmés par le commerce ni site propre : une piste, pas une fiche.
+
+**Pourquoi rien n'est publié.** Saint-Chamond ne rend ni cinq commerces vérifiables, ni une source officielle de marché qui tienne. Une fiche isolée n'est pas une zone. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Pistes non publiées (Saint-Chamond, Loire)** — lignes anonymes :
+- Saint-Chamond, marché de Fonsala (producteurs locaux, matin) : fiche possible en `marche`, jour à confirmer. **Déblocage** : calendrier publié par la Ville ou l'office de tourisme.
+- Saint-Chamond, marché du centre-ville (mixte) : fiche possible en `marche`, jour contradictoire. **Déblocage** : même source officielle.
+- Saint-Chamond, marché d'Izieux (producteurs, fromages) : fiche possible en `marche`, jour contradictoire. **Déblocage** : même source officielle.
+- Saint-Chamond, magasin de producteurs avenue Jules-Ferry : une fiche possible, horaires et réseau à confirmer. **Déblocage** : page du commerce, téléphone publié par lui, et quatre autres commerces entiers.
+- Saint-Chamond, deux entreprises individuelles à nom patronymique (registre) : rien n'est publié (règle des personnes). **Déblocage** : aucun.
+
+**Contradictions** : jours des marchés de Saint-Chamond (consignés ci-dessus, non tranchés). **Fiches écartées pour doute sur une personne** : deux, anonymes (entreprises individuelles de Saint-Chamond) ; elles ne se rouvrent pas.
+
+**Descente d'échelle.** Saint-Chamond étant à zéro, la règle 41.d impose la commune suivante par population. Déjà éprouvées aux passes précédentes : Saint-Étienne, Roanne, Firminy, Montbrison, Rive-de-Gier, Le Chambon-Feugerolles, Riorges, Andrézieux-Bouthéon. **Non éprouvée à ce jour : Roche-la-Molière (9 843 hab.)**, à reprendre à la passe suivante. Cette passe n'a pas eu le temps de la lire.
+
+**Points d'arrêt.** La passe suivante ne vise pas Auvergne-Rhône-Alpes si la Loire reste en tête (règle 41.c appliquée à la région). Saint-Chamond reste à relire sur le site de la Ville (calendrier des marchés) et sur celui du magasin de producteurs.
+
+**Constat de méthode.** Cinquante-cinquième passe sans fiche publiée. Saint-Chamond est éprouvée pour la sixième fois sans source officielle nouvelle : relire le même registre ne suffit plus, il faut une source de la Ville. La règle des cinq fiches entières dans une même commune reste le point de blocage ; il relève du responsable du site et n'est ni contourné ni tranché ici.
