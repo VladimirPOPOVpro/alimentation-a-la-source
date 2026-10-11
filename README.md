@@ -36404,3 +36404,30 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante peut revenir dans la Loire (règle 41.c : la passe précédente visait la Seine-Maritime). Saint-Chamond reste la commune la plus peuplée sans fiche ; la descente par population reprend au-delà de Roche-la-Molière, à déterminer par la règle 41.d.
 
 **Constat de méthode.** Cinquante-septième passe sans fiche publiée. Le blocage tient toujours à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante-huitième) : Seine-Maritime, registre relu, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, hors des limites de `lib/validateMerchants.ts`). Têtes : Loire (42) 4,27, Seine-Maritime (76) 4,24, Gard (30) et Haut-Rhin (68) à 4,21. La passe précédente visait la Loire : la Seine-Maritime est permise (règle 41.c, deux passes de suite seulement). Retenu : **Seine-Maritime (76)**, déficit 4,24.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.), la plus peuplée sans fiche, a été éprouvée à plusieurs passes sans cinq fiches entières. Descente par population : Le Petit-Quevilly, Fécamp, Montivilliers et Elbeuf ont déjà été éprouvés, Canteleu est restée ouverte : la passe reprend par Canteleu (14 402 hab.) et le registre.
+
+**Registre Agence Bio, Seine-Maritime complète** (1 004 opérateurs lus sur onze pages de cent). Filtre sur Dieppe, Canteleu, Barentin, Montivilliers, Fécamp, Elbeuf, Le Petit-Quevilly, Grand-Quevilly, Darnétal, Maromme, Oissel, Yvetot, Bolbec, Grand-Couronne et Gonfreville-l'Orcher :
+- la plupart des entrées sont des grossistes, des hypermarchés, des entrepôts ou des organismes sans vente au public ;
+- les entrées de vente aux particuliers sont en grande partie des entreprises dont la dénomination contient un nom de personne : écartées pour doute sur une personne, non nommées, elles ne se rouvrent pas ;
+- les entrées restantes, à Canteleu, Barentin, Montivilliers et Notre-Dame-de-Bondeville, n'ont ni site ni téléphone relevés dans le registre et n'ont pas été recoupées par une source indépendante cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la sélection ne rend cinq commerces vérifiables à partir du registre : chaque piste reste une entrée isolée, sans adresse, horaires ni source indépendante lus. La lecture des sites des villes et des offices de tourisme n'a pas été reprise cette passe.
+
+**Pistes non publiées (Seine-Maritime)** — lignes anonymes :
+- Canteleu, une entreprise de vente au détail du registre, sans site ni téléphone relevés : fiche possible, aucune source indépendante. **Déblocage** : site du commerce ou fiche de la commune, avec adresse et horaires.
+- Notre-Dame-de-Bondeville, une boutique bio de vente au détail du registre, sans site relevé : fiche possible, aucune source indépendante. **Déblocage** : site ou fiche de l'office de tourisme, avec adresse et horaires.
+- Barentin et Montivilliers : entrées de vente aux particuliers ou de vente directe du registre, sans site relevé : fiches possibles, aucune source indépendante. **Déblocage** : sites des commerces ou fiches des offices de tourisme.
+- Plusieurs entrées dont la dénomination contient un nom de personne, dans la plupart des communes listées : écartées pour doute sur une personne ; elles ne se rouvrent pas.
+
+**Contradictions** : aucune relevée. **Fiches écartées pour doute sur une personne** : plusieurs, réparties dans les communes listées (non nommées).
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c : cette passe-ci la vise). Canteleu reste la commune à reprendre en premier, avec recherche web sur le site de la Ville et l'office de tourisme ; les pistes non publiées de Notre-Dame-de-Bondeville et de Barentin attendent une source indépendante.
+
+**Constat de méthode.** Cinquante-huitième passe sans fiche publiée. Le blocage tient toujours à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
