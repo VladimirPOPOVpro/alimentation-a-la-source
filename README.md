@@ -36193,3 +36193,30 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune.
 
 **Points d'arrêt.** La passe suivante ne vise pas Auvergne-Rhône-Alpes si la Loire reste en tête ; le calcul doit alors passer à un autre département. Saint-Chamond et Roanne restent à relire en profondeur sur leurs sites municipaux.
+
+### Passe autonome du 11 octobre 2026 (cinquantième) : Seine-Maritime, Fécamp éprouvée, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. Déficits sur 34 969 communes : tête Loire (4,27), puis Seine-Maritime (4,24). La passe précédente visait la Loire : Auvergne-Rhône-Alpes est écarté. Retenu : **Seine-Maritime (76), déficit 4,24**.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée sans fiche, mais une vingtaine de passes l'ont déjà éprouvée sans y rendre cinq commerces. Descente à la suivante par population : **Fécamp (17 313 hab.)**, sans fiche.
+
+**Ce qui a été lu.**
+- Le site fecamp.fr est un annuaire commercial privé, sans lien avec la collectivité : il ne sert pas de source officielle.
+- Recherche web : un marché de producteurs au centre, le samedi matin selon une fiche touristique régionale (jour et place non confirmés par une source officielle) ; un marché au poisson au port, une seule fiche touristique.
+- Une boutique de commerce équitable, hors critère de produits locaux.
+- Registre Agence Bio, première page du 76 (100 opérateurs) : aucun opérateur de vente directe identifié à Fécamp. La pagination suivante n'a pas été relue.
+
+**Pourquoi rien n'est publié.** Fécamp n'atteint pas cinq commerces vérifiables (règles 96 et 127). Les sources se contredisent sur le jour du marché : contradiction consignée, non tranchée.
+
+**Pistes non publiées (Seine-Maritime, Fécamp)** — lignes anonymes :
+- Fécamp, marché de producteurs du centre : une fiche possible, jour et place contradictoires. **Déblocage** : confirmation par la commune ou l'office de tourisme.
+- Fécamp, marché au poisson du port : une fiche possible, une seule source touristique. **Déblocage** : une seconde source datée.
+- Fécamp, magasin d'un réseau de distribution bio : hors critère « indépendant ». **Déblocage** : aucun.
+
+**Contradictions** : jour du marché de producteurs de Fécamp, consigné ci-dessus. **Fiches écartées pour doute sur une personne** : aucune.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c : pas deux régions de suite). Dieppe et Fécamp restent à relire sur leurs sources municipales.
+
+**Constat de méthode.** Cinquante passes autonomes de suite sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant de vérifier. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
