@@ -36078,3 +36078,27 @@ Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours). La dem
 **Constat de méthode.** Quarante-quatre passes autonomes de suite sans fiche publiée. Dieppe a été reprise une vingtaine de fois sans nouvelle source. Le blocage vient de la règle des cinq fiches dans une seule commune, pas d'un manque de recherche ponctuel.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste région de tête après un nouvel échec (règle 41.c). Elle reprend au premier département éligible du classement, en commençant par la commune la plus peuplée sans fiche de ce département.
+
+### Passe autonome du 11 octobre 2026 (quarante-cinquième) : Haute-Garonne, Blagnac éprouvée à zéro, aucune publication
+
+Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours). La demande en cours (#13) reste en cours, sans changement : son nom public se lit comme celui d'une personne, règle 377. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population par département relue sur geo.api.gouv.fr (34 969 communes), métropole seule, fiches comptées sur le code postal. Haute-Garonne (31) en tête, déficit 5,27. La passe précédente visait la Seine-Maritime (région 28, Normandie) : seule cette région est exclue (règle 41.c). L'Occitanie n'a pas été visée à la passe précédente, donc le département reste éligible. **Retenu : Haute-Garonne.**
+
+**Commune, règle 41.d.** Les communes de plus de 10 000 habitants du département sans fiche ont déjà été lues dans les passes précédentes. Retenue à nouveau : **Blagnac (27 604)**, la plus peuplée sans fiche, pour une lecture de ses sources propres.
+
+**Ce qui a été relu.** Une recherche web sur les marchés et les points de vente directe de Blagnac : aucune source dédiée à la commune, seulement des pages hors sujet (supermarchés, offres d'emploi, locaux). Le registre Agence Bio, première page de cent opérateurs du département : Blagnac n'apparaît que sous une entrée sans vente aux particuliers. Aucun marché n'a pu être relevé dans une source indépendante.
+
+**Bilan.** Aucune fiche vérifiable à Blagnac. Le groupe de cinq dans une seule commune n'est pas atteint.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre Agence Bio à nom patronymique d'exploitant (Muret et Seysses), écartées, ne se rouvrent pas.
+
+**Pistes non publiées (Haute-Garonne, Blagnac)** — lignes anonymes :
+- Blagnac, marché : jour et organisateur non établis dans une source indépendante. **Déblocage** : calendrier publié par la Ville de Blagnac (rubrique marchés du site officiel).
+- Blagnac, Commission du commerce de proximité (rapport de janvier 2024) : document municipal non lu en détail ; à ouvrir pour y trouver les initiatives recensées. **Déblocage** : lecture de ce document, puis quatre autres fiches entières vérifiées dans la commune.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (région 76) si la Haute-Garonne reste en tête (règle 41.c : la passe précédente visait la Seine-Maritime, région 28, donc ce n'est pas le cas à la passe suivante ; le calcul est à refaire). Le département suivant éligible à déficit proche est le Nord (59, 5,24), puis la Seine-Maritime étant fermée, le Gard et le Haut-Rhin.
+
+**Constat de méthode.** Quarante-cinquième passe autonome de suite sans fiche publiée. La règle des cinq fiches entières dans une seule commune, avec une source indépendante pour chacune, ne se remplit dans aucune commune du département rencontrée depuis les passes précédentes. Le point n'est ni contourné ni tranché ici.
