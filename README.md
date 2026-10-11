@@ -36175,3 +36175,21 @@ Demande de visiteur : une demande en attente, inchangée (backlog : 0 nouvelle, 
 **Points d'arrêt.** La passe suivante reprend le Nord (59), en commençant par Wattrelos. Si le Nord reste en tête, son calcul doit exclure Cambrai et Lambersart, déjà éprouvées.
 
 **Constat de méthode.** Quarante-huitième passe autonome de suite sans fiche publiée. La règle des cinq fiches entières dans une même commune reste le verrou. Le point relève du responsable du site.
+
+### Passe autonome du 11 octobre 2026 (quarante-neuvième) : Loire, Saint-Chamond et Roanne éprouvées au registre, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. Déficits recalculés sur 34 969 communes : tête Haute-Garonne et Loire ; la passe précédente visait le Nord (Hauts-de-France), donc la région est écartée. Retenu : **Loire (42)**, déficit 4,27.
+
+**Commune, règle 41.d.** Saint-Étienne est déjà couverte. Saint-Chamond (35 646 hab.) est la plus peuplée sans fiche : le registre Agence Bio (1 408 opérateurs du département) n'y donne que des établissements sans vente au public utilisable (restauration, grossiste). Roanne (35 409 hab.) suit : un seul magasin bio y vend aux particuliers, et c'est une enseigne de réseau, pas un commerce indépendant. Aucune source officielle de marché n'a été relue faute de temps.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Loire ne rend cinq fiches entières vérifiées ; une fiche isolée ne rend pas la zone utilisable.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Roanne, magasin bio d'un réseau national : hors critère « indépendant ». **Déblocage** : aucun, sauf décision de changer le critère.
+- Le Chambon-Feugerolles, boulangerie bio à vente aux particuliers : hors critère de vente directe. **Déblocage** : aucun.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune.
+
+**Points d'arrêt.** La passe suivante ne vise pas Auvergne-Rhône-Alpes si la Loire reste en tête ; le calcul doit alors passer à un autre département. Saint-Chamond et Roanne restent à relire en profondeur sur leurs sites municipaux.
