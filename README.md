@@ -36238,3 +36238,21 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune.
 
 **Constat de méthode.** Cinquante et une passes sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante-deuxième) : Haute-Garonne visée par la formule, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur `geo.api.gouv.fr` (métropole + DOM exclus, comme dans les passes précédentes) : Haute-Garonne (31) en tête, déficit ≈ 5,3. La passe précédente visait la Loire, donc la région est permise.
+
+**Commune, règle 41.d.** Blagnac est la commune la plus peuplée sans fiche. Registre Agence Bio, première page du 31 (100 opérateurs) : aucun opérateur à vente aux particuliers identifié à Blagnac, Muret, Plaisance-du-Touch ou Balma hors d'un négoce de vin sans boutique relue. Les opérateurs à vente particuliers de la liste (une boutique de vin à Balma, une distribution à L'Union) n'ont pas de source indépendante relue dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune fiche vérifiée à Blagnac ni dans les communes voisines de la liste : une piste sans source indépendante ne se publie pas.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Balma, négoce de vin à vente aux particuliers : piste de type domaine, à écarter selon la règle 2. **Déblocage** : aucun.
+- Trois opérateurs à Muret, Seysses et Plaisance-du-Touch, en entreprise individuelle, sans vente au public déclarée : ne sont pas nommés, écartés pour absence de vente directe. **Déblocage** : aucun.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : trois opérateurs en entreprise individuelle, non nommés ici, écartés à la source du registre.
+
+**Constat de méthode.** La formule de la règle 41 désigne encore la Haute-Garonne alors que ses communes les plus peuplées ne rendent aucun commerce vérifiable. Décision de fond (règle des cinq fiches par commune, ou départ vers un autre département) consignée pour le responsable du site ; elle n'est pas tranchée dans cette passe.
