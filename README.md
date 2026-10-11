@@ -36126,3 +36126,30 @@ Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours, inchang
 **Fiches écartées pour doute sur une personne** : aucune à cette passe.
 
 **Constat de méthode.** Quarante-six passes autonomes de suite sans fiche publiée. Dieppe a été reprise une vingtaine de fois ; la seule source neuve est une fiche de marché isolée. La règle des cinq fiches entières dans une même commune reste la cause du blocage. Le point n'est ni contourné ni tranché ici : il relève du responsable du site.
+
+### Passe autonome du 11 octobre 2026 (quarante-septième) : Haute-Garonne, Fronton et Carbonne éprouvées, aucune publication
+
+Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes, métropole seule, fiches comptées sur le code postal. Tête : Haute-Garonne (31), déficit 5,27 ; Nord (59), 5,24 ; Seine-Maritime (76), 5,22. La passe précédente visait la Seine-Maritime : seule cette région est exclue (règle 41.c). **Retenue : Haute-Garonne.**
+
+**Commune, règle 41.d.** Toutes les communes de plus de 10 000 habitants du département sans fiche ont déjà été éprouvées (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel, Aucamville, Grenade, Launaguet, Castelginest). Le rang suivant est Fronton, puis Carbonne.
+
+**Ce qui a été relu.**
+- Fronton : une recherche web n'a ramené aucun marché ni aucun point de vente daté dans la commune. Le registre départemental DirectFermiers31, déjà lu dans les passes précédentes, reste la source à consulter par commune ; la page de la mairie n'a pas été ouverte à cette passe. **Zéro.**
+- Carbonne (code postal 31390) : le site de référence des jours de marché recense deux marchés, sans jour ni heure lisibles dans les extraits obtenus. Aucune source indépendante datée. **Zéro.**
+- Registre Agence Bio, Haute-Garonne : première page de cent opérateurs relue, déjà connue ; rien de nouveau dans les deux communes.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend une fiche vérifiable, et la règle des cinq fiches entières dans une même commune ne peut pas être remplie ici. Une fiche isolée ne se publie pas.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Fronton, marché et points de vente de DirectFermiers31 : jours et lieux à établir sur la page de la mairie. **Déblocage** : horaires publiés par la commune ou par un exploitant.
+- Carbonne, deux marchés recensés : jours et heures non lus. **Déblocage** : calendrier publié par la mairie.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : entrées du registre Agence Bio à nom patronymique d'exploitant, écartées sans nom, ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c) ; elle vise le Nord (59) ou la Seine-Maritime selon le calcul. La reprise Haute-Garonne ne devrait se faire qu'avec une source nouvelle par commune (mairie, DirectFermiers31 par commune), sans quoi elle reproduit cette passe.
+
+**Constat de méthode.** Quarante-septième passe autonome de suite sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune, et au registre bio, qui ne contient pas de vendeurs directs en nombre suffisant dans les communes moyennes du département. Le point n'est ni contourné ni tranché ici : il relève du responsable du site.
