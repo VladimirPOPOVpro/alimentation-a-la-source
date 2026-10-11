@@ -36452,3 +36452,31 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c). Le blocage tient à la règle 231 : la commune ne peut être publiée qu'avec une photographie permise. Ce point n'est pas contourné ici.
 
 **Constat de méthode.** Cinquante-neuvième passe sans fiche publiée.
+
+### Passe autonome du 12 octobre 2026 (soixantième) : Loire, Roche-la-Molière éprouvée au site officiel, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, déficit sur les 1 271 fiches. Tête absolue : La Réunion (974), déficit 16,4. Elle est écartée : hors métropole, le validateur de `lib/validateMerchants.ts` refuse les coordonnées hors métropole, et publier là-bas exigerait de toucher au code (hors périmètre). Tête métropolitaine : Loire (42), déficit 4,27. La passe précédente visait la Seine-Maritime : la Loire est permise (règle 41.c). Retenu : **Loire (42)**.
+
+**Commune, règle 41.d.** Saint-Chamond et Roanne ont été éprouvées aux passes précédentes ; Roche-la-Molière (9 843 hab.) est la première commune non éprouvée. Éprouvée cette passe.
+
+**Source officielle trouvée.** La page « Le marché » du site de la mairie (roche-la-moliere.fr/marche/) décrit : un marché bi-hebdomadaire, mercredi et samedi, environ 8 h à 12 h 30, place Jean-Jaurès, une vingtaine d'étals (fruits et légumes, produits laitiers, boucherie, poissonnerie) ; et un boucher et un traiteur présents chaque vendredi matin, place du Bourgeat. La mairie n'a pas de photographie utilisable (voir règle 231 ci-dessus).
+
+**Contradiction consignée, non tranchée.** L'agrégateur Jours-de-marché.fr donne le même marché Mercredi et Samedi de 8 h à 13 h, « Centre ville », sans nommer la place. Horaire de fin : 12 h 30 (mairie) contre 13 h (agrégateur). Le site de la commune, source plus directe, est retenu pour l'adresse et l'horaire ; l'écart d'une demi-heure est signalé dans toute fiche future.
+
+**Recherche web de Saint-Étienne Métropole.** La Ricamarie (marché place Michel-Rondet, un jour seulement sans précision), Firminy (marché principal, place du Marché et place des Halles, horaires contradictoires selon l'agenda), Unieux (un jour, sans horaire), Villars (marché de village, sans jour) : aucune page officielle lue cette passe, aucune fiche possible sans source de commune. Sorbiers : rien trouvé.
+
+**Pourquoi rien n'est publié.** Roche-la-Molière rend deux fiches « marché » vérifiées (adresse, jours, horaires, produits sourcés par la mairie). Il n'en rend pas cinq. Une fiche isolée ou deux ne forment pas la zone visée par AGENT.md. Le groupement sur une agglomération, permis par AGENT.md, n'a pas donné de cinq fiches vérifiables cette passe. Rien ne se publie « en attendant ».
+
+**Pistes non publiées (Loire, Roche-la-Molière)** — lignes anonymes :
+- Roche-la-Molière, marché du mercredi et du samedi (place Jean-Jaurès) : fiche `marche` possible, horaires officiels de la mairie, produits sourcés. **Déblocage** : une photographie thématique libre de reprise et deux autres fiches de la même zone.
+- Roche-la-Molière, marché du vendredi (place du Bourgeat, boucher et traiteur) : fiche `marche` possible, jour et présence sourcés par la mairie, à confirmer sur le lieu. **Déblocage** : photo thématique et une confirmation de la présence du traiteur.
+- Roche-la-Molière, un GAEC à vente au consommateur du registre Agence Bio : aucune source indépendante lue. **Déblocage** : site du producteur ou fiche de la commune, avec adresse et jours d'ouverture.
+- La Ricamarie, Firminy, Unieux, Villars : marchés cités par des agrégateurs, jour ou horaire non confirmés par une source officielle. **Déblocage** : page marchés de chaque mairie.
+
+**Contradictions** : horaire de fin du marché de Roche-la-Molière (12 h 30 contre 13 h), consignée ci-dessus. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Loire si elle reste en tête, puisque cette passe l'a visée (règle 41.c). Roche-la-Molière est éprouvée ; la descente par population reprend à Veauche (8 975 hab.), à éprouver selon la règle 41.d.
+
+**Constat de méthode.** Soixantième passe sans fiche publiée. Une vérification officielle est possible par commune de cette taille, mais le seuil de cinq fiches par zone ne se réunit pas dans une seule commune. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
