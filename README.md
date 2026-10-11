@@ -36431,3 +36431,24 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c : cette passe-ci la vise). Canteleu reste la commune à reprendre en premier, avec recherche web sur le site de la Ville et l'office de tourisme ; les pistes non publiées de Notre-Dame-de-Bondeville et de Barentin attendent une source indépendante.
 
 **Constat de méthode.** Cinquante-huitième passe sans fiche publiée. Le blocage tient toujours à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante-neuvième) : Seine-Maritime, Canteleu éprouvée, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Secteur, règle 41.** Seine-Maritime reprise (deux passes sur la Loire puis la Seine-Maritime, règle 41.c respectée). Commune : Canteleu (14 402 hab.), reprise au point d'arrêt de la passe précédente.
+
+**Vérification.** Le site officiel de la Ville donne deux marchés hebdomadaires : le mercredi, avenue Charles-Gounod (Cité Rose), de 8 h à 12 h 45 ; le samedi, place du marché (cité verte), de 8 h 30 à 13 h. La BAN géocode les deux adresses (`[lon, lat]` vérifiés, score supérieur à 0,95). Les produits ne sont pas listés par la Ville : seul un agrégateur tiers cite légumes et viandes, donc rien n'est publié sur les produits sans source officielle.
+
+**Pourquoi rien n'est publié.** Les deux marchés sont vérifiés en horaires et en adresse, mais la seule photo disponible sur le site de la Ville est un cliché d'agence, et les mentions légales de la Ville interdisent la reproduction de ses photographies et images (règle 231, comme pour les autres communes dont le site nomme les images). Aucune photographie thématique permise de Canteleu n'existe à ce jour : les deux fiches attendent. Un cinquième commerce n'a pas été trouvé dans une source indépendante ; la commune ne rend donc pas cinq fiches.
+
+**Pistes non publiées (Seine-Maritime)** — lignes anonymes :
+- Canteleu, deux marchés hebdomadaires (Cité Rose le mercredi, place du marché le samedi) : horaires et adresses vérifiés sur le site de la Ville, produits non sourcés, aucune photographie permise. **Déblocage** : une photographie thématique de la commune, libre de reprise, et une source officielle pour les produits.
+- Canteleu, une ferme maraîchère du registre Agence Bio : la dénomination de l'entreprise ne permet pas de savoir si elle contient un nom de personne ; aucune source indépendante lue. **Écartée pour doute sur une personne**, elle ne se rouvre pas.
+- Canteleu, un agrégateur de producteurs cité pour un maraîcher et des éleveurs : pas de source directe lue. **Déblocage** : site du producteur ou fiche de l'office de tourisme avec adresse et horaires.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : une (Canteleu, non nommée).
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c). Le blocage tient à la règle 231 : la commune ne peut être publiée qu'avec une photographie permise. Ce point n'est pas contourné ici.
+
+**Constat de méthode.** Cinquante-neuvième passe sans fiche publiée.
