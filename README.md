@@ -35938,3 +35938,30 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune 
 - Le Petit-Quevilly, marché de la place du 8-Mai : faits entiers, image bloquée. **Déblocage** : une image permise (règle 394).
 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête après le décompte d'une passe de plus (règle 41.c : même région deux passes de suite n'est pas le cas ici, mais la commune reste sans groupe de cinq). Dieppe reste en piste, sans fiche vérifiée.
+
+### Passe autonome du 11 octobre 2026 (trente-neuvième) : Loire, Montbrison relue, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** La passe précédente visait la Seine-Maritime (région 28) : seule cette région est exclue (règle 41.c). La Réunion (974) reste en tête du calcul mais est écartée par la règle 93 (cadre de coordonnées de `lib/validateMerchants.ts`, hors périmètre) ; les autres départements d'outre-mer sont dans le même cas. Parmi les métropolitains, la Loire (42) reprend la tête (déficit 4,3).
+
+**Commune, règle 41.d.** Saint-Étienne porte déjà des fiches. Saint-Chamond (35 646) est éprouvée à zéro aux passes précédentes. Retenue : **Montbrison (16 123)**, point d'arrêt de la passe du 9 octobre, puis Loire Forez Agglomération si la commune seule ne suffit pas.
+
+**Montbrison, sources relues.**
+- Registre des entreprises : aucun magasin de producteurs enregistré sous un nom de commerce. Une « Fromagerie de Montbrison » (activité 47.29Z, établissement actif, rue Tupinerie) existe ; sa nature de vente en circuit court n'est pas établie. Piste.
+- Que Choisir, carte des circuits courts : **La Grange des Paysans**, 16 avenue de Saint-Étienne, classée magasin de producteurs (fruits, légumes, viandes, produits laitiers, œufs, épicerie). Horaires du mardi au samedi, fermé le dimanche et le lundi. Une seule source indépendante, sans site officiel trouvé : **à confirmer**.
+- Web : le marché principal se tient le samedi matin en centre-ville, décrit comme alimentaire et de producteurs par une brochure municipale de 2022 ; le jour et les horaires actuels ne sont pas confirmés sur le site de la Ville. Un marché alimentaire le mercredi à Moingt, source de 2022 également.
+- Registre Agence Bio (Loire, opérateurs relus) : aucun vendeur direct vérifiable à Montbrison, en cohérence avec les passes précédentes.
+
+**Loire Forez, voisine dans l'agglomération.** Escale Paysanne, Veauche (Que Choisir, magasin de producteurs, mardi au vendredi 9h-19h, samedi 9h-13h) : une source unique, sans site officiel, **à confirmer**. Le point de vente de Renaison (Pré d'Ici) sort de l'agglomération.
+
+**Pourquoi rien n'est publié.** On tient quatre pistes plausibles (le marché du samedi, La Grange des Paysans, l'Escale Paysanne de Veauche, le marché de Moingt), dont deux reposent sur une seule source annuaire et aucune sur un site officiel. Surtout, aucune photographie vérifiable n'est disponible : les sites de la Ville et des commerces n'ont pas été ouverts pour l'image, et les sources photographiques autorisées (Unsplash, Pexels, Wikimedia Commons) sont exclues. Le groupe de cinq n'est pas atteint ; une fiche incomplète n'est pas publiée.
+
+**Pistes non publiées (Loire, Montbrison et Loire Forez)** — lignes anonymes :
+- Montbrison, marché du samedi matin, centre-ville : faits en partie confirmés par une brochure de 2022 ; horaires actuels et photographie à établir. **Déblocage** : confirmation des horaires sur le site de la Ville et une photographie permise.
+- Montbrison, La Grange des Paysans : une source annuaire, horaires non confirmés, pas de site officiel. **Déblocage** : site du commerce ou confirmation téléphonique publiée.
+- Montbrison, Fromagerie : registre actif, circuit court non établi. **Déblocage** : preuve de vente de produits de producteurs.
+- Veauche, Escale Paysanne : une source annuaire. **Déblocage** : site ou page officielle.
+- Moingt, marché alimentaire du mercredi : source de 2022, jour et horaires à reconfirmer.
+
+**Point d'arrêt.** La passe suivante ne vise pas la Loire (règle 41.c : la région de la passe précédente est exclue, mais la Loire vient de passer). Le calcul donne ensuite le département suivant éligible hors outre-mer (Gard ou Haut-Rhin, à recalculer). Montbrison reste en piste, sans fiche vérifiée.
