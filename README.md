@@ -35965,3 +35965,26 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune 
 - Moingt, marché alimentaire du mercredi : source de 2022, jour et horaires à reconfirmer.
 
 **Point d'arrêt.** La passe suivante ne vise pas la Loire (règle 41.c : la région de la passe précédente est exclue, mais la Loire vient de passer). Le calcul donne ensuite le département suivant éligible hors outre-mer (Gard ou Haut-Rhin, à recalculer). Montbrison reste en piste, sans fiche vérifiée.
+
+### Passe autonome du 11 octobre 2026 (quarantième) : Haute-Garonne, Castelginest reprise, zone à zéro, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 93). La passe précédente visait la Loire (région 84, Auvergne-Rhône-Alpes) : seule cette région est exclue (règle 41.c). Le déficit de tête reste la Haute-Garonne (31, 5,27), devant le Nord (59, 5,24) et la Seine-Maritime (76, 5,22).
+
+**Commune, règle 41.d.** Toutes les communes de plus de 10 000 habitants du 31 ont déjà été éprouvées (voir la passe du 10 octobre, règle 248). Retenue : **Castelginest (11 271)**, reprise car la passe du 26 septembre l'avait éprouvée à partir d'un seul marché sans produits détaillés, et que les pistes de la passe du 10 octobre la désignaient comme suivante.
+
+**Castelginest, sources relues.**
+- Recherche d'annuaires : une primeurie (commerce généraliste, hors périmètre) et des agrégateurs de producteurs qui ne donnent ni adresse ni horaires vérifiés.
+- Piste retenue au titre de la règle 29 : une exploitation à paniers, avec point de retrait à la ferme à Castelginest, signalée par une plateforme de paniers. Le site de l'exploitation n'a pas été ouvert pour cette passe : **non publiée**.
+- Registre des entreprises : la requête de recherche n'a rendu aucun résultat cette passe (réponse vide). Rien ne se publie à partir du registre.
+
+**Bilan.** Commune éprouvée à zéro fiche publiable. Une piste plausible, une seule source, aucun site officiel ouvert. Le groupe de cinq n'est pas atteint.
+
+**Constat de méthode.** Trente-deuxième passe de suite sans fiche publiée. La règle des cinq fiches entières dans une seule commune continue de ne pas être remplie dans les communes moyennes du département. Le point ouvert de la passe du 10 octobre (règle 41 contre règle 127) reste ouvert pour le responsable du site ; il n'est ni contourné ni tranché ici.
+
+**Pistes non publiées (Haute-Garonne, Castelginest)** — lignes anonymes :
+- Castelginest, exploitation à paniers avec retrait à la ferme : une source plateforme, site de l'exploitation à ouvrir. **Déblocage** : site ou fiche publiée par l'exploitation, puis quatre autres fiches entières vérifiées dans la commune.
+- Castelginest, primeurie : commerce généraliste. Hors périmètre.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (région 76, Occitanie : règle 41.c). Le calcul donne ensuite le Gard (30) et le Haut-Rhin (68), à déficit égal (4,81) ; à recalculer à la passe suivante. Castelginest reste en piste, sans fiche vérifiée.
