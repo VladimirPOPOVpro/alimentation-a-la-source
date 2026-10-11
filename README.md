@@ -35988,3 +35988,29 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours). Mode 2. **Aucune 
 - Castelginest, primeurie : commerce généraliste. Hors périmètre.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (région 76, Occitanie : règle 41.c). Le calcul donne ensuite le Gard (30) et le Haut-Rhin (68), à déficit égal (4,81) ; à recalculer à la passe suivante. Castelginest reste en piste, sans fiche vérifiée.
+
+### Passe autonome du 11 octobre 2026 (quarante et unième) : Nord, Cambrai reprise, zone à zéro, aucune publication
+
+Aucune demande nouvelle (backlog : 0 nouvelle, une demande en cours inchangée, #13). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population par département relue sur geo.api.gouv.fr. Haute-Garonne (31) en tête, mais visée à la passe précédente : exclue (règle 41.c). Nord (59) et Seine-Maritime (76) suivent à déficit égal (environ 5,2). **Retenu : Nord.**
+
+**Commune, règle 41.d.** Cambrai (31 134) est la plus peuplée du Nord sans fiche, et reste la première à éprouver. Lille, Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Douai et Maubeuge ont déjà des fiches. Wattrelos, Marcq-en-Barœul et Lambersart ont été éprouvées à zéro lors des passes précédentes.
+
+**Cambrai, registre Agence Bio.** 1 794 opérateurs du 59 relus (dix-huit pages de cent). Une vingtaine d'entrées à Cambrai : grande distribution, grossistes, préparateurs, et deux ou trois points de vente d'enseigne bio. Les entrées à nom patronymique d'exploitant sont écartées sans nom, règle 309, et ne se rouvrent pas.
+
+**Bilan.** Cambrai ne rend aucune fiche publiable cette passe : la Biocoop reste bloquée par une contradiction d'horaires entre sources, et les autres enseignes ont une seule source ou une catégorie non établie. Le groupe de cinq n'est pas atteint.
+
+**Descente.** Hem (18 582), sans fiche, relue au registre : deux ou trois entrées de vente aux particuliers, dont une enseigne bio franchisée et une entreprise à nom patronymique (écartée sans nom). Pas assez pour cinq fiches vérifiées. Armentières et Lambersart ont été éprouvées aux passes précédentes.
+
+**Constat de méthode.** Quarante et unième passe autonome de suite sans fiche publiée. Dans les communes moyennes du Nord, la règle des cinq fiches entières dans une seule commune ne se remplit pas avec les sources disponibles. Le point n'est ni contourné ni tranché ici.
+
+**Pistes non publiées (Nord, Cambrai et Hem)** — lignes anonymes :
+- Cambrai, Biocoop (enseigne d'exploitant indépendant) : adresse et téléphone concordants, horaires contestés. **Déblocage** : horaires lus sur la page du réseau ou confirmés par le magasin.
+- Cambrai, magasin bio à enseigne de franchise (Bio C'Bon) : une seule source. **Déblocage** : une seconde source pour l'adresse et les horaires.
+- Cambrai, marché hebdomadaire : jour existant, horaires et organisateur non publiés. **Déblocage** : horaires publiés par la Ville.
+- Cambrai, jardinerie-animalerie à enseigne bio : catégorie non établie. Hors périmètre tant qu'aucune offre alimentaire de producteurs n'est visible.
+- Cambrai, entreprises à nom patronymique d'exploitant : écartées pour doute sur une personne, ne se rouvrent pas.
+- Hem, enseigne bio franchisée : une source. **Déblocage** : seconde source et horaires vérifiés.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (région 76, Occitanie : règle 41.c). Le Nord reste éligible : Cambrai reprend à la lecture des horaires du réseau Biocoop, puis Hem. La demande #13 reste en cours, sans changement.
