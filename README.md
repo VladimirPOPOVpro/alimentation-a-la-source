@@ -36353,3 +36353,29 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas Auvergne-Rhône-Alpes si la Loire reste en tête (règle 41.c appliquée à la région). Saint-Chamond reste à relire sur le site de la Ville (calendrier des marchés) et sur celui du magasin de producteurs.
 
 **Constat de méthode.** Cinquante-cinquième passe sans fiche publiée. Saint-Chamond est éprouvée pour la sixième fois sans source officielle nouvelle : relire le même registre ne suffit plus, il faut une source de la Ville. La règle des cinq fiches entières dans une même commune reste le point de blocage ; il relève du responsable du site et n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante-sixième) : Seine-Maritime, Elbeuf éprouvée au registre et au web, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population `geo.api.gouv.fr`. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : la région est exclue par la règle 41.c. Têtes restantes : Seine-Maritime (76), déficit d'environ 4,2, puis Gard (30) et Haut-Rhin (68). Retenu : **Seine-Maritime (76)**.
+
+**Commune, règle 41.d.** Communes de Seine-Maritime sans aucune fiche, par population : Dieppe (28 496 hab.), Le Petit-Quevilly (22 208), Fécamp (17 313) et Montivilliers (15 478) ont déjà été éprouvées dans des passes antérieures sans cinq commerces vérifiables ; Canteleu (14 402) est à zéro. Retenue : **Elbeuf (15 474 hab.)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, six premières pages du 76 (600 opérateurs) filtrées sur Elbeuf et ses voisines immédiates : aucun opérateur déclaré en vente aux particuliers à Elbeuf. Les entrées de la commune sont des boulangeries et points de préparation sans vente au public, des entreprises de distribution et de stockage, ou des établissements sans vente, et plusieurs sont des entreprises individuelles (non nommées, écartées).
+- Recherche web : un site de tourisme de Seine-Maritime décrit un marché d'Elbeuf (mardi et jeudi matin, place Lécallier ; samedi matin, rue de la République ; vendredi après-midi, rue du Buquet). La fiche n'est pas datée, une seule source indépendante, aucune confirmation par la Ville : **non publiée**.
+- Recherche web sur les magasins de producteurs : aucune boutique de produits locaux identifiée à Elbeuf. La seule boutique trouvée (Belbeuf) relève d'une autre commune et n'est pas une fiche de cette passe.
+
+**Pourquoi rien n'est publié.** Elbeuf rend un marché à source unique, non daté, et aucun commerce vérifiable au registre. Une fiche de marché seule ne suffit ni à la règle 6 (commerce ou domaine) ni à la règle 9 (marché confirmé par deux sources officielles).
+
+**Pistes non publiées (Seine-Maritime, Elbeuf)** — lignes anonymes :
+- Elbeuf, marché hebdomadaire (mardi, jeudi, samedi matin) : fiche possible en `marche`, horaires et jours à confirmer par la Ville. **Déblocage** : fiche de marché de la Ville ou de l'office de tourisme compétent, avec les jours.
+- Elbeuf, marché du vendredi après-midi, rue du Buquet : fiche possible en `marche`, source unique non datée. **Déblocage** : même source officielle.
+- Elbeuf, entreprises de distribution et de stockage du registre : hors critère (pas de vente au public).
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : deux entreprises individuelles à Elbeuf, non nommées, écartées à la source du registre ; elles ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c si la Seine-Maritime reste en tête). Elbeuf reste à relire sur le site de la Ville (marchés) avant toute décision. Si elle reste à zéro, la descente par population reprend à Barentin (12 022 hab.), non éprouvée à ce jour.
+
+**Constat de méthode.** Cinquante-sixième passe sans fiche publiée. Le blocage tient toujours à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
