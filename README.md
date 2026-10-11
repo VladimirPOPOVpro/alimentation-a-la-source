@@ -36285,3 +36285,42 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Constat de méthode.** Cinquante-troisième passe sans fiche publiée. Le même blocage revient : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification, mène à des communes où le registre ne rend que deux ou trois points de vente. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c). Montivilliers reste à relire sur le site du réseau bio et sur la page de la mairie avant toute décision.
+
+### Passe autonome du 11 octobre 2026 (cinquante-quatrième) : Haute-Garonne, Blagnac et Muret éprouvées au registre et aux sites officiels, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population recalculée sur `geo.api.gouv.fr` (34 969 communes). Têtes : Haute-Garonne (31) 5,27, Nord (59) 5,24, puis Seine-Maritime (76) 5,22. La passe précédente visait la Seine-Maritime, donc la région est permise. Retenu : **Haute-Garonne (31), déficit 5,27**, département le plus en déficit.
+
+**Commune, règle 41.d.** Communes de plus de 15 000 habitants sans aucune fiche, par population : Blagnac (27 604 hab.), puis Muret (26 079), puis Plaisance-du-Touch (21 079), Balma (17 772). Toulouse, Colomiers, Tournefeuille et Cugnaux ont déjà des fiches : hors règle. Retenue en premier : **Blagnac**.
+
+**Registre Agence Bio, Haute-Garonne complet cette passe.** L'API annonce 2 834 opérateurs (et non 1 408 comme écrit dans les passes précédentes), lus sur les 29 pages de cent. Filtre Blagnac : quatre entrées pertinentes, les autres étant des grossistes, des entreprises de préparation sans vente au public, ou des personnes en entreprise individuelle (non nommées, écartées).
+
+**Blagnac : quatre points possibles, pas cinq.** Sources : site de la mairie (rubrique « circuits courts » et « marchés de plein vent »), registre.
+- Marché de plein vent place des Arts, samedi 8 h à 13 h, environ 90 étals, bio et conventionnel : fiche possible en `marche`, horaires de la mairie.
+- Marché de plein vent place des Marronniers, mercredi 15 h 30 à 19 h 30, une vingtaine d'étals : fiche possible en `marche`, horaires de la mairie.
+- AMAP Saint-Pierre d'Ax, livraison hebdomadaire des paniers le mardi aux jardins de Catalogne : fiche possible en `amap` ; la page de groupe (plateforme de commande) n'a pas encore été lue.
+- ESAT maraîchage bio d'un foyer de personnes en situation de handicap (boutique et paniers, indiqué par la mairie) : fiche possible en `producteur` ; le lien vers la page boutique du site est mort (il redirige vers l'accueil), horaires non confirmés. Aucun résident n'est nommé.
+
+**Pourquoi Blagnac n'est pas publiée.** Quatre points possibles au mieux, un seul manque de faits vérifiés. Un cinquième commerce vérifiable n'existe pas dans les sources lues : la règle 41.d impose de descendre à la commune suivante.
+
+**Muret : éprouvée, pas assez pour cinq.** Sources : site de la mairie (page des marchés en 404 cette fois), Office de tourisme du Muretain (liste des producteurs), sources touristiques et calendrier de marchés.
+- Marché du samedi matin : un fournisseur de calendrier indique « producteurs locaux » le samedi 7 h 30 à 12 h 30 ; un autre décrit un marché général de plus de 120 commerçants. Pas de confirmation par la commune.
+- Marché du mardi : la mairie (par un extrait de moteur de recherche, page non ouverte) indique le matin 8 h à 12 h 45, square Maïmat ; un calendrier indique le mardi de 17 h à 19 h. **Contradiction consignée, non tranchée.**
+- Un magasin bio à Muret appartient à un réseau national (magasin de réseau) : hors critère « indépendant », comme pour Fécamp dans la passe précédente. Un autre magasin bio de Muret appartient à un réseau coopératif : même décision.
+- Deux exploitations de Muret vendent en direct, mais uniquement sur rendez-vous ou sans horaires publics : pas de fiche possible en l'état. Leurs contacts personnels ne sont pas publiés.
+- Plaisance-du-Touch et Balma, éprouvées dans des passes antérieures : la seconde n'a qu'un magasin bio de réseau.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Blagnac, maraîcher bio exploitant sous un nom de personne dans l'enseigne : rien n'est publié (règle des personnes). **Déblocage** : aucun, sauf enseigne sans prénom confirmée par une source du commerce.
+- Blagnac, magasin bio de réseau national : hors critère indépendant. **Déblocage** : aucun, sauf décision sur ce critère.
+- Blagnac, fournisseur de restauration et pâtisserie portugaise, enseigne contenant un nom de personne : écarté, hors catégories. **Déblocage** : aucun.
+- Blagnac, boulangerie-atelier à vente au public : hors catégories de la fiche. **Déblocage** : aucun, sauf nouvelle catégorie.
+- Muret, marchés du samedi et du mardi : fiches possibles en `marche`, horaires contradictoires. **Déblocage** : confirmation par la mairie ou l'office de tourisme.
+- Muret, exploitation de producteurs à vente directe sur rendez-vous : pas d'horaires publics. **Déblocage** : horaires d'ouverture donnés par le producteur lui-même.
+
+**Contradictions** : jours et horaires des marchés de Muret (consignées ci-dessus, non tranchées). **Fiches écartées pour doute sur une personne** : trois, anonymes (un maraîcher de Blagnac, un exploitant en entreprise individuelle, une enseigne de Muret contenant un prénom) ; elles ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c : une région ne peut pas être visée deux passes de suite — ici, la Haute-Garonne a été visée cette passe). Blagnac reste à compléter si le lien boutique de l'ESAT et la page de l'AMAP sont confirmés ; Muret reste à relire sur les pages de la mairie.
+
+**Constat de méthode.** Cinquante-quatrième passe sans fiche publiée. La formule désigne encore des communes densément peuplées qui ne rendent pas cinq commerces vérifiables ; le blocage tient toujours à la règle des cinq fiches dans une même commune. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
