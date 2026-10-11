@@ -36035,3 +36035,28 @@ Aucune demande nouvelle (backlog : 0 nouvelle, une demande en cours inchangée, 
 - Montgiscard, Pinsaguel, Cintegabelle : une ou deux entrées de vente directe, aucune source de commerce vérifiée. **Déblocage** : site ou page d'un commerce, puis quatre autres fiches entières dans la commune.
 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (région 76), règle 41.c. Le Nord (région 32) redevient éligible. Le calcul est à refaire à la passe suivante. La demande #13 reste en cours, sans changement.
+
+### Passe autonome du 11 octobre 2026 (quarante-troisième) : Loire, Saint-Chamond éprouvée, zone non formée à cinq, aucune publication
+
+Aucune demande nouvelle (backlog : 0 nouvelle, une demande en cours inchangée, #13). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population par département relue sur geo.api.gouv.fr, métropole seule, fiches comptées sur le code postal. Loire (42) en tête, déficit 4,3 ; Seine-Maritime (76) et Gard (30) suivent de près. Haute-Garonne exclue (visée à la passe précédente, région 76, règle 41.c). **Retenue : Loire (région 84).**
+
+**Commune, règle 41.d.** Saint-Étienne a déjà des fiches. Saint-Chamond (35 646 hab.) est la plus peuplée sans fiche. Elle avait été éprouvée à plusieurs reprises par les passes précédentes ; cette passe la relit avec des sources fraîches.
+
+**Sources relues.**
+- Magasin de producteurs à enseigne collective, 23 avenue Jules Ferry : adresse concordante entre le registre des entreprises (activité 47.29Z, établissement ouvert), le comparateur de circuits courts de Que Choisir (horaires, téléphone, rayons) et une offre d'emploi France Travail de 2025 (onze associés). **Pas de site officiel, pas de photo vérifiée** : horaires d'une seule source, donc non publié.
+- Biocoop (enseigne d'exploitant indépendant), ZAC de la Varizelle : adresse concordante dans deux annuaires, horaires d'une seule source (bible-marques.fr). La page magasin du réseau Biocoop ne répond pas (404). **Non publié** : pas de seconde source pour les horaires, et pas de photo.
+- Trois marchés du centre-ville, du quartier Fonsala et du quartier Izieux : listés sur des agrégateurs d'événements, 7h à 12h, du 2 octobre au 31 décembre 2026. Les jours de marché se contredisent d'une page à l'autre, et les pages datent d'octobre 2023. Aucune page de la Ville ne les détaille. **Non publiés** : un jour de marché faux envoie quelqu'un pour rien.
+
+**Bilan.** Aucune fiche de Saint-Chamond ne rend cinq fiches vérifiables avec une photo. Le groupe de cinq n'est pas atteint.
+
+**Constat de méthode.** Quarante-troisième passe autonome de suite sans fiche publiée. Le groupe de cinq dans une seule commune, la photo obligatoire et la source officielle exigée ne se rejoignent dans aucune commune de taille moyenne rencontrée depuis les passes précédentes. Le point n'est ni contourné ni tranché ici.
+
+**Pistes non publiées (Saint-Chamond, Loire)** — lignes anonymes :
+- Magasin de producteurs, avenue Jules Ferry : registre et comparateur concordants, pas de site ni de photo. **Déblocage** : page ou fiche propre du magasin, photo, horaires confirmés par une seconde source.
+- Biocoop, ZAC de la Varizelle : horaires d'une seule source, page réseau absente. **Déblocage** : page officielle du magasin ou confirmation directe.
+- Trois marchés (centre-ville, Fonsala, Izieux) : jours contradictoires, pages d'agrégateurs anciennes. **Déblocage** : calendrier publié par la Ville de Saint-Chamond.
+- Deux commerces à vente d'alimentation bio et de terroir, adresses listées dans les annuaires : catégorie et assortiment non établis. Hors périmètre tant qu'aucune source ne les décrit.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Loire (région 84), règle 41.c. Le calcul est à refaire. Seine-Maritime (région 28) et Gard (région 76, à nouveau Occitanie) redeviennent candidats selon le déficit. La demande #13 reste en cours, sans changement.
