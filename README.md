@@ -36220,3 +36220,21 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c : pas deux régions de suite). Dieppe et Fécamp restent à relire sur leurs sources municipales.
 
 **Constat de méthode.** Cinquante passes autonomes de suite sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant de vérifier. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante et unième) : Loire, Saint-Chamond éprouvée au registre, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (les trois premiers départements, La Réunion, la Guadeloupe et la Martinique, sont hors du périmètre du validateur). Retenu : **Loire (42), déficit 4,27**. La passe précédente visait la Seine-Maritime, donc la région est permise.
+
+**Commune, règle 41.d.** Saint-Chamond reste la plus peuplée sans fiche. Registre Agence Bio, première page du 42 (100 opérateurs sur 1 408) : pour Saint-Chamond, un seul opérateur, un restaurant à vente restreinte. Aucune source officielle de marché n'a pu être relue faute de temps.
+
+**Pourquoi rien n'est publié.** Aucune fiche vérifiée à Saint-Chamond : une piste sans source indépendante ne se publie pas.
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Le Chambon-Feugerolles, boutique bio à vente aux particuliers : pas de source indépendante relue dans cette passe. **Déblocage** : site du commerce ou fiche de la commune.
+- Andrézieux-Bouthéon, distribution à vente aux particuliers : grossiste en gros plus que commerce de détail. **Déblocage** : aucun, sauf décision sur ce critère.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune.
+
+**Constat de méthode.** Cinquante et une passes sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
