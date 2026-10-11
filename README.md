@@ -36256,3 +36256,32 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : trois opérateurs en entreprise individuelle, non nommés ici, écartés à la source du registre.
 
 **Constat de méthode.** La formule de la règle 41 désigne encore la Haute-Garonne alors que ses communes les plus peuplées ne rendent aucun commerce vérifiable. Décision de fond (règle des cinq fiches par commune, ou départ vers un autre département) consignée pour le responsable du site ; elle n'est pas tranchée dans cette passe.
+
+### Passe autonome du 11 octobre 2026 (cinquante-troisième) : Seine-Maritime, Montivilliers éprouvée au registre, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. Déficits recalculés sur 34 969 communes : Haute-Garonne (31) 5,03, Seine-Maritime (76) 5,02, Nord 4,83. La passe précédente visait la Haute-Garonne, donc l'Occitanie est réservée (règle 41.c). Retenu : **Seine-Maritime (76), déficit 5,02**. La passe précédente étant déjà en Haute-Garonne, la permission de région est respectée.
+
+**Commune, règle 41.d.** Dans l'ordre par population, sans fiche : Dieppe (28 496 hab.), Le Petit-Quevilly (22 208), Fécamp (17 313), tous trois éprouvés dans des passes antérieures sans cinq commerces vérifiables. Retenue : **Montivilliers (15 478 hab.)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, six premières pages du 76 (600 opérateurs) : à Montivilliers, trois opérateurs à vente au public, dont une enseigne de réseau (magasin spécialisé bio), une épicerie vrac et une exploitation à vente directe. Deux autres opérateurs à vente particuliers sont en entreprise individuelle ou à Heuqueville, hors commune. Une torréfaction vend au public mais n'est pas une source de produits locaux (écartée). Une coopérative de production vend aux seuls professionnels (écartée).
+- Recherche web : le marché hebdomadaire du jeudi matin place de l'Abbaye, fiche de l'office de tourisme Le Havre-Étretat, sans date ni horaires 2026 vérifiés ; les « Monti'Marchés » d'été sont des soirées de juin-août, dates des années précédentes. Pas de confirmation 2026 par la commune.
+- L'exploitation à vente directe du registre n'apparaît sur aucun site ni annuaire consulté : pas de source indépendante.
+- L'épicerie vrac du registre n'a qu'une fiche de cartographie, horaires non confirmés.
+
+**Pourquoi rien n'est publié.** Montivilliers rend au plus une fiche possible de plus, et seulement avec des faits non confirmés. Cinq fiches entières vérifiées ne sont pas atteignables dans cette commune, et la règle 41.d impose la commune avant la vérification.
+
+**Pistes non publiées (Seine-Maritime, Montivilliers)** — lignes anonymes :
+- Montivilliers, magasin spécialisé bio d'un réseau national : une fiche possible en magasin-bio (règle 3), horaires à reprendre sur le site de l'enseigne. **Déblocage** : page du magasin consultée et horaires datés.
+- Montivilliers, marché hebdomadaire du jeudi : une fiche possible en `marche`, horaires et composition 2026 non confirmés. **Déblocage** : confirmation par la mairie ou l'office de tourisme.
+- Montivilliers, exploitation à vente directe du registre : aucune trace web, une seule source (registre). **Déblocage** : site du producteur ou fiche de la commune.
+- Montivilliers, épicerie vrac : le nom de l'enseigne contient un prénom possible ; au moindre doute sur une personne, rien n'est publié. **Déblocage** : nom d'enseigne sans prénom, confirmé par une source du commerce.
+- Montivilliers, torréfaction et coopérative de production : hors critère (vente au public de produits locaux non remplie, ou vente aux seuls professionnels).
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : une (épicerie vrac de Montivilliers, enseigne contenant un prénom ; non nommée ici).
+
+**Constat de méthode.** Cinquante-troisième passe sans fiche publiée. Le même blocage revient : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification, mène à des communes où le registre ne rend que deux ou trois points de vente. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c). Montivilliers reste à relire sur le site du réseau bio et sur la page de la mairie avant toute décision.
