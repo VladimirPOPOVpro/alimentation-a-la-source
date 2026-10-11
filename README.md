@@ -36014,3 +36014,24 @@ Aucune demande nouvelle (backlog : 0 nouvelle, une demande en cours inchangée, 
 - Hem, enseigne bio franchisée : une source. **Déblocage** : seconde source et horaires vérifiés.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (région 76, Occitanie : règle 41.c). Le Nord reste éligible : Cambrai reprend à la lecture des horaires du réseau Biocoop, puis Hem. La demande #13 reste en cours, sans changement.
+
+### Passe autonome du 11 octobre 2026 (quarante-deuxième) : Haute-Garonne, zone épuisée, aucune publication
+
+Aucune demande nouvelle (backlog : 0 nouvelle, une demande en cours inchangée, #13). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population par département relue sur geo.api.gouv.fr, métropole seule. Haute-Garonne (31) : déficit 5,27, en tête. Nord (59, 5,24) écarté : visé à la passe précédente (règle 41.c). **Retenue : Haute-Garonne (région 76).** Note de lecture : la passe précédente demandait d'exclure la Haute-Garonne à la passe suivante ; la règle 41.c n'exclut que la région de la passe immédiatement précédente. Je suis la règle écrite.
+
+**Commune, règle 41.d.** Les communes de la Haute-Garonne les plus peuplées sans fiche ont déjà été lues dans les passes précédentes (liste de la passe du 10 octobre, règle 248). Lues de nouveau ici : Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel, Aucamville, Grenade et Launaguet, sans fiche entière. Les communes de rang suivant (Carbonne, Bruguières, Fronton, Bessières) sont plus petites et ont au plus une ou deux entrées de vente directe au registre.
+
+**Registre Agence Bio, Haute-Garonne (première page de cent opérateurs relue).** Vente aux particuliers déclarée dans une quarantaine de communes, presque toujours une seule entrée par commune. Les entrées à nom patronymique d'exploitant sont écartées sans nom, règle 309, et ne se rouvrent pas. Les enseignes de distribution (Intermarché, etc.) ne sont pas retenues, hors périmètre.
+
+**Bilan.** Aucune commune de la Haute-Garonne ne rend cinq fiches vérifiables cette passe. Le groupe de cinq n'est pas atteint.
+
+**Constat de méthode.** Quarante-deuxième passe autonome de suite sans fiche publiée. La formule de la règle 41 désigne le département, la règle des cinq fiches entières dans une seule commune désigne la commune. Or dans les départements de population moyenne, le registre ne déclare qu'une ou deux ventes directes par commune au-delà des grandes villes. La contrainte « cinq dans une seule commune » ne peut donc pas être tenue ici sans sortir de la commune choisie. Le point n'est ni contourné ni tranché.
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Bessières (4 310), exploitation à vente directe au registre, entreprise à nom patronymique : écartée pour doute sur une personne, ne se rouvre pas.
+- Carbonne (5 563), jardins maraîchers en vente directe au registre, entreprise à nom patronymique : écartée pour doute sur une personne, ne se rouvre pas.
+- Montgiscard, Pinsaguel, Cintegabelle : une ou deux entrées de vente directe, aucune source de commerce vérifiée. **Déblocage** : site ou page d'un commerce, puis quatre autres fiches entières dans la commune.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (région 76), règle 41.c. Le Nord (région 32) redevient éligible. Le calcul est à refaire à la passe suivante. La demande #13 reste en cours, sans changement.
