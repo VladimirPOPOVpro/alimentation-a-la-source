@@ -36379,3 +36379,28 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c si la Seine-Maritime reste en tête). Elbeuf reste à relire sur le site de la Ville (marchés) avant toute décision. Si elle reste à zéro, la descente par population reprend à Barentin (12 022 hab.), non éprouvée à ce jour.
 
 **Constat de méthode.** Cinquante-sixième passe sans fiche publiée. Le blocage tient toujours à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (cinquante-septième) : Loire, Roche-la-Molière éprouvée au registre, aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), déficit calculé sur les 1 271 fiches publiées. Têtes : Loire (42) 4,27, Seine-Maritime (76) 4,24, Gard (30) et Haut-Rhin (68) à 4,21. La passe précédente visait la Seine-Maritime : la Loire est permise (règle 41.c, deux passes de suite seulement). Retenu : **Loire (42)**, déficit 4,27.
+
+**Commune, règle 41.d.** Saint-Chamond, la plus peuplée sans fiche, a été éprouvée à la passe précédente sans cinq commerces vérifiables. Descente par population : **Roche-la-Molière (9 843 hab.)**, non éprouvée jusqu'ici.
+
+**Registre Agence Bio, Loire complète** (1 408 opérateurs lus sur quinze pages de cent). Filtre Roche-la-Molière, entrées en vente aux particuliers :
+- une entreprise de vente au consommateur dont la dénomination contient un nom de personne : écartée (règle des personnes, non nommée, ne se rouvre pas) ;
+- une fleuriste dont la dénomination contient un nom de personne : écartée, hors catégories et nom de personne ;
+- un GAEC à vente au consommateur, sans site ni téléphone relevés dans le registre : une piste possible, aucune source indépendante lue cette passe.
+
+**Pourquoi rien n'est publié.** Roche-la-Molière rend au plus une fiche possible, et seulement avec une seule source (le registre). Cinq commerces vérifiables n'existent pas dans cette commune selon les sources lues : la règle 41.d impose de descendre à la suivante, et la lecture web n'a pas été poursuivie au-delà de ce constat.
+
+**Pistes non publiées (Loire, Roche-la-Molière)** — lignes anonymes :
+- Roche-la-Molière, vente directe d'une exploitation agricole (GAEC) du registre : fiche possible en `producteur`, aucune source indépendante. **Déblocage** : site du producteur ou fiche de la commune, avec adresse et jours d'ouverture.
+- Roche-la-Molière, deux entrées dont la dénomination contient un nom de personne (une vente de produits de la ferme, une fleuriste) : écartées pour doute sur une personne ; elles ne se rouvrent pas.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : deux, Roche-la-Molière (non nommées).
+
+**Points d'arrêt.** La passe suivante peut revenir dans la Loire (règle 41.c : la passe précédente visait la Seine-Maritime). Saint-Chamond reste la commune la plus peuplée sans fiche ; la descente par population reprend au-delà de Roche-la-Molière, à déterminer par la règle 41.d.
+
+**Constat de méthode.** Cinquante-septième passe sans fiche publiée. Le blocage tient toujours à la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d qui fixe la commune avant la vérification. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
