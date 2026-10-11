@@ -36060,3 +36060,21 @@ Aucune demande nouvelle (backlog : 0 nouvelle, une demande en cours inchangée, 
 - Deux commerces à vente d'alimentation bio et de terroir, adresses listées dans les annuaires : catégorie et assortiment non établis. Hors périmètre tant qu'aucune source ne les décrit.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Loire (région 84), règle 41.c. Le calcul est à refaire. Seine-Maritime (région 28) et Gard (région 76, à nouveau Occitanie) redeviennent candidats selon le déficit. La demande #13 reste en cours, sans changement.
+
+### Passe autonome du 11 octobre 2026 (quarante-quatrième) : Seine-Maritime, Dieppe éprouvée, aucune publication
+
+Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours). La demande en cours (#13) reste en cours, sans changement : son nom public se lit comme celui d'une personne, règle 377. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 1 271 fiches, métropole seule (outre-mer écarté, règle 177 : le validateur refuse les coordonnées hors métropole). Tête : La Réunion (974), écartée ci-dessus ; Loire (42), déficit 4,27, fermée par la passe précédente (règle 41.c) ; Seine-Maritime (76), déficit 4,24, ouverte.
+
+**Commune, règle 248.** Dieppe (28 496 habitants) reste la commune la plus peuplée de Seine-Maritime sans fiche. Recherche neuve : une seule adresse dieppoise en circuit court, l'épicerie participative déjà consignée en piste. Les magasins de producteurs voisins (Ferrières-en-Bray, Petit-Caux) sont hors commune : non retenus.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables dans une même commune (règles 96 et 127). Une fiche isolée n'est pas une zone. Aucun marché de Dieppe n'a pu être relevé dans une source indépendante.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Constat de méthode.** Quarante-quatre passes autonomes de suite sans fiche publiée. Dieppe a été reprise une vingtaine de fois sans nouvelle source. Le blocage vient de la règle des cinq fiches dans une seule commune, pas d'un manque de recherche ponctuel.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste région de tête après un nouvel échec (règle 41.c). Elle reprend au premier département éligible du classement, en commençant par la commune la plus peuplée sans fiche de ce département.
