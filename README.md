@@ -36102,3 +36102,27 @@ Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours). La dem
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (région 76) si la Haute-Garonne reste en tête (règle 41.c : la passe précédente visait la Seine-Maritime, région 28, donc ce n'est pas le cas à la passe suivante ; le calcul est à refaire). Le département suivant éligible à déficit proche est le Nord (59, 5,24), puis la Seine-Maritime étant fermée, le Gard et le Haut-Rhin.
 
 **Constat de méthode.** Quarante-cinquième passe autonome de suite sans fiche publiée. La règle des cinq fiches entières dans une seule commune, avec une source indépendante pour chacune, ne se remplit dans aucune commune du département rencontrée depuis les passes précédentes. Le point n'est ni contourné ni tranché ici.
+
+### Passe autonome du 11 octobre 2026 (quarante-sixième) : Seine-Maritime, Dieppe reprise, aucune publication
+
+Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 177). La passe précédente visait la Haute-Garonne (Occitanie) : seule cette région est fermée (règle 41.c). En tête ensuite : **Seine-Maritime (76)**, déficit d'environ 5,0. Retenue.
+
+**Commune, règle 41.d.** Le 76 compte déjà des fiches dans Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Le Grand-Quevilly et Bois-Guillaume. La plus peuplée sans fiche reste **Dieppe (28 496 habitants)**, reprise comme le prévoyait le point d'arrêt.
+
+**Ce qui a été lu.** Une recherche web sur les producteurs et la vente directe à Dieppe. Une source indépendante neuve : la page « Les marchés du terroir » de l'office de tourisme Dieppe-Normandie Tourisme (site officiel), qui décrit le marché du samedi matin dans le centre, avec ses producteurs de fruits, légumes, fromages et volailles, sans liste d'exploitants ni horaires précis par étal. Une seule fiche possible au titre du marché (règle 127 : une fiche par marché, qui ne compte que pour une). Les autres pistes de recherche (annuaire de producteurs en ligne, guide PDF d'un réseau de producteurs, plateforme de vente directe) ne donnent que des fermes de l'arrière-pays, hors commune.
+
+**Pourquoi rien n'est publié.** Dieppe n'atteint toujours pas cinq commerces vérifiables dans la commune (règles 96 et 127). Une fiche isolée ne rend pas la zone utilisable : on ne la publie pas seule.
+
+**Pistes non publiées (Seine-Maritime, Dieppe)** — lignes anonymes :
+- Dieppe, marché du samedi matin (office de tourisme, source officielle) : une fiche de marché possible, horaires et adresse exacts à confirmer sur la page de l'office. **Déblocage** : quatre autres commerces vérifiés dans Dieppe, ou décision de la règle 127 sur les fiches de marché isolées.
+- Dieppe, producteurs de la place du Puits-Salé (fromages, volailles fermières, cités par l'office sans nom) : aucun exploitant identifié dans une source qui ne nomme pas de personne. **Déblocage** : une fiche d'exploitant ou de producteur publiée par son commerce.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête après le décompte de cette passe (règle 41.c). Si le 76 reste visé, la reprise est Dieppe, puis Canteleu, comme consigné plus haut.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : aucune à cette passe.
+
+**Constat de méthode.** Quarante-six passes autonomes de suite sans fiche publiée. Dieppe a été reprise une vingtaine de fois ; la seule source neuve est une fiche de marché isolée. La règle des cinq fiches entières dans une même commune reste la cause du blocage. Le point n'est ni contourné ni tranché ici : il relève du responsable du site.
