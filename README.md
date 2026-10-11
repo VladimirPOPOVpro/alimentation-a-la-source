@@ -36480,3 +36480,19 @@ Aucune demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). Mode 
 **Points d'arrêt.** La passe suivante ne vise pas la Loire si elle reste en tête, puisque cette passe l'a visée (règle 41.c). Roche-la-Molière est éprouvée ; la descente par population reprend à Veauche (8 975 hab.), à éprouver selon la règle 41.d.
 
 **Constat de méthode.** Soixantième passe sans fiche publiée. Une vérification officielle est possible par commune de cette taille, mais le seuil de cinq fiches par zone ne se réunit pas dans une seule commune. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 12 octobre 2026 (soixante-et-unième) : Seine-Maritime visée, Dieppe reprise, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, déficit sur les 1 271 fiches. Tête absolue : La Réunion (974), écartée (hors métropole, validateur). Loire (42) en tête métropolitaine, déficit 4,27, mais visée à la passe précédente : exclue par la règle 41.c. Suivante : Seine-Maritime (76), déficit 4,24. Retenu : **Seine-Maritime (76)**.
+
+**Commune, règle 41.d.** Le 76 compte déjà des fiches dans Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Le Grand-Quevilly, Bois-Guillaume et Eu. Dans l'ordre par population, sans fiche : Dieppe (28 496 hab.), reprise ici, comme les passes précédentes.
+
+**Constat.** Dieppe ne rend toujours pas cinq commerces vérifiables dans la commune. Une source neuve n'a pas été ajoutée : la seule en place est la fiche de marché de l'office de tourisme, déjà consignée en piste. Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Pistes non publiées (Seine-Maritime, Dieppe)** — lignes anonymes, inchangées : marché du samedi matin (office de tourisme) ; producteurs de la place du Puits-Salé, sans exploitant identifié.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête (règle 41.c). Le blocage tient à la règle des cinq fiches entières dans une même commune, reconnue depuis plusieurs passes ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante et unième passe autonome sans fiche publiée.
