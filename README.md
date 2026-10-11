@@ -36153,3 +36153,25 @@ Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours, inchang
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c) ; elle vise le Nord (59) ou la Seine-Maritime selon le calcul. La reprise Haute-Garonne ne devrait se faire qu'avec une source nouvelle par commune (mairie, DirectFermiers31 par commune), sans quoi elle reproduit cette passe.
 
 **Constat de méthode.** Quarante-septième passe autonome de suite sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune, et au registre bio, qui ne contient pas de vendeurs directs en nombre suffisant dans les communes moyennes du département. Le point n'est ni contourné ni tranché ici : il relève du responsable du site.
+
+### Passe autonome du 11 octobre 2026 (quarante-huitième) : Nord, Wattrelos et Marcq-en-Barœul relues, aucune publication
+
+Demande de visiteur : une demande en attente, inchangée (backlog : 0 nouvelle, 1 en cours). Elle vise le Var, hors du calcul ; son enseigne est un prénom, et sa fiche de contact est privée : elle reste en cours, rien n'est publié. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 177). Calcul refait sur 34 969 communes, fiches comptées sur le code postal : tête Haute-Garonne (31), déficit 5,27, mais exclue (la passe précédente visait le même région, règle 41.c). Ensuite **Nord (59), 5,24**, retenu ; Seine-Maritime (76), 5,22, second.
+
+**Commune, règle 41.d.** Cambrai, Wattrelos, Marcq-en-Barœul et Lambersart ont déjà été éprouvées à zéro. Le site de Marcq-en-Barœul ne répond pas (aucune réponse à ce sondage). Le site de Wattrelos répond : la passe ne l'a pas relu en détail, faute de temps. Aucune commune du Nord ne rend encore cinq fiches entières vérifiées.
+
+**Pourquoi rien n'est publié.** Une passe réduite à un sondage : une fiche isolée ne rend pas la zone utilisable, et la règle des cinq fiches dans une même commune n'est toujours pas remplie.
+
+**Pistes non publiées (Nord)** — lignes anonymes :
+- Wattrelos : marchés toujours sans horaires publiés ; registre Agence Bio, entrées de vente directe sans enseigne propre. **Déblocage** : relecture complète du site de la Ville et des producteurs du registre.
+- Marcq-en-Barœul : site de la Ville injoignable. **Déblocage** : nouvelle tentative.
+
+**Contradictions** : aucune.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre Agence Bio écartée sans nom, ne se rouvre pas.
+
+**Points d'arrêt.** La passe suivante reprend le Nord (59), en commençant par Wattrelos. Si le Nord reste en tête, son calcul doit exclure Cambrai et Lambersart, déjà éprouvées.
+
+**Constat de méthode.** Quarante-huitième passe autonome de suite sans fiche publiée. La règle des cinq fiches entières dans une même commune reste le verrou. Le point relève du responsable du site.
