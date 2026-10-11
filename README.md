@@ -36158,7 +36158,7 @@ Demande de visiteur : aucune nouvelle (backlog : 0 nouvelle, 1 en cours, inchang
 
 Demande de visiteur : une demande en attente, inchangée (backlog : 0 nouvelle, 1 en cours). Elle vise le Var, hors du calcul ; son enseigne est un prénom, et sa fiche de contact est privée : elle reste en cours, rien n'est publié. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
 
-**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 177). Calcul refait sur 34 969 communes, fiches comptées sur le code postal : tête Haute-Garonne (31), déficit 5,27, mais exclue (la passe précédente visait le même région, règle 41.c). Ensuite **Nord (59), 5,24**, retenu ; Seine-Maritime (76), 5,22, second.
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 177). Calcul refait sur 34 969 communes, fiches comptées sur le code postal : tête Haute-Garonne (31), déficit 5,27, mais exclue (la passe précédente visait la même région, règle 41.c). Ensuite **Nord (59), 5,24**, retenu ; Seine-Maritime (76), 5,22, second.
 
 **Commune, règle 41.d.** Cambrai, Wattrelos, Marcq-en-Barœul et Lambersart ont déjà été éprouvées à zéro. Le site de Marcq-en-Barœul ne répond pas (aucune réponse à ce sondage). Le site de Wattrelos répond : la passe ne l'a pas relu en détail, faute de temps. Aucune commune du Nord ne rend encore cinq fiches entières vérifiées.
 
