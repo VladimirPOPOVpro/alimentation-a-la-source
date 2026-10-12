@@ -36562,3 +36562,37 @@ Les deux horaires et les deux lieux sont sourcés par la Ville ; les produits d�
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle reste en tête (règle 41.c). Ramonville est éprouvée au site officiel ; la descente par population reprend à Saint-Orens-de-Gameville (14 646 hab.), à éprouver selon la règle 41.d, en élargissant à l'agglomération du Sicoval si la commune ne rend pas deux fiches.
 
 **Constat de méthode.** Soixante-quatrième passe sans fiche publiée. Le seuil de cinq fiches dans une même zone reste le point bloquant, comme consigné depuis plusieurs passes. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 12 octobre 2026 (soixante-cinquième) : Nord (59) reprise par le registre, Wambrechies et Linselles éprouvées, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule. Tête : Haute-Garonne (31), 5,27, exclue par la règle 41.c (visée à la passe précédente). Suivante : Nord (59), 5,24. Retenu : **Nord (59)**.
+
+**Registre Agence Bio, relu en entier (1 794 opérateurs du 59, 18 pages).** Les communes où le registre indique une vente aux consommateurs et qui n'ont pas de fiche sont, par nombre d'entrées : Wavrin, Anor, Herlies, Landrecies, Linselles, Bondues, Le Favril, Beugnies, Sémeries, Trélon, Cambrai, Wambrechies, Haubourdin, Wignehies, Taisnières-en-Thiérache, Rieulay, Gommegnies, Estaires, Fourmies, Avelin, Floyon, Jeumont, Ghissignies, Louvil, Raismes, Flines-lez-Raches. Le Quesnoy est aussi sans fiche (dix entrées, presque toutes de particuliers).
+
+**Constat du registre.** Presque toutes les entrées de vente sont des particuliers, des exploitations à la ferme ou des grandes surfaces (écartées par MODERATION.md). Sur les communes encore vides, une seule entrée porte un site officiel actif, et il est hors service (voir ci-dessous).
+
+**Commune, règle 41.d.** Communes les plus peuplées du 59 sans fiche : Wambrechies (environ 12 000 hab.) et Haubourdin (environ 14 000 hab.) pour le registre, et Bondues (environ 9 000 hab.). Cambrai (31 134 hab.) reste éprouvée aux passes précédentes. Wambrechies est éprouvée cette passe, sur son site officiel.
+
+**Sources officielles lues.**
+- Wambrechies, page « Marché de plein vent » de la ville : un marché le vendredi de 15 h à 20 h (19 h en hiver) sur le port de plaisance, présenté avec des foodtrucks et un calendrier de spécialités. Ce n'est pas un marché de producteurs en circuit court : non retenu.
+- Linselles, page « Marché hebdomadaire » de la mairie : tous les vendredis de 8 h à 12 h 30, parvis de l'église, place de la République. La page décrit des commerçants ambulants alimentaires et non alimentaires, sans liste de producteurs : non retenu.
+- Haubourdin : le site de la ville ne décrit aucun marché de producteurs (seule une actualité sur une marche sportive ressort).
+- Bondues : le site officiel ne répond pas (aucune réponse du serveur pendant la passe).
+
+**Contradiction consignée.** Aucune.
+
+**Pistes non publiées (Nord)** — lignes anonymes :
+- Linselles, marché hebdomadaire du vendredi matin : source officielle, mais produits non détaillés et commerçants ambulants généralistes. **Déblocage** : liste des producteurs du marché, sourcée par la mairie.
+- Wambrechies, marché du vendredi après-midi au port de plaisance : marché de plein vent avec foodtrucks. **Déblocage** : présence de producteurs sourcée.
+- Bondues : trois entrées de vente du registre, dont une boulangerie bio (hors catégories du site) et une entrée avec un site dont le déploiement est actuellement suspendu (adresse et activité non confirmées). Le site officiel de la mairie ne répond pas. **Déblocage** : site de la mairie joignable et source sur chaque commerce.
+- Haubourdin : une entrée de vente du registre sans site ni activité confirmée, et une entrée de supérette (écartée, grande surface). **Déblocage** : page de producteur ou de commerce avec adresse et activité.
+- Le Quesnoy : une pépinière fruitière avec vente directe (activité à confirmer, possiblement hors sujet alimentaire) et une entrée de vente sans site. **Déblocage** : site du producteur.
+- Cambrai : deux entrées de vente du registre, chacune avec un site web, non ouvertes cette passe ; leur nature (magasin, grossiste, diffusion) reste à confirmer. **Déblocage** : sites ouverts et vérifiés, avec la ville pour recoupement.
+
+**Fiches écartées pour doute sur une personne** : deux entrées de vente du registre (Bondues, Haubourdin), dont l'enseigne est un prénom suivi d'un nom d'activité. Non nommées ; elles ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le département suivant par déficit est la Seine-Maritime (76, 5,22), dont Dieppe est éprouvée et dont la descente par commune reste à faire ; la Loire (42), déjà éprouvée à Roche-la-Molière et Saint-Chamond, reste en réserve. Le Nord a été vu entièrement au registre : sa descente par commune est épuisée.
+
+**Constat de méthode.** Soixante-cinquième passe autonome sans fiche publiée. La formule et le registre donnent les mêmes communes que les passes précédentes ; une passe de plus ne change pas le seuil des cinq fiches vérifiables dans une même zone, déjà consigné. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
