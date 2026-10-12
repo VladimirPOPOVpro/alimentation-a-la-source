@@ -36532,3 +36532,33 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Constat de méthode.** Soixante-troisième passe autonome sans fiche publiée.
 
 **Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+### Passe autonome du 12 octobre 2026 (soixante-quatrième) : Haute-Garonne reprise, Ramonville éprouvée au site officiel, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (les codes 97x et 98x sont écartés : le validateur refuse les coordonnées hors métropole). Tête : Haute-Garonne (31), déficit d'environ 5,0. Nord (59) est exclu par la règle 41.c, puisqu'il a été visé à la passe précédente. Retenu : **Haute-Garonne (31)**, reprise après la passe soixante-deuxième.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 31 sans fiche sont Blagnac, Muret, Plaisance-du-Touch, Balma et Castanet-Tolosan : toutes éprouvées aux passes précédentes, sans cinq fiches vérifiables. La passe éprouve donc Ramonville-Saint-Agne (15 158 hab.), suivante par population.
+
+**Source officielle trouvée.** La page « Marchés » du site de la Ville (ramonville.fr/pratique/marches/) décrit deux marchés :
+- un marché de plein vent, avenue d'Occitanie, le mercredi et le samedi de 8 h à 13 h 30, avec environ 70 à 80 commerçants dont des maraîchers et des producteurs de fruits bio ;
+- le « Carré des producteurs » de Port Sud, mail Georges-Brassens, tous les jeudis de 16 h à 20 h, producteurs locaux en circuit court (bio non précisé par la Ville).
+
+Les deux horaires et les deux lieux sont sourcés par la Ville ; les produits détaillés, eux, ne le sont que par le marché de plein vent, et la Ville ne publie pas de photographie utilisable (règle 231).
+
+**Recherche complémentaire.** Le registre Agence Bio du 31, relu par commune, n'offre à Ramonville qu'une entrée sans vente au public et une entrée de vente aux particuliers portant un nom de personne (écartée, non nommée). Les recherches web sur Saint-Orens-de-Gameville et Fonsorbes ne donnent aucun marché ni producteur sourcé ; Fonsorbes est renvoyé à la mairie par l'annuaire des marchés, sans jour.
+
+**Pourquoi rien n'est publié.** Ramonville rend deux fiches « marché » vérifiées (adresse, jours, horaires). Il n'en rend pas cinq. Une fiche isolée ou deux ne forment pas la zone visée par AGENT.md (règles 96 et 127) : l'élargissement à l'agglomération du Sicoval n'a pas été lu cette passe, faute de sources communales voisines. Rien ne se publie « en attendant ».
+
+**Pistes non publiées (Haute-Garonne)** — lignes anonymes :
+- Ramonville-Saint-Agne, marché de plein vent (avenue d'Occitanie, mercredi et samedi) : fiche `marche` possible, horaires officiels de la Ville. **Déblocage** : une photographie thématique libre de reprise et trois fiches de la même zone.
+- Ramonville-Saint-Agne, Carré des producteurs de Port Sud (jeudi, 16 h à 20 h) : fiche `marche` possible, à confirmer sur le lieu. **Déblocage** : même condition, plus une source sur les producteurs présents.
+- Une boucherie bio de Saint-Orens-de-Gameville, vente aux particuliers du registre dont l'enseigne contient un prénom : **écartée pour doute sur une personne**, elle ne se rouvre pas.
+- Fonsorbes : marché unique cité par un agrégateur, sans jour confirmé. **Déblocage** : page marchés de la mairie.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : une (Saint-Orens-de-Gameville, non nommée).
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle reste en tête (règle 41.c). Ramonville est éprouvée au site officiel ; la descente par population reprend à Saint-Orens-de-Gameville (14 646 hab.), à éprouver selon la règle 41.d, en élargissant à l'agglomération du Sicoval si la commune ne rend pas deux fiches.
+
+**Constat de méthode.** Soixante-quatrième passe sans fiche publiée. Le seuil de cinq fiches dans une même zone reste le point bloquant, comme consigné depuis plusieurs passes. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
