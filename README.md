@@ -36496,3 +36496,19 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête (règle 41.c). Le blocage tient à la règle des cinq fiches entières dans une même commune, reconnue depuis plusieurs passes ; il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Soixante et unième passe autonome sans fiche publiée.
+
+### Passe autonome du 12 octobre 2026 (soixante-deuxième) : Haute-Garonne visée, zone épuisée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, dénominateur des seules communes métropolitaines (La Réunion et les autres territoires ultramarins sont exclus : le validateur de `lib/validateMerchants.ts` refuse les coordonnées hors métropole). Tête : Haute-Garonne (31), déficit 5,27 ; Nord (59), 5,24 ; Seine-Maritime (76), 5,22, exclue par la règle 41.c (visée à la passe précédente). Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Cugnaux et Pibrac portent déjà des fiches. Les communes sans fiche, par population, sont Blagnac, Muret, Plaisance-du-Touch, Balma et Castanet-Tolosan : toutes éprouvées aux passes 54 et antérieures, sans cinq fiches vérifiables. Le registre Agence Bio du département a été relu sur sa première page (100 opérateurs sur 2 834) ; aucun nouveau commerce vérifiable n'en est sorti.
+
+**Pourquoi rien n'est publié.** Aucune commune encore vide du 31 ne rend cinq fiches vérifiables, et aucune source neuve n'a été trouvée. Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Constat de méthode.** Soixante-deuxième passe sans fiche publiée. La règle 41 place toujours la Haute-Garonne en tête, alors que sa descente par commune est épuisée (règle 248) : la formule et la règle des cinq fiches par commune ne peuvent plus produire de publication dans ce département.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le Nord (59), deuxième au classement, est le candidat naturel, sous réserve de la recalculer. Aucune fiche n'est consignée en « Pistes non publiées » cette passe.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
