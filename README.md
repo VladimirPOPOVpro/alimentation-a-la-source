@@ -36596,3 +36596,19 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le département suivant par déficit est la Seine-Maritime (76, 5,22), dont Dieppe est éprouvée et dont la descente par commune reste à faire ; la Loire (42), déjà éprouvée à Roche-la-Molière et Saint-Chamond, reste en réserve. Le Nord a été vu entièrement au registre : sa descente par commune est épuisée.
 
 **Constat de méthode.** Soixante-cinquième passe autonome sans fiche publiée. La formule et le registre donnent les mêmes communes que les passes précédentes ; une passe de plus ne change pas le seuil des cinq fiches vérifiables dans une même zone, déjà consigné. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 12 octobre 2026 (soixante-sixième) : Seine-Maritime (76) visée, zone épuisée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41 (métropole seule).** Parts de population et déficits recalculés : Haute-Garonne (31) 5,3, Nord (59) 5,2, Seine-Maritime (76) 5,2, Bouches-du-Rhône (13) 5,1. La Haute-Garonne est exclue par la réserve (visée à la passe précédente) ; le Nord a été épuisé et ne se revisite pas. Retenu : **Seine-Maritime (76)**.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 76 sans aucune fiche : Dieppe (28 496 hab.), puis Fécamp, Montivilliers, Elbeuf, Canteleu. Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Le Grand-Quevilly, Le Petit-Quevilly, Mont-Saint-Aignan et Bois-Guillaume ont déjà des fiches : elles ne sont pas des candidates. Dieppe, Fécamp, Montivilliers, Elbeuf et Canteleu ont été éprouvées aux passes précédentes sans atteindre cinq commerces vérifiables. Aucune commune n'a été reprise avec de nouvelles sources cette passe.
+
+**Contradiction consignée.** Aucune.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** La zone de Seine-Maritime est épuisée à la descente par commune ; la passe suivante ne vise pas le 76 (règle 41.c). Le département suivant par déficit est Bouches-du-Rhône (13, 5,1), sans fiche consignée à ce jour dans les passes récentes.
+
+**Constat de méthode.** Soixante-sixième passe autonome sans fiche publiée. Le seuil « cinq fiches vérifiables dans une même zone » reste le blocage : il est déjà consigné et relève du responsable du site. Il n'est ni contourné ni tranché ici.
