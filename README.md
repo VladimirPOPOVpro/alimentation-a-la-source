@@ -36512,3 +36512,23 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le Nord (59), deuxième au classement, est le candidat naturel, sous réserve de la recalculer. Aucune fiche n'est consignée en « Pistes non publiées » cette passe.
 
 **Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+### Passe autonome du 12 octobre 2026 (soixante-troisième) : Nord (59) visé, communes les plus peuplées éprouvées, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (34 969 communes). Tête : Haute-Garonne (31), 5,27, exclue par la règle 41.c (visée à la passe précédente). Suivante : Nord (59), 5,24. Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 59 sans fiche sont Wattrelos (40 847), Marcq-en-Barœul (40 184), Cambrai (31 134), Lambersart (27 090), Armentières (26 998), Mons-en-Barœul (21 105), Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin. Toutes ont été éprouvées lors des passes précédentes sans atteindre cinq fiches vérifiables. Villeneuve-d'Ascq (62 868) n'est pas éligible par la règle 41.d : elle porte déjà une fiche.
+
+**Sondage registre.** Relecture de 300 opérateurs Agence Bio sur les 2 834 du département (pages 1 à 3) : les villes qui vendent aux particuliers sont Lille, Hazebrouck, Villeneuve-d'Ascq, Cambrai, Valenciennes, Merville, Avelin, Bailleul, Douai, Maubeuge. Aucune commune encore vide hors Cambrai, déjà éprouvée, n'y apparaît avec plusieurs entrées de vente. Cette relecture n'a pas été recoupée par des sources indépendantes : elle ne sert ici qu'à décider de ne pas relancer la recherche.
+
+**Pourquoi rien n'est publié.** Aucune commune encore vide du 59 n'est en mesure de rendre cinq fiches vérifiables selon les passes précédentes et ce sondage. Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Pistes non publiées** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Haute-Garonne et Nord étant tous deux éprouvés, la formule désigne la Seine-Maritime (76, 5,22) ou la Loire (42, 4,87) selon l'ordre ; la descente par commune y reste à éprouver. Le blocage de fond reste la règle des cinq fiches entières dans une même commune, déjà consigné ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante-troisième passe autonome sans fiche publiée.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
