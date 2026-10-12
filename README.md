@@ -36612,3 +36612,40 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La zone de Seine-Maritime est épuisée à la descente par commune ; la passe suivante ne vise pas le 76 (règle 41.c). Le département suivant par déficit est Bouches-du-Rhône (13, 5,1), sans fiche consignée à ce jour dans les passes récentes.
 
 **Constat de méthode.** Soixante-sixième passe autonome sans fiche publiée. Le seuil « cinq fiches vérifiables dans une même zone » reste le blocage : il est déjà consigné et relève du responsable du site. Il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 12 octobre 2026 (soixante-septième) : Haute-Garonne reprise par le Sicoval, marchés sourcés par les villes, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (codes 97x et 98x écartés, règle 93). Tête : Haute-Garonne (31), 5,3 ; Nord (59), 5,2 ; Seine-Maritime (76), 5,2 ; Bouches-du-Rhône (13), 5,1. La réserve de la règle 41.c ne vise que la passe précédente, la Seine-Maritime (Normandie) : la Haute-Garonne (Occitanie) est éligible. Retenu : **Haute-Garonne (31)**, reprise après les passes soixante-deuxième et soixante-quatrième.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 31 sans fiche (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan) ont été éprouvées aux passes précédentes ; Ramonville-Saint-Agne est déjà instruite. La descente par population reprend à Saint-Orens-de-Gameville (14 646 hab.) et à Castanet-Tolosan, toutes deux dans l'agglomération du Sicoval, qui sert de zone de groupement (les cinq fiches d'une passe doivent rester dans une seule commune ou agglomération).
+
+**Registre Agence Bio, 31.** Relecture des entrées de vente aux particuliers de l'agglomération (Escalquens, Labège, Cornebarrieu, Castanet-Tolosan). La plupart portent le nom d'une personne physique : écartées pour doute sur une personne, non nommées. Une coopérative à Escalquens et une enseigne bio à Cornebarrieu ont été lues ; la première n'est pas retenue (voir ci-dessous), la seconde hors agglomération du Sicoval.
+
+**Sources officielles lues.**
+- Castanet-Tolosan, page « Marchés de plein vent » de la Ville : marché du mardi, 8 h à 12 h 30, sous la Halle lauragaise (centre-ville) ; marché du vendredi, 15 h à 19 h, même halle ; marché du samedi, 8 h à 12 h 30, place Argyroupoli, avenue Pierre-Mendès-France. Horaires et lieux sourcés par la Ville ; aucun produit détaillé ni présence de producteurs identifiée sur la page. Non retenu : pas de liste de produits vérifiable.
+- Saint-Orens-de-Gameville, page « Marché de plein vent » de la Ville : marché du samedi, 8 h à 12 h 30, rue du Centre. La Ville décrit des producteurs et artisans (fruits et légumes, fromages, miel, volailles, poisson), sans liste d'exploitants nommés. Les produits restent à sourcer exploitant par exploitant : non retenu en l'état.
+- Sicoval, page « Marchés de plein vent » : l'agglomération renvoie à son guide des producteurs locaux 2026-2027 (PDF de 9,7 Mo) et aux cartes Direct Fermiers 31 et Frais et local. Le PDF n'a **pas été téléchargé** : le téléchargement demande l'accord du responsable du site (voir « Pistes non publiées »). Les cartes interactives n'ont pas été lues.
+
+**Écartés après vérification.**
+- Bioespuna (Escalquens) : permanence à l'entrepôt le mardi de 9 h à 16 h, sur le site de la coopérative. Le siège enregistré est en Espagne ; ce n'est pas un point de vente au public identifié comme tel. Doute de fait sur la nature du point : non publié.
+- Biocoop Cornebarrieu : hors agglomération du Sicoval, et enseigne de réseau (règle 3 : admise, mais la passe reste dans une seule agglomération).
+
+**Pourquoi rien n'est publié.** Le Sicoval rend des horaires de marché sourcés par les villes (Castanet, Saint-Orens, Ramonville), mais aucune liste de producteurs vérifiable pour cinq fiches. Quatre marchés à horaires sûrs ne forment pas la zone visée par AGENT.md ; une fiche isolée ou deux ne se publient pas (règles 96 et 127). Rien ne se publie « en attendant ».
+
+**Pistes non publiées (Haute-Garonne, agglomération du Sicoval)** — lignes anonymes :
+- Castanet-Tolosan, marché du mardi (halle, 8 h à 12 h 30) : horaires et lieu sourcés par la Ville, produits non détaillés. **Déblocage** : liste des producteurs présents, sourcée par la Ville ou le marché.
+- Castanet-Tolosan, marché du vendredi (halle, 15 h à 19 h) : même statut. **Déblocage** : idem.
+- Castanet-Tolosan, marché du samedi (place Argyroupoli, 8 h à 12 h 30) : même statut. **Déblocage** : idem.
+- Saint-Orens-de-Gameville, marché du samedi (rue du Centre, 8 h à 12 h 30) : horaires sourcés par la Ville, producteurs décrits en général. **Déblocage** : liste d'exploitants sourcée (photo : la Ville n'en donne pas de libre de droits).
+- Sicoval, guide des producteurs locaux 2026-2027 : source de référence pour trouver les vrais producteurs de la zone. **Déblocage** : accord du responsable du site pour télécharger le PDF de 9,7 Mo, ou lecture de la carte Direct Fermiers 31 par la même voie.
+- Escalquens, point de permanence d'une coopérative (mardi, 9 h à 16 h) : nature du point de vente à confirmer. **Déblocage** : source qui dise qu'il s'agit d'un point de vente ouvert au public.
+
+**Ramonville-Saint-Agne** : pistes des passes précédentes maintenues (marché de plein vent et Carré des producteurs), aucune nouvelle source.
+
+**Contradictions** : aucune entre sources. **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre dans le 31, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle reste en tête (règle 41.c). Le Sicoval est le seul bassin de la zone avec des horaires sourcés ; il faut un jeu de producteurs sourcés pour y réunir cinq fiches. Ce point relève du responsable du site : téléchargement du guide des producteurs du Sicoval, à autoriser ou non. Il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante-septième passe autonome sans fiche publiée. Les horaires de marchés sont désormais vérifiés dans trois communes ; le verrou reste la liste des producteurs, et la règle des cinq fiches entières dans une même zone, déjà consignée.
