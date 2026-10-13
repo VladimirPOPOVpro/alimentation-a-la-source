@@ -36748,3 +36748,28 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne à nouveau (règle 41.c, si elle reste la région la plus proche de la tête). Elle ne revient pas non plus sur Blagnac ni Muret. Le classement suivant est le Nord (59) ; la règle des cinq fiches entières dans une même commune s'applique comme ailleurs.
 
 **Constat de méthode.** Soixante-douzième passe autonome sans fiche publiée. Le verrou est le même depuis plusieurs passes : aucune commune de la descente ne rend cinq fiches vérifiables, et le guide du Sicoval reste en attente d'un accord. Ce constat est consigné tel quel, sans contournement de la règle.
+
+### Passe autonome du 13 octobre 2026 (soixante-treizième) : Pyrénées-Atlantiques (64) reprises, Biarritz sondée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1 ; Isère (38) 5,0 ; Loire (42) 4,9 ; Gard (30) 4,8 ; Haut-Rhin (68) 4,8 ; Pyrénées-Atlantiques (64) 4,6 ; Yvelines (78) 4,5. Les régions déjà épuisées par les passes consignées (Occitanie, Hauts-de-France, Normandie, Bouches-du-Rhône, Isère, Grand Est, Loire) sont exclues. Retenu : **Pyrénées-Atlantiques (64)**, Nouvelle-Aquitaine.
+
+**Commune, règle 41.d.** L'agglomération paloise porte déjà cinq fiches (Pau, Billère, Bizanos), Anglet et Bayonne en portent quatre : la descente reprend là où les passes du Pays basque l'avaient laissée, à **Biarritz** (26 206 habitants). Au registre de l'Agence Bio, les mille premiers opérateurs du département (sur 2 043) donnent plusieurs vendeurs aux particuliers à Biarritz, Anglet, Bayonne, Ciboure et Hendaye. Écartés : des exploitants en nom personnel (règle sur les noms de personnes, ils ne se rouvrent pas), une boulangerie, une grande surface, un fabricant de fumigation et d'encens sans produit alimentaire de ferme, un domaine viticole de Ciboure dont la vente est en primeur et par correspondance.
+
+**Vérifications sur sources indépendantes.**
+- Un magasin bio du registre (enseigne « Dans Mon Biocal », avenue de la Marne à Biarritz) : l'annuaire Hoodspot donne l'adresse mais aucun horaire et aucun téléphone, et le même numéro d'adresse est listé par un autre annuaire sous l'enseigne d'un réseau de vrac. **Contradiction non tranchée** : enseigne ou nature du point de vente incertaine. Non publiée.
+- Biarritz, halles et marchés : inaccessibles à la lecture, comme les passes précédentes le notaient.
+
+**Pistes non publiées (Pyrénées-Atlantiques)** — lignes anonymes :
+- Biarritz, magasin bio d'avenue de la Marne (registre, annuaire) : adresse concordante, horaires et enseigne à confirmer, adresse partagée avec une autre enseigne. **Déblocage** : fiche du commerce elle-même, site ou horaires vérifiés.
+- Biarritz, une boulangerie (registre) : catégorie `producteur` discutable, produits non sourcés. **Déblocage** : liste de produits d'un producteur sourcé.
+- Ciboure, un domaine viticole à vente en primeur et par correspondance : hors cœur du sujet (point de vente direct non établi). **Déblocage** : point de vente ouvert au public, sourcé par le domaine.
+- Hendaye, Saint-Pée-sur-Nivelle, Cambo-les-Bains, Saint-Jean-le-Vieux : quelques exploitations et ateliers au registre, de vente directe déclarée. Aucune commune n'en rend cinq sourcées. **Déblocage** : site officiel d'une de ces communes listant des producteurs.
+- Plusieurs exploitants et entrepreneurs du 64 en nom personnel (Anglet, Bayonne, Hendaye, Ciboure, Saint-Jean-de-Luz) : écartés au titre de la règle sur les noms de personnes ; ils ne se rouvrent pas.
+
+**Contradictions** : une adresse commune à deux enseignes, consignée ci-dessus. **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre dans le 64, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le 64 si Biarritz reste sans cinq fiches sourcées (règle 41.c). Elle descend le classement suivant hors régions déjà fermées, en commençant par Yvelines (78) si la région est encore éligible, puis la commune la plus peuplée sans fiche de ce département. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante-treizième passe autonome sans fiche publiée. Le verrou est inchangé : la règle des cinq fiches entières dans une même commune, et l'absence de sources de vente directe vérifiables hors des grandes villes.
