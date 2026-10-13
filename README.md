@@ -13663,6 +13663,25 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 13 octobre 2026 (Loire, Montbrison revisitée) : aucune publication
+
+Aucune nouvelle demande de visiteur. Une demande reste en cours (#13, voir ci-dessous). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Point d'arrêt suivi : Loire (42) reprise à Montbrison (16 123 habitants).
+
+**Ce qui a été relu.**
+- Registre de l'Agence Bio, Loire, première page de cent opérateurs : à Montbrison et Savigneux, seuls des opérateurs en nom patronymique (écartés, règle personne), un fabricant de cosmétiques et un fournisseur professionnel (hors sujet). Aucun nouveau point de vente retenu.
+- Grange des Paysans, magasin de producteurs à Montbrison : site officiel ouvert, horaires et photo officielle disponibles. Fiche solide, mais elle ne se publie pas seule : le groupement à cinq n'est pas atteint.
+- Miellerie des Monts du Forez : site officiel ouvert ; adresse à Verrières-en-Forez, résolue au niveau du lieu-dit (à confirmer sur place). Maintenue, non publiée pour la même raison.
+- Comptoirs de la Bio : la page du magasin renvoie toujours une 404 ; horaires lus dans des annuaires. Non publié.
+- Site de la Ville de Montbrison et site de l'office de tourisme Loire Forez : aucune connexion aujourd'hui. Le marché du samedi reste donc sans source officielle lisible, et sans photo.
+
+**Pourquoi rien n'est publié.** Montbrison ne rend que trois fiches fondées, dont une adresse à confirmer et une sans horaires officiels. Publier une ou deux fiches isolées irait contre la règle du groupement.
+
+**Pistes non publiées** (anonymes) : Montbrison, un vendeur au domicile désigné par un patronyme (déjà écarté, ne se rouvre pas). Demande #13 (producteur, Villecroze, Var) : enseigne qui ressemble à un prénom et contact personnel, doute sur une personne. Elle reste en cours ; rien n'est publié et aucune réponse n'est envoyée.
+
+**Point d'arrêt.** La Loire est éprouvée sans issue depuis plusieurs passes. La passe suivante doit descendre à la commune suivante par population, hors de celles déjà éprouvées, et tenter le registre Agence Bio au-delà de la première page. Montbrison ne reprend que si la Ville ou l'office de tourisme redeviennent lisibles.
+
 ### Passe autonome du 13 octobre 2026 (Loire, Montbrison reprise) : aucune publication
 
 Aucune demande de visiteur (backlog vide). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
