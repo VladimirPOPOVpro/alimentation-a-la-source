@@ -36958,3 +36958,23 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Elle reprend le classement : Nord (59) de nouveau éligible, puis Seine-Maritime (76). Si la commune de la passe ne rend pas cinq fiches, descendre par population dans le même département.
 
 **Constat de méthode.** Quatre-vingtième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-unième) : Nord (59) reprise, Maubeuge éprouvée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (97x et 98x écartés, règle 93). Tête : Haute-Garonne (31) 5,31 ; Nord (59) 5,25. La Haute-Garonne est exclue par la règle 41.c (visée à la passe précédente). Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 59 sans fiche sont Maubeuge (28 767 hab.), puis Loos, La Madeleine, Mons-en-Barœul. Maubeuge n'avait jamais été reprise à fond : elle est la commune retenue.
+
+**Zone et sources.** Registre Agence Bio, département 59, trois pages de cent (300 opérateurs lus). Opérateurs à adresse Maubeuge ou Louvroil vendant aux particuliers : une structure de production, un magasin de vente directe, une structure sans vente détaillée. Ni les marchés de la Ville (pas d'heure publiée, images réservées), ni la Halle gourmande (fiche entière, mais une seule fiche : une zone exige cinq fiches, règle 52) n'ouvrent une zone de cinq. Les autres communes de la liste ont été éprouvées aux passes précédentes.
+
+**Pourquoi rien n'est publié.** Maubeuge ne rend qu'une fiche entière (la Halle gourmande, déjà consignée en piste) et un magasin Biocoop dont les horaires se contredisent entre annuaires. Une fiche isolée n'est pas publiée (règle 52). Rien n'est publié à moitié.
+
+**Pistes non publiées** : aucune nouvelle cette passe ; les pistes du Nord restent celles de la passe soixante-dix-neuvième.
+
+**Contradictions** : aucune nouvelle. **Fiches écartées pour doute sur une personne** : des exploitations inscrites sous le nom de leur exploitant au registre bio, à Maubeuge, non nommées, ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). La Haute-Garonne redevient éligible ; si elle est reprise, sa descente reste à éprouver commune par commune. Le blocage de fond reste la règle des cinq fiches entières dans une même commune, déjà consigné ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Quatre-vingt-unième passe autonome sans fiche publiée.
