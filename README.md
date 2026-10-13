@@ -36799,3 +36799,23 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur les Yvelines tant que Mantes-la-Jolie ne rend pas cinq fiches sourcées (règle 41.c et règle 96). Elle descend à Poissy (40 983 habitants) ou prend la commune suivante du classement hors régions fermées, en commençant par Haute-Garonne si elle est de nouveau éligible.
 
 **Constat de méthode.** Soixante-quatorzième passe autonome sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune, et au peu de vente directe sourçable hors des grands centres.
+
+### Passe autonome du 13 octobre 2026 (soixante-quinzième) : Haute-Garonne (31) revisitée au registre, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1 ; Isère (38) 5,0. La passe précédente visait les Yvelines (Île-de-France) : la Haute-Garonne est donc éligible au titre de la règle 41.c. Retenu : **Haute-Garonne (31)**, région Occitanie.
+
+**Commune, règle 41.d.** Les communes les plus peuplées sans fiche sont Blagnac (27 604) et Muret (26 079). Toutes deux, avec la descente complète du département (Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes, L'Union, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel, Aucamville…), sont déjà consignées comme éprouvées à zéro aux passes précédentes. Aucune commune du département ne rend cinq fiches vérifiables.
+
+**Registre Agence Bio, relu cette passe.** Mille cent opérateurs du département 31 lus. Les vendeurs aux particuliers des communes sans fiche sont, pour l'essentiel, des exploitants en nom personnel (règle sur les noms de personnes : ils ne se rouvrent pas), des boulangeries, des grandes surfaces ou des points de vente déjà consignés (magasin bio de Blagnac, Biocoop de Plaisance-du-Touch, Bio Castanet-Tolosan). Aucune nouvelle piste sourcée n'est apparue, donc aucune source de site n'a été rouverte : refaire la même recherche ne produirait pas de fait nouveau.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Haute-Garonne ne rend cinq fiches entières sourcées par une source indépendante. Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Pistes non publiées** : aucune nouvelle cette passe ; celles de la Haute-Garonne consignées aux passes précédentes restent valables.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre dans le 31, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Elle prend le classement suivant hors régions déjà fermées, la commune la plus peuplée sans fiche du département retenu, et applique la règle des cinq fiches entières sans exception.
+
+**Constat de méthode.** Soixante-quinzième passe autonome sans fiche publiée. Le verrou est le même : la règle des cinq fiches entières dans une même commune, et l'absence de vente directe sourçable hors des grandes villes.
