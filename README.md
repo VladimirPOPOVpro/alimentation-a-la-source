@@ -36819,3 +36819,23 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Elle prend le classement suivant hors régions déjà fermées, la commune la plus peuplée sans fiche du département retenu, et applique la règle des cinq fiches entières sans exception.
 
 **Constat de méthode.** Soixante-quinzième passe autonome sans fiche publiée. Le verrou est le même : la règle des cinq fiches entières dans une même commune, et l'absence de vente directe sourçable hors des grandes villes.
+
+### Passe autonome du 13 octobre 2026 (soixante-seizième) : Loire (42) reprise, Firminy relue sur le site officiel, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (les codes 987 et 988, outre-mer, sont exclus au titre de la règle 93). Tête après exclusion de la Haute-Garonne, visée à la passe précédente : Loire (42) 4,3 ; Seine-Maritime (76) 4,2 ; Gard (30) 4,2 ; Haut-Rhin (68) 4,2. Retenu : **Loire (42)**.
+
+**Commune, règle 41.d.** Saint-Chamond, Roanne, Firminy, Montbrison, Rive-de-Gier, Le Chambon-Feugerolles, Riorges et Andrézieux-Bouthéon sont déjà éprouvées aux passes précédentes. Reprise de Firminy (17 060 hab., zéro fiche) sur le site officiel de la Ville, rubrique « Marchés et animations commerciales ».
+
+**Fait nouveau, sourcé par la Ville.** Le marché de la place du Marché se tient le mardi, le jeudi et le samedi, de 7 h à 12 h, avec plus de quarante commerçants alimentaires (boucher, primeur, boulanger, fromager, poissonnier…). Le jour et l'horaire contradictoires consignés précédemment sont donc levés. Le marché de la place du Breuil est non alimentaire : hors périmètre.
+
+**Pourquoi rien n'est publié.** Ce marché est une seule fiche, dont le contenu commerçant est générique (une « quarantaine de commerçants », pas de producteurs nommés) : il n'est pas une fiche de circuit court. Aucun autre commerce de Firminy ne se trouve sourcé par une source indépendante. La règle 96 exige deux fiches publiables entières dans la commune avant d'élargir : le seuil n'est pas atteint.
+
+**Pistes non publiées (Firminy)** : marché alimentaire de la place du Marché, jour et horaires désormais confirmés par la Ville, à publier dès qu'une deuxième fiche entière de la commune est sourcée. Déblocage : deux fiches de producteurs ou de commerces de circuit court vérifiés à Firminy.
+
+**Contradictions** : levée sur les jours du marché (agrégateur contre site officiel ; le site officiel fait foi). **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Loire (règle 41.c). Elle prend le classement suivant hors régions déjà visées aux passes précédentes.
+
+**Constat de méthode.** Soixante-seizième passe autonome sans fiche publiée. La règle des cinq fiches entières par commune reste le verrou, et les communes de taille moyenne n'offrent que des marchés génériques ou des commerces sans vente directe vérifiable.
