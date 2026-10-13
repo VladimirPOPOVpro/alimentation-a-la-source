@@ -36857,3 +36857,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59), déjà éprouvé en totalité aux passes précédentes (Cambrai, Wattrelos, Marcq-en-Barœul, Lambersart, Armentières, Hem) ; la passe suivante prend donc la Seine-Maritime (76) ou le Bouches-du-Rhône (13) selon le classement, en excluant les communes déjà éprouvées.
 
 **Constat de méthode.** Soixante-dix-septième passe autonome sans fiche publiée. Le verrou tient à la règle des cinq fiches entières dans une même commune (règles 96, 127 et 248), que les départements en tête du classement n'atteignent pas en pratique. Le groupement est maintenu tel que `AGENT.md` le fixe.
+
+### Passe autonome du 13 octobre 2026 (soixante-dix-huitième) : Gard (30) revisité, Alès sondée sur le site officiel, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (987 et 988 exclus, règle 93), recalculée sur les 1 271 fiches. Tête après exclusion des régions fermées par les passes consignées : Loire (42) 4,3 ; Seine-Maritime (76) 4,2 ; Gard (30) 4,2 ; Haut-Rhin (68) 4,2. La passe précédente visait la Haute-Garonne (Occitanie) : le Gard est éligible au titre de la règle 41.c. Retenu : **Gard (30)**.
+
+**Commune, règle 41.d.** Nîmes (151 839 hab.) porte déjà des fiches, donc n'est pas éligible. Alès (46 125 hab.) est la commune la plus peuplée sans fiche ; elle a été éprouvée à nouveau. Le site officiel de la Ville répond et ne liste aucun marché alimentaire ni point de vente en circuit court dans ses pages accessibles (recherche « marché » et plan du site sans rubrique alimentaire). Aucune autre source officielle n'a pu être ouverte cette passe.
+
+**Pourquoi rien n'est publié.** Une seule piste à Alès reste non sourcée par une source indépendante (boulangerie-pâtisserie et brasserie, toutes deux relevées au registre, sans produits ni adresse de vente vérifiés). La règle des cinq fiches entières par commune n'est pas atteinte. Les autres communes du Gard de plus de 6 000 habitants (Bagnols-sur-Cèze, Beaucaire, Vauvert, Saint-Gilles, Villeneuve-lès-Avignon) sont déjà éprouvées aux passes précédentes.
+
+**Pistes non publiées** : Alès, deux pistes déjà consignées (boulangerie-pâtisserie, brasserie artisanale). Déblocage inchangé : site du commerce ou fiche de l'office de tourisme listant les produits.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Elle prend le classement suivant hors régions déjà fermées, puis applique la règle des cinq fiches entières sans exception.
+
+**Constat de méthode.** Soixante-dix-huitième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières par commune, combinée à l'absence de source officielle de vente directe dans les communes de taille moyenne. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
