@@ -13663,6 +13663,27 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 13 octobre 2026 (Loire, Montbrison reprise) : aucune publication
+
+Aucune demande de visiteur (backlog vide). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Point d'arrêt de la passe précédente suivi : Loire (42) visée, reprise à Montbrison (16 123 habitants), en cherchant d'abord le marché de la Ville et l'office de tourisme, puis les producteurs et enseignes non patronymiques.
+
+**Ce qui a été vérifié (sources indépendantes lues).**
+- **La Grange des Paysans**, magasin de producteurs, 16 avenue de Saint-Étienne. Site officiel `lagrangedespaysans.fr` ouvert : du mardi au vendredi de 9 h à 19 h, samedi de 9 h à 13 h ; douze producteurs associés ; téléphone publié. Photo : vitrine intérieure du site officiel (og:image), sans visage identifiable, rendue à 1280 px.
+- **Miellerie des Monts du Forez**, producteur de miel. Site officiel `miellerie-forez.fr` ouvert, page « Nos points de vente » : vente à la miellerie le vendredi, le samedi et le premier dimanche du mois, de 14 h à 18 h. Adresse de la miellerie : lieu-dit Montgenest, Verrières-en-Forez (BAN : résolu au niveau du lieu-dit, à confirmer sur place). Photo : façade du bâtiment, site officiel, sans personne.
+- **Les Comptoirs de la Bio**, magasin bio, 89 avenue de Saint-Étienne, ZAC des Granges. Réseau `lescomptoirsdelabio.fr` ouvert, mais sa page du magasin renvoie une 404 ; présence et horaires lus dans des annuaires et sur le site du centre commercial (horaires : lundi-jeudi 9 h-13 h et 14 h 30-19 h, vendredi-samedi 9 h-19 h, dimanche fermé). Numéro d'annuaire non publié (non vérifié). `a_confirmer` nécessaire.
+- **Marché de Montbrison**, samedi matin, place de l'Hôtel-de-Ville. Site de la Ville (article de 2020) et office de tourisme concordent sur le jour et le lieu, mais les horaires divergent (6 h 30-13 h selon l'office, 8 h-12 h 30 selon un guide de mobilité). Pas de photo honnête trouvée.
+
+**Pourquoi rien n'est publié.** Montbrison ne rend pas encore cinq fiches prêtes à publier : aucune photo honnête n'a pu être trouvée pour le marché et pour le magasin bio (l'image du site du réseau est une publicité pour une autre marque, écartée ; le visuel de la ferme est indisponible), et une cinquième candidate est en attente de vérification (ci-dessous). Publier deux ou trois fiches isolées dans la commune irait contre la règle du groupement.
+
+**Pistes non publiées** (anonymes) :
+- Montbrison : une apicultrice ou un apiculteur installé à une adresse résidentielle, qui vend au domicile et dont le téléphone est un portable : écartée pour doute sur une donnée personnelle (adresse de domicile possible), ne se rouvre pas.
+- Montbrison : un maraîcher qui vend au domicile sous un patronyme, écarté pour doute sur une personne.
+- Savigneux (agglomération) : une ferme en vente directe, présente au marché de Montbrison le samedi, horaires contradictoires selon les annuaires (17 h-19 h ou 9 h-18 h), numéro de portable : à reprendre avec l'office de tourisme avant publication ; son adresse de ferme est une piste légitime.
+
+**Point d'arrêt.** Reprise à Montbrison à la passe suivante : chercher une photo honnête du marché (site de la Ville, page de l'office de tourisme) et une photo du magasin de producteurs qui ne montre aucun visage ; vérifier les horaires du marché auprès de l'office de tourisme ; trancher Savigneux. Si cinq fiches restent introuvables, descendre à la commune suivante par population, comme le prévoit la règle.
+
 ### Passe autonome du 9 octobre 2026 (Loire, Firminy descendue) : aucune publication
 
 Aucune demande de visiteur. **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
