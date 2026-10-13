@@ -36712,3 +36712,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante reprend Alès seulement si une source officielle (marché ou office de tourisme) liste au moins cinq producteurs ou points de vente sourcés. Sinon, elle passe au département suivant hors Grand Est, hors Occitanie et hors régions déjà fermées dans les passes consignées. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Soixante-dixième passe autonome sans fiche publiée. Le verrou est le même : la règle des cinq fiches entières dans une même commune, et la rareté des enseignes distinctes du nom de l'exploitant hors des grandes villes.
+
+### Passe autonome du 13 octobre 2026 (soixante-et-onzième) : Loire (42) visée, Saint-Étienne reprise au registre, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1 ; Isère (38) 5,0 ; Loire (42) 4,9. La passe précédente visait le Gard (Occitanie) : la région ne se revisite pas en consécutif, et Occitanie est exclue. Nord, Seine-Maritime, Bouches-du-Rhône et Isère sont épuisés par les passes consignées. Retenu : **Loire (42)**, région Auvergne-Rhône-Alpes, ouverte à nouveau depuis la passe 68.
+
+**Commune, règle 41.d.** Au registre de l'Agence Bio (300 opérateurs paginés), Saint-Étienne est la commune la plus dense en opérateurs, mais la liste n'est pas une source de vente : une bonne part des lignes sont des transformateurs, des grossistes ou des exploitants en nom personnel, et la commune est déjà instruite dans les « Pistes non publiées à Saint-Étienne ». Je n'ai pas rouvert ces lignes, par économie de recherche ; elles ne sont pas revérifiées cette passe. Feurs, Roanne, Chavanay et Saint-Just-Saint-Rambert sont sondées au registre : insuffisant pour cinq fiches vérifiables, comme les passes du 11 et du 12 octobre le notaient.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Loire ne rend cinq fiches sourcées par une source indépendante cette passe. Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Pistes non publiées** : aucune nouvelle cette passe ; celles de la Loire déjà consignées restent valables.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Loire à nouveau (les passes 43 à 60 l'ont éprouvée). Elle passe au classement suivant hors Occitanie, Hauts-de-France, Normandie, Bouches-du-Rhône, Isère, Grand Est et Loire. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante-et-onzième passe autonome sans fiche publiée. Le verrou est le même : la règle des cinq fiches entières dans une même commune, et l'absence de liste sourcée des producteurs hors des grandes villes.
