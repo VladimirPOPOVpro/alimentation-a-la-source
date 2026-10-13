@@ -36933,3 +36933,28 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle reprend le classement de la règle 41 : la Haute-Garonne (31, Occitanie) est de nouveau éligible, le Nord étant la région de cette passe, puis Seine-Maritime (76) si la commune retenue ne rend pas cinq fiches.
 
 **Constat de méthode.** Soixante-dix-neuvième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de vente directe sourçable dans les grandes villes déjà éprouvées. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingtième) : Haute-Garonne (31) visée, Toulouse et Blagnac éprouvées, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule (départements 01 à 95 et 2A/2B ; outre-mer exclu) : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2. Retenu : **Haute-Garonne (31)**, Occitanie, la passe précédente étant dans le Nord (Hauts-de-France) (règle 41.c).
+
+**Commune, règle 41.d.** Toulouse (514 819 hab.) et Colomiers, Tournefeuille, Cugnaux ont déjà des fiches. La plus peuplée sans fiche est **Blagnac (27 604 hab.)**, puis Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan.
+
+**Sources.** Registre Agence Bio, département 31, quatre pages de cent (400 opérateurs lus). Filtre sur les villes de l'agglomération et sur `venteAnnuaire.venteParticuliers`. Résultat :
+- Blagnac : deux opérateurs ont une adresse à Blagnac. Une boulangerie-pâtisserie (catégorie « boulangerie », hors des six catégories du site) et une structure sans vente directe identifiée. Pas de fiche.
+- Plaisance-du-Touch : une boulangerie, hors catégories. Pas de fiche.
+- Saint-Orens-de-Gameville : une boulangerie, hors catégories. Pas de fiche.
+- Toulouse, Balma, Ramonville, Muret : des opérateurs vendant aux particuliers, mais des vignerons, des boulangeries ou des entreprises sans adresse de vente publique sourçable. Pas de fiche.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables dans les catégories du site (`ferme`, `marche`, `magasin-bio`, `amap`, `producteur`, `poissonnerie`). Les boulangeries ne sont pas une catégorie du schéma, et les validateurs la refusent. Rien n'est publié à moitié.
+
+**Pistes non publiées** :
+- Haute-Garonne, zone toulousaine : plusieurs exploitants en entreprise individuelle figurent au registre sous leur nom patronymique. Écartés pour doute sur une personne, non nommés, ne se rouvrent pas.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : plusieurs, toutes en Haute-Garonne, nombre non détaillé ici.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Elle reprend le classement : Nord (59) de nouveau éligible, puis Seine-Maritime (76). Si la commune de la passe ne rend pas cinq fiches, descendre par population dans le même département.
+
+**Constat de méthode.** Quatre-vingtième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
