@@ -36773,3 +36773,29 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le 64 si Biarritz reste sans cinq fiches sourcées (règle 41.c). Elle descend le classement suivant hors régions déjà fermées, en commençant par Yvelines (78) si la région est encore éligible, puis la commune la plus peuplée sans fiche de ce département. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Soixante-treizième passe autonome sans fiche publiée. Le verrou est inchangé : la règle des cinq fiches entières dans une même commune, et l'absence de sources de vente directe vérifiables hors des grandes villes.
+
+### Passe autonome du 13 octobre 2026 (soixante-quatorzième) : Yvelines (78) visées, Mantes-la-Jolie sondée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Haute-Garonne (31) 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22 ; Bouches-du-Rhône (13) 5,10 ; Isère (38) 4,95 ; Loire (42) 4,87. Régions fermées par les passes consignées exclues (Occitanie, Hauts-de-France, Normandie, PACA, Auvergne-Rhône-Alpes, Grand Est, Nouvelle-Aquitaine). Retenu : **Yvelines (78)**, Île-de-France, région non visée par la passe précédente (règle 41.c). Déficit 4,53.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 78 sans aucune fiche : **Mantes-la-Jolie** (43 526 habitants). Versailles, Sartrouville, Saint-Germain-en-Laye et Plaisir en portent déjà.
+
+**Ce que le registre de l'Agence Bio donne.** Vingt-sept opérateurs à Mantes-la-Jolie, Mantes-la-Ville et communes voisines. Écartés : grandes surfaces et enseignes de distribution, boulangeries, un distributeur de vrac en gros, et une majorité d'exploitants en nom personnel (règle sur les noms de personnes, ils ne se rouvrent pas). Restent des points de vente sans producteur identifié.
+
+**Vérifications sur sources indépendantes.**
+- Marchés : le site officiel de la ville confirme deux marchés, le centre-ville (mercredi et samedi matin, 7h30-13h) et le Val Fourré (mardi et vendredi après-midi, dimanche matin). Ce sont des faits sourcés, mais aucun producteur individuel n'est listé par la ville ; une fiche « marché » seule ne rend pas cinq commerces.
+- Biocoop du Mantois (rue d'Alsace) : **contradiction non tranchée**. Les annuaires la donnent ouverte avec trois horaires différents et deux téléphones ; le registre des entreprises consigne l'établissement comme fermé depuis septembre 2022 pour la société exploitante. Non publiée.
+- Producteurs de la région recensés par des annuaires : exploitations situées à plusieurs dizaines de kilomètres, sans vente à Mantes. Écartées.
+
+**Pistes non publiées (Mantes-la-Jolie)** — lignes anonymes :
+- Marché du centre-ville et marché du Val Fourré (site officiel de la ville) : faits sourcés, aucun producteur sourcé. **Déblocage** : liste de producteurs présents, publiée par la ville ou sourcée par chaque producteur.
+- Biocoop d'avenue ou rue d'Alsace (registre fermé 2022, annuaires ouverts) : **Déblocage** : confirmation du point de vente par le réseau Biocoop ou un passage du site officiel du magasin.
+- Une épicerie bio de la rue Gambetta et une cave de la ville signalées par des annuaires seulement : pas de source officielle. **Déblocage** : site ou fiche propre du commerce.
+
+**Contradictions** : Biocoop du Mantois, consignée ci-dessus. **Fiches écartées pour doute sur une personne** : une douzaine d'entrées du registre dans le 78 à Mantes et Arnouville, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur les Yvelines tant que Mantes-la-Jolie ne rend pas cinq fiches sourcées (règle 41.c et règle 96). Elle descend à Poissy (40 983 habitants) ou prend la commune suivante du classement hors régions fermées, en commençant par Haute-Garonne si elle est de nouveau éligible.
+
+**Constat de méthode.** Soixante-quatorzième passe autonome sans fiche publiée. Le blocage tient à la règle des cinq fiches entières dans une même commune, et au peu de vente directe sourçable hors des grands centres.
