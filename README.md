@@ -36839,3 +36839,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur la Loire (règle 41.c). Elle prend le classement suivant hors régions déjà visées aux passes précédentes.
 
 **Constat de méthode.** Soixante-seizième passe autonome sans fiche publiée. La règle des cinq fiches entières par commune reste le verrou, et les communes de taille moyenne n'offrent que des marchés génériques ou des commerces sans vente directe vérifiable.
+
+### Passe autonome du 13 octobre 2026 (soixante-dix-septième) : Haute-Garonne revisitée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1. La passe précédente visait la Loire (42), région différente : la Haute-Garonne redevient éligible au titre de la règle 41.c. Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 248.** Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes, L'Union, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel et Aucamville sont déjà éprouvées sans fiche entière. Aucune source nouvelle n'a été ouverte : refaire la même recherche ne produirait pas de fait nouveau.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 ne rend cinq fiches entières sourcées par une source indépendante. Les fiches déjà présentes dans le département (Toulouse, Colomiers, Tournefeuille, Cugnaux, Pibrac, Labège, Cazères, Martres-Tolosane, Le Fousseret, Auzeville-Tolosane) ne sont pas recomptées : elles sont déjà publiées.
+
+**Pistes non publiées** : aucune nouvelle cette passe ; celles de la Haute-Garonne consignées aux passes précédentes restent valables.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre dans le 31, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59), déjà éprouvé en totalité aux passes précédentes (Cambrai, Wattrelos, Marcq-en-Barœul, Lambersart, Armentières, Hem) ; la passe suivante prend donc la Seine-Maritime (76) ou le Bouches-du-Rhône (13) selon le classement, en excluant les communes déjà éprouvées.
+
+**Constat de méthode.** Soixante-dix-septième passe autonome sans fiche publiée. Le verrou tient à la règle des cinq fiches entières dans une même commune (règles 96, 127 et 248), que les départements en tête du classement n'atteignent pas en pratique. Le groupement est maintenu tel que `AGENT.md` le fixe.
