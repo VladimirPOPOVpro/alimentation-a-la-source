@@ -36890,6 +36890,6 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 
 **Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
-**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle prend Haute-Garonne (31), éligible puisque la passe précédente était dans le Gard… mais la Haute-Garonne est en Occitanie, comme le Gard : à arbitrer par la formule, sans contournement. Sinon Seine-Maritime (76).
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle reprend le classement de la règle 41 : la Haute-Garonne (31, Occitanie) est de nouveau éligible, le Nord étant la région de cette passe, puis Seine-Maritime (76) si la commune retenue ne rend pas cinq fiches.
 
 **Constat de méthode.** Soixante-dix-neuvième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de vente directe sourçable dans les grandes villes déjà éprouvées. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
