@@ -36730,3 +36730,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas la Loire à nouveau (les passes 43 à 60 l'ont éprouvée). Elle passe au classement suivant hors Occitanie, Hauts-de-France, Normandie, Bouches-du-Rhône, Isère, Grand Est et Loire. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Soixante-et-onzième passe autonome sans fiche publiée. Le verrou est le même : la règle des cinq fiches entières dans une même commune, et l'absence de liste sourcée des producteurs hors des grandes villes.
+
+### Passe autonome du 13 octobre 2026 (soixante-douzième) : Haute-Garonne (31) revisitée, descente éprouvée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1 ; Isère (38) 5,0 ; Loire (42) 4,9. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : seule cette région est fermée par la règle 41.c. La Haute-Garonne est donc éligible et reprend la tête. Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 41.d.** Les communes les plus peuplées sans fiche sont Blagnac (27 604) et Muret (26 079). Elles ont été éprouvées à zéro aux passes précédentes et ne sont pas reprises. La descente par population a déjà parcouru Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes, L'Union, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel et Aucamville, sans qu'aucune de ces communes ne rende cinq fiches sourcées. Aucune source nouvelle n'a donc été ouverte cette passe : refaire la même recherche ne produirait pas de fait nouveau.
+
+**Pourquoi rien n'est publié.** La Haute-Garonne est, de l'avis des passes du 12 octobre, une zone épuisée au sens de la règle des cinq fiches entières dans une même commune. Le Sicoval reste bloqué par le téléchargement de son guide des producteurs, qui demande l'accord du responsable du site (voir « Pistes non publiées » de la soixante-septième passe). Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Pistes non publiées** : aucune nouvelle cette passe ; celles de la Haute-Garonne consignées aux passes précédentes restent valables.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne à nouveau (règle 41.c, si elle reste la région la plus proche de la tête). Elle ne revient pas non plus sur Blagnac ni Muret. Le classement suivant est le Nord (59) ; la règle des cinq fiches entières dans une même commune s'applique comme ailleurs.
+
+**Constat de méthode.** Soixante-douzième passe autonome sans fiche publiée. Le verrou est le même depuis plusieurs passes : aucune commune de la descente ne rend cinq fiches vérifiables, et le guide du Sicoval reste en attente d'un accord. Ce constat est consigné tel quel, sans contournement de la règle.
