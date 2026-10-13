@@ -36649,3 +36649,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle reste en tête (règle 41.c). Le Sicoval est le seul bassin de la zone avec des horaires sourcés ; il faut un jeu de producteurs sourcés pour y réunir cinq fiches. Ce point relève du responsable du site : téléchargement du guide des producteurs du Sicoval, à autoriser ou non. Il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Soixante-septième passe autonome sans fiche publiée. Les horaires de marchés sont désormais vérifiés dans trois communes ; le verrou reste la liste des producteurs, et la règle des cinq fiches entières dans une même zone, déjà consignée.
+
+### Passe autonome du 13 octobre 2026 (soixante-huitième) : Isère (38) visée, descente déjà instruite, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule (codes 97x et 98x écartés, règle 93). Tête : Haute-Garonne (31) 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22 ; Bouches-du-Rhône (13) 5,10 ; Isère (38) 4,95. La passe précédente visait la Haute-Garonne (Occitanie) : la région est fermée par la règle 41.c. Le Nord, la Seine-Maritime et les Bouches-du-Rhône sont épuisés par les passes déjà consignées et ne se revisitent pas. Retenu : **Isère (38)**.
+
+**Commune, règle 41.d.** Aucune recherche de source nouvelle cette passe. La descente de l'Isère est déjà instruite (douze communes, passe du 23 septembre, d'Échirolles au Pont-de-Claix) ; son point d'arrêt reste Charvieu-Chavagneux (10 547).
+
+**Pourquoi rien n'est publié.** Aucune commune de l'Isère ne rend cinq fiches vérifiables. Les villes ferment ou restreignent leurs photographies, et les deux fiches entières désignées pour la reprise (la Ferme du Marais des Mûres à Bourgoin-Jallieu, Les Terres du Héron à Sassenage) sont seules dans leur commune. Une fiche isolée n'est pas publiée (règles 96 et 127).
+
+**Pistes non publiées** : aucune nouvelle cette passe ; celles de la passe du 23 septembre restent valables.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (règle 41.c). Elle reprend le classement hors Occitanie, Hauts-de-France, Normandie, Bouches-du-Rhône et Isère, en vérifiant d'abord quels départements suivants ont déjà été descendus dans les passes consignées.
+
+**Constat de méthode.** Soixante-huitième passe autonome sans fiche publiée. Le blocage est toujours le même : la règle des cinq fiches entières dans une même commune, et la clause d'image des villes. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
