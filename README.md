@@ -36667,3 +36667,24 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (règle 41.c). Elle reprend le classement hors Occitanie, Hauts-de-France, Normandie, Bouches-du-Rhône et Isère, en vérifiant d'abord quels départements suivants ont déjà été descendus dans les passes consignées.
 
 **Constat de méthode.** Soixante-huitième passe autonome sans fiche publiée. Le blocage est toujours le même : la règle des cinq fiches entières dans une même commune, et la clause d'image des villes. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+### Passe autonome du 13 octobre 2026 (soixante-neuvième) : Haut-Rhin (68) visé, Saint-Louis reconnue, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1 ; Isère (38) 5,0 ; Loire (42) 4,9 ; Gard (30) 4,8 ; Haut-Rhin (68) 4,8. La passe précédente visait l'Isère (région 84) : Auvergne-Rhône-Alpes est fermée par la règle 41.c. Occitanie, Hauts-de-France, Normandie et Bouches-du-Rhône sont exclues par la consigne de la passe précédente. Retenu : **Haut-Rhin (68)**, région Grand Est.
+
+**Commune, règle 41.d.** Mulhouse (3 fiches) et Colmar (6 fiches) ne sont pas à reprendre : elles sont déjà instruites. La plus peuplée sans fiche est **Saint-Louis** (22 805 habitants). Au registre de l'Agence Bio, deux opérateurs seulement se déclarent vendeurs aux particuliers à Saint-Louis, dont une boulangerie-fournil : insuffisant pour cinq fiches. Le reste des communes à fort effectif (Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim, Cernay, Guebwiller) n'a au registre aucun point de vente public identifié, ou seulement des grossistes et des personnes physiques. Une recherche en source ouverte donne pour Wittenheim : aucun marché répertorié, et des producteurs situés à plusieurs dizaines de kilomètres.
+
+**Piste sérieuse à Saint-Louis (non publiée).** Saint-Louis Agglomération publie une brochure des circuits courts 2024 qui recense près de trente producteurs, avec une carte interactive sur son portail OpenData. Ce document n'a pas été téléchargé : le téléchargement d'un fichier exige l'accord du responsable du site. **Déblocage** : accord pour télécharger la brochure, ou lecture de la carte OpenData par la même voie. Si la brochure donne cinq exploitations vendant en direct avec une enseigne, la passe suivante peut publier la commune.
+
+**Pistes non publiées (Haut-Rhin)** — lignes anonymes :
+- Saint-Louis, une boulangerie-fournil vendant au particulier (registre) : catégorie `producteur` possible au titre de la règle 4, mais l'enseigne et l'activité ne sont pas encore sourcées par le site du commerce. **Déblocage** : site ou fiche du commerce.
+- Saint-Louis, un second opérateur du registre dont la nature de vente n'est pas claire (enseigne multi-sites possible). **Déblocage** : identification du point de vente.
+- Wintzenheim, Riquewihr, Eguisheim, Pfaffenheim : plusieurs caves et domaines au registre, mais la plupart sont des EARL au nom patronymique, exclues par la règle sur les noms de personnes. Aucune fiche ne part de ces communes tant que les enseignes ne sont pas distinctes du nom de l'exploitant.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre dans le 68, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante reprend Saint-Louis si le responsable du site autorise le téléchargement de la brochure. Sans cet accord, elle ne vise pas le Haut-Rhin à nouveau (règle 41.c) : elle passe au département suivant hors Grand Est et hors régions déjà fermées. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante-neuvième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de liste sourcée des producteurs en dehors des grandes villes.
