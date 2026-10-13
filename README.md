@@ -36688,3 +36688,27 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante reprend Saint-Louis si le responsable du site autorise le téléchargement de la brochure. Sans cet accord, elle ne vise pas le Haut-Rhin à nouveau (règle 41.c) : elle passe au département suivant hors Grand Est et hors régions déjà fermées. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Soixante-neuvième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de liste sourcée des producteurs en dehors des grandes villes.
+
+### Passe autonome du 13 octobre 2026 (soixante-dixième) : Gard (30) visé, Alès éprouvée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Population `geo.api.gouv.fr`, métropole seule, recalculée sur les 1 271 fiches. Tête : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Bouches-du-Rhône (13) 5,1 ; Isère (38) 5,0 ; Loire (42) 4,9 ; Gard (30) 4,8 ; Haut-Rhin (68) 4,8. La passe précédente visait le Haut-Rhin (Grand Est), qui ne se revisite pas en consécutif. Retenu : **Gard (30)**, région Occitanie.
+
+**Commune, règle 41.d.** Nîmes (151 839 habitants) porte déjà des fiches : elle n'est pas à reprendre. La plus peuplée sans fiche est **Alès** (46 125 habitants).
+
+**Ce que le registre et les sources donnent pour Alès.** Pagination complète du département 30 (900 opérateurs). Huit opérateurs se déclarent vendeurs aux particuliers à Alès ou dans ses environs immédiats. Écartés : une structure intercommunale, un supermarché, deux exploitants dont le nom est celui d'une personne physique, un opérateur de préparation sans point de vente identifié, et une structure dont la commune de vente est Saint-Étienne-de-l'Olm, hors Alès. Restent une boulangerie-pâtisserie (code NAF 10.71C, un seul établissement ouvert, sans produits de producteurs sourcés) et une brasserie artisanale. Insuffisant pour cinq fiches vérifiables. La commune n'est pas publiée.
+
+**Repli, règle 41.d.** Bagnols-sur-Cèze (18 112 habitants) est sondée au registre : un supermarché, des exploitants en nom personnel, deux domaines viticoles à enseigne propre (Domaine des Cèdres, à Sabran et Bagnols ; hors cœur du sujet, et sans point de vente sourcé). Vauvert (11 671) et Beaucaire (15 692) ne rendent pas non plus cinq fiches. Aucune source officielle de marché n'a été ouverte cette passe : le site de la commune d'Alès n'a répondu que sur sa page d'accueil, celui de Bagnols n'a pas répondu.
+
+**Pistes non publiées (Gard)** — lignes anonymes :
+- Alès, une boulangerie-pâtisserie (registre) : catégorie `producteur` discutable, pas de produit sourcé. **Déblocage** : site du commerce ou fiche de l'office de tourisme listant les produits.
+- Alès, une brasserie artisanale (registre) : hors catégories actuelles du schéma sauf `producteur`. **Déblocage** : site du commerce, adresse de vente et produits.
+- Bagnols-sur-Cèze, Sabran : un domaine à enseigne propre (registre). **Déblocage** : site du domaine, avec point de vente direct vérifié.
+- Plusieurs exploitants du 30 au registre en nom personnel (Saint-Gilles, Villeneuve-lès-Avignon, Beaucaire, Vauvert, Gallician) : écartés au titre de la règle sur les noms de personnes ; ils ne se rouvrent pas.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre dans le 30, non nommées, qui ne se rouvrent pas.
+
+**Points d'arrêt.** La passe suivante reprend Alès seulement si une source officielle (marché ou office de tourisme) liste au moins cinq producteurs ou points de vente sourcés. Sinon, elle passe au département suivant hors Grand Est, hors Occitanie et hors régions déjà fermées dans les passes consignées. Ce point relève du responsable du site ; il n'est ni contourné ni tranché ici.
+
+**Constat de méthode.** Soixante-dixième passe autonome sans fiche publiée. Le verrou est le même : la règle des cinq fiches entières dans une même commune, et la rareté des enseignes distinctes du nom de l'exploitant hors des grandes villes.
