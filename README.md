@@ -36875,3 +36875,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Elle prend le classement suivant hors régions déjà fermées, puis applique la règle des cinq fiches entières sans exception.
 
 **Constat de méthode.** Soixante-dix-huitième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières par commune, combinée à l'absence de source officielle de vente directe dans les communes de taille moyenne. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 13 octobre 2026 (soixante-dix-neuvième) : Nord (59) visé, Tourcoing et Roubaix déjà éprouvées, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Haute-Garonne (31) 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22. Retenu : **Nord (59)**, Hauts-de-France, la passe précédente étant dans le Gard (Occitanie) (règle 41.c).
+
+**Commune, règle 41.d.** Tourcoing (98 772 hab.) et Roubaix (98 286 hab.) n'ont aucune fiche à ce jour ; elles ont été éprouvées aux passes précédentes (registre Agence Bio et sites des villes), sans producteur vendant aux particuliers. Cette passe n'a pas relancé la recherche sur ces deux communes : elle repose sur ces constats antérieurs.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord rendant cinq commerces vérifiables n'a été identifiée dans cette passe. Rien n'est publié à moitié.
+
+**Pistes non publiées** : aucune nouvelle cette passe.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle prend Haute-Garonne (31), éligible puisque la passe précédente était dans le Gard… mais la Haute-Garonne est en Occitanie, comme le Gard : à arbitrer par la formule, sans contournement. Sinon Seine-Maritime (76).
+
+**Constat de méthode.** Soixante-dix-neuvième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de vente directe sourçable dans les grandes villes déjà éprouvées. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
