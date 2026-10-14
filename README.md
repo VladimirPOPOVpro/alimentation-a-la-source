@@ -37426,3 +37426,41 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part, inchangée : ensei
 **Constat de méthode.** Vingt-sept passes autonomes de suite sans fiche publiée. La règle de zone à cinq fiches entières reste le frein principal.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur l'Isère (règle 41.c). Elle commence par la page de la Ville de Vienne (marchés et commerces), puis le classement suivant (Loire ou Seine-Maritime, sous réserve des communes déjà éprouvées).
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-quinzième, reprise) : Seine-Maritime (76) désignée, Dieppe reprise, aucune publication
+
+Backlog : 0 nouvelle, 0 en cours. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, recalcul sur 1 271 fiches : Loire (42) 4,27, Seine-Maritime (76) 4,24, Gard (30) 4,21, Haut-Rhin (68) 4,21. La Loire est écartée : la passe précédente visait l'Isère, même région (règle 41.c). **Seine-Maritime désignée.** L'outre-mer reste écarté (règle 177).
+
+**Commune, règle 41.d.** Dieppe (28 496 habitants), la plus peuplée du 76 sans fiche. Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville, Le Grand-Quevilly, Bois-Guillaume, Mont-Saint-Aignan portent déjà des fiches.
+
+**Ce qui a été lu.** Office de tourisme de Dieppe (page des marchés, mise à jour du 28 septembre 2026), site de la Ville pour les marchés de quartier (pages lues par résumé, la page elle-même ne se charge pas ici), Régie du port de Dieppe (vente directe du pêcheur), registre des entreprises (API recherche-entreprises), BAN pour le géocodage.
+
+**Ce qui est solide, et pourquoi rien n'est publié.** Quatre commerces vérifiables à Dieppe, pas cinq :
+- marché du samedi, centre-ville (place Nationale, Grande Rue, rue Saint-Jacques, rue de la Barre), 8h30 à 13h : Ville et office concordants ;
+- petits marchés du mardi et du jeudi, place Nationale, 8h30 à 12h30 : office de tourisme ; une fiche de la Ville donne 7h30 pour l'occupation des emplacements ;
+- marché de Janval, mercredi, avenue Boucher de Perthes, 8h30 à 12h30 : Ville, lue par résumé ;
+- vente directe du pêcheur, quai Trudaine, selon arrivage : Régie du port (lieu et produits) ; horaires seulement par l'office (mardi à samedi, environ 7h30 à 13h) ; l'office cite aussi le quai Henri IV, la Régie ne cite que le quai Trudaine.
+
+**Écartée : Biocoop « Planète Bio » de Dieppe (ZAC du Val Druel).** Les annuaires en ligne donnent des horaires et un téléphone, mais le registre des entreprises classe l'établissement de Dieppe (SIRET se terminant par 041) **fermé** (état F). Les annuaires sont périmés : aucune fiche.
+
+**Un marché de Neuville-lès-Dieppe (place Henri-Dunant, jeudi)** : commune distincte, donc hors de la zone de Dieppe. Horaires contradictoires (Ville 8h30-12h30, office 9h-12h). Piste à ne traiter que dans le secteur de Neuville.
+
+**Pourquoi rien n'est publié.** Quatre fiches ne forment pas la zone de cinq (AGENT.md, règles 96 et 127). Une descente à la commune suivante par population est ouverte à la passe suivante (Le Petit-Quevilly, 22 208 habitants, déjà éprouvée dans des passes antérieures sans cinq commerces) ; à défaut, Fécamp.
+
+**Pistes non publiées (Seine-Maritime, Dieppe)** — lignes anonymes :
+- Dieppe, marché du samedi, centre-ville : fiche possible, quatre autres commerces nécessaires pour la zone.
+- Dieppe, petits marchés des mardi et jeudi, place Nationale : fiche possible, même condition.
+- Dieppe, marché de Janval, mercredi : fiche possible, produits non publiés par la Ville.
+- Dieppe, vente directe du pêcheur, quai Trudaine : fiche possible, horaires à confirmer auprès de la Régie.
+- Dieppe, magasin bio « Planète Bio » : fermé au registre (établissement SIRET ...041) ; ne pas republier sans nouvelle source.
+- Neuville-lès-Dieppe, marché du jeudi : hors commune Dieppe.
+
+**Photos.** Aucune photo de ces pistes n'a été déposée. Les images candidates (site de la Régie, photographie publiée par l'office de tourisme) montrent des foules dont des affiches portent des portraits : elles n'étaient pas utilisables sans recadrage et sans vérification des droits.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : horaires du marché de Neuville (Ville 8h30-12h30, office 9h-12h) ; lieu de la vente directe de poisson (quai Trudaine pour la Régie, quai Henri IV pour l'office). Rien retenu, consigné ici.
+
+**Constat de méthode.** Les passes récentes ne publient rien, pour la même raison : une commune sans cinq commerces entiers. Le verrou tient à la règle de la zone à cinq et au tissu de vente directe en ville. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
