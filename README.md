@@ -13663,6 +13663,28 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 14 octobre 2026 (Haut-Rhin, Saint-Louis lue, registre Agence Bio relu) : aucune publication
+
+Backlog : 0 nouvelle, 0 en cours. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (règle 177). Les deux passes précédentes visaient l'Occitanie (Haute-Garonne), région fermée pour cette passe (règle 41.c). Le déficit métropolitain le plus fort, hors Occitanie, est alors la Loire (42), puis la Seine-Maritime (76), puis le **Haut-Rhin (68)**, à environ 4,2. La Loire et la Seine-Maritime ont été éprouvées sans issue lors de passes récentes ; le Haut-Rhin est retenu.
+
+**Commune.** Mulhouse (fiches déjà publiées) et Colmar (fiches déjà publiées) sont écartées : la règle 41.d vise la commune la plus peuplée sans fiche, qui est **Saint-Louis** (22 805 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haut-Rhin, 300 opérateurs lus sur trois pages de cent. Filtré sur Saint-Louis, Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim, Cernay : à Saint-Louis, un grossiste et deux points de vente d'une grande enseigne (vente aux professionnels, non retenus) ; à Wittenheim et Illzach, des grandes surfaces généralistes (écartées, règle 4 de MODERATION.md) ; à Cernay et Riedisheim, des structures de vente aux consommateurs à noms de personnes ou sans produits exploitables, écartées sans lecture plus poussée. Aucun producteur ni magasin de producteurs exploitable à Saint-Louis.
+- Pas de source municipale ou d'office de tourisme retenue ce soir pour compléter le registre : aucun commerce ne réunit une source indépendante et une activité vérifiée.
+
+**Pourquoi rien n'est publié.** Saint-Louis ne rend aucun commerce de circuit court vérifiable ; la descente à la commune suivante par population (Wittenheim, puis Illzach et Rixheim) ne rend, dans le registre, que des grandes surfaces ou des distributeurs. Publier une fiche isolée irait contre la règle du groupement à cinq.
+
+**Pistes non publiées** : aucune nouvelle. Pour mémoire, Saint-Louis et Wittenheim, grandes surfaces et grossistes, écartées par le motif de catégorie.
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre Agence Bio à Cernay et Riedisheim, dont l'enseigne est un nom de personne ; non publiées, ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Haut-Rhin, passe suivante : descendre à Wittenheim (15 553 habitants) et Illzach (14 923) en sortant du seul registre — marchés de la Ville et fermes de vente directe des communes voisines (Riedisheim, Kingersheim). Ne pas revisiter la Loire ni la Seine-Maritime avant d'avoir épuisé une commune neuve du Haut-Rhin.
+
 ### Passe autonome du 14 octobre 2026 (Haute-Garonne, Blagnac reprise, registre Agence Bio relu) : aucune publication
 
 Backlog : 0 nouvelle, 0 en cours. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
