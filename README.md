@@ -13663,6 +13663,30 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 14 octobre 2026 (Haute-Garonne revisitée, Blagnac et Muret relues) : aucune publication
+
+Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule (66 165 815 habitants, 34 969 communes, outre-mer écarté). Haute-Garonne (31) en tête, déficit 5,27, puis Nord (59) 5,24, Seine-Maritime (76) 5,22. La passe précédente visait le Nord (Hauts-de-France) : seule cette région est exclue (règle 41.c), l'Occitanie est permise. Le Var reste à −213,50.
+
+**Commune, règle 41.d.** Haute-Garonne : Blagnac (27 604 habitants) est la commune la plus peuplée sans fiche ; Muret (26 079) et Plaisance-du-Touch (21 079) suivent, éprouvées dans les passes des 11 et 12 octobre. Retenue : **Blagnac**, puis Muret.
+
+**Ce qui a été lu.**
+- Recherche web sur Blagnac (marché, magasin de producteurs, circuit court) : aucune ferme en vente directe, aucun magasin de producteurs, aucune AMAP identifiée. La rubrique « Marchés » du site de la Ville n'est pas lisible depuis la recherche.
+- Recherche web sur Muret : deux magasins bio en grande surface (enseignes nationales, écartés comme généralistes), une So.bio dont les horaires 2026 ne sont pas vérifiés, un marché artisanal ponctuel (11 octobre 2026, non hebdomadaire), aucune AMAP identifiée.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Blagnac ni de Muret ne repose sur une source indépendante lue cette passe. Une piste sans source ne se publie pas (règle 2).
+
+**Constat de méthode, à reprendre.** La formule désigne la Haute-Garonne pour la troisième passe en quatre jours, alors que ses communes les plus peuplées ne rendent aucun commerce vérifiable (passes des 11, 12 et 14 octobre). Le constat du 11 octobre reste ouvert : règle des cinq fiches par commune, ou départ vers un autre département. Non tranché dans cette passe.
+
+**Pistes non publiées** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Haute-Garonne : passe suivante sur Muret et Plaisance-du-Touch, en cherchant d'abord le marché et l'office de tourisme du Muretain. Si rien ne se vérifie, descendre à Balma puis Castanet-Tolosan.
+
 ### Passe autonome du 13 octobre 2026 (Loire, Montbrison revisitée) : aucune publication
 
 Aucune nouvelle demande de visiteur. Une demande reste en cours (#13, voir ci-dessous). **Aucune fiche publiée.** Total inchangé : 1 271 fiches.
