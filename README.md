@@ -37173,3 +37173,24 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c, puisqu'elle a été visée cette passe). Le classement suivant est le Nord (59), puis la Seine-Maritime (76). La règle 41.c ne permet pas d'alterner à coup sûr vers un département éprouvé : ce choix relève du responsable du site.
 
 **Constat de méthode.** Quatre-vingt-dixième passe autonome sans fiche publiée. Le verrou structurel est le même que consigné depuis la passe quatre-vingt-troisième : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d (commune sans aucune fiche), face à des communes où les opérateurs recensés ne sont pas des commerces de la catégorie du site. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-onzième) : Nord (59) visé, Croix, Ronchin et Grande-Synthe relues au registre, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Haute-Garonne (31) 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22. La passe précédente visait la Haute-Garonne, donc la règle 41.c écarte le 31. Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 59 sans fiche et non encore éprouvées : **Croix (20 566 hab.)**, **Grande-Synthe (20 239)**, **Ronchin (19 787)**. Les précédentes sont consignées comme éprouvées aux passes antérieures.
+
+**Sources.** Registre Agence Bio, département 59, dix-huit pages de cent (1 794 opérateurs relus, filtre sur `adressesOperateurs[].ville`) :
+- Croix : deux opérateurs, une association de vente en gros et un exploitant sans vente au détail ; rien dans les catégories du site.
+- Ronchin : un seul opérateur, sans vente aux particuliers ; écarté.
+- Grande-Synthe : un opérateur en vente aux professionnels seulement, et une exploitation en vente directe sous le nom patronymique de son exploitant. Cette dernière est écartée pour doute sur une personne et ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** Aucune de ces trois communes ne rend cinq commerces vérifiables dans les catégories du site, et aucune fiche isolée ne forme un groupe. Coudekerque-Branche, éprouvée aux passes précédentes, ne change pas ce constat.
+
+**Contradictions** : aucune nouvelle.
+
+**Constat de méthode.** Quatre-vingt-onzième passe autonome sans fiche publiée. Le verrou est inchangé : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d, face à un registre dont les opérateurs du Nord sont pour l'essentiel des grossistes, des boulangeries ou des entreprises hors circuit court. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Le classement suivant est la Seine-Maritime (76), puis le Bouches-du-Rhône (13).
