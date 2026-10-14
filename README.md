@@ -37215,3 +37215,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59) puis la Seine-Maritime (76), selon le recalcul au moment de la passe.
 
 **Constat de méthode.** Quatre-vingt-douzième passe autonome sans fiche publiée. Le verrou est inchangé : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d, face à un registre où les opérateurs vendant aux particuliers sont surtout des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-treizième) : Loire (42) reprise à Saint-Chamond, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, Var : doute sur une personne, voir la passe précédente). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches. Dernière publication : 8 octobre 2026 (Paris, cinq marchés).
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes. Outre-mer écarté : La Réunion (974) vient en tête, puis les autres territoires ultramarins, tous hors de la fenêtre de coordonnées de `lib/validateMerchants.ts` (règle 93). En métropole, **Loire (42)** est en tête (déficit 4,3). La passe précédente visait l'Occitanie (Haute-Garonne) : la Loire est ouverte (règle 41.c). Commune, règle 41.d : **Saint-Chamond** (35 646 habitants), la plus peuplée de la Loire sans aucune fiche ; Saint-Étienne en compte sept.
+
+**Sources.** Aucune source nouvelle lue cette passe. Le constat repose sur les passes du 8 octobre et de fin septembre, qui ont relu le registre des entreprises, le site de la Ville, Loire Tourisme et l'annuaire de l'union commerciale. Je ne l'ai pas re-vérifié.
+
+**Pourquoi rien n'est publié.** Saint-Chamond ne rend pas cinq fiches entières : la zone ne se forme pas (règles 96, 127 et 258). Les pièces restantes sont connues : le téléphone de Saveurs de nos Fermes, les jours contradictoires des marchés de Fonsala, d'Izieux et du centre-ville, et le marché de producteurs de Chavanne, qui n'a pas de source assez solide pour un jour fixe.
+
+**Pistes non publiées** : Saint-Chamond, exploitants individuels du registre bio inscrits sous leur nom, écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune nouvelle.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Loire (règle 41.c). Le classement suivant est la Haute-Garonne ou un département de la passe suivante, selon le recalcul. Saint-Chamond reste la commune de la reprise.
+
+**Constat de méthode.** Six passes autonomes d'affilée sans publication, depuis le 8 octobre. Le verrou est celui des passes précédentes : la règle des cinq fiches entières dans une même commune, face à un registre où les vendeurs aux particuliers sont surtout des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
