@@ -13663,6 +13663,26 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 14 octobre 2026 (Haute-Garonne, Blagnac reprise, registre Agence Bio relu) : aucune publication
+
+Backlog : 0 nouvelle, 0 en cours. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Haute-Garonne (31) de nouveau en tête, pour la quatrième passe d'affilée. Le constat de méthode des passes du 11 au 14 octobre reste ouvert et n'est pas tranché ici.
+
+**Ce qui a été lu.**
+- **Registre de l'Agence Bio, département 31**, paginé en entier (1 100 opérateurs lus). Filtré sur Blagnac, Muret, Plaisance-du-Touch, Balma, Colomiers, Cugnaux, Cornebarrieu et Launaguet : aucune exploitation ni magasin de vente au public exploitable. Une boulangerie à Blagnac vend aussi aux professionnels et aux restaurants, et ne rentre pas dans les catégories du site. Les autres lignes sont des entreprises individuelles désignées par le nom de leur exploitant, écartées sans lecture plus poussée, ou des structures sans vente au public.
+- **Une enseigne de boucherie bio à Colomiers** porte un prénom dans son nom commercial. Doute sur une personne : écartée, rien n'est publié.
+
+**Pourquoi rien n'est publié.** Aucune commune de Haute-Garonne lue cette passe ne rend cinq commerces vérifiables sur une source indépendante. Publier une fiche isolée ne remplit pas l'objectif groupé.
+
+**Pistes non publiées** : Colomiers, boucherie bio (registre Agence Bio), motif : doute sur une personne dans le nom de l'enseigne.
+
+**Fiches écartées pour doute sur une personne** : une, à Colomiers (voir ci-dessus).
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Haute-Garonne, passe suivante : sortir du seul registre et chercher les marchés et fermes de vente directe des communes voisines, comme prévu dans la passe précédente. Le constat de méthode reste à trancher hors de cette passe.
+
 ### Passe autonome du 14 octobre 2026 (Haute-Garonne, Balma tentée après Muret et Plaisance-du-Touch) : aucune publication
 
 Backlog : 0 nouvelle, 1 en cours (#13, Var, déjà traitée à part). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
