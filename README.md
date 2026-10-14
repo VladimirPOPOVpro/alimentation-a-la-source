@@ -37025,3 +37025,15 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle reprend le classement : Haute-Garonne (31) de nouveau éligible, puis Seine-Maritime (76).
 
 **Constat de méthode.** Quatre-vingt-troisième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-quatrième) : Haute-Garonne (31) visée, zone à zéro, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Haute-Garonne (31) de nouveau éligible après le Nord (59) de la passe précédente. Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 41.d.** Registre Agence Bio, département 31 (cent opérateurs lus). Les communes les plus représentées (Toulouse, L'Union, Muret, Blagnac) ont été ou sont déjà traitées ; Toulouse et Colomiers ont déjà des fiches, donc hors règle 41.d. Aucune commune du 31 sans fiche ne rend cinq commerces vérifiables dans les catégories du site.
+
+**Pourquoi rien n'est publié.** Le même constat que les passes précédentes sur ce département : les opérateurs recensés sont des boulangeries, des enseignes de grande distribution ou des exploitations sans vente publique sourçable. Rien n'est publié à moitié.
+
+**Constat de méthode.** Quatre-vingt-quatrième passe autonome sans fiche publiée. La règle des cinq fiches entières dans une même commune, combinée à la règle 41.d (commune sans aucune fiche), n'a produit aucune publication depuis le début des passes automatisées. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
