@@ -13663,7 +13663,32 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
-### Passe autonome du 14 octobre 2026 (Haute-Garonne revisitée, Blagnac et Muret relues) : aucune publication
+### Passe autonome du 14 octobre 2026 (Haute-Garonne, Balma tentée après Muret et Plaisance-du-Touch) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (#13, Var, déjà traitée à part). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Haute-Garonne (31) de nouveau en tête, comme aux passes des 11, 12 et 14 octobre. Le « constat de méthode » de la passe précédente reste ouvert : aucune commune de ce département n'a encore rendu cinq commerces vérifiables.
+
+**Ce qui a été lu.**
+- **Muret.** Marché artisanal de l'été (28 août 2026, passé, artisans plutôt que producteurs) ; l'office de tourisme du Muretain annonce une quarantaine de producteurs qui ouvrent leurs portes sur visite, sans magasin ni marché publié. Aucune fiche.
+- **Plaisance-du-Touch.** Aucun marché ni point de vente à la ferme identifié dans la commune. Les résultats de recherche sont des producteurs situés à 11 à 41 km. Aucune fiche.
+- **Balma.** Source officielle lue : la rubrique « Marché de plein vent » du site de la mairie liste deux marchés au même endroit (avenue des Mimosas) : un marché de plein vent le mardi et le samedi, et un marché bio le samedi matin, une dizaine de producteurs certifiés. Les horaires de la page se contredisent (mercredi et samedi de 8 h à 12 h sur l'une des lignes, mardi selon la présentation). L'annuaire « Commerces & entreprises » de la mairie répond 404 : aucun autre commerce vérifiable.
+- **Fermes de Haute-Garonne**, trouvées par Bienvenue à la ferme : Cadours, Vallesvilles, Saint-Plancard. Ce sont d'autres communes, elles ne comptent pas pour une fiche de Balma.
+
+**Pourquoi rien n'est publié.** Balma ne rend qu'une source officielle, pour deux marchés qui ne forment qu'un seul point de vente (règle 7), avec un horaire contredit et aucune photo prise sur le lieu. Une fiche isolée ne remplit pas l'objectif de cinq fiches groupées sur une commune ; l'ajouter maintenant éclaterait la passe sans rendre la commune utilisable.
+
+**Ce que la prochaine passe doit faire sur Balma.**
+- Confirmer l'horaire du marché de plein vent auprès de la mairie (règle 5 : publier la fiche avec `a_confirmer`, consigner la contradiction).
+- Trouver deux ou trois commerces alimentaires locaux vérifiables (magasin de producteurs, épicerie bio indépendante, ferme) avant d'ouvrir la commune.
+- Photo : site de la mairie (og:image) ou photo thématique honnête, réservée comme en règle 1.
+
+**Pistes non publiées** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : horaires du marché de plein vent de Balma, consignés ci-dessus, non tranchés.
+
+**Point d'arrêt.** Balma, pour la passe suivante. Si la commune ne rend pas cinq commerces vérifiables, descendre à Castanet-Tolosan puis à Colomiers, et le dire dans le compte rendu.
 
 Aucune demande de visiteur (backlog : 0 nouvelle, 0 en cours), aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
 
