@@ -37155,3 +37155,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle reprend le classement : Haute-Garonne (31) de nouveau éligible, puis Seine-Maritime (76).
 
 **Constat de méthode.** Quatre-vingt-neuvième passe autonome sans fiche publiée. Le verrou est le même que consigné depuis la passe quatre-vingt-troisième : la règle des cinq fiches entières dans une même commune, face à une base de communes sans commerce vérifiable dans les catégories du site. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-dixième) : Haute-Garonne (31) revisitée, communes déjà éprouvées, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Haute-Garonne (31) 5,27 ; Nord (59) 5,24 ; Seine-Maritime (76) 5,22. La passe précédente visait le Nord, donc la règle 41.c ne l'écarte pas. Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 31 sans fiche : Blagnac (27 604 hab.), Muret (26 079), Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes, L'Union, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel, Aucamville. Toutes sont déjà consignées comme éprouvées à zéro, aux passes précédentes.
+
+**Sources.** Aucune source nouvelle n'a été ouverte cette passe : les notes antérieures établissent que le registre Agence Bio du 31 (plus de mille opérateurs lus) et les sites des communes concernées ne donnent pas de commerce vérifiable hors catégories du site. Refaire la même recherche ne produirait pas de fait nouveau.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 sans fiche ne rend cinq commerces vérifiables dans les catégories du site. Rien n'est publié à moitié.
+
+**Contradictions** : aucune nouvelle.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c, puisqu'elle a été visée cette passe). Le classement suivant est le Nord (59), puis la Seine-Maritime (76). La règle 41.c ne permet pas d'alterner à coup sûr vers un département éprouvé : ce choix relève du responsable du site.
+
+**Constat de méthode.** Quatre-vingt-dixième passe autonome sans fiche publiée. Le verrou structurel est le même que consigné depuis la passe quatre-vingt-troisième : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d (commune sans aucune fiche), face à des communes où les opérateurs recensés ne sont pas des commerces de la catégorie du site. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
