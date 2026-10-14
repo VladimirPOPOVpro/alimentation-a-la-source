@@ -37330,3 +37330,23 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Constat de méthode.** Huit passes autonomes d'affilée sans publication. Le verrou reste la règle des cinq fiches entières dans une même commune, face à un registre où les vendeurs aux particuliers sont surtout des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur la Loire (règle 41.c). Elle commence par le classement (Seine-Maritime, si elle est désignée), puis Dieppe si le calcul la retient.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-dix-septième) : Loire (42) reprise, Saint-Chamond sondé une nouvelle fois, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, Var : doute sur une personne ; rien n'est publié, aucun message n'est envoyé). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes, dénominateur outre-mer compris (règle 224), numérateur métropole seule (règle 93). Résultat : **Loire (42), 4,27** ; Seine-Maritime (76), 4,24 ; Haut-Rhin (68) et Gard (30), 4,21 ; Haute-Garonne (31), 4,12. La passe précédente étant la Seine-Maritime et non la Loire, la règle 41.c ne ferme pas la Loire. La Loire revient donc en tête, conformément à la formule.
+
+**Écart consigné.** La passe précédente annonçait Nord (5,24) et Haute-Garonne (5,27) en tête. Ces valeurs ne se reproduisent pas avec le dénominateur de la règle 224 : le Nord n'apparaît pas dans les huit premiers rangs. Je n'ai pas modifié la formule ; le classement ci-dessus est celui qu'elle donne aujourd'hui.
+
+**Commune, règle 41.d.** Saint-Chamond (35 646 habitants), déjà éprouvée lors de la passe 96. Une recherche web ne rend qu'un seul magasin de producteurs : « Saveurs de nos fermes », 23 avenue Jules Ferry, enseigne active au registre, horaires et produits relevés sur Que Choisir (source secondaire, non vérifiée sur le site du commerce). Aucun marché de producteurs ni aucune ferme en vente directe n'est sourcé dans la commune. Un commerce vérifiable sur cinq exigés : la règle des cinq fiches entières n'est pas atteinte.
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre bio de la commune, noms de personnes en nom commercial, déjà écartées (règle 309), non rouvertes.
+
+**Pistes non publiées** (anonymes) : Saint-Chamond, magasin de producteurs à une seule fiche solide, déjà consigné ; marchés de la commune, jours contradictoires, déjà consignés. **Déblocage inchangé** : quatre autres commerces entiers dans la commune.
+
+**Contradictions** (règle 5) : aucune nouvelle.
+
+**Point d'arrêt.** La descente de la règle 41.d sur la Loire (Saint-Chamond, puis Roanne) n'a pas abouti. La passe suivante, si la Loire est encore en tête, passe à la commune suivante par population sans fiche, en respectant la borne de douze communes de la règle 247.
+
+**Constat de méthode.** Neuf passes autonomes d'affilée sans publication. Le verrou reste la règle des cinq fiches entières dans une même commune. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
