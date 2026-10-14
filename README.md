@@ -37379,3 +37379,23 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est Gard (30) ou Haut-Rhin (68), selon le recalcul. Dieppe reste en réserve.
 
 **Constat de méthode.** Passes autonomes sans publication depuis le 8 octobre, Dieppe reprise à plusieurs reprises. Le verrou est la règle des cinq fiches entières dans une même commune, face à un tissu de vente directe très mince en ville. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-quatorzième) : Bouches-du-Rhône (13) visé, Istres puis Salon-de-Provence sondées, aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part, inchangée). Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul métropole seule : Haute-Garonne 5,27 (passes récentes, écartée), Nord 5,24 (éprouvé en totalité), Seine-Maritime 5,22 (passe précédente, écartée), **Bouches-du-Rhône 5,10**. Le Gard et l'Occitanie sont fermés (passe 78 et suivantes). Le 13 est donc visé.
+
+**Commune, règle 41.d.** Marseille (886 040 hab.) porte déjà des fiches (arrondissements 130xx) : non éligible. La plus peuplée sans fiche est **Istres (44 292 hab.)**, puis Salon-de-Provence (44 194).
+
+**Istres.** Registre de l'Agence Bio, 200 opérateurs du 13 lus (pagination partielle) : deux entrées de vente aux particuliers dans les communes voisines, dont une association d'insertion, aucune producteur à Istres. Recherche web : un marché de producteurs à Entressen (quartier d'Istres) le vendredi soir, dont les pages d'agenda indiquent la saison 2025 comme terminée (reprise en 2026 non confirmée) ; le marché du centre-ville le mardi matin est généraliste (non retenu) ; « L'Instant Provençal », samedi matin du 6 juin au 26 septembre, sans horaire précis trouvé. **Zéro fiche de producteur vérifiée**, et l'office de tourisme n'a pas été lu directement.
+
+**Salon-de-Provence.** Recherche web, sources d'agenda seulement (provence-alpes-cotedazur.com, myprovence.fr) : marché dominical place du Général-de-Gaulle (7 h à 13 h), grand marché du mercredi (7 h à 13 h, fiche datée de 2022), petit marché des Bressons (samedi, 7 h à 13 h), petit marché des Canourgues (vendredi, 7 h à 13 h), marché bio du samedi place Saint-Michel. **Contradiction** non tranchée sur le marché bio : 8 h à 12 h 30 selon la description, « 19 h à 19 h 30, dates à confirmer » selon la fiche. Le Salon des Agricultures de Provence (domaine du Merle) est annuel et ponctuel. Aucune source officielle de la Ville ni de l'office de tourisme n'a été lue dans cette passe : les horaires viennent d'agendas tiers, donc pas assez pour cinq fiches entières (règle 5 : la source d'horaires doit être la Ville ou l'office).
+
+**Pourquoi rien n'est publié.** Istres ne rend aucun producteur vérifié ; Salon rend cinq marchés, mais leurs horaires ne sont sourcés que par des agendas, dont l'un se contredit, et aucune page de la Ville ni de l'office n'a été relue. Une fiche de marché sans horaire officiel ne se publie pas.
+
+**Pistes non publiées** (anonymes) : Istres, marché de producteurs d'Entressen, saison 2026 à confirmer auprès de la Ville. Salon-de-Provence, cinq marchés hebdomadaires, horaires à établir auprès de la Ville ou de l'office ; marché bio du samedi, horaire contradictoire.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Bouches-du-Rhône (règle 41.c). Le classement suivant est l'Isère (38), puis la Loire (42) et la Seine-Maritime, sous réserve des communes déjà éprouvées. Salon-de-Provence reste en tête des pistes du 13 : une lecture directe du site de la Ville (rubrique marchés) ou de l'office la rendrait publiable.
