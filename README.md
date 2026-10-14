@@ -37134,3 +37134,24 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Le classement suivant est la Haute-Garonne, puis la Seine-Maritime, selon le recalcul au moment de la passe.
 
 **Constat de méthode.** Quatre-vingt-cinquième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-neuvième) : Nord (59) visé, Faches-Thumesnil éprouvée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Haute-Garonne (31) 5,27 ; Nord (59) 5,25 ; Seine-Maritime (76) 5,22. La passe précédente visait la Haute-Garonne, donc la règle 41.c écarte celle-ci. Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 59 sans fiche et non encore éprouvées : **Faches-Thumesnil (18 619 hab.)**. Les précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières, La Madeleine, Mons-en-Barœul, Wasquehal, Halluin, Denain, Coudekerque-Branche, Grande-Synthe, Ronchin) sont déjà consignées.
+
+**Sources.** Registre Agence Bio, département 59, dix-huit pages de cent (1 794 opérateurs lus). À Faches-Thumesnil, deux opérateurs vendent aux particuliers, et les autres entrées sont des préparateurs, grossistes ou restaurants. Recherche web non menée à cette passe : le registre seul ne donne pas cinq commerces, et la passe n'a pas cherché plus loin.
+
+**Pourquoi rien n'est publié.** Faches-Thumesnil ne rend pas cinq commerces vérifiables dans les catégories du site. Rien n'est publié à moitié.
+
+**Pistes non publiées** (anonymes) :
+- Nord, Faches-Thumesnil : deux opérateurs de vente directe, non instruits au-delà du registre ; le second est une exploitation sous nom patronymique, écartée pour doute sur une personne, ne se rouvre pas.
+
+**Contradictions** : aucune.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle reprend le classement : Haute-Garonne (31) de nouveau éligible, puis Seine-Maritime (76).
+
+**Constat de méthode.** Quatre-vingt-neuvième passe autonome sans fiche publiée. Le verrou est le même que consigné depuis la passe quatre-vingt-troisième : la règle des cinq fiches entières dans une même commune, face à une base de communes sans commerce vérifiable dans les catégories du site. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
