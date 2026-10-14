@@ -37464,3 +37464,28 @@ Backlog : 0 nouvelle, 0 en cours. Aucune fiche publiée, aucune retirée. Total 
 **Contradictions** (règle 5) : horaires du marché de Neuville (Ville 8h30-12h30, office 9h-12h) ; lieu de la vente directe de poisson (quai Trudaine pour la Régie, quai Henri IV pour l'office). Rien retenu, consigné ici.
 
 **Constat de méthode.** Les passes récentes ne publient rien, pour la même raison : une commune sans cinq commerces entiers. Le verrou tient à la règle de la zone à cinq et au tissu de vente directe en ville. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+### Passe autonome du 15 octobre 2026 : Loire (42) désignée, Montbrison et Firminy sondées, aucune publication
+
+Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule, recalcul sur 1 271 fiches : Loire (42) en tête, devant la Seine-Maritime, qui a été visée la passe précédente. La règle 41.c (deux passes de suite, même région) n'est donc pas en cause. **Loire désignée.**
+
+**Commune, règle 41.d.** Saint-Chamond et Roanne ont déjà été éprouvées (passes précédentes, sans cinq commerces). Commune suivante par population sans fiche : **Firminy** (17 060 habitants), puis **Montbrison** (16 123 habitants).
+
+**Ce qui a été lu** (recherche web, standard) : pour Firminy, le marché alimentaire de la Ville (plus de quarante commerçants, dont beaucoup ne sont pas producteurs, horaires d'un agenda d'événements aux dates incohérentes), aucune ferme ni point de vente à la ferme identifié. Pour Montbrison, le marché du samedi (brochure municipale de 2022, à confirmer) et le marché de Moingt du mercredi (même brochure) ; une seule source de producteur, La Grange des Paysans (Que Choisir, horaires d'annuaire, rayon généraliste : fruits, légumes, viandes, épicerie).
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables. Une fiche isolée à Montbrison n'a pas de sens : la zone à cinq fiches entières est la règle. La Grange des Paysans n'est pas inscrite : son assortiment est celui d'une épicerie, sans producteurs identifiés, et ses horaires ne viennent que d'un annuaire (règle 29 par analogie).
+
+**Pistes non publiées (Loire)** — lignes anonymes :
+- Firminy, marché alimentaire de la place du Marché : producteurs à identifier stand par stand, horaires à confirmer auprès de la mairie.
+- Montbrison, magasin de type épicerie de producteurs (avenue de Saint-Étienne) : assortiment généraliste, pas de producteur identifié ; à réexaminer seulement si la source change.
+- Montbrison, marché du samedi et marché de Moingt : fiches possibles, horaires de 2022 à confirmer auprès de la mairie.
+
+**Demande n° 13 (Villecroze, producteur, « Chez serge ») : reste en cours, rien publié.** Le nom de l'enseigne ressemble au prénom d'une personne et l'adresse de contact transmise est privée ; le doute porte sur une personne, la fiche n'est donc pas publiée et aucune réponse n'est envoyée. Aucune donnée de contact n'est reportée ici.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Villecroze, demande n° 13).
+
+**Contradictions** (règle 5) : horaires du marché de Firminy (agenda d'événements et site de la Ville non concordants) ; horaires du marché de Montbrison (brochure de 2022 contre annuaire). Rien retenu, consigné ici.
+
+**Constat de méthode.** La Loire est la troisième région consécutive où la commune suivante par population ne rend pas cinq commerces. Le verrou reste la règle de la zone à cinq, pas la recherche. La décision de la règle 247 (borne de douze communes) arrive à son terme sur ce secteur ; elle relève du responsable du site et n'est pas modifiée ici.
