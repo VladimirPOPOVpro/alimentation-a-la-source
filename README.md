@@ -37350,3 +37350,32 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Point d'arrêt.** La descente de la règle 41.d sur la Loire (Saint-Chamond, puis Roanne) n'a pas abouti. La passe suivante, si la Loire est encore en tête, passe à la commune suivante par population sans fiche, en respectant la borne de douze communes de la règle 247.
 
 **Constat de méthode.** Neuf passes autonomes d'affilée sans publication. Le verrou reste la règle des cinq fiches entières dans une même commune. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-dix-huitième) : Seine-Maritime (76) désignée, Dieppe reprise, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, Var : enseigne ressemblant à un prénom et contact personnel, doute sur une personne ; rien n'est publié, aucun message n'est envoyé). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole au numérateur, 34 969 communes au dénominateur (règles 93 et 224). La Loire (42, 4,27) est exclue : c'était la passe précédente (règle 41.c). Seine-Maritime (76) en tête, 4,24, devant le Gard et le Haut-Rhin.
+
+**Commune, règle 41.d.** Dieppe (28 496 habitants), la plus peuplée du 76 sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime complète (1 004 opérateurs, pagination par cent) : à Dieppe, aucun point de vente aux particuliers actif en producteur ; les entrées sont des distributeurs, des préparateurs ou des entreprises de vente en gros.
+- Office de tourisme (« marchés », version anglaise et française) : marché alimentaire du samedi matin en centre-ville, avec des producteurs régionaux parmi les étals, sans liste d'exploitants ni horaire par étal. Une fiche de marché isolée, qui compte pour une seule fiche (règle 127).
+- Que Choisir, carte des circuits courts, et site de la coopérative : l'épicerie participative de Dieppe, avec horaires et produits relevés. Une fiche solide, mais une coopérative d'achat de consommateurs, dont la nature d'entreprise (règle 6) n'a pas été vérifiée au registre.
+- Recherche web : aucun autre magasin de producteurs ni ferme en vente directe dans la commune ; les annuaires ne donnent que l'arrière-pays.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables dans une même commune (règles 96 et 127). Une fiche isolée, ou deux, ne forment pas la zone utilisable : rien ne se publie seul.
+
+**Pistes non publiées (Seine-Maritime, Dieppe)** — lignes anonymes :
+- Marché du samedi matin (office de tourisme) : une fiche possible, horaires à confirmer sur la page de l'office. **Déblocage** : quatre autres commerces vérifiés dans Dieppe.
+- Épicerie participative, rue du Cœur couronné : fiche solide sur les faits relevés, nature juridique à vérifier. **Déblocage** : registre ou statut confirmé, et quatre autres commerces.
+- Producteurs de la place du Puits-Salé (cités par l'office sans nom) : aucun exploitant identifié dans une source sans nom de personne. **Déblocage** : une fiche publiée par son commerce.
+
+**Contradictions** (règle 5) : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est Gard (30) ou Haut-Rhin (68), selon le recalcul. Dieppe reste en réserve.
+
+**Constat de méthode.** Passes autonomes sans publication depuis le 8 octobre, Dieppe reprise à plusieurs reprises. Le verrou est la règle des cinq fiches entières dans une même commune, face à un tissu de vente directe très mince en ville. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
