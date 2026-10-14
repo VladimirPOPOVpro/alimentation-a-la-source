@@ -13663,6 +13663,28 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 14 octobre 2026 (Haute-Garonne, Blagnac et Muret relues par recherche web) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part). Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. Le Haut-Rhin, région de la passe précédente, est exclu (règle 41.c). Haute-Garonne (31) reste en tête du déficit métropolitain, à environ 5,3.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) puis Muret (26 079) sont les deux plus peuplées sans fiche. Les deux ont été lues.
+
+**Ce qui a été lu.**
+- Blagnac : la page « Circuits courts » du site de la Ville est en ligne mais son contenu n'a pas pu être extrait ; la recherche web ne donne que des annuaires anciens ou des marchés à confirmer, sans source municipale lisible. Une ferme maraîchère bio et une association de paniers (AMAP) apparaissent dans les annuaires, à vérifier, aucune n'est retenue.
+- Muret : l'office de tourisme du Muretain publie une liste de producteurs. Plusieurs entrées portent un nom de personne (exploitant ou gérant) comme nom commercial ; elles sont écartées pour doute sur une personne et ne se rouvrent pas. D'autres entrées sont des fermes situées hors de Muret même (adresses de communes voisines, à confirmer), et plusieurs ne portent qu'un téléphone personnel : aucune n'est retenue. Le marché hebdomadaire du mardi et du samedi est attesté par trois sources, mais il s'agit d'un marché de plein vent généraliste, et les horaires divergent selon les sites.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source indépendante lue cette passe. La piste la plus solide, le marché de plein vent de Muret, n'est pas une fiche de producteur et n'est pas groupée avec cinq commerces.
+
+**Fiches écartées pour doute sur une personne** : deux entrées de la liste de producteurs de Muret (noms de personnes en nom commercial), non publiées, ne se rouvrent pas.
+
+**Pistes non publiées** : Muret, deux entrées ci-dessus (motif : nom de personne).
+
+**Contradictions** (règle 5) : horaires du marché de Muret (mardi et samedi, 7 h à 13 h selon les sites, 8 h à 12 h 45 selon un autre) : consignés, non tranchés.
+
+**Point d'arrêt.** Blagnac : lire la rubrique « Marchés » et « Commerces » du site de la Ville en direct, avant tout annuaire. Muret : confirmer les adresses des fermes par la commune de leur siège. Si rien ne se vérifie, passer à Plaisance-du-Touch, puis Balma.
+
 ### Passe autonome du 14 octobre 2026 (Haut-Rhin, Saint-Louis lue, registre Agence Bio relu) : aucune publication
 
 Backlog : 0 nouvelle, 0 en cours. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
