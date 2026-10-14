@@ -36999,3 +36999,29 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Elle reprend le classement : Nord (59) puis Seine-Maritime (76).
 
 **Constat de méthode.** Quatre-vingt-deuxième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-troisième) : Nord (59) visé, Wattrelos éprouvée, zone non formée à cinq, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2 ; Rhône (69) et Isère (38) sous 5,1. La Haute-Garonne est exclue par la règle 41.c (visée à la passe précédente). Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 59 sans fiche est **Wattrelos (40 847 hab.)**, puis Marcq-en-Barœul, Cambrai, Lambersart, Armentières.
+
+**Sources.**
+- Registre Agence Bio, département 59, dix pages de cent (1 000 opérateurs lus). À Wattrelos, un seul opérateur vend aux particuliers, et il s'agit d'une entreprise individuelle sous nom patronymique : écarté pour doute sur une personne, non nommé, ne se rouvre pas. Marcq-en-Barœul : des opérateurs sans vente publique sourçable, ou des enseignes de grande distribution.
+- Lambersart : une boulangerie bio (hors des six catégories du site), deux enseignes de proximité et un opérateur sous nom patronymique. Vérifié au web : la boulangerie a un site officiel mais ne rentre pas dans le schéma.
+- Coudekerque-Branche : un magasin bio d'enseigne coopérative (horaires vérifiés au site du magasin) et une structure de vente directe non sourcée ; pas cinq fiches.
+- Ronchin, Grande-Synthe : un opérateur chacun, non sourcé au web dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune du 59 retenue ne rend cinq commerces vérifiables dans les catégories du site. Descendre la liste par population (Armentières, Lambersart) ne change rien : les opérateurs y sont des boulangeries, des enseignes de grande distribution ou des exploitations sous nom patronymique. Rien n'est publié à moitié.
+
+**Pistes non publiées** :
+- Nord, Wattrelos : une exploitation en entreprise individuelle sous nom patronymique. Écartée pour doute sur une personne, ne se rouvre pas.
+- Nord, Coudekerque-Branche : un magasin bio de réseau coopératif, en attente de deux autres fiches comparables pour former une zone.
+
+**Contradictions** : deux annuaires donnent des horaires différents pour le magasin de Coudekerque-Branche ; le site officiel du magasin a été retenu, sans publication.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Elle reprend le classement : Haute-Garonne (31) de nouveau éligible, puis Seine-Maritime (76).
+
+**Constat de méthode.** Quatre-vingt-troisième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
