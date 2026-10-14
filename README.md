@@ -37482,7 +37482,7 @@ Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publ
 - Montbrison, magasin de type épicerie de producteurs (avenue de Saint-Étienne) : assortiment généraliste, pas de producteur identifié ; à réexaminer seulement si la source change.
 - Montbrison, marché du samedi et marché de Moingt : fiches possibles, horaires de 2022 à confirmer auprès de la mairie.
 
-**Demande n° 13 (Villecroze, producteur, « Chez serge ») : reste en cours, rien publié.** Le nom de l'enseigne ressemble au prénom d'une personne et l'adresse de contact transmise est privée ; le doute porte sur une personne, la fiche n'est donc pas publiée et aucune réponse n'est envoyée. Aucune donnée de contact n'est reportée ici.
+**Demande n° 13 (Villecroze, producteur) : reste en cours, rien publié.** Le nom de l'enseigne ressemble au prénom d'une personne et l'adresse de contact transmise est privée ; le doute porte sur une personne, la fiche n'est donc pas publiée et aucune réponse n'est envoyée. Aucune donnée de contact n'est reportée ici.
 
 **Fiches écartées pour doute sur une personne** : une cette passe (Villecroze, demande n° 13).
 
