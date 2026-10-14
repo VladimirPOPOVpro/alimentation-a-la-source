@@ -13663,6 +13663,29 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 14 octobre 2026 (Seine-Maritime sondée à tort, Dieppe et Fécamp relues) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part, inchangée). Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul métropole seule : Haute-Garonne 5,27 (écartée, passe précédente), **Nord 5,24**, Seine-Maritime 5,22. La règle 41.c ne ferme que l'Occitanie ; le Nord était donc le département à viser, et sa commune est Wattrelos (40 847 habitants, déjà éprouvée à zéro lors de nombreuses passes).
+
+**Écart à la formule, à signaler.** Cette passe a sondé la Seine-Maritime (76), qui est au troisième rang et non au premier. C'est une erreur de sélection, pas un choix de fond : elle n'ouvre aucune règle et n'en ferme aucune. Le Nord reste la prochaine cible selon la formule.
+
+**Ce qui a été lu (recherche web, sources d'agrégateurs et sites de communes).**
+- Dieppe : la Ville publie ses marchés (samedi centre-ville 8 h 30 à 13 h pour l'alimentaire ; petit marché mardi et jeudi matin ; quartier de Janval le mercredi). Ce sont des marchés, et il n'existe à Dieppe aucune fiche de producteur vérifiée sur une source indépendante. Les producteurs cités par les annuaires sont à Saint-Martin-en-Campagne, Belmesnil ou Mesnières-en-Bray, hors de la commune : ils ne comptent pas pour la commune.
+- Fécamp : un marché le samedi de 7 h 30 à 13 h (une seule source, un annuaire) ; les producteurs listés sont hors commune ou sans adresse vérifiée.
+- Montivilliers et Elbeuf : annuaires seulement, sans adresse de commerce vérifiée dans la commune.
+
+**Pourquoi rien n'est publié.** Aucune des communes lues ne rend cinq commerces vérifiables dans la commune même, sur une source indépendante. Une fiche de marché isolée ne remplit pas l'objectif groupé.
+
+**Pistes non publiées** (anonymes) : Dieppe, marchés publiés par la Ville, heures à confirmer ; aucune fiche de commerce. Fécamp, un éleveur et une vente à la ferme les vendredis, adresse hors commune à vérifier.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : horaires du samedi à Dieppe selon les sources (7 h 30 à 18 h dans une base, 8 h 30 à 13 h selon la Ville) : consignés, non tranchés. La Ville fait foi.
+
+**Point d'arrêt.** Passe suivante : Nord (59), Wattrelos reprise en dernier recours seulement, puis Marcq-en-Barœul, Lambersart et Armentières selon la formule. Dieppe et Fécamp ne sont pas à reprendre tant qu'une source de producteurs dans la commune n'existe pas.
+
 ### Passe autonome du 14 octobre 2026 (Haute-Garonne, Blagnac et Muret relues par recherche web) : aucune publication
 
 Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part). Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
