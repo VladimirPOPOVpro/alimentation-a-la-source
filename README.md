@@ -37037,3 +37037,31 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Pourquoi rien n'est publié.** Le même constat que les passes précédentes sur ce département : les opérateurs recensés sont des boulangeries, des enseignes de grande distribution ou des exploitations sans vente publique sourçable. Rien n'est publié à moitié.
 
 **Constat de méthode.** Quatre-vingt-quatrième passe autonome sans fiche publiée. La règle des cinq fiches entières dans une même commune, combinée à la règle 41.d (commune sans aucune fiche), n'a produit aucune publication depuis le début des passes automatisées. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-cinquième) : Nord (59) revisité, La Madeleine et Wasquehal éprouvées, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule : Nord (59) 5,4 ; Haute-Garonne (31) 5,4 ; Seine-Maritime (76) 5,3. La passe précédente visait la Haute-Garonne, donc la règle 41.c écarte celle-ci ; le Nord est éligible de nouveau. Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 59 sans fiche, dans l'ordre : Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières (toutes éprouvées aux passes précédentes), puis **La Madeleine (21 790 hab.)**, **Mons-en-Barœul (21 105)** et **Wasquehal (20 726)** à reprendre ici.
+
+**Sources.**
+- Registre Agence Bio, département 59, dix-huit pages de cent (1 794 opérateurs lus). Pour La Madeleine, Mons-en-Barœul, Wasquehal, Halluin et Denain : enseignes de grande distribution, grossistes, boulangeries, et deux entrées de vente directe sous nom patronymique.
+- Registre des entreprises : **Bio C'Bon Wasquehal** et **NaturéO Wasquehal** sont cessés (établissements fermés), donc exclus (règle 6). Ne se publient pas.
+- La Madeleine : recherche web sans marché de plein air ni producteur sourçable ; seule enseigne de proximité (Market) et un supermarché.
+- Halluin : une AMAP de la Lys (site officiel `amapdelalys.org`) est référencée au registre sous le nom d'une personne physique ; le point de distribution et les jours n'ont pas pu être lus cette passe. Non publiée.
+
+**Pourquoi rien n'est publié.** Wasquehal, La Madeleine et Mons-en-Barœul ne rendent aucun commerce vérifiable dans les catégories du site. Une seule fiche valable (un magasin de vrac de Wasquehal, en activité) ne suffit pas à former un groupe de cinq, et son instruction reste à faire. Rien n'est publié à moitié.
+
+**Pistes non publiées** (anonymes) :
+- Mons-en-Barœul : une ferme en vente directe sous le nom patronymique de son exploitant. Écartée pour doute sur une personne, ne se rouvre pas.
+- Halluin : une AMAP du bassin de la Lys référencée sous nom patronymique, point de distribution non lu. En attente d'une lecture du site de l'association.
+- Wasquehal : un magasin de vrac actif au registre, dont le nom au registre comporte un patronyme. Non instruit à cette passe.
+- Denain : deux magasins de vente en gros et une exploitation sous nom patronymique. Hors catégories du site ou écartés.
+
+**Contradictions** : aucune nouvelle.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Le classement suivant est la Haute-Garonne, puis la Seine-Maritime, selon le recalcul au moment de la passe.
+
+**Constat de méthode.** Quatre-vingt-cinquième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
