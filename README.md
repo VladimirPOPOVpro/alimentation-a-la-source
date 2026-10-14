@@ -37194,3 +37194,24 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Constat de méthode.** Quatre-vingt-onzième passe autonome sans fiche publiée. Le verrou est inchangé : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d, face à un registre dont les opérateurs du Nord sont pour l'essentiel des grossistes, des boulangeries ou des entreprises hors circuit court. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). Le classement suivant est la Seine-Maritime (76), puis le Bouches-du-Rhône (13).
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-douzième) : Haute-Garonne (31) revisitée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, Var : doute sur une personne, voir la passe précédente). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Classement repris de la passe quatre-vingt-onzième, non recalculé cette fois : Haute-Garonne (31) en tête, Nord (59) venant d'être visité, donc le 31 est éligible. Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 31 sans fiche, déjà consignées comme éprouvées : Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes, L'Union, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne, Revel, Aucamville.
+
+**Sources.** Registre Agence Bio, département 31, quatre premières pages de cent relues (400 opérateurs). Les entrées en vente aux particuliers y sont, pour la plupart, des entreprises individuelles sous nom patronymique (écartées pour doute sur une personne, non nommées, ne se rouvrent pas) ou des grossistes et des enseignes de grande distribution. Aucune entrée ne se rattache, dans les communes ci-dessus, à une enseigne vérifiable hors de ces catégories. Aucune recherche web n'a été ouverte cette passe : le constat est celui des passes précédentes.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 sans fiche ne rend cinq commerces vérifiables dans les catégories du site. Rien n'est publié à moitié.
+
+**Pistes non publiées** (anonymes) :
+- Haute-Garonne, plusieurs vendeurs au domicile ou en entreprise individuelle : écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Contradictions** : aucune nouvelle.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59) puis la Seine-Maritime (76), selon le recalcul au moment de la passe.
+
+**Constat de méthode.** Quatre-vingt-douzième passe autonome sans fiche publiée. Le verrou est inchangé : la règle des cinq fiches entières dans une même commune, combinée à la règle 41.d, face à un registre où les opérateurs vendant aux particuliers sont surtout des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
