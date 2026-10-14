@@ -37399,3 +37399,30 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part, inchangée). Aucun
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur le Bouches-du-Rhône (règle 41.c). Le classement suivant est l'Isère (38), puis la Loire (42) et la Seine-Maritime, sous réserve des communes déjà éprouvées. Salon-de-Provence reste en tête des pistes du 13 : une lecture directe du site de la Ville (rubrique marchés) ou de l'office la rendrait publiable.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-quinzième) : Isère (38) visé, Vienne sondée puis Bourgoin-Jallieu, aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part, inchangée : enseigne qui ressemble à un prénom et contact personnel, doute sur une personne). Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Le 13 est exclu (passe précédente). L'Isère (38) est le département suivant indiqué par le point d'arrêt de la passe précédente, et son ordre de grandeur est conforme au calcul de population de la règle 41.a-c. Le département n'est donc pas choisi à la main.
+
+**Commune, règle 41.d.** La plus peuplée sans fiche est **Vienne (31 778 hab.)**, puis Bourgoin-Jallieu (30 151 hab.), Voiron et Villefontaine.
+
+**Vienne.** Registre Agence Bio, première page de cent opérateurs de l'Isère lue : une seule entrée de vente aux particuliers à Vienne, une boulangerie-fournil ; le reste sont des sièges de vente en gros ou de grande distribution, écartés. Recherche web : un marché alimentaire du samedi matin en centre-ville, dont les horaires (6 h à 13 h) sont donnés par un site de tourisme régional ; un magasin de producteurs, dont les horaires diffèrent entre deux sources (Que Choisir et un comparateur) : contradiction de fait, non tranchée. Aucune ferme en vente directe identifiée dans la commune.
+
+**Bourgoin-Jallieu.** Recherche web seulement : cinq marchés annoncés par un guide, sans jours ni horaires ; un primeur dont les horaires viennent d'un annuaire participatif ; des producteurs cités par un annuaire sans horaire. Aucune source officielle de la commune relue.
+
+**Pourquoi rien n'est publié.** Vienne ne rend pas cinq fiches entières, et ses deux candidats ont soit un horaire contradictoire, soit une source tierce seule (règles 5, 6 et 9). Bourgoin-Jallieu n'en rend aucune dont la source soit officielle. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Contradictions** : horaires du magasin de producteurs de Vienne, Que Choisir contre comparateur ; non tranchées, aucune fiche publiée.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre dont l'exploitant est une personne physique, écartée (règle 309) ; aucune n'est nommée.
+
+**Pistes non publiées (Isère)** — lignes anonymes :
+- Vienne, marché alimentaire du samedi : jour et lieu à confirmer par la commune (règle 9 : deux sources officielles exigées). **Déblocage** : page de la Ville ou de l'office de tourisme de Vienne.
+- Vienne, magasin de producteurs : horaires contradictoires. **Déblocage** : page du commerce ou réponse du commerce.
+- Bourgoin-Jallieu, marchés et producteurs : aucune source officielle relue. **Déblocage** : arrêté municipal sur les marchés et page de la Ville.
+
+**Constat de méthode.** Vingt-sept passes autonomes de suite sans fiche publiée. La règle de zone à cinq fiches entières reste le frein principal.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur l'Isère (règle 41.c). Elle commence par la page de la Ville de Vienne (marchés et commerces), puis le classement suivant (Loire ou Seine-Maritime, sous réserve des communes déjà éprouvées).
