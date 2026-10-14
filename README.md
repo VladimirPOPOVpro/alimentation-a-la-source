@@ -37277,3 +37277,33 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur la Loire (règle 41.c). Le classement suivant est la Haute-Garonne ou un département de la passe suivante, selon le recalcul. Saint-Chamond reste la commune de la reprise.
 
 **Constat de méthode.** Six passes autonomes d'affilée sans publication, depuis le 8 octobre. Le verrou est celui des passes précédentes : la règle des cinq fiches entières dans une même commune, face à un registre où les vendeurs aux particuliers sont surtout des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-seizième) : Loire (42) reprise à Saint-Chamond, zone toujours non formée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, Var : enseigne qui ressemble à un prénom et contact personnel, doute sur une personne ; rien n'est publié, aucun message n'est envoyé). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Calcul refait sur 34 969 communes. Outre-mer écarté (règle 93). La passe précédente visait la Haute-Garonne : elle est exclue par la règle 41.c. En métropole, la **Loire (42)** reste en tête (déficit 4,27), devant la Seine-Maritime (4,24), le Gard et le Haut-Rhin. Commune, règle 41.d : **Saint-Chamond** (35 646 habitants), toujours la plus peuplée de la Loire sans fiche.
+
+**Écart de méthode, consigné.** Avant de refaire le classement, j'ai lu la Seine-Maritime (76) et sa commune la plus peuplée sans fiche, Dieppe. Ce n'était pas la règle : la Loire devait rester en tête. Rien n'en est publié. Les constats sont gardés ci-dessous comme pistes, pour une passe future où la Seine-Maritime sera désignée par le calcul.
+
+**Ce qui a été lu cette passe.**
+- Saint-Chamond, registre Agence Bio (1 408 opérateurs de la Loire, toutes les pages) : les deux seuls points de vente aux particuliers de la commune portent un nom de personne en nom commercial, écartés pour doute sur une personne (règle 309) ; les autres entrées sont de la distribution ou du généraliste.
+- Saint-Chamond, Que Choisir (carte des circuits courts) et registre des entreprises : la boutique « Saveurs de nos fermes », 23 avenue Jules Ferry, est une enseigne active (registre : établissement ouvert à la même adresse). Horaires et produits relevés sur la carte : fruits, légumes, viandes, produits laitiers, épicerie, boissons non alcoolisées. Une seule fiche vérifiée, et sa source horaire est un annuaire, non le site du commerce.
+- Saint-Chamond, marchés : trois marchés au calendrier de la ville (Fonsala, Izieux, centre-ville), jours et horaires contradictoires selon les agendas ; aucune source municipale ne fixe le jour de chacun.
+- Roanne (règle 41.d, commune suivante par population, lue au registre) : les points de vente aux particuliers sont des enseignes nationales, des noms de personnes en nom commercial, ou un chocolatier et une boulangerie qui ne forment pas une fiche de producteur ; la recherche web ne donne aucun marché de producteurs à horaire fixe.
+
+**Pourquoi rien n'est publié.** Saint-Chamond ne rend pas cinq commerces vérifiables (une seule fiche solide), et Roanne n'en rend pas davantage. La règle des cinq fiches entières dans une même commune (règles 96, 127, 258) n'est pas atteinte. Rien ne se publie « en attendant » (MODERATION.md).
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre de Saint-Chamond et deux de Roanne, noms de personnes en nom commercial, non publiées, ne se rouvrent pas.
+
+**Pistes non publiées** (anonymes) :
+- Saint-Chamond, « Saveurs de nos fermes » : fiche vérifiable à 80 % (enseigne, adresse, registre, horaires et produits relevés), mais un seul commerce vérifié. **Déblocage** : quatre autres commerces entiers dans la commune, ou le site du commerce qui confirme les horaires.
+- Saint-Chamond, marchés de Fonsala, d'Izieux et du centre-ville : jours contradictoires. **Déblocage** : confirmation par la mairie.
+- Roanne, boutique de chocolats et boulangerie du registre bio : hors catégorie de producteur. **Déblocage** : décision de catégorie du responsable du site, non prise ici.
+- Dieppe (Seine-Maritime), épicerie participative à vérifier, et un groupement de producteurs de Ferrières-en-Bray (hors commune) : rien de publiable dans la commune. **Déblocage** : passe future où la Seine-Maritime sera désignée par le calcul.
+
+**Contradictions** (règle 5) : jours et horaires des marchés de Saint-Chamond, consignés, non tranchés.
+
+**Constat de méthode.** Huit passes autonomes d'affilée sans publication. Le verrou reste la règle des cinq fiches entières dans une même commune, face à un registre où les vendeurs aux particuliers sont surtout des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Loire (règle 41.c). Elle commence par le classement (Seine-Maritime, si elle est désignée), puis Dieppe si le calcul la retient.
