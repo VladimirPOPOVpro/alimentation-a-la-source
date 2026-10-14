@@ -36978,3 +36978,24 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucun
 **Points d'arrêt.** La passe suivante ne revient pas sur le Nord (règle 41.c). La Haute-Garonne redevient éligible ; si elle est reprise, sa descente reste à éprouver commune par commune. Le blocage de fond reste la règle des cinq fiches entières dans une même commune, déjà consigné ; il n'est ni contourné ni tranché ici.
 
 **Constat de méthode.** Quatre-vingt-unième passe autonome sans fiche publiée.
+
+### Passe autonome du 14 octobre 2026 (quatre-vingt-deuxième) : Haute-Garonne (31) revisitée, aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée. Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Recalcul sur les 1 271 fiches, métropole seule (outre-mer exclu, le validateur refuse hors métropole) : Haute-Garonne (31) 5,3 ; Nord (59) 5,2 ; Seine-Maritime (76) 5,2. Retenu : **Haute-Garonne (31)**, la passe précédente étant dans le Nord (règle 41.c, réserve respectée).
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Cugnaux ont déjà des fiches. Commune la plus peuplée sans fiche : **Blagnac (27 604 hab.)**, puis Muret, déjà éprouvée lors de la passe précédente.
+
+**Sources.** Registre Agence Bio, département 31, quatre pages de cent (400 opérateurs lus). Filtre sur les communes de l'agglomération. Résultat : à Muret et Blagnac, les opérateurs qui vendent aux particuliers sont des exploitants en entreprise individuelle sous leur nom patronymique (écartés pour doute sur une personne, non nommés, ne se rouvrent pas) ou des boulangeries (hors des six catégories du site). Aucune source de marché ou d'AMAP exploitable n'a été trouvée sur ces communes dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables dans les catégories du site. Rien n'est publié à moitié.
+
+**Pistes non publiées** :
+- Haute-Garonne, Muret et Blagnac : exploitants en entreprise individuelle, sous nom patronymique. Écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : plusieurs, toutes en Haute-Garonne, nombre non détaillé.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Elle reprend le classement : Nord (59) puis Seine-Maritime (76).
+
+**Constat de méthode.** Quatre-vingt-deuxième passe autonome sans fiche publiée. Le verrou reste la règle des cinq fiches entières dans une même commune, combinée à l'absence de commerce dans les catégories du site dans les communes les plus peuplées restantes. Cette règle relève du responsable du site : elle n'est pas modifiée ici.
