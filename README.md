@@ -37489,3 +37489,28 @@ Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publ
 **Contradictions** (règle 5) : horaires du marché de Firminy (agenda d'événements et site de la Ville non concordants) ; horaires du marché de Montbrison (brochure de 2022 contre annuaire). Rien retenu, consigné ici.
 
 **Constat de méthode.** La Loire est la troisième région consécutive où la commune suivante par population ne rend pas cinq commerces. Le verrou reste la règle de la zone à cinq, pas la recherche. La décision de la règle 247 (borne de douze communes) arrive à son terme sur ce secteur ; elle relève du responsable du site et n'est pas modifiée ici.
+
+### Passe autonome du 15 octobre 2026 (suite) : Seine-Maritime (76) désignée, Le Petit-Quevilly sondée, aucune publication
+
+Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule : Loire (42) écartée (passe précédente) ; Seine-Maritime (76), 4,24, en tête des départements non visés la passe précédente. **Seine-Maritime désignée.** Les départements d'outre-mer restent hors du calcul : le contrôle de `lib/validateMerchants.ts` refuse les coordonnées hors métropole.
+
+**Commune, règle 41.d.** Dieppe reste éprouvée (passes précédentes, quatre commerces seulement). Commune suivante par population sans fiche : **Le Petit-Quevilly** (22 208 habitants).
+
+**Ce qui a été lu.** Registre Agence Bio, Seine-Maritime complète (1 004 opérateurs, pagination par cent) : à Le Petit-Quevilly, les entrées vendant aux particuliers sont un distributeur de pâtisseries et deux entreprises dont la raison sociale est un patronyme : écartées (règle 36, doute sur une personne). Recherche web : une fiche de la Ville décrit un maraîcher bio présent au marché du samedi (9h30-12h30) ; son nom n'est pas publié, et le produit n'est vérifié ni sur une page récente ni au registre. Une boutique bio, Rouen Bio (boulevard du 11 Novembre), n'est pas vérifiée au registre des entreprises ni sur son site à cette passe.
+
+**Pourquoi rien n'est publié.** Une commune ne rend pas cinq commerces vérifiables : Le Petit-Quevilly en rend au plus deux pistes solides, dont une seule avec un marché daté. Rien ne se publie seul (règle 127).
+
+**Pistes non publiées (Seine-Maritime, Le Petit-Quevilly)** — lignes anonymes :
+- Marché du samedi, boulevard Stanislas-Girardin : un maraîcher bio, horaires de 2021 à confirmer auprès de la Ville. Déblocage : quatre autres commerces vérifiés dans la commune.
+- Boutique bio du boulevard du 11 Novembre : fiche possible, à vérifier au registre et sur le site du commerce avant toute inscription.
+- Deux entreprises du registre bio au nom patronymique : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Demande n° 13 (Villecroze, producteur) : reste en cours, rien publié.** Doute sur une personne (enseigne ressemblant à un prénom, contact privé). Aucune réponse envoyée.
+
+**Fiches écartées pour doute sur une personne** : deux cette passe (Le Petit-Quevilly, registre bio), plus la demande n° 13.
+
+**Descente non achevée.** Fécamp (17 313 habitants, 0 fiche), Montivilliers et Elbeuf restent à éprouver lors de la passe suivante qui reviendra en Seine-Maritime (règle 247 : compteur de communes éprouvées à tenir).
+
+**Constat de méthode.** Une commune de la descente ne rend pas cinq commerces entiers, comme dans les passes précédentes. Le verrou est la règle de la zone à cinq fiches, pas la recherche.
