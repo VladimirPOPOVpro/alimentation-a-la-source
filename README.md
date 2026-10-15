@@ -37893,3 +37893,24 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Commune, règle 248.** Haute-Garonne, déficit de tête en métropole (règle 41.c : la Normandie est écartée, région de la passe précédente, le Nord). Blagnac (27 604 habitants) reste la commune la plus peuplée sans fiche. Registre Agence Bio relu sur le département : rien de vendable au public à Blagnac. Recherche web sur les marchés et le circuit court : aucune source municipale lisible, un annuaire de producteurs sans commune précise, un rapport de commerce de 2024 non exploitable. Rien ne se publie.
 
 **Points d'arrêt.** Reprendre Blagnac par la page « Marchés » du site de la Ville, lue en direct. Si Blagnac reste vide, la descente suit Muret, puis Plaisance-du-Touch.
+
+### Passe autonome du 15 octobre 2026 (Seine-Maritime, Fécamp sondée, annuaire privé écarté) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande déjà en attente (Var) reste `en_cours`, doute sur une personne : rien n'est publié.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Haute-Garonne (Occitanie) : la région est fermée (règle 41.c). En tête éligible : **Seine-Maritime (76)**, déficit d'environ 4,26 sur 1 271 fiches. Le Var reste très négatif.
+
+**Commune, règle 41.d.** Dieppe et Le Petit-Quevilly ont déjà été éprouvées (Dieppe : page d'accueil nommant une personne, règle 377 ; Le Petit-Quevilly : une piste écartée pour doute sur une personne, ne se rouvre pas). Descente vers **Fécamp** (17 313 habitants, sans fiche).
+
+**Fécamp, lue ce soir.** Le registre de l'Agence Bio, première page du 76 (100 opérateurs), ne donne aucun opérateur domicilié à Fécamp. Le site fecamp.fr est un **annuaire commercial privé**, « sans lien avec le site de la collectivité » selon son propre bandeau : il ne compte ni comme site de la Ville ni comme source officielle des marchés (règle 56). Son agenda ne contient que des manifestations sans marché producteur. **Ce n'est pas cinq commerces vérifiables : zone à zéro.**
+
+**Attention.** fecamp.fr est un annuaire commercial privé, pas le site de la Ville de Fécamp. Ne pas l'utiliser comme source municipale.
+
+**Pistes non publiées** :
+- Fécamp, halle à marée (vendredi et samedi matin) : poissonnerie sans page récente, déjà notée. **Déblocage** : une page de la Ville ou un horaire daté.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Reprendre Fécamp par le site officiel de la Ville, lu en direct, puis Montivilliers et Elbeuf (déjà éprouvées, sans source datée des marchés).
+
+**Contradictions** : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
