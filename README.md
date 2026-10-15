@@ -37694,3 +37694,36 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est le Nord (59), puis le Haut-Rhin (68) et la Loire-Atlantique si elle s'y prête. Pistes à reprendre à Dieppe : la source de la Ville du marché, le site de la Coop d'Albâtre, l'enseigne Biocoop au registre.
 
 **Constat de méthode.** Le registre bio reste la source la moins utile pour les communes moyennes : des grossistes, des établissements sans vente, et des enseignes au nom patronymique. Les pistes solides viennent des offices de tourisme et des annuaires de circuit court, et ne suffisent pas seules à réunir cinq fiches entières dans une même commune.
+
+### Passe autonome du 15 octobre 2026 (Gard (30) revisité, Bagnols-sur-Cèze sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, nom pouvant désigner une personne, rien publié, aucune réponse envoyée). Mode 2. **Aucune fiche publiée, aucune retirée.** Aucune réponse email à envoyer. Total inchangé : 1 272 fiches.
+
+**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes, numérateur sur 1 272 fiches. La Réunion et les autres départements d'outre-mer restent écartés (règle 93). La Seine-Maritime, visée à la passe précédente, est écartée par la règle 41.c (même région, Normandie). Recalcul : Seine-Maritime (76) 4,26 (écartée), **Gard (30) 4,22**, Haut-Rhin (68) 4,22, Haute-Garonne (31) 4,14, Pyrénées-Atlantiques (64) 4,03. **Gard désigné** : la passe du 15 octobre précédente visait la Seine-Maritime, et non le Gard, donc la règle 41.c ne ferme pas le Gard. Le chiffre de Nord (59) cité à la passe précédente n'est pas reproduit par le recalcul : Nord à 3,25 sur les 34 969 communes, donc pas en tête. Contradiction consignée, aucune fiche n'en dépend.
+
+**Commune, règle 41.d.** Alès (46 125 hab.) est encore sans fiche mais a été éprouvée à trois passes (dont la passe du 15 octobre) sans source officielle exploitable. Descente à **Bagnols-sur-Cèze** (18 112 hab.), la commune suivante sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Gard, quatre pages de cent opérateurs (400 lignes), filtrées sur Alès et Bagnols-sur-Cèze : à Alès, des préparateurs sans vente au public et des entreprises individuelles au nom patronymique (écartées pour doute sur une personne) ; à Bagnols, un distributeur qui déclare la vente aux particuliers, des préparateurs sans vente, et une enseigne bio qui déclare ne pas vendre aux particuliers (contradiction avec la réalité du terrain, non publiée).
+- Registre des entreprises, actif à la date de la passe : La Clef des Champs (7 place Bertin-Boissin, active), La Grenattitude (556 chemin de Montigal, active ; l'entité qui portait l'enseigne auparavant est fermée, son nom n'est pas consigné), Domaine La Romance (quartier Saint-Mart, active, viticulteur). Pas d'entité active trouvée pour MyBioShop.
+- Géocodage BAN, scores ≥ 0,95 : 556 chemin de Montigal, [4,598343 ; 44,163826] ; 7 place Bertin-Boissin, [4,623083 ; 44,161785].
+- Office de tourisme (fiche « La Grenattitude » sur tourismegard.com) : ouverture « toute l'année, tous les jours », sans horaires détaillés, fiche mise à jour pour la dernière fois en juillet 2024 ; un téléphone de type mobile y figure, non publié (rien ne prouve qu'il soit professionnel).
+- Office de tourisme (fiche « Domaine La Romance » sur tourisme-occitanie.com) : vente à la propriété, Bienvenue à la Ferme, AB, sans horaires de boutique publiés.
+- Recherche web, source de presse et annuaire participatif : marché du mercredi (centre-ville, boulevard Lacombe et places Bertin-Boissin et Pierre-Boulot, 8 h à 13 h selon l'office de tourisme) ; marché artisanal du samedi (place Auguste-Mallet, saison d'été 2026 seulement) ; La Clef des Champs (magasin de producteurs, horaires d'un annuaire participatif sans date de mise à jour, aucun téléphone ni site trouvé).
+- Site officiel de la Ville (bagnolssurceze.fr) : seul le règlement général des marchés en PDF a été relevé ; aucune page horaires des marchés n'a été ouverte.
+
+**Pistes non publiées** (lignes anonymes) :
+- Bagnols-sur-Cèze, marché du mercredi : jour, créneau et lieu confirmés par l'office de tourisme, mais aucune source municipale à jour ; marché généraliste. À reprendre à partir du site de la Ville.
+- Bagnols-sur-Cèze, magasin de producteurs (La Clef des Champs) : registre actif, horaires d'un annuaire participatif, pas de téléphone ni de site vérifiés, pas de photo honnête. À reprendre.
+- Bagnols-sur-Cèze, La Grenattitude (jus de grenade, Bienvenue à la Ferme, AB) : registre actif et adresse géocodée, mais horaires absents de la source officielle et téléphone non vérifiable comme professionnel. À reprendre avec le site du producteur.
+- Bagnols-sur-Cèze, Domaine La Romance (vignoble, vente à la propriété) : registre actif, mais hors du cœur du sujet (vente directe de produits alimentaires) et sans horaires de boutique. Consigné.
+- Bagnols-sur-Cèze, enseigne bio déclarée au registre comme ne vendant pas aux particuliers : écartée, la déclaration officielle prime tant qu'une source contraire n'existe pas.
+- Alès, So.bio, Biocoop et La Ferme du Coin : pistes de la passe du 15 octobre, toujours sans source suffisante.
+
+**Fiches écartées pour doute sur une personne** : une cette passe, à Bagnols-sur-Cèze (entité au nom patronymique, sans nom consigné).
+
+**Pourquoi rien n'est publié.** Bagnols-sur-Cèze rend trois ou quatre commerces actifs au registre, mais aucun n'a à la fois des horaires d'une source officielle, un téléphone professionnel vérifié, un site et une photo honnête. Cinq fiches groupées ne sont pas atteignables avec les sources de cette passe. Rien n'est publié à moitié.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Le classement suivant est le Haut-Rhin (68), à 4,218, presque à égalité avec le Gard. Bagnols-sur-Cèze reste la commune à reprendre si le site de la Ville publie ses horaires de marché et si La Clef des Champs ou La Grenattitude trouvent une source officielle ; sinon, Villeneuve-lès-Avignon (13 148 hab.) est la descente suivante.
+
+**Constat de méthode.** Le registre bio du Gard livre surtout des personnes physiques et des grossistes dans les communes moyennes. Les pistes utiles viennent des annuaires de tourisme, qui datent parfois de 2024, et ne suffisent pas à réunir cinq fiches entières dans une même commune.
