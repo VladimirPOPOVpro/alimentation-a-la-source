@@ -37666,3 +37666,31 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Le classement suivant est le Haut-Rhin (68), puis le Nord (59) si son épuisement est confirmé par le recalcul. Alès reste à reprendre avec So.bio et La Ferme du Coin si leur registre et leurs horaires sont retrouvés ; la descente va à Bagnols-sur-Cèze si Alès reste vide.
 
 **Constat de méthode.** Le registre bio du Gard livre surtout des personnes physiques et des grossistes dans les communes moyennes. Sans source de commune ou d'office de tourisme, le seuil de cinq commerces entiers ne se franchit pas, et la règle 41.d ne produit rien tant que le registre reste la seule source.
+
+### Passe autonome du 15 octobre 2026 (Seine-Maritime (76) visée, Dieppe sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, nom pouvant désigner une personne, rien publié). Mode 2. **Aucune fiche publiée, aucune retirée.** Aucune réponse email à envoyer.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règle 177), numérateur sur 1 272 fiches. Haute-Garonne (31) et Gard (30), visés aux deux passes précédentes, sont écartés par la règle 41.c (même région, Occitanie). Premier restant : la Seine-Maritime (76), déficit 5,0. **Seine-Maritime désignée.**
+
+**Commune, règle 41.d.** Communes de Seine-Maritime sans fiche, par population, au-dessus de 15 000 habitants : Dieppe (28 496 hab.) est la plus peuplée sans fiche (Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Le Grand-Quevilly et Mont-Saint-Aignan sont couvertes ; Bois-Guillaume aussi). Dieppe reste la commune à éprouver, consignée deux passes plus tôt. Descente : non engagée, Dieppe n'a pas encore été jugée sur ses cinq fiches.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, 1 004 opérateurs parcourus : à Dieppe, la plupart sont des grossistes, des restaurants collectifs ou des établissements sans vente au public. Deux seulement déclarent la vente aux particuliers au registre, dont un établissement de boulangerie et un magasin de grande surface hors périmètre.
+- Office de tourisme Dieppe-Normandie (page marchés) : marché du samedi de 8 h 30 à 13 h, place Nationale, Grande Rue, rue Saint-Jacques, rue de la Barre ; petits marchés mardi et jeudi matin. Normandie Tourisme donne aussi le samedi de 8 h à 13 h. Site de la Ville non retrouvé par la recherche.
+- Registre des entreprises : la Coop d'Albâtre, épicerie participative, 3 bis rue du Cœur Couronné, établissement actif au registre à cette adresse.
+- Biocoop d'avenue des Canadiens (ZAC du Val Druel) : aucun établissement actif à Dieppe au registre sous l'enseigne Biocoop ; seuls des horaires de site communautaire.
+
+**Pistes non publiées** (lignes anonymes) :
+- Dieppe, marché alimentaire du samedi : jour et lieu confirmés par l'office de tourisme et par Normandie Tourisme, sans heure de fin certaine ; la règle 9 le permettrait, mais il manque la source de la commune. Consigné, rien publié à ce stade.
+- Dieppe, épicerie participative (Coop d'Albâtre) : établissement actif au registre, horaires relevés chez un tiers (guide de circuit court), site officiel de la coopérative injoignable à cette passe, téléphone non vérifié. À reprendre.
+- Dieppe, Biocoop du Val Druel : horaires seulement sur un annuaire communautaire, pas d'entité Biocoop active trouvée au registre. Rien publié.
+- Dieppe, poissonnerie du port et vente directe de producteurs : une seule source touristique, sans adresse ni horaire vérifiés, ou une enseigne au nom patronymique. Écartées pour doute sur une personne quand le nom est celui d'un exploitant.
+
+**Fiches écartées pour doute sur une personne** : deux cette passe, toutes deux à Dieppe (entreprises individuelles au nom patronymique). Aucun nom consigné.
+
+**Pourquoi rien n'est publié.** Dieppe rend deux pistes solides (marché et épicerie participative) mais pas les cinq fiches groupées de la règle 41.d, et la règle « rien n'est publié à moitié » s'applique. Une descente vers Le Petit-Quevilly (22 208 hab., sans fiche) reste possible à la passe suivante si Dieppe est encore vide au calcul.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est le Nord (59), puis le Haut-Rhin (68) et la Loire-Atlantique si elle s'y prête. Pistes à reprendre à Dieppe : la source de la Ville du marché, le site de la Coop d'Albâtre, l'enseigne Biocoop au registre.
+
+**Constat de méthode.** Le registre bio reste la source la moins utile pour les communes moyennes : des grossistes, des établissements sans vente, et des enseignes au nom patronymique. Les pistes solides viennent des offices de tourisme et des annuaires de circuit court, et ne suffisent pas seules à réunir cinq fiches entières dans une même commune.
