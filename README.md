@@ -37813,3 +37813,30 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Pourquoi rien n'est publié.** Une seule fiche d'Alès est presque complète (la boutique de producteurs), et son statut au registre et sa photo restent ouverts ; le marché n'a qu'une source officielle. Cinq fiches groupées ne sont pas atteignables aujourd'hui, et une fiche à moitié vérifiée ne se publie pas.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c) si la Seine-Maritime ou le Haut-Rhin prend la tête. À reprendre à Alès : statut de la boutique collective au registre, photo, marché confirmé par la mairie ; descente vers Bagnols-sur-Cèze si Alès reste vide.
+
+### Passe autonome du 15 octobre 2026 (Seine-Maritime (76) visée, Dieppe sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (doute sur une personne, rien publié, aucune réponse envoyée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 272 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règle 93), population au dénominateur de 34 969 communes. La dernière région visée était l'Occitanie (Gard) : la règle 41.c ne ferme pas la Seine-Maritime. Recalcul : Seine-Maritime (76) 4,26 ; Gard (30) 4,22 ; Haut-Rhin (68) 4,22 ; Haute-Garonne (31) 4,15. **Seine-Maritime désignée.**
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) est la commune la plus peuplée de Seine-Maritime sans fiche. Le Petit-Quevilly (22 208 hab.) est la descente prévue.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, quatre pages de cent opérateurs, filtrées sur Dieppe et les communes voisines : aucun opérateur à vente aux particuliers en nom non patronymique, hors une enseigne en cours de vérification (ci-dessous). Les opérateurs au nom patronymique sont écartés pour doute sur une personne, ne se rouvrent pas.
+- Recherche web sur le marché alimentaire de Dieppe : Normandie Tourisme le donne le samedi matin, avec un petit marché les mardis et jeudis matin ; source de la commune non retrouvée (les résultats ouvraient le site de la ville canadienne homonyme). Règle 9 : deux sources officielles requises, rien ne se publie.
+- Coop d'Albatre, épicerie participative, 3 bis rue du Cœur Couronné : registre des entreprises, établissement actif (état A) à cette adresse ; géocodage BAN (`[1.072148, 49.924844]`, score 0,72) ; horaires, téléphone et produits relevés sur Que Choisir (mercredi 15 h–18 h, jeudi 17 h–19 h, vendredi 17 h–20 h, samedi 10 h–13 h). **Le site du magasin n'a pas pu être ouvert** pendant la passe : le domaine cité sur la fiche de Que Choisir n'a pas répondu. Aucune source de l'office de tourisme ni de la commune trouvée. Fiche à reprendre.
+- Brochure commerces 2026 de l'office de tourisme de la Côte d'Albâtre : fichier illisible en lecture automatique ; à relire à la main.
+- Recherche de la Coop d'Albatre : aucune actualité ni page officielle autre que le registre et Que Choisir.
+
+**Pistes non publiées** (lignes anonymes) :
+- Dieppe, épicerie participative Coop d'Albatre : entité active au registre, adresse et horaires concordants entre sources, mais site du magasin injoignable et pas de source office de tourisme ou commune. Déblocage : site vérifié ou fiche de l'office.
+- Dieppe, marché alimentaire du samedi matin : jour et lieu donnés par Normandie Tourisme seulement ; attend la commune ou l'office (règle 9).
+- Dieppe, Dieppe Fish (Petit-Caux, registre Agence Bio, vente aux professionnels et à la restauration) : hors périmètre tant que la vente au public n'est pas confirmée.
+- Le Petit-Quevilly, opérateur du registre Agence Bio en entreprise individuelle sous nom patronymique : écarté pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : une cette passe, au Petit-Quevilly (entreprise individuelle au nom patronymique) ; aucun nom consigné.
+
+**Pourquoi rien n'est publié.** Dieppe n'offre aujourd'hui qu'une fiche presque complète sur cinq. Une fiche sans site vérifié ni source de l'office ou de la commune ne se publie pas seule, et cinq fiches groupées ne sont pas atteignables avec les sources de cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est le Gard (30) à égalité avec le Haut-Rhin (68). À reprendre à Dieppe : site de la Coop d'Albatre, brochure de l'office relue à la main, marché confirmé par la commune ; descente vers Le Petit-Quevilly si Dieppe reste vide.
