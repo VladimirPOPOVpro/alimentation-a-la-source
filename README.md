@@ -37637,3 +37637,32 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59), puis la Seine-Maritime (76), selon le recalcul. À reprendre à Blagnac si une photo honnête du magasin ou un horaire de vente de la ferme est trouvé.
 
 **Constat de méthode.** Le verrou reste le même : la règle des cinq fiches entières dans une même commune face à un registre où les vendeurs aux particuliers sont souvent des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
+
+### Passe autonome du 15 octobre 2026 (Gard (30) visé, Alès sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, nom pouvant désigner une personne, rien publié). Mode 2. **Aucune fiche publiée, aucune retirée.** Aucune réponse email à envoyer.
+
+**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes, numérateur sur 1 272 fiches. La Réunion (974) reste écartée par la règle 93. La Haute-Garonne, visée à la passe précédente, est exclue par la règle 41.c. Premier département restant : le Gard (30), déficit 4,2. **Gard désigné.** Le Nord (59) et la Seine-Maritime (76), cités comme suivants, sont l'un épuisé et l'autre visé à la passe d'avant.
+
+**Commune, règle 41.d.** Communes du Gard sans fiche, par population : Alès (46 125 hab.), puis Bagnols-sur-Cèze, Villeneuve-lès-Avignon, Vauvert, Pont-Saint-Esprit. Alès est la plus peuplée sans fiche. Descente testée : Alès.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Gard, première page de cent opérateurs, filtrée sur la commune : une écrasante majorité de personnes physiques sous leur nom patronymique (règle 1 de la passe précédente : doute sur une personne, écartés), et des grossistes ou établissements sans vente au public.
+- Recherche web sur Alès : pistes de vente directe et de magasins.
+- Registre des entreprises : aucune entité active vérifiée pour les pistes testées (Le Grand Marché Bio : l'entrée retournée est une autre société, hors Alès ; l'enseigne Biocoop d'Alès est exploitée sous une structure associative, non vérifiée comme commerce indépendant ; So.bio Alès et La Ferme du Coin : aucune entrée au registre à ce nom).
+- Géocodage BAN des adresses candidates : Place de l'Abbaye, Avenue Marcel Cachin, Avenue Olivier de Serres, toutes trois résolues (score ≥ 0,8), mais sans fiche validée derrière.
+
+**Pourquoi rien n'est publié.** Aucune fiche d'Alès ne réunit l'entité active au registre, un site officiel vérifié, des horaires du point de vente et une photo honnête. Cinq fiches groupées sur Alès ne sont pas atteignables avec les sources de cette passe. La règle 41.d prévoit de descendre à la commune suivante ; Bagnols-sur-Cèze est la suivante et n'a pas été éprouvée à cette passe, faute de temps. Rien n'est publié à moitié.
+
+**Pistes non publiées** (lignes anonymes) :
+- Alès, magasin bio à enseigne So.bio : site du réseau à reprendre, registre à confirmer. Rien publié.
+- Alès, point de vente Biocoop : structure associative au registre, à reprendre avec le siège régional. Rien publié.
+- Alès, La Ferme du Coin (vente directe de producteurs locaux, avenue Marcel Cachin) : horaires vérifiés par une page tierce, pas par le commerce ni par le registre. À reprendre.
+- Alès, une enseigne dont le nom reprend un prénom-patronyme, écartée pour doute sur une personne, ne se rouvre pas.
+- Alès, nombreux opérateurs du registre en entreprise individuelle sous nom patronymique : écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : quatre cette passe, toutes à Alès (entreprises individuelles sous nom patronymique et une enseigne au prénom-patronyme). Aucun nom consigné.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Le classement suivant est le Haut-Rhin (68), puis le Nord (59) si son épuisement est confirmé par le recalcul. Alès reste à reprendre avec So.bio et La Ferme du Coin si leur registre et leurs horaires sont retrouvés ; la descente va à Bagnols-sur-Cèze si Alès reste vide.
+
+**Constat de méthode.** Le registre bio du Gard livre surtout des personnes physiques et des grossistes dans les communes moyennes. Sans source de commune ou d'office de tourisme, le seuil de cinq commerces entiers ne se franchit pas, et la règle 41.d ne produit rien tant que le registre reste la seule source.
