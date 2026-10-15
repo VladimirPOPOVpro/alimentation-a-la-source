@@ -37579,3 +37579,32 @@ Backlog : 1 en cours (demande n° 13, rien publié, inchangée), 0 nouvelle. Auc
 **Points d'arrêt.** La passe suivante ne revient pas sur l'Ille-et-Vilaine (règle 41.c). Le classement suivant est Yvelines (78) ou Pyrénées-Atlantiques (64), selon les régions fermées. Fougères reste en tête des pistes du 35 : une seule source du commerce ou une page datée de la Ville la rendrait publiable. Vitré est la commune suivante, à éprouver.
 
 **Constat de méthode.** Une commune de la descente ne rend pas cinq commerces entiers à Fougères non plus : la zone à cinq fiches bloque encore plus que la recherche, et le registre bio retourne surtout des grandes surfaces et des entreprises hors commerce.
+
+### Passe autonome du 15 octobre 2026 (Seine-Maritime reprise, Oissel, Barentin, Bolbec et Yvetot sondées au registre) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, doute sur une personne, rien publié). Aucune fiche publiée, aucune retirée. Total inchangé : 1 272 fiches. Aucune réponse email à envoyer.
+
+**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. La Réunion (974) reste écartée par la règle 93 (cadre de coordonnées de `lib/validateMerchants.ts`). Le Ille-et-Vilaine (35) est exclu par la réserve de rotation, puisque c'était la passe précédente. Premier département restant : la Seine-Maritime (76), déficit 4,3. **Seine-Maritime désignée.** La réserve de la règle 41.c n'interdit pas de la revisiter, la passe précédente ayant visé le 35.
+
+**Commune, règle 41.d.** Communes sans fiche par population : Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf et Canteleu ont déjà été éprouvées dans des passes antérieures sans cinq commerces vérifiables. Descente : **Oissel-sur-Seine** (12 317 hab.), puis Barentin, Bolbec et Yvetot.
+
+**Ce qui a été lu.** Registre Agence Bio, Seine-Maritime complète (1 004 opérateurs, pagination par cent), filtré sur Oissel-sur-Seine, Barentin, Bolbec et Yvetot. Aucune recherche web cette passe : le registre ne donne, dans ces quatre communes, aucun point de vente de détail à recouper.
+
+**Pourquoi rien n'est publié.**
+- Oissel-sur-Seine : des grossistes, une brûlerie en gros et des établissements sans vente au public. Aucun commerce de détail.
+- Barentin : deux distributeurs en gros et une jardinerie, non alimentaire. Aucun commerce de détail.
+- Bolbec : une boulangerie, sans vente déclarée au public, hors sujet.
+- Yvetot : deux entreprises de gros ou de pâtisserie, sans vente aux particuliers. Aucun commerce de détail.
+
+Aucune fiche n'atteint le seuil de cinq commerces vérifiés, et rien ne se publie seul.
+
+**Pistes non publiées** (lignes anonymes) :
+- Oissel-sur-Seine : aucune piste de détail au registre.
+- Barentin : une jardinerie, hors alimentaire. Écartée.
+- Yvetot : un établissement de vente sans lieu public identifié. Rien publié.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe. Les entrées patronymiques lues sont des grossistes ou des établissements sans vente, donc hors commerce de détail.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête après le décompte (règle 41.c : cette passe-ci la vise). Le classement suivant est le Gard (30), déficit 4,2 au recalcul, puis le Haut-Rhin (68). Dieppe reste la commune à réessayer si le site de la Ville répond avec son contenu.
+
+**Constat de méthode.** Le registre bio ne livre plus de point de vente de détail dans les communes moyennes de Seine-Maritime : les entrées sont des grossistes, des établissements sans vente ou des enseignes patronymiques. Sans source web de ville ou d'office de tourisme, la zone à cinq fiches ne se remplit pas.
