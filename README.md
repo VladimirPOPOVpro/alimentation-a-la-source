@@ -37608,3 +37608,32 @@ Aucune fiche n'atteint le seuil de cinq commerces vérifiés, et rien ne se publ
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête après le décompte (règle 41.c : cette passe-ci la vise). Le classement suivant est le Gard (30), déficit 4,2 au recalcul, puis le Haut-Rhin (68). Dieppe reste la commune à réessayer si le site de la Ville répond avec son contenu.
 
 **Constat de méthode.** Le registre bio ne livre plus de point de vente de détail dans les communes moyennes de Seine-Maritime : les entrées sont des grossistes, des établissements sans vente ou des enseignes patronymiques. Sans source web de ville ou d'office de tourisme, la zone à cinq fiches ne se remplit pas.
+
+### Passe autonome du 15 octobre 2026 (Haute-Garonne (31) reprise, Blagnac sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, commune du Var : nom pouvant désigner une personne, voir la passe quatre-vingt-douzième). Mode 2. **Aucune fiche publiée, aucune retirée.**
+
+**Classement, règle 41.** Recalcul sur les seules communes métropolitaines (les départements d'outre-mer sont refusés par le validateur). Haute-Garonne (31) en tête à 5,3, Nord (59) à 5,3, Seine-Maritime (76) à 5,2 : la passe précédente visait la Seine-Maritime, donc le 31 est éligible. Retenu : **Haute-Garonne (31)**.
+
+**Commune, règle 41.d.** Blagnac (31700), 27 604 habitants, n'a aucune fiche : la plus peuplée du département dans ce cas, après Toulouse, Colomiers et Tournefeuille, déjà couvertes. Blagnac avait été consignée comme éprouvée à la passe précédente ; la présente passe y a repris le registre bio et les sites des commerces.
+
+**Vérifications.**
+- Biocoop Blagnac (2 rue Henri-Matisse) : entité active au registre des entreprises (une seule adresse ouverte, sans personne physique). Horaires lundi à samedi 9 h à 19 h 30 relevés chez deux tiers (annuaire de stationnement et offre d'emploi du magasin), aucune fiche officielle Biocoop accessible depuis cet environnement. Adresse confirmée par le géocodage BAN. Point bloquant : aucune photo honnête du magasin ni de photo thématique de la commune disponible sans téléchargement interdit ici. **Rien publié à moitié** : la fiche serait sans image.
+- Les Maraîchers des Quinze Sols (chemin des Ortalans) : active au registre, vente aux particuliers déclarée, zone maraîchère reconnue par une étude nationale. Horaires de vente et téléphone introuvables ; la page de l'office de tourisme qui le citait n'est plus accessible. **Piste à reprendre** quand les horaires seront connus.
+- Terramair (boulangerie bio) : le registre donne une adresse de vente à Blagnac, mais le site du commerce ne publie que son atelier et sa boutique à Toulouse. **Contradiction consignée, rien publié.**
+- Boucherie bio (rue Dominique-Ingres) : active au registre, aucune source web sur ses horaires. **Piste non publiée.**
+- Une liste d'alternatives de 2015 mentionne une « Biobox » rue Raymond-Grimaud : source trop ancienne, aucun contact actuel. **Écartée.**
+- L'Arche en Pays Toulousain : association d'action sociale au registre, sans vente au public vérifiée. **Écartée, hors sujet.**
+
+**Pistes non publiées** (lignes anonymes) :
+- Blagnac, exploitation maraîchère dont l'enseigne comporte un prénom : écartée pour doute sur une personne, ne se rouvre pas.
+- Blagnac, boulangerie-pâtisserie enregistrée sous un nom patronymique : pas d'enseigne vérifiable, écartée.
+- Muret (31600) : une dizaine d'opérateurs au registre vendant aux particuliers ; ils sont presque tous des entreprises individuelles sous nom patronymique. Écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Contradictions** : Terramair (adresse de vente de Blagnac contredite par le site du commerce), consignée ci-dessus.
+
+**Pourquoi rien n'est publié.** Deux pistes solides à Blagnac, mais aucune ne se publie sans image ou sans horaires de vente. Cinq fiches groupées dans une commune restent hors d'atteinte avec les sources de cette passe. Rien n'est publié à moitié.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59), puis la Seine-Maritime (76), selon le recalcul. À reprendre à Blagnac si une photo honnête du magasin ou un horaire de vente de la ferme est trouvé.
+
+**Constat de méthode.** Le verrou reste le même : la règle des cinq fiches entières dans une même commune face à un registre où les vendeurs aux particuliers sont souvent des personnes physiques. Cette règle relève du responsable du site ; elle n'est pas modifiée ici.
