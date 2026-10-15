@@ -37527,3 +37527,30 @@ Backlog vide. Département retenu : la **Loire (42)**. La Réunion (974), premie
 - Marché de Fonsala (mercredi) : la commune ne dit pas qu'il est alimentaire. Rien publié.
 
 **Pistes non publiées à Roanne** : non traitées, faute de temps dans cette passe. Sources repérées : l'office de tourisme du Roannais (marchés, place du Marché et place Victor Hugo), et une fiche de maraîcher bio à la ferme. À reprendre.
+
+### Passe autonome du 15 octobre 2026 (suite, nuit) : Seine-Maritime (76) désignée, Fécamp sondée, aucune publication
+
+Backlog : 1 en cours (demande n° 13, Villecroze, doute sur une personne, rien publié), 0 nouvelle. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches. Aucune réponse email à envoyer.
+
+**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. La Loire (42) est écartée : c'était la passe précédente (règle 41.c). Le premier département restant est la Seine-Maritime (76), déficit 4,3. **Seine-Maritime désignée.**
+
+**Commune, règle 41.d.** Les communes plus peuplées sans fiche ont déjà été éprouvées (Dieppe, quatre commerces ; Le Petit-Quevilly, deux pistes). Commune suivante sans fiche par population : **Fécamp** (17 313 habitants).
+
+**Ce qui a été lu.** Registre Agence Bio, Seine-Maritime complète (1 004 opérateurs, pagination par cent), filtré sur Fécamp, Montivilliers et Elbeuf. Recherche web sur le marché de Fécamp, sur une boutique bio de Montivilliers et sur un producteur de cidre de Montivilliers.
+
+**Pourquoi rien n'est publié.** Fécamp ne rend aucun commerce entièrement vérifié : le marché du samedi près de l'église Saint-Étienne n'apparaît que dans un annuaire régional, sans source officielle ni liste de producteurs ; la halle à marée du port n'a pas de page récente sourcée. Au registre, les entrées de Fécamp vendant aux particuliers sont des grandes surfaces généralistes. Montivilliers et Elbeuf rendent des pistes à vérifier, mais aucune n'atteint cinq fiches. La zone à cinq fiches n'est pas atteinte, et rien ne se publie seul (règle 127).
+
+**Pistes non publiées (Seine-Maritime, Fécamp, Montivilliers, Elbeuf)** — lignes anonymes :
+- Fécamp, marché du samedi près de l'église Saint-Étienne : source annuaire seule, horaires et producteurs non confirmés. Déblocage : une source de la ville ou de l'office de tourisme.
+- Fécamp, halle à marée du port (vendredi et samedi matin) : poissonnerie, pas de page récente. Déblocage : une page de la ville ou un horaire daté.
+- Montivilliers, boutique bio d'une enseigne de réseau : registre actif, adresse concordante, pas encore vérifiée sur le site du réseau. Rien publié.
+- Montivilliers, vente directe de cidre à la ferme : enseigne ressemblant à un patronyme, écartée pour doute sur une personne (règle 36). Ne se rouvre pas.
+- Montivilliers, vente directe d'un domaine de cidre : registre vente aux particuliers, aucune source web trouvée. Rien publié.
+- Montivilliers, vente au consommateur : enseigne ressemblant à un patronyme, écartée pour doute sur une personne. Ne se rouvre pas.
+- Elbeuf, épicerie bio : registre vente aux particuliers non cochée, rien publié.
+
+**Fiches écartées pour doute sur une personne** : trois cette passe (deux enseignes patronymiques de Montivilliers, une de Montivilliers à vente au consommateur), sans nom.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est le Gard (30) ou le Haut-Rhin (68), selon le recalcul. Fécamp reste en réserve, à reprendre si une source officielle de la ville apparaît.
+
+**Constat de méthode.** La règle de la zone à cinq fiches bloque toujours plus que la recherche : la descente de commune ne rend pas cinq commerces vérifiables en Seine-Maritime, et le registre bio y est trop généraliste pour fournir la liste.
