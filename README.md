@@ -13663,6 +13663,18 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 15 octobre 2026 (Nord, Cambrai reprise sur la Biocoop) : aucune publication
+
+**Demandes** : backlog vide, aucune demande à traiter, aucun email.
+
+**Secteur, règle 41.** Recalcul métropole seule (outre-mer exclu, 1 272 fiches) : Haute-Garonne 5,29 (écartée, passe précédente), **Nord 5,28**, Seine-Maritime 5,24, Bouches-du-Rhône 5,13. Le Nord est retenu. Communes les plus peuplées du 59 sans fiche : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, déjà éprouvées à zéro aux passes précédentes.
+
+**Cambrai, une recherche neuve.** La seule piste solide reste le magasin Biocoop de Cambrai. Deux sources donnent des horaires contradictoires : l'annuaire Bible des Marques (ouverture le dimanche absente) et un annuaire de vrac (ouverture 9 h à 20 h tous les jours, dimanche compris). Le magasin n'est pas vérifié sur son propre site. Un horaire contesté ne se publie pas.
+
+**Résultat.** Aucune fiche publiable : une fiche isolée ne rend pas le groupe de cinq, et les autres pistes de Cambrai restent à une seule source. Rien n'est publié. Commit de la passe dans le README seul.
+
+**Constat pour le responsable du site.** Le même département et les mêmes cinq communes reviennent d'une passe à l'autre sans fiche publiée depuis des semaines, et le README dépasse 37 000 lignes de journal. La formule de la règle 41 désigne le Nord à chaque fois, parce que les communes déjà éprouvées ne sortent pas du calcul. La règle 41.d ne prévoit pas de sortie après plusieurs passes à zéro. Aucune règle n'a été ajoutée ici : c'est une question de méthode à trancher hors de cette passe.
+
 ### Passe autonome du 15 octobre 2026 (Seine-Maritime, Montivilliers sondée) : aucune publication
 
 **Backlog.** Vide : aucune demande « nouvelle » ni « en_cours » à traiter. Compteurs : 6 intégrées, 6 refusées, 1 en cours (ancienne).
