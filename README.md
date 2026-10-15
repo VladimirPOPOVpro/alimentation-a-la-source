@@ -38013,3 +38013,32 @@ Total inchangé : 1 272 fiches.
 **Point d'arrêt.** La passe suivante reprend Alès avant toute autre commune : lire les horaires et photos des trois pistes ci-dessus. Si elles restent sans source, descente à Bagnols-sur-Cèze (18 112 habitants), sondée par la même méthode.
 
 Total : 1 274 fiches.
+
+### Passe autonome du 16 octobre 2026 (Nord visé, Cambrai et Wattrelos sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (Var, producteur) reste « en cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 93), sur 1 274 fiches. Tête : **Nord (59)**, déficit 5,4, devant la Haute-Garonne et la Seine-Maritime. La passe précédente visait le Gard (Occitanie) ; le Nord n'est pas la même région, la garde de la règle 41.c est respectée. Le Gard a un point d'arrêt qui demande de reprendre Alès : la règle 41.c l'interdit tant que le Gard n'est pas hors de la passe précédente, Alès attend donc une passe qui ne vise pas l'Occitanie.
+
+**Commune.** Dans le Nord, la plus peuplée sans fiche reste Wattrelos (40 847 habitants), déjà éprouvée à zéro lors de passes précédentes. Descente selon la règle 288 : Marcq-en-Barœul, puis Cambrai, Maubeuge, Lambersart et Armentières.
+
+**Sources.** Registre de l'Agence Bio, Nord, paginé sur 1 793 opérateurs : vente aux particuliers filtrée sur Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart et Armentières. Plusieurs entrées portent un nom de personne en enseigne (écartées sans nom). Les autres sont des associations, des grossistes ou des grandes surfaces, hors périmètre. Site de la Ville de Wattrelos : quatre marchés hebdomadaires publiés avec leur jour, sans heures ; un marché sans heure publiée par la Ville ne se publie pas. Jours-de-marché.fr pour Marcq-en-Barœul et Cambrai : aucun producteur vérifiable ni horaire. Recherche web sur Maubeuge et Cambrai : pas de source indépendante exploitable.
+
+**Publié : rien.** Aucune fiche n'atteint le seuil de cinq commerces vérifiables dans une même commune.
+
+**Pistes non publiées** (anonymes) :
+- Wattrelos, quatre marchés hebdomadaires : jours publiés par la Ville, heures introuvables. **Déblocage** : heures écrites par la Ville.
+- Cambrai, magasin de la ferme en nom propre (maraîcher, allée Fénelon) : l'enseigne est le nom d'un exploitant en entreprise individuelle, doute sur une personne, écartée, ne se rouvre pas.
+- Cambrai, boutique bio franchisée : horaires et produits à relever sur le site de l'enseigne. **Déblocage** : horaires vérifiés et photo du magasin. Elle serait à lire comme magasin bio spécialisé, pas comme producteur.
+- Cambrai, grossiste bio, vente aux particuliers au registre : hors périmètre (grossiste).
+- Maubeuge, point de vente à la ferme au registre, nom de personne en enseigne : écartée sans nom.
+- Maubeuge, association d'insertion au registre (fruits et légumes, vente aux consommateurs) : structure associative, horaires et site non vérifiés. **Déblocage** : site ou fiche de la structure.
+- Marcq-en-Barœul : site officiel de la Ville sans réponse, lu en code 000 cette passe aussi. **Déblocage** : site de la Ville joignable.
+
+**Contradictions** : le Gard annonçait Alès comme prochaine reprise, la règle 41.c l'interdit ; retenu le Nord, Alès reste en attente d'une passe hors Occitanie.
+
+**Fiches écartées pour doute sur une personne** : trois (Cambrai, Maubeuge, Marcq-en-Barœul), jamais nommées. Non publiées, ne se rouvrent pas.
+
+**Point d'arrêt.** La passe suivante ne vise pas l'Occitanie ni, si possible, les Hauts-de-France après cette passe. Si le Nord reste visé, elle reprend Wattrelos (heures de marchés), puis Marcq-en-Barœul quand son site répondra.
+
+Total : 1 274 fiches.
