@@ -37840,3 +37840,34 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (doute sur une p
 **Pourquoi rien n'est publié.** Dieppe n'offre aujourd'hui qu'une fiche presque complète sur cinq. Une fiche sans site vérifié ni source de l'office ou de la commune ne se publie pas seule, et cinq fiches groupées ne sont pas atteignables avec les sources de cette passe.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est le Gard (30) à égalité avec le Haut-Rhin (68). À reprendre à Dieppe : site de la Coop d'Albatre, brochure de l'office relue à la main, marché confirmé par la commune ; descente vers Le Petit-Quevilly si Dieppe reste vide.
+
+### Passe autonome du 15 octobre 2026 (Haute-Garonne (31) visée, Blagnac sondée à nouveau) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, doute sur une personne, rien publié, aucune réponse envoyée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 272 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règle 93), population au dénominateur de 34 969 communes, numérateur sur 1 272 fiches. Déficit recalculé : Haute-Garonne (31) 5,29 ; Seine-Maritime (76) 5,24 ; Gard (30) 4,82 ; Haut-Rhin (68) 4,82. La Seine-Maritime, visée à la passe précédente, est écartée par la règle 41.c. **Haute-Garonne désignée** ; la région de la passe précédente n'est pas l'Occitanie, la règle 41.c ne ferme pas le 31.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) reste la commune la plus peuplée du 31 sans fiche. Elle a déjà été éprouvée à zéro plusieurs fois ; cette passe la reprend avec de nouvelles sources, sans les mêmes annuaires.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, les 2 837 opérateurs lus en entier (vingt-neuf pages de cent). Filtrés sur Blagnac : vingt-cinq entrées. Écartées pour doute sur une personne : six entreprises individuelles ou exploitations au nom patronymique, aucun nom consigné, ne se rouvrent pas. Écartés pour catégorie (boulangerie, restauration, grossiste, sous-traitance, enseigne de grande distribution) : le reste.
+- Haute-Garonne Tourisme, fiche du marché de Blagnac : un marché du mercredi, place des Marronniers, 15 h 30 à 19 h 30, vingt à vingt-cinq producteurs et artisans alimentaires ; un marché du samedi, place des Arts, 8 h à 13 h. Le site de la Ville, qui liste ses marchés de plein vent (« producteurs, artisans et commerçants, bio et conventionnel », quatre-vingt-dix étals), n'a pu être lu directement, seulement par extrait de recherche : une source municipale partielle, à relire.
+- Une enseigne Biocoop à Blagnac (rue Henri Matisse) : adresse et téléphone concordants dans deux annuaires ; horaires (lundi au samedi, 9 h à 19 h 30) donnés par un seul annuaire ; site officiel du magasin introuvable. Contradiction consignée (règle 5) : le registre Agence Bio déclare le magasin sans vente aux particuliers, alors que c'est un magasin de détail ouvert au public.
+- Les Maraîchers des Quinze Sols (GAEC maraîchage bio, chemin des Ortalans) : existence et activité confirmées par le registre et par une fiche de Toulouse Tourisme, mais aucun site, téléphone ni horaire de vente trouvé ; le registre déclare une vente aux consommateurs, sans précision de lieu ni de régime.
+- L'Arche en Pays Toulousain (association, ESAT à maraîchage bio, rue du Docteur-Guimbaud) : le registre déclare une vente aux particuliers, mais la nature de cette vente (boutique, panier, sur commande) n'est pas établie ; les horaires des annuaires (lundi au vendredi, 8 h à 20 h) ne sont pas ceux d'une boutique vérifiée.
+- Un GAEC maraîcher du chemin des Ortalans, déclaré au registre en vente aux consommateurs : aucune trace web, aucun téléphone, aucun horaire. Non retenu.
+- Les pages Circuits courts et Marchés de la Ville, et le site du magasin Biocoop, n'ont pas été lisibles en direct.
+
+**Pistes non publiées** (lignes anonymes) :
+- Blagnac, marché du mercredi (place des Marronniers) : horaires et producteurs donnés par l'office seul ; une seule source, à confirmer par la Ville.
+- Blagnac, marché du samedi (place des Arts) : marché mixte bio et conventionnel, plutôt généraliste ; à instruire avec la liste des exposants.
+- Blagnac, enseigne Biocoop (rue Henri Matisse) : deux annuaires concordants pour l'adresse et le téléphone, un seul pour les horaires, déclaration de vente contraire au registre. Déblocage : horaires sur le site officiel du magasin.
+- Blagnac, maraîchage bio du chemin des Ortalans (GAEC) : entité active, aucun point de vente vérifié. Déblocage : téléphone ou site de la ferme.
+- Blagnac, association médico-sociale à maraîchage bio : régime de vente à établir auprès de l'association.
+- Six entreprises au nom patronymique du registre, à Blagnac et dans l'agglomération : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : six, à Blagnac (entreprises individuelles au nom patronymique), aucun nom consigné.
+
+**Pourquoi rien n'est publié.** Blagnac rend deux marchés de plein vent, dont un mixte, une enseigne bio à horaires non confirmés et une ferme sans point de vente vérifié. Cinq fiches groupées, chacune avec une source indépendante et des horaires établis, ne sont pas atteignables avec les sources de cette passe. Rien ne se publie à moitié.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est la Seine-Maritime si elle n'est plus la région de la passe précédente, puis le Gard et le Haut-Rhin, à égalité. Pour Blagnac, reprendre avec : les horaires du magasin Biocoop sur le site officiel, le téléphone ou le site de la ferme maraîchère, la page des marchés de la Ville lue en direct. Si Blagnac reste vide, la descente suit le classement par population : Muret, puis Plaisance-du-Touch.
