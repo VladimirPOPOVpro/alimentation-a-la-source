@@ -37914,3 +37914,27 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Contradictions** : aucune nouvelle cette passe.
 
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+### Passe autonome du 15 octobre 2026 (Haute-Garonne visée, Blagnac, Muret et Plaisance sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande déjà en attente (Var) reste `en_cours` : doute sur une personne, rien n'est publié.
+
+**Classement, règle 41.** Métropole seule (les départements d'outre-mer sont exclus : la validation du build refuse les coordonnées hors métropole). Population par département (geo.api.gouv.fr) contre 1 272 fiches publiées. La passe précédente visait la Seine-Maritime : la région est fermée (règle 41.c). Tête éligible : **Haute-Garonne (31)**, déficit 5,29, à égalité quasi parfaite avec le **Nord (59)**, 5,28. Haute-Garonne retenue par la règle de la commune la plus peuplée sans fiche.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) reste la commune la plus peuplée sans fiche. Sondage ce soir :
+- le registre de l'Agence Bio, relu en entier pour le 31 (2 837 opérateurs) : une dizaine d'établissements domiciliés à Blagnac, dont deux ou trois déclarent une vente aux particuliers, aucun avec un site, un téléphone ou un horaire vérifié ;
+- recherche web sur les marchés et la vente directe à Blagnac pour 2026 : aucun marché de producteurs trouvé, seuls des magasins généralistes ;
+- le site de la Ville n'est pas joignable depuis cet environnement (échec de connexion), donc la page « Marchés » n'a pas pu être lue.
+
+Muret (26 079 habitants) puis Plaisance-du-Touch (21 079) sondées dans la foulée : même constat. Une recherche web n'a trouvé qu'un guide touristique de l'agglomération muretaine, sans liste de marchés datée ; le site de Muret et celui de Plaisance-du-Touch ne sont pas joignables.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables avec une source indépendante et des horaires établis. Rien ne se publie à moitié.
+
+**Pistes non publiées** (anonymes) :
+- Haute-Garonne, Blagnac : deux ou trois établissements au registre déclarant la vente aux particuliers, sans site, téléphone ni horaire vérifiés. **Déblocage** : une page « Marchés » de la Ville lue en direct, ou un site producteur daté.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est le Nord (59), à égalité avec la Haute-Garonne, puis les Bouches-du-Rhône (13) à 5,13. Pour Blagnac, reprendre avec la page « Marchés » de la Ville une fois le site joignable ; si Blagnac reste vide, la descente suit Muret puis Plaisance-du-Touch, qui n'ont été sondées que par le web.
+
+**Contradictions** : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : une nouvelle piste en Haute-Garonne, écartée pour doute sur une personne (commune de Muret, producteur en nom propre), jamais nommée.
