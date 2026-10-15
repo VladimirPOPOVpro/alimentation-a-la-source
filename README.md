@@ -37959,3 +37959,27 @@ Muret (26 079 habitants) puis Plaisance-du-Touch (21 079) sondées dans la foul�
 **Point d'arrêt.** Prochaine passe : ne pas revenir sur le Haut-Rhin tant que la commune n'a pas au moins trois entités actives au registre ; l'élargissement suivant est Illzach puis Rixheim, sources d'abord, mairie et office de tourisme.
 
 Total inchangé : 1 272 fiches.
+
+### Passe autonome du 15 octobre 2026 (Seine-Maritime, Canteleu sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande déjà en attente (Var, producteur) reste « en cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 93), sur 1 272 fiches. Tête : **Seine-Maritime (76)**, déficit 4,26, devant le Gard (4,22) et le Haut-Rhin (4,22). La passe précédente visait le Haut-Rhin (Grand Est) : la région n'est pas reprise (règle 41.c).
+
+**Commune.** Dieppe (28 496 habitants) reste la plus peuplée sans fiche, déjà éprouvée à plusieurs reprises sans cinq commerces vérifiables (règle 82). Le registre de l'Agence Bio, relu pour le 76 (1 004 opérateurs), n'y donne aucun producteur vendant aux particuliers avec une source propre. Descente à **Canteleu** (14 402 habitants), comme le prévoyait le point d'arrêt du 10 octobre.
+
+**Sondage de Canteleu.** Registre de l'Agence Bio : deux exploitations inscrites en production qui déclarent la vente aux particuliers, toutes deux sous un nom de personne physique sans enseigne distincte. Doute sur une personne : écartées, ne se rouvrent pas. Le reste des opérateurs de la commune sont des distributeurs, des transformateurs ou des grandes surfaces, hors périmètre.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables avec une source indépendante et des horaires établis. Rien ne se publie à moitié.
+
+**Pistes non publiées** (anonymes) :
+- Seine-Maritime, Canteleu : deux exploitations en nom propre au registre, vente aux particuliers déclarée, doute sur une personne : écartées, ne se rouvrent pas.
+- Seine-Maritime, Fécamp : magasin de producteurs non lu cette passe (adresse au registre, site propre non ouvert). **Déblocage** : une page du commerce lue en direct.
+
+**Contradictions** : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : deux (Seine-Maritime, Canteleu), jamais nommées.
+
+**Point d'arrêt.** La passe suivante ne vise pas la Normandie si la Seine-Maritime reste en tête après un nouveau décompte (règle 41.c : pas deux passes de suite dans la même région, mais la passe d'aujourd'hui vise la Normandie, donc la suivante doit l'éviter). Reprendre Fécamp par le site du commerce, lu en direct.
+
+Total inchangé : 1 272 fiches.
