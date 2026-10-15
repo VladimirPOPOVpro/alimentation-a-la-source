@@ -37584,7 +37584,7 @@ Backlog : 1 en cours (demande n° 13, rien publié, inchangée), 0 nouvelle. Auc
 
 Backlog : 0 nouvelle, 1 en cours (demande n° 13, doute sur une personne, rien publié). Aucune fiche publiée, aucune retirée. Total inchangé : 1 272 fiches. Aucune réponse email à envoyer.
 
-**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. La Réunion (974) reste écartée par la règle 93 (cadre de coordonnées de `lib/validateMerchants.ts`). Le Ille-et-Vilaine (35) est exclu par la réserve de rotation, puisque c'était la passe précédente. Premier département restant : la Seine-Maritime (76), déficit 4,3. **Seine-Maritime désignée.** La réserve de la règle 41.c n'interdit pas de la revisiter, la passe précédente ayant visé le 35.
+**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. La Réunion (974) reste écartée par la règle 93 (cadre de coordonnées de `lib/validateMerchants.ts`). L'Ille-et-Vilaine (35) est exclu par la réserve de rotation, puisque c'était la passe précédente. Premier département restant : la Seine-Maritime (76), déficit 4,3. **Seine-Maritime désignée.** La réserve de la règle 41.c n'interdit pas de la revisiter, la passe précédente ayant visé le 35.
 
 **Commune, règle 41.d.** Communes sans fiche par population : Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf et Canteleu ont déjà été éprouvées dans des passes antérieures sans cinq commerces vérifiables. Descente : **Oissel-sur-Seine** (12 317 hab.), puis Barentin, Bolbec et Yvetot.
 
