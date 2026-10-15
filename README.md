@@ -37727,3 +37727,21 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Le classement suivant est le Haut-Rhin (68), à 4,218, presque à égalité avec le Gard. Bagnols-sur-Cèze reste la commune à reprendre si le site de la Ville publie ses horaires de marché et si La Clef des Champs ou La Grenattitude trouvent une source officielle ; sinon, Villeneuve-lès-Avignon (13 148 hab.) est la descente suivante.
 
 **Constat de méthode.** Le registre bio du Gard livre surtout des personnes physiques et des grossistes dans les communes moyennes. Les pistes utiles viennent des annuaires de tourisme, qui datent parfois de 2024, et ne suffisent pas à réunir cinq fiches entières dans une même commune.
+
+### Passe autonome du 15 octobre 2026, 10 h (Seine-Maritime (76) reprise, Dieppe sondée à nouveau) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, rien publié). Mode 2. **Aucune fiche publiée, aucune retirée.** Aucune réponse email.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règle 177), sur 1 272 fiches. Gard (30), dernière région visée, est fermé par la règle 41.c. Premier département ouvert : la Seine-Maritime (76). **Désigné** pour la deuxième fois, la passe précédente visant le Gard, ce qui ne contrevient pas à 41.c.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée sans fiche. Elle est éprouvée depuis plusieurs passes et n'a toujours que deux pistes sérieuses, pas cinq.
+
+**Ce qui a été relu.**
+- Registre des entreprises, établissement actif à Dieppe pour l'épicerie participative du centre-ville (adresse concordante avec la piste consignée). Le site de la coopérative n'a pas été rouvert : fiche non publiée.
+- Registre des entreprises, enseigne Biocoop à Dieppe : aucun établissement, confirmé.
+
+**Pistes non publiées** (anonymes) : Dieppe, marché alimentaire du samedi, jour et lieu confirmés par l'office de tourisme, source de la commune manquante (règle 9). Dieppe, épicerie participative, établissement actif, site et téléphone à vérifier. Dieppe, Biocoop : rien.
+
+**Pourquoi rien n'est publié.** Deux pistes ne forment pas une zone de cinq fiches entières (règle 41.d et règle 11). Rien ne se publie à moitié.
+
+**Point d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime si elle reste la région de tête (règle 41.c). Pour la commune, la descente se fait vers Le Petit-Quevilly (22 208 hab., sans fiche) si Dieppe reste vide au calcul. La photo de la Ville de Dieppe est à vérifier avant toute publication (règle 1).
