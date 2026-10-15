@@ -37883,3 +37883,13 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Pourquoi rien n'est publié.** Blagnac rend deux marchés de plein vent, dont un mixte, une enseigne bio à horaires non confirmés et une ferme sans point de vente vérifié. Cinq fiches groupées, chacune avec une source indépendante et des horaires établis, ne sont pas atteignables avec les sources de cette passe. Rien ne se publie à moitié.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur la Haute-Garonne (règle 41.c). Le classement suivant est la Seine-Maritime si elle n'est plus la région de la passe précédente, puis le Gard et le Haut-Rhin, à égalité. Pour Blagnac, reprendre avec : les horaires du magasin Biocoop sur le site officiel, le téléphone ou le site de la ferme maraîchère, la page des marchés de la Ville lue en direct. Si Blagnac reste vide, la descente suit le classement par population : Muret, puis Plaisance-du-Touch.
+
+### Passe autonome du 15 octobre 2026 (Haute-Garonne, Blagnac reprise, demande en attente) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (Var, commune de Villecroze, producteur) : le nom du commerce est un prénom et le contact est personnel. Doute sur une personne : rien n'est publié, aucun nom consigné.
+
+**Pistes non publiées (Var, Villecroze)** — ligne anonyme : producteur, demande en attente, doute sur une personne.
+
+**Commune, règle 248.** Haute-Garonne, déficit de tête en métropole (règle 41.c : la Normandie est écartée, région de la passe précédente, le Nord). Blagnac (27 604 habitants) reste la commune la plus peuplée sans fiche. Registre Agence Bio relu sur le département : rien de vendable au public à Blagnac. Recherche web sur les marchés et le circuit court : aucune source municipale lisible, un annuaire de producteurs sans commune précise, un rapport de commerce de 2024 non exploitable. Rien ne se publie.
+
+**Points d'arrêt.** Reprendre Blagnac par la page « Marchés » du site de la Ville, lue en direct. Si Blagnac reste vide, la descente suit Muret, puis Plaisance-du-Touch.
