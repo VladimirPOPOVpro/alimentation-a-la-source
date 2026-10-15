@@ -33612,5 +33612,28 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Ornano%20Boulevard%20Ornano%2C%20trottoirs%20pair%20et%20impair%20entre%20la%20rue%20du%20Mont-Cenis%20et%20la%20rue%20Boisnot%2C%2075018%20Paris",
     "image_url": "/images/marchands/marche-ornano.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-centre-ville-saint-chamond",
+    "nom": "Marché du centre-ville",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.474673,
+    "lon": 4.509788,
+    "adresse": "Place de la Liberté, 42400 Saint-Chamond",
+    "horaires": "Mardi et samedi, de 7h à 12h (source : site de la commune de Saint-Chamond, page des marchés forains). Heures reprises de la commune, à confirmer.",
+    "produits": [
+      "Produits alimentaires",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Marché alimentaire du centre-ville de Saint-Chamond, place de la Liberté, avec des producteurs selon la commune. La mairie ne détaille pas les produits proposés.",
+    "site_web": "https://saint-chamond.fr/pratique/marches-forains/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+centre-ville+Saint-Chamond",
+    "image_url": "/images/marchands/marche-centre-ville-saint-chamond.jpg",
+    "a_confirmer": true
   }
 ]

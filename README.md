@@ -37514,3 +37514,16 @@ Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publ
 **Descente non achevée.** Fécamp (17 313 habitants, 0 fiche), Montivilliers et Elbeuf restent à éprouver lors de la passe suivante qui reviendra en Seine-Maritime (règle 247 : compteur de communes éprouvées à tenir).
 
 **Constat de méthode.** Une commune de la descente ne rend pas cinq commerces entiers, comme dans les passes précédentes. Le verrou est la règle de la zone à cinq fiches, pas la recherche.
+
+### Passe autonome du 15 octobre 2026 : Loire (42), une fiche publiée
+
+Backlog vide. Département retenu : la **Loire (42)**. La Réunion (974), premier du calcul de la règle 41, reste écartée par la règle 93 (son cadre de coordonnées sort de la fenêtre France de `lib/validateMerchants.ts`, hors périmètre). La Seine-Maritime, visée à la passe précédente, est exclue par la réserve de rotation. Commune suivante sans fiche par population : **Saint-Chamond** (35 646 hab.), puis Roanne.
+
+**Publié** : Marché du centre-ville de Saint-Chamond (place de la Liberté, mardi et samedi, 7h à 12h, source : site de la commune). `a_confirmer: true` : la commune ne détaille pas les produits, et les heures sont reprises de sa seule page. Photo : image du site de la commune (2022), prise dans une fête de marché ; le lieu exact de la prise de vue n'est pas confirmé (règle 1 : illustration, pas le lieu).
+
+**Pistes non publiées à Saint-Chamond** :
+- Magasin de producteurs, avenue Jules Ferry (42400). Entreprise active au registre, adresse concordante. Horaires issus de la seule carte Que Choisir, qui peut être périmée, et aucune photo sourcée : rien publié.
+- Marchés de Chavanne (vendredi 16h à 19h), du Creux (mercredi et samedi, 7h à 12h) et d'Izieux (vendredi, 7h à 12h) : producteurs signalés par la commune, mais aucune liste de produits et aucune photo sourcée.
+- Marché de Fonsala (mercredi) : la commune ne dit pas qu'il est alimentaire. Rien publié.
+
+**Pistes non publiées à Roanne** : non traitées, faute de temps dans cette passe. Sources repérées : l'office de tourisme du Roannais (marchés, place du Marché et place Victor Hugo), et une fiche de maraîcher bio à la ferme. À reprendre.
