@@ -33635,5 +33635,51 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+centre-ville+Saint-Chamond",
     "image_url": "/images/marchands/marche-centre-ville-saint-chamond.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-hebdomadaire-ales",
+    "nom": "Marché hebdomadaire d'Alès",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.127753,
+    "lon": 4.076556,
+    "adresse": "Rue des Prés Saint Jean, 30100 Alès",
+    "horaires": "Le dimanche, de 7h à 13h, selon la fiche de Cévennes Tourisme mise à jour pour 2026. Une source de la Ville et un agenda local ne donnent pas le même jour : à confirmer auprès de la mairie.",
+    "produits": [
+      "Produits alimentaires (marché surtout alimentaire)",
+      "Textile et objets divers"
+    ],
+    "description": "Marché hebdomadaire de plein air de la ville d'Alès, surtout alimentaire, avec aussi du textile et d'autres objets, selon l'office de tourisme.",
+    "image_url": "/images/marchands/marche-hebdomadaire-ales.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-du-coin-ales",
+    "nom": "La Ferme du Coin",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 44.119737,
+    "lon": 4.078342,
+    "adresse": "1 bis Avenue Marcel Cachin, 30100 Alès",
+    "horaires": "Du mardi au samedi, de 9h à 13h et de 15h à 19h ; fermé le lundi et le dimanche. Horaires relevés dans une présentation de la boutique, à reconfirmer.",
+    "produits": [
+      "Légumes et fruits de saison",
+      "Volaille, bœuf, veau, porc, agneau et charcuterie",
+      "Fromages de chèvre, brebis et vache, lait et yaourts",
+      "Œufs et pains au levain",
+      "Vins, bière et jus de fruits",
+      "Confitures, miel et sirops",
+      "Pâtés, conserves et spécialités à la châtaigne",
+      "Tisanes, spiruline et laine mohair"
+    ],
+    "description": "Boutique collective où des producteurs et artisans du Gard et de Lozère tiennent le comptoir à tour de rôle ; chacun vend des produits de sa propre exploitation, bio ou non.",
+    "image_url": "/images/marchands/la-ferme-du-coin-ales.jpg",
+    "a_confirmer": true
   }
 ]

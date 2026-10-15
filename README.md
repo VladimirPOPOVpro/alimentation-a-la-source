@@ -37983,3 +37983,33 @@ Total inchangé : 1 272 fiches.
 **Point d'arrêt.** La passe suivante ne vise pas la Normandie si la Seine-Maritime reste en tête après un nouveau décompte (règle 41.c : pas deux passes de suite dans la même région, mais la passe d'aujourd'hui vise la Normandie, donc la suivante doit l'éviter). Reprendre Fécamp par le site du commerce, lu en direct.
 
 Total inchangé : 1 272 fiches.
+
+### Passe autonome du 15 octobre 2026 (Gard visé, Alès sondée) : deux fiches publiées
+
+**Backlog.** Aucune demande « nouvelle ». La demande en attente (Var, producteur) reste « en cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 93), sur 1 272 fiches. Tête : La Réunion (974), écartée. Ensuite **Gard (30)**, déficit 4,22, devant le Haut-Rhin (4,22) ; la passe précédente visait la Normandie, donc la garde de la règle 41.c est respectée.
+
+**Commune.** Nîmes et Beaucaire portent déjà des fiches ; la plus peuplée sans aucune fiche est **Alès** (46 125 habitants).
+
+**Sources.** Registre de l'Agence Bio, Gard, paginé sur 3 076 opérateurs : 51 à Alès, dont une grande part d'entreprises de transformation, de distribution ou de grandes surfaces, hors périmètre. Office de tourisme (Cévennes Tourisme, Gard Tourisme) pour le marché et la boutique collective. Registre des entreprises pour l'activité.
+
+**Publié (2 fiches, toutes deux à confirmer).**
+- Marché hebdomadaire d'Alès : dimanche 7h-13h, rue des Prés Saint Jean. Le jour diffère selon les sources, à confirmer auprès de la mairie. Photo de l'office de tourisme (vêtements sur étals, aucune personne).
+- La Ferme du Coin : boutique collective de producteurs du Gard et de Lozère, 1 bis avenue Marcel Cachin. Horaires à reconfirmer. Photo de l'office de tourisme (intérieur de boutique).
+
+**Pistes non publiées** (anonymes) :
+- Alès, épicerie bio coopérative active au registre : horaires relevés sur une source de 2019 seulement, pas de photo propre. **Déblocage** : horaires lus en direct et photo du commerce.
+- Alès, boutique de viandes de porc plein air (rue des Mourgues) : données de 2022, association active au registre, boutique non revérifiée, pas de photo. **Déblocage** : horaires actuels et photo du commerce.
+- Alès, halle couverte gérée par la Ville, rouverte en 2025 : horaires non confirmés, pas de photo. **Déblocage** : horaires écrits par la mairie.
+- Alès, magasin bio : enseigne au registre ne correspondant pas à l'enseigne actuelle, horaires partiels. Écartée jusqu'à confirmation de l'enseigne.
+- Alès, vente à la ferme : exploitant en nom propre, doute sur une personne, écartée, ne se rouvre pas.
+- Alès, vente en vrac : radiée au registre (établissement fermé), écartée.
+
+**Contradictions** : le jour du marché varie selon les sources ; retenu le dimanche, celui de l'office de tourisme pour 2026, avec la réserve de confirmation.
+
+**Fiches écartées pour doute sur une personne** : une (Alès), jamais nommée.
+
+**Point d'arrêt.** La passe suivante reprend Alès avant toute autre commune : lire les horaires et photos des trois pistes ci-dessus. Si elles restent sans source, descente à Bagnols-sur-Cèze (18 112 habitants), sondée par la même méthode.
+
+Total : 1 274 fiches.
