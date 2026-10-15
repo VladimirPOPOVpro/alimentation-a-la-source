@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 15 octobre 2026 (Seine-Maritime, Montivilliers sondée) : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle » ni « en_cours » à traiter. Compteurs : 6 intégrées, 6 refusées, 1 en cours (ancienne).
+
+**Classement, règle 41.** Outre-mer écarté (règle 177). Gard exclu (règle 41.c : la passe précédente visait l'Occitanie). Premier département ouvert : **Seine-Maritime (76)**, déficit ≈ 4,3 sur 1 272 fiches, devant le Haut-Rhin et le Puy-de-Dôme.
+
+**Commune, règle 41.d.** Le 76 compte déjà des fiches dans Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Le Grand-Quevilly et Bois-Guillaume. La plus peuplée sans fiche reste Dieppe, éprouvée une vingtaine de fois sans cinq commerces vérifiables (règles 96 et 127). Descente à **Montivilliers (15 478 hab.)**, dans l'agglomération du Havre.
+
+**Ce qui a été lu.** Registre Agence Bio, première page du département 76 (cent opérateurs relus) : aucun producteur à vente directe déclarée à Montivilliers. Recherche web : un marché d'été en soirée (« Monti'Marchés », un vendredi sur deux) dont les dates changent d'une année à l'autre et dont aucune liste d'exposants n'est publiée ; aucun magasin de producteurs ni AMAP trouvé dans la commune.
+
+**Pourquoi rien n'est publié.** Montivilliers ne rend aucun commerce vérifiable à ce jour. Le marché d'été n'a ni dates fixes publiées ni liste d'exposants (règle 9 et règle 74 : une fiche qui annonce une séance doit pouvoir en donner les horaires). Une fiche isolée ne forme pas une zone.
+
+**Pistes non publiées (Seine-Maritime, Montivilliers)** : marché de soirée d'été, dates non publiées de façon stable. **Déblocage** : un calendrier annuel publié par la Ville, ou la liste des exposants.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime si elle reste en tête après un nouveau décompte (règle 41.c : la dernière passe de la journée visait l'Occitanie, la Seine-Maritime peut donc revenir). Reprise prévue : Le Petit-Quevilly (photographie à ne pas reprendre sans droit), puis Fécamp (marché du samedi à confirmer auprès de la Ville).
+
 ### Passe autonome du 14 octobre 2026 (Seine-Maritime sondée à tort, Dieppe et Fécamp relues) : aucune publication
 
 Backlog : 0 nouvelle, 1 en cours (#13, Var, traitée à part, inchangée). Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches.
