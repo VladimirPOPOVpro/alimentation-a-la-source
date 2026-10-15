@@ -37745,3 +37745,27 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Pourquoi rien n'est publié.** Deux pistes ne forment pas une zone de cinq fiches entières (règle 41.d et règle 11). Rien ne se publie à moitié.
 
 **Point d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime si elle reste la région de tête (règle 41.c). Pour la commune, la descente se fait vers Le Petit-Quevilly (22 208 hab., sans fiche) si Dieppe reste vide au calcul. La photo de la Ville de Dieppe est à vérifier avant toute publication (règle 1).
+
+### Passe autonome du 15 octobre 2026 (Gard (30) visé, Saint-Gilles sondée, descente Villeneuve-lès-Avignon) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, doute sur une personne, rien publié, aucune réponse envoyée). Mode 2. **Aucune fiche publiée, aucune retirée.** Aucune réponse email. Total inchangé : 1 272 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règle 93), population au dénominateur de 34 969 communes, numérateur sur 1 272 fiches. Seine-Maritime (76), dernière région visée, est écartée par la règle 41.c. Recalcul : Gard (30) 4,22 ; Haut-Rhin (68) 4,22 ; Haute-Garonne (31) 4,15 ; Pyrénées-Atlantiques (64) 4,03. **Gard désigné** : la passe précédente visait la Seine-Maritime, donc la règle 41.c ne ferme pas le Gard.
+
+**Commune, règle 41.d.** Nîmes, Beaucaire et Caissargues portent déjà des fiches. Saint-Gilles (14 734 hab.) est la commune la plus peuplée sans fiche, et non Villeneuve-lès-Avignon comme la passe précédente l'annonçait : elle a été sondée en premier.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Gard, quatre pages de cent opérateurs (400 lignes), filtrées sur Saint-Gilles : quinze opérateurs, presque tous des producteurs sans vente au public, des grossistes ou des préparateurs, et des entreprises individuelles au nom patronymique (écartées pour doute sur une personne, ne se rouvrent pas). Une seule enseigne à vente aux consommateurs non patronymique est sortie : la piste ci-dessous.
+- Recherche web sur Saint-Gilles (marchés, producteurs, magasins de producteurs) : aucun marché hebdomadaire ni point de vente en circuit court trouvé dans les sources accessibles ; seul un marché de Noël est signalé. La mairie est à consulter sur son site officiel.
+- Descente à Villeneuve-lès-Avignon (13 148 hab.), sondée sur deux annuaires : les marchés alimentaires y sont donnés pour le jeudi par l'un et le samedi par l'autre, sans confirmation de la commune. Aucun producteur en vente directe trouvé.
+
+**Pistes non publiées** (lignes anonymes) :
+- Saint-Gilles, producteur bio déclaré en vente aux consommateurs au registre, sans site, sans téléphone ni horaires vérifiés, sans source indépendante : à reprendre.
+- Villeneuve-lès-Avignon, marché alimentaire du jeudi ou du samedi selon les annuaires : jour contradictoire, pas de source municipale ; règle 16 non atteinte, rien ne se publie.
+- Villecroze (Var, 83), producteur, demande n° 13 : enseigne au prénom et contact privé, doute sur une personne, rien publié, la demande reste en cours.
+
+**Fiches écartées pour doute sur une personne** : une cette passe, à Saint-Gilles (entreprise individuelle au nom patronymique, sans nom consigné), plus la demande n° 13 à Villecroze.
+
+**Pourquoi rien n'est publié.** Saint-Gilles n'offre aucune source de vente directe vérifiée, et Villeneuve-lès-Avignon ne livre qu'un marché au jour disputé. Cinq fiches groupées ne sont pas atteignables avec les sources de cette passe. Rien n'est publié à moitié.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Le classement suivant reste le Haut-Rhin (68) à égalité. Dans le Gard, Saint-Gilles reste à reprendre si la mairie publie ses marchés ; Villeneuve-lès-Avignon attend la confirmation du jour de marché par la commune (règle 16).
