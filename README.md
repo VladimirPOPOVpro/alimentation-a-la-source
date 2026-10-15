@@ -37785,3 +37785,31 @@ Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13,
 **Pourquoi rien n'est publié.** Saint-Gilles n'offre aucune source de vente directe vérifiée, et Villeneuve-lès-Avignon ne livre qu'un marché au jour disputé. Cinq fiches groupées ne sont pas atteignables avec les sources de cette passe. Rien n'est publié à moitié.
 
 **Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c). Le classement suivant reste le Haut-Rhin (68) à égalité. Dans le Gard, Saint-Gilles reste à reprendre si la mairie publie ses marchés ; Villeneuve-lès-Avignon attend la confirmation du jour de marché par la commune (règle 16).
+
+### Passe autonome du 15 octobre 2026, Alès à nouveau (Gard (30) visé) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 « en cours » inchangée (demande n° 13, nom pouvant désigner une personne, rien publié, aucune réponse envoyée). Mode 2. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 272 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règle 93), population au dénominateur de 34 969 communes. La Seine-Maritime, visée à la passe précédente, est écartée par la règle 41.c. Gard (30) désigné à nouveau, la passe précédente ne visant pas le Gard.
+
+**Commune, règle 41.d.** Alès (46 125 hab.) reste la commune la plus peuplée du Gard sans fiche. Saint-Gilles (14 734 hab.), sondée à la passe précédente, n'est donc pas la commune à reprendre en premier.
+
+**Ce qui a été lu.**
+- Office de tourisme du Gard, fiche de La Ferme du Coin (Alès) : adresse 1 bis avenue Marcel Cachin, ouverture du mardi au samedi de 9 h à 13 h et de 15 h à 19 h, fermé le lundi et le dimanche ; boutique tenue à tour de rôle par les producteurs et artisans eux-mêmes (règle 8 : point de vente collectif permanent, catégorie `producteur`). La fiche de l'office date de décembre 2024.
+- Que Choisir, carte circuit court : mêmes jours et heures d'ouverture, cohérents avec la fiche de l'office.
+- Adresse géocodée par la BAN (score 0,80, `[4.078342, 44.119737]`).
+- Registre des entreprises : aucune entité active retournée sous le nom de la boutique ni sous « coin Alès » ; un point de vente tenu à tour de rôle par des producteurs peut relever d'une association ou d'un groupement non indexé. Ce point reste à éclaircir avant publication.
+- Marché hebdomadaire d'Alès : la fiche de l'office de tourisme le donne le dimanche matin, 7 h à 13 h, rue des Prés Saint-Jean, sans source municipale trouvée. Une source ancienne évoque un marché le lundi. Règle 9 : deux sources officielles requises, la commune n'est pas confirmée ; rien ne se publie.
+
+**Pistes non publiées** (lignes anonymes) :
+- Alès, boutique de producteurs en rotation (avenue Marcel Cachin) : existence, adresse et horaires confirmés par l'office de tourisme et une source tierce ; statut juridique au registre à éclaircir, photo honnête à trouver (site officiel absent, pas de site web identifié). Candidate prête pour la prochaine passe alésienne.
+- Alès, marché hebdomadaire du dimanche matin : jour donné par l'office seul, à confirmer par la commune (ales.fr, service des marchés).
+- Alès, magasin bio du centre-ville et magasin bio avenue Olivier-de-Serres : enseignes à vérifier au registre et sur leur site, pas encore instruites.
+- Alès, épicerie fine de la rocade (ouverte en 2026) : pas un magasin bio spécialisé, à instruire comme commerce généraliste (règle 4 du registre).
+- Alès, plusieurs opérateurs du registre Agence Bio en entreprise individuelle sous nom patronymique : écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : plusieurs cette passe, toutes à Alès (entreprises individuelles sous nom patronymique et une enseigne au prénom-patronyme). Aucun nom consigné.
+
+**Pourquoi rien n'est publié.** Une seule fiche d'Alès est presque complète (la boutique de producteurs), et son statut au registre et sa photo restent ouverts ; le marché n'a qu'une source officielle. Cinq fiches groupées ne sont pas atteignables aujourd'hui, et une fiche à moitié vérifiée ne se publie pas.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur le Gard (règle 41.c) si la Seine-Maritime ou le Haut-Rhin prend la tête. À reprendre à Alès : statut de la boutique collective au registre, photo, marché confirmé par la mairie ; descente vers Bagnols-sur-Cèze si Alès reste vide.
