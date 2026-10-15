@@ -37938,3 +37938,24 @@ Muret (26 079 habitants) puis Plaisance-du-Touch (21 079) sondées dans la foul�
 **Contradictions** : aucune nouvelle cette passe.
 
 **Fiches écartées pour doute sur une personne** : une nouvelle piste en Haute-Garonne, écartée pour doute sur une personne (commune de Muret, producteur en nom propre), jamais nommée.
+
+### Passe autonome du 15 octobre 2026 : Haut-Rhin visé, Wittenheim sondée, aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en cours » (n° 13, producteur, Var) : enseigne qui se lit comme un prénom et contact personnel transmis, doute sur une personne, rien publié, aucune réponse envoyée.
+
+**Département, règle 41.** Calcul sur les 34 969 communes et les 1 272 fiches. Le déficit le plus fort est La Réunion (974), mais le validateur de `lib/validateMerchants.ts` refuse toute coordonnée hors France métropolitaine ; une fiche réunionnaise ferait échouer le build, et le code est hors périmètre. On descend au suivant éligible : Haut-Rhin (68, région 44, Grand Est). La passe précédente visait la Haute-Garonne (région 76), donc la garde « deux passes de suite » est respectée.
+
+**Commune.** Mulhouse et Colmar portent déjà des fiches ; la plus peuplée sans aucune fiche est Wittenheim (15 553 habitants).
+
+**Sources.**
+- Registre de l'Agence Bio, Haut-Rhin, première page de cent : aucun opérateur de vente aux particuliers identifié à Wittenheim.
+- Recherche d'entreprises : aucune entité active trouvée pour les deux pistes de Wittenheim ci-dessous (règle 6 : pas de fiche sans entité active au registre).
+- Annuaire Jours de marché : aucun commerce situé à Wittenheim même.
+
+**Pistes non publiées à Wittenheim.** Une épicerie bio à enseigne : horaires lus sur un annuaire seulement, pas de page propre, absente du registre sur la recherche. Une ferme en AMAP : aucune source propre, seul un avis client, qui nomme un exploitant en nom propre : doute sur une personne, écartée, ne se rouvre pas.
+
+**Contradictions** : aucune. **Fiches écartées pour doute sur une personne** : une cette passe (Wittenheim).
+
+**Point d'arrêt.** Prochaine passe : ne pas revenir sur le Haut-Rhin tant que la commune n'a pas au moins trois entités actives au registre ; l'élargissement suivant est Illzach puis Rixheim, sources d'abord, mairie et office de tourisme.
+
+Total inchangé : 1 272 fiches.
