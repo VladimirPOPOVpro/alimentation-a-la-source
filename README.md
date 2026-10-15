@@ -37554,3 +37554,28 @@ Backlog : 1 en cours (demande n° 13, Villecroze, doute sur une personne, rien p
 **Points d'arrêt.** La passe suivante ne revient pas sur la Seine-Maritime (règle 41.c). Le classement suivant est le Gard (30) ou le Haut-Rhin (68), selon le recalcul. Fécamp reste en réserve, à reprendre si une source officielle de la ville apparaît.
 
 **Constat de méthode.** La règle de la zone à cinq fiches bloque toujours plus que la recherche : la descente de commune ne rend pas cinq commerces vérifiables en Seine-Maritime, et le registre bio y est trop généraliste pour fournir la liste.
+
+### Passe autonome du 15 octobre 2026 (nuit, suite) : Ille-et-Vilaine (35) visée, Fougères sondée, aucune publication
+
+Backlog : 1 en cours (demande n° 13, rien publié, inchangée), 0 nouvelle. Aucune fiche publiée, aucune retirée. Total inchangé : 1 271 fiches métropolitaines. Aucune réponse email à envoyer.
+
+**Classement, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. Tête : Haute-Garonne (31) 5,29 et Nord (59) 5,28, écartés (zones épuisées) ; Seine-Maritime (76), 5,24, écartée (passe précédente, règle 41.c) ; Bouches-du-Rhône (13) 5,13, Isère (38) 4,97, Gard (30) et Haut-Rhin (68) 4,82, Pyrénées-Atlantiques (64) 4,58 : régions déjà fermées par les passes consignées (PACA, AURA, Occitanie, Grand Est, Nouvelle-Aquitaine). Yvelines (78), 4,55, écartée : la passe du 13 octobre l'a visée et Mantes-la-Jolie n'a pas rendu cinq fiches (règle 96). **Ille-et-Vilaine (35) désignée**, Bretagne, 4,54, première région ouverte et non visée à la passe précédente.
+
+**Commune, règle 41.d.** Dans le 35, les communes les plus peuplées sans fiche : Fougères (20 307 habitants), puis Vitré (19 365), Cesson-Sévigné (18 761) et Betton (12 964). Rennes et Saint-Malo portent déjà des fiches. **Fougères** est retenue.
+
+**Ce qui a été lu.** Registre des entreprises : l'établissement de vente de produits bio à Fougères, enseigne Biocoop, est actif, au 32 boulevard de Groslay ; une seule entité porte les deux noms du même point de vente (règle 7). Base Adresse Nationale : le 32 boulevard de Groslay est géocodé à 48,350666 ; -1,184902, à une cinquantaine de mètres du point du registre. Site officiel de la Ville : la page des marchés publics est une page de commande publique, sans marché alimentaire ; le menu « Marchés hebdomadaires » n'a pas de page exploitable à cette passe. Recherche web sur les marchés de producteurs : aucun marché alimentaire de Fougères n'est daté par une source officielle. Registre Agence Bio : lecture partielle de la pagination du 35 (quatre pages), où n'apparaissent à Fougères qu'une grande surface et des entreprises hors commerce, écartées ; la pagination complète reste à faire lors de la prochaine passe sur le 35. Sites de tourisme et annuaires : seule une fiche annuaire décrit un magasin bio sans horaires vérifiés.
+
+**Pourquoi rien n'est publié.** Une seule fiche entière est vérifiable à Fougères : le magasin bio du boulevard de Groslay (adresse et activité confirmées, horaires et téléphone non confirmés par une source officielle). La zone à cinq fiches n'est pas atteinte, et rien ne se publie seul (règle 127). Le téléphone et les horaires restent hors de la fiche faute de source du commerce lui-même.
+
+**Pistes non publiées (Ille-et-Vilaine, Fougères)** — lignes anonymes :
+- Magasin bio du boulevard de Groslay (enseigne Biocoop) : registre actif, adresse géocodée. Déblocage : horaires et téléphone publiés par le magasin, et au moins quatre autres commerces vérifiés à Fougères.
+- Marchés de la ville (centre-ville) : jours et emplacements non confirmés par la Ville ni par l'office de tourisme. Déblocage : une page datée du site de la Ville.
+- Magasin bio d'un second point, rue de la Forêt : annuaire seul, activité alimentaire non confirmée. Rien publié.
+- Magasin bio du boulevard Saint-Germain, à la fois librairie et lieu de marchés de producteurs : catégorie hybride, rien publié avant une source du commerce.
+- Cesson-Sévigné : une entreprise de préparation hors commerce, écartée (vente restauration commerciale seule).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne revient pas sur l'Ille-et-Vilaine (règle 41.c). Le classement suivant est Yvelines (78) ou Pyrénées-Atlantiques (64), selon les régions fermées. Fougères reste en tête des pistes du 35 : une seule source du commerce ou une page datée de la Ville la rendrait publiable. Vitré est la commune suivante, à éprouver.
+
+**Constat de méthode.** Une commune de la descente ne rend pas cinq commerces entiers à Fougères non plus : la zone à cinq fiches bloque encore plus que la recherche, et le registre bio retourne surtout des grandes surfaces et des entreprises hors commerce.
