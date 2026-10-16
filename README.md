@@ -38122,3 +38122,22 @@ Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marc
 **Contradictions** (règle 5) : aucune retenue.
 
 **Points d'arrêt.** Passe suivante : ne pas revenir au Haut-Rhin (règle 41.c). Haute-Garonne (31) en tête après le Haut-Rhin ; Toulouse et Colomiers y portent déjà des fiches, la descente se fera par population sur les communes sans fiche (Blagnac, Muret, Plaisance-du-Touch).
+
+### Passe autonome du 16 octobre 2026 (Seine-Maritime visée, Dieppe sondée à nouveau) : aucune publication
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177), sur 1 274 fiches. La passe précédente visait le Haut-Rhin (Grand Est) : la Normandie n'est pas la même région, la garde de la règle 41.c est respectée. Tête éligible : **Seine-Maritime (76)**, déficit 4,3, devant la Haute-Garonne (31) à 4,2.
+
+**Commune, règles 41.d et 52.** Dieppe (28 496 hab.) reste la commune la plus peuplée de Seine-Maritime sans fiche. Sources lues cette passe :
+
+- Registre de l'Agence Bio, 76 : 1 004 opérateurs relus. Dans Dieppe, aucun opérateur à vente aux particuliers sous un nom d'enseigne ; les seuls à vente particuliers sont hors Dieppe, ou au nom patronymique d'un exploitant (écartés pour doute sur une personne, ne se rouvrent pas).
+- Coop d'Albatre (épicerie participative, rue du Cœur Couronné) : listée par Que Choisir ; ses horaires divergent d'une source à l'autre. Pas de site propre ni de fiche de l'office lisible. Piste, non publiée.
+- Biocoop Dieppe (Val Druel) : enseigne de réseau, éligible à une fiche propre (règle 3), mais les horaires publiés divergent selon les annuaires. Contradiction consignée (règle 5), non publiée.
+- Marché alimentaire du samedi matin (Grande Rue, place Nationale) : jour et lieu donnés par l'office de tourisme seulement, aucune page de la Ville trouvée. Règle 9 : pas de publication avec une seule source officielle.
+- Marché du poisson, quai Henri IV : source touristique seule, sans horaire.
+- Brochure de commerces de l'office de tourisme côte d'Albâtre (2026) : PDF illisible à l'extraction, non exploitable cette passe.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables : une épicerie participative et un magasin bio dont les horaires divergent, un marché connu d'une seule source officielle. Aucun fait n'a été inventé pour compléter la liste. Descente d'échelle prévue par la règle 41.d vers Le Petit-Quevilly, où une piste de marché communal existe déjà et doit être confirmée par la commune.
+
+**Pistes non publiées.** Dieppe : une épicerie participative et un magasin bio à enseigne, à reprendre si le site propre de l'épicerie ou la fiche du réseau sont lisibles en direct. Dieppe : un marché du samedi, à reprendre avec la page de la Ville. Dieppe : un exploitant au nom patronymique, écarté pour doute sur une personne.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est la Haute-Garonne (31), puis le Haut-Rhin (68), à égalité. Dieppe à reprendre avec la page de la Ville et le site de l'épicerie ; sinon descente vers Le Petit-Quevilly.
