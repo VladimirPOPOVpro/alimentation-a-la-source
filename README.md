@@ -38322,3 +38322,18 @@ Une fiche sans photo ne passe pas la validation (`image_url` obligatoire), et un
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Rien n'est publié ni envoyé.
 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie. Le classement suivant est la Seine-Maritime (76), puis les Bouches-du-Rhône (13). Blagnac est à reprendre dès qu'une photo du lieu de 600 px au moins est trouvée sur un site officiel.
+
+### Passe autonome du 16 octobre 2026 (Nord (59) visé, Wattrelos sondée à nouveau) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, populations de geo.api.gouv.fr, numérateur sur 1 274 fiches. Tête : Nord (59), 5,36 ; Haute-Garonne (31), 5,33 ; Seine-Maritime (76), 5,28 ; Bouches-du-Rhône (13), 5,20. La passe précédente visait la Haute-Garonne (Occitanie), donc la règle 41.c ne ferme pas le Nord. **Nord (59) désigné.**
+
+**Commune, règle 41.d.** Wattrelos (40 847 hab.) reste la plus peuplée du Nord sans fiche. Elle a été éprouvée à zéro lors de passes précédentes ; cette passe relit la page d'accueil de la Ville (qui ne donne aucun marché, seulement une actualité) et la première page du registre Agence Bio du Nord (100 opérateurs sur 1 793, aucun domicilié à Wattrelos). Pas de source nouvelle, donc pas de fiche.
+
+**Pistes non publiées** (anonymes) :
+- Wattrelos, quatre marchés hebdomadaires : jours publiés par la Ville, heures introuvables. **Déblocage** : heures écrites par la Ville, sur sa page marchés ou celle de l'office de tourisme.
+
+**Pourquoi rien.** Sans horaires officiels ni établissement vérifiable en vente directe, aucune des fiches possibles n'atteint le seuil de cinq fiches complètes. Aucun fait n'a été publié sans source.
+
+**Point d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le classement suivant est la Haute-Garonne (31), déficit 5,33, dont la dernière passe (16 octobre, Blagnac) n'a rien publié faute de photo de 600 px : elle reprend Blagnac si une photo officielle apparaît, sinon la commune suivante sans fiche.
