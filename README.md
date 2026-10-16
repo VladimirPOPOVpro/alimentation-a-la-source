@@ -38104,3 +38104,21 @@ Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marc
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est la Haute-Garonne (31) puis le Haut-Rhin (68), à égalité. Dieppe reste à reprendre avec la fiche officielle du réseau bio et le site de la coopérative, sinon descente vers la commune suivante par population.
+
+### Passe autonome du 16 octobre 2026 (Haut-Rhin visé, Illzach sondée à nouveau) : aucune publication
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177), sur 1 274 fiches, dénominateur de toutes les communes (règle 224). Tête éligible après la Normandie, écartée par la règle 41.c (passe précédente) : **Haut-Rhin (68)**, déficit 4,2404, devant la Haute-Garonne (31), 4,1874. La Haute-Garonne reste en réserve pour la passe suivante.
+
+**Commune, règles 41.d et 247.** Saint-Louis et Wittenheim restent sans fiche, déjà sondées (passes des 14 et 15 octobre). Descente à Illzach (14 923 habitants), point d'arrêt précédent.
+
+**Sources sur Illzach.** Recherche web sur le marché couvert du vendredi matin : aucune trace publiée, seul le marché de Noël (décembre, horaires de fin d'après-midi, sous réserve) apparaît. Les autres résultats sont des enseignes de grande distribution et une banque. Rien de vérifiable pour un circuit court.
+
+**Pourquoi rien n'est publié.** Aucune commune du Haut-Rhin ne rend cinq commerces vérifiables (règle du groupement à cinq). Une fiche isolée n'est pas une zone (règle 52).
+
+**Pistes non publiées** : Illzach, marché couvert du vendredi matin, horaires et exposants non confirmés ; aucune reprise avant une source municipale datée.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir au Haut-Rhin (règle 41.c). Haute-Garonne (31) en tête après le Haut-Rhin ; Toulouse et Colomiers y portent déjà des fiches, la descente se fera par population sur les communes sans fiche (Blagnac, Muret, Plaisance-du-Touch).
