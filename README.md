@@ -38178,3 +38178,24 @@ Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marc
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, sans changement : doute sur une personne (enseigne ressemblant à un prénom, contact privé). Rien n'est publié, aucun message n'est envoyé.
 
 **Points d'arrêt.** La passe suivante ne vise pas le Haut-Rhin (règle 41.c). Le classement suivant est la Haute-Garonne (31), 4,19, avec Blagnac, Muret et Plaisance-du-Touch sondées sans source lisible ce jour (sites municipaux injoignables depuis cet environnement). Le Haut-Rhin reste ouvert pour une passe ultérieure : Wittenheim, Saint-Louis et Illzach ont déjà été sondées sans succès, la descente d'échelle continue au-delà de Rixheim.
+
+### Passe autonome du 16 octobre 2026 (Pyrénées-Atlantiques (64) visée, Biarritz sondée) : aucune publication
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177), sur 1 274 fiches, dénominateur de toutes les communes (règle 224). Têtes écartées : Seine-Maritime (76) et Haute-Garonne (31), zones déjà écrites épuisées ; Haut-Rhin (68) et Nord (59), régions des deux passes précédentes (règle 41.c). **Pyrénées-Atlantiques (64)**, déficit 4,05, premier département ouvert.
+
+**Commune, règles 41.d et 52.** Pau (80 441 hab.) et Bayonne portent déjà des fiches. Biarritz (26 206 hab.) est la commune la plus peuplée du 64 sans fiche. Sources lues :
+
+- registre de l'Agence Bio, 64, première page de 100 opérateurs : un seul opérateur domicilié à Biarritz, sans vente aux particuliers, et au nom patronymique d'un exploitant (écarté pour doute sur une personne, ne se rouvre pas) ;
+- recherche web sur les marchés de Biarritz (agendas et guides touristiques relayant l'office) : Les Halles, marché couvert tous les jours de 7 h 30 à 14 h ; marché de producteurs en extérieur le samedi de 7 h 30 à 13 h ; marchés de quartier le mercredi (Saint-Martin) et le vendredi (Saint-Charles) de 9 h à 13 h.
+
+**Pourquoi rien n'est publié.** Les horaires viennent d'agendas tiers qui se recopient entre eux ; ni la page de la Ville ni le site de l'office de tourisme n'ont été lus directement. Biarritz n'a donc pas encore deux sources officielles par marché (règle 9), et aucun commerce n'a été vérifié au registre ni sur site propre. Cinq fiches vérifiables ne sont pas réunies. Aucun fait n'a été inventé.
+
+**Pistes non publiées.** Biarritz : halles couvertes et marché de producteurs du samedi, à reprendre avec la page de la Ville ou de l'office de tourisme (horaires en attente de confirmation officielle). Biarritz : un opérateur au nom patronymique, écarté pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne** : une (Biarritz, 64), voir ci-dessus.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Demande en attente** : aucune demande au statut nouvelle ; la demande en cours reste inchangée.
+
+**Points d'arrêt.** La passe suivante ne vise pas le 64 (règle 41.c). Le classement suivant ouvert est l'Isère (38) ou la Loire (42), selon les régions fermées. Biarritz à reprendre avec les sources officielles.
