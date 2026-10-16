@@ -38429,3 +38429,24 @@ Sondage de cette passe :
 **Pourquoi rien.** Aucune commune du 31 ne rend cinq commerces vérifiables depuis cet environnement : les sites officiels des deux communes sont injoignables et le seul magasin identifié ne répond pas sur sa page. Aucun fait n'a été publié sans source indépendante.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle a été visée à la présente passe (règle 41.c) : elle prendra le Nord ou la Seine-Maritime selon le classement. Blagnac et Muret restent à reprendre dès que leurs sites officiels redeviennent joignables, ou qu'une photo du lieu est disponible.
+
+### Passe autonome du 16 octobre 2026 (Nord (59) visé, Lambersart sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu (règle 93), sur 1 274 fiches. Tête : Nord (59), déficit 5,36 ; Haute-Garonne (31) 5,33, écartée par la règle 41.c puisque la passe précédente l'a visée. Le Nord est donc retenu.
+
+**Commune, règle 41.d.** Les communes du Nord sans fiche, par population : Wattrelos, Marcq-en-Barœul et Cambrai ont déjà été sondées sans résultat ; la suivante est **Lambersart (27 090 hab.)**.
+
+Sondage de cette passe :
+
+- Registre Agence Bio (59, 1 794 opérateurs relus) : les entrées de Lambersart sont des biscuiteries, des grossistes, des sièges et des entités sans vente directe ; une entrée de vente aux particuliers ne désigne ni produit ni lieu de vente identifiable, et plusieurs entrées relèvent de personnes physiques (écartées pour doute sur une personne, ne se rouvrent pas).
+- Recherche web : une annonce de panier de légumes à la ferme et un stand de vente directe, sans adresse ni horaires ; un magasin Biocoop mentionné par un annuaire tiers, sans horaires vérifiés ; aucune AMAP ni marché de producteurs localisé ; le site de la Ville ne donne pas de jours de marché.
+
+**Pistes non publiées** (anonymes) :
+- Lambersart, Biocoop : seule une source tierce pour l'adresse et les horaires. **Déblocage** : fiche du magasin lue en direct, horaires confirmés.
+- Lambersart, stand de vente directe et panier fermier : pas d'adresse ni d'horaires. **Déblocage** : adresse et jours de vente sur une source du producteur ou de la Ville.
+
+**Pourquoi rien.** Lambersart ne rend qu'une fiche à moitié vérifiable, loin du groupe de cinq. Rien n'a été publié sans source indépendante.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord si le classement l'écarte à nouveau (règle 41.c) ; sinon elle reprend le Nord à la commune suivante par population sans fiche (Maubeuge, puis Armentières), en gardant les pistes de Lambersart en attente de leur déblocage.
