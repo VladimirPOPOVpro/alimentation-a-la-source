@@ -38141,3 +38141,24 @@ Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marc
 **Pistes non publiées.** Dieppe : une épicerie participative et un magasin bio à enseigne, à reprendre si le site propre de l'épicerie ou la fiche du réseau sont lisibles en direct. Dieppe : un marché du samedi, à reprendre avec la page de la Ville. Dieppe : un exploitant au nom patronymique, écarté pour doute sur une personne.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est la Haute-Garonne (31), puis le Haut-Rhin (68), à égalité. Dieppe à reprendre avec la page de la Ville et le site de l'épicerie ; sinon descente vers Le Petit-Quevilly.
+
+### Passe autonome du 16 octobre 2026 (Haut-Rhin visé, Rixheim sondée) : aucune publication
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177), sur 1 274 fiches. La passe précédente visait la Normandie (région 28) : elle est écartée par la règle 41.c. Tête éligible : **Haut-Rhin (68)**, déficit 4,24, devant la Haute-Garonne (31), 4,19. Le Haut-Rhin n'a pas été visé à la passe immédiatement précédente, la garde de la règle 41.c est donc respectée.
+
+**Commune, règles 41.d et 52.** Rixheim, la commune la plus peuplée du Haut-Rhin sans fiche qui n'a pas encore été épuisée (descente après Saint-Louis, Wittenheim et Illzach). Sources lues :
+
+- registre de l'Agence Bio, 68, première page de 100 opérateurs : deux établissements domiciliés à Rixheim, aucun à vente aux particuliers (un seul déclare une vente en gros, l'autre aucune vente) ;
+- recherche web sur les marchés et la vente directe à Rixheim pour 2026 : aucun résultat concernant la commune.
+
+**Pourquoi rien n'est publié.** Rixheim ne rend aucun commerce vérifiable. Une fiche isolée n'est pas une zone (règle 52). Aucun fait n'a été inventé.
+
+**Pistes non publiées** : aucune cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, sans changement : doute sur une personne (enseigne ressemblant à un prénom, contact privé). Rien n'est publié, aucun message n'est envoyé.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Haut-Rhin (règle 41.c). Le classement suivant est la Haute-Garonne (31), 4,19, avec Blagnac, Muret et Plaisance-du-Touch sondées sans source lisible ce jour (sites municipaux injoignables depuis cet environnement). Le Haut-Rhin reste ouvert pour une passe ultérieure : Wittenheim, Saint-Louis et Illzach ont déjà été sondées sans succès, la descente d'échelle continue au-delà de Rixheim.
