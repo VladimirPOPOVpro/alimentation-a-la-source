@@ -38083,3 +38083,24 @@ Total : 1 274 fiches.
 **Points d'arrêt.** Passe suivante : ne pas revenir à la Normandie (règle 41.c). Haut-Rhin : Illzach reste à compléter, sources municipales et producteurs à relire ; Rixheim ensuite, par la descente de la règle 41.d.
 
 Total inchangé : 1 274 fiches.
+
+### Passe autonome du 16 octobre 2026 (Seine-Maritime visée, Dieppe et Le Petit-Quevilly sondées) : aucune publication
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177), sur 1 274 fiches. Tête éligible : **Seine-Maritime (76)**, déficit 4,3. La passe précédente visait le Haut-Rhin (Grand Est) : la Normandie n'est pas reprise (règle 41.c). La Réunion (974) reste en tête brute, écartée par la règle 93.
+
+**Commune, règles 41.d et 52.** Dieppe (28 496 hab.) reste la commune la plus peuplée de Seine-Maritime sans fiche. Sources lues cette passe :
+- Coop d'Albâtre : un seul point, décrit par un annuaire de circuit court (horaires, produits). Le site propre que cet annuaire indique ne répond pas : rien n'est publié (règle 62, site mort).
+- Biocoop, zone commerciale du Val Druel : fiche officielle du réseau non lisible en direct ; les horaires de deux sites participatifs se contredisent (règle 5). Rien n'est publié.
+- Aucun marché de producteurs trouvé dans Dieppe même.
+
+Dieppe ne rend pas quatre points vérifiables : descente d'échelle.
+
+Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marché municipal le samedi de 9 h 30 à 12 h 30, boulevard Stanislas-Girardin, tiré d'une page de témoignage de la Ville datée de 2021 ; la mairie n'a pas confirmé. Un point seul ne forme pas une zone (règles 41.d et 52) : rien n'est publié.
+
+**Pistes non publiées.** Dieppe : une épicerie participative et un magasin bio à enseigne, à reprendre si le site propre de l'épicerie ou la fiche du réseau sont lisibles en direct. Le Petit-Quevilly : un marché communal, à confirmer auprès de la Ville (règle 9).
+
+**Contradictions.** Horaires du magasin bio de Dieppe : deux sources participatives divergentes, consignées (règle 5).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est la Haute-Garonne (31) puis le Haut-Rhin (68), à égalité. Dieppe reste à reprendre avec la fiche officielle du réseau bio et le site de la coopérative, sinon descente vers la commune suivante par population.
