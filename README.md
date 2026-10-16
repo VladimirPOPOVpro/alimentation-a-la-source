@@ -38407,3 +38407,25 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Pourquoi rien.** Aucune source directe ne rend cinq commerces vérifiables à La Madeleine. Commune suivante par population : Mons-en-Barœul (21 105 hab.), dont le registre montre le même profil (grossistes, sièges, entités sans vente directe).
 
 **Points d'arrêt.** La passe suivante ne vise pas le Nord si le registre de Mons-en-Barœul reste vide de vente directe (règle 41.c et 41.d). Le classement suivant est la Haute-Garonne (31), puis la Seine-Maritime (76).
+
+### Passe autonome du 16 octobre 2026 (Haute-Garonne (31) visée, Blagnac et Muret sondées) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu, sur 1 274 fiches. Tête : Nord (59), déficit 5,36. La passe précédente visait le Nord, donc la règle 41.c écarte les Hauts-de-France pour cette passe. Rang suivant : **Haute-Garonne (31), déficit 5,33**, région (Occitanie) qui n'a pas été visée à la passe immédiatement précédente. Désignée.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 31 sans fiche : **Blagnac** (27 604 hab.). Toulouse, Colomiers, Tournefeuille, Cugnaux et les autres communes lourdes ont déjà des fiches. Blagnac a été vérifiée à cinq points lors de passes précédentes ; le seul point bloquant reste la photo, sous le plancher de 600 px (règle 59). La descente suit donc vers **Muret** (26 079 hab.), déjà sondée.
+
+Sondage de cette passe :
+
+- Site officiel de la Ville de Blagnac et site officiel de la Ville de Muret : **injoignables** depuis cet environnement (aucune réponse HTTP). Les marchés de Muret exigent deux sources officielles (règle 9) : non remplie.
+- Biocoop de Muret : la page de magasin indiquée par l'enseigne répond 404. Pas de fiche du magasin lisible en direct, horaires et photo non vérifiés.
+- Blagnac : même constat que la passe du 16 octobre, la photo officielle n'apparaît pas à 600 px.
+
+**Pistes non publiées** (anonymes) : inchangées par rapport aux passes précédentes (Blagnac, deux marchés et une boutique bio, déblocage : photo de 600 px au moins ; Muret, marchés et Biocoop, déblocage : pages officielles lisibles).
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Rien n'est publié ni envoyé.
+
+**Pourquoi rien.** Aucune commune du 31 ne rend cinq commerces vérifiables depuis cet environnement : les sites officiels des deux communes sont injoignables et le seul magasin identifié ne répond pas sur sa page. Aucun fait n'a été publié sans source indépendante.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si elle a été visée à la présente passe (règle 41.c) : elle prendra le Nord ou la Seine-Maritime selon le classement. Blagnac et Muret restent à reprendre dès que leurs sites officiels redeviennent joignables, ou qu'une photo du lieu est disponible.
