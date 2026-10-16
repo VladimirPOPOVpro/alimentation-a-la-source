@@ -38042,3 +38042,17 @@ Total : 1 274 fiches.
 **Point d'arrêt.** La passe suivante ne vise pas l'Occitanie ni, si possible, les Hauts-de-France après cette passe. Si le Nord reste visé, elle reprend Wattrelos (heures de marchés), puis Marcq-en-Barœul quand son site répondra.
 
 Total : 1 274 fiches.
+
+### Passe autonome du 16 octobre 2026 (Seine-Maritime visée, Dieppe sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (Var, producteur) reste « en cours » : doute sur une personne, rien n'est publié.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règles 93 et 177), sur 1 274 fiches. Tête : **Seine-Maritime (76)**, déficit 4,3. La passe précédente visait le Nord (Hauts-de-France) ; la Normandie n'est pas la même région, la garde de la règle 41.c est respectée.
+
+**Commune, règle 41.d.** La plus peuplée sans fiche reste Dieppe (28 496 habitants). Site de la Ville : page d'accueil sans aucune mention de marché ni de producteur. Registre de l'Agence Bio, 76 : 1 004 opérateurs, deux seuls à Dieppe, dont une boulangerie (vente aux particuliers non déclarée) et une grossiste. Aucune zone de cinq.
+
+**Publié : rien.** Aucune fiche n'atteint le seuil de cinq commerces vérifiables dans une même commune.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Si le 76 reste en tête après le décompte, la reprise est Le Petit-Quevilly, puis Fécamp, comme consigné plus haut.
+
+Total : 1 274 fiches.
