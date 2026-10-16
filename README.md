@@ -38056,3 +38056,30 @@ Total : 1 274 fiches.
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Si le 76 reste en tête après le décompte, la reprise est Le Petit-Quevilly, puis Fécamp, comme consigné plus haut.
 
 Total : 1 274 fiches.
+
+### Passe autonome du 16 octobre 2026 (Haut-Rhin visé, Illzach sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en cours » (Var, producteur) : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), sur 1 274 fiches. Tête : La Réunion (974), écartée par la règle 93 ; puis Seine-Maritime (76), exclue par la règle 41.c, la passe précédente ayant visé la Normandie. Le Haut-Rhin (68), déficit 4,2, est le premier département éligible ; la Haute-Garonne, à 4,2 également, n'est pas la région de la passe précédente mais reste derrière de peu.
+
+**Commune, règle 41.d.** Saint-Louis (22 805 habitants) et Wittenheim restent sans fiche mais ont déjà été sondées (passes des 14 et 15 octobre, sans commerce vérifiable). Descente à Illzach (14 923 habitants), comme consigné au point d'arrêt précédent.
+
+**Sources sur Illzach.**
+- Registre de l'Agence Bio, Haut-Rhin : aucun producteur ni magasin de producteurs à Illzach dans les opérateurs déjà lus (passe du 14 octobre).
+- Recherche web : aucun marché de producteurs ni de circuit court identifié. Le seul marché repéré est un marché de Noël d'artisans, non retenu.
+- Site de la commune : rubrique « Gourmand » et annuaire, sans liste exploitable de producteurs.
+- Bienvenue à la ferme : aucune ferme listée à Illzach dans les pages accessibles.
+- Recherche d'entreprises sur le magasin bio à enseigne réseau : aucune entité trouvée au registre. Seule trace publique : une ouverture en 2020, sans confirmation d'activité récente. Piste non publiée : une enseigne de magasin bio, Illzach, catégorie magasin-bio, motif « activité non vérifiée au registre ».
+
+**Pourquoi rien n'est publié.** Une seule piste plausible sur la commune, et son activité n'est pas vérifiable. Publier une fiche isolée irait contre la règle du groupement à cinq.
+
+**Pistes non publiées** : une ligne, Illzach, magasin-bio, activité non vérifiée. Aucune reprise prévue avant vérification au registre.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir à la Normandie (règle 41.c). Haut-Rhin : Illzach reste à compléter, sources municipales et producteurs à relire ; Rixheim ensuite, par la descente de la règle 41.d.
+
+Total inchangé : 1 274 fiches.
