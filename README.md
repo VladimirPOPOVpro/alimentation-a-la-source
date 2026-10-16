@@ -38280,3 +38280,45 @@ Aucune nouvelle demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangé
 **Demande en attente** : aucune demande au statut nouvelle ; la demande en cours reste inchangée.
 
 **Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le classement suivant est la Haute-Garonne (31) puis le Haut-Rhin (68). Le Nord reste à reprendre avec la page officielle de la Ville de Wattrelos et celle de Marcq-en-Barœul, lues en direct.
+
+### Passe autonome du 16 octobre 2026 (Haute-Garonne (31) visée, Blagnac vérifiée à cinq points) : aucune publication
+
+Aucune nouvelle demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches dans `data/marchands.json`.
+
+**Classement, règle 41.** Métropole seule, sur 1 274 fiches, populations de geo.api.gouv.fr. Tête du classement : Nord (59, déficit 5,36), écarté par la règle 41.c, la passe précédente visant les Hauts-de-France. Retenu : **Haute-Garonne (31), déficit 5,33**, devant la Seine-Maritime (5,28) et les Bouches-du-Rhône (5,20).
+
+**Commune, règles 41.d et 52.** Blagnac (27 604 hab.) est la commune la plus peuplée du 31 sans fiche, après Toulouse, Colomiers et Tournefeuille (Cugnaux et Balma déjà publiées). Cette passe a pu lire la source officielle que les passes précédentes n'atteignaient pas : la page « Marchés de plein vent » de la Ville (mairie-blagnac.fr) et la fiche de Haute-Garonne Tourisme. Cinq commerces ont été vérifiés :
+
+1. **Marché de la place des Arts**, samedi de 8 h à 13 h. Ville et office concordent (règle 9). Géocodage BAN : place des Arts, 31700 Blagnac (type « rue », centre de la place).
+2. **Marché de la place des Marronniers**, mercredi de 15 h 30 à 19 h 30. Ville et office concordent (règle 9). Géocodage BAN : place des Marronniers (type « rue »).
+3. **Biocoop Blagnac**, 2 rue Henri Matisse. Site du magasin : lundi à samedi, 9 h à 19 h 30, fermé le dimanche ; téléphone 05 61 61 48 10. Entité active au registre au même numéro (SIREN 829496090, même adresse, règle 6). Géocodage BAN au numéro. Les horaires des annuaires (ouverture à 8 h, ou semaine seule) sont écartés au profit de ceux du magasin.
+4. **L'Arche en pays toulousain**, 2 rue du Docteur Guimbaud. Entité active au registre (SIREN 500063102), même adresse. La Ville la signale en maraîchage bio, vente directe en boutique et en paniers. Géocodage BAN au numéro.
+5. **AMAP Saint-Pierre d'Ax**, livraison des paniers le mardi aux jardins de Catalogne. Association active au registre (SIREN 827732710, allée Flandres-Dunkerque 1940, règle 6 non applicable). Géocodage BAN : rue seule (score 0,77), centre de l'allée.
+
+**Pourquoi rien n'est publié.** Les cinq points tiennent sur les sources ; c'est la photo qui bloque, et la règle 59 ne permet pas de contourner ce point.
+
+- Le site du magasin Biocoop n'offre qu'une image de 451 px de large (et deux autres de 452 et 558 px). La règle 59 fixe le plancher à 600 px : en dessous, pas de fiche.
+- Aucune des autres pages (Ville, office, registre) ne donne une photo du marché ou de la boutique. Les captures de la Ville ne montrent pas le lieu.
+- La seule photo HD de Blagnac trouvée est sur le site du CDT 31 : un parc à bancs, qui ne montre ni le marché ni un commerce de la commune. Elle est écartée (règle 1, pas de réserve honnête suffisante).
+- Pas de photo thématique honnête de la commune disponible. Un placeholder n'est pas une image.
+
+Une fiche sans photo ne passe pas la validation (`image_url` obligatoire), et une photo qui ne montre pas le lieu ne se publie pas. Aucun fait n'a été publié sans source.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, deux marchés : tout est vérifié sauf la photo. **Déblocage** : une photo du lieu de 600 px de large au moins, sur le site de la Ville ou de l'office.
+- Blagnac, Biocoop : tout est vérifié sauf la photo (451 px). **Déblocage** : une image du magasin d'au moins 600 px. Les horaires exceptionnels de l'été 2026 sont passés et ne sont pas retenus.
+- Blagnac, L'Arche : horaires contradictoires (voir plus bas), à confirmer par le lieu ou par une source directe. **Déblocage** : une photo ou un horaire confirmé.
+- Blagnac, un maraîcher en vente directe, listé par la Ville et désigné par son seul prénom : écarté pour doute sur une personne. Ne se rouvre pas.
+- Blagnac, le point de retrait des paniers solidaires à l'Espace famille (vendredi, de 15 h à 19 h) : point de retrait municipal, pas un commerce propre. À reprendre seulement si la Ville l'expose comme point de vente.
+- Blagnac, une plateforme de vente directe régionale : hors périmètre, c'est un intermédiaire.
+
+**Fiches écartées pour doute sur une personne** : une (Blagnac, 31), voir ci-dessus.
+
+**Contradictions** (règle 5) :
+- Horaires de la boutique de L'Arche : Bottin (lundi, mardi et jeudi, 14 h à 18 h 30) contre Jours-de-Marché (mardi de 13 h à 19 h, marché de producteurs en ligne). Non tranché, consigné.
+- Horaires du marché de la place des Arts : Illico produits locaux indique un mardi et un jeudi, la Ville et l'office disent le samedi. La Ville l'emporte, la source tierce est écartée.
+- Horaires de Biocoop Blagnac : annuaires contre le site du magasin. Le site du magasin l'emporte.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Rien n'est publié ni envoyé.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie. Le classement suivant est la Seine-Maritime (76), puis les Bouches-du-Rhône (13). Blagnac est à reprendre dès qu'une photo du lieu de 600 px au moins est trouvée sur un site officiel.
