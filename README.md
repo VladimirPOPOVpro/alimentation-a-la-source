@@ -38223,3 +38223,32 @@ Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marc
 **Demande en attente** : aucune demande au statut nouvelle ; la file ne contient qu'une demande en_cours, inchangée.
 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c) : le classement suivant est la Seine-Maritime (76), à reprendre hors Dieppe, ou l'Isère (38). Blagnac à reprendre avec la page officielle de la Ville et le registre Biocoop ; sinon descente vers Muret avec une source officielle de marché.
+
+### Passe autonome du 16 octobre 2026 (Seine-Maritime visée hors Dieppe, Fécamp sondée) : aucune publication
+
+Aucune nouvelle demande de visiteur (backlog : 0 nouvelle, 1 en cours). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches dans `data/marchands.json`.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, comme le validateur de `lib/validateMerchants.ts`). Le classement recalculé sur `data/marchands.json` et les populations de geo.api.gouv.fr donne en tête la Seine-Maritime (76, déficit 4,30), puis le Haut-Rhin (68, 4,24) et la Haute-Garonne (31, 4,19). La passe précédente visait la Haute-Garonne (Occitanie) : seule cette région est exclue (règle 41.c). **Retenu : Seine-Maritime.**
+
+**Commune, règle 41.d.** Dieppe (28 496 habitants) reste la plus peuplée sans fiche, déjà sondée à plusieurs reprises sans cinq commerces vérifiables. Sa reprise par le registre Agence Bio (76, 1 005 opérateurs relus) ne donne qu'une société de vente aux consommateurs à Saint-Vaast-Dieppedalle, sans site ni adresse de vente lisible, une enseigne de grande surface et une boulangerie hors périmètre. Descente à **Fécamp** (17 313 habitants), sans fiche.
+
+**Fécamp, lu ce soir.**
+- Recherche web sur le marché et la vente directe : le marché du samedi est signalé par des agendas et annuaires qui divergent sur l'emplacement et l'horaire (place Bellet d'un côté, place du Général-de-Gaulle de l'autre). Aucune page officielle de la Ville n'apparaît dans les résultats.
+- Des producteurs de Mon Panier 76 sont rattachés au marché, mais la fiche du marché y date et les horaires y sont à confirmer.
+- Une épicerie bio, locale et vrac est signalée comme en projet ou récemment ouverte, sans site vérifié.
+- Registre Agence Bio, 76 : aucun opérateur à vente aux particuliers domicilié à Fécamp dans les pages relues.
+
+**Pourquoi rien n'est publié.** Fécamp ne rend ni cinq commerces vérifiables, ni un horaire de marché établi par une source officielle. Une fiche de marché dont le jour et l'emplacement divergent entre sources ne se publie pas (règle 9 et règle 5). Aucun fait n'a été publié sans source indépendante.
+
+**Pistes non publiées** (anonymes) :
+- Fécamp, marché du samedi : jour acquis, emplacement et horaires contradictoires entre agendas. **Déblocage** : page officielle de la Ville ou de l'office de tourisme lue en direct.
+- Fécamp, épicerie bio et locale : ouverture non confirmée, pas de site. **Déblocage** : site ou fiche du commerce lue en direct.
+- Dieppe : rien de nouveau par rapport aux passes précédentes.
+
+**Contradictions** (règle 5) : emplacement et horaire du marché de Fécamp, consignés ci-dessus, non tranchés.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Demande #13** (producteur, Villecroze, Var) : inchangée. Elle reste `en_cours` : l'enseigne ressemble à un prénom et le contact transmis est une adresse personnelle, donc doute sur une personne (règle de MODERATION.md). Rien n'est publié, aucun message n'est envoyé.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est le Haut-Rhin (68) puis la Haute-Garonne (31). Fécamp à reprendre avec la page officielle de la Ville ; Dieppe reste à reprendre avec le site de la Ville lu en direct.
