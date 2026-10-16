@@ -38337,3 +38337,26 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Pourquoi rien.** Sans horaires officiels ni établissement vérifiable en vente directe, aucune des fiches possibles n'atteint le seuil de cinq fiches complètes. Aucun fait n'a été publié sans source.
 
 **Point d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le classement suivant est la Haute-Garonne (31), déficit 5,33, dont la dernière passe (16 octobre, Blagnac) n'a rien publié faute de photo de 600 px : elle reprend Blagnac si une photo officielle apparaît, sinon la commune suivante sans fiche.
+
+### Passe autonome du 16 octobre 2026 (Seine-Maritime visée, Montivilliers sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177), sur 1 274 fiches. La passe précédente visait le Nord (Hauts-de-France) : la Normandie n'est pas la même région, la garde de la règle 41.c est respectée. Tête éligible : **Seine-Maritime (76)**, déficit 4,3.
+
+**Commune, règles 41.d et 82.** Dieppe et Fécamp restent sans cinq commerces vérifiables (passes précédentes). Descente à **Montivilliers** (15 478 habitants), la plus peuplée sans fiche après elles. Sondage par le registre Agence Bio (76, 1 005 opérateurs relus) et par des sources indépendantes :
+
+- La Vie Claire Montivilliers : enseigne de réseau (règle 3), horaires tirés d'un annuaire et non publiés par le magasin ; aucune entité active au registre localisée à Montivilliers. Non publiée (règle 6).
+- Le Bocal à Mick'al : entité active au registre, adresse rue René Coty confirmée. Horaires, produits et site introuvables. Non publiée.
+- Marché hebdomadaire du jeudi : lieu et jour donnés par un seul annuaire touristique, aucune source officielle de la Ville. Non publié.
+- Ferme pédagogique d'Épaville : visite seulement, aucune vente directe confirmée. Non retenue.
+- Trois exploitations au nom propre, vente aux particuliers déclarée au registre : écartées pour doute sur une personne. Ne se rouvrent pas.
+
+**Pistes non publiées** (anonymes) :
+- Montivilliers, marché du jeudi : **déblocage** : jours et emplacement publiés par la Ville ou l'office de tourisme.
+- Montivilliers, Le Bocal à Mick'al : **déblocage** : site ou fiche du commerce lue en direct.
+- Montivilliers, La Vie Claire : **déblocage** : fiche officielle du réseau et entité active au registre localisée à Montivilliers.
+
+**Pourquoi rien.** Montivilliers ne rend pas cinq commerces vérifiables. Elbeuf, la commune suivante par population, a déjà été éprouvée sans fiche (voir passes précédentes) ; le sondage de cette passe n'y a rien ajouté au registre. Aucun fait n'a été publié sans source indépendante.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est la Haute-Garonne (31) puis le Haut-Rhin (68), à égalité. Montivilliers à reprendre avec les pages officielles de la Ville et le site du Bocal à Mick'al ; sinon descente vers Elbeuf avec une source directe.
