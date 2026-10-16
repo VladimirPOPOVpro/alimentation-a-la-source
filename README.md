@@ -38528,3 +38528,23 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Demande en attente** : la demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié, aucune réponse envoyée).
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le Nord (59) redevient le premier rang éligible ; Blagnac et Muret restent en pistes jusqu'à ce que leur site officiel réponde.
+
+### Passe autonome du 17 octobre 2026 (Nord (59) fermé par la règle 247, Seine-Maritime (76) sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), populations de geo.api.gouv.fr. Tête : Nord (59), 5,36. Haute-Garonne (31), 5,33, exclue : la passe précédente l'a visée (règle 41.c). Le Nord est désigné.
+
+**Contradiction consignée (règle 5).** La règle 224 dit que le dénominateur est la population de toutes les communes ; or les chiffres de cette série (Nord 5,36, Haute-Garonne 5,33, Seine-Maritime 5,28) se recalculent sur la seule métropole (66 165 815 habitants), comme les passes du 10 au 14 octobre. Sur toutes les communes, le classement métropolitain donnerait Seine-Maritime 4,30, Haut-Rhin 4,24, Haute-Garonne 4,19, Nord 3,33. Cette passe retient la lecture métropole, puis constate que les deux départements en tête de chacune des deux lectures sont épuisés : le choix ne change pas le résultat. La règle 224 reste à réécrire.
+
+**Nord, règles 41.d et 247.** Quatorze communes du 59 sans fiche ont déjà été éprouvées sans cinq commerces vérifiables : Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières, La Madeleine, Mons-en-Barœul, Wasquehal, Halluin, Denain, Coudekerque-Branche, Grande-Synthe, Ronchin, Faches-Thumesnil et Croix. La borne de douze communes de la règle 247 est dépassée : le Nord est quitté, sans nouveau sondage.
+
+**Seine-Maritime (76), règle 248.** Rang suivant, ouvert (région non visée à la passe précédente). Commune calculée : Dieppe (28 496 hab.), éprouvée à plusieurs passes ; son site répond, mais sa page des marchés ne donne aucun texte exploitable, et aucune source nouvelle n'a été trouvée cette passe. Elle n'a pas été relue en détail. Descente : Montivilliers, Fécamp, Le Petit-Quevilly, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec et Yvetot sont déjà consignées sans fiche publiable. Elbeuf : site de la Ville injoignable depuis cet environnement (aucune réponse HTTP). Rien à publier.
+
+**Pourquoi rien.** Deux départements éprouvés sans zone (règle 248) : le Nord, dont la descente a dépassé sa borne, et la Seine-Maritime, dont la descente est épuisée. Rien n'a été publié sans source indépendante.
+
+**Pistes non publiées** : inchangées (Lambersart, Maubeuge, Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Dieppe, Fécamp, Montivilliers). Pas de nouvelle piste.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
+
+**Points d'arrêt.** Le Nord est fermé pour la descente (règle 247). La prochaine passe ne vise pas la Seine-Maritime (règle 41.c). Le classement suivant est la Haute-Garonne (31), puis le Haut-Rhin (68) : deux départements dont les communes sont déjà éprouvées (Blagnac et Muret injoignables ; Wittenheim, Illzach et Rixheim sondées). La passe rencontrera donc le même constat tant que les sources officielles ne répondent pas ou que le registre ne fournit pas de commerce vérifiable.
