@@ -38481,3 +38481,31 @@ Registre Agence Bio (31, 2 837 opérateurs relus sur la totalité du départemen
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Elle porte une enseigne qui ressemble à un prénom et un contact personnel : doute sur une personne. Rien n'est publié et aucune réponse n'est envoyée.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le Nord (59), déficit 5,36, redevient le premier rang éligible ; elle reprend le Nord à la commune suivante par population sans fiche (Mons-en-Barœul, 21 105 hab., puis Maubeuge, puis Armentières), en gardant les pistes de Lambersart en attente de leur déblocage. Blagnac et Muret restent en pistes, à reprendre dès qu'une photo ou une page officielle devient lisible.
+
+### Passe autonome du 16 octobre 2026 (Nord (59) visé, Maubeuge et Armentières sondées) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu, sur 1 274 fiches, populations de geo.api.gouv.fr. Tête : Nord (59), déficit 5,36. La passe précédente visait la Haute-Garonne : la règle 41.c écarte l'Occitanie pour celle-ci, le Nord (Hauts-de-France) est donc éligible. Désigné.
+
+**Commune, règle 41.d.** Les communes du Nord de plus de 12 000 habitants sont relues par population, avec leur nombre de fiches déjà publiées. Wattrelos, Marcq-en-Barœul, Cambrai et Lambersart ont été sondées lors des passes précédentes sans résultat. Ordre corrigé : la passe précédente annonçait Mons-en-Barœul (21 105 hab.) avant Maubeuge, alors que Maubeuge (28 767 hab.) et Armentières (26 998 hab.) sont plus peuplées et sans fiche : la règle 41.d les place avant Mons-en-Barœul. Sondées cette passe : **Maubeuge**, puis **Armentières**.
+
+**Maubeuge (28 767 hab.), 41.d.**
+- Registre Agence Bio (59, 1 794 opérateurs relus) : quatre entrées sur la commune. Une est une entreprise à vente directe dont le titulaire est une personne physique : écartée pour doute sur une personne, elle ne se rouvre pas. Deux sont des grossistes ou des sièges sans vente au public. Une est une enseigne Biocoop en franchise, dont le registre ne donne aucun horaire.
+- Web : l'enseigne bio locale (franchise Biocoop) est identifiée par un annuaire et par des avis clients, mais son site d'enseigne ne répond pas depuis cet environnement et aucun horaire n'est lu sur une source de l'enseigne. Un magasin bio secondaire n'apparaît que chez un annuaire tiers. Un annuaire participatif liste quatre marchés (jours et horaires variables selon les fiches), sans page officielle de la Ville qui les confirme : le site maubeuge.fr répond, mais sa page d'accueil ne donne aucune rubrique marchés. Règle 9 non remplie : deux sources officielles sont exigées pour un marché.
+- Aucune AMAP ni ferme en vente directe localisée à Maubeuge.
+
+**Armentières (26 998 hab.), 41.d.**
+- Registre Agence Bio : aucune entrée de vente aux particuliers sur la commune.
+- Web : un annuaire participatif recense deux marchés sans horaires lus ; une boutique de producteurs citée relève de La Chapelle-d'Armentières (59930), commune distincte, hors sujet pour cette fiche.
+
+**Pistes non publiées** (anonymes) :
+- Maubeuge, magasin bio en franchise (avenue de l'Épinette) : catégorie et adresse vérifiées par un annuaire, horaires non lus sur une source de l'enseigne. **Déblocage** : horaires lus sur la fiche de l'enseigne ou du magasin.
+- Maubeuge, second magasin bio : source tierce seule. **Déblocage** : fiche du magasin lue en direct.
+- Maubeuge, marchés (quatre recensés par annuaire participatif) : aucune source officielle lisible. **Déblocage** : page marchés du site de la Ville, ou service commerce.
+- Maubeuge, producteur à vente directe au registre : titulaire identifié à une personne physique. Écarté pour doute sur une personne, ne se rouvre pas.
+- Armentières, deux marchés : annuaire participatif seul. **Déblocage** : page officielle de la Ville.
+
+**Pourquoi rien.** Ni Maubeuge ni Armentières ne rendent cinq commerces vérifiables depuis cet environnement : pas de source indépendante complète pour chaque commerce, et les marchés restent sans source officielle lisible. Rien n'a été publié sans source indépendante.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). La Haute-Garonne (31), déficit 5,33, redevient le premier rang éligible. Blagnac et Muret restent en pistes ; Mons-en-Barœul (21 105 hab.) est la prochaine commune du Nord si le classement y revient.
