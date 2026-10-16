@@ -38509,3 +38509,22 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Pourquoi rien.** Ni Maubeuge ni Armentières ne rendent cinq commerces vérifiables depuis cet environnement : pas de source indépendante complète pour chaque commerce, et les marchés restent sans source officielle lisible. Rien n'a été publié sans source indépendante.
 
 **Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). La Haute-Garonne (31), déficit 5,33, redevient le premier rang éligible. Blagnac et Muret restent en pistes ; Mons-en-Barœul (21 105 hab.) est la prochaine commune du Nord si le classement y revient.
+
+### Passe autonome du 17 octobre 2026 (Haute-Garonne (31) visée, Blagnac et Muret injoignables) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), dénominateur de toutes les communes (règle 224), sur 1 274 fiches. Tête : Nord (59), 5,36, écarté par la règle 41.c (passe précédente). **Haute-Garonne (31), 5,33**, région non visée à la passe précédente. Désignée.
+
+**Commune, règle 41.d.** Reprise de la descente à Blagnac (27 604 hab.), puis Muret (26 079 hab.).
+- **Blagnac** : sondage de la photo du lieu (plancher de 600 px, règle 59) : le site officiel de la Ville ne répond pas depuis cet environnement. Reste en pistes.
+- **Muret** : le site de la Ville ne répond pas. Reste en pistes.
+- Plaisance-du-Touch : le site de la Ville répond, mais la seule source officielle du marché reste unique (règle 9). Reste en pistes, sans changement.
+
+**Pourquoi rien.** Les deux communes les plus peuplées sans fiche restent bloquées par des sources officielles injoignables ; les autres communes du 31 ne rendent pas cinq commerces vérifiables (voir la passe précédente). Rien n'a été publié sans source indépendante.
+
+**Pistes non publiées** : inchangées par rapport à la passe du 16 octobre (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan). Déblocages inchangés.
+
+**Demande en attente** : la demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié, aucune réponse envoyée).
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le Nord (59) redevient le premier rang éligible ; Blagnac et Muret restent en pistes jusqu'à ce que leur site officiel réponde.
