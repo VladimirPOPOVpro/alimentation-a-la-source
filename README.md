@@ -38392,3 +38392,18 @@ Descente à **Muret** (26 079 hab.), la commune la plus peuplée du 31 après Bl
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Rien n'est publié ni envoyé.
 
 **Points d'arrêt.** Le Nord (59) reste en tête du classement et n'est pas bloqué par la règle 41.c, la passe précédente ayant visé la Normandie. La passe suivante le reprend à la commune suivante par population sans fiche (La Madeleine, 21 790 hab., si une source directe apparaît ; sinon Mons-en-Barœul). Blagnac et Muret restent en pistes, à reprendre dès qu'une photo ou une page officielle devient lisible.
+
+### Passe autonome du 16 octobre 2026 (Nord (59) visé, La Madeleine sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu (règle 93), sur 1 274 fiches. Tête : Nord (59), déficit 5,36. La passe précédente visait la Normandie, donc la garde de la règle 41.c ne l'écarte pas.
+
+**Commune, règle 41.d.** La Madeleine (21 790 hab.) est la commune la plus peuplée du Nord sans fiche. Sondage :
+
+- Registre Agence Bio (59, 1 794 opérateurs relus) : les entrées de La Madeleine sont des grossistes, des restaurateurs collectifs, des sièges ou des entités sans vente directe. Une seule entrée municipale déclare une vente aux particuliers, sans produit ni lieu de vente identifiable. Une entrée est au nom propre : écartée pour doute sur une personne, ne se rouvre pas.
+- Recherche web : aucun marché de producteurs ni point de vente en circuit court localisé à La Madeleine. Les résultats sont des annonces immobilières et des enseignes de grande distribution. Un réseau associatif de vrac (Les Amis de la Baraque en Vrac) n'est pas un point de vente.
+
+**Pourquoi rien.** Aucune source directe ne rend cinq commerces vérifiables à La Madeleine. Commune suivante par population : Mons-en-Barœul (21 105 hab.), dont le registre montre le même profil (grossistes, sièges, entités sans vente directe).
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord si le registre de Mons-en-Barœul reste vide de vente directe (règle 41.c et 41.d). Le classement suivant est la Haute-Garonne (31), puis la Seine-Maritime (76).
