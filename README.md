@@ -38252,3 +38252,31 @@ Aucune nouvelle demande de visiteur (backlog : 0 nouvelle, 1 en cours). **Aucune
 **Demande #13** (producteur, Villecroze, Var) : inchangée. Elle reste `en_cours` : l'enseigne ressemble à un prénom et le contact transmis est une adresse personnelle, donc doute sur une personne (règle de MODERATION.md). Rien n'est publié, aucun message n'est envoyé.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est le Haut-Rhin (68) puis la Haute-Garonne (31). Fécamp à reprendre avec la page officielle de la Ville ; Dieppe reste à reprendre avec le site de la Ville lu en direct.
+
+### Passe autonome du 16 octobre 2026 (Nord visé à nouveau, Marcq-en-Barœul et Wattrelos relues) : aucune publication
+
+Aucune nouvelle demande de visiteur (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches dans `data/marchands.json`.
+
+**Classement, règle 41.** Métropole seule, sur 1 274 fiches. Tête du classement recalculé : Nord (59, déficit 5,36), Haute-Garonne (31, 5,33), Seine-Maritime (76, 5,28). La passe précédente visait la Seine-Maritime (Normandie) : seule cette région est exclue par la règle 41.c. **Retenu : Nord.**
+
+**Commune, règles 41.d et 248.** Les deux communes les plus peuplées du Nord sans fiche restent Wattrelos (40 847 habitants) et Marcq-en-Barœul (40 184). Cette passe les a relues :
+
+- Marcq-en-Barœul : recherche d'un marché de producteurs avec jours et horaires en 2026, sans résultat (seuls des brocantes et un supermarché) ; registre Agence Bio, 59, pages relues jusqu'à 600 opérateurs : aucun opérateur domicilié à Marcq-en-Barœul à vente aux particuliers sous une enseigne ; un exploitant au nom patronymique, écarté pour doute sur une personne, ne se rouvre pas.
+- Wattrelos : un annuaire de marchés recense trois marchés sans jours ni horaires dans l'extrait lu ; deux exploitations de la région signalent une vente directe à 4,6 km et 15,6 km, hors commune, sans adresse de vente vérifiée. Registre Agence Bio : aucun opérateur à vente aux particuliers domicilié à Wattrelos dans les pages relues.
+
+**Descente d'échelle.** Douai porte déjà trois fiches (hors descente). Cambrai, Maubeuge, Lambersart et Armentières ont été éprouvées lors des passes précédentes ; le registre bio n'y donne aucun point à vente en direct sous enseigne vérifiable cette passe (Maubeuge : deux associations à vente de proximité et un jardin d'insertion, sans source de vente publique lisible ; Cambrai : une cave et une confiserie hors périmètre).
+
+**Pourquoi rien n'est publié.** Aucune des communes ne rend cinq commerces vérifiables : pas de marché confirmé par une source officielle (règle 9), pas d'enseigne vérifiée sur site propre. Une fiche isolée ne fait pas une zone (règle 52). Aucun fait n'a été inventé pour compléter la liste.
+
+**Pistes non publiées** (anonymes) :
+- Wattrelos, marchés recensés par un annuaire tiers : jours et emplacements à reprendre avec la page de la Ville ou de l'office de tourisme lue en direct.
+- Marcq-en-Barœul, un point de vente de produits alimentaires du registre au nom d'une enseigne de supermarché : hors périmètre (règle 4 de MODERATION.md).
+- Marcq-en-Barœul et Wattrelos, un exploitant chacun au nom patronymique : écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : deux (Marcq-en-Barœul et Wattrelos), toutes deux au nom patronymique d'un exploitant, voir ci-dessus.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Demande en attente** : aucune demande au statut nouvelle ; la demande en cours reste inchangée.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le classement suivant est la Haute-Garonne (31) puis le Haut-Rhin (68). Le Nord reste à reprendre avec la page officielle de la Ville de Wattrelos et celle de Marcq-en-Barœul, lues en direct.
