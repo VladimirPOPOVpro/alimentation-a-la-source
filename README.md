@@ -38450,3 +38450,34 @@ Sondage de cette passe :
 **Pourquoi rien.** Lambersart ne rend qu'une fiche à moitié vérifiable, loin du groupe de cinq. Rien n'a été publié sans source indépendante.
 
 **Points d'arrêt.** La passe suivante ne vise pas le Nord si le classement l'écarte à nouveau (règle 41.c) ; sinon elle reprend le Nord à la commune suivante par population sans fiche (Maubeuge, puis Armentières), en gardant les pistes de Lambersart en attente de leur déblocage.
+
+### Passe autonome du 16 octobre 2026 (Haute-Garonne (31) visée, Blagnac, Muret, Plaisance-du-Touch, Balma et Castanet sondées) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu (règle 93), sur 1 274 fiches, populations de geo.api.gouv.fr. Tête : Nord (59), déficit 5,36. La passe précédente visait le Nord : la règle 41.c écarte les Hauts-de-France pour celle-ci. Rang suivant : **Haute-Garonne (31), déficit 5,33**, région (Occitanie) non visée à la passe immédiatement précédente. Désignée.
+
+**Commune, règles 41.d, 52 et 59.** Commune la plus peuplée du 31 sans fiche, par descente :
+
+- **Blagnac** (27 604 hab.) : cinq points vérifiés lors des passes précédentes, mais la seule photo du lieu fait 451 px, sous le plancher de 600 px (règle 59). Pas de fiche.
+- **Muret** (26 079 hab.) : le site de la Ville ne répond pas (aucune réponse HTTP depuis cet environnement). Les marchés exigent deux sources officielles (règle 9) : non remplie. Pas de fiche.
+- **Plaisance-du-Touch** (21 079 hab.) : le site de la Ville répond. Une source officielle établit le marché de plein vent du jeudi et du samedi, 8 h à 12 h 45, place Bombail ; l'annuaire municipal ne donne aucun producteur ni AMAP, seulement une enseigne bio, une boucherie et une fromagerie (métiers absents de `lib/types.ts`, règle 4). Une fiche de marché isolée ne forme pas une zone. Pas de fiche.
+- **Balma** (17 772 hab.) : le registre bio ne donne qu'une entrée à vente aux particuliers, un domaine viticole, sans adresse de vente vérifiée ; les autres entrées sont des grossistes ou des entités sans vente directe. Pas de fiche.
+- **Castanet-Tolosan** (15 317 hab.) : une ferme à vente aux particuliers au registre, sans adresse de vente ni horaires vérifiés ; le reste relève de l'enseignement agricole, de la grande distribution ou de la vente en gros. Pas de fiche.
+
+Registre Agence Bio (31, 2 837 opérateurs relus sur la totalité du département) : pour ces communes, plusieurs entrées relèvent de personnes physiques, écartées pour doute sur une personne, elles ne se rouvrent pas.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, deux marchés et une boutique bio : tout est vérifié sauf la photo (451 px). **Déblocage** : une photo du lieu d'au moins 600 px sur un site officiel.
+- Blagnac, boutique maraîchère : horaires contradictoires entre annuaires. **Déblocage** : horaire confirmé par le lieu.
+- Muret, marchés du mardi et du samedi, et magasin bio : **déblocage** : pages officielles de la Ville lisibles, ou fiche du magasin lue en direct.
+- Plaisance-du-Touch, marché de plein vent (jeudi et samedi, 8 h à 12 h 45) : source officielle unique. **Déblocage** : une seconde source officielle sur les horaires, et au moins cinq commerces dans la commune.
+- Balma, domaine viticole en vente directe : catégorie `producteur` à trancher sur pièces, adresse de vente à vérifier. **Déblocage** : site du domaine.
+- Castanet-Tolosan, ferme en vente directe : adresse de vente et jours d'ouverture. **Déblocage** : source du producteur ou de la Ville.
+- Fiches écartées pour doute sur une personne : une (Muret, 31) ; trois entrées de particuliers au registre (Muret, Plaisance-du-Touch, Blagnac). Elles ne se rouvrent pas.
+
+**Pourquoi rien.** Aucune commune du 31 ne rend aujourd'hui cinq commerces vérifiables depuis cet environnement. Les sites officiels de Blagnac et de Muret sont injoignables ou sans contenu exploitable, et Plaisance-du-Touch comme Balma ne donnent qu'un ou deux candidats hors des catégories. Rien n'a été publié sans source indépendante.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Elle porte une enseigne qui ressemble à un prénom et un contact personnel : doute sur une personne. Rien n'est publié et aucune réponse n'est envoyée.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le Nord (59), déficit 5,36, redevient le premier rang éligible ; elle reprend le Nord à la commune suivante par population sans fiche (Mons-en-Barœul, 21 105 hab., puis Maubeuge, puis Armentières), en gardant les pistes de Lambersart en attente de leur déblocage. Blagnac et Muret restent en pistes, à reprendre dès qu'une photo ou une page officielle devient lisible.
