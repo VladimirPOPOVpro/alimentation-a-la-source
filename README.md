@@ -38360,3 +38360,35 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Pourquoi rien.** Montivilliers ne rend pas cinq commerces vérifiables. Elbeuf, la commune suivante par population, a déjà été éprouvée sans fiche (voir passes précédentes) ; le sondage de cette passe n'y a rien ajouté au registre. Aucun fait n'a été publié sans source indépendante.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie (règle 41.c). Le classement suivant est la Haute-Garonne (31) puis le Haut-Rhin (68), à égalité. Montivilliers à reprendre avec les pages officielles de la Ville et le site du Bocal à Mick'al ; sinon descente vers Elbeuf avec une source directe.
+
+### Passe autonome du 16 octobre 2026 (Haute-Garonne (31) visée, Muret sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule, populations de geo.api.gouv.fr, numérateur sur 1 274 fiches. Tête : **Nord (59), déficit 5,36**. La règle 41.c ne l'écarte pas : la passe précédente visait la Seine-Maritime (Normandie), pas les Hauts-de-France. Cette passe a pourtant suivi le point d'arrêt de la passe précédente et visé la **Haute-Garonne (31), déficit 5,33** : c'est une erreur de lecture, consignée ici. La règle 41 désignait le Nord. Le Nord a déjà été éprouvé jusqu'à Armentières et Lambersart (passes précédentes) ; cette passe a relu le registre bio du Nord pour La Madeleine, Mons-en-Barœul, Wasquehal, Halluin, Coudekerque-Branche, Ronchin, Croix et Grande-Synthe, sans source directe ni horaires vérifiables suffisants pour atteindre cinq fiches.
+
+**Commune, règles 41.d et 52.** Blagnac reprise : les cinq points sont vérifiés (voir passe du 16 octobre, Haute-Garonne), mais la photo bloque toujours. La règle 59 fixe le plancher à 600 px : le site du Biocoop donne une image de 451 px, la Ville publie des vignettes de marchés sans photo du lieu, et aucune photo thématique nette de la commune n'existe. Rien n'est publié sur Blagnac.
+
+Descente à **Muret** (26 079 hab.), la commune la plus peuplée du 31 après Blagnac sans fiche. Sondage :
+
+- Marchés : jours-de-marche.fr donne trois marchés (mardi et samedi, 8 h à 13 h, centre-ville ; marché bio de la halle aux grains le samedi). Une seule source tierce : le site de la Ville (muret.fr) n'a pas répondu depuis cet environnement. Règle 9 : deux sources officielles requises. Non publiés.
+- Biocoop de Muret (bd Joffrery) : seule une fiche d'annuaire tiers, le site du magasin n'est pas atteint. Non publié (horaires non vérifiés, photo non vérifiée).
+- Annuaire DirectFermiers31 (Département 31) : la page du canton de Muret est atteignable, mais la liste des producteurs est chargée dynamiquement et n'est pas lisible ici. Aucun point de vente exploité.
+- Registre Agence Bio (31, 400 opérateurs relus sur 2 837) : pour Muret, Plaisance-du-Touch et Blagnac, la plupart sont des grossistes ou des particuliers en vente non déclarée. Plusieurs entrées relèvent de personnes physiques : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, deux marchés, une seule fiche possible par lieu : tout est vérifié sauf la photo. **Déblocage** : une photo du lieu de 600 px au moins sur un site officiel.
+- Blagnac, boutique bio (enseigne réseau) : tout est vérifié sauf la photo (451 px). **Déblocage** : une image du magasin d'au moins 600 px.
+- Blagnac, boutique maraîchère (horaires contradictoires entre annuaires). **Déblocage** : horaire confirmé par le lieu.
+- Muret, marchés du mardi et du samedi : **déblocage** : la page de la Ville (muret.fr) ou de l'office, lisible depuis cet environnement.
+- Muret, Biocoop : **déblocage** : fiche du magasin lue en direct, horaires et photo ≥ 600 px.
+- Muret, halle aux grains bio : même déblocage que les marchés.
+- Une entité en vente directe, à Muret, désignée par un nom de personne : écartée pour doute sur une personne. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : une (Muret, 31) ; trois entrées de particuliers au registre (Muret, Plaisance-du-Touch, Blagnac).
+
+**Pourquoi rien.** Blagnac tient sur les faits mais pas sur la photo (règle 59). Muret ne rend pas cinq fiches vérifiables : deux sources officielles manquent pour les marchés, et les commerces du registre sont des grossistes ou des particuliers.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Rien n'est publié ni envoyé.
+
+**Points d'arrêt.** Le Nord (59) reste en tête du classement et n'est pas bloqué par la règle 41.c, la passe précédente ayant visé la Normandie. La passe suivante le reprend à la commune suivante par population sans fiche (La Madeleine, 21 790 hab., si une source directe apparaît ; sinon Mons-en-Barœul). Blagnac et Muret restent en pistes, à reprendre dès qu'une photo ou une page officielle devient lisible.
