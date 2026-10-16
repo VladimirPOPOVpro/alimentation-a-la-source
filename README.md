@@ -38199,3 +38199,27 @@ Le Petit-Quevilly (22 208 hab.), commune de descente : un seul candidat, un marc
 **Demande en attente** : aucune demande au statut nouvelle ; la demande en cours reste inchangée.
 
 **Points d'arrêt.** La passe suivante ne vise pas le 64 (règle 41.c). Le classement suivant ouvert est l'Isère (38) ou la Loire (42), selon les régions fermées. Biarritz à reprendre avec les sources officielles.
+
+### Passe autonome du 16 octobre 2026 (Haute-Garonne (31) visée, Blagnac sondée puis Muret et Plaisance-du-Touch) : aucune publication
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, Corse rattachée à ses deux départements), sur 1 274 fiches. Les régions des deux passes précédentes (Hauts-de-France, par la passe Nord, et Nouvelle-Aquitaine, par la passe Pyrénées-Atlantiques) sont écartées par la règle 41.c. Tête éligible : **Haute-Garonne (31)**, déficit 5,33, devant la Seine-Maritime (5,28) et l'Isère (5,01). Le département n'a pas été visé aux deux passes précédentes ; la garde de la règle 41.c est respectée.
+
+**Commune, règles 41.d et 52.** Blagnac (27 604 hab.) est la commune la plus peuplée de Haute-Garonne sans fiche : Toulouse, Colomiers, Tournefeuille, Cugnaux et Balma portent déjà des fiches. Sources lues cette passe :
+
+- registre de l'Agence Bio, 31, première page de 100 opérateurs : aucun opérateur domicilié à Blagnac à vente aux particuliers sous une enseigne ;
+- recherche web sur les marchés et producteurs de Blagnac : aucun marché ni horaire trouvé pour 2026, pas de page de la Ville lisible depuis cet environnement (blagnac.fr répond par une redirection non suivie) ;
+- recherche d'une enseigne Biocoop à Blagnac : une offre d'emploi récente confirme un magasin Biocoop dans la commune, mais le registre des entreprises et le site de l'enseigne n'ont pas été lisibles en direct, et aucun horaire n'a pu être recoupé.
+
+**Descente d'échelle, règle 41.d.** Muret (26 079 hab.), commune suivante sans fiche : le registre bio n'y donne qu'un opérateur à vente en gros hors marché de détail, et un exploitant au nom patronymique (écarté pour doute sur une personne, ne se rouvre pas). Une recherche sur les marchés de Muret ne donne qu'un annuaire tiers qui renvoie à la mairie, sans jours ni horaires. Rien de vérifiable. Plaisance-du-Touch (21 079 hab.) : une recherche sur les marchés ne donne que des brocantes et des agendas sans marché alimentaire ; un opérateur bio de la commune est au nom patronymique d'un exploitant (écarté, même motif).
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables : pas de marché confirmé par une source officielle (règle 9), pas d'enseigne vérifiée au registre. Une fiche isolée ne fait pas une zone (règle 52). Aucun fait n'a été inventé pour compléter la liste.
+
+**Pistes non publiées.** Blagnac : une enseigne Biocoop (Porte des Alpes), à reprendre dès que la fiche du réseau et le registre sont lisibles ; Blagnac : un ancien annuaire toulousain (2015) mentionne une épicerie alternative à une adresse non reconfirmée, à vérifier avant toute fiche. Muret : un marché annoncé par un annuaire tiers, sans source officielle. Blagnac, Muret et Plaisance-du-Touch : un exploitant au nom patronymique, écarté pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne** : trois (Muret, Plaisance-du-Touch, Blagnac), toutes au nom patronymique d'un exploitant, voir ci-dessus.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Demande en attente** : aucune demande au statut nouvelle ; la file ne contient qu'une demande en_cours, inchangée.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c) : le classement suivant est la Seine-Maritime (76), à reprendre hors Dieppe, ou l'Isère (38). Blagnac à reprendre avec la page officielle de la Ville et le registre Biocoop ; sinon descente vers Muret avec une source officielle de marché.
