@@ -13663,6 +13663,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 16 octobre 2026 (Nord, Wattrelos reprise) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste en attente : elle porte un prénom comme nom d'enseigne, doute sur une personne, rien n'est publié ni répondu.
+
+**Classement, règle 41 (métropole seule, règle 177).** Nord 5,36, Haute-Garonne 5,33 (écartée : visée à plusieurs passes récentes), Seine-Maritime 5,28. Outre-mer exclu : la validation refuse les coordonnées hors métropole (`lib/validateMerchants.ts`), donc rien à publier là-bas sans changer le code.
+
+**Commune, règle 41.d.** Dans le Nord, les six communes les plus peuplées ont déjà une fiche ; la plus peuplée sans fiche est **Wattrelos (40 847 habitants)**, reprise en dernier recours.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord, dix-neuf pages : quatre opérateurs à Wattrelos, dont deux grandes surfaces (écartées), un établissement médico-social (vente aux professionnels, non retenu) et un artisan dont l'enseigne est un nom de personne (écarté pour doute sur une personne, non nommé). Recherche web : aucun marché de producteurs ni magasin de circuit court identifié à Wattrelos.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucun commerce vérifiable sur une source indépendante. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Constat pour le responsable du site.** Les mêmes communes reviennent d'une passe à l'autre sans fiche publiée ; la formule ne sort pas une commune éprouvée du calcul. Question de méthode pour le responsable du site : faut-il une règle de sortie après plusieurs passes à zéro ? Aucune règle n'a été ajoutée ici.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Wattrelos ; Cambrai reste à reprendre seulement si une source indépendante donne un horaire non contesté.
+
 ### Passe autonome du 15 octobre 2026 (Nord, Cambrai reprise sur la Biocoop) : aucune publication
 
 **Demandes** : backlog vide, aucune demande à traiter, aucun email.
