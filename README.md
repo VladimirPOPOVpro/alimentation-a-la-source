@@ -38877,3 +38877,23 @@ Backlog vide : aucune demande « nouvelle ». La demande en_cours (Var, n° 13) 
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Contradictions** (règle 5) : aucune retenue.
+
+### Passe autonome du 17 octobre 2026 (Haut-Rhin (68) visé, Guebwiller et Thann sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Seine-Maritime (76), région exclue par la règle 41.c. En tête ensuite : Haut-Rhin (68, déficit ≈ 4,3 sur 1 274 fiches), devant Haute-Garonne (31, ≈ 4,1). Le 68 est retenu.
+
+**Commune, règle 41.d.** Mulhouse, Colmar, Pfastatt et Ruelisheim portent déjà des fiches. Communes sans fiche déjà éprouvées : Saint-Louis, Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim, Cernay. Cette passe lit **Guebwiller** (≈ 11 000 hab.) et **Thann** (≈ 7 800 hab.), les plus peuplées restantes.
+
+**Ce qui a été lu.** Recherche web sur Kingersheim, Rixheim, Riedisheim et Cernay : aucune liste de producteurs en vente directe ; la carte départementale des lieux d'approvisionnement date de 2012. Recherche web sur Guebwiller : un marché sur la place de l'Hôtel de Ville deux fois par semaine, jours et horaires non précisés ; l'annuaire jours-de-marché ne donne que des producteurs à 12 km ou plus. Recherche web sur Thann : un marché hebdomadaire sans jour indiqué ; la vente à la ferme repérée (Les Champs de l'Ill) est à Spechbach, hors commune, horaires non lus.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source indépendante, avec horaires confirmés. Une fiche isolée ne forme pas la zone de cinq.
+
+**Pistes non publiées** : Guebwiller, marché de la place de l'Hôtel de Ville (motif : jours et horaires non confirmés par une source officielle) ; Spechbach, vente à la ferme (motif : hors commune de la passe, horaires non lus sur la source du producteur) ; Thann, marché hebdomadaire (motif : jour non confirmé).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : ne pas viser le Haut-Rhin à deux passes de suite (règle 41.c). Rouvrir Guebwiller seulement avec les jours du marché lus sur le site de la Ville ou de l'office de tourisme ; ouvrir la page du producteur de Spechbach pour ses horaires. Observation de formule déjà consignée le 17 octobre (règle 41.d sans repli) : elle reste valable, aucune règle ajoutée ici.
