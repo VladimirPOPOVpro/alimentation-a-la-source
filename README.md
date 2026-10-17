@@ -38781,3 +38781,23 @@ Backlog vide : aucune demande au statut « nouvelle », pas d'email à envoyer. 
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Contradictions** (règle 5) : aucune retenue.
+
+### Passe autonome du 17 octobre 2026 (Seine-Maritime (76) visée, Dieppe sondée) : aucune publication
+
+Backlog : aucune demande « nouvelle » ; une demande (n° 13, Villecroze) reste `en_cours`, doute sur une personne, rien publié (voir plus haut). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règle 93). La passe précédente visait le Haut-Rhin (68), région Grand Est : elle est donc exclue (règle 41.c). En tête ensuite : Seine-Maritime (76), déficit ≈ 4,3, devant Haute-Garonne (31) à 4,2.
+
+**Commune, règle 41.d.** Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Le Grand-Quevilly et Mont-Saint-Aignan portent déjà des fiches. Dieppe (28 496 hab.) est la plus peuplée sans fiche : sondée, aucune cinquième fiche possible. Descente par population vers Le Petit-Quevilly, déjà sondé sans publication.
+
+**Pourquoi rien.** Le registre Agence Bio (département 76, première page de cent) donne des opérateurs de Dieppe qui ne vendent pas au public, ou dont la seule fiche vérifiable est une boulangerie bio dont la page d'accueil nomme une personne (règle 377 : rien ne se publie). Le magasin de producteurs du centre-ville de Dieppe est fermé au registre des entreprises. Aucune source indépendante ne rend cinq commerces vérifiables à Dieppe.
+
+**Constat de répétition.** La règle 41 a désigné la Seine-Maritime et le Haut-Rhin en alternance sur plusieurs passes du jour sans publication. Le déficit compte les fiches publiées, pas les pistes : tant que les communes en tête n'ont pas cinq commerces vérifiables, le classement ramène les mêmes régions. Ce point relève du responsable du site (règle 41), pas d'un changement de code.
+
+**Pistes non publiées** (anonymes) :
+- Dieppe, boulangerie bio (un site dont la page d'accueil nomme une personne) : rien ne se publie. **Déblocage** = une seconde fiche entière dans la commune.
+- Dieppe, magasin de producteurs du centre : fermé au registre, écarté.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Dieppe, boulangerie, voir ci-dessus).
+
+**Contradictions** (règle 5) : aucune retenue.
