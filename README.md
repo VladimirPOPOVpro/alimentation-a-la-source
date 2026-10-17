@@ -38919,3 +38919,26 @@ Backlog vide : aucune demande « nouvelle ». La demande en_cours (Var, n° 13) 
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** Passe suivante : Haut-Rhin non visé ; Seine-Maritime encore éligible après le Haut-Rhin, mais sa descente est presque épuisée (règle 247). Reprise à Yvetot ou Barentin, si le registre Agence Bio et une source officielle locale donnent un marché ou un producteur vérifiable.
+
+### Passe autonome du 17 octobre 2026 (Haut-Rhin (68) visé, Altkirch sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (voir « Pistes non publiées »).
+
+**Classement, règle 41.** Métropole seule, numérateur sur 1 274 fiches. La passe précédente visait la Seine-Maritime (76), région exclue par la règle 41.c. Tête du classement restant : Haut-Rhin (68, déficit ≈ 4,2), région non visée à la passe précédente, donc ouvert.
+
+**Commune, règle 41.d.** Guebwiller a été rouverte (point d'arrêt de la passe précédente) : aucun jour de marché hebdomadaire confirmé par une source officielle, et aucun producteur vérifiable trouvé ; le producteur de Spechbach n'a pas de page exploitable. Altkirch (5 000 hab. environ, aucune fiche) est ensuite sondée. Le registre Agence Bio (première page du Haut-Rhin, 100 opérateurs) n'y compte que deux opérateurs en vente aux particuliers.
+
+**Ce qui a été lu.** Recherche web : un magasin de producteurs à Altkirch (« Les Champs de l'Ill », horaires indiqués par une fiche Que Choisir, non recoupés avec un site officiel) ; un marché paysan et un marché généraliste listés sans jour ni horaire ; une biocoop, sans fiche exploitable. Une ferme voisine à Hirtzbach vend au marché local, mais aucune certification ni adresse de vente recoupée.
+
+**Pourquoi rien n'est publié.** Aucune commune du 68 ne rend cinq commerces vérifiables dans cette passe (règle 52 : une fiche isolée ne forme pas une zone). Un magasin isolé n'est pas publié seul.
+
+**Pistes non publiées** :
+- Altkirch, magasin de producteurs (motif : un seul point de vente vérifiable, horaires à recouper avec le magasin lui-même ; à rouvrir avec la source du magasin).
+- Altkirch, marché paysan et marché généraliste (motif : jours et horaires non confirmés par une source officielle ; à rouvrir à partir du site de la Ville).
+- Guebwiller, marché hebdomadaire (motif : jours non confirmés ; à rouvrir à partir du site de la Ville ou de l'office de tourisme).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : une entre une fiche Que Choisir et l'absence de confirmation locale pour le magasin de producteurs d'Altkirch ; rien n'est publié sur ce fait.
+
+**Point d'arrêt.** Passe suivante : ne pas viser le Haut-Rhin à deux passes de suite (règle 41.c). Altkirch se rouvre avec les horaires lus sur le site du magasin et le jour du marché lu sur le site de la Ville.
