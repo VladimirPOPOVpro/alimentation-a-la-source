@@ -38728,3 +38728,31 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Fiches écartées pour doute sur une personne** : une (Rixheim, une ferme en nom propre).
 
 **Contradictions** (règle 5) : aucune retenue.
+
+### Passe autonome du 17 octobre 2026 : Seine-Maritime sondée, aucune fiche publiée
+
+Backlog vide : aucune demande à traiter, pas d'email à envoyer.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 177). La passe précédente visait le Haut-Rhin (Grand Est) : la région est fermée (règle 41.c). En tête ensuite, à déficit à peu près égal, la Seine-Maritime (76) et le Haut-Rhin, qui est exclu. Le 76 est retenu.
+
+**Commune, règle 41.d.** Le 76 compte déjà des fiches au Havre, à Rouen, à Sotteville-lès-Rouen, à Saint-Étienne-du-Rouvray, à Mont-Saint-Aignan, au Grand-Quevilly et à Bois-Guillaume. Dieppe, la plus peuplée sans fiche, a été éprouvée une vingtaine de fois sans cinq commerces vérifiables (règles 96 et 127). Descente à **Le Petit-Quevilly (22 208 hab.)**.
+
+**Sources cette passe.**
+- Le registre de l'Agence Bio pour le 76 (1 000 opérateurs) : à Le Petit-Quevilly, aucun opérateur tourné vers la vente aux particuliers hors un commerce dont la fiche ne donne pas de point de vente identifiable.
+- Recherche sur le marché de la commune : aucun marché alimentaire trouvé dans les résultats, ni sur le site de la Ville. Rien de vérifiable.
+- Un magasin bio du centre (ouvert depuis 1998, produits locaux en vrac) est signalé par un guide local ; ses horaires viennent d'une page de la Ville datée de 2021 et n'ont pas été recoupés avec le commerce lui-même. Pas de cinq.
+- Une enseigne de supermarché affirme travailler directement avec des éleveurs : c'est une épicerie générale, écartée au titre de la modération.
+- Aucune AMAP ni point de vente à la ferme implanté dans la commune ; les annuaires de producteurs ne rendent que des exploitations à quinze kilomètres ou plus.
+
+**Pourquoi rien.** Une seule piste bio sérieuse pour la commune, sans source actuelle sur ses horaires. Cinq fiches vérifiées sont hors de portée de cette passe (règles 96 et 127).
+
+**Pistes non publiées** (anonymes) :
+- Le Petit-Quevilly, magasin bio du centre-ville, produits locaux en vrac : **déblocage** = horaires confirmés sur le site du commerce ou sur place, et au moins quatre autres commerces vérifiés sur une source indépendante.
+- Montivilliers, enseigne « Le Marché Bio », immatriculée (SIRENE) à une avenue de la commune : **déblocage** = adresse et horaires confirmés par une source autre que le registre, plus la nature de l'offre (bio ou généraliste) établie.
+- Montivilliers, épicerie générale qui annonce des produits régionaux et bio : **écartée**, commerce généraliste.
+
+**Points d'arrêt.** La passe suivante ne peut pas viser la Normandie (règle 41.c) si celle-ci a visé le 76 ; le Haut-Rhin redevient éligible. Dieppe reste à réessayer quand le site de la Ville répondra avec son contenu.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
