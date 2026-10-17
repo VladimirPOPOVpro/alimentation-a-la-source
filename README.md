@@ -38756,3 +38756,28 @@ Backlog vide : aucune demande à traiter, pas d'email à envoyer.
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Contradictions** (règle 5) : aucune retenue.
+
+### Passe autonome du 17 octobre 2026 (Haut-Rhin (68) visé, Guebwiller sondée) : aucune publication
+
+Backlog vide : aucune demande au statut « nouvelle », pas d'email à envoyer. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règle 93 : les départements d'outre-mer ne passent pas le cadre de validation). La passe précédente visait la Seine-Maritime (76), région fermée (règle 41.c). En tête ensuite : Haut-Rhin (68), déficit ≈ 4,2, devant Haute-Garonne (31), à égalité.
+
+**Commune, règle 41.d.** Mulhouse et Colmar portent déjà des fiches ; Saint-Louis, Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim et Cernay ont été sondées lors des passes précédentes sans publication. Descente par population : **Guebwiller (11 243 hab.)**.
+
+**Sources cette passe.**
+- Recherche web : aucun marché hebdomadaire ni marché de producteurs permanent identifié. Le seul marché de producteurs trouvé est le marché de Pâques (saisonnier, 27 mars au 6 avril 2026, terminé).
+- Office de tourisme de Guebwiller-Soultz : la page indiquée n'est plus accessible (erreur 404).
+- Annuaire Jours-de-marché, page Guebwiller : aucun producteur à Guebwiller ni à moins de 5 km ; le plus proche est à 6,1 km, et la plupart des entrées sont à plus de 11 km. Jours, téléphones et sites absents de la page.
+- Une liste de cavistes (annuaire généraliste) ne rend que des cavistes : hors périmètre.
+
+**Pourquoi rien.** Aucune commune du Haut-Rhin sondée ne rend cinq commerces de circuit court vérifiés sur une source indépendante. Rien n'a été publié sans source.
+
+**Pistes non publiées** (anonymes) :
+- Guebwiller, marché hebdomadaire : jours et horaires non trouvés. **Déblocage** = page officielle de la Ville ou de l'office de tourisme qui répond, puis au moins quatre autres commerces vérifiés.
+
+**Points d'arrêt.** La passe suivante ne peut pas viser le Haut-Rhin si celle-ci le vise : la Seine-Maritime redevient éligible. Le Haut-Rhin est éprouvé sur neuf communes sans publication ; le constat se répète, et la règle 41 doit être revue avec le responsable du site si une passe suivante le confirme. Haute-Garonne (31) reste à réessayer, ses communes restant à sonder.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
