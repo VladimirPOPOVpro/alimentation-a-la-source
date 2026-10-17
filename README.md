@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 17 octobre 2026 (Haut-Rhin, Rixheim, Kingersheim, Cernay, Riedisheim sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée.
+
+**Classement, règle 41.** Métropole seule. Haut-Rhin en tête des communes éligibles après écartement de La Réunion et des autres départements d'outre-mer (validation des coordonnées), et de la Seine-Maritime visée la veille. Déficit ≈ 4,24 sur 1 274 fiches.
+
+**Commune, règle 41.d.** Mulhouse, Colmar, Saint-Louis et Pfastatt portent déjà des fiches. Wittenheim et Illzach, sondées la veille sans résultat. Descente à Rixheim (14 380 hab.), Kingersheim (13 354), Riedisheim (12 200) et Cernay (12 057).
+
+**Ce qui a été lu.** Registre Agence Bio, Haut-Rhin, 1 345 opérateurs relus en totalité, filtrés sur les communes visées : presque tous sont des grossistes, des transformateurs ou des particuliers en vente à la ferme sans adresse publique, à écarter pour doute sur une personne. Recherche web sur les quatre communes : une seule source de producteur à Rixheim (vente de viande à la ferme, sur rendez-vous, via le site du producteur, à confirmer) et un annuaire de paniers hors commune ; un annonce non officielle à Cernay (producteur en vente directe, horaires non vérifiés) ; aucun marché de producteurs sur une source officielle à Kingersheim ni à Riedisheim (une Biocoop, enseigne nationale, hors critère).
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source indépendante et une activité confirmée au registre. Les fiches isolées (une ferme de viande sur rendez-vous, une annonce non officielle) ne forment pas une zone, et les horaires comme les contacts restent à établir auprès de chaque producteur.
+
+**Pistes non publiées** (anonymes) : Rixheim, éleveur en vente directe à la ferme, à reprendre après vérification du registre et du site ; Cernay, producteur en vente directe, à reprendre sur une source officielle. Les entreprises individuelles du registre Agence Bio portant un nom de famille ne sont pas reprises.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Fiches écartées pour doute sur une personne** : quelques entrées du registre Agence Bio portant un nom de particulier, écartées sans reprise.
+
 ### Passe autonome du 17 octobre 2026 (Seine-Maritime, Dieppe sondée au registre) : aucune publication
 
 **Classement, règle 41.** Métropole seule (règle 177). La passe précédente visait le Haut-Rhin (région 44) : seule cette région est exclue (règle 41.c). Seine-Maritime en tête, déficit ≈ 4,3 sur 1 274 fiches, devant la Haute-Garonne (≈ 4,2).
