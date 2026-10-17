@@ -38576,3 +38576,21 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Pistes non publiées** : aucune nouvelle piste.
 
 **Points d'arrêt.** Prochaine passe : Haut-Rhin, à reprendre par le site de la Ville de Riedisheim (page des marchés) et les annuaires de producteurs de l'agglomération, une fois Kingersheim relue quand son site répondra. Le Haut-Rhin est éprouvé sur plusieurs communes sans fiche ; si ce constat se répète, la descente par population n'apporte rien et le classement doit être revu avec le responsable du site.
+
+### Passe autonome du 17 octobre 2026 (Haute-Garonne (31) visée, Blagnac et Muret injoignables) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), populations de geo.api.gouv.fr. Tête : Nord (59), 5,36, fermé pour la descente (règle 247). Haute-Garonne (31), 5,33 : première ouverte, et la Seine-Maritime (76, 5,28) est exclue par la règle 41.c, puisqu'elle a été visée à la passe précédente. Le Haut-Rhin (68, 4,84) reste ouvert derrière.
+
+**Commune.** Blagnac, la commune la plus peuplée sans fiche du 31 (règle 41.d). Muret, la suivante, est aussi sans fiche. Sites officiels de Blagnac et de Muret injoignables depuis cet environnement (aucune réponse HTTP).
+
+**Sources cette passe.** Registre de l'Agence Bio, premier lot de cent opérateurs du 31 : dans les communes visées, les entrées sont des grossistes ou des opérateurs qui ne vendent pas aux particuliers, ou des personnes physiques dont le nom n'est pas repris ici (règle 60 et règles de personnes). Aucune fiche de commerce vérifiable en vente directe à Blagnac ni à Muret. Plaisance-du-Touch : un opérateur sans vente aux particuliers. Balma : un négociant en vin, non retenu cette passe. Castanet-Tolosan : rien de nouveau.
+
+**Pourquoi rien.** Deux communes éprouvées sans zone, sites officiels injoignables, et aucun commerce en vente directe trouvé dans le registre pour ces communes : rien n'a été publié sans source indépendante.
+
+**Pistes non publiées** : inchangées (Lambersart, Maubeuge, Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Dieppe, Fécamp, Montivilliers). Pas de nouvelle piste.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le classement suivant est la Seine-Maritime, déjà épuisée, puis le Haut-Rhin (68, 4,84), dont Kingersheim, Riedisheim, Wittenheim, Illzach et Rixheim sont déjà sondées sans publication. Si Blagnac et Muret répondent à une passe ultérieure, elles reprennent leur rang.
