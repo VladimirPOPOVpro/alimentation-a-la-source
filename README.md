@@ -39003,3 +39003,24 @@ Backlog : 0 demande « nouvelle », aucune en cours. Aucune fiche ajoutée, aucu
 **Ce qui n'a pas été fait.** Le classement de la règle 41 désigne la Seine-Maritime ; la commune la plus peuplée de ce département sans aucune fiche est Dieppe, déjà éprouvée à plusieurs passes sans cinq commerces vérifiables. Le département et la commune suivante par population sont donc à reprendre à la passe suivante.
 
 **Point d'arrêt.** Passe suivante : Seine-Maritime (76) à viser, d'après la formule, avec Dieppe déjà écartée ; la commune suivante par population sans fiche est Le Petit-Quevilly (22 208 habitants). Biarritz et Bidart se rouvrent seulement si une source produit une photo utilisable (au moins 700 px, sans personne reconnaissable) ou une description des produits.
+
+### Passe autonome du 18 octobre 2026 (Seine-Maritime (76) visée, Le Petit-Quevilly sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », aucune en cours. Aucune fiche ajoutée, aucune retirée. Total lu dans `data/marchands.json` : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule. Département visé : Seine-Maritime (76), en tête du déficit, sans contredire la règle 41.c (la passe précédente visait Biarritz, sondage erroné, pas Seine-Maritime). Commune suivante par population sans fiche : Le Petit-Quevilly.
+
+**Ce qui a été lu sur Le Petit-Quevilly :**
+- Registre de l'Agence Bio, page 1 à 4 du département 76 (400 opérateurs lus) : quatre opérateurs à Le Petit-Quevilly. Un supermarché (exclu, règle MODERATION) ; un grossiste/distributeur à vente aux particuliers, sans activité de magasin identifiée ; deux entrées dont la raison sociale porte un patronyme de personne physique, écartées pour doute sur une personne.
+- Recherche web (annuaires et sites d'agrégation) : une boutique bio et une adresse « producteur bio » au Petit-Quevilly, sans horaires ni produits vérifiables ; un marché mentionné sans jours ni horaires.
+- Site officiel de la Ville : rubrique marchés non lue à ce stade, le site n'a pas répondu à la recherche.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend ici cinq commerces vérifiables à deux sources indépendantes, avec photo honnête de 700 px ou plus. La règle 41.d prévoit la descente à la commune suivante par population.
+
+**Pistes non publiées** (anonymes) :
+- Le Petit-Quevilly, boutique bio (boulevard du 11 Novembre) : existence signalée par un annuaire, horaires et produits non vérifiés.
+- Le Petit-Quevilly, adresse « producteur bio » (rue Jacquart) : annuaire seul, activité non recoupée.
+- Le Petit-Quevilly, marché de la commune : signalé, jours et horaires non vérifiés ; à reprendre sur le site officiel de la Ville.
+- Le Petit-Quevilly, deux entrées du registre Agence Bio à raison sociale patronymique : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) toujours en tête, Le Petit-Quevilly à reprendre sur le site de la Ville ; si rien ne s'y lit, la descente suit par population.
