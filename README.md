@@ -38861,3 +38861,19 @@ Backlog : aucune demande « nouvelle » ; une demande (n° 13, Villecroze) reste
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c). Le classement suivant est le Nord-ou-Seine-Maritime selon la région de la passe suivante ; reprendre Blagnac et Muret seulement si les sites des villes répondent, et consigner les DIRECTFERMIERS31 et Bienvenue à la Ferme 31 à lire sur site.
+
+### Passe autonome du 17 octobre 2026 (Seine-Maritime (76) visée, Dieppe et communes voisines relues) : aucune publication
+
+Backlog vide : aucune demande « nouvelle ». La demande en_cours (Var, n° 13) reste inchangée : rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule (règle 177). La passe précédente visait la Haute-Garonne (Occitanie), région fermée par la règle 41.c. En tête ensuite, la Seine-Maritime (76, 4,30), devant le Haut-Rhin (68, 4,24). Le 76 est retenu.
+
+**Commune, règle 41.d.** Dieppe reste la plus peuplée sans fiche, déjà éprouvée à plusieurs passes sans cinq commerces vérifiables. Descente par population dans le 76 : Montivilliers, Fécamp, Le Petit-Quevilly, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec et Yvetot sont déjà consignées sans publication. Il n'existe donc plus de commune non éprouvée au-dessus du seuil de cinq fiches dans ce département.
+
+**Pourquoi rien.** Aucune source nouvelle n'a été trouvée cette passe qui ne soit déjà consignée ci-dessus. Publier moins de cinq fiches contredirait la règle 41 de groupement, et publier une fiche isolée n'est pas l'objectif de la passe.
+
+**Observation pour les passes suivantes (hors périmètre : la formule, pas le contenu).** La règle 41.d ne prévoit pas de repli quand toutes les communes d'un département sont épuisées : la formule reclasse donc le 76 en tête à chaque passe, hors de l'Occitanie, et chaque passe le resonde sans rien publier. Une règle de repli (passer au département suivant du classement une fois les communes du précédent éprouvées) modifierait la formule : elle n'est pas écrite ici, et elle est signalée au compte rendu.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
