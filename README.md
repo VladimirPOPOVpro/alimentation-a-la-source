@@ -13663,6 +13663,20 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 17 octobre 2026 (Seine-Maritime, Elbeuf sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste inchangée, hors de cette passe.
+
+**Classement, règle 41.** Métropole seule (règle 177). Le Nord (Hauts-de-France), visé la veille, est écarté par la règle 41.c. En tête ensuite : Seine-Maritime (déficit ≈ 4,30 sur 1 274 fiches), puis Haut-Rhin (4,24) et Haute-Garonne (4,19).
+
+**Commune, règle 41.d.** Dieppe (éprouvée à répétition, aucun producteur vérifié dans la commune) et Montivilliers (passe du 15 octobre, marché d'été sans liste d'exposants) écartées. Descente à **Elbeuf (15 474 hab.)**, sans fiche à ce jour.
+
+**Ce qui a été lu.** Registre Agence Bio, Seine-Maritime, première page (cent opérateurs) : aucun opérateur déclaré à vente aux particuliers à Elbeuf ; seuls un grossiste à Saint-Pierre-lès-Elbeuf (vente aux professionnels) et un établissement à Belbeuf, hors commune, apparaissent.
+
+**Pourquoi rien n'est publié.** Elbeuf ne rend aucun commerce vérifiable dans la commune sur une source indépendante. Une fiche isolée ne forme pas la zone de cinq.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Elbeuf sans source de commerce situé dans la commune ; Seine-Maritime à reconsidérer selon le décompte. Aucune règle ajoutée ici.
+
 ### Passe autonome du 16 octobre 2026 (Nord, Wattrelos reprise) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste en attente : elle porte un prénom comme nom d'enseigne, doute sur une personne, rien n'est publié ni répondu.
