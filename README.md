@@ -13663,6 +13663,20 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 17 octobre 2026 (Seine-Maritime, Dieppe sondée au registre) : aucune publication
+
+**Classement, règle 41.** Métropole seule (règle 177). La passe précédente visait le Haut-Rhin (région 44) : seule cette région est exclue (règle 41.c). Seine-Maritime en tête, déficit ≈ 4,3 sur 1 274 fiches, devant la Haute-Garonne (≈ 4,2).
+
+**Commune.** La plus peuplée sans aucune fiche en Seine-Maritime reste Dieppe (28 496 habitants), déjà éprouvée à plusieurs passes. Registre de l'Agence Bio, Seine-Maritime, première page (cent opérateurs) : aucun opérateur déclaré à vente aux particuliers à Dieppe ; les deux opérateurs dieppois listés sont en vente restauration collective ou sans vente au public.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend aucun producteur ni magasin spécialisé vérifiable dans la commune. Une fiche isolée ne forme pas la zone de cinq (règles 96 et 127).
+
+**Pistes non publiées** (anonymes) : Dieppe, marchés publiés par la Ville, aucune fiche de commerce.
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var) reste en_cours, doute sur une personne, rien publié, aucun message envoyé.
+
+**Point d'arrêt.** Seine-Maritime fermée à la passe suivante (règle 41.c). Reprise à Fécamp ou au Petit-Quevilly seulement si une source de commerce situé dans la commune apparaît.
+
 ### Passe autonome du 17 octobre 2026 (Nord, Marcq-en-Barœul sondée) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
