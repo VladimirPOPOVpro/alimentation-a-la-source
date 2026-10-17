@@ -38897,3 +38897,25 @@ Backlog vide : aucune demande « nouvelle ». La demande en_cours (Var, n° 13) 
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** Passe suivante : ne pas viser le Haut-Rhin à deux passes de suite (règle 41.c). Rouvrir Guebwiller seulement avec les jours du marché lus sur le site de la Ville ou de l'office de tourisme ; ouvrir la page du producteur de Spechbach pour ses horaires. Observation de formule déjà consignée le 17 octobre (règle 41.d sans repli) : elle reste valable, aucune règle ajoutée ici.
+
+### Passe autonome du 17 octobre 2026 (Seine-Maritime (76) visée, Bolbec sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » : le nom de l'enseigne pourrait désigner une personne privée, donc rien n'est publié ni répondu (voir « Pistes non publiées »).
+
+**Classement, règle 41.** Le Haut-Rhin (68) est la passe précédente, donc exclu par la règle 41.c. Le premier du classement restant est la Seine-Maritime (76), déficit ≈ 4,3 sur 1 274 fiches, sans fiche publiée ailleurs que dans le 76. Les départements d'outre-mer restent hors calcul (règle 177).
+
+**Commune, règle 41.d.** Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Le Grand-Quevilly et Bois-Guillaume portent déjà des fiches. Dieppe, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin et Yvetot ont été sondées aux passes précédentes sans cinq commerces vérifiables. Cette passe sonde **Bolbec** (11 590 hab.), suivante par population.
+
+**Ce qui a été lu.** Recherche web sur les marchés de Bolbec : le seul marché de nocturne signalé est passé (juillet et août 2026) ; le marché hebdomadaire n'a ni jour ni horaire publiés dans les sources trouvées. Recherche web sur les producteurs en vente directe : aucun producteur identifié dans la commune ; les fermes proches sont à plus de 11 km.
+
+**Pourquoi rien n'est publié.** Bolbec ne rend aucune source indépendante à jour pour un marché ni pour un producteur, et aucune fiche isolée ne forme une zone de cinq (règle 52). Aucun commerce n'a été écrit dans `data/marchands.json`.
+
+**Pistes non publiées** :
+- Bolbec, marché hebdomadaire (motif : jour et horaires non confirmés par une source officielle ; à rouvrir à partir du site de la Ville ou de l'office de tourisme Caux-Seine).
+- Villecroze (83), producteur, demande n° 13 en_cours (motif : doute sur une personne, l'enseigne pourrait désigner une personne privée ; la demande reste en attente sans publication ni réponse).
+
+**Fiches écartées pour doute sur une personne** : une cette passe, demande n° 13 (Villecroze), sans publication.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Haut-Rhin non visé ; Seine-Maritime encore éligible après le Haut-Rhin, mais sa descente est presque épuisée (règle 247). Reprise à Yvetot ou Barentin, si le registre Agence Bio et une source officielle locale donnent un marché ou un producteur vérifiable.
