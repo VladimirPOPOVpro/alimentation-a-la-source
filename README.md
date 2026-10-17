@@ -38801,3 +38801,25 @@ Backlog : aucune demande « nouvelle » ; une demande (n° 13, Villecroze) reste
 **Fiches écartées pour doute sur une personne** : une cette passe (Dieppe, boulangerie, voir ci-dessus).
 
 **Contradictions** (règle 5) : aucune retenue.
+
+### Passe autonome du 17 octobre 2026 (Haut-Rhin visé, Wittelsheim sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule (règle 177). La passe précédente visait la Seine-Maritime (76, région 28), région exclue (règle 41.c). En tête ensuite : Haut-Rhin (68), déficit ≈ 4,24 sur 1 274 fiches, devant Haute-Garonne (31) à 4,19.
+
+**Commune, règle 41.d.** Mulhouse et Colmar portent déjà des fiches ; Saint-Louis, Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim, Cernay et Guebwiller sont déjà sondées sans publication. Descente par population : **Wittelsheim (10 645 hab.)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haut-Rhin, trois pages de cent opérateurs relues : deux opérateurs seulement à Wittelsheim, tous deux déclarés sans vente aux particuliers (un siège de société de volaille, une distribution en gros aux professionnels).
+- Recherche web (deux requêtes) : aucun marché de producteurs ni point de vente direct identifié à Wittelsheim. Les résultats renvoient à Wittisheim (Bas-Rhin, autre commune) ou à des commerces de Wittenheim, hors commune.
+
+**Pourquoi rien n'est publié.** Wittelsheim ne rend aucun commerce vérifiable dans la commune sur une source indépendante. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Constat de méthode.** Le Haut-Rhin a été visé à plusieurs reprises, dans l'ordre de population, sans qu'une seule commune ne rende cinq commerces. Le déficit de la règle 41 y ramène le département à chaque passe, parce que les fiches publiées restent à 10 et que les communes éprouvées ne sortent pas du calcul. Question de méthode pour le responsable du site, sans changement de règle ici.
+
+**Point d'arrêt.** La passe suivante ne vise pas le Haut-Rhin (règle 41.c). Si le Haut-Rhin revient ensuite, la commune suivante par population est Brunstatt-Didenheim (8 259 hab.), puis Wintzenheim (8 059 hab.), à lire d'abord dans le registre Agence Bio.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
