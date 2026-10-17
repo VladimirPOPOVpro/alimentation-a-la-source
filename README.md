@@ -13663,6 +13663,20 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 17 octobre 2026 (Nord, Marcq-en-Barœul sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait le Haut-Rhin (région 44), région exclue par la règle 41.c. Le Nord (59) est en tête du calcul, devant la Seine-Maritime, et il n'a pas été visé à la passe précédente : il est retenu.
+
+**Commune, règle 41.d.** Wattrelos, Marcq-en-Barœul ; Wattrelos reste à zéro (passe du 16 octobre, quatre marchés sans heures). Douai n'est pas sans fiche.
+
+**Ce qui a été lu.** Le site de la Ville de Marcq-en-Barœul ne répond toujours pas (code 000), comme aux passes précédentes. Pas d'autre source de faits trouvée pour cette commune dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente du Nord ne rend cinq fiches vérifiables ; la source de Marcq-en-Barœul est injoignable.
+
+**Point d'arrêt.** Passe suivante : ne pas viser le Nord à deux passes de suite (règle 41.c). Reprendre Marcq-en-Barœul si son site répond, puis Lambersart et Armentières.
+
 ### Passe autonome du 17 octobre 2026 (Haut-Rhin, Wittenheim et Illzach sondées) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
