@@ -38634,3 +38634,21 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
 
 **Points d'arrêt.** La passe suivante ne vise pas le Bouches-du-Rhône (règle 41.c) et ne vise pas l'Occitanie si l'on reprend le classement. Le classement suivant ouvert est l'Isère (38), puis la Loire (42) ; le Haut-Rhin (68) reste à reprendre par Cernay, dont la Ville et l'office recensent un marché hebdomadaire du vendredi (parking de l'Espace Grün) mais dont aucun autre commerce vérifié n'a été trouvé cette passe. Cernay n'est pas publiée : un seul marché vérifié ne forme pas une zone.
+
+### Passe autonome du 17 octobre 2026 (Seine-Maritime (76) visée, Fécamp sondée) : aucune publication
+
+**Backlog.** Aucune demande au statut `nouvelle`. La demande n° 13 (producteur, Var) reste `en_cours` : l'enseigne ressemble à un prénom et le contact transmis est une adresse privée. Doute sur une personne : rien n'est publié, aucune réponse envoyée, la demande n'est pas fermée.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; l'outre-mer est écarté par la validation des coordonnées). La passe précédente visait le Haut-Rhin (Grand Est), région fermée pour cette passe (règle 41.c). Le déficit métropolitain le plus fort hors Grand Est est la Seine-Maritime (76), à environ 4,3 sur 1 274 fiches.
+
+**Commune, règle 41.d.** Le 76 compte déjà des fiches dans Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Le Grand-Quevilly et Bois-Guillaume. Les communes les plus peuplées sans fiche ont déjà été éprouvées sans cinq commerces vérifiables : Dieppe (passes des 8 octobre et autres), Le Petit-Quevilly (passe du 8 octobre), Montivilliers et Elbeuf (passes des 14 à 17 octobre). Descente à **Fécamp (17 313 habitants)**.
+
+**Sources cette passe.** Recherche généraliste sur les producteurs et marchés de Fécamp : aucun marché de producteurs ni liste de fermes en vente directe localisée dans la commune n'est apparue sur une source indépendante. Les répertoires cités (fermes à 28 à 45 km, un drive fermier) ne se situent pas à Fécamp ; deux enseignes bio de la ville (une coopérative et une chaîne) apparaissent dans un répertoire de magasins, sans horaires ni fiche vérifiés : non retenues à ce stade, car elles ne forment pas une zone de cinq.
+
+**Pourquoi rien.** Fécamp ne rend aucun commerce de circuit court vérifiable dans la commune sur une source indépendante. Une fiche isolée ne forme pas la zone de cinq (règles 96 et 127). Rien n'est publié.
+
+**Pistes non publiées** (anonymes) :
+- Fécamp, magasins bio (deux enseignes au répertoire) : horaires et fiche à vérifier sur les sites des enseignes. **Déblocage** : horaires vérifiés, et au moins quatre autres commerces de circuit court trouvés dans la commune.
+- Seine-Maritime, communes sans fiche (Canteleu, Oissel-sur-Seine, Barentin, Bolbec, Yvetot) : non sondées cette passe. **Reprise prévue** : Canteleu, puis Oissel-sur-Seine, sur le registre de l'Agence Bio et les sites de commune.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie si la Seine-Maritime reste en tête, sans la sonder à nouveau pour Dieppe ni Elbeuf. Le Haut-Rhin (68) reste à reprendre à partir d'une commune neuve.
