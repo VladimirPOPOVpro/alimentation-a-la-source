@@ -38594,3 +38594,23 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (règle 41.c). Le classement suivant est la Seine-Maritime, déjà épuisée, puis le Haut-Rhin (68, 4,84), dont Kingersheim, Riedisheim, Wittenheim, Illzach et Rixheim sont déjà sondées sans publication. Si Blagnac et Muret répondent à une passe ultérieure, elles reprennent leur rang.
+
+### Passe autonome du 17 octobre 2026 (Bouches-du-Rhône (13) visé, Martigues sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), populations de geo.api.gouv.fr, numérateur sur 1 274 fiches. Tête : Nord (59), fermé pour la descente (règle 247). Haute-Garonne (31), écartée : la passe précédente l'a visée (règle 41.c, Occitanie). Seine-Maritime (76), épuisée (règle 247, passes précédentes). **Bouches-du-Rhône (13), désigné** : région non visée à la passe précédente, descente non fermée.
+
+**Commune, règle 41.d.** Marseille porte déjà des fiches ; Istres et Salon-de-Provence ont été sondées à la passe du 14 octobre sans cinq commerces vérifiables. Ville suivante sans fiche par population : Martigues.
+
+**Sources cette passe.** Site de la Ville de Martigues et office de tourisme : un marché des producteurs saisonnier, place Jean-Jaurès, figurant sur le site de la Ville et sur celui de l'office, mais la saison (avril à octobre, mardi de 16 h à 19 h) s'achève le 30 septembre. Les agendas d'annuaires donnent d'autres jours et horaires (jeudi et dimanche de 8 h à 13 h ; samedi et dimanche de 9 h à 18 h) : **contradiction** non tranchée, rien n'est publié sur ces horaires. Les marchés alimentaires de la Ville (mercredi et samedi, 8 h à 13 h, source Ville de Martigues Bouge) ne sont pas des points de producteurs ; aucune AMAP ni ferme en vente directe localisée et vérifiée à Martigues cette passe.
+
+**Pourquoi rien.** Martigues ne rend pas cinq commerces vérifiables, et la seule fiche de marché est saisonnière, hors saison à la date de la passe, avec des horaires contradictoires. Rien n'a été publié sans source indépendante. La règle 41.c réserve la passe suivante à une autre région que Provence-Alpes-Côte d'Azur.
+
+**Pistes non publiées** (anonymes) :
+- Martigues, marché des producteurs (place Jean-Jaurès, saisonnier) : horaires contradictoires entre la Ville, l'office et les annuaires. **Déblocage** : horaires de la saison suivante confirmés par la Ville, et au moins cinq commerces vérifiés dans la commune.
+- Martigues, marchés alimentaires de quartier : hors catégories (marché généraliste). Non retenus.
+
+**Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
+
+**Points d'arrêt.** La passe suivante ne vise pas le Bouches-du-Rhône (règle 41.c) et ne vise pas l'Occitanie si l'on reprend le classement. Le classement suivant ouvert est l'Isère (38), puis la Loire (42) ; le Haut-Rhin (68) reste à reprendre par Cernay, dont la Ville et l'office recensent un marché hebdomadaire du vendredi (parking de l'Espace Grün) mais dont aucun autre commerce vérifié n'a été trouvé cette passe. Cernay n'est pas publiée : un seul marché vérifié ne forme pas une zone.
