@@ -38837,3 +38837,27 @@ Backlog : aucune demande « nouvelle » ; une demande (n° 13, Villecroze) reste
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Contradictions** (règle 5) : aucune retenue.
+
+### Passe autonome du 17 octobre 2026 (Haute-Garonne (31) visée, Blagnac, Muret et Balma sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (Var) reste inchangée : rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait le Nord (59), région exclue par la règle 41.c. Le Nord (5,36) reste au premier rang mais il est écarté ; la Haute-Garonne (31) vient ensuite à 5,33, devant la Seine-Maritime (76, 5,28).
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) puis Muret (26 079) restent les plus peuplées sans fiche. Balma, sondée pour la rattrapage des pistes, est la commune suivante.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 31 : déjà lu en entier les 14 et 17 octobre ; rien de neuf.
+- Recherche web sur les sept communes voisines (Blagnac, Muret, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Plaisance-du-Touch) : une seule source municipale utilisable, le guide des commerçants de la mairie de Balma, qui cite un marché de plein vent (mercredi et samedi) et deux boutiques généralistes ou de produits régionaux. Aucune source d'office de tourisme ou de Bienvenue à la Ferme n'a livré le nom d'un producteur vendant sur place dans ces communes.
+- Brochures de 2015 (annuaire circuits courts de Toulouse) : trois points de dépôt AMAP ou de légumes à Blagnac, datés de dix ans et non confirmés ; aucun n'est retenu.
+- Annuaire DIRECTFERMIERS31 et réseau Bienvenue à la Ferme 31 : listes à consulter sur site, contenu actuel non vérifié, aucune fiche extraite.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables sur une source indépendante et une activité confirmée. Le marché de plein vent de Balma n'est pas un marché de producteurs, et les points de dépôt de Blagnac sont trop anciens pour être publiés.
+
+**Fiches écartées pour doute sur une personne** : une enseigne d'épicerie fine à Balma, dont le nom commercial est un nom de famille. Non publiée, ne se rouvre pas.
+
+**Pistes non publiées** : Blagnac, trois points de dépôt AMAP et de légumes (motif : sources datées de 2015, non confirmées) ; Balma, marché de plein vent (motif : non réservé aux producteurs) ; Balma, une enseigne, doute personne.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c). Le classement suivant est le Nord-ou-Seine-Maritime selon la région de la passe suivante ; reprendre Blagnac et Muret seulement si les sites des villes répondent, et consigner les DIRECTFERMIERS31 et Bienvenue à la Ferme 31 à lire sur site.
