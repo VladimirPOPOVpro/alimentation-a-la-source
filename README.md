@@ -38652,3 +38652,29 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 - Seine-Maritime, communes sans fiche (Canteleu, Oissel-sur-Seine, Barentin, Bolbec, Yvetot) : non sondées cette passe. **Reprise prévue** : Canteleu, puis Oissel-sur-Seine, sur le registre de l'Agence Bio et les sites de commune.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Normandie si la Seine-Maritime reste en tête, sans la sonder à nouveau pour Dieppe ni Elbeuf. Le Haut-Rhin (68) reste à reprendre à partir d'une commune neuve.
+
+### Passe autonome du 17 octobre 2026 (Haute-Garonne (31) visée, Balma, Castanet-Tolosan, Ramonville-Saint-Agne et Saint-Orens-de-Gameville sondées) : aucune publication
+
+**Backlog.** Aucune demande au statut `nouvelle`. La demande en `en_cours` reste inchangée, aucune réponse envoyée. Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), populations de geo.api.gouv.fr, numérateur sur 1 274 fiches. Tête : Nord (59), fermé pour la descente (règle 247). Haute-Garonne (31), 5,33 : **désignée**, région non visée à la passe précédente (Normandie, règle 41.c). Seine-Maritime (76, 5,28) exclue par la règle 41.c.
+
+**Commune, règle 41.d.** Le 31 compte 23 fiches, toutes à Toulouse, Colomiers, Tournefeuille, Cugnaux, Saint-Jean et Pibrac et dans quelques communes voisines. Les communes les plus peuplées sans fiche, dans l'ordre : Blagnac (27 604 hab.), Muret (26 079), Plaisance-du-Touch (21 079), Balma (17 772), Castanet-Tolosan (15 317), Ramonville-Saint-Agne (15 158), Saint-Orens-de-Gameville (14 646).
+
+**Sources cette passe.**
+- Blagnac, Muret et Plaisance-du-Touch : sites officiels injoignables depuis cet environnement (aucune réponse HTTP), comme à la passe précédente. Les annuaires d'agrégation ne donnent que des producteurs situés hors commune, ou des listes anciennes.
+- Registre de l'Agence Bio, premier lot de cent opérateurs du 31 : à Blagnac et Muret, les entrées sont des grossistes, des opérateurs qui ne vendent pas aux particuliers, ou des personnes physiques dont le nom n'est pas repris ici (règle 60 et règles de personnes).
+- Balma : site officiel de la commune joignable. Un marché de plein vent (avenue des Mimosas) y est décrit, avec un marché bio le samedi matin ; les horaires de la page de la mairie se contredisent (mardi et samedi, puis mercredi et samedi, avec une fin de marché à 12 h ou 13 h selon les pages). Un seul marché, donc pas une zone de cinq.
+- Castanet-Tolosan : un relais d'AMAP (jeudi un sur deux) et une ferme pédagogique (retrait le mercredi) ne sont relevés que par des annuaires tiers, sans source de la commune.
+- Ramonville-Saint-Agne : marché de plein vent du mercredi et du samedi, 8 h à 13 h 30, relevé par un annuaire, non confirmé par la commune.
+- Saint-Orens-de-Gameville : un marché du samedi (8 h à 12 h 30) et une boucherie à la ferme relevés par des annuaires ; aucune source officielle de la commune retrouvée.
+
+**Pourquoi rien.** Aucune des sept communes ne rend une zone de cinq commerces vérifiables sur une source indépendante. Les marchés trouvés sont sur un seul site ou ont des horaires contradictoires ; les autres fiches ne reposent que sur des annuaires agrégateurs. Rien n'a été publié sans source, et une fiche isolée ne forme pas la zone de cinq (règles 96 et 127). Sept communes éprouvées, sous la borne de douze de la règle 247.
+
+**Pistes non publiées** (anonymes) :
+- Balma, marché de plein vent et marché bio (avenue des Mimosas) : horaires contradictoires entre les pages de la mairie. **Déblocage** : horaires confirmés par la mairie, et au moins quatre autres commerces vérifiés dans la commune.
+- Castanet-Tolosan, relais d'AMAP (distribution le jeudi, une semaine sur deux) : source unique, un annuaire. **Déblocage** : un second relevé de la commune ou de l'AMAP régionale.
+- Ramonville-Saint-Agne, marché de plein vent (mercredi et samedi) : source unique, un annuaire. **Déblocage** : confirmation par la commune.
+- Saint-Orens-de-Gameville, marché du samedi et boucherie à la ferme : sources d'annuaires seulement. **Déblocage** : site de la commune ou de l'office de tourisme.
+
+**Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c). Le classement suivant est l'Isère (38, 5,01), puis le Haut-Rhin (68, 4,84), qui reste à reprendre à partir d'une commune neuve. La Haute-Garonne reprend son rang à une passe ultérieure, par Blagnac si son site répond, sinon par Plaisance-du-Touch ou Balma une fois les horaires confirmés.
