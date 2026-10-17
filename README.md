@@ -38678,3 +38678,26 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 - Saint-Orens-de-Gameville, marché du samedi et boucherie à la ferme : sources d'annuaires seulement. **Déblocage** : site de la commune ou de l'office de tourisme.
 
 **Points d'arrêt.** La passe suivante ne vise pas l'Occitanie (règle 41.c). Le classement suivant est l'Isère (38, 5,01), puis le Haut-Rhin (68, 4,84), qui reste à reprendre à partir d'une commune neuve. La Haute-Garonne reprend son rang à une passe ultérieure, par Blagnac si son site répond, sinon par Plaisance-du-Touch ou Balma une fois les horaires confirmés.
+
+### Passe autonome du 17 octobre 2026 (Seine-Maritime (76) visée, Canteleu sondée) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177), populations de geo.api.gouv.fr. Tête : Nord (59), fermé pour la descente (règle 247). Haute-Garonne (31), écartée : la passe précédente l'a visée (règle 41.c). **Seine-Maritime (76), désignée** : région non visée à la passe précédente.
+
+**Commune, règle 41.d.** Canteleu (14 402 hab.), la commune la plus peuplée du 76 sans fiche et non encore éprouvée. Descente : Oissel-sur-Seine, Barentin, Bolbec et Yvetot restent à sonder ensuite.
+
+**Sources cette passe.**
+- Registre de l'Agence Bio, les 1 005 opérateurs du 76 relus, filtrés sur Canteleu : un seul opérateur de production en vente directe aux particuliers (un ESAT, sans site ni horaires relevés), une entrée de production en vente aux particuliers au nom d'une personne physique (non nommée ici, règles de personnes), un magasin de grande distribution, et des grossistes ou opérateurs sans vente aux particuliers.
+- Recherche web : une enseigne Biocoop est référencée à Canteleu, sans horaires ni fiche vérifiés ; un annuaire ne donne que des producteurs situés à 13 km et plus.
+- Oissel-sur-Seine : aucun marché de producteurs trouvé ; les entrées du registre sont des grossistes, une brasserie et des grandes surfaces.
+- Barentin et Yvetot (sondage du registre) : grossistes, grandes surfaces, un magasin de vrac sans vente aux particuliers au registre, et un lycée agricole dont la vente directe n'est relevée que par le registre.
+
+**Pourquoi rien.** Canteleu ne rend qu'une piste vérifiable à un seul point d'une source officielle ; une zone de cinq n'est pas atteinte, et une fiche isolée ne forme pas la zone (règles 96 et 127). Rien n'a été publié sans source indépendante.
+
+**Pistes non publiées** (anonymes) :
+- Canteleu, enseigne Biocoop : fiche à vérifier sur le site de l'enseigne (horaires, adresse exacte). Source unique à ce jour. **Déblocage** : horaires et adresse vérifiés, et au moins quatre autres commerces de circuit court trouvés dans la commune.
+- Canteleu, ESAT en production maraîchère et baies, vente directe au particulier au registre : source unique, aucun site ni horaires relevés. **Déblocage** : une seconde source indépendante (commune ou annuaire régional).
+- Canteleu, une entrée de production en vente directe au nom d'une personne physique : écartée par la règle des personnes, ne se rouvre pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c). Le classement suivant est la Haute-Garonne, puis le Haut-Rhin, déjà éprouvés. La descente de Canteleu reprend à Oissel-sur-Seine lorsque le 76 sera de nouveau visé.
