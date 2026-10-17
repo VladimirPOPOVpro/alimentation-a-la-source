@@ -13663,6 +13663,26 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 17 octobre 2026 (Haut-Rhin, Wittenheim et Illzach sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; l'outre-mer est écarté par la validation des coordonnées). Seine-Maritime, visée la veille, est écartée par la règle 41.c. Haut-Rhin en tête ensuite (déficit ≈ 4,24 sur 1 274 fiches), devant Haute-Garonne (4,19).
+
+**Commune, règle 41.d.** Mulhouse et Colmar portent déjà des fiches. Saint-Louis, éprouvée les 10 et 14 octobre, ne rend aucun commerce vérifiable. Descente à **Wittenheim (15 553 hab.)**, puis **Illzach (14 923 hab.)**, comme le prévoyait le point d'arrêt du 14 octobre.
+
+**Ce qui a été lu.** Recherche web sur Wittenheim et sur Illzach (producteurs, marchés, vente directe) :
+- Wittenheim : une ferme signalée en AMAP (poulet bio) et une épicerie de produits locaux, sans horaires ni site vérifiés ; aucun marché de producteurs trouvé sur une source officielle.
+- Illzach : aucun marché de producteurs ni point de vente direct identifié ; les annuaires renvoient à des communes voisines à plus de 25 km. Le marché de Noël (4 au 6 décembre 2026) est une manifestation ponctuelle, hors de cette passe.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source indépendante et une activité confirmée. Une seule fiche (épicerie ou ferme en AMAP) ne forme pas la zone de cinq, et les horaires comme les contacts restent à établir auprès de chaque commerce.
+
+**Pistes à reprendre.** Wittenheim : la ferme en AMAP (vente directe à confirmer auprès d'elle) et l'épicerie locale (site et horaires à lire sur sa propre page). Illzach : marché de la Ville et distributeurs locaux, par la carte des producteurs de Mulhouse Alsace Agglomération (source déjà utilisée pour la passe du 14 octobre, Mulhouse). Ne pas revisiter la Seine-Maritime avant épuisement du Haut-Rhin.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
 ### Passe autonome du 17 octobre 2026 (Seine-Maritime, Elbeuf sondée) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande « en_cours » (#13, Var) reste inchangée, hors de cette passe.
