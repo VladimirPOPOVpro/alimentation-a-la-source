@@ -38701,3 +38701,30 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 - Canteleu, une entrée de production en vente directe au nom d'une personne physique : écartée par la règle des personnes, ne se rouvre pas.
 
 **Points d'arrêt.** La passe suivante ne vise pas la Seine-Maritime (règle 41.c). Le classement suivant est la Haute-Garonne, puis le Haut-Rhin, déjà éprouvés. La descente de Canteleu reprend à Oissel-sur-Seine lorsque le 76 sera de nouveau visé.
+
+### Passe autonome du 17 octobre 2026 (Haut-Rhin (68) visé, Rixheim, Riedisheim et Cernay sondées) : aucune publication
+
+Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, inchangée). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; l'outre-mer est écarté par la validation des coordonnées). La passe précédente visait la Seine-Maritime (76) : ce département est exclu (règle 41.c). En tête ensuite : **Haut-Rhin (68)**, déficit ≈ 4,24 sur 1 274 fiches, devant Haute-Garonne (31), ≈ 4,19.
+
+**Commune, règle 41.d.** Mulhouse et Colmar portent déjà des fiches. Saint-Louis, Wittenheim et Illzach ont été sondées lors des passes précédentes sans fiche publiable. Descente par population : **Rixheim (14 380 hab.)**, puis Riedisheim (12 200) et Cernay (12 057).
+
+**Sources cette passe.**
+- Rixheim : un éleveur en vente à la ferme, sur rendez-vous, exploité sous le nom d'une personne physique : écarté par la règle des personnes, ne se rouvre pas. Un marché le jeudi matin est signalé par un annuaire régional, sans source officielle de la commune à ce jour. Aucun magasin de producteurs ni AMAP trouvé.
+- Riedisheim : une photo de légende mentionne un marché, sans jours ni producteurs. L'annuaire Jours-de-marché ne référence que des producteurs situés à 29 km et plus. Rien de vérifiable sur place.
+- Cernay (68700) : un primeur et une épicerie bio, signalés par un annuaire local à partir d'avis clients uniquement. Aucune source officielle, aucun horaire vérifié.
+- Le registre de l'Agence Bio pour le 68 a été lu lors de la passe du 14 octobre ; pas de nouvelle relecture.
+
+**Pourquoi rien.** Aucune de ces trois communes ne rend cinq commerces de circuit court vérifiés sur une source indépendante. Une fiche isolée, ou une piste sur avis clients, ne forme pas la zone (règles 96 et 127). Rien n'a été publié sans source indépendante.
+
+**Pistes non publiées** (anonymes) :
+- Rixheim, marché du jeudi matin signalé par un annuaire régional : **déblocage** = confirmation sur le site de la commune (jours, horaires, liste des producteurs) et au moins quatre autres commerces vérifiés.
+- Cernay, primeur et épicerie bio : **déblocage** = source officielle ou site propre de chaque commerce (horaires, adresse), plus quatre autres commerces.
+- Rixheim, vente à la ferme d'un éleveur exploité sous un nom de personne : écartée par la règle des personnes, ne se rouvre pas.
+
+**Points d'arrêt.** La passe suivante ne peut pas viser le Haut-Rhin (règle 41.c) si celle-ci le vise : la Seine-Maritime redevient éligible. Haut-Rhin, reprise : reprendre à Riedisheim, puis Cernay, avec les sources officielles des communes. Haute-Garonne (31) : la commune la plus peuplée sans fiche reste à sonder, les communes de la métropole toulousaine étant déjà couvertes.
+
+**Fiches écartées pour doute sur une personne** : une (Rixheim, une ferme en nom propre).
+
+**Contradictions** (règle 5) : aucune retenue.
