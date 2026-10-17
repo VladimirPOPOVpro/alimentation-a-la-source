@@ -38974,3 +38974,32 @@ Backlog vide : aucune demande « nouvelle ». La demande en_cours (Var, n° 13) 
 **Contradictions** (règle 5) : une entre une fiche Que Choisir et l'absence de confirmation locale pour le magasin de producteurs d'Altkirch ; rien n'est publié sur ce fait.
 
 **Point d'arrêt.** Passe suivante : ne pas viser le Haut-Rhin à deux passes de suite (règle 41.c). Altkirch se rouvre avec les horaires lus sur le site du magasin et le jour du marché lu sur le site de la Ville.
+
+### Passe autonome du 18 octobre 2026 (Biarritz sondée à tort, Seine-Maritime visée par la formule) : aucune publication
+
+Backlog : 0 demande « nouvelle », aucune en cours. Aucune fiche ajoutée, aucune retirée. Total lu dans `data/marchands.json` : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait le Haut-Rhin (Grand Est), seule région exclue par la règle 41.c. Ordre de déficit : Seine-Maritime (76) ≈ 4,3 ; Haut-Rhin ≈ 4,2 (exclu) ; Haute-Garonne ≈ 4,2 ; Pyrénées-Atlantiques (64) ≈ 4,1. **Le département à viser était donc la Seine-Maritime, pas les Pyrénées-Atlantiques.** Cette passe a sondé Biarritz (64) par erreur de sélection : elle n'ouvre aucune règle et n'en ferme aucune, et elle est notée ici pour ne pas être répétée.
+
+**Ce qui a été lu sur Biarritz (64)**, sources indépendantes :
+- Site officiel de la Ville, rubrique « Commerces et Marchés » (mise à jour 26 janvier 2026) : marché couvert des Halles tous les jours 7 h 30 à 14 h ; marché des producteurs le samedi 7 h 30 à 13 h, extérieur des Halles ; marché alimentaire Saint-Martin le mercredi 9 h à 13 h (rue du Reptou) ; marché alimentaire Saint-Charles le vendredi 9 h à 13 h (place Saint-Charles).
+- Site de l'association des Halles : ouvertes tous les jours de 7 h 30 à 14 h. Aucun produit détaillé publié par les étals.
+- Registre de l'Agence Bio, département 64 (huit pages) : à Biarritz, cinq opérateurs déclarés à vente aux particuliers ; l'un d'eux, une épicerie vrac, est une société radiée en septembre 2025 (registre des entreprises) et les autres n'ont pas été recoupés comme magasins.
+- Annuaire Etxaldea : 27 producteurs référencés à Biarritz, dont un seul magasin (épicerie vrac « Bio Docks – Biomonde ») dont la société apparaît en liquidation judiciaire avec fonds de commerce à céder, alors qu'un autre site donne des horaires en cours : contradiction non tranchée, donc non publiée (règle 5 et règle 6).
+- Biocoop Pays Basque : les quatre magasins sont à Anglet, Bayonne et Saint-Jean-de-Luz. Aucun à Biarritz.
+
+**Pourquoi rien n'est publié.** Biarritz rend quatre marchés et une halle vérifiables par la Ville, mais aucune fiche ne peut partir sans photo : les seules images disponibles sur les sites du commerce et de la Ville (logo du site des Halles, image de la commune de Bidart) sont soit des logos, soit des photos de foule sous le seuil de 700 px (règle 59), soit des images où des personnes sont reconnaissables (écartées). Aucune photo thématique honnête n'a été trouvée sur une source autorisée.
+
+**Pistes non publiées** (anonymes) :
+- Biarritz, marché couvert des Halles (halle, tous les jours) : horaires vérifiés, photo non trouvée.
+- Biarritz, marché des producteurs du samedi, extérieur des Halles : horaires vérifiés, produits non détaillés par la Ville, photo non trouvée.
+- Biarritz, marché alimentaire Saint-Martin (mercredi) et marché Saint-Charles (vendredi) : horaires vérifiés, aucun produit publié, photo non trouvée.
+- Biarritz, épicerie vrac Bio Docks – Biomonde : contradiction sur l'activité (liquidation judiciaire contre horaires en cours) ; à rouvrir si le registre tranche.
+- Bidart (commune limitrophe, même agglomération), marché des 4 saisons, samedi 9 h à 13 h, la place principale : horaires vérifiés par la Mairie de Bidart, aucun produit détaillé ; photos du site sous le seuil de 700 px.
+- Bidart, marché fermier Bidart'Eko : réservé aux producteurs, saison juillet à 9 septembre, hors saison à ce jour ; à rouvrir à la prochaine saison.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Ce qui n'a pas été fait.** Le classement de la règle 41 désigne la Seine-Maritime ; la commune la plus peuplée de ce département sans aucune fiche est Dieppe, déjà éprouvée à plusieurs passes sans cinq commerces vérifiables. Le département et la commune suivante par population sont donc à reprendre à la passe suivante.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) à viser, d'après la formule, avec Dieppe déjà écartée ; la commune suivante par population sans fiche est Le Petit-Quevilly (22 208 habitants). Biarritz et Bidart se rouvrent seulement si une source produit une photo utilisable (au moins 700 px, sans personne reconnaissable) ou une description des produits.
