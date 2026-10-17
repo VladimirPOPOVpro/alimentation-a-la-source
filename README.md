@@ -38548,3 +38548,17 @@ Aucune demande au statut « nouvelle » (backlog : 0 nouvelle, 1 en cours, incha
 **Demande en attente** : la demande n° 13 (producteur, Var) reste `en_cours`, inchangée. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
 
 **Points d'arrêt.** Le Nord est fermé pour la descente (règle 247). La prochaine passe ne vise pas la Seine-Maritime (règle 41.c). Le classement suivant est la Haute-Garonne (31), puis le Haut-Rhin (68) : deux départements dont les communes sont déjà éprouvées (Blagnac et Muret injoignables ; Wittenheim, Illzach et Rixheim sondées). La passe rencontrera donc le même constat tant que les sources officielles ne répondent pas ou que le registre ne fournit pas de commerce vérifiable.
+
+### Passe autonome du 17 octobre 2026 (Haut-Rhin visé, Kingersheim sondée) : aucune publication
+
+**Département, règle 41.** Population par commune (geo.api.gouv.fr) sommée par département, fiches lues sur le code postal. En tête du déficit, les départements d'outre-mer (971 à 976, 987, 988) sortent du périmètre : le validateur refuse les coordonnées hors de la métropole. Parmi les départements métropolitains, la Seine-Maritime (76, déficit 4,30) est en tête mais a été visée à la passe précédente (réserve de la règle 41.c). Le Haut-Rhin (68, 4,24) est le suivant, dans une région différente.
+
+**Commune.** Mulhouse et Colmar portent déjà des fiches ; Saint-Louis, Wittenheim, Illzach et Rixheim sont déjà sondées sans publication. La plus peuplée sans fiche restante est Kingersheim (13 354 habitants), dans l'agglomération mulhousienne (règle 96).
+
+**Sources cette passe.** Registre des entreprises : la recherche par nom ne permet pas de lister des producteurs par activité, aucune entité exploitable trouvée pour Kingersheim ni pour Riedisheim. Recherche web : l'annuaire Jours-de-marché ne donne, pour Kingersheim, que des producteurs situés à plusieurs dizaines de kilomètres ; aucun marché de producteurs ni magasin bio local identifié. Une boucherie-charcuterie de l'annuaire est écartée : ses produits sont AOC et Label Rouge, sans certification biologique, et sa commune n'est pas établie. Site officiel de Riedisheim joignable, sans page marchés ni liste de commerçants exploitable à cette passe. Site officiel de Kingersheim injoignable depuis cet environnement (aucune réponse HTTP).
+
+**Pourquoi rien.** Aucun commerce vérifiable à Kingersheim ni à Riedisheim : rien n'est publié sans source indépendante.
+
+**Pistes non publiées** : aucune nouvelle piste.
+
+**Points d'arrêt.** Prochaine passe : Haut-Rhin, à reprendre par le site de la Ville de Riedisheim (page des marchés) et les annuaires de producteurs de l'agglomération, une fois Kingersheim relue quand son site répondra. Le Haut-Rhin est éprouvé sur plusieurs communes sans fiche ; si ce constat se répète, la descente par population n'apporte rien et le classement doit être revu avec le responsable du site.
