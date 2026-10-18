@@ -13663,6 +13663,29 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 18 octobre 2026 (Seine-Maritime, Petit-Quevilly et Fécamp sondées au registre et sur le web) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait le Nord (région 32, Hauts-de-France) : elle est exclue par la règle 41.c. Seine-Maritime (76) arrive en tête après exclusion (déficit ≈ 4,4 sur 1 274 fiches), devant le Haut-Rhin et la Haute-Garonne.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée sans fiche, déjà éprouvée à plusieurs passes. On descend à Le Petit-Quevilly (22 208 hab.), puis Fécamp (17 313 hab.).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, quatre pages (400 opérateurs) filtrées sur les trois communes : des distributeurs, des négoces, des supermarchés et des entrées en vente directe portant un nom de personne (écartées pour doute sur une personne, non nommées, ne se rouvrent pas).
+- Recherche web sur Le Petit-Quevilly : une annonce de point de distribution AMAP « à venir » dans l'année, sans date ni adresse confirmée ; une association AMAP de la commune voisine, sans activité vérifiée.
+- Recherche web sur Fécamp : un marché nocturne saisonnier (dates estivales passées), un recensement participatif sans horaires vérifiés, aucun producteur identifié.
+
+**Pourquoi rien n'est publié.** Aucune de ces trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes. Une annonce d'AMAP non datée ne compte pas comme source de fait, et un marché saisonnier ne donne pas d'horaires d'année.
+
+**Pistes non publiées** (anonymes) :
+- Le Petit-Quevilly, point de distribution AMAP annoncé dans la presse régionale, sans date ni adresse : à recouper avec le réseau AMAP régional.
+- Fécamp, marché nocturne estival : dates saisonnières, à recouper avec la Ville ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne** : deux entrées de vente directe du registre (Le Petit-Quevilly), non nommées, non reprises.
+
+**Points d'arrêt.** Passe suivante : Seine-Maritime éligible (règle 41.c ne vise que la passe précédente, le Nord). Reprendre Le Petit-Quevilly si le réseau AMAP régional donne une adresse et une date ; sinon descendre à Montivilliers ou Elbeuf, sans jamais viser le Nord.
+
 ### Passe autonome du 18 octobre 2026 (Nord, Cambrai sondée au registre et sur les sites des enseignes) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle » ; une demande (Var) reste « en_cours », non reprise ici.
