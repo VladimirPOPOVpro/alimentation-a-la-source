@@ -39341,3 +39341,33 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la règle 41.c exclut le Nord à la passe suivante si celle-ci est une passe de Bouches-du-Rhône ; Haute-Garonne et Seine-Maritime sont à reprendre selon la formule. Constat pour le responsable du site : la formule a produit une quarantaine de passes sans publication, toujours sur les mêmes communes du Nord. Aucune règle de sortie n'a été ajoutée ici.
+
+### Passe autonome du 18 octobre 2026 (Haute-Garonne (31) visée, Blagnac sondée sur les pages de la Ville) : aucune publication
+
+**Backlog** : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole sur 1 274 fiches (population `geo.api.gouv.fr`, outre-mer exclu, règle 177) : Nord (59) 5,36, Haute-Garonne (31) 5,33, Seine-Maritime (76) 5,28. La passe précédente (a313fa4) visait le Nord : la règle 41.c l'exclut, donc **Haute-Garonne** est retenue.
+
+**Commune, règle 41.d.** Commune la plus peuplée de Haute-Garonne sans fiche : **Blagnac** (27 604 hab.). Toulouse, Colomiers, Tournefeuille et Cugnaux ont déjà des fiches.
+
+**Ce qui a été lu sur Blagnac.**
+- Pages « Marchés de plein vent » et « Circuits courts » de la Ville, lues dans le navigateur.
+- Marché de la place des Arts, samedi 8 h - 13 h : page de la Ville, recoupée par Haute-Garonne Tourisme.
+- Marché de la place des Marronniers, mercredi 15 h 30 - 19 h 30 : page de la Ville, recoupée par Haute-Garonne Tourisme.
+- AMAP Saint-Pierre d'Ax : distribution hebdomadaire le mardi aux jardins de Catalogne (page de la Ville) ; une fiche de 2024 donne 18 h - 19 h 30, à recouper.
+- ESAT Maniban (L'Arche en pays toulousain), maraîchage bio, boutique et paniers : page de la Ville et annuaires ; horaires de boutique lus sur une seule fiche ancienne.
+- Biocoop Blagnac : magasin de réseau, écarté (règle 3).
+- DirectFermiers31 : annuaire, pas un point de vente, écarté.
+- Un maraîcher bio en vente directe de paniers, cité par la Ville : nom à caractère personnel, écarté pour doute sur une personne.
+
+**Pourquoi rien n'est publié.** Quatre commerces vérifiables sur deux sources indépendantes, pas cinq : le groupe ne se complète pas à Blagnac. La règle 41.d prévoit de descendre à la commune suivante ; Muret n'a pas été sondée cette passe.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, marché du samedi matin (place des Arts) : horaires et source Ville vérifiés ; photo nette et fiche prête une fois le groupe complet.
+- Blagnac, marché du mercredi après-midi (place des Marronniers) : même statut.
+- Blagnac, AMAP de distribution du mardi : horaires à recouper avec le réseau de l'AMAP.
+- Blagnac, ESAT maraîchage bio (boutique) : horaires de boutique à relever sur la page de l'ESAT ou par téléphone.
+
+**Fiches écartées pour doute sur une personne** : 1 (Blagnac, maraîcher en vente directe, nom à caractère personnel).
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne exclue (visée cette passe), Nord de nouveau éligible en tête. Si la Haute-Garonne revient, reprendre Blagnac avec un cinquième commerce vérifié ; sinon Muret, puis Plaisance-du-Touch.
