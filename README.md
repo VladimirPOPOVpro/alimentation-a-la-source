@@ -39462,3 +39462,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Le Petit-Quevilly, Fécamp et Dieppe, dont la raison sociale est un patronyme d'exploitant ; aucune n'est nommée ici.
 
 **Point d'arrêt.** Passe suivante : Nord (59), commune la plus peuplée sans fiche à déterminer sur la liste des fiches existantes, puis descente d'échelle si elle ne rend pas cinq commerces vérifiables.
+
+### Passe autonome du 18 octobre 2026 (Haute-Garonne (31) visée, Muret sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre.
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (départements 97x et 98x exclus, règle 177). Tête : Haute-Garonne (31) 5,10, Seine-Maritime (76) 5,08, Nord (59) 4,94, Bouches-du-Rhône (13) 4,86. La dernière passe visée (Bouches-du-Rhône) exclut le 13 par la règle 41.c. Le Nord reste en rang 3 du calcul, mais la règle 247 l'a fermé (quatorze communes éprouvées) : la note de passe précédente qui le désigne pour la suite n'est pas tenable et reste une contradiction consignée ici. Haute-Garonne retenue.
+
+**Commune, règle 41.d.** Haute-Garonne, communes les plus peuplées sans fiche : Blagnac (27 604 hab.), déjà éprouvée deux passes plus tôt avec quatre commerces, puis **Muret (26 079 hab.)**, commune éprouvée cette passe.
+
+**Ce qui a été lu cette passe.**
+- Registre Agence Bio, Haute-Garonne, pagination complète (2 810 opérateurs), filtre sur Muret : huit opérateurs, dont une enseigne de grande distribution et une dizaine d'entrées de négoce ou de production sans vente au détail. Une seule entrée de vente aux particuliers porte le nom d'une personne (exploitant individuel) : écartée, non nommée.
+- Annuaire des marchés (jours-de-marche.fr) : trois marchés à Muret (samedi 8 h-13 h et mardi 8 h-13 h au centre-ville ; samedi matin à la Halle aux grains, marché bio). Le site ne précise pas la présence de producteurs.
+- Site de la mairie : aucune rubrique de marchés ni de producteurs trouvée ; seule la page des marchés publics (appels d'offres).
+- Recherche web (AMAP, producteurs, marché de Muret) : rien d'exploitable.
+
+**Pourquoi rien n'est publié.** Muret ne rend aucun commerce de producteur vérifiable sur deux sources indépendantes : le marché bio de la Halle aux grains est une piste, mais ses producteurs et ses horaires ne sont pas confirmés par une source officielle. Plaisance-du-Touch (21 079 hab.), commune suivante, a été regardée au seul registre : une entrée de vente directe au nom d'une personne, des enseignes de grande distribution, un établissement de préparation. Pas de cinquième commerce ; rien n'est ajouté.
+
+**Pistes non publiées** (anonymes) :
+- Muret, marché bio du samedi à la Halle aux grains (centre-ville) : jour et horaire déclarés par un annuaire de marchés, non confirmés par la Ville ; publiable si la Ville ou l'organisateur donne la liste des producteurs.
+- Muret, marchés du samedi et du mardi au centre-ville : producteurs non identifiés ; hors sujet tant qu'aucun producteur n'y est attesté.
+- Muret et Plaisance-du-Touch, entrées de vente directe au nom de personnes : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : une à Muret (vente directe au nom d'une personne), non nommée.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne exclue (visée cette passe, règle 41.c). Le classement suivant ouvert est la Seine-Maritime (76), puis le Nord, dont la règle 247 garde la fermeture. Reprendre Muret seulement si la Ville ou l'organisateur confirme les producteurs du marché bio ; sinon, la descente de la Haute-Garonne passe à Plaisance-du-Touch, déjà éprouvée au registre.
