@@ -39422,3 +39422,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe (le maraîcher en vente directe écarté à la passe précédente reste écarté, non nommé).
 
 **Points d'arrêt.** Passe suivante : Haute-Garonne toujours éligible si le Nord a été visé (règle 41.c, la passe précédente est le Nord). Reprendre Blagnac seulement si la liste des producteurs d'un des deux marchés est donnée par une source de la Ville ou des organisateurs ; sinon Muret, puis Plaisance-du-Touch.
+
+### Passe autonome du 18 octobre 2026 (Bouches-du-Rhône (13) visé, La Ciotat sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 93 et 177), 1 274 fiches, populations `geo.api.gouv.fr`. Tête : Nord (59) 5,36, fermé par la règle 247 (quatorze communes éprouvées, borne dépassée). Haute-Garonne (31) 5,33, visée à la passe précédente : exclue par la règle 41.c. Seine-Maritime (76) 5,28, épuisée. **Bouches-du-Rhône (13), 5,20**, retenu : la dernière passe visait l'Occitanie, la région n'est donc pas la même.
+
+**Commune, règle 41.d.** Communes des Bouches-du-Rhône sans fiche, par population : Aubagne (sondée cette passe, sans résultat, passe précédente), Istres et Salon-de-Provence (sondées le 14 octobre), puis **La Ciotat (38 477 hab.)**. Vitrolles (36 758 hab.) vient après La Ciotat par population : le point d'arrêt de la passe précédente la nommait avant elle, ce qui inverse l'ordre de la règle 41.d ; la commune est donc corrigée ici et consignée.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Bouches-du-Rhône, mille opérateurs lus (pages 0 à 900) : douze entrées à La Ciotat. Presque toutes sont des distributeurs, des grossistes ou des hypermarchés (écartés : négoce de gros et commerce généraliste, règle 3). Une seule entrée de vente aux particuliers, enregistrée au nom d'une personne : écartée pour doute sur une personne, non nommée.
+- Recherche web sur les marchés : le marché de producteurs du Port Vieux est donné le dimanche par une source et le samedi par la même page ; un marché alimentaire du mardi matin, place Évariste-Gras, sans précision sur les producteurs ; aucune page de la Ville lue (aucune trouvée). Contradiction sur le jour : rien ne se publie sur le marché tant qu'il n'est pas confirmé.
+- Recherche web sur les AMAP et fermes : une AMAP (Labeille et Lolivier) dont l'activité actuelle n'est pas vérifiée ; un point de vente en vrac (Chymos à l'essentiel) lu dans un annuaire, horaires et statut non recoupés. Une productrice de fruits et légumes trouvée dans un répertoire à environ 9 km, non rattachée à La Ciotat : hors commune.
+
+**Pourquoi rien n'est publié.** Aucune source ne donne cinq commerces vérifiables à La Ciotat : le marché est contradictoire sur son jour, l'AMAP n'est pas confirmée active, le vrac n'a ni horaire ni adresse recoupés. Aucune fiche n'a été écrite sur une seule source.
+
+**Pistes non publiées** (anonymes) :
+- La Ciotat, marché de producteurs du Port Vieux : jour contradictoire (dimanche ou samedi) ; à confirmer auprès de la Ville ou de l'office de tourisme. Publiable si le jour et la liste des producteurs sont donnés par une source officielle.
+- La Ciotat, marché alimentaire du mardi matin (place Évariste-Gras) : producteurs présents non sourcés.
+- La Ciotat, AMAP Labeille et Lolivier : activité, point de distribution et adresse de remise à confirmer auprès de l'association.
+- La Ciotat, magasin de vrac Chymos à l'essentiel : horaires et adresse à recouper sur le site du magasin ; vérifier qu'il n'est pas un point de réseau (règle 3).
+
+**Fiches écartées pour doute sur une personne** : 1 (La Ciotat, vente directe enregistrée au nom d'une personne).
+
+**Points d'arrêt.** Passe suivante : Bouches-du-Rhône exclu (règle 41.c). Le classement suivant ouvert est l'Isère (38, 5,01), puis le Haut-Rhin (68, 4,84). Le 13 reprendra à La Ciotat une fois le marché du Port Vieux confirmé par une source officielle, puis à Vitrolles.
