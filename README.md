@@ -39226,3 +39226,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Haute-Garonne toujours éligible (pas de visée à la passe précédente, Nord). Reprendre Blagnac avec les deux marchés municipaux et chercher trois commerces producteurs supplémentaires ; si le groupe ne se complète pas, descendre à Muret, puis Plaisance-du-Touch.
+
+### Passe autonome du 18 octobre 2026 (Nord (59) reprise, Coudekerque-Branche sondée au registre et sur le web) : aucune publication
+
+**Backlog** : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole seule : Nord 5,36, Haute-Garonne 5,33, Seine-Maritime 5,28. La passe précédente (commit cda1008) visait la Haute-Garonne, donc elle est exclue par la règle 41.c. Le Nord est le premier département éligible.
+
+**Commune, règle 41.d.** Communes du Nord les plus peuplées sans aucune fiche, dans l'ordre : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, puis Coudekerque-Branche (20 787 hab.). Les six premières ont déjà été sondées aux passes précédentes sans résultat ; Mons-en-Barœul l'a été à la passe du 8 octobre (site de la Ville sans jours de marché). Coudekerque-Branche est donc la commune éprouvée cette passe.
+
+**Ce qui a été lu sur Coudekerque-Branche.**
+- Registre Agence Bio, Nord, pagination complète (1 600 premiers opérateurs parcourus, filtre sur la commune) : un opérateur bio indépendant à vente aux particuliers, une épicerie coopérative et une enseigne de réseau bio ; les autres entrées sont des négoces, des supermarchés ou des personnes physiques.
+- Recherche web : aucun marché de producteurs trouvé dans la commune. Les horaires viennent d'annuaires tiers ; l'état « fermé » affiché par ces annuaires est un instantané non daté.
+- Enseigne de réseau bio : écartée, comme les magasins de réseau sondés à Cambrai (règle 3 : pas de producteur ni de source locale propre).
+- Magasin bio indépendant (route de Furnes) : horaires sur deux annuaires tiers seulement ; site officiel non trouvé ni ouvert ; aucune liste de produits vérifiée.
+- Épicerie coopérative (rue des Platanes) : horaires sur un seul annuaire, instantané « fermé » ; pas de site vérifié.
+
+**Pourquoi rien n'est publié.** Une commune ne se publie que si elle rend cinq commerces vérifiables sur deux sources indépendantes. Coudekerque-Branche n'en rend aucun à ce stade : deux candidats indépendants, horaires non recoupés, aucun site officiel ouvert. Le principe « un fait comme l'horaire ne passe pas sur une seule source » s'applique.
+
+**Pistes non publiées** (anonymes) :
+- Coudekerque-Branche, magasin bio indépendant (vente au détail, route de Furnes) : existence confirmée par le registre, horaires et site à recouper.
+- Coudekerque-Branche, épicerie coopérative (rue des Platanes) : existence et produits locaux à recouper avec sa page officielle.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe (les entrées de vente directe du registre portant un nom de personne ne sont ni relevées ni reprises).
+
+**Points d'arrêt.** Passe suivante : le Nord reste éligible (Haute-Garonne exclue par la règle 41.c, Seine-Maritime en deuxième position). Reprendre Coudekerque-Branche seulement si le magasin indépendant ou l'épicerie coopérative donne un site officiel ou une page vérifiable avec horaires et produits ; sinon descendre à Lezennes, Herlies et Monchecourt, dont le registre donne une ferme de vente directe à Monchecourt (à vérifier au même titre que les autres).
