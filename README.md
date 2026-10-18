@@ -39050,3 +39050,24 @@ Backlog : 0 demande « nouvelle », aucune en cours. Aucune fiche ajoutée, aucu
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Point d'arrêt.** Passe suivante : ne pas viser le Haut-Rhin (règle 41.c). Si le 68 revient ensuite, la descente reprend à Wintzenheim (8 059 hab.), après lecture du site de la Mairie de Brunstatt-Didenheim et du site du magasin bio.
+
+### Passe autonome du 18 octobre 2026 (Seine-Maritime (76) visée, Petit-Quevilly reprise, Barentin et Oissel sondées) : aucune publication
+
+Backlog : 0 demande « nouvelle », une demande « en cours » inchangée. Aucune fiche ajoutée, aucune retirée. Total lu dans `data/marchands.json` : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règle 177). Le Haut-Rhin, visé la veille, est écarté par la règle 41.c. En tête ensuite : Seine-Maritime (déficit ≈ 4,3 sur 1 274 fiches), devant la Haute-Garonne (≈ 4,2).
+
+**Commune, règle 41.d.** Petit-Quevilly reprise, à la suite de la passe du 18 octobre : le site officiel de la Ville n'a pas répondu à la lecture de cette passe (échec de connexion), donc rien ne s'y lit à ce stade. Les communes plus peuplées de la Seine-Maritime sont déjà éprouvées (Dieppe, Elbeuf, Montivilliers, Fécamp, Canteleu, Bolbec) ; descente à **Barentin (12 022 hab.)**, puis Oissel-sur-Seine.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Seine-Maritime, page 2 (cent opérateurs), filtrée sur Barentin, Oissel et Petit-Quevilly : une entreprise à Barentin dont l'activité au public n'est pas identifiée ; un torréfacteur à Oissel, sans magasin ni horaires vérifiés ; un hypermarché (exclu, `MODERATION.md`). Aucun producteur ni magasin spécialisé de ces trois communes n'apparaît sur une source officielle.
+
+**Pourquoi rien n'est publié.** Aucune commune lue cette passe ne rend cinq commerces vérifiables à deux sources indépendantes (règles 96 et 127). Une fiche isolée ne forme pas la zone.
+
+**Pistes non publiées** (anonymes) :
+- Petit-Quevilly : site de la Ville injoignable cette passe ; marché de la commune à reprendre sur ce site.
+- Barentin : une entreprise au registre Agence Bio, activité au public non identifiée ; à rouvrir si un site de commerce la décrit.
+- Oissel-sur-Seine : un torréfacteur à vente directe possible, horaires et produits non vérifiés ; hors circuit court au sens strict, à trancher si une source le confirme.
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre Agence Bio à raison sociale patronymique, à Petit-Quevilly, déjà écartées aux passes précédentes ; ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste en tête, sauf si la passe qui suit vise le Haut-Rhin, auquel cas la Seine-Maritime est exclue pour la passe d'après (règle 41.c). Reprendre Petit-Quevilly sur le site de la Ville quand il répond ; sinon Barentin, avec le site de la commune.
