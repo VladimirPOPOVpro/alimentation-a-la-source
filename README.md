@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 18 octobre 2026 (Haute-Garonne, Blagnac et Castanet-Tolosan sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 177). La passe précédente visait la Seine-Maritime (Normandie) : seule cette région est exclue. Haute-Garonne en tête des départements métropolitains éligibles, déficit ≈ 4,19 sur 1 274 fiches, devant l'Isère et l'Ille-et-Vilaine.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Cugnaux, Cazères, Pibrac, Labège et Auzeville-Tolosane portent déjà des fiches. Blagnac (27 604 hab.) est la plus peuplée sans fiche, déjà sondée deux fois ; Muret, Plaisance-du-Touch, Balma, Ramonville-Saint-Agne, L'Union et Castelginest, sondées lors des passes précédentes, restent sans source. Descente à Castanet-Tolosan (15 317 hab.), la première commune encore vierge en lecture du registre.
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Garonne, 1 400 opérateurs relus, filtrés sur les communes visées : aucun producteur ni magasin de vente directe au public à Blagnac ni à Castanet-Tolosan ; les rares entrées en vente particuliers sont des entreprises sans adresse de vente publique, à écarter. Recherche web : à Castanet-Tolosan, un guide touristique du Pays Lauragais (daté de 2020) cite un marché le mardi matin et un marché bio sous la halle le vendredi, sans source officielle ni horaire récent ; à Blagnac, aucun marché hebdomadaire de producteurs trouvé (seul le marché de Noël ressort), et un annuaire de circuits courts daté de 2015 mentionne une enseigne bio sans précision de nature. Saint-Orens-de-Gameville : aucun résultat pertinent.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Le marché de Castanet-Tolosan reste une piste, mais une seule source touristique et ancienne ne suffit pas à un fait d'horaire. Les pistes isolées ne forment pas la zone de cinq (règles 96 et 127).
+
+**Pistes non publiées** (anonymes) : Castanet-Tolosan, marché du mardi et marché bio du vendredi, à reprendre sur le site de la mairie ; Blagnac, une enseigne bio, nature (magasin ou marché) à établir. Les entrées du registre Agence Bio portant un nom de particulier ne sont pas reprises.
+
+**Contradictions** (règle 5) : deux adresses différentes de la mairie de Blagnac selon les sources consultées ; aucune fiche n'en dépend, rien n'est retenu.
+
+**Fiches écartées pour doute sur une personne** : quelques entrées du registre Agence Bio en vente particuliers portant un nom de famille, écartées sans reprise.
+
 ### Passe autonome du 17 octobre 2026 (Haut-Rhin, Rixheim, Kingersheim, Cernay, Riedisheim sondées) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée.
