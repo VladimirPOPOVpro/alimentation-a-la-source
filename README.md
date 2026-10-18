@@ -39024,3 +39024,29 @@ Backlog : 0 demande « nouvelle », aucune en cours. Aucune fiche ajoutée, aucu
 - Le Petit-Quevilly, deux entrées du registre Agence Bio à raison sociale patronymique : écartées pour doute sur une personne, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Seine-Maritime (76) toujours en tête, Le Petit-Quevilly à reprendre sur le site de la Ville ; si rien ne s'y lit, la descente suit par population.
+
+### Passe autonome du 18 octobre 2026 (Haut-Rhin (68) visé, Brunstatt-Didenheim sondée) : aucune publication
+
+Backlog : 0 demande « nouvelle », aucune en cours. Aucune fiche ajoutée, aucune retirée. Total lu dans `data/marchands.json` : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177). La passe précédente visait la Seine-Maritime (76), région exclue par la règle 41.c. En tête ensuite : Haut-Rhin (68), déficit ≈ 4,24 sur 1 274 fiches, devant la Haute-Garonne (31), ≈ 4,19. Le 68 est retenu.
+
+**Commune, règle 41.d.** Mulhouse, Colmar, Pfastatt et Ruelisheim portent déjà des fiches. Saint-Louis, Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim, Cernay, Guebwiller, Wittelsheim, Thann et Altkirch ont été sondées sans publication. Descente par population : **Brunstatt-Didenheim (8 259 hab.)**.
+
+**Ce qui a été lu.**
+- Recherche web (agrégateurs de marchés : jours-de-marche, Le Marché Local, Cacao, annuaire-mairie, Illico) : un marché du samedi matin, place de la Mairie, de 8 h à 12 h, relevé par un site de producteurs et non par la Ville ; une mention d'un marché à Didenheim, issue d'une publication municipale de plus de trois ans. Seuls les extraits de résultats ont été lus, aucune de ces pages n'a été ouverte.
+- Pages Jaunes : un magasin bio à Didenheim, horaires affichés par l'annuaire seul, non recoupés par son propre site.
+- Site de la Mairie, rubrique activités : horaires de la mairie, aucune information sur un marché.
+- Registre de l'Agence Bio, Haut-Rhin, quatre pages de cent opérateurs : aucun point de vente public identifié à Brunstatt-Didenheim. Un opérateur déclare vendre aux particuliers et aux professionnels, mais sans magasin ni site recoupé, et il n'est pas retenu.
+
+**Pourquoi rien n'est publié.** Aucune source officielle ne confirme le marché, le magasin bio n'a pas été lu sur son propre site, et la commune ne rend pas cinq commerces vérifiables (règle du groupement à cinq, règle 52).
+
+**Pistes non publiées** (anonymes) :
+- Brunstatt-Didenheim, marché du samedi matin, place de la Mairie : une seule source de producteur, jours et horaires non confirmés par la Ville ; à rouvrir sur le site de la Mairie.
+- Brunstatt-Didenheim, magasin bio (Didenheim) : horaires d'un annuaire seul ; à rouvrir avec le site du magasin.
+- Brunstatt-Didenheim, marché de Didenheim : source municipale de plus de trois ans ; à reprendre si la Mairie confirme.
+- Brunstatt-Didenheim, opérateur bio à vente aux particuliers sans point de vente identifié : écarté faute de magasin.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : ne pas viser le Haut-Rhin (règle 41.c). Si le 68 revient ensuite, la descente reprend à Wintzenheim (8 059 hab.), après lecture du site de la Mairie de Brunstatt-Didenheim et du site du magasin bio.
