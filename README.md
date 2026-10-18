@@ -39532,3 +39532,27 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours éligible (la Normandie a été visée la veille, la règle 41.c ne l'exclut pas). Reprendre Blagnac si la rubrique Marchés de la mairie donne la liste des producteurs ; sinon sonder Balma, puis Castanet-Tolosan.
+
+### Passe autonome du 19 octobre 2026, seconde de la journée (Isère (38) visée, Bourgoin-Jallieu sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (règle 177). Tête du classement : Nord (59) 5,36, fermé par la règle 247 ; Haute-Garonne (31) 5,33, visée la veille, exclue par la règle 41.c ; Seine-Maritime (76) 5,28, dont la descente est déjà éprouvée sur neuf communes sans succès (Dieppe, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Yvetot, Le Petit-Quevilly) et reste ouverte à une passe ultérieure ; Bouches-du-Rhône (13) 5,20 ; **Isère (38) 5,01 retenue**, région Auvergne-Rhône-Alpes, différente de l'Occitanie visée la veille.
+
+**Commune, règle 41.d.** Isère, communes les plus peuplées sans fiche : Grenoble et Saint-Martin-d'Hères ont des fiches ; Échirolles n'en a qu'une ; Vienne (31 778 hab.) a été sondée lors d'une passe antérieure ; **Bourgoin-Jallieu (30 151 hab.)** est la première sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Registre Agence Bio, Isère, pagination complète (2 247 opérateurs), filtre sur Bourgoin-Jallieu et le code postal 38300 : quatre entrées de vente aux particuliers portant le nom d'une personne (exploitants individuels), écartées pour doute sur une personne, non nommées ; une boulangerie, hors sujet ; le reste relève du négoce, de la grande distribution ou ne vend pas au détail.
+- Recherche web, marchés : trois marchés hebdomadaires (jeudi, place Hector-Berlioz, transféré sur le parking à partir du 16 octobre ; mercredi, quartier Champfleuri ; samedi, place Charles-Diederichs), décrits par des annuaires aux horaires contradictoires et sans liste de producteurs attestée.
+- Recherche web, vente directe : la Halle Paysanne, 13 rue Édouard-Marion, est décrite comme magasin de producteurs par Que Choisir, Petit Futé, Avis de Gourmets et l'annuaire touristique monweekendalacapi.fr. Le registre des entreprises la donne active (SIREN 422 987 172, un établissement ouvert, 13 rue Edouard Marion, 38300 Bourgoin-Jallieu). Horaires contradictoires le vendredi selon les sources. Le site lahallepaysanne.fr répond, mais rien ne prouve qu'il soit celui de Bourgoin : il n'est pas inscrit.
+
+**Pourquoi rien n'est publié.** Une seule fiche vérifiable sur deux sources indépendantes et le registre (la Halle Paysanne). Les marchés n'ont pas de producteur attesté, et les autres entrées sont des personnes. Une fiche isolée ne forme pas une zone, et l'on ne complète pas un groupe de cinq avec des adresses situées ailleurs.
+
+**Pistes non publiées** (anonymes) :
+- Bourgoin-Jallieu, La Halle Paysanne (magasin de producteurs, rue Édouard-Marion) : registre et annuaires concordants, horaires du vendredi à confirmer auprès de la Halle ; à publier avec quatre autres commerces vérifiés de la commune.
+- Bourgoin-Jallieu, marchés du jeudi, du mercredi et du samedi : producteurs non attestés ; reprendre si la Ville publie la liste des exposants producteurs.
+- Bourgoin-Jallieu, quatre entrées de vente au nom de personnes : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : quatre à Bourgoin-Jallieu, non nommées.
+
+**Point d'arrêt.** Passe suivante : l'Isère est exclue (règle 41.c, si cette passe est bien la passe précédente). La Haute-Garonne, dont la visite de la veille était une autre passe, reste éligible à son rang, sous réserve de la règle 41.c. La descente de l'Isère reprend à Bourgoin-Jallieu lorsque d'autres fiches la rendent publiable, puis à Fontaine (22 000 hab.) et Voiron (21 800 hab.), à lire dans le registre Agence Bio d'abord.
