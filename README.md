@@ -39138,3 +39138,25 @@ Backlog : 0 demande « nouvelle », 1 demande « en_cours » (n° 13, voir ci-de
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en_cours (doute sur une personne), rien envoyé.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) est en tête après le 76 ; reprendre Dieppe à la passe qui suivra, avec la Ville et le site de la Coop d'Albâtre, ou descendre à Le Petit-Quevilly si la Ville répond.
+
+### Passe autonome du 18 octobre 2026 (Haute-Garonne (31) visée, Plaisance-du-Touch sondée) : aucune publication
+
+**Classement, règle 41.** Métropole seule. Seine-Maritime (76), visée la veille, est exclue (règle 41.c). En tête ensuite : Haute-Garonne (31), déficit ≈ 5,3 sur 1 274 fiches, devant Bouches-du-Rhône (13, ≈ 5,2) et Isère (38, ≈ 5,0). Le 31 est retenu.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 31 sans fiche : Blagnac (27 604 hab.) et Muret (26 079), sondées le 17 octobre sans cinq commerces vérifiables. Plaisance-du-Touch (21 079 hab.) est donc la commune suivante.
+
+**Ce qui a été lu.** Registre Agence Bio, département 31 paginé en entier (2 837 opérateurs). À Plaisance-du-Touch : un maraîcher bio déclaré en vente aux particuliers, sans site ni horaires vérifiés ; une boulangerie artisanale déclarée en vente aux particuliers ; les autres opérateurs sont des exploitations sans vente directe ou des grandes surfaces (écartées). Recherche web : aucun horaire de marché confirmé pour Plaisance-du-Touch. Pour Blagnac, un annuaire de 2015 cite un marché de producteurs et deux AMAP, des informations trop anciennes pour être publiées.
+
+**Pourquoi rien.** Aucune commune du 31 ne rend cinq commerces vérifiables avec horaires et deux sources indépendantes. Rien n'est publié sur des informations non confirmées.
+
+**Pistes non publiées** (anonymes) :
+- Plaisance-du-Touch, maraîcher bio en vente aux particuliers (registre) : site et horaires à trouver auprès du producteur ou de la Ville. Déblocage : une source d'exploitation ou une fiche de marché datée.
+- Plaisance-du-Touch, boulangerie artisanale qui vend au comptoir (registre) : relève de `producteur` (règle 4) si ses horaires et sa production sont vérifiés.
+- Blagnac, marché de producteurs (place des Arts, samedi matin, annuaire de 2015) : à confirmer auprès de la Ville. Déblocage : un jour et des horaires datés par la Ville.
+- Blagnac, Biocoop (magasin en réseau, règle 3) : horaires à relever sur le site de l'enseigne.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Demande en attente** : la demande n° 13 reste `en_cours` (doute sur une personne). Rien n'est publié ni envoyé. Backlog : aucune demande « nouvelle ».
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne exclue (règle 41.c). Classement suivant : Bouches-du-Rhône (13), puis Isère (38). Blagnac et Plaisance-du-Touch restent à reprendre avec une source officielle joignable.
