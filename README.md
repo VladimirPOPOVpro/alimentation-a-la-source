@@ -39274,3 +39274,23 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe (les entrées de vente directe du registre portant un nom de personne ne sont ni relevées ni reprises).
 
 **Points d'arrêt.** Passe suivante : le Nord reste éligible (Haute-Garonne exclue par la règle 41.c, Seine-Maritime en deuxième position). Reprendre Coudekerque-Branche seulement si le magasin indépendant ou l'épicerie coopérative donne un site officiel ou une page vérifiable avec horaires et produits ; sinon descendre à Lezennes, Herlies et Monchecourt, dont le registre donne une ferme de vente directe à Monchecourt (à vérifier au même titre que les autres).
+
+### Passe autonome du 18 octobre 2026 (Nord (59) visé, Maubeuge sondée) : aucune publication
+
+**Backlog** : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole seule (outre-mer exclu) : Nord 5,36, Haute-Garonne 5,33, Seine-Maritime 5,28. La passe précédente visait la Seine-Maritime (76), donc elle est exclue par la règle 41.c. Le Nord est le premier département éligible.
+
+**Commune, règle 41.d.** Communes du Nord les plus peuplées sans aucune fiche : Wattrelos (40 847 hab.) et Marcq-en-Barœul, puis Cambrai, toutes trois sondées aux passes précédentes sans cinq commerces vérifiables. Maubeuge (28 767 hab.) est donc la commune éprouvée cette passe.
+
+**Ce qui a été lu sur Maubeuge.** Recherche web (producteurs, AMAP, magasins de producteurs, Biocoop) : une seule enseigne bio identifiable, le Biocoop du boulevard de l'Épinette, avec un téléphone publié par un annuaire et deux horaires contradictoires selon les fiches (lundi-samedi 9h-19h, ou 9h-20h30 avec dimanche matin) ; aucune de ces fiches ne donne une source de l'enseigne elle-même. Aucun marché de producteurs, aucune AMAP ni point de distribution identifié sur une source de la Ville. Les annuaires de producteurs bio (118000) ne rendent pas d'entrée exploitable dans les extraits lus.
+
+**Pourquoi rien n'est publié.** Une seule enseigne vérifiable, aux horaires contradictoires : Maubeuge ne rend pas cinq commerces vérifiables sur deux sources indépendantes. Le groupe ne se complète pas.
+
+**Pistes non publiées** (anonymes) :
+- Maubeuge, Biocoop du boulevard de l'Épinette (magasin de réseau, règle 3) : horaires à relever sur le site de l'enseigne ou par téléphone.
+- Maubeuge, enseigne bio du même secteur (« El Tout Bio ») : existence à confirmer ; nom distinct de l'enseigne nationale, à recouper avant tout.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Nord toujours éligible (le Nord n'est pas visé la passe précédente, seule la Seine-Maritime l'est). Reprendre Maubeuge avec le site de la Ville (rubrique marchés) ; sinon Lambersart, Armentières, puis Mons-en-Barœul. La question de règle de sortie après plusieurs passes à zéro dans un même département reste posée (passe du 18 octobre, Nord revisé) ; aucune règle n'a été ajoutée ici.
