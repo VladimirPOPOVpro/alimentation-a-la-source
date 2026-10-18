@@ -39319,3 +39319,25 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Bouches-du-Rhône ouvert (rang 1 hors Nord). Reprendre Aubagne si la page marchés de la Ville donne les jours et les horaires du marché de producteurs ; sinon descendre à Vitrolles uniquement si un marché de producteurs y est attesté par une source de la Ville. Ne pas compter Vitrolles sur les marchés généralistes.
+
+### Passe autonome du 18 octobre 2026 (Nord (59) visé, Wattrelos reprise, Lambersart sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole sur 1 274 fiches (population `geo.api.gouv.fr`, 34 969 communes). Tête : Nord (59) 5,36, Haute-Garonne (31) 5,33, Seine-Maritime (76) 5,28, Bouches-du-Rhône (13) 5,20. La passe précédente visait les Bouches-du-Rhône : la règle 41.c l'exclut, donc **Nord** est retenu.
+
+**Commune, règle 41.d.** Wattrelos (40 847 hab.) reste la plus peuplée du Nord sans fiche. Elle a déjà été reprise à plusieurs passes sans résultat (quatre marchés sans horaires publiés). Descente à Marcq-en-Barœul (site de la Ville injoignable, déjà sondée), puis Lambersart (27 090 hab.).
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur Wattrelos : aucun marché de producteurs ni horaires trouvés pour 2026 ; les résultats sont des avis de marchés publics, des brocantes et des tables solaires.
+- Recherche web sur Lambersart : aucun AMAP, aucune ferme ni marché de producteurs identifié ; seule une offre d'emploi d'un vendeur en fruits et légumes.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne un commerce vérifiable dans Wattrelos ni dans Lambersart. Cinq fiches vérifiables ne sont pas réunies ; le groupe ne se complète pas à partir d'une offre d'emploi ou d'une brocante.
+
+**Pistes non publiées** (anonymes) :
+- Wattrelos : marchés à horaires à relever sur le site de la Ville ou par téléphone auprès des services municipaux ; reprise seulement si une source donne les jours et les horaires.
+- Lambersart : point de vente fruits et légumes mentionné dans une annonce d'emploi ; à identifier par son enseigne et son adresse avant tout examen.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la règle 41.c exclut le Nord à la passe suivante si celle-ci est une passe de Bouches-du-Rhône ; Haute-Garonne et Seine-Maritime sont à reprendre selon la formule. Constat pour le responsable du site : la formule a produit une quarantaine de passes sans publication, toujours sur les mêmes communes du Nord. Aucune règle de sortie n'a été ajoutée ici.
