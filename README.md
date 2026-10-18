@@ -39395,3 +39395,30 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : 1 (Cambrai, point de vente en magasin de ferme, enseigne au nom d'une personne).
 
 **Points d'arrêt.** Passe suivante : Nord exclu (règle 41.c). Quand le Nord reviendra, Maubeuge, Lambersart et Armentières restent à reprendre seulement si une source de la Ville ou du producteur donne des horaires non contestés.
+
+### Passe autonome du 18 octobre 2026 (Haute-Garonne (31) visée, Blagnac reprise) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole sur 1 274 fiches (population `geo.api.gouv.fr`, outre-mer exclu, règle 177) : Haute-Garonne (31) 5,10, Seine-Maritime (76) 5,08, Nord (59) 4,94 selon le recalcul par code postal. La passe précédente (16a9727) visait le Nord : la règle 41.c l'exclut, donc **Haute-Garonne** est retenue.
+
+**Commune, règle 41.d.** Commune la plus peuplée de Haute-Garonne sans fiche : **Blagnac** (27 604 hab.), déjà sondée deux passes plus tôt (2b65784). Le point d'arrêt annonçait de la reprendre avec un cinquième commerce vérifié.
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur les producteurs, AMAP et magasins de producteurs de Blagnac : une seule nouvelle piste exploitable, l'association maraîchère bio de la commune (vente sur place et en paniers), dont la seule source est un annuaire de 2015. Son adresse, ses horaires et son statut actuel ne sont pas recoupés : rien ne se publie sur elle.
+- Un point de dépôt de paniers aux Jardins de Labastide Saint-Pierre : même annuaire de 2015, non recoupé.
+- L'AMAP de distribution du mardi (page de la Ville, passe précédente) : toujours à recouper avec le réseau de l'AMAP.
+- Les deux marchés (samedi matin, mercredi après-midi) restent confirmés par la Ville et l'office de tourisme, comme à la passe précédente.
+
+**Pourquoi rien n'est publié.** La règle 9 publierait les deux marchés, puisque le jour et le lieu sont confirmés par deux sources officielles. Mais une fiche de marché exige une liste de produits concrets (au moins une entrée, `produits` non vide, et 3 à 8 entrées visées), et aucune source lue ne donne la liste des producteurs présents. La publier reviendrait à inventer des produits : rien n'est donc publié. Le cinquième commerce vérifiable n'est pas trouvé ; le groupe ne se complète pas.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, marché du samedi matin (place des Arts) : jour, lieu et horaires confirmés par deux sources officielles ; liste des producteurs présents à relever sur la page de la Ville ou auprès des organisateurs. Publiable dès que cette liste est connue (règle 9).
+- Blagnac, marché du mercredi après-midi (place des Marronniers) : même statut.
+- Blagnac, AMAP de distribution du mardi : horaires à recouper avec le réseau de l'AMAP.
+- Blagnac, maraîchage bio en vente sur place et en paniers : source unique de 2015 ; adresse, horaires et activité actuelle à vérifier auprès de la structure.
+- Blagnac, point de dépôt de paniers aux Jardins de Labastide : même statut, source de 2015 seule.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe (le maraîcher en vente directe écarté à la passe précédente reste écarté, non nommé).
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne toujours éligible si le Nord a été visé (règle 41.c, la passe précédente est le Nord). Reprendre Blagnac seulement si la liste des producteurs d'un des deux marchés est donnée par une source de la Ville ou des organisateurs ; sinon Muret, puis Plaisance-du-Touch.
