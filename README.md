@@ -39204,3 +39204,25 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Nord toujours en tête, descendre vers Villeneuve-d'Ascq, Douai ou Valenciennes (déjà pourvues en fiches, donc à compléter plutôt qu'à créer), ou trancher la question de sortie ci-dessus. Lambersart à reprendre si le registre ou le site du magasin donne une activité datée.
+
+### Passe autonome du 18 octobre 2026 (Haute-Garonne (31) visée, Blagnac sondée sur le site de la Ville) : aucune publication
+
+**Backlog** : vide, aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste en attente : rien n'est envoyé.
+
+**Secteur, règle 41.** Le Nord (59) est exclu (visé à la passe précédente, règle 41.c). En tête ensuite : Haute-Garonne (31), déficit ≈ 5,3 sur 1 274 fiches. Commune la plus peuplée du 31 sans fiche : Blagnac (27 604 hab.).
+
+**Ce qui a été lu sur Blagnac.** Site officiel de la Ville (mairie-blagnac.fr, joignable cette passe, contrairement aux passes précédentes) :
+- Marché de plein vent, Place des Arts : samedi, 8h à 13h. Environ 90 étals multi-activités, dont une partie seulement de producteurs. Adresse précise absente de la page.
+- Marché de plein vent, Place des Marronniers : mercredi, 15h30 à 19h30. Une vingtaine d'étals, producteurs et artisans mêlés.
+- Page « circuits courts » : six entrées, dont la plupart sans adresse ni horaires (une association maraîchère, une AMAP de Saint-Pierre d'Aix, un maraîcher en ligne, DirectFermiers31, une distribution de paniers à horaires donnés, réservation par le site du Cocagne). Aucune date de mise à jour visible sur ces pages.
+
+**Pourquoi rien n'est publié.** Deux marchés mixtes d'une part, et six entrées de circuit court dont aucune n'a d'adresse vérifiée d'autre part : Blagnac ne rend pas encore cinq commerces vérifiables sur deux sources indépendantes. Une fiche isolée ou une paire ne forme pas le groupe.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, marché de Place des Arts (samedi matin) : source municipale vérifiée, à compléter par deux commerces producteurs vérifiés et l'adresse précise.
+- Blagnac, marché de Place des Marronniers (mercredi après-midi) : même statut.
+- Blagnac, distribution de paniers à horaires vérifiés sur la page de la Ville : à recouper avec le site du réseau et l'adresse du point de distribution.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne toujours éligible (pas de visée à la passe précédente, Nord). Reprendre Blagnac avec les deux marchés municipaux et chercher trois commerces producteurs supplémentaires ; si le groupe ne se complète pas, descendre à Muret, puis Plaisance-du-Touch.
