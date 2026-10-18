@@ -39447,3 +39447,18 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : 1 (La Ciotat, vente directe enregistrée au nom d'une personne).
 
 **Points d'arrêt.** Passe suivante : Bouches-du-Rhône exclu (règle 41.c). Le classement suivant ouvert est l'Isère (38, 5,01), puis le Haut-Rhin (68, 4,84). Le 13 reprendra à La Ciotat une fois le marché du Port Vieux confirmé par une source officielle, puis à Vitrolles.
+
+### Passe autonome du 18 octobre 2026 (Seine-Maritime sondée, aucune publication)
+
+**Calcul de la règle 41, à refaire.** La passe a d'abord visé la Seine-Maritime (76) sur un dénominateur qui incluait les départements d'outre-mer ; la règle 177 les sort du calcul. Sur le dénominateur métropolitain (1 274 fiches, population des départements hors 971 à 989), le classement est : Nord (59, déficit 5,36), Haute-Garonne (31, 5,33), Seine-Maritime (76, 5,28), Bouches-du-Rhône (13, 5,20), Isère (38, 5,01). La passe précédente visait le 13, donc il est exclu par la réserve de la règle 41.c ; **le département visé de la passe suivante est le Nord (59)**. Les notes précédentes qui désignent l'Isère comme prochain point d'arrêt ne concordent pas avec ce classement : contradiction consignée ici, à trancher par la formule, pas par le déblocage manuel.
+
+**Commune sondée, sans succès.** Le Petit-Quevilly (22 208 habitants, aucune fiche) : le registre de l'Agence Bio pour le 76 ne donne aucun opérateur de vente au particulier identifiable, les entrées qui en ont une portent un patronyme ou une raison sociale qui ne se publie pas au titre de la règle sur les personnes. La recherche web ne livre qu'un marché du samedi matin, daté de 2021, par la déclaration d'un maraîcher ; aucune source officielle à jour. Pas assez pour une fiche, et une fiche isolée ne forme pas la zone de cinq. Descente à Fécamp (17 313 habitants) : le registre n'y donne qu'une enseigne de grande surface, la recherche ne trouve qu'un marché nocturne estival d'artisans et de créateurs, hors sujet. Rien n'est publié.
+
+**Pistes non publiées** (anonymes) :
+- Le Petit-Quevilly, marché du samedi matin, boulevard Stanislas-Girardin : jour et horaire à confirmer auprès de la Ville (mairie) ; publiable si une source officielle à jour donne le jour, l'horaire et la liste des producteurs.
+- Fécamp, marché nocturne du quai de la Vicomté : artisans et créateurs, hors sujet pour la carte tant qu'aucun producteur n'y est identifié.
+- Montivilliers (15 478 habitants) : magasin spécialisé en vente au particulier et vente directe enregistrées au registre ; pas de fiche, à reprendre quand la commune sera visée par la formule.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Le Petit-Quevilly, Fécamp et Dieppe, dont la raison sociale est un patronyme d'exploitant ; aucune n'est nommée ici.
+
+**Point d'arrêt.** Passe suivante : Nord (59), commune la plus peuplée sans fiche à déterminer sur la liste des fiches existantes, puis descente d'échelle si elle ne rend pas cinq commerces vérifiables.
