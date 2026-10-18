@@ -39184,3 +39184,23 @@ Backlog : 0 demande « nouvelle », 1 demande « en_cours » (n° 13, voir ci-de
 - Registre : la recherche « biocoop dieppe » ne rend aucun établissement ; non concluant.
 
 Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : reprendre Dieppe avec le site de la Coop d'Albâtre et une source officielle pour le marché ; sinon descendre à Le Petit-Quevilly, puis Fécamp. Aucune fiche, aucun email, aucune photo cette passe.
+
+### Passe autonome du 18 octobre 2026 (Nord (59) revisé, Marcq-en-Barœul et Armentières sondées) : aucune publication
+
+**Backlog** : vide, aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, non détaillé ici) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole seule (outre-mer exclu, règle 177) : Nord 5,36, Haute-Garonne 5,33, Seine-Maritime 5,28. La passe précédente visait la Seine-Maritime, donc le Nord est le premier département éligible à la règle 41.c. Communes les plus peuplées du 59 sans fiche : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, toutes sondées aux passes précédentes.
+
+**Marcq-en-Barœul (40 184 hab.).** Les résultats de recherche ne montrent aucun marché de producteurs ni magasin de circuit court : seulement des supermarchés et des annuaires généraux, dont un annuaire de producteurs qui ne donne aucun jour de marché. Non publié.
+
+**Armentières (sondée, hors Armentières).** Une seule piste : Ferm'Entières, magasin de producteurs à La Chapelle-d'Armentières, lu sur un seul annuaire (Que Choisir). Ni son site ni le registre ne sont recoupés cette passe, et une commune voisine ne compte pas dans le groupe de cinq. Les producteurs listés pour le 59280 sont à plus de 13 km. Aucun AMAP ni magasin bio en activité identifié.
+
+**Registre Agence Bio, Nord, première page (100 opérateurs).** Filtre sur Marcq, Armentières, Lambersart, Croix, Ronchin, Marquette, Wambrechies, Hem, Lomme : huit opérateurs, dont un distributeur de bière, des négoces sans vente aux particuliers et une vente en ligne. Une seule entrée de vente aux particuliers exploitable (Lambersart, activité non identifiée) : insuffisant pour une fiche vérifiée.
+
+**Pourquoi rien.** Aucune commune du Nord sondée cette passe ne rend cinq commerces vérifiables sur deux sources indépendantes. Une fiche isolée ne forme pas le groupe.
+
+**Constat pour le responsable du site.** Le Nord revient à chaque passe sans fiche publiée depuis plusieurs semaines : les communes les plus peuplées sont épuisées, et la règle 41.d descend vers des communes sans annuaire de producteurs exploitable. Question de méthode, déjà posée le 15 octobre : faut-il une règle de sortie après plusieurs passes à zéro dans un même département ? Aucune règle n'a été ajoutée ici.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Nord toujours en tête, descendre vers Villeneuve-d'Ascq, Douai ou Valenciennes (déjà pourvues en fiches, donc à compléter plutôt qu'à créer), ou trancher la question de sortie ci-dessus. Lambersart à reprendre si le registre ou le site du magasin donne une activité datée.
