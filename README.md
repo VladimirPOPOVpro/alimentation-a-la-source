@@ -39071,3 +39071,32 @@ Backlog : 0 demande « nouvelle », une demande « en cours » inchangée. Aucun
 **Fiches écartées pour doute sur une personne** : deux entrées du registre Agence Bio à raison sociale patronymique, à Petit-Quevilly, déjà écartées aux passes précédentes ; ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste en tête, sauf si la passe qui suit vise le Haut-Rhin, auquel cas la Seine-Maritime est exclue pour la passe d'après (règle 41.c). Reprendre Petit-Quevilly sur le site de la Ville quand il répond ; sinon Barentin, avec le site de la commune.
+
+### Passe autonome du 18 octobre 2026 (Haut-Rhin (68) visé, Wintzenheim sondée, Huningue et Ensisheim lues) : aucune publication
+
+Backlog : 0 demande « nouvelle », 1 demande « en_cours » (n° 13, voir ci-dessous). Aucune fiche ajoutée, aucune retirée. Total lu dans `data/marchands.json` : 1 274 fiches.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Seine-Maritime (76), région exclue par la règle 41.c. Tête du déficit restant : Haut-Rhin (68), ≈ 4,24 sur 1 274 fiches. Le 68 est retenu.
+
+**Commune, règle 41.d.** Mulhouse, Colmar, Pfastatt et Ruelisheim portent déjà des fiches. Descente par population : **Wintzenheim (8 059 hab.)**, puis Huningue (7 487) et Ensisheim (7 306), lues dans cette passe.
+
+**Ce qui a été lu.**
+- Wintzenheim : l'annuaire jours-de-marche (code postal 68920) liste des viticulteurs et une ferme de vente de viandes et de légumes, sans jours, horaires ni site recoupés ; les fiches de grandes surfaces ne relèvent pas de la vente directe. Aucun marché de producteurs identifié sur une source de la commune. Pas de fiche.
+- Huningue : l'annuaire jours-de-marche (68330) signale deux marchés, sans jour ni horaire ; une offre de paniers, sans lieu de retrait. Pas de source officielle de la Ville lue dans cette passe. Pas de fiche.
+- Ensisheim : un marché paysan le premier vendredi du mois, d'avril à octobre, 17 h à 20 h, annoncé par des sites d'événements et non confirmé par la Ville. Deux fermes en annuaire, sans horaires publiés ; l'une porte une raison sociale patronymique. Pas de fiche.
+
+**Pourquoi rien n'est publié.** Aucune de ces trois communes ne rend cinq commerces vérifiables à deux sources indépendantes, avec une photo honnête d'au moins 700 px. Une fiche isolée ne part pas seule (règle 52).
+
+**Pistes non publiées** (anonymes) :
+- Wintzenheim, ferme de vente de viandes et de légumes (annuaire seul, horaires et produits non recoupés) : à rouvrir avec le site de la ferme.
+- Wintzenheim, producteurs viticoles en annuaire : hors circuit court au sens du site, non retenus.
+- Huningue, deux marchés de producteurs (annuaire seul, jours absents) : à rouvrir à partir du site de la Ville.
+- Ensisheim, marché paysan du premier vendredi (sources d'événements, non confirmé par la Ville) : à rouvrir à partir du site de la Ville.
+- Ensisheim, ferme en annuaire à raison sociale patronymique : écartée pour doute sur une personne, ne se rouvre pas.
+- Demande n° 13 (Villecroze, Var, producteur) : l'enseigne peut être un prénom et le contact transmis est une adresse personnelle. Doute sur une personne : rien n'est publié, pas de réponse envoyée, la demande reste en_cours.
+
+**Fiches écartées pour doute sur une personne** : une (Ensisheim), et la demande n° 13 (Villecroze). Nombre seulement, aucun nom.
+
+**Contradictions** (règle 5) : aucune retenue ; le marché d'Ensisheim n'a pas de source municipale pour trancher.
+
+**Point d'arrêt.** Passe suivante : Haut-Rhin exclu (règle 41.c). Le 68 reprend avec Huningue, à lire sur le site de la Ville, puis Ensisheim, à lire sur le site de la Ville. La demande n° 13 se reprend seulement si elle arrive avec une enseigne publique et un contact professionnel.
