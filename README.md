@@ -39371,3 +39371,27 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : 1 (Blagnac, maraîcher en vente directe, nom à caractère personnel).
 
 **Points d'arrêt.** Passe suivante : Haute-Garonne exclue (visée cette passe), Nord de nouveau éligible en tête. Si la Haute-Garonne revient, reprendre Blagnac avec un cinquième commerce vérifié ; sinon Muret, puis Plaisance-du-Touch.
+
+### Passe autonome du 18 octobre 2026 (Nord (59) visé, Cambrai reprise, zone à zéro) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, voir la passe précédente) : rien n'est publié et aucun message n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole seule sur 1 274 fiches (population `geo.api.gouv.fr`, outre-mer exclu, règle 177) : Nord (59) 5,36, Haute-Garonne (31) 5,33, Seine-Maritime (76) 5,28. La passe précédente visait la Haute-Garonne (Occitanie) : la règle 41.c ne l'exclut que pour elle, donc **Nord** est retenu.
+
+**Commune, règle 41.d.** Communes du Nord les plus peuplées sans fiche : Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières. Les six ont déjà été éprouvées à zéro aux passes précédentes ; **Cambrai** est reprise cette passe, comme point d'arrêt annoncé.
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur le Biocoop de Cambrai : deux annuaires, deux horaires (un annuaire de la grande distribution bio donne 9 h 30 – 19 h du lundi au samedi, fermé le dimanche ; un annuaire de vrac donne 9 h – 20 h tous les jours). Contradiction non tranchée, aucune source du réseau lue. De toute façon un magasin de réseau est écarté (règle 3).
+- Recherche web sur les marchés de Cambrai : aucune page de la Ville, aucun jour ni horaire de marché de producteurs trouvé. Les pages des annuaires de marchés ne donnent qu'un jour sans horaire vérifiable.
+- Point de vente de la ferme à Cambrai, maraîcher en magasin : horaires partiels (lundi et mardi après-midi seulement) ; enseigne au nom patronymique d'une personne, écartée pour doute sur une personne, non nommée.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne cinq commerces vérifiables à Cambrai ; le groupe ne se complète pas. Aucun horaire contesté n'est publié.
+
+**Pistes non publiées** (anonymes) :
+- Cambrai, magasin de réseau bio : horaires contradictoires entre annuaires. Écarté par la règle 3 ; à ne reprendre que si le magasin est un commerce indépendant.
+- Cambrai, marché municipal : jours et horaires à relever sur le site de la Ville (ou à la mairie) ; reprise seulement si une source de la Ville les donne.
+- Cambrai, point de vente de ferme : horaires complets à relever (le relevé ne donne que le lundi et le mardi après-midi) ; déblocage : horaires complets par le producteur.
+
+**Fiches écartées pour doute sur une personne** : 1 (Cambrai, point de vente en magasin de ferme, enseigne au nom d'une personne).
+
+**Points d'arrêt.** Passe suivante : Nord exclu (règle 41.c). Quand le Nord reviendra, Maubeuge, Lambersart et Armentières restent à reprendre seulement si une source de la Ville ou du producteur donne des horaires non contestés.
