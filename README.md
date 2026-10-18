@@ -13663,6 +13663,18 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 18 octobre 2026 (Nord, Cambrai sondée au registre et sur les sites des enseignes) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle » ; une demande (Var) reste « en_cours », non reprise ici.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Seine-Maritime (région 76) : elle est exclue par la règle 41.c. Le Nord (59) est en tête (5,36), devant la Haute-Garonne (5,33), visée deux fois dans les passes d'aujourd'hui sans rien publier.
+
+**Commune, règle 41.d.** Wattrelos (40 847) reste à zéro : aucune source ne donne d'horaires à ses quatre marchés. Marcq-en-Barœul : site de la Ville injoignable (code 000). Cambrai (31 134) : le registre bio y donne deux points de vente bio sous enseigne (Biocoop, Bio C'Bon) et une boutique indépendante dont la nature est à confirmer. Le site Biocoop donne des horaires, mais les deux autres sites ne donnent ni horaires ni produits vérifiables cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq fiches vérifiables : les enseignes bio de Cambrai sont des magasins généralistes de réseau (règle 3, sans producteur ni source locale), et les entrées en vente directe restantes portent des noms de personnes en enseigne (écartées pour doute sur une personne, non nommées, ne se rouvrent pas).
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Reprendre Cambrai seulement si une source indépendante donne des horaires et des produits pour la boutique indépendante ; Marcq-en-Barœul quand son site répondra.
+
 ### Passe autonome du 18 octobre 2026 (Haute-Garonne, Blagnac et Castanet-Tolosan sondées) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée.
