@@ -39160,3 +39160,15 @@ Backlog : 0 demande « nouvelle », 1 demande « en_cours » (n° 13, voir ci-de
 **Demande en attente** : la demande n° 13 reste `en_cours` (doute sur une personne). Rien n'est publié ni envoyé. Backlog : aucune demande « nouvelle ».
 
 **Points d'arrêt.** Passe suivante : Haute-Garonne exclue (règle 41.c). Classement suivant : Bouches-du-Rhône (13), puis Isère (38). Blagnac et Plaisance-du-Touch restent à reprendre avec une source officielle joignable.
+
+### Passe autonome du 18 octobre 2026 (Seine-Maritime (76) reprise, Dieppe re-sondée sur le web) : aucune publication
+
+**Backlog** : vide, passe de couverture (règle 41). **Département** : Seine-Maritime, en tête du déficit ; la Haute-Garonne est exclue, visée aux deux passes précédentes (règle 41.c).
+
+**Ce qui a été lu sur Dieppe.**
+- Biocoop du centre commercial du Val Druel : existence signalée par un annuaire participatif, horaires issus de cet annuaire seul (non recoupés avec le site de l'enseigne, injoignable cette passe). Non publié : un fait comme l'horaire ne passe pas sur une seule source participative.
+- Marché du samedi, Place Nationale et centre-ville : l'office de tourisme le mentionne, mais la date de la page n'est pas confirmée ; le site de la Ville n'a pas livré de liste de marchés. Non publié.
+- Épicerie participative Coop d'Albâtre : site injoignable cette passe ; horaires toujours à confirmer auprès du magasin.
+- Registre : la recherche « biocoop dieppe » ne rend aucun établissement ; non concluant.
+
+Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : reprendre Dieppe avec le site de la Coop d'Albâtre et une source officielle pour le marché ; sinon descendre à Le Petit-Quevilly, puis Fécamp. Aucune fiche, aucun email, aucune photo cette passe.
