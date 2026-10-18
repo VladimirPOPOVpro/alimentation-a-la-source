@@ -39510,3 +39510,25 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Point d'arrêt.** Passe suivante : ne pas viser la Seine-Maritime à deux passes de suite (règle 41.c). Le classement ouvert suivant est le Nord (fermé par la règle 247), puis le Bouches-du-Rhône, dont la règle 41.c ne permet pas la reprise immédiate. Le calcul de la règle 41 reste à rafraîchir sur l'état du fichier au moment de la publication.
+
+### Passe autonome du 19 octobre 2026 (Haute-Garonne (31) visée, Blagnac et Muret relues, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, voir les passes précédentes) : rien n'est publié et aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule (départements 97x et 98x exclus, règle 177), 1 274 fiches, populations `geo.api.gouv.fr`. Tête : Nord (59) 5,36, fermé par la règle 247 ; Haute-Garonne (31) 5,33 ; Seine-Maritime (76) 5,28, visée à la passe précédente, donc exclue par la règle 41.c ; Bouches-du-Rhône (13) 5,20. **Haute-Garonne retenue**, région Occitanie, différente de la Normandie visée la veille.
+
+**Commune, règle 41.d.** Haute-Garonne, communes les plus peuplées sans fiche : Blagnac (27 604 hab.) puis Muret (26 079 hab.), toutes deux déjà éprouvées ; puis Plaisance-du-Touch (21 079 hab.), éprouvée au seul registre. Balma (17 772 hab.) est la commune suivante par population et n'a pas encore été sondée.
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur Blagnac, marché de la place des Arts : aucune liste de producteurs trouvée. La place a été inaugurée comme événement ponctuel ; le marché n'est pas attesté par la Ville dans les résultats. Renvoi à la rubrique Marchés de la mairie, non lue cette passe.
+- Recherche web sur Balma : aucun marché de producteurs ni point de vente à la ferme attesté. Un seul résultat, un marché de producteurs à Pin-Balma, commune voisine et hors commune, sur un site participatif à jour incertaine : écarté.
+
+**Pourquoi rien n'est publié.** Blagnac n'a toujours pas de liste de producteurs sourcée pour ses marchés, et la règle 9 ne suffit pas : une fiche de marché attend au moins un produit concret. Balma ne rend aucun commerce vérifiable. Cinq fiches vérifiables ne sont pas réunies ; le groupe ne se complète pas.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, marchés du samedi matin et du mercredi après-midi : jour et lieu confirmés par deux sources officielles, liste des producteurs à relever sur la rubrique Marchés de la mairie ou auprès de l'organisateur.
+- Balma : aucune source de vente directe lue ; à sonder sur la rubrique Marchés de la mairie et l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours éligible (la Normandie a été visée la veille, la règle 41.c ne l'exclut pas). Reprendre Blagnac si la rubrique Marchés de la mairie donne la liste des producteurs ; sinon sonder Balma, puis Castanet-Tolosan.
