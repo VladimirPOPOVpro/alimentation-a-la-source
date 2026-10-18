@@ -39100,3 +39100,23 @@ Backlog : 0 demande « nouvelle », 1 demande « en_cours » (n° 13, voir ci-de
 **Contradictions** (règle 5) : aucune retenue ; le marché d'Ensisheim n'a pas de source municipale pour trancher.
 
 **Point d'arrêt.** Passe suivante : Haut-Rhin exclu (règle 41.c). Le 68 reprend avec Huningue, à lire sur le site de la Ville, puis Ensisheim, à lire sur le site de la Ville. La demande n° 13 se reprend seulement si elle arrive avec une enseigne publique et un contact professionnel.
+
+### Passe autonome du 18 octobre 2026 (Seine-Maritime (76) reprise, Dieppe sondée sur le web) : aucune publication
+
+**Classement, règle 41.** Métropole seule. Le Haut-Rhin, visé la veille, est exclu (règle 41.c). Seine-Maritime en tête (déficit ≈ 4,3 sur 1 274 fiches), devant la Haute-Garonne (≈ 4,2). Les départements d'outre-mer ont un déficit plus élevé mais restent hors périmètre : `lib/validateMerchants.ts` refuse les coordonnées hors métropole.
+
+**Commune, règle 41.d.** Commune la plus peuplée de la Seine-Maritime sans aucune fiche : Dieppe (28 496 hab.). Le Petit-Quevilly et Fécamp restent à reprendre ensuite.
+
+**Ce qui a été lu.** Recherche web sur Dieppe : une épicerie participative (Coop d'Albâtre, vente de produits frais, horaires à confirmer auprès du magasin) et un magasin Biocoop du centre commercial du Val Druel (horaires issus d'un annuaire participatif, à recouper avec le site de l'enseigne). Aucun marché de producteurs ni AMAP identifié sur une source officielle de la Ville.
+
+**Pourquoi rien n'est publié.** Deux fiches possibles ne forment pas la zone de cinq (règles 52, 96 et 127), et aucune n'est recoupée à deux sources indépendantes avec horaires vérifiés.
+
+**Pistes non publiées** (anonymes) :
+- Dieppe, épicerie participative (Coop d'Albâtre) : à reprendre avec son site ou sa page de l'annuaire du réseau, horaires à confirmer.
+- Dieppe, magasin bio du Val Druel : à reprendre avec le site de l'enseigne ; la règle des magasins bio indépendants s'applique.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en_cours (doute sur une personne), rien envoyé.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) est en tête après le 76 ; reprendre Dieppe à la passe qui suivra, avec la Ville et le site de la Coop d'Albâtre, ou descendre à Le Petit-Quevilly si la Ville répond.
