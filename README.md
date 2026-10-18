@@ -39294,3 +39294,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Nord toujours éligible (le Nord n'est pas visé la passe précédente, seule la Seine-Maritime l'est). Reprendre Maubeuge avec le site de la Ville (rubrique marchés) ; sinon Lambersart, Armentières, puis Mons-en-Barœul. La question de règle de sortie après plusieurs passes à zéro dans un même département reste posée (passe du 18 octobre, Nord revisé) ; aucune règle n'a été ajoutée ici.
+
+### Passe autonome du 18 octobre 2026 (Bouches-du-Rhône (13) visé, Aubagne sondée) : aucune publication
+
+**Backlog** : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Secteur, règle 41.** Recalcul métropole seule sur 1 274 fiches (population `geo.api.gouv.fr`). Tête : Haute-Garonne (31) 5,10, Seine-Maritime (76) 5,08, Nord (59) 4,94. La Haute-Garonne et la Seine-Maritime sont écrites épuisées ; le Nord est fermé par la passe précédente (fbc9c64, règle 41.c). Premier département ouvert : **Bouches-du-Rhône (13)**, déficit 4,86, région non visée à la passe précédente.
+
+**Commune, règle 41.d.** Communes des Bouches-du-Rhône sans fiche, par population : Aubagne (47 529 hab.) en premier, puisque Marseille, Martigues, Arles, Istres et Salon-de-Provence ont déjà des fiches ou ont été sondées sans résultat.
+
+**Ce qui a été lu sur Aubagne.**
+- Registre Agence Bio, Bouches-du-Rhône, première page de cent opérateurs filtrée sur la commune : deux opérateurs situés à Aubagne, tous deux en vente aux professionnels seulement (grossiste et exploitation sans vente aux particuliers). Rien d'exploitable en vente directe.
+- Recherche web : un marché de producteurs le samedi et le dimanche matin, cours Voltaire, relevé sur une fiche régionale (provence-alpes-cotedazur.com) et un article de 2021 (8h-13h). Aucune page officielle de la Ville n'a été trouvée pour confirmer ces horaires ni la liste des producteurs.
+- Le point de vente collectif de la route de Napollon : horaires lus sur un seul article ancien ; aucun site ouvert vérifié.
+
+**Vitrolles, lue en second.** Les marchés relevés sont généralistes (fruits, légumes, vêtements) ; aucun n'est un marché de producteurs. Ils ne répondent pas à la règle 3 sur le circuit court : écartés.
+
+**Pourquoi rien n'est publié.** Aubagne rend un marché de producteurs, mais sur une source régionale et un article daté, sans source de la Ville : il n'y a pas deux sources indépendantes sur les horaires. Le point de vente collectif ne rend pas d'horaires vérifiés. Cinq commerces vérifiables ne sont pas réunis ; le groupe ne se complète pas.
+
+**Pistes non publiées** (anonymes) :
+- Aubagne, marché de producteurs du week-end, cours Voltaire : horaires et liste de producteurs à recouper sur le site de la Ville (rubrique marchés), ou à la Ville directement.
+- Aubagne, point de vente collectif de la route de Napollon : horaires actuels à relever par téléphone ou sur une page du point de vente.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Bouches-du-Rhône ouvert (rang 1 hors Nord). Reprendre Aubagne si la page marchés de la Ville donne les jours et les horaires du marché de producteurs ; sinon descendre à Vitrolles uniquement si un marché de producteurs y est attesté par une source de la Ville. Ne pas compter Vitrolles sur les marchés généralistes.
