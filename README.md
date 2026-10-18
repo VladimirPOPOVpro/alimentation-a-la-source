@@ -39487,3 +39487,26 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : une à Muret (vente directe au nom d'une personne), non nommée.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne exclue (visée cette passe, règle 41.c). Le classement suivant ouvert est la Seine-Maritime (76), puis le Nord, dont la règle 247 garde la fermeture. Reprendre Muret seulement si la Ville ou l'organisateur confirme les producteurs du marché bio ; sinon, la descente de la Haute-Garonne passe à Plaisance-du-Touch, déjà éprouvée au registre.
+
+### Passe autonome du 18 octobre 2026 (Seine-Maritime (76) visée, Elbeuf et Canteleu sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre.
+
+**Secteur, règle 41.** Métropole seule (départements 97x et 98x exclus du classement, règle 177 ; dénominateur toutes communes, règle 224). La passe précédente visait la Haute-Garonne (31), qui est donc exclue par la règle 41.c. Tête du classement restante : Seine-Maritime (76), puis Nord (59, fermé par la règle 247), Bouches-du-Rhône (13, visé la veille de la passe précédente). Seine-Maritime retenue.
+
+**Commune, règle 41.d.** Communes de 76 sans fiche, par population : Dieppe (28 496 hab.) déjà éprouvée à plusieurs passes et fermée ; Fécamp, Montivilliers, puis Elbeuf et Canteleu. Elbeuf ouverte cette passe.
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur Elbeuf : aucun marché de producteurs ni ferme en vente directe identifiés dans la commune. L'annuaire des producteurs (code postal 76500) ne donne que des adresses à plus de 50 km.
+- Recherche web sur Canteleu : un maraîcher bio et un drive fermier dans un annuaire, à 13–27 km, hors de la commune ; aucun marché ni point de vente sur place.
+- Le registre Agence Bio du 76 n'a pas été relu cette passe : il a été lu en entier lors des passes précédentes, sans commune de cinq fiches.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend un seul commerce vérifiable sur une source indépendante, et l'on ne complète pas une zone avec des adresses situées ailleurs.
+
+**Pistes non publiées** (anonymes) :
+- Elbeuf (commune de 76, sans fiche) : aucun producteur ni marché vérifiable à ce jour ; reprendre si la Ville ou la Chambre d'agriculture publie une liste de marchés ou de points de vente.
+- Canteleu (commune de 76, sans fiche) : un maraîcher bio et un drive fermier sont signalés dans un annuaire, à 13–27 km ; hors commune. Reprendre si un point de vente sur place est publié par une source officielle.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : ne pas viser la Seine-Maritime à deux passes de suite (règle 41.c). Le classement ouvert suivant est le Nord (fermé par la règle 247), puis le Bouches-du-Rhône, dont la règle 41.c ne permet pas la reprise immédiate. Le calcul de la règle 41 reste à rafraîchir sur l'état du fichier au moment de la publication.
