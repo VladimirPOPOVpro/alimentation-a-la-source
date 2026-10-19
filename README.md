@@ -39666,3 +39666,24 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Isère, exploitants individuels, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c) ; Bouches-du-Rhône redevient éligible en premier rang de la descente, puis Haut-Rhin (68). Reprendre la lecture du registre Isère à partir du mille-et-unième opérateur.
+
+### Passe autonome du 19 octobre 2026, huitième de la journée (Haute-Garonne (31) visée, Blagnac descendue, registre lu jusqu'à la fin) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches. La passe précédente visait l'Isère (région 84) ; la réserve de la règle 41.c ne bloque donc que la région 84. Tête du classement hors réserve : Haute-Garonne (31), déficit le plus élevé après les départements déjà fermés à la descente (Nord, Seine-Maritime). **Haute-Garonne (31) retenue.** Note : la passe précédente annonçait « Bouches-du-Rhône redevient éligible en premier rang » ; c'était une lecture inexacte, le 31 était éligible avant elle et reste la cible de la formule.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 31 sans fiche : **Blagnac** (27 604 hab.). Toulouse, Colomiers, Tournefeuille, Cugnaux et Balma ont déjà des fiches ou ont été traitées (passes précédentes) ; la descente s'arrête donc à Blagnac.
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Garonne, **dernière tranche** (opérateurs 2 001 à 2 837, paramètre `debut=2000`, `nb=1000`). Pour Blagnac : quatre entrées de vente aux particuliers, toutes portant le patronyme d'un exploitant ou d'un particulier, écartées pour doute sur une personne (règle 1), non nommées ; aucune entreprise de vente directe identifiée. Aucune recherche web ni site de commune n'a été ouvert : sans candidat dont l'enseigne est établie, il n'y avait rien à recouper.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend aucun commerce vérifiable hors des entrées écartées pour doute sur une personne. Une fiche isolée ne forme pas une zone (règle 52), et l'on ne complète pas un groupe de cinq avec des adresses situées dans une autre commune.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac : quatre entrées de vente aux particuliers, toutes au nom d'une personne physique, écartées pour doute sur une personne et non rouvertes.
+- Haute-Garonne, communes encore sans fiche, à instruire : Muret (26 079 hab.), Plaisance-du-Touch, Balma et Castanet-Tolosan, dont le registre n'a donné que des entrées de négoce ou de préparation.
+- Haute-Garonne, Toulouse : des entreprises à enseigne établie (sociétés coopératives, magasins de vrac) figurent au registre ; elles relèvent de la commune de Toulouse, déjà pourvue, et ne sont pas instruites ici.
+
+**Fiches écartées pour doute sur une personne** : quatre entrées de Blagnac, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) exclue (règle 41.c, visée cette passe). Reprendre le classement de la règle 41 hors 31 et hors région 76 ; si le département en tête est Haut-Rhin (68), descendre à sa commune la plus peuplée sans fiche.
