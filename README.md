@@ -39901,3 +39901,23 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au nom de personnes physiques, à Les Sables-d'Olonne et ses environs, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Ille-et-Vilaine (35) doit être reprise en premier rang (Vitré à éprouver), puis Vendée (85) exclue si visée à nouveau (règle 41.c). Le classement reprend à Pyrénées-Atlantiques (64) dès que la région Nouvelle-Aquitaine est ouverte, et à Yvelines (78) dès que Mantes-la-Jolie rend cinq fiches (règle 96).
+
+### Passe autonome du 19 octobre 2026, dix-huitième de la journée (Nord (59) visé, Wattrelos relue sur le site officiel) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` n'est pas reprise (doute sur une personne en enseigne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus). Nord (59) en tête (déficit ≈ 5,6), Haute-Garonne (31) exclue par la règle 41.c (visée la passe précédente, en Occitanie comme les passes récentes). Le Nord est donc visé, malgré la descente close de la onzième passe : la règle 247 lève la clôture dès qu'une source nouvelle apparaît, et l'on en cherche une.
+
+**Commune, règle 41.d.** Wattrelos (40 847 hab.) est la plus peuplée du Nord sans fiche.
+- **Site officiel de la Ville** (`ville-wattrelos.fr`, rubrique « Les marchés ») : quatre marchés, identifiés par leur quartier et leur jour (Beaulieu le mercredi après-midi, centre-ville le jeudi matin, la Mousserie le vendredi matin, le Laboureur le dimanche matin). Ni horaires précis, ni produits, ni liste d'exploitants : rien de publiable comme fiche vérifiée.
+- **Attention, `wattrelos.fr` n'est pas la Ville.** C'est un annuaire commercial privé (comparateur de services, « panier gourmand », publicité pour des blogs et des adresses e-mail personnalisées). Il ne sert à aucune fiche : sa rubrique « produits locaux » n'est pas une source d'exploitants, et sa page signale elle-même un auteur de mise à jour, non repris.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend ni cinq fiches ni même une fiche complète : les marchés n'ont pas d'horaires précis sur une source officielle, et aucun producteur n'est nommé. La descente vers Marcq-en-Barœul et Lambersart n'a pas été faite cette passe, faute de source nouvelle sur ces communes ; le registre Agence Bio du 59 (première page, cent opérateurs) ne donne dans ces communes que des entrées de vente aux particuliers portant des noms de personnes ou des établissements de réseau.
+
+**Pistes non publiées** (anonymes) :
+- Lambersart, entrée de vente aux particuliers au registre, nature et site à identifier : à recouper avec le registre complet.
+- Maubeuge, Biocoop, horaires contradictoires entre annuaires (déjà consigné) : à recouper.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au nom de personnes physiques à Lambersart et Marcq-en-Barœul, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reste à reprendre seulement si une source nouvelle apparaît (règle 247). Sinon, la formule désigne Haute-Garonne (31) puis Seine-Maritime (76) : la passe suivante doit respecter la réserve 41.c et ne pas revenir sur le Nord à deux passes de suite. Ille-et-Vilaine (35), désignée au point d'arrêt de la passe précédente, est à reprendre en premier si le Nord reste fermé.
