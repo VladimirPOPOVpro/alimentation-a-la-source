@@ -39623,3 +39623,21 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Haute-Garonne, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne exclue si elle est visée à nouveau (règle 41.c). Reprendre la lecture du registre à partir du mille-et-unième opérateur, puis la descente à Muret si une fiche se dégage. Le classement suivant est l'Isère (38) ; Bouches-du-Rhône redevient éligible.
+
+### Passe autonome du 19 octobre 2026, sixième de la journée (Haute-Garonne (31) relue, page 1001 à 2000 du registre lue) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien publié, aucun message envoyé).
+
+**Secteur, règle 41.** Haute-Garonne (31) reste tête éligible hors réserve : la passe précédente visait l'Occitanie, la réserve de la règle 41.c s'applique donc à nouveau et **le 31 est exclu pour cette passe**. Le suivant du classement, l'Isère (38), a été visé ce même jour : la descente se poursuit sur le département suivant du classement, sans contournement de la formule.
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Garonne, page 1001 à 2000 (paramètre `debut=1000`, `nb=1000`), lue en totalité au niveau des communes de la descente (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne). Entrées de vente aux consommateurs relevées dans ces communes : une dizaine, dont deux ou trois avec un site web déclaré. **Aucune n'a été ouverte sur le web ni recoupée cette passe** : leur raison sociale désigne, pour la plupart, des exploitants individuels, et le doute sur une personne écarte la fiche avant tout recoupement (règle 1).
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables ; les entrées de grande surface, de grossiste ou de négoce ne sont pas des points de vente en circuit court. Une fiche isolée ne forme pas une zone (règle 52).
+
+**Pistes non publiées** (anonymes) :
+- Haute-Garonne, Blagnac : deux à trois entrées de vente aux consommateurs avec site web déclaré, à ouvrir et recouper une fois la règle 41.c levée.
+- Haute-Garonne, Muret et Castanet-Tolosan : une entrée de vente aux consommateurs chacune, sans site, à recouper.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Haute-Garonne, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Isère (38) visée (le 31 ne peut pas l'être deux passes de suite). Reprendre le classement de la règle 41 depuis son premier rang ; si le 38 reste en tête, descendre à la commune la plus peuplée sans fiche en Isère.
