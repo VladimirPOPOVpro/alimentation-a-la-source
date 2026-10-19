@@ -39802,3 +39802,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : une vingtaine d'entrées de vente aux particuliers à Istres, Salon-de-Provence et dans leurs environs, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclue si elle est visée à nouveau (règle 41.c). Reprendre Istres (recoupement des enseignes bio au registre des entreprises) ; si la descente atteint douze communes sans succès, Bouches-du-Rhône se ferme (règle 247). Le classement suivant hors région 93 et 76 est l'Isère (38), puis le Haut-Rhin (68).
+
+### Passe autonome du 19 octobre 2026, quatorzième de la journée (Isère (38) visée, Saint-Égrève sondée au registre et sur le web) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (départements 97x et 98x exclus, règle 177). Tête : Nord (59) 5,36, fermé par la règle 247 ; Haute-Garonne (31) 5,33, fermée par la règle 247 ; Seine-Maritime (76) 5,28, descente close (règle 247) ; **Bouches-du-Rhône (13) 5,20, exclue** (visée la passe précédente, règle 41.c) ; **Isère (38) 5,01, retenue** : région 84, différente de la région 93 visée la veille.
+
+**Commune, règle 41.d.** Isère, descente déjà éprouvée : Grenoble, Saint-Martin-d'Hères et Échirolles ont des fiches ; Vienne, Bourgoin-Jallieu, Fontaine et Voiron ont été sondées sans succès ; Villefontaine, Meylan, Seyssinet-Pariset et L'Isle-d'Abeau sont déjà passées en revue dans les pistes. La plus peuplée restante sans fiche est **Saint-Égrève (17 986 hab.)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère, 2 247 opérateurs relus en totalité, filtre sur les communes de Saint-Égrève et de L'Isle-d'Abeau : une vingtaine d'entrées, dont la majorité porte le nom d'une personne physique (écartées pour doute sur une personne, non nommées) ; quelques enseignes de grande distribution, de négoce, de restauration ou de siège sans vente au public ; une entité au nom de réseau de livraison (vente aux particuliers déclarée) à recouper au registre des entreprises.
+- Recherche web sur les marchés : deux marchés nommés par un agenda régional (La Monta, le mercredi et le samedi matin ; Prédieu-Fiancey, le mardi et le vendredi matin), dont les jours sont dits « à vérifier auprès de la ville ». Le seul document officiel lu date de 2020 (période Covid) et donne d'autres jours (jeudi 16 h-19 h, samedi 8 h-12 h). Les jours sont donc contradictoires entre sources (règles 5 et 9).
+- Producteurs : aucune ferme ni magasin de producteurs à Saint-Égrève dont la vente directe soit confirmée par une source actuelle. Le magasin de la commune qui s'approvisionne en petits producteurs est une enseigne de grande distribution, écartée (règle 3).
+
+**Pourquoi rien n'est publié.** Saint-Égrève ne rend aucun commerce vérifiable hors marchés, et les horaires des deux marchés sont contradictoires entre une source de 2026 et une source officielle de 2020 (règle 5 : contradiction consignée, pas publiée). Une fiche de marché isolée ne forme pas une zone (règle 52), et aucune fiche de producteur n'a de source actuelle.
+
+**Pistes non publiées** (anonymes) :
+- Saint-Égrève, marché de La Monta : jours et horaires à confirmer auprès de la Ville (agenda régional 2026 contre document officiel 2020).
+- Saint-Égrève, marché de Prédieu-Fiancey : jours et horaires à confirmer auprès de la Ville.
+- Saint-Égrève, GAEC de la petite ferme (annuaire de producteurs) : localisation et vente directe non vérifiées.
+- Saint-Égrève, plusieurs entrées de vente aux particuliers au nom de personnes physiques : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Saint-Égrève, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c). Bouches-du-Rhône redevient éligible en premier rang ; la descente en Isère reprendra à Meylan ou Villefontaine (déjà passées en revue dans les pistes) si une source officielle de marché apparaît à Saint-Égrève.
