@@ -39921,3 +39921,30 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au nom de personnes physiques à Lambersart et Marcq-en-Barœul, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Nord (59) reste à reprendre seulement si une source nouvelle apparaît (règle 247). Sinon, la formule désigne Haute-Garonne (31) puis Seine-Maritime (76) : la passe suivante doit respecter la réserve 41.c et ne pas revenir sur le Nord à deux passes de suite. Ille-et-Vilaine (35), désignée au point d'arrêt de la passe précédente, est à reprendre en premier si le Nord reste fermé.
+
+### Passe autonome du 19 octobre 2026, dix-neuvième (Bouches-du-Rhône (13) visée, Istres sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` n'est pas reprise (doute sur une personne en enseigne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus, règle 177). Nord (59) 5,56 : écarté par la règle 41.c, visé la passe précédente. Haute-Garonne (31) 5,44 et Seine-Maritime (76) 5,37 : fermées par la règle 247. Bouches-du-Rhône (13) 5,35 : **retenue**, sa région (93) diffère de celle de la passe précédente (Nord, région 32). Isère (38) 5,11 et Haut-Rhin (68) 4,90 : descentes déjà éprouvées (règle 247). Yvelines (78) : écartées par la règle 96.
+
+**Commune, règle 41.d.** Dans le 13, les communes qui portent déjà une fiche sont Marseille, Aix-en-Provence, Arles, Martigues, Graveson, Rognonas, Eyragues, Rousset, Puyloubier, Trets et Rognes. Aubagne (47 529 hab.) a été sondée à la neuvième passe ; **Istres (44 292 hab.)** est la commune désignée au point d'arrêt de la treizième passe, et la plus peuplée restante sans fiche après elle.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés et la vente directe à Istres. Le marché du mardi matin, allées Jean-Jaurès (8h-12h), n'est confirmé que par l'office de tourisme : le site de la Ville n'a pas pu être ouvert depuis cet environnement (réponse 400).
+- Le marché des producteurs d'Entressen (vendredi, 17h-19h30) et le marché d'été du samedi ont clos leur saison 2026 le 25 et le 26 septembre : hors saison, non publiés.
+- Registre Agence Bio, département 13, paginé en entier (3 236 opérateurs), filtré sur Istres : une vingtaine d'entrées. La plupart sont des négoces, de la distribution ou des vendeurs particuliers sans source publique ; plusieurs portent un nom de personne physique (écartés, non nommés).
+- Registre des entreprises : des établissements actifs à Istres et à Entressen, dont une exploitation qui ne vend que sur commande (office de tourisme : un samedi sur deux) et une enseigne bio à plusieurs magasins dont le point istréen est en zone d'activité, sans numéro de voirie.
+- Une exploitation d'Istres présentée comme « ferme » se révèle à l'annuaire comme un gîte ; une autre, citée au marché d'Entressen, n'annonce aucun horaire de vente à la ferme.
+
+**Pourquoi rien n'est publié.** Une seule fiche plausible (le marché du mardi), sur une seule source officielle ; aucun des autres commerces n'a deux sources indépendantes et un point géocodable. Une fiche isolée n'est pas une zone (règle 52) : la passe s'arrête sans publier (règle 248) et consigne son criblage.
+
+**Pistes non publiées** (anonymes) :
+- Istres, marché du mardi matin : jour et lieu donnés par l'office ; à recouper avec le site de la Ville avant publication.
+- Istres, exploitation en vente sur commande (samedi, une semaine sur deux) : registre actif, pas de site ni d'horaire fiable ; à recouper.
+- Istres, enseigne bio à plusieurs magasins en zone d'activité : point à trouver (règle 10), horaires du point de vente à lire sur le site de l'enseigne.
+- Entressen, marché des producteurs du vendredi soir : hors saison, à reprendre si la saison 2027 est annoncée.
+
+**Fiches écartées pour doute sur une personne** : une exploitation d'Istres dont l'enseigne est un nom patronymique, non nommée, ne se rouvre pas ; plusieurs entrées particuliers du registre Agence Bio à Istres et Entressen, non nommées.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) reste la première région éligible au classement, mais la descente est près du seuil de la règle 247 (Aubagne, La Ciotat, Vitrolles, Istres et Salon déjà sondées). Istres reprend d'abord, avec le site de la Ville et l'enseigne bio ; si la descente atteint douze communes sans succès, le 13 se ferme. Le Nord (59) redevient éligible à la passe suivante (règle 41.c), mais reste sous la règle 247. Ille-et-Vilaine (35), 4,66, est le premier rang ouvert hors de ces trois départements.
