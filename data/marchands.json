@@ -33681,5 +33681,124 @@
     "description": "Boutique collective où des producteurs et artisans du Gard et de Lozère tiennent le comptoir à tour de rôle ; chacun vend des produits de sa propre exploitation, bio ou non.",
     "image_url": "/images/marchands/la-ferme-du-coin-ales.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-halles-ephemeres-les-sables-dolonne",
+    "nom": "Marché des Halles éphémères",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.497629,
+    "lon": -1.780133,
+    "adresse": "Cours Louis Guédon, 85100 Les Sables-d'Olonne",
+    "horaires": "De 8h à 13h du mardi au dimanche, tous les jours en juillet et août ; marché forain le mercredi et le samedi de 8h à 13h, sur le même cours.",
+    "produits": [
+      "Produits fromagers",
+      "Boucherie",
+      "Boulangerie",
+      "Pâtisserie",
+      "Produits de producteurs locaux"
+    ],
+    "description": "Marché des Halles déplacé dans un lieu éphémère au cœur de ville, pendant les travaux des Halles Centrales (fermées jusqu'en novembre 2027 selon la Ville). Le lieu éphémère est annoncé jusqu'au 1er trimestre 2027.",
+    "a_confirmer": true,
+    "site_web": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Halles%20%C3%A9ph%C3%A9m%C3%A8res%20Cours%20Louis%20Gu%C3%A9don%20Les%20Sables-d'Olonne",
+    "image_url": "/images/marchands/marche-des-halles-ephemeres-les-sables-dolonne.jpg"
+  },
+  {
+    "slug": "marche-arago-les-sables-dolonne",
+    "nom": "Marché Arago",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.494327,
+    "lon": -1.774027,
+    "adresse": "Boulevard Arago, 85100 Les Sables-d'Olonne",
+    "horaires": "Marché alimentaire couvert tous les jours de 7h30 à 13h ; marché forain en extérieur le mardi, le vendredi et le dimanche de 8h à 13h30.",
+    "produits": [
+      "Produits de la mer",
+      "Produits de la terre",
+      "Produits du terroir"
+    ],
+    "description": "Marché couvert dans les ruelles du centre, à une dizaine de minutes à pied de la plage. La Ville signale un édifice d'avant-garde, patrimoine de la ville.",
+    "a_confirmer": true,
+    "site_web": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20Arago%20Boulevard%20Arago%20Les%20Sables-d'Olonne",
+    "image_url": "/images/marchands/marche-arago-les-sables-dolonne.jpg"
+  },
+  {
+    "slug": "marche-de-la-chaume-les-sables-dolonne",
+    "nom": "Marché de la Chaume",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.494056,
+    "lon": -1.796541,
+    "adresse": "Place Maraud, 85100 Les Sables-d'Olonne",
+    "horaires": "Marché alimentaire couvert les mardi, jeudi et dimanche de 8h à 13h, et du mardi au dimanche en juillet et août ; marché forain les jeudi et dimanche de 8h30 à 13h.",
+    "produits": [
+      "Fruits et légumes",
+      "Produits de la mer",
+      "Spécialités régionales",
+      "Produits locaux"
+    ],
+    "description": "Marché du quartier de la Chaume, sur l'ancien emplacement du lavoir, avec une partie couverte et un marché forain. La Ville le décrit comme un marché de produits frais du terroir.",
+    "a_confirmer": true,
+    "site_web": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Chaume%20Place%20Maraud%20Les%20Sables-d'Olonne",
+    "image_url": "/images/marchands/marche-de-la-chaume-les-sables-dolonne.jpg"
+  },
+  {
+    "slug": "marche-de-la-pironiere-les-sables-dolonne",
+    "nom": "Marché de la Pironière",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.476863,
+    "lon": -1.743023,
+    "adresse": "Rue de la République, 85180 Les Sables-d'Olonne",
+    "horaires": "Marché forain et alimentaire le mardi, le jeudi et le samedi de 8h30 à 13h de septembre à juin, et tous les matins en juillet et août.",
+    "produits": [
+      "Étals alimentaires (détail non publié par la Ville)"
+    ],
+    "description": "Marché forain et alimentaire de la Pironière, rue de la République. La Ville ne détaille pas les producteurs présents : la liste de produits reste à confirmer.",
+    "a_confirmer": true,
+    "site_web": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20de%20la%20Pironi%C3%A8re%20Rue%20de%20la%20R%C3%A9publique%20Les%20Sables-d'Olonne",
+    "image_url": "/images/marchands/marche-de-la-pironiere-les-sables-dolonne.jpg"
+  },
+  {
+    "slug": "marche-du-chateau-dolonne-les-sables-dolonne",
+    "nom": "Marché du Château d'Olonne",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 46.504157,
+    "lon": -1.738112,
+    "adresse": "Rue Séraphin Buton, 85180 Les Sables-d'Olonne",
+    "horaires": "Marché forain et alimentaire le mercredi et le dimanche de 8h à 13h.",
+    "produits": [
+      "Étals alimentaires (détail non publié par la Ville)"
+    ],
+    "description": "Marché forain et alimentaire du quartier du Château d'Olonne, deux matinées par semaine. La Ville ne détaille pas les producteurs présents : la liste de produits reste à confirmer.",
+    "a_confirmer": true,
+    "site_web": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Ch%C3%A2teau%20d'Olonne%20Rue%20S%C3%A9raphin%20Buton%20Les%20Sables-d'Olonne",
+    "image_url": "/images/marchands/marche-du-chateau-dolonne-les-sables-dolonne.jpg"
   }
 ]

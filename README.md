@@ -39868,3 +39868,36 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Dax et Saint-Paul-lès-Dax, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Nord, Haute-Garonne et Seine-Maritime restent fermés (règle 247). Isère reste éprouvée. Bouches-du-Rhône redevient éligible. Landes reprendra à Dax si une source de producteur ou de marché apparaît, sinon au Pays basque ou dans les Pyrénées-Atlantiques (64) au classement suivant.
+
+### Passe autonome du 19 octobre 2026 (Vendée (85) visée, Les Sables-d'Olonne : cinq marchés publiés)
+
+**Backlog.** Aucune demande « nouvelle » (une seule en `en_cours`, aucun message envoyé, rien à répondre).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches au départ. Tête du calcul : Pyrénées-Atlantiques (64) 4,60, écarté : même région (Nouvelle-Aquitaine) que la passe de la veille (règle 41.c). Yvelines (78) 4,59 : écartées (Mantes-la-Jolie n'a pas rendu cinq fiches, règle 96). Vendée (85) 3,74 retenue en tête des régions ouvertes : Pays de la Loire, non visée la veille.
+
+**Commune, règle 41.d.** La Roche-sur-Yon et Les Herbiers portent déjà des fiches. La plus peuplée restante sans fiche est **Les Sables-d'Olonne**.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville (`lessablesdolonne.fr`, page « Les marchés et producteurs »), qui donne adresses et jours de chaque marché. C'est la source des fiches : un marché communal ne relève pas du registre (règle 6).
+- Géocodage par la Base Adresse Nationale ; la BAN range toutes les adresses de la liste sous Les Sables-d'Olonne (codes postaux 85100 et 85180).
+- Registre Agence Bio (Vendée et Les Sables-d'Olonne) : surtout des négoces et des particuliers à vente déclarée, dont des noms de personnes physiques (écartés pour doute sur une personne, non nommés).
+- Recherche web : un magasin de ferme (fruits et légumes) ; un magasin de ferme relevé par un annuaire tiers, sans site joignable.
+
+**Fiches publiées (5, toutes sur Les Sables-d'Olonne, `a_confirmer` true).**
+- Marché des Halles éphémères, cours Louis Guédon (Halles Centrales fermées jusqu'en novembre 2027 selon la Ville ; lieu éphémère annoncé jusqu'au 1er trimestre 2027).
+- Marché Arago, boulevard Arago (couvert tous les jours ; forain mardi, vendredi, dimanche).
+- Marché de la Chaume, place Maraud (couvert ; forain jeudi et dimanche).
+- Marché de la Pironière, rue de la République (forain et alimentaire, mardi, jeudi, samedi).
+- Marché du Château d'Olonne, rue Séraphin Buton (forain et alimentaire, mercredi et dimanche).
+
+**Règle 1 appliquée (photo).** Les cinq fiches reprennent la même image, une vue aérienne de la ville fournie par le site officiel de la Ville pour ses réseaux sociaux. Elle ne montre aucun des marchés ni aucune personne : c'est une illustration, pas une photo du lieu. Chaque fiche est en `a_confirmer`.
+
+**Réserves de fait.** La Ville ne détaille pas les producteurs de la Pironière et du Château d'Olonne : leur liste de produits est une mention générique, marquée à confirmer. Pour Arago et la Chaume, les produits sont ceux qu'annonce la Ville, sans liste d'exploitants.
+
+**Pistes non publiées** (anonymes) :
+- Les Sables-d'Olonne, magasin de ferme (fruits, légumes, viandes, œufs) : horaires relevés dans un annuaire tiers, site de l'exploitation injoignable ; le registre compte deux établissements ouverts sous une dénomination proche. À recouper avec le registre et la fiche de l'exploitation avant publication.
+- Les Sables-d'Olonne, vente directe de produits de la mer par une enseigne de conserverie : écartée (négoce de marque, règle 3).
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au nom de personnes physiques, à Les Sables-d'Olonne et ses environs, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Vendée (85) exclue si visée à nouveau (règle 41.c). Le classement reprend à Pyrénées-Atlantiques (64) dès que la région Nouvelle-Aquitaine est ouverte, et à Yvelines (78) dès que Mantes-la-Jolie rend cinq fiches (règle 96).
