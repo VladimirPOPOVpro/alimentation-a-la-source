@@ -39992,3 +39992,25 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au registre Agence Bio à Istres, non nommées, ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante : Bouches-du-Rhône (13) ne revient pas (règle 41.c). Le classement reprend hors des régions 93 et 32 ; Nord, Haute-Garonne et Seine-Maritime restent fermés (règle 247) jusqu'à une source nouvelle. Istres reste à reprendre si la Ville publie son marché.
+
+### Passe autonome du 19 octobre 2026 (Ille-et-Vilaine (35) reprise, Cesson-Sévigné sondée, image de Biarritz écartée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne en enseigne, contact privé, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr` (34 969 communes, outre-mer exclu). Nord (59) 5,56, Haute-Garonne (31) 5,44 et Seine-Maritime (76) 5,37 : descentes closes (règle 247). Bouches-du-Rhône (13) 5,35 : écartée par la règle 41.c, visée la passe précédente. Isère (38) 5,11 et Haut-Rhin (68) 4,90 : éprouvées. Yvelines (78) 4,71 : règle 96. **Ille-et-Vilaine (35), 4,6627, retenue** : première région ouverte, Bretagne non visée à la passe précédente.
+
+**Commune, règle 41.d.** Fougères (20 307 hab.) : descente close (règle 247, aucune source de commerce). Vitré (19 365 hab.) : marché sans jour confirmé par la Ville ni par l'office, déjà sondée. **Cesson-Sévigné (18 761 hab.)** : site officiel de la Ville lu à nouveau ce jour (page d'accueil et actualités) ; aucune rubrique marchés ni commerces n'y figure. Le marché dominical de la place Jules-Verne, déjà noté aux passes précédentes, n'a qu'une source : insuffisant (règle 9).
+
+**Biarritz (64), image écartée.** La passe du 16 octobre a lu les sources officielles des halles et des marchés de Biarritz ; il ne manquait qu'une photo. L'unique image utile trouvée sur le site de la Ville est une bannière publicitaire d'une mutuelle communale montrant trois personnes reconnaissables : écartée (règle 1, et doute sur une personne). Aucune photo thématique honnête n'a été trouvée : Unsplash et Pexels sont bloqués depuis cet environnement, et Wikimedia Commons impose une attribution que le site ne gère pas.
+
+**Pourquoi rien n'est publié.** Ni Fougères, ni Vitré, ni Cesson-Sévigné ne rendent cinq fiches vérifiables ; Biarritz est bloquée par l'absence de photo. Une fiche isolée n'est pas une zone (règle 52), et rien ne se publie seul.
+
+**Pistes non publiées** (anonymes) :
+- Biarritz, halles et marchés (horaires officiels, produits non détaillés) : déblocage, une photo sans personne reconnaissable, 700 px ou plus.
+- Cesson-Sévigné, marché dominical de la place Jules-Verne : source unique, déblocage par une seconde source ou une page datée de la Ville.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe (la bannière écartée n'est pas une fiche).
+
+**Point d'arrêt.** Passe suivante : Ille-et-Vilaine (35) ne revient pas (règle 41.c). Le classement reprend au premier département éligible hors Bretagne, Pyrénées-Atlantiques (64, Nouvelle-Aquitaine) étant le candidat suivant si la formule le désigne. Biarritz reste bloquée tant qu'aucune photo honnête n'existe.
+
+**Constat de méthode.** Passe sans fiche publiée. Le verrou reste la photo : les sources d'images libres sont bloquées depuis cet environnement, et les images des sites de communes montrent souvent des personnes.
