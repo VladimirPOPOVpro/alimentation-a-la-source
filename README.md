@@ -40042,3 +40042,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Point d'arrêt.** Passe suivante : Pyrénées-Atlantiques (64) exclu si visé à nouveau (règle 41.c). Le classement reprend au premier département hors Nouvelle-Aquitaine (région 75) ; Biarritz se rouvre si une photo honnête existe ; Hendaye et Saint-Jean-de-Luz se rouvrent si la Ville répond.
 
 **Constat de méthode.** Passe sans fiche publiée. Les sites officiels de Hendaye et de Saint-Jean-de-Luz ne répondaient pas depuis cet environnement ; sans eux, aucune commune de la descente ne tient le critère de deux sources.
+
+### Passe autonome du 20 octobre 2026 (vingt-quatrième) : Haute-Garonne (31) visée, Blagnac relue sur le site de la Ville, aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule (règles 93 et 177), 1 279 fiches, populations `geo.api.gouv.fr`. Tête du classement : Nord (59) 5,56, descente close (règle 247). Haute-Garonne (31) 5,44, retenue : la règle 41.c ne vise que la région de la passe précédente (Nouvelle-Aquitaine, région 75), et l'Occitanie n'est pas en cause.
+
+**Commune, règle 41.d.** Blagnac (27 604 hab.) est la première commune du département sans fiche ; Muret (26 079), Plaisance-du-Touch (21 079) et Balma (17 772) suivent.
+
+**Ce qui a été lu.**
+- Site de la Ville de Blagnac, rubrique « Circuits courts » : une AMAP (distribution hebdomadaire le mardi), un foyer qui vend ses légumes bio en boutique ou sur réservation, un réseau de producteurs (DirectFermiers31), un panier solidaire de l'Espace famille, et une entrée de maraîchage listée sous un prénom et un nom de famille.
+- Registre des entreprises : « Biocoop Blagnac » et « Biocoop Muret » ne sont trouvés sous aucune enseigne. La recherche Muret ne remonte qu'un autre établissement, situé hors commune.
+- Site de la Ville de Plaisance-du-Touch, rubrique « Le marché de plein vent » : marché les jeudis et samedis, place Bombail, de 8 h à 12 h 45, commerçants titulaires et saisonniers. Liste des commerçants non publiée sur la page.
+- Site de la Ville de Muret : injoignable depuis cet environnement (code 000).
+
+**Pourquoi rien n'est publié.** Blagnac ne rend pas cinq fiches vérifiables : l'AMAP et le foyer n'ont ni site ni adresse de vente recoupés, les autres entrées sont des réseaux ou des paniers sans point de vente. Une AMAP isolée ne forme pas une zone (règle 52), et rien ne se publie seul. Les Biocoop ne se recoupent pas au registre, donc la règle 6 suspend leur fiche.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, AMAP de distribution hebdomadaire (mardi, jardins de Catalogne) : déblocage, adresse et site de l'AMAP, source datée de la Ville.
+- Blagnac, foyer maraîcher bio (vente en boutique ou sur réservation) : déblocage, horaires de la boutique publiés par l'établissement.
+- Blagnac, réseau DirectFermiers31 : une enseigne ou un producteur identifié avec un point de vente.
+- Plaisance-du-Touch, marché de plein vent (jeudis et samedis) : déblocage, liste des commerçants de la Ville ou de l'office de tourisme.
+- Biocoop Blagnac (rue Henri-Matisse) et Biocoop Muret (boulevard de Joffrery) : entités au registre des entreprises à recouper par SIRET avant toute fiche.
+
+**Fiches écartées pour doute sur une personne** : une entrée de maraîchage en nom propre à Blagnac, non nommée, ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) exclue si elle est visée à nouveau (règle 41.c). Le classement suivant est l'Isère (38), puis le Haut-Rhin (68) ; Blagnac se rouvre si la Ville ou l'AMAP fournit une adresse de vente vérifiable.
+
+**Constat de méthode.** Passe sans fiche publiée. Les sources officielles de Blagnac et de Plaisance-du-Touch existent, mais aucune commune ne réunit cinq points de vente vérifiables.
