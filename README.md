@@ -39827,3 +39827,26 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Saint-Égrève, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c). Bouches-du-Rhône redevient éligible en premier rang ; la descente en Isère reprendra à Meylan ou Villefontaine (déjà passées en revue dans les pistes) si une source officielle de marché apparaît à Saint-Égrève.
+
+### Passe autonome du 19 octobre 2026, quinzième de la journée (Bouches-du-Rhône (13) visée, Vitrolles sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule (règle 177 : 97x et 98x exclus), 1 274 fiches, populations `geo.api.gouv.fr`. La tête brute du calcul est La Réunion (974), écartée par la règle 93 : le contrôle de construction refuse l'outre-mer, et lever ce garde-fou est une modification de code, hors périmètre. Parmi les départements métropolitains, Bouches-du-Rhône (13) est retenu : la passe précédente visait Isère (région 84), et le 13 n'a pas été visé à la passe immédiatement antérieure.
+
+**Commune, règle 41.d.** Aubagne, Istres, Salon-de-Provence, Martigues, La Ciotat déjà sondées. Vitrolles (36 758 hab.) est la suivante par population.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bouches-du-Rhône, 1 400 opérateurs relus. Pour Vitrolles et La Ciotat : logisticiens, grossistes, préparateurs, hypermarchés, et quelques entrées de vente aux particuliers au nom de personnes physiques (écartées pour doute sur une personne, règle 1, non nommées). Une entité « CALAO 41 » à La Ciotat déclare la vente aux particuliers ; aucune source web ne la retrouve.
+- Recherche web sur Vitrolles : les jours de marché (myprovence, jours-de-marche.fr) sont des agendas participatifs ou en attente de validation ; aucune source de la Ville n'atteste un marché de producteurs. La mairie publie une adresse de service des marchés, à interroger, mais rien n'est confirmé.
+
+**Pourquoi rien n'est publié.** Vitrolles ne rend ni marché de producteurs attesté par la Ville (règle 9) ni commerce vérifiable hors généralistes. « CALAO 41 » n'a aucune source indépendante (règle 6). Aucune commune de la descente ne rend cinq fiches vérifiées (règle 52).
+
+**Pistes non publiées** (anonymes) :
+- La Ciotat, entité de vente aux particuliers (registre bio) : aucune source web, à recouper au registre des entreprises.
+- Vitrolles, marchés hebdomadaires (agendas en attente de validation) : aucun marché de producteurs attesté par la Ville.
+- Vitrolles, « Vitrolles consommons mieux » (service de commande de producteurs bio, article de 2020) : vigueur non vérifiée.
+
+**Fiches écartées pour doute sur une personne** : quelques entrées de vente aux particuliers à Vitrolles et La Ciotat, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclu si visé à nouveau (règle 41.c) ; Vitrolles reprendra si la mairie atteste un marché de producteurs ; sinon le classement suivant hors région 84 et 93 est le Haut-Rhin (68).
