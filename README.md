@@ -39873,7 +39873,7 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 
 **Backlog.** Aucune demande « nouvelle » (une seule en `en_cours`, aucun message envoyé, rien à répondre).
 
-**Secteur, règle 41.** Métropole seule, 1 274 fiches au départ. Tête du calcul : Pyrénées-Atlantiques (64) 4,60, écarté : même région (Nouvelle-Aquitaine) que la passe de la veille (règle 41.c). Yvelines (78) 4,59 : écartées (Mantes-la-Jolie n'a pas rendu cinq fiches, règle 96). Vendée (85) 3,74 retenue en tête des régions ouvertes : Pays de la Loire, non visée la veille.
+**Secteur, règle 41.** Métropole seule, 1 274 fiches au départ. Tête du calcul : Pyrénées-Atlantiques (64) 4,60, écarté : même région (Nouvelle-Aquitaine) que la passe de la veille (règle 41.c). Yvelines (78) 4,59 : écartées (Mantes-la-Jolie n'a pas rendu cinq fiches, règle 96). Ille-et-Vilaine (35) 4,58 était en troisième rang et n'était pas exclue : sa descente est ouverte (Vitré à éprouver, Fougères en pistes). **Erreur de classement de cette passe** : elle a retenu Vendée (85) 3,74 sans appliquer la formule à la lettre. Le fait est consigné ici, il n'est pas réécrit en place. Les cinq fiches vendéennes restent vérifiées sur la source officielle de la Ville.
 
 **Commune, règle 41.d.** La Roche-sur-Yon et Les Herbiers portent déjà des fiches. La plus peuplée restante sans fiche est **Les Sables-d'Olonne**.
 
@@ -39900,4 +39900,4 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au nom de personnes physiques, à Les Sables-d'Olonne et ses environs, non nommées, ne se rouvrent pas.
 
-**Point d'arrêt.** Passe suivante : Vendée (85) exclue si visée à nouveau (règle 41.c). Le classement reprend à Pyrénées-Atlantiques (64) dès que la région Nouvelle-Aquitaine est ouverte, et à Yvelines (78) dès que Mantes-la-Jolie rend cinq fiches (règle 96).
+**Point d'arrêt.** Passe suivante : Ille-et-Vilaine (35) doit être reprise en premier rang (Vitré à éprouver), puis Vendée (85) exclue si visée à nouveau (règle 41.c). Le classement reprend à Pyrénées-Atlantiques (64) dès que la région Nouvelle-Aquitaine est ouverte, et à Yvelines (78) dès que Mantes-la-Jolie rend cinq fiches (règle 96).
