@@ -39579,3 +39579,25 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Haute-Garonne (Ramonville-Saint-Agne, Fonsorbes, Plaisance-du-Touch, Muret, Colomiers), non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne exclue si elle est visée à nouveau (règle 41.c). Le classement suivant ouvert est la Seine-Maritime (76, descente éprouvée sur neuf communes), puis les Bouches-du-Rhône (13). Reprendre Blagnac seulement si une source propre à la boulangerie ou la liste des producteurs des marchés est donnée par la Ville.
+
+### Passe autonome du 19 octobre 2026, quatrième de la journée (Seine-Maritime (76) descente close, Bouches-du-Rhône (13) visé, La Ciotat relue) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (règle 177). Tête : Nord (59) 5,36, fermé par la règle 247 ; Haute-Garonne (31) 5,33, visée à la passe précédente, exclue par la règle 41.c ; Seine-Maritime (76) 5,28, dont la descente est au terme de la borne de la règle 247 (voir ci-dessous) ; Bouches-du-Rhône (13) 5,20. **Bouches-du-Rhône retenues** au rang suivant, région différente de celle de la passe précédente (Occitanie).
+
+**Commune, règle 41.d.** Seine-Maritime, communes sans fiche par population : Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec et Yvetot ont déjà été éprouvées. Cette passe éprouve **Maromme (10 957 hab.)** puis **Déville-lès-Rouen (10 802 hab.)**, onzième et douzième communes de la descente : la borne de la règle 247 est atteinte. Le département suivant du classement est pris, avec la réserve de la règle 41.c.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, pages 0 à 900 de cent (mille opérateurs), filtré sur Maromme et Déville-lès-Rouen. Maromme : trois entrées, en négoce, en restauration collective ou en stockage, sans vente au particulier ; une entrée de distribution sans vente déclarée. Déville-lès-Rouen : une entrée de production vendue en gros, sans vente au particulier. Aucune recherche web pour ces deux communes : le registre ne donne aucun point de vente au particulier à recouper.
+- Bouches-du-Rhône, La Ciotat (38 477 hab.), relue. Registre Agence Bio : douze entrées, presque toutes des distributeurs, des grossistes ou des hypermarchés, écartées par la règle 3 ; aucune vente directe producteur ne se dégage. Marché du Port Vieux : le site de la Région Provence-Alpes-Côte d'Azur le donne le dimanche dans le texte et le samedi matin dans la rubrique « Jours » ; l'office de tourisme Destination La Ciotat place le marché bio le samedi, de 8 h à 13 h, au Baromètre, et non au Port Vieux. Aucune source officielle de la Ville ne tranche.
+
+**Pourquoi rien n'est publié.** Maromme et Déville-lès-Rouen ne rendent aucun point de vente au particulier ; la Seine-Maritime, descente close, ne rend aucune commune à cinq fiches. À La Ciotat, le jour du marché de producteurs est contradictoire entre sources, et les autres entrées du registre ne sont pas de la vente directe. Une fiche isolée ne forme pas une zone (règle 52).
+
+**Pistes non publiées** (anonymes) :
+- Maromme et Déville-lès-Rouen : aucun point de vente au particulier au registre, aucune source locale lue ; reprendre seulement si une source publie un producteur ou un marché sur place.
+- La Ciotat, marché de producteurs du Port Vieux : jour contradictoire (dimanche ou samedi) entre le site régional et l'office de tourisme, aucune source officielle de la Ville ; reprendre si la Ville ou l'office de tourisme tranche.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône exclues (règle 41.c), puisque visées cette passe. Haute-Garonne (31, 5,33) redevient éligible, la passe précédente ayant visé la Provence. Ensuite Isère (38, 5,01), puis Haut-Rhin (68, 4,84). Seine-Maritime : descente close au titre de la règle 247 ; ne se rouvre qu'avec un déblocage nommé dans les pistes. La Ciotat reprend si la Ville tranche le jour du marché du Port Vieux.
