@@ -39764,3 +39764,15 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Montivilliers, Le Petit-Quevilly et Dieppe, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) toujours exclue si elle reste en tête ; Seine-Maritime à reprendre à Montivilliers (recoupement de La Vie Claire et de l'épicerie vrac) ou à Saint-Vaast-Dieppedalle si une source de vente directe apparaît. Nord (59) : descente close (règle 247) jusqu'à nouvelle source.
+
+### Passe autonome du 19 octobre 2026, douzième de la journée (Haute-Garonne (31) sondée à nouveau, registre bio relu) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches. Classement : Nord (59) 5,4, descente close (règle 247) ; Haute-Garonne (31) 5,3, la passe précédente ne la visait plus ; Bouches-du-Rhône (13) 5,2 ; Seine-Maritime (76) 5,3, visée la passe précédente, exclue par la règle 41.c.
+
+**Commune, règle 41.d.** Haute-Garonne : la commune la plus peuplée sans fiche reste Blagnac (27 604 hab.), déjà descendue à plusieurs reprises. Le registre Agence Bio du 31, première page (100 opérateurs), ne donne que des entrées dont les communes sont déjà sondées dans ce README (Toulouse, Muret, Balma, Saint-Gaudens, L'Union, Fonsorbes, Seysses, Auterive, Portet-sur-Garonne, Plaisance-du-Touch, etc.). Aucune commune nouvelle ne rend cinq fiches vérifiables.
+
+**Pourquoi rien n'est publié.** Le département est épuisé au sens de la règle 247 : au-delà des douze communes déjà éprouvées, les pistes restantes sont des enseignes de réseau, des entrées au nom de personnes (écartées pour doute, non nommées) ou des adresses sans horaires vérifiables. Aucune fiche n'a été ajoutée ; `data/marchands.json` est inchangé.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13), commune la plus peuplée sans fiche à relire (Aubagne et La Ciotat déjà sondées). Haute-Garonne et Nord restent fermés jusqu'à nouvelle source.
