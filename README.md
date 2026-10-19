@@ -39776,3 +39776,29 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Pourquoi rien n'est publié.** Le département est épuisé au sens de la règle 247 : au-delà des douze communes déjà éprouvées, les pistes restantes sont des enseignes de réseau, des entrées au nom de personnes (écartées pour doute, non nommées) ou des adresses sans horaires vérifiables. Aucune fiche n'a été ajoutée ; `data/marchands.json` est inchangé.
 
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13), commune la plus peuplée sans fiche à relire (Aubagne et La Ciotat déjà sondées). Haute-Garonne et Nord restent fermés jusqu'à nouvelle source.
+
+### Passe autonome du 19 octobre 2026, treizième de la journée (Bouches-du-Rhône (13) visée, Istres et Salon-de-Provence sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole, 1 274 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus). Classement : Nord (59) 5,4, descente close (règle 247) ; Haute-Garonne (31) 5,3, close (règle 247) et visée la passe précédente ; Seine-Maritime (76) 5,3, visée il y a deux passes ; **Bouches-du-Rhône (13) 5,2, retenue** : sa région (93) diffère de celle de la passe précédente (Occitanie, 76).
+
+**Commune, règle 41.d.** Aubagne et La Ciotat sont déjà sondées ; la descente reprend à **Istres** (44 292 hab., aucune fiche), puis Salon-de-Provence.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bouches-du-Rhône, mille deux cents opérateurs lus. Istres et Salon-de-Provence (et leurs environs immédiats : Entressen, Lançon-Provence, Mouriès, Eyguières) rendent une vingtaine d'entrées de vente aux consommateurs. Une majorité porte le nom d'une personne physique ou d'un exploitant : écartées pour doute sur une personne (règle 1), non nommées.
+- Enseignes sans nom de personne : une enseigne bio à Lançon-Provence, une à Châteauneuf-les-Martigues, une à Entressen-Istres, une à Salon-de-Provence, un réseau de grande surface (écarté, règle 3). Recherche web sur les quatre premières : aucune page de vente directe, ni horaires, ni site vérifiables. Une enseigne de Lançon-Provence renvoie à un magasin homonyme en Corse, écarté.
+- Un maraîcher de Salon-de-Provence et un producteur de Mallemort figurent au registre sous un nom de société sans enseigne publique trouvée ; ils n'ont ni site ni horaires de vente relevés.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq fiches entières et vérifiées. Les enseignes identifiées n'ont pas de source indépendante qui confirme leur vente au public ni leurs horaires (règles 5 et 6), et le reste relève de personnes physiques. Un groupe de cinq ne se complète pas avec des pistes de cette qualité (règle 52).
+
+**Pistes non publiées** (anonymes) :
+- Lançon-Provence, enseigne bio (registre actif) : horaires et vente directe à confirmer par une source du commerce.
+- Châteauneuf-les-Martigues, enseigne bio : aucune page de vente trouvée ; entité à recouper au registre des entreprises.
+- Entressen, enseigne bio : vente aux consommateurs au registre, site et horaires introuvables.
+- Salon-de-Provence, enseigne bio (magasin) : registre actif, horaires à confirmer.
+- Mallemort et Salon-de-Provence, maraîchage en vente directe : sans site ni horaires vérifiés.
+
+**Fiches écartées pour doute sur une personne** : une vingtaine d'entrées de vente aux particuliers à Istres, Salon-de-Provence et dans leurs environs, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclue si elle est visée à nouveau (règle 41.c). Reprendre Istres (recoupement des enseignes bio au registre des entreprises) ; si la descente atteint douze communes sans succès, Bouches-du-Rhône se ferme (règle 247). Le classement suivant hors région 93 et 76 est l'Isère (38), puis le Haut-Rhin (68).
