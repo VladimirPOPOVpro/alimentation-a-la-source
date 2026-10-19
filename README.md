@@ -39556,3 +39556,26 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : quatre à Bourgoin-Jallieu, non nommées.
 
 **Point d'arrêt.** Passe suivante : l'Isère est exclue (règle 41.c, si cette passe est bien la passe précédente). La Haute-Garonne, dont la visite de la veille était une autre passe, reste éligible à son rang, sous réserve de la règle 41.c. La descente de l'Isère reprend à Bourgoin-Jallieu lorsque d'autres fiches la rendent publiable, puis à Fontaine (22 000 hab.) et Voiron (21 800 hab.), à lire dans le registre Agence Bio d'abord.
+
+### Passe autonome du 19 octobre 2026, troisième de la journée (Haute-Garonne (31) visée, Blagnac relue au registre) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (départements 97x et 98x exclus, règle 177). Tête : Nord (59) 5,36, fermé par la règle 247 ; **Haute-Garonne (31) 5,33 retenue**, car la passe précédente visait l'Isère (38), donc la règle 41.c ne l'exclut pas. Seine-Maritime (76) 5,28, Bouches-du-Rhône (13) 5,20, Isère (38) 5,01 exclue.
+
+**Commune, règle 41.d.** Haute-Garonne, communes les plus peuplées sans fiche : **Blagnac (27 604 hab.)**, puis Muret (26 079), Plaisance-du-Touch (21 079), Balma (17 772), Castanet-Tolosan (15 317), Ramonville-Saint-Agne (15 158). Blagnac est donc reprise en priorité.
+
+**Ce qui a été lu cette passe.**
+- Registre Agence Bio, Haute-Garonne, pagination complète (2 837 opérateurs), filtre sur les communes de la liste ci-dessus. Pour Blagnac : une entrée de boulangerie artisanale au point de vente, enregistrée sous son enseigne (transformation sur place, vente au comptoir) ; les autres entrées relèvent du négoce, de la préparation ou ne vendent pas au particulier. Pour Balma : une entrée de cave à vocation de négoce, hors sujet selon la règle 3, et une entrée de Pin-Balma, hors commune. Les entrées de vente aux particuliers portant le nom d'une personne (Ramonville, Fonsorbes, Plaisance-du-Touch, Muret, Colomiers) sont écartées pour doute sur une personne, non nommées.
+- Blagnac : les marchés déjà relevés aux passes précédentes (samedi matin, mercredi après-midi) n'ont toujours pas de liste de producteurs attestée par une source officielle.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend qu'une seule entrée de vente au détail, la boulangerie, qui ne relève d'aucune catégorie visée ni d'une source de producteur indépendante : la règle 4 la rattacherait à `producteur`, mais elle n'a pas de site vérifié ni de production locale établie. Balma et les autres communes ne rendent aucun commerce vérifiable. Cinq fiches ne sont pas réunies ; le groupe ne se complète pas.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, boulangerie artisanale avec vente au comptoir (registre seul, pas de site vérifié) : publiable seulement si une source propre à l'établissement confirme horaires, adresse et transformation sur place, et si la règle 4 est acceptée pour cette catégorie de commerce.
+- Blagnac, marchés du samedi matin et du mercredi après-midi : toujours sans liste de producteurs attestée.
+- Balma : aucune source de vente directe lue ; cave en négoce, écartée (règle 3).
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Haute-Garonne (Ramonville-Saint-Agne, Fonsorbes, Plaisance-du-Touch, Muret, Colomiers), non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne exclue si elle est visée à nouveau (règle 41.c). Le classement suivant ouvert est la Seine-Maritime (76, descente éprouvée sur neuf communes), puis les Bouches-du-Rhône (13). Reprendre Blagnac seulement si une source propre à la boulangerie ou la liste des producteurs des marchés est donnée par la Ville.
