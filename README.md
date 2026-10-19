@@ -39850,3 +39850,21 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : quelques entrées de vente aux particuliers à Vitrolles et La Ciotat, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclu si visé à nouveau (règle 41.c) ; Vitrolles reprendra si la mairie atteste un marché de producteurs ; sinon le classement suivant hors région 84 et 93 est le Haut-Rhin (68).
+
+### Passe autonome du 19 octobre 2026, seizième de la journée (Landes (40) sondée au registre, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr`. Classement : Nord (59) 5,4 et Haute-Garonne (31) 5,3 et Seine-Maritime (76) 5,3 fermés par la règle 247 ; Bouches-du-Rhône (13) exclu, visé la passe précédente (règle 41.c) ; Isère (38) 5,0, descente déjà éprouvée (pass 14, règle 247 : les communes éprouvées ne se rouvrent pas) ; **Landes (40) retenue** : 0,66 % de la population, 4 fiches, déficit 4,35, et la région 75 diffère de la région 93 de la veille. Haut-Rhin (68) écarté : sa descente (Mulhouse, Colmar, Saint-Louis, Wittenheim, et une dizaine de communes suivantes) est déjà éprouvée.
+
+**Commune, règle 41.d.** Landes : Mont-de-Marsan porte déjà des fiches. La plus peuplée restante sans fiche est **Dax (22 109 hab.)**, déjà consignée dans les pistes de passes précédentes.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Landes, première page (100 opérateurs) : pour Dax et Saint-Paul-lès-Dax, la majorité des entrées portent le nom d'une personne physique (écartées pour doute sur une personne, règle 1, non nommées) ; quelques entrées de distribution, de restauration ou de négoce sans vente au public. Aucune entrée de producteur à Dax confirmée par une source actuelle.
+- Aucune recherche web complémentaire n'a été conduite sur les producteurs de Dax : le registre ne fournit pas de candidat vérifiable, et chaque piste exigerait une passe entière d'enquête.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Dax (règles 6 et 1) ; une fiche isolée ne forme pas une zone (règle 52). La passe s'arrête là (règle 248).
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Dax et Saint-Paul-lès-Dax, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Nord, Haute-Garonne et Seine-Maritime restent fermés (règle 247). Isère reste éprouvée. Bouches-du-Rhône redevient éligible. Landes reprendra à Dax si une source de producteur ou de marché apparaît, sinon au Pays basque ou dans les Pyrénées-Atlantiques (64) au classement suivant.
