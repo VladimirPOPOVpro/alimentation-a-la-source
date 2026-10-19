@@ -39712,3 +39712,30 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Bouches-du-Rhône, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclue (règle 41.c), visée cette passe. Le classement suivant est l'Isère (38), puis le Haut-Rhin (68). Si la passe suivante vise l'Isère, la descente reprend à Istres (44 292 hab., aucune fiche), puis Salon-de-Provence.
+
+### Passe autonome du 19 octobre 2026, dixième de la journée (Haute-Garonne (31) visée, Blagnac et Muret relues, Balma restée ouverte) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus, règle 177). Tête du classement : Nord (59) 5,4, descente close (règle 247) ; Haute-Garonne (31) 5,3, **retenue** : la réserve de la règle 41.c ne vise que la région de la passe précédente (Bouches-du-Rhône, région 93), et Haute-Garonne n'est pas la région 93. Une première lecture du classement, sans relire les passes précédentes, avait pris le Nord ; la règle 247 le ferme, la passe a donc été reprise à la Haute-Garonne avant toute recherche.
+
+**Commune, règle 41.d.** Descente reprise à **Blagnac** (27 604 hab.), première commune sans fiche de la liste, puis Muret (26 079 hab.).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, 2 837 opérateurs lus en totalité, filtre sur les communes de la descente.
+- Blagnac : une enseigne Biocoop (magasin spécialisé, rue Henri-Matisse) inscrite au registre bio ; adresse et téléphone repris d'un répertoire tiers, horaires d'un seul agrégateur de stationnement. Une recherche par nom au registre des entreprises ne retrouve pas d'entité sous « Bio Blagnac » : la règle 6 suspend la fiche tant que le numéro SIRET de l'Agence Bio n'est pas recoupé. Une jardinerie (Les Jardins du Grand Noble) est inscrite au registre comme fermée (0 établissement ouvert) : écartée, règle 6. Un atelier de boulangerie de la Vieille Montagne a son siège à Toulouse, hors périmètre de la carte. Les entrées du GAEC du chemin des Ortalans et des Maraîchers des Quinze Sols reprennent des passes antérieures : existence confirmée, horaires de vente toujours introuvables.
+- Muret : deux magasins bio à enseigne (un Biocoop du boulevard de Joffrery, une boutique bio de la rue Pierre-Fermat), inscrits au registre bio, non recoupés au registre des entreprises ; un fournil bio et deux producteurs en vente directe, sans site ni horaires vérifiés.
+- Entrées de vente aux particuliers portant le nom d'une personne physique : écartées pour doute sur une personne (règle 1), non nommées.
+
+**Pourquoi rien n'est publié.** Blagnac et Muret ne rendent chacune aucune fiche entière : au plus une enseigne dont l'entité active reste à recouper, et des producteurs sans horaires de vente. Un groupe de cinq ne se complète pas avec des pistes de cette qualité (règle 52). La descente ne passe donc pas à Balma faute de temps de lecture dans cette passe ; elle reprend là où elle s'arrête.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, Biocoop (rue Henri-Matisse) : enseigne de réseau, adresse vérifiée, horaires d'un seul agrégateur, entité au registre des entreprises à recouper par SIRET avant toute fiche.
+- Blagnac, GAEC du chemin des Ortalans et Maraîchers des Quinze Sols : existence confirmée, horaires de vente et téléphone introuvables.
+- Blagnac, L'Arche en Pays Toulousain : déjà en piste, nature de la vente non établie.
+- Muret, Biocoop (boulevard de Joffrery) et boutique bio (rue Pierre-Fermat) : registre bio actif, entités au registre des entreprises à recouper.
+- Muret, fournil bio (impasse Saint-Éloi) et producteurs en vente directe : sans site ni horaires vérifiés.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Blagnac et à Muret, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) exclue si elle est visée à nouveau (règle 41.c). Recouper par SIRET les deux Biocoop (Blagnac et Muret) et les deux boutiques bio de Muret au registre des entreprises ; reprendre Plaisance-du-Touch (21 079 hab.) ensuite, puis Balma (17 772 hab.), jamais sondée à fond. Le classement suivant est l'Isère (38), puis le Haut-Rhin (68).
