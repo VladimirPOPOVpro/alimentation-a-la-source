@@ -39687,3 +39687,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : quatre entrées de Blagnac, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) exclue (règle 41.c, visée cette passe). Reprendre le classement de la règle 41 hors 31 et hors région 76 ; si le département en tête est Haut-Rhin (68), descendre à sa commune la plus peuplée sans fiche.
+
+### Passe autonome du 19 octobre 2026, neuvième de la journée (Bouches-du-Rhône (13) visée, Aubagne sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole, 1 274 fiches. Haute-Garonne (31) exclue, visée à la passe précédente (règle 41.c) ; Nord (59) et Seine-Maritime (76) descentes closes (règle 247). **Bouches-du-Rhône (13) retenues** (5,2), région différente de la précédente.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 13 sans fiche : **Aubagne** (47 529 hab.). Marseille, Aix-en-Provence, Arles et Martigues ont déjà des fiches ou des pistes.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bouches-du-Rhône, pages de cent opérateurs (paramètres `debut` 0 à 900). Une dizaine d'entrées de vente aux particuliers à Aubagne ; la plupart portent le nom d'une personne physique, écartées pour doute sur une personne et non nommées. Une entrée cessée (négoce, siège hors région) écartée.
+- Recherche web et office de tourisme du Pays d'Aubagne : quatre candidats commerciaux et un marché.
+- Registre des entreprises (`recherche-entreprises`) : Satoriz Aubagne, établissement actif. Coopérative du Garlaban et Chez les Producteurs : aucune entité trouvée sous ces noms. Géocodage BAN lu pour les adresses connues.
+
+**Pourquoi rien n'est publié.** Une seule enseigne active au registre (Satoriz, magasin bio du réseau, horaires non confirmés par une source propre). Les deux autres commerces de vente directe n'ont pas d'entité active trouvée (règle 6). Le marché du cours Voltaire est exempt de la règle 6, mais ses jours et horaires sont contradictoires entre sources et aucune page officielle de la Ville n'a été lue. Cinq fiches ne sont pas réunies dans Aubagne ; une fiche isolée ne forme pas une zone (règle 52).
+
+**Pistes non publiées** (anonymes) :
+- Aubagne, Satoriz (magasin bio, registre actif, horaires à confirmer par une source propre) : candidat, insuffisant seul.
+- Aubagne, Coopérative du Garlaban (boutique bio citée par l'office de tourisme) : aucune entité active retrouvée au registre (règle 6) ; reprendre si une entité active est identifiée.
+- Aubagne, Chez les Producteurs (point de vente collectif de producteurs, règle 8) : aucune entité active retrouvée au registre (règle 6) ; reprendre si une entité active est identifiée.
+- Aubagne, marchés du cours Voltaire : jours et horaires contradictoires ; reprendre si la Ville tranche.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Bouches-du-Rhône, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclue (règle 41.c), visée cette passe. Le classement suivant est l'Isère (38), puis le Haut-Rhin (68). Si la passe suivante vise l'Isère, la descente reprend à Istres (44 292 hab., aucune fiche), puis Salon-de-Provence.
