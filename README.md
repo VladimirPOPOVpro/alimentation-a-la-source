@@ -39739,3 +39739,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Blagnac et à Muret, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) exclue si elle est visée à nouveau (règle 41.c). Recouper par SIRET les deux Biocoop (Blagnac et Muret) et les deux boutiques bio de Muret au registre des entreprises ; reprendre Plaisance-du-Touch (21 079 hab.) ensuite, puis Balma (17 772 hab.), jamais sondée à fond. Le classement suivant est l'Isère (38), puis le Haut-Rhin (68).
+
+### Passe autonome du 19 octobre 2026, onzième de la journée (Nord (59) close par la règle 247, Haute-Garonne (31) exclue par la règle 41.c, Seine-Maritime (76) sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (nom de personne en enseigne possible : rien n'est publié, aucun message envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus). Classement : Nord (59) 5,4, descente close la passe précédente (règle 247) ; Haute-Garonne (31) 5,3, exclue (visée la passe précédente, règle 41.c) ; Seine-Maritime (76) 5,3, **retenue**.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée de la Seine-Maritime sans fiche. Registre Agence Bio du 76 relu (1 006 opérateurs, filtre sur les communes de la descente) : à Dieppe, une seule entrée de vente aux consommateurs, une boulangerie-biscuiterie qui n'entre pas dans les catégories. Le Petit-Quevilly et Montivilliers sont sondées ; Fécamp et Elbeuf ne donnent rien de plus.
+
+**Ce qui a été lu.**
+- Montivilliers : un magasin de l'enseigne La Vie Claire (magasin spécialisé, règle 3) ; une épicerie vrac, adresse à confirmer, site et horaires non lus cette passe ; une exploitation en vente directe et plusieurs entrées portant le nom d'une personne physique (écartées pour doute sur une personne, non nommées).
+- Saint-Vaast-Dieppedalle : un GAEC mixte en vente aux consommateurs, sans site ni horaires relevés cette passe.
+- Le Petit-Quevilly : un magasin de réseau de grande surface (écarté, règle 3) et une entrée au nom de personne (écartée).
+- Dieppe, Fécamp et Elbeuf : grandes surfaces, boulangeries de réseau, ou pistes déjà éprouvées sans source nouvelle.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq fiches entières et vérifiées : au mieux une enseigne de réseau et une exploitation sans horaires. Un groupe de cinq ne se complète pas avec des pistes de cette qualité (règle 52). Cette passe n'a pas relu les sites officiels des communes, qui ont répondu lors des passes précédentes sans marché publié.
+
+**Pistes non publiées** (anonymes) :
+- Montivilliers, La Vie Claire : enseigne de réseau, entité et horaires à recouper.
+- Montivilliers, épicerie vrac : adresse et nature de la vente à confirmer.
+- Saint-Vaast-Dieppedalle, GAEC mixte : vente aux consommateurs au registre, site et horaires introuvables.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers à Montivilliers, Le Petit-Quevilly et Dieppe, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) toujours exclue si elle reste en tête ; Seine-Maritime à reprendre à Montivilliers (recoupement de La Vie Claire et de l'épicerie vrac) ou à Saint-Vaast-Dieppedalle si une source de vente directe apparaît. Nord (59) : descente close (règle 247) jusqu'à nouvelle source.
