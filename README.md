@@ -39641,3 +39641,28 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Haute-Garonne, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Isère (38) visée (le 31 ne peut pas l'être deux passes de suite). Reprendre le classement de la règle 41 depuis son premier rang ; si le 38 reste en tête, descendre à la commune la plus peuplée sans fiche en Isère.
+
+### Passe autonome du 19 octobre 2026, septième de la journée (Isère (38) visée, descente à Vienne puis Fontaine) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr`. Tête : Nord (59) 5,4, descente close (règle 247) ; Haute-Garonne (31) 5,3, visée à la passe précédente, exclue par la réserve (règle 41.c) ; Seine-Maritime (76) 5,3, descente close (règle 247) ; Bouches-du-Rhône (13) 5,2, visée il y a trois passes, éligible. **Isère (38) retenue** : rang suivant la descente à Bouches-du-Rhône, au même niveau de déficit (5,0), région différente de celle de la passe précédente (Occitanie), et « point d'arrêt » de la passe précédente.
+
+**Commune, règle 41.d.** Isère, communes les plus peuplées sans fiche : **Vienne** (31 778 hab.), puis Fontaine (22 020 hab.).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère, première tranche (mille opérateurs). Vienne : trois entrées de vente au particulier, toutes de préparation (boulangerie, poissonnerie fumée) hors circuit court au sens du site ; aucune vente directe producteur.
+- Vienne, Le Panier Enchanté (magasin de producteurs cité par un annuaire grand public, avenue Marcellin Berthelot) : le registre des entreprises ne donne qu'une entité de même nom, à état « cessée » et zéro établissement ouvert. La règle 6 écarte la fiche.
+- Vienne, grand marché du samedi (6 h à 13 h, source office de tourisme) : marché communal, donc exempt de la règle 6, mais une fiche isolée ne forme pas une zone (règle 52), et la commune ne rend pas cinq commerces vérifiables.
+- Fontaine : dans la tranche lue, seul un supermarché de proximité vend au particulier ; écarté (règle 3).
+
+**Pourquoi rien n'est publié.** Vienne ne rend qu'un marché communal et un magasin dont l'entité au registre est fermée ; Fontaine ne rend qu'une grande surface. Une fiche isolée ne forme pas une zone, et le groupe de cinq n'est pas atteint dans la descente.
+
+**Pistes non publiées** (anonymes) :
+- Vienne, marché du samedi : fiche « marché » possible, dès qu'une deuxième source locale et quatre autres commerces vérifiables forment la zone (règle 52).
+- Vienne, Le Panier Enchanté : enseigne au registre cessée, zéro établissement ouvert ; ne revient que si une entité active est retrouvée sous ce nom ou à cette adresse.
+- Isère, registre au-delà de la première tranche (mille opérateurs) : pages suivantes non lues cette passe.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Isère, exploitants individuels, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c) ; Bouches-du-Rhône redevient éligible en premier rang de la descente, puis Haut-Rhin (68). Reprendre la lecture du registre Isère à partir du mille-et-unième opérateur.
