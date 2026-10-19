@@ -39601,3 +39601,25 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône exclues (règle 41.c), puisque visées cette passe. Haute-Garonne (31, 5,33) redevient éligible, la passe précédente ayant visé la Provence. Ensuite Isère (38, 5,01), puis Haut-Rhin (68, 4,84). Seine-Maritime : descente close au titre de la règle 247 ; ne se rouvre qu'avec un déblocage nommé dans les pistes. La Ciotat reprend si la Ville tranche le jour du marché du Port Vieux.
+
+### Passe autonome du 19 octobre 2026, cinquième de la journée (Haute-Garonne (31) relue, descente à Blagnac reprise) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : le contact privé joint porte un nom de personne, doute sur une personne, rien n'est publié et aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 274 fiches, populations `geo.api.gouv.fr` (départements 97x et 98x exclus, règle 177). Tête : Nord (59) 5,4, descente close au titre de la règle 247 ; Haute-Garonne (31) 5,3, visée deux passes plus tôt, donc éligible (règle 41.c) ; Seine-Maritime (76) 5,3, descente close (règle 247) ; Bouches-du-Rhône (13) 5,2, visée à la passe précédente, exclue par la règle 41.c. **Haute-Garonne (31) retenue.**
+
+**Commune, règle 41.d.** Descente reprise à **Blagnac** (27 604 hab.), première commune sans fiche de la liste, puis Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, **première tranche seulement** (les mille premiers opérateurs sur 2 837, paramètre `nb=1000`) ; les pages suivantes n'ont pas été lues cette passe, et la lecture reste donc incomplète. Dans cette tranche, les communes de la descente n'ouvrent que : des entrées de négoce, de grossiste ou de préparation (Blagnac, Muret, Balma, Castanet-Tolosan) ; des entrées de vente aux particuliers portant le nom d'une personne (exploitants individuels), écartées pour doute sur une personne, non nommées ; une entrée de restauration et de boulangerie hors sujet.
+- Aucune recherche web ni consultation de site officiel de commune cette passe : sans candidat vérifiable au registre, il n'y avait rien à recouper.
+
+**Pourquoi rien n'est publié.** Aucun commerce de la descente n'a été retenu : les entrées de vente au particulier relèvent de personnes, les autres ne vendent pas au détail. Une fiche isolée ne forme pas une zone (règle 52), et l'on ne complète pas un groupe de cinq avec des adresses situées ailleurs.
+
+**Pistes non publiées** (anonymes) :
+- Haute-Garonne, descente : les pages du registre au-delà de la première tranche (mille opérateurs sur 2 837) restent à lire ; elles peuvent contenir des vendeurs directs hors des communes déjà parcourues.
+- Blagnac, marchés du samedi matin et du mercredi après-midi : toujours sans liste de producteurs attestée par une source officielle.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente au particulier en Haute-Garonne, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne exclue si elle est visée à nouveau (règle 41.c). Reprendre la lecture du registre à partir du mille-et-unième opérateur, puis la descente à Muret si une fiche se dégage. Le classement suivant est l'Isère (38) ; Bouches-du-Rhône redevient éligible.
