@@ -39948,3 +39948,23 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : une exploitation d'Istres dont l'enseigne est un nom patronymique, non nommée, ne se rouvre pas ; plusieurs entrées particuliers du registre Agence Bio à Istres et Entressen, non nommées.
 
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) reste la première région éligible au classement, mais la descente est près du seuil de la règle 247 (Aubagne, La Ciotat, Vitrolles, Istres et Salon déjà sondées). Istres reprend d'abord, avec le site de la Ville et l'enseigne bio ; si la descente atteint douze communes sans succès, le 13 se ferme. Le Nord (59) redevient éligible à la passe suivante (règle 41.c), mais reste sous la règle 247. Ille-et-Vilaine (35), 4,66, est le premier rang ouvert hors de ces trois départements.
+
+### Passe autonome du 19 octobre 2026 (Ille-et-Vilaine (35) visée, Vitré sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` n'est pas reprise (doute sur une personne en enseigne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule. La passe précédente (dix-neuvième) visait les Bouches-du-Rhône (13, région 93) : cette région est exclue par la réserve 41.c. Ille-et-Vilaine (35), en tête du classement hors région 93, est visé ; la descente de Fougères est close (règle 247 : une seule fiche entière vérifiable, rien ne se publie seul).
+
+**Commune, règle 41.d.** Vitré (19 365 habitants) est la commune suivante sans fiche, en descente de Fougères.
+
+**Ce qui a été lu.** Recherche web sur les marchés et la vente directe à Vitré. Un marché hebdomadaire est annoncé par un annuaire sans jour précisé ; les « Jeudis de l'Été » de l'office de tourisme sont des événements saisonniers, sans fiche de commerce. Aucun magasin de producteurs ni ferme en vente directe identifié à Vitré par une source indépendante. La seule enseigne locale trouvée est une boutique en ligne avec points de retrait (Panier des Prés, Vitré), qui n'est pas un point de vente physique au sens de la carte.
+
+**Pourquoi rien n'est publié.** Aucune fiche entière vérifiable à Vitré ; la zone à cinq fiches n'est pas atteinte, et rien ne se publie seul (règle 127).
+
+**Pistes non publiées** (anonymes) :
+- Vitré, marché hebdomadaire : jour et emplacement non confirmés par la Ville ni par l'office de tourisme. Déblocage : une page datée du site de la Ville.
+- Vitré, boutique en ligne avec points de retrait (Panier des Prés) : pas un point de vente physique. Rien publié.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Ille-et-Vilaine (35) ne revient pas (règle 41.c). Le classement reprend au rang suivant hors des régions 93 et 32 (Nord, passe précédente de la série) selon la formule. Fougères et Vitré restent à reprendre si une source nouvelle apparaît.
