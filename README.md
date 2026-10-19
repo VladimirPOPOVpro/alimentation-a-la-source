@@ -39968,3 +39968,27 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Ille-et-Vilaine (35) ne revient pas (règle 41.c). Le classement reprend au rang suivant hors des régions 93 et 32 (Nord, passe précédente de la série) selon la formule. Fougères et Vitré restent à reprendre si une source nouvelle apparaît.
+
+### Passe autonome du 19 octobre 2026 (Bouches-du-Rhône (13) reprise à Istres, rien ne se publie) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne en enseigne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus, règle 177). Nord (59) 5,56 : descente close (règle 247) jusqu'à une source nouvelle. Haute-Garonne (31) 5,44 : département épuisé (règle 247, passe de la douzième). Seine-Maritime (76) 5,37 : descente close. Bouches-du-Rhône (13) 5,35 : **retenue** pour reprendre le point d'arrêt de la dix-neuvième passe ; la région 53 de la passe précédente (Ille-et-Vilaine) ne l'exclut pas.
+
+**Commune, règle 41.d.** Istres (44 292 hab.), la plus peuplée restante du 13 sans fiche après Aubagne, La Ciotat, Vitrolles et Salon-de-Provence déjà sondées.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville d'Istres, rubrique « Marchés publics » et pages d'accueil : aucun marché de producteurs ni liste de commerces. Le site de la Ville ne publie pas le marché du mardi ; seule la rubrique « Commerce » du menu renvoie vers l'office de tourisme, non lue cette passe.
+- Le marché du mardi matin reste attesté par l'office de tourisme seul, sans jour confirmé par la Ville.
+- Registre des entreprises : des établissements actifs à Istres, dont une exploitation en vente sur commande et une enseigne bio à plusieurs magasins sans numéro de voirie au point istréen. Aucun site ni horaire vérifiable pour l'une ni pour l'autre.
+
+**Pourquoi rien n'est publié.** Une seule source officielle partielle pour une seule fiche plausible ; une fiche isolée n'est pas une zone (règle 52). La règle 248 s'applique : la passe ne publie rien et consigne son criblage.
+
+**Pistes non publiées** (anonymes) :
+- Istres, marché du mardi matin : toujours non confirmé par la Ville ; déblocage : une page datée du site de la Ville ou de l'office de tourisme.
+- Istres, exploitation en vente sur commande : registre actif, pas de site ni d'horaire fiable.
+- Istres, enseigne bio à plusieurs magasins : point à trouver (règle 10), horaires à lire sur le site de l'enseigne.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées de vente aux particuliers au registre Agence Bio à Istres, non nommées, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Bouches-du-Rhône (13) ne revient pas (règle 41.c). Le classement reprend hors des régions 93 et 32 ; Nord, Haute-Garonne et Seine-Maritime restent fermés (règle 247) jusqu'à une source nouvelle. Istres reste à reprendre si la Ville publie son marché.
