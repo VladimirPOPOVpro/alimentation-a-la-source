@@ -40014,3 +40014,31 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 **Point d'arrêt.** Passe suivante : Ille-et-Vilaine (35) ne revient pas (règle 41.c). Le classement reprend au premier département éligible hors Bretagne, Pyrénées-Atlantiques (64, Nouvelle-Aquitaine) étant le candidat suivant si la formule le désigne. Biarritz reste bloquée tant qu'aucune photo honnête n'existe.
 
 **Constat de méthode.** Passe sans fiche publiée. Le verrou reste la photo : les sources d'images libres sont bloquées depuis cet environnement, et les images des sites de communes montrent souvent des personnes.
+
+### Passe autonome du 20 octobre 2026 (Pyrénées-Atlantiques (64) visé, Biarritz bloquée, Hendaye et Saint-Jean-de-Luz sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Rien à traiter côté demandes.
+
+**Secteur, règle 41.** Métropole seule (règles 93 et 177), 1 279 fiches, populations `geo.api.gouv.fr`. Tête du classement hors Bretagne (règle 41.c, Ille-et-Vilaine visée la passe précédente) : Pyrénées-Atlantiques (64), déficit ≈ 4,1, 9 fiches publiées dans le département.
+
+**Commune, règle 41.d.** Pau, Bayonne et Anglet portent déjà des fiches. Biarritz (26 206 hab.) est la plus peuplée sans fiche :
+- les horaires des halles et des marchés Saint-Martin et Saint-Charles restent lus sur les sources de la Ville (passes précédentes) ;
+- le bandeau « marché » publié sur le site de la Ville (1 920 × 540 px) montre des personnes reconnaissables : écarté (règle 1, doute sur une personne). Aucune autre photo thématique honnête n'a été trouvée.
+- Biarritz n'est donc pas publiable cette passe.
+
+Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
+- Hendaye : aucun marché hebdomadaire couvert confirmé par une source officielle. Le site de la Ville n'était pas joignable depuis cet environnement. Les seules sources sont des agendas d'événements (marché nocturne d'été, Rendez-Vous du Palmier, Jeudis du Port) : hors critère, puisque ce sont des animations saisonnières.
+- Saint-Jean-de-Luz : les Halles sont le marché de producteurs, mais les horaires diffèrent selon les agendas (matin quotidien, ou samedi 8 h à 13 h) et le site de la Ville n'était pas joignable. Une seule source de fait contradictoire : rien ne se publie sur un horaire contesté.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq fiches vérifiables avec deux sources officielles lisibles. Une fiche isolée n'est pas une zone (règle 52), et rien ne se publie seul.
+
+**Pistes non publiées** (anonymes) :
+- Biarritz, halles et marchés (horaires officiels, produits non détaillés) : déblocage, une photo sans personne reconnaissable, 700 px ou plus.
+- Hendaye, marché hebdomadaire : déblocage, une réponse officielle de la Ville ou de l'office de tourisme sur le jour et le lieu.
+- Saint-Jean-de-Luz, Halles : déblocage, une source officielle datée qui tranche les horaires.
+
+**Fiches écartées pour doute sur une personne** : une image (Biarritz, bandeau de la Ville), aucune fiche.
+
+**Point d'arrêt.** Passe suivante : Pyrénées-Atlantiques (64) exclu si visé à nouveau (règle 41.c). Le classement reprend au premier département hors Nouvelle-Aquitaine (région 75) ; Biarritz se rouvre si une photo honnête existe ; Hendaye et Saint-Jean-de-Luz se rouvrent si la Ville répond.
+
+**Constat de méthode.** Passe sans fiche publiée. Les sites officiels de Hendaye et de Saint-Jean-de-Luz ne répondaient pas depuis cet environnement ; sans eux, aucune commune de la descente ne tient le critère de deux sources.
