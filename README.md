@@ -40275,3 +40275,21 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée : aucune des communes sondées ne rend cinq commerces vérifiables. Descente à la commune suivante (Castanet-Tolosan, 15 317 hab.) non tentée cette passe, faute de source solide pour la première.
 
 **Contradictions** (règle 5) : adresses de la mairie de Blagnac divergentes, consignées ci-dessus ; rien n'est retenu.
+
+### Passe autonome du 20 octobre 2026 (trente-cinquième) : Seine-Maritime (76) close par la règle 247, aucune publication
+
+**Demandes.** Aucune demande au statut « nouvelle ». La demande #13 reste en_cours, comme à la passe précédente : son contact est une adresse personnelle et son nom commercial est un prénom ; elle n'est pas reprise.
+
+**Secteur, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr`. Tête du classement : Seine-Maritime (76) à 4,41, puis Haute-Garonne (31) à 4,32 et Haut-Rhin (68) à 4,31. La passe précédente visait la Haute-Garonne (Occitanie) : seule cette région est exclue (règle 41.c), donc la Seine-Maritime est éligible.
+
+**Commune, règle 41.d.** Dieppe reste la plus peuplée de la Seine-Maritime sans fiche, déjà éprouvée à plusieurs passes. La descente a éprouvé douze communes sans succès : Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec, Yvetot, Maromme et Déville-lès-Rouen. La borne de la règle 247 est atteinte : le département change.
+
+**Ce qui n'a pas été fait.** Aucune nouvelle source n'a été lue cette passe. Le département suivant, le Haut-Rhin (68), a déjà été visité aux passes des 14 et 17 octobre (Saint-Louis, Rixheim, Kingersheim, Cernay, Riedisheim, Wittenheim, Illzach) sans fiche publiée ; il reste à reprendre dans une passe qui y consacrera ses sources.
+
+**Pourquoi rien n'est publié.** Aucune commune instruite cette passe ne rend cinq commerces vérifiables sur des sources indépendantes.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Contradictions** : aucune.
+
+**Point d'arrêt.** Passe suivante : Haut-Rhin (68), commune la plus peuplée encore sans fiche d'après la formule, à éprouver avec les sources de la Ville et de l'office de tourisme. Haute-Garonne (31) reste exclue tant qu'elle est la région de la passe précédente.
