@@ -40398,4 +40398,4 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 
 **Contradictions** (règle 5) : aucune retenue.
 
-**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste la région-cible si la formule la place en tête (la passe précédente était l'Haute-Garonne, donc 76 est éligible). Reprendre à Petit-Caux et Gonfreville-l'Orcher pour les communes non éprouvées ; Darnétal est à reprendre avec les produits du marché bio et les horaires de l'AMAP, pas sans eux. Les pistes de Bihorel, Caudebec-lès-Elbeuf, Port-Jérôme-sur-Seine et Grand-Couronne restent en attente de leur déblocage nommé.
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste la région-cible si la formule la place en tête (la passe précédente était la Haute-Garonne, donc 76 est éligible). Reprendre à Petit-Caux et Gonfreville-l'Orcher pour les communes non éprouvées ; Darnétal est à reprendre avec les produits du marché bio et les horaires de l'AMAP, pas sans eux. Les pistes de Bihorel, Caudebec-lès-Elbeuf, Port-Jérôme-sur-Seine et Grand-Couronne restent en attente de leur déblocage nommé.
