@@ -35312,6 +35312,18 @@ Passe du 29 septembre 2026 (cent dix-septième), première descente du 76 depuis
 Point d'arrêt : **Elbeuf**. La prochaine descente du 76 réessaie d'abord Dieppe (règle 297), puis reprend à **Canteleu** (14 402
 habitants), Bois-Guillaume ayant désormais une fiche.
 
+Passe du 20 octobre 2026 (Seine-Maritime (76) visée, Canteleu sondée) : aucune publication.
+
+- **Canteleu, « Ferme des 2 Lions »** (route de Sahurs) — le registre de l'Agence Bio la range en « distribution » avec vente aux
+  particuliers, mais la recherche web ne ramène que des programmes culturels de la Ville (concerts, spectacles, lieu associatif).
+  Aucune vente alimentaire identifiée : ne se publie pas.
+- **Canteleu, deux enseignes au registre Agence Bio** et une enseigne à nom de famille — non publiées (doute sur une personne pour
+  la dernière, règle de la section « Personnes »).
+- **Le site canteleu.fr** n'est pas celui de la Ville : c'est un annuaire commercial privé (« Site commercial privé sans lien avec le
+  site de la collectivité »). Ne lui emprunter aucune donnée. La source à utiliser est ville-canteleu.fr.
+- Point d'arrêt : Canteleu reste ouverte. Le prochain passage du 76 reprend par **Canteleu** sur ville-canteleu.fr, puis Dieppe
+  (règle 297).
+
 ### Le point important : la taille de la base n'entre pas dans l'équation
 
 Le site chargeait auparavant `data/marchands.json` en entier dans la page. À 38
