@@ -40423,3 +40423,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** Passe suivante : Nord (59) reste éligible (la région précédente est la Normandie). Wattrelos n'est pas reprise sans horaire officiel. Marcq-en-Barœul est à reprendre seulement avec le site officiel de la Ville ; Lambersart seulement avec le registre complet ou le site de la Ville. Si le Nord reste fermé, la formule désigne ensuite la Haute-Garonne (31), déficit ≈ 5,5, en tenant compte de la règle 41.c.
+
+### Passe autonome du 20 octobre 2026 (quarante-et-unième) : Haute-Garonne (31) visée, registre relu : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` n'est pas reprise (doute sur une personne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (97x et 98x exclus), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (région Hauts-de-France) : seule cette région est exclue par la règle 41.c. Haute-Garonne (31) en tête parmi les départements éligibles (déficit ≈ 4,3), devant le Haut-Rhin et les Pyrénées-Atlantiques.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Haute-Garonne, première page (100 opérateurs sur 2 837) : une part notable d'entrées sont des entreprises individuelles dont l'enseigne est un nom de personne, ou des sièges sans vente au public. Aucune commune de la descente n'a été reprise sur une source indépendante cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune n'a été vérifiée jusqu'à cinq commerces sur deux sources indépendantes ; la première page du registre ne suffit pas à constituer une zone. Aucune fiche partielle n'est publiée (règles 52, 96, 127, 248).
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre bio de la Haute-Garonne dont l'enseigne est un nom de personne, non nommées, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste éligible (région différente de la passe précédente). Reprendre par la commune la plus peuplée sans fiche (Muret, puis Plaisance-du-Touch), en parcourant les pages suivantes du registre filtrées sur ces communes, avec le site officiel de la Ville comme source principale.
