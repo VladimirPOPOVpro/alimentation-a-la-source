@@ -40027,6 +40027,20 @@ Dieppe ne rend pas cinq commerces vérifiables à ce stade. Point d'arrêt : rep
 
 **Constat de méthode.** Passe sans fiche publiée. Le verrou reste la photo : les sources d'images libres sont bloquées depuis cet environnement, et les images des sites de communes montrent souvent des personnes.
 
+### Passe autonome du 20 octobre 2026 (quarante-deuxième) : Seine-Maritime (76) visée, Canteleu et Le Petit-Quevilly sondées : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Classement, règle 41.** Outre-mer écarté (règle 177). Haute-Garonne (31) exclue : visée à la passe précédente. Seine-Maritime (76) en tête, déficit ≈ 4,4 sur 1 280 fiches.
+
+**Commune.** La plus peuplée sans fiche en Seine-Maritime est Dieppe, déjà éprouvée à plusieurs passes ; la descente a été prise ici à Canteleu et au Petit-Quevilly.
+
+**Ce qui a été lu.** Registre Agence Bio, Seine-Maritime, première page : deux opérateurs à vente aux particuliers à Canteleu et au Petit-Quevilly, non repris faute de commerce vérifiable. Recherche web : aucun marché de producteurs ni commerce vérifié à Canteleu (les annuaires renvoient à des fermes hors commune). Au Petit-Quevilly, un marché du samedi (boulevard Stanislas-Girardin) ne ressort que d'un témoignage publié sur le site de la Ville, daté d'environ 2021, et d'annuaires non datés : horaires non confirmés, insuffisant pour une fiche.
+
+**Résultat.** Aucune fiche publiée : cinq commerces vérifiables introuvables dans ces deux communes.
+
+**Point d'arrêt.** Seine-Maritime toujours en tête : passe suivante à Dieppe, si une source de commerce situé dans la commune apparaît ; sinon Fécamp. Ne pas reprendre le témoignage du Petit-Quevilly sans source officielle à jour.
+
 ### Passe autonome du 20 octobre 2026 (Pyrénées-Atlantiques (64) visé, Biarritz bloquée, Hendaye et Saint-Jean-de-Luz sondées) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Rien à traiter côté demandes.
