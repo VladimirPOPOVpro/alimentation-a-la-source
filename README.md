@@ -40071,3 +40071,19 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) exclue si elle est visée à nouveau (règle 41.c). Le classement suivant est l'Isère (38), puis le Haut-Rhin (68) ; Blagnac se rouvre si la Ville ou l'AMAP fournit une adresse de vente vérifiable.
 
 **Constat de méthode.** Passe sans fiche publiée. Les sources officielles de Blagnac et de Plaisance-du-Touch existent, mais aucune commune ne réunit cinq points de vente vérifiables.
+
+### Passe autonome du 20 octobre 2026 (Bouches-du-Rhône (13) visé, Marignane et Miramas sondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr`. Tête du classement : Nord (59) close (règle 247) ; Haute-Garonne (31) exclue (région Occitanie, passe précédente) ; Bouches-du-Rhône (13) 5,35, retenue.
+
+**Commune, règle 41.d.** Onze communes des Bouches-du-Rhône portent déjà des fiches (Marseille, Aix-en-Provence, Arles, Martigues, Graveson, Rognonas, Eyragues, Rousset, Puyloubier, Trets, Rognes). Marignane et Miramas, non fichées, ont été sondées.
+
+**Ce qui a été lu.** Recherches web sur « marché producteurs » pour Marignane et Miramas : aucun résultat ne concerne le marché de ces communes. Une fiche d'annuaire « Halles et marchés » à Miramas ne donne ni jour ni horaire de marché et n'est pas une source. Les sites officiels des deux villes n'ont pas été joignables dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune source officielle ni d'office de tourisme ne décrit de marché de producteurs à Marignane ni à Miramas. Aucune fiche ne tient le critère de deux sources.
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclue si elle est visée à nouveau (règle 41.c). Le classement suivant est Seine-Maritime (76) puis Isère (38).
+
+**Constat de méthode.** Passe sans fiche publiée. Recherche web seule, sans passage par les sites officiels des communes.
