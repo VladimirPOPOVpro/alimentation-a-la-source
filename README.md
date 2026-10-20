@@ -40293,3 +40293,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** : aucune.
 
 **Point d'arrêt.** Passe suivante : Haut-Rhin (68), commune la plus peuplée encore sans fiche d'après la formule, à éprouver avec les sources de la Ville et de l'office de tourisme. Haute-Garonne (31) reste exclue tant qu'elle est la région de la passe précédente.
+
+### Passe autonome du 20 octobre 2026 (Haut-Rhin (68) repris, Huningue sondée) : aucune publication
+
+**Demandes.** Aucune demande au statut « nouvelle », aucune en cours. Backlog inchangé.
+
+**Classement, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (région 28) : elle est exclue par la règle 41.c. En tête ensuite, le Haut-Rhin (68), déficit ≈ 4,3, devant la Haute-Garonne (31) et l'Isère (38). Le 68 est retenu, comme le prévoyait le point d'arrêt de la passe précédente.
+
+**Commune, règle 41.d.** Les communes du 68 déjà sondées ou pourvues sont écartées (Mulhouse, Colmar, Pfastatt, Ruelisheim, Saint-Louis, Wittenheim, Illzach, Rixheim, Kingersheim, Riedisheim, Cernay, Guebwiller, Wittelsheim, Thann, Altkirch, Brunstatt-Didenheim, Ensisheim). Descente par population : **Huningue (7 000 hab. environ)**, première commune éprouvée dans cette passe.
+
+**Ce qui a été lu.**
+
+- Site officiel de la Ville, rubrique « Marchés hebdomadaires » : un marché du vendredi, de 8h à 12h30, place Abbatucci (fruits et légumes, volailles, fromages, vins, produits de la ruche, traiteur, textile) ; un marché d'agriculteurs et d'éleveurs en AMAP, le mercredi de 18h à 19h, dans la cour de l'école élémentaire. Ces deux points relèvent de la règle 9 : jour et lieu publiés par la Ville, et l'office de tourisme ne donne pas d'heure supplémentaire.
+- Annuaire participatif Jours-de-Marché : un marché du vendredi place Abbatucci, avec une amplitude 8h–13h qui ne concorde pas avec la Ville (8h–12h30) ; la Ville fait foi.
+- Registre de l'Agence Bio, première page du Haut-Rhin (cent opérateurs) : deux inscriptions à Huningue, dont une entreprise de gros et une société de vente aux professionnels, sans vente aux particuliers vérifiée. Rien n'est retenu.
+- Annuaire Jours-de-Marché, producteurs : une entrée à Huningue (rue Eugène-Jung) sans enseigne ni horaires vérifiables ; une ferme de liqueurs et une vente de paniers, toutes deux hors de la commune.
+- Recherche web sur la vente directe et les AMAP à Huningue : rien de localisé.
+
+**Pourquoi rien n'est publié.** Huningue rend deux points solides, le marché du vendredi et le marché AMAP du mercredi, mais aucun commerce permanent vérifié au registre ni à une source indépendante. Il manque trois fiches pour cinq. Aucune fiche partielle n'est publiée : la règle 248 demande qu'une passe qui ne trouve pas sa zone ne publie rien.
+
+**Déblocage pour la prochaine passe dans le 68.** Huningue reste la commune éprouvée : les deux marchés sont à reprendre quand une source du même marché dit ce qui s'y vend, et il faut trouver trois commerces ou producteurs actifs au registre dans la commune ou le secteur immédiat. La descente reprend ensuite à la commune suivante par population, sans refaire le criblage.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Contradictions** (règle 5) : amplitude du marché du vendredi, 8h–12h30 pour la Ville, 8h–13h pour l'annuaire participatif. Tranché en faveur de la Ville, sans publication.
+
+**Point d'arrêt.** Passe suivante : Haut-Rhin (68), Huningue à reprendre avec les sources ci-dessus, puis la commune suivante par population si elle ne rend pas cinq fiches. Haute-Garonne (31) et Isère (38) restent éligibles au classement.
