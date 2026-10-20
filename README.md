@@ -40347,3 +40347,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** Passe suivante : la Seine-Maritime reste la région-cible (la passe précédente était le Haut-Rhin, donc 76 est éligible si la formule le place en tête ; sinon la règle 41.c s'applique à la passe qui vient). Reprendre la descente à Darnétal (9 566 hab.), puis Petit-Caux et Gonfreville-l'Orcher ; Bihorel est à reprendre avec les produits des marchés, pas sans eux. Ne pas republier les fermes de Grand-Couronne écartées ci-dessus.
+
+### Passe autonome du 20 octobre 2026 (Haute-Garonne, Blagnac sondée au registre et sur le web) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à reprendre : la passe est en mode 2.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; les régions d'outre-mer et les deux collectivités hors métropole sont exclues). La passe précédente visait la Seine-Maritime (région 28, Normandie) : elle est exclue par la règle 41.c. Haute-Garonne (31) arrive en tête après exclusion (déficit ≈ 4,32 sur 1 280 fiches), devant le Haut-Rhin, les Pyrénées-Atlantiques et l'Isère.
+
+**Commune, règle 41.d.** Blagnac (27 604 hab.) est la plus peuplée de la Haute-Garonne sans aucune fiche, la plus grande commune déjà couverte étant Toulouse. On tente Blagnac.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, trois pages (300 opérateurs), filtré sur Blagnac et les communes voisines : quatre entrées à Blagnac, dont une boulangerie artisanale, un restaurant et deux entrées sans vente directe au public ; les autres portent des noms de personne ou sont des négoces. Aucune n'est retenue : aucune enseigne vérifiée à une seconde source.
+- Recherche web « magasin bio producteurs Blagnac » : une enseigne de magasin bio à Blagnac, dont les horaires ne viennent que d'une offre d'emploi, à confirmer ; un annuaire de 2015, périmé, qui cite un marché de producteurs et une AMAP sans adresse ni horaires actuels.
+- Recherche web « marché hebdomadaire producteurs Blagnac » : aucune trace d'un marché de producteurs organisé par la Ville dans les résultats ; seulement des appels d'offres de restauration collective.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend pas cinq commerces vérifiables sur deux sources indépendantes : une enseigne à horaires non confirmés, un marché et une AMAP dont les seules sources datent de 2015. Un magasin de réseau sans source locale ne compte pas comme producteur (règle 3). Aucune fiche partielle n'est publiée.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, magasin de réseau bio (enseigne nationale) : horaires à confirmer sur le site de l'enseigne ; une fiche possible seulement si la Ville ou l'office de tourisme donne les producteurs locaux qu'il vend.
+- Blagnac, marché de producteurs de la place des Arts ou de la place des Marronniers (source 2015) : jours et lieux à recouper avec la Ville, produits inconnus.
+- Blagnac, deux entrées du registre bio dont l'enseigne n'est pas vérifiée : à instruire au site de la Ville.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre bio de Blagnac, Muret et Plaisance-du-Touch dont l'enseigne est un nom de personne, non nommées, ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste en tête, mais la descente ne doit pas revenir à Blagnac sans source nouvelle. Commune suivante par population sans fiche : Muret (26 079 hab.), où les passes précédentes ont déjà relevé des entrées au registre sans source locale ; sinon Plaisance-du-Touch, puis Balma. Si la Haute-Garonne reste bloquée deux fois, la règle 41.c réserve la région à la passe suivante.
