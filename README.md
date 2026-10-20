@@ -40539,3 +40539,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : ouvrir les sites des deux pistes de Saint-Louis et de Biederthal ; si la boucherie a un site vérifié, la rattacher au secteur de Saint-Louis ; ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
+
+### Passe autonome du 21 octobre 2026 (quarante-septième) : Ille-et-Vilaine (35) reprise, Betton relue : aucune fiche publiée
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus, règle 177). Tête du classement : Nord (59), Haute-Garonne (31), Seine-Maritime (76), Bouches-du-Rhône (13) et Isère (38) closes ou éprouvées (règle 247) ; Haut-Rhin (68) exclu par la règle 41.c, la passe précédente l'ayant visé. **Ille-et-Vilaine (35) retenue** : région 53, déficit ≈ 4,7, reprise désignée par le point d'arrêt de la passe trente et unième.
+
+**Commune, règle 41.d.** Betton (12 964 hab.), reprise de la descente, sans fiche publiée.
+
+**Ce qui a été lu.**
+
+- Registre des entreprises : un magasin de producteurs de La Brandais (Betton) est actif, un établissement ouvert, activité de commerce de détail. La règle 6 est satisfaite pour ce commerce.
+- Recherche web : deux sources indépendantes concordent sur ses horaires (mardi, mercredi et vendredi 9 h-19 h ; samedi 9 h-17 h ; fermé lundi, jeudi et dimanche) et sur sa nature de magasin de producteurs : la fiche Que Choisir et le guide Unidivers, qui donne aussi un téléphone et un site que le commerce publie. Le site lui-même n'a pas été ouvert cette passe.
+- Marché de Betton : un seul jour de marché signalé par un annuaire, sans jour ni horaire précis, aucun site de la Ville accessible. Non retenu.
+
+**Pourquoi rien n'est publié.** Un seul commerce vérifiable sur la commune ; une fiche isolée ne forme pas une zone (règle 52), et les communes voisines de Rennes Métropole n'ont pas été reprises cette passe faute de temps de lecture. Le point d'arrêt de la passe trente et unième reste valable : la descente se ferme à Betton si la zone n'atteint pas cinq fiches.
+
+**Pistes non publiées** (anonymes) :
+
+- Betton, magasin de producteurs de La Brandais : registre actif, horaires concordants sur deux sources ; à publier avec quatre autres commerces vérifiés de la zone, ou avec le site du commerce ouvert et son téléphone confirmé.
+- Betton, marché communal : jour et horaires à établir auprès de la Ville (règle 9).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe ; les entrées du registre à Betton déjà écartées ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : ouvrir le site du magasin de La Brandais ; lire les communes voisines de Rennes Métropole dans le registre Agence Bio d'Ille-et-Vilaine (déjà lu en entier, vingt-quatre entrées à Betton) pour trouver quatre autres commerces vérifiés ; publier seulement si la zone atteint cinq fiches.
