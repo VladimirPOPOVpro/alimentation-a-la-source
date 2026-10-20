@@ -40451,3 +40451,24 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre bio de la Haute-Garonne dont l'enseigne est un nom de personne, non nommées, ne se rouvrent pas.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne reste éligible (région différente de la passe précédente). Reprendre par la commune la plus peuplée sans fiche (Muret, puis Plaisance-du-Touch), en parcourant les pages suivantes du registre filtrées sur ces communes, avec le site officiel de la Ville comme source principale.
+
+### Passe autonome du 20 octobre 2026 (quarante-troisième) : Haute-Garonne (31) visée, Muret sondée : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` n'est pas reprise (doute sur une personne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (région 28, Normandie) : seule cette région est exclue par la règle 41.c. Haute-Garonne (31) en tête parmi les départements éligibles (déficit ≈ 4,3).
+
+**Commune, règle 41.d.** Muret (26 079 hab.) est la plus peuplée de la Haute-Garonne sans fiche après Blagnac, déjà sondée. On tente Muret.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, trois pages (300 opérateurs), filtré sur Muret et les communes voisines : les entrées de Muret sont des négoces, des entreprises sans vente au public, ou des entreprises individuelles dont l'enseigne est un nom de personne (écartées, non nommées, règle 6 et doute sur une personne). Aucun commerce de Muret ne tient le critère de vente aux particuliers sur une source indépendante.
+- Recherche web sur les marchés de Muret : aucun marché de producteurs trouvé. Une fiche Cirkwi décrivant un marché le mardi de 8 h à 13 h, portée par l'office de tourisme du Muretain, se situe à Saint-Lys (31470), non à Muret : elle n'est pas rattachée à Muret et ne sert à rien ici.
+- Recherche web sur les fermes en vente directe à Muret : rien d'identifiable. Le guide touristique du Muretain et le répertoire Bienvenue à la Ferme (Haute-Garonne) ne donnent pas de ferme à Muret dans les extraits consultés.
+
+**Pourquoi rien n'est publié.** Muret n'a ni marché de producteurs vérifié (règle 9 : deux sources officielles requises), ni commerce de vente directe vérifié. Aucune fiche partielle n'est publiée (règles 52, 96, 127, 248).
+
+**Pistes non publiées (anonymes)** : Muret, boutiques bio dont les horaires ne sont pas vérifiés, à reprendre auprès de la mairie ; marché de producteurs à établir sur le site officiel de la Ville.
+
+**Résultat.** Aucune fiche publiée : Muret ne rend pas cinq commerces vérifiables.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste éligible (région différente de la passe précédente). Descente à la commune suivante sans fiche, Plaisance-du-Touch (31830), puis Balma (31130), avec le site officiel de chaque ville comme source principale. Muret reste éprouvée et ne se rouvre que sur une source officielle nouvelle.
