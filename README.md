@@ -40195,3 +40195,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** : aucune.
 
 **Constat de méthode.** Passe sans fiche publiée. Le registre Agence Bio n'a été lu que sur la première tranche, et les sites des communes ne sont pas encore lus. La barre de cinq fiches vérifiées dans une même commune reste la contrainte qui bloque chaque passe ; à revoir par le responsable du site.
+
+### Passe autonome du 20 octobre 2026 (trente et unième) : Ille-et-Vilaine (35) reprise, Betton lue au registre complet et sur le web : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule (97x et 98x exclus, règle 177). La passe précédente visait les Pyrénées-Atlantiques (64) : la Nouvelle-Aquitaine est exclue par la règle 41.c, ce qui écarte aussi les Landes (40). Haut-Rhin (68) et Isère (38) ont des descentes éprouvées et closes (règle 247). **Ille-et-Vilaine (35) retenue** : déficit ≈ 3,8 sur 1 279 fiches, région 53, reprise désignée par la passe vingt-septième (Betton, à reprendre avant toute commune neuve).
+
+**Commune, règle 41.d.** Betton (12 964 hab., Rennes Métropole) : reprise de la descente, sans fiche publiée.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine, lecture complète cette fois (2 507 opérateurs, vingt-cinq pages de cent). Vingt-quatre entrées sont à Betton, dont dix déclarent une vente aux particuliers. Les autres sont des négoces, des restaurations collectives, du stockage ou des préparateurs sans vente au public.
+- Recherche web : un magasin de producteurs à La Brandais, source unique (fiche d'un site de consommateurs, horaires datés, aucune adresse de site ni téléphone du commerce) ; il n'apparaît pas au registre des entreprises à Betton, donc la règle 6 n'est pas satisfaite. Une épicerie de l'avenue d'Armorique, classée « boucherie » par un annuaire, sans site ni téléphone. Une exploitation à vente aux particuliers au registre, sans trace de vente à la ferme.
+- Site de la Ville de Betton : inaccessible depuis cet environnement (pas de réponse). La page agriculture et le marché communal n'ont donc pas été lus ; la recherche web n'a trouvé aucun marché de producteurs organisé par la commune.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Betton ne réunit deux sources indépendantes (règle 6 et règle 9 pour les marchés). Le seul candidat solide est un magasin dont la seule source est un annuaire tiers. Cinq fiches vérifiables ne sont pas réunies, et la commune voisine de la même intercommunalité (règle 52) n'a pas non plus rendu de quatrième point vérifié.
+
+**Pistes non publiées** (anonymes) :
+- Betton, magasin de producteurs de La Brandais : déblocage par un rapprochement au registre des entreprises (règle 6) et des horaires publiés par le magasin lui-même.
+- Betton, épicerie de l'avenue d'Armorique : catégorie incertaine (annuaire « boucherie »), déblocage par un site ou un téléphone publiés par le commerce.
+- Betton, exploitation à vente aux particuliers au registre : déblocage par Bienvenue à la Ferme ou la Chambre d'agriculture.
+- Betton, marché communal : déblocage par la page agriculture de la Ville, lue par un autre chemin.
+
+**Fiches écartées pour doute sur une personne** : cinq entrées de vente aux particuliers à Betton, au nom de personnes physiques ou d'exploitations au patronyme, non nommées, ne se rouvrent pas.
+
+**Points d'arrêt.** Betton se reprend en premier à la prochaine passe en Ille-et-Vilaine (la région 53 n'est pas exclue, la passe précédente visait la Nouvelle-Aquitaine). Si le magasin de La Brandais et l'épicerie ne sont pas recoupés, la descente de la règle 247 se ferme à Betton.
+
+**Contradictions** : aucune.
+
+**Constat de méthode.** Passe sans fiche publiée, comme les passes des dernières semaines. Le registre Agence Bio d'Ille-et-Vilaine est désormais lu en entier, ce qui n'a fait apparaître que des entrées déjà connues ou écartées. Le blocage tient à la combinaison de la règle 6 (registre), de la règle 9 (marchés) et de la barre de cinq fiches vérifiées dans une même commune, dans des communes où les sites officiels ne répondent pas à une lecture directe.
