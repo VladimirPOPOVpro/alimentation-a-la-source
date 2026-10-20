@@ -40261,3 +40261,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Point d'arrêt.** Passe suivante : le Nord reste éligible si la Haute-Garonne ou la Seine-Maritime ne prennent pas la tête, puisque la règle 41.c n'exclut que la région de la passe précédente. Ne pas reprendre Wattrelos sans horaire officiel. Marcq-en-Barœul (site de la Ville injoignable), puis Cambrai et Lambersart selon la formule.
 
 **Observation de fond.** Depuis plusieurs passes, la formule désigne une commune que le critère des cinq fiches vérifiables ne peut pas atteindre (Dieppe, Wattrelos, Marcq-en-Barœul). Le classement est correct ; c'est la règle de commune unique qui bloque. À reprendre au niveau des règles, pas à la passe.
+
+### Passe autonome du 20 octobre (trente-quatrième) : Haute-Garonne (31) visée, Blagnac et Muret sondées : aucune publication
+
+**Demandes.** Aucune demande au statut « nouvelle ». La demande en_cours #13 (Villecroze, Var) n'est pas reprise : son contact est un identifiant personnel, et la fiche n'est pas publiable en l'état.
+
+**Commune, règle 41.d.** Le déficit métropolitain le plus élevé est le Nord (59), visé à la passe précédente, donc exclu par la réserve. Le suivant est la Haute-Garonne (31), avec 23 fiches pour une cible d'environ 28. Toulouse, Colomiers, Tournefeuille, Cugnaux, Pibrac, Saint-Jean, Labège et Auzeville-Tolosane portent déjà des fiches. Blagnac (27 604 hab.) reste la plus peuplée sans fiche ; elle a déjà été sondée lors des passes du 14 et du 18 octobre.
+
+**Ce qui a été lu.** Recherche web sur Blagnac : aucun marché de producteurs hebdomadaire trouvé, seulement le marché de Noël ; deux adresses différentes de la mairie selon les sources (déjà relevé le 18 octobre), donc aucune fiche n'en dépend. Recherche web sur Muret : aucun marché de producteurs ni halle ; des commerces bio seulement (une enseigne nationale dont les horaires sont communautaires, deux petites boutiques sans horaires vérifiés). Bienvenue à la Ferme Haute-Garonne : Blagnac et Muret apparaissent sur des cartes du réseau, mais sans fermes identifiées dans les extraits consultés.
+
+**Pistes non publiées** (anonymes) : Blagnac, marché de producteurs à établir sur le site de la mairie ; Muret, boutiques bio de la commune dont les horaires ne sont pas vérifiés, à reprendre sur place ou auprès de la mairie.
+
+**Résultat.** Aucune fiche publiée : aucune des communes sondées ne rend cinq commerces vérifiables. Descente à la commune suivante (Castanet-Tolosan, 15 317 hab.) non tentée cette passe, faute de source solide pour la première.
+
+**Contradictions** (règle 5) : adresses de la mairie de Blagnac divergentes, consignées ci-dessus ; rien n'est retenu.
