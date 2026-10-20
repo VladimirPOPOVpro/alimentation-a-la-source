@@ -40516,3 +40516,26 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : ouvrir l'annuaire DirectFermiers31 et compter, commune par commune, les producteurs de vente directe qui se recoupent avec une source indépendante (office de tourisme, site de la commune, registre bio). Ne reprendre Blagnac que si la Ville publie une liste de commerces ou de marchés lisible.
+
+### Passe autonome du 20 octobre 2026 (quarante-sixième) : Haut-Rhin (68) reprise au registre complet, aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». Une demande reste « en_cours » (Var, Villecroze, producteur) : sa dénomination peut désigner une personne privée, elle n'est donc pas publiée ni répondue (règle « Personnes »).
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Haute-Garonne (31) ; le Haut-Rhin (68) reste en tête du déficit métropolitain après l'exclusion de la région 31. Descente par population déjà éprouvée sur les communes du 68 ; cette passe reprend le secteur de Huningue.
+
+**Ce qui a été lu.**
+
+- Registre de l'Agence Bio, pages 1 à 6 du Haut-Rhin (600 opérateurs lus, et non plus la seule première page comme la passe précédente). Filtre sur Huningue, Saint-Louis, Village-Neuf, Hésingue, Hégenheim, Bartenheim, Biederthal, Folgensbourg. Trois inscriptions retiennent l'attention pour une vente aux particuliers : une boucherie bio à Saint-Louis (vente directe déclarée, dernière mise à jour janvier 2026), une exploitation agricole en vente directe à Biederthal (mise à jour septembre 2025), et un fournil à Saint-Louis dont la dernière mise à jour remonte à 2019 (écarté : donnée trop ancienne). Les autres inscriptions sont des grossistes, des prestataires ou des particuliers exerçant en nom propre sans enseigne : écartés sans nom.
+- Site officiel de Huningue, marchés : un marché du vendredi et un marché AMAP du mercredi, déjà relevés la veille.
+
+**Pourquoi rien n'est publié.** Le secteur rend trois pistes solides au registre, mais aucune fiche n'a encore été vérifiée sur le site du commerce ni sur une source indépendante, et il en manque au moins deux pour cinq dans une même commune ou agglomération. Aucune fiche partielle n'est publiée (règle 248).
+
+**Pistes non publiées (anonymes)** : Saint-Louis, boucherie bio en vente directe, site du commerce à ouvrir ; Biederthal, exploitation en vente directe, horaires et produits à établir ; Huningue, marchés du vendredi et du mercredi, produits à confirmer auprès de la Ville. Var (83), Villecroze, demande en_cours : dénomination à vérifier avant tout traitement.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre dont la dénomination est un nom propre seul (exploitation ou prestataire sans enseigne) : aucune fiche, aucun nom.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : ouvrir les sites des deux pistes de Saint-Louis et de Biederthal ; si la boucherie a un site vérifié, la rattacher au secteur de Saint-Louis ; ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
