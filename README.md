@@ -40373,3 +40373,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne reste en tête, mais la descente ne doit pas revenir à Blagnac sans source nouvelle. Commune suivante par population sans fiche : Muret (26 079 hab.), où les passes précédentes ont déjà relevé des entrées au registre sans source locale ; sinon Plaisance-du-Touch, puis Balma. Si la Haute-Garonne reste bloquée deux fois, la règle 41.c réserve la région à la passe suivante.
+
+### Passe autonome du 20 octobre 2026 (trente-neuvième) : Seine-Maritime (76) reprise, Darnétal sondée : aucune publication
+
+**Demandes.** Aucune demande au statut « nouvelle ». La demande en_cours reste en attente, pour le même motif que les passes précédentes.
+
+**Classement, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (région 76, Occitanie) : seule cette région est exclue (règle 41.c). En tête ensuite, la Seine-Maritime (76), déficit ≈ 4,41, devant la Haute-Garonne (exclue), le Haut-Rhin (68) et les Pyrénées-Atlantiques (64). Le 76 est retenu, et sa descente reprend à la commune suivante (règle 247).
+
+**Commune, règle 41.d.** Darnétal (9 566 hab.), rang suivant de la descente, après les douze communes déjà éprouvées.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Seine-Maritime, trois pages (300 opérateurs), filtré sur Darnétal : deux entrées. L'une est une entreprise individuelle dont l'enseigne est un nom de personne : écartée, non nommée. L'autre est une cidrerie inscrite sans vente aux particuliers (règle 40) : écartée.
+- Recherche web « Darnétal marché producteurs » : un marché bio sur le parking de Résistes (premier samedi du mois, relevé par un blog de la filière et par un annuaire de marchés) ; un marché hebdomadaire du dimanche matin, décrit par une appli de marchés comme généraliste (80 à 100 commerçants) ; une AMAP de Darnétal relevée par le réseau AMAP Haut-Normand (mercredi 18h–19h, produits listés) ; un point de vente Mon Panier 76 rue de Longpaon, sans horaires vérifiés ; une page Facebook de marchés bio dont l'horaire est tronqué. Aucune de ces pistes n'est lue sur le site de la Ville ni de l'office de tourisme dans cette passe.
+- Une fiche d'un « Producteur Local » apparaît dans les résultats, mais son adresse est à Bois-Guillaume (hors commune) : non retenue.
+
+**Pourquoi rien n'est publié.** Darnétal ne rend pas cinq commerces vérifiables sur deux sources indépendantes : le marché bio et l'AMAP ont chacun une source de réseau, mais leurs produits, horaires et adresses exacts ne sont pas recoupés ; le marché du dimanche est généraliste ; le point Mon Panier 76 n'a pas d'horaires vérifiés. Aucune fiche partielle n'est publiée (règles 52, 96, 127, 248).
+
+**Pistes non publiées** (anonymes) :
+- Darnétal, marché bio de Résistes (premier samedi du mois) : producteurs à lister, adresse et horaires à recouper avec la Ville ou l'organisateur.
+- Darnétal, AMAP (distribution le mercredi en fin d'après-midi) : point de distribution et producteurs à confirmer sur le site du réseau.
+- Darnétal, point de vente Mon Panier 76 (rue de Longpaon) : horaires à vérifier, produits des producteurs locaux à lister.
+
+**Fiches écartées pour doute sur une personne** : une entreprise individuelle du registre bio, à Darnétal, dont l'enseigne est un nom de personne (non nommée, ne se rouvre pas).
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste la région-cible si la formule la place en tête (la passe précédente était l'Haute-Garonne, donc 76 est éligible). Reprendre à Petit-Caux et Gonfreville-l'Orcher pour les communes non éprouvées ; Darnétal est à reprendre avec les produits du marché bio et les horaires de l'AMAP, pas sans eux. Les pistes de Bihorel, Caudebec-lès-Elbeuf, Port-Jérôme-sur-Seine et Grand-Couronne restent en attente de leur déblocage nommé.
