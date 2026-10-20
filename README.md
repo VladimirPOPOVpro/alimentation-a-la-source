@@ -40224,3 +40224,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** : aucune.
 
 **Constat de méthode.** Passe sans fiche publiée, comme les passes des dernières semaines. Le registre Agence Bio d'Ille-et-Vilaine est désormais lu en entier, ce qui n'a fait apparaître que des entrées déjà connues ou écartées. Le blocage tient à la combinaison de la règle 6 (registre), de la règle 9 (marchés) et de la barre de cinq fiches vérifiées dans une même commune, dans des communes où les sites officiels ne répondent pas à une lecture directe.
+
+### Passe autonome du 20 octobre 2026 (Yvelines (78) visées, Les Mureaux instruite, une fiche publiée)
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus : hors de la métropole que le validateur accepte). Tête du classement : Nord (59), Haute-Garonne (31) et Seine-Maritime (76), toutes trois visées les passes précédentes, puis Yvelines (78) à 4,7 avec Ille-et-Vilaine (35) et Pyrénées-Atlantiques (64) : la passe précédente visait Ille-et-Vilaine, donc le 78 est retenu. Commune la plus peuplée sans fiche : Mantes-la-Jolie (43 526 hab.), puis Poissy (40 983).
+
+**Ce qui est publié.** La Ferme de la Haye, Les Mureaux (`ferme-de-la-haye-les-mureaux`), vérifiée sur le site du producteur (ouvert, boutique, marchés), sur le registre des entreprises (un établissement ouvert) et sur le registre de l'Agence Bio (engagement Bureau Veritas, juin 2021). Photo : la boutique, prise sur le site de la ferme ; la photo de couverture du site, qui montre deux exploitants reconnaissables, est écartée. Points à confirmer, `a_confirmer: true` : la BAN ne connaît que la rue (« Rue de la Haye », score 0,68), le point est donc approximatif. Horaires : le site donne mercredi à vendredi 14h–19h et samedi 9h30–19h ; le guide InfoSYvelines (mercredi et vendredi 15h–18h30) est plus ancien, et QueChoisir donne un samedi 10h–12h puis 14h–19h. Le site fait foi.
+
+**Non publié, faute de source.** Mantes-la-Jolie, marché du Val Fourré : un seul guide local, horaires en contradiction avec un annuaire participatif, aucune page de la Ville trouvée (règle 16 : au moins deux annuaires indépendants d'accord). Poissy, marchés de la place de la République et de Noailles : un seul guide local daté de façon incertaine, poissy.fr renvoie 503.
+
+**Pistes non publiées** :
+- Poissy (78), élevage bio avec atelier de découpe et vente au particulier : la dénomination du registre contient un nom de personne. Écartée pour doute sur une personne ; ne se rouvre pas.
+- Villepreux (78), boutique « Les Vergers de la Haye » du même exploitant que la fiche publiée : adresse du site (78450) à recouper avec le registre avant publication, à faire dans un passage ultérieur sur Villepreux.
+
+**Points relevés pour la suite.** Les cinq fiches visées n'ont pas été atteintes : Yvelines n'a qu'une fiche vérifiable à cette passe. Les Mureaux compte désormais une fiche ; Villepreux et Mantes-la-Jolie restent à instruire.

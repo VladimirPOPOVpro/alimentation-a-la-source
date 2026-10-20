@@ -33800,5 +33800,31 @@
     "site_web": "https://www.lessablesdolonne.fr/les-marches-et-producteurs-aux-sables-dolonne-on-craque-et-on-croque-pour-eux/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Ch%C3%A2teau%20d'Olonne%20Rue%20S%C3%A9raphin%20Buton%20Les%20Sables-d'Olonne",
     "image_url": "/images/marchands/marche-du-chateau-dolonne-les-sables-dolonne.jpg"
+  },
+  {
+    "slug": "ferme-de-la-haye-les-mureaux",
+    "nom": "La Ferme de la Haye",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 48.995509,
+    "lon": 1.901528,
+    "adresse": "Chemin de la Haye, 78130 Les Mureaux",
+    "horaires": "Mercredi, jeudi et vendredi de 14h à 19h ; samedi de 9h30 à 19h, d'après le site de la ferme. Un guide local indique mercredi et vendredi de 15h à 18h30 : édition plus ancienne, non retenue.",
+    "produits": [
+      "Fruits et légumes bio de saison, cultivés sur l'exploitation",
+      "Pain bio du Fournil de la Bergerie (partenaire)",
+      "Poulet bio de la Ferme du Loup Blanc (partenaire)",
+      "Épicerie locale : produits de producteurs partenaires"
+    ],
+    "description": "Exploitation engagée en agriculture biologique (inscription au registre de l'Agence Bio depuis juin 2021), qui vend sa production dans sa boutique à la ferme aux Mureaux, ouverte depuis 2017. La boutique complète les fruits et légumes par des produits de partenaires locaux ; l'exploitation tient aussi des étals sur plusieurs marchés des environs, selon son site.",
+    "telephone": "07 61 92 04 67",
+    "site_web": "https://fermedelahaye.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chemin%20de%20la%20Haye%2C%2078130%20Les%20Mureaux",
+    "image_url": "/images/marchands/ferme-de-la-haye-les-mureaux.jpg",
+    "a_confirmer": true
   }
 ]
