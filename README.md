@@ -40498,3 +40498,21 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : Seine-Maritime reste en tête (région 76 différente de la passe précédente, qui vise la Haute-Garonne). Reprendre Dieppe seulement si une source officielle de la Ville ou du commerce apparaît ; sinon, Montivilliers ou Elbeuf selon la descente de la règle 41.d.
+
+### Passe autonome du 20 octobre 2026 (quarante-cinquième) : Haute-Garonne, Blagnac sondée à nouveau, aucune publication
+
+**Classement, règle 41.** Métropole seule (règle 177 : la validation refuse les coordonnées hors métropole). La passe précédente visait la Seine-Maritime (région 76) : seule cette région est exclue (règle 41.c). Haute-Garonne (31) arrive en tête, déficit ≈ 4,32 sur 1 280 fiches, devant le Haut-Rhin (4,31).
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) est la plus peuplée sans fiche, déjà sondée lors des passes des 14 et 18 octobre. Recherche web cette passe : aucun marché de producteurs ni magasin de producteurs identifié à Blagnac ; le document de la commission du commerce de proximité (2024) n'a pas livré de contenu lisible. Muret (26 079) a été sondée par la même recherche : aucune source municipale ne confirme un marché de producteurs à Muret ; une ferme en vente directe est signalée par le guide touristique de l'agglomération, mais sa commune et ses coordonnées ne sont pas confirmées.
+
+**Piste à ouvrir.** L'annuaire DirectFermiers31 du Département (environ 350 producteurs et 650 points de vente, selon les pages du Département) est la source officielle la plus large du territoire. Il n'a pas encore été dépouillé commune par commune ; c'est la prochaine source à lire, avant toute nouvelle recherche web.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables sur une source indépendante. Une fiche isolée ne remplit pas l'objectif groupé (règle 41.d).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (anonymes)** : Blagnac, magasin ou marché de producteurs à établir sur les sources de la Ville ; Muret, ferme en vente directe signalée par un guide d'agglomération, commune et coordonnées à confirmer ; Villenouvelle, exploitation maraîchère en libre cueillette, signalée par un guide de sorties agricoles, horaires datés, à vérifier auprès de l'exploitant ; Saint-Félix-Lauragais, fromagerie de ferme, signalée par le même guide, à vérifier ; le registre bio de Haute-Garonne n'a fourni aucune entrée de vente au public à Blagnac ni à Muret.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : ouvrir l'annuaire DirectFermiers31 et compter, commune par commune, les producteurs de vente directe qui se recoupent avec une source indépendante (office de tourisme, site de la commune, registre bio). Ne reprendre Blagnac que si la Ville publie une liste de commerces ou de marchés lisible.
