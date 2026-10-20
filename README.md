@@ -40399,3 +40399,27 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** (règle 5) : aucune retenue.
 
 **Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste la région-cible si la formule la place en tête (la passe précédente était la Haute-Garonne, donc 76 est éligible). Reprendre à Petit-Caux et Gonfreville-l'Orcher pour les communes non éprouvées ; Darnétal est à reprendre avec les produits du marché bio et les horaires de l'AMAP, pas sans eux. Les pistes de Bihorel, Caudebec-lès-Elbeuf, Port-Jérôme-sur-Seine et Grand-Couronne restent en attente de leur déblocage nommé.
+
+### Passe autonome du 20 octobre 2026 (quarantième) : Nord (59) visé, Marcq-en-Barœul et Lambersart sondées : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` n'est pas reprise (doute sur une personne en enseigne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus). Nord (59) en tête (déficit ≈ 5,6), devant la Haute-Garonne (31, ≈ 5,5) et les Bouches-du-Rhône (13, ≈ 5,4). La passe précédente visait la Seine-Maritime (région 28, Normandie) : seule cette région est exclue par la règle 41.c, donc le Nord est éligible.
+
+**Commune, règle 41.d.** Wattrelos (40 847 hab.) reste la plus peuplée du Nord sans fiche. Elle a été relue à plusieurs passes sans horaires officiels précis ni producteurs nommés (voir la passe du 19 octobre) : pas de nouvelle source cette passe, donc pas de relecture complète. Le point d'arrêt de la passe précédente désignait la descente vers Marcq-en-Barœul et Lambersart : c'est là qu'a porté la recherche.
+
+**Ce qui a été lu.**
+- Recherche web « Marcq-en-Barœul marché producteurs marché bio ville » : trois marchés enregistrés sur un annuaire participatif, dont les entrées sont surtout des vendeurs à la ferme situés à quelques kilomètres ; l'annuaire signale lui-même que ses informations peuvent être périmées. Un Naturalia et un Biocoop sur la commune : enseignes de réseau, non comptées comme producteurs (règle 3). Un avis de marché public de la Ville (juin 2025), sans objet précisé.
+- Recherche web « Lambersart marché producteurs circuit court AMAP » : aucun résultat localisé à Lambersart ; les sources sont génériques.
+
+**Pourquoi rien n'est publié.** Marcq-en-Barœul ne rend qu'un annuaire participatif daté et deux enseignes de réseau ; Lambersart ne rend rien de localisé. Aucune commune de la descente ne rend cinq commerces vérifiables sur deux sources indépendantes (règles 52, 96, 127, 248). Aucune fiche partielle n'est publiée.
+
+**Pistes non publiées** (anonymes) :
+- Marcq-en-Barœul, marchés de l'annuaire participatif : jours et lieux à recouper avec le site officiel de la Ville (rubrique marchés) ; aucun produit listé.
+- Lambersart : aucune source localisée ; à reprendre par le site de la Ville et le réseau régional des AMAP.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reste éligible (la région précédente est la Normandie). Wattrelos n'est pas reprise sans horaire officiel. Marcq-en-Barœul est à reprendre seulement avec le site officiel de la Ville ; Lambersart seulement avec le registre complet ou le site de la Ville. Si le Nord reste fermé, la formule désigne ensuite la Haute-Garonne (31), déficit ≈ 5,5, en tenant compte de la règle 41.c.
