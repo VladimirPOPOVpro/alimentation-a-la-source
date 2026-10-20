@@ -40319,3 +40319,31 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** (règle 5) : amplitude du marché du vendredi, 8h–12h30 pour la Ville, 8h–13h pour l'annuaire participatif. Tranché en faveur de la Ville, sans publication.
 
 **Point d'arrêt.** Passe suivante : Haut-Rhin (68), Huningue à reprendre avec les sources ci-dessus, puis la commune suivante par population si elle ne rend pas cinq fiches. Haute-Garonne (31) et Isère (38) restent éligibles au classement.
+
+### Passe autonome du 20 octobre 2026 (trente-septième) : Seine-Maritime (76) reprise, quatre communes sondées : aucune publication
+
+**Demandes.** Aucune demande au statut « nouvelle ». La demande #13 reste en_cours, pour le même motif que les passes précédentes : son contact est un identifiant personnel, la fiche n'est pas publiable en l'état.
+
+**Classement, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Haut-Rhin (région 44, Grand Est) : seule cette région est exclue (règle 41.c). En tête ensuite, la Seine-Maritime (76), déficit ≈ 4,4, devant la Haute-Garonne (31) et l'Isère (38). Le 76 est donc retenu, et sa descente reprend là où la passe 35 l'a laissée (règle 247).
+
+**Ce qui a été lu.**
+
+- Registre de l'Agence Bio, Seine-Maritime, cent opérateurs de la première page complète, filtrés sur les communes de la descente. Beaucoup d'entrées sont des entreprises individuelles dont le nom est un nom de personne, ou des grossistes, ou des ventes aux seuls professionnels : rien n'en est retenu.
+- **Port-Jérôme-sur-Seine** (10 617 hab.), rang suivant de la descente : un marché à Notre-Dame-de-Gravenchon le mardi et le vendredi, de 8h à 13h, relevé par deux annuaires de marchés et sans source de la Ville ; une relève du réseau Mon Panier 76 pour une ferme de la commune voisine d'Allouville-Bellefosse. Aucun commerce permanent vérifié sur une source indépendante dans la commune : rien n'est retenu.
+- **Caudebec-lès-Elbeuf** (10 476 hab.), rang suivant : la Ville confirme son marché place centrale, le vendredi et le dimanche matin, avec des commerçants ambulants, sans liste de produits ni horaires de la Ville elle-même. L'AMAP du Pays d'Elbeuf est référencée par le réseau régional, sans point de distribution vérifié dans la commune. Deux éléments, pas cinq.
+- **Grand-Couronne** (9 768 hab.), rang suivant : marché hebdomadaire le vendredi matin, place de la Mairie (cacao, jours-de-marche, annuaire-mairie) et marché du dimanche plus petit (Saveur Marché) ; la Ville annonce une foire et un marché des producteurs, sans liste de producteurs publiée. Les fermes relevées à Grand-Couronne sont des exploitations qui portent le nom d'une personne : écartées, sans nom ; le registre bio ne donne qu'une entreprise dont l'enseigne est un nom de famille, écartée.
+- **Bihorel** (8 316 hab.) : sondée **à tort, hors de l'ordre de la descente** — elle a été lue avant que le classement par population ne soit recalculé, et elle n'est pas au rang suivant (Port-Jérôme, Caudebec et Grand-Couronne la précèdent). La source est pourtant solide : la Ville publie ses marchés (Bihorel Village le mercredi et le samedi, 8h–13h, place de l'Église ; Plateau des Provinces le vendredi, 8h–13h, parking du centre commercial), un poissonnier ambulant (Le Chapitre, mercredi et vendredi, 8h–13h) et une AMAP « Sapins » au centre social de la commune, une distribution un mardi sur deux (18h15–19h15, selon l'annuaire Avenir Bio et Mon Panier 76). Quatre points, dont les horaires sont vérifiés par la Ville, mais aucune liste de produits fiable sur une seconde source pour les marchés : **il manque un cinquième commerce et les produits des marchés**. Le pizzaiolo ambulant n'est pas un point de vente de circuit court.
+
+**Pourquoi rien n'est publié.** Aucune des quatre communes ne rend cinq commerces vérifiables sur deux sources indépendantes ; une fiche isolée ou un marché sans produits ne forment pas le groupe (règles 52, 96, 127, 248). Bihorel reste la piste la plus solide du lot : quatre points, les horaires de la Ville, les produits à compléter.
+
+**Pistes non publiées** (anonymes) :
+- Bihorel : deux marchés et un poissonnier ambulant, horaires publiés par la Ville ; AMAP « Sapins ». Déblocage : la liste des produits du marché de Bihorel Village et un cinquième commerce sur une seconde source.
+- Caudebec-lès-Elbeuf : marché du vendredi et du dimanche, produits à vérifier, aucun commerce permanent. Déblocage : une liste de commerçants publiée par la Ville.
+- Port-Jérôme-sur-Seine : marché de Notre-Dame-de-Gravenchon, deux fois par semaine. Déblocage : un commerce permanent vérifié.
+- Grand-Couronne : marché du vendredi matin place de la Mairie ; fermes à vérifier, certaines portent un nom de personne. Déblocage : une ferme ou un magasin dont l'enseigne n'est pas un nom propre.
+
+**Fiches écartées pour doute sur une personne** : deux fermes de Grand-Couronne, sans nom, dont l'enseigne est un nom de personne ; une entreprise du registre, à Grand-Couronne, dont l'enseigne est un nom de famille.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : la Seine-Maritime reste la région-cible (la passe précédente était le Haut-Rhin, donc 76 est éligible si la formule le place en tête ; sinon la règle 41.c s'applique à la passe qui vient). Reprendre la descente à Darnétal (9 566 hab.), puis Petit-Caux et Gonfreville-l'Orcher ; Bihorel est à reprendre avec les produits des marchés, pas sans eux. Ne pas republier les fermes de Grand-Couronne écartées ci-dessus.
