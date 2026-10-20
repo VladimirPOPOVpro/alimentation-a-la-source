@@ -40156,3 +40156,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** : aucune.
 
 **Constat de méthode.** Passe sans fiche publiée. Les sites des communes ferment souvent leurs pages à la lecture directe ; le registre Agence Bio n'a été lu qu'en partie. Les deux pistes à lever sont la lecture de la rubrique agriculture de la Ville, et la pagination complète du registre 35.
+
+### Passe autonome du 20 octobre 2026 (vingt-neuvième) : Loire (42) visée, Roanne sondée au registre, aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle », une demande en cours inchangée.
+
+**Secteur, règle 41.** Métropole seule. Le département retenu est la Loire (42), première région ouverte après Seine-Maritime (76, descente close, passe précédente) et Haute-Garonne, Nord et Bouches-du-Rhône fermés par les règles 247 et 41.c. Isère (38) et Haut-Rhin (68) restent éprouvés.
+
+**Commune, règle 41.d.** Saint-Chamond et Roanne ont déjà été éprouvées aux passes précédentes. Cette passe a relu le registre Agence Bio de la Loire (première page de cent opérateurs) : deux entrées à Roanne, dont une enseigne nationale de magasins bio, à qualifier avant toute fiche. Aucune source nouvelle n'a été ouverte pour les marchés de Roanne.
+
+**Pourquoi rien n'est publié.** Roanne ne rend pas cinq commerces vérifiables dans les sources lues ; la descente de la règle 41.d n'a pas abouti dans cette passe.
+
+**Points d'arrêt.** Passe suivante : Loire (42) exclue si elle est visée à nouveau de suite (règle 41.c). Roanne se reprend par l'office de tourisme du Roannais (marchés) et par le site du magasin bio national, si la catégorie est tranchée par la règle 9 ou 52.
+
+**Contradictions** : aucune.
