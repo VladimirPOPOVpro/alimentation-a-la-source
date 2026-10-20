@@ -40568,3 +40568,33 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : ouvrir le site du magasin de La Brandais ; lire les communes voisines de Rennes Métropole dans le registre Agence Bio d'Ille-et-Vilaine (déjà lu en entier, vingt-quatre entrées à Betton) pour trouver quatre autres commerces vérifiés ; publier seulement si la zone atteint cinq fiches.
+
+### Passe autonome du 21 octobre 2026 (quarante-huitième) : Ille-et-Vilaine (35) reprise, Betton relue, Douz'Arômes vérifié : aucune fiche publiée
+
+**Backlog.** Vide : aucune demande « nouvelle ».
+
+**Secteur, règle 41.** Métropole seule (97x et 98x exclus, règle 177), 1 280 fiches. Ille-et-Vilaine (35) reprise, région 53, comme à la passe précédente.
+
+**Commune, règle 41.d.** Betton (12 964 hab.), reprise de la descente.
+
+**Ce qui a été lu.**
+
+- Douz'Arômes, point de vente collectif à La Brandais (Betton), tenu par plusieurs agriculteurs d'Ille-et-Vilaine. Site officiel (douzaromes.fr) en ligne. Horaires concordants sur deux sources indépendantes (Que Choisir, Unidivers) et sur le site : mardi, mercredi et vendredi 9 h-19 h ; samedi 9 h-17 h ; fermé lundi, jeudi et dimanche. Téléphone publié par Unidivers. Aucune fiche existante dans `data/marchands.json`.
+- Registre Agence Bio d'Ille-et-Vilaine relu en entier (2 506 entrées) : peu de producteurs à Betton, surtout des grossistes, boulangeries, et des entrées à nom de particulier (non reprises, règle 60). Aucun autre commerce de vente directe vérifiable à Betton sur ce registre.
+- Registre des entreprises : la recherche par nom n'a rien rendu cette passe ; l'activité de l'établissement n'est donc pas confirmée par cette source (règle 6 non satisfaite à ce stade).
+
+**Pourquoi rien n'est publié.** Un seul commerce vérifiable à Betton. Il manque l'activité confirmée au registre des entreprises pour Douz'Arômes, et il faut quatre autres commerces vérifiés pour atteindre cinq fiches dans une même commune ou agglomération (règle 52). Les communes voisines de Rennes Métropole n'ont pas été lues en détail cette passe.
+
+**Pistes non publiées** (anonymes) :
+
+- Betton, Douz'Arômes (point de vente collectif de producteurs) : site et horaires vérifiés, registre des entreprises à confirmer ; à publier avec quatre autres commerces vérifiés de la zone.
+- Betton, magasin de producteurs de La Brandais (même lieu que ci-dessus, déjà noté à la passe précédente) : même piste, à fusionner avec la précédente.
+- Betton, marché communal : jour et horaires à établir auprès de la Ville (règle 9).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe ; les entrées du registre à nom de particulier ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : confirmer Douz'Arômes au registre des entreprises (recherche par SIRET ou adresse, pas par nom) ; lire les communes voisines de Rennes Métropole (Cesson-Sévigné, Bruz, Chantepie, Acigné) dans le registre Agence Bio ; publier seulement si la zone atteint cinq fiches.
