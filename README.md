@@ -40170,3 +40170,28 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Points d'arrêt.** Passe suivante : Loire (42) exclue si elle est visée à nouveau de suite (règle 41.c). Roanne se reprend par l'office de tourisme du Roannais (marchés) et par le site du magasin bio national, si la catégorie est tranchée par la règle 9 ou 52.
 
 **Contradictions** : aucune.
+
+### Passe autonome du 20 octobre 2026 (trentième) : Pyrénées-Atlantiques (64) visées, Bayonne et Anglet sondées : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle », la demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule (règles 93 et 177), 1 279 fiches, populations `geo.api.gouv.fr`. Ordre de la passe précédente : Loire (42) visée, donc Auvergne-Rhône-Alpes exclue pour cette passe (règle 41.c). Tête du classement hors région exclue : Pyrénées-Atlantiques (64), déficit ≈ 4,1, 9 fiches publiées dans le département.
+
+**Commune, règle 41.d.** Bayonne et Anglet sont les communes les plus peuplées du département sans fiche publiée (Pau et Biarritz ont déjà des pistes non publiées, Biarritz restant bloquée).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Pyrénées-Atlantiques, première tranche de cent opérateurs seulement : la plupart des entrées de Bayonne et d'Anglet sont des grossistes, des restaurants collectifs ou des entrées sans vente aux particuliers. Une entrée d'Anglet déclare une vente aux particuliers et au détail ; elle n'a pas été rapprochée d'une adresse de vente vérifiée. Tranche incomplète.
+- Recherche web (sites touristiques et agendas de marchés, sans source officielle de la mairie) : marché de Quintaou à Anglet (jeudi et dimanche matin, 8 h à 13 h), marché nocturne de la Chambre d'Amour (vendredi soir, saison estivale), producteurs au Carreau des Halles à Bayonne (samedi matin), halles couvertes de Bayonne, place des Gascons (mercredi matin), Polos-Beyris (vendredi matin). Ces horaires viennent de guides et d'agendas dont les dates ne sont pas à jour ; aucune page officielle de la Ville n'a été lue dans cette passe.
+
+**Pourquoi rien n'est publié.** Les marchés relèvent de la règle 9 (deux sources officielles concordantes : la commune et l'office de tourisme) ; ces deux sources n'ont pas été lues. Aucun commerce de vente directe n'a été recoupé au registre des entreprises (règle 6). Aucune commune ne réunit cinq fiches vérifiables dans les sources lues.
+
+**Pistes non publiées** (anonymes) :
+- Anglet, marché de Quintaou (jeudi et dimanche matin) : fiche « marché » possible dès que la Ville ou l'office de tourisme confirme jours et lieu sur une page lue (règle 9).
+- Bayonne, producteurs du Carreau des Halles (samedi matin) : même déblocage, source officielle de la Ville à lire.
+- Anglet, entrée Agence Bio déclarant une vente aux particuliers : déblocage, rapprochement au registre et adresse de vente vérifiée.
+
+**Points d'arrêt.** Passe suivante : Pyrénées-Atlantiques (64) exclue si elle est visée à nouveau de suite (règle 41.c). Le classement suivant hors Auvergne-Rhône-Alpes est Haut-Rhin (68), déjà éprouvé, puis Pyrénées-Atlantiques reprise si les sites de Bayonne et d'Anglet répondent.
+
+**Contradictions** : aucune.
+
+**Constat de méthode.** Passe sans fiche publiée. Le registre Agence Bio n'a été lu que sur la première tranche, et les sites des communes ne sont pas encore lus. La barre de cinq fiches vérifiées dans une même commune reste la contrainte qui bloque chaque passe ; à revoir par le responsable du site.
