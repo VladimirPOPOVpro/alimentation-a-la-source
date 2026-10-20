@@ -40238,3 +40238,26 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 - Villepreux (78), boutique « Les Vergers de la Haye » du même exploitant que la fiche publiée : adresse du site (78450) à recouper avec le registre avant publication, à faire dans un passage ultérieur sur Villepreux.
 
 **Points relevés pour la suite.** Les cinq fiches visées n'ont pas été atteintes : Yvelines n'a qu'une fiche vérifiable à cette passe. Les Mureaux compte désormais une fiche ; Villepreux et Mantes-la-Jolie restent à instruire.
+
+### Passe autonome du 20 octobre 2026 (trente-troisième) : Nord (59) visé, Wattrelos sondée, aucune publication
+
+**Backlog.** Aucune demande « nouvelle » (une seule en cours, déjà traitée). Rien à traiter côté demandes.
+
+**Secteur, règle 41.** Métropole seule (règle 177 : outre-mer écarté, le validateur refuse les coordonnées hors métropole), 1 280 fiches, populations `geo.api.gouv.fr`. Tête du classement : Nord (59) à 5,60, devant la Haute-Garonne (31) à 5,47 et la Seine-Maritime (76) à 5,39. La passe précédente visait les Yvelines (Île-de-France) : seule cette région est exclue (règle 41.c). Le Nord est retenu.
+
+**Commune, règle 41.d.** Lille, Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes et Douai portent déjà des fiches. La plus peuplée sans fiche est **Wattrelos (40 847 habitants)**, déjà éprouvée à zéro lors de nombreuses passes.
+
+**Ce qui a été lu.**
+- Recherche web : aucun marché de producteurs ni magasin de circuit court identifié à Wattrelos. L'annuaire participatif de marchés en donne trois, sans horaires exploitables.
+- `wattrelos.fr` : la page d'accueil se présente comme celle de la commune, mais elle indique « site commercial privé » et renvoie à un prestataire d'annuaire. Ce n'est pas une source de la Ville, et elle ne donne aucun horaire de marché. Même piège que les domaines qui imitent un site de commune (voir la note correspondante plus haut).
+- Registre de l'Agence Bio : non relu cette passe ; il avait été lu en entier lors de la passe du 9 octobre (une seule entrée de vente aux particuliers, dont l'enseigne est un nom de personne, écartée sans nom).
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucun commerce vérifiable sur deux sources indépendantes. Une fiche isolée ne forme pas le groupe de cinq (règles 96 et 127).
+
+**Pistes non publiées** (anonymes) : Wattrelos, trois marchés sans horaires officiels. Déblocage : un horaire publié par la Ville ou par l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Point d'arrêt.** Passe suivante : le Nord reste éligible si la Haute-Garonne ou la Seine-Maritime ne prennent pas la tête, puisque la règle 41.c n'exclut que la région de la passe précédente. Ne pas reprendre Wattrelos sans horaire officiel. Marcq-en-Barœul (site de la Ville injoignable), puis Cambrai et Lambersart selon la formule.
+
+**Observation de fond.** Depuis plusieurs passes, la formule désigne une commune que le critère des cinq fiches vérifiables ne peut pas atteindre (Dieppe, Wattrelos, Marcq-en-Barœul). Le classement est correct ; c'est la règle de commune unique qui bloque. À reprendre au niveau des règles, pas à la passe.
