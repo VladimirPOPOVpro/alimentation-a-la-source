@@ -40087,3 +40087,31 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) exclue si elle est visée à nouveau (règle 41.c). Le classement suivant est Seine-Maritime (76) puis Isère (38).
 
 **Constat de méthode.** Passe sans fiche publiée. Recherche web seule, sans passage par les sites officiels des communes.
+
+### Passe autonome du 20 octobre 2026 (vingt-sixième) : Haute-Garonne (31) visée, Blagnac sondée au registre et sur le web : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr`. Tête du classement : Nord (59) close (règle 247) ; Haute-Garonne (31) 5,44, retenue : la règle 41.c ne vise que la région de la passe précédente (Provence-Alpes-Côte d'Azur, région 93).
+
+**Commune, règle 41.d.** Blagnac reste la première commune du département sans fiche, reprise au point d'arrêt.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, 500 premières entrées de la Haute-Garonne (sur 2 837) : pour les communes de l'agglomération toulousaine, seules quelques entrées déclarent une vente aux particuliers, et aucune ne tient le critère de la règle 6 sans réserve. Une entrée est une enseigne au nom d'une personne (écartée, règle 309) ; une autre est une grande surface généraliste (hors périmètre).
+- Recherche web sur les marchés de producteurs de Blagnac : seule source trouvée, un annuaire de producteurs daté de 2015 (marché le samedi matin et le mercredi après-midi, deux places), et une ferme installée hors commune. Ces horaires datent de plus de dix ans : hors critère.
+- Site de la Ville de Blagnac : pas de lecture exploitable depuis cet environnement pendant cette passe.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend pas cinq fiches vérifiables avec deux sources récentes. Les pistes relevées ne se recoupent pas avec une source à jour (règle 6 et critère de deux sources).
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, marchés de producteurs (samedi matin, mercredi après-midi, deux places) : déblocage, confirmation actuelle de la Ville ou de l'office de tourisme sur le jour et le lieu.
+- Blagnac, point de vente de légumes bio (rue du Docteur-Guimbaud, selon l'annuaire 2015) : déblocage, registre actif à l'adresse et site ou horaires publiés par l'établissement.
+- Blagnac, dépôt de paniers bio (route de Grenade) : déblocage, source datée et adresse du point de distribution.
+
+**Fiches écartées pour doute sur une personne** : une entrée de maraîchage au nom d'une personne (Haute-Garonne, commune de l'agglomération), non nommée, ne se rouvre pas ; une enseigne de boucherie dont le nom est un prénom (Saint-Orens-de-Gameville), non publiée ; trois entrées du registre dont l'enseigne ou l'exploitant est un nom de personne, non nommées.
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne (31) exclue si elle est visée à nouveau de suite (règle 41.c, la région de la passe est alors Occitanie). Le classement suivant est Isère (38) puis Haut-Rhin (68) ; Blagnac se rouvre si une source actuelle donne un marché ou un point de vente vérifiable.
+
+**Contradictions** : aucune.
+
+**Constat de méthode.** Passe sans fiche publiée. Sur les dernières passes, la barre des cinq fiches vérifiées dans une même commune n'a pas été atteinte ; c'est à revoir par le responsable du site (seuil, ou élargissement à une agglomération entière).
