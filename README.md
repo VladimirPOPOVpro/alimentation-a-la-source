@@ -40115,3 +40115,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradictions** : aucune.
 
 **Constat de méthode.** Passe sans fiche publiée. Sur les dernières passes, la barre des cinq fiches vérifiées dans une même commune n'a pas été atteinte ; c'est à revoir par le responsable du site (seuil, ou élargissement à une agglomération entière).
+
+### Passe autonome du 20 octobre 2026 (vingt-septième) : Ille-et-Vilaine (35) visée, Betton sondée : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié).
+
+**Secteur, règle 41.** Métropole seule, 1 279 fiches, populations `geo.api.gouv.fr` (97x et 98x exclus, règle 177). Tête du classement : Nord (59), Haute-Garonne (31) et Seine-Maritime (76) fermés (règle 247) ; Bouches-du-Rhône (13) : descente de douze communes sans succès, fermée ; Isère (38) et Haut-Rhin (68) : descentes éprouvées. Yvelines (78) : règle 96. **Ille-et-Vilaine (35) retenue** : région 53, différente de l'Occitanie visée la passe précédente (règle 41.c).
+
+**Commune, règle 41.d.** Ille-et-Vilaine : Rennes, Saint-Malo, Bruz et Saint-Jacques-de-la-Lande ont déjà des fiches ; Fougères, Vitré et Cesson-Sévigné sont éprouvées sans succès. **Betton (12 964 hab.)** est la commune suivante sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine, première tranche de cent opérateurs seulement (sur 2 507) : à Betton, un organisme de certification (hors sujet) et une entrée de vente en gros au nom d'une personne (écartée pour doute sur une personne, non nommée). Tranche incomplète : le registre n'a pas été relu en entier.
+- Recherche web : un marché dominical (place de la Cale, 8 h - 13 h, source d'agenda tiers), une AMAP de distribution le mercredi (école des Mézières, source du site de la Ville relevée par un extrait de moteur de recherche), un magasin de vente directe (La Brandais, presse régionale de septembre 2026), et deux fermes à vente sur place.
+- Site de la Ville de Betton : la page « Agriculture et circuits courts » n'est pas accessible en lecture directe depuis cet environnement (redirection vers l'accueil) ; le contenu de cette rubrique n'a donc pas pu être lu.
+
+**Pourquoi rien n'est publié.** Le marché et l'AMAP ne sont pas recoupés par une page lue de la Ville ; le magasin de vente directe n'a pas été ouvert ni rapproché du registre des entreprises ; les deux fermes n'ont ni horaires ni site vérifiés. Aucune fiche n'est assez entière pour être publiée seule (règle 52), et les cinq fiches vérifiables ne sont pas réunies.
+
+**Pistes non publiées à Betton** (anonymes) :
+- Betton, marché dominical de la place de la Cale : fiche « marché » possible dès que la Ville ou son office confirme le jour et le lieu sur une page lue (règle 9).
+- Betton, AMAP de distribution du mercredi (école des Mézières) : déblocage, page de la Ville lue ou site de l'AMAP joignable, avec horaires confirmés.
+- Betton, magasin de vente directe de La Brandais : déblocage, rapprochement au registre des entreprises (règle 6) et horaires publiés par le magasin.
+- Betton, deux fermes à vente sur place : déblocage, horaires et site confirmés par l'exploitation.
+
+**Fiches écartées pour doute sur une personne** : une entrée de vente en gros à Betton, au nom d'une personne physique, non nommée, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : Ille-et-Vilaine (35) exclue si elle est visée à nouveau de suite (règle 41.c) ; Betton se reprend en premier, avec la page « Agriculture et circuits courts » de la Ville à lire par un autre chemin (ou une lecture complète du registre 35, pages 2 à 25). Si le registre et la Ville ne donnent pas cinq fiches vérifiables, la descente de la règle 247 se ferme à Betton.
+
+**Contradictions** : aucune.
+
+**Constat de méthode.** Passe sans fiche publiée. Les sites des communes ferment souvent leurs pages à la lecture directe ; le registre Agence Bio n'a été lu qu'en partie. Les deux pistes à lever sont la lecture de la rubrique agriculture de la Ville, et la pagination complète du registre 35.
