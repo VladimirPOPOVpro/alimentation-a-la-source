@@ -40472,3 +40472,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée : Muret ne rend pas cinq commerces vérifiables.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste éligible (région différente de la passe précédente). Descente à la commune suivante sans fiche, Plaisance-du-Touch (31830), puis Balma (31130), avec le site officiel de chaque ville comme source principale. Muret reste éprouvée et ne se rouvre que sur une source officielle nouvelle.
+
+### Passe autonome du 20 octobre 2026 (quarante-quatrième) : Seine-Maritime (76) visée, Dieppe et Fécamp sondées : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en suspens (doute sur une personne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (région 76, Occitanie) : cette région est exclue par la règle 41.c pour cette passe. Les départements de La Réunion, Mayotte et des autres outre-mer en tête du déficit sont sautés (règle 93). Tête du classement restant : Seine-Maritime (76) 4,41 ; Haute-Garonne (31) 4,32, exclue ; Haut-Rhin (68) 4,31.
+
+**Correction de la passe précédente.** Le point d'arrêt de la quarante-troisième passe indiquait que la Haute-Garonne restait éligible « région différente de la passe précédente ». C'était une erreur : la passe précédente visait la Haute-Garonne elle-même. La règle 41.c aurait dû l'exclure ; cette passe s'en tient à la formule.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée de la Seine-Maritime sans fiche, déjà éprouvée à plusieurs passes. Descente à Fécamp (17 313 hab.), elle aussi déjà éprouvée.
+
+**Ce qui a été lu.**
+- Dieppe : l'office de tourisme décrit un marché hebdomadaire du samedi matin, sans heures précises (page en anglais). Un marché nocturne d'été est signalé par la presse, avec des dates anciennes. Aucune source officielle de la Ville n'a donné les jours et horaires.
+- Dieppe : l'épicerie participative (Coop d'Albâtre) apparaît sur une carte de circuit court, avec fermeture le lundi et le mardi, sans horaires complets. Son propre site n'a pas été relevé cette passe.
+- Dieppe : le magasin bio du centre commercial du Val Druel relève de l'enseigne ; ses horaires ne viennent que d'un annuaire participatif, insuffisant (règle 3 : ses propres sources manquent).
+- Fécamp : le marché du samedi près de l'église Saint-Étienne et le marché aux poissons du port sont signalés par un guide de tourisme, avec des horaires dont on ne sait pas à quel marché ils s'appliquent. Aucune source officielle de la Ville ; la presse locale date de 2020.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables : les horaires des marchés ne sont pas confirmés par une source officielle, et les commerces à vendre au public manquent de sources propres. Aucune fiche partielle n'est publiée (règles 52, 96, 127, 248).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (anonymes)** : Dieppe, marché du samedi matin à établir sur le site officiel de la Ville ; Dieppe, épicerie participative à reprendre avec son propre site ; Fécamp, marché du samedi à confirmer auprès de la Ville.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime reste en tête (région 76 différente de la passe précédente, qui vise la Haute-Garonne). Reprendre Dieppe seulement si une source officielle de la Ville ou du commerce apparaît ; sinon, Montivilliers ou Elbeuf selon la descente de la règle 41.d.
