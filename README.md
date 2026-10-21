@@ -40598,3 +40598,30 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : confirmer Douz'Arômes au registre des entreprises (recherche par SIRET ou adresse, pas par nom) ; lire les communes voisines de Rennes Métropole (Cesson-Sévigné, Bruz, Chantepie, Acigné) dans le registre Agence Bio ; publier seulement si la zone atteint cinq fiches.
+
+### Passe autonome du 21 octobre 2026 (quarante-neuvième) : Haute-Garonne (31) visée, Plaisance-du-Touch sondée : aucune fiche publiée
+
+**Backlog.** Vide : aucune demande « nouvelle ».
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. Seine-Maritime (76) close par la règle 247. La passe précédente visait l'Ille-et-Vilaine (Bretagne), donc la Haute-Garonne (31, Occitanie) est éligible : déficit ≈ 4,32.
+
+**Commune, règle 41.d.** Blagnac et Muret déjà éprouvées ; Plaisance-du-Touch (31830, 21 079 hab.) est la commune suivante sans fiche, comme indiqué au point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+
+- Registre Agence Bio de la Haute-Garonne, 2 837 entrées lues en entier, filtrées sur Plaisance-du-Touch : une seule entrée est déclarée en vente aux particuliers avec une activité de distribution, un commerce de produits d'hygiène et de nutrition au rayon bio, dont l'activité publiée diffère de celle du registre (décalage à vérifier). Les autres entrées sont des négoces, des préparations, des grandes surfaces, des restaurants ou des entreprises à nom de particulier (écartées, non nommées, règle 6 et doute sur une personne).
+- Une entrée de maraîchage bio à Plaisance-du-Touch est déclarée en vente aux particuliers, mais son enseigne n'a retrouvé aucune trace sur le web (règle 6 non satisfaite).
+- Une entrée de boulangerie-artisanat déclarée en vente aux particuliers est à jour depuis 2020 : elle ne se publie pas (hors catégorie).
+- Recherche web : aucun marché de producteurs ni magasin de producteurs identifié à Plaisance-du-Touch. Le site de la commune mentionne une page « Le marché de plein vent » sans contenu consultable cette passe (jour, lieu, horaires absents des extraits lus). Le registre des producteurs de jours-de-marche.fr ne donne que des fermes à plusieurs kilomètres.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable sur une source indépendante, à Plaisance-du-Touch, à cette passe. Il manque l'activité confirmée au registre des entreprises et le jour et le lieu du marché communal (règle 9).
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à nom de particulier, non reprises (nombre seul, commune Plaisance-du-Touch ; ces entrées ne se rouvrent pas).
+
+**Contradictions** (règle 5) : une entrée du registre écrit « vente aux particuliers » alors que son activité déclarée est un magasin spécialisé sans vente au public ; à consigner, non publiée.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste éligible (région différente de la passe précédente, Bretagne). Lire la page « Le marché de plein vent » du site de la commune et le registre des entreprises par adresse (pas par nom) pour l'entrée de maraîchage ; si la zone n'atteint pas cinq fiches vérifiées, descendre à Balma (31130), puis Cugnaux et Tournefeuille si elles restent sans fiche comptée, en consignant l'épreuve de la commune. Publier seulement à partir de cinq fiches vérifiées dans une même commune ou agglomération.
+
+**Note de cohérence.** Les passes quarante-septième et quarante-huitième ont visé toutes deux l'Ille-et-Vilaine (Bretagne) : la règle 41.c, qui interdit deux passes de suite dans la même région, n'a pas été respectée. Signalé ici pour relecture, sans correction rétroactive.
