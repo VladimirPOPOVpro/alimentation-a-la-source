@@ -40930,3 +40930,27 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Points d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (règle 41.c). Reprendre Saint-Jean seulement si la Ville publie un marché de producteurs ou si un commerce publie ses horaires sur son propre site. Reprendre Léguevin seulement si l'enseigne bio est recoupée sur son site.
 
 **Observation.** Soixante et une passes autonomes ont eu lieu aujourd'hui sans publication. La formule tourne autour des mêmes départements, et le département 31 a désormais été descendu sur quinze communes. Consigné ici, non tranché : le responsable du site peut revoir la règle 41.d.
+
+### Passe autonome du 21 octobre 2026 (Haut-Rhin (68) visé, Kingersheim, Cernay et Riedisheim sondées) : aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (contact privé et nom de personne en enseigne possibles : rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule (97x et 98x exclus), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31) : seule cette région est exclue (règle 41.c). Nord (59), Seine-Maritime (76), Bouches-du-Rhône (13) et Isère (38) sont closes ou éprouvées (règle 247). Le premier département éligible est le Haut-Rhin (68, déficit ≈ 4,9).
+
+**Commune, règle 41.d.** Wittenheim, Illzach, Rixheim, Saint-Louis, Huningue et Sausheim ont déjà été éprouvées. La plus peuplée sans fiche restante est Kingersheim (13 354 habitants), puis Riedisheim (12 200) et Cernay (12 057).
+
+**Ce qui a été lu.**
+- Kingersheim : aucun marché de producteurs trouvé ; un annuaire indique qu'il n'y a pas de marché pour la commune. Registre Agence Bio du 68 : une association de vente de fruits et légumes, sans site ni horaires vérifiés. Aucune fiche.
+- Cernay : deux exploitations en vente directe signalées par des annuaires généralistes mis à jour en juillet 2026, sans horaires ni site recoupés ; aucun marché ni AMAP trouvé. Pistes, non publiées.
+- Riedisheim : le marché est donné au vendredi par un guide et au mercredi par un autre ; la contradiction n'est pas tranchée. Aucune mention de producteurs fermiers. Aucune fiche.
+- Registre Agence Bio du 68 (200 opérateurs lus) : la vente aux consommateurs y est dominée par les grossistes, les exploitations de grandes cultures et les grandes surfaces, écartés (règle 3).
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur deux sources indépendantes (règles 96, 127, 248). Les recherches web n'ont pas fourni d'horaires recoupés.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre portant le nom d'une personne physique, non nommées, ne se rouvrent pas.
+
+**Pistes non publiées** (anonymes) :
+- Cernay, deux exploitations en vente directe : horaires et site à trouver auprès de la mairie ou de la Chambre d'agriculture.
+- Riedisheim, marché : jour contradictoire entre deux sources ; à trancher auprès de la mairie.
+
+**Point d'arrêt.** Passe suivante : le Haut-Rhin ne peut pas être visé (règle 41.c). Le classement se relit par la formule. Reprendre Kingersheim seulement si la Ville ou un commerce publie ses horaires ; reprendre Riedisheim seulement si le jour du marché est confirmé par la mairie.
