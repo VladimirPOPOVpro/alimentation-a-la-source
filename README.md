@@ -40894,3 +40894,18 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Points d'arrêt.** Reprendre Dieppe si la Ville publie les horaires de son marché du samedi et si la Coop d'Albâtre est recoupée sur son propre site. Descendre ensuite vers Fécamp.
 
 **Observation (à lire par le responsable du site).** La formule de la règle 41 place en tête un département ultramarin (974) que le validateur interdit. Le classement métropolitain est donc le seul utilisable. Cette contradiction est consignée ici, non tranchée.
+
+### Passe autonome du 21 octobre 2026 (Dieppe (76) reprise, aucune fiche publiée)
+
+**Calcul (règle 41).** Déficit le plus grand : outre-mer (974, 971 à 988) écarté, le validateur ne couvrant que la métropole. Premier département métropolitain : 76, déficit 4,4. La passe précédente visait aussi la Seine-Maritime, mais aucune fiche n'y ayant été publiée, la règle 41.c ne s'applique pas ; la descente reprend à Dieppe, sans rouvrir de commune éprouvée.
+
+**Ce qui a été relu.**
+- Dieppe Tourisme et la recherche web : marché des producteurs le samedi matin, sans horaires précis publiés ; une seule source, non recoupée.
+- Coop d'Albâtre (épicerie participative) : horaires donnés par une seule source (annuaire Que Choisir), pas de site propre trouvé. Piste.
+- Brochure commerces de l'office de tourisme Côte d'Albâtre 2026 : téléchargée, mais illisible ici (aucun outil d'extraction PDF disponible dans l'environnement). À relire.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables sur deux sources indépendantes. La descente vers Fécamp n'a pas été faite dans cette passe.
+
+**Piste anonyme non publiée.** Demande en cours de Villecroze (83), catégorie producteur : l'enseigne est formée d'un prénom usuel, doute sur une personne. Rien publié ; la demande reste en cours, sans réponse envoyée.
+
+**Observation.** Soixante passes autonomes ont eu lieu aujourd'hui sans aucune publication, et la formule désigne en boucle les mêmes départements (76, 31, 68, 59). Consigné ici, non tranché.
