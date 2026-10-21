@@ -40968,3 +40968,30 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Constat.** Cette passe est une des nombreuses passes du 21 octobre sans publication. La boucle de sondage répète les mêmes communes : le responsable du site doit arbitrer le rythme des passes, ou le seuil de cinq fiches par commune, ce que la règle 41.d ne tranche pas à elle seule.
 
 **Point d'arrêt.** Passe suivante : le département éligible suivant par la formule, hors Haut-Rhin, après Haute-Garonne (31) : Pyrénées-Atlantiques (64, déficit voisin de 4,1), en commençant par une recherche neuve sur Pau ou Bayonne (règle 41.d, sans reprendre les pistes existantes sans nouvelle source).
+
+### Passe autonome du 21 octobre 2026 (Pyrénées-Atlantiques (64) visées, Biarritz reprise, aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule (97x et 98x exclus), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31) : seule cette région est exclue par la règle 41.c. Le déficit le plus fort reste le Nord (59, ≈ 5,6), puis la Haute-Garonne (exclue), la Seine-Maritime (76, ≈ 5,4), les Bouches-du-Rhône (13, ≈ 5,4) et l'Isère (38, ≈ 5,1). Ces quatre dernières sont closes ou éprouvées par la règle 247 : on passe donc au Pyrénées-Atlantiques (64, ≈ 4,7), premier département non éprouvé.
+
+**Commune, règle 41.d.** La consigne de la passe précédente (« Pau ou Bayonne ») ne s'applique pas : Pau (80 441 hab.), Bayonne (54 306 hab.), Anglet, Billère, Bizanos et Lescar portent déjà des fiches. La commune la plus peuplée sans fiche est Biarritz (26 206 hab.), déjà sondée aux passes du 13, 16, 18, 19 et 20 octobre.
+
+**Ce qui a été relu.**
+- Site officiel de Biarritz (`biarritz.fr`) : joignable cette passe ; la page d'accueil ne donne aucune photo utilisable et renvoie vers la rubrique des marchés publics, non lue en détail.
+- Sites de Saint-Jean-de-Luz et d'Hendaye : toujours injoignables depuis cet environnement (code 000).
+- Les horaires des halles et des marchés de Biarritz restent ceux des passes précédentes (sources de la Ville).
+
+**Pourquoi rien n'est publié.** Biarritz reste bloquée par l'absence de photo honnête : le bandeau de la Ville montre des personnes reconnaissables (écarté), Unsplash et Pexels sont bloqués, et Wikimedia Commons exige une attribution. Hendaye et Saint-Jean-de-Luz ne peuvent pas être confirmées par une source officielle joignable. Une fiche isolée n'est pas une zone (règle 52), et rien ne se publie seul.
+
+**Pistes non publiées** (anonymes) :
+- Biarritz, halles et marchés : déblocage, une photo sans personne reconnaissable de 700 px ou plus.
+- Biarritz, épicerie vrac : contradiction d'activité (liquidation contre horaires en cours) ; à rouvrir si le registre tranche.
+- Hendaye, marché hebdomadaire : déblocage, une réponse officielle de la Ville sur le jour et le lieu.
+- Saint-Jean-de-Luz, Halles : déblocage, une source officielle datée qui tranche les horaires.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe (la bannière de la Ville déjà écartée le 20 octobre n'est pas réexaminée).
+
+**Constat (à lire par le responsable du site).** Une contradiction de règle : la règle 41.d désigne la commune la plus peuplée sans fiche, et la consigne « Pau ou Bayonne » de la passe précédente ne le permet pas. Le déficit 41.c écarte la région de la passe précédente, mais les régions closes par la règle 247 (Nord, Seine-Maritime, Bouches-du-Rhône, Isère) sont sautées sans règle écrite pour les rouvrir. Consigné ici, non tranché.
+
+**Points d'arrêt.** Passe suivante : le Pyrénées-Atlantiques (64) ne peut pas être visé (règle 41.c). Reprendre Biarritz seulement si une photo honnête est trouvée ; reprendre Hendaye et Saint-Jean-de-Luz seulement si leur site répond ou si la Ville publie horaires et jour de marché.
