@@ -40995,3 +40995,26 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Constat (à lire par le responsable du site).** Une contradiction de règle : la règle 41.d désigne la commune la plus peuplée sans fiche, et la consigne « Pau ou Bayonne » de la passe précédente ne le permet pas. Le déficit 41.c écarte la région de la passe précédente, mais les régions closes par la règle 247 (Nord, Seine-Maritime, Bouches-du-Rhône, Isère) sont sautées sans règle écrite pour les rouvrir. Consigné ici, non tranché.
 
 **Points d'arrêt.** Passe suivante : le Pyrénées-Atlantiques (64) ne peut pas être visé (règle 41.c). Reprendre Biarritz seulement si une photo honnête est trouvée ; reprendre Hendaye et Saint-Jean-de-Luz seulement si leur site répond ou si la Ville publie horaires et jour de marché.
+
+### Passe autonome du 21 octobre 2026 (Haute-Garonne (31) reprise, Fonsorbes sondée, aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule (97x et 98x exclus), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Pyrénées-Atlantiques (64, région 75) : seule cette région est exclue par la règle 41.c. Le Nord (59, ≈ 5,6) reste clos par la règle 247. La Seine-Maritime (76), les Bouches-du-Rhône (13) et l'Isère (38) sont éprouvés. Premier département éligible : la Haute-Garonne (31, ≈ 5,5, 23 fiches).
+
+**Commune, règle 41.d.** Dans la Haute-Garonne, la descente compte déjà dix communes sondées sans cinq commerces vérifiables (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, L'Union, Saint-Jean, Léguevin). La suivante par population sans fiche est Fonsorbes (12 954 hab.) ; Saint-Gaudens (12 139 hab.) serait la douzième, donc la borne de la règle 247.
+
+**Ce qui a été lu.**
+- Site officiel de la mairie de Fonsorbes, rubrique « Marché de plein vent » : marché le samedi de 8h à 13h, place du Trépadé, une vingtaine de commerçants (fruits et légumes de producteurs et primeurs, charcuterie, volaille, fromages, poissonnerie). Source officielle datée, un fait solide.
+- Un annuaire de vente directe mentionne une ferme à Fonsorbes (vente le mercredi de 10h à 13h et le vendredi de 17h à 19h). Une seule source tierce, non recoupée : pas de fiche.
+- Autres pistes de producteurs (ferme du Futur, Les Jardins de Ferraté) : annuaires seuls, aucune source du commerce lui-même lue cette passe.
+
+**Pourquoi rien n'est publié.** Une fiche isolée n'est pas une zone (règle 52), et il manque au moins quatre fiches vérifiées à Fonsorbes. Le marché du samedi a une source officielle, mais sa photographie n'a pas été cherchée (la page de la mairie n'en donne aucune) et les horaires d'un producteur ne sont pas recoupés.
+
+**Pistes non publiées** (anonymes) :
+- Fonsorbes, marché de plein vent du samedi : fait solide ; à publier avec les fiches voisines, une photo honnête à chercher.
+- Fonsorbes, ferme à vente directe du mercredi et du vendredi : une seule source tierce ; reprendre si le site du producteur donne les horaires.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne (31) ne peut pas être visée (règle 41.c : la passe précédente visait le 64, mais cette passe vise le 31, donc la passe suivante doit choisir un autre département). Si la Haute-Garonne est retenue à nouveau, la descente reprend à Fonsorbes puis Saint-Gaudens (borne de douze, règle 247). Reprendre Fonsorbes seulement si cinq fiches au moins sont vérifiables sur des sources propres.
