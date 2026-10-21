@@ -41083,3 +41083,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Ce qui a été volontairement laissé de côté.** Les exploitants en entreprise individuelle (EI), dont le nom patronymique est le seul nom public, ne sont pas retenus. Les supermarchés certifiés bio du registre (Leclerc, Intermarché, Lidl, Netto) sont écartés par MODERATION.md. Le marché du mardi et du samedi de la halle couverte n'est pas instruit : horaires en partie vérifiés seulement.
 
 **Points d'arrêt.** Commune à trois fiches sur cinq à la prochaine passe : Oloron-Sainte-Marie reste visée tant que les deux magasins bio n'ont pas de photo honnête (règle 59, 600 px minimum).
+
+### Passe autonome du 22 octobre 2026 (Haut-Rhin (68) reprise, Guebwiller sondée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait le Pyrénées-Atlantiques (64) : cette région est exclue par la règle 41.c. Nord, Seine-Maritime, Bouches-du-Rhône et Isère restent éprouvés ou clos (règle 247). Premier département éligible : le Haut-Rhin (68), dont la descente compte déjà neuf communes éprouvées, Mulhouse et Colmar portant des fiches.
+
+**Commune, règle 41.d.** Guebwiller (11 243 hab.) est la commune la plus peuplée sans fiche restante de la descente du 68 (Wittelsheim, 10 645, suit). Sources : registre Agence Bio du 68 relu (aucun opérateur de la commune déclaré en vente aux particuliers ; les deux opérateurs locaux ne sont pas des commerces de détail vérifiables) ; recherche web : le marché hebdomadaire de producteurs est signalé deux fois par semaine place de l'Hôtel de Ville, sans horaires ni jours concordants entre deux annuaires ; le site de l'office de tourisme n'a pas répondu (404). Les annuaires de cavistes ne donnent aucun point de vente bio ou en vente directe avec horaires vérifiés.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne rencontre les exigences de deux sources indépendantes avec horaires recoupés (règles 96, 127, 248). Une fiche isolée n'est pas une zone (règle 52).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Haut-Rhin (68) ne peut pas être visé (règle 41.c, cette passe le visait). Au retour dans le 68, la descente reprend à Wittelsheim, dans la borne de douze communes (règle 247).
