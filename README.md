@@ -13663,6 +13663,26 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 21 octobre 2026 (Seine-Maritime, Montivilliers et Elbeuf sondées au registre) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Classement, règle 41.** Métropole seule (règle 177) : les départements d'outre-mer en tête du calcul (La Réunion 974, Guadeloupe 971, Martinique 972, Guyane 973, Polynésie 987, Nouvelle-Calédonie 988, Mayotte 976) sont exclus par le garde-fou de `lib/validateMerchants.ts`, qui refuse toute latitude hors métropole. La passe précédente visait le Nord : la région est fermée (règle 41.c). Seine-Maritime (76) reste en tête, déficit ≈ 4,4 sur 1 280 fiches, devant la Haute-Garonne et le Haut-Rhin. Le Var reste à −214.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste sans fiche et déjà éprouvée à plusieurs passes ; Le Petit-Quevilly et Fécamp ont été sondées le 18 octobre. On descend à Montivilliers (15 478 hab.) puis Elbeuf (15 474 hab.), toutes deux sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, quatre pages (400 opérateurs) filtrées sur Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers et Elbeuf : une majorité de distributeurs, de négoces, de supermarchés et d'établissements sans vente au public ; plusieurs entrées portant un nom de personne (écartées pour doute sur une personne, non nommées, ne se rouvrent pas).
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend cinq commerces vérifiables sur deux sources indépendantes. Une entrée du registre déclarée en vente aux particuliers ne suffit pas à elle seule : sans adresse de vente ni horaires publiés, elle reste une piste.
+
+**Pistes non publiées** (anonymes) :
+- Montivilliers, producteur déclaré au registre en vente aux particuliers (bio), sans site ni lieu de vente publiés à ce jour. **Déblocage** : une adresse de vente ou des heures publiées par le producteur.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Le Petit-Quevilly et à Fécamp, non nommées, non reprises.
+
+**Point d'arrêt.** Seine-Maritime reste éligible à la passe suivante (la précédente visait le Nord). Reprendre Montivilliers si le producteur publie un lieu de vente, sinon descendre à Canteleu ou Bolbec sans viser le Nord.
+
 ### Passe autonome du 18 octobre 2026 (Seine-Maritime, Petit-Quevilly et Fécamp sondées au registre et sur le web) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
