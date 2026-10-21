@@ -13663,6 +13663,28 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 21 octobre 2026 (cinquante-huitième) : Seine-Maritime (76) reprise, Canteleu et Oissel-sur-Seine sondées : aucune publication
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours » à traiter. Aucun courriel.
+
+**Classement, règle 41.** Dénominateur national (règle 224, 68 952 941 habitants), 1 280 fiches, outre-mer écarté (règle 177). La passe précédente visait le Haut-Rhin (68, Grand Est) : cette région est close (règle 41.c). Le Haut-Rhin sort donc du tirage. Seine-Maritime (76) reste en tête, déficit ≈ 4,408, devant la Haute-Garonne (31, ≈ 4,315, communes épuisées, règle 247). Le Var reste à −214.
+
+**Commune, règle 41.d.** Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers et Elbeuf ont déjà été éprouvées (sans cinq fiches entières). Bois-Guillaume a déjà une fiche et est sautée. Canteleu (14 402 hab.) est la plus peuplée restante sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, quatre pages (400 opérateurs), filtrées sur Canteleu, Oissel-sur-Seine, Barentin et Yvetot. Pour Canteleu : une entrée de distribution à enseigne de grande surface (non éligible), une entrée de production en vente aux particuliers portant un nom de personne (écartée pour doute sur une personne, non nommée, ne se rouvre pas), une entrée de production en vente aux particuliers sans site ni adresse de vente publiés, et des entrées de négoce ou de stockage.
+- Recherche web « Canteleu marché producteurs AMAP magasin bio » : aucune source locale datée.
+- Recherche web « Oissel-sur-Seine marché producteurs locaux AMAP magasin bio » : aucune source locale ; seul un avis de marché public de la Ville.
+
+**Pourquoi rien n'est publié.** Canteleu ne rend pas un seul commerce vérifiable sur deux sources indépendantes, et Oissel non plus. Aucune fiche ne peut être complétée à cinq.
+
+**Pistes non publiées** (anonymes) :
+- Canteleu, producteur déclaré au registre en vente aux particuliers, sans adresse de vente ni site publiés. **Déblocage** : une adresse de vente ou des horaires publiés par le producteur.
+
+**Fiches écartées pour doute sur une personne** : une entrée de production à Canteleu, non nommée.
+
+**Point d'arrêt.** Seine-Maritime : descente à reprendre à Barentin (12 022 hab.) puis Bolbec, sauf si la règle 247 (douze communes éprouvées) est atteinte au décompte. La passe suivante ne vise pas la Normandie (règle 41.c) : la tête du classement, hors Normandie, sera recalculée à ce moment-là.
+
 ### Passe autonome du 21 octobre 2026 (Seine-Maritime, Montivilliers et Elbeuf sondées au registre) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
