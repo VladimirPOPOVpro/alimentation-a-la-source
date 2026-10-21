@@ -13683,6 +13683,27 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
 
 **Point d'arrêt.** Seine-Maritime reste éligible à la passe suivante (la précédente visait le Nord). Reprendre Montivilliers si le producteur publie un lieu de vente, sinon descendre à Canteleu ou Bolbec sans viser le Nord.
 
+### Passe autonome du 21 octobre 2026 (cinquante-septième) : Haut-Rhin (68) reprise, Wittenheim, Illzach et Rixheim relues au registre : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; 97x et 98x sortent du calcul), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (76, Normandie) : cette région est close pour cette passe (règle 41.c). Le premier département éligible est la Haute-Garonne (31, déficit ≈ 4,315), à égalité quasi parfaite avec le Haut-Rhin (68, ≈ 4,308). La Haute-Garonne a été visée aux passes quarante-neuvième, cinquante-et-unième et cinquante-troisième : ses communes les plus peuplées sans fiche (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne) sont déjà sondées, et la borne de la règle 247 (douze communes) est atteinte. Le département passe donc au suivant du classement, le Haut-Rhin, qui n'a pas été visé à la passe précédente. Le Var reste à −214.
+
+**Commune, règle 41.d.** Wittenheim (15 553 hab.) est la plus peuplée du Haut-Rhin sans fiche, après Mulhouse, Colmar et Saint-Louis. Illzach et Rixheim la suivent. Ces trois communes étaient déjà citées dans plusieurs passes précédentes.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haut-Rhin, huit pages (800 opérateurs) filtrées sur Wittenheim, Illzach, Rixheim et Kingersheim : des grossistes, des distributeurs, un hypermarché, des sociétés de négoce et une association ; une seule entrée à vente déclarée aux particuliers avec activité agricole (élevage), et elle est portée par un nom de personne : écartée pour doute sur une personne, non nommée, ne se rouvre pas. Plusieurs autres entrées à Wittenheim et Kingersheim portent aussi des noms de particuliers (même traitement).
+- Aucune source indépendante supplémentaire n'a été ouverte cette passe : rien ne justifie de réouvrir les sites communaux déjà consignés.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur deux sources indépendantes. Le registre seul ne suffit pas, et les entrées déclarées en vente aux particuliers sont soit des noms de personnes, soit des établissements hors circuit court.
+
+**Pistes non publiées** (anonymes) :
+- Wittenheim, Illzach, Rixheim : déjà consignées, aucune nouvelle piste solide à cette passe.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Wittenheim, Kingersheim et Illzach, non nommées, non reprises.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne est de nouveau éligible (région différente de la Normandie et de la Bretagne visées récemment), mais ses communes sont épuisées. La passe suivante ne peut pas viser le Grand Est, visé cette passe (règle 41.c : aucune région deux passes de suite) : elle relira le classement par la formule à ce moment-là.
+
 ### Passe autonome du 18 octobre 2026 (Seine-Maritime, Petit-Quevilly et Fécamp sondées au registre et sur le web) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est envoyé.
