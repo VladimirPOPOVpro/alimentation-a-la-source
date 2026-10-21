@@ -40649,3 +40649,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Note de cohérence.** Le point d'arrêt de la passe quarante-neuvième désignait la Haute-Garonne pour la passe suivante : c'est la même région que cette passe-là, ce que la règle 41.c interdit. Signalé ici, non corrigé rétroactivement.
 
 **Point d'arrêt.** Passe suivante : Haut-Rhin, en reprenant le point d'arrêt de la passe quarante-sixième (ouvrir les sites des deux pistes de Saint-Louis et de Biederthal). Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération. L'Occitanie reste hors choix tant que la région ne change pas.
+
+### Passe autonome du 21 octobre 2026 (cinquante-et-unième) : Haute-Garonne (31) visée, Balma et Plaisance-du-Touch sondées : aucune publication
+
+**Demandes.** Aucune demande « nouvelle ». La demande « en_cours » du Var reste inchangée.
+
+**Classement, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Haut-Rhin (région 68, Grand Est) : cette région est exclue par la règle 41.c. La Seine-Maritime (76) reste close par la règle 247. Le premier département éligible est donc la Haute-Garonne (31, déficit ≈ 4,32), devant le Haut-Rhin, exclu. Le point d'arrêt de la passe cinquantième désignait le Haut-Rhin pour cette passe : c'était la même région que la passe cinquantième elle-même, ce que la règle 41.c interdit. Signalé ici, non corrigé rétroactivement.
+
+**Commune, règle 41.d.** Blagnac, Muret et Plaisance-du-Touch ont déjà été éprouvées à plusieurs passes sans zone. Descente à Balma (17 772 hab., 31130), commune suivante sans fiche selon le point d'arrêt de la passe quarante-neuvième.
+
+**Ce qui a été lu.**
+- Site officiel de Balma (`balma.fr`) : aucune rubrique marché ni commerce accessible depuis l'accueil.
+- Registre de l'Agence Bio, Haute-Garonne, 300 opérateurs lus (trois pages), filtrés sur Balma et les communes voisines : deux entrées de Balma en vente aux particuliers ou en distribution, dont une société de négoce de vin (non reprise, hors circuit court de producteurs) et une société sans vente au public.
+- Registre des entreprises, par nom de société (règle 6) : l'établissement bio de Balma est déclaré **fermé** (`nombre_etablissements_ouverts` = 0). Écarté.
+- Site officiel de Plaisance-du-Touch, page « Le marché de plein vent » : marché municipal le jeudi et le samedi, 8h à 12h45, place Bombail. La page ne liste ni producteur ni étal. Une seule fiche possible (le marché lui-même), insuffisante pour une zone.
+
+**Pourquoi rien n'est publié.** Aucune zone de cinq fiches vérifiées dans une même commune ou agglomération (règles 96, 127 et 248). Balma n'a aucun commerce vérifiable ; Plaisance-du-Touch n'a qu'un marché municipal sans étal documenté.
+
+**Pistes non publiées** (anonymes) : Plaisance-du-Touch, marché de plein vent du jeudi et du samedi (place Bombail), à compléter par la liste des étals si la Ville la publie ; Balma, aucune piste utile.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre bio de Balma et de Plaisance-du-Touch à nom de particulier (nombre seul, aucune fiche, aucun nom).
+
+**Contradictions** (règle 5) : aucune relevée cette passe.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus en tête après la région de cette passe, donc à relire par la formule. Si elle reste éligible, Plaisance-du-Touch et Blagnac sont déjà éprouvées ; la règle 247 borne la descente à douze communes, et la Haute-Garonne n'en compte que quatre (Blagnac, Muret, Plaisance-du-Touch, Balma). Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
