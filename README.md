@@ -40770,3 +40770,24 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée. Le seuil de cinq fiches vérifiées dans une même commune ou agglomération n'est pas atteint.
 
 **Point d'arrêt.** Passe suivante : le Haut-Rhin ne peut pas être visé (même région que cette passe, règle 41.c), et le classement se relit par la formule. Reprendre Saint-Louis seulement si deux fiches vérifiées s'y ajoutent à la boucherie et au marché. Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
+
+### Passe autonome du 21 octobre 2026 (cinquante-cinquième) : Nord (59) visé, Lambersart et Armentières sondées : aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». La demande « en_cours » du Var reste inchangée : elle n'est ni publiée ni répondue.
+
+**Classement, règle 41.** Recalcul sur les départements métropolitains (outre-mer exclu, cadre de `lib/validateMerchants.ts`, règle 93 ; Corse regroupée en 20). La passe précédente visait le Haut-Rhin (Grand Est) : cette région est exclue par la règle 41.c. Le déficit le plus fort restant est le Nord (59), à environ +5,6 ; il tombe dans le cadre de construction. Le Nord était visé pour la dernière fois le 18 octobre, il est donc de nouveau éligible.
+
+**Commune, règle 41.d.** Les six communes les plus peuplées du Nord ont déjà une fiche. La plus peuplée sans fiche est Wattrelos (40 847 habitants), mais la passe du 16 octobre a conclu à « ne pas revenir sur Wattrelos » ; on passe donc à Marcq-en-Barœul (40 184), puis à Lambersart (27 090) et Armentières (26 998) en repli.
+
+**Ce qui a été lu.**
+- Recherche web, Lambersart : aucun marché de producteurs identifié. Seuls des supermarchés généralistes (Match, Intermarché, Picard) et des annuaires tiers aux horaires non confirmés : écartés, règle 3.
+- Recherche web, Armentières : aucun jour ni horaire de marché vérifié. Un registre de consommateurs signale deux marchés sans précision, et un magasin de producteurs, Ferm'Entières, situé à La Chapelle-d'Armentières (commune distincte, hors groupement). Une fiche isolée ne forme pas le groupe de cinq.
+- Recherche web, Marcq-en-Barœul : aucun marché de producteurs ni horaire de marché trouvé ; le site de la Ville ne répond toujours pas (passes du 17 octobre). Seuls des commerces généralistes et une fiche tierce de l'hôtel de ville.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne, pour une même commune, cinq commerces de circuit court avec des horaires vérifiés. Une fiche isolée ou partielle ne se publie pas (règles 52, 96, 127, 248).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Résultat.** Aucune fiche publiée. Le seuil de cinq fiches vérifiées dans une même commune ou agglomération n'est pas atteint.
+
+**Point d'arrêt.** Passe suivante : le Nord ne peut pas être visé (même région que cette passe, règle 41.c). Le classement se relit alors par la formule. Reprendre Marcq-en-Barœul seulement si son site répond ; reprendre Ferm'Entières seulement si un second point de circuit court est trouvé à La Chapelle-d'Armentières.
