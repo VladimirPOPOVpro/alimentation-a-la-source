@@ -41097,3 +41097,19 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Haut-Rhin (68) ne peut pas être visé (règle 41.c, cette passe le visait). Au retour dans le 68, la descente reprend à Wittelsheim, dans la borne de douze communes (règle 247).
+
+### Passe autonome du 22 octobre 2026 (Pyrénées-Atlantiques (64) sondées, aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule. Le 68 est exclu par la règle 41.c (passe précédente). Le 31 est clos par la règle 247 (douze communes éprouvées : Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, L'Union, Saint-Jean, Léguevin, Saint-Gaudens, Fonsorbes et suivantes). Le 76, le 59, le 13 et le 38 restent clos ou éprouvés. Premier département éligible : le 64 (Pyrénées-Atlantiques).
+
+**Commune, règle 41.d.** Pau et Bayonne, déjà signalées dans les pistes ; recherche neuve cette passe, sur registre et sur le web.
+
+**Ce qui a été lu.** Registre Agence Bio, département 64, première page (100 opérateurs sur 2 044) : quelques opérateurs à Pau, Bayonne, Biarritz et Billère, aucun vérifié en vente aux particuliers sur une source indépendante. Recherche web : des agendas d'événements (offices de tourisme de Pau et Bayonne relayés) annoncent des marchés de producteurs, mais la saison des producteurs de pays est close (5 juin au 4 septembre 2026), et les jours et horaires d'automne ne sont pas publiés dans ces sources. Le règlement municipal de Pau donne les marchés, sans les fiches de commerçants.
+
+**Pourquoi rien n'est publié.** Aucune fiche de producteur ou de point de vente ne réunit deux sources indépendantes avec horaires recoupés (règles 96, 127, 248). Le marché de Bayonne et celui de Pau sont des marchés généralistes ou ponctuels : rien à publier sans horaires d'automne vérifiés.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Reprendre Pau ou Bayonne si la Ville ou l'office de tourisme publie les horaires d'automne d'un marché de producteurs, ou si un point de vente à la ferme de la commune est recoupé sur son propre site. La descente du 64 n'est pas fermée : aucune commune du 64 n'a encore atteint la borne de douze communes éprouvées au sens de la règle 247.
