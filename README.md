@@ -40675,3 +40675,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus en tête après la région de cette passe, donc à relire par la formule. Si elle reste éligible, Plaisance-du-Touch et Blagnac sont déjà éprouvées ; la règle 247 borne la descente à douze communes, et la Haute-Garonne n'en compte que quatre (Blagnac, Muret, Plaisance-du-Touch, Balma). Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
+
+### Passe autonome du 21 octobre 2026 (cinquante-deuxième) : Haut-Rhin (68) visé, pistes relues, aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». La demande « en_cours » du Var reste inchangée : sa dénomination peut désigner une personne privée, elle n'est donc ni publiée ni répondue.
+
+**Classement, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : seule cette région est exclue (règle 41.c). La Seine-Maritime (76) reste close par la règle 247. Le premier département éligible est donc le Haut-Rhin (68, déficit ≈ 4,36).
+
+**Commune, règle 41.d.** Descente dans le secteur déjà entamé aux passes quarante-sixième et cinquantième : Saint-Louis, Biederthal et Huningue, avec le site officiel de chaque ville ou de chaque commerce comme source principale.
+
+**Ce qui a été lu.**
+- Recherche web sur une boucherie bio à Saint-Louis : aucun commerce identifiable avec horaires de vente directe. Une annonce d'emploi évoque une boucherie à Saint-Louis sans en donner le nom ; non retenue.
+- Recherche web sur Biederthal : un annuaire régional de vente directe liste un domaine de vente directe à Biederthal, avec la mention « horaires variables » et sans horaires, téléphone ni site officiel vérifiable. Une source, insuffisante (règle 6 non satisfaite à ce stade, et aucune fiche à partir d'une seule entrée).
+- Recherche web sur Huningue : aucun marché de producteurs ni horaire municipal retrouvé ; la seule correspondance proche est un marché de producteurs à Hirsingue, commune voisine et hors secteur de la descente. Non retenue.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante. Une fiche isolée ne forme pas une zone (règle 52), et aucune fiche partielle n'est publiée (règles 52, 96, 127, 248).
+
+**Pistes non publiées (anonymes)** :
+- Saint-Louis, boucherie bio en vente directe : commerce non identifié de façon vérifiable ; à reprendre sur l'annuaire de la Chambre d'agriculture du Haut-Rhin.
+- Biederthal, domaine de vente directe (annuaire régional) : horaires, téléphone et site à établir auprès de l'exploitation.
+- Huningue, marchés du vendredi et du mercredi signalés en passe quarante-sixième : jours et produits à confirmer auprès de la Ville.
+- Hirsingue, marché de producteurs du mercredi (16 h-19 h 30) : hors secteur, à garder pour une passe ultérieure dans le Sundgau.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe ; les entrées du registre à nom de particulier déjà écartées ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune relevée cette passe.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : Haut-Rhin reste éligible tant que la passe précédente ne vise pas le 68 (la présente passe le vise, donc la suivante doit changer de région). Reprendre Biederthal seulement si l'exploitation publie un site ou un téléphone vérifiables ; ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
