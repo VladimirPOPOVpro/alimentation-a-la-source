@@ -40954,3 +40954,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 - Riedisheim, marché : jour contradictoire entre deux sources ; à trancher auprès de la mairie.
 
 **Point d'arrêt.** Passe suivante : le Haut-Rhin ne peut pas être visé (règle 41.c). Le classement se relit par la formule. Reprendre Kingersheim seulement si la Ville ou un commerce publie ses horaires ; reprendre Riedisheim seulement si le jour du marché est confirmé par la mairie.
+
+### Passe autonome du 21 octobre 2026 (Haute-Garonne (31) classée en tête des départements éligibles, aucune recherche neuve) : aucune publication
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr`. Haut-Rhin (68) exclu : passe précédente (règle 41.c). Seine-Maritime (76) close (règle 247). Nord (59), Bouches-du-Rhône (13) et Isère (38) éprouvés. Premier département éligible par la formule : Haute-Garonne (31), déficit voisin de 4,3.
+
+**Commune, règle 41.d.** Haute-Garonne déjà sondée à plusieurs reprises dans la même journée (Balma, Plaisance-du-Touch, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, L'Union, Saint-Jean, Léguevin) sans cinq commerces vérifiables. Aucune recherche neuve n'a été lancée cette passe : le résultat attendu, d'après les notes du jour, est le même.
+
+**Pourquoi rien n'est publié.** Aucune commune visée cette passe n'a été instruite de nouveau : aucune fiche n'est donc proposée (règles 96, 127, 248).
+
+**Constat.** Cette passe est une des nombreuses passes du 21 octobre sans publication. La boucle de sondage répète les mêmes communes : le responsable du site doit arbitrer le rythme des passes, ou le seuil de cinq fiches par commune, ce que la règle 41.d ne tranche pas à elle seule.
+
+**Point d'arrêt.** Passe suivante : le département éligible suivant par la formule, hors Haut-Rhin, après Haute-Garonne (31) : Pyrénées-Atlantiques (64, déficit voisin de 4,1), en commençant par une recherche neuve sur Pau ou Bayonne (règle 41.d, sans reprendre les pistes existantes sans nouvelle source).
