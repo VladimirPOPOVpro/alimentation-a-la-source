@@ -40704,3 +40704,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : Haut-Rhin reste éligible tant que la passe précédente ne vise pas le 68 (la présente passe le vise, donc la suivante doit changer de région). Reprendre Biederthal seulement si l'exploitation publie un site ou un téléphone vérifiables ; ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
+
+### Passe autonome du 21 octobre 2026 (cinquante-troisième) : Haute-Garonne (31) visée, Castanet-Tolosan et Ramonville-Saint-Agne sondées : aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». La demande « en_cours » du Var reste inchangée : elle n'est ni publiée ni répondue.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; 97x et 98x sortent du calcul), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Haut-Rhin (région 68) : cette région est exclue par la règle 41.c. La Seine-Maritime (76) reste close par la règle 247. Le premier département éligible est donc la Haute-Garonne (31, déficit ≈ 4,3).
+
+**Commune, règle 41.d.** Blagnac, Muret, Plaisance-du-Touch et Balma ont déjà été sondées sans succès. La commune la plus peuplée de la Haute-Garonne sans fiche est Castanet-Tolosan (15 317 hab.), suivie de Ramonville-Saint-Agne (15 158 hab.).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, 300 opérateurs lus (trois pages), filtrés sur Castanet-Tolosan : une seule entrée, déclarée en vente aux professionnels (détail) et non aux particuliers. Rien de consommable en vente directe.
+- Registre de l'Agence Bio, même lecture, filtrée sur Ramonville-Saint-Agne : deux entrées dont une déclarée en vente aux particuliers, sans enseigne ni adresse de vente vérifiable. Non retenue.
+- Recherche web sur Castanet-Tolosan : l'annuaire de marchés en ligne référence un producteur de plantes aromatiques et médicinales, plus des vendeurs de fruits, de miel et de safran, mais plusieurs sont à sept kilomètres ou plus de la commune, et l'annuaire signale lui-même des informations non à jour. Un site de création web local mentionne trois marchés de plein vent, sans jours ni horaires dans les sources lues. Pas de source officielle de la Ville lue à ce stade.
+- Recherche web sur Ramonville-Saint-Agne : un marché référencé par l'annuaire de marchés, sans jour ni horaire. Pas de site de la Ville lu à ce stade.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante. Une fiche sans jour ni horaire vérifiés ne se publie pas (règle 6), et aucune fiche partielle n'est publiée (règles 52, 96, 127, 248).
+
+**Pistes non publiées (anonymes)** :
+- Castanet-Tolosan, marchés de plein vent (trois selon un site de création locale) : jours et horaires à établir sur le site de la Ville.
+- Castanet-Tolosan, producteur de plantes aromatiques en permaculture référencé par un annuaire de marchés : adresse et site à vérifier ; à sept kilomètres ou plus, hors commune.
+- Ramonville-Saint-Agne, marché référencé par un annuaire, sans jour : à établir sur le site de la Ville.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : aucune relevée cette passe.
+
+**Résultat.** Aucune fiche publiée.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (même région que cette passe, règle 41.c). Le classement se relit alors par la formule ; le Haut-Rhin (68) redevient éligible. Reprendre Castanet-Tolosan seulement si la Ville publie jours et horaires de ses marchés. Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
