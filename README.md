@@ -40625,3 +40625,27 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste éligible (région différente de la passe précédente, Bretagne). Lire la page « Le marché de plein vent » du site de la commune et le registre des entreprises par adresse (pas par nom) pour l'entrée de maraîchage ; si la zone n'atteint pas cinq fiches vérifiées, descendre à Balma (31130), puis Cugnaux et Tournefeuille si elles restent sans fiche comptée, en consignant l'épreuve de la commune. Publier seulement à partir de cinq fiches vérifiées dans une même commune ou agglomération.
 
 **Note de cohérence.** Les passes quarante-septième et quarante-huitième ont visé toutes deux l'Ille-et-Vilaine (Bretagne) : la règle 41.c, qui interdit deux passes de suite dans la même région, n'a pas été respectée. Signalé ici pour relecture, sans correction rétroactive.
+
+### Passe autonome du 21 octobre 2026 (cinquantième) : Haut-Rhin (68) visé, Seine-Maritime close, aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». La demande « en_cours » du Var reste inchangée (voir la passe du 20 octobre).
+
+**Classement, règle 41.** Métropole seule (règle 177), 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la région est fermée pour cette passe (règle 41.c). La Seine-Maritime (76, déficit ≈ 4,50) reste close par la règle 247 depuis la passe quarante-neuvième. Le Haut-Rhin (68, déficit ≈ 4,36) est donc le premier département éligible.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Seine-Maritime, 1 006 opérateurs lus en entier, filtrés sur les communes sans fiche les plus peuplées (Dieppe, Fécamp, Elbeuf, Canteleu, Le Petit-Quevilly, Montivilliers). Aucun vendeur direct déclaré à Dieppe ni à Fécamp. Les entrées « vente aux particuliers » du secteur sont des enseignes de grande distribution ou des noms de particuliers : non reprises. Ce relevé ne rouvre pas la règle 247.
+
+**Haut-Rhin.** Le registre n'a pas été relu cette passe : les trois pistes de la passe quarante-sixième restent telles quelles.
+
+**Pourquoi rien n'est publié.** Aucune zone de cinq fiches vérifiées dans une même commune ou agglomération (règles 96, 127 et 248).
+
+**Pistes non publiées** (anonymes) : Saint-Louis, boucherie bio en vente directe, site du commerce à ouvrir ; Biederthal, exploitation en vente directe, horaires et produits à établir ; Huningue, marchés du vendredi et du mercredi, produits à confirmer auprès de la Ville.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de la Seine-Maritime à nom de particulier (nombre seul, aucune fiche, aucun nom).
+
+**Contradictions** (règle 5) : aucune relevée cette passe.
+
+**Résultat.** Aucune fiche publiée.
+
+**Note de cohérence.** Le point d'arrêt de la passe quarante-neuvième désignait la Haute-Garonne pour la passe suivante : c'est la même région que cette passe-là, ce que la règle 41.c interdit. Signalé ici, non corrigé rétroactivement.
+
+**Point d'arrêt.** Passe suivante : Haut-Rhin, en reprenant le point d'arrêt de la passe quarante-sixième (ouvrir les sites des deux pistes de Saint-Louis et de Biederthal). Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération. L'Occitanie reste hors choix tant que la région ne change pas.
