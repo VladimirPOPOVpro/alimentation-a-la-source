@@ -40874,3 +40874,23 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Points d'arrêt.** Reprendre Saint-Orens-de-Gameville seulement si la Ville publie jours et horaires de ses marchés. Reprendre L'Union seulement si la boutique de producteurs donne ses horaires. La prochaine passe ne vise pas la Haute-Garonne si elle est retenue à nouveau (règle 41.c).
 
 **Observation.** La formule envoie depuis plusieurs passes vers des communes de moins de 15 000 habitants sans marché de producteurs publié, où le critère des cinq fiches vérifiables ne peut pas être atteint. Le responsable du site peut décider s'il faut revoir la règle 41.d (commune la plus peuplée) plutôt que de continuer à sonder.
+
+### Passe autonome du 21 octobre 2026 (Seine-Maritime (76) visée, Dieppe sondée) : aucune fiche publiée
+
+**Calcul (règle 41).** Déficit le plus grand : 974 (La Réunion, 16,5), puis 971, 972, 973, 987, 988, 976. Ces départements ultramarins sont hors périmètre de `lib/validateMerchants.ts` (métropole uniquement) : écartés sans exception, comme le Var. Premier département métropolitain : 76 (Seine-Maritime, déficit 4,4, 19 fiches). La passe précédente visait la Haute-Garonne, donc l'interdiction de deux passes de suite dans la même région ne bloque pas la Normandie.
+
+**Commune retenue.** Dieppe (28 496 hab.), la plus peuplée de 76 sans fiche (Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville, Mont-Saint-Aignan, Le Grand-Quevilly et Bois-Guillaume en ont déjà).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 76 : deux opérateurs à Dieppe, aucun ne vend aux particuliers (`venteParticuliers: false`).
+- Dieppe Tourisme : un marché de producteurs et de marchands ambulants le samedi matin, sans horaires précis publiés dans les résultats.
+- Une épicerie participative (Coop d'Albâtre) : horaires par créneaux donnés par une seule source (Que Choisir), non recoupés au site du commerce. Piste, non publiée.
+- Le site de la Ville (dieppe.fr) répond ; la page marché citée par une recherche renvoie en 404.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables sur deux sources indépendantes. Les descentes suivantes (Fécamp, Montivilliers, Elbeuf) n'ont pas été sondées faute de budget de passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Reprendre Dieppe si la Ville publie les horaires de son marché du samedi et si la Coop d'Albâtre est recoupée sur son propre site. Descendre ensuite vers Fécamp.
+
+**Observation (à lire par le responsable du site).** La formule de la règle 41 place en tête un département ultramarin (974) que le validateur interdit. Le classement métropolitain est donc le seul utilisable. Cette contradiction est consignée ici, non tranchée.
