@@ -41039,3 +41039,21 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Pyrénées-Atlantiques (64) ne peut pas être visé (règle 41.c). Haute-Garonne (31) redevient éligible. Reprendre Biarritz seulement si une photo honnête est trouvée.
+
+### Passe autonome du 21 octobre 2026 (Haute-Garonne (31) visée, Blagnac reprise, aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (contact privé et nom de personne possibles en enseigne : rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Pyrénées-Atlantiques (64, Nouvelle-Aquitaine) : cette région est exclue par la règle 41.c. Le Nord (59) et la Seine-Maritime (76) restent clos par la règle 247. Premier département éligible : la Haute-Garonne (31, Occitanie, déficit voisin de 4,3, 23 fiches).
+
+**Commune, règle 41.d.** Blagnac (27 604 hab.) reste la commune la plus peuplée du 31 sans fiche. Elle a déjà été sondée à plusieurs reprises : registre Biocoop non recoupé au numéro SIRET, photo sous le plancher de 600 px (règle 59), commerces de vente directe sans horaires vérifiés.
+
+**Ce qui a été fait.** Aucune nouvelle recherche cette passe. Le classement recalculé ramène à la même commune, dont les pistes sont déjà consignées plus haut ; relancer les mêmes sources donnerait la même conclusion.
+
+**Pourquoi rien n'est publié.** Aucune commune éprouvée ne rend cinq commerces vérifiables sur deux sources indépendantes (règles 96, 127, 248).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat (à lire par le responsable du site).** La formule de la règle 41 désigne depuis plusieurs passes les mêmes communes (Blagnac, puis Muret, Balma), et la règle 247 ne ferme une descente qu'après douze communes éprouvées. Les passes du 21 octobre ne publient plus rien et reviennent sur les mêmes lieux. Consigné ici, non tranché : rouvrir la règle 41.d ou accepter une descente plus large.
+
+**Points d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (règle 41.c). Pistes en attente inchangées ; reprendre Blagnac seulement si une photo d'au moins 600 px sans personne reconnaissable et un numéro SIRET recoupé sont trouvés.
