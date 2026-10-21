@@ -33826,5 +33826,79 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chemin%20de%20la%20Haye%2C%2078130%20Les%20Mureaux",
     "image_url": "/images/marchands/ferme-de-la-haye-les-mureaux.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-oloron-haut-bearn",
+    "nom": "Biocoop Oloron Haut-Béarn",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.180551,
+    "lon": -0.616006,
+    "adresse": "2 rue Gérard Roussel, 64400 Oloron-Sainte-Marie",
+    "horaires": "Du lundi au samedi, 9h à 19h. Fermé le dimanche.",
+    "produits": [
+      "Fruits et légumes bio",
+      "Produits laitiers et œufs",
+      "Boulangerie-pâtisserie",
+      "Viandes",
+      "Épicerie et vrac"
+    ],
+    "description": "Magasin bio indépendant du réseau Biocoop, installé au nord du centre d'Oloron-Sainte-Marie. Il s'appuie sur les filières paysannes de la coopérative.",
+    "telephone": "05 59 39 00 80",
+    "site_web": "https://oloron.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Biocoop%20Oloron%20Haut-B%C3%A9arn%202%20rue%20G%C3%A9rard%20Roussel%20Oloron-Sainte-Marie",
+    "image_url": "/images/marchands/biocoop-oloron-haut-bearn.jpg"
+  },
+  {
+    "slug": "marche-hebdomadaire-oloron",
+    "nom": "Marché hebdomadaire d'Oloron-Sainte-Marie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.194318,
+    "lon": -0.605137,
+    "adresse": "Place Georges-Clemenceau (autour de l'Hôtel de ville et sous la Halle), 64400 Oloron-Sainte-Marie",
+    "horaires": "Tous les vendredis, 7h à 13h.",
+    "produits": [
+      "Fruits et légumes",
+      "Poisson",
+      "Fromage",
+      "Viande et charcuterie",
+      "Fleurs et plantes"
+    ],
+    "description": "Marché de plein vent qui se tient autour de l'Hôtel de ville d'Oloron-Sainte-Marie, sous la Halle et dans les rues voisines. Il réunit des produits frais, mais aussi des traiteurs et des vêtements.",
+    "site_web": "https://www.oloron-ste-marie.fr/mes-services/economie-et-commerce/foires-et-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20hebdomadaire%20Place%20Georges%20Clemenceau%20Oloron-Sainte-Marie",
+    "image_url": "/images/marchands/marche-hebdomadaire-oloron.jpg"
+  },
+  {
+    "slug": "marche-ethique-oloron",
+    "nom": "Marché éthique d'Oloron-Sainte-Marie",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.187921,
+    "lon": -0.614987,
+    "adresse": "Parvis de la cathédrale, 64400 Oloron-Sainte-Marie",
+    "horaires": "Tous les dimanches matins.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Produits de producteurs en vente directe"
+    ],
+    "description": "Marché réservé aux producteurs, présent sur le parvis de la cathédrale. Les produits doivent provenir d'exploitations biologiques ou agro-écologiques, en circuit court, selon une charte.",
+    "site_web": "https://www.oloron-ste-marie.fr/mes-services/economie-et-commerce/foires-et-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20%C3%A9thique%20parvis%20de%20la%20cath%C3%A9drale%20Oloron-Sainte-Marie",
+    "image_url": "/images/marchands/marche-ethique-oloron.jpg",
+    "a_confirmer": true
   }
 ]

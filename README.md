@@ -41057,3 +41057,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Constat (à lire par le responsable du site).** La formule de la règle 41 désigne depuis plusieurs passes les mêmes communes (Blagnac, puis Muret, Balma), et la règle 247 ne ferme une descente qu'après douze communes éprouvées. Les passes du 21 octobre ne publient plus rien et reviennent sur les mêmes lieux. Consigné ici, non tranché : rouvrir la règle 41.d ou accepter une descente plus large.
 
 **Points d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (règle 41.c). Pistes en attente inchangées ; reprendre Blagnac seulement si une photo d'au moins 600 px sans personne reconnaissable et un numéro SIRET recoupé sont trouvés.
+
+### Passe autonome du 21 octobre 2026 (Pyrénées-Atlantiques (64) reprise, Oloron-Sainte-Marie visée : trois fiches publiées)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule, 1 280 fiches au départ, populations `geo.api.gouv.fr`. Seine-Maritime (76) close (règle 247), Haut-Rhin (68) et Haute-Garonne (31) exclus par la règle 41.c (passes précédentes). Premier département éligible : Pyrénées-Atlantiques (64), déficit voisin de 4,1, autre région que la passe précédente.
+
+**Commune, règle 41.d.** Pau, Bayonne, Anglet, Billère et Bizanos ont déjà des fiches ; Biarritz, Hendaye et Saint-Jean-de-Luz ont été éprouvées lors des passes précédentes. La commune suivante par population sans fiche est Oloron-Sainte-Marie (10 684 hab.), jamais sondée dans ce journal.
+
+**Sources.** Site officiel de la ville, page « Foires et marchés » (marché hebdomadaire du vendredi, marché éthique du dimanche, producteurs uniquement). Site officiel du Biocoop d'Oloron, relevé des horaires croisé avec biocoop.fr et les pages jaunes. Registre Agence Bio du département (opérateurs de la commune), recoupé au site de chaque commerce.
+
+**Fiches publiées (3).**
+- Biocoop Oloron Haut-Béarn : site, téléphone et horaires vérifiés ; adresse géocodée par la BAN ; photo du site officiel (façade, 1920 px réduite à 1280 px).
+- Marché hebdomadaire d'Oloron-Sainte-Marie (vendredi, 7h à 13h) : source officielle de la ville ; photo de la commune, sans personne reconnaissable en premier plan ; lieu exact non recoupé par une seconde source.
+- Marché éthique d'Oloron-Sainte-Marie (dimanche matin, parvis de la cathédrale) : source officielle de la ville, marqué `a_confirmer` car les horaires exacts et les produits ne sont pas précisés par la ville.
+
+**Pistes non publiées (anonymes, Oloron-Sainte-Marie).**
+- Deux magasins bio vérifiés (site ou fiche publique, téléphone et horaires recoupés) sont écartés faute de photo utilisable : aucune image officielle n'est accessible, et aucune photo thématique libre de droits n'a été trouvée. Ils rejoindront la commune à la prochaine passe si une photo honnête est trouvée.
+- Une ferme maraîchère bio de la commune : son enseigne reprend un nom de famille, et son site ne publie que des numéros de particuliers : écartée pour doute sur une personne. Un producteur de tomates bio de la commune, sans point de vente fixe et sans adresse publique : écarté faute de lieu à donner.
+- Une bergerie dont l'enseigne reprend un prénom : écartée pour doute sur une personne. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Oloron-Sainte-Marie (une enseigne reprenant un nom de famille, une enseigne reprenant un prénom).
+
+**Ce qui a été volontairement laissé de côté.** Les exploitants en entreprise individuelle (EI), dont le nom patronymique est le seul nom public, ne sont pas retenus. Les supermarchés certifiés bio du registre (Leclerc, Intermarché, Lidl, Netto) sont écartés par MODERATION.md. Le marché du mardi et du samedi de la halle couverte n'est pas instruit : horaires en partie vérifiés seulement.
+
+**Points d'arrêt.** Commune à trois fiches sur cinq à la prochaine passe : Oloron-Sainte-Marie reste visée tant que les deux magasins bio n'ont pas de photo honnête (règle 59, 600 px minimum).
