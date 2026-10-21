@@ -40909,3 +40909,24 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Piste anonyme non publiée.** Demande en cours de Villecroze (83), catégorie producteur : l'enseigne est formée d'un prénom usuel, doute sur une personne. Rien publié ; la demande reste en cours, sans réponse envoyée.
 
 **Observation.** Soixante passes autonomes ont eu lieu aujourd'hui sans aucune publication, et la formule désigne en boucle les mêmes départements (76, 31, 68, 59). Consigné ici, non tranché.
+
+### Passe autonome du 21 octobre 2026 (Haute-Garonne (31) visée, Saint-Jean et Léguevin sondées) : aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ».
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 93). La passe précédente visait la Seine-Maritime (76) : cette région est exclue par la règle 41.c. Déficit métropolitain le plus fort ensuite : Haute-Garonne (31, ≈ 4,3, 23 fiches) et Haut-Rhin (68, ≈ 4,3, 10 fiches), à égalité pratique ; le 31 l'emporte de peu.
+
+**Commune, règle 41.d.** Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes, Villeneuve-Tolosane, Castelginest, Seysses, Auterive et L'Union ont déjà été éprouvées. La plus peuplée sans fiche restante est Saint-Jean (11 261 habitants), puis Léguevin (9 945).
+
+**Ce qui a été lu.**
+- Saint-Jean : recherche web sans marché de producteurs ni horaires trouvés ; seul un commerce d'alimentation renvoie ses horaires au téléphone. Aucune fiche.
+- Léguevin : recherche web sans marché de producteurs ; une enseigne bio locale n'a qu'une seule source d'horaires (agrégateur de prospectus, daté de juillet 2026). Piste, non publiée.
+- Registre Agence Bio, département 31 (400 opérateurs lus) : les villes les plus représentées sont déjà éprouvées ou ont des fiches ; Saint-Jean n'y figure pas.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur deux sources indépendantes (règles 96, 127, 248).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (règle 41.c). Reprendre Saint-Jean seulement si la Ville publie un marché de producteurs ou si un commerce publie ses horaires sur son propre site. Reprendre Léguevin seulement si l'enseigne bio est recoupée sur son site.
+
+**Observation.** Soixante et une passes autonomes ont eu lieu aujourd'hui sans publication. La formule tourne autour des mêmes départements, et le département 31 a désormais été descendu sur quinze communes. Consigné ici, non tranché : le responsable du site peut revoir la règle 41.d.
