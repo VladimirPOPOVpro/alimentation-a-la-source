@@ -40733,3 +40733,40 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée.
 
 **Point d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (même région que cette passe, règle 41.c). Le classement se relit alors par la formule ; le Haut-Rhin (68) redevient éligible. Reprendre Castanet-Tolosan seulement si la Ville publie jours et horaires de ses marchés. Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
+
+### Passe autonome du 21 octobre 2026 (cinquante-quatrième) : Haut-Rhin (68) visé, Saint-Louis sondée : aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ». La demande « en_cours » du Var reste inchangée : sa dénomination pourrait désigner une personne privée, elle n'est donc ni publiée ni répondue.
+
+**Classement, règle 41.** La passe précédente visait la Haute-Garonne (Occitanie) : seule cette région est exclue par la règle 41.c. Le Haut-Rhin (68) reste le département retenu, conformément au point d'arrêt de la passe cinquante-troisième. Le déficit n'a pas été recalculé cette passe.
+
+**Commune, règle 41.d.** Saint-Louis (68300, 22 805 habitants) est la commune la plus peuplée du 68 qui n'a encore aucune fiche : les dix fiches du département sont à Mulhouse, Colmar, Pfastatt et Ruelisheim. Les passes cinquantième et cinquante-deuxième y avaient conclu à l'insuffisance ; la présente passe y a trouvé des sources qu'elles n'avaient pas consultées.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haut-Rhin : 700 opérateurs lus sur sept pages, filtrés sur Saint-Louis et les communes voisines. Entrées retenues à Saint-Louis : une boucherie bio en vente aux particuliers, une boulangerie en vente au public, et un grossiste (non retenu, négoce de gros).
+- Registre des entreprises : la Boucherie Bio des 3 Frontières est active, à son adresse de Saint-Louis. Aucune correspondance active n'a été trouvée pour la boulangerie.
+- Site de la Ville de Saint-Louis, rubrique commerces : la boucherie, avec ses horaires (lundi fermé ; mardi à jeudi de 7 h à 12 h 30 et de 15 h à 19 h ; vendredi de 7 h à 19 h ; samedi de 7 h à 16 h), concordant avec la fiche publique du commerce.
+- Site de la Ville de Saint-Louis, marchés : le marché du Centre, Place de l'Europe, le mardi et le jeudi de 8 h à 12 h. Un autre annuaire de marchés annonce en plus un samedi matin : contradiction consignée (règle 5), le marché est tout de même rattachable à l'alimentaire (règle 9).
+- Boulangerie de Saint-Louis : horaires publiés par la Ville (mardi à vendredi de 5 h à 19 h 30, samedi de 5 h à 17 h, dimanche de 6 h 30 à 13 h) contredits par d'autres annuaires (fermeture à 18 h 30). Statut bio et registre non établis : non retenue.
+- Ferme de l'Ill, Sausheim : site de l'exploitation (magasin du lundi au samedi de 17 h à 19 h, samedi matin de 9 h à 12 h), établissement actif au registre, certification bio. Sausheim relève de l'agglomération de Mulhouse, pas de celle de Saint-Louis : hors du groupement.
+- Un verger bio de Helfrantzkirch : établissement actif au registre, mais deux adresses et des horaires qui divergent selon les annuaires (contradiction, règle 5). Commune hors de Saint-Louis.
+- Une miellerie d'Uffheim : téléphone et adresse concordants, horaires divergents entre annuaires. Commune hors de Saint-Louis.
+- Bienvenue à la Ferme : la page annoncée pour une ferme de Knoeringue renvoie une erreur 404 ; rien retenu.
+
+**Pourquoi rien n'est publié.** À Saint-Louis, deux fiches sont solides : la boucherie bio, active au registre, et le marché du Centre, rattachable à la règle 9. Il en manque trois. Les candidates hors de la commune ne se rattachent pas, de façon vérifiée, à l'agglomération de Saint-Louis. Une fiche isolée ou partielle ne se publie pas (règles 52, 96, 127, 248), et le groupement de cinq fiches sur une seule commune ou agglomération n'est pas atteint.
+
+**Pistes non publiées (anonymes).**
+- Saint-Louis, boucherie bio : fiche prête, horaires et téléphone concordants, à publier avec les quatre autres fiches de la commune.
+- Saint-Louis, marché du Centre (mardi et jeudi, 8 h à 12 h, Place de l'Europe) : fiche prête, sous réserve de la contradiction sur le samedi.
+- Saint-Louis, boulangerie en vente au public : statut bio et inscription au registre à établir ; horaires contradictoires.
+- Sausheim, ferme bio en vente directe : bien vérifiée, mais hors agglomération de Saint-Louis.
+- Helfrantzkirch, verger bio : adresse et horaires à faire confirmer par l'exploitation.
+- Uffheim, miellerie : horaires à faire confirmer par l'exploitation.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre au nom d'un particulier, à Kingersheim : écartée, elle ne se rouvre pas. Aucune autre cette passe.
+
+**Contradictions (règle 5).** Jour du marché de Saint-Louis (samedi ou non) ; fermeture de la boulangerie (18 h 30 contre 19 h 30) ; adresse et horaires du verger de Helfrantzkirch ; horaires de la miellerie d'Uffheim.
+
+**Résultat.** Aucune fiche publiée. Le seuil de cinq fiches vérifiées dans une même commune ou agglomération n'est pas atteint.
+
+**Point d'arrêt.** Passe suivante : le Haut-Rhin ne peut pas être visé (même région que cette passe, règle 41.c), et le classement se relit par la formule. Reprendre Saint-Louis seulement si deux fiches vérifiées s'y ajoutent à la boucherie et au marché. Ne publier qu'à partir de cinq fiches vérifiées dans une même commune ou agglomération.
