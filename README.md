@@ -41018,3 +41018,24 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Haute-Garonne (31) ne peut pas être visée (règle 41.c : la passe précédente visait le 64, mais cette passe vise le 31, donc la passe suivante doit choisir un autre département). Si la Haute-Garonne est retenue à nouveau, la descente reprend à Fonsorbes puis Saint-Gaudens (borne de douze, règle 247). Reprendre Fonsorbes seulement si cinq fiches au moins sont vérifiables sur des sources propres.
+
+### Passe autonome du 21 octobre 2026 (Pyrénées-Atlantiques (64) reprise, Agence Bio relue : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule, 1 280 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31) : seule cette région est exclue par la règle 41.c. Les Bouches-du-Rhône, l'Isère, la Seine-Maritime et le Nord sont éprouvés ou clos par la règle 247. Premier département éligible : le Pyrénées-Atlantiques (64).
+
+**Commune, règle 41.d.** Biarritz (26 206 hab.) reste la commune la plus peuplée sans fiche, bloquée par l'absence de photo honnête (pas de changement depuis la passe du 20 octobre).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 64 (première page, cent opérateurs) : une seule entrée à Biarritz, une à Hendaye, une à Ciboure, une à Orthez. Aucune commune non pourvue n'a plus de deux entrées, donc aucune zone de cinq fiches ne se dessine.
+
+**Pourquoi rien n'est publié.** Une fiche isolée n'est pas une zone (règle 52), et aucune commune éprouvée ne rend cinq commerces vérifiables ce jour.
+
+**Pistes non publiées** (anonymes) :
+- Biarritz, halles et marchés : déblocage, une photo sans personne reconnaissable de 700 px ou plus.
+- Hendaye, Ciboure, Orthez : une entrée de registre chacune, sans source de commerce lue ; à reprendre seulement avec une source officielle.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Pyrénées-Atlantiques (64) ne peut pas être visé (règle 41.c). Haute-Garonne (31) redevient éligible. Reprendre Biarritz seulement si une photo honnête est trouvée.
