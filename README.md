@@ -40854,3 +40854,23 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Résultat.** Aucune fiche publiée. Le seuil de cinq fiches vérifiées dans une même commune ou agglomération n'est pas atteint.
 
 **Point d'arrêt.** Passe suivante : le Nord ne peut pas être visé (même région que cette passe, règle 41.c). Le classement se relit alors par la formule. Reprendre Marcq-en-Barœul seulement si son site répond ; reprendre Ferm'Entières seulement si un second point de circuit court est trouvé à La Chapelle-d'Armentières.
+
+### Passe autonome du 21 octobre 2026 (Haute-Garonne (31) visée, Saint-Orens-de-Gameville et L'Union sondées) : aucune fiche publiée
+
+**Demandes.** Aucune demande « nouvelle ».
+
+**Classement, règle 41.** Métropole seule. Le Nord (59) est quitté par la règle 247 (quatorze communes éprouvées). La Seine-Maritime (76) est la passe précédente, donc exclue par la règle 41.c. Premier département éligible : la Haute-Garonne (31), déficit ≈ 5,5.
+
+**Commune, règle 41.d.** Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan et Ramonville-Saint-Agne ont déjà été sondées. Suivantes par population sans fiche : Saint-Orens-de-Gameville (14 646 hab.), puis L'Union (12 638 hab.).
+
+**Ce qui a été lu.**
+- Saint-Orens-de-Gameville : deux marchés recensés par un annuaire participatif, sans horaires vérifiés ; un magasin de producteurs listé à Quint-Fonsegrives, hors commune. Aucune fiche.
+- L'Union : une enseigne bio à horaires contradictoires entre deux sources (écartée, règle 3) ; une boutique de producteurs citée par un guide, sans horaires vérifiés ; aucun marché identifié.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur deux sources indépendantes (règles 96, 127, 248).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Reprendre Saint-Orens-de-Gameville seulement si la Ville publie jours et horaires de ses marchés. Reprendre L'Union seulement si la boutique de producteurs donne ses horaires. La prochaine passe ne vise pas la Haute-Garonne si elle est retenue à nouveau (règle 41.c).
+
+**Observation.** La formule envoie depuis plusieurs passes vers des communes de moins de 15 000 habitants sans marché de producteurs publié, où le critère des cinq fiches vérifiables ne peut pas être atteint. Le responsable du site peut décider s'il faut revoir la règle 41.d (commune la plus peuplée) plutôt que de continuer à sonder.
