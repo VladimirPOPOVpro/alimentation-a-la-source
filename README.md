@@ -41281,3 +41281,36 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Betton, nommées par patronyme. Rien n'en est écrit ici. Un article de presse cite les fondateurs de la fromagerie : aucun nom n'est repris dans cette passe.
 
 **Points d'arrêt.** Passe suivante : la région 44 et le 68 restent exclus (règle 41.c). Reprendre Betton : confirmer l'enseigne de La Brandais sur le site du point de vente, puis chercher les horaires de la fromagerie et l'emplacement du marché. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Corse-du-Sud (2A) visée, Ajaccio sondée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié).
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Bretagne (53) : seule cette région est exclue (règle 41.c). Le 59, le 31, le 13, le 76, le 38 et le 64 restent clos, éprouvés ou épuisés (règle 247). Premier département éligible : la Corse (94), déficit ≈ 3,6, les deux départements de l'île cumulés (2A et 2B). Le Haute-Corse a sa descente en cours (Bastia, puis Calvi, Ventiseri, Aléria, Cervione, Monticello) : la passe ne la reprend pas, elle prend la commune calculée du Corse-du-Sud (règle 41.d).
+
+**Commune, règle 41.d.** Ajaccio (76 320 hab., Corse-du-Sud), la commune la plus peuplée de l'île sans aucune fiche publiée.
+
+**Ce qui a été lu.**
+- Registre Agence Bio du Corse-du-Sud, 400 opérateurs lus sur quatre pages : aucun opérateur à Ajaccio déclaré en vente directe aux particuliers, hors une structure publique et une agglomération (aucune n'est un commerce).
+- Office de tourisme d'Ajaccio, fiche « Tisori Nostri – Magasin de producteurs » : Immeuble Castellani, quartier Saint-Joseph, 04 95 71 15 38, lundi au vendredi 9 h-13 h et 14 h 30-18 h 30, samedi 9 h-13 h, fermé le dimanche, horaires valables pour 2026.
+- Registre des entreprises : TISORI NOSTRI active (siège au Pantano, Sarrola-Carcopino, 20167 ; code 94.99Z). Règle 6 satisfaite par l'entité active ; l'adresse du point de vente (Saint-Joseph) n'est pas celle du siège.
+- Office de tourisme, marché Abbatucci (place Abbatucci) : mardi au dimanche, 7 h-13 h. Une vieille fiche imprimée de Visit Corsica donne 8 h-13 h.
+- Registre des entreprises : LA VIE CLAIRE Ajaccio, boulevard Albert-1er, exploitée par CORSE BIO NATURE (active, 47.29Z), à l'adresse de l'enseigne. Aucun horaire ni téléphone vérifié.
+- Naturalia (17 cours Napoléon) : le registre ne rattache l'enseigne qu'à BIO CORSE à Tolla (20117), pas à Ajaccio : non publiable.
+- Biocoop Del Pellegrino : aucune entité trouvée au registre sous ce nom ; la page officielle des magasins répond 404 : non publiable.
+
+**Pourquoi rien n'est publié.** Trois pistes ont une base vérifiable ; une fiche complète et recoupée manque pour atteindre les cinq nécessaires (règle 52). Une zone de moins de cinq fiches ne se publie pas.
+
+**Contradictions consignées, non tranchées.**
+- Marché Abbatucci : 7 h-13 h (office de tourisme) contre 8 h-13 h (fiche ancienne). La règle 5 retient la plus récente, mais la commune n'a pas été lue : la fiche resterait `a_confirmer` avec deux sources, la règle 9 exige la commune et l'office.
+- Tisori Nostri : adresse du point de vente (Saint-Joseph) distincte du siège enregistré (Sarrola-Carcopino) : à réconcilier avant publication.
+
+**Pistes non publiées (anonymes, Ajaccio).**
+- Magasin de producteurs de la vallée de la Gravona, quartier Saint-Joseph : téléphone et horaires vérifiés par l'office ; site officiel introuvable, page Facebook seule.
+- Marché Abbatucci, place Abbatucci : jours et horaires vérifiés par l'office, commune à confirmer.
+- Magasin bio à l'enseigne La Vie Claire, boulevard Albert-1er : entité active au registre à l'adresse ; horaires et téléphone à relever sur le site de l'enseigne.
+- Association de producteurs « U Marcatu Paisanu » : marché mensuel en alternance, rythme et dates actuels non confirmés.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la Corse (94) ne peut pas être visée deux fois de suite (règle 41.c). Reprendre Ajaccio : lire le site ou l'ordre de service de la Ville pour le marché Abbatucci, relever horaires et téléphone de La Vie Claire, chercher deux commerces de plus (ferme de vente directe, AMAP ou magasin de producteurs). Aucune fiche n'a été publiée cette passe.
