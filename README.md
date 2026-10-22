@@ -41501,3 +41501,29 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Betton, nommées par patronyme (nombre seulement, aucun nom écrit ici).
 
 **Points d'arrêt.** Passe suivante : la Normandie reste exclue si elle est visée à nouveau de suite (règle 41.c) ; l'Ille-et-Vilaine peut être visée à nouveau. Reprendre Betton avec le site de la commune, dès qu'il répond, puis la fromagerie et l'AMAP 2026-2027. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Seine-Maritime (76) visée, Dieppe relue, Fécamp et Montivilliers criblées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens, doute sur une personne déjà consigné : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177). La passe précédente visait la Bretagne (53) : seule cette région est exclue (règle 41.c). Tête éligible : Seine-Maritime (76), déficit 4,6, 19 fiches publiées.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée de 76 sans fiche. Descente ensuite vers Fécamp et Montivilliers, les deux suivantes par population sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime : sept premières pages de cent (700 opérateurs sur 1 006). À Dieppe, les opérateurs sont des préparateurs ou distributeurs en gros, sans vente aux particuliers déclarée. À Fécamp et Montivilliers, deux ou trois points en vente directe, dont l'enseigne est un nom de personne ou un prénom : écartés pour doute sur une personne.
+- Site de la Ville de Dieppe : pas de page marché exploitable, aucun horaire publié.
+- Recherche web, Dieppe : marché des producteurs le samedi matin, sans horaires officiels 2026.
+- Recherche web, Fécamp : poissonnerie-fumerie des Halles, horaires 2026 sur un site de l'office de tourisme régional ; un marché des Halles dont les jours ne sont pas datés ; un magasin bio listé par un annuaire, non recoupé.
+- Recherche web, Montivilliers : marché hebdomadaire du jeudi matin (office de tourisme, sans horaires officiels) ; Monti'Marchés d'été, un vendredi sur deux de 17 h à 22 h, dates variables selon l'année. Site de la Ville non retrouvé dans ces résultats.
+
+**Pourquoi rien n'est publié.** Aucune de ces trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes (règle 52). Dieppe n'a toujours pas d'horaire officiel. Fécamp et Montivilliers n'ont que des marchés non datés ou des horaires d'une seule source. Une passe qui ne trouve pas sa zone ne publie rien (règle 248).
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Dieppe : marché du samedi matin à établir sur une source officielle ; épicerie participative à reprendre avec son propre site.
+- Fécamp : poissonnerie-fumerie des Halles, horaires 2026 à confirmer sur le site de l'office ; marché des Halles à dater ; magasin bio à recouper.
+- Montivilliers : marché du jeudi matin à dater sur le site de la Ville ; Monti'Marchés d'été à reprendre en saison.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Fécamp et Montivilliers, nommées par patronyme ou par prénom (nombre seulement, aucun nom écrit ici).
+
+**Points d'arrêt.** Passe suivante : la Normandie (28) ne peut pas être visée deux fois de suite (règle 41.c). Reprendre Dieppe sur la page de l'office de tourisme, puis Fécamp (Halles) et Montivilliers (Monti'Marchés) avant toute autre commune. Aucune fiche n'a été publiée cette passe.
