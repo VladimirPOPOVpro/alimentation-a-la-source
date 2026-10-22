@@ -41423,3 +41423,27 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Au prochain passage dans le 68, descendre à la commune suivante par population sans fiche après Illzach ; la commune n'est pas retenue ici faute de source de commerce.
+
+### Passe autonome du 22 octobre 2026 (Ille-et-Vilaine (35) reprise, Vitré et Cesson-Sévigné sondées : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : l'enseigne se lit comme un prénom et le contact transmis est privé. Doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule (règle 177), 1 288 fiches. Le 68 est exclu par la règle 41.c (passe précédente, Grand Est). Le 59, le 31, le 13, le 76, le 38 et le 60 restent clos ou éprouvés (règle 247). Premier département éligible : le 35 (Bretagne, région 53), déficit ≈ 3,9.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 35 sans fiche, dans l'ordre : Fougères (20 307 hab., éprouvée le 15 octobre, non rouverte), **Vitré (19 365 hab.)**, Cesson-Sévigné (18 761 hab.). Bruz (19 683 hab.) a déjà une fiche ; Rennes et Saint-Malo sont couvertes. Vitré est la commune retenue cette passe, Cesson-Sévigné la suivante.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine : deux pages de cent opérateurs relues (pas le département entier). Les opérateurs en vente aux particuliers y sont surtout des exploitations à nom de personne, ou des points sans enseigne vérifiable : aucun n'est retenu. Aucun opérateur de vente directe n'est déclaré à Vitré ni à Cesson-Sévigné dans ces deux pages.
+- Recherche web sur Vitré : aucun marché de producteurs ni magasin de producteurs recensé ; une boutique en ligne à points de retrait (service de panier, pas de lieu fixe vérifié) ; une association de promotion des circuits courts, sans point de vente.
+- Recherche web sur Cesson-Sévigné : même constat ; une ouverture de grande surface annoncée (produits frais, approvisionnement directe chez des producteurs) qui ne relève pas des commerces retenus ici.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe n'atteint cinq commerces vérifiables sur deux sources indépendantes (règle 52). Le service de panier de Vitré et celui de Cesson-Sévigné n'ont pas d'adresse de point de vente vérifiée : la BAN ne donne pas de coordonnée fiable, et rien n'est placé à l'estime.
+
+**Pistes non publiées (anonymes, Ille-et-Vilaine).**
+- Vitré (35) : service de panier en ligne à points de retrait (retrait le vendredi en fin d'après-midi, source Que Choisir) ; lieu de retrait à identifier, rien publié.
+- Cesson-Sévigné (35) : service de panier en ligne à points de retrait (source Que Choisir) ; même réserve.
+- Ille-et-Vilaine : plusieurs points de vente de producteurs au registre dont l'enseigne est un prénom ou un nom d'exploitant : écartés pour doute sur une personne (règle 1), non rouverts.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, dans le registre du département (nombre exact non compté ; aucune nommée).
+
+**Points d'arrêt.** Passe suivante : la Bretagne (53) est exclue par la règle 41.c. Le 35 reprendra à Cesson-Sévigné lors d'une passe ultérieure, à la commune suivante de la descente (règle 247), en relisant d'abord le site officiel de la Ville pour ses marchés, puis le registre sur les pages restantes. Aucune fiche n'a été publiée cette passe.
