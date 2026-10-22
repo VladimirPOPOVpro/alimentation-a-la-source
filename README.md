@@ -41595,3 +41595,30 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la Loire ne peut pas être visée deux fois de suite (règle 41.c) ; si la passe y revient, la descente reprend à Firminy (17 060 habitants, aucune fiche), sans refaire le criblage de Roanne (règle 247). Ne pas revenir en Normandie. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Seine-Maritime (76) visée, Dieppe reprise sur une source officielle : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens, doute sur une personne déjà consigné : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu. La passe précédente visait la Loire (42) : le 76 est éligible (règle 41.c). Déficit du 76 : 4,6, légèrement au-dessus de celui de la Haute-Garonne (4,4), dont la commune la plus peuplée sans fiche est déjà close (règle 247).
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée du 76 sans fiche.
+
+**Ce qui a été lu.**
+- Site de la Ville de Dieppe, rubrique « marché du centre-ville du samedi » (résultat de recherche) : samedi de 8 h 30 à 13 h pour les produits alimentaires, de 13 h à 17 h pour les seuls marchands ambulants ; environ 200 exposants, dont une forte proportion de producteurs du pays de Bray et du pays de Caux. **Correction** : les passes précédentes disaient que Dieppe n'avait pas d'horaire officiel ; cette page existe. Elle ne suffit pas à elle seule : une fiche isolée n'est pas une zone (règle 248).
+- Recherches web sur le marché du mercredi au Pollet, le marché de Bois-Robert (mardi, 16 h 30 à 19 h, agenda de l'office de tourisme) et la vente directe de poisson quai Henri IV : signalées, mais sans page officielle lue ; pas reprises.
+- Registre de l'Agence Bio, département 76, 100 opérateurs lus sur la première page : aucun opérateur à vente particuliers déclarée à Dieppe.
+
+**Descente, règle 41.d.** Le Petit-Quevilly (22 208 hab.), commune suivante par population sans fiche, a été sondée : quatre marchés signalés par des agendas privés aux jours et horaires contradictoires (mardi, jeudi, dimanche et samedi selon la source), aucune page de la Ville lue ; un magasin de grande distribution fraîche, non retenu (commerce généraliste, pas de certification). Le registre Agence Bio y compte un opérateur à vente particuliers dont la nature n'est pas vérifiée : non repris.
+
+**Pourquoi rien n'est publié.** Ni Dieppe ni Le Petit-Quevilly ne rendent cinq commerces vérifiables sur deux sources indépendantes (règle 52). Le marché du samedi de Dieppe est vérifié, mais il est seul. Les descentes vers Fécamp et Montivilliers n'ont pas été reprises dans cette passe : leurs pistes restent telles que consignées le 22 octobre.
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Dieppe : marché du centre-ville du samedi, page officielle de la Ville (fiche possible seulement si le reste de la zone est établi).
+- Dieppe : marché du mercredi au Pollet et marché de Bois-Robert (mardi), sources d'agenda seulement.
+- Dieppe : vente directe de poisson quai Henri IV, à vérifier sur un site de producteur ou d'office de tourisme.
+- Le Petit-Quevilly : quatre marchés aux horaires contradictoires entre agendas ; à reprendre sur le site de la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 76 ne peut pas être visé deux fois de suite (règle 41.c). Si la passe revient en Seine-Maritime, reprendre Dieppe sur le site de la Ville et l'office de tourisme pour les marchés de la zone, avant toute descente. Aucune fiche n'a été publiée cette passe.
