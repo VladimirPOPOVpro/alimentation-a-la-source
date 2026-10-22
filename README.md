@@ -41173,3 +41173,29 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : le 68 ne peut pas être visé (règle 41.c). Au retour dans le 68, la descente reprend à Wintzenheim (8 059 hab.), après relecture de Brunstatt-Didenheim.
+
+### Passe autonome du 22 octobre 2026 (Ille-et-Vilaine (35) reprise, Betton relue, Douz'Arômes au registre : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : le nom d'enseigne se lit comme un prénom et le contact transmis est privé. Doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu, 1 283 fiches. Le 68 est exclu par la règle 41.c (passe précédente). Le 59, le 31, le 13, le 76 et le 38 restent clos ou éprouvés (règle 247). Premier département éligible : le 35 (Bretagne, région 53), déficit ≈ 4,7.
+
+**Commune, règle 41.d.** Betton (12 964 hab.), désignée par le point d'arrêt de la passe du 21 octobre comme reprise en premier. Rennes et Saint-Malo ont déjà leurs fiches ; Fougères est éprouvée (15 octobre).
+
+**Ce qui a été lu.**
+- Registre des entreprises, Douz'Arômes : établissement actif, siège à Betton, code d'activité 82.99Z (soutien aux entreprises, pas un code de commerce de détail). La règle 6 est satisfaite sur l'existence de l'entité ; le code ne confirme pas une activité de vente.
+- Registre Agence Bio d'Ille-et-Vilaine : non relu cette passe (lu en entier le 21 octobre).
+
+**Pourquoi rien n'est publié.** Un seul commerce vérifiable à Betton. Cinq fiches vérifiées dans une même commune ou agglomération sont nécessaires (règle 52) : une fiche isolée n'est pas une zone.
+
+**Pistes non publiées (anonymes, Betton).**
+- Point de vente collectif de producteurs (Douz'Arômes) : site et horaires vérifiés le 21 octobre ; activité de vente au registre à confirmer. À publier avec quatre autres commerces vérifiés de la zone.
+- Marché communal : jour et horaires à établir auprès de la Ville (règle 9).
+
+**Pistes non publiées (anonymes, Villecroze, Var).** Producteur d'huiles et d'élevage de pondeuses, demande n° 13 : enseigne composée d'un prénom, contact privé. Reste `en_cours` ; ne se publie que si la demande donne une enseigne d'entreprise que le registre confirme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradiction consignée, non tranchée.** Le classement de la passe du 22 octobre précédente plaçait le 68 en tête sans citer le 35, alors que le 35 a le déficit le plus élevé une fois le 68 exclu, et que la passe du 21 octobre désignait Betton pour la reprise. Question pour le responsable du site : faut-il considérer le 35 comme épuisé ? En attendant, la règle 41 telle qu'écrite donne le 35.
+
+**Points d'arrêt.** Passe suivante : la région 53 ne peut pas être visée deux fois de suite (règle 41.c). Retour dans le 35 : reprendre Betton, en vérifiant d'abord la vente au registre de Douz'Arômes. Le total reste à 1 283 fiches.
