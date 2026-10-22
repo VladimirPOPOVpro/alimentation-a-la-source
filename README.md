@@ -41199,3 +41199,27 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Contradiction consignée, non tranchée.** Le classement de la passe du 22 octobre précédente plaçait le 68 en tête sans citer le 35, alors que le 35 a le déficit le plus élevé une fois le 68 exclu, et que la passe du 21 octobre désignait Betton pour la reprise. Question pour le responsable du site : faut-il considérer le 35 comme épuisé ? En attendant, la règle 41 telle qu'écrite donne le 35.
 
 **Points d'arrêt.** Passe suivante : la région 53 ne peut pas être visée deux fois de suite (règle 41.c). Retour dans le 35 : reprendre Betton, en vérifiant d'abord la vente au registre de Douz'Arômes. Le total reste à 1 283 fiches.
+
+### Passe autonome du 22 octobre 2026 (Haut-Rhin (68) reprise, Wintzenheim sondée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Bretagne (53) : seule cette région est exclue (règle 41.c). Le 59, le 31, le 13, le 76 et le 38 restent clos ou éprouvés (règle 247). Le 64 et les Landes sont épuisés ou sautés. Premier département éligible : le 68.
+
+**Commune, règle 41.d.** Wintzenheim (8 059 hab.), point d'arrêt de la passe du 22 octobre (après Guebwiller, Wittelsheim, Pfastatt et Brunstatt-Didenheim). Commune éprouvée n° 5 du 68, sur la borne de douze (règle 247).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 68, pagination complète (1 344 opérateurs) : une vingtaine d'opérateurs déclarés à Wintzenheim, presque tous en production et sans vente aux particuliers. Quatre entreprises individuelles à vente directe sont nommées par leur patronyme : écartées pour doute sur une personne, rien n'en est publié ni nommé.
+- Une boulangerie bio à Wintzenheim est déclarée en vente aux particuliers : enseigne d'entreprise, pas de site ni d'horaires trouvés.
+- Recherche web : pas de marché de producteurs ni de magasin de producteurs identifié à Wintzenheim. La page Biocoop de la commune répond 404 ; la mairie ne publie pas de jour de marché hebdomadaire. Un supermarché généraliste (règle 1 de `MODERATION.md`) est écarté.
+
+**Pourquoi rien n'est publié.** Zéro commerce vérifiable à Wintzenheim : cinq fiches recoupées sur une même commune sont nécessaires (règle 52).
+
+**Pistes non publiées (anonymes, Wintzenheim).**
+- Boulangerie bio déclarée en vente directe : site, horaires et adresse à vérifier auprès de l'enseigne.
+- Marché : aucun jour hebdomadaire publié par la mairie ; seules des manifestations ponctuelles (marché de Noël, marché aux puces, brocante). Règle 9 : ne se publie pas sans jour ni horaires.
+- Magasin bio du réseau Biocoop : la page de la commune répond 404, à rouvrir avec une adresse fiable.
+
+**Fiches écartées pour doute sur une personne.** Quatre à Wintzenheim (entreprises individuelles à vente directe nommées par patronyme). Aucun nom n'est écrit ici.
+
+**Points d'arrêt.** Passe suivante : le 68 ne peut pas être visé (règle 41.c). Au retour dans le 68, reprendre la descente à la commune suivante de Wintzenheim, dans la borne de douze (règle 247). Wintzenheim compte désormais une commune éprouvée de plus dans le 68.
