@@ -41622,3 +41622,27 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : le 76 ne peut pas être visé deux fois de suite (règle 41.c). Si la passe revient en Seine-Maritime, reprendre Dieppe sur le site de la Ville et l'office de tourisme pour les marchés de la zone, avant toute descente. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Alpes-de-Haute-Provence (04) visée, Manosque sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens : doute sur une personne déjà consigné, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu. La passe précédente visait la Seine-Maritime (76) : cette région est exclue (règle 41.c). Les départements de tête (Haute-Garonne, Haut-Rhin, Isère, Bouches-du-Rhône, Nord, Oise, Loire, Savoie) restent clos, éprouvés ou épuisés (règle 247). Corse : le comptage du registre se fait sous le préfixe 20, le calcul brut la donne à tort sans fiche ; elle n'a pas été retenue cette passe. **Alpes-de-Haute-Provence (04) retenue** : déficit voisin de 3,1, sans fiche publiée.
+
+**Commune, règle 41.d.** Manosque, la commune la plus peuplée du 04 sans aucune fiche publiée.
+
+**Ce qui a été lu.**
+- Recherche web sur le marché de Manosque : sources tierces seulement (luberon.fr, jds.fr, jours-de-marche). Les horaires ne concordent pas (8 h – 13 h d'un côté, 7 h 30 – 12 h 45 de l'autre), et les emplacements sont déplacés par des travaux au centre-ville. Aucune page officielle de la Ville n'a pu être lue. Contradiction consignée (règle 5).
+- Registre de l'Agence Bio, département 04, 800 opérateurs lus sur huit pages : une dizaine d'opérateurs à vente aux particuliers à Manosque et dans les communes voisines. La plupart sont des personnes physiques, non reprises (règle de personne). Les enseignes non personnelles restent à vérifier sur leurs propres pages.
+- Une fiche de magasin de producteurs à Manosque n'apparaît que dans une seule source (comparateur de circuits courts), sans page du commerce lue : non retenue.
+
+**Pourquoi rien n'est publié.** Manosque ne rend pas cinq commerces vérifiables sur deux sources indépendantes (règle 52). Le marché est contradictoire, la photothèque officielle n'a pas été lue, et les enseignes non personnelles n'ont pas de page propre consultée.
+
+**Pistes non publiées (anonymes, Alpes-de-Haute-Provence).**
+- Manosque : marché hebdomadaire du samedi, horaires contradictoires entre sources tierces, à reprendre sur le site de la Ville.
+- Manosque : magasin de producteurs signalé par un comparateur, à vérifier sur sa propre page.
+- Manosque : une enseigne de restauration, non vérifiée, non retenue.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs opérateurs du registre du 04 portent un nom de personne en raison sociale : écartés sans être repris. Aucune fiche publique concernée cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 93 (Provence-Alpes-Côte d'Azur) ne peut pas être visée deux fois de suite (règle 41.c). Si la passe revient dans le 04, reprendre Manosque sur le site officiel de la Ville et sur l'office de tourisme, avant toute descente (règle 247). Aucune fiche n'a été publiée cette passe.
