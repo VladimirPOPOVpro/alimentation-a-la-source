@@ -34011,5 +34011,126 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cr%C3%A8merie%20Dacquoise%20Dax",
     "image_url": "/images/marchands/halles-de-dax.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "orvault-marche-du-bourg",
+    "nom": "Marché du Bourg (place de l’Église)",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.271103,
+    "lon": -1.6229,
+    "adresse": "Place de l’Église, 44700 Orvault",
+    "horaires": "Chaque dimanche, de 8h à 13h",
+    "produits": [
+      "Fromages",
+      "Huîtres",
+      "Poissons",
+      "Fruits et légumes",
+      "Épicerie fine",
+      "Charcuterie"
+    ],
+    "description": "Petit marché alimentaire de six étals, décrit par la Ville d’Orvault comme favorisant le dynamisme du bourg.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Bourg%20Orvault",
+    "image_url": "/images/marchands/orvault-marche-du-bourg.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "orvault-marche-petit-chantilly",
+    "nom": "Marché du Petit-Chantilly",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.252947,
+    "lon": -1.597571,
+    "adresse": "6 Avenue de la Morlière, 44700 Orvault",
+    "horaires": "Tous les vendredis, de 15h30 à 19h30",
+    "produits": [
+      "Produits non détaillés par la Ville"
+    ],
+    "description": "Le plus ancien des marchés d’Orvault, ouvert chaque vendredi depuis plus de trente ans selon la Ville.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Petit-Chantilly%20Orvault",
+    "image_url": "/images/marchands/orvault-marche-petit-chantilly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "orvault-marche-bout-des-paves",
+    "nom": "Marché du Bout des Pavés",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.253716,
+    "lon": -1.576933,
+    "adresse": "93 Route de Rennes, 44700 Orvault",
+    "horaires": "Tous les jeudis, de 8h à 13h",
+    "produits": [
+      "Produits alimentaires (une quinzaine de commerçants)"
+    ],
+    "description": "Marché d’une quinzaine de commerçants, principalement alimentaires, selon la Ville d’Orvault.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20du%20Bout%20des%20Pav%C3%A9s%20Orvault",
+    "image_url": "/images/marchands/orvault-marche-bout-des-paves.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "orvault-amap-petit-chantilly",
+    "nom": "AMAP du Petit-Chantilly",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "environnement"
+    ],
+    "lat": 47.247807,
+    "lon": -1.594248,
+    "adresse": "25 Rue Alfred Nobel (ferme du Bignon), 44700 Orvault",
+    "horaires": "Distribution les mercredis soir, de 17h30 à 19h",
+    "produits": [
+      "Légumes",
+      "Pains",
+      "Œufs",
+      "Produits laitiers",
+      "Fruits",
+      "Viandes et poissons en colis",
+      "Vins, bières et cidres"
+    ],
+    "description": "Association de vingt-quatre paysans bio en contrat AMAP ou en groupement de commande, selon sa fiche sur le site de la Ville.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=AMAP%20du%20Petit-Chantilly%20Orvault",
+    "image_url": "/images/marchands/orvault-amap-petit-chantilly.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "orvault-amap-orvamap-bourg",
+    "nom": "ORVAMAP, AMAP Orvault Bourg",
+    "categorie": "amap",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "environnement"
+    ],
+    "lat": 47.270607,
+    "lon": -1.624397,
+    "adresse": "9 Rue Marcel Deniau, 44700 Orvault",
+    "horaires": "Distribution les jeudis, de 18h15 à 19h30, salle Pacaille (parking de la carrière), Orvault Bourg",
+    "produits": [
+      "Légumes",
+      "Produits laitiers",
+      "Pain",
+      "Œufs",
+      "Champignons",
+      "Viandes",
+      "Pommes et poires",
+      "Miel",
+      "Vin"
+    ],
+    "description": "Antenne du bourg de l’association ORVAMAP : contrats AMAP de produits bio et locaux, selon la fiche de la Ville.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ORVAMAP%20AMAP%20Orvault%20Bourg",
+    "image_url": "/images/marchands/orvault-amap-orvamap-bourg.jpg",
+    "a_confirmer": true
   }
 ]

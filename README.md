@@ -41683,3 +41683,32 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la région 52 (Pays de la Loire) ne peut pas être visée (règle 41.c). Si la passe revient en Loire-Atlantique, reprendre Orvault à la source de la Ville (règle 247 : douze communes au plus), en instruisant la photographie avant la descente. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Loire-Atlantique (44), Orvault publiée : cinq fiches)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en `en_cours` (#13) reste en suspens, sans message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 288 fiches. La Loire-Atlantique reste désignée (descente à Orvault, voir la passe précédente). Aucune autre commune n'a été sondée.
+
+**Commune, règle 247.** Orvault (28 534 hab.) est traitée. Ses sources sont la Ville elle-même, sur `orvault.fr` : trois marchés (`/annuaire/`, fiches du 8 septembre 2023) et quatre AMAP. Les pages de la Ville sont datées de 2023 et 2024 : d'où `a_confirmer` sur les cinq fiches.
+
+**Photographie, règle 432.** La Ville interdit la reproduction de ses photos (règle 231) ; la question restée ouverte dans la passe précédente se tranche donc par la règle 432 : une vue aérienne IGN (BD ORTHO, licence ouverte Etalab 2.0), cadrée sur l'adresse de chaque fiche, illustre la fiche. Ces images ne montrent ni marché ni personne ; elles ne prétendent pas montrer le lieu. Vérifiées à la relecture : cadrage correct, pas de visage.
+
+**Publié (cinq fiches, une seule commune).**
+- Marché du Bourg (place de l’Église), dimanche 8h-13h.
+- Marché du Petit-Chantilly, vendredi 15h30-19h30 ; produits non détaillés par la Ville.
+- Marché du Bout des Pavés (93 route de Rennes), jeudi 8h-13h.
+- AMAP du Petit-Chantilly (ferme du Bignon), mercredi 17h30-19h.
+- ORVAMAP, AMAP Orvault Bourg, jeudi 18h15-19h30, salle Pacaille ; adresse de la Ville, à confirmer.
+
+Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle 6) ; leur existence repose sur la publication de la Ville.
+
+**Non publiées (cap de cinq par passe).**
+- Orvault, AMAP Praudière (mardi 18h-19h) : faits entiers, publiée à la passe suivante.
+- Orvault, AMAP Bugallière (jeudi 18h15-19h30) : faits entiers, publiée à la passe suivante.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions.** Aucune relevée ; les horaires de l’ORVAMAP du bourg et de la Bugallière coïncident (jeudi) sans conflit.
+
+**Points d'arrêt.** Passe suivante : Orvault épuisé pour la règle 41.d ; les deux AMAP restantes sont en réserve, pour une passe qui revient en Loire-Atlantique.
