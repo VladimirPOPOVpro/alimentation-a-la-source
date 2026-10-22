@@ -41571,3 +41571,27 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : le 76 ne peut pas être visé deux fois de suite (règle 41.c). Reprendre Fécamp (Halles) ou Montivilliers (Monti'Marchés) plutôt que Dieppe, si la passe revient en Normandie. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Loire (42) visée, Roanne sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens, doute sur une personne déjà consigné : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93). Le 76 est exclu par la règle 41.c (passe précédente, Normandie). Le 31 est clos par la règle 247 (douze communes éprouvées). Le 42 reçoit la passe : Roanne (35 409 habitants) est la commune la plus peuplée du département sans aucune fiche, Saint-Chamond (35 646) en porte une.
+
+**Ce qui a été lu.**
+- Office de tourisme du Roannais, article sur les marchés (version republiée, rédigée en juillet 2022) : marchés de 8 h à 12 h 30, avec jours et places.
+- Site officiel de Roannais Agglomération et de la Ville de Roanne (`aggloroanne.fr`, adresse reprise depuis `roanne.fr`) : page des marchés listant huit marchés, de 8 h à 13 h, et les Halles Diderot (mardi à dimanche, 8 h à 19 h, le dimanche jusqu'à midi). La page ne porte pas de date de mise à jour.
+- jours-de-marche.fr : huit marchés recensés, horaires non lisibles dans la recherche.
+- Registre de l'Agence Bio, département 42, trois pages lues (300 opérateurs) : à Roanne, un magasin bio de réseau et une boulangerie. Ni l'un ni l'autre n'a été repris : le réseau n'a pas de source locale lue au-delà du registre, et la boulangerie est hors circuit court.
+
+**Pourquoi rien n'est publié.**
+- Les horaires des marchés ne concordent pas : 8 h – 12 h 30 dans l'article de 2022, 8 h – 13 h sur la page officielle. Contradiction consignée (règle 5) ; la page officielle étant la plus récente, c'est elle qui ferait foi pour une fiche, mais elle n'est pas datée.
+- Halles Diderot : horaires contradictoires selon les sources (fermeture vers 12 h 30 le dimanche et en milieu de semaine d'après un guide, 8 h – 19 h pour un étal d'après un annuaire). Pas de fiche.
+- Photographies : aucune image dont les conditions d'usage permettent la reprise n'a été trouvée. Rien n'a été téléchargé.
+- Les marchés jour et lieu sont concordants sur deux sources, mais sans photo utilisable et sans producteur identifié à Roanne, la zone n'atteint pas cinq fiches entières (règle 248).
+
+**Pistes non publiées (anonymes, Loire).** Roanne : huit marchés de plein air et les Halles Diderot, jours et lieux établis par deux sources, horaires à trancher sur la page officielle, photographies à trouver avec droit de reprise. Roanne : magasin bio de réseau (registre Agence Bio), à reprendre sur sa propre page avec une source locale.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la Loire ne peut pas être visée deux fois de suite (règle 41.c) ; si la passe y revient, la descente reprend à Firminy (17 060 habitants, aucune fiche), sans refaire le criblage de Roanne (règle 247). Ne pas revenir en Normandie. Aucune fiche n'a été publiée cette passe.
