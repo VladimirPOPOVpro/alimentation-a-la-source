@@ -41553,3 +41553,21 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la Normandie reste exclue si elle est visée à nouveau de suite (règle 41.c). L'Ille-et-Vilaine peut être reprise : relire le site de la Ville de Cesson-Sévigné dès qu'il répond, puis la boutique collective de Pacé sur son propre site. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Seine-Maritime (76) visée, Dieppe sondée à nouveau : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens, doute sur une personne déjà consigné : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu. Déficit métropolitain le plus élevé hors le 76 : pas de déficit supérieur à celui de la Seine-Maritime (4,6). La passe précédente visait l'Ille-et-Vilaine (35), donc le 76 est éligible (règle 41.c).
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée de 76 sans fiche. Elle est reprise une fois de plus, avec une recherche neuve sur deux requêtes (horaires du marché producteurs, vente directe) : aucun horaire officiel 2026 pour un marché de producteurs à Dieppe, seulement des événements ponctuels (braderie et marché d'art, dates d'août) et la foire aux harengs de novembre, sans horaires publiés.
+
+**Ce qui a été lu.** Recherches web sur Dieppe : une seule épicerie participative (Coop d'Albâtre) au catalogue de la carte circuit court, sans site propre ; rien d'autre vérifiable dans la commune. Le magasin de producteurs de Petit-Caux (76370) est hors Dieppe et ne compte pas pour la zone.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables sur deux sources indépendantes (règle 52). Une fiche isolée n'est pas une zone (règle 248). Descente vers Fécamp et Montivilliers non reprise dans cette passe : leurs pistes restent telles que consignées le 22 octobre.
+
+**Pistes non publiées (anonymes, Seine-Maritime).** Dieppe : marché du samedi matin à établir sur une source officielle ; épicerie participative à reprendre avec son propre site. Petit-Caux : magasin de producteurs à rattacher à sa commune lorsque le 76 sera visé sur ce secteur.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 76 ne peut pas être visé deux fois de suite (règle 41.c). Reprendre Fécamp (Halles) ou Montivilliers (Monti'Marchés) plutôt que Dieppe, si la passe revient en Normandie. Aucune fiche n'a été publiée cette passe.
