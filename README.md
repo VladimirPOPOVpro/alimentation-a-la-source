@@ -41646,3 +41646,26 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Plusieurs opérateurs du registre du 04 portent un nom de personne en raison sociale : écartés sans être repris. Aucune fiche publique concernée cette passe.
 
 **Points d'arrêt.** Passe suivante : la région 93 (Provence-Alpes-Côte d'Azur) ne peut pas être visée deux fois de suite (règle 41.c). Si la passe revient dans le 04, reprendre Manosque sur le site officiel de la Ville et sur l'office de tourisme, avant toute descente (règle 247). Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Savoie (73) visée, Aix-les-Bains sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens : doute sur une personne déjà consigné, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu, 1 288 fiches comptées sur le code postal du champ `adresse`. La passe précédente visait Alpes-de-Haute-Provence (04, PACA) : la région 93 est exclue (règle 41.c). Le calcul brut donne en tête le Nord, la Haute-Garonne, les Bouches-du-Rhône, la Seine-Maritime, l'Isère, le Haut-Rhin, l'Ille-et-Vilaine, le Rhône, l'Oise, la Loire-Atlantique : pour chacun, les douze communes les plus peuplées sont déjà citées dans le README (fiches, pistes ou passes), donc éprouvées ou épuisées au sens de la règle 247. **Constat, à consigner** : à ce stade, la descente de la règle 41.d ne trouve plus de commune neuve dans les dix premiers départements du classement. La première commune non citée se trouve en Savoie (73, déficit ≈ 3,7), où Aix-les-Bains (32 406 hab.) n'apparaît dans aucune passe. **Contradiction consignée** : la passe du 22 octobre (Alpes-de-Haute-Provence) classait la Savoie parmi les départements « clos » ; rien dans le README ne documente cette clôture pour Aix-les-Bains. On suit la formule et on y va.
+
+**Commune, règle 41.d.** Aix-les-Bains, la plus peuplée de la Savoie sans fiche publiée.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Savoie, quatre pages (400 opérateurs) filtrées sur Aix-les-Bains et communes voisines. Presque toutes les entrées de vente aux particuliers portent un nom de personne (écartées pour doute sur une personne, non nommées, ne se rouvrent pas) ; les autres sont des négociants, des boulangeries sans vente déclarée, des établissements sans vente au public ou des grandes surfaces (non éligibles).
+- Site officiel de la Ville d'Aix-les-Bains (page d'accueil lue) : aucune rubrique marchés ou producteurs visible sur la page d'accueil ; la rubrique « commerces » et la page du marché n'ont pas été trouvées à cette passe.
+
+**Pourquoi rien n'est publié.** Aix-les-Bains ne rend pas cinq commerces vérifiables sur deux sources indépendantes (règle 52). Le registre n'en fournit aucun qui soit à la fois non personnel, de vente aux particuliers et identifiable à une adresse de vente ; le site de la Ville ne donne pas le marché.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Aix-les-Bains : un magasin bio à enseigne de réseau déclaré au registre, en vente non déclarée aux particuliers. Non éligible en l'état (réseau, pas une enseigne indépendante). **Déblocage** : confirmer le statut d'indépendance sur le site de l'enseigne.
+- Aix-les-Bains : une entrée de vente aux particuliers sans enseigne identifiable. **Déblocage** : une page de commerce ou une fiche de l'office de tourisme.
+- Aix-les-Bains : le marché, à reprendre sur les pages « marchés » de la Ville et de l'office de tourisme, qui n'ont pas été ouvertes cette passe.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre de la Savoie à Aix-les-Bains, Grésy-sur-Aix et Le Bourget-du-Lac, portant un nom de personne : non nommées, non reprises.
+
+**Points d'arrêt.** Passe suivante : la région 84 (Auvergne-Rhône-Alpes, dont la Savoie) est éligible, mais la passe ne doit pas recommencer en Savoie sans les pages « marchés » de la Ville d'Aix-les-Bains. Si la passe revient en Savoie, ouvrir ces pages avant toute descente. Aucune fiche n'a été publiée cette passe.
