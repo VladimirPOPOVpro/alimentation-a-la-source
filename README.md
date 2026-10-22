@@ -41127,3 +41127,27 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : le 68 ne peut pas être visé (règle 41.c, cette passe le visait). Au retour dans le 68, reprendre la descente à la commune suivante de Wittelsheim, dans la borne de douze communes (règle 247). Wittelsheim compte désormais une commune éprouvée de plus dans le 68.
+
+### Passe autonome du 22 octobre 2026 (Pyrénées-Atlantiques (64) reprise, Lons sondée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : son nom d'enseigne se lit comme un prénom et le contact transmis est privé, doute sur une personne (règle 1 de `MODERATION.md`). Rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu, 1 283 fiches. La passe précédente visait le Haut-Rhin (Grand Est, règle 41.c) : la région est exclue, pas le 64. Landes sautées (épuisées, règle 265 : la descente de Mont-de-Marsan à Vielle-Saint-Girons, puis Dax, n'a rendu aucune zone). Le 76, le 31, le 13, le 38 et le 59 restent clos ou éprouvés (règle 247). Le 64 reprend donc, sa descente n'étant pas close. Ses communes les plus peuplées éprouvées : Pau, Bayonne, Anglet, Billère, Bizanos, Oloron-Sainte-Marie, Biarritz, Hendaye, Saint-Jean-de-Luz, Ciboure, Orthez.
+
+**Commune, règle 41.d.** Lons (13 606 hab.), la plus peuplée restante sans fiche dans la descente du 64.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 64, pagination complète (2 044 opérateurs) : à Lons, deux opérateurs de distribution aux particuliers portent une enseigne d'entreprise ; les autres sont des grossistes, des grandes surfaces, des producteurs en vente aux professionnels ou des entrées au nom de personnes (écartées pour doute sur une personne, non nommées).
+- Registre des entreprises : deux établissements actifs de l'enseigne « Les Comptoirs de la Bio » à Lons, 1 rue Pierre-Gilles-de-Gennes et 163 avenue Jean-Mermoz. La BAN géocode la seconde adresse au score 0,96 (lon -0,3797, lat 43,3200). Aucun horaire publié n'a été trouvé pour l'un ni l'autre sur une source indépendante, et le site officiel de l'enseigne n'était pas joignable depuis cet environnement.
+- Marché : un marché du mercredi, 8 h à 13 h, place Bernard-Deytieux, n'est signalé que par des agendas d'événements. Ni la commune ni l'office de tourisme ne l'attestent dans les résultats (règles 9 et 16 : non publié).
+
+**Pourquoi rien n'est publié.** Lons ne rend pas cinq commerces vérifiables, et les deux fiches de l'enseigne n'ont ni horaires confirmés ni source officielle : une fiche isolée n'est pas une zone (règle 52). Les deux points de vente sont inscrits en pistes ci-dessous, sans nom de personne.
+
+**Pistes non publiées (anonymes, Lons).**
+- Deux points de vente de l'enseigne Les Comptoirs de la Bio, actifs au registre : horaires non vérifiés, aucune source officielle joignable. À reprendre si Lons rend trois autres fiches.
+- Un marché du mercredi matin, place Bernard-Deytieux : attesté seulement par des agendas, à reprendre si la commune ou l'office de tourisme le publie.
+- Trois entrées de vente aux particuliers au nom de personnes, et une enseigne au patronyme seul : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Quatre, à Lons (entrées au nom de personnes et enseigne au patronyme).
+
+**Points d'arrêt.** Passe suivante : le 64 n'est pas visé deux fois de suite (règle 41.c), donc la descente reprend ailleurs dans la région au calcul suivant. La descente du 64 reste ouverte : Lons, la commune suivante par population sans fiche, est à reprendre au passage suivant avec les deux points de vente et le marché, dès qu'une source officielle les confirme. Le total reste à 1 283 fiches.
