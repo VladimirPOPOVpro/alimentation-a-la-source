@@ -41401,3 +41401,25 @@ la BAN ; ici, les candidats ne tiennent pas ce critère. Une fiche isolée ne fo
 **Point d'arrêt.** Le Nord reste éligible à la passe suivante, mais sans nouvelle source, la même impasse se
 reproduira. Prochaine passe utile : soit une commune du Nord avec site officiel de marchés publié, soit une
 autre région choisie par la formule.
+
+### Passe autonome du 22 octobre 2026 (Haut-Rhin (68) sondé, Wittenheim et Illzach relues : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait le Nord (59, région 32) : cette région est exclue (règle 41.c). Le 76 et le 31 restent clos (règle 247, épuisé). Le Haut-Rhin (68) est le premier département éligible restant, avec le 38 et le 13 éprouvés.
+
+**Commune, règle 41.d.** Colmar et Mulhouse ont déjà des fiches : la descente passe aux communes suivantes du 68. Wittenheim (15 553 hab.) et Illzach (14 923 hab.) sont sondées.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 68 (100 opérateurs relus) : aucun opérateur déclaré en vente aux particuliers à Wittenheim, Illzach ni Kingersheim.
+- Recherche web sur les marchés : Wittenheim n'a aucun marché recensé ; Illzach n'a qu'un marché de Noël ponctuel (4 au 6 décembre 2026), et son annuaire de producteurs ne renvoie que des adresses situées à plus de 20 km.
+
+**Pourquoi rien n'est publié.** Aucun marché hebdomadaire ni magasin de producteurs vérifiable dans les deux communes ; le registre ne donne aucun point de vente en vente directe à Wittenheim. Cinq fiches recoupées sur une même commune sont nécessaires (règle 52).
+
+**Pistes non publiées (anonymes, Haut-Rhin).**
+- Wittenheim : aucun marché hebdomadaire, aucun commerce vérifié ; rien à rouvrir sans nouvelle source.
+- Illzach : marché ponctuel de fin d'année seulement ; un maraîcher bio figure dans un annuaire, adresse à confirmer auprès de la commune avant toute fiche.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Au prochain passage dans le 68, descendre à la commune suivante par population sans fiche après Illzach ; la commune n'est pas retenue ici faute de source de commerce.
