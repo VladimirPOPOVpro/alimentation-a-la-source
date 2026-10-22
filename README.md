@@ -41370,3 +41370,34 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la Corse (94) est encore éligible au calcul ; la descente de la règle 247 compte désormais six communes du Haute-Corse (Bastia, Calvi, Ventiseri, Aléria, Cervione, Monticello) et Ajaccio. Pour publier Ajaccio, il faut une coordonnée qui ne soit pas à l'estime : soit la BAN connaît une adresse précise de la place Campinchi ou de l'immeuble du quartier Saint-Joseph (requête à refaire, par numéro de voie), soit le responsable du site tranche sur une source de géolocalisation autre que la BAN (la carte de l'office de tourisme). Dans l'attente, Ajaccio reste sans fiche.
+
+### Passe autonome du 22 octobre 2026 (suite, Nord (59) sondé : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : elle concerne une
+commune du Var (83), un producteur, et l'enseigne soumise peut être un prénom. Doute sur une personne :
+rien n'est publié, aucune réponse envoyée.
+
+**Secteur, règle 41.** Métropole seule. Le département de plus grand déficit est le Nord (59), avec un
+déficit d'environ 5,9 fiches ; la passe précédente visait la Corse, région différente, donc le Nord est
+éligible.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche (Wattrelos, Marcq-en-Barœul,
+Lambersart, Armentières) ont déjà été relues à plusieurs passes sans source officielle suffisante. Cambrai
+et Maubeuge ont été relues dans le registre Agence Bio, qui ne livre aucun commerce de vente directe
+vérifiable (registre relu sur 1 794 opérateurs du département). Aucune nouvelle source ne change le constat :
+aucune commune n'atteint cinq commerces vérifiés sur deux sources indépendantes.
+
+**Pourquoi rien n'est publié.** Pas de fiche sans source indépendante, pas de fiche sans adresse géocodée à
+la BAN ; ici, les candidats ne tiennent pas ce critère. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes).**
+- Villecroze (83) : une demande de producteur en attente (n° 13), enseigne possiblement un prénom, contact
+  personnel : rien publié, reste `en_cours`.
+- Nord (59) : Wattrelos, Marcq-en-Barœul, Lambersart, Armentières, Cambrai, Maubeuge : aucune source
+  officielle ou registre suffisant pour cinq fiches vérifiées.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Villecroze, demande n° 13).
+
+**Point d'arrêt.** Le Nord reste éligible à la passe suivante, mais sans nouvelle source, la même impasse se
+reproduira. Prochaine passe utile : soit une commune du Nord avec site officiel de marchés publié, soit une
+autre région choisie par la formule.
