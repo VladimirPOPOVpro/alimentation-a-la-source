@@ -41527,3 +41527,29 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Fécamp et Montivilliers, nommées par patronyme ou par prénom (nombre seulement, aucun nom écrit ici).
 
 **Points d'arrêt.** Passe suivante : la Normandie (28) ne peut pas être visée deux fois de suite (règle 41.c). Reprendre Dieppe sur la page de l'office de tourisme, puis Fécamp (Halles) et Montivilliers (Monti'Marchés) avant toute autre commune. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Ille-et-Vilaine (35) reprise, Cesson-Sévigné et Pacé sondées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule (règle 177). La passe précédente visait la Seine-Maritime (Normandie, région 28) : cette région est exclue par la règle 41.c. Les départements en tête du déficit (59, 31, 13, 38, 68, 60) restent clos (règle 247). Premier département éligible : l'Ille-et-Vilaine (35).
+
+**Commune, règle 41.d.** Cesson-Sévigné (18 761 hab.), la plus peuplée des communes sans fiche après Fougères et Vitré, déjà éprouvées ; puis Pacé (11 703 hab.) à la descente.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Cesson-Sévigné : injoignable depuis cet environnement (connexion refusée), donc aucune rubrique marchés recoupée.
+- Registre des entreprises : l'enseigne d'alimentation de la commune relevée n'est pas active (établissement fermé).
+- Recherche web, Cesson-Sévigné : pas de marché de producteurs recensé ; une braderie généraliste (exposants, pas de producteurs) ; une boutique en ligne à points de retrait dont l'adresse publiée est à Quessoy (22), pas à Cesson ; un Biocoop, déjà en registre comme commerce bio classique.
+- Recherche web, Pacé : une boutique collective de producteurs locaux, horaires donnés par un seul annuaire (Que Choisir), sans site propre trouvé ; une commande en ligne avec livraison, sans lieu de vente fixe.
+- Recherche web, Châteaugiron : aucun marché ni magasin de producteurs trouvé dans les résultats.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend cinq commerces vérifiables sur deux sources indépendantes (règle 52), y compris en élargissant à une commune limitrophe de la même intercommunalité. Une fiche isolée n'est pas une zone (règle 248) ; la passe n'a pas trouvé sa zone dans le 35 et ne descend pas au-delà de la borne.
+
+**Pistes non publiées (anonymes, Ille-et-Vilaine).**
+- Pacé : boutique collective de producteurs (une dizaine de fermes locales), horaires à confirmer sur une source du point de vente lui-même ; une seule fiche possible, en attente de ses voisines.
+- Cesson-Sévigné : Biocoop (commerce bio classique, hors catégorie de producteurs) ; service de panier à points de retrait dont le lieu n'est pas à Cesson.
+- Cesson-Sévigné : site de la Ville injoignable ; rubrique marchés à relire dès qu'il répond.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la Normandie reste exclue si elle est visée à nouveau de suite (règle 41.c). L'Ille-et-Vilaine peut être reprise : relire le site de la Ville de Cesson-Sévigné dès qu'il répond, puis la boutique collective de Pacé sur son propre site. Aucune fiche n'a été publiée cette passe.
