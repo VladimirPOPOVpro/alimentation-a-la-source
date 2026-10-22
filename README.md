@@ -41334,3 +41334,39 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Écartés, sans nom.** Trois étals des Halles dont le nom reprend un prénom ou un patronyme (écartés pour doute sur une personne, règle 1) ; une ferme de Cazères-sur-l'Adour, vendant aux Halles selon une seule source non confirmée (commune différente, non publiée) ; un établissement de Dax sans entrée au registre (non publié).
 
 **Points d'arrêt.** Passe suivante : Landes (40) reste fermée à la passe suivante (règle 41.c). Reprendre Dax : site de l'Office de Tourisme Grand Dax pour les horaires et téléphones, puis les étals du registre. Une seconde commune de Landes (Saint-Paul-lès-Dax) est la prochaine réserve si Dax s'épuise.
+
+### Passe autonome du 22 octobre 2026 (Corse-du-Sud (2A) reprise, Ajaccio : aucune fiche publiée, coordonnées introuvables à la BAN)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié, aucune réponse envoyée).
+
+**Secteur, règle 41.** Métropole seule (règle 177). La passe précédente visait le Landes (40), région 75 : seule cette région est exclue (règle 41.c). La Corse (94) n'a pas été visée la passe d'avant, elle redevient éligible ; le déficit cumulé des deux départements de l'île reste le plus fort parmi les départements ouverts. Le Haut-Rhin (68), la Seine-Maritime (76), le Nord (59), la Haute-Garonne (31), l'Isère (38), les Bouches-du-Rhône (13) et l'Oise (60) restent clos ou éprouvés (règle 247).
+
+**Commune, règle 41.d.** Ajaccio (76 320 hab.), la commune la plus peuplée de l'île sans fiche publiée, reprise là où la passe précédente l'avait laissée.
+
+**Ce qui a été lu.**
+- Office de tourisme d'Ajaccio, fiche « Tisori Nostri – Magasin de producteurs » (ouverte en 2022, mise à jour 2026) : lundi à vendredi 9 h-13 h et 14 h 30-18 h 30, samedi 9 h-13 h, fermé le dimanche ; téléphone 04 95 71 15 38 ; quartier Saint-Joseph, immeuble du quartier, 20090.
+- Office de tourisme, page « Le marché » (dernière mise à jour février 2026) : marché Marcatu d'Aiacciu, place Campinchi, mardi à dimanche 9 h-13 h ; Halle Gourmande, même place, mardi à dimanche 9 h-14 h ; marché des Producteurs de Pays (mercredi et samedi, 9 h-13 h) ; marché de la place Abbatucci (samedi et dimanche, 9 h-13 h).
+- Recherche web : Que Choisir (circuit court) donne 9 h 30-18 h du lundi au samedi pour Tisori Nostri.
+- Registre des entreprises : Tisori Nostri active, siège au Pantano (Sarrola-Carcopino), code 94.99Z ; La Vie Claire Ajaccio exploitée par une société active, à l'adresse de l'enseigne.
+- Recherche sur l'enseigne La Vie Claire : adresse boulevard Albert-1er et téléphone 04 95 50 37 32 (annuaire du réseau), mais aucun horaire publié pour ce magasin.
+- Photos : page de l'office de tourisme pour Tisori Nostri (vue de la façade, à relire) et pour le marché (`marche.jpg`, février 2026). Non téléchargées : la passe ne publie pas de fiche.
+
+**Pourquoi rien n'est publié.** La base Adresse Nationale ne connaît ni la place Campinchi, ni la place Abbatucci, ni l'immeuble du quartier Saint-Joseph : les seules réponses sont des voies homonymes à Bastia, Caen, Huningue ou Calais, ou une esplanade homonyme à un score de 0,37, trop faible pour une coordonnée. La règle de géocodage (BAN uniquement, jamais à l'estime) interdit de placer un point à la main. Sans coordonnée vérifiée, aucune fiche ajoutée ne peut être utile. La règle 248 s'applique : une passe qui ne trouve pas sa zone ne publie rien.
+
+**Contradictions consignées, non tranchées.**
+- Horaires de Tisori Nostri : office de tourisme (9 h-18 h 30 en semaine, samedi matin) contre Que Choisir (9 h 30-18 h du lundi au samedi). L'office est plus récent et plus précis : retenu sur le papier, mais la fiche resterait `a_confirmer` sur les horaires.
+- Marché de la place Abbatucci : samedi et dimanche (office, février 2026) contre mardi à dimanche, 7 h-13 h (ancienne page de l'office, citée dans la passe du 22 octobre matin). Ni l'une ni l'autre n'est un fait sûr : rien n'est publié sur ce marché.
+- Emplacement du marché des Producteurs de Pays : place Campinchi (office, 2026) contre place Foch (article ancien, 2011, qui parle aussi d'une occupation deux samedis par mois, ce qui ne correspond plus au calendrier de l'office).
+- Tisori Nostri : adresse du point de vente (quartier Saint-Joseph) distincte du siège enregistré (Sarrola-Carcopino). À réconcilier : la fiche n'est pas publiée sans une coordonnée fiable.
+- La Vie Claire Ajaccio : entité active au registre, téléphone du réseau, mais aucun horaire publié : la fiche ne peut pas être remplie (le validateur exige des horaires).
+
+**Pistes non publiées (anonymes, Ajaccio).**
+- Magasin de producteurs de Saint-Joseph (Tisori Nostri) : horaires et téléphone de l'office, coordonnée BAN introuvable.
+- Marché Marcatu d'Aiacciu et Halle Gourmande, place Campinchi : horaires de l'office (février 2026), coordonnée BAN introuvable pour la place.
+- Marché des Producteurs de Pays : mercredi et samedi (office), emplacement en contradiction avec un article de 2011.
+- Marché de la place Abbatucci : jours en contradiction, rien publié.
+- Magasin bio La Vie Claire, boulevard Albert-1er : aucun horaire publié, téléphone du réseau.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la Corse (94) est encore éligible au calcul ; la descente de la règle 247 compte désormais six communes du Haute-Corse (Bastia, Calvi, Ventiseri, Aléria, Cervione, Monticello) et Ajaccio. Pour publier Ajaccio, il faut une coordonnée qui ne soit pas à l'estime : soit la BAN connaît une adresse précise de la place Campinchi ou de l'immeuble du quartier Saint-Joseph (requête à refaire, par numéro de voie), soit le responsable du site tranche sur une source de géolocalisation autre que la BAN (la carte de l'office de tourisme). Dans l'attente, Ajaccio reste sans fiche.
