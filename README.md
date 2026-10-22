@@ -41223,3 +41223,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Quatre à Wintzenheim (entreprises individuelles à vente directe nommées par patronyme). Aucun nom n'est écrit ici.
 
 **Points d'arrêt.** Passe suivante : le 68 ne peut pas être visé (règle 41.c). Au retour dans le 68, reprendre la descente à la commune suivante de Wintzenheim, dans la borne de douze (règle 247). Wintzenheim compte désormais une commune éprouvée de plus dans le 68.
+
+### Passe autonome du 22 octobre 2026 (Ille-et-Vilaine (35) visée, Betton sondée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : enseigne composée d'un prénom et contact privé. Doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu, 1 283 fiches. La passe précédente visait la Haut-Rhin (région 44) : seule cette région est exclue (règle 41.c). Premier département éligible : le 35, déficit ≈ 4,7.
+
+**Commune, règle 41.d.** Betton (12 964 hab.), reprise de la passe du jour. Il ne reste qu'à rassembler cinq commerces vérifiables (règle 52).
+
+**Ce qui a été lu.**
+- Site de la commune, rubrique « Agriculture et circuits courts » : trois fermes ou points de vente, une AMAP et le marché dominical (horaires publiés : dimanche 8 h à 13 h).
+- Registre Agence Bio, Betton : une vingtaine d'opérateurs, dont plusieurs entreprises individuelles nommées par patronyme (écartées pour doute sur une personne, rien n'en est publié ni nommé) et un distributeur grossiste sans vente de détail.
+- Recherche web : la fromagerie à la ferme (Le Gros Chêne, 35830 Betton) est confirmée par un annuaire, horaires non recoupés. Le point de vente collectif (Douz'Arômes, La Brandais) a un téléphone et des horaires dans un guide de circuits courts. L'AMAP Le Panier bettonnais a des distributions le mercredi de 18 h à 19 h 15 (document de contrat de la saison 2025-2026). La ferme de la Mévrais et « La Ferme des Petits Gourmets » n'ont pas de page propre trouvée : aucune adresse, aucun téléphone.
+
+**Pourquoi rien n'est publié.** Quatre commerces ont une base vérifiable, aucun n'a les cinq éléments d'une fiche complète, et le cinquième (la ferme des Petits Gourmets) n'a pas d'adresse. Une zone de moins de cinq fiches ne se publie pas (règle 52).
+
+**Contradiction consignée, non tranchée.** La page de la commune donne « Ferme de la Brandais » ouverte mardi, mercredi, vendredi (9 h-19 h) et samedi (9 h-17 h). Le guide circuits courts donne Douz'Arômes (même lieu-dit) ouvert vendredi et samedi seulement. Les deux désignent probablement le même point de vente : à réconcilier avant toute fiche. La règle 5 s'applique : rien n'est publié sur ces horaires.
+
+**Pistes non publiées (anonymes, Betton).**
+- Fromagerie à la ferme, lieu-dit Le Gros Chêne : existence confirmée, horaires et téléphone à vérifier sur le site de la ferme.
+- Point de vente collectif de producteurs, La Brandais : téléphone vérifié, horaires contradictoires entre sources.
+- AMAP, distribution hebdomadaire à l'école des Mézières : contrat 2025-2026, saison suivante non confirmée.
+- Marché dominical : horaires officiels, emplacement exact à relever.
+- Ferme de vente directe (porcs et volailles, vendredi et samedi) : existence sur la page de la commune seulement, adresse introuvable.
+- Ferme de la Mévrais : nom seul, aucune source de vente trouvée.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Betton (nombre seulement, aucun nom écrit ici).
+
+**Points d'arrêt.** Passe suivante : le 68 et la région 44 restent exclus (règle 41.c) ; le 35 peut être visé à nouveau. Reprendre Betton en priorité : réconcilier La Brandais et Douz'Arômes, chercher l'adresse de la ferme de vente directe, confirmer la saison 2026-2027 de l'AMAP. Aucune fiche n'a été publiée cette passe.
