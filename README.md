@@ -41470,3 +41470,34 @@ autre région choisie par la formule.
 **Observation consignée, non tranchée.** Le classement de la règle 41 désigne en boucle les mêmes départements (76, 31, 68, 59) et les passes successives n'ajoutent rien. Le responsable du site peut trancher, hors de cette passe, s'il veut une autre commune ou un autre critère.
 
 **Résultat.** Aucune fiche publiée. Pas de changement de données ni de code.
+
+### Passe autonome du 22 octobre 2026 (Ille-et-Vilaine (35) reprise, Betton revérifiée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule, outre-mer exclu (règles 177 et 93). La passe précédente visait la Seine-Maritime (Normandie) : cette région est exclue par la règle 41.c. Le 59, le 31, le 13, le 38, le 60 et le 68 restent clos, éprouvés ou épuisés (règle 247). Premier département éligible : l'Ille-et-Vilaine (35).
+
+**Commune, règle 41.d.** Betton (12 964 hab.), reprise de la passe précédente. Fougères et Vitré restent éprouvées, Cesson-Sévigné attend son tour.
+
+**Ce qui a été lu.**
+- Site propre du point de vente Douz'Arômes (La Brandais, 35830 Betton) : magasin de producteurs ouvert en 2001, treize producteurs, horaires mardi, mercredi et vendredi 9h-19h, samedi 9h-17h, fermé le lundi, le jeudi et le dimanche ; téléphone 02 99 27 79 26. La page des horaires du site porte encore des dates d'été et une validité de carte de fidélité échue : horaires à reconfirmer.
+- Registre des entreprises : DOUZ'AROMES, établissement unique, actif, adresse La Brandais, 35830 Betton.
+- Recherche web : la fromagerie Le Gros Chêne (Betton) apparaît dans des annuaires, sans horaires ni téléphone ; aucun site propre trouvé.
+- Recherche web : l'AMAP Le Panier bettonnais distribue le mercredi de 18h à 19h15 à l'école des Mézières, mais le contrat publié couvre la saison 2025-2026, terminée le 18 mars 2026 ; saison 2026-2027 non confirmée.
+- Recherche web : le marché dominical de Betton (place de la Cale) n'a pas d'horaire officiel retrouvé ; seule une annonce d'événement ponctuel (août 2026) a été trouvée.
+- Site de la commune de Betton : injoignable depuis cet environnement (connexion refusée), ce qui empêche de recouper la rubrique « Agriculture et circuits courts ».
+
+**Pourquoi rien n'est publié.** Une seule fiche est solide (Douz'Arômes). Les autres candidats ne tiennent pas le critère : la fromagerie n'a ni horaires ni téléphone, l'AMAP n'a pas de saison en cours confirmée, le marché n'a pas d'horaire officiel retrouvé, et la ferme de vente directe n'a pas d'adresse. Une fiche isolée n'est pas une zone (règles 52 et 248) : elle attend en pistes avec tout son travail.
+
+**Contradiction consignée, non tranchée.** La page de la commune donnait « Ferme de la Brandais » ouverte mardi, mercredi, vendredi et samedi, sous une autre enseigne que Douz'Arômes. Le site propre de Douz'Arômes confirme les mêmes jours au même lieu-dit ; la réconciliation est faite, mais la page communale, injoignable cette passe, n'a pas pu être relue pour la rubrique exacte.
+
+**Pistes non publiées (anonymes, Betton).**
+- Douz'Arômes, point de vente collectif de producteurs : site propre, registre et annuaire concordants ; fiche isolée, à publier avec quatre autres commerces vérifiés.
+- Fromagerie à la ferme, Le Gros Chêne : existence confirmée par des annuaires, horaires et téléphone à trouver.
+- AMAP Le Panier bettonnais : distribution du mercredi soir, saison 2026-2027 à confirmer.
+- Marché dominical : horaires et emplacement officiels à relever auprès de la commune, une fois son site joignable.
+- Ferme de vente directe (porcs et volailles) et Ferme de la Mévrais : adresse ou source de vente introuvables.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Betton, nommées par patronyme (nombre seulement, aucun nom écrit ici).
+
+**Points d'arrêt.** Passe suivante : la Normandie reste exclue si elle est visée à nouveau de suite (règle 41.c) ; l'Ille-et-Vilaine peut être visée à nouveau. Reprendre Betton avec le site de la commune, dès qu'il répond, puis la fromagerie et l'AMAP 2026-2027. Aucune fiche n'a été publiée cette passe.
