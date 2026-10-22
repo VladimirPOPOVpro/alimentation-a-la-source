@@ -41151,3 +41151,25 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Quatre, à Lons (entrées au nom de personnes et enseigne au patronyme).
 
 **Points d'arrêt.** Passe suivante : le 64 n'est pas visé deux fois de suite (règle 41.c), donc la descente reprend ailleurs dans la région au calcul suivant. La descente du 64 reste ouverte : Lons, la commune suivante par population sans fiche, est à reprendre au passage suivant avec les deux points de vente et le marché, dès qu'une source officielle les confirme. Le total reste à 1 283 fiches.
+
+### Passe autonome du 22 octobre 2026 (Haut-Rhin (68) visé, Brunstatt-Didenheim relue : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule (règle 177). Le 64 est exclu par la règle 41.c (passe précédente). Le 76, le 31, le 59, le 13 et le 38 restent clos ou éprouvés (règle 247). Premier département éligible : le 68.
+
+**Commune, règle 41.d.** Brunstatt-Didenheim (8 259 hab.), commune suivante de la descente après Wittelsheim et Pfastatt (déjà fiché).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 68 : un opérateur à vente aux particuliers à Brunstatt-Didenheim, enregistré au registre des entreprises comme actif. Aucun site ni horaire publié trouvé.
+- Recherche web sur l'enseigne : aucun résultat recoupant adresse et horaires.
+
+**Pourquoi rien n'est publié.** Une seule source, sans horaires ni site vérifiés (règles 96, 127, 248). Une fiche isolée n'est pas une zone (règle 52).
+
+**Pistes non publiées (anonymes, Brunstatt-Didenheim).**
+- Magasin bio de l'enseigne « Complément Terre », 81 rue de Mulhouse, actif au registre : horaires et site officiel non vérifiés. À reprendre sur le site du magasin ou une source indépendante.
+- Marché du samedi matin, place de la Mairie : déjà signalé, toujours sans confirmation municipale.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 68 ne peut pas être visé (règle 41.c). Au retour dans le 68, la descente reprend à Wintzenheim (8 059 hab.), après relecture de Brunstatt-Didenheim.
