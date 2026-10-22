@@ -41252,3 +41252,32 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Betton (nombre seulement, aucun nom écrit ici).
 
 **Points d'arrêt.** Passe suivante : le 68 et la région 44 restent exclus (règle 41.c) ; le 35 peut être visé à nouveau. Reprendre Betton en priorité : réconcilier La Brandais et Douz'Arômes, chercher l'adresse de la ferme de vente directe, confirmer la saison 2026-2027 de l'AMAP. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Ille-et-Vilaine (35) reprise, Betton recoupée au web : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : enseigne composée d'un prénom et contact privé. Doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule. Le 68 et la région 44 restent exclus par la règle 41.c (passe précédente). Premier département éligible : le 35, déficit ≈ 4,7, comme consigné ci-dessus.
+
+**Commune, règle 41.d.** Betton (12 964 hab.), reprise.
+
+**Ce qui a été lu.**
+- Guide circuits courts de Rennes et annuaire Que Choisir : point de vente collectif Douz'Arômes, La Brandais, 35830 Betton. Les deux sources donnent les mêmes horaires (mardi, mercredi, vendredi 9 h-19 h ; samedi 9 h-17 h ; fermé lundi, jeudi, dimanche) et la même activité (produits de producteurs d'Ille-et-Vilaine). Le guide donne un téléphone ; le site douzaromes.fr n'a pas été ouvert cette passe.
+- Page de la commune : « Ferme de la Brandais » ouverte mardi, mercredi, vendredi (9 h-19 h) et samedi (9 h-17 h). Les horaires concordent avec le point collectif sur les jours, mais la page ne nomme pas la même enseigne : à réconcilier avant publication (règle 5).
+- Fromagerie à la ferme, lieu-dit Le Gros Chêne : existence confirmée par un annuaire fromager et par un article de presse touristique. Aucun horaire ni téléphone trouvé ; l'article indique une boutique à la ferme, sans jours.
+- AMAP du secteur : distributions hebdomadaires le mercredi de 18 h à 19 h 15, selon le contrat de la saison 2025-2026. Saison 2026-2027 non confirmée.
+- Marché dominical : horaires publiés par la commune (dimanche 8 h à 13 h), emplacement exact non relevé.
+- Ferme de vente directe (porcs et volailles) : mention sur la page de la commune, adresse introuvable. Ferme de la Mévrais : nom seul.
+
+**Pourquoi rien n'est publié.** Une fiche complète et recoupée (Douz'Arômes) pour cinq nécessaires (règle 52). La fromagerie n'a ni horaires ni téléphone ; l'AMAP n'a pas de saison confirmée ; le marché n'a pas d'emplacement. Les horaires de La Brandais ne se publient pas tant que la page de la commune et les annuaires désignent des enseignes différentes (règle 5).
+
+**Pistes non publiées (anonymes, Betton).**
+- Point de vente collectif de producteurs, La Brandais : horaires concordants sur deux annuaires, enseigne à confirmer sur le site du point de vente ; à publier avec quatre autres commerces vérifiés.
+- Fromagerie à la ferme, Le Gros Chêne : existence confirmée, horaires et téléphone à trouver sur le site de la ferme.
+- AMAP, distribution du mercredi soir : saison suivante à confirmer.
+- Marché dominical : emplacement à relever auprès de la commune.
+- Ferme de vente directe et ferme de la Mévrais : adresse ou source de vente introuvables.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles du registre à Betton, nommées par patronyme. Rien n'en est écrit ici. Un article de presse cite les fondateurs de la fromagerie : aucun nom n'est repris dans cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 44 et le 68 restent exclus (règle 41.c). Reprendre Betton : confirmer l'enseigne de La Brandais sur le site du point de vente, puis chercher les horaires de la fromagerie et l'emplacement du marché. Aucune fiche n'a été publiée cette passe.
