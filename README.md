@@ -41113,3 +41113,17 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Reprendre Pau ou Bayonne si la Ville ou l'office de tourisme publie les horaires d'automne d'un marché de producteurs, ou si un point de vente à la ferme de la commune est recoupé sur son propre site. La descente du 64 n'est pas fermée : aucune commune du 64 n'a encore atteint la borne de douze communes éprouvées au sens de la règle 247.
+
+### Passe autonome du 22 octobre 2026 (Haut-Rhin (68), Wittelsheim sondée : aucune fiche publiée)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (rien n'est publié, aucun message envoyé).
+
+**Classement, règle 41.** Métropole seule. Le 64 est exclu par la règle 41.c (passe précédente). Le 59, le 31, le 13, le 76 et le 38 sont clos ou éprouvés (règle 247). Premier département éligible : le 68, reprise de la descente à Wittelsheim (10 645 hab.), commune suivante après Guebwiller.
+
+**Ce qui a été lu.** Registre Agence Bio du 68, pagination complète (1 344 opérateurs) : trois opérateurs déclarés à Wittelsheim, aucun en vente aux particuliers. Recherche web : l'annuaire de producteurs locaux de jours-de-marche.fr pour 68310 ne donne que des producteurs situés à 21 à 68 km ; une ferme bio de Pfastatt (commune voisine, hors Wittelsheim) est signalée probablement fermée. Aucun marché de producteurs ni magasin bio identifié à Wittelsheim sur une source indépendante ; Bienvenue à la Ferme n'a rien livré pour la commune.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne réunit deux sources indépendantes avec adresse et horaires recoupés (règles 96, 127, 248). Une fiche isolée n'est pas une zone (règle 52).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 68 ne peut pas être visé (règle 41.c, cette passe le visait). Au retour dans le 68, reprendre la descente à la commune suivante de Wittelsheim, dans la borne de douze communes (règle 247). Wittelsheim compte désormais une commune éprouvée de plus dans le 68.
