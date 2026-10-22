@@ -41447,3 +41447,26 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Plusieurs, dans le registre du département (nombre exact non compté ; aucune nommée).
 
 **Points d'arrêt.** Passe suivante : la Bretagne (53) est exclue par la règle 41.c. Le 35 reprendra à Cesson-Sévigné lors d'une passe ultérieure, à la commune suivante de la descente (règle 247), en relisant d'abord le site officiel de la Ville pour ses marchés, puis le registre sur les pages restantes. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Seine-Maritime (76) reprise, Dieppe relue : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en suspens (doute sur une personne, déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177). Tête du déficit métropolitain : Seine-Maritime (76, déficit 4,6). La passe précédente visait l'Ille-et-Vilaine (35), donc la Normandie est éligible.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée de 76 sans fiche.
+
+**Ce qui a été relu.**
+- Site de la Ville de Dieppe : pas de page marché exploitable, aucun horaire publié.
+- Office de tourisme et recherche web : marché producteurs le samedi matin, sans horaires officiels 2026.
+- Coop d'Albâtre (épicerie participative, active au registre) : horaires donnés par une seule source tierce (annuaire Que Choisir), aucun site propre trouvé. Piste.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables sur deux sources indépendantes. Fécamp et Montivilliers n'ont pas été reprises dans cette passe : la presse locale et le site de Fécamp n'apportent pas de marché daté.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Pistes non publiées (anonymes)** : Dieppe, marché du samedi matin à établir sur une source officielle ; Dieppe, épicerie participative à reprendre avec son propre site.
+
+**Observation consignée, non tranchée.** Le classement de la règle 41 désigne en boucle les mêmes départements (76, 31, 68, 59) et les passes successives n'ajoutent rien. Le responsable du site peut trancher, hors de cette passe, s'il veut une autre commune ou un autre critère.
+
+**Résultat.** Aucune fiche publiée. Pas de changement de données ni de code.
