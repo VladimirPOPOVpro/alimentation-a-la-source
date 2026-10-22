@@ -41669,3 +41669,17 @@ autre région choisie par la formule.
 **Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre de la Savoie à Aix-les-Bains, Grésy-sur-Aix et Le Bourget-du-Lac, portant un nom de personne : non nommées, non reprises.
 
 **Points d'arrêt.** Passe suivante : la région 84 (Auvergne-Rhône-Alpes, dont la Savoie) est éligible, mais la passe ne doit pas recommencer en Savoie sans les pages « marchés » de la Ville d'Aix-les-Bains. Si la passe revient en Savoie, ouvrir ces pages avant toute descente. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Loire-Atlantique (44) désignée, descente reportée à Orvault : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens : doute sur une personne déjà consigné, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu, 1 288 fiches comptées sur le code postal du champ `adresse`, populations `geo.api.gouv.fr`. La passe précédente visait la Savoie (73, région 84) : cette région est exclue par la règle 41.c. Le 59, le 13, le 31, le 76, le 38, le 68 et le 60 restent clos, éprouvés ou épuisés (règle 247). Le 69 et le 42 sont exclus avec la région 84. Le premier département ouvert du classement est la **Loire-Atlantique (44, région 52)**, déficit ≈ 4,1. La Seine-Saint-Denis (93, déficit ≈ 4,4) a été parcourue en descente sur de nombreuses communes, sans zone : elle reste close par la règle 247.
+
+**Commune, règle 41.d.** Pas de nouvelle commune sondée cette passe. La descente de Loire-Atlantique est déjà consignée : les deux magasins de Rezé sont publiés, la descente est désignée à **Orvault (28 534 hab.)**, dont la Ville ne permet pas l'image (voir « Pistes non publiées » de la passe précédente). Reprendre Orvault exige de trancher la question de la photographie thématique avant toute publication, et cette question n'a pas été instruite dans cette passe.
+
+**Ce qui n'a pas été fait, et pourquoi.** Aucun nouveau commerce n'a été recoupé cette passe : le temps disponible a été consacré au calcul du classement et à la lecture des états de départements déjà consignés. Rien n'a été ajouté à `data/marchands.json` ni dans `public/images/marchands/`.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 52 (Pays de la Loire) ne peut pas être visée (règle 41.c). Si la passe revient en Loire-Atlantique, reprendre Orvault à la source de la Ville (règle 247 : douze communes au plus), en instruisant la photographie avant la descente. Aucune fiche n'a été publiée cette passe.
