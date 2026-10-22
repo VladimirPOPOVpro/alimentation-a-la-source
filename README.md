@@ -41314,3 +41314,23 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la Corse (94) ne peut pas être visée deux fois de suite (règle 41.c). Reprendre Ajaccio : lire le site ou l'ordre de service de la Ville pour le marché Abbatucci, relever horaires et téléphone de La Vie Claire, chercher deux commerces de plus (ferme de vente directe, AMAP ou magasin de producteurs). Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 22 octobre 2026 (Landes (40) visée, Dax reprise sur les sources de la Ville : cinq fiches publiées)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` est inchangée (doute sur une personne : rien n'est publié).
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 288 fiches. La passe précédente visait la Corse (94) : seule cette région est exclue (règle 41.c). Le Nord, la Haute-Garonne, la Seine-Maritime, les Bouches-du-Rhône et l'Isère restent clos ou éprouvés (règle 247). **Landes (40) retenue** : déficit le plus fort parmi les départements ouverts.
+
+**Commune, règle 41.d.** Dax (22 109 hab.), la plus peuplée de la Landes sans fiche ancienne ; la passe du 19 octobre n'avait sondé que le registre Agence Bio.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Dax, pages « Les marchés » et « Les Halles de Dax » : marché des Halles le samedi (7h-13h), marché couvert place Camille Bouvet le dimanche (8h-13h), liste des commerçants des Halles.
+- Registre des entreprises : L'Expériment'Halle (établissement actif aux Halles, 56.30Z), L'Eco-ferme de Téthieu (siège actif 11 rue des Serres, 01.13Z), Crèmerie Dacquoise (siège actif aux Halles, 47.29Z).
+- Tourisme Landes (fiche de l'Expériment'Halle, par recherche) : horaires indicatifs, non relus sur le site (403 à l'accès direct).
+- Photo : facade des Halles, officielle (dax.fr), sans personne reconnaissable. La photo du marché, sur la page de la Ville, montre des visages : écartée.
+
+**Ce qui est publié.** Cinq fiches dans la même commune : Marché des Halles de Dax, Marché couvert des 3 Pigeons, L'Expériment'Halle, L'Eco-ferme de Téthieu, Crèmerie Dacquoise. Toutes `a_confirmer: true` (horaires des commerces non relus sur leur propre site ; l'image est celle des Halles pour les quatre fiches liées aux Halles et au siège de l'Eco-ferme).
+
+**Écartés, sans nom.** Trois étals des Halles dont le nom reprend un prénom ou un patronyme (écartés pour doute sur une personne, règle 1) ; une ferme de Cazères-sur-l'Adour, vendant aux Halles selon une seule source non confirmée (commune différente, non publiée) ; un établissement de Dax sans entrée au registre (non publié).
+
+**Points d'arrêt.** Passe suivante : Landes (40) reste fermée à la passe suivante (règle 41.c). Reprendre Dax : site de l'Office de Tourisme Grand Dax pour les horaires et téléphones, puis les étals du registre. Une seconde commune de Landes (Saint-Paul-lès-Dax) est la prochaine réserve si Dax s'épuise.

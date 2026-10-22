@@ -33900,5 +33900,116 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20%C3%A9thique%20parvis%20de%20la%20cath%C3%A9drale%20Oloron-Sainte-Marie",
     "image_url": "/images/marchands/marche-ethique-oloron.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-des-halles-dax",
+    "nom": "Marché des Halles de Dax",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 43.708458,
+    "lon": -1.053838,
+    "adresse": "Place Roger Ducos, 40100 Dax",
+    "horaires": "Tous les samedis, 7h à 13h, autour et dans les Halles de Dax et sur l’esplanade Goussebaire Dupin",
+    "produits": [
+      "Primeurs",
+      "Producteurs de poulets fermiers",
+      "Producteurs de canards gras",
+      "Fromagers",
+      "Poissonniers"
+    ],
+    "description": "Marché de plein air du samedi matin au cœur de Dax, autour des Halles construites en 1872 ; la Ville le présente comme l’un des plus réputés marchés de plein air des Landes. Il comporte aussi un volet textile et bazar.",
+    "site_web": "https://www.dax.fr/vivre-a-dax/commerce/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20des%20Halles%20de%20Dax",
+    "image_url": "/images/marchands/halles-de-dax.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-couvert-3-pigeons-dax",
+    "nom": "Marché couvert des 3 Pigeons",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.70882,
+    "lon": -1.055984,
+    "adresse": "Place Camille Bouvet, 40100 Dax",
+    "horaires": "Tous les dimanches, 8h à 13h",
+    "produits": [
+      "Producteurs",
+      "Commerçants de qualité"
+    ],
+    "description": "Marché couvert du dimanche matin sur la place Camille Bouvet, où producteurs et commerçants de qualité s’installent selon la Ville de Dax.",
+    "site_web": "https://www.dax.fr/vivre-a-dax/commerce/les-marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9%20couvert%20des%203%20Pigeons%20Dax",
+    "image_url": "/images/marchands/halles-de-dax.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "experiment-halle-dax",
+    "nom": "L’Expériment’Halle",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.708225,
+    "lon": -1.053917,
+    "adresse": "2 Place Roger Ducos, 40100 Dax",
+    "horaires": "Horaires à confirmer : Tourisme Landes indique le samedi de 7h à 22h et le dimanche de 10h à 18h",
+    "produits": [
+      "Bières brassées sur place",
+      "Bières de saison et expérimentales",
+      "Planches de produits locaux"
+    ],
+    "description": "Brasserie artisanale installée dans les Halles de Dax : les bières sont brassées sur place, et le lieu propose aussi des ateliers de brassage. Registre des entreprises : établissement actif à cette adresse.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%E2%80%99Exp%C3%A9riment%E2%80%99Halle%20Dax",
+    "image_url": "/images/marchands/halles-de-dax.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ecoferme-de-tethieu-dax",
+    "nom": "L’Eco-ferme de Téthieu",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 43.70716,
+    "lon": -1.048284,
+    "adresse": "11 Rue des Serres, 40100 Dax",
+    "horaires": "À confirmer",
+    "produits": [
+      "Primeurs bio"
+    ],
+    "description": "Maraîchage bio présenté par la Ville de Dax comme primeur bio aux Halles de Dax. L’adresse est celle du siège au registre des entreprises (activité agricole, active).",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=L%E2%80%99Eco-ferme%20de%20T%C3%A9thieu%20Dax",
+    "image_url": "/images/marchands/halles-de-dax.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "cremerie-dacquoise-dax",
+    "nom": "Crèmerie Dacquoise",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.708458,
+    "lon": -1.053838,
+    "adresse": "4 Place Roger Ducos (Les Halles), 40100 Dax",
+    "horaires": "À confirmer",
+    "produits": [
+      "Fromages",
+      "Produits laitiers"
+    ],
+    "description": "Crémerie-fromagerie installée aux Halles de Dax, listée par la Ville comme crémier-fromager. Vente de produits qu’elle ne produit pas elle-même ; sources locales à confirmer.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cr%C3%A8merie%20Dacquoise%20Dax",
+    "image_url": "/images/marchands/halles-de-dax.jpg",
+    "a_confirmer": true
   }
 ]
