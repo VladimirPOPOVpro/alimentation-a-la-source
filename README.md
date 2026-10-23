@@ -41919,3 +41919,32 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 76 est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ou le 38 (Isère) selon la formule ; reprendre la première commune sans fiche de ce département, par population.
+
+### Passe autonome du 23 octobre 2026 (Haute-Garonne (31) revisitée, Saint-Jean, Villeneuve-Tolosane, Seysses et Frouzins-Auterive sondées : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait la Seine-Maritime (76) : seule cette région est exclue (règle 41.c). Haute-Garonne (31) en tête des départements éligibles (déficit 4,61), devant le Haut-Rhin (4,46) et l'Isère (4,38).
+
+**Commune, règle 41.d et descente.** Les communes du 31 déjà éprouvées (Blagnac, Muret, Plaisance-du-Touch, Castanet-Tolosan, Ramonville-Saint-Agne, Balma, L'Union, Castelginest, Saint-Gaudens, Saint-Orens-de-Gameville, Fonsorbes) restent sans cinq fiches. La descente reprend à **Saint-Jean** (11 261 hab.), puis Villeneuve-Tolosane, Seysses et Frouzins.
+
+**Ce qui a été fait.**
+- Registre Agence Bio, Haute-Garonne : sept cents opérateurs relevés sur un total de 2 838, filtrés sur les communes de la descente. Une grande part sont des personnes physiques en entreprise individuelle (non nommées, rien ne se publie), des grandes surfaces, ou des entreprises de transformation et de vente en gros. Aucun point de vente de producteurs vérifié dans ces communes.
+- Recherche web sur Saint-Jean : une seule entrée de marché sur un annuaire participatif, sans jour ni horaires confirmés par une source officielle.
+- Recherche web sur Villeneuve-Tolosane : deux marchés recensés par un annuaire participatif, sans jour ni horaires ; aucune source officielle trouvée.
+- Recherche web sur Seysses : huit marchés recensés par un annuaire participatif, sans liste ni horaires vérifiables ; une pépinière hors marché.
+- Recherche web sur Frouzins et Auterive : aucun magasin de producteurs identifié ; renvoi vers l'annuaire départemental DirectFermiers31.
+
+**Pourquoi rien n'est publié.** Aucune commune n'a rendu cinq commerces vérifiables (règles 96 et 127). Les annuaires participatifs ne suffisent pas à fonder une fiche de marché, et les horaires manquent partout.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Saint-Jean (31), marché recensé par un annuaire participatif : jour et horaires non vérifiés. **Déblocage** : publication des jours par la mairie ou l'office de tourisme.
+- Villeneuve-Tolosane (31), deux marchés recensés : jours et horaires non vérifiés. **Déblocage** : site de la mairie ou affichage officiel.
+- Seysses (31), huit marchés recensés par un annuaire participatif : aucune liste officielle. **Déblocage** : site de la mairie (mairie-seysses.fr) ou de l'office de tourisme.
+- Frouzins et Auterive (31) : aucune adresse de vente directe identifiée. **Déblocage** : entrée de l'annuaire DirectFermiers31 avec adresse et horaires.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe : les entrées personnelles du registre n'ont pas été reprises.
+
+**Demande en cours n° 13** (Villecroze, Var) : inchangée, rien publié, aucune réponse envoyée. Enseigne qui ressemble à un prénom et contact privé ; doute sur une personne.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ; reprendre la première commune sans fiche de ce département, par population, et commencer par le registre Agence Bio et les sites de mairie.
