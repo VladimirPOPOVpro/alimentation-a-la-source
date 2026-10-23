@@ -41739,3 +41739,29 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Ce qui n'a pas été fait, et pourquoi.** La passe n'atteint pas cinq fiches : Betton n'a pas rendu cinq commerces vérifiables à cette passe, et le temps a été consacré au classement et à la vérification du seul point de vente. Les pistes ci-dessus restent ouvertes pour une passe qui revient en Ille-et-Vilaine.
 
 **Points d'arrêt.** Passe suivante : la région 53 (Bretagne) ne peut pas être visée de suite (règle 41.c). Si la passe revient en Ille-et-Vilaine, reprendre Betton (fromagerie, AMAP) et les pistes de Vitré et Cesson-Sévigné dans cet ordre.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime (76) visée, Dieppe reprise, Fécamp sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, doute sur une personne déjà consigné : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93) : l'outre-mer, dont La Réunion en tête du calcul, est hors périmètre du build. La passe précédente visait l'Ille-et-Vilaine (région 53) : seule cette région est exclue par la règle 41.c. Tête éligible : Seine-Maritime (76), déficit 4,7, 19 fiches publiées.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée du 76 sans fiche. Descente prévue vers Le Petit-Quevilly (22 208 hab.), Fécamp (17 313 hab.) et Montivilliers (15 478 hab.), comme consigné le 22 octobre.
+
+**Ce qui a été lu.**
+- Recherche web, Dieppe, marché des producteurs : l'office de tourisme signale un marché de producteurs chaque samedi matin, sans heures. La page de la Ville, relevée le 22 octobre (samedi 8 h 30 – 13 h), reste la seule source officielle.
+- Recherche web, Dieppe, vente directe : une épicerie participative au catalogue d'un guide circuit court, horaires du samedi donnés par une seule source non datée. Aucun autre point de vente trouvé dans la commune.
+- Recherche web, Dieppe, Bienvenue à la Ferme : aucune exploitation identifiée dans la commune.
+- Recherche web, Fécamp : une fumerie-poissonnerie des Halles, horaires 2026 sur un site d'office de tourisme régional (mardi à jeudi, vendredi et samedi), pas de marché de producteurs repéré aux Halles.
+- Petit-Quevilly, Montivilliers : non relues cette passe ; les pistes du 22 octobre restent telles quelles.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend ni cinq commerces vérifiables sur deux sources indépendantes (règle 52), ni une zone : le marché du samedi a une source officielle, mais le reste repose sur un guide non daté et sur une seule source. Fécamp ne rend qu'un point de vente, sur une seule source. Une fiche isolée n'est pas une zone (règle 248).
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Dieppe : marché des producteurs du samedi, à compléter par deux autres points de vente vérifiés.
+- Dieppe : épicerie participative, horaires indatés ; à reprendre sur son propre site.
+- Fécamp : fumerie-poissonnerie des Halles, horaires 2026 à recouper avec une seconde source.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 28 (Normandie) ne peut pas être visée de suite (règle 41.c). Si la passe y revient, ne pas reprendre Dieppe sans source nouvelle : descendre directement vers Le Petit-Quevilly sur le site de la Ville. Aucune fiche n'a été publiée cette passe.
