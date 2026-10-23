@@ -41971,3 +41971,28 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 76 est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ; reprendre la première commune sans fiche de ce département, par population, et commencer par le registre Agence Bio et les sites de mairie. La 31 redevient éligible à la passe d'après.
+
+### Passe autonome du 23 octobre 2026 (Haute-Garonne (31) reprise, Léguevin et Saint-Lys sondées : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait la Seine-Maritime (76) : seule cette région est exclue (règle 41.c). Haute-Garonne (31) en tête des départements éligibles (déficit 4,6), devant le Haut-Rhin (4,5) et l'Isère (4,4).
+
+**Commune, règle 41.d et descente.** Les communes du 31 les plus peuplées déjà sondées ou dotées de fiches (Toulouse, Colomiers, Tournefeuille, Blagnac, Muret, Plaisance-du-Touch, Cugnaux, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens, Castelginest, Saint-Jean, Villeneuve-Tolosane, Seysses, Auterive, Frouzins) n'ouvrent pas la descente. Elle reprend à **Léguevin** (9 945 hab.), puis **Saint-Lys** (9 892 hab.).
+
+**Ce qui a été fait.**
+- Registre Agence Bio, Haute-Garonne : sept cents opérateurs relevés sur un total de 2 838, filtrés sur Léguevin, Saint-Lys, Portet-sur-Garonne, Revel, Launac, Cornebarrieu et Balma. Presque tous sont des personnes physiques en entreprise individuelle (non nommées, rien ne se publie), des grossistes, ou des entreprises qui ne vendent pas au public. Aucun point de vente de producteurs vérifié à Léguevin ni à Saint-Lys.
+- Recherche web sur Léguevin : l'annuaire participatif jours-de-marche.fr recense un marché sans jour ni horaires ; la mairie renvoie ces informations vers l'office de tourisme. Aucune source officielle trouvée.
+- Recherche web sur Saint-Lys : même constat, un marché recensé sans jour ni horaires ; la seule braderie trouvée est non alimentaire, hors sujet.
+
+**Pourquoi rien n'est publié.** Aucune commune n'a rendu cinq commerces vérifiables (règles 96 et 127). Les jours et horaires de marché manquent partout, et les annuaires participatifs ne suffisent pas à fonder une fiche (règle 9).
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Léguevin (31), marché recensé par un annuaire participatif : jour et horaires non vérifiés. **Déblocage** : publication des jours par la mairie ou par l'office de tourisme.
+- Saint-Lys (31), marché recensé par un annuaire participatif : jour et horaires non vérifiés. **Déblocage** : publication des jours par la mairie ou par l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, toutes en entreprise individuelle (Léguevin, Revel, Launac, Balma, Cornebarrieu) : rien ne se publie, rien n'est repris.
+
+**Demande en cours n° 13** (commune de 83, producteur) : inchangée, rien publié, aucune réponse envoyée.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est exclue (règle 41.c). La Normandie (76) redevient éligible (déficit 4,7) ; reprendre sa descente à la première commune non sondée, par population.
