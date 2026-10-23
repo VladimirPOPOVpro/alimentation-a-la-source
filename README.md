@@ -41868,3 +41868,28 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 76 peut être visée de nouveau (seule la région de la passe précédente, le Rhône, est close). Reprendre Barentin par la Chambre d'agriculture de Normandie ou la mairie ; sinon descendre à Maromme ou Déville-lès-Rouen.
+
+### Passe autonome du 23 octobre 2026 (Haute-Garonne (31) sondée, Saint-Orens-de-Gameville et L'Union : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait la Seine-Maritime (76, Normandie) : seule cette région est exclue (règle 41.c). Haute-Garonne en tête des départements éligibles, déficit ≈ 4,6, devant le Haut-Rhin (≈ 4,5) et l'Isère (≈ 4,4).
+
+**Commune, règle 41.d et descente.** Toutes les communes du 31 déjà éprouvées (Blagnac, Muret, Plaisance-du-Touch, Castanet-Tolosan, Ramonville-Saint-Agne, Balma, L'Union, Castelginest, Saint-Gaudens…) l'ont été à plusieurs passes. La descente reprend à **Saint-Orens-de-Gameville** (14 646 hab.), puis **L'Union**.
+
+**Ce qui a été fait.**
+- Recherche web sur Saint-Orens-de-Gameville : un marché de plein vent existe (animation de la Semaine du Goût, samedi 17 octobre 2026, place de la Fraternité, de 8 h à 12 h 30, passée à la date de cette passe) ; aucune liste d'exposants ni jours et horaires publiés par la Ville. Les fermes citées par les annuaires sont à 8 à 12 km et sans adresse de vente vérifiée. Rien de publiable.
+- Registre Agence Bio, Haute-Garonne : aucun opérateur avec point de vente au public à Saint-Orens-de-Gameville.
+- Recherche web sur L'Union : une seule boutique de producteurs identifiée (une ferme, sur la carte participative d'un comparateur de circuits courts, avec adresse et horaires). Pas de marché régulier trouvé ; une seule source indépendante pour une fiche, ce qui ne suffit pas à former une zone.
+- Recherche web sur Fonsorbes : aucun marché de producteurs ni magasin identifié dans les résultats.
+
+**Pourquoi rien n'est publié.** Aucune commune n'a rendu cinq fiches vérifiables (règles 96 et 127) : une ferme sur une carte participative ne forme pas une zone, et le marché de Saint-Orens n'a ni liste ni horaires publiés.
+
+**Pistes non publiées (anonymes).**
+- Saint-Orens-de-Gameville (31), marché de plein vent : jours et horaires à confirmer par la Ville. **Déblocage** : publication des jours et des exposants par la mairie ou l'office de tourisme.
+- L'Union (31), magasin de producteurs : une source seule. **Déblocage** : un second recoupement (site de l'exploitation ou office de tourisme) et une fiche de marché ou d'exploitations voisines.
+- Villecroze (83), producteur, demande en cours n° 13 : le nom commercial comporte un prénom, doute sur une personne, horaires incomplets (« Merci et samedi »). **Rien n'est publié** ; la demande reste en cours. Déblocage : une enseigne ou une raison sociale vérifiable, des horaires complets et une source indépendante.
+
+**Fiches écartées pour doute sur une personne.** Une (commune de 83, catégorie producteur, demande n° 13), voir ci-dessus.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est de nouveau éligible ; la Normandie, visée la veille, reste hors tirage. Reprendre la descente du 31 à Fonsorbes ou L'Union, avec le recoupement de la ferme de L'Union, sinon le département suivant du classement.
