@@ -42205,3 +42205,37 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** deux à Roche-la-Molière, une à Saint-Just-Saint-Rambert (commune et catégorie seulement).
 
 **Points d'arrêt.** Passe suivante : la Loire ne peut pas être visée de suite (règle 41.c). Le 34 (Hérault) redevient éligible : Mauguio en premier.
+
+### Passe autonome du 23 octobre 2026 (Hérault (34) reprise, Mauguio instruite : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en cours n° 13 inchangée : rien publié, rien répondu.
+
+**Secteur, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. La passe précédente visait la Loire (42) ; l'Hérault (34, région 76) redevient éligible, comme l'annonçaient les points d'arrêt. Les Yvelines restent clôturées après la descente de Poissy (règle 247).
+
+**Commune, règle 41.d et règle 406.** Mauguio (16 522 habitants) est la commune la plus peuplée de l'Hérault sans fiche, en tête du point d'arrêt.
+
+- **Marchés (deux sources).** La page « Les marchés » de la Ville et la page « Marchés et puces » de l'office de tourisme Mauguio Carnon concordent : marché intimiste les mardis et jeudis de 8h à 13h, boulevard de la Démocratie ; grand marché traditionnel les dimanches de 8h à 13h, boulevards de la République et de la Démocratie. Hérault Tourisme le recommande aussi (« marché de Mauguio, le dimanche matin »). La Base Adresse Nationale rend le boulevard de la Démocratie à la voie (score 0,966). **Non publié** : une fiche isolée ne forme pas la zone (règles 96 et 127), et l'autre marché de la commune n'a pas de point géocodé.
+- **Carnon, marché du samedi (Esplanade du Port) et marché d'été.** Les deux sources concordent sur le jour et le lieu, mais la Base Adresse Nationale ne connaît pas l'esplanade et ne rend que la commune (score 0,45). Pas de point fiable : **non publié** (règle 96).
+- **Liste indicative de la Ville (PDF d'octobre 2023), points de vente en circuit court.** Sert de source communale, mais elle est datée et dit elle-même « indicative ». Candidats relevés :
+  - *Les Comptoirs de la Bio, La Louvade.* Réseau de magasins bio indépendants (presse franchise : ouverture au réseau vers 2019). Le registre des entreprises ne répond pas sous ce nom : pas de confirmation d'activité. Piste.
+  - *Satoriz, Frêjorgues.* Deux numéros de voirie : 800 rue Hélène-Boucher dans la liste de la Ville, 801 dans un annuaire (règle 5, contradiction consignée). Piste.
+  - *Locavorium.* Deux localisations : une fiche de Que Choisir renvoie à une boutique de Quessoy (Côtes-d'Armor), la liste de la Ville la place rue René-Fonck à Frêjorgues. Contradiction consignée, non publié.
+  - *Une cave, un fromager sans numéro de voirie, une primeur et deux producteurs fruits et légumes.* Une seule source (la liste de 2023), pas de numéro ou pas de contrôle d'activité. Pistes.
+- **Descente.** Deux producteurs listés sous le nom d'une personne physique, une enseigne au prénom et une entreprise individuelle désignée par un nom patronymique : écartés pour doute sur une personne (ils ne se rouvrent pas).
+
+**Pourquoi rien n'est publié.** Aucune commune n'a fourni cinq commerces vérifiables à deux sources indépendantes, et la seule fiche solide (les marchés) reste isolée sans point géocodé pour Carnon. Plutôt qu'une fiche isolée ou une fiche approximative, la passe ne publie rien.
+
+**Pistes non publiées (Mauguio, anonymes).**
+- Marchés de Mauguio (mardi, jeudi, dimanche) : **Déblocage** : un point géocodé du boulevard, et une seconde fiche de la commune pour les deux marchés.
+- Marché de Carnon (samedi, saison estivale) : **Déblocage** : un point géocodé de l'Esplanade du Port.
+- Magasin bio de La Louvade : **Déblocage** : une fiche d'activité datée au registre, ou un site de magasin à jour.
+- Magasin bio de Frêjorgues : **Déblocage** : une adresse à numéro confirmée par une seule source officielle.
+- Magasin de Frêjorgues (localisation contradictoire) : **Déblocage** : une seule adresse confirmée.
+- Producteurs fruits et légumes sur la route de Montpellier, le chemin des Garrigues et la route des Cabanes : **Déblocage** : une adresse à numéro et une seconde source (site, office de tourisme ou Chambre d'agriculture).
+- Primeur bio du Grand Rue François-Mitterrand : **Déblocage** : un site ou une seconde source sur les horaires.
+
+**Fiches écartées pour doute sur une personne :** quatre entrées de Mauguio et de Candillargues, sur la liste de la Ville (commune et catégorie seulement). Elles ne se rouvrent pas.
+
+**Contradictions.** Une adresse de Frêjorgues, deux localisations d'une même enseigne (ci-dessus). Consignées.
+
+**Points d'arrêt.** Passe suivante : l'Hérault est clos pour cette passe (règle 41.c) ; le classement reprend au premier département éligible. Mauguio reste en tête de l'Hérault, à reprendre seulement quand un déblocage nommé ci-dessus aura été levé.
