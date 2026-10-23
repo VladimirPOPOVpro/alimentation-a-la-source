@@ -42273,3 +42273,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Horaires de la fromagerie (2018 contre source actuelle, consignés). Emplacement de l'office de tourisme de Bastia (deux adresses différentes selon les sources, consignées).
 
 **Points d'arrêt.** Passe suivante : le 2B reste éligible, la règle 41.c interdisant seulement la région 94 à la passe immédiatement suivante. Reprendre Bastia (commune la plus peuplée sans fiche) avec les pistes ci-dessus en premier ; passer à la commune suivante par population si Bastia ne rend pas cinq commerces.
+
+### Passe autonome du 24 octobre 2026 (Haute-Garonne (31) visée, Blagnac sondée à nouveau : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : rien publié, rien répondu.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La Polynésie (987) et la Nouvelle-Calédonie (988) sortent du calcul pour la même raison. La passe précédente visait la Haute-Corse (94) : cette région est exclue (règle 41.c). Seine-Maritime (76) close par la règle 247. Haute-Garonne (31) en tête des départements métropolitains éligibles, déficit ≈ 4,6, devant le Haut-Rhin (68, ≈ 4,5) et l'Isère (38, ≈ 4,4).
+
+**Commune, règle 41.d.** Blagnac (27 604 hab.) est la plus peuplée du 31 sans fiche. Elle a déjà été sondée à plusieurs passes (registre Agence Bio, sites de la mairie, recherche web) sans qu'aucun commerce n'atteigne deux sources indépendantes avec horaires à jour. Toulouse, Colomiers, Tournefeuille, Cugnaux, Pibrac, Labège et Auzeville-Tolosane portent déjà des fiches ; Muret, Plaisance-du-Touch, Balma, Ramonville-Saint-Agne, L'Union, Castelginest, Castanet-Tolosan et Saint-Jean ont été éprouvées lors des passes précédentes sans résultat.
+
+**Ce qui a été relu.** Les pages déjà citées dans les passes précédentes ont été reprises sans nouvelle source distincte ; aucun élément nouveau ne permet de passer une fiche sur une seule source.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 ne rend cinq commerces vérifiables avec deux sources indépendantes et des horaires à jour. Les pistes isolées ne forment pas la zone (règles 96 et 127).
+
+**Pistes non publiées** (anonymes) : Blagnac, une enseigne bio (magasin ou marché), à établir ; Castanet-Tolosan, marché du mardi et marché bio du vendredi, à reprendre sur le site de la mairie.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 76 (Normandie) et la région 94 (Corse) ne sont pas exclues ; la Haute-Garonne est épuisée au sens de la règle 247 (plus de douze communes éprouvées sur plusieurs passes), donc la formule désigne le Haut-Rhin (68) si le classement n'a pas changé, première commune sans fiche par population, en repartant des sources de la Ville.
