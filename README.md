@@ -42291,3 +42291,19 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la région 76 (Normandie) et la région 94 (Corse) ne sont pas exclues ; la Haute-Garonne est épuisée au sens de la règle 247 (plus de douze communes éprouvées sur plusieurs passes), donc la formule désigne le Haut-Rhin (68) si le classement n'a pas changé, première commune sans fiche par population, en repartant des sources de la Ville.
+
+### Passe autonome du 24 octobre 2026 (Haut-Rhin (68) visé, Colmar relue : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, producteur, Var) reste en_cours : son nom et son contact privé pourraient désigner une personne, doute retenu, rien publié, rien envoyé.
+
+**Classement, règle 41.** Haut-Rhin (68) désigné par la passe précédente, Haute-Garonne épuisée (règle 247). Le registre Agence Bio du 68 compte plus de deux cents adresses, presque toutes des grossistes ou des établissements sans vente aux particuliers.
+
+**Commune, règle 41.d.** Colmar, plus grande commune du 68, n'est pas éligible à la règle « sans aucune fiche » : elle porte déjà six fiches. Le registre y fait apparaître une dizaine de candidats (boulangeries, caves, domaines, magasins bio), mais la plupart sont des grossistes, des établissements sans vente aux particuliers ou des adresses sans horaires vérifiables. Aucun n'a été ajouté faute de deux sources indépendantes à jour.
+
+**Pourquoi rien n'est publié.** Les communes sondées du 68 lors des passes précédentes (Kingersheim, Cernay, Riedisheim, Guebwiller, Wittelsheim, Wintzenheim, Saint-Louis, Huningue, Brunstatt, Wittenheim, Illzach) n'ont pas donné cinq fiches vérifiables. Les pistes isolées ne forment pas une zone (règles 96 et 127).
+
+**Pistes non publiées** (anonymes) : Var (83), producteur, demande en_cours, doute sur une personne, aucune réponse envoyée ; Colmar (68), plusieurs établissements de vente directe du registre Agence Bio, à recouper sur les sites des commerces ; Colmar (68), marché couvert, déjà présent dans la base, horaires à reprendre.
+
+**Fiches écartées pour doute sur une personne :** une (Var, demande #13), commune et catégorie seulement.
+
+**Points d'arrêt.** Passe suivante : Haut-Rhin (68) encore visé faute d'alternative au classement ; en priorité recouper Colmar sur les sites des commerces du registre, puis passer à Mulhouse si Colmar ne rend pas cinq fiches.
