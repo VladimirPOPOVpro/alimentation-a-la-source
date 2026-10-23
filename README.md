@@ -42160,3 +42160,24 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 76 (Occitanie) est exclue ; l'Hérault ne peut être repris qu'à la passe d'après, avec Mauguio en premier. Si la passe retient les Yvelines (78, région 11), la commune la plus peuplée sans fiche est à établir par la descente, la liste Yvelines n'ayant qu'une fiche vérifiable (passe du 22 octobre).
+
+### Passe autonome du 23 octobre 2026 (Yvelines (78) reprises, Mantes-la-Jolie et Poissy éprouvées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en cours n° 13 inchangée : rien publié, rien répondu.
+
+**Secteur, règle 41.** Métropole seule, population au dénominateur de 34 969 communes. La passe précédente visait l'Hérault (34, région 76) : cette région est exclue (règle 41.c). Le 78 (Yvelines, région 11) est le département éligible de tête après le 34, déficit ≈ 4,04. Les départements 59, 31, 76, 13, 38, 68, 60, 93 et 69 restent clos ou exclus (règle 247).
+
+**Commune, règle 41.d.** Commune la plus peuplée du 78 sans fiche : **Mantes-la-Jolie** (43 526 habitants), déjà instruite les 13 et 20 octobre. Le registre de l'Agence Bio, relevé à nouveau sur les quatre cents opérateurs du département, ne donne à Mantes et dans les communes voisines que des grandes surfaces, des boulangeries sans vente directe déclarée et des entreprises qui ne vendent pas au public. Le marché du Val Fourré reste sans page officielle vérifiable (règle 16). Mantes-la-Jolie ne rend donc pas cinq fiches sourcées.
+
+**Descente.** Poissy (40 983 habitants), suivante par population : le seul opérateur de vente au particulier relevé relève d'une entreprise individuelle dont la dénomination contient un nom de personne. Écarté pour doute sur une personne, ne se rouvre pas. Les autres communes du 78 relevées au registre (Conflans-Sainte-Honorine, Trappes, Élancourt, Rambouillet, Maisons-Laffitte, Chatou, Carrières-sous-Poissy, Houilles) n'offrent que des boulangeries, des cafés ou des grandes surfaces, sans point de vente de producteurs vérifié. Les communes éprouvées ne rendent pas cinq commerces : la borne de la règle 247 est atteinte pour les Yvelines.
+
+**Ce qui a été fait, et pourquoi rien n'est publié.** Aucun commerce recoupé à deux sources indépendantes dans cette passe. Aucune fiche n'est ajoutée à `data/marchands.json` ni à `public/images/marchands/`.
+
+**Pistes non publiées (Yvelines, anonymes).**
+- Mantes-la-Jolie (78), marché du Val Fourré : aucune page officielle vérifiable. **Déblocage** : une page de la Ville ou de l'office de tourisme qui publie le jour et le lieu du marché.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre à Poissy, en entreprise individuelle : rien ne se publie, rien n'est repris.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 11 (Île-de-France) est exclue si le 78 est repris ; l'Hérault (34) redevient éligible, avec Mauguio en premier, la région 76 n'étant plus visée. Le 78 ne se rouvre pas avant un déblocage nommé dans les pistes.
