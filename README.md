@@ -41893,3 +41893,29 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est de nouveau éligible ; la Normandie, visée la veille, reste hors tirage. Reprendre la descente du 31 à Fonsorbes ou L'Union, avec le recoupement de la ferme de L'Union, sinon le département suivant du classement.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime (76) revisitée, Canteleu et Dieppe sondées : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; le classement brut place La Réunion (974) en tête, outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait le 31 (Occitanie) : seule cette région est exclue (règle 41.c). Seine-Maritime (76) en tête des départements éligibles (déficit 4,7), devant la Haute-Marne et le Rhône.
+
+**Commune, règle 41.d et descente.** Dieppe (28 496 habitants) reprise en tête, comme le prévoyait le point d'arrêt de la passe précédente. Le site de la Ville répond cette fois, sans marché de producteurs exploitable ; l'office de tourisme ne liste aucun magasin de producteurs à Dieppe ; une épicerie participative (Coop d'Albâtre) est signalée par un comparateur de circuits courts, mais son registre n'est pas relu et une seule fiche ne forme pas une zone. Descente à **Canteleu** (14 402 habitants), sans fiche.
+
+**Ce qui a été fait.**
+- Registre Agence Bio, Seine-Maritime, mille six opérateurs relevés, filtrés sur Canteleu : grandes surfaces (trois enseignes), une entreprise de stockage et de transformation, un institut médico-social de travail protégé à vente maraîchère, une ferme municipale en « vente aux consommateurs » dont le gérant est une personne (non nommée, rien ne se publie), une commune qui porte son propre site officiel. Aucun commerce spécialisé de producteurs ni magasin bio indépendant.
+- Recherche web sur Canteleu (deux requêtes) : aucun marché de producteurs, aucune épicerie ni ferme de vente directe identifiée à Canteleu.
+- Recherche web sur Dieppe (une requête) : une épicerie participative, un marché de centre-ville relevé par l'office de tourisme, des fermes à une quarantaine de kilomètres, hors commune.
+- Le registre des entreprises ne donne pas d'établissement actif sous l'enseigne « ferme des 2 lions » à Canteleu (requête vide).
+
+**Pourquoi rien n'est publié.** Ni Canteleu ni Dieppe ne rendent cinq commerces vérifiables dans une même commune (règles 96 et 127). Les grandes surfaces sont exclues par `MODERATION.md`. Les autres entrées du registre sont des institutions, des entreprises de transformation ou des établissements dont le nom commercial est une personne : doute sur une personne, rien ne se publie.
+
+**Pistes non publiées (anonymes).**
+- Canteleu (76), ferme municipale en vente aux consommateurs (maraîchage, baies, plantes aromatiques, registre Agence Bio en AB) : vente à la ferme non confirmée par une source indépendante ; gérant personne physique, rien ne se publie. **Déblocage** : une page de la Ville ou de l'office de tourisme qui décrit les horaires de vente, et une seconde source.
+- Canteleu (76), ESAT maraîcher (vente aux consommateurs, registre Agence Bio) : un lieu d'activité porte un nom de personne en guise d'adresse, doute sur une personne. **Rien ne se publie.**
+- Dieppe (76), épicerie participative (centre-ville) : registre des entreprises non relu, une seule fiche possible à Dieppe. **Déblocage** : relecture du registre et une seconde fiche commerciale dans la commune.
+- Demande n° 13 (commune de 83, producteur) : toujours en cours ; le nom commercial comporte un prénom, rien n'est publié.
+
+**Fiches écartées pour doute sur une personne.** Deux (commune de 76, catégorie maraîchage, registre Agence Bio), voir ci-dessus.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 76 est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ou le 38 (Isère) selon la formule ; reprendre la première commune sans fiche de ce département, par population.
