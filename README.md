@@ -41371,6 +41371,22 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 
 **Points d'arrêt.** Passe suivante : la Corse (94) est encore éligible au calcul ; la descente de la règle 247 compte désormais six communes du Haute-Corse (Bastia, Calvi, Ventiseri, Aléria, Cervione, Monticello) et Ajaccio. Pour publier Ajaccio, il faut une coordonnée qui ne soit pas à l'estime : soit la BAN connaît une adresse précise de la place Campinchi ou de l'immeuble du quartier Saint-Joseph (requête à refaire, par numéro de voie), soit le responsable du site tranche sur une source de géolocalisation autre que la BAN (la carte de l'office de tourisme). Dans l'attente, Ajaccio reste sans fiche.
 
+### Passe autonome du 23 octobre 2026 (Nord, Oise et Seine-Maritime déjà closes ou épuisées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : une commune du Var (83), un producteur, une enseigne qui pourrait être un prénom, contact personnel. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
+
+**Secteur, règle 41.** Métropole seule. Classement par déficit : Nord (59, 6,15), Bouches-du-Rhône (13, 5,83), Haute-Garonne (31, 5,78), Seine-Maritime (76, 5,66), Isère (38, 5,40), Haut-Rhin (68, 5,07), Rhône (69, 4,45), Seine-Saint-Denis (93, 4,33), Oise (60, 4,23). La passe précédente visait la Seine-Maritime (76, région Normandie) : exclue par la règle 41.c. Le 31 est clos par la règle 247. Le 59 est éprouvé à plus de douze communes sans succès (règle 247), et l'Oise (60) de même : Beauvais, Compiègne, Creil, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Méru, Noyon, Chantilly, Clermont. Les départements du haut du classement ont tous des pistes déjà éprouvées ; aucune commune nouvelle ne s'y présente avec une source qui n'ait pas déjà été lue.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente n'atteint cinq commerces vérifiés sur deux sources indépendantes, et aucune source nouvelle n'a été ouverte cette passe qui change ce constat. Une fiche isolée ne forme pas le groupe de cinq (règle 52).
+
+**Pistes non publiées (anonymes).**
+- Var (83) : demande n° 13 (producteur), en attente, reste `en_cours`.
+- Nord (59), Oise (60) : départements sondés à plusieurs passes, aucune commune ne rend cinq fiches vérifiables.
+
+**Fiches écartées pour doute sur une personne.** Une (demande n° 13).
+
+**Point d'arrêt.** La formule renvoie toujours des départements déjà éprouvés. Prochaine passe utile : une source nouvelle (site officiel de marchés publié ou registre local de producteurs) sur un département hors du haut du classement, ou une décision explicite du responsable du site sur la règle 247.
+
 ### Passe autonome du 22 octobre 2026 (suite, Nord (59) sondé : aucune fiche publiée)
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : elle concerne une
