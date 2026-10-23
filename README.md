@@ -42045,3 +42045,34 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 28 (Normandie) est de nouveau éligible à la passe d'après, la région 84 est exclue (règle 41.c) ; reprendre la descente de la 76 à Caudebec-lès-Elbeuf, sinon le département suivant du classement (31, Occitanie, reprendre à Portet-sur-Garonne).
+
+### Passe autonome du 23 octobre 2026 (Haute-Garonne (31) visée, Portet-sur-Garonne sondée : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait la Seine-Maritime (76, Normandie) : cette région est exclue (règle 41.c). Haute-Garonne (31) en tête des départements éligibles (déficit 4,6), devant le Haut-Rhin (4,5) et l'Isère (4,4).
+
+**Commune, règle 41.d.** Léguevin et Saint-Lys ont été sondées la veille, sans cinq commerces. La descente reprend à **Portet-sur-Garonne** (9 782 hab.), sans fiche publiée à ce jour.
+
+**Ce qui a été fait.**
+- Site de la Ville de Portet-sur-Garonne (`portetgaronne.fr`) : un marché semi-nocturne le vendredi de 16h à 20h, promenade du Baron Ritay et sous la halle, avec producteurs, commerçants et artisans. Source officielle, mais marché mixte : ne compte que comme une seule entrée.
+- Site propre d'un maraîcher bio de la commune, vente à la propriété, horaires du mercredi, vendredi et samedi relevés sur son site et recoupés (annuaire départemental Haute-Garonne Tourisme, Pages Jaunes). Une fiche vérifiable.
+- Un verger bio de la liste n'est pas à Portet mais à Toulouse (adresse du rond-point Général-Pottier, code postal 31100) : écarté de cette commune, à reprendre à Toulouse si la descente y revient.
+- Une exploitation en vente à la ferme recensée par un annuaire : site et horaires non vérifiés à ce jour.
+- Un magasin bio du boulevard de l'Europe, signalé sur un comparatif : pas de preuve de vente directe de producteurs identifiés, non retenu.
+- Registre Agence Bio, Haute-Garonne, quatre cents premiers opérateurs relevés : aucune entrée de vente à la ferme établie à Portet. Une fiche ancienne (2021) signale un autre exploitant à l'adresse du chemin des Sables ; l'exploitant est une personne physique : rien n'est repris, non nommé.
+
+**Pourquoi rien n'est publié.** Portet ne rend que deux entrées sûres (le marché de la Ville et le maraîcher), loin des cinq commerces vérifiables qu'exigent les règles 96 et 127. Une fiche isolée ne forme pas la zone.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Portet-sur-Garonne (31), marché semi-nocturne du vendredi : source officielle lue, producteurs listés mais pas de liste nominative. **Déblocage** : deux autres commerces vérifiés dans la commune.
+- Portet-sur-Garonne (31), maraîcher bio en vente à la propriété : site et horaires vérifiés. **Déblocage** : trois autres commerces vérifiés.
+- Portet-sur-Garonne (31), exploitation en vente à la ferme signalée par un annuaire : site et horaires non vérifiés.
+- Toulouse (31), verger bio en cueillette et magasin de producteurs : adresse en 31100, hors Portet ; à traiter avec la commune de Toulouse.
+- Léguevin, Saint-Lys, Saint-Jean, Villeneuve-Tolosane, Seysses, Frouzins, Auterive : déblocages inchangés (voir les passes précédentes).
+
+**Fiches écartées pour doute sur une personne.** Une (Portet-sur-Garonne, exploitation en entreprise individuelle du registre Agence Bio et d'un répertoire ancien) : rien n'est publié, rien n'est repris, non nommée ici.
+
+**Demande en cours n° 13** (commune de 83, producteur) : inchangée, rien publié, aucune réponse envoyée.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ; sa première commune sans fiche par population, par le registre Agence Bio et les sites de mairie. Portet-sur-Garonne reste ouverte à la passe d'après, avec ses deux entrées déjà vérifiées.
