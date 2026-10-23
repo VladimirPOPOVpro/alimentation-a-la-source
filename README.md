@@ -42021,3 +42021,27 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 - Saint-Priest (69), commune suivante de la descente : aucune source de marché de producteurs trouvée à ce jour ; reprendre par le registre Agence Bio et les sites des producteurs eux-mêmes.
 
 **Points d'arrêt.** Passe suivante : la région 84 ne peut pas être visée de suite (règle 41.c). Si la descente revient dans le Rhône, reprendre Vaulx-en-Velin par le règlement de marchés, puis Saint-Priest (49 229 hab.) et Caluire-et-Cuire (43 597 hab.). Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime (76) reprise, Port-Jérôme-sur-Seine sondée : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait le Rhône (84) : cette région est exclue (règle 41.c). Seine-Maritime (76) en tête des départements éligibles (déficit 4,7), devant la Haute-Garonne (4,6) et le Haut-Rhin (4,5).
+
+**Commune, règle 41.d et règle 248.** La descente de la 76 est close à douze communes (règle 247) : Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec, Yvetot, Maromme, Déville-lès-Rouen. Les communes plus peuplées ont déjà des fiches (Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Mont-Saint-Aignan, Bois-Guillaume, Le Grand-Quevilly). La passe reprend à la commune suivante sans fiche : **Port-Jérôme-sur-Seine** (10 617 hab.), puis Caudebec-lès-Elbeuf et Grand-Couronne en descente.
+
+**Ce qui a été fait.**
+- Recherche web sur Port-Jérôme-sur-Seine : aucun marché de producteurs ni magasin à la ferme identifié ; seuls des marchés d'artisanat et des braderies, hors sujet.
+- Recherche web sur Caudebec-lès-Elbeuf et Grand-Couronne : aucun marché ni magasin de producteurs ; des commerces de destockage et des annonces immobilières, hors sujet.
+- Registre des entreprises : la commune de Port-Jérôme-sur-Seine n'a pas été relue en détail ; aucun commerce à établir.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente n'a rendu une seule fiche vérifiable (règles 96, 127 et 248). Une passe qui ne trouve sa zone dans aucun des départements éprouvés ne publie rien.
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne (31), Portet-sur-Garonne (9 782 hab.) : un magasin de la ferme et une AMAP recensés par un comparateur (Que Choisir), horaires issus d'une seule source, aucun marché. Une seule fiche n'est pas une zone (règle 52). **Déblocage** : deux fiches complémentaires vérifiées et une source officielle de la commune.
+- Seine-Maritime (76), Port-Jérôme-sur-Seine, Caudebec-lès-Elbeuf, Grand-Couronne : aucune source de producteurs trouvée. **Déblocage** : le registre Agence Bio et les pages de la Chambre d'agriculture pour la 76 (le relevé de 76 n'a pas encore couvert ces trois communes).
+- Demande en cours n° 13 (commune de 83, producteur) : inchangée, rien publié, aucune réponse envoyée. Le nom commercial comporte un prénom, doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 28 (Normandie) est de nouveau éligible à la passe d'après, la région 84 est exclue (règle 41.c) ; reprendre la descente de la 76 à Caudebec-lès-Elbeuf, sinon le département suivant du classement (31, Occitanie, reprendre à Portet-sur-Garonne).
