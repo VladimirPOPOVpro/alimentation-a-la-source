@@ -42076,3 +42076,29 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ; sa première commune sans fiche par population, par le registre Agence Bio et les sites de mairie. Portet-sur-Garonne reste ouverte à la passe d'après, avec ses deux entrées déjà vérifiées.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime (76) revisitée, Yvetot, Barentin, Bolbec et Oissel sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en cours n° 13 (Var) inchangée : rien publié, rien répondu.
+
+**Classement, règle 41 (métropole seule, règle 177).** Haute-Garonne 4,6 écartée (passe précédente visait l'Occitanie). Seine-Maritime 4,7 en tête, puis Haut-Rhin, Puy-de-Dôme. Le 76 est donc le département visé.
+
+**Commune, règle 41.d.** Dieppe reste la plus peuplée sans fiche, déjà éprouvée à de nombreuses passes : rien de nouveau n'est apparu. Descente à Yvetot (11 438 hab.), Barentin (12 022), Bolbec (11 590) et Oissel-sur-Seine (12 317), sans fiche.
+
+**Ce qui a été lu (recherche web, agrégateurs et sites de commune).**
+- Yvetot : une ferme de vente directe référencée est à Yvetot-Bocage (Manche), hors commune. Aucun marché de producteurs trouvé à Yvetot.
+- Barentin : des annuaires de vente directe situés à plusieurs kilomètres, pas dans la commune ; une annonce immobilière mentionnant un commerce local, sans source indépendante.
+- Bolbec : aucun magasin de producteurs trouvé ; le document de la Ville date de 2018 et ne liste pas de producteurs.
+- Oissel-sur-Seine : seules des entrées à 38-49 km ; aucun marché ni magasin dans la commune.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend un commerce vérifiable dans la commune même sur une source indépendante. Une fiche isolée ne forme pas le groupe de cinq (règles 96 et 127).
+
+**Pistes non publiées (anonymes, Seine-Maritime).** Barentin, annuaire de maraîchage bio à quelques kilomètres : adresse hors commune, à vérifier. Oissel-sur-Seine, micro-maraîchage bio en conversion : hors commune. **Déblocage** : une source de commerce située dans la commune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions.** Aucune sur un fait.
+
+**Constat pour le responsable du site.** Le département 76 est repris à chaque passe depuis plusieurs semaines sans fiche publiée, et la règle 41.d ne prévoit toujours pas de sortie après plusieurs passes à zéro (voir les constats précédents). Question de méthode, aucune règle ajoutée ici.
+
+**Points d'arrêt.** Passe suivante : Haut-Rhin (68) si la formule le désigne après recalcul, première commune sans fiche par population. Ne pas revenir sur Yvetot, Barentin, Bolbec ou Oissel sans source de commerce située dans la commune.
