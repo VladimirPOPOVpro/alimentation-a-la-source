@@ -42239,3 +42239,37 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Une adresse de Frêjorgues, deux localisations d'une même enseigne (ci-dessus). Consignées.
 
 **Points d'arrêt.** Passe suivante : l'Hérault est clos pour cette passe (règle 41.c) ; le classement reprend au premier département éligible. Mauguio reste en tête de l'Hérault, à reprendre seulement quand un déblocage nommé ci-dessus aura été levé.
+
+### Passe autonome du 23 octobre 2026 (Haute-Corse (2B) visée, Bastia instruite : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en cours n° 13 inchangée : rien publié, rien répondu.
+
+**Secteur, règle 41.** Métropole seule (règles 93 et 177), outre-mer, Île-de-France, Occitanie (dernière passe), Hauts-de-France et départements clos par la règle 247 exclus. Le 2B (Haute-Corse, région 94, déficit ≈ 3,5, zéro fiche publiée) est le premier département éligible du classement. Le 73 et le 14 suivent.
+
+**Commune, règle 41.d.** Bastia (plus de 40 000 habitants) est la commune la plus peuplée du 2B sans fiche. Descente à Biguglia, Furiani, Lucciana et Borgo, relevées au registre et sur le web.
+
+**Ce qui a été vérifié (deux sources ou plus).**
+- *A Tinella*, fromagerie, rue Napoléon à Bastia : adresse, téléphone et horaires concordent entre la fiche du guide Le Fooding et l'article d'ouverture de 2018. Une seule source à jour pour les horaires : **non publié** (règle 96, une fiche ne forme pas la zone).
+- *U Muntagnolu*, épicerie fine corse, rue César Campinchi : adresse et téléphone confirmés par l'annuaire et la fiche Gault&Millau (fiche sponsorisée). Le site officiel est indiqué, mais son contenu n'a pas été relu. **Non publié** : une seule source indépendante sur les horaires, et la fiche sponsorisée ne suffit pas à elle seule.
+- *Mercatellu*, épicerie fine bio, rue César Campinchi : existence confirmée par un article de presse locale, horaires et téléphone introuvables. **Non publié** (règle 5).
+- Marché de la place du Marché : jours (week-end matin) concordants entre les guides, mais aucune page de la Ville ou de l'office de tourisme n'a donné horaires et jours officiels. **Non publié**.
+- Biguglia : marché des producteurs de la Piazza di l'Albore, samedi 8h-13h selon Visit Corsica, mais l'article de presse qui le décrit date de 2020 et l'organisation est réservée aux producteurs eux-mêmes. Pas de commerce fixe à Biguglia. **Non publié**.
+- Lucciana, La Ferme Corse (magasin de producteurs, route de l'Aéroport) : référencé par Que Choisir, horaires à vérifier, aucune seconde source. **Non publié**.
+- Furiani : aucun marché ni magasin de producteurs trouvé.
+
+**Registre Agence Bio, 2B.** Relu sur les opérateurs de vente aux particuliers des communes de l'agglomération bastiaise. Une douzaine d'entrées portent un nom de personne en entreprise individuelle, dans la commune ou ses voisines.
+
+**Pourquoi rien n'est publié.** Aucune commune n'a fourni cinq commerces vérifiables à deux sources indépendantes avec horaires à jour. Plutôt qu'une fiche isolée ou une fiche approximative, la passe ne publie rien.
+
+**Pistes non publiées (Haute-Corse, anonymes).**
+- Bastia, fromagerie du centre (rue Napoléon) : **Déblocage** : une seconde source à jour sur les horaires, ou le site du commerce.
+- Bastia, épicerie fine corse (rue César Campinchi, fiche sponsorisée) : **Déblocage** : une seconde source indépendante, ou le site officiel relu.
+- Bastia, épicerie fine bio (rue César Campinchi) : **Déblocage** : horaires et téléphone confirmés par une source du commerce ou de la Ville.
+- Bastia, marché de la place du Marché : **Déblocage** : une page de la Ville ou de l'office de tourisme qui donne jours et horaires.
+- Lucciana, magasin de producteurs de la route de l'Aéroport : **Déblocage** : une seconde source sur les horaires.
+
+**Fiches écartées pour doute sur une personne :** une douzaine d'entrées de vente aux particuliers en entreprise individuelle à Bastia, Biguglia, Furiani, Lucciana et Borgo (commune et catégorie seulement). Elles ne se rouvrent pas.
+
+**Contradictions.** Horaires de la fromagerie (2018 contre source actuelle, consignés). Emplacement de l'office de tourisme de Bastia (deux adresses différentes selon les sources, consignées).
+
+**Points d'arrêt.** Passe suivante : le 2B reste éligible, la règle 41.c interdisant seulement la région 94 à la passe immédiatement suivante. Reprendre Bastia (commune la plus peuplée sans fiche) avec les pistes ci-dessus en premier ; passer à la commune suivante par population si Bastia ne rend pas cinq commerces.
