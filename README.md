@@ -42181,3 +42181,27 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 11 (Île-de-France) est exclue si le 78 est repris ; l'Hérault (34) redevient éligible, avec Mauguio en premier, la région 76 n'étant plus visée. Le 78 ne se rouvre pas avant un déblocage nommé dans les pistes.
+
+### Passe autonome du 23 octobre 2026 (Loire (42) visée, Roanne sondée à nouveau : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en cours n° 13 inchangée : rien publié, rien répondu.
+
+**Secteur, règle 41.** Métropole seule (règles 93 et 177), outre-mer et Île-de-France exclus (la passe précédente visait les Yvelines, région 11). Le 42 (Loire) est en tête du classement éligible, déficit ≈ 4,0, devant le 34 (≈ 3,9). Le 34 reste à reprendre à la passe suivante, Mauguio en premier.
+
+**Commune, règle 41.d.** Saint-Étienne et Saint-Chamond portent déjà des fiches. Roanne (35 409 habitants) est la commune la plus peuplée sans fiche : sondée une troisième fois.
+- Bio-Cultura à Roanne : aucune page de magasin vérifiable trouvée ; le site de la chaîne n'était pas joignable depuis l'environnement. Non publiée.
+- Épicerie Basique (rue Anatole France) : adresse non confirmée par une seconde source ; horaires contradictoires entre deux pages de l'office de tourisme (2024 et 2026). Consignée (règle 5), non publiée.
+- Marchés de Roanne : jours et lieux concordants, horaires toujours contradictoires (règle 5). Halles Diderot : pas de producteur identifié.
+
+**Descente.** Firminy (17 060 habitants) : le registre Agence Bio ne compte qu'une boulangerie, des grandes surfaces et la mairie. Montbrison (16 123) : brasserie, grandes surfaces et grossistes. Saint-Just-Saint-Rambert : deux fiches déjà publiées ; une entrée de vente directe porte le nom d'une personne dans sa dénomination, écartée pour doute sur une personne (ne se rouvre pas). Roche-la-Molière : deux entrées portant des noms de personnes, écartées pour le même motif. Rive-de-Gier et Le Chambon-Feugerolles : aucun producteur en vente directe vérifiable.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Loire n'atteint cinq commerces vérifiables à deux sources indépendantes. La borne de la règle 247 est atteinte pour le 42.
+
+**Pistes non publiées (anonymes, Loire).**
+- Roanne : huit marchés de plein air et Halles Diderot, à reprendre avec horaires officiels datés. Déblocage : une page municipale datée qui tranche les horaires.
+- Roanne : deux points de vente d'une enseigne bio nationale (registre Agence Bio), adresses à confirmer sur le site de l'enseigne. Déblocage : une page de magasin vérifiable.
+- Roanne : une épicerie vrac du centre, adresse et horaires à confirmer. Déblocage : une seconde source sur l'adresse.
+
+**Fiches écartées pour doute sur une personne :** deux à Roche-la-Molière, une à Saint-Just-Saint-Rambert (commune et catégorie seulement).
+
+**Points d'arrêt.** Passe suivante : la Loire ne peut pas être visée de suite (règle 41.c). Le 34 (Hérault) redevient éligible : Mauguio en premier.
