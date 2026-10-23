@@ -41819,3 +41819,29 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles de la commune du registre Agence Bio portent un patronyme ou un prénom : nombre seulement, aucun nom écrit ici.
 
 **Points d'arrêt.** Passe suivante : la région 28 ne peut pas être visée de suite (règle 41.c). Descendre vers Le Petit-Quevilly ou Fécamp si la passe revient en Normandie, sans reprendre Dieppe sans source nouvelle. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Rhône (69) visé, Vaulx-en-Velin sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu, 1 294 fiches comptées sur le code postal du champ `adresse`. La passe précédente visait la Seine-Maritime (76, région 28) : cette région est exclue (règle 41.c). Les départements clos ou épuisés sont écartés (59, 13, 31, 38, 60, 68, 93, 76, 40, 70, 01, 2A, 73, 83 par la formule). Premier département ouvert du classement : le **Rhône (69, Auvergne-Rhône-Alpes, région 84)**, déficit ≈ 4,4, devant la Loire (42, ≈ 4,1).
+
+**Commune, règle 41.d.** Lyon (10 fiches) et les communes de plus de 100 000 habitants déjà pourvues ou éprouvées (Villeurbanne, Vénissieux) ne comptent pas. La commune la plus peuplée du 69 sans fiche est **Vaulx-en-Velin (53 069 hab.)**.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 69, 1 500 opérateurs lus sur quinze pages : à Vaulx-en-Velin, huit établissements. Un seul déclare la vente aux particuliers, et c'est une entreprise individuelle inscrite sous le nom de son exploitant : doute sur une personne, écartée, ne se rouvre pas. Les autres ne déclarent aucune vente directe.
+- Recherche web : un « marché nature de producteurs et bio » sur l'esplanade de l'hôtel de ville, le vendredi de 12 h à 18 h, source unique et ancienne (annuaire, depuis 2010), non confirmée par la Ville. Un marché place François-Mauriac, sans horaire ni produit daté.
+- Site officiel de la Ville (vaulx-en-velin.net) : page d'accueil lue, sans rubrique marché exploitable. Le règlement municipal des marchés forains (juillet 2022) est référencé mais non lisible ici : aucun outil de rendu PDF disponible dans cet environnement.
+- Aucune AMAP, aucune fiche Bienvenue à la Ferme ni Chambre d'agriculture identifiée à Vaulx-en-Velin.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable : le seul producteur déclaré relève du doute sur une personne, le marché repose sur une source ancienne unique, et la Ville n'a pas confirmé de jour ni de lieu (règles 5 et 9). La zone ne se forme pas à cinq (règles 96 et 248). Zéro fiche.
+
+**Pistes non publiées (anonymes, Rhône).**
+- Vaulx-en-Velin : marché de producteurs de l'esplanade de l'hôtel de ville (vendredi, source unique ancienne). **Déblocage** : confirmation du jour et du lieu par le site de la Ville, ou par le règlement de 2022 lu dans un outil capable de rendre le PDF.
+- Vaulx-en-Velin : enseigne en vente aux particuliers au registre, exploitant personne physique. Écartée pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une (Vaulx-en-Velin, entreprise individuelle du registre Agence Bio), sans nom écrit ici.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 84 ne peut pas être visée de suite (règle 41.c). Si la passe revient dans le Rhône, reprendre Vaulx-en-Velin en ouvrant d'abord le règlement de marchés de la Ville, puis Saint-Priest (49 229 hab.) et Caluire-et-Cuire (43 597 hab.). Aucune fiche n'a été publiée cette passe.
