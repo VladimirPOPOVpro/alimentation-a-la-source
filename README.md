@@ -42142,3 +42142,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Constat pour le responsable du site.** Le département 76 est repris à chaque passe depuis plusieurs semaines sans fiche publiée, et la règle 41.d ne prévoit toujours pas de sortie après plusieurs passes à zéro (voir les constats précédents). Question de méthode, aucune règle ajoutée ici.
 
 **Points d'arrêt.** Passe suivante : Haut-Rhin (68) si la formule le désigne après recalcul, première commune sans fiche par population. Ne pas revenir sur Yvetot, Barentin, Bolbec ou Oissel sans source de commerce située dans la commune.
+
+### Passe autonome du 23 octobre 2026 (Hérault (34) visé, Mauguio à reprendre : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en cours n° 13 inchangée : rien publié, rien répondu.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu, 1 288 fiches comptées sur le code postal du champ `adresse`, populations `geo.api.gouv.fr`. La passe précédente visait la région 84 (Savoie) : elle est exclue par la règle 41.c. Les départements 59, 13, 31, 76, 38, 68, 60 et 93 restent clos (règle 247). Le 69 et le 42 sont exclus avec la région 84. Le premier département ouvert du classement est l'**Hérault (34, région 76)**, déficit ≈ 4,06, devant les Yvelines (78, ≈ 4,04).
+
+**Commune, règle 41.d et règle 406.** L'Hérault est déjà en descente, consignée dans les pistes (Castelnau-le-Lez, Lattes, Juvignac, Lavérune, Saint-Jean-de-Védas, Montpellier, Murviel, Saint-Georges-d'Orques). Le point d'arrêt désigne **Mauguio (16 522 hab.)**, non instruite, puis **Mèze**. Cette passe n'a pas instruit Mauguio : le temps a été consacré au classement et à la relecture des états consignés, sans recherche nouvelle.
+
+**Ce qui n'a pas été fait, et pourquoi.** Aucun commerce n'a été recoupé cette passe. Aucune fiche n'est donc ajoutée à `data/marchands.json` ni à `public/images/marchands/`. Une fiche isolée ne forme pas la zone (règles 96 et 127).
+
+**Pistes non publiées.** Inchangées (voir les passes de l'Hérault). Mauguio reste à instruire à son rang.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 76 (Occitanie) est exclue ; l'Hérault ne peut être repris qu'à la passe d'après, avec Mauguio en premier. Si la passe retient les Yvelines (78, région 11), la commune la plus peuplée sans fiche est à établir par la descente, la liste Yvelines n'ayant qu'une fiche vérifiable (passe du 22 octobre).
