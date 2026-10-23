@@ -41765,3 +41765,33 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : la région 28 (Normandie) ne peut pas être visée de suite (règle 41.c). Si la passe y revient, ne pas reprendre Dieppe sans source nouvelle : descendre directement vers Le Petit-Quevilly sur le site de la Ville. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Haute-Marne (52) visée, Saint-Dizier sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, doute sur une personne déjà consigné : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu. La passe précédente visait la Seine-Maritime (76, Normandie) : cette région est exclue par la règle 41.c. Sont aussi écartés les départements clos ou épuisés (59, 13, 31, 38, 60, 68, 93, 76 ; 40, 70, 01 par la règle 265 ; le 83 par la formule). Premier département ouvert du classement : la **Haute-Marne (52, Grand Est, région 44)**, déficit ≈ 3,2 sur 1 294 fiches, sans aucune fiche publiée. Le 2A, passé le 22 octobre, et le 73, passé le 22 octobre, ne sont pas repris.
+
+**Commune, règle 41.d.** Saint-Dizier (22 858 hab.) est la commune la plus peuplée du 52 sans fiche. Chaumont (20 827 hab.) est la suivante, à reprendre si Saint-Dizier ne rend pas sa zone.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 52, 400 opérateurs lus : à Saint-Dizier, aucun producteur ou point de vente particulier actif hormis un magasin de plein air, hors sujet, et des établissements de gros ou de transformation.
+- Registre des entreprises : une SAS active au 16 place Émile-Mauguet, 52100 Saint-Dizier, code NAF 47.78C, ouverte depuis 2019. La règle 6 est satisfaite par adresse.
+- Que Choisir, carte des circuits courts, fiche de la Haute-Marne : un magasin de produits locaux à la même adresse, horaires du mardi au samedi, 10 h à 19 h, catégories fruits, légumes, viandes, produits laitiers, œufs, pains, épicerie. Le même magasin apparaît sous le nom d'enseigne « Le Local Bragard » dans un annuaire de producteurs. Site et téléphone ne sont pas vérifiés à partir de la source du commerce : rien d'autre n'est publié.
+- Un guide de la ville et de l'office décrit les Halles de Saint-Dizier (rue du Marché), couvertes, ouvertes quatre jours par semaine : mercredi et jeudi de 7 h 30 à 14 h, vendredi de 16 h à 20 h, samedi de 7 h 30 à 14 h, avec une trentaine de commerçants, artisans et producteurs. Source unique, date non lue.
+- Un marché du dimanche au Vert-Bois, de 8 h à 12 h 30, mentionné par le même guide, sans précision sur les producteurs.
+- Site officiel de la Ville de Saint-Dizier : non trouvé par la recherche. Chambre d'agriculture et Bienvenue à la Ferme : aucun adhérent identifié à Saint-Dizier.
+
+**Pourquoi rien n'est publié.** Saint-Dizier rend deux points solides (le magasin de produits locaux, les Halles), dont un seul avec une seconde source. Le troisième (Vert-Bois) n'a pas de producteurs identifiés, et il n'y a pas d'AMAP. La règle 52 exige quatre points vérifiables avant de compléter sur une commune limitrophe ; la règle 248 interdit de publier une zone incomplète. Rien n'est publié.
+
+**Pistes non publiées (anonymes, Haute-Marne).**
+- Saint-Dizier : magasin de produits locaux, place Émile-Mauguet ; registre actif à l'adresse, horaires d'un seul annuaire, site et téléphone à vérifier auprès du commerce. À publier dès qu'une seconde source concorde.
+- Saint-Dizier : les Halles, horaires d'un seul guide non daté ; à recouper avec le site de la Ville.
+- Saint-Dizier : marché du Vert-Bois, pas de producteurs identifiés.
+- Chaumont : à sonder si Saint-Dizier ne rend pas sa zone.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe. Trois exploitations ou établissements du registre Agence Bio portent un nom de personne physique et n'ont pas été retenus, sans conséquence sur la zone.
+
+**Contradictions.** Aucune relevée sur un fait ; l'enseigne du magasin diffère entre la carte de Que Choisir et un annuaire de producteurs, et les deux pointent la même adresse.
+
+**Points d'arrêt.** Passe suivante : la région 44 (Grand Est) ne peut pas être visée de suite (règle 41.c). Si la passe revient en Haute-Marne, reprendre Saint-Dizier par le site de la Ville (marchés, Halles) et le téléphone du magasin, puis Chaumont. Aucune fiche n'a été publiée cette passe.
