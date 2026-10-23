@@ -41948,3 +41948,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ; reprendre la première commune sans fiche de ce département, par population, et commencer par le registre Agence Bio et les sites de mairie.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime (76), Maromme et Déville-lès-Rouen sondées : aucune fiche publiée)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait la Haute-Garonne (31) : seule cette région est exclue (règle 41.c). Seine-Maritime (76) en tête des départements éligibles (déficit 4,7), devant le Haut-Rhin (4,5) et l'Isère (4,4). Note de cohérence : le point d'arrêt de la passe précédente désignait le 68 ; il ne suivait pas la formule, puisque la 76 n'était exclue que pour une passe, celle d'avant. La formule a été appliquée telle quelle.
+
+**Commune, règle 41.d et descente.** Dans la 76, les communes les plus peuplées sans fiche ont déjà été éprouvées (Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec, Yvetot). **Maromme** (10 957 hab.) est la première non sondée, puis **Déville-lès-Rouen** (10 802 hab.).
+
+**Ce qui a été fait.**
+- Registre Agence Bio, Seine-Maritime, mille six opérateurs relevés, filtrés sur Maromme et Déville : aucun point de vente à la ferme ni magasin de producteurs. Les entrées sont des distributeurs qui ne vendent qu'aux professionnels, des entreprises de préparation, une grande surface, et une entreprise individuelle dont l'exploitant est une personne (non nommée, rien ne se publie).
+- Recherche web sur Maromme (deux requêtes) : le site participatif jours-de-marche.fr recense deux marchés sans jour ni horaires ; aucune source officielle, aucun producteur ni magasin de producteurs identifié.
+- Recherche web sur Déville-lès-Rouen (une requête) : aucun marché ni ferme en vente directe localisés dans la commune ; un magasin de producteurs de la carte Que Choisir est situé à Sotteville-lès-Rouen, commune voisine déjà pourvue de fiches (hors commune, non retenu).
+
+**Pourquoi rien n'est publié.** Ni Maromme ni Déville ne rendent de commerce vérifiable, et une fiche isolée ne forme pas la zone de cinq (règles 96 et 127). Les marchés recensés par l'annuaire participatif n'ont ni jour ni horaires confirmés (règle 9).
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Maromme (76), deux marchés recensés par un annuaire participatif : jours et horaires non vérifiés. **Déblocage** : publication des jours par la mairie ou par l'office de tourisme.
+- Déville-lès-Rouen (76), producteur en vente directe (légumes, œufs) recensé à environ 16 km, hors commune : à rattacher à sa propre commune, non retenu ici. **Déblocage** : fiche de la commune d'implantation, adresse vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Une (Déville-lès-Rouen, exploitation en entreprise individuelle du registre Agence Bio), sans nom écrit ici.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 76 est exclue (règle 41.c). Le département suivant du classement, éligible, est le 68 (Haut-Rhin) ; reprendre la première commune sans fiche de ce département, par population, et commencer par le registre Agence Bio et les sites de mairie. La 31 redevient éligible à la passe d'après.
