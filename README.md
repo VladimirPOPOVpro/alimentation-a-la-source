@@ -41371,6 +41371,30 @@ Descente : Hendaye (18 102 hab.) puis Saint-Jean-de-Luz (14 857 hab.).
 
 **Points d'arrêt.** Passe suivante : la Corse (94) est encore éligible au calcul ; la descente de la règle 247 compte désormais six communes du Haute-Corse (Bastia, Calvi, Ventiseri, Aléria, Cervione, Monticello) et Ajaccio. Pour publier Ajaccio, il faut une coordonnée qui ne soit pas à l'estime : soit la BAN connaît une adresse précise de la place Campinchi ou de l'immeuble du quartier Saint-Joseph (requête à refaire, par numéro de voie), soit le responsable du site tranche sur une source de géolocalisation autre que la BAN (la carte de l'office de tourisme). Dans l'attente, Ajaccio reste sans fiche.
 
+### Passe autonome du 23 octobre 2026 (Savoie (73) visée, Aix-les-Bains sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Secteur, règle 41.** Métropole seule (règle 177). La région 32 (Hauts-de-France) est exclue par la passe précédente (règle 41.c). Le 76, le 31, le 59, le 60, le 13, le 38 et le 68 restent éprouvés ou clos (règle 247). Le 974 tient la tête du calcul brut, mais l'outre-mer est écarté par le garde-fou de `lib/validateMerchants.ts`. Premier département éligible restant : la Savoie (73), déficit ≈ 3,7. Commune retenue : Aix-les-Bains (32 406 hab.), sans fiche, car aucune passe ne l'a encore citée.
+
+**Ce qui a été lu.**
+- Site de la Ville d'Aix-les-Bains : actualités et agenda lus, aucune rubrique de marché ni de commerces de producteurs. Les documents publiés (brochures culturelles, magazine municipal) ne listent pas de marché hebdomadaire.
+- Registre Agence Bio, Savoie : cent opérateurs relus, filtrés sur Aix-les-Bains et les communes voisines. Une grande surface (enseigne de supermarché, exclue par `MODERATION.md`). Une boutique bio de réseau franchisé dont le registre ne déclare aucune vente aux particuliers. Le reste est en vente directe dans des communes voisines, sous un nom de particulier : écarté, non repris.
+- Recherche web : trois producteurs bio à 14 à 29 km, hors commune, non retenus.
+- Office de tourisme d'Aix-les-Bains : non relu cette passe.
+
+**Pourquoi rien n'est publié.** Aix-les-Bains ne rend aucun commerce vérifiable sur deux sources indépendantes dans la commune même. La seule grande surface est exclue, et le reste est hors commune ou au nom d'un particulier. Une fiche isolée ne forme pas le groupe de cinq (règles 52 et 96).
+
+**Pistes non publiées (anonymes, Savoie).**
+- Aix-les-Bains (73), boutique bio de réseau franchisé : enseigne connue, registre sans vente aux particuliers. **Déblocage** : horaires et téléphone publiés par la boutique elle-même, plus deux autres commerces vérifiés.
+- Aix-les-Bains (73), office de tourisme : à relire à la prochaine passe.
+
+**Fiches écartées pour doute sur une personne.** Cinq, dans les communes voisines d'Aix-les-Bains (entrées du registre au nom de particuliers). Non nommées, non reprises.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la Savoie reste éligible (région 84, qui n'était pas la région de la passe précédente). Reprendre la descente à la commune suivante de la Savoie par population, sans fiche. Le constat de la règle 247 vaut pour la descente d'Aix-les-Bains : ne pas y revenir sans nouvelle source.
+
 ### Passe autonome du 23 octobre 2026 (Nord, Oise et Seine-Maritime déjà closes ou épuisées : aucune fiche publiée)
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : une commune du Var (83), un producteur, une enseigne qui pourrait être un prénom, contact personnel. Doute sur une personne : rien n'est publié, aucune réponse envoyée.
