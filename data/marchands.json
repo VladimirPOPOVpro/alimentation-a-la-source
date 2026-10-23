@@ -34132,5 +34132,32 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ORVAMAP%20AMAP%20Orvault%20Bourg",
     "image_url": "/images/marchands/orvault-amap-orvamap-bourg.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "douz-aromes-betton",
+    "nom": "Douz'Arômes",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 48.155466,
+    "lon": -1.628485,
+    "adresse": "La Brandais, 35830 Betton",
+    "horaires": "Mardi, mercredi et vendredi de 9h à 19h ; samedi de 9h à 17h ; fermé le lundi, le jeudi et le dimanche.",
+    "produits": [
+      "Boulangerie, œufs et miel",
+      "Boissons",
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Viandes"
+    ],
+    "description": "Magasin de producteurs installé à la sortie de Betton depuis avril 2001 : treize producteurs y vendent en direct leur production, et la grande majorité des produits vient d'Ille-et-Vilaine. Le point de vente propose aussi des produits fournis par d'autres producteurs, au rythme des saisons pour les fruits et légumes.",
+    "telephone": "02 99 27 79 26",
+    "site_web": "https://www.douzaromes.fr/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Douz%27Ar%C3%B4mes%20La%20Brandais%20Betton",
+    "image_url": "/images/marchands/douz-aromes-betton.jpg",
+    "a_confirmer": true
   }
 ]

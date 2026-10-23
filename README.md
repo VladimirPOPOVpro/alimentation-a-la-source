@@ -41712,3 +41712,30 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune relevée ; les horaires de l’ORVAMAP du bourg et de la Bugallière coïncident (jeudi) sans conflit.
 
 **Points d'arrêt.** Passe suivante : Orvault épuisé pour la règle 41.d ; les deux AMAP restantes sont en réserve, pour une passe qui revient en Loire-Atlantique.
+
+### Passe autonome du 23 octobre 2026 (Ille-et-Vilaine (35) visée, Douz'Arômes à Betton publiée : une fiche)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en suspens : doute sur une personne déjà consigné, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu. La passe précédente visait la Loire-Atlantique (44, région 52) : cette région est exclue par la règle 41.c. Le 59, le 13, le 31, le 38, le 60, le 68 et le 93 restent clos (règle 247). Premier département ouvert du classement : l'**Ille-et-Vilaine (35, Bretagne, région 53)**, déficit ≈ 4,9, devant le Rhône (69, ≈ 4,4).
+
+**Contradiction consignée.** La passe du 23 octobre (Loire-Atlantique) annonçait le 44 comme premier département ouvert, alors que le 35 n'était ni clos ni épuisé dans le README et avait le déficit le plus élevé après les départements clos. On suit la formule : le 35 est visé.
+
+**Commune, règle 41.d.** Les communes du 35 les plus peuplées sans fiche, dans l'ordre : Vitré (19 365 hab.) et Cesson-Sévigné (18 761 hab.), toutes deux sondées sans publication et éprouvées (règle 247) ; **Betton (12 964 hab.)** est la suivante.
+
+**Publié (une fiche).**
+- Douz'Arômes, La Brandais, 35830 Betton : magasin de producteurs ouvert depuis avril 2001, treize producteurs en vente directe. Vérifications : registre des entreprises (entité DOUZ'AROMES active à cette adresse, un établissement ouvert) ; site officiel du point de vente (horaires, téléphone affiché sur la façade, photographie de la façade, ni personne reconnaissable) ; recoupement avec un guide de circuits courts de Rennes et l'annuaire Que Choisir (mêmes horaires, même activité). Coordonnées via la BAN (lon/lat dans l'ordre). Catégorie `producteur` : point de vente collectif permanent (règle 8).
+- `a_confirmer: true` : les horaires du samedi (9h-17h) viennent des sources externes et sont cohérents avec le site ; la rubrique horaires du site ne donne que les dates d'été.
+
+**Contradiction sur le code d'activité.** Le registre donne au point de vente un code NAF 6220 (activités photographiques), sans rapport avec la vente de produits alimentaires. Le site, les deux annuaires et la façade décrivent un magasin de producteurs. Règle 5 : la fiche est publiée sur les faits concordants, la contradiction est consignée ici, et la fiche part `a_confirmer`.
+
+**Non publiées (cap de cinq par passe, et sources insuffisantes).**
+- Vitré (35) : service de panier en ligne à points de retrait (source Que Choisir) ; lieu de retrait non identifié, rien publié.
+- Cesson-Sévigné (35) : même service à points de retrait ; même réserve.
+- Betton (35) : fromagerie et AMAP 2026-2027 signalées dans la passe du 22 octobre ; sources non relues cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui n'a pas été fait, et pourquoi.** La passe n'atteint pas cinq fiches : Betton n'a pas rendu cinq commerces vérifiables à cette passe, et le temps a été consacré au classement et à la vérification du seul point de vente. Les pistes ci-dessus restent ouvertes pour une passe qui revient en Ille-et-Vilaine.
+
+**Points d'arrêt.** Passe suivante : la région 53 (Bretagne) ne peut pas être visée de suite (règle 41.c). Si la passe revient en Ille-et-Vilaine, reprendre Betton (fromagerie, AMAP) et les pistes de Vitré et Cesson-Sévigné dans cet ordre.
