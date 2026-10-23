@@ -41795,3 +41795,27 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune relevée sur un fait ; l'enseigne du magasin diffère entre la carte de Que Choisir et un annuaire de producteurs, et les deux pointent la même adresse.
 
 **Points d'arrêt.** Passe suivante : la région 44 (Grand Est) ne peut pas être visée de suite (règle 41.c). Si la passe revient en Haute-Marne, reprendre Saint-Dizier par le site de la Ville (marchés, Halles) et le téléphone du magasin, puis Chaumont. Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime (76) visée à nouveau, Dieppe recoupée, registre Agence Bio relu : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne déjà consigné) : aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule. La passe précédente visait la Haute-Marne (Grand Est), donc la région 28 (Normandie) reste ouverte (règle 41.c). Le déficit le plus élevé, La Réunion (974), est hors métropole et ne peut pas être publié (contrôle de `lib/validateMerchants.ts`). Le 76 est donc visé.
+
+**Commune, règle 41.d.** Dieppe (28 496 hab.) reste la plus peuplée du 76 sans fiche. Elle est reprise une dernière fois sur deux requêtes neuves : seul le marché du samedi matin est décrit par la Ville et l'office de tourisme, sans horaires datés par une autre source. La boutique de produits régionaux de l'office n'a pas d'adresse ni d'horaires propres vérifiés. Aucune autre source ne décrit de point de vente en circuit court dans la commune.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 76, mille opérateurs lus sur dix pages : à Dieppe, un seul opérateur déclare la vente aux particuliers, une enseigne dont l'activité n'a pas pu être recoupée (site, horaires, produits absents des recherches). Les autres opérateurs de la commune sont des grossistes ou préparateurs.
+- Recherches web sur Dieppe (vente directe, marché des producteurs, magasin bio) : aucun magasin bio trouvé, horaires 2026 du marché absents, pas d'exploitation identifiée via Bienvenue à la Ferme.
+- Descente vers Le Petit-Quevilly, Fécamp et Montivilliers : non reprise, faute de source nouvelle sur Dieppe qui justifie de passer à la suivante dans cette passe ; les pistes du 22 octobre restent telles quelles.
+
+**Pourquoi rien n'est publié.** Dieppe ne rend pas cinq commerces vérifiables sur deux sources indépendantes (règle 52). Une fiche isolée n'est pas une zone (règle 248).
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Dieppe : marché des producteurs du samedi matin, horaires officiels de la Ville à relire dans l'année, à compléter par deux points de vente vérifiés.
+- Dieppe : enseigne de vente aux particuliers au registre de l'Agence Bio, activité et site à recouper auprès du commerce.
+- Dieppe : boutique de produits régionaux de l'office de tourisme, adresse et horaires propres à établir.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles de la commune du registre Agence Bio portent un patronyme ou un prénom : nombre seulement, aucun nom écrit ici.
+
+**Points d'arrêt.** Passe suivante : la région 28 ne peut pas être visée de suite (règle 41.c). Descendre vers Le Petit-Quevilly ou Fécamp si la passe revient en Normandie, sans reprendre Dieppe sans source nouvelle. Aucune fiche n'a été publiée cette passe.
