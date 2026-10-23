@@ -41996,3 +41996,28 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 31 (Occitanie) est exclue (règle 41.c). La Normandie (76) redevient éligible (déficit 4,7) ; reprendre sa descente à la première commune non sondée, par population.
+
+### Passe autonome du 23 octobre 2026 (Rhône (69) visé, Vaulx-en-Velin relue, Saint-Priest sondée) : aucune fiche publiée
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), outre-mer exclu, 1 294 fiches comptées sur le code postal du champ `adresse`, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31, région 76 — Occitanie) : cette région est exclue (règle 41.c). La Seine-Maritime (76) est close par la règle 247 (douze communes éprouvées : Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine, Barentin, Bolbec, Yvetot, Maromme, Déville-lès-Rouen). Le Nord (59), les Bouches-du-Rhône (13), l'Isère (38) et le Haut-Rhin (68) sont éprouvés ou clos. **Rhône (69) retenu** : déficit ≈ 4,4, région 84 différente de la passe précédente, une seule commune éprouvée (Vaulx-en-Velin).
+
+**Commune, règle 41.d et descente.** Lyon, Villeurbanne et Vénissieux ont déjà des fiches. Vaulx-en-Velin (53 069 hab.) est la commune la plus peuplée sans fiche, déjà sondée le 22 octobre ; son déblocage nommé (règlement de marchés de la Ville) est tenté ci-dessous. Saint-Priest (49 229 hab.) est la commune suivante de la descente.
+
+**Ce qui a été lu.**
+- Site de la Ville de Vaulx-en-Velin : la page d'accueil ne donne aucun marché ni aucune liste de commerçants. Le site de la commune ne répond pas à l'adresse `www.vaulx-en-velin.fr` depuis cet environnement ; la variante `ville-vaulx-en-velin.fr` répond, mais sans information de marché. Déblocage **non obtenu**.
+- Site de la Ville de Saint-Priest (`ville-saint-priest.fr`) : la page d'accueil liste l'agenda, les services et les marchés publics (appels d'offres), mais aucun marché de producteurs ni d'AMAP. Pas de fiche.
+- Registre des entreprises, Saint-Priest : les enseignes qui sortent sont des commerces de proximité généralistes (boucherie, pharmacie, primeurs au nom de société), sans preuve de vente directe de producteur. Non reprises.
+
+**Pourquoi rien n'est publié.** Aucune commune du Rhône visée cette passe ne rend cinq commerces vérifiables sur deux sources indépendantes. Le déblocage de Vaulx-en-Velin n'est pas obtenu, et Saint-Priest n'a pas livré de source de marché.
+
+**Fiches écartées pour doute sur une personne.** Une, à Vaulx-en-Velin (entreprise individuelle du registre Agence Bio, sans nom écrit ici), déjà consignée le 22 octobre. Ne se rouvre pas.
+
+**Contradictions.** Aucune sur un fait. Les passes du 22 octobre classaient la Savoie (73) comme close alors qu'Aix-les-Bains y est indiquée comme sondée ; ce point n'a pas été tranché cette passe.
+
+**Demande en cours n° 13** (commune de 83, producteur) : inchangée, rien publié, aucune réponse envoyée.
+
+**Pistes non publiées (anonymes, Rhône).**
+- Vaulx-en-Velin (69), marché de producteurs de l'esplanade de l'hôtel de ville (vendredi, source unique ancienne) : **déblocage** = confirmation du jour et du lieu par la Ville ou par son règlement de marchés lisible.
+- Saint-Priest (69), commune suivante de la descente : aucune source de marché de producteurs trouvée à ce jour ; reprendre par le registre Agence Bio et les sites des producteurs eux-mêmes.
+
+**Points d'arrêt.** Passe suivante : la région 84 ne peut pas être visée de suite (règle 41.c). Si la descente revient dans le Rhône, reprendre Vaulx-en-Velin par le règlement de marchés, puis Saint-Priest (49 229 hab.) et Caluire-et-Cuire (43 597 hab.). Aucune fiche n'a été publiée cette passe.
