@@ -41845,3 +41845,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Contradictions.** Aucune sur un fait.
 
 **Points d'arrêt.** Passe suivante : la région 84 ne peut pas être visée de suite (règle 41.c). Si la passe revient dans le Rhône, reprendre Vaulx-en-Velin en ouvrant d'abord le règlement de marchés de la Ville, puis Saint-Priest (49 229 hab.) et Caluire-et-Cuire (43 597 hab.). Aucune fiche n'a été publiée cette passe.
+
+### Passe autonome du 23 octobre 2026 (Seine-Maritime, Barentin, Bolbec et Yvetot sondées sur le web) : aucune publication
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`). La passe précédente visait le Rhône (région 84) : seule cette région est exclue (règle 41.c). Seine-Maritime (76) en tête des départements éligibles.
+
+**Commune, règle 41.d.** Dieppe, Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu et Oissel-sur-Seine ont déjà été éprouvées à plusieurs passes sans cinq fiches entières. Barentin (12 022 hab.), puis Bolbec et Yvetot, sont les suivantes sans fiche.
+
+**Ce qui a été fait.**
+- Recherche web sur Barentin : aucun producteur, marché ni magasin identifié dans les résultats ; renvoi vers la Chambre d'agriculture et la mairie.
+- Recherche web sur Bolbec : aucun marché de producteurs identifié ; deux fermes à une dizaine de kilomètres, sans adresse ni horaires vérifiés.
+- Recherche web sur Yvetot : un magasin de ferme référencé est situé dans la Manche (50), hors périmètre ; un drive fermier à quelques kilomètres, sans précision de point de vente physique.
+
+**Pourquoi rien n'est publié.** Aucune commune n'a rendu de fiche vérifiable, et une fiche isolée ne forme pas la zone de cinq (règles 96 et 127).
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Bolbec : fermes à une dizaine de kilomètres, sans adresse ni horaires confirmés. **Déblocage** : adresse et horaires publiés par l'exploitation ou par le réseau Bienvenue à la Ferme.
+- Yvetot : drive fermier à quelques kilomètres, point de vente physique non confirmé. **Déblocage** : adresse et horaires publiés par le drive.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions.** Aucune sur un fait.
+
+**Points d'arrêt.** Passe suivante : la région 76 peut être visée de nouveau (seule la région de la passe précédente, le Rhône, est close). Reprendre Barentin par la Chambre d'agriculture de Normandie ou la mairie ; sinon descendre à Maromme ou Déville-lès-Rouen.
