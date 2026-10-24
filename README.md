@@ -42322,3 +42322,19 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 - Dieppe et Neuville-lès-Dieppe, marchés du mercredi et du jeudi : l'office de tourisme ne donne que le jour, l'heure et le lieu, aucun produit vérifié. Motif : fiche incomplète.
 
 **Points d'arrêt.** Cinq fiches n'ont pas été atteintes : la commune ne rend que deux fiches vérifiables. La règle de descente (commune suivante par population) n'a pas été appliquée pendant cette passe ; à reprendre à la passe suivante sur Dieppe, en cherchant les produits des marchés et une photo pour l'épicerie participative. Le brochure « Commerces » de la Côte d'Albâtre (2026) n'a pas pu être lue (PDF non exploitable par l'outil disponible).
+
+### Passe autonome du 24 octobre 2026, seconde (Haut-Rhin (68) reprise, aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre.
+
+**Classement, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par `lib/validateMerchants.ts`). La passe précédente visait la Seine-Maritime (76) : cette région est exclue (règle 41.c). Haute-Garonne (31) close par la règle 247. Le Haut-Rhin (68) reste le premier département éligible.
+
+**Commune, règle 41.d.** Wittenheim (15 553 hab.) et Illzach (14 923 hab.) sont les plus peuplées sans fiche, déjà sondées les 22 et 24 octobre. Registre Agence Bio, 68 : 400 opérateurs relus, aucun en vente directe au public à Wittenheim, Illzach ou Rixheim (grossistes, sites de production, enseignes de la grande distribution). Recherche web : aucun marché hebdomadaire de producteurs recensé à Rixheim, Kingersheim, Riedisheim ou Cernay ; les annuaires de circuits courts renvoient à des adresses hors du territoire.
+
+**Pourquoi rien n'est publié.** Aucune commune du 68 ne rend cinq commerces vérifiables sur deux sources indépendantes. La piste la plus solide reste la boucherie bio de Saint-Louis, à reprendre sur l'annuaire de la Chambre d'agriculture, et n'est pas retenue à ce stade.
+
+**Pistes non publiées** (anonymes) : Kingersheim, une entrée du registre Agence Bio en nom de personne, à vente directe non confirmée, écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne :** une (Kingersheim, catégorie non retenue). Elle ne se rouvre pas.
+
+**Points d'arrêt.** Le Haut-Rhin a été visité à plusieurs passes sans fiche publiée. Une passe suivante ne peut pas viser le 68 par la seule formule sans une nouvelle source : Bienvenue à la Ferme 68, marchés de producteurs de la Chambre d'agriculture, ou les sites des mairies de Riquewihr et d'Altkirch, à lire en premier.
