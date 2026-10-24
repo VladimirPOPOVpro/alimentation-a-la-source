@@ -42599,3 +42599,24 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** deux entrées du registre Agence Bio à Balma, en vente de gros, portant un nom de personne physique : hors sujet pour la vente au public, non reprises ; une entrée de la Ville (numéro de contact du marché) non reprise par précaution. Ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante, Haute-Garonne toujours : Balma ouverte (règle 247 : descente au-delà de douze communes éprouvées). Reprendre l'AMAP sur une source propre et le jour du marché auprès de la mairie. Si Balma ne rend pas cinq commerces, descendre à la commune suivante par population sans fiche : Cugnaux (20 662 hab.) a déjà deux fiches, donc Saint-Jean ou Castanet-Tolosan selon les populations à vérifier.
+
+### Passe autonome du 24 octobre 2026 (quatorzième) : Rhône (69) repris, Caluire-et-Cuire sondée : aucune fiche publiée
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31, Occitanie) : cette région est exclue par la règle 41.c. Le Nord (59), les Bouches-du-Rhône (13), l'Isère (38), le Haut-Rhin (68), l'Oise (60) et la Seine-Saint-Denis (93) restent clos ou éprouvés (règle 247). **Rhône (69, Auvergne-Rhône-Alpes) retenu** : premier département éligible du classement, déficit ≈ 4,5.
+
+**Commune, règle 41.d et descente.** Lyon, Villeurbanne et Vénissieux portent déjà des fiches ; Vaulx-en-Velin, Saint-Priest et Meyzieu sont éprouvées sans déblocage. Descente à **Caluire-et-Cuire** (43 597 hab.), pour la troisième fois.
+
+**Ce qui a été vérifié.**
+- Marchés de la Ville (page officielle `ville-caluire.fr`, rubrique marchés forains) : six marchés avec jours, horaires et lieux (Crépieux le mercredi 16h-20h, Montessuy les jeudi et samedi 8h-13h, Saint-Clair le mardi 8h-13h, trois marchés du soir). La page ne cite **aucun produit ni producteur**. Le seul descriptif de produits (fruits et légumes, fromages, viande, poisson, miel) vient d'un site touristique dont la fiche date d'octobre 2019 : insuffisant pour publier sans doute.
+- Magasins bio : Biocoop (montée des Soldats) et Satoriz (avenue du Général Leclerc) apparaissent sur des annuaires, avec des horaires concordants mais sans téléphone ni site du commerce vérifiés. Satoriz est un réseau de magasins, son site national ne donne ni adresse ni horaires.
+- Registre Agence Bio (Rhône) : Caluire ne compte qu'une entreprise à vente aux particuliers, sans enseigne ni adresse vérifiée à ce stade.
+
+**Pourquoi rien n'est publié.** Une fiche de marché exige une image (`image_url`) et au moins trois produits vérifiés. Aucune photo n'est disponible : le site de la Ville ne publie que des logos, l'office de tourisme (Visiterlyon) n'a pas d'image exploitable, et les banques d'images sont bloquées. Les produits du marché de Montessuy reposent sur une source de 2019. Les deux magasins bio manquent de téléphone et de site vérifiés, et la règle des cinq commerces n'est pas atteinte.
+
+**Pistes non publiées.**
+- Caluire-et-Cuire, marché de Montessuy : jours et lieu vérifiés (ville), produits sur source 2019 et aucune photo. Motif : pas d'image, produits non confirmés.
+- Caluire-et-Cuire, magasins bio (deux enseignes de réseau) : horaires sur annuaires seulement, téléphone et site non vérifiés. Motif : faits non confirmés.
+- Caluire-et-Cuire, marchés de Crépieux, Saint-Clair et du soir : jours et lieux vérifiés, aucun produit ni producteur indiqué. Motif : fiche incomplète.
+- Caluire-et-Cuire, une entreprise individuelle de vente aux particuliers, au registre Agence Bio : nom patronymique, pas une enseigne. Motif : donnée personnelle, écartée et non reprise.
+
+**Points d'arrêt.** Passe suivante dans le Rhône : chercher une photo utilisable du marché de Montessuy (fiche de l'office de tourisme de Lyon, photo de la Ville, ou photo thématique honnête si elle existe), et chercher le téléphone et le site des deux magasins bio sur leur propre site. Si Caluire ne rend toujours rien, la règle 247 s'appliquera après la douzième commune éprouvée dans le Rhône (quatre à ce jour), ou descendre à Bron puis Meyzieu.
