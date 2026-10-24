@@ -42718,3 +42718,24 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
 
 **Points d'arrêt.** Passe suivante : reprendre Istres par téléphone ou sur les pages directes de la Ville et de l'office, puis chercher deux commerces dans les annuaires Bienvenue à la Ferme ou Chambre d'agriculture. Sans cinq fiches vérifiées, appliquer la règle 247.
+
+### Passe autonome du 24 octobre 2026 (vingtième) : Istres (13) sondée à nouveau, aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur.** Istres reste la commune éprouvée du 13 (points d'arrêt des passes 18 et 19). Total publié : 1 296 fiches.
+
+**Sources lues.**
+- Bienvenue à la Ferme : le site renvoie une page de maintenance (« revenir prochainement »). Recherche impossible cette passe.
+- Recherche web sur les producteurs d'Istres, d'Entressen et de Miramas : le marché de producteurs de La Grange (Entressen) apparaît avec un programme 2026 signalé « en attente de validation », sans horaire 2026 confirmé ; l'horaire 2025 était le vendredi de 17 h à 19 h 30. Les autres résultats renvoient à des entités déjà écartées pour doute sur une personne (passe 18), ou à des pages anciennes.
+- Agenda MyProvence : la fiche du marché d'Entressen n'existe plus à l'adresse consultée (redirection vers l'agenda général). Aucune date 2026 vérifiée.
+
+**Pistes non publiées** (anonymes, Istres et Entressen) :
+- Istres, vente à la ferme sur commande le samedi matin : entité au nom d'une personne physique au registre. Motif : doute sur une personne, écartée (rappel de la passe 18).
+- Entressen, marché de producteurs de La Grange : deux horaires contradictoires (2025 vendredi 17 h à 19 h 30 ; site de la Ville vendredi 8 h à 12 h 30 pour un autre marché), programme 2026 non validé, aucun producteur nommé de façon vérifiable. Motif : fait non confirmé, règle 5 appliquée sans résultat utile (une fiche sans producteur nommé ne tient pas).
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe au-delà des pistes ci-dessus.
+
+**Pourquoi rien n'est publié.** Aucune piste à Istres ne rend deux commerces vérifiables et indépendants à la fois : les vendeurs en vente directe sont adossés à des personnes physiques au registre, les marchés ont des horaires contradictoires, et les annuaires officiels (Bienvenue à la Ferme) sont indisponibles. Une zone à cinq fiches n'est pas atteinte (règle 248).
+
+**Points d'arrêt.** Istres ne progresse plus sur les sources web : la règle 247 s'applique. Passe suivante : soit la lecture directe (téléphone de l'office de tourisme, 04 42 81 76 00) pour trancher le marché d'Entressen et l'horaire 2026, soit descendre à la commune suivante de la descente du 13 (règle 41.d), avec cinq commerces à chercher dans l'annuaire Chambre d'agriculture.
