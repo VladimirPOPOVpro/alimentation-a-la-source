@@ -42363,3 +42363,27 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** plusieurs entrées de vente aux particuliers au nom de personnes physiques (Isère, commune et catégorie seulement), non nommées, ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c). Le classement suivant est la Bouches-du-Rhône (13), puis le Rhône (69). Revenir à Saint-Égrève seulement si le site de la Ville répond et publie son marché.
+
+### Passe autonome du 24 octobre 2026 (quatrième) : Seine-Saint-Denis (93) sondée, Aulnay-sous-Bois sans source : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait l'Isère (38, région 84) : cette région est exclue (règle 41.c). Nord (59), Haute-Garonne (31), Bouches-du-Rhône (13), Seine-Maritime (76), Haut-Rhin (68) et Isère (38) restent clos ou éprouvés (règle 247). **Seine-Saint-Denis (93) retenue** : premier département ouvert du classement, région 11 (Île-de-France), déjà visitée seulement à Saint-Denis, Montreuil et Aubervilliers.
+
+**Commune, règle 41.d.** Aulnay-sous-Bois (87 599 hab.) est la commune la plus peuplée du 93 sans aucune fiche.
+
+**Ce qui a été lu.**
+- Recherche web : aucun marché de producteurs, aucune AMAP active relevée à Aulnay-sous-Bois. Les annuaires ne listent que des supermarchés et des magasins bio d'enseigne (deux enseignes nationales, sans vente directe de producteurs).
+- Annuaire de commerces locaux (533 commerces) : pas de marché de producteurs mentionné.
+- Jours-de-marché.fr : trois marchés enregistrés, sans détail exploitable ; site participatif.
+- Registre Agence Bio, 93 : première page (100 opérateurs) relue. Les entrées d'Aulnay sont des grossistes, des entreprises de transformation ou des enseignes ; une seule (`venteParticuliers` vrai) n'a pas de nature identifiable sans une seconde source. Aucune entrée n'est retenue, et plusieurs entrées portent un nom de personne physique : rien n'en est repris, conformément à la règle absolue.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne un commerce vérifiable en circuit court à Aulnay-sous-Bois. Les trois marchés de Jours-de-marché.fr restent sans jours ni produits vérifiés.
+
+**Pistes non publiées** (anonymes) :
+- Aulnay-sous-Bois, marchés enregistrés sur Jours-de-marché.fr : **Déblocage** : programme officiel de la Ville (service commerce ou marchés forains) donnant jours, horaires et producteurs.
+- Aulnay-sous-Bois, entrée du registre Agence Bio en vente aux particuliers, sans enseigne identifiable : **Déblocage** : une seconde source qui en donne le nom commercial. Motif : identité non établie.
+
+**Fiches écartées pour doute sur une personne :** plusieurs entrées du registre Agence Bio du 93 portent un nom de personne physique en vente aux particuliers. Non nommées, non reprises, ne se rouvrent pas.
+
+**Points d'arrêt.** La descente de la règle 41.d en Seine-Saint-Denis commence à Aulnay-sous-Bois, sans commune encore éprouvée ailleurs dans le 93 pour cette passe. Passe suivante : poursuivre la descente à Noisy-le-Grand (72 978 hab.), puis Drancy, en commençant par le site de la Ville et le registre Agence Bio, avant le classement suivant (Oise, 60, ou Rhône, 69, si la région 84 est ouverte à nouveau).
