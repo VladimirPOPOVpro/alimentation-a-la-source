@@ -42630,3 +42630,25 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes. Les passes récentes ne trouvent plus de zone à cinq fiches dans les départements en tête de la formule : la descente de la règle 41.d s'épuise avant d'atteindre une zone publiable.
 
 **Points d'arrêt.** Passe suivante : éprouver le 13 (Bouches-du-Rhône) en commençant par la commune la plus peuplée sans fiche, avec le registre Agence Bio et les sites des marchés municipaux. Si le 13 se ferme aussi, la formule ne suffit plus à désigner une zone publiable : le point est à porter au responsable du site.
+
+### Passe autonome du 24 octobre 2026 (seizième) : Bouches-du-Rhône (13) sondée, Aubagne éprouvée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), 1 296 fiches, populations `geo.api.gouv.fr`. Classement : Haute-Garonne (31, 4,66), Haut-Rhin (68, 4,49), Isère (38, 4,42), Bouches-du-Rhône (13, 4,24), Nord (59, 4,16). Le 31 et le 68 ont été éprouvés sur plusieurs passes sans publication ; le 13 est retenu, conformément au point d'arrêt de la passe précédente.
+
+**Commune, règle 41.d.** Bouches-du-Rhône : Marseille, Aix-en-Provence, Arles et Martigues portent déjà des fiches. La commune la plus peuplée sans fiche est **Aubagne** (47 529 hab.).
+
+**Sources lues.** Registre Agence Bio, département 13, pagination complète (87 opérateurs au nom d'Aubagne ou de son code postal 13400). Ce que le registre donne :
+- la plupart des entrées sont des exploitations au nom d'une personne ou des grossistes sans vente directe : écartées (doute sur une personne, règle absolue) ou hors sujet ;
+- une grande surface de réseau national (hors périmètre, règle MODERATION) ;
+- un boulanger (hors sujet pour la vente de producteurs, à confirmer) ;
+- aucune entreprise à enseigne vérifiable avec vente directe trouvée à ce jour.
+
+**Pistes non publiées** (anonymes) : Aubagne, deux entrées de vente directe à la ferme au nom d'une personne (écartées pour doute sur une personne, ne se rouvrent pas) ; Aubagne, une entrée « Bio » sans enseigne ni adresse de magasin, téléphone de type portable (écartée, donnée personnelle probable).
+
+**Fiches écartées pour doute sur une personne :** deux, Aubagne, passe n° 16.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes. Les sites des marchés et de la Ville d'Aubagne n'ont pas encore été lus dans cette passe.
+
+**Points d'arrêt.** Passe suivante : lire la rubrique marchés du site de la Ville d'Aubagne et l'office de tourisme du Pays d'Aubagne et de l'Étoile ; puis, si cinq commerces restent introuvables, appliquer la règle 247 et descendre à Istres (44 292 hab., sans fiche) avec la même méthode.
