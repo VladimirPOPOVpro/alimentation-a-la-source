@@ -42437,3 +42437,28 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
 
 **Points d'arrêt.** Passe suivante dans le Rhône : lire le site de la Ville de Caluire-et-Cuire (rubrique marchés) puis Saint-Priest ; si le Rhône ne rend rien, passer au classement suivant (Oise, 60, ou Savoie, 73), en veillant à la règle 41.c.
+
+### Passe autonome du 24 octobre 2026 (septième) : Haut-Rhin (68) reprise, Saint-Louis sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne (le contact privé et le nom affiché désignent possiblement une personne), rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (région 84) : cette région est exclue (règle 41.c). Haute-Garonne (31) close (règle 247), Seine-Maritime (76) close. **Haut-Rhin (68, région 44) retenu** : déficit le plus fort parmi les départements éligibles (4,49), devant Bouches-du-Rhône (13) et Nord (59). Isère (38) exclue par la règle 41.c.
+
+**Commune, règle 41.d : correction.** La passe n° 2 désignait Wittenheim (15 553 hab.) et Illzach (14 923 hab.) comme les plus peuplées du 68 sans fiche. Or **Saint-Louis (22 805 hab.)**, plus peuplée que les deux, n'a aucune fiche dans `data/marchands.json` et n'avait pas été éprouvée comme commune de descente. Elle est donc la commune à sonder en premier.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 68 (1 344 opérateurs relus) : à Saint-Louis, deux entrées en vente aux particuliers susceptibles de vendre des produits locaux (une boulangerie, une boucherie bio), plus une exploitation agricole en vente aux particuliers portant un nom de personne physique (écartée, voir ci-dessous) et des grossistes ou transformateurs sans vente directe.
+- Brochure 2024 de Saint-Louis Agglomération sur la vente directe : « près de 30 producteurs », avec horaires et contacts par exploitation. Le texte de la brochure est en partie inexploitable depuis cet environnement (polices encodées) : les fiches des producteurs n'ont pas pu être lues. La carte interactive renvoyée par la brochure (portail OpenData, page « circuits-courts ») répond 404 à l'interrogation de son jeu de données.
+- Recherche web : une boucherie bio de Saint-Louis, sur un annuaire, avec une adresse rue de Strasbourg, sans horaires jour par jour, et une adresse « Neuweg » qui ne se recoupe pas avec la première. Une boulangerie de Neuweg, listée sur un annuaire sans mention bio vérifiée. Aucun marché de producteurs à Saint-Louis avec jours et horaires.
+- Bienvenue à la Ferme (Grand Est) : répond 403 depuis cet environnement. Déblocage **non obtenu**.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Saint-Louis n'a deux sources indépendantes à jour : la boucherie a une source d'annuaire unique et une adresse contradictoire ; la boulangerie n'a pas de mention bio vérifiée ; les producteurs de la brochure ne sont pas lisibles. Une fiche sur la seule foi de la brochure, dont les horaires n'ont pas été lus, serait une fiche fausse.
+
+**Pistes non publiées** (anonymes) :
+- Saint-Louis, boucherie bio (annuaire seul, adresse contradictoire) : **Déblocage** : site ou fiche du commerce, ou confirmation de l'adresse par la Chambre d'agriculture ou l'agglomération.
+- Saint-Louis, boulangerie de Neuweg (mention bio non vérifiée) : **Déblocage** : étiquette AB ou site du commerce.
+- Saint-Louis Agglomération, les quelque trente producteurs de la brochure 2024 : **Déblocage** : accès à la carte interactive ou à la liste en texte, avec horaires par exploitation et une seconde source (Chambre d'agriculture ou Bienvenue à la Ferme). Motif : texte non lisible ici.
+
+**Fiches écartées pour doute sur une personne :** une exploitation agricole de Saint-Louis, en vente aux particuliers, dont l'enseigne est un nom de famille (registre Agence Bio et brochure) : catégorie et commune seulement, non nommée, ne se rouvre pas sans enseigne commerciale distincte.
+
+**Points d'arrêt.** Passe suivante dans le Haut-Rhin : reprendre Saint-Louis avec les producteurs de la brochure dès que la carte OpenData ou un texte lisible est accessible, puis Wittenheim et Illzach seulement après. Si la commune ne rend pas cinq fiches entières sur deux sources, la descente de la règle 247 s'applique au 68.
