@@ -42387,3 +42387,30 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** plusieurs entrées du registre Agence Bio du 93 portent un nom de personne physique en vente aux particuliers. Non nommées, non reprises, ne se rouvrent pas.
 
 **Points d'arrêt.** La descente de la règle 41.d en Seine-Saint-Denis commence à Aulnay-sous-Bois, sans commune encore éprouvée ailleurs dans le 93 pour cette passe. Passe suivante : poursuivre la descente à Noisy-le-Grand (72 978 hab.), puis Drancy, en commençant par le site de la Ville et le registre Agence Bio, avant le classement suivant (Oise, 60, ou Rhône, 69, si la région 84 est ouverte à nouveau).
+
+### Passe autonome du 24 octobre 2026 (cinquième) : Seine-Saint-Denis (93) reprise, Noisy-le-Grand et Drancy sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Seine-Saint-Denis (93) reprise, sans changement de classement. La descente de la règle 41.d continue, comme annoncé par la passe précédente.
+
+**Noisy-le-Grand (93160), règle 41.d.** Commune suivante par population sans fiche.
+- Site de la Ville, rubrique marchés : trois marchés municipaux (centre-ville sous la halle, mercredi, vendredi et dimanche matin ; Pavé-Neuf, lundi et vendredi après-midi ; Richardets, samedi matin). Aucun producteur n'y est nommé, aucun produit vérifiable : ce sont des marchés alimentaires généralistes sans source de circuit court.
+- Registre Agence Bio, 93, cinq pages (447 opérateurs) : une seule entrée en vente aux particuliers à Noisy-le-Grand, une boulangerie sans adresse dans le registre. Rien à reprendre.
+- Jours-de-marché.fr, producteurs locaux : aucun producteur listé à Noisy-le-Grand ; le plus proche est à environ 10 km.
+- Recherche web : une page de réseau social évoque un potager installé sur le toit d'un centre commercial, avec une distribution hebdomadaire, sans adresse ni site vérifiés.
+
+**Drancy (93700), règle 41.d.** Commune suivante, sondée pour la passe suivante.
+- Site de la Ville : marché des 4 Routes, les mardis, vendredis et dimanches matin, marché à la criée mêlant produits artisanaux, vêtements et accessoires. Aucun producteur nommé, produits non vérifiables.
+- Registre Agence Bio, 93 : une seule entrée en vente aux particuliers, une grande enseigne de supermarché, écartée par la règle des supermarchés.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables en circuit court. Les marchés municipaux donnent des jours et des lieux, mais ni producteurs ni produits : une fiche sur l'un d'eux ne servirait qu'à indiquer un marché. On ne la publie donc pas.
+
+**Pistes non publiées** (anonymes) :
+- Noisy-le-Grand, marchés municipaux (centre-ville, Pavé-Neuf, Richardets) : **Déblocage** : liste des producteurs présents, publiée par la Ville ou par un des marchés, avec les produits.
+- Noisy-le-Grand, potager sur toit de centre commercial avec distribution hebdomadaire : **Déblocage** : adresse et site du lieu, vérifiés hors réseaux sociaux.
+- Drancy, marché des 4 Routes : **Déblocage** : liste des producteurs présents (pas seulement des artisans et des vendeurs de vêtements), avec leurs produits.
+
+**Fiches écartées pour doute sur une personne :** aucune dans cette passe.
+
+**Points d'arrêt.** La descente de la règle 41.d en Seine-Saint-Denis se poursuit à Montreuil et à Saint-Denis, déjà visitées pour d'autres fiches, puis Bobigny ou Noisy-le-Grand à nouveau si la Ville publie la liste de ses producteurs. Passe suivante : regarder d'abord les pistes ci-dessus, puis le classement de la règle 41 pour un autre département si le 93 n'offre toujours rien.
