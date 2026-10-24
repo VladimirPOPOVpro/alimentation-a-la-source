@@ -42462,3 +42462,15 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** une exploitation agricole de Saint-Louis, en vente aux particuliers, dont l'enseigne est un nom de famille (registre Agence Bio et brochure) : catégorie et commune seulement, non nommée, ne se rouvre pas sans enseigne commerciale distincte.
 
 **Points d'arrêt.** Passe suivante dans le Haut-Rhin : reprendre Saint-Louis avec les producteurs de la brochure dès que la carte OpenData ou un texte lisible est accessible, puis Wittenheim et Illzach seulement après. Si la commune ne rend pas cinq fiches entières sur deux sources, la descente de la règle 247 s'applique au 68.
+
+### Passe autonome du 24 octobre 2026 (Haute-Garonne, Blagnac sondée) : aucune publication
+
+**Département, règle 41.** La Réunion (974) est en tête du classement mais reste bloquée par le contrôle de `lib/validateMerchants.ts` (coordonnées outre-mer) : hors périmètre, pas de publication possible. Le premier département métropolitain éligible est la Haute-Garonne (31, déficit ≈ 4,8 sur 1 296 fiches), hors région de la passe précédente (Haut-Rhin).
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants), la plus peuplée du 31 sans fiche.
+
+**Ce qui a été lu.** Registre Agence Bio, département 31, paginé en entier (2 838 opérateurs). Filtré sur Blagnac : deux enseignes à vente particuliers sont actives au registre des entreprises (L'Arche en Pays Toulousain, Les Maraîchers des Quinze Sols) ; une troisième (Les Jardins du Grand Noble) n'a aucun établissement ouvert et est écartée. Les autres entrées sont des entreprises désignées par le nom de leur exploitant, ou sans vente au public : écartées sans lecture plus poussée. Recherche web : un annuaire de circuits courts daté de 2015 cite deux marchés de producteurs à Blagnac, non confirmés par une source récente.
+
+**Pourquoi rien n'est publié.** Deux commerces vérifiables sur les cinq requis. La règle 248 demande de descendre à la commune suivante ; Muret n'a pas été lue cette passe.
+
+**Pistes non publiées** (anonymes) : Blagnac, deux enseignes actives au registre sans source de vente directe lue à ce jour (marché ou magasin à confirmer auprès de la Ville) ; Blagnac, un marché de producteurs de 2015 à reconfirmer.
