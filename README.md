@@ -42519,3 +42519,34 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** une entrée de vente aux particuliers à Caluire-et-Cuire, désignée par un nom de famille sans enseigne commerciale distincte. Catégorie et commune seulement, non nommée, ne se rouvre pas sans enseigne distincte.
 
 **Points d'arrêt.** Passe suivante dans le Rhône : reprendre Caluire-et-Cuire quand le site de la Ville répond (rubrique marchés), puis chercher les quatre autres commerces sur le registre et les annuaires Bienvenue à la Ferme du Rhône. Si Caluire ne rend pas cinq commerces, appliquer la règle 247 après douze communes éprouvées, ou descendre à la suivante par population (Villeurbanne et Vénissieux portent déjà des fiches, donc Bron, puis Meyzieu).
+
+### Passe autonome du 24 octobre 2026 (onzième) : Haute-Garonne (31) reprise, Plaisance-du-Touch sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 296 fiches, populations `geo.api.gouv.fr` (68,95 millions d'habitants). Haute-Garonne (31, région 76) en tête des départements éligibles : déficit ≈ 4,66, devant Haut-Rhin (68) et Isère (38). L'Isère est exclue par la règle 41.c, la région 84 ayant été visée à la passe précédente (Rhône). Haut-Rhin, déjà sondé deux passes avant, n'a pas été repris.
+
+**Commune, règle 41.d et descente.** Blagnac et Muret sont déjà sondées (passes huit et neuf) ; la commune la plus peuplée du 31 après elles sans fiche est **Plaisance-du-Touch** (21 079 hab.).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 31 (2 838 opérateurs, pagination complète par cent) : seize entrées à Plaisance-du-Touch. La plupart sont des grossistes, des exploitations en vente de gros ou sans vente au public ; une enseigne de grande distribution est écartée ; trois entrées portent un nom de personne physique et ne sont pas reprises.
+- Registre des entreprises : deux sociétés actives aux adresses de magasins bio de la commune (une au centre commercial de la rue Bernadet, une avenue des Pyrénées). Une troisième enseigne, un magasin de produits locaux en rayon, a une adresse au registre rattachée à une société active, mais l'enseigne du point de vente n'y figure pas nommément.
+- Site officiel d'un magasin bio coopératif de la commune : adresse, téléphone et horaires publiés pour sa clientèle, concordants avec le registre (société active à la même adresse). Seule la ligne du samedi (9 h 00 – 19 h 30) est lue en entier sur le site ; les horaires des autres jours restent à confirmer.
+- Site de la Ville de Plaisance-du-Touch, rubrique marché de plein vent : marché place Bombail les jeudis et samedis, de 8 h à 12 h 45 selon l'extrait relevé par la recherche (la page elle-même, datée, n'a pas pu être lue ici). Un second site annonce d'autres horaires (6 h à 13 h, 6 h 30 à 12 h 30) : contradiction, consignée ci-dessous.
+- Le site d'une enseigne de magasin bio du centre commercial renvoie 403 depuis cet environnement : horaires lus seulement sur un annuaire.
+- Deux maraîchers et un magasin de producteurs cités par des annuaires sont hors de la commune (Léguevin, Frouzins) ou sans entité active au registre (un point de vente bio de la route de Toulouse n'a aucun établissement actif trouvé) : écartés.
+
+**Pourquoi rien n'est publié.** Trois fiches solides ou presque, sur les cinq requises : un magasin bio (deux sources, horaires partiels), un marché de plein vent (une source officielle, deux horaires contradictoires), un point de vente avec rayon de producteurs (catégorie à trancher, et enseigne non confirmée au registre). Le magasin bio du centre commercial n'a pas de source officielle lisible. Une commune sans cinq fiches vérifiables ne se publie pas (règles 52 et 127).
+
+**Contradictions consignées** (règle 5) : horaires du marché de Plaisance-du-Touch (8 h – 12 h 45 pour la Ville et deux annuaires ; 6 h – 13 h et 6 h 30 – 12 h 30 pour deux autres) ; horaires du magasin bio de l'avenue des Pyrénées (lundi annoncé ouvert à 9 h par le site officiel, fermé sur une fiche d'annuaire).
+
+**Pistes non publiées** (anonymes) :
+- Plaisance-du-Touch, magasin bio coopératif (avenue, site officiel + registre) : **Déblocage** : horaires complets de la semaine confirmés et quatre autres commerces vérifiés dans la même commune.
+- Plaisance-du-Touch, magasin bio d'un centre commercial (registre actif, site du réseau inaccessible) : **Déblocage** : site ou fiche officielle lisible, et confirmation des horaires.
+- Plaisance-du-Touch, marché de plein vent (place Bombail, jeudi et samedi) : **Déblocage** : deuxième source officielle, office de tourisme ou site à jour, pour trancher les horaires.
+- Plaisance-du-Touch, point de vente avec rayon de producteurs locaux (rue Antoine-Lavoisier, horaires et téléphone publiés par l'enseigne) : **Déblocage** : catégorie tranchée (magasin ou producteur, règle 4) et lien nominal entre l'enseigne et l'entité active du registre.
+- Plaisance-du-Touch, point de retrait d'un réseau de paniers (mardi en fin d'après-midi, source agrégateur) : **Déblocage** : site officiel du réseau ou de l'hôte.
+
+**Fiches écartées pour doute sur une personne :** trois entrées du registre Agence Bio à Plaisance-du-Touch, en vente aux particuliers ou en vente de gros, portant un nom de personne physique. Non nommées, non reprises, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : reprendre Plaisance-du-Touch avec les pistes ci-dessus (une deuxième source pour le marché et le point de vente, les horaires complets du magasin bio). Si la commune ne rend toujours pas cinq fiches entières, la descente de la règle 247 s'applique : Balma (17 772 hab.) est la commune suivante par population, sans fiche ; un marché de producteurs et un réseau de vente à la ferme y sont signalés par des annuaires, sans lecture de source officielle à ce jour.
