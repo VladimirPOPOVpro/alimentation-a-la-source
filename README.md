@@ -42550,3 +42550,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** trois entrées du registre Agence Bio à Plaisance-du-Touch, en vente aux particuliers ou en vente de gros, portant un nom de personne physique. Non nommées, non reprises, ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante : reprendre Plaisance-du-Touch avec les pistes ci-dessus (une deuxième source pour le marché et le point de vente, les horaires complets du magasin bio). Si la commune ne rend toujours pas cinq fiches entières, la descente de la règle 247 s'applique : Balma (17 772 hab.) est la commune suivante par population, sans fiche ; un marché de producteurs et un réseau de vente à la ferme y sont signalés par des annuaires, sans lecture de source officielle à ce jour.
+
+### Passe autonome du 24 octobre 2026 (douzième) : Rhône (69) repris, Caluire-et-Cuire et Meyzieu sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : rien publié, rien répondu. Ses coordonnées restent privées.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31, Occitanie) : cette région est exclue par la règle 41.c. Le Rhône (69, Auvergne-Rhône-Alpes) est repris, conformément au point d'arrêt de la passe précédente.
+
+**Commune, règle 41.d et descente.** Caluire-et-Cuire reprise (point d'arrêt de la passe n° 10). Le site de la Ville ne répond toujours pas depuis cet environnement. Recherche web : le marché de Montessuy (jeudi et samedi matin) est signalé par un annuaire daté de 2019, sans source officielle récente. Meyzieu, descente prévue : site de la Ville joignable ; le « Marché des Saveurs » (jeudi, 16 h à 20 h) est signalé par un guide touristique daté de 2019, à confirmer auprès de la mairie.
+
+**Pourquoi rien n'est publié.** Ni Caluire-et-Cuire ni Meyzieu ne rendent cinq commerces vérifiables sur deux sources indépendantes et à jour. Une fiche isolée ne forme pas une zone (règles 52 et 127).
+
+**Pistes non publiées** (anonymes) :
+- Caluire-et-Cuire, marché de Montessuy : horaires à confirmer sur une source officielle récente.
+- Meyzieu, marché du jeudi : horaires de 2019, à confirmer auprès de la mairie.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante, hors Occitanie (règle 41.c) : Rhône, reprendre Meyzieu (mairie) et Caluire-et-Cuire quand le site de la Ville répond. Si le Rhône ne rend toujours pas cinq commerces, appliquer la règle 247 et descendre au département suivant par déficit.
