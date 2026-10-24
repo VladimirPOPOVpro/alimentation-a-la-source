@@ -42675,3 +42675,32 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pourquoi rien n'est publié.** Aubagne ne rend pas cinq commerces vérifiables : un seul marché alimentaire, sans producteur identifié ni photo. La règle 247 s'applique : Aubagne est éprouvée, et le 13 a une commune de plus.
 
 **Points d'arrêt.** Passe suivante, Bouches-du-Rhône : descendre à Istres (44 292 hab., sans fiche), en commençant par la rubrique marchés du site de la Ville et l'annuaire municipal. Reprendre l'office de tourisme du Pays d'Aubagne et de l'Étoile à la prochaine occasion, quand le domaine répond.
+
+### Passe autonome du 24 octobre 2026 (dix-huitième) : Istres (13) sondée, aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, 1 296 fiches, populations `geo.api.gouv.fr`. Classement recalculé : Nord (59, 6,23), Bouches-du-Rhône (13, 5,89), Haute-Garonne (31, 5,82), Isère (38, 5,44), Haut-Rhin (68, 5,10). Le 59 est fermé par la règle 247 (passes du 24 octobre, précédentes). Le 13 est repris, conformément au point d'arrêt de la passe 17. Le 31 et le 68 restent éprouvés sans publication.
+
+**Commune, règle 41.d.** Istres (44 000 hab. environ), la commune la plus peuplée du 13 après Aubagne, éprouvée au point d'arrêt de la passe 17. Istres n'a aucune fiche publiée.
+
+**Sources lues.**
+- Site de la Ville (rubrique « Les marchés ») : quatre marchés. Mardi matin, centre-ville, allées Jean-Jaurès, 8 h à 12 h, plus de 200 exposants dont une majorité de non-alimentaire ; vendredi matin, Entressen, place Lou-Blagiaire, 8 h à 12 h 30 ; samedi, marché gourmand, sans produit cité ; un marché de quartier au Prépaou, sans jour ni produit. La page n'affiche pas de date de mise à jour.
+- Office de tourisme (rubrique « Marché des producteurs et artisans locaux ») : la page n'existe plus (404) ; le guide des producteurs en PDF est un document de 2021 dont le texte n'est pas lisible.
+- Recherche web : Domaine des 3B (vente à la ferme le samedi, 9 h à 12 h 30, chemin du Mas d'Amphoux, Entressen) ; Le Potager de Bioval (maraîchage bio, Mas le Vallon, Entressen) ; marché des producteurs d'Entressen, vendredi 17 h à 19 h, parking de la Grange, saison 2026.
+- Registre des entreprises : BIOVAL, active, établissement unique à Mas le Vallon (NAF 01.13Z) ; une entreprise active à l'adresse du Domaine des 3B, au nom d'une personne physique (registre) ; une entité « Le Potager de Bioval » (commerce, NAF 47.21Z) est inscrite à la même adresse, sans établissement ouvert selon le registre : contradiction avec la vente sur place.
+- Registre Agence Bio, paginé par cent : 600 opérateurs lus sur 3 238 annoncés par l’API, sans vérifier que le filtre par département couvre tout le total (lecture partielle) : une entrée de vente directe à Istres (BIOVAL, déjà listée plus haut) ; une grande surface de réseau national (hors périmètre) ; des entrées au nom de personnes physiques à Istres, Entressen et Miramas (écartées sans être nommées, doute sur une personne).
+- BAN : l'adresse du Domaine des 3B (27 chemin du Mas d'Amphoux, 13118 Istres) est géocodée avec un score de 0,97 ; coordonnées `[4.923125, 43.6023]` (lon, lat) à reprendre si la fiche est publiée.
+
+**Pistes non publiées** (anonymes, à reprendre dans Istres) :
+- Istres, Domaine des 3B : vente à la ferme le samedi matin vérifiée par deux sources ; enseigne active au registre à son adresse, mais l'entité juridique est au nom d'une personne physique. Téléphone contradictoire selon les sites. Motif : doute de fait sur les horaires et le téléphone, et entité au nom d'une personne ; la fiche attend avec tout son travail (règle 248).
+- Istres, Le Potager de Bioval (Entressen) : entité active au registre (BIOVAL), maraîchage bio vérifié ; horaires des annuaires (mardi au samedi, avec pause) datant probablement d'avant 2026, à confirmer par téléphone. Motif : fait non confirmé, `a_confirmer` si publiée.
+- Istres, marché d'Entressen : deux horaires contradictoires pour le même marché (vendredi 8 h à 12 h 30 selon la Ville, vendredi 17 h à 19 h selon la presse et le marché de la Grange). Motif : contradiction, règle 5 applicable (publier les deux versions si toutes deux plausibles), mais le marché n'a pas de produit nommé autre que des catégories.
+- Istres, marché du centre-ville : mardi 8 h à 12 h, mais une majorité de non-alimentaire et aucun producteur nommé. Motif : fiche trop générique.
+- Istres, Mas des Pins : vente de colis à la ferme ; entité au registre au nom d'une personne physique, à la même adresse. Motif : doute sur une personne, écartée et non reprise.
+
+**Fiches écartées pour doute sur une personne :** une à Istres (Mas des Pins, passe n° 18), plus les entrées de l'Agence Bio au nom de personnes physiques à Istres, Entressen et Miramas. Aucune n'est nommée.
+
+**Pourquoi rien n'est publié.** Istres rend quatre pistes utilisables, dont deux seulement sont des commerces en vente directe vérifiés par deux sources indépendantes (Domaine des 3B et Le Potager de Bioval). Le marché d'Entressen est contradictoire et le marché centre-ville est trop générique. Une zone à cinq fiches n'est pas atteinte. Une fiche isolée n'est pas une zone (règle 248) : rien n'est publié.
+
+**Points d'arrêt.** Passe suivante, Bouches-du-Rhône : reprendre Istres sur le téléphone du Domaine des 3B et de Le Potager de Bioval (à faire à la main, pas par recherche), trancher la contradiction du marché d'Entressen (règle 5), et chercher deux commerces supplémentaires dans les annuaires Bienvenue à la Ferme ou Chambre d'agriculture. Si Istres ne rend toujours pas cinq fiches, la règle 247 s'applique : passer à la commune suivante de la descente du 13, ou, si Istres reste sous les cinq fiches, descendre à la commune suivante de la règle 41.d.
