@@ -42307,3 +42307,18 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** une (Var, demande #13), commune et catégorie seulement.
 
 **Points d'arrêt.** Passe suivante : Haut-Rhin (68) encore visé faute d'alternative au classement ; en priorité recouper Colmar sur les sites des commerces du registre, puis passer à Mulhouse si Colmar ne rend pas cinq fiches.
+
+## Passe du 24 octobre (autonome, Seine-Maritime visée)
+
+**Secteur.** Calcul de la règle 41 : le déficit le plus fort parmi les départements métropolitains est le 76 (4,66), devant le 31 (4,61) et le 68 (4,46), mais le 68 vient d'être visé la veille. Les départements ultramarins (974, 971, 972…) sont en tête mais refusés par le contrôle de construction (règle 93), donc non éligibles. Le 76 est retenu. Commune la plus peuplée sans aucune fiche : **Dieppe** (28 496 habitants ; Le Havre et Rouen ont déjà des fiches).
+
+**Publié (2).**
+- **Marché de Dieppe** (place Nationale), marché alimentaire du samedi matin et petit marché du mardi et du jeudi : office de tourisme Dieppe-Maritime (jours et horaires), géocodage BAN. `a_confirmer` : le même office écrit que l'alimentaire se tient surtout dans la Grande Rue, alors que le registre d'un annuaire régional parle de la place Nationale. Photo : celle de l'office de tourisme, recadrée à 1280 px.
+- **Ferme Les Prés d'Artemare** (Saint-Vaast-Dieppedalle) : registre Agence Bio (exploitation en GAEC, production laitière et viande bovine) et fiche de la région Normandie Tourisme (marché à la ferme chaque vendredi, 16h à 19h). Photo : celle de la ferme, sur la fiche régionale. `a_confirmer` : horaires déduits d'une fiche d'événement, pas du site de la ferme, qui n'a pas été trouvé.
+
+**Pistes non publiées.**
+- Dieppe, magasin bio : deux annuaires participatifs donnent des horaires contradictoires, aucun téléphone vérifié, pas de site du commerce. Motif : faits non confirmés.
+- Dieppe, épicerie participative : une seule source (carte d'un magazine de consommateurs), horaires de plus d'un créneau, aucune photo utilisable. Motif : source unique, pas d'image.
+- Dieppe et Neuville-lès-Dieppe, marchés du mercredi et du jeudi : l'office de tourisme ne donne que le jour, l'heure et le lieu, aucun produit vérifié. Motif : fiche incomplète.
+
+**Points d'arrêt.** Cinq fiches n'ont pas été atteintes : la commune ne rend que deux fiches vérifiables. La règle de descente (commune suivante par population) n'a pas été appliquée pendant cette passe ; à reprendre à la passe suivante sur Dieppe, en cherchant les produits des marchés et une photo pour l'épicerie participative. Le brochure « Commerces » de la Côte d'Albâtre (2026) n'a pas pu être lue (PDF non exploitable par l'outil disponible).

@@ -34159,5 +34159,55 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Douz%27Ar%C3%B4mes%20La%20Brandais%20Betton",
     "image_url": "/images/marchands/douz-aromes-betton.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-de-dieppe-place-nationale",
+    "nom": "Marché de Dieppe",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.926502,
+    "lon": 1.078298,
+    "adresse": "Place Nationale, 76200 Dieppe",
+    "horaires": "Samedi, 8h30 à 13h : grand marché alimentaire et commerçants ambulants (Grande Rue, Place Nationale, rue Saint-Jacques, rue de la Barre). Samedi, 13h à 17h : commerçants ambulants seulement. Mardi et jeudi, 8h30 à 12h30 : petit marché alimentaire sur la Place Nationale.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Fromages et beurre de producteurs",
+      "Œufs et volailles fermiers",
+      "Miel et produits de la ruche",
+      "Cidre et bières artisanales normandes",
+      "Cresson de Clères"
+    ],
+    "description": "Marché du centre-ville de Dieppe, qui se tient chaque samedi matin dans les rues piétonnes. Les producteurs de la région y côtoient des commerçants ambulants. L'office de tourisme Dieppe-Maritime en donne les jours et les emplacements.",
+    "site_web": "https://uk.dieppetourisme.com/stay/markets-local-flavours/local-markets/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+de+Dieppe+Place+Nationale",
+    "image_url": "/images/marchands/marche-de-dieppe-place-nationale.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "ferme-les-pres-dartemare",
+    "nom": "Ferme Les Prés d'Artemare",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 49.767869,
+    "lon": 0.732288,
+    "adresse": "308 impasse d'Artemare, 76450 Saint-Vaast-Dieppedalle",
+    "horaires": "Marché à la ferme tous les vendredis de 16h à 19h, du 1er février au 31 décembre ; entrée libre. Horaires d'accueil du reste de la semaine non publiés.",
+    "produits": [
+      "Lait de vache",
+      "Fromages",
+      "Yaourts",
+      "Beurre",
+      "Viande bovine",
+      "Pommes et poires"
+    ],
+    "description": "Exploitation agricole en GAEC, inscrite au registre de l'Agence Bio, qui accueille chaque vendredi après-midi un marché de producteurs locaux à la ferme.",
+    "image_url": "/images/marchands/ferme-les-pres-dartemare.jpg",
+    "a_confirmer": true
   }
 ]
