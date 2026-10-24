@@ -42620,3 +42620,13 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 - Caluire-et-Cuire, une entreprise individuelle de vente aux particuliers, au registre Agence Bio : nom patronymique, pas une enseigne. Motif : donnée personnelle, écartée et non reprise.
 
 **Points d'arrêt.** Passe suivante dans le Rhône : chercher une photo utilisable du marché de Montessuy (fiche de l'office de tourisme de Lyon, photo de la Ville, ou photo thématique honnête si elle existe), et chercher le téléphone et le site des deux magasins bio sur leur propre site. Si Caluire ne rend toujours rien, la règle 247 s'appliquera après la douzième commune éprouvée dans le Rhône (quatre à ce jour), ou descendre à Bron puis Meyzieu.
+
+### Passe autonome du 24 octobre 2026 (quinzième) : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), 1 296 fiches, populations `geo.api.gouv.fr`. Le déficit le plus fort est le Nord (59, 6,2), mais il a été éprouvé commune par commune sur plusieurs passes (Wattrelos, Marcq-en-Barœul, Cambrai, Halluin, Mons-en-Barœul) sans fiche publiée : la règle 247 le ferme. Suivants : Bouches-du-Rhône (13, 5,9) et Haut-Rhin (68, 5,1). Le 68 a été repris aux passes du 14 et du 21 octobre, sans publication, et Mulhouse, sa commune la plus peuplée, porte déjà trois fiches. Le 13 n'a pas été repris cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes. Les passes récentes ne trouvent plus de zone à cinq fiches dans les départements en tête de la formule : la descente de la règle 41.d s'épuise avant d'atteindre une zone publiable.
+
+**Points d'arrêt.** Passe suivante : éprouver le 13 (Bouches-du-Rhône) en commençant par la commune la plus peuplée sans fiche, avec le registre Agence Bio et les sites des marchés municipaux. Si le 13 se ferme aussi, la formule ne suffit plus à désigner une zone publiable : le point est à porter au responsable du site.
