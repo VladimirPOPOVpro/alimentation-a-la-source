@@ -42338,3 +42338,28 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** une (Kingersheim, catégorie non retenue). Elle ne se rouvre pas.
 
 **Points d'arrêt.** Le Haut-Rhin a été visité à plusieurs passes sans fiche publiée. Une passe suivante ne peut pas viser le 68 par la seule formule sans une nouvelle source : Bienvenue à la Ferme 68, marchés de producteurs de la Chambre d'agriculture, ou les sites des mairies de Riquewihr et d'Altkirch, à lire en premier.
+
+### Passe autonome du 24 octobre 2026, troisième (Isère (38) reprise, Saint-Égrève relue : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : son nom et son contact privé pourraient désigner une personne, doute retenu, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177 ; outre-mer écarté par le garde-fou de `lib/validateMerchants.ts`), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Haut-Rhin (région 44) : cette région est exclue (règle 41.c). Haute-Garonne (31) close par la règle 247, Seine-Maritime (76) close, Nord (59) et Bouches-du-Rhône (13) éprouvés. **Isère (38) retenue** : déficit ≈ 4,4, région 84, pas visitée depuis le 19 octobre.
+
+**Commune, règle 41.d.** Saint-Égrève (17 986 hab.) reste la commune la plus peuplée sans fiche de la descente isèroise, après Vienne, Bourgoin-Jallieu, Fontaine, Voiron, Villefontaine, Meylan, Seyssinet-Pariset et L'Isle-d'Abeau, déjà éprouvées sans succès.
+
+**Ce qui a été lu.**
+- Agenda régional 2026 : un marché de producteurs à Saint-Égrève, le jeudi de 16 h à 19 h (date citée : 8 octobre 2026).
+- Document municipal de 2020 (supplément « commerces ») : même créneau du jeudi, plus un marché du samedi de 8 h à 12 h. Document ancien, donc non retenu comme source actuelle.
+- Site de la Ville de Saint-Égrève (`saint-egreve.fr`) : répond 503 depuis cet environnement. Annuaire Bienvenue à la Ferme (Isère) : répond 403. Déblocage **non obtenu**.
+- Recherche web Meylan : un marché de producteurs sur la place Louisiane, cinq jours par semaine, jours et horaires non précisés. Villefontaine : rien de pertinent.
+
+**Pourquoi rien n'est publié.** Une seule source à jour (l'agenda) pour le jeudi, et la source officielle contredit le samedi ; le site de la Ville est injoignable. Une fiche de marché isolée ne forme pas une zone (règle 52) et aucune ferme de Saint-Égrève n'a de vente directe confirmée par une source actuelle.
+
+**Pistes non publiées** (anonymes) :
+- Saint-Égrève, marché de producteurs du jeudi : **Déblocage** : une page de la Ville à jour, ou une seconde source 2026 sur les horaires.
+- Saint-Égrève, marché du samedi matin (source 2020 seule) : **Déblocage** : confirmation par la Ville.
+- Meylan, marché de la place Louisiane : **Déblocage** : jours et horaires publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne :** plusieurs entrées de vente aux particuliers au nom de personnes physiques (Isère, commune et catégorie seulement), non nommées, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c). Le classement suivant est la Bouches-du-Rhône (13), puis le Rhône (69). Revenir à Saint-Égrève seulement si le site de la Ville répond et publie son marché.
