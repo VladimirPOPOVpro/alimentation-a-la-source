@@ -42704,3 +42704,17 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pourquoi rien n'est publié.** Istres rend quatre pistes utilisables, dont deux seulement sont des commerces en vente directe vérifiés par deux sources indépendantes (Domaine des 3B et Le Potager de Bioval). Le marché d'Entressen est contradictoire et le marché centre-ville est trop générique. Une zone à cinq fiches n'est pas atteinte. Une fiche isolée n'est pas une zone (règle 248) : rien n'est publié.
 
 **Points d'arrêt.** Passe suivante, Bouches-du-Rhône : reprendre Istres sur le téléphone du Domaine des 3B et de Le Potager de Bioval (à faire à la main, pas par recherche), trancher la contradiction du marché d'Entressen (règle 5), et chercher deux commerces supplémentaires dans les annuaires Bienvenue à la Ferme ou Chambre d'agriculture. Si Istres ne rend toujours pas cinq fiches, la règle 247 s'applique : passer à la commune suivante de la descente du 13, ou, si Istres reste sous les cinq fiches, descendre à la commune suivante de la règle 41.d.
+
+### Passe autonome du 24 octobre 2026 (dix-neuvième) : Istres (13) reprise, aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var) reste `en_cours`, inchangée : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur.** Pas de changement : Istres reste la commune éprouvée du 13 (point d'arrêt de la passe 18).
+
+**Sources complémentaires lues.** Recherche web sur le réseau Bienvenue à la Ferme et sur les marchés d'Istres : aucun producteur à Istres identifié dans le réseau ; l'office de tourisme donne le marché du mardi matin (généraliste, déjà écarté) et « L'Instant Provençal » (sans produit sourcé) ; le marché de producteurs d'Entressen (vendredi) n'a pas d'annonce 2026 trouvée. Aucune source nouvelle n'a levé les contradictions de la passe 18.
+
+**Pourquoi rien n'est publié.** Les pistes restent celles de la passe 18 : une fiche isolée n'est pas une zone, et les horaires contradictoires ne se tranchent pas par une recherche web. Le téléphone ou la lecture directe des pages de la Ville restent nécessaires.
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
+
+**Points d'arrêt.** Passe suivante : reprendre Istres par téléphone ou sur les pages directes de la Ville et de l'office, puis chercher deux commerces dans les annuaires Bienvenue à la Ferme ou Chambre d'agriculture. Sans cinq fiches vérifiées, appliquer la règle 247.
