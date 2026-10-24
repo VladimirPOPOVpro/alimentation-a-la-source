@@ -42739,3 +42739,29 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pourquoi rien n'est publié.** Aucune piste à Istres ne rend deux commerces vérifiables et indépendants à la fois : les vendeurs en vente directe sont adossés à des personnes physiques au registre, les marchés ont des horaires contradictoires, et les annuaires officiels (Bienvenue à la Ferme) sont indisponibles. Une zone à cinq fiches n'est pas atteinte (règle 248).
 
 **Points d'arrêt.** Istres ne progresse plus sur les sources web : la règle 247 s'applique. Passe suivante : soit la lecture directe (téléphone de l'office de tourisme, 04 42 81 76 00) pour trancher le marché d'Entressen et l'horaire 2026, soit descendre à la commune suivante de la descente du 13 (règle 41.d), avec cinq commerces à chercher dans l'annuaire Chambre d'agriculture.
+
+### Passe autonome du 24 octobre 2026 (vingt-et-unième) : Isère (38) reprise, Échirolles sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Bouches-du-Rhône (région 93) : cette région est exclue (règle 41.c). Nord (59) et Haute-Garonne (31) closes, Haut-Rhin (68) éprouvé (règle 247), Bouches-du-Rhône exclu. **Isère (38, région 84) retenue** : déficit ≈ 4,4, dernière visite à la troisième passe du jour, donc hors règle 41.c.
+
+**Commune, règle 41.d.** Échirolles (plus de 36 000 hab.) est la commune la plus peuplée sans fiche qui reste de la descente isèroise, après Saint-Égrève (neuf communes éprouvées au total, bornes de la règle 247 non atteinte : trois communes restent possibles).
+
+**Ce qui a été lu.**
+- Site de la Ville d'Échirolles, rubrique marchés : quatre marchés, dont les Halles du Vieux Village ; l'événement de l'agenda municipal donne le samedi de 7 h à 14 h.
+- Métropole de Grenoble, fiche « Marché Échirolles - Halles du Vieux Village » : samedi de 8 h à 13 h 30. Contradiction directe avec la Ville sur l'horaire.
+- Annuaires agrégés (annuaire-mairie, cacaoapp, jours-de-marche, lemarchelocal) : repris, horaires divergents, aucun ne cite de source datée.
+- Message public de la Ville relayé sur Facebook : annulation d'un marché du centre-ville en octobre 2026 : le marché de la semaine n'est donc pas assuré.
+- Bienvenue à la Ferme (Isère) : non relu cette passe (erreur 403 relevée lors des passes précédentes).
+
+**Pourquoi rien n'est publié.** Le marché principal a deux horaires contradictoires (règle 5 : on ne publie pas le fait contesté) et une annulation récente sans horaire de reprise. Les vendeurs en vente directe qui ressortent des annuaires sont adossés à des personnes physiques au registre : écartés pour doute sur une personne. Une fiche de marché isolée ne forme pas une zone (règle 52).
+
+**Pistes non publiées** (anonymes, Isère) :
+- Échirolles, Halles du Vieux Village, samedi matin : **Déblocage** : horaire confirmé par une seule source de la Ville.
+- Échirolles, marché de la Ponatière, dimanche matin (horaire 7 h à 14 h, source Ville) : **Déblocage** : une seconde source 2026 et une adresse de marché vérifiée.
+- Échirolles, vendeurs en vente directe au nom de personnes physiques : écartés, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne :** plusieurs entrées de vente directe à Échirolles (commune et catégorie seulement), non nommées.
+
+**Points d'arrêt.** Passe suivante : Isère (38) reste éligible (dernière visite plus ancienne que la précédente). Descente à poursuivre à la commune suivante (Saint-Martin-d'Hères ou Pont-de-Claix, selon la population à jour), puisque Échirolles est éprouvée. Les déblocages ci-dessus ne se rouvrent qu'avec une source de la Ville à jour. Si l'Isère rend encore zéro fiche au douzième commune, appliquer la règle 247 et passer au département suivant du classement.
