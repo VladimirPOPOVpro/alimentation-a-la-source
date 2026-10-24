@@ -42474,3 +42474,25 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pourquoi rien n'est publié.** Deux commerces vérifiables sur les cinq requis. La règle 248 demande de descendre à la commune suivante ; Muret n'a pas été lue cette passe.
 
 **Pistes non publiées** (anonymes) : Blagnac, deux enseignes actives au registre sans source de vente directe lue à ce jour (marché ou magasin à confirmer auprès de la Ville) ; Blagnac, un marché de producteurs de 2015 à reconfirmer.
+
+### Passe autonome du 24 octobre 2026 (neuvième) : Haute-Garonne (31) reprise, Muret sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Haute-Garonne (31) reprise, classement de la passe précédente inchangé. Commune suivante à sonder après Blagnac : **Muret** (population non relue dans cette passe).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 31 : cinq entrées à Muret, aucune en vente aux particuliers.
+- Recherche web : une AMAP muretaine, hébergée par Biovercité, distribution les jeudis à partir de 18 h 30, six producteurs annoncés. Le site de Biovercité la confirme ; l'annuaire Avenir Bio la mentionne aussi, avec le même créneau. Une seule AMAP vérifiée sur deux sources indépendantes.
+- Autres pistes trouvées par recherche web, toutes non confirmées : un marché à la ferme de Moulas (mercredi, 10 h à 13 h) relevé sur un annuaire de relais, une micro-ferme de maraîchage bio à Frouzins (commune voisine, hors Muret), un groupe AMAP « Les Poulets de Muret » rattaché à un site extérieur.
+- Site de l'office de tourisme du Muretain Agglo : la page producteurs renvoie 404 depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Une seule fiche vérifiée (une AMAP à distribution hebdomadaire) ne forme pas une zone (règle 52) et n'atteint pas le minimum de cinq commerces. Le courriel de contact de l'AMAP reste privé et n'est pas repris. La règle 248 demande de descendre à la commune suivante : la commune suivante par population reste à établir depuis `geo.api.gouv.fr`, à sonder en passe suivante.
+
+**Pistes non publiées** (anonymes) :
+- Muret, AMAP hébergée par Biovercité (jeudi, 18 h 30) : **Déblocage** : une seconde AMAP ou un marché vérifié à Muret pour former une zone de cinq commerces.
+- Muret, marché à la ferme de Moulas (mercredi matin) : **Déblocage** : confirmation par la commune ou par le producteur.
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
+
+**Points d'arrêt.** Passe suivante en Haute-Garonne : établir la commune suivante par population, puis reprendre Muret avec l'office de tourisme ou la commune, si elle est joignable. Si le 31 ne rend toujours pas cinq commerces, appliquer la règle 247.
