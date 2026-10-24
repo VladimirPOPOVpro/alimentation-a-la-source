@@ -42781,3 +42781,17 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Point d'arrêt.** Le classement renvoie depuis plusieurs passes des départements déjà éprouvés sans nouvelle source. Passe utile suivante : une source non encore consultée (site officiel de marchés de commune moyenne, registre local de producteurs), ou une décision explicite du responsable du site sur la règle 247.
+
+### Passe autonome du 25 octobre 2026 (Eure-et-Loir (28) visé, Dreux et Vernouillet relues : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée (doute sur une personne : rien n'est publié).
+
+**Secteur, règle 41.** Métropole seule. Le classement par déficit donne Haute-Garonne (31), Haut-Rhin (68), Isère (38), Bouches-du-Rhône (13) et Nord (59) en tête, tous déjà visés ou clos aux passes précédentes (règle 41.c). Le Val-de-Marne (94) a été retenu la passe précédente, et le Calvados (14), la Loire (42), la Savoie (73), la Haute-Corse (2B) et l'Hérault (34) ont déjà été instruits. Retenu : l'Eure-et-Loir (28), déficit d'environ 3,1 pour cinq fiches actuelles, sur les fiches de Chartres et de Châteaudun seules.
+
+**Commune.** Dreux (31 543 habitants) est la plus peuplée sans fiche. Le site de la Ville et celui de l'agglomération ne répondent pas, et l'office de tourisme du Pays de Dreux refuse le robot (déjà consigné, règles 70 et 257). Vernouillet (12 310) n'a qu'un annuaire privé (règle 56). Lucé (15 921) et Nogent-le-Rotrou (9 292) n'ont aucun opérateur déclaré en vente aux particuliers au registre Agence Bio, hormis une personne physique écartée (aucun nom repris, la donnée n'est pas publiable). Luisant et Épernon n'ont pas de source indépendante retenue.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente n'atteint cinq commerces vérifiés sur deux sources indépendantes (règle 52).
+
+**Pistes non publiées (anonymes).** Eure-et-Loir : une piste de vente à la ferme à Nogent-le-Rotrou, une personne physique au registre, écartée pour doute sur une personne.
+
+**Point d'arrêt.** Le classement renvoie encore des départements déjà éprouvés. Le besoin est une décision explicite du responsable du site sur l'ordre des secteurs, ou une source nouvelle (registre local de producteurs, annuaire de la chambre d'agriculture d'Eure-et-Loir).
