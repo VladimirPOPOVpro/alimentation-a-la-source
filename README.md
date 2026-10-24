@@ -42414,3 +42414,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** aucune dans cette passe.
 
 **Points d'arrêt.** La descente de la règle 41.d en Seine-Saint-Denis se poursuit à Montreuil et à Saint-Denis, déjà visitées pour d'autres fiches, puis Bobigny ou Noisy-le-Grand à nouveau si la Ville publie la liste de ses producteurs. Passe suivante : regarder d'abord les pistes ci-dessus, puis le classement de la règle 41 pour un autre département si le 93 n'offre toujours rien.
+
+### Passe autonome du 24 octobre 2026 (sixième) : Rhône (69) repris, Saint-Priest et Caluire-et-Cuire sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule, outre-mer exclu (règle 177 et garde-fou de `lib/validateMerchants.ts`), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Saint-Denis (93, région 11) : cette région est exclue (règle 41.c). Nord (59), Bouches-du-Rhône (13), Haute-Garonne (31), Isère (38) et Haut-Rhin (68) restent éprouvés ou clos (règle 247). **Rhône (69) retenu** : déficit ≈ 4,5, région 84 différente de la passe précédente.
+
+**Commune, règle 41.d et descente.** Lyon, Villeurbanne et Vénissieux portent déjà des fiches ; Vaulx-en-Velin (53 069 hab.) est éprouvée sans déblocage. Descente à **Saint-Priest** (49 229 hab.), puis **Caluire-et-Cuire** (43 597 hab.).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 69, première page relue : les entrées de Saint-Priest sont des grossistes, des transformateurs ou des établissements sans vente aux particuliers. Aucune exploitation en vente directe retenue.
+- Recherche web Saint-Priest (marché, ferme, circuit court) : aucun résultat relatif à Saint-Priest (Rhône). Le site de la Ville ne résout pas depuis cet environnement.
+- Recherche web Caluire-et-Cuire : un annuaire de marchés mentionne un marché hebdomadaire le jeudi et le samedi matin (allée de la Jeunesse, Montessuy) ; l'information vient d'un annuaire non officiel et d'une page touristique datée de 2019. Le site de la Ville répond (HTTP 200) mais le contenu marché n'a pas été extrait cette passe.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes à jour. Une piste de marché isolée, sans producteur nommé ni produit vérifié, ne forme pas une zone (règles 52 et 127).
+
+**Pistes non publiées** (anonymes) :
+- Caluire-et-Cuire, marché de Montessuy (jeudi et samedi matin) : **Déblocage** : page de marché du site de la Ville à jour, avec les producteurs présents.
+- Saint-Priest : aucune piste exploitable. **Déblocage** : site de la Ville joignable, ou annuaire Bienvenue à la Ferme du Rhône.
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
+
+**Points d'arrêt.** Passe suivante dans le Rhône : lire le site de la Ville de Caluire-et-Cuire (rubrique marchés) puis Saint-Priest ; si le Rhône ne rend rien, passer au classement suivant (Oise, 60, ou Savoie, 73), en veillant à la règle 41.c.
