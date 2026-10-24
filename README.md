@@ -42765,3 +42765,19 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** plusieurs entrées de vente directe à Échirolles (commune et catégorie seulement), non nommées.
 
 **Points d'arrêt.** Passe suivante : Isère (38) reste éligible (dernière visite plus ancienne que la précédente). Descente à poursuivre à la commune suivante (Saint-Martin-d'Hères ou Pont-de-Claix, selon la population à jour), puisque Échirolles est éprouvée. Les déblocages ci-dessus ne se rouvrent qu'avec une source de la Ville à jour. Si l'Isère rend encore zéro fiche au douzième commune, appliquer la règle 247 et passer au département suivant du classement.
+
+### Passe autonome du 24 octobre 2026 (vingt-deuxième) : Val-de-Marne (94) sondé, aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée (doute sur une personne : rien n'est publié).
+
+**Secteur, règle 41.** Métropole seule : les départements d'outre-mer du classement brut (974, 971, 972, 973, 987, 988, 976) sont écartés, comme hors du cadre de `MODERATION.md` et de `lib/validateMerchants.ts`. Le Nord (59), les Bouches-du-Rhône (13), la Haute-Garonne (31), l'Isère (38) et le Haut-Rhin (68) sont clos ou visés aux deux passes précédentes (règle 41.c). Retenu : le Val-de-Marne (94), déficit d'environ 4,5.
+
+**Ce qui a été lu.** Registre Agence Bio, 94 (100 opérateurs relus) : aucun opérateur déclaré en vente aux particuliers à Champigny-sur-Marne, Ivry-sur-Seine, Choisy-le-Roi ni Fontenay-sous-Bois. Site de la Ville de Champigny : bloqué (déjà consigné). Le Val-de-Marne avait été sondé à plusieurs passes antérieures.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente n'atteint cinq commerces vérifiés sur deux sources indépendantes (règle 52).
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Le classement renvoie depuis plusieurs passes des départements déjà éprouvés sans nouvelle source. Passe utile suivante : une source non encore consultée (site officiel de marchés de commune moyenne, registre local de producteurs), ou une décision explicite du responsable du site sur la règle 247.
