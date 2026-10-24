@@ -42568,3 +42568,34 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Points d'arrêt.** Passe suivante, hors Occitanie (règle 41.c) : Rhône, reprendre Meyzieu (mairie) et Caluire-et-Cuire quand le site de la Ville répond. Si le Rhône ne rend toujours pas cinq commerces, appliquer la règle 247 et descendre au département suivant par déficit.
+
+### Passe autonome du 24 octobre 2026 (treizième) : Haute-Garonne (31) reprise, Balma sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : rien publié, rien répondu. Ses coordonnées restent privées.
+
+**Secteur, règle 41.** Métropole seule (règle 177), populations `geo.api.gouv.fr`, 1 296 fiches. La passe précédente visait le Rhône (84) : cette région est exclue par la règle 41.c. Nord (59) et Bouches-du-Rhône (13), en tête du calcul, restent clos (règle 247, passes antérieures). **Haute-Garonne (31, Occitanie) retenue** : déficit ≈ 5,8 sur le calcul métropolitain, premier département éligible. Le 31 n'a pas été visé deux passes de suite (passe 11, puis passe 12 dans le Rhône).
+
+**Commune, règle 41.d et descente.** Blagnac, Muret et Plaisance-du-Touch sont sondées sans fiche (passes huit à onze). La commune la plus peuplée du 31 sans fiche est **Balma** (17 772 hab.), point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 31 (2 838 opérateurs, pagination complète par cent) : dix-huit entrées à Balma. Quatre sont en vente aux particuliers ou en vente de détail ; une est une grande surface (écartée), une est une entreprise à Pin-Balma, commune distincte (écartée), une est une maison de vin dont aucun lieu de vente à Balma n'a pu être trouvé (écartée faute de lieu de vente). Les autres entrées sont en vente de gros, sans vente au public, ou au nom de personnes physiques : non reprises.
+- **Site officiel de la Ville de Balma**, rubrique « Marché de plein vent » (lu en entier) : marché de plein vent avenue des Mimosas, horaires mercredi et samedi de 8 h à 12 h, un marché biologique le samedi jusqu'à 13 h, au-dessus du marché traditionnel. Le même texte dit « mardis et samedis » : **contradiction** consignée (règle 5). Le numéro de contact publié par la Ville est un portable : non repris, le numéro pourrait désigner une personne (règle des données personnelles).
+- Guide des commerçants de la Ville (2021, PDF non joignable depuis cet environnement) : sert de piste seulement.
+- Annuaire de contacts de la Ville : liste de services, pas de filtre alimentation lisible depuis cet environnement.
+- Aggregateur de producteurs (justacote) et guide de 2015 : trois AMAP à l'adresse de distribution avenue Saint-Martin-de-Boville à Balma (Le Verdier, Pichauriol, Amapapille). Source unique et ancienne : aucune page propre de l'AMAP ou du réseau régional n'a pu être lue. Non publiées.
+- Épicerie fine et primeur de la rue Le Corbusier (horaires publiés par un annuaire, rayon régional) : catégorie absente de `lib/types.ts` et source unique : non publiée.
+- Boucherie-charcuterie de l'avenue des Aérostiers vendant des produits de petits producteurs : catégorie « boucherie » absente de la liste (règle 4) : non retenue.
+
+**Pourquoi rien n'est publié.** Un marché officiel vérifiable (une fiche, deux horaires contradictoires), et aucune autre fiche entière dans la commune : trois AMAP sur source unique, une épicerie hors catégorie. Une fiche isolée ne forme pas une zone (règles 52 et 127). Balma reste ouverte, sans être close.
+
+**Contradictions consignées** (règle 5) : jours du marché de plein vent de Balma (mardi et samedi dans le texte de la page, mercredi et samedi dans les horaires de la même page et dans le guide de 2021).
+
+**Pistes non publiées** (anonymes) :
+- Balma, marché de plein vent avenue des Mimosas (site officiel, mercredi et samedi) : **Déblocage** : trancher le jour (mairie ou sur place) et réunir cinq commerces vérifiés dans la commune.
+- Balma, trois AMAP à l'adresse de distribution avenue Saint-Martin-de-Boville : **Déblocage** : une page propre à l'AMAP ou au réseau régional Occitanie, datée de 2026.
+- Balma, épicerie fine et primeur de la rue Le Corbusier : **Déblocage** : catégorie tranchée par la règle 4 et un site ou un registre lisible.
+- Balma, boucherie-charcuterie de l'avenue des Aérostiers : **Déblocage** : aucun, catégorie absente de la liste.
+
+**Fiches écartées pour doute sur une personne :** deux entrées du registre Agence Bio à Balma, en vente de gros, portant un nom de personne physique : hors sujet pour la vente au public, non reprises ; une entrée de la Ville (numéro de contact du marché) non reprise par précaution. Ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante, Haute-Garonne toujours : Balma ouverte (règle 247 : descente au-delà de douze communes éprouvées). Reprendre l'AMAP sur une source propre et le jour du marché auprès de la mairie. Si Balma ne rend pas cinq commerces, descendre à la commune suivante par population sans fiche : Cugnaux (20 662 hab.) a déjà deux fiches, donc Saint-Jean ou Castanet-Tolosan selon les populations à vérifier.
