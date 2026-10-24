@@ -42652,3 +42652,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes. Les sites des marchés et de la Ville d'Aubagne n'ont pas encore été lus dans cette passe.
 
 **Points d'arrêt.** Passe suivante : lire la rubrique marchés du site de la Ville d'Aubagne et l'office de tourisme du Pays d'Aubagne et de l'Étoile ; puis, si cinq commerces restent introuvables, appliquer la règle 247 et descendre à Istres (44 292 hab., sans fiche) avec la même méthode.
+
+### Passe autonome du 24 octobre 2026 (dix-septième) : Bouches-du-Rhône (13) reprise, Aubagne épuisée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), 1 296 fiches, populations `geo.api.gouv.fr`. Classement : Haute-Garonne (31, 4,66), Haut-Rhin (68, 4,49), Isère (38, 4,42), Bouches-du-Rhône (13, 4,24), Nord (59, 4,16). Le 31 et le 68 sont éprouvés sur plusieurs passes, sans publication. Le 13 est repris, conformément au point d'arrêt de la passe 16.
+
+**Commune, règle 41.d.** Aubagne (47 529 hab.), la plus peuplée du 13 sans fiche, reprise comme prévu.
+
+**Sources lues.**
+- Site officiel de la Ville, rubrique « Les marchés provençaux » : deux marchés, le Marché alimentaire (esplanade de Gaulle) et le Marché textile (cours Foch), avec jours et horaires (mardi, jeudi, samedi, dimanche, 8 h à 13 h). La page ne nomme **aucun producteur** et ne cite des produits qu'en termes génériques (tomates, olives, fromage de chèvre, socca, nougat). Pas de photo exploitable sur la page.
+- Annuaire des commerces et artisans de la Ville (57 entrées lues) : aucun producteur ni magasin de produits fermiers ou bio, hormis une cave à vins et spiritueux dont aucune vente de production locale n'est vérifiée.
+- Office de tourisme du Pays d'Aubagne : domaines injoignables pendant la passe (pas de réponse à trois adresses testées). Non lu.
+- Registre Agence Bio, Aubagne : déjà lu à la passe 16 (sans entreprise à vente directe vérifiable).
+
+**Pistes non publiées.**
+- Aubagne, Marché alimentaire : jours et horaires vérifiés (Ville), produits sans producteur nommé, aucune photo. Motif : fiche incomplète, produits génériques.
+- Aubagne, Marché textile : hors sujet (vente de textile, pas de produits alimentaires en circuit court). Motif : hors périmètre.
+- Aubagne, cave à vins de l'annuaire municipal : aucune vente de production locale vérifiée, téléphone et site non confirmés. Motif : faits non confirmés.
+
+**Pourquoi rien n'est publié.** Aubagne ne rend pas cinq commerces vérifiables : un seul marché alimentaire, sans producteur identifié ni photo. La règle 247 s'applique : Aubagne est éprouvée, et le 13 a une commune de plus.
+
+**Points d'arrêt.** Passe suivante, Bouches-du-Rhône : descendre à Istres (44 292 hab., sans fiche), en commençant par la rubrique marchés du site de la Ville et l'annuaire municipal. Reprendre l'office de tourisme du Pays d'Aubagne et de l'Étoile à la prochaine occasion, quand le domaine répond.
