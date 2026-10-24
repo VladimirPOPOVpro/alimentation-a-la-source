@@ -42795,3 +42795,24 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pistes non publiées (anonymes).** Eure-et-Loir : une piste de vente à la ferme à Nogent-le-Rotrou, une personne physique au registre, écartée pour doute sur une personne.
 
 **Point d'arrêt.** Le classement renvoie encore des départements déjà éprouvés. Le besoin est une décision explicite du responsable du site sur l'ordre des secteurs, ou une source nouvelle (registre local de producteurs, annuaire de la chambre d'agriculture d'Eure-et-Loir).
+
+### Passe autonome du 25 octobre 2026 (Oise (60) reprise, Nogent-sur-Oise sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Villecroze, Var) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule (outre-mer exclu), populations `geo.api.gouv.fr` (34 969 communes), 1 296 fiches comptées sur le code postal du champ `adresse`. Le classement par déficit place en tête la Haute-Garonne (31), le Haut-Rhin (68), l'Isère (38), les Bouches-du-Rhône (13) et le Nord (59), tous déjà visés ou clos (règle 41.c). **Oise (60, Hauts-de-France) retenue** : sa région n'a été visée ni à la passe précédente (Val-de-Marne, Île-de-France) ni à celle d'avant (Eure-et-Loir, Centre-Val de Loire).
+
+**Commune, règle 41.d.** Nogent-sur-Oise (21 907 habitants) : la plus peuplée de l'Oise sans fiche. Beauvais, Compiègne et Creil en ont déjà.
+
+**Ce qui a été lu.**
+- Site de la Ville de Nogent-sur-Oise : aucune réponse depuis cet environnement (déjà consigné, règle 212).
+- Office de tourisme de l'Oise : aucune réponse.
+- Registre Agence Bio, Oise : 612 opérateurs relus sur sept pages de cent. Pour Nogent-sur-Oise, un seul opérateur déclare la vente aux particuliers, sous un nom de personne : écarté pour doute sur une personne. Les autres entrées (grande surface, boulangerie, charcuterie) ne vendent pas aux particuliers.
+
+**Pourquoi rien n'est publié.** Nogent-sur-Oise ne rend aucun commerce vérifiable sur deux sources indépendantes, et une zone de cinq fiches n'est pas atteinte (règle 52).
+
+**Pistes non publiées (anonymes, Oise).** Nogent-sur-Oise : un opérateur bio en vente aux particuliers, inscrit sous un nom de personne. Écarté ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Nogent-sur-Oise), sans nom consigné.
+
+**Points d'arrêt.** L'Oise reste ouverte, mais sa descente bute sur des sources injoignables (site de la Ville, office de tourisme). Passe suivante : la commune suivante par population sans fiche (Senlis, 15 157 habitants) sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Le classement renvoie depuis plusieurs passes les mêmes départements ; une source nouvelle ou une décision du responsable du site sur l'ordre des secteurs débloquerait la suite.
