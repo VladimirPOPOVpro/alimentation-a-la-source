@@ -42496,3 +42496,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
 
 **Points d'arrêt.** Passe suivante en Haute-Garonne : établir la commune suivante par population, puis reprendre Muret avec l'office de tourisme ou la commune, si elle est joignable. Si le 31 ne rend toujours pas cinq commerces, appliquer la règle 247.
+
+### Passe autonome du 24 octobre 2026 (dixième) : Rhône (69) repris, Caluire-et-Cuire sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31, Occitanie) : cette région est exclue par la règle 41.c. Nord (59), Bouches-du-Rhône (13), Isère (38), Seine-Maritime (76) et Haute-Garonne (31) restent clos ou éprouvés (règle 247). **Rhône (69, Auvergne-Rhône-Alpes) retenu** : déficit ≈ 4,50, ouvert à nouveau (la passe n° 6 le visait il y a quatre passes, la règle 41.c ne joue pas).
+
+**Commune, règle 41.d et descente.** Lyon, Villeurbanne et Vénissieux portent déjà des fiches ; Vaulx-en-Velin (éprouvée) et Saint-Priest (sondée à la passe n° 6) sont sans déblocage. Descente à **Caluire-et-Cuire** (43 597 hab.), la commune suivante.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 69 (700 opérateurs relus, pagination complète par cent) : à Caluire-et-Cuire, quatre entrées. Une entreprise de préparation sans vente au public ; une entrée de commune (production, restauration collective, non commerciale) ; une entrée en vente aux particuliers désignée par le nom d'un exploitant, écartée pour doute sur une personne (voir ci-dessous) ; une entrée en vente aux particuliers, enseigne de magasin bio coopératif, active au registre des entreprises (siège et lieu de vente 2 Montée des Soldats, 69300, établissement ouvert, certification Ecocert en cours).
+- Site officiel de l'enseigne (magasin bio coopératif) : adresse, horaires d'ouverture et téléphone de l'établissement publiés pour sa clientèle. Source indépendante du registre : deux sources concordantes.
+- Site de la Ville de Caluire-et-Cuire : injoignable depuis cet environnement (aucune réponse HTTP), rubrique marchés non lue. Cette passe ne tranche donc pas sur les marchés de la commune.
+
+**Pourquoi rien n'est publié.** Un seul commerce vérifiable sur deux sources à Caluire-et-Cuire. Les cinq commerces requis n'existent pas encore, et une fiche isolée ne forme pas une zone (règles 52 et 127). La commune reste ouverte à la descente, sans être close.
+
+**Pistes non publiées** (anonymes) :
+- Caluire-et-Cuire, magasin bio coopératif (adresse et horaires vérifiés sur deux sources) : **Déblocage** : publier avec quatre autres commerces vérifiés de la même commune.
+- Caluire-et-Cuire, marchés de la Ville : **Déblocage** : site de la Ville joignable (rubrique marchés) avec les producteurs présents.
+
+**Fiches écartées pour doute sur une personne :** une entrée de vente aux particuliers à Caluire-et-Cuire, désignée par un nom de famille sans enseigne commerciale distincte. Catégorie et commune seulement, non nommée, ne se rouvre pas sans enseigne distincte.
+
+**Points d'arrêt.** Passe suivante dans le Rhône : reprendre Caluire-et-Cuire quand le site de la Ville répond (rubrique marchés), puis chercher les quatre autres commerces sur le registre et les annuaires Bienvenue à la Ferme du Rhône. Si Caluire ne rend pas cinq commerces, appliquer la règle 247 après douze communes éprouvées, ou descendre à la suivante par population (Villeurbanne et Vénissieux portent déjà des fiches, donc Bron, puis Meyzieu).
