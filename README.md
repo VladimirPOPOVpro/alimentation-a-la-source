@@ -42918,3 +42918,24 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Isère toujours éligible ; la commune suivante par population sans fiche est Voiron (règle 247, descente de l'Isère). Le site de la Ville de Fontaine (fontaine.fr) ne répondait pas depuis cet environnement au moment de la passe.
+
+### Passe autonome du 25 octobre 2026 (Isère (38) descente, Voiron sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Aucun courriel.
+
+**Classement, règle 41.** Métropole seule (règle 177). Recalcul sur 1 296 fiches : Nord (59) en tête, déficit ≈ 6,2, puis Bouches-du-Rhône (13) et Haute-Garonne (31). Le Nord est clos par la passe précédente du classement (règle 41.c, note du 25 octobre) et ses communes les plus peuplées sans fiche ont été éprouvées aux passes des 15 au 18 octobre (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart). Haute-Garonne et Haut-Rhin sont épuisés ou clos. Isère (38) reste la descente en cours (règle 247, douze communes au plus avant de changer de département).
+
+**Commune, règle 41.d.** Voiron (21 847 hab.) reprise, parce que la note du 25 octobre désignait la descente isèroise vers elle. Vienne, Bourgoin-Jallieu et Fontaine sont déjà éprouvées et sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère, onze pages (1 100 opérateurs), filtrées sur Voiron (code postal 38500) : une seule entrée de magasin spécialisé à jour (piste, voir plus bas), et deux entités de groupe (distillerie, herboristerie) non retenues faute de source de vente directe vérifiée ; des grandes surfaces ou grossistes écartés ; trois entrées portant un nom de personne, écartées pour doute sur une personne, non nommées.
+- Site de la Ville de Voiron et office du Pays Voironnais : déjà éprouvés, sans réponse ou sans liste de commerces (notes des passes antérieures).
+
+**Pourquoi rien n'est publié.** Voiron ne rend qu'un commerce vérifiable au registre, sans site ni horaires publiés : une fiche isolée ne forme pas le groupe de cinq. Rien n'est publié, rien n'est complété à la main.
+
+**Pistes non publiées** (anonymes, Voiron) :
+- Magasin spécialisé en vrac et zéro déchet, inscrit au registre à jour, sans site ni horaires vérifiés. **Déblocage** : un site ou une page de l'enseigne donnant horaires et produits.
+
+**Fiches écartées pour doute sur une personne** : trois entrées de Voiron, non nommées, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c). La commune suivante de la descente isèroise par population sans fiche est Saint-Égrève (17 986 hab.), déjà sondée à deux passes et bloquée sur la confirmation de la Ville. Le classement suivant hors Isère est la Bouches-du-Rhône (13), puis le Rhône (69), à recalculer.
