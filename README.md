@@ -43085,7 +43085,7 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 
 **Pourquoi rien n'est publié.** Senlis ne rend aucun commerce de vente directe vérifié sur une source indépendante. Une fiche hors commune ne suffit pas au groupe de cinq de la règle 41.d, et rien n'est complété à la main.
 
-**Pistes non publiées (Oise).** Ferme de Folemprise, à Saint-Vaast-lès-Mello : magasin de vente directe en bio et fermier, horaires à recouper sur le site de la ferme. **Déblocage** : site officiel de la ferme (horaires, téléphone) et photo du lieu. Ferme du Moulin, à Cauffry, et Ferme de la commune de Fosses (hors Oise pour la seconde) : à instruire si une zone se forme.
+**Pistes non publiées (Oise).** Ferme de Folemprise, à Saint-Vaast-lès-Mello : magasin de vente directe en bio et fermier, horaires à recouper sur le site de la ferme. **Déblocage** : site officiel de la ferme (horaires, téléphone) et photo du lieu. Ferme du Moulin, à Cauffry : à instruire si une zone se forme. La Ferme de Basile, à Fosses, est dans le Val-d'Oise (95) : hors passe.
 
 **Points d'arrêt.** Passe suivante : Oise (60) reste ouverte, la descente passe à Crépy-en-Valois (14 351 habitants, aucune fiche) par population, sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Haute-Marne et Seine-Saint-Denis restent à reprendre selon le classement.
 
