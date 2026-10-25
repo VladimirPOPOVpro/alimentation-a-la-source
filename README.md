@@ -42854,3 +42854,29 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Salon-de-Provence reprise si la Ville ou un annuaire répond ; sinon la règle 247 s'applique à la commune suivante de la descente du 13 (Istres ou Aubagne déjà éprouvées, donc Vitrolles, Marignane ou La Ciotat selon la règle 41.d).
+
+### Passe autonome du 25 octobre 2026 (Isère (38) visée, Vienne et Bourgoin-Jallieu sondées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes), 1 296 fiches comptées sur le code postal. La passe précédente visait les Bouches-du-Rhône (région 93) : cette région est exclue (règle 41.c). Nord (59) clos (règle 247), Haute-Garonne (31) close, Haut-Rhin (68) éprouvé sur douze communes (règle 247). **Isère (38, Auvergne-Rhône-Alpes) retenue**, dernière visite à une passe antérieure à la précédente, donc hors règle 41.c.
+
+**Commune, règle 41.d.** Grenoble, Saint-Martin-d'Hères et Échirolles ont déjà des fiches ; Vienne (31 778 habitants) est la plus peuplée de l'Isère sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère : 2 236 opérateurs relus par cent. Pour Vienne (38200), une dizaine d'entrées déclarent la vente aux particuliers : des entreprises (boulangerie, apiculture, épicerie fine, produits de la mer), une personne physique (écartée, aucun nom repris), et des établissements qu'aucune source de boutique ne permet de recouper.
+- Que Choisir, carte des circuits courts : « Le Panier Enchanté », magasin de producteurs, avenue Marcellin Berthelot, horaires publiés, téléphone et produits (fruits, légumes, viandes, poissons, produits laitiers, épicerie). Second recoupement : l'annuaire Pages Jaunes, adresse seule. Pas de site officiel retrouvé.
+- Office de tourisme Vienne-Condrieu (pages en ligne, marchés) : marché du samedi (6h-13h, rue Chantelouve, rue Ponsard, place Miremont), marché du mercredi (fiche de 2025, dates de validité expirées). Le site de la Ville (`vienne.fr`) répond, mais la rubrique marchés n'est pas lisible depuis cet environnement : pas de confirmation municipale.
+- Bourgoin-Jallieu : arrêté municipal sur les marchés (2023) : marché alimentaire le jeudi au parking du centre-ville, marché aux volailles place de la République ; aucune source récente ni deuxième source sur les producteurs.
+
+**Pourquoi rien n'est publié.** Vienne rend au plus deux points vérifiables, et aucun sur deux sources indépendantes à jour : sous quatre, la règle 52 ne permet ni de publier partiellement ni de compléter sur une limitrophe. Bourgoin-Jallieu n'en rend aucun. Le groupement de cinq fiches n'est donc pas atteint.
+
+**Pistes non publiées (anonymes, Isère).**
+- Vienne : magasin de producteurs « Le Panier Enchanté » (avenue Marcellin Berthelot) : horaires et produits connus par Que Choisir ; à confirmer sur un site propre ou l'annuaire de l'office. Déblocage : une seconde source de la boutique.
+- Vienne : marché du samedi, rue Chantelouve et place Miremont, producteurs et bio : source touristique seule, horaires non confirmés par la Ville. Déblocage : page « marchés » de la Ville lisible, ou confirmation de l'office sur 2026.
+- Vienne : apiculture familiale en vente directe (miel), adresse non confirmée (la fiche de cartographie touristique ne donne pas l'adresse du lieu de vente). Déblocage : site de l'exploitation ou adresse de boutique confirmée.
+- Bourgoin-Jallieu : marché alimentaire du jeudi, centre-ville : une seule source (arrêté de 2023). Déblocage : page « marchés » de la Ville à jour.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, à Vienne et Bourgoin-Jallieu, sont inscrites sous des noms de personnes physiques : nombre et communes seulement, aucun nom consigné, ne se rouvrent pas.
+
+**Points d'arrêt.** Isère toujours éligible : la descente a éprouvé Vienne et Bourgoin-Jallieu (deux communes sur la borne de douze, règle 247). Passe suivante : Vienne reprise sur la page « marchés » de la Ville ou une source de l'office à jour ; sinon la commune suivante par population sans fiche (Fontaine, 22 020 habitants, puis Voiron).
