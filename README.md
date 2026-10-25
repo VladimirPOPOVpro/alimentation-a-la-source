@@ -43131,3 +43131,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Oise (60) reste ouverte ; la descente de la règle 41.d en est à cinq communes éprouvées (Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne) sur la borne de douze. Prochaine commune par population sans fiche à sonder sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Si l'Oise ne rend pas de fiche avant la borne, appliquer la règle 247 et passer au département suivant du classement.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 25 octobre 2026 (Isère (38) ouverte, Vienne sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Une entrée reste « en cours » depuis une passe antérieure, inchangée ; cette passe ne lui répond pas.
+
+**Secteur, règle 41.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes), 1 296 fiches comptées sur le code postal. Classement recalculé : Haute-Garonne (31, 4,66) et Haut-Rhin (68, 4,49) épuisés ; Bouches-du-Rhône (13, 4,24) et Nord (59, 4,16) éprouvés ou clos ; Oise (60, 3,60) sous la règle 247. La passe précédente visait l'Oise (région 32) : la région 84 (Isère) n'est pas visée deux fois de suite. **Isère (38) retenue**, déficit 4,42.
+
+**Commune, règle 41.d.** Vienne (31 778 habitants) est la commune la plus peuplée de l'Isère sans fiche (Grenoble, Saint-Martin-d'Hères, Échirolles, Fontaine ont déjà des fiches).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère, 400 opérateurs relus (quatre pages de cent), filtrés sur la ville de Vienne : une enseigne de grande distribution, deux grossistes qui ne vendent qu'aux professionnels, une boulangerie (hors catégories du site), et une entrée sans vente directe. Écartées.
+- Un magasin de producteurs de Vienne référencé par un comparateur de circuit court (« Le Panier Enchanté », 28 avenue Marcellin Berthelot) : le registre des entreprises le donne fermé (`nombre_etablissements_ouverts` = 0, siège à Bourgoin-Jallieu). Le site ne publie donc pas cette fiche (règle 6 et `MODERATION.md`).
+- Recherche web : le marché du samedi de Vienne est décrit comme vaste, avec une partie réservée aux producteurs et au bio (rue Chantelouve, place Miremont), mais la seule source trouvée est ancienne et non datée. Aucune liste d'exposants producteurs ni horaires officiels n'ont été lus cette passe. Aucune liste à jour de fermes en vente directe autour de Vienne n'a été trouvée.
+
+**Pourquoi rien n'est publié.** Aucun commerce de vente directe vérifié sur deux sources indépendantes à Vienne. Une fiche isolée ne forme pas le groupe de cinq de la règle 41.d, et rien n'est complété à la main.
+
+**Contradiction consignée.** Deux notes antérieures du README ne s'accordent pas sur l'état de l'Oise : l'une compte dix communes éprouvées, dont Méru, Noyon, Clermont, sans succès ; l'autre compte cinq communes sur la borne de douze. Cette passe n'a pas tranché : la règle 247 s'applique à la borne réelle, à relire.
+
+**Pistes non publiées (anonymes, Isère).** Vienne : marché du samedi, à reprendre si la Ville ou l'office de tourisme publie une liste d'exposants producteurs avec des horaires uniques. Le magasin de producteurs de Vienne : fermé au registre, ne se rouvre pas sans nouvelle entité active.
+
+**Points d'arrêt.** Passe suivante : Isère (38) reste ouverte, Vienne reprise sur le marché du samedi, avec la Chambre d'agriculture de l'Isère et Bienvenue à la Ferme comme sources de repli. Si Vienne ne rend pas cinq commerces vérifiables, descendre à Bourgoin-Jallieu (30 151 habitants) par population.
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/`, les images et le code ne sont pas touchés.
