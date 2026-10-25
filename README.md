@@ -42816,3 +42816,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Une cette passe (Nogent-sur-Oise), sans nom consigné.
 
 **Points d'arrêt.** L'Oise reste ouverte, mais sa descente bute sur des sources injoignables (site de la Ville, office de tourisme). Passe suivante : la commune suivante par population sans fiche (Senlis, 15 157 habitants) sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Le classement renvoie depuis plusieurs passes les mêmes départements ; une source nouvelle ou une décision du responsable du site sur l'ordre des secteurs débloquerait la suite.
+
+### Passe autonome du 25 octobre 2026 (Oise (60) reprise, Senlis sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes), 1 296 fiches. Le classement renvoie encore en tête des départements déjà visés ou clos (règle 41.c). L'Oise, visée à la passe précédente, est reprise ; Senlis (15 157 habitants) est la commune suivante par population sans fiche (règle 247).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, 612 opérateurs relus. Pour Senlis, deux entrées déclarent la vente aux particuliers : une brasserie et un commerce de pâtisserie-épicerie. Aucune n'est vérifiée sur une deuxième source indépendante ; aucune n'est publiée.
+- Site de la Ville de Senlis : la rubrique « Les marchés alimentaires » répond, mais le contenu utile (jours, lieux, exposants) n'est pas lisible depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Senlis ne rend pas cinq commerces vérifiables sur deux sources indépendantes (règle 52).
+
+**Pistes non publiées (anonymes, Oise).** Senlis : deux inscriptions du registre (brasserie, pâtisserie-épicerie) à vérifier sur une source locale ; reprendre à la passe suivante.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Le classement renvoie depuis plusieurs passes les mêmes départements ; une source locale lisible pour Senlis (liste des exposants du marché) ou une décision du responsable du site sur l'ordre des secteurs débloquerait la suite.
