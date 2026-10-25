@@ -42996,3 +42996,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Hérault (34) reste éligible (région 76 non visée depuis deux passes) ; la commune suivante par population sans fiche est Lunel (26 623 habitants), à instruire. Le registre Agence Bio ne couvre que la première page de l'Hérault : les pages suivantes sont à lire.
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README, qui ne touche pas au code ni aux données : `npm run build` non relancé.
+
+### Passe autonome du 25 octobre 2026 (vingt-quatrième passe du jour, Lunel (34) instruite) : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Secteur, règle 41.** Métropole seule. Hérault (34) reste retenu (région 76 non visée depuis deux passes). Commune : Lunel, la plus peuplée sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Hérault, pages 1 à 10 (1 000 opérateurs), filtrées sur Lunel et Lunel-Viel : une dizaine d'entrées, la plupart des grossistes, des particuliers sans enseigne ou des exploitations sans vente directe. Écartés.
+- Registre des entreprises : une grande surface (activité 47.11F) et un centre commercial, écartés comme généralistes. Une exploitation maraîchère à l'adresse de la route de Simiane : le registre est contradictoire (établissement fermé ailleurs selon la recherche web) et aucune vente directe n'est confirmée.
+- Biocoop de Lunel : même adresse que la société coopérative déjà notée ci-dessus, société active, horaires lus sur un annuaire tiers. La page du magasin sur biocoop.fr n'a pas pu être ouverte (404 sur l'URL devinée) ; faits à recouper sur le site officiel.
+- Un magasin bio de Lunel dont l'enseigne reprend un prénom : doute sur une personne, écarté et non nommé ici.
+
+**Pourquoi rien n'est publié.** Lunel ne rend pas cinq fiches vérifiables dans cette passe ; une fiche isolée ne forme pas le groupe. Rien n'est complété à la main.
+
+**Pistes non publiées.** Les pistes de Lunel déjà consignées plus haut (section « Pistes non publiées dans l'Hérault ») restent valables. Aucune ligne nouvelle hormis l'exploitation maraîchère, à reprendre si une vente directe est confirmée.
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/` et le code ne sont pas touchés.
