@@ -43108,3 +43108,26 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Oise reste ouverte ; la descente reprend à Margny-lès-Compiègne (8 677 habitants), sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 25 octobre 2026 (Oise (60) poursuivie, Margny-lès-Compiègne sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. Classement inchangé : Nord (59) clos, Bouches-du-Rhône (13) éprouvé, Haute-Garonne (31) et Haut-Rhin (68) épuisés, Isère (38) en descente. La passe précédente visait l'Oise : la région 32 n'est donc pas visée deux fois de suite, mais l'Oise reste ouverte (règle 410) et la descente de la règle 41.d se poursuit.
+
+**Commune, règle 41.d.** Margny-lès-Compiègne (8 677 habitants), commune suivante par population sans fiche, sous la règle 247 (cinquième commune éprouvée dans l'Oise sur la borne de douze).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, 612 opérateurs relus sur sept pages de cent : les entrées de Margny-lès-Compiègne sont des boulangeries, une enseigne bio sans vente au public, des grossistes ou des établissements sans vente directe aux particuliers. Écartées.
+- Site officiel de la commune : la page d'accueil ne porte pas de liste de producteurs ; le marché dominical (place de la Marie) y est mentionné sans liste d'exposants.
+- Annuaire « Saveurs des Vallées de l'Oise » : le marché dominical est listé avec des horaires qui diffèrent de ceux de la mairie (9 h à 13 h contre 8 h 30 à 13 h). Contradiction consignée ; la liste d'exposants y est générique (fruits et légumes, miel, viande bovine, volailles), sans producteur nommé.
+- Recherche web : une page « Le p'tit marché de Margny » annonce son annulation, sans date de reprise. Une autre plateforme de producteurs (local.bio, local.direct) affiche la commune sans fiche de point de vente.
+- Maraîcher « Les Jardins du Fayel » : site lu, mais le point de vente est au Fayel, commune voisine et hors Margny ; ferme en agriculture raisonnée et production conventionnelle, hors pilier environnement. Écarté pour cette commune.
+
+**Pourquoi rien n'est publié.** Margny-lès-Compiègne ne rend aucun commerce de vente directe vérifiable sur deux sources indépendantes : le marché n'a pas de liste de producteurs fiable et les horaires se contredisent, et aucun point de vente fixe n'est confirmé dans la commune. Une fiche isolée ne forme pas la zone de cinq, et rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Oise).** Margny-lès-Compiègne : marché dominical de la place de la Marie, à reprendre si la mairie ou l'organisateur publie une liste d'exposants et des horaires uniques. Le p'tit marché de Margny : annulé, ne se rouvre pas sans reprise annoncée. Le Fayel : maraîcher à vente directe à la ferme, à instruire seulement si la zone de l'Oise se forme autour de Compiègne (commune de rattachement : Le Fayel, non Margny).
+
+**Points d'arrêt.** Passe suivante : Oise (60) reste ouverte ; la descente de la règle 41.d en est à cinq communes éprouvées (Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne) sur la borne de douze. Prochaine commune par population sans fiche à sonder sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Si l'Oise ne rend pas de fiche avant la borne, appliquer la règle 247 et passer au département suivant du classement.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
