@@ -43050,3 +43050,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : reprendre Saint-Dizier (liste produits du magasin) et la page d'Esprit Paysan à Chaumont ; si la Haute-Marne ne rend pas cinq fiches, descendre à Langres par la même méthode.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est nécessaire pour ce commit.
+
+### Passe autonome du 25 octobre 2026 (Seine-Saint-Denis (93) poursuivie, Noisy-le-Grand sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule (les départements d'outre-mer sont écartés du calcul, comme dans les passes précédentes). Le déficit le plus fort est en Nord (59), Bouches-du-Rhône (13), Haute-Garonne (31), Isère (38) et Haut-Rhin (68), tous clos ou épuisés par les passes précédentes. Le Rhône (69) a été visé le 23 octobre, la région 84 ne peut donc pas l'être de suite. Retenu : **Seine-Saint-Denis (93)**, en poursuite de la descente de la règle 41.d commencée le 24 octobre. Commune : Noisy-le-Grand (72 978 hab.), la plus peuplée du 93 sans fiche après Aulnay-sous-Bois.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Saint-Denis, première page (100 opérateurs) : les entrées de Noisy-le-Grand sont des grossistes, des restaurants collectifs ou des établissements sans vente au public ; une seule est déclarée en vente aux professionnels de détail et restauration, sans vente directe aux particuliers. Écartée. Deux entrées « Drancy » sont signalées en vente aux particuliers, mais sans enseigne identifiable : identité non établie, rien n'est retenu.
+- Recherche web, requête unique sur les marchés et producteurs de Noisy-le-Grand : aucun programme de marché de producteurs ni de liste de producteurs trouvé pour 2026. Les seuls résultats sont des appels d'offres de restauration scolaire, qui ne sont pas une source de vente au public.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne un commerce ou un marché vérifiable en circuit court à Noisy-le-Grand. Une fiche isolée ne forme pas le groupe de cinq, et rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Seine-Saint-Denis).** Noisy-le-Grand : marchés municipaux (centre-ville, Pavé-Neuf, Richardets) sans liste de producteurs ; potager sur toit de centre commercial, adresse et site à vérifier hors réseaux sociaux. Drancy : une entrée du registre en vente aux particuliers, sans enseigne identifiable.
+
+**Points d'arrêt.** Passe suivante : reprendre la descente de la règle 41.d en Seine-Saint-Denis à Drancy (programme de la Ville ou entrée du registre à identifier), puis Bobigny. Noisy-le-Grand ne se rouvre que si la Ville publie la liste des producteurs de ses marchés.
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est nécessaire.
