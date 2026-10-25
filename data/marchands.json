@@ -34209,5 +34209,28 @@
     "description": "Exploitation agricole en GAEC, inscrite au registre de l'Agence Bio, qui accueille chaque vendredi après-midi un marché de producteurs locaux à la ferme.",
     "image_url": "/images/marchands/ferme-les-pres-dartemare.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-halle-paysanne-bourgoin-jallieu",
+    "nom": "La Halle Paysanne",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.585587,
+    "lon": 5.270795,
+    "adresse": "13 rue Edouard Marion, 38300 Bourgoin-Jallieu",
+    "horaires": "Du mardi au vendredi, 8h30-12h30 et 15h-19h ; samedi, 8h30-19h ; fermé le lundi et le dimanche.",
+    "produits": [
+      "Épicerie salée et sucrée",
+      "Fruits et légumes",
+      "Produits laitiers",
+      "Viandes et charcuterie"
+    ],
+    "description": "Magasin de producteurs fermiers ouvert depuis 1999, tenu par les agriculteurs de la région qui se relaient au comptoir. Produits de saison, vente directe, traçabilité indiquée sur chaque produit.",
+    "telephone": "04 74 93 21 50",
+    "site_web": "https://lahallepaysanne.fr/",
+    "image_url": "/images/marchands/la-halle-paysanne-bourgoin-jallieu.jpg"
   }
 ]

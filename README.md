@@ -43196,3 +43196,15 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Isère (38) reste ouverte ; Bourgoin-Jallieu reprise avec les candidats ci-dessus, en recoupant les horaires du site de La Halle Paysanne et en cherchant une photo libre de chaque lieu sur le site officiel de la Ville ou de l'office de tourisme CAPI. Si la zone ne rend pas cinq points vérifiables, descendre à L'Isle-d'Abeau puis Vienne par la règle 247.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 25 octobre 2026 (Isère (38), Bourgoin-Jallieu : une fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Publié.** La Halle Paysanne (magasin de producteurs, 13 rue Edouard Marion, Bourgoin-Jallieu). Vérifications : registre des entreprises ouvert (`nombre_etablissements_ouverts` = 1) ; adresse et coordonnées confirmées par la Base Adresse Nationale ; horaires, téléphone du magasin et catégories de produits lus sur le site officiel, qui est aussi la source de la photo (façade, sans personne). Fiche complète, sans `a_confirmer`.
+
+**Restés en « Pistes non publiées » (Bourgoin-Jallieu).** Les trois marchés : le site officiel de la Ville est injoignable depuis cet environnement, et les sources divergent sur le lieu du marché du jeudi (règle de contradiction) ; aucune source institutionnelle lisible pour trancher. L'AMAP : source de la Ville seule, à recouper. Une entrée de vente au nom d'un particulier : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Écart assumé avec la règle 41.d.** La commune ne rend pas encore cinq fiches vérifiables. Une fiche vérifiée est publiée plutôt que d'attendre le groupe complet ; le reste de la zone reste en piste.
+
+**Points d'arrêt.** Passe suivante : Bourgoin-Jallieu, recouper les marchés sur une source accessible (office de tourisme CAPI, site de la Ville à retenter) avant de publier.
