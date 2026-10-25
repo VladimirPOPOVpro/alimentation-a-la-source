@@ -43174,3 +43174,25 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Seine-Saint-Denis (93) reste ouverte ; la descente passe à la commune suivante par population sans fiche, sous la règle 247, avec l'office de tourisme et les sites de communes voisines comme sources de repli. Ile-de-France (11) ne se revisite pas à la passe suivante.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 25 octobre 2026 (Isère (38) poursuivie, Bourgoin-Jallieu sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, règle 177), 1 296 fiches. Classement : Nord (59) clos, Bouches-du-Rhône (13) éprouvé, Haute-Garonne (31) et Haut-Rhin (68) épuisés, Isère (38) en descente. La passe précédente visait l'Île-de-France (région 11) ; la région 84 est donc permise. Vienne (38) ayant été sondée sans succès, la descente passe à Bourgoin-Jallieu (30 000 habitants environ), comme prévu.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère, 400 opérateurs relus (quatre pages de cent), filtrés sur Bourgoin-Jallieu : une entrée de restauration commerciale, des grossistes ou entrées sans vente au public, et deux entrées de vente aux particuliers dont l'une est une entreprise individuelle au nom patronymique. Cette dernière n'est pas nommée ni publiée (règle du 12 septembre 2026 : doute sur une personne). Écartées.
+- Magasin de producteurs « La Halle Paysanne », 13 rue Edouard Marion : registre des entreprises ouvert (`nombre_etablissements_ouverts` = 1), adresse confirmée par la Base Adresse Nationale (lat 45,585587 ; lon 5,270795), tenu par des producteurs, site officiel en ligne. Horaires lus sur un annuaire tiers (Que Choisir), non recoupés sur le site officiel ; photos du site à examiner.
+- Marché alimentaire du jeudi (8 h – 13 h) : quatre sources concordantes sur le jour et le créneau, mais elles divergent sur le lieu (parking Hector Berlioz depuis le 16 octobre, selon l'office de tourisme, contre place Carnot, selon un guide). Contradiction consignée.
+- Marché alimentaire du dimanche (8 h – 12 h ou 8 h – 13 h selon la source, parking Hector Berlioz) : contradiction d'horaire consignée.
+- Marché bio du vendredi (15 h – 18 h, place J.-J.-Rousseau) : trois sources concordantes.
+- AMAP « Mon Bio Panier » (distribution le jeudi soir, impasse de la Marbrerie) : source de la Ville. Le numéro de contact personnel imprimé sur la page n'est pas repris.
+
+**Pourquoi rien n'est publié.** Les candidats solides tiennent à une dizaine de sources, mais la passe n'a pas pu fixer, avant publication, une photo libre et vérifiée pour chacun (site officiel ou office de tourisme, sans personne reconnaissable), ni recouper l'horaire de La Halle Paysanne sur son site. Une publication partielle du groupe de cinq de la règle 41.d n'a pas été faite.
+
+**Pistes non publiées (anonymes, Isère).** Bourgoin-Jallieu : La Halle Paysanne, Mon Bio Panier, trois marchés (jeudi, dimanche, vendredi bio). Ce sont les premiers candidats d'une passe suivante, avec pour critère la photo libre et le recoupement de l'horaire. Une entrée de vente directe au nom d'un particulier : écartée pour doute sur une personne, ne se rouvre pas. Une miellerie et un élevage de volailles cités par un annuaire, sans adresse ni horaire : à instruire seulement si la zone se forme.
+
+**Points d'arrêt.** Passe suivante : Isère (38) reste ouverte ; Bourgoin-Jallieu reprise avec les candidats ci-dessus, en recoupant les horaires du site de La Halle Paysanne et en cherchant une photo libre de chaque lieu sur le site officiel de la Ville ou de l'office de tourisme CAPI. Si la zone ne rend pas cinq points vérifiables, descendre à L'Isle-d'Abeau puis Vienne par la règle 247.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
