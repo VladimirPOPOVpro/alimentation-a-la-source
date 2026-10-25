@@ -43014,3 +43014,22 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Pistes non publiées.** Les pistes de Lunel déjà consignées plus haut (section « Pistes non publiées dans l'Hérault ») restent valables. Aucune ligne nouvelle hormis l'exploitation maraîchère, à reprendre si une vente directe est confirmée.
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/` et le code ne sont pas touchés.
+
+### Passe autonome du 25 octobre 2026 (Haute-Marne, Saint-Dizier et Chaumont sondées) : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié).
+
+**Secteur, règle 41.** Métropole seule. Classement : Haute-Garonne (31) et Haut-Rhin (68) épuisés, Nord (59) clos, Isère (38) descendue, Bouches-du-Rhône (13) éprouvée. La passe précédente visait l'Hérault (région 76), donc l'Occitanie est exclue (règle 41.c). **Haute-Marne (52, Grand Est) retenue**, en reprise de la passe où elle avait été ouverte. Commune : Saint-Dizier (24 000 habitants environ), la plus peuplée sans fiche du département avec Chaumont.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Marne, première page (100 opérateurs) : Saint-Dizier et Chaumont n'y comptent que des boulangeries, transporteurs, grossistes et particuliers sans vente directe. Écartés. Certains opérateurs sont des particuliers : aucun nom retenu ici.
+- **Saint-Dizier, Au Panier Champenois** (magasin de produits de producteurs, place Émile-Mauguet, 14-16). Quatre sources concordent : site du magasin (adresse, téléphone 03 51 45 95 49, horaires mardi-vendredi et samedi), fiche Google, annuaire Bienvenue en Haute-Marne (place Émile-Mauguet, 52100), fiche Que Choisir (magasin de produits locaux). Entité active au registre à l'adresse. La BAN géocode la place à 48,6379 ; 4,9502. **C'est la seule fiche vérifiée de Saint-Dizier**, et une fiche isolée ne forme pas le groupe : elle n'est pas publiée, faute des cinq fiches de la passe. La liste des produits n'a pas pu être lue sur le site (page produits sans texte exploitable) : à reprendre avant publication.
+- **Chaumont** : trois pistes vivantes, toutes à recouper. Esprit Paysan (magasin de producteurs, route de Langres, 03 25 01 89 33, site espritpaysan.fr) : chaîne à plusieurs magasins, admise par la règle 3, à monter sur sa propre page du réseau. Halles de Chaumont (marché alimentaire le samedi de 7 h 30 à 13 h, marché extérieur mercredi et samedi, site halles-chaumont.fr) : à vérifier sur le site et sur la BAN. Marché du terroir de la Jeunes Agriculteurs (sur place, à dates) : évènementiel, écarté. Aucune des trois n'a encore été géocodée ni confrontée au registre.
+
+**Pourquoi rien n'est publié.** Saint-Dizier ne rend qu'une fiche solide ; Chaumont en rend au plus trois à confirmer. Aucune commune n'atteint cinq fiches vérifiables dans cette passe, et rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Haute-Marne).** Saint-Dizier : Au Panier Champenois, à publier dès que la liste des produits est lue sur le site ; les Halles et le marché du Vert-Bois sans producteur identifié. Chaumont : Esprit Paysan et les Halles de Chaumont, à géocoder et à recouper avec le registre ; le reste des pistes Chaumont est écarté (évènementiel ou non identifié).
+
+**Points d'arrêt.** Passe suivante : Haute-Marne reste ouverte (Grand Est non visé la passe précédente). Reprendre Chaumont par le site des Halles et la fiche Esprit Paysan, puis rouvrir Saint-Dizier pour la liste produits. Si Chaumont et Saint-Dizier ne rendent pas cinq fiches à elles deux dans la même passe, descendre à Langres.
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/` et le code ne sont pas touchés, donc `npm run build` n'est pas relancé.
