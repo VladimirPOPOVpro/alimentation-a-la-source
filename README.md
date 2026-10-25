@@ -43208,3 +43208,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Écart assumé avec la règle 41.d.** La commune ne rend pas encore cinq fiches vérifiables. Une fiche vérifiée est publiée plutôt que d'attendre le groupe complet ; le reste de la zone reste en piste.
 
 **Points d'arrêt.** Passe suivante : Bourgoin-Jallieu, recouper les marchés sur une source accessible (office de tourisme CAPI, site de la Ville à retenter) avant de publier.
+
+### Passe autonome du 25 octobre 2026 (Nord (59), Wattrelos relue : aucune fiche publiée)
+
+Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publiée, aucune retirée. Total inchangé : 1 297 fiches.
+
+**Classement, règle 41.** Métropole seule, recalcul sur 1 297 fiches : Nord (59) en tête (déficit 5,8), devant la Haute-Garonne (5,6) et les Bouches-du-Rhône (5,6). La passe précédente visait l'Isère (38), donc la règle 41.c ne ferme pas le Nord. **Nord désigné.**
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 59 ont déjà une fiche (Lille, Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Douai, Hazebrouck). La plus peuplée sans fiche est **Wattrelos (40 847 habitants)**, déjà éprouvée dans de nombreuses passes.
+
+**Ce qui a été lu.** Page d'accueil du site de la Ville : aucun marché n'y figure, comme dans les passes précédentes. Les quatre marchés de Wattrelos restent sans horaires publiés. Le registre de l'Agence Bio n'a pas été relu en entier cette passe : les passes précédentes l'ont lu sur la totalité du 59 sans source de producteur retenable à Wattrelos.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucun commerce vérifiable sur une source indépendante ; une fiche isolée ne forme pas le groupe de cinq. Rien de nouveau n'est venu compléter le dossier.
+
+**Demande n° 13 (Villecroze, producteur) : reste en cours, rien publié.** Le registre des entreprises ne donne aucun établissement actif sous cette enseigne à Villecroze (règle 6), et le nom de l'enseigne ressemble au prénom d'une personne avec un contact privé (doute sur une personne). Aucune réponse n'est envoyée. Aucune donnée de contact n'est reportée ici.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Villecroze, demande n° 13).
+
+**Point d'arrêt.** Passe suivante : Nord (59), Marcq-en-Barœul puis Lambersart si le site de la Ville répond ; Wattrelos seulement si un horaire de marché est publié par une source officielle.
