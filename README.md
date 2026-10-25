@@ -42947,3 +42947,30 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Secteur, règle 41.** Métropole seule, 1 296 fiches, populations `geo.api.gouv.fr`. Classement : Nord (59, clos par la règle 247), Bouches-du-Rhône (13, éprouvé), Haute-Garonne (31, épuisé), Isère (38, descente en cours sur la passe précédente). Aucun département n'a été ouvert ici : la descente de l'Isère reprend à la commune suivante par population sans fiche, mais aucune source n'a été ouverte cette fois-ci, faute de temps de passe. La prochaine passe reprendra ce point.
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README.
+
+### Passe autonome du 25 octobre 2026 (Vienne (86) visée, Châtellerault sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule (règle 177), populations `geo.api.gouv.fr` (34 969 communes), 1 296 fiches comptées sur le code postal. La passe précédente visait l'Isère (région 84) : cette région est exclue (règle 41.c). Haute-Garonne (31), Haut-Rhin (68), Bouches-du-Rhône (13) et Nord (59) sont clos ou éprouvés (règle 247). **Vienne (86, Nouvelle-Aquitaine) retenue**, déficit d'environ 3,25 : ses cinq fiches sont toutes à Poitiers.
+
+**Commune, règle 41.d.** Poitiers (89 916 habitants) a déjà ses cinq fiches. Châtellerault (31 003 habitants) est la plus peuplée de la Vienne sans fiche.
+
+**Ce qui a été lu.**
+- Office de tourisme Grand Châtellerault, liste des marchés (page en anglais et page en français) : Plaine d'Ozon, le mercredi de 8h à 13h ; Boulevard Blossac, le jeudi (fin annoncée à 18h, puis 18h30 dans une autre version) ; Halles Dupleix, le jeudi et le samedi de 8h à 13h (le mardi n'apparaît que sur une des deux pages) ; Châteauneuf, le samedi de 8h à 12h30. Ces horaires sont recoupés entre les deux pages, mais la fin du marché du jeudi sur Blossac diffère.
+- Biocoop La Désirée (zone commerciale, Châtellerault) : annuaire Bible-Marques (6 rue de la Désirée) et annuaire de boulangeries (8 rue de la Désirée). La Base Adresse Nationale reconnaît le 6 rue de la Désirée (score 0,96). Horaires publiés par un seul annuaire tiers, sans date de mise à jour.
+- Registre Agence Bio, Vienne : sur cent opérateurs, aucun producteur de vente directe à Châtellerault, seulement des entreprises de préparation, de distribution et de gros.
+- Recherche « AMAP » et « Bienvenue à la Ferme » pour Châtellerault et la Vienne : aucun résultat exploitable.
+
+**Pourquoi rien n'est publié.** Aucune des cinq fiches n'a de photo utilisable. La seule image officielle trouvée (page de l'office de tourisme) montre deux personnes reconnaissables : écartée (règle 1, doute sur une personne). Aucune photo thématique honnête n'a été trouvée sans personne dans les sources ouvertes. Sans image, le validateur de build ne laisse pas partir une fiche. Les produits des marchés ne sont pas détaillés dans les sources lues : une liste générique (« produits locaux ») n'a pas été retenue comme fait vérifié.
+
+**Pistes non publiées** (Châtellerault, Vienne) :
+- Marché de la Plaine d'Ozon, mercredi 8h-13h : horaires vérifiés, aucune photo, produits non détaillés. **Déblocage** : photo du marché (site de la Ville ou de la Grand Châtellerault) et liste des producteurs.
+- Marché du boulevard Blossac, jeudi : fin de marché contestée (18h ou 18h30). **Déblocage** : confirmation de l'horaire par la Ville, plus une photo.
+- Halles Dupleix, jeudi et samedi 8h-13h (mardi contesté) : **déblocage** : photo et liste des producteurs.
+- Marché de Châteauneuf, samedi 8h-12h30 : **déblocage** : photo et liste des producteurs.
+- Biocoop La Désirée : adresse à trancher entre le 6 et le 8 rue de la Désirée, horaires d'un seul annuaire tiers. **Déblocage** : page officielle du magasin (biocoop.fr ou site du Pois Tout Vert) et une photo.
+
+**Points d'arrêt.** Passe suivante : Nouvelle-Aquitaine (75) exclue (règle 41.c). Si Châtellerault revient, reprendre les quatre marchés et la Biocoop avec les **déblocages** ci-dessus ; à défaut, la commune suivante de la Vienne par population sans fiche est Buxerolles (10 289 habitants).
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README.
