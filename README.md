@@ -42939,3 +42939,11 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne** : trois entrées de Voiron, non nommées, ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante : Isère (38) exclue si elle est visée à nouveau (règle 41.c). La commune suivante de la descente isèroise par population sans fiche est Saint-Égrève (17 986 hab.), déjà sondée à deux passes et bloquée sur la confirmation de la Ville. Le classement suivant hors Isère est la Bouches-du-Rhône (13), puis le Rhône (69), à recalculer.
+
+### Passe autonome du 25 octobre 2026 (vingt-troisième passe du jour) : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande n° 13 (producteur à Villecroze) reste `en_cours` : son contact est privé et les sources n'ont pas été recoupées dans cette passe.
+
+**Secteur, règle 41.** Métropole seule, 1 296 fiches, populations `geo.api.gouv.fr`. Classement : Nord (59, clos par la règle 247), Bouches-du-Rhône (13, éprouvé), Haute-Garonne (31, épuisé), Isère (38, descente en cours sur la passe précédente). Aucun département n'a été ouvert ici : la descente de l'Isère reprend à la commune suivante par population sans fiche, mais aucune source n'a été ouverte cette fois-ci, faute de temps de passe. La prochaine passe reprendra ce point.
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README.
