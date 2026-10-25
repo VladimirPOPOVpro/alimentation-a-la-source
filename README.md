@@ -43090,3 +43090,21 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Oise (60) reste ouverte, la descente passe à Crépy-en-Valois (14 351 habitants, aucune fiche) par population, sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Haute-Marne et Seine-Saint-Denis restent à reprendre selon le classement.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 25 octobre 2026 (Oise (60) poursuivie, Chantilly recoupée au registre : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Oise (60) poursuivie, la descente reprise à Crépy-en-Valois et Chantilly, comme indiqué par les passes précédentes.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, première page (100 opérateurs) : une seule entrée de Crépy-en-Valois, une enseigne de grande surface sans vente au public. Écartée.
+- Recherche-entreprises, « Ferme de la Nonette » à Chantilly : le GIE qui portait l'enseigne est fermé au registre, et l'établissement siège porte une fermeture administrative ancienne. La contradiction déjà consignée dans la passe précédente est confirmée ; la fiche de la Nonette ne se publie pas en l'état.
+
+**Pourquoi rien n'est publié.** Ni Crépy-en-Valois ni Chantilly ne rendent une fiche vérifiable et complète : Crépy n'a pas d'image libre ni de source d'AMAP exploitable, Chantilly reste bloquée par la contradiction de registre. Une fiche isolée ne forme pas le groupe de cinq, et rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Oise).** Chantilly : La Ferme de la Nonette, à reprendre seulement si l'établissement ouvert à Chantilly est identifié au registre sous une adresse vérifiée. Le marché de la place Carnot à Creil reste en attente d'une image libre.
+
+**Points d'arrêt.** Passe suivante : Oise reste ouverte ; la descente reprend à Margny-lès-Compiègne (8 677 habitants), sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
