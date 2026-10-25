@@ -42974,3 +42974,25 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Nouvelle-Aquitaine (75) exclue (règle 41.c). Si Châtellerault revient, reprendre les quatre marchés et la Biocoop avec les **déblocages** ci-dessus ; à défaut, la commune suivante de la Vienne par population sans fiche est Buxerolles (10 289 habitants).
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README.
+
+### Passe autonome du 25 octobre 2026 (Hérault (34) visé, Agde relue : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule, 1 296 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Classement : Nord (59, clos), Haute-Garonne (31, épuisé), Isère (38, descente en cours), Bouches-du-Rhône (13, éprouvé), Haut-Rhin (68, épuisé), Rhône (69) et Seine-Saint-Denis (93), tous deux déjà sondés. La Nouvelle-Aquitaine (75), visée à la passe précédente, est exclue (règle 41.c). **Hérault (34)** retenu, déficit d'environ 3,9, région 76 non visée la passe d'avant.
+
+**Commune, règle 41.d.** Agde (29 939 habitants) est la plus peuplée de l'Hérault sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Hérault, première page (100 opérateurs), filtré sur Agde : une seule entrée, un distributeur de préparation et de gros sans vente aux particuliers. Écarté.
+- Les marchés d'Agde (Promenade, Mûriers au Grau d'Agde) ont été lus aux passes précédentes ; ils restent en pistes, sans photo ni liste de producteurs vérifiée.
+
+**Pourquoi rien n'est publié.** Agde ne rend pas cinq fiches vérifiables : des marchés identifiés, pas de commerce de vente directe confirmé, pas de photo utilisable. Une fiche isolée ne forme pas le groupe. Rien n'est complété à la main.
+
+**Pistes non publiées.** Aucune nouvelle ligne : celles d'Agde figurent déjà dans la section « Pistes non publiées dans l'Hérault ».
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Hérault (34) reste éligible (région 76 non visée depuis deux passes) ; la commune suivante par population sans fiche est Lunel (26 623 habitants), à instruire. Le registre Agence Bio ne couvre que la première page de l'Hérault : les pages suivantes sont à lire.
+
+**Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README, qui ne touche pas au code ni aux données : `npm run build` non relancé.
