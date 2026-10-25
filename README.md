@@ -43033,3 +43033,20 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Haute-Marne reste ouverte (Grand Est non visé la passe précédente). Reprendre Chaumont par le site des Halles et la fiche Esprit Paysan, puis rouvrir Saint-Dizier pour la liste produits. Si Chaumont et Saint-Dizier ne rendent pas cinq fiches à elles deux dans la même passe, descendre à Langres.
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/` et le code ne sont pas touchés, donc `npm run build` n'est pas relancé.
+
+### Passe autonome du 25 octobre 2026 (Haute-Marne (52) reprise, Chaumont recoupée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié).
+
+**Secteur, règle 41.** Haute-Marne reprise, comme prévu par la passe précédente. Commune : Chaumont, à défaut Saint-Dizier.
+
+**Ce qui a été lu.**
+- Halles de Chaumont : le site officiel répond, mais la page d'accueil n'expose pas d'horaires lisibles ; l'image de partage (`og:image`) est le logo, pas une photo du lieu. Fiche non publiable en l'état (horaires et photo manquants).
+- Esprit Paysan (Chaumont, route de Langres, adresse géocodée par la BAN à 5,147 ; 48,088) : chaîne, admise par la règle 3, mais la page du magasin n'a pas été ouverte ni confrontée au registre dans cette passe. Reportée.
+- Saint-Dizier, Au Panier Champenois : la BAN géocode la place Émile-Mauguet à 4,950 ; 48,638. La liste des produits reste à lire sur le site du magasin.
+
+**Pourquoi rien n'est publié.** Chaumont et Saint-Dizier ne rendent à elles deux aucune fiche complète et vérifiée ; une fiche isolée ne forme pas le groupe de cinq. Rien n'est complété à la main.
+
+**Points d'arrêt.** Passe suivante : reprendre Saint-Dizier (liste produits du magasin) et la page d'Esprit Paysan à Chaumont ; si la Haute-Marne ne rend pas cinq fiches, descendre à Langres par la même méthode.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est nécessaire pour ce commit.
