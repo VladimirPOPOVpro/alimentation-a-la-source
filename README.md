@@ -43068,3 +43068,25 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : reprendre la descente de la règle 41.d en Seine-Saint-Denis à Drancy (programme de la Ville ou entrée du registre à identifier), puis Bobigny. Noisy-le-Grand ne se rouvre que si la Ville publie la liste des producteurs de ses marchés.
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est nécessaire.
+
+### Passe autonome du 25 octobre 2026 (Oise (60) reprise, Senlis resondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. Classement : Haute-Garonne (31) et Haut-Rhin (68) épuisés, Isère (38) en descente, Bouches-du-Rhône (13) éprouvé, Nord (59) clos. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : la région 11 est exclue (règle 41.c). **Oise (60, Hauts-de-France) retenue**, déficit d'environ 3,6, reprise de la descente commencée sur la passe du matin. La dernière passe sur l'Oise remonte à plusieurs passes ; la région 32 n'a pas été visée deux fois de suite.
+
+**Commune, règle 41.d.** Nogent-sur-Oise écartée (note de la passe précédente : aucun commerce vérifiable, une piste écartée pour doute sur une personne, ne se rouvre pas). Senlis (15 157 habitants) reprise.
+
+**Ce qui a été lu.**
+- Annuaire « Jours de Marché », page des producteurs de Senlis (60300) : aucun producteur listé à Senlis même. Les plus proches sont à plus de treize kilomètres (Fosses, Saint-Vaast-lès-Mello, Cauffry), sans horaires de vente directe indiqués.
+- Recherches web ciblées (marché de producteurs, AMAP, magasin de producteurs bio, Bienvenue à la Ferme) : aucune source indépendante ne donne un commerce de vente directe installé dans Senlis. Les résultats sont des gîtes, des listes de Que Choisir hors ville, et un document du Parc naturel Oise - Pays de France qui cite des systèmes de paniers sans lieu fixe à Senlis.
+- Ferme de Folemprise (Saint-Vaast-lès-Mello) : magasin à environ seize kilomètres de Senlis, horaires indiqués par une source tierce. Hors commune : ne compte pas pour la règle 41.d, mais peut former une zone avec d'autres fiches voisines plus tard.
+- Registre Agence Bio, Oise : les deux entrées de Senlis déjà notées (brasserie, pâtisserie-épicerie) ne sont pas des commerces de circuit court vérifiés ; non retenues.
+
+**Pourquoi rien n'est publié.** Senlis ne rend aucun commerce de vente directe vérifié sur une source indépendante. Une fiche hors commune ne suffit pas au groupe de cinq de la règle 41.d, et rien n'est complété à la main.
+
+**Pistes non publiées (Oise).** Ferme de Folemprise, à Saint-Vaast-lès-Mello : magasin de vente directe en bio et fermier, horaires à recouper sur le site de la ferme. **Déblocage** : site officiel de la ferme (horaires, téléphone) et photo du lieu. Ferme du Moulin, à Cauffry, et Ferme de la commune de Fosses (hors Oise pour la seconde) : à instruire si une zone se forme.
+
+**Points d'arrêt.** Passe suivante : Oise (60) reste ouverte, la descente passe à Crépy-en-Valois (14 351 habitants, aucune fiche) par population, sous la règle 247, avec l'annuaire Bienvenue à la Ferme et la Chambre d'agriculture de l'Oise comme sources de repli. Haute-Marne et Seine-Saint-Denis restent à reprendre selon le classement.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
