@@ -42899,3 +42899,22 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Fontaine (22 020 habitants, code INSEE 38169) sous la règle 247, si la descente de l'Isère se poursuit ; sinon le classement est à revoir avec le responsable du site.
+
+### Passe autonome du 25 octobre 2026 (Isère (38) reprise, Fontaine sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule. Classement recalculé : Haute-Garonne (31) et Nord (59) clos, Haut-Rhin (68) éprouvé, Bouches-du-Rhône (13) en pause depuis la passe précédente. **Isère (38) reprise**, descente de la passe précédente, commune suivante par population sans fiche : Fontaine (38169, 22 020 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Isère : les opérateurs enregistrés à Fontaine (38600) déclarent tous la préparation, la distribution en gros ou la restauration, aucun ne déclare la vente aux particuliers. Les entrées « Villefontaine » sont une autre commune et ne sont pas comptées.
+- Registre des entreprises : la commune de Fontaine y figure ; aucun établissement de vente directe recoupé.
+- Recherche web (marché, producteurs, vente directe à Fontaine 38600) : aucun résultat propre à la commune, seulement des homonymes et une annonce immobilière.
+
+**Pourquoi rien n'est publié.** Fontaine ne rend aucun commerce vérifiable sur deux sources indépendantes : aucun vendeur aux particuliers au registre, aucune source municipale ou touristique trouvée.
+
+**Pistes non publiées (anonymes, Isère).** Aucune cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Isère toujours éligible ; la commune suivante par population sans fiche est Voiron (règle 247, descente de l'Isère). Le site de la Ville de Fontaine (fontaine.fr) ne répondait pas depuis cet environnement au moment de la passe.
