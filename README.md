@@ -43226,3 +43226,19 @@ Backlog : 1 en cours (demande n° 13, Villecroze), 0 nouvelle. Aucune fiche publ
 **Fiches écartées pour doute sur une personne** : une cette passe (Villecroze, demande n° 13).
 
 **Point d'arrêt.** Passe suivante : Nord (59), Marcq-en-Barœul puis Lambersart si le site de la Ville répond ; Wattrelos seulement si un horaire de marché est publié par une source officielle.
+
+### Passe autonome du 25 octobre 2026 (Bouches-du-Rhône (13) visé, Vitrolles sondée : aucune fiche publiée)
+
+Backlog : 1 en cours (demande n° 13, déjà instruite : rien de nouveau), 0 nouvelle. Aucune fiche publiée, aucune retirée. Total inchangé : 1 297 fiches.
+
+**Classement, règle 41.** Métropole seule, recalcul sur 1 297 fiches : Nord (59) en tête (déficit 6,3), devant Bouches-du-Rhône (13, 5,9) et Haute-Garonne (31, 5,8). La passe précédente visait le Nord (59) : la règle 41.c ferme donc le Nord, et le 13 est retenu. Région 93 (PACA) : la passe précédente était en Hauts-de-France, pas en PACA.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 13 sont déjà éprouvées (Marseille, Aix-en-Provence, Arles, Martigues ont au moins une fiche ; Aubagne, Istres et Salon-de-Provence ont été sondées sans succès dans les passes précédentes). La plus peuplée sans fiche et non épuisée est **Vitrolles (36 758 habitants)**.
+
+**Ce qui a été lu.** Registre de l'Agence Bio (13, première page de cent opérateurs) : dans les communes du secteur, les opérateurs sont des distributeurs, des grossistes ou des structures de sous-traitance, dont aucun ne vend aux particuliers de façon vérifiable, sauf un (non retenu : sa nature commerciale n'est pas établie, règle 40). Recherche web : les marchés de Vitrolles sont des marchés généralistes sans producteurs identifiés, un drive citoyen signalé en 2020 sans information à jour, et un marché d'artisans ponctuel déjà passé.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Vitrolles sur une source indépendante, et on est loin des cinq fiches groupées requises. Une fiche isolée ne forme pas le groupe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) ou Haut-Rhin (68) selon le recalcul, en veillant à la règle 41.c. Vitrolles ne se reprend que si la mairie publie des horaires de marché de producteurs.
