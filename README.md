@@ -43242,3 +43242,27 @@ Backlog : 1 en cours (demande n° 13, déjà instruite : rien de nouveau), 0 nou
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) ou Haut-Rhin (68) selon le recalcul, en veillant à la règle 41.c. Vitrolles ne se reprend que si la mairie publie des horaires de marché de producteurs.
+
+### Passe autonome du 26 octobre 2026 (Haute-Garonne (31) visée, Blagnac sondée, Muret instruite : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nouveau). Aucune fiche publiée, aucune retirée. Total inchangé : 1 297 fiches.
+
+**Classement, règle 41.** Métropole seule, recalcul sur 1 297 fiches : Haute-Garonne (31) en tête (déficit 4,7), devant le Haut-Rhin (68, 4,5) et les Bouches-du-Rhône (13, 4,3). La passe précédente visait les Bouches-du-Rhône (13) : la règle 41.c ferme donc le 13, et le 31 est retenu.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 31 sans aucune fiche est **Blagnac (27 604 habitants)**.
+
+**Blagnac, ce qui a été lu.** Office de tourisme Haute-Garonne (fiche du marché, mise à jour en septembre 2026) : un marché alimentaire le samedi matin, place des Arts (8 h – 13 h, nombreux étals mêlant producteurs et commerçants), et un marché des producteurs le mercredi, place des Marronniers (15 h 30 – 19 h 30, vingt à vingt-cinq producteurs et artisans, alimentaire seulement). Le registre de l'Agence Bio, relu sur les cinq cents premiers opérateurs du 31, ne donne aucun producteur de vente directe établi à Blagnac. Une AMAP apparaît dans les résultats de recherche, sans page de distribution lisible à ce jour. Le site de la Ville (page des marchés de plein vent) répond 404 depuis cet environnement.
+
+**Blagnac, ce qui manque.** Deux marchés vérifiés par une source indépendante, pas cinq commerces. Aucune photo libre ni officielle de ces marchés n'a été retenue. Descente à la commune suivante, règle 41.d.
+
+**Muret (26 079 habitants), ce qui a été lu.** Ferme Biovercité, 25 rue de Bellefontaine, qui héberge depuis plus de dix ans une AMAP de distribution le jeudi soir à partir de 18 h 30 : source propre du lieu, et adresse confirmée par la Base Adresse Nationale (lat 43,440818 ; lon 1,321889). La photo officielle de la page AMAP (2015, 1920 px) montre des personnes de dos et de profil, avec un enfant visible : elle n'est pas retenue, selon la règle des personnes reconnaissables. Le site de l'agglomération du Muretain sur les producteurs locaux répond 404. Le registre des entreprises ne donne pas d'établissement lisible sous l'enseigne Biovercité ; l'ouverture reste à confirmer. Le marché du mardi matin de la Ville est annoncé sur une recherche web, mais la page municipale de référence répond 404 depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Ni Blagnac ni Muret ne rendent cinq fiches vérifiables avec une source indépendante et une photo libre : deux marchés d'un côté, un lieu d'AMAP avec une photo non retenue de l'autre. Une publication partielle du groupe de cinq n'a pas été faite.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : marché des producteurs du mercredi, marché alimentaire du samedi, une AMAP sans page de distribution. Muret : ferme Biovercité (AMAP le jeudi soir, registre à confirmer), marché du mardi matin de la Ville (page municipale à retrouver), une boutique de produits fermiers au centre commercial du Pic du Ger (source de réseau de vente directe, horaires publiés sur le réseau). Une entreprise individuelle figurant au registre du 31 : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Haute-Garonne, entreprise individuelle), jamais nommée.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste la zone visée (la règle 41.c le permet puisque la passe précédente était en Bouches-du-Rhône) ; reprendre Muret : retrouver la page du marché du mardi sur le site de la Ville et une photo libre de la ferme Biovercité sur une source qui ne montre personne. Si les deux ne sont pas trouvés, descendre au Haut-Rhin par la formule au prochain passage, non avant.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
