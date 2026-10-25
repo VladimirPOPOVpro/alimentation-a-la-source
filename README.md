@@ -42834,3 +42834,23 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Points d'arrêt.** Le classement renvoie depuis plusieurs passes les mêmes départements ; une source locale lisible pour Senlis (liste des exposants du marché) ou une décision du responsable du site sur l'ordre des secteurs débloquerait la suite.
+
+### Passe autonome du 25 octobre 2026 (Bouches-du-Rhône (13) sondée, Salon-de-Provence éprouvée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté). Classement recalculé : Nord (59, 6,23), Bouches-du-Rhône (13, 5,89), Haute-Garonne (31, 5,82), Isère (38, 5,44), Haut-Rhin (68, 5,10). Le Nord est clos (règle 247) ; la passe précédente visait l'Oise (Hauts-de-France), donc le 59 est exclu par la règle 41.c. **Bouches-du-Rhône (13, région 93) retenue**, dernière visite sur la descente d'Aubagne et d'Istres, deux communes sur la borne de douze (règle 247).
+
+**Commune, règle 41.d.** Les communes du 13 sans fiche les plus peuplées sont Aubagne, Istres, puis Salon-de-Provence (44 194 habitants). Aubagne et Istres ont déjà été éprouvées sur plusieurs passes ; Salon-de-Provence est la commune suivante de la descente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bouches-du-Rhône : 1 000 opérateurs relus. Pour Salon-de-Provence, deux exploitations maraîchères bio déclarent la vente aux particuliers et sont en activité au registre des entreprises (code NAF 01.13Z). Aucune n'a encore de seconde source publique (site, office ou marché) vérifiée : elles restent des pistes.
+- Site de la Ville de Salon-de-Provence : hors d'atteinte depuis cet environnement (aucune réponse).
+
+**Pourquoi rien n'est publié.** Salon-de-Provence ne rend aucun commerce vérifiable sur deux sources indépendantes, et la source municipale est injoignable (règle 52). Les fiches déjà entamées à Aubagne et Istres restent sans publication.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Salon-de-Provence : deux exploitations maraîchères bio en vente directe, actives au registre, à vérifier sur un site ou une liste de marché ; reprendre à la passe suivante.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Salon-de-Provence reprise si la Ville ou un annuaire répond ; sinon la règle 247 s'applique à la commune suivante de la descente du 13 (Istres ou Aubagne déjà éprouvées, donc Vitrolles, Marignane ou La Ciotat selon la règle 41.d).
