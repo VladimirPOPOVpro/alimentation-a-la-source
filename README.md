@@ -43154,3 +43154,23 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Points d'arrêt.** Passe suivante : Isère (38) reste ouverte, Vienne reprise sur le marché du samedi, avec la Chambre d'agriculture de l'Isère et Bienvenue à la Ferme comme sources de repli. Si Vienne ne rend pas cinq commerces vérifiables, descendre à Bourgoin-Jallieu (30 151 habitants) par population.
 
 **Publication.** Aucune fiche ajoutée, aucune image déposée, aucune réponse envoyée. Seule cette note a été ajoutée au README ; `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 25 octobre 2026 (Seine-Saint-Denis (93) reprise, Drancy et Bobigny sondées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 296 fiches, populations `geo.api.gouv.fr`. La passe précédente visait l'Isère (région 84) : cette région est exclue (règle 41.c). Nord (59) clos, Bouches-du-Rhône (13) éprouvé, Haute-Garonne (31) et Haut-Rhin (68) épuisés, Isère (38) en descente. Le déficit le plus fort hors de ces départements est en Seine-Saint-Denis (93), descente déjà commencée. Région 11 retenue : la passe suivante ne la vise pas.
+
+**Ce qui a été lu.**
+- Drancy (72 390 habitants), registre Agence Bio, Seine-Saint-Denis, première page : les entrées de Drancy sont des hypermarchés, des grossistes, un distributeur de légumes et des établissements sans vente au public. Aucune entrée n'est un point de vente directe du producteur. Écartées.
+- Drancy, recherche web ciblée (producteurs, AMAP, magasin de producteurs) : aucune source indépendante 2026 ; les résultats sont généraux.
+- Bobigny, registre Agence Bio, Seine-Saint-Denis : trois entrées de Bobigny, toutes en distribution ou en vente aux professionnels ou sans vente au public. Écartées.
+- Bobigny, recherche web : une épicerie participative de la commune, relevée par un comparateur de circuit court, n'est pas vérifiée (horaires sur un seul jour de la semaine, aucun site officiel lu) ; aucun marché de producteurs ni AMAP trouvé pour 2026. Le marché de Noël de décembre est un événement, pas un point de vente permanent.
+
+**Pourquoi rien n'est publié.** Drancy et Bobigny ne rendent aucun commerce de vente directe vérifiable sur deux sources indépendantes. Une fiche isolée ne forme pas le groupe de cinq de la règle 41.d, et rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Seine-Saint-Denis).** Bobigny : épicerie participative de la commune, à instruire seulement si son site officiel ou la commune confirme les horaires ; la zone ne se forme pas avec une seule fiche. Drancy : marché couvert, déjà noté dans les passes précédentes, sans liste de producteurs.
+
+**Points d'arrêt.** Passe suivante : Seine-Saint-Denis (93) reste ouverte ; la descente passe à la commune suivante par population sans fiche, sous la règle 247, avec l'office de tourisme et les sites de communes voisines comme sources de repli. Ile-de-France (11) ne se revisite pas à la passe suivante.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
