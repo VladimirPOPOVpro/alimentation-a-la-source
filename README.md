@@ -42880,3 +42880,22 @@ Les fiches AMAP et marchés ne relèvent pas du registre des entreprises (règle
 **Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, à Vienne et Bourgoin-Jallieu, sont inscrites sous des noms de personnes physiques : nombre et communes seulement, aucun nom consigné, ne se rouvrent pas.
 
 **Points d'arrêt.** Isère toujours éligible : la descente a éprouvé Vienne et Bourgoin-Jallieu (deux communes sur la borne de douze, règle 247). Passe suivante : Vienne reprise sur la page « marchés » de la Ville ou une source de l'office à jour ; sinon la commune suivante par population sans fiche (Fontaine, 22 020 habitants, puis Voiron).
+
+### Passe autonome du 25 octobre 2026 (Isère (38) reprise, Vienne relue : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règle 41.** Isère reprise (38), descente de la passe précédente. Pas de nouveau classement retenu : la passe reprend la commune en cours.
+
+**Ce qui a été lu.**
+- Site de la Ville de Vienne, rubrique « Marchés publics » : c'est la commande publique (appels d'offres), pas les marchés de producteurs. Aucune information utile.
+- Recherche web sur le magasin de producteurs avenue Marcellin Berthelot : aucune source propre, aucune seconde source sur les horaires ni les produits. Le seul « Panier » trouvé est à Nice, hors sujet.
+- Registre des entreprises : aucun recoupement supplémentaire.
+
+**Pourquoi rien n'est publié.** Vienne ne rend toujours aucun commerce vérifié sur deux sources indépendantes (règle 52).
+
+**Pistes non publiées (anonymes, Isère).** Vienne : magasin de producteurs avenue Marcellin Berthelot, toujours à une seule source. Déblocage : site propre de la boutique ou confirmation de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Fontaine (22 020 habitants, code INSEE 38169) sous la règle 247, si la descente de l'Isère se poursuit ; sinon le classement est à revoir avec le responsable du site.
