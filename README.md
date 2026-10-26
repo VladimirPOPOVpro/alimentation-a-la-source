@@ -43308,3 +43308,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) toujours en descente, commune suivante par population sans fiche après Balma (Castanet-Tolosan, 15 317 habitants), en vérifiant d'abord le marché et l'AMAP de Balma sur le site de la mairie. La règle 247 borne la descente à douze communes éprouvées ; le compte est à tenir dans la prochaine passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (Nord (59) désigné, Marcq-en-Barœul et Lambersart relues au registre : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nouveau, le contact reste privé et le nom de la demande relève d'un doute sur une personne). Aucune fiche publiée, aucune retirée. Total inchangé : 1 297 fiches.
+
+**Classement, règle 41.** Métropole seule. La Haute-Garonne (31), en tête du recalcul (déficit ≈ 6,0), a été visée à la passe précédente : la règle 41.c l'exclut pour cette passe. Le Nord (59) est le suivant (déficit ≈ 6,5 au recalcul, plus haut que le 31 une fois sa règle appliquée) et n'a pas été visé à la passe précédente. Nord désigné.
+
+**Commune, règle 41.d.** La plus peuplée sans fiche reste Wattrelos (déjà éprouvée, horaire de marché non publié) ; la note du 25 octobre désigne Marcq-en-Barœul puis Lambersart.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Nord, cinq premières pages (500 opérateurs) filtrées sur Marcq-en-Barœul et Lambersart : des préparateurs, des distributeurs en gros, des boulangeries, des négoces et des établissements sans vente au détail déclarée. Aucun producteur de vente directe établi à Marcq-en-Barœul. À Lambersart, une seule entrée déclarée en vente aux particuliers, une préparation (non retenue, pas un commerce de la carte). Site officiel de la Ville de Marcq-en-Barœul : injoignable depuis cet environnement au moment de la passe.
+
+**Pourquoi rien n'est publié.** Ni Marcq-en-Barœul ni Lambersart ne rendent un commerce vérifiable sur une source indépendante, et l'on est loin du groupe de cinq. Rien n'est publié, rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Nord).** Aucune nouvelle piste cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune identifiée cette passe.
+
+**Points d'arrêt.** Passe suivante : Nord (59) reste éligible si la règle 41.c le permet à ce moment-là (la passe précédente visait la Haute-Garonne). Retenter le site de la Ville de Marcq-en-Barœul avant de descendre à Lambersart ; Wattrelos seulement si un horaire de marché est publié par une source officielle.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
