@@ -43746,3 +43746,19 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Pistes non publiées (anonymes, Bouches-du-Rhône).** Miramas et Gardanne : opérateurs du registre Agence Bio sans vente aux particuliers, à reprendre si la Ville publie un marché ou un point de vente. Aubagne, Istres, Salon-de-Provence, La Ciotat, Vitrolles, Marignane : sondées, voir les passes précédentes.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) redevient éligible. Le Bouches-du-Rhône ne sera visé de nouveau qu'après une passe ailleurs ; la prochaine commune à sonder dans le 13 est Miramas, sur le site de la Ville.
+
+### Passe autonome du 27 octobre 2026 (Haute-Garonne (31) reprise, Fonsorbes sondée : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande déjà instruite, rien de nouveau). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée.
+
+**Classement, règle 41.** Métropole seule : Haute-Garonne (31) en tête (déficit ≈ 4,7). La passe précédente visait les Bouches-du-Rhône (13), la garde des deux passes écarte donc le 13 ; le 31 est retenu.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 31 sans aucune fiche déjà sondées (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens) n'ont pas rendu cinq commerces vérifiables. La suivante par population est **Fonsorbes (12 954 habitants)**.
+
+**Fonsorbes, ce qui a été lu.** Recherche généraliste sans résultat sur un marché, une AMAP ou une ferme en vente directe dans la commune. Un magasin bio de l'enseigne So.bio est recensé, mais il s'agit d'une enseigne franchisée et les horaires ne proviennent que d'un agrégateur de catalogues : hors du cadre « magasin bio indépendant », et non vérifié. Les producteurs repérés dans l'annuaire Jours de Marché sont à 26 km et 36 km, hors commune, et leurs fiches sont anciennes : écartés (règle 52, pas de complément par communes voisines).
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne décrit un commerce vérifiable à Fonsorbes. L'interrogation du registre de l'Agence Bio pour le 31 n'a pas rendu de liste exploitable à cette passe.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Fonsorbes : une enseigne bio franchisée recensée, horaires non vérifiés, à reprendre si une source propre au magasin est trouvée. Le groupe des communes sondées du 31 reste inchangé.
+
+**Point d'arrêt.** Passe suivante : le 31 ne peut pas être visé de nouveau ; le département en tête redevient le 13 (Bouches-du-Rhône). La prochaine commune à sonder dans le 31 est Villeneuve-Tolosane (11 044 habitants), à reprendre au registre Agence Bio par la rue.
