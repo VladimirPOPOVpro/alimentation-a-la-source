@@ -43538,3 +43538,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Oise (60) : onze communes éprouvées sur la borne de douze (règle 247). Passe suivante : Oise reste ouverte ; la commune suivante par population sans fiche et non éprouvée est Gouvieux (8 867 habitants), après Clermont ; une seule commune reste avant la borne. Si la descente n'aboutit pas, passer au département suivant du classement, sans retenir la région 32 deux passes de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, dixième passe : Oise (60) close à Gouvieux (douzième commune), descente reprise à Marignane (13) : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu, ne se rouvre pas).
+
+**Secteur, règle 41 et 247.** Oise (60) : Gouvieux (8 867 habitants) sondée, douzième et dernière commune de la borne. La borne est atteinte : la passe change de département (règle 247). La Bouches-du-Rhône (13, région 93) n'a pas été visée deux passes de suite (les trois dernières passes visaient la région 32) ; sa descente reprend à la commune suivante par population sans fiche, Marignane, sans refaire le criblage (cinq communes déjà éprouvées : La Ciotat, Aubagne, Istres, Salon-de-Provence, Vitrolles).
+
+**Gouvieux, ce qui a été lu.** Registre de l'Agence Bio, Oise (déjà relu) : une épicerie de vente au détail, sans site ni source indépendante. Recherche web sur marchés, AMAP et magasins de producteurs : aucun résultat propre à la commune.
+
+**Marignane, ce qui a été lu.** Registre de l'Agence Bio, Bouches-du-Rhône (déjà relu à la passe six) : aucun producteur ni point de vente de circuit court à Marignane. Recherche web : un magasin de producteurs bio (guide touristique myprovence, adresse et téléphone à confirmer sur le site du commerce), une exploitation en vente à la ferme et AMAP référencée par un annuaire sans commune précise, et une AMAP à Martigues (commune voisine, hors sujet pour cette passe).
+
+**Pourquoi rien n'est publié.** Une seule piste à une source touristique pour Marignane : pas de fiche entière, et la règle 52 ne permet pas de compléter avec les voisines. Cinq fiches groupées n'existent pas ici (règle 248).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Marignane : un magasin de producteurs bio (guide touristique, adresse et horaires à confirmer auprès du commerce) ; une exploitation maraîchère en vente à la ferme (annuaire, commune à confirmer). Gouvieux (Oise) : une épicerie de vente au détail (registre, source à retrouver).
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) reprend à Marignane ; le magasin de producteurs bio est à reprendre en premier, avec le site du commerce comme source indépendante. Si la descente n'aboutit pas avant la borne de douze, passer au département suivant du classement (Rhône, 69), sans retenir la région 93 deux passes de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
