@@ -43495,3 +43495,24 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Descente de l'Oise à neuf communes éprouvées sur la borne de douze (règle 247). Passe suivante : Oise (60) reste ouverte ; la commune suivante par population sans fiche est Pont-Sainte-Maxence (12 361 habitants), à éprouver d'abord sur la carte du Parc et l'annuaire Bienvenue à la Ferme de l'Oise. Si la descente n'aboutit pas avant la borne, passer au département suivant du classement, sans retenir la région 93 deux passes de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (huitième passe : Oise (60) poursuivie, Pont-Sainte-Maxence sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule, 1 299 fiches. L'Oise (60) reste le premier département éligible (descente en cours, neuf communes éprouvées). La commune suivante par population sans fiche est **Pont-Sainte-Maxence (12 361 habitants)**.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Oise, six pages (600 opérateurs), filtrées sur la commune : une seule enseigne de vente au détail à Pont-Sainte-Maxence (grande surface, écartée comme commerce généraliste), deux entreprises de grossiste ou de distribution sans vente au public, une de bricolage et une entrée sans vente. Aucun producteur ni point de vente de circuit court.
+- Recherche web sur le marché de producteurs : aucun jour ni horaire de marché de producteurs trouvé pour Pont-Sainte-Maxence. Les résultats renvoient à d'autres communes homonymes.
+- Recherche web sur la vente directe : une annonce d'annuaire pour une ferme de la commune voisine, sans site ni horaires vérifiés, et au nom d'une personne physique : écartée (doute sur une personne), jamais nommée. Une mention d'un AMAP local dans un document de 2021 du Parc naturel Oise – Pays de France : pas de site, pas d'adresse de point de distribution, pas d'horaires vérifiés.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Pont-Sainte-Maxence : pas de fiche entière, pas même une piste à deux sources indépendantes. Les fermes trouvées sont dans des communes voisines et ne se rattachent pas au groupe (règle 52). La règle 248 s'applique : rien n'est publié.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (vente directe d'une exploitation individuelle, Les Ageux), jamais nommée, ne se rouvre pas.
+
+**Pistes non publiées (anonymes, Oise).** Pont-Sainte-Maxence : un AMAP local (2021, à retrouver auprès du réseau AMAP régional) ; un marché de producteurs (jour inconnu, à chercher sur le site de la Ville). Environs : deux fermes de vente directe à quelques kilomètres, sources d'annuaire seules, à reprendre si une source du commerce lui-même est trouvée.
+
+**Point d'arrêt.** Oise (60) : dix communes éprouvées sur la borne de douze (règle 247). Passe suivante : Oise toujours ouverte ; la commune suivante par population sans fiche est Méru déjà sondée, puis Pont-Sainte-Maxence close ; à reprendre sur l'annuaire Bienvenue à la Ferme de l'Oise et le site de l'AMAP régional, ou passer au département suivant du classement si la descente n'aboutit pas avant la borne.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
