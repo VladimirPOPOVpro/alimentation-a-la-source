@@ -43558,3 +43558,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) reprend à Marignane ; le magasin de producteurs bio est à reprendre en premier, avec le site du commerce comme source indépendante. Si la descente n'aboutit pas avant la borne de douze, passer au département suivant du classement (Rhône, 69), sans retenir la région 93 deux passes de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, onzième passe : Haute-Garonne (31) visée, Blagnac sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu, ne se rouvre pas).
+
+**Secteur, règle 41 et 247.** Métropole seule, 1 299 fiches. Le calcul de déficit (population des communes par département, fiches lues sur le code postal) donne en tête la Haute-Garonne (31, déficit ≈ 4,7), la Bouches-du-Rhône (13, déficit ≈ 4,3) et le Nord (59, déficit ≈ 4,3) ; la Bouches-du-Rhône (région 93) est exclue par la garde « deux passes de suite », puisque la passe précédente y a travaillé. La Haute-Garonne, en tête des départements éligibles, est retenue. La commune la plus peuplée sans fiche en Haute-Garonne est **Blagnac (27 604 habitants)**.
+
+**Ce qui a été lu.**
+- Site de la mairie : rubrique « Circuits courts » (quatre entrées : un maraîcher bio en vente directe, l'AMAP Saint-Pierre d'Ax, L'Arche en pays toulousain, un service de paniers de l'Espace famille) et rubrique « Marchés de plein vent ».
+- Office de tourisme Haute-Garonne Tourisme : fiche « Marché de Blagnac », samedi 8 h à 13 h place des Arts (environ 90 étals), mercredi 15 h 30 à 19 h 30 place des Marronniers (producteurs et artisans, alimentaire seul).
+- Site et registre de l'AMAP Saint-Pierre d'Ax (plateforme CAMAP) : distribution le mardi à 18 h, garage des anciennes serres municipales, allée Flandres-Dunkerque 1940 (jardins de Catalogne) ; registre des entreprises : établissement actif, adresse identique. Inscriptions sur liste d'attente.
+- Boutique de L'Arche en pays toulousain : adresse 2 rue du Docteur Guimbaud, établissement actif au registre ; horaires divergents selon les annuaires (samedi matin 9 h 30 à 12 h 30 ou 13 h), à confirmer auprès de la boutique.
+- Biocoop Blagnac : site officiel (horaires lundi à samedi 9 h à 19 h 30, fermé le dimanche), fiche d'avis Google (plus de 500 avis) ; le registre des entreprises ne renvoie aucun établissement Blagnac sous ce nom, la vérification d'activité par le registre n'a donc pas pu être faite.
+- Épicerie bio et locale de Blagnac (avenue d'Andromède) : site actif (horaires lundi à samedi 10 h à 18 h), mais le registre des entreprises indique son établissement « cessé » sans établissement ouvert. Contradiction entre sources : règle 5, rien n'est publié.
+- Exploitation maraîchère bio de Blagnac, vente de paniers (mairie, annuaires) : l'enseigne du site du producteur est collective, mais la mention de la fiche de l'annuaire régional reprend un prénom individuel. Doute sur une personne : écartée, jamais nommée, ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** Blagnac rend quatre commerces vérifiables (marché du samedi, AMAP, L'Arche, Biocoop), soit un de moins que la borne de cinq. Pour chacun, aucune photo n'a pu être trouvée : la photo du magasin Biocoop est de 451 px de large (en dessous du seuil de 700 px, un bandeau serait flou), les autres pages n'ont pas d'image exploitable, et les images Unsplash et Pexels restent bloquées. Les règles d'image interdisent d'inventer une photo : pas de fiche sans photo. La commune n'atteint donc pas le groupe de cinq ; la règle prévoit de descendre à la suivante.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (exploitation maraîchère de Blagnac, vente directe), jamais nommée, ne se rouvre pas.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : marché du samedi (commerce vérifié, photo à trouver) ; AMAP Saint-Pierre d'Ax (mardi 18 h, liste d'attente, photo à trouver) ; L'Arche en pays toulousain (adresse vérifiée, horaires à confirmer) ; Biocoop Blagnac (site vérifié, registre à retrouver) ; épicerie bio de l'avenue d'Andromède (registre « cessé », à recouper) ; exploitation maraîchère (doute sur une personne, écartée).
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte. Blagnac ne peut être publiée qu'avec les quatre commerces et leurs photos, ou un cinquième commerce vérifié ; à défaut, la commune suivante par population sans fiche en Haute-Garonne est Muret (26 079 habitants). Le Nord (59) reste le prochain département du classement si la descente n'aboutit pas.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
