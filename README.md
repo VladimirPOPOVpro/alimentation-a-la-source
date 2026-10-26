@@ -43317,7 +43317,7 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 
 **Commune, règle 41.d.** La plus peuplée sans fiche reste Wattrelos (déjà éprouvée, horaire de marché non publié) ; la note du 25 octobre désigne Marcq-en-Barœul puis Lambersart.
 
-**Ce qui a été lu.** Registre de l'Agence Bio, Nord, cinq premières pages (500 opérateurs) filtrées sur Marcq-en-Barœul et Lambersart : des préparateurs, des distributeurs en gros, des boulangeries, des négoces et des établissements sans vente au détail déclarée. Aucun producteur de vente directe établi à Marcq-en-Barœul. À Lambersart, une seule entrée déclarée en vente aux particuliers, une préparation (non retenue, pas un commerce de la carte). Site officiel de la Ville de Marcq-en-Barœul : injoignable depuis cet environnement au moment de la passe.
+**Ce qui a été lu.** Registre de l'Agence Bio, Nord, cinq premières pages (500 opérateurs) filtrées sur Marcq-en-Barœul et Lambersart : des préparateurs, des distributeurs en gros, des boulangeries, des négoces et des établissements sans vente au détail déclarée. Aucun producteur de vente directe établi à Marcq-en-Barœul. À Lambersart, deux entrées déclarées en vente aux particuliers, toutes deux des préparateurs (non retenues, pas des commerces de la carte). Site officiel de la Ville de Marcq-en-Barœul : injoignable depuis cet environnement au moment de la passe.
 
 **Pourquoi rien n'est publié.** Ni Marcq-en-Barœul ni Lambersart ne rendent un commerce vérifiable sur une source indépendante, et l'on est loin du groupe de cinq. Rien n'est publié, rien n'est complété à la main.
 
