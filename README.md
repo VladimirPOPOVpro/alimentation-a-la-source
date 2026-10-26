@@ -43449,3 +43449,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Points d'arrêt.** Passe suivante : Haute-Garonne (31) toujours en descente (huit communes sur douze). La commune suivante par population sans fiche est Saint-Orens-de-Gameville, à éprouver sur le site de la mairie et l'annuaire Bienvenue à la Ferme de la Haute-Garonne. Le classement de la règle 41 se relit à la passe suivante ; la région 76 ne sera pas visée deux fois de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (sixième passe : Bouches-du-Rhône (13) reprise, La Ciotat sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule, 1 299 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (région 76) : cette région est exclue (règle 41.c). Nord (59) clos (règle 247), Haute-Garonne (31) et Haut-Rhin (68) épuisés. **Bouches-du-Rhône (13, déficit ≈ 6,0) retenu**, premier département éligible du classement, avec Oise (60) et Isère (38) en descente.
+
+**Commune, règle 41.d.** Marseille, Aix-en-Provence, Arles et Martigues portent déjà des fiches ; Aubagne, Istres, Salon-de-Provence et Vitrolles ont été sondées sans succès. La plus peuplée sans fiche et non épuisée est **La Ciotat (36 000 habitants environ)**, cinquième commune éprouvée sur les douze de la borne de la règle 247.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Bouches-du-Rhône, cinq pages (500 opérateurs) filtrées sur La Ciotat, Marignane, Miramas et Gardanne : des distributeurs, des grossistes, des préparateurs et des sièges sociaux. Une seule entrée déclarée en vente aux particuliers à La Ciotat, une personne physique : écartée (doute sur une personne, règle 36).
+- Recherche web : les marchés de La Ciotat (mardi matin place Évariste Gras, dimanche matin, marché de producteurs du Port Vieux) ne donnent pas un jour de producteurs confirmé par une source officielle : les sources se contredisent sur le Port Vieux (dimanche ou samedi), et aucune ne publie d'horaire vérifié pour 2026.
+- Registre des entreprises : une boutique de vrac d'un réseau national, active, classée en commerce d'alimentation générale ; une enseigne de vente directe de fruits, légumes et volailles dont l'activité déclarée au registre ne correspond pas à une exploitation agricole ; une AMAP sans date ni contact à jour.
+
+**Pourquoi rien n'est publié.** Au plus une fiche entière (la boutique de vrac, réseau, catégorie et sources locales insuffisantes) et des marchés dont le jour n'est pas confirmé : on est loin des cinq fiches groupées requises. La règle 52 ne peut pas compléter chez un voisin : la commune n'a qu'un seul point solide.
+
+**Fiches écartées pour doute sur une personne** : une enseigne de vente directe à La Ciotat (registre au nom d'une personne physique, à reprendre seulement si une source publique confirme l'enseigne).
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** La Ciotat : un marché de producteurs du Port Vieux (jour à confirmer auprès de la mairie) ; un marché alimentaire du mardi matin, place Évariste Gras (producteurs, horaires à confirmer) ; une boutique de vrac de réseau (écartée tant qu'aucune source locale ne la rattache à la production) ; une AMAP sans date (à reprendre si elle publie ses points de distribution).
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) toujours en descente (cinq communes éprouvées sur douze). La commune suivante par population sans fiche est Marignane, puis Miramas, à éprouver sur les sites des mairies et l'annuaire Bienvenue à la Ferme des Bouches-du-Rhône. Si la descente n'aboutit pas avant la borne, appliquer la règle 247 et passer au département suivant du classement (Rhône, 69, déficit ≈ 4,6). La région 93 ne sera pas visée deux fois de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est nécessaire à cette passe.
