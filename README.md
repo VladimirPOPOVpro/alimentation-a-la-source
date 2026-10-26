@@ -43705,3 +43705,17 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours la plus déficitaire ; reprendre Blagnac ou Muret si leurs sites répondent. Sinon, le Bouches-du-Rhône (13) puis le Nord (59) selon le classement, en gardant la garde « deux passes de suite ».
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (dix-huitième passe : Bouches-du-Rhône (13) reprise à Fos-sur-Mer : aucune fiche publiée)
+
+**Secteur, règles 41, 247, 248 et 301.** Métropole seule : les départements d'outre-mer sont écartés par `lib/validateMerchants.ts`, dont la boîte de coordonnées ne couvre que la France métropolitaine. La Haute-Garonne (31), visée à la passe dix-septième, est écartée par la garde « deux passes de suite ». Le Bouches-du-Rhône (13, déficit ≈ 4,3) est retenu. Les communes d'Aubagne à Châteaurenard ont déjà été éprouvées ; la descente reprend donc après Châteaurenard, à Fos-sur-Mer.
+
+**Commune sondée : Fos-sur-Mer (13270)**, 15 862 habitants, sans fiche.
+
+- Registre de l'Agence Bio, première page du département (100 opérateurs lus) : aucun opérateur déclaré à Fos-sur-Mer.
+- Recherche web : une supérette de zone commerciale qui met en avant des produits bio et locaux, une enseigne bio dont la page ne donne ni adresse ni horaires vérifiés, et une exploitation bio à vente à la ferme signalée par un seul annuaire, sans site ni registre la confirmant. Aucun marché de producteurs trouvé.
+- Aucune de ces pistes n'atteint deux sources indépendantes avec des horaires vérifiés. Rien n'est publié.
+
+**Commune suivante, Port-de-Bouc et Tarascon.** Tarascon (13150) : la recherche ne renvoie que de la grande distribution et un bricolage, et une homonyme ariégeoise, à écarter. Port-de-Bouc n'a pas été sondée dans cette passe, faute de source sur Fos.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq fiches vérifiables, et la règle 258 interdit de compléter une passe avec deux fiches entières isolées. Le point d'arrêt : passe suivante, Bouches-du-Rhône ouvert ; reprendre la descente à Port-de-Bouc puis Tarascon, avec les sites des communes et des offices de tourisme, que cette passe n'a pas pu consulter.
