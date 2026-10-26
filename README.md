@@ -43406,3 +43406,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Points d'arrêt.** Passe suivante : Haute-Garonne (31) toujours en descente ; la commune suivante par population est Saint-Orens-de-Gameville ou Ramonville-Saint-Agne après Castanet-Tolosan, à éprouver sur le site de la mairie. Retenter le site de la mairie de Blagnac, dont l'accès a échoué plusieurs fois depuis cet environnement, avant tout nouveau tirage.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (quatrième passe du jour) : Oise (60) reprise, Montataire, Noyon et Chambly sondées au registre : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (Var, enseigne portant un prénom) : écartée pour doute sur une personne, non publiée, ne se rouvre pas.
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, règle 177). La passe précédente visait la Haute-Garonne (région 76) : la région 32 n'est pas visée deux fois de suite. Nord (59), Bouches-du-Rhône (13), Haute-Garonne (31) et Haut-Rhin (68) sont déjà éprouvés ; l'Oise (60, déficit 3,6) est le premier département ouvert du classement, et sa descente se poursuit (règle 247 : cinq communes éprouvées sur douze).
+
+**Commune, règle 41.d et 247.** Commune suivante par population sans fiche : Montataire (14 257 habitants), puis Méru (13 897) et Noyon (12 971).
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Oise, cinq pages (500 opérateurs), filtrées sur Montataire, Méru, Noyon, Chambly, Lamorlaye, Gouvieux, Pont-Sainte-Maxence, Clermont, Breteuil, Liancourt et Mouy. Ressortent surtout des grossistes, des fabricants et des établissements sans vente au public ; quelques inscriptions de commerce de détail (épicerie, magasin bio) sont à Chambly, Gouvieux et Clermont, sans source indépendante ni site vérifié. Plusieurs inscriptions désignent des particuliers : écartées sans être reprises.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq fiches vérifiables avec une source indépendante. Une fiche isolée ne forme pas le groupe (règle 52), et la passe ne publie donc rien (règle 248). Rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Oise).** Noyon : une structure de vente en circuit court (registre Agence Bio, « vente aux particuliers », site et adresse à vérifier). Chambly : un magasin bio d'enseigne (registre, horaires et site à confirmer). Gouvieux : une épicerie de vente au détail (registre, source à retrouver). Montataire : une épicerie fine (registre, pas de site trouvé). Clermont : un atelier de condiments avec vente au public (registre, site à confirmer).
+
+**Fiches écartées pour doute sur une personne.** Deux inscriptions de vente aux particuliers désignent des personnes physiques à Neuilly-sous-Clermont et Noyon : non reprises, non nommées.
+
+**Points d'arrêt.** Passe suivante : l'Oise reste ouverte (cinq communes éprouvées, borne de douze), descente à Montataire, puis Méru, à éprouver sur les sites des mairies et l'annuaire Bienvenue à la Ferme de l'Oise. Si la descente n'aboutit pas avant la borne, appliquer la règle 247 et passer au département suivant du classement.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
