@@ -43719,3 +43719,18 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Commune suivante, Port-de-Bouc et Tarascon.** Tarascon (13150) : la recherche ne renvoie que de la grande distribution et un bricolage, et une homonyme ariégeoise, à écarter. Port-de-Bouc n'a pas été sondée dans cette passe, faute de source sur Fos.
 
 **Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq fiches vérifiables, et la règle 258 interdit de compléter une passe avec deux fiches entières isolées. Le point d'arrêt : passe suivante, Bouches-du-Rhône ouvert ; reprendre la descente à Port-de-Bouc puis Tarascon, avec les sites des communes et des offices de tourisme, que cette passe n'a pas pu consulter.
+
+### Passe autonome du 26 octobre 2026 (dix-neuvième passe : Haute-Garonne (31) reprise, Blagnac, Muret et Saint-Orens-de-Gameville sondées : aucune fiche publiée)
+
+**Secteur, règles 41 et 247.** Métropole seule, 1 299 fiches. Déficits recalculés : Haute-Garonne (31) ≈ 4,72, Bouches-du-Rhône (13) ≈ 4,33, Nord (59) ≈ 4,28. La passe précédente visait le Bouches-du-Rhône (13) ; la garde « deux passes de suite » écarte donc ce seul département, et la Haute-Garonne est retenue. Les départements d'outre-mer restent exclus par `lib/validateMerchants.ts`.
+
+**Communes sondées.**
+- Blagnac : les sources trouvées sont des annuaires participatifs anciens (annuaire de 2015 pour l'AMAP et le point de dépôt, horaires du magasin bio issus d'une offre d'emploi). Aucune source récente et propre au commerce ; le site de la Ville reste la source attendue.
+- Muret : un magasin bio de grande surface et un point de vente indiqué avec un code postal de Paris, donc adresse non fiable. Aucun marché de producteurs fixe confirmé. Les producteurs signalés sont à 8 km et 33 km.
+- Saint-Orens-de-Gameville : deux marchés recensés sans jours ni horaires, aucun magasin bio ni point de vente en vente directe dans la commune.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend cinq commerces vérifiables (deux sources indépendantes, horaires confirmés, adresse géocodée). La règle 52 interdit de compléter avec des communes voisines.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : AMAP et point de dépôt (annuaire ancien, à reprendre sur la Ville ou les structures elles-mêmes) ; magasin bio (enseigne de grande surface, hors périmètre à confirmer). Muret : magasin bio (adresse et horaires à confirmer, déjà noté aux passes neuf et douze). Saint-Orens-de-Gameville : deux marchés sans horaires.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours la plus déficitaire mais la garde ne s'applique plus à elle deux passes de suite. Reprendre Blagnac seulement si le site de la Ville répond ou si un marché est confirmé par la mairie ; sinon la commune suivante par population sans fiche, Plaisance-du-Touch et Balma déjà sondées, est à rechercher sur le site de la mairie de Cugnaux ou de Castanet-Tolosan.
