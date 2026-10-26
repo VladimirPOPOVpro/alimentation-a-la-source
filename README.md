@@ -43383,3 +43383,26 @@ la commune la plus peuplée sans fiche est **Saint-Louis**.
   (fermes individuelles). Écartées pour doute sur une personne ; elles ne se rouvrent pas.
 
 **Total : 1 299 fiches** (1 297 avant cette passe).
+
+### Passe autonome du 26 octobre 2026 (troisième passe du jour) : Haute-Garonne (31) reprise, Blagnac, Balma et Castanet-Tolosan sondées : aucune fiche publiée
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nouveau). Aucune fiche publiée, aucune retirée. Total inchangé : 1 299 fiches.
+
+**Classement, règle 41.** Métropole seule, recalcul sur 1 299 fiches : Haute-Garonne (31) en tête (déficit 4,7), devant le Nord (59, 4,3) et les Bouches-du-Rhône (13, 4,3). Outre-mer écarté par la règle 177. La passe précédente visait le Haut-Rhin (68) : la règle 41.c ne ferme que le 68, le 31 est retenu.
+
+**Commune, règle 41.d et 247.** Blagnac reste la commune la plus peuplée du 31 sans fiche, puis Balma et Castanet-Tolosan. La descente en 31 compte à ce jour sept communes éprouvées (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Saint-Orens-de-Gameville, L'Union), sous la borne de la règle 247.
+
+**Ce qui a été lu.**
+- Blagnac : le registre de l'Agence Bio, relu sur cinq cents opérateurs du 31, ne donne aucun producteur de vente directe à Blagnac. Une recherche sur le marché des producteurs (place des Marronniers, mercredi) ne retrouve aucune page à jour ; la mairie n'expose pas ses horaires de marché dans les résultats. Le magasin bio du réseau coopératif (rue Henri Matisse) est signalé par un annuaire de magasins, sans horaires confirmés par le site de l'enseigne ni par le registre des entreprises (recherche sans résultat) : piste, non publiée.
+- Balma : une recherche sur les marchés et la mairie ne retrouve qu'un guide des commerçants de 2021 (marché de plein vent le mercredi et le samedi matin, non précisé comme marché de producteurs). Aucune page à jour.
+- Castanet-Tolosan : un répertoire de marchés participatifs classe un marché de producteurs le jeudi de 19 h à 20 h, à une adresse incohérente avec la commune : à confirmer, non publié.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq fiches vérifiées par une source indépendante, ni même deux avec adresse, horaires et photo libre. Une fiche isolée ne forme pas le groupe (règle 52) ; la passe ne publie donc rien (règle 248), et rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : marché des producteurs du mercredi (source touristique ancienne, à retrouver sur la mairie), magasin bio du réseau coopératif (horaires et registre à confirmer), marché alimentaire du samedi (déjà listé). Balma : marché de plein vent du mercredi et du samedi (guide 2021, à confirmer). Castanet-Tolosan : marché de producteurs du jeudi soir (adresse à corriger, source participative).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne (31) toujours en descente ; la commune suivante par population est Saint-Orens-de-Gameville ou Ramonville-Saint-Agne après Castanet-Tolosan, à éprouver sur le site de la mairie. Retenter le site de la mairie de Blagnac, dont l'accès a échoué plusieurs fois depuis cet environnement, avant tout nouveau tirage.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
