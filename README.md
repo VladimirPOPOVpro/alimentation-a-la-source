@@ -43348,3 +43348,39 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Points d'arrêt.** Passe suivante : Haute-Garonne (31) reste la zone visée si la règle 41.c le permet ; reprendre Blagnac et vérifier la fiche de l'enseigne de magasin bio, puis Balma (AMAP et marché du mercredi, à confirmer sur le site de la mairie).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe du 26 octobre 2026 (suite) : Haut-Rhin (68), Saint-Louis Agglomération
+
+**Backlog.** Aucune demande au statut « nouvelle ». Mode 2.
+
+**Choix du secteur, règle 41.** Calcul sur les communes de `geo.api.gouv.fr` et les fiches de
+`data/marchands.json`, outre-mer écarté par la règle 177. Déficits métropolitains les plus forts :
+Haut-Rhin (68) 4,5 ; Bouches-du-Rhône (13) 4,3 ; Nord (59) 4,2. La Haute-Garonne
+(31), visée par la passe précédente, sort de ce tour par la garde « deux passes de suite ». Dans le 68,
+la commune la plus peuplée sans fiche est **Saint-Louis**.
+
+**Fiches publiées (2 sur les 5 visées).**
+- Ferme de la Petite Prairie, Ranspach-le-Haut : registre actif, BAN, site et photo du comptoir (sans
+  personne). `a_confirmer` : le site écrit 1A rue des Maires, le registre 1B ; aucun téléphone publié par le commerce.
+
+- GASPR, Kembs : registre actif, BAN, site. `a_confirmer` : trois adresses (site 7a rue du Moulin,
+  registre 7 rue du Bouleau, liste de l'agglomération 3 rue de la Promenade) ; la liste de
+  l'agglomération ne donne que le samedi matin, le site donne mercredi, jeudi, vendredi et samedi ;
+  la photo de l'entrée montre une enseigne « Archipel de Kembs », non reconciliée avec le local
+  du groupement. Règle 5 : le site du commerçant l'emporte pour l'adresse et les horaires.
+
+**Pistes non publiées.**
+- Ferme de Hagenthal-le-Haut (liste de l'agglomération) : registre actif sous une adresse rue
+  Principale, enseigne rue du Lindenhof ; aucune photo honnête (le bandeau du site est un graphisme).
+  À reprendre quand une photo du lieu existe.
+- Miellerie de Uffheim (liste de l'agglomération) : site et BAN vérifiés, registre actif ; aucune
+  photo honnête (le logo du site sert d'image sociale). Horaires de vente absents du site.
+- Marché de Saint-Louis, samedi matin : seule la liste de l'agglomération le mentionne ; adresse et
+  horaires non vérifiés. Non publié.
+- Un commerce de Kappelen : deux entités au registre, toutes deux cessées. Écarté, règle 6.
+- Une ferme de Folgensbourg : aucune entité active au registre sous ce nom dans le département. Écartée,
+  règle 6.
+- Une dizaine de fiches de la liste de l'agglomération portent un patronyme dans leur enseigne
+  (fermes individuelles). Écartées pour doute sur une personne ; elles ne se rouvrent pas.
+
+**Total : 1 299 fiches** (1 297 avant cette passe).

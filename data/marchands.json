@@ -34232,5 +34232,55 @@
     "telephone": "04 74 93 21 50",
     "site_web": "https://lahallepaysanne.fr/",
     "image_url": "/images/marchands/la-halle-paysanne-bourgoin-jallieu.jpg"
+  },
+  {
+    "slug": "ferme-de-la-petite-prairie-ranspach-le-haut",
+    "nom": "Ferme de la Petite Prairie",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.578199,
+    "lon": 7.420637,
+    "adresse": "1A rue des Maires, 68220 Ranspach-le-Haut",
+    "horaires": "Vente à la ferme le jeudi et le vendredi, 15h30-19h. Marchés : Sierentz le mercredi matin, Saint-Louis le samedi matin, Hagenthal-le-Haut le 2e vendredi du mois, le matin.",
+    "produits": [
+      "Lait bio",
+      "Yaourts nature, fruités et aromatisés",
+      "Faisselles",
+      "Fromage blanc nature ou assaisonné",
+      "Fromage frais nature ou enrobé"
+    ],
+    "description": "Ferme familiale du sud du Haut-Rhin qui élève des vaches laitières et transforme son lait à la ferme. Produits laitiers vendus à la ferme et sur les marchés de l'agglomération.",
+    "site_web": "https://petiteprairie.fr/",
+    "image_url": "/images/marchands/ferme-de-la-petite-prairie-ranspach-le-haut.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "gaspr-kembs",
+    "nom": "GASPR – Groupe d'Achat Solidaire du Pays Rhénan",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.655218,
+    "lon": 7.507028,
+    "adresse": "7a rue du Moulin, 68680 Kembs",
+    "horaires": "Mercredi 10h-12h et 16h-19h ; jeudi et vendredi 16h-19h ; samedi 10h-12h. Commandes à passer avant le mercredi 13h, retrait le vendredi ou le samedi.",
+    "produits": [
+      "Légumes",
+      "Fruits",
+      "Pain",
+      "Produits laitiers",
+      "Viande et œufs",
+      "Épicerie",
+      "Boissons"
+    ],
+    "description": "Groupe d'achat local et solidaire : les adhérents commandent et récupèrent leur panier au local de Kembs. Selon l'agglomération, les producteurs du réseau sont certifiés bio ou en conversion.",
+    "site_web": "https://www.gaspr.eu/",
+    "image_url": "/images/marchands/gaspr-kembs.jpg",
+    "a_confirmer": true
   }
 ]
