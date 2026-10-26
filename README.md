@@ -43288,3 +43288,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) toujours visée, la descente reprend à la commune suivante après Muret (règle 247), sauf si la mairie de Muret publie sa page des marchés et qu'une photo libre de la ferme est trouvée sur une source qui ne montre personne. Le 26 octobre étant la passe précédente, la règle 41.c ne bloque pas le 31 puisque rien n'y a été publié.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, descente en Haute-Garonne (31) : Plaisance-du-Touch et Balma sondées, aucune fiche publiée
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nouveau). Aucune fiche publiée, aucune retirée. Total inchangé : 1 297 fiches.
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait la Haute-Garonne (31) sans rien publier : le 31 n'est donc pas « visé » au sens de la règle 41.c (règle 247), et la descente s'y poursuit.
+
+**Commune, règle 247.** Communes du 31 sans fiche, par population : Plaisance-du-Touch (21 079), Balma (17 772), Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens. Plaisance-du-Touch est la suivante après Muret ; elle est éprouvée cette passe, puis Balma.
+
+**Ce qui a été lu.** Registre de l'Agence Bio (31, première page de cent opérateurs) : à Plaisance-du-Touch, un seul opérateur, inscrit sous le nom d'une personne physique, sans vente aux particuliers déclarée : écarté pour doute sur une personne, il ne se rouvre pas. À Balma, un opérateur viticole déclare la vente aux particuliers, ce qui relève d'une cave et non d'un commerce de la carte ; à L'Union, un autre n'est pas une vente de détail. Recherche web sur Plaisance-du-Touch : aucun marché ni AMAP identifié, seulement un annuaire de producteurs qui classe des exploitations à plus de dix kilomètres, sans commune précisée. Recherche web sur Balma : une AMAP mentionnée par un annuaire local, sans horaires ni page de distribution à jour ; un marché du mercredi matin, cité seulement par la fiche d'un maraîcher de Rabastens (Tarn), donc source non indépendante de la commune et hors Balma pour l'essentiel.
+
+**Pourquoi rien n'est publié.** Ni Plaisance-du-Touch ni Balma ne rendent cinq fiches vérifiées par une source indépendante, ni même deux. Une AMAP à Balma sans page de distribution et un marché cité par un tiers ne forment pas une zone (règle 52).
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Plaisance-du-Touch, entreprise individuelle au registre), jamais nommée.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Balma : AMAP (association locale, distribution à confirmer), marché du mercredi matin (source tierce). Plaisance-du-Touch : aucune piste vérifiable retenue.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) toujours en descente, commune suivante par population sans fiche après Balma (Castanet-Tolosan, 15 317 habitants), en vérifiant d'abord le marché et l'AMAP de Balma sur le site de la mairie. La règle 247 borne la descente à douze communes éprouvées ; le compte est à tenir dans la prochaine passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
