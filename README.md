@@ -43328,3 +43328,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Points d'arrêt.** Passe suivante : Nord (59) reste éligible si la règle 41.c le permet à ce moment-là (la passe précédente visait la Haute-Garonne). Retenter le site de la Ville de Marcq-en-Barœul avant de descendre à Lambersart ; Wattrelos seulement si un horaire de marché est publié par une source officielle.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (Haute-Garonne (31) visée, Blagnac, Balma et Castanet-Tolosan sondées : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (Var, enseigne portant un prénom) : écartée pour doute sur une personne, non publiée, ne se rouvre pas.
+
+**Secteur, règle 41.** Métropole seule. Le déficit le plus fort est en Guadeloupe, Martinique, Guyane, Réunion et Mayotte (971 à 976, 987, 988) : hors métropole, le validateur refuse les coordonnées, donc écarté. Parmi les métropolitains, la Haute-Garonne (31, déficit 4,7) est en tête. La passe précédente visait le Nord (59) : la règle 41.c ne ferme pas le 31.
+
+**Commune, règle 41.d.** Blagnac reste la commune la plus peuplée du 31 sans fiche (27 604 habitants), puis Balma (17 772) et Castanet-Tolosan (15 317).
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Haute-Garonne, cinq premières pages (500 opérateurs), filtrées sur Blagnac, Balma, Castanet-Tolosan, Saint-Orens-de-Gameville, Ramonville-Saint-Agne, Fonsorbes, L'Union, Seysses, Plaisance-du-Touch et Cugnaux. Ressortent des enseignes de magasins bio (Biocoop) à Blagnac et Castanet-Tolosan, une boulangerie et une boucherie à Saint-Orens-de-Gameville, plus une foule de préparateurs, grossistes, grandes surfaces et entreprises individuelles sans vente au détail vérifiable. Les sources de Blagnac déjà lues (office de tourisme, marchés) donnent deux marchés et un magasin bio : pas cinq commerces.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq fiches vérifiables avec une source indépendante. Une publication partielle du groupe de cinq n'a pas été faite (règle 52). Rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : un magasin bio de réseau coopératif (registre Agence Bio, fiche de l'enseigne à vérifier). Castanet-Tolosan : un magasin bio de réseau coopératif (registre Agence Bio, site à vérifier). Saint-Orens-de-Gameville : une boulangerie (catégorie hors carte, non retenue) et une boucherie d'enseigne prénommée, écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Saint-Orens-de-Gameville, boucherie d'enseigne prénommée), jamais nommée.
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne (31) reste la zone visée si la règle 41.c le permet ; reprendre Blagnac et vérifier la fiche de l'enseigne de magasin bio, puis Balma (AMAP et marché du mercredi, à confirmer sur le site de la mairie).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
