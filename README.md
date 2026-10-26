@@ -43516,3 +43516,25 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Oise (60) : dix communes éprouvées sur la borne de douze (règle 247). Passe suivante : Oise toujours ouverte ; la commune suivante par population sans fiche est Méru déjà sondée, puis Pont-Sainte-Maxence close ; à reprendre sur l'annuaire Bienvenue à la Ferme de l'Oise et le site de l'AMAP régional, ou passer au département suivant du classement si la descente n'aboutit pas avant la borne.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, neuvième passe : Oise (60) poursuivie, Clermont sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, règle 177), 1 299 fiches. Oise (60) reste le premier département ouvert ; la descente par commune compte dix communes éprouvées sur la borne de douze (règle 247). La commune suivante par population sans fiche est **Clermont (10 564 habitants)**.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Oise, six pages (600 opérateurs), filtrées sur Clermont et Clermont-sur-Oise : aucun producteur ni point de vente de circuit court déclaré à Clermont. Une entreprise de vente aux particuliers, dont l'activité est une préparation de condiments : site et adresse de vente à vérifier, aucune source indépendante trouvée.
+- Recherche web sur le marché de producteurs de Clermont (Oise) : aucun jour ni horaire de marché de producteurs trouvé ; les résultats renvoient à d'autres communes homonymes.
+- Recherche web sur AMAP et magasins de producteurs : aucun point identifié à Clermont (Oise).
+- Recherche web sur l'entreprise de condiments : aucun site officiel ni fiche vérifiable.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Clermont : pas de fiche entière, pas même une piste à deux sources indépendantes (règle 248).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pistes non publiées (anonymes, Oise).** Clermont : une entreprise de condiments vendant aux particuliers (registre seul, pas de site vérifié) ; un marché de producteurs à rechercher sur le site de la Ville. Environs : rien de nouveau.
+
+**Point d'arrêt.** Oise (60) : onze communes éprouvées sur la borne de douze (règle 247). Passe suivante : Oise reste ouverte ; la commune suivante par population sans fiche et non éprouvée est Gouvieux (8 867 habitants), après Clermont ; une seule commune reste avant la borne. Si la descente n'aboutit pas, passer au département suivant du classement, sans retenir la région 32 deux passes de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
