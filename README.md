@@ -43426,3 +43426,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Points d'arrêt.** Passe suivante : l'Oise reste ouverte (cinq communes éprouvées, borne de douze), descente à Montataire, puis Méru, à éprouver sur les sites des mairies et l'annuaire Bienvenue à la Ferme de l'Oise. Si la descente n'aboutit pas avant la borne, appliquer la règle 247 et passer au département suivant du classement.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (cinquième passe du jour) : Haute-Garonne (31) poursuivie, Ramonville-Saint-Agne sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (Var, enseigne portant un prénom) : écartée pour doute sur une personne, non publiée, ne se rouvre pas.
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, règle 177). La passe précédente visait l'Oise (région 32) : la Haute-Garonne (région 76) est permise, et reste en tête du classement métropolitain (déficit 4,7).
+
+**Commune, règle 41.d et 247.** Commune la plus peuplée du 31 sans fiche et non encore éprouvée : Ramonville-Saint-Agne (15 158 habitants), qui précède Saint-Orens-de-Gameville dans l'ordre de population. Huit communes éprouvées à ce jour, sous la borne de douze.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, lu en entier (2 838 opérateurs), filtré sur Ramonville. Restent des commerces de détail indépendants ou des enseignes de réseau, et des inscriptions au nom de personnes physiques.
+- Recherches sur les marchés de producteurs : aucun marché à Ramonville-Saint-Agne n'est retrouvé avec jour et horaires. L'annuaire de producteurs locaux ne liste aucun point de vente à Ramonville ; ses producteurs les plus proches sont à Castanet-Tolosan, Labège et Toulouse.
+- Le site de la mairie et l'annuaire de marchés ne sont pas accessibles depuis cet environnement (un refus d'accès).
+
+**Pourquoi rien n'est publié.** Aucun marché ni aucun producteur de circuit court n'est vérifié à Ramonville-Saint-Agne. Les seuls points de vente bio relevés sont des enseignes de réseau ou des commerces dont aucune source indépendante ne confirme les horaires ni le produit. Cinq fiches vérifiables n'existent pas ici, donc la passe ne publie rien (règle 248).
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Ramonville-Saint-Agne : un magasin bio indépendant de vente au détail (registre et site officiel à confirmer, horaires à relever) ; un magasin bio de réseau (enseigne nationale, écartée comme commerce de réseau) ; un point de vente de jardinage et de graines en vente aux particuliers (registre seul, site à confirmer). Une vente de l'association locale signalée au registre (association, pas un commerce).
+
+**Fiches écartées pour doute sur une personne.** Deux inscriptions de vente aux particuliers désignent des personnes physiques à Ramonville-Saint-Agne, dont une avec un numéro de téléphone mobile : non reprises, non nommées, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Haute-Garonne (31) toujours en descente (huit communes sur douze). La commune suivante par population sans fiche est Saint-Orens-de-Gameville, à éprouver sur le site de la mairie et l'annuaire Bienvenue à la Ferme de la Haute-Garonne. Le classement de la règle 41 se relit à la passe suivante ; la région 76 ne sera pas visée deux fois de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
