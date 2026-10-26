@@ -43362,7 +43362,6 @@ la commune la plus peuplée sans fiche est **Saint-Louis**.
 **Fiches publiées (2 sur les 5 visées).**
 - Ferme de la Petite Prairie, Ranspach-le-Haut : registre actif, BAN, site et photo du comptoir (sans
   personne). `a_confirmer` : le site écrit 1A rue des Maires, le registre 1B ; aucun téléphone publié par le commerce.
-
 - GASPR, Kembs : registre actif, BAN, site. `a_confirmer` : trois adresses (site 7a rue du Moulin,
   registre 7 rue du Bouleau, liste de l'agglomération 3 rue de la Promenade) ; la liste de
   l'agglomération ne donne que le samedi matin, le site donne mercredi, jeudi, vendredi et samedi ;
