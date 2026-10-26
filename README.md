@@ -43734,3 +43734,15 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : AMAP et point de dépôt (annuaire ancien, à reprendre sur la Ville ou les structures elles-mêmes) ; magasin bio (enseigne de grande surface, hors périmètre à confirmer). Muret : magasin bio (adresse et horaires à confirmer, déjà noté aux passes neuf et douze). Saint-Orens-de-Gameville : deux marchés sans horaires.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours la plus déficitaire mais la garde ne s'applique plus à elle deux passes de suite. Reprendre Blagnac seulement si le site de la Ville répond ou si un marché est confirmé par la mairie ; sinon la commune suivante par population sans fiche, Plaisance-du-Touch et Balma déjà sondées, est à rechercher sur le site de la mairie de Cugnaux ou de Castanet-Tolosan.
+
+### Passe autonome du 26 octobre 2026 (vingtième passe : Bouches-du-Rhône (13) visé, Haute-Garonne écartée par la garde des deux passes : aucune fiche publiée)
+
+**Secteur, règles 41 et 247.** Métropole seule, 1 299 fiches. Déficits recalculés : Haute-Garonne (31) ≈ 4,83, Bouches-du-Rhône (13) ≈ 4,48, Nord (59) ≈ 4,47. La passe précédente visait la Haute-Garonne (31) ; la garde « deux passes de suite » l'écarte, et le Bouches-du-Rhône (13) est retenu. Le Var (83) reste sous son objectif et n'est pas revisité.
+
+**Communes sondées.** Les communes les plus peuplées sans fiche du 13 sont Aubagne, Istres, Salon-de-Provence, La Ciotat, Vitrolles et Marignane, déjà sondées aux passes précédentes sans cinq commerces vérifiables. Miramas et Gardanne sont recoupées au registre de l'Agence Bio : les opérateurs recensés y sont des grossistes ou des structures sans vente aux particuliers (règle 40). Aucune nouvelle source propre au commerce n'a été trouvée.
+
+**Pourquoi rien n'est publié.** Aucune commune visée ne rend cinq commerces vérifiables (deux sources indépendantes, horaires confirmés, adresse géocodée). La règle 52 interdit de compléter avec des communes voisines.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Miramas et Gardanne : opérateurs du registre Agence Bio sans vente aux particuliers, à reprendre si la Ville publie un marché ou un point de vente. Aubagne, Istres, Salon-de-Provence, La Ciotat, Vitrolles, Marignane : sondées, voir les passes précédentes.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) redevient éligible. Le Bouches-du-Rhône ne sera visé de nouveau qu'après une passe ailleurs ; la prochaine commune à sonder dans le 13 est Miramas, sur le site de la Ville.
