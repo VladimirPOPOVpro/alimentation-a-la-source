@@ -43683,3 +43683,25 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône toujours ouvert. Marignane se reprend si le commerce publie ses horaires, ou si son site officiel ou le registre le confirme. Sinon la commune suivante par population sans fiche est Miramas (26 203 habitants), à éprouver sur le site de la mairie ou de l'office de tourisme, ce que cette passe n'a pas pu faire.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (dix-septième passe : Haute-Garonne (31) reprise, Saint-Gaudens sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle » ni en attente.
+
+**Secteur, règles 41 et 247.** Métropole seule, 1 299 fiches. Déficits : Haute-Garonne (31) ≈ 4,72, Bouches-du-Rhône (13) ≈ 4,33, Nord (59) ≈ 4,28. La Réunion (974) reste inéligible (règle 93). La passe précédente visait le Bouches-du-Rhône, donc la garde « deux passes de suite » ne s'applique pas à la Haute-Garonne, reprise sur sa piste nommée.
+
+**Ce qui a été lu.**
+- Blagnac : site de la Ville injoignable depuis cet environnement (aucune réponse HTTP), comme à la passe quinze.
+- Muret : site de la Ville injoignable (aucune réponse HTTP) ; piste de descente bloquée.
+- Registre Agence Bio, Haute-Garonne, première page : la plupart des opérateurs en vente aux particuliers sont des exploitants individuels, non nommés (règle personnes). Les communes à vente directe hors Toulouse et hors fiches déjà publiées n'ont pas été retenues faute de source propre.
+- Saint-Gaudens : site de la Ville joignable, mais aucune page de marché ni de commerce en circuit court exploitable ; recherche web sans résultat local vérifiable.
+
+**Pourquoi rien n'est publié.** Aucune commune de Haute-Garonne sondée ne réunit cinq commerces vérifiables (deux sources indépendantes, adresse géocodée, horaires confirmés). La règle 52 interdit de compléter avec des communes voisines.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : pistes de la douzième et de la quinzième passe toujours ouvertes, à reprendre quand le site de la Ville répond. Muret : à reprendre dans les mêmes conditions. Saint-Gaudens : aucune piste retenue.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours la plus déficitaire ; reprendre Blagnac ou Muret si leurs sites répondent. Sinon, le Bouches-du-Rhône (13) puis le Nord (59) selon le classement, en gardant la garde « deux passes de suite ».
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
