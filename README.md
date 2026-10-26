@@ -43472,3 +43472,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Bouches-du-Rhône (13) toujours en descente (cinq communes éprouvées sur douze). La commune suivante par population sans fiche est Marignane, puis Miramas, à éprouver sur les sites des mairies et l'annuaire Bienvenue à la Ferme des Bouches-du-Rhône. Si la descente n'aboutit pas avant la borne, appliquer la règle 247 et passer au département suivant du classement (Rhône, 69, déficit ≈ 4,6). La région 93 ne sera pas visée deux fois de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est nécessaire à cette passe.
+
+### Passe autonome du 26 octobre 2026, septième passe (Oise (60) reprise, Méru sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule, 1 299 fiches, populations `geo.api.gouv.fr` (dénominateur tout compris, règle 224). La passe précédente visait les Bouches-du-Rhône (93) : cette région est exclue par la règle 41.c. Les départements d'outre-mer sortent du classement (règles 93 et 177). Le Nord (59), la Haute-Garonne (31) et le Haut-Rhin (68) sont épuisés. Oise (60, déficit ≈ 3,6) est le premier département éligible, en descente depuis plusieurs passes.
+
+**Commune, règle 41.d.** Les communes de plus de 10 000 habitants de l'Oise déjà éprouvées sont Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne, Montataire, Noyon et Chambly. La plus peuplée sans fiche et non éprouvée est **Méru (13 897 habitants)**.
+
+**Méru, ce qui a été lu.**
+- Registre de l'Agence Bio, Oise, six pages (600 opérateurs) filtrées sur la commune et ses voisines : aucun producteur ni point de vente déclaré à Méru. Une seule entrée sur place, une personne physique : écartée (doute sur une personne, règle 36), jamais nommée.
+- Recherche web : aucun marché de producteurs, aucune AMAP ni magasin de producteurs identifié à Méru par une source officielle. Les pistes générales (carte du Parc Oise – Pays de France, réseau des Producteurs des Vallées de l'Oise) ne donnent pas de point précis à Méru.
+- Le site de la Ville et l'office de tourisme n'ont pas été relus faute de page accessible depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Méru : pas une fiche entière, pas même un point d'appui. La règle 52 ne permet pas de compléter avec un voisin.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Méru, registre Agence Bio, entrée individuelle), jamais nommée.
+
+**Pistes non publiées (anonymes, Oise).** Méru : aucune piste fiable à ce jour. Oise en général : la carte du Parc Oise – Pays de France (producteurs et lieux de vente, à relire commune par commune) et l'association des Producteurs des Vallées de l'Oise (drive fermier, siège à Mortemer, à vérifier pour les livraisons hors de sa vallée).
+
+**Point d'arrêt.** Descente de l'Oise à neuf communes éprouvées sur la borne de douze (règle 247). Passe suivante : Oise (60) reste ouverte ; la commune suivante par population sans fiche est Pont-Sainte-Maxence (12 361 habitants), à éprouver d'abord sur la carte du Parc et l'annuaire Bienvenue à la Ferme de l'Oise. Si la descente n'aboutit pas avant la borne, passer au département suivant du classement, sans retenir la région 93 deux passes de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
