@@ -43660,3 +43660,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours la plus déficitaire ; reprendre Blagnac seulement si le site de la Ville répond ou si une photo ≥ 700 px existe. Sinon la descente passe à Muret (déjà ouverte à la passe douze). Le Bouches-du-Rhône (13) reste le classement suivant.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, seizième passe : Bouches-du-Rhône (13) reprise à Marignane : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle », aucune en attente. La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu, ne se rouvre pas).
+
+**Secteur, règles 41 et 247.** Métropole seule. La Haute-Garonne (31), visée à la passe quinze, est écartée par la garde « deux passes de suite ». Le Bouches-du-Rhône (13, déficit ≈ 4,3) est retenu ; sa descente reprend à Marignane, comme prévu au point d'arrêt de la passe treize.
+
+**Ce qui a été lu.**
+- Recherche web : un magasin de producteurs bio à Marignane, avenue Jean-Jaurès, cité par un guide de loisirs (MyProvence), avec adresse et téléphone. Aucun horaire trouvé, aucun site officiel du commerce.
+- Registre des entreprises, requête sur l'enseigne et la commune : aucun établissement renvoyé. L'activité n'est pas confirmée.
+- Recherche web sur d'autres annuaires : aucune entrée supplémentaire pour ce commerce.
+
+**Pourquoi rien n'est publié.** Une seule source indépendante (un guide), pas d'horaires vérifiés, pas de confirmation au registre. L'exigence de deux sources n'est pas remplie. Marignane ne rend donc aucune fiche entière, et la règle 52 interdit de compléter avec les communes voisines.
+
+**Miramas (13), piste de repli.** Recherche web sur les marchés et producteurs : aucune source propre à la commune. Rien à consigner comme piste.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Marignane : un magasin de producteurs bio (guide seul, horaires et registre à confirmer auprès du commerce) ; une exploitation maraîchère en vente à la ferme (annuaire, commune à confirmer).
+
+**Point d'arrêt.** Passe suivante : Bouches-du-Rhône toujours ouvert. Marignane se reprend si le commerce publie ses horaires, ou si son site officiel ou le registre le confirme. Sinon la commune suivante par population sans fiche est Miramas (26 203 habitants), à éprouver sur le site de la mairie ou de l'office de tourisme, ce que cette passe n'a pas pu faire.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
