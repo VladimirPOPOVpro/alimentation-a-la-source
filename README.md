@@ -43583,3 +43583,17 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte. Blagnac ne peut être publiée qu'avec les quatre commerces et leurs photos, ou un cinquième commerce vérifié ; à défaut, la commune suivante par population sans fiche en Haute-Garonne est Muret (26 079 habitants). Le Nord (59) reste le prochain département du classement si la descente n'aboutit pas.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, douzième passe : Haute-Garonne (31) poursuivie, Muret sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu, ne se rouvre pas).
+
+**Secteur, règles 41 et 247.** Métropole seule. Le déficit (population par département, fiches lues sur le code postal) donne en tête la Haute-Garonne (31, ≈ 4,7), puis la Bouches-du-Rhône (13) et le Nord (59), à ≈ 4,3. La Haute-Garonne est la région de la passe précédente : la garde « deux passes de suite » l'écarte, et le Nord, qui suit au classement, est donc le département à viser. Ses communes les plus peuplées sans fiche (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart) ont déjà été éprouvées sans fiche publiable (notes du 15 au 18 octobre) ; la descente du Nord a été reprise sur Wattrelos, puis Muret en Haute-Garonne n'a pas été ouverte faute de source (voir ci-dessous). Les DOM sont écartés par `lib/validateMerchants.ts` (hors métropole).
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Garonne, première page : aucun opérateur de vente directe à Muret, seulement deux entrées (une exploitation étrangère sans vente aux particuliers, un producteur en vente aux professionnels). Rien ne se publie sur cette seule source. Muret n'a donc pas été ouverte, et la piste de Haute-Garonne reste celle de Blagnac, notée plus haut.
+
+**Pourquoi rien n'est publié.** Muret (26 079 habitants) ne rend aucun commerce vérifiable au registre. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point d'arrêt.** Passe suivante : ne pas revisiter la Haute-Garonne (garde des deux passes). Le Nord (59) reste le département visé : reprendre Wattrelos ou Marcq-en-Barœul seulement si une source indépendante donne des horaires et des produits. Blagnac reste à reprendre avec ses quatre commerces et leurs photos, ou un cinquième commerce vérifié.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
