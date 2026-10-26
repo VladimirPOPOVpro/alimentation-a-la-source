@@ -43266,3 +43266,25 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste la zone visée (la règle 41.c le permet puisque la passe précédente était en Bouches-du-Rhône) ; reprendre Muret : retrouver la page du marché du mardi sur le site de la Ville et une photo libre de la ferme Biovercité sur une source qui ne montre personne. Si les deux ne sont pas trouvés, descendre au Haut-Rhin par la formule au prochain passage, non avant.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, reprise (Muret, Haute-Garonne (31) : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nouveau, le contact reste privé et le nom de la demande relève d'un doute sur une personne). Aucune fiche publiée, aucune retirée. Total inchangé : 1 297 fiches.
+
+**Classement, règle 41.** Métropole seule : la Haute-Garonne (31) reste en tête (déficit 4,7). La passe précédente a publié rien, donc le 31 n'est pas « visé » au sens de la règle 41.c (règle 247) et la reprise reste dans ce département.
+
+**Reprise de la descente, règle 247.** Muret est la dernière commune éprouvée. Deux vérifications ont été demandées au point d'arrêt précédent :
+
+- le marché du mardi matin de la Ville : une fiche touristique (office de tourisme du Muretain, relayée par Cirkwi) le donne le mardi de 8 h à 13 h, mais aucune page de la mairie n'a pu être relue depuis cet environnement. Source secondaire, pas la commune : à reprendre.
+- la ferme de Bellefontaine annoncée comme AMAP le jeudi soir : l'annuaire qui la référence la classe en élevage (lombriculture) et ne mentionne aucune distribution. Contradiction avec la note du 26 octobre, non tranchée : rien n'est publié à partir de cette source.
+- une « cagette » de producteurs le mardi de 17 h à 19 h, relevée sur un agenda participatif, sans page du lieu : à reprendre.
+
+**Pourquoi rien n'est publié.** Muret ne rend ni cinq fiches entières, ni même deux, avec une source indépendante et une photo libre. Une fiche isolée n'est pas une zone (règle 52) ; la passe n'a pas non plus de photo exploitable. Conformément à la règle 248, la passe s'arrête sans publier.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Muret : marché alimentaire du mardi matin (source touristique, mairie à retrouver) ; producteurs du mardi soir (agenda participatif, lieu à confirmer) ; ferme de Bellefontaine (activité AMAP contredite par l'annuaire, à vérifier). Blagnac : marché des producteurs du mercredi, marché alimentaire du samedi, une AMAP sans page de distribution (rien de nouveau).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) toujours visée, la descente reprend à la commune suivante après Muret (règle 247), sauf si la mairie de Muret publie sa page des marchés et qu'une photo libre de la ferme est trouvée sur une source qui ne montre personne. Le 26 octobre étant la passe précédente, la règle 41.c ne bloque pas le 31 puisque rien n'y a été publié.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
