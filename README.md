@@ -43597,3 +43597,25 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : ne pas revisiter la Haute-Garonne (garde des deux passes). Le Nord (59) reste le département visé : reprendre Wattrelos ou Marcq-en-Barœul seulement si une source indépendante donne des horaires et des produits. Blagnac reste à reprendre avec ses quatre commerces et leurs photos, ou un cinquième commerce vérifié.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026, treizième passe : Bouches-du-Rhône (13) reprise à Marignane : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu, ne se rouvre pas).
+
+**Secteur, règles 41 et 247.** Métropole seule, 1 299 fiches. Déficits : Haute-Garonne (31) ≈ 4,72, Bouches-du-Rhône (13) ≈ 4,33, Nord (59) ≈ 4,28. La Haute-Garonne est écartée par la garde « deux passes de suite » (passes onze et douze). La Bouches-du-Rhône (région 93) est donc visée ; sa descente reprend à **Marignane (33 692 habitants)**, commune éprouvée à la passe dix et restée ouverte.
+
+**Ce qui a été lu.**
+- Registre des entreprises : aucun établissement renvoyé pour le commerce sous son enseigne à Marignane : l'activité n'a donc pas pu être confirmée.
+- Recherche web : un magasin de producteurs bio à Marignane, avenue Jean-Jaurès, cité par un guide de loisirs (MyProvence), dont la fiche porte la mention « programme en attente de validation ». Horaires indiqués par ce guide seul : mercredi et jeudi, 9 h 30 à 17 h 30. Pas de site officiel du commerce mentionné.
+- Adresse vérifiée à la Base Adresse Nationale : 86 avenue Jean-Jaurès, 13700 Marignane.
+- Autres pistes web (une adresse de La Luze, une exploitation en vente à la ferme sans commune précise) : non retenues, source unique ou commune incertaine.
+
+**Pourquoi rien n'est publié.** Le seul commerce trouvé n'a qu'une source (un guide, en attente de validation), aucune confirmation d'activité au registre et aucun site propre : il ne satisfait pas l'exigence de deux sources indépendantes. Marignane ne rend pas cinq commerces vérifiables ; la règle 52 interdit de compléter avec les communes voisines.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Marignane : un magasin de producteurs bio (guide seul, registre non retrouvé, à reprendre avec le site ou l'enseigne du commerce) ; une exploitation maraîchère en vente à la ferme (annuaire, commune à confirmer).
+
+**Point d'arrêt.** Passe suivante : la Bouches-du-Rhône reste ouverte ; Marignane se reprend avec une source propre au commerce ou une confirmation au registre. Si la descente n'aboutit pas, la commune suivante par population sans fiche est Miramas (26 203 habitants), à éprouver sur les sites de la commune et de l'office de tourisme. Le Nord (59) suit au classement sans retenir la région 93 deux passes de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
