@@ -43619,3 +43619,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : la Bouches-du-Rhône reste ouverte ; Marignane se reprend avec une source propre au commerce ou une confirmation au registre. Si la descente n'aboutit pas, la commune suivante par population sans fiche est Miramas (26 203 habitants), à éprouver sur les sites de la commune et de l'office de tourisme. Le Nord (59) suit au classement sans retenir la région 93 deux passes de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (quatorzième passe : Calvados (14) sondé au registre Agence Bio, aucune fiche publiée)
+
+**Backlog.** Aucune demande en attente.
+
+**Secteur, règle 41.** Métropole seule, 1 299 fiches. Haute-Garonne (31), Bouches-du-Rhône (13) et Nord (59) restent exclus (épuisés ou région de la passe précédente). Le Calvados (14, déficit ≈ 3,4) est retenu, la Savoie (73) étant au même niveau et ses communes notées closes.
+
+**Commune, règle 41.d.** Caen porte déjà des fiches (cinq marchés). La commune suivante sans fiche est Hérouville-Saint-Clair (23 470 habitants), mais aucune source propre n'y ressort : le registre Agence Bio du département n'y compte que des opérateurs sans vente au détail.
+
+**Registre.** Sur la première page du registre Agence Bio pour le 14 (cent opérateurs sur 1 369), la plupart des entrées en vente aux particuliers sont des exploitants individuels : leurs noms ne sont pas publiés (règle personnes). Un seul candidat commercial a été vérifié.
+
+**Pistes non publiées (anonymes, Calvados).** Cahagnes : une exploitation maraîchère, établissement actif au registre des entreprises ; le producteur ne vend pas sur place (fiche de vente sur marchés seulement), donc pas d'horaires de point de vente : écartée. Adresse BAN non fiable (score 0,46, commune différente).
+
+**Fiches écartées pour doute sur une personne.** Aucune publiée cette passe ; plusieurs opérateurs individuels du registre sont ignorés d'office.
+
+**Pourquoi rien n'est publié.** Aucun commerce du secteur ne réunit deux sources indépendantes, une adresse géocodée fiable et des horaires vérifiés. Une fiche incomplète envoie les gens au mauvais endroit : rien n'est ajouté.
+
+**Point d'arrêt.** Passe suivante : Calvados à reprendre sur Lisieux (19 645 habitants, sans fiche) et Bayeux (12 659), en partant des sites de la commune et de l'office de tourisme plutôt que du registre seul.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
