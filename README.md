@@ -43639,3 +43639,24 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, déjà instruite : rien de nou
 **Point d'arrêt.** Passe suivante : Calvados à reprendre sur Lisieux (19 645 habitants, sans fiche) et Bayeux (12 659), en partant des sites de la commune et de l'office de tourisme plutôt que du registre seul.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 26 octobre 2026 (quinzième passe : Haute-Garonne (31) reprise à Blagnac : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu, ne se rouvre pas).
+
+**Secteur, règles 41 et 247.** Métropole seule, 1 299 fiches. Déficits : Haute-Garonne (31) ≈ 4,72, Bouches-du-Rhône (13) ≈ 4,33, Nord (59) ≈ 4,28. La passe précédente visait le Calvados (14), donc la garde « deux passes de suite » ne s'applique pas à la Haute-Garonne. Elle est reprise, sur sa piste nommée (règle 247) : Blagnac.
+
+**Ce qui a été lu.**
+- Registre des entreprises : aucun établissement renvoyé pour l'enseigne Biocoop à Blagnac. L'activité de ce commerce n'est pas confirmée.
+- Site de la Ville de Blagnac : injoignable depuis cet environnement (aucune réponse HTTP). Déblocage non obtenu.
+- Adresse BAN de Blagnac : commune reconnue (score 0,42, centre communal, pas une adresse de commerce).
+
+**Pourquoi rien n'est publié.** Blagnac rend toujours quatre commerces, sans photo utilisable et avec un registre qui ne confirme pas le magasin bio. Le groupe de cinq n'est pas atteint, et une fiche isolée ne forme pas une zone.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : toutes les pistes de la douzième passe restent ouvertes (marché du samedi, AMAP, L'Arche, Biocoop) ; déblocage : photo nette et confirmation au registre pour le magasin bio, ou site de la Ville joignable.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours la plus déficitaire ; reprendre Blagnac seulement si le site de la Ville répond ou si une photo ≥ 700 px existe. Sinon la descente passe à Muret (déjà ouverte à la passe douze). Le Bouches-du-Rhône (13) reste le classement suivant.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
