@@ -43938,3 +43938,20 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes, et le site du seul commerce de détail relevé à Aubagne est injoignable.
 
 **Point d'arrêt.** Passe suivante : le 13 est écarté par la garde (c'est la passe précédente) ; le 31 redevient éligible, ou le 59 si le 31 est lui aussi écarté. Reprendre la descente de la règle 301 après Châteaurenard, et sonder Fos-sur-Mer puis Tarascon si la commune n'est pas déjà couverte par une piste.
+
+### Passe autonome du 27 octobre 2026 (Haute-Garonne (31) repris, Blagnac sondée : aucune fiche publiée)
+
+**Secteur, règles 41 et 47.** Métropole seule. Le 974 (La Réunion) est en tête du déficit, écarté par le validateur (coordonnées hors métropole). Le 13 est écarté par la garde des deux passes, car la passe précédente le visait. Le 31 (Haute-Garonne, déficit ≈ 4,7) est retenu.
+
+**Commune, règle 41.d.** Par population, sans fiche au décompte par nom de commune : Blagnac (27 604 habitants) en tête. Blagnac avait déjà été sondée (passes précédentes) ; son site officiel ne répond pas depuis cet environnement. Le registre Agence Bio n'y donne aucun marché ni point de vente identifiable hors enseignes de réseau et inscriptions au nom de personnes physiques.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Haute-Garonne, 2 842 opérateurs, filtrés sur les communes les plus peuplées sans fiche.
+- Recherche web sur les marchés de Blagnac : aucun marché de producteurs vérifiable avec jours et horaires.
+- Site de la Ville de Blagnac : injoignable (aucune réponse HTTP).
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : un magasin spécialisé bio et un magasin d'artisanat alimentaire, sans source propre vérifiée ; les pistes des passes précédentes restent ouvertes. Plusieurs inscriptions de vente aux particuliers désignent des personnes physiques : non reprises, ne se rouvrent pas.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 sondée à ce jour ne rend cinq commerces vérifiables sur deux sources indépendantes, et la commune la plus peuplée sans fiche n'a pas de site municipal joignable.
+
+**Point d'arrêt.** Passe suivante : le 31 est écarté par la garde (c'est la passe précédente) ; le 13 redevient éligible, à reprendre à la commune suivante par population sans fiche dans le département.
