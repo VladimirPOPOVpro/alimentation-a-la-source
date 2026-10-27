@@ -43762,3 +43762,21 @@ Backlog : 0 nouvelle, 1 en cours (demande déjà instruite, rien de nouveau). To
 **Pistes non publiées (anonymes, Haute-Garonne).** Fonsorbes : une enseigne bio franchisée recensée, horaires non vérifiés, à reprendre si une source propre au magasin est trouvée. Le groupe des communes sondées du 31 reste inchangé.
 
 **Point d'arrêt.** Passe suivante : le 31 ne peut pas être visé de nouveau ; le département en tête redevient le 13 (Bouches-du-Rhône). La prochaine commune à sonder dans le 31 est Villeneuve-Tolosane (11 044 habitants), à reprendre au registre Agence Bio par la rue.
+
+### Passe autonome du 27 octobre 2026 (Bouches-du-Rhône (13) reprise, Allauch sondée, demande n° 13 relue) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, relue : rien de nouveau). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté). Le département en tête est le 31, mais la passe précédente l'a visé : la garde des deux passes l'écarte. Le suivant au classement est le 13 (déficit ≈ 4,3), puis le 59. Le 13 est retenu.
+
+**Commune, règle 41.d.** Marseille, Aix-en-Provence, Arles et Martigues ont déjà des fiches. Aubagne, Istres, Salon-de-Provence, La Ciotat, Vitrolles, Marignane, Miramas et Gardanne ont été sondées aux passes précédentes sans succès. La suivante par population est **Allauch (21 443 habitants)**.
+
+**Allauch, ce qui a été lu.** Site de la commune injoignable depuis cet environnement. Registre des entreprises : aucun établissement actif sur la commune pour la requête générale. Registre Agence Bio, Bouches-du-Rhône, première page de cent opérateurs : un seul opérateur est recensé avec vente aux particuliers, sans commerce identifiable ni adresse vérifiée à Allauch. Rien ne rend cinq commerces vérifiables sur deux sources indépendantes : la commune est sondée, sans fiche.
+
+**Demande n° 13 (commune du Var, petit commerce de producteur).** Le nom de l'enseigne est un prénom, donc une désignation qui pourrait renvoyer à une personne : doute sur une personne, rien n'est publié (`MODERATION.md`). Le registre des entreprises ne montre aucune entité active sous cette enseigne à l'adresse indiquée (règle 6). La demande reste `en_cours`, et aucun message n'est envoyé : une réponse exigerait de dire quelque chose de l'enseigne que les sources ne permettent pas d'établir.
+
+**Pourquoi rien n'est publié.** Aucune commune visée ne rend cinq commerces vérifiables, et la demande n° 13 ne passe pas le contrôle de personne ni celui du registre.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Allauch : un seul opérateur bio recensé, sans adresse ni source propre. Demande n° 13 (Var, 83) : écartée pour doute sur une personne, à ne pas rouvrir sans source d'entreprise active.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) redevient éligible. Dans le 13, la prochaine commune à sonder est Les Pennes-Mirabeau (22 537 habitants), à reprendre au registre Agence Bio et sur le site de la Ville.
