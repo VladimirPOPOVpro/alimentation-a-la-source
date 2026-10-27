@@ -43884,3 +43884,20 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Port-de-Bouc, exploitation bio à vente à la ferme : adresse hors commune selon l'annuaire ; à reprendre si une adresse dans la commune est établie.
 
 **Point d'arrêt.** Passe suivante : le 13 est visé par cette passe, donc la garde de la règle 41.c écarte le 13 ; le 31 redevient éligible. La prochaine commune à sonder dans le 13 est Châteauneuf-les-Martigues (18 455 habitants) ou Fos-sur-Mer, selon l'état de la sondée en cours. Le marché de Port-de-Bouc reste à confirmer auprès de la Ville.
+
+### Passe autonome du 27 octobre 2026 (Nord (59) visé, communes sans fiche sondées : aucune fiche publiée)
+
+**Aucune demande au backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle » ; la demande n° 13 reste `en_cours` (voir la section dédiée des passes précédentes) et n'est pas reprise ici.
+
+**Classement, règle 41.** Métropole seule. Le département en tête est le 59 (Nord, déficit ≈ 6,4 sur les 1 299 fiches), devant le 13 (≈ 6,0) et le 31 (≈ 5,9). La passe précédente visait le 13 (Provence-Alpes-Côte d'Azur) : la garde de la règle 41.c écarte donc la région PACA, et le 59 (Hauts-de-France) est retenu.
+
+**Commune, règle 41.d.** Lille, Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Douai, Hazebrouck, Maubeuge, Loos et La Madeleine portent déjà au moins une fiche. Les communes plus peuplées sans fiche (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières) ont toutes été éprouvées aux passes précédentes sans atteindre cinq fiches vérifiables. Les communes suivantes par population sans fiche (Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin) : seules Grande-Synthe, Ronchin, Wasquehal et Halluin ont été sondées dans cette passe ; Mons-en-Barœul, Coudekerque-Branche et Denain restent à sonder.
+
+**Sources de cette passe.**
+- Recherche web sur Wattrelos, Marcq-en-Barœul et Armentières : aucun marché de producteurs ni point de vente en circuit court daté et vérifié. L'annuaire des commerces bio de la Région recense des magasins diététiques, dont une herboristerie à Wattrelos (vente en ligne), sans lien avec des producteurs locaux. Le seul « Locavor » trouvé à Marcq-en-Barœul date de 2015 (La Voix du Nord) et n'est plus vérifiable.
+- Recherche web sur Grande-Synthe, Ronchin, Wasquehal et Halluin : la seule trace est une fête paysanne de Grande-Synthe en 2018 (marché ponctuel, horaires périmés), non retenue.
+- Aucun horaire actuel, aucun site de producteur ni de marché n'a pu être recoupé sur deux sources indépendantes.
+
+**Pourquoi rien n'est publié.** Aucune commune visée ne rend cinq commerces vérifiables, et aucune fiche isolée ne passe le contrôle de deux sources indépendantes avec horaires. Descendre plus loin dans la liste dépasserait ce qu'une passe peut éprouver sans recherche répétée.
+
+**Point d'arrêt.** Passe suivante : le 59 reste éligible (la passe précédente était en PACA). Communes à sonder : Mons-en-Barœul (21 105 habitants), puis Coudekerque-Branche et Denain, sur le site des Villes et l'annuaire des commerces de la Région.
