@@ -43901,3 +43901,21 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune commune visée ne rend cinq commerces vérifiables, et aucune fiche isolée ne passe le contrôle de deux sources indépendantes avec horaires. Descendre plus loin dans la liste dépasserait ce qu'une passe peut éprouver sans recherche répétée.
 
 **Point d'arrêt.** Passe suivante : le 59 reste éligible (la passe précédente était en PACA). Communes à sonder : Mons-en-Barœul (21 105 habitants), puis Coudekerque-Branche et Denain, sur le site des Villes et l'annuaire des commerces de la Région.
+
+### Passe autonome du 27 octobre 2026 (Haute-Garonne (31) reprise, Blagnac, Muret et Plaisance-du-Touch sondées : aucune fiche publiée)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Le compteur est de 1 `en_cours`, 6 `integree`, 6 `refusee` ; la demande en cours n'est pas reprise ici.
+
+**Classement, règle 41.** Métropole seule. Le département en tête est le 974 (La Réunion, outre-mer, écarté : le validateur refuse les coordonnées hors métropole). Le 59 (Nord) est écarté par la garde de la règle 41.c, car la passe précédente le visait. Le 31 (Haute-Garonne) est donc retenu, déficit ≈ 4,8.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) reste la commune la plus peuplée du 31 sans fiche. Son site (`www.blagnac.fr`) ne répond pas depuis cet environnement (aucune réponse HTTP). Muret (26 079) : site de la Ville injoignable, de même. Plaisance-du-Touch (21 079) : le site de la mairie répond, mais aucun marché de producteurs ni point de vente en circuit court n'y est confirmé.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Haute-Garonne, première page (100 opérateurs sur 2 841) : à Muret, Blagnac, Plaisance-du-Touch et Balma, aucune entrée de vente directe avec une adresse de commerce vérifiable. L'entrée de Plaisance-du-Touch est une exploitation en nom propre : patronyme, non publié, rien n'en sort. L'entrée de Balma est une maison viticole (préparation et distribution), hors sujet.
+- Site de la commune de Plaisance-du-Touch : pas de page marché à jour recoupable.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : toutes les pistes des passes précédentes restent ouvertes, à reprendre quand le site de la Ville répond. Muret : idem. Plaisance-du-Touch : une exploitation en nom propre, écartée pour doute sur une personne, ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes visées ne rend cinq commerces vérifiables sur deux sources indépendantes, et les deux sites municipaux de Blagnac et Muret sont injoignables.
+
+**Point d'arrêt.** Passe suivante : le 31 ne peut pas être visé de nouveau (garde des deux passes). Le 59 redevient éligible. Commune à sonder : Mons-en-Barœul (21 105 habitants), puis Coudekerque-Branche et Denain.
