@@ -43998,3 +43998,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec des communes voisines.
 
 **Point d'arrêt.** Passe suivante : le 31 est écarté par la garde (passe précédente visait le 59 ; le 31 redevient éligible si le classement le place en tête). Le 59 reste éligible à reprendre à Mons-en-Barœul puis Coudekerque-Branche ; si le 31 est retenu, descendre au-delà de Villeneuve-Tolosane, dans la liste par population sans fiche.
+
+### Passe autonome du 27 octobre 2026 (Nord (59) visé, Saint-Amand-les-Eaux, Faches-Thumesnil et Sin-le-Noble sondées : aucune fiche publiée)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs : 1 `en_cours` (demande n° 13, inchangée, écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches.
+
+**Classement, règles 41 et 93.** Métropole seule : le 974 et les autres départements 97x sont écartés par le validateur. Le 31 est écarté par la garde de la règle 41.c, car la passe précédente le visait. Le 13 (Bouches-du-Rhône, déficit ≈ 4,33) est le premier éligible du classement, mais ses communes de plus de 12 000 habitants sans fiche ont toutes été éprouvées aux passes précédentes : la descente y est close (règle 247). Le 59 (Nord, déficit ≈ 4,28) est donc retenu.
+
+**Commune, règle 41.d.** Les douze communes les plus peuplées du 59 sans fiche ont été éprouvées aux passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin). Restent Faches-Thumesnil (18 619 habitants), Sin-le-Noble (16 076) et Saint-Amand-les-Eaux (15 974) : sondées ici.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Nord, 1 793 opérateurs lus par pagination de cent, filtrés sur les trois communes. Les entrées de vente au détail y sont des grandes surfaces (écartées, règle 3), des grossistes, des artisans boulangers ou des exploitations inscrites sous le nom de leur exploitant (écartées, doute sur une personne).
+- Saint-Amand-les-Eaux : une enseigne de magasin bio et un magasin de produits naturels relevés au registre ; aucune adresse de vente ni horaire recoupé sur une source indépendante.
+- Faches-Thumesnil : un magasin de produits de la ferme vendant en ligne, sans adresse de vente vérifiable dans la commune ; le reste relève de grandes surfaces ou de boulangeries.
+- Sin-le-Noble : seulement des supérettes sous enseigne de grande distribution, et une entreprise individuelle (nom de personne, non repris).
+
+**Pistes non publiées (anonymes, Nord).**
+- Saint-Amand-les-Eaux : magasin bio d'une enseigne régionale, à reprendre si sa fiche propre confirme adresse et horaires.
+- Saint-Amand-les-Eaux : magasin de produits naturels à vente au public, site propre à qualifier (vente au détail ou simple grossiste).
+- Faches-Thumesnil : vente directe en ligne à qualifier, sans point de vente dans la commune.
+- Raismes et Haubourdin (communes hors de la descente) : un magasin spécialisé bio et une ferme à vente aux consommateurs au registre, à qualifier ; non sondées dans cette passe.
+- Entrées au nom de personnes physiques, à Haubourdin, Comines, Mouvaux et Faches-Thumesnil : non reprises, ne se rouvrent pas.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La descente du 59 atteint quinze communes éprouvées sans succès (règle 247) ; la passe ne cherche pas de commune voisine (règle 52).
+
+**Point d'arrêt.** Passe suivante : le 59 est écarté par la garde de la règle 41.c. Le 13 a sa descente close (règle 247), le 31 est le suivant du classement une fois la garde levée. Ce sont des descentes à reprendre sur des communes non encore éprouvées, ou à clore au sens de la règle 247.
