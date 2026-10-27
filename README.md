@@ -43862,3 +43862,25 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Haute-Garonne : une enseigne de réseau bio mentionnée au registre (Villeneuve-Tolosane), à reprendre si la fiche du magasin est confirmée.
 
 **Point d'arrêt.** Passe suivante : le 13 (Bouches-du-Rhône) est écarté par la garde de la règle 41.c, le 31 est de nouveau éligible. Pour le 31, reprendre L'Union si la mairie confirme le marché bio du mercredi ou la ferme, puis Villeneuve-Tolosane : demander les jours et horaires des deux marchés à la mairie, et vérifier l'adresse des magasins bio avec la fiche de leur réseau.
+
+### Passe autonome du 27 octobre 2026 (Bouches-du-Rhône (13) repris, Port-de-Bouc sondée : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écartée pour doute sur une personne). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règle 41.** Métropole seule. Le 31 est en tête (déficit ≈ 4,72), mais la passe précédente l'a visé : la garde de la règle 41.c l'écarte. Le 13 suit (≈ 4,33), il est retenu. La garde n'interdit pas le 13 ici, car la passe précédente était en Occitanie, non en PACA.
+
+**Commune, règle 41.d.** Fos-sur-Mer a été sondée à une passe antérieure. La suivante par population sans fiche dans le 13 est **Port-de-Bouc (15 802 habitants)**.
+
+**Port-de-Bouc, ce qui a été lu.**
+- Recherche web (une requête, reprise une fois) : un marché hebdomadaire sur le cours Landrivon, avec des fruits et légumes et des producteurs du terroir, mais des horaires contradictoires selon les fiches d'agrégateurs (jours impairs, ou tous les jours de 7 h 30 à 12 h 30). Aucune source de la Ville ou de l'office ne tranche.
+- Annuaire Jours de Marché : une exploitation bio avec vente à la ferme le matin et distribution en AMAP, mais située à environ 29 km, hors commune ; adresse non confirmée à Port-de-Bouc, donc écartée.
+- Biocoop : la fiche de l'enseigne listée sous le nom de Port-de-Bouc ne renvoie qu'à Vitrolles et Marseille. Aucun magasin bio indépendant identifié dans la commune.
+- Office de tourisme : mentionne la visite directe de producteurs locaux, sans liste ni adresse.
+
+**Pourquoi rien n'est publié.** Une seule piste de marché, avec un horaire contradictoire et sans source officielle qui le tranche. Aucun autre commerce vérifiable sur deux sources indépendantes. Il faudrait cinq fiches groupées sur la commune ; Port-de-Bouc en rend zéro à ce stade. Descendre à Fos-sur-Mer ou Châteauneuf-les-Martigues ne se fait pas dans cette passe (règle 247 : une seule commune éprouvée par passe ici).
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).**
+- Port-de-Bouc, marché hebdomadaire du cours Landrivon : producteurs et fruits et légumes, horaire contradictoire ; à publier seulement si la Ville confirme les jours et heures.
+- Port-de-Bouc, exploitation bio à vente à la ferme : adresse hors commune selon l'annuaire ; à reprendre si une adresse dans la commune est établie.
+
+**Point d'arrêt.** Passe suivante : le 13 est visé par cette passe, donc la garde de la règle 41.c écarte le 13 ; le 31 redevient éligible. La prochaine commune à sonder dans le 13 est Châteauneuf-les-Martigues (18 455 habitants) ou Fos-sur-Mer, selon l'état de la sondée en cours. Le marché de Port-de-Bouc reste à confirmer auprès de la Ville.
