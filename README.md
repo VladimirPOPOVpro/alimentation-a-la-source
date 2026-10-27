@@ -43780,3 +43780,15 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, relue : rien de nouveau). Tota
 **Pistes non publiées (anonymes, Bouches-du-Rhône).** Allauch : un seul opérateur bio recensé, sans adresse ni source propre. Demande n° 13 (Var, 83) : écartée pour doute sur une personne, à ne pas rouvrir sans source d'entreprise active.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) redevient éligible. Dans le 13, la prochaine commune à sonder est Les Pennes-Mirabeau (22 537 habitants), à reprendre au registre Agence Bio et sur le site de la Ville.
+
+### Passe autonome du 27 octobre 2026 (Bouches-du-Rhône (13) reprise, Les Pennes-Mirabeau sondée au registre Agence Bio) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écartée pour doute sur une personne). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée.
+
+**Commune, règle 41.d.** Les Pennes-Mirabeau, sondée au registre Agence Bio sur les quinze premières pages du 13. Onze opérateurs y sont recensés, dont un seul vend aux particuliers avec une exploitation agricole identifiable : une EARL agrumicole, active au registre des entreprises, mais sans site ni adresse de vente publique trouvés. Une enseigne de ferme en vente directe apparaît sur les réseaux sociaux seulement, avec des horaires de week-end, non vérifiés sur une source propre. Une liste de producteurs directs (jours-de-marche.fr) la mentionne sans horaires. Rien ne rend cinq commerces vérifiables sur deux sources indépendantes : la commune est sondée, sans fiche.
+
+**Pourquoi rien n'est publié.** Une seule piste agricole est active au registre, et aucune ne passe la vérification d'une source indépendante avec horaires. Il faudrait descendre à la commune suivante par population dans le 13 (règle 41.d), ce qui dépasse le budget de cette passe.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Les Pennes-Mirabeau : une EARL agrumicole active sans source de vente publique ; une ferme de vente directe connue seulement par les réseaux sociaux ; une enseigne bio franchisée recensée, horaires non vérifiés. Demande n° 13 (Var, 83) : inchangée.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste éligible, et le 13 reprend par la commune suivante par population sans fiche dans le département.
