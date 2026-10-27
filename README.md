@@ -43838,3 +43838,27 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Rognac, GAEC maraîcher bio à vente directe : horaires et point de vente non confirmés par une source propre ; à reprendre si le producteur publie une page de vente ou si un office ou une enseigne bio le recense.
 
 **Point d'arrêt.** Le 13 vient d'être visé : la passe suivante ne peut pas revenir en région Provence-Alpes-Côte d'Azur (règle 41.c). Le département en tête devient le 59 (Nord, ≈ 4,28), puis le 60 (Oise, ≈ 3,63). Si le 13 revient plus tard, il reprend par les communes de moins de 12 000 habitants qui n'ont pas encore été sondées (à recalculer au moment de la passe), et par le GAEC de Rognac si son horaire est confirmé.
+
+### Passe autonome du 27 octobre 2026 (Haute-Garonne (31) repris, Castelginest, Saint-Jean et Villeneuve-Tolosane sondées : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écartée pour doute sur une personne). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règle 41.** Métropole seule. Le 31 (Haute-Garonne) est en tête (déficit ≈ 4,8). La passe précédente visait le 13, une autre région : la garde de la règle 41.c ne l'écarte pas. Le 31 est retenu.
+
+**Commune, règle 41.d.** L'Union a été sondée à la passe précédente et n'a pas rendu cinq commerces. Les communes suivantes par population sans fiche sont Castelginest (11 271 habitants), Saint-Jean (11 261) et Villeneuve-Tolosane. Ces trois ont été sondées dans cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, 400 opérateurs lus sur 2 841 : à L'Union, Saint-Jean et la zone de Castelginest, aucun opérateur ne vend en direct au public avec une adresse de commerce vérifiable. Les opérateurs de Saint-Jean sont des grossistes ; ceux de L'Union sont des structures sans vente aux particuliers ou des artisans sans point de vente identifié.
+- Recherche web sur Castelginest : aucun marché de producteurs ni commerce de vente directe trouvé. La seule source départementale est l'annuaire DirectFermiers31, qui n'a pas livré de fiche par commune dans cette passe.
+- Recherche web sur Saint-Jean : aucun commerce ni marché identifiable. Les résultats renvoient vers Toulouse et l'annuaire départemental.
+- Recherche web sur Villeneuve-Tolosane : des magasins bio en enseigne (La Vie Claire, Biocoop, Naturalia) apparaissent sur des annuaires de marques, sans horaire ni source propre. Le Biocoop listé semble relever de Seysses ou de Muret, adresse à reprendre. Deux marchés sont annoncés par un annuaire participatif, sans jour ni horaire.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec des communes voisines.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Villeneuve-Tolosane : deux marchés annoncés sans jour ni horaire, à confirmer auprès de la mairie.
+- Villeneuve-Tolosane : magasins bio en enseigne (franchise) recensés, horaires et adresse non vérifiés sur une source propre.
+- L'Union : pistes déjà notées à la passe précédente (marché bio du mercredi à horaire contradictoire ; ferme de vente directe au site garé).
+- Haute-Garonne : une enseigne de réseau bio mentionnée au registre (Villeneuve-Tolosane), à reprendre si la fiche du magasin est confirmée.
+
+**Point d'arrêt.** Passe suivante : le 13 (Bouches-du-Rhône) est écarté par la garde de la règle 41.c, le 31 est de nouveau éligible. Pour le 31, reprendre L'Union si la mairie confirme le marché bio du mercredi ou la ferme, puis Villeneuve-Tolosane : demander les jours et horaires des deux marchés à la mairie, et vérifier l'adresse des magasins bio avec la fiche de leur réseau.
