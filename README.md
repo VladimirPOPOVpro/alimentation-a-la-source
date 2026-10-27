@@ -43919,3 +43919,22 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune des trois communes visées ne rend cinq commerces vérifiables sur deux sources indépendantes, et les deux sites municipaux de Blagnac et Muret sont injoignables.
 
 **Point d'arrêt.** Passe suivante : le 31 ne peut pas être visé de nouveau (garde des deux passes). Le 59 redevient éligible. Commune à sonder : Mons-en-Barœul (21 105 habitants), puis Coudekerque-Branche et Denain.
+
+### Passe autonome du 27 octobre 2026 (Bouches-du-Rhône (13) reprise, Aubagne sondée au registre et au site de la Ville : aucune publication)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs : 1 `en_cours`, 6 `integree`, 6 `refusee`, inchangés.
+
+**Classement, règle 41.** Métropole seule. Le 31 (Haute-Garonne) est en tête mais la passe précédente l'a visé : la garde des deux passes l'écarte. Le 13 (Bouches-du-Rhône, déficit ≈ 4,3) est retenu, devant le 59.
+
+**Commune, règle 41.d.** Aubagne (47 529 habitants) est la commune la plus peuplée du 13 sans fiche, mais elle figure déjà parmi les communes éprouvées de la descente de septembre (règle 301) : elle est sondée à nouveau ici, faute de savoir précisément où reprend la descente.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Bouches-du-Rhône, 3 239 opérateurs, filtrés sur les communes sans fiche de la descente. À Aubagne, Istres, Salon-de-Provence, Tarascon, Saint-Martin-de-Crau, Eyguières, Lambesc et Auriol, les entrées de vente au détail sont soit des exploitations en nom propre (écartées, doute sur une personne), soit des grandes surfaces (hors sujet), soit des boulangeries ou des établissements de gros.
+- Site de la Ville d'Aubagne : répond, mais ne publie aucune liste de marchés ni de producteurs exploitable.
+- Le seul commerce de détail de fruits et légumes et de conserves relevé à Aubagne a un site qui ne répond pas depuis cet environnement (aucune réponse HTTP) : impossible à vérifier.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Aubagne : un commerce de fruits et légumes avec site injoignable, à reprendre quand le site répond ; une exploitation en nom propre, écartée pour doute sur une personne, ne se rouvre pas. Salon-de-Provence : une enseigne de magasin bio sans source indépendante sur ses horaires, à reprendre. Saint-Martin-de-Crau : une maison d'huile d'olive vendant sur place, sans horaires publiés, à reprendre. Tarascon : un commerce de fruits et légumes dont le téléphone relevé paraît personnel, écarté pour doute sur une personne.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes, et le site du seul commerce de détail relevé à Aubagne est injoignable.
+
+**Point d'arrêt.** Passe suivante : le 13 est écarté par la garde (c'est la passe précédente) ; le 31 redevient éligible, ou le 59 si le 31 est lui aussi écarté. Reprendre la descente de la règle 301 après Châteaurenard, et sonder Fos-sur-Mer puis Tarascon si la commune n'est pas déjà couverte par une piste.
