@@ -43955,3 +43955,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune commune du 31 sondée à ce jour ne rend cinq commerces vérifiables sur deux sources indépendantes, et la commune la plus peuplée sans fiche n'a pas de site municipal joignable.
 
 **Point d'arrêt.** Passe suivante : le 31 est écarté par la garde (c'est la passe précédente) ; le 13 redevient éligible, à reprendre à la commune suivante par population sans fiche dans le département.
+
+### Passe autonome du 27 octobre 2026 (Nord (59) repris, Mons-en-Barœul, Coudekerque-Branche et Denain sondées : aucune fiche publiée)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs : 1 `en_cours` (demande n° 13, inchangée, écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règle 41.** Métropole seule (les départements 97x sont écartés par le validateur). Le 59 (Nord) est en tête du déficit (≈ 5,9), devant le 31 et le 13 (≈ 5,65). La passe précédente visait le 31 : la garde de la règle 41.c ne retient pas le 31, et le 59 est retenu.
+
+**Commune, règle 41.d.** Les communes du 59 les plus peuplées sans fiche sont Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart et Armentières, toutes éprouvées aux passes précédentes. Mons-en-Barœul (21 105 habitants) est la suivante par population ; elle est sondée ici, puis Coudekerque-Branche (20 787) et Denain (20 665).
+
+**Sources de cette passe.**
+- Registre Agence Bio, Nord, 1 795 opérateurs lus par pagination (sur le total du département). À Mons-en-Barœul, aucun opérateur ne vend en direct au public avec une adresse de commerce vérifiable : préparateurs, distributeurs, ou inscriptions au nom de personnes physiques (non reprises, ne se rouvrent pas). À Coudekerque-Branche, une seule entrée de vente aux particuliers, un magasin bio ; à Denain, une entrée de distribution sans adresse de vente au détail.
+- Recherche web sur Mons-en-Barœul : une enseigne Biocoop référencée sur les annuaires de marques, sans horaire ni site propre recoupé ; une adresse d'alimentation bio sur un annuaire local, dont la nature (producteur ou commerce classique) n'est pas établie ; un magasin de produits locaux renvoyé hors commune (environ 26 km), écarté. Aucun marché de producteurs identifié.
+- Recherche web sur Coudekerque-Branche et Denain : les annuaires de circuit court renvoient vers des fermes et des points de vente hors commune, sans adresse vérifiable dans la commune. Pour Denain, un commerce bio qui vend en direct près du centre commercial de Noyelles est hors commune.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec des communes voisines.
+
+**Pistes non publiées (anonymes, Nord).**
+- Mons-en-Barœul : magasin bio en enseigne coopérative recensé, horaires et adresse à vérifier sur la fiche propre du magasin ; adresse d'alimentation bio à qualifier (producteur ou commerce) sur une source officielle.
+- Mons-en-Barœul : deux inscriptions de vente aux particuliers désignent des personnes physiques : non reprises, ne se rouvrent pas.
+- Coudekerque-Branche : un magasin bio recensé au registre Agence Bio, à reprendre si son site ou sa fiche d'office confirme l'adresse et les horaires.
+- Denain : un commerce bio à vente directe près de Noyelles (hors commune), à écarter sauf adresse dans Denain.
+
+**Point d'arrêt.** Passe suivante : le 59 est écarté par la garde (c'est la passe précédente) ; le 31 redevient éligible, à reprendre à L'Union et à Villeneuve-Tolosane, ou le 13 à Salon-de-Provence et Saint-Martin-de-Crau. Le magasin bio de Coudekerque-Branche est à confirmer si la commune ou le magasin publie ses horaires.
