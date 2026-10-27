@@ -43817,3 +43817,24 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, relue : inchangée, toujours �
 - L'Union, magasin bio en réseau : enseigne de réseau, horaires non vérifiés.
 
 **Point d'arrêt.** Passe suivante : le 31 ne peut pas être visé de nouveau, la garde des deux passes l'écarte. Le département en tête redevient le 13 (Bouches-du-Rhône, déficit ≈ 4,3), ou le 59 (Nord, même ordre de grandeur) selon la formule au moment de la passe. Si le 31 revient, reprendre L'Union par les pistes ci-dessus avant Castelginest.
+
+### Passe autonome du 27 octobre 2026 (Bouches-du-Rhône (13) reprise, Rognac sondée : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écartée pour doute sur une personne). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règle 41.** Métropole seule (le contrôle de construction refuse l'outre-mer, règle 93). Le 31 est en tête (déficit ≈ 4,72) mais a été visé à la passe précédente : la garde de la règle 41.c l'écarte. Le 13 suit (≈ 4,33), devant le 59 (≈ 4,28). Le 13 est retenu.
+
+**Commune, règle 41.d.** Les communes du 13 de plus de 12 000 habitants sans fiche ont toutes été sondées aux passes précédentes (Aubagne, Istres, Salon-de-Provence, Vitrolles, Marignane, Miramas, Les Pennes-Mirabeau, Gardanne, Allauch, La Ciotat, Châteauneuf-les-Martigues, Châteaurenard, Tarascon, Bouc-Bel-Air, Saint-Martin-de-Crau, Berre-l'Étang, Auriol, Rognac, Septèmes-les-Vallons). Le registre de l'Agence Bio, 1 600 opérateurs sur 3 239 lus, ne donne à Rognac qu'un maraîcher bio en GAEC, actif, vendant aux particuliers, mais sans site propre ni horaire vérifié.
+
+**Ce qui a été lu, Rognac.**
+- Recherche web : fiche d'un établissement agricole de Rognac, « Production de cultures », avec un téléphone et une adresse de chemin rural, et des horaires d'ouverture affichés sur un profil cartographique seulement (non confirmés par une source du producteur ou de la Ville).
+- Registre des entreprises : GAEC active, mais cette entité ne désigne pas une enseigne de vente publique.
+- Fiche bio-marseille.fr : page vide au téléchargement. Producteurslocaux.org : accès refusé depuis cet environnement.
+- Ville de Rognac : déjà sondée aux passes précédentes, fermée.
+
+**Pourquoi rien n'est publié.** Une seule piste agricole de vente directe, sans horaire vérifié (règle 136 : pas de fiche sur des faits sans horaires) et sans source indépendante qui décrive le point de vente. Il faudrait cinq commerces vérifiables groupés sur une commune ; aucune autre commune du 13 au-dessus de 12 000 habitants n'en rend plus d'un.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).**
+- Rognac, GAEC maraîcher bio à vente directe : horaires et point de vente non confirmés par une source propre ; à reprendre si le producteur publie une page de vente ou si un office ou une enseigne bio le recense.
+
+**Point d'arrêt.** Le 13 vient d'être visé : la passe suivante ne peut pas revenir en région Provence-Alpes-Côte d'Azur (règle 41.c). Le département en tête devient le 59 (Nord, ≈ 4,28), puis le 60 (Oise, ≈ 3,63). Si le 13 revient plus tard, il reprend par les communes de moins de 12 000 habitants qui n'ont pas encore été sondées (à recalculer au moment de la passe), et par le GAEC de Rognac si son horaire est confirmé.
