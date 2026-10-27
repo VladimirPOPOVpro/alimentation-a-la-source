@@ -43978,3 +43978,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Denain : un commerce bio à vente directe près de Noyelles (hors commune), à écarter sauf adresse dans Denain.
 
 **Point d'arrêt.** Passe suivante : le 59 est écarté par la garde (c'est la passe précédente) ; le 31 redevient éligible, à reprendre à L'Union et à Villeneuve-Tolosane, ou le 13 à Salon-de-Provence et Saint-Martin-de-Crau. Le magasin bio de Coudekerque-Branche est à confirmer si la commune ou le magasin publie ses horaires.
+
+### Passe autonome du 27 octobre 2026 (Haute-Garonne (31) reprise, L'Union et Villeneuve-Tolosane sondées : aucune publication)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs : 1 `en_cours` (demande n° 13, inchangée, écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règle 41.** Métropole seule. Le 59 était visé à la passe précédente : la garde des deux passes l'écarte. Le 31 (Haute-Garonne) est le premier département éligible du classement métropolitain.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 31 sans fiche ont déjà été sondées (passes précédentes). Le point d'arrêt désignait L'Union (12 638 habitants), puis Villeneuve-Tolosane.
+
+**Sources de cette passe.**
+- Site de la Ville de L'Union : répond. Deux marchés y sont listés, sans producteurs identifiés : un marché de plein vent le dimanche matin (8 h à 13 h, environ cent exposants, marché généraliste) et un marché bio le mercredi de 15 h 30 à 18 h 30 au centre commercial des Acacias.
+- Registre Agence Bio, Haute-Garonne, pages 1 et 2 lues : trois entrées à L'Union, dont une de préparation et une de distribution, sans vente directe établie au public ; aucune entrée de producteur en vente directe.
+- Recherche web sur L'Union : aucun marché de producteurs ni magasin de ferme identifié, hors les deux marchés ci-dessus.
+- Villeneuve-Tolosane : aucun marché ni point de vente de producteurs trouvé dans la commune. Les annuaires de circuits courts ne listent que des producteurs situés à plusieurs kilomètres, hors commune (à partir de 6 km), écartés.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** L'Union : marché bio hebdomadaire du mercredi (centre commercial des Acacias), à compléter par des producteurs identifiés avant toute fiche ; marché de plein vent du dimanche, généraliste, hors périmètre sauf producteurs identifiables sur place. L'Union : une entrée de préparation au registre, sans vente directe, écartée. Villeneuve-Tolosane : aucune piste retenue. Les entrées du registre au nom de personnes physiques ne sont pas reprises et ne se rouvrent pas.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec des communes voisines.
+
+**Point d'arrêt.** Passe suivante : le 31 est écarté par la garde (passe précédente visait le 59 ; le 31 redevient éligible si le classement le place en tête). Le 59 reste éligible à reprendre à Mons-en-Barœul puis Coudekerque-Branche ; si le 31 est retenu, descendre au-delà de Villeneuve-Tolosane, dans la liste par population sans fiche.
