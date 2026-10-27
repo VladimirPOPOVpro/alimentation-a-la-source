@@ -43792,3 +43792,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pistes non publiées (anonymes, Bouches-du-Rhône).** Les Pennes-Mirabeau : une EARL agrumicole active sans source de vente publique ; une ferme de vente directe connue seulement par les réseaux sociaux ; une enseigne bio franchisée recensée, horaires non vérifiés. Demande n° 13 (Var, 83) : inchangée.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) reste éligible, et le 13 reprend par la commune suivante par population sans fiche dans le département.
+
+### Passe autonome du 27 octobre 2026 (Haute-Garonne (31) reprise, L'Union (12 638 habitants) sondée : aucune fiche publiée)
+
+Backlog : 0 nouvelle, 1 en cours (demande n° 13, relue : inchangée, toujours écartée pour doute sur une personne). Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, le validateur refuse les coordonnées hors métropole). Le département en tête est le 31 (déficit ≈ 4,7). La passe précédente visait les Bouches-du-Rhône (13) : la garde des deux passes ne bloque que le 13, pas le 31. Le 31 est retenu.
+
+**Commune, règle 41.d.** Les communes du 31 plus peuplées que L'Union et sans fiche ont déjà été sondées aux passes précédentes (Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Saint-Gaudens, Fonsorbes). Fonsorbes (12 954 habitants) a été sondée à la passe précédente ; la commune suivante par population sans fiche est **L'Union (12 638 habitants)**, avant Castelginest (11 271) et Saint-Jean (11 261). Le point d'arrêt précédent annonçait Villeneuve-Tolosane : il sautait L'Union et Castelginest, plus peuplées. Correction faite ici.
+
+**L'Union, ce qui a été lu.**
+- Site de la Ville (`ville-lunion.fr`, page « Marché de plein vent ») : marché de plein vent tous les dimanches de 8 h à 13 h, environ cent exposants, « produits et marchandises » (mélange généraliste, non retenu sans précision sur la part alimentaire) ; marché bio tous les mercredis de 15 h 30 à 18 h 30, centre commercial des Acacias (légumes, pain, fromages, volailles, œufs).
+- Office de tourisme de Haute-Garonne : confirme le marché dominical de plein vent (même horaire).
+- Annuaire Agence Bio, Haute-Garonne, pages 1 à 4 : plusieurs opérateurs localisés à L'Union, mais surtout des personnes physiques en nom propre, des grossistes, ou des points de vente hors circuit court. Un magasin Biocoop (Bio Montredon) est recensé : enseigne de réseau, horaires et adresse non vérifiés sur une source propre, non retenu à cette passe.
+- Ferme des Violettes (magasin de producteurs, 4 chemin de la Violette, L'Union) : présente sur les annuaires en ligne et sur les réseaux sociaux, mais son site (`lafermedesviolettes.fr`) est une page garée d'hébergeur, à ne pas inscrire ; les horaires publiés par la presse (2017-2018) sont anciens et non confirmés : fiche non publiée.
+- Demande d'un tiers sur le marché bio : le site de la Ville donne le mercredi 15 h 30 à 18 h 30, un agrégateur (bioetbienetre.fr) donne 16 h à 20 h. **Contradiction** sur l'horaire (règle 5) : rien ne se publie sur cet horaire tant qu'une source propre ne tranche.
+
+**Pourquoi rien n'est publié.** L'Union rend deux lieux solides sur une source officielle (les deux marchés), dont l'un est généraliste et l'autre a un horaire contradictoire. Le troisième candidat sérieux (la ferme) n'a ni site valide ni horaire vérifié. Il manque trois fiches vérifiables pour atteindre le seuil de cinq commerces groupés sur une seule commune. Descendre à Castelginest, Saint-Jean ou Villeneuve-Tolosane ne se fait pas à cette passe, faute de temps de recherche suffisant : elles restent au point d'arrêt.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- L'Union, marché de plein vent dominical : généraliste (100 exposants, marchandises diverses) ; à publier seulement si la part alimentaire et circuit court est établie.
+- L'Union, marché bio du mercredi : horaire contradictoire entre la Ville et un agrégateur ; source propre à chercher, puis photo thématique.
+- L'Union, ferme de vente directe (magasin de producteurs) : site garé, horaires non confirmés ; à reprendre par le téléphone du commerce ou une page de l'office de tourisme.
+- L'Union, magasin bio en réseau : enseigne de réseau, horaires non vérifiés.
+
+**Point d'arrêt.** Passe suivante : le 31 ne peut pas être visé de nouveau, la garde des deux passes l'écarte. Le département en tête redevient le 13 (Bouches-du-Rhône, déficit ≈ 4,3), ou le 59 (Nord, même ordre de grandeur) selon la formule au moment de la passe. Si le 31 revient, reprendre L'Union par les pistes ci-dessus avant Castelginest.
