@@ -44070,3 +44070,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune des communes sondées ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec une commune voisine.
 
 **Point d'arrêt.** Passe suivante : le 59 est écarté par la garde de la règle 41.c. Le 31 redevient éligible ; il est à reprendre après Villeneuve-Tolosane et Auterive, à Seysses et Castanet-Tolosan, ou au suivant du classement si la descente est close.
+
+### Passe autonome du 28 octobre 2026 (Bouches-du-Rhône (13) visé, Istres puis Salon-de-Provence sondées, aucune publication)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs : 1 `en_cours` (demande n° 13, toujours en attente : doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règles 41 et 41.c.** Recalcul métropole seule : Nord 6,4 (passe précédente, écarté par la garde), **Bouches-du-Rhône 6,0**, Haute-Garonne 5,9. Le 13 est retenu. Marseille, Arles, Martigues et Aubagne portent déjà des fiches : non éligibles au titre de la règle 41.d.
+
+**Commune, règle 41.d.** La plus peuplée sans fiche est **Istres (44 292 hab.)**, puis Salon-de-Provence (44 194).
+
+**Istres.** Site de la Ville, rubrique « Marchés », lue directement : marché hebdomadaire du centre-ville, le mardi de 8 h à 12 h, allées Jean-Jaurès (généraliste, fruits et légumes parmi les vêtements) ; marché d'Entressen, le vendredi de 8 h à 12 h 30, place Lou-Blagiaire, présenté comme produits de producteurs locaux ; un « marché gourmand » du samedi, boulevard Paul-Painlevé, sans horaire et sans seconde source. Le marché « L'Instant Provençal » du samedi a pris fin le 26 septembre 2026. Registre Agence Bio : pas d'enseigne de producteur à Istres ; les entrées au nom de personnes physiques ne sont pas reprises. Une ferme maraîchère bio d'Entressen (vente à la ferme le samedi matin, selon un guide d'agenda) n'a pas pu être confirmée par l'exploitation : horaires et téléphone non vérifiés.
+
+**Contradiction, non tranchée.** Le marché d'Entressen est « vendredi matin, toute l'année » sur le site de la Ville, mais un agenda évoque un marché du vendredi soir en saison, de mai à septembre, à la grange d'Entressen (éditions 2024 et 2025, aucune date 2026). La Ville fait foi pour l'horaire ; la date de la saison reste à confirmer.
+
+**Salon-de-Provence.** Le site de la Ville et celui de l'office de tourisme n'ont pas pu être ouverts depuis cet environnement. Sources lues : le site régional de tourisme, qui reprend les fiches de l'office, et des agendas. Candidats : le grand marché du mercredi (7 h à 13 h, fiche datée de 2022), le marché du dimanche place du Général-de-Gaulle (7 h à 13 h), le petit marché des Bressons (samedi, 7 h à 13 h), le marché bio du samedi place Saint-Michel (horaires contradictoires : 8 h à 12 h 30 dans la description, 19 h à 19 h 30 « dates à confirmer » dans la fiche d'ouverture, programme « en attente de validation »), le marché paysan du jeudi chemin des Cabans (fin d'après-midi, sans heure, source unique) et le marché paysan de Bel-Air (fiche de 2022, en attente de validation).
+
+**Pourquoi rien n'est publié.** Istres rend trois points, sous le seuil de quatre de la règle 52 : la règle 41.d fait descendre à Salon-de-Provence. Salon rend cinq marchés, mais aucun n'est confirmé par la Ville ni par l'office lui-même ; les horaires viennent d'agendas, dont une fiche de 2022 et une fiche contradictoire. Une fiche de marché sans horaire officiel ne se publie pas, comme à la passe du 14 octobre.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).**
+- Istres : ferme maraîchère bio d'Entressen, vente à la ferme le samedi matin ; à reprendre si l'exploitation confirme sur son propre site horaires, adresse et téléphone.
+- Istres : marché d'Entressen, horaire contradictoire ; à reprendre si la Ville précise la saison et l'horaire.
+- Istres : « marché gourmand » du samedi, boulevard Paul-Painlevé, sans horaire ni seconde source.
+- Istres : marché du mardi au centre-ville, à qualifier au regard de la règle 9 (majorité de textile et de non-alimentaire).
+- Salon-de-Provence : cinq marchés (mercredi, dimanche, samedi des Bressons, samedi bio, jeudi de Michelet, Bel-Air) ; à reprendre si l'office ou la Ville confirme jours, lieux et heures pour 2026.
+
+**Fiches écartées pour doute sur une personne** : deux (Istres et Salon-de-Provence), dont l'enseigne reprend un prénom. Non reprises, ne se rouvrent pas.
+
+**Points d'arrêt.** Le 13 est éprouvé cette passe : la garde de la règle 41.c écarte le 13 à la passe suivante. Le classement suivant est le Nord (59, 6,4), puis la Haute-Garonne (31). Salon-de-Provence reste en tête des pistes du 13 : une lecture directe du site de la Ville ou de l'office la rendrait publiable.
