@@ -44023,3 +44023,27 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La descente du 59 atteint quinze communes éprouvées sans succès (règle 247) ; la passe ne cherche pas de commune voisine (règle 52).
 
 **Point d'arrêt.** Passe suivante : le 59 est écarté par la garde de la règle 41.c. Le 13 a sa descente close (règle 247), le 31 est le suivant du classement une fois la garde levée. Ce sont des descentes à reprendre sur des communes non encore éprouvées, ou à clore au sens de la règle 247.
+
+### Passe autonome du 28 octobre 2026 (Haute-Garonne (31) repris, Auterive sondée au registre et sur les sites : aucune fiche publiée)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (demande n° 13, écartée pour doute sur une personne), 6 `integree`, 6 `refusee`.
+
+**Classement, règles 41 et 41.c.** Métropole seule : le 974 et les autres départements 97x sont écartés par le validateur. Le 59 était visé à la passe précédente : la garde de la règle 41.c l'écarte. Le 31 (Haute-Garonne, déficit ≈ 4,7) est retenu.
+
+**Commune, règle 41.d.** Le registre Agence Bio du 31 a été lu en entier (2 843 opérateurs, pagination de cent). Les communes les plus peuplées sans fiche ont été éprouvées aux passes précédentes ; la descente reprend après Villeneuve-Tolosane. Seysses (10 539 habitants) et Auterive (10 456) sont les suivantes par population. Castelginest et Saint-Jean, de population voisine, n'ont aucune entrée de vente au détail au registre.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Haute-Garonne, intégralité. À Seysses, les entrées de vente au particulier sont des exploitations inscrites au nom de personnes physiques (non reprises, ne se rouvrent pas), une entreprise d'élevage et une société de distribution hors sujet. À Auterive, une enseigne Biocoop, un magasin spécialisé, une épicerie de produits importés et une entrée de vente aux particuliers sans nom commercial ; le reste relève de particuliers, de grossistes ou d'établissements hors sujet.
+- Site de la commune d'Auterive : l'adresse `auterive.fr` est un site non officiel (agence de communication, bandeau « site non officiel »). Il n'est pas une source de la commune et n'a pas été utilisé.
+- Page de la Biocoop d'Auterive sur biocoop.fr : introuvable (404) depuis cet environnement. Horaires et adresse non confirmés.
+- Site de la ferme de Castanet-Tolosan : domaine injoignable depuis cet environnement.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Auterive : magasin bio en enseigne Biocoop, à reprendre si la fiche propre du magasin sur biocoop.fr répond et confirme adresse et horaires.
+- Auterive : épicerie de produits importés et magasin spécialisé, vente au détail à qualifier sur une source indépendante.
+- Castanet-Tolosan : une ferme à vente au détail et un magasin bio en enseigne, à reprendre si les sites répondent.
+- Entrées au nom de personnes physiques à Seysses, Auterive, Léguevin, Saint-Jean, Muret, Blagnac et ailleurs dans le 31 : non reprises, ne se rouvrent pas.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes : la source municipale d'Auterive est absente (le domaine d'Auterive est un site non officiel), la fiche Biocoop est introuvable, et les autres points de vente relèvent de personnes physiques ou de sites injoignables. La règle 52 interdit de compléter avec une commune voisine.
+
+**Point d'arrêt.** Passe suivante : le 31 est écarté par la garde (passe précédente). Le 59 redevient éligible, à reprendre à Mons-en-Barœul, Coudekerque-Branche puis Denain ou, si la descente est close, au suivant du classement.
