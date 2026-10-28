@@ -44097,3 +44097,17 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne** : deux (Istres et Salon-de-Provence), dont l'enseigne reprend un prénom. Non reprises, ne se rouvrent pas.
 
 **Points d'arrêt.** Le 13 est éprouvé cette passe : la garde de la règle 41.c écarte le 13 à la passe suivante. Le classement suivant est le Nord (59, 6,4), puis la Haute-Garonne (31). Salon-de-Provence reste en tête des pistes du 13 : une lecture directe du site de la Ville ou de l'office la rendrait publiable.
+
+### Passe autonome du 29 octobre 2026 (Nord (59) visé, registre Agence Bio relu en entier : aucune fiche publiée)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs : 1 `en_cours` (demande n° 13, écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règles 41 et 41.c.** La passe précédente visait le 13 : la garde de la règle 41.c l'écarte. Le 59 (Nord, déficit ≈ 6,4 au calcul du 28 octobre) est retenu.
+
+**Commune, règles 41.d et 247.** Le registre Agence Bio du 59 a été relu en entier (1 796 opérateurs, pagination de cent). Les communes de plus de dix mille habitants sans fiche ont déjà été éprouvées aux passes précédentes ; la descente reprend à la commune suivante par population. Le filtre « vente aux particuliers » du registre est trop lâche pour trier seul : il ramène surtout des grossistes, des restaurants et des personnes physiques, qui ne sont pas repris.
+
+**Sources de cette passe.** Registre Agence Bio, Nord, intégralité, seul. Aucune commune n'a été sondée cette fois sur son site officiel, sur un office de tourisme ou sur un annuaire tiers : la lecture du registre seul ne fait pas une source suffisante pour une fiche.
+
+**Pourquoi rien n'est publié.** Aucune commune relue cette passe ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec une commune voisine.
+
+**Point d'arrêt.** Passe suivante : le 59 est écarté par la garde de la règle 41.c. Le 13 redevient éligible si le classement le replace en tête ; sinon le 31 (Haute-Garonne), à reprendre à Villeneuve-Tolosane ou Seysses après vérification web.
