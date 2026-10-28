@@ -44047,3 +44047,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes : la source municipale d'Auterive est absente (le domaine d'Auterive est un site non officiel), la fiche Biocoop est introuvable, et les autres points de vente relèvent de personnes physiques ou de sites injoignables. La règle 52 interdit de compléter avec une commune voisine.
 
 **Point d'arrêt.** Passe suivante : le 31 est écarté par la garde (passe précédente). Le 59 redevient éligible, à reprendre à Mons-en-Barœul, Coudekerque-Branche puis Denain ou, si la descente est close, au suivant du classement.
+
+### Passe autonome du 28 octobre 2026 (Nord (59) visé, Lys-lez-Lannoy, Caudry et Raismes sondées au registre : aucune fiche publiée)
+
+**Backlog.** `node scripts/backlog.mjs list` ne rend aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (demande n° 13, écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règles 41 et 41.c.** Le 31 était visé à la passe précédente : la garde l'écarte. Le 59 (Nord) est donc retenu, sur le classement métropolitain.
+
+**Commune, règle 41.d.** Les communes du 59 de plus de 10 000 habitants sans fiche ont été éprouvées aux passes précédentes, sauf Lys-lez-Lannoy (14 050), Caudry (13 833), Raismes (12 199), Somain (11 766), Bruay-sur-l'Escaut (11 644), Fourmies (11 449), Gravelines (11 430), Wambrechies (11 012) et Saint-Saulve (10 947). Le registre Agence Bio du 59 a été lu en entier (1 796 opérateurs, pagination de cent) et filtré sur ces communes.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Nord, intégralité. Lys-lez-Lannoy : seuls des grossistes et une entrée sans vente au détail. Caudry : une entrée de vente aux particuliers au nom d'une personne physique (non reprise, ne se rouvre pas), le reste relève de grossistes, de supermarchés ou d'établissements hors sujet. Raismes : une ferme à vente au détail (« La Ferme du Major »), à qualifier sur une source propre, et une entrée de vente aux particuliers au nom d'une personne physique (non reprise) ; le reste relève de supermarchés et d'établissements sans vente. Gravelines : une entreprise artisanale de transformation et de vente au comptoir, hors catégories retenues (règle 4 : artisan qui transforme et vend au comptoir relève de `producteur`, à qualifier), et une entrée au nom d'une personne physique (non reprise). Fourmies, Somain, Bruay-sur-l'Escaut, Wambrechies, Saint-Saulve : entrées de distribution, de gros ou de restauration, ou sans vente au public.
+- Recherche de sources indépendantes pour les pistes ci-dessus : aucune commune ne ressort avec cinq commerces vérifiables.
+
+**Pistes non publiées (anonymes, Nord).**
+- Raismes : une ferme à vente au détail, à reprendre si sa fiche propre confirme l'adresse, les horaires et le téléphone.
+- Raismes : un magasin de produits naturels et une entrée de vente aux particuliers au nom d'une personne physique (non reprise, ne se rouvre pas).
+- Gravelines : artisan transformateur à vente au comptoir, à qualifier comme `producteur` sur une source indépendante.
+- Comines et Marcq-en-Barœul : un potager à vente au détail inscrit au registre, à qualifier (adresse de vente et horaires) ; une entrée de vente aux particuliers au nom d'une personne physique à Comines (non reprise).
+- Wambrechies : une enseigne de vente au détail et de restauration, à qualifier ; une entrée au nom d'une personne physique (non reprise).
+
+**Pourquoi rien n'est publié.** Aucune des communes sondées ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec une commune voisine.
+
+**Point d'arrêt.** Passe suivante : le 59 est écarté par la garde de la règle 41.c. Le 31 redevient éligible ; il est à reprendre après Villeneuve-Tolosane et Auterive, à Seysses et Castanet-Tolosan, ou au suivant du classement si la descente est close.
