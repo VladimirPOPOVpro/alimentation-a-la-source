@@ -44570,3 +44570,27 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Constat de fond.** Vingt-et-une passes depuis le matin, sur trois départements seulement (59, 13, 31), n'ont rien publié. Les mêmes communes reviennent à chaque passe sans nouvelle source. Une passe de plus sur ce secteur ne change rien. Le travail utile suivant demande une autre piste : un secteur dont le registre Agence Bio a des entrées vérifiables, ou une décision du responsable du site sur l'ordre des départements.
 
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+### Passe autonome du 29 octobre 2026 (vingt-deuxième) : Aubagne (13), quatre fiches publiées
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée. Aucun message envoyé. Total : 1 303 fiches (+4).
+
+**Secteur, règle 41.** Métropole seule, population `geo.api.gouv.fr`, 1 299 fiches avant la passe. Déficit : Nord (59, ≈ 6,35), Bouches-du-Rhône (13, ≈ 5,99), Haute-Garonne (31, ≈ 5,89). Le 59 est écarté par la garde de la règle 41.c, car la passe précédente l'a visé. Le 13 est retenu.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 13 sans aucune fiche : Aubagne (47 529 habitants). Marseille, Aix, Arles et Martigues en ont déjà.
+
+**Fiches publiées (4).**
+- Chez les Producteurs (magasin collectif, route de Napollon) : registre-fiche de Que Choisir, page de la marque collective Les Jardins du Pays d'Aubagne, office de tourisme. Horaires contradictoires entre les trois sources : publiés en « mardi à samedi, plages à confirmer », `a_confirmer: true`. Aucun téléphone retenu : le seul numéro vient d'un annuaire tiers, pas du commerce.
+- La Ferme des Roselières (maraîchage bio, vente à la ferme le jeudi) : site de la ferme, office de tourisme, registre des entreprises (établissement actif). Le téléphone affiché par l'office est un numéro de portable : non publié.
+- Satoriz Aubagne (magasin bio, route de Gémenos) : site officiel du réseau, Mappy, annuaire au-magasin, registre (actif). Les horaires du site officiel (8 h 30 à 19 h 30, lundi au samedi) font foi ; l'annuaire au-magasin indiquait 9 h à 19 h, contradiction consignée ici. Téléphone du site officiel retenu.
+- Marché du cours Voltaire (samedi et dimanche, 8 h à 13 h, espace producteurs) : office de tourisme, site régional, MyProvence, page de la marque. Les mardis et jeudis ne sont confirmés que par l'office de tourisme : `a_confirmer: true`.
+
+**Photos.** Chez les Producteurs : façade du magasin, 1400 px réduit à 1280. Ferme : photo de son site, 1995 px réduit à 1280. Satoriz : photo du magasin sur le site du réseau, 640 px, non agrandie. Marché : photo de l'office de tourisme, 400 px, non agrandie. Les photos de la marque et de l'office montrant des étals ou des commerçants nommés (bannières au nom de producteurs, visages) ont été écartées.
+
+**Piste non publiée à Aubagne (une ligne anonyme).** Coopérative bio (chemin de Ceinture) : existence et horaires vérifiés sur une seule source, l'office de tourisme (mise à jour d'avril 2026). Aucune photo utilisable : la fiche attend une photo ou une deuxième source avant publication. Les producteurs individuels de la marque ne sont pas fichés : leurs entreprises portent des noms de personnes.
+
+**Écartée.** Bio Distrifrais (avenue de la Roche-Fourcade) : une seule annonce, adresse partagée avec une autre entreprise, aucun horaire ni téléphone. Non publiée.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le 13 (règle 41.c). Le 59 redevient candidat, mais la commune la plus peuplée du 59 sans fiche reste Wattrelos. Reprendre la coopérative du chemin de Ceinture à Aubagne si une photo ou une seconde source apparaît.

@@ -34282,5 +34282,95 @@
     "site_web": "https://www.gaspr.eu/",
     "image_url": "/images/marchands/gaspr-kembs.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "chez-les-producteurs-aubagne",
+    "nom": "Chez les Producteurs",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.317973,
+    "lon": 5.586281,
+    "adresse": "RD 96, 1500 route de Napollon, 13400 Aubagne",
+    "horaires": "Ouvert du mardi au samedi, fermé le lundi et le dimanche. Les plages horaires diffèrent selon les sources (matin et après-midi, fin de journée jusqu’à 19 h ou 19 h 30) : à confirmer par téléphone avant de venir.",
+    "produits": [
+      "Fruits et légumes, dont des légumes bio",
+      "Viande et œufs",
+      "Produits laitiers et fromages",
+      "Miel, safran et spiruline",
+      "Pains",
+      "Vin et bière"
+    ],
+    "description": "Point de vente collectif qui regroupe, selon les sources, entre vingt et vingt-huit producteurs du pays d’Aubagne et de l’Étoile. La vente reste directe : un producteur est toujours présent au magasin, et les produits sont bio, raisonnés ou sous la marque Les Jardins du Pays d’Aubagne.",
+    "site_web": "http://jardinsdupaysdaubagne.com/",
+    "image_url": "/images/marchands/chez-les-producteurs-aubagne.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "la-ferme-des-roselieres-aubagne",
+    "nom": "La Ferme des Roselières",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.306755,
+    "lon": 5.589379,
+    "adresse": "1650 route des Aubes, 13400 Aubagne",
+    "horaires": "Vente à la ferme le jeudi de 16 h 30 à 18 h 30.",
+    "produits": [
+      "Légumes bio de saison, cultivés à la ferme",
+      "Paniers de légumes bio, à commander en ligne"
+    ],
+    "description": "Exploitation maraîchère en agriculture biologique. Le site de la ferme indique que tous les produits sont cultivés sur place, sans achat-revente ; l’office de tourisme mentionne aussi des paniers bio et des partenariats avec plusieurs AMAP de la région.",
+    "site_web": "https://www.lafermedesroselieres.com/",
+    "image_url": "/images/marchands/la-ferme-des-roselieres-aubagne.jpg"
+  },
+  {
+    "slug": "satoriz-aubagne",
+    "nom": "Satoriz Aubagne",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.297898,
+    "lon": 5.598828,
+    "adresse": "2 impasse des Roselières, route de Gémenos (RD 2), 13400 Aubagne",
+    "horaires": "Du lundi au samedi, de 8 h 30 à 19 h 30. Fermé le dimanche et les jours fériés.",
+    "produits": [
+      "Légumes de producteurs locaux, livrés en magasin tous les deux jours",
+      "Fromage de chèvre de producteurs locaux, livré chaque semaine en saison",
+      "Pain livré par une boulangerie partenaire (mardi, jeudi et samedi)",
+      "Commande en ligne avec retrait en magasin"
+    ],
+    "description": "Magasin bio du réseau Satoriz, avec un restaurant bio installé juste à côté. La page du magasin sur le site du réseau indique des livraisons régulières de producteurs locaux, en plus de la commande en ligne.",
+    "telephone": "04 42 84 19 52",
+    "site_web": "https://satoriz.fr/magasin-bio/satoriz-aubagne/",
+    "image_url": "/images/marchands/satoriz-aubagne.jpg"
+  },
+  {
+    "slug": "marche-cours-voltaire-aubagne",
+    "nom": "Marché du cours Voltaire",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 43.295056,
+    "lon": 5.568383,
+    "adresse": "Cours Voltaire, 13400 Aubagne",
+    "horaires": "Samedi et dimanche, de 8 h à 13 h. L’office de tourisme annonce aussi un marché alimentaire les mardis et jeudis matin, sans que les autres sources le confirment : jours à confirmer.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Miel et produits de la ruche",
+      "Produits des producteurs de la marque Les Jardins du Pays d’Aubagne"
+    ],
+    "description": "Marché alimentaire du cours Voltaire, avec un espace réservé aux producteurs agréés. Ces producteurs suivent une charte d’engagements (exploitation à taille humaine, vente directe, visite préalable par un organisme agricole du département).",
+    "image_url": "/images/marchands/marche-cours-voltaire-aubagne.jpg",
+    "a_confirmer": true
   }
 ]
