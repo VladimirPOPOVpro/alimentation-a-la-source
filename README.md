@@ -44111,3 +44111,19 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pourquoi rien n'est publié.** Aucune commune relue cette passe ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés et adresse géocodée. La règle 52 interdit de compléter avec une commune voisine.
 
 **Point d'arrêt.** Passe suivante : le 59 est écarté par la garde de la règle 41.c. Le 13 redevient éligible si le classement le replace en tête ; sinon le 31 (Haute-Garonne), à reprendre à Villeneuve-Tolosane ou Seysses après vérification web.
+
+### Passe autonome du 29 octobre 2026, deuxième passe (Bouches-du-Rhône (13) sondé, Salon-de-Provence : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (demande écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Classement, règles 41, 41.c et 247.** La passe précédente visait le 59 : la garde de la règle 41.c l'écarte. Les départements d'outre-mer (971 à 988) ont le déficit le plus fort, mais leurs coordonnées tombent hors de France métropolitaine : `lib/validateMerchants.ts` les refuse, et MODERATION.md réserve ce cas au responsable du site. Le 31 (Haute-Garonne) reste en tête des départements métropolitains éligibles, mais sa descente a déjà éprouvé plus de douze communes (Blagnac, Muret, Plaisance-du-Touch, L'Union, Villeneuve-Tolosane, Auterive, Seysses, Saint-Jean, Castelginest, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville) : la règle 247 fait changer de département. Le 13 (Bouches-du-Rhône) est donc retenu.
+
+**Commune, règle 41.d.** Salon-de-Provence, reprise de la descente indiquée à la passe précédente. Cinq marchés sont recensés ; aucun n'est confirmé par la Ville ni par l'office de tourisme.
+
+**Sources de cette passe.** Recherche web : les horaires des marchés de Salon-de-Provence divergent d'un site à l'autre (un marché bio du samedi donné à 8 h–12 h 30 dans une source et à 19 h–19 h 30 « dates à confirmer » dans une autre ; un marché nocturne d'été aux dates contradictoires). Les sites officiels de la Ville et de l'office de tourisme ne résolvent pas depuis cet environnement (erreur DNS) : la vérification de la règle 9 n'a donc pas pu être faite.
+
+**Pourquoi rien n'est publié.** Une fiche de marché sans horaire confirmé par la commune ou l'office ne se publie pas (règle 9). Aucune autre commune du 13 n'a rendu cinq points vérifiables cette passe.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Salon-de-Provence : les cinq marchés cités ci-dessus, à reprendre dès que la Ville ou l'office confirme jours, lieux et heures pour 2026. Une enseigne de marché ayant été écartée pour doute sur une personne : non reprise, ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : le 13 est exclu par la règle 41.c. Le département suivant du classement métropolitain est le 60 (Oise, déficit ≈ 3,6), puis le 42 (Loire, ≈ 3,6). Les communes du 31 déjà éprouvées ne se rouvrent pas sans déblocage nommé.
