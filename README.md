@@ -44322,3 +44322,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
 
 **Points d'arrêt.** Passe suivante : le 13 est exclu par la règle 41.c. Aubagne reste ouverte : reprendre dès qu'un des deux commerces (collectif ou coopérative) confirme ses horaires, ou que la Ville publie les siens pour son marché du cours Voltaire.
+
+### Passe autonome du 29 octobre 2026 (dixième) : Haute-Garonne (31), Blagnac sondée à nouveau : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (Var) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règles 41 et 41.c.** Métropole seule (97x et 98x écartés). Classement : 31 (≈ 4,7), puis 13, 59, 60, 42. Le 13 est exclu par la règle 41.c, la passe précédente l'ayant visé. Le 31 est donc retenu.
+
+**Commune, règle 248.** Blagnac (27 604 habitants) reste la plus peuplée sans fiche, déjà éprouvée à zéro lors des passes précédentes. Muret suit.
+
+**Sources lues.**
+- Site officiel de la Ville de Blagnac : injoignable depuis cet environnement (connexion réinitialisée), rubriques « Marchés » et « Circuits courts » non lues.
+- Registre Agence Bio, Haute-Garonne : aucun opérateur de vente directe déclaré à Blagnac.
+- Recherche web : un annuaire de circuits courts daté de 2015 cite une ferme maraîchère bio, deux marchés de producteurs et une AMAP, sans aucune confirmation récente ; une enseigne bio de réseau, déjà notée, dont l'adresse et les horaires ne sont pas lus. Aucune de ces pistes n'a deux sources indépendantes à jour.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend aucun point vérifié sur deux sources indépendantes et actuelles (règles 2, 5 et 6). Le seuil de cinq points pour une zone n'est pas atteint.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Blagnac, ferme maraîchère bio (annuaire 2015) : aucune source récente ; **déblocage** : fiche de la ferme ou de la Ville confirmant l'activité.
+- Blagnac, deux marchés de producteurs (samedi matin, mercredi après-midi, annuaire 2015) : **déblocage** : jour, lieu et horaires confirmés par la Ville.
+- Blagnac, AMAP et point de dépôt (annuaire 2015) : **déblocage** : site ou contact de l'AMAP, avec horaires de distribution.
+- Blagnac, magasin bio de réseau : **déblocage** : adresse et horaires lus sur la page officielle de l'enseigne.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Blagnac reprise uniquement si le site de la Ville redevient lisible ; sinon Muret, puis Plaisance-du-Touch. Le 13 reste exclu (règle 41.c).
