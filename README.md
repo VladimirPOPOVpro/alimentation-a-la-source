@@ -44347,3 +44347,22 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Blagnac reprise uniquement si le site de la Ville redevient lisible ; sinon Muret, puis Plaisance-du-Touch. Le 13 reste exclu (règle 41.c).
+
+### Passe autonome du 29 octobre 2026 (onzième) : Nord (59) sondé de nouveau, Lambersart, Cambrai et Armentières relus au web : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches.
+
+**Secteur, règles 41 et 41.c.** La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue. Le Nord (59, déficit ≈ 4,3) et le Bouches-du-Rhône (13, même déficit) sont en tête. Le 59 est retenu : il n'a pas été visé à la passe précédente.
+
+**Commune, règle 41.d.** Les communes de plus de vingt mille habitants sans fiche (Lambersart, Cambrai, Armentières) ont été sondées au web. Wattrelos et Marcq-en-Barœul restent les sujets déjà éprouvés (site de la Ville injoignable ou horaires absents).
+
+**Sources lues.**
+- Recherche web, Lambersart : un annuaire participatif recense trois marchés sans jours ni horaires lisibles ; une fiche de panier de légumes livré pointe vers un lieu situé à environ 4 km, sans horaires.
+- Recherche web, Cambrai : aucun résultat sur un marché de producteurs ; les résultats concernent d'autres villes.
+- Recherche web, Armentières et environs : une seule piste, un magasin de producteurs à La Chapelle-d'Armentières (59930), lu sur un seul annuaire de consommateurs. Son site, ses horaires et son inscription active au registre ne sont pas vérifiés. Elle est déjà notée dans les passes précédentes.
+
+**Pourquoi rien n'est publié.** Aucune commune relue cette passe ne rend cinq commerces vérifiables sur deux sources indépendantes et actuelles, avec horaires confirmés et adresse géocodée. Le registre des entreprises, interrogé pour la piste unique, n'a pas renvoyé de résultat exploitable.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : le 13 redevient éligible (la passe précédente visait le 31). Le 59 reste à reprendre seulement si une source officielle de commune devient lisible.
