@@ -44228,3 +44228,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Safranière, magasin collectif, marché du cours Voltaire : pistes inchangées (voir la passe précédente).
 
 **Point d'arrêt.** Passe suivante : le 13 reste éligible si le 14 n'a pas été visé entre-temps (règle 41.c). Reprendre Aubagne : vérifier l'horaire du magasin auprès du magasin lui-même, puis chercher deux points supplémentaires sur deux sources indépendantes avant toute publication.
+
+### Passe autonome du 29 octobre 2026 (sixième) : Haute-Corse (2B) visé, Bastia sondée au registre et sur le web : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (demande écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes), fiches comptées sur le code postal. Classement recalculé : 31 (≈ 4,72), 13 (≈ 4,33), 59 (≈ 4,28), 60 (≈ 3,63), 42 (≈ 3,58), **2B (Haute-Corse, ≈ 3,53, zéro fiche)**, 38 (≈ 3,47). Le 13 est exclu par la règle 41.c, la passe précédente l'ayant visé. Le 31, le 59, le 60 et le 42 sont clos par la règle 247. Le 2B est donc retenu : c'est le premier département éligible, et il n'avait encore jamais été éprouvé.
+
+**Commune, règle 41.d.** Bastia, la commune la plus peuplée du 2B, sans fiche. Le département ne compte aucune fiche : la descente commence à Bastia.
+
+**Sources de cette passe.**
+- Registre Agence Bio, 2B, relu en entier (744 opérateurs, pagination de cent). Bastia compte une trentaine d'entrées : grandes surfaces et grossistes (écartés), boulangeries (hors catégories du site), distillerie et caves (hors périmètre, règle 14), et une dizaine d'entrées à nom de personne physique en vente aux particuliers (écartées pour doute sur une personne, ne se rouvrent pas).
+- Recherche web sur le marché de Bastia : aucun horaire officiel trouvé pour le marché couvert ni pour la place du Marché ; un annuaire participatif recense des marchés sans détail. Règle 9 : rien ne se publie.
+- Recherche web sur les magasins bio : une enseigne bio est référencée à Bastia par un annuaire, mais aucune page officielle de l'enseigne ne la liste (le localisateur de l'enseigne, lu depuis cet environnement, ne rend pas de liste exploitable). Une autre enseigne bio citée pour Bastia se trouve à Furiani.
+- Recherche web sur les AMAP et Bienvenue à la Ferme en Haute-Corse : aucun annuaire local exploitable ; le site de l'office de tourisme de Bastia et celui de la Ville n'ont pas livré de rubrique marchés ou producteurs.
+- Une épicerie bio du réseau spécialisé est à Biguglia (commune voisine). Elle ne tombe pas dans la commune de la descente, et la règle 52 ne complète qu'à partir de quatre points vérifiés dans la commune calculée.
+
+**Pourquoi rien n'est publié.** Bastia ne rend aucune fiche vérifiée sur deux sources indépendantes : les candidats sont soit à Biguglia et Furiani (hors commune), soit sans horaire confirmé par l'enseigne ou la Ville, soit à nom de personne physique. Sous le seuil de la règle 52, la descente passe à la commune suivante par population (Porto-Vecchio ou Corte, à reprendre au passage suivant du 2B selon la règle 247).
+
+**Pistes non publiées (anonymes, Haute-Corse).**
+- Bastia, magasin bio du réseau spécialisé (horaires, adresse et site à confirmer sur une source de l'enseigne elle-même).
+- Bastia, marché couvert et place du Marché : horaires officiels à obtenir de la Ville (règle 9).
+- Bastia, producteur de plantes aromatiques (PPAM) avec point de vente déclaré au registre : entrée active, aucune source web indépendante pour le lieu de vente. Non publié.
+- Une dizaine d'entrées du registre à nom de personne physique : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : le 2B est exclu par la règle 41.c ; le 13 redevient le département éligible en tête. Le 2B reprendra à Bastia (marché, enseigne bio) avant toute autre commune, sans refaire le criblage (règle 247).
