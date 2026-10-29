@@ -44185,3 +44185,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** une (Aubagne). Non reprise, ne se rouvre pas.
 
 **Points d'arrêt.** Le 13 est exclu à la passe suivante par la règle 41.c. Aubagne reste à compléter : une passe ultérieure la reprend, avec la règle 52 pour atteindre quatre points avant la publication. Le classement suivant : le 59 (Nord, 4,28), puis le 60 (Oise, 3,63).
+
+### Passe autonome du 29 octobre 2026 (Calvados (14) repris, Lisieux sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (demande écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes), fiches comptées sur le code postal. Déficits : Haute-Garonne (31, ≈ 4,72), Bouches-du-Rhône (13, ≈ 4,33), Nord (59, ≈ 4,28), Oise (60, ≈ 3,63), Loire (42, ≈ 3,58). La passe précédente visait le 13 : exclu par la garde de la règle 41.c. Le 31, le 59, le 60 et le 42 sont clos par la règle 247 (douze communes éprouvées). Le Calvados (14, ≈ 3,37) est retenu : la garde ne l'écarte pas, et sa descente est ouverte depuis la passe du 26 octobre.
+
+**Commune, règle 41.d.** Lisieux (19 645 habitants), la plus peuplée du 14 sans fiche et encore à reprendre.
+
+**Sources de cette passe.**
+- Registre des entreprises : Au Coin Bio (magasin bio, place de la République) et Biocoop Lisieux sont actifs. Une ferme-épicerie d'insertion (association, rue Blaise Pascal) n'a aucune entrée active au registre : non retenue (règle 6).
+- Registre Agence Bio, Calvados, relu sur huit pages (800 opérateurs) : aucune ferme ni point de vente directe actif à Lisieux, hors les deux magasins précités.
+- Recherche web : un « marché de Lisieux » (place de la République) apparaît sur les annuaires sans horaires confirmés par la Ville ; le site de la Ville (lisieux.fr, page des marchés) renvoie 404 depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Lisieux ne rend que deux commerces vérifiés sur deux sources indépendantes (magasin bio : nom, adresse et registre ; magasin de la chaîne : registre et site de l'enseigne à confirmer). Sous le seuil de quatre de la règle 52, et la commune voisine de la même intercommunalité n'offre rien de vérifié. La règle 9 interdit de publier le marché sans horaire officiel. La descente passe à Bayeux (12 659 habitants) à la passe suivante.
+
+**Pistes non publiées (anonymes, Calvados).**
+- Lisieux, magasin bio indépendant (place de la République) : adresse et registre vérifiés ; horaires à confirmer par le magasin, téléphone et photo propre à trouver.
+- Lisieux, magasin bio de la chaîne Biocoop (rue Alexandre-Fleming) : registre actif ; horaires et site de l'enseigne à confirmer.
+- Lisieux, marché de la place de la République : horaires officiels à obtenir de la Ville (règle 9).
+- Lisieux, ferme-épicerie d'insertion : pas d'entrée active au registre, écartée (règle 6).
+
+**Points d'arrêt.** Passe suivante : le 14 reste ouvert ; reprendre à Bayeux (12 659 habitants, sans fiche), après Lisieux épuisé. Le 13 redevient éligible après un passage par un autre département. Le 59, le 60, le 42 et le 31 restent clos (règle 247).
