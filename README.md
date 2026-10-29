@@ -44491,3 +44491,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** une (Cambrai), plusieurs entrées du registre en nom patronymique (Nord), non reprises.
 
 **Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c). Le 31 ou le 13 redeviennent candidats selon leur déficit. Reprendre Cambrai seulement si une seconde source indépendante donne les horaires de la biocoop ou de la boutique bio.
+
+### Passe autonome du 29 octobre 2026 (dix-huitième) : Haute-Garonne (31) visée, registre relu en entier, Blagnac sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée. Aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Métropole seule (97x et 98x exclus, règle 93). Déficit recalculé sur les 1 299 fiches : Haute-Garonne (31) ≈ 4,7, Bouches-du-Rhône (13) ≈ 4,3, Nord (59) ≈ 4,3. La passe précédente visait le 59 : il est écarté pour cette passe (règle 41.c), le 31 est retenu, déficit le plus fort.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 31 sans fiche : Blagnac (27 604), Muret (26 079), Plaisance-du-Touch (21 079), Balma (17 772), Castanet-Tolosan (15 317).
+
+**Sources lues.** Registre Agence Bio, Haute-Garonne, lu en entier cette fois (2 843 opérateurs, toutes les pages) : 1 067 entrées en vente aux particuliers ou au détail, dont la plupart sont des personnes physiques en nom patronymique (écartées par défaut, règle sur les données personnelles), des grandes surfaces ou des grossistes. Sur Blagnac, Muret, Plaisance-du-Touch, Balma et Castanet-Tolosan, les entrées restantes sont soit des producteurs sans point de vente identifié, soit des enseignes de distribution généralistes (exclues par MODERATION.md).
+
+**Recherches web.** Blagnac : un maraîcher bio installé sur la plaine des Quinze Sols est attesté (adresse confirmée, ferme ouverte au public en avril 2026), mais aucune source indépendante ne donne de canal de vente, de jours ni d'horaires. Une association de Blagnac (boutique) n'a qu'une source d'horaires, sans distinction boutique / association : à confirmer auprès de l'établissement. Un GAEC de Blagnac (Ortalans) n'apparaît dans aucune source de vente directe. Aucune recherche n'a donné de marché de producteurs à Blagnac pour 2026.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend pas cinq commerces vérifiables sur deux sources indépendantes. Une ou deux fiches isolées ne forment pas le groupe de cinq. Muret, Plaisance-du-Touch, Balma et Castanet-Tolosan n'ont pas été reprises : le registre n'y donne que des personnes physiques ou des enseignes généralistes, et aucun site de commune ni d'office de tourisme consulté n'a donné de marché ou de point de vente à ce stade. Limite : le site officiel de Blagnac n'a pas pu être ouvert depuis cet environnement, et les sites de Muret et de Balma n'ont pas été consultés.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : maraîcher bio en plaine, pas de canal de vente vérifié (à reprendre si une source de vente directe apparaît) ; Blagnac : association avec boutique, horaires d'une seule source (en attente d'une seconde) ; Blagnac : GAEC maraîcher, non vérifié. Muret et Plaisance-du-Touch : ferme et producteurs sans point de vente identifié.
+
+**Fiches écartées pour doute sur une personne :** de nombreuses entrées du registre en nom patronymique, dans les communes ci-dessus, non reprises (plusieurs dizaines, non dénombrées une à une).
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région Occitanie (règle 41.c). Le 13 et le 59 redeviennent candidats selon leur déficit. Reprendre Blagnac si une seconde source indépendante donne les canaux de vente du maraîcher ou les horaires de l'association.
