@@ -44280,3 +44280,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe (le registre n'a pas été relu en entier).
 
 **Points d'arrêt.** Passe suivante : le 13 est exclu par la règle 41.c (la passe précédente visait la Bouches-du-Rhône). Le 2B redevient éligible, à partir de Bastia (règle 247). Aubagne reste à compléter : une passe ultérieure reprend l'horaire du collectif et celui de la coopérative auprès de chaque commerce, puis cherche un quatrième point vérifié sur deux sources indépendantes avant toute publication.
+
+### Passe autonome du 29 octobre 2026 (huitième) : Haute-Corse (2B) reprise, Bastia relue : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule. Classement : 31, 13, 59, 60, 42 (clos par la règle 247 ou exclus), puis 2B (≈ 3,53). Le 13 est exclu par la règle 41.c, la passe précédente l'ayant visé. Le 2B est donc retenu et la descente reprend à Bastia, sans refaire le criblage (règle 247).
+
+**Sources de cette passe.**
+- Recherche web « Bastia magasin bio producteurs vente directe » : une épicerie fine et bio du centre-ville, citée par un média régional (article de 2017). Aucune source de l'enseigne elle-même, horaires et site non trouvés : rien ne se publie (règle 5 et règle 52).
+- Recherche web « Bastia marché couvert horaires » : aucun horaire officiel du marché couvert. Le marché de la place du Marché est décrit comme ouvert les samedis et dimanches matin par l'office de tourisme ; aucun horaire précis, rien ne se publie (règle 9).
+- Recherche web « Haute-Corse Bienvenue à la Ferme » : aucune liste à jour de producteurs à Bastia. Une ferme du Cap Corse, à environ 25 km, n'est ni située dans la commune ni confirmée comme adhérente : écartée.
+
+**Pourquoi rien n'est publié.** Bastia ne rend aucune fiche vérifiée sur deux sources indépendantes : aucune fiche n'atteint le seuil de la règle 52 (quatre points vérifiés dans la commune calculée). Les candidats restent à confirmer auprès des commerces ou de la Ville.
+
+**Pistes non publiées (anonymes, Haute-Corse).**
+- Bastia, épicerie fine et bio du centre-ville : source de presse uniquement ; **déblocage** : adresse, horaires et site publiés par l'enseigne elle-même.
+- Bastia, marché couvert et place du Marché : horaires officiels à obtenir de la Ville (règle 9).
+- Bastia, magasin bio du réseau spécialisé : déjà notée à la passe précédente ; **déblocage** : une page officielle de l'enseigne.
+- Cap Corse, ferme adhérente à un réseau de vente directe : hors commune, à reprendre si la descente atteint Pietracorbara.
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
+
+**Points d'arrêt.** Passe suivante : le 2B est exclu par la règle 41.c ; le 13 reste hors tirage (règle 41.c) ; le classement sera recalculé. Bastia reste à compléter : aucun point vérifié sur deux sources indépendantes à ce jour.
