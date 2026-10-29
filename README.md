@@ -44418,3 +44418,22 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** une cette passe, à Bondy (voir ci-dessus).
 
 **Points d'arrêt.** Passe suivante : Seine-Saint-Denis (93) reste ouvert en descente ; prochaine commune par population sans fiche et non éprouvée : Sevran (52 535), puis Bondy, Rosny-sous-Bois et La Courneuve, sous la règle 247 (douze communes au plus). Le Nord (59) et la Loire (42) restent clos ou en cours, selon les règles 41.c et 247.
+
+### Passe autonome du 29 octobre 2026 (quatorzième) : Nord (59) visé, Wattrelos relue, Marcq-en-Barœul, Lambersart et Armentières injoignables : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». Une demande reste en cours (aucune action cette passe).
+
+**Secteur, règle 41.** Recalcul métropole seule (outre-mer exclu, règle 93) : Nord 5,9, Haute-Garonne 5,6, Bouches-du-Rhône 5,6. Le Nord est retenu : la passe précédente visait l'Île-de-France et la garde de la règle 41.c n'interdit que la même région deux passes de suite.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Le registre Agence Bio du 59 relu (première page de cent opérateurs, pas de nouvelle entrée vérifiable) ; les marchés de la Ville restent sans horaires publiés par une source lisible. Marcq-en-Barœul (40 184), Lambersart (27 090) et Armentières (26 998) : sites des villes injoignables (code 000). Cambrai (31 134) : site en réponse 436, non instruit cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord n'a pu rendre cinq commerces vérifiables sur deux sources indépendantes et actuelles. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos : une entrée du registre en vente aux particuliers, enseigne patronymique. **Écartée pour doute sur une personne** ; la piste ne se rouvre pas.
+- Marcq-en-Barœul, Lambersart, Armentières : sites des villes injoignables. **Déblocage** : site de la Ville lisible, avec marchés et horaires.
+- Cambrai : boutique indépendante sans horaires vérifiés. **Déblocage** : horaires et produits sur une source indépendante.
+
+**Fiches écartées pour doute sur une personne :** une cette passe, à Wattrelos (voir ci-dessus).
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région Hauts-de-France (règle 41.c). Le département suivant par déficit métropolitain se calcule au moment de la passe.
