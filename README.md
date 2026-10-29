@@ -44511,3 +44511,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** de nombreuses entrées du registre en nom patronymique, dans les communes ci-dessus, non reprises (plusieurs dizaines, non dénombrées une à une).
 
 **Points d'arrêt.** Passe suivante : ne pas viser la région Occitanie (règle 41.c). Le 13 et le 59 redeviennent candidats selon leur déficit. Reprendre Blagnac si une seconde source indépendante donne les canaux de vente du maraîcher ou les horaires de l'association.
+
+### Passe autonome du 29 octobre 2026 (dix-neuvième) : Nord (59) repris, registre Agence Bio relu sur seize pages, Maubeuge sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée. Aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Métropole seule (97x exclus). Déficit recalculé sur les 1 299 fiches : Nord (59) ≈ 5,9, Haute-Garonne (31) ≈ 5,6, Bouches-du-Rhône (13) ≈ 5,6. La passe précédente visait le 31 : la garde de la règle 41.c écarte donc l'Occitanie, et le 59 est retenu, déficit le plus fort.
+
+**Commune, règle 41.d.** Dans le Nord, la plus peuplée sans fiche reste Wattrelos, déjà sondée sans horaires de marché publiés. Maubeuge, plus grosse commune du Nord sans fiche après Wattrelos et Marcq-en-Barœul, est sondée à son tour.
+
+**Sources lues.** Registre Agence Bio, Nord, seize pages de cent (1 600 opérateurs). Sur Maubeuge, Hautmont, Halluin, Gravelines, Hem, Croix, Marquette, Orchies, Bondues et Comines, les entrées de vente aux particuliers sont soit des personnes physiques en nom patronymique (écartées par défaut), soit des associations d'insertion ou des grandes surfaces, soit des grossistes. Une seule entrée de Maubeuge ressemble à un commerce de détail sans nom patronymique (anonymisée, voir ci-dessous) ; le registre des entreprises ne la retrouve pas sous ce nom : rien ne se publie.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq fiches vérifiables sur deux sources indépendantes. Une fiche isolée ne forme pas le groupe de cinq exigé par la règle de groupement.
+
+**Pistes non publiées (anonymes, Nord).** Maubeuge : un jardin-boutique de détail, enseigne non attestée au registre des entreprises (à reprendre si une source active apparaît). Bondues, Comines, Halluin : points de vente en vente aux particuliers, sans source indépendante lue. Hem, Croix : rien de vérifiable en vente directe.
+
+**Fiches écartées pour doute sur une personne :** plusieurs entrées du registre en nom patronymique, dans les communes ci-dessus, non reprises (plusieurs dizaines, non dénombrées une à une).
+
+**Limite de cette passe.** Lecture du registre limitée aux seize premières pages ; aucune recherche web sur les sites des communes de Maubeuge ni de Marcq-en-Barœul n'a été menée à terme.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c). Le 31 ou le 13 redeviennent candidats selon leur déficit. Maubeuge reste à reprendre si l'enseigne apparaît au registre des entreprises.
