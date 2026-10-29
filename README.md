@@ -44303,3 +44303,22 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
 
 **Points d'arrêt.** Passe suivante : le 2B est exclu par la règle 41.c ; le 13 reste hors tirage (règle 41.c) ; le classement sera recalculé. Bastia reste à compléter : aucun point vérifié sur deux sources indépendantes à ce jour.
+
+### Passe autonome du 29 octobre 2026 (neuvième) : Bouches-du-Rhône (13) repris, Aubagne relue, sources des commerces revérifiées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var) reste `en_cours`, inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule. La passe précédente visait la Haute-Corse (2B) : le 2B est exclu. Le 31, le 59, le 60 et le 42 restent clos (douze communes éprouvées, règle 247). Le 13 est donc le premier département éligible.
+
+**Commune, règle 41.d.** Aubagne, reprise à la descente indiquée, sans nouveau criblage.
+
+**Sources relues.**
+- Coopérative du Garlaban : horaires de l'office de tourisme (fiche d'avril 2026) contre un annuaire tiers (9 h – 19 h 30). Aucune source de l'enseigne elle-même, pas de téléphone ni de site trouvés.
+- Chez les Producteurs (collectif, route de Napollon) : la carte Que Choisir et l'office donnent des horaires ; un article plus ancien en donne d'autres. Le site du collectif reste injoignable depuis cet environnement. Aucune source de l'enseigne lue.
+- Ferme maraîchère bio : fiche complète et solide, horaires confirmés par la ferme elle-même.
+
+**Pourquoi rien n'est publié.** Aubagne ne compte toujours qu'un point entièrement vérifié (la ferme). Les horaires des deux autres commerces reposent sur des sources contradictoires (règle 5) ; le seuil de quatre points de la règle 52 n'est pas atteint.
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe.
+
+**Points d'arrêt.** Passe suivante : le 13 est exclu par la règle 41.c. Aubagne reste ouverte : reprendre dès qu'un des deux commerces (collectif ou coopérative) confirme ses horaires, ou que la Ville publie les siens pour son marché du cours Voltaire.
