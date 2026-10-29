@@ -44152,3 +44152,36 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** trois (Fonsorbes, une ; Saint-Gaudens, deux). Non reprises, ne se rouvrent pas.
 
 **Points d'arrêt.** La Haute-Garonne a maintenant été éprouvée jusqu'à Saint-Gaudens, soit quinze communes sans fiche publiée, au-delà de la borne de la règle 247. La passe suivante ne peut pas viser le 31 (règle 41.c : la passe précédente visait le 31, la garde joue) ; elle prend le département suivant du classement, à partir du déficit de la passe du 29 octobre : le 59 est déjà visé le matin, le 60 (Oise, déficit ≈ 3,6) et le 42 (Loire, ≈ 3,6) sont les candidats suivants, ainsi que la Haute-Corse (2B, déficit ≈ 3,5, sans aucune fiche) qu'aucune passe n'a encore éprouvée.
+
+### Passe autonome du 29 octobre 2026 (quatrième) : Bouches-du-Rhône (13) repris, Aubagne sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : enseigne qui se lit comme un prénom et contact privé, doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes). Classement : 31 (Haute-Garonne, 4,72), 13 (Bouches-du-Rhône, 4,33), 59 (Nord, 4,28). La passe précédente visait le 31 : la garde de la règle 41.c l'écarte. Le 13 est éligible. Les départements d'outre-mer restent hors du calcul (coordonnées hors métropole, `lib/validateMerchants.ts`).
+
+**Commune, règle 41.d.** Plus peuplée commune du 13 sans aucune fiche : **Aubagne** (47 529 hab.). Les Aix-en-Provence, Arles, Martigues et Marseille portent déjà des fiches, Istres et Salon-de-Provence ont été éprouvées aux passes précédentes sans succès.
+
+**Correction de la base.** Les passes précédentes affirmaient qu'Aubagne portait déjà des fiches. C'est faux : `data/marchands.json` ne compte aucune fiche dont l'adresse porte Aubagne. Aubagne est donc bien la commune de la descente.
+
+**Registre Agence Bio, 13, relu en entier (3 240 opérateurs, pagination de cent).** Une quarantaine d'entrées à Aubagne en vente aux particuliers, dont une bonne part sous des noms de personnes physiques (non reprises, ne se rouvrent pas) et des grandes surfaces (écartées, MODERATION.md).
+
+**Sources et tri des candidats (Aubagne).**
+- **Ferme maraîchère bio, enseigne « La Ferme des Roselières ».** Site de la ferme : vente à la ferme le jeudi, 16 h 30 à 18 h 30, marché le lundi au magasin Gem le Bio, téléphone et adresse publiés par la ferme. Office de tourisme : fiche active, horaires signalés comme non fiables. Certificat bio en cours (registre Ecocert). Entrée active au registre Agence Bio. Publiable en théorie, mais le total de la commune reste sous le seuil de la règle 52.
+- **Coopérative du Garlaban (magasin bio, chemin de Ceinture).** Horaires lus à l'office de tourisme (fiche mise à jour le 15 avril 2026) : lundi au vendredi 8 h 30 à 19 h, samedi 8 h 30 à 13 h, fermé le dimanche. Entrée active au registre Agence Bio. Aucun téléphone ni site trouvés ; aucune photo propre (seule image disponible : vue générale de la ville, réservée par la règle 1).
+- **Safranière (Les Petits Mellets).** Vente sur place pendant la saison, du 15 octobre au 15 novembre 2026 selon l'office de tourisme (8 h à 16 h, tous les jours). L'annuaire Cylex, mis à jour en février 2026, donne 8 h 30 à 18 h 30 du mardi au vendredi, fermé le samedi et le dimanche. Contradiction tranchée par la règle 5 : les deux versions sont plausibles, mais aucune n'est celle du commerçant. Aucune photo récupérée.
+- **Magasin collectif de producteurs (route de Napollon).** Horaires contradictoires entre une source tierce et une source locale ; site du magasin inaccessible depuis cet environnement ; téléphone connu seulement par un tiers.
+- **Marché du cours Voltaire (samedi et dimanche, producteurs locaux).** Horaires lus uniquement sur des sites touristiques et un guide ancien (2021). Ni le site de la Ville (aubagne.fr) ni l'office n'ont donné d'horaire officiel : règle 9, rien ne se publie.
+
+**Pourquoi rien n'est publié.** Aubagne rend deux fiches solides (ferme et coopérative) et une troisième (safranière) dont la photo et l'horaire ne sont pas confirmés par le commerçant. Sous le seuil de quatre de la règle 52 : on ne complète pas avec une commune voisine, et la descente passe à la commune suivante par population, Istres (déjà éprouvée, trois points) puis Salon-de-Provence (déjà éprouvée). Aucune n'a rendu quatre points. La passe s'arrête là : aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes, Aubagne, Bouches-du-Rhône).**
+- Ferme maraîchère bio : vente à la ferme le jeudi (16 h 30 – 18 h 30 selon son site). À reprendre quand Aubagne atteint quatre points.
+- Magasin bio coopératif : horaires officiels lus à l'office ; photo propre et téléphone à trouver.
+- Safranière : saison en cours ; à reprendre dès que l'horaire est confirmé par l'exploitation hors saison.
+- Magasin collectif de producteurs : horaires à confirmer par le magasin ; site à vérifier.
+- Marché du cours Voltaire : horaire officiel à obtenir de la Ville.
+- Exploitation avicole en vente aux particuliers, dont la dénomination contient un prénom : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne :** une (Aubagne). Non reprise, ne se rouvre pas.
+
+**Points d'arrêt.** Le 13 est exclu à la passe suivante par la règle 41.c. Aubagne reste à compléter : une passe ultérieure la reprend, avec la règle 52 pour atteindre quatre points avant la publication. Le classement suivant : le 59 (Nord, 4,28), puis le 60 (Oise, 3,63).
