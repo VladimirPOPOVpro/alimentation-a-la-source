@@ -44127,3 +44127,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Pistes non publiées (anonymes, Bouches-du-Rhône).** Salon-de-Provence : les cinq marchés cités ci-dessus, à reprendre dès que la Ville ou l'office confirme jours, lieux et heures pour 2026. Une enseigne de marché ayant été écartée pour doute sur une personne : non reprise, ne se rouvre pas.
 
 **Point d'arrêt.** Passe suivante : le 13 est exclu par la règle 41.c. Le département suivant du classement métropolitain est le 60 (Oise, déficit ≈ 3,6), puis le 42 (Loire, ≈ 3,6). Les communes du 31 déjà éprouvées ne se rouvrent pas sans déblocage nommé.
+
+### Passe autonome du 29 octobre 2026 (troisième) : Haute-Garonne (31) reprise, Fonsorbes et Saint-Gaudens sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : le nom de l'enseigne et le contact privé pourraient désigner une personne, doute retenu, rien publié, aucun message envoyé.
+
+**Secteur, règles 41 et 177.** Métropole seule, 1 299 fiches, populations `geo.api.gouv.fr` (34 969 communes). Le classement donne la Haute-Garonne (31) en tête (déficit ≈ 4,7), devant les Bouches-du-Rhône (13, ≈ 4,3) et le Nord (59, ≈ 4,3). Le 13 est écarté par la garde de la règle 41.c, puisque la passe précédente le visait. Le 31 est repris : la descente de la règle 247 reprend à la commune suivante par population sans fiche, sans refaire le criblage. Haute-Garonne : Toulouse, Colomiers, Tournefeuille, Cugnaux, Cazères et Pibrac ont déjà des fiches ; Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, L'Union, Castelginest, Saint-Jean, Villeneuve-Tolosane, Seysses et Auterive ont déjà été éprouvées. Reste **Fonsorbes** (12 954 hab., sans fiche), puis **Saint-Gaudens** (12 139 hab., sans fiche).
+
+**Fonsorbes (31470), règle 41.d.**
+- Registre Agence Bio, 31 (2 843 opérateurs relus en entier, pagination de cent) : huit entrées à Fonsorbes. Quatre sont des grandes surfaces (écartées), trois sont des grossistes ou des opérateurs sans vente au public, une seule est en vente aux particuliers sous un nom de personne physique : **écartée pour doute sur une personne**, non reprise.
+- Site de la Mairie, rubrique « Marché de plein vent » : marché du samedi, 8 h à 13 h, place du Trépadé, une vingtaine de commerçants. La page parle de « fruits et légumes de producteurs et primeurs » sans en nommer un seul : un marché sans producteur identifié ne se publie pas (règle 9).
+
+**Saint-Gaudens (31800), règle 41.d.**
+- Registre Agence Bio, 31 : six entrées à Saint-Gaudens. Une grande surface (écartée), un grossiste (écarté), une exploitation de lycée agricole dont la dénomination contient un nom de personne physique (écartée, non reprise), une entrée en vente aux particuliers sous nom de personne physique (écartée pour doute sur une personne), et un réseau de paniers bio dont le point de vente est à Huos (31210), pas à Saint-Gaudens.
+- Une seconde source, indépendante du registre, localise bien ce réseau (fiche publique de type « ferme bio » et site du réseau régional de paniers bio) : son point de distribution principal est à Huos, et ses points de retrait sont dans d'autres communes du Comminges. Ce n'est pas un commerce de Saint-Gaudens. Il reste une piste, pour la commune de Huos, sans fiche publiée ici : la commune de Huos n'est pas la commune de la descente.
+- Le site de la Ville de Saint-Gaudens n'a pas pu être lu : le domaine renvoie à un agrégateur d'actualités tiers, sans rubrique de marchés.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes dans une même commune. La seule fiche solide (le réseau de paniers) ne se trouve pas à Saint-Gaudens, et le marché de Fonsorbes n'identifie aucun producteur.
+
+**Pistes non publiées** (anonymes) :
+- Huos (31210), réseau de paniers bio, point de distribution principal : une fiche de commerce ne peut être ouverte que pour la commune de Huos, avec adresse, téléphone et horaires confirmés par le réseau lui-même ; le réseau publie ses points de retrait par commune (Luchon, entre autres). **Déblocage** : une passe dont la descente est sur Huos, ou une décision de la règle 20 sur un point de distribution situé hors de la commune de production.
+- Fonsorbes, marché du samedi (place du Trépadé) : **Déblocage** : liste des producteurs présents, publiée par la Ville ou l'organisateur, avec leurs produits.
+
+**Fiches écartées pour doute sur une personne :** trois (Fonsorbes, une ; Saint-Gaudens, deux). Non reprises, ne se rouvrent pas.
+
+**Points d'arrêt.** La Haute-Garonne a maintenant été éprouvée jusqu'à Saint-Gaudens, soit quinze communes sans fiche publiée, au-delà de la borne de la règle 247. La passe suivante ne peut pas viser le 31 (règle 41.c : la passe précédente visait le 31, la garde joue) ; elle prend le département suivant du classement, à partir du déficit de la passe du 29 octobre : le 59 est déjà visé le matin, le 60 (Oise, déficit ≈ 3,6) et le 42 (Loire, ≈ 3,6) sont les candidats suivants, ainsi que la Haute-Corse (2B, déficit ≈ 3,5, sans aucune fiche) qu'aucune passe n'a encore éprouvée.
