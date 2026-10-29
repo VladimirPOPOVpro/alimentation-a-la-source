@@ -44554,3 +44554,19 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Limite de cette passe.** Le site de la mairie de Blagnac n'a pu être ouvert qu'en lecture par ligne de commande ; aucune recherche n'a été menée sur les producteurs de la commune au-delà de la page « Circuits courts ».
 
 **Points d'arrêt.** Passe suivante : ne pas viser le 31 (règle 41.c). Le 13 ou le 59 redeviennent candidats selon leur déficit. Reprendre Blagnac si la page municipale des marchés confirme le marché du mercredi et si la plateforme de commande de l'AMAP livre son lieu et ses horaires.
+
+### Passe autonome du 29 octobre 2026 (vingt-et-unième) : aucune demande, Nord (59) relu, aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée. Aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Recalcul sur la seule métropole (population `geo.api.gouv.fr`, départements 97 et 98 exclus, 1 299 fiches) : Nord (59, déficit ≈ 6,35), Bouches-du-Rhône (13, ≈ 6,0), Haute-Garonne (31, ≈ 5,9). Le 59 n'est pas la passe précédente (le 31), la garde de la règle 41.c ne l'écarte donc pas.
+
+**Point à consigner.** Les déficits des passes récentes (31 ≈ 4,7 en tête, puis 13 et 59 à ≈ 4,3) correspondent à une population calculée sur la France entière, outre-mer compris, alors que la règle 41 dit « métropole seule ». Avec la base métropole, le Nord est en tête, pas la Haute-Garonne. Ce n'est pas une exception à écrire : la formule, appliquée à la métropole, désigne le 59. La contradiction est consignée ici, elle ne change pas la commune à viser.
+
+**Commune, règle 41.d.** La plus peuplée du 59 sans fiche reste Wattrelos (40 847 habitants). Elle est éprouvée depuis plusieurs passes : les marchés de la Ville n'ont toujours pas d'horaires publiés par une source lisible, et le registre Agence Bio ne rend aucun commerce vérifiable. Marcq-en-Barœul, Lambersart, Armentières et Cambrai sont au même point (sites des villes injoignables, sources isolées, ou fiches écartées pour doute sur une personne). Aucune nouvelle source n'a été ouverte cette passe qui change ce constat.
+
+**Pourquoi rien n'est publié.** Aucune commune du 59 sans fiche ne rend cinq commerces vérifiables sur deux sources indépendantes. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Constat de fond.** Vingt-et-une passes depuis le matin, sur trois départements seulement (59, 13, 31), n'ont rien publié. Les mêmes communes reviennent à chaque passe sans nouvelle source. Une passe de plus sur ce secteur ne change rien. Le travail utile suivant demande une autre piste : un secteur dont le registre Agence Bio a des entrées vérifiables, ou une décision du responsable du site sur l'ordre des départements.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
