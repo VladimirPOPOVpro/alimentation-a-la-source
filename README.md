@@ -44437,3 +44437,21 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** une cette passe, à Wattrelos (voir ci-dessus).
 
 **Points d'arrêt.** Passe suivante : ne pas viser la région Hauts-de-France (règle 41.c). Le département suivant par déficit métropolitain se calcule au moment de la passe.
+
+### Passe autonome du 29 octobre 2026 (quinzième) : Haute-Garonne (31) visée, registre relu sur la première page : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Métropole seule (97x et 98x exclus, règle 93). Déficit recalculé sur les 1 299 fiches : Haute-Garonne (31) ≈ 4,7, Bouches-du-Rhône (13) ≈ 4,3. Hauts-de-France exclus (passe précédente, règle 41.c). Le 31 est retenu, déficit le plus fort hors Hauts-de-France.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 31 sans fiche : Blagnac (27 604), Muret (26 079), Plaisance-du-Touch (21 079), Balma (17 772), Castanet-Tolosan (15 317). Toutes ont déjà été éprouvées lors des passes précédentes d'octobre ; Toulouse (5 fiches), Colomiers (4) et Tournefeuille (3) sont déjà couvertes.
+
+**Sources lues.** Registre Agence Bio, Haute-Garonne, première page (100 opérateurs) : les entrées en vente aux particuliers sont pour la plupart des personnes physiques en nom patronymique, sans enseigne distincte, donc écartées par défaut (règle sur les données personnelles). Les entrées restantes ne donnent pas, à elles seules, de commerce vérifiable sur deux sources indépendantes dans une commune éprouvée. Pour contrôle croisé, la même première page du registre a été relue pour le 13 (Bouches-du-Rhône) : même constat, rien de nouveau à publier.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 n'a rendu cinq commerces vérifiables sur deux sources indépendantes et actuelles. Limite de cette passe : seule la première page du registre a été lue, pas le registre en entier.
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Plusieurs entrées du registre en nom patronymique : **écartées pour doute sur une personne**, la piste ne se rouvre pas. Pas d'autre piste nouvelle.
+
+**Fiches écartées pour doute sur une personne :** plusieurs entrées du registre en nom patronymique, non reprises (Haute-Garonne).
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région Occitanie (règle 41.c) si le 31 reste le seul candidat ; le 13 redevient éligible. Lire le registre au-delà de la première page avant de conclure qu'une commune est épuisée.
