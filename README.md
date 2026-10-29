@@ -44208,3 +44208,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Lisieux, ferme-épicerie d'insertion : pas d'entrée active au registre, écartée (règle 6).
 
 **Points d'arrêt.** Passe suivante : le 14 reste ouvert ; reprendre à Bayeux (12 659 habitants, sans fiche), après Lisieux épuisé. Le 13 redevient éligible après un passage par un autre département. Le 59, le 60, le 42 et le 31 restent clos (règle 247).
+
+### Passe autonome du 29 octobre 2026 (cinquième, Aubagne (13) reprise, site de la ferme lu : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : 1 `en_cours` (demande écartée pour doute sur une personne), 6 `integree`, 6 `refusee`. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Le Calvados (14) vient d'être visé à la passe précédente : la garde de la règle 41.c l'écarte. Le 59, le 60, le 42 et le 31 sont clos par la règle 247. Le 13 (Bouches-du-Rhône, déficit ≈ 4,3) redevient le département éligible en tête. Commune : Aubagne, reprise à la descente indiquée (règle 247, pas de nouveau criblage).
+
+**Sources de cette passe.**
+- Site propre de la ferme maraîchère bio (La Ferme des Roselières) : vente à la ferme le jeudi de 16 h 30 à 18 h 30, 1650 route des Aubes, 13400 Aubagne ; marché au magasin Gem le Bio le lundi, à Gémenos, hors commune. Téléphone publié par l'office de tourisme. Le registre Agence Bio et le certificat Ecocert confirment la production. **Solide.**
+- Coopérative du Garlaban (magasin bio, chemin de Ceinture) : horaires contradictoires. L'office de tourisme donne lundi-vendredi 8 h 30 à 19 h et samedi 8 h 30 à 13 h (fiche du 15 avril 2026) ; un annuaire tiers donne 9 h à 19 h 30 du lundi au samedi, et un téléphone de réseau. Aucune version confirmée par le magasin lui-même. Règle 5 : l'horaire contesté ne se publie pas.
+- Magasin collectif de producteurs, marché du cours Voltaire, safranière : inchangés depuis la passe précédente (horaires non confirmés par la source du lieu).
+
+**Pourquoi rien n'est publié.** Aubagne rend une fiche solide (la ferme) et une fiche dont l'horaire est contesté (la coopérative). Le seuil de la règle 52 est de quatre points vérifiés ; on est loin de quatre. Aucune commune voisine n'est complétée (règle 52 : seulement à partir de quatre points).
+
+**Pistes non publiées (anonymes, Aubagne).**
+- Ferme maraîchère bio : fiche prête (adresse, horaires du jeudi, téléphone et site confirmés par la ferme). À publier dès qu'Aubagne atteint quatre points.
+- Coopérative du Garlaban : horaire à confirmer par le magasin ; téléphone et photo propre à trouver.
+- Safranière, magasin collectif, marché du cours Voltaire : pistes inchangées (voir la passe précédente).
+
+**Point d'arrêt.** Passe suivante : le 13 reste éligible si le 14 n'a pas été visé entre-temps (règle 41.c). Reprendre Aubagne : vérifier l'horaire du magasin auprès du magasin lui-même, puis chercher deux points supplémentaires sur deux sources indépendantes avant toute publication.
