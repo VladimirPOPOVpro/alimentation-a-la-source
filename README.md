@@ -44366,3 +44366,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Point d'arrêt.** Passe suivante : le 13 redevient éligible (la passe précédente visait le 31). Le 59 reste à reprendre seulement si une source officielle de commune devient lisible.
+
+### Passe autonome du 29 octobre 2026 (douzième) : Loire (42) visée, Roanne sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (écartée pour doute sur une personne) reste inchangée : rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés, règle 177). Classement : 31 (≈ 4,7), 13 (≈ 4,3), 59 (≈ 4,3), 60 (≈ 3,6), 42 (≈ 3,6). Le 13 est éprouvé depuis de nombreuses passes, dont une descente complète : la règle 247 ouvre le département suivant. Le 60 (Oise) a déjà clos sa descente de douze communes. Le 31 est éprouvé à Blagnac, Muret et Saint-Gaudens sans zone. Le 42 est retenu : il n'a pas été visé au cours des passes récentes.
+
+**Commune, règle 41.d.** La plus peuplée sans fiche : **Roanne** (≈ 36 000 habitants). Saint-Étienne (déjà fichée) et Saint-Chamond sont exclues ; Roanne est éprouvée en premier.
+
+**Sources lues.**
+- Registre Agence Bio, Loire : trois adresses à Roanne, toutes des points de vente déclarés non ouverts aux particuliers, sauf deux enseignes bio de réseau (non retenues : commerces spécialisés de réseau, pas de circuit court).
+- Office de tourisme (Roannais Tourisme) : la fiche du marché de la place des Minimes est un marché **non alimentaire** (environ quarante-quatre forains le vendredi) : hors sujet.
+- Site de l'agglomération (aggloroanne.fr) : la page « marchés » citée par des résultats de recherche renvoie une erreur 404 ; l'actualité « tous les marchés » de 2020 ne peut pas être tenue pour à jour.
+- Recherche web sur le marché alimentaire de Roanne : quatre sources se contredisent sur le jour (mardi, vendredi), le lieu (place du Marché, place Georges-Clemenceau) et l'horaire (08 h 00 – 12 h 30 contre 8 h – 12 h 30). Aucune ne se laisse trancher par une source officielle lisible.
+- Un site de ferme d'élevage bovin, près de Roanne : marché au Coteau (mercredi, 8 h 30 – 12 h), dépôt à Commelle-Vernay (8 h 30 – 12 h), vente le vendredi soir à Saint-Cyr-de-Favières ; la même page donne trois communes pour le siège. Contradiction sur l'adresse, à consigner.
+
+**Pourquoi rien n'est publié.** Aucun commerce roannais ne rend deux sources indépendantes et actuelles concordantes (règles 2, 5 et 6). Les contradictions entre sources ne se tranchent pas par une publication (règle 5 des « Règles de décision »).
+
+**Pistes non publiées (anonymes, Loire).**
+- Roanne, marché alimentaire de la ville : jour, lieu et horaires contradictoires. **Déblocage** : page officielle de la Ville ou de l'agglomération lisible, avec jours et adresse.
+- Roanne, halles couvertes du centre : produits locaux revendiqués, site et horaires non lus. **Déblocage** : site des halles ou fiche officielle, avec horaires.
+- Roanne, magasins bio de réseau (deux points de vente) : non retenus, hors circuit court.
+- Commune du Coteau, marché du mercredi d'une ferme d'élevage : **déblocage** : confirmation de l'adresse du siège et du point de vente par une seconde source.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Roanne reprise si la page de l'agglomération devient lisible ; sinon Montbrison, puis Firminy, en respectant la règle 247 (douze communes au plus avant de changer de département). Le 13 reste ouvert à la descente suivante, selon la règle 247.
