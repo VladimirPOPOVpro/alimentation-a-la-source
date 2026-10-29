@@ -44473,3 +44473,21 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** plusieurs entrées du registre en nom patronymique, non reprises (Bouches-du-Rhône).
 
 **Points d'arrêt.** Passe suivante : ne pas viser la région Provence-Alpes-Côte d'Azur (règle 41.c) ; le 31 et le 59 redeviennent candidats selon leur déficit. Pour la piste de Marseille 15e : reprendre dès que le site de l'enseigne répond, la fiche n'est pas écartée, elle attend une seconde source.
+
+### Passe autonome du 29 octobre 2026 (dix-septième) : Nord (59) visé, registre relu en entier, Cambrai sondée au web : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13, producteur du Var) reste inchangée : doute sur une personne (enseigne qui ressemble à un prénom, contact privé), rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Métropole seule (97x exclus). Déficit recalculé sur les 1 299 fiches : Nord (59) ≈ 5,9, Haute-Garonne (31) ≈ 5,7, Bouches-du-Rhône (13) ≈ 5,7. La passe précédente visait le 13 (Provence-Alpes-Côte d'Azur) : la garde de la règle 41.c écarte donc PACA, et le 59 est retenu, déficit le plus fort hors PACA. Le 31 reste éligible ; le 59 n'a pas été visé à la passe immédiatement précédente.
+
+**Commune, règle 41.d.** Dans le Nord, la plus peuplée sans fiche reste Wattrelos (40 847). Ses quatre marchés n'ont toujours pas d'horaires publiés, et son registre ne rend aucun commerce vérifiable. Marcq-en-Barœul et Lambersart : sources communales injoignables ou sans horaires, rien de vérifiable au registre en vente de proximité. Armentières : même constat. Cambrai (31 134), commune suivante : une recherche web neuve ne donne ni les jours ni les horaires d'un marché ; une boutique de maraîcher apparaît sur une carte de circuit court, mais avec une enseigne en nom patronymique (doute sur une personne, écartée) ; la biocoop et la boutique bio indépendante n'ont toujours qu'une source chacune.
+
+**Sources lues.** Registre Agence Bio, Nord, quatorze cents opérateurs lus (pages 1 à 15 de 100) ; sur les communes ciblées, les entrées de vente aux particuliers sont soit des grandes surfaces, soit des grossistes, soit des personnes physiques en nom patronymique (écartées). Recherche web sur Cambrai (boutique bio, marché de producteurs) : aucune source indépendante ne donne de jour ni d'horaire fiables.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq fiches vérifiables sur deux sources indépendantes ; une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes, Nord).** Cambrai : une boutique de maraîcher en nom patronymique (doute sur une personne, écartée, ne se rouvre pas) ; Cambrai : une biocoop et une boutique bio indépendante, une seule source chacune (en attente d'une seconde). Wattrelos : quatre marchés sans horaires, à reprendre si la Ville les publie.
+
+**Fiches écartées pour doute sur une personne :** une (Cambrai), plusieurs entrées du registre en nom patronymique (Nord), non reprises.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c). Le 31 ou le 13 redeviennent candidats selon leur déficit. Reprendre Cambrai seulement si une seconde source indépendante donne les horaires de la biocoop ou de la boutique bio.
