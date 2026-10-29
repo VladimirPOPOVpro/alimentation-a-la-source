@@ -44253,3 +44253,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Une dizaine d'entrées du registre à nom de personne physique : écartées pour doute sur une personne, ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante : le 2B est exclu par la règle 41.c ; le 13 redevient le département éligible en tête. Le 2B reprendra à Bastia (marché, enseigne bio) avant toute autre commune, sans refaire le criblage (règle 247).
+
+### Passe autonome du 29 octobre 2026 (septième) : Bouches-du-Rhône (13) reprise, Aubagne poursuivie : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, populations `geo.api.gouv.fr` (34 969 communes). Classement : 31 (≈ 4,72), 13 (≈ 4,33), 59 (≈ 4,28), 60 (≈ 3,63), 42 (≈ 3,58), 2B (≈ 3,53), 38 (≈ 3,47). La passe précédente visait la Haute-Corse (2B) : la Corse est exclue par la garde de la règle 41.c. Le 31, le 59, le 60 et le 42 sont clos par la règle 247. Le 13 (Bouches-du-Rhône) est donc le premier département éligible ; la descente reprend à **Aubagne**, commune encore sous le seuil de la règle 52, sans nouveau criblage.
+
+**Sources de cette passe.**
+- Chez les Producteurs (collectif, route de Napollon, RD 96, 13400 Aubagne) : adresse et téléphone concordent entre Que Choisir (carte des circuits courts) et l'office de tourisme du Pays d'Aubagne et de l'Étoile. Le collectif réunit des producteurs locaux, vente directe au comptoir. **Horaires contradictoires ou non confirmés** : la carte Que Choisir donne mardi, mercredi et vendredi 9 h – 13 h et 15 h – 19 h ; jeudi 15 h – 19 h ; samedi 9 h – 13 h et 15 h – 19 h 30 ; fermé lundi et dimanche. L'office de tourisme affiche ses horaires en « horaires non sécurisés ». Règle 5 : l'horaire ne se publie pas tant que le collectif ne le confirme pas. Le site du collectif n'a pas été lu depuis cet environnement.
+- Coopérative du Garlaban (chemin de Ceinture) : toujours l'horaire contesté (office de tourisme, fiche d'avril 2026, contre un annuaire tiers à 9 h – 19 h 30). Aucune source de l'enseigne elle-même.
+- Ferme des Roselières : inchangée, fiche prête (vente à la ferme le jeudi, 16 h 30 – 18 h 30). Solide.
+- Marché des producteurs du cours Voltaire : week-end en matinée selon les guides et l'office (8 h – 13 h). Aucune source de la Ville lisible ; une concertation municipale de juillet 2025 annonce un réaménagement du cours lié au Val'Tram. Règle 9 : rien ne se publie.
+- Safranière : saison en cours, horaire non confirmé hors saison.
+
+**Pourquoi rien n'est publié.** Aubagne compte trois points vérifiables dans la commune (la ferme, le collectif, la coopérative) et pas quatre (règle 52). Le collectif a une adresse et un téléphone concordants, mais son horaire repose sur une seule source non confirmée ; la coopérative a un horaire contesté. Aucune commune limitrophe n'est complétée tant que la commune calculée n'atteint pas quatre points.
+
+**Pistes non publiées (anonymes, Aubagne, Bouches-du-Rhône).**
+- Chez les Producteurs (collectif) : adresse et téléphone vérifiés sur deux sources ; **déblocage** : horaires confirmés par le collectif lui-même ou par la Ville.
+- Ferme maraîchère bio : fiche prête, à publier dès qu'Aubagne atteint quatre points.
+- Coopérative du Garlaban : horaire à confirmer par le magasin ; téléphone et photo propre à trouver.
+- Marché du cours Voltaire : horaire officiel à obtenir de la Ville (règle 9).
+- Safranière : à reprendre hors saison, horaire confirmé par l'exploitation.
+- Entrées du registre Agence Bio à nom de personne physique : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne :** aucune nouvelle cette passe (le registre n'a pas été relu en entier).
+
+**Points d'arrêt.** Passe suivante : le 13 est exclu par la règle 41.c (la passe précédente visait la Bouches-du-Rhône). Le 2B redevient éligible, à partir de Bastia (règle 247). Aubagne reste à compléter : une passe ultérieure reprend l'horaire du collectif et celui de la coopérative auprès de chaque commerce, puis cherche un quatrième point vérifié sur deux sources indépendantes avant toute publication.
