@@ -44594,3 +44594,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : ne pas viser le 13 (règle 41.c). Le 59 redevient candidat, mais la commune la plus peuplée du 59 sans fiche reste Wattrelos. Reprendre la coopérative du chemin de Ceinture à Aubagne si une photo ou une seconde source apparaît.
+
+### Passe autonome du 30 octobre 2026 (vingt-troisième) : Rhône (69) visé, Meyzieu sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 6,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Bouches-du-Rhône (13, ≈ 4,6 selon ce calcul). La passe précédente visait le 13 : la garde de la règle 41.c l'écarte. Le 31 est épuisé (règle 247). Le **59** reste en tête mais la note de la passe précédente désigne Wattrelos, commune déjà éprouvée à plusieurs reprises sans fiche : je ne le reprends pas sans déblocage (règle 247). Le **69** est donc le premier département éligible retenu. Ce calcul ne reproduit pas exactement celui des notes précédentes (dénominateur différent) ; la conclusion pratique reste la même.
+
+**Commune, règles 41.d et 247.** La descente du Rhône a déjà éprouvé Lyon, Villeurbanne, Vénissieux, Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron et Oullins-Pierre-Bénite (voir la passe du 22 septembre). Elle reprend à **Meyzieu** (36 687 habitants), prochaine commune sans fiche.
+
+**Sources de cette passe.**
+- Registre Agence Bio, Rhône, relu en entier (2 446 opérateurs, pagination de cent). Meyzieu : une dizaine d'entrées, dont des grossistes, des restaurations collectives, une entreprise de distribution sans vente au public, et une exploitation agricole (GAEC) déclarée en vente aux particuliers, sans point de vente ni horaire publié. Écartée faute de source sur le lieu de vente (règle 127).
+- Recherche web sur les marchés de Meyzieu : quatre agrégateurs (Google Business, Pages Jaunes, Lokaa, Nos Marchés) donnent des jours et horaires contradictoires pour le marché du centre (mercredi et samedi, 8 h – 12 h selon l'un, 8 h selon un autre pour le samedi) et pour le marché des producteurs (dimanche, 7 h 30 – 12 h 30 chez une enseigne, 8 h – 13 h chez Lokaa). **Contradiction consignée** ; aucune source de la Ville lue dans cette passe, ce qui est la première étape à reprendre. Règle 9 : rien ne se publie sur un horaire contesté.
+- Un marché du lundi et du jeudi (16 h – 20 h) n'est attesté que par un agrégateur : écarté.
+
+**Pourquoi rien n'est publié.** Meyzieu ne rend aucune fiche vérifiée sur deux sources indépendantes : les marchés ont des horaires contradictoires, le GAEC n'a aucun lieu de vente publié, et la source de référence (le site de la Ville) n'a pas encore été lue. Sous le seuil de la règle 52, la descente passe à la commune suivante (Villefranche-sur-Saône, puis Rillieux-la-Pape et Décines-Charpieu), à reprendre au passage suivant du 69.
+
+**Pistes non publiées (anonymes, Rhône).** Meyzieu : marché du centre (Place du Général-de-Gaulle, mercredi et samedi, horaire à confirmer sur la Ville) ; marché des producteurs du dimanche (quartier Grand Large, horaire à confirmer) ; un GAEC de la commune en vente aux particuliers, sans lieu publié.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le 69 (règle 41.c). Le 59 redevient le département en tête ; la reprise de Wattrelos attend un déblocage nommé dans les pistes. Si le 69 est revisité, la descente reprend à Meyzieu par le site de la Ville.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
