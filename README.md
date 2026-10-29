@@ -44455,3 +44455,21 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** plusieurs entrées du registre en nom patronymique, non reprises (Haute-Garonne).
 
 **Points d'arrêt.** Passe suivante : ne pas viser la région Occitanie (règle 41.c) si le 31 reste le seul candidat ; le 13 redevient éligible. Lire le registre au-delà de la première page avant de conclure qu'une commune est épuisée.
+
+### Passe autonome du 29 octobre 2026 (seizième) : Bouches-du-Rhône (13) visé, registre relu sur la première page, Marseille 15e sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Métropole seule (97x et 98x exclus, règle 93). Déficit recalculé sur les 1 299 fiches : Haute-Garonne (31) ≈ 4,7, Bouches-du-Rhône (13) ≈ 4,3, Nord (59) ≈ 4,3. La passe précédente visait le 31 (Occitanie) : la garde de la règle 41.c écarte donc Occitanie, et le 13 est retenu, déficit le plus fort hors Occitanie. Le 59 reste éligible (aucune passe ne l'a visé la veille) mais n'est pas retenu, son déficit étant au même niveau et sa zone déjà éprouvée plusieurs fois ce jour.
+
+**Commune, règle 41.d.** Marseille est la commune la plus peuplée du 13 et compte déjà 22 fiches dans la base ; la passe a donc sondé le registre pour les arrondissements sans fiche, en commençant par le 15e.
+
+**Sources lues.** Registre Agence Bio, Bouches-du-Rhône, première page (100 opérateurs). La plupart des entrées en vente aux particuliers sont des personnes physiques en nom patronymique, sans enseigne distincte : écartées par défaut (règle sur les données personnelles). Les entrées de vente en gros ou de négoce ne relèvent pas de la carte. Seule piste non personnelle, en vente aux particuliers, dans un arrondissement sans fiche : un point de vente d'une enseigne de magasins bio, au centre commercial du Grand Littoral (Marseille 15e). Le registre des entreprises (recherche-entreprises) confirme une entité active (état « A ») avec un établissement ouvert à cette adresse (règle 6 satisfaite). En revanche, le site officiel de l'enseigne n'a pas répondu à la lecture (réponse vide), donc la seconde source indépendante fait défaut. Une seule fiche possible au mieux, en dessous de la cible de cinq.
+
+**Pourquoi rien n'est publié.** Une fiche ne peut pas être vérifiée sur deux sources indépendantes à cette adresse faute de réponse du site de l'enseigne, et la commune ne rend pas cinq commerces vérifiables. Limites de cette passe : une seule page du registre a été lue, et une seule commune (Marseille 15e) a été sondée.
+
+**Pistes non publiées (anonymes, Bouches-du-Rhône).** Plusieurs entrées du registre en nom patronymique, dont plusieurs points de vente en vente aux particuliers : **écartées pour doute sur une personne**, les pistes ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne :** plusieurs entrées du registre en nom patronymique, non reprises (Bouches-du-Rhône).
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région Provence-Alpes-Côte d'Azur (règle 41.c) ; le 31 et le 59 redeviennent candidats selon leur déficit. Pour la piste de Marseille 15e : reprendre dès que le site de l'enseigne répond, la fiche n'est pas écartée, elle attend une seconde source.
