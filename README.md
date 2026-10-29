@@ -44531,3 +44531,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Limite de cette passe.** Lecture du registre limitée aux seize premières pages ; aucune recherche web sur les sites des communes de Maubeuge ni de Marcq-en-Barœul n'a été menée à terme.
 
 **Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c). Le 31 ou le 13 redeviennent candidats selon leur déficit. Maubeuge reste à reprendre si l'enseigne apparaît au registre des entreprises.
+
+### Passe autonome du 29 octobre 2026 (vingtième) : Haute-Garonne (31) visée, Blagnac sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée. Aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règle 41.** Métropole seule. Déficit recalculé sur les 1 299 fiches : Haute-Garonne (31) ≈ 4,7, Bouches-du-Rhône (13) ≈ 4,3, Nord (59) ≈ 4,3. Le Nord est écarté par la garde de la règle 41.c (passe précédente). Le 31 est retenu, le 13 restant à la passe suivante.
+
+**Commune, règle 41.d.** La plus peuplée du 31 sans fiche reste Blagnac (27 604 hab.) ; Toulouse, Colomiers, Tournefeuille, Cugnaux, Balma et Saint-Jean portent déjà des fiches.
+
+**Sources lues.** Page « Circuits courts » du site de la commune de Blagnac, qui recense une dizaine d'entrées. Une fois recoupées :
+- une boutique de paniers bio et un point de vente rattachés à un foyer d'accompagnement, à Blagnac : adresse, horaires et téléphone non trouvés sur le site de l'organisme lu ; **non publié** ;
+- une AMAP de Blagnac, distribution hebdomadaire aux jardins de Catalogne, présentée sur une plateforme de commande dont la page est rendue par script : horaires et lieu non lus de façon exploitable ; **non publié** ;
+- un marché de plein vent place des Marronniers, annoncé le mercredi de 16 h à 19 h par un annuaire de marchés ; **non confirmé** par la page municipale des marchés, dont la lecture a échoué ; **non publié** ;
+- les Jardins du Ricotier (Cocagne), dont la boutique et les points de retrait sont à **Fenouillet** (31150), et non à Blagnac : **écartés** pour hors commune ;
+- une exploitation maraîchère en vente directe dont l'enseigne est un prénom : **écartée pour doute sur une personne**, en application de la règle sur les noms.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend pas cinq fiches vérifiables sur deux sources indépendantes ; la seule fiche entièrement vérifiable manque encore d'adresse et d'horaires lus à la source. Le groupement sur une même commune ne peut donc pas être constitué cette passe.
+
+**Pistes non publiées (anonymes, Blagnac).** Boutique de paniers bio rattachée à un foyer (adresse et horaires à lire sur le site de l'organisme) ; AMAP hebdomadaire (lieu et horaires à lire sur la plateforme de commande) ; marché de plein vent du mercredi (à confirmer sur la page municipale des marchés) ; une exploitation maraîchère en vente directe écartée pour doute sur une personne.
+
+**Limite de cette passe.** Le site de la mairie de Blagnac n'a pu être ouvert qu'en lecture par ligne de commande ; aucune recherche n'a été menée sur les producteurs de la commune au-delà de la page « Circuits courts ».
+
+**Points d'arrêt.** Passe suivante : ne pas viser le 31 (règle 41.c). Le 13 ou le 59 redeviennent candidats selon leur déficit. Reprendre Blagnac si la page municipale des marchés confirme le marché du mercredi et si la plateforme de commande de l'AMAP livre son lieu et ses horaires.
