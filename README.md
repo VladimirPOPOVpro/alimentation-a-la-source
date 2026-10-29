@@ -44393,3 +44393,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Points d'arrêt.** Passe suivante : Roanne reprise si la page de l'agglomération devient lisible ; sinon Montbrison, puis Firminy, en respectant la règle 247 (douze communes au plus avant de changer de département). Le 13 reste ouvert à la descente suivante, selon la règle 247.
+
+### Passe autonome du 29 octobre 2026 (treizième) : Seine-Saint-Denis (93) reprise en descente, Épinay-sur-Seine et Le Blanc-Mesnil sondés : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (écartée pour doute sur une personne) reste inchangée : rien publié, aucun message envoyé. Total inchangé : 1 299 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés, règle 177). Classement : 59 (≈ 6,4), 13 (≈ 6,0), 31 (≈ 5,9), 69 (≈ 4,6), 38 (≈ 4,5), 93 (≈ 4,5). La passe précédente visait la Loire, région 84 : Rhône et Isère (région 84) sont exclus par la règle 41.c. Le Nord (59) a clos sa descente de douze communes (règle 247), le 13 et le 31 sont éprouvés. Le 93 reprend une descente déjà ouverte aux passes précédentes ; c'est le département retenu.
+
+**Commune, règle 41.d.** Dans le 93, les communes les plus peuplées sans fiche, éprouvées avant cette passe : Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny. Cette passe éprouve **Épinay-sur-Seine** (≈ 52 800 habitants), puis Le Blanc-Mesnil une nouvelle fois.
+
+**Sources lues.**
+- Registre Agence Bio, Seine-Saint-Denis (400 opérateurs lus) : aucune entrée en vente aux particuliers à Épinay-sur-Seine ; les entrées de la commune sont des grossistes, des magasins spécialisés en distribution ou des artisans sans vente au public. Écartées.
+- Registre Agence Bio, Seine-Saint-Denis : une entrée en vente aux particuliers à Bondy porte une enseigne qui reprend le nom patronymique de l'exploitant, sans enseigne distincte. **Écartée pour doute sur une personne** ; la piste ne se rouvre pas.
+- Recherche web, Le Blanc-Mesnil : les marchés de la Ville (centre-ville, Tilleuls, Casanova) sont des marchés forains aux horaires non publiés par une source officielle lisible, comme dans les passes précédentes. Une AMAP sans nom de producteur ni liste de produits (annuaire d'alternatives, vendredi 18 h 45 – 19 h 45, place du Forum) ne suffit pas à une fiche : pas de produits concrets, pas de seconde source.
+- Recherche web, Épinay-sur-Seine : aucun marché de producteurs ni point de vente en circuit court daté et vérifié.
+
+**Pourquoi rien n'est publié.** Aucune commune du 93 ne rend cinq commerces vérifiables sur deux sources indépendantes et actuelles. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes, Seine-Saint-Denis).**
+- Bondy : une entrée du registre en vente aux particuliers, enseigne patronymique. **Écartée pour doute sur une personne.**
+- Le Blanc-Mesnil : AMAP du vendredi soir, sans producteur nommé ni produits. **Déblocage** : nom de la ferme partenaire et liste des paniers par une source de l'association.
+- Le Blanc-Mesnil : marchés municipaux, horaires non publiés. **Déblocage** : page officielle de la Ville lisible, avec jours et horaires.
+
+**Fiches écartées pour doute sur une personne :** une cette passe, à Bondy (voir ci-dessus).
+
+**Points d'arrêt.** Passe suivante : Seine-Saint-Denis (93) reste ouvert en descente ; prochaine commune par population sans fiche et non éprouvée : Sevran (52 535), puis Bondy, Rosny-sous-Bois et La Courneuve, sous la règle 247 (douze communes au plus). Le Nord (59) et la Loire (42) restent clos ou en cours, selon les règles 41.c et 247.
