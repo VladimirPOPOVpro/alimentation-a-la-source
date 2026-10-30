@@ -44748,3 +44748,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser la région Occitanie tant que la descente n'est pas close (règle 41.c, deux passes de suite interdites). Reprendre Blagnac à la page marchés et commerces du site de la Ville, en direct, avant tout annuaire, pour trancher le lieu du marché du mercredi et confirmer l'AMAP. Si Blagnac rend quatre points solides, publier la zone (règle 52) ; sinon, passer à Muret et lire les deux magasins bio sur leur site.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+
+### Passe autonome du 30 octobre 2026 (vingt-neuvième) : Rhône (69) reprise, Villefranche-sur-Saône sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches. Aucune fiche ajoutée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 6,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6). Le 59, le 31, le 60, le 42, le 38, le 93 et les Yvelines (78, bornée par la règle 247 après la descente de Poissy) sont clos. La passe précédente visait l'Occitanie (31) : l'Hérault (34), même région, est écarté par la règle 41.c. Le **69** est donc le premier département éligible, et sa descente n'est pas close.
+
+**Commune, règle 41.d.** Rhône, descente reprise à **Villefranche-sur-Saône** (36 172 habitants), comme le prévoyait la passe du 30 octobre (vingt-septième).
+
+**Vérifications.**
+- Site de la Ville (villefranche.net) : la page d'actualité du 28 novembre 2025 répond. Elle annonce la réouverture du marché couvert le 12 décembre 2025 et cite les familles de commerçants (boucherie, fromagerie, épicerie fine, fleuristerie, primeur), sans nommer un seul commerçant ni donner d'horaires détaillés.
+- Page d'accueil de la Ville : injoignable depuis cet environnement (erreur de connexion) ; sa rubrique marchés n'a pas pu être relue.
+- Registre Agence Bio, Rhône, cent opérateurs lus : quatre entrées à Villefranche, toutes en vente aux professionnels seulement (grossiste, distributeur) ; aucun point de vente au public.
+- Recherche web : les horaires du marché couvert se contredisent entre les sources (jours et plages horaires différents selon le réseau social, le répertoire et l'agrégateur). Un annuaire de producteurs en circuit court liste Villefranche, sans commerçant identifié à l'adresse.
+
+**Pourquoi rien n'est publié.** Le marché couvert est un lieu vérifié par la Ville, mais aucune fiche de commerçant n'est nommée par une source institutionnelle lisible, et les horaires sont contestés. La zone de cinq fiches vérifiées n'est pas atteinte (règles 52 et 248) : une seule fiche de lieu ne suffit pas.
+
+**Pistes non publiées (anonymes, Rhône).** Villefranche-sur-Saône : marché couvert (ouverture officielle le 12 décembre 2025, commerçants et horaires à identifier sur une source de la Ville) ; marché de Plançons, le lundi matin, selon un agrégateur seul (à confirmer) ; annuaire de producteurs en circuit court, à reprendre commerçant par commerçant.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 69 reste ouvert et la descente reprend à Villefranche-sur-Saône dès que la rubrique marchés de la Ville devient lisible, puis à Rillieux-la-Pape. Le 69 ne peut pas être visé à la passe suivante (règle 41.c, même région) : elle prend donc le premier département hors Auvergne-Rhône-Alpes du classement.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
