@@ -44844,3 +44844,29 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser la région 76 de suite (règle 41.c). Si la Haute-Garonne est revisitée, reprendre Blagnac à la rubrique marchés du site de la Ville dès qu'il répond, puis Plaisance-du-Touch.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (trente-troisième) : Rhône (69) reprise, Rillieux-la-Pape sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches. Aucune fiche ajoutée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (31, région 76) : la région 76 est exclue, le Rhône (69, région 84) reste donc éligible. Les départements déjà clos (59, 31, 60, 42, 38, 93, 78) sont écartés. Le 69 reste en descente, et la commune suivante de la descente est **Rillieux-la-Pape** (31 389 habitants), comme le prévoyait la passe précédente.
+
+**Vérifications.**
+- Site officiel de la Ville (rillieux.fr) : injoignable depuis cet environnement (aucune réponse) ; sa rubrique marchés n'a pas pu être relue.
+- Annuaire de marchés jours-de-marche.fr (agrégateur, non officiel) : un marché place du Marché, le vendredi, le samedi et le dimanche de 8 h à 13 h. Aucune liste d'exposants ni de produits n'est attachée à cette entrée.
+- Registre Agence Bio, Rhône, paginé sur les 2 446 opérateurs du département : quinze entrées à Rillieux-la-Pape. Une seule déclare une vente aux particuliers ; les autres sont en préparation, stockage, distribution ou production, sans vente au public. La seule entrée de vente aux particuliers n'est pas identifiée par une source publique lisible.
+- Recherche web : une enseigne La Vie Claire, avenue de l'Hippodrome, citée par deux annuaires et une annonce d'emploi, mais le registre de l'Agence Bio ne lui attribue aucune vente au public à cette adresse. **Contradiction** entre sources, consignée (règle 5), non tranchée. Une enseigne Biocoop est citée sans adresse vérifiée à Rillieux.
+
+**Pourquoi rien n'est publié.** Une seule source d'agrégateur pour le marché, aucune liste de commerçants ou de produits lue sur une source officielle, et une enseigne dont la vente au public est contredite par le registre. Aucune fiche n'est vérifiable à ce stade. La zone de cinq fiches vérifiées n'est pas atteinte (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Rhône).**
+- Rillieux-la-Pape, marché de la place du Marché (vendredi, samedi, dimanche, 8 h-13 h selon un agrégateur) : à confirmer par la Ville ; produits et exposants à identifier sur le site de la Ville dès qu'il répond.
+- Rillieux-la-Pape, magasin La Vie Claire de l'avenue de l'Hippodrome : enseigne citée par deux annuaires, vente au public contredite par le registre ; à relire sur le site de l'enseigne.
+- Rillieux-la-Pape, Biocoop : mention non localisée ; à reprendre sur le localisateur officiel de Biocoop.
+- Rillieux-la-Pape, une entrée de vente aux particuliers au registre, non identifiée : à reprendre si une source publique la rattache à une enseigne.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 84 (Auvergne-Rhône-Alpes) est exclue par la règle 41.c. Le 69 reprendra à Rillieux-la-Pape quand le site de la Ville répondra, puis à Décines-Charpieu. Si la descente du 69 se ferme (règle 247), la passe prend le département suivant du classement hors régions 76 et 84.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
