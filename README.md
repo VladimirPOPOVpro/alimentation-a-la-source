@@ -45017,3 +45017,36 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Ce cycle n'a plus produit de fiche depuis une trentaine de passes. Les communes de la descente sont soit injoignables, soit sans source de commerces lisible. Passe suivante : reprendre Castanet-Tolosan à la rubrique marchés de la Ville si elle répond ; sinon, passer à la commune suivante de la descente (règle 247) et poser la question de la méthode au responsable du site.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarantième) : Bas-Rhin (67) visé, Schiltigheim sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` reste inchangée. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41 et 247.** Métropole seule, fiches comptées sur le code postal. Un calcul de déficit refait à partir de l'appel `geo.api.gouv.fr` donne en tête le 59 (≈ 6,5), puis le 31 (≈ 6,0), le 69 (≈ 4,7), le 38 et le 93. Ce classement diverge de celui des passes précédentes, qui retenaient des valeurs différentes ; la divergence est consignée ici sans trancher. Le 59 et le 31 sont tenus pour clos par les passes précédentes, et la Haute-Garonne (76) vient d'être visée : la garde de la règle 41.c écarte la région 76. Le 67 est retenu par descente sur un département encore peu éprouvé, sans fiche à Schiltigheim.
+
+**Commune, règle 41.d.** Schiltigheim (34 708 habitants, 0 fiche) est la commune la plus peuplée du 67 sans fiche, hors Strasbourg, Haguenau, Obernai et Erstein qui en ont déjà.
+
+**Vérifications.**
+- Site de la Ville de Schiltigheim : `ville-schiltigheim.fr` (200). Le domaine `schiltigheim.fr` est un site commercial privé, sans lien avec la mairie : il ne sert à rien pour cette commune. Ce piège est consigné ci-dessous.
+- Page « Marchés et paniers de produits locaux » de la Ville : deux marchés de producteurs (marché du centre-ville, place de l'Hôtel de Ville, jeudi 8h–12h ; halles couvertes du Scilt, du mercredi au dimanche) et cinq sites de distribution de paniers.
+- Site des halles (`hallesduscilt.net`, 200) : horaires des halles gourmandes concordants avec la Ville (mercredi–vendredi 9h–13h et 16h30–19h, samedi 9h–18h, dimanche 9h–13h).
+- Données ouvertes de l'Eurométropole : marché de Schiltigheim (jeudi, 7h–12h, contradictoire avec la Ville, jeu de données daté de 2021) et trois points de distribution de paniers (AMAP place de la Liberté le jeudi soir, point au campus IUT). Ces jeux sont datés de juin 2021.
+- Registre Agence Bio, Bas-Rhin, 1 541 opérateurs relus sur la totalité : sept opérateurs à Schiltigheim déclarent une vente aux particuliers, dont cinq sont des personnes physiques, des associations, une société de prestation ou une entreprise de conseil, et ne sont pas retenus ici.
+- Recherche web : une boulangerie bio de Schiltigheim, inscrite au registre, n'a pas d'activité confirmée (une source indique qu'elle n'est plus à cette adresse). Une régie d'insertion de la commune n'a aucune activité de maraîchage attestée.
+
+**Pourquoi rien n'est publié.** Deux commerces seulement sont vérifiés sur une source officielle et un site propre (le marché du centre-ville et les halles), ce qui est sous le seuil de cinq fiches (règles 52 et 248). Le marché de la Ville a deux horaires contradictoires (règle 5) ; les points de paniers datent de 2021 et leur activité n'est pas reconfirmée. Aucune fiche n'est donc publiée.
+
+**Pistes non publiées (anonymes, Bas-Rhin).**
+- Schiltigheim, marché du centre-ville (place de l'Hôtel de Ville, jeudi) : fiche solide, sous le seuil ; horaires à confirmer (8h–12h selon la Ville, 7h–12h selon l'open data de 2021).
+- Schiltigheim, halles couvertes : deux sources concordantes (Ville et site des halles) ; sous le seuil, un commerce permanent (épicerie fine) n'est pas une enseigne du circuit court.
+- Schiltigheim, point de distribution de paniers au campus IUT, exploitation d'insertion bio de la Montagne Verte (Strasbourg) : site joignable, jours et horaires de 2021 à reconfirmer auprès de l'exploitation.
+- Schiltigheim, boulangerie bio inscrite au registre : activité et adresse non confirmées ; écartée.
+- Schiltigheim, AMAP de la place de la Liberté (jeudi 18h–19h30) : site de l'AMAP injoignable depuis cet environnement.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Schiltigheim : deux points de distribution de paniers dont l'enseigne reprend un prénom ou un patronyme. Non nommées ici, non publiées.
+
+**Note sur les domaines.** À Schiltigheim, `schiltigheim.fr` est un site commercial privé, sans lien avec la mairie. Le bon domaine est `ville-schiltigheim.fr`. Pour toute commune, vérifier que le domaine officiel est bien celui de la mairie avant de s'y fier.
+
+**Points d'arrêt.** Passe suivante : le 67 reste à viser avec la commune suivante de la descente (Ostwald, 13 946 habitants, 0 fiche) ou, si la Ville de Schiltigheim répond, reprendre Schiltigheim au point 1 de la liste ci-dessus. La question de la divergence du classement de déficit (59 ou 31 en tête) reste à arbitrer par le responsable du site.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
