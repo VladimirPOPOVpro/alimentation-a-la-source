@@ -44820,3 +44820,27 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 69 ne peut pas être visé de suite si la région 84 est retenue à la passe précédente (règle 41.c). Si le 69 est revisité, la descente reprend à Rillieux-la-Pape (31 389 habitants), puis Décines-Charpieu.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (trente-deuxième) : Haute-Garonne (31) reprise, Blagnac et Muret sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41 et 41.c.** Métropole seule (règle 177), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. La passe précédente visait le Rhône (69, région 84) : la région 84 est exclue, la Haute-Garonne (31, région 76) est donc éligible. Elle reste en tête du classement, avec la descente déjà éprouvée sans fiche entière (règle 248).
+
+**Commune, règle 248.** Blagnac (27 604 habitants) est toujours la plus peuplée sans fiche, puis Muret (26 079). Les deux ont été relues.
+
+**Vérifications.**
+- Site de la Ville de Blagnac : le site n'a pas répondu depuis cet environnement (aucune réponse HTTP) ; la recherche web ne remonte aucun producteur, magasin de producteurs ni AMAP pour la commune.
+- Muret, marché : un annuaire de marchés tiers signale un marché producteurs le mardi en fin d'après-midi. L'enseigne porte un prénom, et la seule source est cet annuaire participatif : écarté pour doute sur une personne, rien n'est publié.
+- Muret, mairie et office de tourisme : ni liste de marché ni liste de producteurs lisible en ligne cette passe.
+- Bienvenue à la Ferme et DirectFermiers31 : les fermes citées (Revel, Vaudreuille, Saint-Gaudens, Cadours, Ganties) sont hors des communes visées ; aucune exploitation à Blagnac ni à Muret.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source indépendante lue cette passe. Une piste sans source ne se publie pas (règle 2).
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Muret : un marché producteurs du mardi signalé par un seul annuaire participatif, enseigne à rattacher à une personne, écartée. Blagnac : marché et commerces à relire quand le site de la Ville répondra.
+
+**Fiches écartées pour doute sur une personne.** Une, à Muret (enseigne portant un prénom), non publiée, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région 76 de suite (règle 41.c). Si la Haute-Garonne est revisitée, reprendre Blagnac à la rubrique marchés du site de la Ville dès qu'il répond, puis Plaisance-du-Touch.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
