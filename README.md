@@ -45196,7 +45196,7 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 - Une coopérative agricole de distribution (magasin d'approvisionnement, hors catégories de la carte) : écartée.
 - Aucune AMAP ni aucun point de producteurs trouvé pour le Cambrésis dans les sources lues. Bienvenue à la Ferme : rien à Cambrai.
 
-**Pourquoi rien n'est publié.** Une seule exploitation et un seul magasin bio recoupés ne rendent pas cinq commerces vérifiables (règles 52 et 248). Le descente de la règle 41.d reprend à la passe suivante.
+**Pourquoi rien n'est publié.** Une seule exploitation et un seul magasin bio recoupés ne rendent pas cinq commerces vérifiables (règles 52 et 248). La descente de la règle 41.d reprend à la passe suivante.
 
 **Pistes non publiées** (anonymes, Cambrai, Nord) :
 - Exploitation maraîchère avec magasin de la ferme, centre-ville : **Déblocage** : confirmation de l'horaire et de l'adresse par le site propre de l'exploitation, et reprise du nom une fois écarté tout doute sur une personne. Motif : site sans horaires, nom à vérifier.
