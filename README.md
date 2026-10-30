@@ -44991,3 +44991,29 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : la région 94 ne doit pas être visée de suite si la descente de Bastia reste fermée ; ne pas viser la région 84 (règle 41.c). Reprendre Bastia à la rubrique marchés de la Ville quand elle répond, sinon passer à la commune suivante de la descente (règle 247).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (trente-neuvième) : Haute-Garonne (31) reprise, Castanet-Tolosan sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` reste inchangée. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41 et 247.** Métropole seule, fiches comptées sur le code postal. La passe précédente visait la Haute-Corse (région 94), donc la Haute-Garonne (région 76) n'est pas visée de suite. Le classement reste celui de la passe précédente : 31 (≈ 4,8), déjà tenu pour clos dans les notes, puis 59, 60, 42, 38. La descente de la commune la plus peuplée sans fiche reste dans la Haute-Garonne.
+
+**Vérifications.**
+- Blagnac (27 604 habitants) et Muret (26 079) : sites des Villes injoignables depuis cet environnement, comme aux passes précédentes.
+- Balma (17 772) : site de la Ville joignable, mais aucune page de marché, de commerces ou de producteurs n'y apparaît. Le registre Agence Bio, relu sur les quatre premières pages du département, ne donne à Balma que des entrées sans vente au public déclarée, ou des entrées personnelles non nommées ici.
+- Castanet-Tolosan (15 317) : site de la Ville joignable, sans page marché ni producteurs. Recherche web : un marché le mardi sous la halle et un marché le samedi (horaires d'un guide touristique, non confirmés par la Ville) ; une enseigne bio et un magasin bio dont l'adresse diffère selon les sources (contradiction, règle 5) ; une enseigne bio récente dont l'adresse et les horaires n'ont pu être lus, le site de l'enseigne ne répondant pas.
+- Registre Agence Bio, Haute-Garonne, 400 entrées relues : une enseigne bio de Castanet-Tolosan déclare une vente aux professionnels seulement, donc non éligible au titre de la règle 40.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables sur une source indépendante lue cette passe. Les fiches candidates sont soit en contradiction d'adresse (règle 5), soit sans horaire confirmé (règle 9), soit attestées par des sources trop anciennes.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Castanet-Tolosan, magasin bio : deux adresses contradictoires selon les sources, à trancher sur le site de l'enseigne quand il répond.
+- Castanet-Tolosan, marchés du mardi (halle) et du samedi : horaires à obtenir de la Ville (règle 9).
+- Castanet-Tolosan, enseigne bio récente : adresse et horaires non lus.
+- Balma, AMAP et épicerie bio d'un annuaire de 2015 et d'un guide municipal de 2021 : activité non confirmée depuis 2021.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe. Plusieurs entrées du registre sont des personnes physiques, non nommées ici et non publiées.
+
+**Points d'arrêt.** Ce cycle n'a plus produit de fiche depuis une trentaine de passes. Les communes de la descente sont soit injoignables, soit sans source de commerces lisible. Passe suivante : reprendre Castanet-Tolosan à la rubrique marchés de la Ville si elle répond ; sinon, passer à la commune suivante de la descente (règle 247) et poser la question de la méthode au responsable du site.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
