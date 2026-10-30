@@ -44870,3 +44870,29 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : la région 84 (Auvergne-Rhône-Alpes) est exclue par la règle 41.c. Le 69 reprendra à Rillieux-la-Pape quand le site de la Ville répondra, puis à Décines-Charpieu. Si la descente du 69 se ferme (règle 247), la passe prend le département suivant du classement hors régions 76 et 84.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (trente-quatrième) : Haute-Garonne (31) reprise, Blagnac et Plaisance-du-Touch sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` reste inchangée. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41 et 41.c.** Métropole seule (règle 93). La passe précédente visait le Rhône (69, région 84) : la région 84 est exclue. La Haute-Garonne (31, région 76) est donc éligible, et reste en tête du classement hors outre-mer.
+
+**Commune, règle 248.** Toulouse, Colomiers, Tournefeuille, Cugnaux et Balma ont déjà des fiches ; la commune la plus peuplée sans fiche est Blagnac (27 604 habitants), puis Plaisance-du-Touch (21 079).
+
+**Vérifications.**
+- Registre Agence Bio, département 31 : pour Blagnac, les deux opérateurs au registre ne déclarent aucune vente aux particuliers (préparation, distribution). Pour Plaisance-du-Touch, l'unique opérateur ne déclare aucune vente au public.
+- Recherche web, Blagnac : un annuaire de 2015 cite deux marchés (place des Arts, place des Marronniers) qui ne sont confirmés par aucune source actuelle ; le site de la Ville n'a pas répondu depuis cet environnement. Rien n'est publié sur cette base.
+- Recherche web, Plaisance-du-Touch : aucun marché de producteurs ni AMAP localisé dans la commune ; le seul commerce bio cité est une enseigne de magasin bio de réseau (catégorie magasin-bio possible, règle 3), dont l'adresse et les horaires restent à vérifier sur le localisateur de l'enseigne avant toute fiche.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source indépendante lue cette passe.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Blagnac : marchés de 2015 (place des Arts, place des Marronniers) à reconfirmer auprès de la Ville dès que son site répond.
+- Plaisance-du-Touch : aucune piste locale retenue ; à reprendre si une source publique localise un marché ou une AMAP.
+- Blagnac et Plaisance-du-Touch : plusieurs opérateurs du registre sont des personnes physiques, non nommées ici ; aucun n'a de vente au public déclarée, donc aucune n'est à examiner.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 76 (Occitanie) ne doit pas être visée de suite. Reprendre Blagnac à la rubrique marchés du site de la Ville quand il répond ; sinon passer au département suivant du classement hors régions 76 et 84.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
