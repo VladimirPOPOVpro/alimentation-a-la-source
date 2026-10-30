@@ -44665,3 +44665,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Isère (38) reste ouverte, mais la descente compte maintenant onze communes sondées sur la borne de douze (règle 247). Reprendre Bourgoin-Jallieu uniquement si la page marchés de la Ville devient lisible, ou si l'office de tourisme CAPI revient. Sinon, la prochaine commune sans fiche par population se recalcule au moment de la passe ; la borne de douze atteinte, l'Isère se ferme et la passe change de département.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (vingt-sixième) : Seine-Saint-Denis (93) reprise, Sevran sondée, Bondy sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 6,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6). La passe précédente visait l'Isère (région Auvergne-Rhône-Alpes) : la garde de la règle 41.c écarte donc le 69 et le 38. Le 59 et le 31 restent clos (règle 247), ainsi que le 60 et le 42 ; le 93 est le premier département éligible, sa descente n'étant pas épuisée.
+
+**Commune, règle 41.d.** Dans le 93, les communes sans fiche déjà éprouvées (Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny, Épinay-sur-Seine) sont écartées. La plus peuplée restante est **Sevran (52 535 hab.)**. Pantin, qui a déjà deux fiches, n'entre pas dans la descente.
+
+**Vérifications.**
+- Site de la Ville de Sevran, rubrique « Le marché » : un seul marché municipal (avenue du Marché), ouvert le mardi de 14 h à 18 h, le jeudi et le samedi de 8 h à 13 h, avec une halle et un marché extérieur. Aucune liste de producteurs ni d'exposants n'est publiée par la Ville.
+- Registre Agence Bio, Seine-Saint-Denis, 447 opérateurs lus (pagination de cent). Sevran : une association de production sans adresse de vente publiée, une entrée de vente aux particuliers au nom d'une personne (écartée pour doute sur une personne, ne se rouvre pas), et un hypermarché (écarté, généraliste).
+- Annuaire de producteurs en circuit court (jours-de-marche.fr) : les producteurs listés autour de Sevran sont tous à 10 km ou plus ; aucun n'est situé à Sevran.
+- Registre des entreprises : la commune de Sevran est active, mais aucune recherche d'établissement de vente en circuit court n'a abouti à une adresse vérifiable sur Sevran.
+- Bondy (commune suivante par population sans fiche, 50 595 hab.) : registre Agence Bio, aucune entrée de vente au public ; site de la Ville répond, sa page marchés n'a pas été relue cette passe.
+
+**Pourquoi rien n'est publié.** Sevran ne rend qu'un marché municipal vérifiable sur une source institutionnelle, et aucun commerce vérifié sur deux sources indépendantes. Une fiche isolée n'est pas une zone (règle 52) : le marché attend en pistes. Bondy ne rend rien au registre. Le groupement de cinq fiches sur une même commune n'est pas atteint.
+
+**Pistes non publiées (anonymes, Seine-Saint-Denis).** Sevran : marché municipal de l'avenue du Marché (mardi après-midi, jeudi et samedi matin ; source unique, la Ville ; producteurs à identifier) ; une association de production inscrite au registre Agence Bio sans adresse de vente publiée. Bondy : une entreprise de production en vente aux particuliers, sans enseigne publique ni lieu de vente identifié (à reprendre si la page marchés de la Ville la nomme).
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Sevran), sans nom consigné.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le 93 si la descente n'a pas repris à Bondy (règle 41.c ne l'interdit pas en soi, mais la passe suivante vise la région qui n'est ni l'Île-de-France ni l'Auvergne-Rhône-Alpes). Reprendre Sevran si la Ville ou un annuaire liste les producteurs du marché ; reprendre Bondy à la lecture de sa page marchés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
