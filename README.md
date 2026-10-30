@@ -44716,3 +44716,35 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 69 reste ouvert et la descente reprend à **Villefranche-sur-Saône** par le site de la Ville, dès qu'il répond, puis à Rillieux-la-Pape et Décines-Charpieu. Le 69 ne peut pas être visé à la passe suivante (règle 41.c, même région) : celle-ci prend donc un département hors Auvergne-Rhône-Alpes, selon le classement du moment.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (vingt-huitième) : Haute-Garonne, Blagnac reprise sur une piste nommée : aucune publication
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches publiées. Aucune fiche ajoutée, aucune retirée, aucun email envoyé.
+
+**Classement, règle 41.** Métropole seule (règle 177). La passe précédente visait le Rhône (69) : seule cette région est exclue (règle 41.c). Les départements d'outre-mer sont écartés par le garde-fou de `lib/validateMerchants.ts` (règle 93), donc le 974 en tête du calcul n'est pas éligible. Haute-Garonne (31) en tête des départements métropolitains éligibles, puis Nord (59) et Isère (38) ; l'Isère est dans la région du Rhône et tombe donc sous la règle 41.c.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants), reprise parce qu'elle figure en piste nommée (passe du 18 octobre : « une enseigne bio, nature à établir »). La descente ne s'étend pas plus loin : les communes déjà éprouvées (Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan) restent hors de cette passe (règle 247).
+
+**Ce qui a été lu.**
+- Site officiel du magasin Biocoop de Blagnac (`biocoop-blagnac.fr`) : adresse route de Grenade, vendredi 9 h à 19 h 30, boucherie, crèmerie, pains frais, traiteur, vrac. Vitrine photographiée (451 px de large, sans personne reconnaissable), mais la photo est sous les 700 px que `AGENT.md` demande pour un bandeau.
+- Marché des Marronniers, place des Marronniers : mercredi de 15 h 30 à 19 h 30, selon le registre de la fiche publique du marché et une page d'office de tourisme de Haute-Garonne. Une page de la Ville (publication sur les marchés de décembre 2025) laisse entendre que les marchés du mercredi se tiennent aussi place des Arts : à trancher sur le site de la Ville.
+- Registre de l'Agence Bio, département 31 : aucune exploitation ni magasin de vente au public à Blagnac (déjà constaté aux passes précédentes).
+- Aubio Arcadie, route de Grenade : fermeture définitive annoncée en juin 2023 : écartée.
+
+**Pourquoi rien n'est publié.** Blagnac rend deux points solides (le magasin et le marché), pas quatre : la règle 52 ne s'applique pas. Une fiche isolée n'est pas une zone (règle 248) : la fiche Biocoop et la fiche du marché attendent donc en pistes avec leur travail, comme le prévoit la règle 248. La photo du marché n'existe pas dans une source utilisable : aucune photo thématique honnête n'a été trouvée sans passer par une banque d'images ou une photothèque de la Ville, et la règle 70 l'interdit. Le fichier de la photo Biocoop a été retiré avant commit.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Blagnac, magasin bio à l'enseigne Biocoop (site officiel lu) : fiche prête, à publier dès qu'une deuxième source solide ou une deuxième fiche de la commune est trouvée ; horaires du samedi à confirmer ; téléphone non publié faute de source officielle.
+- Blagnac, marché des Marronniers (mercredi 15 h 30 à 19 h 30) : lieu, jour et horaires contradictoires selon les sources (place des Arts pour certains marchés du mercredi) ; produits non vérifiés au-delà des fruits, légumes et fromages cités par une page touristique.
+- Blagnac, AMAP de Saint-Pierre-d'Ax : association à distribution les jeudis selon une publication récente, horaire d'ouverture contradictoire dans un annuaire ; téléphone trouvé dans la fiche publique de l'association, mais c'est un numéro mobile de particulier : non publié.
+- Blagnac, épicerie locale de produits d'Occitanie, rue du 19-Mars-1962 : adresse et horaires vus, site officiel non lu depuis cet environnement : à reprendre.
+- Muret, magasin Biocoop du boulevard de Joffrery (horaires vus, site officiel non lu) et So.bio (rue Pierre-de-Fermat) : deux fiches possibles de magasin bio, à reprendre si la commune atteint cinq points.
+- Muret, primeur dont l'enseigne porte un prénom : écarté pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une (Muret, primeur à enseigne portant un prénom), non publiée, ne se rouvre pas.
+
+**Contradictions** (règle 5) : adresse de l'AMAP de Blagnac (deux adresses selon les fiches publiques) et jour de distribution (jeudi ou mardi) : consignés, non tranchés. Horaires du marché des Marronniers (voir ci-dessus) : consignés.
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région Occitanie tant que la descente n'est pas close (règle 41.c, deux passes de suite interdites). Reprendre Blagnac à la page marchés et commerces du site de la Ville, en direct, avant tout annuaire, pour trancher le lieu du marché du mercredi et confirmer l'AMAP. Si Blagnac rend quatre points solides, publier la zone (règle 52) ; sinon, passer à Muret et lire les deux magasins bio sur leur site.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
