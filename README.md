@@ -44942,3 +44942,29 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Ce cycle ne produit plus de fiches depuis trente-six passes : Haute-Garonne et Rhône alternent sans commune qui rende cinq commerces vérifiables. Passe suivante : la région 76 ne doit pas être visée de suite (règle 41.c). Si la descente de Blagnac reste fermée, la passe suivante prend le département suivant du classement hors régions 76 et 84.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (trente-septième) : Rhône (69) repris, Rillieux-la-Pape injoignable, Décines-Charpieu sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` reste inchangée. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés, règle 177), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement : Nord (59, clos par la règle 247), Haute-Garonne (31, épuisé, et région 76 visée la passe précédente), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6). La passe précédente visait la Haute-Garonne (région 76) : la région 84 est donc permise, et le 69 est le premier département éligible. Le 69 reprend sa descente à Rillieux-la-Pape, puis Décines-Charpieu.
+
+**Vérifications.**
+- Rillieux-la-Pape : le site de la Ville ne répond toujours pas (aucune réponse HTTP depuis cet environnement) ; la recherche web ne trouve ni marché de producteurs ni AMAP localisé dans la commune. Descente de Rillieux close pour cette passe.
+- Registre Agence Bio, Rhône, première page (100 opérateurs) : les entrées de vente aux particuliers rattachées à Décines-Charpieu ou à Rillieux-la-Pape ne sont pas des commerces publics vérifiables (un opérateur au registre est domicilié à Lyon 3e avec une adresse de Décines, sans enseigne ni point de vente identifié).
+- Décines-Charpieu, source indépendante (office de tourisme de Lyon) : un marché de producteurs le jeudi aux Halles décinoises (35 rue Marat), et un marché forain le mardi. La page de l'office est datée, les horaires du marché ne sont pas précisés, et la page correspondante du site de la Ville renvoie une erreur 404 au moment de la lecture.
+- Décines-Charpieu, enseigne bio : une Vie Claire à l'adresse de l'avenue Jean-Jaurès, citée par plusieurs annuaires, sans horaires vérifiés pour ce point de vente (les horaires de la fiche de Beynost ne valent pas pour Décines). Un Biocoop n'a pas pu être localisé dans la commune.
+- Aucune AMAP trouvée à Décines-Charpieu.
+
+**Pourquoi rien n'est publié.** Pour Décines-Charpieu, deux fiches au plus seraient vérifiables (le marché des Halles et l'enseigne bio), dont les horaires restent à confirmer ; la zone de cinq fiches vérifiées n'est pas atteinte (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Rhône).**
+- Décines-Charpieu, marché de producteurs du jeudi aux Halles décinoises : à reprendre quand la page de la Ville (rubrique des Halles) répond, pour les horaires et les exposants.
+- Décines-Charpieu, enseigne bio du 191-193 avenue Jean-Jaurès : horaires du point de vente à vérifier sur le localisateur de l'enseigne.
+- Rillieux-la-Pape : marché de la place du Marché, toujours à confirmer par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 84 (Auvergne-Rhône-Alpes) ne doit pas être visée de suite (règle 41.c). Le 69 reste ouvert (règle 410) : reprendre Décines-Charpieu à la page de la Ville quand elle répond, puis la commune suivante par population sans fiche si la descente reste incomplète. Si le 69 se ferme (règle 247), la passe prend le département suivant du classement hors régions 76 et 84.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
