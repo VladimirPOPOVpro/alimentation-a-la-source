@@ -45106,3 +45106,31 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas revenir sur le 31 (même région que cette passe-ci et la passe précédente). Dans le 60, reprendre Senlis (commune suivante de la descente, 15 157 hab.) en commençant par le site de la Ville et le registre Agence Bio, et Nogent-sur-Oise seulement si la Ville répond. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarante-troisième) : Haute-Garonne (31) visée, Plaisance-du-Touch sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, inchangée, rien publié, aucun message envoyé.
+
+**Secteur, règles 41 et 177.** Calcul refait sur `geo.api.gouv.fr` et `data/marchands.json` (1 303 fiches), en écartant les départements d'outre-mer et les collectivités 98x, que `lib/validateMerchants.ts` refuse. Région de la passe précédente (Oise, 60) : Hauts-de-France, donc le 59 est écarté. Premier métropolitain restant : **Haute-Garonne (31), déficit ≈ 6,0**, région 76. La passe 41 était aussi en 31 mais n'est pas consécutive à la passe 42 : la règle des deux passes de suite est respectée. La note de la passe 42 demandait de ne pas revenir sur le 31 ; le texte de la règle 41 ne le prévoit pas, la passe a suivi la formule et le signale ici.
+
+**Commune, règle 41.d.** Blagnac et Muret, déjà sondées (passes 41 et précédentes), n'ont rien rendu de publiable. Descente à **Plaisance-du-Touch** (21 079 habitants), la plus peuplée restante sans fiche après ces deux communes.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, 2 100 opérateurs relus. Pour Plaisance-du-Touch : une exploitation agricole en vente aux professionnels, une boulangerie et des préparateurs hors sujet, un magasin de distribution en grande surface, un point de vente bio sans vente déclarée aux particuliers, et une ou deux entrées au nom de personnes physiques (écartées, non nommées).
+- Recherche web : des fermes et un magasin bio sont signalés à Plaisance-du-Touch (points de vente à la ferme, marché paysan d'un domaine, magasin bio d'une enseigne), mais aucun n'a de site officiel ou de source indépendante à jour. Le magasin bio affiche ses horaires sur son compte Instagram, sans page officielle ; les fermes n'ont que des fiches d'annuaire.
+- Office de tourisme et site de la Ville : non atteints dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée (Blagnac, Muret, Plaisance-du-Touch) ne rend cinq commerces vérifiables avec une source indépendante ; en Plaisance, le magasin bio n'a pas d'horaires officiels, les fermes n'ont pas de site vérifié, et le marché du domaine n'est confirmé par aucune source hors réseaux sociaux (règles 52 et 248).
+
+**Pistes non publiées** (anonymes, Haute-Garonne) :
+- Plaisance-du-Touch, magasin bio d'une enseigne, centre commercial du Bernardet : **Déblocage** : horaires confirmés par une page officielle ou la fiche de la Ville. Motif : horaires seulement sur un compte réseau social.
+- Plaisance-du-Touch, ferme à vente directe, chemin de Bordeneuve (secteur de la Béguère) : **Déblocage** : site ou fiche de l'office de tourisme, et vérification de l'adresse à la Base Adresse Nationale. Motif : seule une fiche d'annuaire, adresse non recoupée.
+- Plaisance-du-Touch, domaine avec marché paysan le vendredi après-midi (chemin des Bastards) : **Déblocage** : source officielle du domaine ou de la Ville. Motif : marché annoncé sur réseau social seulement.
+- Plaisance-du-Touch, maraîchage bio en vente directe, route de Fonsorbes : **Déblocage** : site du producteur ou fiche de l'office. Motif : aucune source indépendante trouvée.
+- Blagnac, deux maraîchages et une association de production en vente directe (registre 2025-2026) : toujours en piste, sans source officielle joignable depuis cet environnement.
+
+**Fiches écartées pour doute sur une personne** : deux, à Plaisance-du-Touch (une exploitation et une enseigne dont l'intitulé comporte un nom de personne), plus celles déjà comptées à Muret. Noms non repris, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Plaisance-du-Touch reste à reprendre si l'office de tourisme ou la Ville répondent ; sinon Blagnac, en commençant par les maraîchers du registre. Le 31 ne sera pas revisité au-delà de cette passe, la formule le donnera de nouveau au plus haut dès que le déficit repasse au-dessus du 59 et du 38. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
