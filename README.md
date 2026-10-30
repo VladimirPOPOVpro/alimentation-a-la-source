@@ -45208,3 +45208,27 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : reprendre Cambrai si les sources ci-dessus répondent ; sinon descendre à Armentières (Nord), puis Lambersart, puis Mons-en-Barœul (règle 247). La réserve de la règle 41.c s'applique : le 59 ne sera pas visé deux passes de suite. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 31 octobre 2026 (quarante-septième) : Rhône (69) visé, Rillieux-la-Pape sondée : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177 et 410.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, outre-mer écarté par la règle 177) et `data/marchands.json` (1 303 fiches). Le Nord (59) est écarté : passe précédente. La Haute-Garonne (31) est tenue pour close par les passes précédentes. Le premier métropolitain restant est le **Rhône (69, déficit ≈ 4,7)**, région 84, éligible puisque la passe précédente visait le Nord (région 32). Le 69 reste ouvert (règle 410) et reprend sa descente.
+
+**Commune, règle 41.d et 247.** Les communes déjà éprouvées dans le 69 (Lyon, Villeurbanne, Vénissieux, Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron, Oullins-Pierre-Bénite, Meyzieu, Villefranche-sur-Saône, Décines-Charpieu) ne sont pas reprises. Commune suivante : **Rillieux-la-Pape** (31 389 habitants).
+
+**Sources lues.**
+- Registre Agence Bio, Rhône, 2 100 opérateurs relus sur la totalité. Dans Rillieux-la-Pape : une seule entrée à vente déclarée aux particuliers, sans enseigne, sans adresse ni horaires exploitables ; les autres entrées sont des distributeurs, préparateurs, restaurants ou entrées sans vente au public.
+- Site officiel de la Ville : injoignable depuis cet environnement (aucune réponse HTTP), comme lors des passes précédentes. Marché de la place du Marché : toujours non confirmé par la Ville.
+
+**Pourquoi rien n'est publié.** Une entrée de registre sans nom ni horaires vérifiables, et un marché non confirmé : Rillieux-la-Pape ne rend pas cinq commerces vérifiables avec une source indépendante à jour (règles 52 et 248). Décines-Charpieu, la commune précédente, ne rend qu'un ou deux points au plus (cf. passe précédente). La descente reprend à la passe suivante.
+
+**Pistes non publiées** (anonymes, Rillieux-la-Pape, Rhône) :
+- Entrée du registre à vente aux particuliers, sans enseigne ni adresse vérifiées : **Déblocage** : nom, adresse et horaires confirmés par le site de l'exploitation ou par un annuaire officiel.
+- Marché de la place du Marché : **Déblocage** : jours, lieu et exposants confirmés par la Ville ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région 84 de suite (règle 41.c). Le 69 reste ouvert : reprendre Rillieux-la-Pape si la Ville répond ; sinon, descendre à la commune suivante par population sans fiche dans le 69 (règle 247). Le verrou du cycle reste le même : la descente ne produit plus de zone de cinq fiches vérifiées depuis plusieurs passes. Ce constat est consigné sans trancher, pour que le responsable du site puisse décider si la règle 41 doit changer.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
