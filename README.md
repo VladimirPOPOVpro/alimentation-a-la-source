@@ -44690,3 +44690,29 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser le 93 si la descente n'a pas repris à Bondy (règle 41.c ne l'interdit pas en soi, mais la passe suivante vise la région qui n'est ni l'Île-de-France ni l'Auvergne-Rhône-Alpes). Reprendre Sevran si la Ville ou un annuaire liste les producteurs du marché ; reprendre Bondy à la lecture de sa page marchés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (vingt-septième) : Rhône (69) repris, Villefranche-sur-Saône sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. La passe précédente visait l'Île-de-France (93) : seule cette région est exclue. Le 31, le 59, le 60, le 42 et le 13 sont clos par la règle 247. Le **69** (Rhône, déficit ≈ 3,2) est le premier département éligible, et sa descente n'a éprouvé que deux communes (Meyzieu, Lyon et les communes déjà sondées mises à part).
+
+**Commune, règle 41.d.** Rhône, descente reprise à **Villefranche-sur-Saône** (36 172 habitants), prochaine commune sans fiche après Meyzieu.
+
+**Vérifications.**
+- Registre Agence Bio, Rhône, code postal 69400 : trois opérateurs, tous en vente aux professionnels uniquement (grossiste, distributeur), aucun point de vente au public.
+- Site officiel de la Ville : injoignable depuis cet environnement (erreur de connexion, réponse nulle). Sa rubrique marchés n'a donc pas pu être lue. C'est la première source à reprendre.
+- Recherche web sur le marché couvert (place du 11-Novembre-1918) : deux agrégateurs se contredisent. L'un donne le lundi, mercredi, vendredi, samedi et dimanche de 8 h à 12 h, l'autre des marchés « tous les samedis matins » et un emplacement « place des Arts ». **Contradiction consignée** : règle 9, rien ne se publie sur un horaire ou un lieu contesté.
+- Annuaire de producteurs en circuit court (jours-de-marche.fr, page de la commune) : aucune entrée localisée à Villefranche-sur-Saône elle-même ; les producteurs listés sont dans les communes voisines.
+- Bienvenue à la Ferme : aucun adhérent trouvé à Villefranche dans les résultats.
+- Aucune AMAP ni magasin de producteurs repéré à Villefranche.
+
+**Pourquoi rien n'est publié.** Le marché couvert est la seule piste sérieuse, mais ses horaires et son lieu sont contestés entre deux sources, et la source institutionnelle n'a pas pu être lue. Une Biocoop de la zone de La Sauvagère est un commerce bio généraliste en franchise, écartée au titre de la règle sur les commerces généralistes ; une épicerie bio « Comptoir Bio du Beaujolais » n'a ni adresse ni fonctionnement vérifiés. Le groupement de cinq fiches sur une même commune n'est pas atteint (règle 52).
+
+**Pistes non publiées (anonymes, Rhône).** Villefranche-sur-Saône : marché couvert (place du 11-Novembre-1918 selon un répertoire, « place des Arts » selon un autre ; horaires contradictoires, à reprendre sur le site de la Ville) ; épicerie bio « Comptoir Bio du Beaujolais » (adresse et activité à retrouver) ; une enseigne bio en zone commerciale, écartée comme généraliste.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 69 reste ouvert et la descente reprend à **Villefranche-sur-Saône** par le site de la Ville, dès qu'il répond, puis à Rillieux-la-Pape et Décines-Charpieu. Le 69 ne peut pas être visé à la passe suivante (règle 41.c, même région) : celle-ci prend donc un département hors Auvergne-Rhône-Alpes, selon le classement du moment.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
