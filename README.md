@@ -44640,3 +44640,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Fiches écartées pour doute sur une personne.** Une cette passe (Épinay-sur-Seine), sans nom consigné.
 
 **Points d'arrêt.** Passe suivante : ne pas viser le 93 (règle 41.c). Le 59 et le 31 restent soumis à leurs règles de déblocage (règle 247). Reprendre Épinay si la Ville publie les horaires de la Briche avec les producteurs.
+
+### Passe autonome du 30 octobre 2026 (vingt-cinquième) : Isère (38) reprise, Bourgoin-Jallieu : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total : 1 303 fiches. Aucune fiche publiée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (97x et 98x écartés, règle 177), populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement : Haute-Garonne (31, ≈ 4,9), Nord (59, ≈ 4,6), Oise (60, ≈ 3,7), Loire (42, ≈ 3,7), Isère (38, ≈ 3,6). Le 31, le 59, le 60 et le 42 sont clos par la règle 247. La passe précédente visait l'Île-de-France : seule cette région est exclue (règle 41.c). Le **38** est donc le premier département ouvert.
+
+**Commune, règle 41.d.** Isère, descente déjà entamée : Vienne, Bourgoin-Jallieu, Fontaine, Voiron, Villefontaine, Meylan, Seyssinet-Pariset, L'Isle-d'Abeau et Saint-Égrève ont été sondées sans zone. Bourgoin-Jallieu est reprise, comme le prévoyait la note du 25 octobre ; elle compte une fiche publiée (La Halle Paysanne).
+
+**Vérifications.**
+- Site de la Ville de Bourgoin-Jallieu (rubrique marchés) : la page répond, mais elle est protégée par un défi JavaScript qui bloque la lecture depuis cet environnement. Aucune liste de marchés ni d'exposants producteurs n'a pu être relue.
+- Office de tourisme de l'agglomération (CAPI) : site indisponible (erreur 503) pendant cette passe.
+- Bienvenue à la Ferme, fiche de la commune : accès refusé (403).
+- Registre des entreprises, recherche sur une enseigne de la commune : aucun résultat à cette requête, pas d'établissement à croiser.
+- Registre Agence Bio et pistes déjà relevées : rien de nouveau ne s'ajoute à la liste du 25 octobre.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Bourgoin-Jallieu ne dispose de deux sources indépendantes lisibles à ce jour. Les trois marchés restent sans source institutionnelle lisible ; le point de vente déjà publié ne suffit pas à lui seul. Règle 52 : rien ne se publie partiellement pour atteindre le seuil.
+
+**Pistes non publiées (anonymes, Isère).** Bourgoin-Jallieu : Mon Bio Panier ; marché du jeudi ; marché du dimanche ; marché bio du vendredi (horaires et lieux à confirmer sur une source de la Ville). Une entrée de vente directe au nom d'une personne physique : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Isère (38) reste ouverte, mais la descente compte maintenant onze communes sondées sur la borne de douze (règle 247). Reprendre Bourgoin-Jallieu uniquement si la page marchés de la Ville devient lisible, ou si l'office de tourisme CAPI revient. Sinon, la prochaine commune sans fiche par population se recalcule au moment de la passe ; la borne de douze atteinte, l'Isère se ferme et la passe change de département.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
