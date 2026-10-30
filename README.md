@@ -45134,3 +45134,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Plaisance-du-Touch reste à reprendre si l'office de tourisme ou la Ville répondent ; sinon Blagnac, en commençant par les maraîchers du registre. Le 31 ne sera pas revisité au-delà de cette passe, la formule le donnera de nouveau au plus haut dès que le déficit repasse au-dessus du 59 et du 38. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarante-quatrième) : Nord (59) visé, Wattrelos, Marcq-en-Barœul et Coudekerque-Branche sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours`, inchangée ; aucun message envoyé.
+
+**Secteur, règles 41, 93 et 177.** Calcul sur `geo.api.gouv.fr` et `data/marchands.json` (1 303 fiches). Les départements 971 à 976 et 987-988 sont écartés par la règle 93 (hors du cadre de `lib/validateMerchants.ts`). La passe précédente visait le 31 ; la règle des deux passes de suite écarte donc le 31 (déficit ≈ 4,8). Premier métropolitain restant : **Nord (59), déficit ≈ 4,4**, avec 45 fiches publiées.
+
+**Commune, règle 41.d.** Dans le 59, la commune la plus peuplée sans aucune fiche est **Wattrelos** (40 847 hab.). Descente dans l'ordre de population : Marcq-en-Barœul (40 184), puis Coudekerque-Branche (20 787).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, 1 300 opérateurs relus. Pour Wattrelos : un ESAT en maraîchage avec vente aux particuliers déclarée (établissement d'association, sans site de vente vérifié), une grande surface, un magasin de gros et une entrée au nom d'une personne physique (écartée, non reprise). Aucun magasin de producteurs ni AMAP.
+- Recherche web sur Wattrelos : seuls des magasins bio de réseaux nationaux sont listés (horaires non vérifiés), et aucun marché de producteurs. Attention : **wattrelos.fr n'est pas le site officiel de la Ville** (il se présente comme un site commercial privé) ; il ne compte donc pas comme source de commune.
+- Marcq-en-Barœul : registre sans vente aux particuliers exploitable ; recherche web : deux magasins bio de réseaux nationaux, horaires non confirmés, et un marché mentionné sans source officielle.
+- Coudekerque-Branche : un magasin bio de réseau national (registre « magasin spécialisé bio », même adresse que la Biocoop locale, route de Bergues) et un magasin bio indépendant signalé fermé au moment de la consultation sur un annuaire ; rien d'autre de publiable. Le site officiel de la Ville n'a pas été atteint dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables avec une source indépendante à jour ; la descente vers Cambrai ou Lambersart n'a pas été faite dans cette passe, faute de temps d'enquête, et doit venir à la suivante (règles 52 et 248).
+
+**Pistes non publiées** (anonymes, Nord) :
+- Wattrelos, ESAT en maraîchage avec vente aux particuliers (registre) : **Déblocage** : horaires et lieu de vente confirmés par l'établissement ou la Ville. Motif : vente déclarée au registre seulement.
+- Coudekerque-Branche, magasin bio route de Bergues (réseau national) : **Déblocage** : horaires confirmés sur la page officielle de l'enseigne. Motif : horaires seulement sur un annuaire tiers.
+- Halluin, AMAP de la Lys (association, site et réseaux sociaux repérés dans le registre) : **Déblocage** : lieu et jour de distribution confirmés par l'association. Motif : aucune source de distribution vérifiée.
+
+**Fiches écartées pour doute sur une personne :** une, à Wattrelos (entrée au nom d'une personne physique, commerce de gros). Nom non repris, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur le 31 ni sur le 60 (passes précédentes). Dans le 59, reprendre Wattrelos ou Marcq-en-Barœul seulement si une source officielle (site de la Ville, office de tourisme) est trouvée ; sinon sonder Cambrai (31 134 hab.), Lambersart et Armentières, puis Mons-en-Barœul. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
