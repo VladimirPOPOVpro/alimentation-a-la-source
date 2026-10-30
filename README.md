@@ -44919,3 +44919,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser la région 84 de suite (règle 41.c). Le 69 reprendra à Rillieux-la-Pape quand le site de la Ville répondra, puis à Décines-Charpieu. Si la descente se ferme (règle 247), la passe prend le département suivant du classement hors régions 76 et 84.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (trente-sixième) : Haute-Garonne (31) reprise, Blagnac sondée à nouveau : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, fiches comptées sur le code postal, outre-mer exclu. La passe précédente visait le Rhône (69, région 84) : la région 84 est exclue, la Haute-Garonne (31, région 76) reste éligible et en tête du classement hors outre-mer.
+
+**Commune, règle 248.** Blagnac (27 604 habitants) reste la plus peuplée sans fiche.
+
+**Vérifications.**
+- Site de la Ville de Blagnac : aucune réponse HTTP depuis cet environnement, comme aux passes précédentes.
+- Site de la Ville de Muret : aucune réponse non plus.
+- Registre Agence Bio, Haute-Garonne, première page (100 opérateurs sur l'ensemble du département, pagination non poursuivie cette passe) : les entrées de Toulouse et de Cornebarrieu sont déjà couvertes par des fiches ; aucune entrée de Blagnac ni de Muret avec vente au public.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Blagnac n'est vérifiable sur une source indépendante lue cette passe : la Ville est injoignable et le registre ne rattache aucun point de vente public à la commune. La zone de cinq fiches vérifiées n'est pas atteinte (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Haute-Garonne).** Blagnac : marchés signalés par un annuaire de 2015 (place des Arts, place des Marronniers), à reconfirmer auprès de la Ville dès que son site répond.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Ce cycle ne produit plus de fiches depuis trente-six passes : Haute-Garonne et Rhône alternent sans commune qui rende cinq commerces vérifiables. Passe suivante : la région 76 ne doit pas être visée de suite (règle 41.c). Si la descente de Blagnac reste fermée, la passe suivante prend le département suivant du classement hors régions 76 et 84.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
