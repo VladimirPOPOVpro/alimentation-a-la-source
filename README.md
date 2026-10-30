@@ -44795,3 +44795,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : la région 76 (Occitanie) est exclue ; le 34 se reprend à la passe d'après, en descente depuis Mèze (ou Frontignan-Sète si la descente est close, règle 247). Le 69 et l'Isère restent exclus ou clos selon le classement.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (trente et unième) : Rhône (69) repris, Villefranche-sur-Saône relue : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement recalculé : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 6,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6) : les quatre premiers sont clos ou épuisés, comme les passes précédentes l'ont noté. La passe précédente visait l'Hérault (34, région 76) : la région 76 est exclue, le 69 (région 84) est donc éligible.
+
+**Commune, règle 41.d.** Rhône, descente reprise à **Villefranche-sur-Saône** (36 172 habitants), la rubrique marchés de la Ville étant cette fois lisible.
+
+**Vérifications.**
+- Site de la Ville : la fiche « Le Marché Couvert » donne les jours et horaires du marché (lundi, mercredi, vendredi, samedi et dimanche, de 7 h à 12 h 30) et cite des familles de commerces (épicerie fine, primeur, boulangerie, charcuterie, boucherie, poissonnerie, traiteur, pâtisserie, fleuriste), sans nommer un seul commerçant.
+- Page « Le Marché Couvert, cœur économique caladois » (décembre 2025) : réouverture après travaux, horaires identiques, aucun commerçant nommé.
+- Page « La vie commerçante en Calade » : présente l'association des commerçants du centre-ville, sans liste d'adhérents.
+- Recherche web : des sources annuaires donnent des nombres de commerçants contradictoires (plus de 80, plus de 100, 43 étals), et aucune liste nommée recoupée par une seconde source indépendante. Le jour et l'horaire du marché bio du samedi ne sont attestés que par un agrégateur.
+- Registre Agence Bio, Rhône : quatre entrées à Villefranche, toutes en vente aux professionnels seulement ou sans vente au public. Écartées.
+
+**Pourquoi rien n'est publié.** La Ville vérifie le lieu et ses horaires, mais aucun commerçant n'est nommé par une source institutionnelle ni par le commerce lui-même. Une fiche de lieu seule ne suffit pas à atteindre la zone de cinq fiches vérifiées (règles 52 et 248). Les sources annuaires se contredisent sur le nombre d'étals : rien ne se publie sur ce fait contesté (règle 5).
+
+**Pistes non publiées (anonymes, Rhône).** Villefranche-sur-Saône : marché couvert, horaires officiels lus, commerçants à identifier un par un sur leurs propres sites ; marché bio du samedi, une dizaine de producteurs, à confirmer par la Ville ; association des commerçants du centre, liste d'adhérents à demander au site de l'association.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 69 ne peut pas être visé de suite si la région 84 est retenue à la passe précédente (règle 41.c). Si le 69 est revisité, la descente reprend à Rillieux-la-Pape (31 389 habitants), puis Décines-Charpieu.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
