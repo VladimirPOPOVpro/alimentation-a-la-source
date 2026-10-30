@@ -44773,3 +44773,25 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 69 reste ouvert et la descente reprend à Villefranche-sur-Saône dès que la rubrique marchés de la Ville devient lisible, puis à Rillieux-la-Pape. Le 69 ne peut pas être visé à la passe suivante (règle 41.c, même région) : elle prend donc le premier département hors Auvergne-Rhône-Alpes du classement.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (trentième) : Hérault (34) reprise, Mèze sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée. Total inchangé : 1 303 fiches. Aucune fiche ajoutée, aucune retirée, aucun email envoyé.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Classement : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 6,0), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6), Yvelines (78, ≈ 4,2) : tous clos ou exclus. La passe précédente visait le Rhône (69, Auvergne-Rhône-Alpes) : la région est exclue. Le premier département ouvert est l'**Hérault (34, déficit ≈ 4,23)**, région 76, non visée la passe d'avant.
+
+**Commune, règle 41.d.** L'Hérault est en descente. Les communes déjà instruites (Montpellier, Mauguio, Agde, Lunel) n'ont pas donné de fiche. Le point d'arrêt désigne **Mèze**, instruite cette passe.
+
+**Vérifications.**
+- Registre Agence Bio, Hérault, cent premiers opérateurs, filtrés sur Mèze : quatre entrées, aucune en vente directe aux particuliers (une grossiste, deux sans vente, une en vente aux professionnels seulement). Écartées.
+- Recherche web : seul un annuaire de producteurs en circuit court (locavor, « 110 producteurs à moins de 100 km de Mèze ») et une entrée de cartographie sans fiche de commerce identifiée. Aucun commerçant de Mèze n'est confirmé par une source institutionnelle ou par le commerce lui-même.
+
+**Pourquoi rien n'est publié.** Pas cinq commerces vérifiables à Mèze, ni même un. La zone de cinq fiches n'est pas atteinte (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Hérault).** Mèze : marché hebdomadaire signalé par une entrée de cartographie, jour et lieu non confirmés par la Ville ; annuaire de producteurs en circuit court à reprendre commerçant par commerçant.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 76 (Occitanie) est exclue ; le 34 se reprend à la passe d'après, en descente depuis Mèze (ou Frontignan-Sète si la descente est close, règle 247). Le 69 et l'Isère restent exclus ou clos selon le classement.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
