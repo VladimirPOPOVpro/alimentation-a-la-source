@@ -45180,3 +45180,31 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas revenir sur le 59 avant la passe qui suit celle-ci (règle 41.c). Dans le 31, Blagnac et Muret ne se reprendront que si leurs sites officiels répondent ; sinon, passer à Castanet-Tolosan (15 317 habitants, site en redirection) puis à Saint-Orens-de-Gameville. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarante-sixième) : Nord (59) visé, Cambrai sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle » : rien à traiter, aucun message envoyé.
+
+**Secteur, règles 41, 93 et 41.c.** Calcul sur `geo.api.gouv.fr` (68,9 M d'habitants) et `data/marchands.json` (1 303 fiches). En tête : La Réunion (974) et les autres départements d'outre-mer, écartés par `lib/validateMerchants.ts` (règle 93). La passe précédente visait la Haute-Garonne (31) : la réserve de la règle 41.c écarte donc le 31. Premier métropolitain restant : le **Nord (59, déficit ≈ 4,4)**, dont la visite de la passe quarante-quatrième est ancienne d'une passe. Le Nord est donc visé.
+
+**Commune, règle 41.d.** Dans le 59, la commune la plus peuplée sans aucune fiche est **Cambrai** (31 134 habitants). Le registre Agence Bio du Nord (1 400 opérateurs relus) y compte 25 entrées, presque toutes des distributeurs, préparateurs ou entrepôts ; les entrées à vente aux particuliers se réduisent à un magasin bio du réseau national, une épicerie-traiteur et une entrée logistique. Le site officiel de la Ville n'a pas pu être atteint pour les marchés : seule une source touristique tierce donne des jours de marché, sans lieu ni horaires.
+
+**Ce qui a été lu.**
+- Une exploitation maraîchère avec magasin de la ferme (registre Que Choisir, adresse, téléphone, horaires et produits). Son site propre existe et répond, mais n'affiche ni adresse, ni téléphone, ni horaires. **Non publiée** : le nom de l'exploitation doit être recoupé avant d'être repris, car il pourrait être celui d'une famille (règle de doute sur une personne).
+- Un magasin bio d'un réseau coopératif national, en centre commercial : adresse et téléphone recoupés par un annuaire tiers ; horaires seulement sur un annuaire, non confirmés sur la page officielle de l'enseigne. Catégorie « magasin bio » possible, mais un seul point vérifié ne fait pas une passe.
+- Un magasin bio et une épicerie d'enseignes sans horaires vérifiés ; une enseigne africaine signalée bio (catégorie douteuse, non retenue).
+- Une coopérative agricole de distribution (magasin d'approvisionnement, hors catégories de la carte) : écartée.
+- Aucune AMAP ni aucun point de producteurs trouvé pour le Cambrésis dans les sources lues. Bienvenue à la Ferme : rien à Cambrai.
+
+**Pourquoi rien n'est publié.** Une seule exploitation et un seul magasin bio recoupés ne rendent pas cinq commerces vérifiables (règles 52 et 248). Le descente de la règle 41.d reprend à la passe suivante.
+
+**Pistes non publiées** (anonymes, Cambrai, Nord) :
+- Exploitation maraîchère avec magasin de la ferme, centre-ville : **Déblocage** : confirmation de l'horaire et de l'adresse par le site propre de l'exploitation, et reprise du nom une fois écarté tout doute sur une personne. Motif : site sans horaires, nom à vérifier.
+- Magasin bio d'un réseau national, en centre commercial : **Déblocage** : horaires vérifiés sur la page officielle de l'enseigne. Motif : horaires sur un annuaire tiers seulement.
+- Marché de Cambrai : **Déblocage** : jours, lieu et horaires confirmés par la Ville ou l'office de tourisme. Motif : source tierce seulement.
+
+**Fiches écartées pour doute sur une personne :** une, à Cambrai (exploitation dont l'intitulé pourrait reprendre un nom de famille). Nom non repris, ne se rouvre pas tant que le doute n'est pas levé.
+
+**Points d'arrêt.** Passe suivante : reprendre Cambrai si les sources ci-dessus répondent ; sinon descendre à Armentières (Nord), puis Lambersart, puis Mons-en-Barœul (règle 247). La réserve de la règle 41.c s'applique : le 59 ne sera pas visé deux passes de suite. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
