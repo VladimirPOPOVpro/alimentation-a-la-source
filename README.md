@@ -44968,3 +44968,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : la région 84 (Auvergne-Rhône-Alpes) ne doit pas être visée de suite (règle 41.c). Le 69 reste ouvert (règle 410) : reprendre Décines-Charpieu à la page de la Ville quand elle répond, puis la commune suivante par population sans fiche si la descente reste incomplète. Si le 69 se ferme (règle 247), la passe prend le département suivant du classement hors régions 76 et 84.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (trente-huitième) : Haute-Corse (2B) reprise, Bastia sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, fiches comptées sur le code postal, outre-mer exclu. La passe précédente visait le Rhône (69, région 84) : la région 84 est exclue. Classement recalculé : 31 (≈ 4,81, clos), 59 (≈ 4,43, clos), 60 et 42 (clos), 38 (clos), puis **2B (Haute-Corse, ≈ 3,54, région 94)**, premier département éligible hors régions 84. Le 2B reprend à Bastia, comme le prévoyait la passe du 29 octobre (sixième).
+
+**Vérifications.**
+- Sites de la Ville de Bastia (bastia.fr, ville-bastia.fr) et de la Ville de Rillieux-la-Pape : aucune réponse depuis cet environnement (délai dépassé).
+- Recherche web, marché de Bastia : un marché de producteurs se tient le week-end, le matin, sur la place de l'Hôtel de Ville (quartier de la Terra Vecchia), selon un guide touristique non daté. Aucun horaire précis ni confirmation 2026 n'a été trouvé. Le numéro de l'office de tourisme cité par une fiche régionale n'a pas été recoupé sur le site de l'office.
+- Registre Agence Bio, 2B : relu lors de la passe du 29 octobre (sixième), aucune nouvelle entrée de vente au public à Bastia identifiée depuis.
+
+**Pourquoi rien n'est publié.** Le marché de producteurs est attesté, mais ses horaires ne sont confirmés par aucune source officielle lue, et les commerces bio candidats n'ont pas de page de l'enseigne ou de la Ville qui les liste. Aucune fiche n'atteint le seuil de cinq commerces vérifiés (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Haute-Corse).**
+- Bastia, marché de producteurs de la place de l'Hôtel de Ville : horaires du week-end à obtenir de la Ville ou de l'office de tourisme (règle 9).
+- Bastia, enseigne bio du réseau spécialisé : adresse, horaires et site à confirmer sur le localisateur de l'enseigne.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la région 94 ne doit pas être visée de suite si la descente de Bastia reste fermée ; ne pas viser la région 84 (règle 41.c). Reprendre Bastia à la rubrique marchés de la Ville quand elle répond, sinon passer à la commune suivante de la descente (règle 247).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
