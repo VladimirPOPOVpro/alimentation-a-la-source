@@ -44896,3 +44896,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : la région 76 (Occitanie) ne doit pas être visée de suite. Reprendre Blagnac à la rubrique marchés du site de la Ville quand il répond ; sinon passer au département suivant du classement hors régions 76 et 84.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (trente-cinquième) : Rhône (69) reprise, Rillieux-la-Pape relue : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en `en_cours` (#13) reste inchangée : doute sur une personne, rien publié, aucun message envoyé. Total inchangé : 1 303 fiches.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, populations `geo.api.gouv.fr`, fiches comptées sur le code postal, outre-mer exclu. Déficits : Rhône (69, ≈ 4,71), Hérault (34, ≈ 4,23), Val-de-Marne (94, ≈ 4,10), Ille-et-Vilaine (35, ≈ 4,07). La passe précédente visait la Haute-Garonne (31, région 76) : la région 76 est exclue, le 69 (région 84) reste éligible. Le 69 reprend sa descente à **Rillieux-la-Pape** (31 389 habitants) : les communes qui précèdent (Lyon, Villeurbanne, Vénissieux, Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron, Oullins-Pierre-Bénite, Meyzieu, Villefranche-sur-Saône) sont déjà éprouvées (règle 247).
+
+**Vérifications.**
+- Site officiel de la Ville (rillieux.fr) : toujours injoignable (aucune réponse depuis cet environnement), et la page n'a pas pu être chargée dans le navigateur intégré.
+- Recherche web : aucun marché de producteurs ni AMAP localisé à Rillieux-la-Pape. Les seules sources citent des enseignes de commerce bio, sans liste de produits ni d'exposants : une enseigne à l'avenue de l'Hippodrome (vente au public contredite par le registre Agence Bio, déjà consignée à la passe précédente), une Biocoop sans adresse vérifiée, et une enseigne de distribution à l'adresse du chemin de Rosarge, catégorie non établie.
+- Registre Agence Bio, Rhône : non repaginé cette passe ; la lecture de la passe précédente est reprise telle quelle.
+
+**Pourquoi rien n'est publié.** Aucune source officielle lue, aucune liste de commerçants ni de produits vérifiée, des enseignes sans catégorie établie. La zone de cinq fiches vérifiées n'est pas atteinte (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Rhône).**
+- Rillieux-la-Pape, marché de la place du Marché : toujours à confirmer par la Ville ; produits et exposants à identifier sur son site dès qu'il répond.
+- Rillieux-la-Pape, enseigne de distribution du chemin de Rosarge : catégorie et vente au public à établir sur une source de l'enseigne.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région 84 de suite (règle 41.c). Le 69 reprendra à Rillieux-la-Pape quand le site de la Ville répondra, puis à Décines-Charpieu. Si la descente se ferme (règle 247), la passe prend le département suivant du classement hors régions 76 et 84.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : aucun lint ni build n'est relancé.
