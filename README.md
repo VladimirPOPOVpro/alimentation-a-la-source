@@ -45077,3 +45077,32 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Blagnac reste à reprendre si l'association et les maraîchers répondent ; sinon Plaisance-du-Touch. Le verrou structurel reste la validation des coordonnées ultramarines.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarante-deuxième) : Oise (60) visée, Nogent-sur-Oise sondée, Senlis effleurée : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien publié, aucun message envoyé.
+
+**Secteur, règles 41 et 177.** Calcul refait sur `geo.api.gouv.fr` et `data/marchands.json` (1 303 fiches ce jour). En tête : La Réunion (974) puis les autres départements d'outre-mer, écartés par `lib/validateMerchants.ts` (règle 177). Parmi les métropolitains, le 31 est exclu (passe précédente, même région 76). Le 59 et le 38 sont clos ou éprouvés (règle 247). **L'Oise (60), déficit ≈ 3,7**, région 32, est retenue.
+
+**Commune, règle 41.d.** Nogent-sur-Oise (21 907 hab.) est la commune la plus peuplée du 60 sans aucune fiche (Beauvais, Compiègne et Creil en ont déjà).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, 500 opérateurs relus. À Nogent-sur-Oise : deux enseignes de distribution et un préparateur, hors sujet ; une entrée en vente aux particuliers au nom d'une personne physique (non nommée, écartée pour doute sur une personne).
+- Jours-de-Marché.fr, producteurs : aucun producteur situé à Nogent même ; les plus proches (ferme à Cauffry, ferme de Folemprise déjà publiée à Saint-Vaast-lès-Mello) sont hors commune.
+- Acheter à la Source : apiculteurs, éleveurs et maraîchers listés autour de Nogent, à 2 à 20 km, hors commune.
+- Site de la Ville (`nogentsuroise.fr`) : bloqué par une vérification anti-robot depuis cet environnement. Source officielle non lue.
+- Office de tourisme Creil Sud Oise et annuaires : le marché de la Place des Trois Rois se tient le vendredi après-midi, avec deux horaires différents (13 h 30 ou 14 h à 19 h), et un « Petit Marché » le troisième jeudi du mois, daté d'il y a deux ans.
+- Recherche web : épiceries généralistes sur la place (supérette, épicerie exotique, boucherie-épicerie, commerce anti-gaspillage), aucune bio ni locale. Un magasin qui revendique local et bio existe rue du Général-de-Gaulle, sans source de producteur vérifiée.
+
+**Pourquoi rien n'est publié.** Nogent-sur-Oise ne rend qu'un marché vérifiable à moitié (horaires contradictoires, source officielle inaccessible) et aucun commerce de circuit court dans la commune : loin des cinq fiches (règles 52 et 248). La descente vers Senlis (15 157 hab.) n'a donné à ce stade aucun commerce vérifié dans la commune : la Biocoop est à Chamant, les fermes citées sont à Guiscard, Rousseloy et Saint-Vaast-lès-Mello, et une boutique bio du centre n'a pas de source à jour. Senlis est donc seulement effleurée, pas éprouvée.
+
+**Pistes non publiées** (anonymes, Oise) :
+- Nogent-sur-Oise, marché de la Place des Trois Rois (vendredi après-midi) : **Déblocage** : horaires confirmés par la Ville, site officiel joignable. Motif : deux horaires contradictoires, une seule fiche isolée (règle 248).
+- Nogent-sur-Oise, magasin revendiquant produits locaux et bio, rue du Général-de-Gaulle : **Déblocage** : registre d'entreprises et une source de producteurs. Motif : aucune source d'activité à jour.
+- Senlis, boutique bio du centre (rue Fautrat) : **Déblocage** : site ou fiche à jour. Motif : activité non confirmée.
+
+**Fiches écartées pour doute sur une personne :** une, à Nogent-sur-Oise (vente aux particuliers au nom d'une personne physique). Nom non repris, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur le 31 (même région que cette passe-ci et la passe précédente). Dans le 60, reprendre Senlis (commune suivante de la descente, 15 157 hab.) en commençant par le site de la Ville et le registre Agence Bio, et Nogent-sur-Oise seulement si la Ville répond. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
