@@ -45050,3 +45050,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 67 reste à viser avec la commune suivante de la descente (Ostwald, 13 946 habitants, 0 fiche) ou, si la Ville de Schiltigheim répond, reprendre Schiltigheim au point 1 de la liste ci-dessus. La question de la divergence du classement de déficit (59 ou 31 en tête) reste à arbitrer par le responsable du site.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarante-et-unième) : Haute-Garonne (31) visée, Blagnac et Muret sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (n° 13, Var, producteur) : doute sur une personne, inchangée, rien publié, aucune réponse envoyée.
+
+**Secteur, règles 41 et 247.** Le calcul de déficit a été refait à partir de `geo.api.gouv.fr` et de `data/marchands.json`. En tête : La Réunion (974) puis les autres départements d'outre-mer. Ils sont écartés de fait : `lib/validateMerchants.ts` refuse leurs coordonnées (règle 93, lever le verrou relève du code, hors périmètre). Le premier département métropolitain est donc la Haute-Garonne (31), déficit ≈ 4,8. La passe précédente visait le Bas-Rhin (67), région 44 ; la Haute-Garonne est en région 76, la réserve est respectée.
+
+**Commune.** Dans le 31, la plus peuplée sans fiche est **Blagnac** (27 604 habitants). Toulouse, Colomiers, Tournefeuille, Cugnaux et les autres communes déjà publiées sont hors calcul. Blagnac ne rend pas cinq commerces vérifiables. Descente à **Muret** (26 079 habitants) ; Plaisance-du-Touch (21 079 habitants) n'a pas été relue dans le registre cette passe, faute de temps.
+
+**Registre Agence Bio, Haute-Garonne, 2 100 opérateurs relus sur la totalité.**
+- Blagnac : huit opérateurs déclarent une vente aux particuliers. Un boulangerie-pâtisserie et un restaurant hors sujet. Les autres sont des entités à vérifier.
+- Muret : treize opérateurs déclarent une vente aux particuliers, dont onze sont inscrits au nom d'un particulier ou d'un patronyme (EARL comprise). Écartés pour doute sur une personne, non nommés ici.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Blagnac, exploitation maraîchère en vente directe (registre, mise à jour en 2025) : site officiel renvoyant 403 depuis cet environnement ; l'enseigne commerciale contient un prénom. Doute sur une personne : écartée, non publiée.
+- Blagnac, maraîchage en vente directe (registre, mise à jour en 2025) : aucun site officiel vérifiable depuis cet environnement ; source insuffisante, reste en piste.
+- Blagnac, association de production et de vente (registre, mise à jour en 2026) : site officiel injoignable (délai dépassé) ; reste en piste, sans fiche.
+- Blagnac, point de vente sans site, dernière mise à jour du registre en 2023 : activité non confirmée, écartée.
+- Balma, Castanet-Tolosan et Fonsorbes : relues au registre seulement. Quelques entités à Castanet-Tolosan (une ferme, un point de vente bio) restent à vérifier sur leurs sites ; cinq commerces vérifiables non atteints dans la commune retenue.
+
+**Fiches écartées pour doute sur une personne** : onze, à Muret, toutes inscrites au nom de particuliers ou d'un patronyme ; une, à Blagnac, dont l'enseigne contient un prénom. Nombre seulement, aucun nom.
+
+**Contradiction consignée.** La section « Passe … (trente-neuvième) » et les suivantes annoncent 1 271 à 1 274 fiches ; `data/marchands.json` en contient 1 303 à ce jour. Les compteurs du README ne sont pas à jour. À reprendre au prochain passage où une fiche sera publiée.
+
+**Points d'arrêt.** Passe suivante : Blagnac reste à reprendre si l'association et les maraîchers répondent ; sinon Plaisance-du-Touch. Le verrou structurel reste la validation des coordonnées ultramarines.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
