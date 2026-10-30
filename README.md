@@ -44617,3 +44617,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser le 69 (règle 41.c). Le 59 redevient le département en tête ; la reprise de Wattrelos attend un déblocage nommé dans les pistes. Si le 69 est revisité, la descente reprend à Meyzieu par le site de la Ville.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc aucun lint ni build n'est relancé.
+
+### Passe autonome du 30 octobre 2026 (vingt-quatrième) : Seine-Saint-Denis (93) visée, Épinay-sur-Seine sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande au statut « nouvelle ». Aucun message envoyé.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Le 59 (Nord) reste en tête mais la descente y est épuisée (règle 247, Wattrelos sans déblocage nommé). Le 13 a déjà épuisé sa descente (Aubagne, Istres, Salon-de-Provence, La Ciotat, Vitrolles). Le 69 vient d'être visé à la passe précédente, et le 38 est de la même région. Le 93 (Seine-Saint-Denis) est donc le premier département éligible.
+
+**Commune, règle 41.d.** Dans le 93, les communes sans fiche déjà éprouvées (Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny) sont écartées. La plus peuplée restante est **Épinay-sur-Seine (52 833 hab.)**.
+
+**Vérifications.**
+- Registre Agence Bio, Seine-Saint-Denis, 447 opérateurs lus (pagination de cent). Épinay-sur-Seine : quelques enseignes de grande distribution, une SCIC de distribution, une entrée de vente aux particuliers sous nom de personne (écartée pour doute sur une personne), une entreprise de préparation sans point de vente.
+- Recherche au registre des entreprises : le Comptoir Dionysien (rue des Acacias, Épinay-sur-Seine) est actif, mais son activité publique est la vente en gros aux magasins (coordination de ventes en circuit court), pas un point de vente ouvert au public. Écarté faute de lieu de vente.
+- Une entreprise « Les 3 Poireaux » apparaît au registre avec une adresse à Saint-Ouen-sur-Seine, non à Épinay. Contradiction consignée, non publiée.
+- Marché de la Briche (avenue de la République) : les horaires diffèrent selon les documents municipaux (2015 : mercredi et samedi, 7 h – 13 h ; 2021 : samedi, 7 h 30 – 12 h 30) et Jours-de-marché.fr n'en recense qu'un. Aucune liste de producteurs à jour. Règle 9 : rien ne se publie sur un horaire contesté.
+- Site de la Ville (epinay-sur-seine.fr) : répond, mais la page des marchés n'a pas été relue dans cette passe.
+
+**Pourquoi rien n'est publié.** Épinay-sur-Seine ne rend aucun commerce vérifiable sur deux sources indépendantes, et la zone de cinq fiches n'est pas atteinte (règle 52). Sous le seuil, la descente passerait à la commune suivante du 93 (Sevran, Stains, Pantin), à reprendre au passage suivant.
+
+**Pistes non publiées (anonymes, Seine-Saint-Denis).** Épinay-sur-Seine : marché de la Briche (horaires à confirmer auprès de la Ville) ; une entreprise de distribution en circuit court, sans point de vente public ; une entrée de vente aux particuliers en nom de personne (écartée, ne se rouvre pas).
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Épinay-sur-Seine), sans nom consigné.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le 93 (règle 41.c). Le 59 et le 31 restent soumis à leurs règles de déblocage (règle 247). Reprendre Épinay si la Ville publie les horaires de la Briche avec les producteurs.
