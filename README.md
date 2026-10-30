@@ -45161,3 +45161,22 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas revenir sur le 31 ni sur le 60 (passes précédentes). Dans le 59, reprendre Wattrelos ou Marcq-en-Barœul seulement si une source officielle (site de la Ville, office de tourisme) est trouvée ; sinon sonder Cambrai (31 134 hab.), Lambersart et Armentières, puis Mons-en-Barœul. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 30 octobre 2026 (quarante-cinquième) : Haute-Garonne (31) visée, Balma et Ramonville sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (n° 13, Var, producteur) : doute sur une personne, inchangée, rien publié, aucune réponse envoyée.
+
+**Secteur, règles 41 et 247.** Calcul refait à partir de `geo.api.gouv.fr` (68,9 M d'habitants, 109 départements) et de `data/marchands.json` (1 303 fiches). En tête : La Réunion (974), puis les autres départements d'outre-mer, écartés par `lib/validateMerchants.ts` (règle 93). Premier métropolitain : le Nord (59, déficit 4,4), exclu par la réserve de la règle 41.c (passe précédente). Ensuite la Haute-Garonne (31, déficit 4,8), sans fiche dans Toulouse Métropole hors Toulouse, Colomiers, Tournefeuille, Cugnaux et Saint-Jean.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) et Muret (26 079) ont été reprises : leurs sites officiels ne répondent pas depuis cet environnement (échec de connexion), et le registre n'y donne aucun point de vente vérifiable. Plaisance-du-Touch a été sondée à la passe précédente. Descente à **Balma** (17 772 habitants) : la page d'accueil du site de la Ville n'annonce aucun marché ni producteur ; le registre Agence Bio, lu sur 2 100 opérateurs du département, ne donne que des enseignes sans vente au public ou des entrées au nom de personnes physiques. **Ramonville-Saint-Agne** (15 158 habitants) : le site de la Ville mentionne ses marchés publics, sans liste de commerçants ; le registre ne donne aucun point de vente vérifié.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables avec une source indépendante. Les rares entrées du registre avec vente aux particuliers sont soit des boulangeries ou des pâtisseries (hors catégories), soit des enseignes portant un prénom (écartées pour doute sur une personne), soit des horaires lus seulement sur des comptes de réseaux sociaux.
+
+**Pistes non publiées** (anonymes, Haute-Garonne) :
+- Balma, deux ou trois entrées du registre à vente au public (une cave et des enseignes de restauration) : **Déblocage** : catégorie compatible avec la carte, et horaires confirmés par l'établissement. Motif : pas de source officielle sur les horaires.
+- Saint-Orens-de-Gameville, boucher bio à enseigne portant un prénom : écarté pour doute sur une personne, ne se rouvre pas.
+- Auterive, magasin bio du registre à vente au public : **Déblocage** : site ou fiche officielle vérifiée. Motif : aucune source indépendante lue cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur le 59 avant la passe qui suit celle-ci (règle 41.c). Dans le 31, Blagnac et Muret ne se reprendront que si leurs sites officiels répondent ; sinon, passer à Castanet-Tolosan (15 317 habitants, site en redirection) puis à Saint-Orens-de-Gameville. Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
