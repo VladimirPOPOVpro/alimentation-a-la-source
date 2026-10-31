@@ -45387,3 +45387,24 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 59 ne peut pas être visé (garde des deux passes) ; le 31 redevient éligible, à reprendre à Aucamville si un déblocage est publié. Le Nord reste à reprendre seulement si Cambrai ou Coudekerque-Branche publient leurs horaires complets.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+## Passe du 31 octobre (autonome, cinquante-quatrième) : Haute-Garonne (31) visée, Blagnac puis Muret sondés : rien publié
+
+**Choix du secteur.** Population des départements métropolitains (DOM et Corse exclus de la formule, comme à la passe précédente) rapportée aux fiches publiées. Le plus grand déficit est le Nord (59), exclu par la garde des deux passes : la passe précédente visait le Nord. Le suivant est la Haute-Garonne (31), déficit d'environ 6,0. Commune la plus peuplée sans fiche : Blagnac (27 604 habitants).
+
+**Ce qui a été lu.** Pages « circuits courts » et « commerces et marchés » de la mairie de Blagnac ; Haute-Garonne Tourisme ; Illico mes produits locaux ; avenir-bio et le CAMAP de l'AMAP concernée ; registre Agence Bio (31, première page de cent) ; recherches sur les enseignes et les adresses.
+
+**Pistes à Blagnac** (anonymes) :
+- Marché de plein air, place des Arts : samedi de 8 h à 13 h selon Haute-Garonne Tourisme ; un annuaire indique mardi et jeudi de 7 h 30 à 13 h. Contradiction non tranchée. **Déblocage** : confirmation du jour par la mairie ou l'organisateur.
+- Boutique bio d'un atelier maraîchage d'établissement médico-social : adresse concordante, mais horaires et téléphones divergents selon les annuaires. **Déblocage** : horaires et téléphone confirmés par l'établissement.
+- AMAP de Saint-Pierre d'Ax, distribution hebdomadaire aux Jardins de Catalogne : mardi de 18 h à 19 h 30 (avenir-bio, CAMAP) ; un annuaire tiers indique 16 h 30 à 17 h 45. **Déblocage** : horaire confirmé par l'AMAP.
+- Verger à magasin fermier : adresse contradictoire (Toulouse ou Blagnac selon les sources). Non publié. **Déblocage** : adresse vérifiée sur le site du verger.
+- Un maraîcher bio en vente directe : fiche au nom d'une personne physique, écartée pour doute sur une personne. Ne se rouvre pas.
+
+**Muret (31600), sondé.** Un marché le samedi matin (une seule source), une AMAP dont l'adresse est ancienne, une épicerie de ferme. La plupart des sources ont plus de cinq cents jours. Aucune fiche ne tient les faits sur deux sources indépendantes.
+
+**Pourquoi rien n'est publié.** Blagnac rend trois pistes, dont chacune porte un doute d'horaire ou d'adresse, et il en faut cinq. Muret ne rend rien de solide. La règle de descente a donc été appliquée, sans commune qui rende cinq fiches vérifiables.
+
+**Points d'arrêt.** Passe suivante : le Nord reste exclu par la garde. La Haute-Garonne reste à reprendre à Blagnac si l'une des trois pistes publie des horaires confirmés, ou à Muret si une deuxième source indépendante tient le marché et l'AMAP.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
