@@ -45579,3 +45579,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 93 peut être revisé (règle 41.c) seulement après une autre région. Le classement sera recalculé et la descente reprise là où elle s'est arrêtée, sans refaire le criblage.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 31 octobre 2026 (Haute-Garonne, Balma reprise, registre Agence Bio relu) : aucune publication
+
+Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 303 fiches.
+
+**Classement, règle 41.** Métropole seule. Haute-Garonne (31) en tête (déficit 4,8), Nord et Seine-Maritime juste derrière. La passe précédente visait l'Île-de-France : seule cette région est exclue, l'Occitanie est permise. Les départements d'outre-mer restent écartés (le validateur de `lib/validateMerchants.ts` refuse les coordonnées hors métropole).
+
+**Commune, règle 41.d.** Balma (17 772 habitants), point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- **Registre de l'Agence Bio, département 31**, paginé en entier (2 843 opérateurs). Filtré sur Balma et Castanet-Tolosan : aucun producteur ni magasin de vente directe au public domicilié à Balma avec un certificat vérifiable ; les entrées qui déclarent la vente aux particuliers sont des négoces, une restauration ou une enseigne de grande distribution (hors périmètre, `MODERATION.md`).
+- **Balma**, source officielle déjà lue la passe précédente : le marché de plein vent et le marché bio, pour un seul point de vente (règle 7), avec un horaire contredit.
+
+**Pourquoi rien n'est publié.** Balma ne rend toujours que le marché, une seule source officielle, et aucune photo prise sur le lieu. Cinq fiches groupées sur une commune n'existent pas pour cette commune à ce jour. Descente prévue à Castanet-Tolosan, qui n'a pas été reprise faute de temps dans cette passe.
+
+**Ce que la prochaine passe doit faire.**
+- Balma : demander la confirmation de l'horaire du marché de plein vent à la mairie (règle 5), puis chercher deux ou trois commerces alimentaires locaux avant d'ouvrir la commune.
+- Si Balma ne rend pas cinq commerces vérifiables, passer à Castanet-Tolosan et le dire dans le compte rendu.
+
+**Pistes non publiées** (anonymes) :
+- Villecroze (83), demande en cours #13 : nom commercial qui pourrait être un prénom et contact privé joint à la demande. Motif : doute sur une personne. Rien publié, la demande reste `en_cours`, et aucun message n'est envoyé.
+
+**Fiches écartées pour doute sur une personne** : une (Villecroze, voir ci-dessus).
+
+**Contradictions** (règle 5) : horaires du marché de plein vent de Balma, consignés plus haut, non tranchés.
