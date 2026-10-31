@@ -45408,3 +45408,19 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le Nord reste exclu par la garde. La Haute-Garonne reste à reprendre à Blagnac si l'une des trois pistes publie des horaires confirmés, ou à Muret si une deuxième source indépendante tient le marché et l'AMAP.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 31 octobre 2026 (cinquante-cinquième) : Nord (59) visé, Merville et Lesquin sondées : aucune fiche publiée
+
+**Choix du secteur.** Population des départements métropolitains (DOM et Corse exclus, règle 177), part rapportée à toute la population de `geo.api.gouv.fr` (règle 224), fiches comptées sur le code postal. Le plus grand déficit est la Haute-Garonne (31), exclue par la garde : la passe précédente la visait. Le suivant est le Nord (59), déficit d'environ 4,4 sur 1 303 fiches.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord, cinq pages de cent (500 opérateurs), filtrées par commune. Sur ces pages, aucune commune hors de celles déjà parcourues ne rend cinq opérateurs vendant aux particuliers. Les communes les plus peuplées sans fiche ont été parcourues lors des passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Croix, Hem…), leurs pistes sont consignées plus haut.
+
+**Sondées dans cette passe.** Merville (9 808 habitants) et Lesquin (9 600 habitants) : marchés publiés par les villes, une seule source indépendante par fait, et des horaires que les pistes précédentes n'avaient déjà pas pu confirmer. Rien ne tient cinq fiches vérifiables.
+
+**Pourquoi rien n'est publié.** La descente est close jusqu'aux communes de l'ordre de dix mille habitants, et le registre n'en fournit pas de nouvelle. Aucune fiche n'atteint le seuil de deux sources indépendantes et de faits confirmés.
+
+**Pistes non publiées** (anonymes) : demande #13 (producteur, Var) reste en_cours, inchangée : enseigne qui porte un prénom, doute sur une personne, rien n'est publié ni répondu.
+
+**Points d'arrêt.** Passe suivante : le Nord est éligible de nouveau (la garde ne porte que sur la passe précédente), mais la descente est épuisée jusqu'à Merville et Lesquin. Le déblocage viendra d'horaires confirmés par les villes, ou du passage à la commune suivante par population une fois que le registre en fournira une.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
