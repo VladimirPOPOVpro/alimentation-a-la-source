@@ -45476,3 +45476,31 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** La passe suivante ne peut pas viser le Nord (règle 41.c). Le 31 redevient éligible, à reprendre à Aucamville (règle 247). Le Nord reste ouvert pour une reprise à Wattignies si un déblocage est publié.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (cinquante-huitième) : Haute-Corse (2B) reprise, Bastia relue : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, outre-mer écarté par la règle 177) et `data/marchands.json` (1 303 fiches, comptées par code postal ; la Corse est comptée en un seul bloc 2A+2B). En tête : le 59 (≈ 6,5), exclu par la règle 41.c, la passe précédente visant le Nord. Ensuite le 31 (≈ 6,0), clos par la règle 247 (quinze communes éprouvées). Le 69 (≈ 4,7) est clos lui aussi (douze communes éprouvées, dont Rillieux-la-Pape). Le 38, le 60 et le 42 sont clos (passes précédentes). Le 2B reprend donc, comme le prévoyait la passe du 30 octobre (trente-huitième).
+
+**Commune, règle 41.d.** Bastia (vingt mille habitants environ) reste la commune la plus peuplée sans fiche en Haute-Corse, déjà éprouvée aux passes huitième et trente-huitième.
+
+**Ce qui a été lu.**
+- Sites de la Ville : `bastia.fr` présente un certificat TLS invalide (le navigateur refuse la page, ce n'est pas un problème de l'agent) ; `ville-bastia.fr` ne répond pas. Rien de municipal n'est donc confirmable cette passe.
+- `bastia-tourisme.com` répond : sa page d'accueil ne mentionne aucun marché ni producteur.
+- Recherche web sur le marché de la place de l'Hôtel de Ville : un marché le samedi et le dimanche matin est bien attesté par plusieurs annuaires, mais les horaires divergent (8h-12h sur une fiche d'événement 2026, 8h-13h sur les annuaires de marchés) et les jours divergent aussi (samedi et dimanche seulement, ou tous les jours de la semaine selon un autre annuaire). Aucune source de la Ville pour 2026.
+- Registre Agence Bio, 2B : relu à la passe huitième, aucune entrée nouvelle.
+
+**Pourquoi rien n'est publié.** Le marché est attesté, mais ses horaires et ses jours sont contredits par les sources (règle 5) : le fait est consigné, pas publié. Bastia ne rend toujours pas cinq commerces vérifiables sur deux sources indépendantes (règles 52 et 248).
+
+**Doublon possible à vérifier (règle 12).** La fiche déjà publiée « Marché de la place du Marché » (Place du Marché, 20200 Bastia) pourrait désigner le même marché que celui de la place de l'Hôtel de Ville. Les deux places sont voisines mais distinctes ; il faut une source qui donne l'emplacement exact du marché avant de trancher. Rien n'est modifié à la fiche existante cette passe.
+
+**Pistes non publiées** (anonymes, Haute-Corse) :
+- Bastia, marché de la place de l'Hôtel de Ville : samedi et dimanche matin attestés, horaires et jours contradictoires. **Déblocage** : horaires officiels de la Ville ou du gestionnaire du marché, et lieu exact du marché.
+- Bastia, marché de la place du Marché déjà publié : à rapprocher de la piste précédente. **Déblocage** : même source que ci-dessus.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas viser la région 94 de suite (règle 41.c). Le 2B reste ouvert : reprendre Bastia uniquement si un déblocage ci-dessus est publié ; sinon descendre à la commune suivante de Haute-Corse sans fiche, par population, après lecture du classement `geo.api.gouv.fr` (règle 247). Le constat déjà consigné aux passes précédentes vaut toujours : la descente ne produit plus de zone de cinq fiches vérifiées depuis plusieurs passes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
