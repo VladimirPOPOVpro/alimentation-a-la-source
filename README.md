@@ -45504,3 +45504,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser la région 94 de suite (règle 41.c). Le 2B reste ouvert : reprendre Bastia uniquement si un déblocage ci-dessus est publié ; sinon descendre à la commune suivante de Haute-Corse sans fiche, par population, après lecture du classement `geo.api.gouv.fr` (règle 247). Le constat déjà consigné aux passes précédentes vaut toujours : la descente ne produit plus de zone de cinq fiches vérifiées depuis plusieurs passes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (cinquante-neuvième) : Seine-Saint-Denis (93) visée, Aulnay-sous-Bois sondée : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, dénominateur de toute la France) et `data/marchands.json` (1 303 fiches, comptées par code postal, Corse en un bloc). Outre-mer exclu (règle 177). En tête : le 59 (≈ 6,5), clos par la règle 247 (descente de Nord bien au-delà de douze communes, sans déblocage nommé hors Wattignies) ; le 31 (≈ 6,0), clos par la règle 247 ; le 69, le 38 et le 60 (clos, passes précédentes). Le 93 (≈ 4,6) est le premier département éligible du classement. La passe précédente visait la Haute-Corse : la réserve 41.c ne l'écarte pas.
+
+**Commune, règle 41.d.** Aulnay-sous-Bois (87 599 habitants) est la commune la plus peuplée de Seine-Saint-Denis sans fiche.
+
+**Ce qui a été lu.**
+- Recherche web sur les producteurs, AMAP et magasins de la commune : aucun producteur ni AMAP local identifié à Aulnay-sous-Bois.
+- Annuaire participatif jours-de-marche.fr (page du 93600) : trois marchés listés (Vieux Pays, Rose des Vents, Gare), avec jours et horaires ; les producteurs listés sont tous hors commune (Les Lilas, Aubervilliers, Paris, Charenton-le-Pont).
+- Recherche web sur les marchés et les horaires : une seule source concorde avec le jour et le lieu du marché de la Gare ; un autre résultat le décrit comme un marché couvert du boulevard Gallieni tenu par des producteurs de Seine-et-Marne, lieu et jour différents.
+- Site officiel de la Ville : rubrique « Commerce et artisanat », sous-page « Marchés forains ». Elle ne nomme qu'un marché (Marché du Gros Saule, nouvel emplacement entre l'avenue Suzanne-Lenglen et la rue Ambroise-Paré), sans jour ni horaire, et renvoie à la Direction du développement économique pour le détail.
+- Registre et sites des commerces : pas de magasin bio ni de point de vente de producteurs identifié hors enseignes de grande distribution.
+
+**Pourquoi rien n'est publié.** Le marché du Gros Saule est attesté par la Ville, mais sans jour : la règle 9 exige le jour confirmé par deux sources officielles. Les marchés listés par l'annuaire participatif ne sont confirmés par aucune source municipale, et leurs jours et lieux ne concordent pas avec la seule autre source rencontrée (règle 16 : deux annuaires indépendants concordants, absents). Aucun commerce vérifiable à la fiche sur deux sources indépendantes. Cinq fiches ne sont pas atteignables pour cette commune cette passe.
+
+**Pistes non publiées** (anonymes) :
+- Aulnay-sous-Bois, marché du Gros Saule : existence attestée par la Ville, jour et horaires absents. **Déblocage** : jour et horaires publiés par la Direction du développement économique ou l'organisateur.
+- Aulnay-sous-Bois, trois marchés de l'annuaire participatif (Vieux Pays, Rose des Vents, Gare) : jours et horaires donnés par une seule source, non confirmés par la Ville, et le marché de la Gare contredit par une autre source. **Déblocage** : confirmation d'au moins un jour et d'un lieu par une seconde source indépendante.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 93 ne peut pas être visé de suite (règle 41.c). Le 59 et le 31 restent clos (règle 247) sauf déblocage nommé. Reprendre Aulnay-sous-Bois si l'un des déblocages ci-dessus est publié ; sinon descendre à la commune suivante de Seine-Saint-Denis sans fiche, par population (Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny), et appliquer la borne de douze communes éprouvées (règle 247).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
