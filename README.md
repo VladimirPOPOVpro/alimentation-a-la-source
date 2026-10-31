@@ -45641,3 +45641,36 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Pourquoi rien n'est publié.** Wattrelos ne rend toujours aucun commerce vérifiable sur une source indépendante. Une commune qui ne donne aucune fiche depuis plus de deux cents passes ne se reprend pas à l'identique : la descente doit changer de commune ou de méthode, pas seulement de date.
 
 **Points d'arrêt.** Passe suivante : ne pas revenir à Wattrelos sans une source nouvelle ; prendre Marcq-en-Barœul quand son site répondra, puis Lambersart et Armentières selon la formule. Les pistes déjà consignées ne sont pas rouvertes.
+
+### Passe autonome du 31 octobre 2026 (soixante-cinquième) : Savoie (73) visée, Aix-les-Bains sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle` (`node scripts/backlog.mjs list`). La demande 13 reste `en_cours`, inchangée : elle ne contient qu'un nom de particulier et une adresse privée, sans commerce identifiable ; elle n'appelle aucune réponse de cette passe.
+
+**Secteur, règle 41.** Métropole seule (règles 177 et 93), 1 303 fiches comptées sur le code postal du champ `adresse`, populations `geo.api.gouv.fr`. Les départements de tête sont exclus : Haute-Garonne (31), épuisé ; Nord (59) et Oise (60), région 32 de la passe précédente (règle 41.c) ; Haut-Rhin, Bouches-du-Rhône, Isère, Loire, Rhône, Corse, éprouvés ou clos. Le **Calvados** (14) et la **Savoie** (73) sont à 3,4 à 3,5 ; la Savoie est éligible (région 84, qui n'est pas celle de la passe précédente). **Savoie (73) retenue.**
+
+**Commune, règle 41.d.** Aix-les-Bains (32 406 habitants) : la plus peuplée de la Savoie sans aucune fiche (Chambéry en porte cinq). Les pages « marchés » de la Ville demandées par la passe du 22 octobre ont été ouvertes : `aixlesbains.fr/marches` répond 404 ; le sitemap de la Ville ne donne que les « marchés publics » ; le moteur du site ne renvoie rien sur « marché ». Aucune page marchés de la Ville n'est donc citable.
+
+**Ce qui a été lu.**
+- Jours-de-marche.fr (Aix-les-Bains, Drumettaz-Clarafond) : marché de Aix-les-Bains, place Clémenceau, le mercredi de 14h à 18h et le samedi de 8h à 13h ; marché de Drumettaz-Clarafond, chef-lieu, le dimanche de 8h à 13h.
+- Office de tourisme Aix-les-Bains Riviera des Alpes, agenda « Marchés et brocantes » : marché hebdomadaire régulier à Aix-les-Bains (samedi et mercredi) et à Drumettaz-Clarafond (dimanche), corroborant jours-de-marche.fr.
+- Annuaire des professionnels du bassin aixois (SSALSa, janvier 2025, MSA) : « Marché d'Aix les Bains », « Marché Couvert Aix les Bains », quelques fermes du bassin, sans adresses lisibles pour la plupart.
+- Registre Agence Bio, Savoie, cent premiers opérateurs, filtrés sur Aix-les-Bains : Franprix et Carrefour Market (supermarchés, écartés), un magasin Bio C'Bon (réseau, écarté comme pour la passe précédente), et des entrées sans enseigne ou sans vente aux particuliers.
+- Que Choisir, carte des circuits courts : **Côte Fermier**, 148 allée des Joncs, 73420 Drumettaz-Clarafond, magasin de producteurs, mardi à vendredi 9h à 19h, samedi 9h à 18h, fermé lundi et dimanche ; fruits, légumes, viandes, poissons, produits laitiers, œufs, pains, épicerie, boissons. Une seule source pour les horaires.
+- Recherches libres sur les fermes de l'annuaire SSALSa (La Michode, Le Potager de Saint'Inn, La Ferme du Donjon, Ferme de la Goettaz, Ferme Agroécologique du Marais, L'Escargot de Droisette) : aucune fiche indépendante trouvée. Comme Autrefois, à Aix, est une boulangerie-pâtisserie : hors des catégories du site.
+
+**Pourquoi rien n'est publié.**
+1. **Photographies.** Aucune photo utilisable : le site de la Ville n'en donne pas pour ces marchés ; l'office de tourisme n'en publie pas sur la fiche du marché ; une image de banque, même reprise par une commune, n'est pas une photo du lieu (règle 70), et aucune photo thématique honnête sans personne n'a été trouvée dans les sources ouvertes. Le validateur refuse une fiche sans `image_url`.
+2. **Zone.** Trois points vérifiables seulement (deux marchés, une épicerie de producteurs). La règle 52 demande quatre points avant de chercher le cinquième chez le voisin de la même intercommunalité, et la règle 248 interdit de publier une fiche isolée : tout reste en pistes.
+
+**Pistes non publiées (Aix-les-Bains, Drumettaz-Clarafond — hors personnes).**
+- Aix-les-Bains, marché de plein air, place Clémenceau (mercredi et samedi) : marché confirmé par trois sources (jours-de-marche, agenda de l'office, annuaire SSALSa). **Déblocage** : une photo honnête du lieu sans personne reconnaissable, par la Ville ou l'office ; les horaires sont à relire par téléphone.
+- Drumettaz-Clarafond, marché du dimanche, chef-lieu (8h à 13h) : confirmé par jours-de-marche et l'agenda de l'office. **Déblocage** : une photo du lieu, et un deuxième point sur la commune pour atteindre quatre.
+- Côte Fermier, magasin de producteurs, Drumettaz-Clarafond : adresse et jours confirmés par Que Choisir, pas encore par une seconde source ; téléphone publié par l'annuaire, non repris (le commerce ne l'a pas publié lui-même à notre connaissance). **Déblocage** : une seconde source pour les horaires (site ou page du commerce), et une photo.
+- Aix-les-Bains, marché couvert : mentionné par l'annuaire SSALSa seulement, sans horaires ni adresse confirmés. **Déblocage** : une page de la Ville ou de l'office qui le décrit.
+- Aix-les-Bains, magasin Bio C'Bon : enseigne de réseau, écartée (même critère que la passe précédente).
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre à Aix-les-Bains et une à Grésy-sur-Aix portent un nom de personne (exploitant) : non nommées, non reprises. Une ferme de l'annuaire SSALSa porte un prénom dans son enseigne : écartée, non nommée.
+
+**Ce qui a été volontairement laissé de côté.** Les fermes de l'annuaire SSALSa sans trace indépendante, la boulangerie-pâtisserie (hors catégories), les supermarchés du registre.
+
+**Points d'arrêt.** Passe suivante : la région 84 (Savoie) n'est pas éligible en raison de la règle 41.c, qui ferme la région de la passe précédente ; le classement se relit depuis le premier rang (règle 410) et prend le premier département ouvert. Ne pas revenir à Aix-les-Bains sans la photo ou la page de la Ville demandées ci-dessus. Les pistes déjà consignées ne sont pas rouvertes.
