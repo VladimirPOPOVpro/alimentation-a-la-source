@@ -45674,3 +45674,28 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les fermes de l'annuaire SSALSa sans trace indépendante, la boulangerie-pâtisserie (hors catégories), les supermarchés du registre.
 
 **Points d'arrêt.** Passe suivante : la région 84 (Savoie) n'est pas éligible en raison de la règle 41.c, qui ferme la région de la passe précédente ; le classement se relit depuis le premier rang (règle 410) et prend le premier département ouvert. Ne pas revenir à Aix-les-Bains sans la photo ou la page de la Ville demandées ci-dessus. Les pistes déjà consignées ne sont pas rouvertes.
+
+### Passe autonome du 31 octobre 2026 (soixante-sixième) : Nord (59) visé, Marcq-en-Barœul et Lambersart sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`. La demande 13 reste `en_cours`, inchangée (un nom de particulier et une adresse privée, sans commerce identifiable) : aucune réponse envoyée.
+
+**Secteur, règle 41.** Métropole seule (règle 177), 1 303 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Savoie (région 84) : cette région est close pour cette passe (règle 41.c). La Haute-Garonne (31) reste épuisée (règle 247). Le Nord (59, région 32) est éligible : la passe soixante-quatrième y a laissé Marcq-en-Barœul comme prochaine commune à prendre, Wattrelos étant épuisée.
+
+**Commune, règle 41.d.** Marcq-en-Barœul d'abord, puis Lambersart, comme l'indiquait le point d'arrêt de la passe soixante-quatrième.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 59, pages 1 à 10 (mille opérateurs) filtrées sur Marcq-en-Barœul, Lambersart, Armentières, Lille et Wattrelos. À Marcq-en-Barœul : une marque de tisanes en vente en ligne (écartée, pas de point de vente public) et un grossiste en matières grasses. À Lambersart : une entreprise de jus (nom pouvant désigner une personne, écartée sans lecture plus poussée), une boulangerie, un supermarché et un point de vente de réseau (écartés). Armentières : des grossistes et un vendeur de thé en gros.
+- Recherche web à Marcq-en-Barœul : aucune AMAP, aucun marché de producteurs, aucun magasin de producteurs trouvé. Le livret municipal « Une ville au naturel » parle d'un quartier agricole de 400 hectares et de circuit court dans les menus scolaires, sans commerce identifiable.
+- Recherche web à Lambersart : des adresses d'un annuaire local sous « marché » et « alimentation bio », non confirmées comme points de vente de producteurs. Aucune source officielle lue.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend un seul commerce vérifiable sur une source indépendante, et une fiche isolée est interdite (règle 248). Le site de la Ville de Marcq-en-Barœul n'a pas répondu depuis cet environnement.
+
+**Pistes non publiées** (anonymes) :
+- Lambersart, producteur de jus au registre, vente aux particuliers déclarée : nom pouvant être celui d'une personne, écarté pour doute. Ne se rouvre pas.
+- Lambersart, adresses de marché et d'alimentation bio d'un annuaire local : à confirmer auprès de la Ville. **Déblocage** : une page de la Ville ou du réseau AMAP des Hauts-de-France qui les décrit.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre à Lambersart, non nommée, non reprise.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les boulangeries, les supermarchés et les points de vente de réseau.
+
+**Point d'arrêt.** Passe suivante : Nord toujours éligible, mais Marcq-en-Barœul et Lambersart sont épuisées sans source indépendante. Prendre Armentières (registre sans point de vente public à ce jour) si le secteur reste éligible, sinon descendre au département suivant du classement. Les pistes déjà consignées ne sont pas rouvertes.
