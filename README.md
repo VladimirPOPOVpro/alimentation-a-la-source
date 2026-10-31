@@ -45758,3 +45758,30 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les grossistes et distributeurs du registre, le Carrefour ou autres supermarchés, les enseignes sans adresse vérifiée.
 
 **Point d'arrêt.** Passe suivante : Ille-et-Vilaine reste ouverte, Fougères est éprouvée à trois points sans fiche publiée. Reprendre par les déblocages ci-dessus ; si la commune ne rend pas quatre points, la règle 52 fait descendre sur une commune limitrophe de l'intercommunalité. Le Nord, Oise et la Haute-Garonne restent clos (règle 247). La région 53 est close pour la passe suivante (règle 41.c).
+
+### Passe autonome du 31 octobre 2026 (soixante-neuvième) : Bas-Rhin (67) repris, Ostwald sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`. La demande n° 13 reste `en_cours`, inchangée : enseigne au prénom et contact privé, doute sur une personne. Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 410.** Métropole seule, populations `geo.api.gouv.fr`, 1 303 fiches comptées sur le code postal. La passe précédente visait la Bretagne (région 53) : elle est close pour cette passe (règle 41.c). Nord (59), Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93), Oise (60), Yvelines (78), Loire (42), Hérault (34) et Val-de-Marne (94) sont épuisés ou éprouvés. Le Bas-Rhin (67, région 44, ≈ 3,9) est ouvert et reprend le point d'arrêt de la passe quarantième.
+
+**Commune, règle 41.d et règle 247.** Schiltigheim (passe quarantième) reste éprouvée. La descente se poursuit à **Ostwald** (13 946 habitants), la plus peuplée des communes du Bas-Rhin sans fiche qui n'a pas encore été éprouvée.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bas-Rhin, 1 541 opérateurs relus sur la totalité : sept entrées à Ostwald. Trois portent un nom qui désigne très probablement une personne physique (écartées pour doute sur une personne, non nommées, ne se rouvrent pas). Quatre restent : un magasin de vrac, deux entrées de préparation et distribution sans adresse publique vérifiée, et une enseigne de distribution.
+- Que Choisir (carte des circuits courts) : un magasin de vrac à Ostwald, rue du Maréchal Foch. Pas d'horaires dans la source.
+- Jours-de-marché.fr : un seul marché listé à Ostwald, sans jour ni heure exploitables. Source participative, non confirmée par la Ville.
+- Recherche web sur les AMAP et les ventes directes à Ostwald : aucun résultat. Aucun site de la Ville, aucun site de commerce n'a pu être lu pour cette passe.
+
+**Pourquoi rien n'est publié.** Ostwald ne rend aucune fiche entière avec deux sources indépendantes : le magasin de vrac n'a ni horaires ni site vérifiés, le marché n'a qu'une source participative, et le registre contredit la vente au public du magasin (règle 5). Il faut cinq commerces vérifiables pour une zone (règles 52 et 248) : on en est à zéro fiche entière.
+
+**Pistes non publiées (anonymes, Ostwald, Bas-Rhin).**
+- Ostwald, magasin de vrac du centre : Que Choisir et registre contradictoires sur la vente au public. **Déblocage** : horaires et vente au public sur le site du magasin ou une seconde source.
+- Ostwald, marché : une source participative, aucune page de la Ville. **Déblocage** : une page de la Ville ou de l'office de tourisme.
+- Ostwald, deux entrées de préparation et distribution au registre sans adresse publique ni horaires. **Déblocage** : un point de vente public et un site à jour.
+
+**Fiches écartées pour doute sur une personne.** Trois à Ostwald, non nommées, non reprises.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les entreprises sans vente au public, les marchés datés ou participatifs seuls, la liste de Schiltigheim déjà éprouvée.
+
+**Point d'arrêt.** Passe suivante : la région 44 reste ouverte mais Ostwald n'a pas rendu de zone. Reprendre le magasin de vrac et le marché au point ci-dessus ; si Ostwald ne rend pas quatre points, la règle 247 fait descendre à la commune suivante du Bas-Rhin sans fiche. La région 44 est close pour la passe suivante (règle 41.c).
