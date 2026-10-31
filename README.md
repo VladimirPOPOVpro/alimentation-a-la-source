@@ -45360,3 +45360,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** La Haute-Garonne est à nouveau visée ; la passe suivante ne peut pas la viser (41.c). Le 59 redevient candidat. La descente de la Haute-Garonne reprendra à Aucamville si un déblocage est publié, sans refaire le criblage.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (cinquante-troisième) : Nord (59) revisé, descente close jusqu'à Croix et Hem : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal), outre-mer exclu. En tête : le 31 (déficit ≈ 4,8), puis le 59 (≈ 4,4) et le 60 (≈ 3,7). La passe précédente visait la Haute-Garonne : la réserve 41.c écarte donc le 31. Le 59 redevient éligible.
+
+**Commune, règle 41.d.** Les communes du Nord les plus peuplées sans fiche ont déjà été éprouvées aux passes précédentes : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Denain, Maubeuge, Saint-Amand-les-Eaux, Faches-Thumesnil, Sin-le-Noble, Hem, Croix, Grande-Synthe, Ronchin, Wasquehal et Halluin. La descente n'a donc pas été reprise commune par commune ; le reliquat non éprouvé (Wattignies, Haubourdin, Bailleul) ne rend au mieux qu'une ou deux entrées chacune.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, six pages de cent (600 opérateurs). Filtre sur les communes ci-dessus, en gardant les opérateurs qui vendent aux particuliers : les entrées de Lambersart, Maubeuge, Cambrai et Hazebrouck sont des grandes surfaces, des établissements médico-sociaux ou des entreprises au nom de personnes (écartées, non reprises), ou des enseignes déjà examinées.
+- Cambrai : deux enseignes bio (un réseau de magasins et un magasin coopératif) déjà notées à la passe du 18 octobre ; cette passe n'a pas relu leurs horaires.
+- Coudekerque-Branche : deux magasins bio déjà notés à la passe du 30 octobre ; leurs horaires restent sur des annuaires tiers.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq commerces vérifiables sur deux sources indépendantes. Les candidats isolés (un magasin bio par commune, des enseignes de réseau) ne forment pas un groupe de cinq, et les sources locales de la plupart des villes sont des annuaires tiers ou des sites injoignables.
+
+**Pistes non publiées** (anonymes, Nord) :
+- Cambrai, magasin bio coopératif : **Déblocage** : site ou page de l'enseigne donnant adresse et horaires confirmés.
+- Coudekerque-Branche, magasin bio indépendant : **Déblocage** : confirmation de l'adresse et des horaires par le site de l'enseigne.
+
+**Fiches écartées pour doute sur une personne :** deux entrées au nom de personnes physiques, à Cambrai et à Marcq-en-Barœul : non reprises, ne se rouvrent pas.
+
+**Constat pour le responsable du site.** Le 59 gagne la formule à chaque deux passes et ses communes les plus peuplées sans fiche sont épuisées depuis plusieurs passes sans qu'aucune fiche ne soit publiée. Cette passe n'a pas ajouté de règle de sortie ; la formule est appliquée telle quelle.
+
+**Points d'arrêt.** Passe suivante : le 59 ne peut pas être visé (garde des deux passes) ; le 31 redevient éligible, à reprendre à Aucamville si un déblocage est publié. Le Nord reste à reprendre seulement si Cambrai ou Coudekerque-Branche publient leurs horaires complets.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
