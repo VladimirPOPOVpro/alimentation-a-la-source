@@ -45283,3 +45283,26 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Wattrelos reprise seulement si la Ville publie des horaires ; sinon Lambersart, avec les trois marchés si un second site confirme leurs produits. Ne pas viser la région 32 deux passes de suite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (cinquantième) : Haute-Garonne (31) visée, Fonsorbes sondée : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c et 177.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal), outre-mer exclu. En tête : le 31 (déficit ≈ 4,8), puis le 59 (≈ 4,4). La passe précédente visait le Nord (59, région 32) : la réserve 41.c écarte donc le 59. La Haute-Garonne (région 76) n'a pas été visée à la passe précédente et reste éligible.
+
+**Commune, règle 41.d.** Dans le 31, les communes les plus peuplées sans fiche sont Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne et Saint-Orens-de-Gameville, toutes déjà sondées sans résultat. Blagnac et Muret restent injoignables (aucune réponse HTTP). Descente à **Fonsorbes** (12 954 habitants), jamais sondée.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Fonsorbes : répond. La page d'économie indique « un marché de plein vent » sans jours, horaires, lieu ni exposants. La page des commerces ambulants est un appel à candidatures, sans liste de producteurs. L'annuaire des professionnels est une application dynamique : aucune liste exploitable n'a pu être lue depuis cet environnement.
+- Registre Agence Bio, Haute-Garonne, première page de 100 opérateurs relue : aucun opérateur de Fonsorbes.
+
+**Pourquoi rien n'est publié.** Le seul point sourcé (le marché de plein vent) n'a ni jours ni horaires ni produits vérifiés, et aucun commerce circuit court n'est vérifiable à Fonsorbes avec une source indépendante (règles 52 et 248).
+
+**Pistes non publiées** (anonymes, Haute-Garonne) :
+- Fonsorbes, marché de plein vent (site officiel de la Ville) : **Déblocage** : jours, lieu et horaires du marché, et liste des exposants producteurs. Motif : seule la mention du marché est officielle.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Blagnac et Muret seulement si leurs sites répondent ; sinon Saint-Gaudens (12 139 habitants, site joignable) ou Castelginest, en commençant par les pages officielles de marché. Ne pas viser la région 76 deux passes de suite : la passe suivante doit viser une autre région (règle 41.c). Le décompte 288 contre 23 signalé plus haut reste à éclaircir.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
