@@ -45531,3 +45531,31 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le 93 ne peut pas être visé de suite (règle 41.c). Le 59 et le 31 restent clos (règle 247) sauf déblocage nommé. Reprendre Aulnay-sous-Bois si l'un des déblocages ci-dessus est publié ; sinon descendre à la commune suivante de Seine-Saint-Denis sans fiche, par population (Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny), et appliquer la borne de douze communes éprouvées (règle 247).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (soixantième) : Loire (42) reprise, Firminy sondée : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c et 247.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal, outre-mer exclu). Les départements clos par la règle 247 (59, 31, 60, 38, 69) ne sont pas visés. La passe précédente visait l'Île-de-France : la réserve 41.c écarte donc le 93. Le premier éligible restant est le 42 (Loire), dont la descente n'a pas été reprise depuis la douzième passe.
+
+**Commune, règle 41.d.** Saint-Chamond porte déjà une fiche (marché du centre-ville) et Roanne, éprouvée à la douzième passe, reste sans zone. La commune suivante sans fiche par population est **Firminy** (17 060 habitants).
+
+**Ce qui a été lu.**
+- Registre des entreprises : la commune de Firminy est ouverte, sans information sur les commerces alimentaires.
+- Site de la Ville (firminy.fr) : injoignable depuis cet environnement pendant cette passe.
+- Annuaire participatif jours-de-marche.fr (page 42700) : trois marchés listés (un « marché biologique » le vendredi de 15 h à 18 h, un « marché de Firminy » le jeudi de 8 h à 13 h, un « marché primeur » le mardi, jeudi et samedi de 8 h à 13 h). Aucun producteur nommé dans ces marchés.
+- Recherche web sur le marché alimentaire : un événement ponctuel du 2 octobre au 31 décembre 2026 décrit comme comptant plus de quarante commerçants alimentaires, sans jour ni horaire ; la fiche de l'agenda ne donne pas d'horaires.
+- Recherches sur les magasins de producteurs, le bio et les AMAP : rien à Firminy. Le magasin de producteurs le plus proche trouvé se situe à Unieux, hors commune.
+
+**Pourquoi rien n'est publié.** Les jours et horaires des marchés ne sont confirmés que par un annuaire participatif ; l'agenda et les autres sources ne donnent ni jour ni horaire. La règle 9 exige deux sources officielles et la règle 16 deux annuaires indépendants concordants : aucune des deux conditions n'est remplie. Aucun producteur ni commerce de vente directe ne rend deux sources indépendantes.
+
+**Pistes non publiées (anonymes, Loire).**
+- Firminy, marché biologique du vendredi (Fontaine de la place du Breuil) : un seul annuaire participatif. **Déblocage** : confirmation du jour et du lieu par la Ville ou par un second annuaire indépendant, avec la liste des producteurs.
+- Firminy, marché du jeudi (place du Breuil) et marché primeur (place du Marché) : jours et horaires donnés par un seul annuaire, lieux et contenus non confirmés par la Ville. **Déblocage** : même condition.
+- Firminy, marché d'octobre-décembre 2026 : existence attestée par un agenda, jour et horaires absents. **Déblocage** : programme publié par la Ville.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Firminy reprise si la Ville devient joignable ou si un second annuaire confirme un des marchés ci-dessus ; sinon Montbrison (16 123 habitants), puis Saint-Just-Saint-Rambert, en respectant la règle 247 (douze communes éprouvées au plus par passe). Le 42 ne peut pas être visé de suite (règle 41.c).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : ni lint ni build n'ont été relancés.
