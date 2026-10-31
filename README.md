@@ -45258,3 +45258,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Blagnac et Muret reprises seulement si leurs sites répondent ; sinon Saint-Orens-de-Gameville puis Castanet-Tolosan avec ses sources reprises. Ne pas viser la région 76 (Occitanie : la Haute-Garonne est en région 76) — ne pas viser le 31 deux passes de suite (règle 41.c). Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre). Le décompte 288 contre 23 reste à éclaircir.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 31 octobre 2026 (quarante-neuvième) : Nord (59) visé, Lambersart sondée : aucune fiche publiée
+
+**Secteur, règles 41, 41.c, 93 et 177.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal). Outre-mer exclu du classement (règles 93 et 177). Parmi les métropolitains, la Haute-Garonne (31, Occitanie) est écartée : la passe précédente la visait (réserve 41.c). Le Nord (59, Hauts-de-France) arrive en tête, déficit 4,43, sans passe récente dans sa région.
+
+**Commune, règle 41.d.** Commune la plus peuplée du Nord sans fiche : Wattrelos (40 847 habitants), éprouvée depuis plusieurs passes, sans horaires publiés. Descente : Marcq-en-Barœul et Cambrai déjà sondées (site injoignable ou sans horaires). Lambersart (27 090 habitants) est sondée cette passe.
+
+**Ce qui a été lu.**
+- Site de la Ville de Lambersart, page « Les marchés hebdomadaires » : trois marchés, mardi 8h-13h (place de la République), mercredi 8h-13h (square Southborough), samedi 8h-13h (rue du Bourg). Source officielle, mais une seule : elle ne donne ni produits ni liste des exposants.
+- Annuaire des commerces de la Ville : 256 entrées, sans filtre alimentaire lisible ; aucun producteur ni magasin bio identifié par la Ville.
+- Registre Agence Bio, Nord : une entrée de Lambersart déclare une vente aux particuliers ; le registre des entreprises la donne fermée (0 établissement ouvert), à une autre adresse.
+- Recherche web (Lambersart, magasin bio, producteurs, AMAP) : annuaires participatifs seulement, aucune AMAP trouvée.
+- Site de Mons-en-Barœul : recherche web sans horaires de marché ; site de Armentières injoignable cette passe.
+
+**Pourquoi rien n'est publié.** Lambersart ne rend ni cinq commerces ni deux fiches solides au sens de la règle 124 : les trois marchés, seuls vérifiés, n'ont ni produits ni exposants publiés, et aucun commerce circuit court n'est vérifiable sur une source indépendante. La règle 124 (réunion de deux communes) ne s'applique pas faute de deux fiches dans la commune.
+
+**Pistes non publiées** (anonymes, Lambersart, Nord) :
+- Lambersart, trois marchés hebdomadaires de la Ville (mardi, mercredi, samedi, 8h-13h) : **Déblocage** : liste des produits ou des exposants publiée par la Ville, ou une seconde source (office de tourisme, annuaire des producteurs de la Métropole) pour compléter les fiches.
+- Lambersart, magasin bio enregistré au registre, à la même adresse : **Déblocage** : établissement confirmé ouvert.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Wattrelos reprise seulement si la Ville publie des horaires ; sinon Lambersart, avec les trois marchés si un second site confirme leurs produits. Ne pas viser la région 32 deux passes de suite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
