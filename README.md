@@ -45333,3 +45333,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le Nord (région 32) ne peut pas être visé de nouveau ; le 31 (région 76) redevient candidat, à condition que la passe suivante ne vise pas deux fois de suite la même région. Maubeuge reste à reprendre si l'enseigne publie ses horaires complets ou si la Ville publie ses marchés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (cinquante-deuxième) : Haute-Garonne (31) visée, Aucamville, Launaguet, Grenade et Beauzelle sondées : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal), outre-mer exclu. En tête : le 31 (déficit ≈ 4,81), puis le 59 (≈ 4,43) et le 60 (≈ 3,68). La passe précédente visait le Nord (région 32) : la réserve 41.c écarte donc le 59. La Haute-Garonne est de nouveau éligible.
+
+**Commune, règle 41.d.** Les communes de Haute-Garonne les plus peuplées sont déjà éprouvées ou pourvues : Toulouse, Colomiers, Tournefeuille, Blagnac, Muret, Plaisance-du-Touch, Cugnaux, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens, Castelginest, Saint-Jean, Villeneuve-Tolosane, Seysses, Auterive, Léguevin, Saint-Lys, Frouzins, Portet-sur-Garonne et Revel ont été sondées au fil des passes précédentes (règle 247). La descente retient Aucamville (9 623 habitants), puis Launaguet, Grenade et Beauzelle.
+
+**Ce qui a été lu.**
+- Recherche web sur Aucamville : aucun marché de producteurs ni AMAP en activité rattaché à la commune. Un annuaire circuit court daté d'environ 2015 mentionne un point de dépôt, à vérifier ; les autres résultats sont des enseignes bio généralistes sans précision locale.
+- Recherche web sur Launaguet : une boutique So.bio dont les horaires sont générés automatiquement par une fiche d'avis, donc non vérifiés ; aucun marché ni AMAP local identifié.
+- Recherche web sur Grenade : une Biocoop dont l'adresse et les horaires n'ont pas été lus ; aucun marché de producteurs à Grenade.
+- Recherche web sur Beauzelle : un drive en circuit court sans produits ni horaires vérifiables ; aucun marché ni magasin bio identifié dans la commune.
+- Registre Agence Bio, Haute-Garonne, première page de 100 opérateurs, filtrée sur Revel déjà sondée (passe du 23 octobre) : aucune nouvelle entrée exploitable.
+
+**Pourquoi rien n'est publié.** Aucune de ces quatre communes ne rend cinq commerces vérifiables sur deux sources indépendantes, ni même une fiche solide : les enseignes trouvées ne sont confirmées ni par leur site ni par le registre des entreprises, et les points de vente de producteurs signalés se situent hors commune. Aucune fiche ne se complète à cinq.
+
+**Pistes non publiées** (anonymes) :
+- Aucamville, point de dépôt circuit court signalé par un annuaire ancien (vers 2015) : **Déblocage** : un point de dépôt confirmé par la commune ou par la structure qui le tient.
+- Launaguet, magasin bio dont les horaires ne proviennent que d'une fiche d'avis automatique : **Déblocage** : site ou page de l'enseigne donnant adresse et horaires.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** La Haute-Garonne est à nouveau visée ; la passe suivante ne peut pas la viser (41.c). Le 59 redevient candidat. La descente de la Haute-Garonne reprendra à Aucamville si un déblocage est publié, sans refaire le criblage.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
