@@ -45451,3 +45451,28 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (garde 41.c). Le Nord (59) redevient éligible. La descente du 31 reprendra à Blagnac si l'un des déblocages ci-dessus est publié.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (cinquante-septième) : Nord (59) visé, Wattignies, Haubourdin et Bailleul sondées : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177 et 224.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, dénominateur de toute la France) et `data/marchands.json` (1 303 fiches, comptées par code postal). Outre-mer exclu (règle 177). En tête métropolitaine : le 31 (déficit ≈ 4,8), puis le 59 (≈ 4,4). La passe précédente visait la Haute-Garonne : la réserve 41.c écarte donc le 31, et le Nord redevient éligible.
+
+**Commune, règles 41.d et 247.** La descente du Nord est déjà passée par les communes les plus peuplées (Lille, Roubaix, Tourcoing, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Douai, Maubeuge, Cambrai, Lambersart, Wattrelos, Marcq-en-Barœul, Croix, Hem, Merville, Lesquin, etc.). Le reliquat non éprouvé est Wattignies, Haubourdin et Bailleul, sondées ici.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, six pages de cent, filtré sur les trois communes. Résultat : une quinzaine d'opérateurs, dont la moitié sont des supermarchés ou des hypermarchés certifiés bio (écartés par MODERATION.md), des brasseries, des entreprises de transformation sans vente au public, ou des établissements sans adresse de vente. Deux ou trois entrées vendent aux particuliers sans que le nom porte un point de vente identifiable.
+- Recherche web sur les marchés de ces trois communes : aucun marché de producteurs à horaires vérifiés par une source municipale ou un office de tourisme. La recherche n'a rendu que des pages d'annuaires sans date.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes. Les candidats se réduisent à une enseigne bio à Wattignies, une à Haubourdin et une entrée de vente directe à Bailleul, aucune n'étant confirmée par son site. La descente du Nord est donc close jusqu'à Bailleul, sans fiche publiée.
+
+**Pistes non publiées** (anonymes) :
+- Wattignies, magasin bio indépendant : **Déblocage** : site de l'enseigne donnant adresse et horaires.
+- Haubourdin, deux points de vente en circuit court, dont l'un porte un prénom d'exploitant : **Déblocage** : confirmation de l'enseigne et de l'adresse par la structure elle-même. Ne pas nommer l'exploitant.
+- Bailleul, vente directe d'une entreprise au nom d'une personne physique : **doute sur une personne, écartée**. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne :** une (Bailleul), nommée nulle part.
+
+**Points d'arrêt.** La passe suivante ne peut pas viser le Nord (règle 41.c). Le 31 redevient éligible, à reprendre à Aucamville (règle 247). Le Nord reste ouvert pour une reprise à Wattignies si un déblocage est publié.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
