@@ -45559,3 +45559,23 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Firminy reprise si la Ville devient joignable ou si un second annuaire confirme un des marchés ci-dessus ; sinon Montbrison (16 123 habitants), puis Saint-Just-Saint-Rambert, en respectant la règle 247 (douze communes éprouvées au plus par passe). Le 42 ne peut pas être visé de suite (règle 41.c).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés : ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (soixante-et-unième) : Seine-Saint-Denis (93) revisée, descente close : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177, 247 et 248.** Calcul refait sur `geo.api.gouv.fr` (métropole, outre-mer exclu par la règle 177) et `data/marchands.json` (1 303 fiches, comptées par code postal). En tête : le 59 et le 31, clos par la règle 247. Le 93 (déficit ≈ 4,6) est le premier éligible : la passe précédente visait la Loire (42), la réserve 41.c ne l'écarte donc pas.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 93 sans fiche reste Aulnay-sous-Bois, déjà éprouvée. La descente a déjà parcouru Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny, Épinay-sur-Seine, Sevran et Bondy sans zone : la borne de douze communes éprouvées (règle 247) est atteinte. Cette passe ne rouvre aucune de ces communes sans déblocage nommé.
+
+**Ce qui a été lu.** Registre Agence Bio, Seine-Saint-Denis, première page de cent : les entrées pour Bondy, Rosny-sous-Bois, Livry-Gargan, La Courneuve, Stains, Gagny et Bagnolet sont des distributeurs, des grossistes ou des enseignes de grande distribution ; aucune n'est un point de vente de producteurs vérifiable. Recherche d'entreprises sur Bondy : aucun résultat.
+
+**Pourquoi rien n'est publié.** Aucune commune non éprouvée du 93 ne rend de commerce vérifiable sur deux sources indépendantes. Une fiche isolée n'est pas une zone (règle 52) : rien n'est publié. Au-delà de la borne, la règle 248 interdit de poursuivre la descente dans une autre commune de ce département.
+
+**Pistes non publiées.** Aucune nouvelle piste cette passe ; celles de la passe précédente (Aulnay-sous-Bois, Sevran, Bondy) restent en attente de déblocage nommé.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le 93 peut être revisé (règle 41.c) seulement après une autre région. Le classement sera recalculé et la descente reprise là où elle s'est arrêtée, sans refaire le criblage.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
