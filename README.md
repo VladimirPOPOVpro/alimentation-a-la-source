@@ -45729,3 +45729,32 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, la biocoop de réseau, les entreprises sans vente au public, l'association d'insertion d'Albertville (hors catégories), les marchés du jds.fr datés de 2025.
 
 **Point d'arrêt.** Passe suivante : la Savoie est ouverte mais Albertville reste à un point solide. Reprendre au point d'arrêt : une source de la Ville ou de l'office pour les marchés, une photo honnête pour le magasin. Si la Savoie n'apporte pas quatre points, la passe suivante recalcule le classement (règle 410) sans revenir à Aix-les-Bains ni à Albertville sans ces éléments.
+
+### Passe autonome du 31 octobre 2026 (soixante-huitième) : Ille-et-Vilaine (35) visée, Fougères sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`. La demande 13 reste `en_cours`, inchangée (enseigne au prénom et contact privé, doute sur une personne) : aucune réponse envoyée.
+
+**Secteur, règles 41, 41.c et 410.** Métropole seule (règle 177), 1 303 fiches, populations `geo.api.gouv.fr`, fiches comptées sur le code postal. Haute-Garonne (31) épuisée ; Nord (59) épuisé (descente jusqu'à Merville et Lesquin, règle 247) ; Oise (60) épuisée (borne de douze communes atteinte à Gouvieux) ; Seine-Saint-Denis (93) close ; Yvelines (78), Hérault (34) et Val-de-Marne (94) déjà éprouvés. La passe précédente visait la Savoie (région 84) : la région 53 (Bretagne) est éligible. **Ille-et-Vilaine (35) retenue** : déficit 4,07, cible 22,1 pour 18 fiches.
+
+**Commune, règle 41.d.** Fougères (20 307 habitants), la plus peuplée des communes d'Ille-et-Vilaine sans fiche (Rennes et Betton en ont déjà). Betton, Rennes et Vitré ne sont pas reprises cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine, trois cents premiers opérateurs : aucune entrée à Fougères.
+- Marchés d'Ille-et-Vilaine (marches35.fr) : marché de Fougères, jour samedi, 8 h 30 à 12 h 30, plein air, toute l'année. Cacao (annuaire de commerces locaux) : marché du samedi Haute Ville, 8 h 30 à 13 h 15 selon la saison, entre la place Aristide Briand et la place du Beffroi, rue Nationale. Deux sources, deux heures de fin : contradiction consignée (règle 5).
+- Biocoop Pays de Fougères – Bio Lune, 32 boulevard de Groslay : téléphone 02 99 99 54 91 selon plusieurs annuaires ; horaires 9 h 30 à 19 h du lundi au samedi selon la plupart des annuaires, 8 h à 20 h selon un autre, horaires anciens avec pause dans un troisième. Pas encore de vérification au registre des entreprises ni de photo du magasin.
+- AMAP Portes de Bretagne (Fougères) : distribution le jeudi de 18 h à 19 h 30 au cinéma Le Club, selon l'annuaire de l'AMAP. Blog de l'AMAP (LegTux) et page Avenir Bio.
+- Ferme du Chat Jaune : lue sur le blog de l'AMAP (ancienne présence au marché du samedi) et sur le site de la Biocoop, qui la situe désormais à Laignelet. Adresse et exploitants changés selon les sources : écartée, rien ne se publie sur une adresse contradictoire, et les exploitants ne sont pas nommés.
+
+**Pourquoi rien n'est publié.** Trois points solides à Fougères (marché, magasin Biocoop, AMAP), dont aucun n'a de photo honnête vérifiée, et une seule source de registre n'est pas encore faite pour le magasin. Il en faut quatre avant toute complétion (règle 52), et la descente vers une commune limitrophe de la même intercommunalité n'a pas été faite cette passe. Une fiche isolée n'est pas une zone (règle 248).
+
+**Pistes non publiées** (anonymes, Ille-et-Vilaine) :
+- Fougères, marché du samedi Haute Ville : deux heures de fin contradictoires, pas de photo honnête. **Déblocage** : une page de la Ville de Fougères (droits de place) ou une photo du marché prise sur un site officiel.
+- Fougères, magasin Biocoop Bio Lune : adresse et téléphone confirmés par plusieurs annuaires ; horaires contradictoires. **Déblocage** : horaires sur le site du magasin, et une photo du magasin sans personne reconnaissable.
+- Fougères, AMAP Portes de Bretagne : distribution au cinéma Le Club, le jeudi. **Déblocage** : une page de l'AMAP à jour et un point de contact public.
+- Laignelet, ferme maraîchère du Chat Jaune : hors Fougères, rattachée à une autre commune. Ne se rouvre que si la commune de Laignelet est calculée par la formule.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes et distributeurs du registre, le Carrefour ou autres supermarchés, les enseignes sans adresse vérifiée.
+
+**Point d'arrêt.** Passe suivante : Ille-et-Vilaine reste ouverte, Fougères est éprouvée à trois points sans fiche publiée. Reprendre par les déblocages ci-dessus ; si la commune ne rend pas quatre points, la règle 52 fait descendre sur une commune limitrophe de l'intercommunalité. Le Nord, Oise et la Haute-Garonne restent clos (règle 247). La région 53 est close pour la passe suivante (règle 41.c).
