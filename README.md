@@ -45785,3 +45785,29 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les entreprises sans vente au public, les marchés datés ou participatifs seuls, la liste de Schiltigheim déjà éprouvée.
 
 **Point d'arrêt.** Passe suivante : la région 44 reste ouverte mais Ostwald n'a pas rendu de zone. Reprendre le magasin de vrac et le marché au point ci-dessus ; si Ostwald ne rend pas quatre points, la règle 247 fait descendre à la commune suivante du Bas-Rhin sans fiche. La région 44 est close pour la passe suivante (règle 41.c).
+
+## Passe autonome du 1er novembre 2026 (soixante-dixième) : Ille-et-Vilaine (35) reprise, Fougères sondée à nouveau : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`, aucune `en_cours` à traiter. La demande n° 13 reste `en_cours`, inchangée (doute sur une personne) : aucune réponse envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 410.** Métropole seule, 1 303 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Bas-Rhin (région 44) : cette région est close pour cette passe (règle 41.c). Les premiers rangs du classement sont épuisés, clos ou éprouvés : Nord (59), Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93), Oise (60), Loire (42), Hérault (34), Yvelines (78). **Ille-et-Vilaine (35)** est le premier département ouvert du classement, déficit 3,89, cible 22,1 pour 18 fiches. Val-de-Marne (94, 3,87) et Calvados (14, 3,85) suivent de près et restent pour les passes suivantes.
+
+**Commune, règle 41.d.** Fougères (20 307 habitants) reste la commune en cours : la descente de la passe soixante-huitième n'est pas achevée, et Fougères n'a encore rendu aucune zone de cinq.
+
+**Ce qui a été relu.**
+- Biocoop Bio Lune, 32 boulevard de Groslay : adresse et téléphone 02 99 99 54 91 confirmés par plusieurs annuaires. Les horaires restent non confirmés par le magasin : un annuaire renvoie à l'appel, un avis signale des fermetures non respectées. Pas de site du magasin lisible depuis cet environnement.
+- Marché de la Haute Ville : toujours une seule source concordante (agenda et annuaire de commerces locaux), avec deux heures de fin contradictoires. Le site de la Ville de Fougères ne répond pas depuis cet environnement (échec de connexion). Une recherche générale ne donne aucune source de la Ville ou de l'office sur ce marché.
+- AMAP Portes de Bretagne : distribution le jeudi, source unique (annuaire de l'AMAP).
+
+**Pourquoi rien n'est publié.** Trois points à Fougères, aucun n'a une source officielle ou un site lisible qui le confirme, et aucune photo honnête n'a été trouvée. Il en faut cinq vérifiables pour une zone (règles 52 et 248). La descente vers une commune limitrophe de l'intercommunalité n'a pas été engagée cette passe : elle reprendra à la passe suivante, faute de temps pour la mener à bien avec les sources exigées.
+
+**Pistes non publiées (anonymes, Ille-et-Vilaine).**
+- Fougères, Biocoop (magasin de vrac et produits bio) : adresse et téléphone confirmés, horaires non confirmés. **Déblocage** : horaires publiés par le magasin ou une page du site Biocoop, et une photo du magasin sans personne reconnaissable.
+- Fougères, marché de la Haute Ville : deux heures de fin contradictoires, pas de source de la Ville. **Déblocage** : une page de la Ville de Fougères ou de l'office de tourisme.
+- Fougères, AMAP Portes de Bretagne : une source unique. **Déblocage** : une page de l'AMAP à jour.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les grossistes du registre, les enseignes sans adresse vérifiée, et Laignelet (commune non calculée par la formule).
+
+**Point d'arrêt.** Passe suivante : Ille-et-Vilaine reste ouverte et Fougères reste la commune en cours, avec les déblocages ci-dessus. Si la ville ne rend pas quatre points vérifiables, la règle 247 fait descendre à une commune limitrophe de l'intercommunalité. La région 44 est close pour la passe suivante (règle 41.c) ; la région 53 redevient éligible après cette passe.
