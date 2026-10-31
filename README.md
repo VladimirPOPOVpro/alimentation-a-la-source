@@ -45306,3 +45306,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : Blagnac et Muret seulement si leurs sites répondent ; sinon Saint-Gaudens (12 139 habitants, site joignable) ou Castelginest, en commençant par les pages officielles de marché. Ne pas viser la région 76 deux passes de suite : la passe suivante doit viser une autre région (règle 41.c). Le décompte 288 contre 23 signalé plus haut reste à éclaircir.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 31 octobre 2026 (cinquante et unième) : Nord (59) visé, Maubeuge reprise : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal), outre-mer exclu. En tête : le 31 (déficit ≈ 4,81), puis le 59 (≈ 4,43) et le 60 (≈ 3,68). La passe précédente visait la Haute-Garonne (région 76) : la réserve 41.c écarte donc le 31. Le Nord (région 32) n'a pas été visé à la passe précédente et reste éligible.
+
+**Commune, règle 41.d.** Dans le Nord, Wattrelos (40 847 habitants) et Marcq-en-Barœul (40 184) ont déjà été sondées sans résultat ; Armentières, Cambrai et Mons-en-Barœul ont des sites injoignables ou sans horaires cette passe. Descente à **Maubeuge** (28 767 habitants), reprise : sondée une première fois à la passe précédente.
+
+**Ce qui a été lu.**
+- Site de la Ville de Maubeuge (`ville-maubeuge.fr`, redirigé) : répond, mais le plan du site ne contient aucune rubrique marché ni commerce.
+- Registre Agence Bio, Nord, première page de 100 opérateurs : aucune entrée de Maubeuge exploitable pour la carte.
+- Recherche web sur les marchés de Maubeuge : un annuaire de marchés annonce quatre marchés, sans jours ni horaires lus ; aucune source officielle.
+- Registre des entreprises : une enseigne de magasin d'alimentation biologique, avenue des Provinces-Françaises, est active (un établissement ouvert). Les seules sources locales lues sont des annuaires tiers : horaires partiels (seul le mardi est lisible) et une autre enseigne donnée à la même adresse par un second annuaire.
+- Wattrelos, pour mémoire : les marchés de la Ville sont des marchés généralistes (tissus, vêtements), sans producteurs ni horaires publiés.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Maubeuge n'a une source indépendante qui tienne ses faits : le magasin bio n'a que des annuaires tiers, avec des horaires incomplets et une adresse contestée (règle 5, sources qui se contredisent : rien ne se publie sur un fait contesté) ; les marchés n'ont ni jours ni producteurs vérifiables. Cinq commerces vérifiables ne sont pas réunis, ni deux fiches solides au sens de la règle 124.
+
+**Pistes non publiées** (anonymes, Maubeuge, Nord) :
+- Maubeuge, magasin d'alimentation biologique, avenue des Provinces-Françaises, enseigne active au registre : **Déblocage** : site ou page de l'enseigne confirmant les horaires complets et l'adresse (un annuaire donne une autre enseigne au même numéro).
+- Maubeuge, quatre marchés annoncés par un annuaire de marchés : **Déblocage** : jours, lieux et liste des producteurs publiés par la Ville ou par l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le Nord (région 32) ne peut pas être visé de nouveau ; le 31 (région 76) redevient candidat, à condition que la passe suivante ne vise pas deux fois de suite la même région. Maubeuge reste à reprendre si l'enseigne publie ses horaires complets ou si la Ville publie ses marchés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
