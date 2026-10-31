@@ -45232,3 +45232,29 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : ne pas viser la région 84 de suite (règle 41.c). Le 69 reste ouvert : reprendre Rillieux-la-Pape si la Ville répond ; sinon, descendre à la commune suivante par population sans fiche dans le 69 (règle 247). Le verrou du cycle reste le même : la descente ne produit plus de zone de cinq fiches vérifiées depuis plusieurs passes. Ce constat est consigné sans trancher, pour que le responsable du site puisse décider si la règle 41 doit changer.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 31 octobre 2026 (quarante-huitième) : Haute-Garonne (31) visée, Castanet-Tolosan sondée : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Calcul refait sur `geo.api.gouv.fr` (68,95 M d'habitants, outre-mer au dénominateur, écarté du classement) et `data/marchands.json` (1 303 fiches, comptées par code postal). En tête : La Réunion (974), écartée par la règle 93 (`lib/validateMerchants.ts` refuse les coordonnées ultramarines). Le Rhône (69) est exclu : passe précédente, région 84 (règle 41.c). Premier métropolitain restant : la **Haute-Garonne (31, déficit ≈ 4,8)**, devant le Nord (59, ≈ 4,4), dont la visite est ancienne de deux passes.
+
+**Contradiction (règle 5).** Les passes précédentes annoncent « 288 fiches publiées » dans le 31 et tiennent le département « clos » ; le fichier compte 23 fiches à adresse haute-garonnaise. Ce décompte n'est pas tranché ici : le calcul ci-dessus suit le fichier, qui fait foi. Le 31 reste ouvert.
+
+**Commune, règle 41.d et 248.** Commune la plus peuplée sans fiche dans le 31 : **Blagnac** (27 604 habitants), déjà éprouvée à zéro. Site de la Ville et de Muret injoignables cette passe (aucune réponse HTTP) ; Saint-Orens-de-Gameville également. Descente : **Castanet-Tolosan** (15 317 habitants).
+
+**Ce qui a été lu.**
+- Site de Castanet-Tolosan : répond, mais la page d'accueil ne mentionne ni marché, ni producteur, ni circuit court.
+- Registre Agence Bio, Haute-Garonne, 600 opérateurs relus sur les pages 1 à 6, filtrés sur Blagnac, Muret et Plaisance-du-Touch : une majorité de préparateurs, distributeurs ou entrepôts sans vente au public ; quelques entrées déclarent une vente aux particuliers, sans enseigne ni horaires vérifiés. Castanet-Tolosan n'a pas été filtrée dans ce registre cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 visée cette passe ne rend cinq commerces vérifiés sur une source indépendante (règles 2, 52 et 248). Une piste sans source ne se publie pas.
+
+**Pistes non publiées** (anonymes, Haute-Garonne) :
+- Castanet-Tolosan, marchés et magasin de producteurs : **Déblocage** : jours, lieu et horaires confirmés par la Ville ou l'office de tourisme. Motif : aucune source lisible cette passe.
+- Blagnac, enseigne bio du registre : **Déblocage** : site officiel ou fiche de l'office de tourisme joignable. Motif : site de la Ville injoignable.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Blagnac et Muret reprises seulement si leurs sites répondent ; sinon Saint-Orens-de-Gameville puis Castanet-Tolosan avec ses sources reprises. Ne pas viser la région 76 (Occitanie : la Haute-Garonne est en région 76) — ne pas viser le 31 deux passes de suite (règle 41.c). Le verrou structurel reste la validation des coordonnées ultramarines (`lib/validateMerchants.ts`, hors périmètre). Le décompte 288 contre 23 reste à éclaircir.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
