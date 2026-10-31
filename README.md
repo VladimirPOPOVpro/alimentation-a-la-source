@@ -45627,3 +45627,17 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Points d'arrêt.** Passe suivante : le 31 redevient éligible (règle 41.c : la Corse est visée cette passe). Reprendre Ajaccio sur la Ville et l'office de tourisme, puis sur les sites des commerces du registre ; si cinq commerces ne tiennent pas, descendre à la commune suivante de Corse sans fiche par population (règle 247, douze communes éprouvées au plus).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
+
+### Passe autonome du 31 octobre 2026 (soixante-quatrième) : Nord (59) visé, Wattrelos relue, registre Agence Bio relu : aucune publication
+
+**Backlog.** Aucune demande en attente (`node scripts/backlog.mjs list` : zéro « nouvelle ») ; une demande reste `en_cours`, inchangée.
+
+**Secteur, règle 41.** Calcul métropole seule (outre-mer exclu, règle 177) sur 34 969 communes de `geo.api.gouv.fr` et 1 303 fiches comptées par code postal. En tête : Haute-Garonne (31) à ≈ 4,8, puis Nord (59) à ≈ 4,4. La Haute-Garonne est écartée : sa descente a atteint la borne de la règle 247 (douze communes éprouvées à zéro, passes cinquante-deuxième à cent quatre-vingt-dix-septième et suivantes). La passe précédente visait la Corse : la règle 41.c ne ferme que la Corse, donc le Nord est retenu.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Elle est reprise une dernière fois.
+
+**Ce qui a été lu.** Registre Agence Bio, département 59, premier lot de cent opérateurs, filtré sur Wattrelos : aucun producteur ni magasin de vente directe au public domicilié à Wattrelos dans cette page. Les pages suivantes n'ont pas été relues cette passe, faute de temps ; les passes précédentes les ont lues en entier sans résultat (règle 2 : une source ne suffit pas).
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend toujours aucun commerce vérifiable sur une source indépendante. Une commune qui ne donne aucune fiche depuis plus de deux cents passes ne se reprend pas à l'identique : la descente doit changer de commune ou de méthode, pas seulement de date.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir à Wattrelos sans une source nouvelle ; prendre Marcq-en-Barœul quand son site répondra, puis Lambersart et Armentières selon la formule. Les pistes déjà consignées ne sont pas rouvertes.
