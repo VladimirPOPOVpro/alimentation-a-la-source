@@ -45424,3 +45424,30 @@ Backlog : 0 nouvelle, 1 en cours (demande n° 13, inchangée et toujours écart�
 **Points d'arrêt.** Passe suivante : le Nord est éligible de nouveau (la garde ne porte que sur la passe précédente), mais la descente est épuisée jusqu'à Merville et Lesquin. Le déblocage viendra d'horaires confirmés par les villes, ou du passage à la commune suivante par population une fois que le registre en fournira une.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 31 octobre 2026 (cinquante-sixième) : Haute-Garonne (31) revisée, Blagnac reprise sur le web : aucune fiche publiée
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une seule `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c et 177.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal). En tête : le 974 et les autres DOM, exclus (le validateur refuse les coordonnées hors métropole, règle 177). Ensuite le 31 (déficit ≈ 4,8), puis le 59 (≈ 4,4). La passe précédente visait le Nord (59) : la réserve 41.c l'écarte, le 31 redevient éligible.
+
+**Commune, règle 41.d.** Blagnac (27 604 habitants) est la plus peuplée sans fiche en Haute-Garonne. Elle avait été sondée à la passe du 31 octobre (cinquante-quatrième) et reste à reprendre. Les communes suivantes ont déjà été sondées (Muret, Aucamville, Launaguet, Grenade, Beauzelle, et les communes listées à la passe cinquante-deuxième).
+
+**Ce qui a été lu.**
+- Sites officiels de la commune de Blagnac : `blagnac.fr`, `ville-blagnac.fr` et `haute-garonne-tourisme.com` ne répondent pas depuis cet environnement (ni `curl`, ni le navigateur intégré).
+- Recherche web sur le marché de la place des Arts : aucun marché de producteurs à horaires vérifiables. Les événements trouvés (vente d'ouvrages, braderie du centre ancien, inauguration de la place) ne sont pas des marchés de producteurs.
+- Recherche web sur les producteurs en vente directe : une seule source, un annuaire de 2015 qui cite un maraîcher bio de la commune et un point de dépôt hors commune. Rien de daté ni confirmé depuis.
+- Registre Agence Bio, Haute-Garonne, deuxième page de cent : les entrées utiles sont déjà connues, et une entrée au nom d'une personne physique (commune non relevée) a été écartée pour doute sur une personne. Elle ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend aucune fiche vérifiable sur deux sources indépendantes : les sites officiels sont injoignables depuis l'environnement, et les seules sources restantes sont anciennes ou ne datent pas les horaires. Les descentes déjà faites (Muret, Aucamville, Launaguet, Grenade, Beauzelle) n'ont pas non plus rendu cinq fiches.
+
+**Pistes non publiées** (anonymes) :
+- Blagnac, marché de plein air place des Arts : jour et horaires contradictoires selon les annuaires, aucune source municipale joignable. **Déblocage** : jour et horaires confirmés par la mairie ou l'organisateur.
+- Blagnac, maraîcher bio en vente sur place, annuaire de 2015 : activité non confirmée depuis. **Déblocage** : site ou page actuelle du producteur.
+- Blagnac, boutique bio d'un atelier maraîchage d'établissement médico-social : horaires et téléphone divergents (déjà consignée à la passe cinquante-quatrième). **Déblocage** : confirmation par l'établissement.
+
+**Fiches écartées pour doute sur une personne :** une entrée du registre au nom d'une personne physique, en Haute-Garonne (commune non relevée dans cette passe) : non reprise, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : la Haute-Garonne ne peut pas être visée (garde 41.c). Le Nord (59) redevient éligible. La descente du 31 reprendra à Blagnac si l'un des déblocages ci-dessus est publié.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
