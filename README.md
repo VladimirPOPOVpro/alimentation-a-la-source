@@ -45699,3 +45699,33 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les boulangeries, les supermarchés et les points de vente de réseau.
 
 **Point d'arrêt.** Passe suivante : Nord toujours éligible, mais Marcq-en-Barœul et Lambersart sont épuisées sans source indépendante. Prendre Armentières (registre sans point de vente public à ce jour) si le secteur reste éligible, sinon descendre au département suivant du classement. Les pistes déjà consignées ne sont pas rouvertes.
+
+### Passe autonome du 31 octobre 2026 (soixante-septième) : Savoie (73) reprise, Albertville sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`. La demande 13 reste `en_cours`, inchangée : aucune réponse envoyée.
+
+**Secteur, règles 41, 41.c et 410.** Métropole seule, 1 303 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (région 32) : cette région est close pour cette passe (règle 41.c). Haute-Garonne (31), Loire (42) et Calvados (14) restent clos ou épuisés par les passes précédentes. La Savoie (région 84) est ouverte et reprise sur sa commune calculée.
+
+**Commune, règle 41.d.** Aix-les-Bains (passe soixante-cinquième, trois points, aucune photo) reste en pistes. La plus peuplée des communes sans fiche suivante est **Albertville** (19 978 habitants).
+
+**Ce qui a été lu.**
+- Site propre du commerce « Saveurs de nos fermes » : adresse 603 avenue Joseph Fontanet, 73200 Albertville ; horaires du mardi au samedi, 8 h 30 à 19 h 00 ; téléphone publié sur le site ; catégories de produits listées (fruits et légumes, fromages, viandes, produits laitiers, pains, miels, etc.). Magasin de producteurs à plusieurs points de vente en réseau : la taille du réseau n'est pas disqualifiante (règle 3). Confirmé aussi par le répertoire Que Choisir et la fiche de l'agence de tourisme Auvergne-Rhône-Alpes.
+- Jours-de-marché.fr : trois marchés listés à Albertville (place Grenette le samedi, place Antoine Borrel et place du Pénitencier le jeudi, 8 h à 13 h), mais source participative, sans confirmation par la Ville.
+- Site officiel de la Ville d'Albertville : aucune page de marché alimentaire trouvée, recherche interne sans résultat.
+- Fiche du marché du parc du Val des Roses (jds.fr) : page datée de 2025, non reprise.
+- Registre Agence Bio, Savoie, trois cents premiers opérateurs, filtrés sur Albertville, Ugine, Bourg-Saint-Maurice, Grand-Aigueblanche et Grésy-sur-Aix : des supermarchés (écartés), une biocoop de réseau (écartée), des entreprises de préparation ou de stockage sans vente au public, et des exploitations en vente directe dont le nom désigne une personne (écartées sans être reprises).
+
+**Pourquoi rien n'est publié.** Un seul point solide à Albertville, le magasin de producteurs. Les marchés ne reposent que sur une source participative et sur une liste non datée ; la Ville ne les confirme pas. Une fiche isolée n'est pas une zone (règle 248), et la règle 52 exige quatre points avant toute complétion. Le magasin reste donc en pistes avec son travail.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Albertville, magasin de producteurs en réseau, zone commerciale du Chiriac : horaires et adresse confirmés par le site du commerce et deux annuaires. **Déblocage** : une photo honnête du magasin (site, sans personne reconnaissable) et une source municipale ou d'office de tourisme sur ses horaires ; le site du commerce suffit pour la fiche si la photo est acceptable.
+- Albertville, marchés du samedi (place Grenette) et du jeudi (place Antoine Borrel, place du Pénitencier) : source participative seule. **Déblocage** : une page de la Ville ou de l'office de tourisme. Aucune photo honnête trouvée.
+- Grand-Aigueblanche, exploitation en vente directe au registre : nom pouvant désigner une personne, écartée pour doute. Ne se rouvre pas.
+- Grésy-sur-Aix, exploitation en vente directe au registre : désignée par un prénom, écartée pour doute. Ne se rouvre pas.
+- Bourg-Saint-Maurice, exploitation en vente directe au registre : désignée par le nom d'un exploitant, écartée pour doute. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Trois, à Grand-Aigueblanche, Grésy-sur-Aix et Bourg-Saint-Maurice. Non nommées, non reprises.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, la biocoop de réseau, les entreprises sans vente au public, l'association d'insertion d'Albertville (hors catégories), les marchés du jds.fr datés de 2025.
+
+**Point d'arrêt.** Passe suivante : la Savoie est ouverte mais Albertville reste à un point solide. Reprendre au point d'arrêt : une source de la Ville ou de l'office pour les marchés, une photo honnête pour le magasin. Si la Savoie n'apporte pas quatre points, la passe suivante recalcule le classement (règle 410) sans revenir à Aix-les-Bains ni à Albertville sans ces éléments.
