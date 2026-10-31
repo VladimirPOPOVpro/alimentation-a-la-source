@@ -45604,3 +45604,26 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne** : une (Villecroze, voir ci-dessus).
 
 **Contradictions** (règle 5) : horaires du marché de plein vent de Balma, consignés plus haut, non tranchés.
+
+### Passe autonome du 31 octobre 2026 (soixante-troisième) : Corse (20) visée, Ajaccio sondée : aucune fiche publiée
+
+**Demandes.** Backlog : aucune demande `nouvelle`, une seule `en_cours` déjà connue (#13, doute sur une personne, inchangée). Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 303 fiches, comptées par code postal). Corse en un seul bloc 2A+2B. Outre-mer exclu (règle 177). En tête : le 31 (≈ 4,8), exclu par la règle 41.c, la passe précédente le visait. Ensuite le 59, le 60, le 42 et le 38, clos par la règle 247. La Corse (≈ 3,7, trois fiches) est le premier département éligible : la Corse n'a pas été visée depuis la passe cinquante-huitième, et sa descente n'est pas close.
+
+**Commune, règle 41.d.** Bastia et Furiani portent déjà des fiches. Ajaccio (environ 70 000 habitants) est la commune la plus peuplée de Corse sans fiche.
+
+**Ce qui a été lu.** Registre Agence Bio, 2A et 2B, huit pages de cent chacune (1 177 opérateurs uniques), filtré sur Ajaccio, Porto-Vecchio, Propriano, Sartène, Corte et Calvi. Résultat : une douzaine d'entrées ajacciennes ou proches vendent aux particuliers, dont plusieurs au nom d'une personne physique (écartées pour doute sur une personne, non reprises), quelques négoces, des enseignes de grande distribution (hors périmètre, `MODERATION.md`), et des entreprises sans point de vente identifiable. Aucune source de la Ville d'Ajaccio ni de l'office de tourisme n'a été ouverte dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucun commerce d'Ajaccio n'a encore été recoupé sur deux sources indépendantes : l'identification se limite au registre, et les sites des commerces candidats n'ont pas été ouverts ni vérifiés. Cinq fiches groupées ne sont pas atteintes cette passe.
+
+**Pistes non publiées** (anonymes, Corse) :
+- Ajaccio, deux ou trois magasins bio indépendants du registre : existence au registre, adresse BAN et horaires à confirmer. **Déblocage** : site officiel de chaque commerce donnant adresse et horaires, et ouverture confirmée au registre des entreprises.
+- Ajaccio, points de vente en circuit court d'une structure multi-sites du registre : à recouper ville par ville. **Déblocage** : page « nos points de vente » du site de la structure.
+- Ajaccio, marché de producteurs : non recensé cette passe. **Déblocage** : page marchés de la Ville d'Ajaccio ou de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne :** environ six entrées du registre au nom de personnes physiques, à Ajaccio et dans les communes voisines. Nommées nulle part, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : le 31 redevient éligible (règle 41.c : la Corse est visée cette passe). Reprendre Ajaccio sur la Ville et l'office de tourisme, puis sur les sites des commerces du registre ; si cinq commerces ne tiennent pas, descendre à la commune suivante de Corse sans fiche par population (règle 247, douze communes éprouvées au plus).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés, donc ni lint ni build n'ont été relancés.
