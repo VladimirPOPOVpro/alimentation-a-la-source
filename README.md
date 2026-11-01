@@ -46334,3 +46334,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : la règle 41.c écarte le Nord ; la formule désignera la région suivante du classement. Les communes du Nord restent à reprendre seulement si une source officielle nouvelle (site de la commune ou de l'office de tourisme) est publiée.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent neuvième) : Haute-Garonne (31) visée, Muret sondée : rien publié
+
+**Backlog.** Aucune demande `nouvelle`, aucune demande `en_cours` touchée. Aucun email à simuler.
+
+**Secteur, règle 41.** Dénominateur : toutes les communes que rend `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal, outre-mer exclu (règles 93 et 177). Le Nord (59) a été visé à la passe précédente : la réserve 41.c ferme la région Hauts-de-France pour cette passe. Retenue : **Haute-Garonne (31)**, région 76, déficit suivant en métropole (≈ 5,0). La passe précédente visait déjà ce département, mais la réserve ne porte que sur deux passes consécutives.
+
+**Commune, règle 41.d et 82.** Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux ont déjà des fiches. **Muret** est la commune la plus peuplée sans fiche : elle est reprise, comme le prévoit la règle 82, à partir de ses pistes.
+
+**Ce qui a été lu.**
+- Registre des entreprises : un établissement ouvert répond à l'enseigne du Biocoop de Muret, à l'adresse du boulevard de Joffrery. La Base Adresse Nationale le géocode à `[1.337583, 43.482127]` (score 0,97) : coordonnées disponibles.
+- Page « magasins » du site officiel de l'enseigne : accessible, mais Muret n'y apparaît pas dans la liste rendue. Les horaires ne reposent que sur un annuaire participatif, avec une coupure de midi incohérente : doute de fait, horaires non publiés.
+- Site de la mairie : injoignable pendant la passe (échec de résolution du nom). Le marché hebdomadaire ne repose donc que sur un annuaire tiers, sans lieu précis confirmé.
+- Registre de l'Agence Bio, département 31 : les opérateurs à Muret sont des entreprises sans point de vente public identifiable, ou une structure dont la fiche remonte à 2019 et dont l'activité n'est pas vérifiable. Rien retenu.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Décision.** Aucune fiche publiée. À Muret, seul un point de vente est vérifié au registre et géocodé ; le marché n'a qu'une source tierce. Le groupe de cinq n'est pas atteint, et publier une fiche isolée casserait le groupement d'une passe. Le Biocoop reste en piste.
+
+**Déblocage.** Pour Muret : deux points de vente vérifiés en plus du Biocoop, un marché confirmé par la mairie une fois son site de nouveau joignable, et les horaires du Biocoop confirmés sur une source de l'enseigne.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grandes surfaces, les grossistes, et les exploitations du registre sans point de vente public.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
