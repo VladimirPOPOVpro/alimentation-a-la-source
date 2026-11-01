@@ -46140,3 +46140,27 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio à Roanne portent un nom de particulier comme enseigne : non publiées, non nommées, ne se rouvrent pas.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (quatre-vingt-cinquième) : Nord (59) visé, Wattrelos sondée à nouveau, Lambersart relue : rien publié
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter ; aucun email à simuler.
+
+**Secteur, règles 41, 177 et 224.** Dénominateur : toutes les communes que rend `geo.api.gouv.fr`, outre-mer compris ; 1 304 fiches comptées sur le code postal. La Réunion (974) reste première mais sort du classement (règle 177). La Loire (42) a été visée à la passe précédente : la réserve de la règle 41 l'écarte. Le **Nord (59)** est retenu, région différente.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Elle est sondée une dernière fois, sans source nouvelle.
+
+**Ce qui a été lu.**
+- Site de la Ville de Wattrelos : répond (200), mais la page d'accueil ne rend aucun lien ni texte sur les marchés ou le commerce de proximité (rendu sans script, donc sans garantie).
+- Registre Agence Bio, département 59, premier lot de cent opérateurs, filtré sur les communes voisines à forte population : un seul opérateur à Lambersart, vente aux particuliers déclarée, aucune trace indépendante trouvée sur le web (recherche sur son adresse sans résultat).
+- Site de Marcq-en-Barœul : ne répond pas (code 000). Site de Lambersart : redirection vers le domaine nu, non exploitée.
+
+**Pourquoi rien n'est publié.** Une fiche isolée ne forme pas le groupe de cinq, et l'unique piste de Lambersart n'a aucune source indépendante. Publier sur le seul registre serait contraire à la règle 6 et à l'exigence de vérification.
+
+**Pistes non publiées (anonymes, Nord).**
+- Lambersart, un opérateur bio déclaré à la vente aux particuliers : aucune source indépendante. **Déblocage** : une page du site de l'opérateur, ou un annuaire tiers qui la cite, et quatre autres commerces vérifiés à côté.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs du registre enregistrés sous un nom qui peut être celui d'un exploitant, les grossistes et les grandes surfaces.
+
+**Points d'arrêt.** Passe suivante : la formule désignera encore le Nord, Wattrelos ne se reprend que si la Ville publie ses marchés ; Lambersart se reprend avec la piste ci-dessus.
