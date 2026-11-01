@@ -45873,3 +45873,30 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces (Picard, SPAR, Naturalia et La Vie Claire mentionnés sans adresse vérifiée), les grossistes et préparateurs du registre sans vente au public, les marchés cités seulement par des sites participatifs sans recoupement.
 
 **Point d'arrêt.** Passe suivante : Haute-Garonne reste visée tant que son déficit est positif ; Blagnac reste la commune en cours avec les déblocages ci-dessus. Si Blagnac ne rend pas trois autres sources indépendantes, la règle 247 fait descendre à Plaisance-du-Touch, puis à Balma, avec les mêmes exigences.
+
+## Passe autonome du 1er novembre 2026 (soixante-treizième) : Nord (59) visé, Wattrelos reprise, Marcq-en-Barœul et Armentières sondées : aucune fiche publiée
+
+**Backlog.** Une demande `en_cours` (n° 13), inchangée : elle désigne un commerce par un nom de particulier et ne contient qu'une adresse privée. Doute sur une personne, elle reste en attente et ne se rouvre pas dans cette passe. Aucune demande `nouvelle`, aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 41.d.** Métropole seule (règle 93), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La Haute-Garonne est en tête du déficit, mais elle a été visée à la passe précédente : la réserve 41.c l'écarte. Le **Nord (59)** est retenu, région différente de la passe précédente.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Marcq-en-Barœul (40 184) suit, puis Lambersart (27 090) et Armentières (26 998).
+
+**Ce qui a été lu.**
+- `jours-de-marche.fr` : trois marchés de Wattrelos, tous hebdomadaires en matinée (un le jeudi au parking des Basanos, un le vendredi rue Frédéric Chopin, un le dimanche place de la République, 8h-13h). Source participatoire, qui se décharge elle-même de toute garantie et renvoie vers la mairie. Aucune page de la Ville ne les confirme cette passe.
+- Le même site ne liste, pour la commune, aucun producteur domicilié à Wattrelos : les fermes proposées sont à Toufflers, Wambrechies, Lille, Comines et Wavrin, hors commune.
+- Site de la Ville de Marcq-en-Barœul : ne répond toujours pas (code 000, comme aux passes précédentes).
+- Site de la Ville d'Armentières : ne répond pas (code 000).
+- Site de la Ville de Lambersart : répond (redirection 301). Non sondée à fond cette passe.
+
+**Pourquoi rien n'est publié.** Wattrelos n'a aucun commerce de vente directe vérifié sur une source indépendante ; ses trois marchés ne reposent que sur un site participatif, sans recoupement par la Ville. Une fiche isolée ne forme pas le groupe de cinq. Marcq-en-Barœul et Armentières sont injoignables.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos, trois marchés hebdomadaires du matin : jours et horaires d'un seul site participatif. **Déblocage** : une page de la Ville qui les liste, ou une seconde source indépendante, et au moins deux commerces vérifiés à côté.
+- Lambersart : aucune source commerciale recoupée cette passe. **Critère** : sonder le site de la Ville et le registre bio, comme pour les autres communes du Nord.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe. Les entrées déjà écartées (registre Agence Bio, Wattrelos et Halluin) ne se rouvrent pas.
+
+**Ce qui a été volontairement laissé de côté.** Les fermes situées hors de Wattrelos (Toufflers, Wambrechies, Comines, Wavrin, Lille), les marchés de Roubaix listés par le même site, les grandes surfaces et les grossistes du registre.
+
+**Points d'arrêt.** Passe suivante : Nord toujours visé, mais une seule commune à la fois. Lambersart est la prochaine à instruire, avec le registre bio et le site de la Ville. Wattrelos ne se reprend que si la Ville publie ses marchés. Marcq-en-Barœul et Armentières : seulement si leur site répond.
