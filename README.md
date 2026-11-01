@@ -46028,3 +46028,21 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Points d'arrêt.** La passe suivante reprend Muret avec la source de la Ville comme première exigence, ou change de commune de Haute-Garonne (Balma et Plaisance-du-Touch restent en pistes).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (soixante-dix-neuvième) : Nord (59) visé, communes déjà éprouvées : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours`. Aucun email à envoyer.
+
+**Secteur, règles 41 et 41.c.** Métropole seule. La Haute-Garonne (31), visée à la passe précédente, est exclue par la réserve 41.c. Le Nord (59) reste le département de plus grand déficit (environ 6,5 au calcul de la règle 41, 45 fiches publiées).
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche ont déjà été éprouvées aux passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières, Mons-en-Barœul, Merville, Lesquin). Aucune source nouvelle n'a été ouverte à leur sujet, faute de déblocage publié.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord, six pages de cent (600 opérateurs), filtrées sur les ventes aux particuliers et regroupées par commune. Aucune commune du Nord hors de celles déjà parcourues ne rend cinq opérateurs vendant aux particuliers ; Cambrai et Villeneuve-d'Ascq en rendent trois chacune, dont les pistes sont déjà consignées.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne réunit, dans les sources lues, cinq commerces vérifiables. Publier ici reviendrait à inventer des fiches.
+
+**Points d'arrêt.** Le Nord reste à reprendre seulement si une piste se débloque (voir les sections « Pistes non publiées » du Nord). Passe suivante : le 31 redevient éligible, à reprendre à Muret ou Blagnac selon les déblocages publiés.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
