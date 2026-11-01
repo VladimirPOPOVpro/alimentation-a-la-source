@@ -45999,3 +45999,32 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Points d'arrêt.** Passe suivante : la Haute-Garonne redevient éligible (règle 41.c), mais elle reste close par la règle 247. Le Nord ne se revisite qu'avec un déblocage nommé ci-dessus : Lambersart d'abord, avec la demande de photographie ou de produits à la Ville ; Armentières seulement si son site répond.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (soixante-dix-huitième) : Haute-Garonne (31) visée, Muret sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter. Aucun email à envoyer.
+
+**Secteur, règles 41 et 41.c.** Métropole seule. Le Nord (59) est exclu par la réserve 41.c (passe précédente). La Haute-Garonne (31), déficit d'environ 5,1 au calcul de la règle 41, est retenue : elle n'a pas été visée à la passe précédente.
+
+**Commune.** Muret (31600), 26 079 habitants, sans fiche publiée. Sondée sur trois sources : registre des entreprises, Agence Bio, sites des commerces.
+
+**Ce qui a été lu.**
+- Registre Agence Bio (300 opérateurs du 31) : à Muret, les opérateurs sont des personnes physiques ou des grossistes. Une seule enseigne de distribution (supermarché) est écartée par MODERATION.md.
+- So.Bio Muret (6 rue Pierre de Fermat) : le registre des entreprises indique **zéro établissement ouvert** pour la société exploitante. Fiche non publiée (règle 6).
+- Biocoop Muret (20 boulevard de Joffrery) : le site officiel du magasin donne des horaires (lundi à samedi, 9h à 19h30, fermé le dimanche), un téléphone et une adresse cohérents avec la BAN. **Mais** le registre des entreprises rattache l'adresse à l'exploitante avec un établissement **fermé** à cette adresse, l'exploitante restant active à Longages. Le site officiel est vivant, le registre ne l'est pas : la règle 6 dit de ne pas publier. Contradiction consignée, à relire au prochain passage.
+- Marchés de Muret : les sources se contredisent sur le jour et l'horaire (mardi matin et samedi matin selon les sources, 7h30 à 13h selon l'une, 8h à 13h selon l'autre). Une source de marché de producteurs repose sur une enseigne à prénom ; elle n'est pas retenue, par prudence sur les personnes. Aucun produit ni photo n'est vérifié sur une source de la Ville.
+
+**Pourquoi rien n'est publié.** Un commerce est fermé au registre, un autre est contredit par le registre, et les marchés n'ont ni horaire unique ni liste de produits vérifiée. Aucune fiche n'atteint le niveau exigé.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret, magasin bio à l'enseigne Biocoop (boulevard de Joffrery) : site officiel vivant, registre de l'exploitante indiquant l'établissement fermé à l'adresse. **Déblocage** : une attestation à jour du registre ou une source datée de l'exploitante montrant l'activité à cette adresse.
+- Muret, magasin bio So.Bio (rue Pierre de Fermat) : registre à zéro établissement ouvert. Piste close tant que le registre ne change pas.
+- Muret, marchés (mardi et samedi, horaires contradictoires) : **Déblocage** : horaire confirmé par la Ville, et deux produits concrets sur une source autre que l'annuaire participatif.
+
+**Fiches écartées pour doute sur une personne.** Aucune fiche de personne n'a été rédigée. Les enseignes contenant un prénom ou un nom de personne ont été laissées de côté sans être nommées.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs de l'Agence Bio à nom de personne physique, les grossistes, les grandes surfaces, les commerces généralistes.
+
+**Points d'arrêt.** La passe suivante reprend Muret avec la source de la Ville comme première exigence, ou change de commune de Haute-Garonne (Balma et Plaisance-du-Touch restent en pistes).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
