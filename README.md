@@ -45841,3 +45841,35 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces (Franprix, Carrefour, Intermarché, Picard, Vival, Coccimarket), le grossiste bio du registre, les marchés seulement signalés par des sites participatifs, et les producteurs situés hors du département.
 
 **Point d'arrêt.** Passe suivante : Val-de-Marne reste ouvert, Villejuif reste la commune en cours avec les déblocages ci-dessus. Si Villejuif ne rend pas deux commerces permanents vérifiés, la règle 247 fait descendre à Maisons-Alfort (56 799 habitants), la commune suivante sans fiche.
+
+## Passe autonome du 1er novembre 2026 (soixante-douzième) : Haute-Garonne (31) visée, Blagnac sondée : une fiche publiée (Biocoop Blagnac)
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter. Aucun email envoyé, aucune réponse à simuler.
+
+**Secteur, règles 41, 41.c et 41.d.** Métropole seule (les départements d'outre-mer sont écartés par la règle 93 : le validateur n'accepte que des coordonnées métropolitaines). Population `geo.api.gouv.fr`, 1 303 fiches comptées sur le code postal. Le département de plus grand déficit est la Haute-Garonne (déficit de 4,81, 23 fiches publiées). La passe précédente visait la Val-de-Marne (Île-de-France) : la réserve « pas la même région deux passes de suite » ne bloque pas l'Occitanie.
+
+**Commune, règle 41.d.** Commune la plus peuplée de Haute-Garonne sans aucune fiche : **Blagnac** (27 604 habitants). Toulouse, Colomiers, Tournefeuille et Cugnaux sont déjà couvertes ; Blagnac n'apparaît dans aucune fiche ni aucune piste.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne (300 opérateurs relus, pagination de 100) : cinq opérateurs à Blagnac. Deux sont des préparateurs ou distributeurs sans vente au public, un est une grande surface bio écartée par MODERATION, le quatrième est une pâtisserie individuelle hors sujet. Le cinquième est une boulangerie bio artisanale : voir les pistes.
+- Biocoop Blagnac : site officiel du magasin (`blagnac.biocoop.net`), horaires publiés (lundi au samedi, 9h-19h30, fermé le dimanche) et données structurées du site concordantes ; téléphone 05 61 61 48 10 concordant sur le site et un annuaire ; adresse 2 rue Henri Matisse confirmée par la Base Adresse Nationale (coordonnées `[lon, lat]` = `[1.38787, 43.64241]`) et par le registre Agence Bio.
+- Marchés : deux marchés de plein vent sont listés sur le site participatif jours-de-marche.fr (mercredi 16h-19h, place des Marronniers ; samedi 8h-13h, parc des Ramiers « jusqu'à la fin des travaux de la place des Arts ») ; un annuaire de 2015 cite un marché de producteurs le samedi matin et un autre le mercredi après-midi. Le site de la Ville (`mairie-blagnac.fr`) est resté injoignable depuis cet environnement.
+- Producteurs : un ESAT maraîcher bio à Blagnac, route de Grenade. Sources contradictoires sur la vente sur place (voir les pistes).
+- Enseigne Biocoop photographiée par le site du magasin : une façade sans personne reconnaissable, enregistrée en JPEG à sa largeur d'origine (451 px, sans agrandissement).
+
+**Ce qui est publié.** Une fiche, `biocoop-blagnac` (magasin-bio, piliers alimentation, environnement, économie), comme les autres fiches Biocoop du site. Le site du magasin est une source indépendante de la fiche : aucun fait n'est marqué `a_confirmer`.
+
+**Pourquoi le reste ne se publie pas.** Cinq fiches n'ont pas été atteintes à Blagnac. Les marchés ne reposent que sur un site participatif et un annuaire de 2015, et le site de la Ville reste injoignable ; le samedi, le lieu dépend d'un chantier, la Ville ayant annoncé l'inauguration de la place des Arts pour le 11 septembre 2026. Aucune photo des marchés n'est disponible sans personne identifiable. Le seul ESAT maraîcher pose une contradiction sur la vente sur place. Descente à la commune suivante par population : Plaisance-du-Touch (21 079 habitants) n'a donné aucun marché daté ni aucun producteur vérifiable ; Balma (17 772 habitants) n'a donné qu'une liste de commerçants de 2021 et un magasin bio sans adresse vérifiée. Aucune de ces communes n'est retenue ; elles restent non publiées.
+
+**Pistes non publiées (anonymes, Blagnac).**
+- Blagnac, marché de plein vent du mercredi (16h-19h, place des Marronniers) : jours et horaires d'un seul site participatif, confirmés par un annuaire de 2015 ; aucune source de la Ville, aucune photo. **Déblocage** : une page de la Ville, ou une source récente indépendante, et une photo sans personne reconnaissable.
+- Blagnac, marché de plein vent du samedi (8h-13h, parc des Ramiers, puis place des Arts) : le lieu dépend de l'état du chantier, et la place des Arts a été inaugurée ou rouverte à l'automne 2026 selon les annonces de la Métropole. **Déblocage** : le lieu actuel publié par la Ville.
+- Blagnac, ESAT maraîcher bio (route de Grenade) : un annuaire de 2015 indique une vente sur place et en paniers, une fiche plus récente indique qu'il ne vend pas sur place et renvoie vers le contact direct. **Critère** (règle 55) : publier seulement si une source qui ne dépend pas de l'autre tranche, par exemple l'ESAT lui-même.
+- Blagnac, boulangerie bio artisanale au registre Agence Bio (boulevard Firmin Pons) : le registre indique une vente aux particuliers à cette adresse, mais le site de l'artisan ne donne que des adresses toulousaines. **Critère** (règle 55) : une source indépendante du registre et du site de l'artisan.
+- Blagnac, deux points de dépôt d'un annuaire de 2015 (Jardins de Labastide, AMAP de Saint-Pierre) : aucune adresse ni horaire actuel. **Déblocage** : une page vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe. Une pâtisserie de Blagnac relève d'une entreprise individuelle dont le nom patronymique figure au registre : elle est hors sujet (pâtisserie, sans vente de producteurs), sans nom cité.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces (Picard, SPAR, Naturalia et La Vie Claire mentionnés sans adresse vérifiée), les grossistes et préparateurs du registre sans vente au public, les marchés cités seulement par des sites participatifs sans recoupement.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste visée tant que son déficit est positif ; Blagnac reste la commune en cours avec les déblocages ci-dessus. Si Blagnac ne rend pas trois autres sources indépendantes, la règle 247 fait descendre à Plaisance-du-Touch, puis à Balma, avec les mêmes exigences.

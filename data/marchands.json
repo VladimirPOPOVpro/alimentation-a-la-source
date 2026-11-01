@@ -34372,5 +34372,32 @@
     "description": "Marché alimentaire du cours Voltaire, avec un espace réservé aux producteurs agréés. Ces producteurs suivent une charte d’engagements (exploitation à taille humaine, vente directe, visite préalable par un organisme agricole du département).",
     "image_url": "/images/marchands/marche-cours-voltaire-aubagne.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "biocoop-blagnac",
+    "nom": "Biocoop Blagnac",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement",
+      "economie"
+    ],
+    "lat": 43.64241,
+    "lon": 1.38787,
+    "adresse": "2 rue Henri Matisse, 31700 Blagnac",
+    "horaires": "Du lundi au samedi de 9h à 19h30 ; fermé le dimanche, d'après la page du magasin sur le site du réseau Biocoop.",
+    "produits": [
+      "Boucherie traditionnelle",
+      "Crèmerie et fromages",
+      "Pains frais",
+      "Vrac",
+      "Produits bio pour la beauté, le bien-être, la maison et l'hygiène bébé",
+      "Service traiteur"
+    ],
+    "description": "Magasin du réseau Biocoop, sur la route de Grenade à Blagnac. Son site présente une boucherie traditionnelle, une crèmerie, des pains frais, un rayon vrac et un service traiteur, ainsi qu'un espace de coworking.",
+    "telephone": "05 61 61 48 10",
+    "site_web": "https://blagnac.biocoop.net/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20Henri%20Matisse%2C%2031700%20Blagnac",
+    "image_url": "/images/marchands/biocoop-blagnac.jpg"
   }
 ]
