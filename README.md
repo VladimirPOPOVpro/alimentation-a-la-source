@@ -46318,3 +46318,19 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grandes surfaces, les grossistes, les boulangeries et boucheries sans mention de vente directe, et les exploitations du registre Agence Bio qui n'ont pas de point de vente public.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre 2026 (deux cent huitième) : Nord (59) visé, communes de la descente sondées au registre : rien publié
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177). La passe précédente visait la Haute-Garonne (Occitanie) : cette région est fermée pour cette passe (règle 41.c). Le Nord (59, Hauts-de-France, déficit ≈ 6,5 en tête de la métropole) n'a pas été visé à la passe précédente : il est retenu.
+
+**Commune, règle 41.d et 247.** Les communes les plus peuplées du Nord sans fiche ont déjà été éprouvées aux passes précédentes. La descente reprend à La Madeleine, Croix, Grande-Synthe, Ronchin, Faches-Thumesnil, Hem, Sin-le-Noble, Saint-Amand-les-Eaux, Halluin et Denain, sans rouvrir les communes déjà éprouvées.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, département 59, deux pages de cent opérateurs, filtrées sur ces dix communes. Presque tous sont des opérateurs à vente exclusivement professionnelle (grossistes, transformateurs, logistique), ou des entreprises individuelles sous un nom patronymique sans enseigne publique. Ceux-là ne sont ni nommés ni publiés.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entreprises individuelles au nom patronymique, dans cinq des dix communes sondées. Aucune n'a été publiée ni nommée.
+
+**Décision.** Aucune fiche publiée. Dans aucune des dix communes le registre ne donne cinq commerces de vente directe vérifiables, et les pistes restantes ne reposent sur aucune source indépendante ouverte. Le groupe de cinq n'est pas atteint.
+
+**Points d'arrêt.** Passe suivante : la règle 41.c écarte le Nord ; la formule désignera la région suivante du classement. Les communes du Nord restent à reprendre seulement si une source officielle nouvelle (site de la commune ou de l'office de tourisme) est publiée.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
