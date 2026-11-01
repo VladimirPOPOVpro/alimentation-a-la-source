@@ -46243,3 +46243,30 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre 2026 (deux cent cinquième) : Yvelines (78) visées, Conflans-Sainte-Honorine sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste en_cours (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule. Nord (59) exclu : visé à la passe précédente (règle 41.c). Haute-Garonne (31) close par la règle 247 (douze communes éprouvées). Rhône (69), Isère (38), Loire (42), Seine-Saint-Denis (93) déjà éprouvés par plusieurs passes. Les Yvelines (78) sont le premier département ouvert du classement, sans passe depuis plus de trois semaines.
+
+**Commune, règle 41.d.** Mantes-la-Jolie (43 526 habitants) est la plus peuplée sans fiche, mais déjà éprouvée les 13, 20 et 23 octobre : aucune page officielle n'indique jour ni lieu du marché. Poissy, éprouvée le 23 octobre, n'a qu'un opérateur de vente au particulier, rattaché à une entreprise individuelle dont la dénomination contient un nom de personne : écarté, non nommé. Conflans-Sainte-Honorine (36 958 habitants) est sondée à son tour.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés et magasins de producteurs de Conflans : des guides tiers (jours de marché, annuaires de magasins) comptent sept marchés hebdomadaires sans détailler les producteurs présents. Le marché du terroir de la Ville est annuel et n'a pas de date 2026 confirmée.
+- Carte circuit court de Que Choisir : un seul commerce bio, déjà consigné en piste dans les passes précédentes. Il n'est pas un magasin de producteurs vérifié, et sa dénomination reprend un nom de famille : non publié.
+- Registre Agence Bio, département 78 (cent premiers opérateurs) : opérateurs de Conflans en boulangerie et vente en gros, aucun point de vente de producteurs vérifiable.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne décrit cinq commerces vérifiables à Conflans, et aucun producteur n'y est identifié avec horaires. Une fiche isolée, ou un commerce dont l'identité pourrait désigner une personne, ne rend pas la zone utilisable (règles 52 et 247).
+
+**Pistes non publiées (anonymes, Yvelines).**
+- Conflans-Sainte-Honorine, commerce bio déjà consigné : dénomination possiblement patronymique. **Déblocage** : une source qui établisse une enseigne commerciale distincte du nom d'un particulier, et quatre autres commerces vérifiés à côté.
+- Mantes-la-Jolie, marché du Val Fourré : **déblocage** inchangé (page de la Ville ou de l'office de tourisme donnant jour et lieu).
+
+**Fiches écartées pour doute sur une personne.** Une entreprise individuelle à Poissy (voir plus haut), non rouverte.
+
+**Contradictions** (règle 5) : jours des marchés de Conflans selon les guides tiers, consignés, non tranchés.
+
+**Points d'arrêt.** Passe suivante : la formule ne peut pas viser les Yvelines si la précédente les a visées ; ici la précédente visait le Nord, donc les Yvelines restent éligibles. Mantes et Poissy ne se reprennent qu'avec une source nouvelle ; Conflans se reprend avec le déblocage ci-dessus. Sinon descendre à Trappes ou Houilles, à éprouver contre le registre et une source de la Ville.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
