@@ -46294,3 +46294,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : la règle 41.c écarte le Nord ; la formule désignera alors la région suivante du classement. Les communes du Nord restent à reprendre seulement si une source officielle nouvelle est publiée.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (deux cent septième) : Haute-Garonne (31) visée, Muret et Plaisance-du-Touch sondées : rien publié
+
+**Backlog.** Aucune demande `nouvelle` à traiter. La demande déjà `en_cours` n'a pas été touchée par cette passe. Aucun email à simuler.
+
+**Secteur, règles 41 et 177.** Dénominateur : toutes les communes que rend `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Les plus forts déficits sont outre-mer (La Réunion, Guadeloupe, Martinique, Guyane, Mayotte) : ils sortent du classement par la règle 177, le validateur refusant les coordonnées hors métropole. Le Nord (59), à environ 4,66 en tête de la métropole, a été visé à la passe précédente : la réserve 41.c l'écarte. Retenue : **Haute-Garonne (31)**, région 76, déficit suivant. La passe deux cent cinquième visait les Yvelines, la réserve est respectée. La passe suivante ne peut pas viser l'Occitanie.
+
+**Commune, règle 41.d.** Communes de plus de 20 000 habitants du 31 : Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux ont déjà des fiches. **Muret (26 079 habitants)** n'en a aucune : elle est retenue.
+
+**Ce qui a été lu à Muret.**
+- Registre des entreprises : le Biocoop du boulevard de Joffrery est exploité par une société active, avec un établissement ouvert à cette adresse (règle 6 satisfaite). Ses horaires ne viennent que d'un annuaire participatif, dont une coupure de midi incohérente : doute de fait, horaires non publiés.
+- Office de tourisme de l'agglomération du Muretain, page « Producteurs locaux » : une quinzaine de fiches à Muret. Presque toutes sont des exploitations sous un nom patronymique, des entreprises sans point de vente public, ou sont situées dans les communes voisines (Seysses, Eaunes, Fonsorbes, Frouzins).
+- Marché : un annuaire tiers (jours-de-marche.fr) annonce un marché le mardi et le samedi, de 8 h à 13 h, en centre-ville, et un marché bio le samedi, à la halle aux grains. Une seule source tierce, le site de la mairie étant injoignable pendant la passe, et aucun lieu précis : non géocodable sans estimer, donc non publié.
+- Écartées pour doute sur une personne : une cagette de producteurs du mardi dont l'enseigne comporte un prénom, et un registre de ventes directes qui ne donne que des personnes. Ni nommées, ni publiées.
+
+**Descente à Plaisance-du-Touch (31830, 21 079 habitants), règle 41.d.** Muret ne rendant pas cinq points, la commune suivante par population est visitée. Registre : la société BIO PLAISANCE est active au 44 avenue des Pyrénées, à l'adresse du Biocoop de Plaisance-du-Touch recensé par un annuaire tiers. Marché : jours-de-marche.fr place Bombail, jeudi et samedi de 6 h à 13 h, une seule source. Écartés : un magasin du centre commercial Bernadet absent du registre, et un restaurant-cave du 32 route de Toulouse qui revend les vins d'autrui (règles 2 et 3).
+
+**Décision.** Aucune fiche publiée. Dans aucune des deux communes le groupe de cinq n'est atteint : chacune ne compte qu'un magasin bio et un marché à source unique. Publier une fiche isolée casserait le groupement d'une passe. Le Biocoop de Muret et celui de Plaisance-du-Touch restent en pistes.
+
+**Déblocage.** Pour Muret : un point de vente de plus, un marché confirmé par la mairie, et les horaires du Biocoop confirmés sur une source de l'enseigne. Pour Plaisance-du-Touch : la même logique, plus un second point de vente vérifié au registre.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grandes surfaces, les grossistes, les boulangeries et boucheries sans mention de vente directe, et les exploitations du registre Agence Bio qui n'ont pas de point de vente public.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
