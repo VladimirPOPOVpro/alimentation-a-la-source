@@ -46084,3 +46084,21 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre dont l'enseigne est un nom de particulier, dans les communes ci-dessus : non publiées, non nommées, ne se rouvrent pas.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre (quatre-vingt-deuxième) : Haute-Garonne (31) visée, Aucamville sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours », sans changement.
+
+**Classement, règle 41.** Métropole seule : La Réunion et les autres départements d'outre-mer, en tête du calcul, restent exclus (le validateur refuse les coordonnées hors métropole). Le Nord (59) est fermé pour cette passe, puisque la précédente le visait (règle 41.c). La Haute-Garonne (31) est le premier département métropolitain ouvert, avec un déficit de 3,8 fiches et 24 fiches publiées.
+
+**Commune, règle 41.d.** Les communes les plus peuplées de la Haute-Garonne sont déjà pourvues ou éprouvées (Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Castanet-Tolosan, Ramonville). La descente retient Aucamville (Haute-Garonne, 31140, environ 9 600 habitants), sans fiche.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 31, première page lue. Les annuaires de producteurs (jours-de-marche, Pages Jaunes, LocalBiz) donnent pour Aucamville des résultats contradictoires : un marché de producteurs le vendredi de 17 h à 19 h relève d'une commune homonyme du Tarn-et-Garonne (82600), à écarter ; une exploitation maraîchère « vente à la ferme le mercredi de 16 h à 20 h » n'a pas de commune ni d'adresse recoupées ; une ruche « mercredi de 17 h à 19 h » ne figure que dans un annuaire sans seconde source. Aucune enseigne n'a été recoupée sur un site officiel du commerce, un registre des entreprises ou une source indépendante récente.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables. Les pistes restent isolées et les horaires divergent selon les sources : publier serait une fiche fausse.
+
+**Points d'arrêt.** Reprendre Aucamville en cherchant, pour chaque enseigne, un site officiel ou une fiche de la commune, puis le registre des entreprises. Si Aucamville ne tient pas, descendre à Launaguet, puis Grenade et Beauzelle. La prochaine passe ne vise pas l'Occitanie (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
