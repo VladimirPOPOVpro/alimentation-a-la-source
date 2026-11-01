@@ -46270,3 +46270,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : la formule ne peut pas viser les Yvelines si la précédente les a visées ; ici la précédente visait le Nord, donc les Yvelines restent éligibles. Mantes et Poissy ne se reprennent qu'avec une source nouvelle ; Conflans se reprend avec le déblocage ci-dessus. Sinon descendre à Trappes ou Houilles, à éprouver contre le registre et une source de la Ville.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (deux cent sixième) : Nord (59) visé, communes restantes sondées : rien publié
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter ; aucun email à simuler.
+
+**Secteur, règles 41, 177 et 224.** Dénominateur : toutes les communes que rend `geo.api.gouv.fr`, outre-mer compris ; 1 304 fiches comptées sur le code postal. Les départements d'outre-mer sortent du classement (règle 177). La passe précédente visait les Yvelines (Île-de-France) : la réserve de la règle 41.c ne retient que cette région, et le **Nord (59)** a le plus grand déficit, avec environ 4,5 en tête de la métropole. Il est retenu.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche ont déjà été éprouvées aux passes précédentes (Wattrelos, Marcq-en-Barœul, Lambersart, Armentières, Cambrai, Maubeuge, Mons-en-Barœul, Coudekerque-Branche). Descente par population : La Madeleine (21 790), Croix (20 566), Grande-Synthe (20 239), Ronchin (19 787), puis Faches-Thumesnil, Hem, Sin-le-Noble, Saint-Amand-les-Eaux, Halluin et Denain.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 59, mille cent opérateurs paginés par cent, filtrés sur ces communes. Les opérateurs à vente aux particuliers y sont peu nombreux, et la plupart sont des entreprises individuelles au nom patronymique (écartées, voir plus bas) ou des structures sans point de vente public.
+- Aucun commerce de circuit court n'a été vérifié, sur une source indépendante, dans ces communes pendant cette passe. Une fiche n'a donc pas été ouverte, et aucun site n'a été inscrit.
+
+**Fiches écartées pour doute sur une personne.** Sept entreprises individuelles au nom patronymique, dans six communes du Nord, relevées dans le registre (La Madeleine, Ronchin, Sin-le-Noble, Eringhem, Faches-Thumesnil, Hem). Aucune n'a été publiée ni nommée.
+
+**Pistes non publiées (anonymes, Nord).**
+- Coudekerque-Branche, deux magasins bio déjà consignés : horaires seulement sur des annuaires tiers. **Déblocage** : horaires confirmés sur la page officielle de l'enseigne, inchangé.
+- Lambersart et Wattrelos : inchangés depuis les passes précédentes. **Déblocage** : voir les passes précédentes.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grandes surfaces et les grossistes du registre, les boulangeries et boucheries sans mention de vente directe.
+
+**Points d'arrêt.** Passe suivante : la règle 41.c écarte le Nord ; la formule désignera alors la région suivante du classement. Les communes du Nord restent à reprendre seulement si une source officielle nouvelle est publiée.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
