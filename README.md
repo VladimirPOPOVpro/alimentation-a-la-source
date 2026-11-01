@@ -45811,3 +45811,33 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les grossistes du registre, les enseignes sans adresse vérifiée, et Laignelet (commune non calculée par la formule).
 
 **Point d'arrêt.** Passe suivante : Ille-et-Vilaine reste ouverte et Fougères reste la commune en cours, avec les déblocages ci-dessus. Si la ville ne rend pas quatre points vérifiables, la règle 247 fait descendre à une commune limitrophe de l'intercommunalité. La région 44 est close pour la passe suivante (règle 41.c) ; la région 53 redevient éligible après cette passe.
+
+## Passe autonome du 1er novembre 2026 (soixante-et-onzième) : Val-de-Marne (94) repris, Champigny-sur-Marne et Villejuif sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`. La demande n° 13 reste `en_cours`, inchangée (doute sur une personne) : aucune réponse envoyée.
+
+**Secteur, règles 41, 41.c et 41.d.** Métropole seule, 1 303 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Bretagne (Ille-et-Vilaine, région 53) : cette région est close pour cette passe. Les premiers rangs du classement sont épuisés ou clos (Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Loire, Hérault, Yvelines). Retenu : **Val-de-Marne (94)**, premier département ouvert, déficit d'environ 4,1. Le département avait été sondé à plusieurs passes antérieures ; la commune la plus peuplée sans fiche y est Champigny-sur-Marne (78 072 habitants), déjà éprouvée sans résultat.
+
+**Commune, règle 41.d.** Descente à **Villejuif** (60 183 habitants), commune suivante sans fiche et jamais sondée. Champigny et les communes déjà éprouvées (Ivry-sur-Seine, Choisy-le-Roi, Fontenay-sous-Bois) ne se rouvrent pas.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 94 (100 opérateurs relus) : aucun opérateur en vente au public à Champigny-sur-Marne. À Villejuif, aucun opérateur relu non plus.
+- Champigny-sur-Marne : site de la Ville toujours refusé (Cloudflare, déjà consigné). Trois marchés relevés sur les sites participatifs (jours-de-marche.fr et une annonce d'annuaire), jours contradictoires ; aucun n'est confirmé par la Ville. Aucun magasin bio ni AMAP identifié avec une adresse vérifiée (Biocoop, La Vie Claire mentionnés sans adresse).
+- Villejuif, site officiel de la Ville (`villejuif.fr`, rubrique « Entreprises et commerces », section « Les marchés ») : trois marchés municipaux avec jours et horaires publiés par la Ville :
+  - Marché Eugène Varlin, place de la Paix : mercredi et samedi, 8h-13h ;
+  - Marché Léo Lagrange, place Oscar Niemeyer : mercredi et vendredi, 10h-19h30 ;
+  - Marché Auguste Delaune, place Auguste Delaune : jeudi et dimanche, 8h-13h.
+  Les jours relevés sur jours-de-marche.fr ne concordent pas avec ceux de la Ville pour les marchés Léo Lagrange et Delaune : la Ville fait foi, la contradiction est consignée.
+- Villejuif, commerces bio et producteurs : un magasin La Vie Claire est mentionné dans une offre d'emploi, sans adresse vérifiée ; la page de vente directe de l'annuaire de producteurs ne concerne que des fermes à plusieurs dizaines de kilomètres ; la page Justacote consacrée à l'alimentation bio de Léo-Lagrange est bloquée par Cloudflare.
+
+**Pourquoi rien n'est publié.** Villejuif rend trois marchés municipaux vérifiés sur une source officielle, mais aucun commerce permanent vérifié (magasin bio, producteur, AMAP) : les deux autres sources cherchées restent introuvables ou bloquées. Il faut cinq vérifiables pour une zone (règles 52 et 248) : la zone n'atteint pas le seuil, et les marchés seuls ne suffisent pas. Aucune photo honnête n'a été retenue, les marchés ne sont pas photographiés par la Ville.
+
+**Pistes non publiées (anonymes, Val-de-Marne).**
+- Villejuif, trois marchés municipaux (centre, quartier Nord, quartier Sud) : jours et horaires publiés par la Ville, source officielle unique pour les horaires. **Déblocage** : deux commerces permanents vérifiés dans la même commune, ou une seconde source concordante par marché, et une photo sans personne reconnaissable ; le marché du quartier Nord (mercredi et vendredi, 10h-19h30) est à confirmer côté jours-de-marche.fr.
+- Villejuif, magasin La Vie Claire : mention d'une offre d'emploi seulement, adresse non vérifiée. **Déblocage** : adresse et horaires sur le site de l'enseigne ou un annuaire tiers.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces (Franprix, Carrefour, Intermarché, Picard, Vival, Coccimarket), le grossiste bio du registre, les marchés seulement signalés par des sites participatifs, et les producteurs situés hors du département.
+
+**Point d'arrêt.** Passe suivante : Val-de-Marne reste ouvert, Villejuif reste la commune en cours avec les déblocages ci-dessus. Si Villejuif ne rend pas deux commerces permanents vérifiés, la règle 247 fait descendre à Maisons-Alfort (56 799 habitants), la commune suivante sans fiche.
