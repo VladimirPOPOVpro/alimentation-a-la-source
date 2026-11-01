@@ -46046,3 +46046,23 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+---
+
+**Passe autonome du 1er novembre 2026 (quatre-vingtième).** Aucune demande au backlog : passe de couverture.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177 : La Réunion et les autres départements d'outre-mer ne passent pas le garde-fou du `build`). La passe précédente visait le Nord (Hauts-de-France), région exclue par la réserve 41.c. En tête ensuite : **Haute-Garonne (31)**, déficit d'environ 5,3, retenu.
+
+**Commune, règle 248.** La descente du 31 reprend à **Castanet-Tolosan** (15 317 habitants), après Plaisance-du-Touch et Balma déjà éprouvées.
+
+**Ce qui a été lu.** Recherche sur Castanet-Tolosan : le seul magasin de producteurs repéré est à Toulouse, l'AMAP citée est à Auzeville-Tolosane, et l'annuaire de 2015 qui mentionnait un point de dépôt est trop ancien pour être retenu. Les horaires des marchés divergent selon les sources (mardi sous la Halle, samedi aux Fontanelles, samedi place du Marché) : aucune source unique et récente ne les tranche. Registre des entreprises : la commune elle-même y figure, aucun commerce de circuit court identifié.
+
+**Descente, règle 248.** Ramonville-Saint-Agne sondée : une AMAP à vente directe le vendredi est citée par un site participatif sans commune précisée, et rien de vérifiable n'est trouvé sur la commune.
+
+**Pourquoi rien n'est publié.** Aucune de ces deux communes ne réunit cinq commerces vérifiables dans les sources lues. Publier reviendrait à inventer des fiches.
+
+**Points d'arrêt.** Le registre de l'Agence Bio pour le 31 n'a pas été exploité proprement cette passe (format de réponse non reconnu par le filtre) : à reprendre en premier à la prochaine passe visant le 31, avant de descendre à la commune suivante par population (Saint-Orens-de-Gameville, Ramonville déjà sondée).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
