@@ -46216,3 +46216,30 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre 2026 (deux cent quatrième) : Nord (59) visé, Dunkerque sondée au jeu de données de l'agglomération : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste en_cours (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté par la règle 93. La passe précédente visait la Haute-Garonne : le Nord (59), déficit positif, redevient éligible (règle 41.c). Il est retenu.
+
+**Commune, règle 41.d.** Dunkerque (86 263 habitants), la plus peuplée du Nord sans aucune fiche publiée. Les passes précédentes y ont déjà rassemblé des pistes (voir « Pistes non publiées à Dunkerque »).
+
+**Source nouvelle.** Le jeu de données ouvert « Producteurs alimentaires locaux » de la Communauté urbaine de Dunkerque (portail cudunkerque.opendatasoft.com, mis à jour en novembre 2024) : 64 points recensés, dont une dizaine dans la commune ou ses voisines immédiates. C'est une source publique et indépendante de tout commerce, mais elle ne donne ni horaires vérifiés ni, le plus souvent, de téléphone ou de site à jour.
+
+**Vérifications faites.**
+- Le site officiel d'une épicerie de circuit court de la place de la Gare répond, mais il décrit un service en ligne à retrait et livraison, et le point de vente physique n'a pas d'horaires publiés : non retenu en l'état.
+- Le site d'une brasserie-boutique de Dunkerque répond, avec une adresse et un téléphone. Il ne vend que des bières et des produits dérivés de la brasserie : catégorie `producteur` possible, mais les horaires du point de vente restent à trouver.
+- Un maraîcher vendant à la ferme, rue de Belfort, est recoupé par la base de la Communauté urbaine et par une carte de circuit court. Son téléphone correspond aux deux sources, mais il n'a ni site propre ni horaires publiés.
+- Une camionnette bio itinérante d'une association d'insertion passe par plusieurs places de l'agglomération selon un calendrier qui n'est pas publié : elle n'a pas de point fixe, donc elle n'entre pas dans le format d'une fiche.
+- Quatre points de maraîchage bio et de vente sont regroupés sur un même site de Grande-Synthe, hors de la commune retenue.
+
+**Pourquoi rien n'est publié.** Dunkerque ne rend pas cinq fiches complètes et vérifiées : les horaires manquent pour presque tous les points, et les marchés déjà identifiés par la passe précédente ne sont pas repris ici (leur place n'est pas géocodée à ce jour). Une fiche isolée, ou une fiche sans horaires, ne rend pas la zone utilisable.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe. La contradiction déjà consignée sur la place Louis XIV reste ouverte.
+
+**Points d'arrêt.** Passe suivante : la formule ne peut pas viser le Nord (règle 41.c). Dunkerque reste la commune à reprendre au prochain passage dans le Nord, en partant du jeu de données de la Communauté urbaine pour les horaires, puis des sites des points de vente. Le maraîcher de la rue de Belfort et la brasserie-boutique sont les deux pistes les plus solides.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
