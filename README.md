@@ -46120,3 +46120,23 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre portent un nom de particulier : non publiées, non nommées, ne se rouvrent pas.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre (quatre-vingt-quatrième) : Loire (42) visée, Roanne reprise : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste en_cours, sans changement.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177). La passe précédente visait le Nord (Hauts-de-France) : cette région est fermée pour cette passe (règle 41.c). La Haute-Garonne (31) reste en tête du calcul (déficit ≈ 3,8) mais sa descente a déjà éprouvé douze communes sans succès : borne de la règle 247, département passé. L'Oise (60, déficit ≈ 3,7) est fermé par la même règle 41.c. La Loire (42, déficit ≈ 3,64) est le premier département métropolitain ouvert.
+
+**Commune, règle 41.d.** Saint-Étienne (7 fiches) et Saint-Chamond (1 fiche) ne sont plus les plus peuplées sans fiche : la commune retenue est Roanne (35 409 habitants), sans fiche.
+
+**Ce qui a été lu.** Rien de neuf : Roanne a été éprouvée à zéro lors des passes précédentes (registre Agence Bio, recherches sur les marchés, l'AMAP et l'épicerie vrac). Les pistes de marché divergent d'un site à l'autre (jours contradictoires), et l'AMAP est hébergée par un organisme qui ne laisse pas l'agent lire sa page.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante nouvelle, et pas de groupe de cinq commerces vérifiables à Roanne. Une fiche seule, ou une fiche dont les jours de marché se contredisent, enverrait quelqu'un sur une information fausse.
+
+**Contradictions** (règle 5) : jours des marchés de Roanne, consignés, non tranchés.
+
+**Points d'arrêt.** Loire : Roanne reste en tête du calcul ; une passe suivante ne peut la reprendre qu'avec une source nouvelle (page officielle de la Ville ou de Roannais Agglomération pour les marchés). Sinon, la Loire passe à Firminy, Montbrison ou Saint-Chamond, selon la règle 247. Le département suivant du classement (Isère, 38, déficit ≈ 3,57) a déjà reçu les passes sur Vienne et Fontaine : à reprendre sur la fiche de commune de Villefontaine ou Voiron si la Loire reste bloquée.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio à Roanne portent un nom de particulier comme enseigne : non publiées, non nommées, ne se rouvrent pas.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
