@@ -45900,3 +45900,32 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les fermes situées hors de Wattrelos (Toufflers, Wambrechies, Comines, Wavrin, Lille), les marchés de Roubaix listés par le même site, les grandes surfaces et les grossistes du registre.
 
 **Points d'arrêt.** Passe suivante : Nord toujours visé, mais une seule commune à la fois. Lambersart est la prochaine à instruire, avec le registre bio et le site de la Ville. Wattrelos ne se reprend que si la Ville publie ses marchés. Marcq-en-Barœul et Armentières : seulement si leur site répond.
+
+## Passe autonome du 1er novembre 2026 (soixante-quatorzième) : Loire (42) visée, Roanne et Firminy sondées : aucune fiche publiée
+
+**Backlog.** Une demande `en_cours` (n° 13), inchangée : elle désigne un commerce par un prénom et ne contient qu'une adresse privée. Doute sur une personne, elle reste en attente et ne se rouvre pas dans cette passe. Aucune demande `nouvelle`, aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 93, 177 et 224.** Métropole seule, dénominateur national (population `geo.api.gouv.fr`, 68 952 941 habitants), 1 304 fiches comptées sur le code postal. En tête : le Nord (59), région Hauts-de-France visée à la passe précédente, donc close (41.c) ; l'Oise (60) subit la même clôture. La Haute-Garonne (31) est éligible mais ses communes sont épuisées (règle 247). La **Loire (42)** est donc retenue, en Auvergne-Rhône-Alpes.
+
+**Commune, règle 41.d.** Saint-Étienne (173 136 habitants) n'est pas éligible : elle porte déjà cinq fiches. Saint-Chamond (35 646) en porte une, Roanne (35 409) n'en porte aucune : Roanne est la commune retenue. Firminy (17 060) est la suivante sans fiche.
+
+**Ce qui a été lu.**
+- Roanne, marchés : le site de l'office de tourisme (article ancien, 2022) donne six marchés, de 8h à 12h30, sur des places différentes selon le jour. La rubrique marchés du site de l'agglomération (adresse testée) répond par une page introuvable.
+- Roanne, halles : la Halle Diderot n'a d'horaires que dans un annuaire participatif, qui se contredit sur les jours ; aucune source de la Ville.
+- Roanne, producteurs : une plaquette du lycée agricole et de Vivre Bio en Roannais (2022) cite des producteurs, mais aucun n'a d'adresse ni d'horaire actuel dans une source indépendante. Les magasins de producteurs cités (Pré d'Ici, à Renaison) sont hors de Roanne.
+- Firminy : une agenda donne la place du Marché et la place des Halles, du 2 octobre au 31 décembre, sans jours ni horaires ; une supérette bio et une épicerie fine, lues sur un annuaire, n'ont ni site ni source propre.
+
+**Pourquoi rien n'est publié.** Roanne ne réunit aucun commerce vérifié à une source indépendante et à jour ; les horaires des marchés ne reposent que sur un article de 2022. Firminy n'a ni jours de marché ni commerce vérifié. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes, Loire).**
+- Roanne, marchés municipaux (six places selon le jour, mardi à dimanche, 8h-12h30) : horaires d'un article de 2022. **Déblocage** : une page à jour de la Ville ou de l'agglomération, ou une seconde source récente.
+- Roanne, Halles Diderot : jours et horaires seulement issus d'un annuaire participatif. **Critère** (règle 55) : une source de la Halle ou de la Ville.
+- Roanne, producteur de confitures présent au marché du vendredi, sans adresse : **Critère** (règle 55) : une adresse de vente et une source du producteur.
+- Firminy, marché de la place du Marché et de la place des Halles : jours et horaires absents. **Déblocage** : une page de la Ville qui les donne.
+- Firminy, supérette bio (rue Benoît-Frachon) et épicerie fine (rue de la Paix) : annuaire seul. **Déblocage** : un site ou une page du commerce, et un horaire vérifié.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les commerces hors commune (Renaison, Veauche, Mably), les grandes surfaces, les événements ponctuels de 2026 (foires, brocantes) qui ne sont pas des points de vente permanents.
+
+**Point d'arrêt.** Passe suivante : la Loire reste visée tant que son déficit est positif. Roanne est la commune en cours ; si elle ne rend pas trois sources indépendantes à jour, la règle 247 fait descendre à Firminy, puis à Montbrison (16 123), avec les mêmes exigences. Le Nord et l'Oise ne sont pas visés tant que la région reste close.
