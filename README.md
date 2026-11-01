@@ -45929,3 +45929,28 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les commerces hors commune (Renaison, Veauche, Mably), les grandes surfaces, les événements ponctuels de 2026 (foires, brocantes) qui ne sont pas des points de vente permanents.
 
 **Point d'arrêt.** Passe suivante : la Loire reste visée tant que son déficit est positif. Roanne est la commune en cours ; si elle ne rend pas trois sources indépendantes à jour, la règle 247 fait descendre à Firminy, puis à Montbrison (16 123), avec les mêmes exigences. Le Nord et l'Oise ne sont pas visés tant que la région reste close.
+
+## Passe autonome du 1er novembre 2026 (soixante-quinzième) : Nord (59) visé, Lambersart sondée : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle`, aucun email à simuler. Une demande `en_cours` (n° 13) reste inchangée : elle désigne un commerce par un nom de particulier et ne contient qu'une adresse privée ; elle ne se rouvre pas.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule (règle 93). Population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La Loire (42, Auvergne-Rhône-Alpes) était visée à la passe précédente : la réserve 41.c écarte cette région. Le déficit le plus fort ensuite est le Nord (59, déficit 4,66, 45 fiches publiées), région différente.
+
+**Commune.** Lambersart (27 090 habitants) est la commune que la passe précédente désignait comme prochaine à instruire. Remarque : Wattrelos, plus peuplée et sans fiche, reste ouverte selon la règle 41.d ; elle n'a pas été reprise cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord (600 opérateurs relus, pagination de 100) : opérateurs à Lambersart ou Avelin. Un seul porte une vente aux particuliers et a un nom qui ressemble à une enseigne (épicerie de quartier, sans site ni adresse recoupés) ; un autre est un nom patronymique d'entreprise individuelle, écarté (règle 94 et section « Personnes »). Le reste est en vente aux professionnels ou hors sujet.
+- Recherches web (annuaires participatifs, Base Adresse Nationale non interrogée faute de candidat) : Lambersart ne rend que des supermarchés et des enseignes (Match, Carrefour City, Intermarché, Picard), hors circuit court. Une épicerie fine de la rue du Bourg est mentionnée par un annuaire sans source propre. Aucune AMAP ni ferme en vente directe identifiée dans la commune : les producteurs proches sont à Sainghin-en-Weppes, hors commune.
+- Marchés : trois marchés listés par jours-de-marche.fr pour Lambersart, sans horaires confirmés par la Ville.
+
+**Pourquoi rien n'est publié.** Aucun commerce de circuit court vérifié à Lambersart sur une source indépendante ; cinq fiches ne sont pas atteintes. Les supermarchés sont exclus par MODERATION.md.
+
+**Pistes non publiées (anonymes, Lambersart).**
+- Lambersart, épicerie fine de la rue du Bourg : mention par un annuaire seul, sans site ni horaires. **Déblocage** : une page du commerce ou un annuaire tiers qui donne adresse et horaires.
+- Lambersart, trois marchés hebdomadaires (jours-de-marche.fr) : pas de source de la Ville. **Déblocage** : une page de la Ville qui les liste.
+- Lambersart, une entrée du registre Agence Bio (vente aux particuliers, enseigne non recoupée) : **Critère** (règle 55) : une source du commerce lui-même.
+- Une entrée du registre au nom d'un particulier, à Lambersart : écartée pour doute sur une personne ; ne se rouvre pas.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés et grandes surfaces, les épiceries sans source propre, les producteurs hors commune (Sainghin-en-Weppes, Noyelles).
+
+**Point d'arrêt.** Passe suivante : le Nord reste visé tant que son déficit est positif. Lambersart est à reprendre avec les pistes ci-dessus ; si elle ne rend pas cinq sources indépendantes, la règle 247 fait descendre à Wattrelos (40 847 habitants), puis à Marcq-en-Barœul.
