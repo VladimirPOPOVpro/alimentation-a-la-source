@@ -45954,3 +45954,21 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les supermarchés et grandes surfaces, les épiceries sans source propre, les producteurs hors commune (Sainghin-en-Weppes, Noyelles).
 
 **Point d'arrêt.** Passe suivante : le Nord reste visé tant que son déficit est positif. Lambersart est à reprendre avec les pistes ci-dessus ; si elle ne rend pas cinq sources indépendantes, la règle 247 fait descendre à Wattrelos (40 847 habitants), puis à Marcq-en-Barœul.
+
+## Passe autonome du 1er novembre 2026 (soixante-seizième) : Haute-Garonne (31) reprise, Blagnac, Plaisance-du-Touch et Balma sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` nouvelle à traiter. Aucun email envoyé, aucune réponse à simuler.
+
+**Secteur.** Métropole seule (outre-mer écarté, le validateur n'accepte que des coordonnées métropolitaines). Déficit le plus grand : le Nord (59), exclu par la garde des deux passes, la passe précédente visant le Nord. Suivant : la Haute-Garonne (31), déficit d'environ 5,0 sur 1 304 fiches métropolitaines. Commune la plus peuplée sans fiche : Blagnac, reprise. Plaisance-du-Touch puis Balma ensuite, comme prévu au point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.** Recherches ouvertes sur les horaires du marché de la place des Arts à Blagnac, sur les marchés de Plaisance-du-Touch, sur les circuits courts de la mairie de Blagnac et sur les marchés de Balma. Les sources trouvées : bulletins et agenda de la Métropole et de la Ville de Blagnac (inauguration de la place des Arts le 11 septembre 2026, pas d'horaire de marché hebdomadaire), un annuaire participatif de marchés (Plaisance-du-Touch : un jour de marché sans horaire ni date de mise à jour), un guide des commerçants de Balma de 2021 (marché mercredi et samedi matin, sans heure).
+
+**Pistes de Blagnac.** Aucune débloquée : le marché de plein air reste sur un seul annuaire participatif, la boutique d'établissement médico-social n'a toujours pas d'horaires confirmés, l'AMAP de Saint-Pierre d'Ax n'a pas d'horaire confirmé par l'AMAP, le verger reste en adresse contradictoire, la boulangerie bio n'a pas de source indépendante. Les pistes restent en « Déblocage » tels qu'écrits dans la passe soixante-douzième.
+
+**Pourquoi rien n'est publié.** Blagnac ne rend toujours aucune fiche à cinq sources indépendantes. Plaisance-du-Touch et Balma ne rendent que des annuaires participatifs ou des sources anciennes, sans horaire. Aucun fait ne se publie sans source vérifiable : rien n'entre dans `data/marchands.json`.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours visée (son déficit reste positif), Blagnac en cours avec les pistes ci-dessus ; si une piste publie un horaire confirmé par sa source, elle se publie. Sinon, Plaisance-du-Touch ou Balma se reprennent avec une source officielle de la mairie comme première exigence.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
