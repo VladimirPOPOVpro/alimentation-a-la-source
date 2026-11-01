@@ -46066,3 +46066,21 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre (quatre-vingt-unième) : Nord (59) visé, Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Haubourdin et Ronchin sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours », sans changement.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu : le validateur refuse les coordonnées hors métropole). La passe précédente visait la Haute-Garonne (Occitanie) : cette région est fermée pour cette passe (règle 41.c). Le Nord (59) est le premier département métropolitain ouvert, avec un déficit de 4,5 fiches. Le Var reste très négatif.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières) ont déjà été éprouvées à zéro lors des passes précédentes. Maubeuge (horaires contradictoires entre annuaires pour le magasin bio) reste sans fiche vérifiable.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 59 (1 797 opérateurs, lus en totalité cette passe). Parmi les entrées de vente aux particuliers dans les communes sans fiche, trois pistes d'enseigne : une épicerie bio à Haubourdin, un point de vente de fruits et légumes à Ronchin, un jardin de producteur à Maubeuge. Aucune n'a été recoupée sur une seconde source indépendante cette passe. Les autres entrées sont des grandes surfaces, des grossistes ou des enseignes au nom de particuliers (écartées, non nommées).
+
+**Pourquoi rien n'est publié.** Trois pistes isolées dans trois communes différentes ne forment pas le groupe de cinq fiches vérifiables sur une seule commune. Publier une fiche seule ne rend pas la zone utilisable.
+
+**Points d'arrêt.** Le Nord reste ouvert à la prochaine passe qui ne le vise pas à deux passes de suite (règle 41.c). Reprendre Haubourdin, puis Ronchin et Maubeuge, en cherchant une seconde source indépendante pour chaque enseigne du registre. La passe suivante ne vise pas les Hauts-de-France.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre dont l'enseigne est un nom de particulier, dans les communes ci-dessus : non publiées, non nommées, ne se rouvrent pas.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
