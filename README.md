@@ -45972,3 +45972,30 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours visée (son déficit reste positif), Blagnac en cours avec les pistes ci-dessus ; si une piste publie un horaire confirmé par sa source, elle se publie. Sinon, Plaisance-du-Touch ou Balma se reprennent avec une source officielle de la mairie comme première exigence.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (soixante-dix-septième) : Nord (59) repris, Lambersart sondée sur la source de la Ville : aucune fiche publiée
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` nouvelle à traiter. Aucun email envoyé, aucune réponse à simuler.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule (outre-mer écarté par la règle 93), population `geo.api.gouv.fr` sur 68 952 941 habitants, 1 304 fiches comptées sur le code postal. Haute-Garonne (31) en tête du déficit au calcul des règles, mais visée à la passe précédente : la réserve 41.c l'écarte. Le **Nord (59)** est donc retenu, déficit d'environ 4,5, région Hauts-de-France, différente de la passe précédente.
+
+**Commune, règles 41.d, 127 et 247.** Descente du Nord déjà éprouvée (Wattrelos, Marcq-en-Barœul, Armentières, Lille, Roubaix, Tourcoing, Dunkerque, Maubeuge, Cambrai, Merville, Lesquin, etc.). Lambersart reste à reprendre : c'est le déblocage nommé de cette passe, car le site de la Ville répond désormais (passes précédentes : sans réponse ou sans source commerciale).
+
+**Ce qui a été lu.**
+- Site de la Ville de Lambersart, page « Les marchés hebdomadaires » : trois marchés, mardi 8h-13h (place de la République, marché du Canon d'or), mercredi 8h-13h (square Southborough, marché de Canteleu), samedi 8h-13h (rue du Bourg, marché du Bourg). Source officielle unique pour les jours et horaires ; la page renvoie à une carte Canva et à un service d'animation commerciale, sans liste de producteurs.
+- Annuaire des commerces de la Ville : catégories générales (primeurs, boucheries, boulangeries, fromagers, cavistes, supermarchés). Aucune fiche de circuit court identifiable dans les pages lues ; les commerces listés ne sont pas recoupés comme vente directe.
+- Registre Agence Bio et recherche-entreprises : déjà relus aux passes précédentes, sans point de vente à Lambersart qui se confirme.
+
+**Pourquoi rien n'est publié.** Les trois marchés de Lambersart ont des horaires officiels, mais ni produits concrets (au moins trois, sur une source), ni photographie utilisable (la Ville n'en publie pas sur cette page), ni seconde source indépendante. Trois fiches de marché sans produits ni image ne valent pas une fiche complète, et la commune ne rend aucun producteur vérifié : la règle 127 n'est pas remplie. Rien n'entre dans `data/marchands.json`.
+
+**Pistes non publiées (anonymes, Nord).**
+- Lambersart, trois marchés hebdomadaires (mardi Canon d'or, mercredi Canteleu, samedi Bourg) : horaires officiels de la Ville. **Déblocage** : une photographie sans personne reconnaissable, une liste de produits vérifiée sur une source autre que la Ville (producteurs présents, page de l'animation commerciale), ou deux commerces permanents de circuit court vérifiés dans la commune.
+- Wattrelos : inchangé depuis la passe soixante-treizième (marchés sur un seul site participatif).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les commerces généralistes des annuaires municipaux (primeurs, boucheries, boulangeries sans mention de vente directe), les grandes surfaces, les grossistes et les entreprises sans point de vente public du registre.
+
+**Points d'arrêt.** Passe suivante : la Haute-Garonne redevient éligible (règle 41.c), mais elle reste close par la règle 247. Le Nord ne se revisite qu'avec un déblocage nommé ci-dessus : Lambersart d'abord, avec la demande de photographie ou de produits à la Ville ; Armentières seulement si son site répond.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
