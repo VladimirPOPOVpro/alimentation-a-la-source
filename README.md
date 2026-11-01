@@ -46198,3 +46198,21 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Fiches écartées pour doute sur une personne.** Une demande en_cours (voir plus haut), non publiée.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 1er novembre 2026 (deux cent troisième) : Haute-Garonne (31) visée, Aucamville sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste en_cours (doute sur une personne, piste anonyme déjà consignée à la passe 202) : rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule. Le Nord (59) est exclu : il a été visé à la passe précédente (règle 41.c). L'Occitanie n'a pas été visée à la passe précédente et redevient éligible ; la Haute-Garonne (31) est retenue.
+
+**Commune, règle 41.d.** Aucamville (31140) reprise. Le site municipal qui répond (aucamville.fr) est celui de la commune homonyme du Tarn-et-Garonne (82600) : il est écarté. Le registre des entreprises ne donne pour la commune que les services municipaux et des entreprises de services, aucun commerce de circuit court. Aucune enseigne ne se recoupe sur une source indépendante.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne décrit cinq commerces vérifiables à Aucamville. Une fiche isolée ne rend pas la zone utilisable.
+
+**Points d'arrêt.** Passe suivante : la formule ne peut pas viser l'Occitanie (règle 41.c). Haute-Garonne toujours éligible ensuite ; reprendre la descente à Launaguet, puis Grenade et Beauzelle, avec une source officielle de la commune comme première exigence.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
