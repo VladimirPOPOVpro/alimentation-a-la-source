@@ -46178,3 +46178,23 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Fiches écartées pour doute sur une personne** : une entreprise individuelle de maraîchage à Ramonville, déjà écartée à la passe 199, non rouverte.
 
 **Points d'arrêt.** Passe suivante : la formule ne peut pas viser l'Occitanie (41.c, région de cette passe). La descente du 31 passe à **Saint-Orens-de-Gameville** (14 646 habitants) ; son site municipal ne répondait pas au moment de cette passe.
+
+### Passe autonome du 1er novembre 2026 (deux cent deuxième) : Nord (59) visé, Armentières sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste en_cours : nom ressemblant à un prénom de particulier, téléphone mobile et adresse personnelle fournis pour le contact. Doute sur une personne : rien n'est publié, rien n'est répondu. Piste anonyme : commune de Villecroze (Var), catégorie producteur, motif donnée personnelle. Ne se rouvre pas sans élément sur le commerce lui-même.
+
+**Classement, règle 41.** Métropole seule (outre-mer exclu, règles 93 et 177). La Haute-Garonne, visée à la passe précédente, est fermée par la règle 41.c, ainsi que l'Occitanie. Le Nord (59, déficit ≈ 4,5, 45 fiches publiées) est le premier département métropolitain ouvert.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche ont été éprouvées lors des passes précédentes. Armentières est sondée à son tour.
+
+**Ce qui a été lu.** Recherche web sur les marchés et magasins de producteurs d'Armentières : aucun magasin de producteurs ni marché situé dans la commune avec horaires vérifiés. Les annuaires (Que Choisir, Jours de Marché, Au-Magasin) renvoient à La Chapelle-d'Armentières, à des communes éloignées, ou à des grandes enseignes dont les horaires sont saisis par les internautes.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne décrit cinq commerces vérifiables à Armentières. Une fiche isolée ne rend pas la zone utilisable.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Points d'arrêt.** Nord : la prochaine passe qui vise le 59 ne peut pas être la suivante (règle 41.c) ; reprendre Armentières avec la fiche de la Ville ou d'un marché listé sur son site. Sinon descendre à la commune suivante par population sans fiche.
+
+**Fiches écartées pour doute sur une personne.** Une demande en_cours (voir plus haut), non publiée.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
