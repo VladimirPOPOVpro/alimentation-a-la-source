@@ -46164,3 +46164,17 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Ce qui a été volontairement laissé de côté.** Les opérateurs du registre enregistrés sous un nom qui peut être celui d'un exploitant, les grossistes et les grandes surfaces.
 
 **Points d'arrêt.** Passe suivante : la formule désignera encore le Nord, Wattrelos ne se reprend que si la Ville publie ses marchés ; Lambersart se reprend avec la piste ci-dessus.
+
+### Passe du 1er novembre 2026 (deux cent unième) : Haute-Garonne, Ramonville-Saint-Agne reprise, aucune publication
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune retirée.** Total inchangé : 1 271 fiches.
+
+**Classement, règle 41.** Métropole seule. Le Nord (59), passe 85, est exclu par la règle 41.c, avec toute la région Hauts-de-France. La Haute-Garonne (31), déficit d'environ 4,8 en tête hors Nord, est retenue (Occitanie non visée à la passe précédente).
+
+**Commune : règle 248, reprise au point d'arrêt.** Ramonville-Saint-Agne (15 158 habitants) est relue : la rubrique « Marchés » de la Ville donne toujours le marché de plein vent (mercredi et samedi, 8 h à 13 h 30) et le carré des producteurs de Port Sud (jeudi, 16 h à 20 h), sans liste de produits ni image libre. Le registre de l'Agence Bio ne donne qu'une adresse dans la commune, celle d'une entreprise individuelle écartée pour doute sur une personne. **Zéro fiche**, comme à la passe 199.
+
+**Pistes non publiées** : inchangées par rapport à la passe 199 (marché de plein vent, carré des producteurs, AMAP des Milans, seconde AMAP).
+
+**Fiches écartées pour doute sur une personne** : une entreprise individuelle de maraîchage à Ramonville, déjà écartée à la passe 199, non rouverte.
+
+**Points d'arrêt.** Passe suivante : la formule ne peut pas viser l'Occitanie (41.c, région de cette passe). La descente du 31 passe à **Saint-Orens-de-Gameville** (14 646 habitants) ; son site municipal ne répondait pas au moment de cette passe.
