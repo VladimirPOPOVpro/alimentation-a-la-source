@@ -46102,3 +46102,21 @@ Backlog : 0 nouvelle, 1 en cours (#13, Var). **Aucune fiche publiée, aucune ret
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 1er novembre 2026 (quatre-vingt-troisième) : Nord (59) visé, Maubeuge et Haubourdin sondées : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste en_cours, sans changement.
+
+**Classement, règle 41.** Métropole seule (règles 93 et 177). La passe précédente visait la Haute-Garonne (Occitanie), région fermée pour cette passe (règle 41.c). Le Nord (59) est le premier département métropolitain ouvert, avec un déficit de 4,5 fiches.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche ont déjà été éprouvées lors des passes précédentes. La descente reprend Maubeuge, puis Haubourdin.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 59 : deux entrées de vente aux particuliers dans les communes sans fiche, l'une à Maubeuge (jardin de producteur) et l'autre à Ronchin (point de fruits et légumes, sans vente aux particuliers au registre). Recherche web sur l'exploitation de Maubeuge : aucune fiche, aucun site officiel, aucun horaire de vente directe trouvé. Recherche sur Haubourdin : les seules adresses identifiées sont des épiceries de proximité dont rien n'établit l'orientation bio à la source ; les horaires proviennent de sites participatifs et divergent.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne réunit cinq commerces vérifiables sur une source indépendante. Une fiche sans seconde source ne rend pas la zone utilisable et risquerait d'envoyer quelqu'un sur une adresse fausse.
+
+**Points d'arrêt.** Maubeuge : reprendre le jardin de producteur en cherchant la fiche de l'annuaire Bienvenue à la Ferme ou un site officiel. Haubourdin : vérifier si l'épicerie retenue vend réellement du bio. Ronchin : l'entrée du registre ne déclare aucune vente aux particuliers, à écarter.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre portent un nom de particulier : non publiées, non nommées, ne se rouvrent pas.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
