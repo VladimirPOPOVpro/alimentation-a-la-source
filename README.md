@@ -46869,3 +46869,28 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés non confirmés, les supermarchés et les magasins de réseau sans horaires vérifiés, les entrées de grossistes et de préparateurs, les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-neuvième) : Haute-Garonne (31) visée, Balma, Castanet-Tolosan et Saint-Orens-de-Gameville sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains (outre-mer écarté, règle 177). Le Nord (59), déficit ≈ 4,5, est exclu par la règle 41.c : passe précédente (deux cent vingt-huitième). Haute-Garonne (31), déficit ≈ 3,8, retenue. Communes les plus peuplées sans fiche, dans l'ordre : Balma (17 772 habitants), Castanet-Tolosan (15 317), Ramonville-Saint-Agne (15 158), Saint-Orens-de-Gameville (14 646).
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur les marchés et les commerces de Balma et de Castanet-Tolosan : guides touristiques du Pays Lauragais, annuaires de circuits courts datés de 2015, guide des commerçants de la commune de Balma. Une halle de producteurs à Castanet-Tolosan apparaît dans plusieurs sources, mais sans horaire confirmé par la commune. Aucun commerce vérifié à Balma, sinon des sources de 2015.
+- Ramonville-Saint-Agne : aucun résultat pertinent.
+- Saint-Orens-de-Gameville : une Biocoop (enseigne à plusieurs magasins, admissible au titre de la règle 3), et deux marchés recensés par un site participatif sans jours ni exposants. Aucun producteur de la commune confirmé ; le magasin de producteurs repéré dans les annuaires est à Labège, hors commune.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables. Une fiche isolée, la Biocoop par exemple, contredirait la règle du groupement de cinq et ne ferait que semer une zone vide.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Commune de 14 000 à 18 000 habitants, magasin bio à enseigne nationale (Saint-Orens-de-Gameville) : pas de fiche, seul commerce de la commune identifié. **Déblocage** : trois autres commerces vérifiés dans la même commune.
+- Halle de producteurs de Castanet-Tolosan : horaires à confirmer auprès de la commune. **Déblocage** : page officielle de la commune ou de l'office, et au moins quatre autres points de vente.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** Depuis les passes du 2 novembre, la boucle se répète : Nord et Haute-Garonne alternent, chaque passe sonde les mêmes communes et ne publie rien. Les pistes de la Haute-Garonne sont saturées par les sources de 2015 ; la règle 247 (douze communes éprouvées sans succès) devrait changer le département visé. La règle 41.c et la règle 247 se contredisent ici : ce point se consigne, il ne se tranche pas dans la passe.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les points de vente généralistes, les opérateurs au nom de particuliers.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
