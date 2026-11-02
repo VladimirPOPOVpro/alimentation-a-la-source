@@ -46481,3 +46481,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent quinzième) : Savoie (73) reprise, Albertville sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur de toute la France, 1 304 fiches comptées sur le code postal. La passe précédente visait le Calvados (région 28) : Normandie close pour cette passe (règle 41.c). Les départements closes ou épuisés par les passes antérieures restent exclus. Retenu : **Savoie (73)**, déficit 3,48, premier département ouvert du classement, reprise sur sa commune calculée.
+
+**Commune, règle 41.d.** Albertville (19 978 habitants), point d'arrêt de la passe soixante-septième ; Aix-les-Bains reste en pistes.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés d'Albertville : aucune page officielle de la Ville sur un marché alimentaire, aucune source de l'office de tourisme. Le seul listage est celui de jds.fr (marché du samedi et marché du jeudi, place Antoine Borrel), sans lieu pour le samedi. La place Grenette n'apparaît que comme adresse immobilière, sans marché.
+- Recherche web sur le magasin de producteurs en réseau de la zone commerciale du Chiriac : adresse et horaires (mardi au samedi, 8 h 30 à 19 h 00) repris de Que Choisir, sans confirmation par le site du commerce lu dans cette passe ni par une source municipale. Le répertoire Auvergne-Rhône-Alpes Tourisme le mentionne sans horaires.
+
+**Pourquoi rien n'est publié.** Un seul point solide, le magasin, dont les horaires ne reposent que sur un annuaire de circuits courts. Le déblocage demandé par le point d'arrêt (une source de la Ville ou de l'office de tourisme pour les marchés, une photo honnête pour le magasin) n'est pas atteint. Une fiche isolée n'est pas une zone (règle 248) et la règle 52 exige quatre points avant toute complétion. Rien n'est publié.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Albertville, magasin de producteurs en réseau, zone commerciale du Chiriac : adresse et horaires à confirmer par le site du commerce ou un appel. **Déblocage** : une photo honnête (site, sans personne reconnaissable) et une horaire confirmée par le commerce lui-même.
+- Albertville, marchés du samedi et du jeudi : source participative seule, lieu du samedi non établi. **Déblocage** : une page de la Ville ou de l'office de tourisme. Aucune photo honnête trouvée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les listages jds.fr datés ou sans lieu, les réseaux de supermarchés de la zone commerciale.
+
+**Point d'arrêt.** Passe suivante : Savoie reste ouverte ; Albertville reprend au déblocage ci-dessus. Sans déblocage, la passe suivante recalcule le classement (règle 410) et ne revient pas à Albertville sans ces éléments.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
