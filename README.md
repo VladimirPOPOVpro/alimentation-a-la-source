@@ -46919,3 +46919,31 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés certifiés, les brasseries et restaurants, les coopératives réservées aux professionnels, les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent trente et unième) : Loire (42) visée, Montbrison et Roanne sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur, règles 41 et 247.** Métropole seule (outre-mer écarté, règle 177). Nord (59) exclu par la règle 41.c : passe précédente en Hauts-de-France. Haute-Garonne (31) écartée par la règle 247 : plus de douze communes éprouvées sans succès sur ce département. Retenue : **Loire (42)**, déficit ≈ 3,64, juste devant l'Isère (≈ 3,57).
+
+**Commune, règle 41.d.** Saint-Étienne (173 136 habitants) a déjà des fiches ; Saint-Chamond en a une. **Roanne (35 409 habitants)** n'en a aucune, mais elle a été éprouvée à la passe du 1er novembre (soixante-quatorzième) : la descente reprend donc à la commune suivante, **Montbrison (16 123 habitants)**, puis Rive-de-Gier.
+
+**Ce qui a été lu.**
+- Montbrison : un magasin de producteurs, seule source tierce (annuaire de circuit court), horaires non recoupés ; un magasin bio à enseigne nationale, qui n'est pas un producteur local. Aucun marché confirmé par la mairie : le texte de la ville est incomplet et ambigu entre deux marchés.
+- Roanne : une recherche web ne donne aucun point vérifié ; le registre de l'Agence Bio, lu sur le département, ne compte qu'un magasin bio ventes-particuliers, dont l'existence et l'adresse ne sont pas recoupées.
+- Rive-de-Gier : aucun résultat exploitable.
+- Registre des entreprises : aucune fiche n'a pu être rattachée à une source indépendante et à un établissement ouvert vérifié ; le contrôle n'a donc pas été mené jusqu'au bout.
+
+**Décision.** Aucune fiche publiée. Aucune des communes ne rend cinq commerces vérifiables. Une fiche isolée casserait le groupement d'une passe.
+
+**Pistes non publiées (anonymes, Loire).**
+- Montbrison (16 000 habitants) : un magasin de producteurs à vérifier au registre et sur son site, un marché à confirmer auprès de la ville. **Déblocage** : deux sources indépendantes, horaires recoupés, et au moins quatre autres points de vente.
+- Roanne (35 000 habitants) : un magasin bio à enseigne nationale, adresse et horaires non recoupés. **Déblocage** : page officielle de l'enseigne ou de la ville, et au moins quatre autres points de vente.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** Depuis les passes de la semaine, aucune passe ne publie : la formule de classement et la règle 247 suffisent à faire tourner le département, mais pas à trouver cinq commerces vérifiables dans une commune. Ce point se consigne, il ne se tranche pas dans la passe.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les opérateurs à vente exclusivement professionnelle, les grandes surfaces.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build n'est requis.
