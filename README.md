@@ -46947,3 +46947,21 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les opérateurs à vente exclusivement professionnelle, les grandes surfaces.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build n'est requis.
+
+## Passe autonome du 2 novembre 2026 (deux cent trente-deuxième) : Nord (59) et Haute-Garonne (31) fermés par la règle 247, Oise (60) relue : rien publié
+
+**Secteur, règles 41, 177 et 247.** Métropole seule (règle 177). Le déficit le plus fort hors outre-mer est le Nord (59), mais ses communes les plus peuplées sans fiche ont déjà été éprouvées aux passes précédentes : la règle 247 (douze communes sans succès) ferme le département pour cette passe. La Haute-Garonne (31) est fermée par la même règle, et la région Occitanie n'est pas en cause. Retenue : **Oise (60)**, Hauts-de-France, région différente de la passe précédente (Loire, Auvergne-Rhône-Alpes).
+
+**Commune, règle 41.d.** Beauvais, Compiègne, Creil et Clermont ont déjà des fiches. La plus peuplée sans fiche, **Nogent-sur-Oise** (21 907 habitants), a été sondée aux passes précédentes ; **Senlis** (15 157) aussi. La descente reprend donc sur **Crépy-en-Valois** (14 351), mais aucune source nouvelle n'a été ouverte à son sujet cette passe : le temps de vérification n'a pas permis d'aller au-delà du relevé des fiches existantes.
+
+**Décision.** Aucune fiche publiée. Aucune commune de la descente ne rend cinq commerces vérifiables avec deux sources indépendantes.
+
+**Constat.** La formule désigne toujours les mêmes communes, déjà éprouvées : la descente tourne en rond et ne trouve pas de nouveaux points de vente vérifiables. Ce point se consigne ici, il ne se tranche pas dans la passe.
+
+**Pistes non publiées.** Aucune cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Le registre de l'Agence Bio n'a pas été relu pour cette passe ; les producteurs hors commune ; les opérateurs à vente exclusivement professionnelle ; les grandes surfaces.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
