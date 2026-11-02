@@ -46626,3 +46626,33 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Point d'arrêt.** Passe suivante : le Nord est clos pour la passe suivante (règle 41.c). Cambrai reprend au déblocage ci-dessus ; Wattrelos reste à zéro. Constat déjà consigné aux passes précédentes et maintenu : la formule désigne toujours le Nord et les mêmes communes sans en sortir, faute de règle de repli pour les communes épuisées.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent vingtième) : Haute-Garonne (31) visée, Muret sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle », une seule fiche en cours, inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Le déficit le plus fort en métropole est le Nord (59), mais la passe précédente l'a visé : la même région ne peut pas revenir (Hauts-de-France exclue, donc aussi l'Oise et le Pas-de-Calais). Retenu : **Haute-Garonne (31)**, déficit de 3,8, devant la Loire et l'Isère.
+
+**Commune, règle 41.d.** Toulouse a déjà cinq fiches, Colomiers, Tournefeuille, Blagnac et Cugnaux en ont aussi. La plus peuplée sans fiche est **Muret** (26 079 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, vingt-neuf pages filtrées sur Muret : trente-cinq entrées, dont une majorité au nom de personnes physiques (écartées, non nommées, non rouvertes), des grandes surfaces (hors périmètre), un brasseur-restaurant (hors périmètre), et deux enseignes bio sans vente aux particuliers au registre.
+- Annuaires participatifs (jours-de-marche.fr, au-magasin.fr, tiendeo) pour le marché et les magasins : un marché de producteurs à Muret, en cagette à retirer en ligne, sans page de la Ville ; un magasin bio (So.bio, rue Pierre-Fermat) dont l'horaire vient d'un seul annuaire.
+- Recherche sur le marché hebdomadaire : un guide touristique ancien donne mardi et samedi ; aucune page de la mairie ne le confirme. La mairie publie un appel à candidatures pour le marché de Noël, rien sur le marché hebdomadaire.
+- Biocoop de Muret (boulevard Joffrery) : adresse et téléphone concordants dans plusieurs annuaires, horaires contradictoires selon la source (lundi et samedi, pause du mardi au vendredi ou non). Le site du magasin est signalé par OpenStreetMap ; il n'a pas été lu cette passe.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Muret n'a deux sources indépendantes sur ses horaires. Il n'existe pas de page officielle de la Ville ni de l'office de tourisme sur les marchés. Le groupe de cinq fiches n'est pas atteint, et une fiche isolée ne forme pas un groupe.
+
+**Pistes non publiées (anonymes, Muret).**
+- Biocoop de Muret (magasin bio, boulevard Joffrery) : adresse solide, horaires contradictoires entre annuaires. **Déblocage** : horaires publiés par le magasin (site muret.biocoop.net, non encore lu).
+- So.bio de Muret (magasin bio, rue Pierre-Fermat) : horaires d'un seul annuaire participatif. **Déblocage** : page de l'enseigne ou du magasin.
+- Marché de producteurs du mardi (cagette, boulevard Aristide-Briand) : vente en ligne avec retrait, source unique participative. **Déblocage** : page du producteur ou de la Ville.
+- Marché hebdomadaire de Muret (mardi et samedi selon un guide ancien) : pas de source de Ville. **Déblocage** : page de la mairie ou de l'office de tourisme de l'agglomération muretaine.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio à Muret au nom de personnes physiques. Aucune nommée, aucune rouverte.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les brasseries, les négoces, les opérateurs sans vente aux particuliers.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne est close pour la passe suivante (règle 41.c). Muret reprend au déblocage ci-dessus, en commençant par le site du Biocoop. Constat à maintenir : Toulouse, Colomiers et les communes de l'agglomération ont déjà des fiches, donc la formule ne désigne que des communes sans fiche du département suivant.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
