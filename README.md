@@ -46708,3 +46708,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les marchés non confirmés, les points de vente généralistes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-troisième) : Haute-Garonne (31) visée, Carbonne sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains (outre-mer écarté, règle 177). Le Nord (59) a le plus fort déficit, mais la passe précédente (deux cent vingt-deuxième) y était menée : la réserve de la règle 41.c écarte la même région. Haute-Garonne (31), déficit de 3,8, retenue. Commune la plus peuplée encore sans fiche : Muret (26 079 habitants), déjà sondée à plusieurs reprises.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Haute-Garonne : 800 opérateurs relus sur 2 842 (huit pages de cent). Dans les communes de plus de 5 000 habitants sans fiche, une dizaine d'opérateurs vendent aux particuliers, presque tous sous un nom de personne : écartés, rien n'est repris.
+- Candidats à raison sociale commerciale : un magasin bio à Carbonne (5 563 habitants) ; une boulangerie et une enseigne de boucherie bio à Saint-Orens-de-Gameville ; une ferme de vente directe à Frouzins. Chacun ne repose que sur le registre, sans site ni recoupement, ou reste seul dans sa commune.
+- Site de la Ville de Muret : sondé dans les passes précédentes, sans liste de commerces en circuit court.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables dans la même passe. Publier une fiche isolée contredirait la règle du groupement de cinq.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Commune de 5 000 à 6 000 habitants, magasin bio (registre de l'Agence Bio) : pas de fiche. **Déblocage** : site du magasin et page de la commune ou de l'office confirmant horaires et produits.
+- Commune de 8 000 à 15 000 habitants, boulangerie et boucherie bio (registre de l'Agence Bio) : hors groupe de cinq. **Déblocage** : trois autres commerces vérifiés dans la même commune.
+- Une dizaine d'opérateurs au nom de particuliers, dans une quinzaine de communes de la Haute-Garonne : écartés pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Une dizaine (Haute-Garonne), nombre seul, aucune nommée.
+
+**Constat.** Le registre a été relu sur 800 opérateurs seulement, sur 2 842 : le reste n'a pas été lu cette passe. La limite est notée, pas contournée.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune du groupe, les points de vente généralistes, les opérateurs au nom de particuliers.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
