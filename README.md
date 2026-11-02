@@ -46507,3 +46507,30 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Point d'arrêt.** Passe suivante : Savoie reste ouverte ; Albertville reprend au déblocage ci-dessus. Sans déblocage, la passe suivante recalcule le classement (règle 410) et ne revient pas à Albertville sans ces éléments.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent seizième) : Ille-et-Vilaine (35) reprise, Fougères sondée au registre et chez le réseau : rien publié
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 410.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. En tête du classement : Nord (59), Haute-Garonne (31), Oise (60), déjà épuisés par les passes antérieures. La passe précédente visait la Savoie (région 84) : Auvergne-Rhône-Alpes est close pour cette passe. Retenu : **Ille-et-Vilaine (35)**, reprise sur sa commune en cours, Fougères.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine, lecture complète de l'annuaire (2 508 opérateurs, pagination par cent) filtrée sur Fougères : une dizaine d'entrées à vente aux particuliers. La plupart sont des exploitations à dénomination patronymique, écartées pour doute sur une personne et non nommées ici. Une entreprise (SAS, magasin de fruits et légumes avec vente aux particuliers, rue de Groslay) est la seule à se rattacher à un réseau de magasins ; son adresse concorde avec la Base Adresse Nationale.
+- Biocoop : la page « Trouver un magasin » charge ses résultats par script, et la requête sur Fougères ne rend aucune fiche dans le HTML statique. Pas de page du magasin lisible : les horaires restent non confirmés par le réseau ou le magasin.
+- Site de la Ville de Fougères : redirection 301 à chaque tentative, aucune page « marchés » lue. Pas de source municipale pour le marché de la Haute Ville.
+
+**Pourquoi rien n'est publié.** Une fiche de magasin sans horaires confirmés ne remplit pas le critère de la règle 52 ; le marché n'a toujours qu'une source concordante ; l'AMAP ne repose que sur une source unique. Le groupement de cinq fiches vérifiées sur une commune n'est pas atteint. Rien ne se publie.
+
+**Pistes non publiées (anonymes, Ille-et-Vilaine).**
+- Fougères, magasin du réseau bio (vente de fruits et légumes et produits bio, rue de Groslay) : adresse, téléphone et coordonnées concordants ; horaires non confirmés. **Déblocage** : horaires publiés par le magasin ou par la page du réseau, et une photo sans personne reconnaissable.
+- Fougères, marché de la Haute Ville : deux heures de fin contradictoires, aucune source de la Ville. **Déblocage** : une page de la Ville ou de l'office de tourisme.
+- Fougères, AMAP : source unique. **Déblocage** : une page de l'AMAP à jour.
+- Fougères, exploitations à vente aux particuliers à dénomination patronymique : écartées pour doute sur une personne, non rouvertes.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs à Fougères (exploitations à dénomination patronymique) : aucune publiée, aucune rouverte.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs de Pleine-Fougères (commune distincte), les grossistes, les restaurations collectives et les entrées sans vente aux particuliers.
+
+**Point d'arrêt.** Passe suivante : Ille-et-Vilaine reste ouverte et Fougères reste la commune en cours, avec les déblocages ci-dessus. La région 53 est close pour la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
