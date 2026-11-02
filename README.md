@@ -46597,3 +46597,32 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : la Corse est close (règle 41.c). Ajaccio reprend au déblocage ci-dessus. Sinon, la formule désignera le département suivant éligible. Constat déjà consigné : la formule renvoie régulièrement des départements épuisés, et une règle de repli reste à écrire par le responsable du site.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent dix-neuvième) : Nord (59) reprise, Cambrai et Wattrelos sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à traiter, la fiche en cours est inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait la Seine-Saint-Denis et la précédente la Corse : le Nord est donc éligible, et le déficit le plus fort hors outre-mer. Retenu : **Nord (59)**.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) est la plus peuplée sans fiche ; elle est éprouvée à zéro depuis la passe du 16 octobre. Cambrai (31 134) est reprise : c'est la seule commune du Nord où une piste de magasin de producteurs apparaît dans une source nouvelle.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés de Cambrai, de Wattrelos et de Marcq-en-Barœul : aucune page de Ville donnant jours et horaires d'un marché de producteurs ; les annuaires participatifs (jours-de-marche.fr) donnent des lieux sans horaires fiables.
+- Carte de circuits courts (Que Choisir), Cambrai : deux magasins à la ferme et de coopérative, dont l'un porte une dénomination patronymique (écartée pour doute sur une personne, non nommée ici, ne se rouvre pas) et l'autre est une coopérative généraliste de jardinage (règle 3, hors périmètre).
+- Registre Agence Bio, Nord, dix-huit pages (1 797 opérateurs) filtré sur Cambrai, Wattrelos, Marcq-en-Barœul, Lambersart et Armentières : des entrées à vente aux particuliers presque toutes au nom de personnes physiques (écartées), et des enseignes de grande distribution ou de réseau (hors périmètre).
+- Biocoop de Cambrai : horaires contradictoires entre deux annuaires, non confirmés par le magasin (passe du 15 octobre).
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq fiches vérifiables sur une source indépendante. Les pistes de Cambrai restent à une source ou à des horaires contestés ; la seule fiche de magasin à la ferme vérifiée par une carte de circuits courts porte une dénomination patronymique, ce qui suffit à la retenir hors de cette passe (doute sur une personne). Une fiche isolée ne forme pas un groupe.
+
+**Pistes non publiées (anonymes, Nord).**
+- Cambrai, magasin à la ferme de maraîcher (dénomination patronymique) : horaires d'une seule source. **Déblocage** : une enseigne publique distincte du nom de l'exploitant, un second site ou un registre d'activité concordant. Un doute sur la personne écarte la fiche ; ce n'est pas un déblocage à obtenir.
+- Cambrai, marché : jour donné par une seule source participative, pas d'horaire. **Déblocage** : une page de la Ville de Cambrai ou de l'office de tourisme.
+- Wattrelos, Marcq-en-Barœul : aucune source de Ville lisible cette passe (site de Marcq-en-Barœul toujours sans réponse utile).
+
+**Fiches écartées pour doute sur une personne.** Plusieurs dans le registre Agence Bio du Nord (Cambrai, Lambersart, Armentières, Wattrelos) et une enseigne de magasin à la ferme à Cambrai : aucune publiée, aucune rouverte.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les réseaux généralistes, les négoces, les opérateurs sans vente aux particuliers.
+
+**Point d'arrêt.** Passe suivante : le Nord est clos pour la passe suivante (règle 41.c). Cambrai reprend au déblocage ci-dessus ; Wattrelos reste à zéro. Constat déjà consigné aux passes précédentes et maintenu : la formule désigne toujours le Nord et les mêmes communes sans en sortir, faute de règle de repli pour les communes épuisées.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
