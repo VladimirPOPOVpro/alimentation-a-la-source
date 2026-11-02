@@ -46894,3 +46894,28 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les points de vente généralistes, les opérateurs au nom de particuliers.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent trentième) : Oise (60) reprise, Senlis sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (31) : la région Occitanie est exclue par la règle 41.c. Le Nord (59) reste en tête du calcul, mais sa descente est épuisée (règle 247). Rhône, Isère, Loire et Savoie sont closes par les passes antérieures. Retenu : **Oise (60)**, dont la descente reprend à Senlis (15 157 habitants), commune suivante non éprouvée.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Oise, première page (100 opérateurs) filtrée sur Senlis : un supermarché certifié bio (écarté, règle MODERATION), une brasserie qui vend aux particuliers (écartée : restauration, pas un point de vente de produits locaux), et une coopérative agricole réservée aux professionnels. Aucun producteur ni magasin de producteurs à Senlis.
+- Site « senlis.fr » : il se présente lui-même comme un site commercial privé, sans lien avec la collectivité. Il ne peut donc pas servir de source de la Ville pour les marchés. Écarté comme source, non cité comme fiche.
+- Recherche de la Ville de Senlis et de l'office de tourisme pour un marché de producteurs : rien d'horaire vérifiable n'a été trouvé pendant la passe.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Senlis n'a deux sources indépendantes, et aucun commerce de circuit court n'est confirmé dans la commune. Une fiche isolée ne forme pas le groupe de cinq (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Oise).**
+- Senlis, boutique bio du centre : déjà notée à la passe du 30 octobre. **Déblocage** : site ou fiche à jour, activité confirmée.
+- Senlis, marché de la Ville : jours et horaires non trouvés sur une source officielle. **Déblocage** : page de la Ville ou de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** Cette passe ne fait que confirmer la boucle déjà consignée aux passes précédentes : la formule désigne des départements dont les descentes sont épuisées, et le groupe de cinq ne se forme dans aucun. La règle 247 prévoit de changer de département après douze communes ; la règle 248 dit qu'une passe qui ne trouve rien ne publie rien. Question de règle, à trancher par le responsable du site (où reprendre la descente quand toutes les régions de tête sont closes), sans l'inventer dans la passe.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés certifiés, les brasseries et restaurants, les coopératives réservées aux professionnels, les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
