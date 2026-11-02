@@ -46564,3 +46564,36 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **À clarifier avec le responsable du site.** La règle 41 ne dit pas quel département suit un département déjà clos. Les trois premiers éligibles (Isère, Seine-Saint-Denis, Oise) sont closes ; la passe ne peut donc que revisiter la même commune. Une règle de repli (commune suivante hors des départements clos, ou pause explicite) éviterait ces boucles.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent dix-huitième) : Corse (2A+2B) visée, Ajaccio reprise sur la Ville et l'office de tourisme : rien publié
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. Les départements de tête (Nord, Haute-Garonne, Rhône, Isère, Oise, Loire) restent clos ou épuisés par les passes antérieures. La passe précédente visait la Savoie, donc Auvergne-Rhône-Alpes est close (règle 41.c) ; la Corse est éligible (≈ 3,5, trois fiches à Bastia, Furiani et Borgo). Retenu : **Corse (2A+2B)**, région 94.
+
+**Commune, règle 41.d.** Ajaccio (environ 70 000 habitants) est la commune la plus peuplée de Corse sans fiche. La passe soixante-troisième l'avait sondée au registre seul ; cette passe ouvre enfin les sources annoncées comme déblocage.
+
+**Ce qui a été lu.**
+- Fiche de l'office de tourisme d'Ajaccio pour l'enseigne **Tisori Nostri** (magasin de producteurs, quartier Saint-Joseph) : ouverture du lundi au vendredi 9 h–13 h et 14 h 30–18 h 30, le samedi 9 h–13 h, fermé le dimanche ; produits décrits (charcuterie, fromages, huiles, confitures, miel, glaces, légumes et fruits de saison, cosmétiques artisanaux).
+- Que Choisir, carte « circuit court » : la même enseigne, même adresse, même catégorie (magasin de producteurs).
+- Registre des entreprises : une entité active au nom de l'enseigne, avec un siège dans une autre commune (Sarrola-Carcopino) et un code d'activité d'association. Lecture : l'entité qui exploite le magasin n'est pas le siège ; à confirmer avant de publier. Règle 6 : la correspondance se fait sous l'enseigne, donc elle tient, mais le doute sur l'exploitant reste entier.
+- Biocoop du centre, rue Del Pellegrino, et deux enseignes bio (boulevard Albert-1er, route de Mezzavia) : répertoriés par un annuaire tiers, sans horaires confirmés par l'enseigne ni par la commune.
+- Marché de producteurs du boulevard du Roi-Jérôme : horaires quotidiens publiés par un annuaire participatif seul, avec la mention de non-prise en compte des jours fériés. Source unique.
+- Marché d'été : mentionné par une source touristique générique, sans dates ni lieu.
+- Registre Agence Bio, 2A et 2B : entrées à Ajaccio presque toutes au nom de personnes physiques (écartées, non nommées, non rouvertes), des négoces, des enseignes de grande distribution (hors périmètre, `MODERATION.md`).
+
+**Fiches écartées pour doute sur une personne.** Environ six entrées du registre au nom de personnes physiques, à Ajaccio et dans les communes voisines. Aucune nommée, aucune rouverte.
+
+**Décision.** Aucune fiche publiée. Une seule fiche (Tisori Nostri) est vérifiée sur deux sources indépendantes, horaires concordants, mais son exploitant reste à confirmer au registre. Publier cette fiche seule casserait le groupement de cinq fiches vérifiées sur une commune. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées** (anonymes, Ajaccio) :
+- Tisori Nostri, magasin de producteurs (quartier Saint-Joseph) : deux sources concordantes sur l'adresse et les horaires, exploitant à confirmer au registre. **Déblocage** : une page du commerce ou une déclaration de l'exploitant donnant la raison sociale et le téléphone public.
+- Magasin bio du boulevard Albert-1er et magasin bio de la route de Mezzavia : existence signalée, horaires absents. **Déblocage** : horaires publiés par le magasin ou l'enseigne.
+- Marché de producteurs du boulevard du Roi-Jérôme : source unique. **Déblocage** : page de la Ville ou de l'office de tourisme.
+- Biocoop de la rue Del Pellegrino : horaires non confirmés, pas d'horaires de l'enseigne lus. **Déblocage** : page du magasin sur le site de l'enseigne.
+
+**Ce qui a été volontairement laissé de côté.** Les entrées au nom de personnes physiques, les négoces, les enseignes de grande distribution, les listages touristiques sans lieu ni horaires.
+
+**Points d'arrêt.** Passe suivante : la Corse est close (règle 41.c). Ajaccio reprend au déblocage ci-dessus. Sinon, la formule désignera le département suivant éligible. Constat déjà consigné : la formule renvoie régulièrement des départements épuisés, et une règle de repli reste à écrire par le responsable du site.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
