@@ -46682,3 +46682,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les enseignes sans vente aux particuliers, les marchés non confirmés par une source de la commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-deuxième) : Nord (59) visé, Wattrelos sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Calcul de la règle 41 sur les départements métropolitains (les départements d'outre-mer sont écartés : le validateur ne publie que la métropole). Déficit le plus fort : Nord (59), devant Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93). La Haute-Garonne est exclue par la réserve de la règle 41.c, la passe précédente y ayant été menée. Nord retenu. Commune la plus peuplée sans fiche : Wattrelos (40 847 habitants), déjà éprouvée à zéro lors de passes précédentes.
+
+**Ce qui a été lu cette passe.**
+- Registre des marchés participatif (jours-de-marché.fr) pour Wattrelos : trois marchés déclarés (un jeudi, un vendredi, un dimanche, matinée). Aucun ne se retrouve sur une page de la Ville ; le site avertit lui-même que ses données peuvent être anciennes. Source unique, non confirmée : règle 9 et règle 22 — rien ne se publie.
+- Même annuaire, rubrique producteurs : une ferme maraîchère et une structure de producteurs à Toufflers et Wambrechies, hors de Wattrelos (la ferme est à 4,6 km). Hors commune du groupe : elles ne comptent pas pour le groupe de cinq.
+- Recherche web « magasin bio circuit court » : aucun point de vente en circuit court à Wattrelos. Un magasin de diététique et de plantes y est listé sans produits locaux : écarté.
+- Site de la Ville de Wattrelos : déjà sondé lors de passes précédentes, sans lien utile.
+
+**Pourquoi rien n'est publié.** Trois marchés à source unique, non confirmés par la commune, et aucun commerce en circuit court vérifiable dans la commune : le groupe de cinq n'existe pas. Publier les marchés seuls reviendrait à inscrire des horaires non confirmés.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos, marchés hebdomadaires (jeudi, vendredi, dimanche) : source participative unique. **Déblocage** : page de la Ville ou de l'office de tourisme de la Métropole confirmant jours et horaires.
+- Wattrelos, producteurs en circuit court : aucun trouvé. **Déblocage** : registre de l'Agence Bio ou annuaire « Bienvenue à la Ferme » listant une adresse à Wattrelos même.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** Wattrelos reste sans groupe de cinq. Le constat de boucle déjà consigné dans la passe du 2 novembre (deux cent vingt et unième) s'applique : la règle 41.d désigne une commune que la règle du groupement ne peut pas remplir. Question de règle à trancher hors passe, comme le note le constat précédent.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les marchés non confirmés, les points de vente généralistes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
