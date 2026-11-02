@@ -46400,3 +46400,33 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : reprendre Vaulx-en-Velin à partir de la rubrique marchés du site de la commune, puis la deuxième page du registre Agence Bio pour le Rhône. À la passe suivante, la réserve 41.c ne ferme que la région du Rhône si c'est elle qui a été visée ici ; le classement désignera alors le département suivant.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent douzième) : Calvados (14) visé, Hérouville-Saint-Clair sondée : rien publié
+
+**Backlog.** Aucune demande `nouvelle`, aucune demande `en_cours` touchée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait le Rhône : Auvergne-Rhône-Alpes est fermée (règle 41.c). Le Nord, la Haute-Garonne et l'Oise restent closes par la borne de douze communes (règle 247). Retenu : **Calvados (14)**, déficit 3,42, premier département ouvert du classement.
+
+**Correction de la passe précédente.** La passe du 2 novembre (deux cent dixième) avait retenu Lisieux (19 645 habitants) comme commune la plus peuplée du Calvados sans fiche. C'est inexact : **Hérouville-Saint-Clair (23 470 habitants)** est plus peuplée et n'a aucune fiche. Caen, Vire-Normandie et Bayeux en ont. La commune retenue cette passe est donc Hérouville-Saint-Clair (règle 41.d). Lisieux reste en piste, avec la même réserve que la passe précédente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados, deux pages de cent opérateurs, filtrées sur Hérouville-Saint-Clair : une enseigne Biocoop, deux opérateurs de vente aux professionnels ou restauration, un grossiste et une structure à vente au public sans point de vente identifiable.
+- Registre des entreprises : une association gère un magasin Biocoop à Hérouville-Saint-Clair. Son établissement de la base est actif, mais son siège est enregistré dans un autre département, et le nom de l'association ne permet pas de la relier sans doute au point de vente.
+- Adresse du magasin Biocoop : le registre et une recherche web donnent deux adresses différentes dans la commune. La Base Adresse Nationale géocode les deux, sans trancher. Le site officiel de l'enseigne (recherche de magasins) ne liste pas la commune dans la version lue. Doute de fait sur l'adresse : rien n'est publié.
+- Site de la commune (herouville.net) : page d'accueil lue, aucune mention de marché ni de producteurs. Les rubriques marchés n'ont pas été atteintes pendant la passe.
+- Recherche web : un marché du mercredi sur un parking, avec une note de 2,8 sur 5 et cinq avis, sans source officielle ni jours confirmés. Une épicerie bio de la commune, sans source de l'enseigne lue pendant la passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Décision.** Aucune fiche publiée. Dans la commune, un seul magasin bio est vérifié au registre, et son adresse est contradictoire entre sources. Le groupe de cinq n'est pas atteint, et publier une fiche isolée casserait le groupement d'une passe.
+
+**Pistes non publiées à Hérouville-Saint-Clair (anonymes).**
+- Magasin bio du réseau Biocoop : adresse contradictoire entre le registre et une source web, nom de l'exploitant à éviter. **Déblocage** : adresse confirmée par la page officielle du magasin, et un point de vente de la même commune confirmé au registre sous une autre raison sociale.
+- Épicerie bio : une seule source de presse ancienne, pas d'horaires à jour. **Déblocage** : site ou page de l'enseigne datée.
+- Marché du mercredi : une seule source tierce, jours et lieu non confirmés. **Déblocage** : page de la Ville ou de l'office de tourisme.
+
+**Points d'arrêt.** Passe suivante : Calvados (14) est visé à nouveau seulement si la règle 41.c le permet ; la passe suivante ne peut pas viser la Normandie puisque celle-ci est visée ici. Reprendre Hérouville-Saint-Clair à partir des rubriques marchés du site de la Ville, puis la deuxième page du registre Agence Bio pour le Calvados.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grossistes, la restauration collective, et les structures à vente au public sans point de vente identifiable.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
