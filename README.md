@@ -46358,3 +46358,24 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grandes surfaces, les grossistes, et les exploitations du registre sans point de vente public.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent dixième) : Calvados (14) visé, Lisieux sondée : rien publié
+
+**Backlog.** Aucune demande `nouvelle`. Une demande `en_cours` est inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Le Nord (59) reste en tête du calcul, mais sa descente a déjà dépassé la borne de douze communes (règle 247). L'Oise (60) et la Haute-Garonne (31) sont closes par la même règle. La passe précédente visait la Haute-Garonne, donc l'Occitanie est fermée (règle 41.c). Retenu : **Calvados (14)**, premier département ouvert du classement.
+
+**Commune, règle 41.d.** Dans le Calvados, Caen et Bayeux ont déjà des fiches. La commune la plus peuplée sans fiche est **Lisieux (19 645 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados, première page (100 opérateurs) : quatre opérateurs à Lisieux. Trois ne vendent pas au public ; le quatrième est une entrée de vente aux professionnels, à écarter. Deuxième page non relue : à reprendre si la commune reste visée.
+- Site de l'office de tourisme de Lisieux : page « marchés » accessible, mais sans jours, horaires ni liste de producteurs lisibles dans la version lue.
+- Recherche web : un marché hebdomadaire du samedi matin cité par une page sans date, et un marché de producteurs annoncé pour le 24 décembre par un article ancien. Aucune source officielle à jour.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Lisieux ne rend une fiche vérifiable sur une source indépendante à jour, et une fiche isolée ne forme pas le groupe de cinq.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur Lisieux sans source officielle datée (site de la Ville ou de l'office de tourisme). Relire la deuxième page du registre Agence Bio pour le Calvados. Le Calvados est éligible à nouveau à la passe suivante, sur la même commune seulement si l'une de ces sources aboutit.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
