@@ -46457,3 +46457,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Fiches écartées pour doute sur une personne.** Une à Trappes (opérateur patronymique), non rouverte.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent quatorzième) : Calvados (14) visé à nouveau, Hérouville-Saint-Clair reprise : rien publié
+
+**Backlog.** Aucune demande `nouvelle` ni `en_cours` à traiter. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177). La passe précédente visait les Yvelines (Île-de-France) : la Normandie est donc libre pour cette passe. Le Calvados reste le premier département ouvert du classement ; son point d'arrêt écrit (passe 212) désigne Hérouville-Saint-Clair à reprendre par les rubriques marchés de la Ville et le registre Agence Bio, page par page.
+
+**Ce qui a été lu.**
+- Site de la Ville, rubrique « Marchés » : deux marchés hebdomadaires, le mercredi de 8h30 à 13h30 (parking Haute Folie) et le samedi de 8h30 à 13h30 (centre-ville, place du Café des images). La page parle d'une « offre variée de produits alimentaires et de biens du quotidien » sans nommer un seul producteur ni un seul produit. Les jours et lieux sont désormais confirmés par l'autorité ; la liste des producteurs ne l'est pas.
+- Registre Agence Bio, Calvados, lecture complète de l'annuaire (1 370 opérateurs) filtrée sur la ville : aucun producteur de vente aux particuliers identifié comme tel à Hérouville. Les entrées à vente particuliers sont une coopérative bio (rue Louis-Pasteur, adresse à double lecture, voir ci-dessous), un hypermarché et un centre commercial, écartés par la règle 40 et par MODERATION.md ; aucune entrée patronymique n'est reprise ici.
+- Recherche web sur la coopérative bio : elle relève du réseau Biocoop. Deux adresses dans la commune (rue Louis-Pasteur et rue Denis-Papin) ; horaires contradictoires selon l'annuaire local et une source de 2021. Aucune liste de producteurs lue sur ses pages. Règle 86 : un magasin de réseau doit montrer sa liste de producteurs, et elle n'est pas atteinte.
+
+**Pourquoi rien n'est publié.** Une fiche de marché sans producteur ni produit ne remplit ni le critère « 3 à 8 produits concrets » ni le groupement de cinq fiches vérifiées sur une commune. Inventer une liste de produits est exclu. La coopérative a une adresse contradictoire et des horaires contradictoires : doute de fait, donc rien ne se publie. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées à Hérouville-Saint-Clair (anonymes).**
+- Marché du mercredi (parking Haute Folie, 8h30–13h30) : jours et lieu confirmés par la Ville, aucune liste de producteurs. **Déblocage** : liste d'exposants ou de producteurs publiée par la Ville, ou par un producteur vérifié qui se déclare sur le marché.
+- Marché du samedi (centre-ville, place du Café des images, 8h30–13h30) : identique au précédent. **Déblocage** : identique.
+- Coopérative bio du réseau Biocoop, rue Louis-Pasteur : adresse et horaires à confirmer sur la page officielle du magasin, et liste de producteurs (règle 86). **Déblocage** : les deux, par la page du magasin.
+
+**Points d'arrêt.** La passe suivante ne peut pas viser la Normandie si celle-ci est retenue ici (règle 41.c). Le Calvados reprend à Hérouville-Saint-Clair au déblocage ci-dessus ; sinon, descente à la commune suivante par population sans fiche dans le département, en appliquant la règle 247 (douze communes éprouvées au plus).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
