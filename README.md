@@ -46757,3 +46757,25 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les entrées qui ne sont pas des commerces de vente au public (grossiste, entrepôt), les fiches d'enseignes généralistes, et les commerces situés hors de France.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-cinquième) : Haute-Garonne (31) visée, Muret sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains. Nord (59) exclu par la règle 41.c, passe précédente. Haute-Garonne (31), déficit ≈ 3,8, retenue. Commune la plus peuplée encore sans fiche : Muret (26 079 habitants).
+
+**Ce qui a été lu cette passe.** Deux recherches web. Pour Muret : une seule piste de commerce bio (un magasin Biocoop, horaires publiés par un annuaire participatif et non confirmés par le magasin). Aucun marché de producteurs ni AMAP documenté. Le site officiel de la Ville n'a pas été lu : seul un document de candidature au marché de Noël apparaît, sans liste de producteurs.
+
+**Pourquoi rien n'est publié.** Une commune ne rend pas cinq commerces vérifiables. Une fiche isolée contredirait la règle du groupement de cinq.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Commune de plus de 20 000 habitants, magasin bio (annuaire) : horaires non confirmés. **Déblocage** : confirmation par le magasin ou page de la Ville.
+- Commune de Muret, deux magasins bio référencés sans horaires vérifiés. **Déblocage** : sites des magasins, ou réponse de la Ville sur la liste de ses marchés.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** Muret et les communes voisines ont été sondées à de nombreuses passes sans que la règle 41.d ne fasse descendre le groupe de cinq. Question de règle à trancher hors passe, comme le consignent les constats précédents.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés non confirmés, les points de vente généralistes, les supermarchés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
