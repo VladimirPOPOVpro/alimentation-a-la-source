@@ -46734,3 +46734,26 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune du groupe, les points de vente généralistes, les opérateurs au nom de particuliers.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-quatrième) : Nord (59) visé, Wattrelos et Cambrai sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains (outre-mer écarté, règle 177). Haute-Garonne (31), passe précédente, est exclue par la règle 41.c. Le Nord (59), déficit ≈ 4,5, est le premier département métropolitain éligible. Commune la plus peuplée encore sans fiche : Wattrelos (40 847 habitants), puis Cambrai.
+
+**Ce qui a été lu cette passe.** Une recherche web sur les magasins bio et producteurs en circuit court de l'agglomération lilloise et du Cambrésis. Elle ne rend que des annuaires agrégés (Pages Jaunes, Locavores, Où acheter local, Jours de Marché), une fiche de magasin située hors de France (Belgique) et une fiche « fermé définitivement ». Aucune source officielle de commune (marchés, commerces) n'a été lue avec succès.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source indépendante. Les pistes relevées sont à une source (annuaire) ou sans horaires confirmés par le commerce. Publier une fiche isolée contredirait la règle du groupement de cinq.
+
+**Pistes non publiées (anonymes, Nord).**
+- Magasin bio de l'agglomération de Roubaix : annuaire seul, pas de site confirmé ni d'horaires. **Déblocage** : site du magasin et page de la Ville.
+- Producteur de fruits en vente directe, Nord (ouacheterlocal) : nom d'entreprise à vérifier au registre, produits et téléphone publiés par l'annuaire seulement. **Déblocage** : site du producteur, fiche registre active.
+- Point de vente de producteurs au Cambrésis (annuaire Jours de Marché) : horaires non confirmés. **Déblocage** : confirmation par le point de vente lui-même.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** La formule désigne le Nord à chaque retour, alors que les communes du groupe de cinq y sont épuisées depuis plusieurs passes. Question de règle à trancher hors passe, comme le consignent les constats précédents.
+
+**Ce qui a été volontairement laissé de côté.** Les entrées qui ne sont pas des commerces de vente au public (grossiste, entrepôt), les fiches d'enseignes généralistes, et les commerces situés hors de France.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
