@@ -46534,3 +46534,33 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Point d'arrêt.** Passe suivante : Ille-et-Vilaine reste ouverte et Fougères reste la commune en cours, avec les déblocages ci-dessus. La région 53 est close pour la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent dix-septième) : Seine-Saint-Denis (93) revisée, Aulnay-sous-Bois sondée à nouveau : rien publié
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`, une `en_cours` déjà connue. Aucun email à envoyer.
+
+**Secteur, règles 41, 41.c et 247.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et `data/marchands.json` (1 304 fiches). En tête : Nord (59), Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93), Oise (60). Le 93 (≈ 4,59) revient au premier rang éligible après l'Isère (≈ 4,60), déjà close par les passes précédentes. La passe précédente visait Ille-et-Vilaine (région 53), qui est donc exclue ici. Retenu : **Seine-Saint-Denis (93)**, reprise.
+
+**Constat de fond.** La formule renvoie le 93 et Aulnay-sous-Bois, déjà sondée la passe du 31 octobre (cinquante-neuvième) sans publication. La descente du 93 a été close à la passe soixante-et-unième. Cette passe ne reprend donc pas la commune pour y chercher autre chose : elle vérifie si les sources ont bougé. Elles ont peu bougé.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville, rubrique « Marchés forains » : confirme l'existence de marchés forains, cite le marché du Gros Saule (nouvel emplacement), sans jour ni horaire, et renvoie à la Direction du développement économique (délégataire pour les abonnements).
+- Annuaire participatif jours-de-marche.fr : trois marchés listés, jours et lieux donnés par cette seule source.
+- Annuaire de l'enseigne La Vie Claire (Bible-Marques) : point de vente à l'adresse avenue Dumont, téléphone publié ; horaires introuvables dans les sources lues.
+- Annuaire d'enseigne Naturalia : franchise référencée route de Bondy, horaires non lus.
+- Recherche web sur les AMAP et les producteurs de la commune : aucune AMAP ni producteur local identifié.
+
+**Pourquoi rien n'est publié.** Une enseigne de magasin bio dont les horaires ne sont confirmés par aucune source de l'enseigne ou de la commune ; les marchés n'ont pas deux sources indépendantes concordantes (règle 16) ; le marché du Gros Saule n'a pas de jour (règle 9). Cinq fiches vérifiées sur une commune ne sont pas atteignables.
+
+**Pistes non publiées** (anonymes, Seine-Saint-Denis) :
+- Aulnay-sous-Bois, magasin bio de réseau, avenue Dumont : adresse et téléphone concordants, horaires non confirmés. **Déblocage** : horaires publiés par le magasin ou par l'enseigne.
+- Aulnay-sous-Bois, franchise bio de la route de Bondy : adresse seule. **Déblocage** : horaires et page du magasin.
+- Aulnay-sous-Bois, marchés (Gros Saule, Vieux Pays, Rose des Vents, Gare) : jours et lieux à confirmer par la Ville. **Déblocage** : réponse écrite de la Direction du développement économique, ou un second annuaire concordant.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les opérateurs du registre Agence Bio de la commune sans vente aux particuliers, les hypermarchés et supermarchés, les grossistes.
+
+**À clarifier avec le responsable du site.** La règle 41 ne dit pas quel département suit un département déjà clos. Les trois premiers éligibles (Isère, Seine-Saint-Denis, Oise) sont closes ; la passe ne peut donc que revisiter la même commune. Une règle de repli (commune suivante hors des départements clos, ou pause explicite) éviterait ces boucles.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
