@@ -46809,3 +46809,32 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés non confirmés, les points de vente généralistes, les entrées de grossistes et d'entrepôts.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-septième) : Haute-Garonne (31) visée, Muret sondée, Plaisance-du-Touch sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains (outre-mer écarté, règle 177). Le Nord (59), déficit ≈ 6,5, est exclu par la règle 41.c : passe précédente (deux cent vingt-sixième). La Haute-Garonne (31), déficit ≈ 5,0, est la première retenue ; elle n'a pas été visée à la passe précédente. Commune la plus peuplée encore sans fiche : Muret (26 079 habitants), puis Plaisance-du-Touch (21 079), selon la règle 41.d.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Haute-Garonne : pages de cent relues pour les communes visées. Dans Muret et Plaisance-du-Touch, la plupart des entrées vendent aux seuls professionnels, ou portent un nom de personne (écartées). Quelques magasins sont référencés sans horaires ni site vérifiés.
+- Recherche web sur Muret : un magasin bio de réseau dont les horaires ne viennent que d'un annuaire participatif, un second référencé avec un code postal parisien (erreur de référencement), un troisième sans horaires affichés. Aucun marché de producteurs ni AMAP documenté. Le site officiel de la Ville n'a pas été lu avec succès.
+- Recherche web sur Plaisance-du-Touch : deux enseignes bio signalées par des annuaires, sans horaires ; un marché indiqué par un site participatif, sans jour précisé ; des producteurs listés pour le code postal, tous hors commune.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source indépendante, et aucun commerce n'a d'horaires confirmés par le commerce ou par la commune. Publier une fiche isolée contredirait la règle du groupement de cinq.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret, magasin bio de réseau : horaires issus d'un annuaire participatif seulement. **Déblocage** : horaires confirmés par le magasin ou par téléphone.
+- Muret, magasin bio référencé sans horaires : **Déblocage** : site du magasin ou réponse écrite de celui-ci.
+- Muret, marché de producteurs : aucun trouvé. **Déblocage** : page officielle de la Ville listant un marché ou des producteurs.
+- Plaisance-du-Touch, deux enseignes bio : horaires non vérifiés. **Déblocage** : confirmation par chaque magasin ; à défaut, page de la Ville.
+- Plaisance-du-Touch, marché : un jour indiqué par un site participatif, sans source officielle. **Déblocage** : page de la Ville.
+- Plusieurs producteurs de la Haute-Garonne listés par le registre : hors des communes visées, ou au nom d'une personne : écartés.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre, nombre seul, aucune nommée.
+
+**Constat.** La règle 41.d fait descendre Muret et Plaisance-du-Touch depuis plusieurs passes sans qu'un groupe de cinq se forme. Question de règle à trancher hors passe, comme le consignent les constats précédents.
+
+**Ce qui a été volontairement laissé de côté.** Les magasins dont les horaires ne sont confirmés par aucune source, les entrées de grossistes et de négoces, les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
