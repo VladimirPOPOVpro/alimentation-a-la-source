@@ -46838,3 +46838,34 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les magasins dont les horaires ne sont confirmés par aucune source, les entrées de grossistes et de négoces, les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-huitième) : Nord (59) visé, Wattrelos sondée, Lambersart et Armentières sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains (outre-mer écarté, règle 177). La passe précédente visait la Haute-Garonne (31), qui est donc exclue par l'interdiction de deux passes de suite dans la même région. Le Nord (59), déficit ≈ 6,1, est le premier retenu ; la passe deux cent vingt-sixième, qui l'avait visé, n'est pas la précédente. Commune la plus peuplée encore sans fiche : Wattrelos (40 847 habitants), puis Marcq-en-Barœul et Cambrai, sondées aux passes précédentes sans résultat, puis Lambersart (27 090) et Armentières (26 998), selon la règle 41.d.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Nord : les vingt pages de cent relues. Dans Wattrelos, Lambersart et Armentières, les entrées qui vendent aux particuliers sont peu nombreuses ; la plupart portent un nom de personne (écartées) ou sont des préparateurs et des grossistes.
+- Wattrelos : trois marchés relevés par des annuaires et un site d'événements en anglais, sans confirmation de la Ville. Aucune ferme ni producteur en vente directe.
+- Lambersart : aucun marché trouvé. Un épicier de l'avenue de Dunkerque, signalé par un annuaire, sans horaires vérifiés ; les magasins bio et supermarchés des annuaires n'ont pas de source indépendante pour leurs horaires.
+- Armentières : deux marchés recensés par un site participatif, sans jours ni horaires vérifiés. Un magasin de producteurs situé à La Chapelle-d'Armentières (commune voisine, hors de la liste visée) est référencé par une carte des circuits courts avec des horaires, sans confirmation du commerce.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source indépendante, et le seul commerce de producteurs trouvé, à La Chapelle-d'Armentières, n'a qu'une source pour ses horaires. Publier une fiche isolée contredirait la règle du groupement de cinq.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos, marchés hebdomadaires : source unique (annuaire participatif) et non confirmée par la Ville. **Déblocage** : page officielle de la Ville ou de la Métropole confirmant jours et horaires.
+- Wattrelos, producteurs en circuit court : aucun trouvé. **Déblocage** : registre de l'Agence Bio ou annuaire « Bienvenue à la Ferme » listant une adresse à Wattrelos même.
+- Lambersart, épicerie de produits locaux : horaires non vérifiés. **Déblocage** : confirmation par le commerce.
+- Armentières, deux marchés recensés : jours non confirmés. **Déblocage** : page de la Ville ou de l'office de tourisme.
+- Armentières, magasin bio de réseau : horaires non trouvés. **Déblocage** : site du réseau ou confirmation par le magasin.
+- La Chapelle-d'Armentières, magasin de producteurs : horaires d'une seule source, hors des communes visées. **Déblocage** : confirmation par le magasin, puis regroupement avec les pistes d'Armentières si la passe suivante le permet.
+- Marcq-en-Barœul et Cambrai : pistes déjà écartées pour doute sur une personne ; elles ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre, nombre seul, aucune nommée.
+
+**Constat.** La règle 41.d fait descendre le Nord de commune en commune depuis plusieurs passes sans qu'un groupe de cinq se forme. Les communes les plus peuplées y ont des marchés recensés mais non confirmés par les villes, et peu de producteurs en vente directe. Question de règle à trancher hors passe, comme le consignent les constats précédents.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés non confirmés, les supermarchés et les magasins de réseau sans horaires vérifiés, les entrées de grossistes et de préparateurs, les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
