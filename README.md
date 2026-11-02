@@ -46379,3 +46379,24 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : ne pas revenir sur Lisieux sans source officielle datée (site de la Ville ou de l'office de tourisme). Relire la deuxième page du registre Agence Bio pour le Calvados. Le Calvados est éligible à nouveau à la passe suivante, sur la même commune seulement si l'une de ces sources aboutit.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent onzième) : Rhône (69) visé, Vaulx-en-Velin sondée : rien publié
+
+**Backlog.** Aucune demande `nouvelle`. La demande déjà `en_cours` n'a pas été touchée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Le Nord (59) et la Haute-Garonne (31) sont closes par la borne de douze communes (règle 247) ; la passe précédente visait le Calvados, donc la Normandie est fermée (règle 41.c). Retenu : **Rhône (69)**, région 84 (Auvergne-Rhône-Alpes), déficit en tête des départements ouverts.
+
+**Commune, règle 41.d.** Lyon, Villeurbanne et Vénissieux ont déjà des fiches. **Vaulx-en-Velin (environ 53 000 habitants)** est la commune la plus peuplée sans fiche : elle est retenue.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Rhône, première page (100 opérateurs) : aucun opérateur de vente directe identifiable à Vaulx-en-Velin. Un seul y figure, une structure associative qui vend aux particuliers sans point de vente public vérifié : écartée, faute de fiche sourcée.
+- Site de la commune (vaulxenvelin.fr), page d'accueil lue : aucune mention de marché ni de producteurs locaux. Les rubriques marchés n'ont pas été atteintes pendant la passe.
+- Recherche web généraliste : aucun résultat exploitable.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Décision.** Aucune fiche publiée. Aucun commerce de Vaulx-en-Velin n'est vérifié sur une source indépendante, et le groupe de cinq n'est pas atteint.
+
+**Points d'arrêt.** Passe suivante : reprendre Vaulx-en-Velin à partir de la rubrique marchés du site de la commune, puis la deuxième page du registre Agence Bio pour le Rhône. À la passe suivante, la réserve 41.c ne ferme que la région du Rhône si c'est elle qui a été visée ici ; le classement désignera alors le département suivant.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
