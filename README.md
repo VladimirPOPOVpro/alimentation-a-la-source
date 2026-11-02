@@ -46965,3 +46965,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Le registre de l'Agence Bio n'a pas été relu pour cette passe ; les producteurs hors commune ; les opérateurs à vente exclusivement professionnelle ; les grandes surfaces.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent trente-troisième) : Loire (42) reprise, Le Chambon-Feugerolles et Veauchette sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 177 et 247.** Métropole seule (règle 177). La passe précédente était en Hauts-de-France, donc exclue par la règle 41.c. Le classement, outre-mer écarté et Hauts-de-France exclu, donne Loire (42) en tête (déficit ≈ 3,64), juste devant l'Isère (≈ 3,57). Retenue : **Loire (42)**, Auvergne-Rhône-Alpes, région différente de la passe précédente.
+
+**Commune, règle 41.d.** Saint-Étienne et Saint-Chamond ont déjà des fiches ; Roanne, Firminy, Montbrison et Rive-de-Gier ont été éprouvées aux passes précédentes. La descente reprend donc sur **Le Chambon-Feugerolles (12 314 habitants)**, puis Riorges et Andrézieux-Bouthéon. Le compte de communes éprouvées reste sous la borne de la règle 247.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, lu sur le département (cent premiers opérateurs) et filtré sur les communes de la descente : pour Le Chambon-Feugerolles, un seul opérateur « vente aux consommateurs », une boulangerie bio à enseigne de réseau, qui n'est pas un point de vente de producteurs ; pour Riorges, aucun opérateur à vente aux particuliers ; pour Andrézieux-Bouthéon, un supermarché et un abattoir, écartés.
+- Recherche web : aucun marché de producteurs à jour trouvé pour Le Chambon-Feugerolles (la seule mention, un arrêté de 2020, date de la crise sanitaire) ; aucun résultat pour Riorges ; aucun marché de producteurs pour Andrézieux-Bouthéon ; aucune liste « Bienvenue à la ferme » pour le département.
+- Registre des entreprises et sites des commerces : non menés jusqu'au bout, faute de fiche candidate qui tienne deux sources indépendantes.
+
+**Décision.** Aucune fiche publiée. Aucune commune de la descente ne rend cinq commerces vérifiables avec deux sources indépendantes.
+
+**Pistes non publiées (anonymes, Loire).**
+- Veauchette (commune de moins de 10 000 habitants) : petite entreprise de vente directe à l'enseigne distincte, mais le nom affiché est celui d'une personne physique. Écartée pour doute sur une personne : rien n'est publié, et la piste ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Veauchette (voir ci-dessus).
+
+**Constat.** Même boucle que les passes des derniers jours : la formule désigne un département dont les communes les plus peuplées sont déjà éprouvées, et la descente ne trouve pas cinq commerces vérifiables. Ce point se consigne, il ne se tranche pas dans la passe.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les abattoirs et les grossistes, les boulangeries à enseigne de réseau, les producteurs hors commune, les opérateurs à vente exclusivement professionnelle.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
