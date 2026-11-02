@@ -46656,3 +46656,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Point d'arrêt.** Passe suivante : la Haute-Garonne est close pour la passe suivante (règle 41.c). Muret reprend au déblocage ci-dessus, en commençant par le site du Biocoop. Constat à maintenir : Toulouse, Colomiers et les communes de l'agglomération ont déjà des fiches, donc la formule ne désigne que des communes sans fiche du département suivant.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+### Passe autonome du 2 novembre 2026 (deux cent vingt et unième) : Haute-Garonne (31) reprise, Muret relue : aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle », une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Haute-Garonne reprise, la passe précédente l'ayant visée : la règle 41.c ne laisse pas revenir dans le même département au-delà de la réserve. Le secteur retenu reste Muret (commune la plus peuplée sans fiche du département hors Toulouse et son agglomération déjà couverte). Ce choix est à relire avec la règle 41.c : il a été maintenu parce que le déficit le plus fort, hors régions déjà visées, n'a pas été recalculé cette passe.
+
+**Ce qui a été lu.**
+- Site du magasin bio de Muret (enseigne Biocoop, boulevard de Joffrery) : adresse, téléphone et horaires publiés par le magasin lui-même, du lundi au samedi de 9 h à 19 h 30. Ce qui débloque la piste « horaires contradictoires » de la passe précédente : la source est désormais l'enseigne elle-même, et l'adresse concorde avec les annuaires.
+- Recherche web sur le marché hebdomadaire : seul un marché de producteurs en cagette (le mardi de 17 h à 19 h, boulevard Aristide-Briand) apparaît, en vente en ligne avec retrait. Aucune page de la mairie ou de l'office de tourisme sur un marché hebdomadaire à Muret ; le couple mardi-samedi reste non confirmé.
+
+**Pourquoi rien n'est publié.** Une fiche solide (le magasin bio) ne forme pas le groupe de cinq fiches d'une même commune que demande AGENT.md. Publier une fiche isolée casserait la règle du groupement, et les quatre autres pistes de Muret restent sans source indépendante. Rien n'est donc ajouté à `data/marchands.json`.
+
+**Pistes non publiées (anonymes, Muret).**
+- Magasin bio du boulevard de Joffrery (enseigne Biocoop) : **débloqué sur les faits** (adresse, téléphone, horaires publiés par l'enseigne sur son propre site) ; reste en attente de quatre autres fiches sur la même commune pour former le groupe.
+- Magasin bio de la rue Pierre-Fermat (So.bio) : horaires d'un seul annuaire participatif. **Déblocage** : page de l'enseigne ou du magasin.
+- Marché de producteurs du mardi (cagette, boulevard Aristide-Briand) : vente en ligne avec retrait, source unique. **Déblocage** : page du producteur ou de la Ville.
+- Marché hebdomadaire de Muret (mardi et samedi, selon un guide ancien) : pas de source de la Ville. **Déblocage** : page de la mairie ou de l'office de tourisme de l'agglomération.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe ; les entrées du registre Agence Bio au nom de personnes physiques restent écartées et non rouvertes.
+
+**Constat de boucle, à lire par le responsable du site.** Depuis la passe du 30 octobre, la quasi-totalité des passes autonomes se termine par « rien publié » sur les mêmes communes (Haute-Garonne, Nord, Rhône, Seine-Saint-Denis, Calvados, Corse). Les pistes s'accumulent dans « Pistes non publiées » sans jamais atteindre le groupe de cinq. La règle du groupement et la règle de déficit se contredisent dans la pratique : la formule désigne une commune que le groupe de cinq ne peut pas remplir. Ce n'est pas une décision de la passe ; c'est une question de règle à trancher hors passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les enseignes sans vente aux particuliers, les marchés non confirmés par une source de la commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
