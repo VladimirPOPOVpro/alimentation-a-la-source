@@ -46430,3 +46430,30 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les opérateurs à vente exclusivement professionnelle, les grossistes, la restauration collective, et les structures à vente au public sans point de vente identifiable.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent treizième) : Yvelines (78) visées, Trappes sondée : rien publié
+
+**Backlog.** Aucune demande `nouvelle`, aucune `en_cours` touchée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait le Calvados (région 28) : Normandie close pour cette passe (règle 41.c). Nord, Haute-Garonne, Oise, Rhône, Isère, Loire, Seine-Saint-Denis, Hérault et Val-de-Marne restent épuisés, clos ou éprouvés (même lecture que les passes précédentes). Retenu : **Yvelines (78)**, premier département ouvert du classement, sans passe depuis le 1er novembre.
+
+**Commune, règle 41.d.** Mantes-la-Jolie (43 526 habitants) et Poissy sont éprouvées sans résultat, et Conflans-Sainte-Honorine vient d'être sondée. Les Yvelines n'ont pas de fiche à Trappes (34 689 habitants) : la commune est retenue selon le point d'arrêt de la passe du 1er novembre.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Trappes, rubrique « Les marchés » : deux marchés, celui des Merisiers (mercredi 14h–18h30, vendredi 8h30–13h, samedi 8h30–14h, place des Merisiers) et celui du centre-ville (dimanche 8h30–13h, parking de l'Hôtel de ville). La page parle de « commerçants » sans identifier de producteur ni de produit.
+- Registre Agence Bio, Yvelines, première page de cent opérateurs : une seule entrée à Trappes, une vente particuliers exploitée sous une dénomination patronymique : écartée, non nommée.
+- Registre des entreprises : aucun établissement à Trappes sous une enseigne de vente de producteurs trouvé à la requête lancée.
+- Agrégateur de marchés (marches-a-proximite.fr) : les mêmes deux marchés, sans producteurs. Recherche web : rien de vérifiable sur des producteurs présents à Trappes.
+
+**Pourquoi rien n'est publié.** Les deux marchés sont confirmés par la Ville, mais aucune source ne dit qui y vend. Une fiche de marché isolée ne rend pas la zone utilisable, et la règle de groupement (cinq fiches vérifiées par commune) n'est pas atteinte. Les marchés restent en piste.
+
+**Pistes non publiées à Trappes (anonymes).**
+- Marché des Merisiers (mercredi, vendredi, samedi) : commune confirme jour et lieu. **Déblocage** : liste de producteurs ou d'exposants du marché, par la Ville ou un producteur vérifié.
+- Marché du centre-ville (dimanche) : commune confirme jour et lieu. **Déblocage** : identique.
+- Opérateur Agence Bio de vente aux particuliers à Trappes : dénomination patronymique, écarté pour doute sur une personne. Non rouvert.
+
+**Points d'arrêt.** Yvelines : la passe suivante ne peut pas viser l'Île-de-France si la passe reste sur les Yvelines ; Trappes se reprend avec le déblocage ci-dessus. Sinon, Houilles (33 983 habitants) ou Montigny-le-Bretonneux (32 465 habitants), à éprouver contre le registre Agence Bio et la page de la Ville.
+
+**Fiches écartées pour doute sur une personne.** Une à Trappes (opérateur patronymique), non rouverte.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
