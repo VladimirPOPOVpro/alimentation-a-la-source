@@ -46779,3 +46779,33 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés non confirmés, les points de vente généralistes, les supermarchés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 2 novembre 2026 (deux cent vingt-sixième) : Nord (59) visé, Wattrelos et Marcq-en-Barœul sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur.** Règle 41 sur les départements métropolitains. Le premier déficit du calcul est La Réunion (974), écartée par la règle 177 (outre-mer hors du calcul, et hors du cadre de métropole que `lib/validateMerchants.ts` admet). La Haute-Garonne (31), passe précédente, est exclue par la règle 41.c. Le Nord (59), déficit ≈ 4,5, est le premier département métropolitain éligible.
+
+**Commune.** La plus peuplée encore sans fiche : Wattrelos (40 847 habitants). Puis Marcq-en-Barœul (40 184) et Cambrai (31 134).
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Nord : relu en entier (environ 1 800 opérateurs, dix-huit pages de cent). Dans les trois communes visées, les entrées qui vendent aux particuliers sont peu nombreuses ; certaines portent un nom de personne et sont écartées.
+- Wattrelos : trois marchés hebdomadaires relevés par un seul site d'événements en anglais, sans confirmation de la Ville. Aucune ferme ni producteur en vente directe. Le site officiel de la Ville n'apparaît pas dans les recherches.
+- Marcq-en-Barœul : trois marchés annoncés par un annuaire ; un maraîcher bio installé dans la commune, dont le nom est celui d'un exploitant : écarté pour doute sur une personne.
+- Cambrai : un magasin bio de réseau, dont les horaires diffèrent d'un annuaire à l'autre ; un magasin de ferme dont le nom est celui d'un exploitant : écarté pour doute sur une personne.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source indépendante. Publier une fiche isolée contredirait la règle du groupement de cinq.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos, marchés hebdomadaires : source unique et non confirmée par la commune. **Déblocage** : page officielle de la Ville ou de la Métropole confirmant jours et horaires.
+- Wattrelos, producteurs en circuit court : aucun trouvé. **Déblocage** : registre de l'Agence Bio ou annuaire « Bienvenue à la Ferme » listant une adresse à Wattrelos même.
+- Cambrai, magasin bio de réseau : adresse concordante, horaires contradictoires. **Déblocage** : horaires confirmés par le magasin ; à trancher ensuite selon le critère « magasin bio indépendant » de `MODERATION.md`.
+- Marcq-en-Barœul et Cambrai, producteurs en vente directe : écartés pour doute sur une personne ; ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Deux (Nord), nombre seul, aucune nommée.
+
+**Constat.** La formule désigne le Nord à chaque retour, et les communes les plus peuplées sans fiche y sont sondées passe après passe sans atteindre le groupe de cinq. Question de règle à trancher hors passe, comme le consignent les constats précédents.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés non confirmés, les points de vente généralistes, les entrées de grossistes et d'entrepôts.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
