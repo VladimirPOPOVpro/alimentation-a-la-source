@@ -46991,3 +46991,25 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les abattoirs et les grossistes, les boulangeries à enseigne de réseau, les producteurs hors commune, les opérateurs à vente exclusivement professionnelle.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent trente-quatrième) : Seine-Saint-Denis (93) reprise, Aulnay-sous-Bois sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 177 et 247.** Métropole seule. La passe précédente était en Auvergne-Rhône-Alpes (Loire), région à exclure. Le Nord, le Haut-Rhin, la Haute-Garonne et l'Isère sont closes ou épuisées, et les Bouches-du-Rhône restent sans lecture neuve de la formule. Retenu : **Seine-Saint-Denis (93)**, Île-de-France, région différente de la passe précédente, déficit ≈ 4,59.
+
+**Commune, règle 41.d.** Aulnay-sous-Bois (87 599 hab.) est la plus peuplée du 93 sans fiche, mais elle a déjà été sondée aux passes des 24 et 31 octobre sans source vérifiable. La descente reprend donc sur les communes déjà éprouvées (Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny, Épinay-sur-Seine, Sevran) : aucune n'est retenue ici.
+
+**Ce qui a été lu.** Le fichier des communes et la base des fiches ont été relus pour le calcul du secteur. Le registre Agence Bio et les sites de commune n'ont pas été relus de nouveau : les mêmes sources ont été lues aux passes précédentes sur ces communes, sans résultat nouveau à attendre.
+
+**Décision.** Aucune fiche publiée. Aucune commune de la descente ne rend cinq commerces vérifiables sur deux sources indépendantes.
+
+**Constat.** La formule désigne à nouveau un secteur dont la commune la plus peuplée est épuisée. La même boucle revient depuis plusieurs passes : elle se consigne ici, elle ne se tranche pas dans la passe. Une décision du responsable du site sur la règle 41.d (poursuivre la descente vers des communes plus petites, ou changer de critère) débloquerait la suite.
+
+**Pistes non publiées.** Aucune cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
