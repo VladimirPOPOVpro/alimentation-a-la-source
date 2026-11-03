@@ -47138,3 +47138,31 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : recalculer le classement métropolitain (règle 41) ; le Nord et la Haute-Garonne restent fermés tant qu'aucun déblocage nommé n'est publié dans leurs pistes. Les pistes existantes ne sont pas réouvertes sans déblocage.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-troisième) : Loire (42) reprise, Feurs sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), dénominateur de toute la France, 1 304 fiches comptées sur le code postal. Le classement, outre-mer écarté, donne Nord (59) puis Haute-Garonne (31), toutes deux fermées par la règle 247 ; Oise (60) est exclue par la règle 41.c (passe précédente en Hauts-de-France). Retenue : **Loire (42)**, Auvergne-Rhône-Alpes, déficit ≈ 3,6, région différente de la passe précédente.
+
+**Commune, règle 41.d.** Saint-Étienne, Saint-Chamond, Roanne, Firminy, Montbrison, Rive-de-Gier, Le Chambon-Feugerolles, Riorges et Andrézieux-Bouthéon ont déjà été éprouvées ou ont déjà des fiches. La descente reprend sur **Feurs (≈ 10 500 habitants)**.
+
+**Ce qui a été lu.**
+- Recherche web et annuaires : un marché alimentaire du mardi, documenté par la ville et par une plateforme de marchés (jours et horaires concordants, jour de marché et lieu confirmés) ; un magasin de produits de la ferme, avec une adresse sur la fiche d'annuaire en zone industrielle et une adresse différente au registre ; une ferme qui annonce un marché bio, sans source tierce à jour.
+- Registre des entreprises : le magasin de produits de la ferme est enregistré à une autre adresse que celle de sa fiche d'annuaire, sous un code d'activité de commerce de détail de fruits et légumes, et non de production agricole. Contradiction entre sources : la règle 5 des « Règles de décision » s'applique, rien n'est publié (et la règle 29 ne tranche pas un cas où le code du registre dit le commerce, et non la production).
+- Géocodage BAN : la zone industrielle du Forum se géocode par un point de zone, sans numéro ; pas de point exploitable pour une fiche isolée.
+
+**Décision.** Aucune fiche publiée. Feurs rend un marché et une ferme au statut contradictoire, pas cinq commerces vérifiables avec deux sources indépendantes : le groupement de cinq fiches ne tient pas.
+
+**Pistes non publiées (anonymes, Loire).**
+- Feurs, ferme à vente directe (magasin de produits de la ferme) : adresse contradictoire entre annuaire et registre, code d'activité commercial au registre. **Déblocage** : adresse unique confirmée par le site officiel de l'exploitation, et preuve d'une production propre.
+- Feurs, marché du mardi (centre-ville) : jour et horaires concordants, mais aucun producteur identifié sur la place. **Déblocage** : liste des exposants publiée par la ville ou la plateforme de marchés, avec au moins quatre autres points de vente de la commune.
+- Feurs, ferme avec marché bio : aucune source tierce à jour. **Déblocage** : site officiel ou fiche de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Constat.** La formule désigne encore un département et des communes que les passes précédentes ont déjà éprouvés ; la descente avance d'une commune par passe et ne produit toujours pas cinq commerces vérifiables. Ce point se consigne, il ne se tranche pas dans la passe.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les supermarchés et grossistes, les opérateurs à vente exclusivement professionnelle, le registre de l'Agence Bio, relu seulement par sondage.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build n'est requis.
