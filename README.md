@@ -47303,3 +47303,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau généralistes, et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-neuvième) : Bas-Rhin (67) visé, Schiltigheim sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; la demande déjà `en_cours` reste inchangée. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : cette région est exclue par la règle 41.c. Le Nord, la Haute-Garonne, le Rhône, l'Isère, l'Oise, les Yvelines, la Loire, l'Hérault, le Val-de-Marne, l'Ille-et-Vilaine et le Calvados sont épuisés ou éprouvés. Retenu : **Bas-Rhin (67)**, Grand Est, déficit ≈ 3,94, dernière visite le 31 octobre.
+
+**Commune, règle 41.d.** Strasbourg, Haguenau et Obernai ont déjà des fiches. La commune la plus peuplée sans fiche est **Schiltigheim (34 708 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bas-Rhin, première page (cent opérateurs sur 1 543) : à Schiltigheim, trois entrées seulement, une grande enseigne de discount, une association et une boulangerie, aucune en vente directe aux particuliers.
+- Recherche web sur les marchés de Schiltigheim : aucun marché de producteurs recensé. Le seul lieu identifié est les Halles du Scilt, marché couvert propriété de la Ville (fiche de l'eurométropole, horaires du vendredi et du samedi).
+- Le site indiqué pour les Halles du Scilt (hallesduscilt.fr) ne présente plus le lieu : la page affichée est un agenda de marchés de Noël sans rapport. Le domaine a manifestement changé d'usage, comme pour la note Santa Lucia : rien ne s'inscrit à partir de cette adresse.
+
+**Décision.** Aucune fiche publiée. Schiltigheim ne rend aucun commerce vérifiable sur deux sources indépendantes : la seule piste, les Halles du Scilt, n'a ni site fiable ni liste de producteurs nommés.
+
+**Pistes non publiées (anonymes, Bas-Rhin).**
+- Schiltigheim, Halles du Scilt (marché couvert municipal) : lieu et horaires vérifiés sur la fiche de l'eurométropole ; exposants à identifier sur une source qui les nomme, hors du site devenu inaccessible. **Déblocage** : une liste d'étals nommés par la Ville ou l'eurométropole, et deux commerces vérifiés chacun.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : Bas-Rhin (67) reste ouvert ; la commune suivante par population sans fiche est Illkirch-Graffenstaden (27 872 habitants), à sonder au registre Agence Bio et sur le site de la commune. Schiltigheim reste en piste.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau généralistes, les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
