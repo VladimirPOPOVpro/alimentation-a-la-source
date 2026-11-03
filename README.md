@@ -47358,3 +47358,37 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les enseignes de distribution, les opérateurs à vente exclusivement professionnelle, les entreprises individuelles au nom d'une personne physique.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante et unième) : Seine-et-Marne (77) visée, Meaux sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande déjà `en_cours` (un producteur à Villecroze, Var) reste inchangée : son nom commercial pourrait désigner une personne et le contact fourni est privé. Rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (outre-mer hors calcul, règle 177), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Oise (Hauts-de-France) : cette région est exclue par la règle 41.c. Les départements déjà éprouvés ou épuisés sont écartés (Nord, Haute-Garonne, Isère, Rhône, Loire, Seine-Saint-Denis, Haute-Corse, Yvelines, Hérault, Val-de-Marne, Ille-et-Vilaine, Calvados, Bas-Rhin, Oise). Retenu : **Seine-et-Marne (77)**, Île-de-France, déficit ≈ 3,93, premier département éligible du classement.
+
+**Commune, règle 41.d.** Chelles, Bussy-Saint-Georges, Coulommiers et Montévrain ont déjà des fiches. La commune la plus peuplée du 77 sans aucune fiche est **Meaux (56 905 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-et-Marne, première page (cent opérateurs) : à Meaux, peu d'opérateurs en vente directe aux particuliers ; l'un est une association d'insertion, les autres sont des grossistes ou des sièges.
+- Meaux Marne Ourcq Tourisme : fiche de la fromagerie de Saint-Faron, fabricant et affineur de Brie de Meaux AOP, petite unité d'une dizaine de salariés.
+- tourisme-seine-et-marne.fr : visites guidées de la fromagerie, du mardi au samedi.
+- asso-arile.com : jardin de Cocagne de Saint-Faron, créé en 2017 à l'initiative de la Ville de Meaux, paniers de légumes bio et vente au jardin.
+- Réseau Cocagne : le jardin produit désormais du miel (six ruches).
+- Sources de marché : le marché du boulevard Jean-Rose, la halle du centre-ville et les marchés de centre commercial.
+
+**Décision.** Aucune fiche publiée. Quatre commerces de Meaux sont vérifiés sur au moins deux sources indépendantes, mais la règle 52 demande cinq points vérifiés avant de publier, et la règle 248 interdit de publier une fiche isolée. Le cinquième se cherche dans une commune limitrophe du Pays de Meaux, ce qui n'a pas été fait cette passe. Il manque aussi une photo honnête pour la fromagerie, le marché et la halle : la seule photo trouvée est celle du site de l'association du jardin.
+
+**Contradictions consignées.** Le marché du boulevard Jean-Rose : un répertoire de marchés le donne le mardi matin, une page de marché le donne le dimanche matin. Non tranché, rien publié sur ce point.
+
+**Pistes non publiées (anonymes, Seine-et-Marne).**
+- Meaux, fromagerie de Saint-Faron (producteur, Brie de Meaux AOP) : lieu, téléphone du registre et visites vérifiés ; horaires de boutique contradictoires selon les sources, pas de site officiel retrouvé, pas de photo honnête. **Déblocage** : photo du lieu, horaires de vente confirmés.
+- Meaux, jardin de Cocagne de Saint-Faron (amap) : site de l'association et photo vérifiés, jours d'ouverture mercredi et samedi, légumes bio, paniers hebdomadaires, miel. Fiche presque complète ; attend le cinquième point de la zone (règle 52). **Déblocage** : cinquième commerce vérifié dans une commune limitrophe.
+- Meaux, marché du boulevard Jean-Rose : contradiction d'horaires consignée ci-dessus. **Déblocage** : horaires confirmés par la Ville ou l'office de tourisme.
+- Meaux, halle du centre-ville (marché historique du samedi matin) : deux sources de marché, exposants producteurs non nommés. **Déblocage** : liste d'exposants producteurs nommée par la Ville ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Trois, à Meaux : deux enseignes de producteurs qui reprennent un nom de famille (maraîchage et chèvrerie-apiculture), et un apiculteur enregistré au registre au nom d'une personne physique. Noms non repris ; ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Seine-et-Marne reste ouvert. Le cinquième point de Meaux se cherche dans les communes limitrophes du Pays de Meaux, avec le même registre et les mêmes sources. Ne pas revenir en Hauts-de-France ni en Île-de-France d'ici là (règle 41.c).
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés et enseignes généralistes (hypermarchés, magasins discount), les marchés de centre commercial aux commerçants généralistes, les grossistes et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
