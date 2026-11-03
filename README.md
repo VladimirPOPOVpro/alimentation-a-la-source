@@ -47013,3 +47013,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent trente-cinquième) : Seine-Saint-Denis (93) reprise, Montreuil et Saint-Denis sondées au registre bio : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (commune de Villecroze, producteur) reste inchangée : elle comporte une adresse de contact privée et une enseigne qui reprend un prénom, donc elle n'est pas publiée et ne reçoit aucun message ici. Aucun email à simuler.
+
+**Secteur, règles 41 et 247.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes) et les 1 304 fiches. Le classement reste en tête sur les départements d'outre-mer (974, 971, 972 : écartés, le validateur ne publie que la métropole), puis le Nord, la Haute-Garonne, le Rhône, l'Isère et la Seine-Saint-Denis, déjà éprouvés. Retenu : **Seine-Saint-Denis (93)**, déficit ≈ 4,59.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 93 (Saint-Denis, Montreuil, Aubervilliers, Pantin) ont été relues au registre Agence Bio, département 93, première page de cent opérateurs. Montreuil et Saint-Denis figurent au registre avec des opérateurs de vente aux particuliers, mais aucun ne rend cinq commerces vérifiables sur deux sources indépendantes dans la même commune. Les autres entrées sont des grossistes, des sièges, des supermarchés certifiés ou des particuliers : écartés.
+
+**Ce qui a été lu.** Le registre Agence Bio (93, une page) et le calcul de population. Les sites de commune, l'office de tourisme et Bienvenue à la Ferme n'ont pas été relus pour cette passe.
+
+**Décision.** Aucune fiche publiée. Aucune commune ne rend cinq fiches complètes et vérifiables.
+
+**Pistes non publiées.**
+- Montreuil, magasin-bio, enseigne de réseau : une seule fiche possible, à vérifier (activité au registre, site, adresse BAN). Pas assez pour un groupe de cinq.
+- Saint-Denis, épicerie, vente aux particuliers au registre : à vérifier sur le site de l'opérateur et au registre des entreprises.
+
+**Fiches écartées pour doute sur une personne.** Deux entrées du registre Agence Bio à Montreuil sont au nom d'un particulier : écartées, non nommées.
+
+**Constat.** La boucle documentée dans les passes précédentes se répète : la formule désigne un département et une commune dont le groupe de cinq ne peut pas être rempli. La décision du responsable du site sur la règle 41.d reste la seule issue.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau hors magasin-bio, les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
