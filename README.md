@@ -47529,3 +47529,13 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les supermarchés, les grossistes, les services, les producteurs hors commune, les sites en cours de vérification.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante-septième) : Nord (59) repris, Wattrelos et Cambrai sondées au registre bio : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : doute sur une personne (enseigne qui se lit comme un prénom, contact transmis personnel), rien n'est publié ni répondu.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr`, outre-mer exclu (règle 177). En tête : le 59 (déficit ≈ 6,5), puis le 31 (≈ 5,0), le 69 et le 38. Le 31 est exclu par la réserve 41.c (passe précédente en Occitanie) ; le 59 reste éligible. Dans le 59, la commune la plus peuplée sans fiche est Wattrelos (≈ 40 800 habitants).
+
+**Sondage.** Le registre Agence Bio, pages du département 59 (800 opérateurs), filtré sur Wattrelos, Cambrai, Maubeuge et les communes voisines. Plusieurs entrées sont des entreprises individuelles désignées par un patronyme, ou des commerces généralistes : écartées au titre de la règle sur les personnes et de la modération, sans nom retenu. Aucune cinquième fiche vérifiable n'a pu être constituée dans le temps de la passe ; Wattrelos, Cambrai et Maubeuge restent à reprendre.
+
+**Résultat.** **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches. Aucun code modifié, aucun email envoyé.
