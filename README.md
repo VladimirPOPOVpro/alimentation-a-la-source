@@ -47037,3 +47037,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau hors magasin-bio, les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent trente-sixième) : Vienne (86) visée, Châtellerault sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (commune de Villecroze, producteur) reste inchangée : elle comporte une adresse de contact privée et une enseigne qui reprend un prénom, donc elle n'est pas publiée et ne reçoit aucun message ici. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 224.** Calcul refait sur `geo.api.gouv.fr` (dénominateur national, 68 952 941 habitants) et les 1 304 fiches comptées sur le code postal. Outre-mer écarté (règle 177). Île-de-France exclue : la passe précédente visait la Seine-Saint-Denis (règle 41.c). Retenu : **Vienne (86)**, déficit ≈ 3,30, un département sans passe depuis plusieurs semaines. Le 86 compte déjà cinq fiches, toutes à Poitiers : Poitiers est donc exclue, et la commune la plus peuplée sans fiche est **Châtellerault**.
+
+**Commune, règle 41.d.** Châtellerault (≈ 31 000 habitants) :
+- le site de la Ville (rubrique « Marchés et manifestations », page en ligne) donne quatre marchés et leurs jours : centre-ville (boulevard Blossac, jeudi ; place Dupleix, mardi, jeudi et samedi matin), plaine d'Ozon (mercredi matin), Châteauneuf (mardi et samedi matin). Source institutionnelle lisible, mais elle ne nomme aucun producteur ni aucun produit : une fiche de marché ne peut pas recevoir les trois à huit produits concrets exigés. Rien publié.
+- le registre Agence Bio (86, une page de cent opérateurs) compte cinq entrées à Châtellerault. Quatre sont des entreprises de préparation, de production ou de stockage sans vente au détail, ou bien des ateliers. La cinquième, une entreprise active au registre des entreprises, a pour activité principale le commerce de gros de produits alimentaires (code 46.38B) : c'est un grossiste, hors du périmètre des commerces de circuit court. Écartée.
+
+**Trois communes sondées à leur registre, sans fiche publiable.** Chauvigny et Loudun : les entrées de vente aux particuliers sont au nom de personnes physiques, écartées pour doute sur une personne et non nommées ici ; les autres entrées sont des sociétés sans vente au détail. Montmorillon : un abattoir et un grossiste, rien d'autre.
+
+**Ce qui a été lu.** Le registre Agence Bio (86, une page), le site de la Ville de Châtellerault, le registre des entreprises pour l'entrée commerciale. Ni l'office de tourisme, ni Bienvenue à la Ferme, ni le réseau AMAP du département n'ont été relus pour cette passe.
+
+**Décision.** Aucune fiche publiée. Châtellerault ne rend aucun commerce vérifiable sur deux sources indépendantes ; la règle 52 interdit de publier partiellement pour atteindre le seuil de cinq.
+
+**Pistes non publiées (anonymes, Vienne).**
+- Châtellerault, marchés de la Ville (centre-ville, Châteauneuf, plaine d'Ozon) : horaires vérifiés sur le site de la Ville, produits et exposants à trouver. À reprendre si une source nomme les producteurs présents.
+- Chauvigny, Loudun : vente aux particuliers déclarée au registre, mais au nom de personnes physiques. Ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : Vienne (86) reste ouverte ; Châtellerault sert de commune en cours, avec la piste des marchés ci-dessus. Sans source sur les producteurs, la descente atteindra la borne de la règle 247 et le département se fermera.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes (dont l'entreprise de gros de Châtellerault), les enseignes de réseau hors magasin-bio, les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
