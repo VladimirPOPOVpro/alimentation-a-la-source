@@ -47063,3 +47063,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes (dont l'entreprise de gros de Châtellerault), les enseignes de réseau hors magasin-bio, les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent trente-septième) : Vienne (86) reprise, Buxerolles sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (signalée les passes précédentes, doute sur une personne) : inchangée, rien n'est publié ni envoyé. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Population `geo.api.gouv.fr` (dénominateur national, 68 952 941 habitants), 1 304 fiches comptées sur le code postal, outre-mer écarté. La Vienne (86, Nouvelle-Aquitaine) était visée à la passe précédente ; elle reste ouverte, car la garde de la règle 41.c ne porte que sur la région de la passe d'avant. Vienne reprise, sans changement de département.
+
+**Commune, règle 41.d.** Poitiers (cinq fiches), Châtellerault (sondée deux passes de suite, aucun producteur nommé), Chauvigny, Loudun, Montmorillon (sondées le 3 novembre, rien). La commune suivante par population sans fiche est **Buxerolles** (10 289 habitants).
+
+**Ce qui a été lu sur Buxerolles.**
+- Site officiel de la Ville, page « Le marché des Castors » : marché chaque jeudi matin de 8h à 13h, place des Castors. La page liste les étals par produit (poissonnerie, primeurs, miel, produits bio, volailles, œufs, bovins, fromages, lait cru, traiteur, produits secs). Source institutionnelle lisible et récente.
+- Registre Agence Bio, Vienne (les 200 premières entrées sur 1 124, les filtres par département n'étant pas appliqués par l'API) : aucun opérateur déclaré à Buxerolles dans cette tranche. Une seule commune voisine y figure avec une vente aux particuliers (voir les pistes).
+- Recherche « producteurs » et « vente directe » pour Buxerolles : aucun résultat exploitable ; la fiche de l'agrégateur jours-de-marche.fr ne donne que la ferme située à près de neuf kilomètres.
+
+**Pourquoi rien n'est publié.** Une seule fiche est vérifiable à Buxerolles : le marché, sur une source institutionnelle. Le groupement d'une passe exige cinq fiches sur une même commune ou agglomération, et la règle 52 n'autorise à compléter qu'avec une commune limitrophe de la même intercommunalité, quand la commune en a déjà quatre. Un marché isolé ne forme pas une passe. Aucune photo du marché n'a été trouvée sans personnes reconnaissables (règle 1 : rien ne se publie sans image honnête). Les étals sont décrits par leurs enseignes ou par des personnes : le nom d'aucun vendeur n'entre dans une fiche.
+
+**Pistes non publiées (anonymes, Vienne).**
+- Buxerolles, marché du jeudi (place des Castors, 8h-13h) : horaires vérifiés sur le site de la Ville, produits connus par catégorie, un seul point. **Déblocage** : deux ou trois commerces du même marché nommés par une source ouverte (une enseigne ou une exploitation société, sans personne), une photo du marché sans visage, et une seconde commune de la même intercommunalité pour atteindre cinq fiches (règle 52).
+- Buxerolles, exploitation agricole à vente directe mentionnée par la Ville (forme sociétaire, vente sur le marché) : **déblocage** : fiche officielle ou registre qui confirme la vente directe au public, adresse vérifiée.
+- Jaunay-Marigny (7 528 habitants), une entrée de production et de vente aux particuliers au registre Agence Bio : à reprendre seulement si Buxerolles reste sans cinq fiches. Le nom de l'entrée n'est pas reproduit ici, faute d'avoir été vérifié comme enseigne.
+
+**Points d'arrêt.** Passe suivante : Vienne (86) reste ouverte, Buxerolles en commune en cours avec les deux pistes ci-dessus. La borne de la règle 247 (douze communes éprouvées) n'est pas atteinte : Châtellerault, Chauvigny, Loudun, Montmorillon et Buxerolles font cinq, plus les sondages de Poitiers. Si Buxerolles ne rend pas trois commerces de plus, la passe suivante descend sur Jaunay-Marigny puis Saint-Benoît.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau hors magasin-bio, les producteurs hors commune, les noms de particuliers présents dans les registres.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
