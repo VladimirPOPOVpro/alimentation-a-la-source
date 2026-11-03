@@ -47329,3 +47329,32 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau généralistes, les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquantième) : Oise (60) reprise, Nogent-sur-Oise sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande déjà `en_cours` reste inchangée : doute sur une personne, rien n'est publié et aucun email n'est envoyé. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, fiches comptées sur le code postal. La passe précédente visait le Bas-Rhin (Grand Est) : cette région est exclue par la règle 41.c. Les départements déjà éprouvés ou closes (Nord, Haute-Garonne, Isère, Rhône, Loire, Seine-Saint-Denis, Haute-Corse en cours) sont écartés. Retenu : **Oise (60)**, Hauts-de-France, déficit ≈ 3,7, visite la plus ancienne parmi les départements éligibles.
+
+**Commune, règle 41.d.** La descente de l'Oise reprend au-delà de Pont-Sainte-Maxence et de Méru. La commune la plus peuplée sans fiche et non éprouvée est **Nogent-sur-Oise (21 907 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, 613 opérateurs relus (sept pages de cent). À Nogent-sur-Oise : cinq entrées, toutes des enseignes de distribution, de préparation ou des sièges hors vente directe, et une entrée de vente aux particuliers au nom d'une personne physique, écartée pour doute sur une personne (ne se rouvre pas).
+- Recherche web (une passe, sources publiques) : aucune source ne recense de marché de producteurs, d'AMAP ni de magasin de producteurs à Nogent-sur-Oise. Un annuaire de commerces liste des enseignes bio généralistes, écartées du périmètre. Une carte du parc naturel régional de l'Oise – Pays de France existe, sans que la commune y soit confirmée.
+- Pas de géocodage BAN, pas d'ouverture de site : aucun candidat ne tient deux sources indépendantes.
+
+**Décision.** Aucune fiche publiée. Nogent-sur-Oise ne rend aucun commerce de circuit court vérifiable ; les règles 52 et 248 ne sont pas atteintes.
+
+**Contradictions consignées.** Aucune.
+
+**Pistes non publiées (anonymes, Oise).**
+- Nogent-sur-Oise, opérateur bio en vente aux particuliers au nom d'une personne physique : écarté pour doute sur une personne ; ne se rouvre pas.
+- Nogent-sur-Oise, producteurs éventuels du parc naturel régional : commune non confirmée dans le périmètre. **Déblocage** : carte du parc ou liste des producteurs qui indique la commune.
+
+**Fiches écartées pour doute sur une personne.** Une, à Nogent-sur-Oise (vente aux particuliers au nom d'une personne physique). Nom non repris.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur les Hauts-de-France (Oise, cette passe), règle 41.c. Dans l'Oise, la commune suivante par population sans fiche est Senlis (15 157 habitants), à sonder au registre Agence Bio et sur le site de la Ville, si la règle 247 laisse encore le département ouvert.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les enseignes de distribution, les opérateurs à vente exclusivement professionnelle, les entreprises individuelles au nom d'une personne physique.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
