@@ -47469,3 +47469,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les supermarchés, les grossistes et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante-cinquième) : Pas-de-Calais (62) visé, Lens sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande `en_cours` (un producteur à Villecroze, Var) reste inchangée. Rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 265.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : la région est exclue par la règle 41.c, ce qui écarte aussi l'Ain, la Savoie et le Puy-de-Dôme. Départements épuisés ou éprouvés sautés (Nord, Haute-Garonne, Seine-Saint-Denis, Oise, Yvelines, Seine-et-Marne, Seine-Maritime, Val-de-Marne, Hérault, Ille-et-Vilaine, Calvados, Bas-Rhin, Haute-Corse). Retenu : **Pas-de-Calais (62)**, Hauts-de-France, déficit ≈ 3,7, premier département ouvert du classement.
+
+**Commune, règle 41.d.** Lens (32 920 habitants) est la commune la plus peuplée du département sans fiche. Elle a été éprouvée à nouveau.
+
+**Ce qui a été lu.**
+- Registre des entreprises (`recherche-entreprises`, code postal 62300) : aucun commerce alimentaire de vente directe identifiable ; les entrées sont des services, un commerce généraliste et des sièges d'entreprises.
+- Site de la Ville de Lens : refusé par le navigateur de cette session (`ville-lens.fr` non accessible). Pas de lecture directe possible.
+- Recherche web : une brochure de Visit Pas-de-Calais range Lens parmi les communes avec un marché le vendredi ; une annonce d'emploi évoque des marchés du mardi au samedi. Les deux sources ne concordent pas, et aucune n'est celle de la Ville ni de l'office de tourisme.
+- Recherche web sur le Biocoop de Lens : aucune fiche trouvée pour 62300, le seul Biocoop du département relevé est à Berck-sur-Mer, hors commune.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Lens ne réunit une source indépendante et un horaire vérifié. Les jours de marché se contredisent entre sources (règle 5 : rien ne se publie sur un fait contesté). Le groupe de cinq n'est pas atteint, et la règle 52 interdit de publier une seule piste de marché comme zone.
+
+**Pistes non publiées (Pas-de-Calais).**
+- Lens, marchés de plein air : jours contradictoires (vendredi selon une brochure régionale, mardi au samedi selon une annonce). **Déblocage** : page des marchés du site de la Ville ou de l'office de tourisme de Lens-Liévin, avec jours, heures et produits.
+- Lens, Biocoop : fiche introuvable dans les annuaires consultés. **Déblocage** : localisateur officiel du réseau, confirmé par le magasin.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le Pas-de-Calais si la présente passe le vise (règle 41.c). Le déblocage de Lens passe par la page de la Ville ou de l'office. Sinon, Pas-de-Calais reste ouvert à la descente, avec la commune suivante Liévin, déjà couverte par une fiche : à réexaminer contre ses rubriques marchés. La borne de douze communes (règle 247) s'applique à la descente.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les supermarchés, les grossistes, les services et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
