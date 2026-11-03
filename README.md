@@ -47229,3 +47229,31 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune (Aveizieux, Veauchette, Mably, Saint-Just), les opérateurs à vente exclusivement professionnelle, les grandes surfaces et les enseignes de distribution.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-sixième) : Oise (60) reprise, Pont-Sainte-Maxence sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` : son nom d'enseigne se lit comme un prénom et son contact est une adresse personnelle ; doute sur une personne, donc rien n'est publié et aucun email n'est envoyé. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c et 247.** La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : cette région est exclue par la règle 41.c. L'Oise (Hauts-de-France), cible de la passe du 3 novembre précédente, redevient éligible. Le calcul de déficit n'a pas été refait cette passe ; la cible reprend le classement de la note du 3 novembre (déficit ≈ 3,69). Commune : **Pont-Sainte-Maxence (12 361 habitants)**, annoncée comme prochaine commune de la descente, règle 41.d.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Oise, 2 848 lignes relues (sept pages de cent). Pour Pont-Sainte-Maxence : une seule entrée, une boulangerie-pâtisserie sans vente aux particuliers, et une entrée au nom d'une personne physique, écartée pour doute sur une personne (ne se rouvre pas). Les autres entrées de la commune sont des grandes surfaces ou des transformateurs hors vente directe.
+- Recherche web (une passe, sources publiques) : un annuaire participatif de marchés recense deux marchés à Pont-Sainte-Maxence, sans les producteurs présents. Un annuaire de producteurs locaux liste quatre fermes ou brasseries, toutes situées entre 11 et 37 km de la commune : hors commune, donc hors périmètre.
+- Site de la commune : injoignable pendant la passe ; le marché n'est confirmé par aucune source officielle.
+- Pas de géocodage BAN, pas d'ouverture de site : aucun candidat ne tient deux sources indépendantes dans la commune.
+
+**Décision.** Aucune fiche publiée. Pont-Sainte-Maxence ne rend aucun commerce de circuit court vérifiable dans la commune ; la règle 52 et la règle 248 ne sont pas atteintes.
+
+**Contradictions consignées.** Aucune source ne contredit une autre sur un fait publié ; le seul marché connu n'a qu'une source (annuaire participatif), et la commune n'a pu être consultée.
+
+**Pistes non publiées (anonymes, Oise).**
+- Pont-Sainte-Maxence, marché hebdomadaire (mardi et vendredi selon l'annuaire participatif) : une seule source, pas de liste de producteurs. **Déblocage** : page officielle de la commune qui donne les jours et les exposants.
+- Pont-Sainte-Maxence, opérateur bio en vente aux particuliers au nom d'une personne physique : écarté pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Pont-Sainte-Maxence (vente aux particuliers au nom d'une personne physique). Nom non repris.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur les Hauts-de-France (Oise, cette passe), règle 41.c. La région suivante du classement est à recalculer à la passe suivante. Dans l'Oise, la descente reprendra à la première commune non éprouvée au-delà de Pont-Sainte-Maxence lors de la passe où le département redevient éligible.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune (fermes du canton de Creil, Rousseloy, Cressonsacq, Cauffry), les opérateurs à vente exclusivement professionnelle, les grandes surfaces.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
