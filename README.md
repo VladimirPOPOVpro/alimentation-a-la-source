@@ -47273,3 +47273,33 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : ne pas revenir sur les Hauts-de-France (Oise, passe précédente) ni sur l'Auvergne-Rhône-Alpes (Loire, passe précédente à celle-ci, borne atteinte). Si le classement redonne la Corse, sonder Prunelli-di-Fiumorbo puis Penta-di-Casinca, jusqu'à la borne de douze communes de la règle 247 ; au-delà, la passe change de département.
 
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les opérateurs à vente exclusivement professionnelle, les entreprises individuelles au nom d'une personne physique (non reprises, règle MODERATION), les grandes surfaces.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-huitième) : Seine-Saint-Denis (93) reprise, Aubervilliers et Pantin sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, fiches comptées sur le code postal. La passe précédente visait la Haute-Corse (2B), Corse : région exclue par la règle 41.c. Les Hauts-de-France et l'Auvergne-Rhône-Alpes sont exclus par la note de la passe précédente. Nord, Haute-Garonne, Isère, Rhône et Loire sont closes ou épuisées. Retenu : **Seine-Saint-Denis (93)**, déficit ≈ 4,59.
+
+**Commune, règle 41.d.** Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Le Blanc-Mesnil, Bobigny, Épinay-sur-Seine, Sevran, Montreuil et Saint-Denis ont déjà été éprouvées aux passes précédentes. Cette passe reprend la descente à Aubervilliers (87 000 hab. environ), puis à Pantin.
+
+**Ce qui a été lu.** Recherche web (sources de statut mêlé, de 2018 à 2026) sur les AMAP, le marché bio et les épiceries bio ou en vrac de ces deux communes. Aucun site de commune ni d'office n'a été rouvert pour cette passe.
+
+**Décision.** Aucune fiche publiée. Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes, à jour :
+- les horaires des AMAP et du marché bio varient d'une source à l'autre, et plusieurs fiches datent de 2019 à 2022 ;
+- plusieurs lieux de distribution ont changé d'adresse selon les sources ;
+- aucune photo libre et utilisable n'a été trouvée pour les structures de distribution.
+
+**Pistes non publiées (anonymes, Seine-Saint-Denis).**
+- Aubervilliers, marché bio du samedi en halle : une seule source d'horaires récente, à confirmer sur le site de la halle.
+- Aubervilliers, trois ou quatre AMAP en distribution hebdomadaire : horaires et lieux contradictoires entre sources, à reprendre une fois le lieu confirmé par l'association.
+- Pantin, coopérative alimentaire : horaires de permanence seulement, sans heures d'ouverture régulières.
+- Pantin, trois AMAP en distribution le jeudi : sources de 2022, lieux à reconfirmer.
+- Pantin, épicerie bio à rayon vrac : enseigne de réseau, généraliste, écartée du périmètre.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Aubervilliers et Pantin sont désormais éprouvées. Avec les onze communes déjà sondées dans le 93, la descente est à la borne de douze communes (règle 247) : la passe suivante qui vise la Seine-Saint-Denis reprend à la commune suivante, en sondant un seul nouveau candidat puis en changeant de département si la zone ne se forme pas.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau généralistes, et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
