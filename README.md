@@ -47089,3 +47089,23 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les enseignes de réseau hors magasin-bio, les producteurs hors commune, les noms de particuliers présents dans les registres.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent trente-huitième) : Vienne (86) reprise, Buxerolles relue au registre complet : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (commune de Villecroze, producteur) reste `en_cours`, inchangée : doute sur une personne, rien n'est publié ni envoyé. Aucun email à simuler.
+
+**Secteur.** Vienne (86) reste le département visé, Buxerolles la commune en cours (règles 41.d et 52). Le registre Agence Bio ne filtre pas par département : les 1 124 entrées du 86 ont été parcourues en entier, et non plus les 200 premières comme à la passe précédente.
+
+**Ce qui a été lu sur Buxerolles.** Huit entrées du registre sont domiciliées à Buxerolles. Six sont des entreprises de préparation, de production, de distribution ou de stockage, sans vente au détail (ou une vente aux seuls professionnels). Deux déclarent une vente aux particuliers : leur raison sociale ne permet pas de dire s'il s'agit d'une société ou d'une personne physique, et leur activité déclarée est la préparation. Règle 59 et doute sur une personne : elles sont écartées, non nommées, et ne se rouvriront qu'avec une source qui établit la forme juridique et l'activité de vente. Le marché du jeudi (place des Castors) reste une piste sur source institutionnelle, sans producteur nommé.
+
+**Décision.** Aucune fiche publiée. Buxerolles ne rend aucun commerce vérifiable sur deux sources indépendantes ; la règle 52 interdit de compléter avec une commune de la même intercommunalité quand la première n'en rend aucun.
+
+**Pistes non publiées (anonymes, Vienne).**
+- Buxerolles, deux entrées de vente aux particuliers au registre Agence Bio, forme juridique à établir : à reprendre si une source (registre des entreprises, site de l'activité) confirme une société et une vente au détail.
+- Buxerolles, marché du jeudi : déblocage inchangé (producteurs nommés par une source ouverte, photo sans visage, deuxième commune de l'intercommunalité).
+
+**Points d'arrêt.** Passe suivante : Vienne (86) reste ouverte. La piste Jaunay-Marigny de la passe précédente reste la suivante si Buxerolles ne rend rien.
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les entreprises de préparation sans vente au détail, les producteurs hors commune, les noms de particuliers présents dans les registres.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
