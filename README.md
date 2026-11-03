@@ -47420,3 +47420,26 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés et enseignes généralistes, les grossistes, les torréfacteurs et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante-troisième) : Seine-Maritime (76) reprise, Harfleur et Deville-lès-Rouen sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande `en_cours` (un producteur à Villecroze, Var) reste inchangée. Rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règles 41, 41.c et 177.** Seine-Maritime (76) reprise, comme la passe précédente : elle reste le premier département éligible du classement hors Île-de-France.
+
+**Ce qui a été lu.**
+- Recherche web « producteur vente directe Harfleur ferme » : aucun résultat ne renvoie à une fiche de producteur de Harfleur sur une source indépendante. Les résultats utiles concernent d'autres communes du 76 (Harcourt, Bouville, Bézancourt, annuaires de type Jours-de-marche et Pages Jaunes), non instruites cette passe.
+- Pistes de Harfleur et de Deville-lès-Rouen : aucune source officielle ou d'office de tourisme lue cette passe, donc rien ne se déverrouille.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Harfleur ou de Deville-lès-Rouen ne réunit une source indépendante et des horaires vérifiables. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Harfleur, GAEC de vente directe : reste non instruite. **Déblocage** : site vérifié, horaires et produits lus sur une source indépendante.
+- Deville-lès-Rouen, exploitation de champignons en vente directe : reste non instruite. **Déblocage** : site et lieu de vente vérifiés.
+- Bouville, Bézancourt et Harcourt, fermes de vente directe repérées dans les annuaires : non instruites, hors commune de la passe. **Déblocage** : passe dédiée à leur commune.
+
+**Points d'arrêt.** Passe suivante : Seine-Maritime reste ouvert pour la descente, en commençant par Harfleur et Deville-lès-Rouen. Ne pas revenir en Île-de-France (règle 41.c).
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés et enseignes généralistes, les grossistes, les torréfacteurs et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
