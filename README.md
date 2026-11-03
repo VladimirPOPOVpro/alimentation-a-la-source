@@ -47392,3 +47392,31 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés et enseignes généralistes (hypermarchés, magasins discount), les marchés de centre commercial aux commerçants généralistes, les grossistes et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante-deuxième) : Seine-Maritime (76) reprise, Barentin sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande `en_cours` (un producteur à Villecroze, Var) reste inchangée. Rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer hors calcul, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait la Seine-et-Marne (Île-de-France) : la région est exclue par la règle 41.c. Départements closes par la règle 247 ou déjà éprouvés écartés (Nord, Haute-Garonne, Isère, Rhône, Loire, Seine-Saint-Denis, Haute-Corse, Yvelines, Hérault, Val-de-Marne, Ille-et-Vilaine, Calvados, Bas-Rhin, Oise). Retenu : **Seine-Maritime (76)**, Normandie, déficit ≈ 3,85, premier département éligible du classement.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 76 sans fiche, dans l'ordre : Le Petit-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel-sur-Seine ont déjà été éprouvées aux passes précédentes et ne sont pas reprises. La première commune non encore éprouvée est **Barentin (12 022 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Maritime, quinze pages (1 007 opérateurs lus) : à Barentin, une boutique de vrac (entrée sans producteur identifié), un torréfacteur, une jardinerie, un grossiste, un magasin de réseau et une grande surface. Aucun producteur en vente directe.
+- Recherche de sources municipales et d'office de tourisme sur Barentin : pas de page « circuits courts » ou « producteurs » lisible cette passe.
+
+**Pourquoi rien n'est publié.** Barentin ne rend aucun commerce de circuit court vérifiable sur une source indépendante. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Harfleur, GAEC de vente directe (catégorie ferme, site et réseau social présents au registre) : non instruite cette passe. **Déblocage** : site vérifié, horaires et produits lus sur une source indépendante.
+- Deville-lès-Rouen, exploitation de champignons en vente directe (catégorie ferme, site présent au registre) : non instruite cette passe. **Déblocage** : site et lieu de vente vérifiés.
+- Grand-Couronne, ferme de vente directe au nom d'une exploitation sans nom de personne : non instruite. **Déblocage** : registre et lieu vérifiés.
+- Une exploitation de Grand-Couronne et une boutique de Barentin portent un nom de famille en enseigne : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Grand-Couronne et à Barentin : enseignes reprenant un nom de famille. Noms non repris ; ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : Seine-Maritime reste ouvert pour la descente, en commençant par Harfleur et Deville-lès-Rouen (pistes ci-dessus). Ne pas revenir en Île-de-France (règle 41.c).
+
+**Ce qui a été volontairement laissé de côté.** Les supermarchés et enseignes généralistes, les grossistes, les torréfacteurs et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
