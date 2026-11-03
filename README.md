@@ -47109,3 +47109,20 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés, les grossistes, les entreprises de préparation sans vente au détail, les producteurs hors commune, les noms de particuliers présents dans les registres.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante et unième) : Nord (59) visé, Maubeuge et Haubourdin reprises : rien publié
+
+**Secteur (règle 41).** Calcul sur le recensement de population par département : la tête du classement est occupée par les départements d'outre-mer, que le validateur de coordonnées refuse (hors France métropolitaine, voir `lib/validateMerchants.ts`). Le premier département métropolitain du déficit est le Nord (59). Pas de deuxième passe de suite en Nouvelle-Aquitaine : la passe précédente y était, la présente ne l'est pas.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 59 (cent premières entrées). Les entrées de vente aux particuliers dans les communes sans fiche sont des grandes surfaces, des grossistes, ou des enseignes au nom de particuliers (écartées, non nommées). Recherche web sur Maubeuge : une enseigne bio et une fiche d'annuaire aux horaires partiels, sans site officiel ni vente directe de producteur établie. Recherche web sur Haubourdin : aucune épicerie vrac ou bio identifiée sur une source indépendante.
+
+**Décision.** Aucune fiche publiée. Aucune des pistes ne rend cinq commerces vérifiables sur deux sources indépendantes.
+
+**Pistes non publiées (anonymes, Nord).**
+- Maubeuge, jardin de producteur au registre Agence Bio : à reprendre si une fiche de l'annuaire Bienvenue à la Ferme ou un site officiel est trouvé.
+- Maubeuge, enseigne bio d'annuaire aux horaires partiels : à reprendre si un second annuaire confirme les horaires et l'activité.
+- Haubourdin, épicerie de proximité : orientation bio non établie.
+
+**Points d'arrêt.** Passe suivante : Nord (59) toujours le premier département métropolitain du déficit. Les communes déjà sondées restent sans fiche ; la passe suivante pourra viser une commune de la même zone seulement si la recherche n'a pas été faite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
