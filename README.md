@@ -47126,3 +47126,15 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Points d'arrêt.** Passe suivante : Nord (59) toujours le premier département métropolitain du déficit. Les communes déjà sondées restent sans fiche ; la passe suivante pourra viser une commune de la même zone seulement si la recherche n'a pas été faite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-deuxième) : backlog vide, aucune fiche publiée
+
+**Backlog.** `node scripts/backlog.mjs list` : aucune demande « nouvelle ». Mode 2 (couverture).
+
+**Secteur, règles 41, 177 et 247.** Population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La tête du déficit est occupée par La Réunion (974), puis d'autres départements d'outre-mer : écartés par la règle 177, le validateur refusant leurs coordonnées. Premier département métropolitain : le Nord (59), déjà éprouvé par les passes précédentes et fermé par la descente de la règle 247. Le suivant, la Haute-Garonne (31), est dans le même cas. Le 2B (Haute-Corse) est ouvert mais ses pistes attendent un déblocage nommé (Bastia, règle 247) ; le 2A (Ajaccio) a déjà été éprouvé.
+
+**Décision.** Aucune fiche publiée. Une passe qui ne trouve sa zone dans aucun département éprouvé ne publie rien (règle 248) : le criblage n'a pas produit cinq commerces vérifiables sur deux sources indépendantes, et une fiche isolée ne forme pas une zone.
+
+**Points d'arrêt.** Passe suivante : recalculer le classement métropolitain (règle 41) ; le Nord et la Haute-Garonne restent fermés tant qu'aucun déblocage nommé n'est publié dans leurs pistes. Les pistes existantes ne sont pas réouvertes sans déblocage.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
