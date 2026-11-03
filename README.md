@@ -47443,3 +47443,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les supermarchés et enseignes généralistes, les grossistes, les torréfacteurs et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante-quatrième) : Rhône (69) reprise, Vaulx-en-Velin sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande `en_cours` (un producteur à Villecroze, Var) reste inchangée. Rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Le Nord (59) et la Haute-Garonne (31) restent closes par la borne de douze communes (règle 247). La passe précédente visait la Seine-Maritime, donc la Normandie est fermée (règle 41.c). Retenu : **Rhône (69)**, région 84, déficit en tête des départements ouverts, et point d'arrêt écrit à la passe deux cent onzième.
+
+**Commune, règle 41.d.** Vaulx-en-Velin reprise : la passe précédente avait noté « rubrique marchés du site de la commune, puis deuxième page du registre Agence Bio pour le Rhône ».
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Rhône, deuxième page (100 opérateurs) : aucun opérateur déclaré à Vaulx-en-Velin.
+- Site de la commune (vaulxenvelin.fr), page d'accueil et plan du site : aucune rubrique marchés ni producteurs. Rien de lisible sur la page d'accueil ou dans les 118 adresses du plan du site.
+- Recherche web : deux marchés sont mentionnés à Vaulx-en-Velin. Le marché alimentaire du Mas-du-Taureau (mercredi et samedi) est généraliste, hors périmètre. Le marché nature de producteurs et bio de l'esplanade de l'hôtel de ville (vendredi, 12 h à 18 h) n'apparaît que dans un annuaire tiers (koifaire.com), sans source de la commune ni de Grand Lyon pour l'horaire ; le guide Grand Lyon, qui le citerait, est un PDF dont le texte n'a pas pu être extrait ici.
+- Annuaire producteurs jours-de-marche.fr : les producteurs listés sont tous à plus de 5 km de la commune, aucun n'est sur le territoire.
+
+**Pourquoi rien n'est publié.** Une seule piste de marché n'est pas une zone (règle 52 et règle 248). Aucun commerce de Vaulx-en-Velin ne réunit une source indépendante et un horaire vérifié ; l'annuaire ne suffit pas. Le groupe de cinq n'est pas atteint, et la descente de Vaulx ne retient aucune commune voisine dans cette passe.
+
+**Pistes non publiées (anonymes, Rhône).**
+- Vaulx-en-Velin, marché nature de producteurs et bio, esplanade de l'hôtel de ville, vendredi 12 h–18 h : seule source un annuaire tiers. **Déblocage** : horaire et organisation lus sur le site de la commune ou du Grand Lyon, puis fiche avec au moins un second commerce vérifié sur la commune.
+- Vaulx-en-Velin, marché du Mas-du-Taureau : généraliste, écarté (hors périmètre).
+
+**Points d'arrêt.** Passe suivante : Rhône reste ouvert pour la descente. Reprendre Vaulx-en-Velin à la rubrique économie ou vie locale du site de la commune, puis la commune suivante de la descente si Vaulx n'en rend pas deux. Ne pas revenir en Normandie (règle 41.c).
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les supermarchés, les grossistes et les producteurs hors commune.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
