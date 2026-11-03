@@ -47539,3 +47539,29 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Sondage.** Le registre Agence Bio, pages du département 59 (800 opérateurs), filtré sur Wattrelos, Cambrai, Maubeuge et les communes voisines. Plusieurs entrées sont des entreprises individuelles désignées par un patronyme, ou des commerces généralistes : écartées au titre de la règle sur les personnes et de la modération, sans nom retenu. Aucune cinquième fiche vérifiable n'a pu être constituée dans le temps de la passe ; Wattrelos, Cambrai et Maubeuge restent à reprendre.
 
 **Résultat.** **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches. Aucun code modifié, aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent cinquante-huitième) : Haute-Garonne (31) reprise, Muret sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Aucune demande en_cours modifiée.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr`, outre-mer exclu (règle 177), 1 304 fiches. Le 59 est exclu par la règle 41.c (passe précédente). Le 31 (Occitanie, déficit ≈ 3,8) est le premier département éligible du classement métropolitain. Commune : Muret (26 079 habitants), toujours la plus peuplée sans fiche.
+
+**Ce qui a été lu.**
+- Recherche web : jours-de-marche.fr (Muret, trois marchés enregistrés, horaires non détaillés dans l'extrait lu) ; aucune page de la Mairie trouvée.
+- Une vente directe de producteurs à Muret (commande en ligne, retrait le mardi de 17 h à 19 h) : enseigne au prénom d'une personne. Doute sur une personne, écartée (MODERATION.md, la règle ne se rouvre pas).
+- Office de tourisme de l'agglomération muretaine : horaires PagesJaunes possiblement obsolètes, pas de rubrique marchés lue.
+- Guide touristique de l'agglomération : une ferme avec vente directe et une cueillette à Lavernose, hors Muret, horaires non lus.
+- Bienvenue à la Ferme, Haute-Garonne : aucun membre identifié à Muret, les membres cités sont hors commune.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Muret ne réunit une source indépendante et un horaire vérifié. Une seule enseigne de vente directe a été trouvée, et son nom porte un prénom : écartée.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret, marchés de plein air (jours-de-marche.fr) : horaires à confirmer. **Déblocage** : page marchés de la Mairie ou de l'office de tourisme.
+- Muret, vente directe en ligne avec retrait hebdomadaire : enseigne au prénom d'une personne. **Déblocage** : aucun, sauf enseigne distincte.
+- Commune voisine, ferme de vente directe (guide de l'agglomération) : hors Muret, horaires non lus. **Déblocage** : fiche de la ferme et horaires publiés par elle-même.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le 31 (règle 41.c). Reprendre le 31 à la descente sur la commune suivante la plus peuplée sans fiche, après lecture de la rubrique marchés de sa mairie.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les producteurs hors commune, les supermarchés, les services.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
