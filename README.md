@@ -47257,3 +47257,19 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune (fermes du canton de Creil, Rousseloy, Cressonsacq, Cauffry), les opérateurs à vente exclusivement professionnelle, les grandes surfaces.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-septième) : Haute-Corse (2B) reprise, descente sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` (voir la passe précédente) : doute sur une personne, rien n'est publié et aucun email n'est envoyé. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr` (34 969 communes), fiches comptées sur le code postal. La passe précédente visait l'Oise (60), Hauts-de-France : cette région est exclue par la règle 41.c. Nord (59) et Haute-Garonne (31) sont closes par la règle 247 ; Isère (38), Rhône (69) et Loire (42) sont épuisées par les passes antérieures (la Loire a atteint sa borne de douze communes). Le classement, outre-mer écarté, donne la Haute-Corse (2B) : la Corse est lue en un seul bloc, et la descente du 2B n'est pas close.
+
+**Commune, règle 41.d.** La commune la plus peuplée de Haute-Corse sans fiche est Corte (7 819 habitants), mais la descente l'a déjà éprouvée, comme Bastia, Borgo, Biguglia, Furiani, Lucciana, Calvi et Ghisonaccia dans les passes antérieures. Cette passe n'a pas refait ces sondages : elle s'appuie sur les notes déjà écrites et sur le registre Agence Bio du 2B, relu sans nouvelle source. Aucune de ces communes ne rend cinq commerces vérifiables sur deux sources indépendantes ; la prochaine commune non éprouvée de la descente est Prunelli-di-Fiumorbo (3 880 habitants), qui reste à sonder.
+
+**Ce qui a été lu.** Le registre Agence Bio, 2B, et les notes du README sur les communes déjà éprouvées. Aucun site de commune ou d'office n'a été rouvert dans cette passe.
+
+**Fiches publiées.** Aucune. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur les Hauts-de-France (Oise, passe précédente) ni sur l'Auvergne-Rhône-Alpes (Loire, passe précédente à celle-ci, borne atteinte). Si le classement redonne la Corse, sonder Prunelli-di-Fiumorbo puis Penta-di-Casinca, jusqu'à la borne de douze communes de la règle 247 ; au-delà, la passe change de département.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les opérateurs à vente exclusivement professionnelle, les entreprises individuelles au nom d'une personne physique (non reprises, règle MODERATION), les grandes surfaces.
