@@ -47166,3 +47166,33 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les supermarchés et grossistes, les opérateurs à vente exclusivement professionnelle, le registre de l'Agence Bio, relu seulement par sondage.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build n'est requis.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-quatrième) : Oise (60) reprise, Méru sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; une fiche en cours inchangée (demande #13, en attente de précision). Aucun email à simuler.
+
+**Secteur, règles 41, 177, 41.c et 247.** Métropole seule (règle 177). La Loire (42) de la passe précédente est en Auvergne-Rhône-Alpes : la région est exclue par la règle 41.c. Hors outre-mer, du Nord et de la Haute-Garonne closes par la règle 247, et de l'Auvergne-Rhône-Alpes exclue, le classement donne l'Oise (60, Hauts-de-France, déficit ≈ 3,69 sur 1 304 fiches) en tête. Hauts-de-France n'était pas la passe précédente. Retenu : **Oise (60)**.
+
+**Commune, règle 41.d.** Beauvais, Compiègne et Creil ont déjà des fiches ; Senlis, Nogent-sur-Oise, Crépy-en-Valois, Chantilly, Montataire, Noyon et Chambly ont déjà été éprouvées ou ont déjà des fiches. La commune suivante de la descente est **Méru (13 897 habitants)**, annoncée par la passe du 30 octobre.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Oise, 613 opérateurs relus. Pour Méru, aucun opérateur déclarant la vente aux particuliers ; une entrée en vente aux particuliers au nom d'une personne physique, écartée pour doute sur une personne (ne se rouvre pas). Les autres entrées du département visibles à Lamorlaye, Saint-Just-en-Chaussée et Gouvieux sont des enseignes de distribution ou des entrées sans vente aux particuliers, hors sujet.
+- Recherche web : aucun marché de producteurs ni magasin de producteurs à jour trouvé à Méru même. L'annuaire jours-de-marche.fr renvoie à des exploitations situées hors commune (Rousseloy à environ 19 km, une autre à environ 48 km) ; la carte « Manger local » du GPSEO et la carte du Parc naturel Oise – Pays de France ne confirment pas de point de vente à Méru.
+- Horaires de la mairie : les sources se contredisent (communes.com, la-mairie.com, geneawiki), ce qui ne suffit pas à une fiche ; le marché de Méru n'est documenté par aucune source.
+- Géocodage BAN et site des commerces : non menés, faute de candidat qui tienne deux sources indépendantes.
+
+**Décision.** Aucune fiche publiée. Méru ne rend aucun commerce de circuit court vérifiable sur deux sources indépendantes, et une zone de cinq fiches n'est pas atteinte (règles 52 et 248).
+
+**Contradictions consignées.** Horaires de la mairie de Méru : trois sources, trois versions. Hors fiche, donc sans effet sur la publication.
+
+**Pistes non publiées (anonymes, Oise).**
+- Méru, marché de producteurs : aucune source à jour trouvée. **Déblocage** : page officielle de la commune ou liste des exposants publiée par la Ville, avec au moins quatre autres points de vente dans la commune.
+- Méru, opérateur bio en vente aux particuliers, inscrit sous un nom de personne physique : écarté pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Méru (vente aux particuliers au nom d'une personne physique). Nom non repris.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur la région Auvergne-Rhône-Alpes (Loire, passe précédente). Dans l'Oise, la descente reprend à **Pont-Sainte-Maxence (12 361 habitants)**, sous la borne de douze communes de la règle 247 : Méru compte désormais parmi les communes éprouvées. Si la passe suivante ne trouve pas non plus cinq commerces vérifiables, le département sera clos au titre de la règle 247 à la douzième commune.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les opérateurs à vente exclusivement professionnelle, les grandes surfaces, et le registre de l'Agence Bio relu seulement sur le département.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build n'est requis.
