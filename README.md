@@ -47495,3 +47495,37 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les supermarchés, les grossistes, les services et les producteurs hors commune.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 3 novembre 2026 (deux cent cinquante-sixième) : Haute-Garonne (31) visée, Muret sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande `en_cours` n° 13 (producteur à Villecroze, Var) reste inchangée : doute sur une personne, rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règle 41.** Population `geo.api.gouv.fr` (68,95 M d'habitants en métropole et outre-mer), 1 304 fiches comptées sur le code postal du champ `adresse`. La passe précédente visait le Pas-de-Calais (Hauts-de-France) : la région 32 est exclue par la règle 41.c, donc le Nord (59) est écarté, et les déficits des départements voisins ne sont pas retenus. Le classement brut est en tête par les départements ultramarins (974 déficit 16,8 ; 971, 972, 973, 976, 987, 988). **Ils sont écartés, et ce n'est pas un choix : `lib/validateMerchants.ts` refuse toute coordonnée hors de la France métropolitaine**, le build échoue, et la règle 41 ne peut donc pas s'y appliquer sans toucher au code. Retenu : **Haute-Garonne (31)**, Occitanie, déficit ≈ 3,8 (24 fiches, part de population 2,13 %), premier département ouvert du classement.
+
+**Contradiction consignée.** La section « Pistes non publiées à Toulouse » écrit 288 fiches publiées dans le 31 et un déficit de 6,15. Le compte fait sur `data/marchands.json` donne **24 fiches** dans le 31 (et 1 304 au total). Les chiffres de cette section sont donc périmés ou faux ; la formule est appliquée ici sur le compte réel, et elle désigne toujours le 31.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 31 ont déjà une fiche : Toulouse (5 marchés), Colomiers (4), Tournefeuille (3), Blagnac (1, Biocoop), Auzeville-Tolosane, Cugnaux, Pibrac, Cazères, Labège. **Muret (26 079 habitants)** est la commune la plus peuplée sans aucune fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne (2 842 opérateurs, toutes les pages) : pour Muret une quarantaine d'entrées. Aucune n'est un commerce de vente directe identifiable : les exploitants sont immatriculés sous leur patronyme (écartés par MODERATION.md), les autres sont des grandes surfaces, des préparateurs ou des sièges.
+- jours-de-marche.fr (page Muret) : trois marchés centre-ville, « Marché de Muret » le mardi et le samedi de 8 h à 13 h, et « Marché de la Halle aux grains biologique » le samedi de 8 h à 13 h. Source d'annuaire tiers uniquement ; aucune rubrique marchés de la Mairie n'a pu être lue dans cette session (la recherche renvoie vers l'office de tourisme de la mairie, place Léon-Blum, sans horaires).
+- Recherche web : un magasin So Bio (6 rue Pierre-de-Fermat) avec des horaires lus sur un seul annuaire commercial, aucune source du réseau ni du magasin.
+- Recherche web : un Biocoop (20 boulevard Joffrery), site `muret.biocoop.net` signalé par OpenStreetMap. Les horaires se contredisent : lundi 10 h–19 h 30 et mardi 9 h 30–19 h 30 selon un annuaire, samedi 11 h–13 h selon un autre. Règle 5 : rien ne se publie sur un fait contesté. La page `biocoop.fr/nos-magasins/biocoop-muret` renvoie 404.
+- Recherche web : une plateforme de vente de producteurs en ligne à Muret, avec retrait le mardi de 17 h à 19 h. Son nom porte un prénom : doute sur une personne, écartée pour cette passe (règle de MODERATION.md).
+- Ferme de Marou (mercredi 17 h–19 h) : commune voisine, hors Muret.
+
+**Pourquoi rien n'est publié.** Muret ne rend aucune fiche de producteur ou de vente directe vérifiée par une source indépendante. Les deux marchés et les deux magasins bio reposent sur des annuaires tiers ; le Biocoop contredit ses propres horaires. La règle 28 et la règle 52 demandent au moins quatre points vérifiés avant de compléter ; Muret en rend zéro, donc la descente d'échelle reprend (règle 41.d), mais aucune commune voisine n'est explorée dans cette passe faute de temps de lecture : elle est notée comme point d'arrêt. Un groupe de cinq fiches éparpillées ne sert personne.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret, marché de plein air du centre-ville (mardi et samedi, 8 h–13 h) : source unique un annuaire tiers. **Déblocage** : page marchés du site de la Mairie ou arrêté municipal, puis fiche avec un second commerce vérifié.
+- Muret, marché bio de la halle aux grains (samedi 8 h–13 h) : même réserve. **Déblocage** : confirmation par la Mairie ou par les exploitants.
+- Muret, magasin So Bio : horaires d'un seul annuaire commercial. **Déblocage** : fiche du réseau ou téléphone du magasin.
+- Muret, Biocoop : horaires contradictoires entre trois sources. **Déblocage** : horaires officiels publiés par le magasin, et une page du réseau qui réponde.
+- Muret, plateforme de vente de producteurs en ligne : enseigne au prénom d'une personne. **Déblocage** : aucun, la règle de MODERATION.md ne se rouvre pas sans enseigne distincte du prénom.
+- Muret, une cuniculture au domicile : nom patronymique et aucun horaire, écartée.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur le 31 avant une passe intermédiaire (règle 41.c). Reprendre Muret à la rubrique marchés du site de la Mairie, puis descendre à la commune suivante la plus peuplée sans fiche du 31 si Muret ne rend toujours pas quatre points. Les départements ultramarins restent à inscrire dans la règle 41 comme exclus tant que le validateur les refuse, et c'est au responsable du site de trancher ce cadre, pas à la passe.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les supermarchés, les grossistes, les services, les producteurs hors commune, les sites en cours de vérification.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
