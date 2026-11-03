@@ -47196,3 +47196,36 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les producteurs hors commune, les opérateurs à vente exclusivement professionnelle, les grandes surfaces, et le registre de l'Agence Bio relu seulement sur le département.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build n'est requis.
+
+## Passe autonome du 3 novembre 2026 (deux cent quarante-cinquième) : Loire (42) reprise, Veauche sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` : son nom de commerce a la forme d'un prénom et son contact est une adresse au nom d'une personne ; doute sur une personne, donc rien n'est publié et aucun email n'est envoyé. Aucun email à simuler.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. La passe précédente visait l'Oise (60), Hauts-de-France : cette région est exclue par la règle 41.c. Le Nord et la Haute-Garonne sont closes par la règle 247. Le classement, outre-mer écarté, donne l'Isère (38) et le Rhône (69), épuisés par les passes antérieures, puis la Loire (42, Auvergne-Rhône-Alpes, déficit ≈ 3,6), région non visée par la passe précédente : la descente y reprend.
+
+**Incohérence consignée.** La note « Points d'arrêt » de la passe précédente demandait d'exclure l'Auvergne-Rhône-Alpes (Loire) et annonçait la reprise de l'Oise. La règle 41.c dit l'inverse : seule la région de la passe précédente est exclue, donc l'Oise, et non la Loire, était la cible à écarter. La passe a suivi la règle 41.c, qui est la règle écrite. Le point reste à trancher dans le texte de la note précédente.
+
+**Commune, règle 41.d.** Saint-Étienne, Saint-Chamond, Roanne, Firminy, Montbrison, Saint-Just-Saint-Rambert, Rive-de-Gier, Le Chambon-Feugerolles, Riorges, Andrézieux-Bouthéon et Feurs ont déjà été éprouvées ou ont déjà des fiches. Veauche (8 975 habitants) est la commune la plus peuplée sans fiche encore non éprouvée dans la descente. Elle est retenue.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Loire, 600 opérateurs relus (six pages de cent). Pour Veauche : une entrée en vente aux particuliers au nom d'une personne physique, écartée pour doute sur une personne (ne se rouvre pas) ; des entrées de négoces, d'enseignes de grande distribution et de restauration collective, hors périmètre.
+- Recherche web (une passe, sources publiques) : un magasin de producteurs « Escale Paysanne » à Veauche, présent sur la fiche d'une annuaire grand public ; une ferme de permaculture à Veauche (lieu de production et de formation) ; un marché de plein vent dont les jours sont contradictoires d'une source à l'autre ; un annuaire de vente directe qui ne référence qu'un seul producteur dans la commune.
+- Pas de géocodage BAN, pas d'ouverture de site : aucun candidat ne tient deux sources indépendantes et concordantes.
+
+**Décision.** Aucune fiche publiée. Veauche rend au plus trois pistes, dont un magasin dont les horaires diffèrent d'une source à l'autre et un marché dont les jours se contredisent. Cinq commerces vérifiables ne sont pas atteints (règles 52 et 248).
+
+**Contradictions consignées.** Marché de Veauche : trois jours de tenue différents selon les sources (mercredi matin ; jeudi après-midi ; vendredi) ; une seule source ne suffit pas. Horaires du magasin de producteurs : deux plages différentes d'un affichage à l'autre. Hors fiche, donc sans effet sur la publication.
+
+**Pistes non publiées (anonymes, Loire).**
+- Veauche, magasin de producteurs (enseigne, pas un nom de personne) : deux sources concordantes sur les horaires et le site du magasin requises. **Déblocage** : site du magasin ou fiche de la Ville, avec les horaires d'un seul affichage.
+- Veauche, ferme de permaculture avec vente : vente au public non confirmée. **Déblocage** : page de la ferme qui indique la vente directe et les jours.
+- Veauche, marché de plein vent : jours contradictoires. **Déblocage** : page officielle de la commune.
+- Veauche, opérateur bio en vente aux particuliers, au nom d'une personne physique : écarté pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Veauche (vente aux particuliers au nom d'une personne physique). Nom non repris.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir sur l'Auvergne-Rhône-Alpes (Loire, cette passe) ; l'Oise (Hauts-de-France, passe précédente) est reprise seulement au passage suivant, et la règle 41.c s'applique. Dans la Loire, la descente passe à Roche-la-Molière (9 843 habitants) si la passe suivante doit encore viser ce département ; Veauche est éprouvée et ne se rouvre que sur un déblocage nommé ci-dessus.
+
+**Ce qui a été volontairement laissé de côté.** Les producteurs hors commune (Aveizieux, Veauchette, Mably, Saint-Just), les opérateurs à vente exclusivement professionnelle, les grandes surfaces et les enseignes de distribution.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; aucun build de données n'est requis.
