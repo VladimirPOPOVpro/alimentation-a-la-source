@@ -47672,3 +47672,23 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les associations et structures d'insertion, les grossistes, les distributeurs sans vente au détail, les personnes physiques, les supermarchés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre (deux cent soixante-quatrième) : Haute-Garonne (31) revisée, aucune fiche publiée
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : le nom d'enseigne peut désigner une personne et le contact transmis est privé, donc doute sur une personne. Rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (dénominateur : toutes les communes, outre-mer compris, règle 224 ; 1 304 fiches). Les départements d'outre-mer sortent du classement (règle 177). La passe précédente visait le Nord (59), il est donc exclu par la règle 41.c. Classement restant : Haute-Garonne (31, déficit ≈ 3,8), Oise (60, ≈ 3,7), Loire (42, ≈ 3,6). La Haute-Garonne est retenue. Commune : la plus peuplée sans fiche qui n'a pas encore été éprouvée. Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes et Aucamville ont déjà été sondées sans succès lors des passes précédentes.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, première page de cent opérateurs. La plupart sont des grossistes, des structures sans vente au détail ou des personnes physiques (non nommées ici). Les rares exploitants déclarant une vente aux particuliers n'ont pas de source indépendante lisible cette passe.
+
+**Pourquoi rien n'est publié.** Les communes encore vierges de la descente ne rendent pas cinq commerces vérifiables, et la descente de la règle 41.d a déjà épuisé douze communes du département. Un seul exploitant est en attente de vérification (site ou fiche d'office de tourisme), à faire à la prochaine passe qui vise la Haute-Garonne.
+
+**Pistes non publiées (Haute-Garonne).**
+- Une exploitation déclarant une vente aux particuliers dans le sud du département, sans source indépendante lue cette passe. **Déblocage** : site ou fiche d'office de tourisme de l'exploitation.
+
+**Contradictions.** Aucune nouvelle.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé. Lint et build passent.
