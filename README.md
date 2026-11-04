@@ -47801,3 +47801,19 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés, les ateliers protégés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-neuvième) : Nord (59) sondé à nouveau, Wattrelos et La Madeleine : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Rien à traiter.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole, 1 304 fiches). Le Nord est encore en tête (déficit ≈ 4,5), mais la passe précédente le visait : il est écarté par la règle 41.c. Le département suivant est la Haute-Garonne, close par la règle 247 ; le point d'arrêt de la passe 268 désignait La Madeleine après Wattrelos.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés de Wattrelos : ni le site de la Ville ni un horaire de marché hebdomadaire trouvés ; seul un marché d'événement de 2024 est cité.
+- Recherche web sur La Madeleine : jours-de-marche.fr recense deux marchés sans détail exploitable ; aucun producteur identifié.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante.
+
+**Point d'arrêt.** Le problème est structurel et déjà consigné aux passes 261 et 268 : la règle 41 reclasse le Nord à chaque passe. Cette décision revient au responsable du site ; elle n'est pas modifiée ici.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
