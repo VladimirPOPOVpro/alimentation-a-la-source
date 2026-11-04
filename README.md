@@ -48122,3 +48122,31 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les enseignes de grande distribution et les magasins généralistes trouvés dans les résultats (Intermarché, Cora, Gémo, banques), les grossistes et cuisinistes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-deuxième) : Savoie (73) visée, Aix-les-Bains et Albertville sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, dénominateur national, règle 224 ; outre-mer exclu, règle 177 ; 1 304 fiches comptées sur le code postal). La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Les départements closes ou épuisés par les passes antérieures sont écartés (Nord, Haute-Garonne, Isère, Rhône, Loire, Seine-Saint-Denis, Haute-Corse, Oise, Calvados, Ille-et-Vilaine, Hérault, Yvelines, Val-de-Marne, Bas-Rhin). Le premier département ouvert est la Savoie (73, Auvergne-Rhône-Alpes, déficit ≈ 3,48, 5 fiches), reprise sur sa descente. La passe précédente n'était pas en Auvergne-Rhône-Alpes.
+
+**Commune, règle 41.d.** Aix-les-Bains (32 406 habitants) reste la plus peuplée de Savoie sans fiche ; Albertville (19 978 habitants) est le point d'arrêt de la passe soixante-septième. Les deux sont lues cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Savoie (première page de 100 opérateurs) : à Aix-les-Bains, un seul opérateur déclare la vente aux particuliers, sous un nom de personne physique, écarté pour doute sur une personne, non nommé, ne se rouvre pas. À Albertville, aucun opérateur ne déclare la vente aux particuliers.
+- Recherche web Aix-les-Bains : l'office de tourisme Rivière des Alpes signale un marché couvert avec de petits producteurs (mercredi et samedi matin), sans date de mise à jour. Une seule source, non confirmée par la Ville ; le site de la Ville ne donne aucune page « marchés » (voir passe précédente). Un traiteur locavore est référencé : ce n'est pas un point de vente de producteurs, écarté.
+- Recherche web Albertville : un agenda local liste deux marchés alimentaires (samedi ; jeudi sur une place du centre), sans heures. Le magasin de producteurs « Saveurs de nos fermes » (centre d'Albertville) est signalé par l'office de tourisme du Pays d'Albertville et l'annuaire Que Choisir, avec des horaires non datés (mardi à samedi, 8 h 30 à 19 h), et le site de tourisme régional indique neuf producteurs associés. Une seule source sur les horaires, pas de site du commerce lu.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes. Aix-les-Bains : un marché couvert sur une seule source. Albertville : un magasin de producteurs avec des horaires non datés et deux marchés sans heures. La règle 28 n'accepte pas un groupe de fiches inférieur à cinq sur une même commune.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Aix-les-Bains, marché couvert de producteurs (mercredi et samedi matin) : une source, touristique et non datée. **Déblocage** : page de la Ville ou du marché donnant jours, horaires et lieu.
+- Albertville, magasin de producteurs « Saveurs de nos fermes » : horaires non datés, deux sources seulement. **Déblocage** : site ou page du commerce donnant ses horaires, et une photo sans personnes reconnaissables.
+- Albertville, marchés du samedi et du jeudi (place Antoine Borrel) : existence seulement, sans horaires ni source de la Ville. **Déblocage** : page officielle de la Ville sur les marchés.
+
+**Points d'arrêt.** Passe suivante : Savoie reste ouverte. Reprendre Aix-les-Bains seulement si la pagination du registre donne un deuxième opérateur vérifiable ou si le marché couvert est confirmé par la Ville ; sinon Albertville, avec le magasin de producteurs comme première fiche si son site officiel ou ses horaires sont publiés. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (règle 41.c) : elle doit donc viser une autre région.
+
+**Fiches écartées pour doute sur une personne.** Une, à Aix-les-Bains (entreprise individuelle du registre Agence Bio), non nommée, ne se rouvre pas.
+
+**Ce qui a été volontairement laissé de côté.** Le traiteur, les grossistes, les structures sans vente au public, les annuaires participatifs seuls, les enseignes de grande distribution.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
