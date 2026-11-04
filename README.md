@@ -47633,3 +47633,21 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les entreprises individuelles du registre bio, les supermarchés, les commerces généralistes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre (deux cent soixante-deuxième) : Haute-Garonne, Villeneuve-Tolosane sondée : rien publié
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. Le Nord (59, déficit ≈ 6,55) est exclu : c'est la région de la passe précédente (règle 41.c). Le département suivant est la Haute-Garonne (31, déficit ≈ 5,00).
+
+**Commune, règle 248.** Toulouse, Colomiers, Tournefeuille, Cugnaux, Blagnac et Muret ont déjà été éprouvées ou portent déjà des fiches. La descente reprend au point d'arrêt le plus récent, Villeneuve-Tolosane (11 044 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne : la première page de cent opérateurs est lue, sans opérateur de vente directe à Villeneuve-Tolosane. La pagination complète n'est pas faite cette passe.
+- Recherche web sur le marché et les points de vente : un marché estival ponctuel (13 juillet 2026) et un vide-greniers (27 septembre 2026), ni l'un ni l'autre un marché de producteurs régulier ; aucun magasin de producteurs ni AMAP identifié dans la commune. Une Biocoop et une La Vie Claire y sont listées par des annuaires tiers, sans source propre sur leurs horaires.
+
+**Pourquoi rien n'est publié.** Aucune fiche de producteur ou de marché ne repose sur une source officielle lue cette passe. Une seule enseigne bio classique ne remplit pas l'objectif de cinq fiches groupées sur une commune.
+
+**Point d'arrêt.** Villeneuve-Tolosane : lire la rubrique marchés du site de la mairie en direct, puis le registre Agence Bio en pagination complète. Si rien ne se vérifie, descendre à la commune suivante du 31 (Saint-Orens-de-Gameville et Fonsorbes sont déjà éprouvées ; viser L'Union ou une commune de moins de dix mille habitants sans fiche).
+
+**Ce qui a été volontairement laissé de côté.** Les enseignes bio nationales, les supermarchés, les entreprises individuelles désignées par le nom de leur exploitant, les événements ponctuels.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
