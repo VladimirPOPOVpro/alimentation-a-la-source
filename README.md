@@ -47565,3 +47565,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les producteurs hors commune, les supermarchés, les services.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent cinquante-neuvième) : Nord (59) sondé, Wattrelos et Cambrai : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Aucune demande en_cours modifiée.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr`, outre-mer exclu (règle 177), 1 304 fiches. Le 31 est exclu : passe précédente en Occitanie. Le 59 (Hauts-de-France, déficit ≈ 6,55) est le premier département éligible. Commune retenue : Wattrelos (40 847 habitants), la plus peuplée sans fiche. Cambrai (31 134) en seconde.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, 900 opérateurs paginés. Filtré sur Cambrai et Wattrelos : la plupart sont des entreprises individuelles désignées par un patronyme, ou des commerces généralistes ; écartées au titre de la règle sur les personnes, sans nom retenu.
+- Base Adresse Nationale : Wattrelos géocodée (commune, 59150).
+- Recherche web sur Wattrelos : l'annuaire jours-de-marche.fr recense trois marchés, sans horaires vérifiés ; aucune page de la Ville lue (le site de la commune est indiqué par un avis de marché, rubrique marchés non consultée).
+- Recherche web sur Cambrai : un magasin bio, rue de Bohain, adresse confirmée par deux annuaires, horaires introuvables.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables dans le temps de la passe : Wattrelos n'a pas d'horaire de marché confirmé par une source officielle, et Cambrai n'a qu'une fiche sans horaires. Pas de fiche partielle publiée (règle sur les faits incertains : un commerce sans horaires vérifiés n'est pas inscrit).
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos, marchés (jours-de-marche.fr, trois entrées) : horaires et lieux non confirmés. **Déblocage** : page marchés du site de la Ville.
+- Cambrai, magasin bio du centre (rue de Bohain) : adresse confirmée, horaires absents. **Déblocage** : horaires publiés par le magasin ou son site.
+
+**Points d'arrêt.** Passe suivante : ne pas viser l'Occitanie ; le Nord reste éligible (la règle ne vise que deux passes de suite). Reprendre Wattrelos à la lecture de la rubrique marchés de la Ville, et Cambrai après publication des horaires du magasin.
+
+**Ce qui a été volontairement laissé de côté.** Les entreprises individuelles du registre bio, les supermarchés, les commerces généralistes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
