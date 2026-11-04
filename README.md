@@ -47902,3 +47902,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes et entreprises de boissons, les supermarchés, les magasins bio sans horaires vérifiés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-treizième) : Nord (59) visé, Wattrelos et Lambersart sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, 1 304 fiches, outre-mer exclu, règle 177). La Haute-Garonne, visée à la passe précédente, est exclue par la règle 41.c (Occitanie). Le Nord (59) est en tête, déficit ≈ 4,5, et sa dernière passe remonte à deux passes. Commune la plus peuplée sans fiche : Wattrelos (40 847 habitants), puis Marcq-en-Barœul, écartée pour doute sur une personne, puis Lambersart (27 090).
+
+**Ce qui a été lu.**
+- Wattrelos : le domaine wattrelos.fr est un site commercial privé (annuaire et petites annonces), et non le site de la Ville. Il ne donne aucun marché de producteurs. Une recherche web ne trouve aucun marché hebdomadaire de producteurs, seulement un marché de Noël ancien cité par le bulletin municipal.
+- Lambersart : l'annuaire jours-de-marche.fr recense trois marchés, sans jours lisibles dans les extraits. Aucune ferme ni aucun commerce de vente directe n'est identifié dans la commune même ; les fermes trouvées sont à Sainghin-en-Weppes et ailleurs, hors commune.
+- Bienvenue à la Ferme : la recherche publique n'accepte pas de filtre par département dans l'URL ; la page ne permet pas de lire le Nord.
+- Un site de découverte de Wattrelos n'a pas répondu (erreur serveur 520) ; il n'a pas pu être lu.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante, et aucune fiche isolée n'a été vérifiée assez pour être publiée seule.
+
+**Pistes non publiées (Nord).**
+- Wattrelos : marché de producteurs non identifié, aucune source officielle. **Déblocage** : page marchés de la vraie mairie ou réponse du service des marchés.
+- Lambersart : trois marchés recensés par un annuaire participatif, jours non lus. **Déblocage** : fiche jours-de-marche.fr lue directement, puis site de la commune.
+- Lambersart : ferme de Sainghin-en-Weppes, hors commune ; ne compte pas pour Lambersart.
+
+**Contradictions.** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Nord toujours éligible à la règle 41.c si la prochaine passe ne vise pas le Nord deux fois de suite ; ne pas revenir sur Wattrelos sans source officielle de la Ville. Si rien ne se vérifie, descendre à Marcq-en-Barœul puis La Madeleine, par population sans fiche.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés et les magasins bio sans horaires vérifiés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
