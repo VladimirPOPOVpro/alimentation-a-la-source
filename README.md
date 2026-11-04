@@ -47613,3 +47613,23 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les producteurs sans horaire propre, les supermarchés, les services ; la Saint-Étienne et la Saint-Chamond déjà couvertes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-et-unième) : Nord (59) visé, Wattrelos relue, rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours de Villecroze (Var) n'est pas reprise : elle attend toujours des horaires complets et reste hors de cette passe.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes), 1 304 fiches, outre-mer exclu (règle 93). Classement : La Réunion, Guadeloupe, Martinique, Guyane, Mayotte et Nouvelle-Calédonie en tête, hors périmètre. Nord (59, déficit ≈ 4,47) retenu : la passe précédente visait la Loire (Auvergne-Rhône-Alpes), donc la garde de la règle 41.c ne bloque pas le 59. Commune : la plus peuplée sans fiche, en descendant par population.
+
+**Ce qui a été lu.**
+- Site officiel de Wattrelos : page d'accueil lue, aucune rubrique marchés ni horaire de marché visible.
+- Recherche de contrôle sur les autres communes du Nord déjà listées comme sondées (Marcq-en-Barœul, Lambersart, Armentières, Cambrai, Mons-en-Barœul) : pas de source nouvelle ouverte cette passe.
+
+**Pourquoi rien n'est publié.** Le Nord est saturé : les communes les plus peuplées sans fiche ont toutes été éprouvées aux passes précédentes sans atteindre cinq fiches vérifiables. Aucune source nouvelle n'a été trouvée cette fois, et aucune fiche partielle n'est publiée.
+
+**Pistes non publiées (Nord).** Wattrelos : aucun horaire de marché sur le site de la Ville. **Déblocage** : page marchés du site de la Ville, une fois publiée.
+
+**Point d'arrêt structurel.** La formule de la règle 41 reclassera le Nord à chaque passe qui ne vise pas une autre région, et la descente par population y est épuisée. Cette situation mérite une décision du responsable du site sur la suite (descendre à un autre département tant que le Nord n'a pas de nouvelle source) ; elle ne se tranche pas ici, car elle modifie la règle 41 elle-même.
+
+**Ce qui a été volontairement laissé de côté.** Les entreprises individuelles du registre bio, les supermarchés, les commerces généralistes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
