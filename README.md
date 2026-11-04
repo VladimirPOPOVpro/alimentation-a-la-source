@@ -47651,3 +47651,24 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les enseignes bio nationales, les supermarchés, les entreprises individuelles désignées par le nom de leur exploitant, les événements ponctuels.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre (deux cent soixante-troisième) : Nord (59) repris, Maubeuge sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Villecroze, Var) reste `en_cours` : le nom de l'enseigne ressemble à un prénom et le contact transmis est privé, donc doute sur une personne. Rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole, 1 304 fiches). La Haute-Garonne (passe précédente, Occitanie) est exclue par la règle 41.c. Classement restant : Nord (59, déficit ≈ 6,55), Rhône (69, ≈ 4,73), Isère (38, ≈ 4,60). Le Nord est donc éligible à nouveau : il n'était pas la région de la passe précédente. Commune : la plus peuplée du Nord sans fiche, par population.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, onze appels paginés de cent : une dizaine d'opérateurs localisés à Maubeuge. La plupart sont des associations, des structures d'insertion, des grossistes ou des distributeurs sans vente au détail, ou des personnes physiques (non nommées ici). Un seul exploitant déclare une vente aux particuliers avec des produits détaillés ; il n'a pas été vérifié sur une source indépendante cette passe, donc aucune fiche n'est proposée. La pagination du registre n'a pas été épuisée : le département compte davantage d'opérateurs.
+
+**Pourquoi rien n'est publié.** Maubeuge ne rend pas cinq commerces vérifiables : l'essentiel du registre est associatif ou non destiné au public. Règle 41.d : la descente reprend à la commune suivante par population (La Madeleine, Coudekerque-Branche, Wasquehal), à faire à la prochaine passe qui vise le Nord.
+
+**Pistes non publiées (Nord).**
+- Maubeuge, un exploitant du registre avec vente aux particuliers et vingt-sept produits déclarés : pas de source indépendante lue cette passe. **Déblocage** : site ou fiche d'office de tourisme de l'exploitant.
+- Maubeuge, Biocoop : horaires contradictoires entre annuaires, déjà consignée plus haut. **Déblocage** : l'horaire lu sur une source du réseau ou sur place.
+
+**Contradictions.** Aucune nouvelle.
+
+**Ce qui a été volontairement laissé de côté.** Les associations et structures d'insertion, les grossistes, les distributeurs sans vente au détail, les personnes physiques, les supermarchés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
