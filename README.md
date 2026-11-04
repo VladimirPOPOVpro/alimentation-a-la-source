@@ -47692,3 +47692,28 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé. Lint et build passent.
+
+### Passe autonome du 4 novembre (deux cent soixante-cinquième) : Nord (59), Coudekerque-Branche sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Les demandes en `en_cours` restent en l'état ; rien n'est publié à leur sujet.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (dénominateur : toutes les communes, outre-mer compris, règle 224 ; 1 304 fiches). La passe précédente visait la Haute-Garonne (Occitanie), qui est exclue par la règle 41.c. Classement restant : Nord (59, déficit ≈ 4,47), Oise (60, ≈ 3,70), Loire (42, ≈ 3,64). Le Nord est retenu. Commune : la plus peuplée sans fiche, par population. La Madeleine (21 790 habitants) est sondée et écartée (règle 41.d).
+
+**Ce qui a été lu.**
+- La Madeleine : aucun marché de producteurs, ferme ni AMAP trouvé dans les résultats de recherche ; un Carrefour Bio et une épicerie identifiés, sans source de producteur. Une association de vrac du centre-ville est listée sans horaire ni marché vérifiés.
+- Coudekerque-Branche (59210), 20 787 habitants : le livret des commerçants partenaires de la Ville, édition septembre 2026, donne deux marchés hebdomadaires du matin (mardi place Mendès France, vendredi place de la Convention). L'office de tourisme de Dunkerque donne leurs horaires, 8h00 à 12h30. Le registre de l'Agence Bio, Nord, toutes les pages lues (1 797 opérateurs), ne donne qu'une enseigne bio de vente au détail à Coudekerque-Branche en plus des deux déjà listées, plus un exploitant individuel qui déclare la vente aux particuliers (non nommé ici).
+
+**Pourquoi rien n'est publié.** Coudekerque-Branche fournit quatre candidats vérifiés (deux marchés, une Biocoop, une enseigne bio « Un Autre Chemin »), et non les cinq fiches groupées sur une même commune qu'exige la passe. Une passe ne publie pas une fiche partielle, et aucune cinquième fiche de producteur n'a été trouvée sur la commune. Le déblocage passe par une cinquième source verifiée à Coudekerque-Branche ou dans l'agglomération de Dunkerque.
+
+**Pistes non publiées (Coudekerque-Branche).**
+- Marché du mardi matin, place Mendès France, 8h00–12h30 : sources concordantes (office de tourisme de Dunkerque, livret de la Ville). Fiche prête ; ne part qu'avec une cinquième fiche de la même commune.
+- Marché du vendredi matin, place de la Convention, 8h00–12h30 : même source.
+- Biocoop, 4 route de Bergues : présente dans le livret de la Ville et dans l'annuaire, horaires non lus sur biocoop.fr.
+- Un Autre Chemin, 60 route de Furnes : présente dans le livret de la Ville et dans un annuaire ; réseau de franchises bio, à qualifier.
+- Un exploitant individuel du registre bio, vente aux particuliers, Coudekerque-Branche : doute sur une personne, écarté (règle « personnes »), non rouvert.
+
+**Contradictions.** Aucune nouvelle.
+
+**Ce qui a été volontairement laissé de côté.** Les boucheries, primeurs, traiteurs et épiceries de la liste de la Ville (hors catégories du site), les supermarchés, les associations, les grossistes, les personnes physiques.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
