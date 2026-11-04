@@ -47749,3 +47749,26 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les boucheries, primeurs et épiceries hors des catégories du site, les supermarchés, les associations, les personnes physiques.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre 2026 (deux cent soixante-septième) : Haute-Garonne (31), L'Union sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (dénominateur : toutes les communes, outre-mer compris, règle 224 ; 1 304 fiches). Les départements 97x sortent du classement (règles 93 et 177). La passe précédente visait le Nord (59, Hauts-de-France), donc la région est close (règle 41.c) : Nord et Oise sont écartés. Le premier département éligible est la Haute-Garonne (31, déficit ≈ 3,83, Occitanie). Elle a déjà été visée à plusieurs passes ; la descente par population reprend à la commune suivante du point d'arrêt (Villeneuve-Tolosane, règle 247), soit L'Union (12 638 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 31 : aucune exploitation ni magasin de vente au public exploitable à L'Union ; les lignes trouvées sont des préparateurs ou des entreprises ne vendant pas au public.
+- Recherche web sur L'Union : deux magasins bio d'enseignes nationales ou de réseau (horaires non lus sur leurs sites), aucun marché de producteurs, aucune AMAP ni ferme en vente directe identifiée dans les sources lues.
+
+**Pourquoi rien n'est publié.** L'Union ne rend ni cinq commerces vérifiables, ni même une fiche de producteur sur une source indépendante. Les deux magasins bio ne sont publiables qu'après lecture de leurs horaires sur le site officiel de l'enseigne, ce qui n'a pas été fait cette passe. Une piste sans source ne se publie pas (règle 2).
+
+**Pistes non publiées (L'Union).**
+- Deux magasins bio (enseignes nationales ou de réseau), route de Bessières et rue d'Ariane : horaires à lire sur le site officiel de chaque enseigne. Non publiés.
+
+**Contradictions.** Aucune nouvelle.
+
+**Point d'arrêt.** Haute-Garonne : prochaine passe sur L'Union, en lisant d'abord l'annuaire DirectFermiers31 et les sites des deux magasins. Si rien ne se vérifie, descendre à la commune suivante par population sans fiche (règle 247).
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
