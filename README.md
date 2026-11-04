@@ -47979,6 +47979,31 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
 
+### Passe autonome du 4 novembre (deux cent soixante-dix-septième) : Oise (60) visé, Nogent-sur-Oise et Senlis sondées, registre Agence Bio relu : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est envoyé.
+
+**Secteur, règle 41.** Métropole seule, outre-mer exclu, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue pour cette passe (règle 41.c). Le Nord (59) et la Seine-Maritime (76) sont éprouvés. Le Rhône (69) a été repris à plusieurs passes (Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire) sans déblocage. Le classement suivant hors région close donne l'Oise (60, Hauts-de-France, déficit ≈ 4,4 sur 1 304 fiches, 12 fiches). Le Var reste négatif.
+
+**Commune, règle 41.d.** Beauvais et Compiègne et Creil ont déjà des fiches ou des pistes. La commune la plus peuplée sans fiche est Nogent-sur-Oise (21 907 hab.), puis Senlis (15 157 hab.).
+
+**Ce qui a été lu.**
+- Recherche web Nogent-sur-Oise (marché, AMAP, magasin bio) : aucune source locale de producteurs. Seuls des annuaires de supermarchés bio (enseignes nationales, écartées par MODERATION.md).
+- Recherche web Senlis (marché, AMAP, magasin de producteurs) : une adresse d'AMAP dans un annuaire de producteurs, sans horaires de distribution vérifiés ; deux salons ponctuels (non retenus, ce ne sont pas des marchés permanents).
+- Registre Agence Bio, Oise, 100 opérateurs lus sur la première page, filtrés sur Nogent-sur-Oise, Senlis, Creil, Noyon, Chambly, Lamorlaye et Crépy. La plupart sont des grossistes ou des structures sans vente au public. Une seule entrée de Senlis déclare la vente aux particuliers : elle est portée par le nom d'un gérant de personne physique, écartée pour doute sur une personne, non nommée, ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur deux sources indépendantes. Les annuaires ne donnent ni horaires ni site vérifié, et les enseignes trouvées sont hors circuit court.
+
+**Pistes non publiées** (anonymes) :
+- Senlis, AMAP de distribution (annuaire de producteurs seul) : horaires et point de distribution non vérifiés. **Déblocage** : page de l'AMAP ou de la Ville donnant jour, heure et lieu.
+- Nogent-sur-Oise : rien d'utilisable à ce stade. **Déblocage** : site de la Ville (rubrique marchés) ou registre Agence Bio, deuxième page, à relire.
+
+**Fiches écartées pour doute sur une personne.** Une, à Senlis (entreprise individuelle du registre Agence Bio), non nommée, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : ne pas viser Hauts-de-France ni Occitanie de suite (règle 41.c) ; relire l'Oise seulement sur une source de commune. Les sites des villes de l'Oise n'ont pas été ouverts cette passe, faute de temps d'enquête suffisant.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
 ### Passe autonome du 4 novembre (deux cent soixante-seizième) : Haute-Garonne (31) visée, Saint-Gaudens sondée, Castelginest sondée : rien publié
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
