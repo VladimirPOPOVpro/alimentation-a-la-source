@@ -48034,3 +48034,25 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au public, le lycée agricole, les supermarchés, les personnes physiques désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre (deux cent soixante-dix-huitième) : Haute-Garonne (31) visée, Muret reprise, Castanet-Tolosan, Saint-Orens-de-Gameville et Fonsorbes sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr`, outre-mer exclu du classement (règle 177), dénominateur outre-mer compris (règle 224), 1 304 fiches. Le Nord (59) est exclu par la règle 41.c, la passe précédente ayant visé l'Oise (Hauts-de-France). Le 31 (Occitanie, déficit ≈ 5,0) est le premier département éligible. Commune la plus peuplée sans fiche : Muret (26 079 habitants), déjà sondée à plusieurs passes.
+
+**Ce qui a été lu.**
+- Muret : rien de nouveau à publier. Les marchés de plein air et de la halle aux grains ne reposent que sur un annuaire tiers (jours-de-marche.fr).
+- Castanet-Tolosan : l'annuaire tiers recense trois marchés, sans horaires lisibles ; un marché de producteurs à commande en ligne avec retrait le jeudi de 19 h à 20 h n'est pas confirmé par la commune.
+- Saint-Orens-de-Gameville : un marché de plein vent place de la Fraternité, jour et horaires non confirmés. Le magasin de producteurs mentionné par un annuaire est à Labège, hors commune.
+- Fonsorbes : aucun producteur ni marché local trouvé ; les résultats sont hors secteur.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur une source indépendante, avec horaires confirmés. Les marchés relèvent d'annuaires participatifs, sans confirmation de la commune.
+
+**Points d'arrêt.** Haute-Garonne : passer à Balma ou à Castanet-Tolosan seulement avec une page de la mairie donnant jour, heure et lieu des marchés. La passe suivante ne vise pas l'Occitanie (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les enseignes de grande distribution, les grossistes, les personnes physiques désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
