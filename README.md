@@ -47873,3 +47873,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les grandes surfaces, les boulangeries sans vente de produits locaux, les entreprises et personnes physiques, les supermarchés et les magasins bio sans horaires vérifiés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-douzième) : Haute-Garonne (31), L'Union reprise : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Villecroze, producteur) reste `en_cours` : doute sur une personne, rien publié, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, 1 304 fiches, outre-mer exclu). La passe précédente visait le Nord : la réserve de la règle 41.c l'écarte. En tête ensuite : **Haute-Garonne (31), déficit ≈ 3,8** (24 fiches, 1,47 million d'habitants), devant la Loire-Atlantique et l'Isère. Le Var reste très négatif.
+
+**Commune.** Le point d'arrêt indiqué par la passe du 4 novembre sur la Haute-Garonne est **L'Union** (12 638 habitants), sans fiche publiée. Toulouse, Colomiers, Tournefeuille, Blagnac, Muret, Cugnaux et Villeneuve-Tolosane ont déjà été éprouvées lors des passes précédentes.
+
+**Ce qui a été lu.**
+- Annuaire DirectFermiers31 (page du Conseil départemental, publiée le 29 septembre 2026) : la carte interactive ne se lit pas en texte. La page décrit l'annuaire, sans lister les points de vente.
+- La Ferme des Violettes, 4 chemin de la Violette, 31240 L'Union : registre des entreprises actif (un établissement ouvert, code 47.11B, commerce d'alimentation générale). Que Choisir la classe « magasin de producteurs » ; Google la présente comme « supermarché » ; une fiche d'annuaire tiers la décrit comme une boulangerie, avec des horaires (mardi à samedi, dimanche matin, fermé le lundi) non datés. Aucun site officiel trouvé. Les produits réellement vendus ne sont pas confirmés.
+- La Ruche qui dit Oui ! L'Union (marché fermier, rue de l'Autan Blanc) : point de retrait tenu par un particulier. Doute sur une personne : écarté, ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** La seule piste sérieuse à L'Union (La Ferme des Violettes) porte trois contradictions : catégorie (commerce généraliste au registre, magasin de producteurs pour un annuaire), nature (boulangerie ou ferme selon la source), horaires (non datés). Aucune source officielle ne tranche. Rien ne se publie sur ces faits ; la fiche ne peut pas être complétée sans le site ou les horaires publiés par l'exploitation elle-même. Aucune autre commune de la descente n'a été lue cette passe.
+
+**Pistes non publiées (Haute-Garonne) :**
+- L'Union, La Ferme des Violettes : magasin de producteurs selon Que Choisir, mais registre en 47.11B et horaires contradictoires. **Déblocage** : site ou fiche de l'exploitation qui publie ses propres horaires et sa gamme de produits.
+- L'Union, point de retrait d'un réseau de vente en ligne tenu par un particulier : écarté (doute sur une personne, ne se rouvre pas).
+
+**Points d'arrêt.** La prochaine passe qui vise la Haute-Garonne reprend à L'Union : fiche de La Ferme des Violettes si elle se publie elle-même, sinon la commune suivante par population sans fiche (Saint-Gaudens, puis Castelginest, puis Villeneuve-Tolosane), en appliquant la règle 247. La passe suivante ne vise pas l'Occitanie.
+
+**Contradictions.** Catégorie et horaires de La Ferme des Violettes, selon les sources citées ci-dessus. Règle 5 : rien publié sur ces faits.
+
+**Fiches écartées pour doute sur une personne.** Une (L'Union, point de retrait particulier) ; non publiée, ne se rouvre pas.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes et entreprises de boissons, les supermarchés, les magasins bio sans horaires vérifiés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
