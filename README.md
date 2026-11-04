@@ -47717,3 +47717,35 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les boucheries, primeurs, traiteurs et épiceries de la liste de la Ville (hors catégories du site), les supermarchés, les associations, les grossistes, les personnes physiques.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre 2026 (deux cent soixante-sixième) : Dunkerque (59), agglomération sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Les demandes en `en_cours` restent en l'état ; rien n'est publié à leur sujet.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (dénominateur : toutes les communes, outre-mer compris, règle 224 ; 1 304 fiches). La passe précédente visait le Nord (59), exclu par la règle 41.c. Le Nord reste en tête du classement, mais la descente par population y est épuisée : la passe reprend donc l'agglomération de Dunkerque, déjà couverte en partie par les fiches de la Ville centre, de Rosendaël, de Malo-les-Bains et des Halles des Sœurs Blanches. Cette agglomération est le seul groupe de communes du Nord où un groupe de cinq fiches « marché » peut se former.
+
+**Ce qui a été lu.**
+- Office de tourisme de Dunkerque, page « Open markets » : marchés de Coudekerque-Branche (mardi 8h00–12h30, place Mendès France ; vendredi 8h00–12h30, place de la Convention), de Petite-Synthe (mardi, place Saint-Nicolas ; jeudi, place Louis XIV), de Grande-Synthe (trois créneaux, avenue Dudebout et place de l'Atrium, quartier Albeck).
+- Que Choisir, carte des circuits courts : Dunkerque, Coudekerque-Branche, Téteghem et Dunkerque–Rosendaël rendent des magasins déjà connus ou sans horaires vérifiés. Le Potager de la Tente Verte est déjà publié.
+- Annuaires tiers pour les deux magasins bio de Coudekerque-Branche : horaires seulement sur des sites tiers, aucun site du réseau lu.
+
+**Pourquoi rien n'est publié.** Cinq fiches géocodées et vérifiables ne se forment pas dans l'agglomération cette passe :
+- Place Louis XIV (Petite-Synthe, jeudi) : géocodée à 0,969 par la BAN, horaires concordants ; fiche prête, mais seule.
+- Place de la Convention (Coudekerque-Branche, vendredi) : géocodée à 0,957 ; fiche prête, mais seule.
+- Place Mendès France (Coudekerque-Branche, mardi) : la BAN ne la connaît pas (meilleur résultat : une rue, score 0,51). Pas de point, donc pas de fiche.
+- Place de l'Atrium (Grande-Synthe) : absente de la BAN. Avenue Dudebout : point à 0,57, trop faible pour une fiche.
+- Place Saint-Nicolas (Petite-Synthe) : déjà consignée, sans point dans la BAN.
+Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de cinq s'applique. Aucune fiche partielle n'est publiée.
+
+**Pistes non publiées (agglomération de Dunkerque).**
+- Marché du jeudi, place Louis XIV (Petite-Synthe) : point géocodé, horaires concordants. **Déblocage** : trois autres fiches de la même agglomération avec un point vérifié.
+- Marché du vendredi, place de la Convention (Coudekerque-Branche) : point géocodé. **Déblocage** : idem.
+- Marché du mardi, place Mendès France (Coudekerque-Branche) : pas de point dans la BAN. **Déblocage** : coordonnées du marché relevées sur place ou par la Ville.
+- Marchés de Grande-Synthe (place de l'Atrium, avenue Dudebout) : pas de point fiable, une seule source (office de tourisme). **Déblocage** : adresse précise confirmée par la Ville de Grande-Synthe.
+- Deux magasins bio de Coudekerque-Branche : horaires sur annuaires tiers uniquement. **Déblocage** : horaires lus sur la page officielle de l'enseigne.
+
+**Contradictions** (règle 5). Place Louis XIV : l'office de tourisme la place à Petite-Synthe pour le jeudi et, dans une autre rubrique, à Grande-Synthe ; consigné plus haut, non tranché.
+
+**Ce qui a été volontairement laissé de côté.** Les boucheries, primeurs et épiceries hors des catégories du site, les supermarchés, les associations, les personnes physiques.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
