@@ -47817,3 +47817,28 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Point d'arrêt.** Le problème est structurel et déjà consigné aux passes 261 et 268 : la règle 41 reclasse le Nord à chaque passe. Cette décision revient au responsable du site ; elle n'est pas modifiée ici.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-dixième) : Rhône (69) sondé, rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole, 1 304 fiches, outre-mer exclu, règle 177). Le Nord (Hauts-de-France) reste en tête, mais la passe précédente l'a visé : la réserve de la règle 41 l'écarte. Le département suivant du classement, hors outre-mer, est la Haute-Garonne, dont la région a déjà été sondée deux passes plus tôt ; le premier département éligible non sondé récemment est le Rhône (69, Auvergne-Rhône-Alpes, déficit ≈ 4,4). Commune la plus peuplée sans fiche : Tassin-la-Demi-Lune (23 200 habitants). Lyon, Villeurbanne, Vénissieux et la plupart des communes du Rhône à forte population ont déjà fait l'objet de passes et de pistes.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés de Tassin-la-Demi-Lune : une fiche ancienne (2018) d'un marché alimentaire du Bourg le mercredi matin, jamais reconfirmée par la commune ; un annuaire de marchés ne recense aucun marché. Un magasin bio du réseau national est cité, sans horaires vérifiés sur son site.
+- Recherche web sur Saint-Genis-Laval : une coopérative agricole de la région propose une boutique de producteurs, avec des horaires indiqués par un annuaire tiers et par une annonce d'emploi d'avril 2025 qui ne concordent pas ; aucun magasin bio spécialisé confirmé.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante, et les horaires trouvés sont soit anciens, soit contradictoires (règle 5 : contradiction consignée ici, non publiée). La boutique de Saint-Genis-Laval est un point de vente collectif (règle 8) : elle se publierait comme `producteur` une fois ses horaires lus sur le site officiel de la coopérative.
+
+**Pistes non publiées (Rhône).**
+- Tassin-la-Demi-Lune : marché du Bourg (mercredi matin, source de 2018). **Déblocage** : page marchés de la commune ou appel au marché, pour confirmer jour et horaires.
+- Tassin-la-Demi-Lune : magasin bio du réseau national. **Déblocage** : horaires lus sur le site officiel de l'enseigne.
+- Saint-Genis-Laval : boutique de la coopérative régionale (point de vente collectif). Horaires contradictoires entre annuaire et annonce d'emploi. **Déblocage** : page officielle de la coopérative.
+
+**Contradictions.** Horaires de la boutique de Saint-Genis-Laval : l'annuaire tiers et l'annonce d'emploi d'avril 2025 divergent (règle 5 : rien publié sur ce fait).
+
+**Point d'arrêt.** Rhône : prochaine passe sur Tassin-la-Demi-Lune, en lisant la page marchés de la commune et le site de la coopérative de Saint-Genis-Laval. Si rien ne se vérifie, descendre à Saint-Genis-Laval puis Écully, par population sans fiche (règle 247, douze communes au plus).
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés et les magasins bio sans horaires vérifiés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
