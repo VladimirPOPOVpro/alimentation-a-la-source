@@ -48141,7 +48141,7 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Pistes non publiées (anonymes, Savoie).**
 - Aix-les-Bains, marché couvert de producteurs (mercredi et samedi matin) : une source, touristique et non datée. **Déblocage** : page de la Ville ou du marché donnant jours, horaires et lieu.
 - Albertville, magasin de producteurs « Saveurs de nos fermes » : horaires non datés, deux sources seulement. **Déblocage** : site ou page du commerce donnant ses horaires, et une photo sans personnes reconnaissables.
-- Albertville, marchés du samedi et du jeudi (place Antoine Borrel) : existence seulement, sans horaires ni source de la Ville. **Déblocage** : page officielle de la Ville sur les marchés.
+- Albertville, marchés du samedi et du jeudi (une place du centre) : existence seulement, sans horaires ni source de la Ville. **Déblocage** : page officielle de la Ville sur les marchés.
 
 **Points d'arrêt.** Passe suivante : Savoie reste ouverte. Reprendre Aix-les-Bains seulement si la pagination du registre donne un deuxième opérateur vérifiable ou si le marché couvert est confirmé par la Ville ; sinon Albertville, avec le magasin de producteurs comme première fiche si son site officiel ou ses horaires sont publiés. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (règle 41.c) : elle doit donc viser une autre région.
 
