@@ -47842,3 +47842,34 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés et les magasins bio sans horaires vérifiés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-et-onzième) : Nord (59) sondé, Wattrelos et Marcq-en-Barœul relues, rien publié
+
+**Backlog.** Aucune demande « nouvelle » (0 nouvelle, 1 en cours : la demande n° 13, doute sur une personne, voir les passes précédentes). Rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, 1 304 fiches, outre-mer exclu). En tête : **Nord (59), déficit ≈ 6,5** (45 fiches). La passe précédente visait le Rhône : la réserve de la règle 41.c ne ferme que le Rhône, le Nord est donc retenu. Haute-Garonne ≈ 5,0 ; Rhône ≈ 4,7, exclu. Le Var reste très négatif.
+
+**Commune.** La plus peuplée du Nord sans fiche est **Wattrelos** (40 847 habitants), suivie de Marcq-en-Barœul (40 184), Cambrai (31 134) et Lambersart (27 090).
+
+**Ce qui a été lu.**
+- Wattrelos : recherche web. Les seules sources sont des annuaires participatifs (jours-de-marche.fr, France-Voyage, dont la date n'est pas indiquée) : trois marchés hebdomadaires cités sans confirmation par la Ville, et un magasin de produits locaux et bio mentionné sans horaires vérifiés. Aucune source officielle nouvelle par rapport à la passe 269 (la page de la Ville donne quatre marchés sans horaires publiés).
+- Marcq-en-Barœul : le site de la Ville ne répond toujours pas, et seule une adresse de maraîcher apparaît dans un annuaire non daté.
+- Lambersart : un annuaire de maraîchers non daté cite « Au Maraîcher de Marcq », qui est situé à Marcq-en-Barœul, pas à Lambersart. Aucune source officielle pour la commune. Recherche web sans résultat exploitable pour Armentières et Cambrai.
+- Registre de l'Agence Bio, Nord (1 797 opérateurs lus sur dix-huit pages de cent) : pour les communes ci-dessus, les entrées sont des grandes surfaces, des grossistes, des artisans boulangers ou des entreprises ; une entrée par commune relève d'une personne physique, écartée (doute sur une personne, non publiée, ne se rouvre pas).
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante et officielle : les horaires trouvés proviennent d'annuaires participatifs ou non datés (règle 5 et règle 6 du README, rien ne se publie sur une source non datée). La zone reste à zéro pour cette passe.
+
+**Pistes non publiées (Nord) :**
+- Wattrelos, marchés (trois jours cités par un annuaire participatif) : horaires non confirmés par la Ville. **Déblocage** : page marchés officielle de la Ville ou réponse du service des marchés.
+- Wattrelos, magasin de produits locaux et bio près de la zone commerciale : horaires non vérifiés. **Déblocage** : site du commerce ou fiche de l'office de tourisme.
+- Marcq-en-Barœul : site de la Ville injoignable (code 000). **Déblocage** : site de la Ville qui répond, avec un marché ou un producteur nommé.
+
+**Points d'arrêt.** Le Nord reste ouvert. La prochaine passe qui vise le Nord reprend à Wattrelos (horaires officiels des marchés, ou un point de vente lu sur son site), puis Marcq-en-Barœul quand son site répondra, puis Cambrai, puis Lambersart. La passe suivante ne vise pas les Hauts-de-France (règle 41.c).
+
+**Contradictions.** Horaires des marchés de Wattrelos : l'annuaire participatif donne trois jours, la page officielle de la Ville n'en publie pas. Règle 5 : rien publié sur ce fait.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre Agence Bio dans le Nord, à Wattrelos ; non publiée, ne se rouvre pas.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les grandes surfaces, les boulangeries sans vente de produits locaux, les entreprises et personnes physiques, les supermarchés et les magasins bio sans horaires vérifiés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
