@@ -48077,3 +48077,28 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les enseignes de grande distribution, les grossistes et biscuiteries, les personnes physiques désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent quatre-vingtième) : Haute-Garonne (31) visée, Muret, Balma et Castanet-Tolosan sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, dénominateur outre-mer compris, règle 224 ; outre-mer exclu du classement, règle 177 ; 1 304 fiches). Le Nord (59), visé à la passe précédente, est écarté par la réserve de la règle 41.c : les Hauts-de-France sont exclus. Le premier département éligible est la Haute-Garonne (31, Occitanie, déficit ≈ 3,8), qui n'a pas été visée à la passe précédente. Commune la plus peuplée sans fiche : Muret, déjà sondée à plusieurs passes ; puis Balma et Castanet-Tolosan, les points d'arrêt indiqués par la passe du 4 novembre précédente sur ce département.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne (2 841 opérateurs, 400 lus sur la première pagination) : à Muret, les opérateurs recensés sont des structures sans vente aux particuliers ou des personnes physiques désignées par un patronyme, non nommées ici. Rien d'exploitable en vente directe.
+- Balma : le site `balma.fr` est un site commercial sans lien avec la commune (agence web, mention explicite sur la page) ; il ne doit pas être utilisé comme source. Le site officiel `mairie-balma.fr` publie une rubrique « Marché de plein vent », mais le texte n'est pas lisible dans la page récupérée (navigation seule). Le seul document trouvé, un guide des commerçants de 2021, indique des marchés le mercredi et le samedi matin : trop ancien pour publier un horaire.
+- Castanet-Tolosan : l'annuaire participatif jours-de-marche.fr recense trois marchés, dont un point de vente à domicile chez un couple de producteurs, jeudi de 19 h à 20 h. Il désigne une personne privée : **piste écartée pour doute sur une personne**, non publiée, non rouverte. Les autres occurrences sont des animations ponctuelles (marché nocturne de juillet, animations de septembre) et non un calendrier permanent. La mairie ne publie pas d'horaires lisibles dans les résultats.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur une source indépendante, avec horaires confirmés. Les marchés relèvent d'annuaires participatifs ou d'agendas d'événements, sans confirmation de la commune.
+
+**Pistes non publiées (Haute-Garonne).**
+- **Castanet-Tolosan, vente à domicile (producteur en commande en ligne)** : écartée pour doute sur une personne. **Déblocage** : aucun ; ne se rouvre pas.
+- **Balma, marché de plein vent** : existence confirmée par la commune, jour et lieu non lisibles. **Déblocage** : la page « Marché de plein vent » de `mairie-balma.fr` lue avec son contenu (jour, horaires, liste des commerçants ambulants).
+
+**Points d'arrêt.** Prochaine passe Haute-Garonne : reprendre Balma seulement si la page municipale livre son contenu ; sinon Muret, puis la commune suivante par population sans fiche. La passe suivante ne vise pas l'Occitanie si elle est précédée d'une passe en Occitanie (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Une piste, à Castanet-Tolosan (nombre : 1, commune : Castanet-Tolosan).
+
+**Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les agendas d'événements ponctuels, les sites commerciaux qui usurpent le nom d'une commune, les grossistes, les personnes physiques désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
