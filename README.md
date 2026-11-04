@@ -47929,3 +47929,33 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés et les magasins bio sans horaires vérifiés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixante-quatorzième) : Haute-Garonne (31) visée, Saint-Gaudens sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` (doute sur une personne, rien publié, aucun email envoyé).
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, 1 304 fiches, outre-mer exclu, règle 177). Le Nord (59), visé à la passe précédente, est écarté par la règle 41.c. En tête ensuite : **Haute-Garonne (31), déficit ≈ 3,8** (24 fiches). Le Var reste très négatif.
+
+**Commune.** Le point d'arrêt de la passe précédente sur la Haute-Garonne est **Saint-Gaudens**, la commune suivante par population sans fiche après L'Union.
+
+**Ce qui a été lu.**
+- La Ferme de Gaudens (chemin de Bellevue, Saint-Gaudens) : registre des entreprises actif (un établissement ouvert, code 01.45Z, créée en 2021). Coordonnées de la Base Adresse Nationale concordantes avec le registre, à quelques mètres près. Produits décrits de façon concordante par l'annuaire Locavores et par producteur.direct : fromage et yaourts de chèvre, viande d'agneau. Présente dans l'annuaire de Destination Comminges Pyrénées et sur tourisme-occitanie. **Horaires non vérifiés** : aucune grille hebdomadaire lisible (une page indique « ouvert, ferme à 18 h », une autre des horaires d'été, sans date). Aucun site web propre vérifié. Le seul numéro trouvé est un portable : non retenu.
+- L'Épicerie de la ferme (voie de la Chapelle, Saint-Gaudens) : épicerie de producteurs selon sa page publique. Horaires contradictoires selon les sources (mini-marché du vendredi d'un côté, ouverture le jeudi de l'autre). Pas de vérification au registre lue.
+- Autres pistes repérées (primeurs, magasin bio, marché du mardi au bord du lac) : non lues à fond, faute de temps de passe.
+
+**Pourquoi rien n'est publié.** Une seule fiche solide. La règle 28 n'accepte pas une commune avec quatre fiches complètes sans voisinage ; ici il n'y a pas de groupe de cinq vérifiables. Une fiche sans photo ne peut pas non plus partir : `image_url` est obligatoire, et depuis cet environnement aucune photo du lieu ni thématique utilisable n'a pu être obtenue (Unsplash et Pexels bloqués, Wikimedia exclu, photo du site touristique régional sans licence claire). Publier La Ferme de Gaudens sans ses horaires serait publier un fait non vérifié.
+
+**Pistes non publiées (Haute-Garonne).**
+- Saint-Gaudens, ferme de producteurs (vente à la ferme, fromage de chèvre, agneau) : registre actif, adresse concordante, horaires et photo non vérifiés. **Déblocage** : horaires publiés par l'exploitation et une photo utilisable.
+- Saint-Gaudens, épicerie de producteurs : horaires contradictoires entre sources. **Déblocage** : horaires publiés par le commerce lui-même, et lecture du registre.
+- Saint-Gaudens, marché hebdomadaire du mardi au bord du lac : jour lu sur un réseau social seulement (règle 9). **Déblocage** : page de la commune ou de l'office de tourisme.
+
+**Points d'arrêt.** Prochaine passe Haute-Garonne : reprendre Saint-Gaudens seulement si une source officielle donne les horaires de la ferme et une photo utilisable ; sinon descendre à Castelginest. La passe suivante ne vise pas l'Occitanie (règle 41.c).
+
+**Contradictions.** Horaires de L'Épicerie de la ferme, selon les sources citées ci-dessus. Règle 5 : rien publié sur ce fait.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les primeurs et grossistes, le magasin bio sans horaires lus, les supermarchés, les personnes physiques.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
