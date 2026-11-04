@@ -48102,3 +48102,23 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les agendas d'événements ponctuels, les sites commerciaux qui usurpent le nom d'une commune, les grossistes, les personnes physiques désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent quatre-vingt-unième) : Nord (59) revisé, Wasquehal et Coudekerque-Branche sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, dénominateur outre-mer compris, règle 224 ; outre-mer exclu, règle 177 ; 1 304 fiches). La passe précédente visait l'Occitanie (Haute-Garonne) : la règle 41.c écarte donc l'Occitanie, et seule cette région. Le Nord (59, déficit ≈ 4,5) redevient le premier département éligible, et sa descente reprend à ses points d'arrêt : Wasquehal et Coudekerque-Branche, après Lambersart, La Madeleine et Mons-en-Barœul déjà éprouvées (règle 247).
+
+**Ce qui a été lu.**
+- Wasquehal : `jours-de-marche.fr` recense trois marchés sans jours lisibles dans l'extrait ; aucun jour ni horaire confirmé par la commune. Source à relire sur `ville-wasquehal.fr` avant toute décision.
+- Coudekerque-Branche : aucun marché forain trouvé dans les résultats de recherche ; la page « Open markets » de l'office de tourisme de Dunkerque n'a pas été ouverte dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur une source indépendante, avec horaires confirmés. Les résultats de recherche ne suffisent pas à établir un calendrier de marché ; la lecture des sites municipaux reste à faire.
+
+**Points d'arrêt.** Nord : prochaine passe, ouvrir les rubriques « marchés » de `ville-wasquehal.fr` et de la commune de Coudekerque-Branche avant toute autre commune, puis l'office de tourisme de Dunkerque (page « Open markets »). La passe suivante ne vise pas les Hauts-de-France (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les enseignes de grande distribution et les magasins généralistes trouvés dans les résultats (Intermarché, Cora, Gémo, banques), les grossistes et cuisinistes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
