@@ -47959,3 +47959,22 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les primeurs et grossistes, le magasin bio sans horaires lus, les supermarchés, les personnes physiques.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre (deux cent soixante-quinzième) : Nord (59) visé, Wattrelos sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, outre-mer exclu du classement, règle 177 ; 1 304 fiches). La passe précédente visait la Haute-Garonne (Occitanie) : la région est close (règle 41.c). Le premier département éligible est le Nord (59, déficit ≈ 4,5), dont la dernière passe remonte à deux passes. Commune la plus peuplée sans fiche : Wattrelos (40 847 habitants).
+
+**Ce qui a été lu.**
+- Site officiel de Wattrelos : la page d'accueil répond, sans lien vers une rubrique marchés ou commerces. L'adresse `/marches` répond 404.
+- Les constats des passes précédentes sur Wattrelos (quatre marchés sans horaires confirmés par la Ville) n'ont pas été contredits.
+- Lambersart : le site de la Ville répond par une redirection, non suivie cette passe. Maubeuge et Coudekerque-Branche déjà sondées dans les passes précédentes, non relues. Armentières et Marcq-en-Barœul : site injoignable (code 000).
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante cette passe. Wattrelos n'a toujours aucun horaire de marché confirmé par la Ville.
+
+**Point d'arrêt.** Nord : prochaine passe sur Wattrelos seulement si la Ville publie ses horaires de marchés ; sinon Lambersart, en lisant la rubrique du site de la Ville une fois la redirection suivie.
+
+**Ce qui a été volontairement laissé de côté.** Les enseignes de grande distribution, les associations, les grossistes, les entreprises individuelles désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
