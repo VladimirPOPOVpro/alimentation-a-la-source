@@ -47978,3 +47978,34 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les enseignes de grande distribution, les associations, les grossistes, les entreprises individuelles désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre (deux cent soixante-seizième) : Haute-Garonne (31) visée, Saint-Gaudens sondée, Castelginest sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (règle 224 : dénominateur outre-mer compris ; règle 177 : outre-mer exclu du classement ; 1 304 fiches). Le Nord (59, déficit ≈ 4,47) est écarté par la règle 41.c, la passe précédente l'ayant visé. Le département suivant est la Haute-Garonne (31, déficit ≈ 3,83, 24 fiches), visée deux passes plus tôt, donc éligible. Commune : Saint-Gaudens, point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne (2 841 opérateurs, lus en entier) : une quinzaine d'opérateurs à Saint-Gaudens. La plupart sont des grossistes, des structures sans vente au public, un lycée agricole ou une grande surface, écartés par la règle de MODERATION.md.
+- Ti Kaz Provençale (Saint-Gaudens, route de la Serre de Cazaux) : site officiel ouvert et lu. Ferme avec vente directe de confitures et de produits de la ferme. **Horaires absents** du site (ni de la page de vente, ni de la page de contact) : pas de fait publiable. Le téléphone publié sur le site est un portable, non retenu. Photo non retenue à ce stade : aucune photo du lieu sans personnes identifiables n'a été vérifiée.
+- Registre des entreprises : l'entreprise est active, avec un établissement ouvert. L'enseigne seule est reprise ici ; le nom de l'exploitant, qui figure au registre comme entreprise individuelle, n'est pas repris.
+- Ferme de Gaudens (passe précédente) : horaires toujours non vérifiés.
+- Castelginest (31780) : registre, un seul opérateur, sans vente au public. Recherche web : aucune source confirmant un marché de producteurs ni une vente directe régulière. Seul un marché de Noël annoncé pour les 28 et 29 novembre 2026, sans caractère de marché de producteurs.
+
+**Pourquoi rien n'est publié.** Saint-Gaudens ne rend pas cinq commerces vérifiables : une seule piste (Ti Kaz) a un site officiel et un statut actif, mais sans horaires, et l'horaire est obligatoire dans la fiche. Castelginest ne rend aucune source de vente directe. La règle 28 n'accepte pas une commune sans groupe de cinq fiches vérifiables.
+
+**Pistes non publiées (Haute-Garonne).**
+- Saint-Gaudens, ferme de vente directe (Ti Kaz Provençale) : site officiel et registre actifs, horaires absents. **Déblocage** : horaires publiés par le commerce, et une photo du lieu sans personnes identifiables.
+- Saint-Gaudens, magasin de fruits et légumes (registre, « The Sisters ») : site non renseigné au registre, horaires et adresse non vérifiés. **Déblocage** : site ou page du commerce, avec horaires.
+- Saint-Gaudens, ferme de producteurs (passe précédente) : horaires et photo toujours non vérifiés.
+- Saint-Gaudens, épicerie de producteurs (passe précédente) : horaires contradictoires entre sources.
+
+**Points d'arrêt.** Prochaine passe Haute-Garonne : reprendre Saint-Gaudens seulement si une source du commerce donne les horaires ; sinon chercher la commune suivante par population sans fiche dans le 31. Castelginest ne se reprend qu'avec une source officielle de la commune ou de la Chambre d'agriculture. La passe suivante ne vise pas l'Occitanie (règle 41.c).
+
+**Contradictions.** Horaires de L'Épicerie de la ferme, toujours contradictoires. Règle 5 : rien publié sur ce fait.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au public, le lycée agricole, les supermarchés, les personnes physiques désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
