@@ -48056,3 +48056,24 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les enseignes de grande distribution, les grossistes, les personnes physiques désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre (deux cent soixante-dix-neuvième) : Nord (59) visé, Lambersart et La Madeleine sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr`, outre-mer exclu du classement (règle 177), dénominateur outre-mer compris (règle 224), 1 304 fiches. La passe précédente visait la Haute-Garonne (Occitanie) : la réserve de la règle 41.c écarte cette région. Le Nord (59), déficit ≈ 4,5, est le premier département éligible. Commune la plus peuplée sans fiche : Lambersart (27 090 habitants), puis La Madeleine.
+
+**Ce qui a été lu.**
+- Lambersart : le registre de l'Agence Bio recense une vingtaine d'opérateurs, presque tous grossistes, biscuiteries ou structures de distribution sans vente au public ; ceux qui vendent aux particuliers sont arrêtés ou sans lieu de vente identifiable. Aucun marché hebdomadaire lisible sur le site de la commune ou dans les annuaires ; la braderie du Bourg est une brocante annuelle, hors sujet. La Ferme de Montecouvez n'apparaît que comme chambres d'hôtes. Un producteur proche (La Ferme du Coqueretz) est à Sainghin-en-Weppes, hors commune.
+- La Madeleine : l'annuaire participatif recense deux marchés sans jour ni horaire ; le seul « marché » trouvé est un supermarché.
+- Mons-en-Barœul, consultée pour la commune suivante par population : trois marchés recensés par un annuaire participatif, sans jours ni horaires ; une Biocoop et une La Vie Claire, qui sont des magasins généralistes ou spécialisés hors circuit court, non retenues.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur une source indépendante, avec horaires confirmés. Les marchés relèvent d'annuaires participatifs, sans confirmation de la commune.
+
+**Points d'arrêt.** Nord : prochaine passe sur Lambersart seulement si la commune publie ses marchés ; sinon Marcq-en-Barœul est exclue de nouveau (piste écartée, ne se rouvre pas), puis Wasquehal ou Coudekerque-Branche, en lisant la rubrique « marchés » de chaque site municipal. La passe suivante ne vise pas les Hauts-de-France (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les annuaires participatifs seuls, les enseignes de grande distribution, les grossistes et biscuiteries, les personnes physiques désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
