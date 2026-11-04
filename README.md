@@ -47772,3 +47772,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+### Passe autonome du 4 novembre 2026 (deux cent soixante-huitième) : Nord (59) visé, Wattrelos et Maubeuge sondées, rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, outre-mer exclu, règles 93 et 177 ; 1 304 fiches). La passe précédente visait la Haute-Garonne (Occitanie) : la région est close (règle 41.c). Le premier département éligible est le Nord (59, Hauts-de-France, déficit ≈ 4,5), dont la dernière passe remonte à deux passes. Commune la plus peuplée sans fiche : Wattrelos (40 847 habitants). Marcq-en-Barœul et Cambrai restent écartées pour doute sur une personne.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord : 1 796 opérateurs parcourus, filtrés sur la vente aux consommateurs et regroupés par commune. Pour les communes de plus de 8 000 habitants sans fiche, les opérateurs qui vendent au public sont rares ; la plupart sont des entreprises individuelles désignées par un patronyme, une adresse de logement privé, un centre non commercial, un atelier protégé ou un commerce de détail généraliste.
+- Site officiel de Wattrelos (page d'accueil) : aucune rubrique marchés ni commerces accessible. Annuaire participatif : trois marchés recensés, sans horaires vérifiés.
+- Maubeuge (28 767 habitants) : recherche web sur les marchés, site officiel de la Ville non trouvé dans les résultats ; jours-de-marche.fr recense quatre marchés sans horaires exploitables. Deux pistes de magasins (une épicerie de fruits, une enseigne bio) ont été relevées sur des annuaires tiers, sans horaires vérifiés sur leur site.
+- Registre, Maubeuge : un point de vente à l'enseigne « Au Jardin des Sarts » (production légumière déclarée, rue des Sars). Aucune trace web de cette enseigne lue ; l'opérateur est enregistré sous un patronyme, non nommé ici.
+
+**Pourquoi rien n'est publié.** Aucune commune du secteur ne rend cinq commerces vérifiables sur une source indépendante. Wattrelos n'a aucun horaire de marché confirmé par la Ville ; Maubeuge n'a que des annuaires tiers et une piste de production sans trace web.
+
+**Pistes non publiées (Nord).**
+- Wattrelos : trois marchés (annuaire participatif), horaires non confirmés. **Déblocage** : page marchés du site de la Ville.
+- Wattrelos : une herboristerie enregistrée sous un patronyme. Non publiée : doute sur une personne, ne se rouvre pas.
+- Maubeuge : « Au Jardin des Sarts », production légumière au registre, aucune trace web. **Déblocage** : page propre de l'exploitation ou annuaire « Bienvenue à la Ferme ».
+- Maubeuge : une enseigne bio et une épicerie de fruits, horaires non vérifiés. **Déblocage** : site officiel de chaque enseigne.
+- Comines : un opérateur déclaré à une adresse de logement privé. Non publié : donnée personnelle, ne se rouvre pas.
+
+**Contradictions.** Aucune nouvelle.
+
+**Point d'arrêt.** Nord : prochaine passe sur Wattrelos, en lisant la rubrique marchés du site de la Ville ; si rien ne se vérifie, descendre à La Madeleine (21 790 habitants), en excluant les enseignes de grande distribution.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au détail, les personnes physiques, les supermarchés, les ateliers protégés.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
