@@ -47589,3 +47589,27 @@ Aucune demande de visiteur, aucun courriel. **Aucune fiche ajoutée, aucune reti
 **Ce qui a été volontairement laissé de côté.** Les entreprises individuelles du registre bio, les supermarchés, les commerces généralistes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 4 novembre 2026 (deux cent soixantième) : Loire (42) visée, Roanne sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Aucune demande en_cours modifiée.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes), 1 304 fiches, outre-mer exclu. Classement : Nord (59, déficit ≈ 4,47) exclu par la règle 41.c (passe précédente) ; Haute-Garonne (31, ≈ 3,83) exclue (passe 258) ; Oise (60, ≈ 3,69) même région que la passe précédente, exclue ; Loire (42, ≈ 3,64) retenue. Commune : la plus peuplée sans fiche. Saint-Étienne (173 136 habitants) en a déjà cinq ; Saint-Chamond (35 646) en a une. Roanne (35 409) est donc la commune retenue.
+
+**Ce qui a été lu.**
+- Office de tourisme du Roannais, article « marchés roannais » (daté du 28 juillet 2022) : six emplacements de marché dans la ville, horaires du matin, sans producteur nommé avec horaires de vente.
+- Recherche web : une autre page du même office donne d'autres jours et d'autres places pour les mêmes marchés ; une fiche Loire Tourisme pour un marché de producteurs fermiers rue du Coq, dont la date (13 décembre 2025) est passée.
+
+**Pourquoi rien n'est publié.** Les sources se contredisent sur les jours et les lieux des marchés de Roanne, et la plus détaillée date de 2022. Aucun producteur ni commerce de Roanne n'a d'horaire de vente vérifié par sa propre source. Les marchés seuls ne rendent pas cinq fiches vérifiables : une fiche de marché avec un jour contesté serait un fait incertain publié comme certain.
+
+**Contradiction consignée (règle 5).** Office de tourisme du Roannais, deux pages : marché du vendredi place du Marché (page non datée) contre place des Minimes (autre page). Ni l'une ni l'autre n'est solide : rien publié tant que la Ville ne tranche pas.
+
+**Pistes non publiées (Loire).**
+- Roanne, marchés de plein air (office de tourisme, 2022 et pages non datées) : jours et lieux contradictoires. **Déblocage** : rubrique marchés du site de la Ville de Roanne, à jour.
+- Roanne, marché de producteurs fermiers rue du Coq (Loire Tourisme) : date passée, horaires futurs inconnus. **Déblocage** : prochaine date publiée par l'organisateur.
+
+**Points d'arrêt.** Passe suivante : la règle 41.c écarte le 42 pour deux passes de suite seulement si la passe précédente est en Auvergne-Rhône-Alpes ; ce n'est pas le cas ici, donc la Loire reste éligible au prochain calcul, et Roanne reste la commune à reprendre après lecture de la rubrique marchés de la Ville. Le 59 et le 31 sont réouverts par la formule dès que la passe précédente n'y vise pas.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les producteurs sans horaire propre, les supermarchés, les services ; la Saint-Étienne et la Saint-Chamond déjà couvertes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
