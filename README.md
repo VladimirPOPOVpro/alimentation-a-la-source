@@ -48223,3 +48223,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au public, les enseignes de grande distribution, les annuaires participatifs seuls, les débits de boissons.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-sixième) : Seine-et-Marne (77) reprise, Pontault-Combault sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, outre-mer exclu, règle 177 ; 1 304 fiches comptées sur le code postal). La passe précédente visait le 31 (Occitanie) : la région est exclue par la règle 41.c, et seule cette région. Les départements déjà fermés ou épuisés par les passes antérieures sont écartés (Nord, Haute-Garonne, Rhône, Isère, Loire, Hérault, Seine-Saint-Denis, Val-de-Marne, Yvelines, Oise, Calvados, Ille-et-Vilaine, Bas-Rhin). Le premier département ouvert est la Seine-et-Marne (77, Île-de-France, déficit ≈ 3,93, 25 fiches), déjà désignée comme « reste ouverte » par la passe qui l'a visée. Seine-Maritime et Savoie restent sur la liste, sans passage cette fois.
+
+**Commune, règle 41.d.** Melun a été sondée à la passe précédente (sans résultat). La commune suivante par population désignée par cette passe, Pontault-Combault (39 096 habitants, sans fiche), est retenue.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-et-Marne, paginé sur les 928 opérateurs, filtré sur Pontault-Combault : une douzaine d'entrées, dont des grossistes, des structures sans vente au public et des enseignes de grande distribution, écartés par `MODERATION.md`. Une seule entrée déclare la vente aux particuliers à cette adresse (un point de vente de distribution généraliste) : aucune source de producteur local ni de circuit court ne la rattache à l'alimentaire, elle n'est pas retenue.
+- Site officiel de la Ville de Pontault-Combault : page d'accueil lisible ; les pages d'agenda relues (marchés des producteurs) renvoient « Accès refusé » (403) depuis cet environnement.
+- Recherche web : des éditions ponctuelles de marché des producteurs annoncées par la mairie (dates isolées, place Louis-Aragon ou place du Général Leclerc, 10 h à 18 h), une consultation publique sur un futur marché, et des enseignes nationales (grande distribution, bio en réseau). Aucun marché hebdomadaire permanent, aucun producteur nommé et localisé à Pontault-Combault n'a pu être relevé sur une source indépendante.
+- Office de tourisme et Bienvenue à la Ferme : non lus cette passe (annuaire Bienvenue à la Ferme, site en accès bloqué depuis cet environnement).
+
+**Pourquoi rien n'est publié.** Pontault-Combault ne rend pas cinq commerces vérifiables sur deux sources indépendantes : pas de marché permanent confirmé, des éditions ponctuelles sans liste nominative des producteurs, et aucun producteur ou point de vente circuit court relevé au registre à cette adresse.
+
+**Pistes non publiées (anonymes, Seine-et-Marne).**
+- Pontault-Combault, marché des producteurs (éditions ponctuelles, place Louis-Aragon ou place du Général Leclerc, 10 h à 18 h) : existence confirmée par l'agenda de la Ville. **Déblocage** : liste nominative des exposants fournie par la Ville, avec adresse et horaires d'un marché permanent, ou fiche de producteur active au registre.
+
+**Points d'arrêt.** Passe suivante : la Seine-et-Marne reste ouverte (règle 41.c : la région ne doit pas être celle de la passe immédiatement précédente, qui visait le 31 ; la passe suivante peut donc revenir en Île-de-France). Pour Pontault-Combault, il faut une liste nominative des producteurs fournie par la Ville, ou un marché permanent confirmé. Sinon, la commune suivante sans fiche en Seine-et-Marne se choisit par population, à lire dans geo.api.gouv.fr, sans la présumer ici.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les logisticiens, les enseignes de grande distribution, les enseignes de restauration et d'équipement, les annuaires participatifs seuls.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
