@@ -48278,3 +48278,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les enseignes de grande distribution (Aldi, Carrefour Market, Grand Frais, Picard), les chaînes bio en réseau, les annuaires participatifs seuls, les offres d'emploi.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-huitième) : Nord (59) visé, Wattrelos, Marcq-en-Barœul et Armentières sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne : l'enseigne est un prénom et le contact est une personne privée) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, outre-mer exclu, 1 304 fiches comptées sur le code postal). La passe précédente visait la Seine-Maritime (Normandie), donc le Nord (Hauts-de-France, déficit ≈ 4,5) est éligible au titre de la règle 41.c. Commune : la plus peuplée du 59 sans fiche, Wattrelos (40 847 habitants), puis Marcq-en-Barœul, Armentières.
+
+**Ce qui a été lu.**
+- Wattrelos : le registre de l'Agence Bio ne donne qu'une entrée de vente aux particuliers, une herboristerie sous un nom de personne (écartée, doute sur une personne, anonymisée). Les recherches web ne donnent que des annuaires : un producteur-boutique situé hors commune, près de la zone Auchan de Noyelles (environ 4,6 km, hors périmètre), et les enseignes bio de réseau (Biocoop, La Vie Claire, Naturalia) qui relèvent de la règle 3. Aucun horaire de marché publié, déjà constaté lors des passes précédentes.
+- Marcq-en-Barœul : les seules fiches de vente directe du registre sont des enseignes généralistes ou des points sans adresse vérifiable. Les recherches web renvoient à des annuaires participatifs ; un commerce de fruits et légumes rue Nationale, décrit comme privilégiant les producteurs locaux, n'a qu'une source et aucun horaire.
+- Armentières : aucun marché de producteurs trouvé pour 2026. Les seuls résultats sont des brocantes et des braderies de commerçants, hors sujet.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes. Les fiches candidates sont soit à une seule source, soit des enseignes de réseau, soit des entrées dont le nom désigne une personne.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos, herboristerie en vente aux particuliers : écartée, doute sur une personne. Ne se rouvre pas.
+- Wattrelos, marchés de la Ville : jours et lieux connus, horaires absents. **Déblocage** : horaires publiés par la Ville, ou par un marché lui-même.
+- Marcq-en-Barœul, fruits et légumes de la rue Nationale, produits locaux : une seule source. **Déblocage** : registre des entreprises actif et site ou fiche propre du commerce.
+- Armentières : aucun marché de producteurs identifié. **Déblocage** : page de la Ville en ligne (la Ville était en maintenance lors des passes précédentes).
+
+**Points d'arrêt.** La passe suivante ne vise pas le Nord (règle 41.c). Le Nord reste ouvert pour les passes suivantes, en reprenant Wattrelos seulement si la Ville publie des horaires, puis Marcq-en-Barœul et Armentières. Cambrai n'a pas été relue cette passe.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre à Wattrelos (herboristerie sous un nom de personne), non publiée.
+
+**Ce qui a été volontairement laissé de côté.** Les enseignes bio de réseau et de grande distribution, les grossistes, les annuaires participatifs seuls, les brocantes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
