@@ -48498,3 +48498,35 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les enseignes de grande distribution, les caves sans point de vente vérifié, la distillerie d'huiles essentielles (hors alimentation).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-dix-septième) : Calvados (14) visé, Bayeux sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Corse : la Corse (94) est exclue par la règle 41.c. Les départements déjà clos ou épuisés (Nord, Haute-Garonne, Oise, Loire, Isère) sont écartés. Premier département éligible du classement : le **Calvados (14)**, déficit ≈ 3,4.
+
+**Commune, règles 41.d et 247.** Caen, Bayeux et Vire ont déjà des fiches. Hérouville-Saint-Clair reste bloquée par ses pistes (déblocage non publié). Lisieux était épuisée à la passe 210. La commune suivante par population sans fiche est **Bayeux (12 659 habitants)**, qui devient la deuxième commune éprouvée du Calvados dans cette descente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados (1 370 opérateurs), filtre sur la commune de Bayeux (code 14047) : une quinzaine d'entrées, presque toutes en préparation, distribution ou vente aux professionnels. Les entrées à vente aux particuliers sont une cidrerie bio, une entrée d'achat groupé et des entrées de magasin ou de distribution, écartées au titre de la règle 40 ou de MODERATION.md.
+- Recherche web sur les marchés : un « Marché du Terroir & de l'Artisanat Normand » place de la Liberté, le jeudi soir, pendant l'été 2026. C'est un événement de quelques dates estivales, non un marché hebdomadaire de producteurs : écarté (règle 9). Le site jours-de-marche.fr recense quatre marchés sans jours ni horaires lisibles.
+- Recherche web sur les AMAP et Bienvenue à la Ferme : aucune AMAP ni boutique du réseau identifiée à Bayeux même.
+- Association « Les Producteurs Réunis » (rue Sadi-Carnot) : adresse seule, pas d'horaires, pas de téléphone, pas de site propre. Fiche impossible sans horaires vérifiés.
+- Ferme cidricole bio en nom propre, dans la commune : l'enseigne publique porte le patronyme de l'exploitant, et la cave n'a pas d'horaires recoupés. Écartée pour doute sur une personne, ne se rouvre pas.
+- Ferme cidricole de Saint-Laurent-sur-Mer : hors commune (commune distincte), horaires contradictoires entre quatre sources. Écartée pour ce motif, pas pour la commune de Bayeux.
+
+**Pourquoi rien n'est publié.** Bayeux ne rend aucun commerce qui réunisse un horaire vérifié, deux sources indépendantes et une adresse dans la commune. Le groupe de cinq n'est pas atteint, et la règle 52 (quatre points, pas un de moins) n'est pas davantage remplie.
+
+**Pistes non publiées (anonymes, Calvados).**
+- Bayeux, marché du terroir estival (place de la Liberté, jeudi soir) : événement, non un marché régulier. **Déblocage** : programme officiel de la Ville pour un marché récurrent.
+- Bayeux, cidrerie bio en ferme (rue de la commune) : enseigne et horaires à confirmer par le site du producteur. **Déblocage** : site propre du producteur avec enseigne commerciale et horaires datés.
+- Bayeux, association d'achat et de vente de producteurs : horaires et téléphone à obtenir. **Déblocage** : page propre de l'association.
+- Saint-Laurent-sur-Mer, ferme cidricole : horaires contradictoires. Hors commune, à reprendre si une passe retient cette commune.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Normandie de suite (règle 41.c). Le Calvados reprend à Hérouville-Saint-Clair si un déblocage est publié ; sinon, descente à la commune suivante par population sans fiche (Vire et Caen déjà fiches), dans la limite de douze communes (règle 247). Bayeux reprend au déblocage ci-dessus.
+
+**Fiches écartées pour doute sur une personne.** Une, en Bayeux (anonyme, ci-dessus).
+
+**Ce qui a été volontairement laissé de côté.** Les magasins de distribution et les entrées de préparation, les cidreries sans vente au public vérifiée, les événements saisonniers.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
