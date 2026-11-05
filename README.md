@@ -48331,3 +48331,23 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les enseignes de grande distribution, les annuaires participatifs seuls, les brocantes et les marchés de fêtes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-dixième) : Nord (59) revisé, Cambrai relue, rien publié
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à traiter. Aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (outre-mer exclu, règle 177). Le premier département métropolitain du classement est le Nord (59, déficit le plus élevé). La passe précédente visait la Haute-Garonne, donc la règle 41.c ne l'exclut pas. Le Nord revient pourtant pour la troisième fois en quelques passes.
+
+**Ce qui a été relu.** Une seule source nouvelle a été consultée : la recherche web sur le Biocoop de Cambrai. Les horaires restent contradictoires entre les sources (un annuaire donne le jeudi 9 h 30–12 h 30 / 14 h 30–19 h ; un autre annuaire, Pages Jaunes, donne le samedi 9 h–18 h 30 et le dimanche fermé). Le site du magasin n'a pas été lu pour cette passe. Le magasin reste un magasin de réseau (règle 3), sans producteur local vérifié.
+
+**Pourquoi rien n'est publié.** La contradiction d'horaires entre sources n'est pas tranchée (règle 5 : un horaire contesté ne se publie pas) ; les autres communes du Nord sont déjà épuisées (Wattrelos, Marcq-en-Barœul, Lambersart, Armentières, Maubeuge, Wasquehal) sans source nouvelle. Une fiche isolée ne rend pas le groupe de cinq.
+
+**Constat sur la formule.** Le Nord reste en tête parce que sa population est forte et que ses fiches sont peu nombreuses, alors que ses communes ne rendent plus de fiches vérifiables. La formule retombe donc sur un secteur épuisé. Les points d'arrêt des passes 284 et 288 demandaient de ne pas resonder le Nord sans source nouvelle : c'est ce qui a été appliqué ici, avec une seule source neuve. Décision à prendre par le responsable du site : que faire d'un secteur épuisé (exclusion temporaire ? seuil de fiches vérifiables avant de compter un département ?). Ce n'est pas une modification de `AGENT.md` dans cette passe.
+
+**Points d'arrêt.** Passe suivante : ne pas revisiter Cambrai avant que le site du magasin ou une source du réseau donne des horaires non contestés. Ne pas viser le Nord tant que la question du secteur épuisé n'est pas tranchée, sinon la passe répète ce constat.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les enseignes de réseau sans producteur local, les grossistes, les structures sans vente au public, les annuaires participatifs seuls.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
