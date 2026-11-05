@@ -48398,3 +48398,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces et leurs drives, les enseignes de réseau sans producteur local, les opérateurs à vente exclusivement professionnelle, les grossistes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-treizième) : Loire (42) reprise, Roanne sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une demande en_cours, inchangée.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes), 1 304 fiches, outre-mer exclu. Classement : Nord (59, déficit ≈ 4,47) exclu, Hauts-de-France visée par la passe précédente (règle 41.c) ; Haute-Garonne (31, ≈ 3,83) exclue (fermée par la règle 247) ; Oise (60, ≈ 3,69) même région que la passe précédente, exclue ; Loire (42, ≈ 3,64) retenue. Commune : la plus peuplée sans fiche. Saint-Étienne en a cinq, Saint-Chamond une ; Roanne (35 409 habitants) reste la commune retenue, comme l'annonçait la passe du 4 novembre.
+
+**Ce qui a été lu.**
+- Site de Roannais Agglomération et de la Ville de Roanne, rubrique « Marchés alimentaires, foires » : onze marchés en ville, de 8 h à 12 h 30, avec des jours et des places, mais sans producteur nommé ni horaire de vente par producteur.
+- Office de tourisme du Roannais, agenda des marchés locaux (pages datées de 2026) : les marchés de la place du Marché et de la place Clemenceau y figurent, sans détail par producteur.
+- Annuaire Acheter à la Source, légumes en vente directe à Roanne : deux entrées dans la commune. L'une est une entrée au nom d'une personne physique, écartée pour doute sur une personne. L'autre est une association de maraîchage d'insertion, avec horaires de vente indiqués (mercredi et vendredi, 8 h 30 à 13 h).
+- Registre des entreprises : l'association est active, un seul établissement ouvert. Son siège déclaré est une autre adresse que le point de vente de l'annuaire (règle 24).
+
+**Pourquoi rien n'est publié.** Roanne ne rend pas cinq fiches vérifiables : les marchés de ville n'ont ni producteurs nommés ni horaires propres, et la seule fiche de producteur repose sur des annuaires tiers, sans site ni page propre vérifiés. Le point de vente diffère entre le registre et l'annuaire : une adresse contestée ne se publie pas (règle 5).
+
+**Pistes non publiées (anonymes, Loire).**
+- Roanne, maraîchage d'insertion en vente directe (association, registre actif) : horaires de vente en deux annuaires, adresse de vente contredite par le siège du registre. **Déblocage** : page propre de la structure ou fiche officielle confirmant les horaires et le point de vente.
+- Roanne, marchés de ville (place du Marché, place Clemenceau) : jours et places publiés par la Ville, pas de producteur ni d'horaire de vente vérifiés. **Déblocage** : liste nominative de producteurs présents sur un marché, par la Ville ou l'organisateur.
+- Roanne, entrée de vente directe au nom d'une personne physique : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Points d'arrêt.** Roanne est éprouvée et ne se reprend qu'avec un déblocage nommé ci-dessus. La passe suivante ne vise pas les Hauts-de-France (règle 41.c : la passe du 5 novembre matin y était). La Loire reste ouverte : la commune suivante sans fiche, par population, sera prise dans l'ordre de la descente, sans refaire le criblage de Roanne.
+
+**Fiches écartées pour doute sur une personne.** Une, à Roanne (anonyme, ci-dessus).
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les forains sans producteur identifié, les supermarchés, les services, les annuaires participatifs seuls.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
