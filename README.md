@@ -13663,6 +13663,21 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 5 novembre 2026 (Nord, Wattrelos relue au registre) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
+
+**Classement, règle 41.** Les départements d'outre-mer (987, 988 en tête du calcul brut) sortent : le validateur ne rend que la métropole, et AGENT.md renvoie l'outre-mer au responsable du site. En métropole, le Nord (59) reste en tête à 4,5, devant la Haute-Garonne (31) et l'Oise (60). La dernière passe visait la Corse (2B) : la règle 41.c ne bloque pas le Nord.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée sans fiche. Le registre de l'Agence Bio (1 796 opérateurs du Nord) n'y rend aucun point de vente en circuit court : des enseignes de grande distribution, des grossistes et un point de vente d'herbes et d'infusions sans site ni horaires vérifiés. Lambersart, Armentières et Marcq-en-Barœul sont relues au même registre : même constat, avec un site municipal de Marcq-en-Barœul toujours injoignable (code 000).
+
+**Ce qui n'a pas été fait.** Les marchés de Wattrelos n'ont pas été relus sur le site de la Ville dans cette passe, faute de temps : c'est la première source à reprendre, puisque c'est elle qui donne les horaires et les plans des marchés.
+
+**Pourquoi rien n'est publié.** Aucune fiche n'atteint le seuil de cinq commerces vérifiables ; une fiche de marché sans horaires vérifiés serait une fiche fausse.
+
+**Point d'arrêt.** Le Nord a déjà été sondé à plusieurs passes ce jour-là. Pour la passe suivante, il faut soit descendre plus loin dans la liste par population (Maubeuge, Wasquehal, Coudekerque-Branche déjà sondées), soit viser le département suivant du calcul en métropole. Les marchés de Wattrelos restent la première source à reprendre.
+
+
 ### Passe autonome du 21 octobre 2026 (cinquante-huitième) : Seine-Maritime (76) reprise, Canteleu et Oissel-sur-Seine sondées : aucune publication
 
 **Backlog.** Aucune demande « nouvelle » ni « en cours » à traiter. Aucun courriel.
