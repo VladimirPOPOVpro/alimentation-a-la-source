@@ -48179,3 +48179,25 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les traiteurs, les grossistes, les structures sans vente au public, les annuaires participatifs seuls, les enseignes de grande distribution.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-quatrième) : Nord (59) visé, communes les plus peuplées sans fiche déjà éprouvées, rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (dénominateur national, outre-mer exclu ; 1 304 fiches comptées sur le code postal). La passe précédente visait la Seine-et-Marne (Île-de-France), donc cette région est exclue par la règle 41.c. Le premier département eligible du classement est le Nord (59, Hauts-de-France, déficit ≈ 4,5, 45 fiches).
+
+**Commune, règle 41.d.** Dans le Nord, les communes les plus peuplées sans fiche sont, dans l'ordre : Wattrelos (40 847), Marcq-en-Barœul (40 184), Cambrai (31 134), Lambersart (27 090), Armentières (26 998), Mons-en-Barœul (21 105), Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe. Toutes ont été sondées à plusieurs reprises dans les passes précédentes sans fiche publiable. Aucune nouvelle source n'a été lue pour elles cette passe : on ne rejoue pas une recherche déjà épuisée sans élément neuf.
+
+**Ce qui a été lu.** Rien de nouveau. Le registre Agence Bio du Nord et les sites des communes ont déjà été parcourus lors des passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Dunkerque, Coudekerque-Branche, Wasquehal).
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq commerces vérifiables sur deux sources indépendantes : les enseignes bio sont des magasins de réseau (règle 3, sans producteur ni source locale), les marchés n'ont pas d'horaires publiés (règle 9 non atteinte pour cinq fiches), et les entrées en vente directe restantes portent des noms de personnes en enseigne (écartées pour doute sur une personne, non nommées, ne se rouvrent pas).
+
+**Constat sur la formule.** Le déficit du Nord reste le plus élevé parce que sa population est grande et que ses fiches sont peu nombreuses à ce jour, mais ses communes ne rendent plus de fiches. La formule reproduit donc ce secteur à chaque passe sans progrès. Ce n'est pas un défaut de la formule à corriger ici (`AGENT.md` est hors périmètre de la passe) : il faut une décision du responsable du site sur ce qu'on fait d'un secteur épuisé.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le Nord (ni l'Île-de-France, règle 41.c) tant qu'une source nouvelle n'existe pas pour Wattrelos ou Cambrai. Si le classement retombe sur le même secteur, la passe doit le dire plutôt que de le resonder.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les traiteurs, les grossistes, les structures sans vente au public, les annuaires participatifs seuls, les enseignes de grande distribution.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
