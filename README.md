@@ -48150,3 +48150,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Le traiteur, les grossistes, les structures sans vente au public, les annuaires participatifs seuls, les enseignes de grande distribution.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-troisième) : Seine-et-Marne (77) visée, Melun sondée, rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (dénominateur national, outre-mer exclu, règle 177 ; 1 304 fiches comptées sur le code postal). La passe précédente visait la Savoie (Auvergne-Rhône-Alpes) : cette région est exclue par la règle 41.c. Les départements déjà fermés ou épuisés par les passes antérieures sont écartés comme dans la passe soixante-septième. Le premier département ouvert est la Seine-et-Marne (77, Île-de-France, déficit ≈ 3,67, 25 fiches), prise sur le classement.
+
+**Commune, règle 41.d.** Meaux (56 905 habitants) est la plus peuplée de Seine-et-Marne sans fiche, déjà sondée en passe précédente sans résultat : on descend. Melun (45 995 habitants) est la suivante sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-et-Marne (première page de 100 opérateurs sur 928) : aucun opérateur déclarant la vente aux particuliers à Melun sur cette page ; un opérateur à Vaux-le-Pénil (hors commune) est signalé, non retenu. La pagination n'a pas été poursuivie.
+- Office de tourisme Seine-et-Marne, fiche « Marché Ermitage » (place de l'Ermitage, dimanche de 7 h 30 à 13 h) : décrit « une dizaine de commerçants alimentaires » sans les nommer. Un marché n'est pas un commerce vérifiable : on ne peut pas inscrire cinq fiches à partir d'une seule fiche collective.
+- Site officiel de la Ville de Melun : page de vérification anti-robot, pas de page « marchés » lisible.
+- Recherche web : un agenda de marchés (ici.fr) et un guide de Melun évoquant des marchés Gaillardon et Mail Balzac, sans horaires datés ; des AMAP ou points de distribution signalés hors commune (Dammarie-les-Lys, Moret-sur-Loing).
+
+**Pourquoi rien n'est publié.** Melun ne rend pas cinq commerces vérifiables sur deux sources indépendantes : un marché collectif, des horaires non datés, des commerçants non nommés. La règle 28 n'accepte pas un groupe inférieur à cinq fiches sur une même commune.
+
+**Pistes non publiées (anonymes, Seine-et-Marne).**
+- Melun, marché de l'Ermitage (dimanche matin, place de l'Ermitage) : existence confirmée par l'office de tourisme, une dizaine de commerçants alimentaires non nommés. **Déblocage** : liste nominative des commerçants fournie par la Ville ou le gestionnaire du marché, avec adresse et horaires.
+- Melun, marchés Gaillardon et Mail Balzac : source unique, horaires non datés. **Déblocage** : page officielle de la Ville sur les marchés.
+- Melun, AMAP de Dammarie-les-Lys et AMAP de Moret-sur-Loing : hors commune, non retenues ici.
+
+**Points d'arrêt.** Passe suivante : Seine-et-Marne reste ouverte. Pontault-Combault (39 096 habitants, sans fiche) est la commune suivante par population ; elle n'a pas été lue cette passe. La passe suivante ne peut pas viser l'Île-de-France (règle 41.c : deux passes de suite ne visent pas la même région).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les traiteurs, les grossistes, les structures sans vente au public, les annuaires participatifs seuls, les enseignes de grande distribution.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
