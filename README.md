@@ -48201,3 +48201,25 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les traiteurs, les grossistes, les structures sans vente au public, les annuaires participatifs seuls, les enseignes de grande distribution.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-cinquième) : Haute-Garonne (31) visée, Muret sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. Les départements d'outre-mer sortent du classement (règle 177 : hors métropole, hors de la validation du build). Le Nord (59, déficit ≈ 4,47) est écarté par la règle 41.c, la passe précédente l'ayant visé. Le 31 (Occitanie, déficit ≈ 3,83) est le premier éligible. La Haute-Garonne compte 24 fiches, dont Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Pibrac et Labège.
+
+**Commune, règle 41.d.** La commune la plus peuplée sans aucune fiche est Muret (26 079 hab.).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, filtré sur Muret : une vingtaine d'opérateurs. La plupart sont des grossistes, des structures sans vente au public ou des enseignes de grande distribution, écartés par MODERATION.md. Trois entrées déclarent la vente aux particuliers ; deux sont des entreprises individuelles désignées par un patronyme (écartées pour doute sur une personne, non nommées, ne se rouvrent pas), la troisième est un débit de bières, hors circuit court.
+- Site officiel de la Ville de Muret : injoignable pendant la passe (code 000). Aucune page marchés relue. Les marchés de Muret ne reposent que sur un annuaire tiers, comme noté dans les passes précédentes.
+
+**Pourquoi rien n'est publié.** Muret ne rend aucun commerce vérifiable sur une source indépendante : pas de producteur confirmé par le registre, pas d'horaires de marché confirmés par la Ville, et le site de la Ville n'a pas répondu.
+
+**Points d'arrêt.** Muret se reprend seulement avec une page de la Ville (jour, heure et lieu des marchés) ou une fiche de producteur active au registre. Si la Ville reste injoignable, la commune suivante sans fiche dans le 31 est à considérer par population. Ne pas viser l'Occitanie deux passes de suite (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Deux, à Muret (entreprises individuelles du registre Agence Bio), non nommées, ne se rouvrent pas.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au public, les enseignes de grande distribution, les annuaires participatifs seuls, les débits de boissons.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
