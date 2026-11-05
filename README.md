@@ -48642,3 +48642,17 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Fiches écartées pour doute sur une personne.** Deux entrées de Carvin, anonymes ci-dessus.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 6 novembre 2026 : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. Classement recalculé : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 5,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6), Oise (60, ≈ 4,4), Yvelines (78, ≈ 4,3), Loire (42, ≈ 4,3), Hérault (34, ≈ 4,3). Le classement est identique à celui de la passe précédente.
+
+**Pourquoi rien n'est publié.** Le Nord et la Haute-Garonne ont une descente close (règle 247). Le Rhône, l'Isère et la Loire sont dans l'Auvergne-Rhône-Alpes, région visitée lors de la passe précédente (règle 41.c). Les Hauts-de-France, dont le Nord et l'Oise, sont la région de la passe précédente, elle aussi exclue par la règle 41.c. Aucun département tiré par la formule n'a donc de descente ouverte, et la formule ne se contourne pas.
+
+**Ce qui a été lu.** Rien de nouveau n'a été trouvé qui débloque une piste déjà consignée. La question ouverte sur l'outre-mer (règles 93 et 177) et sur le secteur épuisé reste celle décrite dans les passes précédentes, à trancher par le responsable du site.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
