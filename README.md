@@ -48351,3 +48351,21 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les enseignes de réseau sans producteur local, les grossistes, les structures sans vente au public, les annuaires participatifs seuls.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-onzième) : Haute-Garonne (31) visée, Muret sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr`, outre-mer exclu (règle 177). Le premier département du classement est le Nord (59), mais la passe précédente visait déjà les Hauts-de-France et le Nord est épuisé (passes 284 à 290) : il n'est pas repris. L'Oise (60), même région, est exclue par la règle 41.c. Le premier département éligible restant est la Haute-Garonne (31, Occitanie, déficit ≈ 3,8, 24 fiches sur le code postal).
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Cugnaux, Blagnac, Auzeville-Tolosane, Cazères, Pibrac, Labège et Le Fousseret ont déjà des fiches. La commune la plus peuplée sans fiche est Muret, déjà sondée à plusieurs passes.
+
+**Ce qui a été lu.** Une recherche web sur les marchés de Muret : l'annuaire nosmarches.com donne un marché alimentaire le samedi de 8 h à 12 h 45, sans source de la Ville ; la Ville, elle, ne publie que des marchés artisanaux et de créateurs, et le site officiel de la mairie n'a pas pu être lu (réponse vide). Le registre Agence Bio du 31 n'offre rien de nouveau pour Muret. Aucune source neuve, donc rien à ajouter.
+
+**Pourquoi rien n'est publié.** Le marché de Muret n'a qu'une source tierce pour ses horaires (règle 55) et les autres pistes du secteur restent sous les seuils des passes précédentes. Une fiche isolée ne fait pas le groupe de cinq.
+
+**Constat.** Le même secteur est repris passe après passe sans source nouvelle. Décision à prendre par le responsable du site : sortir de la commune la plus peuplée sans fiche quand elle est épuisée, ou fixer un seuil de fiches vérifiables avant de compter un département dans la règle 41.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
