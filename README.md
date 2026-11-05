@@ -48470,3 +48470,31 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les enseignes de réseau sans producteur local, les opérateurs à vente exclusivement professionnelle, les grossistes, et Courcelles-lès-Lens (hors commune).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-seizième) : Haute-Corse (2B) reprise, Prunelli-di-Fiumorbo sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une demande en_cours, inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. La passe précédente visait le Pas-de-Calais (Hauts-de-France) : cette région est exclue par la règle 41.c. Le Nord, la Haute-Garonne, l'Oise, la Loire et l'Isère sont clos ou épuisés (règle 247). Premier département éligible du classement : la **Haute-Corse (2B)**, déficit ≈ 3,5, région non visée par la passe précédente.
+
+**Commune, règle 41.d.** Corte, Bastia, Borgo, Biguglia, Furiani, Lucciana, Calvi et Ghisonaccia sont déjà éprouvées dans les passes antérieures. La commune la plus peuplée restante sans fiche est Prunelli-di-Fiumorbo (environ 3 880 habitants), non éprouvée à ce jour.
+
+**Ce qui a été lu.**
+- Recherche web, passe standard, sur Prunelli-di-Fiumorbo : les annuaires de marchés se contredisent. Un marché artisanal aux halles le mardi et le samedi matin (guide de la Corse), un marché le lundi et le mercredi à Migliacciaru (annuaire de marchés), un troisième annuaire n'en référence aucun. Contradiction consignée (règle 5).
+- Recherche web sur la vente directe à Prunelli : une entrée de maraîchage à Migliacciaru avec horaires (annuaire participatif), une horticulture-maraîchère et une distillerie d'huiles essentielles bio (annuaire de producteurs). Aucune de ces entrées n'a de site propre vérifié ni de recoupement au registre.
+- Site de Bienvenue à la Ferme Corse, page produits fermiers : erreur 500 au moment de la lecture. Le réseau officiel n'a pas pu être dépouillé.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne réunit deux sources indépendantes concordantes. Les jours de marché se contredisent, la source officielle du réseau est indisponible, et l'on est loin des cinq fiches vérifiables exigées (règle 52).
+
+**Pistes non publiées (anonymes, Haute-Corse).**
+- Prunelli-di-Fiumorbo, marchés : jours contradictoires entre trois annuaires. **Déblocage** : page officielle de la commune ou fiche de l'office de tourisme.
+- Prunelli-di-Fiumorbo, maraîchage en vente directe (Migliacciaru) : une entrée d'annuaire avec horaires, sans site ni registre recoupé. **Déblocage** : site propre du producteur ou fiche du réseau Bienvenue à la Ferme.
+- Haute-Corse, entrée de vente directe au nom d'une personne physique (annuaire de producteurs, hors Prunelli) : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Corse (région 94) de suite : règle 41.c. Le 2B reste ouvert ; à la prochaine passe qui y revient, Prunelli-di-Fiumorbo reprend si un déblocage est publié, sinon la commune suivante par population, et la page Bienvenue à la Ferme Corse est relue dès qu'elle répond.
+
+**Fiches écartées pour doute sur une personne.** Une, en Haute-Corse (anonyme, ci-dessus).
+
+**Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les enseignes de grande distribution, les caves sans point de vente vérifié, la distillerie d'huiles essentielles (hors alimentation).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
