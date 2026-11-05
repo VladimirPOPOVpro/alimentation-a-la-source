@@ -48557,3 +48557,35 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** La passe suivante ne vise pas la Savoie de suite si elle la reprend sans déblocage. Albertville reste la commune en cours avec le magasin de producteurs comme première fiche, à publier dès que le groupe de cinq est atteint. Sinon, la formule désigne la Savoie et la descente continue à La Motte-Servolex (12 067 habitants) après Albertville et Aix-les-Bains (règle 247).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-dix-neuvième) : Haute-Corse (2B) visée, Prunelli-di-Fiumorbo reprise, Penta-di-Casinca sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, dénominateur national (règle 224), 1 304 fiches. La passe précédente visait la Savoie (Auvergne-Rhône-Alpes) : cette région est exclue par la règle 41.c. Les départements clos ou épuisés restent écartés (Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Saint-Denis, Val-de-Marne, Yvelines, Bas-Rhin, Ille-et-Vilaine). Premier département ouvert du classement : la **Haute-Corse (2B)**, déficit ≈ 3,5, dont la descente est ouverte depuis la passe 296.
+
+**Commune, règle 41.d.** Les communes déjà éprouvées sont écartées (Bastia, Corte, Borgo, Biguglia, Furiani, Lucciana, Calvi, Ghisonaccia). Prunelli-di-Fiumorbo (3 880 habitants) reprise, puis Penta-di-Casinca (3 671 habitants), commune suivante par population.
+
+**Ce qui a été lu.**
+- Recherche sur Prunelli-di-Fiumorbo : un marché des halles, décrit par un article de presse régionale (produits frais et artisanat), sans jours ni horaires ; un marché de Migliacciaru, tenu toute l'année selon une fiche touristique, sans jour ni horaire. Rien de vérifié sur une source de la commune.
+- Recherche sur Penta-di-Casinca : aucun marché ni point de vente de producteurs trouvé.
+- Recherche Haute-Corse, circuits courts : La Ferme Corse (Lucciana, route de l'Aéroport), magasin de producteurs, mais aucun horaire 2026 lu ; A Robba Paisana (Corte), point de vente collectif, sans horaires lus ; deux producteurs référencés à Calvi, sans horaires. Ces pistes sont hors commune retenue et ne sont pas reprises ici.
+- Vescovato : seul marché recensé, une brocante hebdomadaire, hors sujet.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe ne rend cinq commerces vérifiables sur deux sources indépendantes, avec horaires confirmés. Les marchés n'ont ni jours ni heures sur une source de la commune. La règle 28 n'accepte pas un groupe de fiches inférieur à cinq sur une même commune.
+
+**Pistes non publiées (Haute-Corse).**
+- Prunelli-di-Fiumorbo, marché des halles : existence seulement, jours et horaires absents. **Déblocage** : page de la commune ou de l'office de tourisme donnant jours, horaires et lieu.
+- Prunelli-di-Fiumorbo, marché de Migliacciaru : fiche touristique annuelle, sans jour ni horaire. **Déblocage** : source de la commune.
+- Lucciana, La Ferme Corse : magasin de producteurs listé par un annuaire, horaires 2026 non lus. **Déblocage** : site ou fiche propre du magasin donnant ses horaires, avec téléphone.
+- Corte, A Robba Paisana : point de vente collectif, horaires non lus. **Déblocage** : horaires publiés par le point de vente.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** La Haute-Corse reste ouverte. Prochaine passe qui y revient : Penta-di-Casinca est épuisée (aucune piste trouvée) ; reprendre Prunelli-di-Fiumorbo seulement si une source de la commune donne un marché daté. Sinon Vescovato (3 406 habitants) est la commune suivante par population, après une lecture des pages de la commune. La passe suivante ne vise pas la Corse (règle 41.c).
+
+**Contradictions.** Aucune.
+
+**Ce qui a été volontairement laissé de côté.** La brocante de Vescovato, les annuaires participatifs seuls, les marchés de Noël, les personnes physiques désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
