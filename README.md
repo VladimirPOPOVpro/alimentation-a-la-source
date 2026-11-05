@@ -48425,3 +48425,17 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les marchés généralistes, les forains sans producteur identifié, les supermarchés, les services, les annuaires participatifs seuls.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-quatorzième) : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Une demande en_cours, inchangée.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes), 1 304 fiches, outre-mer exclu (règle 93). Classement métropolitain : Nord (59, ≈ 4,5) écarté, sa descente est close (plus de douze communes éprouvées, règle 247) ; Haute-Garonne (31, ≈ 3,8) écartée, descente close ; Oise (60, ≈ 3,7) écarte, douze communes éprouvées ; Isère (38, ≈ 3,6) et Loire (42, ≈ 3,6) écartées par la règle 41.c, la Loire étant la région de la passe précédente.
+
+**Ce qui a été lu.** Rien de neuf : la commune la plus peuplée restante de l'Oise, Nogent-sur-Oise (21 907), a déjà été criblée lors de la passe de l'Oise, où la Ville répond derrière un défi anti-robot (règle 212) ; le registre bio du 60 (première page) ne livre aucun nouvel opérateur utilisable dans les communes de la descente.
+
+**Pourquoi rien n'est publié.** Aucun département tiré par la formule n'a de descente ouverte : publier cinq fiches supposerait de sortir de la règle 247 ou de la règle 41.c, ce que la formule interdit. Aucun fait nouveau n'a été trouvé qui débloque une piste déjà consignée.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
