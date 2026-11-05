@@ -48439,3 +48439,34 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-quinzième) : Pas-de-Calais (62) reprise, Hénin-Beaumont sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (voir les passes précédentes) : doute sur une personne, rien n'est publié, aucun email n'est envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente ne visait aucune région (passe 294) ; la règle 41.c ne bloque donc que la région de la passe 293, l'Auvergne-Rhône-Alpes. Le Nord, la Haute-Garonne, le Rhône, l'Isère, l'Oise, les Yvelines, le Val-de-Marne, la Seine-Saint-Denis, l'Hérault et la Loire sont écartés (épuisés ou closes par la règle 247, ou région exclue par la règle 41.c). Premier département ouvert du classement : le **Pas-de-Calais (62)**, déficit ≈ 3,7, dont la descente avait été ouverte à la passe 292 à Hénin-Beaumont.
+
+**Commune, règle 41.d.** Hénin-Beaumont (25 688 habitants) reste la commune la plus peuplée du 62 sans fiche, déjà ouverte à la passe 292.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville d'Hénin-Beaumont : ce jour, le site répond « site web indisponible, suspendu » (hébergeur OVHcloud). La page marchés ne peut donc pas être lue. Une source officielle manque.
+- Recherche web (une passe, standard) : un annuaire de marchés indique un marché le mardi et le vendredi matin sur les deux grandes places du centre-ville, sans horaires précis ni producteurs. Il s'agit d'un avis d'utilisateur, non d'une source officielle.
+- Aucun producteur local vérifié n'a été trouvé dans la commune ; aucun site de producteur n'a été ouvert, faute de piste solide.
+- Pas de géocodage BAN ni de fiche rédigée : aucun candidat ne tient deux sources indépendantes et concordantes.
+
+**Pourquoi rien n'est publié.** La seule source institutionnelle est suspendue ; le marché du dimanche relevé en passe 292 et le marché du mardi-vendredi de l'annuaire ne concordent pas (règle 5) ; aucun producteur ni commerce vérifiable n'est atteint, loin des cinq fiches exigées (règle 52).
+
+**Contradictions consignées.** Marchés d'Hénin-Beaumont : jours différents selon les sources (dimanche selon la passe 292 ; mardi et vendredi selon l'annuaire). Une seule source ne suffit pas.
+
+**Pistes non publiées (anonymes, Pas-de-Calais).**
+- Hénin-Beaumont, marchés des places centrales : jours et horaires contradictoires. **Déblocage** : site officiel de la Ville rétabli, ou fiche de l'office de tourisme.
+- Hénin-Beaumont, producteurs locaux : aucune piste vérifiable à ce jour.
+- Hénin-Beaumont, entrée de vente directe au nom d'une personne physique (registre Agence Bio, passe 292) : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Points d'arrêt.** Passe suivante : le Pas-de-Calais reste ouvert. Reprendre la page marchés de la Ville dès que le site est de nouveau accessible. Si le site reste suspendu, la commune suivante du 62 par population sans fiche (Hénin-Beaumont exclue) prend le relais, à éprouver selon la règle 41.d.
+
+**Fiches écartées pour doute sur une personne.** Une, à Hénin-Beaumont (anonyme, ci-dessus).
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les enseignes de réseau sans producteur local, les opérateurs à vente exclusivement professionnelle, les grossistes, et Courcelles-lès-Lens (hors commune).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
