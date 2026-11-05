@@ -48635,7 +48635,7 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 - Carvin, entrée de production en vente directe au nom d'une personne physique (registre Agence Bio) : écartée pour doute sur une personne, ne se rouvre pas.
 - Carvin, entrée de production en vente directe au nom d'une personne physique, deuxième occurrence : même motif, même traitement.
 
-**Contradiction consignée.** Le paragraphe Secteur de la passe 294 range Saint-Omer parmi les communes déjà pourvues en fiche ; `data/marchands.json` ne contient aucune fiche au code postal 62500. Une vérification est à faire avant de considérer Saint-Omer comme couverte. Aucune fiche n'est ajoutée sur ce point.
+**Contradiction consignée.** La passe du 5 novembre (deux cent quatre-vingt-douzième) range Saint-Omer parmi les communes déjà pourvues en fiche ; `data/marchands.json` ne contient aucune fiche au code postal 62500. Une vérification est à faire avant de considérer Saint-Omer comme couverte. Aucune fiche n'est ajoutée sur ce point.
 
 **Points d'arrêt.** Passe suivante : le Pas-de-Calais reste ouvert. Reprendre Hénin-Beaumont dès que le site de la Ville est de nouveau accessible. Sinon, Bruay-la-Buissière est éprouvée (une commune de la descente, règle 247) et la descente passe à Carvin, puis à Avion. La décision sur l'outre-mer et sur le secteur épuisé reste celle décrite dans les passes précédentes.
 
