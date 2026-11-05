@@ -48250,3 +48250,31 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les logisticiens, les enseignes de grande distribution, les enseignes de restauration et d'équipement, les annuaires participatifs seuls.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-septième) : Seine-Maritime (76) visée, Le Petit-Quevilly, Fécamp et Grand-Quevilly sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente (doute sur une personne, voir les passes précédentes) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, dénominateur national, outre-mer exclu, règle 177 ; 1 304 fiches comptées sur le code postal). La passe précédente visait la Seine-et-Marne (Île-de-France) : cette région est exclue par la règle 41.c. Les départements déjà fermés ou épuisés restent écartés (Nord, Haute-Garonne, Rhône, Isère, Loire, Hérault, Seine-Saint-Denis, Val-de-Marne, Yvelines, Oise, Calvados, Ille-et-Vilaine, Bas-Rhin). Premier département éligible : la Seine-Maritime (76, Normandie, déficit ≈ 3,85, 21 fiches). Savoie et Haute-Corse ont déjà été visitées ; la Seine-Maritime, elle, n'a été visée qu'à quelques passes d'ici, avec une borne de communes encore ouverte.
+
+**Commune, règle 41.d.** Les communes les plus peuplées de Seine-Maritime sans aucune fiche sont Le Petit-Quevilly (22 208 habitants), Fécamp (17 313), Le Grand-Quevilly (25 789) et Montivilliers (15 478). Les trois premières sont lues cette passe.
+
+**Ce qui a été lu.**
+- Le Petit-Quevilly : une seule source relève un marché de producteurs, boulevard Stanislas-Girardin, le samedi de 9 h 30 à 12 h 30, par le témoignage d'un maraîcher publié par la Ville en mars 2021. Aucune page de la Ville datée de 2026 ne le confirme. Une seule source, et ancienne : rien n'est publié.
+- Fécamp : le marché du samedi près de l'église Saint-Étienne est signalé par l'office de tourisme départemental, sans horaires. Le point de vente de poisson de la rue du Commandant-Riondel est listé avec ses horaires (vendredi et samedi, 9 h à 12 h 30 puis 15 h à 19 h, fermé le dimanche) : une fiche possible, mais une seule fiche ne fait pas la cible de cinq ; le registre et le site du commerce ne sont pas encore recoupés.
+- Le Grand-Quevilly : un guide de voyage indique un marché le mardi et le vendredi, source secondaire et non datée ; la Ville n'est pas relue. L'AMAP locale fonctionne par paniers, sans lieu de marché.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes. La piste la plus solide, à Fécamp, n'en donne qu'une fiche.
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Le Petit-Quevilly, marché de producteurs du boulevard Stanislas-Girardin (samedi matin) : existence signalée, horaires d'une source de 2021. **Déblocage** : page de la Ville ou du marché datée de 2026, avec horaires.
+- Fécamp, poissonnerie de la rue du Commandant-Riondel (vendredi et samedi) : horaires publiés par l'office de tourisme départemental. **Déblocage** : registre des entreprises actif, site ou fiche propre du commerce, et au moins quatre autres commerces vérifiables dans la commune.
+- Le Grand-Quevilly : jours de marché non confirmés. **Déblocage** : page de la Ville ou de Grand Quevilly développement.
+
+**Points d'arrêt.** Passe suivante : la Seine-Maritime reste ouverte, avec la borne de douze communes (règle 247) à compter d'aujourd'hui pour Le Petit-Quevilly, Fécamp et Le Grand-Quevilly. Ne pas revenir en Île-de-France (règle 41.c). Si la commune suivante sans fiche doit être prise par population, Montivilliers est la prochaine à lire.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les enseignes de grande distribution (Aldi, Carrefour Market, Grand Frais, Picard), les chaînes bio en réseau, les annuaires participatifs seuls, les offres d'emploi.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
