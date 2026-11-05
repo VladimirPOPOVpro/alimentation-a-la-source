@@ -48620,3 +48620,25 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (Pas-de-Calais reprise, Bruay-la-Buissière et Carvin sondées) : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié à son sujet, aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. La passe précédente visait l'Auvergne-Rhône-Alpes, région exclue par la règle 41.c. Le Pas-de-Calais (62) reste le premier département ouvert, déficit ≈ 3,7, descente ouverte à Hénin-Beaumont.
+
+**Commune, règle 41.d.** Hénin-Beaumont reste bloquée : le site de la Ville est suspendu (pas de page marchés lisible) et les horaires des marchés se contredisent entre sources. Le relais va à la commune suivante du 62 par population sans fiche : **Bruay-la-Buissière** (21 424 habitants), puis Carvin (17 909) et Avion (17 435).
+
+**Ce qui a été lu.** Registre Agence Bio du 62, 400 opérateurs lus sur 4 pages de cent (pagination non épuisée). Bruay-la-Buissière : un seul opérateur sur la commune, de préparation et distribution, sans vente aux particuliers. Carvin : cinq opérateurs ; ceux qui vendent aux particuliers sont des entrées au nom de personnes physiques (écartées pour doute sur une personne, ne se rouvrent pas) et une EARL de restauration commerciale, sans vente directe au public ; le reste est du stockage ou de la distribution en gros. Avion : un seul opérateur, de préparation, sans vente aux particuliers. Aucun commerce de détail vérifiable n'a été trouvé dans ces trois communes, et aucune recherche web n'a donné de source institutionnelle lisible.
+
+**Pistes non publiées (anonymes, Pas-de-Calais).**
+- Carvin, entrée de production en vente directe au nom d'une personne physique (registre Agence Bio) : écartée pour doute sur une personne, ne se rouvre pas.
+- Carvin, entrée de production en vente directe au nom d'une personne physique, deuxième occurrence : même motif, même traitement.
+
+**Contradiction consignée.** Le paragraphe Secteur de la passe 294 range Saint-Omer parmi les communes déjà pourvues en fiche ; `data/marchands.json` ne contient aucune fiche au code postal 62500. Une vérification est à faire avant de considérer Saint-Omer comme couverte. Aucune fiche n'est ajoutée sur ce point.
+
+**Points d'arrêt.** Passe suivante : le Pas-de-Calais reste ouvert. Reprendre Hénin-Beaumont dès que le site de la Ville est de nouveau accessible. Sinon, Bruay-la-Buissière est éprouvée (une commune de la descente, règle 247) et la descente passe à Carvin, puis à Avion. La décision sur l'outre-mer et sur le secteur épuisé reste celle décrite dans les passes précédentes.
+
+**Fiches écartées pour doute sur une personne.** Deux entrées de Carvin, anonymes ci-dessus.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
