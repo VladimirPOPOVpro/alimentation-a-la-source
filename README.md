@@ -48604,3 +48604,19 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** La brocante de Vescovato, les annuaires participatifs seuls, les marchés de Noël, les personnes physiques désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (trois centième) : aucune fiche publiée, blocage structurel signalé
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41 et 177.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. Le déficit le plus élevé de tout le classement est La Réunion (974, ≈ 16,8), puis les autres départements d'outre-mer. Ils sont exclus par la règle 177 (métropole seule) : `lib/validateMerchants.ts` refuse les coordonnées hors métropole, et lever cette garde relève du code, donc du responsable du site.
+
+**Premier département métropolitain du classement.** Nord (59, ≈ 6,5 sur le dénominateur métropolitain), puis Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93), Oise (60), Yvelines (78), Loire (42), Hérault (34)… Tous sont écartés par les règles 41.c et 247 (régions visées récemment, descentes closes ou épuisées). Aucune descente n'est ouverte dans le département tiré par la formule : publier cinq fiches supposerait de sortir de ces règles.
+
+**Pourquoi rien n'est publié.** Pas de nouvelle source trouvée qui débloque une piste déjà consignée. La formule, appliquée littéralement, pointe vers l'outre-mer (hors périmètre de cette passe) puis vers des départements clos par la règle 247.
+
+**Question ouverte pour le responsable du site (hors périmètre de la passe).** Faut-il ouvrir la carte à l'outre-mer (validation des coordonnées dans `lib/validateMerchants.ts`), ou garder la métropole seule ? Tant que la réponse n'est pas donnée, la formule continuera de désigner des départements sans descente ouverte.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
