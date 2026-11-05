@@ -48305,3 +48305,29 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les enseignes bio de réseau et de grande distribution, les grossistes, les annuaires participatifs seuls, les brocantes.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-neuvième) : Haute-Garonne (31) reprise, Grenade sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». Aucun email envoyé.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, outre-mer exclu, règle 177 ; 1 304 fiches comptées sur le code postal). La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Le premier département métropolitain éligible est la Haute-Garonne (31, Occitanie, déficit ≈ 3,8). Commune : les communes les plus peuplées sans fiche ont déjà été sondées à plusieurs passes (règle 247) ; la descente retient Grenade (9 062 habitants), puis Aucamville et Beauzelle.
+
+**Ce qui a été lu.**
+- Grenade, marché hebdomadaire : le site de la mairie (page « Marchés et Foires ») donne le samedi matin, place Jean-Moulin, des installations « dès 6 h », sous la halle ; il parle de « grand marché paysan », avec légumes, fruits, fromages, pain, charcuterie, miel et olives. La fin des horaires n'est pas indiquée sur la page.
+- Grenade, Biocoop « Vivez Nature » (route de Toulouse) : existence confirmée par plusieurs annuaires et une fiche touristique régionale. Horaires et téléphone ne viennent que d'un annuaire tiers (bible-marques.fr) ; aucune page du magasin ou de l'enseigne ne les confirme. Pas de photo honnête trouvée.
+- Grenade, vente à la ferme : aucune exploitation de la commune trouvée sur Bienvenue à la Ferme. Le registre Agence Bio ne livre que des personnes physiques en entreprise individuelle (non nommées), des grossistes ou des structures sans vente au public. Un point de retrait local.direct existe à Grenade, mais les producteurs sont hors commune : non retenu.
+- Aucamville : deux communes homonymes (31140 et 82600) ; le seul marché trouvé est celui d'un site participatif (Tarn-et-Garonne), et le point de retrait de la Ruche Qui Dit Oui, à horaires par annuaire. Rien de confirmé.
+
+**Pourquoi rien n'est publié.** Une seule fiche solide (le marché de Grenade) ne fait pas la cible de cinq commerces vérifiables dans une même commune, et les autres pistes de Grenade ne passent pas la vérification (horaires d'annuaire tiers, pas de photo honnête, pas de producteur vérifié dans la commune). Le marché reste en piste, avec son déblocage ci-dessous.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Grenade, marché hebdomadaire du samedi (halle, place Jean-Moulin) : jour, heure de début et lieu confirmés par la mairie. **Déblocage** : heure de fin, et au moins quatre autres commerces vérifiés à Grenade (producteurs en vente directe, ou le magasin Biocoop avec ses horaires confirmés par le magasin ou sa page officielle). Photo candidate : la photo de la page « Marchés et Foires » de la mairie, sans visage reconnaissable.
+- Grenade, Biocoop « Vivez Nature » : horaires à confirmer auprès du magasin. **Déblocage** : horaires vérifiés par une seconde source, et une photo honnête.
+
+**Points d'arrêt.** Passe suivante : la Haute-Garonne reste ouverte mais la règle 41.c éloigne l'Occitanie si la passe précédente y était ; Grenade reprise en priorité avec les pistes ci-dessus.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio à Grenade et Aucamville, en entreprise individuelle : non nommées, non reprises.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les enseignes de grande distribution, les annuaires participatifs seuls, les brocantes et les marchés de fêtes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
