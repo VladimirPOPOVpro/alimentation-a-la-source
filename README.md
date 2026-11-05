@@ -48369,3 +48369,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-douzième) : Pas-de-Calais (62) visé, Hénin-Beaumont sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à traiter. Aucun email envoyé.
+
+**Secteur, règles 41 et 41.c.** Calcul refait sur `geo.api.gouv.fr` (métropole seule, règle 177 ; 1 304 fiches comptées sur le code postal). Le Nord (59) reste exclu : il est épuisé depuis les passes 284 à 290 et la décision sur le secteur épuisé n'est pas tranchée. La Haute-Garonne (31) est exclue par la réserve de la règle 41.c, puisqu'elle a été visée à la passe précédente. Les départements déjà éprouvés ou fermés sont écartés (Isère, Loire, Oise, Rhône, Savoie, Seine-et-Marne, Seine-Maritime, Yvelines, etc.). Premier département éligible du classement : le **Pas-de-Calais (62)**, Hauts-de-France, déficit ≈ 3,7, 25 fiches, aucune visite récente dans cette région hors Nord.
+
+**Commune, règle 41.d.** Calais, Arras, Boulogne-sur-Mer, Lens, Liévin, Béthune et Saint-Omer ont déjà des fiches. La plus peuplée sans fiche est **Hénin-Beaumont** (25 688 habitants, 0 fiche). Premier passage sur cette commune.
+
+**Ce qui a été lu.**
+- jours-de-marche.fr (annuaire participatif) : deux marchés à Hénin-Beaumont, place de la République (mardi et vendredi, 8 h à 13 h) et place Wagon (mardi et vendredi, 9 h à 12 h). Le site se déclare participatif et n'est pas une source institutionnelle.
+- Publication Facebook de la Ville citée par une recherche : un marché fermier à Beaumont les 1er et 3e dimanches du mois, et un marché du dimanche à 16 commerçants. Les jours ne concordent pas avec l'annuaire participatif : contradiction consignée, aucun des deux jours n'est retenu (règle 5).
+- Registre Agence Bio du 62, lu sur les trois premières pages de cent : aucun opérateur à adresse d'Hénin-Beaumont ne déclare de vente aux particuliers, hormis une entrée au nom d'une personne physique (voir ci-dessous).
+- Recherche web sur les magasins de producteurs : un magasin de vente directe (produits locaux et bio) est recensé à Courcelles-lès-Lens, hors commune, dans le même bassin. Son site n'a pas été ouvert.
+
+**Pourquoi rien n'est publié.** Aucune fiche d'Hénin-Beaumont n'a deux sources indépendantes lisibles sur ses horaires ; la page marchés de la Ville n'a pas été lue ; aucun producteur local vérifié n'est trouvé dans la commune. Une fiche isolée ne fait pas le groupe de cinq (règle 52).
+
+**Pistes non publiées (anonymes, Pas-de-Calais).**
+- Hénin-Beaumont : marché de la place de la République et marché de la place Wagon (horaires contradictoires entre sources, à recouper sur le site de la Ville) ; marché du dimanche de Beaumont (source sociale seule).
+- Hénin-Beaumont : une entrée de vente directe au nom d'une personne physique, relevée au registre Agence Bio : écartée pour doute sur une personne, ne se rouvre pas.
+- Courcelles-lès-Lens (hors commune, même bassin) : magasin de vente directe de produits locaux et bio, à reprendre si le site du magasin ou la Ville confirme ses horaires.
+
+**Points d'arrêt.** Passe suivante : Hénin-Beaumont reste ouverte. Reprendre d'abord la page marchés de la Ville et les deux marchés de la place de la République et de la place Wagon. Ne reprendre le Nord qu'après la décision sur le secteur épuisé.
+
+**Fiches écartées pour doute sur une personne.** Une, à Hénin-Beaumont (anonyme, ci-dessus).
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces et leurs drives, les enseignes de réseau sans producteur local, les opérateurs à vente exclusivement professionnelle, les grossistes.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
