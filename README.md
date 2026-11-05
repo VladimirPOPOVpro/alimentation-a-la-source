@@ -48530,3 +48530,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les magasins de distribution et les entrées de préparation, les cidreries sans vente au public vérifiée, les événements saisonniers.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 5 novembre 2026 (deux cent quatre-vingt-dix-huitième) : Savoie (73) reprise, Albertville sondée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c et 177.** Calcul refait : la passe précédente visait le Calvados (Normandie), donc la Normandie est exclue. La Haute-Corse n'est plus exclue (la passe précédente n'était pas la Corse), mais la Savoie, déficit ≈ 3,48, reste devant. Les départements closes ou épuisés sont écartés. La Savoie est reprise sur sa descente.
+
+**Commune, règle 41.d.** Aix-les-Bains reste sans fiche mais n'a aucun second point vérifiable (passe 282). Albertville est la commune suivante.
+
+**Ce qui a été lu.**
+- Office de tourisme du Pays d'Albertville, fiche « Saveurs de nos fermes » : magasin de producteurs, neuf producteurs associés, ouvert du mercredi au samedi de 8 h 30 à 19 h.
+- Site Courchevel.com (fiche de la même enseigne) : mercredi à samedi, 8 h 30 à 19 h, toute l'année. Concorde avec la source touristique.
+- Que Choisir (carte circuit court) : mardi au samedi, 8 h 30 à 19 h. Contradiction sur le jour de début, tranchée par la règle 5 en faveur des deux sources concordantes.
+- Marchés : jds.fr signale un marché alimentaire le jeudi (place Antoine Borrel), un marché le samedi sans lieu ni horaire, et un marché alimentaire et manufacturier le mercredi au parc du Val des Roses, dont la date de validité ne couvre que 2025 selon une fiche et jusqu'au 31 décembre 2026 selon une autre. Aucune page officielle de la Ville n'a pu être lue.
+
+**Pourquoi rien n'est publié.** Une seule fiche de commerce est solide (le magasin de producteurs, sur deux sources concordantes pour ses horaires). Les marchés n'ont ni heures, ni source de la Ville. Albertville n'atteint donc pas le groupe de cinq fiches vérifiées sur une même commune (règle 28). Le téléphone du magasin n'est pas repris : il ne vient que d'un annuaire tiers, et le site du commerce n'a pas été relu.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Albertville, magasin de producteurs « Saveurs de nos fermes » : horaires concordants sur deux sources, téléphone et site du commerce non vérifiés. **Déblocage** : quatre autres commerces de la commune, ou une fiche propre du magasin avec téléphone.
+- Albertville, marchés du jeudi, du mercredi et du samedi : jours seulement. **Déblocage** : page officielle de la Ville sur les marchés, avec heures.
+- Aix-les-Bains, marché couvert (mercredi et samedi) : une source touristique. Reprise inchangée (passe 282).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** La passe suivante ne vise pas la Savoie de suite si elle la reprend sans déblocage. Albertville reste la commune en cours avec le magasin de producteurs comme première fiche, à publier dès que le groupe de cinq est atteint. Sinon, la formule désigne la Savoie et la descente continue à La Motte-Servolex (12 067 habitants) après Albertville et Aix-les-Bains (règle 247).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
