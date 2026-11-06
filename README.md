@@ -48926,3 +48926,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Le Bas-Rhin est épuisé à ses premières communes par population (règle 247 : la descente s'arrête) ; la passe suivante ne le revisite pas avant un déblocage nommé. Le classement suivant, hors Normandie (14) : Seine-et-Marne (77, 3,69), puis Seine-Maritime (76) ou Vienne (86), selon les régions déjà visées.
 
 ---
+
+### Passe autonome du 6 novembre 2026 (douzième) : Calvados (14) repris à Mondeville, aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande en cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, dénominateur national (règle 224), 1 304 fiches comptées sur le code postal. La passe précédente visait le Bas-Rhin (Grand Est) : la région est exclue par la règle 41.c. Clos ou épuisés, et donc écartés du classement : Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Loire, Hérault, Yvelines, Val-de-Marne, Pas-de-Calais, Ille-et-Vilaine (quatre communes déjà éprouvées). Premier département ouvert hors Grand Est : le **Calvados (14)**, déficit ≈ 3,98, devant la Seine-et-Marne (3,93) et la Seine-Maritime (3,85).
+
+**Commune, règle 41.d.** Lisieux, Hérouville-Saint-Clair, Bayeux et Ifs ont déjà été éprouvées sans zone. Commune suivante par population sans fiche : **Mondeville** (10 331 habitants).
+
+**Ce qui a été lu.**
+- Recherche web sur Mondeville (marchés, magasins de producteurs) : un seul magasin de producteurs identifié, dont l'enseigne comporte un prénom : doute sur une personne, écarté, ne se rouvre pas. Aucun horaire de marché confirmé par une source de la Ville ; jours-de-marche.fr signale un seul marché, sans jour ni heure.
+- Site de la commune (`mondeville.fr`) ouvert dans le navigateur, sans résultat exploitable pour les commerces de producteurs.
+- Passes précédentes sur Mondeville : marché du jeudi documenté par la Ville, images fermées, une ferme maraîchère à enseigne prénom déjà écartée.
+
+**Pourquoi rien n'est publié.** Mondeville ne rend pas un commerce de producteurs vérifiable hors une fiche écartée pour doute sur une personne, et son marché n'a ni horaires ni photo libres confirmés. Le groupe de cinq n'est pas atteint, ni la règle 52 (quatre points au moins). La descente de la règle 41.d reprendrait à Caen (agglomération), sans autre commune de la même zone déjà éprouvée ; ce travail n'a pas été fait dans cette passe.
+
+**Pistes non publiées (anonymes, Calvados).**
+- Mondeville, marché du jeudi en centre-ville : horaires publiés par la Ville, aucune photo libre. **Déblocage** : photo du lieu sous licence compatible, et deux autres commerces vérifiés à Mondeville ou dans l'agglomération caennaise.
+- Mondeville, magasin de la ferme à enseigne prénom : doute sur une personne, écarté. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Mondeville (anonyme, ci-dessus).
+
+**Points d'arrêt.** Calvados reste ouvert. Prochaine passe qui y revient : agglomération de Caen, à éprouver commune par commune par population après Mondeville (Caen elle-même, puis Hérouville déjà bloquée). Les règles 265 et 247 restent à vérifier avant d'y revenir, la passe de septembre ayant déclaré le Calvados épuisé.
+
+**Contradictions.** Le Calvados est déclaré épuisé dans les passes du 25 septembre 2026 (règle 265) et rouvert dans les passes du 6 novembre. Non tranchée ici : la passe retient la réouverture la plus récente.
+
+**Ce qui a été volontairement laissé de côté.** Les enseignes à prénom, les grossistes, les structures sans vente au public et les entreprises individuelles désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
