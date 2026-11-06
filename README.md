@@ -48682,3 +48682,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Passe suivante : le Pas-de-Calais reste ouvert, reprendre Saint-Omer en priorité (marchés : vérifier les horaires 2026 sur le site de la Ville ou sur tourisme-saintomer.com ; Biocoop : localisateur officiel). Si Saint-Omer ne rend toujours pas cinq fiches, Outreau est la commune suivante. Le total de douze communes de la règle 247 est proche : après Saint-Omer et Outreau, la descente s'arrête et la passe prend le département suivant.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (troisième) : Pas-de-Calais (62) repris, Saint-Omer éprouvée à nouveau : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. Classement : Nord (59, ≈ 6,5), Haute-Garonne (31, ≈ 5,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6), Oise (60, ≈ 4,4), Yvelines (78, ≈ 4,3), Loire (42, ≈ 4,3), Hérault (34, ≈ 4,3). Les départements clos par la règle 247 sont écartés ; le Pas-de-Calais (62, ≈ 3,7, 25 fiches) reste le premier département ouvert, sa descente étant en cours depuis la passe du 6 novembre (seconde).
+
+**Commune, règle 41.d.** Saint-Omer (14 382 habitants) reste la commune de la descente. Quatrième entrée de la passe dans ce département, après Hénin-Beaumont, Bruay-la-Buissière, Carvin, Avion et Lens déjà éprouvées ; la limite de douze communes de la règle 247 approche.
+
+**Ce qui a été lu.**
+- Office de tourisme de Saint-Omer, agenda des marchés : marché du centre-ville (samedi, 8 h à 12 h 30, place du Maréchal-Foch) et marché du Haut-Pont (jeudi, 8 h à 13 h, place de la Ghière) annoncés avec une date de fin au 26 et au 24 septembre 2026 ; marché Perpignan (mercredi, 8 h à 13 h) sans date de fin lisible ; marché Saint-Exupéry (mardi) limité à deux séances ponctuelles de juin. Aucune page de la Ville de Saint-Omer n'a pu être lue.
+- Recherche web sur les producteurs et les magasins bio : une ferme-épicerie de Helfaut (commune voisine, hors Saint-Omer) vend le vendredi sur place et le samedi au marché de la Ville ; un magasin bio et des Biocoop sont signalés dans l'annuaire sans adresse ni horaires confirmés ; aucune AMAP n'est recensée dans la commune.
+
+**Pourquoi rien n'est publié.** Les trois marchés ont leur période de validité close avant la date de la passe (novembre 2026) : leurs horaires ne sont pas confirmés pour la saison en cours (règles 5 et 9). La ferme-épicerie se situe hors commune (règle 96 : elle n'entre pas dans le groupe de cinq). Le Biocoop et le magasin bio n'ont ni adresse ni horaires confirmés. Saint-Omer n'arrive pas à cinq fiches vérifiables.
+
+**Pistes non publiées (anonymes, Saint-Omer et environs).**
+- Saint-Omer, trois marchés hebdomadaires : jours connus par l'office de tourisme, validité 2026 close. **Déblocage** : page de la Ville ou de l'office donnant les horaires de la saison en cours.
+- Saint-Omer, magasin bio mentionné par un annuaire, sans adresse : **Déblocage** : adresse et horaires publiés par le commerce.
+- Helfaut, ferme-épicerie (vente sur place le vendredi, marché de Saint-Omer le samedi) : hors commune de la descente. **Déblocage** : tour de la commune de Helfaut, ou passe qui la retient comme commune calculée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le Pas-de-Calais reste ouvert ; reprendre Saint-Omer en priorité si la Ville publie les horaires 2026 de ses marchés. Sinon Outreau (13 138 habitants) est la commune suivante par population, dans la limite de douze communes de la règle 247.
+
+**Contradictions.** Aucune.
+
+**Ce qui a été volontairement laissé de côté.** Les marchés de Noël, les brocantes, les épiceries sans certificat vérifié, et les personnes physiques désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
