@@ -48656,3 +48656,29 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé.
+
+## Passe autonome du 6 novembre 2026 (seconde) : Pas-de-Calais (62) repris, Saint-Omer sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches. Le Pas-de-Calais reste le premier département ouvert du classement (déficit ≈ 3,7). Correction de lecture : la règle 41.c ne bloque que la région visée par la passe précédente **avec publication**. La dernière publication date du 1er novembre (Haute-Garonne) ; les passes qui n'ont rien publié ne « visent » donc aucune région. La réserve de Hauts-de-France, invoquée dans la passe de ce matin, ne tient pas. Les départements fermés par la règle 247 restent écartés (Nord, Haute-Garonne, Rhône, Isère, Oise, Loire, Yvelines, Seine-Saint-Denis, Hérault, Val-de-Marne).
+
+**Commune, règle 41.d.** Contrôle au code postal : aucune fiche en 62500. **Saint-Omer (14 382 habitants) est donc sans fiche**, contrairement à ce que la note du 5 novembre (deux cent quatre-vingt-douzième) laissait entendre. C'est la commune suivante de la descente, après Bruay-la-Buissière, Carvin, Avion, Hénin-Beaumont et Lens. Elle est ouverte à la descente, dans la limite des douze communes de la règle 247.
+
+**Ce qui a été lu sur Saint-Omer.**
+- Office de tourisme : trois marchés hebdomadaires en ville (quartier Haut-Pont le jeudi, quartier Perpignan le mercredi, centre le samedi). Les dates affichées vont jusqu'au 24 ou 26 septembre 2026 et ne sont pas renouvelées sur les listes consultées. Jours et heures sont donc contestés pour la période en cours : règle 9 et règle 5, rien ne se publie sur ces horaires.
+- Registre Agence Bio du 62 : une entrée de production à Saint-Omer (marais, vente aux particuliers non déclarée), une entrée de vente aux particuliers et au détail sans précision de certification vérifiée. Aucun commerce de détail certifié bio n'est confirmé dans la commune.
+- Recherche web : une épicerie fine place Victor-Hugo (activité bio non vérifiée), un Biocoop mentionné sans adresse ni horaires, aucune AMAP dans la commune. Les producteurs repérés (Tilques, Helfaut) sont hors commune.
+
+**Pourquoi rien n'est publié.** Saint-Omer n'arrive pas à cinq fiches vérifiables dans la commune. Les marchés ont des horaires contestés, l'épicerie n'a pas de certificat vérifié, et le Biocoop n'a pas d'adresse confirmée. La règle 41.d prévoit de descendre à la commune suivante, mais la liste des voisines n'a pas encore été relue dans cette passe. Outreau (13 138 habitants) est la suivante par population, avec une entrée de vente aux particuliers au registre (préparation) et un Biocoop en centre commercial, que la règle 5 ou la règle 1 écarte ou met en attente.
+
+**Pistes non publiées (anonymes, Pas-de-Calais).**
+- Saint-Omer, trois marchés hebdomadaires : jours connus par l'office de tourisme, dates de validité passées, rien publié tant que la Ville ne les confirme pas.
+- Saint-Omer, épicerie fine centre : activité bio non vérifiée.
+- Saint-Omer, Biocoop : adresse non confirmée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : le Pas-de-Calais reste ouvert, reprendre Saint-Omer en priorité (marchés : vérifier les horaires 2026 sur le site de la Ville ou sur tourisme-saintomer.com ; Biocoop : localisateur officiel). Si Saint-Omer ne rend toujours pas cinq fiches, Outreau est la commune suivante. Le total de douze communes de la règle 247 est proche : après Saint-Omer et Outreau, la descente s'arrête et la passe prend le département suivant.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
