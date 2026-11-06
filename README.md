@@ -49097,3 +49097,19 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Haute-Garonne, passe suivante : confirmer auprès de la mairie de Saint-Orens-de-Gameville les horaires du marché et la liste de ses producteurs ; à défaut, descendre à une commune voisine de plus de dix mille habitants sans fiche.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 6 novembre 2026 (dix-septième, Vienne (86), Buxerolles sondée) : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne, rien n'est publié, aucune réponse envoyée).
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national, 1 304 fiches. Réserve 41.c : la passe précédente visait la Haute-Garonne (Occitanie), région exclue. Vienne (86) est le premier département ouvert après les départements clos ou épuisés. Descente en cours : Châtellerault (31 003 habitants) a été éprouvée à la passe quatorzième, sans fiche publiable. La commune suivante la plus peuplée sans fiche est Buxerolles (10 289 habitants).
+
+**Ce qui a été fait.** Registre Agence Bio, Vienne, première page de cent opérateurs : les entrées de Buxerolles et de Jaunay-Marigny sont soit des particuliers (motif : personne, écartées sans reprise), soit des structures de négoce ou de vente aux professionnels. Deux pistes de vente au public relevées : Biomen Poitiers (enseigne de réseau, règle 3) et le domaine Ampelidae à Jaunay-Marigny. Recherches web : aucun jour ni horaire de marché vérifiable à Buxerolles (une seule source généraliste, sans jour précis) ; Biorgania à Châtellerault n'a qu'une fiche d'annuaire sans horaires et sans accueil du public identifié ; les horaires de vente directe d'Ampelidae ne sont publiés nulle part dans les sources consultées.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Les pistes restantes manquent d'horaires (règle 172) ou de source indépendante. Une fiche isolée n'est pas une zone (règle 52).
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre au nom de particuliers à Buxerolles, Jaunay-Marigny, Chauvigny et Naintré, non reprises.
+
+**Points d'arrêt.** Vienne, passe suivante : Buxerolles reste la commune éprouvée de la descente ; reprendre à la commune suivante (Jaunay-Marigny ou Chauvigny) seulement si une source officielle nouvelle (site de la Ville de Buxerolles, office de tourisme de Grand Poitiers) est ouverte. La règle 41.c réserve Occitanie à la prochaine passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
