@@ -13663,6 +13663,29 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 6 novembre 2026 (Haute-Garonne, Balma, Castanet-Tolosan, L'Union et Ramonville relues) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
+
+**Classement, règle 41.** Outre-mer écarté (règle 177). Le Nord, région de la passe du 5 novembre, est exclu par la règle 41.c. Haute-Garonne (31) reste en tête des départements métropolitains éligibles, devant le Nord, la Seine-Maritime et l'Oise.
+
+**Commune, règle 41.d.** Blagnac et Muret sont sondées depuis le 11 octobre sans source exploitable ; Plaisance-du-Touch et Balma aussi. Passe sur les communes voisines par population : Castanet-Tolosan, Ramonville-Saint-Agne, L'Union, Saint-Orens-de-Gameville.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, deux pages de cent opérateurs, filtrées sur ces communes. Peu de points de vente au public. Les entrées qui portent un nom de particulier en raison sociale sont écartées (motif : personne), sans reprise.
+- Balma : le guide des commerçants de la mairie (édition 2021) donne un marché le mercredi et le samedi matin, avenue des Mimosas, et deux caves bio en centre-ville. La passe du 14 octobre lisait mardi et samedi sur la page « Marché de plein vent » : contradiction consignée, rien tranché. Le marché n'est pas un commerce fixe ; la source est ancienne.
+- Castanet-Tolosan : des annonces d'événements 2026 placent un marché sous la Halle Lauragaise le vendredi ; le Routard indique le mardi matin et le samedi matin aux Fontanelles. Aucune source municipale lisible. Contradiction consignée.
+- L'Union : une piste unique, La Ferme des Violettes, magasin de producteurs (chemin de la Violette), signalé par un comparateur de circuits courts. Ni horaires ni site vérifiés, et une seule fiche ne forme pas une zone.
+- Ramonville-Saint-Agne : un annuaire mentionne un « marché de produits frais » sans jour ni heure. Rien de vérifiable.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Les horaires de marché divergent selon les sources (Balma, Castanet-Tolosan) : règle 5, rien n'est publié sur un fait contesté. Une fiche isolée (La Ferme des Violettes) ne remplit pas l'objectif de cinq fiches groupées.
+
+**Pistes non publiées** (anonymes) : Haute-Garonne, L'Union, un magasin de producteurs à vérifier (horaires, site, registre) ; Balma, marché mercredi et samedi, à confirmer auprès de la mairie ; Castanet-Tolosan, marché du vendredi ou du mardi, à confirmer auprès de la mairie ; Ramonville-Saint-Agne, marché de produits frais, à identifier.
+
+**Fiches écartées pour doute sur une personne** : quelques entrées du registre Agence Bio en nom de particulier, dans les communes lues. Non reprises.
+
+**Point d'arrêt.** Haute-Garonne, passe suivante : confirmer les horaires des marchés de Balma et de Castanet-Tolosan auprès des mairies, puis vérifier La Ferme des Violettes au registre. Si une commune rend cinq commerces, la publier ; sinon descendre à Saint-Orens-de-Gameville.
+
 ### Passe autonome du 5 novembre 2026 (Nord, Wattrelos relue au registre) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
