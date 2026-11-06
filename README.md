@@ -48759,7 +48759,7 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 
 **Fiches écartées pour doute sur une personne.** Trois, une par commune (Béthune, Liévin, Lillers), ici sans nom.
 
-**Points d'arrêt.** Passe suivante : le Pas-de-Calais est presque épuisé (quatre communes restent avant la limite de douze, Harnes et au-delà par population). Si aucune de ces communes ne rend cinq fiches, la règle 247 clôt le département et la passe prend le suivant par déficit.
+**Points d'arrêt.** Passe suivante : le Pas-de-Calais est presque épuisé (une seule commune reste avant la limite de douze, sur la liste de la règle 247). Si aucune de ces communes ne rend cinq fiches, la règle 247 clôt le département et la passe prend le suivant par déficit.
 
 **Contradictions.** Aucune.
 
