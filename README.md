@@ -48736,3 +48736,33 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Contradictions.** Une : Biomarais, adresse Saint-Omer (registre) contre Clairmarais (annuaire et recherche web). Consignée, rien publié.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (cinquième) : Pas-de-Calais (62), descente Liévin, Béthune, Lillers, Harnes sondées au registre : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Classement inchangé ; le Pas-de-Calais (62) reste le premier département ouvert, huit communes éprouvées sur douze (Hénin-Beaumont, Bruay-la-Buissière, Carvin, Avion, Lens, Saint-Omer, Outreau, Liévin). La descente passe à Béthune, Lillers et Harnes, dans la limite des douze communes de la règle 247.
+
+**Registre Agence Bio du 62, parcouru en cinq pages de cent (500 opérateurs).** Filtre sur les villes de Liévin, Béthune, Lillers et Harnes :
+- Liévin : aucun commerce de détail certifié bio ; deux entrées de restauration ou de gros, une entrée de production ; une entrée de vente aux particuliers portée par une entreprise individuelle dont le nom est un patronyme, écartée pour doute sur une personne. Les grandes surfaces (hypermarché) ne sont pas retenues (règle MODERATION).
+- Béthune : une entrée de vente aux particuliers portée par une entreprise individuelle dont le nom est un patronyme, écartée pour doute sur une personne ; une entrée de vente en gros ; deux entrées de supérette (grande distribution, écartées).
+- Lillers : un chocolatier (vente aux particuliers, catégorie non prévue par le site : ni ferme, ni marché, ni magasin bio) ; une entreprise individuelle dont le nom est un patronyme, écartée pour doute sur une personne ; une entrée de vente en gros.
+- Harnes : une supérette de grande distribution, écartée.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne donne cinq fiches vérifiables. Le registre n'y recense ni marché, ni AMAP, ni magasin bio indépendant vérifiable ; les seules entrées de vente aux particuliers sont des entreprises individuelles désignées par un patronyme (règle sur les personnes), une grande surface, ou un chocolatier hors catégorie. Une fiche isolée ne rend pas la zone utilisable, et le groupement de cinq fiches sur une commune reste la règle. Aucune recherche web n'a été lancée pour compléter : le registre suffit à écarter ces communes pour cette passe.
+
+**Pistes non publiées (anonymes, Pas-de-Calais).**
+- Béthune, vente aux particuliers portée par une entreprise individuelle : nom patronymique, écartée pour doute sur une personne. Ne se rouvre pas.
+- Liévin, vente aux particuliers portée par une entreprise individuelle : nom patronymique, écartée pour doute sur une personne. Ne se rouvre pas.
+- Lillers, vente aux particuliers portée par une entreprise individuelle : nom patronymique, écartée pour doute sur une personne. Ne se rouvre pas.
+- Lillers, chocolatier avec vente aux particuliers : hors catégories du site (règle de catégorie). Déblocage : décision du responsable du site sur l'entrée d'un artisan non agricole.
+
+**Fiches écartées pour doute sur une personne.** Trois, une par commune (Béthune, Liévin, Lillers), ici sans nom.
+
+**Points d'arrêt.** Passe suivante : le Pas-de-Calais est presque épuisé (quatre communes restent avant la limite de douze, Harnes et au-delà par population). Si aucune de ces communes ne rend cinq fiches, la règle 247 clôt le département et la passe prend le suivant par déficit.
+
+**Contradictions.** Aucune.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces et supérettes de la grande distribution, les entreprises de gros et de restauration, les entreprises individuelles désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
