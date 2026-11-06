@@ -49129,3 +49129,32 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Haute-Garonne est fermé de fait par la règle 247 depuis la passe deux cent trente-deuxième, mais il reste visé à chaque passe : le critère de fermeture et celui de réouverture ne se recoupent pas. À trancher par la règle de passage, pas par une nouvelle sonde.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 6 novembre 2026 (dix-neuvième, Alpes-de-Haute-Provence (04) reprise, Digne-les-Bains sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Une demande reste `en_cours`, inchangée. Aucune réponse email à envoyer.
+
+**Secteur, règles 41, 41.c, 177, 247 et 265.** Dénominateur national, 1 304 fiches comptées sur le code postal, métropole seule (règle 177). Réserve 41.c : la passe précédente visait la Haute-Garonne (Occitanie), région exclue. Écartés, clos ou épuisés : Nord, Haute-Garonne, Eure-et-Loir (douze communes sans zone, règles 127 et 247), Haut-Rhin, Isère, Bouches-du-Rhône, Oise, Loire, Rhône, Savoie, Hérault, Calvados, Seine-et-Marne, Seine-Maritime, Yvelines, Val-de-Marne, Seine-Saint-Denis, Pas-de-Calais, Ille-et-Vilaine, Landes, Bas-Rhin, Vienne, Haute-Marne, Haute-Corse. Premier département ouvert du classement restant : les **Alpes-de-Haute-Provence (04)**, déficit ≈ 3,18, zéro fiche, descente déjà entamée à une passe antérieure.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 04 sans fiche est **Manosque (22 718 habitants)**, sondée à une passe précédente : marché hebdomadaire du samedi relevé, pas de cinq commerces. Vient ensuite **Digne-les-Bains (17 979 habitants)**, sondée cette passe.
+
+**Ce qui a été fait (Digne-les-Bains).**
+- Marché provençal, mercredi et samedi, 8 h à 13 h, place du Général-de-Gaulle, selon l'office de tourisme. Marché municipal vérifiable par une source indépendante ; la liste des producteurs présents n'est pas connue. Piste, pas une fiche.
+- Fruits d'avenir, association, avenue du Colonel-Noël : jus pasteurisés issus de vergers abandonnés. Vente à l'atelier le mercredi de 9 h à 13 h selon l'office de tourisme (fiche mise à jour le 16 août 2024), horaires marqués « non sécurisés » par la source, pas de site web. Piste retenue, avec un fait d'horaire à confirmer.
+- L'Étal des Trois Vallées, avenue de Verdun : boucherie (code NAF 47.22Z) qui tient aussi épicerie, boissons alcoolisées et produits d'origines variées. La fiche Que Choisir le classe « produits locaux ». Assortiment généraliste sans producteurs identifiés : écarté (règle 29).
+- Ferme du Serre : fiche de l'office de tourisme de Digne, mais l'adresse est au hameau de La Faviére, à Prads-Haute-Bléone (04420), hors de la commune. Contradiction de commune consignée ; non retenue pour Digne-les-Bains. Aucun horaire de vente à la ferme n'est publié.
+- La Ferme aux Saveurs, à Montclar : hors Digne-les-Bains, non examinée à fond cette passe.
+
+**Pourquoi rien n'est publié.** Digne-les-Bains rend deux pistes vérifiables (un marché et une association de jus), pas cinq. Une fiche isolée ne fait pas une zone (règle 52) : on ne publie rien avant le groupement de cinq.
+
+**Pistes non publiées (anonymes, Alpes-de-Haute-Provence).**
+- Digne-les-Bains : une association de jus de fruits, vente à l'atelier le mercredi, horaires à confirmer.
+- Digne-les-Bains : un marché municipal du mercredi et du samedi, liste des producteurs à obtenir.
+- Digne-les-Bains : une boucherie-épicerie, écartée comme généraliste.
+- Digne-les-Bains : une ferme dont l'adresse est hors commune (Prads-Haute-Bléone), contradiction consignée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Alpes-de-Haute-Provence reste ouvert, la descente compte deux communes éprouvées sur douze (Manosque, Digne-les-Bains). Passe suivante, deux options selon la réserve 41.c : la région PACA ne revient pas la passe d'après, donc la descente reprend à la passe où PACA n'est pas la région de la passe précédente. Commune suivante par population sans fiche : Oraison (6 155 habitants), puis Forcalquier et Château-Arnoux-Saint-Auban. Manosque reste à reprendre sur le site de la Ville, qui n'a pas été lu cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
