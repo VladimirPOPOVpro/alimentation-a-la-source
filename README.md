@@ -49079,3 +49079,21 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Passe suivante : appliquer la règle 11 (passe de rattrapage) aux pistes débloquées du Nord, plutôt que de sonder une commune de plus.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 6 novembre 2026 (seizième bis, Haute-Garonne, Saint-Orens-de-Gameville sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
+
+**Classement, règles 41 et 177.** Outre-mer écarté par le validateur. Le Nord, visé à la passe précédente, est exclu par la non-répétition de région. Haute-Garonne (31) reste en tête des départements métropolitains éligibles.
+
+**Commune, règle 41.d.** Saint-Orens-de-Gameville, commune la plus peuplée de la liste de rattrapage sans fiche publiée. Sources lues : résultats de recherche généralistes et annuaires de restauration (une « halle » et un restaurant, sans marché alimentaire identifié comme tel), un guide de marchés du Sud-Est toulousain qui ne retient pas Saint-Orens, et un article de presse de 2020 sur le retour d'un marché. Aucun site de commerce ni d'office de tourisme vérifiable n'a été trouvé dans le temps imparti.
+
+**Registre Agence Bio, Haute-Garonne.** La première page de cent opérateurs contient surtout des grossistes, des coopératives et des structures de négoce. Les entrées au nom d'un particulier sont écartées (motif : personne), sans reprise.
+
+**Pourquoi rien n'est publié.** Aucune commune de la liste ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Les fiches de cette zone reposent aujourd'hui sur des horaires contradictoires entre sources (règle 5) ou sur une seule piste.
+
+**Fiches écartées pour doute sur une personne.** Aucune retenue comme fiche cette passe ; quelques entrées du registre au nom de particuliers, non reprises.
+
+**Points d'arrêt.** Haute-Garonne, passe suivante : confirmer auprès de la mairie de Saint-Orens-de-Gameville les horaires du marché et la liste de ses producteurs ; à défaut, descendre à une commune voisine de plus de dix mille habitants sans fiche.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
