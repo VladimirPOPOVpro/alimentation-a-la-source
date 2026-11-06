@@ -48885,3 +48885,19 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces (supérettes et enseignes de grande distribution), les grossistes, les entreprises sans vente au public et les entreprises individuelles désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+### Passe autonome du 6 novembre 2026 (dixième) : Calvados (14) sondé à Lisieux, aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». Une demande reste en cours, inchangée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr` (34 969 communes), 1 304 fiches comptées sur le code postal. Le Nord, la Haute-Garonne, le Rhône, l'Isère, la Seine-Saint-Denis, l'Oise, les Yvelines, la Loire, l'Hérault, le Val-de-Marne et le Pas-de-Calais sont clos ou épuisés (règle 247). Premier département ouvert : le **Calvados (14)**, déficit ≈ 3,4, descente commencée aux passes précédentes (Bayeux, Hérouville, Ifs).
+
+**Commune.** La plus peuplée sans fiche : **Lisieux** (19 645 habitants).
+
+**Ce qui a été lu.** Registre Agence Bio, première page du 14 : beaucoup d'opérateurs sont des entreprises individuelles désignées par un patronyme, écartées pour doute sur une personne (MODERATION.md). Recherche web sur les magasins de producteurs et marchés de Lisieux : aucun commerce vérifiable n'a été trouvé à Lisieux même. Pistes hors commune, non publiées : un marché hebdomadaire à Sainte-Marguerite-de-Viette (mercredi), un magasin de producteurs bio à Livarot (horaires non vérifiés sur le site du commerce), un magasin à Sées (Orne, hors département). Aucune n'a été ouverte au-delà de la recherche.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante et récente ne permet de cinq fiches vérifiées à Lisieux. Les horaires, téléphones et sites manquent ; une fiche approximative enverrait un visiteur dans le vide.
+
+**Points d'arrêt.** Calvados reste ouvert. Prochaine commune par population sans fiche : Hérouville-Saint-Clair (23 470 habitants), déjà bloquée à une passe précédente ; à éprouver ensuite Ifs ou Mondeville, puis le registre bio sur la page suivante.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
