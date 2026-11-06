@@ -48901,3 +48901,28 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Calvados reste ouvert. Prochaine commune par population sans fiche : Hérouville-Saint-Clair (23 470 habitants), déjà bloquée à une passe précédente ; à éprouver ensuite Ifs ou Mondeville, puis le registre bio sur la page suivante.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+### Passe autonome du 6 novembre 2026 (onzième) : Bas-Rhin (67) repris, Illkirch-Graffenstaden et Lingolsheim relues : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». Une demande reste en cours, inchangée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Clos ou épuisés : Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Loire, Hérault, Yvelines, Val-de-Marne, Pas-de-Calais. Réserve 41.c : Calvados (14), région de la passe précédente, exclu. Ille-et-Vilaine (35) : quatre communes déjà éprouvées (Fougères, Vitré, Cesson-Sévigné, Betton), descente au-delà de la limite de la règle 247. Premier département ouvert : le **Bas-Rhin (67)**, déficit ≈ 3,75.
+
+**Commune, règle 41.d.** La plus peuplée sans fiche : Schiltigheim (34 708 habitants), déjà sondée et laissée en piste. Puis Illkirch-Graffenstaden (27 872), déjà sondée sans fiche publiée (passe du 25 septembre) ; puis Lingolsheim (20 826), également déjà sondée (même passe).
+
+**Ce qui a été lu.** Registre Agence Bio, Bas-Rhin, première page (cent opérateurs sur 1 544) : à Illkirch et à Sélestat, rien qui vende aux particuliers sauf une boulangerie et un grossiste. Recherche web sur Illkirch-Graffenstaden : les marchés (mercredi et samedi, cours de l'Illiade) et les magasins bio (Natur'Ill, Côté Nature, Naturalia) sont identifiés, mais aucune exploitation en vente directe dans la commune elle-même, et la liste de producteurs de Côté Nature est commune à son réseau de neuf magasins (règle 273).
+
+**Pourquoi rien n'est publié.** Aucune commune du Bas-Rhin ne rend cinq commerces vérifiables sur deux sources indépendantes. Les seules fiches entières possibles (magasins bio à enseigne de réseau) ne livrent ni horaires ni producteurs nommés par une source propre au point de vente, et l'exploitation de Lingolsheim est immatriculée sous un nom de personne : écartée pour doute sur une personne (MODERATION.md), notée ici sans nom.
+
+**Pistes non publiées (anonymes, Bas-Rhin).**
+- Schiltigheim, Halles du Scilt (marché couvert municipal) : déjà consignée à la passe précédente ; rien de nouveau.
+- Illkirch-Graffenstaden, magasin bio de la rue de l'Industrie (réseau de neuf magasins) : enseigne et adresse vérifiées, producteurs non nommés. **Déblocage** : liste d'étals propre au point de vente, horaires publiés par le magasin, et deux autres commerces vérifiés à Illkirch.
+- Lingolsheim, exploitation maraîchère immatriculée sous un nom de personne : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une (Lingolsheim, nom de personne).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+**Points d'arrêt.** Le Bas-Rhin est épuisé à ses premières communes par population (règle 247 : la descente s'arrête) ; la passe suivante ne le revisite pas avant un déblocage nommé. Le classement suivant, hors Normandie (14) : Seine-et-Marne (77, 3,69), puis Seine-Maritime (76) ou Vienne (86), selon les régions déjà visées.
+
+---
