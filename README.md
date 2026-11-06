@@ -48978,3 +48978,35 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les enseignes à prénom, les grossistes, les structures sans vente au public et les entreprises individuelles désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+### Passe autonome du 6 novembre 2026 (treizième) : Savoie (73) reprise, Saint-Jean-de-Maurienne sondée : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande en cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177, 224, 247 et 265.** Métropole seule pour le classement (règle 177), dénominateur national (règle 224), 1 304 fiches comptées sur le code postal. La passe précédente visait le Calvados (Normandie) : la région est exclue par la règle 41.c. Clos ou épuisés, et donc écartés : Nord, Haute-Garonne, Oise, Loire, Isère, Hérault, Seine-Saint-Denis, Rhône, Ille-et-Vilaine, Yvelines, Val-de-Marne, Pas-de-Calais (règle 247), Landes (règle 265), Bas-Rhin (descente arrêtée). Premier département ouvert hors Normandie : la **Savoie (73)**, déficit ≈ 3,48, devant la Vienne (3,30). Auvergne-Rhône-Alpes n'est pas la région de la passe précédente : la réserve ne joue pas.
+
+**Commune, règle 41.d.** Chambéry et Cognin ont déjà une fiche ; Aix-les-Bains, Albertville, La Motte-Servolex et La Ravoire ont été éprouvées (passes 282, 298 et passe précédente sur la Savoie). Commune suivante par population sans fiche : **Saint-Jean-de-Maurienne** (7 524 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Savoie, pages 1 et 2 (837 opérateurs au total) : dans la vallée de la Maurienne, deux opérateurs ne vendent qu'aux professionnels ou n'ont pas de vente au public ; trois autres sont des entreprises individuelles désignées par un patronyme, écartées pour doute sur une personne (MODERATION.md) ; un hypermarché et une enseigne de supérette, écartés comme grandes surfaces. Une entreprise de la vallée vend aux particuliers, mais à Saint-Michel-de-Maurienne, hors de la commune.
+- Annuaires tiers (bible-marques.fr, au-magasin.fr, justacote, Auvergne-Rhône-Alpes Tourisme) : un magasin bio à enseigne de réseau, avenue du 8-Mai-1945, téléphone d'annuaire, horaires contradictoires selon l'annuaire (lundi au samedi 9 h–19 h ; samedi 8 h 30–18 h 30). Ni la page du magasin sur biocoop.fr ni une page de la Ville n'ont été ouvertes ; les sites ont refusé l'accès (403).
+- Marché : fiche régionale de tourisme, samedi matin place de la Cathédrale ; agenda 2026 avec des dates place du Forum puis place de la Cathédrale ; une fiche touristique, sans année, parle de 7 h 30 à 12 h du 9 au 31 décembre. Aucune source de la Ville lue : jour, lieu et horaires restent à confirmer.
+- Office de tourisme (place de la Cathédrale) : horaires de saison hors juin à septembre, source de tourisme, sans date de mise à jour vérifiable.
+
+**Pourquoi rien n'est publié.** Saint-Jean-de-Maurienne rend un magasin bio à enseigne de réseau, dont les horaires se contredisent selon les annuaires, et un marché dont le lieu et l'heure ne sont confirmés par aucune source de la commune. Aucun magasin de producteurs ni AMAP vérifié n'a été trouvé dans la commune. On n'atteint ni les cinq fiches, ni les quatre points vérifiables de la règle 52 : une fiche isolée enverrait un visiteur dans le vide.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Saint-Jean-de-Maurienne, magasin bio à enseigne de réseau, avenue du 8-Mai-1945 : adresse et téléphone d'annuaire, horaires contradictoires. **Déblocage** : horaires publiés par le magasin ou sa fiche du réseau, téléphone confirmé.
+- Saint-Jean-de-Maurienne, marché du samedi matin, place de la Cathédrale : jour et horaires non confirmés par la Ville. **Déblocage** : page officielle de la Ville ou de l'office de tourisme, datée de 2026, avec jour, heures et lieu, puis deux autres commerces vérifiés dans la commune.
+- Saint-Jean-de-Maurienne, boutique de commerce équitable (magasin « bio » selon un annuaire) : hors circuit court au sens du site, non retenue.
+- Vallée de la Maurienne, entreprise vendant aux particuliers à Saint-Michel-de-Maurienne (enseigne de société, pas de nom de personne) : hors commune, à reprendre si la descente de la Savoie revient dans la vallée.
+
+**Fiches écartées pour doute sur une personne.** Trois, dans la Maurienne, anonymes : des entreprises individuelles désignées par un patronyme. Elles ne se rouvrent pas.
+
+**Points d'arrêt.** Savoie reste ouverte. Communes éprouvées dans la descente : Aix-les-Bains, Albertville, La Motte-Servolex, La Ravoire, Saint-Jean-de-Maurienne (cinq sur la borne de douze, règle 247). Passe suivante qui revient en Savoie : la commune suivante par population, Bourg-Saint-Maurice (7 270 habitants), à éprouver ; la Savoie n'est pas visée de suite par la règle 41.c si une autre région est choisie.
+
+**Contradictions.** Le déficit publié pour le Calvados lors de la passe précédente (3,98) ne se retrouve pas avec les données de ce jour (3,42) ; le classement a été refait sur les populations et les fiches actuelles, et c'est ce calcul qui a été appliqué. Les horaires du magasin bio se contredisent entre annuaires : non tranchés, consignés ci-dessus.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les grossistes, les structures sans vente au public et les entreprises individuelles désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
