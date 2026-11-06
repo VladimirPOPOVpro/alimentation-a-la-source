@@ -49065,3 +49065,17 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** La Haute-Marne reste ouverte. Passe suivante : ouvrir la page des Halles de Saint-Dizier et le site de la Ville ; si la commune ne rend pas quatre points vérifiables, descendre à Langres par la même méthode.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 6 novembre 2026 (seizième) : Nord (59) visé, rien publié
+
+**Secteur, règles 41, 177, 224 et 247.** Métropole seule pour le classement (règle 177), dénominateur national (règle 224), 1 304 fiches comptées sur le code postal. Le département de plus grand déficit est le Nord (4,47), devant la Haute-Garonne (3,83). La Haute-Marne, visée à la passe précédente, est exclue par la règle de non-répétition de région. La commune la plus peuplée du Nord sans fiche est Wattrelos (40 847 habitants), puis Marcq-en-Barœul et Cambrai.
+
+**Ce qui a été fait.** Lecture des pistes déjà instruites du Nord (Bavay à Anor, Chéreng à Wignehies, Lewarde à Méteren, Trélon à Pont-sur-Sambre, Douai). Aucune nouvelle source n'a été ouverte cette passe : la commune est déjà sondée et ses pistes sont bloquées sur le déblocage des photographies et des sources propres. Rien n'est complété à la main.
+
+**Pourquoi rien n'est publié.** Les communes du Nord les plus peuplées sans fiche ont déjà été instruites plusieurs fois sans rendre cinq commerces vérifiables. Relancer la même recherche sans source nouvelle ne ferait que répéter les notes précédentes.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : appliquer la règle 11 (passe de rattrapage) aux pistes débloquées du Nord, plutôt que de sonder une commune de plus.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
