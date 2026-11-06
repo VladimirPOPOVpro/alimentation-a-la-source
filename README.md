@@ -48711,3 +48711,28 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les marchés de Noël, les brocantes, les épiceries sans certificat vérifié, et les personnes physiques désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (quatrième) : Pas-de-Calais (62) reprise, Outreau et Saint-Omer relues au registre : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Classement inchangé ; le Pas-de-Calais (62) reste le premier département ouvert de la descente, sept communes éprouvées sur douze (Hénin-Beaumont, Bruay-la-Buissière, Carvin, Avion, Lens, Saint-Omer, Outreau).
+
+**Outreau (règle 41.d).** Registre Agence Bio du 62, parcouru en quatre pages de cent : aucun commerce de détail certifié bio ni AMAP. Deux entrées de vente aux particuliers, toutes deux sans activité de détail (préparation, vente en gros). Impossible de réunir cinq fiches vérifiables.
+
+**Saint-Omer (règle 41.d).** Une seule fiche de production sortable : Biomarais. Le registre des entreprises (établissement actif, code 01.13Z) donne son adresse à Saint-Omer, rue de Clairmarais ; les pages publiques (annuaire Locavores, recherche web) donnent une adresse à Clairmarais, commune voisine distincte. Contradiction de source sur le lieu : aucune fiche n'est publiée, la règle 9 ne laisse pas choisir le point. Ses horaires de vente (mercredi et samedi, 15 h à 18 h) ne sont donnés que par un annuaire tiers. Le registre liste en outre une autre entreprise individuelle de Saint-Omer, dont le nom porte un patronyme : écartée pour doute sur une personne, non nommée.
+
+**Pourquoi rien n'est publié.** Outreau et Saint-Omer n'arrivent pas à cinq fiches vérifiables. Une fiche isolée ne rend pas la zone utilisable, et le groupement de cinq fiches sur une commune reste la règle.
+
+**Pistes non publiées (anonymes, Pas-de-Calais).**
+- Saint-Omer, producteur maraîcher bio : contradiction d'adresse entre registre et annuaire (Saint-Omer / Clairmarais), horaires tiers. **Déblocage** : confirmation de l'adresse de vente par l'exploitation elle-même.
+- Saint-Omer, entreprise individuelle de vente au détail : nom patronymique, écartée pour doute sur une personne. Ne se rouvre pas.
+- Outreau : aucune piste de détail retenue au registre.
+
+**Fiches écartées pour doute sur une personne.** Une, à Saint-Omer (voir ci-dessus).
+
+**Points d'arrêt.** Passe suivante : reprendre Saint-Omer si le producteur confirme son adresse de vente ; sinon la descente comptera les communes suivantes par population (Liévin, Harnes, Lillers, Béthune, ...) dans la limite de douze communes de la règle 247. Le compte rendu de la passe le dira.
+
+**Contradictions.** Une : Biomarais, adresse Saint-Omer (registre) contre Clairmarais (annuaire et recherche web). Consignée, rien publié.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
