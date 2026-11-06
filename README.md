@@ -49043,3 +49043,25 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au public, les événements sans date confirmée.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+### Passe autonome du 6 novembre 2026 (quinzième) : Haute-Marne (52) reprise, Saint-Dizier sondée : aucune fiche publiée
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règles 41, 41.c, 177 et 224.** Métropole seule, dénominateur national, 1 304 fiches. La passe précédente visait Vienne (Nouvelle-Aquitaine) : cette région est exclue. Le déficit le plus fort hors région exclue est en Nord (59), Haute-Garonne (31), Oise (60), Loire (42), Isère (38), Haute-Corse (2B) et Savoie (73) ; tous ont été éprouvés dans les passes récentes. Retenu : **Haute-Marne (52)**, déficit ≈ 3,18, zéro fiche, reprise de la descente laissée le 25 octobre. Commune : **Saint-Dizier**, à défaut Langres.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Marne, première page (100 opérateurs) : à Saint-Dizier, aucun opérateur déclaré en vente aux particuliers. À Langres, Joinville et Nogent, quelques entrées en vente aux particuliers ou aux professionnels de détail, mais sans enseigne ni horaires vérifiés dans cette passe. Les autres sont des grossistes ou des établissements sans vente au public.
+- Recherche web sur les marchés et producteurs de Saint-Dizier : les résultats sont des événements ponctuels (foire, fête de la nature à Trois-Fontaines-l'Abbaye, marché des producteurs de 2024) et une annonce d'ouverture des Halles de Saint-Dizier, reprise par une page Facebook qui ne donne ni adresse ni liste de producteurs. Aucune page officielle de la Ville ou des Halles n'a été ouverte dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables. Une fiche isolée ne forme pas le groupe de cinq, et l'annonce d'ouverture des Halles n'est pas une source d'horaires ni de produits. Rien n'est complété à la main.
+
+**Pistes non publiées (anonymes, Haute-Marne).**
+- Saint-Dizier, Halles de Saint-Dizier (halle couverte, ouverture annoncée pour le mercredi 11 novembre 2026, horaires de 7h30 et adresse non lus sur le site de la Ville). **Déblocage** : page officielle de la Ville ou des Halles avec adresse, horaires et liste d'étals, et deux autres commerces vérifiés dans la commune.
+- Saint-Dizier, marché des producteurs de Trois-Fontaines-l'Abbaye (fête de la nature et du terroir, événement annuel). Écarté : événement sans date 2026 confirmée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** La Haute-Marne reste ouverte. Passe suivante : ouvrir la page des Halles de Saint-Dizier et le site de la Ville ; si la commune ne rend pas quatre points vérifiables, descendre à Langres par la même méthode.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
