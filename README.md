@@ -48822,3 +48822,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les magasins de réseau dont l'enseigne est un prénom, les grossistes et les structures sans vente au public.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (huitième) : Haute-Corse (2B) reprise, Vescovato sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches. La passe précédente visait le Calvados (Normandie) : la Normandie est exclue par la règle 41.c. Les départements clos ou épuisés restent écartés (Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Yvelines, Loire, Hérault, Val-de-Marne, Pas-de-Calais). Premier département ouvert du classement : la **Haute-Corse (2B)**, déficit ≈ 3,54, dont la descente est ouverte depuis la passe 296.
+
+**Commune, règle 41.d.** Bastia, Corte, Borgo, Biguglia, Furiani, Lucciana, Calvi et Ghisonaccia sont déjà éprouvées, Prunelli-di-Fiumorbo et Penta-di-Casinca aussi (points d'arrêt de la passe précédente). Commune suivante par population : **Vescovato** (3 406 habitants).
+
+**Ce qui a été lu.**
+- Site de la commune (`vescovato.fr`, lu dans le navigateur, `curl` refusé en 403) : page d'accueil, horaires des deux mairies, rubriques « Vivre à Vescovato » et « Découvrir la commune ». Aucun marché ni commerce de producteurs n'y figure sur la page d'accueil ; seul le lien vers les marchés publics, qui sont des appels d'offres.
+- Registre Agence Bio, Haute-Corse : première page de cent opérateurs lue. À Vescovato, un seul opérateur, un grossiste (vente aux professionnels, pas aux particuliers). La suite de la pagination n'a pas été parcourue.
+- Registre des entreprises : l'entité commune, sans commerce de détail identifié.
+
+**Pourquoi rien n'est publié.** Vescovato ne rend aucun commerce de producteurs vérifié ; le seul marché recensé est une brocante hebdomadaire, hors sujet. Le groupe de cinq n'est pas atteint.
+
+**Pistes non publiées (Haute-Corse).** Aucune nouvelle piste cette passe. Les pistes de Prunelli-di-Fiumorbo, Lucciana et Corte restent celles de la passe précédente, avec leurs déblocages.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** La Haute-Corse reste ouverte. Prochaine passe qui y revient : la rubrique « Vivre à Vescovato » reste à lire sur le site de la commune, puis la page de l'office de tourisme de la Casinca ; la passe suivante ne vise pas la Corse (règle 41.c).
+
+**Contradictions.** Aucune.
+
+**Ce qui a été volontairement laissé de côté.** Les brocantes, les grossistes et les structures sans vente au public.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
