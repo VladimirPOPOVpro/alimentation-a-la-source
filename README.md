@@ -48849,3 +48849,39 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les brocantes, les grossistes et les structures sans vente au public.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (neuvième) : Savoie (73) reprise, Albertville, La Motte-Servolex et La Ravoire sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 265.** Métropole seule (règle 177), population `geo.api.gouv.fr`, dénominateur national (règle 224), 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Corse (Corse, région 94) : la Corse est exclue par la règle 41.c. Les départements de tête sont clos ou épuisés (Nord, Haute-Garonne, Oise, Loire, Isère, Seine-Saint-Denis, Rhône, Hérault, Yvelines, Val-de-Marne, Pas-de-Calais). Premier département ouvert du classement : la **Savoie (73)**, déficit ≈ 3,48. La Normandie (Calvados) reste ouverte mais vient après.
+
+**Commune, règle 41.d.** Chambéry et Cognin ont déjà une fiche, donc sortent de la descente. Aix-les-Bains et Albertville sont éprouvées (passe 282, passe 298). Commune suivante par population : **La Motte-Servolex** (12 067 habitants), puis **La Ravoire** (9 332).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Savoie, première page de cent opérateurs : à Albertville, aucun opérateur qui vend aux particuliers hors la fiche déjà éprouvée ; à La Motte-Servolex, un distributeur (vente aux professionnels seulement), un producteur qui vend aux particuliers, et une entreprise dont l'enseigne comporte un prénom ; à La Ravoire, aucun opérateur qui vend aux particuliers sur la page lue.
+- Biocoop d'Albertville : existence et horaires concordants chez deux annuaires tiers (bible-marques.fr, lundi au samedi, 8 h 30 à 19 h 30), mais aucune source du réseau Biocoop lue.
+- Que Choisir (carte circuit court) : Saveurs Campagnardes à La Motte-Servolex, La Coopérative du Tremblay à La Motte-Servolex, La Ravoire Paysanne à La Ravoire. Petit Futé indique « Fermé 2025 » pour Saveurs Campagnardes : contradiction non tranchée.
+- Marchés : jours-de-marche.fr signale deux marchés pour La Motte-Servolex (place Pergaud, sans jour établi) et un seul jour pour La Ravoire, sans précision. Aucune page officielle de la Ville lue.
+- Annuaire MSA (Savoie) : Satoriz à La Ravoire, magasin de produits bio, sans horaires.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend un groupe de cinq fiches vérifiables, ni même quatre points (règle 52) : Albertville en a une (magasin de producteurs) et une enseigne Biocoop sur des horaires tiers ; La Motte-Servolex et La Ravoire en ont une chacune, sans horaires confirmés par une source du commerce. Une fiche isolée ne rend pas la zone utilisable.
+
+**Pistes non publiées (anonymes, Savoie).**
+- Albertville, Biocoop : horaires sur annuaires tiers seulement. **Déblocage** : page officielle du magasin ou du réseau Biocoop, avec téléphone vérifié, et deux autres commerces de la commune.
+- Albertville, magasin de producteurs « Saveurs de nos fermes » (passe 298) : déjà consigné, inchangé.
+- La Motte-Servolex, magasin Saveurs Campagnardes : horaires de Que Choisir, mention « Fermé 2025 » de Petit Futé. **Déblocage** : confirmation d'activité du commerce en 2026.
+- La Motte-Servolex, La Coopérative du Tremblay : coopérative agricole, horaires Que Choisir de type 9 h–12 h et 14 h–18 h 30 du lundi au jeudi. Type de structure à trancher (coopérative de producteurs ou de négoce). **Déblocage** : page de la coopérative avec horaires.
+- La Motte-Servolex, marché de la place Pergaud : jour non établi. **Déblocage** : page officielle de la Ville sur les marchés, avec jour et heures.
+- La Ravoire, La Ravoire Paysanne (magasin de producteurs) : aucun horaire vérifié. **Déblocage** : site ou fiche du commerce avec horaires.
+- La Ravoire, Satoriz (produits bio) : aucun horaire vérifié. **Déblocage** : site du commerce.
+
+**Fiches écartées pour doute sur une personne.** Deux, anonymes : une entreprise de La Motte-Servolex dont l'enseigne comporte un prénom, et un producteur de Grésy-sur-Aix désigné par un patronyme (entreprise individuelle). Elles ne se rouvrent pas.
+
+**Points d'arrêt.** Savoie reste ouverte. Communes éprouvées dans la descente : Aix-les-Bains, Albertville, La Motte-Servolex, La Ravoire (quatre sur la borne de douze, règle 247). Passe suivante : la commune suivante par population sans fiche est **Saint-Jean-de-Maurienne** (7 524 habitants), à éprouver ; les pistes ci-dessus restent à débloquer si une source officielle apparaît. Savoie n'est pas visée de suite par la règle 41.c si une autre région est choisie, mais elle reste la région ouverte en tête si le classement ne bouge pas.
+
+**Contradictions.** Saveurs Campagnardes : Que Choisir donne des horaires, Petit Futé une mention « Fermé 2025 ». Non tranchée, consignée ci-dessus.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces (supérettes et enseignes de grande distribution), les grossistes, les entreprises sans vente au public et les entreprises individuelles désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
