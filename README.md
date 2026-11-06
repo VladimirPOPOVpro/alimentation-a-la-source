@@ -48766,3 +48766,29 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces et supérettes de la grande distribution, les entreprises de gros et de restauration, les entreprises individuelles désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (sixième) : Pas-de-Calais (62) sondé jusqu'à Méricourt et Bully-les-Mines : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches. Classement : Nord (59, ≈ 4,5 sur le dénominateur de cette passe), Haute-Garonne (31, ≈ 3,8, descente close), puis Pas-de-Calais (62, ≈ 3,7, 25 fiches). Le Nord et la Haute-Garonne sont clos par la règle 247. Le Pas-de-Calais reste le premier département ouvert, la descente reprenant à Harnes.
+
+**Registre Agence Bio du 62, cinq pages de cent.** Filtre sur Bully-les-Mines et Méricourt, en plus de Berck et de Harnes déjà éprouvées :
+- Bully-les-Mines : une entrée de vente en gros, une entrée sans vente au détail. Aucun commerce de détail certifié.
+- Méricourt : une entrée de vente en gros, une entrée de restauration collective portée par la commune. Aucun marché ni commerce de détail certifié.
+- Harnes : une supérette de grande distribution, écartée (règle MODERATION).
+- Berck : un hypermarché et un grossiste, écartés.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend une seule fiche vérifiable à partir du registre, et la passe n'a pas de zone à publier au sens de la règle 52. Une fiche isolée ne rend pas la zone utilisable.
+
+**Pistes non publiées (anonymes, Pas-de-Calais).** Aucune nouvelle piste retenue cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la descente du Pas-de-Calais est presque épuisée (Harnes, Bully-les-Mines et Méricourt ne donnent rien au registre). Si les sources communales ou l'office ne donnent pas de marché ou de commerce vérifié, la règle 247 clôt le département et la passe prend le suivant par déficit.
+
+**Contradictions.** Aucune.
+
+**Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les grossistes, la restauration collective et les entreprises désignées par un patronyme.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
