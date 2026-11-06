@@ -49010,3 +49010,36 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les grossistes, les structures sans vente au public et les entreprises individuelles désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+### Passe autonome du 6 novembre 2026 (quatorzième) : Vienne (86) ouverte, Châtellerault sondée : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste en cours (doute sur une personne, rien n'est publié, aucune réponse envoyée).
+
+**Secteur, règles 41, 41.c, 52, 177, 224 et 247.** Métropole seule (règle 177), dénominateur national (règle 224), 1 304 fiches. Le Calvados, premier du classement, est écarté : il a déjà éprouvé douze communes et atteint la borne de la règle 247. Écartés aussi les départements clos ou déjà éprouvés (Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Ille-et-Vilaine, Yvelines, Val-de-Marne, Seine-Saint-Denis, Pas-de-Calais, Landes, Bas-Rhin, Savoie, Auvergne-Rhône-Alpes exclue par la règle 41.c). Premier département ouvert : la **Vienne (86)**, déficit ≈ 3,30. Poitiers porte déjà cinq fiches.
+
+**Commune, règle 41.d.** La commune la plus peuplée de la Vienne sans fiche est **Châtellerault (31 003 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Vienne, 100 opérateurs : pour Châtellerault, un seul opérateur vend au détail, et il est déjà couvert par son réseau ; les autres sont en gros, en restauration collective ou sans vente au public.
+- Annuaires tiers (Bible-Marques, Myboulange, Avis Vérifiés) : un magasin bio du réseau Biocoop, zone de la Désirée. Les adresses se contredisent (n° 6 ou n° 8, rue de la Désirée) ; les horaires concordent (lundi au vendredi 9 h 30–19 h 30, samedi 9 h 30–19 h). Téléphone d'annuaire.
+- Office de tourisme de Grand Châtellerault : marché hebdomadaire du jeudi, boulevard Blossac, de 8 h à 18 h 30 ; aucune photo libre vérifiée.
+- Marché des producteurs de l'agglomération, place Blossac : édition 2025 le vendredi 27 juin, de 18 h à 22 h. Aucune date ni horaire confirmés pour 2026 : écarté, c'est un événement annuel.
+- Magasin de produits locaux (Petit Futé, sans adresse ni horaires vérifiés) : non vérifiable, écarté.
+
+**Pourquoi rien n'est publié.** Deux points vérifiables seulement (le magasin bio et le marché du jeudi), quand la règle 52 en exige quatre avant de descendre. L'adresse du magasin bio est contradictoire entre sources, et la photo du marché n'est pas libre. Aucune fiche n'est donc ajoutée, ni partielle.
+
+**Pistes non publiées (anonymes, Vienne).**
+- Châtellerault, magasin bio à enseigne de réseau, zone de la Désirée : adresse contradictoire (n° 6 ou n° 8). **Déblocage** : adresse confirmée par le magasin ou par son site, et une photo libre du lieu.
+- Châtellerault, marché hebdomadaire du jeudi, boulevard Blossac : horaires publiés par l'office de tourisme, aucune photo libre. **Déblocage** : photo sous licence compatible, et deux autres commerces vérifiés dans l'agglomération.
+- Châtellerault, marché des producteurs de l'agglomération, place Blossac : événement annuel, date 2026 non confirmée. **Déblocage** : programme 2026 publié par l'agglomération.
+- Châtellerault, magasin de produits locaux sans adresse ni horaires vérifiés : non retenu.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** La Vienne reste ouverte, commune suivante par population sans fiche : Buxerolles (10 289 habitants) ; Jaunay-Marigny et Saint-Benoît suivent. La prochaine passe ne vise pas la Nouvelle-Aquitaine de suite (règle 41.c) : Poitou-Charentes est sortie du classement si une autre région est choisie. Le Calvados reste épuisé pour la règle 247.
+
+**Contradictions.** Le déficit du Calvados donné par la passe précédente (3,98) ne correspond pas au calcul du jour (3,42) ; le classement a été refait sur les données actuelles.
+
+**Ce qui a été volontairement laissé de côté.** Les grossistes, les structures sans vente au public, les événements sans date confirmée.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
