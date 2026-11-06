@@ -48792,3 +48792,33 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Ce qui a été volontairement laissé de côté.** Les grandes surfaces, les grossistes, la restauration collective et les entreprises désignées par un patronyme.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
+
+## Passe autonome du 6 novembre 2026 (septième) : Calvados (14) repris, Ifs sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches. Classement : Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Yvelines, Loire, Hérault et Val-de-Marne sont clos ou épuisés (règle 247). Le Pas-de-Calais (62) atteint la borne de douze communes éprouvées (règle 247) : il est clos. Le Calvados (14) est le premier département ouvert, sa descente ayant commencé à la passe du 5 novembre (Bayeux sondée, Hérouville bloquée).
+
+**Commune, règle 41.d.** Ifs (11 937 habitants) est la commune suivante sans fiche après Hérouville, Lisieux et Bayeux, dans l'ordre de population.
+
+**Ce qui a été lu.**
+- Site de la mairie (`ville-ifs.fr`) : aucune rubrique marché ou commerces sur la page d'accueil, aucun horaire de marché.
+- Registre et annuaires : un magasin bio du réseau Biocoop à Ifs, avec horaires concordants dans plusieurs annuaires. Son enseigne comporte un prénom : doute sur une personne, écarté, ne se rouvre pas.
+- Un marché du mercredi matin signalé par un seul agrégateur de marchés (« Illico mes produits locaux ») et repris par un second annuaire sans source communale. Une source unique et non datée : piste, rien publié.
+- Annuaires de vente directe (`acheteralasource.com`, `jours-de-marche.fr`, `alentoor.fr`) : aucun producteur vérifié à Ifs même ; les fermes citées sont dans d'autres communes.
+
+**Pourquoi rien n'est publié.** Ifs ne rend pas cinq fiches vérifiables : une seule source pour le marché, un magasin écarté pour doute sur une personne, aucun producteur à la commune. Le groupe de cinq n'est pas atteint, ni la règle 52 (quatre points au moins).
+
+**Pistes non publiées (anonymes, Calvados).**
+- Ifs, marché du mercredi matin : une seule source agrégée, sans source communale ni horaires datés. **Déblocage** : page de la Ville ou du marché datée de 2026.
+- Ifs, magasin du réseau Biocoop dont l'enseigne comporte un prénom : doute sur une personne, écarté. Ne se rouvre pas.
+
+**Points d'arrêt.** La passe suivante reprend le Calvados à la commune suivante par population sans fiche, Mondeville (10 331 habitants), dans la limite de douze communes (règle 247). Ifs reprend au déblocage ci-dessus. La règle 41.c ne bloque pas le Calvados : aucune fiche n'a été publiée dans cette passe.
+
+**Fiches écartées pour doute sur une personne.** Une, à Ifs (anonyme, ci-dessus).
+
+**Contradictions.** Aucune.
+
+**Ce qui a été volontairement laissé de côté.** Les magasins de réseau dont l'enseigne est un prénom, les grossistes et les structures sans vente au public.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé (backlog vide).
