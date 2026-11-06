@@ -49158,3 +49158,17 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Alpes-de-Haute-Provence reste ouvert, la descente compte deux communes éprouvées sur douze (Manosque, Digne-les-Bains). Passe suivante, deux options selon la réserve 41.c : la région PACA ne revient pas la passe d'après, donc la descente reprend à la passe où PACA n'est pas la région de la passe précédente. Commune suivante par population sans fiche : Oraison (6 155 habitants), puis Forcalquier et Château-Arnoux-Saint-Auban. Manosque reste à reprendre sur le site de la Ville, qui n'a pas été lu cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 7 novembre 2026 (Nord (59) sondé, Wattrelos relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours`, inchangée (demande n° 13, Villecroze, Var) : l'enseigne ressemble à un prénom et le contact transmis est privé, doute sur une personne. Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 177.** Population par département (géo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal, outre-mer exclu (la validation du build refuse les coordonnées hors métropole). Réserve 41.c : la passe précédente visait les Alpes-de-Haute-Provence (PACA), région exclue. Premier département métropolitain restant du classement : **Nord (59)**, déficit ≈ 4,5.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 59 sans fiche reste **Wattrelos (40 847 habitants)**. Relue cette passe :
+- site de la Ville : la page d'accueil répond, mais ne mentionne aucun marché ;
+- recherche web : aucun horaire de marché ni liste de producteurs vérifiable à Wattrelos.
+
+**Zéro.** Aucune fiche retenue. Cambrai, Marcq-en-Barœul et Maubeuge restent les pistes suivantes, déjà consignées aux passes précédentes ; aucune n'a été reprise cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
