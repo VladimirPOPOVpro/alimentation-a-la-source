@@ -49113,3 +49113,19 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** Vienne, passe suivante : Buxerolles reste la commune éprouvée de la descente ; reprendre à la commune suivante (Jaunay-Marigny ou Chauvigny) seulement si une source officielle nouvelle (site de la Ville de Buxerolles, office de tourisme de Grand Poitiers) est ouverte. La règle 41.c réserve Occitanie à la prochaine passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
+
+## Passe autonome du 6 novembre 2026 (dix-huitième, Haute-Garonne (31) visée, aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Aucune réponse email à envoyer.
+
+**Secteur, règles 41, 41.c, 177 et 265.** Dénominateur national, 1 304 fiches, métropole seule. La Réunion (974) sort par la règle 177. Le Nord (59), premier métropolitain, est épuisé (règle 265, passe seizième). La réserve 41.c écarte la Nouvelle-Aquitaine, région de la passe précédente. Haute-Garonne (31), déficit 3,83, est le premier département non épuisé et non fermé.
+
+**Ce qui a été fait.** Relecture de la liste des communes de Haute-Garonne de plus de 5 000 habitants, rapprochée des 24 fiches existantes. Les grandes communes sans fiche (Muret, Balma, Castanet-Tolosan, Saint-Orens-de-Gameville, Fonsorbes, Saint-Gaudens, L'Union, Grenade, Blagnac, Plaisance-du-Touch) ont déjà été sondées à plusieurs reprises depuis la passe deux cent vingt-troisième, sans source nouvelle. Aucune recherche supplémentaire n'a été lancée cette passe pour ne pas répéter ces notes.
+
+**Pourquoi rien n'est publié.** Aucune commune restante du département ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Rien n'est complété à la main.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Haute-Garonne est fermé de fait par la règle 247 depuis la passe deux cent trente-deuxième, mais il reste visé à chaque passe : le critère de fermeture et celui de réouverture ne se recoupent pas. À trancher par la règle de passage, pas par une nouvelle sonde.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés.
