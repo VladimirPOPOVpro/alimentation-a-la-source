@@ -49501,3 +49501,19 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Points d'arrêt.** Passe suivante dans le Rhône : reprendre Meyzieu (site de la mairie d'abord, puis registre de l'Agence Bio pour le 69, puis les marchés), puis Caluire si la Ville ou un annuaire permet de trouver deux autres commerces. Si la descente se bloque, la règle 247 compte douze communes éprouvées (trois à ce jour). La passe suivante ne revient pas en Occitanie (règle 41.c) si elle change de région.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Seine-et-Marne (77) sondée, Meaux relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), dénominateur national (règle 224), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : cette région est exclue (règle 41.c). Restent écartés, clos ou épuisés : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Rhône, Hérault, Seine-Saint-Denis, Yvelines, Val-de-Marne, Pas-de-Calais, Calvados, Vienne, Haute-Corse, Bas-Rhin, Ille-et-Vilaine, Haute-Marne. **Seine-et-Marne (77)** retenue : premier département ouvert hors région exclue, déficit ≈ 3,9, 29 fiches.
+
+**Commune, règle 41.d.** Meaux (56 905 habitants) est la plus peuplée du 77 sans fiche, mais elle a déjà été instruite en détail (passe « Meaux et Chelles » : deux points alimentaires retenus sur cinq, quatre producteurs bio du registre en certification arrêtée). Rien de neuf n'a été trouvé à Meaux cette passe : la reprendre sans élément nouveau répéterait la même note.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 77 (100 premiers opérateurs, un appel). Plusieurs opérateurs déclarent la vente aux particuliers dans des communes déjà éprouvées (Chelles, Bussy-Saint-Georges, Coulommiers, Nemours, Montévrain, Torcy, Tournan-en-Brie, Nangis, Melun). Ceux qui sont en nom d'exploitant individuel sont écartés pour doute sur une personne, sans nom repris ici (règle personnes).
+
+**Pourquoi rien n'est publié.** Aucune commune du 77 n'a, à ce stade, cinq commerces vérifiés et datés à partir de sources indépendantes. Le registre seul ne suffit pas (règle 6 et règle 52) : il faut ouvrir les sites des communes et des enseignes.
+
+**Points d'arrêt.** Passe suivante en Seine-et-Marne : commencer par Melun (site de la Ville, rubrique marchés, puis registre), puis Pontault-Combault ou Torcy si Melun ne rend pas cinq commerces. Ne pas revenir en Auvergne-Rhône-Alpes avant une passe d'une autre région (règle 41.c). La descente de Meaux reste close sauf élément nouveau.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun lint ni build relancé : aucune donnée n'a changé. Total inchangé : 1 304 fiches.
