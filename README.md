@@ -49184,3 +49184,26 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Point d'arrêt.** La règle 247 (fermeture de la Haute-Garonne) et le critère de réouverture ne se recoupent toujours pas. Il faut une règle de passage explicite pour sortir de cette boucle ; une nouvelle sonde ne la règle pas.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Alpes-de-Haute-Provence (04) reprise, Oraison sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours`, inchangée (demande n° 13, Villecroze, Var) : l'enseigne ressemble à un prénom et le contact transmis est privé, doute sur une personne. Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 177.** Population par département (géo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal, métropole seule. Réserve 41.c : la passe précédente visait le Nord (Hauts-de-France), région exclue. Écartés par la formule ou consignés comme clos : Haute-Garonne (31, fermée de fait, règle 247), Oise (60), Loire (42), Isère (38), Savoie (73), Calvados (14), Vienne (86), Hérault (34), Seine-Saint-Denis (93), Rhône (69), Eure-et-Loir (28, règle 247), Ille-et-Vilaine (35), Haute-Marne (52). Premier département restant : les **Alpes-de-Haute-Provence (04)**, déficit ≈ 3,18, zéro fiche. PACA n'est pas la région de la passe précédente : elle est éligible de nouveau.
+
+**Commune, règle 41.d.** Manosque et Digne-les-Bains ont été sondées aux passes précédentes sans atteindre cinq commerces. La suivante par population sans fiche est **Oraison (6 155 habitants)**, sondée cette passe :
+- marché de centre-ville sur quatre places (fruits, légumes, poisson, fromages), jour et horaires non trouvés dans les sources lues, pas de page de marché sur le site de la Ville ; ce n'est pas un marché de producteurs. Piste, pas une fiche ;
+- une vente à la ferme dont l'enseigne ressemble à un prénom : doute sur une personne, écartée cette passe, notée ici sans nom ;
+- le maraîchage bio en vente directe recensé dans l'annuaire est à Sillans-la-Cascade, hors commune.
+
+**Pourquoi rien n'est publié.** Oraison ne rend aucune fiche vérifiable à cinq ; une fiche isolée ne fait pas une zone (règle 52). Le groupement de cinq n'est pas atteint.
+
+**Pistes non publiées (anonymes, Alpes-de-Haute-Provence).**
+- Oraison : un marché de centre-ville, jour et horaires à obtenir auprès de la mairie.
+- Oraison : une vente à la ferme, écartée pour doute sur une personne (enseigne au prénom) ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Oraison).
+
+**Point d'arrêt.** La descente reprend à Forcalquier, puis Château-Arnoux-Saint-Auban. Digne-les-Bains et Manosque restent à reprendre sur les sites des communes, qui n'ont pas été lus en entier.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
