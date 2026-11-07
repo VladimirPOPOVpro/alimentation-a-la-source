@@ -49533,3 +49533,27 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Points d'arrêt.** Passe suivante : ne pas revenir à Muret sans source nouvelle. Essayer Montgiscard ou Plaisance-du-Touch (31) en consultant d'abord le site de chaque commune (rubrique marchés), puis le réseau AMAP d'Occitanie. Ne pas revenir en Île-de-France avant une passe d'une autre région (règle 41.c).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun lint ni build relancé : aucune donnée n'a changé. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Eure-et-Loir (28) : Dreux et Lucé sondées, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177, 224, 247 et 265.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est écartée (règle 41.c). Écartés, clos ou épuisés selon les passes précédentes : Nord, Oise, Loire, Isère, Haute-Corse, Savoie, Calvados, Vienne, Hérault, Seine-Saint-Denis, Rhône, Ille-et-Vilaine, Haute-Marne, Yvelines, Val-de-Marne, Pas-de-Calais, Bas-Rhin, Haute-Garonne. **Eure-et-Loir (28)** retenu : déficit ≈ 3,19, premier département ouvert hors Occitanie. Corse-du-Sud (3,18) et Alpes-de-Haute-Provence (3,18) sont au coude à coude, mais le 04 vient de subir une descente en PACA (règle 247) et le 28 est le plus fort ; la passe ne sort pas du classement pour un écart de 0,01.
+
+**Commune, règle 41.d.** Le 28 compte déjà cinq fiches, toutes à Chartres et dans son agglomération (passe du 7 octobre). Commune la plus peuplée sans fiche : **Dreux** (~30 000 habitants). Lucé vient ensuite (~15 000).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 28 (100 premiers opérateurs, un appel). Aucun opérateur à Dreux ne déclare la vente aux particuliers. À Lucé, un seul : sa fiche est une structure à enseigne vérifiable, à compléter avant toute publication. Les autres opérateurs déclarés en vente aux particuliers sont dans des communes déjà éprouvées ou en nom d'exploitant individuel, écartés pour doute sur une personne (règle personnes), sans nom repris ici.
+- Recherches web (trois, plus une ciblée) : pour Dreux, un magasin de producteurs, Place de la Bondé, avec l'adresse donnée par un seul annuaire (Que Choisir) et aucun horaire trouvé ; pas de marché de producteurs identifié ; le site de la Ville n'a pas été lu. Pour Lucé, un marché rue des Écoles le mercredi matin, cité par l'office de tourisme de Chartres avec un boucher et un primeur permanents, sans producteur identifié, date incertaine. Les fermes trouvées en périphérie (Bonneval, Cloyes-les-Trois-Rivières, Saint-Denis-Lanneray) sont hors commune.
+
+**Pourquoi rien n'est publié.** Dreux : une seule source, sans horaires, pour un seul point de vente ; un marché non confirmé par la Ville. Lucé : un marché sans producteur identifié et une seule source datée. Une fiche isolée ne fait pas une zone (règle 52), et la règle 248 interdit de publier quand la passe ne trouve sa zone dans aucun des départements éprouvés.
+
+**Pistes non publiées** (anonymes) :
+- Dreux, magasin de producteurs de la Place de la Bondé : adresse à confirmer par une seconde source ; horaires et téléphone à lire sur le site de l'enseigne ou au point de vente ; la fiche n'est reprise que si une source indépendante la confirme. **Déblocage** : horaires vérifiés et registre (règle 6).
+- Dreux, marché : aucun jour ni lieu confirmé. **Déblocage** : site de la Ville de Dreux, rubrique marchés, lu dans une passe future.
+- Lucé, marché du mercredi rue des Écoles : **déblocage** = confirmation par la mairie de Lucé et une liste de producteurs présents.
+- Lucé, structure à enseigne inscrite au registre de l'Agence Bio pour la vente aux particuliers : **déblocage** = site de la structure et fixe publié.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir en Centre-Val de Loire (règle 41.c) si la passe précédente y a publié ; le 28 reste ouvert au classement. Commencer par le site de la Ville de Dreux (rubrique marchés), puis la descente à Lucé. Si le 28 ne rend pas sa zone en deux communes, la passe suivante prendra le département suivant du classement (Corse-du-Sud ou Alpes-de-Haute-Provence, la descente 04 étant à cinq communes sur douze).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
