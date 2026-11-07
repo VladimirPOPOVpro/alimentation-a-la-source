@@ -49257,3 +49257,29 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Points d'arrêt.** La Haute-Corse reste ouverte. Passe suivante : lire la rubrique « Vivre à Vescovato » dans le navigateur. Si elle ne donne ni marché ni commerce daté, Vescovato est épuisée et la descente atteint la borne de la règle 247 ; la passe suivante prend alors le département suivant du classement, hors Corse (41.c) et hors Hauts-de-France.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Nord (59) reprise, Marcq-en-Barœul et Cambrai sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours`, inchangée : doute sur une personne (enseigne au prénom, contact privé). Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Population par département (géo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal, métropole seule. Réserve 41.c : la passe précédente visait la Haute-Corse (Corse), région exclue. Premier département restant du classement : **Nord (59)**, déficit ≈ 6,55, 45 fiches. Il redevient éligible.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul ont été sondées aux passes précédentes sans fiche vérifiable. Marcq-en-Barœul (40 184 habitants, zéro fiche) est reprise cette passe :
+- agrégateur de marchés (jours-de-marche.fr, non officiel) : trois marchés annoncés, sans jour ni lieu ;
+- recherche web : aucun marché de producteurs à jours et horaires vérifiés ; un magasin de fruits et légumes et un commerce permanent, hors sujet pour un marché ;
+- carnet des producteurs MEL (calendrier p. 48) : toujours non extrait sur cette machine.
+
+Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de producteurs ou de coopérative recensés par Que Choisir sans horaires vérifiés, un marché annoncé sans jour, une ferme sans localisation exacte. Aucun ne tient une source officielle de la commune.
+
+**Pourquoi rien n'est publié.** Ni Marcq-en-Barœul ni Cambrai ne rend cinq commerces vérifiables ; une fiche isolée ne fait pas une zone (règle 52).
+
+**Pistes non publiées (anonymes, Nord).**
+- Marcq-en-Barœul : trois marchés annoncés par un seul agrégateur, jours et lieux à obtenir auprès de la Ville.
+- Cambrai : deux magasins de producteurs recensés par une seule source, horaires à vérifier sur place.
+- Cambrai : une ferme en vente directe maraîchère, sans adresse exacte.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe (les opérateurs à nom de personne physique rencontrés à Cambrai ne sont pas repris).
+
+**Prochaine passe.** Marcq-en-Barœul : carnet MEL à lire dans le navigateur, puis Maubeuge. Cambrai : site de la Ville à lire dans le navigateur.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
