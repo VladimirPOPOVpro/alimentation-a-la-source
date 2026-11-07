@@ -49362,3 +49362,28 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Points d'arrêt.** Le 78 ne reprend qu'avec une nouvelle source (site de la Ville de Mantes-la-Jolie lu dans le navigateur, ou une commune hors des douze déjà éprouvées). Passe suivante : départements de rang suivant du classement, hors Hauts-de-France et hors Île-de-France si l'Île-de-France a déjà été visée à la passe précédente (règle 41.c).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Alpes-de-Haute-Provence (04) : Forcalquier sondée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en `en_cours` reste inchangée (doute sur une personne). Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Île-de-France : la région est exclue. Les départements clos ou épuisés de la liste la plus récente restent écartés. Retenu : **Alpes-de-Haute-Provence (04)**, premier département ouvert du classement, descente déjà entamée à deux passes antérieures.
+
+**Commune, règle 41.d.** Descente éprouvée : Manosque, Digne-les-Bains, Oraison, puis **Forcalquier (5 222 habitants, zéro fiche)** cette passe. Château-Arnoux-Saint-Auban reste la commune suivante, à sonder.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio (04) : Forcalquier compte des opérateurs qui vendent aux particuliers, tous au nom d'exploitants individuels ; écartés pour doute sur une personne, sans nom repris ici. Aucune enseigne d'entreprise de vente directe identifiée.
+- Recherche web sur les marchés de Forcalquier : les sources se contredisent. Un guide donne le marché principal le lundi matin, un autre un marché paysan le jeudi après-midi sur la place du Bourguet, un troisième un petit marché coopératif avenue de Verdun. Aucune source datée de 2026 ne tranche (règle 5 : contradiction, rien ne part).
+- Site de la Ville de Forcalquier : non accessible depuis le navigateur de la passe (navigation refusée). Il n'a donc pas pu trancher le conflit.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Forcalquier n'a de source indépendante, datée et concordante : les horaires des marchés divergent d'une source à l'autre, et aucun producteur n'est identifié hors les opérateurs écartés. Une fiche de marché avec un jour contesté enverrait quelqu'un au mauvais endroit (règle 5).
+
+**Pistes non publiées (anonymes, Alpes-de-Haute-Provence).**
+- Forcalquier : marché hebdomadaire, jour contesté entre lundi et jeudi selon les sources ; à reprendre si la Ville ou l'office publie un calendrier daté.
+- Forcalquier : quatre opérateurs de vente aux particuliers au nom d'exploitants individuels, écartés pour doute sur une personne ; non rouvert.
+
+**Fiches écartées pour doute sur une personne.** Quatre cette passe (Forcalquier), nombre seulement.
+
+**Points d'arrêt.** La descente 04 compte quatre communes éprouvées sur douze (règle 247). Passe suivante : Château-Arnoux-Saint-Auban (sondée sur le registre : une seule structure associative sans vente aux particuliers, rien à publier en l'état). La passe suivante ne revient pas en PACA (règle 41.c). Le site de la Ville de Forcalquier reste à lire quand l'accès sera rétabli.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
