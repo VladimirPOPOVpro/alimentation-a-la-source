@@ -49207,3 +49207,30 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Point d'arrêt.** La descente reprend à Forcalquier, puis Château-Arnoux-Saint-Auban. Digne-les-Bains et Manosque restent à reprendre sur les sites des communes, qui n'ont pas été lus en entier.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Nord (59) reprise, Wattrelos sondée, Marcq-en-Barœul entamée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours`, inchangée (demande n° 13, Villecroze, Var) : l'enseigne ressemble à un prénom et le contact transmis est privé, doute sur une personne. Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 410.** Population par département (géo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal, outre-mer exclu. Réserve 41.c : la passe précédente visait les Alpes-de-Haute-Provence (PACA), région exclue ; le Nord (59) redevient éligible. Premier département métropolitain restant du classement : **Nord (59)**, déficit ≈ 4,5, 45 fiches. Il n'est ni épuisé ni fermé : il est ouvert (règle 410).
+
+**Commune, règle 41.d.** La commune la plus peuplée du 59 sans aucune fiche est **Wattrelos (40 847 habitants)**, déjà relue à la passe précédente. Sondée à nouveau cette passe :
+- registre de l'Agence Bio, 700 opérateurs du 59 lus : aucun opérateur de vente directe retenu à Wattrelos ;
+- site de la Ville : la page d'accueil ne mentionne aucun marché ;
+- agrégateur de marchés (jours-de-marche.fr, non officiel) : trois marchés annoncés (jeudi, vendredi, dimanche, de 8 h à 13 h), sans lieu ni producteur. Une seule source, pas deux officielles : règle 9 non remplie ;
+- producteurs : la liste jours-de-marche ne donne aucun producteur à Wattrelos, seulement des fermes des environs (Toufflers, Wambrechies) ;
+- recherches web : aucun commerce de producteurs vérifiable à Wattrelos.
+
+**Descente : Marcq-en-Barœul (40 184 habitants, zéro fiche).** Registre Agence Bio : aucun opérateur de vente directe retenu ; agrégateur : trois marchés sans détail ; recherches web : aucun marché de producteurs à jours et lieux vérifiés. Le carnet des producteurs de la Métropole européenne de Lille (2024, calendrier des marchés p. 48) est la source à lire, mais le PDF n'a pas pu être extrait sur cette machine (ni outil d'extraction ni rendu de page disponibles). À reprendre.
+
+**Zéro.** Aucune fiche retenue cette passe : Wattrelos n'a aucun commerce vérifié à cinq, et Marcq-en-Barœul n'est pas encore lu dans sa source principale.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos : trois marchés hebdomadaires (jeudi, vendredi, dimanche, matin), jours annoncés par un seul agrégateur ; à confirmer auprès de la Ville pour la règle 9.
+- Marcq-en-Barœul : aucune piste de vente directe retenue, carnet MEL à lire.
+
+**Prochaine passe.** Marcq-en-Barœul via le carnet des producteurs MEL (calendrier p. 48), puis Cambrai (31 134 habitants, zéro fiche) : le registre Agence Bio y cite un opérateur de production avec vente aux particuliers, à vérifier sur son propre site et sur le site de la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
