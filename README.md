@@ -49340,3 +49340,25 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Prochaine passe.** Le déficit du Nord reste le premier du classement : la descente 41.d reprend à la commune suivante par population après Maubeuge, sous la borne de la règle 247. Un site officiel de Ville (rubrique marchés) reste la condition pour publier un marché.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (suite 4, Yvelines (78) : descente épuisée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, population géo.api.gouv.fr (34 969 communes), 1 304 fiches comptées sur le code postal. Premier rang : Nord (59), déficit ≈ 6,1, mais la passe précédente visait déjà les Hauts-de-France : écarté par la réserve 41.c. Rang suivant ouvert : **Yvelines (78)**, déficit ≈ 4,0, 25 fiches comptées.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 78 sans fiche est **Mantes-la-Jolie** (43 526 habitants). Elle a été sondée à plusieurs passes sans cinq commerces vérifiables (règle 96). Le registre de l'Agence Bio, relu cette passe, n'y donne que deux opérateurs de vente aux particuliers, dont un patronymique (écarté pour doute sur une personne) et une boulangerie : rien de publiable. Poissy, Trappes, Houilles et Conflans-Sainte-Honorine ont déjà été éprouvées, et le registre n'y donne aucun point de vente exploitable. La borne de la règle 247 est atteinte : le 78 n'a pas rendu de zone.
+
+**Contradiction relevée, non tranchée ici.** La note de la neuvième passe versaillaise (section « Pistes non publiées à Versailles ») dit que Versailles n'a aucune fiche. Or `data/marchands.json` porte déjà quatre marchés de Versailles (Marché Notre-Dame, Marché Saint-Louis, Marché de Porchefontaine, Marché de Jussieu-Montreuil) et le Potager du Roi. Les quatre marchés correspondent à la liste officielle de la Ville (`versailles.fr`, rubrique « Les marchés versaillais », jours et horaires publiés). La note versaillaise est donc périmée sur ce point ; les fiches existantes ne sont pas modifiées cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente du 78 ne rend cinq commerces vérifiables à partir de sources indépendantes ; une fiche isolée ne fait pas une zone (règle 52).
+
+**Pistes non publiées (anonymes, Yvelines).**
+- Mantes-la-Jolie : une boulangerie au registre (vente aux particuliers) ; une piste de marché de quartier sans source de la Ville.
+- Mantes-la-Jolie : un opérateur patronymique au registre, écarté pour doute sur une personne ; non rouvert.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Mantes-la-Jolie), comptée dans la piste ci-dessus.
+
+**Points d'arrêt.** Le 78 ne reprend qu'avec une nouvelle source (site de la Ville de Mantes-la-Jolie lu dans le navigateur, ou une commune hors des douze déjà éprouvées). Passe suivante : départements de rang suivant du classement, hors Hauts-de-France et hors Île-de-France si l'Île-de-France a déjà été visée à la passe précédente (règle 41.c).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
