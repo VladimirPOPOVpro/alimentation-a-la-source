@@ -49387,3 +49387,15 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Points d'arrêt.** La descente 04 compte quatre communes éprouvées sur douze (règle 247). Passe suivante : Château-Arnoux-Saint-Auban (sondée sur le registre : une seule structure associative sans vente aux particuliers, rien à publier en l'état). La passe suivante ne revient pas en PACA (règle 41.c). Le site de la Ville de Forcalquier reste à lire quand l'accès sera rétabli.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (suite 5, Ille-et-Vilaine (35) : Rennes déjà sondée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait Alpes-de-Haute-Provence (04) : la région PACA est exclue (41.c). Les départements clos de la liste du 6 novembre restent écartés (règle 247). Le premier département ouvert du classement est l'Ille-et-Vilaine (35), commune la plus peuplée sans fiche : Rennes.
+
+**Pourquoi rien n'est publié.** Rennes a déjà été instruite en profondeur à une passe antérieure (sources : inventaire des marchés de la métropole, guide 2026-27, office de tourisme, registre de l'Agence Bio pour le 35). Aucune source nouvelle n'a été ouverte cette passe ; reprendre la même commune sans élément neuf ne ferait que répéter une note déjà consignée. Saint-Malo, commune suivante par population, n'a été sondée que dans le registre (deux opérateurs de vente aux particuliers, dont l'un au nom d'un exploitant individuel : écarté pour doute sur une personne, sans nom repris ici).
+
+**Point d'arrêt.** La descente 35 n'a pas de commerce vérifié en attente de publication. Toutes les communes ouvertes déjà passées (Bas-Rhin, Savoie, Vienne, Haute-Corse, Calvados) ont été sondées sans fiche publiée. Une nouvelle passe qui tourne dans les mêmes départements produira la même note. La prochaine passe a besoin d'une commune qui n'a pas encore été instruite.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
