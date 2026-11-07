@@ -49437,3 +49437,19 @@ Backlog vide : aucune demande « nouvelle ». Classement recalculé (règle 41),
 **Pour la passe suivante à Muret.** Ouvrir mairie-muret.fr (rubrique marchés) et DirectFermiers31 ; interroger le registre de l'Agence Bio sur les opérateurs domiciliés à Muret ; ne pas retenir de fiche sans une source indépendante pour le jour et le lieu.
 
 **Publication.** Seule cette note a été ajoutée au README. Aucune fiche, aucune image, aucun code n'a été touché. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Alpes-de-Haute-Provence (04) : Château-Arnoux-Saint-Auban sondée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Population par département (géo.api.gouv.fr, 34 969 communes), dénominateur national, 1 304 fiches comptées sur le code postal, métropole seule. Réserve 41.c : la passe précédente visait la Haute-Garonne (Occitanie), région exclue ; la PACA est donc éligible. Hauts-de-France, Occitanie et les départements clos ou épuisés restent écartés. Le département retenu est les **Alpes-de-Haute-Provence (04)**, descente à 4 communes éprouvées sur 12 (règle 247).
+
+**Commune, règle 41.d.** Manosque, Digne-les-Bains, Oraison et Forcalquier ont déjà été éprouvées. La suivante par population sans fiche est **Château-Arnoux-Saint-Auban**.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 04 (100 premiers opérateurs, un appel). Pour Château-Arnoux-Saint-Auban, le registre ne donne aucun opérateur de vente aux particuliers : un opérateur y est déclaré en vente aux seuls professionnels, et une structure associative à vocation sociale ne vend pas au public. Pas de page de marché ni de fiche producteur identifiée sur la commune dans cette passe.
+
+**Pourquoi rien n'est publié.** Château-Arnoux-Saint-Auban ne rend aucune fiche vérifiable : pas de source indépendante non personnelle, pas de commerce actif de vente directe. Une fiche isolée ne fait pas une zone (règle 52). Le groupement de cinq n'est pas atteint.
+
+**Point d'arrêt.** La descente 04 compte cinq communes éprouvées sur douze (règle 247), avec Château-Arnoux-Saint-Auban. La passe suivante ne revient pas en PACA (règle 41.c). Commune suivante : à déterminer par population sur le fichier géo.api.gouv.fr, en sautant les communes qui ont déjà une fiche (Sisteron en a une).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches. Aucun lint ni build relancé : aucune donnée ni aucun code n'a changé.
