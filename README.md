@@ -49517,3 +49517,19 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Points d'arrêt.** Passe suivante en Seine-et-Marne : commencer par Melun (site de la Ville, rubrique marchés, puis registre), puis Pontault-Combault ou Torcy si Melun ne rend pas cinq commerces. Ne pas revenir en Auvergne-Rhône-Alpes avant une passe d'une autre région (règle 41.c). La descente de Meaux reste close sauf élément nouveau.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun lint ni build relancé : aucune donnée n'a changé. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Haute-Garonne (31) reprise, Muret sondée une troisième fois : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Calcul refait sur `geo.api.gouv.fr` (métropole, 1 304 fiches comptées sur le code postal). Le département de plus grand déficit hors région écartée est le 31 (déficit ≈ 3,8, 24 fiches comptées). La passe précédente visait la Seine-et-Marne (Île-de-France) : cette région est donc écartée ici. Le Nord (59) reste exclu comme épuisé au sens de la règle 247.
+
+**Commune, règle 41.d.** Muret reste la commune la plus peuplée du 31 sans fiche. Elle a déjà été sondée à plusieurs passes ; une recherche ciblée (marché, magasins de producteurs, AMAP) n'y fait apparaître aucun point de vente nouveau et vérifiable. Toulouse, Colomiers, Tournefeuille, Cugnaux, Blagnac et Balma ont déjà des fiches ou ont été éprouvées.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 31 (100 premiers opérateurs, un appel), regroupé par commune. La plupart des opérateurs sont des exploitants en nom individuel : écartés pour doute sur une personne, sans nom repris ici (règle personnes). Les rares structures à enseigne (Intermarché Pinsaguel) sont des supermarchés, écartés par MODERATION.md.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne à Muret cinq commerces vérifiés et datés. Le registre seul ne suffit pas (règles 6 et 52).
+
+**Points d'arrêt.** Passe suivante : ne pas revenir à Muret sans source nouvelle. Essayer Montgiscard ou Plaisance-du-Touch (31) en consultant d'abord le site de chaque commune (rubrique marchés), puis le réseau AMAP d'Occitanie. Ne pas revenir en Île-de-France avant une passe d'une autre région (règle 41.c).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun lint ni build relancé : aucune donnée n'a changé. Total inchangé : 1 304 fiches.
