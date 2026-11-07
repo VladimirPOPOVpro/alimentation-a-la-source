@@ -49295,3 +49295,26 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Prochaine passe.** Colomiers : site de la Ville et réseau AMAP d'Occitanie. Toulouse : marchés couverts à instruire étal par étal.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Nord (59) reprise, Maubeuge sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée : doute sur une personne (enseigne au prénom, contact privé). Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 177.** Population par département (géo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal, métropole seule. Réserve 41.c : la passe précédente visait la Haute-Garonne (Occitanie), région exclue. Premier département restant du classement : **Nord (59)**, déficit ≈ 4,47, 45 fiches.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 59 sans fiche reste **Wattrelos (40 847 habitants)**, sondée à nouveau : la recherche web ne donne qu'un marché (« Marché des Beaux Jours ») sans horaires ni source officielle datée, et une fiche de marché de plus de cinq ans. Pas de cinq commerces vérifiables.
+
+**Maubeuge (28 767 habitants)** est sondée ensuite, au registre de l'Agence Bio : une poignée d'opérateurs vendant aux particuliers, dont un seul producteur à adresse précise. Aucun autre site n'a pu le recouper cette passe. Une fiche isolée ne fait pas une zone (règle 52).
+
+**Pourquoi rien n'est publié.** Ni Wattrelos ni Maubeuge ne rendent cinq commerces vérifiables cette passe.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos : un marché de plein air annoncé, horaires et lieu à confirmer auprès de la Ville.
+- Maubeuge : un producteur au registre Agence Bio, vente aux particuliers déclarée, sans second recoupement.
+- Maubeuge : deux opérateurs de préparation et de distribution, hors périmètre tant qu'aucun point de vente en circuit court n'est confirmé.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe. Plusieurs opérateurs du registre sont des personnes physiques : ils ne sont pas repris.
+
+**Prochaine passe.** Wattrelos : site de la Ville (rubrique marchés) à lire dans le navigateur. Maubeuge : site de la Ville et office de tourisme, puis le producteur au registre.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
