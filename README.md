@@ -49283,3 +49283,15 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Prochaine passe.** Marcq-en-Barœul : carnet MEL à lire dans le navigateur, puis Maubeuge. Cambrai : site de la Ville à lire dans le navigateur.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 7 novembre (suite 2) : Haute-Garonne sondée, rien publié
+
+**Demande en attente.** Une demande d'ajout (Villecroze, 83, catégorie producteur) reste `en_cours`. Le nom de l'enseigne peut être celui d'une personne, et l'adresse de contact fournie est une adresse personnelle : rien n'est publié, rien n'est répondu. Piste anonyme : commune du Var, producteur, motif « nom possiblement personnel ».
+
+**Secteur.** Calcul de la règle 41 sur 1 304 fiches. Les départements d'outre-mer sortent en tête mais restent hors du schéma (validateur métropolitain). Hauts-de-France exclus par la réserve de région, la passe précédente y ayant travaillé. Retenu : Haute-Garonne (31), déficit le plus élevé hors outre-mer et hors région 32.
+
+**Pourquoi rien n'est publié.** Toulouse, la commune la plus peuplée du 31, a déjà ses cinq fiches de producteurs publiées. Les pistes restantes (marchés couverts, producteurs bio à enseigne, réseau AMAP) demandent une vérification étal par étal ou par source tierce qui n'a pas été conduite cette passe. Une commune secondaire du 31 sans fiche (Colomiers, 40 882 habitants) n'a pas été sondée faute de temps.
+
+**Prochaine passe.** Colomiers : site de la Ville et réseau AMAP d'Occitanie. Toulouse : marchés couverts à instruire étal par étal.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
