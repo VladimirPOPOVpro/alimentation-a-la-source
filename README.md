@@ -49470,3 +49470,34 @@ Backlog vide : aucune demande « nouvelle ». Classement recalculé (règle 41),
 **Pour la passe suivante à Muret.** Retenter mairie-muret.fr à une autre heure ; sinon, commune suivante par population sans fiche en Haute-Garonne (Colomiers a déjà des pistes non publiées). Ne pas revenir en PACA avant une passe d'une autre région (règle 41.c).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Rhône (69) reprise, Caluire-et-Cuire sondée à nouveau, Meyzieu entamée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177, 247 et 265.** Métropole seule (règle 177), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31, Occitanie) : cette région est exclue (règle 41.c). Restent écartés, clos ou épuisés selon les passes précédentes : Nord (59), Pas-de-Calais (62), Yvelines (78), Val-de-Marne (94), Seine-Maritime (76), Isère (38), Bouches-du-Rhône (13). **Rhône (69) retenu** : premier département ouvert, déficit ≈ 4,7, région différente de la passe précédente.
+
+**Commune, règle 41.d et descente.** Lyon, Villeurbanne, Vénissieux et Oullins portent déjà des fiches. Vaulx-en-Velin et Saint-Priest sont éprouvées sans déblocage. Caluire-et-Cuire (43 597 hab., aucune fiche) est sondée à nouveau. **Contradiction tranchée** : les notes du 24 octobre annonçaient Bron comme commune suivante après Caluire, alors que Bron porte une fiche ; la règle 41.d demande « aucune fiche ». Sous la lecture littérale, la suivante est **Meyzieu** (36 687 hab., aucune fiche), après Caluire.
+
+**Ce qui a été lu, Caluire-et-Cuire.**
+- Site de la Ville (`ville-caluire.fr`), joignable cette fois. Rubrique marchés forains : Montessuy, jeudi et samedi de 8 h à 13 h, allée du parc de la Jeunesse. Les annuaires indiquent 7 h 30 à 12 h 30 et « allée de la Jeunesse » : la Ville l'emporte (règle 55). La page ne précise ni les produits ni la présence de producteurs. Autres marchés de la commune : Crépieux (mercredi), Saint-Clair (mardi), trois marchés du soir.
+- Rubrique commerçants : six associations de commerçants avec leur téléphone ; aucun commerce listé, aucune AMAP, aucun magasin bio, aucun point de vente directe.
+- Magasin bio, avenue du Général-Leclerc : adresse concordante sur deux annuaires ; horaires du lundi au samedi, 8 h 30 à 19 h 30, sur PagesJaunes et Mappy ; téléphone non trouvé. Rayon de magasin bio généraliste, sans producteurs nommés.
+- Magasin bio coopératif (piste du 24 octobre) : deux sources concordantes, inchangé.
+- **Non confirmés** : une épicerie vrac de la rue Jean-Moulin (aucun résultat sous ce nom) ; une AMAP « Biss-amap » (aucune trace) ; la page « Caluire en poche » de la Ville, tronquée à la lecture.
+
+Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessuy sans produits confirmés. Une fiche isolée ne fait pas une zone (règle 52).
+
+**Meyzieu, entamée.** Pistes non vérifiées : un Biocoop (une source annuaire, téléphone et horaires à confirmer sur une source indépendante) ; deux marchés de producteurs ou de saveurs, rue Victor-Hugo et place des Droits-de-l'Homme, jours et horaires non lus. Le site de la mairie n'a pas répondu (erreur de connexion). Aucune fiche.
+
+**Pourquoi rien n'est publié.** Caluire : moins de cinq commerces vérifiés. Meyzieu : aucun commerce vérifié à ce stade.
+
+**Pistes non publiées** (anonymes) :
+- Caluire-et-Cuire, marché de Montessuy : jour et lieu confirmés par la Ville. **Déblocage** : produits ou producteurs présents, lus sur la page du marché ou de la Ville, et deux autres commerces vérifiés.
+- Caluire-et-Cuire, magasin bio coopératif (consigné le 24 octobre) : déblocage inchangé.
+- Caluire-et-Cuire, épicerie vrac de la rue Jean-Moulin : non trouvée dans les sources ; ne pas reprendre sans enseigne vérifiée.
+- Meyzieu, Biocoop et marchés des rues Victor-Hugo et de la place des Droits-de-l'Homme : **déblocage** = site de la mairie joignable, jours et horaires lus, et une source indépendante pour le Biocoop.
+
+**Points d'arrêt.** Passe suivante dans le Rhône : reprendre Meyzieu (site de la mairie d'abord, puis registre de l'Agence Bio pour le 69, puis les marchés), puis Caluire si la Ville ou un annuaire permet de trouver deux autres commerces. Si la descente se bloque, la règle 247 compte douze communes éprouvées (trois à ce jour). La passe suivante ne revient pas en Occitanie (règle 41.c) si elle change de région.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
