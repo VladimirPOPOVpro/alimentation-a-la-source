@@ -49425,3 +49425,15 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Point d'arrêt.** Le Nord est épuisé au sens de la règle 247. La passe suivante recalcule le classement (règle 41) en écartant la région de la présente passe (Hauts-de-France, région 32). Le 31 (Haute-Garonne) reste ouvert au classement mais sa descente a déjà éprouvé Toulouse, Colomiers, Tournefeuille et Cugnaux ; Muret, Balma et Plaisance-du-Touch sont à sonder en premier, et la règle 248 s'applique si aucune zone n'y apparaît.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches. Aucun lint ni build n'a été relancé : aucune donnée ni aucun code n'a changé.
+
+### Passe du 7 novembre 2026 (suite) : Muret sondée, rien publié
+
+Backlog vide : aucune demande « nouvelle ». Classement recalculé (règle 41), sur la métropole : Nord (59) et Haute-Garonne (31) en tête, le Nord étant épuisé par la passe précédente, le 31 est retenu. Décompte du code postal dans `data/marchands.json` : 24 fiches en 31, contre 288 dans la note toulousaine, déjà signalé plus haut.
+
+**Commune.** Muret (31600), la plus peuplée du 31 sans fiche (26 079 habitants), comme le point d'arrêt le demandait.
+
+**Sondage.** Trois recherches : aucune fiche de producteur identifiable à Muret dans les résultats. Les pistes trouvées sont hors commune (vente à la ferme à environ 27 km, une ferme bio à 34 km, un marché de Pujaudran le vendredi) ou sans source directe. Le jour et les horaires du marché hebdomadaire de Muret ne sont pas confirmés : seul un répertoire tiers donne les horaires de la mairie, et un avis de 2012 désigne la place du Marché sans confirmer l'emplacement actuel. Rien n'est publié : une fiche de commerce demande une source indépendante et un registre, et ces deux conditions ne sont pas remplies à ce stade.
+
+**Pour la passe suivante à Muret.** Ouvrir mairie-muret.fr (rubrique marchés) et DirectFermiers31 ; interroger le registre de l'Agence Bio sur les opérateurs domiciliés à Muret ; ne pas retenir de fiche sans une source indépendante pour le jour et le lieu.
+
+**Publication.** Seule cette note a été ajoutée au README. Aucune fiche, aucune image, aucun code n'a été touché. Total inchangé : 1 304 fiches.
