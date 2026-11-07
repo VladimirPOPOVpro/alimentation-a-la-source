@@ -49318,3 +49318,25 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Prochaine passe.** Wattrelos : site de la Ville (rubrique marchés) à lire dans le navigateur. Maubeuge : site de la Ville et office de tourisme, puis le producteur au registre.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (suite 3, Nord (59) : Wattrelos et Maubeuge reprises : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, population géo.api.gouv.fr, 1 304 fiches. Le Nord reste le premier département ouvert (déficit ≈ 4,5, 45 fiches). Aucune publication en métropole la passe précédente : la réserve 41.c ne bloque rien.
+
+**Wattrelos (59), règle 41.d.** Le site `wattrelos.fr` n'est pas celui de la Ville : c'est un annuaire commercial privé, qui ne compte pas comme source officielle. Les annuaires de marchés (trois marchés hebdomadaires) donnent des horaires contradictoires pour les mêmes places (jeudi, vendredi, dimanche), sans source datée de la commune. Pas de cinq commerces vérifiables.
+
+**Maubeuge (59), règle 41.d.** Le marché de la place de Wattignies (samedi) n'a que deux producteurs listés, tous deux par une seule plateforme de vente en circuit court ; les horaires diffèrent d'un agrégateur à l'autre (8h-12h30, 8h-13h, 9h-12h). Pas de site officiel de la Ville lu cette passe. Pas de cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq fiches vérifiables à partir de sources indépendantes et datées. Un horaire contesté entre agrégateurs est un fait contesté (règle 5) : il ne part pas.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos : trois marchés hebdomadaires annoncés par des annuaires, horaires contradictoires, à recouper auprès de la Ville.
+- Maubeuge : deux producteurs de la plateforme de circuit court, sans site propre recoupé.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Prochaine passe.** Le déficit du Nord reste le premier du classement : la descente 41.d reprend à la commune suivante par population après Maubeuge, sous la borne de la règle 247. Un site officiel de Ville (rubrique marchés) reste la condition pour publier un marché.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
