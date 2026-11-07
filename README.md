@@ -49453,3 +49453,20 @@ Backlog vide : aucune demande « nouvelle ». Classement recalculé (règle 41),
 **Point d'arrêt.** La descente 04 compte cinq communes éprouvées sur douze (règle 247), avec Château-Arnoux-Saint-Auban. La passe suivante ne revient pas en PACA (règle 41.c). Commune suivante : à déterminer par population sur le fichier géo.api.gouv.fr, en sautant les communes qui ont déjà une fiche (Sisteron en a une).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches. Aucun lint ni build relancé : aucune donnée ni aucun code n'a changé.
+
+## Passe autonome du 7 novembre 2026 (suite 7, Haute-Garonne (31) : Muret sondée une seconde fois, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur.** La passe précédente visait la PACA : la Haute-Garonne est donc de nouveau éligible (règle 41.c). Le département retenu reste le 31, avec Muret, commune la plus peuplée du 31 sans fiche, comme le point d'arrêt le demandait.
+
+**Ce qui a été lu.**
+- Site de la mairie de Muret : refus d'accès (403) depuis cet environnement. Impossible de lire la rubrique marchés.
+- Registre de l'Agence Bio, 31 (100 premiers opérateurs) : deux opérateurs domiciliés à Muret. L'un est un entrepôt déclaré en vente aux seuls professionnels de gros ; l'autre est une exploitation déclarée en vente aux professionnels seulement, et dont le nom est celui d'une personne physique : rien n'en est repris (règle personnes).
+- DirectFermiers31 : l'adresse redirige vers la page du Département, qui ne publie qu'un répertoire par canton, sans liste de producteurs de Muret.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne donne un marché de Muret, son jour ou son lieu, et aucun point de vente en direct identifiable à Muret. Une fiche sans source ne part pas (règles 6 et 52).
+
+**Pour la passe suivante à Muret.** Retenter mairie-muret.fr à une autre heure ; sinon, commune suivante par population sans fiche en Haute-Garonne (Colomiers a déjà des pistes non publiées). Ne pas revenir en PACA avant une passe d'une autre région (règle 41.c).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
