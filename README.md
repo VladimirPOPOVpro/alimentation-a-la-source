@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 7 novembre 2026 (Haute-Garonne, Saint-Orens-de-Gameville et L'Union relues) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ».
+
+**Classement, règle 41.** Outre-mer écarté (règle 177) : La Réunion (974) reste en tête de la formule brute, mais le validateur refuse ses coordonnées. Le Nord (région 32, passe du 7 novembre) est exclu par la règle 41.c. Haute-Garonne (31, région 76, passe du 6 novembre) reste le département retenu, déficit métropolitain le plus élevé après exclusion.
+
+**Commune, règle 41.d.** Passe sur Saint-Orens-de-Gameville, le point d'arrêt annoncé le 6 novembre.
+
+**Ce qui a été lu.**
+- Saint-Orens-de-Gameville : un marché de plein vent le samedi (Place de la Fraternité) apparaît dans les agendas de la Métropole, mais les horaires qui s'y rattachent sont ceux d'un autre marché de la même métropole. Les fiches de producteurs listées par un annuaire de marchés sont situées ailleurs. Aucun horaire confirmé par une source municipale. Rien n'est publié.
+- L'Union, La Ferme des Violettes : répertoriée comme magasin de producteurs par un annuaire de circuits courts, sans horaires lisibles. Les horaires trouvés sur un autre site renvoient à une boulangerie installée à la même adresse. Contradiction consignée, rien tranché.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Une fiche isolée ne forme pas la zone visée.
+
+**Pistes non publiées** (anonymes) : Saint-Orens-de-Gameville, marché du samedi, horaires et organisateur à confirmer auprès de la mairie ; L'Union, magasin de producteurs, horaires à confirmer par téléphone, et à distinguer de la boulangerie du même site.
+
+**Point d'arrêt.** Haute-Garonne, passe suivante : confirmer par la mairie de Saint-Orens-de-Gameville les jours et horaires du marché, puis descendre à la commune suivante par population si rien ne se confirme. La descente de la règle 247 approche de sa borne pour ce département.
+
 ### Passe autonome du 6 novembre 2026 (Haute-Garonne, Balma, Castanet-Tolosan, L'Union et Ramonville relues) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
