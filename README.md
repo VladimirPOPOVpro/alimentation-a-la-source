@@ -49172,3 +49172,15 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Zéro.** Aucune fiche retenue. Cambrai, Marcq-en-Barœul et Maubeuge restent les pistes suivantes, déjà consignées aux passes précédentes ; aucune n'a été reprise cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Hauts-de-France exclus par 41.c, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Aucune réponse email à envoyer.
+
+**Secteur, règles 41 et 41.c.** Population par département (géo.api.gouv.fr), 1 304 fiches comptées sur le code postal, outre-mer exclu. Réserve 41.c : la passe précédente visait le Nord (Hauts-de-France), région exclue. Premiers départements du classement hors Hauts-de-France : Haute-Garonne (31, déficit ≈ 3,83), fermée de fait par la règle 247 et consignée comme telle ; Loire (42, ≈ 3,64) et Isère (38, ≈ 3,57), déjà visitées et épuisées aux passes précédentes ; Haute-Corse (2B) sans fiche mais déjà sondée. Aucun nouveau département ne sort de la formule sans recourir à une exception.
+
+**Pourquoi rien n'est publié.** Aucune commune nouvelle n'a été sondée cette passe pour ne pas répéter des notes déjà consignées. Aucune fiche n'a été vérifiée.
+
+**Point d'arrêt.** La règle 247 (fermeture de la Haute-Garonne) et le critère de réouverture ne se recoupent toujours pas. Il faut une règle de passage explicite pour sortir de cette boucle ; une nouvelle sonde ne la règle pas.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
