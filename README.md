@@ -49399,3 +49399,29 @@ Cambrai (31 134 habitants, zéro fiche) est sondée ensuite : deux magasins de p
 **Point d'arrêt.** La descente 35 n'a pas de commerce vérifié en attente de publication. Toutes les communes ouvertes déjà passées (Bas-Rhin, Savoie, Vienne, Haute-Corse, Calvados) ont été sondées sans fiche publiée. Une nouvelle passe qui tourne dans les mêmes départements produira la même note. La prochaine passe a besoin d'une commune qui n'a pas encore été instruite.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Nord (59) épuisé, Villeneuve-d'Ascq et Lambersart relues : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national (outre-mer compris, règle 224), 1 304 fiches comptées sur le code postal. Premier rang : Nord (59), déficit ≈ 4,5. Réserve 41.c : la passe précédente visait la Bretagne (35), donc la région 53 est exclue ; le Nord n'est pas dans la région de la passe précédente. Le Nord est pourtant épuisé (règle 247) : sa descente a déjà éprouvé plus de douze communes à plusieurs passes.
+
+**Commune, règle 41.d.** Relecture de la descente du Nord par population. Villeneuve-d'Ascq (62 868 habitants) a déjà une fiche : elle n'est pas éligible au sens de la règle 41.d. Lambersart (27 090) et Armentières (26 998) ont été éprouvées, la première à plusieurs passes ; une recherche cette passe n'a rien donné de nouveau : aucune page officielle de la Ville de Lambersart lisible, et les répertoires de marchés comptent 3 à 4 marchés sans horaires concordants (règle 5). Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge et Wasquehal sont déjà consignées comme éprouvées.
+
+**Ce qui a été lu.**
+- Site officiel de Villeneuve-d'Ascq (guide « Manger local », catalogue « La Belle Saison 2026 ») : trois marchés de plein air aux horaires publiés (Annappes, Ascq, Flers-Bourg), deux marchés alimentaires votés le 29 juin 2026 sans date ouverte, et un groupement de producteurs réservé aux agents municipaux. La Ville ne publie pas de fiche de producteur ; le retrait LeCourtCircuit du mercredi n'a pas de fiche propre. Non publié : la Ville est la source et il n'y a pas de fiche de commerce à en tirer seule (règle 52), et Villeneuve-d'Ascq a déjà une fiche.
+- Registre de l'Agence Bio (59) : relu, déjà parcouru lors des passes précédentes ; les opérateurs de vente aux particuliers du secteur sont en nom d'exploitants individuels, écartés pour doute sur une personne, sans nom repris ici.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord restante ne rend cinq commerces vérifiables à partir de sources indépendantes et datées. Le département est épuisé au sens de la règle 247 ; la passe ne peut pas revenir sur les communes déjà éprouvées sans déblocage nommé.
+
+**Pistes non publiées (anonymes, Nord).**
+- Villeneuve-d'Ascq : marchés de plein air et marchés votés en juin 2026, sans fiche de producteur ; à reprendre si la Ville publie les marchés éphémères avec dates.
+- Lambersart : trois ou quatre marchés aux horaires contradictoires selon les répertoires ; à reprendre si la Ville publie un calendrier daté.
+
+**Contradiction relevée, non tranchée ici.** Le total de Haute-Garonne cité dans la note de la dixième passe toulousaine (288 fiches publiées) ne correspond pas au décompte du code postal dans `data/marchands.json` (24 fiches, dont cinq à Toulouse). La note toulousaine est périmée ou compte autre chose ; les fiches existantes ne sont pas modifiées.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe ; les opérateurs patronymiques du registre sont déjà comptés dans les passes antérieures.
+
+**Point d'arrêt.** Le Nord est épuisé au sens de la règle 247. La passe suivante recalcule le classement (règle 41) en écartant la région de la présente passe (Hauts-de-France, région 32). Le 31 (Haute-Garonne) reste ouvert au classement mais sa descente a déjà éprouvé Toulouse, Colomiers, Tournefeuille et Cugnaux ; Muret, Balma et Plaisance-du-Touch sont à sonder en premier, et la règle 248 s'applique si aucune zone n'y apparaît.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches. Aucun lint ni build n'a été relancé : aucune donnée ni aucun code n'a changé.
