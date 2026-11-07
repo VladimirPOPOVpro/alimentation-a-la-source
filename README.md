@@ -49234,3 +49234,26 @@ Deux fiches solides ne rendent pas la zone utilisable ; la règle du groupe de c
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+## Passe autonome du 7 novembre 2026 (Haute-Corse (2B) reprise, Vescovato relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours`, inchangée (demande n° 13, Villecroze, Var) : l'enseigne ressemble à un prénom et le contact transmis est privé, doute sur une personne. Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177, 247 et 410.** Population par département (géo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal, métropole seule. Réserve 41.c : la passe précédente visait le Nord (Hauts-de-France), région exclue ; l'Oise (60) l'est donc aussi. Clos ou épuisés, et écartés : Haute-Garonne (31, règle 247), Loire (42), Isère (38), Savoie (73), Calvados (14), Rhône (69), Seine-Saint-Denis (93), Hérault (34), Ille-et-Vilaine (35). Premier département ouvert : la **Haute-Corse (2B)**, déficit ≈ 3,54, zéro fiche. La Corse n'est pas la région de la passe précédente : elle est éligible.
+
+**Commune, règle 41.d.** Descente déjà entamée (Bastia, Corte, Borgo, Biguglia, Furiani, Lucciana, Calvi, Ghisonaccia, Prunelli-di-Fiumorbo, Penta-di-Casinca éprouvées). Commune suivante par population : **Vescovato (3 406 habitants)**, relue cette passe :
+- registre de l'Agence Bio, Haute-Corse, deuxième page de cent opérateurs lue (la première l'avait été à la passe huitième) : à Vescovato, trois opérateurs marqués « vente aux particuliers » sont enregistrés sous des noms de personnes physiques. Écartés pour doute sur une personne, ils ne se rouvrent pas. Un quatrième opérateur est un grossiste, hors sujet ;
+- le site de la Ville répond 403 à `curl` : la rubrique « Vivre à Vescovato » reste à lire dans le navigateur, elle n'a pas été lue ;
+- aucun marché de producteurs n'est recensé à Vescovato hors une brocante hebdomadaire, hors sujet.
+
+**Pourquoi rien n'est publié.** Vescovato ne rend aucun commerce de producteurs vérifiable à cinq ; une fiche isolée ne fait pas une zone (règle 52).
+
+**Pistes non publiées (anonymes, Haute-Corse).**
+- Vescovato : trois opérateurs de vente directe enregistrés sous des noms de personnes physiques, écartés pour doute sur une personne ; ne se rouvrent pas.
+- Prunelli-di-Fiumorbo : un domaine viticole avec vente aux particuliers au registre (vin, hors sujet pour cette passe) ; un marché daté reste à trouver.
+
+**Fiches écartées pour doute sur une personne.** Trois cette passe (Vescovato), comptées à l'intérieur de la piste ci-dessus.
+
+**Points d'arrêt.** La Haute-Corse reste ouverte. Passe suivante : lire la rubrique « Vivre à Vescovato » dans le navigateur. Si elle ne donne ni marché ni commerce daté, Vescovato est épuisée et la descente atteint la borne de la règle 247 ; la passe suivante prend alors le département suivant du classement, hors Corse (41.c) et hors Hauts-de-France.
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
