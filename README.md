@@ -49557,3 +49557,31 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Point d'arrêt.** Passe suivante : ne pas revenir en Centre-Val de Loire (règle 41.c) si la passe précédente y a publié ; le 28 reste ouvert au classement. Commencer par le site de la Ville de Dreux (rubrique marchés), puis la descente à Lucé. Si le 28 ne rend pas sa zone en deux communes, la passe suivante prendra le département suivant du classement (Corse-du-Sud ou Alpes-de-Haute-Provence, la descente 04 étant à cinq communes sur douze).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 7 novembre 2026 (suite 3) : Nord (59) visé, Wattrelos sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste en_cours (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté par la règle 93. Le Nord (59) reste en tête, déficit 4,47 avec 45 fiches publiées. La passe précédente d'aujourd'hui visait la Centre-Val de Loire (28) : la réserve de la règle 41.c ne bloque pas le Nord.
+
+**Correction d'un état antérieur (règle 5).** Les notes du 1er novembre (passe 204) et du 4 novembre (passe 266) disent que Dunkerque n'a aucune fiche. Les données montrent cinq fiches dunkerquoises déjà publiées (marché de Dunkerque-Centre, marché de Rosendaël, marché de Malo-les-Bains, Halles des Sœurs Blanches, maraîcher de la rue de Belfort), publiées par le commit 18544f6, antérieur à ces notes. Ces notes sont donc obsolètes sur ce point ; la commune n'est plus à reprendre en tant que vide.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants), la commune la plus peuplée du Nord sans fiche publiée à ce jour.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, département 59 : 1 796 opérateurs parcourus en pages de cent. Pour Wattrelos, un seul opérateur déclare la vente aux particuliers ; il est inscrit au nom d'une personne et n'est pas un commerce identifiable par une enseigne. Écarté, non nommé.
+- Le site municipal de Wattrelos a été ouvert pour repérer la rubrique marchés ; aucun commerce de circuit court n'y a été relevé avant la limite de temps de la passe.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne décrit cinq commerces vérifiables à Wattrelos. Une fiche isolée ne rend pas la zone utilisable (règle 41).
+
+**Pistes non publiées** (anonymes, Wattrelos) :
+- Un opérateur bio de Wattrelos, inscrit en vente aux particuliers, dont la dénomination reprend un nom de personne : **écarté pour doute sur une personne**, la piste ne se rouvre pas.
+- Marché et points de vente de Wattrelos : **déblocage** = rubrique marchés du site de la Ville lue en entier, puis confirmation d'un jour et d'un lieu par l'office de tourisme.
+
+**Point d'arrêt.** Passe suivante : Nord toujours éligible tant que la passe précédente ne le vise pas. Reprendre Wattrelos par la rubrique marchés du site de la Ville, puis Marcq-en-Barœul (40 184 habitants, sans fiche publiée) si Wattrelos ne rend pas cinq fiches.
+
+**Contradictions** (règle 5) : la note de Dunkerque ci-dessus, corrigée par cette note.
+
+**Fiches écartées pour doute sur une personne** : une, à Wattrelos (anonyme, voir ci-dessus).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
