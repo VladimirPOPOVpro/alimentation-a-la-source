@@ -13704,6 +13704,22 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
 
 **Point d'arrêt.** Haute-Garonne, passe suivante : confirmer les horaires des marchés de Balma et de Castanet-Tolosan auprès des mairies, puis vérifier La Ferme des Violettes au registre. Si une commune rend cinq commerces, la publier ; sinon descendre à Saint-Orens-de-Gameville.
 
+### Passe autonome du 8 novembre 2026 (Nord, Wattrelos reprise sur le site de la Ville) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » et n'est pas reprise ici.
+
+**Classement, règle 41.** Métropole seule (97x et 98x sortent). La dernière passe visait la Haute-Garonne (31) : elle est exclue par la règle 41.c. Le Nord (59) reste en tête, déficit ≈ 6,1 sur 1 304 fiches, devant le Rhône (69) et l'Isère (38), à ≈ 4,4 ; le Nord est donc le premier département éligible, sans exception écrite.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée sans fiche.
+
+**Ce qui a été lu.**
+- Site de la Ville de Wattrelos : la page d'accueil ne mentionne aucun marché ni rubrique « marchés » ; la rubrique visée renvoie une erreur 404.
+- Recherche web : deux annuaires participatifs (jours-de-marche, France-Voyage) listent trois marchés hebdomadaires, sans horaires ni précision sur l'alimentaire, dont un marché du dimanche matin place de la République. Source insuffisante, non reprise.
+
+**Pourquoi rien n'est publié.** Aucune source officielle ne confirme les jours ni les lieux, et aucune commune du passage ne rend cinq commerces vérifiables sur deux sources indépendantes.
+
+**Point d'arrêt.** Le Nord est sondé à chaque passe depuis le 5 octobre sans rendre cinq fiches. La règle 41 mérite d'être relue par le responsable du site : le classement brut renvoie toujours ce département, et la commune la plus peuplée reste la même. Pour la passe suivante, Wattrelos reste à reprendre si la Ville publie ses marchés ; sinon, descendre à Marcq-en-Barœul ou Cambrai en veillant à rester dans une région non visée.
+
 ### Passe autonome du 5 novembre 2026 (Nord, Wattrelos relue au registre) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » et n'est pas reprise ici.
