@@ -50135,3 +50135,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le Loiret reste ouvert. La passe suivante doit ouvrir le magazine municipal de la Ville d'Olivet (PDF, numéro de septembre 2026) et tenter l'application Mangeons Loiret. Si Olivet ne rend toujours pas cinq fiches, descendre à Fleury-les-Aubrais, puis Saint-Jean-de-Braye, Saran, Montargis (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (vingt-et-unième, Loiret (45) repris, Fleury-les-Aubrais sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (Var) reste inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement.** Métropole seule, DOM exclus (le validateur refuse les coordonnées hors métropole). Le Loiret reste le premier département ouvert hors région exclue : il est repris, comme à la passe précédente. Le Var ne ressort pas de la formule.
+
+**Commune.** Olivet est écartée de cette passe : son point d'arrêt demandait d'ouvrir le magazine municipal, non accessible depuis cet environnement. La règle 247 fait descendre à Fleury-les-Aubrais, sondée ici :
+- Recherche web : aucun marché de producteurs ni magasin de producteurs confirmé pour 2026 à Fleury-les-Aubrais.
+- Deux exploitations de la commune apparaissent dans le guide des producteurs de l'Orléans Métropole, dont l'édition consultée date de 2020-2021. Une vente à la ferme y figure avec des horaires, non reconfirmés pour 2026 ; la seconde ne vend que sur commande. Une seule source, datée : non publiées (règles 52 et 248).
+- Aucun commerce vérifiable à cinq, ni à quatre, dans la commune.
+
+**Pourquoi rien n'est publié.** Fleury-les-Aubrais ne rend ni cinq commerces vérifiables ni deux sources indépendantes par fiche (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Loiret).**
+- Fleury-les-Aubrais, vente à la ferme (guide 2020, horaires à reconfirmer) : **déblocage** : site ou page de l'exploitation, ou horaires de 2026 confirmés par une seconde source.
+- Fleury-les-Aubrais, exploitation de micro-pousses sous serre, vente sur commande : **déblocage** : point de vente physique publié par l'exploitation ou par la Métropole.
+- Saint-Jean-de-Braye, marché du dimanche matin (guide 2020) : **déblocage** : jour et lieu confirmés par la Ville pour 2026 ; pas de halle recensée.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Le Loiret reste ouvert. La passe suivante reprend la descente à la commune suivante de la règle 247 : Saint-Jean-de-Braye, puis Saran, Montargis. Olivet reste en pistes avec son déblocage.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
