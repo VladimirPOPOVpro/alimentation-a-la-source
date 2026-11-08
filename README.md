@@ -49748,3 +49748,25 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : plusieurs, dans l’agglomération lilloise et le Douaisis (exploitants en nom individuel, anonymes).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (cinquième, Haute-Garonne (31) visée, Muret sondée une nouvelle fois : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié).
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Le premier département du classement est le Nord (59, déficit ≈ 6,08), mais la passe précédente visait déjà les Hauts-de-France : la réserve de la règle 41.c l'écarte. Les deux premiers suivants (987, 988) sont hors métropole, exclus par la règle 93. Le suivant est la Haute-Garonne (31, déficit ≈ 4,74, 24 fiches).
+
+**Commune, règle 41.d.** Première commune sans fiche de la Haute-Garonne par population : Muret (26 079 habitants). Elle a déjà été éprouvée à plusieurs passes sans rendre cinq commerces vérifiables.
+
+**Ce qui a été lu.** Recherche web standard sur Muret : aucune page officielle de la Ville listant ses marchés pour 2026. Les résultats sont des annuaires participatifs (jours-de-marche, Cirkwi, Alentoor), dont l'un signale un marché le mardi sans adresse exploitable, et une cagette en ligne dont le nom contient un prénom : écartée pour doute sur une personne, anonyme, la piste ne se rouvre pas. Un marché de Pujaudran, commune voisine, n'entre pas dans le périmètre de Muret.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes datées. Une source unique non datée ne fait pas une fiche (règles 52 et 248).
+
+**Pistes non publiées** (commerces, sans personne nommée) :
+- Muret, marché du mardi signalé par l'office de tourisme du Muretain (Cirkwi), sans adresse exploitable. **Déblocage** : adresse et horaires publiés par l'office ou la Ville, datés de 2026.
+- Muret, cagette en ligne à retrait le mardi : **écartée pour doute sur une personne**, anonyme, ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : le Nord (59) redevient éligible à la règle 41.c ; Muret reste à reprendre seulement si un déblocage nommé ci-dessus apparaît, sinon la descente de la Haute-Garonne passe à la commune suivante par population (Balma, 17 772 habitants), selon la règle 247.
+
+**Fiches écartées pour doute sur une personne** : une cette passe, à Muret (anonyme).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé. Total inchangé : 1 304 fiches.
