@@ -13663,6 +13663,18 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 8 novembre 2026 (neuvième, Nord visé à nouveau) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » : le doute porte sur une personne (une donnée de contact et la forme du nom de l'enseigne), donc rien n'en est publié et la ligne reste anonyme ici.
+
+**Classement, règle 41.** Outre-mer écarté (règle 177). La passe précédente visait la Haute-Garonne (région 76) : elle est exclue par la règle 41.c. Le Nord (59, région 32) reste le premier département métropolitain éligible, déficit ≈ 4,5 sur 1 304 fiches.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord ont déjà été sondées dans les passes précédentes sans rendre cinq commerces vérifiables. Aucune nouvelle source n'a été relue dans cette passe : la descente par population n'apporte donc rien de neuf.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée.
+
+**Point d'arrêt.** Le critère reste mécaniquement le même (Nord, puis la descente par population) et ne produit plus de fiches depuis plusieurs passes. La règle 41 mérite d'être relue par le responsable du site, qui pourrait décider si une commune déjà sondée doit être rouverte avec une autre source (registre Agence Bio, annuaires AMAP).
+
 ### Passe autonome du 7 novembre 2026 (Haute-Garonne, Saint-Orens-de-Gameville et L'Union relues) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ».
