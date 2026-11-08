@@ -50028,3 +50028,28 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Pourquoi rien n'est publié.** Muret ne rend ni cinq commerces vérifiables ni une source de la Ville confirmant les marchés. Le point d'arrêt de la passe précédente reste valable : il faut une source municipale datée, ou descendre à la commune suivante (Plaisance-du-Touch, déjà sondée).
 
 **Fiches écartées pour doute sur une personne** : une (Muret), non nommée.
+
+### Passe autonome du 8 novembre 2026 (dix-septième, Loire (42) reprise, Montbrison sondée : aucune fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié, aucun message envoyé).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule (outre-mer écarté, règle 177). La passe précédente visait le Nord (région 32) : la réserve 41.c exclut donc les Hauts-de-France. La Haute-Garonne est épuisée (règle 247). La Loire (42, région 84) reste éligible ; la commune la plus peuplée sans fiche y est Roanne, déjà relue, puis Montbrison (≈ 15 000 habitants), éprouvée cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Loire, deuxième page de cent opérateurs, filtrée sur Montbrison : deux entrées, toutes deux en vente aux professionnels uniquement, sans vente aux particuliers. Écartées.
+- Site de l'office de tourisme Loire Forez (fiche du marché, mise à jour en 2025) et Rendez-vous en Forez : marché **le samedi matin**, toute l'année, place de l'Hôtel de Ville, créneau indiqué de 6 h 30 à 13 h. Ces deux sources concordent sur le jour et le lieu ; l'heure n'est pas recoupée par la Ville, et l'agenda JDS (liste de producteurs jusqu'au 31/12/2026) n'indique ni horaire ni lieu précis. Selon la règle 9, le marché se publierait sur deux sources officielles ; il n'est pas publié seul (voir ci-dessous).
+- Une fromagerie fermière de la commune, présente au marché du samedi et à la vente à la ferme : horaires de vente tirés d'une fiche touristique, non recoupés par le producteur lui-même. Non publiée (une seule source, et le nom de l'exploitation est celui d'une famille, non retenu).
+- Un magasin de producteurs de Montbrison signalé par un comparateur et un document d'agglomération, sans site ni horaires vérifiés : non publié.
+
+**Pourquoi rien n'est publié.** Montbrison rend un marché confirmé par deux sources et deux pistes de producteurs, mais pas cinq fiches entières vérifiées (règles 52 et 248). Une fiche isolée ne rendrait pas une zone utilisable, et la règle de groupement en cinq fiches reste la référence.
+
+**Pistes non publiées (anonymes, Loire).**
+- Montbrison, marché du samedi matin, place de l'Hôtel de Ville : **déblocage** : quatre à cinq fiches de producteurs présents, avec un site ou un téléphone publié par chacun.
+- Montbrison, fromagerie fermière de la commune : **déblocage** : seconde source (site du producteur ou annuaire à jour) pour les horaires de vente à la ferme.
+- Montbrison, magasin de producteurs signalé par un comparateur : **déblocage** : site ou fiche de l'exploitant, avec horaires et adresse confirmés.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Le marché de Montbrison est la piste la plus solide de la passe : la passe suivante, si elle reprend la Loire, doit l'instruire en priorité avec les producteurs présents, sans reprendre Roanne sans source nouvelle.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
