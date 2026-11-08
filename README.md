@@ -50053,3 +50053,19 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le marché de Montbrison est la piste la plus solide de la passe : la passe suivante, si elle reprend la Loire, doit l'instruire en priorité avec les producteurs présents, sans reprendre Roanne sans source nouvelle.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (Nord (59) repris, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande en_cours (#13, producteur, Var) reste inchangée : son enseigne se lit comme un prénom et le contact transmis est une adresse personnelle. Doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule, dénominateur national (68,95 millions d'habitants, geo.api.gouv.fr), 1 304 fiches comptées sur le code postal. La passe précédente visait la Loire (région 84), que la réserve 41.c exclut. En tête du déficit : le Nord (59, région 32, déficit ≈ 4,47), puis la Haute-Garonne (31, ≈ 3,83) et l'Oise (60, ≈ 3,69).
+
+**Ce qui n'a pas été fait.** La formule désigne le Nord, où la descente a déjà été éprouvée sur plus de douze communes (règle 247) sans qu'aucune ne rende cinq fiches entières. Aucune commune nouvelle n'a été instruite : une fiche isolée ne forme pas une zone (règles 52 et 248), et aucune source nouvelle n'a été trouvée sur les pistes existantes.
+
+**Point de calcul (règle 5).** Les codes postaux 20xxx ont été comptés en 2A, alors que 20000-20199 relève de la Corse-du-Sud et 20200 et au-delà de la Haute-Corse. Ce choix n'affecte pas le département de tête.
+
+**Constat.** Le Nord revient en tête à chaque passe depuis des semaines alors que la descente y est close par la règle 247. La passe suivante doit appliquer la règle 247 en premier, avant de rouvrir une commune du Nord.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
