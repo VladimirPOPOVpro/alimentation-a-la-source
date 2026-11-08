@@ -49937,3 +49937,28 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : aucune cette passe. Les exploitants nommés sur la page du marché d'Herbens ne sont pas publiés et ne figurent pas dans le README.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (treizième, Haute-Garonne (31) reprise, Muret sondée une troisième fois : aucune publication)
+
+**Classement, règle 41.** Outre-mer écarté (règle 177). Le Nord (région 32), passe précédente, est exclu par la réserve de la règle 41.c. L'Oise et les autres départements de la région 32 sont exclus pour la même raison. Haute-Garonne (31, région 76) reste le premier département métropolitain éligible. Commune la plus peuplée du 31 sans fiche : **Muret** (26 079 habitants) ; Colomiers, Tournefeuille et Blagnac ont déjà des fiches.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, trois pages de cent opérateurs, filtrées sur Muret : ne retient que des opérateurs à patronyme de particulier, en vente de gros ou en importation. Aucune entrée utilisable.
+- jours-de-marche.fr, page Muret : deux marchés municipaux du mardi et du samedi (centre-ville, horaires à confirmer auprès de la Ville), une halle aux grains bio le samedi. Les producteurs listés sont dans les communes voisines (Lagardelle-sur-Lèze, Lacroix-Falgarde, Castanet-Tolosan, Plaisance-du-Touch, Montbrun-Lauragais) ; leurs produits sont recopiés d'une fiche à l'autre, donc non fiables en l'état. Aucun n'est une fiche de Muret.
+- Une cagette de Muret, marché de producteurs du mardi soir, dont l'enseigne contient un prénom : **doute sur une personne, écartée**, non nommée.
+- Une ferme du mercredi, route de Lezat, sans commune confirmée : non retenue.
+- DirectFermiers31 : annuaire départemental gratuit, pas de liste par commune exploitable depuis cette session.
+- Site de la mairie de Muret : aucune page marché trouvée par recherche.
+
+**Pourquoi rien n'est publié.** Muret rend deux marchés municipaux et une halle bio : aucun ne suffit à cinq fiches vérifiées dans la commune, et aucun producteur installé à Muret n'a été trouvé sur une source indépendante et datée. Le seuil de cinq fiches n'est pas atteint.
+
+**Pistes non publiées** (sans personne nommée) :
+- Muret, marché municipal du mardi et du samedi : **déblocage** : horaires et emplacement confirmés sur un site de la Ville, daté de 2026.
+- Muret, halle aux grains biologique (samedi) : **déblocage** : liste des exposants bio tenue par l'organisateur, datée de 2026.
+- Muret, cagette de producteurs du mardi : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Point d'arrêt.** Muret est sondée pour la troisième fois en une journée. La commune suivante par population sans fiche dans le 31 est Plaisance-du-Touch, déjà sondée cette session. Passe suivante dans le 31 : soit une source de la Ville qui confirme les marchés, soit descente à Balma (17 772 habitants, déjà sondée) puis Cugnaux (déjà fichée), et le choix de région reste à revoir avec le responsable du site.
+
+**Fiches écartées pour doute sur une personne** : une (Muret, cagette de producteurs), non nommée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
