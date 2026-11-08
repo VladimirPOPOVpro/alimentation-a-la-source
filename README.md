@@ -49962,3 +49962,15 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : une (Muret, cagette de producteurs), non nommée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (quatorzième, Nord (59) visé, Wattrelos sondée une cinquième fois : aucune publication)
+
+**Classement, règle 41.** Outre-mer écarté (règle 177). La passe précédente visait la Haute-Garonne (région 76), donc la réserve 41.c laisse le Nord (région 32) éligible. Nord (59) reste le premier département métropolitain du déficit. Commune la plus peuplée du 59 sans fiche : **Wattrelos** (40 847 habitants), suivie de Marcq-en-Barœul et de Cambrai, déjà sondées.
+
+**Ce qui a été lu.** Une recherche web sur les producteurs et marchés de Wattrelos ne rend que des résultats hors sujet : une épicerie de quartier, des fermes d'autres départements (Bologne, Fontaine-les-Grès), une fête des producteurs tenue à Erquinghem-Lys, et un article de presse de 2021 sur un marché artisanal. Aucune source indépendante et datée ne rattache un producteur ou un marché alimentaire à Wattrelos. La page d'agenda de la Ville, qui a été relue, ne mentionne pas de marché de producteurs.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Wattrelos n'atteint le seuil de vérification (registre, source indépendante, géocodage, ouverture du site). Le registre Agence Bio du Nord n'a pas été repaginé cette passe : la sonde précédente de Wattrelos l'avait déjà fait sans résultat utilisable.
+
+**Point d'arrêt.** Wattrelos est épuisée à ce stade. La passe suivante dans le Nord devrait descendre à Marcq-en-Barœul ou Cambrai, puis lire la section « Pistes non publiées » de Lille avant toute nouvelle sonde.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
