@@ -49992,3 +49992,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Wattrelos est épuisée à ce stade. La passe suivante dans le Nord devrait descendre à Marcq-en-Barœul ou Cambrai, puis lire la section « Pistes non publiées » de Lille avant toute nouvelle sonde.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (seizième, Nord (59) repris, Lambersart et Cambrai sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié). Rien à répondre.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal. La passe précédente visait le Loire (région 84), donc la réserve 41.c exclut cette région ; la Haute-Garonne reste épuisée (règle 247). Le Nord (59, région 32) reprend la tête du déficit (≈ 6,55) et n'est pas exclu. Commune la plus peuplée du Nord sans fiche : Wattrelos, puis Marcq-en-Barœul (sondées), Cambrai, Lambersart.
+
+**Ce qui a été lu.**
+- Lambersart : site de la Ville joignable. Un marché de producteurs, le marché du Canon d'Or, place de la République, chaque mardi de 8 h à 13 h, sur la page officielle de la Ville. Aucun étal ni producteur nommé sur cette page. Les marchés créateurs (plaine du Colysée) sont des événements de créateurs, hors sujet. Les autres marchés cités par des agrégateurs (mardi, mercredi 8 h 30-12 h 30, jeudi après-midi place de la Cessoie) ne sont confirmés par aucune page officielle datée de 2026 : contradiction entre sources, rien n'est retenu.
+- Cambrai : recherche web seule. Le marché couvert (mercredi et samedi) et le marché du mardi soir ont des horaires contradictoires d'un annuaire à l'autre (8 h-12 h 30, 7 h 30-13 h, 17 h-21 h), aucun ne datant de 2026, et aucun site de la Ville n'a pu être ouvert depuis cette session.
+- Registre Agence Bio, Nord, première page de cent opérateurs : aucun opérateur de Lambersart ni de Cambrai.
+
+**Pourquoi rien n'est publié.** Lambersart rend un marché officiel et aucun commerce vérifiable sur une seconde source datée ; Cambrai n'a que des horaires contradictoires et non datés. Aucune commune n'atteint le seuil de cinq fiches vérifiées (règles 52 et 248).
+
+**Pistes non publiées** (sans personne nommée) :
+- Lambersart, marché du Canon d'Or (mardi) : **déblocage** : liste des producteurs présents, datée de 2026, publiée par la Ville ou par le marché.
+- Lambersart, marchés cités par les agrégateurs (mercredi, jeudi, place de la Cessoie) : **déblocage** : page officielle de la Ville confirmant jour et lieu.
+- Cambrai, marché couvert et marché du mardi soir : **déblocage** : horaires 2026 publiés par la Ville ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Le Nord reste le premier département éligible ; la passe suivante ne doit pas revenir à Wattrelos ni à Marcq-en-Barœul sans déblocage. Si la formule désigne encore le Nord la passe suivante, la réserve de région s'applique et le département suivant du classement est à instruire.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
