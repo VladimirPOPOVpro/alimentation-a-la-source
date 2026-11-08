@@ -50085,3 +50085,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (dix-neuvième, Loiret (45) repris, Olivet sondée à nouveau : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (Var) reste inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national (68,95 millions d'habitants, geo.api.gouv.fr), 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (région 76) : la réserve 41.c exclut l'Occitanie. Les départements en tête du calcul (Nord 4,47, Haute-Garonne 3,83, Oise 3,69, Loire 3,64, Isère 3,57) sont déjà clos ou épuisés par les passes précédentes (règle 247). Premier département ouvert hors région exclue : le **Loiret (45, région 24)**, déficit ≈ 3,07, dix fiches publiées. Le chiffre de 3,51 écrit dans une passe antérieure ne se retrouve pas avec les populations et les codes postaux de cette passe ; l'écart est consigné ici (règle 5), sans effet sur le choix.
+
+**Commune.** La descente du Loiret s'arrête sur Olivet, déjà sondée (passe du Loiret). Les sources de cette passe :
+- Registre Agence Bio, Loiret, première page de cent opérateurs, filtrée sur Olivet : trois entrées, toutes sans vente aux particuliers. Écartées.
+- Recherche web : l'agenda local (alentoor.fr) donne un marché le vendredi après-midi, place Louis-Sallé et rue Marcel-Belot. Une seule source, sans horaires ni confirmation de la Ville. Non publié.
+- Guide des producteurs de la Métropole d'Orléans (PDF officiel, 8,5 Mo) téléchargé pour y chercher Olivet. Le PDF n'a pas pu être lu : aucun outil d'extraction de texte n'est disponible dans cet environnement. Rien n'en est tiré.
+- Application Mangeons Loiret : non consultée cette passe.
+
+**Pourquoi rien n'est publié.** Olivet ne rend ni cinq commerces vérifiables ni deux sources indépendantes par fiche. Une fiche isolée ne fait pas une zone (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Loiret).**
+- Olivet, marché du vendredi après-midi : **déblocage** : page de la Ville ou fiche Mangeons Loiret datée, avec horaires.
+- Olivet, guide des producteurs de la Métropole : **déblocage** : extraction du texte du PDF (outil à installer côté passe), pour relever les exploitations de la commune avec leur mode de vente.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Le Loiret reste ouvert. La passe suivante doit d'abord lire le guide des producteurs de la Métropole, puis Mangeons Loiret, filtré sur Olivet. Si Olivet ne rend pas cinq fiches, descendre à Fleury-les-Aubrais, Saint-Jean-de-Braye, Saran, puis Montargis (règle 247).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
