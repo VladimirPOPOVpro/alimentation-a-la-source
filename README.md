@@ -49877,3 +49877,23 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (onzième, Nord (59) visé, Wattrelos sondée une nouvelle fois : aucune publication)
+
+**Backlog.** Aucune demande au statut « nouvelle ». Une demande reste en_cours (doute sur une personne, rien n'est publié). Rien à répondre.
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Occitanie (31) : la réserve de région de la règle 41.c ne porte que sur deux passes consécutives, donc le Nord (59, déficit ≈ 6,55 ; 45 fiches) reste éligible. Le classement est le même qu'à la passe précédente.
+
+**Commune, règle 41.d.** Plus grande commune du Nord sans fiche : Wattrelos (40 847 hab.), déjà sondée aux passes précédentes. Ce qui a été relevé cette fois :
+- le site de la Ville ne propose aucune rubrique « marchés » dans sa navigation d'accueil ; seules les démarches et les marchés publics y figurent ;
+- les marchés (Basanos le jeudi, Chopin le vendredi, marché du dimanche) n'apparaissent que sur des agrégateurs tiers (cartes de marchés, annuaires de produits locaux), sans source officielle datée de 2026 ;
+- aucun producteur ni magasin de producteurs identifié sur deux sources indépendantes.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucun commerce vérifiable sur deux sources indépendantes datées (règles 52 et 248). Les marchés ne se publient pas sur les seuls agrégateurs.
+
+**Pistes non publiées** (sans personne nommée) :
+- Wattrelos, marchés de jeudi et de vendredi : **déblocage** : calendrier des marchés publié par la Ville, daté de 2026, ou page officielle d'un marché.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
