@@ -50109,3 +50109,29 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le Loiret reste ouvert. La passe suivante doit d'abord lire le guide des producteurs de la Métropole, puis Mangeons Loiret, filtré sur Olivet. Si Olivet ne rend pas cinq fiches, descendre à Fleury-les-Aubrais, Saint-Jean-de-Braye, Saran, puis Montargis (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (vingtième, Loiret (45) repris, Olivet sondée une troisième fois : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (Var) reste inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement.** Métropole seule, comme la passe précédente. Le Loiret reste le premier département ouvert hors région exclue (règles 41, 41.c, 247). Le Loiret est donc repris, sans changement de choix.
+
+**Commune.** Olivet, sondée une troisième fois :
+- Recherche web : le marché du vendredi après-midi est confirmé par l'agenda départemental et par une annonce de 2026. Une seule source indépendante du marché, sans horaires : non publié.
+- Marchés de producteurs au camping d'Olivet, annoncés dans le magazine municipal pour l'été 2025 : aucune confirmation pour 2026. Non publié.
+- Le magazine municipal de septembre 2026 (PDF officiel de la Ville) est repéré mais n'a pas été ouvert cette passe : aucun outil d'extraction de texte n'est disponible dans cet environnement pour le lire.
+- Ferme des Perrières : située à Saint-Hilaire-Saint-Mesmin, pas à Olivet ; ses horaires viennent d'un seul agrégateur et peuvent être anciens. Hors commune, non publiée.
+- Application Mangeons Loiret et guide des producteurs de la Métropole : non lus. L'accès au site de l'application est refusé depuis l'environnement du navigateur de cette passe.
+
+**Pourquoi rien n'est publié.** Olivet ne rend toujours ni cinq commerces vérifiables ni deux sources indépendantes par fiche (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Loiret).**
+- Olivet, marché du vendredi après-midi : **déblocage** : page de la Ville ou magazine municipal lu, avec horaires.
+- Olivet, marchés de producteurs au camping : **déblocage** : programme 2026 confirmé par la Ville.
+- Olivet, ferme de vente directe : **déblocage** : fiche du guide départemental ou de l'application, à relever dans la commune.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Le Loiret reste ouvert. La passe suivante doit ouvrir le magazine municipal de la Ville d'Olivet (PDF, numéro de septembre 2026) et tenter l'application Mangeons Loiret. Si Olivet ne rend toujours pas cinq fiches, descendre à Fleury-les-Aubrais, puis Saint-Jean-de-Braye, Saran, Montargis (règle 247).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
