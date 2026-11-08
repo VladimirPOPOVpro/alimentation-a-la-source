@@ -49770,3 +49770,35 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : une cette passe, à Muret (anonyme).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Aucun email envoyé. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (sixième, Nord (59) revisé, Wattrelos, Cambrai, Coudekerque-Branche et Armentières sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email.
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la réserve de région de la règle 41.c ne bloque donc pas les Hauts-de-France. Le premier département éligible est le Nord (59, déficit ≈ 4,47 ; 45 fiches, 3,79 % de la population métropolitaine). Les deux premiers du classement (987, 988) sont hors métropole, exclus par la règle 93.
+
+**Commune, règle 41.d.** Communes du Nord les plus peuplées sans fiche : Wattrelos (40 847), Marcq-en-Barœul (40 184), Cambrai (31 134), Lambersart (27 090), Armentières (26 998), Mons-en-Barœul (21 105), Coudekerque-Branche (20 787). Cette passe a repris les quatre premières.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio (59, 1 796 opérateurs, dix-neuf pages de cent) : aucun point de vente en circuit court identifié et vendant au public à Wattrelos, à Armentières ni à Cambrai ; à Coudekerque-Branche, l'entrée CDKBIO (vente aux particuliers) n'a pu être rattachée à aucun commerce vérifiable sur le web. Les entrées au nom d'un exploitant individuel sont écartées pour doute sur une personne, anonymes, ne se rouvrent pas.
+- Wattrelos : les annuaires (jours-de-marche, annuaire-mairie) recensent trois marchés, sans jours ni horaires dans les extraits. Aucune source 2026.
+- Cambrai : la seule boutique bio vérifiée est une enseigne Biocoop, dont la mention de producteurs locaux date d'un flyer DRAAF de 2018. Non retenue faute d'animation datée.
+- Coudekerque-Branche : Biocoop, 4 route de Bergues (fermé le lundi, 9 h 30-19 h du mardi au samedi, téléphone publié, sans site propre). Fiche possible en magasin-bio (règle 3), mais isolée : elle ne fait pas une zone.
+- Armentières : aucun marché de producteurs trouvé. Un magasin de producteurs se trouve à La Chapelle-d'Armentières (59930), commune voisine, avec horaires publiés sur une seule fiche Que Choisir, sans date de mise à jour, et une page Facebook comme seul autre support. Source unique : pas de fiche.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes datées ; la seule fiche isolée (Coudekerque-Branche) ne fait pas une zone (règles 52 et 248). Une fiche Biocoop seule ne serait pas représentative du sujet du site.
+
+**Pistes non publiées** (commerces, sans personne nommée) :
+- Coudekerque-Branche, Biocoop : fiche possible, isolée. **Déblocage** : quatre autres commerces de la même commune vérifiés sur deux sources datées.
+- La Chapelle-d'Armentières, magasin de producteurs (59930) : une seule source, horaires non datés, aucun site propre. **Déblocage** : fiche de la boutique ou annuaire Bienvenue à la Ferme daté de 2026.
+- Wattrelos, marchés recensés sans horaires. **Déblocage** : site de la Ville, rubrique marchés, daté de 2026.
+- Cambrai, boutique bio sans animation de producteurs datée. **Déblocage** : liste de producteurs fournisseurs publiée par l'enseigne, datée de 2026.
+- Exploitants en nom individuel à Armentières, Cambrai et Coudekerque-Branche : **écartés pour doute sur une personne**, anonymes, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : le Nord reste éligible, la passe précédente ayant visé l'Occitanie et non les Hauts-de-France. Pour la suite, reprendre Marcq-en-Barœul et Lambersart par les sites des mairies, puis Mons-en-Barœul et Coudekerque-Branche. Si la formule désigne encore le Nord à la passe suivante, la réserve de région s'applique et le Nord sera exclu ce jour-là.
+
+**Contradiction** (règle 5) : la note de la passe du Nord précédente annonçait un déficit de 6,55, la formule de cette passe donne 4,47 ; l'écart vient de la méthode de comptage (code postal, arrondi des populations). Consignée ici, rien publié sur ce point.
+
+**Fiches écartées pour doute sur une personne** : plusieurs, dans le Nord (exploitants en nom individuel, anonymes).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
