@@ -49856,3 +49856,24 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (dixième, Haute-Garonne (31) reprise, Plaisance-du-Touch sondée : aucune publication)
+
+**Backlog.** Aucune demande au statut « nouvelle ». Une demande reste en_cours (doute sur une personne, rien n'est publié). Rien à répondre.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté, règle 93), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la réserve de région écarte les Hauts-de-France aujourd'hui. Premier département éligible : la Haute-Garonne (31, déficit ≈ 3,83 ; 24 fiches), en Occitanie.
+
+**Commune, règles 41.d et 247.** Plaisance-du-Touch, nommée comme prochaine piste par la passe précédente, est sondée. L'annuaire des producteurs locaux (jours-de-marche.fr) ne rend aucun point de vente dans la commune : les producteurs listés sont à plus de 11 km. La seule adresse de la commune qu'il cite est un établissement médico-social, écarté. Aucun marché de producteurs 2026 trouvé sur le site de la commune ou sur un agenda tiers.
+
+Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule source (annuaire tiers, « Place de l'Église », mercredi 16h-20h, date de mise à jour non vérifiée). Non retenue, faute de deuxième source indépendante datée.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes datées (règles 52 et 248). La descente de la Haute-Garonne compte désormais plus de douze communes éprouvées (Toulouse, Colomiers, Tournefeuille, Cugnaux, Blagnac, Muret, Balma, Saint-Orens-de-Gameville, Plaisance-du-Touch, entre autres) : la règle 247 demande de passer au département suivant du classement à la passe suivante.
+
+**Pistes non publiées** (commerces, sans personne nommée) :
+- Ramonville-Saint-Agne, marché de producteurs, mercredi après-midi, place de l'Église : **déblocage** : page de la Ville ou calendrier daté de 2026 confirmant jours et horaires.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus éligible au sens de la règle 247 ; le classement se recalcule en écartant les Hauts-de-France (passe précédente) et l'Occitanie (présente passe). Le département suivant éligible du classement est à instruire par la règle 41.d, commune la plus peuplée sans fiche, en vérifiant d'abord les sources officielles des communes. Les communes éprouvées en Haute-Garonne ne se rouvrent qu'avec un déblocage nommé ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
