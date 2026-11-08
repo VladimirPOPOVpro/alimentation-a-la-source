@@ -49718,3 +49718,33 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : trois, à Olivet (exploitants en nom individuel, anonymes).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (quatrième, Nord (59) visé, Coudekerque-Branche, Lambersart, Mons-en-Barœul et Marcq-en-Barœul sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté par la règle 93), dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Loiret (45), en Centre-Val de Loire : la région est exclue par la règle 41.c. Le premier restant est le **Nord (59)**, déficit ≈ 6,55 (population 2 615 635, soit 3,95 % de la métropole, pour 45 fiches). Haute-Garonne (31) vient ensuite, déficit ≈ 5,0.
+
+**Contradiction à consigner (règle 5).** Les passes précédentes annoncent un déficit du Nord de 5,24 et écartent le département au motif qu'il serait « clos » ou « sondé sans résultat ». Ni la règle 41 ni `AGENT.md` ne prévoient cette exclusion : seule la réserve de région s'applique. La formule est donc appliquée ici telle qu'écrite, et le Nord est retenu. Le total de 1 304 fiches et la population sont identiques à ceux de la passe du Loiret ; l'écart vient de la méthode de comptage des fiches par département, non tranchée ici. Le compte de la passe du Loiret (45 : 481 fiches) reste contradictoire avec le fichier (10), déjà consigné.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste à zéro fiche, mais elle a été sondée à de nombreuses passes sans rendre cinq commerces : elle n'est pas reprise. Suivantes par population sans fiche : Marcq-en-Barœul (40 184), Cambrai (31 134, où le registre Agence Bio ne donne qu’un opérateur de préparation et de distribution, sans vente directe établie), Lambersart (27 090), Armentières (26 998), Mons-en-Barœul (21 105), Coudekerque-Branche (20 787), Wasquehal (20 726), Halluin (20 715). Cette passe s'est arrêtée sur les quatre premières.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio (59, 1 796 opérateurs, dix-huit pages de cent). Lambersart, Marcq-en-Barœul, Mons-en-Barœul, Coudekerque-Branche et Wasquehal n'ont aucun point de vente en circuit court déclaré avec un exploitant identifié et vente au public. Plusieurs entrées sont des exploitants en nom individuel : écartées pour doute sur une personne, anonymes, la piste ne se rouvre pas. Les grandes surfaces et les grossistes sont écartés.
+- Recherche web standard sur les quatre communes : Coudekerque-Branche, un marché du mardi place Mendès-France n'est signalé que par une seule source en anglais, sans date de mise à jour ; l'annuaire participatif jours-de-marche ne donne que des producteurs de communes voisines. Lambersart et Mons-en-Barœul : trois marchés recensés par l'annuaire, sans jours ni horaires dans les extraits. Marcq-en-Barœul : trois marchés recensés, sans horaires ; une boutique de fruits et légumes sans date de vérification.
+- Site de la Ville de Coudekerque-Branche : la page d'accueil mentionne les « marchés publics » et des événements, mais aucune rubrique de marché de producteurs n'est ouverte cette passe. Biocoop Coudekerque-Branche figure dans un annuaire de magasins (horaires publiés), mais c’est une enseigne coopérative à laquelle la règle 3 n'ouvre qu'un point de vente à sa propre fiche ; non retenue faute de source de producteur local.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes datées. Une fiche isolée ne fait pas une zone (règles 52 et 248).
+
+**Pistes non publiées** (commerces, sans personne nommée) :
+- Coudekerque-Branche, marché du mardi (place Mendès-France), horaires d'une source unique en anglais. **Déblocage** : page de la Ville ou du marché, datée de 2026.
+- Coudekerque-Branche, magasin bio indépendant : pas de source de producteur local. **Déblocage** : fiche ou site propre du magasin, avec la liste de ses producteurs.
+- Marcq-en-Barœul, boutique de fruits et légumes et marché recensé sans horaires. **Déblocage** : site de la Ville (marcq-en-baroeul.org), rubrique marchés, ou bulletin municipal daté de 2026.
+- Lambersart et Mons-en-Barœul, marchés recensés sans horaires. **Déblocage** : site de chaque mairie, rubrique marchés.
+- Plusieurs exploitants en nom individuel à Lambersart, Mons-en-Barœul, Coudekerque-Branche et Marcq-en-Barœul : **écartés pour doute sur une personne**, anonymes, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : la formule désigne encore le Nord (59) tant qu'une passe ne vise pas la même région ; la réserve de région ne joue qu'après une passe du Nord. Il faut donc, pour la suite, reprendre Cambrai et Lambersart par les sites des mairies, puis Armentières, avant de descendre plus loin par population. Le déficit du Nord ne se résorbera pas en une passe : le sujet est la capacité à trouver cinq fiches, pas le choix du département.
+
+**Fiches écartées pour doute sur une personne** : plusieurs, dans l’agglomération lilloise et le Douaisis (exploitants en nom individuel, anonymes).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
