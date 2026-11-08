@@ -49963,6 +49963,24 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
 
+### Passe autonome du 8 novembre 2026 (quinzième, Loire (42) reprise, Roanne sondée à nouveau : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches. La passe précédente visait le Nord (région 32) : elle est exclue. Haute-Garonne (31) est épuisée au sens de la règle 247. Loire (42, région 84) reste le département suivant éligible.
+
+**Commune, règle 41.d.** Saint-Étienne et Saint-Chamond ont déjà des fiches ; Roanne (35 409 habitants) est la plus peuplée sans fiche.
+
+**Ce qui a été lu.** Registre Agence Bio, Loire, trois pages sur quatorze (300 opérateurs sur 1 408), filtrées sur Roanne : un grossiste, un réseau de magasins bio déjà signalé pour son adresse contradictoire, une boulangerie de chaîne, une grande surface. Aucun producteur ni point de vente au public nouveau. Les pistes déjà consignées à Roanne (marché de centre-ville, poissonnerie, point de vente collectif) n'ont pas été relues : elles restent en l'état de la passe du 1er novembre.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Loire ne rend cinq fiches vérifiables. Roanne reste en dessous du seuil, sans source nouvelle.
+
+**Constat de méthode.** Quinze passes de suite ont visé des départements déjà sondés, sans fiche publiée. Le mécanisme (règle 41 avec le groupement en cinq fiches d'une même commune) ne produit plus de publication. La prochaine passe ne doit pas reprendre Roanne sans source nouvelle (registre Agence Bio, pages restantes, ou une source de la Ville datée).
+
+**Fiches publiées : aucune. Fiches retirées : aucune. Total inchangé : 1 304 fiches.**
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés.
+
 ### Passe autonome du 8 novembre 2026 (quatorzième, Nord (59) visé, Wattrelos sondée une cinquième fois : aucune publication)
 
 **Classement, règle 41.** Outre-mer écarté (règle 177). La passe précédente visait la Haute-Garonne (région 76), donc la réserve 41.c laisse le Nord (région 32) éligible. Nord (59) reste le premier département métropolitain du déficit. Commune la plus peuplée du 59 sans fiche : **Wattrelos** (40 847 habitants), suivie de Marcq-en-Barœul et de Cambrai, déjà sondées.
