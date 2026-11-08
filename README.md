@@ -49897,3 +49897,31 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (douzième, Rhône (69) reprise, Meyzieu sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée (doute sur une personne, rien n'est publié). Rien à répondre.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France), exclu par la règle 41.c ; l'Occitanie reste écartée par la règle 247. **Rhône (69, déficit ≈ 4,7)** repris à Meyzieu, comme la passe précédente l'avait consigné.
+
+**Ce qui a été lu, Meyzieu (36 687 hab.).**
+- Site de la Ville (`meyzieu.fr`, page « Les marchés », joignable cette fois) : deux marchés alimentaires. Marché d'Herbens Grand Large, chaque dimanche matin de 8 h à 13 h 15, producteurs locaux (pommes de terre et légumes, volailles et charcuterie, fromages, noix, miel), face au 32 rue Victor-Hugo. Marché du centre-ville, chaque mercredi et samedi matin, place Jean-Monnet et place du Général-de-Gaulle, « produits alimentaires et manufacturés », sans producteurs nommés. Le marché du Carreau (place des Droits-de-l'Homme) est un marché de fleuriste, hors sujet.
+- Les exploitants cités sur la page du marché d'Herbens sont nommés par leur patronyme : aucun de ces noms n'est repris ici (règle des personnes et des exploitants).
+- Biocoop, 12 rue Paul-Cézanne : adresse et téléphone concordants sur deux annuaires, horaires contradictoires (l'un ferme le lundi et le dimanche, l'autre ouvre sept jours sur sept). Aucun site propre du magasin relevé.
+- Marché « des Saveurs » (jeudi 16 h-20 h, place des Droits-de-l'Homme) : source touristique aux fiches de 2019, absent de la page de la Ville, et la même place est donnée au Carreau du lundi. Non retenu.
+
+**Communes voisines, règle 52.** Décines-Charpieu, marché de producteurs du jeudi après-midi, place Roger-Salengro : horaires lus sur une page datée d'avril 2018, non reconfirmés en 2026. Non retenu. Jonage : aucun marché de producteurs trouvé.
+
+**Pourquoi rien n'est publié.** Meyzieu rend trois points : deux marchés solides sur source officielle et un magasin bio dont les horaires se contredisent. Le seuil de la règle 52 (quatre points) n'est pas atteint, et la commune voisine ne le complète pas sur une source datée. Une fiche isolée ne fait pas une zone (règles 52 et 248).
+
+**Pistes non publiées** (sans personne nommée) :
+- Meyzieu, marché d'Herbens Grand Large (dimanche) : **déblocage** : une seconde source indépendante datée de 2026 pour les horaires et les producteurs.
+- Meyzieu, marché du centre-ville (mercredi et samedi) : **déblocage** : produits précisés par la Ville ou par un producteur présent, daté de 2026.
+- Meyzieu, Biocoop : **déblocage** : horaires lus sur une source propre au magasin ou à l'enseigne, datée de 2026.
+- Décines-Charpieu, marché de producteurs du jeudi : **déblocage** : horaires datés de 2026 sur decines.fr ou sur le site de la Métropole.
+
+**Point d'arrêt.** Meyzieu compte trois points sur quatre requis (règle 52). Passe suivante dans le Rhône : descente à la commune suivante par population sans fiche (règle 247 ; quatre communes déjà éprouvées dans le département : Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Meyzieu). Les communes éprouvées ne se rouvrent qu'avec un déblocage nommé ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe. Les exploitants nommés sur la page du marché d'Herbens ne sont pas publiés et ne figurent pas dans le README.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
