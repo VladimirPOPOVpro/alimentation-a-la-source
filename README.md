@@ -50069,3 +50069,19 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (dix-huitième, Haute-Garonne (31) visée, Montgiscard sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » : le doute porte sur une personne (une donnée de contact et la forme du nom de l'enseigne), donc rien n'en est publié et la ligne reste anonyme ici.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule. La passe précédente visait le Nord (région 32), que la réserve 41.c exclut. Le 31 (Haute-Garonne, région 76, déficit ≈ 3,83) est le premier département éligible.
+
+**Commune, règles 41.d et 247.** Muret reste la commune la plus peuplée du 31 sans fiche, déjà éprouvée à plusieurs passes. Montgiscard (31450) est la commune suivante proposée par la passe précédente. Sondage : une seule ferme à vente directe ressort (Ferme de Caguelou), avec horaires tirés d'un annuaire participatif. Aucun marché de producteurs confirmé, et aucune source municipale ou officielle trouvée. Une source participative seule ne suffit pas (règles 52 et 248).
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiables sur deux sources indépendantes et datées.
+
+**Constat.** La même demi-douzaine de communes du 31 et du 59 sont ré-éprouvées à chaque passe sans source nouvelle. La passe suivante ne doit pas revenir à Muret ni à Wattrelos sans déblocage nommé plus haut dans ce README.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
