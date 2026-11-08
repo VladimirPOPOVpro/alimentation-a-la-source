@@ -49656,3 +49656,34 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : une piste, à Ajaccio (nom d'exploitant individuel, anonyme).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (suite, Seine-Maritime (76) visée, Montivilliers, Elbeuf et Canteleu sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste inchangée (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 93, 177, 224 et 247.** Métropole seule (outre-mer écarté par la règle 93), dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Corse (région 94) : elle est exclue par la règle 41.c. Restent écartés, clos ou épuisés : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Rhône, Hérault, Seine-Saint-Denis, Yvelines, Val-de-Marne, Pas-de-Calais, Calvados, Vienne, Haute-Corse, Bas-Rhin, Ille-et-Vilaine, Haute-Marne, Seine-et-Marne, Eure-et-Loir, Alpes-de-Haute-Provence. **Seine-Maritime (76)** retenue : premier département éligible, déficit ≈ 3,85, 21 fiches. Sa descente en est à six communes éprouvées, sous la borne de douze de la règle 247.
+
+**Commune, règle 41.d et descente.** Communes les plus peuplées de 76 sans fiche, par ordre : Le Petit-Quevilly, Fécamp, Le Grand-Quevilly (passe du 5 novembre), puis Montivilliers (15 478 habitants), Elbeuf (15 474) et Canteleu (14 402), lues cette passe.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio (76, 100 premiers opérateurs, un appel). Pour Montivilliers, Elbeuf et Canteleu, les opérateurs de vente aux particuliers sont soit des exploitants en nom individuel écartés pour doute sur une personne, soit des structures sans point de vente. Enseignes de grande distribution écartées par MODERATION.md.
+- Montivilliers : site de la Ville (rubrique commerces) et annuaire des producteurs. Le marché hebdomadaire du jeudi est donné par la Ville, 8 h 30 à 12 h 30, avec un placier joignable ; d'autres annuaires indiquent 7 h 30 à 13 h ou 8 h 30 à 12 h, ce qui est une contradiction consignée ci-dessous. Les autres pistes sont soit des commerces généralistes (supermarché, boulangerie, primeur d'une galerie commerciale), soit des fermes dont l'annuaire ne donne pas la commune réelle (à plus de 11 km). L'annuaire de producteurs de Montivilliers ne liste aucun point de vente situé dans la commune.
+- Elbeuf : annuaires de producteurs et sites de fermes. Plusieurs fermes maraîchères bio et une ferme de vente directe apparaissent avec des jours de vente, mais leur adresse de vente n'est pas établie dans la commune, et les horaires viennent d'annuaires tiers non datés. Un marché de Caudebec-lès-Elbeuf est donné par un annuaire avec un nom qui contredit ses horaires : écarté.
+- Canteleu : site de Mon Panier 76 et annuaire des marchés. Le marché de plein vent du samedi matin, place du marché, est signalé par deux sources, sans horaires recoupés par la Ville ; une ferme de légumes y est citée par une seule source. Le site communal de vente en ligne est ancien (période de confinement) : écarté.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables sur deux sources indépendantes et datées. Le marché de Montivilliers est le seul fait solide, mais un marché n'est pas une fiche de commerce à lui seul, et les horaires sont contradictoires entre sources (règle 5). Une fiche isolée ne fait pas une zone (règle 41).
+
+**Pistes non publiées (anonymes, Seine-Maritime).**
+- Montivilliers, marché hebdomadaire du jeudi (centre-ville) : marché confirmé par la Ville, horaires contradictoires selon les annuaires. **Déblocage** : confirmation des horaires par la Ville, puis au moins quatre autres commerces vérifiables dans la commune.
+- Montivilliers, magasin de vente à la ferme (mardi soir et samedi matin, annuaire de producteurs) : une seule source, sans adresse. **Déblocage** : site ou page propre de l'exploitation, et registre des entreprises actif.
+- Elbeuf, fermes maraîchères bio à vente à la ferme (mardi, vendredi, samedi ; mercredi pour une autre ferme) : adresses de vente non établies dans la commune. **Déblocage** : adresse de vente confirmée par le site de l'exploitation ou par Bienvenue à la Ferme.
+- Canteleu, marché de plein vent du samedi matin, place du marché : horaires non recoupés par la Ville. **Déblocage** : page de la Ville ou du marché datée de 2026.
+- Une piste à Elbeuf (vente à la ferme, exploitant en nom individuel) : **écartée pour doute sur une personne**, la piste ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : la Seine-Maritime reste ouverte (six communes sur douze, règle 247). Reprendre par Montivilliers : la Ville pour les horaires du jeudi, puis Fécamp (poissonnerie déjà consignée) ; Montivilliers est déjà éprouvée, donc descendre à la commune suivante par population, Oissel-sur-Seine (12 317 habitants), si Montivilliers ne rend pas cinq fiches. Ne pas revenir en Corse (règle 41.c) ni en Île-de-France.
+
+**Contradictions** (règle 5) : horaires du marché de Montivilliers (Ville : 8 h 30-12 h 30 ; annuaires : 7 h 30-13 h, 8 h 30-12 h) ; le marché de Caudebec-lès-Elbeuf, dont le nom et les horaires se contredisent. Consignées ici, rien publié sur ces points.
+
+**Fiches écartées pour doute sur une personne** : une piste, à Elbeuf (anonyme, voir ci-dessus).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
