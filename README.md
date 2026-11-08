@@ -49802,3 +49802,21 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : plusieurs, dans le Nord (exploitants en nom individuel, anonymes).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (septième, Nord (59) revisé, Marcq-en-Barœul sondée : aucune publication)
+
+**Backlog.** Une seule demande, en_cours, inchangée : doute sur une personne, rien n'est publié. Aucune nouvelle demande, rien à répondre.
+
+**Secteur, règle 41.** Calcul refait sur `geo.api.gouv.fr` (métropole, 1 304 fiches comptées sur le code postal). Premier département du classement : Nord (59, déficit ≈ 6,55, 45 fiches). Hauts-de-France non visée à la passe précédente (Haute-Garonne), la réserve de région ne bloque pas.
+
+**Commune, règle 41.d.** Marcq-en-Barœul (40 184 hab., sans fiche) reprise par une recherche web. Pistes trouvées, aucune vérifiée sur deux sources datées : un marché de la rue Marcel Dassault (le samedi, sans horaires confirmés par une source 2026), un point de producteurs de la place Doumer relevé par un répertoire tiers sans date, et des agendas de la Ville qui ne parlent que d'événements. Rien ne rend cinq commerces.
+
+**Pourquoi rien n'est publié.** Cinq commerces vérifiables n'existent pas dans la commune sondée à ce jour (règles 52 et 248). Les marchés sans horaires datés se consignent dans les pistes, pas dans la carte (règle 9).
+
+**Pistes non publiées** (sans personne nommée) :
+- Marcq-en-Barœul, marché rue Marcel Dassault : **déblocage** : horaires publiés par la Ville, datés de 2026.
+- Marcq-en-Barœul, point de producteurs place Doumer : **déblocage** : source propre ou site de la Ville, daté.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
