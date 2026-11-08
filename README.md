@@ -13663,6 +13663,18 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 8 novembre 2026 (douzième, Nord visé, Wattrelos et Marcq-en-Barœul resondées) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié, voir les pistes précédentes).
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches. La passe précédente visait la Rhône (région 84), exclue par la règle 41.c. **Nord (59), déficit ≈ 6,55**, est en tête et retenu.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) est la plus peuplée du Nord sans fiche. Elle a été resondée au registre de l'Agence Bio et sur le web : aucun horaire vérifiable de marché, aucun producteur ni magasin de producteurs identifié avec des heures. Marcq-en-Barœul (40 184), également sans fiche, n'a donné aucun marché ni producteur daté ; le site de la Ville ne répond pas.
+
+**Pourquoi rien n'est publié.** Aucune de ces deux communes ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Les pistes trouvées (magasins bio à l'enseigne nationale, magasins de producteurs situés dans d'autres communes) relèvent soit de la règle 149, soit d'une commune hors du groupement.
+
+**Point d'arrêt.** Le Nord reste le premier département éligible. Les communes suivantes par population (Cambrai, Lambersart, Armentières) ont déjà été sondées dans les passes précédentes. La descente n'apporte rien de neuf sans une nouvelle source (registre des marchés de l'intercommunalité, sites des AMAP du Nord). La passe suivante ne doit pas viser le Nord par défaut sans cette source ; la règle 41 mérite d'être relue par le responsable du site.
+
 ### Passe autonome du 8 novembre 2026 (neuvième, Nord visé à nouveau) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » : le doute porte sur une personne (une donnée de contact et la forme du nom de l'enseigne), donc rien n'en est publié et la ligne reste anonyme ici.
