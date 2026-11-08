@@ -49687,3 +49687,34 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : une piste, à Elbeuf (anonyme, voir ci-dessus).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (troisième, Loiret (45) repris, Olivet sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté par la règle 93), dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (76) : la Normandie est écartée (règle 41.c). Écartés ou clos par les passes précédentes : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Rhône, Hérault, Seine-Saint-Denis, Yvelines, Val-de-Marne, Pas-de-Calais, Calvados, Vienne, Haute-Corse, Bas-Rhin, Ille-et-Vilaine, Haute-Marne, Seine-et-Marne, Eure-et-Loir, Alpes-de-Haute-Provence. Le premier restant est le **Loiret (45)**, déficit ≈ 3,51 avec 10 fiches publiées. Corse-du-Sud (2A, déficit ≈ 3,29, zéro fiche) vient ensuite.
+
+**Contradiction à consigner (règle 5).** Le département 45 est annoncé à 481 fiches dans la note de la passe du Loiret, alors que `data/marchands.json` en compte 10 pour ce département, et 1 304 au total. La formule est appliquée ici sur le fichier, qui fait foi. Rien n'est corrigé dans les notes antérieures.
+
+**Commune, règle 41.d.** Orléans (116 357 habitants) a déjà ses fiches, publiées lors de la passe précédente. Commune sans fiche suivante par population : **Olivet** (23 507 habitants), dans l'agglomération orléanaise.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio (45, 100 premiers opérateurs, un appel). À Olivet, trois entrées sont des exploitants en nom individuel, écartés pour doute sur une personne ; un opérateur est un grossiste sans vente au public ; une boulangerie n'est pas déclarée en vente aux particuliers.
+- Recherche web standard sur Olivet : deux marchés sont recensés par un annuaire participatif sans jours ni horaires ; une adresse de vente au détail (rue Marcel-Belot) donne des horaires du mardi au samedi, mais la source ne l'établit pas comme producteur ; un maraîcher (rue du Pressoir-Tonneau) n'est cité que par une source. Aucune source indépendante ne donne un point de vente de producteur daté et horodaté dans la commune.
+- Pas de site de commune ni d'office de tourisme lus directement : la page de la Ville (rubrique marchés) n'a pas été ouverte cette passe.
+
+**Pourquoi rien n'est publié.** Olivet ne rend pas une seule fiche vérifiée sur deux sources indépendantes datées. Une fiche isolée ne fait pas une zone (règles 52 et 248).
+
+**Pistes non publiées** (commerces, sans personne nommée) :
+- Olivet, marchés recensés par un annuaire participatif sans jours ni horaires. **Déblocage** : page de la Ville d'Olivet ou du marché, datée de 2026.
+- Olivet, vente au détail rue Marcel-Belot (mardi-samedi, horaires d'un annuaire tiers). Statut de producteur non établi. **Déblocage** : site ou page propre du point de vente.
+- Olivet, maraîcher rue du Pressoir-Tonneau : une seule source. **Déblocage** : site de l'exploitation ou fiche « Mangeons Loiret » (applimangeonslocal.loiret.fr), avec adresse de vente.
+- Olivet, trois exploitants en nom individuel : **écartés pour doute sur une personne**, anonymes, la piste ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : Loiret (45) reste ouvert. Reprendre Olivet par la page de la Ville (marchés) et par l'application Mangeons Loiret, filtrée sur la commune. Si Olivet ne rend pas cinq fiches, descendre à la commune suivante par population sans fiche dans le 45 (Fleury-les-Aubrais, Saint-Jean-de-Braye, Saran, déjà touchées par la passe du Loiret, puis Montargis), ou basculer sur Corse-du-Sud (2A) selon le classement, sous la réserve de la règle 41.c.
+
+**Contradictions** (règle 5) : nombre de fiches du 45 (481 dans la note du Loiret, 10 dans le fichier). Consignée ici, rien publié sur ce point.
+
+**Fiches écartées pour doute sur une personne** : trois, à Olivet (exploitants en nom individuel, anonymes).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés. Total inchangé : 1 304 fiches.
