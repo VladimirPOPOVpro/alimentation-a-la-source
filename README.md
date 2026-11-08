@@ -50016,3 +50016,15 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le Nord reste le premier département éligible ; la passe suivante ne doit pas revenir à Wattrelos ni à Marcq-en-Barœul sans déblocage. Si la formule désigne encore le Nord la passe suivante, la réserve de région s'applique et le département suivant du classement est à instruire.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (quatorzième, Haute-Garonne (31) reprise, Muret sondée une quatrième fois : aucune publication)
+
+**Secteur.** Règle 41 sur les départements métropolitains (outre-mer écarté, règle 177 ; La Réunion, premier déficit du calcul, reste hors du cadre de `lib/validateMerchants.ts`). Le Nord (59), passe précédente, est exclu par la règle 41.c. Haute-Garonne (31), déficit ≈ 3,8, retenue. Commune la plus peuplée du 31 sans fiche : **Muret** (26 079 habitants), selon la règle 41.d.
+
+**Ce qui a été sondé.**
+- Recherche web sur les marchés de Muret : une fiche de l'agenda régional donne un marché le mardi, sans horaire précis, renvoyé vers l'office de tourisme du Muretain ; aucune page de la Ville n'est remontée pour 2026.
+- Un point de vente de producteurs de Muret, mardi en fin d'après-midi : **doute sur une personne, écarté**, non nommé, ne se rouvre pas.
+
+**Pourquoi rien n'est publié.** Muret ne rend ni cinq commerces vérifiables ni une source de la Ville confirmant les marchés. Le point d'arrêt de la passe précédente reste valable : il faut une source municipale datée, ou descendre à la commune suivante (Plaisance-du-Touch, déjà sondée).
+
+**Fiches écartées pour doute sur une personne** : une (Muret), non nommée.
