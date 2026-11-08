@@ -49820,3 +49820,27 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (huitième, Haute-Garonne (31) reprise, Balma sondée : aucune publication)
+
+**Backlog.** Une seule demande, en_cours, inchangée : Villecroze (producteur), doute sur une personne, rien n'est publié. Aucune nouvelle demande, rien à répondre.
+
+**Classement, règle 41.** Métropole seule (outre-mer écarté par la règle 93), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la réserve de région de la règle 41.c écarte les Hauts-de-France aujourd'hui. Premier département éligible : la Haute-Garonne (31, déficit ≈ 3,83 ; 24 fiches), en Occitanie.
+
+**Commune, règles 41.d et 247.** La descente de la Haute-Garonne est déjà entamée : Muret a été éprouvée à plusieurs passes, sans succès. Balma (17 772 habitants) est la commune suivante par population dans la descente. Résultat de la recherche web :
+- le magasin « Marché Occitan » (avenue des Aérostiers) relève d'une enseigne coopérative de grande distribution, écarté comme commerce généraliste (`MODERATION.md`) ;
+- le Cours des Halles, primeurs et épicerie fine : horaires publiés par un seul annuaire, sans site propre, non retenu faute de source indépendante datée ;
+- les AMAP listées à Balma datent d'un annuaire de 2015 et n'ont pas été reconfirmées : écartées pour cause de date.
+
+**Pourquoi rien n'est publié.** Balma ne rend aucun commerce vérifiable sur deux sources indépendantes datées (règles 52 et 248). Aucune fiche isolée n'est publiée.
+
+**Pistes non publiées** (sans personne nommée) :
+- Balma, marché de producteurs : aucune source 2026 trouvée. **Déblocage** : calendrier des marchés publié par la Ville, daté de 2026.
+- Balma, AMAP du Clavel (annuaire 2015) : **déblocage** : confirmation des groupes encore actifs par le réseau AMAP régional, daté de 2026.
+- Balma, primeurs Le Cours des Halles : **déblocage** : une seconde source indépendante datée.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne reste éligible, Balma est éprouvée et ne se rouvre pas sans déblocage nommé ci-dessus. La descente reprend à la commune suivante par population qui n'a pas encore été éprouvée (règle 247) ; cette passe n'a pas vérifié lesquelles sont déjà éprouvées au-delà de Balma.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
