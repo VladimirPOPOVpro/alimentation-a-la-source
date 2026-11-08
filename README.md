@@ -49619,3 +49619,40 @@ Compte : trois commerces vérifiés au plus, pas cinq, et le marché de Montessu
 **Fiches écartées pour doute sur une personne** : une, à Wattrelos (anonyme, voir ci-dessus).
 
 **Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 8 novembre 2026 (Corse-du-Sud (2A) : Ajaccio sondée, puis Porto-Vecchio ; rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté (règle 177), part de population sur toutes les communes (règle 224), 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : la région est écartée (règle 41.c). Le 28 (Centre-Val de Loire), premier du classement après le Nord, a déjà été sondé par la passe du 7 novembre sans zone (Dreux, Lucé) ; la note de cette passe prévoyait alors de passer au département suivant. **Corse-du-Sud (2A)** retenu : déficit ≈ 3,18, zéro fiche publiée, premier département ouvert hors Centre-Val de Loire et Hauts-de-France. Haute-Corse (2B) reste écarté, comme indiqué plus haut.
+
+**Commune, règle 41.d.** Commune la plus peuplée de 2A sans fiche : **Ajaccio** (76 320 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 2A (100 premiers opérateurs, un appel). À Ajaccio, les opérateurs déclarés en vente aux particuliers sont soit des structures de préparation ou de distribution sans point de vente de producteur, soit des exploitants en nom individuel écartés pour doute sur une personne (règle personnes). Les enseignes de grande distribution sont écartées par MODERATION.md.
+- Office de tourisme et site de la Ville : les marchés de la place Abbatucci et de la place Campinchi sont décrits avec des horaires contradictoires selon les sources (mardi-dimanche 8 h-13 h, ou samedi-dimanche 9 h-13 h). Le site ajaccio.fr n'a pas pu être exploité pour les horaires actuels. Le marché des Producteurs de Pays de la Chambre d'agriculture n'a ni dates ni lieux à jour trouvés.
+- Que Choisir (carte circuits courts) : un magasin de producteurs à Saint-Joseph, Tisori Nostri, horaires lundi-samedi 9 h 30-18 h, téléphone publié. Registre des entreprises : établissement actif, association, deux établissements. Une seule source indépendante et une adresse de siège hors commune : une seule fiche ne fait pas une zone (règle 52).
+- Office de tourisme (dégustation avec une ferme d'Alata au marché, stand 12) : page de 2024, produits et horaires non confirmés, pas de téléphone ni de site vérifiés.
+- Côté Marché (place Foch) : seule source un article de 2017, horaires et site non confirmés.
+- Halle Gourmande et halle Campinchi : les nocturnes de l'été 2026 donnent deux horaires contradictoires ; pas d'horaires permanents trouvés.
+
+**Descente, règle 41.d.** Ajaccio ne rend pas cinq commerces vérifiables. Descente à la commune suivante de 2A par population sans fiche : **Porto-Vecchio** (11 198 habitants).
+- Que Choisir : magasin de producteurs U Core Paesanu, horaires lundi-vendredi 9 h-12 h 30 et 16 h-19 h, adresse rue Pierre Andreani. Presse locale : association de producteurs, plus d'une vingtaine de membres, mais dates de création contradictoires (2020 ou plus récent) ; rien d'autre à Porto-Vecchio ne se laisse confirmer comme point de vente de producteur. Une épicerie participative et une structure de marché (L'Alma Salvatica) existent aussi, sans que leur rattachement au circuit court soit établi.
+
+**Pourquoi rien n'est publié.** Ajaccio : une seule fiche vérifiée (Tisori Nostri), les autres pistes sont des marchés aux horaires contradictoires, une ferme à produits non confirmés ou une source de 2017. Porto-Vecchio : une fiche solide (U Core Paesanu) et des pistes non confirmées. Aucune commune de 2A ne rend cinq fiches. Rien n'est publié, pour ne pas inscrire une fiche isolée qui ne fait pas une zone (règles 52 et 248).
+
+**Pistes non publiées** (commerces, sans personne nommée) :
+- Ajaccio, Tisori Nostri (quartier Saint-Joseph) : vérifiée par une seule source indépendante et le registre. **Déblocage** : une seconde source (site ou page de l'établissement, ou la Ville) puis reprise avec les autres fiches d'Ajaccio.
+- Ajaccio, marché de la place Abbatucci et marché de la place Campinchi : horaires contradictoires. **Déblocage** : horaires confirmés par la Ville d'Ajaccio ou l'office de tourisme.
+- Ajaccio, Côté Marché (place Foch) : source de 2017 seulement. **Déblocage** : site ou page actuelle du commerce.
+- Ajaccio, ferme d'Alata (stand au marché) : produits et horaires non confirmés. **Déblocage** : site de la ferme ou de l'office de tourisme à jour.
+- Ajaccio, Halle Gourmande : nocturnes contradictoires, pas d'horaires permanents. **Déblocage** : fiche officielle de la Ville.
+- Porto-Vecchio, U Core Paesanu : une fiche solide, dates de création contradictoires. **Déblocage** : confirmation par l'association (date, horaires) et une seconde source.
+
+**Point d'arrêt.** Passe suivante : Corse-du-Sud reste ouvert au classement (2A n'a aucune fiche, et la règle 41.c ne l'exclut pas). Reprendre Ajaccio par le site de la Ville (rubrique marchés) et l'office de tourisme pour trancher les horaires contradictoires ; si Ajaccio ne rend pas cinq fiches, la passe suivante descendra à Porto-Vecchio puis Bastelicaccia. Le 04 reste une option du classement.
+
+**Contradictions** (règle 5) : horaires des marchés d'Ajaccio (sources de l'office de tourisme, de Chalair et de Visit Corsica) ; dates de création de U Core Paesanu (presse locale). Consignées ici, rien publié sur ces points.
+
+**Fiches écartées pour doute sur une personne** : une piste, à Ajaccio (nom d'exploitant individuel, anonyme).
+
+**Publication.** Seule cette note a été ajoutée au README. `data/`, les images et le code ne sont pas touchés ; lint et build non relancés, aucune donnée n'ayant changé. Total inchangé : 1 304 fiches.
