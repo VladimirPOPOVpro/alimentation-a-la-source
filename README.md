@@ -13663,6 +13663,18 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 9 novembre 2026 (trente-sixième, Nord visé à nouveau) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié, voir les pistes précédentes).
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches. Le Nord (59) est en tête, déficit ≈ 6,1, et n'a pas été visé la passe précédente (Haute-Garonne). Il est retenu.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin, Faches-Thumesnil) ont déjà été sondées dans les passes précédentes, sans cinq commerces vérifiables. Le registre de l'Agence Bio pour le Nord ne donne en tête que des distributeurs, des négoces et des entreprises identifiées par des patronymes : rien n'est retenu sur cette base.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord éligible ne rend cinq fiches vérifiables sur une source officielle et une activité confirmée. Les pistes restantes relèvent de la règle 149 (magasins à enseigne nationale) ou de communes hors du groupement.
+
+**Point d'arrêt.** La règle 41 renvoie au Nord à chaque passe alors que la couverture locale est épuisée à force de sondages. Le responsable du site peut relire la règle 41, par exemple en écartant un département où plusieurs passes ont déjà été consignées sans publication.
+
 ### Passe autonome du 8 novembre 2026 (douzième, Nord visé, Wattrelos et Marcq-en-Barœul resondées) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié, voir les pistes précédentes).
