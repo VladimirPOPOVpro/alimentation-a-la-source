@@ -50663,3 +50663,19 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (Occitanie) si cette passe la visait, ce qui est le cas : elle prend le département suivant du classement hors Occitanie, soit l'Isère (38, Auvergne-Rhône-Alpes) ou la Loire (42). Muret, la commune la plus peuplée de la Haute-Garonne sans fiche, ne se reprend que par une source officielle de la Ville, faute de quoi elle reste sondée. Le point d'arrêt de la trente-huitième passe (descente à Fonsorbes) est épuisé ; la descente reprendra à Castelginest (11 271 habitants) au prochain passage sur la Haute-Garonne.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (quatre-cent-et-unième, Nord (59) revisé : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en cours, doute sur une personne : rien n'est publié.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, 1 304 fiches. La passe précédente visait la Haute-Garonne (Occitanie) : le Nord (59, déficit 4,5) est donc de nouveau éligible et reste en tête.
+
+**Commune, règle 41.d.** Toutes les communes du Nord de plus de 10 000 habitants sans fiche ont été éprouvées aux passes précédentes. Cette passe n'ouvre donc aucune nouvelle commune.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord, lu par pages de cent. Les seules entrées en vente aux particuliers des communes non encore sondées (La Madeleine, Hem, Grande-Synthe, Mouvaux, Denain) sont soit des personnes physiques (non reprises, ne se rouvrent pas), soit des établissements déjà écartés ou sans site ni horaires vérifiables.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52 et 248).
+
+**Constat à traiter hors passe.** La règle 41.c n'interdit que la région de la passe précédente : le Nord et la Haute-Garonne alternent donc depuis des dizaines de passes, et le classement renvoie systématiquement vers des communes déjà épuisées. La formule ne suffit plus à elle seule : il faut que le responsable du site tranche la suite (une commune de rechange par population hors Nord, ou la fermeture de la règle 41 sur les régions déjà sondées). Cette passe ne le décide pas.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
