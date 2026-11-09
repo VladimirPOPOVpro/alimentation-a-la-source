@@ -50159,3 +50159,25 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le Loiret reste ouvert. La passe suivante reprend la descente à la commune suivante de la règle 247 : Saint-Jean-de-Braye, puis Saran, Montargis. Olivet reste en pistes avec son déblocage.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (vingt-deuxième, Seine-et-Marne (77) : Savigny-le-Temple sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (enseigne au prénom d'une personne, contact privé : doute sur une personne). Rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. Réserve 41.c : la passe précédente visait le Loiret (Centre-Val de Loire, région 24), donc la région 24 est exclue. Cette passe ne reprend donc pas le Loiret, contrairement à ce que la note de la vingt-et-unième passe annonçait : contradiction consignée, la règle 41.c est tenue. Clos ou épuisés : Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Loire, Hérault, Yvelines, Val-de-Marne, Pas-de-Calais, Calvados, Bas-Rhin, Ille-et-Vilaine. Premier département ouvert : la **Seine-et-Marne (77)**, déficit ≈ 3,7.
+
+**Commune, règle 41.d.** Meaux, Chelles, Melun et Pontault-Combault sont déjà éprouvées sans résultat. Commune suivante par population sans fiche : **Savigny-le-Temple** (31 148 habitants).
+
+**Ce qui a été lu.** Recherche web sur les marchés de producteurs et les points de vente en circuit court de la commune. Le règlement des marchés de la Ville (arrêté de 2023) confie les marchés à un concessionnaire et ne décrit aucun marché de producteurs ; les brocantes et vide-greniers relevés (dont celui du 25 octobre 2026) ne sont pas des points de vente de producteurs ; la Feuille de Savigny n° 484 évoque La Ferme du Coulevrain sans permettre de dire s'il s'agit d'une vente directe. Les annuaires de circuit court n'indiquent aucun magasin de producteurs à Savigny-le-Temple.
+
+**Pourquoi rien n'est publié.** Savigny-le-Temple ne rend aucun commerce vérifiable à partir de sources indépendantes et datées (règles 5 et 52). Commune éprouvée.
+
+**Pistes non publiées (anonymes, Seine-et-Marne).**
+- Savigny-le-Temple, Ferme du Coulevrain : **déblocage** : site ou page de la ferme confirmant une vente directe au public et ses horaires 2026.
+- Savigny-le-Temple, marchés de la Ville : **déblocage** : calendrier 2026 publié par la Ville ou le concessionnaire, avec un exploitant de produits de producteurs.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** La Seine-et-Marne reste ouverte. Passe suivante : la descente reprend à la commune suivante par population sans fiche, Torcy ou Champs-sur-Marne (règle 247, douze communes au plus avant de changer de département). Le Loiret reste ouvert mais ne peut pas être visé avant une passe d'une autre région (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
