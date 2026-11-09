@@ -50542,3 +50542,30 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne revient pas au Nord (règle 41.c si la région reste la même que la passe précédente) ; la Haute-Garonne peut être reprise, sa descente de la règle 41.d reprend à Fonsorbes (12 954 habitants), puis Castelginest et Saint-Gaudens selon la règle 247. Saint-Orens-de-Gameville se reprend seulement avec la liste des exposants de la Ville.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (trente-huitième, Nord (59) visé, Cambrai et Marcq-en-Barœul sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (31, Occitanie) : seule cette région est exclue (règle 41.c). Le premier département métropolitain éligible est le Nord (59, déficit 4,5), suivi de l'Oise (60, 3,7) et de l'Isère (38, 3,6). Les départements d'outre-mer restent écartés par la règle 93.
+
+**Contradiction consignée.** La note de la trente-septième passe proposait de reprendre la Haute-Garonne à la passe suivante. C'est contraire à la règle 41.c, qui interdit de viser deux passes de suite la même région : la Haute-Garonne venait d'être visée. Cette passe ne reprend donc pas la Haute-Garonne. La prochaine passe ne doit pas non plus viser l'Occitanie.
+
+**Commune, règle 41.d.** Dans le Nord, les communes les plus peuplées sans fiche sont Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart et Armentières, toutes déjà sondées sans résultat aux passes précédentes. Cette passe reprend Marcq-en-Barœul et Cambrai, pour lesquelles la piste n'avait pas été relue sur des sources régionales.
+
+**Ce qui a été lu.**
+- Recherche web sur Cambrai : les fiches de circuit court recensées (magasins de coopérative et de ferme) ne donnent pas d'horaires dans les extraits lus ; une fiche nomme un exploitant par son patronyme, écartée pour doute sur une personne ; l'annuaire participatif ne donne ni jour ni heure de marché ; l'appel d'offres de l'agglomération ne contient aucune date.
+- Recherche web sur Marcq-en-Barœul : trois marchés recensés par un annuaire participatif, sans jour ni horaire ; un point de vente avec horaires sur un annuaire d'entreprises, non ouvert à la lecture ; le calendrier du carnet des producteurs de la Métropole Européenne de Lille (édition 2024, p. 48) reste à lire en PDF, il n'a pas été exploité cette passe.
+
+**Pistes non publiées (anonymes).**
+- Cambrai, magasin de ferme en circuit court : doute sur une personne (patronyme d'exploitant). **Écartée, ne se rouvre pas.**
+- Cambrai, magasin de coopérative agricole : commerce généraliste de jardinerie, hors périmètre. **Écartée.**
+- Cambrai, marché : jour connu d'un annuaire participatif, horaires et lieu non confirmés par la Ville. **Déblocage** : page officielle de la Ville ou de l'agglomération.
+- Marcq-en-Barœul, marchés : trois marchés recensés sans jour ni horaire confirmés. **Déblocage** : calendrier de la Ville ou carnet de la Métropole lu en PDF.
+- Marcq-en-Barœul, point de vente de produits de terroir : horaires d'un annuaire d'entreprises, site non vérifié. **Déblocage** : site ou fiche du commerce datés.
+
+**Pourquoi rien n'est publié.** Ni Cambrai ni Marcq-en-Barœul ne rendent cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Une fiche isolée ne forme pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Point d'arrêt.** La passe suivante ne vise pas le Nord si la passe précédente le visait, et jamais l'Occitanie après la Haute-Garonne. Si le Nord reste en tête sans être la région de la passe précédente, Marcq-en-Barœul se reprend par le carnet de la Métropole (p. 48) et Cambrai par le site de l'agglomération.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
