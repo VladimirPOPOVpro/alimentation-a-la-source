@@ -50454,3 +50454,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne doit pas revenir à Roanne sans déblocage nommé ci-dessus. Si la Loire reste désignée, elle reprend la descente à la commune suivante par population, Firminy, après le criblage de la règle 247. Le Nord reste réservé à la prochaine passe si son déficit est toujours en tête.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (trente-quatrième, Nord (59) visé à nouveau, Wattrelos et La Madeleine sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne (enseigne formée d'un prénom, courriel personnel), rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal. La passe précédente visait la Loire (42, Auvergne-Rhône-Alpes) : seule cette région est exclue (règle 41.c). Le Nord (59) reste en tête et figure dans le point d'arrêt de la passe précédente, qui le réserve. Le secteur retenu est donc le Nord.
+
+**Commune, règle 41.d.** Dans le Nord, les communes les plus peuplées ont déjà une fiche, sauf Wattrelos (40 847 habitants), Marcq-en-Barœul, Cambrai, Lambersart, Armentières, déjà sondées sans résultat aux passes précédentes. La Madeleine (21 790 habitants) n'avait pas été reprise dans les notes du Nord ; elle a donc été sondée cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, dix pages de cent opérateurs, filtrées sur Wattrelos et La Madeleine : à Wattrelos, des grandes surfaces, des grossistes et un établissement médico-social ; à La Madeleine, des supermarchés et des enseignes bio de la grande distribution, sans point de vente de producteurs identifié.
+- Site officiel de la Ville de Wattrelos, recherche web : les quatre marchés sont publiés avec leur jour et leur place, mais sans horaires vérifiables ni liste de producteurs (annuaires de marchés contradictoires ou sans heures).
+- Recherche web sur La Madeleine : un répertoire de producteurs locaux qui ne donne pas d'horaires de marché ; des fiches participatives d'enseignes bio de la grande distribution, écartées.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos, marchés : jours et places connus, horaires et producteurs absents des sources lues. **Déblocage** : horaires publiés par la Ville, ou liste des exposants d'un des quatre marchés.
+- La Madeleine, répertoire de producteurs : points de vente sans horaires de marché. **Déblocage** : horaires d'un marché ou d'un point de vente confirmés par une source datée.
+- Magasin de producteurs de La Chapelle-d'Armentières (commune hors de la liste du Nord sondée, signalé par un annuaire de circuit court) : horaires et site non vérifiés. **Déblocage** : fiche ou site du magasin datés.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Une fiche isolée ne forme pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Point d'arrêt.** La passe suivante reprend le Nord (si son déficit reste en tête, sans être la région de la passe précédente) : Marcq-en-Barœul et Cambrai attendent un déblocage nommé ci-dessus. Wattrelos ne se reprend que si la Ville publie des horaires.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
