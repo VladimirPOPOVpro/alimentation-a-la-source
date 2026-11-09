@@ -50181,3 +50181,23 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La Seine-et-Marne reste ouverte. Passe suivante : la descente reprend à la commune suivante par population sans fiche, Torcy ou Champs-sur-Marne (règle 247, douze communes au plus avant de changer de département). Le Loiret reste ouvert mais ne peut pas être visé avant une passe d'une autre région (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (vingt-troisième, Nord (59) reprise sur le registre Agence Bio : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches. La passe précédente visait la Seine-et-Marne (région 11) : l'Île-de-France est exclue par la règle 41.c. Le Nord (59, région 32) est en tête, déficit ≈ 6,55, et reste éligible.
+
+**Commune, règle 41.d.** Le Nord avait été sondé commune par commune sur le web. Cette passe reprend la source du registre national de l'Agence Bio, que la passe précédente demandait : 600 opérateurs du 59 relus, puis filtrés sur les lieux de vente actifs. Le résultat est pauvre : les points de vente recensés sont pour l'essentiel des grandes surfaces, des grossistes et des enseignes bio à une seule fiche par commune (Cambrai, Lomme, Valenciennes), ce qui ne permet pas de grouper cinq fiches sur une même commune.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq commerces vérifiables à partir de sources indépendantes et d'une activité confirmée (règles 5, 6 et 52). Les deux exploitations en vente directe que le registre fait apparaître au Favril et à Linselles portent, dans leur enseigne, des prénoms de personnes : elles sont écartées pour doute sur une personne, et ne se rouvrent pas.
+
+**Pistes non publiées (anonymes, Nord).**
+- Le Favril, vente directe à la ferme (registre Agence Bio) : **écartée, doute sur une personne**.
+- Linselles, vente directe (registre Agence Bio) : **écartée, doute sur une personne**.
+
+**Fiches écartées pour doute sur une personne** : 2 (Nord, Le Favril et Linselles), sans nom.
+
+**Point d'arrêt.** Le registre Agence Bio ne fournit pas de cinquième commerce vérifiable dans le Nord. La formule reproduit le Nord à chaque passe depuis plusieurs passes : la passe suivante ne peut le viser qu'avec une source nouvelle (registre des marchés de l'intercommunalité, sites des AMAP du Nord), sinon elle répète cette note.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
