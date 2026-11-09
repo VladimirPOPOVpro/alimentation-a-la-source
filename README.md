@@ -50637,3 +50637,29 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Pourquoi rien n'est publié.** Aucune fiche de Wattrelos ne rend une adresse de vente publique confirmée par une source indépendante et datée. La descente de commune (Marcq-en-Barœul, Cambrai, déjà sondées) n'a pas été reprise faute de temps dans cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (quarante-et-unième, Haute-Garonne (31) visée, Fonsorbes sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours n° 13 (Var, producteur) reste inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (59, Hauts-de-France) : cette région est exclue, donc l'Oise (60) aussi. La note de la trente-neuvième passe interdisait l'Occitanie à la passe suivante seulement ; elle n'est plus en vigueur. Les départements d'outre-mer restent hors calcul (règles 93 et 177). Le premier département éligible est la Haute-Garonne (31, déficit 3,8), devant l'Isère (38, 3,6) et la Loire (42, 3,6).
+
+**Commune, règle 41.d.** Dans la Haute-Garonne, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne et Saint-Orens-de-Gameville sont les communes les plus peuplées sans fiche ; toutes ont été sondées aux passes précédentes sans résultat. Cette passe prend Fonsorbes (12 954 habitants), la commune suivante par population, comme l'indiquait le point d'arrêt de la trente-huitième passe.
+
+**Ce qui a été lu.**
+- Recherche web sur Fonsorbes : seul un marché gourmand nocturne de juillet 2026 ressort, passé à la date de la passe, et des vide-greniers. Aucun marché de producteurs ni magasin de producteurs identifié ; la mairie renvoie à son service économie, sans liste de producteurs publiée.
+- Registre de l'Agence Bio, Haute-Garonne (2 845 opérateurs, lus par pages de cent) : à Fonsorbes, six opérateurs ont une adresse de vente déclarée ou une activité de distribution. Trois sont des grandes surfaces (une enseigne de supermarché, un hypermarché, un magasin de vrac de la grande distribution) : hors périmètre. Un grossiste et un entrepôt de distribution ne vendent pas au public.
+- Les opérateurs restants sont des producteurs ou des points de vente déclarés au registre sans site ni horaires vérifiables. Une recherche web sur leur dénomination n'a rien donné.
+
+**Pistes non publiées (anonymes).**
+- Fonsorbes, point de vente déclaré au registre sous un nom de personne : doute sur une personne, piste écartée et non rouverte.
+- Fonsorbes, exploitation productrice (céréales ou oléagineux) avec vente au particulier déclarée au registre : aucun site, aucun horaire, aucune adresse de vente publique. **Déblocage** : site ou fiche de l'exploitation datés.
+- Fonsorbes, producteur déclaré « vente aux consommateurs » au registre, avec adresse de vente : doute sur une personne (dénomination d'un particulier), écartée et non rouverte.
+- Fonsorbes, grossiste de légumineuses : pas de vente au public identifiée. Hors périmètre.
+- Fonsorbes, marché gourmand : événement de juillet 2026, passé, sans liste d'exposants producteurs. Hors périmètre.
+
+**Pourquoi rien n'est publié.** Fonsorbes ne rend aucun commerce vérifiable à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52 et 248). Une fiche isolée ne forme pas une zone : aucune fiche n'est publiée à moitié.
+
+**Point d'arrêt.** La passe suivante ne vise pas la Haute-Garonne (Occitanie) si cette passe la visait, ce qui est le cas : elle prend le département suivant du classement hors Occitanie, soit l'Isère (38, Auvergne-Rhône-Alpes) ou la Loire (42). Muret, la commune la plus peuplée de la Haute-Garonne sans fiche, ne se reprend que par une source officielle de la Ville, faute de quoi elle reste sondée. Le point d'arrêt de la trente-huitième passe (descente à Fonsorbes) est épuisé ; la descente reprendra à Castelginest (11 271 habitants) au prochain passage sur la Haute-Garonne.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
