@@ -50228,3 +50228,26 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La descente de la Seine-et-Marne atteint la borne de la règle 247 (douze communes éprouvées sans succès, avec Meaux, Chelles, Melun, Pontault-Combault, Savigny-le-Temple, Torcy et Champs-sur-Marne) : le département est clos pour cette série. La passe suivante prend le département suivant du classement, avec la réserve 41.c (région 11 exclue la passe suivante puisque cette passe la vise).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (vingt-cinquième, Nord (59) repris, Maubeuge et Armentières sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne, rien n'est publié) reste inchangée ; aucune réponse envoyée.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Île-de-France (région 11), donc la réserve 41.c l'exclut et le Nord (région 32) redevient éligible. Le Nord reprend la tête du déficit métropolitain. Les départements déjà épuisés (Haute-Garonne, Oise, Loire, Pas-de-Calais) restent écartés par la règle 247.
+
+**Ce qui a été lu.** Commune la plus peuplée du Nord sans fiche, après Wattrelos, Marcq-en-Barœul, Cambrai et Lambersart déjà sondées : Maubeuge (28 767 habitants), puis Armentières (26 998).
+- Maubeuge : une recherche web ne rend qu'un agenda de marché sans année, des annuaires de producteurs anciens, et une ferme citée pour un marché situé dans une autre commune. Aucune source datée et indépendante ne donne un marché ou un point de vente à Maubeuge même.
+- Armentières : une recherche web ne rend que des annuaires généraux, dont des producteurs situés à douze kilomètres et plus, et une exploitation de La Chapelle-d'Armentières sans marché listé. Aucun point de vente à Armentières même, confirmé en 2026.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend un commerce vérifiable à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Le registre Agence Bio n'a pas été repaginé cette passe : la sonde du Nord de la passe précédente l'avait déjà fait sans résultat utilisable.
+
+**Pistes non publiées (anonymes, Nord).**
+- Maubeuge, marché hebdomadaire sous le bois : **déblocage** : jours, horaires et liste des producteurs présents, publiés par la Ville en 2026.
+- Maubeuge, exploitation en vente directe citée par un annuaire : **déblocage** : adresse de vente et horaires confirmés par la ferme.
+- Armentières, magasin de producteurs de La Chapelle-d'Armentières signalé par une cartographie de circuit court : **déblocage** : adresse, horaires et enseigne confirmés au registre, puis vérification de l'activité.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Le Nord est maintenant sondé sur six communes sans publication. La passe suivante ne doit pas revenir à ces six communes sans déblocage nommé plus haut. Si la formule désigne encore le Nord, il faut vérifier la règle 247 avant de descendre à la suivante.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
