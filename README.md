@@ -50251,3 +50251,32 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le Nord est maintenant sondé sur six communes sans publication. La passe suivante ne doit pas revenir à ces six communes sans déblocage nommé plus haut. Si la formule désigne encore le Nord, il faut vérifier la règle 247 avant de descendre à la suivante.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (vingt-sixième, Corse-du-Sud (2A) sondée, Ajaccio reprise : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (région 32) : la réserve 41.c exclut les Hauts-de-France. Restent écartés, clos ou épuisés : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Rhône, Hérault, Seine-Saint-Denis, Yvelines, Val-de-Marne, Pas-de-Calais, Calvados, Vienne, Haute-Corse, Bas-Rhin, Ille-et-Vilaine, Haute-Marne, Seine-et-Marne, Eure-et-Loir, Alpes-de-Haute-Provence. Premier département ouvert : **Corse-du-Sud (2A)**, déficit ≈ 3,18, zéro fiche (codes postaux 20000 à 20199 ; les trois fiches corses existantes sont en 202xx, donc en Haute-Corse). Le Loiret (45), déficit ≈ 3,07, et la Seine-Maritime, déjà ouverts, viennent ensuite.
+
+**Commune, règle 41.d.** Ajaccio, commune la plus peuplée sans fiche, déjà éprouvée lors d'une passe précédente, est reprise.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés de producteurs d'Ajaccio : aucun horaire 2026 confirmé. La Chambre d'agriculture de Corse-du-Sud porte un « Marché des Producteurs de Pays » dans plusieurs quartiers, mais l'article consulté est ancien et ne donne ni jour ni lieu. La Saint-Vincent 2026 s'est tenue à la halle du marché, les travaux de la Citadelle étant en cours ; cela ne renseigne pas sur les horaires des producteurs.
+- Site de la Ville (ajaccio.fr) : non consultable depuis cet environnement, certificat TLS invalide. Non retenté.
+- Tisori Nostri, magasin de producteurs, quartier Saint-Joseph (20090). Horaires lundi à samedi 9h30-18h, dimanche fermé, et téléphone, lus sur la fiche Que Choisir Ensemble (source indépendante). Le registre des entreprises le donne actif. Mais l'adresse ne comporte que « quartier Saint-Joseph » sans numéro ni voie : la Base Adresse Nationale ne rend qu'un chemin de scierie à score 0,50. Une position posée à l'estime est exclue par la règle de géocodage.
+- Biomonde (Sarrola-Carcopino) et Mezzana (U Mercatellu, drive fermier) : hors commune d'Ajaccio, et sans horaires confirmés. Non retenus pour cette commune.
+- La Roulotte (route de Mezzavia, Ajaccio) : une fiche de même nom existe déjà à Furiani. Doublon possible, non tranché.
+
+**Pourquoi rien n'est publié.** Ajaccio ne rend ni cinq commerces vérifiables ni une adresse géocodable pour son seul magasin de producteurs identifié (règles 5, 6 et 52).
+
+**Pistes non publiées (anonymes, Corse-du-Sud).**
+- Ajaccio, Tisori Nostri (magasin de producteurs, quartier Saint-Joseph) : **déblocage** : adresse avec voie et numéro, publiée par le commerce ou la Ville, puis géocodage BAN.
+- Ajaccio, Marché des Producteurs de Pays (Chambre d'agriculture) : **déblocage** : calendrier 2026 des quartiers et liste des producteurs.
+- Ajaccio, halle du marché : **déblocage** : jours et horaires des producteurs confirmés par la Ville, hors site inaccessible.
+- Ajaccio, La Roulotte (route de Mezzavia) : **déblocage** : confirmer si c'est un établissement distinct de la fiche de Furiani.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe. La piste écartée antérieurement à Ajaccio ne se rouvre pas.
+
+**Point d'arrêt.** Corse-du-Sud reste ouvert, Ajaccio est épuisée à ce stade. Passe suivante : descendre à Porto-Vecchio (marché dominical de producteurs, place de l'Hôtel-de-Ville, et marché hebdomadaire du quartier Poretta selon l'office de tourisme), à éprouver avec les horaires confirmés par la Ville ou l'office de tourisme, puis Bastelicaccia selon la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
