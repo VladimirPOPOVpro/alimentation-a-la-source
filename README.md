@@ -50280,3 +50280,30 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Corse-du-Sud reste ouvert, Ajaccio est épuisée à ce stade. Passe suivante : descendre à Porto-Vecchio (marché dominical de producteurs, place de l'Hôtel-de-Ville, et marché hebdomadaire du quartier Poretta selon l'office de tourisme), à éprouver avec les horaires confirmés par la Ville ou l'office de tourisme, puis Bastelicaccia selon la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (vingt-septième, Corse-du-Sud (2A) : Porto-Vecchio sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règles 41 et 41.d.** Corse-du-Sud reste le département ouvert. Ajaccio étant épuisée à la passe précédente, descente à la commune suivante par population : Porto-Vecchio.
+
+**Ce qui a été lu.**
+- Registre Agence Bio (2A, 100 opérateurs) : les opérateurs de Porto-Vecchio qui vendent aux particuliers sont tous des personnes physiques (entreprises individuelles) ; aucun n'est retenu sous son nom patronymique. Un opérateur à enseigne de société (Biodelice) ne déclare aucune vente.
+- Registre des entreprises : non concluant pour la commune à ce stade.
+- Office de tourisme de Porto-Vecchio (extrait de recherche, page non ouverte : HTTP 403 depuis cet environnement) : « Marché dominical de la Haute Ville », chaque dimanche de 7 h à 13 h, producteurs locaux (miel, huile d'olive, fromages, charcuterie), place Général-Henri-Giraud.
+- Visit Corsica (extrait de recherche) : même marché dominical situé « place de l'Hôtel-de-Ville ». **Contradiction sur le lieu** entre les deux sources, non tranchée (règle 5).
+- Marché hebdomadaire de producteurs et de textile, centre-ville et quartier Poretta, 9 h à 13 h, sans jour précis dans l'extrait de l'office de tourisme. Non confirmé 2026.
+- Aucune date 2026 confirmée par les deux sources pour les horaires ou le lieu.
+
+**Pourquoi rien n'est publié.** Porto-Vecchio ne rend qu'un marché au lieu contesté, et pas cinq commerces vérifiables (règles 5, 6 et 41.d). Une fiche de marché à lieu contradictoire ne se publie pas avec un lieu choisi au hasard.
+
+**Pistes non publiées (anonymes, Corse-du-Sud).**
+- Porto-Vecchio, marché dominical de la Haute Ville : **déblocage** : lieu confirmé (place Général-Henri-Giraud ou place de l'Hôtel-de-Ville) par la Ville ou l'office de tourisme, page de l'office lisible, horaires 2026 confirmés.
+- Porto-Vecchio, marché hebdomadaire du quartier Poretta et du centre-ville : **déblocage** : jour et lieu précis, daté 2026.
+- Porto-Vecchio, producteurs en entreprise individuelle (registre Agence Bio, vente aux particuliers) : **écartés** pour doute sur une personne. Pas de réouverture sans une enseigne publique de l'exploitant.
+
+**Fiches écartées pour doute sur une personne :** trois opérateurs de Porto-Vecchio, tous en entreprise individuelle, nommés dans le registre et non nommés ici. Ils ne se rouvrent pas.
+
+**Point d'arrêt.** Porto-Vecchio reste ouverte, mais épuisée à ce stade. Passe suivante : Bastelicaccia selon la règle 247, en vérifiant d'abord les fiches de commerce, puis le registre Agence Bio pour les noms d'enseigne.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
