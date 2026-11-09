@@ -50701,3 +50701,25 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si la présente la visait, ce qui est le cas : elle prend le département suivant du classement hors Occitanie, soit le Rhône (69) ou l'Isère (38). La descente de la Haute-Garonne reprendra à Saint-Gaudens au prochain passage sur ce département, uniquement si la règle 41.c le permet.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-troisième, Isère (38) visée, Vienne sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, dénominateur national. La passe précédente visait la Haute-Garonne (Occitanie) : l'Occitanie est exclue. Le Nord (59, déficit 6,1) est en tête mais épuisé : toutes ses communes de plus de 10 000 habitants sans fiche ont été éprouvées. Le Rhône (69, déficit 4,4) vient ensuite, mais sa descente est épuisée jusqu'à Oullins-Pierre-Bénite (Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron, Oullins). La règle 247 fait donc passer au département suivant : l'Isère (38, déficit 4,4).
+
+**Commune, règle 41.d.** Grenoble, Saint-Martin-d'Hères, Échirolles, Fontaine ont déjà des fiches. La plus peuplée de l'Isère sans fiche est **Vienne (31 778 habitants)**, déjà sondée aux passes du 19 octobre et suivantes.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Isère, deux premières pages de cent (2 236 opérateurs au total, seuls ces deux pages ont été lues cette fois) : à Vienne (38200), une boulangerie déclarant la vente aux particuliers, une entreprise de grossiste sans vente au public, une grande surface (écartée, règle 40 et MODERATION.md), et des entrées sans vente au public. Aucun producteur ni point de vente en circuit court identifié.
+- Aucune nouvelle source officielle de la Ville ni de l'office de tourisme lue cette passe : les pistes déjà consignées restent les mêmes.
+
+**Pistes non publiées (anonymes).**
+- Vienne, boulangerie-fournil déclarant la vente aux particuliers (registre Agence Bio) : hors périmètre, commerce généraliste de pain.
+- Vienne, entrées du registre inscrites sous des noms de personnes physiques : doute sur une personne, écartées, ne se rouvrent pas.
+
+**Pourquoi rien n'est publié.** Vienne ne rend aucun commerce vérifiable à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52 et 248). Une fiche isolée ne forme pas une zone : aucune fiche n'est publiée à moitié.
+
+**Constat à consigner.** Le Nord, le Rhône et Vienne sont épuisés par la descente de la règle 41.d, et la Haute-Garonne l'est presque : la formule continue de désigner des communes déjà sondées. Ce constat est le même que celui de la passe du 9 novembre (quatre-cent-et-unième) ; cette passe ne le tranche pas.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
