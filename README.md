@@ -13663,6 +13663,32 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 9 novembre 2026 (trente-septième, Haute-Garonne visée à nouveau) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié, voir les pistes précédentes).
+
+**Classement, règle 41.** Métropole seule, outre-mer écarté, Corse rattachée à 2A et 2B. Le Nord (59) est en tête mais il est exclu : la passe précédente l'a visé, et le Nord appartient à la même région (règle 41.c). La Haute-Garonne (31) vient ensuite, déficit ≈ 4,8, et elle est retenue.
+
+**Commune, règle 41.d.** Les trois communes les plus peuplées de Haute-Garonne sans fiche (Blagnac, Muret, Plaisance-du-Touch) ont déjà été sondées aux passes des 11, 12 et 14 octobre sans cinq commerces vérifiables.
+
+**Ce qui a été lu cette passe.**
+- Saint-Gaudens : recherche web. Une ferme en vente directe (la Ferme de Gaudens) avec horaires cités par un guide de l'office de tourisme, non recoupés sur le site de la ferme. Aucun marché hebdomadaire confirmé.
+- Fonsorbes : recherche web. Aucun magasin de producteurs ni marché identifié dans la commune ; les résultats renvoient à Toulouse, Portet-sur-Garonne ou Montgiscard.
+- Castelginest : un marché le samedi matin n'apparaît que dans un annuaire de 2015, et jours-de-marche.fr (site participatif) ne donne qu'un jour. Ni l'un ni l'autre n'est une source officielle à jour.
+- Registre de l'Agence Bio, Haute-Garonne, première page (100 opérateurs) : la plupart des entrées sont des particuliers identifiés par leur patronyme, écartés. Les raisons sociales commerciales lues (75 degrés à L'Union, Ferme Attitude) sont des commerces déjà sondés ou des vendeurs en gros.
+
+**Pourquoi rien n'est publié.** Aucune commune de Haute-Garonne ne rend cinq fiches reposant chacune sur une source officielle indépendante et une activité confirmée. Une piste sans source ne se publie pas (règle 2).
+
+**Constat de méthode.** La formule désigne encore la Haute-Garonne, qui a été visée à quatre reprises depuis le 6 novembre sans fiche publiée. Le constat du 14 octobre reste ouvert, et cette passe ne le tranche pas.
+
+**Pistes non publiées** : aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe (les entrées au patronyme du registre sont écartées dès le tri, sans être décrites).
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 9 novembre 2026 (trente-sixième, Nord visé à nouveau) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié, voir les pistes précédentes).
