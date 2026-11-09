@@ -50383,3 +50383,30 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Note de méthode.** Le recoupement par nom de commune trouve Saint-Jean (11 261 habitants) pour une fiche qui pourrait être d'une autre commune du même nom : à vérifier avant tout calcul fin.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (trente et unième, Nord (59) visé, Maubeuge et Aniche sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (région 76, Occitanie) : seule cette région est close. Les Hauts-de-France redeviennent éligibles, et le Nord (59) est en tête du déficit métropolitain, à environ 4,5 fiches. Les départements d'outre-mer sortent du calcul (règle 177).
+
+**Commune, règle 41.d.** Communes du Nord les plus peuplées sans fiche : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Mons-en-Barœul et Coudekerque-Branche, toutes déjà éprouvées, Mons-en-Barœul et Coudekerque-Branche pour doute sur une personne (voir les pistes du Nord plus haut). La descente suivante est Wasquehal (20 726 habitants), puis Halluin, Denain, Grande-Synthe et Ronchin.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, douze pages de cent opérateurs lues, filtrées sur les communes ci-dessus et sur Wasquehal, Halluin, Denain, Grande-Synthe et Ronchin. Trois opérateurs en vente aux particuliers surgissent dans les communes déjà éprouvées ; aucun n'a encore de source du cercle habituel (office, Ville, site de la commune) qui le documente à une adresse de vente publique.
+- Wasquehal : seul le magasin « Bio C'Bon » est inscrit au registre pour la commune, sans vente aux particuliers déclarée dans l'annuaire. Pas de marché ni de producteur relevé sur les sources locales de cette passe.
+
+**Pistes non publiées (anonymes, Nord).**
+- Maubeuge, petite exploitation en vente directe au siège de l'exploitation (registre Agence Bio, vente aux particuliers déclarée, site officiel renseigné) : la dénomination légale du registre reprend le nom d'une personne physique. Enseigne propre, mais doute sur une personne : **écartée, ne se rouvre pas** sans enseigne publiée sur une source indépendante.
+- Aniche, exploitation maraîchère en vente aux particuliers (registre Agence Bio, réseaux sociaux seulement) : la dénomination reprend le nom d'une personne physique. **Écartée pour doute sur une personne, ne se rouvre pas.**
+- Marcq-en-Barœul, potager en vente aux particuliers (registre Agence Bio, réseaux sociaux seulement, adresse de siège dans une autre commune) : **déblocage** : site ou fiche de l'exploitation, et adresse de vente confirmée.
+- Villeneuve-d'Ascq, ferme en vente directe avec site officiel vivant (registre Agence Bio, adresse de vente et adresse de siège à Croix) : enseigne propre, mais la commune porte déjà une fiche, donc hors de la règle 41.d de cette passe. **Déblocage** : à reprendre à la passe où Villeneuve-d'Ascq sera la commune retenue, après vérification de l'activité au registre des entreprises.
+- Lambersart, entreprise de préparation de jus (registre Agence Bio, certification arrêtée en 2021) : pas de vente aux particuliers vérifiée. Hors sujet pour cette passe.
+
+**Fiches écartées pour doute sur une personne** : deux, à Maubeuge et à Aniche (dénominations légales au nom d'une personne physique). Aucun nom consigné.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables à une adresse de vente publique, datée, et confirmée par une source indépendante (règles 5, 6 et 52). Les rares fiches exactes du registre sont soit à enseigne personnelle, soit documentées seulement par le registre et les réseaux sociaux. Rien n'est publié à moitié (règles 9 et 11).
+
+**Point d'arrêt.** La passe suivante ne doit pas revenir à Maubeuge, Aniche, Mons-en-Barœul ni Coudekerque-Branche. Si le Nord reste en tête, elle descend à Wasquehal et y vérifie le magasin « Bio C'Bon » sur son site officiel et sur le registre, puis regarde les marchés de la Ville. Si la formule désigne ensuite la Haute-Garonne ou une autre région déjà éprouvée, la règle 247 s'applique.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
