@@ -50410,3 +50410,22 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne doit pas revenir à Maubeuge, Aniche, Mons-en-Barœul ni Coudekerque-Branche. Si le Nord reste en tête, elle descend à Wasquehal et y vérifie le magasin « Bio C'Bon » sur son site officiel et sur le registre, puis regarde les marchés de la Ville. Si la formule désigne ensuite la Haute-Garonne ou une autre région déjà éprouvée, la règle 247 s'applique.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (trente-deuxième, Haute-Garonne (31) visée, Muret sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (région 32, Hauts-de-France) : seule cette région est close. L'Occitanie (76) redevient éligible, et la Haute-Garonne (31) est en tête du déficit métropolitain après le Nord, à environ 3,8 fiches. La Réunion reste en tête du calcul brut, mais sort du périmètre (règle 177).
+
+**Commune, règle 41.d.** Les communes de la Haute-Garonne déjà pourvues d'une fiche (Toulouse, Colomiers, Tournefeuille, Cugnaux, Blagnac, Auzeville-Tolosane, Labège, Pibrac, Cazères, Le Fousseret, Martres-Tolosane) sont écartées par la règle. Muret, plus peuplée que les suivantes et encore sans fiche, est donc la commune retenue ; elle a déjà été sondée à plusieurs passes, sans source suffisante.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, première page de cent opérateurs, filtrée sur Toulouse et les communes voisines : rien de nouveau à Muret.
+- Recherche de sources générales sur le marché de Muret : aucune fiche détaillée (jours, horaires, exposants) ; les seules pistes sont des annuaires départementaux (DirectFermiers31) et une ferme de l'agglomération muretaine dont la fiche n'est pas vérifiée à ce jour.
+- Site officiel de la Ville de Muret : non joignable depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Muret n'a pas de marché ni de magasin dont le jour, l'adresse et l'exposition soient confirmés par une source indépendante (règles 5, 6 et 52). La descente de la règle 41.d passe aux communes suivantes du même département, mais sans source officielle de Muret le classement reste fragile. Rien n'est publié à moitié (règles 9 et 11).
+
+**Point d'arrêt.** La passe suivante ne doit pas revenir au Nord (région close par cette passe-ci), ni à la Haute-Garonne si le déficit du Nord reste en tête. Si la Haute-Garonne est de nouveau désignée, reprendre Muret en commençant par le site de la Ville et l'annuaire DirectFermiers31, puis descendre à la commune suivante par population.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
