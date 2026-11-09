@@ -50328,3 +50328,26 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le Loiret reste ouvert, Olivet est épuisée à ce stade. La passe suivante ne peut pas viser le Centre-Val de Loire (41.c, la région 24 vient d'être visée) : elle prend le département suivant du classement.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (vingt-neuvième, Oise (60) visée, Nogent-sur-Oise sondée : aucune publication)
+
+**Choix du secteur.** Formule de la règle 41 : Oise (60) a le plus grand déficit parmi les départements non clos, avec un déficit d'environ +3,7 pour 12 fiches (le Nord, la Haute-Garonne, la Seine-et-Marne, le Loiret et la Corse-du-Sud sont déjà épuisés ou clos par les passes précédentes). La région du Centre-Val de Loire, visée la passe d'avant, est exclue par la règle 41.c. Les départements d'outre-mer sont exclus : le validateur refuse toute coordonnée hors de la France métropolitaine.
+
+**Commune.** Dans l'Oise, les quatre communes les plus peuplées ont déjà des fiches (Beauvais, Compiègne, Creil). La plus peuplée sans fiche est Nogent-sur-Oise (21 907 habitants).
+
+**Ce qui a été éprouvé.**
+- Registre Agence Bio, département 60 (613 opérateurs relus) : dans Nogent-sur-Oise, seuls des établissements de grande surface, de gros ou de boulangerie apparaissent. Aucun ne rentre dans les catégories de la carte, donc rien à publier.
+- Recherche web : aucune ferme, aucun marché de producteurs ni aucune AMAP identifiés dans la commune. L'annuaire « jours-de-marche » ne liste aucun producteur à Nogent-sur-Oise. Le marché de la place de la République n'a ni jours ni horaires publiés par une source solide.
+- Senlis (15 157 habitants, deuxième commune sans fiche) : seule piste, un point La Ruche qui dit Oui! dans un annuaire du Parc de 2021, à confirmer. Le Marché de Noël de Senlis est un événement, pas un commerce : il ne rentre pas sur la carte.
+
+**Pistes non publiées (anonymes, Oise).**
+- Nogent-sur-Oise, marché de la place de la République : **déblocage** : jours et horaires publiés par la Ville, puis liste des producteurs présents.
+- Senlis, point La Ruche qui dit Oui! : **déblocage** : adresse de retrait et activité confirmées par la plateforme ou le Parc en 2026.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Nogent-sur-Oise est sondée sans succès, Senlis reste une piste faible. La passe suivante ne doit pas revenir à Nogent-sur-Oise sans déblocage nommé plus haut. Si l'Oise reste en tête du déficit, prendre Senlis selon la règle 247 en vérifiant d'abord la piste ci-dessus, puis la commune suivante sans fiche par population ; sinon passer au département suivant du classement.
+
+**Note de méthode.** Le décompte par département lit les deux premiers chiffres du code postal : les codes postaux corses (20xxx) ne sont donc pas rattachés à 2A ou 2B dans ce calcul. À corriger dans la prochaine passe qui utilise la formule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
