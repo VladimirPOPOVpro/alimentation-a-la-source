@@ -50429,3 +50429,28 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne doit pas revenir au Nord (région close par cette passe-ci), ni à la Haute-Garonne si le déficit du Nord reste en tête. Si la Haute-Garonne est de nouveau désignée, reprendre Muret en commençant par le site de la Ville et l'annuaire DirectFermiers31, puis descendre à la commune suivante par population.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (trente-troisième, Loire (42) visée, Roanne sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne (prénom seul comme enseigne, courriel personnel), rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (Occitanie, région 76) : seule l'Occitanie est exclue (règle 41.c). Le Nord (59, 4,47) reste en tête mais figure dans le point d'arrêt de la passe précédente, qui le réserve ; la Haute-Garonne (31) est donc écartée elle aussi. La Loire (42, 3,64) est le premier département ouvert hors Occitanie, Hauts-de-France et Île-de-France de passe récente, avec la réserve du point d'arrêt.
+
+**Commune, règle 41.d.** Dans la Loire, Saint-Étienne (cinq fiches) et Saint-Chamond (une fiche) sont déjà pourvues ; Roanne (35 409 habitants) est la commune la plus peuplée encore sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Loire, première page de cent opérateurs, filtrée sur Roanne : un magasin bio de la place centrale, inscrit en vente aux consommateurs et actif au registre, mais son horaire publié date de 2022, dans une plaquette qui ne dit pas si les créneaux concernent le magasin ou une vente à la ferme. Un siège social distinct figure au registre, à une autre adresse de la ville. Un second opérateur de Roanne est un distributeur, sans vente aux particuliers. Aucun site du magasin n'a été trouvé.
+- Office de tourisme du Roannais : marché de la place du Marché, le vendredi matin, sans liste d'exposants ni d'horaires ; les halles Diderot sont un lieu de restauration et de produits de la région, sans producteurs listés.
+- Plaquette de l'agglomération (2022) et annuaires de 2020 : vente de producteurs du Roannais sur les marchés de Roanne, sans jours ni adresses confirmés ; un marché des producteurs fermiers, rue du Coq, dont la date annoncée est passée.
+- Site officiel de la Ville de Roanne : répond, mais sans liste de marchés ni de commerces exploitable pendant la passe.
+
+**Pistes non publiées (anonymes, Roanne).**
+- Magasin bio de la place centrale (registre Agence Bio, vente aux consommateurs, activité vérifiée) : horaires seulement par une plaquette de 2022 ; aucun site du magasin trouvé. **Déblocage** : horaires du magasin confirmés par une source datée, ou par téléphone du point de vente.
+- Marché du vendredi, place du Marché (office de tourisme) : pas de liste d'exposants ni d'horaires, donc pas de fiche complète. **Déblocage** : liste des exposants ou règlement du marché publié par la Ville.
+- Halles Diderot : lieu de restauration, pas de producteur identifié. **Hors sujet** en l'état.
+
+**Pourquoi rien n'est publié.** Roanne ne rend pas cinq commerces vérifiables à une adresse de vente publique, datée, et confirmée par une source indépendante (règles 5, 6 et 52) ; une fiche isolée n'est pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Point d'arrêt.** La passe suivante ne doit pas revenir à Roanne sans déblocage nommé ci-dessus. Si la Loire reste désignée, elle reprend la descente à la commune suivante par population, Firminy, après le criblage de la règle 247. Le Nord reste réservé à la prochaine passe si son déficit est toujours en tête.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
