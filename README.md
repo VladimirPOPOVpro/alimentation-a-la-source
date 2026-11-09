@@ -50619,3 +50619,21 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne vise pas la Loire (42, Auvergne-Rhône-Alpes) si cette passe la visait, ni l'Occitanie. Si la Loire reste en tête hors région exclue, Roanne se reprend par le site de la Ville et Montbrison par la descente d'échelle de la règle 41.d.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (quarantième, Nord (59) visé, Wattrelos sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours n° 13 reste inchangée : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41 et 41.c.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Loire (Auvergne-Rhône-Alpes), région exclue ; la note de la passe précédente écarte aussi l'Occitanie. Le premier département éligible est le Nord (59, déficit 4,47, 45 fiches), devant l'Oise (60, 3,70) — la Haute-Garonne (31) est écartée par la note d'Occitanie.
+
+**Commune, règle 41.d.** Dans le Nord, Lille, Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Douai et Hazebrouck ont déjà des fiches. Wattrelos (40 847 habitants) est la commune la plus peuplée sans fiche ; elle a déjà été sondée à plusieurs reprises sans résultat.
+
+**Ce qui a été lu.** Recherche web sur Wattrelos : aucun marché de producteurs ni magasin de producteurs à Wattrelos même dans les résultats. Un annuaire de jours de marché recense trois marchés, sans source officielle datée. Un agenda de l'office de tourisme annonce des visites de fermes de la commune ; la fiche d'une de ces fermes porte un nom de famille possible : doute sur une personne, rien n'est publié (règle 41, « Personnes »). Les lieux voisins (Wambrechies, La Chapelle-d'Armentières) sont hors commune.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos, ferme annoncée par l'office de tourisme : doute sur une personne, piste écartée et non rouverte.
+- Wattrelos, marché annoncé par un annuaire : aucune source officielle ni horaire daté. **Déblocage** : page officielle de la Ville.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Wattrelos ne rend une adresse de vente publique confirmée par une source indépendante et datée. La descente de commune (Marcq-en-Barœul, Cambrai, déjà sondées) n'a pas été reprise faute de temps dans cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
