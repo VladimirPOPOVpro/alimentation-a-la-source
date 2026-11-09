@@ -50478,3 +50478,29 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante reprend le Nord (si son déficit reste en tête, sans être la région de la passe précédente) : Marcq-en-Barœul et Cambrai attendent un déblocage nommé ci-dessus. Wattrelos ne se reprend que si la Ville publie des horaires.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (trente-cinquième, Haute-Garonne (31) visée, Plaisance-du-Touch, Balma, Castanet-Tolosan et Ramonville-Saint-Agne sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : seule cette région est exclue (règle 41.c). **Contradiction consignée** : le point d'arrêt de la passe précédente demandait de reprendre le Nord, ce qui contredit la règle 41.c ; la règle 41.c l'emporte. Premier département ouvert : **Haute-Garonne (31)**, en Occitanie, déficit ≈ 3,8 fiches.
+
+**Commune, règle 41.d.** Dans la Haute-Garonne, Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux et Pibrac ont déjà des fiches. Communes sans fiche, par population : Muret (26 079 habitants, sondée à la passe précédente), Plaisance-du-Touch (21 079), Balma (17 772), Castanet-Tolosan (15 317), Ramonville-Saint-Agne (15 158). Cette passe a sondé les quatre dernières.
+
+**Ce qui a été lu.**
+- Recherches web sur Plaisance-du-Touch : un marché sans jour confirmé (agrégateur de marchés) ; une fromagerie d'affinage, qui revend des fromages sélectionnés plutôt qu'elle ne produit, sans horaires trouvés ; aucune AMAP ni ferme propre à la commune.
+- Recherches web sur Balma : un marché de plein vent d'après un guide des commerçants municipal daté de 2021 (mercredi et samedi matin), un producteur présent le mercredi selon un agrégateur. Horaires et exposants non confirmés par une source actuelle.
+- Recherches web sur Castanet-Tolosan : un marché de producteurs chez un particulier, sur commande en ligne (pas un lieu de vente publique) ; un marché sous la halle d'après un annuaire de 2015. Aucun magasin de producteurs dans la commune.
+- Recherches web sur Ramonville-Saint-Agne : un seul producteur-marché (mercredi, 16 h à 20 h), attesté par un seul agrégateur, sans site ni page du producteur consultés.
+- Registre Agence Bio et sites officiels des communes : non relus à cette passe.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Les sources relevées sont des agrégateurs ou des annuaires anciens. Une fiche isolée ne forme pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Pistes non publiées (anonymes).**
+- Plaisance-du-Touch, fromagerie d'affinage : hors catégorie producteur, horaires absents. **Déblocage** : horaires et activité confirmés par le site du commerce.
+- Balma, marché de plein vent : jours connus, horaires et exposants absents d'une source actuelle. **Déblocage** : page du marché sur le site de la Ville.
+- Ramonville-Saint-Agne, marché du mercredi : une seule source agrégée. **Déblocage** : site ou page du producteur.
+
+**Point d'arrêt.** La passe suivante exclut l'Occitanie (règle 41.c). Si la Haute-Garonne revient en tête par la suite, elle reprend Muret par le site de la Ville, puis Plaisance-du-Touch par la fiche de la Ville, et descend par population selon la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
