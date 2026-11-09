@@ -50516,3 +50516,29 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante exclut l'Occitanie (règle 41.c). Si la Haute-Garonne revient en tête par la suite, elle reprend Muret par le site de la Ville, puis Plaisance-du-Touch par la fiche de la Ville, et descend par population selon la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (trente-septième, Haute-Garonne (31) reprise, Saint-Orens-de-Gameville et L'Union sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : seule cette région est exclue (règle 41.c). Les départements d'outre-mer restent écartés par la règle 93. Le premier département métropolitain hors Hauts-de-France est la Haute-Garonne (31), déficit calculé 3,8 contre 3,7 pour l'Oise, elle aussi en Hauts-de-France, et 3,6 pour la Loire, passe d'avant-avant. Elle est donc désignée.
+
+**Commune, règle 41.d.** Dans la Haute-Garonne, les communes déjà pourvues d'une fiche sont écartées : Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Saint-Jean, Pibrac, Auzeville-Tolosane, Labège, Cazères, Le Fousseret, Martres-Tolosane. Sondées sans succès aux passes précédentes : Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne. Cette passe sonde Saint-Orens-de-Gameville (14 646 habitants), puis L'Union (12 638), les deux suivantes par population.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Saint-Orens-de-Gameville, rubrique « Consommer local » : une seule ressource de vente de producteurs, le marché de plein vent de la rue du Centre, chaque samedi de 8 h à 12 h 30, sans liste d'exposants ; les pages « Pôles commerciaux » et « Annuaire des commerces » ne nomment aucun point de vente. Une seule source municipale, une seule fiche possible, insuffisant.
+- Registre Agence Bio, Haute-Garonne, cinq pages de cent opérateurs filtrées sur Saint-Orens-de-Gameville : une boulangerie et un boucher bio dont l'enseigne est formée d'un prénom ; un doute sur une personne, écarté. Rien d'autre de vendu au public.
+- Recherche web sur L'Union : un marché et une ruche de distribution sur des pages agrégatrices sans jours ni horaires confirmés par la Ville ; une ferme dont la page annuaire n'est pas ouverte à la lecture. Pas de site officiel de la commune exploité.
+
+**Pistes non publiées (anonymes).**
+- Saint-Orens-de-Gameville, marché de plein vent : jour et lieu confirmés par la Ville, mais aucun exposant nommé ; la fiche d'un marché seul ne forme pas une zone. **Déblocage** : liste des exposants publiée par la Ville ou par l'un d'eux.
+- Saint-Orens-de-Gameville, boucher bio : enseigne formée d'un prénom, doute sur une personne. **Écartée, ne se rouvre pas.**
+- Saint-Orens-de-Gameville, boulangerie de la rue du Château : vente au public signalée par le registre, horaires et site non vérifiés. **Déblocage** : fiche ou site du commerce datés.
+- L'Union, ruche de distribution : point de distribution d'une plateforme de commande, horaires agrégés seulement. **Déblocage** : horaires publiés par la plateforme ou la commune.
+- L'Union, ferme en vente directe sur sa page annuaire : page non lue. **Déblocage** : site ou fiche de la ferme.
+
+**Pourquoi rien n'est publié.** Ni Saint-Orens-de-Gameville ni L'Union ne rendent cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Une fiche isolée ne forme pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Point d'arrêt.** La passe suivante ne revient pas au Nord (règle 41.c si la région reste la même que la passe précédente) ; la Haute-Garonne peut être reprise, sa descente de la règle 41.d reprend à Fonsorbes (12 954 habitants), puis Castelginest et Saint-Gaudens selon la règle 247. Saint-Orens-de-Gameville se reprend seulement avec la liste des exposants de la Ville.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
