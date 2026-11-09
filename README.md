@@ -50201,3 +50201,30 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Le registre Agence Bio ne fournit pas de cinquième commerce vérifiable dans le Nord. La formule reproduit le Nord à chaque passe depuis plusieurs passes : la passe suivante ne peut le viser qu'avec une source nouvelle (registre des marchés de l'intercommunalité, sites des AMAP du Nord), sinon elle répète cette note.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 9 novembre 2026 (vingt-quatrième, Seine-et-Marne (77) : Torcy et Champs-sur-Marne sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en_cours reste inchangée (doute sur une personne, rien n'est publié, aucun message n'est envoyé).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (région 32) : la réserve 41.c laisse la Seine-et-Marne (région 11) éligible, et la passe précédente en avait fait le point d'arrêt. Le Nord reste exclu cette passe.
+
+**Commune, règle 41.d.** Torcy (77200), commune suivante par population sans fiche, selon la note de la vingt-deuxième passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 77, filtré sur Torcy et Champs-sur-Marne : une enseigne grossiste (vente aux professionnels seulement), un importateur de produits exotiques, un opérateur à vente aux particuliers dont l'adresse et l'activité ne sont pas confirmées ; à Champs-sur-Marne, aucun lieu de vente.
+- Recherche web sur Torcy : aucun marché hebdomadaire ni marché de producteurs permanent ; l'annuaire de marchés indique « aucun marché » ; l'événement annuel « Alim' TonAgglo » a lieu une fois par an sur la place de Torcy (dernière édition connue : 11 octobre 2025), ce qui est un événement et non un point de vente ; les AMAP listées par un annuaire de producteurs ont des adresses ambiguës, à vérifier ; une micro-ferme maraîchère et deux artisans (chocolat, miel) sont citées, sans horaires ni point de vente confirmés.
+- Recherche web sur Champs-sur-Marne (77420) : aucun marché ni magasin à la ferme sur la commune ; les répertoires ne listent que des fermes situées à plusieurs dizaines de kilomètres.
+
+**Pourquoi rien n'est publié.** Torcy ne rend aucun commerce de producteurs vérifiable à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Champs-sur-Marne n'en rend aucun. Aucun n'atteint cinq fiches.
+
+**Pistes non publiées (anonymes, Seine-et-Marne).**
+- Torcy, AMAP listées par un annuaire : **déblocage** : adresses de distribution confirmées par l'AMAP ou par la Ville.
+- Torcy, micro-ferme maraîchère : **déblocage** : point de vente public et horaires confirmés par la ferme.
+- Torcy, artisans (chocolat, miel) : hors sujet tant qu'il n'y a pas de vente de produits de producteurs à une adresse publique.
+- Torcy, Alim' TonAgglo : **déblocage** : annonce de la prochaine édition avec les producteurs participants, adresse et date publiées par la Ville ou l'agglomération.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** La descente de la Seine-et-Marne atteint la borne de la règle 247 (douze communes éprouvées sans succès, avec Meaux, Chelles, Melun, Pontault-Combault, Savigny-le-Temple, Torcy et Champs-sur-Marne) : le département est clos pour cette série. La passe suivante prend le département suivant du classement, avec la réserve 41.c (région 11 exclue la passe suivante puisque cette passe la vise).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
