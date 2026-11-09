@@ -50307,3 +50307,24 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** Porto-Vecchio reste ouverte, mais épuisée à ce stade. Passe suivante : Bastelicaccia selon la règle 247, en vérifiant d'abord les fiches de commerce, puis le registre Agence Bio pour les noms d'enseigne.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (vingt-huitième, Loiret (45) repris, Olivet sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours reste inchangée : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Corse (région 94) : la réserve 41.c l'exclut. Le Loiret (région 24, Centre-Val de Loire) est ouvert, sa descente reprend à la commune la plus peuplée sans fiche : Olivet (23 507 habitants), devant Saint-Jean-de-Braye.
+
+**Ce qui a été lu.**
+- Registre Agence Bio (45, 100 opérateurs) : trois opérateurs d'Olivet, tous en entreprise individuelle et sans vente aux particuliers au registre. Non retenus, nommés nulle part.
+- Recherche web : un marché du vendredi après-midi, place Louis-Sallé et rue Marcel-Belot, du 13 octobre au 31 décembre 2026 selon un agenda local. Aucun horaire, aucune liste de producteurs, aucune confirmation de la commune. Une seule source tierce, non officielle.
+
+**Pourquoi rien n'est publié.** Olivet ne rend ni cinq commerces vérifiables ni un marché dont les horaires et les producteurs soient confirmés par une source officielle (règles 5, 6 et 41.d).
+
+**Pistes non publiées (anonymes, Loiret).**
+- Olivet, marché du vendredi (place Louis-Sallé) : **déblocage** : horaires et liste des producteurs confirmés par la Ville ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne :** aucune fiche publiée ni instruite cette passe ; les trois opérateurs cités ci-dessus n'ont pas été retenus.
+
+**Point d'arrêt.** Le Loiret reste ouvert, Olivet est épuisée à ce stade. La passe suivante ne peut pas viser le Centre-Val de Loire (41.c, la région 24 vient d'être visée) : elle prend le département suivant du classement.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
