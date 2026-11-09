@@ -50569,3 +50569,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Point d'arrêt.** La passe suivante ne vise pas le Nord si la passe précédente le visait, et jamais l'Occitanie après la Haute-Garonne. Si le Nord reste en tête sans être la région de la passe précédente, Marcq-en-Barœul se reprend par le carnet de la Métropole (p. 48) et Cambrai par le site de l'agglomération.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (trente-neuvième, Loire (42) visée, Roanne et Montbrison sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (59, Hauts-de-France) : cette région est exclue (règle 41.c). L'Oise (60), également en Hauts-de-France, l'est donc aussi. La note de la trente-huitième passe interdit en outre l'Occitanie pour la passe suivante : la Haute-Garonne (31) est écartée. Les départements d'outre-mer restent hors calcul (règles 93 et 177). Le premier département éligible est la Loire (42, déficit 3,64), devant l'Isère (38, 3,57) et la Corse-du-Sud (2B, 3,54).
+
+**Commune, règle 41.d.** Dans la Loire, Saint-Étienne (cinq fiches) et Saint-Chamond (une fiche) sont déjà pourvues. Roanne (35 409 habitants) reste la commune la plus peuplée sans fiche, déjà sondée sans résultat aux passes précédentes. Cette passe la reprend, puis descend à Montbrison (16 123 habitants).
+
+**Ce qui a été lu.**
+- Recherche web sur Roanne : le guide de l'office de tourisme (printemps 2024) et un annuaire de marchés mentionnent un marché le mardi et le vendredi matin sur la place du Marché, avec des exposants qui changent selon le jour. Aucune source officielle de la Ville n'a été trouvée ; l'annuaire ne donne pas d'horaire daté. Pas de fiche sans source officielle ou datée.
+- Recherche web sur Montbrison : un magasin de producteurs du centre, listé par un comparateur de circuits courts avec horaires ; le registre des entreprises confirme l'établissement en activité. Adresse complète et horaires non confirmés par le commerce lui-même.
+- Recherche web sur Firminy : seul un magasin bio généraliste ressort, hors périmètre. Aucune AMAP trouvée dans la Loire autour de Roanne, Firminy ou Montbrison.
+
+**Pistes non publiées (anonymes).**
+- Roanne, marché de la place du Marché : jours connus par des sources de 2024, aucune source officielle ni horaire daté. **Déblocage** : page officielle de la Ville ou calendrier de l'office de tourisme daté de 2026.
+- Montbrison, magasin de producteurs : établissement actif au registre, horaires d'un comparateur, adresse complète à confirmer. Une seule piste dans la commune : ne forme pas une zone. **Déblocage** : au moins quatre autres commerces vérifiables dans la commune, ou descente à la commune suivante par population (Rive-de-Gier, 15 242 habitants) au prochain passage sur la Loire.
+- Renaison, magasin de producteurs : horaires d'une fiche de 2020, probablement périmés. **Déblocage** : horaires actuels du commerce.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Loire ne rend cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52 et 248). Rien n'est publié à moitié.
+
+**Point d'arrêt.** La passe suivante ne vise pas la Loire (42, Auvergne-Rhône-Alpes) si cette passe la visait, ni l'Occitanie. Si la Loire reste en tête hors région exclue, Roanne se reprend par le site de la Ville et Montbrison par la descente d'échelle de la règle 41.d.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
