@@ -50351,3 +50351,35 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Note de méthode.** Le décompte par département lit les deux premiers chiffres du code postal : les codes postaux corses (20xxx) ne sont donc pas rattachés à 2A ou 2B dans ce calcul. À corriger dans la prochaine passe qui utilise la formule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (trentième, Haute-Garonne (31) visée, Muret sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, inchangée : doute sur une personne, rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Métropole seule, DOM exclus (le validateur refuse les coordonnées hors métropole). L'Oise, visée à la passe précédente, est dans les Hauts-de-France : la règle 41.c ferme la région. Les Hauts-de-France sont donc exclus, ce qui écarte le Nord (59) et l'Oise (60). Le premier département ouvert est la **Haute-Garonne (31)**, en Occitanie, avec un déficit d'environ 3,8 fiches. Le Centre-Val de Loire, visé deux passes plus tôt, n'est pas concerné.
+
+**Commune, règle 41.d.** Le recoupement se fait sur le nom de commune dans le champ adresse. Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, L'Union, Pibrac et Saint-Jean portent déjà des fiches. **Muret (26 079 habitants)** est la commune la plus peuplée du 31 sans aucune fiche.
+
+**Ce qui a été lu.**
+- Haute-Garonne Tourisme, fiche « marché plein vent » de Muret : marché alimentaire, section bio et petits producteurs, sur la place de la République et la place de la Paix. Un seul annuaire touristique départemental, sans horaires détaillés.
+- Illico mes produits locaux : marché du samedi, 7 h 30 à 13 h, produits bio et non bio, quelques volailles. Source d'annuaire, pas de la Ville.
+- Jours-de-Marché.fr et Cirkwi : marché de producteurs au centre-ville le mardi, de 17 h à 19 h, selon un seul annuaire chacun ; les deux disent de confirmer auprès de la mairie.
+- Recherche web élargie sur la mairie et les producteurs : aucune page officielle de la Ville de Muret n'a pu être lue ; aucune ferme en vente directe identifiée sur la commune elle-même, seulement dans les communes voisines (Mondavezan, Lherm, Lavernose-Lacasse, Cadours, Vaudreuille, Cazères), qui ne rentrent pas dans la commune.
+
+**Pistes non publiées (anonymes, Muret).**
+- Muret, marché alimentaire du samedi matin (centre-ville) : jour et lieu concordants entre trois annuaires, aucune source municipale lue. **Déblocage** : page marchés de la Ville de Muret, ou liste des exposants.
+- Muret, marché de producteurs du mardi après-midi : un seul annuaire, horaires non confirmés. **Déblocage** : confirmation par la Ville ou par l'office de tourisme du Muretain.
+- Muret, exploitation maraîchère bio, vente sur le marché du samedi (annuaire seul) : pas de site, pas de téléphone vérifié. **Déblocage** : site ou fiche de l'exploitation.
+- Muret, producteur de farines et de légumineuses bio, adresse dans la commune (annuaire seul) : pas de vente directe confirmée. **Déblocage** : confirmation de la vente au public.
+- Muret, enseigne d'un producteur au prénom de personne, vente en cagette sur le marché du mardi : doute sur une personne, écartée. Ne se rouvre pas.
+- Muret, un producteur bio sous un sigle de trois lettres : doute sur une personne (sigle pouvant désigner une personne), écarté. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : deux, à Muret (enseigne au prénom et sigle). Aucun nom consigné.
+
+**Pourquoi rien n'est publié.** Muret donne deux marchés et deux producteurs réels, aucun n'est confirmé par une source municipale, et cinq fiches groupées ne sont pas atteignables avec les sources de cette passe. Rien n'est publié à moitié (règles 9 et 11).
+
+**Point d'arrêt.** La passe suivante ne revient pas en Occitanie (règle 41.c). Si la Haute-Garonne reste en tête après une autre région, Muret se reprend seulement avec la page de la Ville. Sinon, descente vers Plaisance-du-Touch (21 079 habitants), la commune la plus peuplée du 31 sans fiche après Muret.
+
+**Note de méthode.** Le recoupement par nom de commune trouve Saint-Jean (11 261 habitants) pour une fiche qui pourrait être d'une autre commune du même nom : à vérifier avant tout calcul fin.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
