@@ -50679,3 +50679,25 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Constat à traiter hors passe.** La règle 41.c n'interdit que la région de la passe précédente : le Nord et la Haute-Garonne alternent donc depuis des dizaines de passes, et le classement renvoie systématiquement vers des communes déjà épuisées. La formule ne suffit plus à elle seule : il faut que le responsable du site tranche la suite (une commune de rechange par population hors Nord, ou la fermeture de la règle 41 sur les régions déjà sondées). Cette passe ne le décide pas.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 9 novembre 2026 (quatre-cent-deuxième, Haute-Garonne (31) visée, Castelginest sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (59, Hauts-de-France) : cette région est exclue. L'Occitanie n'est pas exclue, la passe précédente n'ayant pas visé la Haute-Garonne. Le premier département éligible est donc la Haute-Garonne (31, déficit 5,0 au calcul sur population métropolitaine), devant le Rhône (69, 4,7) et l'Isère (38, 4,6). Les départements d'outre-mer restent hors calcul (règles 93 et 177).
+
+**Commune, règle 41.d.** Dans la Haute-Garonne, les communes déjà pourvues d'une fiche sont écartées (Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Pibrac, Labège et les autres). Sondées sans succès aux passes précédentes : Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes. Cette passe sonde Castelginest (11 271 habitants), commune suivante par population, comme l'indiquait le point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, lu en entier, 2 845 opérateurs (pages de cent) : une seule entrée déclarée à Castelginest, sans vente au public. Aucun producteur ni point de vente en circuit court identifié dans la commune.
+- Recherche web sur Castelginest : un annuaire daté de 2015 mentionne un marché de producteurs le samedi matin ; le site Jours de Marché indique un jour de marché sans horaire vérifiable ; aucune source officielle de la Ville ni de 2026 n'en confirme l'existence. Les autres résultats sont des événements ponctuels (marché de Noël associatif, vide-greniers, brocante) : hors périmètre.
+
+**Pistes non publiées (anonymes).**
+- Castelginest, marché de producteurs signalé par un annuaire de 2015 et un agenda sans horaire : aucune source officielle ni datée. **Déblocage** : page officielle de la Ville ou de l'agenda municipal datée de 2026.
+- Castelginest, entrée du registre Agence Bio sans vente au public : hors périmètre.
+
+**Pourquoi rien n'est publié.** Castelginest ne rend aucun commerce vérifiable à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52 et 248). Une fiche isolée ne forme pas une zone : aucune fiche n'est publiée à moitié.
+
+**Point d'arrêt.** La passe suivante ne vise pas la Haute-Garonne si la présente la visait, ce qui est le cas : elle prend le département suivant du classement hors Occitanie, soit le Rhône (69) ou l'Isère (38). La descente de la Haute-Garonne reprendra à Saint-Gaudens au prochain passage sur ce département, uniquement si la règle 41.c le permet.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
