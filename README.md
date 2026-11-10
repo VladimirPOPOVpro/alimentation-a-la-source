@@ -51058,7 +51058,7 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 - Marché : une page de la Ville (témoignages « Paroles d'acteurs », datée de mars 2021) donne un marché le samedi de 9 h 30 à 12 h 30 ; une fiche d'équipement de la Ville, non datée, donne un marché place du 8 Mai le jeudi et le dimanche matin. Contradiction entre sources, consignée (règle 5) : rien n'est publié sur le marché tant qu'une page datée de la Ville ne tranche pas.
 - Rouen Bio, 79 boulevard du 11-Novembre : magasin bio certifié (Ecocert, détaillant), enseigne citée par la Ville ; l'entité active au registre à cette adresse porte le nom de société « L'Art de la Simplicité », en activité (NAF 47.11B). Horaires du mardi au samedi de 9 h 30 à 19 h, lundi de 14 h à 19 h, donnés par une page de la Ville d'août 2021 et non reconfirmés depuis la reprise de 2022. Une source de plus à obtenir pour atteindre le seuil de la règle 52.
 - Foire à tout du 10 octobre 2026 à l'Astrolabe : événement ponctuel, écarté.
-- Annuaire des fermes en circuit court (office régional) : aucune ferme du commune ; les points cités sont à 9 km et plus, hors commune.
+- Annuaire des fermes en circuit court (office régional) : aucune ferme de la commune ; les points cités sont à 9 km et plus, hors commune.
 
 **Pourquoi rien n'est publié.** Le Petit-Quevilly rend un point solide (le magasin bio, deux sources et une activité au registre) et un marché contradictoire. Le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint, et une fiche isolée ne forme pas le groupe (règle 248). Rien n'est complété à la main.
 
