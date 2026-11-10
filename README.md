@@ -50901,3 +50901,29 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-douzième, Rhône (69) visé, Villefranche-sur-Saône relue : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne : nom commercial reprenant un prénom, contact nominatif) ; rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 93), 1 304 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône : il reste éligible, et la descente y continue. Département retenu : **Rhône (69)**.
+
+**Commune, règle 41.d.** Villefranche-sur-Saône reprise, comme prévu au point d'arrêt de la passe précédente (marché, puis deux magasins).
+
+**Ce qui a été relu cette passe (sources tierces, pas de source propre lue).**
+- Marché couvert, boulevard Jean-Jaurès : existence confirmée par l'office de tourisme Auvergne-Rhône-Alpes, horaires lundi, vendredi, samedi et dimanche de 7 h à 13 h, **sans année datée**. La contradiction de la passe précédente (guide : 8 h à 12 h, cinq jours) reste ouverte. Aucune liste de producteurs ni téléphone du marché trouvés. Un annuaire mentionne un « marché bio du samedi, semaines impaires », non détaillé.
+- Magasin rue François-Giraud : une entité bio, au registre pour l'adresse, sans horaires trouvés dans les annuaires consultés. Pas de site propre lu.
+- Magasin avenue Édouard-Herriot (réseau La Vie Claire) : horaires du lundi au samedi, 9 h à 19 h, **sur un annuaire tiers seulement** ; le numéro de l'annuaire est le numéro public du magasin. Un second annuaire signale que les horaires varient selon le point de vente. Pas de confirmation sur le site officiel.
+- Biocoop de La Sauvagère : toujours sans entité active retrouvée. Non retenu (règle 6).
+
+**Pourquoi rien n'est publié.** Trois points au plus, dont aucun n'a des horaires datés par le commerce ou l'enseigne ; le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint. Le marché et le magasin de La Vie Claire restent au-dessus de la barre de sécurité sur les horaires, pas sur l'existence.
+
+**Point d'arrêt.** Passe suivante dans le Rhône : Villefranche n'est pas close, mais la descente passe à la commune suivante sans fiche par population si une seule lecture supplémentaire ne débloque rien. La piste « marché bio du samedi » mérite une lecture du site de la Ville avant tout autre geste.
+
+**Pistes non publiées (anonymes).** Villefranche-sur-Saône, marché couvert : **déblocage** = horaires datés par la Ville ou un marché de 2026 ; téléphone et producteurs. Villefranche-sur-Saône, magasin rue François-Giraud : **déblocage** = horaires et site propre. Villefranche-sur-Saône, magasin avenue Édouard-Herriot : **déblocage** = horaires datés par le magasin ou l'enseigne.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradiction (règle 5).** Horaires du marché couvert, déjà consignés à la passe précédente, toujours non tranchés : office de tourisme (7 h à 13 h) contre guide (8 h à 12 h).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
