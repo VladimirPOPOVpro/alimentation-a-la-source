@@ -50853,3 +50853,21 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Pistes non publiées (anonymes).** Muret, importateur au registre daté de 2019, motif : pas de vente aux particuliers actuelle. Plaisance-du-Touch, producteur au registre, motif : pas de point de vente déclaré. Balma, opérateur de vente, motif : pas de fiche confirmée par une source du commerce. Muret et Plaisance-du-Touch, opérateurs au nom de personnes physiques, motif : doute sur une personne, écartés.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-dixième, Oise (60) visée, Senlis sondée : rien publié)
+
+- Formule de la règle 41 : calculée sur la métropole seulement (971 à 988 exclus, règle 93), dénominateur national, 1 304 fiches. La passe précédente visait la Haute-Garonne (Occitanie) : seule cette région est fermée (règle 41.c). Le Nord (59, déficit 4,5) reste en tête mais sa descente est épuisée (plus de douze communes éprouvées, règle 247) : la passe change de département. Retenu : Oise (60, déficit 3,7), premier département éligible hors Nord.
+- Commune la plus peuplée sans fiche en 60 : Senlis (15 157 habitants), après Nogent-sur-Oise, sondée sans succès à une passe précédente. Registre Agence Bio relu sur la première page (100 opérateurs) : les établissements de Senlis sont des grossistes, des grandes surfaces, une coopérative et une brasserie de négoce, sans vente directe aux particuliers ; hors sujet.
+- Seule piste : un point de retrait d'un réseau de vente directe, signalé dans un annuaire du Parc de 2021. Adresse et activité non confirmées en 2026 : pas de fiche.
+- Descente par population : Senlis seule éprouvée. Un commerce ou une piste ne forment pas une zone de cinq.
+- Doute sur une personne : aucun cette passe.
+- Demandes : aucune au statut « nouvelle ». La demande #13 (commerce en 83) reste en cours, sans décision nouvelle.
+- Contradiction (règle 5) : aucune cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de l'Oise éprouvée à ce stade ne rend cinq commerces vérifiés à une adresse publique, datée et confirmée par une source indépendante.
+
+**Point d'arrêt.** Passe suivante : Oise reste éligible (la région Hauts-de-France n'a été visée qu'avant la passe 408, donc la règle 41.c ne la ferme plus). Reprendre la descente à la commune suivante sans fiche par population (Pont-Sainte-Maxence, puis Méru ou Noyon) ; si la descente dépasse douze communes, passer au département suivant du classement, en vérifiant d'abord la règle 41.c.
+
+**Pistes non publiées (anonymes).** Senlis, point de retrait d'un réseau de vente directe, motif : source de 2021, adresse et activité non confirmées. Senlis, opérateurs du registre (grossistes, grandes surfaces, coopérative, négoce), motif : pas de vente directe, hors sujet.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
