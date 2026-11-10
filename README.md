@@ -50748,3 +50748,31 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Contradictions (règle 5)** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-cinquième, Haute-Garonne (31) reprise à Saint-Gaudens : zone non formée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, dénominateur national ; les départements d'outre-mer sont écartés (règle 93). La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue, donc l'Oise aussi. Le premier département éligible est la Haute-Garonne (31, déficit 3,8), devant la Loire (42, 3,6) et l'Isère (38, 3,6). La Haute-Garonne a son point d'arrêt à Saint-Gaudens (règle 247) : la descente y reprend d'abord par les deux fiches entières désignées, dont le déblocage est « deux points entiers dans Cœur et Coteaux du Comminges à moins de 15 km ».
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, lu en entier (2 845 opérateurs, pages de cent), puis filtré sur le secteur de Saint-Gaudens, Huos, Montmaurin, Valentine, Martres-Tolosane et Sauveterre-de-Comminges. Plusieurs dizaines d'entrées sont au nom de personnes physiques : écartées, doute sur une personne.
+- Registre des entreprises, pour trois pistes d'entreprise : l'association qui exploite Les Jardins du Comminges est active (siège à Saint-Gaudens) ; aucune entité active n'apparaît sous « Les Jardins de Samadet » ; la ferme de Coumodous est active sous deux noms d'exploitants.
+- Recherche web : Les Jardins du Comminges (Huos) : vente sur place et marché du mardi à 16 h à Huos, selon les fiches de Pyrénées31 et de Tourisme Occitanie ; horaires 2026 non publiés, site et téléphone non recoupés. Les Jardins de Samadet (Montmaurin) : vente à la ferme sur rendez-vous et marché de Saint-Gaudens le jeudi matin, selon une fiche touristique ; source commerciale non ouverte. Terra Alter Native (Valcabrère) : produits propres et produits achetés à une SCIC, horaires publiés pour 2025 seulement.
+
+**Pistes non publiées (anonymes).**
+- Saint-Gaudens : les deux fiches entières (marchés du centre-ville et halle gourmande) restent seules, sans déblocage nouveau.
+- Huos, Les Jardins du Comminges, association d'insertion : active au registre, vente sur place et marché du mardi. **Déblocage** : horaires 2026 et site ou téléphone publiés par le producteur ou par Pyrénées31 à jour ; adresse à trancher entre Huos (ferme) et Saint-Gaudens (siège), règle 5.
+- Montmaurin, Les Jardins de Samadet : vente à la ferme et marché de Saint-Gaudens. **Déblocage** : entité active au registre sous la raison sociale du GAEC, et une source commerciale ouverte.
+- Valcabrère, Terra Alter Native : négoce partiel, horaires 2025. Non instruite plus avant cette passe.
+- Montmaurin, Ferme de Coumodous : deux entités actives sous des noms d'exploitants. Seule la dénomination de la ferme pourrait être publiée, après une source commerciale qui la confirme.
+
+**Pourquoi rien n'est publié.** Même avec les deux fiches de Saint-Gaudens, la zone ne rend au plus qu'une poignée de points entiers, et pas cinq, sans déblocage vérifié (règles 52 et 248). Une fiche isolée n'est pas une zone : rien n'est publié à moitié.
+
+**Point d'arrêt.** La prochaine passe dans le 31 prend d'abord les fiches désignées de Saint-Gaudens, puis vérifie les pistes ci-dessus (horaires 2026 et entité active) avant de décider si la zone atteint cinq points.
+
+**Contradictions (règle 5).** Les Jardins du Comminges : siège à Saint-Gaudens, production à Huos. Les deux adresses sont plausibles et consignées ici ; la fiche, si elle part, portera celle de la vente.
+
+**Fiches écartées pour doute sur une personne** : plusieurs dizaines d'entrées du registre dans le secteur, toutes au nom de personnes physiques, aucune nommée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
