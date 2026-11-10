@@ -50804,3 +50804,19 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Contradictions (règle 5).** Jours et noms des marchés de Wattrelos : consignés ci-dessus, aucune version retenue.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-septième, Haute-Garonne (31) visée à Castanet-Tolosan : zone non formée, rien publié)
+
+- Formule de la règle 41 : calculée sur la métropole seulement (les départements 971 à 988 sont exclus, car `lib/validateMerchants.ts` n'admet que la France métropolitaine ; leur inclusion gonflait le classement sans pouvoir être publiée). Déficit le plus fort : Nord (59), écarté car visé à la passe précédente (règle 41, deux passes de suite interdites). Retenu : Haute-Garonne (31), déficit 5,0.
+- Commune la plus peuplée sans fiche en 31 : Castanet-Tolosan (15 317 habitants). Une seule piste solide dans le registre Agence Bio (magasin spécialisé bio, réseau national, adresse concordante, registre des entreprises actif). Un commerce seul ne forme pas une zone : cinq fiches exigées, donc descente par population.
+- Doute sur une personne : un commerce bio de Saint-Orens-de-Gameville dont le nom commercial porte un prénom, écarté (une piste, aucune fiche).
+- Demande #13 (commerce en 83, déjà en cours) : aucune décision nouvelle cette passe ; ses coordonnées de contact restent privées et ne sont pas publiées.
+- Contradiction (règle 5) : aucune cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de Haute-Garonne ne rend cinq commerces vérifiés à une adresse publique, datée et confirmée par une source indépendante. Une piste isolée n'est pas publiée.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir au Nord ; en 31, la prochaine commune non sondée par population est à reprendre avec l'Agence Bio page par page (500 opérateurs lus sur 1 304 fiches au total ; les pages au-delà ne sont pas lues).
+
+**Pistes non publiées (anonymes).** Castanet-Tolosan, magasin bio, motif : une seule piste, zone non formée. Saint-Orens-de-Gameville, boucherie bio, motif : doute sur une personne, écartée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
