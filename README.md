@@ -50776,3 +50776,31 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne** : plusieurs dizaines d'entrées du registre dans le secteur, toutes au nom de personnes physiques, aucune nommée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-sixième, Nord (59) reprise à Wattrelos : zone non formée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste en cours, doute sur une personne : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, dénominateur national ; les départements d'outre-mer sont écartés. La passe précédente visait la Haute-Garonne (Occitanie, région 76) : le Nord (Hauts-de-France, région 32) est donc de nouveau éligible. Il est en tête, déficit ≈ 6,6, devant la Haute-Garonne (5,0) et le Rhône (4,7).
+
+**Commune, règle 41.d.** La commune la plus peuplée du Nord sans aucune fiche est Wattrelos (40 847 habitants). Elle a été sondée à plusieurs passes précédentes (notamment les 5, 8, 16 octobre et 8 novembre) sans rendre cinq fiches.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Nord : onze pages de cent (1 100 opérateurs lus, la suite non lue). Quatre opérateurs référencés à Wattrelos ; deux grandes surfaces écartées, un établissement médico-social écarté, un vendeur au nom d'une personne physique écarté (doute sur une personne).
+- Recherche web, marchés : les sources se contredisent sur les jours et les noms des marchés (un annuaire de marchés donne un marché le dimanche, le vendredi et le jeudi ; un agenda événementiel en ajoute un le mercredi à Beaulieu et renomme les trois autres). Aucune confirmation sur le site officiel de la Ville : la rubrique « marchés » ne répond pas. Règle 5 : la contradiction est consignée, rien n'est publié sur ces horaires.
+- Recherche web, magasins bio : les enseignes bio de Wattrelos apparaissent dans des annuaires, mais aucune fiche de magasin de la commune ne donne d'adresse ni d'horaires recoupés par une source indépendante.
+- Recherche web, producteurs : les exploitations listées par un annuaire de vente directe proche sont hors commune (Toufflers, Wambrechies, Lille, Comines, Wavrin) ou sans adresse ni horaires. Elles ne forment pas un groupe de cinq à Wattrelos.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucun commerce vérifié à une adresse publique, datée et confirmée par une source indépendante (règles 5, 6 et 52). Une fiche isolée ne forme pas une zone : aucune fiche n'est publiée à moitié.
+
+**Constat à consigner.** Pour la neuvième passe d'affilée, la règle 41.d renvoie vers Wattrelos ou une commune déjà sondée. Le Nord est épuisé au sens de la règle 41.d, et la formule ne tranche pas. Cette passe ne le tranche pas non plus, elle le consigne.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Wattrelos sans source nouvelle. Si la formule désigne encore le Nord, descendre la liste par population (Marcq-en-Barœul, Cambrai, Lambersart, etc.) en gardant la règle 41.c.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe, hors l'opérateur écarté ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : un opérateur de Wattrelos au registre, au nom d'une personne physique.
+
+**Contradictions (règle 5).** Jours et noms des marchés de Wattrelos : consignés ci-dessus, aucune version retenue.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
