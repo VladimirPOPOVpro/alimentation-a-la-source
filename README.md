@@ -51071,3 +51071,25 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : marché du samedi contre marché du jeudi et du dimanche, consigné ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (quatre-cent-dix-neuvième, Nord (59) revisé : Wattrelos sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée (voir les passes précédentes).
+
+**Classement, règle 41.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Seine-Maritime (Normandie) : cette région est exclue par la règle 41.c. Premier département ouvert hors Normandie : **Nord (59)**, déficit ≈ 4,47, 45 fiches. Les départements épuisés (Haute-Garonne, Oise, Loire, Isère, Hérault, Rhône, etc.) restent écartés. Les entrées 987 et 988 (hors métropole) sont exclues par la règle 41.
+
+**Commune, règle 41.d.** Wattrelos (45 000 habitants environ), commune la plus peuplée du Nord encore sans fiche, toujours celle de la passe quatre-cent-quinzième.
+
+**Sources.** Le site « wattrelos.fr » est un annuaire commercial privé, pas celui de la Ville, comme la passe précédente l'avait noté ; il ne sert pas de source officielle. Aucun marché, aucun commerce de Wattrelos n'a été retenu : aucune source de la commune n'a été trouvée pour dater un marché, et aucune enseigne n'a été recoupée par une seconde source.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucun point vérifiable sur une source officielle indépendante. Le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint, et une fiche isolée ne forme pas le groupe (règle 248). Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reste ouvert si le déficit le garde en tête, sinon le classement se relit. Wattrelos : chercher une page de la Ville (rubrique marchés, commerces) qui ne soit pas un annuaire. Si la commune ne rend toujours rien, descendre à la commune suivante du Nord sans fiche par population (règle 41.d).
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
