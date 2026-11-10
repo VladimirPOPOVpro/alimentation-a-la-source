@@ -51187,3 +51187,23 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : horaires du marché du mercredi (15 h contre 16 h), consignés ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (Finistère (29) ouvert, Quimper sondée : rien publié)
+
+**Demandes.** Aucune demande « nouvelle ». Une demande en cours (#13, ajout) reste `en_cours` : elle n'a pas de source indépendante vérifiée à ce stade.
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Le Nord et la Savoie (dernière passe, Auvergne-Rhône-Alpes) sont exclus, de même que les départements déjà écartés ou clos. Finistère en tête, déficit ≈ 3,40.
+
+**Commune, règle 41.d.** Quimper (64 385 habitants), la plus peuplée du 29 sans fiche.
+
+**Ce qui a été lu.** Registre Agence Bio, Finistère, première page (100 opérateurs) : plusieurs points de vente identifiés par des patronymes (écartés pour doute sur une personne, non nommés) et des négoces. Recherche web sur les marchés et les magasins de producteurs de Quimper : une seule piste de marché couvert sans horaire confirmé, un marché de quartier daté par une délibération de 2016 (horaires à revérifier), un magasin de producteurs et un magasin bio qui ne donnent ni horaires ni source officielle à jour sur la même page, et aucune AMAP identifiée.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Quimper n'atteint les deux sources indépendantes exigées, dont une officielle, avec horaires vérifiés. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point d'arrêt.** Passe suivante : Quimper reste ouverte. Relire le site de la Ville et l'office de tourisme pour dater le marché couvert et le marché de quartier ; vérifier au registre les magasins de producteurs cités. Si la commune ne rend rien de vérifiable, descendre à Concarneau (20 845 habitants).
+
+**Pistes non publiées (anonymes).** Quimper, magasin de producteurs : **déblocage** = horaires publiés par le point de vente lui-même et entité active au registre. Quimper, magasin bio sous enseigne : **déblocage** = horaires et produits vérifiés sur le site de l'enseigne. Quimper, marché couvert : **déblocage** = jours et horaires datés par la Ville ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Quimper, par leur patronyme d'entreprise individuelle.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
