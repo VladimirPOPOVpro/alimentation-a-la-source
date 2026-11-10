@@ -50974,3 +50974,19 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne.** Cinq, à Pamiers (vente directe ou production au nom d'une personne physique). Noms non repris.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-quinzième, Nord (59) revisé : Wattrelos relue, site « wattrelos.fr » écarté : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var) reste « en_cours » : doute sur une personne, rien n'est publié (voir les pistes précédentes).
+
+**Classement, règle 41.** Métropole seule. La passe précédente visait l'Ariège (09), donc l'Occitanie est exclue (règle 41.c). Le Nord (59) reste en tête du calcul en métropole ; il appartient à une autre région que l'Ariège, il est retenu.
+
+**Commune, règle 41.d.** Wattrelos reste la plus peuplée sans fiche. Le nom de domaine « wattrelos.fr » est un annuaire commercial privé (plateforme d'annuaire, éditeur non officiel), pas le site de la Ville : il ne sert pas de source officielle. Une recherche web ne donne que des annuaires participatifs (jours de marché, France-Voyage) avec des jours et horaires non recoupés par une source officielle. Aucune fiche de marché n'est publiable sur cette base.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord éligible ne rend cinq fiches vérifiables sur une source officielle indépendante et une activité confirmée. Le même constat vaut depuis les passes précédentes sur le Nord.
+
+**Pistes non publiées** : aucune nouvelle.
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
