@@ -51093,3 +51093,27 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-vingtième, Seine-Maritime (76) reprise, Le Petit-Quevilly resondé et Grand-Quevilly sondé : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée (voir les passes précédentes).
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Les départements clos ou épuisés restent écartés. La descente de la Seine-Maritime est ouverte (six communes éprouvées à la passe quatre-cent-seizième, sous la borne de douze de la règle 247) et son point d'arrêt désignait Le Petit-Quevilly puis le Grand-Quevilly : la passe reprend donc ce département.
+
+**Le Petit-Quevilly, règle 41.d.** Sondage des sources publiques. Aucune page officielle de la Ville ne donne jour ni horaires du marché : les résultats de recherche ne rendent que des annuaires participatifs et l'annuaire des horaires de la mairie, qui ne parle pas du marché. Le marché du samedi reste donc non daté par une source de la Ville. Rien n'est publié sur ce marché.
+
+**Grand-Quevilly, magasin bio, rue Antoine-de-Lavoisier.** Contradiction entre sources (règle 5), consignée : un annuaire mis à jour en février 2026 donne du lundi au samedi 9 h 30 à 19 h 30 et fermeture le dimanche ; un autre annuaire donne 8 h à 20 h, sans date de mise à jour ; un troisième donne une adresse voisine (rue Antoine-Laurent-de-Lavoisier) sans horaires. La page du réseau sur son site officiel, tentée à partir de l'URL du magasin, répond 404 : pas de source officielle lue. Une seule enseigne, deux sources d'annuaire contradictoires, aucune source officielle : rien n'est publié.
+
+**Rouen Bio (Le Petit-Quevilly).** Point solide inchangé (magasin bio certifié, entité active au registre, horaires de 2021 non reconfirmés) : une seule fiche isolée ne forme pas le groupe de cinq (règle 248). Rien n'est publié.
+
+**Pourquoi rien n'est publié.** Aucune commune de Seine-Maritime sondée ne rend quatre points vérifiables sur une source officielle indépendante et une activité confirmée (règle 52). Une fiche isolée ne forme pas le groupe (règle 248).
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste ouverte. Le Petit-Quevilly : une page de la Ville postérieure à 2024 pour dater le marché du samedi. Grand-Quevilly : horaires du magasin confirmés par le magasin lui-même ou par une page récente de l'enseigne. Si ni l'une ni l'autre n'aboutit, descendre à la commune suivante sans fiche de la Seine-Maritime par population (règle 41.d).
+
+**Pistes non publiées (anonymes).** Le Petit-Quevilly, marché du samedi : **déblocage** = jour et horaires datés par une page de la Ville. Grand-Quevilly, magasin bio : **déblocage** = horaires confirmés par une source officielle ou par le magasin.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : horaires du magasin bio du Grand-Quevilly, consignés ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
