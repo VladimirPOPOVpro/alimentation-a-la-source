@@ -50820,3 +50820,19 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Pistes non publiées (anonymes).** Castanet-Tolosan, magasin bio, motif : une seule piste, zone non formée. Saint-Orens-de-Gameville, boucherie bio, motif : doute sur une personne, écartée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-huitième, Nord (59) visé, Wattrelos sondée à nouveau, Cambrai sondée : rien publié)
+
+- Formule de la règle 41 : calculée sur la métropole seulement (les départements 971 à 988 restent exclus). Déficit le plus fort : Nord (59), déficit 4,5. Le Nord n'a pas été visé à la passe précédente (Haute-Garonne), la règle des deux passes de suite est donc respectée.
+- Commune la plus peuplée sans fiche dans le Nord : Wattrelos (40 847 habitants), reprise. Registre Agence Bio relu : pas de point de vente en circuit court identifié. Ses marchés n'ont pas d'horaires vérifiables sur une source officielle.
+- Descente par population : Cambrai (31 134 habitants). Le registre bio y donne des points de vente sous enseigne et quelques établissements de préparation ou de négoce. Un magasin bio sous enseigne (Biocoop, rue Gauthier) a des horaires partiels dans l'annuaire consulté ; un autre (Bio C'Bon, place Aristide-Briand) a des horaires tirés d'un annuaire tiers. Le marché de Cambrai n'a ni jours ni horaires confirmés par la Ville dans les résultats de recherche.
+- Demande #13 (commerce en 83, en cours) : doute sur une personne (le nom commercial reprend un prénom, et le contact est nominatif). Rien n'est publié, la demande reste en cours, aucun message n'est envoyé.
+- Contradiction (règle 5) : aucune version retenue pour les horaires de Cambrai ; consignée ici.
+
+**Pourquoi rien n'est publié.** Ni Wattrelos ni Cambrai ne rendent cinq commerces vérifiés à une adresse publique, datée et confirmée par une source indépendante. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point d'arrêt.** Passe suivante : Marcq-en-Barœul (site de la Ville injoignable) reste à reprendre avec une source officielle différente ; si la formule désigne encore le Nord, Cambrai reste à reprendre seulement si la Ville ou l'office confirme le marché.
+
+**Pistes non publiées (anonymes).** Cambrai, magasins bio sous enseigne, motif : horaires partiels, un seul point confirmé par le site de l'enseigne. Cambrai, boutique indépendante, motif : nature à confirmer. Wattrelos, opérateur au registre au nom d'une personne physique, motif : doute sur une personne, écarté.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
