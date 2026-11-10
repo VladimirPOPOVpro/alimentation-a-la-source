@@ -51014,3 +51014,33 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (quatre-cent-dix-septième, Ariège (09) reprise, Pamiers resondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée (voir les passes précédentes).
+
+**Classement, règle 41.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait la Seine-Maritime (Normandie) : cette région est exclue par la règle 41.c. Les départements déjà clos ou épuisés selon le README restent écartés. Le point d'arrêt de la passe quatre-cent-quatorzième désignait l'Ariège (09) comme passe suivante, et la passe intermédiaire ne l'a pas remplacée : l'Ariège (Occitanie) reste donc le département retenu.
+
+**Commune, règle 41.d.** Pamiers (16 473 habitants), commune la plus peuplée sans fiche du 09.
+
+**Registre Agence Bio, Pamiers.** Première page de cent opérateurs relue à nouveau, puis pages suivantes sur le département. Entrées au nom de personnes physiques : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Recherche web, sources publiques.**
+
+- Marché du samedi : 6 h à 13 h, place de la République, extension sur le parking des Trois Pigeons, selon la page agenda de l'office de tourisme Ariège Pyrénées (page sans date de mise à jour). Aucune page de la Ville sur le marché ni sur les étals trouvée ; l'office est la seule source. Mardi et jeudi : contradiction entre le texte et le tableau d'horaires de l'office, consignée, non retenue.
+- Le Petit Tour des Fermes, route de Toulouse : fiche Que Choisir (adresse, téléphone, horaires, produits). La page Facebook de la boutique a été lue : seul le titre est accessible, aucune information confirmée. Une source indépendante, pas deux.
+- Halles fermières, liste de producteurs de la Chambre d'agriculture : datée d'avril 2020, toujours non reprise. Aucun producteur vérifié à ce jour.
+- So Bio (avenue de la Bouriette), Biocoop (rue André-Citroën), Biomonde (rue des Carmes) : enseignes ou réseaux cités par des annuaires seulement ; non retenus, faute de source de la commune ou de l'enseigne.
+- Bio Natura : fermé selon les fiches du registre, écarté (voir passe précédente).
+
+**Pourquoi rien n'est publié.** Pamiers rend deux points à ce stade : le marché du samedi (une source, l'office de tourisme) et la boutique de la route de Toulouse (une source, Que Choisir). Le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint. Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Ariège (09) reste ouverte. Si Pamiers ne rend toujours pas quatre points vérifiables, descendre à Foix (9 934 habitants), commune suivante sans fiche (règle 41.d).
+
+**Pistes non publiées (anonymes).** Pamiers, magasin de producteurs route de Toulouse : **déblocage** = horaires confirmés par le magasin lui-même (sa page n'est pas lisible) ou une seconde source indépendante. Pamiers, marché du samedi : **déblocage** = page de la Ville donnant jours et horaires, ou second point de Pamiers pour atteindre le seuil.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, à Pamiers (vente directe ou production au nom d'une personne physique). Noms non repris.
+
+**Contradictions** (règle 5) : marché du mardi et du jeudi, décrit par l'office et absent de son tableau d'horaires : consigné ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
