@@ -50927,3 +50927,26 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Contradiction (règle 5).** Horaires du marché couvert, déjà consignés à la passe précédente, toujours non tranchés : office de tourisme (7 h à 13 h) contre guide (8 h à 12 h).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-treizième, Loiret (45) reprise, Saint-Jean-de-la-Ruelle sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne, voir les passes précédentes) ; rien n'est publié, aucun message n'est envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : cette région est exclue par la règle 41.c. Les départements déjà clos ou épuisés restent écartés. Premier département ouvert hors région exclue : **Loiret (45)**, déficit ≈ 3,6, dont la descente reprend.
+
+**Commune, règle 41.d.** Olivet est épuisée (passe précédente). Les communes plus peuplées ont déjà une fiche ou sont closes ; la commune suivante sans fiche par population est **Saint-Jean-de-la-Ruelle** (16 768 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 45 (200 opérateurs relus) : aucun opérateur dont l'adresse soit à Saint-Jean-de-la-Ruelle.
+- Recherche web : aucun magasin bio, ferme, marché de producteurs ni AMAP identifié dans la commune. Un annuaire de producteurs (code postal 45140) ne liste que des fermes situées à plus de quinze kilomètres.
+- Guide des producteurs d'Orléans Métropole : cité par la recherche (une AMAP y est mentionnée sans rattachement clair à un producteur). Le document n'a pas pu être lu dans cette passe : le téléchargement a renvoyé une page HTML, pas le PDF.
+
+**Pourquoi rien n'est publié.** Aucune source propre à la commune ne donne un commerce vérifiable ; le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint.
+
+**Point d'arrêt.** Passe suivante dans le Loiret : relire le guide d'Orléans Métropole (téléchargement à refaire, en vérifiant le type de fichier) avant de passer à la commune suivante sans fiche (Montargis, 14 825 habitants). La région 24 ne peut pas être visée à la passe suivante (règle 41.c).
+
+**Pistes non publiées (anonymes).** Saint-Jean-de-la-Ruelle, AMAP citée par le guide métropolitain : **déblocage** = rattachement à un producteur et à un point de distribution confirmés par l'AMAP ou la Métropole.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
