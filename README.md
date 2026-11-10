@@ -50950,3 +50950,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-quatorzième, Ariège (09) ouverte, Pamiers sondée : rien publié)
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, dénominateur national. La passe précédente visait le Loiret (Centre-Val de Loire) : cette région est exclue par la règle 41.c. Les départements déjà épuisés par la descente (Nord, Haute-Garonne, Oise, Loire, Isère, Hérault, Rhône, Vienne, Calvados, Savoie, Haute-Corse, Corse-du-Sud, Seine-et-Marne, Yvelines) sont écartés. Premier département non éprouvé du classement : **Ariège (09)**, sans aucune fiche publiée à ce jour, dont deux mentions seulement dans le README avant cette passe. Commune la plus peuplée sans fiche : **Pamiers (16 473 habitants)**.
+
+**Registre Agence Bio, Ariège.** Quatre cents opérateurs lus (quatre pages de cent), filtrés sur Pamiers : la plupart sont des grossistes, des exploitations sans vente au public, ou des structures hors commune. Cinq entrées au nom de personnes physiques, avec vente aux particuliers ou activité de production : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Recherche web, une passe, sources publiques.**
+
+- Pamiers, marché hebdomadaire : le samedi, place de la République (6 h à 13 h, extension sur le parking des Trois Pigeons), selon la page agenda de l'office de tourisme. Pas d'organisateur nommé ; pas de liste de producteurs vérifiée. Mardi et jeudi : marché plus petit, sans horaires précis, et le tableau d'horaires les indique fermés : contradiction consignée, seul le samedi est retenu.
+- Le Petit Tour des Fermes, route de Toulouse : magasin de producteurs, fiche Qué Choisir (téléphone 05 61 67 29 18, horaires, produits fruits, légumes, viandes, œufs et épicerie). Pas de site propre, une page Facebook seulement. Une source indépendante, pas deux : fait incertain, `a_confirmer` si publié.
+- Bio Natura, Pamiers : **fermé** selon les fiches SIRENE (établissement fermé depuis 2019 ou 2024 selon les fiches de l'adresse). Écarté.
+- Halles fermières de Pamiers, liste de producteurs de la Chambre d'agriculture : datée de 2020, non reprise, aucun producteur vérifié à ce jour.
+- So Bio (avenue de la Bouriette) et Biocoop (rue André-Citroën) : enseignes ou réseaux, citées par des annuaires seulement ; non retenues cette passe, faute de source de la commune ou de l'enseigne.
+
+**Pourquoi rien n'est publié.** Pamiers rend deux commerces ou services vérifiables à ce stade (le marché du samedi et une ferme-magasin à une seule source) ; le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint. Une fiche isolée ne forme pas le groupe. Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Ariège (09) reste ouverte. Pamiers reprise pour les producteurs de la liste Chambre d'agriculture (2020) à recouper avec une source récente de la Ville ou de l'office, et pour le magasin de la route de Toulouse à confirmer par son propre contact. Si la commune ne rend toujours pas quatre points vérifiables, descendre à Foix (9 934 habitants), commune suivante sans fiche (règle 41.d).
+
+**Pistes non publiées (anonymes).** Pamiers, magasin de producteurs route de Toulouse : **déblocage** = horaires datés par le magasin ou une seconde source indépendante. Pamiers, marché du samedi : **déblocage** = page de la Ville donnant jours, horaires et étals, et une image permise. Pamiers, halles fermières (liste 2020) : **déblocage** = producteurs confirmés par une source de 2025-2026.
+
+**Fiches écartées pour doute sur une personne.** Cinq, à Pamiers (vente directe ou production au nom d'une personne physique). Noms non repris.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
