@@ -50871,3 +50871,33 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Pistes non publiées (anonymes).** Senlis, point de retrait d'un réseau de vente directe, motif : source de 2021, adresse et activité non confirmées. Senlis, opérateurs du registre (grossistes, grandes surfaces, coopérative, négoce), motif : pas de vente directe, hors sujet.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-onzième, Rhône (69) reprise, Villefranche-sur-Saône sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne) ; rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Oise (60, Hauts-de-France) : cette région est exclue par la règle 41.c. **Rhône (69) retenu** : déficit ≈ 9,6 hors Hauts-de-France, premier département éligible du classement après le Nord.
+
+**Commune, règle 41.d.** Le Rhône compte quatre communes éprouvées (Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Meyzieu). La commune sans fiche la plus peuplée après Meyzieu (36 687 hab.) est **Villefranche-sur-Saône** (36 172 hab.).
+
+**Ce qui a été lu, Villefranche-sur-Saône.**
+- Marché couvert (boulevard Jean-Jaurès) : existence confirmée par l'office de tourisme Auvergne-Rhône-Alpes et par un guide de marchés ; une quarantaine de producteurs annoncée. **Contradiction (règle 5)** sur les jours et horaires : le guide indique lundi, mercredi, vendredi, samedi et dimanche de 8 h à 12 h ; l'office indique lundi, vendredi, samedi et dimanche de 7 h à 13 h. La page de la Ville, qui ferait référence, n'a pas répondu lors de la lecture. Téléphone et site du marché non trouvés.
+- Magasin bio de la rue François-Giraud : entité active au registre, adresse concordante. Horaires, produits et site propre non lus.
+- Magasin bio de l'avenue Édouard-Herriot (réseau La Vie Claire) : entité active au registre, à l'adresse. Horaires seulement « du lundi au samedi » sur un annuaire, sans plage horaire datée ; pas de site propre lu.
+- Biocoop « Le Monde Allant Vert » (zone commerciale de La Sauvagère) : l'article de présentation est ancien ; aucune entité active retrouvée au registre sous ce nom. Non retenu (règle 6).
+- Registre de l'Agence Bio pour le 69 : sur les entités de Villefranche, les vendeurs particuliers ne sont presque jamais déclarés ; les autres sont des grossistes, des transformateurs ou des sièges. Aucune fiche tirée de ce registre (règle 40).
+- Réseau AMAP : aucune AMAP à Villefranche trouvée ; les points de distribution repérés sont à Saint-Priest.
+
+**Pourquoi rien n'est publié.** Trois points au plus sont vérifiables à ce stade (marché, deux magasins), et aucun n'a à la fois horaires datés, téléphone et source propre. Le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint ; la complétion par une commune limitrophe de l'agglomération n'a pas été tentée, faute de temps de lecture.
+
+**Pistes non publiées à Villefranche-sur-Saône (anonymes).**
+- Marché couvert : **déblocage** = horaires confirmés par la Ville ou par un marché daté de 2026 ; téléphone ou site du marché.
+- Magasin bio, rue François-Giraud : **déblocage** = horaires et produits lus sur une source propre au magasin.
+- Magasin bio, avenue Édouard-Herriot : **déblocage** = horaires datés par le magasin ou l'enseigne.
+- Biocoop de La Sauvagère : **déblocage** = entité active retrouvée au registre et source 2025 ou 2026.
+
+**Descente.** Rhône : cinq communes éprouvées sur douze (règle 247). Passe suivante dans le Rhône : Villefranche reprise d'abord (marché, puis les deux magasins), puis la commune suivante sans fiche par population.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
