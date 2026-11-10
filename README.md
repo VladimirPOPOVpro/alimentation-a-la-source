@@ -50990,3 +50990,27 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Contradictions** (règle 5) : aucune nouvelle cette passe.
 
 Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-seizième, Seine-Maritime (76) ouverte, Le Petit-Quevilly sondé : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée (voir les pistes précédentes).
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (59, Hauts-de-France) : cette région est exclue par la règle 41.c. La Haute-Garonne, l'Oise, la Loire, l'Isère, l'Hérault, le Rhône, la Vienne, le Calvados, la Savoie, la Corse, la Seine-et-Marne et les Yvelines figurent parmi les départements déjà épuisés. Premier département non épuisé et hors région 32 : **Seine-Maritime (76)**, en Normandie.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 76 portent déjà des fiches (Le Havre, Rouen, Saint-Étienne-du-Rouvray, Sotteville-lès-Rouen, Dieppe, Le Grand-Quevilly, Mont-Saint-Aignan, Fécamp non vérifiée). La plus peuplée sans fiche est **Le Petit-Quevilly (22 208 habitants)**.
+
+**Registre Agence Bio, Seine-Maritime.** Mille sept opérateurs lus (onze pages de cent), filtrés sur Le Petit-Quevilly et Le Grand-Quevilly. Presque tout est du négoce, de la distribution, des établissements sans vente au public, ou des enseignes de grande distribution. Quatre entrées au nom de personnes physiques (vente aux particuliers ou production) : écartées pour doute sur une personne, non nommées, ne se rouvrent pas.
+
+**Recherche web.** Une seule piste solide en commune : un maraîcher de la Ville rapporte un marché le samedi matin (témoignage publié sur le site de la mairie en mars 2021, horaires à cette date, non reconfirmés). Un magasin bio boulevard du 11-Novembre (enseigne, une seule source d'annuaire, horaires non vérifiés). Une adresse rue Jacquart signalée comme « alimentation bio / producteur » sur un annuaire, sans horaires ni site : non retenue. Le catalogue Que Choisir ne référence aucun point de vente de producteurs au Petit-Quevilly.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne repose sur deux sources indépendantes et une activité confirmée au registre. Le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint. Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste ouverte. Le Petit-Quevilly : lire la rubrique « Marchés » et les publications municipales récentes (magazine 2025) pour dater le marché du samedi ; vérifier l'enseigne du boulevard du 11-Novembre au registre. Si la commune ne rend toujours pas quatre points vérifiables, descendre au Grand-Quevilly (25 789 habitants), commune suivante sans fiche de marché (règle 41.d).
+
+**Pistes non publiées (anonymes).** Le Petit-Quevilly, marché du samedi : **déblocage** = jours et horaires datés par la Ville. Le Petit-Quevilly, magasin bio boulevard du 11-Novembre : **déblocage** = horaires et enseigne confirmés au registre et par une seconde source. Le Petit-Quevilly, adresse rue Jacquart : **déblocage** = identité de l'activité confirmée par une source qui ne soit pas l'annuaire.
+
+**Fiches écartées pour doute sur une personne.** Quatre, au Petit-Quevilly (vente directe ou production au nom d'une personne physique). Noms non repris.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
