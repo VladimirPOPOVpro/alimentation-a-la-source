@@ -51142,3 +51142,23 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : horaires et numéro de voie du magasin bio du Grand-Quevilly, consignés ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (Seine-Maritime (76) close, formule relue : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée. Son contact privé n'est repris nulle part.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (Normandie) : cette région est exclue par la règle 41.c. Les deux premiers du classement brut (987 et 988) sont hors métropole et écartés. Le Nord (59) et les départements déjà épuisés ou clos restent écartés.
+
+**Seine-Maritime.** Descente close à douze communes (règle 247). Les communes plus peuplées sans fiche ont été sondées (Petit-Quevilly, Grand-Quevilly, Fécamp, Montivilliers, Elbeuf, Canteleu, Oissel, Barentin, Bolbec, Yvetot). Rien n'est repris cette passe.
+
+**Pourquoi rien n'est publié.** Le département suivant de la formule, la Savoie (73, déficit ≈ 3,48), a été descendu jusqu'à cinq communes sans commerce vérifié en attente de publication (passe précédente). Je n'ai pas pu rouvrir la descente et vérifier cinq fiches solides dans le temps de cette passe. Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Savoie (73) à reprendre par la règle 41.d, commune la plus peuplée sans fiche, en vérifiant d'abord qu'elle n'a pas déjà été sondée. Si la descente reste vide, descendre au département suivant du classement, hors région de la passe précédente.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
