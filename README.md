@@ -50836,3 +50836,20 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Pistes non publiées (anonymes).** Cambrai, magasins bio sous enseigne, motif : horaires partiels, un seul point confirmé par le site de l'enseigne. Cambrai, boutique indépendante, motif : nature à confirmer. Wattrelos, opérateur au registre au nom d'une personne physique, motif : doute sur une personne, écarté.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-neuvième, Haute-Garonne (31) revisitée, Muret et Plaisance-du-Touch relues : rien publié)
+
+- Formule de la règle 41 : calculée sur la métropole seulement (les départements 971 à 988 restent exclus). Déficit le plus fort : Nord (59), déficit 6,6. Le Nord ayant été visé à la passe précédente, la règle des deux passes de suite l'écarte. Retenu : Haute-Garonne (31), déficit 5,0, second du classement.
+- Commune la plus peuplée sans fiche en 31 : Muret (26 079 habitants). Registre Agence Bio relu sur la première page (100 opérateurs) : aucun point de vente en circuit court actif à Muret. Un seul enregistrement de vente aux particuliers est un importateur daté de 2019, et l'autre est une personne physique : écartés.
+- Descente par population : Plaisance-du-Touch (21 079 habitants) : une seule piste (un opérateur producteur au registre, sans vente aux particuliers déclarée). Balma (17 772) : un opérateur de vente, sans fiche de commerce confirmée. Aucune de ces pistes ne forme un groupe de cinq.
+- Doute sur une personne : deux opérateurs de la liste (noms de personnes physiques, à Muret et à Plaisance-du-Touch), écartés, non nommés.
+- Demande #13 (commerce en 83, en cours) : aucune décision nouvelle cette passe ; sa nature reste en doute (nom commercial reprenant un prénom, contact nominatif). Rien n'est publié, aucun message n'est envoyé.
+- Contradiction (règle 5) : aucune cette passe.
+
+**Pourquoi rien n'est publié.** Haute-Garonne a été sondée à plusieurs passes sans qu'aucune commune n'y rende cinq commerces vérifiés à une adresse publique, datée et confirmée par une source indépendante. La première page du registre Agence Bio ne fournit pas de nouveau point de vente. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point d'arrêt.** Passe suivante : la formule désignera probablement encore le Nord (déficit 6,6) ; il reste exclu tant qu'il a été visé à la passe précédente, et ne doit pas être revisité sans source nouvelle. En 31, il faudra lire les pages suivantes du registre Agence Bio (la page 1 est épuisée) avant de reprendre Muret ou Balma.
+
+**Pistes non publiées (anonymes).** Muret, importateur au registre daté de 2019, motif : pas de vente aux particuliers actuelle. Plaisance-du-Touch, producteur au registre, motif : pas de point de vente déclaré. Balma, opérateur de vente, motif : pas de fiche confirmée par une source du commerce. Muret et Plaisance-du-Touch, opérateurs au nom de personnes physiques, motif : doute sur une personne, écartés.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
