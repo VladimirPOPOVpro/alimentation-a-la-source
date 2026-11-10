@@ -50723,3 +50723,28 @@ Recherche complémentaire, Ramonville-Saint-Agne (31520) : une piste, une seule 
 **Constat à consigner.** Le Nord, le Rhône et Vienne sont épuisés par la descente de la règle 41.d, et la Haute-Garonne l'est presque : la formule continue de désigner des communes déjà sondées. Ce constat est le même que celui de la passe du 9 novembre (quatre-cent-et-unième) ; cette passe ne le tranche pas.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-quatrième, Nord (59) revisé : Caudry et Mouvaux sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (#13, producteur, Var) : son nom d'enseigne se lit comme un prénom et le contact transmis est une adresse personnelle, doute sur une personne, rien n'est publié ni répondu.
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches. Le Nord (59) est en tête, déficit ≈ 6,6, et n'a pas été visé à la passe du 10 novembre (Isère). Il est retenu. Le Haut-Rhin, la Haute-Garonne et l'Isère ne sont pas pris : la Haute-Garonne a été visée deux fois le 9 novembre et l'Isère la veille.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche sont Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin et Faches-Thumesnil. Elles ont toutes déjà été sondées dans les passes précédentes (Lambersart et Armentières y sont citées plus de cent fois). Restaient Caudry (13 833 habitants) et Mouvaux (13 369 habitants), peu traitées jusqu'ici.
+
+**Ce qui a été lu cette passe.**
+- Caudry : recherche web. Aucun marché de producteurs ni magasin de circuit court identifié dans la commune ; les résultats renvoient à des communes voisines (Bavay, Bailleul, La Gorgue). Aucune source de la Ville ne confirme un marché.
+- Mouvaux : recherche web. Un site de marchés mentionne un marché unique, sans jour précisé, et une ferme en vente directe dont l'implantation par rapport à la commune n'est pas confirmée. Le site de la Ville ne donne rien de vérifiable dans les résultats.
+- Registre de l'Agence Bio, Nord, première page (100 opérateurs) : aucune entrée à Caudry ni à Mouvaux.
+
+**Pourquoi rien n'est publié.** Aucune de ces deux communes ne rend cinq fiches reposant sur une source officielle et une activité confirmée (règles 2 et 6). Une piste sans source ne se publie pas.
+
+**Constat à consigner.** Le Nord reste en tête du déficit alors que presque toutes ses communes de plus de 12 000 habitants sont épuisées. La formule continue de désigner des communes déjà sondées, comme le constat du 9 novembre (quatre-cent-et-unième). Cette passe ne le tranche pas.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions (règle 5)** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
