@@ -51243,3 +51243,16 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : jour du marché (mercredi contre samedi), date d'ouverture du point collectif (2023 contre 2024), téléphone du point collectif (deux numéros), consignés ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (Haute-Garonne (31) reprise, deuxième page du registre Agence Bio lue : rien publié)
+
+- **Demandes.** Aucune demande « nouvelle ». La demande n° 13 (commerce en 83, en cours) reste `en_cours` : nature en doute, rien n'est publié, aucun message n'est envoyé.
+- **Formule de la règle 41.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Auvergne-Rhône-Alpes (Savoie) : cette région est exclue (règle 41.c). Le Nord (59, déficit 4,5) reste en tête mais sa descente est épuisée (règle 247). Retenu : Haute-Garonne (31, Occitanie, déficit 3,8), premier département éligible hors AURA et hors Nord.
+- **Commune.** Muret et Plaisance-du-Touch ont été relues dans les passes précédentes sans fiche retenue ; la descente reprend à Balma. La page 2 du registre Agence Bio (opérateurs 101 à 200) a été lue pour le département.
+- **Ce que le registre donne.** Une grande majorité d'opérateurs sont des personnes physiques (patronymes seuls) : écartés pour doute sur une personne, non nommés. Les autres sont des grossistes, des négoces ou des vendeurs sans adresse de commerce vérifiable. Deux points de vente de la liste (un à Plaisance-du-Touch, un à Toulouse) déclarent une vente aux particuliers sans horaires ni site confirmés : pistes, pas de fiche.
+- **Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiés à une adresse publique, datée et confirmée par une source indépendante. Une fiche isolée ne forme pas le groupe de cinq (règle 248).
+- **Point d'arrêt.** Passe suivante : la formule désignera à nouveau le Nord (déficit 4,5) puis la Haute-Garonne ; l'AURA est rouverte. En 31, reprendre la descente à Balma, et chercher une source officielle de la commune (site de la Ville, rubrique marchés) avant tout autre point.
+- **Pistes non publiées (anonymes).** Plaisance-du-Touch, point de vente déclaré à la vente aux particuliers, motif : ni horaires ni site confirmés. Toulouse, point de vente au registre, motif : pas de source du commerce. **Déblocage** : horaires et adresse publiés par le point de vente lui-même, plus une source indépendante. Deux à Toulouse et Plaisance-du-Touch, opérateurs au nom de personnes physiques : **écartés** pour doute sur une personne, ne se rouvrent pas.
+- **Fiches écartées pour doute sur une personne.** Plusieurs, en Haute-Garonne, par leur patronyme d'entreprise individuelle (nombre seulement, non nommées).
+- **Contradictions (règle 5).** Aucune cette passe.
+- **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
