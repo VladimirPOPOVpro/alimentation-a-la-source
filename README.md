@@ -13663,6 +13663,31 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 11 novembre 2026 (trente-huitième, Nord visé, agglomération lilloise) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règle 41.** Outre-mer écarté, y compris Polynésie et Nouvelle-Calédonie (98x). La dernière passe visait la Haute-Garonne (31), donc exclue par la règle 41.c. Le Nord (59) est en tête, déficit ≈ 6,5, et retenu.
+
+**Commune, règle 41.d, puis élargissement (règle 96).** Wattrelos reste la plus peuplée sans fiche, mais elle a été sondée à plusieurs passes sans source officielle à jour. Le Carnet des producteurs 2024 de la Métropole Européenne de Lille (source officielle, calendrier des marchés p. 48) couvre l'agglomération : la passe élargit à la MEL, groupement sur une seule agglomération.
+
+**Ce qui a été lu.**
+- Carnet des producteurs MEL 2024, pages des producteurs et des points de vente (texte extrait sur cette machine, mise en page partiellement perdue).
+- Le Petit Potager (Haubourdin) : entrée du carnet, jours de vente « mardi, mercredi, vendredi » sans horaires ; site sans horaires de vente trouvés. Piste, non publiée.
+- Les Vergers du Comté (Fromelles) : entrée du carnet, horaires en partie perdus ; site sans texte lisible à l'extraction. Piste, non publiée.
+- L'Abeille du Mont (Halluin) : site propre avec coordonnées et horaires (mercredi au vendredi 14h-18h30, samedi 10h-18h30, fermé dimanche, lundi et mardi). Adresse géocodée par la BAN (score 0,96). Mais la recherche au registre des entreprises, code postal 59250, ne rend aucun établissement de ce nom : registre non confirmé, rule 6 non franchie. Piste, non publiée.
+- La Ferme des Mottes (Marquillies) : entrée du carnet et site ; aucun horaire de vente trouvé sur le site. Piste, non publiée.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne passe la règle 6 (registre) et les horaires manquent sur les candidates. Une fiche sans horaire vérifié enverrait un visiteur devant une porte fermée.
+
+**Pistes non publiées** (anonymes) : MEL, Haubourdin, vente à la ferme, horaires à confirmer ; MEL, Fromelles, vente à la ferme, horaires à confirmer ; MEL, Halluin, magasin à la ferme, registre à confirmer ; MEL, Marquillies, ferme et brasserie, horaires à confirmer. Une enseigne « au patronyme » du carnet (Loos) est écartée d'office, sans être décrite.
+
+**Point d'arrêt.** Prochaine passe MEL : confirmer au registre L'Abeille du Mont (dénomination légale), relever les horaires des autres candidates auprès des exploitants eux-mêmes, et lire le calendrier p. 48 pour les marchés de Wattrelos et Marcq-en-Barœul.
+
+**Contradictions** (règle 5) : aucune cette passe. **Fiches écartées pour doute sur une personne** : une entrée du carnet au nom d'une personne physique, non reprise.
+
+Aucune demande de visiteur, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 9 novembre 2026 (trente-septième, Haute-Garonne visée à nouveau) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié, voir les pistes précédentes).
