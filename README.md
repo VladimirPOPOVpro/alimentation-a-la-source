@@ -51044,3 +51044,30 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : marché du mardi et du jeudi, décrit par l'office et absent de son tableau d'horaires : consigné ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (quatre-cent-dix-huitième, Seine-Maritime (76) reprise, Le Petit-Quevilly resondé : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée (voir les passes précédentes).
+
+**Classement, règle 41.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Ariège (Occitanie) : cette région est exclue par la règle 41.c. Le point d'arrêt de la passe quatre-cent-dix-septième désignait l'Ariège comme passe suivante ; cette désignation heurte la règle 41.c, qui tranche : l'Ariège attendra une passe où l'Occitanie n'est pas la région de la précédente. Départements clos ou épuisés selon le README écartés. Premier département ouvert hors Occitanie : **Seine-Maritime (76)**, déficit ≈ 3,85, 21 fiches, descente déjà entamée à la passe quatre-cent-seizième.
+
+**Commune, règle 41.d.** Le point d'arrêt de la passe quatre-cent-seizième désignait **Le Petit-Quevilly** (22 208 habitants), commune la plus peuplée du 76 sans fiche, relue pour cette passe.
+
+**Sources et recoupements.**
+
+- Marché : une page de la Ville (témoignages « Paroles d'acteurs », datée de mars 2021) donne un marché le samedi de 9 h 30 à 12 h 30 ; une fiche d'équipement de la Ville, non datée, donne un marché place du 8 Mai le jeudi et le dimanche matin. Contradiction entre sources, consignée (règle 5) : rien n'est publié sur le marché tant qu'une page datée de la Ville ne tranche pas.
+- Rouen Bio, 79 boulevard du 11-Novembre : magasin bio certifié (Ecocert, détaillant), enseigne citée par la Ville ; l'entité active au registre à cette adresse porte le nom de société « L'Art de la Simplicité », en activité (NAF 47.11B). Horaires du mardi au samedi de 9 h 30 à 19 h, lundi de 14 h à 19 h, donnés par une page de la Ville d'août 2021 et non reconfirmés depuis la reprise de 2022. Une source de plus à obtenir pour atteindre le seuil de la règle 52.
+- Foire à tout du 10 octobre 2026 à l'Astrolabe : événement ponctuel, écarté.
+- Annuaire des fermes en circuit court (office régional) : aucune ferme du commune ; les points cités sont à 9 km et plus, hors commune.
+
+**Pourquoi rien n'est publié.** Le Petit-Quevilly rend un point solide (le magasin bio, deux sources et une activité au registre) et un marché contradictoire. Le seuil de la règle 52 (quatre points vérifiables) n'est pas atteint, et une fiche isolée ne forme pas le groupe (règle 248). Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime (76) reste ouverte. Le Petit-Quevilly : dater le marché du samedi par une page de la Ville postérieure à 2024, et confirmer les horaires de Rouen Bio par une seconde source récente. Si la commune ne rend toujours pas quatre points vérifiables, descendre au Grand-Quevilly (25 789 habitants). Le Grand-Quevilly porte déjà une enseigne bio active au registre (Biocoop, 6 rue Antoine-de-Lavoisier, entité active), à vérifier sur le site du magasin avant toute inscription.
+
+**Pistes non publiées (anonymes).** Le Petit-Quevilly, magasin bio boulevard du 11-Novembre : **déblocage** = horaires datés par une source récente (page de la Ville postérieure à 2022 ou site du magasin). Le Petit-Quevilly, marché du samedi ou du jeudi : **déblocage** = page datée de la Ville donnant jour, horaires et lieu. Grand-Quevilly, magasin bio : **déblocage** = horaires vérifiés sur le site du magasin.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe. Les témoignages publiés sur le site de la Ville nomment des exploitants individuels : rien n'en est repris.
+
+**Contradictions** (règle 5) : marché du samedi contre marché du jeudi et du dimanche, consigné ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
