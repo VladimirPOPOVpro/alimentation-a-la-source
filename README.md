@@ -51162,3 +51162,28 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (Savoie (73) reprise, Bourg-Saint-Maurice sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var, producteur) reste « en_cours » : doute sur une personne, rien n'est publié, aucune réponse envoyée. Son contact privé n'est repris nulle part.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule (outre-mer écarté par la règle 93), dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime (Normandie), région exclue par la règle 41.c. Restent écartés, clos ou épuisés : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Saint-Denis, Yvelines, Val-de-Marne, Pas-de-Calais, Calvados, Vienne, Haute-Corse, Corse-du-Sud, Bas-Rhin, Ille-et-Vilaine, Haute-Marne, Seine-et-Marne, Eure-et-Loir, Alpes-de-Haute-Provence, Loiret, Seine-Maritime. Savoie (73, déficit ≈ 3,48) reprise : la descente en est à cinq communes éprouvées (règle 247).
+
+**Commune, règle 41.d.** Bourg-Saint-Maurice (7 270 habitants), commune la plus peuplée de Savoie encore sans fiche après Saint-Jean-de-Maurienne.
+
+**Ce qui a été lu.**
+- Recherche web : le marché des producteurs du mercredi (été, centre-ville) et un marché hebdomadaire du samedi sont décrits par des agrégateurs (annuaires de marchés, sites de location saisonnière, plateformes de produits locaux), avec des horaires contradictoires (15 h ou 16 h) et des pages anciennes. Aucune page officielle de la commune ou de l'office de tourisme n'a pu être lue dans cette passe.
+- Le site officiel de la commune n'est pas accessible depuis l'environnement de la passe (navigation refusée) : aucune source officielle lue.
+- Les annuaires de produits locaux (Illico mes produits locaux, Jours-de-Marché.fr, acheteralasource) listent des producteurs sans adresse ni horaires vérifiés.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Bourg-Saint-Maurice n'a deux sources indépendantes dont une officielle (MODERATION.md, point 1), et aucun marché n'a une date ni des horaires tranchés par une source de la commune (règle 5 : contradiction consignée). Une fiche isolée ne forme pas le groupe de cinq (règle 248). Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Savoie (73) reste ouverte. Bourg-Saint-Maurice : relire le site de la commune et celui de l'office de tourisme de la Haute Tarentaise pour dater le marché du mercredi ; si la commune ne rend toujours rien de vérifiable, descendre à Ugine (7 154 habitants) puis Saint-Alban-Leysse (6 734 habitants), en respectant la borne de douze communes de la règle 247.
+
+**Pistes non publiées (anonymes).** Bourg-Saint-Maurice, marché estival du mercredi : **déblocage** = jour, horaires et lieu datés par une source de la commune ou de l'office de tourisme. Bourg-Saint-Maurice, marché du samedi : **déblocage** = confirmation par une source officielle qu'il existe encore. Bourg-Saint-Maurice, boutique de produits locaux d'Arc 1800 : **déblocage** = enseigne active au registre et vente directe au public vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : horaires du marché du mercredi (15 h contre 16 h), consignés ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
