@@ -51207,3 +51207,39 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Fiches écartées pour doute sur une personne.** Deux, à Quimper, par leur patronyme d'entreprise individuelle.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 10 novembre 2026 (Savoie (73) reprise, Bourg-Saint-Maurice sondée une seconde fois : rien publié)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien n'est publié, aucune réponse envoyée.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Finistère (Bretagne) : cette région est exclue par la règle 41.c. La Savoie (73) reste ouverte depuis la passe précédente, elle n'est donc pas une « seconde passe de suite » sur la même région. Restent écartés ou clos : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Maritime, Calvados, Bas-Rhin, Ille-et-Vilaine, et les départements outre-mer (règle 93).
+
+**Commune, règle 41.d.** Bourg-Saint-Maurice, commune la plus peuplée de Savoie encore sans fiche après Saint-Jean-de-Maurienne. Ugine et Saint-Alban-Leysse sont les communes suivantes de la descente.
+
+**Ce qui a été lu.**
+- Site officiel de la commune : le nom de domaine essayé ne résout pas depuis l'environnement de la passe, et la recherche ne remonte aucune page de la mairie. Aucune source officielle de Bourg-Saint-Maurice n'a donc pu être lue.
+- Registre Agence Bio, Savoie (cinq cents opérateurs parcourus) : deux points de vente à Bourg-Saint-Maurice sont vendeurs au détail, mais leurs entrées portent un patronyme d'entreprise individuelle (écartés pour doute sur une personne, non nommés). Les autres entrées de la commune ne vendent pas au public.
+- Recherche web et pages lesarcs.com (station, non officielle) : un point de vente collectif de producteurs, avenue Maréchal Leclerc ; un marché des producteurs et artisans le mercredi de 16 h à 20 h, en été, centre-ville ; une ferme de vente directe, dont les horaires datent d'une fiche ancienne.
+- Lecture des pages d'une fiche de l'office de tourisme : la fiche donne une date d'ouverture qui diffère de celle d'une autre page (décembre 2023 contre décembre 2024) et deux numéros de téléphone différents pour le même point de vente. Les horaires ne sont donnés que de façon vague (« du mercredi au samedi »).
+- Mairie d'Ugine : une seule source tierce (annuaire) pour les horaires d'accueil ; aucun marché hebdomadaire régulier trouvé, seulement un événement ponctuel de 2025.
+
+**Pourquoi rien n'est publié.**
+- Point collectif de Bourg-Saint-Maurice : une seule source indépendante, non officielle (MODERATION.md, point 1 : il en faut une officielle). Horaires vagues, date d'ouverture et téléphone contradictoires : contradiction consignée (règle 5), rien n'est publié.
+- Marché du mercredi : saisonnier, un événement et non un commerce ; une source (une fiche de l'office de tourisme ou d'un annuaire) donne le samedi. Contradiction consignée, rien n'est publié.
+- Ugine et Saint-Alban-Leysse : aucun commerce vérifié sur deux sources, dont une officielle ; plusieurs entrées du registre portent des patronymes d'entreprises individuelles.
+- Aucune commune de la descente ne rend cinq fiches vérifiables : règle 248, le groupe de cinq n'est pas atteint.
+
+**Point d'arrêt.** Passe suivante : Savoie (73) reste ouverte. Pour Bourg-Saint-Maurice, la seule voie est une source officielle lisible (site de la commune, ou office de tourisme de la Haute Tarentaise) pour dater le marché du mercredi et confirmer le point collectif. Si la commune reste illisible, descendre à Ugine puis à Saint-Alban-Leysse, en respectant la borne de douze communes de la règle 247.
+
+**Pistes non publiées (anonymes).**
+- Bourg-Saint-Maurice, point collectif de producteurs : **déblocage** = horaires publiés par le point de vente lui-même, date d'ouverture et téléphone concordants, et une source officielle de la commune ou de l'office de tourisme.
+- Bourg-Saint-Maurice, marché des producteurs et artisans du mercredi : **déblocage** = jour et horaires confirmés par une source officielle, puisque le marché est saisonnier.
+- Bourg-Saint-Maurice, ferme de vente directe (fiche touristique ancienne) : **déblocage** = horaires de l'année en cours publiés par la ferme.
+- Bourg-Saint-Maurice, coopérative laitière près de la gare : **déblocage** = horaires actuels de la boutique (la seule source lue date de 2019).
+- Bourg-Saint-Maurice, deux entrées du registre Agence Bio vendeuses au détail, aux patronymes d'entreprises individuelles : **écartées** pour doute sur une personne, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Bourg-Saint-Maurice, par leur patronyme d'entreprise individuelle (non nommées).
+
+**Contradictions** (règle 5) : jour du marché (mercredi contre samedi), date d'ouverture du point collectif (2023 contre 2024), téléphone du point collectif (deux numéros), consignés ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
