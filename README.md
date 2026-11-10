@@ -51117,3 +51117,28 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : horaires du magasin bio du Grand-Quevilly, consignés ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Seine-Maritime (76) reprise, Le Petit-Quevilly et Grand-Quevilly resondés : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Premier département ouvert hors Hauts-de-France et non épuisé : **Seine-Maritime (76)**, descente déjà entamée (passes précédentes).
+
+**Commune, règle 41.d.** Point d'arrêt de la passe précédente : Le Petit-Quevilly, puis Grand-Quevilly.
+
+**Ce qui a été lu.**
+- Marché du Petit-Quevilly : une seule source datée (publication de mars 2021, témoignage d'un maraîcher, samedi 9 h 30 à 12 h 30) ; aucune page de la Ville postérieure à 2024 ne date le marché. Pas de liste de producteurs à jour.
+- Grand-Quevilly, magasin bio de la rue Antoine-de-Lavoisier (une enseigne, au centre commercial du Bois Cany) : annuaires participatifs contradictoires sur le numéro de voie et les horaires (08h-20h du lundi au vendredi, samedi tronqué, fermeture le dimanche), pas de page officielle lue. Une seule enseigne, aucune source de la commune.
+- Circuit court de la Métropole : la commune de Grand-Quevilly figure sur la liste des communes participantes, sans adresse de vente. Un point de vente est annoncé pour Le Petit-Quevilly, sans date.
+
+**Pourquoi rien n'est publié.** Aucune commune de Seine-Maritime sondée ne rend quatre points vérifiables sur une source officielle indépendante et une activité confirmée (règle 52). Une fiche isolée ne forme pas le groupe (règle 248).
+
+**Point d'arrêt.** Passe suivante : Seine-Maritime reste ouverte. Le Petit-Quevilly : une page de la Ville postérieure à 2024 pour dater le marché du samedi, ou l'annonce du point de vente métropolitain avec sa date. Grand-Quevilly : horaires confirmés par le magasin lui-même ou par une page récente de l'enseigne. Si ni l'une ni l'autre n'aboutit, descendre à la commune suivante sans fiche de la Seine-Maritime par population (règle 41.d).
+
+**Pistes non publiées (anonymes).** Le Petit-Quevilly, marché du samedi : **déblocage** = jour et horaires datés par une page de la Ville. Le Petit-Quevilly, point de vente de circuit court annoncé par la Métropole : **déblocage** = date d'ouverture et adresse confirmées. Grand-Quevilly, magasin bio : **déblocage** = horaires confirmés par une source officielle ou par le magasin.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : horaires et numéro de voie du magasin bio du Grand-Quevilly, consignés ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
