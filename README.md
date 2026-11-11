@@ -51573,3 +51573,31 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : adresse et horaires divergents entre sources pour le magasin de producteurs de la zone de la Ponétie ; consignées ci-dessus, non tranchées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Haute-Corse (2B) visée, Borgo et Corte sondées par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (`list` vide). La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Cantal (Auvergne-Rhône-Alpes) : la réserve de la règle 41.c écarte cette région. Restent écartés ou clos : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Maritime, Seine-Saint-Denis, Calvados, Vienne, Savoie, Pas-de-Calais, Alpes-de-Haute-Provence, Ariège, et l'outre-mer (règle 93). Retenu : Haute-Corse (2B, Corse, déficit ≈ 3,5, quatre-vingts-dix fiches du 20 dont deux à Bastia et une à Furiani).
+
+**Commune, règle 41.d.** Borgo (10 311 hab., la plus peuplée de Haute-Corse sans fiche).
+- Aucun magasin de producteurs de vente directe identifié à Borgo. La Ferme Corse est à Lucciana, hors commune.
+- Cave coopérative de la Marana (Rasignani, Borgo, producteur au sens de la règle 8) : adresse au registre SIRENE et téléphone publié par Visit Corsica ; horaires de la boutique et site officiel non trouvés. Une seule fiche possible : elle ne forme pas le groupe de cinq (règle 248).
+- Marché des producteurs de Borgo : brève de 2021, aucun jour ni horaire actuels.
+- Jours de marché : aucun calendrier municipal trouvé ; mairie non joignable par cette recherche.
+
+**Descente, règle 41.d.** Corte (7 819 hab.), commune suivante sans fiche.
+- A Robba Paisana (avenue de la République, Pont de l'Orta) : adresse confirmée par deux sources, mais aucun horaire lisible, et une fiche de l'annuaire d'avis indiquant « Fermé » au moment de la consultation : doute de fait, pas publiable en l'état.
+- Marché des producteurs itinérant (associatif, sans jour fixe) : pas de calendrier permanent.
+
+**Pourquoi rien n'est publié.** Ni Borgo ni Corte ne rendent cinq commerces vérifiés, à une adresse publique, avec une source indépendante et des horaires confirmés. Une fiche isolée ne forme pas le groupe (règle 248). Le fait « fermé » de l'annuaire d'avis contredit une source d'adresse plus récente : règle 5, consigné, non tranché.
+
+**Point d'arrêt.** Passe suivante : Haute-Corse (2B) reste ouvert. Lire le site de la Cave de la Marana (horaires de la boutique) et du magasin de Corte (statut actuel) ; à défaut, descente à Biguglia (7 642 hab.) selon la règle 41.d, puis Lucciana (6 923 hab.) si Biguglia ne rend rien.
+
+**Pistes non publiées (anonymes).** Borgo, cave coopérative : **déblocage** = horaires de la boutique publiés par la cave ou site officiel. Corte, magasin de producteurs : **déblocage** = statut actuel et horaires publiés par le magasin.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : statut « fermé » d'un magasin de Corte dans un annuaire d'avis contre une adresse publiée ailleurs ; consignée ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
