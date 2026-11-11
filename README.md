@@ -51754,3 +51754,31 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Nord (59) visé, Lambersart sondée puis Armentières : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule (règle 93 : le cadre de `lib/validateMerchants.ts` exclut l'outre-mer, donc La Réunion est sautée). La passe précédente visait la Haute-Garonne (31, Occitanie), donc la réserve de la règle 41.c écarte l'Occitanie. En tête ensuite : le Nord (59, déficit ≈ 6,5 sur la population métropolitaine).
+
+**Commune, règle 41.d.** Lille, Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Douai, Maubeuge, Loos et Hazebrouck portent déjà des fiches. Lambersart (27 090 habitants) est la plus peuplée sans fiche restante après Wattrelos, Marcq-en-Barœul et Cambrai, éprouvées aux passes précédentes.
+- Registre Agence Bio, Nord, quatre pages de cent : sept opérateurs à Lambersart, aucun producteur ni magasin de producteurs vendant aux particuliers. Les rares opérateurs qui déclarent de la vente aux particuliers sont des préparateurs sans point de vente.
+- Site de la Ville de Lambersart (joignable en redirection) : aucune page de marché lue avec jours et horaires.
+- Recherche web : un répertoire de marchés recense trois marchés à Lambersart, sans jour ni horaire ; un autre n'en donne aucun. Le Jardin de Cocagne (paniers bio, convention de 2024) ne vend pas au public. Aucun magasin de producteurs ni AMAP ouverte au public trouvé à Lambersart même.
+- Descente : Lambersart reste sous cinq fiches vérifiables, donc Armentières (26 998 habitants), suivante par population sans fiche.
+- Armentières : registre Agence Bio, aucun opérateur de vente aux particuliers à Armentières. Recherche web : deux marchés recensés sans jour ni horaire ; un magasin de producteurs situé à La Chapelle-d'Armentières (commune voisine, hors de la descente), horaires non lus.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée n'atteint cinq commerces vérifiables ; aucun horaire de marché n'est confirmé par une source officielle. Une fiche n'est pas publiée sur la foi d'un répertoire seul.
+
+**Point d'arrêt.** Passe suivante : Nord toujours ouvert (la réserve 41.c ne le bloque pas). Lire le site de la Ville d'Armentières (rubrique marchés) et la fiche du magasin de La Chapelle-d'Armentières ; sinon Mons-en-Barœul (21 105 habitants), puis Coudekerque-Branche et Denain.
+
+**Pistes non publiées (anonymes).**
+- Lambersart, marchés (trois recensés) : **déblocage** = jour et horaires publiés par la Ville ou l'organisateur.
+- Armentières, marchés (deux recensés) : **déblocage** = jour et horaires publiés par la Ville.
+- La Chapelle-d'Armentières, magasin de producteurs : **déblocage** = horaires et produits publiés par le magasin.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
