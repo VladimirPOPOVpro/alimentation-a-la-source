@@ -51548,3 +51548,28 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune nouvelle cette passe ; la contradiction sur le jour du marché de Balma, consignée à la passe précédente, reste ouverte.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Cantal (15) visé, Aurillac sondée par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : l'Occitanie est exclue par la règle 41.c. Restent écartés ou clos : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Maritime, Seine-Saint-Denis, Calvados, Vienne, Savoie, Pas-de-Calais, Alpes-de-Haute-Provence, Ariège (Occitanie, Pamiers en attente d'une passe hors Occitanie), et les départements outre-mer (règle 93). Retenu : Cantal (15, Auvergne-Rhône-Alpes, déficit ≈ 2,73, zéro fiche).
+
+**Commune, règle 41.d.** Aurillac (27 000 hab. environ, la plus peuplée du Cantal, sans fiche).
+- Registre de l'Agence Bio (`operateurs?departements=15`) : trois établissements à Aurillac sont des magasins ou un grossiste. Un magasin spécialisé bio d'une chaîne nationale (adresse avenue Georges-Pompidou) ; une grande surface (écartée, règle MODERATION) ; un grossiste en viande (écarté, pas un commerce de détail). Les autres entrées du registre à Aurillac sont des personnes physiques : écartées pour doute sur une personne, notées ici sans nom.
+- Que Choisir (carte circuit court) recense deux magasins de producteurs et un magasin de produits locaux à Aurillac. Source non officielle : une indication, pas une vérification.
+- Un article de presse et un site de l'enseigne décrivent une ferme-magasin ouverte à la zone commerciale de la Ponétie. L'adresse diffère selon les sources ; le site de l'enseigne n'a pas pu être lu cette passe.
+- Office de tourisme du Pays d'Aurillac : fiche d'un magasin de producteurs lue (site en ligne), sans horaires lisibles dans l'extrait.
+- Site officiel de la Ville : page des marchés non trouvée. Jour et horaires du marché traditionnel introuvables dans les sources lues ; une seule source indique plus de quatre-vingts producteurs, sans date.
+
+**Pourquoi rien n'est publié.** Trois magasins de producteurs plausibles, mais aucun n'a deux sources indépendantes qui s'accordent sur l'adresse et les horaires, et le site de l'enseigne et le site du magasin n'ont pas été lus. Le marché n'a pas de jour confirmé par la Ville. Le seuil de quatre points vérifiables (règle 52) n'est pas atteint. Rien n'est complété à la main.
+
+**Point d'arrêt.** Passe suivante : Cantal (15) reste ouvert, et la commune reste Aurillac tant que quatre points ne sont pas vérifiés. Les trois magasins de producteurs sont à reprendre avec le site officiel de la Ville et la fiche de l'office de tourisme ; sinon, descente à la commune suivante du Cantal sans fiche par population (Saint-Flour ou Murat, selon la règle 41.d et la règle 247).
+
+**Pistes non publiées (anonymes).** Aurillac, magasin de producteurs (trois sources, adresse divergente) : **déblocage** = adresse et horaires publiés par le magasin lui-même ou par l'office de tourisme. Aurillac, magasin spécialisé bio de chaîne : **déblocage** = fiche propre au magasin (horaires) et source indépendante de l'entité active. Aurillac, marché traditionnel : **déblocage** = jour et horaires publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre à Aurillac sont des personnes physiques (exploitations en nom propre) : écartées, noms non repris.
+
+**Contradictions** (règle 5) : adresse et horaires divergents entre sources pour le magasin de producteurs de la zone de la Ponétie ; consignées ci-dessus, non tranchées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
