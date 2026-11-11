@@ -51307,3 +51307,32 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : jours du marché de plein vent de Balma (mardi et samedi contre mercredi et samedi), consignés ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Savoie (73) reprise, Bourg-Saint-Maurice lue sur le site de la commune : rien publié)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La dernière passe visait la Haute-Garonne (Occitanie) : cette région est exclue par la règle 41.c. Le Nord reste épuisé (règle 247). Retenu : Savoie (73, AURA, déficit ≈ 3,48), première région éligible du classement, descente déjà entamée.
+
+**Commune, règle 41.d.** Bourg-Saint-Maurice reprise. Le site de la mairie est cette fois lisible (la passe du 10 novembre ne l'avait pas pu lire) : pages « Marchés » et « Commerces » de la rubrique Commerces et marchés.
+
+**Ce qui a été lu.**
+- Site officiel de la commune, page « Marchés » : un marché du samedi, de 8 h à 13 h 30, rue Desserteaux et jusqu'à la route de Haute Tarentaise, avec fruits et légumes locaux de saison et étalages divers ; un marché de producteurs locaux, rue Desserteaux, les mercredis de 15 h à 20 h de début juillet à fin août. La même page parle d'un « marché quotidien » : contradiction consignée (règle 5), le jour et les heures de la commune sont retenus.
+- Site officiel de la commune, page « Commerces » : aucune liste de commerces publiée.
+- Menu du site : deux fermes mentionnées (appel à projet agricole, Vulmix ; ferme de la Ballastière). Le registre ne situe aucune exploitation de ce nom à Bourg-Saint-Maurice : la Ballastière est enregistrée à Landry (73), Vulmix est une société à Bourg-Saint-Maurice dont le registre ne dit pas qu'elle vend au public. Pistes, pas de fiche.
+- Registre des entreprises : la rue Desserteaux est géocodée par la BAN au point `[6.769835, 45.619112]`, type « street » : la fiche de marché, si elle est retenue, prendra ce point, sans numéro.
+
+**Pourquoi rien n'est publié.** Une fiche isolée n'est pas une zone (règle 52) : le marché de Bourg-Saint-Maurice est entier mais seul, et aucune autre fiche de la commune n'atteint deux sources indépendantes dont une officielle. Règle 248 : la passe ne publie pas sa zone tant qu'elle n'en a pas cinq. Bourg-Saint-Maurice reste donc à l'état de piste complète.
+
+**Point d'arrêt.** Passe suivante : Savoie (73) reste ouverte, descente à reprendre à Bourg-Saint-Maurice (fiche de marché entière, à publier avec son groupe). Si la commune rend cinq fiches vérifiables au total, publier le groupe. Sinon, descendre à Ugine puis Saint-Alban-Leysse, dans la borne de douze communes de la règle 247. Les sites de ces deux communes ne répondent pas depuis l'environnement de la passe : à relire.
+
+**Pistes non publiées (anonymes).**
+- Bourg-Saint-Maurice, marché du samedi et marché des producteurs du mercredi (un seul marché, rue Desserteaux) : **entier**, source officielle de la commune ; **déblocage** = publication avec le groupe de cinq de la commune (règle 52).
+- Bourg-Saint-Maurice, ferme du projet agricole de Vulmix : **déblocage** = vente directe au public confirmée par la commune ou par le point lui-même, et entité active identifiée.
+- Bourg-Saint-Maurice, ferme de la Ballastière (menu du site) : **déblocage** = adresse à Bourg-Saint-Maurice, au registre sous cette enseigne, et vente directe vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : jour et horaires du marché de Bourg-Saint-Maurice (samedi et mercredi d'été contre « marché quotidien », et mercredi 16 h à 20 h d'un site tiers contre 15 h à 20 h de la commune), consignées ci-dessus ; la commune l'emporte.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
