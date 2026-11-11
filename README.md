@@ -51336,3 +51336,13 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : jour et horaires du marché de Bourg-Saint-Maurice (samedi et mercredi d'été contre « marché quotidien », et mercredi 16 h à 20 h d'un site tiers contre 15 h à 20 h de la commune), consignées ci-dessus ; la commune l'emporte.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Savoie (73) reprise, géocodage et population indisponibles : rien publié)
+
+**Backlog.** Aucune demande au statut « nouvelle ». Une demande reste en « en_cours » (#13, ajout, Var) : elle n'est pas traitée dans cette passe, son instruction est en attente d'une source vérifiable et d'une lecture de la fiche contact.
+
+**Formule de la règle 41.** Impossible à recalculer : `geo.api.gouv.fr` ne répond pas depuis l'environnement de la passe (échec de connexion au port 443). L'API Adresse, le registre des entreprises et le registre Agence Bio répondent. Le choix de la passe reprend donc le dernier département retenu, la Savoie (73), dont la descente est déjà entamée.
+
+**Pourquoi rien n'est publié.** Aucune commune de Savoie n'a pu être relue à neuf pour produire cinq fiches vérifiées. Rien n'est complété à la main ni recopié d'une passe précédente.
+
+**Point d'arrêt.** Passe suivante : relancer la formule dès que `geo.api.gouv.fr` répond. Si la Savoie reste ouverte, reprendre Bourg-Saint-Maurice par une source officielle lisible, puis Ugine et Saint-Alban-Leysse dans la borne de douze communes de la règle 247.
