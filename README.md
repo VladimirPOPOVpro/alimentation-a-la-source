@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 11 novembre 2026 (quarante-et-unième, Nord reprise, Wattrelos et Marcq-en-Barœul) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règle 41.** Outre-mer écarté (97x et 98x). Calcul refait sur la métropole : le Nord (59) reste en tête, déficit ≈ 6,1 pour 45 fiches. La passe précédente visait la Haute-Corse : la réserve « deux passes de suite » ne bloque pas le Nord.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Elle a déjà été sondée à plusieurs passes ; la passe du quarantième a relevé ses quatre marchés sans produits vérifiables. Descente à Marcq-en-Barœul (40 184 habitants), sans fiche elle non plus, comme prévu au point d'arrêt précédent.
+
+**Ce qui a été lu cette passe.** Les API publiques répondent de nouveau (recherche-entreprises, BAN). Le calcul de déficit a été refait ; les deux candidates de Marcq-en-Barœul n'ont pas été reprises au registre, faute de dénomination exacte à interroger. Aucune nouvelle source n'a été ouverte au-delà de ce qui est consigné plus haut.
+
+**Pourquoi rien n'est publié.** Ni Wattrelos ni Marcq-en-Barœul ne rendent cinq commerces vérifiables, et aucune photo honnête du lieu n'a été trouvée. Publier une fiche sans produits ni horaires relevés enverrait un visiteur devant une porte fermée.
+
+**Point d'arrêt.** Prochaine passe : vérifier au registre les deux enseignes de Marcq-en-Barœul (potager, vrac) par leur dénomination légale, relever leurs horaires auprès des exploitants eux-mêmes, et seulement alors chercher la cinquième fiche. Si Marcq-en-Barœul reste sous cinq, descendre à Cambrai (31 134 habitants) selon la règle de descente.
+
+**Contradictions** (règle 5) : aucune cette passe. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 11 novembre 2026 (quarantième, Nord reprise, Wattrelos lue sur le site officiel) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var) reste « en_cours », non reprise ici.
