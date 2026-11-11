@@ -51782,3 +51782,27 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Haute-Garonne (31) visée, Balma sondée au registre et sur le web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule. La passe précédente visait le Nord (59, Hauts-de-France) : la réserve de la règle 41.c écarte cette région. Le premier rang restant est la Haute-Garonne (31, Occitanie, déficit ≈ 5,0 sur 1 304 fiches), visée à nouveau après la passe du 11 novembre.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Saint-Jean et L'Union portent déjà des fiches. Muret et Plaisance-du-Touch ont été sondées aux passes précédentes sans cinq commerces vérifiables. Balma (17 772 habitants, aucune fiche) est donc la suivante par population.
+- Registre Agence Bio, Haute-Garonne, 2 845 opérateurs lus sur 29 pages de cent : une dizaine d'entrées à Balma, la plupart grossistes, distributeurs ou sans vente aux particuliers. Un seul opérateur déclare de la vente aux particuliers à Balma même, un négoce de vins, dont la nature de point de vente reste à établir.
+- Les pages marchés et commerces de la Ville, déjà lues lors des passes précédentes, ne donnent toujours ni jour de marché permanent confirmé, ni magasin de producteurs vérifié à une adresse publique.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Balma : pas d'adresse confirmée par une source indépendante pour un point de vente de producteur, pas de jour de marché tranché. Cinq fiches ne sont pas réunies. Une fiche n'est pas publiée sur la seule foi d'une entrée au registre.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte. Si Balma ne se confirme pas, descendre à Castanet-Tolosan (15 317 habitants) puis à Ramonville-Saint-Agne, dans la borne de la règle 247.
+
+**Pistes non publiées (anonymes).**
+- Balma, vente directe au public (un négoce de vins déclaré au registre) : **déblocage** = adresse de vente confirmée et point de vente vérifié sur un site officiel ou celui de l'entreprise.
+- Balma, marché de plein vent : **déblocage** = jour et horaires confirmés par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
