@@ -13663,6 +13663,28 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 11 novembre 2026 (quarantième, Nord reprise, Wattrelos lue sur le site officiel) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (Var) reste « en_cours », non reprise ici.
+
+**Classement, règle 41.** L'outre-mer sort (le validateur ne rend que la métropole). En métropole, le Nord (59) reste en tête à 4,5. La passe précédente visait l'Île-de-France : la réserve ne bloque pas le Nord. Commune : Wattrelos (40 847 habitants), la plus peuplée du département encore sans fiche.
+
+**Sources lues.**
+
+- Site officiel de la Ville, **ville-wattrelos.fr**, rubrique « Les marchés » : quatre marchés, Beaulieu (mercredi après-midi, esplanade du cœur de quartier), centre-ville (jeudi matin, parking face au CSE, rue Gustave-Delory), la Mousserie (vendredi matin, rue Frédéric-Chopin) et le Laboureur (dimanche matin, place de la République, rue Carnot). La page ne donne ni liste de producteurs ni produits vendus.
+- **wattrelos.fr** n'est pas le site de la Ville : c'est un annuaire commercial privé, avec un bandeau « site commercial privé ». Il n'a pas été utilisé comme source officielle. Contradiction consignée (règle 5) : les deux domaines portent le nom de la commune, un seul est celui de la Ville.
+- Registre de l'Agence Bio, Nord, parcouru en pagination complète (1 796 opérateurs). Pour Wattrelos : une entreprise individuelle d'herbes et d'infusions dont le nom au registre est celui d'une personne, une association de services, un hard-discount et une chaîne de distribution. Pour Marcq-en-Barœul : enseignes de grande distribution, grossistes et une poignée de points de vente dont les horaires et l'activité réelle ne sont pas vérifiés.
+
+**Pourquoi rien n'est publié.** Les quatre marchés sont vérifiés (existence, jours, lieux), mais une fiche de marché sans produits relevés est une fiche incomplète, et le validateur exige au moins un produit. Inventer une liste « type marché » serait un fait non vérifié. Aucune photo honnête du lieu n'a été trouvée : Unsplash et Pexels sont bloqués, et la Ville n'en publie pas sur cette page. Enfin, Wattrelos ne rend pas cinq commerces vérifiables : seuls les quatre marchés le sont, et l'entreprise d'herbes relève du doute sur une personne.
+
+**Piste écartée pour doute sur une personne** (Wattrelos, herboristerie, entreprise individuelle) : non publiée, non reprise, une ligne anonyme.
+
+**Point d'arrêt.** Prochaine passe : compléter les produits des quatre marchés de Wattrelos (sources : exposants cités par la Ville, office de tourisme, ou pages des commerçants qui les publient eux-mêmes), puis chercher une photo du lieu sur une source autorisée. Si Wattrelos reste à quatre, descendre à Marcq-en-Barœul (40 184 habitants) selon la règle de descente. Pistes à sonder dans le registre : deux enseignes de Marcq-en-Barœul (un potager et une enseigne de produits en vrac) dont le caractère de circuit court reste à établir.
+
+**Fiches écartées pour doute sur une personne** : une (Wattrelos, herboristerie), non reprise.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 11 novembre 2026 (trente-neuvième, réseau sans accès aux sources officielles) : aucune publication
 
 **Backlog.** Une demande reste « en_cours » (demande n° 13, commerce de la commune de Villecroze ; doute sur une personne, rien n'est publié). Aucune demande « nouvelle ».
