@@ -51346,3 +51346,30 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Pourquoi rien n'est publié.** Aucune commune de Savoie n'a pu être relue à neuf pour produire cinq fiches vérifiées. Rien n'est complété à la main ni recopié d'une passe précédente.
 
 **Point d'arrêt.** Passe suivante : relancer la formule dès que `geo.api.gouv.fr` répond. Si la Savoie reste ouverte, reprendre Bourg-Saint-Maurice par une source officielle lisible, puis Ugine et Saint-Alban-Leysse dans la borne de douze communes de la règle 247.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31) reprise, Balma relue par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national (population `geo.api.gouv.fr`, 68,95 millions), 1 304 fiches comptées sur le code postal. La passe précédente visait la Savoie (Auvergne-Rhône-Alpes) : cette région est exclue par la règle 41.c. Le Nord reste épuisé (règle 247). Retenu : Haute-Garonne (31, Occitanie), déficit ≈ 3,83, descente déjà entamée.
+
+**Commune, règle 41.d.** Balma reste la commune la plus peuplée de la Haute-Garonne sans fiche (17 772 habitants). Muret, Plaisance-du-Touch et Blagnac ont été sondées aux passes précédentes.
+
+**Ce qui a été lu.**
+- Guide des commerçants de la mairie de Balma (PDF de 2021) : marché de plein vent le mercredi et le samedi matin, avenue des Mimosas. Le guide ne dit pas que ce marché est bio ni quels produits il porte.
+- Recherche web : un agrégateur de marchés ne donne qu'un seul jour pour Balma. Aucune page récente du site de la commune ni de l'office de tourisme n'a pu être lue.
+- Registre des entreprises et Base Adresse Nationale : les deux API n'ont pas répondu depuis l'environnement de la passe. La règle 6 et le géocodage ne peuvent donc pas être vérifiés.
+
+**Pourquoi rien n'est publié.** Une seule source officielle, datée de 2021, qui contredit le site de la commune (mardi et samedi) : la règle 9 exige deux sources officielles. Aucun commerce de Balma n'est confirmé au registre (règle 6). Une fiche isolée ne forme pas une zone de cinq (règle 248).
+
+**Point d'arrêt.** Passe suivante : relire la rubrique Marchés du site de la mairie de Balma en direct, relancer le registre et la BAN. Si Balma ne se confirme pas, descendre à Castanet-Tolosan puis à Colomiers, dans la borne de la règle 247.
+
+**Pistes non publiées (anonymes).**
+- Balma, marché de plein vent du centre-ville : **déblocage** = jour confirmé par deux sources officielles récentes (commune et office de tourisme).
+- Balma, caviste bio de l'avenue des Mimosas (mentionné dans le guide de 2021) : **déblocage** = entité active au registre à cette adresse, et vente directe vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : jours du marché de Balma, mercredi et samedi (guide 2021) contre mardi et samedi (site de la commune). Consignées, non tranchées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
