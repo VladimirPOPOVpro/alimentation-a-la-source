@@ -51578,7 +51578,7 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 
 **Backlog.** Aucune demande « nouvelle » (`list` vide). La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
 
-**Classement, règles 41, 41.c, 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Cantal (Auvergne-Rhône-Alpes) : la réserve de la règle 41.c écarte cette région. Restent écartés ou clos : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Maritime, Seine-Saint-Denis, Calvados, Vienne, Savoie, Pas-de-Calais, Alpes-de-Haute-Provence, Ariège, et l'outre-mer (règle 93). Retenu : Haute-Corse (2B, Corse, déficit ≈ 3,5, quatre-vingts-dix fiches du 20 dont deux à Bastia et une à Furiani).
+**Classement, règles 41, 41.c, 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Cantal (Auvergne-Rhône-Alpes) : la réserve de la règle 41.c écarte cette région. Restent écartés ou clos : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Maritime, Seine-Saint-Denis, Calvados, Vienne, Savoie, Pas-de-Calais, Alpes-de-Haute-Provence, Ariège, et l'outre-mer (règle 93). Retenu : Haute-Corse (2B, Corse, déficit ≈ 3,5, trois fiches dans le code postal 20, deux à Bastia et une à Furiani).
 
 **Commune, règle 41.d.** Borgo (10 311 hab., la plus peuplée de Haute-Corse sans fiche).
 - Aucun magasin de producteurs de vente directe identifié à Borgo. La Ferme Corse est à Lucciana, hors commune.
