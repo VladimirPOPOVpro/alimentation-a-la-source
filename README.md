@@ -51523,3 +51523,28 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31) reprise, Balma sondée à nouveau par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (`list` vide). La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (joignable cette passe). La passe précédente visait le Nord (Hauts-de-France) : la réserve de la règle 41.c écarte le 59 et l'Oise. Les départements 971 à 976 et 987 à 988 sont en tête du calcul brut mais hors du cadre de `lib/validateMerchants.ts` : règle 93, sautés. Retenu : Haute-Garonne (31, Occitanie, déficit ≈ 3,8).
+
+**Commune, règle 41.d.** Balma reste la commune visée. Deux recherches web ce soir :
+- jours-de-marche.fr ne recense qu'un jour de marché, sans horaire, et signale lui-même une information possiblement périmée ;
+- le guide des commerçants de la mairie (édition 2021) mentionne un marché de plein vent sans jour ni horaire dans l'extrait lu ;
+- le bulletin municipal mentionne un marché gourmand du comité des fêtes, événement ponctuel, pas un marché régulier.
+
+Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain vers 2015 : un maraîcher bio et une AMAP de fromages) ou ne sont que des AMAP (systèmes de paniers, pas des boutiques). Les listes Que Choisir et Bienvenue à la Ferme nomment des magasins de producteurs dans d'autres communes de la Haute-Garonne, pas à Balma.
+
+**Pourquoi rien n'est publié.** Balma ne rend ni jour de marché confirmé par la mairie, ni magasin de producteurs vérifié à une adresse publique avec une source indépendante. Une fiche isolée ne forme pas le groupe de cinq (règle 248).
+
+**Point d'arrêt.** Passe suivante : la commune la plus peuplée de Haute-Garonne sans fiche, par population (règle 41.d), après lecture de la rubrique marchés du site de la mairie de Balma si elle est accessible. Les pistes Que Choisir d'autres communes sont à reprendre en amont de la descente.
+
+**Pistes non publiées (anonymes).** Balma, marché de plein vent : **déblocage** = jour et horaire confirmés par la mairie en activité. Balma, AMAP de fromages et maraîcher bio de l'annuaire 2015 : **déblocage** = présence actuelle vérifiée sur un site du producteur ou de l'AMAP.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe ; la contradiction sur le jour du marché de Balma, consignée à la passe précédente, reste ouverte.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
