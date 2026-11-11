@@ -51709,3 +51709,24 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Nord (59) reprise, Cambrai sondée à nouveau : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente (doute sur une personne), rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule. La passe précédente visait la Haute-Garonne (31), donc la réserve de la règle 41.c écarte ce département. En tête ensuite, le Nord (59, déficit ≈ 4,5).
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul restent sans fiche mais ont été sondées à plusieurs passes sans cinq commerces vérifiables. Descente à Cambrai, reprise pour la quatrième fois.
+- Site de la Ville de Cambrai et site du magasin bio : non joignables depuis cet environnement.
+- Recherche web : pour le magasin bio indépendant, aucun horaire trouvé. Pour le magasin de la ferme (maraîcher), des horaires figurent sur un site participatif et un site de consommation responsable, sans confirmation par l'exploitant : doute de fait, non publié. Pour le magasin de coopérative agricole, généraliste et sans horaires confirmés : écarté.
+- Marché de Cambrai : un seul jour indiqué par un annuaire, sans horaires précis, aucune page de la Ville lue.
+
+**Pourquoi rien n'est publié.** Cinq commerces vérifiables ne sont pas réunis. Les horaires disponibles ne viennent pas de la source officielle des commerces.
+
+**Point d'arrêt.** Passe suivante : ne pas viser le Nord à deux passes de suite n'est pas en cause (la passe précédente était la Haute-Garonne). Reprendre la descente à Lambersart (27 090 habitants) si Cambrai reste sous cinq.
+
+**Pistes non publiées (anonymes).** Cambrai, magasin bio indépendant : **déblocage** = horaires publiés par le magasin. Cambrai, magasin de la ferme (maraîcher) : **déblocage** = horaires et téléphone publiés par l'exploitant.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
