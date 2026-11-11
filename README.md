@@ -51445,3 +51445,23 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : aucune nouvelle cette passe ; celle des deux domaines de Wattrelos reste consignée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31) reprise, registre Agence Bio relu : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (joignable cette passe). Premier rang : Nord (59, déficit ≈ 4,47), mais la passe précédente visait les Hauts-de-France et la règle 41.c l'exclut. Retenu : Haute-Garonne (31, Occitanie, déficit ≈ 3,83), descente déjà entamée.
+
+**Commune, règle 41.d.** Balma reste à reprendre (contradiction des jours de marché non tranchée). Le registre Agence Bio de la Haute-Garonne (100 premiers opérateurs) fait apparaître des points déjà couverts par la carte à Colomiers, Blagnac, Tournefeuille, Cugnaux, Muret et Toulouse ; les entrées restantes sont des personnes physiques ou des négoces, écartées pour doute sur une personne, non nommées.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiés à une adresse publique, confirmée par une source indépendante. Une fiche isolée ne forme pas le groupe de cinq (règle 248).
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte. Chercher la fiche de l'office de tourisme pour dater le marché de Balma (second source officielle), puis, si Balma ne se confirme pas, descendre à Castanet-Tolosan selon la règle 41.d.
+
+**Pistes non publiées (anonymes).** Balma, marché de plein vent : **déblocage** = jour tranché par deux sources officielles. Balma, boutique spécialisée de l'avenue des Mimosas : **déblocage** = entité active au registre à cette adresse et vente directe vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, en Haute-Garonne, par leur patronyme d'entreprise individuelle (nombre seulement, non nommées).
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
