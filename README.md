@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 11 novembre 2026 (quarante-deuxième, Rhône (69) visé, descente sans publication : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié). Aucune réponse par courriel.
+
+**Classement, règle 41.** Outre-mer écarté (97x et 98x, le validateur ne rend que la métropole). Calcul refait avec les populations de geo.api.gouv.fr et les 1 304 fiches. Le Nord (59) est exclu : il a été visé à la passe précédente (règle 41.c). La Haute-Garonne (31), déficit ≈ 5,0, est épuisée : la borne de douze communes de la règle 247 y est atteinte. Le Rhône (69), déficit ≈ 4,7, est retenu. **Écart avec le classement du README** : une passe précédente plaçait le Haut-Rhin (68) en tête après la Haute-Garonne. Avec la formule telle qu'écrite, le Haut-Rhin n'arrive pas dans les huit premiers ; la contradiction est consignée ici, rien n'est tranché sur sa seule foi.
+
+**Commune, règle 41.d.** Lyon, Villeurbanne et Vénissieux ont déjà des fiches. La descente du Rhône a déjà passé Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Bron et Oullins-Pierre-Bénite (Oullins publiée). Meyzieu (36 687 habitants) : site de la Ville injoignable depuis l'agent nommé, aucun créneau publié pour le seul producteur identifié, rien. Villefranche-sur-Saône (36 172) : marché et marché bio décrits, mais photographies fermées par la Ville et l'office ; rien. Rillieux-la-Pape (31 389) : quatre marchés publiés par la Ville, sans produits vérifiables ; rien.
+
+**Ce qui a été lu cette passe.** Fichiers de population et de fiches uniquement ; registre Agence Bio du Rhône, première page de cent opérateurs, filtrée sur Vaulx-en-Velin : une seule entrée, une association sans vente au public confirmée, rien. Aucune nouvelle source ouverte au-delà de ce qui est consigné plus haut.
+
+**Pourquoi rien n'est publié.** Aucune commune du Rhône restante ne rend cinq commerces vérifiables : les marchés sont documentés par la Ville mais sans produits, ou leurs photographies sont fermées (règles 231 et 246). Publier des fiches sans produits ni horaires relevés enverrait un visiteur devant une porte sans rien à acheter.
+
+**Point d'arrêt.** Passe suivante : Rhône (69) reste ouvert tant que la borne de la règle 247 n'est pas atteinte. Reprendre Rillieux-la-Pape par les producteurs eux-mêmes (sites des exploitants, Bienvenue à la Ferme, AMAP du réseau régional) plutôt que par les pages de la Ville ; si rien ne se confirme, la borne de douze communes est atteinte et la passe change de département selon la règle 247.
+
+**Contradictions** (règle 5) : écart de classement avec le Haut-Rhin, consigné ci-dessus. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 11 novembre 2026 (quarante-et-unième, Nord reprise, Wattrelos et Marcq-en-Barœul) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
