@@ -13663,6 +13663,20 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 11 novembre 2026 (trente-neuvième, réseau sans accès aux sources officielles) : aucune publication
+
+**Backlog.** Une demande reste « en_cours » (demande n° 13, commerce de la commune de Villecroze ; doute sur une personne, rien n'est publié). Aucune demande « nouvelle ».
+
+**Classement, règle 41.** Le calcul de déficit par département n'a pas pu être fait : les points d'accès aux données publiques (geo.api.gouv.fr, api-adresse.data.gouv.fr, recherche-entreprises.api.gouv.fr) ne répondent pas depuis cet environnement, ni par curl ni par WebFetch. Aucune commune n'a donc été retenue.
+
+**Pourquoi rien n'est publié.** Sans registre, aucune fiche ne passe la règle 6 ; sans géocodage BAN, aucune coordonnée n'est vérifiable. Rien n'est publié à l'estime.
+
+**Point d'arrêt.** Prochaine passe : relancer le calcul de la règle 41 dès que les données publiques répondent, puis reprendre l'enquête sur la commune retenue.
+
+**Contradictions** (règle 5) : aucune cette passe. **Fiches écartées pour doute sur une personne** : une demande en attente, non reprise.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 11 novembre 2026 (trente-huitième, Nord visé, agglomération lilloise) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié).
