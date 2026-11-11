@@ -51485,3 +51485,25 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : une consignée, sur la localisation d'un magasin de producteurs à Marcq-en-Barœul ou à Wambrechies.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31) reprise, Balma et Castanet-Tolosan sondées par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la réserve de la règle 41.c écarte à nouveau le 59 (premier déficit, ≈ 6,1). Les départements 987 et 988 sont en tête après le 59 mais hors du cadre de `lib/validateMerchants.ts` : règle 93, sautés. Retenu : Haute-Garonne (31, Occitanie, déficit ≈ 4,8).
+
+**Commune, règle 41.d.** Balma reste la commune visée. Deux sources officielles ou quasi officielles, pas davantage : le guide des commerçants de la mairie (édition 2021) donne un marché de plein vent le mercredi et le samedi matin, avenue des Mimosas ; l'annuaire participatif jours-de-marche.fr ne recense qu'un jour, sans horaire. Le marché n'est donc pas daté par une source actuelle. Castanet-Tolosan, sondée en descente : les dates trouvées sont des animations ponctuelles de 2026 ou des annonces ; aucun calendrier permanent n'est confirmé par la mairie.
+
+**Registre Agence Bio (31, 100 premiers opérateurs).** Lu à nouveau. Les opérateurs à Balma, Blagnac, Muret et Toulouse ne donnent pas de point de vente public vérifié : la plupart sont des grossistes, des transformateurs ou des fiches sans vente aux particuliers. Rien ne se reprend de cette lecture.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiés, à une adresse publique, avec une source indépendante et des produits confirmés. Une fiche isolée ne forme pas le groupe de cinq (règle 248). Le jour du marché de Balma est une contradiction entre sources (règle 5) : elle est consignée ici, et le fait contesté n'est pas publié.
+
+**Point d'arrêt.** Passe suivante : lire le site de la mairie de Balma (rubrique marchés et commerces) et l'annuaire des commerçants de 2021 pour dater le marché et lister les producteurs encore en activité. Sans résultat, la descente va à la commune suivante la plus peuplée de Haute-Garonne sans fiche, selon la règle 41.d.
+
+**Pistes non publiées (anonymes).** Balma, marché de plein vent : **déblocage** = jour confirmé par la mairie en activité. Castanet-Tolosan, marché de producteurs annoncé le jeudi soir à une adresse privée : **déblocage** = source municipale et lieu public.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : une consignée, sur les jours du marché de Balma (guide de 2021 contre annuaire participatif).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
