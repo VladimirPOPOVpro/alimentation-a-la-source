@@ -51387,3 +51387,21 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : jours du marché de Balma, mercredi et samedi (guide 2021) contre mardi et samedi (site de la commune). Consignées, non tranchées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Seine-Saint-Denis (93) choisie, descente déjà éprouvée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (de nouveau joignable cette passe). La passe précédente visait la Haute-Garonne (Occitanie) : l'Occitanie est exclue par la règle 41.c. Sont épuisés ou clos : le Nord, le Rhône, l'Isère, la Loire, l'Oise, la Savoie, la Seine-Maritime, le Calvados, la Vienne, les Yvelines, la Seine-et-Marne, la Corse-du-Sud, le Loiret. Premier département ouvert hors Occitanie : **Seine-Saint-Denis (93)**, en Île-de-France, déficit ≈ 4,6.
+
+**Commune, règle 41.d.** Les communes de plus de 50 000 habitants du 93 ont déjà été éprouvées aux passes des 24 et 31 octobre et du 3 novembre, sans source vérifiable suffisante. La descente du département est donc reprise, sans refaire le criblage.
+
+**Pourquoi rien n'est publié.** Aucune commune du 93 ne peut être relue à neuf pour produire cinq fiches vérifiées. Rien n'est recopié d'une passe précédente, et une fiche isolée n'est pas une zone (règle 52).
+
+**Point d'arrêt.** Passe suivante : reprendre la descente de la Seine-Saint-Denis à la commune suivante par population sans fiche, dans la borne de douze communes de la règle 247 ; si la borne est atteinte, passer au département suivant hors Occitanie et hors Île-de-France si la région a été visée. La Haute-Garonne reste ouverte, mais la passe suivante ne peut pas la viser.
+
+**Contradictions** (règle 5) : aucune relevée cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
