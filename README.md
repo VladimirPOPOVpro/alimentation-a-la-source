@@ -51507,3 +51507,19 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : une consignée, sur les jours du marché de Balma (guide de 2021 contre annuaire participatif).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Nord (59) visé, Wattrelos et Cambrai sondées par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la réserve de la règle 41.c ne bloque pas le Nord (Hauts-de-France). Retenu : Nord (59, déficit ≈ 6,55, en tête).
+
+**Commune, règle 41.d.** Commune la plus peuplée du Nord sans aucune fiche : Wattrelos (40 847 hab.), puis Marcq-en-Barœul et Cambrai. Wattrelos : l'annuaire participatif Jours de Marché recense trois marchés sans producteurs nommés ; le Carnet des producteurs 2024 de la Métropole européenne de Lille est cité mais n'a pas pu être lu ici. Cambrai : un magasin de ferme figure dans l'annuaire de Que Choisir, sans source officielle d'activité ni produits vérifiés ; le marché n'est pas daté.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiés, à une adresse publique, avec une source indépendante et des produits confirmés. Une fiche isolée ne forme pas le groupe de cinq (règle 248).
+
+**Point d'arrêt.** Passe suivante : lire le Carnet des producteurs 2024 de la Métropole européenne de Lille (enm.lillemetropole.fr) pour Wattrelos, ou descendre à Marcq-en-Barœul selon la règle 41.d.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
