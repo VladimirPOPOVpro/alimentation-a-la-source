@@ -51730,3 +51730,27 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31) reprise, Plaisance-du-Touch sondée par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule. La passe précédente visait le Nord (59, Hauts-de-France), donc la réserve de la règle 41.c écarte ce département. En tête ensuite : la Haute-Garonne (31, Occitanie, déficit ≈ 5,0), reprise.
+
+**Commune, règle 41.d.** Muret reste sondée (piste non publiée). Plaisance-du-Touch (21 079 hab.) vient ensuite par population sans fiche.
+- Registre Agence Bio, Haute-Garonne, deux pages de cent lues : deux opérateurs à Plaisance-du-Touch, aucun producteur ni magasin de producteurs. Un seul déclare de la vente aux particuliers, une boulangerie, hors catégories du site.
+- Recherche web (marchés) : un marché de producteurs figure à l'agenda régional, sans jour ni horaires vérifiés. Un répertoire de marchés ne donne qu'un jour, sans précision, et aucune page de la Ville n'a été lue dans les résultats.
+- Recherche web (magasins de producteurs) : aucun magasin de producteurs à Plaisance-du-Touch dans les résultats, seulement des enseignes généralistes et bio, et des fiches de communes voisines (Tournefeuille, Cugnaux, Belberaud), hors descente.
+- Annuaire départemental DirectFermiers31 : géré par le Département, consultable sur son site. Non lu cette passe.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Plaisance-du-Touch : pas d'horaires confirmés, pas de point de vente. Cinq fiches ne sont pas réunies.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte. Lire l'annuaire DirectFermiers31 sur le site du Département, puis descendre à la commune suivante sans fiche par population si Plaisance-du-Touch reste sous cinq.
+
+**Pistes non publiées (anonymes).** Plaisance-du-Touch, marché de producteurs : **déblocage** = jour et horaires publiés par la Ville ou l'organisateur.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
