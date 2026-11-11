@@ -51637,3 +51637,28 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : statut « fermé » d'un magasin de Corte dans un annuaire d'avis contre une adresse publiée ailleurs ; consignée ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Rhône (69) repris, Rillieux-la-Pape sondée par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (`list` vide). La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Corse (Corse) : la réserve de la règle 41.c ne bloque pas le Rhône. En tête du classement, le Nord (59, déficit ≈ 4,5) et la Haute-Garonne (31, ≈ 3,8) ont déjà été visés ces derniers jours ; le Rhône (69, ≈ 3,2) reste ouvert et reprend donc la descente.
+
+**Commune, règle 41.d.** Rillieux-la-Pape (31 389 hab.), la plus peuplée de la descente du Rhône sans fiche après Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Meyzieu et Villefranche-sur-Saône, déjà consignées.
+- Registre Agence Bio, Rhône : deux entrées pour Rillieux-la-Pape, toutes deux sans vente au public (préparation et distribution). Rien à retenir.
+- Recherche web : quatre adresses de commerces alimentaires circuit court sont citées, dont un magasin de producteurs avec drive, une boutique de proximité, un préparateur de paniers avec drive et une épicerie de quartier. Aucune n'a d'horaires ni de téléphone confirmés par son propre site ou par une source indépendante ; le site du magasin de producteurs n'expose pas son adresse dans le texte lu.
+- Un site de groupement d'achats (Saint-Étienne) cité au passage n'a aucun point de retrait à Rillieux-la-Pape.
+- Le marché de Rillieux n'a pas pu être confirmé par la Ville : aucune page de marché lisible dans les résultats.
+- Décines-Charpieu, déjà sondée (voir passe précédente), n'est pas reprise : aucun magasin de producteurs, marché du jeudi à horaires non reconfirmés.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Rillieux ne rend des horaires ni un téléphone vérifiés par deux sources indépendantes ; cinq commerces vérifiables sont loin d'être réunis (règle 52). Publier une adresse sans horaires confirmés enverrait un visiteur sur une porte fermée.
+
+**Point d'arrêt.** Passe suivante : Rhône (69) reste ouvert. Commune suivante par population sans fiche : Tassin-la-Demi-Lune (23 200 hab.) ; à reprendre avec le site de la Ville et les sites des exploitants eux-mêmes. Le compte de communes éprouvées sans succès (règle 247) est à tenir à jour : Rillieux compte dans la descente.
+
+**Pistes non publiées (anonymes).** Rillieux-la-Pape, magasin de producteurs avec drive : **déblocage** = adresse et horaires publiés par le magasin ou par la Ville. Rillieux-la-Pape, boutique de proximité en circuit court : **déblocage** = horaires publiés par la boutique et site vérifié. Rillieux-la-Pape, préparateur de paniers avec drive : **déblocage** = vente directe établie par une source du producteur (aujourd'hui, c'est un distributeur). Rillieux-la-Pape, épicerie de quartier : **déblocage** = site ou page du commerce, sans quoi elle reste hors liste.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune contradiction tranchée cette passe ; l'adresse du magasin de producteurs de Rillieux diffère selon les résultats de recherche et n'est pas confirmée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
