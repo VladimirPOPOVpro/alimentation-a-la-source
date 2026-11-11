@@ -51427,3 +51427,21 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Nord (59) reprise, Wattrelos complétée à la recherche : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Île-de-France : la réserve de la règle 41.c ne bloque pas le Nord. Retenu : Nord (59, Hauts-de-France, déficit ≈ 4,66), descente déjà entamée à Wattrelos.
+
+**Commune, règle 41.d.** Wattrelos reste à quatre marchés vérifiés. Le site de la Ville (rubrique « Les marchés ») donne le jour, l'heure et le lieu de chacun, mais aucun exposant ni produit. Une recherche web sur le marché du Laboureur n'a rendu aucun nom de commerçant ni de produit : l'agrégateur de marchés et l'annuaire départemental ne détaillent pas les étals.
+
+**Pourquoi rien n'est publié.** Les quatre marchés sont existants, mais aucune fiche ne peut être complétée de produits vérifiés (validateur : au moins un produit) et aucune photo honnête du lieu n'a été trouvée. Les pistes d'entreprise de Wattrelos restent écartées ou non reprises. Marcq-en-Barœul, point d'arrêt suivant, a déjà été sondée deux fois sans cinq commerces vérifiables.
+
+**Point d'arrêt.** Passe suivante : lire le « Carnet des producteurs » 2024 de la Métropole de Lille (PDF publié par la Métropole, enm.lillemetropole.fr) pour les producteurs et points de vente de Wattrelos, puis, sans résultat, descendre à Marcq-en-Barœul selon la règle 247.
+
+**Fiches écartées pour doute sur une personne.** Une (Wattrelos, herboristerie), non reprise.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe ; celle des deux domaines de Wattrelos reste consignée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
