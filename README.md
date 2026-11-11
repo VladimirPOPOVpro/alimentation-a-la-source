@@ -51662,3 +51662,26 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune contradiction tranchée cette passe ; l'adresse du magasin de producteurs de Rillieux diffère selon les résultats de recherche et n'est pas confirmée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Nord (59) reprise, Cambrai sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en `en_cours` (doute sur une personne), rien n'est publié.
+
+**Classement, règles 41 et 41.c.** Métropole seule : l'outre-mer sort (le validateur ne rend que la métropole). En tête, le Nord (59, déficit ≈ 4,5). La passe précédente visait le Rhône (69), donc la réserve de la règle 41.c ne bloque pas le Nord.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul restent sans fiche mais ont été sondées à plusieurs passes sans cinq commerces vérifiables : elles ne sont pas reprises ici. Descente à Cambrai (31 134 habitants), la plus peuplée du Nord encore sans fiche après ces deux-là.
+- Registre Agence Bio, Nord, pagination complète : 29 opérateurs à Cambrai, dont 18 déclarent une activité de vente (tous ou presque en préparation, distribution ou stockage). Un seul vend aux particuliers : BIO CAMBRESIS, 17 rue de Bohain, 59400 Cambrai, adresse confirmée par deux sources.
+- Recherche web : aucun horaire d'ouverture trouvé pour BIO CAMBRESIS. Biocoop Cambrai a des horaires, mais ils proviennent d'un relais tiers, sont partiels (mardi à vendredi absents) et peuvent être anciens. Un magasin de la ferme (maraîcher, 59400) est cité par un annuaire, sans horaires ni téléphone confirmés. Un magasin de coopérative agricole est cité sans horaires.
+- Le marché de Cambrai : un annuaire indique un seul jour de marché, sans jour ni horaires précis. Aucune page de la Ville ou de la communauté d'agglomération lue dans les résultats.
+
+**Pourquoi rien n'est publié.** Une seule fiche (BIO CAMBRESIS) a une adresse solide, mais aucun horaire vérifié : la publier enverrait un visiteur sur une porte sans heure connue. Les autres candidats n'ont ni horaires ni téléphone confirmés. Cinq commerces vérifiables ne sont pas réunis.
+
+**Point d'arrêt.** Prochaine passe Nord : lire le site de la Ville de Cambrai (rubrique marchés) et celui de l'agglomération, puis les sites des exploitants eux-mêmes pour BIO CAMBRESIS et le magasin de la ferme. Si Cambrai reste sous cinq, descendre à Lambersart (27 090 habitants).
+
+**Pistes non publiées (anonymes).** Cambrai, magasin bio indépendant (BIO CAMBRESIS) : **déblocage** = horaires publiés par le magasin. Cambrai, magasin de la ferme (maraîcher) : **déblocage** = horaires et téléphone publiés par l'exploitant. Cambrai, coopérative agricole : hors catégorie (magasin de coopérative généraliste), écartée.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
