@@ -51685,3 +51685,27 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31) visée, Muret sondée par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en attente : doute sur une personne, rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France), donc le 59 et l'Oise sont écartés par la réserve de la règle 41.c. Les départements d'outre-mer restent sautés (règle 93). Retenu : Haute-Garonne (31, Occitanie, déficit ≈ 3,8).
+
+**Commune, règle 41.d.** Muret (26 079 hab.), la plus peuplée de la Haute-Garonne sans fiche par code postal (31600), après Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux. Muret avait déjà été sondée à l'automne sans cinq commerces vérifiables.
+- Site de la Ville de Muret : non joignable depuis cet environnement, aucune page de marché lue.
+- Recherche web (répertoire de marchés) : un marché de producteurs le mardi de 17 h à 19 h, boulevard Aristide Briand. Source unique, et l'enseigne reprend un prénom : doute sur une personne, rien de cette fiche n'est publié.
+- Recherche web (magasins de producteurs) : aucun magasin de producteurs à Muret même n'est confirmé. Les pistes trouvées sont dans des communes voisines (Cugnaux, Belberaud, Portet-sur-Garonne), déjà présentes ou hors descente.
+- Registre des entreprises (recherche « marché Muret ») : résultats hors sujet, rien à retenir.
+
+**Pourquoi rien n'est publié.** Muret ne rend qu'une piste, sur une seule source, dont l'enseigne soulève un doute sur une personne. Cinq commerces vérifiables ne sont pas réunis (règle 248).
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte. Lire le répertoire DirectFermiers31 du Département, puis passer à Plaisance-du-Touch (21 079 hab.) si Muret ne rend rien.
+
+**Pistes non publiées (anonymes).** Muret, marché de producteurs du mardi soir : **déblocage** = nom d'enseigne sans prénom, et deux sources, dont la Ville ou l'organisateur. Muret, magasin de producteurs : aucune piste confirmée.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Muret, un marché de producteurs dont l'enseigne reprend un prénom). Rien n'est publié.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
