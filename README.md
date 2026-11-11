@@ -51465,3 +51465,23 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 **Contradictions** (règle 5) : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 11 novembre 2026 (Nord (59) reprise, Marcq-en-Barœul sondée à nouveau : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en attente : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (joignable cette passe). La passe précédente visait la Haute-Garonne (Occitanie) : la réserve de la règle 41.c ne bloque pas le Nord (Hauts-de-France), qui est en tête du classement. Retenu : Nord (59, déficit ≈ 6,5 sur la base recalculée, en tête).
+
+**Commune, règle 41.d.** Wattrelos reste à quatre marchés vérifiés, sans exposant ni produit. Le « Carnet des producteurs » 2024 de la Métropole européenne de Lille est bien publié (enm.lillemetropole.fr), mais le PDF n'a pas pu être lu ici : aucun outil d'extraction de texte n'est disponible sur cette machine, et son texte ne ressort pas des flux bruts. Piste ouverte, non résolue.
+
+**Descente à Marcq-en-Barœul, règle 247.** Deux recherches web. Une seule piste ressemble à un commerce du lieu : « Talents de Fermes », magasin de producteurs décrit en 2015 à Marcq-en-Barœul, que Que Choisir référence à Wambrechies. **Contradiction** (règle 5) consignée : la localisation diverge, et la source date de 2015, sans confirmation d'activité. Une seconde piste, « Au Maraîcher de Marcq », apparaît dans un annuaire de maraîchers sans source officielle ni vérification d'activité. Le marché du CIVAM à la Ferme du Héron se tient à Villeneuve-d'Ascq, hors de Marcq. Aucune commune ne rend ici cinq commerces vérifiés.
+
+**Pourquoi rien n'est publié.** Une fiche isolée ne forme pas le groupe de cinq (règle 248), et les pistes de Marcq-en-Barœul ne tiennent pas l'exigence de vérification : aucune source officielle d'activité, une localisation contestée, des produits non vérifiés.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reste ouvert si le déficit le garde en tête, la règle 41.c ne visant alors plus l'Occitanie. Lire le Carnet des producteurs 2024 par un outil capable d'extraire le texte du PDF (ou sur place), pour Wattrelos ; sinon, descendre à la commune suivante du Nord sans fiche par population (Cambrai, Maubeuge, Armentières ou Lambersart) selon la règle 41.d.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : une consignée, sur la localisation d'un magasin de producteurs à Marcq-en-Barœul ou à Wambrechies.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
