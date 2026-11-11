@@ -51281,3 +51281,29 @@ Aucune fiche publiée, aucune retirée. Total inchangé : 1 304 fiches.
 - **Fiches écartées pour doute sur une personne.** Plusieurs, en Haute-Garonne, par leur patronyme d'entreprise individuelle (nombre seulement, non nommées).
 - **Contradictions (règle 5).** Aucune cette passe.
 - **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. Ni lint ni build relancés : aucune donnée ni aucun code n'a changé.
+
+### Passe autonome du 11 novembre 2026 (Haute-Garonne (31), Balma sondée : rien publié)
+
+**Demandes.** Aucune demande « nouvelle ». La demande n° 13 (producteur, Var) reste `en_cours` : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Maritime, et le Nord (59, déficit ≈ 6,55) reste écarté par la règle 41.c et sa descente épuisée. Retenu : Haute-Garonne (31, déficit ≈ 5,00), hors régions des deux passes précédentes.
+
+**Commune, règle 41.d.** Balma, reprise au point d'arrêt de la passe du 10 novembre.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Balma (mairie-balma.fr), page « Marché de plein vent » : le marché du cœur de ville, avenue des Mimosas, avec un marché biologique le samedi matin jusqu'à 13 h. La même page donne deux jours différents : « mardis et samedi » dans le texte, « mercredi et samedi de 8 h à 12 h » dans la rubrique horaires. Contradiction consignée (règle 5), rien n'est publié.
+- Registre des entreprises : aucune entité active ne porte l'enseigne « MO Marché Occitan » ni « Les Halles de Jojo » à leur adresse de Balma (règle 6). Une entité active est bien présente à l'adresse de la boutique MO, mais sous une autre enseigne et une autre activité.
+- Registre Agence Bio, Haute-Garonne, première page (100 opérateurs) : une majorité de personnes physiques et de négoces, aucun point de vente balmanais vérifié.
+- Recherches web (aperçus IA, annuaires) : marchés et horaires contradictoires d'un agrégateur à l'autre. Aucune source de l'office de tourisme lue.
+
+**Pourquoi rien n'est publié.** Le marché de Balma n'a qu'une source officielle, et elle se contredit sur ses jours (règle 9 : deux sources officielles requises). Les deux boutiques ne passent pas le registre (règle 6). Une fiche isolée ne forme pas le groupe de cinq (règle 248).
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne reste ouverte, Balma à reprendre. Chercher la fiche de l'office de tourisme pour dater le marché (second source officielle), identifier au registre la société qui exploite la boutique MO à Balma, puis descendre à la commune suivante sans fiche de la Haute-Garonne par population (règle 41.d).
+
+**Pistes non publiées (anonymes).** Balma, marché de plein vent et marché biologique du samedi : **déblocage** = jour tranché par deux sources officielles (commune et office de tourisme). Balma, boutique MO Marché Occitan : **déblocage** = entité active au registre sous l'enseigne ou à l'adresse. Balma, Les Halles de Jojo : **déblocage** = même motif, plus la confirmation des horaires par le point de vente.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : jours du marché de plein vent de Balma (mardi et samedi contre mercredi et samedi), consignés ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
