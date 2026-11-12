@@ -52260,3 +52260,33 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) reprise à Plaisance-du-Touch ou Balma, avec le site de l'agglomération muretaine (rubrique producteurs et marchés) ; sinon descendre à la commune suivante du 31 par population, ou au département suivant de la formule hors Nord et hors 31.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Yvelines (78) reprises, Poissy sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. Rien à traiter.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie), région exclue par la règle 41.c. Le Nord, la Haute-Garonne, l'Oise, la Loire, l'Isère et le Rhône sont épuisés ou clos. Premier département ouvert hors Occitanie : **Yvelines (78)**, déficit ≈ 4,4, région Île-de-France, visée deux passes plus tôt : la réserve de la règle 41.c est respectée.
+
+**Commune, règle 41.d.** Commune la plus peuplée des Yvelines sans fiche et non épuisée : Poissy (40 983 habitants), point d'arrêt de la passe précédente. Mantes-la-Jolie et Trappes restent éprouvées sans succès.
+
+**Sources.**
+- Site de la Ville de Poissy : une sonde a répondu 503, une autre a renvoyé l'accueil ; la page marchés n'a pas été lue cette passe.
+- Marchés : l'information recueillie est datée et contradictoire. Le marché des terroirs de Poissy est un événement ponctuel (éditions de mars et d'octobre 2026, sans caractère récurrent). Les marchés hebdomadaires (place de la République, Noailles, Beauregard) ne sont connus que par un guide de 2025, qui donne des jours différents d'un guide plus récent : **contradiction consignée (règle 5)**, rien n'est publié sur ce fait.
+- Magasins de produits locaux : *La Petite Épicerie Locale* (Poissy) n'est connue que par un répertoire de circuit court, sans horaires ni site vérifiés. *Producteurs des 4 Saisons* (Poissy) n'est connue que par une carte de 2023 ; son activité actuelle n'est pas confirmée. *Marcel et Fils* (Conflans-Sainte-Honorine), magasin bio référencé par le même répertoire, n'a pas de source indépendante récente.
+- Registre Agence Bio, Yvelines (100 opérateurs lus) : la plupart des entrées de vente aux particuliers portent le nom d'une personne physique, écartées (motif : personne), sans reprise ; les autres sont des grossistes, des fabricants ou des boulangeries.
+- Biocoop du Mantois (Mantes-la-Jolie, hors Poissy) : adresse confirmée par un annuaire, horaires non trouvés ; site de l'enseigne non consulté cette passe. Ce point ne compte pas pour Poissy.
+
+**Pourquoi rien n'est publié.** Poissy ne rend aucun commerce à source indépendante récente et active : une seule fiche isolée, des horaires de marché contradictoires, une page marchés municipale non lue. Aucune fiche n'atteint le seuil de cinq commerces groupés sur une commune. Rien n'est publié sur des faits incertains.
+
+**Pistes non publiées (anonymes).**
+- Poissy (78), magasin de produits locaux (répertoire de circuit court) : pas de site ni d'horaires vérifiés. **Déblocage** = fiche du magasin ou page de l'enseigne.
+- Poissy (78), marchés hebdomadaires : jours contradictoires entre deux guides de la presse locale. **Déblocage** = page de la Ville de Poissy.
+- Poissy (78), magasin de producteurs de 2023 : activité non confirmée. **Déblocage** = entrée active au registre des entreprises et site du magasin.
+- Conflans-Sainte-Honorine (78), magasin bio : pas de source récente. **Déblocage** = fiche du magasin.
+- Mantes-la-Jolie (78), Biocoop du Mantois : horaires non lus. **Déblocage** = horaires et site vérifiés sur le site de l'enseigne.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, Yvelines, au nom de personnes physiques : non reprises, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Poissy (78) reprise après lecture de la page marchés du site de la Ville et la fiche du magasin de produits locaux. Si Poissy reste stérile, descendre à Conflans-Sainte-Honorine (36 958 habitants) selon la règle 41.d, en gardant la réserve de la règle 41.c. Ne pas revenir à l'Occitanie tant que la passe précédente la vise.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
