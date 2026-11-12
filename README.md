@@ -13663,6 +13663,24 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 12 novembre 2026 (quarante-cinquième, Nord repris, Armentières et Lambersart sondées sur le web) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règle 41.** Métropole seule (97x et 98x sortent du calcul), 1 304 fiches, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (69) ; le Nord (59) est le premier département du classement (déficit ≈ 6,55). La Haute-Garonne (31, ≈ 5,00) a été épuisée aux passes précédentes (règle 247). Le Nord est donc repris.
+
+**Commune, règle 41.d.** Armentières (la commune suivante par population sans fiche, selon le point d'arrêt de la passe précédente) puis Lambersart.
+
+**Ce qui a été lu cette passe.** Recherche web sur les deux communes. Armentières : aucun marché de producteurs ni magasin propre à la commune dans les résultats ; les pistes trouvées se situent à La Chapelle-d'Armentières (un magasin de producteurs listé par un annuaire tiers, non vérifié auprès de l'exploitant ni d'une seconde source) et dans des communes voisines. Lambersart : trois marchés recensés par un agrégateur de marchés, sans liste de producteurs vérifiée ; un magasin de producteurs cité à Wambrechies et à Vendeville, hors commune.
+
+**Pourquoi rien n'est publié.** Une commune doit rendre cinq commerces vérifiés auprès d'une source indépendante de l'annuaire qui les liste. Ici, aucune commune ne l'atteint : les pistes sont soit hors commune, soit issues d'un seul annuaire tiers. Pas de fiche partielle, pas de nom de commerce retenu sans seconde source.
+
+**Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Nord : ouvrir le site officiel de la Ville d'Armentières (rubrique marchés) et celui de Lambersart avant toute recherche web ; si aucun des deux ne liste de producteurs, descendre à Marcq-en-Barœul ou Wattrelos, déjà sondées, puis appliquer la règle 247.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 12 novembre 2026 (quarante-quatrième, Nord repris, Lambersart sondée au registre) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
