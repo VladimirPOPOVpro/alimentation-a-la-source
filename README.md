@@ -51964,3 +51964,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Contradictions** (règle 5) : deux adresses différentes pour le magasin bio signalé à Hérouville-Saint-Clair.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Oise (60) visée, Noyon et Méru sondées par recherche web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié ni répondu.
+
+**Secteur, règle 41.** Métropole seule, 1 304 fiches. Classement par déficit : Nord (59, 4,5), Haute-Garonne (31, 3,8), Oise (60, 3,7), Loire (42, 3,6), Isère (38, 3,6). La passe précédente visait la Normandie (Calvados) : cette région est exclue (règle 41.c). Le Nord et la Haute-Garonne sont clos ou éprouvés (règle 247). L'Oise reste ouverte, elle est donc visée.
+
+**Commune, règle 41.d.** Beauvais, Compiègne, Creil, Nogent-sur-Oise, Senlis, Crépy-en-Valois et Chantilly portent déjà des fiches ou ont été sondées. La descente passe à Montataire (14 257 habitants) puis Méru (13 897) et Noyon (12 971).
+
+- Noyon : la recherche web ne donne aucun marché de producteurs à jours et horaires datés ; seul un événement annuel (marché médiéval, premier week-end de juillet) apparaît. Non publié.
+- Méru : aucune AMAP, aucun marché de producteurs, aucun magasin de producteurs trouvé dans la commune. Un Biocoop est mentionné par un annuaire, sans adresse ni horaires confirmés par son site ou par le réseau. Non publié (règle 1, un doute de fait ne se publie pas).
+- Montataire : non sondée cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune sondée ne rend cinq commerces vérifiés par une source indépendante et datée.
+
+**Point d'arrêt.** Passe suivante : Oise (60) reprise, Montataire sondée au registre Agence Bio et sur le site de la commune ; si elle ne rend pas cinq commerces, Méru relue sur le site du Biocoop et l'annuaire de la Chambre d'agriculture.
+
+**Pistes non publiées (anonymes).**
+- Méru (60), magasin bio du réseau Biocoop : existence signalée par un annuaire, adresse et horaires non confirmés. **Déblocage** = fiche du magasin ou du réseau.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
