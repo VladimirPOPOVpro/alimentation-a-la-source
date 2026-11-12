@@ -52080,3 +52080,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Une entrée du registre Agence Bio à Wattrelos, au nom d'une personne physique : non reprise, ne se rouvre pas.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Haute-Garonne (31) reprise, Castanet-Tolosan sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est close pour cette passe (règle 41.c). Le premier département restant est la Haute-Garonne (31, déficit ≈ 3,8, derrière le Nord). La note de passe précédente proposait de reprendre le Nord, ce que la règle 41.c interdit : elle est écartée ici et reste à corriger dans le point d'arrêt.
+
+**Commune, règle 41.d.** Blagnac, Muret, Plaisance-du-Touch et Balma sont déjà éprouvées à zéro (passes précédentes et passe du matin). Castanet-Tolosan (15 317 habitants) est donc la commune suivante par population sans fiche.
+
+- Site officiel de la Ville (rubrique « Marchés de plein vent », lue en direct) : trois marchés publiés avec jours et horaires. Mardi, de 8 h à 12 h 30, et vendredi, de 15 h à 19 h, sous la Halle Lauragaise (centre-ville) ; samedi, de 8 h à 12 h 30, place Argyroupoli. Le service « alimentation et marchés de plein vent » de la Ville est nommé et son adresse est publiée. Source officielle, datée de la page lue cette passe.
+- Registre Agence Bio, Haute-Garonne (1 200 opérateurs lus, pagination complète) : deux entrées de vente aux particuliers à Castanet-Tolosan, la Ferme des Mescladis (production, vente à la ferme) et une enseigne bio dont le registre ne donne qu'une vente aux professionnels détaillants. Ni l'une ni l'autre n'a pu être rattachée à une entité active par le registre des entreprises : la recherche par nom ne renvoie aucun résultat (règle 6). Un aperçu d'un moteur de recherche donne une adresse pour la ferme ; il n'est pas une source indépendante et n'est pas repris.
+- Le marché bio du vendredi, mentionné par des agrégateurs, n'est pas vérifié hors de la page de la Ville : il ne se publie pas à part.
+
+**Pourquoi rien n'est publié.** Castanet-Tolosan ne rend que deux fiches solides (les marchés de la Halle Lauragaise et de la place Argyroupoli) et une piste de ferme sans entité active au registre : cinq commerces vérifiables ne sont pas atteints (AGENT.md, « Mode 2 », descente par population). Publier deux marchés seuls serait une passe incomplète : on attend la suite.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reprise, Castanet-Tolosan relue. Vérifier la Ferme des Mescladis au registre par son numéro SIREN ou sur le site de la ferme ; vérifier le marché bio du vendredi sur la page de la Ville ou sur le site de l'office de tourisme ; si la commune ne rend pas cinq commerces, descendre à Ramonville-Saint-Agne (15 158 habitants), puis Saint-Orens-de-Gameville. Ne pas reprendre le Nord avant une passe d'autre région (règle 41.c).
+
+**Pistes non publiées (anonymes).**
+- Castanet-Tolosan (31), marché de plein vent du mardi, du vendredi et du samedi : source officielle datée, horaires publiés. **Déblocage** = trois fiches de commerces complémentaires ou une page de l'office confirmant les produits alimentaires (producteurs présents) ; à défaut, les deux marchés se publient ensemble quand les cinq commerces sont réunis.
+- Castanet-Tolosan (31), ferme maraîchère bio en vente à la ferme : registre Agence Bio à vente aux particuliers, entité active non trouvée au registre des entreprises (règle 6). **Déblocage** = numéro SIREN ou entité active au registre sous ce nom.
+- Saint-Orens-de-Gameville (31), boucherie bio : registre Agence Bio à vente aux particuliers, enseigne comportant un prénom. Écartée pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une entrée de Castanet-Tolosan du registre Agence Bio et une entrée de Saint-Orens-de-Gameville, toutes deux au nom ou au prénom d'une personne physique : non reprises, ne se rouvrent pas.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
