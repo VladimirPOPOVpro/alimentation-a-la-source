@@ -52033,3 +52033,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Loire (42) visée, Roanne sondée à nouveau : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Aucune réponse par email.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Oise (Hauts-de-France) : cette région est exclue. Les départements d'outre-mer (987, 988) sont écartés par la règle 93. Premier rang restant : Haute-Garonne (31, déficit ≈ 3,8), puis Loire (42, déficit ≈ 3,6). La Haute-Garonne a déjà été éprouvée sur de nombreuses communes sans zone formée (règle 247) ; la Loire, hors ARA-exclusion de la passe précédente, est donc visée.
+
+**Commune, règle 41.d.** Saint-Chamond (35 646 habitants) porte désormais une fiche, donc la plus peuplée de la Loire sans fiche est **Roanne** (35 409 habitants). Elle avait déjà été sondée le 8 octobre sans zone formée.
+
+- Registre Agence Bio, Loire : vendeurs aux particuliers à Roanne, surtout grandes surfaces, grossistes et boulangeries ; rien d'exploitable pour un producteur.
+- Recherche web, marchés : l'office de tourisme (Roannais Tourisme, guide 2024) et Loire Tourisme donnent la place du Marché le mardi et le vendredi matin, une fiche de 2022 le vendredi seul ; la place Clémenceau est donnée le mercredi et le dimanche. Ces jours se contredisent entre sources, et aucune page officielle de la Ville n'est accessible (règle 296). Non publié (règle 5).
+- Producteurs : le guide 2024 cite des producteurs sur la place du Marché le vendredi matin, sans adresse ni téléphone vérifiés. Non publié.
+
+**Pourquoi rien n'est publié.** Roanne ne rend pas cinq commerces vérifiables par une source indépendante et datée, et les jours de marché se contredisent (règles 5 et 248).
+
+**Point d'arrêt.** Passe suivante : Loire reprise, Roanne relue sur le site de la Ville si elle devient accessible ; sinon Firminy (17 060 habitants) par population, dans la borne de la règle 247.
+
+**Pistes non publiées (anonymes).**
+- Roanne (42), marchés place du Marché et place Clémenceau : contradictions de jours entre office de tourisme et annuaires. **Déblocage** = page officielle de la Ville ou de l'agglomération.
+- Roanne (42), producteurs de la place du Marché (guide 2024) : pas d'adresse ni de téléphone vérifiés. **Déblocage** = fiches des producteurs eux-mêmes.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
