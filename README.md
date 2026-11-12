@@ -52211,3 +52211,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Yvelines (78) reprises ou, si la formule l'exige, un autre département hors Île-de-France (règle 41.c). Pour les Yvelines : lire trappes.fr (page marchés) et le site de la Biocoop du Mantois ; sinon descendre à Poissy (40 983 habitants).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Nord (59) visé, Tourcoing sondée à nouveau : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. Une demande reste `en_cours`, inchangée.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. La Réunion et les autres départements d'outre-mer sont écartés (règle 93). Le Nord (59) prend la tête, déficit ≈ 4,5 ; la passe précédente visait les Yvelines, région 11, le Nord est en région 32 : la réserve de la règle 41.c est respectée.
+
+**Commune, règle 41.d.** Commune la plus peuplée du Nord sans fiche : Tourcoing (98 772 habitants). Elle a été sondée dans les passes précédentes et n'a pas rendu cinq fiches publiables.
+
+**Ce que la Ville publie aujourd'hui.** La page « Marchés et braderies » de la Ville de Tourcoing liste les marchés du centre-ville (lundi, jeudi et samedi, 8h-13h, samedi 7h-13h), de la place des Phalempins et de la place de la Bourgogne, tous dits « textile et alimentaire », le samedi « alimentaire exclusivement ». Ces marchés généralistes sont déjà traités dans les pistes précédentes ; aucune fiche de producteur n'en découle sur cette page.
+
+**Pourquoi rien n'est publié.** Les fiches tourquennoises prêtes depuis les passes précédentes (marché de la Bourgogne, AMAP du Broutteux, Au Panier Vert) restent bloquées sur l'image, règle 1 : aucune photographie honnête de la commune ne montre le lieu ou l'étal, et le seul visuel de la Ville pour ce quartier est une façade de pharmacie. Cette passe n'a pas trouvé de photographie nouvelle ; elle ne publie pas de fiche sans image et ne remplace pas la décision des passes antérieures sur ce point.
+
+**Contradiction consignée (règle 5).** Le nombre de fiches du Nord indiqué dans les notes de passes précédentes (388) ne correspond pas au décompte du champ `adresse` de `data/marchands.json`, qui en compte 45 dans ce département. Le décompte du fichier fait foi ; l'écart n'a pas été tranché et ne touche aucune publication.
+
+**Pistes non publiées (anonymes).**
+- Tourcoing (59), marché de la Bourgogne : faits vérifiés sur la page de la Ville ; **déblocage** = une photographie d'étal prise place de la Bourgogne, ou une photographie thématique de la Ville.
+- Tourcoing (59), AMAP du Broutteux : faits vérifiés ; **déblocage** = une photographie de la distribution ou du local.
+- Roncq (59), coopérative de magasin de producteurs : faits vérifiés ; **déblocage** = une photographie de la devanture ou des rayons sans personne identifiable.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Nord (59) à nouveau seulement si une des trois photographies manquantes est trouvée ; sinon descendre à Roubaix ou à Dunkerque (règle 41.d), et retenir un autre département si le Nord ne rend pas cinq commerces.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
