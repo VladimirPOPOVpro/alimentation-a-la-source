@@ -51884,3 +51884,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Contradictions** (règle 5) : l'annuaire Alternativi donne le magasin de la commune ouvert de 8h à 20h tous les jours sauf le dimanche, contre 9h30-19h le lundi-samedi chez l'enseigne. La fiche de l'enseigne prime : consignée, rien publié de ce fait.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Seine-Saint-Denis (93) reprise, Noisy-le-Sec sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (n° 13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Les départements épuisés ou clos restent écartés (liste de la passe du 11 novembre). Premier département ouvert hors Hauts-de-France : Seine-Saint-Denis (93), descente reprise.
+
+**Commune, règle 41.d.** Les communes du 93 de plus de 40 000 habitants déjà sondées aux passes précédentes (Saint-Denis, Montreuil, Aubervilliers, Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Bobigny, Épinay-sur-Seine, Sevran, Bondy, Rosny-sous-Bois, La Courneuve) n'ont rendu aucune zone. La suivante par population sans fiche et non éprouvée est Noisy-le-Sec (45 510 habitants).
+- Registre Agence Bio, Seine-Saint-Denis, première page de cent : aucune entrée vendant aux particuliers à Noisy-le-Sec.
+- Recherche web : aucune page de marché hebdomadaire de la Ville, aucun magasin de producteurs, aucune AMAP attestée à Noisy-le-Sec. Un annuaire participatif (Jours-de-Marché.fr) déclare un marché sans jour ni lieu confirmés ; la Ville n'en atteste aucun dans ses publications lues.
+- Un magasin bio d'enseigne nationale est référencé à Noisy-le-Sec par un annuaire commercial, sans adresse ni horaires vérifiés sur le site de l'enseigne.
+
+**Pourquoi rien n'est publié.** Aucune zone de cinq commerces vérifiés à Noisy-le-Sec. Une seule fiche isolée (le magasin bio) n'en fait pas une (règle 52) et sa vérification n'est pas complète.
+
+**Point d'arrêt.** Passe suivante : Seine-Saint-Denis reste ouverte en descente ; commune suivante par population sans fiche : Villepinte (41 470), puis les communes de moins de 40 000 habitants du 93 au-delà de la borne de la règle 247. Noisy-le-Sec se rouvre si la Ville publie un calendrier de marché, ou si un producteur ou l'enseigne bio publie son adresse et ses horaires.
+
+**Pistes non publiées (anonymes).**
+- Noisy-le-Sec, magasin bio d'enseigne nationale : **déblocage** = adresse, horaires et téléphone publiés par l'enseigne, et deux autres commerces vérifiés sur la commune (règle 52).
+- Noisy-le-Sec, marché annoncé par un annuaire participatif : **déblocage** = jour et lieu attestés par la Ville (règle 16).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
