@@ -13663,6 +13663,29 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 12 novembre 2026 (quarante-troisième, Rhône repris, Rillieux-la-Pape sondée) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règle 41.** Outre-mer écarté (le validateur ne rend que la métropole). Le Nord (59) reste en tête sur le papier, mais il est épuisé : ses communes les plus peuplées sans fiche ont été sondées à plusieurs passes. L'Oise (60) a été visée plus tôt aujourd'hui. Le Rhône (69) est repris selon le point d'arrêt de la passe du 11 novembre.
+
+**Commune, règle 41.d.** Rillieux-la-Pape (31 389 habitants), désignée par le point d'arrêt précédent.
+
+**Ce qui a été lu cette passe.**
+
+- Registre des entreprises, Marcq-en-Barœul : la société « VRAC ET SOLUTIONS » est à l'état cessé, zéro établissement ouvert : écartée (règle 6). La seconde enseigne de Marcq-en-Barœul (potager) ne remonte pas au registre sous cette recherche : non reprise.
+- Recherche web sur Rillieux-la-Pape : trois pistes, aucune vérifiée auprès d'une seconde source ce jour. Une brasserie bio (boisson alcoolisée : pas de pilier « alimentation », règle 14) ; un maraîcher listé dans un annuaire sans date de mise à jour ; un groupement d'achat de fruits et légumes livrant un centre social, qui n'est pas un commerce. Le guide du Grand Lyon mentionne la commune sur sa carte, mais son contenu n'a pas pu être lu ici.
+
+**Pourquoi rien n'est publié.** Aucune commune de la liste n'atteint cinq commerces vérifiables. Une piste maraîchère porte un nom qui pourrait être un patronyme : elle n'est pas reprise.
+
+**Pistes non publiées** (anonymes) : Rillieux-la-Pape (Rhône), maraîcher listé sans date, enseigne possiblement patronymique : non reprise.
+
+**Point d'arrêt.** Rhône : lire le guide du Grand Lyon (PDF, édition 2024, page de la commune) et les sites des exploitants eux-mêmes ; si la commune ne rend toujours pas cinq fiches, appliquer la règle 247 et changer de département selon le calcul. Nord : pas avant qu'une nouvelle source (registre des marchés de l'intercommunalité, AMAP du Nord) soit ouverte.
+
+**Contradictions** (règle 5) : aucune cette passe. **Fiches écartées pour doute sur une personne** : une (Rillieux-la-Pape, maraîcher), non reprise.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
 ### Passe autonome du 11 novembre 2026 (quarante-deuxième, Rhône (69) visé, descente sans publication : rien publié)
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié). Aucune réponse par courriel.
