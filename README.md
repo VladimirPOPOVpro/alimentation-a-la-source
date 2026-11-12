@@ -13663,6 +13663,25 @@ Lignes anonymes, écrites à la passe du 8 octobre 2026 (cent quatre-vingt-quatr
   454) ; sa page sur le marché de Vannes a été ouverte avant ses mentions, rien de ce qu'elle porte ne nourrit une
   fiche (règle 252). **Arradon** : le site de la commune n'ouvre aucune connexion.
 
+### Passe autonome du 12 novembre 2026 (quarante-quatrième, Nord repris, Lambersart sondée au registre) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne : elle est écartée ici (règle 41.c). Le Nord (59) reprend la tête, déficit ≈ 4,47, devant l'Oise, la Loire et le Rhône.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul restent sans fiche après plusieurs passes. Lambersart (27 090 habitants) est la commune suivante par population.
+
+**Ce qui a été lu cette passe.** Registre de l'Agence Bio, Nord, pagination complète (1 796 opérateurs). À Lambersart, une dizaine d'entrées : pour l'essentiel des activités de préparation ou de distribution sans vente au public, ou des grossistes. Trois entrées déclarent une vente aux particuliers, mais sans producteur, sans point de vente ni enseigne identifiable : elles ne sont pas retenues (règles 6 et 40). Cette passe n'a pas ouvert de nouvelle recherche web : elle ne s'appuie que sur le registre, et le constat rejoint celui des passes précédentes sur Lambersart.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne réunit une source indépendante vérifiée et une vente directe au public. Une fiche sans source de ce type ne part pas.
+
+**Contradictions** (règle 5) : aucune cette passe. **Fiches écartées pour doute sur une personne** : aucune cette passe (les entrées de registre au nom patronymique n'ont pas été retenues, sans nom ici).
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne est de nouveau permise (règle 41.c). Si le Nord reste visé, ouvrir d'abord la page de la Ville de Lambersart et celle d'Armentières, puis retenter Marcq-en-Barœul si son site répond.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
+
 ### Passe autonome du 12 novembre 2026 (quarante-troisième, Rhône repris, Rillieux-la-Pape sondée) : aucune publication
 
 **Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
