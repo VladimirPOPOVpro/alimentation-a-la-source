@@ -52341,3 +52341,24 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Concarneau (29) reprise à la page de la Ville pour le marché, et à deux commerces supplémentaires ; si la commune ne rend pas cinq commerces, descendre à Landerneau (29800, 16 363 habitants), où un magasin bio (Biocoop La Clef des Champs, horaires à revérifier) et une enseigne (Le Bio de Landerneau) sont à éprouver au registre.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Nord (59) visé à nouveau, registre relu : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (voir la passe précédente). Aucune réponse par email.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Finistère (Bretagne) : la région est exclue par la règle 41.c. Le premier département restant dans le classement est le **Nord (59)**, déficit ≈ 4,47, 45 fiches publiées. Les départements d'outre-mer restent écartés (règle 93).
+
+**Commune, règle 41.d.** Les communes du Nord les plus peuplées sans fiche sont déjà consignées (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche). Maubeuge est exclue de la recherche par le point d'arrêt de la passe du 11 novembre.
+
+**Sources.**
+- Registre Agence Bio, Nord, première page (100 opérateurs) : trois opérateurs à Maubeuge, tous des associations ou une structure à vocation sociale, aucun commerce de vente aux particuliers identifiable. Écartés (motif : hors sujet, non commerces).
+
+**Pourquoi rien n'est publié.** Le Nord est saturé par les passes précédentes : aucune commune de la liste ne rend cinq commerces vérifiables, et le registre de la première page n'apporte aucun candidat nouveau. Une fiche isolée ne se publie pas.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune.
+
+**Point d'arrêt.** Passe suivante : le Nord reste en tête du classement. Descendre à Wasquehal (20 726 habitants, sans fiche) et lire les pages 1 à 3 du registre Agence Bio pour le Nord, filtrées sur la commune. Si la commune ne rend pas cinq commerces vérifiables, passer au département suivant du classement (Ariège, en Occitanie, déjà signalé comme en attente).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
