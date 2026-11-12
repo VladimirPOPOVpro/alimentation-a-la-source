@@ -51806,3 +51806,31 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Nord (59) visé, Mons-en-Barœul sondée au registre et sur le web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c, 93 et 247.** Métropole seule. La passe précédente visait la Haute-Garonne (Occitanie) : la réserve de la règle 41.c écarte cette région. Le premier rang restant est le Nord (59, déficit ≈ 4,5 à 6,5 selon les passes précédentes). Le service `geo.api.gouv.fr` était injoignable depuis cet environnement cette passe (échec de connexion) : le classement n'a donc pas été recalculé et reprend le dernier résultat lu. Le Nord compte cinq communes déjà sondées (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières), soit la moitié de la borne de la règle 247.
+
+**Commune, règle 41.d.** Mons-en-Barœul (21 105 habitants, aucune fiche) est la suivante par population, comme l'indiquait le point d'arrêt de la passe du 11 novembre.
+- Registre Agence Bio, Nord, 1 795 opérateurs lus sur les pages de cent accessibles : cinq entrées à Mons-en-Barœul, toutes des préparateurs ou distributeurs sans vente au public, sauf une entreprise individuelle de production déclarant de la vente aux particuliers. Son nom n'est pas publié (doute sur une personne, règle 36) : la piste est écartée.
+- Site de la Ville de Mons-en-Barœul : page d'accueil et recherche « marché » lues, aucune page de marché avec jours et horaires. Seuls des événements ponctuels apparaissent (salon de Noël, fête du timbre).
+- Jours-de-Marché.fr (annuaire participatif, non confirmé par la Ville) : deux marchés déclarés, le dimanche de 8 h à 13 h boulevard Napoléon-Ier et le jeudi de 8 h à 13 h place du Maréchal-Lyautey. Source unique et non officielle : la règle 16 exige l'attestation de la commune, donc le marché n'est pas publié.
+- Producteurs : l'annuaire de producteurs de la même source ne rattache aucun point de vente à Mons-en-Barœul.
+- Magasin bio : une enseigne bio est référencée à Mons-en-Barœul par un annuaire de magasins, sans adresse ni horaires vérifiés. Une adresse avenue Schuman, citée par un site de commerces généraliste, n'est pas confirmée par l'enseigne.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable à Mons-en-Barœul : le marché n'est confirmé par aucune source officielle, le magasin bio n'a pas d'adresse ni d'horaires vérifiés, et aucun point de vente de producteur n'est attesté. Cinq fiches ne sont pas réunies.
+
+**Point d'arrêt.** Passe suivante : le Nord reste ouvert (la réserve 41.c ne le bloque pas, la dernière passe visant l'Occitanie). Si `geo.api.gouv.fr` répond, recalculer le classement d'abord. Descendre ensuite à Coudekerque-Branche, puis à Denain, sans refaire le criblage des communes déjà sondées. Sur Mons-en-Barœul, relancer si la Ville publie un jour de marché, ou si l'enseigne bio publie son adresse et ses horaires.
+
+**Pistes non publiées (anonymes).**
+- Mons-en-Barœul, marché du dimanche (boulevard Napoléon-Ier) et du jeudi (place du Maréchal-Lyautey), source participative seule : **déblocage** = jour et lieu attestés par la Ville (règle 16).
+- Mons-en-Barœul, magasin bio d'enseigne nationale, adresse non vérifiée : **déblocage** = adresse, horaires et téléphone publiés par le magasin ou par le site de l'enseigne.
+- Mons-en-Barœul, entreprise individuelle de production déclarant la vente aux particuliers au registre : **déblocage** impossible sans lever le doute sur une personne ; piste écartée et non rouverte.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Mons-en-Barœul, entreprise individuelle, voir ci-dessus) : non publiée, non nommée.
+
+**Contradictions** (règle 5) : une adresse de magasin bio citée par un site généraliste ne correspond à aucune enseigne vérifiée. Consignée, rien publié.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
