@@ -52236,3 +52236,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Nord (59) à nouveau seulement si une des trois photographies manquantes est trouvée ; sinon descendre à Roubaix ou à Dunkerque (règle 41.d), et retenir un autre département si le Nord ne rend pas cinq commerces.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Haute-Garonne (31) visée, Muret sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. Rien à traiter.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. Les départements d'outre-mer sont écartés (règle 93). Le Nord (59) reste en tête, mais la passe précédente le visait : la réserve de la règle 41.c l'écarte. Le département suivant est la Haute-Garonne (31), déficit ≈ 3,8, région 76.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 31 sans aucune fiche : Muret (26 079 habitants, code postal 31600). Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux et Labège portent déjà des fiches ; elles sont écartées de la recherche.
+
+**Sources.** Recherche web : pas d'adresse vérifiable de marché, de producteur ou d'AMAP à Muret même (les résultats renvoient vers des AMAP voisines et vers le guide de l'agglomération, sans horaires extraits). Registre Agence Bio, page 1 du département : un seul établissement muretain relevant du circuit court, fermé depuis 2019 selon le registre des entreprises, donc écarté ; trois autres opérateurs muretains sont des entreprises individuelles à nom patronymique, non publiés (règle sur les personnes). Une enseigne bio nationale est répertoriée à Muret, mais elle n'a pas été retenue : sa fiche n'a pas été vérifiée à la source et elle relève d'un réseau, pas d'un commerce indépendant.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Muret n'atteint cinq commerces vérifiables, ni deux sources indépendantes concordantes par commerce. Règle 41.d : on descend à la commune suivante par population, sans publier de fiche isolée.
+
+**Contradiction consignée (règle 5).** Aucune cette passe.
+
+**Pistes non publiées (anonymes).**
+- Muret (31), trois opérateurs à nom patronymique (entreprises individuelles) : non publiés, ne se rouvrent pas.
+- Muret (31), établissement de vente fermé en 2019 selon le registre : écarté.
+
+**Fiches écartées pour doute sur une personne.** Trois, toutes à Muret (opérateurs individuels, voir ci-dessus).
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reprise à Plaisance-du-Touch ou Balma, avec le site de l'agglomération muretaine (rubrique producteurs et marchés) ; sinon descendre à la commune suivante du 31 par population, ou au département suivant de la formule hors Nord et hors 31.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
