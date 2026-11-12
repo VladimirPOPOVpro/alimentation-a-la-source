@@ -51937,3 +51937,30 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Contradictions** (règle 5) : deux horaires différents pour le marché du samedi (6h-13h pour la page 2024 et une fiche sans année) ; le marché du vendredi annonce 5h du matin, horaire non publié.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Calvados (14) visé, Hérouville-Saint-Clair sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (n° 13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41 et 41.c.** Métropole, 1 304 fiches comptées sur le code postal. Dernière passe en Isère (Auvergne-Rhône-Alpes) : l'interdiction de viser deux passes de suite la même région écarte l'Isère, le Rhône, la Loire, la Savoie et Île-de-France. Premier département éligible par déficit : Calvados (14), déficit +3,4 pour 10 fiches.
+
+**Commune, règle 41.d.** Caen (109 400 habitants) porte déjà cinq fiches de marchés. La plus peuplée sans fiche est Hérouville-Saint-Clair (23 470 habitants).
+- Registre Agence Bio, Calvados : les opérateurs domiciliés à Hérouville-Saint-Clair ne déclarent aucune vente aux particuliers (`venteParticuliers` faux pour tous). Aucune source registre exploitable.
+- Recherche web, marché : un article non daté de Tendance Ouest mentionne un marché le mercredi matin et le samedi matin, mais aucune page de la Ville ni de l'office n'a été trouvée ; l'annuaire jours-de-marche.fr ne recense qu'un jour et signale des informations possiblement périmées. Une source non datée et un agrégateur ne suffisent pas (règles 52 et 248). Non publié.
+- Magasin bio : un magasin du réseau Biocoop est signalé à Hérouville-Saint-Clair, mais deux annuaires donnent deux adresses différentes pour lui. Contradiction, non publié (règle 5).
+- AMAP : un article non daté indique une AMAP complète avec liste d'attente. Aucune fiche.
+- Producteurs : la page de producteurs de jours-de-marche.fr liste des fermes des environs, pas de point de vente dans la commune. Non publié.
+
+**Pourquoi rien n'est publié.** Hérouville-Saint-Clair n'a aucune source indépendante et datée pour un point de vente en circuit court, et aucune zone de cinq commerces ne s'y forme (règles 52 et 248).
+
+**Point d'arrêt.** Passe suivante : Calvados reprise, Hérouville-Saint-Clair relue sur le site de la Ville et sur les relevés datés de l'office de tourisme Caen la Mer ; si elle ne rend pas cinq commerces, commune suivante par population sans fiche : Lisieux (19 645 habitants).
+
+**Pistes non publiées (anonymes).**
+- Hérouville-Saint-Clair (14), magasin bio du réseau Biocoop : existence confirmée par plusieurs annuaires, adresse contradictoire. **Déblocage** = adresse confirmée par le site du magasin ou par le réseau.
+- Hérouville-Saint-Clair (14), marché du mercredi et du samedi matin : source non datée. **Déblocage** = page de la Ville ou de l'office.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : deux adresses différentes pour le magasin bio signalé à Hérouville-Saint-Clair.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
