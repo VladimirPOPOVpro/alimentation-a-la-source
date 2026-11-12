@@ -52186,3 +52186,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Une entrée de Wattrelos au registre Agence Bio, à nom de personne physique. Non reprise.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Yvelines (78) visées, Trappes et Mantes-la-Jolie sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email.
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. Le Nord (59) est exclu : la passe précédente l'a visé (règle 41.c). La Haute-Garonne (31) est close (communes épuisées, règle 247). Les Yvelines (78, région Île-de-France) prennent la tête des départements restants, déficit ≈ 4,4, devant la Loire et l'Isère qui ont été visés récemment.
+
+**Commune, règle 41.d.** Commune la plus peuplée des Yvelines sans fiche : Mantes-la-Jolie (43 526 habitants), puis Poissy, Conflans-Sainte-Honorine et Trappes, déjà éprouvées aux passes précédentes. Cette passe reprend Trappes (34 689) et Mantes-la-Jolie.
+
+- Trappes : deux sources donnent des jours de marché contradictoires pour le marché des Merisiers (mercredi, vendredi et samedi d'un côté, samedi matin de l'autre). La contradiction est consignée ici (règle 5) et rien n'est publié sur ce fait. Aucun marché de producteurs récurrent n'est listé ; un marché solidaire de producteurs a eu lieu en août 2026, sans caractère régulier. Un maraîcher bio en vente à la ferme est listé par un annuaire, sans horaires ; il est en attente de vérification au registre.
+- Mantes-la-Jolie : la Biocoop du Mantois (2 rue d'Alsace) est confirmée par une fiche d'annuaire, sans horaires. Les horaires se vérifient sur le site de l'enseigne, non lus cette passe.
+- Registre Agence Bio, Yvelines (100 opérateurs lus) : la plupart des entrées de vente aux particuliers portent le nom d'une personne physique, écartées (motif : personne), sans reprise ; les autres sont des grossistes, des fabricants ou des restaurants.
+
+**Pourquoi rien n'est publié.** Aucune commune des Yvelines ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Une fiche isolée ne remplit pas l'objectif de cinq fiches groupées.
+
+**Pistes non publiées (anonymes).**
+- Trappes (78), marché des Merisiers : jours contradictoires entre deux guides ; **déblocage** = horaires confirmés par la mairie (trappes.fr).
+- Trappes (78), maraîcher bio en vente à la ferme : annuaire seul ; **déblocage** = entrée active au registre des entreprises et site du producteur.
+- Mantes-la-Jolie (78), Biocoop du Mantois : **déblocage** = horaires et site vérifiés sur le site de l'enseigne.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, Yvelines, au nom de personnes physiques : non reprises, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Yvelines (78) reprises ou, si la formule l'exige, un autre département hors Île-de-France (règle 41.c). Pour les Yvelines : lire trappes.fr (page marchés) et le site de la Biocoop du Mantois ; sinon descendre à Poissy (40 983 habitants).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
