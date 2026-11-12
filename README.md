@@ -52162,3 +52162,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Nord (59) visé, Wattrelos et Marcq-en-Barœul sondées au registre : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en `en_cours` reste sans publication.
+
+**Secteur, règle 41.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (66,2 millions, outre-mer exclu). Classement par déficit : Nord (59, 6,55), Haute-Garonne (31, 5,00), Rhône (69, 4,73), Isère (38, 4,60), Seine-Saint-Denis (93, 4,59). La Haute-Garonne a été visée à la passe précédente, et le Rhône, la Loire et l'Isère sont dans la région de la dernière passe publiée. Le premier département admis est le **Nord (59)** ; la réserve de la règle 41.c ne l'écarte pas (aucune fiche n'y a été publiée à la passe précédente). Écart à noter : le déficit du Nord est ici de 6,55 contre environ 4,5 dans les passes précédentes ; la différence tient au total de population, calculé ici hors outre-mer.
+
+**Commune, règle 41.d.** Les communes du Nord les plus peuplées sans fiche sont, dans l'ordre : Wattrelos (40 847 habitants), Marcq-en-Barœul (40 184), Cambrai (31 134), Lambersart (27 090), Armentières (26 998). Le registre Agence Bio du Nord a été relu en entier (dix-neuf pages de cent, 1 796 opérateurs).
+
+- **Wattrelos** : quatre entrées au registre dans la commune. Une est une entreprise individuelle au nom d'une personne, écartée pour doute sur une personne. Une autre est une enseigne de grande surface (exclue par `MODERATION.md`), une troisième est une structure de distribution sans enseigne publique. Aucune source indépendante d'un point de vente de circuit court à Wattrelos.
+- **Marcq-en-Barœul** : aucun opérateur du registre en vente aux particuliers. Rien à vérifier au registre.
+- **Cambrai, Lambersart** : déjà sondées aux passes précédentes ; les pistes restent ouvertes, aucun cinquième commerce n'est établi.
+
+**Pourquoi rien n'est publié.** Wattrelos et Marcq-en-Barœul n'apportent aucun commerce vérifiable cette passe ; la descente de la règle 41.d passe donc à Cambrai puis Lambersart, déjà éprouvées sans cinq commerces. Aucune fiche n'atteint le seuil de cinq commerces groupés sur une commune.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reprise, descente à Lambersart (27 090 habitants) avec la page de la Ville et l'office de tourisme, puis Armentières. Les communes sans opérateur au registre (Marcq-en-Barœul, Armentières, Mons-en-Barœul) ne se sondent qu'au site de la Ville.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos (59), magasin de vente aux particuliers au registre sous une enseigne personnelle : **écartée pour doute sur une personne**, ne se rouvre pas.
+- Wattrelos (59), distribution sans enseigne publique au registre : pas de point de vente vérifié. **Déblocage** = site ou page d'un point de vente.
+
+**Fiches écartées pour doute sur une personne.** Une entrée de Wattrelos au registre Agence Bio, à nom de personne physique. Non reprise.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
