@@ -52143,3 +52143,22 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Loire (42) visée, Roanne sondée au registre : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en `en_cours` reste sans publication.
+
+**Secteur, règle 41.** Métropole seule, 1 304 fiches. Classement par déficit : Nord (59, 4,5), Haute-Garonne (31, 3,8), Oise (60, 3,7), Loire (42, 3,6), Isère (38, 3,6). Le Nord et la Haute-Garonne sont épuisés ou éprouvés (règle 247) ; l'Oise a été visée à la passe précédente, et sa région (Hauts-de-France) est donc exclue par la réserve de la règle 41.c. Le premier département admis est la **Loire (42)**.
+
+**Commune, règle 41.d.** Dans la Loire, Saint-Étienne et Saint-Chamond ont déjà des fiches. **Roanne (35 409 habitants)** reste la commune la plus peuplée sans fiche, déjà sondée sans résultat aux passes précédentes.
+
+**Registre.** Relecture de l'Agence Bio pour le département 42 (première page de cent opérateurs). Une seule ligne déclarée à Roanne en vente aux particuliers, sans enseigne ni adresse exploitable vérifiée à ce stade. Aucune autre commune de la Loire n'a été ouverte, puisque Roanne n'a pas rendu les cinq commerces exigés.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Roanne n'a été établi par une source indépendante cette passe. Cinq fiches groupées sur une seule commune ne peuvent pas être réunies à partir d'une ligne de registre. Passe suivante : la descente de la règle 41.d se poursuit dans la Loire (Saint-Chamond, Firminy ou Andrézieux-Bouthéon, à vérifier par leurs sites officiels), ou dans l'Isère, sans reprendre Roanne tant que ces communes n'ont pas été lues.
+
+**Pistes non publiées (anonymes).**
+- Roanne (42), opérateur du registre Agence Bio en vente aux particuliers : pas d'enseigne ni de source indépendante ; à reprendre sur le site de la Ville et l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
