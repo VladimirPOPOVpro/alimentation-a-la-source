@@ -52124,3 +52124,22 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Une entrée de Castanet-Tolosan du registre Agence Bio et une entrée de Saint-Orens-de-Gameville, toutes deux au nom ou au prénom d'une personne physique : non reprises, ne se rouvrent pas.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Oise (60) reprise, Méru relue sur le web : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. La demande en `en_cours` reste sans publication.
+
+**Secteur.** Passe précédente : Nord (59), exclu par la règle 41.c. Le point d'arrêt de l'Oise est repris.
+
+**Commune.** Méru (60110). Recherche web sur « Biocoop Méru » : aucun magasin Biocoop ne ressort dans la commune ; les résultats renvoient à Villers-sur-Bonnières, Compiègne et ailleurs. La piste « magasin bio du réseau Biocoop à Méru » listée dans la passe précédente n'est donc pas confirmée et ne doit pas être reprise telle quelle. Les autres pistes locales (Épicerie de la Nacre, G20) ne sont pas des commerces de circuit court et sont écartées.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Méru n'est établi par une source indépendante. Le point d'arrêt de l'Oise est épuisé à ce stade (règles 5 et 248).
+
+**Point d'arrêt.** Passe suivante : changer de département selon le calcul (règle 41), sans reprendre le Nord ni la Haute-Garonne tant que d'autres départements restent en tête.
+
+**Pistes non publiées (anonymes).**
+- Méru (60), magasin bio Biocoop : aucun magasin trouvé à Méru par recherche web. **Piste close**, faute de source pour l'existence du commerce.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
