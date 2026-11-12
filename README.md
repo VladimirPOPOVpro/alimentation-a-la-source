@@ -52308,3 +52308,36 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Poissy (78) reprise après lecture de la page marchés du site de la Ville et la fiche du magasin de produits locaux. Si Poissy reste stérile, descendre à Conflans-Sainte-Honorine (36 958 habitants) selon la règle 41.d, en gardant la réserve de la règle 41.c. Ne pas revenir à l'Occitanie tant que la passe précédente la vise.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Finistère (29) repris, Concarneau sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (non publiable en l'état : registre et source d'exploitant non concordants). Aucune réponse par email.
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Yvelines (Île-de-France) : cette région est exclue par la règle 41.c. Corse traitée comme un seul ensemble (codes postaux 20). Restent écartés ou clos : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Hérault, Seine-Maritime, Seine-Saint-Denis, Val-de-Marne, Calvados, Vienne, Savoie, Pas-de-Calais, Ariège, Bas-Rhin, Ille-et-Vilaine, Seine-et-Marne, Corse. Retenu : **Finistère (29)**, déficit ≈ 3,4, Bretagne, reprise après une passe qui avait sondé Quimper.
+
+**Commune, règle 41.d.** Quimper ayant été éprouvée sans succès, la commune suivante par population sans fiche est **Concarneau (20 845 habitants)**. Brest, Morlaix et Douarnenez portent déjà des fiches et sont écartées de la recherche.
+
+**Sources.**
+- Registre Agence Bio, Finistère (pages 0 à 300, filtre sur la commune) : une grande majorité de grossistes, de producteurs de matières premières ou d'entreprises individuelles à nom patronymique (écartées, motif : personne).
+- Marché de Concarneau (place Jean-Jaurès, halles, marché bio du mercredi) : les guides de presse et annuaires donnent des jours et horaires contradictoires ; le site de la Ville n'a pas pu être lu cette passe. **Contradiction consignée (règle 5), rien publié** sur le marché.
+- Magasin Bio de Kériolet : enseigne active au registre, site et adresse vérifiés, horaires lus sur le site. Candidat solide.
+- Brasserie Tri Martolod : entreprise active au registre, site officiel et téléphone concordants ; horaires contradictoires entre annuaires. Candidat, horaires à confirmer.
+- Biocoop Konkar'Bio (Keramperu) : horaires et téléphone lus sur le site de la boutique ; l'exploitant n'a pas pu être rattaché à une entité active au registre (règle 6). Non publié.
+- Biocoop Konkar'Bio centre-ville : entité radiée. Écarté.
+- Bufala Breizh (Les Buffles de Bretagne) : entité cessée au registre. Écarté.
+- Chocolaterie de la même commune : enseigne qui porte un patronyme répandu, sans certitude que le nom désigne une entreprise et non une personne. Écarté pour doute sur une personne.
+
+**Pourquoi rien n'est publié.** Concarneau ne rend que deux candidats solides et un troisième dont la source municipale manque. La règle du groupe de cinq commerces groupés sur une commune n'est pas atteinte ; une fiche isolée ne se publie pas.
+
+**Pistes non publiées (anonymes).**
+- Concarneau (29), marché municipal : jours contradictoires, site de la Ville non lu. **Déblocage** = page de la Ville.
+- Concarneau (29), Kériolet et Tri Martolod : candidats solides, en attente de deux autres commerces vérifiés pour former le groupe. **Déblocage** = trois sources du même type dans la commune.
+- Concarneau (29), Biocoop Konkar'Bio (Keramperu) : entité d'exploitation non trouvée au registre. **Déblocage** = identifiant d'entité active au registre.
+- Concarneau (29), AMAP locale : horaires de distribution contradictoires. **Déblocage** = fiche de l'AMAP à jour.
+- Concarneau (29), chocolaterie : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio et une enseigne de Concarneau : non reprises, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Concarneau (29) reprise à la page de la Ville pour le marché, et à deux commerces supplémentaires ; si la commune ne rend pas cinq commerces, descendre à Landerneau (29800, 16 363 habitants), où un magasin bio (Biocoop La Clef des Champs, horaires à revérifier) et une enseigne (Le Bio de Landerneau) sont à éprouver au registre.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
