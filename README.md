@@ -52010,3 +52010,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Oise (60) reprise, Montataire sondée au registre et sur les sites : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié ni répondu.
+
+**Secteur, règle 41.** Métropole seule, 1 304 fiches. Dernière passe en Rhône (Auvergne-Rhône-Alpes) : la région est exclue (règle 41.c). Classement par déficit hors ARA : Nord (59, épuisé selon la passe du 12 novembre), Haute-Garonne (31), Oise (60, 3,7), puis Corse-du-Sud et Haute-Corse (0 fiche). L'Oise est reprise selon le point d'arrêt de sa passe précédente.
+
+**Commune, règle 41.d.** Montataire (14 257 habitants), la plus peuplée de l'Oise sans fiche après les communes déjà publiées ou sondées.
+- Registre Agence Bio, Oise (300 premiers opérateurs, pages 0 à 300) : aucun opérateur domicilié à Montataire. Les opérateurs de Creil et Noyon ne déclarent pas tous la vente aux particuliers ; rien d'exploitable pour la commune.
+- Registre des entreprises : la recherche « montataire » ramène une entité établie hors Oise, sans lien avec un commerce de la commune.
+- Site de la commune : aucune rubrique marchés alimentaires ni commerces de producteurs ; seules des pages de marchés publics.
+- Recherche web (AMAP, marché des producteurs, ferme) : aucun résultat daté ou rattaché à Montataire.
+
+**Pourquoi rien n'est publié.** Montataire n'a aucune source indépendante et datée pour un point de vente en circuit court, et aucune zone de cinq commerces ne s'y forme (règles 52 et 248).
+
+**Point d'arrêt.** Passe suivante : Oise reprise, Méru relue (fiche du Biocoop et annuaire de la Chambre d'agriculture de l'Oise) ; si elle ne rend pas cinq commerces, Noyon relue sur le site de la Ville et l'office de tourisme. Si l'Oise reste stérile, changer de département selon le calcul (règle 247), en retenant la Haute-Corse (0 fiche).
+
+**Pistes non publiées (anonymes).**
+- Méru (60), magasin bio du réseau Biocoop : déjà listée dans la passe précédente ; adresse et horaires non confirmés. **Déblocage** = fiche du magasin ou du réseau.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
