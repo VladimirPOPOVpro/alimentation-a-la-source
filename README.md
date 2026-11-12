@@ -51834,3 +51834,26 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : une adresse de magasin bio citée par un site généraliste ne correspond à aucune enseigne vérifiée. Consignée, rien publié.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Rhône (69) reprise, Rillieux-la-Pape sondée par les producteurs : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (#13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule. Le Nord (59) est exclu : il a été visé à la passe précédente (règle 41.c). Le calcul est refait avec les populations de `geo.api.gouv.fr` (joignable) et les 1 304 fiches : le Rhône (69) reprend la tête, déficit ≈ 4,8 (33 fiches pour une cible d'environ 38), devant la Seine-Saint-Denis (93, ≈ 4,7). Le Rhône n'est pas la région de la passe précédente, la règle 41.c ne le bloque pas.
+
+**Commune, règle 41.d.** Rillieux-la-Pape (31 389 habitants), point d'arrêt de la passe du 11 novembre. Lecture cette passe :
+- Annuaire Bienvenue à la Ferme : la recherche publique n'accepte pas de filtre de commune sans géolocalisation (5 237 résultats non filtrés) ; aucun producteur de Rillieux-la-Pape n'a pu être isolé dans les pages lues.
+- Registre des entreprises, interrogé sur la commune : aucune entité active rattachable à un point de vente identifiable. Une entrée homonyme de la commune est un nom de personne ou de structure familiale : écartée, non nommée (règle 36).
+- Base Adresse Nationale : pas de réponse exploitable cette passe, donc aucun géocodage tenté.
+
+**Pourquoi rien n'est publié.** Rillieux-la-Pape ne rend aucune fiche vérifiée sur deux sources indépendantes : le marché est documenté par la Ville sans produits ni exposants vérifiés, et aucune exploitation n'a pu être rattachée à la commune. Cinq fiches ne sont pas réunies.
+
+**Point d'arrêt.** Passe suivante : le Rhône reste ouvert. Reprendre Rillieux-la-Pape par le filtre de commune de l'annuaire des producteurs, par les AMAP du réseau régional, puis par le registre bio du département. Si rien ne se confirme, la borne de douze communes de la règle 247 est atteinte : la passe passe à la Seine-Saint-Denis (93), selon la règle 41.c.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe. Les pistes antérieures de Rillieux-la-Pape restent en attente de leur déblocage.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Rillieux-la-Pape, homonyme au registre) : non publiée, non nommée.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
