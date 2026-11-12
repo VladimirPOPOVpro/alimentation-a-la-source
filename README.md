@@ -51857,3 +51857,30 @@ Pour les producteurs, les pistes trouvées sont anciennes (annuaire toulousain v
 **Contradictions** (règle 5) : aucune cette passe.
 
 Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Nord (59) reprise, Coudekerque-Branche sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ni en cours : rien à répondre.
+
+**Classement, règles 41, 41.c, 93 et 177.** Métropole seule. La passe précédente visait le Rhône (69) : la réserve de la règle 41.c écarte ce département. `geo.api.gouv.fr` a répondu cette passe ; le Nord (59) est en tête de la métropole, déficit ≈ 4,5 sur 45 fiches. Le Nord est donc visé à nouveau, deux passes après la dernière visite.
+
+**Commune, règle 41.d et descente de la règle 247.** La descente reprend là où la passe du 12 novembre s'était arrêtée (Mons-en-Barœul) : Coudekerque-Branche (20 787 habitants) est la commune suivante sans fiche.
+- Registre Agence Bio, Nord, 1 795 opérateurs lus sur dix-huit pages : treize entrées au nom de Coudekerque-Branche ou de Téteghem-Coudekerque-Village. Hors enseignes de grande distribution, une seule entrée vend aux particuliers à Coudekerque-Branche : une biocoop de la commune, dont l'adresse est confirmée ci-dessous.
+- Biocoop Coudekerque-Branche, 4 route de Bergues, 59210 : la fiche de l'enseigne (coudekerque-branche.biocoop.net) donne l'adresse, le téléphone 03 28 29 71 37 et des horaires du lundi au samedi de 9h30 à 19h00. Les données de l'enseigne et l'annuaire du registre concordent. Une seule fiche : isolée, elle n'est pas une zone (règle 52) et attend en pistes avec son travail.
+- Marché : le site de la Ville annonce un marché d'été le mardi, de 16h à 21h, au parc du Fort Louis, mais la page date du 24 juin 2024 et ne couvre que juillet-août. Les annuaires de marchés (Jours-de-Marché.fr, Locavores, L'Argousier des Dunes) donnent un marché de producteurs le mardi matin à Steendam et un marché le vendredi matin place de la Convention : aucune de ces sources n'est la commune, et la règle 16 exige son attestation. Rien n'est publié.
+- Producteurs : aucun point de vente de producteur à Coudekerque-Branche n'a pu être attesté par une source indépendante cette passe.
+
+**Pourquoi rien n'est publié.** Une seule fiche vérifiée à Coudekerque-Branche, et aucun des marchés n'est attesté par la commune à date. Cinq fiches ne sont pas réunies.
+
+**Point d'arrêt.** Passe suivante : le Nord reste ouvert (la réserve 41.c ne le bloque pas, la dernière passe visant le Rhône). Descendre à Denain sans refaire le criblage de Coudekerque-Branche. Coudekerque-Branche se rouvre si la Ville publie un calendrier de marché en 2026, ou si un producteur de la commune publie lui-même son adresse et ses horaires.
+
+**Pistes non publiées (anonymes).**
+- Coudekerque-Branche, biocoop de l'enseigne (route de Bergues) : fiche vérifiée à l'enseigne, **déblocage** = deux autres commerces vérifiés sur la commune (règle 52).
+- Coudekerque-Branche, marché d'été du mardi (parc du Fort Louis) : source de la Ville datée de 2024, **déblocage** = calendrier 2026 publié par la Ville (règle 16).
+- Coudekerque-Branche, marché de producteurs du mardi à Steendam et marché du vendredi (place de la Convention) : annuaires seuls, **déblocage** = attestation de la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : l'annuaire Alternativi donne le magasin de la commune ouvert de 8h à 20h tous les jours sauf le dimanche, contre 9h30-19h le lundi-samedi chez l'enseigne. La fiche de l'enseigne prime : consignée, rien publié de ce fait.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
