@@ -52057,3 +52057,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Nord (59) visé, Wattrelos sondée au carnet de la Métropole : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Aucune réponse par email.
+
+**Classement, règles 41, 41.c et 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : cette région est écartée par la règle 41.c. Les départements d'outre-mer sont écartés par la règle 93. Premier rang restant : Nord (59, déficit ≈ 6,5), puis Haute-Garonne (31, ≈ 5,0). Le Nord est visé : il n'est pas dans la région de la passe précédente.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants), la plus peuplée du Nord sans fiche, déjà sondée à plusieurs passes sans cinq commerces vérifiables. Elle est reprise à partir de la piste ouverte le 10 novembre (carnet des producteurs 2024 de la Métropole européenne de Lille).
+
+- Carnet des producteurs 2024 (PDF de la Métropole, 20 pages) : aucun producteur ni point de vente domicilié à Wattrelos dans la liste par commune. La page « calendrier des marchés » donne quatre créneaux : mercredi Esplanade de Beaulieu (13 h 30 à 17 h), jeudi parking des Basanos (8 h à 12 h 30), vendredi rue Frédéric-Chopin (8 h à 13 h 30), dimanche place de la République (8 h à 14 h). Source unique, datée de 2024, qui ne dit pas si ces marchés vendent des produits alimentaires de producteurs.
+- Recherche web : trois marchés hebdomadaires confirmés par des sites de tourisme, mais aucun horaire exact. Une source place le jeudi au parking Basanos, une autre au parking de la rue Gustave-Delory : contradiction d'emplacement. Le site officiel de la Ville n'apparaît pas dans les résultats et n'a pas pu être lu.
+- Registre Agence Bio, Nord (1 100 opérateurs lus) : entrées de vente aux particuliers à Wattrelos réduites à une seule, au nom d'une personne physique (non reprise, ne se rouvre pas).
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend pas cinq commerces vérifiables : au mieux quatre marchés à source unique et datée, sans horaires confirmés, avec un emplacement contradictoire, et aucun producteur (règles 5, 52 et 248). Une fiche de marché sans horaires officiels ni type de produits ne tient pas.
+
+**Point d'arrêt.** Passe suivante : Nord (59) repris, Wattrelos relue seulement si la page de la Ville devient lisible ; sinon Lambersart (27 090 habitants) par population, sondée au registre et sur le site de la Ville. Si le Nord reste stérile, Haute-Garonne (31) selon le calcul de la règle 41.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos (59), marchés hebdomadaires (Beaulieu le mercredi, centre-ville le jeudi, Mousserie le vendredi, place de la République le dimanche) : source unique du carnet 2024 et sites de tourisme, horaires exacts absents, emplacement du jeudi contradictoire, aucun producteur. **Déblocage** = page officielle de la Ville donnant jours, horaires et emplacements, ou liste des producteurs présents sur chaque marché.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre Agence Bio à Wattrelos, au nom d'une personne physique : non reprise, ne se rouvre pas.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
