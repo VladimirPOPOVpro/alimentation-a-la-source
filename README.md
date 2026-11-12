@@ -51909,3 +51909,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Contradictions** (règle 5) : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 12 novembre 2026 (Isère (38) visée, Vienne sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (n° 13) reste en attente (doute sur une personne) : rien n'est publié ni répondu.
+
+**Classement, règles 41, 41.c, 177.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : cette région est exclue par la règle 41.c. Premier département ouvert hors Île-de-France et sans passe à son actif : Isère (38), déficit +3,6 pour 21 fiches. Les Hauts-de-France et la Haute-Garonne ont été visés récemment ; l'Isère n'avait jamais été éprouvée.
+
+**Commune, règle 41.d.** Les communes de l'Isère les plus peuplées ont déjà des fiches dans l'agglomération grenobloise, à Saint-Martin-d'Hères, Échirolles, Claix, Sassenage, Varces et Bourgoin-Jallieu. La plus peuplée sans fiche est Vienne (31 778 habitants).
+- Registre Agence Bio, Isère, première page de cent, filtrée sur Vienne : aucun producteur à Vienne ne déclare la vente aux particuliers. Une entrée déclare la vente aux particuliers sans activité renseignée et n'est pas exploitable.
+- Office de tourisme Vienne Condrieu (`vienne-condrieu.com`, page du marché du dimanche et `en.vienne-condrieu.com`, page du samedi) : le grand marché du samedi (6h-13h, rue Chantelouve, place Miremont, place Saint-Pierre, producteurs présents) et le marché alimentaire du dimanche (5h-13h30, place Miremont, environ dix commerçants) sont décrits noir sur blanc.
+- Marchés du vendredi (matin, place Miremont), du mardi (Estressin, place du 19-Mars-1962) et du mardi et jeudi (Cours Brillier) : sources agrégatrices seulement, pas de page de l'office ni de la commune. La page vendredi de l'office renvoie une erreur serveur, et le site de la Ville (`vienne.fr`) n'a pas été retrouvé. Le marché du vendredi annonce 5h du matin : horaire douteux, non publié.
+- Magasin de producteurs « Le Panier Enchanté » (28 avenue Marcellin-Berthelot) : listé par une carte de producteurs, mais absent du registre des entreprises sous ce nom (règle 6). Non publié.
+
+**Pourquoi rien n'est publié.** Deux marchés vérifiés par une seule source officielle chacun ne font pas une zone de cinq commerces (règles 52 et 248). Une fiche isolée attend en pistes avec tout son travail. Aucune fiche ne part sur la seule foi d'un agrégateur.
+
+**Point d'arrêt.** Passe suivante : Isère reprise, Vienne reprise. Reprendre d'abord les deux marchés entiers (samedi, dimanche), puis chercher la seconde source (page `vienne.fr` ou second relevé de l'office) pour le vendredi et le mardi d'Estressin. Commune suivante par population sans fiche, si Vienne ne rend pas cinq points : Fontaine (22 020 habitants), à vérifier contre les fiches grenobloises voisines (règle 12).
+
+**Pistes non publiées (anonymes).**
+- Vienne (38), marché du samedi (grand marché, centre-ville) : vérifié par l'office, jours et lieux confirmés. **Déblocage** = seconde source (page de la Ville) et fiche entière, avec la zone.
+- Vienne (38), marché du dimanche (place Miremont) : vérifié par l'office, alimentaire, dix commerçants. **Déblocage** = zone complète (règle 52).
+- Vienne (38), marché du vendredi et marché d'Estressin (mardi) : agrégateurs seulement. **Déblocage** = confirmation par l'office ou la Ville.
+- Vienne (38), magasin de producteurs « Le Panier Enchanté » : listé par une carte de producteurs, absent du registre. **Déblocage** = entrée active au registre ou attestation de l'enseigne (règle 6).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : deux horaires différents pour le marché du samedi (6h-13h pour la page 2024 et une fiche sans année) ; le marché du vendredi annonce 5h du matin, horaire non publié.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
