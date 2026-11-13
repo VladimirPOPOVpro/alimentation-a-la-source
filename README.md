@@ -52392,3 +52392,30 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Haute-Garonne (31) reprise à Balma (17 772 habitants, sans fiche) par la fiche du point de vente et le site de la Ville ; si Balma ne rend pas cinq commerces vérifiables, descendre à Castanet-Tolosan (15 317 habitants) ou Ramonville-Saint-Agne (15 158 habitants), en lisant les pages 300 et suivantes du registre pour le 31, qui n'ont pas été parcourues. Ne pas revenir au Nord avant que la passe suivante ne vise une autre région (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Nord (59) visé, Cambrai sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune en attente de réponse ; une demande reste `en_cours` (voir passes précédentes). Aucune réponse par email.
+
+**Classement, règles 41, 41.c, 93 et 224.** Dénominateur de toutes les communes (règle 224), 1 304 fiches comptées sur le code postal, outre-mer écarté (règle 93). La passe précédente (matin du 13 novembre) visait la Haute-Garonne (Occitanie) : cette région est exclue par la règle 41.c. Le premier département restant est le **Nord (59)**, déficit ≈ 4,5, région Hauts-de-France, qui n'a pas été visé à la passe immédiatement précédente.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord sans fiche sont Wattrelos et Marcq-en-Barœul (sondées sans succès aux passes précédentes), puis **Cambrai (31 134 habitants)**, sans fiche publiée. Lambersart, Armentières et Mons-en-Barœul restent consignées (pistes ouvertes, déjà éprouvées).
+
+**Sources.**
+- Registre Agence Bio, Nord, pages 0 à 19 (1 795 opérateurs lus, pagination complète), filtré sur Cambrai : trois entrées de vente aux particuliers. Une structure associative de promotion de l'agriculture biologique (site officiel lu, activité d'association, non un commerce) : écartée, hors sujet. Un magasin de jardinage et de décoration naturelle : hors sujet alimentaire, écarté. Un magasin Biocoop de Cambrai, déclaré en vente aux particuliers : à vérifier sur le site de l'enseigne, non lu cette passe.
+- Site officiel de la Ville de Cambrai : injoignable cette passe (pas de réponse), page marchés non lue.
+- Registre des entreprises : la structure associative ci-dessus est active, mais son activité déclarée n'est pas un commerce de vente de produits : pas de fiche.
+
+**Pourquoi rien n'est publié.** Cambrai ne rend aucun commerce vérifiable à source indépendante lue cette passe : pas de marché sourcé, un seul magasin bio identifié et non vérifié sur son site. Cinq fiches groupées sur une commune ne sont pas atteintes. Aucune fiche isolée n'est publiée, et aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Cambrai (59), magasin Biocoop (magasin spécialisé bio, vente aux particuliers déclarée au registre) : horaires et site non vérifiés. **Déblocage** = fiche de l'enseigne ou page du magasin.
+- Cambrai (59), marché : aucune source municipale lue (site de la Ville injoignable). **Déblocage** = page marchés de la Ville, à relire.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, Nord, au nom de personnes physiques, en vente aux particuliers : non reprises, ne se rouvrent pas.
+
+**Contradiction consignée (règle 5).** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reprise à Cambrai (31 134 habitants) : lire la page de la Ville (marchés) et la fiche du magasin Biocoop sur le site de l'enseigne. Si Cambrai ne rend pas cinq commerces vérifiables, descendre à Lambersart (27 090 habitants) ou Armentières (26 998), selon la règle 41.d. Ne pas revenir à l'Occitanie avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
