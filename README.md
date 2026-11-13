@@ -52833,3 +52833,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (règle 41.c : la Savoie était la passe présente). Le classement se recalcule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Haute-Garonne (31) reprise, Saint-Gaudens, Castelginest et Villeneuve-Tolosane sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours (doute sur une personne) reste non touchée. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177, 224, 247 et 248.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente visait la Savoie (Auvergne-Rhône-Alpes) : cette région est exclue (règle 41.c), mais l'Occitanie ne l'est pas. Nord (59) et Oise (60) restent closes (règle 247). **Haute-Garonne (31)** est le premier département ouvert ; sa descente reprend à Saint-Gaudens, avec sept communes déjà éprouvées, donc sous la borne de douze.
+
+**Ce qui a été lu.**
+- Saint-Gaudens : La Ferme de Gaudens (chèvre et agneau, vente à la ferme, horaires non confirmés par le commerce : le guide de l'office de tourisme ne sépare pas clairement ses horaires de ceux d'une ferme voisine) ; un point de vente de produits locaux (mercredi après-midi selon le même guide, adresse non relevée). Le site de la ville n'est qu'un média local, sans rubrique marchés ni commerces exploitable.
+- Castelginest : un marché de producteurs au Grand'Place le samedi matin, mais seulement dans un annuaire de 2015 (horaires potentiellement périmés) ; un Biocoop, enseigne nationale sans fiche locale vérifiée à ce jour. Aucune ferme identifiée dans la commune.
+- Villeneuve-Tolosane : un Biocoop et un magasin La Vie Claire signalés dans des annuaires de marques, dont la commune d'implantation et les horaires restent à vérifier ; deux marchés déclarés sur un site collaboratif sans jours ni horaires. Les fermes listées sont à plus de vingt kilomètres ou ne sont pas identifiées dans la commune.
+
+**Pourquoi rien n'est publié.** Aucune de ces trois communes ne rend cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52). Les enseignes nationales ne comptent pas comme pistes locales sans fiche vérifiée, et les annuaires utilisés sont anciens ou collaboratifs. Une fiche isolée ne forme pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Pistes non publiées (anonymes).**
+- Saint-Gaudens, ferme de chèvre et agneau : horaires et point de vente à obtenir auprès du commerce. **Déblocage** = horaires publiés par la ferme ou confirmés par elle.
+- Saint-Gaudens, point de vente de produits locaux (mercredi après-midi) : adresse et enseigne à identifier. **Déblocage** = fiche du commerce et source indépendante.
+- Castelginest, marché du samedi matin : horaires actuels à confirmer. **Déblocage** = publication par la commune ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions** (règle 5) : le guide de l'office de tourisme attribue des horaires qu'une ferme voisine pourrait partager ; non tranché, consigné ici.
+
+**Point d'arrêt.** Haute-Garonne : la descente reprend à Castelginest puis Villeneuve-Tolosane (règle 247), en recherchant les fermes et marchés actuels. La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
