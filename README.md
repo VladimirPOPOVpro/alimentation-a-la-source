@@ -52659,3 +52659,31 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 **Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : une exploitation en nom patronymique, sans nom consigné.
 
 **Publication.** Seule cette note est ajoutée au README. Aucune fiche, image ni code touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 13 novembre 2026 (soirée) : Haute-Garonne (31) reprise, six communes sondées, rien publié
+
+**Backlog.** Aucune demande « nouvelle », rien à traiter. La demande en_cours (n° 13) reste en attente, non touchée.
+
+**Classement, règles 41, 41.c, 177 et 224.** Dénominateur de toutes les communes (règle 224), 1 304 fiches comptées sur le code postal, outre-mer écarté (règle 177), populations `geo.api.gouv.fr` relues ce jour. Déficits : Nord (59) ≈ 4,47 ; Haute-Garonne (31) ≈ 3,83 ; Oise (60) ≈ 3,70 ; Loire (42) ≈ 3,64. La passe précédente visait l'Oise (Hauts-de-France) : cette région est exclue par la règle 41.c. Le Nord reste exclu (descente épuisée, règle 247). La Haute-Garonne est donc le premier département restant ; elle n'a pas été visée à la passe qui la précédait immédiatement (la passe du matin, consignée plus haut, est antérieure à celle de l'Oise).
+
+**Descente, règles 41.d et 247.** Communes de la Haute-Garonne déjà éprouvées : Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan (passes précédentes), puis cette passe **Ramonville-Saint-Agne** (15 158 habitants) et **Saint-Orens-de-Gameville** (14 646). La borne de douze communes n'est pas atteinte : la descente se poursuit à la commune suivante, Fonsorbes (12 954).
+
+- **Ramonville-Saint-Agne.** Registre Agence Bio, Haute-Garonne lu en entier (2 844 opérateurs, pagination complète) : plusieurs entrées de vente aux particuliers, dont une part de personnes physiques (doute sur une personne, non reprises) et un établissement de vente directe sans enseigne claire. Une seule source tierce pour un marché de producteurs (jours-de-marche.fr, mercredi après-midi, place de l'Église) ; ni site de la Ville ni office de tourisme confirmant. Aucune source sur l'enseigne de vente au public « Natural Food Innovation » (registre seul) : non retenue. Rien ne se publie.
+- **Saint-Orens-de-Gameville.** Un marché hebdomadaire (samedi 8h-13h, place de la Fraternité) donné par l'agenda de Toulouse Métropole et par un annuaire tiers : source institutionnelle partielle, jours seuls, produits non listés. Une boutique de producteurs (enseigne Ferme Attitude, rue du Centre) signalée par un guide, horaires non trouvés, enseigne à confirmer au registre des entreprises. Une boucherie bio enseignée d'un prénom : doute sur une personne, écartée. Rien ne se publie.
+
+**Pourquoi rien n'est publié.** Aucune des six communes ne rend cinq commerces vérifiables à source indépendante. Une fiche isolée ne se publie pas (règle 52), et aucun fait incertain n'est publié (MODERATION.md).
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne, Ramonville-Saint-Agne : marché de producteurs du mercredi, une source tierce seule. **Déblocage** = page marchés de la Ville ou de Toulouse Métropole donnant jour, horaires et lieu.
+- Haute-Garonne, Ramonville-Saint-Agne : deux établissements de vente au public au registre, sans enseigne publiée. **Déblocage** = enseigne publiée par l'exploitant et source indépendante, sinon écarté.
+- Haute-Garonne, Saint-Orens-de-Gameville : boutique de producteurs à enseigne de marque, horaires absents. **Déblocage** = horaires publiés par la boutique et fiche d'entité active au registre.
+- Haute-Garonne, Saint-Orens-de-Gameville : marché du samedi, jours confirmés mais produits non listés. **Déblocage** = liste des producteurs présents publiée par la Ville ou le marché.
+- Haute-Garonne, Saint-Orens-de-Gameville : boucherie bio à enseigne prénommée (doute sur une personne) : ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Trois à Ramonville-Saint-Agne (vente au nom de personnes physiques) et une à Saint-Orens-de-Gameville (enseigne prénommée) : non reprises.
+
+**Contradictions** (règle 5) : aucune retenue. Le jour du marché de Saint-Orens (samedi, agenda métropolitain) et celui indiqué par l'annuaire tiers ne sont pas comparés à une source officielle : rien n'est publié.
+
+**Point d'arrêt.** Haute-Garonne : la descente reprend à **Fonsorbes** (12 954 habitants), puis L'Union (12 638). La passe suivante ne vise pas l'Hauts-de-France (règle 41.c) ; la Haute-Garonne reste le département visé tant que sa descente n'atteint pas la borne de douze communes (règle 247).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
