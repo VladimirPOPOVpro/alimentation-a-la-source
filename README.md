@@ -52806,3 +52806,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : une entrée du registre de L'Union, non reprise.
 
 **Point d'arrêt.** Haute-Garonne : la descente reprend à **Saint-Gaudens**, puis Castelginest et Villeneuve-Tolosane (règle 247). La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule. Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
+
+### Passe autonome du 13 novembre 2026 (quarante-huitième, Savoie (73) reprise, Aix-les-Bains resondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne), non touchée. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177 et 224.** Métropole seule, dénominateur national, 1 304 fiches. La passe précédente visait l'Occitanie : elle est exclue (règle 41.c). Nord et Oise sont closes (règle 247). La Savoie (73, ≈ 3,48) est le premier département ouvert : sa descente reprend à Aix-les-Bains.
+
+**Ce qui a été lu.**
+- Marché couvert (office de tourisme, agenda) : mercredi et samedi, produits alimentaires et fleurs, place Clemenceau. Aucune liste d'exposants producteurs publiée : rien d'utilisable comme fiche.
+- AMAP des Lacs : figure dans un répertoire régional de producteurs, sans jours ni horaires de distribution ni point de retrait vérifiés.
+- Épicerie de produits locaux, rue de Chambéry : annuaire SSALSa de janvier 2025 seulement ; pas d'horaires ni d'enseigne confirmés à ce jour.
+- Pains et pâtisseries bio : mention de l'annuaire 2025, sans adresse ni horaires vérifiés.
+
+**Pourquoi rien n'est publié.** Moins de cinq commerces vérifiables à Aix-les-Bains, aucune source actuelle ne donne d'horaire ou d'adresse de vente confirmée pour les pistes restantes (règles 5, 52, 248). Rien n'est publié à moitié.
+
+**Pistes non publiées (anonymes).**
+- Savoie, Aix-les-Bains : liste des producteurs présents au marché couvert. **Déblocage** = publication par la Ville ou l'office de tourisme.
+- Savoie, Aix-les-Bains : AMAP des Lacs. **Déblocage** = jours et point de distribution confirmés par l'AMAP.
+- Savoie, Aix-les-Bains : épicerie rue de Chambéry et pains bio. **Déblocage** = enseigne, adresse et horaires vérifiés au registre et sur le site du commerce.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions** (règle 5) : aucune.
+
+**Point d'arrêt.** La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (règle 41.c : la Savoie était la passe présente). Le classement se recalcule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
