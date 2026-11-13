@@ -52599,3 +52599,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Les douze communes de la descente sont presque atteintes dans l'Oise : Noyon est la dernière éprouvée. La passe suivante ne vise pas les Hauts-de-France ni l'Île-de-France (règle 41.c : la passe précédente visait l'IDF, et l'Oise est la région du Nord reprise au classement). Le classement se recalcule ; la prochaine passe ne peut pas viser Provence-Alpes-Côte d'Azur (règle 248). Le département suivant hors ces régions est Loire ou Haute-Corse, à recouper au registre.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 13 novembre 2026 : Haute-Garonne (31) visée, Muret, Plaisance-du-Touch et Balma sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2).
+
+**Choix du département.** Calcul de la règle 41 sur les départements métropolitains (règle 177). Le Nord (59) est en tête mais l'Oise, passe précédente, est en Hauts-de-France : réserve de la règle 41.c, le Nord est sauté. Le Rhône (69) et la Haute-Garonne (31) suivent ; la Haute-Garonne est retenue. Le Var reste hors calcul, comme prévu.
+
+**Commune.** Muret, la plus peuplée du 31 sans fiche (26 079 habitants).
+
+- **Registre Agence Bio** (600 premiers opérateurs du 31 paginés) : un seul point de vente au public à Muret, exploité par une personne physique, sans enseigne : non retenu (doute sur une personne). Les autres opérateurs muretains sont des grossistes ou des sites sans vente aux particuliers.
+- **Sources web** : pas de marché ni de magasin de producteurs vérifié à Muret ; l'annuaire jours-de-marche ne donne aucun producteur local dans la commune.
+- **Descente à Plaisance-du-Touch** : registre, un point de vente au public, une boulangerie identifiée par une personne physique ; aucune source vérifiable de producteur ni d'AMAP dans la commune.
+
+**Pourquoi rien n'est publié.** Moins de cinq commerces vérifiables dans les communes sondées : rien n'est publié (règles 5 et 248).
+
+**Pistes non publiées (anonymes).** Haute-Garonne, Muret : un point de vente au public au registre, exploitation à nom patronymique, **déblocage** = enseigne publiée par l'exploitant et source indépendante. Haute-Garonne, Muret : aucun marché vérifié, **déblocage** = page marchés de la Ville donnant jours, horaires et lieu. Haute-Garonne, Balma : trois AMAP et un marché repérés dans des annuaires dont un de 2015 ; **déblocage** = fiche de chaque AMAP vérifiée auprès de l'AMAP ou de DirectFermiers31.
+
+**Fiches écartées pour doute sur une personne.** Une, Muret (exploitation à nom patronymique), non reprise.
+
+**Contradictions** (règle 5) : aucune.
+
+**Passe suivante.** Ne pas viser la Haute-Garonne ni l'Occitanie (règle 41.c). Le classement se recalcule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
