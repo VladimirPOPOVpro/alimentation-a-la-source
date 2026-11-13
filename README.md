@@ -52458,3 +52458,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : la région de cette passe (Occitanie) est exclue par la règle 41.c, donc pas de reprise de la Haute-Garonne. Le classement se relit à la passe suivante ; Nord (Hauts-de-France) n'est pas consécutif à cette passe et peut revenir en tête, à Lambersart ou Armentières selon la règle 41.d. La Haute-Garonne reste ouverte, avec Castanet-Tolosan en piste pour les passes ultérieures.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Nord (59), descente épuisée, nouvelles pistes web : rien publié)
+
+**Classement, règle 41.** Métropole seule (règle 177 ; 97x et 98x sortent du calcul), 1 304 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31, Occitanie) : cette région est close pour cette passe (règle 41.c). Le premier département éligible est le Nord (59, déficit ≈ 4,5), suivi de l'Oise (60, ≈ 3,7). Le Var reste à −214.
+
+**Commune, règle 41.d.** Le Nord est déjà sondé à chaque passe depuis le 5 octobre, et la borne de descente est atteinte pour ce département : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières et les communes suivantes par population ont été instruites sans rendre cinq fiches. Aucune commune nouvelle du Nord ne remplit la règle.
+
+**Ce qui a été lu cette passe.** Recherches web sur les AMAP du Nord, Bienvenue à la Ferme Nord-Pas-de-Calais et les marchés de producteurs. Pistes trouvées, toutes anonymes et non vérifiées au registre ni sur le site du commerce : des magasins de producteurs à La Gorgue, à Vendeville, à La Chapelle-d'Armentières et à Wambrechies (ce dernier contradictoire avec Marcq-en-Barœul, déjà consigné) ; un marché de producteurs bio à Cartignies, horaires non lus ; une ferme de vente directe de Ronchin et une ferme de Marquillies, sans horaires ni produits vérifiés. Aucune de ces communes ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq fiches groupées. Une fiche isolée ne remplit pas l'objectif, et aucun fait incertain n'est publié (règle 5).
+
+**Pistes non publiées (anonymes).** Nord, La Gorgue : magasin de producteurs, **déblocage** = fiche du magasin et horaires. Nord, Vendeville : ferme-magasin, **déblocage** = site ou registre. Nord, La Chapelle-d'Armentières : magasin de producteurs, **déblocage** = horaires et site. Nord, Cartignies : marché bio, **déblocage** = page marchés de la commune. Nord, Ronchin et Marquillies : fermes de vente directe, **déblocage** = fiche de l'exploitation.
+
+**Point d'arrêt.** La règle 41.d ne produit plus de commune exploitable dans le Nord sans une source nouvelle (registre des marchés de l'intercommunalité de Lille, carnet des producteurs de la Métropole européenne de Lille 2024). La passe suivante bascule sur l'Oise (60), en gardant Cambrai et les pistes du Nord en réserve.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
