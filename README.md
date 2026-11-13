@@ -52738,3 +52738,34 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 **Point d'arrêt.** Haute-Garonne : descente à reprendre à L'Union (12 638), puis Saint-Gaudens, Castelginest. Borne de douze communes (règle 247) non atteinte (sept éprouvées).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (soir, Savoie (73) sondée, Aix-les-Bains : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0), une demande en_cours (n° 13) non touchée : passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177, 224, 247 et 248.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue (règle 41.c). Nord (59) et Oise (60) sont closes (règle 247). La Loire (42, ≈ 3,64) est éprouvée au-delà de la borne : Saint-Étienne, Saint-Chamond, Roanne, Firminy, Montbrison, Saint-Just-Saint-Rambert, Rive-de-Gier, Le Chambon-Feugerolles, Riorges, Andrézieux-Bouthéon et Feurs ont déjà été sondées ou ont déjà une fiche. **Savoie (73, ≈ 3,48)** est le premier département ouvert et non exclu : la passe s'y tient.
+
+**Commune, règle 41.d.** Chambéry, Cognin et la commune centre portent déjà des fiches ; la plus peuplée sans fiche reste **Aix-les-Bains** (32 406 habitants), reprise à son point d'arrêt.
+
+**Ce qui a été lu cette passe.**
+- Office de tourisme Riviera des Alpes, agenda « Marché Aix-les-Bains » : marché couvert et petits producteurs, alimentation, gastronomie et fleurs le mercredi et le samedi à partir de 7 h, toute l'année, place Clemenceau. Un seul événement vérifié, et il ne décrit pas de producteur nommé.
+- Registre Agence Bio, Savoie, première page : deux opérateurs d'Aix-les-Bains en vente aux particuliers, écartés (une grande surface, code NAF 47.11D, règle de MODERATION.md ; une exploitation à nom patronymique, doute sur une personne, non reprise).
+- Registre des entreprises : « Bio C'Bon Aix-les-Bains » est à l'état cessé, zéro établissement ouvert : écartée (règle 6).
+- Annuaire SSALSa (janvier 2025) : une épicerie de produits locaux rue de Chambéry et l'AMAP des Lacs, citées sans horaires ni adresse vérifiée à ce jour.
+- Carte des producteurs de Grand Lac (page agriculture, mise à jour 16 juin 2026) : la carte interactive n'est pas accessible en texte, donc aucune fiche n'a pu en être tirée.
+- Que Choisir, magasin de producteurs « À la croisée de nos fermes » : située à Grésy-sur-Aix, autre commune, non comptée pour Aix-les-Bains.
+
+**Pourquoi rien n'est publié.** Une seule source vérifiée à Aix-les-Bains (le marché couvert, sans produits relevés) : moins de cinq commerces vérifiables, et une fiche isolée n'est pas une zone (règle 52). Règle 248 : la passe n'éprouve qu'une commune de la Savoie, aucune zone n'est trouvée, rien ne se publie.
+
+**Pistes non publiées (anonymes).**
+- Savoie, Aix-les-Bains : marché couvert, mercredi et samedi, produits et exposants non relevés. **Déblocage** = liste des producteurs présents, publiée par la Ville ou l'office de tourisme, ou fiche de producteur publiée avec source indépendante.
+- Savoie, Aix-les-Bains : AMAP des Lacs (annuaire 2025). **Déblocage** = horaires et point de distribution confirmés par l'AMAP.
+- Savoie, Aix-les-Bains : épicerie de produits locaux, rue de Chambéry (annuaire 2025). **Déblocage** = enseigne, adresse et horaires vérifiés au registre et sur le site du commerce.
+
+**Fiches écartées pour doute sur une personne.** Une, Savoie, exploitation à nom patronymique : non reprise.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : pas de Savoie (règle 41.c, la passe présente visait la Savoie). Le classement se recalcule ; Aix-les-Bains reprend par l'AMAP des Lacs et l'épicerie de la rue de Chambéry, en plus du marché couvert.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
