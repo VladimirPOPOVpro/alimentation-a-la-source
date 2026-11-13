@@ -52713,3 +52713,28 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 **Passe suivante.** Ne pas viser l'Auvergne-Rhône-Alpes (règle 41.c : la Savoie était la passe présente). Le classement se recalcule ; Aix-les-Bains reste en tête de la descente savoyarde, à reprendre.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 13 novembre 2026 (nuit) : Haute-Garonne (31) reprise, Fonsorbes sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2). La demande en_cours n° 13 reste en attente, non touchée.
+
+**Classement, règles 41, 41.c, 177, 224 et 248.** Population `geo.api.gouv.fr` relue ce jour, dénominateur national (règle 224), 1 304 fiches. La passe précédente visait la Savoie (Auvergne-Rhône-Alpes) : cette région est exclue (règle 41.c). Nord (59) et Oise (60) closes (règle 247). **Haute-Garonne (31, ≈ 3,83)** est le premier département éligible ; sa descente reprend à la commune suivante.
+
+**Commune, règle 41.d.** Communes de la Haute-Garonne déjà éprouvées (passes précédentes) : Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville (six sur douze). Cette passe éprouve **Fonsorbes** (12 954 habitants).
+
+- Recherche web (marchés et vente directe) : seul événement trouvé, la « Marché Gourmand » de la Ville, annuel et daté (fin juillet 2026), donc non retenu comme marché récurrent. Aucun marché hebdomadaire de producteurs documenté par la Ville ou l'office de tourisme.
+- Aucune ferme ni magasin de producteurs situé à Fonsorbes dans les résultats. Les points de vente cités par les annuaires sont dans d'autres communes (Montgiscard, Portet-sur-Garonne, Tournefeuille, Toulouse) et ne comptent pas pour cette commune.
+- Aucune source indépendante n'a permis de vérifier cinq commerces à Fonsorbes : rien ne se publie (règles 5 et 248).
+
+**Pourquoi rien n'est publié.** Une commune où aucun commerce n'est vérifiable ne fournit pas de zone (règle 248). La descente se poursuit à **L'Union** (12 638 habitants), dans la même passe si la règle 248 le permet, sinon à la passe suivante.
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne, Fonsorbes : aucun marché récurrent ni point de vente de producteurs documenté. **Déblocage** = page marchés de la Ville ou de l'office donnant jour, horaires et lieu, ou fiche de producteur publiée avec source indépendante.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions** (règle 5) : aucune.
+
+**Point d'arrêt.** Haute-Garonne : descente à reprendre à L'Union (12 638), puis Saint-Gaudens, Castelginest. Borne de douze communes (règle 247) non atteinte (sept éprouvées).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
