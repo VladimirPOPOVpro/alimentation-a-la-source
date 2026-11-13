@@ -52623,3 +52623,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Passe suivante.** Ne pas viser la Haute-Garonne ni l'Occitanie (règle 41.c). Le classement se recalcule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 13 novembre 2026 (après-midi) : aucun secteur calculé, rien publié
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2).
+
+**Choix du département.** Impossible ce jour : la population communale de la règle 41 (`geo.api.gouv.fr/communes`) ne répond pas depuis l'environnement de la passe. La connexion échoue à la vérification du certificat TLS (le nom du certificat ne correspond pas à l'hôte). Aucune copie locale des populations n'existe dans le dépôt. Sans ce chiffre, le déficit de la règle 41 ne se calcule pas, et il n'est remplacé par aucune estimation : aucun secteur n'est visé. La vérification du certificat n'a pas été contournée.
+
+**Ce qui reste exact.** Total inchangé : 1 304 fiches. Les autres sources de la passe répondent (BAN, registre des entreprises, registre Agence Bio), mais sans secteur choisi aucune commune n'a été sondée.
+
+**Contrainte pour la passe suivante.** La passe précédente visait la Haute-Garonne (Occitanie) : la prochaine ne peut pas viser l'Occitanie (règle 41.c). Si `geo.api.gouv.fr` répond à nouveau, le calcul reprend tel quel.
+
+**Pourquoi rien n'est publié.** Pas de secteur, donc pas de commune sondée : rien à publier, rien à mettre en « Pistes non publiées ».
+
+**Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : aucune dans cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
