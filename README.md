@@ -52521,3 +52521,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : pas d'Auvergne-Rhône-Alpes (règle 41.c). Le premier département hors de cette région est le Nord (59), à reprendre à son point d'arrêt (Armentières et Lambersart par les sites des villes). Voiron reste en attente d'une photographie libre et des horaires publiés par le commerce ; La Halte Fermière se reprend dès qu'une photographie permise existe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Nord (59), Lambersart et Armentières sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », rien à traiter.
+
+**Classement, règle 41.** Métropole seule, 1 304 fiches. Point d'arrêt de la passe précédente : Nord (59), reprise à Lambersart puis Armentières. La règle 41.c (pas de région deux passes de suite) est respectée : la passe précédente visait l'Auvergne-Rhône-Alpes.
+
+**Commune, règle 41.d.** Lambersart (27 090 habitants) et Armentières (26 998) ont été sondées au registre Agence Bio du Nord et par recherche web. Lambersart : un marché hebdomadaire au Bourg (samedi matin, horaires à confirmer auprès de la Ville), une convention avec un jardin d'insertion en vente de légumes bio (pas un point de vente permanent identifié), aucun magasin de producteurs établi sur la commune. Armentières : deux marchés recensés par un annuaire participatif, non confirmés par la Ville ; aucun magasin de producteurs ni magasin bio vérifié sur la commune au registre. Aucune des deux ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée.
+
+**Pourquoi rien n'est publié.** Une fiche isolée ne remplit pas le groupement, et les marchés sans horaires ni lieu publiés par la Ville ne se fiabilisent pas. Rien n'est publié (règle 5).
+
+**Pistes non publiées (anonymes).** Nord, Lambersart : marché hebdomadaire du Bourg, **déblocage** = page marchés de la Ville donnant jours, horaires et lieu. Nord, Armentières : marchés de producteurs recensés par annuaire participatif, **déblocage** = confirmation par la Ville. Nord, La Chapelle-d'Armentières (commune voisine) : magasin de producteurs déjà en piste, **déblocage** = horaires et site du commerce.
+
+**Point d'arrêt.** Passe suivante : Nord (59) à Lambersart ou Armentières seulement si la Ville publie un calendrier de marché ; sinon le Nord est épuisé pour la règle 41.d et la passe bascule sur l'Oise (60), puisque l'Auvergne-Rhône-Alpes est exclue par la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
