@@ -52492,3 +52492,32 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : la Loire (42) n'est plus éligible pour une passe qui suit la Loire ; l'Isère reprend à Fontaine si la mairie ou l'AMAP répond, sinon à la commune suivante par population sans fiche (Vienne et Fontaine sont sondées). Le classement se recalcule à la passe suivante, Hauts-de-France exclu tant que le Nord ou l'Oise n'ont pas été visés hors de cette région.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Rhône (69) puis Isère (38) sondés, Voiron sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle », rien à traiter. La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Déficits : Nord (59) ≈ 6,55 ; Haute-Garonne (31) ≈ 5,00, épuisée (règle 247) ; Rhône (69) ≈ 4,73 ; Isère (38) ≈ 4,60.
+**Contradiction consignée (règle 5).** Le point d'arrêt de la passe du 13 novembre (b2bdc04) annonçait l'Isère pour la passe suivante. La règle 41.c interdit de viser la même région deux passes de suite, et l'Isère est en Auvergne-Rhône-Alpes comme le Rhône. Cette passe a donc relu le Rhône et l'Isère alors que la formule les écartait ; **aucune fiche n'en est publiée**. Décision pour la suite : la règle 41.c prime sur le point d'arrêt, la passe suivante ne vise pas l'Auvergne-Rhône-Alpes.
+
+**Rhône, Rillieux-la-Pape (règle 41.d).** Recherche web par les producteurs eux-mêmes, comme le demandait le point d'arrêt de la passe du 11 novembre : aucun producteur ni magasin vérifié par une seconde source. Un maraîcher listé sans date porte un nom qui peut être patronymique : doute sur une personne, non repris (`MODERATION.md`). Rhône considéré comme descendu.
+
+**Isère, Voiron (38500, 21 847 habitants) : commune suivante sans fiche après Fontaine (règle 41.d).**
+- Registre Agence Bio, Isère, 2 253 opérateurs lus (pagination complète), filtrés sur Voiron : 28 entrées, dont aucune exploitation qui vende en direct sur un point de vente identifié hors magasin cité plus bas.
+- **Magasin de producteurs, La Halte Fermière**, Espace Brunerie, 15 boulevard de Charavines. Sources indépendantes : la carte Que Choisir (circuits courts) et la fiche de l'office de tourisme du Pays voironnais, adresse identique ; le registre des entreprises donne l'établissement actif à cette adresse. Point de vente de producteurs (catégorie `producteur`, règle 8).
+  - **Blocage photographie** : l'office réserve ses photos à l'usage privé (règle 246), et aucune photographie thématique libre n'a été trouvée. Sans photo permise, la fiche attend (règle 231).
+  - **Horaires** : publiés par Que Choisir seulement (mardi à vendredi 9h-12h30 et 15h-19h, samedi 9h-12h30 et 15h-18h30, fermé lundi et dimanche). L'office ne donne pas d'horaires lisibles : `a_confirmer` si la fiche part.
+  - **Téléphone** : Que Choisir seulement, non publié tant que le commerce ne le confirme pas.
+  - **Second établissement** : le registre donne aussi un établissement actif avenue François-Mitterrand, à Voiron, absent des deux sources : non retenu (règle 3), à confirmer.
+- **Marché de Voiron** : l'office écrit mercredi et samedi matin, sur le Mail ; sa fiche écrit alimentaire place Général-de-Gaulle et textile place de Lattre-de-Tassigny. **Contradiction consignée (règle 5)** : aucun jour, lieu ni produit retenu. Une tribune politique de juin 2024 sur les travaux du Mail n'est pas une source.
+- **Bilan commune** : moins de cinq commerces vérifiés (un seul magasin de producteurs solide). Rien n'est publié.
+
+**Pistes non publiées (anonymes).** Voiron, magasin de producteurs (enseigne à Espace Brunerie) : **déblocage** = photographie libre ou accord écrit du commerce, horaires et téléphone confirmés par le commerce. Voiron, marché : **déblocage** = publication actuelle de la Ville donnant jour et lieu. Rillieux-la-Pape, maraîcher listé sans date (enseigne possiblement patronymique) : ne se rouvre pas.
+
+**Contradictions** (règle 5) : marché de Voiron (lieu et jours), registre à deux établissements actifs pour un même commerce.
+
+**Fiches écartées pour doute sur une personne** : une, Rillieux-la-Pape (maraîcher), non reprise.
+
+**Point d'arrêt.** Passe suivante : pas d'Auvergne-Rhône-Alpes (règle 41.c). Le premier département hors de cette région est le Nord (59), à reprendre à son point d'arrêt (Armentières et Lambersart par les sites des villes). Voiron reste en attente d'une photographie libre et des horaires publiés par le commerce ; La Halte Fermière se reprend dès qu'une photographie permise existe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
