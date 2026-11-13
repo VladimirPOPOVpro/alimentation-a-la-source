@@ -52362,3 +52362,33 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : le Nord reste en tête du classement. Descendre à Wasquehal (20 726 habitants, sans fiche) et lire les pages 1 à 3 du registre Agence Bio pour le Nord, filtrées sur la commune. Si la commune ne rend pas cinq commerces vérifiables, passer au département suivant du classement (Ariège, en Occitanie, déjà signalé comme en attente).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Haute-Garonne (31) visée, Plaisance-du-Touch sondée, Balma en piste : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. Rien à traiter.
+
+**Classement, règles 41, 41.c, 93, 177 et 224.** Dénominateur de toutes les communes (règle 224), 1 304 fiches comptées sur le code postal, outre-mer écarté du classement (règles 93 et 177). La passe précédente visait le Nord (Hauts-de-France) : la réserve de la règle 41.c écarte cette région. Le Nord reste en tête (déficit ≈ 4,47) mais n'est pas éligible ; la consigne « Wasquehal » du point d'arrêt précédent est donc levée. Le département suivant est la **Haute-Garonne (31)**, déficit ≈ 3,83, région Occitanie, qui n'a pas été visée à la passe immédiatement précédente.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 31 sans fiche : Muret (sondée sans succès les 12 novembre), puis **Plaisance-du-Touch (21 079 habitants)**, point d'arrêt de la passe précédente.
+
+**Sources.**
+- Registre Agence Bio, Haute-Garonne, pages 0 à 300 (400 opérateurs sur 2 844 lus, filtrés sur les communes du bassin) : à Plaisance-du-Touch, aucun opérateur de vente aux particuliers identifiable comme commerce indépendant ; plusieurs entrées au nom de personnes physiques ou sans vente déclarée, écartées (motif : personne, ou pas de vente).
+- Recherche web (jours-de-marche.fr, annuaires) : un seul jour de marché signalé à Plaisance-du-Touch, sans jour ni horaires précis ; le même annuaire ne donne aucun producteur local dans la commune. Aucune source municipale récente n'a été lue cette passe pour le marché.
+- Une fromagerie artisanale de la commune apparaît sur un annuaire de producteurs, sans horaires ni site vérifiés, et son enseigne reprend un nom patronymique : doute sur une personne, écartée et non reprise.
+- Un vide-greniers place du Bicentenaire apparaît dans les agendas : ce n'est pas un marché de producteurs, hors sujet.
+
+**Pourquoi rien n'est publié.** Plaisance-du-Touch ne rend aucun commerce vérifiable à source indépendante active : un seul marché signalé sans jour ni horaires, rien d'autre concordant. Aucune fiche n'atteint le seuil de cinq commerces groupés sur une commune. Une fiche isolée ne se publie pas, et aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Plaisance-du-Touch (31), marché hebdomadaire : jour et horaires non confirmés. **Déblocage** = page de la Ville ou du marché.
+- Plaisance-du-Touch (31), fromagerie artisanale : doute sur une personne (enseigne patronymique), ne se rouvre pas.
+- Plaisance-du-Touch (31), brasserie locale référencée au registre : statut de vente non déclaré. **Déblocage** = source de vente au public vérifiée.
+- Balma (31), négoce de vins référencé au registre, vente aux particuliers déclarée : hors circuit court producteur, à qualifier. **Déblocage** = fiche du point de vente.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, Haute-Garonne, au nom de personnes physiques : non reprises, ne se rouvrent pas.
+
+**Contradiction consignée (règle 5).** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (31) reprise à Balma (17 772 habitants, sans fiche) par la fiche du point de vente et le site de la Ville ; si Balma ne rend pas cinq commerces vérifiables, descendre à Castanet-Tolosan (15 317 habitants) ou Ramonville-Saint-Agne (15 158 habitants), en lisant les pages 300 et suivantes du registre pour le 31, qui n'ont pas été parcourues. Ne pas revenir au Nord avant que la passe suivante ne vise une autre région (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
