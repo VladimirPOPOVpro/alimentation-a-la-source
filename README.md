@@ -52684,6 +52684,6 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 
 **Contradictions** (règle 5) : aucune retenue. Le jour du marché de Saint-Orens (samedi, agenda métropolitain) et celui indiqué par l'annuaire tiers ne sont pas comparés à une source officielle : rien n'est publié.
 
-**Point d'arrêt.** Haute-Garonne : la descente reprend à **Fonsorbes** (12 954 habitants), puis L'Union (12 638). La passe suivante ne vise pas l'Hauts-de-France (règle 41.c) ; la Haute-Garonne reste le département visé tant que sa descente n'atteint pas la borne de douze communes (règle 247).
+**Point d'arrêt.** Haute-Garonne : la descente reprend à **Fonsorbes** (12 954 habitants), puis L'Union (12 638). La passe suivante ne vise pas les Hauts-de-France (règle 41.c) ; la Haute-Garonne reste le département visé tant que sa descente n'atteint pas la borne de douze communes (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
