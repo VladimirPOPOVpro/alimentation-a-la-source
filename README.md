@@ -52639,3 +52639,23 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : aucune dans cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 13 novembre 2026 (fin de journée) : Oise (60) descente épuisée, Noyon, Pont-Sainte-Maxence et Clermont sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13) reste en attente : son nom et son contact ne permettent pas de la publier en l'état, elle n'est pas touchée.
+
+**Choix du département.** Calcul de la règle 41 sur la métropole (règle 177), dénominateur national (règle 224), 1 304 fiches sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente visait l'Occitanie : celle-ci est exclue (règle 41.c). Le Nord (59, déficit ≈ 4,5) reste en tête mais sa descente est épuisée (règle 247). L'Oise (60, ≈ 3,7) est retenue : c'était la descente restante, avec deux communes à éprouver.
+
+**Commune, règle 41.d et descente.** Dans l'Oise, les communes déjà éprouvées sont Beauvais, Compiègne, Creil, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Montataire, Méru, Noyon, puis cette passe : Pont-Sainte-Maxence (12 361 habitants) et Clermont (10 564). Aucune ne rend cinq commerces vérifiables.
+- Pont-Sainte-Maxence : registre Agence Bio, aucun opérateur en vente aux particuliers hors une grande enseigne de distribution (écartée, règle MODERATION) ; un guide régional de 2021 cite une AMAP, sans fiche vérifiable ; les marchés recensés par un annuaire participatif n'ont ni jours ni horaires.
+- Clermont : aucune source officielle ni annuaire fiable d'un marché ou d'un point de vente de producteurs ; une exploitation signalée par un annuaire participatif, sans horaires.
+
+Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La passe ne publie rien (règle 248).
+
+**Pistes non publiées (anonymes).** Oise, Pont-Sainte-Maxence : AMAP du guide 2021, **déblocage** = fiche de l'AMAP vérifiée auprès de l'AMAP ou du réseau régional. Oise, Pont-Sainte-Maxence : marchés recensés sans horaires, **déblocage** = page marchés de la Ville donnant jours, horaires et lieu. Oise, Clermont : exploitation de vente directe signalée par annuaire, **déblocage** = enseigne publiée par l'exploitant et source indépendante.
+
+**Passe suivante.** Ne pas viser les Hauts-de-France (règle 41.c : la passe présente visait l'Oise). L'Oise est close pour la descente (règle 247). Le classement se recalcule sur la population relue.
+
+**Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : une exploitation en nom patronymique, sans nom consigné.
+
+**Publication.** Seule cette note est ajoutée au README. Aucune fiche, image ni code touchés ; total inchangé : 1 304 fiches.
