@@ -52769,3 +52769,19 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 **Point d'arrêt.** Passe suivante : pas de Savoie (règle 41.c, la passe présente visait la Savoie). Le classement se recalcule ; Aix-les-Bains reprend par l'AMAP des Lacs et l'épicerie de la rue de Chambéry, en plus du marché couvert.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (quarante-sixième, Nord repris, registre Agence Bio interrogé) : aucune publication
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Classement, règle 41.** Métropole seule. Le premier département du classement est La Réunion (974), écarté : le validateur (`lib/validateMerchants.ts`) refuse les coordonnées hors métropole et AGENT.md renvoie l'outre-mer au responsable du site. Le Nord (59, déficit ≈ 4,5) est retenu : la passe précédente visait Savoie, donc la règle « deux passes de suite » ne bloque pas.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul, les plus peuplées sans fiche, ont déjà été sondées à plusieurs reprises sans résultat. Le registre Agence Bio (1 200 opérateurs du Nord lus) ne donne, dans les communes sans fiche, que des grossistes, des ateliers de préparation et des enseignes sans vente aux particuliers, plus quelques noms de personnes physiques, écartés. Trois pistes de détail vente aux particuliers ont été cherchées sur le web : Haubourdin, Coudekerque-Branche et Wattignies. Aucune n'a été retrouvée sous le nom du registre : pas de seconde source, pas de fiche.
+
+**Décision.** Aucune commune du Nord n'atteint cinq commerces vérifiés auprès d'une source indépendante. Rien n'est publié, pas de fiche partielle.
+
+**Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : quelques entrées du registre, qui sont des personnes physiques, non reprises.
+
+**Point d'arrêt.** Nord : la prochaine passe ne doit pas revenir sur Wattrelos ni Marcq-en-Barœul. Elle doit tenter une commune où le registre donne au moins deux détaillants nommés comme commerces et vérifiables (Coudekerque-Branche ou Haubourdin), ou changer de département selon la formule.
+
+Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
