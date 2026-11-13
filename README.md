@@ -52785,3 +52785,24 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 **Point d'arrêt.** Nord : la prochaine passe ne doit pas revenir sur Wattrelos ni Marcq-en-Barœul. Elle doit tenter une commune où le registre donne au moins deux détaillants nommés comme commerces et vérifiables (Coudekerque-Branche ou Haubourdin), ou changer de département selon la formule.
 
 Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
+
+### Passe autonome du 13 novembre 2026 (quarante-septième, Haute-Garonne (31) reprise, L'Union et Saint-Gaudens sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (0). Une demande reste « en_cours » (doute sur une personne, rien n'est publié) : non touchée. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177 et 224.** Métropole seule (outre-mer écarté, règle 177 ; le validateur refuse de toute façon les coordonnées hors métropole), dénominateur national (règle 224), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue (règle 41.c). Déficits : Nord (59) ≈ 4,47 et Oise (60) ≈ 3,69, closes (règle 247) ; **Haute-Garonne (31) ≈ 3,83** est le premier département ouvert, avec une descente encore sous la borne de douze communes (sept éprouvées).
+
+**Commune, règle 41.d et descente.** Communes de la Haute-Garonne déjà éprouvées : Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes. Cette passe reprend à **L'Union** (12 638 habitants), relue une nouvelle fois :
+
+- registre Agence Bio du 31 (100 opérateurs lus sur la première page) : les entrées de L'Union sont une préparation et une distribution sans vente aux particuliers, et une entrée de vente aux particuliers sans lieu de vente identifiable, écartée (doute sur une personne) ;
+- recherche web : un marché et une ruche de distribution, sur des pages agrégatrices sans jours ni horaires confirmés par la Ville ; une ferme de vente directe référencée par un guide grand public, sans horaires publiés par le commerce ni seconde source. Le site officiel de la commune n'a pas livré de rubrique marchés exploitable.
+
+**Saint-Gaudens (31800), commune suivante.** Le guide de l'office de tourisme du Comminges signale une ferme avec horaires (lundi au vendredi, samedi après-midi) et une seconde adresse de vente le mercredi, dont le nom n'est pas lisible dans l'extrait. Une seule source, un seul commerce vérifié : rien de plus.
+
+**Pourquoi rien n'est publié.** Ni L'Union ni Saint-Gaudens ne rendent cinq commerces vérifiables à une adresse de vente publique, datée et confirmée par une source indépendante (règles 5, 6, 52). Une fiche isolée ne forme pas une zone (règle 248). Rien n'est publié à moitié.
+
+**Pistes non publiées (anonymes).** L'Union, ferme en vente directe : horaires à obtenir auprès du commerce ; point de retrait en ruche, horaires agrégés seulement. Saint-Gaudens, ferme avec horaires du guide de l'office de tourisme : seconde source à trouver, et l'adresse de la seconde vente à identifier.
+
+**Contradictions** (règle 5) : aucune. **Fiches écartées pour doute sur une personne** : une entrée du registre de L'Union, non reprise.
+
+**Point d'arrêt.** Haute-Garonne : la descente reprend à **Saint-Gaudens**, puis Castelginest et Villeneuve-Tolosane (règle 247). La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule. Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
