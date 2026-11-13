@@ -52474,3 +52474,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** La règle 41.d ne produit plus de commune exploitable dans le Nord sans une source nouvelle (registre des marchés de l'intercommunalité de Lille, carnet des producteurs de la Métropole européenne de Lille 2024). La passe suivante bascule sur l'Oise (60), en gardant Cambrai et les pistes du Nord en réserve.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Isère (38) visée, Fontaine sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. Rien à traiter.
+
+**Classement, règles 41, 41.c, 177 et 224.** Dénominateur national, outre-mer écarté, 1 304 fiches. La passe précédente visait le Nord (59, Hauts-de-France) : cette région est close (règle 41.c). **Correction de la passe précédente** : son point d'arrêt annonçait l'Oise (60), qui est aussi en Hauts-de-France ; la réserve de la règle 41.c l'écarte donc. La Haute-Garonne (31, déficit ≈ 3,83) est écartée par la règle 247, ses communes éprouvées ayant atteint la borne. Le premier département éligible est la Loire (42, ≈ 3,64), déjà sondée une dizaine de fois sans fiche ; l'Isère (38, ≈ 3,57) vient ensuite et est retenue. Le Var reste à −214.
+
+**Commune, règle 41.d.** En Isère, les communes plus peuplées ayant des fiches (Grenoble, Saint-Martin-d'Hères, Échirolles, Bourgoin-Jallieu, Sassenage, Claix, Varces-Allières-et-Risset) sont écartées. Vienne (38200) a été sondée le 12 novembre, sans succès. La commune suivante sans aucune fiche est **Fontaine (38600, 22 020 habitants)**.
+
+**Ce qui a été lu.** Registre Agence Bio, dix pages du département (1 000 opérateurs lus sur 2 252). Recherche web sur les marchés et les AMAP de Fontaine. Trois pistes de type particulier ou entreprise individuelle, nommées dans le registre : non publiées, ne se rouvrent pas (doute sur une personne, règle de `MODERATION.md`).
+
+**Pourquoi rien n'est publié.** Les sources ne concordent pas : le marché de producteurs est donné le mercredi après-midi par une publication municipale de 2019, mais l'office de tourisme (mise à jour de mai 2026) renvoie à un marché de la place Marcel Cachin à quatre jours par semaine ; l'AMAP Le Panier Fontainois est donnée ouverte le mardi soir par une fiche et fermée par une autre fiche de l'office ; l'adresse de l'AMAP La Guinguette renvoie à une autre commune. Aucun magasin de producteurs à Fontaine n'apparaît sur une source vérifiable. Moins de cinq commerces vérifiables : rien n'est publié (règle 5 : aucun fait incertain).
+
+**Pistes non publiées (anonymes).** Isère, Fontaine : marché de producteurs (place Louis-Maisonnat ou Marcel-Cachin), **déblocage** = publication actuelle de la mairie donnant jour et horaires ; AMAP Le Panier Fontainois, **déblocage** = confirmation des horaires par l'AMAP ; AMAP La Guinguette, **déblocage** = adresse de la fiche corrigée. Fiches écartées pour doute sur une personne : trois, toutes à Fontaine (opérateurs à nom patronymique, entreprises individuelles), ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : la Loire (42) n'est plus éligible pour une passe qui suit la Loire ; l'Isère reprend à Fontaine si la mairie ou l'AMAP répond, sinon à la commune suivante par population sans fiche (Vienne et Fontaine sont sondées). Le classement se recalcule à la passe suivante, Hauts-de-France exclu tant que le Nord ou l'Oise n'ont pas été visés hors de cette région.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
