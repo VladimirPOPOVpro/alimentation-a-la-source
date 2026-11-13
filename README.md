@@ -52537,3 +52537,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Nord (59) à Lambersart ou Armentières seulement si la Ville publie un calendrier de marché ; sinon le Nord est épuisé pour la règle 41.d et la passe bascule sur l'Oise (60), puisque l'Auvergne-Rhône-Alpes est exclue par la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Seine-Saint-Denis (93) : Villepinte sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle », rien à traiter.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Dernière passe : Nord (Hauts-de-France), donc les Hauts-de-France sont exclus pour cette passe (règle 41.c). Déficits : Nord (59) ≈ 6,55 (épuisé), Haute-Garonne (31) ≈ 5,00 (épuisée), Rhône (69) ≈ 4,73 (descente jugée close), Isère (38) ≈ 4,60 (descente close), Seine-Saint-Denis (93) ≈ 4,59. Le 93 est retenu : c'est le premier département ouvert hors Hauts-de-France.
+
+**Commune, règle 41.d et descente.** Le 93 compte déjà treize communes éprouvées (Saint-Denis, Montreuil, Aubervilliers, Aulnay-sous-Bois, Noisy-le-Grand, Drancy, Bobigny, Épinay-sur-Seine, Sevran, Bondy, Rosny-sous-Bois, La Courneuve, Noisy-le-Sec), au-delà de la borne de douze de la règle 247. La commune suivante, Villepinte (41 470 hab.), est sondée cette passe.
+
+- Registre Agence Bio, Seine-Saint-Denis, 449 opérateurs lus (cinq pages de cent, pagination complète), filtrés sur Villepinte : une seule entrée ressemble à un point de vente de produits de la ferme (un potager à vente sur le Parc départemental du Sausset) ; les autres sont des sièges ou plateformes logistiques, des entreprises sans vente aux particuliers, ou une grande centrale d'achat.
+- Une piste unique ne fait pas une zone (règle 52) : rien n'est publié.
+
+**Pourquoi rien n'est publié.** Une seule piste vérifiable à Villepinte, sans second commerce ni source officielle de la commune qui la confirme. Aucune fiche ne sort.
+
+**Pistes non publiées (anonymes).** Villepinte, potager de vente au Parc du Sausset : **déblocage** = une source indépendante de l'exploitant (site ou annuaire), horaires et lieu de vente publiés, et deux autres commerces vérifiés sur la commune (règle 52).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : le 93 est à la borne de la règle 247 ; la descente change de département, et le classement se recalcule. La passe qui suit celle-ci ne peut pas viser l'Île-de-France (règle 41.c) : le premier département ouvert hors Île-de-France et Hauts-de-France est à reprendre sur le classement. Villepinte reste en piste si un second commerce se confirme.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
