@@ -52419,3 +52419,42 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Nord (59) reprise à Cambrai (31 134 habitants) : lire la page de la Ville (marchés) et la fiche du magasin Biocoop sur le site de l'enseigne. Si Cambrai ne rend pas cinq commerces vérifiables, descendre à Lambersart (27 090 habitants) ou Armentières (26 998), selon la règle 41.d. Ne pas revenir à l'Occitanie avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Haute-Garonne (31) : Balma et Castanet-Tolosan sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste `en_cours` (voir les passes précédentes). Aucune réponse par email.
+
+**Classement, règles 41, 41.c, 93, 177 et 224.** Dénominateur de toutes les communes métropolitaines (règle 224), 1 304 fiches comptées sur le code postal, outre-mer écarté (règles 93 et 177). Déficit calculé cette passe : Nord (59) ≈ 6,55 ; Haute-Garonne (31) ≈ 5,00 ; Rhône (69) ≈ 4,73 ; Isère (38) ≈ 4,60. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Le premier département restant est la **Haute-Garonne (31)**, Occitanie, qui n'a pas été visée à la passe précédente.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 31 sans fiche : Muret et Plaisance-du-Touch (sondées sans succès aux passes précédentes), puis **Balma (17 772 habitants)**, point d'arrêt de la passe précédente.
+
+**Balma (31130).**
+- Registre Agence Bio, Haute-Garonne, 2 844 opérateurs lus (pagination complète), filtrés sur Balma : aucun magasin bio de vente aux particuliers. Une exploitation agricole de Pin-Balma déclare la vente aux consommateurs, mais elle n'est pas retrouvée au registre des entreprises ni sur le web : écartée. Les autres entrées sont des grossistes, des grandes surfaces ou des structures sans vente au public.
+- Marché : une seule source, un annuaire tiers de marchés (jours-de-marche), qui donne le mercredi de 8h à 12h, avenue des Mimosas. Le site de la Ville n'a pas de page marchés lisible cette passe (404) : la règle 9 exige deux sources officielles. Non publié.
+- Biocoop : aucune enseigne Biocoop à Balma dans les listes lues ; celles qui apparaissent sont à Quint-Fonsegrives et à Saint-Jean. Rien.
+- Conclusion : aucune fiche solide, pas cinq commerces. Commune suivante.
+
+**Castanet-Tolosan (31320), descente de la règle 41.d.**
+- Registre Agence Bio, Haute-Garonne, filtré sur Castanet-Tolosan : une ferme déclarée en vente aux consommateurs, non retrouvée sur le web ; un lycée agricole vendant au public (vente le vendredi après-midi selon une source, non confirmée par le lycée) ; deux entrées de vente aux consommateurs au nom de personnes physiques.
+- Marché : une seule source tierce (jours-de-marche), mardi de 8h à 13h, centre-ville ; site de la Ville non lu cette passe (pas de réponse). Non publié.
+- Biocoop, 2 avenue du Lauragais (31320) : adresse confirmée par deux annuaires tiers (bible-marques, un annuaire de franchises). Les horaires publiés par bible-marques sont contredits par une recherche qui les attribue à d'autres magasins : horaires non publiés. Le registre donne un établissement « BIO CASTANET TOLOSAN » (code NAF 47.11B), sous un autre libellé que l'enseigne : rapprochement non fait. Une source franchise annonce aussi l'ouverture d'un magasin « Les Comptoirs de la Bio » à Castanet-Tolosan. **Contradiction consignée (règle 5 et règle 6)** : rien n'est publié tant que l'enseigne et le SIRET du point de vente ne se recoupent pas.
+- Conclusion : deux pistes solides en dehors des annuaires, mais pas cinq fiches vérifiables. Descente à Castanet-Tolosan arrêtée là, sans publication.
+
+**Pourquoi rien n'est publié.** Ni Balma ni Castanet-Tolosan ne rendent cinq commerces vérifiables à source indépendante lue cette passe. Une fiche isolée ne se publie pas, et aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Balma (31), marché du mercredi : une source tierce seule. **Déblocage** = page marchés de la Ville ou de l'office de tourisme.
+- Balma (31), exploitation agricole de Pin-Balma en vente aux consommateurs, non trouvée au registre des entreprises : **Déblocage** = site ou fiche de l'exploitation, et son SIRET.
+- Castanet-Tolosan (31), Biocoop 2 avenue du Lauragais : **Déblocage** = fiche de l'enseigne ou SIRET du franchisé, horaires du magasin, et explication du libellé « BIO CASTANET TOLOSAN » au registre.
+- Castanet-Tolosan (31), marché du mardi : une source tierce seule. **Déblocage** = page marchés de la Ville, à relire.
+- Castanet-Tolosan (31), ferme en vente aux consommateurs (registre Agence Bio), non retrouvée sur le web : **Déblocage** = site ou fiche de la ferme.
+- Castanet-Tolosan (31), lycée agricole d'Auzeville, vente au public : **Déblocage** = page du lycée ou de la halle où il vend.
+- Castanet-Tolosan (31), fromagerie fermière citée par une recherche web : non vérifiée. **Déblocage** = site du producteur ou fiche de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Une (Castanet-Tolosan) : entrée du registre Agence Bio au nom d'une personne physique en vente aux consommateurs. Non reprise, ne se rouvre pas.
+
+**Contradiction consignée (règle 5).** Biocoop Castanet-Tolosan : horaires et libellé du registre contradictoires entre sources (voir ci-dessus).
+
+**Point d'arrêt.** Passe suivante : la région de cette passe (Occitanie) est exclue par la règle 41.c, donc pas de reprise de la Haute-Garonne. Le classement se relit à la passe suivante ; Nord (Hauts-de-France) n'est pas consécutif à cette passe et peut revenir en tête, à Lambersart ou Armentières selon la règle 41.d. La Haute-Garonne reste ouverte, avec Castanet-Tolosan en piste pour les passes ultérieures.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
