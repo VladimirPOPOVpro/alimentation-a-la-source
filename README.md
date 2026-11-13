@@ -52575,3 +52575,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : le 93 est à la borne de la règle 247 ; la descente change de département, et le classement se recalcule. La passe qui suit celle-ci ne peut pas viser l'Île-de-France (règle 41.c) : le premier département ouvert hors Île-de-France et Hauts-de-France est à reprendre sur le classement. Villepinte reste en piste si un second commerce se confirme.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 13 novembre 2026 (Oise (60) reprise, Noyon sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle », aucune réponse par email. Rien à traiter ; la demande en doute sur une personne reste en_cours.
+
+**Classement, règles 41, 41.c, 177, 224 et 247.** Métropole seule (97x et 98x sortent du calcul, règle 177), dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Île-de-France (93) : cette région est close pour cette passe (règle 41.c). Déficits hors IDF : Nord (59, ≈ 4,47, épuisé), Haute-Garonne (31, ≈ 3,83, épuisée), Oise (60, ≈ 3,70), Loire (42, ≈ 3,64, éprouvée une dizaine de fois), Isère (38, ≈ 3,57, descente close), Haute-Corse (2B, ≈ 3,54, à recouper car ses fiches sont comptées sous « 20 »). L'Oise est retenue : sa descente est ouverte et n'a pas encore atteint la borne de douze communes.
+
+**Commune, règle 41.d et descente.** Dans l'Oise, les communes plus peuplées déjà éprouvées sont Beauvais, Compiègne, Creil, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Montataire et Méru ; la suivante par population est **Noyon (12 971 habitants)**.
+
+- Registre Agence Bio, Oise, 500 opérateurs lus (cinq pages de cent, pagination partielle sur 300+). Filtrés sur Noyon : une exploitation de vente aux particuliers, dont le nom est celui d'une personne physique (doute sur une personne, règle de `MODERATION.md`) ; des grossistes, transformateurs et sièges sans vente au public ; une enseigne de hard-discount hors circuit court.
+- Web : le site de la Ville (ville-noyon.fr) ne publie aucune page de marché ; une recherche sur les marchés de Noyon ne ramène qu'une fête médiévale annuelle (fruits rouges, premier week-end de juillet, sans horaires) et des annonces anciennes (2010-2011). Aucun marché de producteurs à horaires vérifiés.
+- Une structure intercommunale de vente, trouvée au registre, n'est pas un point de vente de commerce identifié : non retenue.
+
+**Pourquoi rien n'est publié.** Aucune source officielle ne décrit un marché ou un magasin de producteurs à Noyon, et une seule piste au registre est vendue au public sans nom propre utilisable. Moins de cinq commerces vérifiables : rien n'est publié (règles 5 et 248). Une exploitation à nom patronymique est écartée, elle ne se rouvre pas.
+
+**Pistes non publiées (anonymes).** Oise, Noyon : exploitation de vente directe au registre, **déblocage** = enseigne publiée par l'exploitant et source indépendante ; Oise, Noyon : aucun marché vérifié, **déblocage** = page marchés de la Ville donnant jours, horaires et lieu.
+
+**Fiches écartées pour doute sur une personne.** Une, Noyon (exploitation à nom patronymique), non reprise.
+
+**Contradictions** (règle 5) : aucune.
+
+**Point d'arrêt.** Les douze communes de la descente sont presque atteintes dans l'Oise : Noyon est la dernière éprouvée. La passe suivante ne vise pas les Hauts-de-France ni l'Île-de-France (règle 41.c : la passe précédente visait l'IDF, et l'Oise est la région du Nord reprise au classement). Le classement se recalcule ; la prochaine passe ne peut pas viser Provence-Alpes-Côte d'Azur (règle 248). Le département suivant hors ces régions est Loire ou Haute-Corse, à recouper au registre.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
