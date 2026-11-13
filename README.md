@@ -52393,6 +52393,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
 
+### Passe autonome du 13 novembre 2026 (Nord repris, Cambrai resondée) : aucune publication
+
+**Classement, règle 41.** Le département de plus grand déficit reste le Nord (59) ; l'outre-mer sort (validateur métropolitain). Seine-Saint-Denis non reprise (passe précédente).
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul restent sans fiche, déjà sondées ; Cambrai (31 134 habitants) est la commune suivante.
+
+**Ce qui a été lu.** Recherche web sur les marchés et les points de vente de Cambrai, puis sur le magasin Biocoop.
+- Marché : aucun calendrier officiel lu ; le seul arrêté trouvé date de 2024. Jour et horaires non vérifiés.
+- Deux points de vente de producteurs (ferme-magasin maraîchère, magasin de coopérative agricole) : horaires partiels, sources secondaires seulement. Non publiés.
+- Magasin bio spécialisé : deux sources donnent des horaires contradictoires (amplitude différente, dimanche ouvert ou fermé). Contradiction consignée (règle 5) ; fiche non publiée tant que l'horaire n'est pas confirmé auprès de l'enseigne.
+
+**Pourquoi rien n'est publié.** Cambrai ne rend pas cinq commerces vérifiables. Aucune photo honnête du lieu n'a été trouvée.
+
+**Point d'arrêt.** Passe suivante : relire la page marchés de la Ville de Cambrai et la fiche de l'enseigne bio sur son site ; si Cambrai reste sous cinq, descendre à Lambersart selon la règle de descente. Le Nord est sondé à chaque passe depuis le 5 octobre sans fiche publiée : la règle 41 mérite d'être relue par le responsable du site.
+
 ### Passe autonome du 13 novembre 2026 (Nord (59) visé, Cambrai sondée : rien publié)
 
 **Backlog.** Aucune demande « nouvelle », aucune en attente de réponse ; une demande reste `en_cours` (voir passes précédentes). Aucune réponse par email.
