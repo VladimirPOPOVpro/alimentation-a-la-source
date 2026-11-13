@@ -52687,3 +52687,29 @@ Douze communes éprouvées dans l'Oise : borne de la règle 247 atteinte. La pas
 **Point d'arrêt.** Haute-Garonne : la descente reprend à **Fonsorbes** (12 954 habitants), puis L'Union (12 638). La passe suivante ne vise pas les Hauts-de-France (règle 41.c) ; la Haute-Garonne reste le département visé tant que sa descente n'atteint pas la borne de douze communes (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 13 novembre 2026 (soirée, bis) : Savoie (73) visée, Aix-les-Bains sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177 et 224.** Métropole seule (97x et 98x écartés, règle 177), dénominateur national (règle 224), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente visait l'Occitanie : cette région est exclue (règle 41.c). Déficits retenus : Nord (59, ≈ 4,47) et Oise (60, ≈ 3,69) closes (règle 247) ; Haute-Garonne (31, ≈ 3,83) exclue par la règle 41.c ; Loire (42, ≈ 3,64) et Isère (38, ≈ 3,57) déjà passées ou en descente close. **Savoie (73, ≈ 3,48)** est le premier département éligible.
+
+**Commune, règle 41.d.** Chambéry, Cognin et la commune centre portent déjà des fiches. La plus peuplée sans fiche est **Aix-les-Bains** (32 406 habitants).
+- Registre Agence Bio, Savoie, 100 premiers opérateurs lus : deux entrées de vente aux particuliers à Aix-les-Bains et Grésy-sur-Aix ; l'une est une grande surface (code NAF de supermarché, écartée par MODERATION.md), l'autre est exploitée par une personne physique (doute sur une personne, écartée, non reprise). Les autres opérateurs locaux sont des grossistes, préparateurs ou sans vente au public.
+- Registre des entreprises : l'entité de la grande surface est active, mais elle n'entre pas dans le périmètre (commerce généraliste).
+- Site officiel de la Ville (aixlesbains.fr) : la page d'accueil ne donne aucun contenu lisible sur les marchés ; le site de la Ville annoncé par l'annuaire n'a pas répondu. Aucune page de marché vérifiée.
+- Bienvenue à la Ferme : la recherche par nom de commune n'a rien rendu.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante ne décrit un marché ou un point de vente de producteurs vérifiable à Aix-les-Bains, et moins de cinq commerces ont pu être vérifiés : rien ne se publie (règles 5 et 248).
+
+**Pistes non publiées (anonymes).**
+- Savoie, Aix-les-Bains : marché communal non documenté par la Ville ; **déblocage** = page marchés de la Ville donnant jours, horaires et lieu.
+- Savoie, Aix-les-Bains : exploitation de vente directe signalée au registre, sans enseigne publiée ; **déblocage** = enseigne publiée par l'exploitant et source indépendante.
+
+**Fiches écartées pour doute sur une personne.** Une, Savoie (exploitation à nom patronymique), non reprise.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Passe suivante.** Ne pas viser l'Auvergne-Rhône-Alpes (règle 41.c : la Savoie était la passe présente). Le classement se recalcule ; Aix-les-Bains reste en tête de la descente savoyarde, à reprendre.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
