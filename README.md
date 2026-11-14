@@ -53150,3 +53150,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Pistes non publiées** (anonymes) : Saint-Orens-de-Gameville, marché de plein vent du samedi, horaires et producteurs à confirmer auprès de la mairie ; Ramonville-Saint-Agne, épicerie bio de 2015, activité à confirmer au registre ; Fonsorbes, producteur en vente directe du vendredi, lieu à établir.
 
 **Point d'arrêt.** Haute-Garonne reste ouverte pour une passe ultérieure, à condition de s'appuyer sur la mairie de Saint-Orens (marché) et sur le registre pour les producteurs. Passe suivante : ne pas revenir sur Haute-Garonne avant une autre région, par la règle de non-répétition.
+
+### Passe autonome du 14 novembre 2026 (après-midi, Nord (59) reprise, registre Agence Bio relu commune par commune : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). Passe de couverture (mode 2).
+
+**Classement, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31) : la non-répétition écarte donc ce département. Le déficit le plus fort restant est le Nord (59, ≈ 4,5 fiches de retard, 45 fiches publiées).
+
+**Commune, règle 41.d.** Wattrelos (40 847 hab.) est la plus peuplée sans fiche ; elle a déjà été sondée à plusieurs passes sans cinq commerces vérifiables, et aucune source nouvelle n'a été trouvée. Descente par population : Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul et Coudekerque-Branche ont déjà été sondées.
+
+**Ce qui a été lu.** Le registre Agence Bio du département 59 (six pages de cent, 600 opérateurs) a été compté par commune. Il est très bruité : la plupart des entrées sont des grandes surfaces (Carrefour City, Carrefour Market), des boulangeries, des grossistes ou des entrepôts. Pour les communes encore ouvertes :
+- Coudekerque-Branche : une seule entrée de détail en fruits et légumes bio, sans site officiel ni fiche vérifiée ; le reste relève de grandes surfaces. Une seule entrée ne fait pas une commune.
+- Cambrai : quelques entrées de détail (un magasin bio, une boutique bio franchisée, une boulangerie, une fiche de producteur inscrite sous un nom de particulier). Aucune ne rend cinq points vérifiables.
+- Lambersart et Wasquehal : entrées de préparation, de grossistes ou de grandes surfaces, pas de point de vente en circuit court.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces de circuit court vérifiables auprès d'une source indépendante. Le registre donne des noms et des adresses, pas l'activité réelle ni les horaires : sans site ni fiche de la commune, un fait publié serait une supposition. Aucun fait incertain n'est publié.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Pistes non publiées (anonymes).**
+- Coudekerque-Branche (59), fruits et légumes bio, registre Agence Bio : **déblocage** = site ou page de la boutique, horaires vérifiés.
+- Cambrai (59), magasin bio indépendant du registre : **déblocage** = site et horaires vérifiés ; à reprendre avec un quatrième point.
+
+**Fiches écartées pour doute sur une personne.** Une (Cambrai, 59) : producteur inscrit au registre sous un nom de particulier. Non nommé, ne se rouvre pas.
+
+**Point d'arrêt.** Nord (59) : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul et Coudekerque-Branche ne sont pas à reprendre sans source nouvelle. Passe suivante : changer de département. Le déficit suivant hors Haute-Garonne est l'Oise (60) ; la règle de non-répétition impose de ne pas y revenir si elle a été visée à la passe précédente (ce n'est pas le cas ici).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
