@@ -53027,3 +53027,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Haute-Corse épuisée (règle 247, douze communes). Passe suivante : relire le classement (règle 41) ; la Corse est de nouveau ouverte pour une passe qui ne suit pas une passe corse. Le marché couvert de L'Île-Rousse reste à reprendre si une source 2026 de la commune ou de l'office tranche l'horaire.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (matin, Rhône (69) reprise à Rillieux-la-Pape : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 247 et 248.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Corse : la Corse est exclue (règle 41.c). En tête du classement : Nord (59, déficit ≈ 6,55), épuisé (borne de la règle 247 atteinte, point d'arrêt du 13 novembre) ; Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93), Oise (60) : descentes déjà éprouvées ou closes. Le point d'arrêt de la passe du 12 novembre désignait le Rhône, repris ici.
+
+**Commune, règle 41.d.** Rillieux-la-Pape (31 389 habitants), point d'arrêt du 12 novembre : relecture des sources, sans nouvelle piste fiable.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés de Rillieux-la-Pape : le marché des Alagniers (place du Marché) apparaît mercredi et dimanche, 8h-13h, avec une zone bio. Sa seule source datée est la fiche Visiter Lyon, dont la mise à jour est de février 2018 ; le site de la Ville (rillieuxlapape.fr) n'a pas été atteint dans cette recherche. Le marché de Crépieux (samedi) et le marché des Semailles sont généralistes, sans producteurs identifiés. Un annuaire participatif recense cinq marchés, dont il ne faut pas tirer de fait sans source de la commune.
+- Guide bio local du Grand Lyon (édition 2024) : fichier PDF compressé, non lisible par l'outil de lecture ; rien n'en a été tiré.
+- Que Choisir (carte des magasins de producteurs) : aucune fiche de magasin de producteurs à Rillieux-la-Pape dans les résultats ; une épicerie-boucherie y est signalée « fermée » en 2025, sans confirmation de cessation : non reprise.
+- Registre Agence Bio, Rhône : première page consultée, aucun opérateur de Rillieux-la-Pape retenu (entreprises individuelles identifiées par leur patronyme ; règle sur les personnes privées).
+
+**Pourquoi rien n'est publié.** Une seule source datée et partiellement fiable (un marché, horaires de 2018) ne rend pas cinq commerces vérifiés à deux sources (règles 52 et 248). Une fiche isolée ou partielle n'est pas ajoutée.
+
+**Pistes non publiées (anonymes).**
+- Rillieux-la-Pape : marché des Alagniers (mercredi et dimanche, 8h-13h, zone bio) : **déblocage** = horaires et liste d'étals publiés par la Ville ou par le marché, daté de 2026.
+- Rillieux-la-Pape : maraîcher et brasserie bio déjà consignés ; **déblocage** = site propre au commerce et entrée active au registre.
+- Rillieux-la-Pape : épicerie-boucherie signalée fermée en 2025 : **déblocage** = confirmation de l'état actuel.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio du Rhône en entreprise individuelle, identifiées par leur patronyme seul ; nombre non détaillé, aucune nommée, aucune ne se rouvre.
+
+**Contradictions** (règle 5) : aucune retenue. Les dates de l'annuaire participatif et de la fiche touristique ne concordent pas ; rien n'est publié sur cette base.
+
+**Point d'arrêt.** Passe suivante : ouvrir le site officiel de la Ville de Rillieux-la-Pape (rubrique marchés) avant toute recherche web. Si la commune ne rend pas cinq fiches vérifiées, appliquer la règle 247 : Rhône à la descente suivante par population, sans refaire le criblage de Rillieux ; la Corse reste exclue tant que la passe suivante suit une passe corse. Nord, Haute-Garonne, Oise et Seine-Saint-Denis ne sont pas à reprendre sans source nouvelle (règle 247).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
