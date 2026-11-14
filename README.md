@@ -53472,3 +53472,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Hérault : Castelnau-le-Lez sondée (une fiche solide sur quatre nécessaires). Descente hors des communes déjà instruites à reprendre dans l'ordre de population. Passe suivante, hors Île-de-France (règle 41.c) : Ille-et-Vilaine (35) ou Eure-et-Loir (28), en vérifiant la règle 41.c, ou Hérault à la commune suivante (Lattes, 17 351 habitants) si la descente reste ouverte.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Seine-Saint-Denis (93) reprise, Le Blanc-Mesnil sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Hérault (Occitanie) : cette région est exclue pour cette passe (règle 41.c). Nord, Haute-Garonne, Rhône, Isère, Oise, Loire et Val-de-Marne sont épuisés ou clos. Le déficit le plus grand restant est la Seine-Saint-Denis (93), ≈ 4,59, devant les Yvelines (≈ 4,27) et l'Ille-et-Vilaine (≈ 4,09). La descente du 93 n'est pas close (trois communes éprouvées sur douze à la passe du 14 novembre) : elle reprend à la commune suivante.
+
+**Commune, règles 41.d et 247.** La commune la plus peuplée du 93 restant à éprouver est **Le Blanc-Mesnil (62 376 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Saint-Denis : 450 opérateurs lus. Six entrées déclarent Le Blanc-Mesnil ; toutes sont des enseignes de grande distribution, un grossiste ou une société sans vente aux particuliers. Aucun producteur en vente directe.
+- Recherche web : le site de la Ville publie trois marchés alimentaires (centre, Casanova, Tilleuls), dont les jours et horaires (8h-13h) sont donnés sur une page municipale ; ils ne décrivent pas les producteurs présents. Un salon des producteurs locaux à la Ferme Notre-Dame existe (éditions 2024 et 2025, date 2026 non trouvée). L'annuaire Jours de Marché n'indique aucun producteur dans la commune.
+
+**Pourquoi rien n'est publié.** Le Blanc-Mesnil rend trois points de marché, sans produits précis ni producteurs nommés, et un salon annuel dont la date 2026 n'est pas confirmée : en dessous du seuil de cinq commerces vérifiés (règle 52). Aucune fiche n'est publiée, aucun géocodage ni photo n'est prélevé.
+
+**Pistes non publiées (anonymes).**
+- Le Blanc-Mesnil, marchés de la Ville (centre, Casanova, Tilleuls) : **déblocage** = liste des producteurs présents ou de leurs produits, publiée par la Ville ou par les marchés.
+- Le Blanc-Mesnil, salon des producteurs locaux de la Ferme Notre-Dame : **déblocage** = date 2026 confirmée par la Ville, et liste des exposants producteurs.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune cette passe.
+
+**Points d'arrêt.** Seine-Saint-Denis : descente à quatre communes éprouvées sur douze (Noisy-le-Grand, Bobigny, Drancy, Aulnay-sous-Bois) et Le Blanc-Mesnil, soit cinq. La passe suivante ne peut pas viser le 93 (règle 41.c : deux passes de suite interdites dans une même région). Elle doit viser une autre région, par exemple l'Ille-et-Vilaine (35) ou les Yvelines (78) — les Yvelines sont en Île-de-France et donc aussi exclues —, en appliquant la règle 41 à la lettre.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
