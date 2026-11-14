@@ -53309,3 +53309,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Seine-Saint-Denis : Drancy sondée, à reprendre seulement sur un déblocage nommé ci-dessus. Passe suivante : Noisy-le-Grand (≈ 64 000 habitants) puis Bobigny, en vérifiant d'abord la règle 41.c. Le département reste ouvert, la descente n'est pas close (une commune éprouvée sur douze).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Loire (42) reprise, Firminy sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0) ; aucun message envoyé. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : la réserve 41.c exclut cette région pour cette passe. Nord, Haute-Garonne, Rhône et Oise sont closes (règle 247). Restent les départements à déficit supérieur ou voisin, dont la Loire (42, Auvergne-Rhône-Alpes, déficit ≈ 3,6) : c'est le premier département admis, et sa descente n'est pas close.
+
+**Commune, règles 41.d et 247.** Saint-Étienne et Saint-Chamond ont déjà des fiches ; Roanne (35 409 habitants) a été sondée au registre et sur le web lors de la passe du 12 novembre, sans zone de cinq. La descente reprend à la commune suivante par population sans fiche : **Firminy** (17 060 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Loire, 400 opérateurs lus (quatre pages de cent). Sur Firminy : cinq entrées, dont une grande surface, une distribution, une préparation sans vente au public, une société de production en gros et une entrée de personne physique (écartée, règle des personnes, anonyme). Aucune entrée de vente aux particuliers exploitable.
+- Recherche web sur Firminy : aucun marché de producteurs ni point de vente en circuit court daté et sourcé par la Ville ou un office de tourisme. Une carte nationale de circuits courts n'a aucune entrée à Firminy ; une annuaire de producteurs du Pilat (2025) mentionne un producteur qui vend dans un magasin bio de réseau de la commune, sans que le magasin soit lui-même un point de producteurs.
+
+**Pourquoi rien n'est publié.** Firminy n'offre qu'un magasin bio de réseau, qui ne forme pas cinq commerces de circuit court vérifiables, et une fiche isolée n'est pas une zone (règle 52). Aucun fait incertain n'est publié, aucun géocodage ni photo n'est prélevé pour une fiche non retenue.
+
+**Pistes non publiées (anonymes).**
+- Firminy, magasin bio de réseau (centre-ville) : **déblocage** = horaires et produits confirmés sur la page du magasin, avec au moins deux producteurs locaux nommés par une source indépendante ; sinon hors périmètre tant qu'il ne forme pas de zone.
+- Firminy, marché : aucun jour ni producteur vérifiable ; **déblocage** = calendrier publié par la Ville.
+- Firminy, opérateur du registre en vente aux particuliers sous nom de personne physique : **doute sur une personne**, écarté, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une (Firminy, Loire), anonyme, ne se rouvre pas.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Point d'arrêt.** Loire : descente à deux communes éprouvées sur douze (Roanne, Firminy). Passe suivante dans la Loire : **Montbrison** (16 123 habitants), commune suivante par population sans fiche. Le département ne change pas tant que la descente n'est pas close (règle 247). Région suivante : pas Auvergne-Rhône-Alpes pour une passe qui suit celle-ci si la descente est close ; sinon la Loire reste admise (règle 41.c ne vise que la passe précédente).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
