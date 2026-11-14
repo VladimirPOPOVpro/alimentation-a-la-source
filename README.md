@@ -53415,3 +53415,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Vienne : Saint-Benoît éprouvée (un point solide, un marché sans jour). Descente à cinq communes éprouvées sur douze. Passe suivante dans la Vienne : Loudun (6 839 habitants), en vérifiant la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Seine-Saint-Denis (93) reprise, Aulnay-sous-Bois sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Vienne (Nouvelle-Aquitaine) : la réserve 41.c exclut cette région. Nord, Haute-Garonne, Rhône, Oise, Isère et Loire sont closes (descentes épuisées). Le déficit le plus grand hors régions closes est la Seine-Saint-Denis (93, ≈ 4,6), en Île-de-France, qui n'a pas été visée à la passe précédente : la réserve est respectée. **Contradiction consignée (règle 5)** : le compte rendu précédent annonçait « Loudun, dans la Vienne » pour la passe suivante ; cela violerait la réserve 41.c, qui interdit deux passes de suite dans la même région. Tranché ainsi : la Vienne n'est pas revisitée à la passe suivante.
+
+**Commune, règles 41.d et 247.** Saint-Denis, Montreuil, Aubervilliers, Pantin, Saint-Ouen-sur-Seine et Livry-Gargan ont déjà des fiches. Noisy-le-Grand (un point solide) et Bobigny (zéro) puis Drancy, déjà sondées, restent dans la descente. La commune suivante par population sans fiche est **Aulnay-sous-Bois (87 599 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Saint-Denis : 450 opérateurs lus sur les pages disponibles. Une dizaine d'établissements déclarent Aulnay-sous-Bois ; la plupart sont des boulangeries, grossistes ou entrepôts sans vente au public. Seuls deux se déclarent en vente aux particuliers, sans enseigne ni horaires vérifiables.
+- Recherche web : un marché couvert (« Marché de la Gare », boulevard du Général-Gallieni) est présenté comme ayant un « carré des producteurs » depuis 2023, une dizaine d'agriculteurs de Seine-et-Marne. Aucun jour, aucun horaire ni liste de produits n'a été trouvé sur une source officielle. Une annonce de marché place de l'Église est recensée sans jour ni horaire.
+- Le registre des entreprises répond pour une enseigne bio et des commerces alimentaires d'Aulnay ; leur activité n'a pas été confirmée par une source indépendante ni par les horaires.
+- Le site de la Ville n'a pas été lu de façon exploitable (aucune liste de marchés avec jours et horaires trouvée).
+
+**Pourquoi rien n'est publié.** Aulnay-sous-Bois ne rend pas cinq commerces vérifiables (règle 52) : un marché sans jour ni horaire, une enseigne bio sans horaires confirmés, des entrepôts. Aucune fiche n'est publiée, aucun géocodage ni photo n'est prélevé.
+
+**Pistes non publiées (anonymes).**
+- Aulnay-sous-Bois, marché couvert du boulevard du Général-Gallieni (carré des producteurs) : **déblocage** = jours et horaires publiés par la Ville ou par le marché, et liste des producteurs présents.
+- Aulnay-sous-Bois, enseigne bio du registre (vente aux particuliers) : **déblocage** = horaires et adresse confirmés par le commerce ou une source indépendante.
+- Aulnay-sous-Bois, annonce de marché place de l'Église : **déblocage** = jour et horaires publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Seine-Saint-Denis : descente à trois communes éprouvées sur douze (Noisy-le-Grand, Bobigny, Drancy) et Aulnay-sous-Bois, soit quatre. Passe suivante dans le 93 : Le Blanc-Mesnil (62 376 habitants), commune suivante par population sans fiche, en vérifiant d'abord la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
