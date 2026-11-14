@@ -52897,3 +52897,23 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Isère (38), commune Vienne, descente en cours : Vienne reprend avec les trois points solides et la piste de Estrablin ou de Seyssuel, à condition de rester dans la même agglomération (Vienne Condrieu Agglomération) et sous les 5 km. Si Vienne ne rend pas quatre points, la descente continue à **Voiron** (21 847 habitants, sans fiche), puisque Fontaine est éprouvée. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes deux fois de suite ; il faudra regarder la règle 41.c avant de choisir, car l'Isère est ici la région de la passe présente. Le classement se recalcule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (soir, Haute-Corse (2B) visée, descente non achevée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. La passe précédente visait l'Isère (Auvergne-Rhône-Alpes) : cette région est exclue (règle 41.c). Haute-Corse (2B) retenue : Corse, région non visée la veille, zéro fiche publiée en Haute-Corse au moment du calcul hors les trois fiches de Bastia et de Furiani.
+
+**Commune, règle 41.d.** La descente Haute-Corse déjà éprouvée (Bastia, Corte, Borgo, Biguglia, Furiani, Lucciana, Calvi, Ghisonaccia, Prunelli-di-Fiumorbo, Penta-di-Casinca, Vescovato) est reprise là où elle s'était arrêtée : aucune nouvelle commune n'a été relue cette passe, faute de temps de recherche suffisant.
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Corse, première page (100 opérateurs) : la majorité des entrées sont des exploitants en entreprise individuelle identifiés par leur patronyme, sans enseigne distincte. Ces entrées ne sont pas reprises (règle sur les personnes privées) ; aucune n'a été convertie en fiche. Aucun commerce vérifié à deux sources n'a été retenu.
+
+**Décision.** Rien n'est publié : aucune commune n'atteint cinq commerces vérifiés, et aucune fiche isolée ou partielle n'est ajoutée.
+
+**Pistes non publiées (anonymes).** Haute-Corse : plusieurs exploitants en entreprise individuelle figurant au registre Agence Bio (communes de la côte orientale et de la Balagne) ; **déblocage** = enseigne publique distincte du patronyme, site ou page du commerce, et deux sources indépendantes.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio de Haute-Corse, à cause du patronyme seul ; nombre non détaillé, aucune nommée.
+
+**Point d'arrêt.** Passe suivante : reprendre la descente Haute-Corse à la commune suivante par population au-delà de Vescovato, en relisant d'abord le classement pour éviter la Corse si la réserve de la règle 41.c l'exige.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
