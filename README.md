@@ -53390,3 +53390,28 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Seine-Saint-Denis : Noisy-le-Grand (un point) puis Bobigny (zéro) éprouvées, descente à deux communes sur douze. Passe suivante dans le 93 : commune limitrophe de Noisy-le-Grand de la même intercommunalité (Villiers-sur-Marne ou Champigny-sur-Marne, à confirmer dans la même intercommunalité, règle 52), en vérifiant d'abord la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Vienne (86) reprise, Saint-Benoît sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Île-de-France (93) : la région est exclue (règle 41.c). Nord, Haute-Garonne, Rhône, Oise et Isère sont épuisés ou clos. **Contradiction consignée (règle 5)** : la Loire (42) est donnée « descente ouverte, trois communes sur douze » dans la dernière passe, alors que des passes antérieures de cette note l'indiquent au-delà de la borne de douze communes (Rive-de-Gier, Le Chambon-Feugerolles, Riorges, Andrézieux-Bouthéon, Feurs, Veauche déjà éprouvées). Tranché ainsi : on suit la borne la plus conservatrice, la Loire est close. Vienne (86, déficit ≈ 3,3) devient le premier département éligible, sa descente étant ouverte à quatre communes éprouvées sur douze.
+
+**Commune, règle 41.d.** Poitiers, Buxerolles, Châtellerault, Chauvigny et Jaunay-Marigny sont déjà éprouvées ou fichées. La commune suivante par population sans fiche est **Saint-Benoît (7 375 habitants)**, dans le Grand Poitiers.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Vienne (86), 400 opérateurs lus sur 1 124. Un seul établissement cité à Saint-Benoît : une enseigne de magasin bio avec vente au public (avenue du 11-Novembre). Les horaires ne sont confirmés que par un annuaire tiers.
+- Recherche web : une seconde enseigne bio de Saint-Benoît (réseau national), sans horaires ni produits vérifiés. Une annonce de marché sur la place du 8-Mai est recensée, sans jour ni horaire lisibles. La mairie n'a pas de page de marché hebdomadaire ni de liste de producteurs accessible.
+- Aucun producteur en circuit court identifié à Saint-Benoît même ; les points de vente à la ferme trouvés sont dans d'autres communes.
+
+**Pourquoi rien n'est publié.** Saint-Benoît rend un commerce bio enregistré et un marché sans jour vérifié : moins de quatre points solides (règle 52). Aucune fiche n'est publiée, aucun géocodage ni photo n'est prélevé.
+
+**Pistes non publiées (anonymes).**
+- Saint-Benoît, magasin bio de l'avenue du 11-Novembre : **déblocage** = horaires confirmés par le commerce ou par une source indépendante, et produits listés.
+- Saint-Benoît, marché de la place du 8-Mai : **déblocage** = jour et horaires publiés par la Ville ou par le Grand Poitiers.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Points d'arrêt.** Vienne : Saint-Benoît éprouvée (un point solide, un marché sans jour). Descente à cinq communes éprouvées sur douze. Passe suivante dans la Vienne : Loudun (6 839 habitants), en vérifiant la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
