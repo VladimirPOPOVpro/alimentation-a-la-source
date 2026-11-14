@@ -53282,3 +53282,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Vienne, passe suivante : Jaunay-Marigny reste éprouvée. Reprendre à Chauvigny seulement si la Ville publie la liste des producteurs du samedi, ou si le magasin confirme ses horaires sur un site à lui. Descente à douze communes : quatre éprouvées, huit restantes ; au-delà, la passe change de département.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, les images et le code ne sont pas touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Seine-Saint-Denis (93) visée, Drancy sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). Une demande reste en_cours, sans action : doute sur une personne, rien n'est publié. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Vienne (Nouvelle-Aquitaine) : la réserve 41.c ne ferme que cette région. Nord, Haute-Garonne, Rhône et Oise sont closes (règle 247). La Seine-Saint-Denis (93, Île-de-France, déficit ≈ 4,3) est donc le premier département éligible.
+
+**Descente, commune par commune.** Communes déjà éprouvées dans le 93 : Aulnay-sous-Bois, Montreuil, Saint-Denis, Aubervilliers, Pantin, Villepinte. Suivante par population sans fiche : Drancy (≈ 72 000 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Saint-Denis, 450 opérateurs lus (cinq pages de cent), filtrés sur Drancy, Noisy-le-Grand, Bobigny, Bondy, Rosny-sous-Bois, Sevran, Épinay et Neuilly-sur-Marne. Une très grande majorité d'entrées sont des grandes surfaces, des entrepôts, des grossistes ou des structures de transformation. Quelques entrées de détail (boulangerie, magasin bio, épicerie) n'ont ni site vérifié ni horaires. Plusieurs entrées de vente aux particuliers portent un nom de personne physique : écartées (règle des personnes).
+- Web, Drancy : la Ville signale un marché des Quatre Routes (mardi, vendredi, dimanche matin, halle rénovée), sans liste de producteurs ni produits bio datés. Une épicerie bio du boulevard Henri-Barbusse est citée par un agrégateur, sans site officiel lu ni horaires confirmés.
+
+**Pourquoi rien n'est publié.** Drancy n'offre qu'un marché généraliste sans producteurs identifiés et une épicerie non vérifiée à la source. Aucune commune ne rend cinq commerces de circuit court vérifiables auprès d'une source indépendante, ni même un point de départ solide. Aucun fait incertain n'est publié, aucun géocodage ni photo n'est prélevé pour une fiche non retenue.
+
+**Pistes non publiées (anonymes).**
+- Drancy, marché des Quatre Routes : **déblocage** = liste des producteurs ou des étals bio publiée par la Ville, et jours confirmés par une seconde source.
+- Drancy, épicerie bio de l'avenue Henri-Barbusse : **déblocage** = site ou page du commerce lu, horaires confirmés, produits listés.
+- Noisy-le-Grand, magasin bio du registre dont l'enseigne est un nom patronymique : **doute sur une personne**, écartée, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Deux dans le 93 (entrées de vente aux particuliers au nom de personnes physiques), anonymes, ne se rouvrent pas.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Point d'arrêt.** Seine-Saint-Denis : Drancy sondée, à reprendre seulement sur un déblocage nommé ci-dessus. Passe suivante : Noisy-le-Grand (≈ 64 000 habitants) puis Bobigny, en vérifiant d'abord la règle 41.c. Le département reste ouvert, la descente n'est pas close (une commune éprouvée sur douze).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
