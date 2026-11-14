@@ -53360,3 +53360,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Loire : descente à trois communes éprouvées sur douze (Roanne, Firminy, Montbrison). Passe suivante dans la Loire : Saint-Chamond est déjà fichée ; la commune suivante par population sans fiche sera reprise par la règle 41.d.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Seine-Saint-Denis (93) reprise, Noisy-le-Grand et Bobigny sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0) ; la demande en_cours reste sans action (doute sur une personne, rien n'est publié). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : la réserve 41.c l'exclut. Nord, Haute-Garonne, Rhône et Oise sont closes (règle 247). Le premier département éligible est la Seine-Saint-Denis (93, déficit ≈ 4,6), dont la descente reprend : une commune éprouvée sur douze à la passe du 13 novembre (Drancy),  (Drancy, sondée à une passe précédente).
+
+**Commune, règles 41.d et 52.** Noisy-le-Grand (≈ 64 000 habitants) est la commune la plus peuplée de la Seine-Saint-Denis sans aucune fiche.
+
+**Ce qui a été vérifié à Noisy-le-Grand.**
+- Un commerce solide : une épicerie bio et vrac du centre-ville (rue Pierre-Brossolette). Vérifiée par son propre site (adresse, téléphone publié pour la clientèle, horaires du mardi au samedi de 10h à 19h30, dimanche matin, arrivages de fruits et légumes bio les mardi, jeudi et samedi), par le registre de l'Agence Bio, et par la fiche Google du commerce. Aucune photo prélevée à ce stade.
+- Registre Agence Bio, Noisy-le-Grand : la plupart des entrées sont des grossistes, des boulangeries sans vente au détail, des supermarchés certifiés ou des sièges sociaux, à écarter selon `MODERATION.md`.
+- Un marché du centre-ville (halle) existe sur plusieurs fiches de tiers, mais aucun jour ni liste de producteurs n'a pu être lu sur le site de la Ville ou sur une source indépendante : pas de fiche.
+- Un primeur bio se présente comme installé à Noisy-le-Grand (fiche Google, annuaires), sans site propre listant le point de vente : non publié.
+
+**Pistes non publiées (anonymes).**
+- Noisy-le-Grand, AMAP : le lieu de distribution est au domicile d'un particulier. Adresse et contacts personnels **non publiés** ; un point de distribution public ne semble pas exister. Écartée pour doute sur une personne ; ne se rouvre pas.
+- Noisy-le-Grand, marché centre-ville : **déblocage** = jours et producteurs publiés par la Ville ou un site du marché.
+- Noisy-le-Grand, primeur bio : **déblocage** = site ou page du commerce qui confirme le point de vente et les horaires.
+- Bobigny : registre Agence Bio et recherche web, aucun point de vente en circuit court vérifiable ; un site de ferme urbaine est recensé dans l'agenda local, sans vente au public vérifiée.
+
+**Fiches écartées pour doute sur une personne.** Une (Noisy-le-Grand, un petit commerce dont l'enseigne reprend un patronyme), écartée sans être lue plus avant.
+
+**Pourquoi rien n'est publié.** Noisy-le-Grand rend une fiche vérifiée, pas quatre (règle 52) ; une fiche isolée ne forme pas une zone (groupement d'une passe). Bobigny ne rend aucune fiche solide. La descente reste ouverte : deux communes éprouvées sur douze en Seine-Saint-Denis. La fiche de l'épicerie bio est prête et sera reprise dès que la zone atteint quatre points, à Noisy-le-Grand ou sur une commune limitrophe de la même intercommunalité.
+
+**Contradictions (règle 5).** Aucune cette passe.
+
+**Point d'arrêt.** Seine-Saint-Denis : Noisy-le-Grand (un point) puis Bobigny (zéro) éprouvées, descente à deux communes sur douze. Passe suivante dans le 93 : commune limitrophe de Noisy-le-Grand de la même intercommunalité (Villiers-sur-Marne ou Champigny-sur-Marne, à confirmer dans la même intercommunalité, règle 52), en vérifiant d'abord la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
