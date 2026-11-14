@@ -53136,3 +53136,17 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Nord (59) : ne pas revenir sur Wattrelos, Marcq-en-Barœul, Haubourdin ni Wattignies sans nouvelle source. Passe suivante : Coudekerque-Branche, relecture de la source de la Ville pour le lieu du marché. Si le Nord reste sans commune vérifiable, passer au déficit suivant hors Île-de-France (Haute-Garonne et Oise sont déjà listées comme épuisées ou closes ; l'Ille-et-Vilaine et l'Eure-et-Loir restent à sonder).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Haute-Garonne, Saint-Orens, Ramonville et Fonsorbes sondées) : aucune publication
+
+**Classement, règle 41.** Métropole seule. Le Nord (59), visé à la passe précédente, est exclu par la règle de non-répétition ; le département suivant de plus grand déficit est la Haute-Garonne (31).
+
+**Commune, règle 41.d.** Blagnac, Muret, Plaisance-du-Touch, Balma et Castanet-Tolosan ont déjà été sondées sans cinq commerces vérifiables. Passe sur les communes suivantes par population : Saint-Orens-de-Gameville (14 646 hab.), Ramonville-Saint-Agne (15 158 hab.), Fonsorbes (12 954 hab.).
+
+**Ce qui a été lu.** Recherches web sur les marchés et les magasins de producteurs de ces trois communes. Saint-Orens : un marché de plein vent le samedi matin, mais seule une page d'agenda métropolitaine le donne, sans liste de producteurs. Ramonville : une Biocoop et une épicerie bio, dont la fiche date de 2015 ; aucun marché identifié. Fonsorbes : un marché gourmand nocturne, événement unique de juillet 2026 ; aucun marché hebdomadaire trouvé.
+
+**Pourquoi rien n'est publié.** Aucune de ces communes ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Les biocoops et les magasins déjà présents dans le réseau national ne sont pas des fiches de circuit court. Les horaires de marché sont trop peu sourcés pour un fait publié.
+
+**Pistes non publiées** (anonymes) : Saint-Orens-de-Gameville, marché de plein vent du samedi, horaires et producteurs à confirmer auprès de la mairie ; Ramonville-Saint-Agne, épicerie bio de 2015, activité à confirmer au registre ; Fonsorbes, producteur en vente directe du vendredi, lieu à établir.
+
+**Point d'arrêt.** Haute-Garonne reste ouverte pour une passe ultérieure, à condition de s'appuyer sur la mairie de Saint-Orens (marché) et sur le registre pour les producteurs. Passe suivante : ne pas revenir sur Haute-Garonne avant une autre région, par la règle de non-répétition.
