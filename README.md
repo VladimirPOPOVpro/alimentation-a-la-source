@@ -52917,3 +52917,17 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante : reprendre la descente Haute-Corse à la commune suivante par population au-delà de Vescovato, en relisant d'abord le classement pour éviter la Corse si la réserve de la règle 41.c l'exige.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (nuit, Isère (38) sondée au registre Agence Bio : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). Demande n° 13 toujours en_cours, sans action.
+
+**Classement, règles 41, 41.c et 177.** Métropole seule, 1 304 fiches. La passe précédente visait la Haute-Corse : la Corse est exclue par la règle 41.c. En tête du classement métropolitain : Nord (59), déjà épuisé en descente les jours précédents, puis Haute-Garonne (31) et Oise (60), eux aussi repris à plusieurs reprises. Les départements d'outre-mer sortent du calcul (règle 177).
+
+**Ce qui a été lu.** Registre Agence Bio, Isère, première page (100 opérateurs) : les villes répétées (Grenoble, Vienne, Les Abrets-en-Dauphiné, Échirolles, Tullins) regroupent surtout des exploitants en entreprise individuelle identifiés par leur patronyme, sans enseigne distincte. Ces entrées ne sont pas reprises. Aucune commune ne rend cinq commerces vérifiés à deux sources indépendantes dans le temps de cette passe.
+
+**Décision.** Rien n'est publié : aucune fiche isolée ou partielle n'est ajoutée. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+**Pistes non publiées (anonymes).** Isère : exploitants en entreprise individuelle du registre Agence Bio (agglomération grenobloise, Bièvre, Vercors) ; **déblocage** = enseigne publique distincte du patronyme, site ou page du commerce, et deux sources indépendantes.
+
+**Point d'arrêt.** Passe suivante : relire le classement avant tout choix (règle 41.c), puis reprendre la descente du Nord ou de la Haute-Garonne à une commune non encore sondée, en privilégiant les marchés municipaux et les sites des communes plutôt que le registre seul.
