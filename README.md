@@ -53206,3 +53206,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Rhône : la descente est à **dix communes éprouvées** (règle 247, borne à douze). Passe suivante dans le Rhône : **Saint-Fons** (19 285 habitants), puis **Écully** (17 944), douzième et dernière commune de la borne. Givors et Saint-Genis-Laval ne se reprennent que sur un déblocage nommé. Si le Rhône est épuisé après Écully, le département suivant du classement est la Haute-Garonne (sa descente, déjà longue, est à réexaminer) ou l'Isère (règle 41.c : la région Auvergne-Rhône-Alpes est de nouveau ouverte après une passe sur le Nord).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Haute-Garonne (31) reprise, L'Union et Saint-Jean sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (région 84) : la réserve 41.c exclut Auvergne-Rhône-Alpes. Le Nord (59, ≈ 4,5) reste en tête du déficit, mais sa descente a dépassé la borne de la règle 247 (plus de douze communes éprouvées au fil des passes) : il est clos. L'Oise (60) a atteint sa borne (Pont-Sainte-Maxence était la douzième commune). Le département visé est donc la **Haute-Garonne (31)**, déficit ≈ 3,8, région 76, éligible.
+
+**Commune, règle 41.d et descente.** Communes déjà éprouvées dans le 31 : Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes (sept). Suivantes par population sans fiche : L'Union (12 638 habitants), Saint-Gaudens (12 139), Castelginest (11 271), Saint-Jean (11 261), Villeneuve-Tolosane (11 044).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne, douze pages de cent opérateurs (1 200 entrées), filtrées sur les communes ci-dessus. Les entrées de L'Union sont presque toutes des grandes surfaces, des grossistes ou des structures de préparation ; une seule enseigne de magasin bio en réseau (Biocoop, à Montredon) est en vente aux particuliers et certifiée active, et une autre entrée de vente aux particuliers a un nom de personne physique.
+- Saint-Jean : une grande surface, un grossiste, une structure de distribution et une entrée de production en vente aux particuliers sous un nom de personne physique.
+- Saint-Gaudens, Castelginest, Villeneuve-Tolosane : aucun opérateur de vente aux particuliers dans les entrées lues ; grossistes ou grandes surfaces seulement. Ces trois communes n'ont pas été sondées sur le web cette passe.
+- Recherche web sur L'Union et Saint-Jean : aucun marché ni point de producteur daté, sourcé par une collectivité ou un office de tourisme, n'a été trouvé.
+
+**Pourquoi rien n'est publié.** L'Union n'offre qu'un magasin de réseau, qui ne forme pas cinq commerces vérifiables ; Saint-Jean n'offre qu'une exploitation sous nom patronymique, écartée par la règle des personnes. Aucune de ces communes ne rend une zone de cinq fiches entières, et une fiche isolée n'est pas une zone (règle 52). Aucun fait incertain n'est publié.
+
+**Descente, règle 248.** La commune calculée du département (L'Union) et la suivante (Saint-Gaudens) ont été éprouvées ; la descente atteint la borne de douze avec Villeneuve-Tolosane, sondée au registre seul. Passe suivante : changer de département (la Haute-Garonne est clos au titre de la règle 247 pour la descente en cours), et reprendre le classement de la règle 41.
+
+**Contradictions** (règle 5) : aucune nouvelle cette passe.
+
+**Pistes non publiées (anonymes).**
+- L'Union (31), magasin du réseau Biocoop, enseigne en vente aux particuliers, registre actif : **déblocage** = horaires et adresse confirmés par le site du magasin ou du réseau, et une seconde source indépendante ; sinon écarté faute de cinq points.
+- Saint-Jean (31), production en vente aux particuliers sous nom patronymique : **écartée pour doute sur une personne**, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une (Saint-Jean, Haute-Garonne), anonyme, ne se rouvre pas. Une seconde entrée de L'Union (Haute-Garonne) porte un nom de personne physique et n'est pas reprise.
+
+**Point d'arrêt.** Haute-Garonne : descente close à Villeneuve-Tolosane (règle 247). Passe suivante : nouveau classement au titre de la règle 41 ; la Haute-Garonne n'est pas revisitée tant que sa descente ne reprend pas sur une source nouvelle.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
