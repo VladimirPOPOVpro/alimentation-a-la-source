@@ -53257,3 +53257,28 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions** (règle 5) : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Vienne (86) reprise, Chauvigny et Jaunay-Marigny sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en_cours, sans action : doute sur une personne, rien n'est publié et aucun message n'est envoyé. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 93 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Yvelines (Île-de-France) : la réserve 41.c écarte donc l'Île-de-France. Les départements déjà éprouvés aujourd'hui sont sortis du tour. Vienne (86, déficit ≈ 3,30) est le premier département métropolitain éligible qui n'a pas été éprouvé aujourd'hui ; sa descente reprend là où la passe du 6 novembre l'a laissée.
+
+**Descente, commune par commune (borne de douze, règle 247).**
+
+- **Châtellerault** (31 003 habitants) : éprouvée à une passe précédente, rien de publiable (rappel).
+- **Buxerolles** (10 289 habitants) : éprouvée à la passe du 6 novembre ; aucun jour de marché vérifiable.
+- **Chauvigny** (7 007 habitants) : site officiel de la Ville, page « Marchés hebdomadaires » lue. Le marché est tenu le samedi matin, avec plus de 120 commerçants ; les mardi et jeudi matin, il est uniquement alimentaire. La page ne liste ni producteurs ni produits, donc pas de fiche aux produits vérifiables. Un magasin de produits locaux de la rue de Saint-Savin apparaît dans un annuaire tiers, avec des horaires de jeudi et vendredi ; son propre site n'a pas répondu, et les horaires ne sont pas confirmés (règle 5). Le marché de producteurs estival, lui, est annoncé par l'office de tourisme sur la place de Trino, sans date lisible.
+- **Jaunay-Marigny** (7 528 habitants) : recherche web seule. Un marché de producteurs ponctuel est annoncé le 27 août 2026 au boulodrome, par l'agence départementale du tourisme. Une page d'événements anglaise, non datée, parle d'un marché hebdomadaire du vendredi : source trop ancienne pour être retenue. Le site de la commune n'a pas été lu dans cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq commerces vérifiables sur une source officielle et une activité confirmée. Quatre communes sont éprouvées sur douze (Châtellerault, Buxerolles, Chauvigny, Jaunay-Marigny). Le marché du samedi de Chauvigny est une source officielle, mais il ne rend ni produits ni producteurs vérifiables. Une fiche isolée ne forme pas une zone (règle 52).
+
+**Pistes non publiées (anonymes).** Chauvigny : marché du samedi, déblocage = liste des producteurs ou des produits publiée par la Ville. Chauvigny : magasin de produits locaux de la rue de Saint-Savin, déblocage = horaires confirmés par le magasin ou par une page propre. Jaunay-Marigny : marché de producteurs ponctuel de 2026, passé ; déblocage = calendrier 2026-2027 publié par la commune.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Chauvigny : l'office de tourisme place le marché de producteurs d'été sur la place de Trino, la Ville place son marché du samedi sur la place du Marché. Ce sont deux événements différents, non publiés faute de fiche vérifiable ; consigné ici sans trancher.
+
+**Points d'arrêt.** Vienne, passe suivante : Jaunay-Marigny reste éprouvée. Reprendre à Chauvigny seulement si la Ville publie la liste des producteurs du samedi, ou si le magasin confirme ses horaires sur un site à lui. Descente à douze communes : quatre éprouvées, huit restantes ; au-delà, la passe change de département.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, les images et le code ne sont pas touchés ; total inchangé : 1 304 fiches.
