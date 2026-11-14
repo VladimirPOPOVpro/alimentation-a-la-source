@@ -53089,3 +53089,24 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante dans le Rhône : Givors (21 379 habitants), commune suivante sans fiche par population, en commençant par le site de la mairie. Si la Ville de Tassin-la-Demi-Lune est accessible sans 403 depuis une autre route, reprendre ses marchés une fois, sans refaire le registre. Rillieux : attendre une date sur la page des marchés, ou une source datée de la Ville.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 14 novembre 2026 (soir, Yvelines (78) reprise, Conflans-Sainte-Honorine sondée au site de la Ville : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action (doute sur une personne : rien n'est publié, aucun message n'est envoyé). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 52, 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône : l'Yvelines (Île-de-France) est éligible, la région n'ayant pas été visée la veille. Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Loire, Savoie, Seine-Maritime, Calvados, Hérault et Val-de-Marne sont épuisés ou clos.
+
+**Commune, règle 41.d.** Poissy (40 983 habitants) : site officiel de la Ville en réponse 503 (indisponible), aucune page de marchés lisible. Conflans-Sainte-Honorine (36 958 habitants) : le site de la Ville répond, son annuaire des marchés liste trois marchés avec jours et lieux (marché des quais, marché de la Fonderie, marché de Chennevières), sans horaires détaillés ; la même page annonce « sept marchés par semaine », contradiction consignée (règle 5). Trois points vérifiés, pas quatre : la règle 52 ne s'applique pas et la descente d'échelle reprend. Mantes-la-Jolie : site officiel injoignable depuis cet environnement à cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune n'atteint quatre points vérifiés. Une fiche de marché sans horaires détaillés et sans photo nette ne suffit pas au groupement. Aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Conflans-Sainte-Honorine, marchés des quais, de la Fonderie et de Chennevières : **déblocage** = horaires détaillés de la Ville ou du marché, et une photo ou une source datée ; à reprendre avec un quatrième point.
+- Conflans-Sainte-Honorine, sept marchés annoncés : **déblocage** = liste officielle des séances de la semaine.
+- Poissy, marché de la place de la République et marchés de Beauregard et de Noailles : **déblocage** = site de la Ville relisible (503 à cette passe).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : relire le site de la Ville de Poissy ; si toujours indisponible, Conflans-Sainte-Honorine (chercher un quatrième point vérifié dans la même intercommunalité, règle 52). Mantes-la-Jolie seulement si le site de la Ville est joignable.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
