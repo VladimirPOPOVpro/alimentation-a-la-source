@@ -52859,3 +52859,41 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Haute-Garonne : la descente reprend à Castelginest puis Villeneuve-Tolosane (règle 247), en recherchant les fermes et marchés actuels. La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Isère (38) sondée, Vienne et Fontaine : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13, toujours en_cours, reste non touchée : doute sur une personne, rien n'est publié, aucun message n'est envoyé. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177, 224, 247 et 248.** Métropole seule, dénominateur national de 68,95 millions d'habitants, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue (règle 41.c). Nord (59) et Loire (42) restent closes au titre de la règle 247. Oise (60) est close aussi. Déficits : Isère (38) ≈ 3,6 est le premier département ouvert, devant la Haute-Corse (2B, ≈ 3,5, aucune fiche) et la Savoie (73, ≈ 3,5, déjà sondée). **L'Isère est donc le département visé.** Il est en Auvergne-Rhône-Alpes, région qui n'a pas été visée la veille.
+
+**Commune, règle 41.d.** Plus peuplée sans aucune fiche : **Vienne** (31 778 habitants). Grenoble, Saint-Martin-d'Hères, Échirolles, Bourgoin-Jallieu, Sassenage et Claix en ont déjà. Vienne est donc reprise.
+
+**Ce qui a été lu.**
+- Que Choisir, carte des circuits courts (magasin-ccm590) : **Le Panier Enchanté**, 28 avenue Marcellin Berthelot, magasin de producteurs ; horaires mardi à vendredi 8 h 30–12 h 30 et 14 h 30–19 h, samedi 8 h 30–18 h, dimanche 8 h 30–12 h, fermé le lundi ; fruits, légumes, viandes, poissons, produits laitiers, épicerie. Aucun site ni aucune source du commerce lui-même : pas de fiche sans seconde source.
+- Site officiel de **Biocoop Vienne Romestang**, biocoopvienne.fr : 50-54 cours Romestang, téléphone publié par le magasin, samedi 8 h 30–19 h, fermé les jours fériés. Les horaires des autres jours ne s'affichent pas sur la page lue : fiche possible, mais à confirmer.
+- Office de tourisme Vienne Condrieu Agglomération, relayé par alpes-isere.com : **grand marché du samedi**, 6 h–13 h, centre-ville (place Miremont, cours Romestang, boulevard), plus de trois cents commerçants, pas seulement des producteurs ; **marché du dimanche** place Miremont, 5 h–13 h 30, alimentaire seulement, une dizaine de commerçants ; un marché alimentaire le vendredi matin place Miremont, lu dans une synthèse de recherche et non dans la fiche source. Les deux premiers marchés se tiennent au même point : règle 42, une seule fiche.
+- Office de tourisme, marché **L'Isle** (place du Mail), mercredi matin, « le matin » seulement : ni heure, ni liste de producteurs, ni point géocodable (la BAN renvoie une rue voisine, pas la place).
+- Registre Agence Bio, Isère, 100 opérateurs de la première page : à Vienne, aucun opérateur en vente aux particuliers identifiable, seulement des préparations et des distributions.
+- Hors de Vienne, dans la même intercommunalité : **La Ferme du Tillet** (Estrablin, vente à la propriété, tous les jours selon alpes-isere.com) et **La Ronde des Fermes** (Estrablin, route du Bessay, Que Choisir seulement, sans horaires) ; **La Ferme du Gorneton** (Seyssuel, jeudi et vendredi 8 h–12 h, alpes-isere.com). Estrablin est à environ 5 km du centre de Vienne : au-delà de la distance de la règle 52, et les horaires ne sont pas confirmés par le commerce.
+
+**Pourquoi rien n'est publié à Vienne.** Trois points seulement sont solides : Le Panier Enchanté (une seule source indépendante, horaires à confirmer), Biocoop Vienne (site officiel, horaires partiels), et le point Miremont (marchés du samedi et du dimanche, une fiche). Sous quatre points, la règle 52 ne complète pas et la règle 41.d descend. Une zone de trois fiches n'en est pas une (règles 52 et 248).
+
+**Descente, règle 41.d, Fontaine (38600, 22 020 habitants).** Pas de magasin de producteurs trouvé. Deux marchés, sources alpes-isere.com mise à jour le 6 mai 2026 : **Marcel Cachin**, mardi, jeudi, samedi et dimanche 7 h–13 h, « producteurs locaux et produits manufacturés » ; **Louis Maisonnat**, mercredi et vendredi 7 h–13 h. Une fiche de ville de 2018 donne d'autres horaires pour Louis Maisonnat : elle est écartée au profit de la source la plus récente, mais le doute est consigné. Deux points seulement : **Fontaine n'atteint pas quatre points**, et une zone ne se compose pas de deux communes.
+
+**Décision.** Aucune commune de la passe n'atteint quatre points vérifiés dans une même commune ou agglomération. Rien n'est publié, pas de fiche partielle, pas de fiche isolée. Deux communes sur douze éprouvées (règle 247).
+
+**Pistes non publiées (anonymes).**
+- Vienne, Le Panier Enchanté (magasin de producteurs, rue Marcellin Berthelot) : **déblocage** = site ou page du commerce confirmant les horaires, et une seconde source indépendante.
+- Vienne, Biocoop Romestang : **déblocage** = horaires complets du magasin (lundi à vendredi), que la page officielle ne donne pas dans cette passe.
+- Vienne, marché de L'Isle, mercredi matin : **déblocage** = heure de début et de fin, liste des producteurs, et point géocodable (place du Mail), publiés par la Ville ou l'office de tourisme.
+- Vienne, marché de Miremont (samedi, dimanche, vendredi) : **déblocage** = horaires des trois jours confirmés par la Ville ; une seule fiche, selon la règle 42.
+- Estrablin, La Ferme du Tillet et La Ronde des Fermes ; Seyssuel, La Ferme du Gorneton : hors commune et hors distance de la règle 52 ; **déblocage** = passe qui revient sur Vienne avec une commune voisine dans la même agglomération.
+- Fontaine, marchés Marcel Cachin et Louis Maisonnat : **déblocage** = horaires confirmés par la Ville (la fiche de 2018 contredit l'alpes-isere.com), et deux commerces de plus pour atteindre quatre points.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions** (règle 5) : horaires de Louis Maisonnat, fiche de ville de 2018 contre alpes-isere.com (mai 2026) : la source la plus récente l'emporte, consigné ici.
+
+**Point d'arrêt.** Isère (38), commune Vienne, descente en cours : Vienne reprend avec les trois points solides et la piste de Estrablin ou de Seyssuel, à condition de rester dans la même agglomération (Vienne Condrieu Agglomération) et sous les 5 km. Si Vienne ne rend pas quatre points, la descente continue à **Voiron** (21 847 habitants, sans fiche), puisque Fontaine est éprouvée. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes deux fois de suite ; il faudra regarder la règle 41.c avant de choisir, car l'Isère est ici la région de la passe présente. Le classement se recalcule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
