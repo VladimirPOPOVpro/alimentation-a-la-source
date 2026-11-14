@@ -53177,3 +53177,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Nord (59) : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul et Coudekerque-Branche ne sont pas à reprendre sans source nouvelle. Passe suivante : changer de département. Le déficit suivant hors Haute-Garonne est l'Oise (60) ; la règle de non-répétition impose de ne pas y revenir si elle a été visée à la passe précédente (ce n'est pas le cas ici).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Rhône (69) reprise, Givors et Saint-Genis-Laval sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours reste sans action : doute sur une personne, rien n'est publié. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 247 et 248.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la région est exclue cette passe (règle 41.c). En tête ensuite : Haute-Garonne (≈ 4,76), puis Rhône (≈ 4,42), Isère (≈ 4,39), Seine-Saint-Denis (≈ 4,31), Oise (≈ 4,22). **Tranché ainsi** : la Haute-Garonne est classée au-dessus, mais la descente qui s'y déroule est éprouvée depuis des dizaines de passes et déclarée close dans la note de la passe du soir (Yvelines) ; le Rhône a un point d'arrêt daté (passe du matin : « Givors, commune suivante »), et la règle 247 reprend une descente là où elle s'est arrêtée. Le Rhône est donc repris, sans changer la formule. Contradiction consignée (règle 5) : l'ordre du classement et la note « Haute-Garonne épuisée » ne se recoupent pas.
+
+**Givors (21 379 habitants), commune suivante sans fiche (règle 247).**
+- Registre Agence Bio, Rhône, 600 opérateurs lus en totalité : une seule entrée à Givors, un hypermarché (écarté, règle MODERATION).
+- Site officiel de la Ville (givors.fr) : le règlement des marchés forains, mis à jour en février 2025, est publié, mais sans horaires détaillés lisibles ; le site de la Ville ne répond pas en HTTPS valide depuis cet environnement (erreur de certificat, non contournée).
+- Recherche web : un marché du centre-ville (place Camille Vallin, dimanche, mercredi et vendredi, 7 h à 12 h 30) n'apparaît que sur une source touristique non datée ; une délibération de 2024 supprime le marché du samedi aux Vernes, un arrêté de 2026 déplace le marché du jeudi (horaires inchangés, source non recoupée). Aucun producteur nommé, aucun magasin de producteurs identifié.
+- Décision : aucun commerce vérifié à deux sources. Rien n'est publié.
+
+**Saint-Genis-Laval (21 212 habitants), commune suivante par population sans fiche.**
+- Registre Agence Bio : huit entités à Saint-Genis-Laval, aucune vente directe au public identifiée comme commerce de producteurs ; une entité en vente aux particuliers est une préparation sans point de vente identifié ; une seule est une fiche de producteur inscrite sous un nom de personne : **écartée pour doute sur une personne** (une fiche, commune et catégorie seules, rien de plus ; ne se rouvre pas).
+- Recherche web : un marché bio place Jaboulay annoncé le mardi (7 h 30 à 12 h 30) ou le vendredi selon les sources, et le mercredi (8 h à 12 h) sur une fiche non mise à jour depuis 2018 ; jours contradictoires, consignés (règle 5). Un magasin de la coopérative Terres Lyonnaises (74 rue des Collonges) est classé « magasin de coopérative agricole » : il n'est pas un point de vente de producteurs au sens de la règle 40.
+- Décision : aucune fiche entière. Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Givors, marché du centre-ville : **déblocage** = règlement de la Ville lu avec ses horaires détaillés, daté de 2026, et un producteur nommé.
+- Givors, marché du jeudi déplacé (place Charles de Gaulle) : **déblocage** = arrêté 2026 avec horaires confirmés par la Ville.
+- Saint-Genis-Laval, marché place Jaboulay : **déblocage** = jour unique confirmé par la Ville, et une liste de producteurs.
+- Saint-Genis-Laval, magasin de la coopérative : **déblocage** = fiche tenue par le réseau lui-même (point de vente aux particuliers) ; sinon écarté.
+
+**Fiches écartées pour doute sur une personne.** Une (Saint-Genis-Laval, Rhône), anonyme, ne se rouvre pas.
+
+**Point d'arrêt.** Rhône : la descente est à **dix communes éprouvées** (règle 247, borne à douze). Passe suivante dans le Rhône : **Saint-Fons** (19 285 habitants), puis **Écully** (17 944), douzième et dernière commune de la borne. Givors et Saint-Genis-Laval ne se reprennent que sur un déblocage nommé. Si le Rhône est épuisé après Écully, le département suivant du classement est la Haute-Garonne (sa descente, déjà longue, est à réexaminer) ou l'Isère (règle 41.c : la région Auvergne-Rhône-Alpes est de nouveau ouverte après une passe sur le Nord).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
