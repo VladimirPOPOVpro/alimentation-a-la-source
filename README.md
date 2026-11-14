@@ -53056,3 +53056,36 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante : ouvrir le site officiel de la Ville de Rillieux-la-Pape (rubrique marchés) avant toute recherche web. Si la commune ne rend pas cinq fiches vérifiées, appliquer la règle 247 : Rhône à la descente suivante par population, sans refaire le criblage de Rillieux ; la Corse reste exclue tant que la passe suivante suit une passe corse. Nord, Haute-Garonne, Oise et Seine-Saint-Denis ne sont pas à reprendre sans source nouvelle (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Rhône (69) reprise, Rillieux-la-Pape relue sur le site de la Ville, Tassin-la-Demi-Lune sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action : doute sur une personne, rien n'est publié.
+
+**Classement, règles 41, 41.c, 247 et 248.** Métropole seule, 1 304 fiches, populations `geo.api.gouv.fr`. Le Nord (59) reste en tête mais reste épuisé (borne de la règle 247 atteinte, point d'arrêt du 13 novembre) ; le Rhône est repris selon le point d'arrêt de la passe du matin.
+
+**Commune, règle 41.d.** Rillieux-la-Pape (31 389 habitants) : relue sur la source officielle de la Ville, en premier comme demandé.
+
+**Ce qui a été lu.**
+- Site de la Ville, rubrique « Les marchés » (rillieuxlapape.fr) : quatre marchés listés, sans aucune date de publication ni de mise à jour sur la page. Le marché des Alagniers (mercredi et dimanche, 7 h 30 à 13 h, place du Marché, 75 à 120 étals), le marché des Semailles (vendredi, 7 h 30 à 13 h, place Maréchal-Juin, 70 étals), le marché de la Roue (samedi, 7 h 30 à 13 h, place du Château, six exposants, surtout des petits producteurs) et le marché de Crépieux (samedi, 7 h 30 à 13 h, place Canellas, cinq exposants). Pas de liste d'étals ni de producteurs nommés. Le déblocage posé le 14 novembre au matin exigeait un horaire daté de 2026 : la page ne le permet pas.
+- Registre Agence Bio, Rhône, six pages (600 entités) : aucun opérateur de Rillieux retenu, comme à la passe précédente.
+
+**Pourquoi rien n'est publié à Rillieux.** Quatre marchés municipaux sans date ni producteurs identifiés ne font pas quatre points vérifiés à deux sources (règles 52 et 248), et la règle 52 demande cinq fiches.
+
+**Commune suivante, descente du Rhône (règle 247).** Tassin-la-Demi-Lune (23 200 habitants), commune la plus peuplée sans fiche après Rillieux, Décines-Charpieu déjà sondée.
+- Registre Agence Bio, Rhône : trois entités à Tassin. Deux vendent aux particuliers, mais leur nature de commerce n'est pas établie par une source indépendante ; une troisième est un restaurateur. Aucune fiche tirée du registre (règle 40).
+- Site officiel de la Ville (tassinlademilune.fr) : refus d'accès (403) depuis cet environnement. Non lu.
+- Recherche web : le marché bio du quartier Alaï (mardi, 15 h 30 à 19 h, producteurs locaux) apparaît dans le guide bio du Grand Lyon 2024 ; le marché du Bourg (mercredi) et le marché des Tuileries (vendredi) n'apparaissent que sur une fiche datée de 2018, ou dans un agenda sans date. Un annuaire participatif ne recense aucun marché à Tassin. Ces sources se contredisent sur les jours : rien ne se publie sur cette base (règle 5).
+
+**Pistes non publiées (anonymes).**
+- Rillieux-la-Pape, marché des Alagniers : **déblocage** = horaires et liste d'étals publiés par la Ville, datés de 2026.
+- Rillieux-la-Pape, marché des Semailles, marché de la Roue, marché de Crépieux : **déblocage** = même condition ; la Roue et Crépieux ne se publient que si leurs producteurs sont nommés.
+- Tassin-la-Demi-Lune, marché bio du quartier Alaï : **déblocage** = horaires datés de 2026 sur un site de la Ville ou de la Métropole, et une deuxième source indépendante.
+- Tassin-la-Demi-Lune, deux entités du registre Agence Bio vendant aux particuliers : **déblocage** = enseigne publiée par le commerce et source indépendante de son activité de vente au public.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Descente.** Rhône : huit communes éprouvées sur douze (règle 247) : Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Meyzieu, Villefranche-sur-Saône, Rillieux-la-Pape, Décines-Charpieu, Tassin-la-Demi-Lune.
+
+**Point d'arrêt.** Passe suivante dans le Rhône : Givors (21 379 habitants), commune suivante sans fiche par population, en commençant par le site de la mairie. Si la Ville de Tassin-la-Demi-Lune est accessible sans 403 depuis une autre route, reprendre ses marchés une fois, sans refaire le registre. Rillieux : attendre une date sur la page des marchés, ou une source datée de la Ville.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
