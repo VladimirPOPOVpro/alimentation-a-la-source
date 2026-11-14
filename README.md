@@ -52964,3 +52964,36 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante : Corse-du-Sud reste ouvert ; descendre à Sartène par population si la page de la Ville est lisible, puis Propriano. La passe suivante ne vise pas la Corse deux fois de suite (règle 41.c) : elle doit relire le classement avant tout choix.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Yvelines (78) reprise, Poissy et Conflans-Sainte-Honorine sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action (doute sur une personne : rien n'est publié, aucun message n'est envoyé). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Corse-du-Sud (Corse) : la Corse est écartée par la règle 41.c. Sont épuisés ou clos : le Nord, la Haute-Garonne, le Rhône, l'Isère, la Seine-Saint-Denis, l'Oise, la Loire, la Savoie, la Seine-Maritime, le Calvados, l'Hérault, le Val-de-Marne. Premier département ouvert : **Yvelines (78)**, déficit ≈ 4,3 (25 fiches pour une cible d'environ 29), Île-de-France, visé pour la dernière fois le 12 novembre : la réserve de la règle 41.c est respectée.
+
+**Commune, règle 41.d.** Poissy (40 983 habitants) reprise, point d'arrêt de la passe du 12 novembre. Conflans-Sainte-Honorine (36 958 habitants), commune suivante par population sans fiche.
+
+**Ce qui a été lu.**
+- Poissy : les guides de marchés (presse locale, annuaires) donnent des jours contradictoires pour le marché de la place de la République (mardi et vendredi, ou dimanche seul selon le guide) ; un marché du jeudi et samedi à Beauregard et un marché du samedi à Noailles ne sont cités que par un seul guide ; le marché de La Coudraie (mercredi après-midi) est attribué à la Ville par un guide 2026 sans page officielle lue ; la seule manifestation datée est le « Marché des Terroirs » ponctuel (octobre 2026), non hebdomadaire. Aucune page officielle de la Ville n'a pu être lue cette passe.
+- Poissy, magasin de produits locaux référencé par un répertoire de circuit court : pas d'horaires ni de site vérifiés.
+- Conflans-Sainte-Honorine : sept marchés hebdomadaires cités par un guide local, dont trois le samedi ou le dimanche matin (un couvert à la Fonderie, un couvert à Chennevières, un en plein air aux Quais) ; les sources ne s'accordent pas sur le nombre de séances. Un producteur de fruits et légumes et un producteur de Vexin sont cités par la carte « Manger local » de l'intercommunalité, sans horaires.
+- Conflans-Sainte-Honorine, magasin bio référencé par un comparateur : aucun horaire publié dans la source lue.
+- Registre des entreprises : non interrogé cette passe, puisque aucune fiche ne passe le premier filtre (deux sources indépendantes concordantes sur les faits).
+
+**Pourquoi rien n'est publié.** Aucune commune n'atteint cinq commerces vérifiés à deux sources indépendantes concordantes. Les jours de marché de Poissy se contredisent entre sources (règle 5) et aucune page officielle n'est lue ; les horaires du seul magasin bio de Conflans manquent ; une fiche isolée ne remplit pas le groupement (règle 52). Aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Poissy, marché de la place de la République : **déblocage** = page de la Ville donnant jours et horaires.
+- Poissy, marché de Beauregard et marché de Noailles : **déblocage** = second guide daté ou page de la Ville.
+- Poissy, magasin de produits locaux : **déblocage** = fiche ou site du magasin, horaires publiés.
+- Conflans-Sainte-Honorine, marchés de la Fonderie, de Chennevières et des Quais : **déblocage** = page de la Ville donnant jours et horaires.
+- Conflans-Sainte-Honorine, producteurs cités par la carte « Manger local » : **déblocage** = site ou fiche de l'exploitation, horaires, registre.
+- Conflans-Sainte-Honorine, magasin bio : **déblocage** = horaires publiés par le commerce et entrée active au registre.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : jours du marché de la place de la République à Poissy (deux guides contraires), nombre de séances des marchés de Conflans (deux articles) ; rien n'est retenu.
+
+**Point d'arrêt.** Passe suivante : Yvelines (78) reste ouvert. Reprendre Poissy par la page marchés du site de la Ville si elle est lisible ; sinon Conflans-Sainte-Honorine par ses marchés municipaux, puis Mantes-la-Jolie seulement si Conflans ne rend rien (règle 247 : la descente s'arrête après douze communes éprouvées, Poissy et Conflans comptant comme deux).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
