@@ -53336,3 +53336,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Loire : descente à deux communes éprouvées sur douze (Roanne, Firminy). Passe suivante dans la Loire : **Montbrison** (16 123 habitants), commune suivante par population sans fiche. Le département ne change pas tant que la descente n'est pas close (règle 247). Région suivante : pas Auvergne-Rhône-Alpes pour une passe qui suit celle-ci si la descente est close ; sinon la Loire reste admise (règle 41.c ne vise que la passe précédente).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Loire (42) reprise, Montbrison sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Le département retenu reste la Loire (42) : sa descente est ouverte (deux communes éprouvées sur douze, Roanne et Firminy). Montbrison (16 123 habitants) est la commune suivante par population sans fiche.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Loire, 400 opérateurs lus. Sur Montbrison : trois entrées, toutes hors vente au détail (une brasserie en vente aux professionnels, un préparateur en gros, une grande surface à exclure).
+- Recherche web : une seule piste, un magasin de producteurs listé par un annuaire de consommateurs, sans horaires ni site vérifiés. Un article municipal ancien décrit un marché du samedi avec producteurs locaux, sans jours ni producteurs datés. Le site de la Ville (ville-montbrison.fr) est lu seulement par un PDF de 2025 sans liste de producteurs ; le site officiel montbrison.fr n'a pas pu être ouvert (certificat invalide).
+
+**Pourquoi rien n'est publié.** Montbrison ne rend pas cinq commerces de circuit court vérifiables auprès d'une source indépendante. Une fiche isolée ne forme pas une zone (règle 52). Aucun fait incertain n'est publié, aucun géocodage ni photo n'est prélevé.
+
+**Pistes non publiées (anonymes).**
+- Montbrison, magasin de producteurs du centre (avenue de Saint-Étienne) : **déblocage** = horaires et liste de produits confirmés par le magasin ou par une source indépendante.
+- Montbrison, marché du samedi : **déblocage** = calendrier et liste des producteurs publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune cette passe.
+
+**Point d'arrêt.** Loire : descente à trois communes éprouvées sur douze (Roanne, Firminy, Montbrison). Passe suivante dans la Loire : Saint-Chamond est déjà fichée ; la commune suivante par population sans fiche sera reprise par la règle 41.d.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
