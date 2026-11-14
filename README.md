@@ -53442,3 +53442,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Seine-Saint-Denis : descente à trois communes éprouvées sur douze (Noisy-le-Grand, Bobigny, Drancy) et Aulnay-sous-Bois, soit quatre. Passe suivante dans le 93 : Le Blanc-Mesnil (62 376 habitants), commune suivante par population sans fiche, en vérifiant d'abord la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Hérault (34) visé, Castelnau-le-Lez sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : cette région est exclue (règle 41.c). Nord, Haute-Garonne, Rhône, Isère, Oise, Loire et Val-de-Marne sont épuisés ou clos ; les Yvelines sont en Île-de-France. Le déficit le plus grand restant est l'**Hérault (34)**, 4,25 fiches au sens de la règle 41, pour 20 fiches publiées.
+
+**Commune, règle 41.d.** Montpellier, Béziers, Sète, Frontignan, Juvignac, Saint-Jean-de-Védas et Balaruc-le-Vieux ont déjà des fiches ; Agde, Lunel, Mauguio et Mèze ont été sondées aux passes précédentes sans fiche. La commune la plus peuplée restante sans fiche est **Castelnau-le-Lez (26 058 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Hérault : 400 opérateurs lus sur 3 305. Une seule entrée déclare Castelnau-le-Lez en vente aux particuliers, sans enseigne ni horaires vérifiables. Lecture partielle, à compléter.
+- Les Halles du Verger (marché couvert du quartier Eurêka, réunissant des producteurs d'Occitanie) : fiche de l'office de tourisme et site de la halle vérifiés, horaires du marché non trouvés (les horaires publiés sur le site concernent les restaurants et bars de la halle). **Registre des entreprises : aucune entité active ne correspond à ce nom** (règle 6) : ne part pas.
+- Un domaine viticole à caveau (Castelnau-le-Lez, avenue du Mas de Verchant) : registre des entreprises avec entités actives à l'adresse du boulevard Philippe Lamour ; le site du domaine indique une boutique-caveau ouverte tous les jours de 10h à 18h, avec une précision sur l'accueil de l'hôtel les dimanche, lundi et mardi. Téléphone et site publiés par le domaine. **Une seule fiche solide : elle ne forme pas une zone** (règle 52), et l'horaire de caveau doit être distingué de celui de l'hôtel (règle 2) ; elle reste en attente.
+- Le marché traditionnel de la commune (place de la Liberté, place de l'Europe) : site touristique sans jour ni horaire ; agrégateur de jours de marché sans jour précisé ; le site de la Ville n'a pas été lu de façon exploitable.
+- Une exploitation de serres (vente sur place, avenue de la Galine) : aucune source officielle sur les horaires ni les produits ; non retenue.
+
+**Pourquoi rien n'est publié.** Castelnau-le-Lez rend une fiche solide (un caveau), une halle sans entité au registre et un marché sans jour vérifié : en dessous du seuil de quatre points (règle 52). Aucune fiche n'est publiée, aucun géocodage ni photo n'est prélevé.
+
+**Pistes non publiées (anonymes).**
+- Castelnau-le-Lez, caveau d'un domaine viticole (vente directe, hôtel adossé) : **déblocage** = confirmation des horaires du point de vente distincts de ceux de l'hôtel, et au moins trois autres points vérifiés dans la commune.
+- Castelnau-le-Lez, halle de producteurs du quartier Eurêka : **déblocage** = une entité active au registre des entreprises correspondant à la halle (règle 6), et des jours et horaires de marché publiés par la halle ou la Ville.
+- Castelnau-le-Lez, marché traditionnel : **déblocage** = jour et horaires publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune cette passe.
+
+**Points d'arrêt.** Hérault : Castelnau-le-Lez sondée (une fiche solide sur quatre nécessaires). Descente hors des communes déjà instruites à reprendre dans l'ordre de population. Passe suivante, hors Île-de-France (règle 41.c) : Ille-et-Vilaine (35) ou Eure-et-Loir (28), en vérifiant la règle 41.c, ou Hérault à la commune suivante (Lattes, 17 351 habitants) si la descente reste ouverte.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
