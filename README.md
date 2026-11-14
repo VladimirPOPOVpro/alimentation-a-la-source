@@ -53236,3 +53236,24 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Haute-Garonne : descente close à Villeneuve-Tolosane (règle 247). Passe suivante : nouveau classement au titre de la règle 41 ; la Haute-Garonne n'est pas revisitée tant que sa descente ne reprend pas sur une source nouvelle.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Rhône (69) reprise, Saint-Fons et Écully sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0), une demande `en_cours` inchangée. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule (les départements d'outre-mer sont écartés par la règle 93 : la validation de coordonnées les refuse), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la réserve 41.c exclut donc l'Occitanie. Nord (59, ≈ 6,5) reste en tête mais sa descente est close (règle 247). Haute-Garonne (31, ≈ 5,0) est close. Rhône (69, ≈ 4,7) est le premier département éligible, et sa descente reprend à la commune suivante prévue par la passe du Rhône : Saint-Fons.
+
+**Descente, commune par commune.**
+
+- **Saint-Fons** (19 285 habitants), registre Agence Bio du Rhône lu en entier (2 448 opérateurs, pages de cent) : deux entrées de grande surface ou de proxi, une entrée de société sans activité de vente aux particuliers. Aucun marché, AMAP ou producteur en vente directe. Rien à publier.
+- **Écully** (17 944 habitants), dernière commune de la borne de douze (règle 247) : une boulangerie (Agence Bio, vente aux particuliers), une jardinerie, un magasin de réseau à la date de mise à jour ancienne, deux entrées de grande surface et de proxi, et plusieurs entrées de gros ou de transformation. La recherche web donne un marché alimentaire du jeudi et du samedi, daté de 2018 et non confirmé par la Ville. Le marché à la ferme de Chalin, seule piste de producteurs, est signalé « définitivement fermé » sur la fiche publique du lieu : écarté. Aucune zone de cinq fiches vérifiables.
+
+**Pourquoi rien n'est publié.** Ni Saint-Fons ni Écully ne rendent cinq commerces de vente en circuit court vérifiables ; les fiches isolées ne forment pas une zone (règle 52). Aucun fait incertain n'est publié, et aucune fiche personne physique n'est reprise (les entrées de vente aux particuliers sous nom patronymique sont écartées, règle des personnes).
+
+**Pistes non publiées (anonymes).** Écully : marché alimentaire du centre, jeudi et samedi matin, à vérifier auprès de la Ville et de la fiche officielle ; déblocage = horaires confirmés par la commune, plus au moins deux producteurs ou points de vente vérifiés. Écully : boulangeries et magasin bio en réseau, hors périmètre tant qu'elles ne forment pas de zone de circuit court.
+
+**Point d'arrêt.** Rhône : descente close à Écully (règle 247). Passe suivante : pas de la région Auvergne-Rhône-Alpes (réserve 41.c). Le classement hors Rhône donne d'abord la Seine-Saint-Denis (93, Île-de-France, ≈ 4,6) ; prendre la commune la plus peuplée sans fiche de ce département.
+
+**Contradictions** (règle 5) : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
