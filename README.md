@@ -52997,3 +52997,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante : Yvelines (78) reste ouvert. Reprendre Poissy par la page marchés du site de la Ville si elle est lisible ; sinon Conflans-Sainte-Honorine par ses marchés municipaux, puis Mantes-la-Jolie seulement si Conflans ne rend rien (règle 247 : la descente s'arrête après douze communes éprouvées, Poissy et Conflans comptant comme deux).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 14 novembre 2026 (Haute-Corse (2B), L'Île-Rousse sondée, douzième commune : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action : doute sur une personne, rien n'est publié, aucun message n'est envoyé. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national de 68,95 millions d'habitants. La passe précédente visait les Yvelines (Île-de-France) : la région est exclue (règle 41.c). Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Seine-Saint-Denis, Savoie, Seine-Maritime, Calvados, Hérault et Val-de-Marne sont épuisés ou clos. Premier département ouvert hors Île-de-France : **Haute-Corse (2B)**, déficit ≈ 3,5, Corse non visée la veille.
+
+**Commune, règle 41.d.** La descente Haute-Corse reprend par population après Vescovato : **L'Île-Rousse** (3 231 habitants), douzième commune éprouvée. Avec elle, la descente atteint la borne de douze communes de la règle 247 : la Haute-Corse est épuisée pour les passes suivantes.
+
+**Ce qui a été lu.**
+- Halle du marché couvert, sur le centre (rue Paoli) : une page de l'office de tourisme (Calvi – Balagne) le décrit comme ouvert « tous les jours de la semaine » et renvoie ses horaires vers l'office de Calvi, sans les reprendre ; une page de référence des marchés donne 8 h à 13 h tous les jours, sans date de mise à jour. Les deux ne concordent pas sur l'heure d'ouverture (7 h ou 8 h selon les sources) : règle 5, rien n'est retenu sur l'horaire.
+- Un article de presse régionale signale la réouverture du marché couvert et la réservation d'un espace pour les producteurs balanins, sans date 2026.
+- Un producteur de fromages et un miel, présents sur le marché d'après des pages de 2012 et de dates non précisées : sans horaires ni vérification 2026 (règles 5 et 52).
+- Une ferme-auberge de Palasca et une huilerie d'Ville-di-Paraso : pages non datées, rattachées à d'autres communes ou sans commerce vérifié.
+- Magasins bio de la commune (Biocoop, La Vie Claire) : cités par des annuaires généraux, sans horaires ni site vérifiés ; aucune source 2026.
+
+**Pourquoi rien n'est publié.** Une seule fiche ne remplit pas le groupement de cinq (règle 52) : le marché couvert est une halle de plusieurs commerçants, pas un commerce unique, et son horaire est contesté entre deux sources. Aucun autre commerce de L'Île-Rousse n'atteint deux sources concordantes en 2026. Aucune fiche isolée ou partielle n'est ajoutée (règle 248).
+
+**Pistes non publiées (anonymes, Île-Rousse).**
+- Halle du marché couvert (centre, rue Paoli) : **déblocage** = horaires publiés par la commune ou l'office de tourisme de Calvi (une seule heure d'ouverture) et date de mise à jour 2026.
+- Producteurs de fromage et de miel présents au marché couvert : **déblocage** = site ou fiche de l'exploitation, horaires, et enseigne publique distincte de leur patronyme (règle sur les personnes privées).
+- Magasins bio de L'Île-Rousse : **déblocage** = horaires publiés par le commerce et entrée active au registre.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio de Haute-Corse en entreprise individuelle, identifiées par leur patronyme seul ; nombre non détaillé, aucune nommée, aucune ne se rouvre.
+
+**Contradictions** (règle 5) : heure d'ouverture de la halle du marché couvert (7 h ou 8 h) ; rien n'est retenu.
+
+**Point d'arrêt.** Haute-Corse épuisée (règle 247, douze communes). Passe suivante : relire le classement (règle 41) ; la Corse est de nouveau ouverte pour une passe qui ne suit pas une passe corse. Le marché couvert de L'Île-Rousse reste à reprendre si une source 2026 de la commune ou de l'office tranche l'horaire.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
