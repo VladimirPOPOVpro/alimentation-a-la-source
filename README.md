@@ -52931,3 +52931,36 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Pistes non publiées (anonymes).** Isère : exploitants en entreprise individuelle du registre Agence Bio (agglomération grenobloise, Bièvre, Vercors) ; **déblocage** = enseigne publique distincte du patronyme, site ou page du commerce, et deux sources indépendantes.
 
 **Point d'arrêt.** Passe suivante : relire le classement avant tout choix (règle 41.c), puis reprendre la descente du Nord ou de la Haute-Garonne à une commune non encore sondée, en privilégiant les marchés municipaux et les sites des communes plutôt que le registre seul.
+
+### Passe autonome du 14 novembre 2026 (Corse-du-Sud (2A) visée, Bastelicaccia sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande n° 13 reste en_cours, sans action : doute sur une personne, rien n'est publié, aucun message n'est envoyé. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national de 68,95 millions d'habitants, 1 304 fiches comptées sur le code postal. La passe précédente visait l'Isère (Auvergne-Rhône-Alpes) : cette région est exclue (règle 41.c). Nord (59), Oise (60) et Haute-Garonne (31) restent en tête mais sont épuisés ou en descente déjà longue (règle 247). Corse-du-Sud (2A, ≈ 3,18, aucune fiche) est donc le département visé ; la Corse n'a pas été visée la passe précédente.
+
+**Commune, règle 41.d.** Ajaccio et Porto-Vecchio sont épuisées (passes précédentes). La descente reprend à **Bastelicaccia**, commune suivante de la liste.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Corse-du-Sud, première page (100 opérateurs) : aucun opérateur en vente aux particuliers identifié à Bastelicaccia ; les entrées en entreprise individuelle ne sont pas reprises (règle sur les personnes privées).
+- Recherche web : la seule date 2026 pour Bastelicaccia est la fête des agrumes des 14 et 15 février 2026, déjà passée ; un petit marché de producteurs ne figure qu'avec une date de mai 2023.
+- Un magasin bio de la commune (centre commercial Les Citronniers) n'est connu que par un annuaire participatif, avec des horaires qui ne tiennent pas compte des jours fériés et sans site du commerce.
+- Sartène (commune voisine) : marché de la place Porta mentionné par un site touristique sans date de mise à jour ; fiche d'une boutique de producteurs non datée. Propriano : marché du quartier de la Plaine signalé dans un guide non daté, à confirmer auprès de la mairie.
+- Biocoop d'Ajaccio : adresse publiée par un annuaire, horaires non relevés. Hors commune de la descente et déjà épuisée.
+
+**Pourquoi rien n'est publié.** Bastelicaccia n'atteint ni cinq commerces vérifiables, ni une date 2026 confirmée par une source indépendante (règles 5, 6, 52). Les annuaires utilisés sont anciens ou participatifs. Aucune fiche isolée ou partielle n'est ajoutée (règle 248).
+
+**Pistes non publiées (anonymes, Corse-du-Sud).**
+- Bastelicaccia, magasin bio du centre commercial Les Citronniers : **déblocage** = horaires publiés par le commerce et une seconde source indépendante.
+- Bastelicaccia, petit marché de producteurs : **déblocage** = date 2026 confirmée par la mairie ou l'office de tourisme.
+- Sartène, marché de la place Porta (samedi matin, avec mardi et jeudi en saison) : **déblocage** = page de la Ville ou de l'office de tourisme datée 2026, et lieu confirmé.
+- Sartène, boutique de producteurs : **déblocage** = fiche du commerce à jour et adresse vérifiée.
+- Propriano, marché de producteurs de la Plaine (dimanche, saison) : **déblocage** = confirmation par la mairie.
+- Ajaccio (Biocoop) : déjà épuisée, reprise seulement si la descente de Corse-du-Sud y revient.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio de Corse-du-Sud en entreprise individuelle, identifiées par leur patronyme ; nombre non détaillé, aucune nommée, aucune ne se rouvre.
+
+**Contradictions** (règle 5) : aucune retenue ; le lieu du marché dominical de Porto-Vecchio reste contesté entre deux sources, consigné dans la passe précédente.
+
+**Point d'arrêt.** Passe suivante : Corse-du-Sud reste ouvert ; descendre à Sartène par population si la page de la Ville est lisible, puis Propriano. La passe suivante ne vise pas la Corse deux fois de suite (règle 41.c) : elle doit relire le classement avant tout choix.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
