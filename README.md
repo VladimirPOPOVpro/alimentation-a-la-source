@@ -53110,3 +53110,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante : relire le site de la Ville de Poissy ; si toujours indisponible, Conflans-Sainte-Honorine (chercher un quatrième point vérifié dans la même intercommunalité, règle 52). Mantes-la-Jolie seulement si le site de la Ville est joignable.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 14 novembre 2026 (nuit, Nord (59) reprise, Coudekerque-Branche, Haubourdin et Wattignies sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours reste sans action : doute sur une personne, rien n'est publié. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 93.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Yvelines (Île-de-France) : la région ne peut donc pas être visée à nouveau cette passe (règle 41.c). Le déficit métropolitain le plus fort hors Île-de-France est le Nord (59, ≈ 4,5), dont le point d'arrêt de la passe quarante-sixième prescrivait de tenter Coudekerque-Branche ou Haubourdin avant de changer de département.
+
+**Commune, règle 41.d.** Trois communes sondées sur le web, sans seconde source pour un commerce vérifiable :
+- Coudekerque-Branche : un marché du mardi, mais deux sources donnent deux lieux différents (contradiction consignée, règle 5). Une épicerie coopérative qui « travaille avec des producteurs », sans liste de producteurs ni horaires confirmés ; un magasin bio dont la fiche était fermée à la consultation. Rien de vérifiable en producteur.
+- Haubourdin : une seule entrée de marché sans jour indiqué ; la fiche d'un marché voisin (Hallennes-lez-Haubourdin, jeudi 8h-13h) ne vaut pas pour Haubourdin. Les fermes citées sont à Sainghin-en-Weppes ou à La Chapelle-d'Armentières, hors commune.
+- Wattignies : un seul jour de marché sans jour précisé, source annoncée comme possiblement périmée ; aucune fiche de producteur trouvée dans la commune.
+
+**Décision.** Aucune commune n'atteint cinq commerces vérifiés auprès d'une source indépendante, ni même un point de départ solide. Rien n'est publié, pas de fiche partielle, pas de géocodage ni de photo prélevés pour une fiche non retenue.
+
+**Contradictions** (règle 5) : marché de Coudekerque-Branche, lieu indiqué différemment selon la source de la Ville et l'office de tourisme ; consigné ici, rien publié.
+
+**Pistes non publiées (anonymes).**
+- Coudekerque-Branche (59), marché du mardi : **déblocage** = lieu confirmé par la Ville, et une liste de producteurs présents avec une source datée.
+- Coudekerque-Branche (59), épicerie coopérative : **déblocage** = liste de producteurs fournisseurs, sinon écartée (épicerie, pas un point de vente de producteur).
+- Haubourdin (59) et Wattignies (59) : **déblocage** = un marché daté et au moins deux producteurs nommés par une source indépendante de la commune.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Nord (59) : ne pas revenir sur Wattrelos, Marcq-en-Barœul, Haubourdin ni Wattignies sans nouvelle source. Passe suivante : Coudekerque-Branche, relecture de la source de la Ville pour le lieu du marché. Si le Nord reste sans commune vérifiable, passer au déficit suivant hors Île-de-France (Haute-Garonne et Oise sont déjà listées comme épuisées ou closes ; l'Ille-et-Vilaine et l'Eure-et-Loir restent à sonder).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
