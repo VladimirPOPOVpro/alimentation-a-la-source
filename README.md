@@ -54003,3 +54003,28 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Gironde (33) ouverte pour la passe suivante : commune la plus peuplée sans fiche à identifier dans les données de la passe, puis sondage complet. Passe suivante : ne pas revenir en Nouvelle-Aquitaine avant une autre région, par la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Gironde (33) reprise, Villenave-d'Ornon sondée : aucune publication)
+
+**Secteur, règles 41 et 297.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. Grand Est et Nouvelle-Aquitaine ne sont pas repris ici : la Gironde est la reprise annoncée par la passe précédente. Villenave-d'Ornon (42 545 habitants) est réessayée en tête, comme le prévoit la règle 297 ; le domaine de la Ville répond à nouveau (page d'accueil et pages « Jours de marché » lues).
+
+**Ce qui a été lu.** Site de la Ville (pages « Jours de marché », « Marché de Chambéry », « Marché nocturne du Bourg », « Marché des producteurs de la Ferme de Baugé ») : trois marchés datés du 15/11/2026, dont deux récurrents et un saisonnier. Le registre de la Ville dit qui fait la rubrique ; la BAN géocode la mairie (Villenave-d'Ornon, 33550).
+
+**Ce que la Ville permet de publier.**
+- marché de Chambéry, route de Léognan (au niveau du n° 62), chaque mercredi de 8h à 13h, une dizaine de commerçants ;
+- marché mensuel des producteurs de la Ferme de Baugé, le deuxième samedi du mois ; boutique de la ferme ouverte les mercredis et samedis (10h-12h30, 15h-18h30) ;
+- marché nocturne du Bourg, place Marc Dulout, les jeudis de 17h à 22h d'avril à mi-septembre : **hors saison à la date de la passe**, à publier seulement avec la mention saisonnière.
+
+**Pourquoi rien n'est publié.** Villenave-d'Ornon ne rend que trois fiches vérifiables à une source indépendante (la Ville) et un point de vente déjà repéré (AMAP du stade Brossolette) dont l'image n'est pas permise : la règle 41.d exige cinq commerces. Rien n'est publié : pas de fiche partielle, pas de géocodage ni de photo prélevés. La descente reprend à **La Teste-de-Buch** (27 566), prochaine commune sans fiche.
+
+**Pistes non publiées.**
+- Villenave-d'Ornon (33), marché de Chambéry : **déblocage** = deux commerçants ou plus, ou une seconde source, pour compléter les cinq fiches de la commune.
+- Villenave-d'Ornon (33), marché de la Ferme de Baugé (producteurs adhérents) : **déblocage** = adresse de la ferme confirmée par une source distincte de la page de la Ville.
+- Villenave-d'Ornon (33), marché nocturne du Bourg : **déblocage** = saison (avril-septembre) ; fiche saisonnière à publier à la reprise de la saison.
+- Villenave-d'Ornon (33), AMAP du stade Brossolette : **déblocage** = image permise.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Point d'arrêt.** Gironde (33) ouverte pour la passe suivante : Villenave-d'Ornon est épuisée (règle 297 réessayée), la descente reprend à La Teste-de-Buch (27 566).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
