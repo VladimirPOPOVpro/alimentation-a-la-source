@@ -53679,3 +53679,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Vienne : Loudun éprouvée, descente à six communes sur douze. Passe suivante : reprendre Loudun par le guide 2026 si le PDF est lisible ; sinon Vouneuil-sous-Biard, puis Migné-Auxances.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Calvados (14) reprise, Ouistreham et Mézidon sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` : doute sur une personne, rien n'est publié ni répondu, aucun email envoyé. Compteurs inchangés : en_cours 1, integree 6, refusee 6. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national (68 952 941 habitants), 1 304 fiches comptées sur le code postal. Régions exclues : Nouvelle-Aquitaine, la passe précédente ayant visé la Vienne (règle 41.c). Départements épuisés ou clos, gardés hors du tour : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Seine-Saint-Denis, Hérault, Val-de-Marne, Yvelines, Ille-et-Vilaine, Savoie, Haute-Corse. Premier département éligible : **Calvados (14), déficit ≈ 3,42** (la note de la passe du matin, qui donnait 3,98, n'est pas reproduite par le calcul de cette passe : contradiction consignée, règle 5, sans effet sur le choix). Normandie n'était pas la passe précédente : la règle 41.c ne l'exclut pas. Pour la passe suivante, la Normandie est en revanche exclue.
+
+**Commune, descente (règle 247).** Calvados reprend là où la passe du matin s'est arrêtée : Ifs sondée (déjà épuisée), puis **Ouistreham (9 212 habitants)**, puis Mézidon Vallée d'Auge.
+
+**Ce qui a été lu.**
+- Ouistreham : recherche web. Une source de la Ville (communiqué de mars 2024, donc non actuelle) annonce des marchés du vendredi matin, du mardi et du samedi matin, et du dimanche en haute saison ; aucune page municipale récente ne les confirme. Horaires de la mairie contradictoires entre annuaires (villesavivre, la-mairie.com, La Gazette) : consignés, rien n'en est tiré. Aucun producteur ni point de vente fixe trouvé à une source indépendante.
+- Registre Agence Bio, Calvados, lecture complète (1 371 opérateurs) : à Ouistreham, les opérateurs qui vendent aux particuliers sont des entreprises de préparation ou de stockage, pas des producteurs vérifiables ; le reste est du négoce ou de la vente à des professionnels, écarté (règles 3 et 5 de MODERATION.md).
+- Mézidon Vallée d'Auge : huit opérateurs du registre déclarent une vente aux particuliers dans la commune ou dans les communes voisines. Recherche web sur quatre d'entre eux (GAEC et SCEA, dénominations d'entreprise) : aucune source indépendante ni site exploitable ; l'annuaire « Bienvenue à la ferme » n'apparaît pas dans les résultats ; le registre ne donne ni site ni téléphone pour la plupart. Un marché de Mézidon est mentionné par l'office de tourisme Lisieux Normandie, sans jour ni liste de producteurs.
+
+**Pourquoi rien n'est publié.** Ouistreham ne rend aucun producteur vérifiable ; Mézidon rend des exploitations inscrites au registre mais sans source indépendante lisible, et il manque au moins quatre fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Ouistreham, marchés du vendredi, du mardi, du samedi et du dimanche (source de la Ville, 2024) : **déblocage** = page marchés de la Ville à jour, ou liste des exposants producteurs.
+- Mézidon Vallée d'Auge, quatre exploitations agricoles inscrites au registre comme vendant aux particuliers, sans site ni source indépendante (une EARL-type, deux GAEC ou SCEA, une société « de la vie » sans site) : **déblocage** = fiche de l'annuaire « Bienvenue à la ferme » ou de la Chambre d'agriculture du Calvados, ou site de l'exploitation.
+- Mézidon Vallée d'Auge, marché mentionné par l'office de tourisme Lisieux Normandie : **déblocage** = jours et liste des producteurs publiés par la commune.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Mézidon Vallée d'Auge (opérateurs inscrits sous un nom patronymique d'entreprise individuelle ou de personne physique). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Calvados : déficit 3,98 (note du matin) contre 3,42 (calcul de cette passe) ; horaires de la mairie d'Ouistreham divergents entre trois annuaires. Consignées, non tranchées.
+
+**Point d'arrêt.** Calvados : Ouistreham éprouvée (une commune sur douze), Mézidon Vallée d'Auge à reprendre à la passe suivante, en interrogeant d'abord le registre Agence Bio pour les quatre exploitations citées, puis l'annuaire « Bienvenue à la ferme ». La passe suivante ne vise pas la Normandie (règle 41.c) : elle recalcule le classement et reprend là où celle-ci s'est arrêtée (règle 247), donc Calvados ne revient qu'à la passe d'après, sauf si le classement ne l'impose pas.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
