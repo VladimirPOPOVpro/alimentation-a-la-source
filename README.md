@@ -53987,3 +53987,19 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Haute-Marne ouverte pour une passe ultérieure, sur Saint-Dizier (mairie et site de la Ville pour le marché) puis Chaumont. Passe suivante : ne pas revenir sur la Haute-Marne avant une autre région, par la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Grand Est exclu, secteur calculé, Gironde (33) visée : aucune publication)
+
+**Secteur, règles 41 et 41.c.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Marne (Grand Est) : cette région est exclue par la règle 41.c, donc le Bas-Rhin (67, déficit ≈ 3,94) aussi. Restent écartés ou épuisés : Seine-et-Marne, Pas-de-Calais, Haute-Corse, Corse-du-Sud, Loiret, Eure-et-Loir, Finistère, Ain (dix fiches déjà publiées, Bourg-en-Bresse instruite), Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Rhône, Hérault, Seine-Saint-Denis, Yvelines, Val-de-Marne, Calvados, Vienne, Seine-Maritime, Ille-et-Vilaine. Premier département ouvert hors Grand Est : **Gironde (33)**, Nouvelle-Aquitaine, déficit ≈ 3,32, trente fiches publiées.
+
+**Ce qui a été fait.** Le secteur a été calculé, puis le registre Agence Bio de l'Ain relu pour vérifier l'état du département ; la Gironde n'a pas été sondée à ce stade. Aucune commune de la Gironde n'a été instruite, aucune fiche vérifiée, aucun géocodage ni aucune photo prélevés.
+
+**Pourquoi rien n'est publié.** Aucune commune de la passe n'a été sondée jusqu'à cinq commerces vérifiables : la passe s'arrête au calcul du secteur, faute de temps d'instruction dans ce passage.
+
+**Pistes non publiées.** Aucune nouvelle piste.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Point d'arrêt.** Gironde (33) ouverte pour la passe suivante : commune la plus peuplée sans fiche à identifier dans les données de la passe, puis sondage complet. Passe suivante : ne pas revenir en Nouvelle-Aquitaine avant une autre région, par la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
