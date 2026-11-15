@@ -53609,3 +53609,21 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Aucune nouvelle tranchée. La contradiction sur la règle 41 est déjà consignée plus haut.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Bas-Rhin (67) reprise, Illkirch-Graffenstaden sondée : rien publié)
+
+**Backlog.** Vide. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue. Le Nord, la Haute-Garonne, le Rhône, l'Isère, la Seine-Saint-Denis, l'Oise, la Loire, l'Hérault, le Val-de-Marne, les Yvelines et l'Ille-et-Vilaine sont épuisés ou clos. Le Bas-Rhin (67, Grand Est) reste ouvert, déficit ≈ 3,75.
+
+**Commune, règle 41.d.** Illkirch-Graffenstaden (27 872 habitants), la suivante sans fiche dans le Bas-Rhin.
+
+**Ce qui a été lu.** Recherche web : le magazine municipal évoque un point de vente direct en circuit court sans nom ni adresse ; une AMAP est citée à Truttenhausen sous une correspondance à vérifier ; le guide « mangeons local » de l'Eurométropole et l'annuaire de marchés ne sont pas lisibles dans les extraits ; une boutique de la commune revendique 180 producteurs mais c'est un commerce, pas un producteur ou un marché. Aucune source municipale lisible ne nomme cinq points de vente vérifiables.
+
+**Pourquoi rien n'est publié.** Aucun point de vente vérifié à une source indépendante lisible ; il manque au moins quatre fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).** Illkirch-Graffenstaden, point de vente direct du magazine municipal (n° 339) : **déblocage** = lieu et nom publiés par la Ville ou la Chambre d'agriculture. Truttenhausen, AMAP : **déblocage** = fiche de l'AMAP lisible.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
