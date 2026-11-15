@@ -53839,3 +53839,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Calvados : Ifs, Ouistreham, Mézidon Vallée d'Auge et Hérouville-Saint-Clair éprouvées, quatre communes sur douze. Passe suivante : reprendre à Lisieux (14366, 19 645 habitants), commune sans fiche suivante par population, en s'appuyant sur le site de la ville et l'office de tourisme Lisieux Normandie.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Oise (60) visé, Nogent-sur-Oise sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en_cours (#13, commerce présenté sous un prénom seul) : elle n'est pas publiée, le doute porte sur une personne ; rien n'est écrit de plus ici. Compteurs : en_cours 1, integree 6, refusee 6. Pas d'email à envoyer.
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, population par département (geo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal. Les déficits ultramarins sont écartés (règle 93) ; le Nord reste en veille (règle 41.e) ; la passe précédente visait le Calvados (Normandie), région exclue par la réserve 41.c ; la Haute-Garonne, la Loire, l'Isère, le Rhône, la Seine-Saint-Denis, l'Hérault, le Val-de-Marne, les Yvelines, l'Ille-et-Vilaine, la Savoie et la Haute-Corse sont épuisés ou clos. Premier département éligible : **Oise (60), déficit ≈ 3,69**, 12 fiches.
+
+**Commune, règle 41.d.** Commune la plus peuplée de l'Oise sans aucune fiche : **Nogent-sur-Oise (60180, 21 907 habitants)**. Beauvais, Compiègne, Creil, Clermont et Margny-lès-Compiègne ont déjà des fiches et ne sont pas reprises ici.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise : 613 opérateurs lus en entier. À Nogent-sur-Oise, aucun producteur à vente directe : une grande enseigne de distribution et un discounter (hors cadre), deux entreprises de préparation sans vente au public, une société de préparation sans vente, et une entreprise individuelle inscrite sous un nom de personne physique, écartée pour doute sur une personne (règle 6). Une structure « Oise culture forêt comestible » est domiciliée à Rieux, hors commune.
+- Site officiel de la ville (nogentsuroise.fr) : aucune rubrique marchés ni producteurs. Il mentionne seulement le Marché couvert et la place Borton, sans liste d'exposants.
+- Annuaire participatif jours-de-marche.fr : deux marchés, le vendredi, l'un de 8h à 13h place Borton et l'autre de 14h à 19h place des Trois Rois. Date de mise à jour absente, et la fiche n'énumère aucun producteur : ni le jour ni le lieu ne suffisent à une fiche (règle 5 et règle 52).
+- Recherches web : aucune AMAP, aucun magasin de producteurs ni point de vente à la ferme identifié dans la commune. La ferme pédagogique municipale est un lieu éducatif, sans vente. Une ferme de Rousseloy est à 5,4 km, hors commune (règle 96 : rattachement non démontré).
+- Document de producteurs du Parc naturel Oise – Pays de France : illisible (PDF non extractible), donc non exploité.
+
+**Pourquoi rien n'est publié.** Nogent-sur-Oise ne rend aucun commerce de producteur vérifiable à une source indépendante. Il manque au moins quatre fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Nogent-sur-Oise, marché de la place Borton (vendredi matin) : **déblocage** = liste des exposants producteurs et date de mise à jour publiées par la ville ou la Chambre d'agriculture.
+- Nogent-sur-Oise, marché des Trois Rois (vendredi après-midi) : **déblocage** = confirmation de la tenue du marché par la ville, avec la liste des producteurs.
+- Nogent-sur-Oise, entreprise individuelle du registre Agence Bio, inscrite sous un nom de personne physique : écartée pour doute sur une personne. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Nogent-sur-Oise (entreprise individuelle inscrite sous un nom de personne). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Aucune retenue.
+
+**Point d'arrêt.** Oise : Nogent-sur-Oise éprouvée, une commune sur douze. Passe suivante : Oise reprise à Nogent-sur-Oise (règle 247, descente à poursuivre) ; si le classement l'impose, la réserve 41.c s'applique à la région Hauts-de-France.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
